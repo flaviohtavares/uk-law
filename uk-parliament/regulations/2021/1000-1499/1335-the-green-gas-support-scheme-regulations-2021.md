@@ -50,20 +50,20 @@ In accordance with section 148A(1)(a) of the Government of Wales Act 2006[^f0000
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-e4caab8dfc26f9b7e7c88481fd5ad3df]
+### 1. Citation, commencement and extent[^c-e4caab8dfc26f9b7e7c88481fd5ad3df]
 
 (1) These Regulations may be cited as the Green Gas Support Scheme Regulations 2021 and come into force on the day after the day on which they are made.
 
 (2) These Regulations extend to England and Wales and Scotland.
 
-### 2. Interpretation[^key-d8e36b8c1ee44ddbcdfa74bda1ddbbdc]
+### 2. Interpretation[^c-d8e36b8c1ee44ddbcdfa74bda1ddbbdc]
 
 (1) In these Regulations—
 
 - “**acceptable letter of credit**” has the meaning given in regulation 43(3);
 - “additional biomethane[^f00004]” has the meaning given in regulation 8(7)(a);
 - “**additional credit cover**” has the meaning given in regulation 52(1)(c);
-- “[^key-63224700ea0062cfe350c7b21b06109e]**air source heat pump**” means a plant which generates heat using a thermodynamic cycle by transferring energy stored in the form of heat in the ambient air and uses that energy to heat a liquid;
+- “[^c-63224700ea0062cfe350c7b21b06109e]**air source heat pump**” means a plant which generates heat using a thermodynamic cycle by transferring energy stored in the form of heat in the ambient air and uses that energy to heat a liquid;
 - “**anaerobic digester**” means a plant which produces biogas[^f00005] by anaerobic digestion;
 - “**anaerobic digestion**” means the bacterial fermentation of biomass[^f00006] in the absence of oxygen;
 - “**applicant**” means a person who makes an application for a tariff guarantee, or an application for registration under regulation 5;
@@ -81,7 +81,7 @@ In accordance with section 148A(1)(a) of the Government of Wales Act 2006[^f0000
 - “**credit cover requirement**” has the meaning given in regulation 41;
 - “**current information**” means information which is no more than five working days out of date;
 - “**date of registration**”, in relation to a producer of biomethane, means the first day which falls on or after the date of receipt by the Authority[^f00009] of the application for registration on which the application was, in the Authority’s opinion, properly made;
-- “[^key-a87379b84f8bfd157adcf460b6c4d05e]**de minimis amount**” has the meaning given in regulation 43A(1);
+- “[^c-a87379b84f8bfd157adcf460b6c4d05e]**de minimis amount**” has the meaning given in regulation 43A(1);
 - “**digestate**” means any substance, except biogas, which is generated from an anaerobic digester;
 - “**eligible biomethane**” has the meaning given in regulation 27(2);
 - “**eligible heat pump**” has the meaning given in regulation 8A(8);
@@ -92,7 +92,7 @@ In accordance with section 148A(1)(a) of the Government of Wales Act 2006[^f0000
 - “**equipment used to produce biomethane**” means the equipment integral to the production of biomethane for injection, including any anaerobic digester;
 - “**exempt supplier**” has the meaning given in regulation 38(10)(c)(i);
 - “**existing credit cover**” has the meaning given in regulation 42(6);
-- “[^key-07d36532ae424e9e984953f4930fe1dc]**final quarterly levy payment**” has the meaning given in regulation 51(7)(a);
+- “[^c-07d36532ae424e9e984953f4930fe1dc]**final quarterly levy payment**” has the meaning given in regulation 51(7)(a);
 - “**financial penalty**” means a financial penalty imposed in accordance with regulation 57;
 - “**financial year**” means a 12 month period beginning with 1st April and ending with the following 31st March;
 - “**gas transporter**” means the holder of a licence granted under section 7 of the Gas Act 1986[^f00013];
@@ -101,7 +101,7 @@ In accordance with section 148A(1)(a) of the Government of Wales Act 2006[^f0000
 - “**GWh**” means gigawatt hours;
 - “**initial tariff**” means the tiered tariff calculated in accordance with regulation 22;
 - “**injection**” means the introduction of gas into a pipe-line system operated by a gas transporter, and “**injected**” is to be construed accordingly;
-- “[^key-f8d64c42cbdb2a2360e72d15981f83ea]**in lieu amount**” has the meaning given in regulation 51(7C)(b);
+- “[^c-f8d64c42cbdb2a2360e72d15981f83ea]**in lieu amount**” has the meaning given in regulation 51(7C)(b);
 - “**kWh**” means kilowatt hours;
 - “**kWhth**” means kilowatt hours thermal;
 - “**levy credit payment**” has the meaning given in regulation 42(2)(a)(iii);
@@ -139,7 +139,7 @@ In accordance with section 148A(1)(a) of the Government of Wales Act 2006[^f0000
 - “**scheme supplier**” has the meaning given in regulation 38;
 - “**scheme year**” means—
   - (a) the period beginning with 30th November 2021 and ending with 31st March 2022 (“the first scheme year”),
-  - (b) the financial year beginning with 1st April in any of the years 2022 to 2042[^key-0e6c0f6a389c17176825969331640cce];
+  - (b) the financial year beginning with 1st April in any of the years 2022 to 2042[^c-0e6c0f6a389c17176825969331640cce];
 - “**shared ground loop system**” means a system in which a ground loop provides heat energy through a hydraulic connection to two or more ground source heat pumps;
 - “**subsequent tariff**” means the tiered tariff calculated in accordance with regulation 25;
 - “**tariff**” means the payment rate per kWh in respect of biomethane injection;
@@ -159,19 +159,19 @@ In accordance with section 148A(1)(a) of the Government of Wales Act 2006[^f0000
 
 (2) Except in regulation 4 (application for tariff guarantee and budget allocation) and 28 (reconciliation payments), where these Regulations provide for a figure to be rounded, that figure must be rounded to the nearest hundredth of a penny, with any two hundredth of a penny being rounded upwards.
 
-### 3. The Green Gas Support Scheme[^key-6ed87babf15095d1ba0b391145be3a21]
+### 3. The Green Gas Support Scheme[^c-6ed87babf15095d1ba0b391145be3a21]
 
 A scheme to be known as the Green Gas Support Scheme, which is a scheme to facilitate and encourage the production of biomethane for injection by anaerobic digestion (“**the Scheme**”)[^f00020], is established in accordance with these Regulations.
 
 ## PART 2 — Registration of participants and tariff guarantees
 
-### 4. Application for tariff guarantee and budget allocation[^key-0117ee0487ba9e2573cd87cf1c308f84]
+### 4. Application for tariff guarantee and budget allocation[^c-0117ee0487ba9e2573cd87cf1c308f84]
 
 (1) Subject to paragraph (2), a person who produces, or proposes to produce, biomethane for injection by anaerobic digestion may make an application for a tariff guarantee in respect of the production of that biomethane, in accordance with this regulation.
 
 (2) A person may not make an application for a tariff guarantee under paragraph (1) in respect of the production of biomethane—
 
-- (a) if the date on which they expect the injection of that biomethane to commence is later than 31st March 2028[^key-5c8360ad47348b11905e76a6b761b8b7], or
+- (a) if the date on which they expect the injection of that biomethane to commence is later than 31st March 2028[^c-5c8360ad47348b11905e76a6b761b8b7], or
 - (b) using equipment used to produce biomethane—
   - (i) where a person is, or has been, registered under regulation 25 of the Renewable Heat Incentive Scheme Regulations 2011[^f00021] or regulation 32 of the Renewable Heat Incentive Scheme Regulations 2018[^f00022] (“RHI registration”) in respect of the production of biomethane using that equipment,
   - (ii) where a person has made an application for RHI registration in respect of the production of biomethane using that equipment, and the application has not yet been determined,
@@ -224,7 +224,7 @@ A scheme to be known as the Green Gas Support Scheme, which is a scheme to facil
   - (iv) the Authority considers that the production and injection of biomethane is materially different from the production and injection of biomethane which was proposed under paragraph (4), and
 - (b) must revoke a tariff guarantee where the tariff start date in relation to a producer of biomethane is—
   - (i) 183 or more days after the date given in accordance with paragraph (4)(a), or
-  - (ii)[^key-de25a9d7b013f1489cf527ca488402f0] where the application for the tariff guarantee was made before 4th June 2024, after 30th November 2025 and for all other applications, after 31st March 2028,
+  - (ii)[^c-de25a9d7b013f1489cf527ca488402f0] where the application for the tariff guarantee was made before 4th June 2024, after 30th November 2025 and for all other applications, after 31st March 2028,
 
 whichever is the earlier.
 
@@ -236,9 +236,9 @@ whichever is the earlier.
   - (iii) the source of energy and technology or design of the plant, and
 - (b) the maximum initial capacity of biomethane is materially different where it is at least 10% greater or smaller than the expected maximum initial capacity proposed under paragraph (4)(b).
 
-(9) Subject to paragraphs (10) and (11), where a producer of biomethane in respect of which a tariff guarantee has been granted becomes registered under regulation 6, the tariff applicable at the tariff start date is the initial tariff which would have applied in accordance with regulation 22 (calculation of initial tariffs and tariff review) had the tariff start date been the date referred to in paragraph (5)(d), adjusted , where appropriate, in accordance with paragraph (9A)[^key-124c816950d3c17ecc7e5e63e448b013] (the “guaranteed tariff”).
+(9) Subject to paragraphs (10) and (11), where a producer of biomethane in respect of which a tariff guarantee has been granted becomes registered under regulation 6, the tariff applicable at the tariff start date is the initial tariff which would have applied in accordance with regulation 22 (calculation of initial tariffs and tariff review) had the tariff start date been the date referred to in paragraph (5)(d), adjusted , where appropriate, in accordance with paragraph (9A)[^c-124c816950d3c17ecc7e5e63e448b013] (the “guaranteed tariff”).
 
-(9A)[^key-dcdf157518b373935b616f69b827e73c] Subject to paragraph (9B), if the date referred to in paragraph 5(d) (“the guarantee date”) and the tariff start date are in different financial years, the initial tariff calculated in accordance with paragraph (9) must be adjusted by the percentage increase or decrease in the consumer prices index in the period beginning with 1st January immediately preceding the financial year in which the guarantee date falls and ending with 31st December immediately preceding the financial year in which the tariff start date falls.
+(9A)[^c-dcdf157518b373935b616f69b827e73c] Subject to paragraph (9B), if the date referred to in paragraph 5(d) (“the guarantee date”) and the tariff start date are in different financial years, the initial tariff calculated in accordance with paragraph (9) must be adjusted by the percentage increase or decrease in the consumer prices index in the period beginning with 1st January immediately preceding the financial year in which the guarantee date falls and ending with 31st December immediately preceding the financial year in which the tariff start date falls.
 
 (9B) For the purposes of the adjustment under paragraph (9A), any increase or decrease in the consumer prices index in the calendar year ending on 31st December 2021 is to be disregarded.
 
@@ -296,13 +296,13 @@ whichever is the earlier.
 
   - “**first financial year**” means the financial year in which—
     - (i) in the case of an application for a tariff guarantee, the equipment used to produce biomethane was commissioned, or the applicant expects the equipment used to produce biomethane to be commissioned (as the case may be), and
-    - (ii) in the case of an application for registration in respect of additional biomethane, periodic support payments for that additional biomethane are expected to become payable, having regard to regulation 8(5)(a),[^key-6d432112349f6b15f51e975c5f61f935]
-  - D is[^key-ef249ee15481861b452a242a717d45c4]
+    - (ii) in the case of an application for registration in respect of additional biomethane, periodic support payments for that additional biomethane are expected to become payable, having regard to regulation 8(5)(a),[^c-6d432112349f6b15f51e975c5f61f935]
+  - D is[^c-ef249ee15481861b452a242a717d45c4]
     - (i) in the case of an application for a tariff guarantee, the number of days in the financial year beginning with the date on which the injection of original biomethane commenced or the applicant expects the injection of original biomethane to commence (as the case may be), and
     - (ii) in the case of an application for registration in respect of additional biomethane, the number of days in the financial year beginning with the date on which periodic support payments for that additional biomethane are expected to become payable, having regard to regulation 8(5)(a),
   - F is 9.1[^f00023],
   - I is the estimate of inflation for that financial year, published by the Secretary of State,
-  - P is the average of the quarterly biomethane production factors for all applicable quarters of the relevant financial year, beginning in the case of the first financial year[^key-72ce577d2dd5a0c13fa534fbe19e17a4] with the date on which the injection of original biomethane commenced [^key-e91bfd54739bd7b2cf78fa4ab18295fd]..., the applicant expects the injection of original biomethane to commence, or periodic support payments for additional biomethane are expected to become payable, having regard to regulation 8(5)(a)[^key-84d79fe038e5e8bfed960d7627ccd5ce] (as the case may be), expressed as a decimal and rounded to four decimal places,
+  - P is the average of the quarterly biomethane production factors for all applicable quarters of the relevant financial year, beginning in the case of the first financial year[^c-72ce577d2dd5a0c13fa534fbe19e17a4] with the date on which the injection of original biomethane commenced [^c-e91bfd54739bd7b2cf78fa4ab18295fd]..., the applicant expects the injection of original biomethane to commence, or periodic support payments for additional biomethane are expected to become payable, having regard to regulation 8(5)(a)[^c-84d79fe038e5e8bfed960d7627ccd5ce] (as the case may be), expressed as a decimal and rounded to four decimal places,
   - T is the guaranteed tariff which will apply if the producer of biomethane becomes registered under regulation 6, or the tariff which will apply if the participant is registered in respect of additional biomethane under that regulation (as the case may be),
   - V is the maximum volume expressed in cubic metres of eligible biomethane which—
     - (i) in the case of an application for a tariff guarantee, the applicant can inject each year, based on data from the relevant connection agreement,
@@ -316,9 +316,9 @@ whichever is the earlier.
 - “**financial close**” means the date on which the applicant has entered into all financing agreements in relation to all the funding required for the production and injection of biomethane;
 - “**maximum initial capacity**” means the maximum volume of biomethane, expressed in cubic metres per year, which a participant is entitled to supply for injection under the network entry agreement applicable to the biomethane in relation to which an application for registration under regulation 5 is made;
 - “**quarterly biomethane production factors**” means the percentage of their maximum initial capacity or their maximum additional capacity (as the case may be) that a participant is expected to supply for injection in each quarter, beginning with the first quarter in which they are registered as a participant or in which they are registered in respect of the additional biomethane (as the case may be);
-- “**relevant financial year**” means any of the financial years 2021/2022, 2022/2023, 2023/2024, 2024/2025, [^key-436122c9612e2d67cc3dc461756ede5b]... 2025/2026 , 2026/2027[^key-0d5a42910d29e9bf7b1e0f8733e8a423] [^key-54228e38a980b0ccaf45b5995cdc5a73]... 2027/2028 , 2028/2029 and 2029/2030[^key-e2ac72e22b57cdc78c3695533687a460].
+- “**relevant financial year**” means any of the financial years 2021/2022, 2022/2023, 2023/2024, 2024/2025, [^c-436122c9612e2d67cc3dc461756ede5b]... 2025/2026 , 2026/2027[^c-0d5a42910d29e9bf7b1e0f8733e8a423] [^c-54228e38a980b0ccaf45b5995cdc5a73]... 2027/2028 , 2028/2029 and 2029/2030[^c-e2ac72e22b57cdc78c3695533687a460].
 
-### 5. Application for registration as a participant[^key-79dc016673d68ece04d52156035dcefd]
+### 5. Application for registration as a participant[^c-79dc016673d68ece04d52156035dcefd]
 
 (1) A producer of biomethane who has been granted a tariff guarantee which has not been revoked may apply to the Authority to be registered as a participant in relation to the equipment used to produce biomethane to which that tariff guarantee applies.
 
@@ -343,7 +343,7 @@ whichever is the earlier.
 
 (6) The Authority may by notice extend the period specified in a notice under paragraph (5)(b) where it is satisfied that it is reasonable to do so.
 
-### 6. Determination of application for registration and the central register[^key-2334780714930b92eaaa9a954021c5d7]
+### 6. Determination of application for registration and the central register[^c-2334780714930b92eaaa9a954021c5d7]
 
 (1) The Authority must maintain a register of participants (the “central register”), and ensure, so far as practicable, that entries in the central register are accurate and up to date.
 
@@ -370,10 +370,10 @@ whichever is the earlier.
 - (a) the applicant has specified the equipment used to produce biomethane to which the application relates,
 - (b) at the time of making the application, the relevant equipment used to produce biomethane has been commissioned,
 - (c) any necessary planning permission has been granted in respect of the processes by which the biogas which is used to produce the biomethane is produced, the biogas is upgraded to biomethane, or the biomethane is injected,
-- (d) any authorisations[^key-18ffbdefdbaae8a9c4693dd2d5463a55], in respect of the processes by which the biogas which is used to produce the biomethane is produced, the biogas is upgraded to biomethane, or the biomethane is injected—
+- (d) any authorisations[^c-18ffbdefdbaae8a9c4693dd2d5463a55], in respect of the processes by which the biogas which is used to produce the biomethane is produced, the biogas is upgraded to biomethane, or the biomethane is injected—
   - (i) have been granted, or
-  - (ii) have been applied for in accordance with the Environmental Permitting (England and Wales) Regulations 2016, the Environmental Authorisations (Scotland) Regulations 2018[^key-dd6212e203a33bb400ef33970914e10b], and the applications have been accepted by the Environment Agency, the Natural Resources Body for Wales, or the Scottish Environment Protection Agency, as appropriate, but have not yet been determined, where—
-    - (aa) the Environment Agency, the Natural Resources Body for Wales, or the Scottish Environment Protection Agency has published (and has not withdrawn) a regulatory position statement[^f00024], or other formal statement, affecting applications for authorisations[^key-07b4f2c4cdf22a67eee80799186190ce], and
+  - (ii) have been applied for in accordance with the Environmental Permitting (England and Wales) Regulations 2016, the Environmental Authorisations (Scotland) Regulations 2018[^c-dd6212e203a33bb400ef33970914e10b], and the applications have been accepted by the Environment Agency, the Natural Resources Body for Wales, or the Scottish Environment Protection Agency, as appropriate, but have not yet been determined, where—
+    - (aa) the Environment Agency, the Natural Resources Body for Wales, or the Scottish Environment Protection Agency has published (and has not withdrawn) a regulatory position statement[^f00024], or other formal statement, affecting applications for authorisations[^c-07b4f2c4cdf22a67eee80799186190ce], and
     - (bb) the processes are within the scope of that statement, and
 - (e) the applicant provides a declaration that the processes by which—
   - (i) the biogas which is used to produce the biomethane is produced,
@@ -389,7 +389,7 @@ whichever is the earlier.
 - (c) where the applicant refused to allow the Authority access for the purposes of an inspection under regulation 5(3), and—
   - (i) the Authority is not satisfied that the refusal was reasonable, and
   - (ii) any subsequent access granted by the applicant for the purposes of an inspection was not sufficient to enable the Authority to satisfy itself that the applicant should be registered as a participant, or
-- (d) after 31st March 2028[^key-b0ca3b331c727dd559d3e153a2b1f5e3].
+- (d) after 31st March 2028[^c-b0ca3b331c727dd559d3e153a2b1f5e3].
 
 (7) The Authority may refuse to register an applicant as a participant—
 
@@ -400,7 +400,7 @@ whichever is the earlier.
 
 (8) Where the Authority does not register an applicant as a participant, it must notify the applicant in writing that the application for registration has been rejected, giving reasons.
 
-### 7. Treatment of grants from public funds[^key-4178cb80ddc5a336a4be1cd3eaf82329]
+### 7. Treatment of grants from public funds[^c-4178cb80ddc5a336a4be1cd3eaf82329]
 
 (1) Subject to paragraphs (2) and (6), the Authority must not register an applicant as a participant in respect of any original biomethane or additional biomethane unless the applicant has given notice (which the Authority has no reason to believe is incorrect) that, as applicable—
 
@@ -419,7 +419,7 @@ the Authority may register the applicant as a participant, but a grant funding d
 (3) This paragraph applies where—
 
 - (a) a grant originates from funds raised by the National Lottery, and
-- (b) on or after 30th November 2021 but not later than 31st March 2028[^key-6136b3e3c953ee2ebc4235893aaa5889] installation of the equipment used to produce biomethane was completed and injection of biomethane produced by that applicant has commenced.
+- (b) on or after 30th November 2021 but not later than 31st March 2028[^c-6136b3e3c953ee2ebc4235893aaa5889] installation of the equipment used to produce biomethane was completed and injection of biomethane produced by that applicant has commenced.
 
 (4) A grant funding deduction for each quarter is calculated in accordance with the following formula—
 
@@ -444,12 +444,12 @@ where A is—
 - “**grant funding shortfall**” means the amount by which the grant funding deduction exceeds the periodic support payment in any quarter, and
 - “**National Lottery**” means the National Lottery as referred to in section 1 of the National Lottery etc. Act 1993[^f00025].
 
-### 8. Additional capacity for biomethane production[^key-ecbc70a2f0e223dcd3d601f8857b7ed2]
+### 8. Additional capacity for biomethane production[^c-ecbc70a2f0e223dcd3d601f8857b7ed2]
 
 (1) A participant who—
 
 - (a) is producing or intends to produce additional biomethane for injection by anaerobic digestion, and
-- (b) expects the injection of that additional biomethane to commence no later than 31st March 2028[^key-b60ba92b4be1c9e13d06ec918cc8549f],
+- (b) expects the injection of that additional biomethane to commence no later than 31st March 2028[^c-b60ba92b4be1c9e13d06ec918cc8549f],
 
 may apply to the Authority to be registered in respect of that additional biomethane.
 
@@ -484,7 +484,7 @@ may apply to the Authority to be registered in respect of that additional biomet
 
 (8) Where the Authority does not register a participant in respect of additional biomethane, it must notify the participant in writing that the application for registration in respect of additional biomethane has been rejected, giving reasons.
 
-### 8A. Registration of eligible heat pumps[^key-b41b4b21d84cf3438880be9fd315d735]
+### 8A. Registration of eligible heat pumps[^c-b41b4b21d84cf3438880be9fd315d735]
 
 (1) An applicant or participant who is using an air source heat pump, or a ground source heat pump in the production of biomethane, may apply to the Authority to have that heat pump registered as an eligible heat pump.
 
@@ -525,7 +525,7 @@ the Authority must remove the registration of that heat pump as an eligible heat
 
 ## PART 3 — Ongoing obligations on participants
 
-### 9. Ongoing participant obligations: biomethane[^key-7fd5760cf0dcf5aa506bdcc4d3556b9c]
+### 9. Ongoing participant obligations: biomethane[^c-7fd5760cf0dcf5aa506bdcc4d3556b9c]
 
 (1) A participant may only use biomethane which—
 
@@ -566,9 +566,9 @@ the Authority must remove the registration of that heat pump as an eligible heat
 - (a) the gross calorific value and volume of biomethane injected,
 - (b) the gross calorific value and volume of any propane contained in the biomethane,
 - (c) the kWh of biomethane injected, together with supporting meter readings and calculations,
-- (d) the kWhth of heat supplied to every anaerobic digester (other than heat contained in feedstock to produce biogas by anaerobic digestion) which made the biogas used in any quarter to produce biomethane for injection, [^key-973507e32b6d9890d39de100135b2a6b]...
-- (e) any heat supplied to the biomethane production process , and[^key-dd379cd5c6b87d61a3ce0f128ae128b0]
-- (f)[^key-cd8c024d9c22dcead1d2fdbc46b1237a] the kWh of electrical input supplied to any eligible heat pump.
+- (d) the kWhth of heat supplied to every anaerobic digester (other than heat contained in feedstock to produce biogas by anaerobic digestion) which made the biogas used in any quarter to produce biomethane for injection, [^c-973507e32b6d9890d39de100135b2a6b]...
+- (e) any heat supplied to the biomethane production process , and[^c-dd379cd5c6b87d61a3ce0f128ae128b0]
+- (f)[^c-cd8c024d9c22dcead1d2fdbc46b1237a] the kWh of electrical input supplied to any eligible heat pump.
 
 (11) The measurements referred to in paragraph (10) may be estimated if the Authority has agreed in writing to an estimate being provided and to the way in which those estimates are to be calculated, provided that estimated measurements may only be used by a participant in relation to a maximum of six quarters.
 
@@ -589,7 +589,7 @@ the Authority must remove the registration of that heat pump as an eligible heat
 - (a) keep, and provide to the Authority upon request, copies or details of arrangements made to spread digestate, and
 - (b) annually, and within 3 months after each anniversary of the date on which they were first registered as a participant, provide the Authority with a declaration which states that the participant has complied with the obligations in paragraph (13).
 
-### 10. Ongoing participant obligations: general[^key-7f2ebe1442e84e60fcafa2290aa5ce9c]
+### 10. Ongoing participant obligations: general[^c-7f2ebe1442e84e60fcafa2290aa5ce9c]
 
 (1) A participant must comply with the following ongoing participant obligations, as applicable—
 
@@ -600,12 +600,12 @@ the Authority must remove the registration of that heat pump as an eligible heat
 - (e) they must comply with any condition attached to their registration,
 - (f) they must allow the Authority or its authorised agent reasonable access in accordance with regulation 36 (power to inspect equipment),
 - (g) they must notify the Authority as soon as reasonably practicable and within no more than 28 days after ceasing to comply with an ongoing participant obligation or becoming aware that they will not be able so to comply, or where there has been any change in circumstances which may affect their eligibility to receive periodic support payments,
-- (ga)[^key-981215d5619413a40a87ac715f565ca3] they must notify the Authority if they have installed a ground source heat pump or air source heat pump or both for use in the production of biomethane within 28 days of the heat pump being installed,
+- (ga)[^c-981215d5619413a40a87ac715f565ca3] they must notify the Authority if they have installed a ground source heat pump or air source heat pump or both for use in the production of biomethane within 28 days of the heat pump being installed,
 - (h) they must repay any overpayment in accordance with any notice served under regulation 34 (overpayment notices and offsetting),
 - (i) they must comply with such other requirements as the Authority may specify in relation to the effective administration of the Scheme,
 - (j) they must ensure, in respect of the processes by which the biogas used to produce the biomethane is produced, the biogas is upgraded to biomethane, and the biomethane is injected—
   - (i) that any necessary planning permission required under regulation 6(5)(c) continues to be complied with,
-  - (ii) that, unless regulation 6(5)(d)(ii) applies, any necessary environmental permit granted in accordance with the Environmental Permitting (England and Wales) Regulations 2016 or any authorisation granted (or treated as granted) under the Environmental Authorisations (Scotland) Regulations 2018[^key-76c698b93b41437f0b7ca52f5098fdff], continues to be complied with, and
+  - (ii) that, unless regulation 6(5)(d)(ii) applies, any necessary environmental permit granted in accordance with the Environmental Permitting (England and Wales) Regulations 2016 or any authorisation granted (or treated as granted) under the Environmental Authorisations (Scotland) Regulations 2018[^c-76c698b93b41437f0b7ca52f5098fdff], continues to be complied with, and
   - (iii) that all local and national laws including those relating to the protection of the environment continue to be complied with,
 - (k) where regulation 28 (reconciliation payments) applies, the participant must comply with the following obligations in relation to each payment year (within the meaning of that regulation)—
   - (i) the participant must provide a declaration to the Authority following the end of each payment year stating the proportion of the total biogas yield for that payment year which is not derived from waste or residue, and
@@ -621,7 +621,7 @@ the Authority must remove the registration of that heat pump as an eligible heat
 
 and must retain evidence of this while they are a participant.
 
-### 11. Ongoing participant obligations: the provision of information[^key-dd41c38e829184d3f6f73a836fd9d540]
+### 11. Ongoing participant obligations: the provision of information[^c-dd41c38e829184d3f6f73a836fd9d540]
 
 (1) A participant must provide to the Authority on request any information which the participant holds and which the Authority requires in order to discharge its functions under these Regulations.
 
@@ -632,7 +632,7 @@ and must retain evidence of this while they are a participant.
 
 (3) Information requested under paragraph (1) must be provided within such time as the Authority specifies.
 
-### 12. Ongoing participant obligations: sustainability[^key-8d4a76a118951969a9474f0ac8d04f0e]
+### 12. Ongoing participant obligations: sustainability[^c-8d4a76a118951969a9474f0ac8d04f0e]
 
 (1) A participant must only produce for injection sustainable biomethane.
 
@@ -708,7 +708,7 @@ and must retain evidence of this while they are a participant.
 
 (11) For the purposes of paragraph (10)(a), the Secretary of State must publish a document setting out the actual value method and the default value method of calculating the lifecycle greenhouse gas emissions associated with biomethane produced from biogas.
 
-### 13. Ongoing participant obligations: sustainability audit reports[^key-4f4609806efc0d879f28f9c4233678eb]
+### 13. Ongoing participant obligations: sustainability audit reports[^c-4f4609806efc0d879f28f9c4233678eb]
 
 (1) A participant must submit a report which is prepared in accordance with the requirements in paragraph (2).
 
@@ -733,11 +733,11 @@ and must retain evidence of this while they are a participant.
 
 ## PART 4 — Changes affecting participants
 
-### 14. Review of registration following notification of a change in circumstances[^key-c666e5b060525788845ce38ee53bfeb0]
+### 14. Review of registration following notification of a change in circumstances[^c-c666e5b060525788845ce38ee53bfeb0]
 
 (1) This regulation applies where—
 
-- (a) the Authority receives a notification under regulation 10(1)(d), (g) , (ga)[^key-587c96b9de477bae923f80901b2499fc] or (l), and
+- (a) the Authority receives a notification under regulation 10(1)(d), (g) , (ga)[^c-587c96b9de477bae923f80901b2499fc] or (l), and
 - (b) regulation 15 (change of producer of biomethane) does not apply.
 
 (2) On receipt of the notification, the Authority may—
@@ -752,7 +752,7 @@ and must retain evidence of this while they are a participant.
 
 (4) Where the Authority is satisfied in accordance with paragraph (3) it must resume payment of periodic support payments in accordance with these Regulations and pay to the participant any periodic support payments withheld in accordance with paragraph (3).
 
-### 15. Change of producer of biomethane[^key-0fa22622776e7d354c4d13bc7ffb9cb1]
+### 15. Change of producer of biomethane[^c-0fa22622776e7d354c4d13bc7ffb9cb1]
 
 (1) This regulation applies where—
 
@@ -767,7 +767,7 @@ and must retain evidence of this while they are a participant.
 
 (3) On receipt of a notification under paragraph (2)(a), the Authority may require the new producer to provide such information as the Authority considers necessary for the proper administration of the Scheme.
 
-(4) Where the Authority is satisfied that the ongoing participant obligations will continue to be complied with by the new producer, the Authority must (subject to regulation 7 (treatment of grant from public funds[^key-9a79a7ba746d531fb9e5b03fc8cfe868]) and 32(4) (revocation of registration))—
+(4) Where the Authority is satisfied that the ongoing participant obligations will continue to be complied with by the new producer, the Authority must (subject to regulation 7 (treatment of grant from public funds[^c-9a79a7ba746d531fb9e5b03fc8cfe868]) and 32(4) (revocation of registration))—
 
 - (a) update the central register by substituting the name of the new producer, and
 - (b) give the new producer a written statement including such of the following information as the Authority considers applicable—
@@ -799,7 +799,7 @@ and must retain evidence of this while they are a participant.
 
 (9) The period specified in paragraph (8) may be extended by the Authority where the Authority considers it is just and equitable to do so.
 
-### 16. Withdrawal of participant[^key-2b525373b29cff33dc6b50b009f66d5a]
+### 16. Withdrawal of participant[^c-2b525373b29cff33dc6b50b009f66d5a]
 
 (1) A participant may notify the Authority that they intend to withdraw from the Scheme.
 
@@ -811,11 +811,11 @@ and must retain evidence of this while they are a participant.
 
 ## PART 5 — Periodic support payments
 
-### 17. Interpretation of this Part[^key-ee9aac35bc72f64bf70a84ceff473e70]
+### 17. Interpretation of this Part[^c-ee9aac35bc72f64bf70a84ceff473e70]
 
 In this Part—
 
-- “**assessment date**” means each 31st January, 30th April, 31st July, and 31st October in the period beginning with 30th November 2021 and ending with 31st March 2028[^key-df29f26ea9d768d64fe23c756f39d47a];
+- “**assessment date**” means each 31st January, 30th April, 31st July, and 31st October in the period beginning with 30th November 2021 and ending with 31st March 2028[^c-df29f26ea9d768d64fe23c756f39d47a];
 - “**estimated energy from biomethane**”, in relation to an assessment date and a relevant producer, as expressed in kWh means—
 
   [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_004)
@@ -868,18 +868,18 @@ In this Part—
     - (ii) which has been withdrawn by the applicant, or
   - (c) a producer of biomethane in respect of which there is a pending tariff guarantee.
 
-### 18. Periodic support payments[^key-83274ee1c80400ac1853dc9bf945f243]
+### 18. Periodic support payments[^c-83274ee1c80400ac1853dc9bf945f243]
 
 Subject to Part 6 (compliance and enforcement: participants), the Authority must make payments (“periodic support payments”) to participants in accordance with this Part out of funds available to it for the purposes of the Scheme.
 
-### 19. Publication of tariffs[^key-c0ea3dbd9402fa56c3330c9132f40640]
+### 19. Publication of tariffs[^c-c0ea3dbd9402fa56c3330c9132f40640]
 
 The Authority must—
 
 - (a) by 15th March, 15th June, 15th September and 15th December in each scheme year (“the tariff publication date”) publish the initial tariff applicable where a tariff start date falls within the quarter immediately following the relevant tariff publication date, and
 - (b) on or before 1st April in each scheme year, publish the subsequent tariff applicable for the period beginning with 1st April of that year and ending with 31st March of the following year.
 
-### 20. Expenditure forecast statement and tariff change notice[^key-a81d5875ff967755ac327bc5e8955b81]
+### 20. Expenditure forecast statement and tariff change notice[^c-a81d5875ff967755ac327bc5e8955b81]
 
 (1) The Secretary of State must publish a statement in accordance with this regulation (“an expenditure forecast statement”).
 
@@ -901,7 +901,7 @@ the Secretary of State must publish with the expenditure forecast statement a no
 - (a) “**new initial tariff**” means the initial tariff for biomethane produced for injection, having a tariff start date which falls within the next quarter, and
 - (b) “**former initial tariff**” means the initial tariff that would have been applicable to the biomethane produced for injection if the tariff start date had fallen on the day immediately preceding the commencement of that quarter.
 
-### 21. Calculation and payment of periodic support payments to participants[^key-8ad43c2aad732def84fb72dde846d0a6]
+### 21. Calculation and payment of periodic support payments to participants[^c-8ad43c2aad732def84fb72dde846d0a6]
 
 (1) Periodic support payments are payable for 15 years from the tariff start date.
 
@@ -923,7 +923,7 @@ the Secretary of State must publish with the expenditure forecast statement a no
 - (a) for the period beginning with the tariff start date and ending with the end of the financial year in which that tariff start date falls, the initial tariff, and
 - (b) for each subsequent financial year, the subsequent tariff.
 
-### 22. Calculation of initial tariffs and tariff review[^key-7b5c6f31610e0209ea04f23c5db17d84]
+### 22. Calculation of initial tariffs and tariff review[^c-7b5c6f31610e0209ea04f23c5db17d84]
 
 (1) The initial tariff for a producer of biomethane, where the tariff start date is on or before 30th June 2022, is—
 
@@ -941,14 +941,14 @@ the Secretary of State must publish with the expenditure forecast statement a no
 
 (3) The Secretary of State may—
 
-- (a) review the initial tariff by no later than 1st September in each of 2022, 2023, 2024 , 2025, 2026 and 2027[^key-fd67e18a28418dcb6d6efdf7c854dbab], and
+- (a) review the initial tariff by no later than 1st September in each of 2022, 2023, 2024 , 2025, 2026 and 2027[^c-fd67e18a28418dcb6d6efdf7c854dbab], and
 - (b) as a result of such a review—
   - (i) increase or decrease the initial tariff, provided that such increase or decrease may only take effect on 1st October immediately following the review (“**the relevant date**”), or
   - (ii) determine that the initial tariff remains unchanged.
 
 (4) Where the initial tariff is increased or decreased as a result of a review described in paragraph (3), the initial tariff for a producer of biomethane where the tariff start date falls in the quarter beginning with the relevant date, is the initial tariff as so increased or decreased.
 
-### 23. Calculation of A[^key-c5453652e8bc12076bcb571c68d4ed2c]
+### 23. Calculation of A[^c-c5453652e8bc12076bcb571c68d4ed2c]
 
 (1) For the purposes of regulation 22(2), A is calculated as follows.
 
@@ -956,7 +956,7 @@ the Secretary of State must publish with the expenditure forecast statement a no
 
 (3) Where the tariff start date is within any quarter beginning with 1st July, 1st October or 1st January, A is the previous tariff.
 
-### 24. Calculation of B[^key-2120a0ba53a8ca75b0d9878b6d609eb6]
+### 24. Calculation of B[^c-2120a0ba53a8ca75b0d9878b6d609eb6]
 
 (1) For the purposes of regulation 22(2), B is calculated as follows.
 
@@ -972,11 +972,11 @@ the Secretary of State must publish with the expenditure forecast statement a no
 
 (4) B is 0.10 in relation to the assessment date if, as at that assessment date, the forecast for expenditure exceeds the expenditure threshold figure in relation to that assessment date.
 
-### 25. Calculation of subsequent tariffs[^key-c184e14bca981cf4f4c787fa61e2767e]
+### 25. Calculation of subsequent tariffs[^c-c184e14bca981cf4f4c787fa61e2767e]
 
 In relation to a particular financial year, the subsequent tariff is the tariff applicable to the biomethane produced by the participant on the last day of the previous financial year, adjusted by the percentage increase or decrease in the consumer prices index for the calendar year ending with 31st December immediately preceding the commencement of that subsequent financial year, the resulting figure being rounded.
 
-### 26. Tariff tiers[^key-e50ec4125d11262e533ca2f6c3d8c312]
+### 26. Tariff tiers[^c-e50ec4125d11262e533ca2f6c3d8c312]
 
 (1) For the purposes of calculating an initial tariff under regulation 22(2), or a subsequent tariff under regulation 25, the applicable tier of that tariff is—
 
@@ -997,7 +997,7 @@ In relation to a particular financial year, the subsequent tariff is the tariff 
 - “**applicable tier**”, in relation to an initial tariff or a subsequent tariff, means the numbered tier of that tariff, the rate for which applies in determining the initial tariff or subsequent tariff for biomethane production, and
 - “**relevant period**” means a 12 month period beginning with the tariff start date, or with the anniversary of the tariff start date.
 
-### 27. Periodic support payments to participants[^key-1861c56dc3396dfbc731ad495f8ccb7e]
+### 27. Periodic support payments to participants[^c-1861c56dc3396dfbc731ad495f8ccb7e]
 
 (1) Subject to paragraphs (3) and (6), regulation 7(2) (treatment of grants from public funds) and regulation 28 (reconciliation payments), participants must be paid a periodic support payment in respect of each quarter, or part of a quarter, during which they are a participant, calculated in accordance with the following formula—
 
@@ -1007,7 +1007,7 @@ In relation to a particular financial year, the subsequent tariff is the tariff 
   - (a) A is the amount of eligible biomethane in kWh which is injected in that quarter, and
   - (b) B is the tariff applicable to the eligible biomethane determined in accordance with regulation 21 (calculation and payment of periodic support payments to participants).
 
-(2)[^key-87788b8f809af388ed71de281c9e878b] In this regulation, “**eligible biomethane**” means the amount in kWh of all biomethane or the notified proportion of biomethane injected in a quarter determined in accordance with the following formula—
+(2)[^c-87788b8f809af388ed71de281c9e878b] In this regulation, “**eligible biomethane**” means the amount in kWh of all biomethane or the notified proportion of biomethane injected in a quarter determined in accordance with the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2021/1335)
 
@@ -1052,11 +1052,11 @@ where—
 
 (10) For the purposes of paragraph (6), “**RTF certificate**” has the meaning given in section 127(1) of the Energy Act 2004.
 
-(11)[^key-35d78441fc2300167996f6a4d7d4878e] In this regulation—
+(11)[^c-35d78441fc2300167996f6a4d7d4878e] In this regulation—
 
 - “**registered eligible heat pump**” means an eligible heat pump that is registered by the Authority under regulation 8A.
 
-### 28. Reconciliation payments for biomethane[^key-f66499c87f045e6d1eb040315722fc27]
+### 28. Reconciliation payments for biomethane[^c-f66499c87f045e6d1eb040315722fc27]
 
 (1) This regulation applies in relation to biomethane produced for injection, including additional biomethane, where in any payment year less than 50% of the total biogas yield is derived from waste or residue.
 
@@ -1082,7 +1082,7 @@ where—
 
 ## PART 6 — Compliance and enforcement: participants
 
-### 29. Power to temporarily withhold periodic support payments to investigate alleged non-compliance[^key-f4bc60c80ecc81a8a05be9d43daef9ef]
+### 29. Power to temporarily withhold periodic support payments to investigate alleged non-compliance[^c-f4bc60c80ecc81a8a05be9d43daef9ef]
 
 (1) Where the Authority has reasonable grounds to suspect that a participant—
 
@@ -1133,7 +1133,7 @@ and the Authority requires time to investigate, it may withhold all or part of t
 - (d) regulation 33 (power to correct the level of tariff being paid to a participant),
 - (e) regulation 34 (overpayment notices and offsetting).
 
-### 30. Power to withhold periodic support payments: further provisions[^key-f16732648fb5fdd8d741fce4252d5917]
+### 30. Power to withhold periodic support payments: further provisions[^c-f16732648fb5fdd8d741fce4252d5917]
 
 (1) Where the Authority—
 
@@ -1176,7 +1176,7 @@ as applicable, within the time specified, it must resume payment of the periodic
 
 (6) If, within six months of receipt by the participant of a notice sent under paragraph (3), the Authority is satisfied that the participant has taken the steps specified in that notice, the Authority may pay, within 28 days of being so satisfied, all periodic support payments withheld under this regulation.
 
-### 31. Power to reduce a participant’s periodic support payments[^key-de894fb1accdf505261285d8767e839b]
+### 31. Power to reduce a participant’s periodic support payments[^c-de894fb1accdf505261285d8767e839b]
 
 (1) Where the Authority is satisfied that there has been a material or repeated failure by a participant to comply with an ongoing participant obligation during any quarter and the periodic support payment for that quarter has not been paid, the Authority may take one or more of the following actions—
 
@@ -1192,7 +1192,7 @@ as applicable, within the time specified, it must resume payment of the periodic
 
 (3) In reducing a periodic support payment in accordance with paragraph (1)(b), the Authority may determine the level of the reduction (taking into consideration all factors which it considers relevant) up to a maximum reduction of 10% of the periodic support payment in question.
 
-### 32. Revocation of registration[^key-f9bdf94e50fa182425bbb3b8405bc5d2]
+### 32. Revocation of registration[^c-f9bdf94e50fa182425bbb3b8405bc5d2]
 
 (1) Where the Authority is satisfied—
 
@@ -1218,7 +1218,7 @@ it may take either of the actions in paragraph (2).
 - (a) must update the central register accordingly, and
 - (b) may refuse to register that person or a connected person as a participant at any future date.
 
-### 33. Power to correct the level of tariff being paid to a participant[^key-f444d2fb7efade806c3e227477fcc1f8]
+### 33. Power to correct the level of tariff being paid to a participant[^c-f444d2fb7efade806c3e227477fcc1f8]
 
 (1) Where periodic support payments are being paid to a participant in accordance with a guaranteed tariff, if the Authority is satisfied that the information upon which the tariff guarantee was based was incorrect in a material particular it may—
 
@@ -1233,7 +1233,7 @@ it may take either of the actions in paragraph (2).
 - (d) the basis on which those payments are calculated, and
 - (e) details of the participant’s right of review under regulation 62.
 
-### 34. Overpayment notices and offsetting[^key-0dd50c27598d6984c52baf2647a859d8]
+### 34. Overpayment notices and offsetting[^c-0dd50c27598d6984c52baf2647a859d8]
 
 (1) Where the Authority is satisfied that a participant has received periodic support payments which—
 
@@ -1259,7 +1259,7 @@ it may take one of the actions set out in paragraph (2).
 
 (4) Where a participant is required to repay a specified sum under this regulation and fails to make payment in full by the date specified under paragraph (3)(d), the Authority may recover any outstanding sum as a civil debt.
 
-### 35. Revocation of sanctions[^key-49f96578673bb01b7fa36a5cdf325ec7]
+### 35. Revocation of sanctions[^c-49f96578673bb01b7fa36a5cdf325ec7]
 
 (1) The Authority may at any time revoke a sanction imposed in accordance with any of regulations 29 to 34 if it is satisfied that—
 
@@ -1273,7 +1273,7 @@ it may take one of the actions set out in paragraph (2).
 - (c) what action if any the Authority proposes to take in relation to any loss reasonably incurred by the participant as a result of the imposition of the sanction including the time within which any action will be taken, and
 - (d) details of someone within the Authority whom the participant may contact if they are not satisfied with the proposals made by the Authority under sub-paragraph (c).
 
-### 36. Power to inspect equipment used to produce biomethane[^key-bd28279d04a9af27923936628d237479]
+### 36. Power to inspect equipment used to produce biomethane[^c-bd28279d04a9af27923936628d237479]
 
 (1) The Authority or its authorised agent may request access without notice at any reasonable hour to inspect equipment used to produce biomethane and its associated infrastructure to do any one or more of the following—
 
@@ -1289,7 +1289,7 @@ it may take one of the actions set out in paragraph (2).
 - (b) the consequences of the refusal, including potential sanctions for failing to comply with the ongoing participant obligation imposed by regulation 10(1)(f) (ongoing participant obligation to allow access), and
 - (c) details of the participant’s right of review under regulation 62.
 
-### 37. Application of this Part in relation to former participant[^key-4c277d439e078bc47e2f435ab52895bb]
+### 37. Application of this Part in relation to former participant[^c-4c277d439e078bc47e2f435ab52895bb]
 
 Where a producer of biomethane (“**P**”) ceases to be a participant by virtue of the operation of regulation 16 (withdrawal of participant), or regulation 32 (revocation of registration), this Part applies to P as if P were still a participant, with the following modifications—
 
@@ -1304,7 +1304,7 @@ Where a producer of biomethane (“**P**”) ceases to be a participant by virtu
 
 ### CHAPTER 1 — Introductory
 
-#### 38. Scheme suppliers, provisionally exempt suppliers, and exempt suppliers[^key-97e0d93b76b7fad5264100e33d7c50e5]
+#### 38. Scheme suppliers, provisionally exempt suppliers, and exempt suppliers[^c-97e0d93b76b7fad5264100e33d7c50e5]
 
 (1) Subject to the following paragraphs, a licensed gas supplier (“**GS**”) who is a fossil fuel supplier[^f00030] is a scheme supplier.
 
@@ -1399,7 +1399,7 @@ GS is treated, from the date of that notification, as an exempt supplier in rela
   - (i) a director of the licensed gas supplier within the meaning of section 250 of the Companies Act 2006[^f00031], or
   - (ii) where there is no person falling within paragraph (i) in relation to the licensed gas supplier, a person exercising management control in relation to the licensed gas supplier.
 
-#### 39. Calculation and publication of the levy rate[^key-24a0496c6954934cf3ae496ef9b908d6]
+#### 39. Calculation and publication of the levy rate[^c-24a0496c6954934cf3ae496ef9b908d6]
 
 (1) The Secretary of State must calculate the levy rate for each scheme year, expressed in pence per meter point per day (“the levy rate”), as follows—
 
@@ -1409,7 +1409,7 @@ where—
 
 - (a) A is the adjustment factor, as determined by the Secretary of State, used to predict the likely change in the number of meter points over the next scheme year,
 - (b) D is the number of days in that scheme year,
-- (c) LS is the levy size for that scheme year, calculated as follows—[^key-4ac07a77a7ba3f2524e28bcc81c4e277]
+- (c) LS is the levy size for that scheme year, calculated as follows—[^c-4ac07a77a7ba3f2524e28bcc81c4e277]
 
   [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_014)
 
@@ -1495,7 +1495,7 @@ and where any value so published is increased or decreased as a result of a revi
   - (i) may only take effect at the start of a scheme year, and
   - (ii) must be published by the Secretary of State as soon as reasonably practicable.
 
-(6A)[^key-3b049e2f0af134d9830cfd0c8e815d72] Where the Secretary of State reviews the maximum levy amount in accordance with paragraph (6)(b), the Secretary of State must calculate the new maximum levy amount in accordance with the formula set out in paragraph (6)(a) subject to the following modifications—
+(6A)[^c-3b049e2f0af134d9830cfd0c8e815d72] Where the Secretary of State reviews the maximum levy amount in accordance with paragraph (6)(b), the Secretary of State must calculate the new maximum levy amount in accordance with the formula set out in paragraph (6)(a) subject to the following modifications—
 
 - (a) SB is the projected scheme expenditure for the scheme year with the largest projected scheme expenditure,
 - (b) QL<sub>y+1</sub> is the quarterly lag uplift, within the meaning given in paragraph (4)(f), in relation to the scheme year following that scheme year.
@@ -1506,7 +1506,7 @@ and where any value so published is increased or decreased as a result of a revi
 
 ### CHAPTER 2 — Quarterly levy payments and levy credit payments
 
-#### 40. Calculation and notification of quarterly levy payments[^key-15e8ad5c881549d2c2d7e41b7f6705ee]
+#### 40. Calculation and notification of quarterly levy payments[^c-15e8ad5c881549d2c2d7e41b7f6705ee]
 
 (1) The Authority must calculate the quarterly levy payment payable by a scheme supplier (the “quarterly levy payment”), in relation to each quarter of the scheme year beginning with 1st April 2022 and subsequent scheme years, as follows—
 
@@ -1535,7 +1535,7 @@ where—
 
 (5) Amounts paid to the Authority under this regulation must be paid into a bank account with the Authority as the beneficiary.
 
-#### 41. Calculation of credit cover requirement[^key-df9026ed4a5212b1b11dfb02d95175fc]
+#### 41. Calculation of credit cover requirement[^c-df9026ed4a5212b1b11dfb02d95175fc]
 
 (1) Subject to paragraph (2), the Authority must calculate the credit cover requirement in relation to a scheme supplier, for each quarter of the scheme year beginning with 1st April 2022 and subsequent scheme years, as follows—
 
@@ -1551,24 +1551,24 @@ where—
 (2) Where a licensed gas supplier becomes a scheme supplier on or after 1st April 2022—
 
 - (a) the Authority is not required to calculate the credit cover requirement in relation to that supplier for the quarter in which they become a scheme supplier (“the first quarter”), and
-- (b) the Authority must calculate the credit cover requirement in relation to that supplier, for the quarter (the “second quarter”) following the first quarter and the quarter (the “third quarter”) following the second quarter[^key-3c3bb08448e58dc0f8752788157e96dc], in accordance with paragraph (1) but with the modification that “M” is calculated as follows—
+- (b) the Authority must calculate the credit cover requirement in relation to that supplier, for the quarter (the “second quarter”) following the first quarter and the quarter (the “third quarter”) following the second quarter[^c-3c3bb08448e58dc0f8752788157e96dc], in accordance with paragraph (1) but with the modification that “M” is calculated as follows—
 
   [image: see source](https://www.legislation.gov.uk/uksi/2021/1335/images/uksi_20211335_en_018)
 
   where—
 
   - (i) AM is the sum of the meter point data for that supplier which is available for the first quarter,
-  - (ii)[^key-39eb83fae1fbd43e8fb1709db4765744] DQ is—
+  - (ii)[^c-39eb83fae1fbd43e8fb1709db4765744] DQ is—
     - (aa) in respect of the credit cover requirement for the second quarter, the number of days remaining in the first quarter from and including the date on which the supplier becomes a scheme supplier; or
     - (bb) in respect of the credit cover requirement for the third quarter, the number of days in the first quarter.
   - (iii) DA is the number of days in the first quarter for which meter point data for that supplier is available.
 
-#### 42. Levy credit payments[^key-f6f64cc7b9c1d87e8160b9849e9e576b]
+#### 42. Levy credit payments[^c-f6f64cc7b9c1d87e8160b9849e9e576b]
 
 (1) In relation to the scheme year beginning with 1st April 2022 and subsequent scheme years, the Authority must notify a scheme supplier of that scheme supplier’s credit cover requirement for each quarter—
 
 - (a) no later than 21 days before the start of that quarter, or
-- (b) where regulation 41(2)(b) or paragraph (3A)[^key-e91a44438f50b1bfcb6dd27938d5b6c2] applies, as soon as reasonably practicable.
+- (b) where regulation 41(2)(b) or paragraph (3A)[^c-e91a44438f50b1bfcb6dd27938d5b6c2] applies, as soon as reasonably practicable.
 
 (2) Where a scheme supplier’s credit cover requirement for a quarter exceeds their existing credit cover, or where the scheme supplier has no existing credit cover, the notification referred to in paragraph (1) must—
 
@@ -1590,7 +1590,7 @@ where—
   must, within 14 days of the letter of credit ceasing to constitute an acceptable letter of credit, pay such amount to the Authority as is necessary so as to ensure that their existing credit cover for that quarter is no less than their credit cover requirement for that quarter,
 - (c) where the amount of their existing credit cover is reduced as a result of a draw down to pay the whole or any part of a mutualisation payment in accordance with regulation 55 must, within 14 days of the date on which their existing credit cover is so reduced, pay such amount to the Authority as is necessary to ensure that their existing credit cover for the quarter in which the draw down took place is no less than their credit cover requirement for that quarter.
 
-(3A)[^key-9493145b5c31b3e10a4e6cacfb7b6693] The Authority must give a scheme supplier a new notification under paragraph (1) with an updated deficit amount where—
+(3A)[^c-9493145b5c31b3e10a4e6cacfb7b6693] The Authority must give a scheme supplier a new notification under paragraph (1) with an updated deficit amount where—
 
 - (a) the Authority has previously given a notification to the supplier under paragraph (1) notifying them of their credit cover requirement for a quarter,
 - (b) before the start of that quarter the supplier’s existing credit cover is reduced as a result of a draw down to pay the whole or any part of a mutualisation payment in accordance with regulation 55, and
@@ -1603,16 +1603,16 @@ where—
 (5) Where a scheme supplier’s existing credit cover exceeds their credit cover requirement, the notification referred to in paragraph (1) must—
 
 - (a) specify the amount (“**the excess amount**”) by which the scheme supplier’s existing credit cover exceeds their credit cover requirement, and
-- (b) where any part of the scheme supplier’s existing credit cover has been paid to the Authority and the excess amount would not be a de minimis amount if payable under regulation 45(2)(a)[^key-e23d6d01abc52818dffafe79739b4d2d], include information about the matters mentioned in regulation 45 (repayment of levy credit payments).
+- (b) where any part of the scheme supplier’s existing credit cover has been paid to the Authority and the excess amount would not be a de minimis amount if payable under regulation 45(2)(a)[^c-e23d6d01abc52818dffafe79739b4d2d], include information about the matters mentioned in regulation 45 (repayment of levy credit payments).
 
-(5A)[^key-945d35f9cca96aa8a4a493f1589fa529] Paragraph (5) does not apply where regulation 43A(2)(b) applies in relation to a scheme supplier’s credit cover requirement and any excess amount would be a de minimis amount if payable under regulation 45(2)(a).
+(5A)[^c-945d35f9cca96aa8a4a493f1589fa529] Paragraph (5) does not apply where regulation 43A(2)(b) applies in relation to a scheme supplier’s credit cover requirement and any excess amount would be a de minimis amount if payable under regulation 45(2)(a).
 
 (6) For the purposes of this regulation, “**existing credit cover**”, in relation to a scheme supplier, means the total amount that supplier has—
 
 - (a) paid to the Authority in accordance with this regulation, and which continues to be held by the Authority, and
 - (b) provided to the Authority in the form of a letter of credit in accordance with regulation 43, and which continues to be an acceptable letter of credit.
 
-#### 43. Letters of credit[^key-a54bd61457399004c5a8a9f9212596b6]
+#### 43. Letters of credit[^c-a54bd61457399004c5a8a9f9212596b6]
 
 (1) A scheme supplier may provide an acceptable letter of credit in respect of all or part of their credit cover requirement.
 
@@ -1648,7 +1648,7 @@ the amount the scheme supplier must pay to the Authority in relation to their cr
 
 (7) The Authority may at any time give a notice to scheme suppliers specifying such alternative required credit rating as it considers appropriate, and that notice remains in force until such time as it is withdrawn by the Authority.
 
-#### 43A. De minimis[^key-4d017b74a9a2cbf6a229a3fed66c3561]
+#### 43A. De minimis[^c-4d017b74a9a2cbf6a229a3fed66c3561]
 
 (1) A “**de minimis amount**” means—
 
@@ -1699,7 +1699,7 @@ which does not exceed the amount specified by the Secretary of State (the “de 
 
 ### CHAPTER 3 — Payments to scheme suppliers
 
-#### 44. Distribution of interest on levy credit payments[^key-8bd5773cc9d1a45d63b91c2a29bc8e06]
+#### 44. Distribution of interest on levy credit payments[^c-8bd5773cc9d1a45d63b91c2a29bc8e06]
 
 (1) Subject to paragraph (2), in March of each scheme year beginning with March 2023, the Authority must pay to a scheme supplier any interest that has accrued on levy credit payments paid by them whilst in the bank account referred to in regulation 42(4).
 
@@ -1710,7 +1710,7 @@ which does not exceed the amount specified by the Secretary of State (the “de 
 - (c) regulation 49 (requirement to pay backdated levy payments),
 - (d) regulation 56 (requirement to make mutualisation payments).
 
-#### 45. Repayment of levy credit payments[^key-80fffe881d0c9dce46fb33f3a6d4a7d5]
+#### 45. Repayment of levy credit payments[^c-80fffe881d0c9dce46fb33f3a6d4a7d5]
 
 (1) This regulation applies where a scheme supplier receives a notification referred to in regulation 42(5) (that the supplier’s credit cover requirement is less than their existing credit cover).
 
@@ -1736,7 +1736,7 @@ which does not exceed the amount specified by the Secretary of State (the “de 
 
 ## PART 8 — Additional obligations on scheme suppliers
 
-### 46. Additional scheme supplier obligations: general[^key-f4e9db4ff02efd7cf15ec4935a787d19]
+### 46. Additional scheme supplier obligations: general[^c-f4e9db4ff02efd7cf15ec4935a787d19]
 
 A scheme supplier must—
 
@@ -1744,13 +1744,13 @@ A scheme supplier must—
 - (b) where they have provided a letter of credit in accordance with regulation 43, monitor the validity of the issuing person’s credit rating and notify the Authority as soon as reasonably practicable if the issuing person ceases to hold the required credit rating (within the meaning given in regulation 43(5)),
 - (c) comply with such other requirements as the Authority may specify in relation to the effective administration of the Scheme.
 
-### 47. Additional scheme supplier obligations: the provision of information[^key-ff8ba9a6cd994da97053d9cbd042e445]
+### 47. Additional scheme supplier obligations: the provision of information[^c-ff8ba9a6cd994da97053d9cbd042e445]
 
 (1) A scheme supplier must provide to the Authority on request any information which the scheme supplier holds and which the Authority requires in order to discharge its functions under, or monitor compliance with, these Regulations.
 
 (2) Information requested under paragraph (1) must be provided within such time as the Authority specifies.
 
-### 48. Additional scheme supplier obligations: daily meter point data[^key-fa5fad9c7ec9f1a230ebf3d1c710342c]
+### 48. Additional scheme supplier obligations: daily meter point data[^c-fa5fad9c7ec9f1a230ebf3d1c710342c]
 
 (1) A scheme supplier must notify the Authority of their meter point data for each day of the period beginning with 31st August 2021 and ending with 31st March 2022, and the sum of their meter point data—
 
@@ -1774,7 +1774,7 @@ at such time as the Authority may request.
 
 ## PART 9 — Changes affecting scheme suppliers
 
-### 49. Former provisionally exempt suppliers[^key-4cd10258b45aaab7f4da7f8d8830d9b6]
+### 49. Former provisionally exempt suppliers[^c-4cd10258b45aaab7f4da7f8d8830d9b6]
 
 (1) This regulation applies where a scheme supplier (“**SS**”) was a provisionally exempt supplier in relation to a scheme year, and was notified in accordance with regulation 38(10)(b) or (11) that they are not an exempt supplier in relation to that scheme year.
 
@@ -1812,7 +1812,7 @@ at such time as the Authority may request.
 
 (6) In this regulation, “defaulting scheme supplier” and “non-defaulting scheme supplier” have the meanings given in regulation 56.
 
-### 50. Exempt suppliers[^key-86477964508cf086944cdc3978a0fab7]
+### 50. Exempt suppliers[^c-86477964508cf086944cdc3978a0fab7]
 
 (1) This regulation applies where a licensed gas supplier (“**GS**”) was not a provisionally exempt supplier in relation to a scheme year, and is notified in accordance with regulation 38(10)(b) that they are an exempt supplier in relation to that scheme year.
 
@@ -1842,7 +1842,7 @@ where—
 
 (4) Where the Authority has drawn down GS’s existing credit cover against a letter of credit, in accordance with regulation 55, in relation to a scheme year, the Authority must repay the amount drawn down to the person who provided the letter of credit.
 
-### 51. Former scheme suppliers[^key-b427a9c0b166195a5def6a11e901e139]
+### 51. Former scheme suppliers[^c-b427a9c0b166195a5def6a11e901e139]
 
 (1) This regulation applies where a scheme supplier ceases to be a scheme supplier, other than by virtue of becoming an exempt supplier.
 
@@ -1874,14 +1874,14 @@ where—
 
 (7) The Authority must serve a notice on F specifying—
 
-- (a) the sum of the amounts calculated in accordance with paragraph (6) (the “final quarterly levy payment”)[^key-36e54c1f3d418800fb4aac1db138a071] and how that amount has been calculated,
+- (a) the sum of the amounts calculated in accordance with paragraph (6) (the “final quarterly levy payment”)[^c-36e54c1f3d418800fb4aac1db138a071] and how that amount has been calculated,
 - (b) the amount of F’s existing credit cover,
 - (c) the amount by which—
-  - (i) F’s existing credit cover exceeds the final quarterly levy payment [^key-c718aaa95d813edd094abee91f63d8df]..., or
+  - (i) F’s existing credit cover exceeds the final quarterly levy payment [^c-c718aaa95d813edd094abee91f63d8df]..., or
   - (ii) the final quarterly levy payment exceeds F’s existing credit cover (the “outstanding amount”),
-- (ca)[^key-985c17bd641cc4b54825d1a72f44b681] if the payments made by F by way of credit cover exceed the final quarterly levy payment, the excess amount (the “cash excess”),
-- (d)[^key-a174db8444e5143aa930a9fd6377c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-5d71025ec657f7a0d6bced7bae380c0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ca)[^c-985c17bd641cc4b54825d1a72f44b681] if the payments made by F by way of credit cover exceed the final quarterly levy payment, the excess amount (the “cash excess”),
+- (d)[^c-a174db8444e5143aa930a9fd6377c76c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-5d71025ec657f7a0d6bced7bae380c0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) where there is an outstanding amount—
   - (i) the date by which the outstanding amount is required to be paid by F, being—
     - (aa) 14 days after the date of the notification, or
@@ -1892,7 +1892,7 @@ where—
 
 including information about the matters mentioned in regulation 54 (interest on late payments), and the matters mentioned in regulation 56 (mutualisation).
 
-(7A)[^key-32095f9ee4f7bd60f13b25fde031d2dd] Except where paragraph (7B) applies to F and provided that the final quarterly levy payment is greater than £0, the notice referred to in paragraph (7) must also specify—
+(7A)[^c-32095f9ee4f7bd60f13b25fde031d2dd] Except where paragraph (7B) applies to F and provided that the final quarterly levy payment is greater than £0, the notice referred to in paragraph (7) must also specify—
 
 - (a) the date on which F’s existing credit cover will be drawn down and the amount of that draw down,
 - (b) whether the draw down will be against payments made, or a letter of credit provided, by F, or both.
@@ -1936,9 +1936,9 @@ whichever is the earlier.
 
 (8) Where paragraph (7)(f) applies, F must pay the outstanding amount to the Authority in accordance with any notification referred to in paragraph (7).
 
-(9)[^key-623629b73f1498e5695005a3813b9705] Where there is a cash excess, the Authority must pay the cash excess to F as soon as reasonably practicable after the date on which F’s existing credit cover is drawn down.
+(9)[^c-623629b73f1498e5695005a3813b9705] Where there is a cash excess, the Authority must pay the cash excess to F as soon as reasonably practicable after the date on which F’s existing credit cover is drawn down.
 
-(9A)[^key-e41c5d113649acc8080f28bd4ffecb68] The Authority must pay to F any interest that has accrued on levy credit payments paid by F whilst in the bank account referred to in regulation 42(4) as soon as reasonably practicable after—
+(9A)[^c-e41c5d113649acc8080f28bd4ffecb68] The Authority must pay to F any interest that has accrued on levy credit payments paid by F whilst in the bank account referred to in regulation 42(4) as soon as reasonably practicable after—
 
 - (a) in relation to interest paid into the bank account before the date on which the Authority serves a notice under paragraph (7), the date on which the Authority serves a notice under paragraph (7),
 - (b) in relation to interest paid into the account on or after the date on which the Authority serves a notice under paragraph (7), the date on which the interest is paid into the Authority’s bank account.
@@ -1981,7 +1981,7 @@ whichever is the earlier.
 
 ## PART 10 — Compliance and enforcement: scheme suppliers
 
-### 52. Anticipated default notices[^key-0e1364309f976dbe1a04038720d38e21]
+### 52. Anticipated default notices[^c-0e1364309f976dbe1a04038720d38e21]
 
 (1) The Authority may serve a notice (an “anticipated default notice”) on a scheme supplier where the Authority reasonably believes it is likely that the scheme supplier will fail to pay—
 
@@ -2022,7 +2022,7 @@ whichever is the earlier.
 
 on the day after the due date the anticipated default notice is deemed to be an enforcement notice served in accordance with regulation 53(1) in respect of such amount as remains outstanding.
 
-### 53. Enforcement notices[^key-65f6b5e420e1ce8cbb9ef52bb7949f74]
+### 53. Enforcement notices[^c-65f6b5e420e1ce8cbb9ef52bb7949f74]
 
 (1) The Authority may serve a notice (an “**enforcement notice**”) on a scheme supplier where—
 
@@ -2069,7 +2069,7 @@ on the day after the due date the anticipated default notice is deemed to be an 
 - (b) specific performance of a statutory duty under section 45 of the Court of Session Act 1988[^f00033], or
 - (c) any other appropriate relief.
 
-### 54. Interest[^key-bb57e95730ee40dbc9bed8a50a88b38e]
+### 54. Interest[^c-bb57e95730ee40dbc9bed8a50a88b38e]
 
 (1) Where—
 
@@ -2090,21 +2090,21 @@ the Authority must require the scheme supplier, or the former scheme supplier (a
 - (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets, or
 - (b) where an order under section 19 of the Bank of England Act 1998[^f00034] (reserve powers) is in force, any equivalent rate determined by the Treasury under that section.
 
-### 55. Draw down of credit cover[^key-e0a15ca400c8cbf7466600fada3ac0cf]
+### 55. Draw down of credit cover[^c-e0a15ca400c8cbf7466600fada3ac0cf]
 
 (1) This regulation applies where—
 
 - (a) a scheme supplier (the “defaulting scheme supplier”) fails to pay the whole or any part of—
   - (i) a quarterly levy payment in accordance with regulation 40, or
   - (ii) a mutualisation payment required in accordance with regulation 56, or
-- (b)[^key-76c8b160d0196da5c526d13d4417cc33] the Authority has served a notice under regulation 51(7) on a former scheme supplier (the “defaulting scheme supplier”) and the final quarterly levy payment specified in the notice is greater than £0.
+- (b)[^c-76c8b160d0196da5c526d13d4417cc33] the Authority has served a notice under regulation 51(7) on a former scheme supplier (the “defaulting scheme supplier”) and the final quarterly levy payment specified in the notice is greater than £0.
 
-(2)[^key-a4ff49b9251186c5df9ee59ec3f3c0bf] The Authority must draw down the defaulting scheme supplier’s existing credit cover no earlier than—
+(2)[^c-a4ff49b9251186c5df9ee59ec3f3c0bf] The Authority must draw down the defaulting scheme supplier’s existing credit cover no earlier than—
 
 - (a) where paragraph (1)(a) applies, the next working day after the day on which payment of the unpaid amount was due, or
 - (b) where paragraph (1)(b) applies, the next wording day after the date specified in the notice in accordance with regulation 51(7A)(a) or (7C)(a) or (e) (as applicable).
 
-(2A)[^key-55a3009d06f7a6b37649791dc4683981] The Authority must not draw down against a letter of credit provided by the defaulting scheme supplier in relation to the defaulting scheme supplier’s final quarterly levy payment where—
+(2A)[^c-55a3009d06f7a6b37649791dc4683981] The Authority must not draw down against a letter of credit provided by the defaulting scheme supplier in relation to the defaulting scheme supplier’s final quarterly levy payment where—
 
 - (a) regulation 51(7B) applies to the supplier, and
 - (b) the defaulting scheme supplier has paid to the Authority by the date specified in the notice an amount required to discharge the defaulting scheme supplier’s final quarterly levy payment or, where regulation 51(7D)(c)(ii) applies, the in lieu amount.
@@ -2116,18 +2116,18 @@ the Authority must require the scheme supplier, or the former scheme supplier (a
 - (a) the amount of the defaulting scheme supplier’s existing credit cover subject to the draw down, and
 - (b) whether the draw down is against payments made, or a letter of credit provided, by the defaulting scheme supplier, or both.
 
-(4) Where draw down is against payments made by the defaulting scheme supplier, the amount drawn down is treated as a payment by the defaulting scheme supplier in respect of their quarterly levy payment , mutualisation payment, final quarterly levy payment or interest payment[^key-ce74d0efb2a0f732598a175c535874b9] (as the case may be).
+(4) Where draw down is against payments made by the defaulting scheme supplier, the amount drawn down is treated as a payment by the defaulting scheme supplier in respect of their quarterly levy payment , mutualisation payment, final quarterly levy payment or interest payment[^c-ce74d0efb2a0f732598a175c535874b9] (as the case may be).
 
 (5) Where draw down is against a letter of credit provided by the defaulting scheme supplier—
 
 - (a) the Authority must take steps to demand payment from the person who provided the letter of credit for the lesser of—
   - (i) the amount which can be demanded under that letter of credit, and
   - (ii) the unpaid amount, and
-- (b) the amount which is paid to the Authority under that letter of credit is treated as a payment by the defaulting scheme supplier in respect of their quarterly levy payment , mutualisation payment, final quarterly levy payment or interest payment[^key-ab60ad8792a0e482c246a2d3b1726280] (as the case may be), made at the time that amount is received by the Authority.
+- (b) the amount which is paid to the Authority under that letter of credit is treated as a payment by the defaulting scheme supplier in respect of their quarterly levy payment , mutualisation payment, final quarterly levy payment or interest payment[^c-ab60ad8792a0e482c246a2d3b1726280] (as the case may be), made at the time that amount is received by the Authority.
 
 (6) The Authority may draw down against a letter of credit provided by a defaulting scheme supplier notwithstanding that the letter of credit has ceased to constitute an acceptable letter of credit.
 
-### 56. Mutualisation[^key-ed562ee89a9ae9554da3557bf32b15df]
+### 56. Mutualisation[^c-ed562ee89a9ae9554da3557bf32b15df]
 
 (1) The Authority must carry out a process (a “mutualisation process”) in accordance with this regulation where—
 
@@ -2141,8 +2141,8 @@ the Authority must require the scheme supplier, or the former scheme supplier (a
 
 (3) The second condition is that—
 
-- (a) a former scheme supplier (the “defaulting scheme supplier”) has failed to pay the whole or part of an outstanding amount in accordance with regulation 51(8), [^key-1833652d7c1408bc4b4b7640cb417d25]...
-- (b)[^key-dfad8cae1bf876d618a3fac792fed289] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a former scheme supplier (the “defaulting scheme supplier”) has failed to pay the whole or part of an outstanding amount in accordance with regulation 51(8), [^c-1833652d7c1408bc4b4b7640cb417d25]...
+- (b)[^c-dfad8cae1bf876d618a3fac792fed289] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The third condition is that, when notices are given under paragraph (5)(b), the total of any unpaid amounts to be recovered (the “total mutualisation amount”) exceeds the Authority’s estimated administrative costs of carrying out the mutualisation process.
 
@@ -2191,7 +2191,7 @@ where—
 - (c) AU is the total amount of mutualisation payments which were paid by all non-defaulting scheme suppliers in respect of the relevant default, and
 - (d) AR is the total amount, including any interest payment, recovered from the defaulting scheme supplier.
 
-### 57. Penalty notices[^key-ca0bc7f62b1e69819e2c79b9abdbd41d]
+### 57. Penalty notices[^c-ca0bc7f62b1e69819e2c79b9abdbd41d]
 
 (1) The Authority may serve a notice (a “penalty notice”) on a scheme supplier where the Authority is satisfied that the scheme supplier—
 
@@ -2255,7 +2255,7 @@ where—
   - (cc) T is the scheme supplier’s turnover in relation to the number of days referred to in sub-paragraph (bb), and
 - (b) “**turnover**” has the meaning given in section 474(1) of the Companies Act 2006[^f00035].
 
-### 58. Recovery of unpaid amounts as a civil debt[^key-32f2297d6295a628a921e9a2116853ef]
+### 58. Recovery of unpaid amounts as a civil debt[^c-32f2297d6295a628a921e9a2116853ef]
 
 The following are recoverable, as a civil debt, by the Authority if not paid by the date on which they are due—
 
@@ -2267,7 +2267,7 @@ The following are recoverable, as a civil debt, by the Authority if not paid by 
 - (f) a financial penalty,
 - (g) any interest due in accordance with regulation 54.
 
-### 59. Default register[^key-08845a7b540759279e5183148fb58b2d]
+### 59. Default register[^c-08845a7b540759279e5183148fb58b2d]
 
 (1) The Authority must publish and maintain a register containing the information described in paragraph (2) (a “default register”), and ensure, so far as practicable, that entries in the default register are accurate and up to date.
 
@@ -2290,7 +2290,7 @@ the Authority must amend the entry in the default register to record that they a
 
 (4) Any information published in accordance with paragraph (1) must be published for a minimum period of one year, or such longer period as the Authority determines.
 
-### 60. Appeals[^key-176df5a11e56b2ad44106e24a82758ab]
+### 60. Appeals[^c-176df5a11e56b2ad44106e24a82758ab]
 
 (1) A scheme supplier served with an enforcement notice or a penalty notice may appeal to the relevant court—
 
@@ -2319,13 +2319,13 @@ the Authority must amend the entry in the default register to record that they a
 
 (6) The validity of an enforcement notice or a penalty notice may not be questioned by any legal proceedings on the grounds mentioned in paragraph (1)(a)(ii) or (b)(iii), other than as provided for by this regulation.
 
-### 61. Application of this Part in relation to former scheme supplier[^key-9edd0e2bf3374cec36d6e8fe2501bb7d]
+### 61. Application of this Part in relation to former scheme supplier[^c-9edd0e2bf3374cec36d6e8fe2501bb7d]
 
 If a scheme supplier ceases to be a scheme supplier, the Authority may commence or continue compliance or enforcement action under this Part in relation to any breach of these Regulations by them which occurred in relation to any scheme year in which they were a scheme supplier, and they are a scheme supplier for the purposes of any such action.
 
 ## PART 11 — Administrative functions of the Authority
 
-### 62. Right of review[^key-8f738619347fd5f026d89d02576b7521]
+### 62. Right of review[^c-8f738619347fd5f026d89d02576b7521]
 
 (1) Any applicant, participant or former participant affected by a decision made by the Authority in exercise of its functions under these Regulations (other than a decision made in accordance with this regulation) may have that decision reviewed by the Authority.
 
@@ -2349,7 +2349,7 @@ If a scheme supplier ceases to be a scheme supplier, the Authority may commence 
 
 (6) Within 21 days of the Authority’s decision on a review, it must give a notice to the applicant, participant or former participant (as the case may be), and to any other person who is in the Authority’s opinion affected by its decision on the review, setting out its decision with reasons.
 
-### 63. Publication of guidance and scheme schedule[^key-eb4c0e86cad48e32eb6b517b9bff5225]
+### 63. Publication of guidance and scheme schedule[^c-eb4c0e86cad48e32eb6b517b9bff5225]
 
 (1) The Authority must publish procedural guidance to applicants, participants and scheme suppliers in connection with the administration of the Scheme.
 
@@ -2365,7 +2365,7 @@ If a scheme supplier ceases to be a scheme supplier, the Authority may commence 
 
 (4) The Authority may change a variable date in a published scheme schedule and, if it does so, must publish the change at least one month before the change is to take effect.
 
-### 64. Provision of information to the Authority etc[^key-af667cb86d8031a2b3b2f91ebffcf49c]
+### 64. Provision of information to the Authority etc[^c-af667cb86d8031a2b3b2f91ebffcf49c]
 
 (1) Where under these Regulations the Authority requests information or a declaration from an applicant, a participant, a scheme supplier, or a licensed gas supplier who is not a scheme supplier, or where any such person is required to provide information or a declaration to the Authority—
 
@@ -2374,7 +2374,7 @@ If a scheme supplier ceases to be a scheme supplier, the Authority may commence 
 
 (2) When exercising any functions under these Regulations the Authority may treat any declaration given by an applicant, a participant, a scheme supplier, or a licensed gas supplier who is not a scheme supplier, as conclusive evidence of the matters to which that declaration relates, unless the Authority considers that any such declaration is not accurate.
 
-### 65. Reporting obligations[^key-8c454a8251804ecc1132acbd03cc5fec]
+### 65. Reporting obligations[^c-8c454a8251804ecc1132acbd03cc5fec]
 
 (1) The Authority must provide monthly reports to the Secretary of State, in such manner and form as the Secretary of State may request, containing the following information, as applicable—
 
@@ -2419,11 +2419,11 @@ If a scheme supplier ceases to be a scheme supplier, the Authority may commence 
 - (a) “**anonymised form**” means that the data is in a form calculated to prevent the data from being identified as relating to a particular person or property,
 - (b) “**customer**” in relation to a scheme supplier or a former scheme supplier, means a person who is or has been supplied with gas by that supplier.
 
-### 66. Additional information[^key-e91318554eaf6c4f900c4bea7354aa73]
+### 66. Additional information[^c-e91318554eaf6c4f900c4bea7354aa73]
 
 On request by the Secretary of State, the Authority must provide to the Secretary of State in such manner and form and by such date as the Secretary of State may request such additional information as the Authority may hold in relation to the performance of its functions under these Regulations.
 
-### 67. Power to use and disclose information[^key-8a1bf342e0935986a928ac1a81e5db33]
+### 67. Power to use and disclose information[^c-8a1bf342e0935986a928ac1a81e5db33]
 
 (1) This regulation applies to a person (“**P**”) who holds relevant information, including where P holds that information as a result of disclosure made in accordance with paragraph (3).
 
@@ -2448,7 +2448,7 @@ On request by the Secretary of State, the Authority must provide to the Secretar
 
 (6) For the purposes of this regulation, “**relevant information**” means information provided by an applicant, a participant, a former participant, a licensed gas supplier, a scheme supplier, or a former scheme supplier in accordance with these Regulations.
 
-### 68. Notices[^key-581498b5cd5bad5176ed117a30cf26f4]
+### 68. Notices[^c-581498b5cd5bad5176ed117a30cf26f4]
 
 (1) Any notice or notification required to be given or served under these Regulations must be in writing and may be sent by electronic means, including by sending it to an email address provided by the addressee for the purposes of these Regulations.
 
@@ -2470,9 +2470,9 @@ Department for Business, Energy and Industrial Strategy
 
 Regulation 5(2)(a)
 
-**1.**[^key-8c46b64222e0b41b7b389dfad6a9faf6] This Schedule specifies the information that may be required of an applicant for registration.
+**1.**[^c-8c46b64222e0b41b7b389dfad6a9faf6] This Schedule specifies the information that may be required of an applicant for registration.
 
-**2.**[^key-d083ab35e31021cac4081697c6326430] The information is (as applicable to the applicant)—
+**2.**[^c-d083ab35e31021cac4081697c6326430] The information is (as applicable to the applicant)—
 
 - (a) name and telephone number,
 - (b) any company registration number,
@@ -2491,11 +2491,11 @@ Regulation 5(2)(a)
 - (m) confirmation, in such form as the Authority may require, that the applicant will comply with the requirements relating to digestate set out in regulation 9(13), and
 - (n) such other information as the Authority may require to enable it to consider the application for registration.
 
-**3.**[^key-108a3a5114ca434ec06a1f040a61d7f8] Information specified in this Schedule must be provided in such manner and form as the Authority may reasonably request.
+**3.**[^c-108a3a5114ca434ec06a1f040a61d7f8] Information specified in this Schedule must be provided in such manner and form as the Authority may reasonably request.
 
-**4.**[^key-46dbe6745a094242494539c600c87369] The costs of providing the information specified in this Schedule are to be borne by the applicant.
+**4.**[^c-46dbe6745a094242494539c600c87369] The costs of providing the information specified in this Schedule are to be borne by the applicant.
 
-## SCHEDULE 1A — Information required for registration of an eligible heat pump[^key-928e6562c272166e13b2449989d9d56b]
+## SCHEDULE 1A — Information required for registration of an eligible heat pump[^c-928e6562c272166e13b2449989d9d56b]
 
 Regulation 8A(2)(a)
 
@@ -2524,9 +2524,9 @@ Regulation 8A(2)(a)
 
 Regulation 2(1)
 
-**1.**[^key-99af6e1ed7e50280cbdff6aea23e9bc3] Where the Secretary of State is satisfied that a scheme complies with the requirements in paragraph 2, the Secretary of State may approve that scheme for the purpose of these Regulations.
+**1.**[^c-99af6e1ed7e50280cbdff6aea23e9bc3] Where the Secretary of State is satisfied that a scheme complies with the requirements in paragraph 2, the Secretary of State may approve that scheme for the purpose of these Regulations.
 
-**2.**[^key-854c99f7cc9fc5158fb0d8358e8bee4e] The requirements in this paragraph are that appropriate procedures have been adopted to ensure that the person administering the scheme (“the scheme administrator”)—
+**2.**[^c-854c99f7cc9fc5158fb0d8358e8bee4e] The requirements in this paragraph are that appropriate procedures have been adopted to ensure that the person administering the scheme (“the scheme administrator”)—
 
 - (a) establishes and maintains an accurate and up to date list of fuels which—
   - (i) are feedstocks used to produce biomethane,
@@ -2548,25 +2548,25 @@ Regulation 2(1)
 - (i) where appropriate, removes from the list those feedstocks which are supplied by a supplier who breaches the requirements of the scheme, and
 - (j) deals with complaints by suppliers in relation to the operation of the scheme in a fair and transparent manner.
 
-**3.**[^key-8a06634acdc05e22418f2ef83d189589] The requirements in this paragraph are—
+**3.**[^c-8a06634acdc05e22418f2ef83d189589] The requirements in this paragraph are—
 
 - (a) that the feedstock meets the greenhouse gas criteria, and
 - (b) that any feedstock which is included in the list meets the land criteria.
 
-**4.**[^key-55f7233fa1bd5b31993f1664307fea3a] The requirement in this paragraph is that the feedstock is, or is wholly derived from, waste.
+**4.**[^c-55f7233fa1bd5b31993f1664307fea3a] The requirement in this paragraph is that the feedstock is, or is wholly derived from, waste.
 
-**5.**[^key-cc22867439d6514711814baac6dd6266] Where the Secretary of State approves a scheme under paragraph (1), the Secretary of State may declare that any feedstock—
+**5.**[^c-cc22867439d6514711814baac6dd6266] Where the Secretary of State approves a scheme under paragraph (1), the Secretary of State may declare that any feedstock—
 
 - (a) listed under that scheme before the date on which the scheme is approved, and
 - (b) received by a participant before that date,
 
 is deemed to meet the requirement in paragraph 3(a) and the land criteria.
 
-**6.**[^key-2cec0a874f30f6f620db3f99dd4c33a5] Where the Secretary of State is no longer satisfied that an approved scheme complies with the requirements in paragraph 2, the Secretary of State may by notice to the scheme administrator, revoke approval of the scheme with effect from the date specified in the notice.
+**6.**[^c-2cec0a874f30f6f620db3f99dd4c33a5] Where the Secretary of State is no longer satisfied that an approved scheme complies with the requirements in paragraph 2, the Secretary of State may by notice to the scheme administrator, revoke approval of the scheme with effect from the date specified in the notice.
 
-**7.**[^key-dc3da66002c4719e456c7441f6c3088a] Where approval is revoked in accordance with paragraph 6, any feedstock listed under the scheme which has been supplied to a participant before the date on which the approval is revoked is treated as an approved sustainable fuel for the purposes of these Regulations.
+**7.**[^c-dc3da66002c4719e456c7441f6c3088a] Where approval is revoked in accordance with paragraph 6, any feedstock listed under the scheme which has been supplied to a participant before the date on which the approval is revoked is treated as an approved sustainable fuel for the purposes of these Regulations.
 
-**8.**[^key-bc297e40ceaf33177cd04acb13f861c9] In this Schedule—
+**8.**[^c-bc297e40ceaf33177cd04acb13f861c9] In this Schedule—
 
 - (a) “**greenhouse gas criteria**” has the meaning given in regulation 12(10)(a),
 - (b) “**land criteria**” has the meaning given in regulation 12(10)(d).
@@ -2577,7 +2577,7 @@ Regulation 12(10)(d)
 
 ### PART 1 — Interpretation
 
-**1.**[^key-3a66e859e4ed730ef33f1f3d6d85cdc4] (1) In this Schedule—
+**1.**[^c-3a66e859e4ed730ef33f1f3d6d85cdc4] (1) In this Schedule—
 
 - “**continuously forested area**” means land of an area of more than one hectare which includes—
   - (a) trees more than five metres tall providing a tree canopy cover of more than 30%, or
@@ -2609,13 +2609,13 @@ Regulation 12(10)(d)
 
 ### PART 2 — Land criteria for solid biomass which is wood or wholly derived from wood, excluding energy crops
 
-**2.**[^key-2bdd170ee6c6677bede744ca3fef6239] Solid biomass which is wood or wholly derived from wood (except energy crops) meets the land criteria if—
+**2.**[^c-2bdd170ee6c6677bede744ca3fef6239] Solid biomass which is wood or wholly derived from wood (except energy crops) meets the land criteria if—
 
 - (a) at least 70% of the consignment was obtained from a sustainable source,
 - (b) where more than one consignment is used in a quarter, at least 70% of the solid biomass used was obtained from a sustainable source, or
 - (c) the solid biomass was certified under an environmental quality assurance scheme which ensures that at least 70% of the solid biomass certified by that scheme was obtained from a sustainable source.
 
-**3.**[^key-2fc087230f8e214ba6da8654c146fcfb] (1) For the purposes of paragraph 2, solid biomass which is wood or wholly derived from wood (except energy crops) is obtained from a sustainable source if it—
+**3.**[^c-2fc087230f8e214ba6da8654c146fcfb] (1) For the purposes of paragraph 2, solid biomass which is wood or wholly derived from wood (except energy crops) is obtained from a sustainable source if it—
 
 - (a) was grown within an area of forest or of other land which is managed—
   - (i) in a way that is consistent with—
@@ -2670,24 +2670,24 @@ Regulation 12(10)(d)
   - (iii) safeguarding the health and safety and rights of workers, and
 - (h) there is regular assessment of the extent to which those responsible for the management of the area have met the requirements specified in paragraphs (a) to (g).
 
-**4.**[^key-18b8e88a612bfb3ca3b0784bab94f4d0] Material added to solid biomass for an exempt purpose is disregarded for the purposes of paragraph 2.
+**4.**[^c-18b8e88a612bfb3ca3b0784bab94f4d0] Material added to solid biomass for an exempt purpose is disregarded for the purposes of paragraph 2.
 
-**5.**[^key-2c939a8d4930584a397ebc6ff7836b5b] For the purposes of paragraph 3—
+**5.**[^c-2c939a8d4930584a397ebc6ff7836b5b] For the purposes of paragraph 3—
 
 - (a) “**integrated pest management**” means careful consideration of all available plant protection methods and subsequent integration of appropriate measures that discourage the development of populations of harmful organisms and keep the use of plant protection products and other forms of intervention to levels that are economically and ecologically justified and reduce or minimise risks to human health and the environment,
 - (b) “**Forest Europe Sustainable Forest Management Criteria**” means the criteria for sustainable forest management in Lisbon Resolution L2 of the third Ministerial conference on the Protection of Forests in Europe held in June 1998[^f00036].
 
 ### PART 3 — Land criteria for other solid biomass including energy crops
 
-**6.**[^key-a27c25d7d01d7715035cd803d9ac3f30] Solid biomass which is not wood or derived wholly from wood, or which is an energy crop, meets the land criteria if it—
+**6.**[^c-a27c25d7d01d7715035cd803d9ac3f30] Solid biomass which is not wood or derived wholly from wood, or which is an energy crop, meets the land criteria if it—
 
 - (a) was not obtained from a protected source,
 - (b) was an energy crop in respect of which financial assistance was paid under the Energy Crops Regulations 2000[^f00037] or under an equivalent financial assistance scheme, or
 - (c) was residue (other than residue from agriculture, aquaculture, fisheries or forestry).
 
-**7.**[^key-3ab06fdd4c179f767503198b54722b39] Material added to solid biomass for an exempt purpose is disregarded for the purposes of paragraph 6.
+**7.**[^c-3ab06fdd4c179f767503198b54722b39] Material added to solid biomass for an exempt purpose is disregarded for the purposes of paragraph 6.
 
-**8.**[^key-e58446ceccf02c23e182695a7c009e04] Solid biomass is obtained from a protected source if it is obtained from—
+**8.**[^c-e58446ceccf02c23e182695a7c009e04] Solid biomass is obtained from a protected source if it is obtained from—
 
 - (a) land which at any time during or after January 2008 was primary forest,
 - (b) except where paragraph 9 applies, land which at any time during or after January 2008 was designated for nature protection purposes,
@@ -2696,9 +2696,9 @@ Regulation 12(10)(d)
 - (e) a former continuously forested area, or
 - (f) a former wetland area.
 
-**9.**[^key-209cb3c47429e4273cfdf7b9cad7eb42] This paragraph applies if the production of the solid biomass did not interfere with the nature protection purposes for which the land was designated.
+**9.**[^c-209cb3c47429e4273cfdf7b9cad7eb42] This paragraph applies if the production of the solid biomass did not interfere with the nature protection purposes for which the land was designated.
 
-**10.**[^key-22623ddd0de85c9d78f1d494d15efe13] This paragraph applies if the cultivation and harvesting of the solid biomass did not involve the drainage of previously undrained soil.
+**10.**[^c-22623ddd0de85c9d78f1d494d15efe13] This paragraph applies if the cultivation and harvesting of the solid biomass did not involve the drainage of previously undrained soil.
 
 EXPLANATORY NOTE
 
@@ -2746,13 +2746,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00003]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 148A, which was added by section 55(1) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), requires the Secretary of State to consult the Welsh Ministers before establishing a renewable energy incentive scheme under section 100 of the Energy Act 2008 (“**the 2008 Act**”) that applies in Wales, but not in relation to any levy in connection with such a scheme.
 
-[^key-e4caab8dfc26f9b7e7c88481fd5ad3df]: Commencement: Reg. 1 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-e4caab8dfc26f9b7e7c88481fd5ad3df]: Commencement: Reg. 1 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-d8e36b8c1ee44ddbcdfa74bda1ddbbdc]: Commencement: Reg. 2 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-d8e36b8c1ee44ddbcdfa74bda1ddbbdc]: Commencement: Reg. 2 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^f00004]: Footnote: See section 100(3) of the 2008 Act for the definition of “biomethane”.
 
-[^key-63224700ea0062cfe350c7b21b06109e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/3/a)
+[^c-63224700ea0062cfe350c7b21b06109e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/3/a)
 
 [^f00005]: Footnote: See section 100(3) of the 2008 Act for the meanings of “plant” and “biogas”.
 
@@ -2764,7 +2764,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00009]: Footnote: The “**Authority**” means the Gas and Electricity Markets Authority (see section 100(3) of the 2008 Act).
 
-[^key-a87379b84f8bfd157adcf460b6c4d05e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/3/a)
+[^c-a87379b84f8bfd157adcf460b6c4d05e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/3/a)
 
 [^f00010]: Footnote: The ISBN for the English language version of this standard is ISBN 0 580 19482 5. This standard was published by the British Standards Institution on 28th June 2011. Copies are available at www.bsigroup.com and hard copies can be obtained from BSI Customer Services, 389 Chiswick High Road, London W4 4AL.
 
@@ -2772,11 +2772,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00012]: Footnote: [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360); relevant amending instruments are [S.S.I. 2014/267](https://www.legislation.gov.uk/ssi/2014/267), [2016/39](https://www.legislation.gov.uk/ssi/2016/39) and [2017/446](https://www.legislation.gov.uk/ssi/2017/446).
 
-[^key-07d36532ae424e9e984953f4930fe1dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/3/b)
+[^c-07d36532ae424e9e984953f4930fe1dc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/3/b)
 
 [^f00013]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7 was substituted by section 5 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45), and amended by section 76 of, and paragraph 4 of Schedule 6 and Schedule 8 to, the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), by section 149(5) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), and by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704).
 
-[^key-f8d64c42cbdb2a2360e72d15981f83ea]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/3/c)
+[^c-f8d64c42cbdb2a2360e72d15981f83ea]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/3/c)
 
 [^f00014]: Footnote: Section 7A was inserted by section 6(1) of the Gas Act 1995 and amended by paragraph 2(1) of Schedule 6 to the Utilities Act 2000, and by section 149(7) of the Energy Act 2004.
 
@@ -2784,7 +2784,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00016]: Footnote: Section 5(6) to (10) was inserted by section 149(3) of the Energy Act 2004.
 
-[^key-0e6c0f6a389c17176825969331640cce]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2024/642/regulation/3/b)
+[^c-0e6c0f6a389c17176825969331640cce]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/2/1) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2024/642/regulation/3/b)
 
 [^f00017]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 75(2) was substituted by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988).
 
@@ -2792,326 +2792,326 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00019]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-6ed87babf15095d1ba0b391145be3a21]: Commencement: Reg. 3 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-6ed87babf15095d1ba0b391145be3a21]: Commencement: Reg. 3 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^f00020]: Footnote: Section 100 of the 2008 Act enables the Secretary of State to make Regulations establishing a scheme to facilitate and encourage “renewable generation of heat”, which means the generation of heat by means of sources of energy including biogas.
 
-[^key-0117ee0487ba9e2573cd87cf1c308f84]: Commencement: Reg. 4 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-0117ee0487ba9e2573cd87cf1c308f84]: Commencement: Reg. 4 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-5c8360ad47348b11905e76a6b761b8b7]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/2/a) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/a)
+[^c-5c8360ad47348b11905e76a6b761b8b7]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/2/a) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/a)
 
 [^f00021]: Footnote: [S.I. 2011/2860](https://www.legislation.gov.uk/uksi/2011/2860), as amended by [S.I. 2013/1033](https://www.legislation.gov.uk/uksi/2013/1033), [2410](https://www.legislation.gov.uk/uksi/2013/2410) and [3179](https://www.legislation.gov.uk/uksi/2013/3179), [2014/1413](https://www.legislation.gov.uk/uksi/2014/1413), [2015/197](https://www.legislation.gov.uk/uksi/2015/197) and [477](https://www.legislation.gov.uk/uksi/2015/477), [2016/718](https://www.legislation.gov.uk/uksi/2016/718) and [1197](https://www.legislation.gov.uk/uksi/2016/1197), and [2017/727](https://www.legislation.gov.uk/uksi/2017/727) and [857](https://www.legislation.gov.uk/uksi/2017/857).
 
 [^f00022]: Footnote: [S.I. 2018/611](https://www.legislation.gov.uk/uksi/2018/611), as amended by [S.I. 2021/76](https://www.legislation.gov.uk/uksi/2021/76). There are other amendments not relevant to this instrument. Regulation 32 provides for a producer of biomethane for injection to be registered as a participant in the Renewable Heat Incentive Scheme, and to receive periodic support payments in relation to that production of biomethane. That scheme closed to new applications, with some exceptions, on 31st March 2021 (see regulations 3A and 3B of those Regulations inserted by [S.I. 2021/76](https://www.legislation.gov.uk/uksi/2021/76)).
 
-[^key-de25a9d7b013f1489cf527ca488402f0]: Textual amendment: [Reg. 4(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/7/b/ii) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/b)
+[^c-de25a9d7b013f1489cf527ca488402f0]: Textual amendment: [Reg. 4(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/7/b/ii) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/b)
 
-[^key-124c816950d3c17ecc7e5e63e448b013]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/9) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+[^c-124c816950d3c17ecc7e5e63e448b013]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/9) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
 
-[^key-dcdf157518b373935b616f69b827e73c]: Textual amendment: Reg. 4(9A)(9B) inserted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+[^c-dcdf157518b373935b616f69b827e73c]: Textual amendment: Reg. 4(9A)(9B) inserted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
 
-[^key-6d432112349f6b15f51e975c5f61f935]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+[^c-6d432112349f6b15f51e975c5f61f935]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
 
-[^key-ef249ee15481861b452a242a717d45c4]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+[^c-ef249ee15481861b452a242a717d45c4]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
 
 [^f00023]: Footnote: This is a factor to account for the calorific value per cubic metre of biomethane (10 kWh/m<sup>3</sup>) and proportion of eligible biomethane per unit of biomethane injected (0.91).
 
-[^key-72ce577d2dd5a0c13fa534fbe19e17a4]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) inserted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/iii/aa) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+[^c-72ce577d2dd5a0c13fa534fbe19e17a4]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) inserted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/iii/aa) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
 
-[^key-e91bfd54739bd7b2cf78fa4ab18295fd]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) omitted (1.7.2022) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/iii/bb) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+[^c-e91bfd54739bd7b2cf78fa4ab18295fd]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) omitted (1.7.2022) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/iii/bb) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
 
-[^key-84d79fe038e5e8bfed960d7627ccd5ce]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(iii)(cc)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/iii/cc) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+[^c-84d79fe038e5e8bfed960d7627ccd5ce]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) substituted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(a)(iii)(cc)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/a/iii/cc) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
 
-[^key-436122c9612e2d67cc3dc461756ede5b]: Textual amendment: Word in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) omitted (1.7.2022) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+[^c-436122c9612e2d67cc3dc461756ede5b]: Textual amendment: Word in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) omitted (1.7.2022) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
 
-[^key-0d5a42910d29e9bf7b1e0f8733e8a423]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) inserted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
+[^c-0d5a42910d29e9bf7b1e0f8733e8a423]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) inserted (1.7.2022) by [The Green Gas Support Scheme (Amendment) Regulations 2022 (S.I. 2022/592)](https://www.legislation.gov.uk/uksi/2022/592), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/592/regulation/1/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/592/regulation/2/4/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/592/regulation/3))
 
-[^key-54228e38a980b0ccaf45b5995cdc5a73]: Textual amendment: Word in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) omitted (4.6.2024) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(c)(i)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/c/i)
+[^c-54228e38a980b0ccaf45b5995cdc5a73]: Textual amendment: Word in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) omitted (4.6.2024) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(c)(i)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/c/i)
 
-[^key-e2ac72e22b57cdc78c3695533687a460]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/c/ii)
+[^c-e2ac72e22b57cdc78c3695533687a460]: Textual amendment: Words in [reg. 4(17)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/4/17) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2024/642/regulation/4/c/ii)
 
-[^key-79dc016673d68ece04d52156035dcefd]: Commencement: Reg. 5 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-79dc016673d68ece04d52156035dcefd]: Commencement: Reg. 5 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-2334780714930b92eaaa9a954021c5d7]: Commencement: Reg. 6 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-2334780714930b92eaaa9a954021c5d7]: Commencement: Reg. 6 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-18ffbdefdbaae8a9c4693dd2d5463a55]: Textual amendment: Word in reg. 6(5)(d) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 34(2)(a)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34/2/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-18ffbdefdbaae8a9c4693dd2d5463a55]: Textual amendment: Word in reg. 6(5)(d) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 34(2)(a)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34/2/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-dd6212e203a33bb400ef33970914e10b]: Textual amendment: Words in reg. 6(5)(d)(ii) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 34(2)(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34/2/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-dd6212e203a33bb400ef33970914e10b]: Textual amendment: Words in reg. 6(5)(d)(ii) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 34(2)(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34/2/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^f00024]: Footnote: Regulatory position statements are published by the Environment Agency at: https://www.gov.uk/government/collections/basic-rules-environmental-permitting-regulatory-positions, and copies can be obtained from the Environment Agency at National Customer Contact Centre, PO Box 544, Rotherham, S60 1BY. Regulatory decisions are published by the Natural Resources Body for Wales at: https://naturalresources.wales/about-us/news-and-events/statements/?lang=en, and copies can be requested from the Natural Resources Body for Wales on 0300 065 3000. Position statements are published by the Scottish Environment Protection Agency at: https://www.sepa.org.uk/regulations/waste/guidance/#position\_statements, and copies can be obtained from the Scottish Environment Protection Agency at Strathallan House, Castle Business Park, Stirling FK9 4TZ.
 
-[^key-07b4f2c4cdf22a67eee80799186190ce]: Textual amendment: Words in reg. 6(5)(d)(ii)(aa) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 34(2)(c)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34/2/c) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-07b4f2c4cdf22a67eee80799186190ce]: Textual amendment: Words in reg. 6(5)(d)(ii)(aa) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 34(2)(c)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34/2/c) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-b0ca3b331c727dd559d3e153a2b1f5e3]: Textual amendment: Words in reg. 6(6)(d) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/642/regulation/5)
+[^c-b0ca3b331c727dd559d3e153a2b1f5e3]: Textual amendment: Words in reg. 6(6)(d) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/642/regulation/5)
 
-[^key-4178cb80ddc5a336a4be1cd3eaf82329]: Commencement: Reg. 7 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-4178cb80ddc5a336a4be1cd3eaf82329]: Commencement: Reg. 7 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-6136b3e3c953ee2ebc4235893aaa5889]: Textual amendment: Words in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/7/3/b) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/642/regulation/6)
+[^c-6136b3e3c953ee2ebc4235893aaa5889]: Textual amendment: Words in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/7/3/b) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/642/regulation/6)
 
 [^f00025]: Footnote: [1993 c. 39](https://www.legislation.gov.uk/ukpga/1993/39). Section 1 was amended by section 3 of the National Lottery Act [2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23).
 
-[^key-ecbc70a2f0e223dcd3d601f8857b7ed2]: Commencement: Reg. 8 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-ecbc70a2f0e223dcd3d601f8857b7ed2]: Commencement: Reg. 8 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-b60ba92b4be1c9e13d06ec918cc8549f]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/8/1/b) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/642/regulation/7)
+[^c-b60ba92b4be1c9e13d06ec918cc8549f]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/8/1/b) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/642/regulation/7)
 
-[^key-b41b4b21d84cf3438880be9fd315d735]: Textual amendment: Reg. 8A inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/642/regulation/8)
+[^c-b41b4b21d84cf3438880be9fd315d735]: Textual amendment: Reg. 8A inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/642/regulation/8)
 
-[^key-7fd5760cf0dcf5aa506bdcc4d3556b9c]: Commencement: Reg. 9 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-7fd5760cf0dcf5aa506bdcc4d3556b9c]: Commencement: Reg. 9 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^f00026]: Footnote: See section 100(3) of the 2008 Act for the definition of “fossil fuel”.
 
-[^key-973507e32b6d9890d39de100135b2a6b]: Textual amendment: Word in [reg. 9(10)(d)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/9/10/d) omitted (4.6.2024) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/9/a)
+[^c-973507e32b6d9890d39de100135b2a6b]: Textual amendment: Word in [reg. 9(10)(d)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/9/10/d) omitted (4.6.2024) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/9/a)
 
-[^key-dd379cd5c6b87d61a3ce0f128ae128b0]: Textual amendment: Word in [reg. 9(10)(e)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/9/10/e) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [9(b)(i)](https://www.legislation.gov.uk/uksi/2024/642/regulation/9/b/i)
+[^c-dd379cd5c6b87d61a3ce0f128ae128b0]: Textual amendment: Word in [reg. 9(10)(e)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/9/10/e) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [9(b)(i)](https://www.legislation.gov.uk/uksi/2024/642/regulation/9/b/i)
 
-[^key-cd8c024d9c22dcead1d2fdbc46b1237a]: Textual amendment: Reg. 9(10)(f) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/642/regulation/9/b/ii)
+[^c-cd8c024d9c22dcead1d2fdbc46b1237a]: Textual amendment: Reg. 9(10)(f) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2024/642/regulation/9/b/ii)
 
 [^f00027]: Footnote: The Code can be viewed at: https://www.gov.uk/government/publications/code-of-good-agricultural-practice-for-reducing-ammonia-emissions/code-of-good-agricultural-practice-cogap-for-reducing-ammonia-emissions. It is not available in hard copy.
 
-[^key-7f2ebe1442e84e60fcafa2290aa5ce9c]: Commencement: Reg. 10 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-7f2ebe1442e84e60fcafa2290aa5ce9c]: Commencement: Reg. 10 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-981215d5619413a40a87ac715f565ca3]: Textual amendment: Reg. 10(1)(ga) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/642/regulation/10)
+[^c-981215d5619413a40a87ac715f565ca3]: Textual amendment: Reg. 10(1)(ga) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/642/regulation/10)
 
-[^key-76c698b93b41437f0b7ca52f5098fdff]: Textual amendment: Words in reg. 10(1)(j)(ii) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 34(3)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34/3) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-76c698b93b41437f0b7ca52f5098fdff]: Textual amendment: Words in reg. 10(1)(j)(ii) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 34(3)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/34/3) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-dd41c38e829184d3f6f73a836fd9d540]: Commencement: Reg. 11 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-dd41c38e829184d3f6f73a836fd9d540]: Commencement: Reg. 11 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-8d4a76a118951969a9474f0ac8d04f0e]: Commencement: Reg. 12 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-8d4a76a118951969a9474f0ac8d04f0e]: Commencement: Reg. 12 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-4f4609806efc0d879f28f9c4233678eb]: Commencement: Reg. 13 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-4f4609806efc0d879f28f9c4233678eb]: Commencement: Reg. 13 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^f00028]: Footnote: International Standard on Assurance Engagements (UK) 3000 (July 2020): Assurance engagements other than audits or reviews of historical financial information, published by the Financial Reporting Council in July 2020. Copies are available at www.frc.org.uk, and hard copies can be obtained from the Financial Reporting Council, 8th Floor, 125 London Wall, London, EC2Y 5AS.
 
-[^key-c666e5b060525788845ce38ee53bfeb0]: Commencement: Reg. 14 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-c666e5b060525788845ce38ee53bfeb0]: Commencement: Reg. 14 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-587c96b9de477bae923f80901b2499fc]: Textual amendment: Word in [reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/14/1/a) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2024/642/regulation/11)
+[^c-587c96b9de477bae923f80901b2499fc]: Textual amendment: Word in [reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/14/1/a) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2024/642/regulation/11)
 
-[^key-0fa22622776e7d354c4d13bc7ffb9cb1]: Commencement: Reg. 15 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-0fa22622776e7d354c4d13bc7ffb9cb1]: Commencement: Reg. 15 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-9a79a7ba746d531fb9e5b03fc8cfe868]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/15/4) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/642/regulation/12)
+[^c-9a79a7ba746d531fb9e5b03fc8cfe868]: Textual amendment: Words in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/15/4) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/642/regulation/12)
 
-[^key-2b525373b29cff33dc6b50b009f66d5a]: Commencement: Reg. 16 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-2b525373b29cff33dc6b50b009f66d5a]: Commencement: Reg. 16 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-ee9aac35bc72f64bf70a84ceff473e70]: Commencement: Reg. 17 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-ee9aac35bc72f64bf70a84ceff473e70]: Commencement: Reg. 17 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-df29f26ea9d768d64fe23c756f39d47a]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2021/1335/regulation/17) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2024/642/regulation/13)
+[^c-df29f26ea9d768d64fe23c756f39d47a]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2021/1335/regulation/17) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2024/642/regulation/13)
 
-[^key-83274ee1c80400ac1853dc9bf945f243]: Commencement: Reg. 18 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-83274ee1c80400ac1853dc9bf945f243]: Commencement: Reg. 18 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-c0ea3dbd9402fa56c3330c9132f40640]: Commencement: Reg. 19 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-c0ea3dbd9402fa56c3330c9132f40640]: Commencement: Reg. 19 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-a81d5875ff967755ac327bc5e8955b81]: Commencement: Reg. 20 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-a81d5875ff967755ac327bc5e8955b81]: Commencement: Reg. 20 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-8ad43c2aad732def84fb72dde846d0a6]: Commencement: Reg. 21 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-8ad43c2aad732def84fb72dde846d0a6]: Commencement: Reg. 21 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-7b5c6f31610e0209ea04f23c5db17d84]: Commencement: Reg. 22 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-7b5c6f31610e0209ea04f23c5db17d84]: Commencement: Reg. 22 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-fd67e18a28418dcb6d6efdf7c854dbab]: Textual amendment: Words in [reg. 22(3)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/22/3/a) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2024/642/regulation/14)
+[^c-fd67e18a28418dcb6d6efdf7c854dbab]: Textual amendment: Words in [reg. 22(3)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/22/3/a) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2024/642/regulation/14)
 
-[^key-c5453652e8bc12076bcb571c68d4ed2c]: Commencement: Reg. 23 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-c5453652e8bc12076bcb571c68d4ed2c]: Commencement: Reg. 23 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-2120a0ba53a8ca75b0d9878b6d609eb6]: Commencement: Reg. 24 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-2120a0ba53a8ca75b0d9878b6d609eb6]: Commencement: Reg. 24 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-c184e14bca981cf4f4c787fa61e2767e]: Commencement: Reg. 25 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-c184e14bca981cf4f4c787fa61e2767e]: Commencement: Reg. 25 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-e50ec4125d11262e533ca2f6c3d8c312]: Commencement: Reg. 26 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-e50ec4125d11262e533ca2f6c3d8c312]: Commencement: Reg. 26 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-1861c56dc3396dfbc731ad495f8ccb7e]: Commencement: Reg. 27 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-1861c56dc3396dfbc731ad495f8ccb7e]: Commencement: Reg. 27 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-87788b8f809af388ed71de281c9e878b]: Textual amendment: [Reg. 27(2)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/27/2) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/15/a)
+[^c-87788b8f809af388ed71de281c9e878b]: Textual amendment: [Reg. 27(2)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/27/2) substituted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2024/642/regulation/15/a)
 
 [^f00029]: Footnote: [S.I. 2007/3072](https://www.legislation.gov.uk/uksi/2007/3072), as amended by [S.I. 2011/493](https://www.legislation.gov.uk/uksi/2011/493) and [2937](https://www.legislation.gov.uk/uksi/2011/2937), [2015/534](https://www.legislation.gov.uk/uksi/2015/534) and [2018/374](https://www.legislation.gov.uk/uksi/2018/374).
 
-[^key-35d78441fc2300167996f6a4d7d4878e]: Textual amendment: Reg. 27(11) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2024/642/regulation/15/b)
+[^c-35d78441fc2300167996f6a4d7d4878e]: Textual amendment: Reg. 27(11) inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2024/642/regulation/15/b)
 
-[^key-f66499c87f045e6d1eb040315722fc27]: Commencement: Reg. 28 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-f66499c87f045e6d1eb040315722fc27]: Commencement: Reg. 28 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-f4bc60c80ecc81a8a05be9d43daef9ef]: Commencement: Reg. 29 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-f4bc60c80ecc81a8a05be9d43daef9ef]: Commencement: Reg. 29 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-f16732648fb5fdd8d741fce4252d5917]: Commencement: Reg. 30 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-f16732648fb5fdd8d741fce4252d5917]: Commencement: Reg. 30 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-de894fb1accdf505261285d8767e839b]: Commencement: Reg. 31 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-de894fb1accdf505261285d8767e839b]: Commencement: Reg. 31 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-f9bdf94e50fa182425bbb3b8405bc5d2]: Commencement: Reg. 32 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-f9bdf94e50fa182425bbb3b8405bc5d2]: Commencement: Reg. 32 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-f444d2fb7efade806c3e227477fcc1f8]: Commencement: Reg. 33 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-f444d2fb7efade806c3e227477fcc1f8]: Commencement: Reg. 33 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-0dd50c27598d6984c52baf2647a859d8]: Commencement: Reg. 34 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-0dd50c27598d6984c52baf2647a859d8]: Commencement: Reg. 34 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-49f96578673bb01b7fa36a5cdf325ec7]: Commencement: Reg. 35 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-49f96578673bb01b7fa36a5cdf325ec7]: Commencement: Reg. 35 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-bd28279d04a9af27923936628d237479]: Commencement: Reg. 36 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-bd28279d04a9af27923936628d237479]: Commencement: Reg. 36 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-4c277d439e078bc47e2f435ab52895bb]: Commencement: Reg. 37 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-4c277d439e078bc47e2f435ab52895bb]: Commencement: Reg. 37 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-97e0d93b76b7fad5264100e33d7c50e5]: Commencement: Reg. 38 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-97e0d93b76b7fad5264100e33d7c50e5]: Commencement: Reg. 38 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^f00030]: Footnote: See section 100(3) of the 2008 Act for the definitions of “fossil fuel supplier” and “fossil fuel”.
 
 [^f00031]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-24a0496c6954934cf3ae496ef9b908d6]: Commencement: Reg. 39 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-24a0496c6954934cf3ae496ef9b908d6]: Commencement: Reg. 39 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-4ac07a77a7ba3f2524e28bcc81c4e277]: Textual amendment: [Reg. 39(1)(c)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/39/1/c): in the formula, for “+Iy-2” it is substituted “-Iy-2” (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/4/a)
+[^c-4ac07a77a7ba3f2524e28bcc81c4e277]: Textual amendment: [Reg. 39(1)(c)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/39/1/c): in the formula, for “+Iy-2” it is substituted “-Iy-2” (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/4/a)
 
-[^key-3b049e2f0af134d9830cfd0c8e815d72]: Textual amendment: [Reg. 39(6A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/39/6A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/4/b)
+[^c-3b049e2f0af134d9830cfd0c8e815d72]: Textual amendment: [Reg. 39(6A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/39/6A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/4/b)
 
-[^key-15e8ad5c881549d2c2d7e41b7f6705ee]: Commencement: Reg. 40 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-15e8ad5c881549d2c2d7e41b7f6705ee]: Commencement: Reg. 40 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-df9026ed4a5212b1b11dfb02d95175fc]: Commencement: Reg. 41 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-df9026ed4a5212b1b11dfb02d95175fc]: Commencement: Reg. 41 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-3c3bb08448e58dc0f8752788157e96dc]: Textual amendment: Words in [reg. 41(2)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/41/2/b) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/5/a)
+[^c-3c3bb08448e58dc0f8752788157e96dc]: Textual amendment: Words in [reg. 41(2)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/41/2/b) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/5/a)
 
-[^key-39eb83fae1fbd43e8fb1709db4765744]: Textual amendment: [Reg. 41(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/41/2/b/ii) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/5/b)
+[^c-39eb83fae1fbd43e8fb1709db4765744]: Textual amendment: [Reg. 41(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/41/2/b/ii) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/5/b)
 
-[^key-f6f64cc7b9c1d87e8160b9849e9e576b]: Commencement: Reg. 42 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-f6f64cc7b9c1d87e8160b9849e9e576b]: Commencement: Reg. 42 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-e91a44438f50b1bfcb6dd27938d5b6c2]: Textual amendment: Words in [reg. 42(1)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/42/1/b) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/6/a)
+[^c-e91a44438f50b1bfcb6dd27938d5b6c2]: Textual amendment: Words in [reg. 42(1)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/42/1/b) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/6/a)
 
-[^key-9493145b5c31b3e10a4e6cacfb7b6693]: Textual amendment: [Reg. 42(3A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/42/3A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/6/b)
+[^c-9493145b5c31b3e10a4e6cacfb7b6693]: Textual amendment: [Reg. 42(3A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/42/3A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/6/b)
 
-[^key-e23d6d01abc52818dffafe79739b4d2d]: Textual amendment: Words in [reg. 42(5)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/42/5/b) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/6/c)
+[^c-e23d6d01abc52818dffafe79739b4d2d]: Textual amendment: Words in [reg. 42(5)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/42/5/b) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/6/c)
 
-[^key-945d35f9cca96aa8a4a493f1589fa529]: Textual amendment: [Reg. 42(5A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/42/5A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/6/d)
+[^c-945d35f9cca96aa8a4a493f1589fa529]: Textual amendment: [Reg. 42(5A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/42/5A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/6/d)
 
-[^key-a54bd61457399004c5a8a9f9212596b6]: Commencement: Reg. 43 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-a54bd61457399004c5a8a9f9212596b6]: Commencement: Reg. 43 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-4d017b74a9a2cbf6a229a3fed66c3561]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/2021/1335/regulation/43A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2023/1317/regulation/7)
+[^c-4d017b74a9a2cbf6a229a3fed66c3561]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/2021/1335/regulation/43A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2023/1317/regulation/7)
 
-[^key-8bd5773cc9d1a45d63b91c2a29bc8e06]: Commencement: Reg. 44 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-8bd5773cc9d1a45d63b91c2a29bc8e06]: Commencement: Reg. 44 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-80fffe881d0c9dce46fb33f3a6d4a7d5]: Commencement: Reg. 45 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-80fffe881d0c9dce46fb33f3a6d4a7d5]: Commencement: Reg. 45 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-f4e9db4ff02efd7cf15ec4935a787d19]: Commencement: Reg. 46 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-f4e9db4ff02efd7cf15ec4935a787d19]: Commencement: Reg. 46 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-ff8ba9a6cd994da97053d9cbd042e445]: Commencement: Reg. 47 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-ff8ba9a6cd994da97053d9cbd042e445]: Commencement: Reg. 47 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-fa5fad9c7ec9f1a230ebf3d1c710342c]: Commencement: Reg. 48 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-fa5fad9c7ec9f1a230ebf3d1c710342c]: Commencement: Reg. 48 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-4cd10258b45aaab7f4da7f8d8830d9b6]: Commencement: Reg. 49 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-4cd10258b45aaab7f4da7f8d8830d9b6]: Commencement: Reg. 49 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-86477964508cf086944cdc3978a0fab7]: Commencement: Reg. 50 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-86477964508cf086944cdc3978a0fab7]: Commencement: Reg. 50 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-b427a9c0b166195a5def6a11e901e139]: Commencement: Reg. 51 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-b427a9c0b166195a5def6a11e901e139]: Commencement: Reg. 51 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^f00032]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46). Section 15A was inserted by section 110 of the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-36e54c1f3d418800fb4aac1db138a071]: Textual amendment: Words in [reg. 51(7)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/a) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/i)
+[^c-36e54c1f3d418800fb4aac1db138a071]: Textual amendment: Words in [reg. 51(7)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/a) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/i)
 
-[^key-c718aaa95d813edd094abee91f63d8df]: Textual amendment: Words in [reg. 51(7)(c)(i)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/c/i) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/ii)
+[^c-c718aaa95d813edd094abee91f63d8df]: Textual amendment: Words in [reg. 51(7)(c)(i)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/c/i) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/ii)
 
-[^key-985c17bd641cc4b54825d1a72f44b681]: Textual amendment: [Reg. 51(7)(ca)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/ca) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/iii)
+[^c-985c17bd641cc4b54825d1a72f44b681]: Textual amendment: [Reg. 51(7)(ca)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/ca) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/iii)
 
-[^key-a174db8444e5143aa930a9fd6377c76c]: Textual amendment: [Reg. 51(7)(d)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/d) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/iv)
+[^c-a174db8444e5143aa930a9fd6377c76c]: Textual amendment: [Reg. 51(7)(d)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/d) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/iv)
 
-[^key-5d71025ec657f7a0d6bced7bae380c0d]: Textual amendment: [Reg. 51(7)(e)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/e) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/iv)
+[^c-5d71025ec657f7a0d6bced7bae380c0d]: Textual amendment: [Reg. 51(7)(e)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7/e) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/a/iv)
 
-[^key-32095f9ee4f7bd60f13b25fde031d2dd]: Textual amendment: [Reg. 51(7A)-(7E)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/b)
+[^c-32095f9ee4f7bd60f13b25fde031d2dd]: Textual amendment: [Reg. 51(7A)-(7E)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/7A) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/b)
 
-[^key-623629b73f1498e5695005a3813b9705]: Textual amendment: [Reg. 51(9)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/9) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(c)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/c)
+[^c-623629b73f1498e5695005a3813b9705]: Textual amendment: [Reg. 51(9)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/9) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(c)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/c)
 
-[^key-e41c5d113649acc8080f28bd4ffecb68]: Textual amendment: [Reg. 51(9A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/9A)[(9B)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/9B) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(d)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/d)
+[^c-e41c5d113649acc8080f28bd4ffecb68]: Textual amendment: [Reg. 51(9A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/9A)[(9B)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/51/9B) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [8(1)(d)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/8/1/d)
 
-[^key-0e1364309f976dbe1a04038720d38e21]: Commencement: Reg. 52 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-0e1364309f976dbe1a04038720d38e21]: Commencement: Reg. 52 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-65f6b5e420e1ce8cbb9ef52bb7949f74]: Commencement: Reg. 53 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-65f6b5e420e1ce8cbb9ef52bb7949f74]: Commencement: Reg. 53 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^f00033]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-bb57e95730ee40dbc9bed8a50a88b38e]: Commencement: Reg. 54 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-bb57e95730ee40dbc9bed8a50a88b38e]: Commencement: Reg. 54 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^f00034]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-e0a15ca400c8cbf7466600fada3ac0cf]: Commencement: Reg. 55 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-e0a15ca400c8cbf7466600fada3ac0cf]: Commencement: Reg. 55 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-76c8b160d0196da5c526d13d4417cc33]: Textual amendment: [Reg. 55(1)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/1/b) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/a)
+[^c-76c8b160d0196da5c526d13d4417cc33]: Textual amendment: [Reg. 55(1)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/1/b) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/a)
 
-[^key-a4ff49b9251186c5df9ee59ec3f3c0bf]: Textual amendment: [Reg. 55(2)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/2) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/b)
+[^c-a4ff49b9251186c5df9ee59ec3f3c0bf]: Textual amendment: [Reg. 55(2)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/2) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/b)
 
-[^key-55a3009d06f7a6b37649791dc4683981]: Textual amendment: [Reg. 55(2A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/2A)[(2B)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/2B) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/c)
+[^c-55a3009d06f7a6b37649791dc4683981]: Textual amendment: [Reg. 55(2A)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/2A)[(2B)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/2B) inserted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/c)
 
-[^key-ce74d0efb2a0f732598a175c535874b9]: Textual amendment: Words in [reg. 55(4)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/4) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/d)
+[^c-ce74d0efb2a0f732598a175c535874b9]: Textual amendment: Words in [reg. 55(4)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/4) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/d)
 
-[^key-ab60ad8792a0e482c246a2d3b1726280]: Textual amendment: Words in [reg. 55(5)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/5/b) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(e)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/e)
+[^c-ab60ad8792a0e482c246a2d3b1726280]: Textual amendment: Words in [reg. 55(5)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/55/5/b) substituted (1.12.2023) by [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [9(e)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/9/e)
 
-[^key-ed562ee89a9ae9554da3557bf32b15df]: Commencement: Reg. 56 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-ed562ee89a9ae9554da3557bf32b15df]: Commencement: Reg. 56 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-1833652d7c1408bc4b4b7640cb417d25]: Textual amendment: Word in [reg. 56(3)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/56/3/a) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/10/a)
+[^c-1833652d7c1408bc4b4b7640cb417d25]: Textual amendment: Word in [reg. 56(3)(a)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/56/3/a) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/10/a)
 
-[^key-dfad8cae1bf876d618a3fac792fed289]: Textual amendment: [Reg. 56(3)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/56/3/b) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/10/b)
+[^c-dfad8cae1bf876d618a3fac792fed289]: Textual amendment: [Reg. 56(3)(b)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/56/3/b) omitted (1.12.2023) by virtue of [The Green Gas Support Scheme (Amendment) Regulations 2023 (S.I. 2023/1317)](https://www.legislation.gov.uk/uksi/2023/1317), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2023/1317/regulation/10/b)
 
-[^key-ca0bc7f62b1e69819e2c79b9abdbd41d]: Commencement: Reg. 57 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-ca0bc7f62b1e69819e2c79b9abdbd41d]: Commencement: Reg. 57 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^f00035]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), to which there are amendments not relevant to these Regulations.
 
-[^key-32f2297d6295a628a921e9a2116853ef]: Commencement: Reg. 58 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-32f2297d6295a628a921e9a2116853ef]: Commencement: Reg. 58 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-08845a7b540759279e5183148fb58b2d]: Commencement: Reg. 59 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-08845a7b540759279e5183148fb58b2d]: Commencement: Reg. 59 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-176df5a11e56b2ad44106e24a82758ab]: Commencement: Reg. 60 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-176df5a11e56b2ad44106e24a82758ab]: Commencement: Reg. 60 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-9edd0e2bf3374cec36d6e8fe2501bb7d]: Commencement: Reg. 61 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-9edd0e2bf3374cec36d6e8fe2501bb7d]: Commencement: Reg. 61 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-8f738619347fd5f026d89d02576b7521]: Commencement: Reg. 62 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-8f738619347fd5f026d89d02576b7521]: Commencement: Reg. 62 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-eb4c0e86cad48e32eb6b517b9bff5225]: Commencement: Reg. 63 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-eb4c0e86cad48e32eb6b517b9bff5225]: Commencement: Reg. 63 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-af667cb86d8031a2b3b2f91ebffcf49c]: Commencement: Reg. 64 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-af667cb86d8031a2b3b2f91ebffcf49c]: Commencement: Reg. 64 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-8c454a8251804ecc1132acbd03cc5fec]: Commencement: Reg. 65 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-8c454a8251804ecc1132acbd03cc5fec]: Commencement: Reg. 65 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-e91318554eaf6c4f900c4bea7354aa73]: Commencement: Reg. 66 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-e91318554eaf6c4f900c4bea7354aa73]: Commencement: Reg. 66 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-8a1bf342e0935986a928ac1a81e5db33]: Commencement: Reg. 67 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-8a1bf342e0935986a928ac1a81e5db33]: Commencement: Reg. 67 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-581498b5cd5bad5176ed117a30cf26f4]: Commencement: Reg. 68 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-581498b5cd5bad5176ed117a30cf26f4]: Commencement: Reg. 68 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-8c46b64222e0b41b7b389dfad6a9faf6]: Commencement: Sch. 1 para. 1 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-8c46b64222e0b41b7b389dfad6a9faf6]: Commencement: Sch. 1 para. 1 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-d083ab35e31021cac4081697c6326430]: Commencement: Sch. 1 para. 2 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-d083ab35e31021cac4081697c6326430]: Commencement: Sch. 1 para. 2 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-108a3a5114ca434ec06a1f040a61d7f8]: Commencement: Sch. 1 para. 3 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-108a3a5114ca434ec06a1f040a61d7f8]: Commencement: Sch. 1 para. 3 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-46dbe6745a094242494539c600c87369]: Commencement: Sch. 1 para. 4 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-46dbe6745a094242494539c600c87369]: Commencement: Sch. 1 para. 4 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-928e6562c272166e13b2449989d9d56b]: Textual amendment: Sch. 1A inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/642/regulation/16)
+[^c-928e6562c272166e13b2449989d9d56b]: Textual amendment: Sch. 1A inserted (4.6.2024) by [The Green Gas Support Scheme (Amendment) Regulations 2024 (S.I. 2024/642)](https://www.legislation.gov.uk/uksi/2024/642), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/642/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/642/regulation/16)
 
-[^key-99af6e1ed7e50280cbdff6aea23e9bc3]: Commencement: Sch. 2 para. 1 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-99af6e1ed7e50280cbdff6aea23e9bc3]: Commencement: Sch. 2 para. 1 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-854c99f7cc9fc5158fb0d8358e8bee4e]: Commencement: Sch. 2 para. 2 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-854c99f7cc9fc5158fb0d8358e8bee4e]: Commencement: Sch. 2 para. 2 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-8a06634acdc05e22418f2ef83d189589]: Commencement: Sch. 2 para. 3 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-8a06634acdc05e22418f2ef83d189589]: Commencement: Sch. 2 para. 3 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-55f7233fa1bd5b31993f1664307fea3a]: Commencement: Sch. 2 para. 4 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-55f7233fa1bd5b31993f1664307fea3a]: Commencement: Sch. 2 para. 4 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-cc22867439d6514711814baac6dd6266]: Commencement: Sch. 2 para. 5 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-cc22867439d6514711814baac6dd6266]: Commencement: Sch. 2 para. 5 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-2cec0a874f30f6f620db3f99dd4c33a5]: Commencement: Sch. 2 para. 6 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-2cec0a874f30f6f620db3f99dd4c33a5]: Commencement: Sch. 2 para. 6 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-dc3da66002c4719e456c7441f6c3088a]: Commencement: Sch. 2 para. 7 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-dc3da66002c4719e456c7441f6c3088a]: Commencement: Sch. 2 para. 7 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-bc297e40ceaf33177cd04acb13f861c9]: Commencement: Sch. 2 para. 8 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-bc297e40ceaf33177cd04acb13f861c9]: Commencement: Sch. 2 para. 8 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-3a66e859e4ed730ef33f1f3d6d85cdc4]: Commencement: Sch. 3 para. 1 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-3a66e859e4ed730ef33f1f3d6d85cdc4]: Commencement: Sch. 3 para. 1 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-2bdd170ee6c6677bede744ca3fef6239]: Commencement: Sch. 3 para. 2 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-2bdd170ee6c6677bede744ca3fef6239]: Commencement: Sch. 3 para. 2 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-2fc087230f8e214ba6da8654c146fcfb]: Commencement: Sch. 3 para. 3 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-2fc087230f8e214ba6da8654c146fcfb]: Commencement: Sch. 3 para. 3 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-18b8e88a612bfb3ca3b0784bab94f4d0]: Commencement: Sch. 3 para. 4 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-18b8e88a612bfb3ca3b0784bab94f4d0]: Commencement: Sch. 3 para. 4 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-2c939a8d4930584a397ebc6ff7836b5b]: Commencement: Sch. 3 para. 5 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-2c939a8d4930584a397ebc6ff7836b5b]: Commencement: Sch. 3 para. 5 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^f00036]: Footnote: Lisbon Resolution L2 is entitled “Pan-European Criteria, Indicators and Operational Level Guidelines for Sustainable Forest Management”. Copies are available at http://www.foresteurope.org/ministerial\_conferences/lisbon1998.
 
-[^key-a27c25d7d01d7715035cd803d9ac3f30]: Commencement: Sch. 3 para. 6 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-a27c25d7d01d7715035cd803d9ac3f30]: Commencement: Sch. 3 para. 6 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
 [^f00037]: Footnote: [S.I.2000/3042](https://www.legislation.gov.uk/uksi/2000/3042), revoked by [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263).
 
-[^key-3ab06fdd4c179f767503198b54722b39]: Commencement: Sch. 3 para. 7 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-3ab06fdd4c179f767503198b54722b39]: Commencement: Sch. 3 para. 7 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-e58446ceccf02c23e182695a7c009e04]: Commencement: Sch. 3 para. 8 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-e58446ceccf02c23e182695a7c009e04]: Commencement: Sch. 3 para. 8 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-209cb3c47429e4273cfdf7b9cad7eb42]: Commencement: Sch. 3 para. 9 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-209cb3c47429e4273cfdf7b9cad7eb42]: Commencement: Sch. 3 para. 9 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
 
-[^key-22623ddd0de85c9d78f1d494d15efe13]: Commencement: Sch. 3 para. 10 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)
+[^c-22623ddd0de85c9d78f1d494d15efe13]: Commencement: Sch. 3 para. 10 in force at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1335/regulation/1/1)

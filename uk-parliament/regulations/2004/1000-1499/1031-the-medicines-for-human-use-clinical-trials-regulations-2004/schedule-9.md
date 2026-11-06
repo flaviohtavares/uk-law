@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — MODIFICATIONS OF THE ENFORCEMENT PROVISIONS OF THE 2012 REGULATIONS SUBJECT TO WHICH THOSE PROVISIONS ARE APPLIED FOR THE PURPOSES OF THESE REGULATIONS[^key-c5adc173c8f44dc72f26145b1533c3a9]
+## SCHEDULE 9 — MODIFICATIONS OF THE ENFORCEMENT PROVISIONS OF THE 2012 REGULATIONS SUBJECT TO WHICH THOSE PROVISIONS ARE APPLIED FOR THE PURPOSES OF THESE REGULATIONS[^c-c5adc173c8f44dc72f26145b1533c3a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,4 +111,4 @@ Regulation 47(1)
 
 ## Annotations
 
-[^key-c5adc173c8f44dc72f26145b1533c3a9]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/uksi/2004/1031/schedule/9) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 64](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/64) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-c5adc173c8f44dc72f26145b1533c3a9]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/uksi/2004/1031/schedule/9) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 64](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/64) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

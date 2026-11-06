@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Assistance and support[^key-d94fbfe810d25b7cac130930ce3a5852]
+## 2. Assistance and support[^c-d94fbfe810d25b7cac130930ce3a5852]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d94fbfe810d25b7cac130930ce3a5852]: Commencement: S. 2 in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-d94fbfe810d25b7cac130930ce3a5852]: Commencement: S. 2 in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

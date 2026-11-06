@@ -53,7 +53,7 @@ and without prejudice to the generality of the foregoing words, may by any such 
 
 and may authorise the making of charges and provide for the recovery of such charges and of any expenses incurred in disinfection.
 
-(3) Regulations made under this section shall specify the authorities, whether local authorities [^key-2b9f264e73eb436cb618042772f89f72]..., or Health Boards[^c592190] or National Health Service trusts established under section 12A of the National Health Service (Scotland) Act 1978[^c592191], by whom they are to be enforced and executed, and may also provide for their enforcement and execution by officers of customs and excise . . . [^c592192]:
+(3) Regulations made under this section shall specify the authorities, whether local authorities [^c-2b9f264e73eb436cb618042772f89f72]..., or Health Boards[^c592190] or National Health Service trusts established under section 12A of the National Health Service (Scotland) Act 1978[^c592191], by whom they are to be enforced and executed, and may also provide for their enforcement and execution by officers of customs and excise . . . [^c592192]:
 
 Provided that nothing in such regulations shall authorise any such authority, Board National Health Service trust[^c592194], or officer[^c592195] to institute proceedings for an offence against the regulations.
 
@@ -69,13 +69,13 @@ In reckoning any such period of forty days, no account shall be taken of any tim
 
 (8)[^c592200] In this section—
 
-- the expression “**authorised officer**” means as respects any local authority [^key-20825e56a07bb8bdfa79f84bbc8ce943]..., an officer of that authority authorised by them in writing, either generally or specially, to act in matters of any specified kind or in any specified matter:
-- Provided that the health board competent person[^key-5868df75af5d51bef84036d6f6645ec4] and sanitary inspector of any authority, shall by virtue of their appointments, be deemed to be authorised officers for the purposes of this Act;
+- the expression “**authorised officer**” means as respects any local authority [^c-20825e56a07bb8bdfa79f84bbc8ce943]..., an officer of that authority authorised by them in writing, either generally or specially, to act in matters of any specified kind or in any specified matter:
+- Provided that the health board competent person[^c-5868df75af5d51bef84036d6f6645ec4] and sanitary inspector of any authority, shall by virtue of their appointments, be deemed to be authorised officers for the purposes of this Act;
 - the expression “**coastal waters**” means waters within a distance of three nautical miles from any point on the coast measured from low water mark of ordinary spring tides;
-- the expression “health board competent person” means a person designated by a health board under section[^key-d22387055637b7eadc09a37a9655cb99] 3(1) of the Public Health etc. (Scotland) Act 2008;
+- the expression “health board competent person” means a person designated by a health board under section[^c-d22387055637b7eadc09a37a9655cb99] 3(1) of the Public Health etc. (Scotland) Act 2008;
 - the expression “[^c592202]**local authority**” means a council constituted under section 2 of the Local Government[^c592203] etc. (Scotland) Act 1994;
 - [^c592204] ...
-- [^key-ab5020ed21d33f13b61d785b829923ca]...
+- [^c-ab5020ed21d33f13b61d785b829923ca]...
 - the expression “**vessel**” has the same meaning as “[^c592206]**ship**” in the Merchant Shipping Act 1995.
 
 Other expressions have the same meaning as in the Public Health (Scotland) Act 1897.
@@ -96,7 +96,7 @@ This Act may be cited as the Public Health (Scotland) Act 1945, and the Public H
 
 [^c592189]: Textual amendment: Words inserted by [Food and Drugs (Scotland) Act 1956 (c. 30)](https://www.legislation.gov.uk/ukpga/1956/30), [s. 23](https://www.legislation.gov.uk/ukpga/1956/30/section/23)
 
-[^key-2b9f264e73eb436cb618042772f89f72]: Textual amendment: Words in s. 1(3) omitted (1.10.2009) by virtue of [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [sch. 2 para. 1(2)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/1/2)
+[^c-2b9f264e73eb436cb618042772f89f72]: Textual amendment: Words in s. 1(3) omitted (1.10.2009) by virtue of [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [sch. 2 para. 1(2)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/1/2)
 
 [^c592190]: Textual amendment: Words inserted by [National Health Service (Scotland) Act 1972 (c. 58)](https://www.legislation.gov.uk/ukpga/1972/58), [Sch. 6 para. 76](https://www.legislation.gov.uk/ukpga/1972/58/schedule/6/paragraph/76)(*a*)
 
@@ -118,11 +118,11 @@ This Act may be cited as the Public Health (Scotland) Act 1945, and the Public H
 
 [^c592200]: Modification: References to specified officers of a local authority to be construed as references to the proper officer of a local authority: [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 27 Pt. I para. 2](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/part/I/paragraph/2)
 
-[^key-20825e56a07bb8bdfa79f84bbc8ce943]: Textual amendment: Words in s. 1(8) omitted (1.10.2009) by virtue of [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [sch. 2 para. 1(3)(a)(i)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/1/3/a/i)
+[^c-20825e56a07bb8bdfa79f84bbc8ce943]: Textual amendment: Words in s. 1(8) omitted (1.10.2009) by virtue of [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [sch. 2 para. 1(3)(a)(i)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/1/3/a/i)
 
-[^key-5868df75af5d51bef84036d6f6645ec4]: Textual amendment: Words in s. 1(8) substituted (temp.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [sch. 2 para. 1(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/1/3/a/ii)
+[^c-5868df75af5d51bef84036d6f6645ec4]: Textual amendment: Words in s. 1(8) substituted (temp.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [sch. 2 para. 1(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/1/3/a/ii)
 
-[^key-d22387055637b7eadc09a37a9655cb99]: Textual amendment: Words in s. 1(8) inserted (temp.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [sch. 2 para. 1(3)(c)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/1/3/c)
+[^c-d22387055637b7eadc09a37a9655cb99]: Textual amendment: Words in s. 1(8) inserted (temp.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [sch. 2 para. 1(3)(c)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/1/3/c)
 
 [^c592202]: Textual amendment: Definition substituted by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 27 Pt. II para. 84](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/part/II/paragraph/84)
 
@@ -130,7 +130,7 @@ This Act may be cited as the Public Health (Scotland) Act 1945, and the Public H
 
 [^c592204]: Textual amendment: Definitions repealed by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29)
 
-[^key-ab5020ed21d33f13b61d785b829923ca]: Textual amendment: Words in s. 1(8) omitted (1.10.2009) by virtue of [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [sch. 2 para. 1(3)(b)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/1/3/b)
+[^c-ab5020ed21d33f13b61d785b829923ca]: Textual amendment: Words in s. 1(8) omitted (1.10.2009) by virtue of [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [sch. 2 para. 1(3)(b)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/1/3/b)
 
 [^c592206]: Textual amendment: Words in definition of “**vessel**” in s. 1(8) substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13 para. 20](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/20) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1))
 

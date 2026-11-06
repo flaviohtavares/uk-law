@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Regulations: general[^key-3c078a47dcd53bbe4e9518e0a549ba82]
+## 172. Regulations: general[^c-3c078a47dcd53bbe4e9518e0a549ba82]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c078a47dcd53bbe4e9518e0a549ba82]: Commencement: S. 172 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)
+[^c-3c078a47dcd53bbe4e9518e0a549ba82]: Commencement: S. 172 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)

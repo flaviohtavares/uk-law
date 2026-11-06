@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Appeal against decision on registration or removal[^key-5be7996d773275f5700d1fab7333cbc5]
+## 62. Appeal against decision on registration or removal[^c-5be7996d773275f5700d1fab7333cbc5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5be7996d773275f5700d1fab7333cbc5]: Textual amendment: Ss. 57-68 repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), s. 166(2), sch. 2 para. 7(2); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), art. 2, sch. 1 (with sch. 2) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4); s. 62(3) in so far as they are still in force amended (1.4.2013) by S.I. 2013/496, art. 1(1), Sch. 11 para. 6 (with Sch. 12)
+[^c-5be7996d773275f5700d1fab7333cbc5]: Textual amendment: Ss. 57-68 repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), s. 166(2), sch. 2 para. 7(2); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), art. 2, sch. 1 (with sch. 2) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4); s. 62(3) in so far as they are still in force amended (1.4.2013) by S.I. 2013/496, art. 1(1), Sch. 11 para. 6 (with Sch. 12)

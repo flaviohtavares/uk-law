@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Determination of capital[^key-6ae5a47c528300956e1183d648169134]
+## 34. Determination of capital[^c-6ae5a47c528300956e1183d648169134]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ae5a47c528300956e1183d648169134]: Commencement: Reg. 34 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-6ae5a47c528300956e1183d648169134]: Commencement: Reg. 34 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

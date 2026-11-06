@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.5. Application by legal representative to withdraw (legal aid)[^key-b80bc39831d171919b0f947121d25ebc]
+## 46.5. Application by legal representative to withdraw (legal aid)[^c-b80bc39831d171919b0f947121d25ebc]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ An application by a current representative to withdraw from the case must—
 
 ## Annotations
 
-[^key-b80bc39831d171919b0f947121d25ebc]: Commencement: [Rule 46.5](https://www.legislation.gov.uk/uksi/2025/909/rule/46.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b80bc39831d171919b0f947121d25ebc]: Commencement: [Rule 46.5](https://www.legislation.gov.uk/uksi/2025/909/rule/46.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

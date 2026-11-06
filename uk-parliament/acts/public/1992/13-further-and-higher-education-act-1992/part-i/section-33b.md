@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33B. Subsequent designation of existing bodies corporate as sixth form college corporations[^key-1dc714bc06c48a6f744ef1dcb4317329]
+## 33B. Subsequent designation of existing bodies corporate as sixth form college corporations[^c-1dc714bc06c48a6f744ef1dcb4317329]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dc714bc06c48a6f744ef1dcb4317329]: Textual amendment: Ss. 33A-33N and cross-heading inserted (12.1.2010 for the insertion of ss. 33A-33J, 33M, 33N, 1.4.2010 in so far as not already in force) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2009/22/schedule/8/paragraph/3); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-1dc714bc06c48a6f744ef1dcb4317329]: Textual amendment: Ss. 33A-33N and cross-heading inserted (12.1.2010 for the insertion of ss. 33A-33J, 33M, 33N, 1.4.2010 in so far as not already in force) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2009/22/schedule/8/paragraph/3); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))

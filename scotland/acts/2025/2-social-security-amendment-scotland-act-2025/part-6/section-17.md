@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Duty to uprate assistance for inflation[^key-4dd0559d2fee694704f5d3ab902ae8d3][^key-a3fb92380b11226d8e68e2f70d8e0c58]
+## 17. Duty to uprate assistance for inflation[^c-4dd0559d2fee694704f5d3ab902ae8d3][^c-a3fb92380b11226d8e68e2f70d8e0c58]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4dd0559d2fee694704f5d3ab902ae8d3]: Commencement: S. 17 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-4dd0559d2fee694704f5d3ab902ae8d3]: Commencement: S. 17 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
 
-[^key-a3fb92380b11226d8e68e2f70d8e0c58]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2025/2/section/17) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-a3fb92380b11226d8e68e2f70d8e0c58]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2025/2/section/17) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)

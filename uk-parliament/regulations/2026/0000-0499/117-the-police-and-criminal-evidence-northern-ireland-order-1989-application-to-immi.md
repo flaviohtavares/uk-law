@@ -50,7 +50,7 @@ In accordance with section 37(3) of that Act, a draft of these Regulations has b
 
 *Extent: N.I.*
 
-### 1. Citation, commencement and extent[^key-559e443e084291814446f426251df794]
+### 1. Citation, commencement and extent[^c-559e443e084291814446f426251df794]
 
 (1) These Regulations may be cited as the Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026.
 
@@ -60,7 +60,7 @@ In accordance with section 37(3) of that Act, a draft of these Regulations has b
 
 (4) The repeal and amendments made by Part 5 of these Regulations have the same extent as the enactment to which they relate.
 
-### 2. Interpretation[^key-a16ea3f4fd5588ac42c209f6473b3093]
+### 2. Interpretation[^c-a16ea3f4fd5588ac42c209f6473b3093]
 
 (1) In these Regulations—
 
@@ -91,7 +91,7 @@ and is detained there or elsewhere in the charge of an officer of Revenue and Cu
 
 *Extent: N.I.*
 
-### 3. Application of the Police and Criminal Evidence (Northern Ireland) Order 1989[^key-92c2da3e254c19b0a2778ca308db36d5]
+### 3. Application of the Police and Criminal Evidence (Northern Ireland) Order 1989[^c-92c2da3e254c19b0a2778ca308db36d5]
 
 (1) Subject to the modifications in paragraphs (2) and (3) and regulations 4 to 11, the provisions of the Order specified in Part 1 of Schedule 1 to these Regulations apply in relation to investigations conducted by immigration officers.
 
@@ -106,7 +106,7 @@ and is detained there or elsewhere in the charge of an officer of Revenue and Cu
 
 (5) In the Order as it applies by virtue of this regulation, an expression defined in these Regulations has the same meaning as in these Regulations.
 
-### 4. Exceptions[^key-fb29222a3abba43321af4a2188bfde82]
+### 4. Exceptions[^c-fb29222a3abba43321af4a2188bfde82]
 
 (1) Nothing in the application of the Order by virtue of regulation 3 confers on an immigration officer any power to—
 
@@ -120,11 +120,11 @@ and is detained there or elsewhere in the charge of an officer of Revenue and Cu
 
 (3) Nothing in the application of the Order by virtue of regulation 3 confers on an immigration officer any power to detain a person for an offence after the person has been charged with that offence.
 
-### 5. Authorisation[^key-ce8d35c98c34ca8ef9a1e8fefc3c313d]
+### 5. Authorisation[^c-ce8d35c98c34ca8ef9a1e8fefc3c313d]
 
 Powers and functions in the provisions of the Order, as applied by regulation 3, may be exercised by an immigration officer only if the officer is acting with the authority (which may be general or specific) of the Secretary of State.
 
-### 6. Use of reasonable force[^key-be44000c280e73795414c1e0732c1e5d]
+### 6. Use of reasonable force[^c-be44000c280e73795414c1e0732c1e5d]
 
 Where any provision of the Order as applied by regulation 3—
 
@@ -133,11 +133,11 @@ Where any provision of the Order as applied by regulation 3—
 
 the immigration officer may use reasonable force, if necessary, in the exercise of the power.
 
-### 7. Arrest without warrant[^key-edbad27e1d77a8af4af9b2d8ad57e800]
+### 7. Arrest without warrant[^c-edbad27e1d77a8af4af9b2d8ad57e800]
 
 Article 26(2) of the Order[^f00009], as applied by regulation 3, does not limit any other statutory provision which confers upon an immigration officer the power to arrest or detain a person.
 
-### 8. Search of persons found on premises[^key-897a99e45e11c976deb65695198cd8c8]
+### 8. Search of persons found on premises[^c-897a99e45e11c976deb65695198cd8c8]
 
 (1) This regulation applies where an immigration officer searches premises in reliance on a warrant issued under Article 10 of, or paragraph 9 of Schedule 1 to, the Order[^f00010], as applied by regulation 3.
 
@@ -149,7 +149,7 @@ Article 26(2) of the Order[^f00009], as applied by regulation 3, does not limit 
 
 (5) No person may be searched except by a person of the same sex.
 
-### 9. Seizure and retention of things found upon search[^key-b6f182c11345a78f6dde67f494f91549]
+### 9. Seizure and retention of things found upon search[^c-b6f182c11345a78f6dde67f494f91549]
 
 (1) The power of an immigration officer to seize and retain anything found upon a lawful search of a person or premises under Article 21 of the Order[^f00011], as applied by regulation 3, has effect notwithstanding that the offence to which the thing relates does not relate to an immigration or nationality matter.
 
@@ -157,7 +157,7 @@ Article 26(2) of the Order[^f00009], as applied by regulation 3, does not limit 
 
 (3) Article 23 of the Order [^f00012], as applied by regulation 3, does not apply to anything seized or retained by an immigration officer under the Immigration Acts[^f00013].
 
-### 10. Modification of Article 20 of the Order (entry and search after arrest)[^key-017cbdbf9ecc9f4b4a43b03aa2c1171e]
+### 10. Modification of Article 20 of the Order (entry and search after arrest)[^c-017cbdbf9ecc9f4b4a43b03aa2c1171e]
 
 Article 20 of the Order[^f00014], as applied by regulation 3, has effect as if for paragraph (8) there were substituted—
 
@@ -165,7 +165,7 @@ Article 20 of the Order[^f00014], as applied by regulation 3, has effect as if f
 
 .
 
-### 11. Modification of Article 24 of the Order (retention)[^key-600a158d385da2cc00fff9e79ecfce4f]
+### 11. Modification of Article 24 of the Order (retention)[^c-600a158d385da2cc00fff9e79ecfce4f]
 
 Article 24 of the Order[^f00015], as applied by regulation 3, has effect as if for paragraph (5) there were substituted—
 
@@ -177,7 +177,7 @@ Article 24 of the Order[^f00015], as applied by regulation 3, has effect as if f
 
 *Extent: N.I.*
 
-### 12. Application of the Police and Criminal Evidence (Northern Ireland) Order 1989[^key-73fe2d057e367b679381ed151462eb2d]
+### 12. Application of the Police and Criminal Evidence (Northern Ireland) Order 1989[^c-73fe2d057e367b679381ed151462eb2d]
 
 (1) Subject to the modifications in paragraphs (2) and (3) and regulations 13 to 29, and to the transitional provision in regulation 30, the provisions of the Order specified in Part 1 of Schedule 2 to these Regulations apply in relation to investigations conducted by designated customs officials and in relation to persons detained by designated customs officials.
 
@@ -196,7 +196,7 @@ Article 24 of the Order[^f00015], as applied by regulation 3, has effect as if f
 
 (7) In the Order as it applies by virtue of this regulation, an expression which is defined in these Regulations has the same meaning as in these Regulations.
 
-### 13. Exceptions[^key-30a513fb9b1f510d93e6bc7edb654589]
+### 13. Exceptions[^c-30a513fb9b1f510d93e6bc7edb654589]
 
 (1) Nothing in the application of the Order by virtue of regulation 12 confers on a designated customs official any power to—
 
@@ -208,7 +208,7 @@ Article 24 of the Order[^f00015], as applied by regulation 3, has effect as if f
 - (a) references to a person being charged with an offence are to a person being charged with an offence by a constable, and
 - (b) references to a person being released on bail are to a person being released on bail by a constable.
 
-### 14. Detention[^key-e3eed25dadd215140c035f93b1d68e15]
+### 14. Detention[^c-e3eed25dadd215140c035f93b1d68e15]
 
 (1) Nothing in the application of the Order by virtue of regulation 12 prevents a detained person from being transferred from—
 
@@ -231,7 +231,7 @@ Article 24 of the Order[^f00015], as applied by regulation 3, has effect as if f
 - (a) “drug trafficking offence”, in its application in Northern Ireland, has the meaning given to it by section 152(4) of the Criminal Justice Act 1988[^f00019];
 - (b) a person is in police detention for the purposes of this regulation if they fall within the meaning given by Article 2(3) of the Order, as modified by regulation 12(5)(b).
 
-### 15. Use of reasonable force[^key-31a72876de926a27580c765e75431de6]
+### 15. Use of reasonable force[^c-31a72876de926a27580c765e75431de6]
 
 Where any provision of the Order as applied by regulation 12—
 
@@ -240,11 +240,11 @@ Where any provision of the Order as applied by regulation 12—
 
 the designated customs official may use reasonable force, if necessary, in the exercise of the power.
 
-### 16. Arrest without warrant[^key-a18ea56aefe30c0cfda42b64edbd19f1]
+### 16. Arrest without warrant[^c-a18ea56aefe30c0cfda42b64edbd19f1]
 
 Article 26(2) of the Order, as applied by regulation 12, does not limit any other statutory provision which confers upon a designated customs official the power to arrest or detain a person.
 
-### 17. Search of persons found on premises[^key-776e5083a44554d774e58078ba7e0834]
+### 17. Search of persons found on premises[^c-776e5083a44554d774e58078ba7e0834]
 
 (1) This regulation applies where a designated customs official searches premises in reliance on a warrant issued under Article 10 of, or paragraph 9 of Schedule 1 to, the Order, as applied by regulation 12.
 
@@ -256,7 +256,7 @@ Article 26(2) of the Order, as applied by regulation 12, does not limit any othe
 
 (5) No person may be searched except by a person of the same sex.
 
-### 18. Seizure and retention of things found upon search[^key-8b190551cc470cc1390508dc5a907d82]
+### 18. Seizure and retention of things found upon search[^c-8b190551cc470cc1390508dc5a907d82]
 
 (1) The power of a designated customs official to seize and retain anything found upon a lawful search of a person or premises under Article 21 of the Order (general power of seizure etc.), as applied by regulation 12, has effect notwithstanding that the offence to which the thing relates does not relate to a general customs matter or customs revenue matter.
 
@@ -264,7 +264,7 @@ Article 26(2) of the Order, as applied by regulation 12, does not limit any othe
 
 (3) Article 23 of the Order (access and copying), as applied by regulation 12, does not apply to anything seized as liable to forfeiture under the customs and excise Acts.
 
-### 19. Modification of Article 20 of the Order (entry and search after arrest)[^key-af35a4370eb70b0cc1526cd1c7882d58]
+### 19. Modification of Article 20 of the Order (entry and search after arrest)[^c-af35a4370eb70b0cc1526cd1c7882d58]
 
 Article 20 of the Order, as applied by regulation 12, has effect as if for paragraph (8) of Article 20 there were substituted—
 
@@ -272,14 +272,14 @@ Article 20 of the Order, as applied by regulation 12, has effect as if for parag
 
 .
 
-### 20. Modification of Article 32 of the Order (arrest elsewhere than at police station)[^key-983d2d6241b896f13865d4ef230b4b90]
+### 20. Modification of Article 32 of the Order (arrest elsewhere than at police station)[^c-983d2d6241b896f13865d4ef230b4b90]
 
 Article 32 of the Order[^f00020], as applied by regulation 12, has effect as if the following were omitted—
 
 - (a) references to Article 32A in subsections (1B), (10A), (13) and (15), and
 - (b) references to “releasing him on bail” in paragraphs (10A) and (13).
 
-### 21. Modification of Article 36 of the Order (designated police stations)[^key-8936ee5bef59e5235e9aa5eda85acfb5]
+### 21. Modification of Article 36 of the Order (designated police stations)[^c-8936ee5bef59e5235e9aa5eda85acfb5]
 
 Article 36 of the Order, as applied by regulation 12, has effect as if for that article there were substituted—
 
@@ -298,7 +298,7 @@ Article 36 of the Order, as applied by regulation 12, has effect as if for that 
 
 .
 
-### 22. Modification of Article 37 of the Order (custody officers at police stations)[^key-a3aa7e43bd87b60ce57f46031aeb1fc0]
+### 22. Modification of Article 37 of the Order (custody officers at police stations)[^c-a3aa7e43bd87b60ce57f46031aeb1fc0]
 
 Article 37 of the Order[^f00021], as applied by regulation 12, has effect as if for paragraph (2) there were substituted—
 
@@ -309,7 +309,7 @@ Article 37 of the Order[^f00021], as applied by regulation 12, has effect as if 
 
 .
 
-### 23. Modification of Article 42 of the Order (limits on period of detention without charge)[^key-25c5f1a42af9bfb1a5118af74af59441]
+### 23. Modification of Article 42 of the Order (limits on period of detention without charge)[^c-25c5f1a42af9bfb1a5118af74af59441]
 
 (1) Article 42 of the Order[^f00022], as applied by regulation 12, has effect as if for paragraph (2)(a)(i) there were substituted—
 
@@ -336,7 +336,7 @@ Article 37 of the Order[^f00021], as applied by regulation 12, has effect as if 
 
 .
 
-### 24. Modification of Article 43 of the Order (authorisation of continued detention)[^key-20d2da30eef3cb3ceeb8409f0d5dc75b]
+### 24. Modification of Article 43 of the Order (authorisation of continued detention)[^c-20d2da30eef3cb3ceeb8409f0d5dc75b]
 
 Article 43 of the Order[^f00023], as applied by regulation 12, has effect as if after paragraph (2) there were inserted—
 
@@ -344,7 +344,7 @@ Article 43 of the Order[^f00023], as applied by regulation 12, has effect as if 
 
 .
 
-### 25. Modification of Article 44 of the Order (warrants of further detention)[^key-742542fde74182add00953b4e6521f7f]
+### 25. Modification of Article 44 of the Order (warrants of further detention)[^c-742542fde74182add00953b4e6521f7f]
 
 Article 44 of the Order[^f00024], as applied by regulation 12, has effect as if after paragraph (12) there were inserted—
 
@@ -352,7 +352,7 @@ Article 44 of the Order[^f00024], as applied by regulation 12, has effect as if 
 
 .
 
-### 26. Modification of Article 50 of the Order (records of detention)[^key-964e3b52fbd2c4dc300ea2ded1a0b3cd]
+### 26. Modification of Article 50 of the Order (records of detention)[^c-964e3b52fbd2c4dc300ea2ded1a0b3cd]
 
 Article 50 of the Order[^f00025], as applied by regulation 12, has effect as if for that article there were substituted—
 
@@ -371,7 +371,7 @@ Article 50 of the Order[^f00025], as applied by regulation 12, has effect as if 
 
 .
 
-### 27. Modification of Article 55 of the Order (searches of detained persons)[^key-8b83fbf558a28c21c325e99e2640c1fc]
+### 27. Modification of Article 55 of the Order (searches of detained persons)[^c-8b83fbf558a28c21c325e99e2640c1fc]
 
 Article 55 of the Order[^f00026], as applied by regulation 12, has effect as if for paragraph (7) there were substituted—
 
@@ -379,7 +379,7 @@ Article 55 of the Order[^f00026], as applied by regulation 12, has effect as if 
 
 .
 
-### 28. Modification of Article 56 of the Order (intimate searches)[^key-f435f35461127f7ef803c32073ebc25c]
+### 28. Modification of Article 56 of the Order (intimate searches)[^c-f435f35461127f7ef803c32073ebc25c]
 
 Article 56 of the Order[^f00027], as applied by regulation 12, has effect as if for paragraph (14) there were substituted—
 
@@ -389,7 +389,7 @@ Article 56 of the Order[^f00027], as applied by regulation 12, has effect as if 
 
 .
 
-### 29. Modification of Articles 63P, 63Q and 63R of the Order (destruction and use of samples)[^key-0581315e4b39f707ef8458bb04398b89]
+### 29. Modification of Articles 63P, 63Q and 63R of the Order (destruction and use of samples)[^c-0581315e4b39f707ef8458bb04398b89]
 
 Articles 63P, 63Q and 63R of the Order[^f00028], as applied by regulation 12, have effect as if they related only to samples taken from a person under Article 62 (intimate samples) of the Order[^f00029] as applied by virtue of regulation 12.
 
@@ -397,7 +397,7 @@ Articles 63P, 63Q and 63R of the Order[^f00028], as applied by regulation 12, ha
 
 *Extent: N.I.*
 
-### 30. Transitional provision for Articles 63P, 63Q and 63R of the Order (destruction and use of samples)[^key-b0b48b397df3255a6a3be8325de07313]
+### 30. Transitional provision for Articles 63P, 63Q and 63R of the Order (destruction and use of samples)[^c-b0b48b397df3255a6a3be8325de07313]
 
 Until section 9(1) of, and Schedule 2 to, the Criminal Justice Act (Northern Ireland) 2013 come into force—
 
@@ -406,11 +406,11 @@ Until section 9(1) of, and Schedule 2 to, the Criminal Justice Act (Northern Ire
 
 ## Part 5 — Repeal and Consequential Amendments
 
-### 31. Repeal of section 22 of the Borders, Citizenship and Immigration Act 2009[^key-c9fbaf8340aeb8f1a2ee545452e06a39]
+### 31. Repeal of section 22 of the Borders, Citizenship and Immigration Act 2009[^c-c9fbaf8340aeb8f1a2ee545452e06a39]
 
 Section 22 of the Borders, Citizenship and Immigration Act 2009 (application of the PACE Orders)[^f00031] is repealed.
 
-### 32. Consequential amendments to the Borders, Citizenship and Immigration Act 2009[^key-9e08f5246706ddf72cb025c4be2954df]
+### 32. Consequential amendments to the Borders, Citizenship and Immigration Act 2009[^c-9e08f5246706ddf72cb025c4be2954df]
 
 (1) The Borders, Citizenship and Immigration Act 2009 is amended as follows.
 
@@ -441,7 +441,7 @@ Schedules
 
 Regulation 3
 
-### Part 1 — Provisions of the Order applied to investigations conducted by immigration officers[^key-3fdc635154ea3d0fcf8e0a4fffd31973]
+### Part 1 — Provisions of the Order applied to investigations conducted by immigration officers[^c-3fdc635154ea3d0fcf8e0a4fffd31973]
 
 - Article 10 (power of justice of the peace to authorise entry and search of premises) (subject to the modification in regulation 8)
 - Article 11(1) (special provisions as to access to excluded or special procedure material)[^f00035] and Schedule 1 (special procedure)[^f00036]
@@ -463,7 +463,7 @@ Regulation 3
 - Article 51(b) (savings)[^f00045]
 - Article 84(2) (police officers performing duties of higher rank)[^f00046]
 
-### Part 2 — Modifications: Substitution of Equivalent Words and Phrases in the Order[^key-9db4b9ff79b17b2af4c2834f4b9a1fc7]
+### Part 2 — Modifications: Substitution of Equivalent Words and Phrases in the Order[^c-9db4b9ff79b17b2af4c2834f4b9a1fc7]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -472,7 +472,7 @@ Regulation 3
 | rank (all references) | grade |
 | the police (all references) | the Secretary of State or immigration officers |
 
-### Part 3 — Modifications: Equivalent Grades of Immigration Officers[^key-494706a59be0f53ef24f2ea1a4230e93]
+### Part 3 — Modifications: Equivalent Grades of Immigration Officers[^c-494706a59be0f53ef24f2ea1a4230e93]
 
 | Column 1 - Rank of constable | Column 2 - Grade of immigration officer |
 | --- | --- |
@@ -485,7 +485,7 @@ Regulation 3
 
 Regulation 12
 
-### Part 1 — Provisions of the Order Applied to Investigations Conducted, and Persons Detained, by Designated Customs Officials[^key-9c7d271d90fb596c37eff9ed6a545866]
+### Part 1 — Provisions of the Order Applied to Investigations Conducted, and Persons Detained, by Designated Customs Officials[^c-9c7d271d90fb596c37eff9ed6a545866]
 
 - Article 10 (power of justice of the peace to authorise entry and search of premises) (subject to the modifications in regulation 17)
 - Article 11(1) (special provisions as to access to excluded or special procedure material) and Schedule 1 (special procedure)
@@ -530,7 +530,7 @@ Regulation 12
 - Article 63R (exclusion for certain regimes) (subject to the modification in regulation 29 and the transitional provision in regulation 30)
 - Article 84 (police officers performing duties of higher rank)
 
-### Part 2 — Modifications: Substitution of Equivalent Words and Phrases in the Order[^key-84d287d64bdc83dc9169c83eed2ba695]
+### Part 2 — Modifications: Substitution of Equivalent Words and Phrases in the Order[^c-84d287d64bdc83dc9169c83eed2ba695]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -546,7 +546,7 @@ Regulation 12
 | rank (all references) | grade |
 | the police (all references) | the Secretary of State, the Director of Border Revenue or designated customs officials |
 
-### Part 3 — Modifications: Equivalent Grades of Designated Customs Officials[^key-5f624f23aff7eb7cdd48b40e7d6fc804]
+### Part 3 — Modifications: Equivalent Grades of Designated Customs Officials[^c-5f624f23aff7eb7cdd48b40e7d6fc804]
 
 | Column 1 - Rank of constable | Column 2 - Grade of designated customs official |
 | --- | --- |
@@ -631,9 +631,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2009 c. 11](https://www.legislation.gov.uk/ukpga/2009/11).
 
-[^key-559e443e084291814446f426251df794]: Commencement: Art. 1 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-559e443e084291814446f426251df794]: Commencement: Art. 1 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-a16ea3f4fd5588ac42c209f6473b3093]: Commencement: Art. 2 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-a16ea3f4fd5588ac42c209f6473b3093]: Commencement: Art. 2 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00002]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). There are amendments, but none relevant to these Regulations.
 
@@ -645,27 +645,27 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 1(f) was amended by paragraph 1(2) of Schedule 2 to the Retained EU Law (Revocation and Reform) Act [2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663) and [S.I. 2020/463](https://www.legislation.gov.uk/uksi/2020/463).
 
-[^key-92c2da3e254c19b0a2778ca308db36d5]: Commencement: Art. 3 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-92c2da3e254c19b0a2778ca308db36d5]: Commencement: Art. 3 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00007]: Footnote: Article 2(3) has been amended by article 41(1) of [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288). There are further amendments, but none relevant to these Regulations.
 
 [^f00008]: Footnote: Article 42(2) has amendments, but none relevant to these Regulations.
 
-[^key-fb29222a3abba43321af4a2188bfde82]: Commencement: Art. 4 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-fb29222a3abba43321af4a2188bfde82]: Commencement: Art. 4 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-ce8d35c98c34ca8ef9a1e8fefc3c313d]: Commencement: Art. 5 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-ce8d35c98c34ca8ef9a1e8fefc3c313d]: Commencement: Art. 5 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-be44000c280e73795414c1e0732c1e5d]: Commencement: Art. 6 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-be44000c280e73795414c1e0732c1e5d]: Commencement: Art. 6 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-edbad27e1d77a8af4af9b2d8ad57e800]: Commencement: Art. 7 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-edbad27e1d77a8af4af9b2d8ad57e800]: Commencement: Art. 7 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00009]: Footnote: Article 26 was substituted by [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288).
 
-[^key-897a99e45e11c976deb65695198cd8c8]: Commencement: Art. 8 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-897a99e45e11c976deb65695198cd8c8]: Commencement: Art. 8 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00010]: Footnote: Article 10 has been amended by paragraph 90(2) of Schedule 14 to the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33) and by [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288). Paragraph 9 of Schedule 1 has been amended by [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288).
 
-[^key-b6f182c11345a78f6dde67f494f91549]: Commencement: Art. 9 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-b6f182c11345a78f6dde67f494f91549]: Commencement: Art. 9 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00011]: Footnote: Article 21 has been amended by paragraph 13 of Schedule 2 to the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16).
 
@@ -673,21 +673,21 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00013]: Footnote: See section 61 of the UK Borders Act [2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30) for definition of “Immigration Acts”.
 
-[^key-017cbdbf9ecc9f4b4a43b03aa2c1171e]: Commencement: Art. 10 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-017cbdbf9ecc9f4b4a43b03aa2c1171e]: Commencement: Art. 10 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00014]: Footnote: Article 20 has been amended by [S.I. 2004/1500 (N.I. 9)](https://www.legislation.gov.uk/nisi/2004/1500) and [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288).
 
-[^key-600a158d385da2cc00fff9e79ecfce4f]: Commencement: Art. 11 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-600a158d385da2cc00fff9e79ecfce4f]: Commencement: Art. 11 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00015]: Footnote: Article 24 has been amended by article 24(5) and by paragraph 18(3) of Schedule 4 to the Police (Northern Ireland) Act 1998 and by [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288). There are further amendments, but none relevant to these Regulations.
 
 [^f00016]: Footnote: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
 
-[^key-73fe2d057e367b679381ed151462eb2d]: Commencement: Art. 12 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-73fe2d057e367b679381ed151462eb2d]: Commencement: Art. 12 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-30a513fb9b1f510d93e6bc7edb654589]: Commencement: Art. 13 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-30a513fb9b1f510d93e6bc7edb654589]: Commencement: Art. 13 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-e3eed25dadd215140c035f93b1d68e15]: Commencement: Art. 14 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-e3eed25dadd215140c035f93b1d68e15]: Commencement: Art. 14 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00017]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38). Section 5 has amendments, but none relevant to these Regulations.
 
@@ -695,65 +695,65 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00019]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33). Section 152(4) was substituted by [S.I. 1990/2588 (N.I. 17)](https://www.legislation.gov.uk/nisi/1990/2588) and [S.I. 1996/1299 (N.I. 9)](https://www.legislation.gov.uk/nisi/1996/1299), and subsequently amended by paragraph 17(6) and Schedule 11 to the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-31a72876de926a27580c765e75431de6]: Commencement: Art. 15 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-31a72876de926a27580c765e75431de6]: Commencement: Art. 15 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-a18ea56aefe30c0cfda42b64edbd19f1]: Commencement: Art. 16 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-a18ea56aefe30c0cfda42b64edbd19f1]: Commencement: Art. 16 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-776e5083a44554d774e58078ba7e0834]: Commencement: Art. 17 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-776e5083a44554d774e58078ba7e0834]: Commencement: Art. 17 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-8b190551cc470cc1390508dc5a907d82]: Commencement: Art. 18 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-8b190551cc470cc1390508dc5a907d82]: Commencement: Art. 18 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-af35a4370eb70b0cc1526cd1c7882d58]: Commencement: Art. 19 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-af35a4370eb70b0cc1526cd1c7882d58]: Commencement: Art. 19 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-983d2d6241b896f13865d4ef230b4b90]: Commencement: Art. 20 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-983d2d6241b896f13865d4ef230b4b90]: Commencement: Art. 20 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00020]: Footnote: Article 32 has been amended by paragraph 8 of Schedule 15 to the Terrorism Act [2000 (c. 11)](https://www.legislation.gov.uk/ukpga/2000/11), [S.I. 2004/1500 (N.I. 9)](https://www.legislation.gov.uk/nisi/2004/1500) and Schedule 1 of [S.I. 2023/1386](https://www.legislation.gov.uk/uksi/2023/1386). There are further amendments, but none relevant to these Regulations.
 
-[^key-8936ee5bef59e5235e9aa5eda85acfb5]: Commencement: Art. 21 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-8936ee5bef59e5235e9aa5eda85acfb5]: Commencement: Art. 21 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-a3aa7e43bd87b60ce57f46031aeb1fc0]: Commencement: Art. 22 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-a3aa7e43bd87b60ce57f46031aeb1fc0]: Commencement: Art. 22 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00021]: Footnote: Article 37 has been amended by paragraph 124 of Schedule 7 to the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26). There are further amendments, but none relevant to these Regulations.
 
-[^key-25c5f1a42af9bfb1a5118af74af59441]: Commencement: Art. 23 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-25c5f1a42af9bfb1a5118af74af59441]: Commencement: Art. 23 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00022]: Footnote: Article 42 has been amended by [S.I. 1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993). There are further amendments, but none relevant to these Regulations.
 
-[^key-20d2da30eef3cb3ceeb8409f0d5dc75b]: Commencement: Art. 24 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-20d2da30eef3cb3ceeb8409f0d5dc75b]: Commencement: Art. 24 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00023]: Footnote: Article 43 has been amended by [S.I. 1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993), [S.I. 2004/1500 (N.I. 9)](https://www.legislation.gov.uk/nisi/2004/1500) and [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288).
 
-[^key-742542fde74182add00953b4e6521f7f]: Commencement: Art. 25 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-742542fde74182add00953b4e6521f7f]: Commencement: Art. 25 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00024]: Footnote: Article 44 has been amended by [S.I. 1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993) and [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288).
 
-[^key-964e3b52fbd2c4dc300ea2ded1a0b3cd]: Commencement: Art. 26 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-964e3b52fbd2c4dc300ea2ded1a0b3cd]: Commencement: Art. 26 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00025]: Footnote: Article 50 has been amended by paragraph 10(3) and Schedule 6 to the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-8b83fbf558a28c21c325e99e2640c1fc]: Commencement: Art. 27 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-8b83fbf558a28c21c325e99e2640c1fc]: Commencement: Art. 27 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00026]: Footnote: Article 55 has been amended [S.I. 2004/1500 (N.I. 9)](https://www.legislation.gov.uk/nisi/2004/1500).
 
-[^key-f435f35461127f7ef803c32073ebc25c]: Commencement: Art. 28 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-f435f35461127f7ef803c32073ebc25c]: Commencement: Art. 28 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00027]: Footnote: Article 56 has been amended by [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288). There is are further amendments, but none relevant to these Regulations.
 
-[^key-0581315e4b39f707ef8458bb04398b89]: Commencement: Art. 29 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-0581315e4b39f707ef8458bb04398b89]: Commencement: Art. 29 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00028]: Footnote: Articles 63P, 63Q and 63R were inserted by Schedule 2 to the Criminal Justice Act (Northern Ireland) [2013 (c. 7) (N.I.)](https://www.legislation.gov.uk/nia/2013/7) which has not yet been commenced.
 
 [^f00029]: Footnote: Article 62 has been amended by paragraph 8 of Schedule 15 to the Terrorism Act [2000 (c. 11)](https://www.legislation.gov.uk/ukpga/2000/11), section 42 of the Police (Northern Ireland) Act [2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), paragraph 20 of Schedule 4 to the Counter-Terrorism and Border Security Act [2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), paragraph 5 of Schedule 18 to the National Security Act [2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [S.I. 1995/757 (N.I. 3)](https://www.legislation.gov.uk/nisi/1995/757), [S.I. 1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993), [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994), [S.I. 1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320) and [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288).
 
-[^key-b0b48b397df3255a6a3be8325de07313]: Commencement: Art. 30 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-b0b48b397df3255a6a3be8325de07313]: Commencement: Art. 30 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00030]: Footnote: Article 64 has been amended by section 83 of the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), paragraph 5 of Schedule 18 to the National Security Act 2023, [S.I. 1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993) and [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288).
 
-[^key-c9fbaf8340aeb8f1a2ee545452e06a39]: Commencement: Art. 31 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-c9fbaf8340aeb8f1a2ee545452e06a39]: Commencement: Art. 31 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00031]: Footnote: Section 22 has been amended by [S.I. 2013/1542](https://www.legislation.gov.uk/uksi/2013/1542).
 
-[^key-9e08f5246706ddf72cb025c4be2954df]: Commencement: Art. 32 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-9e08f5246706ddf72cb025c4be2954df]: Commencement: Art. 32 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00032]: Footnote: There are amendments to this section, but none relevant to these Regulations.
 
@@ -761,7 +761,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00034]: Footnote: There are amendments to this section, but none relevant to these Regulations.
 
-[^key-3fdc635154ea3d0fcf8e0a4fffd31973]: Commencement: Sch. 1 Pt. 1 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-3fdc635154ea3d0fcf8e0a4fffd31973]: Commencement: Sch. 1 Pt. 1 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00035]: Footnote: Article 11 has amendments, but none relevant to these Regulations.
 
@@ -787,11 +787,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00046]: Footnote: Article 84 was substituted by [S.I. 2008/1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216).
 
-[^key-9db4b9ff79b17b2af4c2834f4b9a1fc7]: Commencement: Sch. 1 Pt. 2 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-9db4b9ff79b17b2af4c2834f4b9a1fc7]: Commencement: Sch. 1 Pt. 2 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-494706a59be0f53ef24f2ea1a4230e93]: Commencement: Sch. 1 Pt. 3 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-494706a59be0f53ef24f2ea1a4230e93]: Commencement: Sch. 1 Pt. 3 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-9c7d271d90fb596c37eff9ed6a545866]: Commencement: Sch. 2 Pt. 1 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-9c7d271d90fb596c37eff9ed6a545866]: Commencement: Sch. 2 Pt. 1 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
 [^f00047]: Footnote: Article 35 has been amended by [S.I. 1995/2993 (N.I. 17)](https://www.legislation.gov.uk/nisi/1995/2993). There are other amendments, but none relevant to these Regulations.
 
@@ -811,6 +811,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00055]: Footnote: Article 59 has been amended by paragraph 20 of Schedule 4 to the Counter-Terrorism and Border Security Act [2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), paragraph 19 of Schedule 11 to the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), paragraph 5 of Schedule 18 to the National Security Act 2023, [S.I. 1990/2588 (N.I. 17)](https://www.legislation.gov.uk/nisi/1990/2588), and [S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288).
 
-[^key-84d287d64bdc83dc9169c83eed2ba695]: Commencement: Sch. 2 Pt. 2 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-84d287d64bdc83dc9169c83eed2ba695]: Commencement: Sch. 2 Pt. 2 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
 
-[^key-5f624f23aff7eb7cdd48b40e7d6fc804]: Commencement: Sch. 2 Pt. 3 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)
+[^c-5f624f23aff7eb7cdd48b40e7d6fc804]: Commencement: Sch. 2 Pt. 3 in force at 10.2.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/article/1/2)

@@ -32,7 +32,7 @@ summary: ''
 
 Electricity
 
-Electricity (Priority Dispatch) Regulations (Northern Ireland) 2012 (revoked)[^key-6b2e747ccfcecc850413417934a6c033]
+Electricity (Priority Dispatch) Regulations (Northern Ireland) 2012 (revoked)[^c-6b2e747ccfcecc850413417934a6c033]
 
 Made
 
@@ -42,36 +42,36 @@ Coming into operation
 
 20th November 2012
 
-[^key-6b2e747ccfcecc850413417934a6c033]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b2e747ccfcecc850413417934a6c033]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6b2e747ccfcecc850413417934a6c033]
+## 1. Citation, commencement and interpretation[^c-6b2e747ccfcecc850413417934a6c033]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Electricity (Northern Ireland) Order 1992[^key-6b2e747ccfcecc850413417934a6c033]
+## 2. Amendment to the Electricity (Northern Ireland) Order 1992[^c-6b2e747ccfcecc850413417934a6c033]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Existing Transmission and Distribution Licences[^key-6b2e747ccfcecc850413417934a6c033]
+## 3. Existing Transmission and Distribution Licences[^c-6b2e747ccfcecc850413417934a6c033]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-6b2e747ccfcecc850413417934a6c033]
+## 4.[^c-6b2e747ccfcecc850413417934a6c033]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Interpretation[^key-6b2e747ccfcecc850413417934a6c033]
+## 5. Interpretation[^c-6b2e747ccfcecc850413417934a6c033]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b2e747ccfcecc850413417934a6c033]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b2e747ccfcecc850413417934a6c033]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6b2e747ccfcecc850413417934a6c033]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b2e747ccfcecc850413417934a6c033]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b2e747ccfcecc850413417934a6c033]: Textual amendment: Regulations revoked (1.4.2021) by [The Electricity (Priority Dispatch) Regulations (Northern Ireland) 2020 (S.R. 2020/306)](https://www.legislation.gov.uk/nisr/2020/306), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/306/regulation/1/3), [5(a)](https://www.legislation.gov.uk/nisr/2020/306/regulation/5/a)
+[^c-6b2e747ccfcecc850413417934a6c033]: Textual amendment: Regulations revoked (1.4.2021) by [The Electricity (Priority Dispatch) Regulations (Northern Ireland) 2020 (S.R. 2020/306)](https://www.legislation.gov.uk/nisr/2020/306), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/306/regulation/1/3), [5(a)](https://www.legislation.gov.uk/nisr/2020/306/regulation/5/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Rounding of fractions[^key-ad421681bf2596abad1afe86db0575a5][^key-c3487bf9f232dfd10e60010492650745]
+## 57. Rounding of fractions[^c-ad421681bf2596abad1afe86db0575a5][^c-c3487bf9f232dfd10e60010492650745]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Any amount determined under these Regulations including any amount to which the 
 
 ## Annotations
 
-[^key-ad421681bf2596abad1afe86db0575a5]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/1989/1321/regulation/57) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-ad421681bf2596abad1afe86db0575a5]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/1989/1321/regulation/57) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
-[^key-c3487bf9f232dfd10e60010492650745]: Textual amendment: [Reg. 57](https://www.legislation.gov.uk/uksi/1989/1321/regulation/57) substituted (1.4.1990) by [The Community Charge Benefits (General) Amendment Regulations 1990 (S.I. 1990/834)](https://www.legislation.gov.uk/uksi/1990/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/834/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/1990/834/regulation/16)
+[^c-c3487bf9f232dfd10e60010492650745]: Textual amendment: [Reg. 57](https://www.legislation.gov.uk/uksi/1989/1321/regulation/57) substituted (1.4.1990) by [The Community Charge Benefits (General) Amendment Regulations 1990 (S.I. 1990/834)](https://www.legislation.gov.uk/uksi/1990/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/834/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/1990/834/regulation/16)

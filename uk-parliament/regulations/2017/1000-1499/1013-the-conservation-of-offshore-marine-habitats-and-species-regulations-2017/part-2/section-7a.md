@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A. Priorities for designating special areas of conservation[^key-5beda0cd2bbeb78e4133abb7ab7ac049]
+## 7A. Priorities for designating special areas of conservation[^c-5beda0cd2bbeb78e4133abb7ab7ac049]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ The relevant administration must establish priorities for the designation of sit
 
 ## Annotations
 
-[^key-5beda0cd2bbeb78e4133abb7ab7ac049]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/7A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [36](https://www.legislation.gov.uk/uksi/2019/579/regulation/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5beda0cd2bbeb78e4133abb7ab7ac049]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/7A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [36](https://www.legislation.gov.uk/uksi/2019/579/regulation/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

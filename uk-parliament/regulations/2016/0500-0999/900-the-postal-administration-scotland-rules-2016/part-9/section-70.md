@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Application under section 176A(5) of the 1986 Act to disapply section 176A of the 1986 Act[^key-61bec0cde98f414676c1bbfbf597ec25]
+## 70. Application under section 176A(5) of the 1986 Act to disapply section 176A of the 1986 Act[^c-61bec0cde98f414676c1bbfbf597ec25]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ An application under section 176A(5) of the 1986 Act (share of assets for unsecu
 
 ## Annotations
 
-[^key-61bec0cde98f414676c1bbfbf597ec25]: Commencement: Rule 70 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-61bec0cde98f414676c1bbfbf597ec25]: Commencement: Rule 70 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^f00020]: Footnote: Section 176A was inserted by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), section 252.

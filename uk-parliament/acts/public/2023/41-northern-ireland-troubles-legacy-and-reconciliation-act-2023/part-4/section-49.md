@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Oral history[^key-16fdf0bdf0c6bb08d00c846464bee43b][^key-3f351a3b1ca523dc32cf65b6028475a0]
+## 49. Oral history[^c-16fdf0bdf0c6bb08d00c846464bee43b][^c-3f351a3b1ca523dc32cf65b6028475a0]
 
 *Extent: N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-16fdf0bdf0c6bb08d00c846464bee43b]: Commencement: S. 49 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-16fdf0bdf0c6bb08d00c846464bee43b]: Commencement: S. 49 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-3f351a3b1ca523dc32cf65b6028475a0]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/41/section/49) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-3f351a3b1ca523dc32cf65b6028475a0]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/41/section/49) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Reports by SEPA to the Scottish Ministers[^key-a01b94a79e477bed7483e145582d4077]
+## 96. Reports by SEPA to the Scottish Ministers[^c-a01b94a79e477bed7483e145582d4077]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a01b94a79e477bed7483e145582d4077]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2011/9/section/96) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
+[^c-a01b94a79e477bed7483e145582d4077]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2011/9/section/96) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)

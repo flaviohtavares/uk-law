@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Account established after ill-health award ceases to be payable[^key-bb3a8b551bcdd598885489d84f3cabf9]
+## 48. Account established after ill-health award ceases to be payable[^c-bb3a8b551bcdd598885489d84f3cabf9]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ If a lower tier ill-health pension ceases to be payable to a person (P) under re
 
 ## Annotations
 
-[^key-bb3a8b551bcdd598885489d84f3cabf9]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2015/19/regulation/48) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-bb3a8b551bcdd598885489d84f3cabf9]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2015/19/regulation/48) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

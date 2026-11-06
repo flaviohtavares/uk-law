@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Wales[^key-ca80099d927b89d388ee696afb6de781]
+## 20. Wales[^c-ca80099d927b89d388ee696afb6de781]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The National Assembly for Wales may create or designate a body with which the Co
 
 ## Annotations
 
-[^key-ca80099d927b89d388ee696afb6de781]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2002/253/article/20) in force at 1.8.2004 as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-ca80099d927b89d388ee696afb6de781]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2002/253/article/20) in force at 1.8.2004 as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)

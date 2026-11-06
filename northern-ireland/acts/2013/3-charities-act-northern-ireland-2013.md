@@ -107,7 +107,7 @@ After section 29 of the 2008 Act (cy-pr?s schemes) there shall be inserted the f
 
 ## Transfer to Commission of certain functions of Department
 
-### 4. Educational endowments[^key-e417f8a0eec594266a2d271727f48b2a]
+### 4. Educational endowments[^c-e417f8a0eec594266a2d271727f48b2a]
 
 The functions which immediately before the date on which this section comes into operation are exercisable by the Department under—
 
@@ -438,6 +438,6 @@ Section 8(2).
 
 ## Annotations
 
-[^key-e417f8a0eec594266a2d271727f48b2a]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2013/3/section/4) in operation at 1.6.2015 for specified purposes by [S.R. 2015/256](https://www.legislation.gov.uk/nisr/2015/256), [art. 2](https://www.legislation.gov.uk/nisr/2015/256/article/2)
+[^c-e417f8a0eec594266a2d271727f48b2a]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2013/3/section/4) in operation at 1.6.2015 for specified purposes by [S.R. 2015/256](https://www.legislation.gov.uk/nisr/2015/256), [art. 2](https://www.legislation.gov.uk/nisr/2015/256/article/2)
 
 [^c21554501]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2013/3/section/5) partly in operation; [s. 5(2)](https://www.legislation.gov.uk/nia/2013/3/section/5/2) in operation at 19.1.2013 see [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)

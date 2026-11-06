@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 179. Directions to trustee under protected trust deed[^key-ec0a6fa7a811740493f458341198d537]
+## 179. Directions to trustee under protected trust deed[^c-ec0a6fa7a811740493f458341198d537]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec0a6fa7a811740493f458341198d537]: Commencement: [S. 179](https://www.legislation.gov.uk/asp/2016/21/section/179) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-ec0a6fa7a811740493f458341198d537]: Commencement: [S. 179](https://www.legislation.gov.uk/asp/2016/21/section/179) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

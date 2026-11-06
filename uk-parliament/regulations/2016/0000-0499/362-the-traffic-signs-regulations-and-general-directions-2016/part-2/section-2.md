@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-f64c940787423ad872d3e6a665104bc8]
+## 2. Interpretation[^c-f64c940787423ad872d3e6a665104bc8]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f64c940787423ad872d3e6a665104bc8]: Commencement: [Dir. 2](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/2) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
+[^c-f64c940787423ad872d3e6a665104bc8]: Commencement: [Dir. 2](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/2) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)

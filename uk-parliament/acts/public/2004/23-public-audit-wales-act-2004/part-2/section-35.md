@@ -27,8 +27,8 @@ summary: ''
 
 (2) The existence of the advisory notice does not prejudice any remedy in damages which may be available to any person as a result of the body’s failure to complete the contract.
 
-(3) No action lies against the Auditor General for Wales[^key-02a1bae5dd05a4cb7bf40e4110b5da48] in respect of loss or damage alleged to have been caused as a result of the issue of an advisory notice which was issued in good faith.
+(3) No action lies against the Auditor General for Wales[^c-02a1bae5dd05a4cb7bf40e4110b5da48] in respect of loss or damage alleged to have been caused as a result of the issue of an advisory notice which was issued in good faith.
 
 ## Annotations
 
-[^key-02a1bae5dd05a4cb7bf40e4110b5da48]: Textual amendment: Words in [s. 35(3)](https://www.legislation.gov.uk/ukpga/2004/23/section/35/3) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 40](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/40) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-02a1bae5dd05a4cb7bf40e4110b5da48]: Textual amendment: Words in [s. 35(3)](https://www.legislation.gov.uk/ukpga/2004/23/section/35/3) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 40](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/40) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

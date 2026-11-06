@@ -36,7 +36,7 @@ a pension the weekly rate of which is equal to the guaranteed minimum is payable
 (3) Paragraph (2) does not apply to a pension that is forfeited—
 
 - (a) as a result of a conviction for treason; or
-- (b) under regulation 151, in a case where the relevant offence within the meaning of regulation 151 is an offence under the Official Secrets Acts 1911 to 1989 [^c22374431] or an applicable offence under the National Security Act 2023[^key-0b299731cafb909fc0cc78077137b468] .
+- (b) under regulation 151, in a case where the relevant offence within the meaning of regulation 151 is an offence under the Official Secrets Acts 1911 to 1989 [^c22374431] or an applicable offence under the National Security Act 2023[^c-0b299731cafb909fc0cc78077137b468] .
 
 ## Annotations
 
@@ -44,4 +44,4 @@ a pension the weekly rate of which is equal to the guaranteed minimum is payable
 
 [^c22374431]: Marginal citation: [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6); see [section 16(2)](https://www.legislation.gov.uk/ukpga/1989/6/section/16/2) for the meaning of “Official Secrets Acts 1911 to 1989”.
 
-[^key-0b299731cafb909fc0cc78077137b468]: Textual amendment: Words in [reg. 110(3)(b)](https://www.legislation.gov.uk/nisr/2015/76/regulation/110/3/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 46(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/46/3)
+[^c-0b299731cafb909fc0cc78077137b468]: Textual amendment: Words in [reg. 110(3)(b)](https://www.legislation.gov.uk/nisr/2015/76/regulation/110/3/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 46(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/46/3)

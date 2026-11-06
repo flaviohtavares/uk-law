@@ -26,7 +26,7 @@ Regulation 2(1)
 
 **2.** Fisheries Act (Northern Ireland) 1966 [^c22849091].
 
-**3.**[^key-5cfd58765be7bd2a6b0d0a882d9f1104] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5cfd58765be7bd2a6b0d0a882d9f1104] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** The Drainage (Northern Ireland) (Order) 1973 [^c22849111].
 
@@ -90,7 +90,7 @@ Regulation 2(1)
 
 [^c22849091]: Marginal citation: [1966 c.17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17)
 
-[^key-5cfd58765be7bd2a6b0d0a882d9f1104]: Textual amendment: Sch. 2 para. 3 omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [12(10)](https://www.legislation.gov.uk/uksi/2019/112/regulation/12/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5cfd58765be7bd2a6b0d0a882d9f1104]: Textual amendment: Sch. 2 para. 3 omitted (31.12.2020) by virtue of [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [12(10)](https://www.legislation.gov.uk/uksi/2019/112/regulation/12/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22849111]: Marginal citation: S.I. [1973 No.69](https://www.legislation.gov.uk/ukcm/1973/69) (N.I. 1)
 

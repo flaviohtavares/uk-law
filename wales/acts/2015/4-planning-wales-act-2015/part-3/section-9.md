@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. National Development Framework and strategic development plan to form part of development plan[^c22542651][^key-b9aa3f449a1f790de28c8a8eee5b6819]
+## 9. National Development Framework and strategic development plan to form part of development plan[^c22542651][^c-b9aa3f449a1f790de28c8a8eee5b6819]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In section 38 of PCPA 2004 (development plan), in subsection (4) (areas in Wales
 
 [^c22542651]: Commencement: S. 9 partly in force; s. 9 in force for specified purposes at 6.9.2015, see s. 58(2)(b)(4)(b)
 
-[^key-b9aa3f449a1f790de28c8a8eee5b6819]: Commencement: S. 9 in force at 4.12.2020 in so far as not already in force by [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)
+[^c-b9aa3f449a1f790de28c8a8eee5b6819]: Commencement: S. 9 in force at 4.12.2020 in so far as not already in force by [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)

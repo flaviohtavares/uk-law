@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 235. Order for examination, etc.[^key-6cd2eceb8415b925ac453d2961839ff8]
+## 235. Order for examination, etc.[^c-6cd2eceb8415b925ac453d2961839ff8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 9.3 of the 1986 Rules.
 
 ## Annotations
 
-[^key-6cd2eceb8415b925ac453d2961839ff8]: Commencement: Rule 235 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-6cd2eceb8415b925ac453d2961839ff8]: Commencement: Rule 235 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

@@ -42,7 +42,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 4(4), 7(4) and 10(1) of the Rehabilitation of Offenders Act 1974[^f00001] and all other powers enabling them to do so.
 
-In accordance with section 10(2) of that Act[^f00002], a draft of this Order has been laid before and approved by resolution of the Scottish Parliament.[^key-7c0d45c11154bf984d5db3c4847c47b5]
+In accordance with section 10(2) of that Act[^f00002], a draft of this Order has been laid before and approved by resolution of the Scottish Parliament.[^c-7c0d45c11154bf984d5db3c4847c47b5]
 
 ## Contents
 
@@ -98,4 +98,4 @@ The 2003 Order and those provisions amending that Order are revoked (article 6).
 
 [^f00002]: Footnote: Section 10(2) has been modified by paragraph 5 of Schedule 3 to the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-7c0d45c11154bf984d5db3c4847c47b5]: Modification: Order applied (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 1 paras. 8(8)(c)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/8/8/c), [19(1)(c)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/19/1/c) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-7c0d45c11154bf984d5db3c4847c47b5]: Modification: Order applied (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 1 paras. 8(8)(c)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/8/8/c), [19(1)(c)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/19/1/c) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)

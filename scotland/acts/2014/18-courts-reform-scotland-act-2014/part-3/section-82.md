@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Appeals from simple procedure cases[^key-20cbc72048b27e736b0e97bfcabfde56]
+## 82. Appeals from simple procedure cases[^c-20cbc72048b27e736b0e97bfcabfde56]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20cbc72048b27e736b0e97bfcabfde56]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2014/18/section/82) in force at 28.11.2016 for specified purposes by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(4)](https://www.legislation.gov.uk/ssi/2016/291/article/3/4))
+[^c-20cbc72048b27e736b0e97bfcabfde56]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2014/18/section/82) in force at 28.11.2016 for specified purposes by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(4)](https://www.legislation.gov.uk/ssi/2016/291/article/3/4))

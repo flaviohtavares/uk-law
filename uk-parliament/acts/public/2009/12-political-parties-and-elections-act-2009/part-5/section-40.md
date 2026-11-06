@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In relation to England and Wales, a reference in this Act to imprisonment for a term not exceeding 12 months (including any such reference inserted in any other Act) is to be read, in the case of an offence committed before 2 May 2022[^key-6d9fb41254dd7674190a7de8ce2a04f1], as a reference to imprisonment for a term not exceeding six months.
+In relation to England and Wales, a reference in this Act to imprisonment for a term not exceeding 12 months (including any such reference inserted in any other Act) is to be read, in the case of an offence committed before 2 May 2022[^c-6d9fb41254dd7674190a7de8ce2a04f1], as a reference to imprisonment for a term not exceeding six months.
 
 ## Annotations
 
-[^key-6d9fb41254dd7674190a7de8ce2a04f1]: Textual amendment: Words in [s. 40](https://www.legislation.gov.uk/ukpga/2009/12/section/40) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-6d9fb41254dd7674190a7de8ce2a04f1]: Textual amendment: Words in [s. 40](https://www.legislation.gov.uk/ukpga/2009/12/section/40) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)

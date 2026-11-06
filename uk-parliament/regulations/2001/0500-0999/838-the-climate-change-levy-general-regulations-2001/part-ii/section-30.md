@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**30.**[^key-2a2d65cd5a0c2dbad776ef7b371a4281] (1) This regulation applies where—
+**30.**[^c-2a2d65cd5a0c2dbad776ef7b371a4281] (1) This regulation applies where—
 
 - (a) a person is under a duty to pay to the Commissioners at any time an amount or amounts in respect of any tax or duty (other than CCL) under their care and management; and
 - (b) the Commissioners are under a duty, at the same time, to make a payment or repayment to that person of an amount or amounts of or in respect of CCL.
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a2d65cd5a0c2dbad776ef7b371a4281]: Commencement: Reg. 30 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-2a2d65cd5a0c2dbad776ef7b371a4281]: Commencement: Reg. 30 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

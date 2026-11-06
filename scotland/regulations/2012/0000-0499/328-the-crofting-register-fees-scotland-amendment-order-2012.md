@@ -36,7 +36,7 @@ Crofters, Cottars And Small Landholders
 
 Registers And Records
 
-The Crofting Register (Fees) (Scotland) Amendment Order 2012 (revoked)[^key-576b57147d263c4d079ff6fc5bed2f93]
+The Crofting Register (Fees) (Scotland) Amendment Order 2012 (revoked)[^c-576b57147d263c4d079ff6fc5bed2f93]
 
 Made
 
@@ -50,24 +50,24 @@ Coming into force
 
 13th January 2013
 
-[^key-576b57147d263c4d079ff6fc5bed2f93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-576b57147d263c4d079ff6fc5bed2f93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-576b57147d263c4d079ff6fc5bed2f93]
+## 1. Citation and commencement[^c-576b57147d263c4d079ff6fc5bed2f93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Crofting Register (Fees) (Scotland) Order 2012[^key-576b57147d263c4d079ff6fc5bed2f93]
+## 2. Amendment to the Crofting Register (Fees) (Scotland) Order 2012[^c-576b57147d263c4d079ff6fc5bed2f93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-576b57147d263c4d079ff6fc5bed2f93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-576b57147d263c4d079ff6fc5bed2f93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-576b57147d263c4d079ff6fc5bed2f93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-576b57147d263c4d079ff6fc5bed2f93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-576b57147d263c4d079ff6fc5bed2f93]: Textual amendment: Order revoked (8.12.2014) by [The Registers of Scotland (Fees) Order 2014 (S.S.I. 2014/188)](https://www.legislation.gov.uk/ssi/2014/188), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/188/article/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2014/188/schedule/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2014/188/article/6))
+[^c-576b57147d263c4d079ff6fc5bed2f93]: Textual amendment: Order revoked (8.12.2014) by [The Registers of Scotland (Fees) Order 2014 (S.S.I. 2014/188)](https://www.legislation.gov.uk/ssi/2014/188), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/188/article/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2014/188/schedule/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2014/188/article/6))

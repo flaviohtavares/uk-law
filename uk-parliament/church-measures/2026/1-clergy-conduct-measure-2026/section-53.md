@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 53. Permission to appeal[^key-bece88a63fd0695028209d857b97cacf]
+## 53. Permission to appeal[^c-bece88a63fd0695028209d857b97cacf]
 
 *Extent: E*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bece88a63fd0695028209d857b97cacf]: Commencement: S. 53 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-bece88a63fd0695028209d857b97cacf]: Commencement: S. 53 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

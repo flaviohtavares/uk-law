@@ -25,7 +25,7 @@ summary: ''
 - (a) an eligible Scottish partnership has identified a registrable person in relation to the eligible Scottish partnership, and
 - (b) all the required particulars of that person have not been confirmed for the purposes of regulation 19(1).
 
-(2)[^key-d6a0b5b067155cf0337d22306bed4a97] The eligible Scottish partnership must deliver the information specified in paragraph (3) to the registrar within the period of 14 days beginning with the later of—
+(2)[^c-d6a0b5b067155cf0337d22306bed4a97] The eligible Scottish partnership must deliver the information specified in paragraph (3) to the registrar within the period of 14 days beginning with the later of—
 
 - (a) 24th July 2017, and
 - (b) the day on which it identifies the registrable person as such.
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6a0b5b067155cf0337d22306bed4a97]: Modification: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/2017/694/regulation/25/2) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [28](https://www.legislation.gov.uk/uksi/2020/645/regulation/28)
+[^c-d6a0b5b067155cf0337d22306bed4a97]: Modification: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/2017/694/regulation/25/2) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [28](https://www.legislation.gov.uk/uksi/2020/645/regulation/28)

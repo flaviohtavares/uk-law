@@ -24,7 +24,7 @@ summary: ''
 
 - (a) he has been convicted of any offence involving dishonesty or deception,
 - (b) he has been adjudged bankrupt or sequestration of his estate has been awarded and (in either case) he has not been discharged or he is the subject of a bankruptcy restrictions order[^c21164891],
-- (ba)[^key-41e648402e03e2f5aef5f342a053c927] a moratorium period under a debt relief order (under Part 7A of the Insolvency (Northern Ireland) Order 1989) applies in relation to him or he is the subject of a debt relief restrictions order under Schedule 2ZB of the Insolvency (Northern Ireland) Order 1989,
+- (ba)[^c-41e648402e03e2f5aef5f342a053c927] a moratorium period under a debt relief order (under Part 7A of the Insolvency (Northern Ireland) Order 1989) applies in relation to him or he is the subject of a debt relief restrictions order under Schedule 2ZB of the Insolvency (Northern Ireland) Order 1989,
 - (c) where the person is a company, if any director of the company is disqualified under this Article,
 - (d) where the person is a Scottish partnership, if any partner is disqualified under this Article,
 - (e) he has made an arrangement or a composition contract with, or granted a trust deed for the behoof of, his creditors and has not been discharged in respect of it, or
@@ -53,7 +53,7 @@ either generally or in relation to a particular scheme or particular description
 
 [^c21164891]: Textual amendment: Words in art. 29(1)(b) inserted (13.5.2008) by [Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [arts. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [2](https://www.legislation.gov.uk/nisr/2008/94/article/2), [Sch. Pt. 1 para. 5(a)](https://www.legislation.gov.uk/nisr/2008/94/schedule/part/1/paragraph/5/a)
 
-[^key-41e648402e03e2f5aef5f342a053c927]: Textual amendment: [Art. 29(1)(ba)](https://www.legislation.gov.uk/nisi/1995/3213/article/29/1/ba) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 16(2)(c)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/16/2/c)
+[^c-41e648402e03e2f5aef5f342a053c927]: Textual amendment: [Art. 29(1)(ba)](https://www.legislation.gov.uk/nisi/1995/3213/article/29/1/ba) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 16(2)(c)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/16/2/c)
 
 [^c17249691]: Textual amendment: [2002 NI 4](https://www.legislation.gov.uk/nisi/2002)
 

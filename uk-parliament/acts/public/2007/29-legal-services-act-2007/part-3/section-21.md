@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Regulatory arrangements[^c20624861][^key-f6200cfc3aa64d460a54df953516e319]
+## 21. Regulatory arrangements[^c20624861][^c-f6200cfc3aa64d460a54df953516e319]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 [^c20624861]: Commencement: S. 21 partly in force: s. 21 not in force at Royal Assent see s. 211; s. 21(1)(a)-(i)(2)-(4) in force at 1.1.2010 by [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/b/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2009/3250/article/9))
 
-[^key-f6200cfc3aa64d460a54df953516e319]: Commencement: S. 21 in force at 1.10.2011 so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/a)
+[^c-f6200cfc3aa64d460a54df953516e319]: Commencement: S. 21 in force at 1.10.2011 so far as not already in force by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/a)

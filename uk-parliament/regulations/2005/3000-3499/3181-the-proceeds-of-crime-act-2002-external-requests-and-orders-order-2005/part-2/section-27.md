@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Appointment of enforcement receivers[^key-8c89fa112ad3fb86124b53561ab47cf2]
+## 27. Appointment of enforcement receivers[^c-8c89fa112ad3fb86124b53561ab47cf2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,13 +26,13 @@ summary: ''
 - (b) it is not satisfied, and
 - (c) in the case of an external order for the recovery of a specified sum of money, any period specified by order under article 26 has expired.
 
-(2) On the application of the relevant Director [^key-1348fde8d74feeff2c5c41e1954c56e6]... the Crown Court may by order appoint a receiver in respect of—
+(2) On the application of the relevant Director [^c-1348fde8d74feeff2c5c41e1954c56e6]... the Crown Court may by order appoint a receiver in respect of—
 
 - (a) where the external order is for the recovery of a specified sum of money, realisable property;
 - (b) where the external order is for the recovery of specified property, that property.
 
 ## Annotations
 
-[^key-8c89fa112ad3fb86124b53561ab47cf2]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2005/3181/article/27) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-8c89fa112ad3fb86124b53561ab47cf2]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2005/3181/article/27) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-1348fde8d74feeff2c5c41e1954c56e6]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/uksi/2005/3181/article/27/2) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2008/302/article/2/8)
+[^c-1348fde8d74feeff2c5c41e1954c56e6]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/uksi/2005/3181/article/27/2) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2008/302/article/2/8)

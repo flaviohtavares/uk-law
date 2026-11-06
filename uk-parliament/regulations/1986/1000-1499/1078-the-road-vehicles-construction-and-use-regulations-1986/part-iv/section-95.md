@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 95. Use of gas-fired appliances—general[^key-0c73846e5d46d9543841d15b325138ed]
+## 95. Use of gas-fired appliances—general[^c-0c73846e5d46d9543841d15b325138ed]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c73846e5d46d9543841d15b325138ed]: Commencement: [Reg. 95](https://www.legislation.gov.uk/uksi/1986/1078/regulation/95) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-0c73846e5d46d9543841d15b325138ed]: Commencement: [Reg. 95](https://www.legislation.gov.uk/uksi/1986/1078/regulation/95) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

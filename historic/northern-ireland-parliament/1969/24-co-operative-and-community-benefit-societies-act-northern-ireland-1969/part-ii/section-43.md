@@ -49,8 +49,8 @@ and if the auditors are of opinion that the society has failed to comply with se
 - (a) to attend any general meeting of the society, and to receive all notices of and other communications relating to any general meeting which any member of the society is entitled to receive, and
 - (b) to be heard at any meeting which they attend on any part of the business of the meeting which concerns them as auditors.
 
-(8)[^key-270520a37c733cb44a5686ea7210b26b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-270520a37c733cb44a5686ea7210b26b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-270520a37c733cb44a5686ea7210b26b]: Textual amendment: S. 43(8) omitted (23.4.2016) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1), [Sch. 1 para. 52](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/52)
+[^c-270520a37c733cb44a5686ea7210b26b]: Textual amendment: S. 43(8) omitted (23.4.2016) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1), [Sch. 1 para. 52](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/52)

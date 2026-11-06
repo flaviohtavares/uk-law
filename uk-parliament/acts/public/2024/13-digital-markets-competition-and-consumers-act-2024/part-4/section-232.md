@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Rights of redress[^key-ea0c1711cee6d0edd6715fa7653ac231]
+## 232. Rights of redress[^c-ea0c1711cee6d0edd6715fa7653ac231]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ and includes a producer acting personally or through another person acting in th
 
 ## Annotations
 
-[^key-ea0c1711cee6d0edd6715fa7653ac231]: Commencement: S. 232 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ea0c1711cee6d0edd6715fa7653ac231]: Commencement: S. 232 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

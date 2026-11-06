@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Regulations may make provision under this section with regard to any case where at any time [^key-48a51bfda68b5c9692de242f28e1c3ba]...the insurer—[^key-51b7e814e9a0b70caa7a7ee1cebfa639]
+(1) Regulations may make provision under this section with regard to any case where at any time [^c-48a51bfda68b5c9692de242f28e1c3ba]...the insurer—[^c-51b7e814e9a0b70caa7a7ee1cebfa639]
 
 - (a) does not have any business establishment or other fixed establishment in the United Kingdom, and
 - (b) is established in a country or territory in respect of which it appears to the Commissioners that the condition in subsection (1A) below is met.
 
-(1A)[^key-f159d951f4db1d695807e09aede21bd4] The condition mentioned in subsection (1)(b) above is that there are no arrangements in relation to the country or territory relating to insurance premium tax which—
+(1A)[^c-f159d951f4db1d695807e09aede21bd4] The condition mentioned in subsection (1)(b) above is that there are no arrangements in relation to the country or territory relating to insurance premium tax which—
 
 - (a) have effect by virtue of an Order in Council under section 173 of the Finance Act 2006, and
 - (b) contain provision of a kind mentioned in subsection (2)(a) and (b) of that section.
@@ -88,8 +88,8 @@ and the regulations may include provision for determining whether, or how much o
 
 ## Annotations
 
-[^key-48a51bfda68b5c9692de242f28e1c3ba]: Textual amendment: Words in s. 65(1) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(1)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/1/b)
+[^c-48a51bfda68b5c9692de242f28e1c3ba]: Textual amendment: Words in s. 65(1) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(1)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/1/b)
 
-[^key-51b7e814e9a0b70caa7a7ee1cebfa639]: Textual amendment: Words in s. 65(1) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 143(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/143/2)
+[^c-51b7e814e9a0b70caa7a7ee1cebfa639]: Textual amendment: Words in s. 65(1) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 143(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/143/2)
 
-[^key-f159d951f4db1d695807e09aede21bd4]: Textual amendment: S. 65(1A) substituted for s. 65(1A)(1B) (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 8](https://www.legislation.gov.uk/ukpga/2020/26/section/8), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-f159d951f4db1d695807e09aede21bd4]: Textual amendment: S. 65(1A) substituted for s. 65(1A)(1B) (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 8](https://www.legislation.gov.uk/ukpga/2020/26/section/8), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

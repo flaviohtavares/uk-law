@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.3. Notice of the inquiry[^key-66fc16366cb4aad90cec792c69bbf23f]
+## 3.3. Notice of the inquiry[^c-66fc16366cb4aad90cec792c69bbf23f]
 
 *Extent: S*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66fc16366cb4aad90cec792c69bbf23f]: Commencement: [Rule 3.3](https://www.legislation.gov.uk/ssi/2017/103/rule/3.3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-66fc16366cb4aad90cec792c69bbf23f]: Commencement: [Rule 3.3](https://www.legislation.gov.uk/ssi/2017/103/rule/3.3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
 [^f00007]: Footnote: [S.I. 2016/1142](https://www.legislation.gov.uk/uksi/2016/1142).

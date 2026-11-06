@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34ZC. Fixed penalty notices for offences under section 34(6): Scotland[^key-0810de0ecc509a37cbc59d3bf25086a1]
+## 34ZC. Fixed penalty notices for offences under section 34(6): Scotland[^c-0810de0ecc509a37cbc59d3bf25086a1]
 
 *Extent: S*
 
@@ -92,4 +92,4 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-0810de0ecc509a37cbc59d3bf25086a1]: Textual amendment: [S. 34ZC](https://www.legislation.gov.uk/ukpga/1990/43/section/34ZC) inserted (S.) (1.8.2025 for specified purposes) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 14(3)](https://www.legislation.gov.uk/asp/2024/13/section/14/3), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-0810de0ecc509a37cbc59d3bf25086a1]: Textual amendment: [S. 34ZC](https://www.legislation.gov.uk/ukpga/1990/43/section/34ZC) inserted (S.) (1.8.2025 for specified purposes) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 14(3)](https://www.legislation.gov.uk/asp/2024/13/section/14/3), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)

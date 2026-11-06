@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. Meaning of lay person[^key-562da102f17c8a17f5bf69bf773a141f]
+## 117. Meaning of lay person[^c-562da102f17c8a17f5bf69bf773a141f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ In section 87 of the 2011 Measure (interpretation), in subsection (2) omit the d
 
 ## Annotations
 
-[^key-562da102f17c8a17f5bf69bf773a141f]: Commencement: [S. 117](https://www.legislation.gov.uk/asc/2021/1/section/117) in force at 5.5.2022 by [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [art. 3(b)](https://www.legislation.gov.uk/wsi/2021/297/article/3/b)
+[^c-562da102f17c8a17f5bf69bf773a141f]: Commencement: [S. 117](https://www.legislation.gov.uk/asc/2021/1/section/117) in force at 5.5.2022 by [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [art. 3(b)](https://www.legislation.gov.uk/wsi/2021/297/article/3/b)

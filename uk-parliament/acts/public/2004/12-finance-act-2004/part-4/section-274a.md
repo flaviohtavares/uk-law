@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 274A. Power to split schemes[^key-2cf82d386ac72d7263d9c7583f29bc20]
+## 274A. Power to split schemes[^c-2cf82d386ac72d7263d9c7583f29bc20]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,10 +31,10 @@ summary: ''
 
 (4) The regulations may make different provision for different cases.
 
-(5)[^key-44dca27f18b4d05d00834257771fbb39] Sections 226A and 226B of the Inheritance Tax Act 1984 (withholding of benefits and payment of inheritance tax by scheme administrator) are treated for the purposes of this section as provision made by this Part.
+(5)[^c-44dca27f18b4d05d00834257771fbb39] Sections 226A and 226B of the Inheritance Tax Act 1984 (withholding of benefits and payment of inheritance tax by scheme administrator) are treated for the purposes of this section as provision made by this Part.
 
 ## Annotations
 
-[^key-2cf82d386ac72d7263d9c7583f29bc20]: Textual amendment: S. 274A inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 50](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/50), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
+[^c-2cf82d386ac72d7263d9c7583f29bc20]: Textual amendment: S. 274A inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 50](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/50), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
 
-[^key-44dca27f18b4d05d00834257771fbb39]: Textual amendment: [S. 274A(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/274A/5) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 70(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/70/10), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-44dca27f18b4d05d00834257771fbb39]: Textual amendment: [S. 274A(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/274A/5) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 70(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/70/10), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

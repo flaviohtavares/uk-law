@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Calculation of emissions from the use of CORSIA eligible fuels[^key-362d473dc5dde1915f7415973aca99dc]
+## 30. Calculation of emissions from the use of CORSIA eligible fuels[^c-362d473dc5dde1915f7415973aca99dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-362d473dc5dde1915f7415973aca99dc]: Textual amendment: [Art. 30](https://www.legislation.gov.uk/uksi/2021/534/article/30) omitted (9.11.2022) by virtue of [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [15](https://www.legislation.gov.uk/uksi/2022/1050/article/15)
+[^c-362d473dc5dde1915f7415973aca99dc]: Textual amendment: [Art. 30](https://www.legislation.gov.uk/uksi/2021/534/article/30) omitted (9.11.2022) by virtue of [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [15](https://www.legislation.gov.uk/uksi/2022/1050/article/15)

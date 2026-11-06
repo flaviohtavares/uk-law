@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Requirement to submit annual accounts: unconnected multiple employer schemes[^key-f802cf7bb99e2b765c3c40b5c738e865]
+## 13. Requirement to submit annual accounts: unconnected multiple employer schemes[^c-f802cf7bb99e2b765c3c40b5c738e865]
 
 *Extent: N.I.*
 
@@ -51,6 +51,6 @@ After section 77 (list of authorised schemes) insert—
 
 ## Annotations
 
-[^key-f802cf7bb99e2b765c3c40b5c738e865]: Commencement: Reg. 13 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-f802cf7bb99e2b765c3c40b5c738e865]: Commencement: Reg. 13 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00008]: Footnote: Article 10 was amended by paragraph 9 of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)), Schedule 11 to the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)) and paragraph 15 of Schedule 8 to the Pension Schemes Act 2021

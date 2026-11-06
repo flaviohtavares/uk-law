@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Rights under or over streets[^key-454c1037623e486be924e47d8f13d673]
+## 39. Rights under or over streets[^c-454c1037623e486be924e47d8f13d673]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-454c1037623e486be924e47d8f13d673]: Commencement: Art. 39 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-454c1037623e486be924e47d8f13d673]: Commencement: Art. 39 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1054. Building society payments[^key-78237202f7b88a6174e312bca71ab393]
+## 1054. Building society payments[^c-78237202f7b88a6174e312bca71ab393]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ is payable in respect of shares in, or a deposit with or loan to, a building soc
 
 ## Annotations
 
-[^key-78237202f7b88a6174e312bca71ab393]: Modification: S. 1054 excluded (1.3.2013) by [The Building Societies (Core Capital Deferred Shares) Regulations 2013 (S.I. 2013/460)](https://www.legislation.gov.uk/uksi/2013/460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/460/regulation/1/1), [3(1)(f)](https://www.legislation.gov.uk/uksi/2013/460/regulation/3/1/f) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/460/regulation/1/2))
+[^c-78237202f7b88a6174e312bca71ab393]: Modification: S. 1054 excluded (1.3.2013) by [The Building Societies (Core Capital Deferred Shares) Regulations 2013 (S.I. 2013/460)](https://www.legislation.gov.uk/uksi/2013/460), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/460/regulation/1/1), [3(1)(f)](https://www.legislation.gov.uk/uksi/2013/460/regulation/3/1/f) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/460/regulation/1/2))

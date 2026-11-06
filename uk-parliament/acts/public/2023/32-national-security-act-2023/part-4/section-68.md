@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Requirement to register relevant activities of specified persons[^key-ab21f1fca9c10c7607fd9a0fbf3da0b8][^key-a0c06482e0ffcd226d8b68a8a26d3ed7]
+## 68. Requirement to register relevant activities of specified persons[^c-ab21f1fca9c10c7607fd9a0fbf3da0b8][^c-a0c06482e0ffcd226d8b68a8a26d3ed7]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f4b6bbba3ec8cd17a28a566cc23d7c61] A specified person who is not a foreign power must not carry out relevant activities in the United Kingdom unless the activities are registered with the Secretary of State by the specified person.
+(1)[^c-f4b6bbba3ec8cd17a28a566cc23d7c61] A specified person who is not a foreign power must not carry out relevant activities in the United Kingdom unless the activities are registered with the Secretary of State by the specified person.
 
-(2)[^key-f4b6bbba3ec8cd17a28a566cc23d7c61] A person who holds office in or under, or is an employee or other member of staff of, a specified person who is not a foreign power, must not carry out relevant activities in the United Kingdom in that capacity unless the activities are registered with the Secretary of State by the specified person.
+(2)[^c-f4b6bbba3ec8cd17a28a566cc23d7c61] A person who holds office in or under, or is an employee or other member of staff of, a specified person who is not a foreign power, must not carry out relevant activities in the United Kingdom in that capacity unless the activities are registered with the Secretary of State by the specified person.
 
-(3)[^key-f4b6bbba3ec8cd17a28a566cc23d7c61] A person who holds office in or under, or is an employee or other member of staff of, a specified person who is a foreign power must not carry out relevant activities in the United Kingdom in that capacity if or to the extent that—
+(3)[^c-f4b6bbba3ec8cd17a28a566cc23d7c61] A person who holds office in or under, or is an employee or other member of staff of, a specified person who is a foreign power must not carry out relevant activities in the United Kingdom in that capacity if or to the extent that—
 
 - (a) the person makes a misrepresentation about their activities or the capacity in which they act (whether generally or to a particular person), and
 - (b) the activities are not registered with the Secretary of State by the specified person.
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ab21f1fca9c10c7607fd9a0fbf3da0b8]: Commencement: S. 68 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-ab21f1fca9c10c7607fd9a0fbf3da0b8]: Commencement: S. 68 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-a0c06482e0ffcd226d8b68a8a26d3ed7]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/32/section/68) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-a0c06482e0ffcd226d8b68a8a26d3ed7]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/32/section/68) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
 
-[^key-f4b6bbba3ec8cd17a28a566cc23d7c61]: Modification: [S. 68(1)-(3)](https://www.legislation.gov.uk/ukpga/2023/32/section/68/1) excluded (1.7.2025) by [The National Security Act 2023 (Foreign Activities and Foreign Influence Registration Scheme: Exemptions for Certain Foreign Power Investment Funds, Education, Government Administration and Public Bodies) Regulations 2025 (S.I. 2025/676)](https://www.legislation.gov.uk/uksi/2025/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/676/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/676/regulation/5); S.I. 2025/674, [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-f4b6bbba3ec8cd17a28a566cc23d7c61]: Modification: [S. 68(1)-(3)](https://www.legislation.gov.uk/ukpga/2023/32/section/68/1) excluded (1.7.2025) by [The National Security Act 2023 (Foreign Activities and Foreign Influence Registration Scheme: Exemptions for Certain Foreign Power Investment Funds, Education, Government Administration and Public Bodies) Regulations 2025 (S.I. 2025/676)](https://www.legislation.gov.uk/uksi/2025/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/676/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/676/regulation/5); S.I. 2025/674, [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

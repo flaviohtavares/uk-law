@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4A — First-time buyer relief[^key-6f95a37528b87e668b7f8933b6fe233c]
+## SCHEDULE 4A — First-time buyer relief[^c-6f95a37528b87e668b7f8933b6fe233c]
 
 *Extent: S*
 
@@ -99,4 +99,4 @@ The relief consists in the tax not being chargeable in respect of the first £17
 
 ## Annotations
 
-[^key-6f95a37528b87e668b7f8933b6fe233c]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/asp/2013/11/schedule/4A) inserted (30.6.2018) by [The Land and Buildings Transaction Tax (First-Time Buyer Relief) (Scotland) Order 2018 (S.S.I. 2018/221)](https://www.legislation.gov.uk/ssi/2018/221), [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/221/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2018/221/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2018/221/article/6))
+[^c-6f95a37528b87e668b7f8933b6fe233c]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/asp/2013/11/schedule/4A) inserted (30.6.2018) by [The Land and Buildings Transaction Tax (First-Time Buyer Relief) (Scotland) Order 2018 (S.S.I. 2018/221)](https://www.legislation.gov.uk/ssi/2018/221), [art. 1(1)](https://www.legislation.gov.uk/ssi/2018/221/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2018/221/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2018/221/article/6))

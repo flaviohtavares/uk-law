@@ -43,13 +43,13 @@ Coming into force
 
 The Lords of Council and Session, under and by virtue of the powers conferred on them by section 75 of the Debtors (Scotland) Act 1987[^f00001] and of all other powers enabling them in that behalf, do hereby enact and declare:
 
-## 1. Citation and commencement[^key-aaad3bad53980810daf658d86f895654]
+## 1. Citation and commencement[^c-aaad3bad53980810daf658d86f895654]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Messengers-at-Arms and Sheriff Officers Rules Amendment) (Caution and Insurance) 2005 and shall come into force on 14th April 2005.
 
 (2) This Act of Sederunt shall be inserted in the Books of Sederunt.
 
-## 2. Amendment of 1991 Rules[^key-021f27252d53dae405f1b64f25709eb2]
+## 2. Amendment of 1991 Rules[^c-021f27252d53dae405f1b64f25709eb2]
 
 (1) The Act of Sederunt (Messengers-at-Arms and Sheriff Officers Rules) 1991[^f00002] shall be amended in accordance with the following sub-paragraphs.
 
@@ -77,9 +77,9 @@ This Act of Sederunt amends the provisions of the Act of Sederunt (Rules of Mess
 
 [^f00001]: Footnote: [1987 c. 18](https://www.legislation.gov.uk/ukpga/1987/18).
 
-[^key-aaad3bad53980810daf658d86f895654]: Commencement: Rule 1 in force at 14.4.2005, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2005/199/rule/1/1)
+[^c-aaad3bad53980810daf658d86f895654]: Commencement: Rule 1 in force at 14.4.2005, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2005/199/rule/1/1)
 
-[^key-021f27252d53dae405f1b64f25709eb2]: Commencement: Rule 2 in force at 14.4.2005, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2005/199/rule/1/1)
+[^c-021f27252d53dae405f1b64f25709eb2]: Commencement: Rule 2 in force at 14.4.2005, see [rule 1(1)](https://www.legislation.gov.uk/ssi/2005/199/rule/1/1)
 
 [^f00002]: Footnote: S.I. [1991/1397](https://www.legislation.gov.uk/uksi/1991/1397), amended by S.I. [1998/2636](https://www.legislation.gov.uk/uksi/1998/2636) and [S.S.I. 2000/30](https://www.legislation.gov.uk/ssi/2000/30).
 

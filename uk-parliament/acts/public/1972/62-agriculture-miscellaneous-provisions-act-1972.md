@@ -45,7 +45,7 @@ An Act to make new provision for the prevention of diseases suffered or dissemin
 
 In section 13 of the [^c8553581] Agriculture (Miscellaneous Provisions) Act 1963 (which among other things provides for the seizure and disposal of carcases and other things including eggs with a view to preventing the spread of certain diseases and for the payment in certain cases of compensation for things seized} after the word “eggs” in subsection (1) there shall be inserted the words “milk, skim milk, whey, buttermilk, cream”.
 
-## 4. Furnishing by milk marketing boards of information derived from tests of milk.[^key-ff866137b8931a90cb1e3bde0a1d8f9e]
+## 4. Furnishing by milk marketing boards of information derived from tests of milk.[^c-ff866137b8931a90cb1e3bde0a1d8f9e]
 
 *Extent: E+W+S*
 
@@ -69,7 +69,7 @@ In section 13 of the [^c8553581] Agriculture (Miscellaneous Provisions) Act 1963
 
 (1)—(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8553641]
 
-(5)[^key-3c7dc8ae812a7a2c6ab5e2c2408e0f43][^c8553651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3c7dc8ae812a7a2c6ab5e2c2408e0f43][^c8553651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8553671]
 
@@ -77,44 +77,44 @@ In section 13 of the [^c8553581] Agriculture (Miscellaneous Provisions) Act 1963
 
 (1) Part II of the [^c8553681]Agriculture Act 1967 (grants and loans in connection with alterations in farm structure) shall have effect with the amendments specified in subsections (2) to (6) of this section.
 
-(2)[^key-5f5a8a4545df19ac3236dc3c0ce608da][^c8553691] In section 26— *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+(2)[^c-5f5a8a4545df19ac3236dc3c0ce608da][^c8553691] In section 26— *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
 
-- (a) in subsection (1)— *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
-  - (i) for the words preceding paragraph (a) there shall be substituted the words “The appropriate Minister may in accordance with a scheme and subject to section 50 of the *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da] [^c8553701]Agriculture Act 1970 make, out of money provided by Parliament, grants of amounts determined in such manner as may be provided by or under the scheme in connection with the carrying out of any of the following transactions approved by him in pursuance of that scheme, that is to say—” ; *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
-  - (ii (affected by repeal, see note))[^key-5f5a8a4545df19ac3236dc3c0ce608da] after paragraph (b) there shall be inserted— *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+- (a) in subsection (1)— *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
+  - (i) for the words preceding paragraph (a) there shall be substituted the words “The appropriate Minister may in accordance with a scheme and subject to section 50 of the *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da] [^c8553701]Agriculture Act 1970 make, out of money provided by Parliament, grants of amounts determined in such manner as may be provided by or under the scheme in connection with the carrying out of any of the following transactions approved by him in pursuance of that scheme, that is to say—” ; *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
+  - (ii (affected by repeal, see note))[^c-5f5a8a4545df19ac3236dc3c0ce608da] after paragraph (b) there shall be inserted— *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
 
-    > - (bb (affected by repeal, see note))[^key-5f5a8a4545df19ac3236dc3c0ce608da] transactions securinf that, where the person occupying an intermediate unit or a commercial unit occupies any part or parts of it otherwise than as owner or as a tenant as defined in the Agricultural Holdings Act 1948 (or, in Scotland, the Agricultural Holdings (Scotland) Act 1949), he comes to occupy that part or all those parts as owner or as such a tenant, and *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+    > - (bb (affected by repeal, see note))[^c-5f5a8a4545df19ac3236dc3c0ce608da] transactions securinf that, where the person occupying an intermediate unit or a commercial unit occupies any part or parts of it otherwise than as owner or as a tenant as defined in the Agricultural Holdings Act 1948 (or, in Scotland, the Agricultural Holdings (Scotland) Act 1949), he comes to occupy that part or all those parts as owner or as such a tenant, and *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
 
     ;
-  - (iii (affected by repeal, see note))[^key-5f5a8a4545df19ac3236dc3c0ce608da] at the end of subsection (2) there shall be inserted the words “or, as respects transactions within subsection (1)(bb) of this section, cases where after the transaction has been effected the unit is not in single ownership” ; *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
-- (c) subsections (3) and (5) shall be omitted ; *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
-- (d) in subsection (6)— *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
-  - (i) for the words preceding paragraph (a) there shall be substituted the words “Any approval in pursuance of a scheme under this section of an amalgamation or boundary adjustment—” ; *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
-  - (ii (affected by repeal, see note))[^key-5f5a8a4545df19ac3236dc3c0ce608da] in paragraph (a) the words “the expenditure has been incurred or” shall be omitted. *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+  - (iii (affected by repeal, see note))[^c-5f5a8a4545df19ac3236dc3c0ce608da] at the end of subsection (2) there shall be inserted the words “or, as respects transactions within subsection (1)(bb) of this section, cases where after the transaction has been effected the unit is not in single ownership” ; *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
+- (c) subsections (3) and (5) shall be omitted ; *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
+- (d) in subsection (6)— *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
+  - (i) for the words preceding paragraph (a) there shall be substituted the words “Any approval in pursuance of a scheme under this section of an amalgamation or boundary adjustment—” ; *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
+  - (ii (affected by repeal, see note))[^c-5f5a8a4545df19ac3236dc3c0ce608da] in paragraph (a) the words “the expenditure has been incurred or” shall be omitted. *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
 
-(3) In section 27— *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+(3) In section 27— *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
 
-- (a) in subsection (1) in the words preceding paragraph (a) for the words “relinquishes his occupation of an uncommercial unit” there shall be substituted the words “relinquishes his occupation of, or of part of, an uncommercial unit” ; *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
-- (b) after subsection (5A) there shall be inserted— *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+- (a) in subsection (1) in the words preceding paragraph (a) for the words “relinquishes his occupation of an uncommercial unit” there shall be substituted the words “relinquishes his occupation of, or of part of, an uncommercial unit” ; *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
+- (b) after subsection (5A) there shall be inserted— *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
 
-  > (5B) A scheme made by virtue of subsection (1)(a) or (b) of this section may make provision whereby a person is treated for the purposes of the scheme, to such extent and in such cases as may be prescribed— *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+  > (5B) A scheme made by virtue of subsection (1)(a) or (b) of this section may make provision whereby a person is treated for the purposes of the scheme, to such extent and in such cases as may be prescribed— *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
   >
-  > - (a) as the occupier of any land in respect of which he has granted, or agreed to grant, to another person a licence or tenancy of a kind not making that other person a renant as defined in the Agricultural Holdings Act 1948 (or, in Scotland, the Agricultural Holdings (Scotland) Act 1949) ; *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
-  > - (b) as relinquishing his occupation of that land if he relinquishes his remaining estate or interest in the land ; *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
-  > - (c) as relinquishing his occupation of, or of part of, an uncommercial unit of agricultural land if the land was, or was partof, such a unit immediately before he first granted or agreed togrant such a licence or tenancy as aforesaid ; *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+  > - (a) as the occupier of any land in respect of which he has granted, or agreed to grant, to another person a licence or tenancy of a kind not making that other person a renant as defined in the Agricultural Holdings Act 1948 (or, in Scotland, the Agricultural Holdings (Scotland) Act 1949) ; *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
+  > - (b) as relinquishing his occupation of that land if he relinquishes his remaining estate or interest in the land ; *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
+  > - (c) as relinquishing his occupation of, or of part of, an uncommercial unit of agricultural land if the land was, or was partof, such a unit immediately before he first granted or agreed togrant such a licence or tenancy as aforesaid ; *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
   >
-  > and, in relation to any provision made by virtue of this subsection, subsections (2), (4) and (5A) of this section shall not apply but provision may be made in this scheme for corresponding purposes. *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+  > and, in relation to any provision made by virtue of this subsection, subsections (2), (4) and (5A) of this section shall not apply but provision may be made in this scheme for corresponding purposes. *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
 
-(4)[^c8553711] In section 28(1) for paragraph (a) there shall be substituted— *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+(4)[^c8553711] In section 28(1) for paragraph (a) there shall be substituted— *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
 
-> - (a) the costs of the amalgamation or boundary adjustment consisting of surveyor’s fees and legal costs, stamp duty on any conveyance lease, tenancy agreement or mortgage or heritable security and any compensation for disturbance under section 34 of the Agricultural Holdings Act 1948 or section 35 of the Agricultural Holdings (Scotland) Act 1949, or *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
-> - (aa (affected by repeal, see note))[^key-5f5a8a4545df19ac3236dc3c0ce608da] expenditure incurredin the carrying out or provision of works or facilities which the appropriate Minister considers to be necessary or desirable as a consequence of the amalgamation, or to be necessary as a consequence of the boundary adjustment, or *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+> - (a) the costs of the amalgamation or boundary adjustment consisting of surveyor’s fees and legal costs, stamp duty on any conveyance lease, tenancy agreement or mortgage or heritable security and any compensation for disturbance under section 34 of the Agricultural Holdings Act 1948 or section 35 of the Agricultural Holdings (Scotland) Act 1949, or *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
+> - (aa (affected by repeal, see note))[^c-5f5a8a4545df19ac3236dc3c0ce608da] expenditure incurredin the carrying out or provision of works or facilities which the appropriate Minister considers to be necessary or desirable as a consequence of the amalgamation, or to be necessary as a consequence of the boundary adjustment, or *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
 
-; and for the words “or expenditure under both paragraphs (a) and (b) above” there shall be substituted the words “or expenditure under all or any two of paragraphs (a), (aa) and (b) above”. *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+; and for the words “or expenditure under both paragraphs (a) and (b) above” there shall be substituted the words “or expenditure under all or any two of paragraphs (a), (aa) and (b) above”. *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
 
-(5) In section 39 (application to Northern Ireland) after subsection (5) there shall be inserted— *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+(5) In section 39 (application to Northern Ireland) after subsection (5) there shall be inserted— *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
 
-> (5A) Sections 26(1)(bb) and 27(5B) of this Act shall, in their application to Northern Ireland, have effect as if references to a tenant as defined in the Acts there mentioned were references to a tenant who holds under a contract of tenancy for a life or lives for a term of years. *(affected by repeal, see note)*[^key-5f5a8a4545df19ac3236dc3c0ce608da]
+> (5A) Sections 26(1)(bb) and 27(5B) of this Act shall, in their application to Northern Ireland, have effect as if references to a tenant as defined in the Acts there mentioned were references to a tenant who holds under a contract of tenancy for a life or lives for a term of years. *(affected by repeal, see note)*[^c-5f5a8a4545df19ac3236dc3c0ce608da]
 
 (6)[^c8553711] In section 40(3) (uncommercial unit not to include dwelling houses) after the words “exclusive of any one dwelling house of the unit” there shall be inserted the words “or of an area sufficient to provide a site for one dwelling house”.
 
@@ -124,46 +124,46 @@ In section 13 of the [^c8553581] Agriculture (Miscellaneous Provisions) Act 1963
 
 (9) Sections 26(1) to (6) and[^c8553771] 28(1) of the said Act of 1967 as amended by this section are set out in Schedule 4 to this Act.
 
-## 10. Conditions applicable to land where amalgamation or boundary adjustment has been assisted by a grant or loan. (affected by repeal, see note)[^key-d593502cc87465a5cec2a4150df0ed90][^key-d593502cc87465a5cec2a4150df0ed90]
+## 10. Conditions applicable to land where amalgamation or boundary adjustment has been assisted by a grant or loan. (affected by repeal, see note)[^c-d593502cc87465a5cec2a4150df0ed90][^c-d593502cc87465a5cec2a4150df0ed90]
 
-(1)[^c8553781] Subsections (7) and (8) of section 26 of the Agriculture Act 1967 (which apply the conditions in Schedule 3 to that Act to agricultural units where certain grants have been paid) shall not apply in relation to the payment of— *(affected by repeal, see note)*[^key-d593502cc87465a5cec2a4150df0ed90]
+(1)[^c8553781] Subsections (7) and (8) of section 26 of the Agriculture Act 1967 (which apply the conditions in Schedule 3 to that Act to agricultural units where certain grants have been paid) shall not apply in relation to the payment of— *(affected by repeal, see note)*[^c-d593502cc87465a5cec2a4150df0ed90]
 
-- (a) any grant under a scheme made under that section or section 27 of that Act after the passing of this Act; or *(affected by repeal, see note)*[^key-d593502cc87465a5cec2a4150df0ed90]
-- (b) any grant under section 29 of the *(affected by repeal, see note)*[^key-d593502cc87465a5cec2a4150df0ed90] [^c8553791]Agriculture Act 1970 in respect of any work or facility certified under the said section 26 in connection with an amalgamation or boundary adjustment approved under any scheme made under the said section 26 after the passing of this Act. *(affected by repeal, see note)*[^key-d593502cc87465a5cec2a4150df0ed90]
+- (a) any grant under a scheme made under that section or section 27 of that Act after the passing of this Act; or *(affected by repeal, see note)*[^c-d593502cc87465a5cec2a4150df0ed90]
+- (b) any grant under section 29 of the *(affected by repeal, see note)*[^c-d593502cc87465a5cec2a4150df0ed90] [^c8553791]Agriculture Act 1970 in respect of any work or facility certified under the said section 26 in connection with an amalgamation or boundary adjustment approved under any scheme made under the said section 26 after the passing of this Act. *(affected by repeal, see note)*[^c-d593502cc87465a5cec2a4150df0ed90]
 
-(2) Where, by reason of the payment of a grant under a scheme made under the said section 27 before the passing of this Act, any land became subject to the provisions of the said Schedule 3, that land shall cease to be subject to those provisions if, by virtue of transitional provisions in a scheme made under that section after the passing of this Act, the approval in consequence of which the grant was paid falls to be treated as if given under the latter scheme. *(affected by repeal, see note)*[^key-d593502cc87465a5cec2a4150df0ed90]
+(2) Where, by reason of the payment of a grant under a scheme made under the said section 27 before the passing of this Act, any land became subject to the provisions of the said Schedule 3, that land shall cease to be subject to those provisions if, by virtue of transitional provisions in a scheme made under that section after the passing of this Act, the approval in consequence of which the grant was paid falls to be treated as if given under the latter scheme. *(affected by repeal, see note)*[^c-d593502cc87465a5cec2a4150df0ed90]
 
-(3) Subsections (6) and (7) of section 28 of the said Act of 1967 (which apply the conditions in the said Schedule 3 to agricultural units where loans or guarantees have been made or given under that section) shall not apply in relation to any loan or guarantee in connection with an amalgamation or boundary adjustment approved under a scheme made under the said section 26 after the passing of this Act or treated by virtue of transitional provisions in such a scheme as approved thereunder. *(affected by repeal, see note)*[^key-d593502cc87465a5cec2a4150df0ed90]
+(3) Subsections (6) and (7) of section 28 of the said Act of 1967 (which apply the conditions in the said Schedule 3 to agricultural units where loans or guarantees have been made or given under that section) shall not apply in relation to any loan or guarantee in connection with an amalgamation or boundary adjustment approved under a scheme made under the said section 26 after the passing of this Act or treated by virtue of transitional provisions in such a scheme as approved thereunder. *(affected by repeal, see note)*[^c-d593502cc87465a5cec2a4150df0ed90]
 
-(4) In making a grant under the said section 26 the appropriate Minister may impose such conditions as he thinks fit; and any such conditions, and any conditions imposed under section 28(5) of the said Act of 1967 or section 29(3) of the said Act of 1970, may require the recipient of the grant or loan, or the person whose indebtedness is guaranteed, to make such payments or repayments to the appropriate Minister in such circumstances as may be specified in the conditions. *(affected by repeal, see note)*[^key-d593502cc87465a5cec2a4150df0ed90]
+(4) In making a grant under the said section 26 the appropriate Minister may impose such conditions as he thinks fit; and any such conditions, and any conditions imposed under section 28(5) of the said Act of 1967 or section 29(3) of the said Act of 1970, may require the recipient of the grant or loan, or the person whose indebtedness is guaranteed, to make such payments or repayments to the appropriate Minister in such circumstances as may be specified in the conditions. *(affected by repeal, see note)*[^c-d593502cc87465a5cec2a4150df0ed90]
 
-(5)[^c8553811] Paragraph 1 of the said Schedule 3 (duration of conditions imposed by that Schedule) shall have effect, and be deemed always to have had effect, with the substitution for the words “fifteen years” of the words “five years”. *(affected by repeal, see note)*[^key-d593502cc87465a5cec2a4150df0ed90]
+(5)[^c8553811] Paragraph 1 of the said Schedule 3 (duration of conditions imposed by that Schedule) shall have effect, and be deemed always to have had effect, with the substitution for the words “fifteen years” of the words “five years”. *(affected by repeal, see note)*[^c-d593502cc87465a5cec2a4150df0ed90]
 
-## 11. Grants for farm improvements[^key-e77227162a6a83e0f0bfe49ff1c44eec][^c8553821]
+## 11. Grants for farm improvements[^c-e77227162a6a83e0f0bfe49ff1c44eec][^c8553821]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Payments into and out of Agricultural Marketing Funds, and abolition of Marketing Facilities Committees. (affected by repeal, see note)[^key-2b8517853fa593f08a3d4d59ddafeac7][^key-2b8517853fa593f08a3d4d59ddafeac7]
+## 12. Payments into and out of Agricultural Marketing Funds, and abolition of Marketing Facilities Committees. (affected by repeal, see note)[^c-2b8517853fa593f08a3d4d59ddafeac7][^c-2b8517853fa593f08a3d4d59ddafeac7]
 
 *Extent: E+W+S*
 
-(1) If the Minister considers that the sums standing to the credit of the Agricultural Marketing Fund should be reduced, he may pay such sums as he thinks fit out of that Fund into the Consolidated Fund; and if the Secretary of State considers that the sums standing to the credit of the Agricultural Marketing (Scotland) Fund should be reduced, he may pay such sums as he thinks fit out of that Fund into the Consolidated Fund: *(affected by repeal, see note)*[^key-2b8517853fa593f08a3d4d59ddafeac7]
+(1) If the Minister considers that the sums standing to the credit of the Agricultural Marketing Fund should be reduced, he may pay such sums as he thinks fit out of that Fund into the Consolidated Fund; and if the Secretary of State considers that the sums standing to the credit of the Agricultural Marketing (Scotland) Fund should be reduced, he may pay such sums as he thinks fit out of that Fund into the Consolidated Fund: *(affected by repeal, see note)*[^c-2b8517853fa593f08a3d4d59ddafeac7]
 
-Provided that nothing in this subsection shall be construed as conferring authority on the Minister or Secretary of State to wind up the Agricultural Marketing Fund or, as the case may be, the Agricultural Marketing (Scotland) Fund. *(affected by repeal, see note)*[^key-2b8517853fa593f08a3d4d59ddafeac7]
+Provided that nothing in this subsection shall be construed as conferring authority on the Minister or Secretary of State to wind up the Agricultural Marketing Fund or, as the case may be, the Agricultural Marketing (Scotland) Fund. *(affected by repeal, see note)*[^c-2b8517853fa593f08a3d4d59ddafeac7]
 
-(2)[^c8553841] The limits imposed by subsection (3) of section 22 of the *(affected by repeal, see note)*[^key-2b8517853fa593f08a3d4d59ddafeac7] [^c8553851]Agricultural Marketing Act 1958 on the sums which may be paid put of money provided by Parliiament into the Marketing Funds mentioned in the preceding subsection are hereby abolished; and accordingly for paragraphs (a) and (b) of the said subsection (3) (which provide that sums payable out of money so provided into each of those funds shall not in the aggregate exceed the difference between £500,000 in the case of the English Fund and £125,000 in the case of the Scottish fund and the sums paid into the fund in question under section 11(2) of the *(affected by repeal, see note)*[^key-2b8517853fa593f08a3d4d59ddafeac7] [^c8553861]Agricultural Marketing Act 1931) there shall be substituted the words “into the English fund and the Scottish fund repectively such sums”. *(affected by repeal, see note)*[^key-2b8517853fa593f08a3d4d59ddafeac7]
+(2)[^c8553841] The limits imposed by subsection (3) of section 22 of the *(affected by repeal, see note)*[^c-2b8517853fa593f08a3d4d59ddafeac7] [^c8553851]Agricultural Marketing Act 1958 on the sums which may be paid put of money provided by Parliiament into the Marketing Funds mentioned in the preceding subsection are hereby abolished; and accordingly for paragraphs (a) and (b) of the said subsection (3) (which provide that sums payable out of money so provided into each of those funds shall not in the aggregate exceed the difference between £500,000 in the case of the English Fund and £125,000 in the case of the Scottish fund and the sums paid into the fund in question under section 11(2) of the *(affected by repeal, see note)*[^c-2b8517853fa593f08a3d4d59ddafeac7] [^c8553861]Agricultural Marketing Act 1931) there shall be substituted the words “into the English fund and the Scottish fund repectively such sums”. *(affected by repeal, see note)*[^c-2b8517853fa593f08a3d4d59ddafeac7]
 
-(3) Section 23 of the *(affected by repeal, see note)*[^key-2b8517853fa593f08a3d4d59ddafeac7] [^c8553871]Agricultural Marketing Act 1958 (which provides for the appointment of Agricultural Marketing Facilities Committees for England and Wales, for Scotland and for Great Britain) shall cease to have effect; and accordingly— *(affected by repeal, see note)*[^key-2b8517853fa593f08a3d4d59ddafeac7]
+(3) Section 23 of the *(affected by repeal, see note)*[^c-2b8517853fa593f08a3d4d59ddafeac7] [^c8553871]Agricultural Marketing Act 1958 (which provides for the appointment of Agricultural Marketing Facilities Committees for England and Wales, for Scotland and for Great Britain) shall cease to have effect; and accordingly— *(affected by repeal, see note)*[^c-2b8517853fa593f08a3d4d59ddafeac7]
 
-- (a)[^key-99ed622fedb4dd76052f1ccf0f79b5ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^c8553841] in section 24(4) of that Act for the words from “renewal is recommended” to “they are” there shall be substituted the words “Minister is” and in section 53(5) of that Act after the words “consumers’ committees” there shall be inserted the word “and” ; *(affected by repeal, see note)*[^key-2b8517853fa593f08a3d4d59ddafeac7] [^key-ab57c9db708149e38b57a7a10acf8110]...
-- (c)[^key-ab57c9db708149e38b57a7a10acf8110][^c8553841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-99ed622fedb4dd76052f1ccf0f79b5ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c8553841] in section 24(4) of that Act for the words from “renewal is recommended” to “they are” there shall be substituted the words “Minister is” and in section 53(5) of that Act after the words “consumers’ committees” there shall be inserted the word “and” ; *(affected by repeal, see note)*[^c-2b8517853fa593f08a3d4d59ddafeac7] [^c-ab57c9db708149e38b57a7a10acf8110]...
+- (c)[^c-ab57c9db708149e38b57a7a10acf8110][^c8553841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c8553901]
 
 *Extent: E+W*
 
-## 14. Increase of fines.[^key-e77e6feb9741de488692f79c7b5a3c7b]
+## 14. Increase of fines.[^c-e77e6feb9741de488692f79c7b5a3c7b]
 
 *Extent: E+W+S*
 
@@ -173,20 +173,20 @@ Provided that nothing in this subsection shall be construed as conferring author
 
 *Extent: E+W*
 
-## 16. Levies on processers and dealers in home-grown cereals.[^key-75fc21aca9a76b7c01624631dd88f988]
+## 16. Levies on processers and dealers in home-grown cereals.[^c-75fc21aca9a76b7c01624631dd88f988]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Abolition of requirements that dealings and returns relating to corn must be in hundred-weights. (affected by repeal, see note)[^key-a681c563ef0438ae6c496a5d851ef5aa][^key-a681c563ef0438ae6c496a5d851ef5aa]
+## 17. Abolition of requirements that dealings and returns relating to corn must be in hundred-weights. (affected by repeal, see note)[^c-a681c563ef0438ae6c496a5d851ef5aa][^c-a681c563ef0438ae6c496a5d851ef5aa]
 
-(1)[^key-09ff1439f396431d5bff7c4e13bbfee4][^c8553981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-09ff1439f396431d5bff7c4e13bbfee4][^c8553981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^c8554001] The Minister may as respects England and Wales, and the Secretary of State may as respects Scotland, provide by order made by statutory instrument that sections 8 and 9(6) of the *(affected by repeal, see note)*[^key-a681c563ef0438ae6c496a5d851ef5aa] [^c8554011]Corn Returns Act 1882 (which respectively require that computations of corn in returns under that Act shall be in hundredweights and that the annual and septennial average price published in pursuance of that Act shall be for a hundredweight of corn) shall have effect as if for any reference to the hundredweight of one hundred and twelve imperial standard pounds there were substituted a reference to another weight prescribed by the order; and an order under this subsection may— *(affected by repeal, see note)*[^key-a681c563ef0438ae6c496a5d851ef5aa]
+(2)[^c8554001] The Minister may as respects England and Wales, and the Secretary of State may as respects Scotland, provide by order made by statutory instrument that sections 8 and 9(6) of the *(affected by repeal, see note)*[^c-a681c563ef0438ae6c496a5d851ef5aa] [^c8554011]Corn Returns Act 1882 (which respectively require that computations of corn in returns under that Act shall be in hundredweights and that the annual and septennial average price published in pursuance of that Act shall be for a hundredweight of corn) shall have effect as if for any reference to the hundredweight of one hundred and twelve imperial standard pounds there were substituted a reference to another weight prescribed by the order; and an order under this subsection may— *(affected by repeal, see note)*[^c-a681c563ef0438ae6c496a5d851ef5aa]
 
-- (a) make such modifications of section 9(4) and (5) of that Act as the authority making the order considers are appropriate in consequence of any other provision made by the order or by another order under this subsection; *(affected by repeal, see note)*[^key-a681c563ef0438ae6c496a5d851ef5aa]
-- (b) be varied or revoked by a subsequent order under this subsection. *(affected by repeal, see note)*[^key-a681c563ef0438ae6c496a5d851ef5aa]
+- (a) make such modifications of section 9(4) and (5) of that Act as the authority making the order considers are appropriate in consequence of any other provision made by the order or by another order under this subsection; *(affected by repeal, see note)*[^c-a681c563ef0438ae6c496a5d851ef5aa]
+- (b) be varied or revoked by a subsequent order under this subsection. *(affected by repeal, see note)*[^c-a681c563ef0438ae6c496a5d851ef5aa]
 
-## 18. Power to obtain agricultural statistics by means of notices.[^key-cc9b8c8b801d80b122ea0479aae6aafe]
+## 18. Power to obtain agricultural statistics by means of notices.[^c-cc9b8c8b801d80b122ea0479aae6aafe]
 
 *Extent: E+W+S*
 
@@ -225,7 +225,7 @@ For the purposes of this subsection Monmouthshire shall be treated as part of Wa
 
 It is hereby declared that an order made or having effect under the [^c8554111]Plant Health Act 1967 may contain provisions for requiring a person to pay to a competent authority or local authority for the purposes of that Act the cost to the authority of doing anything which that person has, in breach of a requirement imposed on him by or under the order, failed to do.
 
-## 21. Abolition of agricultural executive committees etc.[^key-fafeee072b9a5f90c1d29124c36a8dba]
+## 21. Abolition of agricultural executive committees etc.[^c-fafeee072b9a5f90c1d29124c36a8dba]
 
 *Extent: E+W+S*
 
@@ -249,13 +249,13 @@ The agricultural wages committees constituted under section 2 of the [^c8554151]
 - (b) the power to manage, maintain and improve the land and to erect and maintain buildings and other structures on the land for the purpose of providing office or other accommodation in connection with the exercise of any of his powers relating to the land;
 - (c) the power to make such charges as he thinks fit for admission to the land and in connection with any of the activities mentioned in paragraph (a) of this subsection.
 
-(3) This section shall not apply to land in respect of which byelaws may be made under [^key-70942060319d5ab628105354cb16d54f]... section 60 of the [^c8554191]Countryside (Scotland) Act 1967.
+(3) This section shall not apply to land in respect of which byelaws may be made under [^c-70942060319d5ab628105354cb16d54f]... section 60 of the [^c8554191]Countryside (Scotland) Act 1967.
 
-## 24. Recovery of possession of redundant farmhouses. (affected by repeal, see note)[^key-8ebc8a9935675c7210e863d59a5e0982][^key-8ebc8a9935675c7210e863d59a5e0982]
+## 24. Recovery of possession of redundant farmhouses. (affected by repeal, see note)[^c-8ebc8a9935675c7210e863d59a5e0982][^c-8ebc8a9935675c7210e863d59a5e0982]
 
 *Extent: E+W+S*
 
-Paragraph (f) of Case 14 in Schedule 3 to the[^c8554201] *(affected by repeal, see note)*[^key-8ebc8a9935675c7210e863d59a5e0982] [^c8554211]Rent Act 1968 and *(affected by repeal, see note)*[^key-8ebc8a9935675c7210e863d59a5e0982] paragraph (f) of Case 15 in Schedule 3 to the *(affected by repeal, see note)*[^key-8ebc8a9935675c7210e863d59a5e0982] [^c8554221]Rent (Scotland) Act 1971 (under which the right conferred by *(affected by repeal, see note)*[^key-8ebc8a9935675c7210e863d59a5e0982] those Cases[^c8554231] *(affected by repeal, see note)*[^key-8ebc8a9935675c7210e863d59a5e0982] that case *(affected by repeal, see note)*[^key-8ebc8a9935675c7210e863d59a5e0982] to recover possession of a dwelling-house is available only if proceedings are commenced within the appropriate time limit specified in those paragraphs) shall cease to have effect except where the relevant date for the purposes of the said *(affected by repeal, see note)*[^key-8ebc8a9935675c7210e863d59a5e0982] Case 14 or, as the case may be *(affected by repeal, see note)*[^key-8ebc8a9935675c7210e863d59a5e0982], Case 15 was before the passing of this Act. *(affected by repeal, see note)*[^key-8ebc8a9935675c7210e863d59a5e0982]
+Paragraph (f) of Case 14 in Schedule 3 to the[^c8554201] *(affected by repeal, see note)*[^c-8ebc8a9935675c7210e863d59a5e0982] [^c8554211]Rent Act 1968 and *(affected by repeal, see note)*[^c-8ebc8a9935675c7210e863d59a5e0982] paragraph (f) of Case 15 in Schedule 3 to the *(affected by repeal, see note)*[^c-8ebc8a9935675c7210e863d59a5e0982] [^c8554221]Rent (Scotland) Act 1971 (under which the right conferred by *(affected by repeal, see note)*[^c-8ebc8a9935675c7210e863d59a5e0982] those Cases[^c8554231] *(affected by repeal, see note)*[^c-8ebc8a9935675c7210e863d59a5e0982] that case *(affected by repeal, see note)*[^c-8ebc8a9935675c7210e863d59a5e0982] to recover possession of a dwelling-house is available only if proceedings are commenced within the appropriate time limit specified in those paragraphs) shall cease to have effect except where the relevant date for the purposes of the said *(affected by repeal, see note)*[^c-8ebc8a9935675c7210e863d59a5e0982] Case 14 or, as the case may be *(affected by repeal, see note)*[^c-8ebc8a9935675c7210e863d59a5e0982], Case 15 was before the passing of this Act. *(affected by repeal, see note)*[^c-8ebc8a9935675c7210e863d59a5e0982]
 
 ## 25. Expenses and receipts.
 
@@ -282,11 +282,11 @@ and any sums received by any Minister by virtue of this Act shall be paid into t
 
 (1) This Act may be cited as the Agriculture (Miscellaneous Provisions) Act 1972.
 
-(2)[^key-f1cb2012d0b984b72601ed93b381cdfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f1cb2012d0b984b72601ed93b381cdfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ec7bef83af37219c3156aac465731224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ec7bef83af37219c3156aac465731224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Sections . . . [^c8554331], [^key-e7720189d7cbdfbab2db0cb3e5a6d45f]... 22 and 23 of, and Schedules [^key-e7720189d7cbdfbab2db0cb3e5a6d45f]... 5 to, this Act extend to Scotland only.
+(4) Sections . . . [^c8554331], [^c-e7720189d7cbdfbab2db0cb3e5a6d45f]... 22 and 23 of, and Schedules [^c-e7720189d7cbdfbab2db0cb3e5a6d45f]... 5 to, this Act extend to Scotland only.
 
 (5) Except for the following provisions, that is to say—
 
@@ -356,17 +356,17 @@ Section 2 shall cease to have effect.
 
 In section 3, in subsection (1), the words from “for each” to “Act” shall cease to have effect.
 
-[^key-530d372da5e5ab5e99ccf4455c1f3d7e]...
+[^c-530d372da5e5ab5e99ccf4455c1f3d7e]...
 
-[^key-530d372da5e5ab5e99ccf4455c1f3d7e]...
+[^c-530d372da5e5ab5e99ccf4455c1f3d7e]...
 
-[^key-530d372da5e5ab5e99ccf4455c1f3d7e]...
+[^c-530d372da5e5ab5e99ccf4455c1f3d7e]...
 
-[^key-530d372da5e5ab5e99ccf4455c1f3d7e]...
+[^c-530d372da5e5ab5e99ccf4455c1f3d7e]...
 
-[^key-530d372da5e5ab5e99ccf4455c1f3d7e]...
+[^c-530d372da5e5ab5e99ccf4455c1f3d7e]...
 
-[^key-530d372da5e5ab5e99ccf4455c1f3d7e]...
+[^c-530d372da5e5ab5e99ccf4455c1f3d7e]...
 
 In section 6, subsections (1) to (4) shall cease to have effect.
 
@@ -500,11 +500,11 @@ Section 26(3) and (4).
 
 [^c8553581]: Marginal citation: [1963 c. 11](https://www.legislation.gov.uk/ukpga/1963/11).
 
-[^key-ff866137b8931a90cb1e3bde0a1d8f9e]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1972/62/section/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-ff866137b8931a90cb1e3bde0a1d8f9e]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1972/62/section/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c8553641]: Textual amendment: S. 8(1)—(4) repealed by [Animal Health and Welfare Act 1984 (c. 40, SIF 2:8)](https://www.legislation.gov.uk/ukpga/1984/40), [s. 16](https://www.legislation.gov.uk/ukpga/1984/40/section/16), [Sch. 2](https://www.legislation.gov.uk/ukpga/1984/40/schedule/2)
 
-[^key-3c7dc8ae812a7a2c6ab5e2c2408e0f43]: Textual amendment: [S. 8(5)](https://www.legislation.gov.uk/ukpga/1972/62/section/8/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-3c7dc8ae812a7a2c6ab5e2c2408e0f43]: Textual amendment: [S. 8(5)](https://www.legislation.gov.uk/ukpga/1972/62/section/8/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c8553651]: Modification: The text of ss. 3, 8(5), 9(4)(6)(7), 10(5), 11, 12(2),(3) (*b*)(*c*), 17(1), Sch. 5, Sch. 6 (in part) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -512,7 +512,7 @@ Section 26(3) and (4).
 
 [^c8553681]: Marginal citation: [1967 c. 22](https://www.legislation.gov.uk/ukpga/1967/22).
 
-[^key-5f5a8a4545df19ac3236dc3c0ce608da]: Textual amendment: S. 9(2)-(5) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-5f5a8a4545df19ac3236dc3c0ce608da]: Textual amendment: S. 9(2)-(5) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c8553691]: Textual amendment: [Ss. 9(2)(3)(5)(8)](https://www.legislation.gov.uk/ukpga/1972/62/section/9/2/3/5/8), [10(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1972/62/section/10/1/2/4) repealed (N.I.) by [S.I. 1987/166 (N.I. 1)](https://www.legislation.gov.uk/nisi/1987/166), [art. 20](https://www.legislation.gov.uk/nisi/1987/166/article/20), [Sch.](https://www.legislation.gov.uk/nisi/1987/166/schedule)
 
@@ -524,7 +524,7 @@ Section 26(3) and (4).
 
 [^c8553771]: Textual amendment: Words repealed (N.I.) by [S.I. 1987/166 (N.I. 1)](https://www.legislation.gov.uk/nisi/1987/166), [art. 20](https://www.legislation.gov.uk/nisi/1987/166/article/20), [Sch.](https://www.legislation.gov.uk/nisi/1987/166/schedule)
 
-[^key-d593502cc87465a5cec2a4150df0ed90]: Textual amendment: S. 10 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-d593502cc87465a5cec2a4150df0ed90]: Textual amendment: S. 10 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c8553781]: Textual amendment: [Ss. 9(2)(3)(5)(8)](https://www.legislation.gov.uk/ukpga/1972/62/section/9/2/3/5/8), [10(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1972/62/section/10/1/2/4) repealed (N.I.) by [S.I. 1987/166 (N.I. 1)](https://www.legislation.gov.uk/nisi/1987/166), [art. 20](https://www.legislation.gov.uk/nisi/1987/166/article/20), [Sch.](https://www.legislation.gov.uk/nisi/1987/166/schedule)
 
@@ -532,11 +532,11 @@ Section 26(3) and (4).
 
 [^c8553811]: Modification: The text of ss. 3, 8(5), 9(4)(6)(7), 10(5), 11, 12(2),(3) (*b*)(*c*), 17(1), Sch. 5, Sch. 6 (in part) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-e77227162a6a83e0f0bfe49ff1c44eec]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1972/62/section/11) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-e77227162a6a83e0f0bfe49ff1c44eec]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1972/62/section/11) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c8553821]: Modification: The text of ss. 3, 8(5), 9(4)(6)(7), 10(5), 11, 12(2),(3) (*b*)(*c*), 17(1), Sch. 5, Sch. 6 (in part) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-2b8517853fa593f08a3d4d59ddafeac7]: Textual amendment: S. 12 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-2b8517853fa593f08a3d4d59ddafeac7]: Textual amendment: S. 12 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c8553841]: Modification: The text of ss. 3, 8(5), 9(4)(6)(7), 10(5), 11, 12(2),(3) (*b*)(*c*), 17(1), Sch. 5, Sch. 6 (in part) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -546,21 +546,21 @@ Section 26(3) and (4).
 
 [^c8553871]: Marginal citation: [1958 c. 47](https://www.legislation.gov.uk/ukpga/1958/47).
 
-[^key-99ed622fedb4dd76052f1ccf0f79b5ae]: Textual amendment: [S. 12(3)(a)](https://www.legislation.gov.uk/ukpga/1972/62/section/12/3/a) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-99ed622fedb4dd76052f1ccf0f79b5ae]: Textual amendment: [S. 12(3)(a)](https://www.legislation.gov.uk/ukpga/1972/62/section/12/3/a) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
-[^key-ab57c9db708149e38b57a7a10acf8110]: Textual amendment: [S. 12(3)(c)](https://www.legislation.gov.uk/ukpga/1972/62/section/12/3/c) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-ab57c9db708149e38b57a7a10acf8110]: Textual amendment: [S. 12(3)(c)](https://www.legislation.gov.uk/ukpga/1972/62/section/12/3/c) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c8553901]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1972/62/section/13) repealed by [Agriculture (Miscellaneous Provisions) Act 1976 (c. 55, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1976/55), [s. 26](https://www.legislation.gov.uk/ukpga/1976/55/section/26), [Sch. 4 Pt. II](https://www.legislation.gov.uk/ukpga/1976/55/schedule/4/part/II)
 
-[^key-e77e6feb9741de488692f79c7b5a3c7b]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1972/62/section/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-e77e6feb9741de488692f79c7b5a3c7b]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1972/62/section/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c8553931]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/1972/62/section/15) repealed by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [ss. 99](https://www.legislation.gov.uk/ukpga/1986/5/section/99), [101](https://www.legislation.gov.uk/ukpga/1986/5/section/101), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1986/5/schedule/13/paragraph/3), [Sch. 15 Pt. I](https://www.legislation.gov.uk/ukpga/1986/5/schedule/15/part/I)
 
-[^key-75fc21aca9a76b7c01624631dd88f988]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1972/62/section/16) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-75fc21aca9a76b7c01624631dd88f988]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1972/62/section/16) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
-[^key-a681c563ef0438ae6c496a5d851ef5aa]: Textual amendment: S. 17 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-a681c563ef0438ae6c496a5d851ef5aa]: Textual amendment: S. 17 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
-[^key-09ff1439f396431d5bff7c4e13bbfee4]: Textual amendment: [S. 17(1)](https://www.legislation.gov.uk/ukpga/1972/62/section/17/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-09ff1439f396431d5bff7c4e13bbfee4]: Textual amendment: [S. 17(1)](https://www.legislation.gov.uk/ukpga/1972/62/section/17/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c8553981]: Modification: The text of ss. 3, 8(5), 9(4)(6)(7), 10(5), 11, 12(2),(3) (*b*)(*c*), 17(1), Sch. 5, Sch. 6 (in part) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -570,7 +570,7 @@ Section 26(3) and (4).
 
 [^c8554011]: Marginal citation: [1882 c. 37](https://www.legislation.gov.uk/ukpga/1882/37).
 
-[^key-cc9b8c8b801d80b122ea0479aae6aafe]: Textual amendment: S. 18 repealed (E.W.) by [Agricultural Statistics Act 1979 (c. 13, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1979/13), [s. 7](https://www.legislation.gov.uk/ukpga/1979/13/section/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/1979/13/schedule/2) and repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-cc9b8c8b801d80b122ea0479aae6aafe]: Textual amendment: S. 18 repealed (E.W.) by [Agricultural Statistics Act 1979 (c. 13, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1979/13), [s. 7](https://www.legislation.gov.uk/ukpga/1979/13/section/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/1979/13/schedule/2) and repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c8554041]: Modification: [S. 19](https://www.legislation.gov.uk/ukpga/1972/62/section/19): certain functions of Minister of Agriculture, Fisheries and Food transferred by [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272), [art. 2](https://www.legislation.gov.uk/uksi/1978/272/article/2)
 
@@ -588,7 +588,7 @@ Section 26(3) and (4).
 
 [^c8554111]: Marginal citation: [1967 c. 8](https://www.legislation.gov.uk/ukpga/1967/8).
 
-[^key-fafeee072b9a5f90c1d29124c36a8dba]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/1972/62/section/21) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-fafeee072b9a5f90c1d29124c36a8dba]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/1972/62/section/21) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c8554151]: Marginal citation: [1949 c. 30](https://www.legislation.gov.uk/ukpga/1949/30).
 
@@ -596,11 +596,11 @@ Section 26(3) and (4).
 
 [^c8554171]: Marginal citation: [1926 c. 36](https://www.legislation.gov.uk/ukpga/1926/36).
 
-[^key-70942060319d5ab628105354cb16d54f]: Textual amendment: Words in s. 23(3) repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-70942060319d5ab628105354cb16d54f]: Textual amendment: Words in s. 23(3) repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
 [^c8554191]: Marginal citation: [1967 c. 86](https://www.legislation.gov.uk/ukpga/1967/86).
 
-[^key-8ebc8a9935675c7210e863d59a5e0982]: Textual amendment: S. 24 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-8ebc8a9935675c7210e863d59a5e0982]: Textual amendment: S. 24 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c8554201]: Textual amendment: Words repealed (E.W.) by [Rent Act 1977 (c. 42, SIF 75:3)](https://www.legislation.gov.uk/ukpga/1977/42), [s. 156](https://www.legislation.gov.uk/ukpga/1977/42/section/156), [Sch. 25](https://www.legislation.gov.uk/ukpga/1977/42/schedule/25) (subject to the savings and transitional provisions in [Sch. 24](https://www.legislation.gov.uk/ukpga/1977/42/schedule/24))
 
@@ -614,13 +614,13 @@ Section 26(3) and (4).
 
 [^c8554271]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40).
 
-[^key-f1cb2012d0b984b72601ed93b381cdfd]: Textual amendment: [S. 27(2)](https://www.legislation.gov.uk/ukpga/1972/62/section/27/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-f1cb2012d0b984b72601ed93b381cdfd]: Textual amendment: [S. 27(2)](https://www.legislation.gov.uk/ukpga/1972/62/section/27/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
-[^key-ec7bef83af37219c3156aac465731224]: Textual amendment: [S. 27(3)](https://www.legislation.gov.uk/ukpga/1972/62/section/27/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-ec7bef83af37219c3156aac465731224]: Textual amendment: [S. 27(3)](https://www.legislation.gov.uk/ukpga/1972/62/section/27/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c8554331]: Textual amendment: Number repealed by [Slaughterhouses Act 1974 (c. 3, SIF 112)](https://www.legislation.gov.uk/ukpga/1974/3), [s. 47(2)](https://www.legislation.gov.uk/ukpga/1974/3/section/47/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/1974/3/schedule/6)
 
-[^key-e7720189d7cbdfbab2db0cb3e5a6d45f]: Textual amendment: Words in [s. 27(4)](https://www.legislation.gov.uk/ukpga/1972/62/section/27/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-e7720189d7cbdfbab2db0cb3e5a6d45f]: Textual amendment: Words in [s. 27(4)](https://www.legislation.gov.uk/ukpga/1972/62/section/27/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c8554341]: Marginal citation: [1921 c. 35](https://www.legislation.gov.uk/ukpga/1921/35).
 
@@ -656,7 +656,7 @@ Section 26(3) and (4).
 
 [^c8554501]: Marginal citation: [1949 c. 30](https://www.legislation.gov.uk/ukpga/1949/30).
 
-[^key-530d372da5e5ab5e99ccf4455c1f3d7e]: Textual amendment: Words in Sch. 5 repealed (1.10.2004) by [Agricultural Wages (Permits to Infirm and Incapacitated Persons) (Repeals) (Scotland) Regulations 2004 (S.S.I. 2004/384)](https://www.legislation.gov.uk/ssi/2004/384), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/384/regulation/1/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/384/schedule)
+[^c-530d372da5e5ab5e99ccf4455c1f3d7e]: Textual amendment: Words in Sch. 5 repealed (1.10.2004) by [Agricultural Wages (Permits to Infirm and Incapacitated Persons) (Repeals) (Scotland) Regulations 2004 (S.S.I. 2004/384)](https://www.legislation.gov.uk/ssi/2004/384), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/384/regulation/1/1), [Sch.](https://www.legislation.gov.uk/ssi/2004/384/schedule)
 
 [^c8554511]: Marginal citation: [1968 c. 34](https://www.legislation.gov.uk/ukpga/1968/34).
 

@@ -41,13 +41,13 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment, in exercise of the powers conferred by Article 13(1) of the Weights and Measures (Northern Ireland) Order 1981[^f00001] and now vested in it[^f00002] and of every other power enabling it in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation, commencement and revocation[^key-93e4b74afb5fa4c39e74f39b4459e5f5]
+## 1. Citation, commencement and revocation[^c-93e4b74afb5fa4c39e74f39b4459e5f5]
 
 (1) These Regulations may be cited as the Non-automatic Weighing Instruments (Use for Trade) Regulations (Northern Ireland) 2001 and shall come into operation on 15th June 2001.
 
 (2) The Regulations set out in the Schedule are hereby revoked to the extent shown in column 3 thereof.
 
-## 2. Interpretation[^key-0de3129bdae03bb9ebcbd4cdc388bdad]
+## 2. Interpretation[^c-0de3129bdae03bb9ebcbd4cdc388bdad]
 
 (1) In these Regulations—
 
@@ -68,11 +68,11 @@ The Department of Enterprise, Trade and Investment, in exercise of the powers co
 
 (2) In these Regulations, references to instruments of a numbered Class shall be construed in accordance with paragraph 2 of Annex 1 of the Directive which is set out in Schedule 2 to the 2000 Regulations.
 
-## 3. Application[^key-5873823ddf9cba99d5ee338953470f35]
+## 3. Application[^c-5873823ddf9cba99d5ee338953470f35]
 
 These Regulations apply to any instrument, in use for trade, to which regulation 3 of the 2000 Regulations[^f00006] applies.
 
-## 4. Restrictions on use of instruments for trade[^key-26734b378420ad55839f23bf28b6522b]
+## 4. Restrictions on use of instruments for trade[^c-26734b378420ad55839f23bf28b6522b]
 
 (1) Save in accordance with paragraph (2), a person shall not use for trade an instrument marked with a weighing range for determining a weight outside that range in relation—
 
@@ -99,23 +99,23 @@ These Regulations apply to any instrument, in use for trade, to which regulation
 
 (7) For the purposes of this regulation, the terms “commercial waste”, “household waste” and “industrial waste” shall be construed in accordance with paragraph (2) of Article 2 of the Waste and Contaminated Land (Northern Ireland) Order 1997[^f00008], provided that “waste” shall include any waste disposed of for reprocessing or recycling purposes, but shall not include any radioactive waste as defined in section 2 of the Radioactive Substances Act 1993[^f00009].
 
-## 5. Manner of erection of instruments[^key-ba3cab0609909f62901decf85a854898]
+## 5. Manner of erection of instruments[^c-ba3cab0609909f62901decf85a854898]
 
 Where an instrument is fitted with one or more level-indicating devices, a person shall not use the instrument for trade unless each such device indicates that it has been set to its reference position.
 
-## 6. Instruments marked with temperature range[^key-20ad373791a86a9edeef253cba87decd]
+## 6. Instruments marked with temperature range[^c-20ad373791a86a9edeef253cba87decd]
 
 Where an instrument is marked with a temperature range, a person shall not use the instrument for trade at temperatures outside that range.
 
-## 7. Instruments marked with manner of use[^key-2a29fa0bcdb7c516c3d51c10586e447f]
+## 7. Instruments marked with manner of use[^c-2a29fa0bcdb7c516c3d51c10586e447f]
 
 Where an instrument is marked with the manner of use, a person shall not use the instrument for trade in a manner which does not accord with the marking.
 
-## 8. Instruments fitted with printing devices[^key-43bea5d192f59b90dfa0321db1d6b1d0]
+## 8. Instruments fitted with printing devices[^c-43bea5d192f59b90dfa0321db1d6b1d0]
 
 Where an instrument is fitted with a weight or any other printing device, a person shall not use the instrument for trade unless it is so erected and used that the printing device, when used, produces a legible and durable printout.
 
-## 9. Load receptors[^key-0e35979b8ca9d47eb9ce7f88286f3c96]
+## 9. Load receptors[^c-0e35979b8ca9d47eb9ce7f88286f3c96]
 
 (1) A person shall not use any instrument for trade unless it is erected and used in such a manner that, during a weighing operation, the load being weighed is stationary relative to the load receptor and supported only by the load receptor.
 
@@ -126,7 +126,7 @@ Where an instrument is fitted with a weight or any other printing device, a pers
   - (ii) where the load receptor is less than 10 millimetres above any adjacent surface, the boundary of the top surface of all adjacent surfaces is durably marked in a distinctive and contrasting manner with a band at least 15 millimetres in width; or
 - (b) if the load receptor is below the level of any adjacent surface.
 
-## 10. Operation of instrument[^key-22e7099459aa6f077ddcac925531c449]
+## 10. Operation of instrument[^c-22e7099459aa6f077ddcac925531c449]
 
 Except as specified in the EC type-approval certificate, a person shall not use an instrument for trade unless it is erected in such a manner that the operator can, notwithstanding the nature of the instrument or its surroundings, readily take up a single position from which he can—
 
@@ -134,7 +134,7 @@ Except as specified in the EC type-approval certificate, a person shall not use 
 - (b) operate the instrument’s controls; and
 - (c) obtain a weight reading from the instrument.
 
-## 11. Weights marked with EEC initial verification marks to be used[^key-45c9c3fd5064a33860013b8d41ab1200]
+## 11. Weights marked with EEC initial verification marks to be used[^c-45c9c3fd5064a33860013b8d41ab1200]
 
 (1) Subject to paragraph (2), a person shall not use for trade a Class I or Class II instrument which is used in association with any weight or weights to determine the value of any load in terms of metric units of mass other than carat (metric) units, save in association with weights which bear the mark of EEC initial verification in accordance with—
 
@@ -145,11 +145,11 @@ Except as specified in the EC type-approval certificate, a person shall not use 
 
 (2) The requirements of this regulation shall not apply to any instrument for use for trade in any transaction in drugs or other pharmaceutical products before 1st January 2003.
 
-## 12. Instruments using decimal parts of a pound[^key-f6ce2479e3b9586b553419c168d81d0b]
+## 12. Instruments using decimal parts of a pound[^c-f6ce2479e3b9586b553419c168d81d0b]
 
 A person shall not use for trade an instrument having weight scale intervals expressed in decimal parts of a pound, save by way only of a supplementary indication of the weight of the goods.
 
-## 13. Instruments to be balanced or to be set to zero before use[^key-c50209aa4ee0c6b5aa9096ed22f26a82]
+## 13. Instruments to be balanced or to be set to zero before use[^c-c50209aa4ee0c6b5aa9096ed22f26a82]
 
 (1) Subject to paragraph (2), a person shall not use an instrument for trade unless it is properly balanced or set to zero immediately prior to use.
 
@@ -163,7 +163,7 @@ A senior officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE[^key-e17b64f468f836667cbc5cd6a9585332]
+## SCHEDULE[^c-e17b64f468f836667cbc5cd6a9585332]
 
 Regulation 1(2)
 
@@ -186,9 +186,9 @@ The Regulations have been notified to the European Commission in draft pursuant 
 
 [^f00002]: Footnote: By [S.I. 1982/846 N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846) Art. 4; *see* also [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) Art. 3(5)
 
-[^key-93e4b74afb5fa4c39e74f39b4459e5f5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/202/regulation/1) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-93e4b74afb5fa4c39e74f39b4459e5f5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/202/regulation/1) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
-[^key-0de3129bdae03bb9ebcbd4cdc388bdad]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/202/regulation/2) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-0de3129bdae03bb9ebcbd4cdc388bdad]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/202/regulation/2) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2000/3236](https://www.legislation.gov.uk/uksi/2000/3236)
 
@@ -196,11 +196,11 @@ The Regulations have been notified to the European Commission in draft pursuant 
 
 [^f00005]: Footnote: O.J. No. L220, 30.8.93, p. 1
 
-[^key-5873823ddf9cba99d5ee338953470f35]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/202/regulation/3) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-5873823ddf9cba99d5ee338953470f35]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/202/regulation/3) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
 [^f00006]: Footnote: As modified by regulation 43 of, and Part I of Schedule 5 to, the 2000 Regulations
 
-[^key-26734b378420ad55839f23bf28b6522b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/202/regulation/4) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-26734b378420ad55839f23bf28b6522b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/202/regulation/4) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
 [^f00007]: Footnote: [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8)
 
@@ -208,26 +208,26 @@ The Regulations have been notified to the European Commission in draft pursuant 
 
 [^f00009]: Footnote: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12)
 
-[^key-ba3cab0609909f62901decf85a854898]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/202/regulation/5) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-ba3cab0609909f62901decf85a854898]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/202/regulation/5) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
-[^key-20ad373791a86a9edeef253cba87decd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/202/regulation/6) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-20ad373791a86a9edeef253cba87decd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/202/regulation/6) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
-[^key-2a29fa0bcdb7c516c3d51c10586e447f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2001/202/regulation/7) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-2a29fa0bcdb7c516c3d51c10586e447f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2001/202/regulation/7) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
-[^key-43bea5d192f59b90dfa0321db1d6b1d0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/202/regulation/8) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-43bea5d192f59b90dfa0321db1d6b1d0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/202/regulation/8) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
-[^key-0e35979b8ca9d47eb9ce7f88286f3c96]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2001/202/regulation/9) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-0e35979b8ca9d47eb9ce7f88286f3c96]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2001/202/regulation/9) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
-[^key-22e7099459aa6f077ddcac925531c449]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2001/202/regulation/10) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-22e7099459aa6f077ddcac925531c449]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2001/202/regulation/10) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
-[^key-45c9c3fd5064a33860013b8d41ab1200]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2001/202/regulation/11) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-45c9c3fd5064a33860013b8d41ab1200]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2001/202/regulation/11) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
 [^f00010]: Footnote: O.J. No. L84, 28.3.1974, p. 3
 
 [^f00011]: Footnote: [S.I. 1988/186](https://www.legislation.gov.uk/uksi/1988/186) as amended by [S.I. 1988/1128](https://www.legislation.gov.uk/uksi/1988/1128)
 
-[^key-f6ce2479e3b9586b553419c168d81d0b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2001/202/regulation/12) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-f6ce2479e3b9586b553419c168d81d0b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2001/202/regulation/12) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
-[^key-c50209aa4ee0c6b5aa9096ed22f26a82]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2001/202/regulation/13) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-c50209aa4ee0c6b5aa9096ed22f26a82]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2001/202/regulation/13) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
 
-[^key-e17b64f468f836667cbc5cd6a9585332]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2001/202/schedule) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)
+[^c-e17b64f468f836667cbc5cd6a9585332]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2001/202/schedule) in operation at 15.6.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/202/regulation/1/1)

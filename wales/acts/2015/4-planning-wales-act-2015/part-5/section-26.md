@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Developments of national significance and applications made to Welsh Ministers: exercise of functions by appointed person[^c22542821][^key-a7cd2abbc7c6e3cc39044224110fb942]
+## 26. Developments of national significance and applications made to Welsh Ministers: exercise of functions by appointed person[^c22542821][^c-a7cd2abbc7c6e3cc39044224110fb942]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c22542821]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2015/4/section/26) partly in force; [s. 26](https://www.legislation.gov.uk/anaw/2015/4/section/26) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-a7cd2abbc7c6e3cc39044224110fb942]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2015/4/section/26) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(a)](https://www.legislation.gov.uk/wsi/2016/52/article/3/a)
+[^c-a7cd2abbc7c6e3cc39044224110fb942]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2015/4/section/26) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(a)](https://www.legislation.gov.uk/wsi/2016/52/article/3/a)

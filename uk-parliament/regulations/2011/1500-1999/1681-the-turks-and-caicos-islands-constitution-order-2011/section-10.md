@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Director of Public Prosecutions[^key-05de0d7d99bb98ef0eddf679c1b9bc9b]
+## 10. Director of Public Prosecutions[^c-05de0d7d99bb98ef0eddf679c1b9bc9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Until a person is appointed to the office of Director of Public Prosecutions in 
 
 ## Annotations
 
-[^key-05de0d7d99bb98ef0eddf679c1b9bc9b]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2011/1681/article/10) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
+[^c-05de0d7d99bb98ef0eddf679c1b9bc9b]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2011/1681/article/10) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)

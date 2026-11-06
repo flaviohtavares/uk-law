@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25A. Provision of information[^key-7b9b240543b1e41aa3ff0b050b29058d]
+## 25A. Provision of information[^c-7b9b240543b1e41aa3ff0b050b29058d]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b9b240543b1e41aa3ff0b050b29058d]: Textual amendment: S. 25A inserted (3.3.2014 for specified purposes, 1.5.2014 in so far as not already in force) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [Sch. para. 8(18)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/18); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-7b9b240543b1e41aa3ff0b050b29058d]: Textual amendment: S. 25A inserted (3.3.2014 for specified purposes, 1.5.2014 in so far as not already in force) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [Sch. para. 8(18)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/18); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)

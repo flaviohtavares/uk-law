@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Application by more than one crofting community body[^key-f8c17907b00cbb9376f35bdb2b199afb]
+## 67. Application by more than one crofting community body[^c-f8c17907b00cbb9376f35bdb2b199afb]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 76 of the 2003 Act (right to buy same croft land exercisable by only 
 
 ## Annotations
 
-[^key-f8c17907b00cbb9376f35bdb2b199afb]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2015/6/section/67) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-f8c17907b00cbb9376f35bdb2b199afb]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2015/6/section/67) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^c17080791][^c17080801] Subject to Article 36(3), *(affected by repeal, see note)*[^key-65aa813c7cce2dbf427a5e4043033574] any decision of the Department under Article 9 or 11 may be revised by the Department—
+(1)[^c17080791][^c17080801] Subject to Article 36(3), *(affected by repeal, see note)*[^c-65aa813c7cce2dbf427a5e4043033574] any decision of the Department under Article 9 or 11 may be revised by the Department—
 
 - (a) either within the prescribed period or in prescribed cases or circumstances; and
 - (b) either on an application made for the purpose or on the Department's own initiative,
@@ -45,4 +45,4 @@ and regulations may prescribe the procedure by which a decision of the Departmen
 
 [^c17080801]: Textual amendment: prosp. in pt. certain functions transf. by [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
 
-[^key-65aa813c7cce2dbf427a5e4043033574]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/10/1) repealed (28.11.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/7); [S.R. 2016/411](https://www.legislation.gov.uk/nisr/2016/411), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2016/411/article/2/3/c) (with [art. 4](https://www.legislation.gov.uk/nisr/2016/411/article/4))
+[^c-65aa813c7cce2dbf427a5e4043033574]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/10/1) repealed (28.11.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/7); [S.R. 2016/411](https://www.legislation.gov.uk/nisr/2016/411), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2016/411/article/2/3/c) (with [art. 4](https://www.legislation.gov.uk/nisr/2016/411/article/4))

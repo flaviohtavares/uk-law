@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57F. Validity and effect of penalties.[^c14105391][^c18937391][^key-929dc95eac7afac443ea4e095b07fde3][^key-50e1c136bd2640106035cd29bf3afb88]
+## 57F. Validity and effect of penalties.[^c14105391][^c18937391][^c-929dc95eac7afac443ea4e095b07fde3][^c-50e1c136bd2640106035cd29bf3afb88]
 
 *Extent: E+W+S*
 
@@ -54,8 +54,8 @@ he may make an application to the court under this section.
 
 [^c18937391]: Modification: S. 57F applied (with modifications) (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 15](https://www.legislation.gov.uk/uksi/2005/3050/regulation/15),{Sch. 3 para. 1(c)}
 
-[^key-929dc95eac7afac443ea4e095b07fde3]: Modification: Ss. 55-58 applied (25.6.2010) by [The Rail Passengers Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [reg. 17](https://www.legislation.gov.uk/uksi/2010/1504/regulation/17)
+[^c-929dc95eac7afac443ea4e095b07fde3]: Modification: Ss. 55-58 applied (25.6.2010) by [The Rail Passengers Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [reg. 17](https://www.legislation.gov.uk/uksi/2010/1504/regulation/17)
 
-[^key-50e1c136bd2640106035cd29bf3afb88]: Modification: S. 57F modified (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [38(3)](https://www.legislation.gov.uk/uksi/2016/645/regulation/38/3)[(4)](https://www.legislation.gov.uk/uksi/2016/645/regulation/38/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+[^c-50e1c136bd2640106035cd29bf3afb88]: Modification: S. 57F modified (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [38(3)](https://www.legislation.gov.uk/uksi/2016/645/regulation/38/3)[(4)](https://www.legislation.gov.uk/uksi/2016/645/regulation/38/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
 
 [^c18937361]: Textual amendment: Words in s. 57F(1) substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 54](https://www.legislation.gov.uk/ukpga/2005/14/section/54), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/8); S.I 2005/1909, {art. 1}, Sch.

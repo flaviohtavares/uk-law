@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Additional grounds for declining to determine application for planning permission[^key-015f51f7cceb5b4eabfe9c4dc59da55a][^key-d4d7c5a98920eaeef800d44cc6118b8e]
+## 15. Additional grounds for declining to determine application for planning permission[^c-015f51f7cceb5b4eabfe9c4dc59da55a][^c-d4d7c5a98920eaeef800d44cc6118b8e]
 
 *Extent: S*
 
@@ -62,6 +62,6 @@ Section 39 of the principal Act (power of planning authority to decline to deter
 
 ## Annotations
 
-[^key-015f51f7cceb5b4eabfe9c4dc59da55a]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2006/17/section/15) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-015f51f7cceb5b4eabfe9c4dc59da55a]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2006/17/section/15) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-d4d7c5a98920eaeef800d44cc6118b8e]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2006/17/section/15) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-d4d7c5a98920eaeef800d44cc6118b8e]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2006/17/section/15) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

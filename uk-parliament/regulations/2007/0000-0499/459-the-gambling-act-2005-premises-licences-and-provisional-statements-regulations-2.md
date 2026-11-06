@@ -54,7 +54,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 *Extent: E+W*
 
-### 1. Citation, commencement and application[^key-7d65fa2add3333a02a9c3ead1d69a5f0]
+### 1. Citation, commencement and application[^c-7d65fa2add3333a02a9c3ead1d69a5f0]
 
 (1) These Regulations may be cited as the Gambling Act 2005 (Premises Licences and Provisional Statements) Regulations 2007 and shall come into force on 21st May 2007.
 
@@ -65,7 +65,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) Paragraphs (2) to (4) of regulation 10, in so far as they relate to applications under section 204 for a provisional statement in respect of premises which the applicant expects to be constructed or altered, apply to applications made to licensing authorities in England and Wales and Scotland.
 
-### 2. Interpretation[^key-b0f2a4b829ff3b4fcfae14e1cfa0a77e]
+### 2. Interpretation[^c-b0f2a4b829ff3b4fcfae14e1cfa0a77e]
 
 (1) In these Regulations—
 
@@ -92,7 +92,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 2 — Form and content of applications
 
-### 3. Form and content of applications for a premises licence[^key-d8a477614977231ffc8b44b1d0d4e29c]
+### 3. Form and content of applications for a premises licence[^c-d8a477614977231ffc8b44b1d0d4e29c]
 
 *Extent: E+W*
 
@@ -107,7 +107,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) This regulation is subject to regulation 11.
 
-### 4. Plan to accompany applications for a premises licence[^key-8ef4a3d91bc998a52465560c59e7c714]
+### 4. Plan to accompany applications for a premises licence[^c-8ef4a3d91bc998a52465560c59e7c714]
 
 *Extent: E+W*
 
@@ -122,7 +122,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (e) the location of each point of entry to and exit from the premises, including in each case a description of the place from which entry is made or to which the exit leads; and
 - (f) any other matter required in accordance with the following provisions of this regulation.
 
-(3) Where the application is for a casino premises licence other than a converted casino premises licence[^key-a2e922892d258da44932037cd90761a2], the plan must show—
+(3) Where the application is for a casino premises licence other than a converted casino premises licence[^c-a2e922892d258da44932037cd90761a2], the plan must show—
 
 - (a) the principal entrance to the premises of those identified in accordance with paragraph (2)(e);
 - (b) the location and extent of any part of the premises which will be a table gaming area;
@@ -134,7 +134,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) the location and extent of any part of the premises to which children or young persons, or both, will have access;
 - (b) where any part of the premises referred to in sub-paragraph (a) is immediately adjacent to any part of the casino which will be used to provide facilities for gambling in reliance on the licence, the nature and location of any barrier or other thing separating the two parts of the casino.
 
-(4A)[^key-005801ee037835e257a933c00e784c43] Subject to paragraph (4B), where the application is for a converted casino premises licence, the plan must show—
+(4A)[^c-005801ee037835e257a933c00e784c43] Subject to paragraph (4B), where the application is for a converted casino premises licence, the plan must show—
 
 - (a) the principal entrance to the premises of those identified in accordance with paragraph (2)(e); and
 - (b) the location and extent of any part of the premises which will be used for providing facilities for gambling in reliance on the licence; and
@@ -178,7 +178,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (ii) real games of equal chance, other than bingo, played on a table; and
 - (f) “wholly automated gaming table” means equipment that would fall within the definition of a gaming machine in section 235 but for its exclusion from that definition by subsection (2)(i) of that section.
 
-### 5. Documents to accompany applications for a converted premises licence[^key-2e735cd10791e0c67919b487e1011963]
+### 5. Documents to accompany applications for a converted premises licence[^c-2e735cd10791e0c67919b487e1011963]
 
 *Extent: E+W*
 
@@ -197,7 +197,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) held by the applicant in respect of the premises to which the application relates, and
 - (b) by virtue of which the applicant is entitled to be issued with a converted premises licence.
 
-### 6. Written statement to accompany applications for a casino premises licence[^key-3382e6745b324469e52eaa1b4a12f501]
+### 6. Written statement to accompany applications for a casino premises licence[^c-3382e6745b324469e52eaa1b4a12f501]
 
 *Extent: E+W*
 
@@ -208,23 +208,23 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 the application must be accompanied by a written statement confirming that the applicant does not want paragraph 54 of Schedule 4 to the Commencement and Transitional Provisions Order (which provides for the grant of applications for a premises licence made by a person holding the equivalent permission under the existing legislation) to apply.
 
-### 7. Form and content of applications to vary a premises licence[^key-305ac4b5ca390bfb65a4fdbf976d1e08]
+### 7. Form and content of applications to vary a premises licence[^c-305ac4b5ca390bfb65a4fdbf976d1e08]
 
 *Extent: E+W*
 
 (1) Subject to regulation 11, an application under section 187 to vary a premises licence shall be in the form, and contain the information, specified in Schedule 2.
 
-(2) Where the application includes an application to vary the plan which forms part of the premises licence under section 151(1)(g), the application must be accompanied—[^key-20f4f91c939f59ca24da7bfba9497edc]
+(2) Where the application includes an application to vary the plan which forms part of the premises licence under section 151(1)(g), the application must be accompanied—[^c-20f4f91c939f59ca24da7bfba9497edc]
 
 - (a) by a scale plan which complies with paragraph (3); or
 - (b) where the application relates to a converted casino premises licence and would (if granted) enable the holder of that licence to make gaming machines available for use on the premises in accordance with paragraph 65(6)(za) of Schedule 4 to the Commencement and Transitional Provisions Order, by a scale plan which complies with paragraph (4).
 
-(3) For applications to which paragraph (2)(a) applies,[^key-b3d1f5d8c94c4f4a9a855f8416fa555f] the plan must show the matters which it would be required to show under regulation 4 if the application were for the issue of a premises licence—
+(3) For applications to which paragraph (2)(a) applies,[^c-b3d1f5d8c94c4f4a9a855f8416fa555f] the plan must show the matters which it would be required to show under regulation 4 if the application were for the issue of a premises licence—
 
 - (a) of the same type as that to which the application relates; and
 - (b) which included the variations specified in the application.
 
-(4)[^key-81a4b1a2110d89d5fbd3e72c63ae1f59] For applications to which paragraph (2)(b) applies, the plan must show the matters which it would be required to show under regulation 4 if the application were for the issue of a converted casino premises licence which included the variations specified in the application, but—
+(4)[^c-81a4b1a2110d89d5fbd3e72c63ae1f59] For applications to which paragraph (2)(b) applies, the plan must show the matters which it would be required to show under regulation 4 if the application were for the issue of a converted casino premises licence which included the variations specified in the application, but—
 
 - (a) as if for sub-paragraph (b) of paragraph (4A) of regulation 4 there were substituted—
 
@@ -234,19 +234,19 @@ the application must be accompanied by a written statement confirming that the a
   ; and
 - (b) as if paragraph (4B) were omitted.
 
-### 8. Form and content of applications to transfer a premises licence[^key-1286f4311b25340cf47351ec6c4ce2a2]
+### 8. Form and content of applications to transfer a premises licence[^c-1286f4311b25340cf47351ec6c4ce2a2]
 
 *Extent: E+W*
 
 Subject to regulation 11, an application under section 188 for the transfer of a premises licence shall be in the form, and contain the information, specified in Schedule 3.
 
-### 9. Form and content of applications for the reinstatement of a premises licence[^key-8a71987d206a65de2f3a36928a6ba164]
+### 9. Form and content of applications for the reinstatement of a premises licence[^c-8a71987d206a65de2f3a36928a6ba164]
 
 *Extent: E+W*
 
 Subject to regulation 11, an application under section 195 for the reinstatement of a premises licence shall be in the form, and contain the information, specified in Schedule 4.
 
-### 10. Form and content of applications for a provisional statement[^key-f97a484e20b7540bcc73324cf37bb0b8]
+### 10. Form and content of applications for a provisional statement[^c-f97a484e20b7540bcc73324cf37bb0b8]
 
 (1) Subject to regulation 11, an application under section 204 for a provisional statement shall be in the form, and contain the information, specified in—
 
@@ -259,7 +259,7 @@ Subject to regulation 11, an application under section 195 for the reinstatement
 
 (4) Any reference in paragraphs (3) to (9) of regulation 4 to an application for a particular kind of premises licence is to have effect for the purposes of this regulation as a reference to an application for a provisional statement in respect of premises whose use would require the same kind of premises licence.
 
-### 11. Matters not required to be included in an application[^key-cfbdc5cb1f39f593e4422a2507231501]
+### 11. Matters not required to be included in an application[^c-cfbdc5cb1f39f593e4422a2507231501]
 
 *Extent: E+W*
 
@@ -271,7 +271,7 @@ Subject to regulation 11, an application under section 195 for the reinstatement
 
 *Extent: E+W*
 
-### 12. Notice of application[^key-bee2e2552bc568263e79b652b5ec85d8]
+### 12. Notice of application[^c-bee2e2552bc568263e79b652b5ec85d8]
 
 (1) Subject to paragraph (2) a person making an application (other than a fast track application) must give notice of the application to each of the authorities which in accordance with section 157 are the responsible authorities in relation to the premises to which the application relates.
 
@@ -322,7 +322,7 @@ Subject to regulation 11, an application under section 195 for the reinstatement
 
 (12) In this regulation, “fast track application” means an application for a premises licence to which paragraph 57 of Schedule 4 to the Commencement and Transitional Provisions Order (which modifies Part 8 of the Act in its application to certain applications for a converted premises licence) applies.
 
-### 13. Failure to give proper notice of application to a responsible authority[^key-3ceb6e0698132b022c89f67d6244323f]
+### 13. Failure to give proper notice of application to a responsible authority[^c-3ceb6e0698132b022c89f67d6244323f]
 
 (1) This regulation applies where a person, who gives notice to a responsible authority under paragraph (1) of regulation 12, fails to give proper notice of his application within the period provided for under paragraph (4) of that regulation.
 
@@ -339,9 +339,9 @@ Subject to regulation 11, an application under section 195 for the reinstatement
 
 and if it purports to do so any licence issued by the authority shall be of no effect.
 
-(6) Subject to paragraph (5), the licensing authority may disregard any irregularity in relation to the giving of notice under regulation 12(1)[^key-d475718a6677452bac3fe43471230612].
+(6) Subject to paragraph (5), the licensing authority may disregard any irregularity in relation to the giving of notice under regulation 12(1)[^c-d475718a6677452bac3fe43471230612].
 
-### 14. Failure properly to publish notice of an application[^key-5738b71241eca307d2e7c3acd26b0762]
+### 14. Failure properly to publish notice of an application[^c-5738b71241eca307d2e7c3acd26b0762]
 
 (1) This regulation applies where a person, who publishes notice of his application under sub-paragraph (a) or (b) of paragraph (6) of regulation 12, fails to publish a proper notice of his application within the period provided for under the relevant sub-paragraph.
 
@@ -360,7 +360,7 @@ and if it purports to do so any licence issued by the authority shall be of no e
 
 (6) Subject to paragraph (5), the licensing authority may disregard any irregularity in relation to the publication of the notice under sub-paragraph (a) or (b) of paragraph (6) of regulation 12.
 
-### 15. Period within which representations are to be made by an interested party or responsible authority[^key-b1ce22559f49f9df2c078d0cd105bac7]
+### 15. Period within which representations are to be made by an interested party or responsible authority[^c-b1ce22559f49f9df2c078d0cd105bac7]
 
 (1) This regulation prescribes, for the purposes of section 161, the period within which a responsible authority or interested party may make representations in relation to an application.
 
@@ -370,7 +370,7 @@ and if it purports to do so any licence issued by the authority shall be of no e
 
 *Extent: E+W*
 
-### 16. Manner of making and giving applications and notices[^key-a1edf8b1fccb760e1503a29a03478403]
+### 16. Manner of making and giving applications and notices[^c-a1edf8b1fccb760e1503a29a03478403]
 
 (1) An application, or a notice under Part 3 of these Regulations, must be made or given in writing.
 
@@ -401,7 +401,7 @@ and if it purports to do so any licence issued by the authority shall be of no e
 
 *Extent: E+W*
 
-### 17. Form of notice to be given on grant of application[^key-ebdda359358e915f4fc6b132ac1b23cf]
+### 17. Form of notice to be given on grant of application[^c-ebdda359358e915f4fc6b132ac1b23cf]
 
 (1) This regulation prescribes the form of the notice which a licensing authority is required to give under section 164(1)(a) (notice of grant of application).
 
@@ -433,7 +433,7 @@ and if it purports to do so any licence issued by the authority shall be of no e
 - (a) any reference in paragraph (3) to conditions attached by the licensing authority is to have effect as a reference to those conditions which the authority would attach under section 169(1)(a) if a premises licence were granted in respect of the premises to which the provisional statement relates; and
 - (b) any reference in paragraph (4) to conditions excluded by the licensing authority is to have effect as a reference to those conditions which the authority would exclude under section 169(1)(a) if a premises licence were granted in respect of the premises to which the provisional statement relates.
 
-### 18. Form of notice to be given on rejection of application[^key-024d6f98b7a75d819576c55d9098e025]
+### 18. Form of notice to be given on rejection of application[^c-024d6f98b7a75d819576c55d9098e025]
 
 (1) This regulation prescribes the form of the notice which a licensing authority is required to give under section 165(1) (notice of rejection of application).
 
@@ -445,7 +445,7 @@ and if it purports to do so any licence issued by the authority shall be of no e
 - (d) Part 4 of that Schedule, where it relates to the rejection of an application for the reinstatement of a premises licence; and
 - (e) Part 5 of that Schedule, where it relates to the rejection of an application for a provisional statement.
 
-### 19. Matters not required to be included in a notice[^key-6e081c07c9e05285a0d39d0528201b5d]
+### 19. Matters not required to be included in a notice[^c-6e081c07c9e05285a0d39d0528201b5d]
 
 (1) Where matters are included in square brackets in any form in Schedule 7 or 8, they are intended to indicate and explain the information to be specified in the notice to which the form relates, and are not required to be included in the notice.
 
@@ -455,7 +455,7 @@ and if it purports to do so any licence issued by the authority shall be of no e
 
 *Extent: E+W*
 
-### 20. Information to be included in a premises licence[^key-b2dc676fd1bda14c62dddbbaf5f4ec6e]
+### 20. Information to be included in a premises licence[^c-b2dc676fd1bda14c62dddbbaf5f4ec6e]
 
 (1) Subject to the following provisions of this regulation, a premises licence shall in addition to the matters set out in section 151(1) of the Act, contain the following information—
 
@@ -475,7 +475,7 @@ and if it purports to do so any licence issued by the authority shall be of no e
 
 (5) Where a premises licence is varied, the licence shall specify the date on which the variations to the licence take effect.
 
-### 21. Matters to be included in the plan accompanying a premises licence[^key-a187fac1a0a8cc53f0d8c62258cc7851]
+### 21. Matters to be included in the plan accompanying a premises licence[^c-a187fac1a0a8cc53f0d8c62258cc7851]
 
 (1) The plan which is to be included in the premises licence by virtue of section 151(1)(g) must be a scale plan which complies with the requirements of paragraphs (2) to (9) of regulation 4 (as modified in accordance with the following provisions of this regulation).
 
@@ -483,9 +483,9 @@ and if it purports to do so any licence issued by the authority shall be of no e
 
 (3) Where a requirement of paragraphs (3) to (9) of regulation 4 is expressed only to apply to an application for a premises licence of a particular kind, for the purposes of this regulation that requirement is to apply only to a premises licence of the same kind.
 
-(4)[^key-09dfa48c015ff2cec40b6d93b30e955e] In this regulation, references to regulation 4 are to be construed (where relevant) as references to that provision as modified in accordance with paragraph (4) of regulation 7.
+(4)[^c-09dfa48c015ff2cec40b6d93b30e955e] In this regulation, references to regulation 4 are to be construed (where relevant) as references to that provision as modified in accordance with paragraph (4) of regulation 7.
 
-### 22. Form of a premises licence[^key-713ab24c4536955cfbf98dc7adb4c289]
+### 22. Form of a premises licence[^c-713ab24c4536955cfbf98dc7adb4c289]
 
 (1) Subject to the following provisions of this regulation, a premises licence is to be in the form set out in Schedule 9.
 
@@ -493,7 +493,7 @@ and if it purports to do so any licence issued by the authority shall be of no e
 
 (3) The first page of a premises licence issued by a licensing authority may include any symbol or logo which is commonly used by that authority to identify documents produced by it.
 
-### 23. Form of summary[^key-45c74c5e1e68d40349e502b58b13705d]
+### 23. Form of summary[^c-45c74c5e1e68d40349e502b58b13705d]
 
 (1) Subject to the following provisions of this regulation, a summary shall be in the form set out in Schedule 10.
 
@@ -501,7 +501,7 @@ and if it purports to do so any licence issued by the authority shall be of no e
 
 (3) The first page of a summary issued by a licensing authority may include any symbol or logo which is commonly used by that authority to identify documents produced by it.
 
-### 24. Information to be included in a provisional statement[^key-6998bdf62bf6089be689022111992eef]
+### 24. Information to be included in a provisional statement[^c-6998bdf62bf6089be689022111992eef]
 
 (1) A provisional statement shall in addition to the matters set out in section 151(1) (as applied by section 204(2)), contain the following information—
 
@@ -512,7 +512,7 @@ and if it purports to do so any licence issued by the authority shall be of no e
 
 (2) Paragraph (1)(b) is not to apply where the provisional statement relates to a track to be used for accepting bets.
 
-### 25. Matters to be included in the plan accompanying a provisional statement[^key-64e744c8149c7549622e2e2ce56155c7]
+### 25. Matters to be included in the plan accompanying a provisional statement[^c-64e744c8149c7549622e2e2ce56155c7]
 
 (1) The plan which is to be included in the provisional statement by virtue of section 151(1)(g) (as applied by section 204(2)) must be a scale plan which complies with the requirements of paragraphs (2) to (9) of regulation 4 (as modified in accordance with the following provisions of this regulation).
 
@@ -520,7 +520,7 @@ and if it purports to do so any licence issued by the authority shall be of no e
 
 (3) Where a requirement of paragraphs (3) to (9) of regulation 4 is expressed only to apply to an application for a premises licence of a particular kind, for the purposes of this regulation that requirement is to apply only to a provisional statement which relates to premises or proposed premises of the same kind.
 
-### 26. Form of a provisional statement[^key-52cc0cab54a478d688b04caf235d662a]
+### 26. Form of a provisional statement[^c-52cc0cab54a478d688b04caf235d662a]
 
 (1) Subject to the following provisions of this regulation a provisional statement shall be in the form set out in Schedule 11.
 
@@ -542,23 +542,23 @@ Department for Culture, Media and Sport
 
 Regulation 3
 
-### PART 1 — Form of application for a premises licence[^key-0e851171017bab24e9e4b2ed41cbf43c]
+### PART 1 — Form of application for a premises licence[^c-0e851171017bab24e9e4b2ed41cbf43c]
 
-### PART 2 — Form of application for a premises licence in respect of premises which are a vessel[^key-7019453269c2c26f235fc59273a19b7e]
+### PART 2 — Form of application for a premises licence in respect of premises which are a vessel[^c-7019453269c2c26f235fc59273a19b7e]
 
-### PART 3 — Form of application for a converted premises licence[^key-29cd4cea99967586bfd17909362e0217]
+### PART 3 — Form of application for a converted premises licence[^c-29cd4cea99967586bfd17909362e0217]
 
-### PART 4 — Form of application for a converted premises licence in respect of a vessel[^key-5d357d1b4fae366ea9720d5d8c903657]
+### PART 4 — Form of application for a converted premises licence in respect of a vessel[^c-5d357d1b4fae366ea9720d5d8c903657]
 
-## SCHEDULE 2 — Form and content of application to vary a premises licence[^key-8de0caf6da3ee71823e26670f6e44fb1]
+## SCHEDULE 2 — Form and content of application to vary a premises licence[^c-8de0caf6da3ee71823e26670f6e44fb1]
 
 Regulation 7
 
-## SCHEDULE 3 — Form and content of application to transfer a premises licence[^key-b79910abd87c98835e2dce1f751272f5]
+## SCHEDULE 3 — Form and content of application to transfer a premises licence[^c-b79910abd87c98835e2dce1f751272f5]
 
 Regulation 8
 
-## SCHEDULE 4 — Form and content of application for reinstatement of a premises licence[^key-b12ce33ac60e41e1639202f762ca537b]
+## SCHEDULE 4 — Form and content of application for reinstatement of a premises licence[^c-b12ce33ac60e41e1639202f762ca537b]
 
 Regulation 9
 
@@ -566,15 +566,15 @@ Regulation 9
 
 Regulation 10(1)
 
-### PART 1 — Form of application for a provisional statement[^key-1a9b2b7380132969f9c45cfc0d79d51a]
+### PART 1 — Form of application for a provisional statement[^c-1a9b2b7380132969f9c45cfc0d79d51a]
 
-### PART 2 — Form of application for a provisional statement (vessel)[^key-8f65c55beb6de7f911fd9b55880bcfb8]
+### PART 2 — Form of application for a provisional statement (vessel)[^c-8f65c55beb6de7f911fd9b55880bcfb8]
 
 ## SCHEDULE 6 — Form of notice of application
 
 Regulation 12
 
-### PART 1 — Application for a premises licence: form of notice to be given to the responsible authorities[^key-667801c3ec3954d67f5d52fdab77b055]
+### PART 1 — Application for a premises licence: form of notice to be given to the responsible authorities[^c-667801c3ec3954d67f5d52fdab77b055]
 
 Two forms are specified for the purposes of this Part. Form A is to be used where there is only one applicant. Form B is to be used where there are two or more applicants.
 
@@ -592,29 +592,9 @@ Form B
 |  |
 |  |
 
-### PART 2 — Application for a premises licence: form of notice to be published[^key-b6f1280a5fe1259e5cd437aa19b1b59f]
+### PART 2 — Application for a premises licence: form of notice to be published[^c-b6f1280a5fe1259e5cd437aa19b1b59f]
 
-### PART 3 — Application to vary a premises licence: form of notice to be given to the responsible authorities[^key-656e5c153449c998671d44d33a22581f]
-
-Two forms are specified for the purposes of this Part. Form A is to be used where there is only one applicant. Form B is to be used where there are two or more applicants.
-
-Form A
-
-|  |
-| --- |
-|  |
-|  |
-
-Form B
-
-|  |
-| --- |
-|  |
-|  |
-
-### PART 4 — Application to vary a premises licence: form of notice to be published[^key-78ab42e135f01ff14f0567ff12922b8a]
-
-### PART 5 — Application to transfer a premises licence: form of notice to be given to the responsible authorities[^key-36928e41c282d2dec82fd2177d0ae7b6]
+### PART 3 — Application to vary a premises licence: form of notice to be given to the responsible authorities[^c-656e5c153449c998671d44d33a22581f]
 
 Two forms are specified for the purposes of this Part. Form A is to be used where there is only one applicant. Form B is to be used where there are two or more applicants.
 
@@ -632,23 +612,9 @@ Form B
 |  |
 |  |
 
-### PART 6 — Application for the reinstatement of a premises licence: form of notice to be given to the responsible authorities[^key-d143602d5cf551edfa534a0eff857379]
+### PART 4 — Application to vary a premises licence: form of notice to be published[^c-78ab42e135f01ff14f0567ff12922b8a]
 
-Form A
-
-|  |
-| --- |
-|  |
-|  |
-
-Form B
-
-|  |
-| --- |
-|  |
-|  |
-
-### PART 7 — Application for a provisional statement: form of notice to be given to the responsible authorities[^key-683ab2480cb96bdee56c6ddc63d4fe8c]
+### PART 5 — Application to transfer a premises licence: form of notice to be given to the responsible authorities[^c-36928e41c282d2dec82fd2177d0ae7b6]
 
 Two forms are specified for the purposes of this Part. Form A is to be used where there is only one applicant. Form B is to be used where there are two or more applicants.
 
@@ -666,51 +632,85 @@ Form B
 |  |
 |  |
 
-### PART 8 — Application for a provisional statement: form of notice to be published[^key-6c8f5ea46b9c77bbbac0a54a3dfd87f4]
+### PART 6 — Application for the reinstatement of a premises licence: form of notice to be given to the responsible authorities[^c-d143602d5cf551edfa534a0eff857379]
+
+Form A
+
+|  |
+| --- |
+|  |
+|  |
+
+Form B
+
+|  |
+| --- |
+|  |
+|  |
+
+### PART 7 — Application for a provisional statement: form of notice to be given to the responsible authorities[^c-683ab2480cb96bdee56c6ddc63d4fe8c]
+
+Two forms are specified for the purposes of this Part. Form A is to be used where there is only one applicant. Form B is to be used where there are two or more applicants.
+
+Form A
+
+|  |
+| --- |
+|  |
+|  |
+
+Form B
+
+|  |
+| --- |
+|  |
+|  |
+
+### PART 8 — Application for a provisional statement: form of notice to be published[^c-6c8f5ea46b9c77bbbac0a54a3dfd87f4]
 
 ## SCHEDULE 7 — Form of notice of grant of an application
 
 Regulation 17
 
-### PART 1 — Notice of the grant of an application for a premises licence[^key-aed3c68138eb0f9fa8f3282c7fd9e566]
+### PART 1 — Notice of the grant of an application for a premises licence[^c-aed3c68138eb0f9fa8f3282c7fd9e566]
 
-### PART 2 — Notice of the grant of an application to vary a premises licence[^key-cc39ba02100cdce046b61de1280c20e9]
+### PART 2 — Notice of the grant of an application to vary a premises licence[^c-cc39ba02100cdce046b61de1280c20e9]
 
-### PART 3 — Notice of the grant of an application for the transfer of a premises licence[^key-de2c7d1660b06941c9c7fd60f582a678]
+### PART 3 — Notice of the grant of an application for the transfer of a premises licence[^c-de2c7d1660b06941c9c7fd60f582a678]
 
-### PART 4 — Notice of the grant of an application for the reinstatement of a premises licence[^key-afad82342787ee442e4160818eb6f470]
+### PART 4 — Notice of the grant of an application for the reinstatement of a premises licence[^c-afad82342787ee442e4160818eb6f470]
 
-### PART 5 — Notice of the grant of an application for a provisional statement[^key-da680777eb493d41163d6eab291a12b8]
+### PART 5 — Notice of the grant of an application for a provisional statement[^c-da680777eb493d41163d6eab291a12b8]
 
-### PART 6 — Annex setting out conditions to be attached[^key-9886d026d05765fbdb5339b39f42980d]
+### PART 6 — Annex setting out conditions to be attached[^c-9886d026d05765fbdb5339b39f42980d]
 
-### PART 7 — Annex setting out conditions to be excluded[^key-009df3878b2b7cc17ea9e12255069d2e]
+### PART 7 — Annex setting out conditions to be excluded[^c-009df3878b2b7cc17ea9e12255069d2e]
 
-### PART 8 — Annex setting out representations[^key-516c8dcbea0ce23ce189336583d895ed]
+### PART 8 — Annex setting out representations[^c-516c8dcbea0ce23ce189336583d895ed]
 
 ## SCHEDULE 8 — Form of notice of rejection of application
 
 Regulation 18
 
-### PART 1 — Notice of the rejection of an application for a premises licence[^key-5864b42544914913134be70de59008a6]
+### PART 1 — Notice of the rejection of an application for a premises licence[^c-5864b42544914913134be70de59008a6]
 
-### PART 2 — Notice of the rejection of an application to vary a premises licence[^key-72ee801a6a1e8be060c515b7ff156367]
+### PART 2 — Notice of the rejection of an application to vary a premises licence[^c-72ee801a6a1e8be060c515b7ff156367]
 
-### PART 3 — Notice of the rejection of an application to transfer a premises licence[^key-e0adeb378fbf531ca69dea838ac9862c]
+### PART 3 — Notice of the rejection of an application to transfer a premises licence[^c-e0adeb378fbf531ca69dea838ac9862c]
 
-### PART 4 — Notice of the rejection of an application to reinstate a premises licence[^key-599e614331ca7f958869f3a2c767fc2c]
+### PART 4 — Notice of the rejection of an application to reinstate a premises licence[^c-599e614331ca7f958869f3a2c767fc2c]
 
-### PART 5 — Notice of the rejection of an application for a provisional statement[^key-e3ab5266a99600a0166e9be16c772192]
+### PART 5 — Notice of the rejection of an application for a provisional statement[^c-e3ab5266a99600a0166e9be16c772192]
 
-## SCHEDULE 9 — Form of premises licence[^key-33a750b039e3535ad2e9d58f82bdb7bf]
+## SCHEDULE 9 — Form of premises licence[^c-33a750b039e3535ad2e9d58f82bdb7bf]
 
 Regulation 22
 
-## SCHEDULE 10 — Form of summary[^key-9beef9a39c963c29282ef5353008d73d]
+## SCHEDULE 10 — Form of summary[^c-9beef9a39c963c29282ef5353008d73d]
 
 Regulation 23
 
-## SCHEDULE 11 — Form of provisional statement[^key-51cdae379473874c15b518defd65eb89]
+## SCHEDULE 11 — Form of provisional statement[^c-51cdae379473874c15b518defd65eb89]
 
 Regulation 26
 
@@ -820,142 +820,142 @@ A full Regulatory Impact Assessment of the costs and benefits of these Regulatio
 
 [^f00001]: Footnote: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-7d65fa2add3333a02a9c3ead1d69a5f0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/459/regulation/1) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-7d65fa2add3333a02a9c3ead1d69a5f0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/459/regulation/1) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-b0f2a4b829ff3b4fcfae14e1cfa0a77e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/459/regulation/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-b0f2a4b829ff3b4fcfae14e1cfa0a77e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/459/regulation/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), amended by [S.I. 2006/3361](https://www.legislation.gov.uk/uksi/2006/3361).
 
 [^f00003]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-d8a477614977231ffc8b44b1d0d4e29c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/459/regulation/3) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-d8a477614977231ffc8b44b1d0d4e29c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/459/regulation/3) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-8ef4a3d91bc998a52465560c59e7c714]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/459/regulation/4) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-8ef4a3d91bc998a52465560c59e7c714]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/459/regulation/4) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-a2e922892d258da44932037cd90761a2]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2007/459/regulation/4/3) inserted (12.7.2007) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2007 (S.I. 2007/1775)](https://www.legislation.gov.uk/uksi/2007/1775), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/2/2/a) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/2/3))
+[^c-a2e922892d258da44932037cd90761a2]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2007/459/regulation/4/3) inserted (12.7.2007) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2007 (S.I. 2007/1775)](https://www.legislation.gov.uk/uksi/2007/1775), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/2/2/a) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/2/3))
 
-[^key-005801ee037835e257a933c00e784c43]: Textual amendment: [Reg. 4(4A)](https://www.legislation.gov.uk/uksi/2007/459/regulation/4/4A)[(4B)](https://www.legislation.gov.uk/uksi/2007/459/regulation/4/4B) inserted (12.7.2007) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2007 (S.I. 2007/1775)](https://www.legislation.gov.uk/uksi/2007/1775), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/2/2/b) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/2/3))
+[^c-005801ee037835e257a933c00e784c43]: Textual amendment: [Reg. 4(4A)](https://www.legislation.gov.uk/uksi/2007/459/regulation/4/4A)[(4B)](https://www.legislation.gov.uk/uksi/2007/459/regulation/4/4B) inserted (12.7.2007) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2007 (S.I. 2007/1775)](https://www.legislation.gov.uk/uksi/2007/1775), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/2/2/b) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/2/3))
 
-[^key-2e735cd10791e0c67919b487e1011963]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/459/regulation/5) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-2e735cd10791e0c67919b487e1011963]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/459/regulation/5) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
 [^f00004]: Footnote: [1963 c. 2](https://www.legislation.gov.uk/ukpga/1963/2).
 
 [^f00005]: Footnote: [1968 c. 65](https://www.legislation.gov.uk/ukpga/1968/65).
 
-[^key-3382e6745b324469e52eaa1b4a12f501]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/459/regulation/6) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-3382e6745b324469e52eaa1b4a12f501]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/459/regulation/6) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-305ac4b5ca390bfb65a4fdbf976d1e08]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/459/regulation/7) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-305ac4b5ca390bfb65a4fdbf976d1e08]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/459/regulation/7) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-20f4f91c939f59ca24da7bfba9497edc]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2007/459/regulation/7/2) substituted (22.7.2025) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/736)](https://www.legislation.gov.uk/uksi/2025/736), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/736/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/736/regulation/2/2)
+[^c-20f4f91c939f59ca24da7bfba9497edc]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2007/459/regulation/7/2) substituted (22.7.2025) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/736)](https://www.legislation.gov.uk/uksi/2025/736), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/736/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/736/regulation/2/2)
 
-[^key-b3d1f5d8c94c4f4a9a855f8416fa555f]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2007/459/regulation/7/3) inserted (22.7.2025) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/736)](https://www.legislation.gov.uk/uksi/2025/736), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/736/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/736/regulation/2/3)
+[^c-b3d1f5d8c94c4f4a9a855f8416fa555f]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2007/459/regulation/7/3) inserted (22.7.2025) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/736)](https://www.legislation.gov.uk/uksi/2025/736), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/736/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/736/regulation/2/3)
 
-[^key-81a4b1a2110d89d5fbd3e72c63ae1f59]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2007/459/regulation/7/4) inserted (22.7.2025) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/736)](https://www.legislation.gov.uk/uksi/2025/736), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/736/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/736/regulation/2/4)
+[^c-81a4b1a2110d89d5fbd3e72c63ae1f59]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2007/459/regulation/7/4) inserted (22.7.2025) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/736)](https://www.legislation.gov.uk/uksi/2025/736), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/736/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/736/regulation/2/4)
 
-[^key-1286f4311b25340cf47351ec6c4ce2a2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/459/regulation/8) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-1286f4311b25340cf47351ec6c4ce2a2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/459/regulation/8) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-8a71987d206a65de2f3a36928a6ba164]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/459/regulation/9) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-8a71987d206a65de2f3a36928a6ba164]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/459/regulation/9) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-f97a484e20b7540bcc73324cf37bb0b8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/459/regulation/10) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-f97a484e20b7540bcc73324cf37bb0b8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/459/regulation/10) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-cfbdc5cb1f39f593e4422a2507231501]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/459/regulation/11) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-cfbdc5cb1f39f593e4422a2507231501]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/459/regulation/11) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-bee2e2552bc568263e79b652b5ec85d8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/459/regulation/12) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-bee2e2552bc568263e79b652b5ec85d8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/459/regulation/12) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-3ceb6e0698132b022c89f67d6244323f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2007/459/regulation/13) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-3ceb6e0698132b022c89f67d6244323f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2007/459/regulation/13) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-d475718a6677452bac3fe43471230612]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2007/459/regulation/13/6) substituted (12.7.2007) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2007 (S.I. 2007/1775)](https://www.legislation.gov.uk/uksi/2007/1775), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/2/4)
+[^c-d475718a6677452bac3fe43471230612]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2007/459/regulation/13/6) substituted (12.7.2007) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2007 (S.I. 2007/1775)](https://www.legislation.gov.uk/uksi/2007/1775), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/1775/regulation/2/4)
 
-[^key-5738b71241eca307d2e7c3acd26b0762]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2007/459/regulation/14) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-5738b71241eca307d2e7c3acd26b0762]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2007/459/regulation/14) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-b1ce22559f49f9df2c078d0cd105bac7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2007/459/regulation/15) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-b1ce22559f49f9df2c078d0cd105bac7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2007/459/regulation/15) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-a1edf8b1fccb760e1503a29a03478403]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2007/459/regulation/16) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-a1edf8b1fccb760e1503a29a03478403]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2007/459/regulation/16) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-ebdda359358e915f4fc6b132ac1b23cf]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2007/459/regulation/17) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-ebdda359358e915f4fc6b132ac1b23cf]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2007/459/regulation/17) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-024d6f98b7a75d819576c55d9098e025]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2007/459/regulation/18) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-024d6f98b7a75d819576c55d9098e025]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2007/459/regulation/18) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-6e081c07c9e05285a0d39d0528201b5d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2007/459/regulation/19) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-6e081c07c9e05285a0d39d0528201b5d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2007/459/regulation/19) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-b2dc676fd1bda14c62dddbbaf5f4ec6e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2007/459/regulation/20) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-b2dc676fd1bda14c62dddbbaf5f4ec6e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2007/459/regulation/20) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-a187fac1a0a8cc53f0d8c62258cc7851]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2007/459/regulation/21) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-a187fac1a0a8cc53f0d8c62258cc7851]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2007/459/regulation/21) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-09dfa48c015ff2cec40b6d93b30e955e]: Textual amendment: [Reg. 21(4)](https://www.legislation.gov.uk/uksi/2007/459/regulation/21/4) inserted (22.7.2025) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/736)](https://www.legislation.gov.uk/uksi/2025/736), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/736/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/736/regulation/3/2)
+[^c-09dfa48c015ff2cec40b6d93b30e955e]: Textual amendment: [Reg. 21(4)](https://www.legislation.gov.uk/uksi/2007/459/regulation/21/4) inserted (22.7.2025) by [The Gambling Act 2005 (Premises Licences and Provisional Statements) (Amendment) (England and Wales) Regulations 2025 (S.I. 2025/736)](https://www.legislation.gov.uk/uksi/2025/736), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/736/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/736/regulation/3/2)
 
-[^key-713ab24c4536955cfbf98dc7adb4c289]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2007/459/regulation/22) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-713ab24c4536955cfbf98dc7adb4c289]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2007/459/regulation/22) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-45c74c5e1e68d40349e502b58b13705d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2007/459/regulation/23) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-45c74c5e1e68d40349e502b58b13705d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2007/459/regulation/23) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-6998bdf62bf6089be689022111992eef]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2007/459/regulation/24) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-6998bdf62bf6089be689022111992eef]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2007/459/regulation/24) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-64e744c8149c7549622e2e2ce56155c7]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2007/459/regulation/25) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-64e744c8149c7549622e2e2ce56155c7]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2007/459/regulation/25) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-52cc0cab54a478d688b04caf235d662a]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2007/459/regulation/26) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-52cc0cab54a478d688b04caf235d662a]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2007/459/regulation/26) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-0e851171017bab24e9e4b2ed41cbf43c]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2007/459/schedule/1/part/1) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-0e851171017bab24e9e4b2ed41cbf43c]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2007/459/schedule/1/part/1) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-7019453269c2c26f235fc59273a19b7e]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2007/459/schedule/1/part/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-7019453269c2c26f235fc59273a19b7e]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2007/459/schedule/1/part/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-29cd4cea99967586bfd17909362e0217]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2007/459/schedule/1/part/3) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-29cd4cea99967586bfd17909362e0217]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2007/459/schedule/1/part/3) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-5d357d1b4fae366ea9720d5d8c903657]: Commencement: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/uksi/2007/459/schedule/1/part/4) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-5d357d1b4fae366ea9720d5d8c903657]: Commencement: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/uksi/2007/459/schedule/1/part/4) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-8de0caf6da3ee71823e26670f6e44fb1]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2007/459/schedule/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-8de0caf6da3ee71823e26670f6e44fb1]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2007/459/schedule/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-b79910abd87c98835e2dce1f751272f5]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2007/459/schedule/3) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-b79910abd87c98835e2dce1f751272f5]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2007/459/schedule/3) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-b12ce33ac60e41e1639202f762ca537b]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2007/459/schedule/4) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-b12ce33ac60e41e1639202f762ca537b]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2007/459/schedule/4) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-1a9b2b7380132969f9c45cfc0d79d51a]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2007/459/schedule/5/part/1) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-1a9b2b7380132969f9c45cfc0d79d51a]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2007/459/schedule/5/part/1) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-8f65c55beb6de7f911fd9b55880bcfb8]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2007/459/schedule/5/part/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-8f65c55beb6de7f911fd9b55880bcfb8]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2007/459/schedule/5/part/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-667801c3ec3954d67f5d52fdab77b055]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/1) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-667801c3ec3954d67f5d52fdab77b055]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/1) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-b6f1280a5fe1259e5cd437aa19b1b59f]: Commencement: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-b6f1280a5fe1259e5cd437aa19b1b59f]: Commencement: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-656e5c153449c998671d44d33a22581f]: Commencement: [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/3) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-656e5c153449c998671d44d33a22581f]: Commencement: [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/3) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-78ab42e135f01ff14f0567ff12922b8a]: Commencement: [Sch. 6 Pt. 4](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/4) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-78ab42e135f01ff14f0567ff12922b8a]: Commencement: [Sch. 6 Pt. 4](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/4) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-36928e41c282d2dec82fd2177d0ae7b6]: Commencement: [Sch. 6 Pt. 5](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/5) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-36928e41c282d2dec82fd2177d0ae7b6]: Commencement: [Sch. 6 Pt. 5](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/5) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-d143602d5cf551edfa534a0eff857379]: Commencement: [Sch. 6 Pt. 6](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/6) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-d143602d5cf551edfa534a0eff857379]: Commencement: [Sch. 6 Pt. 6](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/6) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-683ab2480cb96bdee56c6ddc63d4fe8c]: Commencement: [Sch. 6 Pt. 7](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/7) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-683ab2480cb96bdee56c6ddc63d4fe8c]: Commencement: [Sch. 6 Pt. 7](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/7) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-6c8f5ea46b9c77bbbac0a54a3dfd87f4]: Commencement: [Sch. 6 Pt. 8](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/8) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-6c8f5ea46b9c77bbbac0a54a3dfd87f4]: Commencement: [Sch. 6 Pt. 8](https://www.legislation.gov.uk/uksi/2007/459/schedule/6/part/8) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-aed3c68138eb0f9fa8f3282c7fd9e566]: Commencement: [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/1) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-aed3c68138eb0f9fa8f3282c7fd9e566]: Commencement: [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/1) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-cc39ba02100cdce046b61de1280c20e9]: Commencement: [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-cc39ba02100cdce046b61de1280c20e9]: Commencement: [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-de2c7d1660b06941c9c7fd60f582a678]: Commencement: [Sch. 7 Pt. 3](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/3) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-de2c7d1660b06941c9c7fd60f582a678]: Commencement: [Sch. 7 Pt. 3](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/3) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-afad82342787ee442e4160818eb6f470]: Commencement: [Sch. 7 Pt. 4](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/4) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-afad82342787ee442e4160818eb6f470]: Commencement: [Sch. 7 Pt. 4](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/4) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-da680777eb493d41163d6eab291a12b8]: Commencement: [Sch. 7 Pt. 5](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/5) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-da680777eb493d41163d6eab291a12b8]: Commencement: [Sch. 7 Pt. 5](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/5) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-9886d026d05765fbdb5339b39f42980d]: Commencement: [Sch. 7 Pt. 6](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/6) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-9886d026d05765fbdb5339b39f42980d]: Commencement: [Sch. 7 Pt. 6](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/6) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-009df3878b2b7cc17ea9e12255069d2e]: Commencement: [Sch. 7 Pt. 7](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/7) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-009df3878b2b7cc17ea9e12255069d2e]: Commencement: [Sch. 7 Pt. 7](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/7) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-516c8dcbea0ce23ce189336583d895ed]: Commencement: [Sch. 7 Pt. 8](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/8) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-516c8dcbea0ce23ce189336583d895ed]: Commencement: [Sch. 7 Pt. 8](https://www.legislation.gov.uk/uksi/2007/459/schedule/7/part/8) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-5864b42544914913134be70de59008a6]: Commencement: [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2007/459/schedule/8/part/1) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-5864b42544914913134be70de59008a6]: Commencement: [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2007/459/schedule/8/part/1) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-72ee801a6a1e8be060c515b7ff156367]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2007/459/schedule/8/part/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-72ee801a6a1e8be060c515b7ff156367]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2007/459/schedule/8/part/2) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-e0adeb378fbf531ca69dea838ac9862c]: Commencement: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2007/459/schedule/8/part/3) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-e0adeb378fbf531ca69dea838ac9862c]: Commencement: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2007/459/schedule/8/part/3) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-599e614331ca7f958869f3a2c767fc2c]: Commencement: [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2007/459/schedule/8/part/4) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-599e614331ca7f958869f3a2c767fc2c]: Commencement: [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2007/459/schedule/8/part/4) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-e3ab5266a99600a0166e9be16c772192]: Commencement: [Sch. 8 Pt. 5](https://www.legislation.gov.uk/uksi/2007/459/schedule/8/part/5) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-e3ab5266a99600a0166e9be16c772192]: Commencement: [Sch. 8 Pt. 5](https://www.legislation.gov.uk/uksi/2007/459/schedule/8/part/5) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-33a750b039e3535ad2e9d58f82bdb7bf]: Commencement: [Sch. 9](https://www.legislation.gov.uk/uksi/2007/459/schedule/9) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-33a750b039e3535ad2e9d58f82bdb7bf]: Commencement: [Sch. 9](https://www.legislation.gov.uk/uksi/2007/459/schedule/9) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-9beef9a39c963c29282ef5353008d73d]: Commencement: [Sch. 10](https://www.legislation.gov.uk/uksi/2007/459/schedule/10) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-9beef9a39c963c29282ef5353008d73d]: Commencement: [Sch. 10](https://www.legislation.gov.uk/uksi/2007/459/schedule/10) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
 
-[^key-51cdae379473874c15b518defd65eb89]: Commencement: [Sch. 11](https://www.legislation.gov.uk/uksi/2007/459/schedule/11) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)
+[^c-51cdae379473874c15b518defd65eb89]: Commencement: [Sch. 11](https://www.legislation.gov.uk/uksi/2007/459/schedule/11) in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/459/regulation/1/1)

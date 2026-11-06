@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Class B: pensioners whose income is greater than the applicable amount[^key-b39b8259855f676dd4ad3744d20533dd]
+## 23. Class B: pensioners whose income is greater than the applicable amount[^c-b39b8259855f676dd4ad3744d20533dd]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ On any day class B consists of any person who is a pensioner—
 
 ## Annotations
 
-[^key-b39b8259855f676dd4ad3744d20533dd]: Commencement: Reg. 23 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-b39b8259855f676dd4ad3744d20533dd]: Commencement: Reg. 23 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

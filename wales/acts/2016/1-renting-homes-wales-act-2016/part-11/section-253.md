@@ -51,9 +51,9 @@ TABLE 2
 | fundamental provision (“*darpariaeth sylfaenol*”) | section 18 (see also section 19) |
 | fundamental term (“*teler sylfaenol*”) | section 19 |
 | head landlord (“*prif landlord*”) | section 59 |
-| [^key-a7bca7661a9afe67ccaf4df499eb8d74]. . . | [^key-a7bca7661a9afe67ccaf4df499eb8d74]. . . |
+| [^c-a7bca7661a9afe67ccaf4df499eb8d74]. . . | [^c-a7bca7661a9afe67ccaf4df499eb8d74]. . . |
 | housing association (“*cymdeithas dai*”) | section 252 |
-| housing association tenancy[^key-215b8925b9e2b4582688a6ab3fd3e10a] | section 252 |
+| housing association tenancy[^c-215b8925b9e2b4582688a6ab3fd3e10a] | section 252 |
 | housing trust (“*ymddiriedolaeth dai*”) | section 252 |
 | initial requirements (in relation to an authorised deposit scheme) (“*gofynion cychwynnol (o ran cynllun blaendal awdurdodedig)*”) | section 47 |
 | introduction date (“*dyddiad cyflwyno*”) | paragraphs 1 and 2 of Schedule 4 |
@@ -73,7 +73,7 @@ TABLE 2
 | occupation date (“*dyddiad meddiannu*”) | section 245 |
 | permitted occupier (“*meddiannydd a ganiateir*”) | section 244 |
 | possession claim (”*hawliad meddiant*”) | section 149 |
-| possession notice (“*hysbysiad adennill meddiant*”) | sections 159, 161, 166, 171, 182, 188 and 192 (and see also section 150)[^key-fb8f033c87bbb960b218a5645acac040] |
+| possession notice (“*hysbysiad adennill meddiant*”) | sections 159, 161, 166, 171, 182, 188 and 192 (and see also section 150)[^c-fb8f033c87bbb960b218a5645acac040] |
 | prescribed (“*rhagnodedig*”) | section 252 |
 | priority successor (in relation to an occupation contract) (“*olynydd â blaenoriaeth (o ran contract meddiannaeth)*”) | section 83 |
 | priority successor (of a contract-holder) (“*olynydd â blaenoriaeth (i ddeiliad contract)*”) | section 75 |
@@ -109,8 +109,8 @@ TABLE 2
 
 ## Annotations
 
-[^key-a7bca7661a9afe67ccaf4df499eb8d74]: Textual amendment: Words in [s. 253](https://www.legislation.gov.uk/anaw/2016/1/section/253) Table 2 omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 16(4)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/16/4)
+[^c-a7bca7661a9afe67ccaf4df499eb8d74]: Textual amendment: Words in [s. 253](https://www.legislation.gov.uk/anaw/2016/1/section/253) Table 2 omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 16(4)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/16/4)
 
-[^key-215b8925b9e2b4582688a6ab3fd3e10a]: Textual amendment: Words in [s. 253](https://www.legislation.gov.uk/anaw/2016/1/section/253) table 2 inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Housing Association Tenancies: Fundamental Provisions) Regulations 2022 (S.I. 2022/799)](https://www.legislation.gov.uk/wsi/2022/799), [regs. 1](https://www.legislation.gov.uk/wsi/2022/799/regulation/1), [5(5)](https://www.legislation.gov.uk/wsi/2022/799/regulation/5/5) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
+[^c-215b8925b9e2b4582688a6ab3fd3e10a]: Textual amendment: Words in [s. 253](https://www.legislation.gov.uk/anaw/2016/1/section/253) table 2 inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Housing Association Tenancies: Fundamental Provisions) Regulations 2022 (S.I. 2022/799)](https://www.legislation.gov.uk/wsi/2022/799), [regs. 1](https://www.legislation.gov.uk/wsi/2022/799/regulation/1), [5(5)](https://www.legislation.gov.uk/wsi/2022/799/regulation/5/5) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [14](https://www.legislation.gov.uk/uksi/2022/906/article/14))
 
-[^key-fb8f033c87bbb960b218a5645acac040]: Textual amendment: Words in [s. 253](https://www.legislation.gov.uk/anaw/2016/1/section/253) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 20](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/20)
+[^c-fb8f033c87bbb960b218a5645acac040]: Textual amendment: Words in [s. 253](https://www.legislation.gov.uk/anaw/2016/1/section/253) substituted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 20](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/20)

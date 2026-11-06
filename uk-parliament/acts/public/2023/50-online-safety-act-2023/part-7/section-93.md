@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Duty to carry out impact assessments[^key-9606c1d3440fe905fbbcfa77644b9096]
+## 93. Duty to carry out impact assessments[^c-9606c1d3440fe905fbbcfa77644b9096]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9606c1d3440fe905fbbcfa77644b9096]: Commencement: S. 93 in force at Royal Assent, see [s. 240(4)(o)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/o)
+[^c-9606c1d3440fe905fbbcfa77644b9096]: Commencement: S. 93 in force at Royal Assent, see [s. 240(4)(o)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/o)

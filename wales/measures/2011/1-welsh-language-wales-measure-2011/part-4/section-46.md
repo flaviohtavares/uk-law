@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Imposition days[^key-cf55711f80a1e0084cf3509fb1696bcd]
+## 46. Imposition days[^c-cf55711f80a1e0084cf3509fb1696bcd]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf55711f80a1e0084cf3509fb1696bcd]: Commencement: [S. 46](https://www.legislation.gov.uk/mwa/2011/1/section/46) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-cf55711f80a1e0084cf3509fb1696bcd]: Commencement: [S. 46](https://www.legislation.gov.uk/mwa/2011/1/section/46) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

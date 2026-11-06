@@ -35,7 +35,7 @@ An Act to amend the law relating to licences under sections 4 and 4A of the Sea 
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Licensing of fishing boats.[^key-bcbe9da82aa15507f598e499e1dec217]
+## 1. Licensing of fishing boats.[^c-bcbe9da82aa15507f598e499e1dec217]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -117,7 +117,7 @@ After section 4A of the [^c860209]Sea Fish (Conservation) Act 1967 there shall b
 >
 > (2) In any proceedings in Scotland for an offence under section 4 or 4A, any document which constitutes or contains—
 >
-> - (a) an entry in any logbook kept, or purported to be kept, under an enforceable EU[^key-52c828fda83b1c693d92924622bd3d81] obligation relating to fishing activities, by the master of a vessel,
+> - (a) an entry in any logbook kept, or purported to be kept, under an enforceable EU[^c-52c828fda83b1c693d92924622bd3d81] obligation relating to fishing activities, by the master of a vessel,
 > - (b) a declaration made, or purported to be made, under such an obligation—
 >   - (i) as to fish landed, by the master of a vessel or by an agent,
 >   - (ii) as to trans-shipment, by the master of a vessel,
@@ -139,10 +139,10 @@ After section 4A of the [^c860209]Sea Fish (Conservation) Act 1967 there shall b
 
 ## 5. Penalties for offences.
 
-In section 11(1) of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-7e094aa7cecc22109bbb1b139a6018fc] [^c860210]Sea Fish (Conservation) Act 1967— *(Extent: E+W)* *(affected by repeal, see note)*[^key-7e094aa7cecc22109bbb1b139a6018fc]
+In section 11(1) of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-7e094aa7cecc22109bbb1b139a6018fc] [^c860210]Sea Fish (Conservation) Act 1967— *(Extent: E+W)* *(affected by repeal, see note)*[^c-7e094aa7cecc22109bbb1b139a6018fc]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-7e094aa7cecc22109bbb1b139a6018fc] in paragraph (a) (maximum penalty of £50,000 on summary conviction of certain offences) for the words “section 4(3), 4A(3)” there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-7e094aa7cecc22109bbb1b139a6018fc] “ section 4(3) or (6), 4A(3) or (6) ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-7e094aa7cecc22109bbb1b139a6018fc], and *(Extent: E+W)* *(affected by repeal, see note)*[^key-7e094aa7cecc22109bbb1b139a6018fc]
-- (b (Extent: E+W) (affected by repeal, see note))[^M_F_ce2dd747-6fed-40f3-9f0a-462b156528ed][^key-7e094aa7cecc22109bbb1b139a6018fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^key-7e094aa7cecc22109bbb1b139a6018fc]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-7e094aa7cecc22109bbb1b139a6018fc] in paragraph (a) (maximum penalty of £50,000 on summary conviction of certain offences) for the words “section 4(3), 4A(3)” there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-7e094aa7cecc22109bbb1b139a6018fc] “ section 4(3) or (6), 4A(3) or (6) ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-7e094aa7cecc22109bbb1b139a6018fc], and *(Extent: E+W)* *(affected by repeal, see note)*[^c-7e094aa7cecc22109bbb1b139a6018fc]
+- (b (Extent: E+W) (affected by repeal, see note))[^M_F_ce2dd747-6fed-40f3-9f0a-462b156528ed][^c-7e094aa7cecc22109bbb1b139a6018fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^c-7e094aa7cecc22109bbb1b139a6018fc]
 
 ## 6. Powers of British sea-fishery officers.
 
@@ -189,7 +189,7 @@ In section 15 of the Sea Fish (Conservation) Act 1967, after subsection (3) (und
 >
 > The Sea Fish Licence Tribunal established under section 4AA of the Sea Fish (Conservation) Act 1967 (c. 84).
 
-## 10. Review of operation of Act.[^key-1a726812a0527d641fcb92bbad1151a4]
+## 10. Review of operation of Act.[^c-1a726812a0527d641fcb92bbad1151a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -217,7 +217,7 @@ This Act may be cited as the Sea Fish (Conservation) Act 1992.
 
 [^c860204]: Commencement: Act partly in force at date of Royal Assent. Act wholly in force on 17.01.1993 (for application of s. 1(2) to certain vessels) see [s. 11(1)(2)](https://www.legislation.gov.uk/ukpga/1992/60/section/11/1/2).
 
-[^key-bcbe9da82aa15507f598e499e1dec217]: Textual amendment: S. 1 omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/9) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-bcbe9da82aa15507f598e499e1dec217]: Textual amendment: S. 1 omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/9) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c860207]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
 
@@ -225,9 +225,9 @@ This Act may be cited as the Sea Fish (Conservation) Act 1992.
 
 [^c860209]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
 
-[^key-52c828fda83b1c693d92924622bd3d81]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-52c828fda83b1c693d92924622bd3d81]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-7e094aa7cecc22109bbb1b139a6018fc]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1992/60/section/5) omitted (E.W.) (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 97](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/97) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-7e094aa7cecc22109bbb1b139a6018fc]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1992/60/section/5) omitted (E.W.) (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 97](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/97) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c860210]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
 
@@ -243,7 +243,7 @@ This Act may be cited as the Sea Fish (Conservation) Act 1992.
 
 [^c860215]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-1a726812a0527d641fcb92bbad1151a4]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1992/60/section/10) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 29](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/29)
+[^c-1a726812a0527d641fcb92bbad1151a4]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1992/60/section/10) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 29](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/29)
 
 [^c860217]: Modification: S. 11(2): transfer of functions from the Secretary of State for Scotland to the Minister of Agriculture, Fisheries and Food (15.8.2000) by [S.I. 2000/1812](https://www.legislation.gov.uk/uksi/2000/1812), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2000/1812/article/2/2/b) (with [arts. 3](https://www.legislation.gov.uk/uksi/2000/1812/article/3), [5](https://www.legislation.gov.uk/uksi/2000/1812/article/5))
 

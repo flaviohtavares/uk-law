@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Determination of the individual schools budget for the funding period and limit on increase in central expenditure[^key-df792922e270f4f527d7a7f63147f11d]
+## 8. Determination of the individual schools budget for the funding period and limit on increase in central expenditure[^c-df792922e270f4f527d7a7f63147f11d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df792922e270f4f527d7a7f63147f11d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/3104) revoked (1.4.2016) by [The School and Early Years Finance (England) Regulations 2015 (S.I. 2015/2033)](https://www.legislation.gov.uk/uksi/2015/2033), [reg. 2](https://www.legislation.gov.uk/uksi/2015/2033/regulation/2)
+[^c-df792922e270f4f527d7a7f63147f11d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/3104) revoked (1.4.2016) by [The School and Early Years Finance (England) Regulations 2015 (S.I. 2015/2033)](https://www.legislation.gov.uk/uksi/2015/2033), [reg. 2](https://www.legislation.gov.uk/uksi/2015/2033/regulation/2)

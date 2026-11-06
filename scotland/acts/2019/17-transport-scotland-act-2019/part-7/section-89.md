@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Interpretation of Part[^key-1731bc668abbfaa570b4eee04f61970b]
+## 89. Interpretation of Part[^c-1731bc668abbfaa570b4eee04f61970b]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ In this Part—
 
 ## Annotations
 
-[^key-1731bc668abbfaa570b4eee04f61970b]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2019/17/section/89) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-1731bc668abbfaa570b4eee04f61970b]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2019/17/section/89) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

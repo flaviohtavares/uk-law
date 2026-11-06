@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Approved regulators[^key-cee217cf8ba157cbcbfe60d4ae1b53e8]
+## 6. Approved regulators[^c-cee217cf8ba157cbcbfe60d4ae1b53e8]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ by regulations amend the number specified in subsection (5).
 
 ## Annotations
 
-[^key-cee217cf8ba157cbcbfe60d4ae1b53e8]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2010/16/section/6) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-cee217cf8ba157cbcbfe60d4ae1b53e8]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2010/16/section/6) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Insertion of section 29A[^key-2dfe438b492953bd39ae2ef1b4023df7]
+## 20. Insertion of section 29A[^c-2dfe438b492953bd39ae2ef1b4023df7]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ After section 29 insert—
 
 ## Annotations
 
-[^key-2dfe438b492953bd39ae2ef1b4023df7]: Commencement: Art. 20 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-2dfe438b492953bd39ae2ef1b4023df7]: Commencement: Art. 20 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

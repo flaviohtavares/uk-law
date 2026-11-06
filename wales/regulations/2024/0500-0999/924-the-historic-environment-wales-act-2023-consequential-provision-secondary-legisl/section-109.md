@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**109.**[^key-f206ea770406895b8aee4d2ee852fd51] In Schedule 2, paragraph 1—
+**109.**[^c-f206ea770406895b8aee4d2ee852fd51] In Schedule 2, paragraph 1—
 
 - (a) in the definition of “appointed representative”, for “sections 22 and 40 of, and paragraph 6A of Schedule 3 to, the Listed Buildings Act” substitute “section 178(4) of the 2023 Act”;
 - (b) in the definition of “security direction”, for “paragraph 6(6) of Schedule 3 to the Listed Buildings Act” substitute “section 178(2) of the 2023 Act”.
 
 ## Annotations
 
-[^key-f206ea770406895b8aee4d2ee852fd51]: Commencement: [Reg. 109](https://www.legislation.gov.uk/wsi/2024/924/regulation/109) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-f206ea770406895b8aee4d2ee852fd51]: Commencement: [Reg. 109](https://www.legislation.gov.uk/wsi/2024/924/regulation/109) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

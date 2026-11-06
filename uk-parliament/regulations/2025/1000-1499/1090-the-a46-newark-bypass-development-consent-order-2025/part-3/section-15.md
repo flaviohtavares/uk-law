@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Classification of roads and speed limits, etc.[^key-6991748e4426b505f1c6e5988e85abbf]
+## 15. Classification of roads and speed limits, etc.[^c-6991748e4426b505f1c6e5988e85abbf]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6991748e4426b505f1c6e5988e85abbf]: Commencement: Art. 15 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-6991748e4426b505f1c6e5988e85abbf]: Commencement: Art. 15 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00053]: Footnote: Section 10(2) was amended by section 22(2)(a) of Part 1 of the New Roads and Street Works Act 1991, and by section 1(6) and paragraph 10(2) of Schedule 1 to, the Infrastructure Act 2015.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176A. Liability of the Supplementary Fund[^key-bf7d647779d9f2d876a41c0a7ca6d362]
+## 176A. Liability of the Supplementary Fund[^c-bf7d647779d9f2d876a41c0a7ca6d362]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ The text of paragraph 1 of Article 4 of the Supplementary Fund Protocol is set o
 
 ## Annotations
 
-[^key-bf7d647779d9f2d876a41c0a7ca6d362]: Textual amendment: Ss. 176A, 176B inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [6](https://www.legislation.gov.uk/uksi/2006/1265/article/6)
+[^c-bf7d647779d9f2d876a41c0a7ca6d362]: Textual amendment: Ss. 176A, 176B inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [6](https://www.legislation.gov.uk/uksi/2006/1265/article/6)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation applies if—
 
-- (a)[^key-a48cb031eacb1ef79105e56150540be2] under—
+- (a)[^c-a48cb031eacb1ef79105e56150540be2] under—
   - (i) regulation 135 or 136, in the case of a THR(GB);
   - (ii) regulation 135 or 136 or Article 34(3) of the 2001 Directive, in the case of a THR(NI) or THR(UK),
 
@@ -46,4 +46,4 @@ within the time and for the period specified in the notice.
 
 ## Annotations
 
-[^key-a48cb031eacb1ef79105e56150540be2]: Textual amendment: Reg. 140(1)(a) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 123](https://www.legislation.gov.uk/uksi/2019/775/regulation/123) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 93](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/93)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a48cb031eacb1ef79105e56150540be2]: Textual amendment: Reg. 140(1)(a) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 123](https://www.legislation.gov.uk/uksi/2019/775/regulation/123) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 93](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/93)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

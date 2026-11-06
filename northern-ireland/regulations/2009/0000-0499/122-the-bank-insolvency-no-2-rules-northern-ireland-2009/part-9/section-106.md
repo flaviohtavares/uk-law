@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 106. Replacement Bank liquidator[^key-8679b7163d15b23d2ed2a21703b87ead]
+## 106. Replacement Bank liquidator[^c-8679b7163d15b23d2ed2a21703b87ead]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8679b7163d15b23d2ed2a21703b87ead]: Commencement: Rule 106 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-8679b7163d15b23d2ed2a21703b87ead]: Commencement: Rule 106 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

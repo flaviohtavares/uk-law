@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Procedure and time limits[^key-81ba6cdaa2d9f935ee6b704597d15a85]
+## 38. Procedure and time limits[^c-81ba6cdaa2d9f935ee6b704597d15a85]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81ba6cdaa2d9f935ee6b704597d15a85]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/12/section/38) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-81ba6cdaa2d9f935ee6b704597d15a85]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/12/section/38) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

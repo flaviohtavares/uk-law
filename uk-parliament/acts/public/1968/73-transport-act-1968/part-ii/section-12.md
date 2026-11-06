@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The provisions of this section shall have effect with respect to borrowing by the Executive for an integrated transport area *(Extent: E+W)*[^key-8d71b9f438f9b80d6dd3a059175d17e4] , a combined authority area[^key-4465928369951b333cf70f12472120a4] *(Extent: E+W)* , a combined county authority area[^key-52fcbb8a9eb36db0eaf722a82be97f37] *(Extent: E+W)* or *(Extent: E+W)* a designated[^c15311601] passenger transport area.
+(1) The provisions of this section shall have effect with respect to borrowing by the Executive for an integrated transport area *(Extent: E+W)*[^c-8d71b9f438f9b80d6dd3a059175d17e4] , a combined authority area[^c-4465928369951b333cf70f12472120a4] *(Extent: E+W)* , a combined county authority area[^c-52fcbb8a9eb36db0eaf722a82be97f37] *(Extent: E+W)* or *(Extent: E+W)* a designated[^c15311601] passenger transport area.
 
 (2)[^c15311621] The Executive may borrow temporarily, by way of overdraft or otherwise, from any person such sums as they may require for meeting their obligations and discharging their functions under this Part of this Act; but the Executive shall ensure that the aggregate of the amounts outstanding in respect of any temporary loans raised by thg Executive under this subsection or raised by any subsidiary of the Executive does not at any time exceed such amount as the Authority for the area may for the time being have approved.
 
@@ -52,18 +52,18 @@ and the Executive shall exercise their control over any subsidiary of theirs so 
 - (a) the enactments relating to loans by or borrowing from the Public Works Loan Commissioners;
 - (b)[^c15311711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-7dac67aab87a3585715efbd10fa1bbec] This section does not apply to—
+(8)[^c-7dac67aab87a3585715efbd10fa1bbec] This section does not apply to—
 
 - (a) the West Yorkshire Combined Authority, or
 - (b) the West Midlands Combined Authority.
 
 ## Annotations
 
-[^key-8d71b9f438f9b80d6dd3a059175d17e4]: Textual amendment: Words in s. 12(1) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/5); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-8d71b9f438f9b80d6dd3a059175d17e4]: Textual amendment: Words in s. 12(1) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/5); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-4465928369951b333cf70f12472120a4]: Textual amendment: Words in s. 12(1) inserted (1.4.2014) by [The Combined Authorities (Consequential Amendments) Order 2014 (S.I. 2014/866)](https://www.legislation.gov.uk/uksi/2014/866), [art. 1](https://www.legislation.gov.uk/uksi/2014/866/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2014/866/schedule/paragraph/6)
+[^c-4465928369951b333cf70f12472120a4]: Textual amendment: Words in s. 12(1) inserted (1.4.2014) by [The Combined Authorities (Consequential Amendments) Order 2014 (S.I. 2014/866)](https://www.legislation.gov.uk/uksi/2014/866), [art. 1](https://www.legislation.gov.uk/uksi/2014/866/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2014/866/schedule/paragraph/6)
 
-[^key-52fcbb8a9eb36db0eaf722a82be97f37]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/1968/73/section/12/1) inserted (E.W.) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/12) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-52fcbb8a9eb36db0eaf722a82be97f37]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/1968/73/section/12/1) inserted (E.W.) (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/12) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c15311601]: Textual amendment: Words substituted (E.W.S.) by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [S. 57(6)](https://www.legislation.gov.uk/ukpga/1985/67/section/57/6), [Sch. 3 para 2](https://www.legislation.gov.uk/ukpga/1985/67/schedule/3/paragraph/2)(*a*)
 
@@ -85,4 +85,4 @@ and the Executive shall exercise their control over any subsidiary of theirs so 
 
 [^c15311711]: Marginal citation: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30)
 
-[^key-7dac67aab87a3585715efbd10fa1bbec]: Textual amendment: [S. 12(8)](https://www.legislation.gov.uk/ukpga/1968/73/section/12/8) substituted (E.W.) (17.6.2016) by [The West Midlands Combined Authority Order 2016 (S.I. 2016/653)](https://www.legislation.gov.uk/uksi/2016/653), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2016/653/schedule/2/paragraph/6)
+[^c-7dac67aab87a3585715efbd10fa1bbec]: Textual amendment: [S. 12(8)](https://www.legislation.gov.uk/ukpga/1968/73/section/12/8) substituted (E.W.) (17.6.2016) by [The West Midlands Combined Authority Order 2016 (S.I. 2016/653)](https://www.legislation.gov.uk/uksi/2016/653), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2016/653/schedule/2/paragraph/6)

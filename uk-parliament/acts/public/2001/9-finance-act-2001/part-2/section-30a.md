@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Transitional tax credit in Northern Ireland[^key-218e36a8b5cd272883e1689e7abecdbb]
+## 30A. Transitional tax credit in Northern Ireland[^c-218e36a8b5cd272883e1689e7abecdbb]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Commissioners may by regulations make provision of the kind described in section 30(2) above (entitlement to tax credit) in relation to cases within subsection (2) below.
 
-(2)[^key-b9e580f6d6c25af3c7a71912cfb181f6] The cases are those where a charge to aggregates levy has arisen on a quantity of aggregate which has been subjected to commercial exploitation during a prescribed period.
+(2)[^c-b9e580f6d6c25af3c7a71912cfb181f6] The cases are those where a charge to aggregates levy has arisen on a quantity of aggregate which has been subjected to commercial exploitation during a prescribed period.
 
-(3)[^key-24b6bca7649a3e990d3da6817822c6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-24b6bca7649a3e990d3da6817822c6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The amount of a tax credit to which a person is entitled under the regulations must not be more than 80% of any aggregates levy charged on the aggregate in question.
 
 (5) Regulations under this section may in particular make provision—
 
-- (a)[^key-4554eeadd48ad5b54e3a63e455b5d9c4] for a person to be entitled to a tax credit under the regulations in respect of aggregate originating from a site in respect of which any person holds an aggregates levy credit certificate which has not been withdrawn;
+- (a)[^c-4554eeadd48ad5b54e3a63e455b5d9c4] for a person to be entitled to a tax credit under the regulations in respect of aggregate originating from a site in respect of which any person holds an aggregates levy credit certificate which has not been withdrawn;
 - (b) for an aggregates levy credit certificate to be issued to a person in respect of a site only if an aggregates levy credit agreement is in force in respect of the site;
 - (c) for the withdrawal of an aggregates levy credit certificate where the aggregates levy credit agreement in respect of which it was issued is no longer in force;
 - (d) for the form and content of aggregates levy credit certificates and aggregates levy credit agreements.
@@ -61,10 +61,10 @@ summary: ''
 
 ## Annotations
 
-[^key-218e36a8b5cd272883e1689e7abecdbb]: Textual amendment: S. 30A substituted (23.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 291(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/291/2)[(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/291/4)[(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/291/5); [S.I. 2004/1942](https://www.legislation.gov.uk/uksi/2004/1942), [art. 2](https://www.legislation.gov.uk/uksi/2004/1942/article/2)
+[^c-218e36a8b5cd272883e1689e7abecdbb]: Textual amendment: S. 30A substituted (23.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 291(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/291/2)[(4)](https://www.legislation.gov.uk/ukpga/2004/12/section/291/4)[(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/291/5); [S.I. 2004/1942](https://www.legislation.gov.uk/uksi/2004/1942), [art. 2](https://www.legislation.gov.uk/uksi/2004/1942/article/2)
 
-[^key-b9e580f6d6c25af3c7a71912cfb181f6]: Textual amendment: S. 30A(2) substituted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/81/2)
+[^c-b9e580f6d6c25af3c7a71912cfb181f6]: Textual amendment: S. 30A(2) substituted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/81/2)
 
-[^key-24b6bca7649a3e990d3da6817822c6d8]: Textual amendment: S. 30A(3) omitted (19.7.2011) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 81(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/81/3)
+[^c-24b6bca7649a3e990d3da6817822c6d8]: Textual amendment: S. 30A(3) omitted (19.7.2011) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 81(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/81/3)
 
-[^key-4554eeadd48ad5b54e3a63e455b5d9c4]: Textual amendment: S. 30A(5)(a) substituted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 81(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/81/4)
+[^c-4554eeadd48ad5b54e3a63e455b5d9c4]: Textual amendment: S. 30A(5)(a) substituted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 81(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/81/4)

@@ -28,16 +28,16 @@ summary: ''
 - (f) intended to meet the cost of books and equipment;
 - (g) intended to meet travel expenses incurred as a result of his attendance on the course;
 - (h) intended for the child care costs of a child dependant.
-- (i)[^key-15831962e412ed36da3f02f218974ceb] of higher education bursary for care leavers made under Part III of the Children Act 1989.
+- (i)[^c-15831962e412ed36da3f02f218974ceb] of higher education bursary for care leavers made under Part III of the Children Act 1989.
 
 (3) Where a student does not have a student loan and is not treated as possessing such a loan, there shall be excluded from the student's grant income—
 
-- (a) the sum of £303[^M_F_bccaf2e3-74cb-4a69-c607-e490966a0b1a] per academic year[^key-4a8775496c1db46205fd3d2c55ec1b1c] in respect of travel costs; and
-- (b) the sum of £390[^M_F_442de146-dd8d-4232-a2eb-e268a832f02e] per academic year[^key-203c187b0c51935e13a24b9ea0a85e6a] towards the costs of books and equipment,
+- (a) the sum of £303[^M_F_bccaf2e3-74cb-4a69-c607-e490966a0b1a] per academic year[^c-4a8775496c1db46205fd3d2c55ec1b1c] in respect of travel costs; and
+- (b) the sum of £390[^M_F_442de146-dd8d-4232-a2eb-e268a832f02e] per academic year[^c-203c187b0c51935e13a24b9ea0a85e6a] towards the costs of books and equipment,
 
 whether or not any such costs are incurred.
 
-(4)[^key-bc706effd59f34a1956a7cd04a37a2bf] There shall also be excluded from a student’s grant income the grant for dependants known as the parents' learning allowance paid pursuant to regulations made under Article 3 of the Education (Student Support) (Northern Ireland) Order 1998 or section 22 of the Teaching and Higher Education Act 1998.
+(4)[^c-bc706effd59f34a1956a7cd04a37a2bf] There shall also be excluded from a student’s grant income the grant for dependants known as the parents' learning allowance paid pursuant to regulations made under Article 3 of the Education (Student Support) (Northern Ireland) Order 1998 or section 22 of the Teaching and Higher Education Act 1998.
 
 (5) Subject to paragraphs (6) and (7), a student's grant income shall be apportioned—
 
@@ -52,17 +52,17 @@ whether or not any such costs are incurred.
 
 ## Annotations
 
-[^key-15831962e412ed36da3f02f218974ceb]: Textual amendment: [Reg. 46(2)(i)](https://www.legislation.gov.uk/uksi/2006/215/regulation/46/2/i) added (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2009/583/regulation/8/8)
+[^c-15831962e412ed36da3f02f218974ceb]: Textual amendment: [Reg. 46(2)(i)](https://www.legislation.gov.uk/uksi/2006/215/regulation/46/2/i) added (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2009/583/regulation/8/8)
 
 [^M_F_bccaf2e3-74cb-4a69-c607-e490966a0b1a]: Textual amendment: Sum in reg. 46(3)(a) substituted (1.8.2009 for specified purposes and 1.9.2009 otherwise) by [The Social Security (Students and Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1575)](https://www.legislation.gov.uk/uksi/2009/1575), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/1575/regulation/1/3), [2(3)(4)](https://www.legislation.gov.uk/uksi/2009/1575/regulation/2/3)
 
-[^key-4a8775496c1db46205fd3d2c55ec1b1c]: Textual amendment: Words in [reg. 46(3)(a)](https://www.legislation.gov.uk/uksi/2006/215/regulation/46/3/a) substituted (1.8.2007 for specified purposes and 1.9.2007 otherwise) by [Social Security (Students and Income-related Benefits) Amendment Regulations 2007 (S.I. 2007/1632)](https://www.legislation.gov.uk/uksi/2007/1632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/1/3), [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/5/2/a)
+[^c-4a8775496c1db46205fd3d2c55ec1b1c]: Textual amendment: Words in [reg. 46(3)(a)](https://www.legislation.gov.uk/uksi/2006/215/regulation/46/3/a) substituted (1.8.2007 for specified purposes and 1.9.2007 otherwise) by [Social Security (Students and Income-related Benefits) Amendment Regulations 2007 (S.I. 2007/1632)](https://www.legislation.gov.uk/uksi/2007/1632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/1/3), [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/5/2/a)
 
 [^M_F_442de146-dd8d-4232-a2eb-e268a832f02e]: Textual amendment: Sum in reg. 46(3)(b) substituted (1.8.2009 for specified purposes and 1.9.2009 otherwise) by [The Social Security (Students and Miscellaneous Amendments) Regulations 2009 (S.I. 2009/1575)](https://www.legislation.gov.uk/uksi/2009/1575), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/1575/regulation/1/3), [2(2)(4)](https://www.legislation.gov.uk/uksi/2009/1575/regulation/2/2)
 
-[^key-203c187b0c51935e13a24b9ea0a85e6a]: Textual amendment: Words in [reg. 46(3)(b)](https://www.legislation.gov.uk/uksi/2006/215/regulation/46/3/b) substituted (1.8.2007 for specified purposes and 1.9.2007 otherwise) by [Social Security (Students and Income-related Benefits) Amendment Regulations 2007 (S.I. 2007/1632)](https://www.legislation.gov.uk/uksi/2007/1632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/5/2/b)
+[^c-203c187b0c51935e13a24b9ea0a85e6a]: Textual amendment: Words in [reg. 46(3)(b)](https://www.legislation.gov.uk/uksi/2006/215/regulation/46/3/b) substituted (1.8.2007 for specified purposes and 1.9.2007 otherwise) by [Social Security (Students and Income-related Benefits) Amendment Regulations 2007 (S.I. 2007/1632)](https://www.legislation.gov.uk/uksi/2007/1632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2007/1632/regulation/5/2/b)
 
-[^key-bc706effd59f34a1956a7cd04a37a2bf]: Textual amendment: Reg. 46(4) substituted (1.8.2006 for specified purposes and 1.9.2006 otherwise) by [The Social Security (Students and Income-related Benefits) Amendment Regulations 2006 (S.I. 2006/1752)](https://www.legislation.gov.uk/uksi/2006/1752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1752/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2006/1752/regulation/2/3)
+[^c-bc706effd59f34a1956a7cd04a37a2bf]: Textual amendment: Reg. 46(4) substituted (1.8.2006 for specified purposes and 1.9.2006 otherwise) by [The Social Security (Students and Income-related Benefits) Amendment Regulations 2006 (S.I. 2006/1752)](https://www.legislation.gov.uk/uksi/2006/1752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1752/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2006/1752/regulation/2/3)
 
 [^c1541341]: Marginal citation: [1968 c. 46](https://www.legislation.gov.uk/ukpga/1968/46).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Proceedings of district salmon fishery boards[^key-36888874420cb1e7255672266854d05c]
+## 46. Proceedings of district salmon fishery boards[^c-36888874420cb1e7255672266854d05c]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36888874420cb1e7255672266854d05c]: Commencement: S. 46 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-36888874420cb1e7255672266854d05c]: Commencement: S. 46 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

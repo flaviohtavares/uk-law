@@ -24,7 +24,7 @@ summary: ''
 
 - (a) must be given in writing to an officer of Revenue and Customs,
 - (b) must be given before the date specified in the notice,
-- (c) must be accompanied by a statement by the company giving the notice that each of conditions A, B, C, E and F[^key-da77d6c239a240895872a4face6cdc3b] in section 528 (conditions for company) is reasonably expected to be met in relation to the company throughout accounting period 1, and
+- (c) must be accompanied by a statement by the company giving the notice that each of conditions A, B, C, E and F[^c-da77d6c239a240895872a4face6cdc3b] in section 528 (conditions for company) is reasonably expected to be met in relation to the company throughout accounting period 1, and
 - (d) must contain such other information, and be accompanied by such other documents, as may be prescribed by regulations made by the Commissioners for Her Majesty's Revenue and Customs.
 
 (2) Subsection (3) applies if the company giving the notice—
@@ -39,23 +39,23 @@ summary: ''
 
 (4) Those assertions are—
 
-- (a) that conditions A, B, [^key-d079c7121d44c55ed390fc870cd35f6b]... E and F in section 528 are reasonably expected to be met in relation to the company throughout accounting period 1, and
+- (a) that conditions A, B, [^c-d079c7121d44c55ed390fc870cd35f6b]... E and F in section 528 are reasonably expected to be met in relation to the company throughout accounting period 1, and
 - (b) that condition C in that section is reasonably expected to be met in relation to the company for at least a part of the first day of accounting period 1, and throughout the remainder of the period.
 
-(5)[^key-7c1ba3d9de92a19e70144ab7f50b3069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7c1ba3d9de92a19e70144ab7f50b3069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-7c1ba3d9de92a19e70144ab7f50b3069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7c1ba3d9de92a19e70144ab7f50b3069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-7c1ba3d9de92a19e70144ab7f50b3069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-7c1ba3d9de92a19e70144ab7f50b3069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-7c1ba3d9de92a19e70144ab7f50b3069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-7c1ba3d9de92a19e70144ab7f50b3069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) For the meaning of “accounting period 1”, see section 609.
 
 ## Annotations
 
-[^key-da77d6c239a240895872a4face6cdc3b]: Textual amendment: Words in s. 525(1)(c) substituted (with effect in accordance with Sch. 4 para. 13(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/2/2)
+[^c-da77d6c239a240895872a4face6cdc3b]: Textual amendment: Words in s. 525(1)(c) substituted (with effect in accordance with Sch. 4 para. 13(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/2/2)
 
-[^key-d079c7121d44c55ed390fc870cd35f6b]: Textual amendment: Word in s. 525(4)(a) omitted (with effect in accordance with Sch. 4 para. 13(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/2/3)
+[^c-d079c7121d44c55ed390fc870cd35f6b]: Textual amendment: Word in s. 525(4)(a) omitted (with effect in accordance with Sch. 4 para. 13(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/2/3)
 
-[^key-7c1ba3d9de92a19e70144ab7f50b3069]: Textual amendment: S. 525(5)-(8) omitted (with effect in accordance with Sch. 4 para. 13(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/2/4)
+[^c-7c1ba3d9de92a19e70144ab7f50b3069]: Textual amendment: S. 525(5)-(8) omitted (with effect in accordance with Sch. 4 para. 13(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/2/4)

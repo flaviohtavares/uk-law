@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 386. Enforcement of company's filing obligations[^key-939eccd6883b9cc9bc0390377ac16bce][^c21831901][^c21113501]
+## 386. Enforcement of company's filing obligations[^c-939eccd6883b9cc9bc0390377ac16bce][^c21831901][^c21113501]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-939eccd6883b9cc9bc0390377ac16bce]: Modification: [Arts. 384-386](https://www.legislation.gov.uk/nisi/1989/2405/article/384) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-939eccd6883b9cc9bc0390377ac16bce]: Modification: [Arts. 384-386](https://www.legislation.gov.uk/nisi/1989/2405/article/384) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
 [^c21831901]: Textual amendment: [Arts. 386](https://www.legislation.gov.uk/nisi/1989/2405/article/386), [387](https://www.legislation.gov.uk/nisi/1989/2405/article/387) inserted (1.10.2009) by [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [8](https://www.legislation.gov.uk/uksi/2009/1941/article/8), [Sch. 1 para. 115](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/115) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 

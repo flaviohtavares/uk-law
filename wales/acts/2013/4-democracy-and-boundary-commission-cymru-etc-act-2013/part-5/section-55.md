@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Community council websites[^key-220712fc9b44503dbb3e9f2f17b587e7]
+## 55. Community council websites[^c-220712fc9b44503dbb3e9f2f17b587e7]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-220712fc9b44503dbb3e9f2f17b587e7]: Commencement: S. 55 in force at 1.5.2015 by [S.I. 2015/1182](https://www.legislation.gov.uk/wsi/2015/1182), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1182/article/2/a)
+[^c-220712fc9b44503dbb3e9f2f17b587e7]: Commencement: S. 55 in force at 1.5.2015 by [S.I. 2015/1182](https://www.legislation.gov.uk/wsi/2015/1182), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1182/article/2/a)

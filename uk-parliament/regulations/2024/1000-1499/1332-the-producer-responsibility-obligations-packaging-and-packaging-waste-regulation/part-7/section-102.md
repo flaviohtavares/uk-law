@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Packaging supplied by licensors and their licensees, and by pub operating businesses and their tenants[^key-f2e18d752ae59db8c92e327e218a511a]
+## 102. Packaging supplied by licensors and their licensees, and by pub operating businesses and their tenants[^c-f2e18d752ae59db8c92e327e218a511a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2e18d752ae59db8c92e327e218a511a]: Commencement: Reg. 102 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-f2e18d752ae59db8c92e327e218a511a]: Commencement: Reg. 102 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

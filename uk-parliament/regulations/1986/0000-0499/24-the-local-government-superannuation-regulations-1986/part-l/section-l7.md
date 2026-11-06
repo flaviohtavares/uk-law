@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## L7. The relevant body[^key-4270912f4f636382f53f0f8701f9427b]
+## L7. The relevant body[^c-4270912f4f636382f53f0f8701f9427b]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4270912f4f636382f53f0f8701f9427b]: Commencement: [Reg. L7](https://www.legislation.gov.uk/uksi/1986/24/regulation/L7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-4270912f4f636382f53f0f8701f9427b]: Commencement: [Reg. L7](https://www.legislation.gov.uk/uksi/1986/24/regulation/L7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

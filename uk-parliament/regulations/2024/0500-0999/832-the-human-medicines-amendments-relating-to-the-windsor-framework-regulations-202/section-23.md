@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Amendment to regulation 45F[^key-8cacfb93795768b0525e3db82eb4d328]
+## 23. Amendment to regulation 45F[^c-8cacfb93795768b0525e3db82eb4d328]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ In regulation 45F (provision of information)[^f00030], in paragraph (1), for sub
 
 ## Annotations
 
-[^key-8cacfb93795768b0525e3db82eb4d328]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2024/832/regulation/23) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-8cacfb93795768b0525e3db82eb4d328]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2024/832/regulation/23) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00030]: Footnote: Regulation 45F was inserted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

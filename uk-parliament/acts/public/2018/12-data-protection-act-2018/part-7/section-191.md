@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Framework for Data Processing by Government[^c23269191][^key-989b498271c18a95f66ed51054086cd6]
+## 191. Framework for Data Processing by Government[^c23269191][^c-989b498271c18a95f66ed51054086cd6]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) Before preparing a document or amendments under this section, the Secretary of State must consult—
 
-- (a) the Commission[^key-e40fa560fff3168a9314af483bcd0a08], and
+- (a) the Commission[^c-e40fa560fff3168a9314af483bcd0a08], and
 - (b) any other person the Secretary of State considers it appropriate to consult.
 
 (6) Regulations under subsection (1)(b) are subject to the negative resolution procedure.
@@ -44,6 +44,6 @@ summary: ''
 
 [^c23269191]: Commencement: S. 191 in force at Royal Assent for specified purposes, see [s. 212(2)(f)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/2/f)
 
-[^key-989b498271c18a95f66ed51054086cd6]: Commencement: S. 191 in force at 23.7.2018 in so far as not already in force by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2018/625/regulation/3/h)
+[^c-989b498271c18a95f66ed51054086cd6]: Commencement: S. 191 in force at 23.7.2018 in so far as not already in force by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2018/625/regulation/3/h)
 
-[^key-e40fa560fff3168a9314af483bcd0a08]: Textual amendment: Word in s. 191(5)(a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-e40fa560fff3168a9314af483bcd0a08]: Textual amendment: Word in s. 191(5)(a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

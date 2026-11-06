@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Construction and maintenance of new or altered means of access[^key-b716635a7ee73387b50699493d8389d4]
+## 9. Construction and maintenance of new or altered means of access[^c-b716635a7ee73387b50699493d8389d4]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b716635a7ee73387b50699493d8389d4]: Commencement: Art. 9 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-b716635a7ee73387b50699493d8389d4]: Commencement: Art. 9 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

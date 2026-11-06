@@ -36,11 +36,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Contents
 
-### Part 1 — Assignation[^key-d70f3958abcd6e5960edc40090b4f363]
+### Part 1 — Assignation[^c-d70f3958abcd6e5960edc40090b4f363]
 
 *Extent: S*
 
-#### Chapter 1 — Assignation of claims, protection of debtors and related matters[^key-d70f3958abcd6e5960edc40090b4f363]
+#### Chapter 1 — Assignation of claims, protection of debtors and related matters[^c-d70f3958abcd6e5960edc40090b4f363]
 
 *Extent: S*
 
@@ -87,7 +87,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 18 — Saving as respects International Interests in Aircraft Equipment (Cape Town Convention) Regulations 2015](part-1/section-18.md)
 
-#### Chapter 2 — Register of Assignations[^key-d70f3958abcd6e5960edc40090b4f363]
+#### Chapter 2 — Register of Assignations[^c-d70f3958abcd6e5960edc40090b4f363]
 
 *Extent: S*
 
@@ -157,7 +157,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 39 — Rules](part-1/section-39.md)
 
-#### Chapter 3 — Miscellaneous and interpretation of Part 1[^key-d70f3958abcd6e5960edc40090b4f363]
+#### Chapter 3 — Miscellaneous and interpretation of Part 1[^c-d70f3958abcd6e5960edc40090b4f363]
 
 *Extent: S*
 
@@ -173,11 +173,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 41 — Interpretation of Part 1](part-1/section-41.md)
 
-### Part 2 — Security over Moveable Property[^key-7b42558dc607329ea231e134b27c67bb]
+### Part 2 — Security over Moveable Property[^c-7b42558dc607329ea231e134b27c67bb]
 
 *Extent: S*
 
-#### Chapter 1 — Pledge[^key-7b42558dc607329ea231e134b27c67bb]
+#### Chapter 1 — Pledge[^c-7b42558dc607329ea231e134b27c67bb]
 
 *Extent: S*
 
@@ -270,7 +270,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 80 — Service of documents for purposes of this Chapter](part-2/section-80.md)
 
-#### Chapter 2 — Register of Statutory Pledges[^key-7b42558dc607329ea231e134b27c67bb]
+#### Chapter 2 — Register of Statutory Pledges[^c-7b42558dc607329ea231e134b27c67bb]
 
 *Extent: S*
 
@@ -355,7 +355,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 111 — Rules](part-2/section-111.md)
 
-#### Chapter 3 — Miscellaneous and Interpretation of Part 2[^key-7b42558dc607329ea231e134b27c67bb]
+#### Chapter 3 — Miscellaneous and Interpretation of Part 2[^c-7b42558dc607329ea231e134b27c67bb]
 
 *Extent: S*
 
@@ -411,6 +411,6 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-d70f3958abcd6e5960edc40090b4f363]: Modification: Pt. 1 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/275/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/275/article/4), [20](https://www.legislation.gov.uk/uksi/2025/275/article/20))
+[^c-d70f3958abcd6e5960edc40090b4f363]: Modification: Pt. 1 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/275/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/275/article/4), [20](https://www.legislation.gov.uk/uksi/2025/275/article/20))
 
-[^key-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
+[^c-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))

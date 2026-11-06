@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-c5ea7c8272476ded91806237efb2f39b][^key-05c132e7f72f2e74f29ba6c5c969ae55][^key-f53fa88871edb3404a140617f5cd7c24][^key-23f629d26ccbc04b7071f8ccb5f85338][^key-1eb106f234e53adebf2575a4449d2d94][^key-22da2d3fd73fb53bc1199fc877798c73][^key-ed20e6fb0224a368985b4a460f00c216][^key-82c80c1b0522ee0632f8e6267271b7bd][^key-67db4efc02282fd1090b3361199f3122][^key-9e20f03ad699d2fc0374c09157ab33b4][^key-3863c0407ebd98e52f061a0ff7aa8938] Schedule 9 (consequential amendments) has effect.
+(1)[^c-c5ea7c8272476ded91806237efb2f39b][^c-05c132e7f72f2e74f29ba6c5c969ae55][^c-f53fa88871edb3404a140617f5cd7c24][^c-23f629d26ccbc04b7071f8ccb5f85338][^c-1eb106f234e53adebf2575a4449d2d94][^c-22da2d3fd73fb53bc1199fc877798c73][^c-ed20e6fb0224a368985b4a460f00c216][^c-82c80c1b0522ee0632f8e6267271b7bd][^c-67db4efc02282fd1090b3361199f3122][^c-9e20f03ad699d2fc0374c09157ab33b4][^c-3863c0407ebd98e52f061a0ff7aa8938] Schedule 9 (consequential amendments) has effect.
 
-(2)[^key-1d889705726eca5948747554d93acacc][^key-2df94d2756098dfb8fc3454489d9df53][^key-785c00110f7ba9dbc73a9a93080c8d2b][^key-33ff8d4e717d7aaa25c977f8230ad277][^key-b8f137d50318e54aa270d75125c21da6][^key-cb5153d8ec95e283fa6381c2bd5cad1b][^key-c6cebcfd949d9ffa225dc17bce8359d7][^key-12a71610828edd9e10e116935e7f8e89] The provisions listed in Schedule 10 are repealed or (as the case may be) revoked to the extent specified.
+(2)[^c-1d889705726eca5948747554d93acacc][^c-2df94d2756098dfb8fc3454489d9df53][^c-785c00110f7ba9dbc73a9a93080c8d2b][^c-33ff8d4e717d7aaa25c977f8230ad277][^c-b8f137d50318e54aa270d75125c21da6][^c-cb5153d8ec95e283fa6381c2bd5cad1b][^c-c6cebcfd949d9ffa225dc17bce8359d7][^c-12a71610828edd9e10e116935e7f8e89] The provisions listed in Schedule 10 are repealed or (as the case may be) revoked to the extent specified.
 
 (3) The Secretary of State may by order make such provision as the Secretary of State considers appropriate in consequence of this Act.
 
@@ -49,40 +49,40 @@ summary: ''
 
 [^c2142436]: Commencement: S. 115 partly in force; s. 115(3)-(7) wholly in force at Royal Assent, s. 115(1)(2) in force at Royal Assent for certain purposes and s. 115(2) in force at 1.7.2012 for certain further purposes see s. 120(1)(4)(b)(5)(b)(c)
 
-[^key-c5ea7c8272476ded91806237efb2f39b]: Commencement: S. 115(1) in force at 1.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(y)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/y)
+[^c-c5ea7c8272476ded91806237efb2f39b]: Commencement: S. 115(1) in force at 1.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(y)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/y)
 
-[^key-05c132e7f72f2e74f29ba6c5c969ae55]: Commencement: S. 115(1) in force at 10.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(i)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/i)
+[^c-05c132e7f72f2e74f29ba6c5c969ae55]: Commencement: S. 115(1) in force at 10.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(i)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/i)
 
-[^key-f53fa88871edb3404a140617f5cd7c24]: Commencement: S. 115(1) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(x)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/x)
+[^c-f53fa88871edb3404a140617f5cd7c24]: Commencement: S. 115(1) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(x)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/x)
 
-[^key-23f629d26ccbc04b7071f8ccb5f85338]: Commencement: S. 115(1) in force at 1.10.2012 for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(n)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/n)
+[^c-23f629d26ccbc04b7071f8ccb5f85338]: Commencement: S. 115(1) in force at 1.10.2012 for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(n)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/n)
 
-[^key-1eb106f234e53adebf2575a4449d2d94]: Commencement: S. 115(1) in force at 1.10.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(d)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/d)
+[^c-1eb106f234e53adebf2575a4449d2d94]: Commencement: S. 115(1) in force at 1.10.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(d)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/d)
 
-[^key-22da2d3fd73fb53bc1199fc877798c73]: Commencement: S. 115(1) in force at 15.10.2012 for specified purposes by [S.I. 2012/2521](https://www.legislation.gov.uk/uksi/2012/2521), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2521/article/2/c)
+[^c-22da2d3fd73fb53bc1199fc877798c73]: Commencement: S. 115(1) in force at 15.10.2012 for specified purposes by [S.I. 2012/2521](https://www.legislation.gov.uk/uksi/2012/2521), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2521/article/2/c)
 
-[^key-ed20e6fb0224a368985b4a460f00c216]: Commencement: S. 115(1) in force at 1.11.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/2075/article/4/c)
+[^c-ed20e6fb0224a368985b4a460f00c216]: Commencement: S. 115(1) in force at 1.11.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/2075/article/4/c)
 
-[^key-82c80c1b0522ee0632f8e6267271b7bd]: Commencement: S. 115(1) in force at 25.11.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/c)
+[^c-82c80c1b0522ee0632f8e6267271b7bd]: Commencement: S. 115(1) in force at 25.11.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/c)
 
-[^key-67db4efc02282fd1090b3361199f3122]: Commencement: S. 115(1) in force at 6.4.2013 for specified purposes by [S.I. 2013/470](https://www.legislation.gov.uk/uksi/2013/470), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/470/article/2/c) (with [arts. 3(b)](https://www.legislation.gov.uk/uksi/2013/470/article/3/b), [5-8](https://www.legislation.gov.uk/uksi/2013/470/article/5))
+[^c-67db4efc02282fd1090b3361199f3122]: Commencement: S. 115(1) in force at 6.4.2013 for specified purposes by [S.I. 2013/470](https://www.legislation.gov.uk/uksi/2013/470), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/470/article/2/c) (with [arts. 3(b)](https://www.legislation.gov.uk/uksi/2013/470/article/3/b), [5-8](https://www.legislation.gov.uk/uksi/2013/470/article/5))
 
-[^key-9e20f03ad699d2fc0374c09157ab33b4]: Commencement: S. 115(1) in force at 17.6.2013 for specified purposes for E.W. by [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/c)
+[^c-9e20f03ad699d2fc0374c09157ab33b4]: Commencement: S. 115(1) in force at 17.6.2013 for specified purposes for E.W. by [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/c)
 
-[^key-3863c0407ebd98e52f061a0ff7aa8938]: Commencement: S. 115(1) in force at 31.10.2013 for specified purposes by [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/a)
+[^c-3863c0407ebd98e52f061a0ff7aa8938]: Commencement: S. 115(1) in force at 31.10.2013 for specified purposes by [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/a)
 
-[^key-1d889705726eca5948747554d93acacc]: Commencement: S. 115(2) in force at 1.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(z)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/z)
+[^c-1d889705726eca5948747554d93acacc]: Commencement: S. 115(2) in force at 1.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(z)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/z)
 
-[^key-2df94d2756098dfb8fc3454489d9df53]: Commencement: S. 115(2) in force at 10.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(j)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/j)
+[^c-2df94d2756098dfb8fc3454489d9df53]: Commencement: S. 115(2) in force at 10.7.2012 for specified purposes by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(j)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/j)
 
-[^key-785c00110f7ba9dbc73a9a93080c8d2b]: Commencement: S. 115(2) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(y)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/y)
+[^c-785c00110f7ba9dbc73a9a93080c8d2b]: Commencement: S. 115(2) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(y)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/y)
 
-[^key-33ff8d4e717d7aaa25c977f8230ad277]: Commencement: S. 115(2) in force at 1.10.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/e)
+[^c-33ff8d4e717d7aaa25c977f8230ad277]: Commencement: S. 115(2) in force at 1.10.2012 for specified purposes by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/e)
 
-[^key-b8f137d50318e54aa270d75125c21da6]: Commencement: S. 115(2) in force at 6.4.2013 for specified purposes by [S.I. 2013/470](https://www.legislation.gov.uk/uksi/2013/470), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/470/article/2/e) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2013/470/article/5))
+[^c-b8f137d50318e54aa270d75125c21da6]: Commencement: S. 115(2) in force at 6.4.2013 for specified purposes by [S.I. 2013/470](https://www.legislation.gov.uk/uksi/2013/470), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/470/article/2/e) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2013/470/article/5))
 
-[^key-cb5153d8ec95e283fa6381c2bd5cad1b]: Commencement: S. 115(2) in force at 17.6.2013 for specified purposes for E.W. by [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/d)
+[^c-cb5153d8ec95e283fa6381c2bd5cad1b]: Commencement: S. 115(2) in force at 17.6.2013 for specified purposes for E.W. by [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/d)
 
-[^key-c6cebcfd949d9ffa225dc17bce8359d7]: Commencement: S. 115(2) in force at 31.10.2013 for specified purposes by [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/b)
+[^c-c6cebcfd949d9ffa225dc17bce8359d7]: Commencement: S. 115(2) in force at 31.10.2013 for specified purposes by [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/b)
 
-[^key-12a71610828edd9e10e116935e7f8e89]: Commencement: S. 115(2) in force at 16.3.2015 for specified purposes by [S.I. 2015/587](https://www.legislation.gov.uk/uksi/2015/587), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/587/article/2/b)
+[^c-12a71610828edd9e10e116935e7f8e89]: Commencement: S. 115(2) in force at 16.3.2015 for specified purposes by [S.I. 2015/587](https://www.legislation.gov.uk/uksi/2015/587), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/587/article/2/b)

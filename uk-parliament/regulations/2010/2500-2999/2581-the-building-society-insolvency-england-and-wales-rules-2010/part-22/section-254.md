@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 254. Provable debts[^key-f8e2be1f42c39af6300e1986520b15ad]
+## 254. Provable debts[^c-f8e2be1f42c39af6300e1986520b15ad]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f8e2be1f42c39af6300e1986520b15ad]: Commencement: Rule 254 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-f8e2be1f42c39af6300e1986520b15ad]: Commencement: Rule 254 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00093]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).

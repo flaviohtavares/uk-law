@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 34A. Obligations which are met by complying with obligations in the Directive[^key-feb6d9f36472e1975286696584147ce9]
+## 34A. Obligations which are met by complying with obligations in the Directive[^c-feb6d9f36472e1975286696584147ce9]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-feb6d9f36472e1975286696584147ce9]: Textual amendment: [Reg. 34A](https://www.legislation.gov.uk/uksi/2012/3032/regulation/34A) substituted (E.W.S.) (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2024/696/regulation/8/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-feb6d9f36472e1975286696584147ce9]: Textual amendment: [Reg. 34A](https://www.legislation.gov.uk/uksi/2012/3032/regulation/34A) substituted (E.W.S.) (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2024/696/regulation/8/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

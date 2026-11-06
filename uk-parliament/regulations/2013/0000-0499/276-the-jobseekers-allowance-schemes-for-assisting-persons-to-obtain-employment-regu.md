@@ -51,7 +51,7 @@ These Regulations are made with the consent of the Treasury in respect of provis
 
 In respect of provisions in these Regulations relating to housing benefit and council tax benefit, in accordance with section 176(2) of the Social Security Administration Act 1992 [^c2156401], it appears to the Secretary of State that by reason of the urgency of the matter it is inexpedient to undertake consultations with organisations appearing to the Secretary of State to be representative of the authorities concerned.
 
-In accordance with section 173(1)(a) of the Social Security Administration Act 1992, it appears to the Secretary of State that by reason of the urgency of the matter it is inexpedient to refer the proposals in respect of these Regulations to the Social Security Advisory Committee.[^key-3c947c03a008fcf4d1166425df2f5e9b]
+In accordance with section 173(1)(a) of the Social Security Administration Act 1992, it appears to the Secretary of State that by reason of the urgency of the matter it is inexpedient to refer the proposals in respect of these Regulations to the Social Security Advisory Committee.[^c-3c947c03a008fcf4d1166425df2f5e9b]
 
 ## PART 1 — Schemes for Assisting Persons to Obtain Employment
 
@@ -77,9 +77,9 @@ These Regulations may be cited as the Jobseeker's Allowance (Schemes for Assisti
 
 (1) The schemes described in the following paragraphs are prescribed for the purposes of section 17A(1) (schemes for assisting persons to obtain employment: “work for your benefit” schemes etc) of the Act.
 
-(2)[^key-ec54736ec67006669ab41f7b3838d3f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ec54736ec67006669ab41f7b3838d3f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-7490162480a048d9b415600ecfd96843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7490162480a048d9b415600ecfd96843] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Full-time Training Flexibility is a scheme comprising training of 16 to 30 hours per week, for any claimant who has been receiving jobseeker's allowance for a continuous period of not less than 26 weeks ending on the first required entry date to the scheme.
 
@@ -89,22 +89,22 @@ These Regulations may be cited as the Jobseeker's Allowance (Schemes for Assisti
 
 (7) Skills Conditionality is a scheme comprising training or other activity designed to assist a claimant to obtain skills needed to obtain employment.
 
-(8)[^key-258e4627b21317f6fa44991a87efc6b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-258e4627b21317f6fa44991a87efc6b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8A)[^key-c604a0ff2383e8137e520f575998d026][^key-b21015ae74f2f0daff5acff609fd14b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8A)[^c-c604a0ff2383e8137e520f575998d026][^c-b21015ae74f2f0daff5acff609fd14b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8B)[^key-4e30f95a579f6ed3d7b7bbec01819739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8B)[^c-4e30f95a579f6ed3d7b7bbec01819739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8C)[^key-1787c5a36bde292abc13ede3b1948693] The Work and Health Programme is a scheme designed to assist a claimant who is long-term unemployed in which, for a period of up to 456 calendar days, the claimant is given such support, and required to participate in such activity, as the provider of the Work and Health Programme considers appropriate and reasonable in the claimant’s circumstances to assist the claimant to obtain and sustain employment.
+(8C)[^c-1787c5a36bde292abc13ede3b1948693] The Work and Health Programme is a scheme designed to assist a claimant who is long-term unemployed in which, for a period of up to 456 calendar days, the claimant is given such support, and required to participate in such activity, as the provider of the Work and Health Programme considers appropriate and reasonable in the claimant’s circumstances to assist the claimant to obtain and sustain employment.
 
-(8D)[^key-d4c859ab8bc34fe1b3a9e3fdc793c2f3] The Restart Scheme is a scheme which provides support for a period of up to 12 months for claimants who have been unemployed for 9 months or more and reside in England and Wales.
+(8D)[^c-d4c859ab8bc34fe1b3a9e3fdc793c2f3] The Restart Scheme is a scheme which provides support for a period of up to 12 months for claimants who have been unemployed for 9 months or more and reside in England and Wales.
 
 (9) In this regulation—
 
-- [^key-2a3b29e5cdedc3588d8f552374f2b366]...
-- [^key-2a3b29e5cdedc3588d8f552374f2b366]...
+- [^c-2a3b29e5cdedc3588d8f552374f2b366]...
+- [^c-2a3b29e5cdedc3588d8f552374f2b366]...
 - “**self-employed earner**” has the same meaning as in section 2(1)(b) of the Social Security Contributions and Benefits Act 1992; and
-- [^key-2a3b29e5cdedc3588d8f552374f2b366]...
+- [^c-2a3b29e5cdedc3588d8f552374f2b366]...
 
 ### 4. Selection for participation in a Scheme
 
@@ -353,7 +353,7 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^c2156401]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-3c947c03a008fcf4d1166425df2f5e9b]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/276) modified (26.3.2013) by [Jobseekers (Back to Work Schemes) Act 2013 (c. 17)](https://www.legislation.gov.uk/ukpga/2013/17), [ss. 1](https://www.legislation.gov.uk/ukpga/2013/17/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/2013/17/section/3/2)
+[^c-3c947c03a008fcf4d1166425df2f5e9b]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2013/276) modified (26.3.2013) by [Jobseekers (Back to Work Schemes) Act 2013 (c. 17)](https://www.legislation.gov.uk/ukpga/2013/17), [ss. 1](https://www.legislation.gov.uk/ukpga/2013/17/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/2013/17/section/3/2)
 
 [^c2156402]: Marginal citation: “Joint-claim couple” is defined in section 1 of the Jobseekers Act 1995 as inserted by paragraphs 1 and 2(1) and (4)(b) of the Welfare Reform and Pensions Act 1999 (c 30).
 
@@ -367,23 +367,23 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^c2156407]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-ec54736ec67006669ab41f7b3838d3f4]: Textual amendment: Reg. 3(2) omitted (20.11.2017) by virtue of [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/a)
+[^c-ec54736ec67006669ab41f7b3838d3f4]: Textual amendment: Reg. 3(2) omitted (20.11.2017) by virtue of [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/a)
 
-[^key-7490162480a048d9b415600ecfd96843]: Textual amendment: Reg. 3(3) omitted (20.11.2017) by virtue of [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/a)
+[^c-7490162480a048d9b415600ecfd96843]: Textual amendment: Reg. 3(3) omitted (20.11.2017) by virtue of [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/a)
 
-[^key-258e4627b21317f6fa44991a87efc6b4]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2013/276/regulation/3/8) omitted (14.3.2022) by virtue of [The Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2022 (S.I. 2022/154)](https://www.legislation.gov.uk/uksi/2022/154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/154/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/154/regulation/2/2/a)
+[^c-258e4627b21317f6fa44991a87efc6b4]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2013/276/regulation/3/8) omitted (14.3.2022) by virtue of [The Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2022 (S.I. 2022/154)](https://www.legislation.gov.uk/uksi/2022/154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/154/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/154/regulation/2/2/a)
 
-[^key-c604a0ff2383e8137e520f575998d026]: Textual amendment: Reg. 3(8A) omitted (20.11.2017) by virtue of [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/a)
+[^c-c604a0ff2383e8137e520f575998d026]: Textual amendment: Reg. 3(8A) omitted (20.11.2017) by virtue of [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/a)
 
-[^key-b21015ae74f2f0daff5acff609fd14b7]: Textual amendment: Reg. 3(8A)(8B) inserted (5.11.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2013 (S.I. 2013/2584)](https://www.legislation.gov.uk/uksi/2013/2584), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2584/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/2584/regulation/2/2/a)
+[^c-b21015ae74f2f0daff5acff609fd14b7]: Textual amendment: Reg. 3(8A)(8B) inserted (5.11.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2013 (S.I. 2013/2584)](https://www.legislation.gov.uk/uksi/2013/2584), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2584/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/2584/regulation/2/2/a)
 
-[^key-4e30f95a579f6ed3d7b7bbec01819739]: Textual amendment: Reg. 3(8B) omitted (27.3.2015) by virtue of [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/336/regulation/3)
+[^c-4e30f95a579f6ed3d7b7bbec01819739]: Textual amendment: Reg. 3(8B) omitted (27.3.2015) by virtue of [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/336/regulation/3)
 
-[^key-1787c5a36bde292abc13ede3b1948693]: Textual amendment: Reg. 3(8C) inserted (20.11.2017) by [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/b)
+[^c-1787c5a36bde292abc13ede3b1948693]: Textual amendment: Reg. 3(8C) inserted (20.11.2017) by [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/b)
 
-[^key-d4c859ab8bc34fe1b3a9e3fdc793c2f3]: Textual amendment: [Reg. 3(8D)](https://www.legislation.gov.uk/uksi/2013/276/regulation/3/8D) inserted (14.3.2022) by [The Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2022 (S.I. 2022/154)](https://www.legislation.gov.uk/uksi/2022/154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/154/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/154/regulation/2/2/b)
+[^c-d4c859ab8bc34fe1b3a9e3fdc793c2f3]: Textual amendment: [Reg. 3(8D)](https://www.legislation.gov.uk/uksi/2013/276/regulation/3/8D) inserted (14.3.2022) by [The Jobseeker’s Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2022 (S.I. 2022/154)](https://www.legislation.gov.uk/uksi/2022/154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/154/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/154/regulation/2/2/b)
 
-[^key-2a3b29e5cdedc3588d8f552374f2b366]: Textual amendment: Words in reg. 3(9) omitted (20.11.2017) by virtue of [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/c)
+[^c-2a3b29e5cdedc3588d8f552374f2b366]: Textual amendment: Words in reg. 3(9) omitted (20.11.2017) by virtue of [The Jobseekers Allowance (Schemes for Assisting Persons to Obtain Employment) (Amendment) Regulations 2017 (S.I. 2017/1020)](https://www.legislation.gov.uk/uksi/2017/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1020/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/1020/regulation/2/2/c)
 
 [^c2156409]: Marginal citation: See section 17A(10) of the Act for the meaning of the “jobseeking conditions”.
 

@@ -72,14 +72,14 @@ and, if the Secretary of State so directs in the notice, any entitlement which t
 
 (7ZB)[^c13981041] A person complies with this subsection if—
 
-- (a) he surrenders the existing licence [^key-f5fbace29d39d63be582f98e39aeea81]..., and
+- (a) he surrenders the existing licence [^c-f5fbace29d39d63be582f98e39aeea81]..., and
 - (b) where the Secretary of State so requires, he provides evidence of his name, address, sex and date and place of birth and a photograph which is a current likeness of him.
 
 (7A)[^c13981041] If he considers it appropriate to do so, the Secretary of State may, after serving a notice under any of the paragraphs of subsection (5) above, serve a further notice under that paragraph or a notice under another of those paragraphs; and on his serving the later notice the notice previously served shall cease to have effect and any licence previously granted in accordance with it shall be revoked by the later notice.
 
 (7B)[^c13981081] In subsection (5) above the references to a test of competence to drive and to information obtained under the relevant power are references respectively to a test of competence prescribed for the purposes of section 89 or so much of such a test as is required to be taken in pursuance of section 94(5)(c) of this Act and to information obtained in pursuance of section 94(5)(a) or (b) of this Act.
 
-(7C) A person whose licence is revoked by virtue of subsection (7A) above must deliver the licence [^key-f5fbace29d39d63be582f98e39aeea81]... to the Secretary of State forthwith after the revocation and a person who, without reasonable excuse, fails to do so is guilty of an offence.
+(7C) A person whose licence is revoked by virtue of subsection (7A) above must deliver the licence [^c-f5fbace29d39d63be582f98e39aeea81]... to the Secretary of State forthwith after the revocation and a person who, without reasonable excuse, fails to do so is guilty of an offence.
 
 (7D)[^c13981101] In subsection (7B) above the references to section 94 of this Act include references to that section as applied by section 99D or 109C[^c19134241] of this Act.
 
@@ -114,7 +114,7 @@ and, if the Secretary of State so directs in the notice, any entitlement which t
 
 [^c13981041]: Textual amendment: S. 92(7)-(7A) substituted (1.7.1998) for s. 92(7)(7A) by [S.I. 1998/1420](https://www.legislation.gov.uk/uksi/1998/1420), [reg. 4(3)](https://www.legislation.gov.uk/uksi/1998/1420/regulation/4/3)
 
-[^key-f5fbace29d39d63be582f98e39aeea81]: Textual amendment: Words in s. 93(7ZB)(a)(7C) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/4), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-f5fbace29d39d63be582f98e39aeea81]: Textual amendment: Words in s. 93(7ZB)(a)(7C) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/4), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
 [^c13981081]: Textual amendment: S. 92(7A)–(7C) inserted by [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1989/22), [s. 5(4)](https://www.legislation.gov.uk/ukpga/1989/22/section/5/4)
 

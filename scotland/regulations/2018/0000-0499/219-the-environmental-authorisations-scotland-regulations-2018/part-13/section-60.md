@@ -33,19 +33,19 @@ as SEPA thinks fit.
 - (a) any fee payable under a charging scheme for that notification or application, is payable; and
 - (b) these Regulations apply as if such a notification or application had been made.
 
-(3) SEPA must give notice to the person who appears to SEPA to be in control of the carrying on of the activity and[^key-6ba8ff90e938682cf9db2c8375fd7b87] to the person carrying on the activity, that it is treating the activity in accordance with paragraph (1).
+(3) SEPA must give notice to the person who appears to SEPA to be in control of the carrying on of the activity and[^c-6ba8ff90e938682cf9db2c8375fd7b87] to the person carrying on the activity, that it is treating the activity in accordance with paragraph (1).
 
-(4) Where SEPA treats an activity in accordance with paragraph (1)(b) or (c)[^key-706549f0ad39fb1ced2d75884d0af0cb], SEPA must grant an authorisation to the person or persons it considers to be in control of the carrying on of the activity.
+(4) Where SEPA treats an activity in accordance with paragraph (1)(b) or (c)[^c-706549f0ad39fb1ced2d75884d0af0cb], SEPA must grant an authorisation to the person or persons it considers to be in control of the carrying on of the activity.
 
-(5)[^key-c2410a5338edf5e1c1a813b602adbd01] Where SEPA treats an activity in accordance with paragraph (1), the person or persons it considers to be in control of the carrying on of the activity are to be treated for the purposes of these Regulations as—
+(5)[^c-c2410a5338edf5e1c1a813b602adbd01] Where SEPA treats an activity in accordance with paragraph (1), the person or persons it considers to be in control of the carrying on of the activity are to be treated for the purposes of these Regulations as—
 
 - (a) in relation to treatment as a notification, the person who makes a notification in accordance with regulation 12(3),
 - (b) in relation to treatment as a permit or registration, the applicant.
 
 ## Annotations
 
-[^key-6ba8ff90e938682cf9db2c8375fd7b87]: Textual amendment: Word in reg. 60(3) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [29(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/29/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-6ba8ff90e938682cf9db2c8375fd7b87]: Textual amendment: Word in reg. 60(3) substituted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [29(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/29/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-706549f0ad39fb1ced2d75884d0af0cb]: Textual amendment: Words in reg. 60(4) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [29(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/29/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-706549f0ad39fb1ced2d75884d0af0cb]: Textual amendment: Words in reg. 60(4) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [29(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/29/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-c2410a5338edf5e1c1a813b602adbd01]: Textual amendment: Reg. 60(5) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [29(c)](https://www.legislation.gov.uk/ssi/2025/165/regulation/29/c) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-c2410a5338edf5e1c1a813b602adbd01]: Textual amendment: Reg. 60(5) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [29(c)](https://www.legislation.gov.uk/ssi/2025/165/regulation/29/c) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Failure of public authorities to comply with environmental law[^key-be442e0e60b83a3690667b7592278b6e][^key-8c1e283b131e49b21d09610bb07c8069]
+## 31. Failure of public authorities to comply with environmental law[^c-be442e0e60b83a3690667b7592278b6e][^c-8c1e283b131e49b21d09610bb07c8069]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be442e0e60b83a3690667b7592278b6e]: Commencement: S. 31 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-be442e0e60b83a3690667b7592278b6e]: Commencement: S. 31 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-8c1e283b131e49b21d09610bb07c8069]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2021/30/section/31) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)
+[^c-8c1e283b131e49b21d09610bb07c8069]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2021/30/section/31) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)

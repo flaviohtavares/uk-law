@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Sharing of information by HMRC[^key-44eb143c3ecd569b16e10582fad88313][^key-d69ac72ab4880bbc938f08e139f05baa][^key-090fce0c2ef62136fce80ce82e459ff6]
+## 40. Sharing of information by HMRC[^c-44eb143c3ecd569b16e10582fad88313][^c-d69ac72ab4880bbc938f08e139f05baa][^c-090fce0c2ef62136fce80ce82e459ff6]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Commissioners for Her Majesty’s Revenue and Customs may disclose information to the Secretary of State [^key-97ee0f63a60584976e190e512b3b3e14]... for the purpose of the taking of action in connection with an offence under this Part.
+(1) The Commissioners for Her Majesty’s Revenue and Customs may disclose information to the Secretary of State [^c-97ee0f63a60584976e190e512b3b3e14]... for the purpose of the taking of action in connection with an offence under this Part.
 
 (2) For the purposes of this section, the taking of action in connection with an offence under this Part includes any of the following—
 
@@ -49,10 +49,10 @@ summary: ''
 
 ## Annotations
 
-[^key-44eb143c3ecd569b16e10582fad88313]: Commencement: S. 40 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-44eb143c3ecd569b16e10582fad88313]: Commencement: S. 40 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-d69ac72ab4880bbc938f08e139f05baa]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/10/section/40) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/l)
+[^c-d69ac72ab4880bbc938f08e139f05baa]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/10/section/40) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/l)
 
-[^key-090fce0c2ef62136fce80ce82e459ff6]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/10/section/40) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-090fce0c2ef62136fce80ce82e459ff6]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/10/section/40) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
 
-[^key-97ee0f63a60584976e190e512b3b3e14]: Textual amendment: Words in [s. 40(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/40/1) omitted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/3/paragraph/5); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z36)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z36)
+[^c-97ee0f63a60584976e190e512b3b3e14]: Textual amendment: Words in [s. 40(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/40/1) omitted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/3/paragraph/5); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z36)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z36)

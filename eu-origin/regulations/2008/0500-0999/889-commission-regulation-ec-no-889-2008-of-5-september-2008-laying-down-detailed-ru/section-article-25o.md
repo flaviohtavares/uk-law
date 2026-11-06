@@ -27,7 +27,7 @@ summary: ''
 
 Records shall be kept of how, where and when wild seed was collected to allow traceability back to the collection area.
 
-[^key-f1cdf6c71ce01b59b75315fb38cc7eca]...
+[^c-f1cdf6c71ce01b59b75315fb38cc7eca]...
 
 2. For the cupped oyster, *Crassostrea gigas* , preference shall be given to stock which is selectively bred to reduce spawning in the wild.
 
@@ -35,4 +35,4 @@ Records shall be kept of how, where and when wild seed was collected to allow tr
 
 [^c000003]: Textual amendment: Inserted by [Commission Regulation (EC) No 710/2009 of 5 August 2009 amending Regulation (EC) No 889/2008 laying down detailed rules for the implementation of Council Regulation (EC) No 834/2007, as regards laying down detailed rules on organic aquaculture animal and seaweed production](https://www.legislation.gov.uk/eur/2009/710).
 
-[^key-f1cdf6c71ce01b59b75315fb38cc7eca]: Textual amendment: Words in [Art. 25o(1)](https://www.legislation.gov.uk/eur/2008/889/article/25o/1) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(14)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1cdf6c71ce01b59b75315fb38cc7eca]: Textual amendment: Words in [Art. 25o(1)](https://www.legislation.gov.uk/eur/2008/889/article/25o/1) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(14)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98A (Extent: W). Other consequences of operating unlicensed houses: restriction on terminating tenancies (Wales) (Extent: W)[^key-8286c51fe79958821128d43a9f576fe0]
+## 98A (Extent: W). Other consequences of operating unlicensed houses: restriction on terminating tenancies (Wales) (Extent: W)[^c-8286c51fe79958821128d43a9f576fe0]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8286c51fe79958821128d43a9f576fe0]: Textual amendment: [S. 98A](https://www.legislation.gov.uk/ukpga/2004/34/section/98A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(6)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/6) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 9](https://www.legislation.gov.uk/uksi/2022/1172/regulation/9), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+[^c-8286c51fe79958821128d43a9f576fe0]: Textual amendment: [S. 98A](https://www.legislation.gov.uk/ukpga/2004/34/section/98A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(6)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/6) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 9](https://www.legislation.gov.uk/uksi/2022/1172/regulation/9), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))

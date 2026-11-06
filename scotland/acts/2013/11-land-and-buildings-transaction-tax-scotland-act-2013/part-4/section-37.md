@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Amendment[^key-10b7e744d9aacdb32e1c9901cd9ff004]
+## 37. Amendment[^c-10b7e744d9aacdb32e1c9901cd9ff004]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10b7e744d9aacdb32e1c9901cd9ff004]: Textual amendment: [S. 37](https://www.legislation.gov.uk/asp/2013/11/section/37) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(7)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/7) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-10b7e744d9aacdb32e1c9901cd9ff004]: Textual amendment: [S. 37](https://www.legislation.gov.uk/asp/2013/11/section/37) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(7)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/7) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

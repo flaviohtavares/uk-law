@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Interpretation of Chapter 4[^key-f73ce993d723ebadabcfb0a7df142267]
+## 46. Interpretation of Chapter 4[^c-f73ce993d723ebadabcfb0a7df142267]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f73ce993d723ebadabcfb0a7df142267]: Commencement: S. 46 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 3](https://www.legislation.gov.uk/uksi/2006/2811/article/3)
+[^c-f73ce993d723ebadabcfb0a7df142267]: Commencement: S. 46 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 3](https://www.legislation.gov.uk/uksi/2006/2811/article/3)

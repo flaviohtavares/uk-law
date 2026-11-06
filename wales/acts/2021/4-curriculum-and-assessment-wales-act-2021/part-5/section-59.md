@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. General curriculum requirement[^key-45afe0074f94276d71a83e381b525a7b]
+## 59. General curriculum requirement[^c-45afe0074f94276d71a83e381b525a7b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45afe0074f94276d71a83e381b525a7b]: Commencement: [S. 59](https://www.legislation.gov.uk/asc/2021/4/section/59) in force at 1.9.2026 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(c)](https://www.legislation.gov.uk/wsi/2022/652/article/9/c)
+[^c-45afe0074f94276d71a83e381b525a7b]: Commencement: [S. 59](https://www.legislation.gov.uk/asc/2021/4/section/59) in force at 1.9.2026 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(c)](https://www.legislation.gov.uk/wsi/2022/652/article/9/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.6. Purpose of preliminary hearings[^key-129183b62eab641c260b07b67dee7e7e]
+## 3.6. Purpose of preliminary hearings[^c-129183b62eab641c260b07b67dee7e7e]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-129183b62eab641c260b07b67dee7e7e]: Commencement: [Rule 3.6](https://www.legislation.gov.uk/ssi/2017/103/rule/3.6) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-129183b62eab641c260b07b67dee7e7e]: Commencement: [Rule 3.6](https://www.legislation.gov.uk/ssi/2017/103/rule/3.6) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

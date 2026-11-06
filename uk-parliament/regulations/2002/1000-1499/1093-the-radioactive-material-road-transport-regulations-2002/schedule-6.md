@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — ADDITIONAL RESPONSIBILITIES OF CONSIGNORS[^key-06b42716e5727214cc5bc4a5333ab2cd]
+## SCHEDULE 6 — ADDITIONAL RESPONSIBILITIES OF CONSIGNORS[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,92 +24,92 @@ summary: ''
 
 Regulations 11(5),41(2)(c) and 48
 
-### 1. Marking[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 1. Marking[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Labelling[^key-06b42716e5727214cc5bc4a5333ab2cd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 10. Labelling for radioactive contents[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 8. Labelling[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Labelling for criticality safety[^key-06b42716e5727214cc5bc4a5333ab2cd]
+**9.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Labelling for radioactive contents[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 13. Placarding[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 11. Labelling for criticality safety[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 17. Particulars of consignment[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 13. Placarding[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Declaration[^key-06b42716e5727214cc5bc4a5333ab2cd]
+**14.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Particulars of consignment[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**20.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**21.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 22. Removal or covering of labels[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 18. Declaration[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Information for carriers[^key-06b42716e5727214cc5bc4a5333ab2cd]
+**19.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Removal or covering of labels[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 25. Notification of competent authorities[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 23. Information for carriers[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**28.**[^key-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 29. Possession of certificates and instructions[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### 25. Notification of competent authorities[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. “ADR" orange plate[^key-06b42716e5727214cc5bc4a5333ab2cd]
+**26.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**28.**[^c-06b42716e5727214cc5bc4a5333ab2cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 29. Possession of certificates and instructions[^c-06b42716e5727214cc5bc4a5333ab2cd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30. “ADR" orange plate[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06b42716e5727214cc5bc4a5333ab2cd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2002/1093) revoked (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (revoked) 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2007/1573/schedule/9)
+[^c-06b42716e5727214cc5bc4a5333ab2cd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2002/1093) revoked (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (revoked) 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2007/1573/schedule/9)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

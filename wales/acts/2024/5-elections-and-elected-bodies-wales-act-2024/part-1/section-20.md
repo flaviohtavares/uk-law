@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Publication[^key-5367dceb333f507dd9c35b74b0c09c75]
+## 20. Publication[^c-5367dceb333f507dd9c35b74b0c09c75]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5367dceb333f507dd9c35b74b0c09c75]: Commencement: S. 20 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-5367dceb333f507dd9c35b74b0c09c75]: Commencement: S. 20 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

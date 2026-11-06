@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 55(1), (2)(d), (3), (6) and 110(2) of the Road Traffic (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-b6824efb441293535ca1f43c937e722c]
+## 1. Citation and commencement[^c-b6824efb441293535ca1f43c937e722c]
 
 These Regulations may be cited as the Motor Vehicles (Authorised Weight) (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 17th March 2025.
 
-## 2. Amendment of the Motor Vehicles (Authorised Weight) Regulations (Northern Ireland) 1999[^key-bc54645a7c7295f4741f6f1b992909be]
+## 2. Amendment of the Motor Vehicles (Authorised Weight) Regulations (Northern Ireland) 1999[^c-bc54645a7c7295f4741f6f1b992909be]
 
 (1) The Motor Vehicles (Authorised Weight) Regulations (Northern Ireland) 1999[^f00004] are amended in accordance with paragraphs (2) to (6).
 
@@ -170,9 +170,9 @@ An Explanatory Memorandum has been produced and is available from Vehicle Policy
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-b6824efb441293535ca1f43c937e722c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/25/regulation/1) in operation at 17.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/25/regulation/1)
+[^c-b6824efb441293535ca1f43c937e722c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/25/regulation/1) in operation at 17.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/25/regulation/1)
 
-[^key-bc54645a7c7295f4741f6f1b992909be]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/25/regulation/2) in operation at 17.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/25/regulation/1)
+[^c-bc54645a7c7295f4741f6f1b992909be]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/25/regulation/2) in operation at 17.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/25/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1999 No. 258](https://www.legislation.gov.uk/nisr/1999/258); relevant amending Regulations are [S.R. 2002 No. 8](https://www.legislation.gov.uk/nisr/2002/8), [S.R. 2017 No. 191](https://www.legislation.gov.uk/nisr/2017/191), and [S.I. 2020 No. 818](https://www.legislation.gov.uk/uksi/2020/818)
 

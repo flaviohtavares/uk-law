@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Appointed representatives[^key-681e50ed6f46786b221aeded134ca43d]
+## 10. Appointed representatives[^c-681e50ed6f46786b221aeded134ca43d]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-681e50ed6f46786b221aeded134ca43d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2012/21/section/10) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-681e50ed6f46786b221aeded134ca43d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2012/21/section/10) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

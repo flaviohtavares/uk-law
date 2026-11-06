@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**3.**[^key-0bfc4f3a58e072004f0a7a122b965473] The Children and Young Persons Act 1933 is amended as follows.
+**3.**[^c-0bfc4f3a58e072004f0a7a122b965473] The Children and Young Persons Act 1933 is amended as follows.
 
 ## Annotations
 
-[^key-0bfc4f3a58e072004f0a7a122b965473]: Commencement: Reg. 3 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-0bfc4f3a58e072004f0a7a122b965473]: Commencement: Reg. 3 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

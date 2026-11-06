@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Restriction on enforcement of security[^key-c9bd969596e6100cee6f2acf78fa2bd4]
+## 124. Restriction on enforcement of security[^c-c9bd969596e6100cee6f2acf78fa2bd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person may not take any step to enforce a security over property of an infrast
 
 ## Annotations
 
-[^key-c9bd969596e6100cee6f2acf78fa2bd4]: Commencement: S. 124 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-c9bd969596e6100cee6f2acf78fa2bd4]: Commencement: S. 124 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)

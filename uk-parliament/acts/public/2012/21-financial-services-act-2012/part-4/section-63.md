@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Duty to lay direction etc before Parliament[^key-fbb8cc5f7d5fdace9a4241ed47e36b12]
+## 63. Duty to lay direction etc before Parliament[^c-fbb8cc5f7d5fdace9a4241ed47e36b12]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbb8cc5f7d5fdace9a4241ed47e36b12]: Commencement: S. 63 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-fbb8cc5f7d5fdace9a4241ed47e36b12]: Commencement: S. 63 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

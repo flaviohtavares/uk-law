@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 270. False claim of status as creditor, etc[^key-bcc5c890bd17b2c6bac9f04b341bdf3d]
+## 270. False claim of status as creditor, etc[^c-bcc5c890bd17b2c6bac9f04b341bdf3d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 12.18 of the 1986 Rules.
 
 ## Annotations
 
-[^key-bcc5c890bd17b2c6bac9f04b341bdf3d]: Commencement: Rule 270 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-bcc5c890bd17b2c6bac9f04b341bdf3d]: Commencement: Rule 270 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

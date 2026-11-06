@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Significant environmental harm: offence[^key-0de0cf8d49856621413a4994e6175980]
+## 40. Significant environmental harm: offence[^c-0de0cf8d49856621413a4994e6175980]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0de0cf8d49856621413a4994e6175980]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2014/3/section/40) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-0de0cf8d49856621413a4994e6175980]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2014/3/section/40) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

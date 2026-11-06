@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2B. Conversion from limited duration tenancy to modern limited duration tenancy[^key-e0b9fd04a852ab388a213443adc2b01e]
+## 2B. Conversion from limited duration tenancy to modern limited duration tenancy[^c-e0b9fd04a852ab388a213443adc2b01e]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ by giving notice in writing to the other of the revocation.
 
 ## Annotations
 
-[^key-e0b9fd04a852ab388a213443adc2b01e]: Textual amendment: [S. 2B](https://www.legislation.gov.uk/asp/2003/11/section/2B) inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 91(2)](https://www.legislation.gov.uk/asp/2016/18/section/91/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-e0b9fd04a852ab388a213443adc2b01e]: Textual amendment: [S. 2B](https://www.legislation.gov.uk/asp/2003/11/section/2B) inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 91(2)](https://www.legislation.gov.uk/asp/2016/18/section/91/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

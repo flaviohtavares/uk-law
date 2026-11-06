@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 5A — Matters not subject to investigation under Part 3A[^key-87e5972399b73eef7ae37381e483b52d]
+## Schedule 5A — Matters not subject to investigation under Part 3A[^c-87e5972399b73eef7ae37381e483b52d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ Section 34B
 
 ## Annotations
 
-[^key-87e5972399b73eef7ae37381e483b52d]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/ukpga/1974/7/schedule/5A) inserted (1.10.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/3); [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-87e5972399b73eef7ae37381e483b52d]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/ukpga/1974/7/schedule/5A) inserted (1.10.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/3); [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)

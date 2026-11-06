@@ -68,13 +68,13 @@ to give effect to draft schemes for the future government and management of the 
 
 (4C) The governing body of an endowment in relation to which an education authority are empowered under this section to exercise the functions conferred by this section may, if the authority refuse to exercise their power under subsection (1) above in relation to the endowment on the ground that such exercise would prejudice the proper discharge by them of their functions under this Act apart from this section or their functions as local authority under any enactment, present a petition to the Court of Session, and subsections (4A), (4B) and (4D) of this section shall apply to such a petition.
 
-(4D)[^key-3eb4727a3c45c49dd63a8107e44f3eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4D)[^c-3eb4727a3c45c49dd63a8107e44f3eab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c9698841]
 
 (6) After 30th June 1976 any reference in a scheme made or approved under Part VI of the Act of 1946 or under Part VI of the Act of 1962 (reorganisation of educational endowments)—
 
-- (a) to a certificated teacher shall be construed as a reference to a teacher registered under the Public Services Reform (General Teaching Council for Scotland) Order 2011[^key-e3a7070caec017a67a2f094e55ef0c96];
+- (a) to a certificated teacher shall be construed as a reference to a teacher registered under the Public Services Reform (General Teaching Council for Scotland) Order 2011[^c-e3a7070caec017a67a2f094e55ef0c96];
 - (b) to a children’s committee shall be construed as a reference to a social work committee established under section 2(1) of the [^c9698861] Social Work (Scotland) Act 1968;
 - (c) to the Scottish Counties of Cities Association or to the Association of County Councils in Scotland shall be construed as a reference to the Convention of Scottish Local Authorities.
 
@@ -96,11 +96,11 @@ to give effect to draft schemes for the future government and management of the 
 
 [^c9698821]: Textual amendment: S. 105(4A)–(4D) inserted by [Education (Scotland) Act 1981 (c. 58)](https://www.legislation.gov.uk/ukpga/1981/58), [Sch. 6 para. 4(g)](https://www.legislation.gov.uk/ukpga/1981/58/schedule/6/paragraph/4/g)
 
-[^key-3eb4727a3c45c49dd63a8107e44f3eab]: Textual amendment: S. 105(4D) repealed (1.1.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [sch. 3 para. 6](https://www.legislation.gov.uk/asp/2005/10/schedule/3/paragraph/6); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-3eb4727a3c45c49dd63a8107e44f3eab]: Textual amendment: S. 105(4D) repealed (1.1.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [sch. 3 para. 6](https://www.legislation.gov.uk/asp/2005/10/schedule/3/paragraph/6); [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
 
 [^c9698841]: Textual amendment: Ss. 105(5), 110(3), 112(6), 113, 115, 116, repealed with savings by [Education (Scotland) Act 1981 (c. 58)](https://www.legislation.gov.uk/ukpga/1981/58), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/58/schedule/9) and [S.I. 1981/1557](https://www.legislation.gov.uk/uksi/1981/1557), [art. 4](https://www.legislation.gov.uk/uksi/1981/1557/article/4)
 
-[^key-e3a7070caec017a67a2f094e55ef0c96]: Textual amendment: Words in s. 105(6)(a) substituted (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 6 para. 1(2)](https://www.legislation.gov.uk/ssi/2011/215/schedule/6/paragraph/1/2)
+[^c-e3a7070caec017a67a2f094e55ef0c96]: Textual amendment: Words in s. 105(6)(a) substituted (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 6 para. 1(2)](https://www.legislation.gov.uk/ssi/2011/215/schedule/6/paragraph/1/2)
 
 [^c9698861]: Marginal citation: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49).
 

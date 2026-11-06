@@ -62,13 +62,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In these Regulations—
 
-- [^key-f2e3de4fbcdd822bb34ccb086207c5ec]...
+- [^c-f2e3de4fbcdd822bb34ccb086207c5ec]...
 - “milk processor” means a person operating an establishment which manufactures milk products;
-- “[^key-b8e9158f32e4a012621dffe37bf2842a]**milk products**” means whey powder, skimmed milk powder, whole milk powder, butter, cheeses (including commodity cheeses) and raw milk.
+- “[^c-b8e9158f32e4a012621dffe37bf2842a]**milk products**” means whey powder, skimmed milk powder, whole milk powder, butter, cheeses (including commodity cheeses) and raw milk.
 
 ## 3. Provision of information on prices of milk products
 
-(1) A milk processor must provide to the Secretary of State such information relating to the prices of milk products as the Secretary of State may by notice require [^key-ee177ab91d94cc3c7bf1ded1200e076d]....
+(1) A milk processor must provide to the Secretary of State such information relating to the prices of milk products as the Secretary of State may by notice require [^c-ee177ab91d94cc3c7bf1ded1200e076d]....
 
 (2) The notice may require the milk processor to provide the information on a regular basis, and may specify when, and in what format, the information must be provided.
 
@@ -115,10 +115,10 @@ A full regulatory impact assessment of the effect of the Reporting of Prices of 
 
 [^f00003]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-f2e3de4fbcdd822bb34ccb086207c5ec]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/1428/regulation/2) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2e3de4fbcdd822bb34ccb086207c5ec]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/1428/regulation/2) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b8e9158f32e4a012621dffe37bf2842a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/1428/regulation/2) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b8e9158f32e4a012621dffe37bf2842a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/1428/regulation/2) substituted (31.12.2020) by [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee177ab91d94cc3c7bf1ded1200e076d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2008/1428/regulation/3/1) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/824/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee177ab91d94cc3c7bf1ded1200e076d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2008/1428/regulation/3/1) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/824/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [S.I. 2005/1441](https://www.legislation.gov.uk/uksi/2005/1441).

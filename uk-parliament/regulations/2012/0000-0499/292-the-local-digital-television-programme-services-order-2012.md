@@ -48,11 +48,11 @@ The Secretary of State considers that a local digital television programme servi
 
 In accordance with section 244(9) of that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-54ae45d6bbc13a59b7775d5ccbb6f166]
+## 1. Citation and commencement[^c-54ae45d6bbc13a59b7775d5ccbb6f166]
 
 This Order may be cited as the Local Digital Television Programme Services Order 2012 and comes into force on the day after the day on which it is made.
 
-## 2. Interpretation[^key-9205de8c1713195ae91511aad33adf60]
+## 2. Interpretation[^c-9205de8c1713195ae91511aad33adf60]
 
 In this Order—
 
@@ -61,7 +61,7 @@ In this Order—
 - “digital programme service” has the meaning given in section 1(4)[^f00003] of the 1996 Act;
 - “local digital television programme service” has the meaning given by article 3.
 
-## 3. Description of a local digital television programme service[^key-79429b012eb84fdf31d7370ebf6fefa5]
+## 3. Description of a local digital television programme service[^c-79429b012eb84fdf31d7370ebf6fefa5]
 
 (1) A local digital television programme service is a digital programme service of the following description —
 
@@ -88,7 +88,7 @@ In this Order—
 - (b) reflect the lives and concerns of communities and cultural interests and traditions in that area or locality; and
 - (c) include content that informs, educates and entertains and is not otherwise available through a digital television programme service which is available across the United Kingdom.
 
-## 4. Application of broadcasting legislation[^key-539adc5e5600809be3965a7da6edaa88]
+## 4. Application of broadcasting legislation[^c-539adc5e5600809be3965a7da6edaa88]
 
 The provisions of Part 1 of the 1996 Act and Part 3 of the 2003 Act have effect in relation to a local digital television programme service with the modifications set out in the Schedule.
 
@@ -106,11 +106,11 @@ Article 4
 
 ### PART 1 — Modifications of the 1996 Act
 
-#### 1. Introductory[^key-b1f4ec9b8dc3c1f512ece1bb91584a1d]
+#### 1. Introductory[^c-b1f4ec9b8dc3c1f512ece1bb91584a1d]
 
 This Part contains the modifications of Part 1 of the 1996 Act referred to in article 4.
 
-#### 2. Definitions and general[^key-d4254f9f1626bb3598b51137644044c8]
+#### 2. Definitions and general[^c-d4254f9f1626bb3598b51137644044c8]
 
 Section 1 has effect as if after subsection (4A)[^f00004] there were inserted—
 
@@ -121,15 +121,15 @@ Section 1 has effect as if after subsection (4A)[^f00004] there were inserted—
 
 .
 
-#### 2A.[^key-13f08f7e030d3367cef44cdb2d46accc]
+#### 2A.[^c-13f08f7e030d3367cef44cdb2d46accc]
 
 Section 3 (licences under Part 1) has effect as if in subsection (5), after “section 17(1)(b)”, there were inserted “or section 23(1)(b)”.
 
-#### 3.[^key-d10a2f264865ebe73c0683ada75d0ae3]
+#### 3.[^c-d10a2f264865ebe73c0683ada75d0ae3]
 
 Sections 7 to 9[^f00005] and 12[^f00006] have effect as if before “multiplex licence”, in each place it occurs, there were inserted “local”.
 
-#### 4. Local Multiplex Service Licence[^key-f364c336a30b876fc61a03ffb6829062]
+#### 4. Local Multiplex Service Licence[^c-f364c336a30b876fc61a03ffb6829062]
 
 Section 7 (multiplex licences) has effect as if–
 
@@ -142,7 +142,7 @@ Section 7 (multiplex licences) has effect as if–
   , and
 - (d) subsections (5) and (8)(a)(ii) (but not the “and” after it) were omitted.
 
-#### 5.[^key-808fa37708986e6d36168255bdda8128]
+#### 5.[^c-808fa37708986e6d36168255bdda8128]
 
 Section 8 (award of multiplex licences) has effect as if–
 
@@ -156,17 +156,17 @@ Section 8 (award of multiplex licences) has effect as if–
   , and
 - (e) subsections (2)(e) to (f) and (3) were omitted.
 
-#### 6.[^key-7c027696652e3746faf853320225af0d]
+#### 6.[^c-7c027696652e3746faf853320225af0d]
 
 Section 9[^f00007] (power to require two or more multiplex licences to be granted to one person) has effect as if subsection (3) (c) were omitted.
 
-#### 7.[^key-5f997d4a41c65e93e5cecb6eac297d61]
+#### 7.[^c-5f997d4a41c65e93e5cecb6eac297d61]
 
 Section 12[^f00008] (conditions attached to multiplex licence) has effect as if—
 
-- (za)[^key-26dbeacce1fd95719be94fcb13daac50] in subsection (1), at the end of paragraph (a) there were inserted “and any supplementary technical plan submitted under section 16B(1)(a)”,
+- (za)[^c-26dbeacce1fd95719be94fcb13daac50] in subsection (1), at the end of paragraph (a) there were inserted “and any supplementary technical plan submitted under section 16B(1)(a)”,
 - (a) in subsection (1), in paragraph (b), “(c), (d), (e) or” were omitted,
-- (aa)[^key-4fab1097e24546fea41383a5d1eb31d8] in that subsection, at the end of paragraph (b) there were inserted “and any supplementary proposals submitted under section 16B(1)(b)”,
+- (aa)[^c-4fab1097e24546fea41383a5d1eb31d8] in that subsection, at the end of paragraph (b) there were inserted “and any supplementary proposals submitted under section 16B(1)(b)”,
 - (b) in that subsection, the “and” at the end of paragraph (g) were omitted,
 - (c) in that subsection, for paragraph (h) there were substituted—
 
@@ -183,21 +183,21 @@ Section 12[^f00008] (conditions attached to multiplex licence) has effect as if�
 
   > (1A) In subsection (1)(j), “net operating costs”, in relation to a local digital television programme service, means the operating costs reasonably incurred by the licence holder for the broadcast of that service, so far as those costs are not met by funding made available to the licence holder by the BBC for the support of the provision of local digital television programme services.
 
-  , [^key-3608c97534d95bb471a0c2facf20a065]...
-- (da)[^key-bc23cda6f8cdc134c5162d32b8c10ef4] in subsection (2), at the end there were inserted “, except that such consent is not needed where the variation is to secure the implementation of any supplementary technical plan or supplementary proposals submitted under section 16B(1)”, and
+  , [^c-3608c97534d95bb471a0c2facf20a065]...
+- (da)[^c-bc23cda6f8cdc134c5162d32b8c10ef4] in subsection (2), at the end there were inserted “, except that such consent is not needed where the variation is to secure the implementation of any supplementary technical plan or supplementary proposals submitted under section 16B(1)”, and
 - (e) subsections (3), (4), (4A), (5) and (6) were omitted.
 
-#### 8.[^key-df8536d971bfca394ab1bc5ed98d1951]
+#### 8.[^c-df8536d971bfca394ab1bc5ed98d1951]
 
 Section 16[^f00009] (duration and renewal of multiplex licences) has effect as if—
 
-- (za)[^key-ea7bd420881f19c0f9bed856357dcdd0] in the heading, for “renewal” there were substituted “extension”,
+- (za)[^c-ea7bd420881f19c0f9bed856357dcdd0] in the heading, for “renewal” there were substituted “extension”,
 - (a) for subsection (1) there were substituted—
 
   > (1) A local multiplex licence (subject to the provisions of this Part) continues in force for the period specified by OFCOM in the licence, such period not to exceed twelve years.
 
-  , [^key-3d361fc73ddb46e988d459b56a9eb474]...
-- (aa)[^key-ae8cfd63f1bd02095d0f350c7058a015] after subsection (1) there were inserted—
+  , [^c-3d361fc73ddb46e988d459b56a9eb474]...
+- (aa)[^c-ae8cfd63f1bd02095d0f350c7058a015] after subsection (1) there were inserted—
 
   > (1A) OFCOM may, with the consent of the licence holder, extend the period for which a local multiplex licence continues in force by twelve months.
   >
@@ -210,7 +210,7 @@ Section 16[^f00009] (duration and renewal of multiplex licences) has effect as i
   , and
 - (b) the remainder of that section were omitted.
 
-#### 8A.[^key-6c7a0e3bddfee37151e67ceb5c5be15f]
+#### 8A.[^c-6c7a0e3bddfee37151e67ceb5c5be15f]
 
 Part 1 has effect as if after section 16 there were inserted—
 
@@ -271,7 +271,7 @@ Part 1 has effect as if after section 16 there were inserted—
 
 .
 
-#### 9. Local digital television programme services[^key-50181cb0cdc02f6f29d8d25b50e9a34d]
+#### 9. Local digital television programme services[^c-50181cb0cdc02f6f29d8d25b50e9a34d]
 
 Part 1 has effect as if for section 18[^f00010] there were substituted—
 
@@ -315,7 +315,7 @@ Part 1 has effect as if for section 18[^f00010] there were substituted—
 >
 > (8) In subsections (6) and (7) the references to persons living or working in an area or locality include a reference to persons undergoing education or training in that area or locality.
 
-#### 10.[^key-5162836baa49821e5912d109969861e3]
+#### 10.[^c-5162836baa49821e5912d109969861e3]
 
 Section 19[^f00011] (duration and conditions of digital programme licence) has effect as if—
 
@@ -327,7 +327,7 @@ Section 19[^f00011] (duration and conditions of digital programme licence) has e
   > - (b) the time it is surrendered by its holder.
 
   ,
-- (aa)[^key-eaca64c1c643b2bb16d76eba8f4f8566] after subsection (1) there were inserted—
+- (aa)[^c-eaca64c1c643b2bb16d76eba8f4f8566] after subsection (1) there were inserted—
 
   > (1A) A local digital television programme service licence may be extended and renewed in accordance with sections 19ZA and 19ZB.
 
@@ -346,8 +346,8 @@ Section 19[^f00011] (duration and conditions of digital programme licence) has e
   > - (f) the service does not contain any advertising falling within section 19B,
   > - (g) the licence holder co-operates with holders of local digital television programme service licences and holders of local multiplex licences to facilitate the provision of local digital television programme services in the United Kingdom,
   > - (h) the licence holder, if notified to do so by OFCOM, participates in the formation of a legal entity which is intended to facilitate the provision of local digital television programme services,
-  > - (i) the licence holder seeks (in co-operation with the legal entity mentioned in paragraph (h)) to measure the number of viewers of the service, [^key-b7e135abacda15f71054e64afd7c0e74]...
-  > - (j) the licence holder encourages the legal entity mentioned in paragraph (h) to apply for a local multiplex licence which OFCOM propose to grant under section 7(1) or to negotiate for a local multiplex licence which otherwise becomes available , and[^key-56080d75a3c77661790cf4e4a2fd4304]
+  > - (i) the licence holder seeks (in co-operation with the legal entity mentioned in paragraph (h)) to measure the number of viewers of the service, [^c-b7e135abacda15f71054e64afd7c0e74]...
+  > - (j) the licence holder encourages the legal entity mentioned in paragraph (h) to apply for a local multiplex licence which OFCOM propose to grant under section 7(1) or to negotiate for a local multiplex licence which otherwise becomes available , and[^c-56080d75a3c77661790cf4e4a2fd4304]
   > - (k) where the licence holder is a producer within the meaning of article 3 of the Broadcasting (Independent Productions) Order 1991, the licence holder provides OFCOM with such information as OFCOM may reasonably require for the purpose of determining whether the licence holder is an independent producer within the meaning of article 3(4) of that Order.
   >
   > (3B) Conditions included in a licence under subsection (3A)(c) may authorise OFCOM to consent to a departure from the character of the licensed service if they are satisfied—
@@ -390,11 +390,11 @@ Section 19[^f00011] (duration and conditions of digital programme licence) has e
 
   .
 
-#### 11.[^key-98f7ecf3792470584414c261f738598a]
+#### 11.[^c-98f7ecf3792470584414c261f738598a]
 
 Part 1 has effect as if after section 19 there were inserted—
 
-> **19ZA. Extension of local digital television programme service licences[^key-62f131de9ad7dcaa69d008b354e6e1d4]**
+> **19ZA. Extension of local digital television programme service licences[^c-62f131de9ad7dcaa69d008b354e6e1d4]**
 >
 > (1) OFCOM may, with the consent of the licence holder, extend the period for which a local digital television programme service licence continues in force by twelve months.
 >
@@ -460,7 +460,7 @@ Part 1 has effect as if after section 19 there were inserted—
 > - “chat service” means a service offering two-way communication in sound or vision (or both) between the purchaser and another individual;
 > - “premium rate service” means a service falling within section 120(7) of the Communications Act 2003[^f00012].
 
-#### 12. Definitions applicable in Part 1[^key-b6a792b1ed9ee2a241485a64fa835f40]
+#### 12. Definitions applicable in Part 1[^c-b6a792b1ed9ee2a241485a64fa835f40]
 
 Section 39[^f00013] (interpretation of Part 1) has effect as if after the definition of “licence” there were inserted—
 
@@ -471,15 +471,15 @@ Section 39[^f00013] (interpretation of Part 1) has effect as if after the defini
 
 ### PART 2 — Modifications of Part 3 of the 2003 Act
 
-#### 13.[^key-fe0a28bab239ed6af68f4207d10313ba]
+#### 13.[^c-fe0a28bab239ed6af68f4207d10313ba]
 
 This Part contains the modifications of Part 3 of the 2003 Act referred to in Article 4.
 
-#### 13A.[^key-89a8da201ed6d5777461f30cda1fb7b3]
+#### 13A.[^c-89a8da201ed6d5777461f30cda1fb7b3]
 
 Part 3 has effect as if section 309 (quotas for independent programmes) were omitted.
 
-#### 14.[^key-26d91a9d6b84ac2d4d6a16b260279ae5]
+#### 14.[^c-26d91a9d6b84ac2d4d6a16b260279ae5]
 
 Section 333 (party political broadcasts) has effect as if—
 
@@ -522,90 +522,90 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-54ae45d6bbc13a59b7775d5ccbb6f166]: Commencement: Art. 1 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-54ae45d6bbc13a59b7775d5ccbb6f166]: Commencement: Art. 1 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
-[^key-9205de8c1713195ae91511aad33adf60]: Commencement: Art. 2 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-9205de8c1713195ae91511aad33adf60]: Commencement: Art. 2 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
 [^f00002]: Footnote: [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55)
 
 [^f00003]: Footnote: Subsection (4) was amended by the Communications Act 2003, s 360(3), Sch 15, Pt 2, para 74(1) and (3)
 
-[^key-79429b012eb84fdf31d7370ebf6fefa5]: Commencement: Art. 3 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-79429b012eb84fdf31d7370ebf6fefa5]: Commencement: Art. 3 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
-[^key-539adc5e5600809be3965a7da6edaa88]: Commencement: Art. 4 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-539adc5e5600809be3965a7da6edaa88]: Commencement: Art. 4 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
-[^key-b1f4ec9b8dc3c1f512ece1bb91584a1d]: Commencement: Sch. para. 1 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-b1f4ec9b8dc3c1f512ece1bb91584a1d]: Commencement: Sch. para. 1 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
-[^key-d4254f9f1626bb3598b51137644044c8]: Commencement: Sch. para. 2 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-d4254f9f1626bb3598b51137644044c8]: Commencement: Sch. para. 2 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
 [^f00004]: Footnote: Section (4A) was inserted by the Television Broadcasting Regulations 1998, [SI 1998/3196](https://www.legislation.gov.uk/uksi/1998/3196), reg 2, Schedule, para 8(1) and (3); substituted by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), s 360(3), Sch 15, Pt 2, para 74(1) and (4)
 
-[^key-13f08f7e030d3367cef44cdb2d46accc]: Textual amendment: [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/2A) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/4/1)
+[^c-13f08f7e030d3367cef44cdb2d46accc]: Textual amendment: [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/2A) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/4/1)
 
-[^key-d10a2f264865ebe73c0683ada75d0ae3]: Commencement: Sch. para. 3 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-d10a2f264865ebe73c0683ada75d0ae3]: Commencement: Sch. para. 3 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
 [^f00005]: Footnote: Sections 7, 8 and 9 were amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21) , s 360(3), Sch 15, Pt 2, para 79(1), (2), (3)(a) and (3)(b), para 80(1) to (3) and para 81 respectively
 
 [^f00006]: Footnote: Section 12 was amended by the Television Broadcasting Regulations 1998, [SI 1998/3196](https://www.legislation.gov.uk/uksi/1998/3196), reg 2, Schedule, para 9(1)and (4); the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), s 242 and s 360(3), Sch 15, Pt 2, para 84; subsection (7) was repealed by section 406(7), Sch 19(1)
 
-[^key-f364c336a30b876fc61a03ffb6829062]: Commencement: Sch. para. 4 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-f364c336a30b876fc61a03ffb6829062]: Commencement: Sch. para. 4 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
-[^key-808fa37708986e6d36168255bdda8128]: Commencement: Sch. para. 5 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-808fa37708986e6d36168255bdda8128]: Commencement: Sch. para. 5 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
-[^key-7c027696652e3746faf853320225af0d]: Commencement: Sch. para. 6 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-7c027696652e3746faf853320225af0d]: Commencement: Sch. para. 6 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
 [^f00007]: Footnote: Section 9 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), s 360(3), Sch 15, Pt 2, para 81
 
-[^key-5f997d4a41c65e93e5cecb6eac297d61]: Commencement: Sch. para. 7 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-5f997d4a41c65e93e5cecb6eac297d61]: Commencement: Sch. para. 7 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
 [^f00008]: Footnote: Section 12 was amended by the Television Broadcasting Regulations 1998, [SI 1998/3196](https://www.legislation.gov.uk/uksi/1998/3196), reg 2, Schedule, para 9(1)and (4); the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), s 242 and s 360(3), Sch 15, Pt 2, para 84; subsection (7) was repealed by section 406(7), Sch 19(1)
 
-[^key-26dbeacce1fd95719be94fcb13daac50]: Textual amendment: [Sch. para. 7(za)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/7) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/1/a)
+[^c-26dbeacce1fd95719be94fcb13daac50]: Textual amendment: [Sch. para. 7(za)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/7) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/1/a)
 
-[^key-4fab1097e24546fea41383a5d1eb31d8]: Textual amendment: [Sch. para. 7(aa)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/7) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/1/b)
+[^c-4fab1097e24546fea41383a5d1eb31d8]: Textual amendment: [Sch. para. 7(aa)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/7) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/1/b)
 
-[^key-3608c97534d95bb471a0c2facf20a065]: Textual amendment: Word in [Sch. para. 7(d)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/7) omitted (20.12.2024) by virtue of [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/1/c)
+[^c-3608c97534d95bb471a0c2facf20a065]: Textual amendment: Word in [Sch. para. 7(d)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/7) omitted (20.12.2024) by virtue of [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/1/c)
 
-[^key-bc23cda6f8cdc134c5162d32b8c10ef4]: Textual amendment: [Sch. para. 7(da)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/7) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/1/d)
+[^c-bc23cda6f8cdc134c5162d32b8c10ef4]: Textual amendment: [Sch. para. 7(da)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/7) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/1/d)
 
-[^key-df8536d971bfca394ab1bc5ed98d1951]: Commencement: Sch. para. 8 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-df8536d971bfca394ab1bc5ed98d1951]: Commencement: Sch. para. 8 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
 [^f00009]: Footnote: Section 16 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), ss 360(3) and 406(7) , Sch 15, Pt 2, para 88(1) to (4), Sch 19(1)
 
-[^key-ea7bd420881f19c0f9bed856357dcdd0]: Textual amendment: [Sch. para. 8(za)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/8) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/3)
+[^c-ea7bd420881f19c0f9bed856357dcdd0]: Textual amendment: [Sch. para. 8(za)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/8) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/3)
 
-[^key-3d361fc73ddb46e988d459b56a9eb474]: Textual amendment: Word in [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/8) omitted (20.12.2024) by virtue of [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/4)
+[^c-3d361fc73ddb46e988d459b56a9eb474]: Textual amendment: Word in [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/8) omitted (20.12.2024) by virtue of [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/4)
 
-[^key-ae8cfd63f1bd02095d0f350c7058a015]: Textual amendment: [Sch. para. 8(aa)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/8) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/5)
+[^c-ae8cfd63f1bd02095d0f350c7058a015]: Textual amendment: [Sch. para. 8(aa)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/8) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/5)
 
-[^key-6c7a0e3bddfee37151e67ceb5c5be15f]: Textual amendment: [Sch. para. 8A](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/8A) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/6)
+[^c-6c7a0e3bddfee37151e67ceb5c5be15f]: Textual amendment: [Sch. para. 8A](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/8A) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2024/1371/article/3/6)
 
-[^key-50181cb0cdc02f6f29d8d25b50e9a34d]: Commencement: Sch. para. 9 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-50181cb0cdc02f6f29d8d25b50e9a34d]: Commencement: Sch. para. 9 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
 [^f00010]: Footnote: Section 18 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), ss 360(3), 406(7), Sch 15, Pt 2, para 90(1) to (2), Sch 19(1)
 
-[^key-5162836baa49821e5912d109969861e3]: Commencement: Sch. para. 10 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-5162836baa49821e5912d109969861e3]: Commencement: Sch. para. 10 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
 [^f00011]: Footnote: Section 19 was amended by the Communications Act 2003, ss 360(3), 406(7), Sch 15, Pt 2, para 91(1), (2)(a) to (d) and (3), Sch 19(1)
 
-[^key-eaca64c1c643b2bb16d76eba8f4f8566]: Textual amendment: [Sch. para. 10(aa)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/10) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1371/article/4/2)
+[^c-eaca64c1c643b2bb16d76eba8f4f8566]: Textual amendment: [Sch. para. 10(aa)](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/10) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1371/article/4/2)
 
-[^key-b7e135abacda15f71054e64afd7c0e74]: Textual amendment: Word in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/10) omitted (12.7.2012) by virtue of [The Broadcasting (Local Digital Television Programme Services and Independent Productions) (Amendment) Order 2012 (S.I. 2012/1842)](https://www.legislation.gov.uk/uksi/2012/1842), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/1842/article/3/a)
+[^c-b7e135abacda15f71054e64afd7c0e74]: Textual amendment: Word in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/10) omitted (12.7.2012) by virtue of [The Broadcasting (Local Digital Television Programme Services and Independent Productions) (Amendment) Order 2012 (S.I. 2012/1842)](https://www.legislation.gov.uk/uksi/2012/1842), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/1842/article/3/a)
 
-[^key-56080d75a3c77661790cf4e4a2fd4304]: Textual amendment: Words in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/10) inserted (12.7.2012) by [The Broadcasting (Local Digital Television Programme Services and Independent Productions) (Amendment) Order 2012 (S.I. 2012/1842)](https://www.legislation.gov.uk/uksi/2012/1842), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/1842/article/3/b)
+[^c-56080d75a3c77661790cf4e4a2fd4304]: Textual amendment: Words in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/10) inserted (12.7.2012) by [The Broadcasting (Local Digital Television Programme Services and Independent Productions) (Amendment) Order 2012 (S.I. 2012/1842)](https://www.legislation.gov.uk/uksi/2012/1842), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/1842/article/3/b)
 
-[^key-98f7ecf3792470584414c261f738598a]: Commencement: Sch. para. 11 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-98f7ecf3792470584414c261f738598a]: Commencement: Sch. para. 11 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
-[^key-62f131de9ad7dcaa69d008b354e6e1d4]: Textual amendment: Words in [Sch. para. 11](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/11) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/1371/article/4/3)
+[^c-62f131de9ad7dcaa69d008b354e6e1d4]: Textual amendment: Words in [Sch. para. 11](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/11) inserted (20.12.2024) by [The Local Digital Television Programme Services (Amendment) Order 2024 (S.I. 2024/1371)](https://www.legislation.gov.uk/uksi/2024/1371), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1371/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/1371/article/4/3)
 
 [^f00012]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-b6a792b1ed9ee2a241485a64fa835f40]: Commencement: Sch. para. 12 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-b6a792b1ed9ee2a241485a64fa835f40]: Commencement: Sch. para. 12 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
 [^f00013]: Footnote: Section 39 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), s 360(3), Sch 15, Pt 2, para 100(d)
 
-[^key-fe0a28bab239ed6af68f4207d10313ba]: Commencement: Sch. para. 13 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-fe0a28bab239ed6af68f4207d10313ba]: Commencement: Sch. para. 13 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
 
-[^key-89a8da201ed6d5777461f30cda1fb7b3]: Textual amendment: [Sch. para. 13A](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/13A) inserted (12.7.2012) by [The Broadcasting (Local Digital Television Programme Services and Independent Productions) (Amendment) Order 2012 (S.I. 2012/1842)](https://www.legislation.gov.uk/uksi/2012/1842), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1842/article/4)
+[^c-89a8da201ed6d5777461f30cda1fb7b3]: Textual amendment: [Sch. para. 13A](https://www.legislation.gov.uk/uksi/2012/292/schedule/paragraph/13A) inserted (12.7.2012) by [The Broadcasting (Local Digital Television Programme Services and Independent Productions) (Amendment) Order 2012 (S.I. 2012/1842)](https://www.legislation.gov.uk/uksi/2012/1842), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1842/article/1), [4](https://www.legislation.gov.uk/uksi/2012/1842/article/4)
 
-[^key-26d91a9d6b84ac2d4d6a16b260279ae5]: Commencement: Sch. para. 14 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)
+[^c-26d91a9d6b84ac2d4d6a16b260279ae5]: Commencement: Sch. para. 14 in force at 14.2.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 259. Service of notices following appointment[^key-d7de1e2fa218c247922bb39087305f00]
+## 259. Service of notices following appointment[^c-d7de1e2fa218c247922bb39087305f00]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any notice served on, or sent to, a person appointed under rule 257 has the same
 
 ## Annotations
 
-[^key-d7de1e2fa218c247922bb39087305f00]: Commencement: [Rule 259](https://www.legislation.gov.uk/uksi/2011/1301/rule/259) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d7de1e2fa218c247922bb39087305f00]: Commencement: [Rule 259](https://www.legislation.gov.uk/uksi/2011/1301/rule/259) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

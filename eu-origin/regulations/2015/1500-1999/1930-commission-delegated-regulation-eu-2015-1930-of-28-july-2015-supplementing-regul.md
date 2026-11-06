@@ -33,42 +33,42 @@ of 28 July 2015
 
 supplementing Regulation (EU) No 508/2014 of the European Parliament and of the Council on the European Maritime and Fisheries Fund as regards the criteria for establishing the level of financial corrections and for applying flat rate financial corrections, and amending Commission Regulation (EC) No 665/2008 (revoked)
 
-[^key-b0a4bc1f4b118f096d33fa087c87d385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0a4bc1f4b118f096d33fa087c87d385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-b0a4bc1f4b118f096d33fa087c87d385]
+## Article 1. Subject matter[^c-b0a4bc1f4b118f096d33fa087c87d385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Criteria of establishing the level of financial corrections[^key-b0a4bc1f4b118f096d33fa087c87d385]
+## Article 2. Criteria of establishing the level of financial corrections[^c-b0a4bc1f4b118f096d33fa087c87d385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Criteria for applying flat rates[^key-b0a4bc1f4b118f096d33fa087c87d385]
+## Article 3. Criteria for applying flat rates[^c-b0a4bc1f4b118f096d33fa087c87d385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transitional provisions[^key-b0a4bc1f4b118f096d33fa087c87d385]
+## Article 4. Transitional provisions[^c-b0a4bc1f4b118f096d33fa087c87d385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Amendments to Regulation (EC) No 665/2008[^key-b0a4bc1f4b118f096d33fa087c87d385]
+## Article 5. Amendments to Regulation (EC) No 665/2008[^c-b0a4bc1f4b118f096d33fa087c87d385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-b0a4bc1f4b118f096d33fa087c87d385]
+## Article 6. Entry into force[^c-b0a4bc1f4b118f096d33fa087c87d385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0a4bc1f4b118f096d33fa087c87d385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0a4bc1f4b118f096d33fa087c87d385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-b0a4bc1f4b118f096d33fa087c87d385]
+## ANNEX[^c-b0a4bc1f4b118f096d33fa087c87d385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b0a4bc1f4b118f096d33fa087c87d385]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-b0a4bc1f4b118f096d33fa087c87d385]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

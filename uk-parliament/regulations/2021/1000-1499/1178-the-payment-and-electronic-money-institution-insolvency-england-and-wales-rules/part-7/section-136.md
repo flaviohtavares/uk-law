@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. Debt payable at a future time[^key-b5f1fc38f45a690b7069de3e5bdedf02]
+## 136. Debt payable at a future time[^c-b5f1fc38f45a690b7069de3e5bdedf02]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to rule 153, a creditor may prove for a debt of which payment was not ye
 
 ## Annotations
 
-[^key-b5f1fc38f45a690b7069de3e5bdedf02]: Commencement: Rule 136 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-b5f1fc38f45a690b7069de3e5bdedf02]: Commencement: Rule 136 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

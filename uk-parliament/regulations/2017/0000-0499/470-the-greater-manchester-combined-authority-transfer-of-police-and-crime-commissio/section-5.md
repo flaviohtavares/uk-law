@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Secondments[^key-14791eeb1a73d01c8c8f4596e30086cd]
+## 5. Secondments[^c-14791eeb1a73d01c8c8f4596e30086cd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In the case of a person who, immediately before 8th May 2017 is seconded to the 
 
 ## Annotations
 
-[^key-14791eeb1a73d01c8c8f4596e30086cd]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2017/470/article/5) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-14791eeb1a73d01c8c8f4596e30086cd]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2017/470/article/5) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)

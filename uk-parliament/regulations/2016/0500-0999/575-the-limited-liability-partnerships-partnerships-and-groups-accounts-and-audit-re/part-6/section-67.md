@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**67.**[^key-5de664a18eb99b294e52d267b1b3080d] After regulation 13 (general interpretation) insert—
+**67.**[^c-5de664a18eb99b294e52d267b1b3080d] After regulation 13 (general interpretation) insert—
 
 > **PART 6 — REVIEW**
 >
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5de664a18eb99b294e52d267b1b3080d]: Commencement: Reg. 67 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-5de664a18eb99b294e52d267b1b3080d]: Commencement: Reg. 67 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

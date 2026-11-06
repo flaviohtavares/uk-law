@@ -31,7 +31,7 @@ summary: ''
 
 Education, England
 
-The Designation of Rural Primary Schools (England) Order 2017 (revoked)[^key-7860244e8f3f65702710ad2404ad37b7]
+The Designation of Rural Primary Schools (England) Order 2017 (revoked)[^c-7860244e8f3f65702710ad2404ad37b7]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 27th December 2017
 
-[^key-7860244e8f3f65702710ad2404ad37b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7860244e8f3f65702710ad2404ad37b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7860244e8f3f65702710ad2404ad37b7]
+## 1. Citation and commencement[^c-7860244e8f3f65702710ad2404ad37b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of rural primary schools[^key-7860244e8f3f65702710ad2404ad37b7]
+## 2. Designation of rural primary schools[^c-7860244e8f3f65702710ad2404ad37b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-7860244e8f3f65702710ad2404ad37b7]
+## 3. Revocation[^c-7860244e8f3f65702710ad2404ad37b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7860244e8f3f65702710ad2404ad37b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7860244e8f3f65702710ad2404ad37b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7860244e8f3f65702710ad2404ad37b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7860244e8f3f65702710ad2404ad37b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7860244e8f3f65702710ad2404ad37b7]: Textual amendment: Order revoked (27.12.2018) by [The Designation of Rural Primary Schools (England) Order 2018 (S.I. 2018/1384)](https://www.legislation.gov.uk/uksi/2018/1384), [art. 3](https://www.legislation.gov.uk/uksi/2018/1384/article/3)
+[^c-7860244e8f3f65702710ad2404ad37b7]: Textual amendment: Order revoked (27.12.2018) by [The Designation of Rural Primary Schools (England) Order 2018 (S.I. 2018/1384)](https://www.legislation.gov.uk/uksi/2018/1384), [art. 3](https://www.legislation.gov.uk/uksi/2018/1384/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — PERMANENT MEANS OF ACCESS TO WORKS[^key-c9e59ec3b69c99d2736059549d541cd5]
+## SCHEDULE 7 — PERMANENT MEANS OF ACCESS TO WORKS[^c-c9e59ec3b69c99d2736059549d541cd5]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ Article 13
 
 ## Annotations
 
-[^key-c9e59ec3b69c99d2736059549d541cd5]: Commencement: Sch. 7 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-c9e59ec3b69c99d2736059549d541cd5]: Commencement: Sch. 7 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)

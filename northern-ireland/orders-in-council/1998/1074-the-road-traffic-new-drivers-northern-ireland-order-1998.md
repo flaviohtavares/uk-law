@@ -26,7 +26,7 @@ summary: ''
 
 1998 No. 1074 (N.I. 7)
 
-The Road Traffic (New Drivers) (Northern Ireland) Order 1998[^key-dc2b80d69e48c1c0ef6bfc0488628f00]
+The Road Traffic (New Drivers) (Northern Ireland) Order 1998[^c-dc2b80d69e48c1c0ef6bfc0488628f00]
 
 22nd April 1998 [^c22557131]
 
@@ -68,12 +68,12 @@ The Road Traffic (New Drivers) (Northern Ireland) Order 1998[^key-dc2b80d69e48c1
 
 - (a) any test of competence to drive mentioned in sub-paragraph (a) or (c) of Article 5(1) of the Order of 1981;
 - (b) any test of competence to drive conducted under the law of—
-  - (i) an[^key-c4d3fec958b3ca45e176377263048c7e] EEA State;
+  - (i) an[^c-c4d3fec958b3ca45e176377263048c7e] EEA State;
   - (ii) the Isle of Man;
   - (iii) any of the Channel Islands; or
   - (iv) Gibraltar.
 
-(3)[^key-02b0d7049815981a7c5db1e896003af9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-02b0d7049815981a7c5db1e896003af9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Revocation of licences and re-testing
 
@@ -477,7 +477,7 @@ paragraph 6(1) or, as the case may be, paragraph 9(1) shall not apply to him.
 
 ## Annotations
 
-[^key-dc2b80d69e48c1c0ef6bfc0488628f00]: Modification: [Order](https://www.legislation.gov.uk/nisi/1998/1074): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-dc2b80d69e48c1c0ef6bfc0488628f00]: Modification: [Order](https://www.legislation.gov.uk/nisi/1998/1074): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c22557131]: Textual amendment: Order: functions transferred from Lord Chancellor to Department of Justice (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2010/976/article/15/1), [Sch. 17 para. 48](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/48) (with [arts. 15(6)](https://www.legislation.gov.uk/uksi/2010/976/article/15/6), [28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
@@ -493,9 +493,9 @@ paragraph 6(1) or, as the case may be, paragraph 9(1) shall not apply to him.
 
 [^m00004]: Marginal citation: 1995 NI 18.
 
-[^key-c4d3fec958b3ca45e176377263048c7e]: Textual amendment: Word in [art. 3(2)(b)(i)](https://www.legislation.gov.uk/nisi/1998/1074/article/3/2/b/i) substituted (31.12.2020) by [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/194/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4d3fec958b3ca45e176377263048c7e]: Textual amendment: Word in [art. 3(2)(b)(i)](https://www.legislation.gov.uk/nisi/1998/1074/article/3/2/b/i) substituted (31.12.2020) by [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/194/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-02b0d7049815981a7c5db1e896003af9]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/nisi/1998/1074/article/3/3) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/194/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02b0d7049815981a7c5db1e896003af9]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/nisi/1998/1074/article/3/3) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/194/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21031911]: Textual amendment: Words in [art. 4(3)(a)](https://www.legislation.gov.uk/nisi/1998/1074/article/4/3/a) inserted (13.12.2010) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)(4)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3/4), [16](https://www.legislation.gov.uk/nisi/2007/916/article/16), [Sch. 2 para. 23(a)(i)(A)](https://www.legislation.gov.uk/nisi/2007/916/schedule/2/paragraph/23/a/i/A) (with [art. 84](https://www.legislation.gov.uk/nisi/2007/916/article/84)); [S.R. 2010/370](https://www.legislation.gov.uk/nisr/2010/370), [art. 2(1)](https://www.legislation.gov.uk/nisr/2010/370/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/370/schedule/part/1)
 

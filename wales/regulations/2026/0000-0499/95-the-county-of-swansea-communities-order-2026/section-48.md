@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. The community of Gower South — establishment of new community council and community electoral arrangements[^key-082630683d65a663aca66128c02043ab]
+## 48. The community of Gower South — establishment of new community council and community electoral arrangements[^c-082630683d65a663aca66128c02043ab]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A council for the community of Gower South is established.
 
 ## Annotations
 
-[^key-082630683d65a663aca66128c02043ab]: Commencement: [Art. 48](https://www.legislation.gov.uk/wsi/2026/95/article/48) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-082630683d65a663aca66128c02043ab]: Commencement: [Art. 48](https://www.legislation.gov.uk/wsi/2026/95/article/48) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

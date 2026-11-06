@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Remedial regulations[^key-c6d30186b2fc27110141ca41b21e9652]
+## 39. Remedial regulations[^c-c6d30186b2fc27110141ca41b21e9652]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ which is or may be incompatible with the UNCRC requirements.
 
 ## Annotations
 
-[^key-c6d30186b2fc27110141ca41b21e9652]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2024/1/section/39) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-c6d30186b2fc27110141ca41b21e9652]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2024/1/section/39) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

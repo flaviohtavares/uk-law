@@ -41,18 +41,18 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a), 131(1) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 5(1)(q) and 165(1) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-a20899aa829e176043095e2c3b05d6fa]
+## 1. Citation, commencement and interpretation[^c-a20899aa829e176043095e2c3b05d6fa]
 
 (1) These Regulations may be cited as the Social Security (Third Party Deductions and Miscellaneous Amendments) Regulations (Northern Ireland) 2003 and shall come into operation on 6th October 2003.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-5be90e703df02077cee5b2dfb60400eb]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-5be90e703df02077cee5b2dfb60400eb]
 
 In paragraph 4 (miscellaneous accommodation costs) of Schedule 8A to, the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00005] (deductions from benefits and direct payment to third parties) –
 
 - (a) in sub-paragraph (1)[^f00006] for “or jobseeker’s allowance” there shall be substituted “, jobseeker’s allowance or state pension credit”;
-- (b)[^key-4e20c210c19691e55d85bcff029b7ecb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4e20c210c19691e55d85bcff029b7ecb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in sub-paragraph (1), for head (b) there shall be substituted the following head –
 
   > - (b) is made –
@@ -94,12 +94,12 @@ In paragraph 4 (miscellaneous accommodation costs) of Schedule 8A to, the Social
 
   .
 
-## 3. Amendment of the Income Support (General) Regulations[^key-8b8085267e983d104f4577455436602c]
+## 3. Amendment of the Income Support (General) Regulations[^c-8b8085267e983d104f4577455436602c]
 
 In regulation 21 (special cases) of the Income Support (General) Regulations (Northern Ireland) 1987[^f00011]–
 
 - (a) paragraph (1B)[^f00012] shall be omitted, and
-- (b)[^key-eb007e53705c52343ef6ef7e73cf225f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-eb007e53705c52343ef6ef7e73cf225f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department for Social Development on 16th September 2003.
 
@@ -133,17 +133,17 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-a20899aa829e176043095e2c3b05d6fa]: Commencement: Reg. 1 in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/412/regulation/1/1)
+[^c-a20899aa829e176043095e2c3b05d6fa]: Commencement: Reg. 1 in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/412/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-5be90e703df02077cee5b2dfb60400eb]: Commencement: Reg. 2 in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/412/regulation/1/1)
+[^c-5be90e703df02077cee5b2dfb60400eb]: Commencement: Reg. 2 in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/412/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1989 Nos. 40](https://www.legislation.gov.uk/nisr/1989/40) and [398](https://www.legislation.gov.uk/nisr/1989/398), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149) and [375](https://www.legislation.gov.uk/nisr/1993/375), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), [S.R. 1999 No. 472](https://www.legislation.gov.uk/nisr/1999/472) and [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
 
 [^f00006]: Footnote: Sub-paragraph (1) was amended by regulation 8(a)(ii) of [S.R. 1989 No. 398](https://www.legislation.gov.uk/nisr/1989/398), paragraph 2(2) of Schedule 1 to, [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149), regulation 2(26)(d) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), Article 9(2) of [S.R. 1999 No. 472](https://www.legislation.gov.uk/nisr/1999/472) (c. 36) and regulation 3(3)(a) and (b) of [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
 
-[^key-4e20c210c19691e55d85bcff029b7ecb]: Textual amendment: [Reg. 2(b)](https://www.legislation.gov.uk/nisr/2003/412/regulation/2/b) revoked (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [35](https://www.legislation.gov.uk/nisr/2008/286/regulation/35), [Sch. 2](https://www.legislation.gov.uk/nisr/2008/286/schedule/2)
+[^c-4e20c210c19691e55d85bcff029b7ecb]: Textual amendment: [Reg. 2(b)](https://www.legislation.gov.uk/nisr/2003/412/regulation/2/b) revoked (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [35](https://www.legislation.gov.uk/nisr/2008/286/regulation/35), [Sch. 2](https://www.legislation.gov.uk/nisr/2008/286/schedule/2)
 
 [^f00007]: Footnote: Regulation 21(3) was amended by paragraph 1(4) of Schedule 1 to, [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and paragraph 1(f) of Schedule 12 to, [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
 
@@ -153,10 +153,10 @@ These Regulations do not impose a charge on business.
 
 [^f00010]: Footnote: Regulation 13A was inserted by regulation 23(3) of [S.R.2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
-[^key-8b8085267e983d104f4577455436602c]: Commencement: Reg. 3 in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/412/regulation/1/1)
+[^c-8b8085267e983d104f4577455436602c]: Commencement: Reg. 3 in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/412/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and [S.R. 2003 No. 267](https://www.legislation.gov.uk/nisr/2003/267)
 
 [^f00012]: Footnote: Paragraph (1B) was inserted by regulation 2(1) of, and paragraph 6(b) of Part I of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and amended by regulation 2(5) of [S.R. 2003 No. 267](https://www.legislation.gov.uk/nisr/2003/267)
 
-[^key-eb007e53705c52343ef6ef7e73cf225f]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/nisr/2003/412/regulation/3/b) revoked by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-eb007e53705c52343ef6ef7e73cf225f]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/nisr/2003/412/regulation/3/b) revoked by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)

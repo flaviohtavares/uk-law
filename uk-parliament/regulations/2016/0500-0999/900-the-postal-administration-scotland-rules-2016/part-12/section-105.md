@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Disposal of company’s books, papers and other records[^key-d65e20f11de7fb032737c3e8e01dfecc]
+## 105. Disposal of company’s books, papers and other records[^c-d65e20f11de7fb032737c3e8e01dfecc]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ deliver to the responsible insolvency practitioner appointed in relation to the 
 
 ## Annotations
 
-[^key-d65e20f11de7fb032737c3e8e01dfecc]: Commencement: Rule 105 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-d65e20f11de7fb032737c3e8e01dfecc]: Commencement: Rule 105 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

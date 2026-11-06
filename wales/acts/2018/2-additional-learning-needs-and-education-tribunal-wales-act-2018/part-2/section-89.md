@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Review of additional learning provision in Welsh[^key-5a7ac184261a636c8e9696d13ae14433]
+## 89. Review of additional learning provision in Welsh[^c-5a7ac184261a636c8e9696d13ae14433]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a7ac184261a636c8e9696d13ae14433]: Commencement: S. 89 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)
+[^c-5a7ac184261a636c8e9696d13ae14433]: Commencement: S. 89 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)

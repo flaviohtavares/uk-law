@@ -32,7 +32,7 @@ summary: ''
 
 Prisons, England And Wales
 
-The Parole Board Rules 2016 (revoked)[^key-9e1696cc0815d4019f72ca302afcc47c]
+The Parole Board Rules 2016 (revoked)[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 Made
 
@@ -46,198 +46,198 @@ Coming into force
 
 22nd November 2016
 
-[^key-9e1696cc0815d4019f72ca302afcc47c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e1696cc0815d4019f72ca302afcc47c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-9e1696cc0815d4019f72ca302afcc47c]
+## PART 1 — Introduction[^c-9e1696cc0815d4019f72ca302afcc47c]
 
-### 1. Citation, commencement and revocation[^key-9e1696cc0815d4019f72ca302afcc47c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 1. Citation, commencement and revocation[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 2. Interpretation[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — General[^key-9e1696cc0815d4019f72ca302afcc47c]
-
-### 4. Referral of cases[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 3. Application[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Appointment of panels[^key-9e1696cc0815d4019f72ca302afcc47c]
+## PART 2 — General[^c-9e1696cc0815d4019f72ca302afcc47c]
+
+### 4. Referral of cases[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Representation[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 5. Appointment of panels[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Service of information and reports[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 6. Representation[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Withholding information or reports[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 7. Service of information and reports[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Representations by and evidence of the parties[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 8. Withholding information or reports[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Directions[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 9. Representations by and evidence of the parties[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Directions hearing[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 10. Directions[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Adjournment and deferral[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 11. Directions hearing[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Time[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 12. Adjournment and deferral[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Proceedings on the papers[^key-9e1696cc0815d4019f72ca302afcc47c]
-
-### 14. Consideration by single member appointed under rule 5(1)[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 13. Time[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Provisional decision against release[^key-9e1696cc0815d4019f72ca302afcc47c]
+## PART 3 — Proceedings on the papers[^c-9e1696cc0815d4019f72ca302afcc47c]
+
+### 14. Consideration by single member appointed under rule 5(1)[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Proceedings before an oral panel[^key-9e1696cc0815d4019f72ca302afcc47c]
-
-### 16. Consideration by an oral panel[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 15. Provisional decision against release[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Oral panel decisions[^key-9e1696cc0815d4019f72ca302afcc47c]
+## PART 4 — Proceedings before an oral panel[^c-9e1696cc0815d4019f72ca302afcc47c]
+
+### 16. Consideration by an oral panel[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Notice of hearing[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 17. Oral panel decisions[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Notification by prisoner[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 18. Notice of hearing[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Witness[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 19. Notification by prisoner[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Observer[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 20. Witness[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Location and privacy of proceedings[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 21. Observer[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Hearing procedure[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 22. Location and privacy of proceedings[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. The decision[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 23. Hearing procedure[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Miscellaneous[^key-9e1696cc0815d4019f72ca302afcc47c]
-
-### 25. Summaries of reasons and disclosure of information[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 24. The decision[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Transmission of documents etc.[^key-9e1696cc0815d4019f72ca302afcc47c]
+## PART 5 — Miscellaneous[^c-9e1696cc0815d4019f72ca302afcc47c]
+
+### 25. Summaries of reasons and disclosure of information[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Error of procedure[^key-9e1696cc0815d4019f72ca302afcc47c]
+### 26. Transmission of documents etc.[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9e1696cc0815d4019f72ca302afcc47c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 27. Error of procedure[^c-9e1696cc0815d4019f72ca302afcc47c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9e1696cc0815d4019f72ca302afcc47c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Information and reports for submission to the Board by the Secretary of State on a reference to the Board to determine the initial release of a prisoner[^key-9e1696cc0815d4019f72ca302afcc47c]
+## SCHEDULE 1 — Information and reports for submission to the Board by the Secretary of State on a reference to the Board to determine the initial release of a prisoner[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 Rule 7(1)(a)
 
-### PART A — Information relating to the prisoner[^key-9e1696cc0815d4019f72ca302afcc47c]
+### PART A — Information relating to the prisoner[^c-9e1696cc0815d4019f72ca302afcc47c]
 
-**1.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Reports relating to the prisoner[^key-9e1696cc0815d4019f72ca302afcc47c]
+### PART B — Reports relating to the prisoner[^c-9e1696cc0815d4019f72ca302afcc47c]
 
-**1.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Information and reports for submission to the Board by the Secretary of State on a reference to the Board to determine the release of a recalled prisoner[^key-9e1696cc0815d4019f72ca302afcc47c]
+## SCHEDULE 2 — Information and reports for submission to the Board by the Secretary of State on a reference to the Board to determine the release of a recalled prisoner[^c-9e1696cc0815d4019f72ca302afcc47c]
 
 Rule 7(1)(b)
 
-### PART A — Information relating to the prisoner[^key-9e1696cc0815d4019f72ca302afcc47c]
+### PART A — Information relating to the prisoner[^c-9e1696cc0815d4019f72ca302afcc47c]
 
-**1.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Reports relating to the prisoner[^key-9e1696cc0815d4019f72ca302afcc47c]
+### PART B — Reports relating to the prisoner[^c-9e1696cc0815d4019f72ca302afcc47c]
 
-**1.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9e1696cc0815d4019f72ca302afcc47c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9e1696cc0815d4019f72ca302afcc47c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e1696cc0815d4019f72ca302afcc47c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9e1696cc0815d4019f72ca302afcc47c]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2016/1041) revoked (22.7.2019) by [The Parole Board Rules 2019 (S.I. 2019/1038)](https://www.legislation.gov.uk/uksi/2019/1038), [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/1038/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2019/1038/article/1/2)
+[^c-9e1696cc0815d4019f72ca302afcc47c]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2016/1041) revoked (22.7.2019) by [The Parole Board Rules 2019 (S.I. 2019/1038)](https://www.legislation.gov.uk/uksi/2019/1038), [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/1038/article/1/1)[(2)](https://www.legislation.gov.uk/uksi/2019/1038/article/1/2)

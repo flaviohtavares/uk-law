@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Entitlement to full retirement pension (deferred members)[^key-0843bc550fd0f8c1c58e7a520132317d]
+## 81. Entitlement to full retirement pension (deferred members)[^c-0843bc550fd0f8c1c58e7a520132317d]
 
 *Extent: S*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0843bc550fd0f8c1c58e7a520132317d]: Commencement: Reg. 81 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-0843bc550fd0f8c1c58e7a520132317d]: Commencement: Reg. 81 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00049]: Footnote: See Chapter 4 of Part 4 for when a member is eligible under this scheme for payment of ill-health benefits.

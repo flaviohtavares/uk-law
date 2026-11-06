@@ -28,7 +28,7 @@ summary: ''
 - (b) section 5;
 - (c) a warrant issued under section 71;
 - (d) a provisional warrant;
-- (e)[^key-b6f2310acadfc24188584d4e211d8239] section 74A.
+- (e)[^c-b6f2310acadfc24188584d4e211d8239] section 74A.
 
 (3) “**Excluded material**”—
 
@@ -74,4 +74,4 @@ summary: ''
 
 [^c2087251]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-b6f2310acadfc24188584d4e211d8239]: Textual amendment: S. 174(2)(e) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/19); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-b6f2310acadfc24188584d4e211d8239]: Textual amendment: S. 174(2)(e) inserted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/19); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)

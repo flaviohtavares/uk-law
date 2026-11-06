@@ -33,7 +33,7 @@ To pledge:
 - (cb) to participate fully in the Executive Committee, the North-South Ministerial Council and the British-Irish Council;
 - (cc) to observe the joint nature of the offices of First Minister and deputy First Minister;
 - (cd) to uphold the rule of law based as it is on the fundamental principles of fairness, impartiality and democratic accountability, including support for policing and the courts as set out in paragraph 6 of the St Andrews Agreement;
-- (ce)[^key-13f9a6eb3aff7e82c00796ba6f372056] to support the rule of law unequivocally in word and deed and to support all efforts to uphold it;
+- (ce)[^c-13f9a6eb3aff7e82c00796ba6f372056] to support the rule of law unequivocally in word and deed and to support all efforts to uphold it;
 - (cf) to work collectively with the other members of the Executive Committee to achieve a society free of paramilitarism;
 - (cg) to challenge all paramilitary activity and associated criminality;
 - (ch) to call for, and to work together with the other members of the Executive Committee to achieve, the disbandment of all paramilitary organisations and their structures;
@@ -49,7 +49,7 @@ Paragraph 6 of the St Andrews Agreement says: We believe that the essential elem
 
 ### Code of Conduct
 
-**1.**[^key-24de7edc40948fd261860425934e0566] (1) Ministers must at all times—
+**1.**[^c-24de7edc40948fd261860425934e0566] (1) Ministers must at all times—
 
 - (a) maintain the highest standards of conduct and behave in a way that upholds the highest standards of propriety;
 - (b) be accountable to the Assembly and the public for the decisions and actions of their departments and agencies, including stewardship of public funds and the extent to which key performance targets and objects have been met;
@@ -70,8 +70,8 @@ Paragraph 6 of the St Andrews Agreement says: We believe that the essential elem
 
 [^c20123731]: Textual amendment: Sch. 4 pledge of office: (ca)-(cd) inserted (8.5.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2006/53/section/7/1), [27(4)(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/4/5) (as amended by [Northern Ireland (St Andrews Agreement) Act 2007 (c. 4)](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2007/4/section/1/1)) (with s. 1(3)); [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [art. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2)
 
-[^key-13f9a6eb3aff7e82c00796ba6f372056]: Textual amendment: Sch. 4 pledge of office: (ce)-(ck) inserted (4.5.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [ss. 7](https://www.legislation.gov.uk/ukpga/2016/13/section/7), [11(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/2)
+[^c-13f9a6eb3aff7e82c00796ba6f372056]: Textual amendment: Sch. 4 pledge of office: (ce)-(ck) inserted (4.5.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [ss. 7](https://www.legislation.gov.uk/ukpga/2016/13/section/7), [11(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/2)
 
 [^c20123751]: Textual amendment: Sch. 4 pledge of office: words inserted (8.5.2007) by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2006/53/section/7/2), [27(4)(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/4/5) (as amended by [Northern Ireland (St Andrews Agreement) Act 2007 (c. 4)](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2007/4/section/1/1)) (with s. 1(3)); [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [art. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2)
 
-[^key-24de7edc40948fd261860425934e0566]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1998/47/schedule/4/paragraph/1) substituted for words (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2022/2/section/5/1), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 5(2)](https://www.legislation.gov.uk/ukpga/2022/2/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/2/section/5/3))
+[^c-24de7edc40948fd261860425934e0566]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1998/47/schedule/4/paragraph/1) substituted for words (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2022/2/section/5/1), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 5(2)](https://www.legislation.gov.uk/ukpga/2022/2/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/2/section/5/3))

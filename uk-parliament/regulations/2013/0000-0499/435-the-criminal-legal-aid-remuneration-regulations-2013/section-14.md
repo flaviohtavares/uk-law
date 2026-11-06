@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A litigator may submit a claim to the appropriate officer for payment of a disbursement for which the litigator has incurred liability in proceedings in the Crown Court, or in proceedings in a magistrates' court which are subsequently [^key-550cfa78a758c93c0d12a54114bd32b2]... sent for trial [^key-4e178fd8d844523d96d9c5c01fa54051]... to the Crown Court, in accordance with the provisions of this regulation.
+(1) A litigator may submit a claim to the appropriate officer for payment of a disbursement for which the litigator has incurred liability in proceedings in the Crown Court, or in proceedings in a magistrates' court which are subsequently [^c-550cfa78a758c93c0d12a54114bd32b2]... sent for trial [^c-4e178fd8d844523d96d9c5c01fa54051]... to the Crown Court, in accordance with the provisions of this regulation.
 
 (2) A claim for payment under paragraph (1) may be made where—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-550cfa78a758c93c0d12a54114bd32b2]: Textual amendment: Words in reg. 14(1) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [5(2)(e)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/5/2/e) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
+[^c-550cfa78a758c93c0d12a54114bd32b2]: Textual amendment: Words in reg. 14(1) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [5(2)(e)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/5/2/e) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
 
-[^key-4e178fd8d844523d96d9c5c01fa54051]: Textual amendment: Words in reg. 14(1) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [5(3)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/5/3) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
+[^c-4e178fd8d844523d96d9c5c01fa54051]: Textual amendment: Words in reg. 14(1) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [5(3)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/5/3) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))

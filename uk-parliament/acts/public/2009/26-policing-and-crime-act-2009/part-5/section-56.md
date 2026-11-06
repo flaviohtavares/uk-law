@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2060bea11b1635ce8cefdb116441a0a1][^key-089ccf2801e5d875300f20ab81bdbacd] The Proceeds of Crime Act 2002 (c. 29) is amended as follows.
+(1)[^c-2060bea11b1635ce8cefdb116441a0a1][^c-089ccf2801e5d875300f20ab81bdbacd] The Proceeds of Crime Act 2002 (c. 29) is amended as follows.
 
-(2)[^key-2060bea11b1635ce8cefdb116441a0a1][^key-089ccf2801e5d875300f20ab81bdbacd] After section 127 insert—
+(2)[^c-2060bea11b1635ce8cefdb116441a0a1][^c-089ccf2801e5d875300f20ab81bdbacd] After section 127 insert—
 
 > **Search and seizure powers**
 >
@@ -389,9 +389,9 @@ summary: ''
 >
 > (2) The Lord Advocate must publish any guidance issued under this section.
 
-(3)[^key-6b4374fda64a1e853270895fee5be4b5] Omit section 126 (seizure).
+(3)[^c-6b4374fda64a1e853270895fee5be4b5] Omit section 126 (seizure).
 
-(4)[^key-6b4374fda64a1e853270895fee5be4b5] In section 132 (powers of court and administrator)—
+(4)[^c-6b4374fda64a1e853270895fee5be4b5] In section 132 (powers of court and administrator)—
 
 - (a) in subsection (1) after paragraph (b) insert—
 
@@ -401,8 +401,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2060bea11b1635ce8cefdb116441a0a1]: Commencement: [S. 56(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/2) in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3)
+[^c-2060bea11b1635ce8cefdb116441a0a1]: Commencement: [S. 56(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/2) in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3)
 
-[^key-089ccf2801e5d875300f20ab81bdbacd]: Commencement: [S. 56(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/2) in force at 1.6.2015 in so far as not already in force by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-089ccf2801e5d875300f20ab81bdbacd]: Commencement: [S. 56(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/2) in force at 1.6.2015 in so far as not already in force by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
 
-[^key-6b4374fda64a1e853270895fee5be4b5]: Commencement: [S. 56(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/4) in force at 1.6.2015 by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2015/983/article/4/3)[(4)](https://www.legislation.gov.uk/uksi/2015/983/article/4/4))
+[^c-6b4374fda64a1e853270895fee5be4b5]: Commencement: [S. 56(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/56/4) in force at 1.6.2015 by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2015/983/article/4/3)[(4)](https://www.legislation.gov.uk/uksi/2015/983/article/4/4))

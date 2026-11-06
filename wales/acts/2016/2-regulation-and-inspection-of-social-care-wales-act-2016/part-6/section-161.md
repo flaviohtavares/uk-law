@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Publication of fitness to practise decisions[^key-70cee797963d14a15bc64fcad842e13d]
+## 161. Publication of fitness to practise decisions[^c-70cee797963d14a15bc64fcad842e13d]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 (6) SCW must publish the following decisions of an interim orders panel or a fitness to practise panel—
 
 - (a) a decision to make an interim order under section 144;
-- (b) a decision to confirm , vary or extend[^key-6123627e31af57d4f0ed798e44c3284f] an interim order on a review under section 147.
+- (b) a decision to confirm , vary or extend[^c-6123627e31af57d4f0ed798e44c3284f] an interim order on a review under section 147.
 
 (7) SCW must publish any decision it makes—
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70cee797963d14a15bc64fcad842e13d]: Commencement: [S. 161](https://www.legislation.gov.uk/anaw/2016/2/section/161) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-70cee797963d14a15bc64fcad842e13d]: Commencement: [S. 161](https://www.legislation.gov.uk/anaw/2016/2/section/161) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
-[^key-6123627e31af57d4f0ed798e44c3284f]: Textual amendment: Words in s. 161(6)(b) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 7(12)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/12); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/d)
+[^c-6123627e31af57d4f0ed798e44c3284f]: Textual amendment: Words in s. 161(6)(b) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 7(12)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/12); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/d)

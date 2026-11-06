@@ -24,7 +24,7 @@ Section 351
 
 ### The relevant conditions
 
-**1.**[^key-af4f97ccca54a82820ffa3780dfdb8ec] (1) In this Schedule references to the relevant conditions, in relation to a person, are to the following conditions.
+**1.**[^c-af4f97ccca54a82820ffa3780dfdb8ec] (1) In this Schedule references to the relevant conditions, in relation to a person, are to the following conditions.
 
 (2) Condition A is that the person is suffering from mental disorder.
 
@@ -37,7 +37,7 @@ Section 351
 
 ### Order for person's detention in overseas service hospital
 
-**2.**[^key-bbc73360c3225176d2d1f86abe3728b3] (1) This paragraph has effect in relation to—
+**2.**[^c-bbc73360c3225176d2d1f86abe3728b3] (1) This paragraph has effect in relation to—
 
 - (a) a person subject to service law, or
 - (b) a civilian subject to service discipline,
@@ -70,7 +70,7 @@ outside the British Islands.
 
 ### Effect of order under paragraph 2
 
-**3.**[^key-8e3c5cd9253363e127c56adc543b730d] (1) This paragraph makes provision as to the effect of an order of a person's commanding officer under paragraph 2.
+**3.**[^c-8e3c5cd9253363e127c56adc543b730d] (1) This paragraph makes provision as to the effect of an order of a person's commanding officer under paragraph 2.
 
 (2) An order under paragraph 2(3) has effect—
 
@@ -91,7 +91,7 @@ outside the British Islands.
 
 ### Requirements as to recommendations under paragraph 2
 
-**4.**[^key-f500b24f4bbbf459f3ea6483204f75f1] (1) A recommendation under paragraph 2 must include a statement that the person making it is satisfied that all the relevant conditions are met in the case of the person to whom it relates.
+**4.**[^c-f500b24f4bbbf459f3ea6483204f75f1] (1) A recommendation under paragraph 2 must include a statement that the person making it is satisfied that all the relevant conditions are met in the case of the person to whom it relates.
 
 (2) A recommendation under paragraph 2(2)(b) must also include a statement that—
 
@@ -100,7 +100,7 @@ outside the British Islands.
 
 ### Exercise of powers under paragraph 2 where person's commanding officer is absent etc
 
-**5.**[^key-59c97224a72cc5481bdde1f7e1db8350] (1) This paragraph has effect in relation to a person subject to service law outside the British Islands.
+**5.**[^c-59c97224a72cc5481bdde1f7e1db8350] (1) This paragraph has effect in relation to a person subject to service law outside the British Islands.
 
 (2) If the person's commanding officer is absent or otherwise not available, any authorised officer may exercise in relation to the person the powers conferred by paragraph 2.
 
@@ -112,7 +112,7 @@ outside the British Islands.
 
 ### Power to review order under paragraph 2
 
-**6.**[^key-16fcad721e85d476d5be896c796b0ff7] (1) The Secretary of State may make regulations for enabling a person to apply for the revocation of an order under paragraph 2 as soon as the order is made.
+**6.**[^c-16fcad721e85d476d5be896c796b0ff7] (1) The Secretary of State may make regulations for enabling a person to apply for the revocation of an order under paragraph 2 as soon as the order is made.
 
 (2) The regulations may in particular make provision as to—
 
@@ -129,7 +129,7 @@ outside the British Islands.
 
 ### Detention of resident patients in overseas service hospitals pending order under paragraph 2(3)
 
-**7.**[^key-f84cc309849186bb1ab1d9a3143323a3] (1) This paragraph applies if—
+**7.**[^c-f84cc309849186bb1ab1d9a3143323a3] (1) This paragraph applies if—
 
 - (a) a registered medical practitioner determines that all the relevant conditions are met in the case of a patient in an overseas service hospital who is a person subject to service law or a civilian subject to service discipline; or
 - (b) a prescribed person determines that all the relevant conditions appear to be met in the case of such a patient.
@@ -164,7 +164,7 @@ outside the British Islands.
 
 ### Urgent removal from service living accommodation to overseas service hospital
 
-**8.**[^key-a5eb585ce6638fbdeca037a925965389] (1) This paragraph applies if a service policeman has reasonable grounds for believing that—
+**8.**[^c-a5eb585ce6638fbdeca037a925965389] (1) This paragraph applies if a service policeman has reasonable grounds for believing that—
 
 - (a) there is in any service living accommodation outside the British Islands a person (“the patient”) who is a person subject to service law or a civilian subject to service discipline;
 - (b) the patient is suffering from mental disorder;
@@ -204,7 +204,7 @@ who may assist the service policeman to exercise the power conferred on him by s
 
 ### Urgent removal from other places to overseas service hospital
 
-**9.**[^key-6c465c859e09697ee163d21d21f1a93f] (1) This paragraph applies if a service policeman finds a person (“the patient”) in a relevant place outside the British Islands and it appears to the service policeman that—
+**9.**[^c-6c465c859e09697ee163d21d21f1a93f] (1) This paragraph applies if a service policeman finds a person (“the patient”) in a relevant place outside the British Islands and it appears to the service policeman that—
 
 - (a) the patient is a person subject to service law or a civilian subject to service discipline;
 - (b) the patient is suffering from mental disorder; and
@@ -238,15 +238,15 @@ who may assist the service policeman to exercise the power conferred on him by s
 
 ### Use of force
 
-**10.**[^key-cb1abf266013d85007f04b72971ab403] Where a power is conferred on any person by virtue of this Schedule, he may use reasonable force, if necessary, in the exercise of the power.
+**10.**[^c-cb1abf266013d85007f04b72971ab403] Where a power is conferred on any person by virtue of this Schedule, he may use reasonable force, if necessary, in the exercise of the power.
 
 ### Service custody
 
-**11.**[^key-58b6ced58d9f77cb5a7129dcceb308cf] While a person is being conveyed, removed or detained by virtue of any provision of this Schedule, the person is deemed to be in service custody.
+**11.**[^c-58b6ced58d9f77cb5a7129dcceb308cf] While a person is being conveyed, removed or detained by virtue of any provision of this Schedule, the person is deemed to be in service custody.
 
 ### Definitions
 
-**12.**[^key-dcf31a1b4fc0859c00e25bcbe6e48cf0] (1) In this Schedule “**overseas service hospital**” means a service hospital outside the British Islands.
+**12.**[^c-dcf31a1b4fc0859c00e25bcbe6e48cf0] (1) In this Schedule “**overseas service hospital**” means a service hospital outside the British Islands.
 
 (2) In this Schedule “**service hospital**” means—
 
@@ -259,26 +259,26 @@ at or in which medical or surgical treatment is provided for persons subject to 
 
 ## Annotations
 
-[^key-af4f97ccca54a82820ffa3780dfdb8ec]: Commencement: Sch. 12 para. 1 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-af4f97ccca54a82820ffa3780dfdb8ec]: Commencement: Sch. 12 para. 1 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-bbc73360c3225176d2d1f86abe3728b3]: Commencement: Sch. 12 para. 2 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-bbc73360c3225176d2d1f86abe3728b3]: Commencement: Sch. 12 para. 2 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-8e3c5cd9253363e127c56adc543b730d]: Commencement: Sch. 12 para. 3 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-8e3c5cd9253363e127c56adc543b730d]: Commencement: Sch. 12 para. 3 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f500b24f4bbbf459f3ea6483204f75f1]: Commencement: Sch. 12 para. 4 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f500b24f4bbbf459f3ea6483204f75f1]: Commencement: Sch. 12 para. 4 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-59c97224a72cc5481bdde1f7e1db8350]: Commencement: Sch. 12 para. 5 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-59c97224a72cc5481bdde1f7e1db8350]: Commencement: Sch. 12 para. 5 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-16fcad721e85d476d5be896c796b0ff7]: Commencement: Sch. 12 para. 6 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-16fcad721e85d476d5be896c796b0ff7]: Commencement: Sch. 12 para. 6 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f84cc309849186bb1ab1d9a3143323a3]: Commencement: Sch. 12 para. 7 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f84cc309849186bb1ab1d9a3143323a3]: Commencement: Sch. 12 para. 7 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-a5eb585ce6638fbdeca037a925965389]: Commencement: Sch. 12 para. 8 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-a5eb585ce6638fbdeca037a925965389]: Commencement: Sch. 12 para. 8 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-6c465c859e09697ee163d21d21f1a93f]: Commencement: Sch. 12 para. 9 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-6c465c859e09697ee163d21d21f1a93f]: Commencement: Sch. 12 para. 9 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-cb1abf266013d85007f04b72971ab403]: Commencement: Sch. 12 para. 10 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-cb1abf266013d85007f04b72971ab403]: Commencement: Sch. 12 para. 10 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-58b6ced58d9f77cb5a7129dcceb308cf]: Commencement: Sch. 12 para. 11 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-58b6ced58d9f77cb5a7129dcceb308cf]: Commencement: Sch. 12 para. 11 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-dcf31a1b4fc0859c00e25bcbe6e48cf0]: Commencement: Sch. 12 para. 12 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-dcf31a1b4fc0859c00e25bcbe6e48cf0]: Commencement: Sch. 12 para. 12 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))

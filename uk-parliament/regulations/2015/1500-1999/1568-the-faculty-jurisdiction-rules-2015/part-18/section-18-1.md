@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 18.1. The court’s general powers of case management[^key-3a2db431573acabead169b77aa9fa356]
+## 18.1. The court’s general powers of case management[^c-3a2db431573acabead169b77aa9fa356]
 
 *Extent: E*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a2db431573acabead169b77aa9fa356]: Commencement: [Rule 18.1](https://www.legislation.gov.uk/uksi/2015/1568/article/18.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-3a2db431573acabead169b77aa9fa356]: Commencement: [Rule 18.1](https://www.legislation.gov.uk/uksi/2015/1568/article/18.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

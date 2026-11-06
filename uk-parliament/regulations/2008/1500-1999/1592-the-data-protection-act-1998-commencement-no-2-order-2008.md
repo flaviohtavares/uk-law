@@ -37,11 +37,11 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred upon him by section 75(3) of the Data Protection Act 1998[^f00001]:
 
-## 1. Citation[^key-15774d47266bc58f72634823b6c1bbef]
+## 1. Citation[^c-15774d47266bc58f72634823b6c1bbef]
 
 This Order may be cited as the Data Protection Act 1998 (Commencement No. 2) Order 2008.
 
-## 2. Provision commenced on 7th July 2008[^key-8b98249bf9fddef8643a1a733f31a817]
+## 2. Provision commenced on 7th July 2008[^c-8b98249bf9fddef8643a1a733f31a817]
 
 7th July 2008 is the day appointed for the coming into force of section 56 of the Data Protection Act 1998 (prohibition of requirement as to production of certain records)[^f00002] insofar as it relates to the entries in the table in subsection (6) of that section which relate to—
 
@@ -119,9 +119,9 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00001]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29); section 75 was amended by paragraph 9(1)(a) of Schedule 2 to the Secretary of State for Constitutional Affairs Order 2003 ([S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887)), paragraph 15(1) and (3) of Schedule 9 to the Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), and paragraph 4(2)(a) and (b) of Schedule 7 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 ([S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351)).
 
-[^key-15774d47266bc58f72634823b6c1bbef]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2008/1592/article/1) in force at made date
+[^c-15774d47266bc58f72634823b6c1bbef]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2008/1592/article/1) in force at made date
 
-[^key-8b98249bf9fddef8643a1a733f31a817]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2008/1592/article/2) in force at made date
+[^c-8b98249bf9fddef8643a1a733f31a817]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2008/1592/article/2) in force at made date
 
 [^f00002]: Footnote: Section 56 was amended by paragraph 191 of Schedule 9 to the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), section 78(2)(a) of the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), section 68(4) of the Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36), paragraph 9(1)(a) of Schedule 2 to [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), paragraph 112 of Schedule 4 to the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), paragraph 15(1) and (2) of Schedule 9 to the Safeguarding Vulnerable Groups Act 2006, and paragraph 4(1) of Schedule 7 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 ([S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351)).
 

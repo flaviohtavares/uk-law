@@ -47,18 +47,18 @@ A draft of these Regulations has been laid before, and approved by a resolution 
 
 ## PART 1 — General
 
-### 1. Title, application and commencement[^key-198cd9fbb905f473f834375e954ef3c1]
+### 1. Title, application and commencement[^c-198cd9fbb905f473f834375e954ef3c1]
 
 The title of these Regulations is the Recycling, Preparation for Re-use and Composting Targets (Monitoring and Penalties) (Wales) Regulations 2011; they apply in relation to Wales and come into force on 30 March 2011.
 
-### 2. Interpretation[^key-e9f495b1d246c07cb99e1a3362d3c396]
+### 2. Interpretation[^c-e9f495b1d246c07cb99e1a3362d3c396]
 
 (1) In these Regulations—
 
 - “the Measure” (“*y Mesur*”) means the Waste (Wales) Measure 2010;
 - “the targets” (“*y targedau*”) means the recycling, preparation for re-use and composting targets specified in section 3(3) of the Measure;
-- “the Waste Framework Directive” (“*y Gyfarwyddeb Fframwaith Gwastraff*”) means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives[^f00002] as last amended by[^key-5bf3fd455e34104fadc23b6ee59292ec] Directive (EU) 2018/851[^key-00c64930e4c5ad69f4b006553606135e] and read in accordance with paragraphs (3) to (8)[^key-377e961ddf4c5394103c1067b8ee6ab1];
-- “the WasteDataFlow system” (“*y system WasteDataFlow*”) means the web-based system for the reporting of municipal waste maintained and operated in Wales by the Natural Resources Body for Wales[^key-8be58f5989c9c8a03ee262fdfa930d08]; and
+- “the Waste Framework Directive” (“*y Gyfarwyddeb Fframwaith Gwastraff*”) means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives[^f00002] as last amended by[^c-5bf3fd455e34104fadc23b6ee59292ec] Directive (EU) 2018/851[^c-00c64930e4c5ad69f4b006553606135e] and read in accordance with paragraphs (3) to (8)[^c-377e961ddf4c5394103c1067b8ee6ab1];
+- “the WasteDataFlow system” (“*y system WasteDataFlow*”) means the web-based system for the reporting of municipal waste maintained and operated in Wales by the Natural Resources Body for Wales[^c-8be58f5989c9c8a03ee262fdfa930d08]; and
 - “waste facility” (“*cyfleuster gwastraff*”) means a facility for the disposal or recovery of waste. For the purposes of this definition, “disposal” and “recovery” have the same meaning as in Article 3(15) and (19) of the Waste Framework Directive.
 
 (2) In these Regulations—
@@ -66,12 +66,12 @@ The title of these Regulations is the Recycling, Preparation for Re-use and Comp
 - (a) references to an amount of a local authority’s municipal waste are references to an amount of waste by tonnage; and
 - (b) references to waste being sent by a local authority to a waste facility are to include references to waste being sent to such a facility in pursuance of arrangements made by the local authority.
 
-(3)[^key-1ff0e2111df02825394446fc85e7f8fb] A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020), was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
+(3)[^c-1ff0e2111df02825394446fc85e7f8fb] A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020), was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
 
 (4) Article 2 is to be read as if—
 
 - (a) in paragraph 2—
-  - (i) in the words before point (a), for “other Community legislation” there were substituted “ assimilated[^key-227c9459ad21d5e61ef19ec89e9da263] law ”;
+  - (i) in the words before point (a), for “other Community legislation” there were substituted “ assimilated[^c-227c9459ad21d5e61ef19ec89e9da263] law ”;
   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
   - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there substituted “ the Mining Waste Directive (see regulation 2A) ”;
 - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
@@ -97,7 +97,7 @@ The title of these Regulations is the Recycling, Preparation for Re-use and Comp
 
   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
   >
-  > - (a) in accordance with any regulations or assimilated direct[^key-6d75b11b8800b2fd0a264690334b08b7] legislation (within the meaning given to that expression in the European Union (Withdrawal) Act 2018 setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (a) in accordance with any regulations or assimilated direct[^c-6d75b11b8800b2fd0a264690334b08b7] legislation (within the meaning given to that expression in the European Union (Withdrawal) Act 2018 setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
   > - (b) having regard to any guidance published by the Welsh Ministers or the Natural resources Body for Wales for the purposes of this Article.
 
   ;
@@ -128,7 +128,7 @@ The title of these Regulations is the Recycling, Preparation for Re-use and Comp
 
 (8) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
 
-### 2A. Meaning of “the Mining Waste Directive” in regulation 2[^key-082f07d00995b6145bc9888b9eb4991b]
+### 2A. Meaning of “the Mining Waste Directive” in regulation 2[^c-082f07d00995b6145bc9888b9eb4991b]
 
 (1) In regulation 2(4)(a)(iii), “**the Mining Waste Directive**” means Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council on the management of waste from extractive industries, read in accordance with subsections (2) to (4).
 
@@ -150,9 +150,9 @@ The title of these Regulations is the Recycling, Preparation for Re-use and Comp
 
 ## PART 2 — Monitoring
 
-### 3. Monitoring authority[^key-aed573242718b5a83d9027b5ad39632f]
+### 3. Monitoring authority[^c-aed573242718b5a83d9027b5ad39632f]
 
-(1) The Natural Resources Body for Wales[^key-7d290c09ff251ebea6260efa3941c6ed] is the monitoring authority for the purposes of the targets.
+(1) The Natural Resources Body for Wales[^c-7d290c09ff251ebea6260efa3941c6ed] is the monitoring authority for the purposes of the targets.
 
 (2) The monitoring authority must—
 
@@ -161,7 +161,7 @@ The title of these Regulations is the Recycling, Preparation for Re-use and Comp
 - (c) in accordance with regulation 7, validate the information that is entered by local authorities on the WasteDataFlow system; and
 - (d) without delay notify the Welsh Ministers, in writing, of any case where it appears to the monitoring authority that a local authority[^f00003] is or may be liable to a penalty under section 3(7) of the Measure or under these Regulations.
 
-### 4. Obligation for local authorities to collect information and maintain records[^key-ca3ceef7f3d6da7c3ae5005fd1e7193b]
+### 4. Obligation for local authorities to collect information and maintain records[^c-ca3ceef7f3d6da7c3ae5005fd1e7193b]
 
 (1) A local authority must make arrangements for the collection of information that will allow the authority to comply with its requirements to maintain records under this regulation.
 
@@ -188,7 +188,7 @@ The title of these Regulations is the Recycling, Preparation for Re-use and Comp
 
 (8) In this regulation, municipal waste is “disposed of” when it undergoes a disposal operation of a type that is identified in Annex I of the Waste Framework Directive.
 
-### 5. Obligation for local authorities to provide information[^key-3f78e3f7276b97f63675974631686319]
+### 5. Obligation for local authorities to provide information[^c-3f78e3f7276b97f63675974631686319]
 
 (1) During each target financial year and each subsequent financial year until the next target financial year, a local authority must submit to the monitoring authority returns containing all the information listed in regulations 4(2) and (3) (“the information”).
 
@@ -207,7 +207,7 @@ The title of these Regulations is the Recycling, Preparation for Re-use and Comp
 
 (4) A local authority that fails to submit a return in accordance with this regulation is liable to a penalty.
 
-### 6. Power to require information[^key-64410d3784d61159f956b46d8729b019]
+### 6. Power to require information[^c-64410d3784d61159f956b46d8729b019]
 
 (1) The Welsh Ministers, or the monitoring authority, may by notice served on a local authority, require that authority to—
 
@@ -220,7 +220,7 @@ The title of these Regulations is the Recycling, Preparation for Re-use and Comp
 
 (4) A local authority that fails to comply with the requirements of a notice is liable to a penalty.
 
-### 7. Validation by the monitoring authority[^key-b152183cf5f243963435ae9d53f99aeb]
+### 7. Validation by the monitoring authority[^c-b152183cf5f243963435ae9d53f99aeb]
 
 (1) Within three months of the date required of a local authority to have submitted a return under regulation 5(2)(b), the monitoring authority must complete a validation of the information submitted by the local authority on the WasteDataFlow system.
 
@@ -231,7 +231,7 @@ The title of these Regulations is the Recycling, Preparation for Re-use and Comp
 - (a) a check that all local authorities have submitted data in accordance with their obligation to provide information under regulation 5; and
 - (b) a reconciliation of any inaccurate or inconsistent data that has been submitted.
 
-### 8. Assessment of compliance with the targets[^key-59633cef20f18b384b3ae785ebc290d1]
+### 8. Assessment of compliance with the targets[^c-59633cef20f18b384b3ae785ebc290d1]
 
 (1) Within five calendar months of the end of each target financial year, and each subsequent financial year until the next target financial year, the monitoring authority must provide to the Welsh Ministers—
 
@@ -252,15 +252,15 @@ The title of these Regulations is the Recycling, Preparation for Re-use and Comp
 
 ## PART 3 — Penalties
 
-### 9. Penalties: waiver[^key-cc952573d1020917d00611ce31b6208a]
+### 9. Penalties: waiver[^c-cc952573d1020917d00611ce31b6208a]
 
 Where a local authority is liable to a penalty under section 3(7) of the Measure or under these Regulations, the Welsh Ministers may either waive the penalty, or assess the amount due by way of penalty and notify the local authority accordingly.
 
-### 10. Penalties: failure to meet a target[^key-b30295138f0000ad8326cefa8d80cb19]
+### 10. Penalties: failure to meet a target[^c-b30295138f0000ad8326cefa8d80cb19]
 
 The amount of financial penalty to which a local authority is liable under section 3(7) of the Measure is £200 per tonne by which a local authority falls short of the target amount.
 
-### 11. Penalties: failure to comply with requirements of Part 2[^key-9ebbd0e12febdeffdad677c21ba07af4]
+### 11. Penalties: failure to comply with requirements of Part 2[^c-9ebbd0e12febdeffdad677c21ba07af4]
 
 A local authority is liable to a penalty of £1000 when it—
 
@@ -268,7 +268,7 @@ A local authority is liable to a penalty of £1000 when it—
 - (b) fails to submit a return in accordance with regulation 5;
 - (c) fails to comply with the requirements of a notice served under regulation 6.
 
-### 12. Penalties: general[^key-91b3e239dd079d087b7103aca5f31be8]
+### 12. Penalties: general[^c-91b3e239dd079d087b7103aca5f31be8]
 
 (1) Any penalty imposed by the Welsh Ministers is due one month after the date on which the local authority is notified by the Welsh Ministers of the amount of the penalty.
 
@@ -323,52 +323,52 @@ Regulation 12 makes general provision about penalties.
 
 [^f00001]: Footnote: [2010 nawm 8](https://www.legislation.gov.uk/mwa/2010/8).
 
-[^key-198cd9fbb905f473f834375e954ef3c1]: Commencement: Reg. 1 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
+[^c-198cd9fbb905f473f834375e954ef3c1]: Commencement: Reg. 1 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
 
-[^key-e9f495b1d246c07cb99e1a3362d3c396]: Commencement: Reg. 2 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
+[^c-e9f495b1d246c07cb99e1a3362d3c396]: Commencement: Reg. 2 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
 
 [^f00002]: Footnote: OJ No L 312, 22.11.2008, p.3.
 
-[^key-5bf3fd455e34104fadc23b6ee59292ec]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2/1) substituted (22.3.2019) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/a), [5](https://www.legislation.gov.uk/wsi/2019/414/regulation/5)
+[^c-5bf3fd455e34104fadc23b6ee59292ec]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2/1) substituted (22.3.2019) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/a), [5](https://www.legislation.gov.uk/wsi/2019/414/regulation/5)
 
-[^key-00c64930e4c5ad69f4b006553606135e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2/1) substituted (19.11.2020) by [The Waste (Wales) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1179)](https://www.legislation.gov.uk/wsi/2020/1179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1179/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2020/1179/regulation/5/2)
+[^c-00c64930e4c5ad69f4b006553606135e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2/1) substituted (19.11.2020) by [The Waste (Wales) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/1179)](https://www.legislation.gov.uk/wsi/2020/1179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1179/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2020/1179/regulation/5/2)
 
-[^key-377e961ddf4c5394103c1067b8ee6ab1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2/1) inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/b), [9(2)](https://www.legislation.gov.uk/wsi/2019/414/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-377e961ddf4c5394103c1067b8ee6ab1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2/1) inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/b), [9(2)](https://www.legislation.gov.uk/wsi/2019/414/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8be58f5989c9c8a03ee262fdfa930d08]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 70](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/70) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8be58f5989c9c8a03ee262fdfa930d08]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 70](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/70) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1ff0e2111df02825394446fc85e7f8fb]: Textual amendment: Reg. 2(3)-(8) inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/uksi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/414/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2019/414/regulation/9/3) (as amended by [S.I. 2020/1339](https://www.legislation.gov.uk/uksi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1339/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1339/regulation/2/5/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ff0e2111df02825394446fc85e7f8fb]: Textual amendment: Reg. 2(3)-(8) inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/uksi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/414/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2019/414/regulation/9/3) (as amended by [S.I. 2020/1339](https://www.legislation.gov.uk/uksi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1339/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1339/regulation/2/5/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-227c9459ad21d5e61ef19ec89e9da263]: Textual amendment: Word in [reg. 2(4)(a)(i)](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2/4/a/i) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/12/a)
+[^c-227c9459ad21d5e61ef19ec89e9da263]: Textual amendment: Word in [reg. 2(4)(a)(i)](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2/4/a/i) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/12/a)
 
-[^key-6d75b11b8800b2fd0a264690334b08b7]: Textual amendment: Words in [reg. 2(6)(b)](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2/6/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/12/b)
+[^c-6d75b11b8800b2fd0a264690334b08b7]: Textual amendment: Words in [reg. 2(6)(b)](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2/6/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/12/b)
 
-[^key-082f07d00995b6145bc9888b9eb4991b]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2A) inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/wsi/2019/414/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-082f07d00995b6145bc9888b9eb4991b]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/wsi/2011/1014/regulation/2A) inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/wsi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2019/414/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/wsi/2019/414/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aed573242718b5a83d9027b5ad39632f]: Commencement: Reg. 3 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
+[^c-aed573242718b5a83d9027b5ad39632f]: Commencement: Reg. 3 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
 
-[^key-7d290c09ff251ebea6260efa3941c6ed]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/1014/regulation/3/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 71](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/71) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7d290c09ff251ebea6260efa3941c6ed]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/1014/regulation/3/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 71](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/71) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^f00003]: Footnote: A local authority is defined in section 17(1) of the Waste (Wales) Measure 2010 as a county or county borough council in Wales.
 
-[^key-ca3ceef7f3d6da7c3ae5005fd1e7193b]: Commencement: Reg. 4 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
+[^c-ca3ceef7f3d6da7c3ae5005fd1e7193b]: Commencement: Reg. 4 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
 
 [^f00004]: Footnote: The target financial years are set out in section 3(3) of the Measure. Financial year is defined in section 3(9) of the Measure as meaning a period of 12 months ending on 31 March.
 
 [^f00005]: Footnote: A local authority’s municipal waste is defined in section 3(8) of the Measure as the total amount by weight of each of the following: all the waste collected in that year by a local authority under section 45 of the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43); all waste deposited in that year at places provided by a local authority under subsections (1)(b) and (3) of section 51 of that Act; and such other waste as may be specified by order of the Welsh Ministers.
 
-[^key-3f78e3f7276b97f63675974631686319]: Commencement: Reg. 5 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
+[^c-3f78e3f7276b97f63675974631686319]: Commencement: Reg. 5 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
 
-[^key-64410d3784d61159f956b46d8729b019]: Commencement: Reg. 6 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
+[^c-64410d3784d61159f956b46d8729b019]: Commencement: Reg. 6 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
 
-[^key-b152183cf5f243963435ae9d53f99aeb]: Commencement: Reg. 7 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
+[^c-b152183cf5f243963435ae9d53f99aeb]: Commencement: Reg. 7 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
 
-[^key-59633cef20f18b384b3ae785ebc290d1]: Commencement: Reg. 8 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
+[^c-59633cef20f18b384b3ae785ebc290d1]: Commencement: Reg. 8 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
 
-[^key-cc952573d1020917d00611ce31b6208a]: Commencement: Reg. 9 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
+[^c-cc952573d1020917d00611ce31b6208a]: Commencement: Reg. 9 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
 
-[^key-b30295138f0000ad8326cefa8d80cb19]: Commencement: Reg. 10 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
+[^c-b30295138f0000ad8326cefa8d80cb19]: Commencement: Reg. 10 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
 
-[^key-9ebbd0e12febdeffdad677c21ba07af4]: Commencement: Reg. 11 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
+[^c-9ebbd0e12febdeffdad677c21ba07af4]: Commencement: Reg. 11 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
 
-[^key-91b3e239dd079d087b7103aca5f31be8]: Commencement: Reg. 12 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)
+[^c-91b3e239dd079d087b7103aca5f31be8]: Commencement: Reg. 12 in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/wsi/2011/1014/regulation/1)

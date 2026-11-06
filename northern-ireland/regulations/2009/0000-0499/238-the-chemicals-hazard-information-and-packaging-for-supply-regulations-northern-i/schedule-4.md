@@ -24,13 +24,13 @@ Regulations 7 and 9
 
 ### PART I — GENERAL PROVISIONS RELATING TO LABELS
 
-#### 1. Labelling particulars for dangerous substances[^key-9e4b167887aff0a81d6ec9a7e9fa56a2]
+#### 1. Labelling particulars for dangerous substances[^c-9e4b167887aff0a81d6ec9a7e9fa56a2]
 
 (1) In the case of a dangerous substance which is listed in Table 3.2 of part 3 of Annex VI of the CLP Regulation, the particulars to be shown on the label in accordance with regulation 7(2)(c) shall be the particulars specified for that dangerous substance in the relevant entry in that table.
 
 (2) Subject to paragraph 4, in the case of a dangerous substance which is not listed in Table 3.2 of part 3 of Annex VI of the CLP Regulation, the particulars required to be shown on the label in accordance with regulation 7(2)(c) shall be determined from the classification of the substance in accordance with regulation 4 in conjunction with the approved classification and labelling guide.
 
-#### 2. Labelling particulars for dangerous preparations[^key-4f49dc755780b1fba8bf61857fc3dfcf]
+#### 2. Labelling particulars for dangerous preparations[^c-4f49dc755780b1fba8bf61857fc3dfcf]
 
 (1) Subject to paragraphs 3 and 4, the provisions of this paragraph shall have effect in relation to the labelling of dangerous preparations.
 
@@ -77,7 +77,7 @@ Regulations 7 and 9
 
 (6) As a general rule, a maximum of four chemical names shall suffice to identify the substances primarily responsible for the major health hazards which have given rise to the classification and the choice of the corresponding risk phrases – although in some cases more than four chemical names may be necessary.
 
-#### 3. Confidentiality of chemical names[^key-16f7e026163f45790aef2d3e9d493574]
+#### 3. Confidentiality of chemical names[^c-16f7e026163f45790aef2d3e9d493574]
 
 (1) Subject to sub-paragraph (2), where the supplier of a dangerous preparation is able to demonstrate to the Executive that the disclosure on the label or safety data sheet of the chemical identity of a substance which is exclusively classified as—
 
@@ -92,7 +92,7 @@ will put at risk the confidential nature of his intellectual property, the perso
 
 (4) The Executive may require such further information from the supplier as is necessary to determine the validity of an application made under sub-paragraph (3).
 
-#### 4. Indications of danger and symbols for dangerous substances and dangerous preparations[^key-2067cfc6db9c935aecaa46fdcf036fcc]
+#### 4. Indications of danger and symbols for dangerous substances and dangerous preparations[^c-2067cfc6db9c935aecaa46fdcf036fcc]
 
 (1) Except in the case of a dangerous substance which is listed in Table 3.2 of part 3 of Annex VI of the CLP Regulation, where a dangerous substance or dangerous preparation is required to have more than one indication of danger in either of the following groups listed in decreasing order of severity, namely—
 
@@ -107,27 +107,27 @@ only one of the indications of danger with its symbol from each group correspond
 
 #### A — SPECIAL PROVISIONS FOR DANGEROUS PREPARATIONS
 
-##### 1. Dangerous preparations to be supplied to the general public[^key-e4259c5ead9b8ce54b590c895888cc07]
+##### 1. Dangerous preparations to be supplied to the general public[^c-e4259c5ead9b8ce54b590c895888cc07]
 
 (1) The label on the packaging of dangerous preparations intended to be supplied to the general public shall in addition to the relevant safety advice bear the relevant safety phrase S1, S2, S45 or S46 in accordance with the approved classification and labelling guide.
 
 (2) When the dangerous preparations referred to in sub-paragraph (1) are classified as very toxic, toxic or corrosive and where it is physically impossible to give the information on the package itself, packages containing such preparations shall be accompanied by precise and easily understandable instructions for use including, where appropriate, instructions for the destruction of the empty package.
 
-##### 2. Dangerous preparations intended for use by spraying[^key-b9a19fbb2139c0b437da1958a146808a]
+##### 2. Dangerous preparations intended for use by spraying[^c-b9a19fbb2139c0b437da1958a146808a]
 
 The label on the packaging containing dangerous preparations intended to be used for spraying shall bear the safety phrase S23 and safety phrase S38 or S51 assigned in accordance with the approved classification and labelling guide.
 
-##### 3. Dangerous preparations containing a substance affected by the risk phrase R33 (danger of cumulative effects)[^key-60ac504770a0378d03a459af92ecd754]
+##### 3. Dangerous preparations containing a substance affected by the risk phrase R33 (danger of cumulative effects)[^c-60ac504770a0378d03a459af92ecd754]
 
 When a dangerous preparation contains at least one substance required to show the risk phrase R33, that phrase shall be shown on the label on the packaging of the dangerous preparation when the concentration of that substance is equal to or higher than 1% unless a different value is shown for that substance in Table 3.2 of part 3 of Annex VI of the CLP Regulation.
 
-##### 4. Dangerous preparations containing a substance affected by the risk phrase R64 (may cause harm to breast-fed babies)[^key-7057562dbe4aa56cd30f935c1fac60b7]
+##### 4. Dangerous preparations containing a substance affected by the risk phrase R64 (may cause harm to breast-fed babies)[^c-7057562dbe4aa56cd30f935c1fac60b7]
 
 When a dangerous preparation contains at least one substance required to show the risk phrase R64, that phrase shall be shown on the label on the packaging of the dangerous preparation when the concentration of that substance is equal to or higher than 1% unless a different value is shown for that substance in Table 3.2 of part 3 of Annex VI of the CLP Regulation.
 
 #### B — SPECIAL PROVISIONS APPLYING TO ANY PREPARATION
 
-##### 1. Paints and varnishes containing lead[^key-fae4627d98b6944c2569da6af1728144]
+##### 1. Paints and varnishes containing lead[^c-fae4627d98b6944c2569da6af1728144]
 
 (1) The label on the packaging of paints and varnishes containing lead in quantities exceeding 0.15% (expressed as weight of lead out of the total weight of the preparation and determined in accordance with ISO Standard 6503/1984) shall bear the following inscription—
 
@@ -141,7 +141,7 @@ When a dangerous preparation contains at least one substance required to show th
 
 .
 
-##### 2. Cyanoacrylate based adhesives[^key-952603256e1edb101288d92a0b051f35]
+##### 2. Cyanoacrylate based adhesives[^c-952603256e1edb101288d92a0b051f35]
 
 (1) The label on the immediate packaging of glues based on cyanoacrylates shall bear the following inscription—
 
@@ -154,7 +154,7 @@ When a dangerous preparation contains at least one substance required to show th
 
 (2) Appropriate safety advice shall accompany the package.
 
-##### 3. Preparations containing isocyanates[^key-f85890fb52dcd30f13a1b89eb60ffaed]
+##### 3. Preparations containing isocyanates[^c-f85890fb52dcd30f13a1b89eb60ffaed]
 
 The label on the packaging of preparations containing isocyanates (whether as monomers, oligomers, prepolymers etc. or as preparations thereof) shall bear the following inscription—
 
@@ -163,7 +163,7 @@ The label on the packaging of preparations containing isocyanates (whether as mo
 
 .
 
-##### 4. Certain preparations containing epoxy constituents[^key-d67451df4c6f6c0fe2d04c3cba9cfa57]
+##### 4. Certain preparations containing epoxy constituents[^c-d67451df4c6f6c0fe2d04c3cba9cfa57]
 
 The label on the packaging of preparations containing epoxy constituents with an average molecular weight ≤ 700 shall bear the following inscription—
 
@@ -172,7 +172,7 @@ The label on the packaging of preparations containing epoxy constituents with an
 
 .
 
-##### 5. Preparations intended to be sold to the general public that contain active chlorine[^key-d6dba921570b5691af1e4b960d946f72]
+##### 5. Preparations intended to be sold to the general public that contain active chlorine[^c-d6dba921570b5691af1e4b960d946f72]
 
 The label on the packaging of preparations containing more than 1% of active chlorine which are intended to be sold to the general public shall bear the following inscription—
 
@@ -180,7 +180,7 @@ The label on the packaging of preparations containing more than 1% of active chl
 
 .
 
-##### 6. Preparations containing cadmium (alloys) intended to be used for brazing or soldering[^key-0b8ed4f7850782b0ad9201374f8a3b3d]
+##### 6. Preparations containing cadmium (alloys) intended to be used for brazing or soldering[^c-0b8ed4f7850782b0ad9201374f8a3b3d]
 
 The label on the packaging of preparations containing cadmium (alloys) intended to be used for brazing or soldering shall bear the following inscription—
 
@@ -191,7 +191,7 @@ The label on the packaging of preparations containing cadmium (alloys) intended 
 
 .
 
-##### 7. Preparations not classified as sensitising but containing at least one sensitising substance[^key-117b6f357e8ba3ebfd435cc683958a05]
+##### 7. Preparations not classified as sensitising but containing at least one sensitising substance[^c-117b6f357e8ba3ebfd435cc683958a05]
 
 The label on the packaging of preparations containing at least one substance classified as sensitising and being present in a concentration ≥ 0.1% or in a concentration greater than or equal to that specified under a specific note for the substance in Table 3.2 of part 3 of Annex VI of the CLP Regulation shall bear the inscription—
 
@@ -199,7 +199,7 @@ The label on the packaging of preparations containing at least one substance cla
 
 .
 
-##### 8. Liquid preparations containing halogenated hydrocarbons[^key-a44d98bb5df6747246a93996838a8b45]
+##### 8. Liquid preparations containing halogenated hydrocarbons[^c-a44d98bb5df6747246a93996838a8b45]
 
 For liquid preparations which show no flashpoint or a flashpoint higher than 55°C and contain a halogenated hydrocarbon and more than 5% flammable or highly flammable substances, the label on the packaging shall bear the following inscription as appropriate—
 
@@ -211,7 +211,7 @@ or
 
 .
 
-##### 9. Preparations containing a substance assigned the risk phrase R67[^key-bb19a1abace79c6fff9ddeb1193d0a39]
+##### 9. Preparations containing a substance assigned the risk phrase R67[^c-bb19a1abace79c6fff9ddeb1193d0a39]
 
 When a preparation contains one or more substances assigned the risk phrase R67, the label on the packaging of the preparation shall bear the following inscription—
 
@@ -223,7 +223,7 @@ When a preparation contains one or more substances assigned the risk phrase R67,
   - the preparation is already classified with phrases R20, R23, R26, R68/20, R39/23 or R39/26, or
   - the preparation is in a package not exceeding 125 ml.
 
-##### 10. Cement and cement preparations[^key-14e878f9f268f834a144d9559ba1a596]
+##### 10. Cement and cement preparations[^c-14e878f9f268f834a144d9559ba1a596]
 
 (1) The label on the packaging of any cement or cement preparation which would contain, when hydrated, more than 0.0002% soluble chromium (VI) of the total dry weight of the cement but for the use of reducing agents shall be marked with information on the packing date, and on the storage conditions and the storage period appropriate to maintaining the activity of the reducing agent and to preventing the content of soluble chromium (VI) from exceeding 0.0002% of the total dry weight of the cement, unless it is supplied or used for controlled, closed and totally automated processes in which cement and cement-containing preparations are handled solely by machines and in which there is no possibility of contact with the skin.
 
@@ -237,7 +237,7 @@ When a preparation contains one or more substances assigned the risk phrase R67,
 
 #### C — SPECIAL PROVISIONS APPLYING TO CERTAIN OTHER PREPARATIONS
 
-##### 1. Preparations not intended for the general public[^key-07fb561e69a7a13553444e8b26f6fa08]
+##### 1. Preparations not intended for the general public[^c-07fb561e69a7a13553444e8b26f6fa08]
 
 The label on the packaging of a preparation of the type specified in Article 31(3) of REACH shall bear the following inscription—
 
@@ -247,42 +247,42 @@ The label on the packaging of a preparation of the type specified in Article 31(
 
 ## Annotations
 
-[^key-9e4b167887aff0a81d6ec9a7e9fa56a2]: Commencement: [Sch. 4 Pt. I para. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/I/paragraph/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-9e4b167887aff0a81d6ec9a7e9fa56a2]: Commencement: [Sch. 4 Pt. I para. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/I/paragraph/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-4f49dc755780b1fba8bf61857fc3dfcf]: Commencement: [Sch. 4 Pt. I para. 2](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/I/paragraph/2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-4f49dc755780b1fba8bf61857fc3dfcf]: Commencement: [Sch. 4 Pt. I para. 2](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/I/paragraph/2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-16f7e026163f45790aef2d3e9d493574]: Commencement: [Sch. 4 Pt. I para. 3](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/I/paragraph/3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-16f7e026163f45790aef2d3e9d493574]: Commencement: [Sch. 4 Pt. I para. 3](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/I/paragraph/3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
 [^f00052]: Footnote: O.J. No. L200, 30.7.1999, p.1
 
-[^key-2067cfc6db9c935aecaa46fdcf036fcc]: Commencement: [Sch. 4 Pt. I para. 4](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/I/paragraph/4) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-2067cfc6db9c935aecaa46fdcf036fcc]: Commencement: [Sch. 4 Pt. I para. 4](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/I/paragraph/4) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-e4259c5ead9b8ce54b590c895888cc07]: Commencement: [Sch. 4 Pt. II Ch. A para. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/A/paragraph/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-e4259c5ead9b8ce54b590c895888cc07]: Commencement: [Sch. 4 Pt. II Ch. A para. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/A/paragraph/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-b9a19fbb2139c0b437da1958a146808a]: Commencement: [Sch. 4 Pt. II Ch. A para. 2](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/A/paragraph/2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-b9a19fbb2139c0b437da1958a146808a]: Commencement: [Sch. 4 Pt. II Ch. A para. 2](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/A/paragraph/2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-60ac504770a0378d03a459af92ecd754]: Commencement: [Sch. 4 Pt. II Ch. A para. 3](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/A/paragraph/3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-60ac504770a0378d03a459af92ecd754]: Commencement: [Sch. 4 Pt. II Ch. A para. 3](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/A/paragraph/3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-7057562dbe4aa56cd30f935c1fac60b7]: Commencement: [Sch. 4 Pt. II Ch. A para. 4](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/A/paragraph/4) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-7057562dbe4aa56cd30f935c1fac60b7]: Commencement: [Sch. 4 Pt. II Ch. A para. 4](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/A/paragraph/4) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-fae4627d98b6944c2569da6af1728144]: Commencement: [Sch. 4 Pt. II Ch. B para. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/B/paragraph/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-fae4627d98b6944c2569da6af1728144]: Commencement: [Sch. 4 Pt. II Ch. B para. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/B/paragraph/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-952603256e1edb101288d92a0b051f35]: Commencement: [Sch. 4 Pt. II Ch. B para. 2](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/B/paragraph/2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-952603256e1edb101288d92a0b051f35]: Commencement: [Sch. 4 Pt. II Ch. B para. 2](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/B/paragraph/2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-f85890fb52dcd30f13a1b89eb60ffaed]: Commencement: [Sch. 4 Pt. II Ch. B para. 3](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/B/paragraph/3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-f85890fb52dcd30f13a1b89eb60ffaed]: Commencement: [Sch. 4 Pt. II Ch. B para. 3](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/B/paragraph/3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-d67451df4c6f6c0fe2d04c3cba9cfa57]: Commencement: [Sch. 4 Pt. II Ch. B para. 4](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/B/paragraph/4) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-d67451df4c6f6c0fe2d04c3cba9cfa57]: Commencement: [Sch. 4 Pt. II Ch. B para. 4](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/B/paragraph/4) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-d6dba921570b5691af1e4b960d946f72]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/paragraph/5) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-d6dba921570b5691af1e4b960d946f72]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/paragraph/5) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-0b8ed4f7850782b0ad9201374f8a3b3d]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/paragraph/6) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-0b8ed4f7850782b0ad9201374f8a3b3d]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/paragraph/6) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-117b6f357e8ba3ebfd435cc683958a05]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/paragraph/7) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-117b6f357e8ba3ebfd435cc683958a05]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/paragraph/7) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-a44d98bb5df6747246a93996838a8b45]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/paragraph/8) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-a44d98bb5df6747246a93996838a8b45]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/paragraph/8) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-bb19a1abace79c6fff9ddeb1193d0a39]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/paragraph/9) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-bb19a1abace79c6fff9ddeb1193d0a39]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/paragraph/9) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-14e878f9f268f834a144d9559ba1a596]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/paragraph/10) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-14e878f9f268f834a144d9559ba1a596]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/paragraph/10) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-07fb561e69a7a13553444e8b26f6fa08]: Commencement: [Sch. 4 Pt. II Ch. C para. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/C/paragraph/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-07fb561e69a7a13553444e8b26f6fa08]: Commencement: [Sch. 4 Pt. II Ch. C para. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/4/part/II/chapter/C/paragraph/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)

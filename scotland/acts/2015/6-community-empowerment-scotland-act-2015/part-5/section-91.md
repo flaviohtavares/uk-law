@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Effect of offers on appeals and reviews[^key-94f89aeaabe17534f4f1b445c2c54191]
+## 91. Effect of offers on appeals and reviews[^c-94f89aeaabe17534f4f1b445c2c54191]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94f89aeaabe17534f4f1b445c2c54191]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2015/6/section/91) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)
+[^c-94f89aeaabe17534f4f1b445c2c54191]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2015/6/section/91) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)

@@ -47,8 +47,8 @@ except to the extent that the tax is attributable to the value of property which
 (2) In this section “**qualifying property**” means—
 
 - (a) land of any description, wherever situated;
-- (aa)[^key-573f074c2e4dc2c74f896fa2830f1290] property that is relevant business property for the purposes of Chapter 1 of Part 5;
-- (b) shares or securities to which section 228 below applies and that are not relevant business property for the purposes of that Chapter[^key-fb4dc87d4e97c406d06e41d8a1e3a280];
+- (aa)[^c-573f074c2e4dc2c74f896fa2830f1290] property that is relevant business property for the purposes of Chapter 1 of Part 5;
+- (b) shares or securities to which section 228 below applies and that are not relevant business property for the purposes of that Chapter[^c-fb4dc87d4e97c406d06e41d8a1e3a280];
 - (c) a business or an interest in a business.
 
 (3) The first of the instalments referred to in subsection (1) above shall be payable—
@@ -97,8 +97,8 @@ and interest under section 233 below on the unpaid portion of the tax shall be a
 
 [^c13613831]: Textual amendment: Finance Act 1987 Sch. 8, para. 15(3),*with effect from* 17*March* 1987.
 
-[^key-573f074c2e4dc2c74f896fa2830f1290]: Textual amendment: [S. 227(2)(aa)](https://www.legislation.gov.uk/ukpga/1984/51/section/227/2/aa) inserted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 13(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/13/1/a), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-573f074c2e4dc2c74f896fa2830f1290]: Textual amendment: [S. 227(2)(aa)](https://www.legislation.gov.uk/ukpga/1984/51/section/227/2/aa) inserted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 13(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/13/1/a), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
-[^key-fb4dc87d4e97c406d06e41d8a1e3a280]: Textual amendment: Words in [s. 227(2)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/227/2/b) inserted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/13/1/b), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-fb4dc87d4e97c406d06e41d8a1e3a280]: Textual amendment: Words in [s. 227(2)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/227/2/b) inserted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/13/1/b), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
 [^c13613841]: Textual amendment: Finance Act 1986 Sch. 19, para. 31(2),*with effect from* 18*March* 1986.

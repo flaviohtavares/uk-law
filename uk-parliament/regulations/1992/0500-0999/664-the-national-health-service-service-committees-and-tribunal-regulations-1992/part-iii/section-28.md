@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28 (Extent: E) (affected by repeal, see note). Applications for removal of disqualification (Extent: E) (affected by repeal, see note)[^key-5b77432be800e73f5218bc2fbeb99248][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
+## 28 (Extent: E) (affected by repeal, see note). Applications for removal of disqualification (Extent: E) (affected by repeal, see note)[^c-5b77432be800e73f5218bc2fbeb99248][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ may be made to the Tribunal and shall be made in accordance with this regulation
 
 ## Annotations
 
-[^key-5b77432be800e73f5218bc2fbeb99248]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/1992/664/regulation/28) substituted (1.4.1998) by [The National Health Service (Service Committees and Tribunal) Amendment Regulations 1998 (S.I. 1998/674)](https://www.legislation.gov.uk/uksi/1998/674), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/674/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1998/674/regulation/8)
+[^c-5b77432be800e73f5218bc2fbeb99248]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/1992/664/regulation/28) substituted (1.4.1998) by [The National Health Service (Service Committees and Tribunal) Amendment Regulations 1998 (S.I. 1998/674)](https://www.legislation.gov.uk/uksi/1998/674), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/674/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1998/674/regulation/8)
 
 [^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]: Textual amendment: Regulations revoked (E.) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/1/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Temporary provision: wine[^M_I_00a2bb61-8e7a-4cf6-bcea-a62ee5dd8e15][^key-e72d38a9dd587cccb97b474ad95dcc50]
+## 115. Temporary provision: wine[^M_I_00a2bb61-8e7a-4cf6-bcea-a62ee5dd8e15][^c-e72d38a9dd587cccb97b474ad95dcc50]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^M_I_00a2bb61-8e7a-4cf6-bcea-a62ee5dd8e15]: Commencement: S. 115 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-e72d38a9dd587cccb97b474ad95dcc50]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2023/30/section/115) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/k) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-e72d38a9dd587cccb97b474ad95dcc50]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2023/30/section/115) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/k) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Transitional provisions and savings[^key-80d2009f84ab8f4ae79287a3df6530ac]
+## 9. Transitional provisions and savings[^c-80d2009f84ab8f4ae79287a3df6530ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 to this Order contains transitional provisions and savings relating t
 
 ## Annotations
 
-[^key-80d2009f84ab8f4ae79287a3df6530ac]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2007/2194/article/9) in force at 1.10.2007, see [arts. 1(3)(e), 2](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/e)
+[^c-80d2009f84ab8f4ae79287a3df6530ac]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2007/2194/article/9) in force at 1.10.2007, see [arts. 1(3)(e), 2](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/e)

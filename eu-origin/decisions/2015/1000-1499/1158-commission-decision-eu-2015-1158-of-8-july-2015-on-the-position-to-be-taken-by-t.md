@@ -33,77 +33,77 @@ of 8 July 2015
 
 on the position to be taken by the Commission, on behalf of the European Union, in the Joint Implementation Committee set up by the Voluntary Partnership Agreement between the European Union and the Republic of Indonesia on Forest Law Enforcement, Governance and Trade in timber products into the European Union as regards the amendments to the Annexes I, II, and V of the Voluntary Partnership Agreement between the European Union and the Republic of Indonesia (revoked)
 
-[^key-9ece22ff4cbb007482167469b03edb70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ece22ff4cbb007482167469b03edb70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-9ece22ff4cbb007482167469b03edb70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9ece22ff4cbb007482167469b03edb70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9ece22ff4cbb007482167469b03edb70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9ece22ff4cbb007482167469b03edb70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-9ece22ff4cbb007482167469b03edb70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-9ece22ff4cbb007482167469b03edb70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ece22ff4cbb007482167469b03edb70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ece22ff4cbb007482167469b03edb70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Decision No 3/2015 of the Joint Implementation Committee set up by the Voluntary Partnership Agreement between the European Union, of the one part, and the Republic of Indonesia, of the other part, adopting amendments to the Annexes I, II, and V of the Agreement[^key-9ece22ff4cbb007482167469b03edb70]
+## ANNEX — Decision No 3/2015 of the Joint Implementation Committee set up by the Voluntary Partnership Agreement between the European Union, of the one part, and the Republic of Indonesia, of the other part, adopting amendments to the Annexes I, II, and V of the Agreement[^c-9ece22ff4cbb007482167469b03edb70]
 
-[^key-9ece22ff4cbb007482167469b03edb70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9ece22ff4cbb007482167469b03edb70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9ece22ff4cbb007482167469b03edb70]ANNEX
+[^c-9ece22ff4cbb007482167469b03edb70]ANNEX
 
-> [^key-9ece22ff4cbb007482167469b03edb70]ANNEX I
+> [^c-9ece22ff4cbb007482167469b03edb70]ANNEX I
 >
 > **PRODUCT COVERAGE**
 >
 > The list in this Annex refers to the Harmonised Commodity Description and Coding System established by the International Convention on the Harmonised Commodity Description and Coding System of the World Customs Union.
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]ANNEX IA
+> [^c-9ece22ff4cbb007482167469b03edb70]ANNEX IA
 >
 > THE HARMONISED COMMODITY CODES FOR TIMBER AND TIMBER PRODUCTS COVERED UNDER THE FLEGT LICENSING SCHEME
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]ANNEX IB
+> [^c-9ece22ff4cbb007482167469b03edb70]ANNEX IB
 >
 > THE HARMONISED COMMODITY CODES FOR TIMBER PROHIBITED FROM EXPORT UNDER INDONESIAN LAW
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]ANNEX II
+> [^c-9ece22ff4cbb007482167469b03edb70]ANNEX II
 >
 > **LEGALITY DEFINITION**
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]INTRODUCTION
+> [^c-9ece22ff4cbb007482167469b03edb70]INTRODUCTION
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]LEGALITY STANDARD 1: THE STANDARDS FOR CONCESSIONS WITHIN PRODUCTION FOREST ZONES
+> [^c-9ece22ff4cbb007482167469b03edb70]LEGALITY STANDARD 1: THE STANDARDS FOR CONCESSIONS WITHIN PRODUCTION FOREST ZONES
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]LEGALITY STANDARD 2: THE STANDARD FOR COMMUNITY PLANTATION FORESTS AND COMMUNITY FORESTS WITHIN PRODUCTION FOREST ZONES
+> [^c-9ece22ff4cbb007482167469b03edb70]LEGALITY STANDARD 2: THE STANDARD FOR COMMUNITY PLANTATION FORESTS AND COMMUNITY FORESTS WITHIN PRODUCTION FOREST ZONES
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]LEGALITY STANDARD 3: THE STANDARD FOR PRIVATELY-OWNED FORESTS
+> [^c-9ece22ff4cbb007482167469b03edb70]LEGALITY STANDARD 3: THE STANDARD FOR PRIVATELY-OWNED FORESTS
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]LEGALITY STANDARD 4: THE STANDARD FOR TIMBER UTILISATION RIGHTS WITHIN NON-FOREST ZONES OR FROM CONVERTIBLE PRODUCTION FOREST
+> [^c-9ece22ff4cbb007482167469b03edb70]LEGALITY STANDARD 4: THE STANDARD FOR TIMBER UTILISATION RIGHTS WITHIN NON-FOREST ZONES OR FROM CONVERTIBLE PRODUCTION FOREST
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]LEGALITY STANDARD 5: THE STANDARD FOR PRIMARY AND DOWNSTREAM FOREST-BASED INDUSTRIES AND TRADERS
+> [^c-9ece22ff4cbb007482167469b03edb70]LEGALITY STANDARD 5: THE STANDARD FOR PRIMARY AND DOWNSTREAM FOREST-BASED INDUSTRIES AND TRADERS
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-> [^key-9ece22ff4cbb007482167469b03edb70]ANNEX V
+> [^c-9ece22ff4cbb007482167469b03edb70]ANNEX V
 >
 > **INDONESIAN TIMBER LEGALITY ASSURANCE SYSTEM**
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]1.
+> [^c-9ece22ff4cbb007482167469b03edb70]1.
 >
 > **Introduction**
 >
@@ -115,19 +115,19 @@ on the position to be taken by the Commission, on behalf of the European Union, 
 >
 > The Indonesian Timber Legality Assurance System (TLAS) provides assurance that timber and timber products produced and processed in Indonesia come from legal sources and are in full compliance with relevant Indonesian laws and regulations, as verified by independent auditing and monitored by civil society.
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]1.1.
+> [^c-9ece22ff4cbb007482167469b03edb70]1.1.
 >
 > Indonesian laws and regulations as foundation of the TLAS
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]1.2.
+> [^c-9ece22ff4cbb007482167469b03edb70]1.2.
 >
 > Development of the TLAS: a multi-stakeholder process
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]2.
+> [^c-9ece22ff4cbb007482167469b03edb70]2.
 >
 > **Scope of the TLAS**
 >
@@ -147,13 +147,13 @@ on the position to be taken by the Commission, on behalf of the European Union, 
 >
 > Timber and timber products in transit are strictly kept outside the gazetted Principal Customs Areas (PCA). Thus, such transit timber does not enter the PCA and furthermore will not be included in the timber supply chains of Indonesia. No transit timber will be issued with an export licence.
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]2.1.
+> [^c-9ece22ff4cbb007482167469b03edb70]2.1.
 >
 > TLAS legality standards
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]3.
+> [^c-9ece22ff4cbb007482167469b03edb70]3.
 >
 > **Control of the Timber Supply Chain**
 >
@@ -165,85 +165,85 @@ on the position to be taken by the Commission, on behalf of the European Union, 
 >
 > Operators in the supply chain are required to keep complete records on received, stored, processed and delivered timber and timber products. These records must be sufficient to enable subsequent reconciliation of quantitative data between and within nodes of the supply chain. Such data shall be made available for provincial and district forestry officials to carry out reconciliation. Main activities and procedures, including reconciliation, for each stage of the supply chain and the role of the CABs in assessing the integrity of the supply chain, are further explained in the Appendix of this Annex.
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]*Diagram 1*
+> [^c-9ece22ff4cbb007482167469b03edb70]*Diagram 1*
 >
 > **Control of the supply chain which shows the required key documents at each point in the supply chain where data reconciliation takes place**
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]4.
+> [^c-9ece22ff4cbb007482167469b03edb70]4.
 >
 > **Institutional set-up for Legality Verification and Export Licensing**
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]4.1.
+> [^c-9ece22ff4cbb007482167469b03edb70]4.1.
 >
 > Introduction
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]4.2.
+> [^c-9ece22ff4cbb007482167469b03edb70]4.2.
 >
 > Conformity assessment bodies and Licencing Authorities
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]4.3.
+> [^c-9ece22ff4cbb007482167469b03edb70]4.3.
 >
 > Accreditation body
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]4.4.
+> [^c-9ece22ff4cbb007482167469b03edb70]4.4.
 >
 > Auditees
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]4.5.
+> [^c-9ece22ff4cbb007482167469b03edb70]4.5.
 >
 > Independent monitor
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]4.6.
+> [^c-9ece22ff4cbb007482167469b03edb70]4.6.
 >
 > The Government
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]5.
+> [^c-9ece22ff4cbb007482167469b03edb70]5.
 >
 > **Legality Verification**
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]5.1.
+> [^c-9ece22ff4cbb007482167469b03edb70]5.1.
 >
 > Introduction
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]5.2.
+> [^c-9ece22ff4cbb007482167469b03edb70]5.2.
 >
 > Legality verification process by CABs
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]5.3.
+> [^c-9ece22ff4cbb007482167469b03edb70]5.3.
 >
 > Legality verification using Supplier's Declaration of Conformity (SDoC) and internal checks
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]5.4.
+> [^c-9ece22ff4cbb007482167469b03edb70]5.4.
 >
 > Legality verification of imported timber and timber products
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]5.5.
+> [^c-9ece22ff4cbb007482167469b03edb70]5.5.
 >
 > Government responsibility for enforcement
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]6.
+> [^c-9ece22ff4cbb007482167469b03edb70]6.
 >
 > **FLEGT Licensing**
 >
@@ -276,7 +276,7 @@ on the position to be taken by the Commission, on behalf of the European Union, 
 >   - Forward a copy of a V-Legal Document/FLEGT licence or non-compliance report to the Ministry of Forestry within twenty four hours from the time the decision was taken;
 >   - Submit a comprehensive report and a public summary report outlining the number of V-Legal Documents/FLEGT licence issued as well as the number and type of non-compliances detected to the Ministry of Forestry once every three months with copies to the Ministry of Trade and Ministry of Industry.
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]7.
+> [^c-9ece22ff4cbb007482167469b03edb70]7.
 >
 > **Monitoring**
 >
@@ -286,31 +286,31 @@ on the position to be taken by the Commission, on behalf of the European Union, 
 >
 > The objective of PE is to provide independent assurance that the Indonesian TLAS is functioning as described, thereby enhancing the credibility of the FLEGT licences issued. PE makes use of the findings and recommendations of IM. Terms of Reference for PE are set out in Annex VI.
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]Appendix
+> [^c-9ece22ff4cbb007482167469b03edb70]Appendix
 >
 > **Control of the Supply Chain**
 >
 > As described in Annex V, all along the different supply chains, operators' declarations and record keeping (e.g. transport documents and balance-sheet reports) must indicate whether timber or timber products are SVLK certified, declared legal by use of Suppliers' Declaration of Conformity (SDoC), or from an impounded source.
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]1.
+> [^c-9ece22ff4cbb007482167469b03edb70]1.
 >
 > DESCRIPTION OF THE OPERATIONAL CONTROL OF THE SUPPLY CHAIN FOR TIMBER FROM STATE-OWNED FORESTS
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]2.
+> [^c-9ece22ff4cbb007482167469b03edb70]2.
 >
 > DESCRIPTION OF THE OPERATIONAL CONTROL OF SUPPLY CHAINS OF TIMBER FROM FOR PRIVATELY OWNED FORESTS/LANDS
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]3.
+> [^c-9ece22ff4cbb007482167469b03edb70]3.
 >
 > DESCRIPTION OF THE OPERATIONAL CONTROL OF TIMBER SUPPLY CHAINS FOR DEPOTS AND INDUSTRY
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-9ece22ff4cbb007482167469b03edb70]4.
+> [^c-9ece22ff4cbb007482167469b03edb70]4.
 >
 > EXPORT
 >
@@ -318,4 +318,4 @@ on the position to be taken by the Commission, on behalf of the European Union, 
 
 ## Annotations
 
-[^key-9ece22ff4cbb007482167469b03edb70]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-9ece22ff4cbb007482167469b03edb70]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

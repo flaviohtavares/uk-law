@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 6 — Exemptions for small pet animals[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+## SCHEDULE 6 — Exemptions for small pet animals[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 *Extent: E+W+S+NI*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Regulation 15(4)
 
-### 1. Animals to which this Schedule applies[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### 1. Animals to which this Schedule applies[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Placing on the market, importing and administering the product[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### 2. Placing on the market, importing and administering the product[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Manufacture[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### 3. Manufacture[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Approval of the active substance[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### 4. Approval of the active substance[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. The product[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### 5. The product[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Labelling[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### 6. Labelling[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Administration[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### 7. Administration[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Pack size[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### 8. Pack size[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Adverse reactions[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### 9. Adverse reactions[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f3eb49940157ce4e55ebf70ddde0ca8]: Textual amendment: Regulations revoked (1.10.2011) by [The Veterinary Medicines Regulations 2011 (S.I. 2011/2159)](https://www.legislation.gov.uk/uksi/2011/2159), regs. 1, [46(1)](https://www.legislation.gov.uk/uksi/2011/2159/regulation/46/1)
+[^c-9f3eb49940157ce4e55ebf70ddde0ca8]: Textual amendment: Regulations revoked (1.10.2011) by [The Veterinary Medicines Regulations 2011 (S.I. 2011/2159)](https://www.legislation.gov.uk/uksi/2011/2159), regs. 1, [46(1)](https://www.legislation.gov.uk/uksi/2011/2159/regulation/46/1)

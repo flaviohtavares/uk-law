@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Exemption from Data Protection Act 1998[^key-4d08d61da8555f34a60dd096c91457ba]
+## 200. Exemption from Data Protection Act 1998[^c-4d08d61da8555f34a60dd096c91457ba]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ In section 31 of the Data Protection Act 1998 (c. 29) (exemptions for regulatory
 
 ## Annotations
 
-[^key-4d08d61da8555f34a60dd096c91457ba]: Commencement: S. 200 in force at 1.4.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(k)](https://www.legislation.gov.uk/uksi/2008/172/article/4/k)
+[^c-4d08d61da8555f34a60dd096c91457ba]: Commencement: S. 200 in force at 1.4.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(k)](https://www.legislation.gov.uk/uksi/2008/172/article/4/k)

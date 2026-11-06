@@ -152,7 +152,7 @@ Regulation 39(5)
 >
 > In this Schedule “**ITC Regulation**” means Commission Regulation 2010/838/EU of 23 September 2010 on laying down guidelines relating to the inter-transmission system operator compensation mechanism and a common regulatory approach to transmission charging.
 >
-> **11.**[^key-0b6a72414f3f42b6018efbfc2e6a5db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-0b6a72414f3f42b6018efbfc2e6a5db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -196,4 +196,4 @@ Regulation 39(5)
 
 [^c21105561]: Marginal citation: Section is inserted by regulation 4 of these Regulations.
 
-[^key-0b6a72414f3f42b6018efbfc2e6a5db2]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2704/schedule/4) omitted (14.1.2015) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2014 (S.I. 2014/3332)](https://www.legislation.gov.uk/uksi/2014/3332), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3332/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2014/3332/regulation/7)
+[^c-0b6a72414f3f42b6018efbfc2e6a5db2]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2704/schedule/4) omitted (14.1.2015) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2014 (S.I. 2014/3332)](https://www.legislation.gov.uk/uksi/2014/3332), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3332/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2014/3332/regulation/7)

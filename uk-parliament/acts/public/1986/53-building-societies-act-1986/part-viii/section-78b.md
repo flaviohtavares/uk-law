@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78B. Senior statutory auditor[^key-530136c5924e87c3024583fd2151b6f3]
+## 78B. Senior statutory auditor[^c-530136c5924e87c3024583fd2151b6f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-530136c5924e87c3024583fd2151b6f3]: Textual amendment: Ss. 78A-78D substituted for s. 78A (29.6.2008) by [The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1519)](https://www.legislation.gov.uk/uksi/2008/1519), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1519/article/1/2), [5](https://www.legislation.gov.uk/uksi/2008/1519/article/5)
+[^c-530136c5924e87c3024583fd2151b6f3]: Textual amendment: Ss. 78A-78D substituted for s. 78A (29.6.2008) by [The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1519)](https://www.legislation.gov.uk/uksi/2008/1519), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1519/article/1/2), [5](https://www.legislation.gov.uk/uksi/2008/1519/article/5)

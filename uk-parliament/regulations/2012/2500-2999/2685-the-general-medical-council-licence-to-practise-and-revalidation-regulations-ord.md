@@ -79,7 +79,7 @@ The General Medical Council, in exercise of their powers under sections 29A(2) t
 (2) In these Regulations—
 
 - “**the Act**” means the Medical Act 1983;
-- “appropriate cover” in relation to practice as a medical practitioner, means cover against liabilities that may be incurred in practising as such which is appropriate, having regard to the nature and extent of the risks of practising as such;[^key-0872246e5c18bb6353d49f26284d92f6]
+- “appropriate cover” in relation to practice as a medical practitioner, means cover against liabilities that may be incurred in practising as such which is appropriate, having regard to the nature and extent of the risks of practising as such;[^c-0872246e5c18bb6353d49f26284d92f6]
 - “**the GMC reference number**” means, in relation to any individual medical practitioner, the number allocated and notified as such to that practitioner by the Registrar;
 - “**licence**” means a licence to practise;
 - “**licensed practitioner**” means a registered practitioner who holds a licence;
@@ -92,7 +92,7 @@ The General Medical Council, in exercise of their powers under sections 29A(2) t
 
 (3) In these Regulations, references to numbered Parts, sections and subsections are references to so numbered Parts, sections and subsections of the Act.
 
-(4)[^key-696d5a475fb0a0ec73bf57b2ffc8be06] For the purposes of these Regulations, an indemnity arrangement may comprise—
+(4)[^c-696d5a475fb0a0ec73bf57b2ffc8be06] For the purposes of these Regulations, an indemnity arrangement may comprise—
 
 - (a) a policy of insurance;
 - (b) an arrangement for the purposes of indemnifying a person;
@@ -131,16 +131,16 @@ The General Medical Council, in exercise of their powers under sections 29A(2) t
 
 ### 3. Grant or refusal of a licence
 
-(1) Subject to[^key-97b94432a86576192d69be805162abd5] paragraphs (1A) and (1C),[^key-c0c1f22060f24498ebb0cd97df743f11] the Registrar must grant a licence to a medical practitioner—
+(1) Subject to[^c-97b94432a86576192d69be805162abd5] paragraphs (1A) and (1C),[^c-c0c1f22060f24498ebb0cd97df743f11] the Registrar must grant a licence to a medical practitioner—
 
-- (a) upon registration under the Act whether such registration is full or provisional, or by virtue of section [^key-73c29f9af95c99be12bd1ade917aa1f4]... 18A (temporary registration with regard to emergencies) [^c21421891], 27A (temporary registration with regard to emergencies) [^c21421901] or 27B (special purpose registration) [^c21421911];
+- (a) upon registration under the Act whether such registration is full or provisional, or by virtue of section [^c-73c29f9af95c99be12bd1ade917aa1f4]... 18A (temporary registration with regard to emergencies) [^c21421891], 27A (temporary registration with regard to emergencies) [^c21421901] or 27B (special purpose registration) [^c21421911];
 - (b) unless the practitioner requests otherwise, upon restoration of the practitioner's name to the register pursuant to regulations made under—
   - (i) subsection (8) of section 31 (power to make regulations with respect to the registers) [^c21421921], or
   - (ii) subsection (1)(c) of section 31A (voluntary removal from the register) [^c21421931];
 - (c) unless the practitioner requests otherwise, upon restoration of the practitioner's name to the register pursuant to section 41(1) (restoration of names to the register) [^c21421941], where the practitioner's name had, before the coming into force of the General Medical Council (Licence to Practise) Regulations 2009 [^c21421951], been erased from the register pursuant to section 35D (functions of a Fitness to Practise Panel) [^c21421961]; or
 - (d) unless the practitioner requests otherwise, upon the date that a period of suspension, including any extension of a period of suspension or any period of suspension ordered to take effect immediately, comes to an end, where the practitioner had, before the coming into force of the General Medical Council (Licence to Practise) Regulations 2009, been suspended under Part V.
 
-(1A)[^key-2b9374de213f91434798f873d8d2b6df] The Registrar may refuse to grant a licence—
+(1A)[^c-2b9374de213f91434798f873d8d2b6df] The Registrar may refuse to grant a licence—
 
 - (a) under paragraph (1)(a), (c) or (d), or
 - (b) upon restoration of the practitioner’s name to the register where the practitioner’s name had been erased from the register under the provisions set out in sub-paragraph (i) or (ii) of paragraph (1)(b) before the coming into force of the General Medical Council (Licence to Practise) Regulations 2009,
@@ -149,7 +149,7 @@ to a medical practitioner in any case where the person has not demonstrated the 
 
 (1B) In determining whether a medical practitioner has demonstrated the necessary knowledge of English under paragraph (1A) the Registrar must take account of the guidance published by the General Council under section 29G(2A) of the Act and such evidence as a person provides of his knowledge of English in accordance with that guidance .
 
-(1C)[^key-d9af682e279d8ef9d64185fd8bb74ee7] The Registrar may refuse to grant a licence under paragraph (1) to a medical practitioner who has failed to provide—
+(1C)[^c-d9af682e279d8ef9d64185fd8bb74ee7] The Registrar may refuse to grant a licence under paragraph (1) to a medical practitioner who has failed to provide—
 
 - (a) confirmation that they have in force or will have in force in relation to them by the time they begin practice as a licensed practitioner, an indemnity arrangement which provides appropriate cover; or
 - (b) any other evidence or information requested by the Registrar under regulation 4A.
@@ -162,7 +162,7 @@ to a medical practitioner in any case where the person has not demonstrated the 
 - (b) the practitioner's registered address or an address to which the Registrar may send the practitioner written communications about the application;
 - (c) if the practitioner is willing to receive written communications about the application by electronic mail, an electronic mail address to which the Registrar may send such communications;
 - (d) confirmation that the practitioner has not since the time of the coming into force of the General Medical Council (Licence to Practise) Regulations 2009 provided medical services for which a licence is required;
-- (da)[^key-4b6d27ef34c6a87fb80056bd4f078238] a statement by the practitioner that the practitioner has in force, or will have in force in relation to them by the time the practitioner begins to practise as a licensed practitioner in the UK, an indemnity arrangement which provides appropriate cover;
+- (da)[^c-4b6d27ef34c6a87fb80056bd4f078238] a statement by the practitioner that the practitioner has in force, or will have in force in relation to them by the time the practitioner begins to practise as a licensed practitioner in the UK, an indemnity arrangement which provides appropriate cover;
 - (e) the name and address of—
   - (i) any person, body or organisation by whom the practitioner is employed to provide medical services, and
   - (ii) any person, body or organisation with whom the practitioner has an arrangement to provide medical services;
@@ -184,7 +184,7 @@ to a medical practitioner in any case where the person has not demonstrated the 
 - (b) any person or an officer of any body or organisation named in accordance with paragraph (3)(e); and
 - (c) an officer of any regulatory body (other than the General Council) with which the practitioner has been registered within the period of 5 years ending with the date of the application.
 
-(5)[^key-2d348cbabe5dfed8b4e90b8a34ad0806] Where in the Registrar’s opinion it is reasonable to do so for the purpose of determining whether to grant a licence, including a determination as to whether a practitioner has the necessary knowledge of English, the Registrar may—
+(5)[^c-2d348cbabe5dfed8b4e90b8a34ad0806] Where in the Registrar’s opinion it is reasonable to do so for the purpose of determining whether to grant a licence, including a determination as to whether a practitioner has the necessary knowledge of English, the Registrar may—
 
 - (a) by notice to the practitioner, request that the practitioner—
   - (i) provide further evidence or information,
@@ -195,7 +195,7 @@ to a medical practitioner in any case where the person has not demonstrated the 
 
 (7) Where, pursuant to section 35C(8) (functions of the Investigation Committee) [^c21421981], a referral has been made to an Interim Orders Panel or a Fitness to Practise Panel to consider making an interim order under section 41A (interim orders) [^c21421991] in relation to the applicant, the Registrar may decide to take no further action in relation to the application until the decision of the panel and the outcome of any application to the relevant court under section 41A(10), is known.
 
-(8)[^key-6893ad7253e49ba748d3a22d87513f97] The Registrar may refuse to grant a licence if the Registrar considers that—
+(8)[^c-6893ad7253e49ba748d3a22d87513f97] The Registrar may refuse to grant a licence if the Registrar considers that—
 
 - (a) without reasonable excuse, the practitioner has—
   - (i) failed to satisfy the requirements of paragraph (3),
@@ -217,10 +217,10 @@ to a medical practitioner in any case where the person has not demonstrated the 
 
 - (a) name is erased from the register pursuant to subsection (4) or (5) of section 30 (the registers) [^c21422001];
 - (b) name is erased from the register pursuant to section 39 (fraud or error in relation to registration) [^c21422011];
-- (c) name is removed from the register pursuant to subsection (3) of section 44 (effect of disqualification in a[^key-7fa233889ac4e553c8ab5ff34f86995c] relevant European State on registration in the United Kingdom) [^c21422021];
+- (c) name is removed from the register pursuant to subsection (3) of section 44 (effect of disqualification in a[^c-7fa233889ac4e553c8ab5ff34f86995c] relevant European State on registration in the United Kingdom) [^c21422021];
 - (d) name is erased from the register pursuant to subsection (1) or (4) of section 44B (provision of information in respect of fitness to practise matters) [^c21422031];
 - (e) name is erased from the register pursuant to regulations made under section 31A (voluntary removal from the register) or section 32(2) (registration fees) [^c21422041];
-- (f)[^key-ec59eba45a65597c33a6e2bf745400f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-ec59eba45a65597c33a6e2bf745400f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) registration under section 18A (temporary registration with regard to emergencies involving loss of human life or human illness etc.) is revoked; or
 - (h) registration under section 27A (temporary registration for visiting eminent specialists) or section 27B (special purpose registration) ceases to have effect.
 
@@ -232,7 +232,7 @@ to a medical practitioner in any case where the person has not demonstrated the 
 - (d) failed, without reasonable excuse, to provide any evidence or information required by the Registrar in accordance with regulation 6(9);
 - (e) failed, without reasonable excuse, to provide any evidence or information requested by the Registrar in accordance with regulation 6(10);
 - (f) fraudulently provided to the Registrar, in relation to any requirement of regulation 6 or any requirement or request of the Registrar under that regulation, any evidence or information which is false; or
-- (fa)[^key-5f0716ee4364230f4bb09f3953728f50] failed, without reasonable excuse, to provide any evidence or information to the Registrar in accordance with regulation 4A;
+- (fa)[^c-5f0716ee4364230f4bb09f3953728f50] failed, without reasonable excuse, to provide any evidence or information to the Registrar in accordance with regulation 4A;
 - (fb) failed, when practising as a licensed practitioner, to have in force in relation to them an indemnity arrangement providing appropriate cover;
 - (g) failed, without reasonable excuse, to pay any fee required in accordance with regulation 6(14).
 
@@ -246,7 +246,7 @@ to a medical practitioner in any case where the person has not demonstrated the 
 
 (5) Where a practitioner's licence is withdrawn under paragraph (1) or (3), the Registrar may advise the practitioner of any evidence or information which the Registrar considers may be reasonable to request for the purposes of any restoration application.
 
-### 4A. Request for information: indemnity arrangement[^key-29f99a090484bbac21fe63d977826219]
+### 4A. Request for information: indemnity arrangement[^c-29f99a090484bbac21fe63d977826219]
 
 For the purposes of determining whether in relation to a licensed practitioner there is in force, or in the case of a person seeking a licence to practise, there will be in force, an indemnity arrangement which provides appropriate cover, the Registrar may by notice —
 
@@ -263,7 +263,7 @@ For the purposes of determining whether in relation to a licensed practitioner t
 - (b) the practitioner's registered address or an address to which the Registrar may send the practitioner written communications about the application;
 - (c) if the practitioner is willing to receive written communications about the application by electronic mail, an electronic mail address to which the Registrar may send such communications;
 - (d) confirmation that the practitioner has not since the time that the licence was withdrawn provided medical services for which a licence is required;
-- (da)[^key-29b46835e814e75fd0b0098ea0b936ca] a statement by the practitioner that the practitioner has in force, or will have in force in relation to him by the time the practitioner begins to practise as a licensed practitioner in the UK, an indemnity arrangement which provides appropriate cover.
+- (da)[^c-29b46835e814e75fd0b0098ea0b936ca] a statement by the practitioner that the practitioner has in force, or will have in force in relation to him by the time the practitioner begins to practise as a licensed practitioner in the UK, an indemnity arrangement which provides appropriate cover.
 - (e) the name and address of—
   - (i) any person, body or organisation by whom the practitioner is employed to provide medical services, and
   - (ii) any person, body or organisation with whom the practitioner has an arrangement to provide medical services;
@@ -327,7 +327,7 @@ For the purposes of determining whether in relation to a licensed practitioner t
 
 (2) An excepted practitioner is a practitioner who—
 
-- (a) is registered under section [^key-4ab281419603ec1d504e7c985e928737]... 18A (temporary registration with regard to emergencies) or 27A (temporary registration for visiting eminent specialists); or
+- (a) is registered under section [^c-4ab281419603ec1d504e7c985e928737]... 18A (temporary registration with regard to emergencies) or 27A (temporary registration for visiting eminent specialists); or
 - (b) is subject to proceedings relating to whether the practitioner's fitness to practise is impaired and the Registrar does not consider that it is possible to evaluate the practitioner's fitness to practise while the practitioner is subject to those proceedings.
 
 (3) The notice of a submission date must—
@@ -358,7 +358,7 @@ and in each case the suitable person must give reasons.
 - (a) has been appointed or nominated by a designated body under Part 2 of the Medical Profession (Responsible Officers) Regulations 2010 [^c21422071] or Part 2 of the Medical Profession (Responsible Officers) Regulations (Northern Ireland) 2010 [^c21422081] and does not have a prescribed connection with the practitioner under those Regulations; or
 - (b) holds a post within a body, whether or not it is a designated body under those Regulations, which includes responsibilities which the Registrar is satisfied are similar in nature to those of a responsible officer.
 
-(8) Where the Registrar has given notice of a submission date to a practitioner who does not have a responsible officer and in respect of whom no suitable person has been approved to prepare a statement under paragraph (6), if it appears to the Registrar to be reasonable to do so the Registrar may by notice to the practitioner request that the practitioner undergo, at the practitioner's own cost, an assessment (which may include an assessment of the practitioner’s knowledge of English)[^key-e2de0af0823bc3e1115cc24a4819def4] —
+(8) Where the Registrar has given notice of a submission date to a practitioner who does not have a responsible officer and in respect of whom no suitable person has been approved to prepare a statement under paragraph (6), if it appears to the Registrar to be reasonable to do so the Registrar may by notice to the practitioner request that the practitioner undergo, at the practitioner's own cost, an assessment (which may include an assessment of the practitioner’s knowledge of English)[^c-e2de0af0823bc3e1115cc24a4819def4] —
 
 - (a) designed to evaluate the practitioner's fitness to practise;
 - (b) which is—
@@ -445,23 +445,23 @@ Regulation 9 revokes the General Medical Council (Licence to Practise) Regulatio
 
 [^c21421831]: Marginal citation: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Sections 29A, 29B, 29D, 29E and 29J were inserted, and section 41 was substituted, by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135). Section 29A has since been amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [S.I](https://www.legislation.gov.uk/uksi/2006/1914/section/I). 2008/3131 and S.I 2010/234. Section 29B has been amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [S.I](https://www.legislation.gov.uk/uksi/2006/1914/section/I). 2008/3131 and [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234). Section 29D has been amended by [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131). Section 29E has been amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and 2008/3131. Section 29F has been amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131). Section 29J has been amended by [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131) and [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200). Section 41 has been amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-0872246e5c18bb6353d49f26284d92f6]: Textual amendment: Words in Sch. reg. 1(2) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/2/a)
+[^c-0872246e5c18bb6353d49f26284d92f6]: Textual amendment: Words in Sch. reg. 1(2) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/2/a)
 
 [^c21421841]: Marginal citation: [S.I. 2010/2841](https://www.legislation.gov.uk/uksi/2010/2841), which was amended by [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581) and [S.I. 2012/476](https://www.legislation.gov.uk/uksi/2012/476).
 
 [^c21421851]: Marginal citation: S.R.(N.I.) [2010 No. 222](https://www.legislation.gov.uk/ukcm/2010/222).
 
-[^key-696d5a475fb0a0ec73bf57b2ffc8be06]: Textual amendment: Sch. reg. 1(4) added (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/2/b)
+[^c-696d5a475fb0a0ec73bf57b2ffc8be06]: Textual amendment: Sch. reg. 1(4) added (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/2/b)
 
 [^c21421861]: Marginal citation: Section 29H was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
 [^c21421871]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80). Paragraph 2 of Schedule 1 was amended by section 2(2) of the [St Andrew's Day Bank Holiday (Scotland) Act 2007 (asp. 2)](https://www.legislation.gov.uk/asp/2007/2).
 
-[^key-97b94432a86576192d69be805162abd5]: Textual amendment: Words in Sch. reg. 3(1) inserted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/2/a) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/3))
+[^c-97b94432a86576192d69be805162abd5]: Textual amendment: Words in Sch. reg. 3(1) inserted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/2/a) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/3))
 
-[^key-c0c1f22060f24498ebb0cd97df743f11]: Textual amendment: Words in Sch. reg. 3(1) substituted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/3/a) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/3))
+[^c-c0c1f22060f24498ebb0cd97df743f11]: Textual amendment: Words in Sch. reg. 3(1) substituted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/3/a) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/3))
 
-[^key-73c29f9af95c99be12bd1ade917aa1f4]: Textual amendment: Words in Sch. reg. 3(1)(a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 60](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/60) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-73c29f9af95c99be12bd1ade917aa1f4]: Textual amendment: Words in Sch. reg. 3(1)(a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 60](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/60) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21421891]: Marginal citation: Section 18A was inserted by [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774).
 
@@ -479,13 +479,13 @@ Regulation 9 revokes the General Medical Council (Licence to Practise) Regulatio
 
 [^c21421961]: Marginal citation: Section 35D was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-2b9374de213f91434798f873d8d2b6df]: Textual amendment: Sch. regs. 3(1A)(1B) inserted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/2/b) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/3))
+[^c-2b9374de213f91434798f873d8d2b6df]: Textual amendment: Sch. regs. 3(1A)(1B) inserted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/2/b) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/3))
 
-[^key-d9af682e279d8ef9d64185fd8bb74ee7]: Textual amendment: Sch. reg. 3(1C) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/3/b) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/3))
+[^c-d9af682e279d8ef9d64185fd8bb74ee7]: Textual amendment: Sch. reg. 3(1C) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/3/b) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/3))
 
-[^key-4b6d27ef34c6a87fb80056bd4f078238]: Textual amendment: Sch. reg. 3(3)(da) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/3/c) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/3))
+[^c-4b6d27ef34c6a87fb80056bd4f078238]: Textual amendment: Sch. reg. 3(3)(da) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/3/c) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/3))
 
-[^key-2d348cbabe5dfed8b4e90b8a34ad0806]: Textual amendment: Sch. reg. 3(5) substituted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/2/c) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/3))
+[^c-2d348cbabe5dfed8b4e90b8a34ad0806]: Textual amendment: Sch. reg. 3(5) substituted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/2/c) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/3))
 
 [^c21421971]: Marginal citation: Section 29E was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131).
 
@@ -493,13 +493,13 @@ Regulation 9 revokes the General Medical Council (Licence to Practise) Regulatio
 
 [^c21421991]: Marginal citation: Section 41A was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-6893ad7253e49ba748d3a22d87513f97]: Textual amendment: Sch. reg. 3(8) substituted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/2/d) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/3))
+[^c-6893ad7253e49ba748d3a22d87513f97]: Textual amendment: Sch. reg. 3(8) substituted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/2/d) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/3))
 
 [^c21422001]: Marginal citation: Subsections (4) and (5) of section 30 were amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
 
 [^c21422011]: Marginal citation: Section 39 was substituted by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-7fa233889ac4e553c8ab5ff34f86995c]: Textual amendment: Word in Sch. reg. 4(2)(c) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 61(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/61/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7fa233889ac4e553c8ab5ff34f86995c]: Textual amendment: Word in Sch. reg. 4(2)(c) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 61(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/61/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21422021]: Marginal citation: Section 44 was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
@@ -507,23 +507,23 @@ Regulation 9 revokes the General Medical Council (Licence to Practise) Regulatio
 
 [^c21422041]: Marginal citation: Subsection (2) of section 32 was amended by [S.I. 2000/1344](https://www.legislation.gov.uk/uksi/2000/1344).
 
-[^key-ec59eba45a65597c33a6e2bf745400f2]: Textual amendment: Sch. reg. 4(2)(f) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 61(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/61/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec59eba45a65597c33a6e2bf745400f2]: Textual amendment: Sch. reg. 4(2)(f) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 61(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/61/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21422061]: Marginal citation: Section 29(G) was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131) and [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
 
-[^key-5f0716ee4364230f4bb09f3953728f50]: Textual amendment: Sch. [reg. 4(3)(fa)](https://www.legislation.gov.uk/uksi/2012/2685/regulation/4/3/fa)[(fb)](https://www.legislation.gov.uk/uksi/2012/2685/regulation/4/3/fb) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(4)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/4)
+[^c-5f0716ee4364230f4bb09f3953728f50]: Textual amendment: Sch. [reg. 4(3)(fa)](https://www.legislation.gov.uk/uksi/2012/2685/regulation/4/3/fa)[(fb)](https://www.legislation.gov.uk/uksi/2012/2685/regulation/4/3/fb) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(4)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/4)
 
-[^key-29f99a090484bbac21fe63d977826219]: Textual amendment: Sch. [reg. 4A](https://www.legislation.gov.uk/uksi/2012/2685/regulation/4A) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(5)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/5) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/3))
+[^c-29f99a090484bbac21fe63d977826219]: Textual amendment: Sch. [reg. 4A](https://www.legislation.gov.uk/uksi/2012/2685/regulation/4A) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(5)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/5) (with [Sch. reg. 3](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/3))
 
-[^key-29b46835e814e75fd0b0098ea0b936ca]: Textual amendment: Sch. [reg. 5(2)(da)](https://www.legislation.gov.uk/uksi/2012/2685/regulation/5/2/da) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(6)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/6)
+[^c-29b46835e814e75fd0b0098ea0b936ca]: Textual amendment: Sch. [reg. 5(2)(da)](https://www.legislation.gov.uk/uksi/2012/2685/regulation/5/2/da) inserted (1.8.2015) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2015 (S.I. 2015/1375)](https://www.legislation.gov.uk/uksi/2015/1375), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1375/regulation/1), [Sch. reg. 2(6)](https://www.legislation.gov.uk/uksi/2015/1375/schedule/regulation/2/6)
 
-[^key-4ab281419603ec1d504e7c985e928737]: Textual amendment: Words in Sch. reg. 6(2)(a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/62) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ab281419603ec1d504e7c985e928737]: Textual amendment: Words in Sch. reg. 6(2)(a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/paragraph/62) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/1/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [9](https://www.legislation.gov.uk/uksi/2020/1394/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21422071]: Marginal citation: [S.I. 2010/2841](https://www.legislation.gov.uk/uksi/2010/2841), which was amended by [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581) and [S.I. 2012/476](https://www.legislation.gov.uk/uksi/2012/476).
 
 [^c21422081]: Marginal citation: S.R.(N.I.) [2010 No. 222](https://www.legislation.gov.uk/ukcm/2010/222).
 
-[^key-e2de0af0823bc3e1115cc24a4819def4]: Textual amendment: Words in Sch. reg. 6(8) inserted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(3)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/3)
+[^c-e2de0af0823bc3e1115cc24a4819def4]: Textual amendment: Words in Sch. reg. 6(8) inserted (25.6.2014) by [The General Medical Council (Licence to Practise and Revalidation) (Amendment) Regulations Order of Council 2014 (S.I. 2014/1273)](https://www.legislation.gov.uk/uksi/2014/1273), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1273/regulation/1), [Sch. reg. 2(3)](https://www.legislation.gov.uk/uksi/2014/1273/schedule/regulation/2/3)
 
 [^c21422091]: Marginal citation: Section 41C was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 

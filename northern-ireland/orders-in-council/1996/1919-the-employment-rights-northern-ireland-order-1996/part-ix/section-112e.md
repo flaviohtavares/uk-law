@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^c20291991] Regulations under Article 112A or 112B[^key-e826e8de5b84ce452e6da3e71e66a790] may—
+(1)[^c20291991] Regulations under Article 112A or 112B[^c-e826e8de5b84ce452e6da3e71e66a790] may—
 
 - (a) make provision about notices to be given, evidence to be produced and other procedures to be followed by employees and employers;
 - (b) make provision requiring employers or employees to keep records;
@@ -30,7 +30,7 @@ summary: ''
 - (f) make provision modifying the effect of Chapter IV of Part I (calculation of a week's pay) in relation to an employee who is or has been absent from work on leave under Article 112A or 112B ;
 - (g) make provision applying, modifying or excluding a statutory provision, in such circumstances as may be specified and subject to any conditions which may be specified, in relation to a person entitled to take leave under Article 112A or 112B .
 
-(2)[^key-bf5085d963650d019cfe9d492df943e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bf5085d963650d019cfe9d492df943e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c20291991]: Textual amendment: Art. 112E renumbered (9.9.2010) as art. 112E(1) by [Work and Families (Northern Ireland) Order 2006 (S.I. 2006/1947 (N.I. 16))](https://www.legislation.gov.uk/nisi/2006/1947), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/1/3), [13(1)](https://www.legislation.gov.uk/nisi/2006/1947/article/13/1), [Sch. 1 para. 37(3)](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/37/3); [S.R. 2010/295](https://www.legislation.gov.uk/nisr/2010/295), [art. 2(b)(c)](https://www.legislation.gov.uk/nisr/2010/295/article/2/b/c)
 
-[^key-e826e8de5b84ce452e6da3e71e66a790]: Textual amendment: Words in art. 112E(1) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(13)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/13/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-e826e8de5b84ce452e6da3e71e66a790]: Textual amendment: Words in art. 112E(1) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(13)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/13/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-bf5085d963650d019cfe9d492df943e3]: Textual amendment: Art. 112E(2) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(13)(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/13/b), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c)[(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-bf5085d963650d019cfe9d492df943e3]: Textual amendment: Art. 112E(2) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(13)(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/13/b), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c)[(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Enforcement authorities[^key-90a644cae3c24bd8f1ddc4b3ef085013]
+## 32. Enforcement authorities[^c-90a644cae3c24bd8f1ddc4b3ef085013]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90a644cae3c24bd8f1ddc4b3ef085013]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2026/18/section/32) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-90a644cae3c24bd8f1ddc4b3ef085013]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2026/18/section/32) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Traffic Regulation[^key-4d85cc3f5a6cdeb49d5e9a7abc722b19]
+## 22. Traffic Regulation[^c-4d85cc3f5a6cdeb49d5e9a7abc722b19]
 
 *Extent: E+W*
 
@@ -69,6 +69,6 @@ and the instrument by which it is effected may specify savings and exemptions to
 
 ## Annotations
 
-[^key-4d85cc3f5a6cdeb49d5e9a7abc722b19]: Commencement: Art. 22 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-4d85cc3f5a6cdeb49d5e9a7abc722b19]: Commencement: Art. 22 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00061]: Footnote: Section 32 was amended by section 102(2) of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), and paragraph 39 of Part 2 of Schedule 8 to the New Roads and Street Works Act 1991.

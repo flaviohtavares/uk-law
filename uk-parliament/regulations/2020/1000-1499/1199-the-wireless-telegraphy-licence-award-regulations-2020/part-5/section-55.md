@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Required final principal stage deposit[^key-6920d472ef626cc7457c02b19b5c4f2f]
+## 55. Required final principal stage deposit[^c-6920d472ef626cc7457c02b19b5c4f2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6920d472ef626cc7457c02b19b5c4f2f]: Commencement: Reg. 55 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-6920d472ef626cc7457c02b19b5c4f2f]: Commencement: Reg. 55 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

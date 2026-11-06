@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State may provide financial assistance to NHS England[^key-302f67bcbdd13476125adeda75c2f349] if the Secretary of State is satisfied that—
+(1) The Secretary of State may provide financial assistance to NHS England[^c-302f67bcbdd13476125adeda75c2f349] if the Secretary of State is satisfied that—
 
 - (a) there are insufficient funds available from a mechanism established under section 134, or
 - (b) the mechanism is otherwise unable to operate effectively.
@@ -33,4 +33,4 @@ summary: ''
 
 [^c2191326]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2012/7/section/146) partly in force; [s. 146](https://www.legislation.gov.uk/ukpga/2012/7/section/146) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-302f67bcbdd13476125adeda75c2f349]: Textual amendment: Words in [s. 146(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/146/1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 89](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/89); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-302f67bcbdd13476125adeda75c2f349]: Textual amendment: Words in [s. 146(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/146/1) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 89](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/89); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

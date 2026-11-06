@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Common seal[^key-dec699282b9b6fba47a2d7edcd00b49d]
+## 23. Common seal[^c-dec699282b9b6fba47a2d7edcd00b49d]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dec699282b9b6fba47a2d7edcd00b49d]: Commencement: Reg. 23 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-dec699282b9b6fba47a2d7edcd00b49d]: Commencement: Reg. 23 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
 [^f00006]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).

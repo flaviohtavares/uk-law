@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Powers of an inspector[^key-85ebc9071e42225b5de73fb759fcd540][^key-604a7b40eb39e188110d1c72e90dad5a]
+## 11. Powers of an inspector[^c-85ebc9071e42225b5de73fb759fcd540][^c-604a7b40eb39e188110d1c72e90dad5a]
 
 *Extent: E+W+S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85ebc9071e42225b5de73fb759fcd540]: Commencement: Art. 11 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-85ebc9071e42225b5de73fb759fcd540]: Commencement: Art. 11 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-604a7b40eb39e188110d1c72e90dad5a]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2010/231/article/11) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-604a7b40eb39e188110d1c72e90dad5a]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2010/231/article/11) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

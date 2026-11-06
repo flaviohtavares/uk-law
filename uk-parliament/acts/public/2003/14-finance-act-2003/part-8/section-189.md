@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. CHP exemption to be based on current efficiency[^key-3d5796a28378bb6442a42a4636c714dc]
+## 189. CHP exemption to be based on current efficiency[^c-3d5796a28378bb6442a42a4636c714dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d5796a28378bb6442a42a4636c714dc]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2003/14/section/189) has effect as specified by [The Finance Act 2003, sections 189 and 190, (Appointed Day) Order 2005 (S.I. 2005/1713)](https://www.legislation.gov.uk/uksi/2005/1713), [art. 2](https://www.legislation.gov.uk/uksi/2005/1713/article/2)
+[^c-3d5796a28378bb6442a42a4636c714dc]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2003/14/section/189) has effect as specified by [The Finance Act 2003, sections 189 and 190, (Appointed Day) Order 2005 (S.I. 2005/1713)](https://www.legislation.gov.uk/uksi/2005/1713), [art. 2](https://www.legislation.gov.uk/uksi/2005/1713/article/2)

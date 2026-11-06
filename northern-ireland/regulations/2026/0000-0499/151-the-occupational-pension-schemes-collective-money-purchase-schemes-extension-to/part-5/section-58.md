@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Amendment of the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024[^key-8a75a04e8ba6da366fc33c1c6ed73cc1]
+## 58. Amendment of the Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2024[^c-8a75a04e8ba6da366fc33c1c6ed73cc1]
 
 *Extent: N.I.*
 
@@ -204,7 +204,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8a75a04e8ba6da366fc33c1c6ed73cc1]: Commencement: Reg. 58 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-8a75a04e8ba6da366fc33c1c6ed73cc1]: Commencement: Reg. 58 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00057]: Footnote: [S.R. 2024 No. 15](https://www.legislation.gov.uk/nisr/2024/15); relevant amending Regulations are [S.R. 2024 No. 136](https://www.legislation.gov.uk/nisr/2024/136)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Pharmaceutical lists: minor amendment[^key-1b29cb756b4a59c727318babde94204d]
+## 27. Pharmaceutical lists: minor amendment[^c-1b29cb756b4a59c727318babde94204d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 129(6) of the National Health Service Act 2006 (c. 41) (regulations a
 
 ## Annotations
 
-[^key-1b29cb756b4a59c727318babde94204d]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2009/21/section/27) in force at 1.9.2012 by [S.I. 2012/1902](https://www.legislation.gov.uk/uksi/2012/1902), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1902/article/2/b)
+[^c-1b29cb756b4a59c727318babde94204d]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2009/21/section/27) in force at 1.9.2012 by [S.I. 2012/1902](https://www.legislation.gov.uk/uksi/2012/1902), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1902/article/2/b)

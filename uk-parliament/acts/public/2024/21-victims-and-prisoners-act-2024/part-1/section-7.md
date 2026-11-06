@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Arrangements for collection of victims’ feedback[^key-5d42e08b5edc5816bb4d5461bafa69d7]
+## 7. Arrangements for collection of victims’ feedback[^c-5d42e08b5edc5816bb4d5461bafa69d7]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d42e08b5edc5816bb4d5461bafa69d7]: Commencement: S. 7 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-5d42e08b5edc5816bb4d5461bafa69d7]: Commencement: S. 7 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

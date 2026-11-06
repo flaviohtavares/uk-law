@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Data protection[^key-327fb3e8affa5e38d217f597414210ce][^key-0423e9e2fb79d8b0968160b7b0b79a99][^key-ad3859ff4da1d0958b89b9b606326592]
+## 26. Data protection[^c-327fb3e8affa5e38d217f597414210ce][^c-0423e9e2fb79d8b0968160b7b0b79a99][^c-ad3859ff4da1d0958b89b9b606326592]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,8 +26,8 @@ summary: ''
 
 ## Annotations
 
-[^key-327fb3e8affa5e38d217f597414210ce]: Commencement: S. 26 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-327fb3e8affa5e38d217f597414210ce]: Commencement: S. 26 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-0423e9e2fb79d8b0968160b7b0b79a99]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/10/section/26) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/g)
+[^c-0423e9e2fb79d8b0968160b7b0b79a99]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/10/section/26) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/g)
 
-[^key-ad3859ff4da1d0958b89b9b606326592]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/10/section/26) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-ad3859ff4da1d0958b89b9b606326592]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/10/section/26) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

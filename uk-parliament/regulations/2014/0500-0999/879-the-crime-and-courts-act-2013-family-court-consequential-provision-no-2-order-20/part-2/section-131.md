@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**131.**[^key-b4d17d05707dc488601e40b368907287] In paragraph 8(3)—
+**131.**[^c-b4d17d05707dc488601e40b368907287] In paragraph 8(3)—
 
 - (a) in paragraph (a), for “a magistrates’ court in England and Wales or” substitute “the family court , or a magistrates’ court in”; and
 - (b) in paragraph (b), omit “section 2A of the Maintenance Orders Act 1958 or”.
 
 ## Annotations
 
-[^key-b4d17d05707dc488601e40b368907287]: Commencement: Art. 131 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-b4d17d05707dc488601e40b368907287]: Commencement: Art. 131 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Amendments to the Education (Postgraduate Master's Degree Loans) (Wales) Regulations 2017[^key-32af8e95868501d22f21397b691617a4]
+## 43. Amendments to the Education (Postgraduate Master's Degree Loans) (Wales) Regulations 2017[^c-32af8e95868501d22f21397b691617a4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The 2017 Master's Degree Loans Regulations are amended as follows.
 
 ## Annotations
 
-[^key-32af8e95868501d22f21397b691617a4]: Commencement: Reg. 43 in force at 27.5.2019, see reg. 1(2)
+[^c-32af8e95868501d22f21397b691617a4]: Commencement: Reg. 43 in force at 27.5.2019, see reg. 1(2)

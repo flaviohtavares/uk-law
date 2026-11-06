@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Tenement management scheme[^key-60b5bfdce17b1eaf7404406526b72432]
+## 85. Tenement management scheme[^c-60b5bfdce17b1eaf7404406526b72432]
 
 *Extent: S*
 
@@ -67,7 +67,7 @@ summary: ''
 
   .
 
-(3)[^key-a9ffe8a3cbea451be689fd999ee1f7ec] After section 174 of the 2006 Act, insert—
+(3)[^c-a9ffe8a3cbea451be689fd999ee1f7ec] After section 174 of the 2006 Act, insert—
 
 > **174A. Repayment charges: registered social landlords**
 >
@@ -106,10 +106,10 @@ summary: ''
 
 .
 
-(4)[^key-a9ffe8a3cbea451be689fd999ee1f7ec] In section 191(5) of the 2006 Act (affirmative procedure for regulations), for “or 121(1)” substitute “ , 121(1) or 174A(1) ”.
+(4)[^c-a9ffe8a3cbea451be689fd999ee1f7ec] In section 191(5) of the 2006 Act (affirmative procedure for regulations), for “or 121(1)” substitute “ , 121(1) or 174A(1) ”.
 
 ## Annotations
 
-[^key-60b5bfdce17b1eaf7404406526b72432]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2014/14/section/85) in force at 1.4.2015 by [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/122/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2015/122/article/2/2/a)
+[^c-60b5bfdce17b1eaf7404406526b72432]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2014/14/section/85) in force at 1.4.2015 by [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/122/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2015/122/article/2/2/a)
 
-[^key-a9ffe8a3cbea451be689fd999ee1f7ec]: Commencement: [S. 85(3)](https://www.legislation.gov.uk/asp/2014/14/section/85/3)[(4)](https://www.legislation.gov.uk/asp/2014/14/section/85/4) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-a9ffe8a3cbea451be689fd999ee1f7ec]: Commencement: [S. 85(3)](https://www.legislation.gov.uk/asp/2014/14/section/85/3)[(4)](https://www.legislation.gov.uk/asp/2014/14/section/85/4) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

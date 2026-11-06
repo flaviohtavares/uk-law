@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Remedial action by local authority[^key-d02560721793ba4524183391d2fd5b5f]
+## 47. Remedial action by local authority[^c-d02560721793ba4524183391d2fd5b5f]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ the defaulter is liable to the authority for that amount (subject to the outcome
 
 ## Annotations
 
-[^key-d02560721793ba4524183391d2fd5b5f]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/12/section/47) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-d02560721793ba4524183391d2fd5b5f]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/12/section/47) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

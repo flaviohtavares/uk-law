@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Valid assignment stage form[^key-60e69e4b3f352ee5e0af72a1104a2192]
+## 66. Valid assignment stage form[^c-60e69e4b3f352ee5e0af72a1104a2192]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ An assignment stage form is a valid assignment stage form if—
 
 ## Annotations
 
-[^key-60e69e4b3f352ee5e0af72a1104a2192]: Commencement: Reg. 66 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-60e69e4b3f352ee5e0af72a1104a2192]: Commencement: Reg. 66 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

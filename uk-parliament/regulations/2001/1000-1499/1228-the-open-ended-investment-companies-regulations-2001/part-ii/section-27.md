@@ -35,7 +35,7 @@ summary: ''
 - (a) give details of the direction;
 - (b) inform the person to whom it is given of when the direction takes effect;
 - (c) state the Authority’s reasons for giving the direction and for its determination as to when the direction takes effect;
-- (d) inform the person to whom it is given that he may make representations to the Authority within such period as may be specified in it (whether or not he has referred the matter to the Upper Tribunal[^key-96ca1722750460c2de24cafc06d93791]); and
+- (d) inform the person to whom it is given that he may make representations to the Authority within such period as may be specified in it (whether or not he has referred the matter to the Upper Tribunal[^c-96ca1722750460c2de24cafc06d93791]); and
 - (e) inform him of his right to refer the matter to the Upper Tribunal.
 
 (5) If the direction imposes a requirement under regulation 25(2)(a) or (b), the notice must state that the requirement has effect until—
@@ -65,24 +65,24 @@ it must give separate written notices to the company and its depositary.
 
 it must give separate written notices to the company and its depositary.
 
-(10) A notice given under paragraph (8) must inform the person to whom it is given of his right to refer the matter to the Upper Tribunal[^key-f189d52257347571b20d69d19d8b1bc6].
+(10) A notice given under paragraph (8) must inform the person to whom it is given of his right to refer the matter to the Upper Tribunal[^c-f189d52257347571b20d69d19d8b1bc6].
 
 (11) A notice under paragraph (9)(b) must comply with paragraph (4).
 
-(12) If a notice informs a person of his right to refer a matter to the Upper Tribunal[^key-a387236178e52d1bd109501ff0630cd4], it must give an indication of the procedure on such a reference.
+(12) If a notice informs a person of his right to refer a matter to the Upper Tribunal[^c-a387236178e52d1bd109501ff0630cd4], it must give an indication of the procedure on such a reference.
 
 (13) This regulation applies to the variation of a direction on the Authority’s own initiative as it applies to the giving of a direction.
 
 (14) For the purposes of paragraph (1)(c), whether a matter is open to review is to be determined in accordance with section 391(8) of the Act.
 
-(15) Section 395 of the Act (the[^key-d43e29341828b88c878c77f36e258044] FCA’s and PRA’s procedures) has effect as if subsection (13) included a reference to a notice given in accordance with paragraph (3), (8) or (9)(b).
+(15) Section 395 of the Act (the[^c-d43e29341828b88c878c77f36e258044] FCA’s and PRA’s procedures) has effect as if subsection (13) included a reference to a notice given in accordance with paragraph (3), (8) or (9)(b).
 
 ## Annotations
 
-[^key-96ca1722750460c2de24cafc06d93791]: Textual amendment: Words in reg. 27(4)(d)(e) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/22)
+[^c-96ca1722750460c2de24cafc06d93791]: Textual amendment: Words in reg. 27(4)(d)(e) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/22)
 
-[^key-f189d52257347571b20d69d19d8b1bc6]: Textual amendment: Words in reg. 27(10) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/22)
+[^c-f189d52257347571b20d69d19d8b1bc6]: Textual amendment: Words in reg. 27(10) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/22)
 
-[^key-a387236178e52d1bd109501ff0630cd4]: Textual amendment: Words in reg. 27(12) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/22)
+[^c-a387236178e52d1bd109501ff0630cd4]: Textual amendment: Words in reg. 27(12) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/22)
 
-[^key-d43e29341828b88c878c77f36e258044]: Textual amendment: Words in [reg. 27(15)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/27/15) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(7)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/7)
+[^c-d43e29341828b88c878c77f36e258044]: Textual amendment: Words in [reg. 27(15)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/27/15) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(7)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/7)

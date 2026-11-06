@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Requirements for water bottled and labelled as “spring water” and bottled drinking water[^key-926ee0fb1f5800a49f2ee786eef40cf0]
+## SCHEDULE 2 — Requirements for water bottled and labelled as “spring water” and bottled drinking water[^c-926ee0fb1f5800a49f2ee786eef40cf0]
 
 *Extent: E+W*
 
@@ -87,4 +87,4 @@ Water bottled and labelled as “spring water” and bottled drinking water meet
 
 ## Annotations
 
-[^key-926ee0fb1f5800a49f2ee786eef40cf0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2007/2785/schedule/2) substituted (6.4.2018) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/352/schedule/1)
+[^c-926ee0fb1f5800a49f2ee786eef40cf0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2007/2785/schedule/2) substituted (6.4.2018) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/352/schedule/1)

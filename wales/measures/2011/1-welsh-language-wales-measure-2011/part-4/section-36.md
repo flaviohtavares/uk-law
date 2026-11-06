@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Persons within Schedule 6[^key-7468b9240ab933fe617537397b66c572]
+## 36. Persons within Schedule 6[^c-7468b9240ab933fe617537397b66c572]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7468b9240ab933fe617537397b66c572]: Commencement: [S. 36](https://www.legislation.gov.uk/mwa/2011/1/section/36) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-7468b9240ab933fe617537397b66c572]: Commencement: [S. 36](https://www.legislation.gov.uk/mwa/2011/1/section/36) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

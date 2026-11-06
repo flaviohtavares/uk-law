@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Body corporate: change of directors[^key-0f45d03943b0db85f9ff910a1d105a51][^key-54a5614511a1918bf4adfeb5e8dffca5]
+## 26. Body corporate: change of directors[^c-0f45d03943b0db85f9ff910a1d105a51][^c-54a5614511a1918bf4adfeb5e8dffca5]
 
 *Extent: N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f45d03943b0db85f9ff910a1d105a51]: Commencement: S. 26 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-0f45d03943b0db85f9ff910a1d105a51]: Commencement: S. 26 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-54a5614511a1918bf4adfeb5e8dffca5]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2021/7/section/26) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-54a5614511a1918bf4adfeb5e8dffca5]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2021/7/section/26) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

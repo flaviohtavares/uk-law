@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-e74e71673b685ae369799da64d776041]
+[^c-e74e71673b685ae369799da64d776041]
 
 (1) The FCA must keep a register of small registered UK AIFMs, and must enter an AIFM on the register if the conditions in paragraph (2), (3) or (4) are met.
 
@@ -51,11 +51,11 @@ summary: ''
   - (i) has been convicted of any offence involving fraud or dishonesty, or any indictable offence, and for this purpose “**offence**” includes any act or omission which would have been an offence if it had taken place in the United Kingdom; or
   - (ii) is subject to a prohibition order.
 
-(4)[^key-780c088d525689a346c181631d96abea] The conditions in this paragraph are that the AIFM—
+(4)[^c-780c088d525689a346c181631d96abea] The conditions in this paragraph are that the AIFM—
 
 - (a) is a UK AIFM;
 - (b) is a small AIFM; and
-- (c) has applied for registration as a SEF Manager[^key-686343f9a3a3bbf3bcd7cb296f613c61] or a RVECA Manager[^key-662e2dc4755dd726fe361bdfa589f3b6], and meets the conditions for such registration.
+- (c) has applied for registration as a SEF Manager[^c-686343f9a3a3bbf3bcd7cb296f613c61] or a RVECA Manager[^c-662e2dc4755dd726fe361bdfa589f3b6], and meets the conditions for such registration.
 
 (5) The FCA may—
 
@@ -79,7 +79,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e74e71673b685ae369799da64d776041]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1773/part/3) modified (31.12.2020) by [The Venture Capital Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/333)](https://www.legislation.gov.uk/uksi/2019/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/333/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2019/333/regulation/11/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e74e71673b685ae369799da64d776041]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1773/part/3) modified (31.12.2020) by [The Venture Capital Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/333)](https://www.legislation.gov.uk/uksi/2019/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/333/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2019/333/regulation/11/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
     [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1773/part/3) modified (31.12.2020) by [The Social Entrepreneurship Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/343)](https://www.legislation.gov.uk/uksi/2019/343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/343/regulation/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2019/343/regulation/11/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
@@ -87,12 +87,12 @@ summary: ''
 
 [^c21862061]: Marginal citation: Section 22 was amended by section 7 of the Financial Services Act 2012.
 
-[^key-780c088d525689a346c181631d96abea]: Modification: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/10/4) modified (31.12.2020) by [The Venture Capital Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/333)](https://www.legislation.gov.uk/uksi/2019/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/333/regulation/1/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2019/333/regulation/11/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-780c088d525689a346c181631d96abea]: Modification: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/10/4) modified (31.12.2020) by [The Venture Capital Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/333)](https://www.legislation.gov.uk/uksi/2019/333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/333/regulation/1/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2019/333/regulation/11/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
     [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/10/4) modified (31.12.2020) by [The Social Entrepreneurship Funds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/343)](https://www.legislation.gov.uk/uksi/2019/343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/343/regulation/1/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2019/343/regulation/11/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-686343f9a3a3bbf3bcd7cb296f613c61]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/10/4) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [5(1)(a)](https://www.legislation.gov.uk/uksi/2019/328/regulation/5/1/a) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-686343f9a3a3bbf3bcd7cb296f613c61]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/10/4) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [5(1)(a)](https://www.legislation.gov.uk/uksi/2019/328/regulation/5/1/a) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-662e2dc4755dd726fe361bdfa589f3b6]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/10/4) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [5(1)(b)](https://www.legislation.gov.uk/uksi/2019/328/regulation/5/1/b) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-662e2dc4755dd726fe361bdfa589f3b6]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/10/4) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [5(1)(b)](https://www.legislation.gov.uk/uksi/2019/328/regulation/5/1/b) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21862071]: Marginal citation: Article 76 was amended by [S.I. 2011/2687](https://www.legislation.gov.uk/uksi/2011/2687).

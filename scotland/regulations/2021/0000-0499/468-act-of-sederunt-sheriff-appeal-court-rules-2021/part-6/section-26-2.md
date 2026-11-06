@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26.2. Form of notices and applications[^key-5cdcbc8a3acfc180a38a9f4f14e78748]
+## 26.2. Form of notices and applications[^c-5cdcbc8a3acfc180a38a9f4f14e78748]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cdcbc8a3acfc180a38a9f4f14e78748]: Commencement: Para. 26.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-5cdcbc8a3acfc180a38a9f4f14e78748]: Commencement: Para. 26.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

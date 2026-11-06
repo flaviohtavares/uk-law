@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Removal of trustee other than where trustee is unable to act or should no longer continue to act: review, appeal and election of new trustee[^key-2946fd0976956776e15d6ba02f100239]
+## 71. Removal of trustee other than where trustee is unable to act or should no longer continue to act: review, appeal and election of new trustee[^c-2946fd0976956776e15d6ba02f100239]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2946fd0976956776e15d6ba02f100239]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2016/21/section/71) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-2946fd0976956776e15d6ba02f100239]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2016/21/section/71) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

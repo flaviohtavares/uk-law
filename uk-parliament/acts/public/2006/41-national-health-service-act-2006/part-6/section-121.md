@@ -35,7 +35,7 @@ summary: ''
 
 (3) Regulations under subsection (2)(d) may—
 
-- (a) make provision as to the circumstances in which the Board[^key-edc084b8ceab60eef8e774e283aef8a4] may impose a variation of contract terms,
+- (a) make provision as to the circumstances in which the Board[^c-edc084b8ceab60eef8e774e283aef8a4] may impose a variation of contract terms,
 - (b) make provision as to the suspension or termination of any duty under the contract to provide services of a prescribed description.
 
 (4) Regulations making provision of the kind described in subsection (3)(b) may prescribe services by reference to the manner or circumstances in which they are provided.
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edc084b8ceab60eef8e774e283aef8a4]: Textual amendment: Words in [s. 121(3)(a)](https://www.legislation.gov.uk/ukpga/2006/41/section/121/3/a) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 59](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/59); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-edc084b8ceab60eef8e774e283aef8a4]: Textual amendment: Words in [s. 121(3)(a)](https://www.legislation.gov.uk/ukpga/2006/41/section/121/3/a) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 59](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/59); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Absent voters lists[^key-24b390b8cb9fa6222f1827cf39fec8f3]
+## 63. Absent voters lists[^c-24b390b8cb9fa6222f1827cf39fec8f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24b390b8cb9fa6222f1827cf39fec8f3]: Commencement: Reg. 63 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-24b390b8cb9fa6222f1827cf39fec8f3]: Commencement: Reg. 63 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

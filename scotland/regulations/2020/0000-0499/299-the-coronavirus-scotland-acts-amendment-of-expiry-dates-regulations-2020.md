@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Coronavirus (Scotland) Acts (Amendment of Expiry Dates) Regulations 2020 (revoked)[^key-f45f2596b53e2088b121a891f087b02b]
+The Coronavirus (Scotland) Acts (Amendment of Expiry Dates) Regulations 2020 (revoked)[^c-f45f2596b53e2088b121a891f087b02b]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 29th September 2020
 
-[^key-f45f2596b53e2088b121a891f087b02b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f45f2596b53e2088b121a891f087b02b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Commencement and citation[^key-f45f2596b53e2088b121a891f087b02b]
+## 1. Commencement and citation[^c-f45f2596b53e2088b121a891f087b02b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of expiry date of Part 1 of the Coronavirus (Scotland) Act 2020[^key-f45f2596b53e2088b121a891f087b02b]
+## 2. Amendment of expiry date of Part 1 of the Coronavirus (Scotland) Act 2020[^c-f45f2596b53e2088b121a891f087b02b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of expiry date of Part 1 of the Coronavirus (Scotland) (No.2) Act 2020[^key-f45f2596b53e2088b121a891f087b02b]
+## 3. Amendment of expiry date of Part 1 of the Coronavirus (Scotland) (No.2) Act 2020[^c-f45f2596b53e2088b121a891f087b02b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f45f2596b53e2088b121a891f087b02b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f45f2596b53e2088b121a891f087b02b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f45f2596b53e2088b121a891f087b02b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f45f2596b53e2088b121a891f087b02b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f45f2596b53e2088b121a891f087b02b]: Textual amendment: Regulations revoked (5.8.2021) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [s. 8(10)(a)](https://www.legislation.gov.uk/asp/2021/19/section/8/10/a)
+[^c-f45f2596b53e2088b121a891f087b02b]: Textual amendment: Regulations revoked (5.8.2021) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [s. 8(10)(a)](https://www.legislation.gov.uk/asp/2021/19/section/8/10/a)

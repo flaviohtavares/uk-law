@@ -22,31 +22,31 @@ summary: ''
 
 Section 92.
 
-### Part I — General[^key-820697a8d551a5b78f13b2151c04d108]
+### Part I — General[^c-820697a8d551a5b78f13b2151c04d108]
 
-#### Commencement of proceedings[^key-820697a8d551a5b78f13b2151c04d108]
-
-**No longer in force.**
-
-**1.**[^key-820697a8d551a5b78f13b2151c04d108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Transfer of proceedings[^key-820697a8d551a5b78f13b2151c04d108]
+#### Commencement of proceedings[^c-820697a8d551a5b78f13b2151c04d108]
 
 **No longer in force.**
 
-**2.**[^key-820697a8d551a5b78f13b2151c04d108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-820697a8d551a5b78f13b2151c04d108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Hearings by single justice[^key-820697a8d551a5b78f13b2151c04d108]
-
-**No longer in force.**
-
-**3.**[^key-820697a8d551a5b78f13b2151c04d108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### General[^key-820697a8d551a5b78f13b2151c04d108]
+#### Transfer of proceedings[^c-820697a8d551a5b78f13b2151c04d108]
 
 **No longer in force.**
 
-**4.**[^key-820697a8d551a5b78f13b2151c04d108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-820697a8d551a5b78f13b2151c04d108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Hearings by single justice[^c-820697a8d551a5b78f13b2151c04d108]
+
+**No longer in force.**
+
+**3.**[^c-820697a8d551a5b78f13b2151c04d108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### General[^c-820697a8d551a5b78f13b2151c04d108]
+
+**No longer in force.**
+
+**4.**[^c-820697a8d551a5b78f13b2151c04d108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Consequential Amendments
 
@@ -69,9 +69,9 @@ Section 92.
 
 **8.**[^c15182811] In the Magistrates’ Courts Act 1980—
 
-- (a)[^key-282b52feb6494b427b4c193441a84465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-282b52feb6494b427b4c193441a84465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-282b52feb6494b427b4c193441a84465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-282b52feb6494b427b4c193441a84465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-282b52feb6494b427b4c193441a84465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-282b52feb6494b427b4c193441a84465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d)[^c18930241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e)[^c18930241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f)[^c18930241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -107,7 +107,7 @@ Section 92.
 
 [^c20907141]: Modification: [Sch. 11](https://www.legislation.gov.uk/ukpga/1989/41/schedule/11) applied (W.) (1.4.2011) by Children and Families (Wales) Measure 2010 (nawm 1), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/43/4), [75](https://www.legislation.gov.uk/ukpga/1989/41/section/75); [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2010/2582/article/3), [4](https://www.legislation.gov.uk/uksi/2010/2582/article/4), [5](https://www.legislation.gov.uk/uksi/2010/2582/article/5)) (as amended by [S.I. 2011/577](https://www.legislation.gov.uk/uksi/2011/577), [art. 2](https://www.legislation.gov.uk/uksi/2011/577/article/2))
 
-[^key-820697a8d551a5b78f13b2151c04d108]: Textual amendment: [Sch. 11 Pt. I](https://www.legislation.gov.uk/ukpga/1989/41/schedule/11/part/I) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 121](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/121); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-820697a8d551a5b78f13b2151c04d108]: Textual amendment: [Sch. 11 Pt. I](https://www.legislation.gov.uk/ukpga/1989/41/schedule/11/part/I) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 121](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/121); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c15182671]: Commencement: [Sch. 11 Pt. II para. 5](https://www.legislation.gov.uk/ukpga/1989/41/schedule/11/part/II/paragraph/5) wholly in force at 14.10.1991 see [s. 108(2)(3)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/2/3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
@@ -119,7 +119,7 @@ Section 92.
 
 [^c15182811]: Commencement: Sch. 11 Pt. II para. 8 wholly in force at 14.10.1991 see s. 108(2)(3) and [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-282b52feb6494b427b4c193441a84465]: Textual amendment: Sch. 11 para. 8(a)-(c) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-282b52feb6494b427b4c193441a84465]: Textual amendment: Sch. 11 para. 8(a)-(c) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c18930241]: Textual amendment: Sch. 11 para. 8(d)-(g) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 

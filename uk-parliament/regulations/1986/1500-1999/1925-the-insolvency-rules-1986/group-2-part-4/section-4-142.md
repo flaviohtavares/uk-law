@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.142. Company meeting to receive liquidator's resignation[^key-13d046822fc6aee16e1e860bf1240b57]
+## 4.142. Company meeting to receive liquidator's resignation[^c-13d046822fc6aee16e1e860bf1240b57]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (4) Where two or more persons are acting as liquidator jointly, any one of them may proceed under this Rule (without prejudice to the continuation in office of the other or others) on the ground that, in his opinion or that of the other or others, it is no longer expedient that there should continue to be the present number of joint liquidators.
 
-(4A)[^key-80202cd7ff33ead59ad16c9d06ad6059] If there is no quorum present at the meeting summoned to receive the liquidator’s resignation, the meeting is deemed to have been held.
+(4A)[^c-80202cd7ff33ead59ad16c9d06ad6059] If there is no quorum present at the meeting summoned to receive the liquidator’s resignation, the meeting is deemed to have been held.
 
 (5) [^m00086] The notice of the liquidator's resignation required by section 171(5) shall be given by him forthwith after the meeting.
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-13d046822fc6aee16e1e860bf1240b57]: Commencement: [Rule 4.142](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.142) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-13d046822fc6aee16e1e860bf1240b57]: Commencement: [Rule 4.142](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.142) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-80202cd7ff33ead59ad16c9d06ad6059]: Textual amendment: [Rule 4.142(4A)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.142/4A) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 68](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/68)
+[^c-80202cd7ff33ead59ad16c9d06ad6059]: Textual amendment: [Rule 4.142(4A)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.142/4A) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 68](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/68)
 
 [^m00086]: Marginal citation: \[FORM 4.33\]

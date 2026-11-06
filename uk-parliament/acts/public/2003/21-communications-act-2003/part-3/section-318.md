@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 318. Review of powers exercised for competition purposes[^key-5e80f4400d3e839f6c4f5e8662ea9932]
+## 318. Review of powers exercised for competition purposes[^c-5e80f4400d3e839f6c4f5e8662ea9932]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ other than provision contained in any of sections 290 to 294 of this Act or Sche
 
 ## Annotations
 
-[^key-5e80f4400d3e839f6c4f5e8662ea9932]: Commencement: S. 318 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5e80f4400d3e839f6c4f5e8662ea9932]: Commencement: S. 318 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

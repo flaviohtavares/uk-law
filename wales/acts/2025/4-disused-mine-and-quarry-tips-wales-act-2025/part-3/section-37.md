@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Duty to give interested parties copies of notice[^key-8c5c8b67a836e510e311bdc801b6889a]
+## 37. Duty to give interested parties copies of notice[^c-8c5c8b67a836e510e311bdc801b6889a]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c5c8b67a836e510e311bdc801b6889a]: Commencement: S. 37 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-8c5c8b67a836e510e311bdc801b6889a]: Commencement: S. 37 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

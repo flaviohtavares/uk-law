@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) No order or[^key-1d85ffa85f9f91a50ab3648ceb6aa360] regulations to which this subsection applies may be made unless a draft of the instrument containing the order or regulations[^key-214161cf12217fc217b88d8270890be2] (whether or not together with other provisions) has been laid before, and approved by a resolution of, each House of Parliament.
+(1) No order or[^c-1d85ffa85f9f91a50ab3648ceb6aa360] regulations to which this subsection applies may be made unless a draft of the instrument containing the order or regulations[^c-214161cf12217fc217b88d8270890be2] (whether or not together with other provisions) has been laid before, and approved by a resolution of, each House of Parliament.
 
 (2) Subsection (1) applies to—
 
-- (za)[^key-15b3afc90875b995e49f35028aaba365] an order made by the Treasury under section 36A(8) or 36C(9),
+- (za)[^c-15b3afc90875b995e49f35028aaba365] an order made by the Treasury under section 36A(8) or 36C(9),
 - (zb) regulations made under section 36A(5) or 36C(4),
 - (a) regulations prescribing monetary amounts that are required to be reviewed under section 41,
 - (b) regulations made by virtue of subsection (2) of section 12 prescribing the amount in excess of which charges are not taken into account for the purposes of that subsection, and
@@ -32,7 +32,7 @@ summary: ''
 
 (3) A statutory instrument containing—
 
-- (a) an order or[^key-a633c71b14e8f6b409d99b7c9228e86f] regulations under this Act,
+- (a) an order or[^c-a633c71b14e8f6b409d99b7c9228e86f] regulations under this Act,
 - (b) a scheme made by the Secretary of State under section 12(5), or
 - (c) an Order in Council under section 52(7),
 
@@ -44,10 +44,10 @@ is (unless a draft of the instrument has been laid before, and approved by a res
 
 ## Annotations
 
-[^key-1d85ffa85f9f91a50ab3648ceb6aa360]: Textual amendment: Words in s. 66(1) inserted (1.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 120(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2012/5/section/120/4/a/i), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
+[^c-1d85ffa85f9f91a50ab3648ceb6aa360]: Textual amendment: Words in s. 66(1) inserted (1.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 120(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2012/5/section/120/4/a/i), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
 
-[^key-214161cf12217fc217b88d8270890be2]: Textual amendment: Words in s. 66(1) substituted (1.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 120(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/5/section/120/4/a/ii), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
+[^c-214161cf12217fc217b88d8270890be2]: Textual amendment: Words in s. 66(1) substituted (1.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 120(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/5/section/120/4/a/ii), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
 
-[^key-15b3afc90875b995e49f35028aaba365]: Textual amendment: S. 66(2)(za)(zb) inserted (1.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 120(4)(b)](https://www.legislation.gov.uk/ukpga/2012/5/section/120/4/b), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
+[^c-15b3afc90875b995e49f35028aaba365]: Textual amendment: S. 66(2)(za)(zb) inserted (1.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 120(4)(b)](https://www.legislation.gov.uk/ukpga/2012/5/section/120/4/b), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
 
-[^key-a633c71b14e8f6b409d99b7c9228e86f]: Textual amendment: Words in s. 66(3)(a) inserted (1.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 120(4)(c)](https://www.legislation.gov.uk/ukpga/2012/5/section/120/4/c), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
+[^c-a633c71b14e8f6b409d99b7c9228e86f]: Textual amendment: Words in s. 66(3)(a) inserted (1.2.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 120(4)(c)](https://www.legislation.gov.uk/ukpga/2012/5/section/120/4/c), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)

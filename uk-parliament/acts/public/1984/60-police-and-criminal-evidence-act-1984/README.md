@@ -33,7 +33,7 @@ An Act to make further provision in relation to the powers and duties of the pol
 
 \[31st October 1984\]
 
-[^c11314161][^c11314171][^c16844031][^c16847961][^c19273181][^c19682971][^c20447511]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-c9c6fa97a23a92bf2fe8e4f2bd9a8bd2][^key-a06dd87ee15690621b72b899a96e4923][^key-1a1adecf09b2fc775023cc02c532f943][^key-9915e31ae6e1017f75f2eb1ca66ddff2][^key-d3fceef4da7b1d8d5306247895f8dd1a]
+[^c11314161][^c11314171][^c16844031][^c16847961][^c19273181][^c19682971][^c20447511]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c9c6fa97a23a92bf2fe8e4f2bd9a8bd2][^c-a06dd87ee15690621b72b899a96e4923][^c-1a1adecf09b2fc775023cc02c532f943][^c-9915e31ae6e1017f75f2eb1ca66ddff2][^c-d3fceef4da7b1d8d5306247895f8dd1a]
 
 ## Contents
 
@@ -47,7 +47,7 @@ An Act to make further provision in relation to the powers and duties of the pol
 - [Section 6 — Statutory undertakers etc.](part-i/section-6.md)
 - [Section 7 — Part I—supplementary](part-i/section-7.md)
 
-### Part II — Powers of Entry, Search and Seizure[^c11314571][^c18970381][^c19867871][^key-354c497032dc4597a0199732eebf4150]
+### Part II — Powers of Entry, Search and Seizure[^c11314571][^c18970381][^c19867871][^c-354c497032dc4597a0199732eebf4150]
 
 *Extent: E+W*
 
@@ -132,7 +132,7 @@ An Act to make further provision in relation to the powers and duties of the pol
 - [Section 44 — Extension of warrants of further detention.](part-iv/section-44.md)
 - [Section 45 — Detention before charge—supplementary.](part-iv/section-45.md)
 
-#### Use of live links[^key-24c33310d05d4a2981f49b0076beaa77]
+#### Use of live links[^c-24c33310d05d4a2981f49b0076beaa77]
 
 *Extent: E+W*
 
@@ -405,15 +405,15 @@ SCHEDULES
 
 [^c20447511]: Modification: Act: power to apply (with modifications) conferred (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [s. 23](https://www.legislation.gov.uk/ukpga/2009/11/section/23) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
 
-[^key-c9c6fa97a23a92bf2fe8e4f2bd9a8bd2]: Modification: Act applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [art. 12(5)-(8)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/5)
+[^c-c9c6fa97a23a92bf2fe8e4f2bd9a8bd2]: Modification: Act applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [art. 12(5)-(8)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/5)
 
-[^key-a06dd87ee15690621b72b899a96e4923]: Modification: Act applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [art. 3(5)](https://www.legislation.gov.uk/uksi/2013/1542/article/3/5)[(6)](https://www.legislation.gov.uk/uksi/2013/1542/article/3/6)
+[^c-a06dd87ee15690621b72b899a96e4923]: Modification: Act applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [art. 3(5)](https://www.legislation.gov.uk/uksi/2013/1542/article/3/5)[(6)](https://www.legislation.gov.uk/uksi/2013/1542/article/3/6)
 
-[^key-1a1adecf09b2fc775023cc02c532f943]: Modification: Act modified (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 176(6)](https://www.legislation.gov.uk/ukpga/2014/12/section/176/6), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 8](https://www.legislation.gov.uk/ukpga/2014/12/section/8), [21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93), [176(8)](https://www.legislation.gov.uk/ukpga/2014/12/section/176/8)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/17)
+[^c-1a1adecf09b2fc775023cc02c532f943]: Modification: Act modified (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 176(6)](https://www.legislation.gov.uk/ukpga/2014/12/section/176/6), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 8](https://www.legislation.gov.uk/ukpga/2014/12/section/8), [21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93), [176(8)](https://www.legislation.gov.uk/ukpga/2014/12/section/176/8)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/17)
 
-[^key-9915e31ae6e1017f75f2eb1ca66ddff2]: Modification: Act applied (with modifications) (4.8.2014) by [The Crime and Courts Act 2013 (Application and Modification of Certain Enactments) Order 2014 (S.I. 2014/1704)](https://www.legislation.gov.uk/uksi/2014/1704), [art. 3](https://www.legislation.gov.uk/uksi/2014/1704/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/1704/schedule/1)
+[^c-9915e31ae6e1017f75f2eb1ca66ddff2]: Modification: Act applied (with modifications) (4.8.2014) by [The Crime and Courts Act 2013 (Application and Modification of Certain Enactments) Order 2014 (S.I. 2014/1704)](https://www.legislation.gov.uk/uksi/2014/1704), [art. 3](https://www.legislation.gov.uk/uksi/2014/1704/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/1704/schedule/1)
 
-[^key-d3fceef4da7b1d8d5306247895f8dd1a]: Modification: Act applied in part (with modifications) (E.W.) (1.4.2018) by [The Welsh Revenue Authority (Powers to Investigate Criminal Offences) Regulations 2018 (S.I. 2018/400)](https://www.legislation.gov.uk/wsi/2018/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/400/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/3)[(4)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/4)
+[^c-d3fceef4da7b1d8d5306247895f8dd1a]: Modification: Act applied in part (with modifications) (E.W.) (1.4.2018) by [The Welsh Revenue Authority (Powers to Investigate Criminal Offences) Regulations 2018 (S.I. 2018/400)](https://www.legislation.gov.uk/wsi/2018/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/400/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/3)[(4)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/4)
 
 [^c19867811]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1984/60/part/I) incorporated (E.W.S.) (16.5.2008) by [The London Gateway Port Harbour Empowerment Order 2008 (S.I. 2008/1261)](https://www.legislation.gov.uk/uksi/2008/1261), [art. 52](https://www.legislation.gov.uk/uksi/2008/1261/article/52)
 
@@ -433,7 +433,7 @@ SCHEDULES
 
 [^c19867871]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1984/60/part/II) incorporated (16.5.2008) by [The London Gateway Port Harbour Empowerment Order 2008 (S.I. 2008/1261)](https://www.legislation.gov.uk/uksi/2008/1261), [art. 52](https://www.legislation.gov.uk/uksi/2008/1261/article/52)
 
-[^key-354c497032dc4597a0199732eebf4150]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1984/60/part/2) applied (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [16(1)](https://www.legislation.gov.uk/uksi/2018/187/article/16/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
+[^c-354c497032dc4597a0199732eebf4150]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1984/60/part/2) applied (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [16(1)](https://www.legislation.gov.uk/uksi/2018/187/article/16/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
 
 [^c11315611]: Modification: [Pt. III](https://www.legislation.gov.uk/ukpga/1984/60/part/III): Powers of seizure extended (1.4.2003) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68), [Sch. 1 Pt. 1 para. 1](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/part/1/paragraph/1); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(j)](https://www.legislation.gov.uk/uksi/2003/708/article/2/j)
 
@@ -457,7 +457,7 @@ SCHEDULES
 
 [^c19868001]: Modification: Pt. IV incorporated (16.5.2008) by [The London Gateway Port Harbour Empowerment Order 2008 (S.I. 2008/1261)](https://www.legislation.gov.uk/uksi/2008/1261), [art. 52](https://www.legislation.gov.uk/uksi/2008/1261/article/52)
 
-[^key-24c33310d05d4a2981f49b0076beaa77]: Textual amendment: Ss. 45ZA, 45ZB and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/74/2), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/23)
+[^c-24c33310d05d4a2981f49b0076beaa77]: Textual amendment: Ss. 45ZA, 45ZB and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/74/2), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/23)
 
 [^c19868011]: Modification: Pt. V incorporated (16.5.2008) by [The London Gateway Port Harbour Empowerment Order 2008 (S.I. 2008/1261)](https://www.legislation.gov.uk/uksi/2008/1261), [art. 52](https://www.legislation.gov.uk/uksi/2008/1261/article/52)
 

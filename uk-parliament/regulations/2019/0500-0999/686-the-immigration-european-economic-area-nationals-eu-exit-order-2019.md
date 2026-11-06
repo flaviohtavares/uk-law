@@ -48,7 +48,7 @@ In accordance with section 141(5)(b) of the Nationality, Immigration and Asylum 
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-753cfb7f0b134c26a2a3557e877dd4ce]
+### 1. Citation and commencement[^c-753cfb7f0b134c26a2a3557e877dd4ce]
 
 (1) This Order may be cited as the Immigration (European Economic Area Nationals) (EU Exit) Order 2019.
 
@@ -58,7 +58,7 @@ In accordance with section 141(5)(b) of the Nationality, Immigration and Asylum 
 
 ## PART 2 — Leave to enter or remain
 
-### Chapter 1 — Grant of leave to EEA and Swiss nationals[^key-cc0a63a2c8df4367108b846ded454a84]
+### Chapter 1 — Grant of leave to EEA and Swiss nationals[^c-cc0a63a2c8df4367108b846ded454a84]
 
 **No longer in force.**
 
@@ -84,11 +84,11 @@ In accordance with section 141(5)(b) of the Nationality, Immigration and Asylum 
 
 ### Chapter 2 — Appendix EU to the immigration rules
 
-#### 7. Grant of leave by virtue of Appendix EU to the immigration rules[^key-cbfa9da70e863027d276ed70762490b5]
+#### 7. Grant of leave by virtue of Appendix EU to the immigration rules[^c-cbfa9da70e863027d276ed70762490b5]
 
 The Secretary of State may give or refuse leave to enter the United Kingdom to any person who seeks leave to enter the United Kingdom by virtue of Appendix EU to the immigration rules [^c23669491].
 
-#### 8. Amendments to the Immigration (Leave to Enter and Remain) Order 2000[^key-a938270f4e5ef5e2e736cbe8fbdfeae7]
+#### 8. Amendments to the Immigration (Leave to Enter and Remain) Order 2000[^c-a938270f4e5ef5e2e736cbe8fbdfeae7]
 
 (1) The Immigration (Leave to Enter and Remain) Order 2000 [^c23669501] is amended as follows.
 
@@ -151,7 +151,7 @@ The Secretary of State may give or refuse leave to enter the United Kingdom to a
 
 ## PART 3 — Biometrics
 
-### 9. Amendments to the Immigration (Provision of Physical Data) Regulations 2006[^key-e697e7d3bec073d9b99038964fcdd52a]
+### 9. Amendments to the Immigration (Provision of Physical Data) Regulations 2006[^c-e697e7d3bec073d9b99038964fcdd52a]
 
 In regulation 2 of the Immigration (Provision of Physical Data) Regulations 2006 (interpretation) [^c23669521], in the definition of “application”, for paragraph (e) substitute—
 
@@ -161,7 +161,7 @@ In regulation 2 of the Immigration (Provision of Physical Data) Regulations 2006
 
 ## PART 4 — Immigration Health Charge
 
-### 10. Amendments to the Immigration (Health Charge) Order 2015[^key-155a902b8796db0b1dadcd1a2b8b967f]
+### 10. Amendments to the Immigration (Health Charge) Order 2015[^c-155a902b8796db0b1dadcd1a2b8b967f]
 
 In Schedule 2 (exemptions) to the Immigration (Health Charge) Order 2015 [^c23669531], in paragraph 1, after sub-paragraph (l) insert—
 
@@ -202,26 +202,26 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23669331]: Marginal citation: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-753cfb7f0b134c26a2a3557e877dd4ce]: Commencement: Art. 1 in force at 30.3.2019, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3)
+[^c-753cfb7f0b134c26a2a3557e877dd4ce]: Commencement: Art. 1 in force at 30.3.2019, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3)
 
 [^c23669341]: Marginal citation: [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052).
 
-[^key-cc0a63a2c8df4367108b846ded454a84]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2019/686/part/2/chapter/1) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [47(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/47/2)
+[^c-cc0a63a2c8df4367108b846ded454a84]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2019/686/part/2/chapter/1) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/a), [47(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/47/2)
 
-[^key-cbfa9da70e863027d276ed70762490b5]: Commencement: Art. 7 in force at 30.3.2019, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3)
+[^c-cbfa9da70e863027d276ed70762490b5]: Commencement: Art. 7 in force at 30.3.2019, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3)
 
 [^c23669491]: Marginal citation: Appendix EU was laid before Parliament on 20<sup>th</sup> July 2018 (CM 9675).
 
-[^key-a938270f4e5ef5e2e736cbe8fbdfeae7]: Commencement: Art. 8 in force at 30.3.2019, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3)
+[^c-a938270f4e5ef5e2e736cbe8fbdfeae7]: Commencement: Art. 8 in force at 30.3.2019, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3)
 
 [^c23669501]: Marginal citation: [S.I. 2000/1161](https://www.legislation.gov.uk/uksi/2000/1161), as amended by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), 2003/2818, 2004/475, 2005/1159, 2010/957, 2013/1749, 2015/434, and 2016/1132.
 
 [^c23669511]: Marginal citation: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-e697e7d3bec073d9b99038964fcdd52a]: Commencement: Art. 9 in force at 30.3.2019, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3)
+[^c-e697e7d3bec073d9b99038964fcdd52a]: Commencement: Art. 9 in force at 30.3.2019, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3)
 
 [^c23669521]: Marginal citation: [S.I. 2006/1743](https://www.legislation.gov.uk/uksi/2006/1743); amended by [S.I. 2011/1779](https://www.legislation.gov.uk/uksi/2011/1779), 2015/737 and 2018/928.
 
-[^key-155a902b8796db0b1dadcd1a2b8b967f]: Commencement: Art. 10 in force at 30.3.2019, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3)
+[^c-155a902b8796db0b1dadcd1a2b8b967f]: Commencement: Art. 10 in force at 30.3.2019, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2019/686/article/1/3)
 
 [^c23669531]: Marginal citation: [S.I. 2015/792](https://www.legislation.gov.uk/uksi/2015/792); amended by [S.I. 2016/400](https://www.legislation.gov.uk/uksi/2016/400), 2017/420 and 2018/1389.

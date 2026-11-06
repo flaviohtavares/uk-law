@@ -149,7 +149,7 @@ In Article 14 of the 1985 Order (membership and voting rights)—
 
 .
 
-### 4. Attachment of shares[^key-71f1c16cd66c38dbf4e7a4bd2a178ce8]
+### 4. Attachment of shares[^c-71f1c16cd66c38dbf4e7a4bd2a178ce8]
 
 (1) In Article 23 of the 1985 Order (shares)—
 
@@ -226,7 +226,7 @@ In the Company Directors Disqualification (Northern Ireland) Order 2002 after Ar
 
 ## Co-operative and Community Benefit Societies
 
-### 8. Registration of societies as co-operative or community benefit societies etc.[^key-c54d6354a6ed5fd455afddcb328a1443]
+### 8. Registration of societies as co-operative or community benefit societies etc.[^c-c54d6354a6ed5fd455afddcb328a1443]
 
 (1) In the 1969 Act for section 1 (societies which may be registered) substitute—
 
@@ -461,7 +461,7 @@ In this Act—
 (1) Schedule 1 is comprised as follows—
 
 - (a) Part 1 contains amendments consequential on the provision made by section 1;
-- (b)[^key-347baa7a813b8326f5d9980da701e5bb] Part 2 contains amendments consequential on the provision made by section 8;
+- (b)[^c-347baa7a813b8326f5d9980da701e5bb] Part 2 contains amendments consequential on the provision made by section 8;
 - (c) Part 3 contains general minor and consequential amendments;
 - (d) Part 4 contains amendments that remove obsolete material etc.
 
@@ -644,7 +644,7 @@ Section 16.
 
 #### Industrial and Provident Societies Act (Northern Ireland) 1969 (c. 24)
 
-**12.**[^key-ee9a147c26b7eeb25896a14d443304ff] (1) Section 15 (cancellation of registration of society) is amended as follows.
+**12.**[^c-ee9a147c26b7eeb25896a14d443304ff] (1) Section 15 (cancellation of registration of society) is amended as follows.
 
 (2) In subsection (1)(c)(ii) for “neither of the conditions specified in section 1(2) is fulfilled” substitute “ the relevant registration condition is not met ”.
 
@@ -658,9 +658,9 @@ Section 16.
 
 .
 
-**13.**[^key-a7b191834083b64fd67dd390faaf6da0] In section 65(a) (power of registrar to petition for winding up) for “section 1(2)” substitute “ section 1(2)(a) ”.
+**13.**[^c-a7b191834083b64fd67dd390faaf6da0] In section 65(a) (power of registrar to petition for winding up) for “section 1(2)” substitute “ section 1(2)(a) ”.
 
-**14.**[^key-31caed777ca922fae322cc23fa7e2c5f] In section 101(1) (interpretation)—
+**14.**[^c-31caed777ca922fae322cc23fa7e2c5f] In section 101(1) (interpretation)—
 
 (a) after the definition of “persons claiming through a member” insert—
 
@@ -670,13 +670,13 @@ Section 16.
 
 > “**registered society**” has the meaning given by section 1A;
 
-**15.**[^key-06ab299ece177a3b79f9a2b7f26cacc3] In section 104(1) (short title) for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
+**15.**[^c-06ab299ece177a3b79f9a2b7f26cacc3] In section 104(1) (short title) for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
 
 #### Fish Industry Act (Northern Ireland) 1972 (c. 4)
 
-**16.**[^key-377166648a115e1e8a1b48373234f1c3] In section 2(3) (grants for purposes connected with co-operative activities) for “not registered under the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ not a registered society within the meaning of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
+**16.**[^c-377166648a115e1e8a1b48373234f1c3] In section 2(3) (grants for purposes connected with co-operative activities) for “not registered under the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ not a registered society within the meaning of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
 
-**17.**[^key-2de3f44c3090f7e9de950d9f8518f368] (1) Section 9 (acquisition of businesses etc. in the fish industry) is amended as follows.
+**17.**[^c-2de3f44c3090f7e9de950d9f8518f368] (1) Section 9 (acquisition of businesses etc. in the fish industry) is amended as follows.
 
 (2) In subsection (1)(a) for “industrial and provident society” substitute “ registered society ”.
 
@@ -693,9 +693,9 @@ Section 16.
 
 #### The Industrial and Provident Societies (Amendment) (Northern Ireland) Order 1976 (NI 7)
 
-**18.**[^key-378e08912812f174c417724106d1d7b6] In Article 1 (title etc.) for “the Industrial and Provident Societies (Amendment) (Northern Ireland) Order 1976” substitute “ the Co-operative and Community Benefit Societies (Northern Ireland) Order 1976 ”.
+**18.**[^c-378e08912812f174c417724106d1d7b6] In Article 1 (title etc.) for “the Industrial and Provident Societies (Amendment) (Northern Ireland) Order 1976” substitute “ the Co-operative and Community Benefit Societies (Northern Ireland) Order 1976 ”.
 
-**19.**[^key-ac6e2933bc63b85a57ab31181ba7a3f4] (1) Article 2 (interpretation etc.) is amended as follows.
+**19.**[^c-ac6e2933bc63b85a57ab31181ba7a3f4] (1) Article 2 (interpretation etc.) is amended as follows.
 
 (2) In paragraph (2) for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
 
@@ -703,31 +703,31 @@ Section 16.
 
 #### The Property (Discharge of Mortgage by Receipt) (Northern Ireland) Order 1983 (NI 9)
 
-**20.**[^key-1d331077158c5b41d5a05d2ba1478bbc] In Article 3(10) (discharge of mortgage by receipt) in the definition of “mortgage” for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
+**20.**[^c-1d331077158c5b41d5a05d2ba1478bbc] In Article 3(10) (discharge of mortgage by receipt) in the definition of “mortgage” for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
 
 #### The Credit Unions (Northern Ireland) Order 1985 (NI 12)
 
-**21.**[^key-0d89afeefb42161f5e16a6723e535799] In Article 2(2) (interpretation) in the definition of “credit union” for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
+**21.**[^c-0d89afeefb42161f5e16a6723e535799] In Article 2(2) (interpretation) in the definition of “credit union” for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
 
-**22.**[^key-a6446ceacc4f7b1f960f70ab5aac77fc] In Article 60(1)(c)(i) (cancellation of registration) for “or the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ (or the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969) ”.
+**22.**[^c-a6446ceacc4f7b1f960f70ab5aac77fc] In Article 60(1)(c)(i) (cancellation of registration) for “or the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ (or the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969) ”.
 
-**23.**[^key-f8ac1427a56cac7c603d768b6ca04be1] In Article 63(b) (petition for winding up) for “or the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ (or the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969) ”.
+**23.**[^c-f8ac1427a56cac7c603d768b6ca04be1] In Article 63(b) (petition for winding up) for “or the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ (or the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969) ”.
 
-**24.**[^key-62a00930486ef053773e73649b920e09] In Schedule 4 (savings), in paragraph 1 for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
+**24.**[^c-62a00930486ef053773e73649b920e09] In Schedule 4 (savings), in paragraph 1 for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
 
 #### The Industrial Relations (Northern Ireland) Order 1992 (NI 5)
 
-**25.**[^key-63ba288bfe2d8d8730c6293322a56c46] In Article 3(4) (definition and status of trade union) for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
+**25.**[^c-63ba288bfe2d8d8730c6293322a56c46] In Article 3(4) (definition and status of trade union) for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
 
 #### The Housing (Northern Ireland) Order 1992 (NI 15)
 
-**26.**[^key-cc4e083ce42deb23207e7e07bbc07d98] In Article 3 (interpretation of Part 2) in the definition of “the Act of 1969” for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
+**26.**[^c-cc4e083ce42deb23207e7e07bbc07d98] In Article 3 (interpretation of Part 2) in the definition of “the Act of 1969” for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
 
-**27.**[^key-1a45f4215b850a04b7d3ed882be4eacd] In Article 23(12) (inquiries into affairs of registered housing associations) for “an industrial and provident society” substitute “ a society ”.
+**27.**[^c-1a45f4215b850a04b7d3ed882be4eacd] In Article 23(12) (inquiries into affairs of registered housing associations) for “an industrial and provident society” substitute “ a society ”.
 
 #### The Company Directors Disqualification (Northern Ireland) Order 2002 (NI 4)
 
-**28.**[^key-f9cf64e0d76d2d8ad97a189708a22742] (1) Article 25A (application of Order to registered societies) is amended as follows.
+**28.**[^c-f9cf64e0d76d2d8ad97a189708a22742] (1) Article 25A (application of Order to registered societies) is amended as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -739,7 +739,7 @@ Section 16.
 
 #### The Insolvency (Northern Ireland) Order 2005 (NI 10)
 
-**29.**[^key-1696c3187cc973a39de510174a260427] In Article 10(2) (application of law about company arrangement or administration to non-company) for the words from “a society” to the end substitute
+**29.**[^c-1696c3187cc973a39de510174a260427] In Article 10(2) (application of law about company arrangement or administration to non-company) for the words from “a society” to the end substitute
 
 > —
 >
@@ -750,11 +750,11 @@ Section 16.
 
 #### The Industrial and Provident Societies (Northern Ireland) Order 2006 (NI 3)
 
-**30.**[^key-e4f7db10fcd1e77747f10389884b8571] In Article 1(1) (title etc.) for “the Industrial and Provident Societies (Northern Ireland) Order 2006” substitute “ the Co-operative and Community Benefit Societies (Northern Ireland) Order 2006 ”.
+**30.**[^c-e4f7db10fcd1e77747f10389884b8571] In Article 1(1) (title etc.) for “the Industrial and Provident Societies (Northern Ireland) Order 2006” substitute “ the Co-operative and Community Benefit Societies (Northern Ireland) Order 2006 ”.
 
-**31.**[^key-a4813537d413ac71d94c21211b488b79] In Article 2(2) (interpretation) in the definition of “the principal Act” for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
+**31.**[^c-a4813537d413ac71d94c21211b488b79] In Article 2(2) (interpretation) in the definition of “the principal Act” for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
 
-**32.**[^key-a58f091f7f2d864ab863f418dbbad072] In Article 9(8) (community benefit societies: power to restrict use of assets) for the definition of “community benefit society” substitute—
+**32.**[^c-a58f091f7f2d864ab863f418dbbad072] In Article 9(8) (community benefit societies: power to restrict use of assets) for the definition of “community benefit society” substitute—
 
 > “**community benefit society**” means—
 >
@@ -763,7 +763,7 @@ Section 16.
 
 .
 
-**33.**[^key-2645fad2546a4c39fa7c23b2fb33a685] (1) Article 10 (power to modify statutory provisions relating to industrial and provident societies) is amended as follows.
+**33.**[^c-2645fad2546a4c39fa7c23b2fb33a685] (1) Article 10 (power to modify statutory provisions relating to industrial and provident societies) is amended as follows.
 
 (2) In paragraph (2) for “the Industrial and Provident Societies Acts (Northern Ireland) 1969 and 1976” substitute “ the Co-operative and Community Benefit Societies Acts (Northern Ireland) 1969 and 1976 ”.
 
@@ -771,7 +771,7 @@ Section 16.
 
 #### Charities Act (Northern Ireland) 2008 (c. 12)
 
-**34.**[^key-063ccf99d61bed5b97764a16c3bca810] (1) Section 112 (conversion of charitable company or registered industrial and provident society) is amended as follows.
+**34.**[^c-063ccf99d61bed5b97764a16c3bca810] (1) Section 112 (conversion of charitable company or registered industrial and provident society) is amended as follows.
 
 (2) In subsection (1)(b) for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 (“**the 1969 Act**”). ”.
 
@@ -781,11 +781,11 @@ Section 16.
 
 (5) In the heading for “registered industrial and provident society” substitute “ registered society ”.
 
-**35.**[^key-45090796dfdc0b31ba1ccdd976f763b6] In section 114(3)(b) (conversion: supplementary) for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
+**35.**[^c-45090796dfdc0b31ba1ccdd976f763b6] In section 114(3)(b) (conversion: supplementary) for “the Industrial and Provident Societies Act (Northern Ireland) 1969” substitute “ the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969 ”.
 
 #### Local Government Act (Northern Ireland) 2014 (c. 8)
 
-**36.**[^key-1184cf50fa9b6037efbbe1a9c81df2ee] In Part 2 of Schedule 6 (access to information: exempt information) in paragraph 8 for sub-paragraph (a) substitute—
+**36.**[^c-1184cf50fa9b6037efbbe1a9c81df2ee] In Part 2 of Schedule 6 (access to information: exempt information) in paragraph 8 for sub-paragraph (a) substitute—
 
 > - (a) the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969;
 
@@ -793,7 +793,7 @@ Section 16.
 
 #### General modifications
 
-**37.**[^key-86421d071b0a19d39fdbb0ef9699b663] Subject to the provisions of this Schedule and of any regulations under section 16—
+**37.**[^c-86421d071b0a19d39fdbb0ef9699b663] Subject to the provisions of this Schedule and of any regulations under section 16—
 
 - (a) a reference in any statutory provision to an industrial and provident society within the meaning of the Industrial and Provident Societies Act (Northern Ireland) 1969 is to be read as a reference to a registered society within the meaning of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969;
 - (b) a reference in any statutory provision to the Industrial and Provident Societies Act (Northern Ireland) 1969 is to be read as a reference to the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969;
@@ -972,62 +972,62 @@ and the registrar must act accordingly.
 
 ## Annotations
 
-[^key-71f1c16cd66c38dbf4e7a4bd2a178ce8]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/16/section/4) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/217/article/2/a)
+[^c-71f1c16cd66c38dbf4e7a4bd2a178ce8]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/16/section/4) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/217/article/2/a)
 
-[^key-c54d6354a6ed5fd455afddcb328a1443]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/16/section/8) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/217/article/2/b)
+[^c-c54d6354a6ed5fd455afddcb328a1443]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/16/section/8) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/217/article/2/b)
 
 [^c22563171]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/16/section/16) partly in operation; [s. 16(1)(a)(c)(d)](https://www.legislation.gov.uk/nia/2016/16/section/16/1/a/c/d), (2)(3)(4)(5) in operation at 23.4.2016 see [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2).
 
-[^key-347baa7a813b8326f5d9980da701e5bb]: Commencement: [S. 16(1)(b)](https://www.legislation.gov.uk/nia/2016/16/section/16/1/b) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/217/article/2/c)
+[^c-347baa7a813b8326f5d9980da701e5bb]: Commencement: [S. 16(1)(b)](https://www.legislation.gov.uk/nia/2016/16/section/16/1/b) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/217/article/2/c)
 
-[^key-ee9a147c26b7eeb25896a14d443304ff]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/12) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-ee9a147c26b7eeb25896a14d443304ff]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/12) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-a7b191834083b64fd67dd390faaf6da0]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/13) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-a7b191834083b64fd67dd390faaf6da0]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/13) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-31caed777ca922fae322cc23fa7e2c5f]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/14) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-31caed777ca922fae322cc23fa7e2c5f]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/14) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-06ab299ece177a3b79f9a2b7f26cacc3]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/15) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-06ab299ece177a3b79f9a2b7f26cacc3]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/15) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-377166648a115e1e8a1b48373234f1c3]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/16) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-377166648a115e1e8a1b48373234f1c3]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/16) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-2de3f44c3090f7e9de950d9f8518f368]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/17) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-2de3f44c3090f7e9de950d9f8518f368]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/17) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-378e08912812f174c417724106d1d7b6]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/18) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-378e08912812f174c417724106d1d7b6]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/18) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-ac6e2933bc63b85a57ab31181ba7a3f4]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/19) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-ac6e2933bc63b85a57ab31181ba7a3f4]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/19) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-1d331077158c5b41d5a05d2ba1478bbc]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/20) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-1d331077158c5b41d5a05d2ba1478bbc]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/20) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-0d89afeefb42161f5e16a6723e535799]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/21) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-0d89afeefb42161f5e16a6723e535799]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/21) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-a6446ceacc4f7b1f960f70ab5aac77fc]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/22) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-a6446ceacc4f7b1f960f70ab5aac77fc]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/22) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-f8ac1427a56cac7c603d768b6ca04be1]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/23) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-f8ac1427a56cac7c603d768b6ca04be1]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/23) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-62a00930486ef053773e73649b920e09]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/24) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-62a00930486ef053773e73649b920e09]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/24) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-63ba288bfe2d8d8730c6293322a56c46]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/25) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-63ba288bfe2d8d8730c6293322a56c46]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/25) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-cc4e083ce42deb23207e7e07bbc07d98]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/26) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-cc4e083ce42deb23207e7e07bbc07d98]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/26) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-1a45f4215b850a04b7d3ed882be4eacd]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/27) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-1a45f4215b850a04b7d3ed882be4eacd]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/27) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-f9cf64e0d76d2d8ad97a189708a22742]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/28) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-f9cf64e0d76d2d8ad97a189708a22742]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/28) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-1696c3187cc973a39de510174a260427]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/29) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-1696c3187cc973a39de510174a260427]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/29) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-e4f7db10fcd1e77747f10389884b8571]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/30) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-e4f7db10fcd1e77747f10389884b8571]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/30) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-a4813537d413ac71d94c21211b488b79]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/31) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-a4813537d413ac71d94c21211b488b79]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/31) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-a58f091f7f2d864ab863f418dbbad072]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/32) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-a58f091f7f2d864ab863f418dbbad072]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/32) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-2645fad2546a4c39fa7c23b2fb33a685]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/33) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-2645fad2546a4c39fa7c23b2fb33a685]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/33) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-063ccf99d61bed5b97764a16c3bca810]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-063ccf99d61bed5b97764a16c3bca810]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/34) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-45090796dfdc0b31ba1ccdd976f763b6]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/35) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-45090796dfdc0b31ba1ccdd976f763b6]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/35) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-1184cf50fa9b6037efbbe1a9c81df2ee]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/36) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-1184cf50fa9b6037efbbe1a9c81df2ee]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/36) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-86421d071b0a19d39fdbb0ef9699b663]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/37) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-86421d071b0a19d39fdbb0ef9699b663]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/37) in operation at 6.4.2018 by [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)

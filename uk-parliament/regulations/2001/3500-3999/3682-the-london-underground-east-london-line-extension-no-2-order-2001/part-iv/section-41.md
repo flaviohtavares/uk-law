@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Certification of plans etc.[^key-1589402471513f822265cc5c592ab9dd]
+## 41. Certification of plans etc.[^c-1589402471513f822265cc5c592ab9dd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Company shall, as soon as practicable after the making of this Order, submit
 
 ## Annotations
 
-[^key-1589402471513f822265cc5c592ab9dd]: Commencement: Art. 41 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-1589402471513f822265cc5c592ab9dd]: Commencement: Art. 41 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

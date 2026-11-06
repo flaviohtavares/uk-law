@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80O. Tax in connection with building control approval etc[^key-9aba30bb0f2165b944a7172a9413014f]
+## 80O. Tax in connection with building control approval etc[^c-9aba30bb0f2165b944a7172a9413014f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9aba30bb0f2165b944a7172a9413014f]: Textual amendment: [Pt. 4A Ch. 8](https://www.legislation.gov.uk/ukpga/1998/46/part/4A/chapter/8) inserted (19.12.2024) by [The Scotland Act 1998 (Specification of Devolved Tax) (Building Safety) Order 2024 (S.I. 2024/1362)](https://www.legislation.gov.uk/uksi/2024/1362), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1362/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/1362/article/2)
+[^c-9aba30bb0f2165b944a7172a9413014f]: Textual amendment: [Pt. 4A Ch. 8](https://www.legislation.gov.uk/ukpga/1998/46/part/4A/chapter/8) inserted (19.12.2024) by [The Scotland Act 1998 (Specification of Devolved Tax) (Building Safety) Order 2024 (S.I. 2024/1362)](https://www.legislation.gov.uk/uksi/2024/1362), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1362/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/1362/article/2)

@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-248c6abc46bbff3c965e89cb0554fed6] Tenants' energy efficiency improvements regulations may include provision for the purpose of securing compliance with requirements imposed on landlords by or under the regulations.
+(1)[^c-248c6abc46bbff3c965e89cb0554fed6] Tenants' energy efficiency improvements regulations may include provision for the purpose of securing compliance with requirements imposed on landlords by or under the regulations.
 
-(2)[^key-248c6abc46bbff3c965e89cb0554fed6] Provision falling within subsection (1) includes, in particular, provision for a tenant to apply to a court or tribunal for a ruling that a landlord has not complied with a requirement imposed by or under the regulations.
+(2)[^c-248c6abc46bbff3c965e89cb0554fed6] Provision falling within subsection (1) includes, in particular, provision for a tenant to apply to a court or tribunal for a ruling that a landlord has not complied with a requirement imposed by or under the regulations.
 
-(3)[^key-248c6abc46bbff3c965e89cb0554fed6] Where the regulations make provision for a tenant to make an application such as is mentioned in subsection (2), the provision may, in particular, include provision—
+(3)[^c-248c6abc46bbff3c965e89cb0554fed6] Where the regulations make provision for a tenant to make an application such as is mentioned in subsection (2), the provision may, in particular, include provision—
 
 - (a) as to the jurisdiction of the court or tribunal to which an application may be made;
 - (b) as to the grounds on which an application may be made;
@@ -53,13 +53,13 @@ summary: ''
 
 (7) If the Secretary of State considers it appropriate for the purpose of, or in consequence of, any provision falling within—
 
-- (a)[^key-248c6abc46bbff3c965e89cb0554fed6] subsection (3)(a), (c), (d) or (e), or
+- (a)[^c-248c6abc46bbff3c965e89cb0554fed6] subsection (3)(a), (c), (d) or (e), or
 - (b) subsection (5)(a), (c), (e) or (f),
 
 tenants' energy efficiency improvements regulations may revoke or amend any subordinate legislation in so far as the subordinate legislation extends to England and Wales.
 
-(8)[^key-248c6abc46bbff3c965e89cb0554fed6] In this section “**subordinate legislation**” has the meaning given in section 21(1) of the Interpretation Act 1978 and includes an instrument made under a Measure or Act of the National Assembly for Wales.
+(8)[^c-248c6abc46bbff3c965e89cb0554fed6] In this section “**subordinate legislation**” has the meaning given in section 21(1) of the Interpretation Act 1978 and includes an instrument made under a Measure or Act of the National Assembly for Wales.
 
 ## Annotations
 
-[^key-248c6abc46bbff3c965e89cb0554fed6]: Commencement: [S. 48(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/48/1) [(7)(a)](https://www.legislation.gov.uk/ukpga/2011/16/section/48/7/a) [(8)](https://www.legislation.gov.uk/ukpga/2011/16/section/48/8) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)
+[^c-248c6abc46bbff3c965e89cb0554fed6]: Commencement: [S. 48(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/48/1) [(7)(a)](https://www.legislation.gov.uk/ukpga/2011/16/section/48/7/a) [(8)](https://www.legislation.gov.uk/ukpga/2011/16/section/48/8) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)

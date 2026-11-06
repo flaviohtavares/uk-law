@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Flood plans: large raised reservoirs[^key-7098a8973a75eeaf505f8e94e60c8a2a][^key-0288520ed0d9894955fceb404a6ae288]
+## 77. Flood plans: large raised reservoirs[^c-7098a8973a75eeaf505f8e94e60c8a2a][^c-0288520ed0d9894955fceb404a6ae288]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ After section 12 of the Reservoirs Act 1975 there is inserted—
 
 ## Annotations
 
-[^key-7098a8973a75eeaf505f8e94e60c8a2a]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2003/37/section/77) in force at 1.10.2004 for E. by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(m)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/m) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-7098a8973a75eeaf505f8e94e60c8a2a]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2003/37/section/77) in force at 1.10.2004 for E. by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(m)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/m) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
 
-[^key-0288520ed0d9894955fceb404a6ae288]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2003/37/section/77) in force at 11.11.2004 for W. by [S.I. 2004/2916](https://www.legislation.gov.uk/wsi/2004/2916), [art. 2(a)](https://www.legislation.gov.uk/wsi/2004/2916/article/2/a)
+[^c-0288520ed0d9894955fceb404a6ae288]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2003/37/section/77) in force at 11.11.2004 for W. by [S.I. 2004/2916](https://www.legislation.gov.uk/wsi/2004/2916), [art. 2(a)](https://www.legislation.gov.uk/wsi/2004/2916/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Joint decisions about early intervention[^key-45d53fb556cbb9a54d1a6d7ddcc918bc]
+## 113. Joint decisions about early intervention[^c-45d53fb556cbb9a54d1a6d7ddcc918bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45d53fb556cbb9a54d1a6d7ddcc918bc]: Textual amendment: [Art. 113](https://www.legislation.gov.uk/uksi/2014/3348/article/113) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 64](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-45d53fb556cbb9a54d1a6d7ddcc918bc]: Textual amendment: [Art. 113](https://www.legislation.gov.uk/uksi/2014/3348/article/113) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 64](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

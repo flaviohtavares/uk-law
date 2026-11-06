@@ -197,7 +197,7 @@ Section 261(1)
 
 **22.** (1) Amend section 4 (variation of orders registered in magistrates' courts) as follows.
 
-(2)[^key-c96a6acdee8621067e10c64c2baa29ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c96a6acdee8621067e10c64c2baa29ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (6B) (no application may be made for variation under the Act of certain registered orders), after “1984” insert “ or under Schedule 7 to the Civil Partnership Act 2004 ”.
 
@@ -209,7 +209,7 @@ Section 261(1)
 
 *Extent: E+W+S+N.I.*
 
-**24.**[^key-5d5aecc141fbb6bf2889993dd9a7b472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-5d5aecc141fbb6bf2889993dd9a7b472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **25.** In section 25 (provision for intestacy), in subsection (2), after “widower” insert “ , surviving civil partner ”.
 
@@ -369,7 +369,7 @@ and omit “or” at the end of paragraph (a)(i) to the proviso.
 
 ### Consumer Credit Act 1974 (c. 39)
 
-**50.**[^key-f9ca8e32ae7585209ec44f4d68c4b240] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-f9ca8e32ae7585209ec44f4d68c4b240] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **51.** (1) Amend section 184 (associates) as follows.
 
@@ -475,7 +475,7 @@ and omit “or” at the end of paragraph (a)(i) to the proviso.
 
 ### Estate Agents Act 1979 (c. 38)
 
-**62.**[^key-ef05ecb1c6d4669022e54d13069afb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-ef05ecb1c6d4669022e54d13069afb86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **63.** (1) Amend section 32 (associates) as follows.
 
@@ -491,11 +491,11 @@ and omit “or” at the end of paragraph (a)(i) to the proviso.
 
 *Extent: E+W+S+N.I.*
 
-**64.**[^key-1d8f076ef956efc5c09d0a4bb8f53f7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**64.**[^c-1d8f076ef956efc5c09d0a4bb8f53f7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
-**65.**[^key-3c3c99693c44ae0f06a446228d611f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**65.**[^c-3c3c99693c44ae0f06a446228d611f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Disused Burial Grounds (Amendment) Act 1981 (c. 18)
 
@@ -627,17 +627,17 @@ after “husband, wife” insert “ , civil partner ”.
 
 > (3) The reference in subsection (2) above to the forming of a subsequent marriage or civil partnership includes a reference to the forming of a marriage or civil partnership which is by law void or voidable.
 
-**91.**[^key-5f14d313e6645bf60774ab3cf2351493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**91.**[^c-5f14d313e6645bf60774ab3cf2351493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**92.**[^key-5f14d313e6645bf60774ab3cf2351493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**92.**[^c-5f14d313e6645bf60774ab3cf2351493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**93.**[^key-5f14d313e6645bf60774ab3cf2351493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**93.**[^c-5f14d313e6645bf60774ab3cf2351493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**94.**[^key-5f14d313e6645bf60774ab3cf2351493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**94.**[^c-5f14d313e6645bf60774ab3cf2351493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **95.** In section 40(4)(b) (enforcement in High Court of orders of divorce county court), after “a divorce county court” insert “ or a civil partnership proceedings county court ”.
 
-**96.**[^key-c5bbf56696022a051bb2e5fe269e862a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**96.**[^c-c5bbf56696022a051bb2e5fe269e862a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Police and Criminal Evidence Act 1984 (c. 60)
 
@@ -937,13 +937,13 @@ after “spouse” (in each place) insert “ or civil partner ”.
 
 ### National Minimum Wage Act 1998 (c. 39)
 
-**155.**[^key-ab25452bd7c65682e55f9a42b9cf1069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**155.**[^c-ab25452bd7c65682e55f9a42b9cf1069] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Access to Justice Act 1999 (c. 22)
 
 *Extent: E+W+S+N.I.*
 
-**156.**[^key-eb734a92c8e23c0c909eb20412089018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**156.**[^c-eb734a92c8e23c0c909eb20412089018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Welfare Reform and Pensions Act 1999 (c. 30)
 
@@ -1190,17 +1190,17 @@ after “spouse” (in each place) insert “ or civil partner ”.
 
 [^c20876381]: Commencement: Sch. 27 para. 21 wholly in force at 5.12.2005; Sch. 27 para. 21 not in force at Royal Assent see s. 263; Sch. 27 para. 21 in force for certain purposes at 15.4.2005 by [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1) and Sch. 27 para. 21 in force otherwise at 5.12.2005 by [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
 
-[^key-c96a6acdee8621067e10c64c2baa29ab]: Textual amendment: Sch. 27 para. 22(2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c96a6acdee8621067e10c64c2baa29ab]: Textual amendment: Sch. 27 para. 22(2) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-5d5aecc141fbb6bf2889993dd9a7b472]: Textual amendment: Sch. 27 para. 24 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-5d5aecc141fbb6bf2889993dd9a7b472]: Textual amendment: Sch. 27 para. 24 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-f9ca8e32ae7585209ec44f4d68c4b240]: Textual amendment: [Sch. 27 para. 50](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/50) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(d)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/d); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-f9ca8e32ae7585209ec44f4d68c4b240]: Textual amendment: [Sch. 27 para. 50](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/50) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(d)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/d); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-ef05ecb1c6d4669022e54d13069afb86]: Textual amendment: [Sch. 27 para. 62](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/62) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(d)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/d); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-ef05ecb1c6d4669022e54d13069afb86]: Textual amendment: [Sch. 27 para. 62](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/62) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(d)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/d); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-1d8f076ef956efc5c09d0a4bb8f53f7b]: Textual amendment: Sch. 27 para. 64 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-1d8f076ef956efc5c09d0a4bb8f53f7b]: Textual amendment: Sch. 27 para. 64 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-3c3c99693c44ae0f06a446228d611f65]: Textual amendment: Sch. 27 para. 65 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-3c3c99693c44ae0f06a446228d611f65]: Textual amendment: Sch. 27 para. 65 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c20658141]: Textual amendment: Words in Sch. 27 para. 68 cross-heading substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
@@ -1212,9 +1212,9 @@ after “spouse” (in each place) insert “ or civil partner ”.
 
 [^c20627861]: Textual amendment: Sch. 27 para. 86(b) and preceding word repealed (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 55](https://www.legislation.gov.uk/ukpga/2007/12/section/55), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56), [Sch. 11 Pt. 5](https://www.legislation.gov.uk/ukpga/2007/12/schedule/11/part/5); [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/1210/article/4))
 
-[^key-5f14d313e6645bf60774ab3cf2351493]: Textual amendment: Sch. 27 paras. 91-94 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-5f14d313e6645bf60774ab3cf2351493]: Textual amendment: Sch. 27 paras. 91-94 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-c5bbf56696022a051bb2e5fe269e862a]: Textual amendment: Sch. 27 para. 96 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c5bbf56696022a051bb2e5fe269e862a]: Textual amendment: Sch. 27 para. 96 repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c20622431]: Textual amendment: Sch. 27 para. 99 repealed (20.1.2007) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1295](https://www.legislation.gov.uk/ukpga/2006/46/section/1295), [1300](https://www.legislation.gov.uk/ukpga/2006/46/section/1300), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 7(b)](https://www.legislation.gov.uk/uksi/2006/3428/article/7/b), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/3/part/1) (with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5)) (as amended by [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 11](https://www.legislation.gov.uk/uksi/2007/3495/article/11), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/3495/schedule/5))
 
@@ -1234,9 +1234,9 @@ after “spouse” (in each place) insert “ or civil partner ”.
 
 [^c21545221]: Textual amendment: Sch. 27 para. 147 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [ss. 354(4)](https://www.legislation.gov.uk/ukpga/2011/25/section/354/4), [355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-ab25452bd7c65682e55f9a42b9cf1069]: Textual amendment: [Sch. 27 para. 155](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/155) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 76](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/76) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1/55/e)
+[^c-ab25452bd7c65682e55f9a42b9cf1069]: Textual amendment: [Sch. 27 para. 155](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/155) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 76](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/76) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1/55/e)
 
-[^key-eb734a92c8e23c0c909eb20412089018]: Textual amendment: Sch. 27 para. 156 repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-eb734a92c8e23c0c909eb20412089018]: Textual amendment: Sch. 27 para. 156 repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
 [^c20876421]: Commencement: Sch. 27 para. 162 wholly in force at 5.12.2005; Sch. 27 para. 162 not in force at Royal Assent see s. 263; Sch. 27 para. 162 in force for certain purposes at 15.4.2005 by [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1) and Sch. 27 para. 162 in force otherwise at 5.12.2005 by [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
 

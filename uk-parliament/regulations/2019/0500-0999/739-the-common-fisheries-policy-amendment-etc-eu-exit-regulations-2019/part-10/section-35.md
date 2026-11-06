@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Commission Regulation [(EEC) No 954/87](https://www.legislation.gov.uk/european/regulation/1987/0954) on sampling of catches for the purpose of determining the percentage of target species and protected species when fishing with small-meshed nets[^key-52e1eeb1446ecb03d5e2608d855f44e6]
+## 35. Commission Regulation [(EEC) No 954/87](https://www.legislation.gov.uk/european/regulation/1987/0954) on sampling of catches for the purpose of determining the percentage of target species and protected species when fishing with small-meshed nets[^c-52e1eeb1446ecb03d5e2608d855f44e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52e1eeb1446ecb03d5e2608d855f44e6]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-52e1eeb1446ecb03d5e2608d855f44e6]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

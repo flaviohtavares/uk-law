@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Calculation of income on a weekly basis (applicants with no award of universal credit)[^key-b7cc171eb179afe30bbfa44b5e4cdf44]
+## 38. Calculation of income on a weekly basis (applicants with no award of universal credit)[^c-b7cc171eb179afe30bbfa44b5e4cdf44]
 
 *Extent: S*
 
-(1) This regulation and regulations 39 to 41A[^key-b72dc3eb4b5c0c242413a1b0ffaaea55] apply where neither the applicant nor the applicant’s partner, nor the partners jointly, have an award of universal credit.
+(1) This regulation and regulations 39 to 41A[^c-b72dc3eb4b5c0c242413a1b0ffaaea55] apply where neither the applicant nor the applicant’s partner, nor the partners jointly, have an award of universal credit.
 
 (2) For the purposes of regulation 13(6) or regulation 14(5) (conditions of entitlement to council tax reduction) the income of an applicant is to be calculated on a weekly basis—
 
-- (a) by estimating the amount which is likely to be the applicant’s average weekly earned income in accordance with this Chapter [^key-c299c69bceb07744b4a58aa48b3f2f41]...,
+- (a) by estimating the amount which is likely to be the applicant’s average weekly earned income in accordance with this Chapter [^c-c299c69bceb07744b4a58aa48b3f2f41]...,
 - (b) by adding to that amount the average weekly unearned income calculated in accordance with this Chapter and Chapter 4 of this Part,
 - (c) by deducting any relevant childcare charges calculated in accordance with regulation 77, and
 - (d) in a case where the conditions in paragraph (3) are met, from that sum plus whichever credit specified in paragraph (3)(b) is appropriate, up to the maximum deduction specified in paragraph (4).
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b7cc171eb179afe30bbfa44b5e4cdf44]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2021/249/regulation/38) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-b7cc171eb179afe30bbfa44b5e4cdf44]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2021/249/regulation/38) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
-[^key-b72dc3eb4b5c0c242413a1b0ffaaea55]: Textual amendment: Word in reg. 38(1) substituted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [9(a)](https://www.legislation.gov.uk/ssi/2022/52/regulation/9/a)
+[^c-b72dc3eb4b5c0c242413a1b0ffaaea55]: Textual amendment: Word in reg. 38(1) substituted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [9(a)](https://www.legislation.gov.uk/ssi/2022/52/regulation/9/a)
 
-[^key-c299c69bceb07744b4a58aa48b3f2f41]: Textual amendment: Words in reg. 38(2)(a) omitted (31.3.2022) by virtue of [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [9(b)](https://www.legislation.gov.uk/ssi/2022/52/regulation/9/b)
+[^c-c299c69bceb07744b4a58aa48b3f2f41]: Textual amendment: Words in reg. 38(2)(a) omitted (31.3.2022) by virtue of [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [9(b)](https://www.legislation.gov.uk/ssi/2022/52/regulation/9/b)

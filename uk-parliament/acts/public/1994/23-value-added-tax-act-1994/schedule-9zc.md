@@ -16,23 +16,23 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9ZC — Online sales by overseas persons and low value importations: modifications relating to the Northern Ireland Protocol[^key-5e9a6cc0fba06befdd7528a1f22c0c00]
+## SCHEDULE 9ZC — Online sales by overseas persons and low value importations: modifications relating to the Northern Ireland Protocol[^c-5e9a6cc0fba06befdd7528a1f22c0c00]
 
 *Extent: E+W+S+N.I.*
 
 Section 40A(3)
 
-### PART 1 — Modification of this Act[^key-5e9a6cc0fba06befdd7528a1f22c0c00]
+### PART 1 — Modification of this Act[^c-5e9a6cc0fba06befdd7528a1f22c0c00]
 
-**1.** Except in relation to a removal to which paragraph 6(3A) of Schedule 9ZB (certain supplies from a member State to Great Britain via Northern Ireland) applies,[^key-827cb572be4abfdbd82353f469e87263] references in the following provisions of this Act to goods being imported do not include goods imported into the United Kingdom as a result of their entry into Northern Ireland or goods treated as having been imported into the United Kingdom as a result of their being removed from Northern Ireland to Great Britain—
+**1.** Except in relation to a removal to which paragraph 6(3A) of Schedule 9ZB (certain supplies from a member State to Great Britain via Northern Ireland) applies,[^c-827cb572be4abfdbd82353f469e87263] references in the following provisions of this Act to goods being imported do not include goods imported into the United Kingdom as a result of their entry into Northern Ireland or goods treated as having been imported into the United Kingdom as a result of their being removed from Northern Ireland to Great Britain—
 
 - (a) section 5A(3) (the imported consignment condition);
 - (b) section 7(5B)(b) (place of supply of goods);
 - (c) section 7AA(1)(c) (reverse charge on goods supplied from abroad).
 
-**1A.**[^key-c1c5e53896454bd1557f3e8ee30e9b42] Section 5A has effect as if in subsection (1)(c)(ii) after “outside the United Kingdom” there were inserted “ and prior to the supply the goods were located in Great Britain ”.
+**1A.**[^c-c1c5e53896454bd1557f3e8ee30e9b42] Section 5A has effect as if in subsection (1)(c)(ii) after “outside the United Kingdom” there were inserted “ and prior to the supply the goods were located in Great Britain ”.
 
-**1B.**[^key-7483129b9ca34a6555b208fb19dd481a] This Act has effect as if after section 5A there were inserted—
+**1B.**[^c-7483129b9ca34a6555b208fb19dd481a] This Act has effect as if after section 5A there were inserted—
 
 > **5B. Supplies of goods in Northern Ireland facilitated by online marketplaces: deemed supply**
 >
@@ -40,23 +40,23 @@ Section 40A(3)
 >
 > - (a) a person (“P”) makes a taxable supply of goods in the course or furtherance of a business to another person (“R”),
 > - (b) the supply is facilitated by an online marketplace, and
-> - (c) either the special[^key-6beb67ba07f740bd390380032e629c4c] scheme condition or the Union goods condition is met.
+> - (c) either the special[^c-6beb67ba07f740bd390380032e629c4c] scheme condition or the Union goods condition is met.
 >
 > (2) For the purposes of this Act—
 >
 > - (a) P is to be treated as having supplied the goods to the operator of the online marketplace, and
 > - (b) the operator is to be treated as having supplied the goods to R in the course or furtherance of a business carried on by the operator.
 >
-> (3) The special[^key-e2754770a49e24656fa9b7ff3b72cab2] scheme condition is met where—
+> (3) The special[^c-e2754770a49e24656fa9b7ff3b72cab2] scheme condition is met where—
 >
 > - (a) R belongs in Northern Ireland and is not a taxable person,
 > - (b) the supply is a qualifying supply of goods within the meaning of Schedule 9ZE, and
-> - (c) the operator of the online marketplace is a participant in a special scheme within the meaning of[^key-01068d44e38031ec27adc407b070bc47] that Schedule.
+> - (c) the operator of the online marketplace is a participant in a special scheme within the meaning of[^c-01068d44e38031ec27adc407b070bc47] that Schedule.
 >
-> (4) But the special[^key-c4b8bae3090cd9d7191604e9cb24b06f] scheme condition is not met where—
+> (4) But the special[^c-c4b8bae3090cd9d7191604e9cb24b06f] scheme condition is not met where—
 >
 > - (a) P is established in the United Kingdom, and
-> - (b) the supply involves the removal of goods from Great Britain or the Isle of Man[^key-f6e7cc5bb124e0a8a382575fec308e4e] to Northern Ireland.
+> - (b) the supply involves the removal of goods from Great Britain or the Isle of Man[^c-f6e7cc5bb124e0a8a382575fec308e4e] to Northern Ireland.
 >
 > (5) The Union goods condition is met where—
 >
@@ -68,7 +68,7 @@ Section 40A(3)
 >
 > (6) But the Union goods condition is not met where—
 >
-> - (a) P is established in Great Britain or the Isle of Man[^key-29ad28ec84ecd0b226f064d1ceacaa43], and
+> - (a) P is established in Great Britain or the Isle of Man[^c-29ad28ec84ecd0b226f064d1ceacaa43], and
 > - (b) R belongs in Northern Ireland.
 >
 > (7) In this section, “**Union goods**” has the same meaning as in Regulation (EU) 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (see Article 5(23) of that Regulation).
@@ -79,13 +79,13 @@ Section 40A(3)
 - (b) in subsection (1), after “section 5A” there were inserted “ or Part 1 of Schedule 9ZC ”;
 - (c) in subsection (2), after “(as defined in section 5A” there were inserted “ or Part 1 of Schedule 9ZC, as the case may be ”.
 
-**2A.**[^key-24848969520d0a5aff3ca7340aa04952] In Part 2 of Schedule 8 (zero-rating: the groups), Group 21 (online marketplaces: deemed supply) has effect as if after Item 1 there were inserted—
+**2A.**[^c-24848969520d0a5aff3ca7340aa04952] In Part 2 of Schedule 8 (zero-rating: the groups), Group 21 (online marketplaces: deemed supply) has effect as if after Item 1 there were inserted—
 
 > **2.** A supply by a person not established in Northern Ireland or a member State that is deemed to be a supply to an operator of an online marketplace by virtue of section 5B (as it has effect in accordance with paragraph 1B of this Schedule).
 
 **3.** (1) In Schedule 11, paragraph 6 has effect subject to the following modifications.
 
-(1A)[^key-ca87bde3f54570faa16583ae67661ec6] Sub-paragraph (1) has effect as if at the start there were inserted “Subject to paragraph 6ZA,
+(1A)[^c-ca87bde3f54570faa16583ae67661ec6] Sub-paragraph (1) has effect as if at the start there were inserted “Subject to paragraph 6ZA,
 
 (2) Sub-paragraph (4C) has effect as if—
 
@@ -105,7 +105,7 @@ Section 40A(3)
   >
   > - (d) is treated as having imported goods under Part 1 of Schedule 9ZC.
 
-**3A.**[^key-1e2639b122d0262a68794587ec0eee83] Schedule 11 has effect as if after paragraph 6 there were inserted—
+**3A.**[^c-1e2639b122d0262a68794587ec0eee83] Schedule 11 has effect as if after paragraph 6 there were inserted—
 
 > **6ZA.** (1) An operator of an online marketplace must preserve and make available records relating to a relevant taxable supply in accordance with the requirements of Article 242a of the VAT Directive and Article 54c of the Implementing Regulation.
 >
@@ -143,7 +143,7 @@ Section 40A(3)
 
 (5) The Commissioners may by regulations substitute a different figure for a figure that is at any time specified in sub-paragraph (1)(c).
 
-**4A.**[^key-fb0c9e6ed81eb9de5ae200d0289bc4bb] (1) Sub-paragraph (2) applies, instead of paragraph 4(3) , (3A)[^key-87e6720dc592a30a7aaea92bc4cb6b15] and (4) of Schedule 9ZB, in relation to a removal of goods from Northern Ireland to Great Britain or, as the case may be, vice versa where—
+**4A.**[^c-fb0c9e6ed81eb9de5ae200d0289bc4bb] (1) Sub-paragraph (2) applies, instead of paragraph 4(3) , (3A)[^c-87e6720dc592a30a7aaea92bc4cb6b15] and (4) of Schedule 9ZB, in relation to a removal of goods from Northern Ireland to Great Britain or, as the case may be, vice versa where—
 
 - (a) the removal is in the course of a supply by a person established outside of the United Kingdom (“P”), and
 - (b) the supply is facilitated by an online marketplace.
@@ -163,13 +163,13 @@ Section 40A(3)
 
 (5) The Commissioners may by regulations specify the details that must be provided for the purposes of sub-paragraph (3)(c).
 
-### PART 2 — Modification of the Value Added Tax (Imported Goods) Relief Order 1984[^key-45d9a300c85d253b3c6037fa117e74e6]
+### PART 2 — Modification of the Value Added Tax (Imported Goods) Relief Order 1984[^c-45d9a300c85d253b3c6037fa117e74e6]
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-45d9a300c85d253b3c6037fa117e74e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-45d9a300c85d253b3c6037fa117e74e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2A — Modification of the Value Added Tax Regulations 1995[^key-8376768ad6e70f8b85e21dce7b653fd7]
+### PART 2A — Modification of the Value Added Tax Regulations 1995[^c-8376768ad6e70f8b85e21dce7b653fd7]
 
 **5A.** (1) In the Value Added Tax Regulations 1995 (S.I. 1995/2518), Part 3 (VAT invoices and other invoicing requirements) has effect subject to the following modifications.
 
@@ -294,36 +294,36 @@ the Commissioners may cancel that registration with effect from that day.
 
 ## Annotations
 
-[^key-5e9a6cc0fba06befdd7528a1f22c0c00]: Textual amendment: Sch. 9ZC inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/28) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-5e9a6cc0fba06befdd7528a1f22c0c00]: Textual amendment: Sch. 9ZC inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/28) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-827cb572be4abfdbd82353f469e87263]: Textual amendment: Words in [Sch. 9ZC para. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1) inserted (1.8.2021) by [The Value Added Tax (Miscellaneous Amendments and Repeals) (EU Exit) Regulations 2021 (S.I. 2021/714)](https://www.legislation.gov.uk/uksi/2021/714), [regs. 1](https://www.legislation.gov.uk/uksi/2021/714/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2021/714/regulation/6/2) (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-827cb572be4abfdbd82353f469e87263]: Textual amendment: Words in [Sch. 9ZC para. 1](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1) inserted (1.8.2021) by [The Value Added Tax (Miscellaneous Amendments and Repeals) (EU Exit) Regulations 2021 (S.I. 2021/714)](https://www.legislation.gov.uk/uksi/2021/714), [regs. 1](https://www.legislation.gov.uk/uksi/2021/714/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2021/714/regulation/6/2) (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
 
-[^key-c1c5e53896454bd1557f3e8ee30e9b42]: Textual amendment: Sch. 9ZC para. 1A inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 29(2)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/29/2) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-c1c5e53896454bd1557f3e8ee30e9b42]: Textual amendment: Sch. 9ZC para. 1A inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 29(2)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/29/2) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-7483129b9ca34a6555b208fb19dd481a]: Textual amendment: [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) inserted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 8(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8/2); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-7483129b9ca34a6555b208fb19dd481a]: Textual amendment: [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) inserted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 8(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8/2); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
 
-[^key-6beb67ba07f740bd390380032e629c4c]: Textual amendment: Word in [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments No. 2) Regulations 2021 (S.I. 2021/1165)](https://www.legislation.gov.uk/uksi/2021/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1165/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2021/1165/regulation/7/2)
+[^c-6beb67ba07f740bd390380032e629c4c]: Textual amendment: Word in [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments No. 2) Regulations 2021 (S.I. 2021/1165)](https://www.legislation.gov.uk/uksi/2021/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1165/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2021/1165/regulation/7/2)
 
-[^key-e2754770a49e24656fa9b7ff3b72cab2]: Textual amendment: Word in [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments No. 2) Regulations 2021 (S.I. 2021/1165)](https://www.legislation.gov.uk/uksi/2021/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1165/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2021/1165/regulation/7/3/a)
+[^c-e2754770a49e24656fa9b7ff3b72cab2]: Textual amendment: Word in [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments No. 2) Regulations 2021 (S.I. 2021/1165)](https://www.legislation.gov.uk/uksi/2021/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1165/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2021/1165/regulation/7/3/a)
 
-[^key-01068d44e38031ec27adc407b070bc47]: Textual amendment: Words in [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments No. 2) Regulations 2021 (S.I. 2021/1165)](https://www.legislation.gov.uk/uksi/2021/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1165/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2021/1165/regulation/7/3/b)
+[^c-01068d44e38031ec27adc407b070bc47]: Textual amendment: Words in [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments No. 2) Regulations 2021 (S.I. 2021/1165)](https://www.legislation.gov.uk/uksi/2021/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1165/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2021/1165/regulation/7/3/b)
 
-[^key-c4b8bae3090cd9d7191604e9cb24b06f]: Textual amendment: Word in [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments No. 2) Regulations 2021 (S.I. 2021/1165)](https://www.legislation.gov.uk/uksi/2021/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1165/regulation/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2021/1165/regulation/7/4/a)
+[^c-c4b8bae3090cd9d7191604e9cb24b06f]: Textual amendment: Word in [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments No. 2) Regulations 2021 (S.I. 2021/1165)](https://www.legislation.gov.uk/uksi/2021/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1165/regulation/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2021/1165/regulation/7/4/a)
 
-[^key-f6e7cc5bb124e0a8a382575fec308e4e]: Textual amendment: Words in [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments No. 2) Regulations 2021 (S.I. 2021/1165)](https://www.legislation.gov.uk/uksi/2021/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1165/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2021/1165/regulation/7/4/b)
+[^c-f6e7cc5bb124e0a8a382575fec308e4e]: Textual amendment: Words in [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments No. 2) Regulations 2021 (S.I. 2021/1165)](https://www.legislation.gov.uk/uksi/2021/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1165/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2021/1165/regulation/7/4/b)
 
-[^key-29ad28ec84ecd0b226f064d1ceacaa43]: Textual amendment: Words in [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments No. 2) Regulations 2021 (S.I. 2021/1165)](https://www.legislation.gov.uk/uksi/2021/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1165/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2021/1165/regulation/7/5)
+[^c-29ad28ec84ecd0b226f064d1ceacaa43]: Textual amendment: Words in [Sch. 9ZC para. 1B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/1B) inserted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments No. 2) Regulations 2021 (S.I. 2021/1165)](https://www.legislation.gov.uk/uksi/2021/1165), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1165/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2021/1165/regulation/7/5)
 
-[^key-24848969520d0a5aff3ca7340aa04952]: Textual amendment: [Sch. 9ZC para. 2A](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/2A) inserted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 8(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8/3); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-24848969520d0a5aff3ca7340aa04952]: Textual amendment: [Sch. 9ZC para. 2A](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/2A) inserted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 8(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8/3); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
 
-[^key-ca87bde3f54570faa16583ae67661ec6]: Textual amendment: [Sch. 9ZC para. 3(1A)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/3/1A) inserted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 8(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8/4); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-ca87bde3f54570faa16583ae67661ec6]: Textual amendment: [Sch. 9ZC para. 3(1A)](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/3/1A) inserted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 8(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8/4); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
 
-[^key-1e2639b122d0262a68794587ec0eee83]: Textual amendment: Sch. 9ZC paras. 3A, 3B inserted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 8(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8/5); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-1e2639b122d0262a68794587ec0eee83]: Textual amendment: Sch. 9ZC paras. 3A, 3B inserted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 8(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8/5); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
 
-[^key-fb0c9e6ed81eb9de5ae200d0289bc4bb]: Textual amendment: Sch. 9ZC para. 4A inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 29(3)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/29/3) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-fb0c9e6ed81eb9de5ae200d0289bc4bb]: Textual amendment: Sch. 9ZC para. 4A inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 29(3)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/29/3) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-87e6720dc592a30a7aaea92bc4cb6b15]: Textual amendment: Word in Sch. 9ZC para. 4A inserted (1.8.2021) by [The Value Added Tax (Miscellaneous Amendments and Repeals) (EU Exit) Regulations 2021 (S.I. 2021/714)](https://www.legislation.gov.uk/uksi/2021/714), [regs. 1](https://www.legislation.gov.uk/uksi/2021/714/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2021/714/regulation/6/3) (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-87e6720dc592a30a7aaea92bc4cb6b15]: Textual amendment: Word in Sch. 9ZC para. 4A inserted (1.8.2021) by [The Value Added Tax (Miscellaneous Amendments and Repeals) (EU Exit) Regulations 2021 (S.I. 2021/714)](https://www.legislation.gov.uk/uksi/2021/714), [regs. 1](https://www.legislation.gov.uk/uksi/2021/714/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2021/714/regulation/6/3) (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
 
-[^key-45d9a300c85d253b3c6037fa117e74e6]: Textual amendment: [Sch. 9ZC Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/part/2) omitted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/7); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-45d9a300c85d253b3c6037fa117e74e6]: Textual amendment: [Sch. 9ZC Pt. 2](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/part/2) omitted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/7); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
 
-[^key-8376768ad6e70f8b85e21dce7b653fd7]: Textual amendment: [Sch. 9ZC Pt. 2A](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/part/2A) inserted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 8(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-8376768ad6e70f8b85e21dce7b653fd7]: Textual amendment: [Sch. 9ZC Pt. 2A](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/part/2A) inserted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 8(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)

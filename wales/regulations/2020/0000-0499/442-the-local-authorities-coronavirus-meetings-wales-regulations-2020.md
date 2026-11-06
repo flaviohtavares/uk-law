@@ -47,7 +47,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 1 — General
 
-### 1. Title, extent and application, and commencement[^key-31b78ea6dc1fc1cdbda39710ce3fc01f]
+### 1. Title, extent and application, and commencement[^c-31b78ea6dc1fc1cdbda39710ce3fc01f]
 
 (1) The title of these Regulations is the Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020.
 
@@ -58,7 +58,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 (3) These Regulations come into force on 22 April 2020.
 
-### 2. Interpretation[^key-f5aceff4d8bcbbf5083acefc30809299]
+### 2. Interpretation[^c-f5aceff4d8bcbbf5083acefc30809299]
 
 In these Regulations—
 
@@ -77,19 +77,19 @@ In these Regulations—
 - “**National Park authority**” (“***awdurdod Parc Cenedlaethol***”) means a National Park authority for an area in Wales, established under section 63 of the Environment Act 1995 [^c24054341];
 - “**principal council**” (“***prif gyngor***”) means a council for a county or county borough in Wales.
 
-### 3. Interaction with standing orders etc.[^key-531182f169fa2dbe1cb87f6c59ca093c]
+### 3. Interaction with standing orders etc.[^c-531182f169fa2dbe1cb87f6c59ca093c]
 
 (1) The provision made in these Regulations applies regardless of any provision contained in the standing orders, executive arrangements or any other rules of a local authority.
 
 (2) To the extent that any provision in standing orders, executive arrangements or other rules of a local authority is incompatible with any provision in these Regulations, it has no effect while the provision in these Regulations has effect.
 
-### 4. Publishing electronically[^key-8b829a76d158ab61bacd951248287066]
+### 4. Publishing electronically[^c-8b829a76d158ab61bacd951248287066]
 
 A requirement imposed by virtue of these Regulations to publish a notice or document electronically is, if the body on whom the requirement is imposed has its own website, a requirement to publish on that website.
 
 ## PART 2 — Remote attendance
 
-### 5. Remote attendance[^key-4688b075431c455717f36f3165582612]
+### 5. Remote attendance[^c-4688b075431c455717f36f3165582612]
 
 (1) Section 4 of the Local Government (Wales) Measure 2011 [^c24054351] (remote attendance at principal council meetings) does not have effect in relation to a meeting held before 1 May 2021.
 
@@ -106,7 +106,7 @@ A requirement imposed by virtue of these Regulations to publish a notice or docu
 
 ## PART 3 — Requirements relating to meetings
 
-### 6. When certain annual meetings may be held[^key-186e23376417b3b32a3ae99c4af75134]
+### 6. When certain annual meetings may be held[^c-186e23376417b3b32a3ae99c4af75134]
 
 (1) Paragraph (2) applies in relation to a principal council that has not held an annual meeting—
 
@@ -119,11 +119,11 @@ A requirement imposed by virtue of these Regulations to publish a notice or docu
 
 .
 
-### 7.[^key-f228f28e71cc9fc13bde46bd6e376835]
+### 7.[^c-f228f28e71cc9fc13bde46bd6e376835]
 
 Schedule 12 to the 1972 Act is to be read as if, in paragraph 23(2) [^c24054371] (annual meetings of community councils), after “take office,” there were inserted “ in 2020, the annual meeting is to be held on such day in 2020 as the proper officer of the council may determine, ”.
 
-### 8.[^key-22cd1c20e7996e5e28918c47c10f9a88]
+### 8.[^c-22cd1c20e7996e5e28918c47c10f9a88]
 
 Paragraph 2 of Schedule 3 to the National Park Authorities (Wales) Order 1995 [^c24054381] (annual meetings) is to be read as if—
 
@@ -134,7 +134,7 @@ Paragraph 2 of Schedule 3 to the National Park Authorities (Wales) Order 1995 [^
   ;
 - (b) in sub-paragraph (2), at the beginning there were inserted “Other than in 2020,”.
 
-### 9. Date and time of other meetings[^key-790852772f53abc3f919eb32760ae915]
+### 9. Date and time of other meetings[^c-790852772f53abc3f919eb32760ae915]
 
 (1) A meeting which, by virtue of an enactment or other instrument, a local authority is required to hold before 1 May 2021 may be held on such day and at such time before 1 May 2021 as the local authority may determine (whether or not it is subject to any other requirements as to when it must be held).
 
@@ -144,7 +144,7 @@ Paragraph 2 of Schedule 3 to the National Park Authorities (Wales) Order 1995 [^
 - (b) a community council;
 - (c) a National Park authority.
 
-(3)[^key-1e7dbb31ed589fec0e6d2fd8800f19cd] Paragraph (1) does not apply in relation to—
+(3)[^c-1e7dbb31ed589fec0e6d2fd8800f19cd] Paragraph (1) does not apply in relation to—
 
 - (a) the requirement—
   - (i) under section 115 of the Local Government Finance Act 1988 to consider at a meeting a report under section 114 of that Act;
@@ -155,7 +155,7 @@ Paragraph 2 of Schedule 3 to the National Park Authorities (Wales) Order 1995 [^
   - (vi) under section 25 of the Public Audit (Wales) Act 2004 to consider at a meeting a report under section 22 of that Act, or a recommendation within section 25(2) of that Act;
 - (b) any requirement to hold a meeting as soon as practicable (however that requirement is expressed).
 
-### 10. Failure to attend meetings[^key-fa59d88dafb1db092502ad68ebe9e464]
+### 10. Failure to attend meetings[^c-fa59d88dafb1db092502ad68ebe9e464]
 
 Section 85 [^c24054391] of the 1972 Act (vacation of office by failure to attend meetings) is to be read in relation to a local authority to which that section applies (by virtue of any enactment) as if—
 
@@ -174,7 +174,7 @@ Section 85 [^c24054391] of the 1972 Act (vacation of office by failure to attend
   ;
 - (c) in subsection (3D), in each of paragraphs (a) and (b) after “(3C)” there were inserted “ or (as the case may be) (3CA) ”.
 
-### 11. Election of chairs and vice-chairs of principal councils and community councils at annual meetings[^key-46e7f3c68107c6c248d68e19f5b37dd3]
+### 11. Election of chairs and vice-chairs of principal councils and community councils at annual meetings[^c-46e7f3c68107c6c248d68e19f5b37dd3]
 
 (1) The 1972 Act is to be read subject to this regulation.
 
@@ -200,18 +200,18 @@ Section 85 [^c24054391] of the 1972 Act (vacation of office by failure to attend
   ;
 - (d) in subsection (7), for “the election of a chairman at the next annual meeting of the council” there were substituted “ the next election of a chair held other than under section 88 ”.
 
-### 12. Election of chairs and deputy chairs of National Park authorities at annual meetings[^key-1b7a33cddcc0e39b94c5ecc8785f3692]
+### 12. Election of chairs and deputy chairs of National Park authorities at annual meetings[^c-1b7a33cddcc0e39b94c5ecc8785f3692]
 
 Paragraph 5(2) of Schedule 7 to the Environment Act 1995 [^c24054401] (National Park authorities) is to be read as if for “not exceeding one year” there were substituted “ ending when the annual meeting of the authority which follows their election is held under paragraph 2(1) of Schedule 3 to the National Park Authorities (Wales) Order 1995 (S.I. 1995/2803) ”.
 
-### 13. Election of chair of the joint board of Swansea Bay Port Health Authority at annual meeting[^key-4a805a980e25f12e8affa6adaf21201e]
+### 13. Election of chair of the joint board of Swansea Bay Port Health Authority at annual meeting[^c-4a805a980e25f12e8affa6adaf21201e]
 
 Article 5 of the Swansea Bay Port Health Authority Order 1991 [^c24054411] is to be read as if—
 
 - (a) in paragraph (1), after “amongst the members” there were inserted “ unless, in relation to the annual meeting held in 2020, the board decides not to hold an election of a chair at that meeting; if there is no election at that meeting the person holding office as chair immediately before that meeting may hold office for more than one year ”;
 - (b) in paragraph (2), after “board” there were inserted “ unless, in relation to the annual meeting held in 2020, the board decides not to hold an election of a chair at that meeting ”.
 
-### 14. Other appointments and elections required to take place at meetings[^key-d08f4c8922b603b5aca9cb889172976f]
+### 14. Other appointments and elections required to take place at meetings[^c-d08f4c8922b603b5aca9cb889172976f]
 
 (1) In this regulation—
 
@@ -226,20 +226,20 @@ Article 5 of the Swansea Bay Port Health Authority Order 1991 [^c24054411] is to
 
 (3) The term of office of a person holding a relevant office immediately before these Regulations come into force continues until immediately before that person's successor assumes office, despite any provision to the contrary in any enactment or other instrument, other than provision relating to vacating office before the end of the term of office.
 
-### 15. Substitute members of local planning authority committees[^key-b5a822615e216bf0c6a79eedc451b1ce]
+### 15. Substitute members of local planning authority committees[^c-b5a822615e216bf0c6a79eedc451b1ce]
 
 Until the end of 30 April 2021, the Local Authorities (Standing Orders) (Wales) Regulations 2006 [^c24054421] are to be read as if—
 
 - (a) in regulation 4A, paragraph (3)(b) were omitted;
 - (b) in Schedule 2A [^c24054431], paragraph 2 (standing orders relating to local planning authorities) were omitted.
 
-### 16. Voting at community council meetings[^key-331b2298ff12ba7e3a069cf003b7193a]
+### 16. Voting at community council meetings[^c-331b2298ff12ba7e3a069cf003b7193a]
 
 Paragraph 29 of Schedule 12 to the 1972 Act (voting at community council meetings) has effect in relation to a meeting held before 1 May 2021 as if for sub-paragraph (1) there were substituted—
 
 > (1) The manner of voting at meetings of a community council is to be decided by the council, but (if a vote is necessary on that question) the proper officer is to determine the manner of voting on that decision; if agreement cannot be reached, the proper officer is to determine the manner of voting on all other matters.
 
-### 17. Notices and summonses[^key-1985ab6a2e3ef8fb6f3f899578df1ffc]
+### 17. Notices and summonses[^c-1985ab6a2e3ef8fb6f3f899578df1ffc]
 
 (1) Paragraph 4 of Schedule 12 to the 1972 Act (meetings of principal councils) has effect in relation to a meeting held before 1 May 2021 as if—
 
@@ -271,7 +271,7 @@ Paragraph 29 of Schedule 12 to the 1972 Act (voting at community council meeting
     > - (a) sending it by post to the member's place of residence, or
     > - (b) sending it electronically.
 
-### 18.[^key-abf49bd5fb8d65a73714cc3ddb8145ee]
+### 18.[^c-abf49bd5fb8d65a73714cc3ddb8145ee]
 
 Paragraph 6 of Schedule 3 to the National Park Authorities (Wales) Order 1995 (calling of meetings) has effect in relation to a meeting held before 1 May 2021 as if—
 
@@ -286,11 +286,11 @@ Paragraph 6 of Schedule 3 to the National Park Authorities (Wales) Order 1995 (c
 
 ## PART 4 — Modification of public access requirements
 
-### 19. Access to meetings of certain local authorities and related documents[^key-4d49d51c8606ebb240817a4b5305b9b7]
+### 19. Access to meetings of certain local authorities and related documents[^c-4d49d51c8606ebb240817a4b5305b9b7]
 
-This Part of these Regulations, other than regulations 22 and 26, and paragraphs 1 and 2(c) of the Schedule,[^key-563bc144607426efb95682822ea61373] ceases to have effect at the end of 30 April 2021.
+This Part of these Regulations, other than regulations 22 and 26, and paragraphs 1 and 2(c) of the Schedule,[^c-563bc144607426efb95682822ea61373] ceases to have effect at the end of 30 April 2021.
 
-### 20.[^key-a6f5e3a728e05985dc684131a18d9b9a]
+### 20.[^c-a6f5e3a728e05985dc684131a18d9b9a]
 
 (1) Section 1 of the Public Bodies (Admission to Meetings) Act 1960 [^c24054461] has effect in relation to a meeting of a local authority to which that Act applies (by virtue of any enactment) held before the end of 30 April 2021 as if—
 
@@ -327,7 +327,7 @@ This Part of these Regulations, other than regulations 22 and 26, and paragraphs
   ;
 - (b) subsection (3) were omitted.
 
-### 21.[^key-3a87a8765e775af8e9d13408e99fb633]
+### 21.[^c-3a87a8765e775af8e9d13408e99fb633]
 
 (1) Part 5A [^c24054481] of the 1972 Act has effect as set out in this regulation in relation to a meeting of a local authority to which that Part applies (by virtue of any enactment), held before the end of 30 April 2021.
 
@@ -436,7 +436,7 @@ This Part of these Regulations, other than regulations 22 and 26, and paragraphs
 
 (9) Section 100J(3) is to be read as if “, (cd), (d), (f)” were omitted.
 
-### 22.[^key-6ad6acfa65dab704089e193635630344]
+### 22.[^c-6ad6acfa65dab704089e193635630344]
 
 (1) Paragraph 41 of Schedule 12 to the 1972 Act is to be read, in relation to any local authority to which that paragraph applies (by virtue of any enactment), as if—
 
@@ -450,7 +450,7 @@ This Part of these Regulations, other than regulations 22 and 26, and paragraphs
 
 (2) Paragraph 44(2) of Schedule 12 to the 1972 Act is to be read, in relation to any local authority to which that paragraph applies (by virtue of any enactment), as if after “signed” there were inserted “ , or authenticated, ”.
 
-### 23.[^key-9f51d20a17a2248548a2fec3da743b42]
+### 23.[^c-9f51d20a17a2248548a2fec3da743b42]
 
 (1) The Local Authorities (Executive Arrangements) (Decisions, Documents and Meetings) (Wales) Regulations 2001 [^c24054491] (“**the Regulations**”) have effect in relation to a meeting held, or an executive decision taken, before the end of 30 April 2021 as set out in this regulation.
 
@@ -552,7 +552,7 @@ This Part of these Regulations, other than regulations 22 and 26, and paragraphs
 
 (9) The Regulations are to be read as if regulation 14 were omitted.
 
-**24.**[^key-7c4bd41e2b1f5ba3827f8e436b8d4479] Section 228 of the 1972 Act (inspection of documents) is to be read in relation to a meeting of a local authority to which that section applies (by virtue of any enactment), held before the end of 30 April 2021, as if—
+**24.**[^c-7c4bd41e2b1f5ba3827f8e436b8d4479] Section 228 of the 1972 Act (inspection of documents) is to be read in relation to a meeting of a local authority to which that section applies (by virtue of any enactment), held before the end of 30 April 2021, as if—
 
 - (a) before subsection (1) there were inserted—
 
@@ -562,15 +562,15 @@ This Part of these Regulations, other than regulations 22 and 26, and paragraphs
 - (b) in subsection (1), “or community” were omitted;
 - (c) in subsection (6), before “this section” there were inserted “any of subsections (1) to (5) of”.
 
-**25.**[^key-5ae5e54a697b0920e71825afeb2f8141] Section 26 of the Public Audit (Wales) Act 2004 (publicity for certain meetings) is to be read in relation to a meeting of a local authority held, before the end of 30 April 2021, in accordance with section 25(4) of that Act as if in subsection (3)(a) for “and place of the meeting” there were substituted “of the meeting and, if the meeting is to be open to the public, how to access the meeting”.
+**25.**[^c-5ae5e54a697b0920e71825afeb2f8141] Section 26 of the Public Audit (Wales) Act 2004 (publicity for certain meetings) is to be read in relation to a meeting of a local authority held, before the end of 30 April 2021, in accordance with section 25(4) of that Act as if in subsection (3)(a) for “and place of the meeting” there were substituted “of the meeting and, if the meeting is to be open to the public, how to access the meeting”.
 
-**26.**[^key-7f5f563591d6efe851b9428d73753a43] The Schedule contains modifications of various enactments, which relate to this Part.
+**26.**[^c-7f5f563591d6efe851b9428d73753a43] The Schedule contains modifications of various enactments, which relate to this Part.
 
 Julie James
 
 Minister for Housing and Local Government, one of the Welsh Ministers
 
-## SCHEDULE — Further modifications related to Part 4[^key-28c29abdd96558ee4d10da5ae44a210a]
+## SCHEDULE — Further modifications related to Part 4[^c-28c29abdd96558ee4d10da5ae44a210a]
 
 Regulation 26
 
@@ -648,9 +648,9 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24054301]: Marginal citation: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-31b78ea6dc1fc1cdbda39710ce3fc01f]: Commencement: Reg. 1 in force at 22.4.2020, see reg. 1(3)
+[^c-31b78ea6dc1fc1cdbda39710ce3fc01f]: Commencement: Reg. 1 in force at 22.4.2020, see reg. 1(3)
 
-[^key-f5aceff4d8bcbbf5083acefc30809299]: Commencement: Reg. 2 in force at 22.4.2020, see reg. 1(3)
+[^c-f5aceff4d8bcbbf5083acefc30809299]: Commencement: Reg. 2 in force at 22.4.2020, see reg. 1(3)
 
 [^c24054311]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -660,88 +660,88 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24054341]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-531182f169fa2dbe1cb87f6c59ca093c]: Commencement: Reg. 3 in force at 22.4.2020, see reg. 1(3)
+[^c-531182f169fa2dbe1cb87f6c59ca093c]: Commencement: Reg. 3 in force at 22.4.2020, see reg. 1(3)
 
-[^key-8b829a76d158ab61bacd951248287066]: Commencement: Reg. 4 in force at 22.4.2020, see reg. 1(3)
+[^c-8b829a76d158ab61bacd951248287066]: Commencement: Reg. 4 in force at 22.4.2020, see reg. 1(3)
 
-[^key-4688b075431c455717f36f3165582612]: Commencement: Reg. 5 in force at 22.4.2020, see reg. 1(3)
+[^c-4688b075431c455717f36f3165582612]: Commencement: Reg. 5 in force at 22.4.2020, see reg. 1(3)
 
 [^c24054351]: Marginal citation: (2011 nawm 4. Section 4 was amended by section 59 of the Local Government (Democracy) (Wales) Act 2013 (anaw 4).
 
-[^key-186e23376417b3b32a3ae99c4af75134]: Commencement: Reg. 6 in force at 22.4.2020, see reg. 1(3)
+[^c-186e23376417b3b32a3ae99c4af75134]: Commencement: Reg. 6 in force at 22.4.2020, see reg. 1(3)
 
 [^c24054361]: Marginal citation: Paragraph 1(2)(b) was amended by section 1(6) of the [Elections Act 2001 (c. 7)](https://www.legislation.gov.uk/ukpga/2001/7).
 
-[^key-f228f28e71cc9fc13bde46bd6e376835]: Commencement: Reg. 7 in force at 22.4.2020, see reg. 1(3)
+[^c-f228f28e71cc9fc13bde46bd6e376835]: Commencement: Reg. 7 in force at 22.4.2020, see reg. 1(3)
 
 [^c24054371]: Marginal citation: Paragraph 23(2) was amended by article 4 of the [Elections Act 2001 (Supplemental Provisions) Order 2001 (S.I. 2001/1630)](https://www.legislation.gov.uk/uksi/2001/1630).
 
-[^key-22cd1c20e7996e5e28918c47c10f9a88]: Commencement: Reg. 8 in force at 22.4.2020, see reg. 1(3)
+[^c-22cd1c20e7996e5e28918c47c10f9a88]: Commencement: Reg. 8 in force at 22.4.2020, see reg. 1(3)
 
 [^c24054381]: Marginal citation: [S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803). There are amendments to Schedule 3 none of which are relevant.
 
-[^key-790852772f53abc3f919eb32760ae915]: Commencement: Reg. 9 in force at 22.4.2020, see reg. 1(3)
+[^c-790852772f53abc3f919eb32760ae915]: Commencement: Reg. 9 in force at 22.4.2020, see reg. 1(3)
 
-[^key-1e7dbb31ed589fec0e6d2fd8800f19cd]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/9/3) inserted (21.7.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) (Amendment) Regulations 2020 (S.I. 2020/653)](https://www.legislation.gov.uk/wsi/2020/653), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2020/653/regulation/2)
+[^c-1e7dbb31ed589fec0e6d2fd8800f19cd]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/9/3) inserted (21.7.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) (Amendment) Regulations 2020 (S.I. 2020/653)](https://www.legislation.gov.uk/wsi/2020/653), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2020/653/regulation/2)
 
-[^key-fa59d88dafb1db092502ad68ebe9e464]: Commencement: Reg. 10 in force at 22.4.2020, see reg. 1(3)
+[^c-fa59d88dafb1db092502ad68ebe9e464]: Commencement: Reg. 10 in force at 22.4.2020, see reg. 1(3)
 
 [^c24054391]: Marginal citation: Subsections (3B), (3C) and (3D) were inserted by section 31 of the Local Government (Wales) Measure 2011 (nawm 4).
 
-[^key-46e7f3c68107c6c248d68e19f5b37dd3]: Commencement: Reg. 11 in force at 22.4.2020, see reg. 1(3)
+[^c-46e7f3c68107c6c248d68e19f5b37dd3]: Commencement: Reg. 11 in force at 22.4.2020, see reg. 1(3)
 
-[^key-1b7a33cddcc0e39b94c5ecc8785f3692]: Commencement: Reg. 12 in force at 22.4.2020, see reg. 1(3)
+[^c-1b7a33cddcc0e39b94c5ecc8785f3692]: Commencement: Reg. 12 in force at 22.4.2020, see reg. 1(3)
 
 [^c24054401]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-4a805a980e25f12e8affa6adaf21201e]: Commencement: Reg. 13 in force at 22.4.2020, see reg. 1(3)
+[^c-4a805a980e25f12e8affa6adaf21201e]: Commencement: Reg. 13 in force at 22.4.2020, see reg. 1(3)
 
 [^c24054411]: Marginal citation: [S.I. 1991/1773](https://www.legislation.gov.uk/uksi/1991/1773).
 
-[^key-d08f4c8922b603b5aca9cb889172976f]: Commencement: Reg. 14 in force at 22.4.2020, see reg. 1(3)
+[^c-d08f4c8922b603b5aca9cb889172976f]: Commencement: Reg. 14 in force at 22.4.2020, see reg. 1(3)
 
-[^key-b5a822615e216bf0c6a79eedc451b1ce]: Commencement: Reg. 15 in force at 22.4.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3)
+[^c-b5a822615e216bf0c6a79eedc451b1ce]: Commencement: Reg. 15 in force at 22.4.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3)
 
 [^c24054421]: Marginal citation: [S.I. 2006/1275](https://www.legislation.gov.uk/uksi/2006/1275) (W. 121).
 
 [^c24054431]: Marginal citation: [Schedule 2A](https://www.legislation.gov.uk/wsi/2020/442/schedule/2A) was inserted by regulation 2(4) of the Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2017 ([S.I. 2017/460](https://www.legislation.gov.uk/uksi/2017/460) (W. 98)).
 
-[^key-331b2298ff12ba7e3a069cf003b7193a]: Commencement: Reg. 16 in force at 22.4.2020, see reg. 1(3)
+[^c-331b2298ff12ba7e3a069cf003b7193a]: Commencement: Reg. 16 in force at 22.4.2020, see reg. 1(3)
 
-[^key-1985ab6a2e3ef8fb6f3f899578df1ffc]: Commencement: Reg. 17 in force at 22.4.2020, see reg. 1(3)
+[^c-1985ab6a2e3ef8fb6f3f899578df1ffc]: Commencement: Reg. 17 in force at 22.4.2020, see reg. 1(3)
 
 [^c24054441]: Marginal citation: Paragraph 26(2) was amended by section 57 of the Local Government (Democracy) (Wales) Act 2013 (anaw 4).
 
-[^key-abf49bd5fb8d65a73714cc3ddb8145ee]: Commencement: Reg. 18 in force at 22.4.2020, see reg. 1(3)
+[^c-abf49bd5fb8d65a73714cc3ddb8145ee]: Commencement: Reg. 18 in force at 22.4.2020, see reg. 1(3)
 
 [^c24054451]: Marginal citation: Paragraph 6(2)(b) was amended by paragraph 52 of Schedule 4 to the Natural Resources Body for Wales (Functions) Order 2013 ([S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90)).
 
-[^key-4d49d51c8606ebb240817a4b5305b9b7]: Commencement: Reg. 19 in force at 22.4.2020, see reg. 1(3)
+[^c-4d49d51c8606ebb240817a4b5305b9b7]: Commencement: Reg. 19 in force at 22.4.2020, see reg. 1(3)
 
-[^key-563bc144607426efb95682822ea61373]: Textual amendment: Words in reg. 19 substituted (21.7.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) (Amendment) Regulations 2020 (S.I. 2020/653)](https://www.legislation.gov.uk/wsi/2020/653), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/1/2), [5(1)(a)](https://www.legislation.gov.uk/wsi/2020/653/regulation/5/1/a)
+[^c-563bc144607426efb95682822ea61373]: Textual amendment: Words in reg. 19 substituted (21.7.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) (Amendment) Regulations 2020 (S.I. 2020/653)](https://www.legislation.gov.uk/wsi/2020/653), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/1/2), [5(1)(a)](https://www.legislation.gov.uk/wsi/2020/653/regulation/5/1/a)
 
-[^key-a6f5e3a728e05985dc684131a18d9b9a]: Commencement: Reg. 20 in force at 22.4.2020, see reg. 1(3)
+[^c-a6f5e3a728e05985dc684131a18d9b9a]: Commencement: Reg. 20 in force at 22.4.2020, see reg. 1(3)
 
 [^c24054461]: Marginal citation: [1960 c. 67](https://www.legislation.gov.uk/ukpga/1960/67).
 
 [^c24054471]: Marginal citation: Subsection (1) was amended by section 3 of, and Schedule 2 to, the [Local Government (Access to Information) Act 1985 (c. 43)](https://www.legislation.gov.uk/ukpga/1985/43).
 
-[^key-3a87a8765e775af8e9d13408e99fb633]: Commencement: Reg. 21 in force at 22.4.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3)
+[^c-3a87a8765e775af8e9d13408e99fb633]: Commencement: Reg. 21 in force at 22.4.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3)
 
 [^c24054481]: Marginal citation: [Part 5A](https://www.legislation.gov.uk/wsi/2020/442/part/5A) was inserted by section 1 of the [Local Government (Access to Information) Act 1985 (c. 43)](https://www.legislation.gov.uk/ukpga/1985/43).
 
-[^key-6ad6acfa65dab704089e193635630344]: Commencement: Reg. 22 in force at 22.4.2020, see reg. 1(3)
+[^c-6ad6acfa65dab704089e193635630344]: Commencement: Reg. 22 in force at 22.4.2020, see reg. 1(3)
 
-[^key-9f51d20a17a2248548a2fec3da743b42]: Commencement: Reg. 23 in force at 22.4.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3)
+[^c-9f51d20a17a2248548a2fec3da743b42]: Commencement: Reg. 23 in force at 22.4.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3)
 
 [^c24054491]: Marginal citation: [S.I. 2001/2290](https://www.legislation.gov.uk/uksi/2001/2290) (W. 178).
 
 [^c24054501]: Marginal citation: Paragraph (4) was substituted by regulation 2(2) of the Local Authorities (Executive Arrangements) (Decisions, Documents and Meetings) (Wales) (Amendment) Regulations 2002 ([S.I. 2002/1385](https://www.legislation.gov.uk/uksi/2002/1385) (W. 135)).
 
-[^key-7c4bd41e2b1f5ba3827f8e436b8d4479]: Textual amendment: Reg. 24 inserted (21.7.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) (Amendment) Regulations 2020 (S.I. 2020/653)](https://www.legislation.gov.uk/wsi/2020/653), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2020/653/regulation/3)
+[^c-7c4bd41e2b1f5ba3827f8e436b8d4479]: Textual amendment: Reg. 24 inserted (21.7.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) (Amendment) Regulations 2020 (S.I. 2020/653)](https://www.legislation.gov.uk/wsi/2020/653), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2020/653/regulation/3)
 
-[^key-5ae5e54a697b0920e71825afeb2f8141]: Textual amendment: Reg. 25 inserted (21.7.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) (Amendment) Regulations 2020 (S.I. 2020/653)](https://www.legislation.gov.uk/wsi/2020/653), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/653/regulation/4)
+[^c-5ae5e54a697b0920e71825afeb2f8141]: Textual amendment: Reg. 25 inserted (21.7.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) (Amendment) Regulations 2020 (S.I. 2020/653)](https://www.legislation.gov.uk/wsi/2020/653), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/653/regulation/4)
 
-[^key-7f5f563591d6efe851b9428d73753a43]: Textual amendment: Reg. 26 inserted (21.7.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) (Amendment) Regulations 2020 (S.I. 2020/653)](https://www.legislation.gov.uk/wsi/2020/653), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/wsi/2020/653/regulation/5/1/b)
+[^c-7f5f563591d6efe851b9428d73753a43]: Textual amendment: Reg. 26 inserted (21.7.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) (Amendment) Regulations 2020 (S.I. 2020/653)](https://www.legislation.gov.uk/wsi/2020/653), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/1/2), [5(1)(b)](https://www.legislation.gov.uk/wsi/2020/653/regulation/5/1/b)
 
-[^key-28c29abdd96558ee4d10da5ae44a210a]: Textual amendment: Sch. inserted (21.7.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) (Amendment) Regulations 2020 (S.I. 2020/653)](https://www.legislation.gov.uk/wsi/2020/653), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/5/2)
+[^c-28c29abdd96558ee4d10da5ae44a210a]: Textual amendment: Sch. inserted (21.7.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) (Amendment) Regulations 2020 (S.I. 2020/653)](https://www.legislation.gov.uk/wsi/2020/653), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2020/653/regulation/5/2)

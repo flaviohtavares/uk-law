@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.12A. Authorised deposit-taker and former authorised deposit-taker”[^key-e8f45534bd021e1fb7b2bc2c5d9083d8]
+## 13.12A. Authorised deposit-taker and former authorised deposit-taker”[^c-e8f45534bd021e1fb7b2bc2c5d9083d8]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8f45534bd021e1fb7b2bc2c5d9083d8]: Textual amendment: Rule. 13.12A inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [381](https://www.legislation.gov.uk/uksi/2001/3649/article/381)
+[^c-e8f45534bd021e1fb7b2bc2c5d9083d8]: Textual amendment: Rule. 13.12A inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [381](https://www.legislation.gov.uk/uksi/2001/3649/article/381)

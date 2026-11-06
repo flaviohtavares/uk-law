@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Standard entitlement of current system students who have transferred from or otherwise studied on a previous course[^key-74298a68314340bd814eef13d3edc776]
+## 19. Standard entitlement of current system students who have transferred from or otherwise studied on a previous course[^c-74298a68314340bd814eef13d3edc776]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ where
 
 ## Annotations
 
-[^key-74298a68314340bd814eef13d3edc776]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-74298a68314340bd814eef13d3edc776]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

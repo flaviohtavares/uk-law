@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 173. Test of security’s value[^key-739d20943a9bf43addcf5a963ce1f56e]
+## 173. Test of security’s value[^c-739d20943a9bf43addcf5a963ce1f56e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-739d20943a9bf43addcf5a963ce1f56e]: Commencement: [Rule 173](https://www.legislation.gov.uk/uksi/2011/1301/rule/173) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-739d20943a9bf43addcf5a963ce1f56e]: Commencement: [Rule 173](https://www.legislation.gov.uk/uksi/2011/1301/rule/173) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

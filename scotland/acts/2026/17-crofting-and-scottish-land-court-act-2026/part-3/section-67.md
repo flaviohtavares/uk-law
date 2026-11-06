@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Short title[^key-4db0d80f0e272f84fc0378cdf40588ce]
+## 67. Short title[^c-4db0d80f0e272f84fc0378cdf40588ce]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Crofting and Scottish Land Court Act 2026.
 
 ## Annotations
 
-[^key-4db0d80f0e272f84fc0378cdf40588ce]: Commencement: S. 67 in force at 19.5.2026, see [s. 66(1)](https://www.legislation.gov.uk/asp/2026/17/section/66/1)
+[^c-4db0d80f0e272f84fc0378cdf40588ce]: Commencement: S. 67 in force at 19.5.2026, see [s. 66(1)](https://www.legislation.gov.uk/asp/2026/17/section/66/1)

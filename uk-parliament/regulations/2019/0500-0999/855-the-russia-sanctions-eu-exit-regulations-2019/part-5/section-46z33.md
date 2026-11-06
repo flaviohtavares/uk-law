@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z33. Brokering services relating to Russia’s vulnerable goods and Russia’s vulnerable technology[^key-b679795f4dfac9be9858fb514b5a3313][^key-ffb2f92f76b7fec782e61b02e4aa3382]
+## 46Z33. Brokering services relating to Russia’s vulnerable goods and Russia’s vulnerable technology[^c-b679795f4dfac9be9858fb514b5a3313][^c-ffb2f92f76b7fec782e61b02e4aa3382]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,11 +24,11 @@ summary: ''
 
 - (a) the export of Russia’s vulnerable goods;
 - (b) the direct or indirect supply or delivery of Russia’s vulnerable goods;
-- (c) directly or indirectly making Russia’s vulnerable goods or Russia’s vulnerable technology[^key-081dbc82937e3e6465ca35548fc09b95] available to a person;
-- (ca)[^key-aae8e1b1270a4df8a3b8b4dda820515d] the transfer of Russia’s vulnerable technology from a place in a third country—
+- (c) directly or indirectly making Russia’s vulnerable goods or Russia’s vulnerable technology[^c-081dbc82937e3e6465ca35548fc09b95] available to a person;
+- (ca)[^c-aae8e1b1270a4df8a3b8b4dda820515d] the transfer of Russia’s vulnerable technology from a place in a third country—
   - (i) to a person connected with Russia, or
   - (ii) to a place in Russia.
-- (d) the direct or indirect provision of technical assistance relating to Russia’s vulnerable goods or Russia’s vulnerable technology[^key-7f376e8d3750ab50440d3f4bfee308a9];
+- (d) the direct or indirect provision of technical assistance relating to Russia’s vulnerable goods or Russia’s vulnerable technology[^c-7f376e8d3750ab50440d3f4bfee308a9];
 - (e) the direct or indirect provision, in a non-UK country, of financial services—
   - (i) to a person connected with Russia, where arrangement A, or any other arrangement in connection with which arrangement A is entered into, is an arrangement mentioned in regulation 46Z32(1), or
   - (ii) where arrangement A, or any other arrangement in connection with which arrangement A is entered into, is an arrangement mentioned in regulation 46Z32(3);
@@ -43,12 +43,12 @@ summary: ''
 
 ## Annotations
 
-[^key-b679795f4dfac9be9858fb514b5a3313]: Textual amendment: Pt. 5 Chs. 4L, 4M inserted (1.1.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2022/1110/regulation/6)
+[^c-b679795f4dfac9be9858fb514b5a3313]: Textual amendment: Pt. 5 Chs. 4L, 4M inserted (1.1.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2022/1110/regulation/6)
 
-[^key-ffb2f92f76b7fec782e61b02e4aa3382]: Textual amendment: Words in reg. 46Z33 heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/3) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-ffb2f92f76b7fec782e61b02e4aa3382]: Textual amendment: Words in reg. 46Z33 heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/3) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-081dbc82937e3e6465ca35548fc09b95]: Textual amendment: Words in reg. 46Z33(1)(c) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/5)[(6)(d)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/6/d) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-081dbc82937e3e6465ca35548fc09b95]: Textual amendment: Words in reg. 46Z33(1)(c) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/5)[(6)(d)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/6/d) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-aae8e1b1270a4df8a3b8b4dda820515d]: Textual amendment: Reg. 46Z33(1)(ca) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/10) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-aae8e1b1270a4df8a3b8b4dda820515d]: Textual amendment: Reg. 46Z33(1)(ca) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/10) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-7f376e8d3750ab50440d3f4bfee308a9]: Textual amendment: Words in reg. 46Z33(1)(d) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/5)[(6)(d)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/6/d) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-7f376e8d3750ab50440d3f4bfee308a9]: Textual amendment: Words in reg. 46Z33(1)(d) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/5)[(6)(d)](https://www.legislation.gov.uk/uksi/2025/504/regulation/8/6/d) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))

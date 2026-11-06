@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52A. Notification of matter to be determined under section 79 person seeking opportunity to participate[^key-4cc07e7ce3b16c739f841f9488b7e1ff]
+## 52A. Notification of matter to be determined under section 79 person seeking opportunity to participate[^c-4cc07e7ce3b16c739f841f9488b7e1ff]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the Reporter must give notice of the hearing to the individual.
 
 ## Annotations
 
-[^key-4cc07e7ce3b16c739f841f9488b7e1ff]: Textual amendment: Rule 52A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(23)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/23)
+[^c-4cc07e7ce3b16c739f841f9488b7e1ff]: Textual amendment: Rule 52A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(23)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/23)

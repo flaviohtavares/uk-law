@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. A sample collection covered by a sample collection certificate must be re-imported into Great Britain[^key-bf09e1b2f307c32fe7d2572a1f781acb] before the date of expiry of the certificate.
+1. A sample collection covered by a sample collection certificate must be re-imported into Great Britain[^c-bf09e1b2f307c32fe7d2572a1f781acb] before the date of expiry of the certificate.
 
 2. The specimens covered by a sample collection certificate may not be sold or otherwise transferred whilst outside the territory of the State that issued the certificate.
 
@@ -42,4 +42,4 @@ The following text shall be included in box 23 or in an appropriate annex to the
 
 [^c000005]: Textual amendment: Inserted by [Commission Regulation (EC) No 100/2008 of 4 February 2008 amending, as regards sample collections and certain formalities relating to the trade in species of wild fauna and flora, Regulation (EC) No 865/2006 laying down detailed rules for the implementation of Council Regulation (EC) No 338/97](https://www.legislation.gov.uk/eur/2008/100).
 
-[^key-bf09e1b2f307c32fe7d2572a1f781acb]: Textual amendment: Words in [Art. 44d(1)](https://www.legislation.gov.uk/eur/2006/865/article/44d/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(37)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/37)
+[^c-bf09e1b2f307c32fe7d2572a1f781acb]: Textual amendment: Words in [Art. 44d(1)](https://www.legislation.gov.uk/eur/2006/865/article/44d/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(37)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/37)

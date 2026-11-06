@@ -22,19 +22,19 @@ summary: ''
 
 Section 203
 
-**1.**[^key-dabfc2b41edbee642b8b071f0f849785] Part 4 of the Education and Inspections Act 2006 (c. 40) (schools causing concern: England) is amended as follows.
+**1.**[^c-dabfc2b41edbee642b8b071f0f849785] Part 4 of the Education and Inspections Act 2006 (c. 40) (schools causing concern: England) is amended as follows.
 
-**2.**[^key-7544d678b39dd32f5a4a8f8322a89d79] (1) Section 59(2) (meaning of schools being “eligible for intervention”) is amended as follows.
+**2.**[^c-7544d678b39dd32f5a4a8f8322a89d79] (1) Section 59(2) (meaning of schools being “eligible for intervention”) is amended as follows.
 
-(2) For “warning notice by local authority[^key-539a148a152b679b0b2f5402f58a05e0]” substitute “ performance standards and safety warning notice ”.
+(2) For “warning notice by local authority[^c-539a148a152b679b0b2f5402f58a05e0]” substitute “ performance standards and safety warning notice ”.
 
 (3) Before “section 61” insert—
 
 “section 60A (teachers' pay and conditions warning notice),”.
 
-**3.**[^key-4a7066b69f5ba9279fc4ba573335d2db] For the title of section 60 substitute “ Performance standards and safety warning notice ”.
+**3.**[^c-4a7066b69f5ba9279fc4ba573335d2db] For the title of section 60 substitute “ Performance standards and safety warning notice ”.
 
-**4.**[^key-81ac9944a24af7256fa2a4b282517293] After section 60 insert—
+**4.**[^c-81ac9944a24af7256fa2a4b282517293] After section 60 insert—
 
 > **60A. Teachers' pay and conditions warning notice**
 >
@@ -79,17 +79,17 @@ Section 203
 > - (a) in a case where the governing body does not make representations under subsection (7), the initial period mentioned in subsection (1)(b), and
 > - (b) in a case where the local authority confirm the warning notice under subsection (8), the period beginning with the day on which they do so and ending with the fifteenth working day following that day.
 
-**5.**[^key-35eb63000cfc6ecc6c87db459cb682e0] (1) Section 63 (power of local authority to require governing body to enter into arrangements) is amended as follows.
+**5.**[^c-35eb63000cfc6ecc6c87db459cb682e0] (1) Section 63 (power of local authority to require governing body to enter into arrangements) is amended as follows.
 
 (2) In subsection (1) after “eligible for intervention” insert “ other than by virtue of section 60A ”.
 
 (3) In subsection (3) for “formal warning” substitute “ performance standards and safety warning ”.
 
-**6.**[^key-682da383479bc6d8f7ddea902f941937] (1) Section 64 (power of local authority etc to appoint additional governors) is amended as follows.
+**6.**[^c-682da383479bc6d8f7ddea902f941937] (1) Section 64 (power of local authority etc to appoint additional governors) is amended as follows.
 
-(2)[^key-47272f823c292e4e0abbeefc4a733ed3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-47272f823c292e4e0abbeefc4a733ed3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-47272f823c292e4e0abbeefc4a733ed3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-47272f823c292e4e0abbeefc4a733ed3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (2)—
 
@@ -107,16 +107,16 @@ Section 203
 
   .
 
-**7.**[^key-2c567b8c033e03c370d8be42a4ee04dd] In section 66(2) (power of local authority to suspend right to delegated budget)—
+**7.**[^c-2c567b8c033e03c370d8be42a4ee04dd] In section 66(2) (power of local authority to suspend right to delegated budget)—
 
 - (a) for “formal warning)” substitute “performance standards and safety warning) or 60A (school subject to teachers' pay and conditions warning)”, and
 - (b) after “60(10)” insert “ or as the case may be section 60A(10) ”.
 
-**8.**[^key-3846ced67ec95e3e7d672efb2c31a847] In section 67(1) (power of Secretary of State to appoint additional governors) omit the words from “by virtue of” to “special measures)”.
+**8.**[^c-3846ced67ec95e3e7d672efb2c31a847] In section 67(1) (power of Secretary of State to appoint additional governors) omit the words from “by virtue of” to “special measures)”.
 
-**9.**[^key-1a202081071ffa2b955f36eb612a63f2] In section 69(1) (power of Secretary of State to provide for governing body to consist of interim executive members) omit the words from “by virtue of” to “special measures)”.
+**9.**[^c-1a202081071ffa2b955f36eb612a63f2] In section 69(1) (power of Secretary of State to provide for governing body to consist of interim executive members) omit the words from “by virtue of” to “special measures)”.
 
-**10.**[^key-390dee0b636eb840c7e7010bce3e38d8] After section 69 insert—
+**10.**[^c-390dee0b636eb840c7e7010bce3e38d8] After section 69 insert—
 
 > **69A. Power of Secretary of State to direct local authority to consider giving performance standards and safety warning notice**
 >
@@ -199,32 +199,32 @@ Section 203
 >
 > (11) A direction under this section must be in writing.
 
-**11.**[^key-ef413b355cbd1ca536eab17b9ee14cad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ef413b355cbd1ca536eab17b9ee14cad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dabfc2b41edbee642b8b071f0f849785]: Commencement: Sch. 13 para. 1 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-dabfc2b41edbee642b8b071f0f849785]: Commencement: Sch. 13 para. 1 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-7544d678b39dd32f5a4a8f8322a89d79]: Commencement: Sch. 13 para. 2 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-7544d678b39dd32f5a4a8f8322a89d79]: Commencement: Sch. 13 para. 2 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
 
-[^key-4a7066b69f5ba9279fc4ba573335d2db]: Commencement: Sch. 13 para. 3 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-4a7066b69f5ba9279fc4ba573335d2db]: Commencement: Sch. 13 para. 3 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-81ac9944a24af7256fa2a4b282517293]: Commencement: Sch. 13 para. 4 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-81ac9944a24af7256fa2a4b282517293]: Commencement: Sch. 13 para. 4 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-35eb63000cfc6ecc6c87db459cb682e0]: Commencement: Sch. 13 para. 5 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-35eb63000cfc6ecc6c87db459cb682e0]: Commencement: Sch. 13 para. 5 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-682da383479bc6d8f7ddea902f941937]: Commencement: Sch. 13 para. 6 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-682da383479bc6d8f7ddea902f941937]: Commencement: Sch. 13 para. 6 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-47272f823c292e4e0abbeefc4a733ed3]: Textual amendment: Sch. 13 para. 6(2)(3) omitted (11.1.2017) by virtue of [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 16(a)](https://www.legislation.gov.uk/ukpga/2016/6/section/16/a), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/b)
+[^c-47272f823c292e4e0abbeefc4a733ed3]: Textual amendment: Sch. 13 para. 6(2)(3) omitted (11.1.2017) by virtue of [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 16(a)](https://www.legislation.gov.uk/ukpga/2016/6/section/16/a), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/b)
 
-[^key-2c567b8c033e03c370d8be42a4ee04dd]: Commencement: Sch. 13 para. 7 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-2c567b8c033e03c370d8be42a4ee04dd]: Commencement: Sch. 13 para. 7 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-3846ced67ec95e3e7d672efb2c31a847]: Commencement: Sch. 13 para. 8 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-3846ced67ec95e3e7d672efb2c31a847]: Commencement: Sch. 13 para. 8 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-1a202081071ffa2b955f36eb612a63f2]: Commencement: Sch. 13 para. 9 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-1a202081071ffa2b955f36eb612a63f2]: Commencement: Sch. 13 para. 9 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-390dee0b636eb840c7e7010bce3e38d8]: Commencement: Sch. 13 para. 10 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-390dee0b636eb840c7e7010bce3e38d8]: Commencement: Sch. 13 para. 10 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-ef413b355cbd1ca536eab17b9ee14cad]: Textual amendment: Sch. 13 para. 11 omitted (11.1.2017) by virtue of [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 16(a)](https://www.legislation.gov.uk/ukpga/2016/6/section/16/a), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/b)
+[^c-ef413b355cbd1ca536eab17b9ee14cad]: Textual amendment: Sch. 13 para. 11 omitted (11.1.2017) by virtue of [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 16(a)](https://www.legislation.gov.uk/ukpga/2016/6/section/16/a), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/b)

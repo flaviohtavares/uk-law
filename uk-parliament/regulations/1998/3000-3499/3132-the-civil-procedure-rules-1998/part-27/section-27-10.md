@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.10. Disposal without a hearing[^key-c50c1a9995d78167c653e6aae8d2f49c]
+## 27.10. Disposal without a hearing[^c-c50c1a9995d78167c653e6aae8d2f49c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court may, if all parties agree, deal with the claim without a hearing.
 
 ## Annotations
 
-[^key-c50c1a9995d78167c653e6aae8d2f49c]: Commencement: [Rule 27.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.10) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-c50c1a9995d78167c653e6aae8d2f49c]: Commencement: [Rule 27.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.10) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

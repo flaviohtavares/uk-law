@@ -39,101 +39,101 @@ defining a format for the submission of the information by Member States in acco
 
 (2009/63/EC) (revoked)
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce4cac9e23be97a915e12476ee51aaf1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ce4cac9e23be97a915e12476ee51aaf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ce4cac9e23be97a915e12476ee51aaf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ce4cac9e23be97a915e12476ee51aaf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ce4cac9e23be97a915e12476ee51aaf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ce4cac9e23be97a915e12476ee51aaf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ce4cac9e23be97a915e12476ee51aaf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce4cac9e23be97a915e12476ee51aaf1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Items to be notified pursuant to Article 7(4)(b)(iii) of Regulation (EC) No 850/2004[^key-ce4cac9e23be97a915e12476ee51aaf1]
+## ANNEX — Items to be notified pursuant to Article 7(4)(b)(iii) of Regulation (EC) No 850/2004[^c-ce4cac9e23be97a915e12476ee51aaf1]
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]1.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]1.
 
 Authorisation of the exemption:
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]1.1.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]1.2.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]1.3.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]1.4.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]1.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]1.5.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]1.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]1.6.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]1.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]2.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]2.
 
 General description of waste:
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]2.1.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]2.2.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]2.3.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]2.4.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]2.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]3.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]3.
 
 Description of treatment technology:
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]3.1.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]3.1.
 
 Pre-treatment required: yes/no
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]3.2.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]3.2.
 
 Final storage:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]3.3.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]3.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]3.4.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]3.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]4.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]4.
 
 Summary of justification of environmental preferability of the management compared with the destruction or irreversible transformation of the POPs content in the waste (e.g. addressing the emissions of POPs, other emissions and risks or uncertainties of the operation):
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]5.
+[^c-ce4cac9e23be97a915e12476ee51aaf1]5.
 
 Website address or other reference where to find more information on the authorisation and the justification of the exemption, if available:
 
@@ -141,4 +141,4 @@ Website address or other reference where to find more information on the authori
 
 ## Annotations
 
-[^key-ce4cac9e23be97a915e12476ee51aaf1]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-ce4cac9e23be97a915e12476ee51aaf1]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

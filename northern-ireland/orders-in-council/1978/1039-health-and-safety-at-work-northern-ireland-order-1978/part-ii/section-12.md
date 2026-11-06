@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^c17534711][^key-7b1638985a21c75fb8d21f641af71fdb] There shall be established a body to be called the Health and Safety Executive for Northern Ireland consisting of a chairman appointed by the Head of the Department and not less than six nor more than nine other members appointed by the Head of the Department in accordance with paragraph (2).
+(1)[^c17534711][^c-7b1638985a21c75fb8d21f641af71fdb] There shall be established a body to be called the Health and Safety Executive for Northern Ireland consisting of a chairman appointed by the Head of the Department and not less than six nor more than nine other members appointed by the Head of the Department in accordance with paragraph (2).
 
 (2) Before appointing the members of the Executive (other than the chairman) the Head of the Department shall—
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c17534711]: Textual amendment: mod. by [2002 c. 8 (NI)](https://www.legislation.gov.uk/nia/2002/8)
 
-[^key-7b1638985a21c75fb8d21f641af71fdb]: Modification: [Art. 12(1)](https://www.legislation.gov.uk/nisi/1978/1039/article/12/1) applied (with modifications) (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [Sch. 9 paras. 1(a)](https://www.legislation.gov.uk/uksi/2016/1093/schedule/9/paragraph/1/a), [2](https://www.legislation.gov.uk/uksi/2016/1093/schedule/9/paragraph/2) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))
+[^c-7b1638985a21c75fb8d21f641af71fdb]: Modification: [Art. 12(1)](https://www.legislation.gov.uk/nisi/1978/1039/article/12/1) applied (with modifications) (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [Sch. 9 paras. 1(a)](https://www.legislation.gov.uk/uksi/2016/1093/schedule/9/paragraph/1/a), [2](https://www.legislation.gov.uk/uksi/2016/1093/schedule/9/paragraph/2) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))

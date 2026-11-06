@@ -31,7 +31,7 @@ summary: ''
 
 MAGISTRATES' COURTS
 
-Magistrates' Courts (Sex Offender Orders) (Amendment) Rules (Northern Ireland) 2003 (revoked)[^key-7c05c764ae173c9e1c34c6355c9cdc99]
+Magistrates' Courts (Sex Offender Orders) (Amendment) Rules (Northern Ireland) 2003 (revoked)[^c-7c05c764ae173c9e1c34c6355c9cdc99]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into operation
 
 10th February 2003
 
-[^key-7c05c764ae173c9e1c34c6355c9cdc99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c05c764ae173c9e1c34c6355c9cdc99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7c05c764ae173c9e1c34c6355c9cdc99]
+## 1. Citation, commencement and interpretation[^c-7c05c764ae173c9e1c34c6355c9cdc99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Rules[^key-7c05c764ae173c9e1c34c6355c9cdc99]
+## 2. Amendment of the principal Rules[^c-7c05c764ae173c9e1c34c6355c9cdc99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7c05c764ae173c9e1c34c6355c9cdc99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c05c764ae173c9e1c34c6355c9cdc99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-7c05c764ae173c9e1c34c6355c9cdc99]
+## SCHEDULE[^c-7c05c764ae173c9e1c34c6355c9cdc99]
 
 Rule 2(3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7c05c764ae173c9e1c34c6355c9cdc99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c05c764ae173c9e1c34c6355c9cdc99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c05c764ae173c9e1c34c6355c9cdc99]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/32) revoked (17.5.2004) by [The Magistrates' Courts (Sexual Offences Act 2003) Rules (Northern Ireland) 2004 (S.R. 2004/203)](https://www.legislation.gov.uk/nisr/2004/203), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2004/203/article/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2004/203/article/2/b)
+[^c-7c05c764ae173c9e1c34c6355c9cdc99]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/32) revoked (17.5.2004) by [The Magistrates' Courts (Sexual Offences Act 2003) Rules (Northern Ireland) 2004 (S.R. 2004/203)](https://www.legislation.gov.uk/nisr/2004/203), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2004/203/article/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2004/203/article/2/b)

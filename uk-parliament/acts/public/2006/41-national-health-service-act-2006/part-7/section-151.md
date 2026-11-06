@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) If it appears to NHS England[^key-c26379f595629655ada8a57e0d3d2bfd] that any of the conditions set out in subsections (2) to (4) is established in relation to a person included in a pharmaceutical list it may (or, in cases falling within subsection (5), must) decide to remove him from that list.
+(1) If it appears to NHS England[^c-c26379f595629655ada8a57e0d3d2bfd] that any of the conditions set out in subsections (2) to (4) is established in relation to a person included in a pharmaceutical list it may (or, in cases falling within subsection (5), must) decide to remove him from that list.
 
 (2) The first condition is that the continued inclusion of the practitioner in the list would be prejudicial to the efficiency of the services which those included in the list undertake to provide (and such a case is referred to in this Chapter as an “efficiency case”).
 
@@ -50,4 +50,4 @@ and regulations may prescribe any scheme for the purposes of this subsection whi
 
 ## Annotations
 
-[^key-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

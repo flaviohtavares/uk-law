@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Management etc. of agencies[^key-08ba974524fb41055df75c071f45c89d][^key-56d46a3e9f830d706b792f27d8fdc50d]
+## 10. Management etc. of agencies[^c-08ba974524fb41055df75c071f45c89d][^c-56d46a3e9f830d706b792f27d8fdc50d]
 
 *Extent: E+W*
 
@@ -29,11 +29,11 @@ summary: ''
 - (e) the management and training of persons working for the purposes of those functions,
 - (f) the keeping of information.
 
-(2) Regulations made by virtue of subsection (1)(a) may, in particular, make provision for prohibiting persons from working in prescribed positions unless they are registered in, or in a particular part of —[^key-600be5853f7b4b732f6b957df1eba06c]
+(2) Regulations made by virtue of subsection (1)(a) may, in particular, make provision for prohibiting persons from working in prescribed positions unless they are registered in, or in a particular part of —[^c-600be5853f7b4b732f6b957df1eba06c]
 
 - (a) the register of social workers in England maintained under section 39 of the Children and Social Work Act 2017,
 - (b) any register of social care workers in England maintained under an Order in Council under section 60 of the Health Act 1999 or any register maintained under such an Order in Council so far as relating to social care workers in England, or
-- (c) the register maintained under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)[^key-e2ace5568014b0b672069beeeee8a899] (registration of social care workers).
+- (c) the register maintained under section 80 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)[^c-e2ace5568014b0b672069beeeee8a899] (registration of social care workers).
 
 (3) In relation to voluntary adoption agencies and adoption support agencies, regulations under section 9 may—
 
@@ -57,10 +57,10 @@ summary: ''
 
 ## Annotations
 
-[^key-08ba974524fb41055df75c071f45c89d]: Commencement: S. 10 in force at 7.2.2004 for W. by [S.I. 2004/252](https://www.legislation.gov.uk/uksi/2004/252), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/252/article/2/b)
+[^c-08ba974524fb41055df75c071f45c89d]: Commencement: S. 10 in force at 7.2.2004 for W. by [S.I. 2004/252](https://www.legislation.gov.uk/uksi/2004/252), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/252/article/2/b)
 
-[^key-56d46a3e9f830d706b792f27d8fdc50d]: Commencement: S. 10 in force at 7.12.2004 for E. by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/d)
+[^c-56d46a3e9f830d706b792f27d8fdc50d]: Commencement: S. 10 in force at 7.12.2004 for E. by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/d)
 
-[^key-600be5853f7b4b732f6b957df1eba06c]: Textual amendment: Words in [s. 10(2)](https://www.legislation.gov.uk/ukpga/2002/38/section/10/2) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 28(1)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/28/1) (with [Sch. 5 para. 28(2)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/28/2)); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
+[^c-600be5853f7b4b732f6b957df1eba06c]: Textual amendment: Words in [s. 10(2)](https://www.legislation.gov.uk/ukpga/2002/38/section/10/2) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 28(1)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/28/1) (with [Sch. 5 para. 28(2)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/28/2)); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
 
-[^key-e2ace5568014b0b672069beeeee8a899]: Textual amendment: Words in s. 10(2) substituted (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 46](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/46); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-e2ace5568014b0b672069beeeee8a899]: Textual amendment: Words in s. 10(2) substituted (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 46](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/46); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

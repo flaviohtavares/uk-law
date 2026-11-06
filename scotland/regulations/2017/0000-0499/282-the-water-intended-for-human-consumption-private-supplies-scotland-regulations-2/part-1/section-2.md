@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Application[^key-9af5d2e2ba57afafe042452e74884974]
+## 2. Application[^c-9af5d2e2ba57afafe042452e74884974]
 
 *Extent: S*
 
@@ -66,7 +66,7 @@ is exempt from the provisions of these Regulations, unless any of the water is s
 
 ## Annotations
 
-[^key-9af5d2e2ba57afafe042452e74884974]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-9af5d2e2ba57afafe042452e74884974]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00004]: Footnote: [2005 asp 3](https://www.legislation.gov.uk/asp/2005/3).
 

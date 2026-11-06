@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Regulations about heat network zones[^key-96ca424650272d113434667f011d6687]
+## 226. Regulations about heat network zones[^c-96ca424650272d113434667f011d6687]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96ca424650272d113434667f011d6687]: Commencement: S. 226 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-96ca424650272d113434667f011d6687]: Commencement: S. 226 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

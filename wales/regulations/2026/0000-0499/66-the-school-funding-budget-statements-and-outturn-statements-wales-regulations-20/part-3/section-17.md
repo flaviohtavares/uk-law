@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Pupil numbers: dual registration[^key-b7aaf5c828badc3474d5a6cb2eb75d0d]
+## 17. Pupil numbers: dual registration[^c-b7aaf5c828badc3474d5a6cb2eb75d0d]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7aaf5c828badc3474d5a6cb2eb75d0d]: Commencement: Reg. 17 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-b7aaf5c828badc3474d5a6cb2eb75d0d]: Commencement: Reg. 17 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
 
 [^f00047]: Footnote: Section 434 was amended by the School Standards and Framework Act 1998, Schedule 30, paragraph 111, Schedule 31 and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).

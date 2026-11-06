@@ -22,7 +22,7 @@ summary: ''
 
 Article 38
 
-### 1. Primary objective[^key-819bd35609160df61ed4d2116f462078]
+### 1. Primary objective[^c-819bd35609160df61ed4d2116f462078]
 
 (1) The primary objective of these Arbitration Rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within 4 months from the date the Arbitrator is appointed pursuant to article 38 (arbitration) of the Order.
 
@@ -30,7 +30,7 @@ Article 38
 
 (3) The Arbitration is deemed to have commenced when a party (“the Claimant”) serves a written notice of arbitration on the other party (“the Respondent”).
 
-### 2. Time periods[^key-0ff46a2ee59d8a1790d9dd670a1ddffd]
+### 2. Time periods[^c-0ff46a2ee59d8a1790d9dd670a1ddffd]
 
 (1) All time periods in these Arbitration Rules are measured in days and include weekends, but not bank or public holidays.
 
@@ -39,7 +39,7 @@ Article 38
 - (a) the date the Arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the Arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-3dcf285aea52b0219aa329f308e516db]
+### 3. Timetable[^c-3dcf285aea52b0219aa329f308e516db]
 
 (1) The timetable for the Arbitration is set out in sub–paragraphs (2) to (4) below unless amended in accordance with paragraph 5(3).
 
@@ -62,7 +62,7 @@ Article 38
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the Respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-2928b1af1bdfc7aecc4702b9a63ca6bf]
+### 4. Procedure[^c-2928b1af1bdfc7aecc4702b9a63ca6bf]
 
 (1) The parties’ pleadings, witness statements and expert reports (if any) must be concise. No single pleading is to exceed 30 single-sided A4 pages using 10pt Arial font.
 
@@ -90,7 +90,7 @@ Article 38
 
 (11) The Arbitrator’s award must include reasons. The parties must accept that the extent to which reasons are given are proportionate to the issues in dispute and the time available to the Arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-154ff8c79b7b770cb45ccc8ce4d05cab]
+### 5. Arbitrator’s powers[^c-154ff8c79b7b770cb45ccc8ce4d05cab]
 
 (1) The Arbitrator has all the powers of the Arbitration Act 1996[^f00055], including the non-mandatory sections, save where modified by these Rules.
 
@@ -103,7 +103,7 @@ Article 38
 
 (4) On the date the award is made, the Arbitrator must notify the parties that the award is completed, signed and dated, and that it is to be issued to the parties on receipt of cleared funds for the Arbitrator’s fees and expenses.
 
-### 6. Costs[^key-709fe3e7262201d4c7a46a64c4fc6a0b]
+### 6. Costs[^c-709fe3e7262201d4c7a46a64c4fc6a0b]
 
 (1) The costs of the Arbitration must include the fees and expenses of the Arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the Arbitration.
 
@@ -113,7 +113,7 @@ Article 38
 
 (4) The Arbitrator must award recoverable costs on the general principle that costs follow the event, having regard to all material circumstances, including such matters as exaggerated claims and/or defences, the degree of success for different elements of the claims, claims that have incurred substantial costs, the conduct of the parties and the degree of success of a party.
 
-### 7. Confidentiality[^key-d5bbc10b48e89de1245e54aa4f92f196]
+### 7. Confidentiality[^c-d5bbc10b48e89de1245e54aa4f92f196]
 
 (1) Subject to sub-paragraphs (2), (3) and (4), any arbitration hearing and documentation shall be open to and accessible by the public.
 
@@ -125,18 +125,18 @@ Article 38
 
 ## Annotations
 
-[^key-819bd35609160df61ed4d2116f462078]: Commencement: Sch. 14 para. 1 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-819bd35609160df61ed4d2116f462078]: Commencement: Sch. 14 para. 1 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
 
-[^key-0ff46a2ee59d8a1790d9dd670a1ddffd]: Commencement: Sch. 14 para. 2 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-0ff46a2ee59d8a1790d9dd670a1ddffd]: Commencement: Sch. 14 para. 2 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
 
-[^key-3dcf285aea52b0219aa329f308e516db]: Commencement: Sch. 14 para. 3 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-3dcf285aea52b0219aa329f308e516db]: Commencement: Sch. 14 para. 3 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
 
-[^key-2928b1af1bdfc7aecc4702b9a63ca6bf]: Commencement: Sch. 14 para. 4 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-2928b1af1bdfc7aecc4702b9a63ca6bf]: Commencement: Sch. 14 para. 4 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
 
-[^key-154ff8c79b7b770cb45ccc8ce4d05cab]: Commencement: Sch. 14 para. 5 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-154ff8c79b7b770cb45ccc8ce4d05cab]: Commencement: Sch. 14 para. 5 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
 
 [^f00055]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23).
 
-[^key-709fe3e7262201d4c7a46a64c4fc6a0b]: Commencement: Sch. 14 para. 6 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-709fe3e7262201d4c7a46a64c4fc6a0b]: Commencement: Sch. 14 para. 6 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
 
-[^key-d5bbc10b48e89de1245e54aa4f92f196]: Commencement: Sch. 14 para. 7 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-d5bbc10b48e89de1245e54aa4f92f196]: Commencement: Sch. 14 para. 7 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)

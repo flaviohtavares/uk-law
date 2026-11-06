@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL CARE, WALES
 
-The Domiciliary Care Agencies (Wales) (Amendment) Regulations 2013 (revoked)[^key-db8e724c26ddd790514da58ad35bc7e8]
+The Domiciliary Care Agencies (Wales) (Amendment) Regulations 2013 (revoked)[^c-db8e724c26ddd790514da58ad35bc7e8]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 28 February 2013
 
-[^key-db8e724c26ddd790514da58ad35bc7e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db8e724c26ddd790514da58ad35bc7e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-db8e724c26ddd790514da58ad35bc7e8]
+## 1. Title, commencement and application[^c-db8e724c26ddd790514da58ad35bc7e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-db8e724c26ddd790514da58ad35bc7e8]
+## 2. Interpretation[^c-db8e724c26ddd790514da58ad35bc7e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-db8e724c26ddd790514da58ad35bc7e8]
+## 3. Amendment of the principal Regulations[^c-db8e724c26ddd790514da58ad35bc7e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Registration Regulations[^key-db8e724c26ddd790514da58ad35bc7e8]
+## 4. Amendment of the Registration Regulations[^c-db8e724c26ddd790514da58ad35bc7e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db8e724c26ddd790514da58ad35bc7e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db8e724c26ddd790514da58ad35bc7e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-db8e724c26ddd790514da58ad35bc7e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db8e724c26ddd790514da58ad35bc7e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db8e724c26ddd790514da58ad35bc7e8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/225) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)
+[^c-db8e724c26ddd790514da58ad35bc7e8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/225) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Transitional provision in relation to EU Exit[^key-256d9535672325d5c10bab0fbe2661c2]
+## 23. Transitional provision in relation to EU Exit[^c-256d9535672325d5c10bab0fbe2661c2]
 
 *Extent: E+W+S*
 
@@ -29,14 +29,14 @@ summary: ''
 
 (3) Paragraph (2) does not apply to any obligation to take action outside of the United Kingdom in respect of that product.
 
-(4)[^key-c957d0f3194221cd1f9537cc84d1c496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c957d0f3194221cd1f9537cc84d1c496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-c957d0f3194221cd1f9537cc84d1c496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c957d0f3194221cd1f9537cc84d1c496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-c957d0f3194221cd1f9537cc84d1c496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c957d0f3194221cd1f9537cc84d1c496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-256d9535672325d5c10bab0fbe2661c2]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2001/1701/regulation/23) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 8 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/14) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(b)(iii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/b/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-256d9535672325d5c10bab0fbe2661c2]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2001/1701/regulation/23) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 8 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/14) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(b)(iii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/b/iii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c957d0f3194221cd1f9537cc84d1c496]: Textual amendment: [Reg. 23(4)-(6)](https://www.legislation.gov.uk/uksi/2001/1701/regulation/23/4) omitted (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2024/696/regulation/3/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-c957d0f3194221cd1f9537cc84d1c496]: Textual amendment: [Reg. 23(4)-(6)](https://www.legislation.gov.uk/uksi/2001/1701/regulation/23/4) omitted (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2024/696/regulation/3/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

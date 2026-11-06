@@ -102,7 +102,7 @@ Any other relevant physicochemical, toxicological and ecotoxicological informati
 
 [^c000013]: Textual amendment: Inserted by [Commission Regulation (EU) 2018/1881 of 3 December 2018 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes I, III,VI, VII, VIII, IX, X, XI, and XII to address nanoforms of substances (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/1881).
 
-[^f00079]: Footnote: Note: conditions for not requiring a specific test that are set out in regulations under[^key-284e976672565ef9ff74fddfab7139e2] Article 13(3) that are not repeated in column 2, also apply.
+[^f00079]: Footnote: Note: conditions for not requiring a specific test that are set out in regulations under[^c-284e976672565ef9ff74fddfab7139e2] Article 13(3) that are not repeated in column 2, also apply.
 
 [^c000011]: Textual amendment: Substituted by [Commission Regulation (EU) 2018/1881 of 3 December 2018 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes I, III,VI, VII, VIII, IX, X, XI, and XII to address nanoforms of substances (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/1881).
 
@@ -110,4 +110,4 @@ Any other relevant physicochemical, toxicological and ecotoxicological informati
 
 [^c000018]: Editorial: Substituted by [Corrigendum to Commission Regulation (EU) No 143/2011 of 17 February 2011 amending Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (‘REACH’) (Official Journal of the European Union L 44 of 18 February 2011)](https://www.legislation.gov.uk/eur/2011/143/pdfs/eurcs_20110143_en_001.pdf).
 
-[^key-284e976672565ef9ff74fddfab7139e2]: Annotation text not found in the source document.
+[^c-284e976672565ef9ff74fddfab7139e2]: Annotation text not found in the source document.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Standards report[^key-f9dd57a245d71c9465ebc8b0295fd775]
+## 64. Standards report[^c-f9dd57a245d71c9465ebc8b0295fd775]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ the report must set out the standards that are not specified.
 
 ## Annotations
 
-[^key-f9dd57a245d71c9465ebc8b0295fd775]: Commencement: [S. 64](https://www.legislation.gov.uk/mwa/2011/1/section/64) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(ii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/ii)
+[^c-f9dd57a245d71c9465ebc8b0295fd775]: Commencement: [S. 64](https://www.legislation.gov.uk/mwa/2011/1/section/64) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(ii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/ii)

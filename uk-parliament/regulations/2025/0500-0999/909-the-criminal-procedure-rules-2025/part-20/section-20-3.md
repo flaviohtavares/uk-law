@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20.3. Opposing the introduction of hearsay evidence[^key-6c3b148e8c31d153acc1b380c0411e24]
+## 20.3. Opposing the introduction of hearsay evidence[^c-6c3b148e8c31d153acc1b380c0411e24]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6c3b148e8c31d153acc1b380c0411e24]: Commencement: [Rule 20.3](https://www.legislation.gov.uk/uksi/2025/909/rule/20.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6c3b148e8c31d153acc1b380c0411e24]: Commencement: [Rule 20.3](https://www.legislation.gov.uk/uksi/2025/909/rule/20.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00479]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 8B was inserted by section 45 of, and Schedule 3 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and amended by paragraph 51 of Schedule 3, and Part 4 of Schedule 37, to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

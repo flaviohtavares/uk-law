@@ -42,13 +42,13 @@ Whereas a draft of this Order has been approved by resolution of each House of P
 
 Now, therefore, in exercise of the powers conferred on the appropriate Minister by section 11 of the Channel Tunnel Act 1987[^f00001], the Lord Chancellor, the Secretary of State for the Home Department, the Secretary of State for Health, the Minister of Agriculture, Fisheries and Food and the Commissioners of Customs and Excise hereby make the following Order:
 
-## 1. Citation and commencement[^key-24a306efebf6b5de5e8fdaa350e63c63]
+## 1. Citation and commencement[^c-24a306efebf6b5de5e8fdaa350e63c63]
 
 This Order may be cited as the Channel Tunnel (International Arrangements) Order 1993 and shall come into force on the date on which the Protocol between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic Concerning Frontier Controls and Policing, Co-operation in Criminal Justice, Public Safety and Mutual Assistance Relating to the Channel Fixed Link enters into force. That date will be notified in the London, Edinburgh and Belfast Gazettes.
 
-## 2. Interpretation[^key-0a027a14e78f47412c38c8d7507dd5a0]
+## 2. Interpretation[^c-0a027a14e78f47412c38c8d7507dd5a0]
 
-(1) In this Order, except for the purpose of construing the international articles or the supplementary articles[^key-76c9dcd4582630769b51905d5da7d044] or the 2012 Agreement[^key-c5bb735b59e126819858079e507a0084], and in any enactment as applied by it with modifications, any expression for which there is an entry in the first column of Schedule 1 has the meaning given against it in the second column.
+(1) In this Order, except for the purpose of construing the international articles or the supplementary articles[^c-76c9dcd4582630769b51905d5da7d044] or the 2012 Agreement[^c-c5bb735b59e126819858079e507a0084], and in any enactment as applied by it with modifications, any expression for which there is an entry in the first column of Schedule 1 has the meaning given against it in the second column.
 
 (2) In this Order “the authorised purposes” means—
 
@@ -59,15 +59,15 @@ of section 11(1) of the Channel Tunnel Act 1987.
 
 (3) In this Order “the international articles” means the provisions set out in Schedule 2 (being Articles or parts of Articles of the Protocol mentioned in article 1 above); and in the international articles the expression “the Fixed Link” shall for the purposes of this Order be taken to have the same meaning as is given to “the tunnel system” by section 1(7) of the Channel Tunnel Act 1987.
 
-(4)[^key-ec1fabd7c2df26aa54d7ce37bd2d032e] In this Order “the supplementary articles” means the provisions set out in Schedule 2A (being Articles of the Additional Protocol between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic and amendments to those Articles made by the amending instrument[^key-48a374ece15ce16aaa35b811c6d1d29f]), and in the supplementary articles “the Protocol signed at Sangatte” and “the Sangatte Protocol” mean the Protocol mentioned in article 1 above.
+(4)[^c-ec1fabd7c2df26aa54d7ce37bd2d032e] In this Order “the supplementary articles” means the provisions set out in Schedule 2A (being Articles of the Additional Protocol between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic and amendments to those Articles made by the amending instrument[^c-48a374ece15ce16aaa35b811c6d1d29f]), and in the supplementary articles “the Protocol signed at Sangatte” and “the Sangatte Protocol” mean the Protocol mentioned in article 1 above.
 
 (5) In paragraph (4) and in the supplementary articles, “Additional Protocol” means the Additional Protocol to the Sangatte Protocol on the Establishment of Bureaux Responsible for Controls on Persons Travelling by Train between France and the United Kingdom, signed at Brussels on 29th May 2000.
 
-(6)[^key-0c995526f43ad188ee720f055db5579b] In paragraph (4) “the amending instrument” means the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic making amendments to the Additional Protocol to the Sangatte Protocol on the Establishment of Bureaux responsible for controls on persons travelling by train between the United Kingdom and France, and to the Agreement concerning the carrying of service weapons by French officers on the territory of the United Kingdom of Great Britain and Northern Ireland, signed in Paris on 18th June 2007.
+(6)[^c-0c995526f43ad188ee720f055db5579b] In paragraph (4) “the amending instrument” means the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic making amendments to the Additional Protocol to the Sangatte Protocol on the Establishment of Bureaux responsible for controls on persons travelling by train between the United Kingdom and France, and to the Agreement concerning the carrying of service weapons by French officers on the territory of the United Kingdom of Great Britain and Northern Ireland, signed in Paris on 18th June 2007.
 
-(7)[^key-533c0265ce3d9fe577d5a3f2623c6a07] In this Order, the “2012 Agreement” means the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of France on Implementation of the Cyclamen Device in the French Terminal of the Channel Tunnel Situated in Coquelles signed in London on 10th May 2012.
+(7)[^c-533c0265ce3d9fe577d5a3f2623c6a07] In this Order, the “2012 Agreement” means the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of France on Implementation of the Cyclamen Device in the French Terminal of the Channel Tunnel Situated in Coquelles signed in London on 10th May 2012.
 
-## 3. Application of international articles[^key-50868cc46cbfdcd0431665c2c2af9152]
+## 3. Application of international articles[^c-50868cc46cbfdcd0431665c2c2af9152]
 
 (1) The international articles shall have the force of law in the United Kingdom—
 
@@ -77,62 +77,62 @@ of section 11(1) of the Channel Tunnel Act 1987.
 
 (2) Without prejudice to paragraph (1) officers belonging to the French Republic shall to the extent specified in the international articles have rights and obligations and powers to carry out functions in the United Kingdom.
 
-(3) For the purpose of giving full effect to Article 34 of the international articles (accommodation, etc., for authorities of adjoining State) the appropriate Minister may by written notice require any occupier or person concerned with the management of a terminal control point to provide free of charge[^key-743d4aba601400ad0c0335428c07bfe8] such accommodation, installations and equipment as may be necessary to satisfy requirements determined under Article 33 of the Protocol mentioned in article 1 above (which requires the competent authorities of the two States to determine their respective requirements in consultation with one another).
+(3) For the purpose of giving full effect to Article 34 of the international articles (accommodation, etc., for authorities of adjoining State) the appropriate Minister may by written notice require any occupier or person concerned with the management of a terminal control point to provide free of charge[^c-743d4aba601400ad0c0335428c07bfe8] such accommodation, installations and equipment as may be necessary to satisfy requirements determined under Article 33 of the Protocol mentioned in article 1 above (which requires the competent authorities of the two States to determine their respective requirements in consultation with one another).
 
-## 3A. Application of supplementary articles[^key-06c2ae6db1a8c3298a063909ad57e084]
+## 3A. Application of supplementary articles[^c-06c2ae6db1a8c3298a063909ad57e084]
 
 (1) The supplementary articles shall have the force of law in the United Kingdom within a supplementary control zone.
 
-(2) Subject to paragraph (4),[^key-986156e2194861487d5e74353b44df0e] without prejudice to paragraph (1), officers belonging to the French Republic who are responsible for immigration controls shall to the extent specified in the supplementary articles have rights and obligations and powers to carry out functions in the United Kingdom.
+(2) Subject to paragraph (4),[^c-986156e2194861487d5e74353b44df0e] without prejudice to paragraph (1), officers belonging to the French Republic who are responsible for immigration controls shall to the extent specified in the supplementary articles have rights and obligations and powers to carry out functions in the United Kingdom.
 
-(3)[^key-b497a8759b9a6f09a6d9a11c49c303a4] Subject to paragraph (4),[^key-1dca77201b14e4fef2abf2e3f2e5b90b] for the purpose of enabling the authorities of the French Republic to make use in the United Kingdom of the accommodation, installations and equipment necessary for the performance of their functions under the supplementary articles, the Secretary of State for the Home Department may by written notice require any occupier or person concerned with the management of a terminal control point to provide free of charge such accommodation, installations and equipment as may be necessary to satisfy requirements determined by the authorities of the French Republic in consultation with the authorities of the United Kingdom.
+(3)[^c-b497a8759b9a6f09a6d9a11c49c303a4] Subject to paragraph (4),[^c-1dca77201b14e4fef2abf2e3f2e5b90b] for the purpose of enabling the authorities of the French Republic to make use in the United Kingdom of the accommodation, installations and equipment necessary for the performance of their functions under the supplementary articles, the Secretary of State for the Home Department may by written notice require any occupier or person concerned with the management of a terminal control point to provide free of charge such accommodation, installations and equipment as may be necessary to satisfy requirements determined by the authorities of the French Republic in consultation with the authorities of the United Kingdom.
 
-(4)[^key-f22ffeb999a029e395f0f6f32c9431fe] Nothing in this article implies the existence of a supplementary control zone in the station of London-Waterloo on British Territory.
+(4)[^c-f22ffeb999a029e395f0f6f32c9431fe] Nothing in this article implies the existence of a supplementary control zone in the station of London-Waterloo on British Territory.
 
-## 4. Application of enactments[^key-372c65e9177dc80af13b1ef60bf4de81]
+## 4. Application of enactments[^c-372c65e9177dc80af13b1ef60bf4de81]
 
-(1) All frontier control enactments except those relating to transport and road traffic controls[^key-3fdfd453da023150cffaae323f40f9b7] shall for the purpose of enabling officers belonging to the United Kingdom to carry out frontier controls extend to France within a control zone.
+(1) All frontier control enactments except those relating to transport and road traffic controls[^c-3fdfd453da023150cffaae323f40f9b7] shall for the purpose of enabling officers belonging to the United Kingdom to carry out frontier controls extend to France within a control zone.
 
-(1A)[^key-920ebd6a8e222f26bdd0baa07c2214b4] All frontier control enactments relating to transport and road traffic controls shall for the purpose of enabling officers belonging to the United Kingdom to carry out such controls extend to France within the control zone in France within the tunnel system.
+(1A)[^c-920ebd6a8e222f26bdd0baa07c2214b4] All frontier control enactments relating to transport and road traffic controls shall for the purpose of enabling officers belonging to the United Kingdom to carry out such controls extend to France within the control zone in France within the tunnel system.
 
-(1AA)[^key-f8ad386c86e3f1dc59bd02f1e26f5fd0] All security control enactments shall for the purpose of enabling officers belonging to the United Kingdom to carry out security controls extend to France within the tunnel system.
+(1AA)[^c-f8ad386c86e3f1dc59bd02f1e26f5fd0] All security control enactments shall for the purpose of enabling officers belonging to the United Kingdom to carry out security controls extend to France within the tunnel system.
 
-(1B)[^key-ec2e6c878ad06c43f33193fff0162a40] All immigration control enactments shall, for the purpose of enabling immigration officers to carry out immigration controls, extend to France within a supplementary control zone.
+(1B)[^c-ec2e6c878ad06c43f33193fff0162a40] All immigration control enactments shall, for the purpose of enabling immigration officers to carry out immigration controls, extend to France within a supplementary control zone.
 
-(1C)[^key-8b219823ecd8dd2ae5f5ea7cd7fb51b0] The Equality Act 2010[^key-7a07ff8e2a53a4056f65d6561dfcdf0c] shall apply to the carrying out by immigration officers of their functions in a control zone or a supplementary control zone outside the United Kingdom as it applies to the carrying out of their functions within the United Kingdom.
+(1C)[^c-8b219823ecd8dd2ae5f5ea7cd7fb51b0] The Equality Act 2010[^c-7a07ff8e2a53a4056f65d6561dfcdf0c] shall apply to the carrying out by immigration officers of their functions in a control zone or a supplementary control zone outside the United Kingdom as it applies to the carrying out of their functions within the United Kingdom.
 
-(2)[^key-8f7a9b2eaf9ce2eb5bb458a4e9a5a339] For the purposes of Article 3 of the UK GDPR and[^key-7cfa5e43255970495efaf57898ed9a37] section 207 of the Data Protection Act 2018 (“the 2018 Act”), data which is[^key-7fca7a15143f63e23b5e8b6504dc7e75]—
+(2)[^c-8f7a9b2eaf9ce2eb5bb458a4e9a5a339] For the purposes of Article 3 of the UK GDPR and[^c-7cfa5e43255970495efaf57898ed9a37] section 207 of the Data Protection Act 2018 (“the 2018 Act”), data which is[^c-7fca7a15143f63e23b5e8b6504dc7e75]—
 
-- (a) processed within a control zone in France in connection with the carrying out of frontier controls by an officer belonging to the United Kingdom, [^key-9794f81458173db8a04bbe742459c75a]...
-- (b) processed within a supplementary control zone in France in connection with the carrying out of immigration controls by an immigration officer, or[^key-717323bf6c2141759d02570019552663]
+- (a) processed within a control zone in France in connection with the carrying out of frontier controls by an officer belonging to the United Kingdom, [^c-9794f81458173db8a04bbe742459c75a]...
+- (b) processed within a supplementary control zone in France in connection with the carrying out of immigration controls by an immigration officer, or[^c-717323bf6c2141759d02570019552663]
 - (c) processed within the tunnel system in France in connection with the carrying out of security controls by an officer belonging to the United Kingdom,
 
-shall be treated as processed by a controller[^key-d7078c7c35cbb708b5c8786bb9eefc92] established in the United Kingdom in the context of the activities of[^key-cfce230e443ee7d2f55320020c5a4bac] that establishment (and[^key-49dadd38a3e63e34bae6ddda9be3d7a7] the UK GDPR and[^key-de11e58858a0dffd069bb78db24f97e1] the 2018 Act shall accordingly apply in respect of such data).
+shall be treated as processed by a controller[^c-d7078c7c35cbb708b5c8786bb9eefc92] established in the United Kingdom in the context of the activities of[^c-cfce230e443ee7d2f55320020c5a4bac] that establishment (and[^c-49dadd38a3e63e34bae6ddda9be3d7a7] the UK GDPR and[^c-de11e58858a0dffd069bb78db24f97e1] the 2018 Act shall accordingly apply in respect of such data).
 
-(3)[^key-7005fd454f93ebd19804080a4d2c8ca4] For the purposes of Article 3 of the UK GDPR and[^key-3e94663d27acbb1abe5082d5ee9a2be0] section 207 of the 2018 Act, data which is[^key-896e58f3ddd672a4d74113a30510fb8d]—
+(3)[^c-7005fd454f93ebd19804080a4d2c8ca4] For the purposes of Article 3 of the UK GDPR and[^c-3e94663d27acbb1abe5082d5ee9a2be0] section 207 of the 2018 Act, data which is[^c-896e58f3ddd672a4d74113a30510fb8d]—
 
 - (a) processed within a control zone in the United Kingdom in connection with the carrying out of frontier controls by an officer belonging to the French Republic, or
 - (b) processed within a supplementary control zone in the United Kingdom in connection with the carrying out of immigration controls by such an officer,
 
-shall be treated as processed by a controller[^key-33766aced6fb342d292c123d7a2b5d47] established in France in the context of the activities of[^key-b2c5abf0ece32c3b99ae22b2f5738cbb] that establishment (and[^key-3844ee92fda5e4eefdf28bc49b1f2879] the UK GDPR and[^key-fe0c7a7db98103f49557a90167d0b33d] the 2018 Act shall accordingly not apply in respect of such data).
+shall be treated as processed by a controller[^c-33766aced6fb342d292c123d7a2b5d47] established in France in the context of the activities of[^c-b2c5abf0ece32c3b99ae22b2f5738cbb] that establishment (and[^c-3844ee92fda5e4eefdf28bc49b1f2879] the UK GDPR and[^c-fe0c7a7db98103f49557a90167d0b33d] the 2018 Act shall accordingly not apply in respect of such data).
 
-(4)[^key-85c1ace37b5cdd08aabf26fa68462a4e] In this article, “**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018.
+(4)[^c-85c1ace37b5cdd08aabf26fa68462a4e] In this article, “**the UK GDPR**” has the meaning given in section 3(10) of the Data Protection Act 2018.
 
-## 5. Application of criminal law[^key-37e7cb6d515222c4a4a5ab02ecdd2de0]
+## 5. Application of criminal law[^c-37e7cb6d515222c4a4a5ab02ecdd2de0]
 
 (1) Any act or omission which—
 
 - (a) takes place outside the United Kingdom in a control zone, and
 - (b) would, if taking place in England, constitute an offence under a frontier control enactment,
 
-or any act or omission which—[^key-1abf022d93adc741798763f40dd8c430]
+or any act or omission which—[^c-1abf022d93adc741798763f40dd8c430]
 
 - (c) takes place outside the United Kingdom in a supplementary control zone, and
 - (d) would, if taking place in England, constitute an offence under an immigration control enactment,
 
 shall be treated for the purposes of that enactment as taking place in England.
 
-(1ZA)[^key-32d0a34c29e9a947b4f03acb6b47c169] Any act or omission which—
+(1ZA)[^c-32d0a34c29e9a947b4f03acb6b47c169] Any act or omission which—
 
 - (a) takes place inside the United Kingdom in a control zone and relates to an officer belonging to the French Republic; and
 - (b) would constitute an offence under a frontier control enactment if it took place in relation to an officer belonging to the United Kingdom,
@@ -141,48 +141,48 @@ shall be treated for the purposes of that enactment as if it were an act or omis
 
 (1ZB) Section 22 of the UK Borders Act 2007 is modified for the purposes of paragraph (1ZA) so that the reference in subsection (1) of that section to an immigration officer includes a reference to an officer belonging to the French Republic.
 
-(1A)[^key-272c108faf7653d0ece494f41efd8586] Summary proceedings for anything that is by virtue of paragraph (1) or (1ZA)[^key-91acdf3606f928976e03b41cabb7e8d6] an offence triable summarily or triable either way may be taken, and the offence may for all incidental purposes be treated as having been committed, in the county of Kent or in the area comprising the inner London boroughs[^key-ae68a8de5f78e4e1d3bdc1555a881e92].
+(1A)[^c-272c108faf7653d0ece494f41efd8586] Summary proceedings for anything that is by virtue of paragraph (1) or (1ZA)[^c-91acdf3606f928976e03b41cabb7e8d6] an offence triable summarily or triable either way may be taken, and the offence may for all incidental purposes be treated as having been committed, in the county of Kent or in the area comprising the inner London boroughs[^c-ae68a8de5f78e4e1d3bdc1555a881e92].
 
-(2) Any jurisdiction conferred by virtue of paragraphs (1), (1ZA) and (1A)[^key-4f8929e3a619fa771703f97dffd0bda5] on any court is without prejudice to any jurisdiction exercisable apart from this article by that or any other court.
+(2) Any jurisdiction conferred by virtue of paragraphs (1), (1ZA) and (1A)[^c-4f8929e3a619fa771703f97dffd0bda5] on any court is without prejudice to any jurisdiction exercisable apart from this article by that or any other court.
 
 (3) Where it is proposed to institute proceedings in respect of an alleged offence in any court and a question as to the court’s jurisdiction arises under Article 38(2)(a) of the international articles, it shall be presumed, unless the contrary is proved, that the court has jurisdiction by virtue of that Article.
 
-## 5A. Persons boarding a through train[^key-07994c43a91492eed52914d76066234a]
+## 5A. Persons boarding a through train[^c-07994c43a91492eed52914d76066234a]
 
 For the purposes of the exercise of any power of an immigration officer in a supplementary control zone in France, any person who seeks to board a through train shall be deemed to be seeking to arrive in the United Kingdom through the tunnel system.
 
-## 6. Powers of officers and supplementary controls[^key-f19954d9513f6629a8a3e41ce31a4b64]
+## 6. Powers of officers and supplementary controls[^c-f19954d9513f6629a8a3e41ce31a4b64]
 
 Schedule 3 (which contains in Part I provision as to powers exercisable by constables and other officers and in Part II provision for meeting obligations under Article 25 of the Protocol mentioned in article 1 above concerning the prevention of animals from straying into the Fixed Link) shall have effect.
 
-## 7. Enactments modified[^key-ee543a38c5fcc3e75d1645d6afaba0ca]
+## 7. Enactments modified[^c-ee543a38c5fcc3e75d1645d6afaba0ca]
 
-(1) Without prejudice to the generality of articles 4(1), 4(1B) and 5(1)[^key-1c2a7a7c7a267b184e3e5393f3aeb8ee], the frontier control enactments mentioned in Schedule 4 shall—
+(1) Without prejudice to the generality of articles 4(1), 4(1B) and 5(1)[^c-1c2a7a7c7a267b184e3e5393f3aeb8ee], the frontier control enactments mentioned in Schedule 4 shall—
 
-- (a) in their application to France by virtue of article 4(1) or article 4(1B)[^key-ba7de45a8ceaa34b3c68e2733ae14a9d], and
+- (a) in their application to France by virtue of article 4(1) or article 4(1B)[^c-ba7de45a8ceaa34b3c68e2733ae14a9d], and
 - (b) in their application to the United Kingdom—
   - (i) within the tunnel system, and
   - (ii) elsewhere for the authorised purposes,
 
   have effect with the modifications set out in Schedule 4.
 
-(1A)[^key-1c081f6deb758f8226ab7e7e78316679] Nothing in paragraph (1)(b)(ii) implies the existence of a supplementary control zone in the station of London-Waterloo on British Territory.
+(1A)[^c-1c081f6deb758f8226ab7e7e78316679] Nothing in paragraph (1)(b)(ii) implies the existence of a supplementary control zone in the station of London-Waterloo on British Territory.
 
-(2) Subject to paragraph (3), within a control zone or a supplementary control zone[^key-a4e87f6bbd120fcaab0ac797aba90a85] and on trains within the tunnel system section 54(3) of the Firearms Act 1968[^f00003] (application to Crown servants) shall have effect as if the reference to a member of a police force included a reference to an officer belonging to the French Republic exercising functions as mentioned in Article 28(2) of the international articles or functions under Article 3 of the supplementary articles.
+(2) Subject to paragraph (3), within a control zone or a supplementary control zone[^c-a4e87f6bbd120fcaab0ac797aba90a85] and on trains within the tunnel system section 54(3) of the Firearms Act 1968[^f00003] (application to Crown servants) shall have effect as if the reference to a member of a police force included a reference to an officer belonging to the French Republic exercising functions as mentioned in Article 28(2) of the international articles or functions under Article 3 of the supplementary articles.
 
 (3) As respects officers exercising their functions in a control zone paragraph (2) applies only to the agreed number of specifed officers mentioned in Article 28(2)(b) of the international articles.
 
-(3A)[^key-acbd7decddbd0f039b66662d2f71304b] As respects officers exercising their functions in a supplementary control zone paragraph (2) applies only to the number of specified officers agreed in pursuance of the supplementary articles.
+(3A)[^c-acbd7decddbd0f039b66662d2f71304b] As respects officers exercising their functions in a supplementary control zone paragraph (2) applies only to the number of specified officers agreed in pursuance of the supplementary articles.
 
-(4)[^key-f0eaa7359ad179b47cf6859b169d9c36] The frontier control enactments relating to transport and road traffic controls in their application to France within the control zone in France within the tunnel system by virtue of article 4(1A) shall have effect as if any reference therein to a “public road” or “road” were a reference to any part of that control zone.
+(4)[^c-f0eaa7359ad179b47cf6859b169d9c36] The frontier control enactments relating to transport and road traffic controls in their application to France within the control zone in France within the tunnel system by virtue of article 4(1A) shall have effect as if any reference therein to a “public road” or “road” were a reference to any part of that control zone.
 
-## 8. Amendments of enactments and instruments[^key-d32ab0245f38e4909a0fdf3d5c571245]
+## 8. Amendments of enactments and instruments[^c-d32ab0245f38e4909a0fdf3d5c571245]
 
 (1) The enactments mentioned in Part I of Schedule 5 shall have effect subject to the amendments there specified.
 
 (2) The instruments mentioned in Part II of Schedule 5 shall have effect subject to the amendments there specified.
 
-## 9. Repeals and revocations[^key-dfd4990a6952dacbf4f6f3cde1d3b39c]
+## 9. Repeals and revocations[^c-dfd4990a6952dacbf4f6f3cde1d3b39c]
 
 (1) The enactments mentioned in Part I of Schedule 6 are repealed to the extent there specified.
 
@@ -220,34 +220,34 @@ Commissioner of Customs and Excise
 
 16th July 1993
 
-## SCHEDULE 1 — EXPRESSIONS DEFINED[^key-b6065b4e4ac212ed1e35bbcb35ff2eed]
+## SCHEDULE 1 — EXPRESSIONS DEFINED[^c-b6065b4e4ac212ed1e35bbcb35ff2eed]
 
 Article 2(1)
 
 | *Expression* | *Meaning* |
 | --- | --- |
-| “2012 Agreement”[^key-9c6ae7b4253fbddd13fd39fe80b002ce] | The meaning given by article 2(7) |
+| “2012 Agreement”[^c-9c6ae7b4253fbddd13fd39fe80b002ce] | The meaning given by article 2(7) |
 | “The Concessionaires” | The meaning given by section 1(8) (read with section 3(3)) of the Channel Tunnel Act 1987. |
 | “Control zone” | A control zone within the meaning of the international articles. |
-| “Frontier controls” | So far as they constitute frontier controls within themeaning of the international articles and are controls in relation to persons or goods, police, immigration, customs, health, veterinary and phytosanitary , and transport and road traffic[^key-a73337eb976e4f2bd8869d5069b5ed7e] controls. |
+| “Frontier controls” | So far as they constitute frontier controls within themeaning of the international articles and are controls in relation to persons or goods, police, immigration, customs, health, veterinary and phytosanitary , and transport and road traffic[^c-a73337eb976e4f2bd8869d5069b5ed7e] controls. |
 | “Frontier control enactment” | An Act, or an instrument made under an Act, for the time being in force, which contains provision relating to frontier controls. |
-| “Immigration control enactment”[^key-8cc5749309f48d098cd027b419e97a8b] | An Act, or an instrument made under an Act, for the time being in force, which contains provision relating to immigration controls. |
+| “Immigration control enactment”[^c-8cc5749309f48d098cd027b419e97a8b] | An Act, or an instrument made under an Act, for the time being in force, which contains provision relating to immigration controls. |
 | “Immigration officer” | The same meaning as in the Immigration Act 1971. |
 | “The international articles” | The meaning given by article 2(3) above. |
 | “International service” | The meaning given in section 13(6) of the Channel Tunnel Act 1987. |
 | “security control enactment” | An Act, or an instrument made under an Act, for the time being in force, which contains provision relating to security controls |
 | “security controls” | Controls in relation to customs carried out for the purposes of the 2012 Agreement |
 | “Shuttle train” | The meaning given in section 1(9) of the Channel Tunnel Act 1987. |
-| “State of arrival”[^key-a173d09b84c06d6b01f640b5791aa01b] | The meaning given by the supplementary articles. |
+| “State of arrival”[^c-a173d09b84c06d6b01f640b5791aa01b] | The meaning given by the supplementary articles. |
 | “State of departure” | The meaning given by the supplementary articles |
 | “The supplementary articles” | The meaning given by article 2(4) above. |
-| “Supplementary control zone” | The part of the territory of the State of departure, determined by mutual agreement between the Governments of the State of departure and the State of arrival[^key-b3d73ff7dc7bdfe0d17b9b95260bee36] but excluding the station of London-Waterloo on British territory[^key-b9b2930ff9aa078cf76fc44c7f18aa7d], within which the officers of the State of arrival are empowered to effect controls under the supplementary articles. |
+| “Supplementary control zone” | The part of the territory of the State of departure, determined by mutual agreement between the Governments of the State of departure and the State of arrival[^c-b3d73ff7dc7bdfe0d17b9b95260bee36] but excluding the station of London-Waterloo on British territory[^c-b9b2930ff9aa078cf76fc44c7f18aa7d], within which the officers of the State of arrival are empowered to effect controls under the supplementary articles. |
 | “Terminal control point” | A place which is an authorised terminal control point for international services for the purposes of sections 11 and 12 of the Channel Tunnel Act 1987. |
 | “Through train” | A train, other than a shuttle train, which for the purposes of sections 11 and 12 of the Channel Tunnel Act 1987 is engaged on an international service. |
 | “Train manager” | In relation to a through train or shuttle train, the person designated as train manager by the person operating the international service on which the train is engaged. |
 | “The tunnel system” | The meaning given by section 1(7) of the Channel Tunnel Act 1987. |
 
-## SCHEDULE 2 — INTERNATIONAL ARTICLES[^key-5909bcdaf587d313455f99fbe27250c4]
+## SCHEDULE 2 — INTERNATIONAL ARTICLES[^c-5909bcdaf587d313455f99fbe27250c4]
 
 Article 2(3)
 
@@ -503,7 +503,7 @@ In the case of arrests covered by Articles 39 and 40:
 
 The procedures for the implementation of this Protocol may, as far as necessary, be the subject of technical or administrative arrangements between the competent authorities of the two States.
 
-## SCHEDULE 2A — SUPPLEMENTARY ARTICLES[^key-440aa2d3f445fe41c25b2f5153b59f66]
+## SCHEDULE 2A — SUPPLEMENTARY ARTICLES[^c-440aa2d3f445fe41c25b2f5153b59f66]
 
 Article 2(4)
 
@@ -520,7 +520,7 @@ The authorities of the two States shall jointly put in place control bureaux, fo
 
 The provisions of the Protocol signed at Sangatte concerning the officers of the adjoining State shall be applicable, under the same conditions, to the officers of the State of arrival who are on duty in the stations mentioned in the preceding paragraph.
 
-### Amendments to Article 2[^key-8f53f16c49eacc831b4d2c2e9fd31d63]
+### Amendments to Article 2[^c-8f53f16c49eacc831b4d2c2e9fd31d63]
 
 In addition to the stations referred to in Article 2, control bureaux shall also be established at the station of Ebbsfleet International on British Territory.
 
@@ -554,13 +554,13 @@ The procedures for the implementation of this Additional Protocol may, as far as
 
 Article 6
 
-### PART I — POWERS OF OFFICERS[^key-e0f5ae41f09e6170863468d663c7b0f1]
+### PART I — POWERS OF OFFICERS[^c-e0f5ae41f09e6170863468d663c7b0f1]
 
-#### 1. Power to assist French authorities[^key-5b49c457c5d7ece3cd120fd367fbfd5c]
+#### 1. Power to assist French authorities[^c-5b49c457c5d7ece3cd120fd367fbfd5c]
 
 (1) Where—
 
-- (a) an officer belonging to the French Republic has in a control zone in the United Kingdom or in a supplementary control zone in the United Kingdom[^key-bf0081328e2f2595e39fa6fb11b59f52] arrested or detained a person as permitted by Article 10(1) of the international articles and Article 2 of the supplementary articles, and
+- (a) an officer belonging to the French Republic has in a control zone in the United Kingdom or in a supplementary control zone in the United Kingdom[^c-bf0081328e2f2595e39fa6fb11b59f52] arrested or detained a person as permitted by Article 10(1) of the international articles and Article 2 of the supplementary articles, and
 - (b) such an officer so requests,
 
 a constable or an officer commissioned by the Commissioners of Customs and Excise under section 6(3) of the Customs and Excise Management Act 1979[^f00004] (in this Schedule referred to as a “customs officer”) may make arrangements for the person to be taken into temporary custody.
@@ -568,35 +568,35 @@ a constable or an officer commissioned by the Commissioners of Customs and Excis
 (2) A person taken into temporary custody under sub-paragraph (1)—
 
 - (a) shall be treated for all purposes as being in lawful custody, and
-- (b) may be taken to a police station or such other place as may be appropriate in the circumstances, and shall in that case be treated as being a person in whose case sections 36(7) and (8), 54 to 56 and 58 of the Police and Criminal Evidence Act 1984[^f00005] (in this Schedule referred to as “the 1984 Act”), and in the case of a child or young person section 34(2) to (9)[^key-88d79c8d2673768c6ab33aa1a5fdebe2] of the Children and Young Persons Act 1933[^f00006], apply, and
-- (c) must be returned, before the end of the period for which he could in the circumstances be detained in the United Kingdom under Article 10 of the international articles or Article 2 of the supplementary articles[^key-00d814fd4683fe702c62c0385beef333], to a place where detention under that Article could be resumed.
+- (b) may be taken to a police station or such other place as may be appropriate in the circumstances, and shall in that case be treated as being a person in whose case sections 36(7) and (8), 54 to 56 and 58 of the Police and Criminal Evidence Act 1984[^f00005] (in this Schedule referred to as “the 1984 Act”), and in the case of a child or young person section 34(2) to (9)[^c-88d79c8d2673768c6ab33aa1a5fdebe2] of the Children and Young Persons Act 1933[^f00006], apply, and
+- (c) must be returned, before the end of the period for which he could in the circumstances be detained in the United Kingdom under Article 10 of the international articles or Article 2 of the supplementary articles[^c-00d814fd4683fe702c62c0385beef333], to a place where detention under that Article could be resumed.
 
-(3)[^key-67cd31517a0feae338df89b82f26bb51] Where a person falls to be treated as mentioned in sub-paragraph (2)(b) section 56 of the 1984 Act shall be taken to apply as if he were detained for an indictable offence[^key-368295f9755b38b5e542a8aae7fb75d8].
+(3)[^c-67cd31517a0feae338df89b82f26bb51] Where a person falls to be treated as mentioned in sub-paragraph (2)(b) section 56 of the 1984 Act shall be taken to apply as if he were detained for an indictable offence[^c-368295f9755b38b5e542a8aae7fb75d8].
 
-#### 2. Powers of arrest and detention outside United Kingdom[^key-570092824662c8efa5ad2094f2a5f6cd][^key-1e1b4c3749ab4031b9d6239f990a635f]
+#### 2. Powers of arrest and detention outside United Kingdom[^c-570092824662c8efa5ad2094f2a5f6cd][^c-1e1b4c3749ab4031b9d6239f990a635f]
 
 (1) A constable may in a control zone in France—
 
-- (a) exercise any power of arrest conferred by a frontier control enactment or conferred by section 24 of[^key-64ec8180dac565786ff2036c80caaf29] the 1984 Act in respect of an offence under such an enactment,
+- (a) exercise any power of arrest conferred by a frontier control enactment or conferred by section 24 of[^c-64ec8180dac565786ff2036c80caaf29] the 1984 Act in respect of an offence under such an enactment,
 - (b) make any arrest authorised by a warrant issued by a court in the United Kingdom, and
-- (c) arrest any person whose name or description or both, together with particulars of an indictable offence[^key-50951094b6f3447b66e4065a833fc41d] of which there are reasonable grounds for suspecting him to be guilty, have been made available by a chief officer of police to other such officers.
+- (c) arrest any person whose name or description or both, together with particulars of an indictable offence[^c-50951094b6f3447b66e4065a833fc41d] of which there are reasonable grounds for suspecting him to be guilty, have been made available by a chief officer of police to other such officers.
 
 (2) For the purposes of sub-paragraph (1)(a) the reference in sub-paragraph (1) to a constable shall be construed—
 
-- (a) in relation to the powers of arrest conferred by section 28A(1) and (3)[^key-0093b0847f5a636d5ce5ae4663ec1506] of and paragraph 17(1) of Schedule 2 to the Immigration Act 1971[^f00007], as including a reference both—
+- (a) in relation to the powers of arrest conferred by section 28A(1) and (3)[^c-0093b0847f5a636d5ce5ae4663ec1506] of and paragraph 17(1) of Schedule 2 to the Immigration Act 1971[^f00007], as including a reference both—
   - (i) to an immigration officer appointed for the purposes of that Act under paragraph 1 of that Schedule, and
   - (ii) to an officer of customs and excise who is the subject of arrangements for the employment of such officers as immigration officers made under that paragraph by the Secretary of State,
 
-  and where this sub-paragraph applies, the reference in sub-paragraph (1) to a control zone in France shall be construed as including a reference to a supplementary control zone in France,[^key-db8d784ceb2245b969439def84a9966e]
-- (b)[^key-ed7762045cd9e528ecc7499cc3140f20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) in relation to any arrest that may be made by a customs officer by virtue of section 138 of the Customs and Excise Management Act 1979 and an arrest for a drug trafficking offence as defined in paragraphs 1 and 10 of Schedule 2 to the Proceeds of Crime Act 2002[^key-6b5a5545b63d82a6868d4e0c489f5b48], as including a reference to a customs officer.
+  and where this sub-paragraph applies, the reference in sub-paragraph (1) to a control zone in France shall be construed as including a reference to a supplementary control zone in France,[^c-db8d784ceb2245b969439def84a9966e]
+- (b)[^c-ed7762045cd9e528ecc7499cc3140f20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) in relation to any arrest that may be made by a customs officer by virtue of section 138 of the Customs and Excise Management Act 1979 and an arrest for a drug trafficking offence as defined in paragraphs 1 and 10 of Schedule 2 to the Proceeds of Crime Act 2002[^c-6b5a5545b63d82a6868d4e0c489f5b48], as including a reference to a customs officer.
 
 (3) A customs officer may
 
-- (a)[^key-bc771ad0f06ecc3c476f4962b4828def] in a control zone in France arrest any person whose name or description or both, together with particulars of an arrestable offence (within the meaning of section 24 of the 1984 Act) which is an offence in relation to an assigned matter as defined in section 1(1) of the Customs and Excise Management Act 1979 and of which there are reasonable grounds for suspecting him to be guilty, have been made available to customs officers generally under the authority of the Commissioners of Customs and Excise ;[^key-e2f67401e17bceb2cc0e7638d6d71e31]
+- (a)[^c-bc771ad0f06ecc3c476f4962b4828def] in a control zone in France arrest any person whose name or description or both, together with particulars of an arrestable offence (within the meaning of section 24 of the 1984 Act) which is an offence in relation to an assigned matter as defined in section 1(1) of the Customs and Excise Management Act 1979 and of which there are reasonable grounds for suspecting him to be guilty, have been made available to customs officers generally under the authority of the Commissioners of Customs and Excise ;[^c-e2f67401e17bceb2cc0e7638d6d71e31]
 - (b) within the tunnel system exercise any power of arrest conferred by a security control enactment in connection with the carrying out of security controls.
 
-(3A)[^key-82caf97d6b82edee098baf0d4b43a759] An immigration officer may exercise the power of detention conferred by section 2(1) of the UK Borders Act 2007 in a control zone in France in respect of—
+(3A)[^c-82caf97d6b82edee098baf0d4b43a759] An immigration officer may exercise the power of detention conferred by section 2(1) of the UK Borders Act 2007 in a control zone in France in respect of—
 
 - (a) an individual who the immigration officer thinks might be liable to arrest by a constable under section 24(1), (2) or (3) of the Police and Criminal Evidence Act 1984 for an act or omission which would constitute an offence under a frontier control enactment if it had taken place in England, or
 - (b) an individual subject to a warrant for arrest who is sought by the United Kingdom authorities.
@@ -606,7 +606,7 @@ a constable or an officer commissioned by the Commissioners of Customs and Excis
 - (a) an individual who an immigration officer thinks might be liable to arrest by a constable under section 24(1), (2) or (3) of the Police and Criminal Evidence Act 1984 for an act or omission which would constitute an offence under an immigration control enactment if it had taken place in England, or
 - (b) an individual subject to a warrant for arrest who is sought by the United Kingdom authorities.
 
-(4) For the purpose of enabling constables to make arrests in France in the cases described in Article 40 of the international articles section 24[^key-cea6b7bb7d72760897a5e34d48d2d0be] of the 1984 Act shall extend to France.
+(4) For the purpose of enabling constables to make arrests in France in the cases described in Article 40 of the international articles section 24[^c-cea6b7bb7d72760897a5e34d48d2d0be] of the 1984 Act shall extend to France.
 
 (5) Where—
 
@@ -624,31 +624,31 @@ the person arrested shall be treated as having continued to be under arrest thro
 
 (7) Any power conferred by an enactment to search an arrested person may be exercised following an arrest authorised by this paragraph as if the person had been arrested in the United Kingdom.
 
-#### 3. Arrested persons held in France[^key-b08f4e47f38d189501b29bf73e49c769]
+#### 3. Arrested persons held in France[^c-b08f4e47f38d189501b29bf73e49c769]
 
 (1) Where—
 
-- (a) an arrest of any kind authorised by paragraph 2 above has been made in a control zone in France or in a supplementary control zone in France[^key-db7ef46f29bcdd051791ab68305718ef], or
+- (a) an arrest of any kind authorised by paragraph 2 above has been made in a control zone in France or in a supplementary control zone in France[^c-db7ef46f29bcdd051791ab68305718ef], or
 - (b) an arrest of any such kind has been made in the United Kingdom and the person arrested enters such a control zone while under arrest,
 
 the person arrested may be held in France for a period of not more than 24 hours and, if there are exceptional circumstances and an officer belonging to the French Republic is notified of the extension, for a further such period.
 
-(2) The[^key-1cecf5e935b61f509f4301829498fb99] person arrested shall be treated as if the place where he is held were for the purposes of the provisions mentioned in paragraph 1(2)(b) above and those of sections 61 to 64A[^key-b795b559ae88a65d41280e79141aa1a3] of the 1984 Act a police station [^key-4bfd5195e9545a45cfb9cef34c7036f2]... in England, not being a police station designated under section 35 of the 1984 Act, and section 34(1) to (5E) of the 1984 Act shall also apply in such a case[^key-88148c5008add9634c9bfadeec3ad8a1].
+(2) The[^c-1cecf5e935b61f509f4301829498fb99] person arrested shall be treated as if the place where he is held were for the purposes of the provisions mentioned in paragraph 1(2)(b) above and those of sections 61 to 64A[^c-b795b559ae88a65d41280e79141aa1a3] of the 1984 Act a police station [^c-4bfd5195e9545a45cfb9cef34c7036f2]... in England, not being a police station designated under section 35 of the 1984 Act, and section 34(1) to (5E) of the 1984 Act shall also apply in such a case[^c-88148c5008add9634c9bfadeec3ad8a1].
 
-(2A)[^key-62238222f485ed07431e5bf860cfee4f] Subject to sub-paragraph (3), the person arrested, where the arrest was made by a customs officer, shall be treated as if the place where the person is held were for the purposes of the provisions mentioned in paragraph 1(2)(b) above and those of sections 61 to 63 and 63D of the 1984 Act a customs office in England, not being a customs office designated under section 35 of the 1984 Act.
+(2A)[^c-62238222f485ed07431e5bf860cfee4f] Subject to sub-paragraph (3), the person arrested, where the arrest was made by a customs officer, shall be treated as if the place where the person is held were for the purposes of the provisions mentioned in paragraph 1(2)(b) above and those of sections 61 to 63 and 63D of the 1984 Act a customs office in England, not being a customs office designated under section 35 of the 1984 Act.
 
 (3) Where—
 
-- (a) an arrest falling within paragraph 2(1)(a) or (3) (a) or (b)[^key-01adcc7f79af7bdef23ff004d693fdb1] above has been made by a customs officer, and
+- (a) an arrest falling within paragraph 2(1)(a) or (3) (a) or (b)[^c-01adcc7f79af7bdef23ff004d693fdb1] above has been made by a customs officer, and
 - (b) the person arrested is held in France in a place within the tunnel system which would if it were in England be a customs office within the meaning of the 1984 Act,
 
-sections 34(1) to (5), 36, 37, 39 to 42, 50, 54, 54A,[^key-86d688fc76f3d2a934145658d05f8a5a] 55, 56(1) to (9), 58 (1) to (11), 62, 63 and 63D[^key-802ad6337435a737f87ca2bbddd32e57] of the 1984 Act and in the case of a child or young person section 34(2) to (9)[^key-995c590a1ca94f4b025226f7079b8d20] of the Children and Young Persons Act 1933, shall apply as if the place where he is held were a customs office in England designated under section 35 of the 1984 Act.
+sections 34(1) to (5), 36, 37, 39 to 42, 50, 54, 54A,[^c-86d688fc76f3d2a934145658d05f8a5a] 55, 56(1) to (9), 58 (1) to (11), 62, 63 and 63D[^c-802ad6337435a737f87ca2bbddd32e57] of the 1984 Act and in the case of a child or young person section 34(2) to (9)[^c-995c590a1ca94f4b025226f7079b8d20] of the Children and Young Persons Act 1933, shall apply as if the place where he is held were a customs office in England designated under section 35 of the 1984 Act.
 
-(4)[^key-26be8950369c6edea68cbb37cea08bf6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-26be8950369c6edea68cbb37cea08bf6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Arrested persons arriving in the United Kingdom[^key-346f7bf3d4296ccbe0fa23bd3ad59e86][^key-6b67a6a0533d3ecd5594649020c0685d]
+#### 4. Arrested persons arriving in the United Kingdom[^c-346f7bf3d4296ccbe0fa23bd3ad59e86][^c-6b67a6a0533d3ecd5594649020c0685d]
 
-(1)[^key-e79625687a6fa086fda4ba6f635ddd81] Where—
+(1)[^c-e79625687a6fa086fda4ba6f635ddd81] Where—
 
 - (a) an arrest falling within Article 39 or 40 of the international articles has been made, and
 - (b) the person arrested enters the United Kingdom while under arrest,
@@ -680,13 +680,13 @@ he shall immediately inform the competent French authorities of his determinatio
 
 - (a) he shall immediately inform the person of his determination,
 - (b) the person shall be treated as being in police detention for all purposes of Part IV of the 1984 Act, and
-- (c) that Part shall have effect in relation to him as if the relevant time mentioned in section 41(2)[^key-8bbc9691c84345e2412999b88d2ae798] were the time at which he is informed of the determination.
+- (c) that Part shall have effect in relation to him as if the relevant time mentioned in section 41(2)[^c-8bbc9691c84345e2412999b88d2ae798] were the time at which he is informed of the determination.
 
 (7) Where the police station to which the person is taken is not a police station designated under section 35 of the 1984 Act, references in this paragraph to the custody officer are to be construed as references to an officer not below the rank of sergeant.
 
-#### 5. Arrests of French officers[^key-0cffac38201d0d856cd9c32e0d4c2457]
+#### 5. Arrests of French officers[^c-0cffac38201d0d856cd9c32e0d4c2457]
 
-(1) This paragraph applies where an officer belonging to the French Republic (“the officer”) is arrested for an act performed in the United Kingdom in the tunnel system or a control zone or supplementary control zone[^key-e73a2f7f494fc0e137eeda70e990f9cd].
+(1) This paragraph applies where an officer belonging to the French Republic (“the officer”) is arrested for an act performed in the United Kingdom in the tunnel system or a control zone or supplementary control zone[^c-e73a2f7f494fc0e137eeda70e990f9cd].
 
 (2) If the officer enters France while under arrest—
 
@@ -717,11 +717,11 @@ he shall be taken to a police station designated under section 35 of the 1984 Ac
 
 - (a) the custody officer shall immediately inform the officer of his determination,
 - (b) the officer shall be treated as being in police detention for all purposes of Part IV of the 1984 Act, and
-- (c) that Part shall have effect in relation to him as if the relevant time mentioned in section 41(2)[^key-5122d630c1bc4603d378920e7cff6491] were the time at which he is informed of the determination.
+- (c) that Part shall have effect in relation to him as if the relevant time mentioned in section 41(2)[^c-5122d630c1bc4603d378920e7cff6491] were the time at which he is informed of the determination.
 
-#### 6. Arrests of United Kingdom officers[^key-4891fb6480a8906fc072f89d84e15cb0]
+#### 6. Arrests of United Kingdom officers[^c-4891fb6480a8906fc072f89d84e15cb0]
 
-(1) This paragraph applies where an officer belonging to the United Kingdom (“the officer”) is arrested for an act performed in France in the tunnel system or a control zone or supplementary control zone[^key-c9937dd31a1b5c1ae1e8e75a3e2c95dc].
+(1) This paragraph applies where an officer belonging to the United Kingdom (“the officer”) is arrested for an act performed in France in the tunnel system or a control zone or supplementary control zone[^c-c9937dd31a1b5c1ae1e8e75a3e2c95dc].
 
 (2) If—
 
@@ -759,15 +759,15 @@ and may for the purpose of enabling that question to be determined detain the of
 
 - (a) the custody officer shall immediately inform the officer of the determination,
 - (b) the officer shall be treated as being in police detention for all purposes of Part IV of the 1984 Act, and
-- (c) that Part shall have effect in relation to him as if the relevant time mentioned in section 41(2)[^key-1b9f53b240a259e1d8f8f23d7916f7a7] were the time at which he is informed of the determination.
+- (c) that Part shall have effect in relation to him as if the relevant time mentioned in section 41(2)[^c-1b9f53b240a259e1d8f8f23d7916f7a7] were the time at which he is informed of the determination.
 
 ### PART II — SUPPLEMENTARY CONTROL OVER ANIMALS
 
-#### 1. Extent[^key-250b6e8ec37046182d0bf2c0eb9c491d]
+#### 1. Extent[^c-250b6e8ec37046182d0bf2c0eb9c491d]
 
 This Part does not extend to France.
 
-#### 2. Interpretation[^key-471ca702096646a24051b76c98662dcc]
+#### 2. Interpretation[^c-471ca702096646a24051b76c98662dcc]
 
 In this Part “animal” means a four—footed mammal capable of carrying the rabies virus, except one which—
 
@@ -776,18 +776,18 @@ In this Part “animal” means a four—footed mammal capable of carrying the r
 
 and “tunnel”, except in the expression “tunnel system”, means a tunnel mentioned in section 1(7)(a) of the Channel Tunnel Act 1987.
 
-#### 3. Duties of Concessionaires[^key-7b998bd48fcc4cc3f2cbbac5e3b814c6]
+#### 3. Duties of Concessionaires[^c-7b998bd48fcc4cc3f2cbbac5e3b814c6]
 
 The Concessionaires shall—
 
-- (a)[^key-1ebaf43b4ec6478d7d9531d5c309a4e9] construct and maintain fencing around the entrance to each tunnel, except at places where gaps are necessary to allow the passage of vehicles through the tunnel, of such material and of such a height above and depth below the surface of the ground as to ensure, so far as is practicable, that an animal cannot cross it, and
+- (a)[^c-1ebaf43b4ec6478d7d9531d5c309a4e9] construct and maintain fencing around the entrance to each tunnel, except at places where gaps are necessary to allow the passage of vehicles through the tunnel, of such material and of such a height above and depth below the surface of the ground as to ensure, so far as is practicable, that an animal cannot cross it, and
 - (b) comply with the requirements imposed by paragraph 5.
 
-#### 4. Installations[^key-0b00806a0ed778c0814f42581976b90e]
+#### 4. Installations[^c-0b00806a0ed778c0814f42581976b90e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Requirements[^key-05ee32f192935b25743d0a02c0cab9a5]
+#### 5. Requirements[^c-05ee32f192935b25743d0a02c0cab9a5]
 
 The requirements mentioned in paragraph 3(b) are—
 
@@ -797,23 +797,23 @@ The requirements mentioned in paragraph 3(b) are—
 - (d) so far as is practicable, to keep each tunnel free of waste food, urine, faeces and every other substance likely to attract animals,
 - (e) to ensure that all points of access to a tunnel, other than the entrance to the tunnel and any ventilation shafts, are sealed when not in use,
 - (f) to ensure that all tunnel ventilation shafts are so constructed as effectively to deter animals from passing through them, and
-- (g) to keep records of the taking of any bait laid as mentioned in sub—paragraph (c) and of the detection of the presence of any animal in a tunnel or within the fencing described in paragraph 3(a)[^key-666dd4e5f8343d0826533ac34ae8814b].
+- (g) to keep records of the taking of any bait laid as mentioned in sub—paragraph (c) and of the detection of the presence of any animal in a tunnel or within the fencing described in paragraph 3(a)[^c-666dd4e5f8343d0826533ac34ae8814b].
 
-#### 6. Unauthorised interference[^key-107c58ad571e512cc3fc3e62fb7aec74]
+#### 6. Unauthorised interference[^c-107c58ad571e512cc3fc3e62fb7aec74]
 
 Unless authorised in writing by the Concessionaires, no person shall intentionally—
 
-- (a) remove or in any way impair the effectiveness of the fencing described in paragraph 3(a)[^key-d9ade710bbd2eeef4ea4e71cbe8e1e26], or
+- (a) remove or in any way impair the effectiveness of the fencing described in paragraph 3(a)[^c-d9ade710bbd2eeef4ea4e71cbe8e1e26], or
 - (b) do anything which might in any way impair the effectiveness of any measures taken to comply with the requirements described in paragraph 5.
 
-#### 7. Enforcement[^key-abf5fdcc732940ff1fa53a1ba1c932aa]
+#### 7. Enforcement[^c-abf5fdcc732940ff1fa53a1ba1c932aa]
 
 A person authorised by the appropriate Minister may, on producing, if required to do so, some duly authenticated document showing his authority—
 
 - (a) enter any part of the tunnel system for the purpose of ascertaining whether there is or has been any breach of a requirement or prohibition imposed by this Part, and
 - (b) for that purpose inspect any relevant document or computer record.
 
-#### 8. Offences[^key-5ee3ed99ed672925d6566969723a2e1f]
+#### 8. Offences[^c-5ee3ed99ed672925d6566969723a2e1f]
 
 A person who contravenes any of paragraphs 3 to 6 or obstructs the exercise of powers by an authorised person under paragraph 7 shall be guilty of an offence and shall be liable—
 
@@ -826,7 +826,7 @@ Article 7(1)
 
 ### Immigration Act 1971
 
-**1.**[^key-87cbbdc375f5fb6398a56c74f88043ad] (1) In this paragraph “the 1971 Act” means the Immigration Act 1971[^f00010].
+**1.**[^c-87cbbdc375f5fb6398a56c74f88043ad] (1) In this paragraph “the 1971 Act” means the Immigration Act 1971[^f00010].
 
 (2) In section 3 of the 1971 Act (general provision for regulation and control)[^f00011]—
 
@@ -864,14 +864,14 @@ Article 7(1)
 - (b) omit subsections (2) and (3); and
 - (c) in subsection (4) omit the words after “section 1(3)”.
 
-(6)[^key-7c6721a979e0ffcdf8428ee8a762c518] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7c6721a979e0ffcdf8428ee8a762c518] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 24 of the 1971 Act (illegal entry and similar offences)[^f00015]—
 
 - (a) in subsection (1)(f) for the words from “disembarks” to “aircraft” substitute “leaves a train in the United Kingdom”; and
 - (b) in subsection (1)(g) for the word “embarks” substitute “leaves or seeks to leave the United Kingdom through the tunnel system”.
 
-(8)[^key-ce15404e79eb4b43943f997290d7a6a8] In section 25C (forfeiture of vehicle, ship or aircraft)—
+(8)[^c-ce15404e79eb4b43943f997290d7a6a8] In section 25C (forfeiture of vehicle, ship or aircraft)—
 
 - (a) in subsection (3)—
   - (i) for “ship or aircraft” wherever those words occur substitute “train”;
@@ -892,13 +892,13 @@ Article 7(1)
   - (ii) in sub—paragraph (i) for the word “disembark” substitute “leave the train”;
 - (b) in paragraph (b)—
   - (i) for the words “as owner or agent of a ship or aircraft” substitute “as, or as agent of, a person operating an international service”,
-  - (ii) in sub—paragraph (i) for the words from “the ship” to “port of entry” substitute “a through train to stop at a place other than a terminal control point or an international station[^key-1f9b3bf5d5104d8767392f0e6fc09513]”; and
+  - (ii) in sub—paragraph (i) for the words from “the ship” to “port of entry” substitute “a through train to stop at a place other than a terminal control point or an international station[^c-1f9b3bf5d5104d8767392f0e6fc09513]”; and
 - (c) in paragraph (c)—
-  - (i)[^key-9a63b4aed4b4ecb45539fb5955a20042] for the words “as a person” to “port” substitute “as an occupier or person concerned with the management of a terminal control point or of an international station”,
-  - (ii) for the words “the embarkation or disembarkation of passengers” substitute “persons arriving or seeking to arrive in, or leaving or seeking to leave, the United Kingdom through the tunnel system” ; and[^key-e9d77a7c8860990c95699397da3d53ef]
+  - (i)[^c-9a63b4aed4b4ecb45539fb5955a20042] for the words “as a person” to “port” substitute “as an occupier or person concerned with the management of a terminal control point or of an international station”,
+  - (ii) for the words “the embarkation or disembarkation of passengers” substitute “persons arriving or seeking to arrive in, or leaving or seeking to leave, the United Kingdom through the tunnel system” ; and[^c-e9d77a7c8860990c95699397da3d53ef]
 - (d) in paragraph (ca) for the words “as a person” to “port” substitute “as an occupier or person concerned with the management of a terminal control point or of an international station”.
 
-(9A)[^key-1462d2943ccd4984cf22ed214d1d4418] In section 28A of the 1971 Act (arrest without warrant), in subsection (3) after the words “immigration officer” insert “or a constable”.
+(9A)[^c-1462d2943ccd4984cf22ed214d1d4418] In section 28A of the 1971 Act (arrest without warrant), in subsection (3) after the words “immigration officer” insert “or a constable”.
 
 (10) In section 33 of the 1971 Act (interpretation)[^f00017]—
 
@@ -906,7 +906,7 @@ Article 7(1)
   - (i) omit the definitions of “airport” and “port”,
   - (ii) in the definition of “crew” after the word “captain,” insert “and in relation to a through train or a shuttle train, means all persons on the train who are actually employed in its service or working, including the train manager,”, and
   - (iii) in the definition of “illegal entrant” after the words “unlawfully entering or seeking” insert “(whether or not he has arrived in the United Kingdom)”; and
-- (b)[^key-35defc047d33c4f1933cc0bf42650392] in subsection (3) for the words “ports of entry for purposes of this Act” substitute “international stations for purposes of this Act shall be such railway stations as may from time to time be designated by order of the Secretary of State”.
+- (b)[^c-35defc047d33c4f1933cc0bf42650392] in subsection (3) for the words “ports of entry for purposes of this Act” substitute “international stations for purposes of this Act shall be such railway stations as may from time to time be designated by order of the Secretary of State”.
 
 (11) In Schedule 2 to the 1971 Act (administrative provisions as to control on entry etc.)[^f00018]—
 
@@ -920,7 +920,7 @@ Article 7(1)
 
   ;
 - (c) in paragraph 2(1) for the words from “in the United Kingdom” to “seeking to enter the United Kingdom)” substitute “, or who are seeking to arrive, in the United Kingdom through the tunnel system”;
-- (d) after paragraph 2(1) insert—[^key-b1129539708f5177584f82f48886bb7f]
+- (d) after paragraph 2(1) insert—[^c-b1129539708f5177584f82f48886bb7f]
 
   > (1A) The power conferred by sub-paragraph (1) is exercisable—
   >
@@ -928,29 +928,29 @@ Article 7(1)
   > - (b) as respects persons seeking to arrive in the United Kingdom (who may first be questioned to ascertain whether they are seeking to do so), in a control zone in France or Belgium, or in a supplementary control zone in France.
 
   ;
-- (e) in paragraph 2(3) after the words “further examination” insert “(or, if examined by an immigration officer in a supplementary control zone, may be required to submit to a[^key-c475af888a3f408ab466893dc64483f6] further examination before or after arrival[^key-9cc04830f646456c3aaf6ab86cec15c2] in the United Kingdom)” and—
+- (e) in paragraph 2(3) after the words “further examination” insert “(or, if examined by an immigration officer in a supplementary control zone, may be required to submit to a[^c-c475af888a3f408ab466893dc64483f6] further examination before or after arrival[^c-9cc04830f646456c3aaf6ab86cec15c2] in the United Kingdom)” and—
   - (i) for the words “crew of a ship or aircraft” substitute “crew of a through train or shuttle train”,
   - (ii) after the words “joining a ship or aircraft” insert “or a shuttle train or through train”, and
   - (iii) after the words “intended ship or aircraft” insert “or train”;
-- (ea)[^key-04bc7adb254f87c313471945f568a649] after paragraph 2A(1) insert—[^key-fd0f63ea31e2652c9b1036e30ee80863]
+- (ea)[^c-04bc7adb254f87c313471945f568a649] after paragraph 2A(1) insert—[^c-fd0f63ea31e2652c9b1036e30ee80863]
 
   > (1A) This paragraph also applies to a person who seeks to arrive in the United Kingdom and who is in a control zone in France or Belgium, or in a supplementary control zone in France.
 
   , and after paragraph 2A(5) insert—
 
-  > (5A) A person examined by an immigration officer under this paragraph in a supplementary control zone may be required to submit to a further examination before or after arrival[^key-50db361e1208606339888f9d319b6f0b] in the United Kingdom.
+  > (5A) A person examined by an immigration officer under this paragraph in a supplementary control zone may be required to submit to a further examination before or after arrival[^c-50db361e1208606339888f9d319b6f0b] in the United Kingdom.
 
   ;
 - (eb) in paragraph 2A(6)—
-  - (i) after the words “sub-paragraph (5)” insert “or sub-paragraph (5A)”, and[^key-e2e97f3029757f64b34ed172dd49c427] for the words “crew of a ship or aircraft” substitute “crew of a through train or shuttle train”;
+  - (i) after the words “sub-paragraph (5)” insert “or sub-paragraph (5A)”, and[^c-e2e97f3029757f64b34ed172dd49c427] for the words “crew of a ship or aircraft” substitute “crew of a through train or shuttle train”;
   - (ii) after the words “joining a ship or aircraft” insert “or a shuttle train or through train”; and
   - (iii) after the words “intended ship or aircraft”, insert “or train”;
 - (f) in paragraph 3(1) and (2) for the words “embarking or seeking to embark in the United Kingdom” substitute “leaving or seeking to leave the United Kingdom through the tunnel system”;
-- (g)[^key-5df3bc705849b6ebb3ad229eeb539fcf] in paragraph 5—
+- (g)[^c-5df3bc705849b6ebb3ad229eeb539fcf] in paragraph 5—
   - (i) in sub-paragraph (a) for the words “passengers disembarking” to “such passengers” substitute “persons arriving in or leaving or seeking to arrive in or leave the United Kingdom through the tunnel system, or any class of such persons”,
   - (ii) in sub-paragraph (b) for the words “passengers embarking” to “such passengers” substitute “persons leaving or seeking to leave the United Kingdom through the tunnel system, or any class of such persons”, and
   - (iii) for the words “the owners or agents of ships and aircraft to supply such cards to those passengers” substitute “persons operating international services to supply such cards to those persons”.
-- (ga)[^key-8c0aa47c03e6694633fae13289fe0f8b] in paragraph 5B–
+- (ga)[^c-8c0aa47c03e6694633fae13289fe0f8b] in paragraph 5B–
   - (i) in sub-paragraph (1)(a) for the words “an owner or agent of a ship or aircraft” substitute “a person operating, or a person acting as agent of a person operating, an international service”, and
   - (ii) in sub-paragraph (1)(b) for the words “a person concerned in the management of a port” substitute “an occupier of, or a person concerned with the management of a terminal control point or of an international station”, and
   - (iii) in sub-paragraph (2)(a) for the words “the port” substitute “the terminal control point or the international station”.
@@ -974,9 +974,9 @@ Article 7(1)
 
     ;
 - (j) in paragraph 8(2)[^f00019]—
-  - (i) for the words “sub-paragraph (1)(b) or (c)”[^key-22a651982b156ee90b5d6c9c79f20cb9] substitute “sub—paragraph (l)”, and
+  - (i) for the words “sub-paragraph (1)(b) or (c)”[^c-22a651982b156ee90b5d6c9c79f20cb9] substitute “sub—paragraph (l)”, and
   - (ii) for the words “the owners or agents in question” substitute “the carrier”;
-- (k) in paragraph 9(1)[^key-ebbc503a23f946ea8abc69513cc43810] for the words after “an immigration officer” substitute
+- (k) in paragraph 9(1)[^c-ebbc503a23f946ea8abc69513cc43810] for the words after “an immigration officer” substitute
 
   > may—
   >
@@ -1022,10 +1022,10 @@ Article 7(1)
     > - (a) for the word “captain”, wherever occurring, of the words “train manager”; and
     > - (b) for the words “ship or aircraft”, wherever occurring, of the word “train”; and
     > - (c) for the word “disembarking”, of the words “leaving the train.”;
-- (q) in paragraphs 19(1) and 20(1) for the words “owners or agents of the ship or aircraft in” substitute “person operating the international service by”; [^key-569cd00911e61b38010367fd484aedac]...
+- (q) in paragraphs 19(1) and 20(1) for the words “owners or agents of the ship or aircraft in” substitute “person operating the international service by”; [^c-569cd00911e61b38010367fd484aedac]...
 - (r) for paragraphs 26 and 27 substitute—
 
-  > **26.** (1) Persons operating international services shall not, without the approval of the Secretary of State, arrange for any through train to stop for the purpose of enabling passengers to leave it except at a terminal control point or an international station[^key-d1de3369a607f13c2c9c46e969af22cd].
+  > **26.** (1) Persons operating international services shall not, without the approval of the Secretary of State, arrange for any through train to stop for the purpose of enabling passengers to leave it except at a terminal control point or an international station[^c-d1de3369a607f13c2c9c46e969af22cd].
   >
   > (2) The Secretary of State may from time to time give written notice to persons operating international services designating all or any through trains as control areas while they are within any area in the United Kingdom specified in the notice or while they constitute a control zone.
   >
@@ -1036,7 +1036,7 @@ Article 7(1)
   >
   > (4) A notice under sub—paragraph (2) or (3) above may specify conditions and restrictions to be observed in a control area, and any person to whom such a notice is given shall take all reasonable steps to secure that any such conditions or restrictions are observed.
   >
-  > **27.**[^key-d5fdc5d52067278020caa51105fb9dbc] (1) The train manager of a through train or shuttle train arriving in the United Kingdom—
+  > **27.**[^c-d5fdc5d52067278020caa51105fb9dbc] (1) The train manager of a through train or shuttle train arriving in the United Kingdom—
   >
   > - (a) shall take such steps as may be necessary to secure that persons, other than members of the crew who may lawfully enter the United kingdom by virtue of section 8(1) of this Act, do not leave the train except in accordance with any arrangements approved by an immigration officer; and
   > - (b) where persons are to be examined by an immigration officer on the train, shall take such steps as may be necessary to secure that they are ready for examination.
@@ -1059,14 +1059,14 @@ Article 7(1)
   > - (d) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
   .
-- (s)[^key-23bc906948cea95bb652274f46793cd9] In paragraph 27B (passenger information)—
+- (s)[^c-23bc906948cea95bb652274f46793cd9] In paragraph 27B (passenger information)—
   - (i) in sub-paragraph (1) for the words “ships or aircraft” substitute “through trains or shuttle trains”;
   - (ii) in sub-paragraph (2) for the words “owner or agent (“the carrier”) of a ship or aircraft” substitute “person operating an international service or his agent (“the carrier”)”;
   - (iii) in sub-paragraph (3)(a) for the words “ship or particular aircraft” substitute “train”;
   - (iv) in sub-paragraph (3)(b) and (c) for the words “ships or aircraft” substitute “trains”; and
   - (v) in sub-paragraphs (4) and (9) for the words “ship or aircraft”, wherever occurring, substitute “train”; and
-  - (vi)[^key-06fc336f2dede01213c44b9d98fb1be4] in sub-paragraph (9A) for “voyage or flight” substitute “international service” and for the words “ship or aircraft” substitute “through train or shuttle train”;
-- (t)[^key-4c9479ecbb0f1d12683bad54b6046eea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vi)[^c-06fc336f2dede01213c44b9d98fb1be4] in sub-paragraph (9A) for “voyage or flight” substitute “international service” and for the words “ship or aircraft” substitute “through train or shuttle train”;
+- (t)[^c-4c9479ecbb0f1d12683bad54b6046eea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in sub-paragraphs (6), (7) and (9) for the words “ship or aircraft” substitute “through train”.
 
 (12) In Schedule 3 to the 1971 Act (supplementary provisions as to deportation)[^f00020]—
@@ -1081,7 +1081,7 @@ Article 7(1)
 
 ### Public Health (Control of Disease) Act 1984
 
-**2.**[^key-29b255b23df195e5abf8cd57f1d475a8] In the Public Health (Control of Disease) Act 1984[^f00021], in section 13 (regulations for control of certain diseases)—
+**2.**[^c-29b255b23df195e5abf8cd57f1d475a8] In the Public Health (Control of Disease) Act 1984[^f00021], in section 13 (regulations for control of certain diseases)—
 
 - (a) in subsection (1)—
   - (i) omit the words from “, as respects” to “coastal waters,”,
@@ -1094,7 +1094,7 @@ Article 7(1)
   > - (a) to give written notice to persons operating international services designating all or any through trains as control areas while they are within any area in the United Kingdom specified in the notice or while they constitute a control zone; and
   > - (b) to give written notice designating a control area—
   >   - (i) to the Concessionaires as respects any part of the tunnel system in the United Kingdom or of a control zone within the tunnel system in France, or
-  >   - (ii) to any occupier or person concerned with the management of a terminal control point in the United Kingdom or of a place in the United Kingdom which is a customs approved area within the meaning of the Channel Tunnel (Customs and Excise) Order 1990[^f00022] or of a railway station which is an international station for the purposes of the Immigration Act 1971[^key-09514d90e136786ae99e790b9e0626ae];
+  >   - (ii) to any occupier or person concerned with the management of a terminal control point in the United Kingdom or of a place in the United Kingdom which is a customs approved area within the meaning of the Channel Tunnel (Customs and Excise) Order 1990[^f00022] or of a railway station which is an international station for the purposes of the Immigration Act 1971[^c-09514d90e136786ae99e790b9e0626ae];
   >
   >   and references in subsections (2B), (3) and (5) below to a control area are to a control area so designated.
   >
@@ -1127,9 +1127,9 @@ Article 7(1)
   - (i) in paragraph (a) after the words “subsection (4)(a)” insert “or (aa)”, and
   - (ii) for the words “, vessel or aircraft” substitute “and any through train or shuttle train while it is in or constitutes a control area,”.
 
-### Terrorism Act 2000[^key-4e221938a5331434b1fc32abce7e6d55]
+### Terrorism Act 2000[^c-4e221938a5331434b1fc32abce7e6d55]
 
-**3.**[^key-54f13a98d5b9970df69dc2329d775ac2] (1) The Terrorism Act 2000 is modified as follows.
+**3.**[^c-54f13a98d5b9970df69dc2329d775ac2] (1) The Terrorism Act 2000 is modified as follows.
 
 (2) Schedule 7 is modified in accordance with paragraphs (3) to (15).
 
@@ -1162,7 +1162,7 @@ Article 7(1)
 
 (5) Omit paragraphs 3 and 4.
 
-(6)[^key-537ed2d703b084ce0b4f155a5275e577] In paragraphs 5, 5A and 6A, omit “or 3” in each place it appears.
+(6)[^c-537ed2d703b084ce0b4f155a5275e577] In paragraphs 5, 5A and 6A, omit “or 3” in each place it appears.
 
 (7) In paragraph 6—
 
@@ -1213,9 +1213,9 @@ Article 7(1)
 
 (15) Omit the Table of Designated Ports.
 
-(16) In Schedule 14 (exercise of officers' powers), in paragraph 5[^key-d4cc40463324a277c23e98b94ba8efdf], after “this Act”, in each place where it occurs, insert “ or the Channel Tunnel (International Arrangements) Order 1993 ”.
+(16) In Schedule 14 (exercise of officers' powers), in paragraph 5[^c-d4cc40463324a277c23e98b94ba8efdf], after “this Act”, in each place where it occurs, insert “ or the Channel Tunnel (International Arrangements) Order 1993 ”.
 
-### Immigration, Asylum and Nationality Act 2006[^key-50fa116423cd64bc6f61c56a977b7a5f]
+### Immigration, Asylum and Nationality Act 2006[^c-50fa116423cd64bc6f61c56a977b7a5f]
 
 **3A.** In the Immigration, Asylum and Nationality Act 2006—
 
@@ -1229,18 +1229,18 @@ Article 7(1)
   - (i) in subsection (4) for “ship or aircraft”, wherever occurring, substitute “through train or shuttle train”; and
   - (ii) in subsection (4) for “flights or voyages” substitute “international services”;
 - (d) in section 37 (information sharing: code of practice) the references to section 36 include references to that provision as modified by paragraph (c);
-- (e)[^key-8ddaa501cd1819efee1511240d394377] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-8ddaa501cd1819efee1511240d394377] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) in section 39 (disclosure to law enforcement agencies) the reference to section 32 includes a reference to that provision as modified by paragraph (a).
 
-### THE IMMIGRATION (LEAVE TO ENTER AND REMAIN) ORDER 2000[^key-7e2492fdc55f24e9af66f560bdd24955]
+### THE IMMIGRATION (LEAVE TO ENTER AND REMAIN) ORDER 2000[^c-7e2492fdc55f24e9af66f560bdd24955]
 
-**4.**[^key-35a4f541756f26a93f303667d17766e1] In the Immigration (Leave to Enter and Remain) Order 2000—
+**4.**[^c-35a4f541756f26a93f303667d17766e1] In the Immigration (Leave to Enter and Remain) Order 2000—
 
 - (a) in article 4(2)—
   - (i) after the words “arrives in the United Kingdom”, insert “or enters a control zone in France or Belgium, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system”;
   - (ii) after the words “before arrival”, insert “or entry into the control zone or supplementary control zone”; and
   - (iii) after the words “date of arrival”, insert “or entry into the control zone or supplementary control zone”;
-- (aa)[^key-288992245cf0f5872f6813250630fd39] in article 4(2B)—
+- (aa)[^c-288992245cf0f5872f6813250630fd39] in article 4(2B)—
   - (i) after the words “On arrival in the United Kingdom”, insert “or entry into a control zone in France or Belgium, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system”;
   - (ii) after the words “before arrival”, insert “or entry into the control zone or supplementary control zone”; and
   - (iii) after the words “arrives in the United Kingdom”, insert “or enters a control zone in France or Belgium, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system”;
@@ -1251,19 +1251,19 @@ Article 7(1)
 - (b) in article 4(3)—
   - (i) after the words “on arrival in the United Kingdom”, insert “or entry into a control zone in France or Belgium, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system”; and
   - (ii) after the words “before arrival”, insert “or entry into the control zone or supplementary control zone”; and
-- (ba)[^key-9ced5dcbf837c39066d8ffd6f390d0f9] in article 4(3B)—
+- (ba)[^c-9ced5dcbf837c39066d8ffd6f390d0f9] in article 4(3B)—
   - (i) after the words “on arrival in the United Kingdom”, insert “or entry into a control zone in France or Belgium, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system”;
   - (ii) after the words “before arrival”, insert “or entry into the control zone or supplementary control zone”; and
   - (iii) in sub-paragraph (b), after the words “arrives in the United Kingdom”, insert “or enters the control zone or supplementary control zone”.
 - (c) in article 6(2)(a) after the words “arrives in the United Kingdom”, insert “or enters a control zone in France or Belgium, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system”.
 
-### The Immigration (European Economic Area) Regulations 2006[^key-6bf3461dab61a664de09090a168c0b1d][^key-acc4fbc3d4aab340c95b2e101ba1862f]
+### The Immigration (European Economic Area) Regulations 2006[^c-6bf3461dab61a664de09090a168c0b1d][^c-acc4fbc3d4aab340c95b2e101ba1862f]
 
-**5.**[^key-8b3283036cad3c370c3b40efe841d29e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8b3283036cad3c370c3b40efe841d29e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5A.**[^key-86877ee7a774c2c774efe3766f72b0b0] In regulation 6(1A) of the Immigration (Provision of Physical Data) Regulations 2006 (Process by which an individual’s fingerprints and photograph may be obtained and recorded), after the words “arrival in the United Kingdom” insert “or entry into the control zone in France, Belgium or the Netherlands, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system”.
+**5A.**[^c-86877ee7a774c2c774efe3766f72b0b0] In regulation 6(1A) of the Immigration (Provision of Physical Data) Regulations 2006 (Process by which an individual’s fingerprints and photograph may be obtained and recorded), after the words “arrival in the United Kingdom” insert “or entry into the control zone in France, Belgium or the Netherlands, or a supplementary control zone in France, seeking to arrive in the United Kingdom through the tunnel system”.
 
-### UK Borders Act 2007[^key-1c6487f2831f4a51c18cfcf7bb4ca0e0]
+### UK Borders Act 2007[^c-1c6487f2831f4a51c18cfcf7bb4ca0e0]
 
 **6.** (1) In the UK Borders Act 2007 in section 2 (detention)—
 
@@ -1282,7 +1282,7 @@ Article 7(1)
 - (a) for subsection (1) substitute, “In section 2 “port” means a terminal control point or an international station.”;
 - (b) in subsection (2) for “ship or aircraft”, in each place where it appears, substitute “train”.
 
-### Counter-Terrorism and Border Security Act 2019[^key-1d00b42fbf19bf82bb91c895a7746e16]
+### Counter-Terrorism and Border Security Act 2019[^c-1d00b42fbf19bf82bb91c895a7746e16]
 
 **7.** (1) Schedule 3 to the Counter-Terrorism and Border Security Act 2019 (border security) is modified as follows.
 
@@ -1358,24 +1358,24 @@ Article 8
 
 #### Immigration Act 1971
 
-**1.**[^key-1a85c624b41a59f619fd93f98800875b] In Schedule 2 to the Immigration Act 1971[^f00024]—
+**1.**[^c-1a85c624b41a59f619fd93f98800875b] In Schedule 2 to the Immigration Act 1971[^f00024]—
 
 - (a) in paragraph 1(4) and (5), for the words from “aircraft” to “system, vehicle” substitute “or aircraft”; and
 - (b) in paragraph 2(1), for the words “, aircraft or through the tunnel system” substitute “or aircraft”.
 
 #### Animal Health Act 1981
 
-**2.**[^key-7547a0da95185a806171e470ef219780] In section 10(7) of the Animal Health Act 1981[^f00025] for the words “article 5(1) to (4)” substitute “article 5(1) and (2)”.
+**2.**[^c-7547a0da95185a806171e470ef219780] In section 10(7) of the Animal Health Act 1981[^f00025] for the words “article 5(1) to (4)” substitute “article 5(1) and (2)”.
 
 #### Prevention of Terrorism (Temporary Provisions) Act 1989
 
-**3.**[^key-32a6ef1b5c78345134bbea1c68dcf560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-32a6ef1b5c78345134bbea1c68dcf560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART II — INSTRUMENTS
 
 #### The Immigration (Particulars of Passengers and Crew) Order 1972
 
-**1.**[^key-ce82c74be14b72e4fa6910fe1a553bde] The Immigration (Particulars of Passengers and Crew) Order 1972[^f00027] is amended—
+**1.**[^c-ce82c74be14b72e4fa6910fe1a553bde] The Immigration (Particulars of Passengers and Crew) Order 1972[^f00027] is amended—
 
 - (a) in article 2 by inserting after the words “Act of Parliament” the words “; and in this Order the expressions “shuttle train”, “through train” and “train manager” have the same meanings as in the Channel Tunnel (International Arrangements) Order 1993”;
 - (b) by inserting after article 3(1)—
@@ -1397,7 +1397,7 @@ Article 8
 
 #### The Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974
 
-**2.**[^key-f9f00329605805dc6454c25b87428e50] Article 2 of the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^f00028] is amended—
+**2.**[^c-f9f00329605805dc6454c25b87428e50] Article 2 of the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^f00028] is amended—
 
 - (a) by inserting after paragraph (1)—
 
@@ -1408,14 +1408,14 @@ Article 8
 
 #### The Immigration (Landing and Embarkation Cards) Order 1975
 
-**3.**[^key-f7602122b1c3e340ed22a89aeed540c9] Article 4 of the Immigration (Landing and Embarkation Cards) Order 1975[^f00029] is amended—
+**3.**[^c-f7602122b1c3e340ed22a89aeed540c9] Article 4 of the Immigration (Landing and Embarkation Cards) Order 1975[^f00029] is amended—
 
 - (a) in paragraph (1) by inserting after the words “embarks in the United Kingdom” the words “, or leaves or boards in the United Kingdom a train which for the purposes of sections 11 and 12 of the Channel Tunnel Act 1987 is engaged on an international service,”; and
 - (b) in paragraph (2) by inserting after the word “concerned” the words “or, as the case may be, by the person operating the international service”.
 
 #### The Immigration Appeals (Procedure) Rules 1984
 
-**4.**[^key-728cf7b806ff9a5c193d0d8b8fe6e77b] (1) In this paragraph “the 1984 Rules” means the Immigration Appeals (Procedure) Rules 1984[^f00030].
+**4.**[^c-728cf7b806ff9a5c193d0d8b8fe6e77b] (1) In this paragraph “the 1984 Rules” means the Immigration Appeals (Procedure) Rules 1984[^f00030].
 
 (2) Rule 2 of the 1984 Rules is amended by inserting after paragraph (2)—
 
@@ -1441,12 +1441,12 @@ Article 8
 
 #### The Immigration (Places of Detention) Direction 1987
 
-**5.**[^key-9e9c0328830590fa82d3dc3d10443295] The Immigration (Places of Detention) (No. 2) Direction 2000 is amended—
+**5.**[^c-9e9c0328830590fa82d3dc3d10443295] The Immigration (Places of Detention) (No. 2) Direction 2000 is amended—
 
 - (a) in article 2, by inserting after the words “control zone” the words “, supplementary control zone”; and
 - (b) in article 3(2)(a)(i) by inserting after the words “control zone” the words “or supplementary control zone”.
 
-#### Code of practice for examining officers under the Terrorism Act 2000[^key-02352d0e7358117d9497acd77c1f0513]
+#### Code of practice for examining officers under the Terrorism Act 2000[^c-02352d0e7358117d9497acd77c1f0513]
 
 **6.** The code of practice for examining officers under the Terrorism Act 2000 is amended—
 
@@ -1497,9 +1497,9 @@ Article 8
 
 #### The Channel Tunnel (Customs and Excise) Order 1990
 
-**7.**[^key-8c0d6997a0ebca2e937394798e840b93] In paragraphs 8 to 10 “the 1990 Order” means the Channel Tunnel (Customs and Excise) Order 1990[^f00031] and in paragraphs 11 to 33 “the Schedule” means the Schedule to that Order.
+**7.**[^c-8c0d6997a0ebca2e937394798e840b93] In paragraphs 8 to 10 “the 1990 Order” means the Channel Tunnel (Customs and Excise) Order 1990[^f00031] and in paragraphs 11 to 33 “the Schedule” means the Schedule to that Order.
 
-**8.**[^key-b4b00e4a6e1e53ebee6262f0f5a13ed8] Article 2 of the 1990 Order (interpretation) is amended—
+**8.**[^c-b4b00e4a6e1e53ebee6262f0f5a13ed8] Article 2 of the 1990 Order (interpretation) is amended—
 
 - (a) in paragraph (2) by inserting below the word ““port;”” the word ““proper;””; and
 - (b) by inserting after paragraph (2)
@@ -1516,7 +1516,7 @@ Article 8
 
   .
 
-**9.**[^key-b3119a3404b145a3c8fd982c2e996413] Article 3 of the 1990 Order (Channel tunnel customs approved areas) is amended—
+**9.**[^c-b3119a3404b145a3c8fd982c2e996413] Article 3 of the 1990 Order (Channel tunnel customs approved areas) is amended—
 
 - (a) in paragraph (1)—
   - (i) by inserting after the word “conditions” the words “and restrictions”,
@@ -1541,7 +1541,7 @@ Article 8
 
   .
 
-**10.**[^key-d867bc70f1b25320fee52cace1161855] Article 5 of the 1990 Order (time of importation, exportation etc.) is amended—
+**10.**[^c-d867bc70f1b25320fee52cace1161855] Article 5 of the 1990 Order (time of importation, exportation etc.) is amended—
 
 - (a) in paragraph (1) by inserting after the words “customs and excise Acts” the words “and of any enactment under or by virtue of which any prohibition or restriction with respect to the importation or exportation of any goods is for the time being in force”; and
 - (b) by substituting for paragraphs (2) to (4)—
@@ -1553,7 +1553,7 @@ Article 8
 
   .
 
-**11.**[^key-e378610a44d085110bbd275c95932cf0] The Schedule is amended by inserting immediately below the heading “MODIFICATIONS OF THE ACT OF 1979”
+**11.**[^c-e378610a44d085110bbd275c95932cf0] The Schedule is amended by inserting immediately below the heading “MODIFICATIONS OF THE ACT OF 1979”
 
 > **A1. Part II of the Act of 1979: Administration**
 >
@@ -1561,7 +1561,7 @@ Article 8
 
 .
 
-**12.**[^key-a4a599ffe53b285af31e46b7d079a7cc] The Schedule is amended by inserting immediately below the sub—heading “Part III of the Act of 1979: Customs and Excise Control Areas”—
+**12.**[^c-a4a599ffe53b285af31e46b7d079a7cc] The Schedule is amended by inserting immediately below the sub—heading “Part III of the Act of 1979: Customs and Excise Control Areas”—
 
 > **A2.** (1) For the purposes of section 21[^f00032] (control of movement of aircraft, etc., into and out of the United Kingdom) references to an aircraft shall be treated as including references to a through train, and in relation to such trains section 21 shall be construed in accordance with sub—paragraphs (2) to (5).
 >
@@ -1575,17 +1575,17 @@ Article 8
 
 .
 
-**13.**[^key-aeeede8ccdd3f2812bd376501fe71fb0] Paragraph 1 of the Schedule is amended by inserting after the words “section 27” the words “and as if a through train fell within those paragraphs while it constituted a control zone in France”.
+**13.**[^c-aeeede8ccdd3f2812bd376501fe71fb0] Paragraph 1 of the Schedule is amended by inserting after the words “section 27” the words “and as if a through train fell within those paragraphs while it constituted a control zone in France”.
 
-**14.**[^key-2a2ab12fe4b6d87f92caf9dfb7342791] The Schedule is amended by inserting after paragraph 3—
+**14.**[^c-2a2ab12fe4b6d87f92caf9dfb7342791] The Schedule is amended by inserting after paragraph 3—
 
 > **3A.** In section 31(1)[^f00033] (control of movement of goods to and from inland clearance depot, etc.) the reference to the place of importation shall be construed as including a reference to a customs approved area in France.
 
 .
 
-**15.**[^key-7b724dc864bb0cadb5f6f3d8605036a8] Paragraph 4 of the Schedule is amended by substituting for the words after “the reference to” the words “a ship or aircraft departing from any place shall be construed as including a reference to a vehicle which departs from a place which is a customs approved area.”.
+**15.**[^c-7b724dc864bb0cadb5f6f3d8605036a8] Paragraph 4 of the Schedule is amended by substituting for the words after “the reference to” the words “a ship or aircraft departing from any place shall be construed as including a reference to a vehicle which departs from a place which is a customs approved area.”.
 
-**16.**[^key-38748a06a75437654b8a1f9a0d5acbbc] The Schedule is amended by inserting after paragraph 4—
+**16.**[^c-38748a06a75437654b8a1f9a0d5acbbc] The Schedule is amended by inserting after paragraph 4—
 
 > **4A.** (1) For the purposes of section 33 (power to inspect aircraft, aerodromes, records, etc.) references to an aircraft shall be treated as including references to a through train and to a shuttle train, and in relation to such trains section 33—
 >
@@ -1606,20 +1606,20 @@ Article 8
 
 .
 
-**17.**[^key-aaae786dab6168c9e8f4a4a9b88cecf7] Paragraph 5 of the Schedule is amended—
+**17.**[^c-aaae786dab6168c9e8f4a4a9b88cecf7] Paragraph 5 of the Schedule is amended—
 
 - (a) in sub—paragraph (1) by substituting for the word “vehicle” the words “through train” and for the words “a vehicle entering Northern Ireland by land” the words “a ship arriving at a port from a place outside the United Kingdom”; and
 - (b) in sub—paragraph (2) by substituting for the word “vehicle” the words “through train” and for the words “a vehicle which has crossed the boundary into Northern Ireland” the words “a ship carrying goods arriving in or over United Kingdom waters, and in relation to such a vehicle the reference to the master of such a ship shall be construed as a reference to the person in charge of the vehicle”.
 
-**18.**[^key-219fd80b8ab1fbfdf5b1820e09dd4f14] The Schedule is amended by inserting after paragraph 5—
+**18.**[^c-219fd80b8ab1fbfdf5b1820e09dd4f14] The Schedule is amended by inserting after paragraph 5—
 
 > **5A.** In section 40(5)[^f00035] (removal of uncleared goods to Queen’s warehouse) the references to a ship or aircraft shall be construed as including references to a through train.
 
 .
 
-**19.**[^key-1eddc165a9be69f86a6d7fe0013f4433] Paragraph 6 of the Schedule is amended by substituting for the words after “vehicle arriving” the words “at a place which is a customs approved area either in France or through the tunnel from France”.
+**19.**[^c-1eddc165a9be69f86a6d7fe0013f4433] Paragraph 6 of the Schedule is amended by substituting for the words after “vehicle arriving” the words “at a place which is a customs approved area either in France or through the tunnel from France”.
 
-**20.**[^key-5d243f70f54bc7259c1b59f12cf24ba4] The Schedule is amended by substituting for paragraph 7—
+**20.**[^c-5d243f70f54bc7259c1b59f12cf24ba4] The Schedule is amended by substituting for paragraph 7—
 
 > **7.** In section 49(1) (forfeiture of goods improperly imported)—
 >
@@ -1631,11 +1631,11 @@ Article 8
 
 .
 
-**21.**[^key-2a1642bc92b68ada61eeda4425aabf25] Paragraph 8(a) of the Schedule is amended by inserting after the words “through the tunnel” the words “, or who brings or assists or is otherwise concerned in the bringing of such goods into a control zone in France,”.
+**21.**[^c-2a1642bc92b68ada61eeda4425aabf25] Paragraph 8(a) of the Schedule is amended by inserting after the words “through the tunnel” the words “, or who brings or assists or is otherwise concerned in the bringing of such goods into a control zone in France,”.
 
-**22.**[^key-e7d315c89d5194bfaf05003526847b80] Paragraph 9 of the Schedule is amended by inserting after the words “(authentication of Community customs documentation)” the words “and in section 62 (information, documentation, etc.as to export goods)”.
+**22.**[^c-e7d315c89d5194bfaf05003526847b80] Paragraph 9 of the Schedule is amended by inserting after the words “(authentication of Community customs documentation)” the words “and in section 62 (information, documentation, etc.as to export goods)”.
 
-**23.**[^key-3baa1006f71fec4426d3dc398f68a3a9] The Schedule is amended by inserting after paragraph 12—
+**23.**[^c-3baa1006f71fec4426d3dc398f68a3a9] The Schedule is amended by inserting after paragraph 12—
 
 > **12A.** In section 59[^f00036] (restrictions on putting export goods alongside for loading)—
 >
@@ -1644,20 +1644,20 @@ Article 8
 
 .
 
-**24.**[^key-75ca1a07344ae3d0aaf2ff51dd4f56c8] Paragraph 13 of the Schedule is amended—
+**24.**[^c-75ca1a07344ae3d0aaf2ff51dd4f56c8] Paragraph 13 of the Schedule is amended—
 
 - (a) by inserting after the words “departing from” the words “a place which is”;
 - (b) by substituting for the words “United Kingdom”, wherever occurring, the words “member States”; and
 - (c) in sub—paragraph (a) by substituting for the words “person in charge of a vehicle” the words “train manager”.
 
-**25.**[^key-2c86d32f16bc79795ea1fd872cf57b38] Paragraph 14 of the Schedule is amended in sub—paragraph (2) by substituting—
+**25.**[^c-2c86d32f16bc79795ea1fd872cf57b38] Paragraph 14 of the Schedule is amended in sub—paragraph (2) by substituting—
 
 - (a) for the words “person in charge of a vehicle” the words “train manager”, and
 - (b) for the words “in charge thereof”, where first occurring, the words “the train manager”.
 
-**26.**[^key-1bddace2dcc082561df47cbbd9ede192] Paragraph 16 of the Schedule is amended by substituting for the words “person in charge of the vehicle” the words “train manager”.
+**26.**[^c-1bddace2dcc082561df47cbbd9ede192] Paragraph 16 of the Schedule is amended by substituting for the words “person in charge of the vehicle” the words “train manager”.
 
-**27.**[^key-da07ed648df3e8fb56e2d5187c61f7ba] The Schedule is amended by inserting after paragraph 17—
+**27.**[^c-da07ed648df3e8fb56e2d5187c61f7ba] The Schedule is amended by inserting after paragraph 17—
 
 > **17A.** For the purposes of section 77[^f00037] (information in relation to goods imported or exported) goods about to be loaded onto a vehicle for exportation through the tunnel shall be treated as goods about to be shipped for exportation, and the reference in subsection (3) to shipment shall be construed accordingly.
 >
@@ -1676,25 +1676,25 @@ Article 8
 
 .
 
-**28.**[^key-a846d1dfc78d49e9f0a6714bc31ed229] Paragraph 18 of the Schedule is amended by inserting after the words “(whether in England or in France)” the words “and a reference to a through train, and the reference to the United Kingdom shall be construed as including a reference to a control zone in France”.
+**28.**[^c-a846d1dfc78d49e9f0a6714bc31ed229] Paragraph 18 of the Schedule is amended by inserting after the words “(whether in England or in France)” the words “and a reference to a through train, and the reference to the United Kingdom shall be construed as including a reference to a control zone in France”.
 
-**29.**[^key-c84f413b87a24ff6129dc32299317310] The Schedule is amended by inserting after paragraph 18—
+**29.**[^c-c84f413b87a24ff6129dc32299317310] The Schedule is amended by inserting after paragraph 18—
 
 > **18A.** In section 86[^f00040] (special penalty where offender armed or disguised) the reference to the United Kingdom shall be construed as including a reference to a control zone in France.
 
 .
 
-**30.**[^key-882fd9d3df025aec612bc79341fa11b2] The Schedule is amended by inserting immediately below the sub—heading “Part XI of the Act of 1979: Detention of Persons, Forfeiture and Legal Proceedings”
+**30.**[^c-882fd9d3df025aec612bc79341fa11b2] The Schedule is amended by inserting immediately below the sub—heading “Part XI of the Act of 1979: Detention of Persons, Forfeiture and Legal Proceedings”
 
 > **20A.** The power conferred by section 139(1) to seize or detain any thing liable to forfeiture shall be taken to include a power for any officer or constable to seize or detain any such thing in a control zone in France.
 
 .
 
-**31.**[^key-47bb12ee555410add9cd1fc9fe83a93b] Paragraph 21 of the Schedule is amended by substituting for the words “person in charge of it” the words “train manager”.
+**31.**[^c-47bb12ee555410add9cd1fc9fe83a93b] Paragraph 21 of the Schedule is amended by substituting for the words “person in charge of it” the words “train manager”.
 
-**32.**[^key-d2c50b5f3a31123252e50bc75a328b2f] Paragraph 22 of the Schedule is amended by inserting after the words “through the tunnel” the words “, and in relation to such a vehicle the second reference to the United Kingdom shall be construed as including a reference to a control zone in France within the tunnel system”.
+**32.**[^c-d2c50b5f3a31123252e50bc75a328b2f] Paragraph 22 of the Schedule is amended by inserting after the words “through the tunnel” the words “, and in relation to such a vehicle the second reference to the United Kingdom shall be construed as including a reference to a control zone in France within the tunnel system”.
 
-**33.**[^key-c9bd29aa54ba7ab82b9e3d0d71eaa6e7] The Schedule is amended by substituting for paragraph 25—
+**33.**[^c-c9bd29aa54ba7ab82b9e3d0d71eaa6e7] The Schedule is amended by substituting for paragraph 25—
 
 > **25.** The persons to whom section 164[^f00041] (search of persons) applies shall be taken to include any person who is—
 >
@@ -1709,15 +1709,15 @@ Article 8
 
 Article 9
 
-### PART I — REPEALS[^key-2c3f87193fca73dc801f1c183728200f]
+### PART I — REPEALS[^c-2c3f87193fca73dc801f1c183728200f]
 
 | *Chapter* | *Short title* | *Extent of repeal* |
 | --- | --- | --- |
 | [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). | The Immigration Act 1971. | In section 4(2)(b) and wherever occurring in section 10(1), the words “or through the tunnel system”; section 11(1A); section 27(d); in section 33(1), the definitions of “Concessionaires” and “tunnel system”; in Schedule 2, in paragraph 3(1) and (2) the words from “or leaving” to “tunnel system”, in paragraph 8(1)(c) the words from “or where” to “Concessionaires”, paragraph 16(4A), in paragraphs 19(1) and 20(1) the words from “or, where” to “Concessionaires”, and paragraph 27A. |
 | [1988 c. 14](https://www.legislation.gov.uk/ukpga/1988/14). | The Immigration Act 1988. | Section 8(8). |
-| [^key-89237468458652ca86343fcc8243104b]. . . | [^key-89237468458652ca86343fcc8243104b]. . . | [^key-89237468458652ca86343fcc8243104b]. . . |
+| [^c-89237468458652ca86343fcc8243104b]. . . | [^c-89237468458652ca86343fcc8243104b]. . . | [^c-89237468458652ca86343fcc8243104b]. . . |
 
-### PART II — REVOCATIONS[^key-aac6e0bd3ce2a915edef603dc8d47a82]
+### PART II — REVOCATIONS[^c-aac6e0bd3ce2a915edef603dc8d47a82]
 
 | *Orders revoked* | *References* | *Extent of revocation* |
 | --- | --- | --- |
@@ -1750,255 +1750,255 @@ The revocations in Part II of Schedule 6 are of provisions which have become spe
 
 [^f00001]: Footnote: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
 
-[^key-24a306efebf6b5de5e8fdaa350e63c63]: Commencement: Art. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-24a306efebf6b5de5e8fdaa350e63c63]: Commencement: Art. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-0a027a14e78f47412c38c8d7507dd5a0]: Commencement: Art. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-0a027a14e78f47412c38c8d7507dd5a0]: Commencement: Art. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-76c9dcd4582630769b51905d5da7d044]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/1) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/1)
+[^c-76c9dcd4582630769b51905d5da7d044]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/1) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/1)
 
-[^key-c5bb735b59e126819858079e507a0084]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/1) inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2012/1264/article/3/a)
+[^c-c5bb735b59e126819858079e507a0084]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/1) inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2012/1264/article/3/a)
 
-[^key-ec1fabd7c2df26aa54d7ce37bd2d032e]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/5) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/2)
+[^c-ec1fabd7c2df26aa54d7ce37bd2d032e]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/5) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/2)
 
-[^key-48a374ece15ce16aaa35b811c6d1d29f]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/4) inserted (19.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/2)
+[^c-48a374ece15ce16aaa35b811c6d1d29f]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/4) inserted (19.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/2)
 
-[^key-0c995526f43ad188ee720f055db5579b]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/6) inserted (19.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/3)
+[^c-0c995526f43ad188ee720f055db5579b]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/6) inserted (19.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/3)
 
-[^key-533c0265ce3d9fe577d5a3f2623c6a07]: Textual amendment: [Art. 2(7)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/7) inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2012/1264/article/3/b)
+[^c-533c0265ce3d9fe577d5a3f2623c6a07]: Textual amendment: [Art. 2(7)](https://www.legislation.gov.uk/uksi/1993/1813/article/2/7) inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2012/1264/article/3/b)
 
-[^key-50868cc46cbfdcd0431665c2c2af9152]: Commencement: Art. 3 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-50868cc46cbfdcd0431665c2c2af9152]: Commencement: Art. 3 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-743d4aba601400ad0c0335428c07bfe8]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/3/3) inserted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/3/1)
+[^c-743d4aba601400ad0c0335428c07bfe8]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/3/3) inserted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/3/1)
 
-[^key-06c2ae6db1a8c3298a063909ad57e084]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/1993/1813/article/3A) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/3)
+[^c-06c2ae6db1a8c3298a063909ad57e084]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/1993/1813/article/3A) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/3)
 
-[^key-986156e2194861487d5e74353b44df0e]: Textual amendment: Words in [art. 3A(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/3A/2) inserted (14.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/4)
+[^c-986156e2194861487d5e74353b44df0e]: Textual amendment: Words in [art. 3A(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/3A/2) inserted (14.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/4)
 
-[^key-b497a8759b9a6f09a6d9a11c49c303a4]: Textual amendment: [Art. 3A(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/3A/3) substituted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2001/3707/article/3/2)
+[^c-b497a8759b9a6f09a6d9a11c49c303a4]: Textual amendment: [Art. 3A(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/3A/3) substituted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2001/3707/article/3/2)
 
-[^key-1dca77201b14e4fef2abf2e3f2e5b90b]: Textual amendment: Words in [art. 3A(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/3A/3) inserted (14.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/4)
+[^c-1dca77201b14e4fef2abf2e3f2e5b90b]: Textual amendment: Words in [art. 3A(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/3A/3) inserted (14.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/4)
 
-[^key-f22ffeb999a029e395f0f6f32c9431fe]: Textual amendment: [Art. 3A(4)](https://www.legislation.gov.uk/uksi/1993/1813/article/3A/4) inserted (14.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/4)
+[^c-f22ffeb999a029e395f0f6f32c9431fe]: Textual amendment: [Art. 3A(4)](https://www.legislation.gov.uk/uksi/1993/1813/article/3A/4) inserted (14.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/4)
 
-[^key-372c65e9177dc80af13b1ef60bf4de81]: Commencement: Art. 4 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-372c65e9177dc80af13b1ef60bf4de81]: Commencement: Art. 4 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-3fdfd453da023150cffaae323f40f9b7]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/1) inserted (2.10.1996) by [The Channel Tunnel (International Arrangements) (Amendment) Order 1996 (S.I. 1996/2283)](https://www.legislation.gov.uk/uksi/1996/2283), [arts. 1](https://www.legislation.gov.uk/uksi/1996/2283/article/1), [2(b)](https://www.legislation.gov.uk/uksi/1996/2283/article/2/b)
+[^c-3fdfd453da023150cffaae323f40f9b7]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/1) inserted (2.10.1996) by [The Channel Tunnel (International Arrangements) (Amendment) Order 1996 (S.I. 1996/2283)](https://www.legislation.gov.uk/uksi/1996/2283), [arts. 1](https://www.legislation.gov.uk/uksi/1996/2283/article/1), [2(b)](https://www.legislation.gov.uk/uksi/1996/2283/article/2/b)
 
-[^key-920ebd6a8e222f26bdd0baa07c2214b4]: Textual amendment: [Art. 4(1A)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/1A) inserted (2.10.1996) by [The Channel Tunnel (International Arrangements) (Amendment) Order 1996 (S.I. 1996/2283)](https://www.legislation.gov.uk/uksi/1996/2283), [arts. 1](https://www.legislation.gov.uk/uksi/1996/2283/article/1), [2(b)](https://www.legislation.gov.uk/uksi/1996/2283/article/2/b)
+[^c-920ebd6a8e222f26bdd0baa07c2214b4]: Textual amendment: [Art. 4(1A)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/1A) inserted (2.10.1996) by [The Channel Tunnel (International Arrangements) (Amendment) Order 1996 (S.I. 1996/2283)](https://www.legislation.gov.uk/uksi/1996/2283), [arts. 1](https://www.legislation.gov.uk/uksi/1996/2283/article/1), [2(b)](https://www.legislation.gov.uk/uksi/1996/2283/article/2/b)
 
-[^key-f8ad386c86e3f1dc59bd02f1e26f5fd0]: Textual amendment: [Art. 4(1AA)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/1AA) inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2012/1264/article/4/a)
+[^c-f8ad386c86e3f1dc59bd02f1e26f5fd0]: Textual amendment: [Art. 4(1AA)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/1AA) inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2012/1264/article/4/a)
 
-[^key-ec2e6c878ad06c43f33193fff0162a40]: Textual amendment: [Art. 4(1B)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/1B) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/4)
+[^c-ec2e6c878ad06c43f33193fff0162a40]: Textual amendment: [Art. 4(1B)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/1B) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/4)
 
-[^key-8b219823ecd8dd2ae5f5ea7cd7fb51b0]: Textual amendment: [Art. 4(1C)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/1C) inserted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [4](https://www.legislation.gov.uk/uksi/2001/3707/article/4)
+[^c-8b219823ecd8dd2ae5f5ea7cd7fb51b0]: Textual amendment: [Art. 4(1C)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/1C) inserted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [4](https://www.legislation.gov.uk/uksi/2001/3707/article/4)
 
-[^key-7a07ff8e2a53a4056f65d6561dfcdf0c]: Textual amendment: Words in [art. 4(1C)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/1C) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [3](https://www.legislation.gov.uk/uksi/2020/915/article/3)
+[^c-7a07ff8e2a53a4056f65d6561dfcdf0c]: Textual amendment: Words in [art. 4(1C)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/1C) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [3](https://www.legislation.gov.uk/uksi/2020/915/article/3)
 
-[^key-8f7a9b2eaf9ce2eb5bb458a4e9a5a339]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/5)
+[^c-8f7a9b2eaf9ce2eb5bb458a4e9a5a339]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/5)
 
-[^key-7cfa5e43255970495efaf57898ed9a37]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 27(2)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/27/2/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7cfa5e43255970495efaf57898ed9a37]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 27(2)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/27/2/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7fca7a15143f63e23b5e8b6504dc7e75]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-7fca7a15143f63e23b5e8b6504dc7e75]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-9794f81458173db8a04bbe742459c75a]: Textual amendment: Word in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) omitted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by virtue of [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2/3), [4(b)](https://www.legislation.gov.uk/uksi/2012/1264/article/4/b)
+[^c-9794f81458173db8a04bbe742459c75a]: Textual amendment: Word in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) omitted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by virtue of [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2/3), [4(b)](https://www.legislation.gov.uk/uksi/2012/1264/article/4/b)
 
-[^key-717323bf6c2141759d02570019552663]: Textual amendment: [Art. 4(2)(c)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2/c) and word inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2012/1264/article/4/b)
+[^c-717323bf6c2141759d02570019552663]: Textual amendment: [Art. 4(2)(c)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2/c) and word inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2012/1264/article/4/b)
 
-[^key-d7078c7c35cbb708b5c8786bb9eefc92]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(2)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/2/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-d7078c7c35cbb708b5c8786bb9eefc92]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(2)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/2/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-cfce230e443ee7d2f55320020c5a4bac]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(2)(c)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/2/c) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-cfce230e443ee7d2f55320020c5a4bac]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(2)(c)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/2/c) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-49dadd38a3e63e34bae6ddda9be3d7a7]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(2)(d)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/2/d) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-49dadd38a3e63e34bae6ddda9be3d7a7]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(2)(d)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/2/d) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-de11e58858a0dffd069bb78db24f97e1]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 27(2)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/27/2/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de11e58858a0dffd069bb78db24f97e1]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/2) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 27(2)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/27/2/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7005fd454f93ebd19804080a4d2c8ca4]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/6)
+[^c-7005fd454f93ebd19804080a4d2c8ca4]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/6)
 
-[^key-3e94663d27acbb1abe5082d5ee9a2be0]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 27(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/27/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e94663d27acbb1abe5082d5ee9a2be0]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 27(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/27/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-896e58f3ddd672a4d74113a30510fb8d]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-896e58f3ddd672a4d74113a30510fb8d]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-33766aced6fb342d292c123d7a2b5d47]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(3)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/3/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-33766aced6fb342d292c123d7a2b5d47]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(3)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/3/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-b2c5abf0ece32c3b99ae22b2f5738cbb]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(3)(c)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/3/c) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-b2c5abf0ece32c3b99ae22b2f5738cbb]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(3)(c)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/3/c) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-3844ee92fda5e4eefdf28bc49b1f2879]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(3)(d)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/3/d) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-3844ee92fda5e4eefdf28bc49b1f2879]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 229(3)(d)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/229/3/d) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-fe0c7a7db98103f49557a90167d0b33d]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 27(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/27/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe0c7a7db98103f49557a90167d0b33d]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/3) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 27(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/27/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-85c1ace37b5cdd08aabf26fa68462a4e]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/4) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 27(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/27/4) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85c1ace37b5cdd08aabf26fa68462a4e]: Textual amendment: [Art. 4(4)](https://www.legislation.gov.uk/uksi/1993/1813/article/4/4) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 27(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/27/4) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-37e7cb6d515222c4a4a5ab02ecdd2de0]: Commencement: Art. 5 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-37e7cb6d515222c4a4a5ab02ecdd2de0]: Commencement: Art. 5 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-1abf022d93adc741798763f40dd8c430]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/1) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/7)
+[^c-1abf022d93adc741798763f40dd8c430]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/1) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/7)
 
-[^key-32d0a34c29e9a947b4f03acb6b47c169]: Textual amendment: [Art. 5(1ZA)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/1ZA)[(1ZB)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/1ZB) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/915/article/4/2)
+[^c-32d0a34c29e9a947b4f03acb6b47c169]: Textual amendment: [Art. 5(1ZA)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/1ZA)[(1ZB)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/1ZB) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/915/article/4/2)
 
-[^key-272c108faf7653d0ece494f41efd8586]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/1A) inserted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/3/a), [Sch. 4 para. 9(a)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/9/a)
+[^c-272c108faf7653d0ece494f41efd8586]: Textual amendment: [Art. 5(1A)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/1A) inserted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/3/a), [Sch. 4 para. 9(a)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/9/a)
 
-[^key-91acdf3606f928976e03b41cabb7e8d6]: Textual amendment: Words in [art. 5(1A)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/1A) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/4/3/a)
+[^c-91acdf3606f928976e03b41cabb7e8d6]: Textual amendment: Words in [art. 5(1A)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/1A) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/4/3/a)
 
-[^key-ae68a8de5f78e4e1d3bdc1555a881e92]: Textual amendment: Words in [art. 5(1A)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/1A) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/915/article/4/3/b)
+[^c-ae68a8de5f78e4e1d3bdc1555a881e92]: Textual amendment: Words in [art. 5(1A)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/1A) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/915/article/4/3/b)
 
-[^key-4f8929e3a619fa771703f97dffd0bda5]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/2) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2020/915/article/4/4)
+[^c-4f8929e3a619fa771703f97dffd0bda5]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/5/2) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2020/915/article/4/4)
 
-[^key-07994c43a91492eed52914d76066234a]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/1993/1813/article/5A) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/8)
+[^c-07994c43a91492eed52914d76066234a]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/1993/1813/article/5A) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/8)
 
-[^key-f19954d9513f6629a8a3e41ce31a4b64]: Commencement: Art. 6 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-f19954d9513f6629a8a3e41ce31a4b64]: Commencement: Art. 6 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-ee543a38c5fcc3e75d1645d6afaba0ca]: Commencement: Art. 7 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-ee543a38c5fcc3e75d1645d6afaba0ca]: Commencement: Art. 7 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-1c2a7a7c7a267b184e3e5393f3aeb8ee]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/uksi/1993/1813/article/7/1) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(9)(a)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/9/a)
+[^c-1c2a7a7c7a267b184e3e5393f3aeb8ee]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/uksi/1993/1813/article/7/1) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(9)(a)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/9/a)
 
-[^key-ba7de45a8ceaa34b3c68e2733ae14a9d]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/1993/1813/article/7/1/a) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(9)(b)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/9/b)
+[^c-ba7de45a8ceaa34b3c68e2733ae14a9d]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/1993/1813/article/7/1/a) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(9)(b)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/9/b)
 
-[^key-1c081f6deb758f8226ab7e7e78316679]: Textual amendment: [Art. 7(1A)](https://www.legislation.gov.uk/uksi/1993/1813/article/7/1A) inserted (14.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/5)
+[^c-1c081f6deb758f8226ab7e7e78316679]: Textual amendment: [Art. 7(1A)](https://www.legislation.gov.uk/uksi/1993/1813/article/7/1A) inserted (14.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/5)
 
-[^key-a4e87f6bbd120fcaab0ac797aba90a85]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/7/2) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/10)
+[^c-a4e87f6bbd120fcaab0ac797aba90a85]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/uksi/1993/1813/article/7/2) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/10)
 
 [^f00003]: Footnote: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
 
-[^key-acbd7decddbd0f039b66662d2f71304b]: Textual amendment: [Art. 7(3A)](https://www.legislation.gov.uk/uksi/1993/1813/article/7/3A) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/11)
+[^c-acbd7decddbd0f039b66662d2f71304b]: Textual amendment: [Art. 7(3A)](https://www.legislation.gov.uk/uksi/1993/1813/article/7/3A) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2001/1544/article/3/11)
 
-[^key-f0eaa7359ad179b47cf6859b169d9c36]: Textual amendment: [Art. 7(4)](https://www.legislation.gov.uk/uksi/1993/1813/article/7/4) inserted (2.10.1996) by [The Channel Tunnel (International Arrangements) (Amendment) Order 1996 (S.I. 1996/2283)](https://www.legislation.gov.uk/uksi/1996/2283), [arts. 1](https://www.legislation.gov.uk/uksi/1996/2283/article/1), [2(c)](https://www.legislation.gov.uk/uksi/1996/2283/article/2/c)
+[^c-f0eaa7359ad179b47cf6859b169d9c36]: Textual amendment: [Art. 7(4)](https://www.legislation.gov.uk/uksi/1993/1813/article/7/4) inserted (2.10.1996) by [The Channel Tunnel (International Arrangements) (Amendment) Order 1996 (S.I. 1996/2283)](https://www.legislation.gov.uk/uksi/1996/2283), [arts. 1](https://www.legislation.gov.uk/uksi/1996/2283/article/1), [2(c)](https://www.legislation.gov.uk/uksi/1996/2283/article/2/c)
 
-[^key-d32ab0245f38e4909a0fdf3d5c571245]: Commencement: Art. 8 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-d32ab0245f38e4909a0fdf3d5c571245]: Commencement: Art. 8 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-dfd4990a6952dacbf4f6f3cde1d3b39c]: Commencement: Art. 9 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-dfd4990a6952dacbf4f6f3cde1d3b39c]: Commencement: Art. 9 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-b6065b4e4ac212ed1e35bbcb35ff2eed]: Commencement: Sch. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-b6065b4e4ac212ed1e35bbcb35ff2eed]: Commencement: Sch. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-9c6ae7b4253fbddd13fd39fe80b002ce]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/1) inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [5](https://www.legislation.gov.uk/uksi/2012/1264/article/5)
+[^c-9c6ae7b4253fbddd13fd39fe80b002ce]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/1) inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [5](https://www.legislation.gov.uk/uksi/2012/1264/article/5)
 
-[^key-a73337eb976e4f2bd8869d5069b5ed7e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/1) inserted (2.10.1996) by [The Channel Tunnel (International Arrangements) (Amendment) Order 1996 (S.I. 1996/2283)](https://www.legislation.gov.uk/uksi/1996/2283), [arts. 1](https://www.legislation.gov.uk/uksi/1996/2283/article/1), [2(a)](https://www.legislation.gov.uk/uksi/1996/2283/article/2/a)
+[^c-a73337eb976e4f2bd8869d5069b5ed7e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/1) inserted (2.10.1996) by [The Channel Tunnel (International Arrangements) (Amendment) Order 1996 (S.I. 1996/2283)](https://www.legislation.gov.uk/uksi/1996/2283), [arts. 1](https://www.legislation.gov.uk/uksi/1996/2283/article/1), [2(a)](https://www.legislation.gov.uk/uksi/1996/2283/article/2/a)
 
-[^key-8cc5749309f48d098cd027b419e97a8b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/1) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2001/1544/article/4/1)
+[^c-8cc5749309f48d098cd027b419e97a8b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/1) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2001/1544/article/4/1)
 
-[^key-a173d09b84c06d6b01f640b5791aa01b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/1) inserted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/3707/article/5/2)
+[^c-a173d09b84c06d6b01f640b5791aa01b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/1) inserted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/3707/article/5/2)
 
-[^key-b3d73ff7dc7bdfe0d17b9b95260bee36]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/1) substituted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/5/1)
+[^c-b3d73ff7dc7bdfe0d17b9b95260bee36]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/1) substituted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/5/1)
 
-[^key-b9b2930ff9aa078cf76fc44c7f18aa7d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/1) inserted (14.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/6)
+[^c-b9b2930ff9aa078cf76fc44c7f18aa7d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/1) inserted (14.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/6)
 
-[^key-5909bcdaf587d313455f99fbe27250c4]: Commencement: Sch. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-5909bcdaf587d313455f99fbe27250c4]: Commencement: Sch. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-440aa2d3f445fe41c25b2f5153b59f66]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/1993/1813/schedule/2A) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/4/2)
+[^c-440aa2d3f445fe41c25b2f5153b59f66]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/1993/1813/schedule/2A) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/4/2)
 
-[^key-8f53f16c49eacc831b4d2c2e9fd31d63]: Textual amendment: Words in [Sch. 2A](https://www.legislation.gov.uk/uksi/1993/1813/schedule/2A) inserted (19.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/3), [2(7)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/7)
+[^c-8f53f16c49eacc831b4d2c2e9fd31d63]: Textual amendment: Words in [Sch. 2A](https://www.legislation.gov.uk/uksi/1993/1813/schedule/2A) inserted (19.11.2007) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2007 (S.I. 2007/2907)](https://www.legislation.gov.uk/uksi/2007/2907), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2907/article/1/3), [2(7)](https://www.legislation.gov.uk/uksi/2007/2907/article/2/7)
 
-[^key-e0f5ae41f09e6170863468d663c7b0f1]: Modification: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1) incorporated (with modifications) (1.12.1997) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3) (as amended (coming into force in accordance with art. 1(3)(4) of the amending S.I.) by [S.I. 2021/1196](https://www.legislation.gov.uk/uksi/2021/1196), [art. 3](https://www.legislation.gov.uk/uksi/2021/1196/article/3))
+[^c-e0f5ae41f09e6170863468d663c7b0f1]: Modification: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1) incorporated (with modifications) (1.12.1997) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1994/1405/schedule/3) (as amended (coming into force in accordance with art. 1(3)(4) of the amending S.I.) by [S.I. 2021/1196](https://www.legislation.gov.uk/uksi/2021/1196), [art. 3](https://www.legislation.gov.uk/uksi/2021/1196/article/3))
 
-[^key-5b49c457c5d7ece3cd120fd367fbfd5c]: Commencement: Sch. 3 Pt. I para. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-5b49c457c5d7ece3cd120fd367fbfd5c]: Commencement: Sch. 3 Pt. I para. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-bf0081328e2f2595e39fa6fb11b59f52]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/1/1/a) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/2)
+[^c-bf0081328e2f2595e39fa6fb11b59f52]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/1/1/a) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/2)
 
 [^f00004]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
 [^f00005]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60), applied to Customs and Excise with modifications by [S.I. 1985/1800](https://www.legislation.gov.uk/uksi/1985/1800), [1987/439](https://www.legislation.gov.uk/uksi/1987/439).
 
-[^key-88d79c8d2673768c6ab33aa1a5fdebe2]: Textual amendment: Words in [Sch. 3 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/1/2/b) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/2/a)
+[^c-88d79c8d2673768c6ab33aa1a5fdebe2]: Textual amendment: Words in [Sch. 3 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/1/2/b) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/2/a)
 
 [^f00006]: Footnote: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12); section 34(2) to (7) and (8) to (11) were substituted by the Police and Criminal Evidence Act 1984, section 57; section 34(7) and (8) were amended, and section 34(7A) inserted, by the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41), section 108(5) and (7), Schedule 13 paragraph 6, and Schedule 15.
 
-[^key-00d814fd4683fe702c62c0385beef333]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 1(2)(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/1/2/c) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/3)
+[^c-00d814fd4683fe702c62c0385beef333]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 1(2)(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/1/2/c) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/3)
 
-[^key-67cd31517a0feae338df89b82f26bb51]: Textual amendment: [Sch. 3 Pt. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1/paragraph/1/3) inserted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/3/a), [Sch. 4 para. 10(a)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/10/a)
+[^c-67cd31517a0feae338df89b82f26bb51]: Textual amendment: [Sch. 3 Pt. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1/paragraph/1/3) inserted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/3/a), [Sch. 4 para. 10(a)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/10/a)
 
-[^key-368295f9755b38b5e542a8aae7fb75d8]: Textual amendment: Words in [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/1/3) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/2/b)
+[^c-368295f9755b38b5e542a8aae7fb75d8]: Textual amendment: Words in [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/1/3) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/2/b)
 
-[^key-570092824662c8efa5ad2094f2a5f6cd]: Commencement: Sch. 3 Pt. I para. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-570092824662c8efa5ad2094f2a5f6cd]: Commencement: Sch. 3 Pt. I para. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-1e1b4c3749ab4031b9d6239f990a635f]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2) heading inserted (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/856/article/3/1)
+[^c-1e1b4c3749ab4031b9d6239f990a635f]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2) heading inserted (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/856/article/3/1)
 
-[^key-64ec8180dac565786ff2036c80caaf29]: Textual amendment: Words in [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/1/a) inserted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/3/a)
+[^c-64ec8180dac565786ff2036c80caaf29]: Textual amendment: Words in [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/1/a) inserted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/3/a)
 
-[^key-50951094b6f3447b66e4065a833fc41d]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 2(1)(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1/paragraph/2/1/c) substituted (1.1.2006) by [The Serious Organised Crime and Police Act 2005 (Powers of Arrest) (Consequential Amendments) Order 2005 (S.I. 2005/3389)](https://www.legislation.gov.uk/uksi/2005/3389), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/3389/article/1/1), [5](https://www.legislation.gov.uk/uksi/2005/3389/article/5)
+[^c-50951094b6f3447b66e4065a833fc41d]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 2(1)(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1/paragraph/2/1/c) substituted (1.1.2006) by [The Serious Organised Crime and Police Act 2005 (Powers of Arrest) (Consequential Amendments) Order 2005 (S.I. 2005/3389)](https://www.legislation.gov.uk/uksi/2005/3389), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/3389/article/1/1), [5](https://www.legislation.gov.uk/uksi/2005/3389/article/5)
 
-[^key-0093b0847f5a636d5ce5ae4663ec1506]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/2/a) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/4)
+[^c-0093b0847f5a636d5ce5ae4663ec1506]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/2/a) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/4)
 
 [^f00007]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-db8d784ceb2245b969439def84a9966e]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/2/a) added (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/4)
+[^c-db8d784ceb2245b969439def84a9966e]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/2/a) added (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/4)
 
-[^key-ed7762045cd9e528ecc7499cc3140f20]: Textual amendment: [Sch. 3 Pt. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1/paragraph/2/2/b) revoked (19.2.2001) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2001 (S.I. 2001/178)](https://www.legislation.gov.uk/uksi/2001/178), [arts. 1](https://www.legislation.gov.uk/uksi/2001/178/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2001/178/article/3/a)
+[^c-ed7762045cd9e528ecc7499cc3140f20]: Textual amendment: [Sch. 3 Pt. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1/paragraph/2/2/b) revoked (19.2.2001) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2001 (S.I. 2001/178)](https://www.legislation.gov.uk/uksi/2001/178), [arts. 1](https://www.legislation.gov.uk/uksi/2001/178/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2001/178/article/3/a)
 
-[^key-6b5a5545b63d82a6868d4e0c489f5b48]: Textual amendment: Words in [Sch. 3 para. 2(2)(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/2/c) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/3/b)
+[^c-6b5a5545b63d82a6868d4e0c489f5b48]: Textual amendment: Words in [Sch. 3 para. 2(2)(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/2/c) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/3/b)
 
-[^key-bc771ad0f06ecc3c476f4962b4828def]: Textual amendment: Words in [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/3) renumbered as Sch. 3 para. 2(3)(a) (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2/3), [6(2)(a)](https://www.legislation.gov.uk/uksi/2012/1264/article/6/2/a)
+[^c-bc771ad0f06ecc3c476f4962b4828def]: Textual amendment: Words in [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/3) renumbered as Sch. 3 para. 2(3)(a) (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2/3), [6(2)(a)](https://www.legislation.gov.uk/uksi/2012/1264/article/6/2/a)
 
-[^key-e2f67401e17bceb2cc0e7638d6d71e31]: Textual amendment: [Sch. 3 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/3/b) inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2012/1264/article/6/2/b)
+[^c-e2f67401e17bceb2cc0e7638d6d71e31]: Textual amendment: [Sch. 3 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/3/b) inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2012/1264/article/6/2/b)
 
-[^key-82caf97d6b82edee098baf0d4b43a759]: Textual amendment: [Sch. 3 para. 2(3A)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/3A)[(3B)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/3B) inserted (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/856/article/3/2)
+[^c-82caf97d6b82edee098baf0d4b43a759]: Textual amendment: [Sch. 3 para. 2(3A)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/3A)[(3B)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/3B) inserted (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/856/article/3/2)
 
-[^key-cea6b7bb7d72760897a5e34d48d2d0be]: Textual amendment: Words in [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/4) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/3/c)
+[^c-cea6b7bb7d72760897a5e34d48d2d0be]: Textual amendment: Words in [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/2/4) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/3/c)
 
-[^key-b08f4e47f38d189501b29bf73e49c769]: Commencement: Sch. 3 Pt. I para. 3 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-b08f4e47f38d189501b29bf73e49c769]: Commencement: Sch. 3 Pt. I para. 3 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-db7ef46f29bcdd051791ab68305718ef]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 3(1)(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/1/a) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/5)
+[^c-db7ef46f29bcdd051791ab68305718ef]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 3(1)(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/1/a) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/5)
 
-[^key-1cecf5e935b61f509f4301829498fb99]: Textual amendment: Word in [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/2) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/a/i)
+[^c-1cecf5e935b61f509f4301829498fb99]: Textual amendment: Word in [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/2) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/a/i)
 
-[^key-b795b559ae88a65d41280e79141aa1a3]: Textual amendment: Word in [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/2) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/a/ii)
+[^c-b795b559ae88a65d41280e79141aa1a3]: Textual amendment: Word in [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/2) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/a/ii)
 
-[^key-4bfd5195e9545a45cfb9cef34c7036f2]: Textual amendment: Words in [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/2) omitted (1.12.2021) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/a/iii)
+[^c-4bfd5195e9545a45cfb9cef34c7036f2]: Textual amendment: Words in [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/2) omitted (1.12.2021) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/a/iii)
 
-[^key-88148c5008add9634c9bfadeec3ad8a1]: Textual amendment: Words in [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/2) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/a/iv)
+[^c-88148c5008add9634c9bfadeec3ad8a1]: Textual amendment: Words in [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/2) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/a/iv)
 
-[^key-62238222f485ed07431e5bf860cfee4f]: Textual amendment: [Sch. 3 para. 3(2A)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/2A) inserted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/b)
+[^c-62238222f485ed07431e5bf860cfee4f]: Textual amendment: [Sch. 3 para. 3(2A)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/2A) inserted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/b)
 
-[^key-01adcc7f79af7bdef23ff004d693fdb1]: Textual amendment: Words in [Sch. 3 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/3/a) inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/6/3)
+[^c-01adcc7f79af7bdef23ff004d693fdb1]: Textual amendment: Words in [Sch. 3 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/3/a) inserted (6.7.2012 as notified in the London Gazette dated 26.7.2012) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2012 (S.I. 2012/1264)](https://www.legislation.gov.uk/uksi/2012/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2012/1264/article/6/3)
 
-[^key-86d688fc76f3d2a934145658d05f8a5a]: Textual amendment: Word in [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/3) inserted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/c/i)
+[^c-86d688fc76f3d2a934145658d05f8a5a]: Textual amendment: Word in [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/3) inserted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/c/i)
 
-[^key-802ad6337435a737f87ca2bbddd32e57]: Textual amendment: Word in [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/3) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/c/ii)
+[^c-802ad6337435a737f87ca2bbddd32e57]: Textual amendment: Word in [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/3) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/c/ii)
 
-[^key-995c590a1ca94f4b025226f7079b8d20]: Textual amendment: Words in [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/3) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/c/iii)
+[^c-995c590a1ca94f4b025226f7079b8d20]: Textual amendment: Words in [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/3) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/4/c/iii)
 
-[^key-26be8950369c6edea68cbb37cea08bf6]: Textual amendment: [Sch. 3 Pt. 1 para. 3(4)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1/paragraph/3/4) revoked (19.2.2001) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2001 (S.I. 2001/178)](https://www.legislation.gov.uk/uksi/2001/178), [arts. 1](https://www.legislation.gov.uk/uksi/2001/178/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2001/178/article/3/b)
+[^c-26be8950369c6edea68cbb37cea08bf6]: Textual amendment: [Sch. 3 Pt. 1 para. 3(4)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1/paragraph/3/4) revoked (19.2.2001) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2001 (S.I. 2001/178)](https://www.legislation.gov.uk/uksi/2001/178), [arts. 1](https://www.legislation.gov.uk/uksi/2001/178/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2001/178/article/3/b)
 
-[^key-346f7bf3d4296ccbe0fa23bd3ad59e86]: Commencement: Sch. 3 Pt. I para. 4 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-346f7bf3d4296ccbe0fa23bd3ad59e86]: Commencement: Sch. 3 Pt. I para. 4 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-6b67a6a0533d3ecd5594649020c0685d]: Textual amendment: [Sch. 3 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1/paragraph/4) heading substituted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/3/a), [Sch. 4 para. 10(b)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/10/b)
+[^c-6b67a6a0533d3ecd5594649020c0685d]: Textual amendment: [Sch. 3 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1/paragraph/4) heading substituted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/3/a), [Sch. 4 para. 10(b)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/10/b)
 
-[^key-e79625687a6fa086fda4ba6f635ddd81]: Textual amendment: [Sch. 3 Pt. 1 para. 4(1)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1/paragraph/4/1) substituted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/3/a), [Sch. 4 para. 10(c)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/10/c)
+[^c-e79625687a6fa086fda4ba6f635ddd81]: Textual amendment: [Sch. 3 Pt. 1 para. 4(1)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/1/paragraph/4/1) substituted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/3/a), [Sch. 4 para. 10(c)](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/10/c)
 
-[^key-8bbc9691c84345e2412999b88d2ae798]: Textual amendment: Word in [Sch. 3 para. 4(6)(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/4/6/c) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/5)
+[^c-8bbc9691c84345e2412999b88d2ae798]: Textual amendment: Word in [Sch. 3 para. 4(6)(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/4/6/c) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/5)
 
-[^key-0cffac38201d0d856cd9c32e0d4c2457]: Commencement: Sch. 3 Pt. I para. 5 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-0cffac38201d0d856cd9c32e0d4c2457]: Commencement: Sch. 3 Pt. I para. 5 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-e73a2f7f494fc0e137eeda70e990f9cd]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/5/1) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/6)
+[^c-e73a2f7f494fc0e137eeda70e990f9cd]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 5(1)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/5/1) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/6)
 
-[^key-5122d630c1bc4603d378920e7cff6491]: Textual amendment: Word in [Sch. 3 para. 5(9)(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/5/9/c) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/6)
+[^c-5122d630c1bc4603d378920e7cff6491]: Textual amendment: Word in [Sch. 3 para. 5(9)(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/5/9/c) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/6)
 
-[^key-4891fb6480a8906fc072f89d84e15cb0]: Commencement: Sch. 3 Pt. I para. 6 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-4891fb6480a8906fc072f89d84e15cb0]: Commencement: Sch. 3 Pt. I para. 6 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-c9937dd31a1b5c1ae1e8e75a3e2c95dc]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/6/1) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/6)
+[^c-c9937dd31a1b5c1ae1e8e75a3e2c95dc]: Textual amendment: Words in [Sch. 3 Pt. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/6/1) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2001/1544/article/5/6)
 
-[^key-1b9f53b240a259e1d8f8f23d7916f7a7]: Textual amendment: Word in [Sch. 3 para. 6(9)(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/6/9/c) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/7)
+[^c-1b9f53b240a259e1d8f8f23d7916f7a7]: Textual amendment: Word in [Sch. 3 para. 6(9)(c)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/6/9/c) substituted (1.12.2021) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2021 (S.I. 2021/1196)](https://www.legislation.gov.uk/uksi/2021/1196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1196/article/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2021/1196/article/2/7)
 
-[^key-250b6e8ec37046182d0bf2c0eb9c491d]: Commencement: Sch. 3 Pt. II para. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-250b6e8ec37046182d0bf2c0eb9c491d]: Commencement: Sch. 3 Pt. II para. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-471ca702096646a24051b76c98662dcc]: Commencement: Sch. 3 Pt. II para. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-471ca702096646a24051b76c98662dcc]: Commencement: Sch. 3 Pt. II para. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-7b998bd48fcc4cc3f2cbbac5e3b814c6]: Commencement: Sch. 3 Pt. II para. 3 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-7b998bd48fcc4cc3f2cbbac5e3b814c6]: Commencement: Sch. 3 Pt. II para. 3 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-1ebaf43b4ec6478d7d9531d5c309a4e9]: Textual amendment: [Sch. 3 Pt. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/II/paragraph/3/a) substituted (30.11.2003) by [Channel Tunnel (International Arrangements) (Amendment) Order 2003 (S.I. 2003/2799)](https://www.legislation.gov.uk/uksi/2003/2799), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2799/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/2799/article/2/2)
+[^c-1ebaf43b4ec6478d7d9531d5c309a4e9]: Textual amendment: [Sch. 3 Pt. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/II/paragraph/3/a) substituted (30.11.2003) by [Channel Tunnel (International Arrangements) (Amendment) Order 2003 (S.I. 2003/2799)](https://www.legislation.gov.uk/uksi/2003/2799), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2799/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/2799/article/2/2)
 
-[^key-0b00806a0ed778c0814f42581976b90e]: Textual amendment: [Sch. 3 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/2/paragraph/4) revoked (30.11.2003) by [Channel Tunnel (International Arrangements) (Amendment) Order 2003 (S.I. 2003/2799)](https://www.legislation.gov.uk/uksi/2003/2799), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2799/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/2799/article/2/3)
+[^c-0b00806a0ed778c0814f42581976b90e]: Textual amendment: [Sch. 3 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/2/paragraph/4) revoked (30.11.2003) by [Channel Tunnel (International Arrangements) (Amendment) Order 2003 (S.I. 2003/2799)](https://www.legislation.gov.uk/uksi/2003/2799), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2799/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/2799/article/2/3)
 
-[^key-05ee32f192935b25743d0a02c0cab9a5]: Commencement: Sch. 3 Pt. II para. 5 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-05ee32f192935b25743d0a02c0cab9a5]: Commencement: Sch. 3 Pt. II para. 5 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-666dd4e5f8343d0826533ac34ae8814b]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 5(g)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/2/paragraph/5/g) substituted (30.11.2003) by [Channel Tunnel (International Arrangements) (Amendment) Order 2003 (S.I. 2003/2799)](https://www.legislation.gov.uk/uksi/2003/2799), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2799/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/2799/article/2/4)
+[^c-666dd4e5f8343d0826533ac34ae8814b]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 5(g)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/2/paragraph/5/g) substituted (30.11.2003) by [Channel Tunnel (International Arrangements) (Amendment) Order 2003 (S.I. 2003/2799)](https://www.legislation.gov.uk/uksi/2003/2799), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2799/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/2799/article/2/4)
 
-[^key-107c58ad571e512cc3fc3e62fb7aec74]: Commencement: Sch. 3 Pt. II para. 6 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-107c58ad571e512cc3fc3e62fb7aec74]: Commencement: Sch. 3 Pt. II para. 6 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-d9ade710bbd2eeef4ea4e71cbe8e1e26]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/2/paragraph/6/a) substituted (30.11.2003) by [Channel Tunnel (International Arrangements) (Amendment) Order 2003 (S.I. 2003/2799)](https://www.legislation.gov.uk/uksi/2003/2799), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2799/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/2799/article/2/5)
+[^c-d9ade710bbd2eeef4ea4e71cbe8e1e26]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/part/2/paragraph/6/a) substituted (30.11.2003) by [Channel Tunnel (International Arrangements) (Amendment) Order 2003 (S.I. 2003/2799)](https://www.legislation.gov.uk/uksi/2003/2799), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2799/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/2799/article/2/5)
 
-[^key-abf5fdcc732940ff1fa53a1ba1c932aa]: Commencement: Sch. 3 Pt. II para. 7 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-abf5fdcc732940ff1fa53a1ba1c932aa]: Commencement: Sch. 3 Pt. II para. 7 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-5ee3ed99ed672925d6566969723a2e1f]: Commencement: Sch. 3 Pt. II para. 8 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-5ee3ed99ed672925d6566969723a2e1f]: Commencement: Sch. 3 Pt. II para. 8 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-87cbbdc375f5fb6398a56c74f88043ad]: Commencement: Sch. 4 para. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-87cbbdc375f5fb6398a56c74f88043ad]: Commencement: Sch. 4 para. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00010]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -2008,187 +2008,187 @@ The revocations in Part II of Schedule 6 are of provisions which have become spe
 
 [^f00013]: Footnote: Section 8 was amended by the British Nationality Act 1981, section 39(4) and (6) and Schedule 4 paragraphs 2 and 5, and by the Immigration Act 1988, section 4.
 
-[^key-7c6721a979e0ffcdf8428ee8a762c518]: Textual amendment: [Sch. 4 para. 1(6)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/6) omitted (30.9.2020) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/915/article/5/3)
+[^c-7c6721a979e0ffcdf8428ee8a762c518]: Textual amendment: [Sch. 4 para. 1(6)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/6) omitted (30.9.2020) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/915/article/5/3)
 
 [^f00015]: Footnote: Section 24 was amended by the British Nationality Act 1981, section 39(6) and Schedule 4 paragraph 2, and by the Immigration Act 1988, sections 6 and 10 and Schedule paragraph 10(3).
 
-[^key-ce15404e79eb4b43943f997290d7a6a8]: Textual amendment: [Sch. 4 para. 1(8)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/8) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/915/article/5/4)
+[^c-ce15404e79eb4b43943f997290d7a6a8]: Textual amendment: [Sch. 4 para. 1(8)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/8) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/915/article/5/4)
 
-[^key-1f9b3bf5d5104d8767392f0e6fc09513]: Textual amendment: Words in Sch. 4 para. 1(9)(b)(ii) inserted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/b), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/11)
+[^c-1f9b3bf5d5104d8767392f0e6fc09513]: Textual amendment: Words in Sch. 4 para. 1(9)(b)(ii) inserted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/b), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/11)
 
-[^key-9a63b4aed4b4ecb45539fb5955a20042]: Textual amendment: [Sch. 4 para. 1(9)(c)(i)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/9/c/i) substituted (5.8.2014) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2014 (S.I. 2014/1814)](https://www.legislation.gov.uk/uksi/2014/1814), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1814/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1814/article/2/2/a)
+[^c-9a63b4aed4b4ecb45539fb5955a20042]: Textual amendment: [Sch. 4 para. 1(9)(c)(i)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/9/c/i) substituted (5.8.2014) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2014 (S.I. 2014/1814)](https://www.legislation.gov.uk/uksi/2014/1814), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1814/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1814/article/2/2/a)
 
-[^key-e9d77a7c8860990c95699397da3d53ef]: Textual amendment: [Sch. 4 para. 1(9)(d)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/9/d) and word inserted (5.8.2014) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2014 (S.I. 2014/1814)](https://www.legislation.gov.uk/uksi/2014/1814), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1814/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1814/article/2/2/b)
+[^c-e9d77a7c8860990c95699397da3d53ef]: Textual amendment: [Sch. 4 para. 1(9)(d)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/9/d) and word inserted (5.8.2014) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2014 (S.I. 2014/1814)](https://www.legislation.gov.uk/uksi/2014/1814), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1814/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1814/article/2/2/b)
 
-[^key-1462d2943ccd4984cf22ed214d1d4418]: Textual amendment: Sch. 4 para. 1(9A) inserted (25.5.2001) by virtue of [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/6/2)
+[^c-1462d2943ccd4984cf22ed214d1d4418]: Textual amendment: Sch. 4 para. 1(9A) inserted (25.5.2001) by virtue of [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/6/2)
 
 [^f00017]: Footnote: Section 33 was amended by the British Nationality Act 1981, section 39(6) and Schedule 4 paragraphs 2, 3(2) and 7, and by the Immigration Act 1988, section 10 and Schedule paragraph 5.
 
-[^key-35defc047d33c4f1933cc0bf42650392]: Textual amendment: Sch. 4 para. 1(10)(b) substituted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/b), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/11)
+[^c-35defc047d33c4f1933cc0bf42650392]: Textual amendment: Sch. 4 para. 1(10)(b) substituted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/1994/1405/article/3/b), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/11)
 
 [^f00018]: Footnote: Schedule 2 was amended by the British Nationality Act 1981, section 39(6) and Schedule 4 paragraphs 2 and 3(1), and by the Immigration Act 1988, section 10 and Schedule paragraphs 6 to 10.
 
-[^key-b1129539708f5177584f82f48886bb7f]: Textual amendment: Sch. 4 para. 1(11)(d) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2001/1544/article/6/3)
+[^c-b1129539708f5177584f82f48886bb7f]: Textual amendment: Sch. 4 para. 1(11)(d) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2001/1544/article/6/3)
 
-[^key-c475af888a3f408ab466893dc64483f6]: Textual amendment: Words in Sch. 4 para. 1(11)(e) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2001/1544/article/6/4)
+[^c-c475af888a3f408ab466893dc64483f6]: Textual amendment: Words in Sch. 4 para. 1(11)(e) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2001/1544/article/6/4)
 
-[^key-9cc04830f646456c3aaf6ab86cec15c2]: Textual amendment: Words in [Sch. 4 para. 1(11)(e)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/e) substituted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/6/1)
+[^c-9cc04830f646456c3aaf6ab86cec15c2]: Textual amendment: Words in [Sch. 4 para. 1(11)(e)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/e) substituted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/6/1)
 
-[^key-04bc7adb254f87c313471945f568a649]: Textual amendment: Sch. 4 para. 1(11)(ea)[(eb)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/eb) inserted (30.7.2000) by [The Channel Tunnel (International Arrangements) (Amendment No. 2) Order 2000 (S.I. 2000/1775)](https://www.legislation.gov.uk/uksi/2000/1775), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1775/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/1775/article/2/2)
+[^c-04bc7adb254f87c313471945f568a649]: Textual amendment: Sch. 4 para. 1(11)(ea)[(eb)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/eb) inserted (30.7.2000) by [The Channel Tunnel (International Arrangements) (Amendment No. 2) Order 2000 (S.I. 2000/1775)](https://www.legislation.gov.uk/uksi/2000/1775), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1775/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/1775/article/2/2)
 
-[^key-fd0f63ea31e2652c9b1036e30ee80863]: Textual amendment: Sch. 4 para. 1(11)(ea) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2001/1544/article/6/5)
+[^c-fd0f63ea31e2652c9b1036e30ee80863]: Textual amendment: Sch. 4 para. 1(11)(ea) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2001/1544/article/6/5)
 
-[^key-50db361e1208606339888f9d319b6f0b]: Textual amendment: Words in [Sch. 4 para. 1(11)(ea)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/ea) substituted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/6/1)
+[^c-50db361e1208606339888f9d319b6f0b]: Textual amendment: Words in [Sch. 4 para. 1(11)(ea)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/ea) substituted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/6/1)
 
-[^key-e2e97f3029757f64b34ed172dd49c427]: Textual amendment: Words in Sch. 4 para. 1(11)(eb)(i) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2001/1544/article/6/6)
+[^c-e2e97f3029757f64b34ed172dd49c427]: Textual amendment: Words in Sch. 4 para. 1(11)(eb)(i) inserted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2001/1544/article/6/6)
 
-[^key-5df3bc705849b6ebb3ad229eeb539fcf]: Textual amendment: [Sch. 4 para. 1(11)(g)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/g) substituted (5.8.2014) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2014 (S.I. 2014/1814)](https://www.legislation.gov.uk/uksi/2014/1814), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1814/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/1814/article/2/3)
+[^c-5df3bc705849b6ebb3ad229eeb539fcf]: Textual amendment: [Sch. 4 para. 1(11)(g)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/g) substituted (5.8.2014) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2014 (S.I. 2014/1814)](https://www.legislation.gov.uk/uksi/2014/1814), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1814/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/1814/article/2/3)
 
-[^key-8c0aa47c03e6694633fae13289fe0f8b]: Textual amendment: [Sch. 4 para. 1(11)(ga)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/ga) inserted (5.8.2014) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2014 (S.I. 2014/1814)](https://www.legislation.gov.uk/uksi/2014/1814), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1814/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/1814/article/2/4)
+[^c-8c0aa47c03e6694633fae13289fe0f8b]: Textual amendment: [Sch. 4 para. 1(11)(ga)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/ga) inserted (5.8.2014) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2014 (S.I. 2014/1814)](https://www.legislation.gov.uk/uksi/2014/1814), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1814/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/1814/article/2/4)
 
 [^f00019]: Footnote: Paragraph 8(2) was amended by the Immigration Act 1988, section 10 and Schedule paragraph 9(1).
 
-[^key-22a651982b156ee90b5d6c9c79f20cb9]: Textual amendment: Words in [Sch. 4 para. 1(11)(j)(i)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/j/i) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/5/5/a)
+[^c-22a651982b156ee90b5d6c9c79f20cb9]: Textual amendment: Words in [Sch. 4 para. 1(11)(j)(i)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/j/i) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/5/5/a)
 
-[^key-ebbc503a23f946ea8abc69513cc43810]: Textual amendment: Words in [Sch. 4 para. 1(11)(k)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/k) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2020/915/article/5/5/b)
+[^c-ebbc503a23f946ea8abc69513cc43810]: Textual amendment: Words in [Sch. 4 para. 1(11)(k)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/k) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2020/915/article/5/5/b)
 
-[^key-569cd00911e61b38010367fd484aedac]: Textual amendment: Word in Sch. 4 para. 1(11) omitted (28.4.2000) by virtue of [The Channel Tunnel (International Arrangements) (Amendment) Order 2000 (S.I. 2000/913)](https://www.legislation.gov.uk/uksi/2000/913), [arts. 1](https://www.legislation.gov.uk/uksi/2000/913/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/913/article/2/2)
+[^c-569cd00911e61b38010367fd484aedac]: Textual amendment: Word in Sch. 4 para. 1(11) omitted (28.4.2000) by virtue of [The Channel Tunnel (International Arrangements) (Amendment) Order 2000 (S.I. 2000/913)](https://www.legislation.gov.uk/uksi/2000/913), [arts. 1](https://www.legislation.gov.uk/uksi/2000/913/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/913/article/2/2)
 
-[^key-d1de3369a607f13c2c9c46e969af22cd]: Textual amendment: Words in [Sch. 4 para. 1(11)(r)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/r) inserted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/3/b), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/11)
+[^c-d1de3369a607f13c2c9c46e969af22cd]: Textual amendment: Words in [Sch. 4 para. 1(11)(r)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/r) inserted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/3/b), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/11)
 
-[^key-d5fdc5d52067278020caa51105fb9dbc]: Textual amendment: Words in [Sch. 4 para. 1(11)(r)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/r) substituted (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/3579/article/2/2)
+[^c-d5fdc5d52067278020caa51105fb9dbc]: Textual amendment: Words in [Sch. 4 para. 1(11)(r)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/r) substituted (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/3579/article/2/2)
 
-[^key-23bc906948cea95bb652274f46793cd9]: Textual amendment: Sch. 4 para. 1(11)(s)(t) inserted (28.4.2000) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2000 (S.I. 2000/913)](https://www.legislation.gov.uk/uksi/2000/913), [arts. 1](https://www.legislation.gov.uk/uksi/2000/913/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/913/article/2/3)
+[^c-23bc906948cea95bb652274f46793cd9]: Textual amendment: Sch. 4 para. 1(11)(s)(t) inserted (28.4.2000) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2000 (S.I. 2000/913)](https://www.legislation.gov.uk/uksi/2000/913), [arts. 1](https://www.legislation.gov.uk/uksi/2000/913/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/913/article/2/3)
 
-[^key-06fc336f2dede01213c44b9d98fb1be4]: Textual amendment: [Sch. 4 para. 1(11)(s)(vi)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/s/vi) inserted (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/3579/article/2/3)
+[^c-06fc336f2dede01213c44b9d98fb1be4]: Textual amendment: [Sch. 4 para. 1(11)(s)(vi)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/s/vi) inserted (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/3579/article/2/3)
 
-[^key-4c9479ecbb0f1d12683bad54b6046eea]: Textual amendment: [Sch. 4 para. 1(11)(t)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/t) omitted (30.9.2020) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(5)(c)](https://www.legislation.gov.uk/uksi/2020/915/article/5/5/c)
+[^c-4c9479ecbb0f1d12683bad54b6046eea]: Textual amendment: [Sch. 4 para. 1(11)(t)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/1/11/t) omitted (30.9.2020) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(5)(c)](https://www.legislation.gov.uk/uksi/2020/915/article/5/5/c)
 
 [^f00020]: Footnote: Schedule 3 was amended by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 64 and Schedule 10, and by the Immigration Act 1988, section 10 and Schedule paragraph 10(2).
 
-[^key-29b255b23df195e5abf8cd57f1d475a8]: Commencement: Sch. 4 para. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-29b255b23df195e5abf8cd57f1d475a8]: Commencement: Sch. 4 para. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00021]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
 [^f00022]: Footnote: [S.I. 1990/2167](https://www.legislation.gov.uk/uksi/1990/2167).
 
-[^key-09514d90e136786ae99e790b9e0626ae]: Textual amendment: Words in [Sch. 4 para. 2(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/2/b) inserted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/3/b), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/11)
+[^c-09514d90e136786ae99e790b9e0626ae]: Textual amendment: Words in [Sch. 4 para. 2(b)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/2/b) inserted (1.7.1994) by [The Channel Tunnel (Miscellaneous Provisions) Order 1994 (S.I. 1994/1405)](https://www.legislation.gov.uk/uksi/1994/1405), [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/1994/1405/article/1/3/b), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/1994/1405/schedule/4/paragraph/11)
 
-[^key-4e221938a5331434b1fc32abce7e6d55]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3) substituted (19.2.2001) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2001 (S.I. 2001/178)](https://www.legislation.gov.uk/uksi/2001/178), [arts. 1](https://www.legislation.gov.uk/uksi/2001/178/article/1), [4](https://www.legislation.gov.uk/uksi/2001/178/article/4)
+[^c-4e221938a5331434b1fc32abce7e6d55]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3) substituted (19.2.2001) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2001 (S.I. 2001/178)](https://www.legislation.gov.uk/uksi/2001/178), [arts. 1](https://www.legislation.gov.uk/uksi/2001/178/article/1), [4](https://www.legislation.gov.uk/uksi/2001/178/article/4)
 
-[^key-54f13a98d5b9970df69dc2329d775ac2]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3) substituted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 21(1)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/21/1) (with [Sch. 4 para. 21(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/21/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-54f13a98d5b9970df69dc2329d775ac2]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3) substituted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 21(1)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/21/1) (with [Sch. 4 para. 21(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/21/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-537ed2d703b084ce0b4f155a5275e577]: Textual amendment: [Sch. 4 para. 3(6)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3/6) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/5/6/a)
+[^c-537ed2d703b084ce0b4f155a5275e577]: Textual amendment: [Sch. 4 para. 3(6)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3/6) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/5/6/a)
 
-[^key-d4cc40463324a277c23e98b94ba8efdf]: Textual amendment: Words in [Sch. 4 para. 3(16)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3/16) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2020/915/article/5/6/b)
+[^c-d4cc40463324a277c23e98b94ba8efdf]: Textual amendment: Words in [Sch. 4 para. 3(16)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3/16) substituted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2020/915/article/5/6/b)
 
-[^key-50fa116423cd64bc6f61c56a977b7a5f]: Textual amendment: [Sch. 4 para. 3A](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3A) inserted (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/3579/article/2/4)
+[^c-50fa116423cd64bc6f61c56a977b7a5f]: Textual amendment: [Sch. 4 para. 3A](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3A) inserted (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/3579/article/2/4)
 
-[^key-8ddaa501cd1819efee1511240d394377]: Textual amendment: [Sch. 4 para. 3A(e)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3A/e) omitted (30.9.2020) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2020/915/article/5/7)
+[^c-8ddaa501cd1819efee1511240d394377]: Textual amendment: [Sch. 4 para. 3A(e)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/3A/e) omitted (30.9.2020) by virtue of [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2020/915/article/5/7)
 
-[^key-7e2492fdc55f24e9af66f560bdd24955]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4) inserted (30.7.2000) by [The Channel Tunnel (International Arrangements) (Amendment No. 2) Order 2000 (S.I. 2000/1775)](https://www.legislation.gov.uk/uksi/2000/1775), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1775/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/1775/article/2/3)
+[^c-7e2492fdc55f24e9af66f560bdd24955]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4) inserted (30.7.2000) by [The Channel Tunnel (International Arrangements) (Amendment No. 2) Order 2000 (S.I. 2000/1775)](https://www.legislation.gov.uk/uksi/2000/1775), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1775/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/1775/article/2/3)
 
-[^key-35a4f541756f26a93f303667d17766e1]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [7](https://www.legislation.gov.uk/uksi/2001/1544/article/7)
+[^c-35a4f541756f26a93f303667d17766e1]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [7](https://www.legislation.gov.uk/uksi/2001/1544/article/7)
 
-[^key-288992245cf0f5872f6813250630fd39]: Textual amendment: [Sch. 4 para. 4(aa)(ab)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4/aa/ab) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(8)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/5/8/a)
+[^c-288992245cf0f5872f6813250630fd39]: Textual amendment: [Sch. 4 para. 4(aa)(ab)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4/aa/ab) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(8)(a)](https://www.legislation.gov.uk/uksi/2020/915/article/5/8/a)
 
-[^key-9ced5dcbf837c39066d8ffd6f390d0f9]: Textual amendment: [Sch. 4 para. 4(ba)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4/ba) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(8)(b)](https://www.legislation.gov.uk/uksi/2020/915/article/5/8/b)
+[^c-9ced5dcbf837c39066d8ffd6f390d0f9]: Textual amendment: [Sch. 4 para. 4(ba)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/4/ba) inserted (30.9.2020) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 (S.I. 2020/915)](https://www.legislation.gov.uk/uksi/2020/915), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/915/article/1/2), [5(8)(b)](https://www.legislation.gov.uk/uksi/2020/915/article/5/8/b)
 
-[^key-6bf3461dab61a664de09090a168c0b1d]: Textual amendment: Sch. 4 para. 5 inserted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [7](https://www.legislation.gov.uk/uksi/2001/3707/article/7)
+[^c-6bf3461dab61a664de09090a168c0b1d]: Textual amendment: Sch. 4 para. 5 inserted (10.12.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 4) Order 2001 (S.I. 2001/3707)](https://www.legislation.gov.uk/uksi/2001/3707), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/3707/article/1/1), [7](https://www.legislation.gov.uk/uksi/2001/3707/article/7)
 
-[^key-acc4fbc3d4aab340c95b2e101ba1862f]: Textual amendment: Word in [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/5) heading substituted (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2007/3579/article/2/5)
+[^c-acc4fbc3d4aab340c95b2e101ba1862f]: Textual amendment: Word in [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/5) heading substituted (2.1.2008) by [The Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2007 (S.I. 2007/3579)](https://www.legislation.gov.uk/uksi/2007/3579), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3579/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2007/3579/article/2/5)
 
-[^key-8b3283036cad3c370c3b40efe841d29e]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/5) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/26/2) (with [reg. 26(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/26/3))
+[^c-8b3283036cad3c370c3b40efe841d29e]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/5) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/26/2) (with [reg. 26(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/26/3))
 
-[^key-86877ee7a774c2c774efe3766f72b0b0]: Textual amendment: [Sch. 4 para. 5A](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/5A) inserted (27.3.2025) by [The Immigration (Biometric Information etc.) (Amendment) Regulations 2025 (S.I. 2025/382)](https://www.legislation.gov.uk/uksi/2025/382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/382/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2025/382/regulation/24)
+[^c-86877ee7a774c2c774efe3766f72b0b0]: Textual amendment: [Sch. 4 para. 5A](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/5A) inserted (27.3.2025) by [The Immigration (Biometric Information etc.) (Amendment) Regulations 2025 (S.I. 2025/382)](https://www.legislation.gov.uk/uksi/2025/382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/382/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2025/382/regulation/24)
 
-[^key-1c6487f2831f4a51c18cfcf7bb4ca0e0]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/6) inserted (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [4](https://www.legislation.gov.uk/uksi/2015/856/article/4)
+[^c-1c6487f2831f4a51c18cfcf7bb4ca0e0]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/6) inserted (16.4.2015) by [The Channel Tunnel (International Arrangements) and Channel Tunnel (Miscellaneous Provisions) (Amendment) Order 2015 (S.I. 2015/856)](https://www.legislation.gov.uk/uksi/2015/856), [arts. 1](https://www.legislation.gov.uk/uksi/2015/856/article/1), [4](https://www.legislation.gov.uk/uksi/2015/856/article/4)
 
-[^key-1d00b42fbf19bf82bb91c895a7746e16]: Textual amendment: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/7) inserted (12.2.2019 for specified purposes, 13.8.2020 in so far as not already in force) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(1)(g)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/g), [Sch. 3 para. 63(1)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/63/1) (with [s. 25(9)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/9), [Sch. 3 para. 63(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/63/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-1d00b42fbf19bf82bb91c895a7746e16]: Textual amendment: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/1993/1813/schedule/4/paragraph/7) inserted (12.2.2019 for specified purposes, 13.8.2020 in so far as not already in force) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(1)(g)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/g), [Sch. 3 para. 63(1)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/63/1) (with [s. 25(9)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/9), [Sch. 3 para. 63(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/63/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
-[^key-1a85c624b41a59f619fd93f98800875b]: Commencement: Sch. 5 Pt. I para. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-1a85c624b41a59f619fd93f98800875b]: Commencement: Sch. 5 Pt. I para. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00024]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77); Schedule 2 was amended by the British Nationality Act [1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61), section 39(6) and Schedule 4 paragraphs 2 and 3(1); by the Immigration Act [1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14), section 10 and Schedule paragraphs 6 to 10; and by [S.I.1990/2227](https://www.legislation.gov.uk/uksi/1990/2227).
 
-[^key-7547a0da95185a806171e470ef219780]: Commencement: Sch. 5 Pt. I para. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-7547a0da95185a806171e470ef219780]: Commencement: Sch. 5 Pt. I para. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00025]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22); section 10(7) was amended by [S.I. 1990/2371](https://www.legislation.gov.uk/uksi/1990/2371).
 
-[^key-32a6ef1b5c78345134bbea1c68dcf560]: Textual amendment: [Sch. 5 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/1/paragraph/3) revoked (19.2.2001) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2001 (S.I. 2001/178)](https://www.legislation.gov.uk/uksi/2001/178), [arts. 1](https://www.legislation.gov.uk/uksi/2001/178/article/1), [5](https://www.legislation.gov.uk/uksi/2001/178/article/5)
+[^c-32a6ef1b5c78345134bbea1c68dcf560]: Textual amendment: [Sch. 5 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/1/paragraph/3) revoked (19.2.2001) by [The Channel Tunnel (International Arrangements) (Amendment) Order 2001 (S.I. 2001/178)](https://www.legislation.gov.uk/uksi/2001/178), [arts. 1](https://www.legislation.gov.uk/uksi/2001/178/article/1), [5](https://www.legislation.gov.uk/uksi/2001/178/article/5)
 
-[^key-ce82c74be14b72e4fa6910fe1a553bde]: Commencement: Sch. 5 Pt. II para. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-ce82c74be14b72e4fa6910fe1a553bde]: Commencement: Sch. 5 Pt. II para. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00027]: Footnote: [S.I. 1972/1667](https://www.legislation.gov.uk/uksi/1972/1667), to which there are amendments not relevant to this Order.
 
-[^key-f9f00329605805dc6454c25b87428e50]: Commencement: Sch. 5 Pt. II para. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-f9f00329605805dc6454c25b87428e50]: Commencement: Sch. 5 Pt. II para. 2 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00028]: Footnote: [S.I. 1974/2221](https://www.legislation.gov.uk/uksi/1974/2221), amended by [S.I. 1990/2371](https://www.legislation.gov.uk/uksi/1990/2371).
 
-[^key-f7602122b1c3e340ed22a89aeed540c9]: Commencement: Sch. 5 Pt. II para. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-f7602122b1c3e340ed22a89aeed540c9]: Commencement: Sch. 5 Pt. II para. 1 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00029]: Footnote: [S.I. 1975/65](https://www.legislation.gov.uk/uksi/1975/65).
 
-[^key-728cf7b806ff9a5c193d0d8b8fe6e77b]: Commencement: Sch. 5 Pt. II para. 4 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-728cf7b806ff9a5c193d0d8b8fe6e77b]: Commencement: Sch. 5 Pt. II para. 4 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00030]: Footnote: [S.I. 1984/2041](https://www.legislation.gov.uk/uksi/1984/2041).
 
-[^key-9e9c0328830590fa82d3dc3d10443295]: Textual amendment: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/paragraph/5) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [8](https://www.legislation.gov.uk/uksi/2001/1544/article/8)
+[^c-9e9c0328830590fa82d3dc3d10443295]: Textual amendment: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/paragraph/5) substituted (25.5.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 3) Order 2001 (S.I. 2001/1544)](https://www.legislation.gov.uk/uksi/2001/1544), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/1544/article/1/2), [8](https://www.legislation.gov.uk/uksi/2001/1544/article/8)
 
-[^key-02352d0e7358117d9497acd77c1f0513]: Textual amendment: [Sch. 5 Pt. 2 paras. 6](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/6), [6A](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/6A) substituted for Sch. 5 Pt. 2 para. 6 (19.2.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 2) Order 2001 (S.I. 2001/418)](https://www.legislation.gov.uk/uksi/2001/418), [arts. 1](https://www.legislation.gov.uk/uksi/2001/418/article/1), [3](https://www.legislation.gov.uk/uksi/2001/418/article/3)
+[^c-02352d0e7358117d9497acd77c1f0513]: Textual amendment: [Sch. 5 Pt. 2 paras. 6](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/6), [6A](https://www.legislation.gov.uk/uksi/1993/1813/schedule/5/part/2/paragraph/6A) substituted for Sch. 5 Pt. 2 para. 6 (19.2.2001) by [The Channel Tunnel (International Arrangements) (Amendment No. 2) Order 2001 (S.I. 2001/418)](https://www.legislation.gov.uk/uksi/2001/418), [arts. 1](https://www.legislation.gov.uk/uksi/2001/418/article/1), [3](https://www.legislation.gov.uk/uksi/2001/418/article/3)
 
-[^key-8c0d6997a0ebca2e937394798e840b93]: Commencement: Sch. 5 Pt. II para. 7 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-8c0d6997a0ebca2e937394798e840b93]: Commencement: Sch. 5 Pt. II para. 7 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00031]: Footnote: [S.I. 1990/2167](https://www.legislation.gov.uk/uksi/1990/2167).
 
-[^key-b4b00e4a6e1e53ebee6262f0f5a13ed8]: Commencement: Sch. 5 Pt. II para. 8 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-b4b00e4a6e1e53ebee6262f0f5a13ed8]: Commencement: Sch. 5 Pt. II para. 8 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-b3119a3404b145a3c8fd982c2e996413]: Commencement: Sch. 5 Pt. II para. 9 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-b3119a3404b145a3c8fd982c2e996413]: Commencement: Sch. 5 Pt. II para. 9 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-d867bc70f1b25320fee52cace1161855]: Commencement: Sch. 5 Pt. II para. 10 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-d867bc70f1b25320fee52cace1161855]: Commencement: Sch. 5 Pt. II para. 10 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-e378610a44d085110bbd275c95932cf0]: Commencement: Sch. 5 Pt. II para. 11 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-e378610a44d085110bbd275c95932cf0]: Commencement: Sch. 5 Pt. II para. 11 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-a4a599ffe53b285af31e46b7d079a7cc]: Commencement: Sch. 5 Pt. II para. 12 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-a4a599ffe53b285af31e46b7d079a7cc]: Commencement: Sch. 5 Pt. II para. 12 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00032]: Footnote: Section 21 was amended by the Customs Controls on Importation of Goods Regulations 1991 ([S.I.1991/2724](https://www.legislation.gov.uk/uksi/1991/2724)), regulation 6(4) and (5), and the exercise of powers under the section was restricted by the Finance (No.2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), section 4.
 
-[^key-aeeede8ccdd3f2812bd376501fe71fb0]: Commencement: Sch. 5 Pt. II para. 13 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-aeeede8ccdd3f2812bd376501fe71fb0]: Commencement: Sch. 5 Pt. II para. 13 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-2a2ab12fe4b6d87f92caf9dfb7342791]: Commencement: Sch. 5 Pt. II para. 14 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-2a2ab12fe4b6d87f92caf9dfb7342791]: Commencement: Sch. 5 Pt. II para. 14 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00033]: Footnote: Section 31 was amended by the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), section 10(2) and Schedule 7, Part II, paragraph 1(1) to (4), and by the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43), section 8 and Schedule 4, Part II, paragraph 2.
 
-[^key-7b724dc864bb0cadb5f6f3d8605036a8]: Commencement: Sch. 5 Pt. II para. 15 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-7b724dc864bb0cadb5f6f3d8605036a8]: Commencement: Sch. 5 Pt. II para. 15 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-38748a06a75437654b8a1f9a0d5acbbc]: Commencement: Sch. 5 Pt. II para. 16 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-38748a06a75437654b8a1f9a0d5acbbc]: Commencement: Sch. 5 Pt. II para. 16 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00034]: Footnote: Section 34 was amended by the Isle of Man Act [1979 (c. 58)](https://www.legislation.gov.uk/ukpga/1979/58), section 13 and Schedule 1; the exercise of powers under section 34 was restricted by the Finance (No.2) Act 1992, section 4.
 
-[^key-aaae786dab6168c9e8f4a4a9b88cecf7]: Commencement: Sch. 5 Pt. II para. 17 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-aaae786dab6168c9e8f4a4a9b88cecf7]: Commencement: Sch. 5 Pt. II para. 17 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-219fd80b8ab1fbfdf5b1820e09dd4f14]: Commencement: Sch. 5 Pt. II para. 18 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-219fd80b8ab1fbfdf5b1820e09dd4f14]: Commencement: Sch. 5 Pt. II para. 18 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00035]: Footnote: Section 40 was amended by the Finance Act 1981, section 10(1) and Schedule 6, paragraph 5.
 
-[^key-1eddc165a9be69f86a6d7fe0013f4433]: Commencement: Sch. 5 Pt. II para. 19 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-1eddc165a9be69f86a6d7fe0013f4433]: Commencement: Sch. 5 Pt. II para. 19 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-5d243f70f54bc7259c1b59f12cf24ba4]: Commencement: Sch. 5 Pt. II para. 20 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-5d243f70f54bc7259c1b59f12cf24ba4]: Commencement: Sch. 5 Pt. II para. 20 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-2a1642bc92b68ada61eeda4425aabf25]: Commencement: Sch. 5 Pt. II para. 21 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-2a1642bc92b68ada61eeda4425aabf25]: Commencement: Sch. 5 Pt. II para. 21 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-e7d315c89d5194bfaf05003526847b80]: Commencement: Sch. 5 Pt. II para. 22 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-e7d315c89d5194bfaf05003526847b80]: Commencement: Sch. 5 Pt. II para. 22 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-3baa1006f71fec4426d3dc398f68a3a9]: Commencement: Sch. 5 Pt. II para. 23 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-3baa1006f71fec4426d3dc398f68a3a9]: Commencement: Sch. 5 Pt. II para. 23 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00036]: Footnote: Section 59 was amended by the Finance Act 1981, section 10(2) and Schedule 7, Part II, paragraph 3.
 
-[^key-75ca1a07344ae3d0aaf2ff51dd4f56c8]: Commencement: Sch. 5 Pt. II para. 24 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-75ca1a07344ae3d0aaf2ff51dd4f56c8]: Commencement: Sch. 5 Pt. II para. 24 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-2c86d32f16bc79795ea1fd872cf57b38]: Commencement: Sch. 5 Pt. II para. 25 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-2c86d32f16bc79795ea1fd872cf57b38]: Commencement: Sch. 5 Pt. II para. 25 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-1bddace2dcc082561df47cbbd9ede192]: Commencement: Sch. 5 Pt. II para. 26 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-1bddace2dcc082561df47cbbd9ede192]: Commencement: Sch. 5 Pt. II para. 26 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-da07ed648df3e8fb56e2d5187c61f7ba]: Commencement: Sch. 5 Pt. II para. 27 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-da07ed648df3e8fb56e2d5187c61f7ba]: Commencement: Sch. 5 Pt. II para. 27 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00037]: Footnote: Section 77 was repealed in part by the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), sections 10 and 72(7) and Schedule 16, Part III.
 
@@ -2196,24 +2196,24 @@ The revocations in Part II of Schedule 6 are of provisions which have become spe
 
 [^f00039]: Footnote: Section 83 was amended by the Isle of Man Act 1979, section 13 and Schedule 1.
 
-[^key-a846d1dfc78d49e9f0a6714bc31ed229]: Commencement: Sch. 5 Pt. II para. 28 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-a846d1dfc78d49e9f0a6714bc31ed229]: Commencement: Sch. 5 Pt. II para. 28 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-c84f413b87a24ff6129dc32299317310]: Commencement: Sch. 5 Pt. II para. 29 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-c84f413b87a24ff6129dc32299317310]: Commencement: Sch. 5 Pt. II para. 29 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00040]: Footnote: Section 86 was amended by the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), section 114(1).
 
-[^key-882fd9d3df025aec612bc79341fa11b2]: Commencement: Sch. 5 Pt. II para. 30 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-882fd9d3df025aec612bc79341fa11b2]: Commencement: Sch. 5 Pt. II para. 30 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-47bb12ee555410add9cd1fc9fe83a93b]: Commencement: Sch. 5 Pt. II para. 31 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-47bb12ee555410add9cd1fc9fe83a93b]: Commencement: Sch. 5 Pt. II para. 31 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-d2c50b5f3a31123252e50bc75a328b2f]: Commencement: Sch. 5 Pt. II para. 32 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-d2c50b5f3a31123252e50bc75a328b2f]: Commencement: Sch. 5 Pt. II para. 32 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-c9bd29aa54ba7ab82b9e3d0d71eaa6e7]: Commencement: Sch. 5 Pt. II para. 33 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-c9bd29aa54ba7ab82b9e3d0d71eaa6e7]: Commencement: Sch. 5 Pt. II para. 33 comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
 [^f00041]: Footnote: Section 164 was amended by the Isle of Man Act 1979, section 13 and Schedule 1, paragraph 6; by the Finance Act 1984, section 8 and Schedule 4, Part II, paragraph 6; and by the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), section 10.
 
-[^key-2c3f87193fca73dc801f1c183728200f]: Commencement: Sch. 6 Pt. I comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-2c3f87193fca73dc801f1c183728200f]: Commencement: Sch. 6 Pt. I comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
 
-[^key-89237468458652ca86343fcc8243104b]: Textual amendment: Words in [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/6/part/I) omitted (19.2.2001) by virtue of [The Channel Tunnel (International Arrangements) (Amendment) Order 2001 (S.I. 2001/178)](https://www.legislation.gov.uk/uksi/2001/178), [arts. 1](https://www.legislation.gov.uk/uksi/2001/178/article/1), [6](https://www.legislation.gov.uk/uksi/2001/178/article/6)
+[^c-89237468458652ca86343fcc8243104b]: Textual amendment: Words in [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/1993/1813/schedule/6/part/I) omitted (19.2.2001) by virtue of [The Channel Tunnel (International Arrangements) (Amendment) Order 2001 (S.I. 2001/178)](https://www.legislation.gov.uk/uksi/2001/178), [arts. 1](https://www.legislation.gov.uk/uksi/2001/178/article/1), [6](https://www.legislation.gov.uk/uksi/2001/178/article/6)
 
-[^key-aac6e0bd3ce2a915edef603dc8d47a82]: Commencement: Sch. 6 Pt. II comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)
+[^c-aac6e0bd3ce2a915edef603dc8d47a82]: Commencement: Sch. 6 Pt. II comes into force at 2.8.1993 as notified in the London Gazette dated 6.8.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/1813/article/1)

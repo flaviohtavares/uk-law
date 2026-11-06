@@ -26,7 +26,7 @@ Articles 2(1) and 43
 
 In column (1) of each of the tables, the number refers to the relevant traffic regulation reference number shown on the traffic regulation plan. In the event of there being any discrepancy between a provision in this Schedule and the illustration of that provision shown on the traffic regulation plan, this Schedule prevails.
 
-### PART 1 — STOPPING, WAITING OR UNLOADING[^key-d1c364136b5f5fbb6949308a7edf3fc1]
+### PART 1 — STOPPING, WAITING OR UNLOADING[^c-d1c364136b5f5fbb6949308a7edf3fc1]
 
 In the City of Wolverhampton—
 
@@ -89,7 +89,7 @@ Bus Stop clearway
 | --- | --- | --- | --- |
 | 6.1 | Tower Street | South side from a point 40 metres east of its junction with Market Street for a distance of 31 metres in a easterly direction | Required for non-local bus services |
 
-### PART 2 — DIRECTION OF VEHICULAR TRAFFIC[^key-1df577ffe045411bf665db4207e58b26]
+### PART 2 — DIRECTION OF VEHICULAR TRAFFIC[^c-1df577ffe045411bf665db4207e58b26]
 
 In the City of Wolverhampton—
 
@@ -109,7 +109,7 @@ Prescribed movement
 | --- | --- | --- | --- |
 | 8.1 | Lichfield Street | Compulsory left turn from Lichfield Street onto Fryer Street, except for buses, taxis, private hire vehicles and defined (ring and ride) vehicles and access to loading bay |  |
 
-### PART 3 — PROHIBITION OF VEHICULAR TRAFFIC[^key-53d726184f96534869fe15f2775b4963]
+### PART 3 — PROHIBITION OF VEHICULAR TRAFFIC[^c-53d726184f96534869fe15f2775b4963]
 
 In the City of Wolverhampton—
 
@@ -136,8 +136,8 @@ Prohibition of movement
 
 ## Annotations
 
-[^key-d1c364136b5f5fbb6949308a7edf3fc1]: Commencement: Sch. 7 Pt. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-d1c364136b5f5fbb6949308a7edf3fc1]: Commencement: Sch. 7 Pt. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
 
-[^key-1df577ffe045411bf665db4207e58b26]: Commencement: Sch. 7 Pt. 2 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-1df577ffe045411bf665db4207e58b26]: Commencement: Sch. 7 Pt. 2 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
 
-[^key-53d726184f96534869fe15f2775b4963]: Commencement: Sch. 7 Pt. 3 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-53d726184f96534869fe15f2775b4963]: Commencement: Sch. 7 Pt. 3 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

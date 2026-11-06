@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Restrictions on provision by Scottish Ministers for rules and principles for pre-release access[^key-5d0185c697a74ae0cf7d95f8db88d8a2]
+## 11A. Restrictions on provision by Scottish Ministers for rules and principles for pre-release access[^c-5d0185c697a74ae0cf7d95f8db88d8a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ in respect of cases where the condition set out in subsection (6) is met.
 
 ## Annotations
 
-[^key-5d0185c697a74ae0cf7d95f8db88d8a2]: Textual amendment: S. 11A inserted (S.) (22.4.2021) by [Pre-release Access to Official Statistics (Scotland) Act 2021 (asp 11)](https://www.legislation.gov.uk/asp/2021/11), [ss. 1(3)](https://www.legislation.gov.uk/asp/2021/11/section/1/3), [4](https://www.legislation.gov.uk/asp/2021/11/section/4)
+[^c-5d0185c697a74ae0cf7d95f8db88d8a2]: Textual amendment: S. 11A inserted (S.) (22.4.2021) by [Pre-release Access to Official Statistics (Scotland) Act 2021 (asp 11)](https://www.legislation.gov.uk/asp/2021/11), [ss. 1(3)](https://www.legislation.gov.uk/asp/2021/11/section/1/3), [4](https://www.legislation.gov.uk/asp/2021/11/section/4)

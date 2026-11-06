@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75. Provisions common to regulations 73 and 74[^key-a710903b21645a00e8c489519525ab10]
+## 75. Provisions common to regulations 73 and 74[^c-a710903b21645a00e8c489519525ab10]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a710903b21645a00e8c489519525ab10]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/1988/1890/regulation/75) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-a710903b21645a00e8c489519525ab10]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/1988/1890/regulation/75) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

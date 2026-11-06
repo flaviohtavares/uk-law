@@ -282,7 +282,7 @@ The amendments made by this Part of this Schedule do not affect an obligation ar
 
 (5) In Part 1 of Schedule 2 (application of provisions of the Companies Act 1985)—
 
-- (a) omit all the existing entries except, subject to sub-paragraph (b), those relating to provisions of Part 14 of that Act (investigations etc) or Part 18 of that Act (floating charges in Scotland)[^key-7e47cf2656efb304c715ac3f947fbf43];
+- (a) omit all the existing entries except, subject to sub-paragraph (b), those relating to provisions of Part 14 of that Act (investigations etc) or Part 18 of that Act (floating charges in Scotland)[^c-7e47cf2656efb304c715ac3f947fbf43];
 - (b) omit the entry relating to section 438 (power to bring civil proceedings) [^c19765571] (this does not affect proceedings brought under section 438 as applied to LLPs before 1st October 2009);
 - (c) at the appropriate place insert—
 
@@ -389,7 +389,7 @@ The following are revoked—
 
 [^c19765561]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-7e47cf2656efb304c715ac3f947fbf43]: Textual amendment: Words in [Sch. 3 para. 13(5)(a)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/13/5/a) inserted (1.10.2009) by [The Limited Liability Partnerships (Amendment) Regulations 2009 (S.I. 2009/1833)](https://www.legislation.gov.uk/uksi/2009/1833), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1833/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1833/regulation/2/2)
+[^c-7e47cf2656efb304c715ac3f947fbf43]: Textual amendment: Words in [Sch. 3 para. 13(5)(a)](https://www.legislation.gov.uk/uksi/2009/1804/schedule/3/paragraph/13/5/a) inserted (1.10.2009) by [The Limited Liability Partnerships (Amendment) Regulations 2009 (S.I. 2009/1833)](https://www.legislation.gov.uk/uksi/2009/1833), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1833/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1833/regulation/2/2)
 
 [^c19765571]: Marginal citation: [Section 438](https://www.legislation.gov.uk/uksi/2009/1804/section/438) was repealed by section 1176(1) of the [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46).
 

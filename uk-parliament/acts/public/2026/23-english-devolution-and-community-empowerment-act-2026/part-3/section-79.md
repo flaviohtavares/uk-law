@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Responsible licensing authority to be notified of suspension[^key-ac243611d6bb08e910d0fe7f4f6723b3]
+## 79. Responsible licensing authority to be notified of suspension[^c-ac243611d6bb08e910d0fe7f4f6723b3]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac243611d6bb08e910d0fe7f4f6723b3]: Commencement: S. 79 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-ac243611d6bb08e910d0fe7f4f6723b3]: Commencement: S. 79 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

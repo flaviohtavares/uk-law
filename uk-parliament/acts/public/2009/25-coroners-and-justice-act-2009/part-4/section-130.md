@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Resources: effect of sentencing practice[^key-64f7842dda01e69aa5d7b4e2e2871f47]
+## 130. Resources: effect of sentencing practice[^c-64f7842dda01e69aa5d7b4e2e2871f47]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64f7842dda01e69aa5d7b4e2e2871f47]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2009/25/section/130) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
+[^c-64f7842dda01e69aa5d7b4e2e2871f47]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2009/25/section/130) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)

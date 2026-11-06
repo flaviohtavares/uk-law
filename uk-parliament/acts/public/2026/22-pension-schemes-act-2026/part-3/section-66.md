@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Approval of superfund transfers[^key-54ce3790f3a7cfbb62988c4c282ff20b]
+## 66. Approval of superfund transfers[^c-54ce3790f3a7cfbb62988c4c282ff20b]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54ce3790f3a7cfbb62988c4c282ff20b]: Commencement: S. 66 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-54ce3790f3a7cfbb62988c4c282ff20b]: Commencement: S. 66 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

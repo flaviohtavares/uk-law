@@ -47,38 +47,38 @@ Whereas it appears expedient to the Treasury that the relief from value added ta
 
 Now, therefore, the Lords Commissioners of Her Majesty's Treasury, by virtue of the powers conferred on them by sections 19(1) and 45(1) and (2) of the Value Added Tax Act 1983 and of all other powers enabling them in that behalf, hereby make the following Order:—
 
-## 1. Citation and commencement[^key-74db239a733837384830f2b6dbdcb3d6]
+## 1. Citation and commencement[^c-74db239a733837384830f2b6dbdcb3d6]
 
 This Order may be cited as the Value Added Tax (Imported Goods) Relief Order 1984 and shall come into operation on 1st July 1984.
 
-## 2. Interpretation[^key-3c26fb383aa9b671e505fb51b9bc573e]
+## 2. Interpretation[^c-3c26fb383aa9b671e505fb51b9bc573e]
 
 (1) In this Order—
 
-- “abroad” means a place outside[^key-37f9d13c9200b76ddba9e061da160464] the United Kingdom[^key-7ac10fc896dce1b479e0371ff1509547];
-- “**alcoholic beverages**” means beverages falling within headings 22.03 to 22.08[^key-8b4e3d0273830dc39bd7914eae8759fb];
+- “abroad” means a place outside[^c-37f9d13c9200b76ddba9e061da160464] the United Kingdom[^c-7ac10fc896dce1b479e0371ff1509547];
+- “**alcoholic beverages**” means beverages falling within headings 22.03 to 22.08[^c-8b4e3d0273830dc39bd7914eae8759fb];
 - “**approved**” means approved by the Secretary of State;
-- “exported” means exported to a place outside[^key-c344c04967ed4b6637e6ff6d8542a287] the United Kingdom and “exportation” shall be construed accordingly;
-- “importation” is to be interpreted in accordance with the provisions of the Value Added Tax Act 1994;[^key-13e8ad0b184e2dd0a2f71bcf68b954fa]
+- “exported” means exported to a place outside[^c-c344c04967ed4b6637e6ff6d8542a287] the United Kingdom and “exportation” shall be construed accordingly;
+- “importation” is to be interpreted in accordance with the provisions of the Value Added Tax Act 1994;[^c-13e8ad0b184e2dd0a2f71bcf68b954fa]
 - “sent” means sent from a place outside the United Kingdom;
-- [^key-036f4507f05d2262e12a29ffdef4ea4f]...
+- [^c-036f4507f05d2262e12a29ffdef4ea4f]...
 - “**tobacco products**” has the same meaning as in section 1 of the Tobacco Products Duty Act 1979.
 
-(2)[^key-bbc3a2cf227c703db4aa76e0f09c6964] In this Order, references to a heading or sub-heading are references to a heading or sub-heading of the customs tariff (within the meaning of the Taxation (Cross-border Trade) Act 2018) code.
+(2)[^c-bbc3a2cf227c703db4aa76e0f09c6964] In this Order, references to a heading or sub-heading are references to a heading or sub-heading of the customs tariff (within the meaning of the Taxation (Cross-border Trade) Act 2018) code.
 
 (3) Section 48(4) of the Value Added Tax Act 1983 (definition of “document” etc.) shall not apply for the purposes of this Order.
 
-(4)[^key-cf26f74f317351ed8e7489e2772cdf01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cf26f74f317351ed8e7489e2772cdf01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-7cb550dd94ec0db7d4db7b0e85729677] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7cb550dd94ec0db7d4db7b0e85729677] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-3b4cc594e73e694683e1f8ca12913580]
+## 3. Application[^c-3b4cc594e73e694683e1f8ca12913580]
 
 (1) This Order shall apply without prejudice to relief from tax on the importation of goods afforded under or by virtue of any other enactment.
 
-(2)[^key-821fa806fd53a06a8b48f23d44bc3522] Nothing in this Order shall be construed as authorising a person to import anything [^key-335ce54da1b7996427db0f0c91a771b0]... in contravention of any prohibition or restriction for the time being in force with respect thereto under or by virtue of any enactment.
+(2)[^c-821fa806fd53a06a8b48f23d44bc3522] Nothing in this Order shall be construed as authorising a person to import anything [^c-335ce54da1b7996427db0f0c91a771b0]... in contravention of any prohibition or restriction for the time being in force with respect thereto under or by virtue of any enactment.
 
-## 3A. Application to importations into Northern Ireland[^key-bd6cf5c0964df6372c4481670bb6d0a3]
+## 3A. Application to importations into Northern Ireland[^c-bd6cf5c0964df6372c4481670bb6d0a3]
 
 (1) This article applies where goods are imported into the United Kingdom as a result of their entry into Northern Ireland.
 
@@ -97,11 +97,11 @@ This Order may be cited as the Value Added Tax (Imported Goods) Relief Order 198
   > “**sent**” means sent from a place outside Northern Ireland and the member States;
 
   ;
-- (b) article 2(2) does not apply and instead references to a heading or sub-heading are to be read as references to a heading or sub-heading of the Combined Nomenclature of the European Union which is contained in Commission Implementing Regulation (EU) 2019/1776 of 9 October 2019 amending Annex I to Council Regulation [(EEC) No 2658/87](https://www.legislation.gov.uk/eur/1987/2658) on the tariff and statistical nomenclature and on the Common Customs Tariff as it has effect in Northern Ireland as a result of section 7A of the European Union (Withdrawal) Act 2018[^key-7fd066bc6e56a240ac606efe7526ee24];
-- (c) [^key-1bb17ae4143378d128af2079167e72a7]... except where it appears in Note (3) to Group 7 of Schedule 2 and Items 4 and 5[^key-65ab6b707c0b27d50b67e96f07523688] of Group 6 of Schedule 2, references to “United Kingdom” are to be read as references to “member States”;
+- (b) article 2(2) does not apply and instead references to a heading or sub-heading are to be read as references to a heading or sub-heading of the Combined Nomenclature of the European Union which is contained in Commission Implementing Regulation (EU) 2019/1776 of 9 October 2019 amending Annex I to Council Regulation [(EEC) No 2658/87](https://www.legislation.gov.uk/eur/1987/2658) on the tariff and statistical nomenclature and on the Common Customs Tariff as it has effect in Northern Ireland as a result of section 7A of the European Union (Withdrawal) Act 2018[^c-7fd066bc6e56a240ac606efe7526ee24];
+- (c) [^c-1bb17ae4143378d128af2079167e72a7]... except where it appears in Note (3) to Group 7 of Schedule 2 and Items 4 and 5[^c-65ab6b707c0b27d50b67e96f07523688] of Group 6 of Schedule 2, references to “United Kingdom” are to be read as references to “member States”;
 - (d) Note 2 of Group 5 of Schedule 2 does not apply and instead Item 3 of that Group applies only where the goods fulfil the conditions laid down under or by virtue of Article 53 of Council Regulation [(EC) No. 1186/2009](https://www.legislation.gov.uk/eur/2009/1186) of 16 November 2009 setting up a Community system of reliefs from customs duty as it has effect in Northern Ireland as a result of section 7A of the European Union (Withdrawal) Act 2018;
 - (e) in Group 6 of Schedule 2—
-  - (i) in Items 4 and 5, for “the United Kingdom” read “the United Kingdom or one or more member States”;[^key-8a4fa1f053460d6ad11c267c05cddaf9] and
+  - (i) in Items 4 and 5, for “the United Kingdom” read “the United Kingdom or one or more member States”;[^c-8a4fa1f053460d6ad11c267c05cddaf9] and
   - (ii) in Note 5, for “HM Treasury” read “the Commission of the European Union”.
 
 (3) The modifications provided for in this article are subject to the modifications provided for in paragraph 5 of Schedule 9ZC to the Value Added Tax Act 1994.
@@ -125,22 +125,22 @@ This Order may be cited as the Value Added Tax (Imported Goods) Relief Order 198
   > “**sent**” means sent from a place outside Great Britain;
 
   ;
-- (b) [^key-6a0bae402bfb7b81e799e29965af01d2]... except where it appears in Note (3) to Group 7 of Schedule 2, for “United Kingdom” read “Great Britain”.
+- (b) [^c-6a0bae402bfb7b81e799e29965af01d2]... except where it appears in Note (3) to Group 7 of Schedule 2, for “United Kingdom” read “Great Britain”.
 
-## 4. Relief for United Nations goods[^key-43ccf7054098385e7bbd5500df4cbf9a]
+## 4. Relief for United Nations goods[^c-43ccf7054098385e7bbd5500df4cbf9a]
 
 No tax shall be payable on the importation, for whatever purpose, of goods produced by the United Nations or by a United Nations organisation, being goods—
 
 - (a) of a description specified in Part I of Schedule 1 to this Order, or
 - (b) classified under any heading or subheading specified in column 1 of Part II of Schedule 1 to this Order and within the limits of relief specified in column 2 thereof in relation to such heading or subheading.
 
-## 5. Relief for goods of other descriptions[^key-7d28edeea4ac802002aa83b04ee43742]
+## 5. Relief for goods of other descriptions[^c-7d28edeea4ac802002aa83b04ee43742]
 
 (1) Subject to the provisions of this Order, no tax shall be payable on the importation of goods of a description specified in any item in Schedule 2 to this Order.
 
 (2) Schedule 2 shall be interpreted in accordance with the notes therein contained, except that the descriptions of Groups in that Schedule are for ease of reference only and shall not affect the interpretation of the descriptions of items in those Groups.
 
-## 6. Condition as to use or purpose of goods in Schedule 2[^key-19ea01dae6c1011d5db03b708a27ebde]
+## 6. Condition as to use or purpose of goods in Schedule 2[^c-19ea01dae6c1011d5db03b708a27ebde]
 
 (1) Where relief has been afforded in respect of any goods by virtue of an item comprised in Schedule 2 which describes the goods by reference to a use or purpose, it shall be a condition of the relief that the goods are put to such use or the purpose fulfilled in the United Kingdom.
 
@@ -151,7 +151,7 @@ No tax shall be payable on the importation, for whatever purpose, of goods produ
 - (a) the examination, analysis or testing shall be completed within such time as the Commissioners may require; and
 - (b) any goods not completely used up or destroyed in the course of, or as a result of, such examination, analysis or testing, and any products resulting therefrom, shall forthwith be destroyed or rendered commercially worthless, or exported.
 
-## 7. Restriction on disposal of goods in Schedule 2, Group 6[^key-9b2816e4c3d0b8582be7376f65463ae9]
+## 7. Restriction on disposal of goods in Schedule 2, Group 6[^c-9b2816e4c3d0b8582be7376f65463ae9]
 
 (1) Without prejudice to article 6(1) above and subject to paragraph (2) below, where relief is afforded in respect of any goods by virtue of Group 6 of Schedule 2, it shall be a condition of the relief that the goods are not lent, hired-out or transferred, except in accordance with the provisions of that Group relating to those goods.
 
@@ -160,7 +160,7 @@ No tax shall be payable on the importation, for whatever purpose, of goods produ
 - (a) prior notification in writing is received by the Commissioners; and
 - (b) the goods are used solely in accordance with the provisions of Group 6 relating thereto.
 
-## 8. Supplementary provisions as to goods in Schedule 2, Group 6[^key-e00f378310b888b4c07f7852b0f51e80]
+## 8. Supplementary provisions as to goods in Schedule 2, Group 6[^c-e00f378310b888b4c07f7852b0f51e80]
 
 Where any goods in respect of which relief has been afforded by virtue of Group 6 of Schedule 2—
 
@@ -169,7 +169,7 @@ Where any goods in respect of which relief has been afforded by virtue of Group 
 
 and written notification thereof is given to the Commissioners, the tax payable on the goods shall be determined as if the goods had been imported on the date when the tax becomes due, provided that where the amount of the tax first relieved is less, such lesser amount shall become payable.
 
-## 9. Revocation[^key-59365bc6083367d2a327216b6ae36821]
+## 9. Revocation[^c-59365bc6083367d2a327216b6ae36821]
 
 The Value Added Tax (Imported Goods) Relief (No. 1) Order 1973 and the Value Added Tax (Health) Order 1983 are hereby revoked.
 
@@ -187,13 +187,13 @@ Two of the Lords Commissioners of Her Majesty's Treasury
 
 ### PART I
 
-**1.**[^key-69dea3f381a00c5a6a8081b6f91e0685] Holograms for laser projection.
+**1.**[^c-69dea3f381a00c5a6a8081b6f91e0685] Holograms for laser projection.
 
-**2.**[^key-7532b91d67de1c875ef8e5a99d0ac5da] Multi-media kits.
+**2.**[^c-7532b91d67de1c875ef8e5a99d0ac5da] Multi-media kits.
 
-**3.**[^key-e07475386c5f3698dd3e993247170e6f] Materials for programmed instruction, including materials in kit form, with the corresponding printed materials.
+**3.**[^c-e07475386c5f3698dd3e993247170e6f] Materials for programmed instruction, including materials in kit form, with the corresponding printed materials.
 
-### PART II[^key-05911d1c831f3c338315578c20881ac6]
+### PART II[^c-05911d1c831f3c338315578c20881ac6]
 
 <table>
 <thead>
@@ -215,16 +215,16 @@ Two of the Lords Commissioners of Her Majesty's Treasury
 </tbody>
 </table>
 
-## SCHEDULE 2 — RELIEF FOR GOODS OF OTHER DESCRIPTIONS[^key-35c995121358c461ebcea33a3fae0f67]
+## SCHEDULE 2 — RELIEF FOR GOODS OF OTHER DESCRIPTIONS[^c-35c995121358c461ebcea33a3fae0f67]
 
 (Article 50)
 
-### GROUP 1 — CAPITAL GOODS AND EQUIPMENT ON TRANSFER OF ACTIVITIES[^key-26ea416b7ca17c92632d0d68d8a823d4]
+### GROUP 1 — CAPITAL GOODS AND EQUIPMENT ON TRANSFER OF ACTIVITIES[^c-26ea416b7ca17c92632d0d68d8a823d4]
 
 Item No.
 
 - 1. Capital goods and equipment imported by a person for the purposes of a business he has ceased to carry on abroad and which he has notified the Commissioners is to be carried on by him in the United Kingdom and concerned exclusively with making taxable supplies.
-- 2. [^key-dae9d33f7935e8da87b39d6ab93acf33]...
+- 2. [^c-dae9d33f7935e8da87b39d6ab93acf33]...
 
 Notes:
 
@@ -243,19 +243,19 @@ Notes:
 - (b) are imported within twelve months of the date on which such business ceased to be carried on abroad, or within such longer period as the Commissioners allow; and
 - (c) are appropriate both to the nature and size of the business to be carried on in the United Kingdom.
 
-(4)[^key-45dd946f7a8d32f3cffe57becaf4e65e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-45dd946f7a8d32f3cffe57becaf4e65e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### GROUP 2 — AGRICULTURE AND ANIMALS
 
-[^key-43e067fd4eef32cc44553f1859b2834c]...
+[^c-43e067fd4eef32cc44553f1859b2834c]...
 
-### GROUP 3 — PROMOTION OF TRADE[^key-a380cb63dd5c1f4b4887f00e77201c12]
+### GROUP 3 — PROMOTION OF TRADE[^c-a380cb63dd5c1f4b4887f00e77201c12]
 
 Item No.
 
 - 1. Articles of no intrinsic commercial value sent free of charge by suppliers of goods and services for the sole purpose of advertising.
 - 2. Samples of negligible value of a kind and in quantities capable of being used solely for soliciting orders for goods of the same kind.
-- 3. Printed advertising matter, including catalogues, price lists, directions for use or brochures, which relates to goods for sale or hire by a person established outside the United Kingdom,[^key-3dff7c5b83a4928f48c810ce18ca3899] [^key-28b54a96857ae98f96e97834a1b7e94e]..., or to transport, commercial insurance or banking services offered by a person established abroad[^key-5267f6b7309c0da61829287a1e0bb798], and which clearly displays the name of the person by whom such goods or services are offered.
+- 3. Printed advertising matter, including catalogues, price lists, directions for use or brochures, which relates to goods for sale or hire by a person established outside the United Kingdom,[^c-3dff7c5b83a4928f48c810ce18ca3899] [^c-28b54a96857ae98f96e97834a1b7e94e]..., or to transport, commercial insurance or banking services offered by a person established abroad[^c-5267f6b7309c0da61829287a1e0bb798], and which clearly displays the name of the person by whom such goods or services are offered.
 - 4. Goods to be distributed free of charge at an event, as small representative samples, for use or consumption by the public.
 - 5. Goods imported solely for the purpose of being demonstrated at an event.
 - 6. Goods imported solely for the purpose of being used in the demonstration of any machine or apparatus displayed at an event.
@@ -266,7 +266,7 @@ Notes:
 
 (1) Where the Commissioners so require, item 2 applies only to goods which are rendered permanently unusable, except as samples, by being torn, perforated, clearly and indelibly marked, or by any other process.
 
-(2) Save in the case of imported printed matter intended for distribution free of charge and relating to either goods for sale or hire[^key-cdb6dca381a10b1696a969110837b5fd] [^key-0106817a29e63f1f2966f06cd87ef46b]..., item 3 does not apply to—
+(2) Save in the case of imported printed matter intended for distribution free of charge and relating to either goods for sale or hire[^c-cdb6dca381a10b1696a969110837b5fd] [^c-0106817a29e63f1f2966f06cd87ef46b]..., item 3 does not apply to—
 
 - (a) any consignment containing two or more copies of different documents;
 - (b) any consignment containing two or more copies of the same document, unless the total gross weight of such consignment does not exceed one kilogram; or
@@ -294,7 +294,7 @@ Notes:
 
 (6) Items 4 to 8 apply only where the aggregate value and quantity thereof is appropriate to the nature of the event, the number of visitors and the extent of the exhibitor's participation in it.
 
-### GROUP 4 — GOODS FOR TESTING, ETC[^key-0a6ab4c841ef685163f1413689361a70]
+### GROUP 4 — GOODS FOR TESTING, ETC[^c-0a6ab4c841ef685163f1413689361a70]
 
 Item No.
 
@@ -302,48 +302,48 @@ Item No.
 
 Note: Item 1 does not apply to goods exceeding the quantities necessary for such purposes or where the examination, analysis or testing, itself constitutes a sales promotion.
 
-### GROUP 5 — HEALTH[^key-f9ca43f9e5a80fc4266f8af2f7dbf6ff]
+### GROUP 5 — HEALTH[^c-f9ca43f9e5a80fc4266f8af2f7dbf6ff]
 
 Item No.
 
 - 1. Animals specially prepared for laboratory use and sent free of charge to a relevant establishment.
-- 2. [^key-32eee772859c9c7db1b33545d9f600b5]...
-- 3. Biological or chemical substances sent to a relevant establishment [^key-b0ce574210fa5873686d0ed6db6e60b9]....
+- 2. [^c-32eee772859c9c7db1b33545d9f600b5]...
+- 3. Biological or chemical substances sent to a relevant establishment [^c-b0ce574210fa5873686d0ed6db6e60b9]....
 - 4. Human blood.
 - 5. Products for therapeutic purposes, derived from human blood.
 - 6. Human (including foetal) organs or tissue for diagnostic or therapeutic purposes or medical research.
 - 7. Reagents for use in blood type grouping, or for the detection of blood grouping incompatibilities, by approved institutions or laboratories, exclusively for non-commercial medical or scientific purposes.
 - 8. Reagents for use in the determination of human tissue types by approved institutions or laboratories, exclusively for non-commercial medical or scientific purposes.
 - 9. Pharmaceutical products imported by or on behalf of persons or animals for their use while visiting the United Kingdom to participate in an international sporting event.
-- 10. Samples of reference substances approved by the World Health Organisation for the quality control of materials used in the manufacture of medicinal products.[^key-90115feb846db97bd3a9bb5069b3f7b2]
-- 11. Dental prostheses imported by or on behalf of—[^key-16b3d5529f7d445fe84f4ede4e65da7b]
+- 10. Samples of reference substances approved by the World Health Organisation for the quality control of materials used in the manufacture of medicinal products.[^c-90115feb846db97bd3a9bb5069b3f7b2]
+- 11. Dental prostheses imported by or on behalf of—[^c-16b3d5529f7d445fe84f4ede4e65da7b]
   - (a) a person registered in the dentists register;
   - (b) a person registered in the dental care professionals register established under section 36B of the Dentists Act 1984.
 
 Notes:
 
-(1) In items 1[^key-9e18b5e9f13435881afcd8c80b838fde]... and 3, “**relevant establishment**” means —
+(1) In items 1[^c-9e18b5e9f13435881afcd8c80b838fde]... and 3, “**relevant establishment**” means —
 
 - (a) a public establishment, or a department of such establishment, principally engaged in education or scientific research; or
 - (b) a private establishment so engaged, which is approved.
 
-(2)[^key-2a41ecbd3192ae6d169c55fc15b5a2f5] Item 3 applies only to the extent that conditions for the equivalent import duty relief are met.
+(2)[^c-2a41ecbd3192ae6d169c55fc15b5a2f5] Item 3 applies only to the extent that conditions for the equivalent import duty relief are met.
 
 (3) Items 4, 5, 6, 7 and 8 include special packaging essential for transport of the goods and any solvents or accessories necessary for their use.
 
 (4) In items 7 and 8, “**reagents**” means all reagents, whether of human, animal, plant, or other, origin.
 
-(5)[^key-a35a85959ceeaafe6f05d5e35623034e] Item 10 applies only to samples addressed to consignees authorised to receive them free of tax.
+(5)[^c-a35a85959ceeaafe6f05d5e35623034e] Item 10 applies only to samples addressed to consignees authorised to receive them free of tax.
 
-### GROUP 6 — CHARITIES, ETC[^key-e7d99a073a662467527ac6eaef00b695]
+### GROUP 6 — CHARITIES, ETC[^c-e7d99a073a662467527ac6eaef00b695]
 
 Item No.
 
 - 1. Basic necessities obtained without charge for distribution free of charge to the needy by a relevant organisation.
 - 2. Goods donated by a person established abroad to a relevant organisation for use to raise funds at occasional charity events for the benefit of the needy.
 - 3. Equipment and office materials donated by a person established abroad to a relevant organisation for meeting its operating needs or carrying out its charitable aims.
-- 4. Goods imported by a relevant organisation for distribution or loan, free of charge, to victims of a disaster affecting the territory of the United Kingdom[^key-fa24918f0a10f75ea52c8e2a1ca14ad1].
-- 5. Goods imported by a relevant organisation for meeting its operating needs in the relief of a disaster affecting the territory of the United Kingdom[^key-d8dbbd62930d5f3f43d40d8f8f5221c2].
+- 4. Goods imported by a relevant organisation for distribution or loan, free of charge, to victims of a disaster affecting the territory of the United Kingdom[^c-fa24918f0a10f75ea52c8e2a1ca14ad1].
+- 5. Goods imported by a relevant organisation for meeting its operating needs in the relief of a disaster affecting the territory of the United Kingdom[^c-d8dbbd62930d5f3f43d40d8f8f5221c2].
 - 6. Articles donated to and imported by a relevant organisation for supply to blind or other physically or mentally handicapped persons and which are specially designed for the education, employment or social advancement of such persons.
 - 7. Spare parts, components or accessories for any article of a kind mentioned in item 6, including tools for its maintenance, checking, calibration or repair.
 
@@ -357,7 +357,7 @@ Notes:
 
 (4) Items 2, 3 and 6 do not apply where there is any commercial intent on the part of the donor.
 
-(5) Items 4 and 5 apply only where HM Treasury[^key-cb645f6700485d7dea0c1ec4beba470e] has made a Decision authorising importation of the goods.
+(5) Items 4 and 5 apply only where HM Treasury[^c-cb645f6700485d7dea0c1ec4beba470e] has made a Decision authorising importation of the goods.
 
 (6) In item 6, “**relevant organisation**” means an approved organisation principally engaged in the education of, or the provision of assistance to, blind or other physically or mentally handicapped persons.
 
@@ -365,7 +365,7 @@ Notes:
 
 (8) Item 7 applies only where the goods are imported with an article of a kind mentioned in item 6 to which they relate, or, if imported subsequently, are identifiable as being intended for that article, where relief from tax on that article has been afforded by virtue of item 6, or would have been so afforded if such article were imported with the goods which relate to it.
 
-### GROUP 7 — PRINTED MATTER, ETC[^key-063dff6573c35d5291b374cf222b0fa0]
+### GROUP 7 — PRINTED MATTER, ETC[^c-063dff6573c35d5291b374cf222b0fa0]
 
 Item No.
 
@@ -386,22 +386,22 @@ Item No.
 - 15. Documents sent for the purpose of free distribution to encourage persons to visit foreign countries, in particular to attend cultural, tourist, sporting, religious, trade or professional meetings or events.
 - 16. Foreign hotel lists and yearbooks published by or on behalf of official tourist agencies and timetables for foreign transport services, for free distribution.
 - 17. Yearbooks, lists of telephone and telex numbers, hotel lists, catalogues for fairs, specimens of craft goods of negligible value and literature on museums, universities, spas or other similar establishments, supplied as reference material to accredited representatives or correspondents appointed by official national tourist agencies and not intended for distribution.
-- 18. Official publications issued under the authority of the country of exportation, international institutions, regional or local authorities and bodies governed by public law established in the country of exportation.[^key-a5af21d04a5d94911ae4a323717f8cde]
+- 18. Official publications issued under the authority of the country of exportation, international institutions, regional or local authorities and bodies governed by public law established in the country of exportation.[^c-a5af21d04a5d94911ae4a323717f8cde]
 - 19. Printed matter distributed by foreign political organisations on the occasion of elections to the European Parliament or national elections in the country in which the printed matter originates.
 
-Notes:[^key-4b601d2a5120ee0b5b92e2f546045f4c]
+Notes:[^c-4b601d2a5120ee0b5b92e2f546045f4c]
 
 (1) Items 15 and 16 do not apply where the goods contain more than 25 per cent. of private commercial advertising.
 
-(2) Items 18 and 19 apply only to publications or printed matter on which value added tax or any other tax has been paid in the[^key-ea6c702150f0a7a343bda785a127002c] [^key-69efc08a6984adceb131ddb7860c52c6]... country from which they have been exported and which have not benefited, by virtue of their exportation, from any relief from payment thereof.
+(2) Items 18 and 19 apply only to publications or printed matter on which value added tax or any other tax has been paid in the[^c-ea6c702150f0a7a343bda785a127002c] [^c-69efc08a6984adceb131ddb7860c52c6]... country from which they have been exported and which have not benefited, by virtue of their exportation, from any relief from payment thereof.
 
 (3) In item 19, “foreign political organisations” means those which are officially recognised as such in the United Kingdom.
 
-(4)[^key-73da172d1b204bf1758f25c6a3fe9a51] In item 11 “travel agent” includes airlines, national railway undertakings, ferry operators and similar organisations.
+(4)[^c-73da172d1b204bf1758f25c6a3fe9a51] In item 11 “travel agent” includes airlines, national railway undertakings, ferry operators and similar organisations.
 
-(5)[^key-d509ff0bc77038116e396d55dbb80cba] In items 2, 15, 16 and 19 “foreign” means from a country other than the United Kingdom.
+(5)[^c-d509ff0bc77038116e396d55dbb80cba] In items 2, 15, 16 and 19 “foreign” means from a country other than the United Kingdom.
 
-### GROUP 8 — ARTICLES SENT FOR MISCELLANEOUS PURPOSES[^key-c37c52c3772cd9e9e62f2b212c4f9b59]
+### GROUP 8 — ARTICLES SENT FOR MISCELLANEOUS PURPOSES[^c-c37c52c3772cd9e9e62f2b212c4f9b59]
 
 Item No.
 
@@ -414,18 +414,18 @@ Item No.
   - (a) donated by an authority or person established abroad for the purpose of being presented in the United Kingdom, or
   - (b) awarded abroad to a person resident in the United Kingdom and imported on his behalf.
 - 7. Goods (other than alcoholic beverages or tobacco products) sent on an occasional basis as gifts in token of friendship or goodwill between bodies, public authorities or groups carrying on an activity in the public interest.
-- 8. [^key-2bf70546f6d4694ee9ebaf436e7685ea]...
-- 9. Awards, trophies and souvenirs of a symbolic nature and of limited value intended for distribution free of charge at business conferences or similar international events to persons normally resident in a country other than the United Kingdom.[^key-aed430603a53a72045ad837d53635a90]
+- 8. [^c-2bf70546f6d4694ee9ebaf436e7685ea]...
+- 9. Awards, trophies and souvenirs of a symbolic nature and of limited value intended for distribution free of charge at business conferences or similar international events to persons normally resident in a country other than the United Kingdom.[^c-aed430603a53a72045ad837d53635a90]
 
-*Notes[^key-69c74b419427dfcd8e0fd03f07d3a9f6][^key-6bb0f49bb57718b62aaebef2736421c4]*:
+*Notes[^c-69c74b419427dfcd8e0fd03f07d3a9f6][^c-6bb0f49bb57718b62aaebef2736421c4]*:
 
-(1)[^key-5cba25df337c2cf1f4cf60cd0e3b6939] Items 5, 6, 7 and 9 do not apply to any importation of a commercial character.
+(1)[^c-5cba25df337c2cf1f4cf60cd0e3b6939] Items 5, 6, 7 and 9 do not apply to any importation of a commercial character.
 
-(2)[^key-2bf70546f6d4694ee9ebaf436e7685ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2bf70546f6d4694ee9ebaf436e7685ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-2bf70546f6d4694ee9ebaf436e7685ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2bf70546f6d4694ee9ebaf436e7685ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### GROUP 9 — WORKS OF ART AND COLLECTORS' PIECES[^key-17a486f3b501c8604a4c26600d60af73]
+### GROUP 9 — WORKS OF ART AND COLLECTORS' PIECES[^c-17a486f3b501c8604a4c26600d60af73]
 
 Item No.
 
@@ -436,7 +436,7 @@ Note:Item I applies only where the goods are—
 - (a) of an educational, scientific or cultural character; and
 - (b) imported free of charge or, if for a consideration, are not supplied to the importer in the course or furtherance of any business.
 
-### GROUP 10— — TRANSPORT[^key-83fd3b8965f491ac89073e0e9c55bfdb]
+### GROUP 10— — TRANSPORT[^c-83fd3b8965f491ac89073e0e9c55bfdb]
 
 Item No.
 
@@ -465,7 +465,7 @@ Notes:
 
 (6) Item 5 applies only where the cost of the packings is included in the consideration for the goods transported.
 
-### GROUP 11 — WAR GRAVES, FUNERALS, ETC[^key-076b217040e28648ba6b1d7403386e07]
+### GROUP 11 — WAR GRAVES, FUNERALS, ETC[^c-076b217040e28648ba6b1d7403386e07]
 
 Item No.
 
@@ -501,144 +501,144 @@ Group 3 incorporates the reliefs for exhibition goods formerly afforded by the V
 
 ## Annotations
 
-[^key-74db239a733837384830f2b6dbdcb3d6]: Commencement: Art. 1 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-74db239a733837384830f2b6dbdcb3d6]: Commencement: Art. 1 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-3c26fb383aa9b671e505fb51b9bc573e]: Commencement: Art. 2 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-3c26fb383aa9b671e505fb51b9bc573e]: Commencement: Art. 2 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-37f9d13c9200b76ddba9e061da160464]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1984/746/article/2) substituted (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [3(a)](https://www.legislation.gov.uk/uksi/1992/3120/article/3/a)
+[^c-37f9d13c9200b76ddba9e061da160464]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1984/746/article/2) substituted (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [3(a)](https://www.legislation.gov.uk/uksi/1992/3120/article/3/a)
 
-[^key-7ac10fc896dce1b479e0371ff1509547]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1984/746/article/2/1) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/2/a/i); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-7ac10fc896dce1b479e0371ff1509547]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1984/746/article/2/1) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/2/a/i); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-8b4e3d0273830dc39bd7914eae8759fb]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/1984/746/article/2/1) substituted (1.8.1988) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1988 (S.I. 1988/1193)](https://www.legislation.gov.uk/uksi/1988/1193), [arts. 1](https://www.legislation.gov.uk/uksi/1988/1193/article/1), [2](https://www.legislation.gov.uk/uksi/1988/1193/article/2)
+[^c-8b4e3d0273830dc39bd7914eae8759fb]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/1984/746/article/2/1) substituted (1.8.1988) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1988 (S.I. 1988/1193)](https://www.legislation.gov.uk/uksi/1988/1193), [arts. 1](https://www.legislation.gov.uk/uksi/1988/1193/article/1), [2](https://www.legislation.gov.uk/uksi/1988/1193/article/2)
 
-[^key-c344c04967ed4b6637e6ff6d8542a287]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1984/746/article/2) inserted (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [3(b)](https://www.legislation.gov.uk/uksi/1992/3120/article/3/b)
+[^c-c344c04967ed4b6637e6ff6d8542a287]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1984/746/article/2) inserted (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [3(b)](https://www.legislation.gov.uk/uksi/1992/3120/article/3/b)
 
-[^key-13e8ad0b184e2dd0a2f71bcf68b954fa]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1984/746/article/2/1) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/2/a/ii) (as amended by [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [104(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/104/2)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-13e8ad0b184e2dd0a2f71bcf68b954fa]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1984/746/article/2/1) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/2/a/ii) (as amended by [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [104(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/104/2)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-036f4507f05d2262e12a29ffdef4ea4f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1984/746/article/2/1) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/2/a/iii); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-036f4507f05d2262e12a29ffdef4ea4f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1984/746/article/2/1) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/2/a/iii); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-bbc3a2cf227c703db4aa76e0f09c6964]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/1984/746/article/2/2) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/2/b); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-bbc3a2cf227c703db4aa76e0f09c6964]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/1984/746/article/2/2) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/2/b); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-cf26f74f317351ed8e7489e2772cdf01]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/uksi/1984/746/article/2/4) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/2/c); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-cf26f74f317351ed8e7489e2772cdf01]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/uksi/1984/746/article/2/4) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/2/c); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-7cb550dd94ec0db7d4db7b0e85729677]: Textual amendment: [Art. 2(5)](https://www.legislation.gov.uk/uksi/1984/746/article/2/5) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/2/c); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-7cb550dd94ec0db7d4db7b0e85729677]: Textual amendment: [Art. 2(5)](https://www.legislation.gov.uk/uksi/1984/746/article/2/5) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/2/c); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-3b4cc594e73e694683e1f8ca12913580]: Commencement: Art. 3 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-3b4cc594e73e694683e1f8ca12913580]: Commencement: Art. 3 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-821fa806fd53a06a8b48f23d44bc3522]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/1984/746/article/3/2) substituted (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [4](https://www.legislation.gov.uk/uksi/1992/3120/article/4)
+[^c-821fa806fd53a06a8b48f23d44bc3522]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/1984/746/article/3/2) substituted (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [4](https://www.legislation.gov.uk/uksi/1992/3120/article/4)
 
-[^key-335ce54da1b7996427db0f0c91a771b0]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/1984/746/article/3/2) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/3); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-335ce54da1b7996427db0f0c91a771b0]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/1984/746/article/3/2) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/3); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-bd6cf5c0964df6372c4481670bb6d0a3]: Textual amendment: [Arts. 3A](https://www.legislation.gov.uk/uksi/1984/746/article/3A), [3B](https://www.legislation.gov.uk/uksi/1984/746/article/3B) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/2/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-bd6cf5c0964df6372c4481670bb6d0a3]: Textual amendment: [Arts. 3A](https://www.legislation.gov.uk/uksi/1984/746/article/3A), [3B](https://www.legislation.gov.uk/uksi/1984/746/article/3B) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/2/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-7fd066bc6e56a240ac606efe7526ee24]: Textual amendment: Words in [art. 3A(2)](https://www.legislation.gov.uk/uksi/1984/746/article/3A/2) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [32](https://www.legislation.gov.uk/uksi/2021/1164/regulation/32)
+[^c-7fd066bc6e56a240ac606efe7526ee24]: Textual amendment: Words in [art. 3A(2)](https://www.legislation.gov.uk/uksi/1984/746/article/3A/2) substituted (1.12.2021) by [The Value Added Tax (Distance Selling and Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1164)](https://www.legislation.gov.uk/uksi/2021/1164), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1164/regulation/1), [32](https://www.legislation.gov.uk/uksi/2021/1164/regulation/32)
 
-[^key-1bb17ae4143378d128af2079167e72a7]: Textual amendment: Words in [art. 3A(2)(c)](https://www.legislation.gov.uk/uksi/1984/746/article/3A/2/c) omitted (1.8.2021) by virtue of [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [8(a)(i)](https://www.legislation.gov.uk/uksi/2021/715/regulation/8/a/i)
+[^c-1bb17ae4143378d128af2079167e72a7]: Textual amendment: Words in [art. 3A(2)(c)](https://www.legislation.gov.uk/uksi/1984/746/article/3A/2/c) omitted (1.8.2021) by virtue of [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [8(a)(i)](https://www.legislation.gov.uk/uksi/2021/715/regulation/8/a/i)
 
-[^key-65ab6b707c0b27d50b67e96f07523688]: Textual amendment: Words in [art. 3A(2)(c)](https://www.legislation.gov.uk/uksi/1984/746/article/3A/2/c) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2021/715/regulation/8/a/ii)
+[^c-65ab6b707c0b27d50b67e96f07523688]: Textual amendment: Words in [art. 3A(2)(c)](https://www.legislation.gov.uk/uksi/1984/746/article/3A/2/c) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2021/715/regulation/8/a/ii)
 
-[^key-8a4fa1f053460d6ad11c267c05cddaf9]: Textual amendment: [Art. 3A(2)(e)(i)](https://www.legislation.gov.uk/uksi/1984/746/article/3A/2/e/i) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2021/715/regulation/8/b)
+[^c-8a4fa1f053460d6ad11c267c05cddaf9]: Textual amendment: [Art. 3A(2)(e)(i)](https://www.legislation.gov.uk/uksi/1984/746/article/3A/2/e/i) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2021/715/regulation/8/b)
 
-[^key-6a0bae402bfb7b81e799e29965af01d2]: Textual amendment: Words in [art. 3B(2)(b)](https://www.legislation.gov.uk/uksi/1984/746/article/3B/2/b) omitted (1.8.2021) by virtue of [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [9](https://www.legislation.gov.uk/uksi/2021/715/regulation/9)
+[^c-6a0bae402bfb7b81e799e29965af01d2]: Textual amendment: Words in [art. 3B(2)(b)](https://www.legislation.gov.uk/uksi/1984/746/article/3B/2/b) omitted (1.8.2021) by virtue of [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [9](https://www.legislation.gov.uk/uksi/2021/715/regulation/9)
 
-[^key-43ccf7054098385e7bbd5500df4cbf9a]: Commencement: Art. 4 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-43ccf7054098385e7bbd5500df4cbf9a]: Commencement: Art. 4 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-7d28edeea4ac802002aa83b04ee43742]: Commencement: Art. 5 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-7d28edeea4ac802002aa83b04ee43742]: Commencement: Art. 5 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-19ea01dae6c1011d5db03b708a27ebde]: Commencement: Art. 6 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-19ea01dae6c1011d5db03b708a27ebde]: Commencement: Art. 6 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-9b2816e4c3d0b8582be7376f65463ae9]: Commencement: Art. 7 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-9b2816e4c3d0b8582be7376f65463ae9]: Commencement: Art. 7 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-e00f378310b888b4c07f7852b0f51e80]: Commencement: Art. 8 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-e00f378310b888b4c07f7852b0f51e80]: Commencement: Art. 8 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-59365bc6083367d2a327216b6ae36821]: Commencement: Art. 9 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-59365bc6083367d2a327216b6ae36821]: Commencement: Art. 9 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-69dea3f381a00c5a6a8081b6f91e0685]: Commencement: Sch. 1 para. 1 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-69dea3f381a00c5a6a8081b6f91e0685]: Commencement: Sch. 1 para. 1 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-7532b91d67de1c875ef8e5a99d0ac5da]: Commencement: Sch. 1 para. 2 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-7532b91d67de1c875ef8e5a99d0ac5da]: Commencement: Sch. 1 para. 2 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-e07475386c5f3698dd3e993247170e6f]: Commencement: Sch. 1 para. 3 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-e07475386c5f3698dd3e993247170e6f]: Commencement: Sch. 1 para. 3 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-05911d1c831f3c338315578c20881ac6]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/1/part/2) substituted (1.1.1988) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1987 (S.I. 1987/2108)](https://www.legislation.gov.uk/uksi/1987/2108), [arts. 1](https://www.legislation.gov.uk/uksi/1987/2108/article/1), [4](https://www.legislation.gov.uk/uksi/1987/2108/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1987/2108/schedule)
+[^c-05911d1c831f3c338315578c20881ac6]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/1/part/2) substituted (1.1.1988) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1987 (S.I. 1987/2108)](https://www.legislation.gov.uk/uksi/1987/2108), [arts. 1](https://www.legislation.gov.uk/uksi/1987/2108/article/1), [4](https://www.legislation.gov.uk/uksi/1987/2108/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1987/2108/schedule)
 
-[^key-35c995121358c461ebcea33a3fae0f67]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [Sch. 9ZC para. 5](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/5) (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/28) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7))); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-35c995121358c461ebcea33a3fae0f67]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [Sch. 9ZC para. 5](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZC/paragraph/5) (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/28) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7))); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-26ea416b7ca17c92632d0d68d8a823d4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 1 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-26ea416b7ca17c92632d0d68d8a823d4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 1 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-dae9d33f7935e8da87b39d6ab93acf33]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 1 Item 2 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(a)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/a)
+[^c-dae9d33f7935e8da87b39d6ab93acf33]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 1 Item 2 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(a)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/a)
 
 [^f00002]: Footnote: , amended by S.I.1984/33
 
-[^key-45dd946f7a8d32f3cffe57becaf4e65e]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 1 Note 4 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(a)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/a)
+[^c-45dd946f7a8d32f3cffe57becaf4e65e]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 1 Note 4 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(a)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/a)
 
-[^key-43e067fd4eef32cc44553f1859b2834c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 2 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(a)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/a)
+[^c-43e067fd4eef32cc44553f1859b2834c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 2 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(a)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/a)
 
-[^key-a380cb63dd5c1f4b4887f00e77201c12]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 3 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-a380cb63dd5c1f4b4887f00e77201c12]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 3 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-3dff7c5b83a4928f48c810ce18ca3899]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 3 Item 3 substituted (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [4(a)](https://www.legislation.gov.uk/uksi/1988/2212/article/4/a)
+[^c-3dff7c5b83a4928f48c810ce18ca3899]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 3 Item 3 substituted (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [4(a)](https://www.legislation.gov.uk/uksi/1988/2212/article/4/a)
 
-[^key-28b54a96857ae98f96e97834a1b7e94e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 3 Item 3 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(b)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/b)
+[^c-28b54a96857ae98f96e97834a1b7e94e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 3 Item 3 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(b)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/b)
 
-[^key-5267f6b7309c0da61829287a1e0bb798]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 3 Item 3 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/a); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-5267f6b7309c0da61829287a1e0bb798]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 3 Item 3 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/a); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-cdb6dca381a10b1696a969110837b5fd]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 3 Note 2 substituted (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [4(b)](https://www.legislation.gov.uk/uksi/1988/2212/article/4/b)
+[^c-cdb6dca381a10b1696a969110837b5fd]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 3 Note 2 substituted (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [4(b)](https://www.legislation.gov.uk/uksi/1988/2212/article/4/b)
 
-[^key-0106817a29e63f1f2966f06cd87ef46b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 3 Note 2 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(d)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/d)
+[^c-0106817a29e63f1f2966f06cd87ef46b]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 3 Note 2 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(d)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/d)
 
-[^key-0a6ab4c841ef685163f1413689361a70]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 4 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-0a6ab4c841ef685163f1413689361a70]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 4 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-f9ca43f9e5a80fc4266f8af2f7dbf6ff]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-f9ca43f9e5a80fc4266f8af2f7dbf6ff]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-32eee772859c9c7db1b33545d9f600b5]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Item 2 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(a)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/a)
+[^c-32eee772859c9c7db1b33545d9f600b5]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Item 2 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(a)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/a)
 
-[^key-b0ce574210fa5873686d0ed6db6e60b9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Item 3 omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/b/i); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-b0ce574210fa5873686d0ed6db6e60b9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Item 3 omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/b/i); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-90115feb846db97bd3a9bb5069b3f7b2]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Item 10 added (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [5(a)](https://www.legislation.gov.uk/uksi/1988/2212/article/5/a)
+[^c-90115feb846db97bd3a9bb5069b3f7b2]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Item 10 added (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [5(a)](https://www.legislation.gov.uk/uksi/1988/2212/article/5/a)
 
-[^key-16b3d5529f7d445fe84f4ede4e65da7b]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Item 11 inserted (with effect in accordance with s. 72(2) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 72(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/72/1)
+[^c-16b3d5529f7d445fe84f4ede4e65da7b]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Item 11 inserted (with effect in accordance with s. 72(2) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 72(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/72/1)
 
-[^key-9e18b5e9f13435881afcd8c80b838fde]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Note 1 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(e)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/e)
+[^c-9e18b5e9f13435881afcd8c80b838fde]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Note 1 revoked (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(e)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/e)
 
-[^key-2a41ecbd3192ae6d169c55fc15b5a2f5]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Note 2 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/b/ii); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-2a41ecbd3192ae6d169c55fc15b5a2f5]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Note 2 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/b/ii); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-a35a85959ceeaafe6f05d5e35623034e]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Note 5 added (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [5(c)](https://www.legislation.gov.uk/uksi/1988/2212/article/5/c)
+[^c-a35a85959ceeaafe6f05d5e35623034e]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 5 Note 5 added (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [5(c)](https://www.legislation.gov.uk/uksi/1988/2212/article/5/c)
 
-[^key-e7d99a073a662467527ac6eaef00b695]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 6 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-e7d99a073a662467527ac6eaef00b695]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 6 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-fa24918f0a10f75ea52c8e2a1ca14ad1]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 6 Item 4 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(c)(i)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/c/i); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-fa24918f0a10f75ea52c8e2a1ca14ad1]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 6 Item 4 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(c)(i)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/c/i); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-d8dbbd62930d5f3f43d40d8f8f5221c2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 6 Item 5 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(c)(i)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/c/i); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-d8dbbd62930d5f3f43d40d8f8f5221c2]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 6 Item 5 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(c)(i)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/c/i); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-cb645f6700485d7dea0c1ec4beba470e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 6 Note 5 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/c/ii); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-cb645f6700485d7dea0c1ec4beba470e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 6 Note 5 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/c/ii); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-063dff6573c35d5291b374cf222b0fa0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-063dff6573c35d5291b374cf222b0fa0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-a5af21d04a5d94911ae4a323717f8cde]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 Items 18, 19 added (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [6(a)](https://www.legislation.gov.uk/uksi/1988/2212/article/6/a)
+[^c-a5af21d04a5d94911ae4a323717f8cde]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 Items 18, 19 added (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [6(a)](https://www.legislation.gov.uk/uksi/1988/2212/article/6/a)
 
-[^key-4b601d2a5120ee0b5b92e2f546045f4c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 Notes substituted (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [6(b)](https://www.legislation.gov.uk/uksi/1988/2212/article/6/b)
+[^c-4b601d2a5120ee0b5b92e2f546045f4c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 Notes substituted (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [6(b)](https://www.legislation.gov.uk/uksi/1988/2212/article/6/b)
 
-[^key-ea6c702150f0a7a343bda785a127002c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 Note 2 substituted (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(f)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/f)
+[^c-ea6c702150f0a7a343bda785a127002c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 Note 2 substituted (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(f)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/f)
 
-[^key-69efc08a6984adceb131ddb7860c52c6]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 Note 2 omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(d)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/d); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-69efc08a6984adceb131ddb7860c52c6]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 Note 2 omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [3(4)(d)](https://www.legislation.gov.uk/uksi/2019/59/regulation/3/4/d); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-73da172d1b204bf1758f25c6a3fe9a51]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 Note 4 inserted (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(g)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/g)
+[^c-73da172d1b204bf1758f25c6a3fe9a51]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 Note 4 inserted (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(g)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/g)
 
-[^key-d509ff0bc77038116e396d55dbb80cba]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 Note 5 inserted (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(h)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/h)
+[^c-d509ff0bc77038116e396d55dbb80cba]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 7 Note 5 inserted (1.1.1993) by [The Value Added Tax (Imported Goods) Relief (Amendment) Order 1992 (S.I. 1992/3120)](https://www.legislation.gov.uk/uksi/1992/3120), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3120/article/1), [5(h)](https://www.legislation.gov.uk/uksi/1992/3120/article/5/h)
 
-[^key-c37c52c3772cd9e9e62f2b212c4f9b59]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 8 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-c37c52c3772cd9e9e62f2b212c4f9b59]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 8 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-2bf70546f6d4694ee9ebaf436e7685ea]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 8 Item 8 and Notes 2, 3 omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/18) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-2bf70546f6d4694ee9ebaf436e7685ea]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 8 Item 8 and Notes 2, 3 omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/18) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-aed430603a53a72045ad837d53635a90]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 8 Item 9 added (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [7(b)](https://www.legislation.gov.uk/uksi/1988/2212/article/7/b)
+[^c-aed430603a53a72045ad837d53635a90]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 8 Item 9 added (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [7(b)](https://www.legislation.gov.uk/uksi/1988/2212/article/7/b)
 
-[^key-69c74b419427dfcd8e0fd03f07d3a9f6]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 8 Notes heading substituted (with effect in accordance with [s. 199(4)(5)](https://www.legislation.gov.uk/ukpga/2012/14/section/199/4/5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 199(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/199/2)
+[^c-69c74b419427dfcd8e0fd03f07d3a9f6]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 8 Notes heading substituted (with effect in accordance with [s. 199(4)(5)](https://www.legislation.gov.uk/ukpga/2012/14/section/199/4/5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 199(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/199/2)
 
-[^key-6bb0f49bb57718b62aaebef2736421c4]: Textual amendment: Sch. 2 Group 8 Notes substituted (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [7(c)](https://www.legislation.gov.uk/uksi/1988/2212/article/7/c)
+[^c-6bb0f49bb57718b62aaebef2736421c4]: Textual amendment: Sch. 2 Group 8 Notes substituted (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [7(c)](https://www.legislation.gov.uk/uksi/1988/2212/article/7/c)
 
-[^key-5cba25df337c2cf1f4cf60cd0e3b6939]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 8 Note renumbered as Sch. 2 Group 8 Note 1 (with effect in accordance with [s. 199(4)(5)](https://www.legislation.gov.uk/ukpga/2012/14/section/199/4/5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 199(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/199/2)
+[^c-5cba25df337c2cf1f4cf60cd0e3b6939]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 8 Note renumbered as Sch. 2 Group 8 Note 1 (with effect in accordance with [s. 199(4)(5)](https://www.legislation.gov.uk/ukpga/2012/14/section/199/4/5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 199(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/199/2)
 
-[^key-17a486f3b501c8604a4c26600d60af73]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 9 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-17a486f3b501c8604a4c26600d60af73]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 9 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
 
-[^key-83fd3b8965f491ac89073e0e9c55bfdb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 10 substituted (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [8](https://www.legislation.gov.uk/uksi/1988/2212/article/8)
+[^c-83fd3b8965f491ac89073e0e9c55bfdb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 10 substituted (1.1.1989) by [The Value Added Tax (Imported Goods) Relief (Amendment) (No. 2) Order 1988 (S.I. 1988/2212)](https://www.legislation.gov.uk/uksi/1988/2212), [arts. 1](https://www.legislation.gov.uk/uksi/1988/2212/article/1), [8](https://www.legislation.gov.uk/uksi/1988/2212/article/8)
 
-[^key-076b217040e28648ba6b1d7403386e07]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 11 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)
+[^c-076b217040e28648ba6b1d7403386e07]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1984/746/schedule/2) Group 11 in force at 1.7.1984, see [art. 1](https://www.legislation.gov.uk/uksi/1984/746/article/1)

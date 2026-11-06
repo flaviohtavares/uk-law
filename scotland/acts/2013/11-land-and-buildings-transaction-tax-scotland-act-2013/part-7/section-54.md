@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: S*
 
-(1) For the purposes of this Act, the Tax Authority is Revenue Scotland[^key-f0b9227f7cf238ae87d422befb74e52b] .
+(1) For the purposes of this Act, the Tax Authority is Revenue Scotland[^c-f0b9227f7cf238ae87d422befb74e52b] .
 
-(2)[^key-a9526b559073aa07bae4a9ea86505e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a9526b559073aa07bae4a9ea86505e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0b9227f7cf238ae87d422befb74e52b]: Textual amendment: Words in s. 54(1) substituted (25.9.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(1)](https://www.legislation.gov.uk/asp/2014/16/section/260/1), [Sch. 4 para. 9(12)(a)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/12/a) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257))
+[^c-f0b9227f7cf238ae87d422befb74e52b]: Textual amendment: Words in s. 54(1) substituted (25.9.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(1)](https://www.legislation.gov.uk/asp/2014/16/section/260/1), [Sch. 4 para. 9(12)(a)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/12/a) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257))
 
-[^key-a9526b559073aa07bae4a9ea86505e82]: Textual amendment: S. 54(2) repealed (25.9.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(1)](https://www.legislation.gov.uk/asp/2014/16/section/260/1), [Sch. 4 para. 9(12)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/12/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257))
+[^c-a9526b559073aa07bae4a9ea86505e82]: Textual amendment: S. 54(2) repealed (25.9.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(1)](https://www.legislation.gov.uk/asp/2014/16/section/260/1), [Sch. 4 para. 9(12)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/12/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257))

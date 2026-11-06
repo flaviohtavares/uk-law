@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7.[^key-846d9b30004f7cd51800004129d9f8dc]
+## 7.[^c-846d9b30004f7cd51800004129d9f8dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 25A(1)(b) [^c23882701], for “subsections (2) to (7)” substitute �
 
 ## Annotations
 
-[^key-846d9b30004f7cd51800004129d9f8dc]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-846d9b30004f7cd51800004129d9f8dc]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23882701]: Marginal citation: Section 25A was inserted by section 42(1) and (2) of the Enterprise and Regulatory Reform Act 2013.

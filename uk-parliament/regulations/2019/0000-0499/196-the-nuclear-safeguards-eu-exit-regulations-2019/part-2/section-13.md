@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Initial book inventory[^key-629f3425f30e93e0780ae7b99bd12367]
+## 13. Initial book inventory[^c-629f3425f30e93e0780ae7b99bd12367]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-629f3425f30e93e0780ae7b99bd12367]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/196/regulation/13) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2026/835/regulation/12)
+[^c-629f3425f30e93e0780ae7b99bd12367]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/196/regulation/13) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2026/835/regulation/12)

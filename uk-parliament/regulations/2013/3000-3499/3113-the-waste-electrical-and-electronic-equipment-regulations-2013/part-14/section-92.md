@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Commencement of proceedings[^key-a0d78ec7897b8ee595c8c69d9f54497d]
+## 92. Commencement of proceedings[^c-a0d78ec7897b8ee595c8c69d9f54497d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d78ec7897b8ee595c8c69d9f54497d]: Commencement: Reg. 92 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-a0d78ec7897b8ee595c8c69d9f54497d]: Commencement: Reg. 92 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

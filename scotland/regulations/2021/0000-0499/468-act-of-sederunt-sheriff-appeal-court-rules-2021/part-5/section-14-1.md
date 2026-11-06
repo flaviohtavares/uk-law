@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14.1. Intimation of motions by email[^key-f0cf01c1da9ef28eda35b82575df667a]
+## 14.1. Intimation of motions by email[^c-f0cf01c1da9ef28eda35b82575df667a]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0cf01c1da9ef28eda35b82575df667a]: Commencement: Para. 14.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-f0cf01c1da9ef28eda35b82575df667a]: Commencement: Para. 14.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

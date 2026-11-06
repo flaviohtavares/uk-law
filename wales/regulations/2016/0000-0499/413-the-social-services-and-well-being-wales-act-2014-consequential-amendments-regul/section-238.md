@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**238.**[^key-e51041a0ad1387f1322935dfb2143276] In section 13N[^f00199] (duty of Health Service Commissioning Board as to promoting integration), in subsection (4) in the definition of “social care services” after “1970” insert “or for the purposes of the Social Services and Well-being (Wales) Act 2014”.
+**238.**[^c-e51041a0ad1387f1322935dfb2143276] In section 13N[^f00199] (duty of Health Service Commissioning Board as to promoting integration), in subsection (4) in the definition of “social care services” after “1970” insert “or for the purposes of the Social Services and Well-being (Wales) Act 2014”.
 
 ## Annotations
 
-[^key-e51041a0ad1387f1322935dfb2143276]: Commencement: Reg. 238 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-e51041a0ad1387f1322935dfb2143276]: Commencement: Reg. 238 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00199]: Footnote: Section 13N was inserted by the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), section 23(1).

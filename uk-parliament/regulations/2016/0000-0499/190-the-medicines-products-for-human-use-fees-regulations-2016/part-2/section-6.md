@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Fee for advertising advice[^key-e64366032feef705a3125fc046b8336e]
+## 6. Fee for advertising advice[^c-e64366032feef705a3125fc046b8336e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e64366032feef705a3125fc046b8336e]: Textual amendment: Reg. 6 omitted (1.4.2025) by virtue of [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/317/regulation/6)
+[^c-e64366032feef705a3125fc046b8336e]: Textual amendment: Reg. 6 omitted (1.4.2025) by virtue of [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/317/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Pilot to remain at controls[^key-ee3a666c64455fc63553cb7958129035]
+## 76. Pilot to remain at controls[^c-ee3a666c64455fc63553cb7958129035]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee3a666c64455fc63553cb7958129035]: Commencement: [Art. 76](https://www.legislation.gov.uk/uksi/2013/2870/article/76) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ee3a666c64455fc63553cb7958129035]: Commencement: [Art. 76](https://www.legislation.gov.uk/uksi/2013/2870/article/76) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

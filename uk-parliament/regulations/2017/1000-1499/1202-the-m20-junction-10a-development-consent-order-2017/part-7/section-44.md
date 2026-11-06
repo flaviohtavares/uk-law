@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Certification of plans, etc.[^key-ca2222e0edda87b53aeb26b45a02cc15]
+## 44. Certification of plans, etc.[^c-ca2222e0edda87b53aeb26b45a02cc15]
 
 *Extent: E+W+S*
 
@@ -79,4 +79,4 @@ for certification that they are true copies of the documents referred to in this
 
 ## Annotations
 
-[^key-ca2222e0edda87b53aeb26b45a02cc15]: Commencement: Art. 44 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-ca2222e0edda87b53aeb26b45a02cc15]: Commencement: Art. 44 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)

@@ -28,7 +28,7 @@ summary: ''
 - (d) hydrofluorocarbons (HFCs),
 - (e) perfluorocarbons (PFCs),
 - (f) sulphur hexafluoride (SF<sub>6</sub>),
-- (g)[^key-7e1c2e6d3b178d33becd59492be36c4f] nitrogen trifluoride (NF<sub>3</sub>).
+- (g)[^c-7e1c2e6d3b178d33becd59492be36c4f] nitrogen trifluoride (NF<sub>3</sub>).
 
 (2) The Secretary of State may by order amend the definition of “greenhouse gas” in subsection (1) to add to the gases listed in that definition.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e1c2e6d3b178d33becd59492be36c4f]: Textual amendment: [S. 92(1)(g)](https://www.legislation.gov.uk/ukpga/2008/27/section/92/1/g) inserted (3.2.2023) by [The Climate Change (Targeted Greenhouse Gases) Order 2023 (S.I. 2023/118)](https://www.legislation.gov.uk/uksi/2023/118), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/118/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/118/article/3/3)
+[^c-7e1c2e6d3b178d33becd59492be36c4f]: Textual amendment: [S. 92(1)(g)](https://www.legislation.gov.uk/ukpga/2008/27/section/92/1/g) inserted (3.2.2023) by [The Climate Change (Targeted Greenhouse Gases) Order 2023 (S.I. 2023/118)](https://www.legislation.gov.uk/uksi/2023/118), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/118/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/118/article/3/3)

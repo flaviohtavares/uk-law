@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Applications to withdraw a restriction from the register[^key-60760352bcf6117a3b4026db301cb96f]
+## 98. Applications to withdraw a restriction from the register[^c-60760352bcf6117a3b4026db301cb96f]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60760352bcf6117a3b4026db301cb96f]: Textual amendment: Rule 98 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/37) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-60760352bcf6117a3b4026db301cb96f]: Textual amendment: Rule 98 substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/37) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

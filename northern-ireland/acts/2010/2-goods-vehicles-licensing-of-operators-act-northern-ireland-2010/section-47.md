@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Fees[^key-cc8c6495c56fb152dc5e9d09a3ceb10a][^key-82443c219f36aa7b657ba76a8d81f795]
+## 47. Fees[^c-cc8c6495c56fb152dc5e9d09a3ceb10a][^c-82443c219f36aa7b657ba76a8d81f795]
 
 *Extent: N.I.*
 
@@ -58,6 +58,6 @@ by virtue of the operation of subsection (3)(a) in that case before the directio
 
 ## Annotations
 
-[^key-cc8c6495c56fb152dc5e9d09a3ceb10a]: Commencement: S. 47 in operation at 22.6.2012 for specified purposes by [S.R. 2012/247](https://www.legislation.gov.uk/nisr/2012/247), [art. 2](https://www.legislation.gov.uk/nisr/2012/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/247/schedule)
+[^c-cc8c6495c56fb152dc5e9d09a3ceb10a]: Commencement: S. 47 in operation at 22.6.2012 for specified purposes by [S.R. 2012/247](https://www.legislation.gov.uk/nisr/2012/247), [art. 2](https://www.legislation.gov.uk/nisr/2012/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/247/schedule)
 
-[^key-82443c219f36aa7b657ba76a8d81f795]: Commencement: S. 47 in operation at 1.7.2012 in so far as not already in operation by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-82443c219f36aa7b657ba76a8d81f795]: Commencement: S. 47 in operation at 1.7.2012 in so far as not already in operation by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

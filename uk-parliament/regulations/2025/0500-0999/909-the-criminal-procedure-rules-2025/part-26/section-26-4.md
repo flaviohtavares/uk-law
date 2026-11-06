@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26.4. Assessment of juror’s availability for long trial, etc.[^key-cec5c73d0a8b80c486e4f058fdc2ec6a]
+## 26.4. Assessment of juror’s availability for long trial, etc.[^c-cec5c73d0a8b80c486e4f058fdc2ec6a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cec5c73d0a8b80c486e4f058fdc2ec6a]: Commencement: [Rule 26.4](https://www.legislation.gov.uk/uksi/2025/909/rule/26.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-cec5c73d0a8b80c486e4f058fdc2ec6a]: Commencement: [Rule 26.4](https://www.legislation.gov.uk/uksi/2025/909/rule/26.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

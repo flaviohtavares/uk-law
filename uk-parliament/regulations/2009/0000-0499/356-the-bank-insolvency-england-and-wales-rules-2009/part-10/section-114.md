@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Application of rules in this Part[^key-23dd056a4a8bb69186de6e348875f0c6]
+## 114. Application of rules in this Part[^c-23dd056a4a8bb69186de6e348875f0c6]
 
 *Extent: E+W*
 
-The rules in this Part apply only in relation to the liquidation committee established [^key-cf19ed1d909feeecfe8fe5304270f981]... after a full payment resolution has been passed.
+The rules in this Part apply only in relation to the liquidation committee established [^c-cf19ed1d909feeecfe8fe5304270f981]... after a full payment resolution has been passed.
 
 ## Annotations
 
-[^key-23dd056a4a8bb69186de6e348875f0c6]: Commencement: Rule 114 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-23dd056a4a8bb69186de6e348875f0c6]: Commencement: Rule 114 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-cf19ed1d909feeecfe8fe5304270f981]: Textual amendment: Words in [rule 114](https://www.legislation.gov.uk/uksi/2009/356/rule/114) omitted (15.11.2010) by virtue of [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [47](https://www.legislation.gov.uk/uksi/2010/2579/rule/47)
+[^c-cf19ed1d909feeecfe8fe5304270f981]: Textual amendment: Words in [rule 114](https://www.legislation.gov.uk/uksi/2009/356/rule/114) omitted (15.11.2010) by virtue of [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [47](https://www.legislation.gov.uk/uksi/2010/2579/rule/47)

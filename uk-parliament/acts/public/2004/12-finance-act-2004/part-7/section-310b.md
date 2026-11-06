@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 310B. Failure to provide information under section 310A: application to the Tribunal[^key-aeb6c93c725323ad54836f7098ac80b3]
+## 310B. Failure to provide information under section 310A: application to the Tribunal[^c-aeb6c93c725323ad54836f7098ac80b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aeb6c93c725323ad54836f7098ac80b3]: Textual amendment: Ss. 310A, 310B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 284(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/284/2) (with [s. 284(11)](https://www.legislation.gov.uk/ukpga/2014/26/section/284/2))
+[^c-aeb6c93c725323ad54836f7098ac80b3]: Textual amendment: Ss. 310A, 310B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 284(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/284/2) (with [s. 284(11)](https://www.legislation.gov.uk/ukpga/2014/26/section/284/2))

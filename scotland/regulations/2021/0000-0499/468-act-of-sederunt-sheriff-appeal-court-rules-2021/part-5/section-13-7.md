@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13.7. Determination of unopposed motions in writing[^key-a7c039d7f10b6b4856bdcf9b0eebdd28]
+## 13.7. Determination of unopposed motions in writing[^c-a7c039d7f10b6b4856bdcf9b0eebdd28]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ in chambers without the appearance of parties, unless the procedural Appeal Sher
 
 ## Annotations
 
-[^key-a7c039d7f10b6b4856bdcf9b0eebdd28]: Commencement: Para. 13.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-a7c039d7f10b6b4856bdcf9b0eebdd28]: Commencement: Para. 13.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

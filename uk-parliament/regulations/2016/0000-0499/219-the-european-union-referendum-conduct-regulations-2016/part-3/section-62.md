@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Application to vote by post or by proxy in the referendum[^key-9ae2c2272a91f34868898ed5b3806c96]
+## 62. Application to vote by post or by proxy in the referendum[^c-9ae2c2272a91f34868898ed5b3806c96]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,6 +69,6 @@ the registration officer must grant the application if it meets the requirements
 
 ## Annotations
 
-[^key-9ae2c2272a91f34868898ed5b3806c96]: Commencement: Reg. 62 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-9ae2c2272a91f34868898ed5b3806c96]: Commencement: Reg. 62 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00044]: Footnote: [S.I. 2004/293](https://www.legislation.gov.uk/uksi/2004/293), amended by [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), [S.I. 2009/186](https://www.legislation.gov.uk/uksi/2009/186), [S.I. 2013/2876](https://www.legislation.gov.uk/uksi/2013/2876), [S.I. 2015/459](https://www.legislation.gov.uk/uksi/2015/459); there are other amending instruments but none is relevant.

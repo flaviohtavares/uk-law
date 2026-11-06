@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Further provision about the effect of live-link directions[^c19808381][^key-da8c188d5fbd84a68979de6eedba2afd]
+## 52. Further provision about the effect of live-link directions[^c19808381][^c-da8c188d5fbd84a68979de6eedba2afd]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ But a party may not apply for a variation or rescission unless there has been a 
 
 [^c19808381]: Commencement: S. 52 wholly in force at 26.4.2010; s. 52 not in force at Royal Assent, see s. 336(3); s. 52 in force for certain purposes at 7.12.2007 by [S.I. 2007/3451](https://www.legislation.gov.uk/uksi/2007/3451), [arts. 2](https://www.legislation.gov.uk/uksi/2007/3451/article/2), [3](https://www.legislation.gov.uk/uksi/2007/3451/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3451/article/4)); s. 52 in force in so far as not already in force at 26.4.2010 by [S.I. 2010/1183](https://www.legislation.gov.uk/uksi/2010/1183), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/1183/article/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/1183/article/4))
 
-[^key-da8c188d5fbd84a68979de6eedba2afd]: Textual amendment: [Ss. 52, 52A](https://www.legislation.gov.uk/ukpga/2003/44/section/52) substituted for [s. 52](https://www.legislation.gov.uk/ukpga/2003/44/section/52) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y), [Sch. 20 para. 1(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/1/2)
+[^c-da8c188d5fbd84a68979de6eedba2afd]: Textual amendment: [Ss. 52, 52A](https://www.legislation.gov.uk/ukpga/2003/44/section/52) substituted for [s. 52](https://www.legislation.gov.uk/ukpga/2003/44/section/52) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y), [Sch. 20 para. 1(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 256. Disqualification from dividend[^key-fda151234b553d2fd13a06e7ac201fc6]
+## 256. Disqualification from dividend[^c-fda151234b553d2fd13a06e7ac201fc6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.10 of the 1986 Rules.
 
 ## Annotations
 
-[^key-fda151234b553d2fd13a06e7ac201fc6]: Commencement: Rule 256 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-fda151234b553d2fd13a06e7ac201fc6]: Commencement: Rule 256 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

@@ -33,7 +33,7 @@ An Act to consolidate certain enactments relating to special controls in respect
 
 \[27th February 1997\]
 
-[^c262026]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-3a44512766cf51851dcb745420933648][^key-ab782d511d8ab31961bfc966d7d03059]
+[^c262026]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-3a44512766cf51851dcb745420933648][^c-ab782d511d8ab31961bfc966d7d03059]
 
 ## Contents
 
@@ -123,7 +123,7 @@ An Act to consolidate certain enactments relating to special controls in respect
 - [Section 40 — Effect of listed building consent on listed building enforcement notice.](part-i/section-40.md)
 - [Section 41 — Enforcement by Secretary of State.](part-i/section-41.md)
 
-##### Stop notices[^key-c56edb19d6381922b2975d5cf59abd1a]
+##### Stop notices[^c-c56edb19d6381922b2975d5cf59abd1a]
 
 - [Section 41A — Stop notices](part-i/section-41a.md)
 - [Section 41B — Stop notices: supplementary provisions](part-i/section-41b.md)
@@ -131,7 +131,7 @@ An Act to consolidate certain enactments relating to special controls in respect
 - [Section 41D — Compensation for loss due to stop notice](part-i/section-41d.md)
 - [Section 41E — Penalties for contravention of stop notice](part-i/section-41e.md)
 
-##### Temporary stop notices[^key-c56edb19d6381922b2975d5cf59abd1a]
+##### Temporary stop notices[^c-c56edb19d6381922b2975d5cf59abd1a]
 
 - [Section 41F — Temporary stop notices](part-i/section-41f.md)
 - [Section 41G — Temporary stop notices: restrictions](part-i/section-41g.md)
@@ -161,7 +161,7 @@ An Act to consolidate certain enactments relating to special controls in respect
 - [Section 49 — Urgent works to preserve unoccupied listed buildings.](part-i/section-49.md)
 - [Section 50 — Recovery of expenses of works under section 49.](part-i/section-50.md)
 
-##### Liability of owner and successors for expenses of works executed under section 49[^key-ac70f497146b71c71fe678e9f5e22dd5]
+##### Liability of owner and successors for expenses of works executed under section 49[^c-ac70f497146b71c71fe678e9f5e22dd5]
 
 - [Section 50A — Liability of owner and successors for expenses of works executed under section 49](part-i/section-50a.md)
 - [Section 50B — Notice of liability for expenses: further provision](part-i/section-50b.md)
@@ -286,10 +286,10 @@ SCHEDULES
 
     Act extended (with modifications) (6.5.1999) by [S.I. 1999/677](https://www.legislation.gov.uk/uksi/1999/677), [art. 2](https://www.legislation.gov.uk/uksi/1999/677/article/2)
 
-[^key-3a44512766cf51851dcb745420933648]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/9) applied (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 73(1)](https://www.legislation.gov.uk/asp/2006/6/section/73/1) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
+[^c-3a44512766cf51851dcb745420933648]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/9) applied (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 73(1)](https://www.legislation.gov.uk/asp/2006/6/section/73/1) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
 
-[^key-ab782d511d8ab31961bfc966d7d03059]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/9) applied (12.6.2006) by [The Planning and Compulsory Purchase Act 2004 (Transitional Provisions) (Scotland) Order 2006 (S.S.I. 2006/269)](https://www.legislation.gov.uk/ssi/2006/269), [art. 4(7)](https://www.legislation.gov.uk/ssi/2006/269/article/4/7)
+[^c-ab782d511d8ab31961bfc966d7d03059]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/9) applied (12.6.2006) by [The Planning and Compulsory Purchase Act 2004 (Transitional Provisions) (Scotland) Order 2006 (S.S.I. 2006/269)](https://www.legislation.gov.uk/ssi/2006/269), [art. 4(7)](https://www.legislation.gov.uk/ssi/2006/269/article/4/7)
 
-[^key-c56edb19d6381922b2975d5cf59abd1a]: Textual amendment: Ss. 41A-41I and cross-headings inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 23(1)](https://www.legislation.gov.uk/asp/2011/3/section/23/1), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule); S.S.I. 2011/372, art. 2, Sch.
+[^c-c56edb19d6381922b2975d5cf59abd1a]: Textual amendment: Ss. 41A-41I and cross-headings inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 23(1)](https://www.legislation.gov.uk/asp/2011/3/section/23/1), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule); S.S.I. 2011/372, art. 2, Sch.
 
-[^key-ac70f497146b71c71fe678e9f5e22dd5]: Textual amendment: [Ss. 50A-50G](https://www.legislation.gov.uk/ukpga/1997/9/section/50A) and cross-heading inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 26(3)](https://www.legislation.gov.uk/asp/2011/3/section/26/3), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-ac70f497146b71c71fe678e9f5e22dd5]: Textual amendment: [Ss. 50A-50G](https://www.legislation.gov.uk/ukpga/1997/9/section/50A) and cross-heading inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 26(3)](https://www.legislation.gov.uk/asp/2011/3/section/26/3), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)

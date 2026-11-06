@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Review of police detention[^c20416721][^key-6012d4bc7bdcd1ee1f792f459c68c0a1]
+## 41. Review of police detention[^c20416721][^c-6012d4bc7bdcd1ee1f792f459c68c0a1]
 
 *Extent: N.I.*
 
@@ -89,7 +89,7 @@ an opportunity to make representations to him about the detention.
 
 [^c20416721]: Modification: [Art. 41](https://www.legislation.gov.uk/nisi/1989/1341/article/41) applied (with modifications) (1.12.2007) by [Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (S.R. 2007/464)](https://www.legislation.gov.uk/nisr/2007/464), [arts. 3-15](https://www.legislation.gov.uk/nisr/2007/464/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/464/schedule/2)
 
-[^key-6012d4bc7bdcd1ee1f792f459c68c0a1]: Modification: [Art. 41](https://www.legislation.gov.uk/nisi/1989/1341/article/41) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-6012d4bc7bdcd1ee1f792f459c68c0a1]: Modification: [Art. 41](https://www.legislation.gov.uk/nisi/1989/1341/article/41) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c20416231]: Textual amendment: Words in [art. 41(8)](https://www.legislation.gov.uk/nisi/1989/1341/article/41/8) substituted (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [19(2)](https://www.legislation.gov.uk/nisi/2007/288/article/19/2)
 

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**47.**[^key-a59738b8647096db4ebd90e8a6018786] In paragraph 5, in the substituted section 5 of the 1972 Act, omit the substituted subsection (2).
+**47.**[^c-a59738b8647096db4ebd90e8a6018786] In paragraph 5, in the substituted section 5 of the 1972 Act, omit the substituted subsection (2).
 
 ## Annotations
 
-[^key-a59738b8647096db4ebd90e8a6018786]: Commencement: Art. 47 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-a59738b8647096db4ebd90e8a6018786]: Commencement: Art. 47 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

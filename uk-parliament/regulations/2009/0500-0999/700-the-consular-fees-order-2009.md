@@ -32,7 +32,7 @@ summary: ''
 
 Diplomatic Service
 
-The Consular Fees Order 2009 (revoked)[^key-b817a17c48a572bda8f0119328a2fa05]
+The Consular Fees Order 2009 (revoked)[^c-b817a17c48a572bda8f0119328a2fa05]
 
 Made
 
@@ -48,88 +48,88 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-b817a17c48a572bda8f0119328a2fa05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b817a17c48a572bda8f0119328a2fa05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-b817a17c48a572bda8f0119328a2fa05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b817a17c48a572bda8f0119328a2fa05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b817a17c48a572bda8f0119328a2fa05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b817a17c48a572bda8f0119328a2fa05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b817a17c48a572bda8f0119328a2fa05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b817a17c48a572bda8f0119328a2fa05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b817a17c48a572bda8f0119328a2fa05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b817a17c48a572bda8f0119328a2fa05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b817a17c48a572bda8f0119328a2fa05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b817a17c48a572bda8f0119328a2fa05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — TABLE OF CONSULAR FEES[^key-b817a17c48a572bda8f0119328a2fa05]
+## SCHEDULE 1 — TABLE OF CONSULAR FEES[^c-b817a17c48a572bda8f0119328a2fa05]
 
-### PART I — LEGALISATION[^key-b817a17c48a572bda8f0119328a2fa05]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART II — NOTARIAL AND RELATED MATTERS[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART I — LEGALISATION[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — PASSPORT APPLICATIONS MADE TO THE FOREIGN AND COMMONWEALTH OFFICE[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART II — NOTARIAL AND RELATED MATTERS[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — PASSPORT APPLICATIONS MADE IN THE UNITED KINGDOM[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART III — PASSPORT APPLICATIONS MADE TO THE FOREIGN AND COMMONWEALTH OFFICE[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — OTHER DOCUMENTS RELATING TO TRAVEL OR ENTRY INTO THE UK, COMMONWEALTH, OVERSEAS TERRITORIES, CROWN DEPENDENCIES AND LIBYA[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART IV — PASSPORT APPLICATIONS MADE IN THE UNITED KINGDOM[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART VI — BIRTHS, DEATHS, MARRIAGES AND CIVIL PARTNERSHIPS[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART V — OTHER DOCUMENTS RELATING TO TRAVEL OR ENTRY INTO THE UK, COMMONWEALTH, OVERSEAS TERRITORIES, CROWN DEPENDENCIES AND LIBYA[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART VII — SEARCHES[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART VI — BIRTHS, DEATHS, MARRIAGES AND CIVIL PARTNERSHIPS[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART VIII — NATIONALITY AND REGISTRATION[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART VII — SEARCHES[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IX — ESTATES[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART VIII — NATIONALITY AND REGISTRATION[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART X — ATTENDANCES[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART IX — ESTATES[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART XI — MATTERS RELATING TO LEGAL PROCEEDINGS[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART X — ATTENDANCES[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART XII — REPATRIATION AND FINANCIAL ASSISTANCE[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART XI — MATTERS RELATING TO LEGAL PROCEEDINGS[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART XIII — SHIPPING, SEAMEN AND RELATED MATTERS[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART XII — REPATRIATION AND FINANCIAL ASSISTANCE[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART XIV — PAYMENTS USING CREDIT CARDS[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART XIII — SHIPPING, SEAMEN AND RELATED MATTERS[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-b817a17c48a572bda8f0119328a2fa05]
+### PART XIV — PAYMENTS USING CREDIT CARDS[^c-b817a17c48a572bda8f0119328a2fa05]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2[^c-b817a17c48a572bda8f0119328a2fa05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b817a17c48a572bda8f0119328a2fa05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b817a17c48a572bda8f0119328a2fa05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b817a17c48a572bda8f0119328a2fa05]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/700) revoked (6.4.2010) by [The Consular Fees Order 2010 (S.I. 2010/238)](https://www.legislation.gov.uk/uksi/2010/238), [art. 1](https://www.legislation.gov.uk/uksi/2010/238/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/238/schedule/2)
+[^c-b817a17c48a572bda8f0119328a2fa05]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/700) revoked (6.4.2010) by [The Consular Fees Order 2010 (S.I. 2010/238)](https://www.legislation.gov.uk/uksi/2010/238), [art. 1](https://www.legislation.gov.uk/uksi/2010/238/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/238/schedule/2)

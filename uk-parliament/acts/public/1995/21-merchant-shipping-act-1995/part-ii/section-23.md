@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Interpretation.[^key-bd0c135a2eb9eb5268682bc39b32dc84]
+## 23. Interpretation.[^c-bd0c135a2eb9eb5268682bc39b32dc84]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd0c135a2eb9eb5268682bc39b32dc84]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/1995/21/section/23) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/35/article/2/4)
+[^c-bd0c135a2eb9eb5268682bc39b32dc84]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/1995/21/section/23) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/35/article/2/4)

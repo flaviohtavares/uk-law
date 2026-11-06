@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Effect of disregard for disclosure and other purposes[^key-4e3b2bbdec21fc54aaf5ca333ea4bfb6]
+## 96. Effect of disregard for disclosure and other purposes[^c-4e3b2bbdec21fc54aaf5ca333ea4bfb6]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e3b2bbdec21fc54aaf5ca333ea4bfb6]: Commencement: S. 96 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/g)
+[^c-4e3b2bbdec21fc54aaf5ca333ea4bfb6]: Commencement: S. 96 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/g)

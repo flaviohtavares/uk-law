@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Payment on death of the person entitled[^key-5da6d724ef4e0a344f89ce5ddb18afa3]
+## 80. Payment on death of the person entitled[^c-5da6d724ef4e0a344f89ce5ddb18afa3]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5da6d724ef4e0a344f89ce5ddb18afa3]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/1988/1890/regulation/80) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-5da6d724ef4e0a344f89ce5ddb18afa3]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/1988/1890/regulation/80) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Information to identify or assess threats to stability of a disused tip etc.[^key-dd9aaedea213f96ee066c8ac3cd1df3b]
+## 63. Information to identify or assess threats to stability of a disused tip etc.[^c-dd9aaedea213f96ee066c8ac3cd1df3b]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd9aaedea213f96ee066c8ac3cd1df3b]: Commencement: S. 63 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-dd9aaedea213f96ee066c8ac3cd1df3b]: Commencement: S. 63 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

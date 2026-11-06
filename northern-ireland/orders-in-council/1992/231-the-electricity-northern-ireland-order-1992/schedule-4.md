@@ -75,7 +75,7 @@ Article 13(1).
 
 under any street[^c17138901] which interferes with the exercise of his powers under this Schedule.
 
-(2) In the case of an alteration under this paragraph of any electronic communications apparatus installed for the purposes of an electronic communications network which is operated by a person to whom the electronic communications code applies, Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code)[^key-0988828e2408829caf0d6f6510278134] will apply instead of sub-paragraphs (3) to (14).
+(2) In the case of an alteration under this paragraph of any electronic communications apparatus installed for the purposes of an electronic communications network which is operated by a person to whom the electronic communications code applies, Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code)[^c-0988828e2408829caf0d6f6510278134] will apply instead of sub-paragraphs (3) to (14).
 
 (3) One month before commencing the alterations, except where the alterations are emergency works, the licence holder shall—
 
@@ -454,7 +454,7 @@ have effect in relation to the searching or boring as if they were street works 
 
 [^c17138901]: Textual amendment: [1995 NI 19](https://www.legislation.gov.uk/nisi/1995)
 
-[^key-0988828e2408829caf0d6f6510278134]: Textual amendment: Words in [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/nisi/1992/231/schedule/4/paragraph/3/2) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 32](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/32); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-0988828e2408829caf0d6f6510278134]: Textual amendment: Words in [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/nisi/1992/231/schedule/4/paragraph/3/2) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 32](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/32); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
 [^c20662691]: Textual amendment: Words in Sch. 4 para. 3(3)(a) substituted (1.4.2007) by [Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2), [308(1)](https://www.legislation.gov.uk/nisi/2006/3336/article/308/1), [Sch. 12 para. 31(1)(c)](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/31/1/c) (with [arts. 8(8)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/8), [121(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/121/3), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Attendance by accused at certain preliminary or sentencing hearings[^key-b0c1828061f5f644ae7a2fabcebe30e3][^key-e802989fe2743c460dd039e16a9bdb9f][^key-d97cdc4cd72eea4b78da35c26f002838][^key-27d706f644f91165765eaf0428466f22][^key-a0ee1d4a4d15ac2cab25b998278851a0]
+## 45. Attendance by accused at certain preliminary or sentencing hearings[^c-b0c1828061f5f644ae7a2fabcebe30e3][^c-e802989fe2743c460dd039e16a9bdb9f][^c-d97cdc4cd72eea4b78da35c26f002838][^c-27d706f644f91165765eaf0428466f22][^c-a0ee1d4a4d15ac2cab25b998278851a0]
 
 *Extent: E+W*
 
@@ -149,12 +149,12 @@ For section 57 of the Crime and Disorder Act 1998 (c. 37) (use of live televisio
 
 ## Annotations
 
-[^key-b0c1828061f5f644ae7a2fabcebe30e3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/48/section/45) in force at 15.1.2007 for specified purposes by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(g)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/g) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/3364/article/4))
+[^c-b0c1828061f5f644ae7a2fabcebe30e3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/48/section/45) in force at 15.1.2007 for specified purposes by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(g)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/g) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/3364/article/4))
 
-[^key-e802989fe2743c460dd039e16a9bdb9f]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/48/section/45) in force at 1.4.2007 for specified purposes by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(n)](https://www.legislation.gov.uk/uksi/2007/709/article/3/n) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-e802989fe2743c460dd039e16a9bdb9f]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/48/section/45) in force at 1.4.2007 for specified purposes by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(n)](https://www.legislation.gov.uk/uksi/2007/709/article/3/n) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-d97cdc4cd72eea4b78da35c26f002838]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/48/section/45) in force at 14.11.2008 for specified purposes by [S.I. 2008/2785](https://www.legislation.gov.uk/uksi/2008/2785), [art. 2](https://www.legislation.gov.uk/uksi/2008/2785/article/2)
+[^c-d97cdc4cd72eea4b78da35c26f002838]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/48/section/45) in force at 14.11.2008 for specified purposes by [S.I. 2008/2785](https://www.legislation.gov.uk/uksi/2008/2785), [art. 2](https://www.legislation.gov.uk/uksi/2008/2785/article/2)
 
-[^key-27d706f644f91165765eaf0428466f22]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/48/section/45) in force at 3.10.2011 for specified purposes by [S.I. 2011/2144](https://www.legislation.gov.uk/uksi/2011/2144), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2011/2144/article/2/1/a)
+[^c-27d706f644f91165765eaf0428466f22]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/48/section/45) in force at 3.10.2011 for specified purposes by [S.I. 2011/2144](https://www.legislation.gov.uk/uksi/2011/2144), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2011/2144/article/2/1/a)
 
-[^key-a0ee1d4a4d15ac2cab25b998278851a0]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/48/section/45) in force at 8.10.2012 in so far as not already in force by [S.I. 2012/2373](https://www.legislation.gov.uk/uksi/2012/2373), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2373/article/2/a)
+[^c-a0ee1d4a4d15ac2cab25b998278851a0]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/48/section/45) in force at 8.10.2012 in so far as not already in force by [S.I. 2012/2373](https://www.legislation.gov.uk/uksi/2012/2373), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2373/article/2/a)

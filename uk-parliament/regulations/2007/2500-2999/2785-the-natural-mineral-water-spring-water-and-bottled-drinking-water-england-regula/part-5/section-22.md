@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Application of the Act[^key-a790a7ebb5fdeb1306c2e0e8b99b028d]
+## 22. Application of the Act[^c-a790a7ebb5fdeb1306c2e0e8b99b028d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a790a7ebb5fdeb1306c2e0e8b99b028d]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2007/2785/regulation/22) substituted (6.4.2018) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2018/352/regulation/9)
+[^c-a790a7ebb5fdeb1306c2e0e8b99b028d]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2007/2785/regulation/22) substituted (6.4.2018) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2018/352/regulation/9)

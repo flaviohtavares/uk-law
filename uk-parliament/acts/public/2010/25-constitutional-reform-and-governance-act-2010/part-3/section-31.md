@@ -20,20 +20,20 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b0b59ba3bbae022db82617638cdedb01] Section 6 of the Parliamentary Standards Act 2009 (dealing with claims under the MPs' allowances scheme) is amended as follows.
+(1)[^c-b0b59ba3bbae022db82617638cdedb01] Section 6 of the Parliamentary Standards Act 2009 (dealing with claims under the MPs' allowances scheme) is amended as follows.
 
-(2)[^key-b0b59ba3bbae022db82617638cdedb01] Omit subsections (4) and (5).
+(2)[^c-b0b59ba3bbae022db82617638cdedb01] Omit subsections (4) and (5).
 
-(3)[^key-b0b59ba3bbae022db82617638cdedb01] In subsection (6) for paragraph (b) substitute—
+(3)[^c-b0b59ba3bbae022db82617638cdedb01] In subsection (6) for paragraph (b) substitute—
 
 > - (b) provision for deducting amounts within subsection (6A) from allowances payable under the scheme or salaries payable under section 4;
 > - (c) provision about how such deductions, and deductions under paragraph 5 or 12 of Schedule 4, are to be made.
 
-(4)[^key-b0b59ba3bbae022db82617638cdedb01] After subsection (6) insert—
+(4)[^c-b0b59ba3bbae022db82617638cdedb01] After subsection (6) insert—
 
 > (6A) This subsection applies to amounts which a member (under section 9(8) or otherwise) has agreed to repay, in respect of amounts paid to the member under the MPs' allowances scheme that should not have been allowed.
 
-(5)[^key-b0b59ba3bbae022db82617638cdedb01] After section 6 of that Act insert—
+(5)[^c-b0b59ba3bbae022db82617638cdedb01] After section 6 of that Act insert—
 
 > **6A. Review of IPSA's determination**
 >
@@ -81,7 +81,7 @@ summary: ''
 >
 > (12) The Compliance Officer must notify the IPSA of the Tribunal's decision (and the result of any further appeal).
 
-(6)[^key-53f49e6c4b764a10af066d3e77717acc] In section 7 of that Act (information and guidance about taxation)—
+(6)[^c-53f49e6c4b764a10af066d3e77717acc] In section 7 of that Act (information and guidance about taxation)—
 
 - (a) before subsection (1) insert—
 
@@ -97,6 +97,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0b59ba3bbae022db82617638cdedb01]: Commencement: [S. 31(1)-(5)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/1) in force at 27.7.2010 by [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/b)
+[^c-b0b59ba3bbae022db82617638cdedb01]: Commencement: [S. 31(1)-(5)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/1) in force at 27.7.2010 by [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/b)
 
-[^key-53f49e6c4b764a10af066d3e77717acc]: Commencement: [S. 31(6)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/6) in force at 7.5.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/d)
+[^c-53f49e6c4b764a10af066d3e77717acc]: Commencement: [S. 31(6)](https://www.legislation.gov.uk/ukpga/2010/25/section/31/6) in force at 7.5.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/d)

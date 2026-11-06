@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Approvals, consents and appeals[^key-b97a15fc15b8f7851fb4544aacc711b6]
+## 37. Approvals, consents and appeals[^c-b97a15fc15b8f7851fb4544aacc711b6]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b97a15fc15b8f7851fb4544aacc711b6]: Commencement: Art. 37 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-b97a15fc15b8f7851fb4544aacc711b6]: Commencement: Art. 37 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
 
 [^f00020]: Footnote: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40) Section 61 has been amended by the Building (Scotland) Act 2008; section 58 of the Building Act [1984 (c.55)](https://www.legislation.gov.uk/ukpga/1984/55); Schedule 24 of the Environmental Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25); section 162(i) of, and paragraph 15 of Schedule 15 to, the Environmental Protection Act [1990 (c.43)](https://www.legislation.gov.uk/ukpga/1990/43).

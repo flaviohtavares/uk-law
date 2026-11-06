@@ -38,7 +38,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Amendments of the 1977 Act relating to international obligations
 
-### 1. Methods of treatment or diagnosis[^key-f4295426d27a5abb12d0322ea51dc3ae]
+### 1. Methods of treatment or diagnosis[^c-f4295426d27a5abb12d0322ea51dc3ae]
 
 After section 4 of the Patents Act 1977 (c. 37) (“**the 1977 Act**”) there is inserted—
 
@@ -57,11 +57,11 @@ After section 4 of the Patents Act 1977 (c. 37) (“**the 1977 Act**”) there i
 
 ### 2. Amendment of patents after grant
 
-(1)[^key-cdb4b033b754ee98f9877c7c0f717d02] In section 27 of the 1977 Act (general power to amend after grant), after subsection (5) there is inserted—
+(1)[^c-cdb4b033b754ee98f9877c7c0f717d02] In section 27 of the 1977 Act (general power to amend after grant), after subsection (5) there is inserted—
 
 > (6) In considering whether or not to allow an application under this section, the comptroller shall have regard to any relevant principles applicable under the European Patent Convention.
 
-(2)[^key-a4212b6a1dec2c1aa7905629c02ba6c3] In section 58 of that Act (references of disputes as to Crown use)—
+(2)[^c-a4212b6a1dec2c1aa7905629c02ba6c3] In section 58 of that Act (references of disputes as to Crown use)—
 
 - (a) in subsection (6), after “satisfied that” there is inserted “ (a) ” and at the end there is inserted
 
@@ -78,15 +78,15 @@ After section 4 of the Patents Act 1977 (c. 37) (“**the 1977 Act**”) there i
 
   .
 
-(3)[^key-9c8f7d81a669b5348630787701b31725] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9c8f7d81a669b5348630787701b31725] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-9c8f7d81a669b5348630787701b31725] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9c8f7d81a669b5348630787701b31725] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-304c48767e366f673df737001e2770b7] In section 75 of that Act (amendment in infringement or revocation proceedings), after subsection (4) there is inserted—
+(5)[^c-304c48767e366f673df737001e2770b7] In section 75 of that Act (amendment in infringement or revocation proceedings), after subsection (4) there is inserted—
 
 > (5) In considering whether or not to allow an amendment proposed under this section, the court or the comptroller shall have regard to any relevant principles applicable under the European Patent Convention.
 
-### 3. Relief for partially valid patent[^key-738985b876fd6168fee5e9a5297e3b7a]
+### 3. Relief for partially valid patent[^c-738985b876fd6168fee5e9a5297e3b7a]
 
 (1) In section 63 of the 1977 Act (relief for infringement of partially valid patent), after subsection (3) there is inserted—
 
@@ -96,19 +96,19 @@ After section 4 of the Patents Act 1977 (c. 37) (“**the 1977 Act**”) there i
 
 > (9A) The court may also grant such relief in the case of a European patent (UK) on condition that the claims of the patent are limited to its satisfaction by the European Patent Office at the request of the proprietor.
 
-### 4. Revocation[^key-a453cf62c776cd8d7c93421c67eb6e55]
+### 4. Revocation[^c-a453cf62c776cd8d7c93421c67eb6e55]
 
 In section 72 of the 1977 Act (power to revoke patents on application), in subsection (4), “under section 75 below” is omitted and after that subsection there is inserted—
 
 > (4A) The reference in subsection (4) above to the specification being amended is to its being amended under section 75 below and also, in the case of a European patent (UK), to its being amended under any provision of the European Patent Convention under which the claims of the patent may be limited by amendment at the request of the proprietor.
 
-### 5. Further amendments relating to international obligations[^key-b1de2631053c55c1229f97eafe29ba65][^key-89b147c9007936f8d971ed63d48b1ee5]
+### 5. Further amendments relating to international obligations[^c-b1de2631053c55c1229f97eafe29ba65][^c-89b147c9007936f8d971ed63d48b1ee5]
 
 Schedule 1 (further amendments of the 1977 Act relating to international obligations) has effect.
 
 ## Other amendments of the 1977 Act
 
-### 6. Remedies in entitlement proceedings[^key-dc65668135da7eb9f7cc3583ee7e556b]
+### 6. Remedies in entitlement proceedings[^c-dc65668135da7eb9f7cc3583ee7e556b]
 
 (1) In section 8 of the 1977 Act (reference before grant of patent of questions about entitlement etc), in paragraph (c) of subsection (3) (powers of comptroller), for “but after the publication of the application” there is substituted “ (whether the application is refused or withdrawn before or after its publication) ”.
 
@@ -123,7 +123,7 @@ Schedule 1 (further amendments of the 1977 Act relating to international obligat
 - (a) after “(2)” there is inserted “ or (3A) ”;
 - (b) after “proceed” there is inserted “ or, as the case may be, who makes the new application ”.
 
-### 7. Restrictions on applications abroad by United Kingdom residents[^key-4eaa1014117caeae61c3c0ec763a2004]
+### 7. Restrictions on applications abroad by United Kingdom residents[^c-4eaa1014117caeae61c3c0ec763a2004]
 
 (1) In section 23 of the 1977 Act (restrictions on applications abroad by United Kingdom residents), in subsection (1), after “an invention” there is inserted “ if subsection (1A) below applies to that application, ”.
 
@@ -141,7 +141,7 @@ Schedule 1 (further amendments of the 1977 Act relating to international obligat
 > - (a) he knows that filing the application, or causing it to be filed, would contravene this section; or
 > - (b) he is reckless as to whether filing the application, or causing it to be filed, would contravene this section.
 
-### 8. Term of patent and periods allowed for payment of renewal fees[^key-862da8fee604bb92fe86dac0b896c901]
+### 8. Term of patent and periods allowed for payment of renewal fees[^c-862da8fee604bb92fe86dac0b896c901]
 
 (1) In section 25 of the 1977 Act (term of patent), for subsection (3) there is substituted—
 
@@ -162,7 +162,7 @@ Schedule 1 (further amendments of the 1977 Act relating to international obligat
 
   > (3B) For the purposes of subsection (3)(d) above the expiry date in relation to a renewal fee is the day at the end of which, by virtue of section 25(3) above, the patent in question ceases to have effect if that fee is not paid.
 
-### 9. Co-ownership[^key-e924885306f3e776cc5e390a78f76c26]
+### 9. Co-ownership[^c-e924885306f3e776cc5e390a78f76c26]
 
 In section 36 of the 1977 Act (co-ownership), in subsection (3), after “others” there is inserted—
 
@@ -171,7 +171,7 @@ In section 36 of the 1977 Act (co-ownership), in subsection (3), after “others
 
 .
 
-### 10. Compensation of employees for certain inventions[^key-3a3bf2067826cbc00569f81b7cb4d5ea]
+### 10. Compensation of employees for certain inventions[^c-3a3bf2067826cbc00569f81b7cb4d5ea]
 
 (1) In section 40 of the 1977 Act (compensation of employees for certain inventions), for subsection (1) there is substituted—
 
@@ -214,7 +214,7 @@ In section 36 of the 1977 Act (co-ownership), in subsection (3), after “others
 
 In this subsection “**patent**” has the meaning given by section 43(4) of the 1977 Act.
 
-### 11. Enforcement of damages[^key-c7a5942f956a0a0cca84705c4421a883]
+### 11. Enforcement of damages[^c-c7a5942f956a0a0cca84705c4421a883]
 
 In section 61 of the 1977 Act (proceedings for infringement of a patent), after subsection (6) there is inserted—
 
@@ -224,7 +224,7 @@ In section 61 of the 1977 Act (proceedings for infringement of a patent), after 
 > - (b) in Scotland, payment of the sum may be enforced in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland;
 > - (c) in Northern Ireland, payment of the sum may be enforced as if it were a money judgment.
 
-### 12. Threats of infringement proceedings[^key-5cf9dca6b57bc4c16a49936530062a4a]
+### 12. Threats of infringement proceedings[^c-5cf9dca6b57bc4c16a49936530062a4a]
 
 (1) Section 70 of the 1977 Act (remedy for groundless threats of infringement proceedings) is amended as follows.
 
@@ -262,7 +262,7 @@ In section 61 of the 1977 Act (proceedings for infringement of a patent), after 
 >
 > and that he notified B accordingly, before or at the time of making the threats, identifying the endeavours used.
 
-### 13. Opinions by Patent Office as to validity or infringement[^key-780526529aec0c7f512d947b664ef640]
+### 13. Opinions by Patent Office as to validity or infringement[^c-780526529aec0c7f512d947b664ef640]
 
 (1) After section 74 of the 1977 Act there is inserted—
 
@@ -314,7 +314,7 @@ In section 61 of the 1977 Act (proceedings for infringement of a patent), after 
 
 .
 
-### 14. Costs and expenses in infringement proceedings etc[^key-f5acc463d0604dad9bd83f83d9d9152f]
+### 14. Costs and expenses in infringement proceedings etc[^c-f5acc463d0604dad9bd83f83d9d9152f]
 
 (1) Section 106 of the 1977 Act (costs and expenses in proceedings before the Court under s. 40) is amended as follows.
 
@@ -331,7 +331,7 @@ In section 61 of the 1977 Act (proceedings for infringement of a patent), after 
 
 (4) This section applies in relation to proceedings commenced on or after the commencement of this section.
 
-### 15. Security for costs[^key-7db43be97cc8779fd857350f894618c7]
+### 15. Security for costs[^c-7db43be97cc8779fd857350f894618c7]
 
 In section 107 of the 1977 Act (costs and expenses), for subsection (4) there is substituted—
 
@@ -346,11 +346,11 @@ In section 107 of the 1977 Act (costs and expenses), for subsection (4) there is
 
 ### 16. Amendments, repeals and revocations
 
-(1)[^key-5ad93752a5b96ae5954821b3220f3c2e][^key-aa5b8c31e240971859d19288d066ac7b][^key-04654e17c154f79246c2104dbdac958b][^key-5be8b58a89a9a93871d913d86e83a577] Schedule 2 (minor and consequential amendments) has effect.
+(1)[^c-5ad93752a5b96ae5954821b3220f3c2e][^c-aa5b8c31e240971859d19288d066ac7b][^c-04654e17c154f79246c2104dbdac958b][^c-5be8b58a89a9a93871d913d86e83a577] Schedule 2 (minor and consequential amendments) has effect.
 
-(2)[^key-5ad93752a5b96ae5954821b3220f3c2e][^key-aa5b8c31e240971859d19288d066ac7b][^key-04654e17c154f79246c2104dbdac958b][^key-5be8b58a89a9a93871d913d86e83a577] The enactments set out in Schedule 3 are repealed to the extent specified.
+(2)[^c-5ad93752a5b96ae5954821b3220f3c2e][^c-aa5b8c31e240971859d19288d066ac7b][^c-04654e17c154f79246c2104dbdac958b][^c-5be8b58a89a9a93871d913d86e83a577] The enactments set out in Schedule 3 are repealed to the extent specified.
 
-(3)[^key-4129704b7fea1b272577679e9c6b9f9b] Article 6 of the Patent Office Trading Fund Order 1991 (S.I. 1991/1796) is revoked.
+(3)[^c-4129704b7fea1b272577679e9c6b9f9b] Article 6 of the Patent Office Trading Fund Order 1991 (S.I. 1991/1796) is revoked.
 
 ### 17. Commencement etc
 
@@ -385,11 +385,11 @@ SCHEDULES
 
 Section 5
 
-**1.**[^key-e3b703e9301b75cf2bb488773300d8ce] The 1977 Act is amended as follows.
+**1.**[^c-e3b703e9301b75cf2bb488773300d8ce] The 1977 Act is amended as follows.
 
-**2.**[^key-588ebd0f7f32729bc9da92c652b9e5ee] In section 77 (effect of European patent (UK)), in subsection (5)(a), after “restored” there is inserted “ or is revoked by the Board of Appeal and is subsequently restored by the Enlarged Board of Appeal ”.
+**2.**[^c-588ebd0f7f32729bc9da92c652b9e5ee] In section 77 (effect of European patent (UK)), in subsection (5)(a), after “restored” there is inserted “ or is revoked by the Board of Appeal and is subsequently restored by the Enlarged Board of Appeal ”.
 
-**3.**[^key-5b81b2b2debba6ef70068f4bf7dec698] (1) Section 78 (effect of filing an application for a European patent (UK)) is amended as follows.
+**3.**[^c-5b81b2b2debba6ef70068f4bf7dec698] (1) Section 78 (effect of filing an application for a European patent (UK)) is amended as follows.
 
 (2) In subsection (5A), at the end there is inserted “ ; and the occurrence of any event mentioned in subsection (5)(b) shall not prevent matter contained in an application for a European patent (UK) becoming part of the state of the art by virtue of section 2(3) above as regards other inventions where the event occurs before the publication of that application. ”
 
@@ -410,7 +410,7 @@ Section 5
 >
 > “**Patented invention**” has the same meaning as in section 55 above.
 
-**4.**[^key-6fe7cb0e9b46b880260c8716f4a64c64] In section 80 (authentic text of European patents and patent applications), for subsection (4) there is substituted—
+**4.**[^c-6fe7cb0e9b46b880260c8716f4a64c64] In section 80 (authentic text of European patents and patent applications), for subsection (4) there is substituted—
 
 > (4) Where a correction of a translation is published under subsection (3) above and before it is so published a person—
 >
@@ -430,7 +430,7 @@ Section 5
 >
 > “**Patented invention**” has the same meaning as in section 55 above.
 
-**5.**[^key-c79aebdf65b1e33372311d13ff93df90] (1) Section 81 (conversion of European patent applications) is amended as follows.
+**5.**[^c-c79aebdf65b1e33372311d13ff93df90] (1) Section 81 (conversion of European patent applications) is amended as follows.
 
 (2) In subsection (1), for the words following “this Act” there is substituted “ where the application is deemed to be withdrawn under the provisions of the European Patent Convention relating to the time for forwarding applications to the European Patent Office ”.
 
@@ -440,24 +440,24 @@ Section 5
 - (b) in paragraph (b), for the words preceding sub-paragraph (i) there is substituted “ that ”;
 - (c) in paragraph (c), for “in either case” there is substituted “ that ”.
 
-**6.**[^key-1af790248947b4654ef80c679f2b4fbd] Sections 86 and 87 (implementation of Community Patent Convention and decisions under it) are omitted.
+**6.**[^c-1af790248947b4654ef80c679f2b4fbd] Sections 86 and 87 (implementation of Community Patent Convention and decisions under it) are omitted.
 
-**7.**[^key-1ac6abad7d7b7e3f46e9633c8d16acad] Section 89(4) (circumstances in which application treated as an international application for a patent (UK)) is omitted.
+**7.**[^c-1ac6abad7d7b7e3f46e9633c8d16acad] Section 89(4) (circumstances in which application treated as an international application for a patent (UK)) is omitted.
 
-**8.**[^key-ceb5cb32a3010beeaa5872ea9c0bbb57] In section 89B(2) (adaptation of provisions in relation to international applications), for the words following “when the” there is substituted “ national phase of the application begins or, if later, when published in accordance with the Treaty ”.
+**8.**[^c-ceb5cb32a3010beeaa5872ea9c0bbb57] In section 89B(2) (adaptation of provisions in relation to international applications), for the words following “when the” there is substituted “ national phase of the application begins or, if later, when published in accordance with the Treaty ”.
 
-**9.** (1)[^key-41947f4179357ff1635e7e27e5c98803] Section 130 (interpretation) is amended as follows.
+**9.** (1)[^c-41947f4179357ff1635e7e27e5c98803] Section 130 (interpretation) is amended as follows.
 
 (2) In subsection (1)—
 
-- (a)[^key-41947f4179357ff1635e7e27e5c98803] in the definition of “application for a European patent (UK)” and “international application for a patent (UK)”, after “and” there is inserted “ (subject to subsection (4A) below) ”;
-- (b)[^key-d06fc52cd11295e06022e87a6fcf10a8][^key-95717598f47b30682c46e1723f956ecc] at the end of the definition of “designate” there is inserted “ and includes a reference to a country being treated as designated in pursuance of the convention or treaty ”.
+- (a)[^c-41947f4179357ff1635e7e27e5c98803] in the definition of “application for a European patent (UK)” and “international application for a patent (UK)”, after “and” there is inserted “ (subject to subsection (4A) below) ”;
+- (b)[^c-d06fc52cd11295e06022e87a6fcf10a8][^c-95717598f47b30682c46e1723f956ecc] at the end of the definition of “designate” there is inserted “ and includes a reference to a country being treated as designated in pursuance of the convention or treaty ”.
 
-(3)[^key-41947f4179357ff1635e7e27e5c98803] After subsection (4) there is inserted—
+(3)[^c-41947f4179357ff1635e7e27e5c98803] After subsection (4) there is inserted—
 
 > (4A) An international application for a patent is not, by reason of being treated by virtue of the European Patent Convention as an application for a European patent (UK), to be treated also as an international application for a patent (UK).
 
-(4)[^key-4d796ebe6097a67cefe19280c6ae17bb] After subsection (5) there is inserted—
+(4)[^c-4d796ebe6097a67cefe19280c6ae17bb] After subsection (5) there is inserted—
 
 > (5A) References in this Act to the amendment of a patent or its specification (whether under this Act or by the European Patent Office) include, in particular, limitation of the claims (as interpreted by the description and any drawings referred to in the description or claims).
 
@@ -465,27 +465,27 @@ Section 5
 
 Section 16
 
-**1.**[^key-55c315c3ec4e1af13af84b9418b5bf25] (1) The 1977 Act is amended as follows.
+**1.**[^c-55c315c3ec4e1af13af84b9418b5bf25] (1) The 1977 Act is amended as follows.
 
 (2) In this Schedule, “**the Regulatory Reform Order**” means the Regulatory Reform (Patents) Order 2004.
 
-**2.**[^key-01572c5f1e5a447845bfd15d58078d94] In section 1 (patentable inventions), in subsection (1)(d), after “subsections (2) and (3)” there is inserted “ or section 4A ”.
+**2.**[^c-01572c5f1e5a447845bfd15d58078d94] In section 1 (patentable inventions), in subsection (1)(d), after “subsections (2) and (3)” there is inserted “ or section 4A ”.
 
-**3.**[^key-111537e6d7cadda64cefd4f421bff0a2] In section 2 (novelty), subsection (6) is omitted.
+**3.**[^c-111537e6d7cadda64cefd4f421bff0a2] In section 2 (novelty), subsection (6) is omitted.
 
-**4.**[^key-e0f71932d28b6d88742a69a2d3786e5a] In section 4 (industrial application)—
+**4.**[^c-e0f71932d28b6d88742a69a2d3786e5a] In section 4 (industrial application)—
 
 - (a) in subsection (1), “Subject to subsection (2) below”, and
 - (b) subsections (2) and (3),
 
 are omitted.
 
-**5.**[^key-8e38475a91668cb8207871798b561038] In section 12 (reference before grant of foreign or convention patent of questions about entitlement etc), in subsection (6)—
+**5.**[^c-8e38475a91668cb8207871798b561038] In section 12 (reference before grant of foreign or convention patent of questions about entitlement etc), in subsection (6)—
 
 - (a) in paragraph (a), after “application is withdrawn” there is inserted “ whether before or ”;
 - (b) in paragraph (c), for “but after” there is substituted “ or the ”.
 
-**6.**[^key-fc9a73e41899dfd3deef2fecd48f2a4a] In section 16(1) (publication of application), after “section 22 below” there is inserted “ and to any prescribed restrictions ”.
+**6.**[^c-fc9a73e41899dfd3deef2fecd48f2a4a] In section 16(1) (publication of application), after “section 22 below” there is inserted “ and to any prescribed restrictions ”.
 
 **7.** In section 20B (inserted by the Regulatory Reform Order) (effect of reinstatement of applications), after subsection (6) there is inserted—
 
@@ -493,7 +493,7 @@ are omitted.
 >
 > “**Patented invention**” has the same meaning as in section 55 below.
 
-**8.**[^key-1ba21cdf0bc983493a94dcd8b6cea3a2] (1) Section 22 (information prejudicial to defence of realm or safety of public) is amended as follows.
+**8.**[^c-1ba21cdf0bc983493a94dcd8b6cea3a2] (1) Section 22 (information prejudicial to defence of realm or safety of public) is amended as follows.
 
 (2) In the heading, for “defence of realm” there is substituted “ national security ”.
 
@@ -509,42 +509,42 @@ are omitted.
   ;
 - (b) for the words from “that Authority” to the end there is substituted “ a government body or a person appointed by a government body carries out an inspection which the body or person is authorised to carry out under paragraph (a) above, the body or (as the case may be) the person shall report on the inspection to the Secretary of State as soon as practicable. ”
 
-**9.**[^key-2e2359511cc51d207e805e973d2883c7] In section 24 (publication and certificate of grant), after subsection (3) there is inserted—
+**9.**[^c-2e2359511cc51d207e805e973d2883c7] In section 24 (publication and certificate of grant), after subsection (3) there is inserted—
 
 > (4) Subsection (3) above shall not require the comptroller to identify as inventor a person who has waived his right to be mentioned as inventor in any patent granted for the invention.
 
-**10.**[^key-d1fbdbfa9072a1f93f2d349f42a81856] (1) Section 38 (effect of transfer of patent under section 37) is amended as follows.
+**10.**[^c-d1fbdbfa9072a1f93f2d349f42a81856] (1) Section 38 (effect of transfer of patent under section 37) is amended as follows.
 
 (2) In subsection (3), after “new proprietor or proprietors” there is inserted “ or, as the case may be, the new applicant ”.
 
 (3) In subsection (5), after “proprietors of the patent” there is inserted “ or, as the case may be, the new applicant ”.
 
-**11.**[^key-8a6dfc55177d93893fad297f3167a948] In section 41(10) (method of enforcing in Scotland certain orders made by comptroller), for “a recorded decree arbitral” there is substituted “ an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland. ”
+**11.**[^c-8a6dfc55177d93893fad297f3167a948] In section 41(10) (method of enforcing in Scotland certain orders made by comptroller), for “a recorded decree arbitral” there is substituted “ an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland. ”
 
-**12.**[^key-7f1f738abcac2ec7b1e62a7a7fe5caa1] Section 53(1) (compulsory licences: Community Patent Convention) is omitted.
+**12.**[^c-7f1f738abcac2ec7b1e62a7a7fe5caa1] Section 53(1) (compulsory licences: Community Patent Convention) is omitted.
 
-**13.**[^key-ef3125c72fcdeefd584f6c4e9a7924dd] Section 60(4) (meaning of infringement: Community Patent Convention) is omitted.
+**13.**[^c-ef3125c72fcdeefd584f6c4e9a7924dd] Section 60(4) (meaning of infringement: Community Patent Convention) is omitted.
 
-**14.**[^key-f5add498d792ab3ae15f38efe0032858] In section 61 (proceedings for infringement of patent), in subsection (4)(b), for “plaintiff” there is substituted “ claimant ”.
+**14.**[^c-f5add498d792ab3ae15f38efe0032858] In section 61 (proceedings for infringement of patent), in subsection (4)(b), for “plaintiff” there is substituted “ claimant ”.
 
-**15.**[^key-360ea2218a256eb83e512526f610516f] In section 62(2) (discretion to refuse damages etc for infringement committed while fees unpaid), for “any further period specified under” there is substituted “ the further period specified in ”.
+**15.**[^c-360ea2218a256eb83e512526f610516f] In section 62(2) (discretion to refuse damages etc for infringement committed while fees unpaid), for “any further period specified under” there is substituted “ the further period specified in ”.
 
-**16.**[^key-56a7cfd62c4fbe347080eb786413b3c8] In section 63 (relief for infringement of partially valid patent), in subsection (2), for “plaintiff” there is substituted “ claimant ”.
+**16.**[^c-56a7cfd62c4fbe347080eb786413b3c8] In section 63 (relief for infringement of partially valid patent), in subsection (2), for “plaintiff” there is substituted “ claimant ”.
 
-**17.**[^key-adb0d4948cfd7b1b80c92d786deac665] In section 70 (remedy for groundless threats of infringement proceedings), in subsection (3)(c), for “plaintiff” there is substituted “ claimant ”.
+**17.**[^c-adb0d4948cfd7b1b80c92d786deac665] In section 70 (remedy for groundless threats of infringement proceedings), in subsection (3)(c), for “plaintiff” there is substituted “ claimant ”.
 
-**18.**[^key-f66d8f89e66ec8fd06b15cf7514e531f] In section 72(1) (power to revoke patents on application), “on the application of any person” is omitted and after the first mention of “invention” there is inserted “ on the application of any person (including the proprietor of the patent) ”.
+**18.**[^c-f66d8f89e66ec8fd06b15cf7514e531f] In section 72(1) (power to revoke patents on application), “on the application of any person” is omitted and after the first mention of “invention” there is inserted “ on the application of any person (including the proprietor of the patent) ”.
 
-**19.**[^key-08fae2fa9fae14404bc494086a6be396] In section 75 (amendment of patent in infringement or revocation proceedings), in subsection (1), for “is” there is substituted “ may be ”.
+**19.**[^c-08fae2fa9fae14404bc494086a6be396] In section 75 (amendment of patent in infringement or revocation proceedings), in subsection (1), for “is” there is substituted “ may be ”.
 
-**20.**[^key-7d47adbcab1fad548a9ffb185ae08ebc] In section 91(1) (evidence relating to the conventions: judicial notice), for “or Community patents kept under it” there is substituted “ patents kept under the European Patent Convention ”.
+**20.**[^c-7d47adbcab1fad548a9ffb185ae08ebc] In section 91(1) (evidence relating to the conventions: judicial notice), for “or Community patents kept under it” there is substituted “ patents kept under the European Patent Convention ”.
 
-**21.**[^key-73233743911c1b44ed3dd29f75e9fa38] In section 95 (financial provision)—
+**21.**[^c-73233743911c1b44ed3dd29f75e9fa38] In section 95 (financial provision)—
 
 - (a) in subsection (1), “the Community Patent Convention” is omitted;
 - (b) in subsection (2), for “either of those conventions” there is substituted “ that convention ”.
 
-**22.**[^key-5ee2bae340c03caf94f55d1368e50473] In sections 103 and 105 (legal privilege), in the definition of “the relevant conventions” in subsection (2), “the Community Patent Convention” is omitted.
+**22.**[^c-5ee2bae340c03caf94f55d1368e50473] In sections 103 and 105 (legal privilege), in the definition of “the relevant conventions” in subsection (2), “the Community Patent Convention” is omitted.
 
 **23.** In section 117A (inserted by the Regulatory Reform Order) (effect of resuscitating applications), after subsection (6) there is inserted—
 
@@ -552,7 +552,7 @@ are omitted.
 >
 > “**Patented invention**” has the same meaning as in section 55 above.
 
-**24.**[^key-46cf2d3cbaff04ca3d1331ebd99b66ae] (1) Section 120 (hours of business and excluded days) is amended as follows.
+**24.**[^c-46cf2d3cbaff04ca3d1331ebd99b66ae] (1) Section 120 (hours of business and excluded days) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -563,37 +563,37 @@ are omitted.
 
 > (3) Directions under this section shall be published in the prescribed manner.
 
-**25.**[^key-370d10a85a6310158bfcf4c7f76a0092] In section 121 (comptroller’s annual report)—
+**25.**[^c-370d10a85a6310158bfcf4c7f76a0092] In section 121 (comptroller’s annual report)—
 
 - (a) for “1st June” there is substituted “ 1st December ”;
 - (b) for “year”, in both places, there is substituted “ financial year ”;
 - (c) “the Community Patent Convention” is omitted;
 - (d) for “those conventions” there is substituted “ that convention ”.
 
-**26.** (1)[^key-0f9a473afaa54b7260a53414b514575c] Section 123 (rules) is amended as follows.
+**26.** (1)[^c-0f9a473afaa54b7260a53414b514575c] Section 123 (rules) is amended as follows.
 
-(2)[^key-42bb8fa63471743443900a1071f7b8f3] In subsection (2), for paragraph (i) there is substituted—
+(2)[^c-42bb8fa63471743443900a1071f7b8f3] In subsection (2), for paragraph (i) there is substituted—
 
 > - (i) giving effect to an inventor’s rights to be mentioned conferred by section 13, and providing for an inventor’s waiver of any such right to be subject to acceptance by the comptroller;
 
 .
 
-(3)[^key-0f9a473afaa54b7260a53414b514575c] After that subsection there is inserted—
+(3)[^c-0f9a473afaa54b7260a53414b514575c] After that subsection there is inserted—
 
 > (2A) The comptroller may set out in directions any forms the use of which is required by rules; and any such directions shall be published in the prescribed manner.
 
-(4)[^key-0f9a473afaa54b7260a53414b514575c] Subsections (4) and (5) are omitted.
+(4)[^c-0f9a473afaa54b7260a53414b514575c] Subsections (4) and (5) are omitted.
 
-**27.**[^key-3ab5d40d36bc30d9b188a87db7635275] In section 130(1) (interpretation)—
+**27.**[^c-3ab5d40d36bc30d9b188a87db7635275] In section 130(1) (interpretation)—
 
 - (a) the definition of “Community patent” and the “and” preceding it are omitted;
 - (b) in the definition of “relevant convention court”, “the Community Patent Convention” is omitted.
 
-**28.**[^key-d3b94f50e78ca3685709e3ccf4ecef35] In section 131 (Northern Ireland), at the end there is inserted—
+**28.**[^c-d3b94f50e78ca3685709e3ccf4ecef35] In section 131 (Northern Ireland), at the end there is inserted—
 
 > - (f) any reference to a claimant includes a reference to a plaintiff.
 
-## SCHEDULE 3 — Repeals[^key-66785fb86d3f459c16a971c09d5f3241][^key-c6fa5a1a07395053416d7836d82887ae][^key-e9619c4256f7dcada8ebfe77a428a34a][^key-5a287c1e539afbe5f0cc3cabce264ed7]
+## SCHEDULE 3 — Repeals[^c-66785fb86d3f459c16a971c09d5f3241][^c-c6fa5a1a07395053416d7836d82887ae][^c-e9619c4256f7dcada8ebfe77a428a34a][^c-5a287c1e539afbe5f0cc3cabce264ed7]
 
 Section 16
 
@@ -603,136 +603,136 @@ Section 16
 
 ## Annotations
 
-[^key-f4295426d27a5abb12d0322ea51dc3ae]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2004/16/section/1) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/a)
+[^c-f4295426d27a5abb12d0322ea51dc3ae]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2004/16/section/1) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/a)
 
-[^key-cdb4b033b754ee98f9877c7c0f717d02]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/2/1) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/b)
+[^c-cdb4b033b754ee98f9877c7c0f717d02]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/2/1) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/b)
 
-[^key-a4212b6a1dec2c1aa7905629c02ba6c3]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/2/2) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/c)
+[^c-a4212b6a1dec2c1aa7905629c02ba6c3]: Commencement: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/2/2) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/c)
 
-[^key-9c8f7d81a669b5348630787701b31725]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukpga/2004/16/section/2/3)[(4)](https://www.legislation.gov.uk/ukpga/2004/16/section/2/4) repealed (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/1028/schedule/4)
+[^c-9c8f7d81a669b5348630787701b31725]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukpga/2004/16/section/2/3)[(4)](https://www.legislation.gov.uk/ukpga/2004/16/section/2/4) repealed (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/1028/schedule/4)
 
-[^key-304c48767e366f673df737001e2770b7]: Commencement: [S. 2(5)](https://www.legislation.gov.uk/ukpga/2004/16/section/2/5) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/d)
+[^c-304c48767e366f673df737001e2770b7]: Commencement: [S. 2(5)](https://www.legislation.gov.uk/ukpga/2004/16/section/2/5) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/d)
 
-[^key-738985b876fd6168fee5e9a5297e3b7a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2004/16/section/3) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/e)
+[^c-738985b876fd6168fee5e9a5297e3b7a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2004/16/section/3) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/e)
 
-[^key-a453cf62c776cd8d7c93421c67eb6e55]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2004/16/section/4) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(f)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/f)
+[^c-a453cf62c776cd8d7c93421c67eb6e55]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2004/16/section/4) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(f)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/f)
 
-[^key-b1de2631053c55c1229f97eafe29ba65]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/16/section/5) in force at 1.1.2005 for specified purposes by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/a)
+[^c-b1de2631053c55c1229f97eafe29ba65]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/16/section/5) in force at 1.1.2005 for specified purposes by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/a)
 
-[^key-89b147c9007936f8d971ed63d48b1ee5]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/16/section/5) in force at 13.12.2007 for specified purposes by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/g)
+[^c-89b147c9007936f8d971ed63d48b1ee5]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/16/section/5) in force at 13.12.2007 for specified purposes by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/g)
 
-[^key-dc65668135da7eb9f7cc3583ee7e556b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2004/16/section/6) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-dc65668135da7eb9f7cc3583ee7e556b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2004/16/section/6) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-4eaa1014117caeae61c3c0ec763a2004]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2004/16/section/7) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/c) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-4eaa1014117caeae61c3c0ec763a2004]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2004/16/section/7) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/c) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-862da8fee604bb92fe86dac0b896c901]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2004/16/section/8) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2471/article/3))
+[^c-862da8fee604bb92fe86dac0b896c901]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2004/16/section/8) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2471/article/3))
 
-[^key-e924885306f3e776cc5e390a78f76c26]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2004/16/section/9) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/b)
+[^c-e924885306f3e776cc5e390a78f76c26]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2004/16/section/9) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/b)
 
-[^key-3a3bf2067826cbc00569f81b7cb4d5ea]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2004/16/section/10) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-3a3bf2067826cbc00569f81b7cb4d5ea]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2004/16/section/10) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-c7a5942f956a0a0cca84705c4421a883]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/16/section/11) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-c7a5942f956a0a0cca84705c4421a883]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/16/section/11) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-5cf9dca6b57bc4c16a49936530062a4a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2004/16/section/12) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-5cf9dca6b57bc4c16a49936530062a4a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2004/16/section/12) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-780526529aec0c7f512d947b664ef640]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2004/16/section/13) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/c)
+[^c-780526529aec0c7f512d947b664ef640]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2004/16/section/13) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/c)
 
-[^key-f5acc463d0604dad9bd83f83d9d9152f]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2004/16/section/14) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/e) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-f5acc463d0604dad9bd83f83d9d9152f]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2004/16/section/14) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/e) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-7db43be97cc8779fd857350f894618c7]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2004/16/section/15) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2471/article/4))
+[^c-7db43be97cc8779fd857350f894618c7]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2004/16/section/15) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/2471/article/4))
 
-[^key-5ad93752a5b96ae5954821b3220f3c2e]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/2) in force at 22.9.2004 for specified purposes by [S.I. 2004/2177](https://www.legislation.gov.uk/uksi/2004/2177), [art. 2](https://www.legislation.gov.uk/uksi/2004/2177/article/2)
+[^c-5ad93752a5b96ae5954821b3220f3c2e]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/2) in force at 22.9.2004 for specified purposes by [S.I. 2004/2177](https://www.legislation.gov.uk/uksi/2004/2177), [art. 2](https://www.legislation.gov.uk/uksi/2004/2177/article/2)
 
-[^key-aa5b8c31e240971859d19288d066ac7b]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/2) in force at 1.1.2005 for specified purposes by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/f)
+[^c-aa5b8c31e240971859d19288d066ac7b]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/2) in force at 1.1.2005 for specified purposes by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/f)
 
-[^key-04654e17c154f79246c2104dbdac958b]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/2) in force at 1.10.2005 for specified purposes by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/e/f)
+[^c-04654e17c154f79246c2104dbdac958b]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/2) in force at 1.10.2005 for specified purposes by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/e/f)
 
-[^key-5be8b58a89a9a93871d913d86e83a577]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/2) in force at 13.12.2007 for specified purposes by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/h)
+[^c-5be8b58a89a9a93871d913d86e83a577]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/2) in force at 13.12.2007 for specified purposes by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/h)
 
-[^key-4129704b7fea1b272577679e9c6b9f9b]: Commencement: [S. 16(3)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/3) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/h) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-4129704b7fea1b272577679e9c6b9f9b]: Commencement: [S. 16(3)](https://www.legislation.gov.uk/ukpga/2004/16/section/16/3) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/h) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-e3b703e9301b75cf2bb488773300d8ce]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/1) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-e3b703e9301b75cf2bb488773300d8ce]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/1) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-588ebd0f7f32729bc9da92c652b9e5ee]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/2) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j)
+[^c-588ebd0f7f32729bc9da92c652b9e5ee]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/2) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j)
 
-[^key-5b81b2b2debba6ef70068f4bf7dec698]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/3) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/3396/article/3))
+[^c-5b81b2b2debba6ef70068f4bf7dec698]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/3) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/3396/article/3))
 
-[^key-6fe7cb0e9b46b880260c8716f4a64c64]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/4) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j)
+[^c-6fe7cb0e9b46b880260c8716f4a64c64]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/4) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j)
 
-[^key-c79aebdf65b1e33372311d13ff93df90]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/5) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j)
+[^c-c79aebdf65b1e33372311d13ff93df90]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/5) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j)
 
-[^key-1af790248947b4654ef80c679f2b4fbd]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/6) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-1af790248947b4654ef80c679f2b4fbd]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/6) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-1ac6abad7d7b7e3f46e9633c8d16acad]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/7) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-1ac6abad7d7b7e3f46e9633c8d16acad]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/7) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-ceb5cb32a3010beeaa5872ea9c0bbb57]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/8) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-ceb5cb32a3010beeaa5872ea9c0bbb57]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/8) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-41947f4179357ff1635e7e27e5c98803]: Commencement: [Sch. 1 para. 9(1)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/9/1)[(2)(a)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/9/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/9/3) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-41947f4179357ff1635e7e27e5c98803]: Commencement: [Sch. 1 para. 9(1)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/9/1)[(2)(a)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/9/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/9/3) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-d06fc52cd11295e06022e87a6fcf10a8]: Commencement: [Sch. 1 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/9/2/b) in force at 1.1.2005 for specified purposes by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(j)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/j) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-d06fc52cd11295e06022e87a6fcf10a8]: Commencement: [Sch. 1 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/9/2/b) in force at 1.1.2005 for specified purposes by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(j)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/j) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-95717598f47b30682c46e1723f956ecc]: Commencement: [Sch. 1 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/9/2/b) in force at 13.12.2007 for specified purposes by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/k)
+[^c-95717598f47b30682c46e1723f956ecc]: Commencement: [Sch. 1 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/9/2/b) in force at 13.12.2007 for specified purposes by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/k)
 
-[^key-4d796ebe6097a67cefe19280c6ae17bb]: Commencement: [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/9/4) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j)
+[^c-4d796ebe6097a67cefe19280c6ae17bb]: Commencement: [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/9/4) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j)
 
-[^key-55c315c3ec4e1af13af84b9418b5bf25]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/1) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-55c315c3ec4e1af13af84b9418b5bf25]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/1) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-01572c5f1e5a447845bfd15d58078d94]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/2) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/l)
+[^c-01572c5f1e5a447845bfd15d58078d94]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/2) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/l)
 
-[^key-111537e6d7cadda64cefd4f421bff0a2]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/3) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/l)
+[^c-111537e6d7cadda64cefd4f421bff0a2]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/3) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/l)
 
-[^key-e0f71932d28b6d88742a69a2d3786e5a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/4) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/l)
+[^c-e0f71932d28b6d88742a69a2d3786e5a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/4) in force at 13.12.2007 by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(l)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/l)
 
-[^key-8e38475a91668cb8207871798b561038]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/5) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-8e38475a91668cb8207871798b561038]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/5) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-fc9a73e41899dfd3deef2fecd48f2a4a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/6) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/g)
+[^c-fc9a73e41899dfd3deef2fecd48f2a4a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/6) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/g)
 
-[^key-1ba21cdf0bc983493a94dcd8b6cea3a2]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/8) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-1ba21cdf0bc983493a94dcd8b6cea3a2]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/8) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-2e2359511cc51d207e805e973d2883c7]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/9) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/g)
+[^c-2e2359511cc51d207e805e973d2883c7]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/9) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/g)
 
-[^key-d1fbdbfa9072a1f93f2d349f42a81856]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/10) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-d1fbdbfa9072a1f93f2d349f42a81856]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/10) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-8a6dfc55177d93893fad297f3167a948]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/11) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-8a6dfc55177d93893fad297f3167a948]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/11) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-7f1f738abcac2ec7b1e62a7a7fe5caa1]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/12) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-7f1f738abcac2ec7b1e62a7a7fe5caa1]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/12) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-ef3125c72fcdeefd584f6c4e9a7924dd]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/13) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-ef3125c72fcdeefd584f6c4e9a7924dd]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/13) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-f5add498d792ab3ae15f38efe0032858]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/14) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-f5add498d792ab3ae15f38efe0032858]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/14) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-360ea2218a256eb83e512526f610516f]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/15) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/g)
+[^c-360ea2218a256eb83e512526f610516f]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/15) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/g)
 
-[^key-56a7cfd62c4fbe347080eb786413b3c8]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/16) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-56a7cfd62c4fbe347080eb786413b3c8]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/16) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-adb0d4948cfd7b1b80c92d786deac665]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/17) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-adb0d4948cfd7b1b80c92d786deac665]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/17) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-f66d8f89e66ec8fd06b15cf7514e531f]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/18) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/g)
+[^c-f66d8f89e66ec8fd06b15cf7514e531f]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/18) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/g)
 
-[^key-08fae2fa9fae14404bc494086a6be396]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/19) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-08fae2fa9fae14404bc494086a6be396]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/19) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-7d47adbcab1fad548a9ffb185ae08ebc]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/20) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-7d47adbcab1fad548a9ffb185ae08ebc]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/20) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-73233743911c1b44ed3dd29f75e9fa38]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/21) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-73233743911c1b44ed3dd29f75e9fa38]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/21) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-5ee2bae340c03caf94f55d1368e50473]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/22) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-5ee2bae340c03caf94f55d1368e50473]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/22) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-46cf2d3cbaff04ca3d1331ebd99b66ae]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/24) in force at 22.9.2004 by [S.I. 2004/2177](https://www.legislation.gov.uk/uksi/2004/2177), [art. 2](https://www.legislation.gov.uk/uksi/2004/2177/article/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2004/2177/article/6), [8](https://www.legislation.gov.uk/uksi/2004/2177/article/8))
+[^c-46cf2d3cbaff04ca3d1331ebd99b66ae]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/24) in force at 22.9.2004 by [S.I. 2004/2177](https://www.legislation.gov.uk/uksi/2004/2177), [art. 2](https://www.legislation.gov.uk/uksi/2004/2177/article/2) (with [arts. 6](https://www.legislation.gov.uk/uksi/2004/2177/article/6), [8](https://www.legislation.gov.uk/uksi/2004/2177/article/8))
 
-[^key-370d10a85a6310158bfcf4c7f76a0092]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/25) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-370d10a85a6310158bfcf4c7f76a0092]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/25) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-0f9a473afaa54b7260a53414b514575c]: Commencement: [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/26/1)[(3)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/26/3)[(4)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/26/4) in force at 22.9.2004 by [S.I. 2004/2177](https://www.legislation.gov.uk/uksi/2004/2177), [art. 2](https://www.legislation.gov.uk/uksi/2004/2177/article/2) (with [arts. 7](https://www.legislation.gov.uk/uksi/2004/2177/article/7), [8](https://www.legislation.gov.uk/uksi/2004/2177/article/8))
+[^c-0f9a473afaa54b7260a53414b514575c]: Commencement: [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/26/1)[(3)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/26/3)[(4)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/26/4) in force at 22.9.2004 by [S.I. 2004/2177](https://www.legislation.gov.uk/uksi/2004/2177), [art. 2](https://www.legislation.gov.uk/uksi/2004/2177/article/2) (with [arts. 7](https://www.legislation.gov.uk/uksi/2004/2177/article/7), [8](https://www.legislation.gov.uk/uksi/2004/2177/article/8))
 
-[^key-42bb8fa63471743443900a1071f7b8f3]: Commencement: [Sch. 2 para. 26(2)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/26/2) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/g)
+[^c-42bb8fa63471743443900a1071f7b8f3]: Commencement: [Sch. 2 para. 26(2)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/26/2) in force at 1.10.2005 by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/g)
 
-[^key-3ab5d40d36bc30d9b188a87db7635275]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/27) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-3ab5d40d36bc30d9b188a87db7635275]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/27) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-d3b94f50e78ca3685709e3ccf4ecef35]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/28) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-d3b94f50e78ca3685709e3ccf4ecef35]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/28) in force at 1.1.2005 by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-66785fb86d3f459c16a971c09d5f3241]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3) in force at 22.9.2004 for specified purposes by [S.I. 2004/2177](https://www.legislation.gov.uk/uksi/2004/2177), [art. 2](https://www.legislation.gov.uk/uksi/2004/2177/article/2)
+[^c-66785fb86d3f459c16a971c09d5f3241]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3) in force at 22.9.2004 for specified purposes by [S.I. 2004/2177](https://www.legislation.gov.uk/uksi/2004/2177), [art. 2](https://www.legislation.gov.uk/uksi/2004/2177/article/2)
 
-[^key-c6fa5a1a07395053416d7836d82887ae]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3) in force at 1.1.2005 for specified purposes by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/f) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-c6fa5a1a07395053416d7836d82887ae]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3) in force at 1.1.2005 for specified purposes by [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/f) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-e9619c4256f7dcada8ebfe77a428a34a]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3) in force at 1.10.2005 for specified purposes by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/f)
+[^c-e9619c4256f7dcada8ebfe77a428a34a]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3) in force at 1.10.2005 for specified purposes by [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2471/article/2/f)
 
-[^key-5a287c1e539afbe5f0cc3cabce264ed7]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3) in force at 13.12.2007 in so far as not already in force by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/i)
+[^c-5a287c1e539afbe5f0cc3cabce264ed7]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3) in force at 13.12.2007 in so far as not already in force by [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Exclusion of restrictive practices law.[^key-df94dd8fb42748335eb50173e74f6d30]
+## 11. Exclusion of restrictive practices law.[^c-df94dd8fb42748335eb50173e74f6d30]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df94dd8fb42748335eb50173e74f6d30]: Textual amendment: S. 11 repealed (26.2.2008 for specified purposes, 18.10.2008 in so far as not already in force) by [Merchant Shipping (Liner Conferences) Act 1982 (Repeal) Regulations 2008 (S.I. 2008/163)](https://www.legislation.gov.uk/uksi/2008/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/163/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/3) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/4))
+[^c-df94dd8fb42748335eb50173e74f6d30]: Textual amendment: S. 11 repealed (26.2.2008 for specified purposes, 18.10.2008 in so far as not already in force) by [Merchant Shipping (Liner Conferences) Act 1982 (Repeal) Regulations 2008 (S.I. 2008/163)](https://www.legislation.gov.uk/uksi/2008/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/163/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/3) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/4))

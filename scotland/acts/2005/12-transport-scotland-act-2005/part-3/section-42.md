@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Functions of the Committee[^key-a942bdb9a9819da54890e85035cb62f2]
+## 42. Functions of the Committee[^c-a942bdb9a9819da54890e85035cb62f2]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a942bdb9a9819da54890e85035cb62f2]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2005/12/section/42) in force at 3.4.2006 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/454/schedule/3)
+[^c-a942bdb9a9819da54890e85035cb62f2]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2005/12/section/42) in force at 3.4.2006 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/454/schedule/3)

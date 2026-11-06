@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Special provisions as to charges on land[^key-5388866300629fe7f9516b7115185de1]
+## 93. Special provisions as to charges on land[^c-5388866300629fe7f9516b7115185de1]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ A charge on land under Article 46 shall be void as against[^c16847341]. . . the 
 
 ## Annotations
 
-[^key-5388866300629fe7f9516b7115185de1]: Modification: [Arts. 88-94](https://www.legislation.gov.uk/nisi/1981/226/article/88) applied (with modifications) (4.1.2024) by S.I. 2021/716, reg. 37A(3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-5388866300629fe7f9516b7115185de1]: Modification: [Arts. 88-94](https://www.legislation.gov.uk/nisi/1981/226/article/88) applied (with modifications) (4.1.2024) by S.I. 2021/716, reg. 37A(3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
 [^c16847341]: Textual amendment: [1989 NI 19](https://www.legislation.gov.uk/1989/ni19)

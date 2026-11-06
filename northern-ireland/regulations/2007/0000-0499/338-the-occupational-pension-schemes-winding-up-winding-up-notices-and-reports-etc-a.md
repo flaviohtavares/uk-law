@@ -41,21 +41,21 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 97C(2) and 177(2) and (3) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 72A(2)(a), 74(3)(e) and 166(1) and (2) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-471f5c3a2a1f3dd5384dbe91d95f1aba]
+## 1. Citation, commencement and interpretation[^c-471f5c3a2a1f3dd5384dbe91d95f1aba]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Winding Up, Winding Up Notices and Reports, etc.) (Amendment) Regulations (Northern Ireland) 2007 and shall come into operation on 1st October 2007.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Occupational Pension Schemes (Winding Up) Regulations[^key-9189df76e88d76faaddb4b322ff6ebaa]
+## 2. Amendment of the Occupational Pension Schemes (Winding Up) Regulations[^c-9189df76e88d76faaddb4b322ff6ebaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^key-922c9a3a77a386ab41bf69222e3561dc]
+## 3. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^c-922c9a3a77a386ab41bf69222e3561dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Occupational Pension Schemes (Winding Up Notices and Reports, etc.) Regulations[^key-465fe4af488f0b39f91f089fe2c751d4]
+## 4. Amendment of the Occupational Pension Schemes (Winding Up Notices and Reports, etc.) Regulations[^c-465fe4af488f0b39f91f089fe2c751d4]
 
 In regulation 8 of the Occupational Pension Schemes (Winding Up Notices and Reports, etc.) Regulations (Northern Ireland) 2002[^f00007] (reports to the Authority about winding up: time limits)—
 
@@ -101,14 +101,14 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-471f5c3a2a1f3dd5384dbe91d95f1aba]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/338/regulation/1) in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/338/regulation/1/1)
+[^c-471f5c3a2a1f3dd5384dbe91d95f1aba]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/338/regulation/1) in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/338/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9189df76e88d76faaddb4b322ff6ebaa]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/338/regulation/2) revoked (1.12.2009) by [The Occupational and Personal Pension Schemes (Authorised Payments) Regulations (Northern Ireland) 2009 (S.R. 2009/365)](https://www.legislation.gov.uk/nisr/2009/365), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1), [10(b)](https://www.legislation.gov.uk/nisr/2009/365/regulation/10/b)
+[^c-9189df76e88d76faaddb4b322ff6ebaa]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/338/regulation/2) revoked (1.12.2009) by [The Occupational and Personal Pension Schemes (Authorised Payments) Regulations (Northern Ireland) 2009 (S.R. 2009/365)](https://www.legislation.gov.uk/nisr/2009/365), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1), [10(b)](https://www.legislation.gov.uk/nisr/2009/365/regulation/10/b)
 
-[^key-922c9a3a77a386ab41bf69222e3561dc]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/338/regulation/3) revoked (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [21(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/21/b)
+[^c-922c9a3a77a386ab41bf69222e3561dc]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/338/regulation/3) revoked (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [21(b)](https://www.legislation.gov.uk/nisr/2009/115/regulation/21/b)
 
-[^key-465fe4af488f0b39f91f089fe2c751d4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/338/regulation/4) in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/338/regulation/1/1)
+[^c-465fe4af488f0b39f91f089fe2c751d4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/338/regulation/4) in operation at 1.10.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/338/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2002 No. 74](https://www.legislation.gov.uk/nisr/2002/74)

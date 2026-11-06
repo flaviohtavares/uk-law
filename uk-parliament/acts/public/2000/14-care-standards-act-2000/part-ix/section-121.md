@@ -40,10 +40,10 @@ summary: ''
 - “**illness**” includes any injury;
 - “**independent school**” has the same meaning as in the [^c12428061]Education Act 1996;
 - “**local authority**” has the same meaning as in the 1989 Act;
-- “**local authority foster parent**” has the same meaning as in section 105(1) of[^key-fd6845573eb3a66f7acc4128d2654aba] the 1989 Act;
+- “**local authority foster parent**” has the same meaning as in section 105(1) of[^c-fd6845573eb3a66f7acc4128d2654aba] the 1989 Act;
 - “**medical**” includes surgical;
 - “[^c21120291]**mental disorder**” has the same meaning as in the Mental Health Act 1983;
-- “**National Health Service body**” means a National Health Service trust, an[^c21115861] NHS foundation trust,[^key-f867c64f135c31102f4e5140dc925912]... a Health Authority, a Special Health Authority [^key-a678c8e0b19c25c757f6d00d73999f01]... or a Local Health Board[^c17510271];
+- “**National Health Service body**” means a National Health Service trust, an[^c21115861] NHS foundation trust,[^c-f867c64f135c31102f4e5140dc925912]... a Health Authority, a Special Health Authority [^c-a678c8e0b19c25c757f6d00d73999f01]... or a Local Health Board[^c17510271];
 - “**parent**”, in relation to a child, includes any person who is not a parent of his but who has parental responsibility for him;
 - “**parental responsibility**” has the same meaning as in the 1989 Act;
 - “**prescribed**” means prescribed by regulations;
@@ -51,7 +51,7 @@ summary: ''
 - “**regulations**” (except where provision is made for them to be made by the Secretary of State or the Assembly) means regulations made by the appropriate Minister;
 - “**relative**” has the same meaning as in the 1989 Act;
 - “**school**” has the same meaning as in the [^c12428071]Education Act 1996;
-- “**social services functions**” means functions which are social services functions for the purposes of the [^c12428081]Local Authority Social Services Act 1970 or the Social Services and Well-being (Wales) Act 2014[^key-149d51e2c026be4d4ffab097db83e443] ;
+- “**social services functions**” means functions which are social services functions for the purposes of the [^c12428081]Local Authority Social Services Act 1970 or the Social Services and Well-being (Wales) Act 2014[^c-149d51e2c026be4d4ffab097db83e443] ;
 - “**treatment**” includes diagnosis;
 - “**the Tribunal**” means the First-tier Tribunal[^c21120311];
 - “**undertaking**” includes any business or profession and—
@@ -71,7 +71,7 @@ summary: ''
 
 (4) For the purposes of this Act, the person who carries on a fostering agency falling within section 4(4)(b), or a voluntary adoption agency, is the voluntary organisation itself.
 
-(4A)[^key-bf7e9ea9068ab37594d108f1ed18b1a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-bf7e9ea9068ab37594d108f1ed18b1a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) References in this Act to a person who carries on an establishment or agency include references to a person who carries it on otherwise than for profit.
 
@@ -89,7 +89,7 @@ summary: ''
 
 (9) An establishment is not a care home for the purposes of this Act unless the care which it provides includes assistance with bodily functions where such assistance is required.
 
-(10)[^key-7d81913e2578a4e39fe19d5cfe428019] References in this Act to a child being looked after by a local authority shall be construed—
+(10)[^c-7d81913e2578a4e39fe19d5cfe428019] References in this Act to a child being looked after by a local authority shall be construed—
 
 - (a) in relation to a local authority in England, in accordance with section 22 of the 1989 Act,
 - (b) in relation to a local authority in Wales, in accordance with section 74 of the Social Services and Well-being (Wales) Act 2014.
@@ -110,13 +110,13 @@ summary: ''
 | Adoption support agency[^c21120241] | Section 4 |
 | Assembly | Section 5 |
 | Care home | Section 3 |
-| [^key-80f0e4ffe9ab83492d712973666a2943]. . . | [^key-80f0e4ffe9ab83492d712973666a2943]. . . |
+| [^c-80f0e4ffe9ab83492d712973666a2943]. . . | [^c-80f0e4ffe9ab83492d712973666a2943]. . . |
 | the[^c21120271] CIECSS | Section 5. |
 | [^c21120331]. . . | [^c21120331]. . . |
 | Children’s home | Section 1 |
 | [^c21120171]. . . | [^c21120171]. . . |
 | Commissioner | Section 72 |
-| [^key-818ff00f48e8d4ccebf0b90ee6bb1b42]. . . | [^key-818ff00f48e8d4ccebf0b90ee6bb1b42]. . . |
+| [^c-818ff00f48e8d4ccebf0b90ee6bb1b42]. . . | [^c-818ff00f48e8d4ccebf0b90ee6bb1b42]. . . |
 | [^c21120351]. . . | [^c21120351]. . . |
 | Domiciliary care agency | Section 4 |
 | Fostering agency | Section 4 |
@@ -124,8 +124,8 @@ summary: ''
 | Independent clinic and independent medical agency | Section 2 |
 | Registration authority | Section 5 |
 | Residential family centre | Section 4 |
-| Voluntary adoption agency[^key-364717302d913192dd1db9a684b64408] | Section 4 |
-| [^key-94157d9b2ea83bb2d8dcae39eaac74fd]. . . | [^key-94157d9b2ea83bb2d8dcae39eaac74fd]. . . |
+| Voluntary adoption agency[^c-364717302d913192dd1db9a684b64408] | Section 4 |
+| [^c-94157d9b2ea83bb2d8dcae39eaac74fd]. . . | [^c-94157d9b2ea83bb2d8dcae39eaac74fd]. . . |
 
 ## Annotations
 
@@ -137,15 +137,15 @@ summary: ''
 
 [^c12428061]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-fd6845573eb3a66f7acc4128d2654aba]: Textual amendment: Words in s. 121(1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [175(a)(i)](https://www.legislation.gov.uk/wsi/2016/413/regulation/175/a/i)
+[^c-fd6845573eb3a66f7acc4128d2654aba]: Textual amendment: Words in s. 121(1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [175(a)(i)](https://www.legislation.gov.uk/wsi/2016/413/regulation/175/a/i)
 
 [^c21120291]: Textual amendment: S. 121(1): definition of "mental disorder" substituted (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 1](https://www.legislation.gov.uk/ukpga/2007/12/section/1), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2007/12/schedule/1/paragraph/22); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2](https://www.legislation.gov.uk/uksi/2008/1900/article/2)
 
 [^c21115861]: Textual amendment: S. 121(1): words in definition of "National Health Service body" inserted (20.11.2003 for certain purposes and 1.4.2004 otherwise) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 34](https://www.legislation.gov.uk/ukpga/2003/43/section/34), [199](https://www.legislation.gov.uk/ukpga/2003/43/section/199), [Sch. 4 para. 112](https://www.legislation.gov.uk/ukpga/2003/43/schedule/4/paragraph/112); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 2](https://www.legislation.gov.uk/uksi/2004/759/article/2)
 
-[^key-f867c64f135c31102f4e5140dc925912]: Textual amendment: Words in s. 121(1) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 95(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/95/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-f867c64f135c31102f4e5140dc925912]: Textual amendment: Words in s. 121(1) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 95(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/95/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-a678c8e0b19c25c757f6d00d73999f01]: Textual amendment: Words in s. 121(1) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 95(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/95/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-a678c8e0b19c25c757f6d00d73999f01]: Textual amendment: Words in s. 121(1) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 95(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/95/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c17510271]: Textual amendment: S. 121(1): words in definition of "National Health Service body" substituted (10.10.2002 for W. and otherwise in force immediately before the National Health Service Act 2006 (which Act came into force on 1.3.2007 in accordance with s. 277(1) (subject to s. 277(2)-(5)) of that Act)) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2002/17/section/6/2), [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2002/17/schedule/5/paragraph/46); [S.I. 2002/2532](https://www.legislation.gov.uk/uksi/2002/2532), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/2532/article/1/3), [2](https://www.legislation.gov.uk/uksi/2002/2532/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2532/schedule); [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/1407/article/2), [Sch. 1 Pt. 2 para. 12(c)](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1/part/2/paragraph/12/c)
 
@@ -153,15 +153,15 @@ summary: ''
 
 [^c12428081]: Marginal citation: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42).
 
-[^key-149d51e2c026be4d4ffab097db83e443]: Textual amendment: Words in s. 121(1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [175(a)(ii)](https://www.legislation.gov.uk/wsi/2016/413/regulation/175/a/ii)
+[^c-149d51e2c026be4d4ffab097db83e443]: Textual amendment: Words in s. 121(1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [175(a)(ii)](https://www.legislation.gov.uk/wsi/2016/413/regulation/175/a/ii)
 
 [^c21120311]: Textual amendment: S. 121(1): words in definition of "the Tribunal" substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 9(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/9/1), [Sch. 3 para. 187](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/187)
 
 [^c21120211]: Textual amendment: S. 121(1): words in definition of "voluntary organisation" substituted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 139](https://www.legislation.gov.uk/ukpga/2002/38/section/139), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148), [Sch. 3 para. 116(a)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/116/a) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2](https://www.legislation.gov.uk/uksi/2005/2213/article/2)
 
-[^key-bf7e9ea9068ab37594d108f1ed18b1a6]: Textual amendment: S. 121(4A) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 93(2)(a)(iii)](https://www.legislation.gov.uk/ukpga/2015/20/section/93/2/a/iii), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(q)](https://www.legislation.gov.uk/uksi/2015/994/article/6/q)
+[^c-bf7e9ea9068ab37594d108f1ed18b1a6]: Textual amendment: S. 121(4A) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 93(2)(a)(iii)](https://www.legislation.gov.uk/ukpga/2015/20/section/93/2/a/iii), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(q)](https://www.legislation.gov.uk/uksi/2015/994/article/6/q)
 
-[^key-7d81913e2578a4e39fe19d5cfe428019]: Textual amendment: S. 121(10) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [175(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/175/b)
+[^c-7d81913e2578a4e39fe19d5cfe428019]: Textual amendment: S. 121(10) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [175(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/175/b)
 
 [^c12428091]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -171,7 +171,7 @@ summary: ''
 
 [^c21120241]: Textual amendment: S. 121(13): entry in Table inserted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 139](https://www.legislation.gov.uk/ukpga/2002/38/section/139), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148), [Sch. 3 para. 116(b)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/116/b); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2](https://www.legislation.gov.uk/uksi/2005/2213/article/2)
 
-[^key-80f0e4ffe9ab83492d712973666a2943]: Textual amendment: Words in s. 121(13) omitted (1.8.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 23(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/23/a); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-80f0e4ffe9ab83492d712973666a2943]: Textual amendment: Words in s. 121(13) omitted (1.8.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 23(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/23/a); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
 
 [^c21120271]: Textual amendment: S. 121(13): entry in Table inserted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 157](https://www.legislation.gov.uk/ukpga/2006/40/section/157), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 14 para. 54](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/54); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5](https://www.legislation.gov.uk/uksi/2007/935/article/5)
 
@@ -179,10 +179,10 @@ summary: ''
 
 [^c21120171]: Textual amendment: S. 121(13): entry in Table repealed (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [ss. 196](https://www.legislation.gov.uk/ukpga/2003/14/section/196), [199](https://www.legislation.gov.uk/ukpga/2003/14/section/199), [Sch. 14 Pt.2](https://www.legislation.gov.uk/ukpga/2003/14/schedule/14/part/2); [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 13](https://www.legislation.gov.uk/uksi/2004/759/article/13)
 
-[^key-818ff00f48e8d4ccebf0b90ee6bb1b42]: Textual amendment: Words in s. 121(13) omitted (1.8.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 23(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/23/b); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-818ff00f48e8d4ccebf0b90ee6bb1b42]: Textual amendment: Words in s. 121(13) omitted (1.8.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 23(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/23/b); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
 
 [^c21120351]: Textual amendment: S. 121(13): entry in Table repealed (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 95](https://www.legislation.gov.uk/ukpga/2008/14/section/95), [166](https://www.legislation.gov.uk/ukpga/2008/14/section/166), [170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3), [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/34), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2), [Sch. 1 paras. 35](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/36)
 
-[^key-364717302d913192dd1db9a684b64408]: Textual amendment: Words in s. 121(13) inserted (1.8.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 23(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/23/c); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-364717302d913192dd1db9a684b64408]: Textual amendment: Words in s. 121(13) inserted (1.8.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 23(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/23/c); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
 
-[^key-94157d9b2ea83bb2d8dcae39eaac74fd]: Textual amendment: Words in s. 121(13) repealed (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 41(d)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/41/d); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-94157d9b2ea83bb2d8dcae39eaac74fd]: Textual amendment: Words in s. 121(13) repealed (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 41(d)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/41/d); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

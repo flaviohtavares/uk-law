@@ -52,7 +52,7 @@ And Whereas written notification in accordance with Article 3 of the Supplementa
 
 [^c1676297][^c1676298] And Whereas by section 179(1)(a) and (2) of the Social Security Administration Act 1992 it is provided that Her Majesty may by Order in Council make provision for modifying or adapting that Act and the Social Security Contributions and Benefits Act 1992 in their application to cases affected by agreements with other Governments providing for reciprocity in matters specified in the said section:
 
-Now, therefore, Her Majesty, in pursuance of section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^key-e53b5efecafa016f94971169d3d6075f]
+Now, therefore, Her Majesty, in pursuance of section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^c-e53b5efecafa016f94971169d3d6075f]
 
 ## 1. Citation and commencement
 
@@ -342,7 +342,7 @@ This Order does not impose any costs on business.
 
 [^c1676298]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-e53b5efecafa016f94971169d3d6075f]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1997/1778) modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+[^c-e53b5efecafa016f94971169d3d6075f]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1997/1778) modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
 
 [^c1676299]: Marginal citation: [S.I. 1988/591](https://www.legislation.gov.uk/uksi/1988/591).
 

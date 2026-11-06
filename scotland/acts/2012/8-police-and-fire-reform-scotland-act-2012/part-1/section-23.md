@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Failure to return equipment[^key-8d3c068a56743d604675aa7d28902c9e]
+## 23. Failure to return equipment[^c-8d3c068a56743d604675aa7d28902c9e]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d3c068a56743d604675aa7d28902c9e]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2012/8/section/23) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-8d3c068a56743d604675aa7d28902c9e]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2012/8/section/23) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Tests[^key-70e6222609853b1843a61881324a07c5]
+## 37. Tests[^c-70e6222609853b1843a61881324a07c5]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Every test carried out in support of an application under regulations 9 to 15 an
 
 ## Annotations
 
-[^key-70e6222609853b1843a61881324a07c5]: Commencement: Reg. 37 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-70e6222609853b1843a61881324a07c5]: Commencement: Reg. 37 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

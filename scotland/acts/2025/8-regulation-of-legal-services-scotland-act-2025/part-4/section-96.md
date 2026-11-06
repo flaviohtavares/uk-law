@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Modification of other enactments[^key-562d2ff198ee745adc41164a3b348924]
+## 96. Modification of other enactments[^c-562d2ff198ee745adc41164a3b348924]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ Parts 4 and 5 of schedule 3 contain minor and consequential modifications of ena
 
 ## Annotations
 
-[^key-562d2ff198ee745adc41164a3b348924]: Commencement: S. 96 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-562d2ff198ee745adc41164a3b348924]: Commencement: S. 96 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

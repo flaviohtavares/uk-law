@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Designation of highways[^key-b1d1c6b31ede102e17cc28467c8fd574]
+## 18. Designation of highways[^c-b1d1c6b31ede102e17cc28467c8fd574]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1d1c6b31ede102e17cc28467c8fd574]: Commencement: Art. 18 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-b1d1c6b31ede102e17cc28467c8fd574]: Commencement: Art. 18 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 298. Removal to England and Wales following passing of custodial sentence etc[^key-32b3fe9773f767d1726c14aea963c32d][^key-53ab88fd68c0d3e4bf15536619d2c4a9]
+## 298. Removal to England and Wales following passing of custodial sentence etc[^c-32b3fe9773f767d1726c14aea963c32d][^c-53ab88fd68c0d3e4bf15536619d2c4a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ he must as soon as practicable be removed to England and Wales.
 
 ## Annotations
 
-[^key-32b3fe9773f767d1726c14aea963c32d]: Commencement: S. 298 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-32b3fe9773f767d1726c14aea963c32d]: Commencement: S. 298 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-53ab88fd68c0d3e4bf15536619d2c4a9]: Commencement: S. 298 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-53ab88fd68c0d3e4bf15536619d2c4a9]: Commencement: S. 298 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

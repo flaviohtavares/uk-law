@@ -48,7 +48,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 The Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the European Union that provisions of the following Regulations come into force on such day as the Treasury may be regulations under section 52 of the TCTA appoint.
 
-## 1. Citation, commencement and effect[^key-ccb90d9582522c0b0a5d0ae18f5ef43f]
+## 1. Citation, commencement and effect[^c-ccb90d9582522c0b0a5d0ae18f5ef43f]
 
 (1) These Regulations may be cited as the Customs (Northern Ireland) (EU Exit) (Amendment) Regulations 2023 and, subject to paragraphs (2) to (4), come into force on 30th September 2023.
 
@@ -63,11 +63,11 @@ The Treasury consider it appropriate in consequence of, or otherwise in connecti
 
 (5) In this regulation, “**claims for relief**” means claims made under Chapter 5 (reliefs and repayment) of Part 2 (importation of goods and goods potentially for export) of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^f00004].
 
-## 2. Amendment of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^key-611f742b9dd1cab15c5386646b86b9b5]
+## 2. Amendment of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^c-611f742b9dd1cab15c5386646b86b9b5]
 
 The Customs (Northern Ireland) (EU Exit) Regulations 2020 are amended as follows.
 
-**3.**[^key-0cb4c1c81f445bcdd449dfa29454c9d0] In regulation 4—
+**3.**[^c-0cb4c1c81f445bcdd449dfa29454c9d0] In regulation 4—
 
 - (a) in paragraph (1)(a), and in the definition of “commercial processing” in paragraph (2), for “Joint Committee Decision No 4/2020” substitute “Joint Committee Decision No 1/2023”, and
 - (b) for the definition of “Joint Committee Decision No 4/2020” in paragraph (2) substitute—
@@ -76,7 +76,7 @@ The Customs (Northern Ireland) (EU Exit) Regulations 2020 are amended as follows
 
   .
 
-**4.**[^key-e748a787f34d740b74cfd97d5804e5e1][^key-0ba18a7309b2b9b8a4c9352ea799bda4] In regulation 16A, at the end insert—
+**4.**[^c-e748a787f34d740b74cfd97d5804e5e1][^c-0ba18a7309b2b9b8a4c9352ea799bda4] In regulation 16A, at the end insert—
 
 > - “**single undertaking**”, in relation to a person—
 >   - (a) in a case within regulation 16E(2)(a), (c) or (d), has the same meaning as in the EU Regulation referred to in regulation 16E(2)(a), (c) or (d) which applies in relation to that person, and
@@ -85,7 +85,7 @@ The Customs (Northern Ireland) (EU Exit) Regulations 2020 are amended as follows
 
 .
 
-**5.**[^key-d7b6d1efd9d2c5366843df15f9c91df5][^key-84843cc7299efa3fa4726722494f9a0f] After regulation 16C, in Section 1 of Chapter 5, insert—
+**5.**[^c-d7b6d1efd9d2c5366843df15f9c91df5][^c-84843cc7299efa3fa4726722494f9a0f] After regulation 16C, in Section 1 of Chapter 5, insert—
 
 > **16CA. Undertaking lead**
 >
@@ -113,13 +113,13 @@ The Customs (Northern Ireland) (EU Exit) Regulations 2020 are amended as follows
 
 .
 
-**6.**[^key-b15274bf574b9941f52d33a265b9ad5b] In regulation 16D(1), for sub-paragraph (a) substitute—
+**6.**[^c-b15274bf574b9941f52d33a265b9ad5b] In regulation 16D(1), for sub-paragraph (a) substitute—
 
 > - (a) goods in respect of which a liability to duty chargeable under section 30A(3) of the Act is incurred and which are not relevant goods for the purposes of Chapter 3 at the time that the liability is incurred; and
 
 .
 
-**7.**[^key-8fc7be277b5e2d25babe6c03b5e6e044][^key-914406aeac3901316e1601cae4818d7f] In regulation 16E(1)—
+**7.**[^c-8fc7be277b5e2d25babe6c03b5e6e044][^c-914406aeac3901316e1601cae4818d7f] In regulation 16E(1)—
 
 - (a) omit the “and” after sub-paragraph (a)(iii), and
 - (b) after sub-paragraph (a) insert—
@@ -129,11 +129,11 @@ The Customs (Northern Ireland) (EU Exit) Regulations 2020 are amended as follows
 
   .
 
-**8.**[^key-9d027083241bf3d540aec94a6b46e797][^key-062217cdd29f948d856b50a1ceae5ee5] In the heading to regulation 16F, for “commercial activity criterion” substitute “eligibility criteria”.
+**8.**[^c-9d027083241bf3d540aec94a6b46e797][^c-062217cdd29f948d856b50a1ceae5ee5] In the heading to regulation 16F, for “commercial activity criterion” substitute “eligibility criteria”.
 
-**9.**[^key-4e4399a953eab17958fc82ada6f08d75][^key-f08fa0b4e0856eea4f306ffa6f9549cf] In regulation 16F(1), for “the eligibility criterion in regulation 16E(1)(a)(iii) is” substitute “one or all of the eligibility criteria in regulation 16E(1)(a)(ii) or (iii) or (ab) are”.
+**9.**[^c-4e4399a953eab17958fc82ada6f08d75][^c-f08fa0b4e0856eea4f306ffa6f9549cf] In regulation 16F(1), for “the eligibility criterion in regulation 16E(1)(a)(iii) is” substitute “one or all of the eligibility criteria in regulation 16E(1)(a)(ii) or (iii) or (ab) are”.
 
-**10.**[^key-d561d9e504098a67b2efceabd31a5274][^key-964756596fe6e1585795ba15f1cd2fc3] In regulation 16G—
+**10.**[^c-d561d9e504098a67b2efceabd31a5274][^c-964756596fe6e1585795ba15f1cd2fc3] In regulation 16G—
 
 - (a) in paragraph (1)(b)(i), after “given” insert “, or treated as given,”,
 - (b) after paragraph (1), insert—
@@ -164,9 +164,9 @@ The Customs (Northern Ireland) (EU Exit) Regulations 2020 are amended as follows
 
     .
 
-**11.**[^key-06d21dd5fa0406bf5a4b334bded4026c] In regulation 16I(2)(a) after “where” insert “, at the time the liability to duty is incurred,”.
+**11.**[^c-06d21dd5fa0406bf5a4b334bded4026c] In regulation 16I(2)(a) after “where” insert “, at the time the liability to duty is incurred,”.
 
-**12.**[^key-69da2639ebfee1e1d8fe5559e01f65f1][^key-6dd70464123469a21fb128231ec9b57d] In regulation 16J—
+**12.**[^c-69da2639ebfee1e1d8fe5559e01f65f1][^c-6dd70464123469a21fb128231ec9b57d] In regulation 16J—
 
 - (a) in paragraph (2)—
   - (i) omit “or rejected”, and
@@ -201,12 +201,12 @@ The Customs (Northern Ireland) (EU Exit) Regulations 2020 are amended as follows
 
   .
 
-**13.**[^key-10ffac118b6eb505cf51ebd2a8855c85][^key-d9a6823f9a714ca6cc2f2ec0ce9a078a] In regulation 16M—
+**13.**[^c-10ffac118b6eb505cf51ebd2a8855c85][^c-d9a6823f9a714ca6cc2f2ec0ce9a078a] In regulation 16M—
 
 - (a) in paragraphs (1)(b), (2) and (3), after “claimant” insert “or undertaking lead” in each place it occurs, and
 - (b) in paragraph (2)(a), after “claimant’s” insert “or “undertaking lead’s” in both places it occurs.
 
-**14.**[^key-1004eda2fcddf69893ea407139bcbf6b][^key-714f5d643e9baccfc0e9a19ac56ae45f] In regulation 16P—
+**14.**[^c-1004eda2fcddf69893ea407139bcbf6b][^c-714f5d643e9baccfc0e9a19ac56ae45f] In regulation 16P—
 
 - (a) for paragraph (5)(a) substitute—
 
@@ -220,7 +220,7 @@ and
 
 - (b) in paragraph (6) for “Commission Regulation [(EC) No 794/2004](https://www.legislation.gov.uk/european/regulation/2004/0794) of 21 April 2004 implementing Council Regulation [(EC) No 659/1999](https://www.legislation.gov.uk/european/regulation/1999/0659) laying down detailed rules for the application of Article 93 of the EC Treaty” substitute “Commission Regulation [(EC) No 794/2004](https://www.legislation.gov.uk/european/regulation/2004/0794) of 21 April 2004 implementing Council [Regulation (EU) 2015/1589](https://www.legislation.gov.uk/european/regulation/2015/1589) laying down detailed rules for the application of Article 108 of the Treaty on the Functioning of the European Union[^f00005]”.
 
-**15.**[^key-5d26e0186354fec65c80a65f4743fb8a][^key-667fd575f3785ddfa43525dd4d398d28] After regulation 16P insert—
+**15.**[^c-5d26e0186354fec65c80a65f4743fb8a][^c-667fd575f3785ddfa43525dd4d398d28] After regulation 16P insert—
 
 > **16PA. Further liability to duty**
 >
@@ -232,14 +232,14 @@ and
 
 .
 
-**16.**[^key-5866001fd0bd29e19ca1506ca54430df][^key-edc8b565ae5919c540659b91ce2aaaab] In the heading to Section 5 of Chapter 5, after “Records” insert “and Information”.
+**16.**[^c-5866001fd0bd29e19ca1506ca54430df][^c-edc8b565ae5919c540659b91ce2aaaab] In the heading to Section 5 of Chapter 5, after “Records” insert “and Information”.
 
-**17.**[^key-550aedccc3e65d894222b453a0f15bd5][^key-1fc52553bc8bc8567f8bdf045b251ea2] In regulation 16S(1)—
+**17.**[^c-550aedccc3e65d894222b453a0f15bd5][^c-1fc52553bc8bc8567f8bdf045b251ea2] In regulation 16S(1)—
 
 - (a) after “claimant” insert “and undertaking lead”, and
 - (b) after “form” insert “and for such period”.
 
-**18.**[^key-495ecec807d3d0ec513041211d891c74][^key-3728b5017a3c204ce600e7549551722d] After regulation 16S, in Section 5 of Chapter 5, insert—
+**18.**[^c-495ecec807d3d0ec513041211d891c74][^c-3728b5017a3c204ce600e7549551722d] After regulation 16S, in Section 5 of Chapter 5, insert—
 
 > **16SA. Provision of information by undertaking lead**
 >
@@ -256,7 +256,7 @@ and
 
 .
 
-## 19. Amendment of the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019[^key-f28a6f39d411781c5ad880d3d6b8e585]
+## 19. Amendment of the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019[^c-f28a6f39d411781c5ad880d3d6b8e585]
 
 (1) Regulation 7 of the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019[^f00007] is amended as follows.
 
@@ -265,7 +265,7 @@ and
 - (a) for “regulation 16E(1)(a)(i)” substitute “regulations 16C(2)(b), 16CA(2) and (5)(d) and 16E(1)(a)(i)”, and
 - (b) omit “(eligibility criteria)”.
 
-## 20. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^key-e0d25003ca24ebdba83465e033c4c5f9]
+## 20. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^c-e0d25003ca24ebdba83465e033c4c5f9]
 
 (1) The Schedule to the Customs (Contravention of a Relevant Rule) Regulations 2003[^f00008] is amended as follows.
 
@@ -318,81 +318,81 @@ A Tax Information and Impact Note (TIIN) covering this instrument will be publis
 
 [^f00002]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Sections 30B, 40A and 40B were inserted by sections 1 and 2 of the Taxation (Post-transition Period) Act [2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26).
 
-[^key-ccb90d9582522c0b0a5d0ae18f5ef43f]: Commencement: Reg. 1 in force at 30.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1)
+[^c-ccb90d9582522c0b0a5d0ae18f5ef43f]: Commencement: Reg. 1 in force at 30.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1)
 
 [^f00003]: Footnote: Available electronically from https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/1145694/Decision\_of\_the\_Withdrawal\_Agreement\_Joint\_Committee\_on\_laying\_down\_arrangements\_relating\_to\_the\_Windsor\_Framework.pdf and otherwise by inspection free of charge at HMRC, 100 Parliament Street, London SW1A 2BQ.
 
 [^f00004]: Footnote: [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), amended by [S.I. 2020/1629](https://www.legislation.gov.uk/uksi/2020/1629). There are other amending instruments, but none is relevant.
 
-[^key-611f742b9dd1cab15c5386646b86b9b5]: Commencement: Reg. 2 in force at 30.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1)
+[^c-611f742b9dd1cab15c5386646b86b9b5]: Commencement: Reg. 2 in force at 30.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1)
 
-[^key-0cb4c1c81f445bcdd449dfa29454c9d0]: Commencement: Reg. 3 comes into force in accordance with reg. 1(2)
+[^c-0cb4c1c81f445bcdd449dfa29454c9d0]: Commencement: Reg. 3 comes into force in accordance with reg. 1(2)
 
-[^key-e748a787f34d740b74cfd97d5804e5e1]: Commencement: Reg. 4 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-e748a787f34d740b74cfd97d5804e5e1]: Commencement: Reg. 4 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-0ba18a7309b2b9b8a4c9352ea799bda4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/958/regulation/4) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-0ba18a7309b2b9b8a4c9352ea799bda4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/958/regulation/4) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
-[^key-d7b6d1efd9d2c5366843df15f9c91df5]: Commencement: Reg. 5 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-d7b6d1efd9d2c5366843df15f9c91df5]: Commencement: Reg. 5 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-84843cc7299efa3fa4726722494f9a0f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/958/regulation/5) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-84843cc7299efa3fa4726722494f9a0f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/958/regulation/5) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
-[^key-b15274bf574b9941f52d33a265b9ad5b]: Commencement: Reg. 6 comes into force in accordance with reg. 1(2)
+[^c-b15274bf574b9941f52d33a265b9ad5b]: Commencement: Reg. 6 comes into force in accordance with reg. 1(2)
 
-[^key-8fc7be277b5e2d25babe6c03b5e6e044]: Commencement: Reg. 7 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-8fc7be277b5e2d25babe6c03b5e6e044]: Commencement: Reg. 7 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-914406aeac3901316e1601cae4818d7f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/958/regulation/7) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-914406aeac3901316e1601cae4818d7f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/958/regulation/7) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
-[^key-9d027083241bf3d540aec94a6b46e797]: Commencement: Reg. 8 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-9d027083241bf3d540aec94a6b46e797]: Commencement: Reg. 8 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-062217cdd29f948d856b50a1ceae5ee5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/958/regulation/8) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-062217cdd29f948d856b50a1ceae5ee5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/958/regulation/8) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
-[^key-4e4399a953eab17958fc82ada6f08d75]: Commencement: Reg. 9 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-4e4399a953eab17958fc82ada6f08d75]: Commencement: Reg. 9 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-f08fa0b4e0856eea4f306ffa6f9549cf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/958/regulation/9) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-f08fa0b4e0856eea4f306ffa6f9549cf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/958/regulation/9) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
-[^key-d561d9e504098a67b2efceabd31a5274]: Commencement: Reg. 10 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-d561d9e504098a67b2efceabd31a5274]: Commencement: Reg. 10 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-964756596fe6e1585795ba15f1cd2fc3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/958/regulation/10) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-964756596fe6e1585795ba15f1cd2fc3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/958/regulation/10) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
-[^key-06d21dd5fa0406bf5a4b334bded4026c]: Commencement: Reg. 11 comes into force in accordance with reg. 1(2)
+[^c-06d21dd5fa0406bf5a4b334bded4026c]: Commencement: Reg. 11 comes into force in accordance with reg. 1(2)
 
-[^key-69da2639ebfee1e1d8fe5559e01f65f1]: Commencement: Reg. 12 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-69da2639ebfee1e1d8fe5559e01f65f1]: Commencement: Reg. 12 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-6dd70464123469a21fb128231ec9b57d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/958/regulation/12) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-6dd70464123469a21fb128231ec9b57d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/958/regulation/12) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
-[^key-10ffac118b6eb505cf51ebd2a8855c85]: Commencement: Reg. 13 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-10ffac118b6eb505cf51ebd2a8855c85]: Commencement: Reg. 13 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-d9a6823f9a714ca6cc2f2ec0ce9a078a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/958/regulation/13) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-d9a6823f9a714ca6cc2f2ec0ce9a078a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/958/regulation/13) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
-[^key-1004eda2fcddf69893ea407139bcbf6b]: Commencement: Reg. 14 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-1004eda2fcddf69893ea407139bcbf6b]: Commencement: Reg. 14 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-714f5d643e9baccfc0e9a19ac56ae45f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/958/regulation/14) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-714f5d643e9baccfc0e9a19ac56ae45f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/958/regulation/14) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
 [^f00005]: Footnote: OJ L140, 30.4.2004, p. 1, the title to this Regulation was amended by Commission [Regulation (EU) 2015/2282](https://www.legislation.gov.uk/european/regulation/2015/2282) of 27 November 2015 amending Regulation [(EC) No 794/2004](https://www.legislation.gov.uk/european/regulation/2004/0794) as regards the notification forms and information sheets (OJ L325, 10.12.2015, p. 1).
 
-[^key-5d26e0186354fec65c80a65f4743fb8a]: Commencement: Reg. 15 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-5d26e0186354fec65c80a65f4743fb8a]: Commencement: Reg. 15 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-667fd575f3785ddfa43525dd4d398d28]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/958/regulation/15) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-667fd575f3785ddfa43525dd4d398d28]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/958/regulation/15) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
 [^f00006]: Footnote: OJ C 247, 23.7.2019, p. 1–23.
 
-[^key-5866001fd0bd29e19ca1506ca54430df]: Commencement: Reg. 16 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-5866001fd0bd29e19ca1506ca54430df]: Commencement: Reg. 16 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-edc8b565ae5919c540659b91ce2aaaab]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/958/regulation/16) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-edc8b565ae5919c540659b91ce2aaaab]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/958/regulation/16) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
-[^key-550aedccc3e65d894222b453a0f15bd5]: Commencement: Reg. 17 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-550aedccc3e65d894222b453a0f15bd5]: Commencement: Reg. 17 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-1fc52553bc8bc8567f8bdf045b251ea2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2023/958/regulation/17) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-1fc52553bc8bc8567f8bdf045b251ea2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2023/958/regulation/17) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
-[^key-495ecec807d3d0ec513041211d891c74]: Commencement: Reg. 18 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
+[^c-495ecec807d3d0ec513041211d891c74]: Commencement: Reg. 18 in force at 30.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/3)
 
-[^key-3728b5017a3c204ce600e7549551722d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/958/regulation/18) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
+[^c-3728b5017a3c204ce600e7549551722d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/958/regulation/18) in force at 2.10.2023 in so far as not already in force by [S.I. 2023/1050](https://www.legislation.gov.uk/uksi/2023/1050), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1050/regulation/2/b)
 
-[^key-f28a6f39d411781c5ad880d3d6b8e585]: Commencement: Reg. 19 in force at 30.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1)
+[^c-f28a6f39d411781c5ad880d3d6b8e585]: Commencement: Reg. 19 in force at 30.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2019/385](https://www.legislation.gov.uk/uksi/2019/385), amended by [S.I. 2020/1629](https://www.legislation.gov.uk/uksi/2020/1629). There are other amending instruments, but none is relevant.
 
-[^key-e0d25003ca24ebdba83465e033c4c5f9]: Commencement: Reg. 20 in force at 30.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1)
+[^c-e0d25003ca24ebdba83465e033c4c5f9]: Commencement: Reg. 20 in force at 30.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 2003/3113](https://www.legislation.gov.uk/uksi/2003/3113), amended by [S.I. 2009/3164](https://www.legislation.gov.uk/uksi/2009/3164), [2011/2534](https://www.legislation.gov.uk/uksi/2011/2534), [2015/636](https://www.legislation.gov.uk/uksi/2015/636), [2018/483](https://www.legislation.gov.uk/uksi/2018/483), [2018/1260](https://www.legislation.gov.uk/uksi/2018/1260), [2019/148](https://www.legislation.gov.uk/uksi/2019/148), [2020/1431](https://www.legislation.gov.uk/uksi/2020/1431) and [2020/1629](https://www.legislation.gov.uk/uksi/2020/1629). There are other amending instruments, but none is relevant.
 

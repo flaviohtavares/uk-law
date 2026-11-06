@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110A. Introduction of Bills: justice impact assessment[^key-a4b53cd05201d422e0fe9bcbf4900517]
+## 110A. Introduction of Bills: justice impact assessment[^c-a4b53cd05201d422e0fe9bcbf4900517]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4b53cd05201d422e0fe9bcbf4900517]: Textual amendment: S. 110A inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 11](https://www.legislation.gov.uk/ukpga/2017/4/section/11), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/c)
+[^c-a4b53cd05201d422e0fe9bcbf4900517]: Textual amendment: S. 110A inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 11](https://www.legislation.gov.uk/ukpga/2017/4/section/11), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/c)

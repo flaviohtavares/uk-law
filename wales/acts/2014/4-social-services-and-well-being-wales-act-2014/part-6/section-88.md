@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Regulations about conditions under which a child in care is allowed to live with a parent etc[^key-7b7360bb9aa31cff5c2f3e9785a0183c]
+## 88. Regulations about conditions under which a child in care is allowed to live with a parent etc[^c-7b7360bb9aa31cff5c2f3e9785a0183c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Regulations under section 87 may, for example, impose requirements on a local au
 
 ## Annotations
 
-[^key-7b7360bb9aa31cff5c2f3e9785a0183c]: Commencement: S. 88 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-7b7360bb9aa31cff5c2f3e9785a0183c]: Commencement: S. 88 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

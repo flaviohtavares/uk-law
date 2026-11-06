@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147A. Circumstances in which payment of a lesser amount is to be treated as payment in full for the purposes of paragraph 6(2) of Schedule 56 to the Finance Act 2009[^key-a88cb8ee3c6ce942ef29986d1ecf8a92]
+## 147A. Circumstances in which payment of a lesser amount is to be treated as payment in full for the purposes of paragraph 6(2) of Schedule 56 to the Finance Act 2009[^c-a88cb8ee3c6ce942ef29986d1ecf8a92]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the tolerance is applied to the total sum paid to HMRC for the tax period to whi
 
 ## Annotations
 
-[^key-a88cb8ee3c6ce942ef29986d1ecf8a92]: Textual amendment: [Reg. 147A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/147A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2014/472/regulation/17)
+[^c-a88cb8ee3c6ce942ef29986d1ecf8a92]: Textual amendment: [Reg. 147A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/147A) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2014/472/regulation/17)

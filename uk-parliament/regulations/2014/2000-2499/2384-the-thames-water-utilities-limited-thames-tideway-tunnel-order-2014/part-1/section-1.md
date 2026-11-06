@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and Commencement[^key-c0af0d4f4ac1060052cabdff0f361837]
+## 1. Citation and Commencement[^c-c0af0d4f4ac1060052cabdff0f361837]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Thames Water Utilities Limited (Thames Tideway Tu
 
 ## Annotations
 
-[^key-c0af0d4f4ac1060052cabdff0f361837]: Commencement: Art. 1 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-c0af0d4f4ac1060052cabdff0f361837]: Commencement: Art. 1 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

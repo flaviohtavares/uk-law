@@ -46,7 +46,7 @@ summary: ''
 - (f) the Lord Justice Clerk;
 - (g) the President of the Queen's Bench Division;
 - (h) the President of the Family Division;
-- (i) the President of the Business and Property Division[^key-3180f55590c546885d7d1995afe71746].
+- (i) the President of the Business and Property Division[^c-3180f55590c546885d7d1995afe71746].
 
 (6) The bodies referred to in subsection (4)(b) are—
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3180f55590c546885d7d1995afe71746]: Textual amendment: Words in [s. 52(5)(i)](https://www.legislation.gov.uk/ukpga/2005/4/section/52/5/i) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 23(2)(b)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/23/2/b)
+[^c-3180f55590c546885d7d1995afe71746]: Textual amendment: Words in [s. 52(5)(i)](https://www.legislation.gov.uk/ukpga/2005/4/section/52/5/i) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 23(2)(b)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/23/2/b)

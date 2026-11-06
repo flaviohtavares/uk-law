@@ -31,10 +31,10 @@ summary: ''
 
 of 9 October 2009 on the conclusion, by the Commission, of the Agreement for cooperation between the European Atomic Energy Community and the Government of the Republic of India in the field of fusion energy research (revoked)
 
-[^key-0ca98a735d925b784a92336f53688bac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ca98a735d925b784a92336f53688bac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-0ca98a735d925b784a92336f53688bac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-0ca98a735d925b784a92336f53688bac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0ca98a735d925b784a92336f53688bac]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-0ca98a735d925b784a92336f53688bac]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

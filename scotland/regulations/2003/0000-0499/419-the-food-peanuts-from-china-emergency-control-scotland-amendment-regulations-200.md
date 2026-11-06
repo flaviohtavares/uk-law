@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Food (Peanuts from China) (Emergency Control) (Scotland) Amendment Regulations 2003 (revoked)[^key-26d86812caec9aa3b8c5448b643ea97c]
+The Food (Peanuts from China) (Emergency Control) (Scotland) Amendment Regulations 2003 (revoked)[^c-26d86812caec9aa3b8c5448b643ea97c]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 30th September 2003
 
-[^key-26d86812caec9aa3b8c5448b643ea97c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26d86812caec9aa3b8c5448b643ea97c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-26d86812caec9aa3b8c5448b643ea97c]
+## 1. Citation, commencement and application[^c-26d86812caec9aa3b8c5448b643ea97c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Food (Peanuts from China) (Emergency Control) (Scotland) (No. 2) Regulations 2002[^key-26d86812caec9aa3b8c5448b643ea97c]
+## 2. Amendment to the Food (Peanuts from China) (Emergency Control) (Scotland) (No. 2) Regulations 2002[^c-26d86812caec9aa3b8c5448b643ea97c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-26d86812caec9aa3b8c5448b643ea97c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26d86812caec9aa3b8c5448b643ea97c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-26d86812caec9aa3b8c5448b643ea97c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26d86812caec9aa3b8c5448b643ea97c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26d86812caec9aa3b8c5448b643ea97c]: Textual amendment: Regulations revoked (1.10.2006) by [The Food (Emergency Control) (Scotland) Revocation Regulations 2006 (S.S.I. 2006/459)](https://www.legislation.gov.uk/ssi/2006/459), [reg.1(1)](https://www.legislation.gov.uk/ssi/2006/459/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2006/459/schedule)
+[^c-26d86812caec9aa3b8c5448b643ea97c]: Textual amendment: Regulations revoked (1.10.2006) by [The Food (Emergency Control) (Scotland) Revocation Regulations 2006 (S.S.I. 2006/459)](https://www.legislation.gov.uk/ssi/2006/459), [reg.1(1)](https://www.legislation.gov.uk/ssi/2006/459/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2006/459/schedule)

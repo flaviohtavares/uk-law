@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Amendment of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020[^key-861727a002799ae0e001c6af5f73469d][^M_I_f6721668-4269-41aa-f0fb-d215ef41f389]
+## 49. Amendment of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020[^c-861727a002799ae0e001c6af5f73469d][^M_I_f6721668-4269-41aa-f0fb-d215ef41f389]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-861727a002799ae0e001c6af5f73469d]: Commencement: Reg. 49 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-861727a002799ae0e001c6af5f73469d]: Commencement: Reg. 49 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_f6721668-4269-41aa-f0fb-d215ef41f389]: Commencement: Reg. 49 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

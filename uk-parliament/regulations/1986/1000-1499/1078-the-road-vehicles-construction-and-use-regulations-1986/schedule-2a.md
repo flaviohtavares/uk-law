@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2A — VEHICLES FOR WHICH A MINISTER'S APPROVAL CERTIFICATE HAS BEEN ISSUED UNDER THE MOTOR VEHICLES (APPROVAL) REGULATIONS 1996[^key-f65e126c80b4ee13bfa3defc79b393d3]
+## SCHEDULE 2A — VEHICLES FOR WHICH A MINISTER'S APPROVAL CERTIFICATE HAS BEEN ISSUED UNDER THE MOTOR VEHICLES (APPROVAL) REGULATIONS 1996[^c-f65e126c80b4ee13bfa3defc79b393d3]
 
 *Extent: E+W+S*
 
@@ -32,7 +32,7 @@ Regulation 3A
 - “approval certificate” means a Minister’s approval certificate in the form prescribed by the Approval Regulations;
 - “approval date”, in relation to a vehicle in respect of which an approval certificate has been issued, is the date that the certificate was issued;
 - “goods vehicle approval certificate” means an approval certificate which appears to have been issued on the basis that the vehicle is a vehicle to which Part III of the Approval Regulations applies;
-- “individual approval certificate” means a certificate issued under regulation 27(10) of the Vehicle Approval Regulations;[^key-f2602d54164fb3055e3ca8a1e9431ca1]
+- “individual approval certificate” means a certificate issued under regulation 27(10) of the Vehicle Approval Regulations;[^c-f2602d54164fb3055e3ca8a1e9431ca1]
 - “passenger vehicle approval certificate” means an approval certificate which appears to have been issued on the basis that the vehicle is a vehicle to which Part II of the Approval Regulations applies.
 
 #### 2. Interpretation of references to a vehicle complying with the approval requirements and to a vehicle exempt from the approval requirements
@@ -86,7 +86,7 @@ Regulation 47, so far as it relates to seat belts for adults, shall not apply to
 
 (3) Paragraphs 10(A) and 10(AA) shall not apply to the vehicle if it complies with or is exempt from the approval requirements relating to exhaust emissions.
 
-**9A.**[^key-63948eb62c235b57b0d84d64ce02d459] Paragraphs (10A), (10AA) and (10BA) of regulation 61 shall not apply to a vehicle in respect of which either a passenger vehicle approval certificate or a goods vehicle approval certificate has been issued, if it complies with, or is exempt from, the approval requirements relating to exhaust or smoke emissions.
+**9A.**[^c-63948eb62c235b57b0d84d64ce02d459] Paragraphs (10A), (10AA) and (10BA) of regulation 61 shall not apply to a vehicle in respect of which either a passenger vehicle approval certificate or a goods vehicle approval certificate has been issued, if it complies with, or is exempt from, the approval requirements relating to exhaust or smoke emissions.
 
 #### 9B. Modifications to regulation 61A (emissions)
 
@@ -96,7 +96,7 @@ Regulation 47, so far as it relates to seat belts for adults, shall not apply to
 
 (3) For the purposes of paragraphs (2) and (3) of regulation 61A, the date as is specified (as defined in regulation 61A) shall be regarded as being the 1st January immediately preceeding the date of manufacture of the engine by which the vehicle is propelled; provided that the date as is specified shall not in any circumstances be regarded as being later than the date on which the motor vehicle would otherwise have been regarded as being first used.
 
-#### 9C. Modification to regulation 61B (retrofitting and refilling of certain air conditioning systems)[^key-de6c654bc579c6961a9457b238432763]
+#### 9C. Modification to regulation 61B (retrofitting and refilling of certain air conditioning systems)[^c-de6c654bc579c6961a9457b238432763]
 
 Paragraphs (5) and (6) of regulation 61B shall not apply to a vehicle in relation to which a passenger vehicle approval certificate, a goods vehicle approval certificate or an individual approval certificate has been issued if it complies with the approval requirements for air conditioning systems designed to contain high-GWP fluorinated greenhouse gases.
 
@@ -109,10 +109,10 @@ Regulation 67 shall not apply to a vehicle in respect of which an approval certi
 
 ## Annotations
 
-[^key-f65e126c80b4ee13bfa3defc79b393d3]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/1986/1078/schedule/2A) inserted (1.7.1997) by [The Road Vehicles (Construction And Use) (Amendment) (No. 6) Regulations 1996 (S.I. 1996/3017)](https://www.legislation.gov.uk/uksi/1996/3017), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3017/regulation/1), [6](https://www.legislation.gov.uk/uksi/1996/3017/regulation/6), [Sch.](https://www.legislation.gov.uk/uksi/1996/3017/schedule)
+[^c-f65e126c80b4ee13bfa3defc79b393d3]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/uksi/1986/1078/schedule/2A) inserted (1.7.1997) by [The Road Vehicles (Construction And Use) (Amendment) (No. 6) Regulations 1996 (S.I. 1996/3017)](https://www.legislation.gov.uk/uksi/1996/3017), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3017/regulation/1), [6](https://www.legislation.gov.uk/uksi/1996/3017/regulation/6), [Sch.](https://www.legislation.gov.uk/uksi/1996/3017/schedule)
 
-[^key-f2602d54164fb3055e3ca8a1e9431ca1]: Textual amendment: Words in [Sch. 2A para. 1(1)](https://www.legislation.gov.uk/uksi/1986/1078/schedule/2A/part/I/paragraph/1/1) inserted (7.9.2009) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 2009 (S.I. 2009/2196)](https://www.legislation.gov.uk/uksi/2009/2196), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2196/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/2196/regulation/6/2)
+[^c-f2602d54164fb3055e3ca8a1e9431ca1]: Textual amendment: Words in [Sch. 2A para. 1(1)](https://www.legislation.gov.uk/uksi/1986/1078/schedule/2A/part/I/paragraph/1/1) inserted (7.9.2009) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 2009 (S.I. 2009/2196)](https://www.legislation.gov.uk/uksi/2009/2196), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2196/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/2196/regulation/6/2)
 
-[^key-63948eb62c235b57b0d84d64ce02d459]: Textual amendment: [Sch. 2A paras. 9A](https://www.legislation.gov.uk/uksi/1986/1078/schedule/2A/paragraph/9A), [9B](https://www.legislation.gov.uk/uksi/1986/1078/schedule/2A/paragraph/9B) inserted (1.1.2001) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 2000 (S.I. 2000/3197)](https://www.legislation.gov.uk/uksi/2000/3197), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3197/regulation/1), [7](https://www.legislation.gov.uk/uksi/2000/3197/regulation/7)
+[^c-63948eb62c235b57b0d84d64ce02d459]: Textual amendment: [Sch. 2A paras. 9A](https://www.legislation.gov.uk/uksi/1986/1078/schedule/2A/paragraph/9A), [9B](https://www.legislation.gov.uk/uksi/1986/1078/schedule/2A/paragraph/9B) inserted (1.1.2001) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 2000 (S.I. 2000/3197)](https://www.legislation.gov.uk/uksi/2000/3197), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3197/regulation/1), [7](https://www.legislation.gov.uk/uksi/2000/3197/regulation/7)
 
-[^key-de6c654bc579c6961a9457b238432763]: Textual amendment: [Sch. 2A para. 9C](https://www.legislation.gov.uk/uksi/1986/1078/schedule/2A/part/II/paragraph/9C) inserted (7.9.2009) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 2009 (S.I. 2009/2196)](https://www.legislation.gov.uk/uksi/2009/2196), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2196/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2009/2196/regulation/6/3)
+[^c-de6c654bc579c6961a9457b238432763]: Textual amendment: [Sch. 2A para. 9C](https://www.legislation.gov.uk/uksi/1986/1078/schedule/2A/part/II/paragraph/9C) inserted (7.9.2009) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 2009 (S.I. 2009/2196)](https://www.legislation.gov.uk/uksi/2009/2196), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2196/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2009/2196/regulation/6/3)

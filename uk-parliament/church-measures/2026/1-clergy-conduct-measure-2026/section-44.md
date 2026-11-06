@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 44. Limited prohibition: performance of cleric’s functions[^key-5418a9bc085bbd559df221d23d214508]
+## 44. Limited prohibition: performance of cleric’s functions[^c-5418a9bc085bbd559df221d23d214508]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5418a9bc085bbd559df221d23d214508]: Commencement: S. 44 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-5418a9bc085bbd559df221d23d214508]: Commencement: S. 44 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

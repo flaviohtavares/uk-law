@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Adjudication of claims[^key-08ecbb2232be8e6d37e9e4b8a949e77e]
+## 40. Adjudication of claims[^c-08ecbb2232be8e6d37e9e4b8a949e77e]
 
 *Extent: S*
 
-(1) At the commencement of every meeting of creditors, the postal administrator shall, for the purposes of Rule 39[^key-82d386d23f7052f50e10e25c81822a66] so far as it relates to voting at that meeting, accept or reject the claim of each creditor.
+(1) At the commencement of every meeting of creditors, the postal administrator shall, for the purposes of Rule 39[^c-82d386d23f7052f50e10e25c81822a66] so far as it relates to voting at that meeting, accept or reject the claim of each creditor.
 
 (2) Where funds are available for payment of a dividend out of the assets of the company in respect of an accounting period, the postal administrator for the purpose of determining who is entitled to such a dividend shall, not later than 4 weeks before the end of the period, accept or reject every claim submitted or deemed to have been re-submitted to the postal administrator under these Rules; and shall at the same time make a decision on any matter requiring to be specified under sub-paragraph (a) or (b) of paragraph (4).
 
@@ -43,6 +43,6 @@ and the postal administrator shall record the court’s decision in the sederunt
 
 ## Annotations
 
-[^key-08ecbb2232be8e6d37e9e4b8a949e77e]: Commencement: Rule 40 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-08ecbb2232be8e6d37e9e4b8a949e77e]: Commencement: Rule 40 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-82d386d23f7052f50e10e25c81822a66]: Textual amendment: Words in [rule 40(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/40/1) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-82d386d23f7052f50e10e25c81822a66]: Textual amendment: Words in [rule 40(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/40/1) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

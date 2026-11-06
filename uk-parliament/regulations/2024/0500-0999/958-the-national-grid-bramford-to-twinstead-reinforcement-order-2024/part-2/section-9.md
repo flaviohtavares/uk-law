@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Application of the Community Infrastructure Levy Regulations 2010[^key-1ed1c0c95195707d92aceca9afd82e21]
+## 9. Application of the Community Infrastructure Levy Regulations 2010[^c-1ed1c0c95195707d92aceca9afd82e21]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Notwithstanding the provisions of section 208 (liability) of the 2008 Act, for t
 
 ## Annotations
 
-[^key-1ed1c0c95195707d92aceca9afd82e21]: Commencement: Art. 9 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-1ed1c0c95195707d92aceca9afd82e21]: Commencement: Art. 9 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
 [^f00020]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948).

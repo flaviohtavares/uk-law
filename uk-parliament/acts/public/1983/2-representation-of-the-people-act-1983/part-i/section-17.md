@@ -23,8 +23,8 @@ summary: ''
 (1)[^c14479931] Where a person’s service declaration is in force when he applies for registration, he shall be regarded for the purposes of section 4 above as—
 
 - (a) resident on the date of the declaration at the address specified in it in accordance with section 16(d) above;
-- (b)[^key-fb5a50fcb780f6aa9b5856bab3739d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
-- (c)[^key-f7306e74ab27b6afbd970574222ea068] until the contrary is proved, as being a Commonwealth citizen or a citizen of the Republic of Ireland or —[^key-f29f5d14cf8b7ce9d2ee320831025e61]
+- (b)[^c-fb5a50fcb780f6aa9b5856bab3739d34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+- (c)[^c-f7306e74ab27b6afbd970574222ea068] until the contrary is proved, as being a Commonwealth citizen or a citizen of the Republic of Ireland or —[^c-f29f5d14cf8b7ce9d2ee320831025e61]
   - (i) if the declaration is made for the purposes only of the registration of local government electors in England, a qualifying EU citizen or an EU citizen with retained rights, or
   - (ii) if the declaration is made for the purposes only of the registration of local government electors in Wales, a relevant citizen of the Union or a qualifying foreign citizen,
 
@@ -34,7 +34,7 @@ summary: ''
 
 *Extent: W*
 
-(3)[^key-d5502ce5ccd45f576352ac7a74492575] In relation to the registration of local government electors in Wales, subsection (2) is subject to section 15(3A).
+(3)[^c-d5502ce5ccd45f576352ac7a74492575] In relation to the registration of local government electors in Wales, subsection (2) is subject to section 15(3A).
 
 ## 17. Effect of service declaration.[^V_S_5c2351ac-facf-92f8-05c8-4b0b1bb2c2d6][^V_S_4efa7255-acd6-46f6-862a-f1a5e27230ac][^M_E_d293c5bf-0e03-44d9-e67a-79e928679ca7]
 
@@ -60,13 +60,13 @@ summary: ''
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
-[^key-fb5a50fcb780f6aa9b5856bab3739d34]: Textual amendment: S. 17(1)(b) repealed (1.10.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 14(1)(a)(viii)](https://www.legislation.gov.uk/ukpga/2014/13/section/14/1/a/viii), [28](https://www.legislation.gov.uk/ukpga/2014/13/section/28); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/a)
+[^c-fb5a50fcb780f6aa9b5856bab3739d34]: Textual amendment: S. 17(1)(b) repealed (1.10.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 14(1)(a)(viii)](https://www.legislation.gov.uk/ukpga/2014/13/section/14/1/a/viii), [28](https://www.legislation.gov.uk/ukpga/2014/13/section/28); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/a)
 
-[^key-f7306e74ab27b6afbd970574222ea068]: Modification: [S. 17(1)(c)](https://www.legislation.gov.uk/ukpga/1983/2/section/17/1/c) modified (7.5.2024) by [1989 c. 3](https://www.legislation.gov.uk/ukpga/1989/3), [Sch. 1 Pt. 2 para. 11B](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/11B) (as inserted by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(5)(c)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/5/c); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3)))
+[^c-f7306e74ab27b6afbd970574222ea068]: Modification: [S. 17(1)(c)](https://www.legislation.gov.uk/ukpga/1983/2/section/17/1/c) modified (7.5.2024) by [1989 c. 3](https://www.legislation.gov.uk/ukpga/1989/3), [Sch. 1 Pt. 2 para. 11B](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/2/paragraph/11B) (as inserted by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 8 para. 9(5)(c)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/9/5/c); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3)))
 
-[^key-f29f5d14cf8b7ce9d2ee320831025e61]: Textual amendment: Words in s. 17(1)(c) substituted (E.W.N.I.) (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(4)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/4/b), [Sch. 8 para. 1(7)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/7); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
+[^c-f29f5d14cf8b7ce9d2ee320831025e61]: Textual amendment: Words in s. 17(1)(c) substituted (E.W.N.I.) (7.5.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(4)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/4/b), [Sch. 8 para. 1(7)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/8/paragraph/1/7); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/5/b) (with [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/3))
 
-[^key-d5502ce5ccd45f576352ac7a74492575]: Textual amendment: S. 17(3) inserted (E.W.) (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 20(5)(b)](https://www.legislation.gov.uk/anaw/2020/1/section/20/5/b), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
+[^c-d5502ce5ccd45f576352ac7a74492575]: Textual amendment: S. 17(3) inserted (E.W.) (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 20(5)(b)](https://www.legislation.gov.uk/anaw/2020/1/section/20/5/b), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
 
 [^V_S_5c2351ac-facf-92f8-05c8-4b0b1bb2c2d6]: Modification: Ss. 15-17 applied (with modifications) (17.2.1994) by [S.I. 1994/342](https://www.legislation.gov.uk/uksi/1994/342), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/1994/342/regulation/1/2/3), [2(2)](https://www.legislation.gov.uk/uksi/1994/342/regulation/2/2), [13(3)](https://www.legislation.gov.uk/uksi/1994/342/regulation/13/3)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 136. Offence where enforcement notice not complied with.[^c950147][^key-525ea2a5bf0d39daff4aa1bbfa7caff8][^key-8e7e18b5e278ab7b336997f174c8b31d]
+## 136. Offence where enforcement notice not complied with.[^c950147][^c-525ea2a5bf0d39daff4aa1bbfa7caff8][^c-8e7e18b5e278ab7b336997f174c8b31d]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ it shall be a defence for him to show that he was not aware of the existence of 
 
 (8) A person guilty of an offence under this section shall be liable—
 
-- (a) on summary conviction, to a fine not exceeding £50,000,[^key-d0afbbb60441b7e11263ceba1ee01fb8] and
+- (a) on summary conviction, to a fine not exceeding £50,000,[^c-d0afbbb60441b7e11263ceba1ee01fb8] and
 - (b) on conviction on indictment, to a fine.
 
 (9) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
@@ -50,8 +50,8 @@ it shall be a defence for him to show that he was not aware of the existence of 
 
 [^c950147]: Modification: S. 136: power to modify conferred (27.5.1997) by [1997 c. 10](https://www.legislation.gov.uk/ukpga/1997/10), [ss. 23(1)(c)](https://www.legislation.gov.uk/ukpga/1997/10/section/23/1/c), [31](https://www.legislation.gov.uk/ukpga/1997/10/section/31) (with [ss. 9(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/9/3), [10(5)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/5), [38(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/38/6))
 
-[^key-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
+[^c-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
 
-[^key-8e7e18b5e278ab7b336997f174c8b31d]: Modification: S. 136 modified (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/181/regulation/50)
+[^c-8e7e18b5e278ab7b336997f174c8b31d]: Modification: S. 136 modified (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [50](https://www.legislation.gov.uk/ssi/2015/181/regulation/50)
 
-[^key-d0afbbb60441b7e11263ceba1ee01fb8]: Textual amendment: Sum in s. 136(8)(a) substituted (20.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 42(3)](https://www.legislation.gov.uk/asp/2019/13/section/42/3), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [regs. 5-10](https://www.legislation.gov.uk/ssi/2019/377/regulation/5)) (as amended by [S.S.I. 2019/411](https://www.legislation.gov.uk/ssi/2019/411), regs. 1, 2)
+[^c-d0afbbb60441b7e11263ceba1ee01fb8]: Textual amendment: Sum in s. 136(8)(a) substituted (20.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 42(3)](https://www.legislation.gov.uk/asp/2019/13/section/42/3), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [regs. 5-10](https://www.legislation.gov.uk/ssi/2019/377/regulation/5)) (as amended by [S.S.I. 2019/411](https://www.legislation.gov.uk/ssi/2019/411), regs. 1, 2)

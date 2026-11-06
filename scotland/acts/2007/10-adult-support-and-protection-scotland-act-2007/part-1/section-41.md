@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Applications: procedure[^key-665e873643d89185756df300ec572e05]
+## 41. Applications: procedure[^c-665e873643d89185756df300ec572e05]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ to be heard by, or represented before, the sheriff.
 
 ## Annotations
 
-[^key-665e873643d89185756df300ec572e05]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2007/10/section/41) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-665e873643d89185756df300ec572e05]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2007/10/section/41) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

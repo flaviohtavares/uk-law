@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Obligatory warning beacons[^key-5a4e98fcde9134b0ff10910d72d72d88]
+## 17. Obligatory warning beacons[^c-5a4e98fcde9134b0ff10910d72d72d88]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a4e98fcde9134b0ff10910d72d72d88]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1989/1796/regulation/17) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-5a4e98fcde9134b0ff10910d72d72d88]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1989/1796/regulation/17) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

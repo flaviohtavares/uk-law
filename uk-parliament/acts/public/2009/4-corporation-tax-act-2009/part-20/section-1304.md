@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1304. Crime-related payments[^key-9b5532513456c4c663f7db23a17273a9]
+## 1304. Crime-related payments[^c-9b5532513456c4c663f7db23a17273a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) No deduction is allowed under section 1219 (expenses of management of a company's investment business) for any expenses to which subsection (4) or (5) applies.
 
-(3)[^key-31dede4b87c427b8f9e7ef305d08c22b] Expenses to which subsection (4) or (5) applies are not to be regarded as constituting ordinary BLAGAB management expenses of a company for the purposes of section 76 of FA 2012.
+(3)[^c-31dede4b87c427b8f9e7ef305d08c22b] Expenses to which subsection (4) or (5) applies are not to be regarded as constituting ordinary BLAGAB management expenses of a company for the purposes of section 76 of FA 2012.
 
 (4) This subsection applies to expenses incurred—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b5532513456c4c663f7db23a17273a9]: Modification: Pt. 20 Ch. 1 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 92(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/92/4) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-9b5532513456c4c663f7db23a17273a9]: Modification: Pt. 20 Ch. 1 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 92(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/92/4) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
 
-[^key-31dede4b87c427b8f9e7ef305d08c22b]: Textual amendment: S. 1304(3) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 212](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/212)
+[^c-31dede4b87c427b8f9e7ef305d08c22b]: Textual amendment: S. 1304(3) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 212](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/212)

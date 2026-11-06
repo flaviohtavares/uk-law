@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Supplementary provisions for certain members[^key-b2b3be0d0c16251d019df4079dabd888]
+## 10. Supplementary provisions for certain members[^c-b2b3be0d0c16251d019df4079dabd888]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ and is a member on the commencement date must be treated as being in employment 
 
 ## Annotations
 
-[^key-b2b3be0d0c16251d019df4079dabd888]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-b2b3be0d0c16251d019df4079dabd888]: Commencement: Reg. 10 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00015]: Footnote: [1977 c.42](https://www.legislation.gov.uk/ukpga/1977/42).
 

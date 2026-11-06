@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 124. Assisting patients to absent themselves without leave[^key-ee78c87136f773de76ea8dc5c69693ad][^key-1c6e3b481e0838fa0634afed8ea542d5]
+## 124. Assisting patients to absent themselves without leave[^c-ee78c87136f773de76ea8dc5c69693ad][^c-1c6e3b481e0838fa0634afed8ea542d5]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-ee78c87136f773de76ea8dc5c69693ad]: Modification: [Art. 124](https://www.legislation.gov.uk/nisi/1986/595/article/124) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(8)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/8), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-ee78c87136f773de76ea8dc5c69693ad]: Modification: [Art. 124](https://www.legislation.gov.uk/nisi/1986/595/article/124) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(8)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/8), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-1c6e3b481e0838fa0634afed8ea542d5]: Modification: [Art. 124](https://www.legislation.gov.uk/nisi/1986/595/article/124) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(8)(a)(i)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/8/a/i), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-1c6e3b481e0838fa0634afed8ea542d5]: Modification: [Art. 124](https://www.legislation.gov.uk/nisi/1986/595/article/124) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(8)(a)(i)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/8/a/i), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)

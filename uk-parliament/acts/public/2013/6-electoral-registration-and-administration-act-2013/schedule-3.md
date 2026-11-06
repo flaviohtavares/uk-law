@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Civil penalty for failing to make application when required by registration officer[^key-5a0ab62927602c4fc35eb917efcadcd9][^key-9539ed14351144667d4cb975b192a733]
+## SCHEDULE 3 — Civil penalty for failing to make application when required by registration officer[^c-5a0ab62927602c4fc35eb917efcadcd9][^c-9539ed14351144667d4cb975b192a733]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,6 +95,6 @@ In the Representation of the People Act 1983, before Schedule A1 insert—
 
 ## Annotations
 
-[^key-5a0ab62927602c4fc35eb917efcadcd9]: Commencement: Sch. 3 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(l)](https://www.legislation.gov.uk/uksi/2014/414/article/5/l)
+[^c-5a0ab62927602c4fc35eb917efcadcd9]: Commencement: Sch. 3 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(l)](https://www.legislation.gov.uk/uksi/2014/414/article/5/l)
 
-[^key-9539ed14351144667d4cb975b192a733]: Commencement: Sch. 3 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(k)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/k)
+[^c-9539ed14351144667d4cb975b192a733]: Commencement: Sch. 3 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(k)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/k)

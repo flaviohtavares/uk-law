@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges etc.) (Amendment) (No. 2) Regulations 1993 (revoked)[^key-ba81ff8297c49d9824e9669a21068cf8]
+The Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges etc.) (Amendment) (No. 2) Regulations 1993 (revoked)[^c-ba81ff8297c49d9824e9669a21068cf8]
 
 Made
 
@@ -44,20 +44,20 @@ Coming into force
 
 5th July 1993
 
-[^key-ba81ff8297c49d9824e9669a21068cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba81ff8297c49d9824e9669a21068cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-ba81ff8297c49d9824e9669a21068cf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ba81ff8297c49d9824e9669a21068cf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ba81ff8297c49d9824e9669a21068cf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ba81ff8297c49d9824e9669a21068cf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba81ff8297c49d9824e9669a21068cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba81ff8297c49d9824e9669a21068cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ba81ff8297c49d9824e9669a21068cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba81ff8297c49d9824e9669a21068cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba81ff8297c49d9824e9669a21068cf8]: Textual amendment: Regulations spent (E.W.) due to the revocation of [S.I. 1989/744](https://www.legislation.gov.uk/uksi/1989/744) (E.W.) (1.10.2008) by [The Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges) Regulations 2008 (S.I. 2008/2095)](https://www.legislation.gov.uk/uksi/2008/2095), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/2/2)); and revoked (S.) (10.10.2019) by [The Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges etc.) (Scotland) Regulations 2019 (S.S.I. 2019/230)](https://www.legislation.gov.uk/ssi/2019/230), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/230/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2019/230/schedule/2) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2019/230/regulation/4/2))
+[^c-ba81ff8297c49d9824e9669a21068cf8]: Textual amendment: Regulations spent (E.W.) due to the revocation of [S.I. 1989/744](https://www.legislation.gov.uk/uksi/1989/744) (E.W.) (1.10.2008) by [The Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges) Regulations 2008 (S.I. 2008/2095)](https://www.legislation.gov.uk/uksi/2008/2095), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2008/2095/regulation/2/2)); and revoked (S.) (10.10.2019) by [The Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges etc.) (Scotland) Regulations 2019 (S.S.I. 2019/230)](https://www.legislation.gov.uk/ssi/2019/230), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/230/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2019/230/schedule/2) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2019/230/regulation/4/2))

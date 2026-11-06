@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Power of ministers to take over proceedings[^key-2887a60aef8709049913af9a623c3192]
+## 36. Power of ministers to take over proceedings[^c-2887a60aef8709049913af9a623c3192]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2887a60aef8709049913af9a623c3192]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2026/18/section/36) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-2887a60aef8709049913af9a623c3192]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2026/18/section/36) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

@@ -44,24 +44,24 @@ Coming into force
 
 1st October 2009
 
-The Secretary of State, in exercise of the powers conferred by sections 42(5), 53(5), 55(2) to (6) and (7A), 143(1) and (2) of, and paragraph 6(1A) of Schedule 9 to, the Local Government Finance Act 1988[^f00001], and section 220(2) and (3) of the Local Government and Public Involvement in Health Act 2007[^f00002], makes the following Regulations:[^key-7fbb3d9b3f495e1b438b7c5c61cb93ac][^key-8a5b20ec5478bfc3401bd00a468bf6e3]
+The Secretary of State, in exercise of the powers conferred by sections 42(5), 53(5), 55(2) to (6) and (7A), 143(1) and (2) of, and paragraph 6(1A) of Schedule 9 to, the Local Government Finance Act 1988[^f00001], and section 220(2) and (3) of the Local Government and Public Involvement in Health Act 2007[^f00002], makes the following Regulations:[^c-7fbb3d9b3f495e1b438b7c5c61cb93ac][^c-8a5b20ec5478bfc3401bd00a468bf6e3]
 
 ## PART 1 — GENERAL
 
-### 1. Citation, application and commencement[^key-14334de6c588d2be2a70c0713c4c3ba8]
+### 1. Citation, application and commencement[^c-14334de6c588d2be2a70c0713c4c3ba8]
 
 These Regulations, which apply in relation to England only, may be cited as the Non-Domestic Rating (Alteration of Lists and Appeals) (England) Regulations 2009 and shall come into force on 1st October 2009.
 
-### 2. Interpretation: general[^key-82e5290d7c4141338895e7c3694d97a4]
+### 2. Interpretation: general[^c-82e5290d7c4141338895e7c3694d97a4]
 
 (1) In these Regulations—
 
 - “the Act” means the Local Government Finance Act 1988;
 - “appeal” means an appeal under—
-  - (za) regulation 9C;[^key-b6c3bc133cca16dc4a78be3a40238834]
-  - (a) regulation 13A;[^key-c581085a20a35d6e02099815294cec96]
+  - (za) regulation 9C;[^c-b6c3bc133cca16dc4a78be3a40238834]
+  - (a) regulation 13A;[^c-c581085a20a35d6e02099815294cec96]
   - (b) paragraph 4 of Schedule 4A to the Act[^f00003] (non-domestic rating: new buildings (completion days)) as it applies for the purposes of Part 3 of the Act (non-domestic rating) (in these Regulations called an “appeal against a completion notice”); or
-  - (c) paragraph 5C of Schedule 9 to the Act[^f00004] (in these Regulations called an “appeal against imposition of a Schedule 9[^key-ddbec052d234bace6d4fed6869e24a6f] penalty”);
+  - (c) paragraph 5C of Schedule 9 to the Act[^f00004] (in these Regulations called an “appeal against imposition of a Schedule 9[^c-ddbec052d234bace6d4fed6869e24a6f] penalty”);
 - “authority” means a billing authority;
 - “central list” means the central non-domestic rating list;
 - “company”, “holding company” and “subsidiary” have the meanings given by the Companies Act 2006[^f00005];
@@ -73,8 +73,8 @@ These Regulations, which apply in relation to England only, may be cited as the 
     - (ii) any other person (other than a mortgagee not in possession) having in any part of the hereditament either a legal estate or an equitable interest such as would entitle him (after the cessation of any prior interest) to possession of the hereditament or any part of it; and
     - (iii) any person having a qualifying connection with the occupier or a person described in (ii);
 - “local list” means a local non-domestic rating list;
-- “Part 2 penalty” means a financial penalty imposed under regulation 9A;[^key-dd989ff80c1465d6505e3a35cd737efe]
-- “proposal” means a proposal under regulation 6[^key-6723a3d5e4cc3880bc2bff597f7a1737] for the alteration of a local list or the central list;
+- “Part 2 penalty” means a financial penalty imposed under regulation 9A;[^c-dd989ff80c1465d6505e3a35cd737efe]
+- “proposal” means a proposal under regulation 6[^c-6723a3d5e4cc3880bc2bff597f7a1737] for the alteration of a local list or the central list;
 - “proposer” means the person making a proposal;
 - “qualifying connection” has the meaning given in paragraph (2);
 - “ratepayer”, in relation to a hereditament, means the occupier or, if the hereditament is not occupied, the owner;
@@ -83,7 +83,7 @@ These Regulations, which apply in relation to England only, may be cited as the 
 - “valuation tribunal” means a valuation tribunal established in England before 1st October 2009 under paragraph 1 of Schedule 11 to the Act;
 - “VO” means valuation officer[^f00007];
 - “VTE” means the Valuation Tribunal for England; and
-- “VTE’s electronic portal” means the online facility provided by the VTE for use in connection with appeals made in relation to—[^key-9efe680a9b0747c89836fbcf441a1e25]
+- “VTE’s electronic portal” means the online facility provided by the VTE for use in connection with appeals made in relation to—[^c-9efe680a9b0747c89836fbcf441a1e25]
   - (a) a local list compiled on or after 1st April 2017; or
   - (b) a central list compiled on or after 1st April 2017.
 
@@ -96,32 +96,32 @@ These Regulations, which apply in relation to England only, may be cited as the 
 
 (3) Any reference in these Regulations to a party to an appeal includes the person making the appeal (“the appellant”) and—
 
-- (a) in relation to [^key-9dbab365fcfa56d62b5381495b611c6b]... an appeal under regulation 9C or an appeal against imposition of a Schedule 9 penalty[^key-dfd3a0ce8b5d641782869536e8f9d761], the VO or, as the case may be, the CVO;
-- (b) in relation to an appeal under regulation 13A[^key-80373f139ef3c57f7b7c26f22f1f3adc]—
+- (a) in relation to [^c-9dbab365fcfa56d62b5381495b611c6b]... an appeal under regulation 9C or an appeal against imposition of a Schedule 9 penalty[^c-dfd3a0ce8b5d641782869536e8f9d761], the VO or, as the case may be, the CVO;
+- (b) in relation to an appeal under regulation 13A[^c-80373f139ef3c57f7b7c26f22f1f3adc]—
   - (i) every person whose agreement is required under regulation 12; and
-  - (ii) any other person who has been a ratepayer in relation to the hereditament since the date mentioned in paragraph (3A)[^key-fb0f46c35e04e6bfde3960cffcf6e753] and who has notified the VO before the hearing, or before determination on the basis of written representations, that the person wishes to be a party to the appeal;
+  - (ii) any other person who has been a ratepayer in relation to the hereditament since the date mentioned in paragraph (3A)[^c-fb0f46c35e04e6bfde3960cffcf6e753] and who has notified the VO before the hearing, or before determination on the basis of written representations, that the person wishes to be a party to the appeal;
 - (c) in relation to an appeal against a completion notice, the relevant authority.
 
-(3A)[^key-fba056c35d27be70cc54ee8c0aa5aff1] The date referred to in paragraph (3)(b)(ii) is the date on which the VO received the confirmation for the check to which the proposal which is the subject of the appeal relates.
+(3A)[^c-fba056c35d27be70cc54ee8c0aa5aff1] The date referred to in paragraph (3)(b)(ii) is the date on which the VO received the confirmation for the check to which the proposal which is the subject of the appeal relates.
 
-(4)[^key-be351b5d1c984c15b0d077e9a114b337] In these Regulations, a reference to the end of the period for making an appeal under regulation 9C is a reference to—
+(4)[^c-be351b5d1c984c15b0d077e9a114b337] In these Regulations, a reference to the end of the period for making an appeal under regulation 9C is a reference to—
 
 - (a) the end of the period of 28 days mentioned in regulation 9C(4); or
 - (b) if that period is extended by the VTE under regulation 6(3)(a) of the Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) Regulations 2009, the end of the extended period.
 
 ## PART 2 — ALTERATION OF LOCAL LISTS
 
-### 3. Interpretation of Part 2[^key-0e46b7dfc9e95355a0cfd5f26c7f3d2e]
+### 3. Interpretation of Part 2[^c-0e46b7dfc9e95355a0cfd5f26c7f3d2e]
 
-(1)[^key-7955a80c40c59617541385e3f7560dea] In this Part—
+(1)[^c-7955a80c40c59617541385e3f7560dea] In this Part—
 
 - “alteration” means alteration of a list in relation to a particular hereditament, and “alter” shall be construed accordingly;
-- “check”, in relation to a hereditament, has the meaning given in regulation 4A;[^key-490a50ac2b362c4ec0d89a61a759ad95]
+- “check”, in relation to a hereditament, has the meaning given in regulation 4A;[^c-490a50ac2b362c4ec0d89a61a759ad95]
 - “confirmation” means a confirmation under regulation 4C(1)(c);
 - “grounds of the appeal” means the ground or grounds in regulation 13A(2) on which an appeal is made;
 - “grounds of the proposal” means the ground or grounds in regulation 4 on which a proposal is made;
 - “incomplete proposal” has the meaning given in regulation 8(1);
-- “list” means a local list compiled on or after 1st April 2017[^key-7f285349ecd221798a81a3d768ef79e7];
+- “list” means a local list compiled on or after 1st April 2017[^c-7f285349ecd221798a81a3d768ef79e7];
 - “material change of circumstances”, in relation to a hereditament, means a change in any of the matters mentioned in paragraph 2(7) of Schedule 6 to the Act;
 - “particulars of the grounds of the proposal” has the meaning given in regulation 6(4)(b);
 - “the Procedure Regulations” means the Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) Regulations 2009[^f00008]; and
@@ -129,13 +129,13 @@ These Regulations, which apply in relation to England only, may be cited as the 
 - “VO” in relation to a list, means the VO for the authority for which the list is compiled and maintained;
 - “VO’s electronic portal” means the online facility provided by the VO for use in connection with proposals for the alteration of a local list compiled on or after 1st April 2017.
 
-(2)[^key-8b599b2539f817598c4214c4e384bf8c] For the purpose of this Part, a proposal is “determined” if—
+(2)[^c-8b599b2539f817598c4214c4e384bf8c] For the purpose of this Part, a proposal is “determined” if—
 
 - (a) it is withdrawn under regulation 11;
 - (b) it is treated as withdrawn under regulation 12; or
 - (c) a decision is given under regulation 10 or 13 in relation to the proposal.
 
-### 3A. Qualifying as a smaller proposer[^key-ea9fa21be2142a34ef438a24d4559351]
+### 3A. Qualifying as a smaller proposer[^c-ea9fa21be2142a34ef438a24d4559351]
 
 (1) For the purpose of these Regulations, a person mentioned in regulation 4(2) qualifies as a smaller proposer on a day if on that day the person—
 
@@ -171,12 +171,12 @@ These Regulations, which apply in relation to England only, may be cited as the 
 
 (7) In this regulation, “last 12 month period” means the period of 12 months ending on the day mentioned in paragraph (1).
 
-### 4. Circumstances in which proposals may be made[^key-fab2e6d36ba670d1f3c19f3eae05f6db]
+### 4. Circumstances in which proposals may be made[^c-fab2e6d36ba670d1f3c19f3eae05f6db]
 
 (1) The grounds for making a proposal are—
 
 - (a) the rateable value shown in the list for a hereditament was inaccurate on the day the list was compiled;
-- (b) the rateable value shown in the list for a hereditament is inaccurate by reason of a material change of circumstances which occurred on or after the day on which the list was compiled (but this is subject to paragraph 2ZA of Schedule 6 to the Act)[^key-f7ae946a5c47b26810ce1d157ab71e51];
+- (b) the rateable value shown in the list for a hereditament is inaccurate by reason of a material change of circumstances which occurred on or after the day on which the list was compiled (but this is subject to paragraph 2ZA of Schedule 6 to the Act)[^c-f7ae946a5c47b26810ce1d157ab71e51];
 - (c) the rateable value shown in the list for a hereditament is inaccurate by reason of an amendment to the classes of plant and machinery set out in the Schedule to the Valuation for Rating (Plant and Machinery) (England) Regulations 2000[^f00009] which comes into force on or after the day on which the list was compiled;
 - (d) the rateable value shown in the list for a hereditament by reason of an alteration made by a VO is or has been inaccurate;
 - (e) the rateable value or any other information shown in the list for a hereditament is shown, by reason of a decision in relation to another hereditament of—
@@ -199,12 +199,12 @@ These Regulations, which apply in relation to England only, may be cited as the 
 (2) Subject to paragraph (3), a proposal may be made—
 
 - (a) by an IP who has reason to believe that one of the grounds set out in paragraph (1) exists;
-- (aa)[^key-556005754625230ef2b2985cdae34bf7] by a person, other than an IP, who in relation to a hereditament—
+- (aa)[^c-556005754625230ef2b2985cdae34bf7] by a person, other than an IP, who in relation to a hereditament—
   - (i) has reason to believe that one of the grounds set out in paragraph (1) exists,
   - (ii) has reason to believe that the ground relates to any time during which the person was an IP in relation to that hereditament,
   - (iii) as an IP made a request under regulation 4B(2), and
   - (iv) (whether or not as an IP) complied with regulation 4C;
-- (b)[^key-9fa9edbb27a172c886c5f547cec6712a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9fa9edbb27a172c886c5f547cec6712a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) by a person, other than an IP, who—
   - (i) has reason to believe that a ground set out in paragraph (1)(c), (d) or (f) exists, and
   - (ii) was an IP at any time during which the alteration or amendment in question had effect.
@@ -212,11 +212,11 @@ These Regulations, which apply in relation to England only, may be cited as the 
 (3) No proposal may be made—
 
 - (a) by reference to more than one ground unless, for each ground relied on, the material day and the effective date are the same;
-- (b) by [^key-67e2008fb7cc4882d1143dd9652c4556]...—
-  - (i) an IP, where[^key-821119f7f2cca6518dff9e434c7b7cf9] that person (or a person having a qualifying connection with that person), acting in the same capacity, has made a proposal to alter the same list in relation to the same hereditament on the same ground and arising from the same event;
-  - (ia)[^key-6409ca9451df642cf5f1ff0e7f0c9130] a person mentioned in paragraph (2)(aa) or (c), where that person (or a person having a qualifying connection with that person), acting in that capacity or acting as an IP, has made a proposal to alter the same list in relation to the same hereditament on the same ground and arising from the same event;
-  - (ii) an IP or a person mentioned in paragraph (2)(aa) or (c), where[^key-04e6fac75948368e9168e51e2edbf329] a proposal to alter the list in relation to the same hereditament and arising from the same facts has been made by another person (excluding a person having a qualifying connection with the IP) and has been considered and determined by a valuation tribunal, the VTE, the Lands Tribunal or the Upper Tribunal;
-- (c) on the ground set out in paragraph (1)(d), to the extent that the alteration was made as a result of a previous proposal relating to that hereditament or[^key-0d35530ac9119375ff8afb6da8ff94f2] gives effect to the decision of a valuation tribunal, the VTE, the Lands Tribunal, the Upper Tribunal or a court determining an appeal or an application for a review in relation to the hereditament concerned.
+- (b) by [^c-67e2008fb7cc4882d1143dd9652c4556]...—
+  - (i) an IP, where[^c-821119f7f2cca6518dff9e434c7b7cf9] that person (or a person having a qualifying connection with that person), acting in the same capacity, has made a proposal to alter the same list in relation to the same hereditament on the same ground and arising from the same event;
+  - (ia)[^c-6409ca9451df642cf5f1ff0e7f0c9130] a person mentioned in paragraph (2)(aa) or (c), where that person (or a person having a qualifying connection with that person), acting in that capacity or acting as an IP, has made a proposal to alter the same list in relation to the same hereditament on the same ground and arising from the same event;
+  - (ii) an IP or a person mentioned in paragraph (2)(aa) or (c), where[^c-04e6fac75948368e9168e51e2edbf329] a proposal to alter the list in relation to the same hereditament and arising from the same facts has been made by another person (excluding a person having a qualifying connection with the IP) and has been considered and determined by a valuation tribunal, the VTE, the Lands Tribunal or the Upper Tribunal;
+- (c) on the ground set out in paragraph (1)(d), to the extent that the alteration was made as a result of a previous proposal relating to that hereditament or[^c-0d35530ac9119375ff8afb6da8ff94f2] gives effect to the decision of a valuation tribunal, the VTE, the Lands Tribunal, the Upper Tribunal or a court determining an appeal or an application for a review in relation to the hereditament concerned.
 
 (4) In paragraph (3)—
 
@@ -224,7 +224,7 @@ These Regulations, which apply in relation to England only, may be cited as the 
 - “event” means the compilation of the list, a material change of circumstances or an alteration of the list by the VO; and
 - “material day”, in relation to a hereditament, means the day determined as regards that hereditament in accordance with rules prescribed by regulations under paragraph 2(6A) of Schedule 6 to the Act[^f00010].
 
-### 4A. Check of information about a hereditament[^key-09ceb5f70439c405f02e596f50b65b74]
+### 4A. Check of information about a hereditament[^c-09ceb5f70439c405f02e596f50b65b74]
 
 (1) A person may not make a proposal in relation to a hereditament unless a check of information about the hereditament has been completed (“a check”).
 
@@ -235,9 +235,9 @@ These Regulations, which apply in relation to England only, may be cited as the 
 - (a) the date on which the VO serves a notice under regulation 4F(1); or
 - (b) the date on which the check is taken to be completed under regulation 4F(3).
 
-(4)[^key-383048c4e0d208f3b2db9fbc26200d3c] This regulation is subject to regulation 4AA.
+(4)[^c-383048c4e0d208f3b2db9fbc26200d3c] This regulation is subject to regulation 4AA.
 
-### 4AA. Checks of information about historic hereditaments[^key-c6737ff0f406b4caf72af1099773fd6d]
+### 4AA. Checks of information about historic hereditaments[^c-c6737ff0f406b4caf72af1099773fd6d]
 
 (1) This regulation applies where—
 
@@ -258,7 +258,7 @@ These Regulations, which apply in relation to England only, may be cited as the 
 
 ### 4B. Request for information held by the VO
 
-(1) This regulation applies to a person mentioned in regulation 4(2)(a) or (c)[^key-32b2eb8b8192c5f35f329ceeb2e0705c].
+(1) This regulation applies to a person mentioned in regulation 4(2)(a) or (c)[^c-32b2eb8b8192c5f35f329ceeb2e0705c].
 
 (2) Before making a proposal in relation to a hereditament, the person must request from the VO information which the VO holds about the hereditament.
 
@@ -328,11 +328,11 @@ On receiving any information provided under regulation 4C(1), the VO must—
 - (a) if the VO has not served a notice under paragraph (1) before the end of the period of 12 months beginning with the date on which the VO received a confirmation, at the end of that period; or
 - (b) if the VO has not served a notice under paragraph (1) before the end of any longer period agreed in writing by the VO and the person, at the end of that period.
 
-### 5. Periods in which proposals may be made: 2005 list and subsequent lists[^key-acca5786b3dd520b15f6ddf1b81ac3dc]
+### 5. Periods in which proposals may be made: 2005 list and subsequent lists[^c-acca5786b3dd520b15f6ddf1b81ac3dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5A. Proposals: limits[^key-6a95c976b43c163500d1b40461ebdc8e]
+### 5A. Proposals: limits[^c-6a95c976b43c163500d1b40461ebdc8e]
 
 (1) Subject to paragraphs (2) and (3), a person may only make a proposal to alter a list if they have provided a confirmation to the VO before the day on which the next list is compiled.
 
@@ -345,7 +345,7 @@ whichever is the later.
 
 (3) A person may only make a proposal to alter a list on the ground set out in regulation 4(1)(e) if they have provided a confirmation to the VO before the end of the period of six months beginning with the day on which the next list is compiled.
 
-### 6. Proposals: general[^key-58f3d043832ec08f9c95dfda7c160c6d]
+### 6. Proposals: general[^c-58f3d043832ec08f9c95dfda7c160c6d]
 
 (1) Subject to regulation 6A, a proposal in relation to a hereditament may only be made within the period of 4 months beginning with the date on which a check was completed in relation to the hereditament.
 
@@ -374,10 +374,10 @@ whichever is the later.
 - (d) the reasons the proposer believes that the decision is relevant to the rateable value or other information shown in the list for the hereditament; and
 - (e) the reasons the proposer believes that, by reason of the decision, the rateable value or other information shown in the list for the hereditament is inaccurate.
 
-(6) If a proposal in relation to a hereditament is made on one or more of the grounds set out in regulation 4(1)(a) to (g) and (i) to (l) and the hereditament is occupied under a lease, easement or licence to occupy (or, where sub-paragraph (c) applies, was so occupied)[^key-170b11281086ece0b4f58d76de646128], the proposal must also include—
+(6) If a proposal in relation to a hereditament is made on one or more of the grounds set out in regulation 4(1)(a) to (g) and (i) to (l) and the hereditament is occupied under a lease, easement or licence to occupy (or, where sub-paragraph (c) applies, was so occupied)[^c-170b11281086ece0b4f58d76de646128], the proposal must also include—
 
-- (a) where the proposer is the occupier, the amount payable each year by the proposer, as at the date the proposal is made, in respect of the lease, easement or licence to occupy, the date at which that amount first became payable and details of any rent-free periods; [^key-1ea06c2e119364303f5ccc45ae269bf6]...
-- (b) where the proposer is not the occupier but is an IP in relation to that hereditament[^key-479605f54c2096e3c10a0923b0c1230f], the amount payable each year to the proposer, as at the date the proposal is made, in respect of the lease, easement or licence to occupy, the date at which that amount first became payable and details of any rent-free periods; or[^key-c8c0887891034757b7c9066249d1ce2e]
+- (a) where the proposer is the occupier, the amount payable each year by the proposer, as at the date the proposal is made, in respect of the lease, easement or licence to occupy, the date at which that amount first became payable and details of any rent-free periods; [^c-1ea06c2e119364303f5ccc45ae269bf6]...
+- (b) where the proposer is not the occupier but is an IP in relation to that hereditament[^c-479605f54c2096e3c10a0923b0c1230f], the amount payable each year to the proposer, as at the date the proposal is made, in respect of the lease, easement or licence to occupy, the date at which that amount first became payable and details of any rent-free periods; or[^c-c8c0887891034757b7c9066249d1ce2e]
 - (c) where the proposer is not an IP in relation to that hereditament, the amount that was payable each year by or to the proposer (as the case may be), as at the last day on which the proposer was such an IP, in respect of the lease, easement or licence to occupy, the date on which that amount first became payable and details of any rent-free periods.
 
 (7) A proposal may deal with more than one hereditament only—
@@ -390,9 +390,9 @@ whichever is the later.
 - (a) the restoration of the list to its state before the alteration was made; and
 - (b) a further alteration of the list in respect of the hereditament.
 
-### 6A. Proposals made on ground in regulation 4(1)(b)[^key-fa3b935d697e19373f0e214d2a05b7d5]
+### 6A. Proposals made on ground in regulation 4(1)(b)[^c-fa3b935d697e19373f0e214d2a05b7d5]
 
-(1) Paragraph (2) applies to a proposal in relation to a hereditament made on the ground set out in regulation 4(1)(b) if the ground relates to a material change of circumstances mentioned in paragraph 2(7)(d) , (da)[^key-50d4daac136ee21a3bd711d5dcb51cb7] or (e) of Schedule 6 to the Act.
+(1) Paragraph (2) applies to a proposal in relation to a hereditament made on the ground set out in regulation 4(1)(b) if the ground relates to a material change of circumstances mentioned in paragraph 2(7)(d) , (da)[^c-50d4daac136ee21a3bd711d5dcb51cb7] or (e) of Schedule 6 to the Act.
 
 (2) The proposal may be made by the later of—
 
@@ -408,15 +408,15 @@ whichever is the later.
 
 (5) If a person has provided information to the VO under regulation 4C(1) in relation to a material change of circumstances but does not make a proposal within the period in regulation 6(1), or if applicable the period in paragraph (2) of this regulation, the person may not make a proposal in relation to that material change of circumstances.
 
-### 7. VO’s acknowledgement of proposals[^key-e351ae17bed55d9bfd1053eeb2bf572b]
+### 7. VO’s acknowledgement of proposals[^c-e351ae17bed55d9bfd1053eeb2bf572b]
 
 (1) Subject to paragraph (2), within four weeks of receiving a proposal, the VO shall send an acknowledgement of its receipt to the proposer.
 
-(2)[^key-21dac33d0460afdcd2175d77e4b334fb] Paragraph (1) does not apply to an incomplete proposal.
+(2)[^c-21dac33d0460afdcd2175d77e4b334fb] Paragraph (1) does not apply to an incomplete proposal.
 
-(3) An acknowledgement under paragraph (1) shall specify the date of receipt of the proposal and shall be accompanied by a statement of the effect of regulations 9 to 13E[^key-f1fea7657811fa40efeaddb5435ad4d9].
+(3) An acknowledgement under paragraph (1) shall specify the date of receipt of the proposal and shall be accompanied by a statement of the effect of regulations 9 to 13E[^c-f1fea7657811fa40efeaddb5435ad4d9].
 
-### 8. Incomplete proposals[^key-6db434eb17b81f4b766a79a377038669]
+### 8. Incomplete proposals[^c-6db434eb17b81f4b766a79a377038669]
 
 (1) The VO must refuse a proposal (“an incomplete proposal”) which does not include the matters specified in—
 
@@ -479,7 +479,7 @@ whichever is the later.
 - (a) using the VO’s electronic portal; or
 - (b) in another manner agreed with the VO.
 
-### 9A. Imposition of a Part 2 penalty[^key-a92655167f8c7f9ddad7ef2d7d140bc5]
+### 9A. Imposition of a Part 2 penalty[^c-a92655167f8c7f9ddad7ef2d7d140bc5]
 
 (1) This regulation applies in relation to a proposal made by a person in relation to a hereditament.
 
@@ -583,11 +583,11 @@ whichever is the later.
   - (i) the proposer; and
   - (ii) if the proposer is not the ratepayer, the ratepayer.
 
-### 11. Withdrawal of proposals[^key-b789d5c27bc38627a3e3b93f8367d496]
+### 11. Withdrawal of proposals[^c-b789d5c27bc38627a3e3b93f8367d496]
 
 (1) Subject to paragraph (2), the proposer may withdraw the proposal by notice sent to the VO.
 
-(2)[^key-8666f887e4353d2418583c9e057c489b] Where—
+(2)[^c-8666f887e4353d2418583c9e057c489b] Where—
 
 - (a) the proposer was a ratepayer in respect of the hereditament at the date of the proposal but is no longer, or
 - (b) the proposal was made by a person mentioned in regulation 4(2)(aa),
@@ -605,14 +605,14 @@ the proposal may not be withdrawn unless the person who is currently the ratepay
 
 the VO must give notice of the withdrawal to the IP or to P.
 
-(4) Where, within six weeks from the day on which the IP or P[^key-8c538b854ebf869a3c0ab942c1ed3c2f] receives the VO’s notice under paragraph (3), the IP or P notifies the VO in writing that the IP or P is aggrieved by the withdrawal of the proposal—
+(4) Where, within six weeks from the day on which the IP or P[^c-8c538b854ebf869a3c0ab942c1ed3c2f] receives the VO’s notice under paragraph (3), the IP or P notifies the VO in writing that the IP or P is aggrieved by the withdrawal of the proposal—
 
 - (a) the notification shall, if the IP or P would at the date of the proposal have been competent to make that proposal, be treated for the purposes of the following provisions of these Regulations as if it had been a proposal in the same terms made on the day on which the VO received the notification; and
 - (b) any resulting alteration shall have effect from the day which would have been applicable had there been no withdrawal under this regulation.
 
-(5)[^key-d73e353998ee14716f80d56678e0c3f0] For the purposes of considering under paragraph (4)(a) whether an IP or P would have been competent at the date of a proposal to make that proposal, the requirements in regulations 4A(1) and 4B(2) are disregarded.
+(5)[^c-d73e353998ee14716f80d56678e0c3f0] For the purposes of considering under paragraph (4)(a) whether an IP or P would have been competent at the date of a proposal to make that proposal, the requirements in regulations 4A(1) and 4B(2) are disregarded.
 
-### 12. Agreed alterations following proposals[^key-62ea29021bf8c3c45918c608c417c489]
+### 12. Agreed alterations following proposals[^c-62ea29021bf8c3c45918c608c417c489]
 
 (1) Where, following the making of a proposal, all the persons mentioned in paragraph (2) agree on an alteration of the list in terms that comply with the requirements of this Part but differ from those contained in the proposal, and that agreement is signified in writing—
 
@@ -625,19 +625,19 @@ the VO must give notice of the withdrawal to the IP or to P.
 - (b) the proposer;
 - (c) subject to paragraph (3), the occupier (at the date of the proposal) of any hereditament to which it relates;
 - (d) the ratepayer (at the date of the agreement) in relation to any hereditament to which it relates;
-- (e) subject to paragraph (3), any IP [^key-160f95eceef2a4f4d732d49563e879fb]... who—
+- (e) subject to paragraph (3), any IP [^c-160f95eceef2a4f4d732d49563e879fb]... who—
   - (i) would at the date of the proposal have been competent to make the proposal in question, and
-  - (ii) not later than two months after the day on which the proposal was received by the VO, informs the VO in writing that the IP [^key-76402c65f0316c2880e86161f3a958bd]... wishes to be a party to the proceedings in respect of the proposal.
-- (f)[^key-c529d555f035c13995462be06cfed5e1] any person (“P”) who—
+  - (ii) not later than two months after the day on which the proposal was received by the VO, informs the VO in writing that the IP [^c-76402c65f0316c2880e86161f3a958bd]... wishes to be a party to the proceedings in respect of the proposal.
+- (f)[^c-c529d555f035c13995462be06cfed5e1] any person (“P”) who—
   - (i) was an IP on the date on which the VO received the confirmation for the check to which the proposal relates and on that date would have been competent to make the proposal; and
   - (ii) not later than two months after the day on which the proposal was received by the VO, informs the VO in writing that P wishes to be a party to the proceedings in respect of the proposal.
 
 (3) The persons referred to in paragraph (1) do not include—
 
 - (a) the occupier of the hereditament at the date of the proposal who is no longer in occupation of any part of it at the date on which all the other persons mentioned in paragraph (2) have agreed as mentioned in paragraph (1), provided that the VO has taken all reasonable steps to ascertain that former occupier’s whereabouts, and they have not been ascertained, or
-- (b) any person referred to in paragraph (2)(e) or (f)[^key-55aea0a45762a1c8d26d3a8e4daece8e] who cannot be contacted at the address supplied to the VO.
+- (b) any person referred to in paragraph (2)(e) or (f)[^c-55aea0a45762a1c8d26d3a8e4daece8e] who cannot be contacted at the address supplied to the VO.
 
-(3A)[^key-0bd2d52e021e2221cd424865f13b0aa7] For the purposes of considering under paragraph (2)(e)(i) or (f)(i) whether a person would have been competent at the date of a proposal to make that proposal, the requirements in regulations 4A(1) and 4B(2) are disregarded.
+(3A)[^c-0bd2d52e021e2221cd424865f13b0aa7] For the purposes of considering under paragraph (2)(e)(i) or (f)(i) whether a person would have been competent at the date of a proposal to make that proposal, the requirements in regulations 4A(1) and 4B(2) are disregarded.
 
 (4) Where—
 
@@ -646,7 +646,7 @@ the VO must give notice of the withdrawal to the IP or to P.
 
 the VO shall make the alteration required by paragraph (1)(a) as soon as practicable after that period ends.
 
-### 13. Disagreement as to proposed alteration[^key-6d70aefbd8b895534becb198ede1206e]
+### 13. Disagreement as to proposed alteration[^c-6d70aefbd8b895534becb198ede1206e]
 
 (1) This regulation applies if the VO decides that a proposal is not well-founded, and—
 
@@ -657,13 +657,13 @@ the VO shall make the alteration required by paragraph (1)(a) as soon as practic
 
 - (a) the proposer;
 - (b) if the proposer is not the ratepayer, the ratepayer;
-- (c)[^key-7612b3f0c8d9ab4ebd81eb3ec8f3b7dd] any person mentioned in regulation 12(2)(e) or (f);
+- (c)[^c-7612b3f0c8d9ab4ebd81eb3ec8f3b7dd] any person mentioned in regulation 12(2)(e) or (f);
 - (d) the relevant authority if the authority has served a notice on the VO that it wishes to receive a copy of a decision notice in relation to—
   - (i) the proposal;
   - (ii) any proposal relating to the hereditament to which the proposal relates; or
   - (iii) a specified class of proposal or a specified class of hereditament, and the proposal or hereditament to which the proposal relates falls within that class.
 
-(3) Subject to paragraph (3A),[^key-3bd271b8ca58dbcbbe334ff1a34886c7] a decision notice served on a person mentioned in paragraph (2)(a) to (c) must contain—
+(3) Subject to paragraph (3A),[^c-3bd271b8ca58dbcbbe334ff1a34886c7] a decision notice served on a person mentioned in paragraph (2)(a) to (c) must contain—
 
 - (a) a statement that the VO is of the opinion that the proposal is not well-founded, that the VO disagrees with the proposed alteration of the list and that the VO has decided—
   - (i) not to alter the list according to the proposal; or
@@ -672,7 +672,7 @@ the VO shall make the alteration required by paragraph (1)(a) as soon as practic
 - (c) a statement in relation to each of the grounds of the proposal setting out why in the opinion of the VO the ground is not made out, including a summary of any particulars of the grounds of the proposal with which the VO did not agree; and
 - (d) details of the proposer’s right to appeal against the decision.
 
-(3A)[^key-353319f062883503a54e8f3acda8f24c] A decision notice served on a person mentioned in paragraph (2)(c) who is not an IP when the notice is served must contain—
+(3A)[^c-353319f062883503a54e8f3acda8f24c] A decision notice served on a person mentioned in paragraph (2)(c) who is not an IP when the notice is served must contain—
 
 - (a) a statement that the VO is of the opinion that the proposal is not well-founded, that the VO disagrees with the proposed alteration of the list and that the VO has decided—
   - (i) not to alter the list according to the proposal; or
@@ -690,7 +690,7 @@ the VO shall make the alteration required by paragraph (1)(a) as soon as practic
 
 (5) If the VO decides to alter the list otherwise than in accordance with the proposal the VO must do so as soon as reasonably practicable after making the decision.
 
-### 13A. Making an appeal to the VTE[^key-27d8df1baf881ec31f8891caa0798410]
+### 13A. Making an appeal to the VTE[^c-27d8df1baf881ec31f8891caa0798410]
 
 (1) A proposer may appeal to the VTE on either or both of the grounds set out in paragraph (2) if—
 
@@ -708,7 +708,7 @@ the VO shall make the alteration required by paragraph (1)(a) as soon as practic
 
 (3) In this regulation, “valuation” means the rateable value as determined under Schedule 6 to the Act.
 
-(4)[^key-c6394c10b242ae69b7e02594f3d7228c] Paragraph (5) applies if a Part 2 penalty is imposed before a proposal is determined.
+(4)[^c-c6394c10b242ae69b7e02594f3d7228c] Paragraph (5) applies if a Part 2 penalty is imposed before a proposal is determined.
 
 (5) In calculating the 18 month period referred to in paragraph (1)(c)(iii)—
 
@@ -779,15 +779,15 @@ the VO shall make the alteration required by paragraph (1)(a) as soon as practic
 - (a) for a smaller proposer, £50;
 - (b) for any other proposer, £100.
 
-### 14. Time from which alteration is to have effect: 2005 and subsequent lists[^key-ba88eb7007c9a55b9c6cd3d446c317b8]
+### 14. Time from which alteration is to have effect: 2005 and subsequent lists[^c-ba88eb7007c9a55b9c6cd3d446c317b8]
 
 (1) This regulation has effect in relation to alterations made on or after 1st October 2009 to a list compiled on or after 1st April 2005.
 
-(1A)[^key-78ab4f9d3ab985fd5740a3ddaccb8f9c] Paragraphs (2), (2A), (2B) and (6) do not apply in relation to a list compiled on or after 1st April 2017.
+(1A)[^c-78ab4f9d3ab985fd5740a3ddaccb8f9c] Paragraphs (2), (2A), (2B) and (6) do not apply in relation to a list compiled on or after 1st April 2017.
 
 (1B) Subject to paragraphs (3) to (7), for a list compiled on or after 1st April 2017, where an alteration is made to correct any inaccuracy in the list on or after the day on which it is compiled, the alteration shall have effect from the day on which the circumstances giving rise to the alteration first occurred.
 
-(2)[^key-16efd75fbec0527743eae196815bea7e] Subject to paragraphs (2A) to (7), where an alteration is made to correct any inaccuracy in the list on or after the day it is compiled, the alteration shall have effect—
+(2)[^c-16efd75fbec0527743eae196815bea7e] Subject to paragraphs (2A) to (7), where an alteration is made to correct any inaccuracy in the list on or after the day it is compiled, the alteration shall have effect—
 
 - (a) from the day on which the circumstances giving rise to the alteration first occurred, if the alteration is made—
   - (i) before 1st April 2016 otherwise than to give effect to a proposal;
@@ -797,7 +797,7 @@ the VO shall make the alteration required by paragraph (1)(a) as soon as practic
 - (b) from 1st April 2015 if the circumstances giving rise to the alteration first occurred before that date and the alteration is made on or after 1st April 2016 otherwise than to give effect to a proposal;
 - (c) from 1st April 2015 if the alteration is made in order to give effect to a proposal served on the VO on or after that date and the circumstances giving rise to the alteration first occurred before that date.
 
-(2A)[^key-eeda65951ab85f1e6924266f50589ff6] Where—
+(2A)[^c-eeda65951ab85f1e6924266f50589ff6] Where—
 
 - (a) an alteration (alteration A) is made on or after 1st April 2015 in order to give effect to a proposal made on the ground set out in regulation 4(1)(d) or (f); and
 - (b) the proposal was served on the VO within 6 months of the alteration which gave rise to the proposal (alteration B)
@@ -827,18 +827,18 @@ the alteration shall have effect from the day so substituted, agreed or determin
 - (a) where the alteration is made to give effect to a proposal, the alteration shall have effect from the day on which the proposal was served on the VO; and
 - (b) in any other case, the alteration shall have effect from the day on which it is made.
 
-(6) For the purposes of paragraphs (2)(a)(ii), (2A), (2B) and (5)(a)[^key-1fcb2d5732a0c6ea8876ff809ecc76f3], a proposal which is made under regulation 8(6)(a) shall be deemed to have been served on the VO on the day on which the proposal to which the invalidity notice relates was served.
+(6) For the purposes of paragraphs (2)(a)(ii), (2A), (2B) and (5)(a)[^c-1fcb2d5732a0c6ea8876ff809ecc76f3], a proposal which is made under regulation 8(6)(a) shall be deemed to have been served on the VO on the day on which the proposal to which the invalidity notice relates was served.
 
 (7) An alteration made to correct an inaccuracy (other than one which has arisen by reason of an error or default on the part of a ratepayer)—
 
 - (a) in the list on the day it was compiled; or
-- (b) which arose in the course of making a previous alteration in connection with a matter mentioned in any of paragraphs (1B) to (5)[^key-278304519641fad86bf303c5fe3cebe5],
+- (b) which arose in the course of making a previous alteration in connection with a matter mentioned in any of paragraphs (1B) to (5)[^c-278304519641fad86bf303c5fe3cebe5],
 
 which increases the rateable value shown in the list for the hereditament to which the inaccuracy relates, shall have effect from the day on which the alteration is made.
 
 (8) Where an alteration needs to be made after the first anniversary of the day on which the next list is compiled, it shall have retrospective effect only if it is made to give effect to a proposal.
 
-### 15. Advertising rights[^key-fd6026cdb4ad94c1d5efef6fdd4835dc]
+### 15. Advertising rights[^c-fd6026cdb4ad94c1d5efef6fdd4835dc]
 
 (1) Regulation 14 shall have effect, where the circumstances giving rise to the alteration are the coming into existence of an advertising hereditament, as if those circumstances occurred when—
 
@@ -855,11 +855,11 @@ whichever is earlier; and such a hereditament shall be treated for the purposes 
 - “advertising right” means a right which is such a hereditament; and
 - “structure” includes a hoarding, frame, post or wall.
 
-### 16. Effective date to be shown in the list[^key-1e127198e851e1ad702c5e7e3cb6a2ec]
+### 16. Effective date to be shown in the list[^c-1e127198e851e1ad702c5e7e3cb6a2ec]
 
 Where an alteration is made, the list shall show the day from which the alteration is to have effect.
 
-### 17. Notification of alteration[^key-b10976921e06cff70dae3f25625380ab]
+### 17. Notification of alteration[^c-b10976921e06cff70dae3f25625380ab]
 
 (1) Within four weeks of altering a list a VO shall notify the relevant authority of the effect of the alteration; and the relevant authority shall as soon as reasonably practicable alter the copy of the list deposited at its principal office.
 
@@ -879,7 +879,7 @@ Where an alteration is made, the list shall show the day from which the alterati
 - (b) a decision, in relation to the hereditament which is the subject of the proposal, of a valuation tribunal, the VTE, the Lands Tribunal, the Upper Tribunal or a court; or
 - (c) an agreement under regulation 12.
 
-(5) The proposer mentioned in paragraph (2) is any proposer for whom an appeal in relation to the hereditament has been made under regulation 13A(1)[^key-5bf14bdf03dd8e016fab7484de01e88b] and whose appeal has either—
+(5) The proposer mentioned in paragraph (2) is any proposer for whom an appeal in relation to the hereditament has been made under regulation 13A(1)[^c-5bf14bdf03dd8e016fab7484de01e88b] and whose appeal has either—
 
 - (a) not been determined by the VTE; or
 - (b) has been so determined and either—
@@ -888,24 +888,24 @@ Where an alteration is made, the list shall show the day from which the alterati
 
 ## PART 3 — ALTERATION OF CENTRAL LISTS
 
-### 18. Relevant hereditaments[^key-17443bfd49ddd3e0d94729565df67d5c]
+### 18. Relevant hereditaments[^c-17443bfd49ddd3e0d94729565df67d5c]
 
 (1) In relation to a hereditament (in this regulation referred to as a “relevant hereditament”) which is required by regulations under section 53 of the Act to be shown in a central list compiled on or after 1st October 2009, the regulations mentioned in paragraph (2) shall apply, as modified by paragraphs (3) and (4), as if—
 
 - (a) any reference to a local list were a reference to the central list;
-- (aa)[^key-ea962ab6c28e84f961df5535f8dd8f2b] any reference to the VO’s electronic portal were a reference to the online facility provided by the CVO for use in connection with proposals for the alteration of a central list compiled on or after 1st April 2017;
+- (aa)[^c-ea962ab6c28e84f961df5535f8dd8f2b] any reference to the VO’s electronic portal were a reference to the online facility provided by the CVO for use in connection with proposals for the alteration of a central list compiled on or after 1st April 2017;
 - (b) any reference to a VO were a reference to the CVO; and
 - (c) any reference to an alteration of a list were a reference to its alteration in relation to a description of hereditaments.
 
 (2) The regulations are—
 
 - (a) regulation 4, except paragraphs (1)(k) and (l) and (3),
-- (b)[^key-08434d8004145741b8b28f99201a7715] regulations 4A to 8,
-- (c) regulation 9, except paragraphs (4) to (5)[^key-291ae798aa4fdae8aaed7910f7c6944f],
-- (d)[^key-8abe6ec0c4394ec2dbed7e3d39f4790c][^key-e15e8bf7fa759d43fdbcb2ba84bff884] regulations 9A to 12,
+- (b)[^c-08434d8004145741b8b28f99201a7715] regulations 4A to 8,
+- (c) regulation 9, except paragraphs (4) to (5)[^c-291ae798aa4fdae8aaed7910f7c6944f],
+- (d)[^c-8abe6ec0c4394ec2dbed7e3d39f4790c][^c-e15e8bf7fa759d43fdbcb2ba84bff884] regulations 9A to 12,
 - (da) regulation 13, except paragraphs (2)(d) and (4),
 - (db) regulations 13A to13E,
-- (e)[^key-4674169f6c6de0eeccca1127c76bd5a5] regulation 14, except paragraphs (3) and (4) and (to the extent to which they relate to paragraphs (3) and (4)) paragraphs (2) and (7),
+- (e)[^c-4674169f6c6de0eeccca1127c76bd5a5] regulation 14, except paragraphs (3) and (4) and (to the extent to which they relate to paragraphs (3) and (4)) paragraphs (2) and (7),
 - (f) regulation 16, and
 - (g) regulation 17, except paragraph (3)(b).
 
@@ -917,9 +917,9 @@ Where an alteration is made, the list shall show the day from which the alterati
 
 ## PART 4 — PROVISIONS RELATING TO PARTICULAR APPEALS AND APPLICATIONS
 
-### 19. Appeals against completion notices or imposition of Schedule 9 penalties[^key-97ef43d793f642bac0280e121d96a4d7][^M_F_e1f5f8f7-dcda-4706-a5e2-921b9d65098c]
+### 19. Appeals against completion notices or imposition of Schedule 9 penalties[^c-97ef43d793f642bac0280e121d96a4d7][^M_F_e1f5f8f7-dcda-4706-a5e2-921b9d65098c]
 
-(1) A person who wishes to appeal against a completion notice or the imposition of a Schedule 9[^key-1512ee789f153eedf17d247be6cd788b] penalty must send or deliver a notice of appeal to the VTE so that it is received within 28 days after the date on which the appellant received the completion notice or notice that the Schedule 9 penalty had been imposed.
+(1) A person who wishes to appeal against a completion notice or the imposition of a Schedule 9[^c-1512ee789f153eedf17d247be6cd788b] penalty must send or deliver a notice of appeal to the VTE so that it is received within 28 days after the date on which the appellant received the completion notice or notice that the Schedule 9 penalty had been imposed.
 
 (2) The notice of appeal must be accompanied by—
 
@@ -929,11 +929,11 @@ Where an alteration is made, the list shall show the day from which the alterati
 
 (3) If the person provides the notice of appeal to the VTE later than the time required by paragraph (1) or by an extension of time allowed under regulation 6(3)(a) of the Valuation Tribunal for England (Council Tax and Rating Appeals) (Procedure) Regulations 2009[^f00011], the notice of appeal must include a request for an extension of time and the reason why the notice of appeal was not provided in time.
 
-### 20. Appeals relating to proposals to alter 1995 lists[^key-38398d1edf826db8731a7b86e4aceb3a]
+### 20. Appeals relating to proposals to alter 1995 lists[^c-38398d1edf826db8731a7b86e4aceb3a]
 
 The Procedure Regulations shall apply for the purposes of an appeal under regulation 8 or 13 in connection with a proposal made by virtue of paragraph (2) of regulation 17A of the Non-Domestic Rating (Alteration of Lists and Appeals) Regulations 2005[^f00012], where the appeal remains undetermined immediately before 1st October 2009, as if any reference to a list included a reference to a local list compiled on 1st April 1995.
 
-### 21. Notification of further proceedings[^key-1cd1b728ebb17f1d3641f8ab1fe7798a]
+### 21. Notification of further proceedings[^c-1cd1b728ebb17f1d3641f8ab1fe7798a]
 
 (1) Where a VO—
 
@@ -953,12 +953,12 @@ the VO must, at the same time or as soon as reasonably practicable afterwards, n
 
 ## PART 5 — MISCELLANEOUS AND GENERAL
 
-### 22. Notices[^key-5c8a97e95c43c7f0aedbd8659c890d1f]
+### 22. Notices[^c-5c8a97e95c43c7f0aedbd8659c890d1f]
 
-(1) Without prejudice to section 233 of the Local Government Act 1972[^f00013] (service of notice by local authorities) and paragraph (2), and subject to paragraphs (1A), (3) and (4)[^key-6cfd01c33fddddd19a767e15b5188ed8], any notice required by any provision of these Regulations to be provided, sent[^key-b34d3191be4d7f5dae2586d9a9767ce1] given or served may be provided, sent given or served—
+(1) Without prejudice to section 233 of the Local Government Act 1972[^f00013] (service of notice by local authorities) and paragraph (2), and subject to paragraphs (1A), (3) and (4)[^c-6cfd01c33fddddd19a767e15b5188ed8], any notice required by any provision of these Regulations to be provided, sent[^c-b34d3191be4d7f5dae2586d9a9767ce1] given or served may be provided, sent given or served—
 
 - (a) by delivering it—
-  - (i) to the person (“X”) to whom it is to be provided, sent or[^key-ac95c8a63755422a18c9c6d6ac232ab0] given or on whom it is to be served; or
+  - (i) to the person (“X”) to whom it is to be provided, sent or[^c-ac95c8a63755422a18c9c6d6ac232ab0] given or on whom it is to be served; or
   - (ii) to any other person authorised by X to act as X’s agent for the purpose;
 - (b) by sending it to X or X’s agent by electronic communication;
 - (c) by leaving it at or forwarding it by post to—
@@ -968,38 +968,38 @@ the VO must, at the same time or as soon as reasonably practicable afterwards, n
 - (d) by delivering it to some person on the premises to which it relates or, if there is no person on the premises to whom it can so be delivered, by fixing it to some conspicuous part of the premises;
 - (e) without prejudice to the foregoing provisions of this regulation, where a hereditament to which the notice relates is a place of business of the person on whom it is to be served, by leaving it at, or forwarding it by post addressed to that person at, that place of business.
 
-(1A)[^key-fe66b0ee7719d25e14f78e71f03306eb] At the same time as a copy of a notice under any of the following provisions is sent to or served on X’s agent, the notice must also be provided to X—
+(1A)[^c-fe66b0ee7719d25e14f78e71f03306eb] At the same time as a copy of a notice under any of the following provisions is sent to or served on X’s agent, the notice must also be provided to X—
 
 - (a) regulation 4D(1);
 - (b) regulation 4F(1);
 - (c) regulation 7;
 - (d) regulation 8(2);
-- (da)[^key-192cb42774e9655da240f2f9c14b6fb9] regulation 9A;
+- (da)[^c-192cb42774e9655da240f2f9c14b6fb9] regulation 9A;
 - (e) regulation 10(2)(b);
 - (f) regulation 13(2).
 
-(2) Where any notice which is to be provided, sent[^key-fd171055dc5f551aff18529a3be52e31] given to or served on a person is to be provided, sent given or served by or on behalf of the Common Council or by an officer of the Common Council, it may be provided, sent given or served in any manner in which it might be provided, sent given or served under section 233 of the Local Government Act 1972 if the Common Council were a local authority within the meaning of that section.
+(2) Where any notice which is to be provided, sent[^c-fd171055dc5f551aff18529a3be52e31] given to or served on a person is to be provided, sent given or served by or on behalf of the Common Council or by an officer of the Common Council, it may be provided, sent given or served in any manner in which it might be provided, sent given or served under section 233 of the Local Government Act 1972 if the Common Council were a local authority within the meaning of that section.
 
-(2A)[^key-ba3274e1e6dbe61485f5adaa9ea01c0e] Any notice to be served by a VO on a person who made a request under regulation 4B(2) or a proposal using the VO’s electronic portal (as defined in regulation 3) may be served by notifying the person by electronic communication that a notice addressed to the person is posted on that electronic portal.
+(2A)[^c-ba3274e1e6dbe61485f5adaa9ea01c0e] Any notice to be served by a VO on a person who made a request under regulation 4B(2) or a proposal using the VO’s electronic portal (as defined in regulation 3) may be served by notifying the person by electronic communication that a notice addressed to the person is posted on that electronic portal.
 
 (2B) Any notice to be served by the VTE on a person who made an appeal using the VTE’s electronic portal may be served by notifying the person by electronic communication that a notice addressed to the person is posted on that electronic portal.
 
 (3) Any notice to be served on the owner or occupier of any premises may be addressed by the description “owner” or “occupier” of the premises, without further name or description.
 
-(4)[^key-0bc0644f28b5290598f0a9528e12ae45] Except where these Regulations require a notice to be provided or served using the VO’s electronic portal (as defined in regulation 3) or in another manner agreed with the VO, any notice to be provided, sent or given to or served on a VO may be provided, sent, given or served by—
+(4)[^c-0bc0644f28b5290598f0a9528e12ae45] Except where these Regulations require a notice to be provided or served using the VO’s electronic portal (as defined in regulation 3) or in another manner agreed with the VO, any notice to be provided, sent or given to or served on a VO may be provided, sent, given or served by—
 
 - (a) addressing the notice to the VO; and
 - (b) delivering it or sending it to the VO’s office by post or electronic communication.
 
 (5) In this regulation—
 
-- (a) “electronic communication” has[^key-90ef6cb7951f2ef5c54096e132624840] the meaning given by section 15(1) of the Electronic Communications Act 2000[^f00014];
-- (aa)[^key-9e2ef1da7fbf9f1cf86e14dee02ed073] any reference to the VO’s electronic portal includes a reference to the online facility provided by the CVO for use in connection with proposals for the alteration of a central list compiled on or after 1st April 2017;
-- (b) any reference to a notice includes a reference to a proposal and any other document required or authorised to be provided, sent,[^key-c0aa4b9908715ffe639100859dcac0fb] given or served;
+- (a) “electronic communication” has[^c-90ef6cb7951f2ef5c54096e132624840] the meaning given by section 15(1) of the Electronic Communications Act 2000[^f00014];
+- (aa)[^c-9e2ef1da7fbf9f1cf86e14dee02ed073] any reference to the VO’s electronic portal includes a reference to the online facility provided by the CVO for use in connection with proposals for the alteration of a central list compiled on or after 1st April 2017;
+- (b) any reference to a notice includes a reference to a proposal and any other document required or authorised to be provided, sent,[^c-c0aa4b9908715ffe639100859dcac0fb] given or served;
 - (c) any reference to such requirement or authorisation is to a requirement or authorisation under these Regulations; and
 - (d) any notice sent by the means described in paragraph (1)(b) shall be regarded as sent when it is received in a legible form.
 
-### 23. Retention of records by VOs[^key-a1bef99f43f1f09f981690ae099308ca]
+### 23. Retention of records by VOs[^c-a1bef99f43f1f09f981690ae099308ca]
 
 (1) Before altering an entry in a local list or the central list, the VO or, as the case may be, the CVO shall ensure that a record (which need not be in documentary form) is made of the entry.
 
@@ -1007,7 +1007,7 @@ the VO must, at the same time or as soon as reasonably practicable afterwards, n
 
 (3) A record in relation to a local list compiled on 1st April 1995 shall be retained until 31st March 2016.
 
-### 24. Information to be supplied by relevant authorities[^key-c0f2b9a125934df81324fcbf6463e1e2]
+### 24. Information to be supplied by relevant authorities[^c-c0f2b9a125934df81324fcbf6463e1e2]
 
 (1) Information of the description set out in paragraph (2) is prescribed for the purposes of paragraph 6(1A) of Schedule 9 to the Act.
 
@@ -1027,7 +1027,7 @@ the VO must, at the same time or as soon as reasonably practicable afterwards, n
 
 (4) The information required by this regulation must be supplied as soon as is reasonably practicable after it comes to the attention of the relevant authority.
 
-### 25. Revocation, savings and transitional provision[^key-52680a461f19c8f6bb6c36d98705c0cb]
+### 25. Revocation, savings and transitional provision[^c-52680a461f19c8f6bb6c36d98705c0cb]
 
 (1) Subject to paragraphs (2) and (3), the Non-Domestic Rating (Alteration of Lists and Appeals) Regulations 2005[^f00015] and the Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2006 are revoked.
 
@@ -1037,7 +1037,7 @@ the VO must, at the same time or as soon as reasonably practicable afterwards, n
 
 (4) Subject to paragraph (5), the Non-Domestic Rating (Alteration of Lists and Appeals) Regulations 1993[^f00017] are revoked.
 
-(5) Subject to paragraph (6),[^key-b9dcfc35f26a5fc4dd07c83c091bf172] the Non-Domestic Rating (Alteration of Lists and Appeals) Regulations 1993 shall continue to have effect for the purposes of, and for purposes connected with—
+(5) Subject to paragraph (6),[^c-b9dcfc35f26a5fc4dd07c83c091bf172] the Non-Domestic Rating (Alteration of Lists and Appeals) Regulations 1993 shall continue to have effect for the purposes of, and for purposes connected with—
 
 - (a) any alteration of a list compiled before 1st April 2005;
 - (b) any provision made by regulations under section 58 of the 1988 Act (special provision for 1995 onwards) as to the chargeable amount as regards a hereditament for a relevant period, as defined in that section, ending before 1st April 2005; or
@@ -1045,7 +1045,7 @@ the VO must, at the same time or as soon as reasonably practicable afterwards, n
 
 and shall be treated for those purposes as if made under Schedule 11 as amended by the Local Government and Public Involvement in Health Act 2007, subject to the modifications set out in the Schedule to these Regulations.
 
-(6)[^key-9c7dc1d9a094229021de43d4c2e9a0a4] With effect from the coming into force of the Valuation Tribunal for England, Non-Domestic Rating and Council Tax (England) (Amendment) Regulations 2011, paragraph (5) shall cease to have effect, to the extent to which it applies to regulation 13(8BA) of the 1993 Regulations.
+(6)[^c-9c7dc1d9a094229021de43d4c2e9a0a4] With effect from the coming into force of the Valuation Tribunal for England, Non-Domestic Rating and Council Tax (England) (Amendment) Regulations 2011, paragraph (5) shall cease to have effect, to the extent to which it applies to regulation 13(8BA) of the 1993 Regulations.
 
 Signed by authority of the Secretary of State for Communities and Local Government
 
@@ -1057,7 +1057,7 @@ Department for Communities and Local Government
 
 25th August 2009
 
-## SCHEDULE — MODIFICATIONS OF THE NON-DOMESTIC RATING (ALTERATION OF LISTS AND APPEALS) REGULATIONS 1993 AS TO ENGLAND ONLY[^key-86cc07bbd8cdd78a103d2e4ffc75d441]
+## SCHEDULE — MODIFICATIONS OF THE NON-DOMESTIC RATING (ALTERATION OF LISTS AND APPEALS) REGULATIONS 1993 AS TO ENGLAND ONLY[^c-86cc07bbd8cdd78a103d2e4ffc75d441]
 
 Regulation 25(5)
 
@@ -1144,233 +1144,233 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 [^f00002]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-7fbb3d9b3f495e1b438b7c5c61cb93ac]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/2268) applied (with modifications) (17.12.2018) by [The Non-Domestic Rating (Alteration of Lists) and Business Rate Supplements (Transfers to Revenue Accounts) (Amendment etc.) (England) Regulations 2018 (S.I. 2018/1193)](https://www.legislation.gov.uk/uksi/2018/1193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1193/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2018/1193/regulation/10), [11](https://www.legislation.gov.uk/uksi/2018/1193/regulation/11)
+[^c-7fbb3d9b3f495e1b438b7c5c61cb93ac]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/2268) applied (with modifications) (17.12.2018) by [The Non-Domestic Rating (Alteration of Lists) and Business Rate Supplements (Transfers to Revenue Accounts) (Amendment etc.) (England) Regulations 2018 (S.I. 2018/1193)](https://www.legislation.gov.uk/uksi/2018/1193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1193/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2018/1193/regulation/10), [11](https://www.legislation.gov.uk/uksi/2018/1193/regulation/11)
 
-[^key-8a5b20ec5478bfc3401bd00a468bf6e3]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/2268) applied (with modifications) (17.12.2018) by [The Non-Domestic Rating (Alteration of Lists) and Business Rate Supplements (Transfers to Revenue Accounts) (Amendment etc.) (England) Regulations 2018 (S.I. 2018/1193)](https://www.legislation.gov.uk/uksi/2018/1193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1193/regulation/1/1), [2-9](https://www.legislation.gov.uk/uksi/2018/1193/regulation/2)
+[^c-8a5b20ec5478bfc3401bd00a468bf6e3]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/2268) applied (with modifications) (17.12.2018) by [The Non-Domestic Rating (Alteration of Lists) and Business Rate Supplements (Transfers to Revenue Accounts) (Amendment etc.) (England) Regulations 2018 (S.I. 2018/1193)](https://www.legislation.gov.uk/uksi/2018/1193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1193/regulation/1/1), [2-9](https://www.legislation.gov.uk/uksi/2018/1193/regulation/2)
 
-[^key-14334de6c588d2be2a70c0713c4c3ba8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-14334de6c588d2be2a70c0713c4c3ba8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-82e5290d7c4141338895e7c3694d97a4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-82e5290d7c4141338895e7c3694d97a4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-b6c3bc133cca16dc4a78be3a40238834]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/1) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/398/regulation/4/2/b/i) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
+[^c-b6c3bc133cca16dc4a78be3a40238834]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/1) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/398/regulation/4/2/b/i) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
 
-[^key-c581085a20a35d6e02099815294cec96]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/1) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/4/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-c581085a20a35d6e02099815294cec96]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/1) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/4/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
 [^f00003]: Footnote: Schedule 4A was inserted by paragraph 36 of Schedule 5 to the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42) and amended by paragraph 83 of Schedule 13 to the Local Government Finance Act [1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14) and paragraphs 2 and 4 of Schedule 16 to the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28).
 
 [^f00004]: Footnote: Paragraph 5C was inserted by section 72(4) of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26) and amended by paragraphs 2 and 5 of Schedule 16 to the Local Government and Public Involvement in Health Act 2007.
 
-[^key-ddbec052d234bace6d4fed6869e24a6f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/1) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/398/regulation/4/2/b/ii) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
+[^c-ddbec052d234bace6d4fed6869e24a6f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/1) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/398/regulation/4/2/b/ii) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
 
 [^f00005]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). For the definition of “company” *see* section 1. For the definitions of “subsidiary” and “holding company” *see* section 1159 and Schedule 6.
 
 [^f00006]: Footnote: [1961 c.55](https://www.legislation.gov.uk/ukpga/1961/55).
 
-[^key-dd989ff80c1465d6505e3a35cd737efe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/1) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/398/regulation/4/2/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
+[^c-dd989ff80c1465d6505e3a35cd737efe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/1) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/398/regulation/4/2/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
 
-[^key-6723a3d5e4cc3880bc2bff597f7a1737]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/1) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2017/155/regulation/4/2/c) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-6723a3d5e4cc3880bc2bff597f7a1737]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/1) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2017/155/regulation/4/2/c) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
 [^f00007]: Footnote: For the meaning of “valuation officer” *see* section 67 of the Local Government Finance Act 1988.
 
-[^key-9efe680a9b0747c89836fbcf441a1e25]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/1) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/4/2/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-9efe680a9b0747c89836fbcf441a1e25]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/1) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/4/2/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-9dbab365fcfa56d62b5381495b611c6b]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/3/a) omitted (1.4.2017) by virtue of [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/4/3/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-9dbab365fcfa56d62b5381495b611c6b]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/3/a) omitted (1.4.2017) by virtue of [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/4/3/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-dfd3a0ce8b5d641782869536e8f9d761]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/3/a) substituted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2018/398/regulation/4/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
+[^c-dfd3a0ce8b5d641782869536e8f9d761]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/3/a) substituted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2018/398/regulation/4/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
 
-[^key-80373f139ef3c57f7b7c26f22f1f3adc]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/3/b) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/4/3/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-80373f139ef3c57f7b7c26f22f1f3adc]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/3/b) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/4/3/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-fb0f46c35e04e6bfde3960cffcf6e753]: Textual amendment: Words in [reg. 2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/3/b/ii) substituted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-fb0f46c35e04e6bfde3960cffcf6e753]: Textual amendment: Words in [reg. 2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/3/b/ii) substituted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-fba056c35d27be70cc54ee8c0aa5aff1]: Textual amendment: [Reg. 2(3A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/3A) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-fba056c35d27be70cc54ee8c0aa5aff1]: Textual amendment: [Reg. 2(3A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/3A) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/2/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-be351b5d1c984c15b0d077e9a114b337]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/4) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2018/398/regulation/4/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
+[^c-be351b5d1c984c15b0d077e9a114b337]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/2/4) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2018/398/regulation/4/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
 
-[^key-0e46b7dfc9e95355a0cfd5f26c7f3d2e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/2268/regulation/3) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-0e46b7dfc9e95355a0cfd5f26c7f3d2e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/2268/regulation/3) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-7955a80c40c59617541385e3f7560dea]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/5/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-7955a80c40c59617541385e3f7560dea]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/5/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-490a50ac2b362c4ec0d89a61a759ad95]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/3/1) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/5/3/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-490a50ac2b362c4ec0d89a61a759ad95]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/3/1) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/5/3/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-7f285349ecd221798a81a3d768ef79e7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/3/1) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/5/3/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-7f285349ecd221798a81a3d768ef79e7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/3/1) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/5/3/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
 [^f00008]: Footnote: [S.I. 2009/2269](https://www.legislation.gov.uk/uksi/2009/2269).
 
-[^key-8b599b2539f817598c4214c4e384bf8c]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/3/2) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2017/155/regulation/5/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-8b599b2539f817598c4214c4e384bf8c]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/3/2) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2017/155/regulation/5/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-ea9fa21be2142a34ef438a24d4559351]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2009/2268/regulation/3A) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2017/155/regulation/6) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-ea9fa21be2142a34ef438a24d4559351]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2009/2268/regulation/3A) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2017/155/regulation/6) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-fab2e6d36ba670d1f3c19f3eae05f6db]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-fab2e6d36ba670d1f3c19f3eae05f6db]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-f7ae946a5c47b26810ce1d157ab71e51]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/1/b) inserted (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/2), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-f7ae946a5c47b26810ce1d157ab71e51]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/1/b) inserted (26.10.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/14/2), [19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
 
 [^f00009]: Footnote: [S.I. 2000/540](https://www.legislation.gov.uk/uksi/2000/540), to which there are amendments not relevant to these Regulations.
 
-[^key-556005754625230ef2b2985cdae34bf7]: Textual amendment: [Reg. 4(2)(aa)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/2/aa) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-556005754625230ef2b2985cdae34bf7]: Textual amendment: [Reg. 4(2)(aa)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/2/aa) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-9fa9edbb27a172c886c5f547cec6712a]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/2/b) omitted (1.4.2017) by virtue of [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/7/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-9fa9edbb27a172c886c5f547cec6712a]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/2/b) omitted (1.4.2017) by virtue of [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/7/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-67e2008fb7cc4882d1143dd9652c4556]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/3/b) omitted (24.8.2018) by virtue of [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/3/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-67e2008fb7cc4882d1143dd9652c4556]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/3/b) omitted (24.8.2018) by virtue of [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/3/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-821119f7f2cca6518dff9e434c7b7cf9]: Textual amendment: Words in [reg. 4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/3/b/i) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/3/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-821119f7f2cca6518dff9e434c7b7cf9]: Textual amendment: Words in [reg. 4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/3/b/i) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/3/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-6409ca9451df642cf5f1ff0e7f0c9130]: Textual amendment: Reg. 4(3)(b)(ia) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/3/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-6409ca9451df642cf5f1ff0e7f0c9130]: Textual amendment: Reg. 4(3)(b)(ia) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/3/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-04e6fac75948368e9168e51e2edbf329]: Textual amendment: Words in [reg. 4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/3/b/ii) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/3/b/iv) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-04e6fac75948368e9168e51e2edbf329]: Textual amendment: Words in [reg. 4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/3/b/ii) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/3/b/iv) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-0d35530ac9119375ff8afb6da8ff94f2]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/3/c) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/7/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-0d35530ac9119375ff8afb6da8ff94f2]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4/3/c) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/7/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
 [^f00010]: Footnote: Sub-paragraph (6A) was inserted by paragraph 38 of Schedule 5 to the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42) and substituted by paragraph 4 of Part 1 of Schedule 10 to the Local Government Finance Act [1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-09ceb5f70439c405f02e596f50b65b74]: Textual amendment: [Regs. 4A-4F](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4A) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/155/regulation/8) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-09ceb5f70439c405f02e596f50b65b74]: Textual amendment: [Regs. 4A-4F](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4A) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/155/regulation/8) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-383048c4e0d208f3b2db9fbc26200d3c]: Textual amendment: [Reg. 4A(4)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4A/4) inserted (17.12.2018) by [The Non-Domestic Rating (Alteration of Lists) and Business Rate Supplements (Transfers to Revenue Accounts) (Amendment etc.) (England) Regulations 2018 (S.I. 2018/1193)](https://www.legislation.gov.uk/uksi/2018/1193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1193/regulation/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2018/1193/regulation/12/1)
+[^c-383048c4e0d208f3b2db9fbc26200d3c]: Textual amendment: [Reg. 4A(4)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4A/4) inserted (17.12.2018) by [The Non-Domestic Rating (Alteration of Lists) and Business Rate Supplements (Transfers to Revenue Accounts) (Amendment etc.) (England) Regulations 2018 (S.I. 2018/1193)](https://www.legislation.gov.uk/uksi/2018/1193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1193/regulation/1/1), [12(1)](https://www.legislation.gov.uk/uksi/2018/1193/regulation/12/1)
 
-[^key-c6737ff0f406b4caf72af1099773fd6d]: Textual amendment: [Reg. 4AA](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4AA) inserted (17.12.2018) by [The Non-Domestic Rating (Alteration of Lists) and Business Rate Supplements (Transfers to Revenue Accounts) (Amendment etc.) (England) Regulations 2018 (S.I. 2018/1193)](https://www.legislation.gov.uk/uksi/2018/1193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1193/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/1193/regulation/12/2)
+[^c-c6737ff0f406b4caf72af1099773fd6d]: Textual amendment: [Reg. 4AA](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4AA) inserted (17.12.2018) by [The Non-Domestic Rating (Alteration of Lists) and Business Rate Supplements (Transfers to Revenue Accounts) (Amendment etc.) (England) Regulations 2018 (S.I. 2018/1193)](https://www.legislation.gov.uk/uksi/2018/1193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1193/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/1193/regulation/12/2)
 
-[^key-32b2eb8b8192c5f35f329ceeb2e0705c]: Textual amendment: Words in [reg. 4B(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4B/1) substituted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-32b2eb8b8192c5f35f329ceeb2e0705c]: Textual amendment: Words in [reg. 4B(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/4B/1) substituted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-acca5786b3dd520b15f6ddf1b81ac3dc]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/2268/regulation/5) revoked (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2017/155/regulation/9) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-acca5786b3dd520b15f6ddf1b81ac3dc]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/2268/regulation/5) revoked (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2017/155/regulation/9) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-6a95c976b43c163500d1b40461ebdc8e]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2009/2268/regulation/5A) inserted (1.4.2023) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2022 (S.I. 2022/1198)](https://www.legislation.gov.uk/uksi/2022/1198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1198/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1198/regulation/2/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1198/regulation/1/3))
+[^c-6a95c976b43c163500d1b40461ebdc8e]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2009/2268/regulation/5A) inserted (1.4.2023) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2022 (S.I. 2022/1198)](https://www.legislation.gov.uk/uksi/2022/1198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1198/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1198/regulation/2/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1198/regulation/1/3))
 
-[^key-58f3d043832ec08f9c95dfda7c160c6d]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2017/155/regulation/10) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-58f3d043832ec08f9c95dfda7c160c6d]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2017/155/regulation/10) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-170b11281086ece0b4f58d76de646128]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6/6) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/5/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-170b11281086ece0b4f58d76de646128]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6/6) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/5/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-1ea06c2e119364303f5ccc45ae269bf6]: Textual amendment: Word in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6/6) omitted (24.8.2018) by virtue of [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/5/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-1ea06c2e119364303f5ccc45ae269bf6]: Textual amendment: Word in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6/6) omitted (24.8.2018) by virtue of [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/5/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-479605f54c2096e3c10a0923b0c1230f]: Textual amendment: Words in [reg. 6(6)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6/6/b) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/5/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-479605f54c2096e3c10a0923b0c1230f]: Textual amendment: Words in [reg. 6(6)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6/6/b) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/5/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-c8c0887891034757b7c9066249d1ce2e]: Textual amendment: [Reg. 6(6)(c)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6/6/c) and word inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/5/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-c8c0887891034757b7c9066249d1ce2e]: Textual amendment: [Reg. 6(6)(c)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6/6/c) and word inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/5/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-fa3b935d697e19373f0e214d2a05b7d5]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6A) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2017/155/regulation/11) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-fa3b935d697e19373f0e214d2a05b7d5]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6A) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2017/155/regulation/11) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-50d4daac136ee21a3bd711d5dcb51cb7]: Textual amendment: Words in [reg. 6A(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6A/1) inserted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2023/1251/regulation/11)
+[^c-50d4daac136ee21a3bd711d5dcb51cb7]: Textual amendment: Words in [reg. 6A(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/6A/1) inserted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 (S.I. 2023/1251)](https://www.legislation.gov.uk/uksi/2023/1251), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2023/1251/regulation/11)
 
-[^key-e351ae17bed55d9bfd1053eeb2bf572b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/2268/regulation/7) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-e351ae17bed55d9bfd1053eeb2bf572b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/2268/regulation/7) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-21dac33d0460afdcd2175d77e4b334fb]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/7/2) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/12/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-21dac33d0460afdcd2175d77e4b334fb]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/7/2) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/12/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-f1fea7657811fa40efeaddb5435ad4d9]: Textual amendment: Word in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/7/3) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2017/155/regulation/12/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-f1fea7657811fa40efeaddb5435ad4d9]: Textual amendment: Word in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/7/3) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2017/155/regulation/12/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-6db434eb17b81f4b766a79a377038669]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2009/2268/regulation/8) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2017/155/regulation/13) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-6db434eb17b81f4b766a79a377038669]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2009/2268/regulation/8) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2017/155/regulation/13) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-a92655167f8c7f9ddad7ef2d7d140bc5]: Textual amendment: [Regs. 9A-9D](https://www.legislation.gov.uk/uksi/2009/2268/regulation/9A) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2018/398/regulation/5) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
+[^c-a92655167f8c7f9ddad7ef2d7d140bc5]: Textual amendment: [Regs. 9A-9D](https://www.legislation.gov.uk/uksi/2009/2268/regulation/9A) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2018/398/regulation/5) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
 
-[^key-b789d5c27bc38627a3e3b93f8367d496]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/2268/regulation/11) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-b789d5c27bc38627a3e3b93f8367d496]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/2268/regulation/11) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-8666f887e4353d2418583c9e057c489b]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/11/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/11/3) substituted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-8666f887e4353d2418583c9e057c489b]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/11/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/11/3) substituted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-8c538b854ebf869a3c0ab942c1ed3c2f]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/11/4) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/6/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-8c538b854ebf869a3c0ab942c1ed3c2f]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/11/4) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/6/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-d73e353998ee14716f80d56678e0c3f0]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/11/5) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/6/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-d73e353998ee14716f80d56678e0c3f0]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/11/5) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/6/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-62ea29021bf8c3c45918c608c417c489]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/2268/regulation/12) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-62ea29021bf8c3c45918c608c417c489]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/2268/regulation/12) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-160f95eceef2a4f4d732d49563e879fb]: Textual amendment: Words in [reg. 12(2)(e)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/12/2/e) omitted (1.4.2017) by virtue of [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/14/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-160f95eceef2a4f4d732d49563e879fb]: Textual amendment: Words in [reg. 12(2)(e)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/12/2/e) omitted (1.4.2017) by virtue of [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/14/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-76402c65f0316c2880e86161f3a958bd]: Textual amendment: Words in [reg. 12(2)(e)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/12/2/e) omitted (1.4.2017) by virtue of [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/14/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-76402c65f0316c2880e86161f3a958bd]: Textual amendment: Words in [reg. 12(2)(e)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/12/2/e) omitted (1.4.2017) by virtue of [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/14/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-c529d555f035c13995462be06cfed5e1]: Textual amendment: [Reg. 12(2)(f)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/12/2/f) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/7/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-c529d555f035c13995462be06cfed5e1]: Textual amendment: [Reg. 12(2)(f)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/12/2/f) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/7/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-55aea0a45762a1c8d26d3a8e4daece8e]: Textual amendment: Words in [reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/12/3/b) substituted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/7/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-55aea0a45762a1c8d26d3a8e4daece8e]: Textual amendment: Words in [reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/12/3/b) substituted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/7/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-0bd2d52e021e2221cd424865f13b0aa7]: Textual amendment: [Reg. 12(3A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/12/3A) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/7/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-0bd2d52e021e2221cd424865f13b0aa7]: Textual amendment: [Reg. 12(3A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/12/3A) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/7/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-6d70aefbd8b895534becb198ede1206e]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/2268/regulation/13) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2017/155/regulation/15) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-6d70aefbd8b895534becb198ede1206e]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/2268/regulation/13) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2017/155/regulation/15) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-7612b3f0c8d9ab4ebd81eb3ec8f3b7dd]: Textual amendment: [Reg. 13(2)(c)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/13/2/c) substituted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/8/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-7612b3f0c8d9ab4ebd81eb3ec8f3b7dd]: Textual amendment: [Reg. 13(2)(c)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/13/2/c) substituted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/8/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-3bd271b8ca58dbcbbe334ff1a34886c7]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/13/3) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/8/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-3bd271b8ca58dbcbbe334ff1a34886c7]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/13/3) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/8/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-353319f062883503a54e8f3acda8f24c]: Textual amendment: [Reg. 13(3A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/13/3A) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/8/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
+[^c-353319f062883503a54e8f3acda8f24c]: Textual amendment: [Reg. 13(3A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/13/3A) inserted (24.8.2018) by [The Non-Domestic Rating (Alteration of Lists, Appeals and Procedure) (England) (Amendment) Regulations 2018 (S.I. 2018/911)](https://www.legislation.gov.uk/uksi/2018/911), [regs. 1](https://www.legislation.gov.uk/uksi/2018/911/regulation/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2018/911/regulation/2/8/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/911/regulation/4))
 
-[^key-27d8df1baf881ec31f8891caa0798410]: Textual amendment: Regs. 13A-13E inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2017/155/regulation/16) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-27d8df1baf881ec31f8891caa0798410]: Textual amendment: Regs. 13A-13E inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2017/155/regulation/16) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-c6394c10b242ae69b7e02594f3d7228c]: Textual amendment: [Reg. 13A(4)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/13A/4)[(5)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/13A/5) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2018/398/regulation/6) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
+[^c-c6394c10b242ae69b7e02594f3d7228c]: Textual amendment: [Reg. 13A(4)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/13A/4)[(5)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/13A/5) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2018/398/regulation/6) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
 
-[^key-ba88eb7007c9a55b9c6cd3d446c317b8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-ba88eb7007c9a55b9c6cd3d446c317b8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-78ab4f9d3ab985fd5740a3ddaccb8f9c]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/1A)[(1B)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/1B) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/17/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-78ab4f9d3ab985fd5740a3ddaccb8f9c]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/1A)[(1B)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/1B) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/17/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-16efd75fbec0527743eae196815bea7e]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/2) substituted (28.3.2015) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2015 (S.I. 2015/424)](https://www.legislation.gov.uk/uksi/2015/424), [regs. 1](https://www.legislation.gov.uk/uksi/2015/424/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2015/424/regulation/7/2)
+[^c-16efd75fbec0527743eae196815bea7e]: Textual amendment: [Reg. 14(2)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/2) substituted (28.3.2015) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2015 (S.I. 2015/424)](https://www.legislation.gov.uk/uksi/2015/424), [regs. 1](https://www.legislation.gov.uk/uksi/2015/424/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2015/424/regulation/7/2)
 
-[^key-eeda65951ab85f1e6924266f50589ff6]: Textual amendment: [Reg. 14(2A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/2A)[(2B)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/2B) inserted (28.3.2015) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2015 (S.I. 2015/424)](https://www.legislation.gov.uk/uksi/2015/424), [regs. 1](https://www.legislation.gov.uk/uksi/2015/424/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2015/424/regulation/7/3)
+[^c-eeda65951ab85f1e6924266f50589ff6]: Textual amendment: [Reg. 14(2A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/2A)[(2B)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/2B) inserted (28.3.2015) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2015 (S.I. 2015/424)](https://www.legislation.gov.uk/uksi/2015/424), [regs. 1](https://www.legislation.gov.uk/uksi/2015/424/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2015/424/regulation/7/3)
 
-[^key-1fcb2d5732a0c6ea8876ff809ecc76f3]: Textual amendment: Words in [reg. 14(6)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/6) substituted (28.3.2015) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2015 (S.I. 2015/424)](https://www.legislation.gov.uk/uksi/2015/424), [regs. 1](https://www.legislation.gov.uk/uksi/2015/424/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2015/424/regulation/7/4)
+[^c-1fcb2d5732a0c6ea8876ff809ecc76f3]: Textual amendment: Words in [reg. 14(6)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/6) substituted (28.3.2015) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2015 (S.I. 2015/424)](https://www.legislation.gov.uk/uksi/2015/424), [regs. 1](https://www.legislation.gov.uk/uksi/2015/424/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2015/424/regulation/7/4)
 
-[^key-278304519641fad86bf303c5fe3cebe5]: Textual amendment: Words in [reg. 14(7)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/7/b) substituted (1.4.2023) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2022 (S.I. 2022/1198)](https://www.legislation.gov.uk/uksi/2022/1198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1198/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1198/regulation/2/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1198/regulation/1/3))
+[^c-278304519641fad86bf303c5fe3cebe5]: Textual amendment: Words in [reg. 14(7)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/14/7/b) substituted (1.4.2023) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2022 (S.I. 2022/1198)](https://www.legislation.gov.uk/uksi/2022/1198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1198/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1198/regulation/2/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1198/regulation/1/3))
 
-[^key-fd6026cdb4ad94c1d5efef6fdd4835dc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/2268/regulation/15) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-fd6026cdb4ad94c1d5efef6fdd4835dc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2009/2268/regulation/15) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-1e127198e851e1ad702c5e7e3cb6a2ec]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/2268/regulation/16) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-1e127198e851e1ad702c5e7e3cb6a2ec]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2009/2268/regulation/16) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-b10976921e06cff70dae3f25625380ab]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/2268/regulation/17) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-b10976921e06cff70dae3f25625380ab]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2009/2268/regulation/17) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-5bf14bdf03dd8e016fab7484de01e88b]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/17/5) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2017/155/regulation/18) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-5bf14bdf03dd8e016fab7484de01e88b]: Textual amendment: Words in [reg. 17(5)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/17/5) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2017/155/regulation/18) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-17443bfd49ddd3e0d94729565df67d5c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/2268/regulation/18) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-17443bfd49ddd3e0d94729565df67d5c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/2268/regulation/18) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-ea962ab6c28e84f961df5535f8dd8f2b]: Textual amendment: [Reg. 18(1)(aa)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/18/1/aa) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/19/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-ea962ab6c28e84f961df5535f8dd8f2b]: Textual amendment: [Reg. 18(1)(aa)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/18/1/aa) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/19/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-08434d8004145741b8b28f99201a7715]: Textual amendment: [Reg. 18(2)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/18/2/b) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [19(3)(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/19/3/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-08434d8004145741b8b28f99201a7715]: Textual amendment: [Reg. 18(2)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/18/2/b) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [19(3)(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/19/3/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-291ae798aa4fdae8aaed7910f7c6944f]: Textual amendment: Words in [reg. 18(2)(c)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/18/2/c) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [19(3)(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/19/3/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-291ae798aa4fdae8aaed7910f7c6944f]: Textual amendment: Words in [reg. 18(2)(c)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/18/2/c) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [19(3)(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/19/3/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-8abe6ec0c4394ec2dbed7e3d39f4790c]: Textual amendment: [Reg. 18(2)(d)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/18/2/d) substituted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2018/398/regulation/7) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
+[^c-8abe6ec0c4394ec2dbed7e3d39f4790c]: Textual amendment: [Reg. 18(2)(d)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/18/2/d) substituted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2018/398/regulation/7) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
 
-[^key-e15e8bf7fa759d43fdbcb2ba84bff884]: Textual amendment: Reg. 18(2)(d)-(db) substituted for reg. 18(2)(d) (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [19(3)(c)](https://www.legislation.gov.uk/uksi/2017/155/regulation/19/3/c) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-e15e8bf7fa759d43fdbcb2ba84bff884]: Textual amendment: Reg. 18(2)(d)-(db) substituted for reg. 18(2)(d) (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [19(3)(c)](https://www.legislation.gov.uk/uksi/2017/155/regulation/19/3/c) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-4674169f6c6de0eeccca1127c76bd5a5]: Textual amendment: [Reg. 18(2)(e)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/18/2/e) substituted (1.4.2011) by [The Valuation Tribunal for England, Non-Domestic Rating and Council Tax (England) (Amendment) Regulations 2011 (S.I. 2011/434)](https://www.legislation.gov.uk/uksi/2011/434), [regs. 1](https://www.legislation.gov.uk/uksi/2011/434/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/434/regulation/3/2)
+[^c-4674169f6c6de0eeccca1127c76bd5a5]: Textual amendment: [Reg. 18(2)(e)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/18/2/e) substituted (1.4.2011) by [The Valuation Tribunal for England, Non-Domestic Rating and Council Tax (England) (Amendment) Regulations 2011 (S.I. 2011/434)](https://www.legislation.gov.uk/uksi/2011/434), [regs. 1](https://www.legislation.gov.uk/uksi/2011/434/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/434/regulation/3/2)
 
-[^key-97ef43d793f642bac0280e121d96a4d7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/2268/regulation/19) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-97ef43d793f642bac0280e121d96a4d7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2009/2268/regulation/19) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
 [^M_F_e1f5f8f7-dcda-4706-a5e2-921b9d65098c]: Textual amendment: Reg. 19 heading substituted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2018/398/regulation/8) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
 
-[^key-1512ee789f153eedf17d247be6cd788b]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/2268/regulation/19) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2018/398/regulation/8) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
+[^c-1512ee789f153eedf17d247be6cd788b]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/2268/regulation/19) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2018/398/regulation/8) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
 
 [^f00011]: Footnote: [S.I. 2009/2269](https://www.legislation.gov.uk/uksi/2009/2269).
 
-[^key-38398d1edf826db8731a7b86e4aceb3a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/2268/regulation/20) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-38398d1edf826db8731a7b86e4aceb3a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2009/2268/regulation/20) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
 [^f00012]: Footnote: [S.I. 2005/659](https://www.legislation.gov.uk/uksi/2005/659). Regulation 17A was inserted by [S.I. 2006/2312](https://www.legislation.gov.uk/uksi/2006/2312).
 
-[^key-1cd1b728ebb17f1d3641f8ab1fe7798a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2009/2268/regulation/21) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-1cd1b728ebb17f1d3641f8ab1fe7798a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2009/2268/regulation/21) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-5c8a97e95c43c7f0aedbd8659c890d1f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-5c8a97e95c43c7f0aedbd8659c890d1f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
 [^f00013]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70), to which there are amendments not relevant to these Regulations.
 
-[^key-6cfd01c33fddddd19a767e15b5188ed8]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/1) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/2/a/i) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-6cfd01c33fddddd19a767e15b5188ed8]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/1) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/2/a/i) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-b34d3191be4d7f5dae2586d9a9767ce1]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/1) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/2/a/ii) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-b34d3191be4d7f5dae2586d9a9767ce1]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/1) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/2/a/ii) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-ac95c8a63755422a18c9c6d6ac232ab0]: Textual amendment: Words in [reg. 22(1)(a)(i)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/1/a/i) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-ac95c8a63755422a18c9c6d6ac232ab0]: Textual amendment: Words in [reg. 22(1)(a)(i)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/1/a/i) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-fe66b0ee7719d25e14f78e71f03306eb]: Textual amendment: [Reg. 22(1A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/1A) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-fe66b0ee7719d25e14f78e71f03306eb]: Textual amendment: [Reg. 22(1A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/1A) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-192cb42774e9655da240f2f9c14b6fb9]: Textual amendment: [Reg. 22(1A)(da)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/1A/da) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2018/398/regulation/9) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
+[^c-192cb42774e9655da240f2f9c14b6fb9]: Textual amendment: [Reg. 22(1A)(da)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/1A/da) inserted (27.3.2018) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2018 (S.I. 2018/398)](https://www.legislation.gov.uk/uksi/2018/398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/398/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2018/398/regulation/9) (with [regs. 2](https://www.legislation.gov.uk/uksi/2018/398/regulation/2), [11](https://www.legislation.gov.uk/uksi/2018/398/regulation/11))
 
-[^key-fd171055dc5f551aff18529a3be52e31]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/2) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-fd171055dc5f551aff18529a3be52e31]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/2) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-ba3274e1e6dbe61485f5adaa9ea01c0e]: Textual amendment: [Reg. 22(2A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/2A)[(2B)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/2B) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/5) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-ba3274e1e6dbe61485f5adaa9ea01c0e]: Textual amendment: [Reg. 22(2A)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/2A)[(2B)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/2B) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/5) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-0bc0644f28b5290598f0a9528e12ae45]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/4) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(6)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/6) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-0bc0644f28b5290598f0a9528e12ae45]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/4) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(6)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/6) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-90ef6cb7951f2ef5c54096e132624840]: Textual amendment: Word in [reg. 22(5)(a)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/5/a) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(7)(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/7/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-90ef6cb7951f2ef5c54096e132624840]: Textual amendment: Word in [reg. 22(5)(a)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/5/a) substituted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(7)(a)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/7/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
 [^f00014]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-9e2ef1da7fbf9f1cf86e14dee02ed073]: Textual amendment: [Reg. 22(5)(aa)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/5/aa) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(7)(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/7/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-9e2ef1da7fbf9f1cf86e14dee02ed073]: Textual amendment: [Reg. 22(5)(aa)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/5/aa) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(7)(b)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/7/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-c0aa4b9908715ffe639100859dcac0fb]: Textual amendment: Words in [reg. 22(5)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/5/b) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(7)(c)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/7/c) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
+[^c-c0aa4b9908715ffe639100859dcac0fb]: Textual amendment: Words in [reg. 22(5)(b)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/22/5/b) inserted (1.4.2017) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2017 (S.I. 2017/155)](https://www.legislation.gov.uk/uksi/2017/155), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/155/regulation/1/2), [20(7)(c)](https://www.legislation.gov.uk/uksi/2017/155/regulation/20/7/c) (with [regs. 2](https://www.legislation.gov.uk/uksi/2017/155/regulation/2), [22](https://www.legislation.gov.uk/uksi/2017/155/regulation/22))
 
-[^key-a1bef99f43f1f09f981690ae099308ca]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/2268/regulation/23) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-a1bef99f43f1f09f981690ae099308ca]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2009/2268/regulation/23) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-c0f2b9a125934df81324fcbf6463e1e2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2009/2268/regulation/24) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-c0f2b9a125934df81324fcbf6463e1e2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2009/2268/regulation/24) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
-[^key-52680a461f19c8f6bb6c36d98705c0cb]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2009/2268/regulation/25) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-52680a461f19c8f6bb6c36d98705c0cb]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2009/2268/regulation/25) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
 [^f00015]: Footnote: [S.I. 2005/659](https://www.legislation.gov.uk/uksi/2005/659), amended by [S.I. 2006/2312](https://www.legislation.gov.uk/uksi/2006/2312).
 
@@ -1378,13 +1378,13 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 [^f00017]: Footnote: [S.I. 1993/291](https://www.legislation.gov.uk/uksi/1993/291), which were revoked, with savings, by regulation 44(1) of [S.I. 2005/659](https://www.legislation.gov.uk/uksi/2005/659).
 
-[^key-b9dcfc35f26a5fc4dd07c83c091bf172]: Textual amendment: Words in [reg. 25(5)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/25/5) inserted (1.4.2011) by [The Valuation Tribunal for England, Non-Domestic Rating and Council Tax (England) (Amendment) Regulations 2011 (S.I. 2011/434)](https://www.legislation.gov.uk/uksi/2011/434), [regs. 1](https://www.legislation.gov.uk/uksi/2011/434/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/434/regulation/3/3/a)
+[^c-b9dcfc35f26a5fc4dd07c83c091bf172]: Textual amendment: Words in [reg. 25(5)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/25/5) inserted (1.4.2011) by [The Valuation Tribunal for England, Non-Domestic Rating and Council Tax (England) (Amendment) Regulations 2011 (S.I. 2011/434)](https://www.legislation.gov.uk/uksi/2011/434), [regs. 1](https://www.legislation.gov.uk/uksi/2011/434/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/434/regulation/3/3/a)
 
 [^f00018]: Footnote: [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
-[^key-9c7dc1d9a094229021de43d4c2e9a0a4]: Textual amendment: [Reg. 25(6)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/25/6) inserted (1.4.2011) by [The Valuation Tribunal for England, Non-Domestic Rating and Council Tax (England) (Amendment) Regulations 2011 (S.I. 2011/434)](https://www.legislation.gov.uk/uksi/2011/434), [regs. 1](https://www.legislation.gov.uk/uksi/2011/434/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2011/434/regulation/3/3/b)
+[^c-9c7dc1d9a094229021de43d4c2e9a0a4]: Textual amendment: [Reg. 25(6)](https://www.legislation.gov.uk/uksi/2009/2268/regulation/25/6) inserted (1.4.2011) by [The Valuation Tribunal for England, Non-Domestic Rating and Council Tax (England) (Amendment) Regulations 2011 (S.I. 2011/434)](https://www.legislation.gov.uk/uksi/2011/434), [regs. 1](https://www.legislation.gov.uk/uksi/2011/434/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2011/434/regulation/3/3/b)
 
-[^key-86cc07bbd8cdd78a103d2e4ffc75d441]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2009/2268/schedule) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
+[^c-86cc07bbd8cdd78a103d2e4ffc75d441]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2009/2268/schedule) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/2268/regulation/1)
 
 [^f00019]: Footnote: *See* paragraph A17 of Schedule 11 to the Local Government Finance Act 1988, which was inserted by the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28), Schedule 15, paragraphs 1 and 2
 

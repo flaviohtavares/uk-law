@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Transfer of OPRA’s functions to the Regulator[^key-bdabb16ae6b83bee59fe27c0d1cd5fa3]
+## 7. Transfer of OPRA’s functions to the Regulator[^c-bdabb16ae6b83bee59fe27c0d1cd5fa3]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ are hereby transferred to the Regulator.
 
 ## Annotations
 
-[^key-bdabb16ae6b83bee59fe27c0d1cd5fa3]: Commencement: S. 7 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7) (with transitional provisions and savings in [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), arts. 5(8), 6, Schs. 2, 3 (as amended by [S.I. 2005/1108](https://www.legislation.gov.uk/uksi/2005/1108), art. 3(b))
+[^c-bdabb16ae6b83bee59fe27c0d1cd5fa3]: Commencement: S. 7 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7) (with transitional provisions and savings in [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), arts. 5(8), 6, Schs. 2, 3 (as amended by [S.I. 2005/1108](https://www.legislation.gov.uk/uksi/2005/1108), art. 3(b))

@@ -26,8 +26,8 @@ summary: ''
 
 (3) The non-UK resident company must carry on a trade in the United Kingdom through a permanent establishment.
 
-(4) The payment must be one that is required to be brought into account in calculating the chargeable profits (within the meaning given by section 19 of CTA 2009[^key-e7bbf88e78903886eb145bf859b51595]) of the non-UK resident company.
+(4) The payment must be one that is required to be brought into account in calculating the chargeable profits (within the meaning given by section 19 of CTA 2009[^c-e7bbf88e78903886eb145bf859b51595]) of the non-UK resident company.
 
 ## Annotations
 
-[^key-e7bbf88e78903886eb145bf859b51595]: Textual amendment: Words in s. 934(4) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 710](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/710) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e7bbf88e78903886eb145bf859b51595]: Textual amendment: Words in s. 934(4) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 710](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/710) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

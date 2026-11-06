@@ -32,7 +32,7 @@ summary: ''
 
 ENFORCEMENT
 
-The Diligence against Earnings (Variation) (Scotland) Regulations 2009 (revoked)[^key-a4e3394d8d8f455da7b7c7ab118aea5a]
+The Diligence against Earnings (Variation) (Scotland) Regulations 2009 (revoked)[^c-a4e3394d8d8f455da7b7c7ab118aea5a]
 
 Made
 
@@ -46,15 +46,15 @@ Coming into force
 
 6th April 2009
 
-[^key-a4e3394d8d8f455da7b7c7ab118aea5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4e3394d8d8f455da7b7c7ab118aea5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-a4e3394d8d8f455da7b7c7ab118aea5a]
+## 1. Citation, commencement and interpretation[^c-a4e3394d8d8f455da7b7c7ab118aea5a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Rate of deductions in diligence against earnings[^key-a4e3394d8d8f455da7b7c7ab118aea5a]
+## 2. Rate of deductions in diligence against earnings[^c-a4e3394d8d8f455da7b7c7ab118aea5a]
 
 **No longer in force.**
 
@@ -62,11 +62,11 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-a4e3394d8d8f455da7b7c7ab118aea5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4e3394d8d8f455da7b7c7ab118aea5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-a4e3394d8d8f455da7b7c7ab118aea5a]
+## SCHEDULE[^c-a4e3394d8d8f455da7b7c7ab118aea5a]
 
 Regulation 2(b)
 
@@ -74,8 +74,8 @@ Regulation 2(b)
 
 **May not be in force at this date. Check the source.**
 
-[^key-a4e3394d8d8f455da7b7c7ab118aea5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4e3394d8d8f455da7b7c7ab118aea5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a4e3394d8d8f455da7b7c7ab118aea5a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/98) revoked (28.3.2009) by [The Diligence against Earnings (Variation) (Scotland) Revocation Regulations 2009 (S.S.I. 2009/133)](https://www.legislation.gov.uk/ssi/2009/133), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2009/133/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2009/133/regulation/2)
+[^c-a4e3394d8d8f455da7b7c7ab118aea5a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/98) revoked (28.3.2009) by [The Diligence against Earnings (Variation) (Scotland) Revocation Regulations 2009 (S.S.I. 2009/133)](https://www.legislation.gov.uk/ssi/2009/133), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2009/133/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2009/133/regulation/2)

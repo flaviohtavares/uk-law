@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Asylum Support Adjudicators[^key-378729a0e13a17ae36c5f6dfaa29280c]
+## SCHEDULE 10 — Asylum Support Adjudicators[^c-378729a0e13a17ae36c5f6dfaa29280c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Section 102(3).
 
-### Adjudicators[^key-378729a0e13a17ae36c5f6dfaa29280c]
+### Adjudicators[^c-378729a0e13a17ae36c5f6dfaa29280c]
 
-**1.**[^key-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Terms and conditions of appointment[^key-378729a0e13a17ae36c5f6dfaa29280c]
+### Terms and conditions of appointment[^c-378729a0e13a17ae36c5f6dfaa29280c]
 
-**2.**[^key-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Remuneration, expenses and pensions[^key-378729a0e13a17ae36c5f6dfaa29280c]
+### Remuneration, expenses and pensions[^c-378729a0e13a17ae36c5f6dfaa29280c]
 
-**3.**[^key-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Compensation[^key-378729a0e13a17ae36c5f6dfaa29280c]
+### Compensation[^c-378729a0e13a17ae36c5f6dfaa29280c]
 
-**4.**[^key-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff[^key-378729a0e13a17ae36c5f6dfaa29280c]
+### Staff[^c-378729a0e13a17ae36c5f6dfaa29280c]
 
-**5.**[^key-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Expenditure[^key-378729a0e13a17ae36c5f6dfaa29280c]
+### Expenditure[^c-378729a0e13a17ae36c5f6dfaa29280c]
 
-**6.**[^key-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Proceedings[^key-378729a0e13a17ae36c5f6dfaa29280c]
+### Proceedings[^c-378729a0e13a17ae36c5f6dfaa29280c]
 
-**7.**[^key-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-378729a0e13a17ae36c5f6dfaa29280c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-378729a0e13a17ae36c5f6dfaa29280c]: Textual amendment: Sch. 10 omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 186](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/186)
+[^c-378729a0e13a17ae36c5f6dfaa29280c]: Textual amendment: Sch. 10 omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 186](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/186)

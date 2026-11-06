@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. General directions to vessels[^key-0dffc26c784f7fab646e80e04542085d]
+## 71. General directions to vessels[^c-0dffc26c784f7fab646e80e04542085d]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ and every direction given under this article shall specify the extent of its app
 
 ## Annotations
 
-[^key-0dffc26c784f7fab646e80e04542085d]: Commencement: Art. 71 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-0dffc26c784f7fab646e80e04542085d]: Commencement: Art. 71 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

@@ -42,15 +42,15 @@ Coming into operation in accordance with rule 1
 
 The Magistrates’ Courts Rules Committee makes the following Rules in exercise of the powers conferred by Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00001].
 
-## 1. Citation and commencement[^key-c2682ddc3ac4e3d1a5e60b76d4e627cc]
+## 1. Citation and commencement[^c-c2682ddc3ac4e3d1a5e60b76d4e627cc]
 
 These Rules may be cited as the Magistrates’ Courts (Domestic Proceedings) (Amendment) Rules (Northern Ireland) 2022 and shall come into operation on the day on which section 37 of the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021[^f00002] comes into operation.
 
-## 2. Amendment to the Magistrates’ Courts (Domestic Proceedings) Rules (Northern Ireland) 1996[^key-f8d1ac4e553c6e3143d9fffe375e397c]
+## 2. Amendment to the Magistrates’ Courts (Domestic Proceedings) Rules (Northern Ireland) 1996[^c-f8d1ac4e553c6e3143d9fffe375e397c]
 
 The Magistrates’ Courts (Domestic Proceedings) Rules (Northern Ireland) 1996[^f00003] are amended as follows.
 
-**3.**[^key-149c3854e101bd0b8f16fd9ee6c97f18] After rule 15A insert—
+**3.**[^c-149c3854e101bd0b8f16fd9ee6c97f18] After rule 15A insert—
 
 > **15B. Special measures direction relating to a person who is, or is at risk of, being subjected to abusive behaviour**
 >
@@ -112,7 +112,7 @@ The Magistrates’ Courts (Domestic Proceedings) Rules (Northern Ireland) 1996[^
 >
 > (12) The court shall take a note of the making, variation or revocation of a direction under this rule and serve, as soon as practicable, a copy of the note on any party who was not present at the making, variation or revocation.
 
-**4.**[^key-85673e70b37efc8ebabadc1b96223513] In Schedule 1 (Forms) after Form D13 insert the new Form SM set out in the Schedule.
+**4.**[^c-85673e70b37efc8ebabadc1b96223513] In Schedule 1 (Forms) after Form D13 insert the new Form SM set out in the Schedule.
 
 Nigel Broderick
 
@@ -148,14 +148,14 @@ These Rules amend the Magistrates’ Courts (Domestic Proceedings) Rules (Northe
 
 [^f00001]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675); Article 13 was amended by paragraph 65 of Schedule 5 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), paragraph 133 of Schedule 18 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)) and paragraph 4 of the Schedule to the Northern Ireland (Miscellaneous Provisions) Act [2014 (c.13)](https://www.legislation.gov.uk/ukpga/2014/13).
 
-[^key-c2682ddc3ac4e3d1a5e60b76d4e627cc]: Commencement: Rule 1 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/255/rule/1)
+[^c-c2682ddc3ac4e3d1a5e60b76d4e627cc]: Commencement: Rule 1 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/255/rule/1)
 
 [^f00002]: Footnote: [2021 c.2. (N.I)](https://www.legislation.gov.uk/nia/2021/2)
 
-[^key-f8d1ac4e553c6e3143d9fffe375e397c]: Commencement: Rule 2 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/255/rule/1)
+[^c-f8d1ac4e553c6e3143d9fffe375e397c]: Commencement: Rule 2 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/255/rule/1)
 
 [^f00003]: Footnote: [S.R. 1996 No.324](https://www.legislation.gov.uk/nisr/1996/324) as amended by [S.R. 2007 No.398](https://www.legislation.gov.uk/nisr/2007/398) and other statutory rules which are not relevant.
 
-[^key-149c3854e101bd0b8f16fd9ee6c97f18]: Commencement: Rule 3 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/255/rule/1)
+[^c-149c3854e101bd0b8f16fd9ee6c97f18]: Commencement: Rule 3 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/255/rule/1)
 
-[^key-85673e70b37efc8ebabadc1b96223513]: Commencement: Rule 4 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/255/rule/1)
+[^c-85673e70b37efc8ebabadc1b96223513]: Commencement: Rule 4 not in operation at made date, see [rule 1](https://www.legislation.gov.uk/nisr/2022/255/rule/1)

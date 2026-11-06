@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Liquidator’s powers and duties in creditors’ voluntary winding up[^key-6a86d0e5fe5e24c69100319cd679c51a]
+## 45. Liquidator’s powers and duties in creditors’ voluntary winding up[^c-6a86d0e5fe5e24c69100319cd679c51a]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a86d0e5fe5e24c69100319cd679c51a]: Commencement: S. 45 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-6a86d0e5fe5e24c69100319cd679c51a]: Commencement: S. 45 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

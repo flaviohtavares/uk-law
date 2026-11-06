@@ -34,7 +34,7 @@ An Act to make provision about children, families, and people with special educa
 
 \[13th March 2014\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-f8249dd8576afc4f3b5c5969fbfb69a0]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-f8249dd8576afc4f3b5c5969fbfb69a0]
 
 ## Contents
 
@@ -71,7 +71,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 17 — Repeal of restrictions on divorce and dissolution etc where there are children](part-2/section-17.md)
 - [Section 18 — Repeal of uncommenced provisions of Part 2 of the Family Law Act 1996](part-2/section-18.md)
 
-### PART 3 — Children and young people in England with special educational needs or disabilities[^key-b62f7d937b92a81829f09267630bcd05]
+### PART 3 — Children and young people in England with special educational needs or disabilities[^c-b62f7d937b92a81829f09267630bcd05]
 
 *Extent: E+W*
 
@@ -359,6 +359,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-f8249dd8576afc4f3b5c5969fbfb69a0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2014/6) applied (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [art. 20(1)](https://www.legislation.gov.uk/uksi/2014/2270/article/20/1)
+[^c-f8249dd8576afc4f3b5c5969fbfb69a0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2014/6) applied (1.9.2014) by [The Children and Families Act 2014 (Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/2270)](https://www.legislation.gov.uk/uksi/2014/2270), [art. 20(1)](https://www.legislation.gov.uk/uksi/2014/2270/article/20/1)
 
-[^key-b62f7d937b92a81829f09267630bcd05]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2014/6/part/3) modified (1.4.2015) by [The Special Educational Needs and Disability (Detained Persons) Regulations 2015 (S.I. 2015/62)](https://www.legislation.gov.uk/uksi/2015/62), [regs. 1](https://www.legislation.gov.uk/uksi/2015/62/regulation/1), [31(1)](https://www.legislation.gov.uk/uksi/2015/62/regulation/31/1), [32(1)](https://www.legislation.gov.uk/uksi/2015/62/regulation/32/1)
+[^c-b62f7d937b92a81829f09267630bcd05]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2014/6/part/3) modified (1.4.2015) by [The Special Educational Needs and Disability (Detained Persons) Regulations 2015 (S.I. 2015/62)](https://www.legislation.gov.uk/uksi/2015/62), [regs. 1](https://www.legislation.gov.uk/uksi/2015/62/regulation/1), [31(1)](https://www.legislation.gov.uk/uksi/2015/62/regulation/31/1), [32(1)](https://www.legislation.gov.uk/uksi/2015/62/regulation/32/1)

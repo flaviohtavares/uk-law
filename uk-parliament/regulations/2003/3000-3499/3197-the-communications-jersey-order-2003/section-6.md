@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**6.**[^key-b234e69379794f7079e6ac2dd7e17de1] The following provisions of the 2003 Act shall extend to Jersey with the modifications set out in Schedule 2 to this Order:
+**6.**[^c-b234e69379794f7079e6ac2dd7e17de1] The following provisions of the 2003 Act shall extend to Jersey with the modifications set out in Schedule 2 to this Order:
 
 - In Part 1 (Functions of OFCOM):
 - sections 1 to 3, 5 to 9, 11 to 13, 21 to 26 and 28 to 31;
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b234e69379794f7079e6ac2dd7e17de1]: Commencement: Art. 6 in force at 29.12.2003, see [art. 1(3)(4)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/3/4)(5)
+[^c-b234e69379794f7079e6ac2dd7e17de1]: Commencement: Art. 6 in force at 29.12.2003, see [art. 1(3)(4)](https://www.legislation.gov.uk/uksi/2003/3197/article/1/3/4)(5)

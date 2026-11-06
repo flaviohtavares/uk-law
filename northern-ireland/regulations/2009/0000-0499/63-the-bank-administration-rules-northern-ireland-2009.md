@@ -43,25 +43,25 @@ Coming into operation
 
 To be laid before Parliament
 
-The Lord Chancellor makes the following Rules in the exercise of powers conferred by Article 359 of the Insolvency (Northern Ireland) Order 1989 (“the Order”)[^f00001] as amended by sections 160 and 167 of the Banking Act 2009[^f00002] (“the 2009 Act”), with the concurrence of the Treasury and, in relation to those rules that affect court procedure, with the concurrence of the Lord Chief Justice of Northern Ireland under Article 359 (1A) of the Order.[^key-ab03b11af194d7010be3e9c89f1a53c9]
+The Lord Chancellor makes the following Rules in the exercise of powers conferred by Article 359 of the Insolvency (Northern Ireland) Order 1989 (“the Order”)[^f00001] as amended by sections 160 and 167 of the Banking Act 2009[^f00002] (“the 2009 Act”), with the concurrence of the Treasury and, in relation to those rules that affect court procedure, with the concurrence of the Lord Chief Justice of Northern Ireland under Article 359 (1A) of the Order.[^c-ab03b11af194d7010be3e9c89f1a53c9]
 
-The Lord Chancellor has not consulted the Committee existing for the purposes of Article 360 of the Order: this is the first exercise of the power in Article 359 of that Order, as amended by section 160 of the 2009 Act, and is therefore excluded from the requirement to consult by section 160(6) of the 2009 Act.[^key-ab03b11af194d7010be3e9c89f1a53c9]
+The Lord Chancellor has not consulted the Committee existing for the purposes of Article 360 of the Order: this is the first exercise of the power in Article 359 of that Order, as amended by section 160 of the 2009 Act, and is therefore excluded from the requirement to consult by section 160(6) of the 2009 Act.[^c-ab03b11af194d7010be3e9c89f1a53c9]
 
 ## PART 1 — Introduction
 
-### 1. Citation[^key-a438bef090ab2c804291366268a9cfc1]
+### 1. Citation[^c-a438bef090ab2c804291366268a9cfc1]
 
 These Rules may be cited as the Bank Administration Rules (Northern Ireland) 2009.
 
-### 2. Commencement[^key-df4872feaf7b109441deb9cb43c775a4]
+### 2. Commencement[^c-df4872feaf7b109441deb9cb43c775a4]
 
 These Rules come into operation on 25th February 2009.
 
-### 3. Extent[^key-1317e69df93520b34eb5bc2d472279fa]
+### 3. Extent[^c-1317e69df93520b34eb5bc2d472279fa]
 
 These Rules extend to Northern Ireland only.
 
-### 4. Interpretation[^key-b7083ae30ef896632ef28d1026cd38e1]
+### 4. Interpretation[^c-b7083ae30ef896632ef28d1026cd38e1]
 
 The following expressions used in these Rules take their meaning from the Banking Act 2009 —
 
@@ -69,16 +69,16 @@ The following expressions used in these Rules take their meaning from the Bankin
 - “bank administration” (s. 141(4)(a)),
 - “bank administration order” (s. 141(1)),
 - “bank administrator” (s. 141(1)),
-- “Bank of England” (s. 256B(1)),[^key-883b4eb82cb79925d048e703c90ac018]
+- “Bank of England” (s. 256B(1)),[^c-883b4eb82cb79925d048e703c90ac018]
 - “the court” (the High Court – s. 166(1)),
-- [^key-10ed4a77fee026278d97a34b9a31bc71]...
+- [^c-10ed4a77fee026278d97a34b9a31bc71]...
 - “Objective 1” (support for commercial purchaser or bridge bank – ss. 137 & 138),
 - “Objective 1 Achievement Notice” (s. 139(4)),
 - “Objective 2” (normal administration – ss. 137 & 140),
 - “residual bank” (s. 136(2)), and
 - “resolution fund order” (s. 49(3)).
 
-**5.**[^key-d19fb5255f9694030dd9d7fa62e4feab] In these Rules—
+**5.**[^c-d19fb5255f9694030dd9d7fa62e4feab] In these Rules—
 
 - (a) “the FSCS” means the Financial Services Compensation Scheme (established under Part 15 of the Financial Services and Markets Act 2000[^f00003]) or, where appropriate, the scheme manager of that scheme;
 - (aa)[^M_F_40362fa8-4c4e-4826-fe80-6ff30fe628c3] “the appropriate regulator” in relation to a bank means—
@@ -89,11 +89,11 @@ The following expressions used in these Rules take their meaning from the Bankin
 - (d) A reference to personal service is a reference to personal service in accordance with Order 65 of the Supreme Court Rules (service of documents); and
 - (e) A reference to a witness statement (including a reference implied by the application of an enactment) is a reference to a witness statement verified by a statement of truth.
 
-### 6. Overview[^key-ee92946ca516d803c1027f8c2c534825]
+### 6. Overview[^c-ee92946ca516d803c1027f8c2c534825]
 
 The purpose of these Rules is to prescribe a procedure for the appointment of a bank administrator, and the operation of bank administration, under Part 3 of the 2009 Act in Northern Ireland.
 
-### 7. Forms[^key-4e9604f19741d7a0b76ecc021279af03]
+### 7. Forms[^c-4e9604f19741d7a0b76ecc021279af03]
 
 (1) This Rule applies where a provision of these Rules—
 
@@ -104,11 +104,11 @@ The purpose of these Rules is to prescribe a procedure for the appointment of a 
 
 ## PART 2 — Application for Bank Administration Order
 
-### 8. Introduction[^key-1261c716ce841083bff25e21fa60b098]
+### 8. Introduction[^c-1261c716ce841083bff25e21fa60b098]
 
 This Part makes specific provision for a number of aspects of applications for bank administration orders; Part 5 applies a number of provisions of the 1991 Rules to applications for bank administration orders (with specified modifications).
 
-### 9. Content of application[^key-49e8ca0556747c2eeada643030c310f5]
+### 9. Content of application[^c-49e8ca0556747c2eeada643030c310f5]
 
 An application by the Bank of England for a bank administration order in respect of a bank must specify—
 
@@ -119,9 +119,9 @@ An application by the Bank of England for a bank administration order in respect
 - (e) the address of the Bank of England, and
 - (f) the identity of the person (or persons) nominated for appointment as bank administrator.
 
-**10.**[^key-bfa2c069bf07fe696b1dc4ff39485cb9] If the bank has notified the Bank of England of an address for service which is, because of special circumstances, to be used in place of the registered office, that address shall be specified under Rule 9(c).
+**10.**[^c-bfa2c069bf07fe696b1dc4ff39485cb9] If the bank has notified the Bank of England of an address for service which is, because of special circumstances, to be used in place of the registered office, that address shall be specified under Rule 9(c).
 
-### 11. Statement of proposed bank administrator[^key-b52f48e748c05e8e53fdd1da96fd4ea0]
+### 11. Statement of proposed bank administrator[^c-b52f48e748c05e8e53fdd1da96fd4ea0]
 
 An application must be accompanied by a statement by the proposed bank administrator—
 
@@ -130,7 +130,7 @@ An application must be accompanied by a statement by the proposed bank administr
 - (c) giving details of the person’s (or each person’s) qualification to act as an insolvency practitioner; and
 - (d) giving details of any prior professional relationship that the person (or any of them) has had with the bank.
 
-### 12. Bank of England witness statement[^key-a34d0477ffa1fa34495ba8d9d5b166cb]
+### 12. Bank of England witness statement[^c-a34d0477ffa1fa34495ba8d9d5b166cb]
 
 An application for a bank administration order in respect of a bank must be accompanied by a witness statement sworn on behalf of the Bank of England—
 
@@ -138,24 +138,24 @@ An application for a bank administration order in respect of a bank must be acco
 - (b) stating the bank’s current financial position to the best of the Bank of England’s knowledge and belief (including actual, contingent and prospective assets and liabilities);
 - (c) specifying any security which the Bank of England knows or believes to be held by a creditor of the bank;
 - (d) specifying whether any security confers power to appoint an administrator under paragraph 15 of Schedule B1 to the Order (holder of qualifying floating charge) or an administrative receiver (and whether an administrative receiver has been appointed);
-- (e) specifying any insolvency proceedings which have been instituted in respect of the bank (including any process notified to the Financial Conduct Authority or the Prudential Regulation Authority[^key-47f42baf17684bd28950647d71281e01] under section 120 of the 2009 Act);
+- (e) specifying any insolvency proceedings which have been instituted in respect of the bank (including any process notified to the Financial Conduct Authority or the Prudential Regulation Authority[^c-47f42baf17684bd28950647d71281e01] under section 120 of the 2009 Act);
 - (f) giving details of the property transfer instrument which the Bank of England has made or intends to make in respect of the bank;
 - (g) where the property transfer instrument has not yet been made, explaining what effect it is likely to have on the bank’s financial position;
 - (h) specifying how functions are to be apportioned where more than one person is to be appointed as bank administrator (stating, in particular, whether functions are to be exercisable jointly or concurrently); and
 - (i) including any other material which the Bank of England thinks may help the court to decide whether to make the bank administration order.
 
-### 13. Filing[^key-1d9d658eacc098d940027698d0b8fbd1]
+### 13. Filing[^c-1d9d658eacc098d940027698d0b8fbd1]
 
 The application, and its accompanying documents, must be filed with the court, together with enough copies of the application and accompanying documents for service under Rule 15.
 
-**14.**[^key-f3db19d52254e367742dba537c8b73b2] Each filed copy—
+**14.**[^c-f3db19d52254e367742dba537c8b73b2] Each filed copy—
 
 - (a) shall have the seal of the court applied to it;
 - (b) shall be endorsed with the date and time of filing;
 - (c) shall be endorsed with the venue for the hearing of the application (fixed by the court under Rule 21); and
 - (d) shall be issued to the Bank of England.
 
-### 15. Service[^key-18f7873b30229428c5cefa03ceec44cb]
+### 15. Service[^c-18f7873b30229428c5cefa03ceec44cb]
 
 The Bank of England shall serve the application—
 
@@ -165,11 +165,11 @@ The Bank of England shall serve the application—
 - (d) on any person who has given notice to the Financial Conduct Authority or the Prudential Regulation Authority[^M_F_8a980d7b-6689-4961-a3c3-5f03d1ff778d] in respect of the bank under section 120 of the 2009 Act (bank insolvency: notice of preliminary steps of other insolvency procedures); and
 - (e) if the property transfer instrument was made or is to be made under section 11(2)(b) of the 2009 Act (transfer to commercial purchaser), on each transferee.
 
-**16.**[^key-d8071b28e8c154fc806af663467e1454] Service under rule 15 shall be service of a sealed and endorsed copy of the application and its accompanying documents issued under rule 14.
+**16.**[^c-d8071b28e8c154fc806af663467e1454] Service under rule 15 shall be service of a sealed and endorsed copy of the application and its accompanying documents issued under rule 14.
 
-**17.**[^key-acac2b259140a116030655085f257fe7] Service must be effected as soon as is reasonably practicable, having regard in particular to the need to give the bank’s representatives a reasonable opportunity to attend the hearing.
+**17.**[^c-acac2b259140a116030655085f257fe7] Service must be effected as soon as is reasonably practicable, having regard in particular to the need to give the bank’s representatives a reasonable opportunity to attend the hearing.
 
-**18.**[^key-fc66df9e2610e5f9df2441b442d0de61] (1) Service must be effected—
+**18.**[^c-fc66df9e2610e5f9df2441b442d0de61] (1) Service must be effected—
 
 - (a) by personal service to an address that the person has notified to the Bank of England as an address for service;
 - (b) by personal service to the person’s registered office (where no address for service has been notified);
@@ -178,22 +178,22 @@ The Bank of England shall serve the application—
 
 (2) If the Bank of England knows of an email address that is habitually used for business purposes by a person on whom service is required, the Bank must (in addition to service by hand) as soon as is reasonably practicable send by email an electronic copy of a sealed and endorsed copy of the application and its accompanying documents.
 
-**19.**[^key-87d6c4768b13ddbfc0c661d690edf4a2] (1) Service of the application shall be verified by a witness statement specifying the date on which, and the manner in which, service was effected.
+**19.**[^c-87d6c4768b13ddbfc0c661d690edf4a2] (1) Service of the application shall be verified by a witness statement specifying the date on which, and the manner in which, service was effected.
 
 (2) The witness statement, with a sealed copy of the application attached to it, shall be filed with the court—
 
 - (a) as soon as is reasonably practicable, and
 - (b) in any event, before the hearing of the application.
 
-### 20. Other notification[^key-9d9f0af1dff5e828cc9914a45267bf2c]
+### 20. Other notification[^c-9d9f0af1dff5e828cc9914a45267bf2c]
 
 As soon as is reasonably practicable after filing the application the Bank of England must notify—
 
 - (a) any enforcement officer or other officer whom the Bank of England knows to be charged with effecting an execution or other legal process against the bank or its property;
 - (b) any person whom the Bank of England knows to have distrained against the bank or its property; and
-- (c) the appropriate regulator[^key-0c615f2d5f1a339240496d9d1b8f0305] .
+- (c) the appropriate regulator[^c-0c615f2d5f1a339240496d9d1b8f0305] .
 
-### 21. Venue[^key-ff14ce4e211f20a6becdc01afb42e0c5]
+### 21. Venue[^c-ff14ce4e211f20a6becdc01afb42e0c5]
 
 (1) The court shall fix the venue for the hearing when the application is filed.
 
@@ -202,7 +202,7 @@ As soon as is reasonably practicable after filing the application the Bank of En
 - (a) the desirability of the application being heard as soon as is reasonably practicable; and
 - (b) the need for the bank’s representatives to be able to reach the venue in time for the hearing.
 
-### 22. Hearing[^key-08c111c1057fa9cb11ae663a005c7a19]
+### 22. Hearing[^c-08c111c1057fa9cb11ae663a005c7a19]
 
 At the hearing of the application, any of the following may appear or be represented—
 
@@ -214,21 +214,21 @@ At the hearing of the application, any of the following may appear or be represe
 - (f) any person who has given notice to the Financial Conduct Authority or the Prudential Regulation Authority[^M_F_edeb53d4-9708-4097-a481-d2d4ed7287a3] in respect of the bank under section 120 of the 2009 Act (bank insolvency: notice of preliminary steps of other insolvency procedures), and
 - (g) with the permission of the court, any other person who appears to have an interest.
 
-### 23. The order[^key-6e494836f56ee99f962a46198c85a10a]
+### 23. The order[^c-6e494836f56ee99f962a46198c85a10a]
 
 A bank administration order must be in Form 2.04B as specified in Rule 2.012(2) of the 1991 Rules.
 
-### 24. Notice of order[^key-1410daab813414855d89d0e917dd88c3]
+### 24. Notice of order[^c-1410daab813414855d89d0e917dd88c3]
 
-If the court makes a bank administration order, it shall send four or, if the bank is a[^key-688370d8527b82d3a487fe45af093d91] PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), five sealed copies to the Bank of England.
+If the court makes a bank administration order, it shall send four or, if the bank is a[^c-688370d8527b82d3a487fe45af093d91] PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), five sealed copies to the Bank of England.
 
-**25.**[^key-e891684952f52612ed89406fa9c22656] The Bank of England shall as soon as is reasonably practicable send—
+**25.**[^c-e891684952f52612ed89406fa9c22656] The Bank of England shall as soon as is reasonably practicable send—
 
 - (a) one sealed copy to the bank administrator;
 - (b) one sealed copy to the appropriate regulator; and
 - (c) one sealed copy to the FSCS.
 
-### 26. Costs[^key-cf5fbef4af8428d9322ba75056570e01]
+### 26. Costs[^c-cf5fbef4af8428d9322ba75056570e01]
 
 If the court makes a bank administration order, the following are payable as an expense of the bank administration—
 
@@ -237,11 +237,11 @@ If the court makes a bank administration order, the following are payable as an 
 
 ## PART 3 — Process of Bank Administration
 
-### 27. Introduction[^key-1cdd000354ed4630feb34f90eedf991b]
+### 27. Introduction[^c-1cdd000354ed4630feb34f90eedf991b]
 
 This Part makes specific provision for a number of aspects of bank administration; Part 5 applies a number of provisions of the 1991 Rules to bank administration (with specified modifications).
 
-### 28. Bank administrator’s proposals: Objective 1 Stage[^key-f2b1805e34a66c97227773e8d914b688]
+### 28. Bank administrator’s proposals: Objective 1 Stage[^c-f2b1805e34a66c97227773e8d914b688]
 
 (1) This Rule makes provision about the statement of proposals which the bank administrator is required to make in the Objective 1 Stage under section 147 of the 2009 Act.
 
@@ -275,7 +275,7 @@ This Part makes specific provision for a number of aspects of bank administratio
 - (a) may exclude information, the disclosure of which could seriously prejudice the commercial interests of the bank; and
 - (b) shall include a statement of any exclusion.
 
-### 29. Bank administrator’s proposals: Objective 2 Stage[^key-4eccee43353f21a521b350cef2823bd7]
+### 29. Bank administrator’s proposals: Objective 2 Stage[^c-4eccee43353f21a521b350cef2823bd7]
 
 (1) This Rule makes provision about the statement of proposals which the bank administrator is required to make under paragraph 50 of Schedule B1 to the Order as it applies during the Objective 2 Stage (in accordance with Table 1 in section 145(6) of the 2009 Act).
 
@@ -318,18 +318,18 @@ This Part makes specific provision for a number of aspects of bank administratio
 - (a) may exclude information, the disclosure of which could seriously prejudice the commercial interests of the bank; and
 - (b) shall include a statement of any exclusion.
 
-**30.**[^key-710db2bc6354f251ded946f185c6fcdf] If the bank administrator thinks that the statement made under section 147 of the 2009 Act in accordance with Rule 28 contains information required by Rule 29(2), the statement under paragraph 50 of Schedule B1 to the Order (as applied by Table 1 in section 145(6) of the 2009 Act) may consist of the statement under section 147, with such additions, modifications and supplemental information as the bank administrator thinks necessary—
+**30.**[^c-710db2bc6354f251ded946f185c6fcdf] If the bank administrator thinks that the statement made under section 147 of the 2009 Act in accordance with Rule 28 contains information required by Rule 29(2), the statement under paragraph 50 of Schedule B1 to the Order (as applied by Table 1 in section 145(6) of the 2009 Act) may consist of the statement under section 147, with such additions, modifications and supplemental information as the bank administrator thinks necessary—
 
 - (a) to comply with Rule 29(2); and
 - (b) to bring the statement under section 147 up to date.
 
-**31.**[^key-2afad03ea956dab37034b1b13b9dab9e] Where the court orders an extension of the period of time under paragraph 50(5) of Schedule B1 to the Order on an application by the bank administrator under paragraph 108 of that Schedule (as applied by Table 1 in section 145(6) of the 2009 Act), the bank administrator must notify the persons set out in paragraph 50(4) of that Schedule as soon as is reasonably practicable after the making of the order.
+**31.**[^c-2afad03ea956dab37034b1b13b9dab9e] Where the court orders an extension of the period of time under paragraph 50(5) of Schedule B1 to the Order on an application by the bank administrator under paragraph 108 of that Schedule (as applied by Table 1 in section 145(6) of the 2009 Act), the bank administrator must notify the persons set out in paragraph 50(4) of that Schedule as soon as is reasonably practicable after the making of the order.
 
-**32.**[^key-3ee75e0ed21bdaee9ebea75104678942] Where the bank administrator has made a statement under paragraph 50(1) of Schedule B1 (as applied by Table 1 in section 145(6) of the 2009 Act) and has not called an initial meeting of creditors, the proposals issued in accordance with Rule 29 will be deemed to have been approved by the creditors (if no meeting has been requisitioned under paragraph 53(2) of that Schedule within the period set out in Rule 2.038(1) of the 1991 Rules – as applied by Rule 58 ).
+**32.**[^c-3ee75e0ed21bdaee9ebea75104678942] Where the bank administrator has made a statement under paragraph 50(1) of Schedule B1 (as applied by Table 1 in section 145(6) of the 2009 Act) and has not called an initial meeting of creditors, the proposals issued in accordance with Rule 29 will be deemed to have been approved by the creditors (if no meeting has been requisitioned under paragraph 53(2) of that Schedule within the period set out in Rule 2.038(1) of the 1991 Rules – as applied by Rule 58 ).
 
-**33.**[^key-390db0186752bda4920c6e45c55a022c] Where the bank administrator intends to apply to the court (or file a notice under paragraph 81(2) of Schedule B1 in accordance with section 153 of the 2009 Act) for the bank administration to cease before the statement of proposals is sent to creditors in accordance with paragraph 50 of Schedule B1, the bank administrator must, at least 10 days before making the application (or filing the notice), send to all known creditors of the bank a report containing the information required by Rule 29(2).
+**33.**[^c-390db0186752bda4920c6e45c55a022c] Where the bank administrator intends to apply to the court (or file a notice under paragraph 81(2) of Schedule B1 in accordance with section 153 of the 2009 Act) for the bank administration to cease before the statement of proposals is sent to creditors in accordance with paragraph 50 of Schedule B1, the bank administrator must, at least 10 days before making the application (or filing the notice), send to all known creditors of the bank a report containing the information required by Rule 29(2).
 
-**34.**[^key-2b40984036e8b8b2f840e94a69dbad1a] (1) A bank administrator who wishes to publish a notice under paragraph 50(6) of Schedule B1 shall publish the notice once in a newspaper which the bank administrator thinks most appropriate for ensuring that the notice comes to the attention of the bank’s members.
+**34.**[^c-2b40984036e8b8b2f840e94a69dbad1a] (1) A bank administrator who wishes to publish a notice under paragraph 50(6) of Schedule B1 shall publish the notice once in a newspaper which the bank administrator thinks most appropriate for ensuring that the notice comes to the attention of the bank’s members.
 
 (2) The notice shall—
 
@@ -340,7 +340,7 @@ This Part makes specific provision for a number of aspects of bank administratio
 
 (3) The notice shall be published as soon as is reasonably practicable after the bank administrator sends the statement of proposals to the bank’s creditors but no later than 8 weeks (or such other period as may be agreed by the creditors or as the court may order) from the date that the bank entered bank administration.
 
-### 35. Reports to creditors[^key-c4270f93a3256531ad56d8302b996554]
+### 35. Reports to creditors[^c-c4270f93a3256531ad56d8302b996554]
 
 (1) “Progress report” means a report which includes—
 
@@ -370,13 +370,13 @@ This Part makes specific provision for a number of aspects of bank administratio
 - (a) may exclude information, the disclosure of which could seriously prejudice the commercial interests of the bank; and
 - (b) shall include a statement of any exclusion.
 
-**36.**[^key-85340943d5fc41ecf691cf141d7486da] A progress report shall be produced for—
+**36.**[^c-85340943d5fc41ecf691cf141d7486da] A progress report shall be produced for—
 
 - (a) the first period of 6 months of the bank administration;
 - (b) every subsequent period of 6 months; and
 - (c) when the bank administrator ceases to act, the period from the date of the previous report (or, if there was none, from the beginning of the bank administration) until the administrator ceases to act.
 
-**37.**[^key-3f9eaa29d5ce61d4dd0421e7f9ae29b9] (1) The bank administrator must send a copy of each progress report within 28 days of the end of the period covered by the report, to—
+**37.**[^c-3f9eaa29d5ce61d4dd0421e7f9ae29b9] (1) The bank administrator must send a copy of each progress report within 28 days of the end of the period covered by the report, to—
 
 - (a) the creditors,
 - (b) the court,
@@ -392,11 +392,11 @@ This Part makes specific provision for a number of aspects of bank administratio
 - (a) extend the period specified in paragraph (1);
 - (b) make any other order about the content of a progress report.
 
-**38.**[^key-763e7b09c58aebfcf8b84ba0f11ed053] (1) A bank administrator who fails to comply with Rules 36 and 37 is liable to a fine and, for continued contravention, to a daily default fine.
+**38.**[^c-763e7b09c58aebfcf8b84ba0f11ed053] (1) A bank administrator who fails to comply with Rules 36 and 37 is liable to a fine and, for continued contravention, to a daily default fine.
 
 (2) For that purpose, failure to comply with Rules 36 and 37 shall be treated in the same way as failure to comply with Rule 2.048 of the 1991 Rules.
 
-### 39. Removal of bank administrator in Objective 1 Stage[^key-9e8f0b65c7023206e4c83cfdd6c42ad2]
+### 39. Removal of bank administrator in Objective 1 Stage[^c-9e8f0b65c7023206e4c83cfdd6c42ad2]
 
 (1) This Rule is about an application for removal of a bank administrator made by the Bank of England during the Objective 1 Stage (in accordance with the modifications for the application of paragraph 91 of Schedule B1 to the Order in Table 1 in section 145(6) of the 2009 Act).
 
@@ -404,28 +404,28 @@ This Part makes specific provision for a number of aspects of bank administratio
 
 (3) But both the person proposed to be appointed as a replacement and the existing bank administrator are entitled to be served and heard.
 
-### 40. Appointment of provisional bank administrator[^key-6f41df2ef95b5fb995f081e27106e26b]
+### 40. Appointment of provisional bank administrator[^c-6f41df2ef95b5fb995f081e27106e26b]
 
 An application to the court for the appointment of a provisional bank administrator under Article 115 of the Order (as applied by Table 2 in section 145(6) of the 2009 Act) may be made by the Bank of England.
 
-**41.**[^key-e93a2422a6023e1fccbd9aa9940efb6e] The application must be supported by a witness statement stating—
+**41.**[^c-e93a2422a6023e1fccbd9aa9940efb6e] The application must be supported by a witness statement stating—
 
 - (a) why the Bank of England thinks that a provisional bank administrator should be appointed;
 - (b) that the person to be appointed has consented to act;
 - (c) that the person to be appointed is qualified to act as an insolvency practitioner; and
 - (d) the Bank of England’s estimate of the value of the assets in respect of which the provisional bank administrator is to be appointed.
 
-**42.**[^key-365158d4831746ef2074c4eaec6bd267] If satisfied that sufficient grounds are shown for the appointment, the court may make it on such terms as it thinks fit.
+**42.**[^c-365158d4831746ef2074c4eaec6bd267] If satisfied that sufficient grounds are shown for the appointment, the court may make it on such terms as it thinks fit.
 
-**43.**[^key-909677c60dac8304e22034b395701170] An order appointing a provisional bank administrator must specify the functions to be carried out in relation to the bank’s affairs.
+**43.**[^c-909677c60dac8304e22034b395701170] An order appointing a provisional bank administrator must specify the functions to be carried out in relation to the bank’s affairs.
 
-**44.**[^key-2631a6c3c3f13e71b712eab516a6d7c4] If the court makes an order appointing a provisional bank administrator the court shall—
+**44.**[^c-2631a6c3c3f13e71b712eab516a6d7c4] If the court makes an order appointing a provisional bank administrator the court shall—
 
 - (a) notify the Bank of England;
 - (b) send 4 or, if the bank is a[^M_F_f0e9456b-4fd7-42b6-fb1a-bbe88bf80ad2] PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), 5 copies of the order to the person appointed (by email if possible); and
 - (c) send a copy of the order to any administrative receiver of the bank.
 
-**45.**[^key-ca02a326f436f34fe3be6af9e35b020c] (1) As soon as is reasonably practicable after appointment a provisional bank administrator must send a copy of the order of appointment to—
+**45.**[^c-ca02a326f436f34fe3be6af9e35b020c] (1) As soon as is reasonably practicable after appointment a provisional bank administrator must send a copy of the order of appointment to—
 
 - (a) the bank,
 - (b) the appropriate regulator, and
@@ -433,9 +433,9 @@ An application to the court for the appointment of a provisional bank administra
 
 (2) Notice to the bank must be given by personal service in accordance with rule 18.
 
-**46.**[^key-5cb8acdecd693c29efcd46bd1220eafa] The Bank of England may disclose the fact and terms of an order appointing a provisional bank administrator to any person whom the Bank thinks has a sufficient business interest.
+**46.**[^c-5cb8acdecd693c29efcd46bd1220eafa] The Bank of England may disclose the fact and terms of an order appointing a provisional bank administrator to any person whom the Bank thinks has a sufficient business interest.
 
-### 47. Additional joint bank administrator[^key-6099975bdb9e7dc9fed054fc8066827b]
+### 47. Additional joint bank administrator[^c-6099975bdb9e7dc9fed054fc8066827b]
 
 (1) The process for the appointment of an additional joint bank administrator is the same as for the initial appointment of a bank administrator.
 
@@ -448,7 +448,7 @@ An application to the court for the appointment of a provisional bank administra
 
 (4) Rule 58 applies Rule 2.128 of the 1991 Rules (notification and advertisement of the appointment of an additional joint administrator).
 
-### 48. End of administration: successful rescue[^key-8fc23704aec5cfe769d76978dfa7c074]
+### 48. End of administration: successful rescue[^c-8fc23704aec5cfe769d76978dfa7c074]
 
 (1) This Rule supplements section 150 of the 2009 Act (end of bank administration where bank administrator satisfied that Objective 2 (a) has been achieved).
 
@@ -482,7 +482,7 @@ An application to the court for the appointment of a provisional bank administra
 - (a) discharge the bank administration order; and
 - (b) notify the bank administrator, who shall notify the registrar of companies.
 
-### 49. End of administration: dissolution[^key-1a5a668def888749d4cab4bd2ea521bb]
+### 49. End of administration: dissolution[^c-1a5a668def888749d4cab4bd2ea521bb]
 
 (1) This Rule supplements section 154(2)(a) of the 2009 Act (bank administrator giving notice under paragraph 85 of Schedule B1 to the Order that there are no more assets for distribution, and moving to dissolution).
 
@@ -507,15 +507,15 @@ An application to the court for the appointment of a provisional bank administra
 
 ## PART 4 — Court Procedure and Practice
 
-### 50. Introduction[^key-4c79a03f618bbd36b0cb382ba9b8c2ad]
+### 50. Introduction[^c-4c79a03f618bbd36b0cb382ba9b8c2ad]
 
 This Part makes specific provision for a number of aspects of proceedings under Part 3 of the 2009 Act (bank administration); Part 5 of these Rules applies a number of provisions of the 1991 Rules to proceedings under the 2009 Act (with specified modifications).
 
-### 51. Title of proceedings[^key-c7775c0f9c46eb69a9e391bb8d429923]
+### 51. Title of proceedings[^c-c7775c0f9c46eb69a9e391bb8d429923]
 
 Proceedings under Part 3 of the 2009 Act shall be entitled “IN THE MATTER OF … (naming the bank to which the proceedings relate) AND IN THE MATTER OF PART 3 OF THE BANKING ACT 2009”.
 
-### 52. Right to inspect file[^key-16e84e82e036e0343fbdf867ff2d2b0d]
+### 52. Right to inspect file[^c-16e84e82e036e0343fbdf867ff2d2b0d]
 
 The following have the right, at all reasonable times, to inspect the court’s file in respect of bank administration proceedings—
 
@@ -528,32 +528,32 @@ The following have the right, at all reasonable times, to inspect the court’s 
 - (g) the appropriate regulator; and
 - (h) the FSCS.
 
-**53.**[^key-a0acdedae1849fe1340a833990836645] A right of inspection may be exercised on a person’s behalf by anyone authorised by him in writing.
+**53.**[^c-a0acdedae1849fe1340a833990836645] A right of inspection may be exercised on a person’s behalf by anyone authorised by him in writing.
 
-**54.**[^key-6de15ca04bc300b082c595016794f88e] Any person may, with permission of the court, inspect the court’s file in respect of bank administration proceedings.
+**54.**[^c-6de15ca04bc300b082c595016794f88e] Any person may, with permission of the court, inspect the court’s file in respect of bank administration proceedings.
 
-**55.**[^key-fc8803000ba80caa366567953e2d4405] A right of inspection is not exercisable in the case of documents, or parts of documents, as to which the court directs that they are not to be made open to inspection without the court’s permission; and an application for a direction may be made by—
+**55.**[^c-fc8803000ba80caa366567953e2d4405] A right of inspection is not exercisable in the case of documents, or parts of documents, as to which the court directs that they are not to be made open to inspection without the court’s permission; and an application for a direction may be made by—
 
 - (a) the bank administrator or provisional bank administrator; or
 - (b) any person appearing to the court to have an interest.
 
-**56.**[^key-8bdd394d1e676e3f4e2b1a284607f98e] Rule 7.25(2) and (3) of the 1991 Rules (as applied by Rule 58) apply in respect of the court’s file of bank administration proceedings as they apply in respect of court records.
+**56.**[^c-8bdd394d1e676e3f4e2b1a284607f98e] Rule 7.25(2) and (3) of the 1991 Rules (as applied by Rule 58) apply in respect of the court’s file of bank administration proceedings as they apply in respect of court records.
 
-**57.**[^key-75dfc2598199fce62f838e9bc04f72a4] Proceedings under Articles 177 and 178 of the Order (fraudulent and wrongful trading) shall be conducted in accordance with Article 179 of that Order subject to the modifications specified in section 145 of the 2009 Act.
+**57.**[^c-75dfc2598199fce62f838e9bc04f72a4] Proceedings under Articles 177 and 178 of the Order (fraudulent and wrongful trading) shall be conducted in accordance with Article 179 of that Order subject to the modifications specified in section 145 of the 2009 Act.
 
 ## PART 5 — Application of Insolvency Rules (Northern Ireland) 1991
 
-### 58. General application[^key-56e7b7de2d89b6522d39a5d8b5b103a6]
+### 58. General application[^c-56e7b7de2d89b6522d39a5d8b5b103a6]
 
 The provisions of the 1991 Rules listed in the Table in Rule 61 apply for the purposes of bank administration and applications for bank administration.
 
-**59.**[^key-05d7af0ed3323635bd485c95bf560eb7] For that purpose the rules apply with—
+**59.**[^c-05d7af0ed3323635bd485c95bf560eb7] For that purpose the rules apply with—
 
 - (a) the general modifications set out in Rule 60;
 - (b) any specific modification set out in the Table in Rule 61; and
 - (c) any other necessary modification.
 
-### 60. General modifications[^key-0b3820f5ccdc9e32a33d5c63ed7344c2]
+### 60. General modifications[^c-0b3820f5ccdc9e32a33d5c63ed7344c2]
 
 The general modifications are that—
 
@@ -570,7 +570,7 @@ The general modifications are that—
 - (k) a reference in the rules to a paragraph of Schedule B1 to the Insolvency (Northern Ireland) Order 1989 is to be treated as a reference to that paragraph as applied and modified by section 145 of the Banking Act 2009; and
 - (l) a reference to the Insolvency (Northern Ireland) Order 1989 includes a reference to Part 3 of the Banking Act 2009.
 
-### 61. Table of applications and specific modifications[^key-b97a95f5b8739df8f6ad97e739153776]
+### 61. Table of applications and specific modifications[^c-b97a95f5b8739df8f6ad97e739153776]
 
 This Rule contains the Table of applied Insolvency Rules.
 
@@ -858,148 +858,148 @@ Part 5 of the Rules applies specified provisions of the Insolvency Rules (Northe
 
 [^f00002]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
-[^key-ab03b11af194d7010be3e9c89f1a53c9]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2009/63) applied (with modifications) (23.11.2009) by [The Scottish and Northern Ireland Banknote Regulations 2009 (S.I. 2009/3056)](https://www.legislation.gov.uk/uksi/2009/3056), [reg. 1](https://www.legislation.gov.uk/uksi/2009/3056/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2009/3056/schedule/1/paragraph/7)
+[^c-ab03b11af194d7010be3e9c89f1a53c9]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2009/63) applied (with modifications) (23.11.2009) by [The Scottish and Northern Ireland Banknote Regulations 2009 (S.I. 2009/3056)](https://www.legislation.gov.uk/uksi/2009/3056), [reg. 1](https://www.legislation.gov.uk/uksi/2009/3056/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2009/3056/schedule/1/paragraph/7)
 
-[^key-a438bef090ab2c804291366268a9cfc1]: Commencement: Rule 1 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-a438bef090ab2c804291366268a9cfc1]: Commencement: Rule 1 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-df4872feaf7b109441deb9cb43c775a4]: Commencement: Rule 2 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-df4872feaf7b109441deb9cb43c775a4]: Commencement: Rule 2 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-1317e69df93520b34eb5bc2d472279fa]: Commencement: Rule 3 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-1317e69df93520b34eb5bc2d472279fa]: Commencement: Rule 3 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-b7083ae30ef896632ef28d1026cd38e1]: Commencement: Rule 4 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-b7083ae30ef896632ef28d1026cd38e1]: Commencement: Rule 4 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-883b4eb82cb79925d048e703c90ac018]: Textual amendment: Words in [rule. 4](https://www.legislation.gov.uk/nisr/2009/63/article/4) inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/31)
+[^c-883b4eb82cb79925d048e703c90ac018]: Textual amendment: Words in [rule. 4](https://www.legislation.gov.uk/nisr/2009/63/article/4) inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/31)
 
-[^key-10ed4a77fee026278d97a34b9a31bc71]: Textual amendment: Words in [rule. 4](https://www.legislation.gov.uk/nisr/2009/63/article/4) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 153(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/153/a)
+[^c-10ed4a77fee026278d97a34b9a31bc71]: Textual amendment: Words in [rule. 4](https://www.legislation.gov.uk/nisr/2009/63/article/4) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 153(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/153/a)
 
-[^key-d19fb5255f9694030dd9d7fa62e4feab]: Commencement: Rule 5 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-d19fb5255f9694030dd9d7fa62e4feab]: Commencement: Rule 5 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
 [^f00003]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^M_F_40362fa8-4c4e-4826-fe80-6ff30fe628c3]: Textual amendment: Words in rule 5 inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 153(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/153/b)
 
-[^key-ee92946ca516d803c1027f8c2c534825]: Commencement: Rule 6 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-ee92946ca516d803c1027f8c2c534825]: Commencement: Rule 6 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-4e9604f19741d7a0b76ecc021279af03]: Commencement: Rule 7 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-4e9604f19741d7a0b76ecc021279af03]: Commencement: Rule 7 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
 [^f00004]: Footnote: The Insolvency Rules (Northern Ireland) 1991 ([S.R. 1991 No. 364](https://www.legislation.gov.uk/nisr/1991/364)), as amended by the Insolvency (Amendment) Rules (Northern Ireland) 1994 ([S.R. 1994 No. 26](https://www.legislation.gov.uk/nisr/1994/26)), the Insolvency (Amendment) Rules (Northern Ireland) 1995 ([S.R. 1995 No. 291](https://www.legislation.gov.uk/nisr/1995/291)), the Insolvency (Amendment) Rules (Northern Ireland) 2000 ([S.R. 2000 No. 247](https://www.legislation.gov.uk/nisr/2000/247)), the Insolvency (Amendment) Rules (Northern Ireland) 2002 ([S.R. 2002 No. 261](https://www.legislation.gov.uk/nisr/2002/261)), the Insolvency (Amendment) Rules (Northern Ireland) 2003 ([S.R. 2003 No. 549](https://www.legislation.gov.uk/nisr/2003/549)), the Insolvency (Amendment) Rules (Northern Ireland) 2006 ([S.R. 2006 No. 47](https://www.legislation.gov.uk/nisr/2006/47)), the Insolvency (Amendment) Rules (Northern Ireland) 2008 ([S.R. 2008 No. 118](https://www.legislation.gov.uk/nisr/2008/118)) and the Financial Services and Markets Act 2000 (Consequential Amendments) Order 2004 ([S.I. 2004/355](https://www.legislation.gov.uk/uksi/2004/355))
 
-[^key-1261c716ce841083bff25e21fa60b098]: Commencement: Rule 8 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-1261c716ce841083bff25e21fa60b098]: Commencement: Rule 8 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-49e8ca0556747c2eeada643030c310f5]: Commencement: Rule 9 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-49e8ca0556747c2eeada643030c310f5]: Commencement: Rule 9 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-bfa2c069bf07fe696b1dc4ff39485cb9]: Commencement: Rule 10 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-bfa2c069bf07fe696b1dc4ff39485cb9]: Commencement: Rule 10 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-b52f48e748c05e8e53fdd1da96fd4ea0]: Commencement: Rule 11 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-b52f48e748c05e8e53fdd1da96fd4ea0]: Commencement: Rule 11 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-a34d0477ffa1fa34495ba8d9d5b166cb]: Commencement: Rule 12 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-a34d0477ffa1fa34495ba8d9d5b166cb]: Commencement: Rule 12 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-47f42baf17684bd28950647d71281e01]: Textual amendment: Words in [rule. 12(e)](https://www.legislation.gov.uk/nisr/2009/63/article/12/e) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 153(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/153/c)
+[^c-47f42baf17684bd28950647d71281e01]: Textual amendment: Words in [rule. 12(e)](https://www.legislation.gov.uk/nisr/2009/63/article/12/e) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 153(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/153/c)
 
-[^key-1d9d658eacc098d940027698d0b8fbd1]: Commencement: Rule 13 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-1d9d658eacc098d940027698d0b8fbd1]: Commencement: Rule 13 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-f3db19d52254e367742dba537c8b73b2]: Commencement: Rule 14 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-f3db19d52254e367742dba537c8b73b2]: Commencement: Rule 14 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-18f7873b30229428c5cefa03ceec44cb]: Commencement: Rule 15 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-18f7873b30229428c5cefa03ceec44cb]: Commencement: Rule 15 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
 [^M_F_8a980d7b-6689-4961-a3c3-5f03d1ff778d]: Textual amendment: Words in rule 15(d) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 153(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/153/c)
 
-[^key-d8071b28e8c154fc806af663467e1454]: Commencement: Rule 16 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-d8071b28e8c154fc806af663467e1454]: Commencement: Rule 16 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-acac2b259140a116030655085f257fe7]: Commencement: Rule 17 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-acac2b259140a116030655085f257fe7]: Commencement: Rule 17 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-fc66df9e2610e5f9df2441b442d0de61]: Commencement: Rule 18 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-fc66df9e2610e5f9df2441b442d0de61]: Commencement: Rule 18 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-87d6c4768b13ddbfc0c661d690edf4a2]: Commencement: Rule 19 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-87d6c4768b13ddbfc0c661d690edf4a2]: Commencement: Rule 19 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-9d9f0af1dff5e828cc9914a45267bf2c]: Commencement: Rule 20 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-9d9f0af1dff5e828cc9914a45267bf2c]: Commencement: Rule 20 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-0c615f2d5f1a339240496d9d1b8f0305]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/nisr/2009/63) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 153(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/153/f)
+[^c-0c615f2d5f1a339240496d9d1b8f0305]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/nisr/2009/63) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 153(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/153/f)
 
-[^key-ff14ce4e211f20a6becdc01afb42e0c5]: Commencement: Rule 21 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-ff14ce4e211f20a6becdc01afb42e0c5]: Commencement: Rule 21 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-08c111c1057fa9cb11ae663a005c7a19]: Commencement: Rule 22 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-08c111c1057fa9cb11ae663a005c7a19]: Commencement: Rule 22 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
 [^M_F_edeb53d4-9708-4097-a481-d2d4ed7287a3]: Textual amendment: Words in rule 22(f) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 153(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/153/c)
 
-[^key-6e494836f56ee99f962a46198c85a10a]: Commencement: Rule 23 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-6e494836f56ee99f962a46198c85a10a]: Commencement: Rule 23 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-1410daab813414855d89d0e917dd88c3]: Commencement: Rule 24 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-1410daab813414855d89d0e917dd88c3]: Commencement: Rule 24 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-688370d8527b82d3a487fe45af093d91]: Textual amendment: Words in [rule. 24](https://www.legislation.gov.uk/nisr/2009/63/article/24) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 153(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/153/d)
+[^c-688370d8527b82d3a487fe45af093d91]: Textual amendment: Words in [rule. 24](https://www.legislation.gov.uk/nisr/2009/63/article/24) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 153(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/153/d)
 
-[^key-e891684952f52612ed89406fa9c22656]: Commencement: Rule 25 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-e891684952f52612ed89406fa9c22656]: Commencement: Rule 25 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-cf5fbef4af8428d9322ba75056570e01]: Commencement: Rule 26 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-cf5fbef4af8428d9322ba75056570e01]: Commencement: Rule 26 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-1cdd000354ed4630feb34f90eedf991b]: Commencement: Rule 27 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-1cdd000354ed4630feb34f90eedf991b]: Commencement: Rule 27 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-f2b1805e34a66c97227773e8d914b688]: Commencement: Rule 28 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-f2b1805e34a66c97227773e8d914b688]: Commencement: Rule 28 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-4eccee43353f21a521b350cef2823bd7]: Commencement: Rule 29 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-4eccee43353f21a521b350cef2823bd7]: Commencement: Rule 29 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-710db2bc6354f251ded946f185c6fcdf]: Commencement: Rule 30 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-710db2bc6354f251ded946f185c6fcdf]: Commencement: Rule 30 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-2afad03ea956dab37034b1b13b9dab9e]: Commencement: Rule 31 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-2afad03ea956dab37034b1b13b9dab9e]: Commencement: Rule 31 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-3ee75e0ed21bdaee9ebea75104678942]: Commencement: Rule 32 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-3ee75e0ed21bdaee9ebea75104678942]: Commencement: Rule 32 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-390db0186752bda4920c6e45c55a022c]: Commencement: Rule 33 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-390db0186752bda4920c6e45c55a022c]: Commencement: Rule 33 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-2b40984036e8b8b2f840e94a69dbad1a]: Commencement: Rule 34 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-2b40984036e8b8b2f840e94a69dbad1a]: Commencement: Rule 34 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-c4270f93a3256531ad56d8302b996554]: Commencement: Rule 35 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-c4270f93a3256531ad56d8302b996554]: Commencement: Rule 35 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-85340943d5fc41ecf691cf141d7486da]: Commencement: Rule 36 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-85340943d5fc41ecf691cf141d7486da]: Commencement: Rule 36 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-3f9eaa29d5ce61d4dd0421e7f9ae29b9]: Commencement: Rule 37 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-3f9eaa29d5ce61d4dd0421e7f9ae29b9]: Commencement: Rule 37 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-763e7b09c58aebfcf8b84ba0f11ed053]: Commencement: Rule 38 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-763e7b09c58aebfcf8b84ba0f11ed053]: Commencement: Rule 38 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-9e8f0b65c7023206e4c83cfdd6c42ad2]: Commencement: Rule 39 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-9e8f0b65c7023206e4c83cfdd6c42ad2]: Commencement: Rule 39 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-6f41df2ef95b5fb995f081e27106e26b]: Commencement: Rule 40 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-6f41df2ef95b5fb995f081e27106e26b]: Commencement: Rule 40 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-e93a2422a6023e1fccbd9aa9940efb6e]: Commencement: Rule 41 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-e93a2422a6023e1fccbd9aa9940efb6e]: Commencement: Rule 41 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-365158d4831746ef2074c4eaec6bd267]: Commencement: Rule 42 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-365158d4831746ef2074c4eaec6bd267]: Commencement: Rule 42 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-909677c60dac8304e22034b395701170]: Commencement: Rule 43 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-909677c60dac8304e22034b395701170]: Commencement: Rule 43 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-2631a6c3c3f13e71b712eab516a6d7c4]: Commencement: Rule 44 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-2631a6c3c3f13e71b712eab516a6d7c4]: Commencement: Rule 44 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
 [^M_F_f0e9456b-4fd7-42b6-fb1a-bbe88bf80ad2]: Textual amendment: Words in rule 44(b) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 153(e)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/153/e)
 
-[^key-ca02a326f436f34fe3be6af9e35b020c]: Commencement: Rule 45 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-ca02a326f436f34fe3be6af9e35b020c]: Commencement: Rule 45 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-5cb8acdecd693c29efcd46bd1220eafa]: Commencement: Rule 46 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-5cb8acdecd693c29efcd46bd1220eafa]: Commencement: Rule 46 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-6099975bdb9e7dc9fed054fc8066827b]: Commencement: Rule 47 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-6099975bdb9e7dc9fed054fc8066827b]: Commencement: Rule 47 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-8fc23704aec5cfe769d76978dfa7c074]: Commencement: Rule 48 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-8fc23704aec5cfe769d76978dfa7c074]: Commencement: Rule 48 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-1a5a668def888749d4cab4bd2ea521bb]: Commencement: Rule 49 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-1a5a668def888749d4cab4bd2ea521bb]: Commencement: Rule 49 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-4c79a03f618bbd36b0cb382ba9b8c2ad]: Commencement: Rule 50 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-4c79a03f618bbd36b0cb382ba9b8c2ad]: Commencement: Rule 50 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-c7775c0f9c46eb69a9e391bb8d429923]: Commencement: Rule 51 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-c7775c0f9c46eb69a9e391bb8d429923]: Commencement: Rule 51 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-16e84e82e036e0343fbdf867ff2d2b0d]: Commencement: Rule 52 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-16e84e82e036e0343fbdf867ff2d2b0d]: Commencement: Rule 52 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-a0acdedae1849fe1340a833990836645]: Commencement: Rule 53 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-a0acdedae1849fe1340a833990836645]: Commencement: Rule 53 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-6de15ca04bc300b082c595016794f88e]: Commencement: Rule 54 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-6de15ca04bc300b082c595016794f88e]: Commencement: Rule 54 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-fc8803000ba80caa366567953e2d4405]: Commencement: Rule 55 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-fc8803000ba80caa366567953e2d4405]: Commencement: Rule 55 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-8bdd394d1e676e3f4e2b1a284607f98e]: Commencement: Rule 56 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-8bdd394d1e676e3f4e2b1a284607f98e]: Commencement: Rule 56 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-75dfc2598199fce62f838e9bc04f72a4]: Commencement: Rule 57 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-75dfc2598199fce62f838e9bc04f72a4]: Commencement: Rule 57 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-56e7b7de2d89b6522d39a5d8b5b103a6]: Commencement: Rule 58 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-56e7b7de2d89b6522d39a5d8b5b103a6]: Commencement: Rule 58 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-05d7af0ed3323635bd485c95bf560eb7]: Commencement: Rule 59 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-05d7af0ed3323635bd485c95bf560eb7]: Commencement: Rule 59 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-0b3820f5ccdc9e32a33d5c63ed7344c2]: Commencement: Rule 60 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-0b3820f5ccdc9e32a33d5c63ed7344c2]: Commencement: Rule 60 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
 
-[^key-b97a95f5b8739df8f6ad97e739153776]: Commencement: Rule 61 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)
+[^c-b97a95f5b8739df8f6ad97e739153776]: Commencement: Rule 61 in operation at 25.2.2009, see [rule 2](https://www.legislation.gov.uk/nisr/2009/63/rule/2)

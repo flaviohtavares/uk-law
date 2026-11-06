@@ -50,11 +50,11 @@ In accordance with section 48(4A) and (6) of that Act, the Scottish Ministers ha
 
 There has been consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004].
 
-## 1. Citation and commencement[^key-d172d4066f1eb0a9a887b2459043c4e6]
+## 1. Citation and commencement[^c-d172d4066f1eb0a9a887b2459043c4e6]
 
 These Regulations may be cited as the Novel Foods (Scotland) Regulations 2017 and come into force on 1st January 2018.
 
-## 2. Interpretation[^key-4263bb437a781fb5e636d0b8dc56098c]
+## 2. Interpretation[^c-4263bb437a781fb5e636d0b8dc56098c]
 
 (1) In these Regulations—
 
@@ -67,15 +67,15 @@ These Regulations may be cited as the Novel Foods (Scotland) Regulations 2017 an
 
 (3) Unless the contrary intention appears, any expression used both in these Regulations and Regulation (EU) 2015/2283 has the meaning that it bears in Regulation (EU) 2015/2283.
 
-## 3. Enforcement[^key-cf7f7adfd666de46bc2f7adfdb9b5770]
+## 3. Enforcement[^c-cf7f7adfd666de46bc2f7adfdb9b5770]
 
 It is the duty of a food authority within its area to enforce these Regulations and Regulation (EU) 2015/2283.
 
-## 4. Offence and penalty[^key-7a9ab5c5f3df3368f7108b63f52bc4a2]
+## 4. Offence and penalty[^c-7a9ab5c5f3df3368f7108b63f52bc4a2]
 
-A person who contravenes or fails to comply with either Article 6[^key-1f959b8b96664b1f80cdf60c620b95df] (as read with Articles 24 and 35(2)), or Article 25 is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+A person who contravenes or fails to comply with either Article 6[^c-1f959b8b96664b1f80cdf60c620b95df] (as read with Articles 24 and 35(2)), or Article 25 is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 5. Application of various provisions of the Act[^key-d481d764220ae15e4fb377073de69326]
+## 5. Application of various provisions of the Act[^c-d481d764220ae15e4fb377073de69326]
 
 (1) The following provisions of the Act apply for the purpose of these Regulations with the modification that any reference in those provisions to the Act or Part of it is to be construed as a reference to these Regulations and any reference to an enforcement authority is to be construed as a reference to a food authority—
 
@@ -98,7 +98,7 @@ A person who contravenes or fails to comply with either Article 6[^key-1f959b8b9
 > - (b) is in the possession of, or has been deposited with or consigned to, any person for the purpose of sale or preparation for sale; or
 > - (c) is otherwise placed on the market within the meaning of Regulation [(EC) 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178).
 >
-> and subsections (2) to (8) below shall apply where, on such an inspection or otherwise, it appears to the authorised officer that Article 6[^key-a41e297e079d0eed7392648ef32b4184] of Regulation (EU) 2015/2283 is being, or has been, contravened in relation to any novel food.
+> and subsections (2) to (8) below shall apply where, on such an inspection or otherwise, it appears to the authorised officer that Article 6[^c-a41e297e079d0eed7392648ef32b4184] of Regulation (EU) 2015/2283 is being, or has been, contravened in relation to any novel food.
 >
 > (2) The authorised officer may either—
 >
@@ -116,7 +116,7 @@ A person who contravenes or fails to comply with either Article 6[^key-1f959b8b9
 >
 > (4) Where an authorised officer exercises the powers conferred by subsection (2)(b) or (3)(b) above, the authorised officer shall inform the person in charge of the novel food that it is to be dealt with by a sheriff and any person who might be liable to a prosecution in respect of the novel food shall, if attending before the sheriff by whom the food falls to be dealt with, be entitled to be heard and to call witnesses.
 >
-> (5) If it appears to a sheriff, on the basis of such evidence as the sheriff considers appropriate in the circumstances, that any novel food falling to be dealt with under this section is not authorised, as required[^key-1e33a7451eccb8a752f742fddf0cfb14] by Article 6 of Regulation (EU) 2015/2283, the sheriff shall condemn the novel food and order—
+> (5) If it appears to a sheriff, on the basis of such evidence as the sheriff considers appropriate in the circumstances, that any novel food falling to be dealt with under this section is not authorised, as required[^c-1e33a7451eccb8a752f742fddf0cfb14] by Article 6 of Regulation (EU) 2015/2283, the sheriff shall condemn the novel food and order—
 >
 > - (a) the novel food to be destroyed or to be so disposed of as to prevent it from being used for human consumption; and
 > - (b) any expenses reasonably incurred in connection with the destruction or disposal to be defrayed by the owner of the novel food.
@@ -127,7 +127,7 @@ A person who contravenes or fails to comply with either Article 6[^key-1f959b8b9
 >
 > (8) Any disputed question as to the right to or the amount of any compensation payable under subsection (7) above shall be determined by a single arbiter appointed, failing agreement between the parties, by the sheriff.
 
-## 6. Revocation[^key-a2f723614fe54f3ecf6113509152f306]
+## 6. Revocation[^c-a2f723614fe54f3ecf6113509152f306]
 
 The Novel Foods and Novel Food Ingredients Regulations 1997[^f00007] and the Novel Foods and Novel Food Ingredients (Fees) Regulations 1997[^f00008] are revoked in relation to Scotland.
 
@@ -169,27 +169,27 @@ A full business and regulatory impact assessment of the effect these Regulations
 
 [^f00004]: Footnote: OJ L 31, 1.2.2002, p.1, last amended by Regulation (EU) 652/2014 of the European Parliament and of the Council (OJ L 189, 27.6.2014, p.1).
 
-[^key-d172d4066f1eb0a9a887b2459043c4e6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1)
+[^c-d172d4066f1eb0a9a887b2459043c4e6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1)
 
-[^key-4263bb437a781fb5e636d0b8dc56098c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/415/regulation/2) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1)
+[^c-4263bb437a781fb5e636d0b8dc56098c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/415/regulation/2) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1)
 
 [^f00005]: Footnote: OJ L 327, 11.12.2015, p.1.
 
 [^f00006]: Footnote: Section 5(2) of the Act was amended by, paragraph 163(2) of Schedule 13 of the Local Government etc (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-cf7f7adfd666de46bc2f7adfdb9b5770]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/415/regulation/3) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1)
+[^c-cf7f7adfd666de46bc2f7adfdb9b5770]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/415/regulation/3) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1)
 
-[^key-7a9ab5c5f3df3368f7108b63f52bc4a2]: Commencement: Reg. 4 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1)
+[^c-7a9ab5c5f3df3368f7108b63f52bc4a2]: Commencement: Reg. 4 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1)
 
-[^key-1f959b8b96664b1f80cdf60c620b95df]: Textual amendment: Word in reg. 4 substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 6(2)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/6/2)
+[^c-1f959b8b96664b1f80cdf60c620b95df]: Textual amendment: Word in reg. 4 substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 6(2)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/6/2)
 
-[^key-d481d764220ae15e4fb377073de69326]: Commencement: Reg. 5 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1)
+[^c-d481d764220ae15e4fb377073de69326]: Commencement: Reg. 5 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1)
 
-[^key-a41e297e079d0eed7392648ef32b4184]: Textual amendment: Word in reg. 5(2) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/6/3/a)
+[^c-a41e297e079d0eed7392648ef32b4184]: Textual amendment: Word in reg. 5(2) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/6/3/a)
 
-[^key-1e33a7451eccb8a752f742fddf0cfb14]: Textual amendment: Words in reg. 5(2) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/6/3/b)
+[^c-1e33a7451eccb8a752f742fddf0cfb14]: Textual amendment: Words in reg. 5(2) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/6/3/b)
 
-[^key-a2f723614fe54f3ecf6113509152f306]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/415/regulation/6) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1)
+[^c-a2f723614fe54f3ecf6113509152f306]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/415/regulation/6) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/415/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1997/1335](https://www.legislation.gov.uk/uksi/1997/1335).
 

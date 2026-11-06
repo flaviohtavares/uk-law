@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Council Regulation [(EC) No 1185/2003](https://www.legislation.gov.uk/eur/2003/1185) on the removal of fins of sharks on board vessels[^key-d8e111226430fc518d3d5c633075ad00]
+## 14. Council Regulation [(EC) No 1185/2003](https://www.legislation.gov.uk/eur/2003/1185) on the removal of fins of sharks on board vessels[^c-d8e111226430fc518d3d5c633075ad00]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8e111226430fc518d3d5c633075ad00]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-d8e111226430fc518d3d5c633075ad00]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Modification of the Agriculture Act 1970 in relation to imported feeding stuffs[^key-f962b1dba18c2cfbf5feda71b607c820]
+## 19. Modification of the Agriculture Act 1970 in relation to imported feeding stuffs[^c-f962b1dba18c2cfbf5feda71b607c820]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f962b1dba18c2cfbf5feda71b607c820]: Commencement: Reg. 19 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-f962b1dba18c2cfbf5feda71b607c820]: Commencement: Reg. 19 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

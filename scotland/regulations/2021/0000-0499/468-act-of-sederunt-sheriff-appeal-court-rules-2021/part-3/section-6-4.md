@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.4. Applications to appeal out of time[^key-9ec074f7ce47d0df3d75322789a7892d]
+## 6.4. Applications to appeal out of time[^c-9ec074f7ce47d0df3d75322789a7892d]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ec074f7ce47d0df3d75322789a7892d]: Commencement: Para. 6.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-9ec074f7ce47d0df3d75322789a7892d]: Commencement: Para. 6.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

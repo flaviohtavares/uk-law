@@ -27,15 +27,15 @@ summary: ''
 - “**alteration**”, in relation to a highway, includes stopping up the highway or diverting, improving, raising or lowering it;
 - “**appropriate Crown authority**” has the meaning given by section 227;
 - “**building**” has the meaning given by section 336(1) of TCPA 1990;
-- [^key-2523047392537c563f88089860d4645e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-2523047392537c563f88089860d4645e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-2523047392537c563f88089860d4645e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-2523047392537c563f88089860d4645e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**construction**”, in relation to so much of a generating station as comprises or is to comprise renewable energy installations, has the same meaning as in Chapter 2 of Part 2 of the Energy Act 2004 (c. 20) (see section 104 of that Act) (and related expressions must be read accordingly);
 - “**construction**”, in relation to a pipe-line, includes placing (and related expressions must be read accordingly);
-- [^key-2523047392537c563f88089860d4645e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-2523047392537c563f88089860d4645e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**cross-country pipe-line**” has the same meaning as in the Pipe-lines Act 1962 (c. 58) (see section 66 of that Act);
 - “**Crown land**” has the meaning given by section 227;
-- [^key-2523047392537c563f88089860d4645e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “deployable output” means, in relation to a given facility, the annual average volume of water that can be produced per day from that facility under drought conditions, having regard in particular (where applicable) to—[^key-7351ad9c0d9acbf39503a27e1e4aba6f]
+- [^c-2523047392537c563f88089860d4645e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “deployable output” means, in relation to a given facility, the annual average volume of water that can be produced per day from that facility under drought conditions, having regard in particular (where applicable) to—[^c-7351ad9c0d9acbf39503a27e1e4aba6f]
   - (a) the hydrological yield of the facility;
   - (b) the quantity of water licensed for abstraction;
   - (c) the state of the local environment;
@@ -76,7 +76,7 @@ summary: ''
 - “**navigable watercourse**” has the same meaning as in Part 6 of the Highways Act 1980 (see section 111(1) of that Act);
 - “**non-navigable watercourse**” means a watercourse that is not a navigable watercourse;
 - “**pipe-line**” has the meaning given by section 65 of the Pipe-lines Act 1962 (c. 58);
-- “**planning permission**” means permission under Part 3 or, in relation to England, Part 13[^key-bac9eb8f0e55cf08ce47d2b601b4fad4] of TCPA 1990;
+- “**planning permission**” means permission under Part 3 or, in relation to England, Part 13[^c-bac9eb8f0e55cf08ce47d2b601b4fad4] of TCPA 1990;
 - “**prescribed**” means prescribed by regulations made by the Secretary of State (except in relation to matters authorised or required by this Act to be prescribed in another way);
 - “**rail freight interchange**” means a facility for the transfer of goods between railway and road, or between railway and another form of transport;
 - “**railway**” has the meaning given by section 67(1) of the Transport and Works Act 1992 (c. 42);
@@ -117,8 +117,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2523047392537c563f88089860d4645e]: Textual amendment: Words in s. 235(1) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 69](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/69), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
+[^c-2523047392537c563f88089860d4645e]: Textual amendment: Words in s. 235(1) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 69](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/69), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
 
-[^key-7351ad9c0d9acbf39503a27e1e4aba6f]: Textual amendment: Words in [s. 235(1)](https://www.legislation.gov.uk/ukpga/2008/29/section/235/1) inserted (9.1.2019) by [The Infrastructure Planning (Water Resources) (England) Order 2019 (S.I. 2019/12)](https://www.legislation.gov.uk/uksi/2019/12), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/12/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/12/article/2/6) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2019/12/article/3))
+[^c-7351ad9c0d9acbf39503a27e1e4aba6f]: Textual amendment: Words in [s. 235(1)](https://www.legislation.gov.uk/ukpga/2008/29/section/235/1) inserted (9.1.2019) by [The Infrastructure Planning (Water Resources) (England) Order 2019 (S.I. 2019/12)](https://www.legislation.gov.uk/uksi/2019/12), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/12/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/12/article/2/6) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2019/12/article/3))
 
-[^key-bac9eb8f0e55cf08ce47d2b601b4fad4]: Textual amendment: Words in [s. 235(1)](https://www.legislation.gov.uk/ukpga/2008/29/section/235/1) inserted (1.5.2025) by [The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418)](https://www.legislation.gov.uk/uksi/2025/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/418/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2025/418/regulation/17)
+[^c-bac9eb8f0e55cf08ce47d2b601b4fad4]: Textual amendment: Words in [s. 235(1)](https://www.legislation.gov.uk/ukpga/2008/29/section/235/1) inserted (1.5.2025) by [The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418)](https://www.legislation.gov.uk/uksi/2025/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/418/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2025/418/regulation/17)

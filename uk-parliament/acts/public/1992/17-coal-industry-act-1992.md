@@ -31,36 +31,36 @@ Coal Industry Act 1992 (repealed)
 
 1992 c. 17
 
-[^key-6c343fbe379c470758bf02fbe6a3cddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c343fbe379c470758bf02fbe6a3cddc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Further grants for workforce redeployment and reduction etc.[^key-6c343fbe379c470758bf02fbe6a3cddc]
+## 1. Further grants for workforce redeployment and reduction etc.[^c-6c343fbe379c470758bf02fbe6a3cddc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Repeal of Coal Mines Regulation Act 1908.[^key-6c343fbe379c470758bf02fbe6a3cddc]
+## 2. Repeal of Coal Mines Regulation Act 1908.[^c-6c343fbe379c470758bf02fbe6a3cddc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Citation, repeals, commencement and extent.[^key-6c343fbe379c470758bf02fbe6a3cddc]
+## 3. Citation, repeals, commencement and extent.[^c-6c343fbe379c470758bf02fbe6a3cddc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Repeals[^key-6c343fbe379c470758bf02fbe6a3cddc]
+## SCHEDULE — Repeals[^c-6c343fbe379c470758bf02fbe6a3cddc]
 
 Section 3(3).
 
-### Part I — Repeal Consequential on Section 1[^key-6c343fbe379c470758bf02fbe6a3cddc]
+### Part I — Repeal Consequential on Section 1[^c-6c343fbe379c470758bf02fbe6a3cddc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Repeals Consequential on Section 2[^key-6c343fbe379c470758bf02fbe6a3cddc]
+### Part II — Repeals Consequential on Section 2[^c-6c343fbe379c470758bf02fbe6a3cddc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6c343fbe379c470758bf02fbe6a3cddc]: Textual amendment: Act repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. 3](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-6c343fbe379c470758bf02fbe6a3cddc]: Textual amendment: Act repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. 3](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)

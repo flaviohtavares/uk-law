@@ -46,7 +46,7 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 The powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00006].
 
-## 1. Citation, commencement and interpretation[^key-4a1e238fd43e46bb6670761b55daa000]
+## 1. Citation, commencement and interpretation[^c-4a1e238fd43e46bb6670761b55daa000]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2025.
 
@@ -58,7 +58,7 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the State Pension Credit Regulations (Northern Ireland)[^key-2f40f4921bf75b2e496bf08b718e63a3]
+## 2. Amendment of the State Pension Credit Regulations (Northern Ireland)[^c-2f40f4921bf75b2e496bf08b718e63a3]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00008] are amended as follows.
 
@@ -76,7 +76,7 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
     .
 
-## 3. Amendment of the Housing Benefit Regulations (Northern Ireland)[^key-6bae354abab6883706b061b20f3ec569]
+## 3. Amendment of the Housing Benefit Regulations (Northern Ireland)[^c-6bae354abab6883706b061b20f3ec569]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00011] are amended as follows.
 
@@ -85,7 +85,7 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 - (a) in sub-paragraph (i) omit “at the higher rate in accordance with section 65(3) of the Act”;
 - (b) in sub-paragraph (ia) omit “at the higher rate in accordance with regulation 6 of the Disability Assistance for Older People (Scotland) Regulations 2024[^f00012]”.
 
-## 4. Amendments of the Housing Benefits (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland)[^key-70176d52590d55edba35d93c538e8f86]
+## 4. Amendments of the Housing Benefits (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland)[^c-70176d52590d55edba35d93c538e8f86]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00013] are amended as follows.
 
@@ -94,7 +94,7 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 - (a) in sub-paragraph (i) omit “at the higher rate in accordance with section 65(3) of the Act”;
 - (b) in sub-paragraph (ia) omit “at the higher rate in accordance with regulation 6 of the Disability Assistance for Older People (Scotland) Regulations 2024”.
 
-## 5. Amendment of the Universal Credit Regulations (Northern Ireland)[^key-94f1000305284da4b0bd47bd523d321e]
+## 5. Amendment of the Universal Credit Regulations (Northern Ireland)[^c-94f1000305284da4b0bd47bd523d321e]
 
 (1) The Universal Credit Regulations (Northern Ireland) 2016 are amended as follows.
 
@@ -112,31 +112,31 @@ The powers are exercisable by the Department for Communities by virtue of Articl
   - (i) in sub-paragraph (ii) omit “at the higher rate”;
   - (ii) in sub-paragraph (iia) omit “at the higher rate in accordance with regulation 6 of the Disability Assistance for Older People (Scotland) Regulations 2024”.
 
-## 6. Amendment of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland)[^key-6512f4920eb06dea3230d422c6543f0c][^key-1222f8492984a43ac8f266dacd32a2e2][^key-2eede08260380e8faf515923e4c26610]
+## 6. Amendment of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland)[^c-6512f4920eb06dea3230d422c6543f0c][^c-1222f8492984a43ac8f266dacd32a2e2][^c-2eede08260380e8faf515923e4c26610]
 
-(1)[^key-6512f4920eb06dea3230d422c6543f0c] The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00015] are amended as follows.
+(1)[^c-6512f4920eb06dea3230d422c6543f0c] The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00015] are amended as follows.
 
 (2) In regulation 4A (restriction on claims for housing benefit, income support or a tax credit)[^f00016]—
 
-- (a)[^key-6512f4920eb06dea3230d422c6543f0c] After paragraph (8) insert—
+- (a)[^c-6512f4920eb06dea3230d422c6543f0c] After paragraph (8) insert—
 
   > (9) Despite anything in paragraph (6) or (7) or in the Tax Credits (Claims and Notifications) Regulations 2002[^f00017], a person may not make, or be treated as making, a claim for a tax credit in respect of the whole, or any part, of the tax year beginning on 6th April 2025 or any subsequent tax year.
 
   ;
-- (b)[^key-1222f8492984a43ac8f266dacd32a2e2] in paragraph (9) (as inserted by sub-paragraph (a)) omit “paragraph (6) or (7) or in”.
+- (b)[^c-1222f8492984a43ac8f266dacd32a2e2] in paragraph (9) (as inserted by sub-paragraph (a)) omit “paragraph (6) or (7) or in”.
 
-(3)[^key-6512f4920eb06dea3230d422c6543f0c] In regulation 6A (transitional housing payment)[^f00018]—
+(3)[^c-6512f4920eb06dea3230d422c6543f0c] In regulation 6A (transitional housing payment)[^f00018]—
 
 - (a) in the opening words omit “or 47”;
 - (b) in paragraphs (a) and (b) omit “or 47(1)”.
 
-(4)[^key-6512f4920eb06dea3230d422c6543f0c] In regulation 9 (ongoing awards of tax credits)[^f00019] after paragraph (2) insert—
+(4)[^c-6512f4920eb06dea3230d422c6543f0c] In regulation 9 (ongoing awards of tax credits)[^f00019] after paragraph (2) insert—
 
 > (3) This regulation applies in relation to a current tax year that ends on or before 5th April 2025 only.
 
 .
 
-(5)[^key-6512f4920eb06dea3230d422c6543f0c] In regulation 22 (other claimants with limited capability for work: credits only cases)—
+(5)[^c-6512f4920eb06dea3230d422c6543f0c] In regulation 22 (other claimants with limited capability for work: credits only cases)—
 
 - (a) in the heading omit “: credits only cases”;
 - (b) for paragraph 1(a) (but not the “and” after it) substitute—
@@ -147,7 +147,7 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
   .
 
-(6)[^key-6512f4920eb06dea3230d422c6543f0c] In regulation 45 (migration notice)[^f00021]—
+(6)[^c-6512f4920eb06dea3230d422c6543f0c] In regulation 45 (migration notice)[^f00021]—
 
 - (a) in paragraph (3), at the beginning insert “Subject to paragraphs (3A) and (3B),”;
 - (b) in paragraph (3A), omit “But” and for “where” substitute “Where”;
@@ -160,13 +160,13 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
   .
 
-(7)[^key-6512f4920eb06dea3230d422c6543f0c] In regulation 51 (Department to determine whether transitional protection applies)[^f00022] after paragraph (2) insert—
+(7)[^c-6512f4920eb06dea3230d422c6543f0c] In regulation 51 (Department to determine whether transitional protection applies)[^f00022] after paragraph (2) insert—
 
 > (3) A person who makes a claim for universal credit as a single person by virtue of regulation 3(2) of the Universal Credit Regulations (Northern Ireland) is a single person for the purposes of paragraph (1)(a) and a member of a couple for the purposes of paragraph (1)(b).
 
 .
 
-(8)[^key-2eede08260380e8faf515923e4c26610] In regulation 56 (the transitional element – initial amount and adjustment where other elements increase)[^f00023]—
+(8)[^c-2eede08260380e8faf515923e4c26610] In regulation 56 (the transitional element – initial amount and adjustment where other elements increase)[^f00023]—
 
 - (a) in paragraph (4)—
   - (i) for “paragraph (5)” substitute “paragraphs (5) and (5A)”;
@@ -178,13 +178,13 @@ The powers are exercisable by the Department for Communities by virtue of Articl
   ;
 - (c) in paragraph (6) after “this regulation” insert ““housing costs element”,”.
 
-(9)[^key-6512f4920eb06dea3230d422c6543f0c] In regulation 61(1) (protection for full-time students until course completed)[^f00024]—
+(9)[^c-6512f4920eb06dea3230d422c6543f0c] In regulation 61(1) (protection for full-time students until course completed)[^f00024]—
 
 - (a) for “notified person”, in the first place it occurs, substitute “person who has made a qualifying claim”;
 - (b) for “on the day on which all awards of any existing benefit are to terminate as a consequence of a claim for universal credit” substitute “on the migration day”;
 - (c) for “notified person,” in the second place it occurs, substitute “person”.
 
-(10)[^key-6512f4920eb06dea3230d422c6543f0c] In regulation 61B(1) (deferral of retirement pension income)[^f00025] before “claim” insert “qualifying”.
+(10)[^c-6512f4920eb06dea3230d422c6543f0c] In regulation 61B(1) (deferral of retirement pension income)[^f00025] before “claim” insert “qualifying”.
 
 Sealed with the Official Seal of the Department for Communities on 16th January 2025
 
@@ -246,11 +246,11 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00006]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
 
-[^key-4a1e238fd43e46bb6670761b55daa000]: Commencement: Reg. 1 in operation at 27.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2)
+[^c-4a1e238fd43e46bb6670761b55daa000]: Commencement: Reg. 1 in operation at 27.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2)
 
 [^f00007]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2f40f4921bf75b2e496bf08b718e63a3]: Commencement: Reg. 2 in operation at 27.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2)
+[^c-2f40f4921bf75b2e496bf08b718e63a3]: Commencement: Reg. 2 in operation at 27.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2)
 
 [^f00008]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); Schedule 2A was inserted by regulation 2(3) of [S.R. 2018 No. 135](https://www.legislation.gov.uk/nisr/2018/135)
 
@@ -258,25 +258,25 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00010]: Footnote: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)
 
-[^key-6bae354abab6883706b061b20f3ec569]: Commencement: Reg. 3 in operation at 27.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2)
+[^c-6bae354abab6883706b061b20f3ec569]: Commencement: Reg. 3 in operation at 27.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2)
 
 [^f00011]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405). The definition of a “member of a couple who cannot share a bedroom” was inserted by [S.R. 2017 No. 70](https://www.legislation.gov.uk/nisr/2017/70) and amended by [S.I. 2022/177](https://www.legislation.gov.uk/uksi/2022/177); there are other amending instruments but none are relevant
 
 [^f00012]: Footnote: [S.I. 2024 No. 919](https://www.legislation.gov.uk/uksi/2024/919)
 
-[^key-70176d52590d55edba35d93c538e8f86]: Commencement: Reg. 4 in operation at 27.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2)
+[^c-70176d52590d55edba35d93c538e8f86]: Commencement: Reg. 4 in operation at 27.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2)
 
 [^f00013]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406). The definition of a “member of a couple who cannot share a bedroom” was inserted by [S.R. 2017 No. 70](https://www.legislation.gov.uk/nisr/2017/70) and amended by [S.I. 2022/177](https://www.legislation.gov.uk/uksi/2022/177); there are other amending instruments but none are relevant
 
-[^key-94f1000305284da4b0bd47bd523d321e]: Commencement: Reg. 5 in operation at 27.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2)
+[^c-94f1000305284da4b0bd47bd523d321e]: Commencement: Reg. 5 in operation at 27.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2)
 
 [^f00014]: Footnote: Relevant amending instruments are [S.R. 2017 No. 70](https://www.legislation.gov.uk/nisr/2017/70) and [S.I. 2021/786](https://www.legislation.gov.uk/uksi/2021/786)
 
-[^key-6512f4920eb06dea3230d422c6543f0c]: Commencement: Reg. 6(1)(2)(a)(3)(4)(5)(6)(7)(9)(10) in operation at 27.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2)
+[^c-6512f4920eb06dea3230d422c6543f0c]: Commencement: Reg. 6(1)(2)(a)(3)(4)(5)(6)(7)(9)(10) in operation at 27.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/2)
 
-[^key-1222f8492984a43ac8f266dacd32a2e2]: Commencement: [Reg. 6(2)(b)](https://www.legislation.gov.uk/nisr/2025/3/regulation/6/2/b) in operation at 6.4.2025, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/3)
+[^c-1222f8492984a43ac8f266dacd32a2e2]: Commencement: [Reg. 6(2)(b)](https://www.legislation.gov.uk/nisr/2025/3/regulation/6/2/b) in operation at 6.4.2025, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/3)
 
-[^key-2eede08260380e8faf515923e4c26610]: Commencement: [Reg. 6(8)](https://www.legislation.gov.uk/nisr/2025/3/regulation/6/8) in operation at 1.6.2025, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/4)
+[^c-2eede08260380e8faf515923e4c26610]: Commencement: [Reg. 6(8)](https://www.legislation.gov.uk/nisr/2025/3/regulation/6/8) in operation at 1.6.2025, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2025/3/regulation/1/4)
 
 [^f00015]: Footnote: [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226)
 

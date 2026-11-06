@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Presence of disease in a wild animal and declaration of a wild animal infected zone[^key-2e7bb8f364b36836e729e5e9035d26ff]
+## 37. Presence of disease in a wild animal and declaration of a wild animal infected zone[^c-2e7bb8f364b36836e729e5e9035d26ff]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e7bb8f364b36836e729e5e9035d26ff]: Commencement: Reg. 37 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-2e7bb8f364b36836e729e5e9035d26ff]: Commencement: Reg. 37 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement and interpretation[^key-13a98d940627bd5dc6c0c35118c51d77]
+## 1. Citation, commencement and interpretation[^c-13a98d940627bd5dc6c0c35118c51d77]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13a98d940627bd5dc6c0c35118c51d77]: Commencement: Art. 1 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-13a98d940627bd5dc6c0c35118c51d77]: Commencement: Art. 1 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
 
 [^f00002]: Footnote: Article 3 of the Scotland Act 1998 (Commencement) Order 1998 ([S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)) specifies 1st July 1999 as the principal appointed day for the purposes of the 1998 Act.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Compensatory measures[^key-cccde549f7236b2e8470317b4fb84c31]
+## 36. Compensatory measures[^c-cccde549f7236b2e8470317b4fb84c31]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) The appropriate authority must secure that any necessary compensatory measures are taken to ensure that the overall coherence of Natura 2000 is protected.
 
-(2A)[^key-a997c0b1ba71a6e202704bee2625fcad] This regulation does not apply in respect of a relevant offshore wind plan or project.
+(2A)[^c-a997c0b1ba71a6e202704bee2625fcad] This regulation does not apply in respect of a relevant offshore wind plan or project.
 
 (3) The appropriate authority is—
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cccde549f7236b2e8470317b4fb84c31]: Modification: [Regs. 30-37](https://www.legislation.gov.uk/uksi/2017/1013/regulation/30): power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
+[^c-cccde549f7236b2e8470317b4fb84c31]: Modification: [Regs. 30-37](https://www.legislation.gov.uk/uksi/2017/1013/regulation/30): power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
 
-[^key-a997c0b1ba71a6e202704bee2625fcad]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/36/2A) inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2026/508/regulation/15)
+[^c-a997c0b1ba71a6e202704bee2625fcad]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/36/2A) inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2026/508/regulation/15)

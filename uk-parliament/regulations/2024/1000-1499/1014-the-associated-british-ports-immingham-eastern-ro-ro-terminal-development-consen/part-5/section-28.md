@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Agreement with highway authority[^key-206bd9835e04904998cec68a90bea8ea]
+## 28. Agreement with highway authority[^c-206bd9835e04904998cec68a90bea8ea]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-206bd9835e04904998cec68a90bea8ea]: Commencement: Art. 28 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-206bd9835e04904998cec68a90bea8ea]: Commencement: Art. 28 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

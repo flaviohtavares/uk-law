@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Appeal against decision on proof[^key-a55184f897da5c5f93626851ecfe4717]
+## 46. Appeal against decision on proof[^c-a55184f897da5c5f93626851ecfe4717]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a55184f897da5c5f93626851ecfe4717]: Commencement: Rule 46 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-a55184f897da5c5f93626851ecfe4717]: Commencement: Rule 46 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

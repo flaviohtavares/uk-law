@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Conversion of status[^key-1f6cfefcc549993b002d9bc9ef2338da]
+## 103. Conversion of status[^c-1f6cfefcc549993b002d9bc9ef2338da]
 
 *Extent: E+W*
 
@@ -43,21 +43,21 @@ summary: ''
 
 (4) Where the request under paragraph (1) is made during the first quarter of the academic year in respect of which the loan is payable the maximum amount or increased maximum amount of loan (as the case may be) is reduced by two thirds and where the request is made during the second quarter of that year that amount is reduced by one third.
 
-(5)[^key-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-b26150efd12ab2202d1104766afca409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) Where an eligible part-time student ceases to undertake a designated part-time course and transfers to a designated course at the same or at another institution, the Welsh Ministers must convert that student’s status as an eligible part-time student to that of an eligible student in connection with the course to which the eligible part-time student is transferring where—
 
@@ -73,20 +73,20 @@ summary: ''
 - (e) where an amount of grant for any purpose has been paid to that student pursuant to regulation 88 in a single instalment, the maximum amount of grant payable to that student under regulation 24 for that purpose is reduced (or, where sub-paragraph (d) applies, further reduced) by the amount of grant paid to that student for that purpose pursuant to regulation 88 and where the resulting amount is nil or a negative amount that amount is nil; and
 - (f) where an amount of grant or allowance has been paid to that student pursuant to regulations 89 to 98 in a single instalment the maximum amount of the analogous grant or allowance payable to that student pursuant to regulations 26 to 29 is reduced (or where sub-paragraph (d) applies, further reduced) by the amount of grant or allowance paid to that student pursuant to regulations 89 to 98 and where the resulting amount is nil or a negative amount that amount is nil.
 
-(15)[^key-e48e9d32ec6ebc48b791ea77d8a763b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-e48e9d32ec6ebc48b791ea77d8a763b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(16)[^key-e48e9d32ec6ebc48b791ea77d8a763b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(16)[^c-e48e9d32ec6ebc48b791ea77d8a763b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(17)[^key-e48e9d32ec6ebc48b791ea77d8a763b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17)[^c-e48e9d32ec6ebc48b791ea77d8a763b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(18)[^key-e48e9d32ec6ebc48b791ea77d8a763b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(18)[^c-e48e9d32ec6ebc48b791ea77d8a763b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(19)[^key-e48e9d32ec6ebc48b791ea77d8a763b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(19)[^c-e48e9d32ec6ebc48b791ea77d8a763b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1f6cfefcc549993b002d9bc9ef2338da]: Commencement: Reg. 103 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-1f6cfefcc549993b002d9bc9ef2338da]: Commencement: Reg. 103 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
-[^key-b26150efd12ab2202d1104766afca409]: Textual amendment: [Reg. 103(5)-(12)](https://www.legislation.gov.uk/wsi/2017/47/regulation/103/5) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [65](https://www.legislation.gov.uk/wsi/2021/481/regulation/65) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+[^c-b26150efd12ab2202d1104766afca409]: Textual amendment: [Reg. 103(5)-(12)](https://www.legislation.gov.uk/wsi/2017/47/regulation/103/5) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [65](https://www.legislation.gov.uk/wsi/2021/481/regulation/65) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
 
-[^key-e48e9d32ec6ebc48b791ea77d8a763b0]: Textual amendment: [Reg. 103(15)-(19)](https://www.legislation.gov.uk/wsi/2017/47/regulation/103/15) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [65](https://www.legislation.gov.uk/wsi/2021/481/regulation/65) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+[^c-e48e9d32ec6ebc48b791ea77d8a763b0]: Textual amendment: [Reg. 103(15)-(19)](https://www.legislation.gov.uk/wsi/2017/47/regulation/103/15) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [65](https://www.legislation.gov.uk/wsi/2021/481/regulation/65) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))

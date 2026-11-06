@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. Information for specified state professionals[^key-824c2d554ff1d8cfac49372d34d554e9]
+## 21A. Information for specified state professionals[^c-824c2d554ff1d8cfac49372d34d554e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-824c2d554ff1d8cfac49372d34d554e9]: Textual amendment: [Art. 21A](https://www.legislation.gov.uk/uksi/2002/253/article/21A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 66](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/66)
+[^c-824c2d554ff1d8cfac49372d34d554e9]: Textual amendment: [Art. 21A](https://www.legislation.gov.uk/uksi/2002/253/article/21A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 66](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/66)

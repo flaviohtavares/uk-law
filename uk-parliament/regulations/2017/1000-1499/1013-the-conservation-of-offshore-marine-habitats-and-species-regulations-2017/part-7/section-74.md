@@ -25,7 +25,7 @@ summary: ''
 - (a) having regard to the objectives in Article 2, and the obligation in Article 11, of the Habitats Directive; and
 - (b) for the purpose of the protection or management, and in relation to the use, of any population of wild birds.
 
-(2)[^key-1a2e9f915775b3dcb5dbf8480cb3b956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1a2e9f915775b3dcb5dbf8480cb3b956] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In deciding what steps to take under paragraph (1), the Secretary of State must have particular regard to the need for research and scientific work—
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a2e9f915775b3dcb5dbf8480cb3b956]: Textual amendment: [Reg. 74(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/74/2) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [66](https://www.legislation.gov.uk/uksi/2019/579/regulation/66); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a2e9f915775b3dcb5dbf8480cb3b956]: Textual amendment: [Reg. 74(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/74/2) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [66](https://www.legislation.gov.uk/uksi/2019/579/regulation/66); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

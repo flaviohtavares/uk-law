@@ -30,7 +30,7 @@ summary: ''
 
 EMPLOYER'S LIABILITY
 
-Employer’s Liability (Compulsory Insurance) Exemption (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-b59327a263bdf5b56b34b80dd86b39ea]
+Employer’s Liability (Compulsory Insurance) Exemption (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-b59327a263bdf5b56b34b80dd86b39ea]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 24th March 1997
 
-[^key-b59327a263bdf5b56b34b80dd86b39ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b59327a263bdf5b56b34b80dd86b39ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b59327a263bdf5b56b34b80dd86b39ea]
+## 1. Citation and commencement[^c-b59327a263bdf5b56b34b80dd86b39ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Employer’s Liability (Compulsory Insurance) Exemption Regulations (Northern Ireland) 1975[^key-b59327a263bdf5b56b34b80dd86b39ea]
+## 2. Amendment of the Employer’s Liability (Compulsory Insurance) Exemption Regulations (Northern Ireland) 1975[^c-b59327a263bdf5b56b34b80dd86b39ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b59327a263bdf5b56b34b80dd86b39ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b59327a263bdf5b56b34b80dd86b39ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b59327a263bdf5b56b34b80dd86b39ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b59327a263bdf5b56b34b80dd86b39ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b59327a263bdf5b56b34b80dd86b39ea]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/51) revoked (20.4.1998) by [Employer’s Liability (Compulsory Insurance) Exemption Regulations (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/78)](https://www.legislation.gov.uk/nisr/1998/78), [regs. 1](https://www.legislation.gov.uk/nisr/1998/78/regulation/1), [4](https://www.legislation.gov.uk/nisr/1998/78/regulation/4)
+[^c-b59327a263bdf5b56b34b80dd86b39ea]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/51) revoked (20.4.1998) by [Employer’s Liability (Compulsory Insurance) Exemption Regulations (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/78)](https://www.legislation.gov.uk/nisr/1998/78), [regs. 1](https://www.legislation.gov.uk/nisr/1998/78/regulation/1), [4](https://www.legislation.gov.uk/nisr/1998/78/regulation/4)

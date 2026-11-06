@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Fireworks licence: conditions and further provision[^key-ea59f1883a9d18a44f7c8ab1a8f8b3c4]
+## 10. Fireworks licence: conditions and further provision[^c-ea59f1883a9d18a44f7c8ab1a8f8b3c4]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea59f1883a9d18a44f7c8ab1a8f8b3c4]: Commencement: S. 10 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-ea59f1883a9d18a44f7c8ab1a8f8b3c4]: Commencement: S. 10 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

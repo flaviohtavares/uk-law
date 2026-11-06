@@ -32,8 +32,8 @@ Section 131(2).
 | 6\. Section 58(1) or (3) (depositing building materials etc. in road without permission). | Level 4. |
 | 7\. Section 59(2) (depositing materials in road without permission so as to cause obstruction). | Level 4. |
 | 8\. Section 59(3) (failure to remove obstruction when required to do so). | Level 1. |
-| 9\. Section 60(3) (failure to fence or light, etc. obstruction or excavation). | Level 5.[^key-375c1e2ecededc3aed49dcc5f98740b6] |
-| 10\. Section 60(4) (interference with fencing, lighting, etc. of obstructions and excavations). | Level 5.[^key-58368593e7da965eb50f30567d30e558] |
+| 9\. Section 60(3) (failure to fence or light, etc. obstruction or excavation). | Level 5.[^c-375c1e2ecededc3aed49dcc5f98740b6] |
+| 10\. Section 60(4) (interference with fencing, lighting, etc. of obstructions and excavations). | Level 5.[^c-58368593e7da965eb50f30567d30e558] |
 | 11\. Section 62(5) (contravention of temporary restriction or prohibition of traffic or foot passage on road). | Level 2. |
 | 12\. Section 65(1) (conveying insecure load on drawn vehicle). | Level 4. |
 | 13\. Section 65(2) (permitting child to drive drawn vehicle). | Level 2. |
@@ -67,6 +67,6 @@ Section 131(2).
 
 ## Annotations
 
-[^key-375c1e2ecededc3aed49dcc5f98740b6]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/ukpga/1984/54/schedule/8) substituted (10.1.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 115(4)(a)](https://www.legislation.gov.uk/asp/2019/17/section/115/4/a), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-375c1e2ecededc3aed49dcc5f98740b6]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/ukpga/1984/54/schedule/8) substituted (10.1.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 115(4)(a)](https://www.legislation.gov.uk/asp/2019/17/section/115/4/a), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
 
-[^key-58368593e7da965eb50f30567d30e558]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/ukpga/1984/54/schedule/8) substituted (10.1.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 115(4)(b)](https://www.legislation.gov.uk/asp/2019/17/section/115/4/b), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-58368593e7da965eb50f30567d30e558]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/ukpga/1984/54/schedule/8) substituted (10.1.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 115(4)(b)](https://www.legislation.gov.uk/asp/2019/17/section/115/4/b), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

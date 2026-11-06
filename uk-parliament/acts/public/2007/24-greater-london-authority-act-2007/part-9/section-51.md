@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. The Mayor's duty to exercise certain powers of appointment[^key-45b82711c5fa5d589c1191ef6d9a73b9]
+## 51. The Mayor's duty to exercise certain powers of appointment[^c-45b82711c5fa5d589c1191ef6d9a73b9]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45b82711c5fa5d589c1191ef6d9a73b9]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2007/24/section/51) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/582/article/2/d)
+[^c-45b82711c5fa5d589c1191ef6d9a73b9]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2007/24/section/51) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/582/article/2/d)

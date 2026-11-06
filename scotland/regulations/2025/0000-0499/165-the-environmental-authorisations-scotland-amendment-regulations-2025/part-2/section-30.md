@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Amendment of regulation 62 (action by SEPA)[^key-17d1c39065b62aeaf7e214ab84d6dfc4]
+## 30. Amendment of regulation 62 (action by SEPA)[^c-17d1c39065b62aeaf7e214ab84d6dfc4]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In regulation 62 (action by SEPA)—
 
 ## Annotations
 
-[^key-17d1c39065b62aeaf7e214ab84d6dfc4]: Commencement: Reg. 30 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-17d1c39065b62aeaf7e214ab84d6dfc4]: Commencement: Reg. 30 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

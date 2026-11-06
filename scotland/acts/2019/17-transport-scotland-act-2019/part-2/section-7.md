@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Proving contraventions and issue of a penalty charge notice[^key-66c344c96b54cbb4b121467e5abda7f3]
+## 7. Proving contraventions and issue of a penalty charge notice[^c-66c344c96b54cbb4b121467e5abda7f3]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66c344c96b54cbb4b121467e5abda7f3]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/17/section/7) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-66c344c96b54cbb4b121467e5abda7f3]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/17/section/7) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

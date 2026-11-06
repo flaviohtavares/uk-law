@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14.[^key-bccac0e1fc3a2c9cae27823404ec674a]
+## 14.[^c-bccac0e1fc3a2c9cae27823404ec674a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 54 (exceptions from charge on death), in subsection (2) —
 
 ## Annotations
 
-[^key-bccac0e1fc3a2c9cae27823404ec674a]: Commencement: Reg. 14 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-bccac0e1fc3a2c9cae27823404ec674a]: Commencement: Reg. 14 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

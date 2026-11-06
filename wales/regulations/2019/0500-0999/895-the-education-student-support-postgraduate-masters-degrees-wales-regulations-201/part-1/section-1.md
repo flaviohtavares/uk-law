@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title and commencement[^key-fb5764f67d6b5d3311e3b3447fb61b00]
+## 1. Title and commencement[^c-fb5764f67d6b5d3311e3b3447fb61b00]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb5764f67d6b5d3311e3b3447fb61b00]: Commencement: Reg. 1 in force at 27.5.2019, see reg. 1(2)
+[^c-fb5764f67d6b5d3311e3b3447fb61b00]: Commencement: Reg. 1 in force at 27.5.2019, see reg. 1(2)

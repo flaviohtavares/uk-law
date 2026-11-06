@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Contracting authorities[^key-c714b3a89a4bf778afb928d38f0ab140][^key-c125d93c2a1dd063e220dc5e12382e78][^key-4d56d73233abcd7e1337206c0768e27b]
+## 2. Contracting authorities[^c-c714b3a89a4bf778afb928d38f0ab140][^c-c125d93c2a1dd063e220dc5e12382e78][^c-4d56d73233abcd7e1337206c0768e27b]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-137a8171db933fcbdbc093ef5abe4456] In this Act “**contracting authority**” means—
+(1)[^c-137a8171db933fcbdbc093ef5abe4456] In this Act “**contracting authority**” means—
 
 - (a) a public authority, or
 - (b) in the case of a utilities contract, a public authority, public undertaking or private utility,
 
 other than an excluded authority.
 
-(1A)[^key-194baefa10a1a39cf225bf9972db07f5] But see also section 83B(5)(b)(i) (which provides for “contracting authority” to have an extended meaning in relation to certain contracts regulated under Part 5A (outsourcing: protection of workers)).
+(1A)[^c-194baefa10a1a39cf225bf9972db07f5] But see also section 83B(5)(b)(i) (which provides for “contracting authority” to have an extended meaning in relation to certain contracts regulated under Part 5A (outsourcing: protection of workers)).
 
 (2) In this Act—
 
@@ -56,7 +56,7 @@ other than an excluded authority.
 
 (5) The following authorities are excluded authorities—
 
-- (a) a devolved Scottish authority , except where a devolved Scottish authority carries out procurement falling within section 115A[^key-89e4a39e6feb6758bbcfa9a5e71473b1];
+- (a) a devolved Scottish authority , except where a devolved Scottish authority carries out procurement falling within section 115A[^c-89e4a39e6feb6758bbcfa9a5e71473b1];
 - (b) the Security Service, the Secret Intelligence Service and the Government Communications Headquarters;
 - (c) the Advanced Research and Invention Agency;
 - (d) any person that is subject to public authority oversight—
@@ -88,14 +88,14 @@ other than an excluded authority.
 
 ## Annotations
 
-[^key-c714b3a89a4bf778afb928d38f0ab140]: Commencement: S. 2 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-c714b3a89a4bf778afb928d38f0ab140]: Commencement: S. 2 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-c125d93c2a1dd063e220dc5e12382e78]: Commencement: S. 2 in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-c125d93c2a1dd063e220dc5e12382e78]: Commencement: S. 2 in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-4d56d73233abcd7e1337206c0768e27b]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2023/54/section/2) applied (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))
+[^c-4d56d73233abcd7e1337206c0768e27b]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2023/54/section/2) applied (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))
 
-[^key-137a8171db933fcbdbc093ef5abe4456]: Modification: S. 2(1) restricted (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/833/regulation/7)
+[^c-137a8171db933fcbdbc093ef5abe4456]: Modification: S. 2(1) restricted (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/833/regulation/7)
 
-[^key-194baefa10a1a39cf225bf9972db07f5]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/2023/54/section/2/1A) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)
+[^c-194baefa10a1a39cf225bf9972db07f5]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/2023/54/section/2/1A) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)
 
-[^key-89e4a39e6feb6758bbcfa9a5e71473b1]: Textual amendment: Words in [s. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2023/54/section/2/5/a) inserted (24.2.2025) by [The Procurement Regulations 2024 (S.I. 2024/692)](https://www.legislation.gov.uk/uksi/2024/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/692/regulation/1/2), [47(2)](https://www.legislation.gov.uk/uksi/2024/692/regulation/47/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-89e4a39e6feb6758bbcfa9a5e71473b1]: Textual amendment: Words in [s. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2023/54/section/2/5/a) inserted (24.2.2025) by [The Procurement Regulations 2024 (S.I. 2024/692)](https://www.legislation.gov.uk/uksi/2024/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/692/regulation/1/2), [47(2)](https://www.legislation.gov.uk/uksi/2024/692/regulation/47/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97B. Orders for securing compliance with confiscation order[^key-5f12081d4502a41cfdf6617a08d6257a]
+## 97B. Orders for securing compliance with confiscation order[^c-5f12081d4502a41cfdf6617a08d6257a]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f12081d4502a41cfdf6617a08d6257a]: Textual amendment: Ss. 97B-97D inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 16](https://www.legislation.gov.uk/ukpga/2015/9/section/16), [88(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/a) (with [s. 86(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/3)); [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/a)
+[^c-5f12081d4502a41cfdf6617a08d6257a]: Textual amendment: Ss. 97B-97D inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 16](https://www.legislation.gov.uk/ukpga/2015/9/section/16), [88(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/a) (with [s. 86(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/3)); [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/a)

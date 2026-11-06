@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 131. Review of cases of looked after children[^key-386cd62a4fe4ede1dbc00ba4c2bf7a1f]
+## 131. Review of cases of looked after children[^c-386cd62a4fe4ede1dbc00ba4c2bf7a1f]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ In Article 45 of the Children Order (reviews and representations), in paragraph 
 
 ## Annotations
 
-[^key-386cd62a4fe4ede1dbc00ba4c2bf7a1f]: Commencement: S. 131 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-386cd62a4fe4ede1dbc00ba4c2bf7a1f]: Commencement: S. 131 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198A. C4C's functions in relation to media content[^key-58277c1e16c6589afca5c27c329a2212]
+## 198A. C4C's functions in relation to media content[^c-58277c1e16c6589afca5c27c329a2212]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 (3) In performing their duties under subsections (1) and (2) C4C must—
 
 - (a) promote measures intended to secure that people are well-informed and motivated to participate in society in a variety of ways, and
-- (b) contribute towards the fulfilment of the public service requirements[^key-ebcbd67f7bb0e49f2f9a1f0fc569d918] (as defined in section 264A).
+- (b) contribute towards the fulfilment of the public service requirements[^c-ebcbd67f7bb0e49f2f9a1f0fc569d918] (as defined in section 264A).
 
 (4) In performing their duties under subsections (1) to (3) C4C must—
 
@@ -70,6 +70,6 @@ and a film is a “third party film” if C4C did not participate in making it.
 
 ## Annotations
 
-[^key-58277c1e16c6589afca5c27c329a2212]: Textual amendment: S. 198A inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/22/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-58277c1e16c6589afca5c27c329a2212]: Textual amendment: S. 198A inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/22/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-ebcbd67f7bb0e49f2f9a1f0fc569d918]: Textual amendment: Word in [s. 198A(3)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/198A/3/b) substituted (1.1.2026) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/25); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/u)
+[^c-ebcbd67f7bb0e49f2f9a1f0fc569d918]: Textual amendment: Word in [s. 198A(3)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/198A/3/b) substituted (1.1.2026) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/25); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/u)

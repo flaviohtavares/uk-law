@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A.9. When the duties of the court apply and recording reasons for decisions made under this Part[^key-c31fab2c436238e66887a59bc9717311]
+## 3A.9. When the duties of the court apply and recording reasons for decisions made under this Part[^c-c31fab2c436238e66887a59bc9717311]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c31fab2c436238e66887a59bc9717311]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2010/2955/part/3A) inserted (27.11.2017) by [The Family Procedure (Amendment No. 3) Rules 2017 (S.I. 2017/1033)](https://www.legislation.gov.uk/uksi/2017/1033), [rules 1](https://www.legislation.gov.uk/uksi/2017/1033/rule/1), [3](https://www.legislation.gov.uk/uksi/2017/1033/rule/3)
+[^c-c31fab2c436238e66887a59bc9717311]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2010/2955/part/3A) inserted (27.11.2017) by [The Family Procedure (Amendment No. 3) Rules 2017 (S.I. 2017/1033)](https://www.legislation.gov.uk/uksi/2017/1033), [rules 1](https://www.legislation.gov.uk/uksi/2017/1033/rule/1), [3](https://www.legislation.gov.uk/uksi/2017/1033/rule/3)

@@ -67,7 +67,7 @@ Every Church Estates Commissioner so appointed as aforesaid, before he proceed t
 
 ## 24. Extension of the powers of 6 & 7 W. 4. c. 77. s. 10 for abolishing peculiar or exempt jurisdiction.
 
-[^key-089d604d846b263ef4634ca62c754602]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-089d604d846b263ef4634ca62c754602]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c565288]
 
@@ -77,7 +77,7 @@ Every Church Estates Commissioner so appointed as aforesaid, before he proceed t
 
 ## 28. Powers, &c. of former Acts extended to this Act.
 
-[^key-656ced97abbb81f1cad6b3b1f67b0a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-656ced97abbb81f1cad6b3b1f67b0a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 29. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c565291]
 
@@ -119,7 +119,7 @@ Every Church Estates Commissioner so appointed as aforesaid, before he proceed t
 
 [^c565286]: Textual amendment: [Ss. 5–7](https://www.legislation.gov.uk/ukpga/Vict/13-14/94/section/5), [10–15](https://www.legislation.gov.uk/ukpga/Vict/13-14/94/section/10), [22](https://www.legislation.gov.uk/ukpga/Vict/13-14/94/section/22), [23](https://www.legislation.gov.uk/ukpga/Vict/13-14/94/section/23) and 26 repealed by [Statute Law Revision Act 1964 (c. 79)](https://www.legislation.gov.uk/ukpga/1964/79)
 
-[^key-089d604d846b263ef4634ca62c754602]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/Vict/13-14/94/section/24) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-089d604d846b263ef4634ca62c754602]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/Vict/13-14/94/section/24) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
 
 [^c565288]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/Vict/13-14/94/section/25) repealed by [Endowments and Glebe Measure 1976 (No. 4, SIF 21:8)](https://www.legislation.gov.uk/ukcm/1976/4), [s. 47](https://www.legislation.gov.uk/ukcm/1976/4/section/47), [Sch. 8](https://www.legislation.gov.uk/ukcm/1976/4/schedule/8)
 
@@ -127,6 +127,6 @@ Every Church Estates Commissioner so appointed as aforesaid, before he proceed t
 
 [^c565290]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/Vict/13-14/94/section/27) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. VII](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/VII)
 
-[^key-656ced97abbb81f1cad6b3b1f67b0a68]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/Vict/13-14/94/section/28) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
+[^c-656ced97abbb81f1cad6b3b1f67b0a68]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/Vict/13-14/94/section/28) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6 Group 2(1)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6)
 
 [^c565291]: Textual amendment: [Ss. 16](https://www.legislation.gov.uk/ukpga/Vict/13-14/94/section/16), [18](https://www.legislation.gov.uk/ukpga/Vict/13-14/94/section/18) and 29 repealed by [Statute Law Revision Act 1875 (c. 66)](https://www.legislation.gov.uk/ukpga/1875/66)

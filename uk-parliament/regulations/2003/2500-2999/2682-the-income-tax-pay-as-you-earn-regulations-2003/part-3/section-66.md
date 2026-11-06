@@ -37,7 +37,7 @@ summary: ''
 - (b) the amount of the payment, and
 - (c) the amount of tax, if any, deducted or repaid on making the payment, or to be deducted or accounted for under regulation 62(4) or (5) (notional payments).
 
-(4A)[^key-20bc666e02e6e601f7c852f558eb25dc] For the purposes of paragraphs (4)(a) and (6)(a), (b), (c), and (e)(i), a relevant payment—
+(4A)[^c-20bc666e02e6e601f7c852f558eb25dc] For the purposes of paragraphs (4)(a) and (6)(a), (b), (c), and (e)(i), a relevant payment—
 
 - (a) which comprises an amount of retrospective employment income, and
 - (b) which was actually paid during a tax year which is not closed,
@@ -55,7 +55,7 @@ shall be treated, for the purpose of computing the amount of tax to be deducted,
 - (b) the total free pay to date or, as the case may be, the total additional pay to date, in relation to that date,
 - (c) the total taxable payments to date in relation to that date,
 - (d) the corresponding total tax to date,
-- (e)[^key-cd2cb0e9fbd4d6827ac9c9565e14f61e] the tax due to be deducted at that date (subject to the overriding limit),
+- (e)[^c-cd2cb0e9fbd4d6827ac9c9565e14f61e] the tax due to be deducted at that date (subject to the overriding limit),
 - (ea) the overriding limit, if any, in relation to the payment,
 - (eb) the amount of any tax not deducted at that date because of the overriding limit, and
 - (f) any amount of tax which is not to be repaid because of regulation 64 (trade disputes).
@@ -71,12 +71,12 @@ shall be treated, for the purpose of computing the amount of tax to be deducted,
 - (b) the taxable payments, and
 - (c) ... the tax due to be deducted and the overriding limit.
 
-(9)[^key-67371f047ffb275591cc6b485a15b657] Nothing in this regulation applies to a closed tax year (see regulation 66A).
+(9)[^c-67371f047ffb275591cc6b485a15b657] Nothing in this regulation applies to a closed tax year (see regulation 66A).
 
 ## Annotations
 
-[^key-20bc666e02e6e601f7c852f558eb25dc]: Textual amendment: [Reg. 66(4A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/66/4A) inserted (6.4.2007) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2007 (S.I. 2007/1077)](https://www.legislation.gov.uk/uksi/2007/1077), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1077/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2007/1077/regulation/9/2)
+[^c-20bc666e02e6e601f7c852f558eb25dc]: Textual amendment: [Reg. 66(4A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/66/4A) inserted (6.4.2007) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2007 (S.I. 2007/1077)](https://www.legislation.gov.uk/uksi/2007/1077), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1077/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2007/1077/regulation/9/2)
 
-[^key-cd2cb0e9fbd4d6827ac9c9565e14f61e]: Textual amendment: [Reg. 66(6)(e)-(eb)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/66/6/e) substituted for reg. 66(6)(e) (6.4.2015) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2014 (S.I. 2014/2689)](https://www.legislation.gov.uk/uksi/2014/2689), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2689/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2014/2689/regulation/6/a)
+[^c-cd2cb0e9fbd4d6827ac9c9565e14f61e]: Textual amendment: [Reg. 66(6)(e)-(eb)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/66/6/e) substituted for reg. 66(6)(e) (6.4.2015) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2014 (S.I. 2014/2689)](https://www.legislation.gov.uk/uksi/2014/2689), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2689/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2014/2689/regulation/6/a)
 
-[^key-67371f047ffb275591cc6b485a15b657]: Textual amendment: [Reg. 66(9)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/66/9) added (6.4.2007) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2007 (S.I. 2007/1077)](https://www.legislation.gov.uk/uksi/2007/1077), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1077/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/1077/regulation/9/3)
+[^c-67371f047ffb275591cc6b485a15b657]: Textual amendment: [Reg. 66(9)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/66/9) added (6.4.2007) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2007 (S.I. 2007/1077)](https://www.legislation.gov.uk/uksi/2007/1077), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1077/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/1077/regulation/9/3)

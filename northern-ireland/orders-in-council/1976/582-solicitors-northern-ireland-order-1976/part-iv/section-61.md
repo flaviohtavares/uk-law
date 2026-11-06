@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Power to make regulations as to procedure[^key-082446a2d95d85e59b0d756708919581]
+## 61. Power to make regulations as to procedure[^c-082446a2d95d85e59b0d756708919581]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Council may make regulations with respect to the procedure to be followed in
 
 ## Annotations
 
-[^key-082446a2d95d85e59b0d756708919581]: Modification: [Art. 61](https://www.legislation.gov.uk/nisi/1976/582/article/61) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(oo)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/oo)
+[^c-082446a2d95d85e59b0d756708919581]: Modification: [Art. 61](https://www.legislation.gov.uk/nisi/1976/582/article/61) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(oo)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/oo)

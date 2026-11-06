@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Reduction in certain cases[^key-6f27f291186d7101ffec41c21c6c00c7]
+## 101. Reduction in certain cases[^c-6f27f291186d7101ffec41c21c6c00c7]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f27f291186d7101ffec41c21c6c00c7]: Commencement: [Reg. 101](https://www.legislation.gov.uk/nisr/2016/219/regulation/101) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-6f27f291186d7101ffec41c21c6c00c7]: Commencement: [Reg. 101](https://www.legislation.gov.uk/nisr/2016/219/regulation/101) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Duty to provide a rent proposal[^key-7ba9fa619acb01c5f2577a37ae739979]
+## 15. Duty to provide a rent proposal[^c-7ba9fa619acb01c5f2577a37ae739979]
 
 *Extent: E+W*
 
@@ -68,7 +68,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7ba9fa619acb01c5f2577a37ae739979]: Commencement: Reg. 15 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-7ba9fa619acb01c5f2577a37ae739979]: Commencement: Reg. 15 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00014]: Footnote: Section 25(1) was amended by [S.I. 2003/3096](https://www.legislation.gov.uk/uksi/2003/3096).
 

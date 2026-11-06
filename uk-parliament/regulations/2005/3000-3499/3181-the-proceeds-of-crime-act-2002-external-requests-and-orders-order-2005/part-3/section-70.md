@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Appeal about external orders[^key-a9344e5459c61db7eeac34a54f2c2ce2]
+## 70. Appeal about external orders[^c-a9344e5459c61db7eeac34a54f2c2ce2]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9344e5459c61db7eeac34a54f2c2ce2]: Commencement: [Art. 70](https://www.legislation.gov.uk/uksi/2005/3181/article/70) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-a9344e5459c61db7eeac34a54f2c2ce2]: Commencement: [Art. 70](https://www.legislation.gov.uk/uksi/2005/3181/article/70) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

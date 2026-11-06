@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Commission Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025) as regards certain protection measures in relation to highly pathogenic avian influenza and movements of pet birds accompanying their owners into the Community[^key-f6ee0592297260513ceead440e2c8823]
+## 47. Commission Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025) as regards certain protection measures in relation to highly pathogenic avian influenza and movements of pet birds accompanying their owners into the Community[^c-f6ee0592297260513ceead440e2c8823]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6ee0592297260513ceead440e2c8823]: Commencement: Reg. 47 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-f6ee0592297260513ceead440e2c8823]: Commencement: Reg. 47 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

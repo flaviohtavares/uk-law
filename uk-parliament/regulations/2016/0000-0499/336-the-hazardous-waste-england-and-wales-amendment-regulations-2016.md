@@ -48,11 +48,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The Secretary of State has been designated for the purposes of that section in relation to the environment[^f00002].
 
-## 1. Citation and commencement[^key-f63c68b3009a640c8ab28886a86777a0]
+## 1. Citation and commencement[^c-f63c68b3009a640c8ab28886a86777a0]
 
 These Regulations may be cited as the Hazardous Waste (England and Wales) (Amendment) Regulations 2016 and come into force on 1st April 2016.
 
-## 2. Amendment of the Hazardous Waste (England and Wales) Regulations 2005[^key-e64f9c04c5f1e58acbb9075f4ec16410]
+## 2. Amendment of the Hazardous Waste (England and Wales) Regulations 2005[^c-e64f9c04c5f1e58acbb9075f4ec16410]
 
 (1) The Hazardous Waste (England and Wales) Regulations 2005[^f00003] are amended as follows.
 
@@ -121,7 +121,7 @@ These Regulations may be cited as the Hazardous Waste (England and Wales) (Amend
 
 (12) In Part 1 of Schedule 12 (transitional provisions) omit paragraph 1.
 
-## 3. Consequential amendment[^key-17791743e0ef7f3afede8bdb58144cd0]
+## 3. Consequential amendment[^c-17791743e0ef7f3afede8bdb58144cd0]
 
 In the table in Part 2 of Schedule 2 to the Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015[^f00005], omit the entry relating to the Hazardous Waste (England and Wales) Regulations 2005.
 
@@ -133,7 +133,7 @@ Department for Environment, Food and Rural Affairs
 
 9th March 2016
 
-## SCHEDULE 1[^key-098956192fb911b9d3a1b1c7ce6910cb]
+## SCHEDULE 1[^c-098956192fb911b9d3a1b1c7ce6910cb]
 
 Regulation 2(9)
 
@@ -145,7 +145,7 @@ Regulation 2(9)
 >
 > [image: see source](https://www.legislation.gov.uk/uksi/2016/336/images/uksi_20160336_en_002)
 
-## SCHEDULE 2[^key-d90025f54dc505e1f507c5f3a6eb2bac]
+## SCHEDULE 2[^c-d90025f54dc505e1f507c5f3a6eb2bac]
 
 Regulation 2(10)
 
@@ -173,18 +173,18 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
 
-[^key-f63c68b3009a640c8ab28886a86777a0]: Commencement: Reg. 1 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1)
+[^c-f63c68b3009a640c8ab28886a86777a0]: Commencement: Reg. 1 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1)
 
-[^key-e64f9c04c5f1e58acbb9075f4ec16410]: Commencement: Reg. 2 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1)
+[^c-e64f9c04c5f1e58acbb9075f4ec16410]: Commencement: Reg. 2 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894), amended by [S.I. 2007/3476](https://www.legislation.gov.uk/uksi/2007/3476), [3538](https://www.legislation.gov.uk/uksi/2007/3538), [2009/507](https://www.legislation.gov.uk/uksi/2009/507), [2010/675](https://www.legislation.gov.uk/uksi/2010/675), [1159](https://www.legislation.gov.uk/uksi/2010/1159) and [2011/988](https://www.legislation.gov.uk/uksi/2011/988); there are other amending instruments but none is relevant.
 
 [^f00004]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-17791743e0ef7f3afede8bdb58144cd0]: Commencement: Reg. 3 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1)
+[^c-17791743e0ef7f3afede8bdb58144cd0]: Commencement: Reg. 3 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2015/462](https://www.legislation.gov.uk/uksi/2015/462), to which there are amendments not relevant to these Regulations.
 
-[^key-098956192fb911b9d3a1b1c7ce6910cb]: Commencement: Sch. 1 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1)
+[^c-098956192fb911b9d3a1b1c7ce6910cb]: Commencement: Sch. 1 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1)
 
-[^key-d90025f54dc505e1f507c5f3a6eb2bac]: Commencement: Sch. 2 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1)
+[^c-d90025f54dc505e1f507c5f3a6eb2bac]: Commencement: Sch. 2 in force at 1.4.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17.7. Application to withdraw a summons, warrant or order[^key-63244d00402b1bb11e7a33adabd10500]
+## 17.7. Application to withdraw a summons, warrant or order[^c-63244d00402b1bb11e7a33adabd10500]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63244d00402b1bb11e7a33adabd10500]: Commencement: [Rule 17.7](https://www.legislation.gov.uk/uksi/2025/909/rule/17.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-63244d00402b1bb11e7a33adabd10500]: Commencement: [Rule 17.7](https://www.legislation.gov.uk/uksi/2025/909/rule/17.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00434]: Footnote: [1965 c. 69](https://www.legislation.gov.uk/ukpga/1965/69); sections 2B, 2C and 2E were inserted by section 66 of the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25) and amended by section 109 of, and paragraph 126 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).

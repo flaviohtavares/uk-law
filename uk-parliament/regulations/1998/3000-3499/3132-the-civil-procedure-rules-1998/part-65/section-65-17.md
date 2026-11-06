@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65.17. Defendant’s response[^key-fe983083cb3d124dd305ab0b59611da3]
+## 65.17. Defendant’s response[^c-fe983083cb3d124dd305ab0b59611da3]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) Where the defendant does not file a defence within the time specified in rule 15.4 he may take part in any hearing but the court may take his failure to do so into account when deciding what order to make about costs.
 
-(3) Part 12 (default judgment) does not apply [^key-ce4ac74dce3794c3c770a82b5be6f91a]....
+(3) Part 12 (default judgment) does not apply [^c-ce4ac74dce3794c3c770a82b5be6f91a]....
 
 ## Annotations
 
-[^key-fe983083cb3d124dd305ab0b59611da3]: Textual amendment: Pt. 65 inserted (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1306/schedule/2) (with [rule 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/2/a))
+[^c-fe983083cb3d124dd305ab0b59611da3]: Textual amendment: Pt. 65 inserted (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1306/schedule/2) (with [rule 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/2/a))
 
-[^key-ce4ac74dce3794c3c770a82b5be6f91a]: Textual amendment: Words in rule 65.17(3) omitted (1.10.2005) by virtue of [The Civil Procedure (Amendment No.3) Rules 2005 (S.I. 2005/2292)](https://www.legislation.gov.uk/uksi/2005/2292), [rules 1(c)](https://www.legislation.gov.uk/uksi/2005/2292/rule/1/c), [48(g)](https://www.legislation.gov.uk/uksi/2005/2292/rule/48/g)
+[^c-ce4ac74dce3794c3c770a82b5be6f91a]: Textual amendment: Words in rule 65.17(3) omitted (1.10.2005) by virtue of [The Civil Procedure (Amendment No.3) Rules 2005 (S.I. 2005/2292)](https://www.legislation.gov.uk/uksi/2005/2292), [rules 1(c)](https://www.legislation.gov.uk/uksi/2005/2292/rule/1/c), [48(g)](https://www.legislation.gov.uk/uksi/2005/2292/rule/48/g)

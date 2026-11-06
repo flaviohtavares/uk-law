@@ -170,7 +170,7 @@ except where the resignation is under sub-paragraph (1)(d).
 - (f) identification and contact details for the liquidator (or former liquidator);
 - (g) an order either—
   - (i) that the liquidator is removed from office, or
-  - (ii) that the liquidator must summon a company meeting[^key-6d30d66a6dfd24d7d51f337a4a6cdd1e] on or before a date which is stated in the order for the purpose of considering the liquidator's removal from office; and
+  - (ii) that the liquidator must summon a company meeting[^c-6d30d66a6dfd24d7d51f337a4a6cdd1e] on or before a date which is stated in the order for the purpose of considering the liquidator's removal from office; and
 - (h) the date of the order.
 
 (8) The order of the court may include such provision as the court thinks just relating to matters arising in connection with the removal.
@@ -329,7 +329,7 @@ A liquidator who ceases to be in office as a result of removal, resignation or c
 - (e) the name and address of the proposed special manager;
 - (f) an order that the proposed special manager is appointed as special manager of the company;
 - (g) details of the special manager's responsibility over the company's business or property;
-- (h) the powers to be entrusted to the special manager under section 177(3)[^key-0ddce48b980e8c1082ea221622021350];
+- (h) the powers to be entrusted to the special manager under section 177(3)[^c-0ddce48b980e8c1082ea221622021350];
 - (i) the time allowed for the special manager to give the required security for the appointment;
 - (j) the duration of the special manager's appointment, being one of the following—
   - (i) for a fixed period stated in the order;
@@ -397,7 +397,7 @@ The rules in Chapter 2 of Part 6 apply to the statement of affairs made out by t
 
 [^c23175721]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-6d30d66a6dfd24d7d51f337a4a6cdd1e]: Textual amendment: Words in [rule 5.7(7)(g)(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/5.7/7/g/ii) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [18](https://www.legislation.gov.uk/uksi/2017/366/rule/18)
+[^c-6d30d66a6dfd24d7d51f337a4a6cdd1e]: Textual amendment: Words in [rule 5.7(7)(g)(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/5.7/7/g/ii) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [18](https://www.legislation.gov.uk/uksi/2017/366/rule/18)
 
 [^c23175731]: Marginal citation: A new section 94 is inserted by paragraph 18 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
@@ -405,6 +405,6 @@ The rules in Chapter 2 of Part 6 apply to the statement of affairs made out by t
 
 [^c23175751]: Marginal citation: A new section 173(2)(b) is inserted by paragraph 44(2) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-0ddce48b980e8c1082ea221622021350]: Textual amendment: Word in [rule 5.17(3)(h)](https://www.legislation.gov.uk/uksi/2016/1024/rule/5.17/3/h) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [19](https://www.legislation.gov.uk/uksi/2017/366/rule/19)
+[^c-0ddce48b980e8c1082ea221622021350]: Textual amendment: Word in [rule 5.17(3)(h)](https://www.legislation.gov.uk/uksi/2016/1024/rule/5.17/3/h) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [19](https://www.legislation.gov.uk/uksi/2017/366/rule/19)
 
 [^c23175761]: Marginal citation: Section 95(1A) is inserted by paragraph 19(2) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) which also omitted subsections (2) to (3) and (5) to (7).

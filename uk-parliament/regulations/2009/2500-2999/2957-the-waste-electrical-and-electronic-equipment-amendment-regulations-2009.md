@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Waste Electrical and Electronic Equipment (Amendment) Regulations 2009 (revoked)[^key-f2c731aa2bf0f655140a8646a2a95dfa]
+The Waste Electrical and Electronic Equipment (Amendment) Regulations 2009 (revoked)[^c-f2c731aa2bf0f655140a8646a2a95dfa]
 
 Made
 
@@ -44,89 +44,89 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-f2c731aa2bf0f655140a8646a2a95dfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2c731aa2bf0f655140a8646a2a95dfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f2c731aa2bf0f655140a8646a2a95dfa]
+## 1. Citation and commencement[^c-f2c731aa2bf0f655140a8646a2a95dfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Waste Electrical and Electronic Equipment Regulations 2006[^key-f2c731aa2bf0f655140a8646a2a95dfa]
+## 2. Amendments to the Waste Electrical and Electronic Equipment Regulations 2006[^c-f2c731aa2bf0f655140a8646a2a95dfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2c731aa2bf0f655140a8646a2a95dfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2c731aa2bf0f655140a8646a2a95dfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Amendments to the Waste Electrical and Electronic Equipment Regulations 2006[^key-f2c731aa2bf0f655140a8646a2a95dfa]
+## SCHEDULE — Amendments to the Waste Electrical and Electronic Equipment Regulations 2006[^c-f2c731aa2bf0f655140a8646a2a95dfa]
 
 Regulation 2
 
-### 1. Amendments to Part 1 (general)[^key-f2c731aa2bf0f655140a8646a2a95dfa]
+### 1. Amendments to Part 1 (general)[^c-f2c731aa2bf0f655140a8646a2a95dfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Amendments to Part 3 (producer obligations)[^key-f2c731aa2bf0f655140a8646a2a95dfa]
+### 2. Amendments to Part 3 (producer obligations)[^c-f2c731aa2bf0f655140a8646a2a95dfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendments to Part 4 (scheme obligations)[^key-f2c731aa2bf0f655140a8646a2a95dfa]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 10. Amendments to Part 5 (distributor obligations and rights: WEEE from private households)[^key-f2c731aa2bf0f655140a8646a2a95dfa]
+### 4. Amendments to Part 4 (scheme obligations)[^c-f2c731aa2bf0f655140a8646a2a95dfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendments to Part 7 (approval of proposed schemes and withdrawal of approval of schemes)[^key-f2c731aa2bf0f655140a8646a2a95dfa]
+**6.**[^c-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Amendments to Part 8 (approval of authorised treatment facilities and exporters)[^key-f2c731aa2bf0f655140a8646a2a95dfa]
+**9.**[^c-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**17.**[^key-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**18.**[^key-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 19. Schedule 6 (information to be included in an application for registration of producers and notification of new scheme members)[^key-f2c731aa2bf0f655140a8646a2a95dfa]
+### 10. Amendments to Part 5 (distributor obligations and rights: WEEE from private households)[^c-f2c731aa2bf0f655140a8646a2a95dfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Schedule 7 (approval of proposed schemes)[^key-f2c731aa2bf0f655140a8646a2a95dfa]
+**11.**[^c-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Amendments to Part 7 (approval of proposed schemes and withdrawal of approval of schemes)[^c-f2c731aa2bf0f655140a8646a2a95dfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Schedule 8 (approval of authorised treatment facilities and exporters)[^key-f2c731aa2bf0f655140a8646a2a95dfa]
+**13.**[^c-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Amendments to Part 8 (approval of authorised treatment facilities and exporters)[^c-f2c731aa2bf0f655140a8646a2a95dfa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^c-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-f2c731aa2bf0f655140a8646a2a95dfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Schedule 6 (information to be included in an application for registration of producers and notification of new scheme members)[^c-f2c731aa2bf0f655140a8646a2a95dfa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Schedule 7 (approval of proposed schemes)[^c-f2c731aa2bf0f655140a8646a2a95dfa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Schedule 8 (approval of authorised treatment facilities and exporters)[^c-f2c731aa2bf0f655140a8646a2a95dfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-f2c731aa2bf0f655140a8646a2a95dfa]EXPLANATORY NOTE
+[^c-f2c731aa2bf0f655140a8646a2a95dfa]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -156,4 +156,4 @@ An impact assessment (“IA”) is available and a copy can be obtained from the
 
 ## Annotations
 
-[^key-f2c731aa2bf0f655140a8646a2a95dfa]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2009/2957) revoked (1.1.2014) by [The Waste Electrical and Electronic Equipment Regulations 2013 (S.I. 2013/3113)](https://www.legislation.gov.uk/uksi/2013/3113), [reg. 96(1)(b)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/96/1/b) (with [regs. 10](https://www.legislation.gov.uk/uksi/2013/3113/regulation/10), [49](https://www.legislation.gov.uk/uksi/2013/3113/regulation/49), [50](https://www.legislation.gov.uk/uksi/2013/3113/regulation/50), [87(4)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/87/4))
+[^c-f2c731aa2bf0f655140a8646a2a95dfa]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2009/2957) revoked (1.1.2014) by [The Waste Electrical and Electronic Equipment Regulations 2013 (S.I. 2013/3113)](https://www.legislation.gov.uk/uksi/2013/3113), [reg. 96(1)(b)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/96/1/b) (with [regs. 10](https://www.legislation.gov.uk/uksi/2013/3113/regulation/10), [49](https://www.legislation.gov.uk/uksi/2013/3113/regulation/49), [50](https://www.legislation.gov.uk/uksi/2013/3113/regulation/50), [87(4)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/87/4))

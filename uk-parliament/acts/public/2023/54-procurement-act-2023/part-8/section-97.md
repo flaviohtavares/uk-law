@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Information relating to a procurement[^key-d2f53f98f08075ee9b7ba354241d15e2][^key-1cc73b74e5dc39e3031a2b71e398092a]
+## 97. Information relating to a procurement[^c-d2f53f98f08075ee9b7ba354241d15e2][^c-1cc73b74e5dc39e3031a2b71e398092a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d2f53f98f08075ee9b7ba354241d15e2]: Commencement: S. 97 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-d2f53f98f08075ee9b7ba354241d15e2]: Commencement: S. 97 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-1cc73b74e5dc39e3031a2b71e398092a]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/54/section/97) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/l)
+[^c-1cc73b74e5dc39e3031a2b71e398092a]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/54/section/97) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/l)

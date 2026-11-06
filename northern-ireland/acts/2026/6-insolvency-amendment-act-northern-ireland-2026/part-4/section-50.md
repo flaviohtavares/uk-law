@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Release of liquidator: winding up by the High Court[^key-b9947249fcd71e597a193e89de50c42a]
+## 50. Release of liquidator: winding up by the High Court[^c-b9947249fcd71e597a193e89de50c42a]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9947249fcd71e597a193e89de50c42a]: Commencement: S. 50 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-b9947249fcd71e597a193e89de50c42a]: Commencement: S. 50 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

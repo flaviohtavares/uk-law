@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Installation of service pipes etc.[^key-b9193dcfaea2beefa88cd4a878750952][^key-8638c15dec08ead218df1500e8b2b5ae]
+## 19. Installation of service pipes etc.[^c-b9193dcfaea2beefa88cd4a878750952][^c-8638c15dec08ead218df1500e8b2b5ae]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ as is necessary for the provision to that owner’s flat of such service or serv
 
 ## Annotations
 
-[^key-b9193dcfaea2beefa88cd4a878750952]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2004/11/section/19) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-b9193dcfaea2beefa88cd4a878750952]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2004/11/section/19) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
 
-[^key-8638c15dec08ead218df1500e8b2b5ae]: Modification: [S. 19](https://www.legislation.gov.uk/asp/2004/11/section/19) applied in part (13.7.2018) by [The Tenements (Scotland) Act 2004 (Gas Services) Order 2018 (S.I. 2018/658)](https://www.legislation.gov.uk/uksi/2018/658), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/658/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/658/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2018/658/article/4))
+[^c-8638c15dec08ead218df1500e8b2b5ae]: Modification: [S. 19](https://www.legislation.gov.uk/asp/2004/11/section/19) applied in part (13.7.2018) by [The Tenements (Scotland) Act 2004 (Gas Services) Order 2018 (S.I. 2018/658)](https://www.legislation.gov.uk/uksi/2018/658), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/658/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/658/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2018/658/article/4))

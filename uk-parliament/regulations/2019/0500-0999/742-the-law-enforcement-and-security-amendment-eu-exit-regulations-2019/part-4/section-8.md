@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Revocation of Council Decisions relating to cross-border surveillance[^key-243c59344861f6e5c6a0544e37623178]
+## 8. Revocation of Council Decisions relating to cross-border surveillance[^c-243c59344861f6e5c6a0544e37623178]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,10 +28,10 @@ summary: ''
 
 (2) Council Decision 2003/725/JHA of 2 October 2003 amending the provisions of Article 40(1) and (7) of the Convention implementing the Schengen Agreement of 14 June 1985 on the gradual abolition of checks at common borders is revoked.
 
-(3)[^key-7b47d658d38e3d26c7857232c2f05743] See Article 63(1)(a) and Title VII of Part 3 of the withdrawal agreement, Article 52(a) and Title IV of Part 3 the EEA EFTA separation agreement and sections 7A to 7C of the Withdrawal Act.
+(3)[^c-7b47d658d38e3d26c7857232c2f05743] See Article 63(1)(a) and Title VII of Part 3 of the withdrawal agreement, Article 52(a) and Title IV of Part 3 the EEA EFTA separation agreement and sections 7A to 7C of the Withdrawal Act.
 
 ## Annotations
 
-[^key-243c59344861f6e5c6a0544e37623178]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-243c59344861f6e5c6a0544e37623178]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7b47d658d38e3d26c7857232c2f05743]: Textual amendment: Reg. 8(3) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/1408/regulation/7)
+[^c-7b47d658d38e3d26c7857232c2f05743]: Textual amendment: Reg. 8(3) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/1408/regulation/7)

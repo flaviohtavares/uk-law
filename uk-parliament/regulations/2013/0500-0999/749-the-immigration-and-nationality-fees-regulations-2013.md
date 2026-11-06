@@ -34,7 +34,7 @@ Immigration
 
 Nationality
 
-The Immigration and Nationality (Fees) Regulations 2013 (revoked)[^key-38051c89e909a65ec81753fb7fd81992]
+The Immigration and Nationality (Fees) Regulations 2013 (revoked)[^c-38051c89e909a65ec81753fb7fd81992]
 
 Made
 
@@ -42,138 +42,138 @@ Made
 
 Coming into force in accordance with regulation 1.
 
-[^key-38051c89e909a65ec81753fb7fd81992]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38051c89e909a65ec81753fb7fd81992]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-38051c89e909a65ec81753fb7fd81992]
+## 1. Citation and commencement[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-38051c89e909a65ec81753fb7fd81992]
+## 2. Interpretation[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees for applications, processes and services in connection with immigration and nationality[^key-38051c89e909a65ec81753fb7fd81992]
+## 3. Fees for applications, processes and services in connection with immigration and nationality[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-38051c89e909a65ec81753fb7fd81992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-38051c89e909a65ec81753fb7fd81992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-38051c89e909a65ec81753fb7fd81992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-38051c89e909a65ec81753fb7fd81992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-38051c89e909a65ec81753fb7fd81992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-38051c89e909a65ec81753fb7fd81992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-38051c89e909a65ec81753fb7fd81992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-38051c89e909a65ec81753fb7fd81992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-38051c89e909a65ec81753fb7fd81992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-38051c89e909a65ec81753fb7fd81992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Consequences of failing to pay the specified fee[^key-38051c89e909a65ec81753fb7fd81992]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 10. Revocation[^key-38051c89e909a65ec81753fb7fd81992]
+## 9. Consequences of failing to pay the specified fee[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-38051c89e909a65ec81753fb7fd81992]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 10. Revocation[^c-38051c89e909a65ec81753fb7fd81992]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-38051c89e909a65ec81753fb7fd81992]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — FEES FOR APPLICATIONS FOR LEAVE TO REMAIN IN THE UNITED KINGDOM[^key-38051c89e909a65ec81753fb7fd81992]
+## SCHEDULE 1 — FEES FOR APPLICATIONS FOR LEAVE TO REMAIN IN THE UNITED KINGDOM[^c-38051c89e909a65ec81753fb7fd81992]
 
 Regulation 3
 
-### 1. Interpretation[^key-38051c89e909a65ec81753fb7fd81992]
+### 1. Interpretation[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Fees for, and in connection with, applications for leave to remain in the United Kingdom[^key-38051c89e909a65ec81753fb7fd81992]
+### 2. Fees for, and in connection with, applications for leave to remain in the United Kingdom[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Applications by dependants[^key-38051c89e909a65ec81753fb7fd81992]
+### 3. Applications by dependants[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Separate applications by dependants of those applying under the Points-Based System[^key-38051c89e909a65ec81753fb7fd81992]
+### 4. Separate applications by dependants of those applying under the Points-Based System[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Multiple applications for leave to remain in the United Kingdom[^key-38051c89e909a65ec81753fb7fd81992]
+### 5. Multiple applications for leave to remain in the United Kingdom[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — FEES FOR APPLICATIONS FOR ENTRY CLEARANCE TO ENTER THE UNITED KINGDOM[^key-38051c89e909a65ec81753fb7fd81992]
+## SCHEDULE 2 — FEES FOR APPLICATIONS FOR ENTRY CLEARANCE TO ENTER THE UNITED KINGDOM[^c-38051c89e909a65ec81753fb7fd81992]
 
 Regulation 4
 
-### 1. Fees for, and in connection with, applications for entry clearance to enter the United Kingdom[^key-38051c89e909a65ec81753fb7fd81992]
+### 1. Fees for, and in connection with, applications for entry clearance to enter the United Kingdom[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — FEES IN RELATION TO SPONSOR LICENCES[^key-38051c89e909a65ec81753fb7fd81992]
+## SCHEDULE 3 — FEES IN RELATION TO SPONSOR LICENCES[^c-38051c89e909a65ec81753fb7fd81992]
 
 Regulation 5
 
-### 1. Fees for applications for sponsor licences, for premium sponsor status or for certificates of sponsorship[^key-38051c89e909a65ec81753fb7fd81992]
+### 1. Fees for applications for sponsor licences, for premium sponsor status or for certificates of sponsorship[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-38051c89e909a65ec81753fb7fd81992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-38051c89e909a65ec81753fb7fd81992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — FEES FOR APPLICATIONS IN CONNECTION WITH NATIONALITY[^key-38051c89e909a65ec81753fb7fd81992]
+## SCHEDULE 4 — FEES FOR APPLICATIONS IN CONNECTION WITH NATIONALITY[^c-38051c89e909a65ec81753fb7fd81992]
 
 Regulation 6
 
-### 1. Interpretation[^key-38051c89e909a65ec81753fb7fd81992]
+### 1. Interpretation[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Fees for applications relating to nationality[^key-38051c89e909a65ec81753fb7fd81992]
+### 2. Fees for applications relating to nationality[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Fee reduction for applications for naturalisation by spouses or civil partners[^key-38051c89e909a65ec81753fb7fd81992]
+### 3. Fee reduction for applications for naturalisation by spouses or civil partners[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Fee reduction for applications for registration in respect of two or more children[^key-38051c89e909a65ec81753fb7fd81992]
+### 4. Fee reduction for applications for registration in respect of two or more children[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — FEES FOR ENTRY CLEARANCE TO ENTER THE CHANNEL ISLANDS[^key-38051c89e909a65ec81753fb7fd81992]
+## SCHEDULE 5 — FEES FOR ENTRY CLEARANCE TO ENTER THE CHANNEL ISLANDS[^c-38051c89e909a65ec81753fb7fd81992]
 
 Regulation 7
 
-### 1. Interpretation[^key-38051c89e909a65ec81753fb7fd81992]
+### 1. Interpretation[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Fees for applications for entry clearance to enter the Channel Islands[^key-38051c89e909a65ec81753fb7fd81992]
+### 2. Fees for applications for entry clearance to enter the Channel Islands[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — FEES FOR EXPEDITING APPLICATIONS, APPLICATIONS MADE IN PERSON, AND OPTIONAL SERVICES FOR APPLICANTS[^key-38051c89e909a65ec81753fb7fd81992]
+## SCHEDULE 6 — FEES FOR EXPEDITING APPLICATIONS, APPLICATIONS MADE IN PERSON, AND OPTIONAL SERVICES FOR APPLICANTS[^c-38051c89e909a65ec81753fb7fd81992]
 
 Regulation 8
 
-### 1. Interpretation[^key-38051c89e909a65ec81753fb7fd81992]
+### 1. Interpretation[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Fees for expediting applications for leave to remain in the United Kingdom, the transfer of conditions, and the provision of services outside office hours[^key-38051c89e909a65ec81753fb7fd81992]
+### 2. Fees for expediting applications for leave to remain in the United Kingdom, the transfer of conditions, and the provision of services outside office hours[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Waiver in respect of fees for expediting applications for leave to remain in the United Kingdom, the transfer of conditions, and the provision of services outside office hours[^key-38051c89e909a65ec81753fb7fd81992]
+### 3. Waiver in respect of fees for expediting applications for leave to remain in the United Kingdom, the transfer of conditions, and the provision of services outside office hours[^c-38051c89e909a65ec81753fb7fd81992]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-38051c89e909a65ec81753fb7fd81992]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38051c89e909a65ec81753fb7fd81992]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-38051c89e909a65ec81753fb7fd81992]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/749) revoked (6.4.2014) by [The Immigration and Nationality (Fees) Regulations 2014 (S.I. 2014/922)](https://www.legislation.gov.uk/uksi/2014/922), [reg. 12](https://www.legislation.gov.uk/uksi/2014/922/regulation/12)
+[^c-38051c89e909a65ec81753fb7fd81992]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/749) revoked (6.4.2014) by [The Immigration and Nationality (Fees) Regulations 2014 (S.I. 2014/922)](https://www.legislation.gov.uk/uksi/2014/922), [reg. 12](https://www.legislation.gov.uk/uksi/2014/922/regulation/12)

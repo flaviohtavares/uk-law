@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Warrant to enter premises by force[^key-9540edc25eb5df445abafe95570945e4]
+## 57. Warrant to enter premises by force[^c-9540edc25eb5df445abafe95570945e4]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9540edc25eb5df445abafe95570945e4]: Commencement: [S. 57](https://www.legislation.gov.uk/nia/2011/23/section/57) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-9540edc25eb5df445abafe95570945e4]: Commencement: [S. 57](https://www.legislation.gov.uk/nia/2011/23/section/57) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

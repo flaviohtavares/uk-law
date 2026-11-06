@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE — Repeals[^key-7905a8824168b6961e4ab2025b76e0aa]
+## SCHEDULE — Repeals[^c-7905a8824168b6961e4ab2025b76e0aa]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7905a8824168b6961e4ab2025b76e0aa]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2006/4/schedule) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-7905a8824168b6961e4ab2025b76e0aa]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2006/4/schedule) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

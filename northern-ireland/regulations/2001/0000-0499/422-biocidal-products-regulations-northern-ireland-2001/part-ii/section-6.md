@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Assessment of applications concerning new active substances[^key-eca334b57fb99840cbcf06dfaaa79a48]
+## 6. Assessment of applications concerning new active substances[^c-eca334b57fb99840cbcf06dfaaa79a48]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eca334b57fb99840cbcf06dfaaa79a48]: Commencement: Reg. 6 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-eca334b57fb99840cbcf06dfaaa79a48]: Commencement: Reg. 6 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Designation of undertaking[^key-a4bd812b01c91e1b258f1a1de08817f3][^key-b00612cc3f3c7defa4ecb92b2e4bfd49]
+## 2. Designation of undertaking[^c-a4bd812b01c91e1b258f1a1de08817f3][^c-b00612cc3f3c7defa4ecb92b2e4bfd49]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ in respect of the digital activity.
 
 ## Annotations
 
-[^key-a4bd812b01c91e1b258f1a1de08817f3]: Commencement: S. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a4bd812b01c91e1b258f1a1de08817f3]: Commencement: S. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b00612cc3f3c7defa4ecb92b2e4bfd49]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/13/section/2) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-b00612cc3f3c7defa4ecb92b2e4bfd49]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/13/section/2) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

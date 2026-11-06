@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Powers of ... tribunals on reference of contracts.[^key-23e1dea279b1d28ec3a008ec51ea12c1]
+## 78. Powers of ... tribunals on reference of contracts.[^c-23e1dea279b1d28ec3a008ec51ea12c1]
 
 *Extent: E+W*
 
-(1) Where a restricted contract is referred to the appropriate tribunal[^key-8c2cc44cb340735ab6e5a0939ba48471] and the reference is not, before the tribunal have entered upon consideration of it, withdrawn by the party or authority who made it, the tribunal shall consider it.
+(1) Where a restricted contract is referred to the appropriate tribunal[^c-8c2cc44cb340735ab6e5a0939ba48471] and the reference is not, before the tribunal have entered upon consideration of it, withdrawn by the party or authority who made it, the tribunal shall consider it.
 
 (2) After making such inquiry as they think fit and giving to—
 
@@ -48,7 +48,7 @@ but any discount or other reduction affecting the amount of council tax payable 
 - (b) “billing authority” has the same meaning as in that Part of that Act, and
 - (c) “category of dwellings” has the same meaning as in section 30(1) and (2) of that Act.
 
-(3) On the reference of a restricted contract relating to a dwelling for which a rent is registered under Part IV of this Act, the appropriate tribunal[^key-a5c5dcbb36180f66620695a15844135f] may not reduce the rent payable under the contract below the amount which would be recoverable from the tenant under a regulated tenancy of the dwelling.
+(3) On the reference of a restricted contract relating to a dwelling for which a rent is registered under Part IV of this Act, the appropriate tribunal[^c-a5c5dcbb36180f66620695a15844135f] may not reduce the rent payable under the contract below the amount which would be recoverable from the tenant under a regulated tenancy of the dwelling.
 
 (4) An approval, reduction or increase under this section may be limited to rent payable in respect of a particular period.
 
@@ -56,15 +56,15 @@ but any discount or other reduction affecting the amount of council tax payable 
 
 ## Annotations
 
-[^key-23e1dea279b1d28ec3a008ec51ea12c1]: Textual amendment: Word in s. 78 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 20(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/20/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-23e1dea279b1d28ec3a008ec51ea12c1]: Textual amendment: Word in s. 78 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 20(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/20/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-8c2cc44cb340735ab6e5a0939ba48471]: Textual amendment: Words in [s. 78(1)](https://www.legislation.gov.uk/ukpga/1977/42/section/78/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 20(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/20/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-8c2cc44cb340735ab6e5a0939ba48471]: Textual amendment: Words in [s. 78(1)](https://www.legislation.gov.uk/ukpga/1977/42/section/78/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 20(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/20/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c16039531]: Textual amendment: Words repealed by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 26](https://www.legislation.gov.uk/ukpga/1980/51/schedule/26)
 
 [^c16039541]: Textual amendment: S. 78(2A)(2B) inserted (1.4.1993) by [S.I. 1993/651](https://www.legislation.gov.uk/uksi/1993/651), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/651/article/2/1), [Sch. 1 para.8](https://www.legislation.gov.uk/uksi/1993/651/schedule/1/paragraph/8)
 
-[^key-a5c5dcbb36180f66620695a15844135f]: Textual amendment: Words in [s. 78(3)](https://www.legislation.gov.uk/ukpga/1977/42/section/78/3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 20(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/20/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-a5c5dcbb36180f66620695a15844135f]: Textual amendment: Words in [s. 78(3)](https://www.legislation.gov.uk/ukpga/1977/42/section/78/3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 20(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/20/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c16039551]: Textual amendment: Words substituted by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 25 Pt. I para. 42](https://www.legislation.gov.uk/ukpga/1980/51/schedule/25/part/I/paragraph/42)
 

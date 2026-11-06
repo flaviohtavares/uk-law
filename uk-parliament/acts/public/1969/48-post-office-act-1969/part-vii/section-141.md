@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Repeals.[^key-9a72ee4a316a4576d85450dc768dce88]
+## 141. Repeals.[^c-9a72ee4a316a4576d85450dc768dce88]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a72ee4a316a4576d85450dc768dce88]: Textual amendment: [S. 141](https://www.legislation.gov.uk/ukpga/1969/48/section/141) repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/3))
+[^c-9a72ee4a316a4576d85450dc768dce88]: Textual amendment: [S. 141](https://www.legislation.gov.uk/ukpga/1969/48/section/141) repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 289. Compensation where highway is pedestrianised[^key-83271c362e5eb34bcb977edf8baff53f]
+## 289. Compensation where highway is pedestrianised[^c-83271c362e5eb34bcb977edf8baff53f]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83271c362e5eb34bcb977edf8baff53f]: Commencement: S. 289 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-83271c362e5eb34bcb977edf8baff53f]: Commencement: S. 289 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

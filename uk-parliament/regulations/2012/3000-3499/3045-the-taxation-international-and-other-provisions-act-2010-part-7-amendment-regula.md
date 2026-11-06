@@ -32,7 +32,7 @@ summary: ''
 
 Corporation Tax
 
-The Taxation (International and Other Provisions) Act 2010 (Part 7) (Amendment) Regulations 2012 (revoked)[^key-1ca3395e38edf549edf97eedd0e7c6f9]
+The Taxation (International and Other Provisions) Act 2010 (Part 7) (Amendment) Regulations 2012 (revoked)[^c-1ca3395e38edf549edf97eedd0e7c6f9]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 1st January 2013
 
-[^key-1ca3395e38edf549edf97eedd0e7c6f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ca3395e38edf549edf97eedd0e7c6f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1ca3395e38edf549edf97eedd0e7c6f9]
+## 1. Citation and commencement[^c-1ca3395e38edf549edf97eedd0e7c6f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Part 7 of the Taxation (International and Other Provisions) Act 2010[^key-1ca3395e38edf549edf97eedd0e7c6f9]
+## 2. Amendment of Part 7 of the Taxation (International and Other Provisions) Act 2010[^c-1ca3395e38edf549edf97eedd0e7c6f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1ca3395e38edf549edf97eedd0e7c6f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1ca3395e38edf549edf97eedd0e7c6f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1ca3395e38edf549edf97eedd0e7c6f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1ca3395e38edf549edf97eedd0e7c6f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1ca3395e38edf549edf97eedd0e7c6f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1ca3395e38edf549edf97eedd0e7c6f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1ca3395e38edf549edf97eedd0e7c6f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1ca3395e38edf549edf97eedd0e7c6f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1ca3395e38edf549edf97eedd0e7c6f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1ca3395e38edf549edf97eedd0e7c6f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ca3395e38edf549edf97eedd0e7c6f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ca3395e38edf549edf97eedd0e7c6f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1ca3395e38edf549edf97eedd0e7c6f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ca3395e38edf549edf97eedd0e7c6f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ca3395e38edf549edf97eedd0e7c6f9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/3045) revoked (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(3)(f)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/3/f)
+[^c-1ca3395e38edf549edf97eedd0e7c6f9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/3045) revoked (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(3)(f)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/3/f)

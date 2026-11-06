@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Commencement of pensions[^key-175b4f819ce489366a422ae21748ab5e]
+## 79. Commencement of pensions[^c-175b4f819ce489366a422ae21748ab5e]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-175b4f819ce489366a422ae21748ab5e]: Commencement: Reg. 79 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-175b4f819ce489366a422ae21748ab5e]: Commencement: Reg. 79 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -65,25 +65,25 @@ An Act of the National Assembly for Wales to make provision for the abolition of
 
 ## Restriction on exercising the right to buy and the right to acquire
 
-### 2. Restriction on exercising the right to buy[^key-891d1b1b7684d31298bdec048d2a4558]
+### 2. Restriction on exercising the right to buy[^c-891d1b1b7684d31298bdec048d2a4558]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Exceptions to the restriction on exercising the right to buy[^key-fc9d83a058378da067e20d43e62ed702]
+### 3. Exceptions to the restriction on exercising the right to buy[^c-fc9d83a058378da067e20d43e62ed702]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Restriction on exercising the right to acquire[^key-6e25cf2bf372c66f448bd83fdde3b38b]
+### 4. Restriction on exercising the right to acquire[^c-6e25cf2bf372c66f448bd83fdde3b38b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Exception to the restriction on exercising the right to acquire[^key-f4c94562a22bb68da797bc37504b416e]
+### 5. Exception to the restriction on exercising the right to acquire[^c-f4c94562a22bb68da797bc37504b416e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Abolition of the right to buy and the right to acquire
 
-### 6. Abolition of the right to buy and the right to acquire[^key-308dd166b072ff0e7c8cd0bc126f5e82]
+### 6. Abolition of the right to buy and the right to acquire[^c-308dd166b072ff0e7c8cd0bc126f5e82]
 
 (1) The following rights no longer exist in relation to dwellings in Wales—
 
@@ -100,7 +100,7 @@ An Act of the National Assembly for Wales to make provision for the abolition of
 
 ## Discount grants
 
-### 7. Removal of power to make grants in respect of discounts[^key-1a51f4812a190b4a378992345d7da476]
+### 7. Removal of power to make grants in respect of discounts[^c-1a51f4812a190b4a378992345d7da476]
 
 (1) The Housing Act 1996 (c. 52) is amended as follows.
 
@@ -108,7 +108,7 @@ An Act of the National Assembly for Wales to make provision for the abolition of
 
 ## Duty to provide tenants and prospective tenants with information
 
-### 8. Information for tenants and prospective tenants[^key-2913288f09d5d29e2ed6a6402b70feda]
+### 8. Information for tenants and prospective tenants[^c-2913288f09d5d29e2ed6a6402b70feda]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -152,19 +152,19 @@ The short title of this Act is the Abolition of the Right to Buy and Associated 
 
 ### Finance Act 1981 (c. 35)
 
-**1.**[^key-e5177161bb8b5aef691f9edb26a4644c] (1) The Finance Act 1981 is amended as follows.
+**1.**[^c-e5177161bb8b5aef691f9edb26a4644c] (1) The Finance Act 1981 is amended as follows.
 
 (2) In section 107 (sale of houses at discount by local authorities), omit subsection (3C).
 
 ### Housing Act 1988 (c. 50)
 
-**2.**[^key-8a4950249c0c5aa71452e61f9322ea33] (1) The Housing Act 1988 is amended as follows.
+**2.**[^c-8a4950249c0c5aa71452e61f9322ea33] (1) The Housing Act 1988 is amended as follows.
 
 (2) In section 81 (consent required for certain subsequent disposals), in subsection (8), in paragraph (ab), omit the words from “or Part I” to the end of the paragraph.
 
 ### Housing Act 1996 (c. 52)
 
-**3.**[^key-5e1a664a787e8a61f129f295ed9a193a] (1) The Housing Act 1996 is amended as follows.
+**3.**[^c-5e1a664a787e8a61f129f295ed9a193a] (1) The Housing Act 1996 is amended as follows.
 
 (2) In section 10 (lettings and other disposals not requiring consent of Welsh Ministers), omit subsection (3).
 
@@ -184,13 +184,13 @@ The short title of this Act is the Abolition of the Right to Buy and Associated 
 
 ### Finance Act 2003 (c. 14)
 
-**4.**[^key-8ed477f99a080ca8d62ae9500f24825a] (1) The Finance Act 2003 is amended as follows.
+**4.**[^c-8ed477f99a080ca8d62ae9500f24825a] (1) The Finance Act 2003 is amended as follows.
 
 (2) In Schedule 9 (stamp duty land tax: right to buy, shared ownership leases etc.), in paragraph 1 (right to buy transactions), omit sub-paragraph (5).
 
 ### Housing Act 2004 (c. 34)
 
-**5.**[^key-1c2c90e599da00faa9a7a7462beda4c2] (1) The Housing Act 2004 is amended as follows.
+**5.**[^c-1c2c90e599da00faa9a7a7462beda4c2] (1) The Housing Act 2004 is amended as follows.
 
 (2) In section 192 (right to buy: suspension by court order), in subsection (3), for paragraph (b) substitute—
 
@@ -212,7 +212,7 @@ The short title of this Act is the Abolition of the Right to Buy and Associated 
 
 ### Housing and Regeneration Act 2008 (c. 17)
 
-**6.**[^key-ca15be65056d33949e111ef2533c61d6] (1) The Housing and Regeneration Act 2008 is amended as follows.
+**6.**[^c-ca15be65056d33949e111ef2533c61d6] (1) The Housing and Regeneration Act 2008 is amended as follows.
 
 (2) In section 62 (reference to Welsh Ministers), in the table, in the first column omit the reference to section 17(1), (2)(b), (5)(b) and (6), and in the second column omit the corresponding entry.
 
@@ -263,7 +263,7 @@ The short title of this Act is the Abolition of the Right to Buy and Associated 
 
 ### Housing (Wales) Measure 2011 (nawm 5)
 
-**7.**[^key-4d8149e8a5c3de57f52bd0f3da7d7c29] (1) The Housing (Wales) Measure 2011 is amended as follows.
+**7.**[^c-4d8149e8a5c3de57f52bd0f3da7d7c29] (1) The Housing (Wales) Measure 2011 is amended as follows.
 
 (2) Part 1 is repealed.
 
@@ -271,46 +271,46 @@ The short title of this Act is the Abolition of the Right to Buy and Associated 
 
 ### Prevention of Social Housing Fraud Act 2013 (c. 3)
 
-**8.**[^key-ae8c64a1fcd098886b7d463945a8f499] (1) The Prevention of Social Housing Fraud Act 2013 is amended as follows.
+**8.**[^c-ae8c64a1fcd098886b7d463945a8f499] (1) The Prevention of Social Housing Fraud Act 2013 is amended as follows.
 
 (2) In section 7 (regulations about powers to require information), in subsection (7), in paragraph (e)(ii), after “under section 16 of the Housing Act 1996”, insert “ before the repeal of that section by the Abolition of the Right to Buy and Associated Rights (Wales) Act 2017 came into force ”.
 
 ### Renting Homes (Wales) Act 2016 (anaw 1)
 
-**9.**[^key-def6267a55247bcdad3be7857df8a8a2] (1) The Renting Homes (Wales) Act 2016 is amended as follows.
+**9.**[^c-def6267a55247bcdad3be7857df8a8a2] (1) The Renting Homes (Wales) Act 2016 is amended as follows.
 
 (2) In Schedule 2, in paragraph 8 (meaning of “long tenancy”), in sub-paragraph (1)(c), for “as it has effect” substitute “ as that Part had effect ”.
 
 ## Annotations
 
-[^key-891d1b1b7684d31298bdec048d2a4558]: Textual amendment: [S. 2](https://www.legislation.gov.uk/anaw/2018/1/section/2) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(a)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/a), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+[^c-891d1b1b7684d31298bdec048d2a4558]: Textual amendment: [S. 2](https://www.legislation.gov.uk/anaw/2018/1/section/2) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(a)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/a), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
 
-[^key-fc9d83a058378da067e20d43e62ed702]: Textual amendment: [S. 3](https://www.legislation.gov.uk/anaw/2018/1/section/3) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(a)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/a), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+[^c-fc9d83a058378da067e20d43e62ed702]: Textual amendment: [S. 3](https://www.legislation.gov.uk/anaw/2018/1/section/3) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(a)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/a), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
 
-[^key-6e25cf2bf372c66f448bd83fdde3b38b]: Textual amendment: [S. 4](https://www.legislation.gov.uk/anaw/2018/1/section/4) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(b)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/b), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+[^c-6e25cf2bf372c66f448bd83fdde3b38b]: Textual amendment: [S. 4](https://www.legislation.gov.uk/anaw/2018/1/section/4) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(b)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/b), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
 
-[^key-f4c94562a22bb68da797bc37504b416e]: Textual amendment: [S. 5](https://www.legislation.gov.uk/anaw/2018/1/section/5) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(b)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/b), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+[^c-f4c94562a22bb68da797bc37504b416e]: Textual amendment: [S. 5](https://www.legislation.gov.uk/anaw/2018/1/section/5) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(b)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/b), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
 
-[^key-308dd166b072ff0e7c8cd0bc126f5e82]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2018/1/section/6) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-308dd166b072ff0e7c8cd0bc126f5e82]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2018/1/section/6) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
 
-[^key-1a51f4812a190b4a378992345d7da476]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2018/1/section/7) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2018/100/article/4))
+[^c-1a51f4812a190b4a378992345d7da476]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2018/1/section/7) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2018/100/article/4))
 
-[^key-2913288f09d5d29e2ed6a6402b70feda]: Textual amendment: [S. 8](https://www.legislation.gov.uk/anaw/2018/1/section/8) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(c)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/c), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+[^c-2913288f09d5d29e2ed6a6402b70feda]: Textual amendment: [S. 8](https://www.legislation.gov.uk/anaw/2018/1/section/8) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(c)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/c), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
 
-[^key-e5177161bb8b5aef691f9edb26a4644c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/1) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-e5177161bb8b5aef691f9edb26a4644c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/1) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
 
-[^key-8a4950249c0c5aa71452e61f9322ea33]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/2) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-8a4950249c0c5aa71452e61f9322ea33]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/2) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
 
-[^key-5e1a664a787e8a61f129f295ed9a193a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-5e1a664a787e8a61f129f295ed9a193a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/3) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
 
-[^key-8ed477f99a080ca8d62ae9500f24825a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/4) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-8ed477f99a080ca8d62ae9500f24825a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/4) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
 
-[^key-1c2c90e599da00faa9a7a7462beda4c2]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-1c2c90e599da00faa9a7a7462beda4c2]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
 
-[^key-ca15be65056d33949e111ef2533c61d6]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-ca15be65056d33949e111ef2533c61d6]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/6) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
 
-[^key-4d8149e8a5c3de57f52bd0f3da7d7c29]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-4d8149e8a5c3de57f52bd0f3da7d7c29]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
 
-[^key-ae8c64a1fcd098886b7d463945a8f499]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/8) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-ae8c64a1fcd098886b7d463945a8f499]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/8) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
 
-[^key-def6267a55247bcdad3be7857df8a8a2]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/9) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-def6267a55247bcdad3be7857df8a8a2]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/9) in force at 26.1.2019 by [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of these rules “**costs**” means costs and expenses recoverable before the Senior Courts of England and Wales, the Court of Session or the Court of Judicature of Northern Ireland, as appropriate, and include payments in respect of the representation of a party to proceedings under section 47A (claims for damages) or 47B (collective proceedings) of the 1998 Act [^c22671791] , or section 101 of the 2024 Act (rights to enforce requirements of Part 1)[^key-e72f4cadd4be8215eae17d86bce49703], where the representation by a legal representative was provided free of charge.
+(1) For the purposes of these rules “**costs**” means costs and expenses recoverable before the Senior Courts of England and Wales, the Court of Session or the Court of Judicature of Northern Ireland, as appropriate, and include payments in respect of the representation of a party to proceedings under section 47A (claims for damages) or 47B (collective proceedings) of the 1998 Act [^c22671791] , or section 101 of the 2024 Act (rights to enforce requirements of Part 1)[^c-e72f4cadd4be8215eae17d86bce49703], where the representation by a legal representative was provided free of charge.
 
 (2) The Tribunal may at its discretion, subject to rules 48 and 49, at any stage of the proceedings make any order it thinks fit in relation to the payment of costs in respect of the whole or part of the proceedings.
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c22671791]: Marginal citation: [1998 c.41](https://www.legislation.gov.uk/ukpga/1998/41); [sections 47A](https://www.legislation.gov.uk/uksi/2015/1648/section/47A) and 47B were substituted by paragraphs 4 and 5 respectively of Schedule 8 to the [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15).
 
-[^key-e72f4cadd4be8215eae17d86bce49703]: Textual amendment: Words in [rule 104(1)](https://www.legislation.gov.uk/uksi/2015/1648/rule/104/1) inserted (1.10.2025) by [The Competition Appeal Tribunal (Amendment) Rules 2025 (S.I. 2025/999)](https://www.legislation.gov.uk/uksi/2025/999), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/999/rule/1/2), [7](https://www.legislation.gov.uk/uksi/2025/999/rule/7)
+[^c-e72f4cadd4be8215eae17d86bce49703]: Textual amendment: Words in [rule 104(1)](https://www.legislation.gov.uk/uksi/2015/1648/rule/104/1) inserted (1.10.2025) by [The Competition Appeal Tribunal (Amendment) Rules 2025 (S.I. 2025/999)](https://www.legislation.gov.uk/uksi/2025/999), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/999/rule/1/2), [7](https://www.legislation.gov.uk/uksi/2025/999/rule/7)

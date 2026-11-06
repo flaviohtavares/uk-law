@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Personation[^key-4c161909f73e5a96226d9c7e5105d828]
+## 25. Personation[^c-4c161909f73e5a96226d9c7e5105d828]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c161909f73e5a96226d9c7e5105d828]: Commencement: Art. 25 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-4c161909f73e5a96226d9c7e5105d828]: Commencement: Art. 25 in force at 16.12.2015 in accordance with art. 1(1)

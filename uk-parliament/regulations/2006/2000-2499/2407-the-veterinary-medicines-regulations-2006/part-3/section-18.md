@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Food-producing animals: records of administration by a veterinary surgeon[^key-fdf8266f457a8a8bba78e4cd5093495a]
+## 18. Food-producing animals: records of administration by a veterinary surgeon[^c-fdf8266f457a8a8bba78e4cd5093495a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdf8266f457a8a8bba78e4cd5093495a]: Commencement: Reg. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-fdf8266f457a8a8bba78e4cd5093495a]: Commencement: Reg. 18 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

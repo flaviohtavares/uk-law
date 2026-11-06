@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Time limit for exercise of authority to acquire land compulsorily[^key-5d5ea22139f9130245203661cdc7c8fc]
+## 19. Time limit for exercise of authority to acquire land compulsorily[^c-5d5ea22139f9130245203661cdc7c8fc]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5d5ea22139f9130245203661cdc7c8fc]: Commencement: Art. 19 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-5d5ea22139f9130245203661cdc7c8fc]: Commencement: Art. 19 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
 [^f00038]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66). Sections 2, 6 and 11 were amended by section 4 of, and paragraph 52 of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11). There are other amendments to the 1981 Act which are not relevant to this Order.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Role of development plan and national policy in England[^key-da916f0568f3dd7a107d6e5c1ecf69ae]
+## 93. Role of development plan and national policy in England[^c-da916f0568f3dd7a107d6e5c1ecf69ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da916f0568f3dd7a107d6e5c1ecf69ae]: Commencement: S. 93 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-da916f0568f3dd7a107d6e5c1ecf69ae]: Commencement: S. 93 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)

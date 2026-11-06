@@ -27,16 +27,16 @@ summary: ''
 - (a) make returns, and
 - (b) give information,
 
-to an officer of Revenue and Customs in respect of distributions made by the companies to which section 1100 does not apply[^key-a4a9231d8b9e122b6b92013ecdc38a1f] .
+to an officer of Revenue and Customs in respect of distributions made by the companies to which section 1100 does not apply[^c-a4a9231d8b9e122b6b92013ecdc38a1f] .
 
 (3) References in this Act and in any other enactment to sections 1101 and 1102 are to be read as including a reference to any regulations made under this section.
 
-(4) Regulations under this section may authorise the Commissioners to make special arrangements as regards the matter[^key-c1d46d8c4ea547d2216d56228efdf6b2] specified in subsection (5) if in their opinion there are circumstances justifying it.
+(4) Regulations under this section may authorise the Commissioners to make special arrangements as regards the matter[^c-c1d46d8c4ea547d2216d56228efdf6b2] specified in subsection (5) if in their opinion there are circumstances justifying it.
 
-(5) That matter is[^key-c15a677e0d5b6ceec14a9f1fc2f62d8e] —
+(5) That matter is[^c-c15a677e0d5b6ceec14a9f1fc2f62d8e] —
 
-- (a) the repayment of income tax borne by a company, [^key-b1b4865635e07db5f0ed3291d85a293e]...
-- (b)[^key-b1b4865635e07db5f0ed3291d85a293e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the repayment of income tax borne by a company, [^c-b1b4865635e07db5f0ed3291d85a293e]...
+- (b)[^c-b1b4865635e07db5f0ed3291d85a293e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Regulations under this section may—
 
@@ -47,10 +47,10 @@ to an officer of Revenue and Customs in respect of distributions made by the com
 
 ## Annotations
 
-[^key-a4a9231d8b9e122b6b92013ecdc38a1f]: Textual amendment: Words in s. 1103(2) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 41(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/41/a)
+[^c-a4a9231d8b9e122b6b92013ecdc38a1f]: Textual amendment: Words in s. 1103(2) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 41(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/41/a)
 
-[^key-c1d46d8c4ea547d2216d56228efdf6b2]: Textual amendment: Word in s. 1103(4) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 41(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/41/b)
+[^c-c1d46d8c4ea547d2216d56228efdf6b2]: Textual amendment: Word in s. 1103(4) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 41(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/41/b)
 
-[^key-c15a677e0d5b6ceec14a9f1fc2f62d8e]: Textual amendment: Words in s. 1103(5) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 41(c)(i)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/41/c/i)
+[^c-c15a677e0d5b6ceec14a9f1fc2f62d8e]: Textual amendment: Words in s. 1103(5) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 41(c)(i)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/41/c/i)
 
-[^key-b1b4865635e07db5f0ed3291d85a293e]: Textual amendment: S. 1103(5)(b) and word omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 41(c)(ii)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/41/c/ii)
+[^c-b1b4865635e07db5f0ed3291d85a293e]: Textual amendment: S. 1103(5)(b) and word omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 41(c)(ii)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/41/c/ii)

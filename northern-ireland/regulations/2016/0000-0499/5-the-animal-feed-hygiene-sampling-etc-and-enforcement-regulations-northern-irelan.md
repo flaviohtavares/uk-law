@@ -48,7 +48,7 @@ Coming into operation-
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Department of Health, Social Services and Public Safety that it is expedient for a reference to an EU instrument mentioned in regulation 2(5) to be construed as references to that instrument as any Annex to it may be amended from time to time.
 
-There has been open and transparent public consultation during the preparation of these Regulations in accordance with the requirements of Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22819651] or, in the case of provisions relating to feed for non food-producing animals, of section 84(1) of the Agriculture Act 1970.[^key-2773ccb119301a06b67cb706738e0a11]
+There has been open and transparent public consultation during the preparation of these Regulations in accordance with the requirements of Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22819651] or, in the case of provisions relating to feed for non food-producing animals, of section 84(1) of the Agriculture Act 1970.[^c-2773ccb119301a06b67cb706738e0a11]
 
 ## PART 1 — Introductory
 
@@ -61,11 +61,11 @@ These Regulations may be cited as the Animal Feed (Hygiene, Sampling etc. and En
 (1) In these Regulations—
 
 - “**the Act**” means the Agriculture Act 1970;
-- [^key-c229033aa8a9e3037a6dfe8e37924d42]...[^key-5b4d3067bc797a33c4b20dfdfca7547f]
+- [^c-c229033aa8a9e3037a6dfe8e37924d42]...[^c-5b4d3067bc797a33c4b20dfdfca7547f]
 - “Regulation 183/2005” means subject to regulation 2(5) Regulation [(EC) No. 183/2005](https://www.legislation.gov.uk/eur/2005/0183) of the European Parliament and of the Council laying down requirements for feed hygiene as last amended by Commission Regulation (EU) 2015/1905;
 - “Regulation 152/2009” means subject to regulation 2(5) Regulation [(EC) No. 152/2009](https://www.legislation.gov.uk/eur/2009/0152) laying down the methods of sampling and analysis for the official control of feed as last amended by Commission Regulation (EU) 2017/771;
 - “Regulation 767/2009” means Regulation [(EC) 767/2009](https://www.legislation.gov.uk/eur/2009/767) of the European Parliament and of the Council on the placing on the market and use of feed, amending European Parliament and Council Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/eur/2003/1831) and repealing Council [Directive 79/373/EEC](https://www.legislation.gov.uk/eudr/1979/0373), Commission [Directive 80/511/EEC](https://www.legislation.gov.uk/eudr/1980/0511), Council Directives [82/471/EEC](https://www.legislation.gov.uk/eudr/1982/471), [83/228/EEC](https://www.legislation.gov.uk/eudr/1983/228), [93/74/EEC](https://www.legislation.gov.uk/eudr/1993/74), [93/113/EC](https://www.legislation.gov.uk/eudr/1993/113) and [96/25/EC](https://www.legislation.gov.uk/eudr/1996/25) and Commission [Decision 2004/217/EC](https://www.legislation.gov.uk/eud/2004/0217) as last amended by Commission Regulation (EU) 2017/2279;
-- “Regulation 2017/625” means Regulation (EU) 2017/625 of 15 March 2017 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations[^key-ee0adef2cef3c9bfbeef728b22258e2a] [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/eudr/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/eudr/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/eudr/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/eudr/2008/0120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/eur/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/eudr/1989/608), [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662), [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425), [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496), [96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), [96/93/EC](https://www.legislation.gov.uk/eudr/1996/93) and [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/eud/1992/0438);
+- “Regulation 2017/625” means Regulation (EU) 2017/625 of 15 March 2017 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations[^c-ee0adef2cef3c9bfbeef728b22258e2a] [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/0999), [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/0396), [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069), [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107), (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations [(EC) No 1/2005](https://www.legislation.gov.uk/eur/2005/0001) and [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and Council Directives [98/58/EC](https://www.legislation.gov.uk/eudr/1998/0058), [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/0074), [2007/43/EC](https://www.legislation.gov.uk/eudr/2007/0043), [2008/119/EC](https://www.legislation.gov.uk/eudr/2008/0119) and [2008/120/EC](https://www.legislation.gov.uk/eudr/2008/0120), and repealing Regulations [(EC) No 854/2004](https://www.legislation.gov.uk/eur/2004/0854) and [(EC) No 882/2004](https://www.legislation.gov.uk/eur/2004/0882) of the European Parliament and of the Council, Council Directives [89/608/EEC](https://www.legislation.gov.uk/eudr/1989/608), [89/662/EEC](https://www.legislation.gov.uk/eudr/1989/662), [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425), [91/496/EEC](https://www.legislation.gov.uk/eudr/1991/496), [96/23/EC](https://www.legislation.gov.uk/eudr/1996/23), [96/93/EC](https://www.legislation.gov.uk/eudr/1996/93) and [97/78/EC](https://www.legislation.gov.uk/eudr/1997/78) and Council [Decision 92/438/EEC](https://www.legislation.gov.uk/eud/1992/0438);
 - “Regulation 2020/354” means Commission Regulation (EU) 2020/354 of 4 March 2020 establishing a list of intended uses of feed intended for particular nutritional purposes and repealing [Directive 2008/38/EC](https://www.legislation.gov.uk/eudr/2008/0038);
 - “**the Agency**” means the Food Standards Agency;
 - “**agricultural analyst**” means an agricultural analyst appointed under section 67 of the Act [^c22819701] ;
@@ -75,7 +75,7 @@ These Regulations may be cited as the Animal Feed (Hygiene, Sampling etc. and En
 - “**prescribed manner**” means the manner prescribed by Regulation 152/2009;
 - “**specified feed law**” means the instruments specified in Schedule 1.
 
-(2) Subject to paragraph (3), any other expression used in these Regulations and in Regulation 183/2005, Regulation 152/2009, Regulation 2017/625 or Regulation 2020/354[^key-72ab4153643f9882d28aad137c48c9da] has the same meaning in these Regulations as it does in the EU Regulation.
+(2) Subject to paragraph (3), any other expression used in these Regulations and in Regulation 183/2005, Regulation 152/2009, Regulation 2017/625 or Regulation 2020/354[^c-72ab4153643f9882d28aad137c48c9da] has the same meaning in these Regulations as it does in the EU Regulation.
 
 (3) Where, apart from this paragraph, any period of less than seven days which is specified in these Regulations would include any day which is —
 
@@ -93,7 +93,7 @@ that shall be excluded from the period.
   - (ii) gut flora stabilisers, and
   - (iii) substances incorporated into feed with the intention of favourably affecting the environment.
 
-(5) Any reference in these Regulations to Regulation 183/2005, Regulation 152/2009 or Regulation 2020/354[^key-16bf6f07027e09f250c998d42ff0f41f] is a reference to that Regulation as any Annex to it may be amended from time to time.
+(5) Any reference in these Regulations to Regulation 183/2005, Regulation 152/2009 or Regulation 2020/354[^c-16bf6f07027e09f250c998d42ff0f41f] is a reference to that Regulation as any Annex to it may be amended from time to time.
 
 (6) The Interpretation Act (Northern Ireland) 1954 [^c22819721] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
@@ -115,7 +115,7 @@ that shall be excluded from the period.
 
 (2) The competent authorities for the purposes of the section headed “Dioxin Monitoring” in Annex II are —
 
-- (a) in respect of paragraph 2(f)[^key-a7f9bfcb7eb9f3ddfb619ee7bf55344e], DARD; and
+- (a) in respect of paragraph 2(f)[^c-a7f9bfcb7eb9f3ddfb619ee7bf55344e], DARD; and
 - (b) in respect of paragraph 7, DARD and the Agency.
 
 ### 5. Enforcement of specified provisions of Regulation 183/2005
@@ -238,7 +238,7 @@ may appeal to a court of summary jurisdiction.
 
 - (a) cause each part to be marked sealed and fastened in the prescribed manner;
 - (b) send one part for analysis to the agricultural analyst from DARD;
-- (c)[^key-d646ce7b4c1b49f8a585abb2d4865d72] send another part to—
+- (c)[^c-d646ce7b4c1b49f8a585abb2d4865d72] send another part to—
   - (i) the person on whose premises the material was sampled or to that person’s agent; or
   - (ii) the person who offered the material for sale by means of distance communication if the material was ordered from such a person or to that person’s agent;
 - (d) retain and preserve the remaining part as an officially sealed reference sample.
@@ -249,7 +249,7 @@ may appeal to a court of summary jurisdiction.
 
 (4) The agricultural analyst must analyse the part of the sample sent under paragraph (1)(b), and send a certificate of analysis to the authorised officer, who must send a copy to —
 
-- (a)[^key-ff230ec784df62251ad3142b8b9ed5de] the person on whose premises the material was sampled or that person’s agent;
+- (a)[^c-ff230ec784df62251ad3142b8b9ed5de] the person on whose premises the material was sampled or that person’s agent;
 - (b) the person who offered the material for sale by means of distance communication if the material was ordered from such a person or to that person’s agent; and
 - (c) if part of the sample was sent under paragraph (2), to the person to whom that part was sent.
 
@@ -327,7 +327,7 @@ must be in the form set out in Schedule 4 and must be completed in accordance wi
 
 the method of analysis shall be the appropriate one, if any, set out in Regulation 152/2009.
 
-(2)[^key-ce574ec74d171b7b9d9fa29b921e7892] In cases where there is no appropriate method of analysis in Regulation 152/2009, the analysis must be carried out in the manner referred to in Article 34 (1) and (2) of Regulation 2017/625 as read with Regulation 2019/1793.
+(2)[^c-ce574ec74d171b7b9d9fa29b921e7892] In cases where there is no appropriate method of analysis in Regulation 152/2009, the analysis must be carried out in the manner referred to in Article 34 (1) and (2) of Regulation 2017/625 as read with Regulation 2019/1793.
 
 ### 19. Offence of tampering with a sample
 
@@ -623,9 +623,9 @@ commits an offence unless the disclosure was made in and for the purpose of the 
 
 ### 30. Liability for expenditure
 
-(1) Subject to paragraph (2) any sums due to DARD by virtue of Article 138(4) (action in the case of non-compliance) of Regulation 2017/625[^key-eaf1aa9586bc608a13414dc74090bbd6] must be paid by the feed business operator to the authority on demand.
+(1) Subject to paragraph (2) any sums due to DARD by virtue of Article 138(4) (action in the case of non-compliance) of Regulation 2017/625[^c-eaf1aa9586bc608a13414dc74090bbd6] must be paid by the feed business operator to the authority on demand.
 
-(2)[^key-c182a012fcd21772372782f11c796309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c182a012fcd21772372782f11c796309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 31. Penalties for offences
 
@@ -711,15 +711,15 @@ Regulation 2
 | The Official Feed and Food Controls Regulations (Northern Ireland) 2009, in so far as they relate to feed |
 | The Animal Feed (Composition, Marketing and Use) Regulations (Northern Ireland) 2016 |
 | The Animal Feed (Hygiene, Sampling etc. and Enforcement Regulations (Northern Ireland) 2016 |
-| The Animal Feed (Basic Safety Standards) Regulations (Northern Ireland) 2018[^key-260b526aeca37f935aea5f8fb338791a] |
+| The Animal Feed (Basic Safety Standards) Regulations (Northern Ireland) 2018[^c-260b526aeca37f935aea5f8fb338791a] |
 | Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, in so far as it relates to feed |
 | Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/eur/2003/1829) of the European Parliament and of the Council on genetically modified food and feed [^c22819821], in so far as it relates to feed |
 | Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/eur/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition [^c22819831] |
-| [^key-6a2983188777cd460c35173b571dc3c3]. . . |
+| [^c-6a2983188777cd460c35173b571dc3c3]. . . |
 | Regulation 183/2005 |
 | Commission Regulation [(EC) No. 669/2009](https://www.legislation.gov.uk/eur/2009/669) implementing Regulation [(EC) No. 882/2004](https://www.legislation.gov.uk/eur/2004/882) of the European Parliament and of the Council as regards the increased level of official controls on imports of certain feed and food of non-animal origin and amending Decision [2006/504/EC](https://www.legislation.gov.uk/eud/2006/504), in so far as it relates to feed |
 | Regulation 767/2009. |
-| Regulation 2017/625 in so far as it relates to feed[^key-e1d673d3fcf052b9543fe28eaee4754a] |
+| Regulation 2017/625 in so far as it relates to feed[^c-e1d673d3fcf052b9543fe28eaee4754a] |
 | Regulation 2020/354 |
 
 ## SCHEDULE 2 — Specified Provisions of Regulation 183/2005
@@ -869,35 +869,35 @@ Part 6 of these Regulations contains provisions that make consequential amendmen
 
 [^c22819651]: Marginal citation: OJ No. L31, 1.2.2002, p.1, as last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468 with regard to the regulatory procedure with scrutiny: adaptation to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p.14)
 
-[^key-2773ccb119301a06b67cb706738e0a11]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-2773ccb119301a06b67cb706738e0a11]: Modification: Regulations applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
-[^key-c229033aa8a9e3037a6dfe8e37924d42]: Textual amendment: Words in reg. 2(1) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/2/a/i)
+[^c-c229033aa8a9e3037a6dfe8e37924d42]: Textual amendment: Words in reg. 2(1) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/2/a/i)
 
-[^key-5b4d3067bc797a33c4b20dfdfca7547f]: Textual amendment: Words in reg. 2(1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [36(2)](https://www.legislation.gov.uk/nisr/2019/5/regulation/36/2)
+[^c-5b4d3067bc797a33c4b20dfdfca7547f]: Textual amendment: Words in reg. 2(1) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [36(2)](https://www.legislation.gov.uk/nisr/2019/5/regulation/36/2)
 
-[^key-ee0adef2cef3c9bfbeef728b22258e2a]: Textual amendment: Words in reg. 2(1) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/2/a/ii)
+[^c-ee0adef2cef3c9bfbeef728b22258e2a]: Textual amendment: Words in reg. 2(1) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/2/a/ii)
 
 [^c22819701]: Marginal citation: Section 67 is modified in its application to Northern Ireland by section 86(3) of the Act
 
-[^key-72ab4153643f9882d28aad137c48c9da]: Textual amendment: Words in reg. 2(2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/2/b)
+[^c-72ab4153643f9882d28aad137c48c9da]: Textual amendment: Words in reg. 2(2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/2/b)
 
 [^c22819711]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-16bf6f07027e09f250c998d42ff0f41f]: Textual amendment: Words in reg. 2(5) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/2/c)
+[^c-16bf6f07027e09f250c998d42ff0f41f]: Textual amendment: Words in reg. 2(5) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/2/c)
 
 [^c22819721]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a7f9bfcb7eb9f3ddfb619ee7bf55344e]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/2016/5/regulation/4/2/a) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [36(3)](https://www.legislation.gov.uk/nisr/2019/5/regulation/36/3)
+[^c-a7f9bfcb7eb9f3ddfb619ee7bf55344e]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/nisr/2016/5/regulation/4/2/a) substituted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [36(3)](https://www.legislation.gov.uk/nisr/2019/5/regulation/36/3)
 
 [^c22819731]: Marginal citation: 1981 N.I.26
 
-[^key-d646ce7b4c1b49f8a585abb2d4865d72]: Textual amendment: [Reg. 14(1)(c)](https://www.legislation.gov.uk/nisr/2016/5/regulation/14/1/c) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [41(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/41/a)
+[^c-d646ce7b4c1b49f8a585abb2d4865d72]: Textual amendment: [Reg. 14(1)(c)](https://www.legislation.gov.uk/nisr/2016/5/regulation/14/1/c) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [41(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/41/a)
 
-[^key-ff230ec784df62251ad3142b8b9ed5de]: Textual amendment: [Reg. 14(4)(a)-(c)](https://www.legislation.gov.uk/nisr/2016/5/regulation/14/a/c) substituted for reg. 14(4)(a)(b) (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [41(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/41/b)
+[^c-ff230ec784df62251ad3142b8b9ed5de]: Textual amendment: [Reg. 14(4)(a)-(c)](https://www.legislation.gov.uk/nisr/2016/5/regulation/14/a/c) substituted for reg. 14(4)(a)(b) (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [41(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/41/b)
 
 [^c22819741]: Marginal citation: As modified in its application to Northern Ireland by section 86 of the Act
 
-[^key-ce574ec74d171b7b9d9fa29b921e7892]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2016/5/regulation/18/2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/3)
+[^c-ce574ec74d171b7b9d9fa29b921e7892]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2016/5/regulation/18/2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/3)
 
 [^c22819761]: Marginal citation: OJ No. L140, 30.5.2002, p.10. This instrument was last amended by Commission Regulation (EU) No. 1275/2013 (OJ No. L328, 7.12.2013, p.86). The threshold levels referred to in Article 4.2 and set out in Annex II were last amended by Commission Regulation (EU) No. 277/2012 (OJ No. L91, 29.3.2012, p.1)
 
@@ -905,9 +905,9 @@ Part 6 of these Regulations contains provisions that make consequential amendmen
 
 [^c22819781]: Marginal citation: OJ No.L268, 18.10.2003, p.1
 
-[^key-eaf1aa9586bc608a13414dc74090bbd6]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2016/5/regulation/30/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [42(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/42/a)
+[^c-eaf1aa9586bc608a13414dc74090bbd6]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2016/5/regulation/30/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [42(a)](https://www.legislation.gov.uk/nisr/2019/218/regulation/42/a)
 
-[^key-c182a012fcd21772372782f11c796309]: Textual amendment: [Reg. 30(2)](https://www.legislation.gov.uk/nisr/2016/5/regulation/30/2) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [42(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/42/b)
+[^c-c182a012fcd21772372782f11c796309]: Textual amendment: [Reg. 30(2)](https://www.legislation.gov.uk/nisr/2016/5/regulation/30/2) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/218)](https://www.legislation.gov.uk/nisr/2019/218), [regs. 1](https://www.legislation.gov.uk/nisr/2019/218/regulation/1), [42(b)](https://www.legislation.gov.uk/nisr/2019/218/regulation/42/b)
 
 [^c22819791]: Marginal citation: OJ No. L31,1.2.2002, p.1 as last amended by Regulation (EC) No.569/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468 with regard to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p.14)
 
@@ -915,12 +915,12 @@ Part 6 of these Regulations contains provisions that make consequential amendmen
 
 [^c22819811]: Marginal citation: S.R. [2009 No.427](https://www.legislation.gov.uk/ukcm/2009/427), amended by S.R. [2010 No.323](https://www.legislation.gov.uk/ukcm/2010/323), S.R. [2010 No. 355](https://www.legislation.gov.uk/ukcm/2010/355), S.R. 2011 No. No.48 and S.R. [2013 No. 291](https://www.legislation.gov.uk/ukcm/2013/291)
 
-[^key-260b526aeca37f935aea5f8fb338791a]: Textual amendment: Words in Sch. 1 inserted (6.2.2018) by [The Animal Feed (Basic Safety Standards) Regulations (Northern Ireland) 2018 (S.R. 2018/16)](https://www.legislation.gov.uk/nisr/2018/16), [regs. 1](https://www.legislation.gov.uk/nisr/2018/16/regulation/1), [7(2)](https://www.legislation.gov.uk/nisr/2018/16/regulation/7/2)
+[^c-260b526aeca37f935aea5f8fb338791a]: Textual amendment: Words in Sch. 1 inserted (6.2.2018) by [The Animal Feed (Basic Safety Standards) Regulations (Northern Ireland) 2018 (S.R. 2018/16)](https://www.legislation.gov.uk/nisr/2018/16), [regs. 1](https://www.legislation.gov.uk/nisr/2018/16/regulation/1), [7(2)](https://www.legislation.gov.uk/nisr/2018/16/regulation/7/2)
 
 [^c22819821]: Marginal citation: OJ No. L268, 18.10.2003, p.1
 
 [^c22819831]: Marginal citation: OJ No. L268, 18.10.2003, p. 29. This Regulation was last amended by Regulation (EC) No. 767/2009
 
-[^key-6a2983188777cd460c35173b571dc3c3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2016/5/schedule/1) Table omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/4/a)
+[^c-6a2983188777cd460c35173b571dc3c3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2016/5/schedule/1) Table omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/4/a)
 
-[^key-e1d673d3fcf052b9543fe28eaee4754a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2016/5/schedule/1) Table inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/4/b)
+[^c-e1d673d3fcf052b9543fe28eaee4754a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2016/5/schedule/1) Table inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/291)](https://www.legislation.gov.uk/nisr/2020/291), [regs. 1](https://www.legislation.gov.uk/nisr/2020/291/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/nisr/2020/291/regulation/5/4/b)

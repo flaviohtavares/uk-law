@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Power to require provision of information[^key-d69fe38f77202a140ac7777cad514409][^key-86022e5e4d32d179756914e6df2aa523]
+## 210. Power to require provision of information[^c-d69fe38f77202a140ac7777cad514409][^c-86022e5e4d32d179756914e6df2aa523]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d69fe38f77202a140ac7777cad514409]: Commencement: S. 210 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-d69fe38f77202a140ac7777cad514409]: Commencement: S. 210 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-86022e5e4d32d179756914e6df2aa523]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2023/55/section/210) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)
+[^c-86022e5e4d32d179756914e6df2aa523]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2023/55/section/210) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Conversion of securities into uncertificated form[^key-29d30aa0d7294a6e734a852a813e2512]
+## 33. Conversion of securities into uncertificated form[^c-29d30aa0d7294a6e734a852a813e2512]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,13 +51,13 @@ summary: ''
 
 (10) Within 2 months of receiving a dematerialisation notice, an Operator shall generate an Operator-instruction informing the participating issuer whether an entry has been made in an Operator register of securities in response to the dematerialisation notice.
 
-(11) Such sanctions as apply to a company and its officers in the event of a default in complying with subsections (1) and (2) of section 771 of the[^key-9645b8192e6a83217453d9410869e31c] 2006 Act shall apply—
+(11) Such sanctions as apply to a company and its officers in the event of a default in complying with subsections (1) and (2) of section 771 of the[^c-9645b8192e6a83217453d9410869e31c] 2006 Act shall apply—
 
 - (a) to a participating issuer and his officers in the event of a default in complying with paragraph (6); and
 - (b) to an Operator and his officers in the event of a default in complying with paragraph (7) or (10).
 
 ## Annotations
 
-[^key-29d30aa0d7294a6e734a852a813e2512]: Commencement: Reg. 33 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-29d30aa0d7294a6e734a852a813e2512]: Commencement: Reg. 33 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-9645b8192e6a83217453d9410869e31c]: Textual amendment: Words in [reg. 33(11)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/33/11) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/15)
+[^c-9645b8192e6a83217453d9410869e31c]: Textual amendment: Words in [reg. 33(11)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/33/11) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/15)

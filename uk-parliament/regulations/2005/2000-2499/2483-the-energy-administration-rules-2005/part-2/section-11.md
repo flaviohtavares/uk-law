@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Proof of service[^key-9274a2b8e92ec42b196cdd4b8bf93dec]
+## 11. Proof of service[^c-9274a2b8e92ec42b196cdd4b8bf93dec]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9274a2b8e92ec42b196cdd4b8bf93dec]: Commencement: Rule 11 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-9274a2b8e92ec42b196cdd4b8bf93dec]: Commencement: Rule 11 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — EXCLUSION OF ENACTMENTS[^key-ceb09e46a22901ed5fc8f8a4d92c2c41]
+## SCHEDULE 3 — EXCLUSION OF ENACTMENTS[^c-ceb09e46a22901ed5fc8f8a4d92c2c41]
 
 *Extent: S*
 
@@ -36,14 +36,14 @@ Rule 3.24
 </tbody>
 </table>
 
-[^f00054][^M_F_2e243e46-120d-4fc3-e966-9922a9f982a3][^key-47698ae453d62b8bc549d76e77d9debb]
+[^f00054][^M_F_2e243e46-120d-4fc3-e966-9922a9f982a3][^c-47698ae453d62b8bc549d76e77d9debb]
 
 ## Annotations
 
-[^key-ceb09e46a22901ed5fc8f8a4d92c2c41]: Commencement: Sch. 3 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-ceb09e46a22901ed5fc8f8a4d92c2c41]: Commencement: Sch. 3 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
 [^f00054]: Footnote: [1846 c. 67](https://www.legislation.gov.uk/ukpga/1846/67).
 
 [^M_F_2e243e46-120d-4fc3-e966-9922a9f982a3]: Textual amendment: Words in Sch. 3 inserted (1.11.2007) by [Act of Sederunt (Child Care and Maintenance Rules 1997) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2007 (S.S.I. 2007/468)](https://www.legislation.gov.uk/ssi/2007/468), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2007/468/paragraph/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2007/468/paragraph/2/3)
 
-[^key-47698ae453d62b8bc549d76e77d9debb]: Textual amendment: Words in Sch. 3 inserted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/4/3)
+[^c-47698ae453d62b8bc549d76e77d9debb]: Textual amendment: Words in Sch. 3 inserted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/4/3)

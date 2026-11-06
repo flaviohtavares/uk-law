@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Modification of Part 1 of the 1965 Act[^key-656b7e0272c67a5f5c4a2402831df27e]
+## 25. Modification of Part 1 of the 1965 Act[^c-656b7e0272c67a5f5c4a2402831df27e]
 
 *Extent: E+W*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-656b7e0272c67a5f5c4a2402831df27e]: Commencement: Art. 25 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-656b7e0272c67a5f5c4a2402831df27e]: Commencement: Art. 25 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
 [^c24104251]: Marginal citation: [Section 125](https://www.legislation.gov.uk/uksi/2020/556/section/125) was amended by section 190 of, and paragraph 17 of Schedule 16 to, the [Housing and Planning Act 2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Regulations under this Act[^key-8447a54df698316817ac0a91515d74af]
+## 65. Regulations under this Act[^c-8447a54df698316817ac0a91515d74af]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8447a54df698316817ac0a91515d74af]: Commencement: S. 65 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-8447a54df698316817ac0a91515d74af]: Commencement: S. 65 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

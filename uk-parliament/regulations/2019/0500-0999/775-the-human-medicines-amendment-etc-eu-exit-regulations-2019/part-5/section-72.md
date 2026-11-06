@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Validity of conditional marketing authorisation and variation of a UK marketing authorisation[^key-425be3565009585eedb5693fc3a28201]
+## 72. Validity of conditional marketing authorisation and variation of a UK marketing authorisation[^c-425be3565009585eedb5693fc3a28201]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,9 +31,9 @@ After regulation 65A [^c23884881], insert—
 >
 > (2) If an application for the renewal or further renewal of a conditional marketing authorisation is made in accordance with regulation 66B the authorisation remains in force until the licensing authority notifies the applicant of its decision on the application.
 >
-> **65C. Variation of a UKMA(GB)[^key-f60ceec57ea12a1721e06ba62fcd8e30]**
+> **65C. Variation of a UKMA(GB)[^c-f60ceec57ea12a1721e06ba62fcd8e30]**
 >
-> (1) A UKMA(GB)[^key-c4324793f42a4d112290787eb8c331cc] holder may apply to vary the authorisation.
+> (1) A UKMA(GB)[^c-c4324793f42a4d112290787eb8c331cc] holder may apply to vary the authorisation.
 >
 > (2) Any such application must be made in accordance with Schedule 10A.
 >
@@ -43,7 +43,7 @@ After regulation 65A [^c23884881], insert—
 >
 > (5) Any guidance referred to in paragraph (4) must be regularly reviewed and, when necessary, updated.
 >
-> (6) Unless replaced by guidelines published under paragraph (4), the guidelines published by the Commission under Article 4 of Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234) [^c23884891] which applied immediately before IP completion day[^key-7afe7b498a72188ec25708a1ebbf1d3c], insofar only as they concern applications under Chapter IIa of that Regulation, continue to apply to—
+> (6) Unless replaced by guidelines published under paragraph (4), the guidelines published by the Commission under Article 4 of Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234) [^c23884891] which applied immediately before IP completion day[^c-7afe7b498a72188ec25708a1ebbf1d3c], insofar only as they concern applications under Chapter IIa of that Regulation, continue to apply to—
 >
 > - (a) applications made under regulation 65C on or after IP completion day; or
 > - (b) applications made before IP completion day to which regulation 65C and Schedule 10A apply by virtue of Parts 3 and 5 of Schedule 33A.
@@ -54,14 +54,14 @@ After regulation 65A [^c23884881], insert—
 
 ## Annotations
 
-[^key-425be3565009585eedb5693fc3a28201]: Commencement: Reg. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-425be3565009585eedb5693fc3a28201]: Commencement: Reg. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884881]: Marginal citation: Regulation 65A was inserted by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).
 
-[^key-f60ceec57ea12a1721e06ba62fcd8e30]: Textual amendment: Word in reg. 72 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 54(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/54/a)
+[^c-f60ceec57ea12a1721e06ba62fcd8e30]: Textual amendment: Word in reg. 72 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 54(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/54/a)
 
-[^key-c4324793f42a4d112290787eb8c331cc]: Textual amendment: Word in reg. 72 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 54(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/54/b)
+[^c-c4324793f42a4d112290787eb8c331cc]: Textual amendment: Word in reg. 72 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 54(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/54/b)
 
 [^c23884891]: Marginal citation: The guidelines are available at: https://www.gov.uk/guidance/eu-guidance-documents-referred-to-in-the-human-medicines-regulations-2012 and a hard copy may be obtained from the Medicines and Healthcare products Regulatory Agency at the address given in the Explanatory Note.
 
-[^key-7afe7b498a72188ec25708a1ebbf1d3c]: Textual amendment: Words in reg. 72 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 54(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/54/c)
+[^c-7afe7b498a72188ec25708a1ebbf1d3c]: Textual amendment: Words in reg. 72 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 54(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/54/c)

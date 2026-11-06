@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49A. Jurisdiction of court: proceedings in relation to a marriage of a same-sex couple[^key-44a912e22dd0b213769df196af12b6f2]
+## 49A. Jurisdiction of court: proceedings in relation to a marriage of a same-sex couple[^c-44a912e22dd0b213769df196af12b6f2]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44a912e22dd0b213769df196af12b6f2]: Textual amendment: [Art. 49A](https://www.legislation.gov.uk/nisi/1978/1045/article/49A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [35(7)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/35/7) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-44a912e22dd0b213769df196af12b6f2]: Textual amendment: [Art. 49A](https://www.legislation.gov.uk/nisi/1978/1045/article/49A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [35(7)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/35/7) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

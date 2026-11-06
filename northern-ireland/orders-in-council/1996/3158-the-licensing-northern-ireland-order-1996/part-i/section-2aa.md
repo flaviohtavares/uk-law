@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2AA. Meaning of “outdoor stadium”[^key-40ebc1e3d66ed16a3ea894d80f8cdf44]
+## 2AA. Meaning of “outdoor stadium”[^c-40ebc1e3d66ed16a3ea894d80f8cdf44]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ In this Order outdoor stadium means any premises—
 
 ## Annotations
 
-[^key-40ebc1e3d66ed16a3ea894d80f8cdf44]: Textual amendment: Art. 2AA inserted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 2(2)](https://www.legislation.gov.uk/nia/2016/24/section/2/2), [8(1)](https://www.legislation.gov.uk/nia/2016/24/section/8/1)
+[^c-40ebc1e3d66ed16a3ea894d80f8cdf44]: Textual amendment: Art. 2AA inserted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 2(2)](https://www.legislation.gov.uk/nia/2016/24/section/2/2), [8(1)](https://www.legislation.gov.uk/nia/2016/24/section/8/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 691. Meaning of “relevant company” in sections 689 and 690[^key-4d82f86ca38c259c580623b528000db9]
+## 691. Meaning of “relevant company” in sections 689 and 690[^c-4d82f86ca38c259c580623b528000db9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d82f86ca38c259c580623b528000db9]: Textual amendment: Ss. 682-687 and cross-headings substituted (8.4.2010 with effect in accordance with Sch. 12 para. 15(1) of the amending Act) for s. 682-694 and cross-headings by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/2)
+[^c-4d82f86ca38c259c580623b528000db9]: Textual amendment: Ss. 682-687 and cross-headings substituted (8.4.2010 with effect in accordance with Sch. 12 para. 15(1) of the amending Act) for s. 682-694 and cross-headings by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.21. Authentication of documents[^key-eac8f1b20f368ec5cc3f9620b5416a15]
+## 5.21. Authentication of documents[^c-eac8f1b20f368ec5cc3f9620b5416a15]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the 1972 Act provides that a document is to be authenticated in a prescrib
 
 ## Annotations
 
-[^key-eac8f1b20f368ec5cc3f9620b5416a15]: Commencement: Rule 5.21 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-eac8f1b20f368ec5cc3f9620b5416a15]: Commencement: Rule 5.21 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

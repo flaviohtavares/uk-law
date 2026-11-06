@@ -22,7 +22,7 @@ summary: ''
 
 Section 241
 
-### Part 1 — Structural and boundary change[^key-b7436b0cb72e1160a8b66f093acf0b11]
+### Part 1 — Structural and boundary change[^c-b7436b0cb72e1160a8b66f093acf0b11]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ Section 241
 | Local Government Finance Act 1988 (c. 41) | In section 111(3A), the words “leader and cabinet executive,”. |
 | The Local Authorities (Executive and Alternative Arrangements) (Modification of Enactments and Other Provisions) (England) Order 2001 (S.I. 2001/2237) | Articles 4 and 5(a). |
 
-### Part 4 — Parishes[^key-d93da20bbc945497ec70a0ebe4fe640e]
+### Part 4 — Parishes[^c-d93da20bbc945497ec70a0ebe4fe640e]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ Section 241
 | --- | --- |
 | Local Government and Rating Act 1997 (c. 29) | Part 2. |
 
-### Part 5 — Community strategies[^key-d5d57ac78afbc3a9982a235658382c06]
+### Part 5 — Community strategies[^c-d5d57ac78afbc3a9982a235658382c06]
 
 *Extent: E+W*
 
@@ -75,7 +75,7 @@ Section 241
 | --- | --- |
 | Local Government Act 2000 (c. 22) | Section 6(5) and (6).<br>Section 7(2) and (6). |
 
-### Part 6 — Overview and scrutiny committees[^key-c9ae1967b0607ff9386bea3c0be346a3][^key-dcdbaf9f255818b8cb6927e76fc7aa5b]
+### Part 6 — Overview and scrutiny committees[^c-c9ae1967b0607ff9386bea3c0be346a3][^c-dcdbaf9f255818b8cb6927e76fc7aa5b]
 
 *Extent: E+W*
 
@@ -97,7 +97,7 @@ Section 241
 | Public Health Act 1936 (c. 49) | In section 231(1)—<br>- (a) in paragraph (b), the words “bathing-machines may be stationed, or”;<br>- (b) in paragraph (c), the words “bathing-machines,”;<br>- (c) paragraph (d). |
 | Public Health (Control of Disease) Act 1984 (c. 22) | Section 56(2) and (3). |
 
-### Part 8 — Best value[^key-2d01c06ee1fbcde1e1384944f9fc2b89][^key-4fbb26cc09717a51173508852d6ba2d7][^key-44f7ef29f868ed98be0bdee2ab864dfd]
+### Part 8 — Best value[^c-2d01c06ee1fbcde1e1384944f9fc2b89][^c-4fbb26cc09717a51173508852d6ba2d7][^c-44f7ef29f868ed98be0bdee2ab864dfd]
 
 *Extent: E+W*
 
@@ -111,7 +111,7 @@ Section 241
 | Police and Justice Act 2006 (c. 48) | Section 4. |
 | Local Government and Public Involvement in Health Act 2007 (c. 28) | Section 136(1)(b). |
 
-### Part 9 — Change of name of the Audit Commission[^key-07ad7d666cb0b847be20d5d88e89d8d7]
+### Part 9 — Change of name of the Audit Commission[^c-07ad7d666cb0b847be20d5d88e89d8d7]
 
 *Extent: E+W*
 
@@ -143,7 +143,7 @@ Section 241
 | Education and Inspections Act 2006 (c. 40) | In Schedule 13, in paragraph 1(2)(h), the words “and Wales”. |
 | National Health Service Act 2006 (c. 41) | In Schedule 7, in paragraph 23(7), the words “and Wales”.<br>In Schedule 15, in paragraph 4(4), the words “and Wales”. |
 
-### Part 10 — Interaction of the Audit Commission with other authorities[^key-607fffd7d1d0d601d89e36cf4287bbd3]
+### Part 10 — Interaction of the Audit Commission with other authorities[^c-607fffd7d1d0d601d89e36cf4287bbd3]
 
 *Extent: E+W*
 
@@ -154,7 +154,7 @@ Section 241
 | Education and Inspections Act 2006 (c. 40) | In Schedule 14, paragraph 29. |
 | Police and Justice Act 2006 (c. 48) | In Schedule 14, paragraph 35. |
 
-### Part 11 — Studies and reports etc of the Audit Commission[^key-8ea81b77b19bf22a02fc5403e5073288]
+### Part 11 — Studies and reports etc of the Audit Commission[^c-8ea81b77b19bf22a02fc5403e5073288]
 
 *Extent: E+W*
 
@@ -167,7 +167,7 @@ Section 241
 | Health and Social Care (Community Health and Standards) Act 2003 (c. 43) | In Schedule 9, paragraph 12(8). |
 | Public Audit (Wales) Act 2004 (c. 23) | In section 70—<br>- (a) in subsection (3), “or 35”;<br>- (b) in subsection (4), “or, as the case may be, 35”.<br>In Schedule 2, paragraphs 27(2)(b), 29(2) and 31. |
 
-### Part 12 — Audit Commission and auditors: miscellaneous[^key-f74113fbb75cccc34361a026db05b04b]
+### Part 12 — Audit Commission and auditors: miscellaneous[^c-f74113fbb75cccc34361a026db05b04b]
 
 *Extent: E+W*
 
@@ -175,7 +175,7 @@ Section 241
 | --- | --- |
 | Audit Commission Act 1998 (c. 18) | Section 49(1A).<br>In section 49(3)(a), the words “to imprisonment for a term not exceeding six months or” and the words “or to both; or”.<br>Section 49(3)(b).<br>Section 49A. |
 
-### Part 13 — Auditor General for Wales and auditors[^key-a3637df2f6066b805066e7766c0e7c23]
+### Part 13 — Auditor General for Wales and auditors[^c-a3637df2f6066b805066e7766c0e7c23]
 
 *Extent: E+W*
 
@@ -183,7 +183,7 @@ Section 241
 | --- | --- |
 | Public Audit (Wales) Act 2004 (c. 23) | Section 54(2A).<br>In section 54(4)(a), the words “to imprisonment for a term not exceeding six months or” and the words “or to both;”.<br>Section 54(4)(b).<br>Section 54A. |
 
-### Part 14 — The Commission for Local Administration in England[^key-ca82a844a6d20ae5be561a82ce02182f]
+### Part 14 — The Commission for Local Administration in England[^c-ca82a844a6d20ae5be561a82ce02182f]
 
 *Extent: E+W*
 
@@ -199,7 +199,7 @@ Section 241
 | Local Government Act 2003 (c. 26) | In Schedule 7, paragraph 5(2) and (4). |
 | Public Services Ombudsman (Wales) Act 2005 (c. 10) | In Schedule 6—<br>- (a) paragraph 9(5);<br>- (b) paragraph 13(2), (3) and (4);<br>- (c) paragraph 18(11). |
 
-### Part 15 — Ethical standards[^key-f9230feacc76ea6da493df20c6792526][^key-70800b5e7b25149504e053ee82ae4ef2][^key-84e6df0fe5ca2f0caaa31a628e327e33]
+### Part 15 — Ethical standards[^c-f9230feacc76ea6da493df20c6792526][^c-70800b5e7b25149504e053ee82ae4ef2][^c-84e6df0fe5ca2f0caaa31a628e327e33]
 
 *Extent: E+W*
 
@@ -231,7 +231,7 @@ Section 241
 | Finance Act 2003 (c. 14) | In section 78A(1)(b), the words “established under Schedule 11 to the Local Government Finance Act 1988”. |
 | Local Government Act 2003 (c. 26) | In section 124, the definition of “valuation tribunal”.<br>In Schedule 7, paragraph 27(b) and (c). |
 
-### Part 18 — Patient and public involvement in health[^key-972e4d77b2752bb49b9475144572599a][^key-c06b427ebe453836da2053226613754e]
+### Part 18 — Patient and public involvement in health[^c-972e4d77b2752bb49b9475144572599a][^c-c06b427ebe453836da2053226613754e]
 
 *Extent: E+W*
 
@@ -261,40 +261,40 @@ Section 241
 
 ## Annotations
 
-[^key-b7436b0cb72e1160a8b66f093acf0b11]: Commencement: Sch. 18 Pt. 1 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/3136/article/3))
+[^c-b7436b0cb72e1160a8b66f093acf0b11]: Commencement: Sch. 18 Pt. 1 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/3136/article/3))
 
-[^key-d93da20bbc945497ec70a0ebe4fe640e]: Commencement: Sch. 18 Pt. 4 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/337/article/2/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2008/337/schedule))
+[^c-d93da20bbc945497ec70a0ebe4fe640e]: Commencement: Sch. 18 Pt. 4 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/337/article/2/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2008/337/schedule))
 
-[^key-d5d57ac78afbc3a9982a235658382c06]: Commencement: Sch. 18 Pt. 5 in force at 30.12.2007, see s. 245(2)
+[^c-d5d57ac78afbc3a9982a235658382c06]: Commencement: Sch. 18 Pt. 5 in force at 30.12.2007, see s. 245(2)
 
-[^key-c9ae1967b0607ff9386bea3c0be346a3]: Commencement: Sch. 18 Pt. 6 in force at 30.4.2009 for specified purposes for E. by [S.I. 2009/959](https://www.legislation.gov.uk/uksi/2009/959), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/959/article/2/b)
+[^c-c9ae1967b0607ff9386bea3c0be346a3]: Commencement: Sch. 18 Pt. 6 in force at 30.4.2009 for specified purposes for E. by [S.I. 2009/959](https://www.legislation.gov.uk/uksi/2009/959), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/959/article/2/b)
 
-[^key-dcdbaf9f255818b8cb6927e76fc7aa5b]: Commencement: Sch. 18 Pt. 6 in force at 1.10.2009 for specified purposes for W. by [S.I. 2009/2539](https://www.legislation.gov.uk/uksi/2009/2539), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2539/article/2/b)
+[^c-dcdbaf9f255818b8cb6927e76fc7aa5b]: Commencement: Sch. 18 Pt. 6 in force at 1.10.2009 for specified purposes for W. by [S.I. 2009/2539](https://www.legislation.gov.uk/uksi/2009/2539), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2539/article/2/b)
 
-[^key-2d01c06ee1fbcde1e1384944f9fc2b89]: Commencement: Sch. 18 Pt. 8 in force at 30.12.2007 for specified purposes, see s. 245(2)
+[^c-2d01c06ee1fbcde1e1384944f9fc2b89]: Commencement: Sch. 18 Pt. 8 in force at 30.12.2007 for specified purposes, see s. 245(2)
 
-[^key-4fbb26cc09717a51173508852d6ba2d7]: Commencement: Sch. 18 Pt. 8 in force at 1.4.2008 for specified purposes by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(v)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/v/i)
+[^c-4fbb26cc09717a51173508852d6ba2d7]: Commencement: Sch. 18 Pt. 8 in force at 1.4.2008 for specified purposes by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(v)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/v/i)
 
-[^key-44f7ef29f868ed98be0bdee2ab864dfd]: Commencement: Sch. 18 Pt. 8 in force at 1.4.2008 for W. save in relation to a police authority for a police area in Wales, for specified purposes by [S.I. 2008/591](https://www.legislation.gov.uk/uksi/2008/591), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/591/article/2/d)
+[^c-44f7ef29f868ed98be0bdee2ab864dfd]: Commencement: Sch. 18 Pt. 8 in force at 1.4.2008 for W. save in relation to a police authority for a police area in Wales, for specified purposes by [S.I. 2008/591](https://www.legislation.gov.uk/uksi/2008/591), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/591/article/2/d)
 
-[^key-07ad7d666cb0b847be20d5d88e89d8d7]: Commencement: Sch. 18 Pt. 9 in force at 1.4.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(n)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/4/n/i)
+[^c-07ad7d666cb0b847be20d5d88e89d8d7]: Commencement: Sch. 18 Pt. 9 in force at 1.4.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(n)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/4/n/i)
 
-[^key-607fffd7d1d0d601d89e36cf4287bbd3]: Commencement: Sch. 18 Pt. 10 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u/i)
+[^c-607fffd7d1d0d601d89e36cf4287bbd3]: Commencement: Sch. 18 Pt. 10 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u/i)
 
-[^key-8ea81b77b19bf22a02fc5403e5073288]: Commencement: Sch. 18 Pt. 11 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u/i)
+[^c-8ea81b77b19bf22a02fc5403e5073288]: Commencement: Sch. 18 Pt. 11 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u/i)
 
-[^key-f74113fbb75cccc34361a026db05b04b]: Commencement: Sch. 18 Pt. 12 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u/i)
+[^c-f74113fbb75cccc34361a026db05b04b]: Commencement: Sch. 18 Pt. 12 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u/i)
 
-[^key-a3637df2f6066b805066e7766c0e7c23]: Commencement: Sch. 18 Pt. 13 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u/i)
+[^c-a3637df2f6066b805066e7766c0e7c23]: Commencement: Sch. 18 Pt. 13 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u/i)
 
-[^key-ca82a844a6d20ae5be561a82ce02182f]: Commencement: Sch. 18 Pt. 14 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/v/ii)
+[^c-ca82a844a6d20ae5be561a82ce02182f]: Commencement: Sch. 18 Pt. 14 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/v/ii)
 
-[^key-f9230feacc76ea6da493df20c6792526]: Commencement: Sch. 18 Pt. 15 in force at 31.1.2008 for specified purposes by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)(ii)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u/ii) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/172/article/2/2))
+[^c-f9230feacc76ea6da493df20c6792526]: Commencement: Sch. 18 Pt. 15 in force at 31.1.2008 for specified purposes by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)(ii)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u/ii) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/172/article/2/2))
 
-[^key-70800b5e7b25149504e053ee82ae4ef2]: Commencement: Sch. 18 Pt. 15 in force at 31.1.2008 for specified purposes for W. by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)(iii)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u/iii)
+[^c-70800b5e7b25149504e053ee82ae4ef2]: Commencement: Sch. 18 Pt. 15 in force at 31.1.2008 for specified purposes for W. by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)(iii)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u/iii)
 
-[^key-84e6df0fe5ca2f0caaa31a628e327e33]: Commencement: Sch. 18 Pt. 15 in force at 1.4.2008 for specified purposes by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(n)(ii)](https://www.legislation.gov.uk/uksi/2008/172/article/4/n/ii)
+[^c-84e6df0fe5ca2f0caaa31a628e327e33]: Commencement: Sch. 18 Pt. 15 in force at 1.4.2008 for specified purposes by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(n)(ii)](https://www.legislation.gov.uk/uksi/2008/172/article/4/n/ii)
 
-[^key-972e4d77b2752bb49b9475144572599a]: Commencement: Sch. 18 Pt. 18 in force at 1.4.2008 for specified purposes by [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/461/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/461/schedule)
+[^c-972e4d77b2752bb49b9475144572599a]: Commencement: Sch. 18 Pt. 18 in force at 1.4.2008 for specified purposes by [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/461/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/461/schedule)
 
-[^key-c06b427ebe453836da2053226613754e]: Commencement: Sch. 18 Pt. 18 in force at 30.6.2008 in so far as not already in force by [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(4)(c)](https://www.legislation.gov.uk/uksi/2008/461/article/2/4/c)
+[^c-c06b427ebe453836da2053226613754e]: Commencement: Sch. 18 Pt. 18 in force at 30.6.2008 in so far as not already in force by [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(4)(c)](https://www.legislation.gov.uk/uksi/2008/461/article/2/4/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Repeal of existing powers[^key-d82a0857d857392fa06d61c22be4e657]
+## 39. Repeal of existing powers[^c-d82a0857d857392fa06d61c22be4e657]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d82a0857d857392fa06d61c22be4e657]: Commencement: S. 39 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-d82a0857d857392fa06d61c22be4e657]: Commencement: S. 39 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

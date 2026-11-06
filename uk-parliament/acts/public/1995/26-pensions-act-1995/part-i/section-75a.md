@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75A. Deficiencies in the assets: multi-employer schemes[^key-aa39c023c89da7de97470bef8f7c1b03]
+## 75A. Deficiencies in the assets: multi-employer schemes[^c-aa39c023c89da7de97470bef8f7c1b03]
 
 *Extent: E+W+S*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa39c023c89da7de97470bef8f7c1b03]: Textual amendment: S. 75A inserted (10.2.2005 for specified purposes, 15.3.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 272](https://www.legislation.gov.uk/ukpga/2004/35/section/272), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/a), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/695/article/2/2)
+[^c-aa39c023c89da7de97470bef8f7c1b03]: Textual amendment: S. 75A inserted (10.2.2005 for specified purposes, 15.3.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 272](https://www.legislation.gov.uk/ukpga/2004/35/section/272), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/a), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/695/article/2/2)

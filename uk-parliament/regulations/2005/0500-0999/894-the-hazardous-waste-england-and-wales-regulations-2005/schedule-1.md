@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — ANNEX I TO THE HAZARDOUS WASTE DIRECTIVE[^key-5bd2a9f52cddac03bba9658c267c0058]
+## SCHEDULE 1 — ANNEX I TO THE HAZARDOUS WASTE DIRECTIVE[^c-5bd2a9f52cddac03bba9658c267c0058]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Regulation 3(2)(a)(i)
 
 ## Annotations
 
-[^key-5bd2a9f52cddac03bba9658c267c0058]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/894/schedule/1) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/28) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-5bd2a9f52cddac03bba9658c267c0058]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2005/894/schedule/1) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/28) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

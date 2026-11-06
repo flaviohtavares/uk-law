@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Uzbekistan) (Amendment) Order 2009 (revoked)[^key-1d5f380c7abb27d0a1b0d213f6a01c7e]
+The Export Control (Uzbekistan) (Amendment) Order 2009 (revoked)[^c-1d5f380c7abb27d0a1b0d213f6a01c7e]
 
 Made
 
@@ -46,20 +46,20 @@ Coming into force
 
 8th May 2009
 
-[^key-1d5f380c7abb27d0a1b0d213f6a01c7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d5f380c7abb27d0a1b0d213f6a01c7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-1d5f380c7abb27d0a1b0d213f6a01c7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1d5f380c7abb27d0a1b0d213f6a01c7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1d5f380c7abb27d0a1b0d213f6a01c7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1d5f380c7abb27d0a1b0d213f6a01c7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1d5f380c7abb27d0a1b0d213f6a01c7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d5f380c7abb27d0a1b0d213f6a01c7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1d5f380c7abb27d0a1b0d213f6a01c7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1d5f380c7abb27d0a1b0d213f6a01c7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1d5f380c7abb27d0a1b0d213f6a01c7e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1174) revoked (5.4.2012) by [The Export Control (Syria Sanctions) and (Miscellaneous Amendments) Order 2012 (S.I. 2012/810)](https://www.legislation.gov.uk/uksi/2012/810), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/810/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/810/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/810/schedule)
+[^c-1d5f380c7abb27d0a1b0d213f6a01c7e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1174) revoked (5.4.2012) by [The Export Control (Syria Sanctions) and (Miscellaneous Amendments) Order 2012 (S.I. 2012/810)](https://www.legislation.gov.uk/uksi/2012/810), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/810/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/810/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/810/schedule)

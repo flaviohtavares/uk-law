@@ -22,14 +22,14 @@ summary: ''
 
 Article 45
 
-### 1. Interpretation[^key-f5416c345f09b79e1dfa3f76a36deab9]
+### 1. Interpretation[^c-f5416c345f09b79e1dfa3f76a36deab9]
 
 In this Schedule—
 
 - “**requirement consultee**” means any body or authority named in a requirement as a body to be consulted by the relevant planning authority in discharging that requirement; and
 - “**start date**” means the date of the notification given by the Secretary of State under paragraph 4(2)(c).
 
-### 2. Applications made under requirement[^key-7f073b9a408f9e14276f69bec63d46d7]
+### 2. Applications made under requirement[^c-7f073b9a408f9e14276f69bec63d46d7]
 
 (1) For an application for discharge of a requirement to be valid, the undertaker must provide the following information to the relevant planning authority electronically via email (unless otherwise agreed between the parties)—
 
@@ -54,7 +54,7 @@ In this Schedule—
 - (a) the timeframes in which the requirement consultee can request any further information from the undertaker (via the relevant planning authority) as prescribed in paragraph 3(7)(a) and the consequences of the failure to meet those timescales as prescribed in paragraph 3(7)(b); and
 - (b) the timeframes in which the requirement consultee must give notice to the relevant planning authority of its comments on the application as prescribed in paragraph 3(7)(d) and the consequences of the failure to meet those timescales as prescribed in paragraph 3(7)(e).
 
-### 3. Further information and consultation[^key-17b73b43da5fd50517ca03f87a061f9c]
+### 3. Further information and consultation[^c-17b73b43da5fd50517ca03f87a061f9c]
 
 (1) In relation to any application made under paragraph 2(2), the relevant planning authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -76,7 +76,7 @@ In this Schedule—
 - (d) A requirement consultee is required to notify the relevant planning authority in writing of any comments on the application within 15 working days of receipt of the application from the undertaker pursuant to paragraph 2(5), or the receipt of any further information pursuant to sub-paragraph (c) (where further information has been requested); and
 - (e) If a requirement consultee does not give notification as specified in sub-paragraph (d) it is deemed to have no comments on the application.
 
-### 4. Appeals[^key-4ffa58c49720a8ee578ef84be772389c]
+### 4. Appeals[^c-4ffa58c49720a8ee578ef84be772389c]
 
 (1) The undertaker may appeal in the event that—
 
@@ -122,7 +122,7 @@ and may deal with the application as if it had been made to them in the first in
 
 (11) On application by the relevant planning authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to advice on planning appeals and award costs published in Planning Practice Guidance: Appeals (March 2014) or any circular or guidance which may from time to time replace it.
 
-### 5. Fees[^key-4a5b449b6ed5e9382874c6d0cc09b474]
+### 5. Fees[^c-4a5b449b6ed5e9382874c6d0cc09b474]
 
 (1) Where an application is made to the relevant planning authority for a discharge, a fee is to apply and must be paid to the relevant planning authority for each application.
 
@@ -144,20 +144,20 @@ and may deal with the application as if it had been made to them in the first in
   - (i) within that period the undertaker agrees, in writing, that the fee is to be retained by the relevant planning authority and credited in respect of a future application; or
   - (ii) a longer period of time for determining the application has been agreed pursuant to paragraph 2(3) of this Schedule, as applicable.
 
-### 6. Pre-application engagement[^key-5c3f664d3441d491350016bdeee45b9d]
+### 6. Pre-application engagement[^c-5c3f664d3441d491350016bdeee45b9d]
 
 Where the undertaker engages with the relevant planning authority or requirement consultee ahead of submitting an application pursuant to paragraph 2(2) by providing a draft version of documents proposed to be submitted with such application, the relevant planning authority or requirement consultee (as relevant) must, within 5 working days of receipt of the draft documents (or such other period as is agreed in writing between the undertaker and the relevant planning authority or requirement consultee (as relevant)), notify the undertaker of comments on the draft documents either by email or in a meeting, and the undertaker will note this timescale in its correspondence providing any draft documents to the relevant planning authority or requirement consultee (as relevant).
 
 ## Annotations
 
-[^key-f5416c345f09b79e1dfa3f76a36deab9]: Commencement: Sch. 16 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-f5416c345f09b79e1dfa3f76a36deab9]: Commencement: Sch. 16 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-7f073b9a408f9e14276f69bec63d46d7]: Commencement: Sch. 16 para. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-7f073b9a408f9e14276f69bec63d46d7]: Commencement: Sch. 16 para. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-17b73b43da5fd50517ca03f87a061f9c]: Commencement: Sch. 16 para. 3 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-17b73b43da5fd50517ca03f87a061f9c]: Commencement: Sch. 16 para. 3 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-4ffa58c49720a8ee578ef84be772389c]: Commencement: Sch. 16 para. 4 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-4ffa58c49720a8ee578ef84be772389c]: Commencement: Sch. 16 para. 4 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-4a5b449b6ed5e9382874c6d0cc09b474]: Commencement: Sch. 16 para. 5 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-4a5b449b6ed5e9382874c6d0cc09b474]: Commencement: Sch. 16 para. 5 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-5c3f664d3441d491350016bdeee45b9d]: Commencement: Sch. 16 para. 6 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-5c3f664d3441d491350016bdeee45b9d]: Commencement: Sch. 16 para. 6 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

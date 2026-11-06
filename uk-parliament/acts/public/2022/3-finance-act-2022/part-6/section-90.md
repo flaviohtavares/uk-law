@@ -26,10 +26,10 @@ summary: ''
 
 (3) A relevant penalty is a penalty that is to be determined by the First-tier Tribunal under—
 
-- (a)[^key-b43b53b5f847788bea7663f66e7751b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b43b53b5f847788bea7663f66e7751b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) Schedule 35 to FA 2014 (promoters of tax avoidance schemes: penalties);
 - (c) Schedule 36 to FA 2008 (information and inspection powers) as it has effect in relation to Schedule 16 to F(No.2)A 2017 (penalties for enablers of defeated tax avoidance) (see Part 9 of Schedule 16 to F(No.2)A 2017);
-- (d)[^key-0073f108de0da491bce1ca7a3af33a12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-0073f108de0da491bce1ca7a3af33a12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The “initial period” is the period of 72 hours beginning with the time at which the application mentioned in section 87, 88 or 89, as the case may be, is determined.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b43b53b5f847788bea7663f66e7751b5]: Textual amendment: [S. 90(3)(a)](https://www.legislation.gov.uk/ukpga/2022/3/section/90/3/a) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 218(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/218/4/a/i) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
+[^c-b43b53b5f847788bea7663f66e7751b5]: Textual amendment: [S. 90(3)(a)](https://www.legislation.gov.uk/ukpga/2022/3/section/90/3/a) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 218(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/218/4/a/i) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
 
-[^key-0073f108de0da491bce1ca7a3af33a12]: Textual amendment: [S. 90(3)(d)](https://www.legislation.gov.uk/ukpga/2022/3/section/90/3/d) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 218(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/218/4/a/ii) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
+[^c-0073f108de0da491bce1ca7a3af33a12]: Textual amendment: [S. 90(3)(d)](https://www.legislation.gov.uk/ukpga/2022/3/section/90/3/d) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 218(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/218/4/a/ii) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Reports to a medical officer[^key-fd7759ed911dfd971878147962f7593d]
+## 24. Reports to a medical officer[^c-fd7759ed911dfd971878147962f7593d]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd7759ed911dfd971878147962f7593d]: Commencement: Art. 24 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-fd7759ed911dfd971878147962f7593d]: Commencement: Art. 24 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00033]: Footnote: Paragraph 48 was substituted by [S.I. 1998/682](https://www.legislation.gov.uk/uksi/1998/682).

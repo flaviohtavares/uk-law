@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5C. National jurisdiction for cases in a sheriff court after failure to appear[^key-4f50ddeab2327659bdb99782d1522449]
+## 5C. National jurisdiction for cases in a sheriff court after failure to appear[^c-4f50ddeab2327659bdb99782d1522449]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ unless, and until the end of the diet at which, a plea of not guilty is rejected
 
 ## Annotations
 
-[^key-4f50ddeab2327659bdb99782d1522449]: Textual amendment: Ss. 5B-5E inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 9(2)](https://www.legislation.gov.uk/asp/2025/14/section/9/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(f)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/f) (with [s. 10](https://www.legislation.gov.uk/asp/2025/14/section/10))
+[^c-4f50ddeab2327659bdb99782d1522449]: Textual amendment: Ss. 5B-5E inserted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 9(2)](https://www.legislation.gov.uk/asp/2025/14/section/9/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(f)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/f) (with [s. 10](https://www.legislation.gov.uk/asp/2025/14/section/10))

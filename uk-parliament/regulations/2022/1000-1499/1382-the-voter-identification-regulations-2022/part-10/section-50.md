@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Amendment of Schedule 5 (local government act referendum combination of polls rules)[^key-78fce197603d81af548d9c00eae19e63]
+## 50. Amendment of Schedule 5 (local government act referendum combination of polls rules)[^c-78fce197603d81af548d9c00eae19e63]
 
 *Extent: E+W+S+N.I.*
 
@@ -281,4 +281,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78fce197603d81af548d9c00eae19e63]: Commencement: Reg. 50 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-78fce197603d81af548d9c00eae19e63]: Commencement: Reg. 50 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

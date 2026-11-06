@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Former members of a police force in Great Britain[^key-d23286c459c1fd7c8b2dfd04d602b92b]
+## 89. Former members of a police force in Great Britain[^c-d23286c459c1fd7c8b2dfd04d602b92b]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d23286c459c1fd7c8b2dfd04d602b92b]: Commencement: Reg. 89 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-d23286c459c1fd7c8b2dfd04d602b92b]: Commencement: Reg. 89 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

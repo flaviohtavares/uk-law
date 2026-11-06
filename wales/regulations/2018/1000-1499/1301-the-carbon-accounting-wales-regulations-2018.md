@@ -45,18 +45,18 @@ Before the draft was laid the Welsh Ministers obtained and took into account the
 
 Accordingly, the Welsh Ministers, in exercise of the powers conferred by sections 33(2) and (3) and 36(1), (2) and (4) of the Environment (Wales) Act 2016, makes the following Regulations.
 
-## 1. Title and commencement[^key-0493730833bfed849c2c49fff1e5c181]
+## 1. Title and commencement[^c-0493730833bfed849c2c49fff1e5c181]
 
 (1) The title of these Regulations is the Carbon Accounting (Wales) Regulations 2018.
 
 (2) These Regulations come into force on the day after the day on which they are made.
 
-## 2. Interpretation[^key-ddbd8eafa6971fefcd29a833d02b5aa5]
+## 2. Interpretation[^c-ddbd8eafa6971fefcd29a833d02b5aa5]
 
 (1) In these Regulations —
 
-- [^key-ebc1faa2433369a078bc59672d811fc6]...<sup></sup>
-- “[^key-949d7ed599aa711f62d3b10338cd6f2f]**the Paris Agreement**” (“***Cytundeb Paris***”) means the Paris Agreement signed in Paris on 22 April 2016;
+- [^c-ebc1faa2433369a078bc59672d811fc6]...<sup></sup>
+- “[^c-949d7ed599aa711f62d3b10338cd6f2f]**the Paris Agreement**” (“***Cytundeb Paris***”) means the Paris Agreement signed in Paris on 22 April 2016;
 - “the Registries Regulation” (“*y Rheoliad Cofrestrfeydd*”) means [Commission Regulation (EU) No 389/2013](https://www.legislation.gov.uk/european/regulation/2013/0389) establishing a Union Registry pursuant to [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council, Decisions No [280/2004/EC](https://www.legislation.gov.uk/european/decision/19280/2004) and No [406/2009/EC](https://www.legislation.gov.uk/european/decision/19406/2009) of the European Parliament and of the Council and repealing Commission Regulations (EU) No 920/2010 and No 1193/2011[^f00002];
 - “the registry administrator” (“*gweinyddwyr y gofrestrfa*”) has the meaning given in regulation 8(1) of the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^f00003];
 - “the UK registry” (“*cofrestrfa’r DU*”) means the registry established for the United Kingdom in accordance with the Registries Regulation;
@@ -65,7 +65,7 @@ Accordingly, the Welsh Ministers, in exercise of the powers conferred by section
 
 (2) In these Regulations “cancellation” of a carbon unit means voluntary cancellation in accordance with the Registries Regulation and a unit is “cancelled” if the Welsh Ministers instruct the registry administrator to transfer it to the account known as the “Voluntary Cancellation Account” in the UK registry.
 
-## 3. Carbon units[^key-dba12f93eb74d54a52a5adf5d56d9fe1]
+## 3. Carbon units[^c-dba12f93eb74d54a52a5adf5d56d9fe1]
 
 (1) For the purposes of Part 2 of the Environment (Wales) Act 2016, Article 6.4 emissions reductions are carbon units.
 
@@ -73,7 +73,7 @@ Accordingly, the Welsh Ministers, in exercise of the powers conferred by section
 
 (3) In this regulation, “Article 6.4 emissions reduction” means a credit issued under Article 6.4 of the Paris Agreement and the decisions adopted under the UNFCCC or the Paris Agreement.
 
-## 4. Welsh credit account[^key-4b89001e9f5b39416e9463ffeefe226a]
+## 4. Welsh credit account[^c-4b89001e9f5b39416e9463ffeefe226a]
 
 (1) The Welsh Ministers may instruct the registry administrator to open an account (“the Welsh credit account”) in the UK registry for the purpose of holding carbon units which are to be credited to the net Welsh emissions account in accordance with regulation 5.
 
@@ -88,7 +88,7 @@ Accordingly, the Welsh Ministers, in exercise of the powers conferred by section
 
 (5) Any carbon unit transferred out of the Welsh credit account in accordance with paragraph (4) is to be returned to the account from which it was originally transferred.
 
-## 5. Power to credit carbon units to the net Welsh emissions account[^key-0b60cd600fe68a8e29fe89e842c856f6]
+## 5. Power to credit carbon units to the net Welsh emissions account[^c-0b60cd600fe68a8e29fe89e842c856f6]
 
 (1) Carbon units may be credited to the net Welsh emissions account in accordance with this regulation.
 
@@ -105,7 +105,7 @@ Accordingly, the Welsh Ministers, in exercise of the powers conferred by section
 
 (4) The Welsh Ministers may not make a declaration under paragraph (2) if they reasonably believe that the carbon unit has been used to offset greenhouse gas emissions which are not Welsh emissions.
 
-## 6. Register of transactions[^key-d27e04d50fc37d67e318665598fa908d]
+## 6. Register of transactions[^c-d27e04d50fc37d67e318665598fa908d]
 
 (1) The Welsh Ministers must maintain a register containing information about the carbon units credited to the net Welsh emissions account under these Regulations.
 
@@ -117,7 +117,7 @@ Accordingly, the Welsh Ministers, in exercise of the powers conferred by section
 - (d) year in which the units are to be credited;
 - (e) amount of units credited.
 
-## 7. Delegation of functions[^key-7338ef7d3bcbc160a26c901216cbfc22]
+## 7. Delegation of functions[^c-7338ef7d3bcbc160a26c901216cbfc22]
 
 The Welsh Ministers may delegate to a person the performance of any function conferred or imposed upon them by these Regulations.
 
@@ -151,24 +151,24 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 3](https://www.legislation.gov.uk/anaw/2016/3).
 
-[^key-0493730833bfed849c2c49fff1e5c181]: Commencement: Reg. 1 in force at 6.12.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/1/2)
+[^c-0493730833bfed849c2c49fff1e5c181]: Commencement: Reg. 1 in force at 6.12.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/1/2)
 
-[^key-ddbd8eafa6971fefcd29a833d02b5aa5]: Commencement: Reg. 2 in force at 6.12.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/1/2)
+[^c-ddbd8eafa6971fefcd29a833d02b5aa5]: Commencement: Reg. 2 in force at 6.12.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/1/2)
 
-[^key-ebc1faa2433369a078bc59672d811fc6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/2/1) omitted (5.12.2025) by virtue of [The Carbon Accounting (Wales) (Amendment) Regulations 2025 (S.I. 2025/1270)](https://www.legislation.gov.uk/wsi/2025/1270), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1270/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/1270/regulation/2/2)
+[^c-ebc1faa2433369a078bc59672d811fc6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/2/1) omitted (5.12.2025) by virtue of [The Carbon Accounting (Wales) (Amendment) Regulations 2025 (S.I. 2025/1270)](https://www.legislation.gov.uk/wsi/2025/1270), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1270/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2025/1270/regulation/2/2)
 
-[^key-949d7ed599aa711f62d3b10338cd6f2f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/2/1) inserted (5.12.2025) by [The Carbon Accounting (Wales) (Amendment) Regulations 2025 (S.I. 2025/1270)](https://www.legislation.gov.uk/wsi/2025/1270), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1270/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/1270/regulation/2/3)
+[^c-949d7ed599aa711f62d3b10338cd6f2f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/2/1) inserted (5.12.2025) by [The Carbon Accounting (Wales) (Amendment) Regulations 2025 (S.I. 2025/1270)](https://www.legislation.gov.uk/wsi/2025/1270), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1270/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2025/1270/regulation/2/3)
 
 [^f00002]: Footnote: O.J. No L 122, 3.5.13, p 1.
 
 [^f00003]: Footnote: [S.I.2012/3038](https://www.legislation.gov.uk/uksi/2012/3038).
 
-[^key-dba12f93eb74d54a52a5adf5d56d9fe1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2018/1301/regulation/3) substituted (5.12.2025) by [The Carbon Accounting (Wales) (Amendment) Regulations 2025 (S.I. 2025/1270)](https://www.legislation.gov.uk/wsi/2025/1270), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1270/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2025/1270/regulation/2/4)
+[^c-dba12f93eb74d54a52a5adf5d56d9fe1]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2018/1301/regulation/3) substituted (5.12.2025) by [The Carbon Accounting (Wales) (Amendment) Regulations 2025 (S.I. 2025/1270)](https://www.legislation.gov.uk/wsi/2025/1270), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1270/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2025/1270/regulation/2/4)
 
-[^key-4b89001e9f5b39416e9463ffeefe226a]: Commencement: Reg. 4 in force at 6.12.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/1/2)
+[^c-4b89001e9f5b39416e9463ffeefe226a]: Commencement: Reg. 4 in force at 6.12.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/1/2)
 
-[^key-0b60cd600fe68a8e29fe89e842c856f6]: Commencement: Reg. 5 in force at 6.12.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/1/2)
+[^c-0b60cd600fe68a8e29fe89e842c856f6]: Commencement: Reg. 5 in force at 6.12.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/1/2)
 
-[^key-d27e04d50fc37d67e318665598fa908d]: Commencement: Reg. 6 in force at 6.12.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/1/2)
+[^c-d27e04d50fc37d67e318665598fa908d]: Commencement: Reg. 6 in force at 6.12.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/1/2)
 
-[^key-7338ef7d3bcbc160a26c901216cbfc22]: Commencement: Reg. 7 in force at 6.12.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/1/2)
+[^c-7338ef7d3bcbc160a26c901216cbfc22]: Commencement: Reg. 7 in force at 6.12.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/1301/regulation/1/2)

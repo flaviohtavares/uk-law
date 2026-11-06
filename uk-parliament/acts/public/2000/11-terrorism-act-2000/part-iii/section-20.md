@@ -36,7 +36,7 @@ summary: ''
 
 subsections (1) and (2) shall have effect in relation to that person as if any reference to disclosure to a constable included a reference to disclosure in accordance with the procedure.
 
-(5)[^c11204891] References to a constable include references to a National Crime Agency officer[^key-38ea4dbf53e1b53dd41fdd4e257e3ff5] authorised for the purposes of this section by the Director General of that Agency[^c16826151] .
+(5)[^c11204891] References to a constable include references to a National Crime Agency officer[^c-38ea4dbf53e1b53dd41fdd4e257e3ff5] authorised for the purposes of this section by the Director General of that Agency[^c16826151] .
 
 ## Annotations
 
@@ -44,6 +44,6 @@ subsections (1) and (2) shall have effect in relation to that person as if any r
 
 [^c11204891]: Textual amendment: S. 20(5) inserted (20.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [s. 3](https://www.legislation.gov.uk/ukpga/2001/24/section/3), [Sch. 2 Pt. 3 para. 5(5)](https://www.legislation.gov.uk/ukpga/2001/24/schedule/2/part/3/paragraph/5/5); [S.I. 2001/4019](https://www.legislation.gov.uk/uksi/2001/4019), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2001/4019/article/2/1/c)
 
-[^key-38ea4dbf53e1b53dd41fdd4e257e3ff5]: Textual amendment: Words in s. 20(5) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 69](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/69); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-38ea4dbf53e1b53dd41fdd4e257e3ff5]: Textual amendment: Words in s. 20(5) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 69](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/69); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
 [^c16826151]: Textual amendment: Words in s. 20(5) substituted (1.4.2006 subject to art. 4(2)-(7) of the commencing S.I.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [Sch. 4 para. 127(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/127/b); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2006/378/schedule)

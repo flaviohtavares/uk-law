@@ -149,7 +149,7 @@ The Roads (Northern Ireland) Order 1993 [^c16866561]
 
 - [Section 66 — Erection of shelters and toilets by district council](part-iv/section-66.md)
 
-### PART V — Environmental Impact Assessment[^key-c55952f158d6d249a134545831d94708][^key-15837aa7c72e8f789a547846af11e1fe][^c20624991]
+### PART V — Environmental Impact Assessment[^c-c55952f158d6d249a134545831d94708][^c-15837aa7c72e8f789a547846af11e1fe][^c20624991]
 
 *Extent: N.I.*
 
@@ -165,7 +165,7 @@ The Roads (Northern Ireland) Order 1993 [^c16866561]
 - [Section 68 — Abandonment and stopping-up of roads](part-vi/section-68.md)
 - [Section 69 — Stopping-up of private accesses](part-vi/section-69.md)
 
-### PART 6A — RESTRICTION OF RIGHTS OVER ROAD[^key-df9554fbff6f05898122e8c1e2f42bd3]
+### PART 6A — RESTRICTION OF RIGHTS OVER ROAD[^c-df9554fbff6f05898122e8c1e2f42bd3]
 
 - [Section 69A — Gating orders](part-6a/section-69a.md)
 - [Section 69B — Effect of gating orders](part-6a/section-69b.md)
@@ -301,12 +301,12 @@ SCHEDULES
 
 [^c16866561]: Textual amendment: functions transf. by SR 1999/481
 
-[^key-c55952f158d6d249a134545831d94708]: Modification: [Pt. V](https://www.legislation.gov.uk/nisi/1993/3160/part/V): power to disapply conferred (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/5/paragraph/1/1)
+[^c-c55952f158d6d249a134545831d94708]: Modification: [Pt. V](https://www.legislation.gov.uk/nisi/1993/3160/part/V): power to disapply conferred (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/schedule/5/paragraph/1/1)
 
-[^key-15837aa7c72e8f789a547846af11e1fe]: Modification: [Pt. V](https://www.legislation.gov.uk/nisi/1993/3160/part/V) power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-15837aa7c72e8f789a547846af11e1fe]: Modification: [Pt. V](https://www.legislation.gov.uk/nisi/1993/3160/part/V) power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c20624991]: Textual amendment: SR 1999/89
 
-[^key-df9554fbff6f05898122e8c1e2f42bd3]: Textual amendment: Pt. 6A inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 1](https://www.legislation.gov.uk/nia/2011/23/section/1), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-df9554fbff6f05898122e8c1e2f42bd3]: Textual amendment: Pt. 6A inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 1](https://www.legislation.gov.uk/nia/2011/23/section/1), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
 [^c16867491]: Textual amendment: prosp. insertion by [1995 NI 19](https://www.legislation.gov.uk/nisi/1995)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11.[^key-54febfc620fe07d02e20171308045813]
+## 11.[^c-54febfc620fe07d02e20171308045813]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ In article 8 (relief for second hand motor cars)—
 
 ## Annotations
 
-[^key-54febfc620fe07d02e20171308045813]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-54febfc620fe07d02e20171308045813]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

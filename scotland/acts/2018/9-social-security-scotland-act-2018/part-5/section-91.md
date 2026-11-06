@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Guidance[^key-54528c6cc6f6eacc01e63250e54adf45][^key-791fd08d8f969ea1041700115e5ae625]
+## 91. Guidance[^c-54528c6cc6f6eacc01e63250e54adf45][^c-791fd08d8f969ea1041700115e5ae625]
 
 *Extent: S*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54528c6cc6f6eacc01e63250e54adf45]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2018/9/section/91) in force at 1.4.2020 for specified purposes by [S.S.I. 2020/75](https://www.legislation.gov.uk/ssi/2020/75), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2020/75/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2020/75/regulation/2/3)
+[^c-54528c6cc6f6eacc01e63250e54adf45]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2018/9/section/91) in force at 1.4.2020 for specified purposes by [S.S.I. 2020/75](https://www.legislation.gov.uk/ssi/2020/75), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2020/75/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2020/75/regulation/2/3)
 
-[^key-791fd08d8f969ea1041700115e5ae625]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2018/9/section/91) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/57](https://www.legislation.gov.uk/ssi/2024/57), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2024/57/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/57/regulation/3))
+[^c-791fd08d8f969ea1041700115e5ae625]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2018/9/section/91) in force at 1.4.2024 in so far as not already in force by [S.S.I. 2024/57](https://www.legislation.gov.uk/ssi/2024/57), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2024/57/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/57/regulation/3))

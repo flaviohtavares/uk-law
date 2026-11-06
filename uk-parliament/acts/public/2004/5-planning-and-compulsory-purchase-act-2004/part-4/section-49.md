@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Development to include certain internal operations[^key-ed5d81575fcd1d22097b7105fcb82d15][^key-a7aebc193dbe369ef992235adf9b1c6c][^key-53f8cfeaac8e5d6f78c2e3879632338a]
+## 49. Development to include certain internal operations[^c-ed5d81575fcd1d22097b7105fcb82d15][^c-a7aebc193dbe369ef992235adf9b1c6c][^c-53f8cfeaac8e5d6f78c2e3879632338a]
 
 *Extent: E+W*
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ed5d81575fcd1d22097b7105fcb82d15]: Commencement: S. 49 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-ed5d81575fcd1d22097b7105fcb82d15]: Commencement: S. 49 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-a7aebc193dbe369ef992235adf9b1c6c]: Commencement: S. 49 in force at 10.5.2006 for E. so far as not already in force by [S.I. 2006/1061](https://www.legislation.gov.uk/uksi/2006/1061), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1061/article/2/b)
+[^c-a7aebc193dbe369ef992235adf9b1c6c]: Commencement: S. 49 in force at 10.5.2006 for E. so far as not already in force by [S.I. 2006/1061](https://www.legislation.gov.uk/uksi/2006/1061), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1061/article/2/b)
 
-[^key-53f8cfeaac8e5d6f78c2e3879632338a]: Commencement: S. 49 in force at 22.6.2015 for W. so far as not already in force by [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/340/article/2/a)
+[^c-53f8cfeaac8e5d6f78c2e3879632338a]: Commencement: S. 49 in force at 22.6.2015 for W. so far as not already in force by [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/340/article/2/a)

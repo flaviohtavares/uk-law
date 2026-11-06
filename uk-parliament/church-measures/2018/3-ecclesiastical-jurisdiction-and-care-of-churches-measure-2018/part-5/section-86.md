@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 86. Fees orders[^key-e4ec3dd5e289bbee820b8f8554ec179f]
+## 86. Fees orders[^c-e4ec3dd5e289bbee820b8f8554ec179f]
 
 *Extent: E*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) The Commission may make an order to give effect to its recommendations under subsection (1) or (2).
 
-(3A)[^key-cd9b968ac6380ad7b831b6836c832b6f] An order under this section may contain provision as to—
+(3A)[^c-cd9b968ac6380ad7b831b6836c832b6f] An order under this section may contain provision as to—
 
 - (a) exemptions from or reductions in fees;
 - (b) remission of fees in whole or in part.
@@ -40,9 +40,9 @@ summary: ''
 - (a) on the holding of court hearings, or
 - (b) on travel, subsistence and accommodation.
 
-(4A)[^key-476b1ae2280b047cc61946f7bdd44282] Any order under this section which includes provision under subsection (3A) must also include incidental provision under subsection (4) to require the diocesan board of finance to pay the amounts which would be payable were it not for the exemption, reduction or remission provided for by the order.
+(4A)[^c-476b1ae2280b047cc61946f7bdd44282] Any order under this section which includes provision under subsection (3A) must also include incidental provision under subsection (4) to require the diocesan board of finance to pay the amounts which would be payable were it not for the exemption, reduction or remission provided for by the order.
 
-(4B)[^key-b3a632f61498cc345df33fbf098f1660][^M_F_311cf46e-8f32-44bc-b499-40670b06d41b] An order under this section may provide for a fee, or a matter relating to the payment of a fee, to be determined—
+(4B)[^c-b3a632f61498cc345df33fbf098f1660][^M_F_311cf46e-8f32-44bc-b499-40670b06d41b] An order under this section may provide for a fee, or a matter relating to the payment of a fee, to be determined—
 
 - (a) by a court, ecclesiastical judge, legal officer or other person;
 - (b) by reference to provision made under an Act of Parliament.
@@ -88,12 +88,12 @@ summary: ''
 
 ## Annotations
 
-[^key-e4ec3dd5e289bbee820b8f8554ec179f]: Commencement: S. 86 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-e4ec3dd5e289bbee820b8f8554ec179f]: Commencement: S. 86 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-cd9b968ac6380ad7b831b6836c832b6f]: Textual amendment: [S. 86(3A)](https://www.legislation.gov.uk/ukcm/2018/3/section/86/3A) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 4(1)](https://www.legislation.gov.uk/ukcm/2020/1/section/4/1), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-cd9b968ac6380ad7b831b6836c832b6f]: Textual amendment: [S. 86(3A)](https://www.legislation.gov.uk/ukcm/2018/3/section/86/3A) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 4(1)](https://www.legislation.gov.uk/ukcm/2020/1/section/4/1), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-476b1ae2280b047cc61946f7bdd44282]: Textual amendment: [S. 86(4A)](https://www.legislation.gov.uk/ukcm/2018/3/section/86/4A) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 4(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/4/2), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-476b1ae2280b047cc61946f7bdd44282]: Textual amendment: [S. 86(4A)](https://www.legislation.gov.uk/ukcm/2018/3/section/86/4A) inserted (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 4(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/4/2), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-b3a632f61498cc345df33fbf098f1660]: Textual amendment: S. 86(4A) renumbered as s. 86(4B) (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 4(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/4/2), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-b3a632f61498cc345df33fbf098f1660]: Textual amendment: S. 86(4A) renumbered as s. 86(4B) (1.9.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 4(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/4/2), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
 [^M_F_311cf46e-8f32-44bc-b499-40670b06d41b]: Textual amendment: S. 86(4A) inserted (retrospectively) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 8(5)(6)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/5/6), [17(2)(b)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/2/b)

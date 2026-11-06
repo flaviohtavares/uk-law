@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Consent to transfer benefit of Order[^key-7d6069cb726b2cd3fd3e542f1ab6ab67]
+## 9. Consent to transfer benefit of Order[^c-7d6069cb726b2cd3fd3e542f1ab6ab67]
 
 *Extent: E+W*
 
-(1) Subject to paragraphs (4) and (5),[^key-fdb0f50228f071c5fcde7f128d7d3cab] the undertaker may—
+(1) Subject to paragraphs (4) and (5),[^c-fdb0f50228f071c5fcde7f128d7d3cab] the undertaker may—
 
 - (a) transfer to another person (“**the transferee**”) any or all of the benefit of the provisions of this Order and such related statutory rights as may be agreed between the undertaker and the transferee; or
 - (b) grant to another person (“the grantee”) for a period agreed between the undertaker and the grantee any or all of the benefit of the provisions of this Order and such related statutory rights as may be so agreed.
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d6069cb726b2cd3fd3e542f1ab6ab67]: Commencement: Art. 9 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-7d6069cb726b2cd3fd3e542f1ab6ab67]: Commencement: Art. 9 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
 
-[^key-fdb0f50228f071c5fcde7f128d7d3cab]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/uksi/2022/573/article/9/1) substituted (7.2.2024) by [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)
+[^c-fdb0f50228f071c5fcde7f128d7d3cab]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/uksi/2022/573/article/9/1) substituted (7.2.2024) by [The M25 Junction 28 Development Consent (Correction) Order 2024 (S.I. 2024/129)](https://www.legislation.gov.uk/uksi/2024/129), [art. 1](https://www.legislation.gov.uk/uksi/2024/129/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/129/schedule)

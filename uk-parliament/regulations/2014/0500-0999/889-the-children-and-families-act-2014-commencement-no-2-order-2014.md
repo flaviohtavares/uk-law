@@ -39,15 +39,15 @@ Made
 
 The Secretary of State for Education makes the following Order in exercise of the powers conferred by section 139(6) and (7) of the Children and Families Act 2014[^f00001]:
 
-## 1. Citation and Interpretation[^key-7b71dbd39853181a9868663810ea897e]
+## 1. Citation and Interpretation[^c-7b71dbd39853181a9868663810ea897e]
 
 This Order may be cited as the Children and Families Act 2014 (Commencement No. 2) Order 2014.
 
-## 2.[^key-ec4d88edfd25978ef03dd44d2562b7da]
+## 2.[^c-ec4d88edfd25978ef03dd44d2562b7da]
 
 In this Order “the Act” means the Children and Families Act 2014.
 
-## 3. Provisions coming into force on 1st April 2014[^key-161d1a3c3e5567b93c5926d38685ebfa]
+## 3. Provisions coming into force on 1st April 2014[^c-161d1a3c3e5567b93c5926d38685ebfa]
 
 The following provisions of the Act come into force on 1st April 2014 for the purposes of making orders or regulations only—
 
@@ -65,7 +65,7 @@ The following provisions of the Act come into force on 1st April 2014 for the pu
 - (l) section 84;
 - (m) Schedule 4.
 
-## 4. Provisions coming into force on 22nd April 2014[^key-a3546bb02b2c1c1fd8e5ae6900dbeddd]
+## 4. Provisions coming into force on 22nd April 2014[^c-a3546bb02b2c1c1fd8e5ae6900dbeddd]
 
 The following provisions of the Act come into force on 22nd April 2014—
 
@@ -76,22 +76,22 @@ The following provisions of the Act come into force on 22nd April 2014—
 - (e) section 16;
 - (f) Schedule 2.
 
-## 4A. Provision coming into force on 1st May 2014[^key-e8fd27701bef7e202d668def34f6a5c9]
+## 4A. Provision coming into force on 1st May 2014[^c-e8fd27701bef7e202d668def34f6a5c9]
 
 Section 78 comes into force on 1st May 2014.
 
-## 5. Provisions coming into force on 13th May 2014[^key-0ac87133bed626650a12faf9c4e86da1]
+## 5. Provisions coming into force on 13th May 2014[^c-0ac87133bed626650a12faf9c4e86da1]
 
 The following provisions of the Act come into force on 13th May 2014—
 
 - (a) section 4;
 - (b) section 7;
-- (c)[^key-7862ba3edf25bee7e8198fcb796b9295] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7862ba3edf25bee7e8198fcb796b9295] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) sections 85 to 89;
 - (e) sections 98 and 99;
 - (f) Schedule 1.
 
-## 6. Provisions coming into force on 25th July 2014[^key-03e5164d0e3981c96f3c1797ac8d89f8]
+## 6. Provisions coming into force on 25th July 2014[^c-03e5164d0e3981c96f3c1797ac8d89f8]
 
 The following provisions of the Act come into force on 25th July 2014—
 
@@ -100,7 +100,7 @@ The following provisions of the Act come into force on 25th July 2014—
 - (c) section 6;
 - (d) section 8.
 
-## 7. Provisions coming into force on 1st September 2014[^key-53718a921b1d14430a0ef1f2da9c025a]
+## 7. Provisions coming into force on 1st September 2014[^c-53718a921b1d14430a0ef1f2da9c025a]
 
 The following provisions of the Act come into force on 1st September 2014—
 
@@ -149,20 +149,20 @@ Sections 10, 13 and 17 come into force on 22nd April 2014 by virtue of a previou
 
 [^f00001]: Footnote: [2014 c.6](https://www.legislation.gov.uk/ukpga/2014/6).
 
-[^key-7b71dbd39853181a9868663810ea897e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/889/article/1) in force at made date
+[^c-7b71dbd39853181a9868663810ea897e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/889/article/1) in force at made date
 
-[^key-ec4d88edfd25978ef03dd44d2562b7da]: Commencement: Art. 2 in force at made date
+[^c-ec4d88edfd25978ef03dd44d2562b7da]: Commencement: Art. 2 in force at made date
 
-[^key-161d1a3c3e5567b93c5926d38685ebfa]: Commencement: Art. 3 in force at made date
+[^c-161d1a3c3e5567b93c5926d38685ebfa]: Commencement: Art. 3 in force at made date
 
-[^key-a3546bb02b2c1c1fd8e5ae6900dbeddd]: Commencement: Art. 4 in force at made date
+[^c-a3546bb02b2c1c1fd8e5ae6900dbeddd]: Commencement: Art. 4 in force at made date
 
-[^key-e8fd27701bef7e202d668def34f6a5c9]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/uksi/2014/889/article/4A) inserted (30.4.2014) by [The Children and Families Act 2014 (Commencement No. 2) (Amendment) Order 2014 (S.I. 2014/1134)](https://www.legislation.gov.uk/uksi/2014/1134), [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1134/article/2/2)
+[^c-e8fd27701bef7e202d668def34f6a5c9]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/uksi/2014/889/article/4A) inserted (30.4.2014) by [The Children and Families Act 2014 (Commencement No. 2) (Amendment) Order 2014 (S.I. 2014/1134)](https://www.legislation.gov.uk/uksi/2014/1134), [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1134/article/2/2)
 
-[^key-0ac87133bed626650a12faf9c4e86da1]: Commencement: Art. 5 in force at made date
+[^c-0ac87133bed626650a12faf9c4e86da1]: Commencement: Art. 5 in force at made date
 
-[^key-7862ba3edf25bee7e8198fcb796b9295]: Textual amendment: [Art. 5(c)](https://www.legislation.gov.uk/uksi/2014/889/article/5/c) omitted (30.4.2014) by virtue of [The Children and Families Act 2014 (Commencement No. 2) (Amendment) Order 2014 (S.I. 2014/1134)](https://www.legislation.gov.uk/uksi/2014/1134), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1134/article/2/3)
+[^c-7862ba3edf25bee7e8198fcb796b9295]: Textual amendment: [Art. 5(c)](https://www.legislation.gov.uk/uksi/2014/889/article/5/c) omitted (30.4.2014) by virtue of [The Children and Families Act 2014 (Commencement No. 2) (Amendment) Order 2014 (S.I. 2014/1134)](https://www.legislation.gov.uk/uksi/2014/1134), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1134/article/2/3)
 
-[^key-03e5164d0e3981c96f3c1797ac8d89f8]: Commencement: Art. 6 in force at made date
+[^c-03e5164d0e3981c96f3c1797ac8d89f8]: Commencement: Art. 6 in force at made date
 
-[^key-53718a921b1d14430a0ef1f2da9c025a]: Commencement: Art. 7 in force at made date
+[^c-53718a921b1d14430a0ef1f2da9c025a]: Commencement: Art. 7 in force at made date

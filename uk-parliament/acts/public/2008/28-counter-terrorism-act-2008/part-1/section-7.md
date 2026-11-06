@@ -44,9 +44,9 @@ summary: ''
 (5) For this purpose the relevant chief officer of police is—
 
 - (a) where the search was carried out in England or Wales, the chief officer of police in whose area the search was carried out;
-- (b) where the search was carried out in Scotland, the chief constable of the Police Service of Scotland[^key-78d79edc538b61072720e15fdfc71fa6];
+- (b) where the search was carried out in Scotland, the chief constable of the Police Service of Scotland[^c-78d79edc538b61072720e15fdfc71fa6];
 - (c) where the search was carried out in Northern Ireland, the Chief Constable of the Police Service of Northern Ireland.
 
 ## Annotations
 
-[^key-78d79edc538b61072720e15fdfc71fa6]: Textual amendment: Words in s. 7(5)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 60(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/60/2)
+[^c-78d79edc538b61072720e15fdfc71fa6]: Textual amendment: Words in s. 7(5)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 60(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/60/2)

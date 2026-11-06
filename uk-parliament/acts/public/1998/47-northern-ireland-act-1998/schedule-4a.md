@@ -123,9 +123,9 @@ all other Northern Ireland Ministers shall cease to hold office and those Minist
 
 no member of that party may be nominated under sub-paragraph (3).
 
-(12)[^key-73a8bb329d1f7b1e6906ac3e9fc99f18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-73a8bb329d1f7b1e6906ac3e9fc99f18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13) In this paragraph, a reference to a period of exclusion [^key-afe8a9cf0b39e9e5ca9ef24f4ee5286f]... is, in the case of a period of exclusion [^key-afe8a9cf0b39e9e5ca9ef24f4ee5286f]... which has been extended, a reference to that period as extended.
+(13) In this paragraph, a reference to a period of exclusion [^c-afe8a9cf0b39e9e5ca9ef24f4ee5286f]... is, in the case of a period of exclusion [^c-afe8a9cf0b39e9e5ca9ef24f4ee5286f]... which has been extended, a reference to that period as extended.
 
 (14) In this paragraph “**nominating officer**” has the same meaning as in section 18.
 
@@ -142,7 +142,7 @@ no member of that party may be nominated under sub-paragraph (3).
 
 (2) In this paragraph “**devolved policing and justice function**” has the same meaning as in section 21A (see subsection (8) of that section).
 
-#### 3B. Modification of section 16A[^key-9dfbf1b88cc57b895fb0ae9b404ca7a1]
+#### 3B. Modification of section 16A[^c-9dfbf1b88cc57b895fb0ae9b404ca7a1]
 
 Section 16A(3) has effect as if, for paragraph (b) (and the word “and” before it) there were substituted—
 
@@ -151,18 +151,18 @@ Section 16A(3) has effect as if, for paragraph (b) (and the word “and” befor
 
 #### 3C. Section 18 not to apply to relevant Minister
 
-(1)[^key-69c6f7a3362f3b57c75f25c58ba9d127] Section 18 (Northern Ireland Ministers) shall not apply in relation to—
+(1)[^c-69c6f7a3362f3b57c75f25c58ba9d127] Section 18 (Northern Ireland Ministers) shall not apply in relation to—
 
 - (a) the relevant Minister, or
 - (b) the Ministerial office held by the relevant Minister (the “relevant Ministerial office”),
 
 and paragraph 3D shall apply instead.
 
-(2)[^key-78365076025676b522b65b3710884108] But the reference to Ministerial offices in subsection (5) of that section (in the definition of M) shall be taken to include the relevant Ministerial office.
+(2)[^c-78365076025676b522b65b3710884108] But the reference to Ministerial offices in subsection (5) of that section (in the definition of M) shall be taken to include the relevant Ministerial office.
 
 #### 3D. Provisions relating to relevant Minister
 
-(A1)[^key-bc436aa39c141e77c9f2d5ad2f1f4f33] Where—
+(A1)[^c-bc436aa39c141e77c9f2d5ad2f1f4f33] Where—
 
 - (a) an Assembly is elected—
   - (i) at a poll the date for which is proposed under section 32(3B), or
@@ -172,24 +172,24 @@ and paragraph 3D shall apply instead.
 
 the relevant Minister shall cease to hold office (and the relevant Ministerial office shall remain vacant until next filled by virtue of section 16A).
 
-(1)[^key-1ebf7010ca0d3bdbcfc8321f206482fa] Where any of the following conditions is satisfied—
+(1)[^c-1ebf7010ca0d3bdbcfc8321f206482fa] Where any of the following conditions is satisfied—
 
 - (a) the relevant Minister shall (if holding office at the time) cease to hold office, and
 - (b) the relevant Ministerial office shall be filled by applying sub-paragraphs (4) to (8) within a period specified in standing orders.
 
 (2) The conditions are—
 
-- (a)[^key-5d120bdbd62d5a20b8e9dddcda96a320] a determination under section 17(1) takes effect;
+- (a)[^c-5d120bdbd62d5a20b8e9dddcda96a320] a determination under section 17(1) takes effect;
 - (b) a resolution which causes the relevant Ministerial office to become vacant is passed under section 30(2);
-- (c)[^key-daf5a7fda07800525f26a5bf32ce9651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) a period of exclusion under section 30(2) [^key-7c481b80c27cf4b8db07fd3aaae16622]... comes to an end [^key-7c481b80c27cf4b8db07fd3aaae16622]...;
+- (c)[^c-daf5a7fda07800525f26a5bf32ce9651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) a period of exclusion under section 30(2) [^c-7c481b80c27cf4b8db07fd3aaae16622]... comes to an end [^c-7c481b80c27cf4b8db07fd3aaae16622]...;
 - (e) such other circumstances obtain as may be specified in standing orders for the purposes of section 18(1)(e) but only so far as standing orders provide for those circumstances to be applicable for the purposes of this sub-paragraph.
 
-(3) If relevant, the relevant Ministerial office shall be filled by applying sub-paragraphs (4) to (8) after section 16B(3) to (7) is applied in relation to the offices of First Minister and deputy First Minister but before[^key-077394f67fdc7f7325dea05a6f003490] section 18(2) to (6) is applied in relation to the other Ministerial offices.
+(3) If relevant, the relevant Ministerial office shall be filled by applying sub-paragraphs (4) to (8) after section 16B(3) to (7) is applied in relation to the offices of First Minister and deputy First Minister but before[^c-077394f67fdc7f7325dea05a6f003490] section 18(2) to (6) is applied in relation to the other Ministerial offices.
 
 (4) One or more members of the Assembly may nominate another member of the Assembly to hold the relevant Ministerial office.
 
-(4A)[^key-fd7572ba6286df60d91084c82a0bba71] But a member of the Assembly who is a member of a political party may not be nominated unless the nominating officer of the party consents to the nomination within a period specified in standing orders.
+(4A)[^c-fd7572ba6286df60d91084c82a0bba71] But a member of the Assembly who is a member of a political party may not be nominated unless the nominating officer of the party consents to the nomination within a period specified in standing orders.
 
 (5) The nomination shall not take effect unless it is approved by a resolution of the Assembly passed with the support of—
 
@@ -215,10 +215,10 @@ a further nomination of a member of the Assembly may be made under sub-paragraph
 (11) The relevant Minister shall cease to hold office if—
 
 - (a) the Minister resigns by notice in writing to the First Minister and the deputy First Minister,
-- (aa)[^key-e0d0edfbbc8481dffc03b224dd60f8ef] there is an Assembly election at which the Minister is not returned as a member,
-- (b) the Minister ceases to be a member of the Assembly otherwise than by virtue of a dissolution, [^key-0a3bf05e0ce8619387cf35f8468a6321]...
-- (ba)[^key-1024a45c83740a6f836d99f2c0d000cd] where consent to the Minister's nomination was required under sub-paragraph (4A), the Minister is dismissed by the nominating officer of the party and the Presiding Officer is notified of the dismissal, or
-- (c) where consent to the Minister's nomination was not required under sub-paragraph (4A),[^key-35fedadd7eeb294c211091b4fef30567] the Assembly resolves that the Minister is to cease to hold office.
+- (aa)[^c-e0d0edfbbc8481dffc03b224dd60f8ef] there is an Assembly election at which the Minister is not returned as a member,
+- (b) the Minister ceases to be a member of the Assembly otherwise than by virtue of a dissolution, [^c-0a3bf05e0ce8619387cf35f8468a6321]...
+- (ba)[^c-1024a45c83740a6f836d99f2c0d000cd] where consent to the Minister's nomination was required under sub-paragraph (4A), the Minister is dismissed by the nominating officer of the party and the Presiding Officer is notified of the dismissal, or
+- (c) where consent to the Minister's nomination was not required under sub-paragraph (4A),[^c-35fedadd7eeb294c211091b4fef30567] the Assembly resolves that the Minister is to cease to hold office.
 
 (12) A resolution for the purposes of sub-paragraph (11)(c) must be passed with the support of—
 
@@ -231,7 +231,7 @@ a further nomination of a member of the Assembly may be made under sub-paragraph
 - (a) it is supported by at least 30 members of the Assembly, or
 - (b) it is moved by the First Minister and the deputy First Minister acting jointly.
 
-(14) If the relevant Minister ceases to hold office at any time, otherwise than by virtue of sub-paragraph (A1) or[^key-5644a57830859c5a0484b664f3e2e313] (1), the relevant Ministerial office shall be filled by applying sub-paragraphs (4) to (8) within a period specified in standing orders.
+(14) If the relevant Minister ceases to hold office at any time, otherwise than by virtue of sub-paragraph (A1) or[^c-5644a57830859c5a0484b664f3e2e313] (1), the relevant Ministerial office shall be filled by applying sub-paragraphs (4) to (8) within a period specified in standing orders.
 
 (15) Where—
 
@@ -240,13 +240,13 @@ a further nomination of a member of the Assembly may be made under sub-paragraph
 
 no member of that party may be nominated under sub-paragraph (4).
 
-(16)[^key-6b8cf87432c4678001f5eab23c400922] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(16)[^c-6b8cf87432c4678001f5eab23c400922] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(17) In this paragraph, a reference to a period of exclusion [^key-80c2355400138aae16c3f74d7c452055]... is, in the case of a period of exclusion [^key-80c2355400138aae16c3f74d7c452055]... which has been extended, a reference to that period as extended.
+(17) In this paragraph, a reference to a period of exclusion [^c-80c2355400138aae16c3f74d7c452055]... is, in the case of a period of exclusion [^c-80c2355400138aae16c3f74d7c452055]... which has been extended, a reference to that period as extended.
 
-(18)[^key-23d5cd0efaa9d156f54ec511cbcf4ca6] In this paragraph and paragraph 3E “**nominating officer**” has the same meaning as in section 18.
+(18)[^c-23d5cd0efaa9d156f54ec511cbcf4ca6] In this paragraph and paragraph 3E “**nominating officer**” has the same meaning as in section 18.
 
-#### 3E. Reappointment of other Northern Ireland Ministers in certain cases[^key-4f455646c087398a9663c7798bddd10c]
+#### 3E. Reappointment of other Northern Ireland Ministers in certain cases[^c-4f455646c087398a9663c7798bddd10c]
 
 (1) Where the first condition or the second condition is met—
 
@@ -390,9 +390,9 @@ all other Northern Ireland Ministers shall cease to hold office and those Minist
 
 no member of that party may be nominated under sub-paragraph (3).
 
-(12)[^key-1e14f37f509028f2d5ebd80bb942e3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-1e14f37f509028f2d5ebd80bb942e3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13) In this paragraph, a reference to a period of exclusion [^key-0d3884284605cda1f1066a286456418e]... is, in the case of a period of exclusion [^key-0d3884284605cda1f1066a286456418e]... which has been extended, a reference to that period as extended.
+(13) In this paragraph, a reference to a period of exclusion [^c-0d3884284605cda1f1066a286456418e]... is, in the case of a period of exclusion [^c-0d3884284605cda1f1066a286456418e]... which has been extended, a reference to that period as extended.
 
 (14) In this paragraph “**nominating officer**” has the same meaning as in section 18.
 
@@ -540,9 +540,9 @@ all other Northern Ireland Ministers shall cease to hold office and those Minist
 
 no member of that party may be nominated under sub-paragraph (3).
 
-(13)[^key-264779cc20b7987d7a7beef3e35660b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-264779cc20b7987d7a7beef3e35660b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14) In this paragraph, a reference to a period of exclusion [^key-b3d314e493e3ace82d54ae4b1effba24]... is, in the case of a period of exclusion [^key-b3d314e493e3ace82d54ae4b1effba24]... which has been extended, a reference to that period as extended.
+(14) In this paragraph, a reference to a period of exclusion [^c-b3d314e493e3ace82d54ae4b1effba24]... is, in the case of a period of exclusion [^c-b3d314e493e3ace82d54ae4b1effba24]... which has been extended, a reference to that period as extended.
 
 (15) In this paragraph “**nominating officer**” has the same meaning as in section 18.
 
@@ -673,9 +673,9 @@ the deputy Minister shall cease to hold office and the deputy Ministerial office
 
 no member of that party may be nominated under paragraph 11E(4)(b).
 
-(3)[^key-d3f6c888e2c8088ed33bbdeff9bbe80e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d3f6c888e2c8088ed33bbdeff9bbe80e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) In this paragraph, a reference to a period of exclusion [^key-6c896e35fd0ccdbe08dc7c025f77ed7e]... is, in the case of a period of exclusion [^key-6c896e35fd0ccdbe08dc7c025f77ed7e]... which has been extended, a reference to that period as extended.
+(4) In this paragraph, a reference to a period of exclusion [^c-6c896e35fd0ccdbe08dc7c025f77ed7e]... is, in the case of a period of exclusion [^c-6c896e35fd0ccdbe08dc7c025f77ed7e]... which has been extended, a reference to that period as extended.
 
 #### 11G. Change in number of Ministerial offices held by members of a political party
 
@@ -727,63 +727,63 @@ an Act of the Assembly which makes provision of the kind mentioned in section 21
 
 [^c20185351]: Textual amendment: Words in Sch. 4 Pt. 1 heading inserted (12.3.2009) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 1](https://www.legislation.gov.uk/ukpga/2009/3/section/1), [5](https://www.legislation.gov.uk/ukpga/2009/3/section/5), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/1/paragraph/4/2)
 
-[^key-73a8bb329d1f7b1e6906ac3e9fc99f18]: Textual amendment: Sch. 4A para. 3(12) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(i)(aa)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/aa)
+[^c-73a8bb329d1f7b1e6906ac3e9fc99f18]: Textual amendment: Sch. 4A para. 3(12) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(i)(aa)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/aa)
 
-[^key-afe8a9cf0b39e9e5ca9ef24f4ee5286f]: Textual amendment: Words in Sch. 4A para. 3(13) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(i)(bb)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/bb)
+[^c-afe8a9cf0b39e9e5ca9ef24f4ee5286f]: Textual amendment: Words in Sch. 4A para. 3(13) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(i)(bb)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/bb)
 
 [^c20185371]: Textual amendment: Sch. 4A Pt. 1A inserted (12.3.2009) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 1](https://www.legislation.gov.uk/ukpga/2009/3/section/1), [5](https://www.legislation.gov.uk/ukpga/2009/3/section/5), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/1/paragraph/4/3)
 
-[^key-9dfbf1b88cc57b895fb0ae9b404ca7a1]: Textual amendment: Sch. 4A para. 3B substituted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/2), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
+[^c-9dfbf1b88cc57b895fb0ae9b404ca7a1]: Textual amendment: Sch. 4A para. 3B substituted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/2), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
 
-[^key-69c6f7a3362f3b57c75f25c58ba9d127]: Textual amendment: Sch. 4A para. 3C renumbered as Sch. 4A para. 3C(1) (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/3/a), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
+[^c-69c6f7a3362f3b57c75f25c58ba9d127]: Textual amendment: Sch. 4A para. 3C renumbered as Sch. 4A para. 3C(1) (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(3)(a)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/3/a), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
 
-[^key-78365076025676b522b65b3710884108]: Textual amendment: Sch. 4A para. 3C(2) inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/3/b), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
+[^c-78365076025676b522b65b3710884108]: Textual amendment: Sch. 4A para. 3C(2) inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/3/b), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
 
-[^key-bc436aa39c141e77c9f2d5ad2f1f4f33]: Textual amendment: [Sch. 4A para. 3D(A1)](https://www.legislation.gov.uk/ukpga/1998/47/schedule/4A/paragraph/3D/A1) inserted (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2022/2/section/2/5/a), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/3))
+[^c-bc436aa39c141e77c9f2d5ad2f1f4f33]: Textual amendment: [Sch. 4A para. 3D(A1)](https://www.legislation.gov.uk/ukpga/1998/47/schedule/4A/paragraph/3D/A1) inserted (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2022/2/section/2/5/a), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/3))
 
-[^key-1ebf7010ca0d3bdbcfc8321f206482fa]: Modification: Sch. 4A para. 3D(1) excluded (4.5.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/2), [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/ukpga/2016/13/schedule/1/paragraph/2/1)
+[^c-1ebf7010ca0d3bdbcfc8321f206482fa]: Modification: Sch. 4A para. 3D(1) excluded (4.5.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/2), [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/ukpga/2016/13/schedule/1/paragraph/2/1)
 
-[^key-5d120bdbd62d5a20b8e9dddcda96a320]: Modification: Sch. 4A para. 3D(2)(a) excluded (4.5.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/2), [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/ukpga/2016/13/schedule/1/paragraph/2/1)
+[^c-5d120bdbd62d5a20b8e9dddcda96a320]: Modification: Sch. 4A para. 3D(2)(a) excluded (4.5.2016) by [Northern Ireland (Stormont Agreement and Implementation Plan) Act 2016 (c. 13)](https://www.legislation.gov.uk/ukpga/2016/13), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2016/13/section/11/2), [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/ukpga/2016/13/schedule/1/paragraph/2/1)
 
-[^key-daf5a7fda07800525f26a5bf32ce9651]: Textual amendment: Sch. 4A para. 3D(2)(c) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(ii)(aa)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/aa)
+[^c-daf5a7fda07800525f26a5bf32ce9651]: Textual amendment: Sch. 4A para. 3D(2)(c) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(ii)(aa)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/aa)
 
-[^key-7c481b80c27cf4b8db07fd3aaae16622]: Textual amendment: Words in Sch. 4A para. 3D(2)(d) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(ii)(bb)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/bb)
+[^c-7c481b80c27cf4b8db07fd3aaae16622]: Textual amendment: Words in Sch. 4A para. 3D(2)(d) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(ii)(bb)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/bb)
 
-[^key-077394f67fdc7f7325dea05a6f003490]: Textual amendment: Words in Sch. 4A para. 3D(3) inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(5)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/5), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
+[^c-077394f67fdc7f7325dea05a6f003490]: Textual amendment: Words in Sch. 4A para. 3D(3) inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(5)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/5), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
 
-[^key-fd7572ba6286df60d91084c82a0bba71]: Textual amendment: Sch. 4A para. 3D(4A) inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(6)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/6), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
+[^c-fd7572ba6286df60d91084c82a0bba71]: Textual amendment: Sch. 4A para. 3D(4A) inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(6)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/6), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
 
-[^key-e0d0edfbbc8481dffc03b224dd60f8ef]: Textual amendment: [Sch. 4A para. 3D(11)(aa)](https://www.legislation.gov.uk/ukpga/1998/47/schedule/4A/paragraph/3D/11/aa) inserted (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2022/2/section/2/5/b), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/3))
+[^c-e0d0edfbbc8481dffc03b224dd60f8ef]: Textual amendment: [Sch. 4A para. 3D(11)(aa)](https://www.legislation.gov.uk/ukpga/1998/47/schedule/4A/paragraph/3D/11/aa) inserted (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2022/2/section/2/5/b), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/3))
 
-[^key-0a3bf05e0ce8619387cf35f8468a6321]: Textual amendment: Word in Sch. 4A para. 3D(11)(b) omitted (27.9.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(7)(a)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/7/a), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
+[^c-0a3bf05e0ce8619387cf35f8468a6321]: Textual amendment: Word in Sch. 4A para. 3D(11)(b) omitted (27.9.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(7)(a)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/7/a), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
 
-[^key-1024a45c83740a6f836d99f2c0d000cd]: Textual amendment: Sch. 4A para. 3D(11)(ba) inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(7)(a)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/7/a), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
+[^c-1024a45c83740a6f836d99f2c0d000cd]: Textual amendment: Sch. 4A para. 3D(11)(ba) inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(7)(a)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/7/a), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
 
-[^key-35fedadd7eeb294c211091b4fef30567]: Textual amendment: Words in Sch. 4A para. 3D(11)(c) inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(7)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/7/b), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
+[^c-35fedadd7eeb294c211091b4fef30567]: Textual amendment: Words in Sch. 4A para. 3D(11)(c) inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(7)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/7/b), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
 
-[^key-5644a57830859c5a0484b664f3e2e313]: Textual amendment: Words in [Sch. 4A para. 3D(14)](https://www.legislation.gov.uk/ukpga/1998/47/schedule/4A/paragraph/3D/14) inserted (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 2(5)(c)](https://www.legislation.gov.uk/ukpga/2022/2/section/2/5/c), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/3))
+[^c-5644a57830859c5a0484b664f3e2e313]: Textual amendment: Words in [Sch. 4A para. 3D(14)](https://www.legislation.gov.uk/ukpga/1998/47/schedule/4A/paragraph/3D/14) inserted (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 2(5)(c)](https://www.legislation.gov.uk/ukpga/2022/2/section/2/5/c), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9) (with [s. 4(2)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/2/section/4/3))
 
-[^key-6b8cf87432c4678001f5eab23c400922]: Textual amendment: Sch. 4A para. 3D(16) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(ii)(cc)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/cc)
+[^c-6b8cf87432c4678001f5eab23c400922]: Textual amendment: Sch. 4A para. 3D(16) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(ii)(cc)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/cc)
 
-[^key-80c2355400138aae16c3f74d7c452055]: Textual amendment: Words in Sch. 4A para. 3D(17) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(ii)(dd)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/dd)
+[^c-80c2355400138aae16c3f74d7c452055]: Textual amendment: Words in Sch. 4A para. 3D(17) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(ii)(dd)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/dd)
 
-[^key-23d5cd0efaa9d156f54ec511cbcf4ca6]: Textual amendment: Sch. 4A para. 3D(18) inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(8)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/8), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
+[^c-23d5cd0efaa9d156f54ec511cbcf4ca6]: Textual amendment: Sch. 4A para. 3D(18) inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 8(8)](https://www.legislation.gov.uk/ukpga/2014/13/section/8/8), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
 
-[^key-4f455646c087398a9663c7798bddd10c]: Textual amendment: Sch. 4A para. 3E inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 9](https://www.legislation.gov.uk/ukpga/2014/13/section/9), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/b)
+[^c-4f455646c087398a9663c7798bddd10c]: Textual amendment: Sch. 4A para. 3E inserted (27.9.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 9](https://www.legislation.gov.uk/ukpga/2014/13/section/9), [28(7)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/7); [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/b)
 
-[^key-1e14f37f509028f2d5ebd80bb942e3f8]: Textual amendment: Sch. 4A para. 7(12) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(iii)(aa)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/aa)
+[^c-1e14f37f509028f2d5ebd80bb942e3f8]: Textual amendment: Sch. 4A para. 7(12) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(iii)(aa)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/aa)
 
-[^key-0d3884284605cda1f1066a286456418e]: Textual amendment: Words in Sch. 4A para. 7(13) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(iii)(bb)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/bb)
+[^c-0d3884284605cda1f1066a286456418e]: Textual amendment: Words in Sch. 4A para. 7(13) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(iii)(bb)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/bb)
 
-[^key-264779cc20b7987d7a7beef3e35660b0]: Textual amendment: Sch. 4A para. 11(13) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(iv)(aa)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/aa)
+[^c-264779cc20b7987d7a7beef3e35660b0]: Textual amendment: Sch. 4A para. 11(13) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(iv)(aa)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/aa)
 
-[^key-b3d314e493e3ace82d54ae4b1effba24]: Textual amendment: Words in Sch. 4A para. 11(14) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(iv)(bb)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/bb)
+[^c-b3d314e493e3ace82d54ae4b1effba24]: Textual amendment: Words in Sch. 4A para. 11(14) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(iv)(bb)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/bb)
 
 [^c20183921]: Modification: Sch. 4A para. 11E(1) applied (with modifications) (12.3.2009) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 1](https://www.legislation.gov.uk/ukpga/2009/3/section/1), [5](https://www.legislation.gov.uk/ukpga/2009/3/section/5), [Sch. 1 para. 8(8)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/1/paragraph/8/8) (with [Sch. 1 para. 8(9)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/1/paragraph/8/9))
 
-[^key-d3f6c888e2c8088ed33bbdeff9bbe80e]: Textual amendment: Sch. 4A para. 11F(3) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(v)(aa)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/aa)
+[^c-d3f6c888e2c8088ed33bbdeff9bbe80e]: Textual amendment: Sch. 4A para. 11F(3) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(v)(aa)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/aa)
 
-[^key-6c896e35fd0ccdbe08dc7c025f77ed7e]: Textual amendment: Words in Sch. 4A para. 11F(4) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(v)(bb)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/bb)
+[^c-6c896e35fd0ccdbe08dc7c025f77ed7e]: Textual amendment: Words in Sch. 4A para. 11F(4) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(k)(v)(bb)](https://www.legislation.gov.uk/uksi/2011/978/article/5/k/bb)
 
 [^c20185291]: Textual amendment: Words in Sch. 4A para. 12(1) inserted (12.3.2009) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 1](https://www.legislation.gov.uk/ukpga/2009/3/section/1), [5](https://www.legislation.gov.uk/ukpga/2009/3/section/5), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/1/paragraph/4/4)
 

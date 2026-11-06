@@ -31,7 +31,7 @@ summary: ''
 
 PROFESSIONAL QUALIFICATIONS
 
-The European Communities (Recognition of Professional Qualifications) (Amendment) Regulations 2000 (revoked)[^key-49b9e0d9301f49bb6cbcd7e01dc13859]
+The European Communities (Recognition of Professional Qualifications) (Amendment) Regulations 2000 (revoked)[^c-49b9e0d9301f49bb6cbcd7e01dc13859]
 
 Made
 
@@ -45,42 +45,42 @@ Coming into force
 
 28th August 2000
 
-[^key-49b9e0d9301f49bb6cbcd7e01dc13859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49b9e0d9301f49bb6cbcd7e01dc13859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-49b9e0d9301f49bb6cbcd7e01dc13859]
+## 1.[^c-49b9e0d9301f49bb6cbcd7e01dc13859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-49b9e0d9301f49bb6cbcd7e01dc13859]
+## 2.[^c-49b9e0d9301f49bb6cbcd7e01dc13859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-49b9e0d9301f49bb6cbcd7e01dc13859]
+## 3.[^c-49b9e0d9301f49bb6cbcd7e01dc13859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-49b9e0d9301f49bb6cbcd7e01dc13859]
+## 4.[^c-49b9e0d9301f49bb6cbcd7e01dc13859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-49b9e0d9301f49bb6cbcd7e01dc13859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49b9e0d9301f49bb6cbcd7e01dc13859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-49b9e0d9301f49bb6cbcd7e01dc13859]
+## SCHEDULE[^c-49b9e0d9301f49bb6cbcd7e01dc13859]
 
 Regulation 3
 
-[^key-49b9e0d9301f49bb6cbcd7e01dc13859]
+[^c-49b9e0d9301f49bb6cbcd7e01dc13859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-49b9e0d9301f49bb6cbcd7e01dc13859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49b9e0d9301f49bb6cbcd7e01dc13859]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49b9e0d9301f49bb6cbcd7e01dc13859]: Textual amendment: Regulations revoked (9.2.2005) by [The European Communities (Recognition of Professional Qualifications) (First General System) Regulations 2005 (S.I. 2005/18)](https://www.legislation.gov.uk/uksi/2005/18), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/18/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2005/18/regulation/15/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/18/regulation/3))
+[^c-49b9e0d9301f49bb6cbcd7e01dc13859]: Textual amendment: Regulations revoked (9.2.2005) by [The European Communities (Recognition of Professional Qualifications) (First General System) Regulations 2005 (S.I. 2005/18)](https://www.legislation.gov.uk/uksi/2005/18), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/18/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2005/18/regulation/15/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/18/regulation/3))

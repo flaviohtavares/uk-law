@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Contact and access to communications[^key-8161a2585f0833acef6f387f4a1c3ced]
+## 12. Contact and access to communications[^c-8161a2585f0833acef6f387f4a1c3ced]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8161a2585f0833acef6f387f4a1c3ced]: Commencement: Reg. 12 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-8161a2585f0833acef6f387f4a1c3ced]: Commencement: Reg. 12 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

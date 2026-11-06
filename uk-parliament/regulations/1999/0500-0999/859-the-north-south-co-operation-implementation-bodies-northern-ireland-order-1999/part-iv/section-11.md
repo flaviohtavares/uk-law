@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. The implementation body for trade and business development[^key-d40d4afe4baba8ddadac1ba740e982ac]
+## 11. The implementation body for trade and business development[^c-d40d4afe4baba8ddadac1ba740e982ac]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d40d4afe4baba8ddadac1ba740e982ac]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/1999/859/article/11) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-d40d4afe4baba8ddadac1ba740e982ac]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/1999/859/article/11) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-For the purposes of this Part a company's “**qualifying Chapter 2 expenditure**” is such of its expenditure as is qualifying Chapter 2 expenditure by virtue of section[^key-209226a4c28865d2a52b68d132d147c0] 1052, 1053 or 1053A.
+For the purposes of this Part a company's “**qualifying Chapter 2 expenditure**” is such of its expenditure as is qualifying Chapter 2 expenditure by virtue of section[^c-209226a4c28865d2a52b68d132d147c0] 1052, 1053 or 1053A.
 
 ## Annotations
 
-[^key-209226a4c28865d2a52b68d132d147c0]: Textual amendment: Words in [s. 1051](https://www.legislation.gov.uk/ukpga/2009/4/section/1051) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 6(8)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/6/8), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-209226a4c28865d2a52b68d132d147c0]: Textual amendment: Words in [s. 1051](https://www.legislation.gov.uk/ukpga/2009/4/section/1051) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 6(8)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/6/8), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)

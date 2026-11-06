@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Duration of expedited orders[^key-91e131bb96177eded7dcc09b2ac083f5]
+## 60A. Duration of expedited orders[^c-91e131bb96177eded7dcc09b2ac083f5]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91e131bb96177eded7dcc09b2ac083f5]: Textual amendment: [S. 60A](https://www.legislation.gov.uk/ukpga/2014/12/section/60A) inserted (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 82(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/82/3), [208(4)(n)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/n); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-91e131bb96177eded7dcc09b2ac083f5]: Textual amendment: [S. 60A](https://www.legislation.gov.uk/ukpga/2014/12/section/60A) inserted (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 82(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/82/3), [208(4)(n)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/n); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

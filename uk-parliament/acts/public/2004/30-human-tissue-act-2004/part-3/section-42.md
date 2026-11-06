@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Power of Human Tissue Authority to assist other public authorities[^key-26215fe7f2b4463b7de3d4edc5a7dc58]
+## 42. Power of Human Tissue Authority to assist other public authorities[^c-26215fe7f2b4463b7de3d4edc5a7dc58]
 
 *Extent: E+W+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26215fe7f2b4463b7de3d4edc5a7dc58]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2004/30/section/42) in force at 1.4.2005 by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))
+[^c-26215fe7f2b4463b7de3d4edc5a7dc58]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2004/30/section/42) in force at 1.4.2005 by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))

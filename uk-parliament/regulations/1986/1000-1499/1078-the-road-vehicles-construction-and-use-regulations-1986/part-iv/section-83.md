@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 83. Number of trailers[^key-b88317b87b169c3b7cfc6f243cdda0fb]
+## 83. Number of trailers[^c-b88317b87b169c3b7cfc6f243cdda0fb]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ TABLE
 </tbody>
 </table>
 
-[^key-5ffa2c4d99f235f541c54cba3c405aff][^key-9b3015a43b9ba5bbe39190716e71e52c]
+[^c-5ffa2c4d99f235f541c54cba3c405aff][^c-9b3015a43b9ba5bbe39190716e71e52c]
 
 (2) For the purposes of items 5, 6 and 7 of the Table—
 
@@ -52,14 +52,14 @@ TABLE
 
 (3) No track-laying motor vehicle which exceeds 8 m in overall length shall draw a trailer other than a broken down vehicle which is being drawn in consequence of the breakdown.
 
-(4)[^key-ca2e0816785dc6561108f646159fcb45] For the purpose of this regulation, the word “trailer” does not include a vehicle which is drawn by a steam powered vehicle and which is used solely for carrying water for the purpose of the drawing vehicle.
+(4)[^c-ca2e0816785dc6561108f646159fcb45] For the purpose of this regulation, the word “trailer” does not include a vehicle which is drawn by a steam powered vehicle and which is used solely for carrying water for the purpose of the drawing vehicle.
 
 ## Annotations
 
-[^key-b88317b87b169c3b7cfc6f243cdda0fb]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/1986/1078/regulation/83) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-b88317b87b169c3b7cfc6f243cdda0fb]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/1986/1078/regulation/83) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-5ffa2c4d99f235f541c54cba3c405aff]: Textual amendment: Words in [reg. 83](https://www.legislation.gov.uk/uksi/1986/1078/regulation/83) Table substituted (11.1.1990) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1989 (S.I. 1989/2360)](https://www.legislation.gov.uk/uksi/1989/2360), [regs. 1](https://www.legislation.gov.uk/uksi/1989/2360/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1989/2360/regulation/4/a)
+[^c-5ffa2c4d99f235f541c54cba3c405aff]: Textual amendment: Words in [reg. 83](https://www.legislation.gov.uk/uksi/1986/1078/regulation/83) Table substituted (11.1.1990) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1989 (S.I. 1989/2360)](https://www.legislation.gov.uk/uksi/1989/2360), [regs. 1](https://www.legislation.gov.uk/uksi/1989/2360/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1989/2360/regulation/4/a)
 
-[^key-9b3015a43b9ba5bbe39190716e71e52c]: Textual amendment: Words in [reg. 83](https://www.legislation.gov.uk/uksi/1986/1078/regulation/83) Table substituted (11.1.1990) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1989 (S.I. 1989/2360)](https://www.legislation.gov.uk/uksi/1989/2360), [regs. 1](https://www.legislation.gov.uk/uksi/1989/2360/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1989/2360/regulation/4/b)
+[^c-9b3015a43b9ba5bbe39190716e71e52c]: Textual amendment: Words in [reg. 83](https://www.legislation.gov.uk/uksi/1986/1078/regulation/83) Table substituted (11.1.1990) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1989 (S.I. 1989/2360)](https://www.legislation.gov.uk/uksi/1989/2360), [regs. 1](https://www.legislation.gov.uk/uksi/1989/2360/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1989/2360/regulation/4/b)
 
-[^key-ca2e0816785dc6561108f646159fcb45]: Textual amendment: [Reg. 83(4)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/83/4) added (6.5.1987) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/1987/676/regulation/14)
+[^c-ca2e0816785dc6561108f646159fcb45]: Textual amendment: [Reg. 83(4)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/83/4) added (6.5.1987) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/1987/676/regulation/14)

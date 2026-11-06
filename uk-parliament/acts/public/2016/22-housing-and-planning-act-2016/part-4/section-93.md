@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Reducing local authority influence over private registered providers[^key-254aa07555a9b41e2401f686b5fc14ea]
+## 93. Reducing local authority influence over private registered providers[^c-254aa07555a9b41e2401f686b5fc14ea]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-254aa07555a9b41e2401f686b5fc14ea]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2016/22/section/93) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/a)
+[^c-254aa07555a9b41e2401f686b5fc14ea]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2016/22/section/93) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/a)

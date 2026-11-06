@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Objections to admission arrangements[^key-bb42ae75cd4b3d7b3d582c51c6c01fa7][^key-9f0f58fceb596ccf75286fe0a9089031]
+## 47. Objections to admission arrangements[^c-bb42ae75cd4b3d7b3d582c51c6c01fa7][^c-9f0f58fceb596ccf75286fe0a9089031]
 
 *Extent: E+W*
 
@@ -43,15 +43,15 @@ summary: ''
 
 (5) In subsection (9)—
 
-- (a)[^key-8011e0857023584b643a3938b91eff36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8011e0857023584b643a3938b91eff36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (c) for “any matters required to be published under subsection (7) are” substitute “ a report required to be published under subsection (5B) is ”.
 
 (6) Omit subsection (10) (which has the effect of requiring certain cases to be referred by the adjudicator to the Secretary of State).
 
 ## Annotations
 
-[^key-bb42ae75cd4b3d7b3d582c51c6c01fa7]: Commencement: S. 47 in force at 27.2.2007 for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 6(d)](https://www.legislation.gov.uk/uksi/2006/3400/article/6/d)
+[^c-bb42ae75cd4b3d7b3d582c51c6c01fa7]: Commencement: S. 47 in force at 27.2.2007 for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 6(d)](https://www.legislation.gov.uk/uksi/2006/3400/article/6/d)
 
-[^key-9f0f58fceb596ccf75286fe0a9089031]: Commencement: S. 47 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)
+[^c-9f0f58fceb596ccf75286fe0a9089031]: Commencement: S. 47 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)
 
-[^key-8011e0857023584b643a3938b91eff36]: Textual amendment: S. 47(5)(a) repealed (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(h)(vii)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/h/vii)
+[^c-8011e0857023584b643a3938b91eff36]: Textual amendment: S. 47(5)(a) repealed (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(h)(vii)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/h/vii)

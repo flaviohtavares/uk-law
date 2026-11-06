@@ -46,11 +46,11 @@ The Department for the Economy makes the following Regulations in exercise of th
 
 The Department considers it reasonable to make these Regulations so as to mitigate an effect of coronavirus[^f00002].
 
-## 1. Citation and commencement[^key-8064be5c9720074fdfbb032479a88e37]
+## 1. Citation and commencement[^c-8064be5c9720074fdfbb032479a88e37]
 
 These Regulations may be cited as the Corporate Insolvency and Governance Act 2020 (Amendment of Certain Relevant Periods) Regulations (Northern Ireland) 2020 and come into operation on 29th September 2020.
 
-## 2. Amendment of the Corporate Insolvency and Governance Act 2020[^key-5ce4d1103b97d27fe66dced75a547d69]
+## 2. Amendment of the Corporate Insolvency and Governance Act 2020[^c-5ce4d1103b97d27fe66dced75a547d69]
 
 The Corporate Insolvency and Governance Act 2020 is amended as follows—
 
@@ -84,6 +84,6 @@ A full impact assessment has not been produced for this rule as no, or no signif
 
 [^f00002]: Footnote: “coronavirus” has the meaning given by section 42(2) of the Corporate Insolvency and Governance Act 2020.
 
-[^key-8064be5c9720074fdfbb032479a88e37]: Commencement: Reg. 1 in operation at 29.9.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/199/regulation/1)
+[^c-8064be5c9720074fdfbb032479a88e37]: Commencement: Reg. 1 in operation at 29.9.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/199/regulation/1)
 
-[^key-5ce4d1103b97d27fe66dced75a547d69]: Commencement: Reg. 2 in operation at 29.9.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/199/regulation/1)
+[^c-5ce4d1103b97d27fe66dced75a547d69]: Commencement: Reg. 2 in operation at 29.9.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/199/regulation/1)

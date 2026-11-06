@@ -33,34 +33,34 @@ Social Security
 
 Terms And Conditions Of Employment
 
-The Work and Families Act 2006 (Commencement No. 3) Order 2010 (revoked)[^key-f43f2b78626ed98fd966df9fc9e3d647]
+The Work and Families Act 2006 (Commencement No. 3) Order 2010 (revoked)[^c-f43f2b78626ed98fd966df9fc9e3d647]
 
 Made
 
 25th January 2010
 
-[^key-f43f2b78626ed98fd966df9fc9e3d647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f43f2b78626ed98fd966df9fc9e3d647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and interpretation[^key-f43f2b78626ed98fd966df9fc9e3d647]
+## 1. Citation and interpretation[^c-f43f2b78626ed98fd966df9fc9e3d647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Provisions coming into force on 6th April 2010[^key-f43f2b78626ed98fd966df9fc9e3d647]
+## 2. Provisions coming into force on 6th April 2010[^c-f43f2b78626ed98fd966df9fc9e3d647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f43f2b78626ed98fd966df9fc9e3d647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f43f2b78626ed98fd966df9fc9e3d647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f43f2b78626ed98fd966df9fc9e3d647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f43f2b78626ed98fd966df9fc9e3d647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f43f2b78626ed98fd966df9fc9e3d647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f43f2b78626ed98fd966df9fc9e3d647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f43f2b78626ed98fd966df9fc9e3d647]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/128) revoked (1.3.2010) by [The Work and Families Act 2006 (Commencement No. 4) Order 2010 (S.I. 2010/495)](https://www.legislation.gov.uk/uksi/2010/495), [art. 2](https://www.legislation.gov.uk/uksi/2010/495/article/2)
+[^c-f43f2b78626ed98fd966df9fc9e3d647]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/128) revoked (1.3.2010) by [The Work and Families Act 2006 (Commencement No. 4) Order 2010 (S.I. 2010/495)](https://www.legislation.gov.uk/uksi/2010/495), [art. 2](https://www.legislation.gov.uk/uksi/2010/495/article/2)

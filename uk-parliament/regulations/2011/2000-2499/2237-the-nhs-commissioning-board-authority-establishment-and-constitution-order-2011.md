@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The NHS Commissioning Board Authority (Establishment and Constitution) Order 2011 (revoked)[^key-efd58974683daa4af053800b626f79c5]
+The NHS Commissioning Board Authority (Establishment and Constitution) Order 2011 (revoked)[^c-efd58974683daa4af053800b626f79c5]
 
 Made
 
@@ -46,54 +46,54 @@ Coming into force
 
 31st October 2011
 
-[^key-efd58974683daa4af053800b626f79c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efd58974683daa4af053800b626f79c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-efd58974683daa4af053800b626f79c5]
+## 1. Citation, commencement, application and interpretation[^c-efd58974683daa4af053800b626f79c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Establishment of the Authority[^key-efd58974683daa4af053800b626f79c5]
+## 2. Establishment of the Authority[^c-efd58974683daa4af053800b626f79c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Functions of the Authority[^key-efd58974683daa4af053800b626f79c5]
+## 3. Functions of the Authority[^c-efd58974683daa4af053800b626f79c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Constitution of the Authority[^key-efd58974683daa4af053800b626f79c5]
+## 4. Constitution of the Authority[^c-efd58974683daa4af053800b626f79c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transfer of officers from the Secretary of State, a Strategic Health Authority, a Primary Care Trust or the Appointments Commission[^key-efd58974683daa4af053800b626f79c5]
+## 5. Transfer of officers from the Secretary of State, a Strategic Health Authority, a Primary Care Trust or the Appointments Commission[^c-efd58974683daa4af053800b626f79c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Consequential amendment of regulations[^key-efd58974683daa4af053800b626f79c5]
+## 6. Consequential amendment of regulations[^c-efd58974683daa4af053800b626f79c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efd58974683daa4af053800b626f79c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efd58974683daa4af053800b626f79c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — AMENDMENTS CONSEQUENTIAL ON THE ESTABLISHMENT OF THE NHS COMMISSIONING BOARD AUTHORITY[^key-efd58974683daa4af053800b626f79c5]
+## SCHEDULE — AMENDMENTS CONSEQUENTIAL ON THE ESTABLISHMENT OF THE NHS COMMISSIONING BOARD AUTHORITY[^c-efd58974683daa4af053800b626f79c5]
 
 Article 6
 
-### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^key-efd58974683daa4af053800b626f79c5]
+### 1. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^c-efd58974683daa4af053800b626f79c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^key-efd58974683daa4af053800b626f79c5]
+### 2. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^c-efd58974683daa4af053800b626f79c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-efd58974683daa4af053800b626f79c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efd58974683daa4af053800b626f79c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-efd58974683daa4af053800b626f79c5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2237) revoked (1.10.2012) by [The NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012 (S.I. 2012/1641)](https://www.legislation.gov.uk/uksi/2012/1641), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/3)
+[^c-efd58974683daa4af053800b626f79c5]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2237) revoked (1.10.2012) by [The NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012 (S.I. 2012/1641)](https://www.legislation.gov.uk/uksi/2012/1641), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/1641/article/1/2/b), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/1641/schedule/2/paragraph/3)

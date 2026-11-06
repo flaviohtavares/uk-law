@@ -44,15 +44,15 @@ Coming into force
 
 25th July 2013
 
-The Treasury are designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to financial services.[^key-57414e77e11dcd14f8e733c407c04e7d]
+The Treasury are designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to financial services.[^c-57414e77e11dcd14f8e733c407c04e7d]
 
-The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, make the following Regulations:[^key-d309290ce73c43942f351bf5601e9604][^key-57414e77e11dcd14f8e733c407c04e7d]
+The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, make the following Regulations:[^c-d309290ce73c43942f351bf5601e9604][^c-57414e77e11dcd14f8e733c407c04e7d]
 
-## 1. Citation and commencement[^key-5bfe156a4f526fd68748e4af51d9aef0]
+## 1. Citation and commencement[^c-5bfe156a4f526fd68748e4af51d9aef0]
 
 These Regulations may be cited as the Credit Rating Agencies (Civil Liability) Regulations 2013 and shall come into force on 25th July 2013.
 
-## 2. Interpretation[^key-9f473a12847e39855d3315dda0f35b33]
+## 2. Interpretation[^c-9f473a12847e39855d3315dda0f35b33]
 
 In these Regulations—
 
@@ -67,21 +67,21 @@ In these Regulations—
 - “related third party” has the meaning given by Article 3(1)(i) of the EC Regulation;
 - “senior management” has the meaning given by article 3(1)(n) of the EC Regulation.
 
-## 3. “Intention”[^key-ad219f5b79b2d489684c22432fbdebdd]
+## 3. “Intention”[^c-ad219f5b79b2d489684c22432fbdebdd]
 
 In Article 35a, an infringement shall be considered to have been committed intentionally by the credit rating agency if the senior management of the credit rating agency acted deliberately to commit the infringement.
 
-## 4. “Gross negligence”[^key-e7b6d5027e3fca76d7deb3365827bb7d]
+## 4. “Gross negligence”[^c-e7b6d5027e3fca76d7deb3365827bb7d]
 
 (1) In Article 35a, an infringement shall be considered to have been committed with gross negligence if the senior management of the credit rating agency were reckless as to whether the infringement occurred.
 
 (2) For the purposes of this regulation, the senior management of a credit rating agency are reckless if they act without caring whether an infringement occurs.
 
-## 5. “Impact”[^key-98614b08715004aa61b3a92e142ac286]
+## 5. “Impact”[^c-98614b08715004aa61b3a92e142ac286]
 
 In Article 35a, an infringement has an impact on a credit rating if it results in a different rating category being assigned to the issuer or the financial instrument of the issuer to which the credit rating relates.
 
-## 6. “Reasonably relied”[^key-d365833072b56eecb149d9d0b8bab198]
+## 6. “Reasonably relied”[^c-d365833072b56eecb149d9d0b8bab198]
 
 (1) In Article 35a, an investor reasonably relies upon a credit rating where—
 
@@ -90,22 +90,22 @@ In Article 35a, an infringement has an impact on a credit rating if it results i
 
 (2) The test for whether the reliance is reasonable is the same as for whether it is reasonable for a person to rely on a statement for the purposes of determining whether the statement gives rise to a duty of care in negligence.
 
-## 7. “Due care”[^key-58637383c3d3e17d93841dfbd81d4d59]
+## 7. “Due care”[^c-58637383c3d3e17d93841dfbd81d4d59]
 
 In Article 35a, an investor shall be considered to have exercised due care if the investor took the care a reasonably prudent investor would have exercised in the circumstances.
 
-## 8. “Caused”[^key-5392dcd9f6fefd3ed128ec07533e8133]
+## 8. “Caused”[^c-5392dcd9f6fefd3ed128ec07533e8133]
 
 In Article 35a, the test of causation in negligence applies for the purposes of determining whether an infringement caused damage.
 
-## 9. Reasonable and proportionate limitations on liability[^key-c8d88ab6e61839c101c585700423f877]
+## 9. Reasonable and proportionate limitations on liability[^c-c8d88ab6e61839c101c585700423f877]
 
 For the purposes of Article 35a(3)—
 
 - (a) a limitation on liability is allowed by the law of the United Kingdom; and
 - (b) “reasonable and proportionate” means the limitation on liability is reasonable and proportionate in all the relevant circumstances of the case, having regard to such of the factors in regulations 10, 11 and 12 as the court considers relevant.
 
-## 10. Issuers: solicited credit ratings[^key-71e5b86d7cdc992788b130995fedd2fb]
+## 10. Issuers: solicited credit ratings[^c-71e5b86d7cdc992788b130995fedd2fb]
 
 (1) If the claimant is an issuer and it, or a related third party, has entered into a contract with a credit rating agency to assign a credit rating in respect of such issuer or a financial instrument issued by such issuer, the court may consider the following factors, amongst others, to be indications that a limitation on liability is reasonable and proportionate—
 
@@ -118,7 +118,7 @@ For the purposes of Article 35a(3)—
 
 (2) The absence of a factor or factors in paragraph (1) does not indicate that a limitation on liability is unreasonable or disproportionate.
 
-## 11. Issuers: unsolicited credit ratings[^key-b653209e69e369545eed9532363f07a5]
+## 11. Issuers: unsolicited credit ratings[^c-b653209e69e369545eed9532363f07a5]
 
 (1) If the claimant is an issuer and a credit rating agency has assigned a credit rating in respect of such issuer or a financial instrument issued by such issuer, without the issuer, or a related third party, entering into a contract with that credit rating agency to assign a credit rating, the court may consider the following factors, amongst others, to be indications that a limitation on liability is reasonable and proportionate—
 
@@ -129,7 +129,7 @@ For the purposes of Article 35a(3)—
 
 (2) The absence of a factor or factors in paragraph (1) does not indicate that a limitation on liability is unreasonable or disproportionate.
 
-## 12. Investors[^key-48bec23a9deef93b8a39ada9598299a7]
+## 12. Investors[^c-48bec23a9deef93b8a39ada9598299a7]
 
 (1) If the claimant is an investor. the court may consider the following factors, amongst others, to be indications that a limitation on liability is reasonable and proportionate—
 
@@ -145,7 +145,7 @@ For the purposes of Article 35a(3)—
 
 (3) A limitation of liability is not likely to be reasonable and proportionate if the credit rating agency fails to take reasonable steps to bring the limitation to the attention of investors.
 
-## 13. Issuers: general approach to determining damages[^key-fb641320d0b6a5c0c6356158c935be40]
+## 13. Issuers: general approach to determining damages[^c-fb641320d0b6a5c0c6356158c935be40]
 
 (1) The damages recoverable by an issuer in a claim under Article 35a are—
 
@@ -154,28 +154,28 @@ For the purposes of Article 35a(3)—
 
 (2) For the purpose of this regulation, “affected credit rating” means, where a credit rating agency has committed an infringement, the rating category that the credit rating agency assigned to the issuer or financial instrument, where such rating category is different to that which would have been assigned if the infringement had not occurred.
 
-## 14. Investors: general approach to determining damages[^key-84879ec770877e5211912911c45d85a1]
+## 14. Investors: general approach to determining damages[^c-84879ec770877e5211912911c45d85a1]
 
 The damages recoverable by an investor in a claim under Article 35a are—
 
 - (a) where the investor enters into a contract with a credit rating agency to provide a credit rating, the damages recoverable by the investor in accordance with that contract; or
 - (b) where there is no such contract, the damages that would be recoverable by the investor if the investor had succeeded in a claim against the credit rating agency in the tort of negligence.
 
-## 15. Issuers and investors: duty to mitigate loss and contributory negligence[^key-1bba4e86639aaba7a4ad1e4eeff5f3ae]
+## 15. Issuers and investors: duty to mitigate loss and contributory negligence[^c-1bba4e86639aaba7a4ad1e4eeff5f3ae]
 
 (1) The common law principle that a claimant’s damages may be reduced if the claimant fails to mitigate their loss applies to any damages assessed under regulations 13 and 14.
 
 (2) The provisions of the Law Reform (Contributory Negligence) Act 1945[^f00006] apply to any damages assessed under regulations 13 and 14.
 
-## 16. Limitation Period[^key-cb202a6de9dc6bb5d0e2996ba9b84d04]
+## 16. Limitation Period[^c-cb202a6de9dc6bb5d0e2996ba9b84d04]
 
 No claim may be brought under Article 35a after the expiry of the period of one year beginning with the date on which the claimant discovered the infringement, or could with reasonable diligence have discovered it.
 
-## 17. Courts with jurisdiction to hear Article 35a claims[^key-57c32ef14c80ce40deb1f7f000373634]
+## 17. Courts with jurisdiction to hear Article 35a claims[^c-57c32ef14c80ce40deb1f7f000373634]
 
 A claim under Article 35a must be brought in the High Court or, in Scotland, the Court of Session.
 
-## 18. Review[^key-d309290ce73c43942f351bf5601e9604]
+## 18. Review[^c-d309290ce73c43942f351bf5601e9604]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -211,13 +211,13 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), Schedule 1, Part 1.
 
-[^key-57414e77e11dcd14f8e733c407c04e7d]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-57414e77e11dcd14f8e733c407c04e7d]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-d309290ce73c43942f351bf5601e9604]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1637) revoked (14.12.2023 for the revocation of reg. 18) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(v)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/v)
+[^c-d309290ce73c43942f351bf5601e9604]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1637) revoked (14.12.2023 for the revocation of reg. 18) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(v)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/v)
 
-[^key-5bfe156a4f526fd68748e4af51d9aef0]: Commencement: Reg. 1 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-5bfe156a4f526fd68748e4af51d9aef0]: Commencement: Reg. 1 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-9f473a12847e39855d3315dda0f35b33]: Commencement: Reg. 2 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-9f473a12847e39855d3315dda0f35b33]: Commencement: Reg. 2 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
 [^f00003]: Footnote: Article 35a was inserted into the EC Regulation by Article 1(22) of Regulation (EU) No 462/2013 (OJ L 146, 31.5.2013, p. 1).
 
@@ -225,34 +225,34 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00005]: Footnote: The definition of “issuer” was inserted into Article 3(1) by Article 1(3)(a)(iv) of Regulation [(EC) No 462/2013](https://www.legislation.gov.uk/european/regulation/2013/0462).
 
-[^key-ad219f5b79b2d489684c22432fbdebdd]: Commencement: Reg. 3 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-ad219f5b79b2d489684c22432fbdebdd]: Commencement: Reg. 3 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-e7b6d5027e3fca76d7deb3365827bb7d]: Commencement: Reg. 4 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-e7b6d5027e3fca76d7deb3365827bb7d]: Commencement: Reg. 4 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-98614b08715004aa61b3a92e142ac286]: Commencement: Reg. 5 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-98614b08715004aa61b3a92e142ac286]: Commencement: Reg. 5 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-d365833072b56eecb149d9d0b8bab198]: Commencement: Reg. 6 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-d365833072b56eecb149d9d0b8bab198]: Commencement: Reg. 6 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-58637383c3d3e17d93841dfbd81d4d59]: Commencement: Reg. 7 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-58637383c3d3e17d93841dfbd81d4d59]: Commencement: Reg. 7 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-5392dcd9f6fefd3ed128ec07533e8133]: Commencement: Reg. 8 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-5392dcd9f6fefd3ed128ec07533e8133]: Commencement: Reg. 8 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-c8d88ab6e61839c101c585700423f877]: Commencement: Reg. 9 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-c8d88ab6e61839c101c585700423f877]: Commencement: Reg. 9 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-71e5b86d7cdc992788b130995fedd2fb]: Commencement: Reg. 10 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-71e5b86d7cdc992788b130995fedd2fb]: Commencement: Reg. 10 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-b653209e69e369545eed9532363f07a5]: Commencement: Reg. 11 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-b653209e69e369545eed9532363f07a5]: Commencement: Reg. 11 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-48bec23a9deef93b8a39ada9598299a7]: Commencement: Reg. 12 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-48bec23a9deef93b8a39ada9598299a7]: Commencement: Reg. 12 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-fb641320d0b6a5c0c6356158c935be40]: Commencement: Reg. 13 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-fb641320d0b6a5c0c6356158c935be40]: Commencement: Reg. 13 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-84879ec770877e5211912911c45d85a1]: Commencement: Reg. 14 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-84879ec770877e5211912911c45d85a1]: Commencement: Reg. 14 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-1bba4e86639aaba7a4ad1e4eeff5f3ae]: Commencement: Reg. 15 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-1bba4e86639aaba7a4ad1e4eeff5f3ae]: Commencement: Reg. 15 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
 [^f00006]: Footnote: [1945 c.28](https://www.legislation.gov.uk/ukpga/1945/28)
 
-[^key-cb202a6de9dc6bb5d0e2996ba9b84d04]: Commencement: Reg. 16 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-cb202a6de9dc6bb5d0e2996ba9b84d04]: Commencement: Reg. 16 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
 
-[^key-57c32ef14c80ce40deb1f7f000373634]: Commencement: Reg. 17 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)
+[^c-57c32ef14c80ce40deb1f7f000373634]: Commencement: Reg. 17 in force at 25.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1637/regulation/1)

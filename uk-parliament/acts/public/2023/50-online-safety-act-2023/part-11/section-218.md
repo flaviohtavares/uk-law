@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Power to amend section 40[^key-43638ce1abec4d9e6c82c780af941088][^key-dd1523127c936336cc31dec5d2fcd01a]
+## 218. Power to amend section 40[^c-43638ce1abec4d9e6c82c780af941088][^c-dd1523127c936336cc31dec5d2fcd01a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ But the power to add an offence to that section is limited by subsections (2) an
   - (i) the infringement of intellectual property rights,
   - (ii) the safety or quality of goods (as opposed to what kind of goods they are), or
   - (iii) the performance of a service by a person not qualified to perform it; or
-- (b) it is an offence under Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^key-f425620fb12615beb51e6f6c4c3f5713].
+- (b) it is an offence under Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^c-f425620fb12615beb51e6f6c4c3f5713].
 
 (4) In this section—
 
@@ -46,8 +46,8 @@ But the power to add an offence to that section is limited by subsections (2) an
 
 ## Annotations
 
-[^key-43638ce1abec4d9e6c82c780af941088]: Commencement: S. 218 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-43638ce1abec4d9e6c82c780af941088]: Commencement: S. 218 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-dd1523127c936336cc31dec5d2fcd01a]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2023/50/section/218) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z33)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z33)
+[^c-dd1523127c936336cc31dec5d2fcd01a]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2023/50/section/218) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z33)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z33)
 
-[^key-f425620fb12615beb51e6f6c4c3f5713]: Textual amendment: Words in [s. 218(3)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/218/3/b) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 13(4)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/13/4) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/12)
+[^c-f425620fb12615beb51e6f6c4c3f5713]: Textual amendment: Words in [s. 218(3)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/218/3/b) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 13(4)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/13/4) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/12)

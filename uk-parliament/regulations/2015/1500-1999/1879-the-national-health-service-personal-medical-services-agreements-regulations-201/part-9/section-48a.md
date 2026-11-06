@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48A. Prescribing software and supply shortages etc. of medicines[^key-c07d9f04c7a5d67ea460e875ea030416]
+## 48A. Prescribing software and supply shortages etc. of medicines[^c-c07d9f04c7a5d67ea460e875ea030416]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c07d9f04c7a5d67ea460e875ea030416]: Textual amendment: [Reg. 48A](https://www.legislation.gov.uk/uksi/2015/1879/regulation/48A) inserted (1.4.2023) by [The National Health Service (Amendments Relating to Pre-Payment Certificates, Hormone Replacement Therapy Treatments and Medicines Shortages) Regulations 2023 (S.I. 2023/171)](https://www.legislation.gov.uk/uksi/2023/171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/171/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2023/171/regulation/15)
+[^c-c07d9f04c7a5d67ea460e875ea030416]: Textual amendment: [Reg. 48A](https://www.legislation.gov.uk/uksi/2015/1879/regulation/48A) inserted (1.4.2023) by [The National Health Service (Amendments Relating to Pre-Payment Certificates, Hormone Replacement Therapy Treatments and Medicines Shortages) Regulations 2023 (S.I. 2023/171)](https://www.legislation.gov.uk/uksi/2023/171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/171/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2023/171/regulation/15)

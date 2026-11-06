@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Relevant linked cases – limited capability for work-related activity[^key-967bc6ab96e4e1fbe418a15c188ef101]
+## 32. Relevant linked cases – limited capability for work-related activity[^c-967bc6ab96e4e1fbe418a15c188ef101]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ A claimant is to be treated as having limited capability for work-related activi
 
 ## Annotations
 
-[^key-967bc6ab96e4e1fbe418a15c188ef101]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2016/219/regulation/32) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-967bc6ab96e4e1fbe418a15c188ef101]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2016/219/regulation/32) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

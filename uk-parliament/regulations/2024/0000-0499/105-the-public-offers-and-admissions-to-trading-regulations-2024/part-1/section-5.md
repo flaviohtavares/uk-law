@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. “Relevant securities”[^key-4051f5be2295b79e16e759c1a0f98270]
+## 5. “Relevant securities”[^c-4051f5be2295b79e16e759c1a0f98270]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4051f5be2295b79e16e759c1a0f98270]: Commencement: Reg. 5 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
+[^c-4051f5be2295b79e16e759c1a0f98270]: Commencement: Reg. 5 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
 
 [^f00012]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544). Article 77 was amended by [S.I. 2010/86](https://www.legislation.gov.uk/uksi/2010/86) and revoked in part by [S.I. 2011/133](https://www.legislation.gov.uk/uksi/2011/133).

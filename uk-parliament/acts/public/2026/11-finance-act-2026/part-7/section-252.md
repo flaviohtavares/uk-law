@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. Power to publish information: change of circumstances[^key-8d3888b4d433111218a6f47acd5046e6]
+## 252. Power to publish information: change of circumstances[^c-8d3888b4d433111218a6f47acd5046e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ an authorised officer of HMRC must take steps to remove the information from the
 
 ## Annotations
 
-[^key-8d3888b4d433111218a6f47acd5046e6]: Commencement: [S. 252](https://www.legislation.gov.uk/ukpga/2026/11/section/252) in force at 1.4.2026, see [s. 253(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/253/2)
+[^c-8d3888b4d433111218a6f47acd5046e6]: Commencement: [S. 252](https://www.legislation.gov.uk/ukpga/2026/11/section/252) in force at 1.4.2026, see [s. 253(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/253/2)

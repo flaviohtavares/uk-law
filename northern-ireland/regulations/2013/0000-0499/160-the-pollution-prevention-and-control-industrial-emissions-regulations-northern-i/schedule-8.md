@@ -22,18 +22,18 @@ summary: ''
 
 Regulation 7
 
-### 1. Application[^key-cc52b5a4f7c76d48683e2736adc6e12c]
+### 1. Application[^c-cc52b5a4f7c76d48683e2736adc6e12c]
 
 This Schedule applies in relation to every installation to which Chapter V of the IED applies.
 
-### 2. Interpretation[^key-e054da8c80087a2ba02a26657a4d9363]
+### 2. Interpretation[^c-e054da8c80087a2ba02a26657a4d9363]
 
 In this Schedule when interpreting Chapter V of the IED—
 
 - (a) an expression that is defined in Article 57 of the IED has the meaning given in that Article; and
 - (b) the competent authority is the enforcing authority.
 
-### 3. Exercise of relevant functions[^key-38f89858acffbe8dd8ab940363c3559c]
+### 3. Exercise of relevant functions[^c-38f89858acffbe8dd8ab940363c3559c]
 
 The enforcing authority must exercise its functions under regulation 7 so as to ensure compliance with the following provisions of the IED—
 
@@ -48,8 +48,8 @@ The enforcing authority must exercise its functions under regulation 7 so as to 
 
 ## Annotations
 
-[^key-cc52b5a4f7c76d48683e2736adc6e12c]: Commencement: Sch. 8 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-cc52b5a4f7c76d48683e2736adc6e12c]: Commencement: Sch. 8 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-e054da8c80087a2ba02a26657a4d9363]: Commencement: Sch. 8 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-e054da8c80087a2ba02a26657a4d9363]: Commencement: Sch. 8 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-38f89858acffbe8dd8ab940363c3559c]: Commencement: Sch. 8 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-38f89858acffbe8dd8ab940363c3559c]: Commencement: Sch. 8 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

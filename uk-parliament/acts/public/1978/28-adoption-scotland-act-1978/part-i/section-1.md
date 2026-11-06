@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Establishment of Adoption Service.[^key-55bce8e377438f3483e51967ee86099e]
+## 1. Establishment of Adoption Service.[^c-55bce8e377438f3483e51967ee86099e]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55bce8e377438f3483e51967ee86099e]: Textual amendment: Act repealed (except Pt. IV) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3) (with savings by [The Adoption and Children (Scotland) Act 2007 (Consequential Provisions) (No. 1) Order 2009 (S.I. 2009/2233)](https://www.legislation.gov.uk/uksi/2009/2233), [art. 2](https://www.legislation.gov.uk/uksi/2009/2233/article/2)); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), [art. 2](https://www.legislation.gov.uk/ssi/2012/99/article/2))
+[^c-55bce8e377438f3483e51967ee86099e]: Textual amendment: Act repealed (except Pt. IV) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3) (with savings by [The Adoption and Children (Scotland) Act 2007 (Consequential Provisions) (No. 1) Order 2009 (S.I. 2009/2233)](https://www.legislation.gov.uk/uksi/2009/2233), [art. 2](https://www.legislation.gov.uk/uksi/2009/2233/article/2)); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), [art. 2](https://www.legislation.gov.uk/ssi/2012/99/article/2))

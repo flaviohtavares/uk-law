@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Indexation and revaluation[^key-3d8cda28ace3a5a843ca58e64af392de]
+## 19. Indexation and revaluation[^c-3d8cda28ace3a5a843ca58e64af392de]
 
 *Extent: E+W+S+N.I.*
 
@@ -113,4 +113,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d8cda28ace3a5a843ca58e64af392de]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2011/19/section/19) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/b)
+[^c-3d8cda28ace3a5a843ca58e64af392de]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2011/19/section/19) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.4. Application to approve the terms of an agreement[^key-9f765cae280d6c9134606cb31bbf4c2c]
+## 11.4. Application to approve the terms of an agreement[^c-9f765cae280d6c9134606cb31bbf4c2c]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9f765cae280d6c9134606cb31bbf4c2c]: Commencement: [Rule 11.4](https://www.legislation.gov.uk/uksi/2025/909/rule/11.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9f765cae280d6c9134606cb31bbf4c2c]: Commencement: [Rule 11.4](https://www.legislation.gov.uk/uksi/2025/909/rule/11.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00311]: Footnote: [1933 c. 36](https://www.legislation.gov.uk/ukpga/1933/36); section 2 was amended by Part IV of Schedule 11 to the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), Schedule 5 to the Senior Courts Act [1981 (c. 54)](https://www.legislation.gov.uk/ukpga/1981/54), Schedule 2 to the Prosecution of Offences Act [1985 (c. 23)](https://www.legislation.gov.uk/ukpga/1985/23), paragraph 1 of Schedule 2 to the Criminal Justice Act [1987 (c. 38)](https://www.legislation.gov.uk/ukpga/1987/38), paragraph 10 of Schedule 15 to the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), paragraph 8 of Schedule 6 to the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), Schedule 1 to the Statute Law (Repeals) Act [1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50), paragraph 17 of Schedule 1 to the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), paragraph 5 of Schedule 8 to the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), paragraph 34 of Schedule 3 and Part 4 of Schedule 37 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), paragraph 1 of the Schedule to [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035), section 12 of, and paragraph 7 of Schedule 1 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), sections 116 and 178 of, and Part 3 of Schedule 23 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), paragraph 32 of Schedule 17 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and section 82 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 

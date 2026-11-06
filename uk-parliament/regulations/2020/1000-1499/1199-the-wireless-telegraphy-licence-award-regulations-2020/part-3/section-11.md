@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Qualification to participate in the award process[^key-f06e9c5282186b7fa43eb833399da19e]
+## 11. Qualification to participate in the award process[^c-f06e9c5282186b7fa43eb833399da19e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ shall be qualified to participate in the award process.
 
 ## Annotations
 
-[^key-f06e9c5282186b7fa43eb833399da19e]: Commencement: Reg. 11 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-f06e9c5282186b7fa43eb833399da19e]: Commencement: Reg. 11 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

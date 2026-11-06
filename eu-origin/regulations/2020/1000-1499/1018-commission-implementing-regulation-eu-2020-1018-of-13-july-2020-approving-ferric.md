@@ -35,34 +35,34 @@ approving ferric pyrophosphate as low-risk active substance in accordance with R
 
 (Text with EEA relevance) (revoked)
 
-[^key-fcc5320dbdb28ae2b59eb5583606322e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fcc5320dbdb28ae2b59eb5583606322e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Approval of the active substance[^key-fcc5320dbdb28ae2b59eb5583606322e]
+## Article 1. Approval of the active substance[^c-fcc5320dbdb28ae2b59eb5583606322e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-fcc5320dbdb28ae2b59eb5583606322e]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-fcc5320dbdb28ae2b59eb5583606322e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-fcc5320dbdb28ae2b59eb5583606322e]
+## Article 3. Entry into force[^c-fcc5320dbdb28ae2b59eb5583606322e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fcc5320dbdb28ae2b59eb5583606322e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fcc5320dbdb28ae2b59eb5583606322e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-fcc5320dbdb28ae2b59eb5583606322e]
+## ANNEX I[^c-fcc5320dbdb28ae2b59eb5583606322e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-fcc5320dbdb28ae2b59eb5583606322e]
+## ANNEX II[^c-fcc5320dbdb28ae2b59eb5583606322e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fcc5320dbdb28ae2b59eb5583606322e]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-fcc5320dbdb28ae2b59eb5583606322e]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

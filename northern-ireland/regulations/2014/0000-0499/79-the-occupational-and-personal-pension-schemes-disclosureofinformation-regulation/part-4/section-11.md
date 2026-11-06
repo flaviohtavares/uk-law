@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Constitution of the scheme[^key-a6227cd9b61524a73784739438961187]
+## 11. Constitution of the scheme[^c-a6227cd9b61524a73784739438961187]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6227cd9b61524a73784739438961187]: Commencement: Reg. 11 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-a6227cd9b61524a73784739438961187]: Commencement: Reg. 11 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

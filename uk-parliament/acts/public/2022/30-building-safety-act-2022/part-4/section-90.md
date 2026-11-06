@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Provision of information etc on change in accountable person[^key-26c2e662fd78cc61e484242eaa8f1fce][^key-302205ee544f54ace3c53f0c5ca60dd1]
+## 90. Provision of information etc on change in accountable person[^c-26c2e662fd78cc61e484242eaa8f1fce][^c-302205ee544f54ace3c53f0c5ca60dd1]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ and (in either case) is liable on summary conviction to a further fine not excee
 
 ## Annotations
 
-[^key-26c2e662fd78cc61e484242eaa8f1fce]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-26c2e662fd78cc61e484242eaa8f1fce]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-302205ee544f54ace3c53f0c5ca60dd1]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2022/30/section/90) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/k)
+[^c-302205ee544f54ace3c53f0c5ca60dd1]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2022/30/section/90) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/k)

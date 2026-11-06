@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Account remains open after disqualifying break of more than 5 years[^key-3421764b75128a3cb524e81d18285566]
+## 63. Account remains open after disqualifying break of more than 5 years[^c-3421764b75128a3cb524e81d18285566]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3421764b75128a3cb524e81d18285566]: Commencement: [Reg. 63](https://www.legislation.gov.uk/ssi/2014/292/regulation/63) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-3421764b75128a3cb524e81d18285566]: Commencement: [Reg. 63](https://www.legislation.gov.uk/ssi/2014/292/regulation/63) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

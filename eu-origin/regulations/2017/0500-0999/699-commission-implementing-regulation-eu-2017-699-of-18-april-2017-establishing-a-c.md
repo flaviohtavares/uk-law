@@ -35,72 +35,72 @@ establishing a common methodology for the calculation of the weight of electrica
 
 (Text with EEA relevance) (revoked)
 
-[^key-ec2d3049793e6d7fa69eaa4484f6d826]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec2d3049793e6d7fa69eaa4484f6d826]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-ec2d3049793e6d7fa69eaa4484f6d826]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-ec2d3049793e6d7fa69eaa4484f6d826]
+## Article 1. Subject matter[^c-ec2d3049793e6d7fa69eaa4484f6d826]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Calculation of the weight of EEE placed on the market of a Member State[^key-ec2d3049793e6d7fa69eaa4484f6d826]
+## Article 2. Definitions[^c-ec2d3049793e6d7fa69eaa4484f6d826]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Calculation of the total quantity of WEEE generated in a Member State[^key-ec2d3049793e6d7fa69eaa4484f6d826]
+## Article 3. Calculation of the weight of EEE placed on the market of a Member State[^c-ec2d3049793e6d7fa69eaa4484f6d826]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-ec2d3049793e6d7fa69eaa4484f6d826]
+## Article 4. Calculation of the total quantity of WEEE generated in a Member State[^c-ec2d3049793e6d7fa69eaa4484f6d826]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec2d3049793e6d7fa69eaa4484f6d826]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force[^c-ec2d3049793e6d7fa69eaa4484f6d826]
 
-## ANNEX I — Methodology for the calculation of substantiated estimates of the weight of EEE placed on the market of a Member State[^key-ec2d3049793e6d7fa69eaa4484f6d826]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec2d3049793e6d7fa69eaa4484f6d826]1.
+[^c-ec2d3049793e6d7fa69eaa4484f6d826]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — Methodology for the calculation of substantiated estimates of the weight of EEE placed on the market of a Member State[^c-ec2d3049793e6d7fa69eaa4484f6d826]
+
+[^c-ec2d3049793e6d7fa69eaa4484f6d826]1.
 
 Substantiated estimates of the weight of EEE placed on the market of a Member State in a reference year shall be calculated by using the apparent consumption method, which is based on the equation:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec2d3049793e6d7fa69eaa4484f6d826]2.
+[^c-ec2d3049793e6d7fa69eaa4484f6d826]2.
 
 Member States shall use data on the domestic production of EEE by weight reported under the community production system classification (PRODCOM codes).
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec2d3049793e6d7fa69eaa4484f6d826]3.
+[^c-ec2d3049793e6d7fa69eaa4484f6d826]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Methodology for the calculation of the total quantity of WEEE generated in a Member State[^key-ec2d3049793e6d7fa69eaa4484f6d826]
+## ANNEX II — Methodology for the calculation of the total quantity of WEEE generated in a Member State[^c-ec2d3049793e6d7fa69eaa4484f6d826]
 
-[^key-ec2d3049793e6d7fa69eaa4484f6d826]1.
+[^c-ec2d3049793e6d7fa69eaa4484f6d826]1.
 
 The total quantity of WEEE generated in a Member State in a given year shall be calculated on the basis of the amount of EEE placed on the market of that Member State in the preceding years, and the corresponding product lifespan estimated on the basis of a discard rate per product as set out in the following equation:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec2d3049793e6d7fa69eaa4484f6d826]2.
+[^c-ec2d3049793e6d7fa69eaa4484f6d826]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec2d3049793e6d7fa69eaa4484f6d826]3.
+[^c-ec2d3049793e6d7fa69eaa4484f6d826]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec2d3049793e6d7fa69eaa4484f6d826]4.
+[^c-ec2d3049793e6d7fa69eaa4484f6d826]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec2d3049793e6d7fa69eaa4484f6d826]5.
+[^c-ec2d3049793e6d7fa69eaa4484f6d826]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ec2d3049793e6d7fa69eaa4484f6d826]: Textual amendment: Regulation revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/1)
+[^c-ec2d3049793e6d7fa69eaa4484f6d826]: Textual amendment: Regulation revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/1)

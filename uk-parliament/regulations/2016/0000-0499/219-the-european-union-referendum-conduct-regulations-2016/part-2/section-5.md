@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Interpretation[^key-5cfa5a40c5d15e3e2ee0eacf92bca810]
+## 5. Interpretation[^c-5cfa5a40c5d15e3e2ee0eacf92bca810]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ In this Part[^f00002]—
 
 ## Annotations
 
-[^key-5cfa5a40c5d15e3e2ee0eacf92bca810]: Commencement: Reg. 5 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-5cfa5a40c5d15e3e2ee0eacf92bca810]: Commencement: Reg. 5 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00002]: Footnote: Other terms used in this Part are defined in section 11 of the 2015 Act.
 

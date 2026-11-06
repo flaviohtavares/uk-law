@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 48. Recognition of external decisions etc.[^key-5bd4bc102f0c5d8295e6ecd019251ecc]
+## 48. Recognition of external decisions etc.[^c-5bd4bc102f0c5d8295e6ecd019251ecc]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bd4bc102f0c5d8295e6ecd019251ecc]: Commencement: S. 48 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-5bd4bc102f0c5d8295e6ecd019251ecc]: Commencement: S. 48 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

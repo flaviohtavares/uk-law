@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Keeping of company records by the Authority[^key-ff75db3981e0e3d4e166e2b54fdb093c]
+## 74. Keeping of company records by the Authority[^c-ff75db3981e0e3d4e166e2b54fdb093c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff75db3981e0e3d4e166e2b54fdb093c]: Commencement: [Reg. 74](https://www.legislation.gov.uk/nisr/2004/335/regulation/74) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-ff75db3981e0e3d4e166e2b54fdb093c]: Commencement: [Reg. 74](https://www.legislation.gov.uk/nisr/2004/335/regulation/74) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

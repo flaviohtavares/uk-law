@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Transfer credits[^key-0e5729be7bb175debf25904988e239ec]
+## 14. Transfer credits[^c-0e5729be7bb175debf25904988e239ec]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e5729be7bb175debf25904988e239ec]: Commencement: Reg. 14 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-0e5729be7bb175debf25904988e239ec]: Commencement: Reg. 14 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

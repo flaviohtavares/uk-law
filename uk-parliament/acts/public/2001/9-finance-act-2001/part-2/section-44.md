@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Destination of receipts[^key-bd8f9d103d28b3e6ee9248ac41c06b54]
+## 44. Destination of receipts[^c-bd8f9d103d28b3e6ee9248ac41c06b54]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd8f9d103d28b3e6ee9248ac41c06b54]: Textual amendment: S. 44 omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 14 paras. 17(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/17/a), [19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/19)
+[^c-bd8f9d103d28b3e6ee9248ac41c06b54]: Textual amendment: S. 44 omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 14 paras. 17(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/17/a), [19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/19)

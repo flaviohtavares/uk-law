@@ -20,34 +20,34 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0] There shall be charged by and paid to the *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0] local enforcing authority[^c13732871] *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0] such fees and charges as may be prescribed from time to time by a scheme under subsection (2) below (whether by being specified in or made calculable under the scheme). *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+(1)[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0] There shall be charged by and paid to the *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0] local enforcing authority[^c13732871] *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0] such fees and charges as may be prescribed from time to time by a scheme under subsection (2) below (whether by being specified in or made calculable under the scheme). *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
 
-(2) The Secretary of State may, with the approval of the Treasury, make, and from time to time revise, a scheme prescribing— *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+(2) The Secretary of State may, with the approval of the Treasury, make, and from time to time revise, a scheme prescribing— *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
 
-- (a) fees payable in respect of applications for authorisations; *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
-- (b) fees payable by persons holding authorisations in respect of, or of applications for, the variation of authorisations; and *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
-- (c) charges payable by such persons in respect of the subsistence of their authorisations. *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+- (a) fees payable in respect of applications for authorisations; *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+- (b) fees payable by persons holding authorisations in respect of, or of applications for, the variation of authorisations; and *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+- (c) charges payable by such persons in respect of the subsistence of their authorisations. *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
 
-(3) The Secretary of State shall, on making or revising a scheme under subsection (2) above, lay a copy of the scheme or of the alterations made in the scheme or, if he considers it more appropriate, the scheme as revised, before each House of Parliament. *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+(3) The Secretary of State shall, on making or revising a scheme under subsection (2) above, lay a copy of the scheme or of the alterations made in the scheme or, if he considers it more appropriate, the scheme as revised, before each House of Parliament. *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
 
 (4)[^c13732881] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) A scheme under subsection (2) above may, in particular— *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+(5) A scheme under subsection (2) above may, in particular— *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
 
-- (a) make different provision for different cases, including different provision in relation to different persons, circumstances or localities; *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
-- (b) allow for reduced fees or charges to be payable in respect of authorisations for a number of prescribed processes carried on by the same person; *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
-- (c) provide for the times at which and the manner in which the payments required by the scheme are to be made; and *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
-- (d) make such incidental, supplementary and transitional provision as appears to the Secretary of State to be appropriate. *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+- (a) make different provision for different cases, including different provision in relation to different persons, circumstances or localities; *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+- (b) allow for reduced fees or charges to be payable in respect of authorisations for a number of prescribed processes carried on by the same person; *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+- (c) provide for the times at which and the manner in which the payments required by the scheme are to be made; and *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+- (d) make such incidental, supplementary and transitional provision as appears to the Secretary of State to be appropriate. *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
 
-(6) The Secretary of State, in framing a scheme under subsection (2) above, shall, so far as practicable, secure that the fees and charges payable under the scheme are sufficient, taking one financial year with another, to cover the relevant expenditure attributable to authorisations. *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+(6) The Secretary of State, in framing a scheme under subsection (2) above, shall, so far as practicable, secure that the fees and charges payable under the scheme are sufficient, taking one financial year with another, to cover the relevant expenditure attributable to authorisations. *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
 
-(7) The “ *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]**relevant expenditure attributable to authorisations *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]**” is the expenditure incurred by the *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0] local enforcing authorities[^c13732891] *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0] in exercising their functions under this Part in relation to authorisations *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0] [^c13732901]. . . together with the expenditure incurred by the Environment Agency in exercising, in relation to authorisations granted by local enforcing authorities or the prescribed processes to which such authorisations relate, such of its functions as are specified in the scheme.[^c13732911] *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+(7) The “ *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]**relevant expenditure attributable to authorisations *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]**” is the expenditure incurred by the *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0] local enforcing authorities[^c13732891] *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0] in exercising their functions under this Part in relation to authorisations *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0] [^c13732901]. . . together with the expenditure incurred by the Environment Agency in exercising, in relation to authorisations granted by local enforcing authorities or the prescribed processes to which such authorisations relate, such of its functions as are specified in the scheme.[^c13732911] *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
 
-(8) If it appears to the *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0] local enforcing authority[^c13732921] *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0] that the holder of an authorisation has failed to pay a charge due in consideration of the subsistence of the authorisation, it may, by notice in writing served on the holder, revoke the authorisation. *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+(8) If it appears to the *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0] local enforcing authority[^c13732921] *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0] that the holder of an authorisation has failed to pay a charge due in consideration of the subsistence of the authorisation, it may, by notice in writing served on the holder, revoke the authorisation. *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
 
 (9)[^c13732931] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^c13732941] The foregoing provisions of this section shall not apply to Scotland. *(affected by repeal, see note)*[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]
+(10)[^c13732941] The foregoing provisions of this section shall not apply to Scotland. *(affected by repeal, see note)*[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]
 
 ## Annotations
 
@@ -55,7 +55,7 @@ summary: ''
 
 [^c19497011]: Modification: S. 8 applied (E.W.) (16.2.2007) by [The Sulphur Content of Liquid Fuels (England and Wales) Regulations 2007 (S.I. 2007/79)](https://www.legislation.gov.uk/uksi/2007/79), [reg. 4(5)](https://www.legislation.gov.uk/uksi/2007/79/regulation/4/5), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2007/79/schedule/1/paragraph/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2007/79/regulation/8))
 
-[^key-5d0e4a05a380ee60ef9ba9e27d5c83c0]: Textual amendment: Ss. 1-28 repealed (1.4.2015 for S. for the repeal of ss. 1-19, 22-28) by [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3) (with [s. 7(7)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/7)); [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/b)
+[^c-5d0e4a05a380ee60ef9ba9e27d5c83c0]: Textual amendment: Ss. 1-28 repealed (1.4.2015 for S. for the repeal of ss. 1-19, 22-28) by [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3) (with [s. 7(7)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/7)); [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/b)
 
 [^c13732871]: Textual amendment: Words in s. 8(1) substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 50(2)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/50/2)(with ss. 7(6), 115); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 

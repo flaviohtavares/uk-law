@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Acquisition of part of certain properties[^key-00c342b5d748476c20c0f9c4c9ffd461]
+## 27. Acquisition of part of certain properties[^c-00c342b5d748476c20c0f9c4c9ffd461]
 
 *Extent: E+W+S*
 
@@ -65,4 +65,4 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 ## Annotations
 
-[^key-00c342b5d748476c20c0f9c4c9ffd461]: Commencement: Art. 27 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-00c342b5d748476c20c0f9c4c9ffd461]: Commencement: Art. 27 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

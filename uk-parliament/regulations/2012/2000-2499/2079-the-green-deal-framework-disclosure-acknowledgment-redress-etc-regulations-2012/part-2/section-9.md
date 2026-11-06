@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Registers of green deal certification bodies and green deal participants[^key-e74ab0d36c67d8a83574fd395b08c5d5]
+## 9. Registers of green deal certification bodies and green deal participants[^c-e74ab0d36c67d8a83574fd395b08c5d5]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e74ab0d36c67d8a83574fd395b08c5d5]: Commencement: Reg. 9 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-e74ab0d36c67d8a83574fd395b08c5d5]: Commencement: Reg. 9 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

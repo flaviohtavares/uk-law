@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Convertible securities etc: issuing company not to be connected company[^key-067f2b1588c4326d64870815caea4130]
+## 73. Convertible securities etc: issuing company not to be connected company[^c-067f2b1588c4326d64870815caea4130]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-067f2b1588c4326d64870815caea4130]: Textual amendment: S. 73 repealed (with effect in accordance with s. 52(3), Sch. 10 para. 9(2)(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
+[^c-067f2b1588c4326d64870815caea4130]: Textual amendment: S. 73 repealed (with effect in accordance with s. 52(3), Sch. 10 para. 9(2)(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)

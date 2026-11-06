@@ -32,7 +32,7 @@ summary: ''
 
 Consumer Protection
 
-The Magnetic Toys (Safety) Regulations 2008 (revoked)[^key-cfa8b3510b0f9558ca2b6f2b74f9cfee]
+The Magnetic Toys (Safety) Regulations 2008 (revoked)[^c-cfa8b3510b0f9558ca2b6f2b74f9cfee]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 21st July 2008
 
-[^key-cfa8b3510b0f9558ca2b6f2b74f9cfee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfa8b3510b0f9558ca2b6f2b74f9cfee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cfa8b3510b0f9558ca2b6f2b74f9cfee]
+## 1. Citation and commencement[^c-cfa8b3510b0f9558ca2b6f2b74f9cfee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-cfa8b3510b0f9558ca2b6f2b74f9cfee]
+## 2. Interpretation[^c-cfa8b3510b0f9558ca2b6f2b74f9cfee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirement for magnetic toys to be accompanied by a warning[^key-cfa8b3510b0f9558ca2b6f2b74f9cfee]
+## 3. Requirement for magnetic toys to be accompanied by a warning[^c-cfa8b3510b0f9558ca2b6f2b74f9cfee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Commencement of proceedings[^key-cfa8b3510b0f9558ca2b6f2b74f9cfee]
+## 4. Commencement of proceedings[^c-cfa8b3510b0f9558ca2b6f2b74f9cfee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cfa8b3510b0f9558ca2b6f2b74f9cfee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfa8b3510b0f9558ca2b6f2b74f9cfee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cfa8b3510b0f9558ca2b6f2b74f9cfee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfa8b3510b0f9558ca2b6f2b74f9cfee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cfa8b3510b0f9558ca2b6f2b74f9cfee]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1654) revoked (23.6.2009) by [The Magnetic Toys (Safety) (Revocation) Regulations 2009 (S.I. 2009/1347)](https://www.legislation.gov.uk/uksi/2009/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1347/regulation/1), [2](https://www.legislation.gov.uk/uksi/2009/1347/regulation/2)
+[^c-cfa8b3510b0f9558ca2b6f2b74f9cfee]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1654) revoked (23.6.2009) by [The Magnetic Toys (Safety) (Revocation) Regulations 2009 (S.I. 2009/1347)](https://www.legislation.gov.uk/uksi/2009/1347), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1347/regulation/1), [2](https://www.legislation.gov.uk/uksi/2009/1347/regulation/2)

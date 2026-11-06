@@ -48,13 +48,13 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 In accordance with section 4A(8) of that Act the Treasury have consulted, where they think it appropriate, the Scottish Ministers, the Department for Finance and Personnel for Northern Ireland and the Welsh Ministers.
 
-## 1. Citation and commencement[^key-78879b90a9a1f6926d77c08c0fc5ce8d]
+## 1. Citation and commencement[^c-78879b90a9a1f6926d77c08c0fc5ce8d]
 
 (1) This Order may be cited as the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2017.
 
 (2) This Order comes into force on 1st April 2017.
 
-## 2. Designations[^key-3e21643a3af4843ff7c0eebaf911f196]
+## 2. Designations[^c-3e21643a3af4843ff7c0eebaf911f196]
 
 A body which is listed in a Part of the Schedule to this Order is a designated body for the purposes of section 4A of the Government Resources and Accounts Act 2000—
 
@@ -69,7 +69,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 8th March 2017
 
-## SCHEDULE — Designated Bodies[^key-6e99bb894a89d40bb7da522d631ace1f]
+## SCHEDULE — Designated Bodies[^c-6e99bb894a89d40bb7da522d631ace1f]
 
 Article 2
 
@@ -617,11 +617,11 @@ An impact assessment has not been prepared for this instrument because no impact
 
 [^f00001]: Footnote: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20). Section 4A was inserted by section 43(2) of the Constitutional Reform and Governance Act [2010 (c.25)](https://www.legislation.gov.uk/ukpga/2010/25).
 
-[^key-78879b90a9a1f6926d77c08c0fc5ce8d]: Commencement: Art. 1 in force at 1.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/310/article/1/2)
+[^c-78879b90a9a1f6926d77c08c0fc5ce8d]: Commencement: Art. 1 in force at 1.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/310/article/1/2)
 
-[^key-3e21643a3af4843ff7c0eebaf911f196]: Commencement: Art. 2 in force at 1.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/310/article/1/2)
+[^c-3e21643a3af4843ff7c0eebaf911f196]: Commencement: Art. 2 in force at 1.4.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/310/article/1/2)
 
-[^key-6e99bb894a89d40bb7da522d631ace1f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2017/310/schedule) substituted (31.1.2018) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2017 (S.I. 2017/1256)](https://www.legislation.gov.uk/uksi/2017/1256), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1256/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2017/1256/schedule)
+[^c-6e99bb894a89d40bb7da522d631ace1f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2017/310/schedule) substituted (31.1.2018) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2017 (S.I. 2017/1256)](https://www.legislation.gov.uk/uksi/2017/1256), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1256/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2017/1256/schedule)
 
 [^f00003]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50). The independent monitor is appointed under section 119B of the Police Act 1997. Section 119B was inserted by section 28 of the Safeguarding Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47).
 

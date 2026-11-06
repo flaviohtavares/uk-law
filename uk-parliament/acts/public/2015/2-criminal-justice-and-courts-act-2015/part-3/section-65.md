@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Appeals from the Employment Appeal Tribunal to the Supreme Court[^key-a958fa95bb2be8226507031fa6df8bf9]
+## 65. Appeals from the Employment Appeal Tribunal to the Supreme Court[^c-a958fa95bb2be8226507031fa6df8bf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,4 +87,4 @@ In the Employment Tribunals Act 1996, after section 37 insert—
 
 ## Annotations
 
-[^key-a958fa95bb2be8226507031fa6df8bf9]: Commencement: S. 65 in force at 8.8.2016 by [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/717/article/3/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/717/article/5))
+[^c-a958fa95bb2be8226507031fa6df8bf9]: Commencement: S. 65 in force at 8.8.2016 by [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/717/article/3/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/717/article/5))

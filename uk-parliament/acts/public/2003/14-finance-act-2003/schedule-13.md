@@ -26,139 +26,139 @@ Section 93
 
 #### Notice requiring taxpayer to deliver documents or provide information
 
-**1.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Requirement of consent of the tribunal
 
-**2.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Contents of notice under this Part
 
-**3.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Summary of reasons to be given
 
-**4.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Power to take copies of documents etc
 
-**5.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Power of authorised officer to call for documents from third party
 
 #### Notice requiring documents to be delivered or made available
 
-**6.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Requirement of consent of the tribunal
 
-**7.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Contents of notice under paragraph 6
 
-**8.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Copy of notice to be given to taxpayer
 
-**9.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Summary of reasons to be given
 
-**10.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Power to give notice relating to unnamed taxpayer or taxpayers
 
-**11.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Contents of notice under paragraph 11
 
-**12.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Power to take copies of documents etc
 
-**13.**[^key-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-8c31b1ae54085e490aa610952c7bebc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 3 — Power to call for papers of tax accountant[^key-6729833859f782679d160e98ae8d10bc]
-
-**No longer in force.**
-
-#### Power to call for papers of tax accountant[^key-6729833859f782679d160e98ae8d10bc]
-
-**14.**[^key-6729833859f782679d160e98ae8d10bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### When notice may be given[^key-6729833859f782679d160e98ae8d10bc]
-
-**15.**[^key-6729833859f782679d160e98ae8d10bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Requirement of consent of appropriate judicial authority[^key-6729833859f782679d160e98ae8d10bc]
-
-**16.**[^key-6729833859f782679d160e98ae8d10bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Contents of notice[^key-6729833859f782679d160e98ae8d10bc]
-
-**17.**[^key-6729833859f782679d160e98ae8d10bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Power to take copies of documents etc[^key-6729833859f782679d160e98ae8d10bc]
-
-**18.**[^key-6729833859f782679d160e98ae8d10bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Part 4 — Restrictions on powers under Parts 1 to 3[^key-f8c37148fc94cdb0a53aec9bbc87f299]
+### Part 3 — Power to call for papers of tax accountant[^c-6729833859f782679d160e98ae8d10bc]
 
 **No longer in force.**
 
-#### Introduction[^key-f8c37148fc94cdb0a53aec9bbc87f299]
+#### Power to call for papers of tax accountant[^c-6729833859f782679d160e98ae8d10bc]
 
-**19.**[^key-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-6729833859f782679d160e98ae8d10bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Personal records or journalistic material[^key-f8c37148fc94cdb0a53aec9bbc87f299]
+#### When notice may be given[^c-6729833859f782679d160e98ae8d10bc]
 
-**20.**[^key-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-6729833859f782679d160e98ae8d10bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Documents or information relating to pending appeal[^key-f8c37148fc94cdb0a53aec9bbc87f299]
+#### Requirement of consent of appropriate judicial authority[^c-6729833859f782679d160e98ae8d10bc]
 
-**21.**[^key-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-6729833859f782679d160e98ae8d10bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Barristers, advocates and solicitors[^key-f8c37148fc94cdb0a53aec9bbc87f299]
+#### Contents of notice[^c-6729833859f782679d160e98ae8d10bc]
 
-**22.**[^key-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-6729833859f782679d160e98ae8d10bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Provision of copies instead of original documents[^key-f8c37148fc94cdb0a53aec9bbc87f299]
+#### Power to take copies of documents etc[^c-6729833859f782679d160e98ae8d10bc]
 
-**23.**[^key-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-6729833859f782679d160e98ae8d10bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Documents originating more than six years before date of notice[^key-f8c37148fc94cdb0a53aec9bbc87f299]
+### Part 4 — Restrictions on powers under Parts 1 to 3[^c-f8c37148fc94cdb0a53aec9bbc87f299]
 
-**24.**[^key-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**No longer in force.**
 
-#### Documents subject to legal privilege[^key-f8c37148fc94cdb0a53aec9bbc87f299]
+#### Introduction[^c-f8c37148fc94cdb0a53aec9bbc87f299]
 
-**25.**[^key-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Documents belonging to auditor or tax adviser[^key-f8c37148fc94cdb0a53aec9bbc87f299]
+#### Personal records or journalistic material[^c-f8c37148fc94cdb0a53aec9bbc87f299]
 
-**26.**[^key-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Documents belonging to auditor or tax adviser: information to be disclosed[^key-f8c37148fc94cdb0a53aec9bbc87f299]
+#### Documents or information relating to pending appeal[^c-f8c37148fc94cdb0a53aec9bbc87f299]
 
-**27.**[^key-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Barristers, advocates and solicitors[^c-f8c37148fc94cdb0a53aec9bbc87f299]
+
+**22.**[^c-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Provision of copies instead of original documents[^c-f8c37148fc94cdb0a53aec9bbc87f299]
+
+**23.**[^c-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Documents originating more than six years before date of notice[^c-f8c37148fc94cdb0a53aec9bbc87f299]
+
+**24.**[^c-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Documents subject to legal privilege[^c-f8c37148fc94cdb0a53aec9bbc87f299]
+
+**25.**[^c-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Documents belonging to auditor or tax adviser[^c-f8c37148fc94cdb0a53aec9bbc87f299]
+
+**26.**[^c-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Documents belonging to auditor or tax adviser: information to be disclosed[^c-f8c37148fc94cdb0a53aec9bbc87f299]
+
+**27.**[^c-f8c37148fc94cdb0a53aec9bbc87f299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 5 — Powers of board to call for documents or information
 
 #### Notice requiring delivery of documents or provision of information
 
-**28.**[^key-168da29de2298c375a288913aabf1c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-168da29de2298c375a288913aabf1c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Contents of notice
 
-**29.**[^key-168da29de2298c375a288913aabf1c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-168da29de2298c375a288913aabf1c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Power to take copies of documents etc
 
-**30.**[^key-168da29de2298c375a288913aabf1c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-168da29de2298c375a288913aabf1c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Exclusion of personal records or journalistic material
 
-**31.**[^key-168da29de2298c375a288913aabf1c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-168da29de2298c375a288913aabf1c4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 6 — Order of judicial authority for the delivery of documents
 
@@ -326,55 +326,55 @@ is made to the officer in overall charge of the investigation by a person who ha
 
 **42.** Regulations under this Part of this Schedule may contain such incidental, supplementary and transitional provision as appears to the Inland Revenue to be appropriate.
 
-### Part 7 — Entry with warrant to obtain evidence of offence[^key-9a4949511fa56f18cbd0e7cf255a67b1]
+### Part 7 — Entry with warrant to obtain evidence of offence[^c-9a4949511fa56f18cbd0e7cf255a67b1]
 
 **No longer in force.**
 
-#### Power to issue warrant[^key-9a4949511fa56f18cbd0e7cf255a67b1]
+#### Power to issue warrant[^c-9a4949511fa56f18cbd0e7cf255a67b1]
 
-**43.**[^key-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Meaning of offence involving serious fraud[^key-9a4949511fa56f18cbd0e7cf255a67b1]
+#### Meaning of offence involving serious fraud[^c-9a4949511fa56f18cbd0e7cf255a67b1]
 
-**44.**[^key-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Approval of application by Board[^key-9a4949511fa56f18cbd0e7cf255a67b1]
+#### Approval of application by Board[^c-9a4949511fa56f18cbd0e7cf255a67b1]
 
-**45.**[^key-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Extent of powers conferred by warrant[^key-9a4949511fa56f18cbd0e7cf255a67b1]
+#### Extent of powers conferred by warrant[^c-9a4949511fa56f18cbd0e7cf255a67b1]
 
-**46.**[^key-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Exercise of powers conferred by warrant[^key-9a4949511fa56f18cbd0e7cf255a67b1]
+#### Exercise of powers conferred by warrant[^c-9a4949511fa56f18cbd0e7cf255a67b1]
 
-**47.**[^key-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Items subject to legal privilege[^key-9a4949511fa56f18cbd0e7cf255a67b1]
+#### Items subject to legal privilege[^c-9a4949511fa56f18cbd0e7cf255a67b1]
 
-**48.**[^key-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Procedure where documents etc are removed[^key-9a4949511fa56f18cbd0e7cf255a67b1]
+#### Procedure where documents etc are removed[^c-9a4949511fa56f18cbd0e7cf255a67b1]
 
-**49.**[^key-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Document not to be retained if photograph or copy sufficient[^key-9a4949511fa56f18cbd0e7cf255a67b1]
+#### Document not to be retained if photograph or copy sufficient[^c-9a4949511fa56f18cbd0e7cf255a67b1]
 
-**50.**[^key-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Access to or supply of photograph or copy of items removed[^key-9a4949511fa56f18cbd0e7cf255a67b1]
+#### Access to or supply of photograph or copy of items removed[^c-9a4949511fa56f18cbd0e7cf255a67b1]
 
-**51.**[^key-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Endorsement and custody etc of warrant[^key-9a4949511fa56f18cbd0e7cf255a67b1]
+#### Endorsement and custody etc of warrant[^c-9a4949511fa56f18cbd0e7cf255a67b1]
 
-**52.**[^key-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-9a4949511fa56f18cbd0e7cf255a67b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 8 — Falsification etc of documents
 
 #### Falsification etc of documents
 
-**53.**[^key-f4f19f68a0ac90151138b80664abbffd] (1) A person commits an offence if the person intentionally—
+**53.**[^c-f4f19f68a0ac90151138b80664abbffd] (1) A person commits an offence if the person intentionally—
 
 - (a) falsifies, conceals, destroys or otherwise disposes of a relevant document, or
 - (b) causes or permits the falsification, concealment, destruction or disposal of a relevant document.
@@ -395,14 +395,14 @@ is made to the officer in overall charge of the investigation by a person who ha
 
 ## Annotations
 
-[^key-8c31b1ae54085e490aa610952c7bebc0]: Textual amendment: Sch. 13 paras. 1-13 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 11(6)(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/11/6/a) (with [art. 7(4)](https://www.legislation.gov.uk/uksi/2009/3054/article/7/4))
+[^c-8c31b1ae54085e490aa610952c7bebc0]: Textual amendment: Sch. 13 paras. 1-13 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 11(6)(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/11/6/a) (with [art. 7(4)](https://www.legislation.gov.uk/uksi/2009/3054/article/7/4))
 
-[^key-6729833859f782679d160e98ae8d10bc]: Textual amendment: [Sch. 13 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/14/schedule/13/part/3) omitted (1.4.2013) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 223](https://www.legislation.gov.uk/ukpga/2012/14/section/223), [Sch. 38 para. 58(4)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/58/4/a) (with [Sch. 38 para. 43](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/43)); [S.I. 2013/279](https://www.legislation.gov.uk/uksi/2013/279), [art. 2](https://www.legislation.gov.uk/uksi/2013/279/article/2)
+[^c-6729833859f782679d160e98ae8d10bc]: Textual amendment: [Sch. 13 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/14/schedule/13/part/3) omitted (1.4.2013) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 223](https://www.legislation.gov.uk/ukpga/2012/14/section/223), [Sch. 38 para. 58(4)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/58/4/a) (with [Sch. 38 para. 43](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/43)); [S.I. 2013/279](https://www.legislation.gov.uk/uksi/2013/279), [art. 2](https://www.legislation.gov.uk/uksi/2013/279/article/2)
 
-[^key-f8c37148fc94cdb0a53aec9bbc87f299]: Textual amendment: [Sch. 13 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/schedule/13/part/4) omitted (1.4.2013) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 223](https://www.legislation.gov.uk/ukpga/2012/14/section/223), [Sch. 38 para. 58(4)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/58/4/a) (with [Sch. 38 para. 43](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/43)); [S.I. 2013/279](https://www.legislation.gov.uk/uksi/2013/279), [art. 2](https://www.legislation.gov.uk/uksi/2013/279/article/2)
+[^c-f8c37148fc94cdb0a53aec9bbc87f299]: Textual amendment: [Sch. 13 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/schedule/13/part/4) omitted (1.4.2013) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 223](https://www.legislation.gov.uk/ukpga/2012/14/section/223), [Sch. 38 para. 58(4)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/58/4/a) (with [Sch. 38 para. 43](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/43)); [S.I. 2013/279](https://www.legislation.gov.uk/uksi/2013/279), [art. 2](https://www.legislation.gov.uk/uksi/2013/279/article/2)
 
-[^key-168da29de2298c375a288913aabf1c4f]: Textual amendment: Sch. 13 paras. 26-31 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 11(6)(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/11/6/a)
+[^c-168da29de2298c375a288913aabf1c4f]: Textual amendment: Sch. 13 paras. 26-31 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 11(6)(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/11/6/a)
 
-[^key-9a4949511fa56f18cbd0e7cf255a67b1]: Textual amendment: Sch. 13 Pt. 7 repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/4)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/16), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
+[^c-9a4949511fa56f18cbd0e7cf255a67b1]: Textual amendment: Sch. 13 Pt. 7 repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/4)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/16), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
 
-[^key-f4f19f68a0ac90151138b80664abbffd]: Textual amendment: [Sch. 13 para. 53](https://www.legislation.gov.uk/ukpga/2003/14/schedule/13/paragraph/53) substituted (1.4.2013) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 223](https://www.legislation.gov.uk/ukpga/2012/14/section/223), [Sch. 38 para. 58(4)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/58/4/b) (with [Sch. 38 para. 43](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/43)); [S.I. 2013/279](https://www.legislation.gov.uk/uksi/2013/279), [art. 2](https://www.legislation.gov.uk/uksi/2013/279/article/2)
+[^c-f4f19f68a0ac90151138b80664abbffd]: Textual amendment: [Sch. 13 para. 53](https://www.legislation.gov.uk/ukpga/2003/14/schedule/13/paragraph/53) substituted (1.4.2013) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 223](https://www.legislation.gov.uk/ukpga/2012/14/section/223), [Sch. 38 para. 58(4)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/58/4/b) (with [Sch. 38 para. 43](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/43)); [S.I. 2013/279](https://www.legislation.gov.uk/uksi/2013/279), [art. 2](https://www.legislation.gov.uk/uksi/2013/279/article/2)

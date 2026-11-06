@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 149C. Fees[^key-ff82687e9cdebc2971f14c77f5192bdc]
+## 149C. Fees[^c-ff82687e9cdebc2971f14c77f5192bdc]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff82687e9cdebc2971f14c77f5192bdc]: Textual amendment: Ss. 149A-149D and cross-heading inserted (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [ss. 57(1)](https://www.legislation.gov.uk/anaw/2016/2/section/57/1), [188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/c)
+[^c-ff82687e9cdebc2971f14c77f5192bdc]: Textual amendment: Ss. 149A-149D and cross-heading inserted (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [ss. 57(1)](https://www.legislation.gov.uk/anaw/2016/2/section/57/1), [188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/c)

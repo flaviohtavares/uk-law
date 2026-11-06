@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Charges: immigration control.[^key-74524c7c67fda209f7a8a286fac25bab]
+## 26. Charges: immigration control.[^c-74524c7c67fda209f7a8a286fac25bab]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74524c7c67fda209f7a8a286fac25bab]: Commencement: S. 26 in force at 5.6.2003 for specified purposes by S.I. 2003/1469, art. 2, Sch.; and 30.6.2003 in so far as not already in force by [S.I. 2003/1469](https://www.legislation.gov.uk/uksi/2003/1469), [art. 2](https://www.legislation.gov.uk/uksi/2003/1469/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1469/schedule)
+[^c-74524c7c67fda209f7a8a286fac25bab]: Commencement: S. 26 in force at 5.6.2003 for specified purposes by S.I. 2003/1469, art. 2, Sch.; and 30.6.2003 in so far as not already in force by [S.I. 2003/1469](https://www.legislation.gov.uk/uksi/2003/1469), [art. 2](https://www.legislation.gov.uk/uksi/2003/1469/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1469/schedule)

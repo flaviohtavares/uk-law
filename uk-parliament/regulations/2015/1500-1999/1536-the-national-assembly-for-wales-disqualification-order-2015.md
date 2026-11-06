@@ -32,7 +32,7 @@ summary: ''
 
 Constitutional Law
 
-The National Assembly for Wales (Disqualification) Order 2015 (revoked)[^key-412daa984828c3cb1127ece4f0ab6c5a]
+The National Assembly for Wales (Disqualification) Order 2015 (revoked)[^c-412daa984828c3cb1127ece4f0ab6c5a]
 
 Made
 
@@ -48,27 +48,27 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-412daa984828c3cb1127ece4f0ab6c5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-412daa984828c3cb1127ece4f0ab6c5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-412daa984828c3cb1127ece4f0ab6c5a]
+## 1. Title and commencement[^c-412daa984828c3cb1127ece4f0ab6c5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of disqualifying offices[^key-412daa984828c3cb1127ece4f0ab6c5a]
+## 2. Designation of disqualifying offices[^c-412daa984828c3cb1127ece4f0ab6c5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of National Assembly for Wales (Disqualification) Order 2010[^key-412daa984828c3cb1127ece4f0ab6c5a]
+## 3. Revocation of National Assembly for Wales (Disqualification) Order 2010[^c-412daa984828c3cb1127ece4f0ab6c5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-412daa984828c3cb1127ece4f0ab6c5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-412daa984828c3cb1127ece4f0ab6c5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Offices disqualifying holders from membership of the National Assembly for Wales[^key-412daa984828c3cb1127ece4f0ab6c5a]
+## SCHEDULE — Offices disqualifying holders from membership of the National Assembly for Wales[^c-412daa984828c3cb1127ece4f0ab6c5a]
 
 Article 2
 
@@ -76,8 +76,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-412daa984828c3cb1127ece4f0ab6c5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-412daa984828c3cb1127ece4f0ab6c5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-412daa984828c3cb1127ece4f0ab6c5a]: Textual amendment: Order revoked (with effect in accordance with art. 1(2)) by [The Senedd Cymru (Disqualification) Order 2020 (S.I. 2020/1255)](https://www.legislation.gov.uk/uksi/2020/1255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1255/article/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1255/article/3)
+[^c-412daa984828c3cb1127ece4f0ab6c5a]: Textual amendment: Order revoked (with effect in accordance with art. 1(2)) by [The Senedd Cymru (Disqualification) Order 2020 (S.I. 2020/1255)](https://www.legislation.gov.uk/uksi/2020/1255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1255/article/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1255/article/3)

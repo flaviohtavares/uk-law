@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Transfer of county court enforcement[^key-4add582019f447a051dfec3bf4d42f84]
+## 67. Transfer of county court enforcement[^c-4add582019f447a051dfec3bf4d42f84]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 85(2) of the County Courts Act 1984 (c. 28) (under which writs of con
 
 ## Annotations
 
-[^key-4add582019f447a051dfec3bf4d42f84]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2007/15/section/67) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-4add582019f447a051dfec3bf4d42f84]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2007/15/section/67) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

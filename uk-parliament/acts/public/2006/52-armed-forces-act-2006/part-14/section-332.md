@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 332. Administrative reduction in rank or rate[^key-f8f8ba7ebc9dfa6cc5b5dc85000df748][^key-375ee0de519a86036d3bf8905cb0a311][^key-7bea8f382e147b299a208912598794f8]
+## 332. Administrative reduction in rank or rate[^c-f8f8ba7ebc9dfa6cc5b5dc85000df748][^c-375ee0de519a86036d3bf8905cb0a311][^c-7bea8f382e147b299a208912598794f8]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2c22c6a3935ff06bccbbbbd08c16b590] The rank or rate of a warrant officer or non-commissioned officer may be reduced only by an order made by that person's commanding officer.
+(1)[^c-2c22c6a3935ff06bccbbbbd08c16b590] The rank or rate of a warrant officer or non-commissioned officer may be reduced only by an order made by that person's commanding officer.
 
 (2) An order of a commanding officer reducing the rank or rate of a warrant officer or non-commissioned officer (“an order reducing rank or rate”)—
 
@@ -38,10 +38,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f8f8ba7ebc9dfa6cc5b5dc85000df748]: Commencement: S. 332 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f8f8ba7ebc9dfa6cc5b5dc85000df748]: Commencement: S. 332 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-375ee0de519a86036d3bf8905cb0a311]: Commencement: S. 332 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-375ee0de519a86036d3bf8905cb0a311]: Commencement: S. 332 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-7bea8f382e147b299a208912598794f8]: Textual amendment: S. 332 heading substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2011/18/section/19/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-7bea8f382e147b299a208912598794f8]: Textual amendment: S. 332 heading substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2011/18/section/19/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
 
-[^key-2c22c6a3935ff06bccbbbbd08c16b590]: Textual amendment: S. 332(1)-(3) substituted for s. 332(1)-(4) (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 19(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/19/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-2c22c6a3935ff06bccbbbbd08c16b590]: Textual amendment: S. 332(1)-(3) substituted for s. 332(1)-(4) (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 19(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/19/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)

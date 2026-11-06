@@ -40,92 +40,92 @@ Made
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-0f1157d203ca572543009194441ba626]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f1157d203ca572543009194441ba626]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-0f1157d203ca572543009194441ba626]
+## 1. Citation, commencement and interpretation[^c-0f1157d203ca572543009194441ba626]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Monetary penalty notices for certain unlawful interceptions of communications[^key-0f1157d203ca572543009194441ba626]
+## 2. Monetary penalty notices for certain unlawful interceptions of communications[^c-0f1157d203ca572543009194441ba626]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consent requirement for lawful interception of communications[^key-0f1157d203ca572543009194441ba626]
+## 3. Consent requirement for lawful interception of communications[^c-0f1157d203ca572543009194441ba626]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f1157d203ca572543009194441ba626]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f1157d203ca572543009194441ba626]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Monetary penalty notices[^key-0f1157d203ca572543009194441ba626]
+## SCHEDULE — Monetary penalty notices[^c-0f1157d203ca572543009194441ba626]
 
 Regulation 2(4)
 
-> **SCHEDULE A1 — MONETARY PENALTY NOTICES IN RELATION TO CERTAIN UNLAWFUL INTERCEPTIONS[^key-0f1157d203ca572543009194441ba626]**
+> **SCHEDULE A1 — MONETARY PENALTY NOTICES IN RELATION TO CERTAIN UNLAWFUL INTERCEPTIONS[^c-0f1157d203ca572543009194441ba626]**
 >
-> **PART 1 — MONETARY PENALTY NOTICES[^key-0f1157d203ca572543009194441ba626]**
+> **PART 1 — MONETARY PENALTY NOTICES[^c-0f1157d203ca572543009194441ba626]**
 >
-> **General[^key-0f1157d203ca572543009194441ba626]**
+> **General[^c-0f1157d203ca572543009194441ba626]**
 >
-> **1.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Enforcement obligations[^key-0f1157d203ca572543009194441ba626]**
+> **Enforcement obligations[^c-0f1157d203ca572543009194441ba626]**
 >
-> **2.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Consultation requirements before service of notices[^key-0f1157d203ca572543009194441ba626]**
+> **Consultation requirements before service of notices[^c-0f1157d203ca572543009194441ba626]**
 >
-> **3.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Variation or cancellation of notices[^key-0f1157d203ca572543009194441ba626]**
+> **Variation or cancellation of notices[^c-0f1157d203ca572543009194441ba626]**
 >
-> **4.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Appeals against notices[^key-0f1157d203ca572543009194441ba626]**
+> **Appeals against notices[^c-0f1157d203ca572543009194441ba626]**
 >
-> **5.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Enforcement of notices[^key-0f1157d203ca572543009194441ba626]**
+> **Enforcement of notices[^c-0f1157d203ca572543009194441ba626]**
 >
-> **6.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Guidance[^key-0f1157d203ca572543009194441ba626]**
+> **Guidance[^c-0f1157d203ca572543009194441ba626]**
 >
-> **7.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Interpretation: Part 1[^key-0f1157d203ca572543009194441ba626]**
+> **Interpretation: Part 1[^c-0f1157d203ca572543009194441ba626]**
 >
-> **8.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2 — INFORMATION PROVISIONS[^key-0f1157d203ca572543009194441ba626]**
+> **PART 2 — INFORMATION PROVISIONS[^c-0f1157d203ca572543009194441ba626]**
 >
-> **Information notices[^key-0f1157d203ca572543009194441ba626]**
+> **Information notices[^c-0f1157d203ca572543009194441ba626]**
 >
-> **9.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Appeals against notices[^key-0f1157d203ca572543009194441ba626]**
+> **Appeals against notices[^c-0f1157d203ca572543009194441ba626]**
 >
-> **10.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Enforcement of notices[^key-0f1157d203ca572543009194441ba626]**
+> **Enforcement of notices[^c-0f1157d203ca572543009194441ba626]**
 >
-> **11.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Technical assistance for the Commissioner[^key-0f1157d203ca572543009194441ba626]**
+> **Technical assistance for the Commissioner[^c-0f1157d203ca572543009194441ba626]**
 >
-> **12.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **12.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Interpretation: Part 2[^key-0f1157d203ca572543009194441ba626]**
+> **Interpretation: Part 2[^c-0f1157d203ca572543009194441ba626]**
 >
-> **13.**[^key-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **13.**[^c-0f1157d203ca572543009194441ba626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0f1157d203ca572543009194441ba626]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f1157d203ca572543009194441ba626]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0f1157d203ca572543009194441ba626]: Textual amendment: Regulations revoked (30.8.2018 for the revocation of regs. 2(1)(4), 3, Sch., 27.12.2018 in so far as not already in force) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [regs. 2(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/h/ii), [5(i)](https://www.legislation.gov.uk/uksi/2018/940/regulation/5/i) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-0f1157d203ca572543009194441ba626]: Textual amendment: Regulations revoked (30.8.2018 for the revocation of regs. 2(1)(4), 3, Sch., 27.12.2018 in so far as not already in force) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [regs. 2(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/h/ii), [5(i)](https://www.legislation.gov.uk/uksi/2018/940/regulation/5/i) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))

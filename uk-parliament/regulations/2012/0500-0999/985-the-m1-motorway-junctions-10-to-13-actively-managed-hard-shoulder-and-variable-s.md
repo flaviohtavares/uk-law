@@ -50,11 +50,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 Representative organisations have been consulted in accordance with section 134(2) of that Act.
 
-## 1. Citation and commencement[^key-f02e5e539adf809546fcc8bf65ed837e]
+## 1. Citation and commencement[^c-f02e5e539adf809546fcc8bf65ed837e]
 
 These Regulations may be cited as the M1 Motorway (Junctions 10 to 13) (Actively Managed Hard Shoulder and Variable Speed Limits) Regulations 2012 and come into force on 3rd May 2012.
 
-## 2. Interpretation[^key-05435536bfb3429f763f9c3353452941]
+## 2. Interpretation[^c-05435536bfb3429f763f9c3353452941]
 
 In these Regulations—
 
@@ -66,7 +66,7 @@ In these Regulations—
   - (b) whose boundary with the hard shoulder or carriageway is indicated by a marking of the type shown in diagram 1010 in Schedule 6 to the 2002 Regulations; and
 - “relevant roads” means the lengths of carriageway specified in Schedule 1 together with the adjacent hard shoulders, emergency refuge areas and verges.
 
-## 3. Modification of the 1982 Regulations to allow for actively managed hard shoulder[^key-18e281b5eaa354d9277d193ce0002c70]
+## 3. Modification of the 1982 Regulations to allow for actively managed hard shoulder[^c-18e281b5eaa354d9277d193ce0002c70]
 
 (1) In relation to the relevant roads, the 1982 Regulations have effect as if they were modified as follows.
 
@@ -125,7 +125,7 @@ In these Regulations—
 
 (7) Paragraph (2) of regulation 12 (restriction on use of right hand or off side lane) has effect as if, after “three or more traffic lanes”, there were inserted “(including the actively managed hard shoulder when it is in use as a lane of the carriageway in accordance with regulation 5A)”.
 
-## 4. Variable speed limits[^key-4f458d058efc2c0bb591b24998d3c6b7]
+## 4. Variable speed limits[^c-4f458d058efc2c0bb591b24998d3c6b7]
 
 (1) No person shall drive a vehicle on a section of a road which is subject to a variable speed limit at a speed exceeding that indicated by a speed limit sign.
 
@@ -165,30 +165,30 @@ Department for Transport
 
 Regulation 2
 
-**1.**[^key-4ddde45f435b99d644631355242e8451] The relevant roads are—
+**1.**[^c-4ddde45f435b99d644631355242e8451] The relevant roads are—
 
 - (a) the northbound carriageway of the M1 beginning at a point which is 97 metres after marker post 49/6 and ending at a point which is 90 metres after marker post 71/5; and
 - (b) the southbound carriageway of the M1 beginning at a point which is 38 metres after marker post 72/5 and ending at marker post 49/5.
 
-**2.**[^key-fc4160971812a28ac705d9eda71c3ddb] Any reference in this Schedule to the letter “M” followed by a number is a reference to the motorway known by that name.
+**2.**[^c-fc4160971812a28ac705d9eda71c3ddb] Any reference in this Schedule to the letter “M” followed by a number is a reference to the motorway known by that name.
 
 ## SCHEDULE 2 — SPECIFIED ROADS
 
 Regulation 4(2)(a)
 
-**1.**[^key-a2fdc011c86256fea05f18df7af15fb1] The specified roads are—
+**1.**[^c-a2fdc011c86256fea05f18df7af15fb1] The specified roads are—
 
 - (a) the northbound carriageway of the M1 beginning at marker post 50/0 and ending at a point which is 81 metres after marker post 72/8;
 - (b) the carriageways of the northbound slip roads;
 - (c) the southbound carriageway of the M1 beginning at a point which is 61 metres after marker post 73/9 and ending at marker post 50/0; and
 - (d) the carriageways of the southbound slip roads.
 
-**2.**[^key-3c9718afdd126e22186df23ea20bd6e7] Any reference in this Schedule to—
+**2.**[^c-3c9718afdd126e22186df23ea20bd6e7] Any reference in this Schedule to—
 
 - (a) the letter “M” followed by a number is a reference to the motorway known by that name; and
 - (b) the letter “A” followed by a number is a reference to the road known by that name.
 
-**3.**[^key-92731ece658b47ef26e082e40b9165cd] In this Schedule—
+**3.**[^c-92731ece658b47ef26e082e40b9165cd] In this Schedule—
 
 - “A slip road” means a road for exiting the northbound carriageway of the M1 at a junction;
 - “B slip road” means a road for entering the northbound carriageway of the M1 at a junction;
@@ -202,12 +202,12 @@ Regulation 4(2)(a)
 - “southbound slip roads” is a reference to the lengths of road specified in paragraph 5; and
 - “zone sign” means a sign authorised by the Secretary of State under section 64 of the Road Traffic Regulation Act 1984[^f00004] for the purpose of indicating that vehicles are entering, have entered or are exiting a specified road.
 
-**4.**[^key-e4007076473b6f289ba56b158a501a0c] The northbound slip roads are—
+**4.**[^c-e4007076473b6f289ba56b158a501a0c] The northbound slip roads are—
 
 - (a) in the vicinity of junction 11 of the M1—
   - (i) the A slip road leading to the A505 commencing where it diverges from the M1 northbound and ending at the zone sign; and
   - (ii) the B slip road from the A505 commencing at the zone sign and ending where it merges with the M1 northbound;
-- (aa)[^key-e5747e86104835e0ad487e0478376b5c] in the vicinity of junction 11A of the M1—
+- (aa)[^c-e5747e86104835e0ad487e0478376b5c] in the vicinity of junction 11A of the M1—
   - (i) the A slip road leading to the A5 commencing where it diverges from the M1 northbound and ending at the zone sign; and
   - (ii) the B slip road from the A5 commencing at the zone sign and ending where it merges with the M1 northbound;
 - (b) the E slip road commencing where it diverges from the M1 northbound and ending at the zone sign;
@@ -217,12 +217,12 @@ Regulation 4(2)(a)
   - (ii) the B slip road from the A5120 commencing at the zone sign and ending where it merges with the M1 northbound;
 - (e) in the vicinity of junction 13 of the M1 the A slip road leading to the A507 commencing where it diverges from the M1 northbound and ending at the zone sign.
 
-**5.**[^key-9e29e5eeffa1831cbe7ced5dfa140a7d] The southbound slip roads are—
+**5.**[^c-9e29e5eeffa1831cbe7ced5dfa140a7d] The southbound slip roads are—
 
 - (a) in the vicinity of junction 11 of the M1—
   - (i) the C slip road leading to the A505 commencing where it diverges from the M1 southbound and ending at the zone sign; and
   - (ii) the D slip road from the A505 commencing at the zone sign and ending where it merges with M1 southbound;
-- (aa)[^key-f4ff2f3e2bfd48d98dc2e64a024f2e13] in the vicinity of junction 11A of the M1—
+- (aa)[^c-f4ff2f3e2bfd48d98dc2e64a024f2e13] in the vicinity of junction 11A of the M1—
   - (i) the C slip road leading to the A5 commencing where it diverges from the M1 southbound and ending at the zone sign; and
   - (ii) the D slip road from the A5 commencing at the zone sign and ending where it merges with the M1 southbound;
 - (b) the G slip road commencing where it diverges from the M1 southbound and ending at the zone sign;
@@ -254,34 +254,34 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [1984. c. 27](https://www.legislation.gov.uk/ukpga/1984/27). Section 17(2) was amended by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, Part 2, paragraph 28(3); section 17(2)(b) was amended by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8; section 17(2)(d) was inserted by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 25. There are other amendments to sections 17 and 134 which are not relevant to these Regulations.
 
-[^key-f02e5e539adf809546fcc8bf65ed837e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
+[^c-f02e5e539adf809546fcc8bf65ed837e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
 
-[^key-05435536bfb3429f763f9c3353452941]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/985/regulation/2) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
+[^c-05435536bfb3429f763f9c3353452941]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/985/regulation/2) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
 
 [^f00002]: Footnote: [S. I. 1982/1163](https://www.legislation.gov.uk/uksi/1982/1163), as amended by [S. I. 1983/374](https://www.legislation.gov.uk/uksi/1983/374), [1984/1479](https://www.legislation.gov.uk/uksi/1984/1479), [1992/1364](https://www.legislation.gov.uk/uksi/1992/1364) and [2004/3258](https://www.legislation.gov.uk/uksi/2004/3258).
 
 [^f00003]: Footnote: Part 1 of [S. I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113); as amended by [S. I. 2005/1670](https://www.legislation.gov.uk/uksi/2005/1670) and [2011/3041](https://www.legislation.gov.uk/uksi/2011/3041). There are other amending instruments but none is relevant.
 
-[^key-18e281b5eaa354d9277d193ce0002c70]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/985/regulation/3) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
+[^c-18e281b5eaa354d9277d193ce0002c70]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/985/regulation/3) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
 
-[^key-4f458d058efc2c0bb591b24998d3c6b7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/985/regulation/4) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
+[^c-4f458d058efc2c0bb591b24998d3c6b7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/985/regulation/4) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
 
-[^key-4ddde45f435b99d644631355242e8451]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/985/schedule/1/paragraph/1) substituted (1.4.2013) by [The Managed Motorway (Actively Managed Hard Shoulder and Variable Speed Limits) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/482)](https://www.legislation.gov.uk/uksi/2013/482), [regs. 1](https://www.legislation.gov.uk/uksi/2013/482/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/482/regulation/5)
+[^c-4ddde45f435b99d644631355242e8451]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/985/schedule/1/paragraph/1) substituted (1.4.2013) by [The Managed Motorway (Actively Managed Hard Shoulder and Variable Speed Limits) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/482)](https://www.legislation.gov.uk/uksi/2013/482), [regs. 1](https://www.legislation.gov.uk/uksi/2013/482/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/482/regulation/5)
 
-[^key-fc4160971812a28ac705d9eda71c3ddb]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2012/985/schedule/1/paragraph/2) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
+[^c-fc4160971812a28ac705d9eda71c3ddb]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2012/985/schedule/1/paragraph/2) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
 
-[^key-a2fdc011c86256fea05f18df7af15fb1]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/1) substituted (1.4.2013) by [The Managed Motorway (Actively Managed Hard Shoulder and Variable Speed Limits) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/482)](https://www.legislation.gov.uk/uksi/2013/482), [regs. 1](https://www.legislation.gov.uk/uksi/2013/482/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/482/regulation/6)
+[^c-a2fdc011c86256fea05f18df7af15fb1]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/1) substituted (1.4.2013) by [The Managed Motorway (Actively Managed Hard Shoulder and Variable Speed Limits) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/482)](https://www.legislation.gov.uk/uksi/2013/482), [regs. 1](https://www.legislation.gov.uk/uksi/2013/482/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/482/regulation/6)
 
-[^key-3c9718afdd126e22186df23ea20bd6e7]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/2) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
+[^c-3c9718afdd126e22186df23ea20bd6e7]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/2) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
 
-[^key-92731ece658b47ef26e082e40b9165cd]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/3) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
+[^c-92731ece658b47ef26e082e40b9165cd]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/3) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
 
 [^f00004]: Footnote: [1984. c. 27](https://www.legislation.gov.uk/ukpga/1984/27). There are amendments to section 64 but none of these is relevant.
 
-[^key-e4007076473b6f289ba56b158a501a0c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/4) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
+[^c-e4007076473b6f289ba56b158a501a0c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/4) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
 
-[^key-e5747e86104835e0ad487e0478376b5c]: Textual amendment: [Sch. 2 para. 4(aa)](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/4/aa) inserted (1.12.2016) by [The M1 Motorway (Junctions 10 to 13) (Actively Managed Hard Shoulder and Variable Speed Limits) (Amendment) Regulations 2016 (S.I. 2016/1033)](https://www.legislation.gov.uk/uksi/2016/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1033/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1033/regulation/2/2)
+[^c-e5747e86104835e0ad487e0478376b5c]: Textual amendment: [Sch. 2 para. 4(aa)](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/4/aa) inserted (1.12.2016) by [The M1 Motorway (Junctions 10 to 13) (Actively Managed Hard Shoulder and Variable Speed Limits) (Amendment) Regulations 2016 (S.I. 2016/1033)](https://www.legislation.gov.uk/uksi/2016/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1033/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1033/regulation/2/2)
 
-[^key-9e29e5eeffa1831cbe7ced5dfa140a7d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/5) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
+[^c-9e29e5eeffa1831cbe7ced5dfa140a7d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/5) in force at 3.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/985/regulation/1)
 
-[^key-f4ff2f3e2bfd48d98dc2e64a024f2e13]: Textual amendment: [Sch. 2 para. 5(aa)](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/5/aa) inserted (1.12.2016) by [The M1 Motorway (Junctions 10 to 13) (Actively Managed Hard Shoulder and Variable Speed Limits) (Amendment) Regulations 2016 (S.I. 2016/1033)](https://www.legislation.gov.uk/uksi/2016/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1033/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1033/regulation/2/3)
+[^c-f4ff2f3e2bfd48d98dc2e64a024f2e13]: Textual amendment: [Sch. 2 para. 5(aa)](https://www.legislation.gov.uk/uksi/2012/985/schedule/2/paragraph/5/aa) inserted (1.12.2016) by [The M1 Motorway (Junctions 10 to 13) (Actively Managed Hard Shoulder and Variable Speed Limits) (Amendment) Regulations 2016 (S.I. 2016/1033)](https://www.legislation.gov.uk/uksi/2016/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1033/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/1033/regulation/2/3)

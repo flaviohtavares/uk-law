@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation, commencement and extent[^key-92d97dac6bb0331adcc4a74b3462d6c7]
+## 1. Citation, commencement and extent[^c-92d97dac6bb0331adcc4a74b3462d6c7]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92d97dac6bb0331adcc4a74b3462d6c7]: Commencement: Reg. 1 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-92d97dac6bb0331adcc4a74b3462d6c7]: Commencement: Reg. 1 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)

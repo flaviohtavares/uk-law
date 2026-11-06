@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**294.**[^key-027102b633ad582b1ddb85dc1f0740ee] The Social Services and Well-being (Wales) Act 2014 is amended as follows.
+**294.**[^c-027102b633ad582b1ddb85dc1f0740ee] The Social Services and Well-being (Wales) Act 2014 is amended as follows.
 
 ## Annotations
 
-[^key-027102b633ad582b1ddb85dc1f0740ee]: Commencement: Reg. 294 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-027102b633ad582b1ddb85dc1f0740ee]: Commencement: Reg. 294 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

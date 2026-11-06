@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Finance: production of documents[^key-4412927fa82a1ad98b88208bad732bcc]
+## 53. Finance: production of documents[^c-4412927fa82a1ad98b88208bad732bcc]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4412927fa82a1ad98b88208bad732bcc]: Commencement: Reg. 53 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-4412927fa82a1ad98b88208bad732bcc]: Commencement: Reg. 53 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

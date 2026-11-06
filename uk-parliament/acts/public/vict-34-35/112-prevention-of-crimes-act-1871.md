@@ -143,7 +143,7 @@ The mode of proving a previous conviction authorized by this section shall be in
 
 In this section “[^c572879]**proper officer**” means—
 
-- (a) in relation to a magistrates’ court in England and Wales, the designated officer[^key-75f26c53d7158fcbb59effcdd44dea52] for the court; and
+- (a) in relation to a magistrates’ court in England and Wales, the designated officer[^c-75f26c53d7158fcbb59effcdd44dea52] for the court; and
 - (b) in relation to any other court, the clerk of the court or other officer having the custody of the records of the court, or the deputy of such clerk or other officer.
 
 ### 19. Evidence in cases of receiving stolen property.[^c572880]
@@ -267,7 +267,7 @@ Where proceedings are taken against any person for having received goods knowing
 
 [^c572879]: Textual amendment: Definition of “proper officer” in s. 18 inserted (1.4.2001 subject to Sch. 2 para. 2 of the commencing SI) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [ss. 90](https://www.legislation.gov.uk/ukpga/1999/22/section/90), [108(1)](https://www.legislation.gov.uk/ukpga/1999/22/section/108/1), [Sch. 13 para. 4(1)(4)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/4/1/4) (with [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2001/916/article/2/a/ii) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2001/916/schedule/2/paragraph/2))
 
-[^key-75f26c53d7158fcbb59effcdd44dea52]: Textual amendment: Words in s. 18 substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 52](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/52); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-75f26c53d7158fcbb59effcdd44dea52]: Textual amendment: Words in s. 18 substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 52](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/52); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c572880]: Modification: [S. 19](https://www.legislation.gov.uk/ukpga/Vict/34-35/112/section/19) repealed (E.W.) by [Larceny Act 1916 (c. 50)](https://www.legislation.gov.uk/ukpga/1916/50), [Sch.](https://www.legislation.gov.uk/ukpga/1916/50/schedule)
 

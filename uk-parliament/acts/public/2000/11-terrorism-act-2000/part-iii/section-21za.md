@@ -31,7 +31,7 @@ summary: ''
 
 (4) A working day is a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day that is a bank holiday under the Banking and Financial Dealings Act 1971 (c.80) in the part of the United Kingdom in which the person is when making the disclosure.
 
-(5) In this section “ **authorised officer** ” means a National Crime Agency officer[^key-dae74bf57c005f7015226e14e81c4835] authorised for the purposes of this section by the Director General of that Agency.
+(5) In this section “ **authorised officer** ” means a National Crime Agency officer[^c-dae74bf57c005f7015226e14e81c4835] authorised for the purposes of this section by the Director General of that Agency.
 
 (6) The reference in this section to a transaction or arrangement relating to money or other property includes a reference to use or possession.
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c19687021]: Textual amendment: Ss. 21ZA-21ZC inserted (26.12.2007) by [The Terrorism Act 2000 and Proceeds of Crime Act 2002 (Amendment) Regulations 2007 (S.I. 2007/3398)](https://www.legislation.gov.uk/uksi/2007/3398), [reg. 2](https://www.legislation.gov.uk/uksi/2007/3398/regulation/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2007/3398/schedule/1/paragraph/2)
 
-[^key-dae74bf57c005f7015226e14e81c4835]: Textual amendment: Words in s. 21ZA(5) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 70](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/70); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-dae74bf57c005f7015226e14e81c4835]: Textual amendment: Words in s. 21ZA(5) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 70](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/70); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

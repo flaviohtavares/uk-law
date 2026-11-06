@@ -24,11 +24,11 @@ Section 54.
 
 ### Tax exempt life or endowment business
 
-**1.**[^key-06069f48a5b9e2bdbfb8742000da3a84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-06069f48a5b9e2bdbfb8742000da3a84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Maximum benefits payable to members
 
-**2.**[^key-06069f48a5b9e2bdbfb8742000da3a84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-06069f48a5b9e2bdbfb8742000da3a84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Qualifying policies
 
@@ -56,4 +56,4 @@ Schedule 15 to that Act, in its application to the policy, shall have effect, in
 
 ## Annotations
 
-[^key-06069f48a5b9e2bdbfb8742000da3a84]: Textual amendment: Sch. 10 paras. 1, 2 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/c)
+[^c-06069f48a5b9e2bdbfb8742000da3a84]: Textual amendment: Sch. 10 paras. 1, 2 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/c)

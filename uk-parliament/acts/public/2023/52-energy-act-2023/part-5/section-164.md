@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Duty to have regard to particular matters[^key-e39f84948b63f0b19913f3ecfac93342][^key-2b2e7e61285e4c1ba62d3a24209ef949]
+## 164. Duty to have regard to particular matters[^c-e39f84948b63f0b19913f3ecfac93342][^c-2b2e7e61285e4c1ba62d3a24209ef949]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ in relation to the carrying out of other relevant activities.
 
 ## Annotations
 
-[^key-e39f84948b63f0b19913f3ecfac93342]: Commencement: S. 164 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-e39f84948b63f0b19913f3ecfac93342]: Commencement: S. 164 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-2b2e7e61285e4c1ba62d3a24209ef949]: Commencement: S. 164 in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)
+[^c-2b2e7e61285e4c1ba62d3a24209ef949]: Commencement: S. 164 in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)

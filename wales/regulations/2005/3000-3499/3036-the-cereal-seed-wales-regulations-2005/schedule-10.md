@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — INDEX OF WORDS AND EXPRESSIONS USED IN THESE REGULATIONS[^key-7dd553ccebb7d433fa03726a650f41f0]
+## SCHEDULE 10 — INDEX OF WORDS AND EXPRESSIONS USED IN THESE REGULATIONS[^c-7dd553ccebb7d433fa03726a650f41f0]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Regulation 31
 
-[^key-7dd553ccebb7d433fa03726a650f41f0]
+[^c-7dd553ccebb7d433fa03726a650f41f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7dd553ccebb7d433fa03726a650f41f0]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(c)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/c) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))
+[^c-7dd553ccebb7d433fa03726a650f41f0]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(c)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/c) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))

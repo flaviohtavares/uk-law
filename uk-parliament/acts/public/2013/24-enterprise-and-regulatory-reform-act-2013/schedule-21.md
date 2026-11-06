@@ -65,8 +65,8 @@ Section 73
 
 #### Insolvency Act 1986 (c. 45)
 
-**5.**[^key-67f71ec54e64cd346e40ce8c5f05cd6d] In section 279 of the Insolvency Act 1986 (duration of bankruptcy), omit subsection (2) (bankrupt discharged early if official receiver files with the court a notice stating that investigation of the conduct and affairs of the bankrupt is unnecessary or concluded).
+**5.**[^c-67f71ec54e64cd346e40ce8c5f05cd6d] In section 279 of the Insolvency Act 1986 (duration of bankruptcy), omit subsection (2) (bankrupt discharged early if official receiver files with the court a notice stating that investigation of the conduct and affairs of the bankrupt is unnecessary or concluded).
 
 ## Annotations
 
-[^key-67f71ec54e64cd346e40ce8c5f05cd6d]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/21/paragraph/5) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(n)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/n) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/2227/article/6))
+[^c-67f71ec54e64cd346e40ce8c5f05cd6d]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/21/paragraph/5) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(n)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/n) (with [art. 6](https://www.legislation.gov.uk/uksi/2013/2227/article/6))

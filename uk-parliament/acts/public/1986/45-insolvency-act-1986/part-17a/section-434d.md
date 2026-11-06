@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 434D. Enforcement of company's filing obligations[^key-daa79a499d8bbbd29294ccba6549a141][^c20453931][^c19935621]
+## 434D. Enforcement of company's filing obligations[^c-daa79a499d8bbbd29294ccba6549a141][^c20453931][^c19935621]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-daa79a499d8bbbd29294ccba6549a141]: Modification: [Ss. 434B-434D](https://www.legislation.gov.uk/ukpga/1986/45/section/434B) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [regs. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [37](https://www.legislation.gov.uk/uksi/2021/716/regulation/37) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [11](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11))
+[^c-daa79a499d8bbbd29294ccba6549a141]: Modification: [Ss. 434B-434D](https://www.legislation.gov.uk/ukpga/1986/45/section/434B) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [regs. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [37](https://www.legislation.gov.uk/uksi/2021/716/regulation/37) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [11](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11))
 
 [^c20453931]: Textual amendment: [Ss. 434D](https://www.legislation.gov.uk/ukpga/1986/45/section/434D), [434E](https://www.legislation.gov.uk/ukpga/1986/45/section/434E) inserted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [8](https://www.legislation.gov.uk/uksi/2009/1941/article/8), [Sch. 1 para. 81](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/81) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10), [Sch. 1 para. 84](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/84))
 

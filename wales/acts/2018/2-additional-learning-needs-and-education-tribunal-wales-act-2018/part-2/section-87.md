@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Application of reconsideration provisions to pupils and students resident in England[^key-89e19be76443b6921027b70c0ddfeaf5]
+## 87. Application of reconsideration provisions to pupils and students resident in England[^c-89e19be76443b6921027b70c0ddfeaf5]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89e19be76443b6921027b70c0ddfeaf5]: Commencement: S. 87 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)
+[^c-89e19be76443b6921027b70c0ddfeaf5]: Commencement: S. 87 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)

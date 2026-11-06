@@ -41,7 +41,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred upon them by sections 26, 27, 39 and 150(5) of the Welsh Language (Wales) Measure 2011[^f00001], having received the approval of the National Assembly for Wales in accordance with section 150(2) of that Measure, make the following Regulations:
 
-## 1. Title, commencement, application and interpretation[^key-d221b34eb9818a1156c973210df076f0]
+## 1. Title, commencement, application and interpretation[^c-d221b34eb9818a1156c973210df076f0]
 
 (1) The title of these Regulations is the Welsh Language Standards (No. 7) Regulations 2018.
 
@@ -76,8 +76,8 @@ The Welsh Ministers, in exercise of the powers conferred upon them by sections 2
 - an “in-patient admission” (“*derbyniad fel claf mewnol*”) begins on the day the in-patient is admitted to hospital and ends on the day the in-patient ceases to be in hospital;
 - a “member of staff” (“*aelod o staff*”) means an employee of a body or a natural person working for a body but not a person appointed to a body by the Welsh Ministers, a Minister of the Crown, Secretary of State, a county council or county borough council or a voluntary organisation[^f00003] (and “staff” (“*staff*”) must be construed accordingly);
 - “national health service” (“*gwasanaeth iechyd gwladol*”) means the comprehensive health service in Wales continued under section 1(1) of the National Health Service (Wales) Act 2006[^f00004];
-- a “national health service clinic” (“*clinig gwasanaeth iechyd gwladol*”) means a clinic vested in the Welsh Ministers, a Local Health Board , a National Health Service Trust or a Special Health Authority[^key-17ee12b64727c0ece877d510f092b54d];
-- a “national health service hospital” (“*ysbyty gwasanaeth iechyd gwladol*”) means a hospital vested in the Welsh Ministers, a Local Health Board , a National Health Service Trust or a Special Health Authority[^key-cb56ac0ce6f5cd5c7312713bbfc2c5f2];
+- a “national health service clinic” (“*clinig gwasanaeth iechyd gwladol*”) means a clinic vested in the Welsh Ministers, a Local Health Board , a National Health Service Trust or a Special Health Authority[^c-17ee12b64727c0ece877d510f092b54d];
+- a “national health service hospital” (“*ysbyty gwasanaeth iechyd gwladol*”) means a hospital vested in the Welsh Ministers, a Local Health Board , a National Health Service Trust or a Special Health Authority[^c-cb56ac0ce6f5cd5c7312713bbfc2c5f2];
 - a “primary care provider” (“*darparwr gofal sylfaenol*”) means a person who provides a primary care service on behalf of a Local Health Board;
 - a “primary care service” (“*gwasanaeth gofal sylfaenol*”) means a service provided under a contract, arrangement or agreement made under or by virtue of any of the following provisions of the National Health Service (Wales) Act 2006—
   - (a) section 41(2)(b) (primary medical services);
@@ -122,7 +122,7 @@ The Welsh Ministers, in exercise of the powers conferred upon them by sections 2
 
 (10) Nothing in these Regulations requires a body to comply with a standard in relation to an activity carried out by it or a service provided by it where the activity carried out or the service provided on its behalf is a care home service.
 
-## 2. Standards specified[^key-5a3aec954ce41a44ffb8bdee2695d47d]
+## 2. Standards specified[^c-5a3aec954ce41a44ffb8bdee2695d47d]
 
 (1) In Schedule 1—
 
@@ -152,7 +152,7 @@ The Welsh Ministers, in exercise of the powers conferred upon them by sections 2
 - (a) Part 1 specifies standards that deal with matters which are supplementary to the matters dealt with in the standards specified in Schedules 1 to 4;
 - (b) Part 2 makes provision about interpreting the supplementary standards.
 
-## 3. Standards that are specifically applicable[^key-4a94bc66d36bf7f2793698322cfd69c9]
+## 3. Standards that are specifically applicable[^c-4a94bc66d36bf7f2793698322cfd69c9]
 
 (1) The Welsh Ministers authorise the Welsh Language Commissioner to give a compliance notice to the persons listed in Schedule 6 requiring them to comply with any of the standards specified under regulation 2 and Schedules 1 to 5.
 
@@ -161,13 +161,13 @@ The Welsh Ministers, in exercise of the powers conferred upon them by sections 2
 - (a) National Health Service Trusts in Wales requiring them to comply with the following standards—
   - (i) 65 to 68,
   - (ii) 78 to 78A;
-- (b) the Citizen Voice Body requiring it[^key-7ed23f08d580f0ce9c1fd8aa4c022eaf] to comply with the following standards—
+- (b) the Citizen Voice Body requiring it[^c-7ed23f08d580f0ce9c1fd8aa4c022eaf] to comply with the following standards—
   - (i) 23 to 25,
   - (ii) 64 to 68,
   - (iii) 78 to 78A,
   - (iv) 110 and 110A.
 
-## 4. Amendment of Welsh Language Standards (No. 4) Regulations 2016[^key-28f77929a496100146db73ea1f492ff5]
+## 4. Amendment of Welsh Language Standards (No. 4) Regulations 2016[^c-28f77929a496100146db73ea1f492ff5]
 
 (1) In regulation 3 of the Welsh Language Standards (No. 4) Regulations 2016 (“the No. 4 Regulations”)[^f00005] for paragraph (2) substitute—
 
@@ -195,7 +195,7 @@ Minister for Welsh Language and Lifelong Learning, under the authority of the Ca
 
 Regulation 2(1)
 
-### PART 1 — THE STANDARDS[^key-ee21a61278b2ad1a8e3e483301b6b02b]
+### PART 1 — THE STANDARDS[^c-ee21a61278b2ad1a8e3e483301b6b02b]
 
 |  |  |
 | --- | --- |
@@ -308,7 +308,7 @@ Regulation 2(1)
 | **Standard 67:** | You must—<br>- (a) make available to a primary care provider a badge for it or its staff to wear to convey that they are able to speak Welsh, and<br>- (b) promote to a primary care provider the wearing of the badge. |
 | **Standard 68:** | You must provide training courses, information or hold events so that a primary care provider can develop—<br>- (a) an awareness of the Welsh language (including awareness of its history and its role in Welsh culture); and<br>- (b) an understanding of how the Welsh language can be used in the workplace. |
 
-### PART 2 — STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS[^key-ddbd806110b797b98888e9f61febcfff]
+### PART 2 — STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS[^c-ddbd806110b797b98888e9f61febcfff]
 
 |  |  |
 | --- | --- |
@@ -369,7 +369,7 @@ TABLE 1
 </tbody>
 </table>
 
-### PART 3 — INTERPRETING THE STANDARDS[^key-c825bd8ebdaf2804730da794104c0bca]
+### PART 3 — INTERPRETING THE STANDARDS[^c-c825bd8ebdaf2804730da794104c0bca]
 
 |  |  |
 | --- | --- |
@@ -413,7 +413,7 @@ TABLE 1
 
 Regulation 2(2)
 
-### PART 1 — THE STANDARDS[^key-43bc26032d3327659866fa1e59c4cb80]
+### PART 1 — THE STANDARDS[^c-43bc26032d3327659866fa1e59c4cb80]
 
 |  |  |
 | --- | --- |
@@ -430,7 +430,7 @@ Regulation 2(2)
 | **Standard 78:** | You must publish a policy on providing a primary care service which requires you to take the following into account when you make decisions in relation to providing a primary care service—<br>- (a) what effects, if any (and whether positive or negative), the decision would have on—<br>  - (i) opportunities for persons to use the Welsh language, and<br>  - (ii) treating the Welsh language no less favourably than the English language;<br>- (b) how that decision could be taken or implemented so that it would have positive effects, or increased positive effects, on—<br>  - (i) opportunities for persons to use the Welsh language, and<br>  - (ii) treating the Welsh language no less favourably than the English language; and<br>- (c) how the decision could be taken or implemented so that it would not have adverse effects, or so that it would have decreased adverse effects on—<br>  - (i) opportunities for persons to use the Welsh language, and<br>  - (ii) treating the Welsh language no less favourably than the English language. |
 | **Standard 78A:** | On the expiry of 5 years after publishing the policy in accordance with standard 78 (whether or not revisions have been made to that policy) and on the expiry of each subsequent period of 5 years you must —<br>- (a) assess to what extent you have complied with the policy; and<br>- (b) publish that assessment on your website within 6 months of the end of the period. |
 
-### PART 2 — STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS[^key-ed09b319a11f8c024e8f627547c0a4f3]
+### PART 2 — STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS[^c-ed09b319a11f8c024e8f627547c0a4f3]
 
 |  |  |
 | --- | --- |
@@ -449,7 +449,7 @@ TABLE 1
 </tbody>
 </table>
 
-### PART 3 — INTERPRETING THE STANDARDS[^key-333f87a099719eecc63e70f47ab5bb80]
+### PART 3 — INTERPRETING THE STANDARDS[^c-333f87a099719eecc63e70f47ab5bb80]
 
 |  |  |
 | --- | --- |
@@ -461,7 +461,7 @@ TABLE 1
 
 Regulation 2(3)
 
-### PART 1 — THE STANDARDS[^key-080df2323f3eb77c91d6447e315ecb6d]
+### PART 1 — THE STANDARDS[^c-080df2323f3eb77c91d6447e315ecb6d]
 
 |  |  |
 | --- | --- |
@@ -515,7 +515,7 @@ Regulation 2(3)
 | **9** | **Standard relating to audio announcements and messages in a body’s workplace** |
 | **Standard 114:** | When you make a recorded announcement in the workplace using audio equipment, that announcement must be made in Welsh, and if the announcement is made in Welsh and in English, the announcement must be made in Welsh first. |
 
-### PART 2 — STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS[^key-d0f1759eb2dec072517c19bfb8dc86ec]
+### PART 2 — STANDARDS THAT ARE RELIANT ON OTHER STANDARDS – SPECIAL CONDITIONS[^c-d0f1759eb2dec072517c19bfb8dc86ec]
 
 |  |  |
 | --- | --- |
@@ -544,7 +544,7 @@ TABLE 1
 </tbody>
 </table>
 
-### PART 3 — INTERPRETING THE STANDARDS[^key-0e5032a1bbcfef68ba80c91dfa66eb7d]
+### PART 3 — INTERPRETING THE STANDARDS[^c-0e5032a1bbcfef68ba80c91dfa66eb7d]
 
 |  |  |
 | --- | --- |
@@ -564,7 +564,7 @@ TABLE 1
 
 Regulation 2(4)
 
-### PART 1 — THE STANDARDS[^key-165079e9f39831cee83af8ef5a84a4a2]
+### PART 1 — THE STANDARDS[^c-165079e9f39831cee83af8ef5a84a4a2]
 
 |  |  |
 | --- | --- |
@@ -573,7 +573,7 @@ Regulation 2(4)
 | **Standard 116:** | You must keep a record (following assessments of your employees’ Welsh language skills made in accordance with standard 96), of the number of employees who have Welsh language skills at the end of each financial year and, where you have that information, you must keep a record of the skill level of those employees. |
 | **Standard 117:** | You must keep a record, in relation to each financial year, of the number of new and vacant posts which were categorised (in accordance with standard 106) as posts where—<br>- (a) Welsh language skills are essential;<br>- (b) Welsh language skills need to be learnt when appointed to the post;<br>- (c) Welsh language skills are desirable; or<br>- (ch) Welsh language skills are not necessary. |
 
-### PART 2 — INTERPRETING THE STANDARDS[^key-f3125038e52cbe645bb4c1906554b995]
+### PART 2 — INTERPRETING THE STANDARDS[^c-f3125038e52cbe645bb4c1906554b995]
 
 |  |  |
 | --- | --- |
@@ -584,7 +584,7 @@ Regulation 2(4)
 
 Regulation 2(5)
 
-### PART 1 — STANDARDS[^key-f7a339e2d57e90ec01dddaea28db4416]
+### PART 1 — STANDARDS[^c-f7a339e2d57e90ec01dddaea28db4416]
 
 |  |  |
 | --- | --- |
@@ -597,7 +597,7 @@ Regulation 2(5)
 | **4** | **A body providing information to the Welsh Language Commissioner** |
 | **Standard 121:** | You must provide the Welsh Language Commissioner (if requested by the Commissioner) with any information which relates to your compliance with the service delivery standards, the policy making standards or the operational standards with which you are under a duty to comply. |
 
-### PART 2 — INTERPRETING THE STANDARDS[^key-e5750da6f888afbaadd4ae99f71be86f]
+### PART 2 — INTERPRETING THE STANDARDS[^c-e5750da6f888afbaadd4ae99f71be86f]
 
 |  |  |
 | --- | --- |
@@ -605,21 +605,21 @@ Regulation 2(5)
 | **6** | For the purpose of standard 120, “financial year” means the body’s own financial year. |
 | **7** | For the purpose of the standards a requirement to produce or publish any written material in Welsh does not mean that material should be produced or published in Welsh only, nor does it mean that the material should be produced in Welsh first (unless that is specifically stated in the standard). |
 
-## SCHEDULE 6[^key-c1615f7b25b8ee195b5d1bd12d65f792]
+## SCHEDULE 6[^c-c1615f7b25b8ee195b5d1bd12d65f792]
 
 Regulation 3
 
-[^key-c1615f7b25b8ee195b5d1bd12d65f792][^key-702759a881769127ebf1616c7f85839f]...
+[^c-c1615f7b25b8ee195b5d1bd12d65f792][^c-702759a881769127ebf1616c7f85839f]...
 
-[^key-c1615f7b25b8ee195b5d1bd12d65f792][^key-d62c71bf2aa169c8683651f91176464d]...
+[^c-c1615f7b25b8ee195b5d1bd12d65f792][^c-d62c71bf2aa169c8683651f91176464d]...
 
-the Citizen Voice Body for Health and Social Care, Wales (“[^key-f9c217800ececb03aff6a028abb949f3]*Corff Llais y Dinesydd ar gyfer Iechyd a Gofal Cymdeithasol, Cymru*”)
+the Citizen Voice Body for Health and Social Care, Wales (“[^c-f9c217800ececb03aff6a028abb949f3]*Corff Llais y Dinesydd ar gyfer Iechyd a Gofal Cymdeithasol, Cymru*”)
 
-[^key-c1615f7b25b8ee195b5d1bd12d65f792]Local Health Boards (“*Byrddau Iechyd Lleol*”)
+[^c-c1615f7b25b8ee195b5d1bd12d65f792]Local Health Boards (“*Byrddau Iechyd Lleol*”)
 
-[^key-c1615f7b25b8ee195b5d1bd12d65f792]National Health Service Trusts in Wales (“Ymddiriedolaethau Gwasanaeth Iechyd Gwladol yng Nghymru”)
+[^c-c1615f7b25b8ee195b5d1bd12d65f792]National Health Service Trusts in Wales (“Ymddiriedolaethau Gwasanaeth Iechyd Gwladol yng Nghymru”)
 
-Special Health Authorities[^key-1277cf1983ddc446dc95b6199fc7dd99] *(*“*Awdurdodau Iechyd Arbennig*”*)*
+Special Health Authorities[^c-1277cf1983ddc446dc95b6199fc7dd99] *(*“*Awdurdodau Iechyd Arbennig*”*)*
 
 EXPLANATORY NOTE
 
@@ -674,7 +674,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2011 nawm 1](https://www.legislation.gov.uk/mwa/2011/1).
 
-[^key-d221b34eb9818a1156c973210df076f0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2018/441/regulation/1) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-d221b34eb9818a1156c973210df076f0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2018/441/regulation/1) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
 [^f00002]: Footnote: [2016 anaw 2](https://www.legislation.gov.uk/anaw/2016/2).
 
@@ -682,27 +682,27 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-17ee12b64727c0ece877d510f092b54d]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/4) substituted (28.3.2025) by [The Welsh Language Standards (No. 1, No. 2, No. 4, No. 6 and No. 7) Regulations (Amendment) Regulations 2025 (S.I. 2025/339)](https://www.legislation.gov.uk/wsi/2025/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/339/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/wsi/2025/339/regulation/6/1/a)
+[^c-17ee12b64727c0ece877d510f092b54d]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/4) substituted (28.3.2025) by [The Welsh Language Standards (No. 1, No. 2, No. 4, No. 6 and No. 7) Regulations (Amendment) Regulations 2025 (S.I. 2025/339)](https://www.legislation.gov.uk/wsi/2025/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/339/regulation/1/2), [6(1)(a)](https://www.legislation.gov.uk/wsi/2025/339/regulation/6/1/a)
 
-[^key-cb56ac0ce6f5cd5c7312713bbfc2c5f2]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/4) substituted (28.3.2025) by [The Welsh Language Standards (No. 1, No. 2, No. 4, No. 6 and No. 7) Regulations (Amendment) Regulations 2025 (S.I. 2025/339)](https://www.legislation.gov.uk/wsi/2025/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/339/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/wsi/2025/339/regulation/6/1/b)
+[^c-cb56ac0ce6f5cd5c7312713bbfc2c5f2]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/4) substituted (28.3.2025) by [The Welsh Language Standards (No. 1, No. 2, No. 4, No. 6 and No. 7) Regulations (Amendment) Regulations 2025 (S.I. 2025/339)](https://www.legislation.gov.uk/wsi/2025/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/339/regulation/1/2), [6(1)(b)](https://www.legislation.gov.uk/wsi/2025/339/regulation/6/1/b)
 
-[^key-5a3aec954ce41a44ffb8bdee2695d47d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2018/441/regulation/2) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-5a3aec954ce41a44ffb8bdee2695d47d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2018/441/regulation/2) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-4a94bc66d36bf7f2793698322cfd69c9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2018/441/regulation/3) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-4a94bc66d36bf7f2793698322cfd69c9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2018/441/regulation/3) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-7ed23f08d580f0ce9c1fd8aa4c022eaf]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/wsi/2018/441/regulation/3/2/b) substituted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 16(2)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/16/2); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-7ed23f08d580f0ce9c1fd8aa4c022eaf]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/wsi/2018/441/regulation/3/2/b) substituted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 16(2)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/16/2); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-28f77929a496100146db73ea1f492ff5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2018/441/regulation/4) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-28f77929a496100146db73ea1f492ff5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2018/441/regulation/4) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2016/405 (W. 125)](https://www.legislation.gov.uk/wsi/2016/405).
 
 [^f00006]: Footnote: *See* section 67 of the Regulation and Inspection of Social Care (Wales) Act [2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2) which continued the Care Council for Wales in existence, but renamed it as Social Care Wales.
 
-[^key-ee21a61278b2ad1a8e3e483301b6b02b]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/wsi/2018/441/schedule/1/part/1) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-ee21a61278b2ad1a8e3e483301b6b02b]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/wsi/2018/441/schedule/1/part/1) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-ddbd806110b797b98888e9f61febcfff]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/wsi/2018/441/schedule/1/part/2) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-ddbd806110b797b98888e9f61febcfff]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/wsi/2018/441/schedule/1/part/2) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-c825bd8ebdaf2804730da794104c0bca]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/wsi/2018/441/schedule/1/part/3) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-c825bd8ebdaf2804730da794104c0bca]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/wsi/2018/441/schedule/1/part/3) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
 [^f00007]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38).
 
@@ -714,36 +714,36 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00011]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-43bc26032d3327659866fa1e59c4cb80]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2018/441/schedule/2/part/1) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-43bc26032d3327659866fa1e59c4cb80]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2018/441/schedule/2/part/1) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-ed09b319a11f8c024e8f627547c0a4f3]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2018/441/schedule/2/part/2) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-ed09b319a11f8c024e8f627547c0a4f3]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2018/441/schedule/2/part/2) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-333f87a099719eecc63e70f47ab5bb80]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/wsi/2018/441/schedule/2/part/3) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-333f87a099719eecc63e70f47ab5bb80]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/wsi/2018/441/schedule/2/part/3) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-080df2323f3eb77c91d6447e315ecb6d]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2018/441/schedule/3/part/1) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-080df2323f3eb77c91d6447e315ecb6d]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2018/441/schedule/3/part/1) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-d0f1759eb2dec072517c19bfb8dc86ec]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/wsi/2018/441/schedule/3/part/2) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-d0f1759eb2dec072517c19bfb8dc86ec]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/wsi/2018/441/schedule/3/part/2) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-0e5032a1bbcfef68ba80c91dfa66eb7d]: Commencement: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/wsi/2018/441/schedule/3/part/3) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-0e5032a1bbcfef68ba80c91dfa66eb7d]: Commencement: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/wsi/2018/441/schedule/3/part/3) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
 [^f00012]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38).
 
 [^f00013]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-165079e9f39831cee83af8ef5a84a4a2]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/wsi/2018/441/schedule/4/part/1) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-165079e9f39831cee83af8ef5a84a4a2]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/wsi/2018/441/schedule/4/part/1) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-f3125038e52cbe645bb4c1906554b995]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/wsi/2018/441/schedule/4/part/2) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-f3125038e52cbe645bb4c1906554b995]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/wsi/2018/441/schedule/4/part/2) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-f7a339e2d57e90ec01dddaea28db4416]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/wsi/2018/441/schedule/5/part/1) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-f7a339e2d57e90ec01dddaea28db4416]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/wsi/2018/441/schedule/5/part/1) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-e5750da6f888afbaadd4ae99f71be86f]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/wsi/2018/441/schedule/5/part/2) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-e5750da6f888afbaadd4ae99f71be86f]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/wsi/2018/441/schedule/5/part/2) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-c1615f7b25b8ee195b5d1bd12d65f792]: Commencement: [Sch. 6](https://www.legislation.gov.uk/wsi/2018/441/schedule/6) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
+[^c-c1615f7b25b8ee195b5d1bd12d65f792]: Commencement: [Sch. 6](https://www.legislation.gov.uk/wsi/2018/441/schedule/6) in force at 29.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/441/regulation/1/2)
 
-[^key-702759a881769127ebf1616c7f85839f]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2018/441/schedule/6) entry omitted (1.4.2023) by virtue of [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 16(3)(a)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/16/3/a); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-702759a881769127ebf1616c7f85839f]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2018/441/schedule/6) entry omitted (1.4.2023) by virtue of [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 16(3)(a)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/16/3/a); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-d62c71bf2aa169c8683651f91176464d]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2018/441/schedule/6) entry omitted (1.4.2023) by virtue of [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 16(3)(b)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/16/3/b); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-d62c71bf2aa169c8683651f91176464d]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2018/441/schedule/6) entry omitted (1.4.2023) by virtue of [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 16(3)(b)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/16/3/b); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-f9c217800ececb03aff6a028abb949f3]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2018/441/schedule/6) entry inserted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 16(3)(c)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/16/3/c); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-f9c217800ececb03aff6a028abb949f3]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2018/441/schedule/6) entry inserted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 16(3)(c)](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/16/3/c); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-1277cf1983ddc446dc95b6199fc7dd99]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/wsi/2018/441/schedule/6) inserted (28.3.2025) by [The Welsh Language Standards (No. 1, No. 2, No. 4, No. 6 and No. 7) Regulations (Amendment) Regulations 2025 (S.I. 2025/339)](https://www.legislation.gov.uk/wsi/2025/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/339/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2025/339/regulation/6/2)
+[^c-1277cf1983ddc446dc95b6199fc7dd99]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/wsi/2018/441/schedule/6) inserted (28.3.2025) by [The Welsh Language Standards (No. 1, No. 2, No. 4, No. 6 and No. 7) Regulations (Amendment) Regulations 2025 (S.I. 2025/339)](https://www.legislation.gov.uk/wsi/2025/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/339/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2025/339/regulation/6/2)

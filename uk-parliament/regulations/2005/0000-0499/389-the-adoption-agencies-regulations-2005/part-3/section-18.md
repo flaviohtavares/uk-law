@@ -22,7 +22,7 @@ summary: ''
 
 (1) The adoption panel must consider the case of every child referred to it by the adoption agency and make a recommendation to the agency as to whether the child should be placed for adoption.
 
-(2) In considering what recommendation to make the adoption panel must have regard to the duties imposed on the adoption agency under section 1(2), (4)[^key-29dce56481654b1ccd5e4841c1178c09]... and (6) of the Act (considerations applying to the exercise of powers in relation to the adoption of a child) and—
+(2) In considering what recommendation to make the adoption panel must have regard to the duties imposed on the adoption agency under section 1(2), (4)[^c-29dce56481654b1ccd5e4841c1178c09]... and (6) of the Act (considerations applying to the exercise of powers in relation to the adoption of a child) and—
 
 - (a) must consider and take into account the reports and any other information passed to it in accordance with regulation 17;
 - (b) may request the agency to obtain any other relevant information which the panel considers necessary; and
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29dce56481654b1ccd5e4841c1178c09]: Textual amendment: Words in reg. 18(2) omitted (25.7.2014) by virtue of [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1556)](https://www.legislation.gov.uk/uksi/2014/1556), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1556/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/1556/regulation/7)
+[^c-29dce56481654b1ccd5e4841c1178c09]: Textual amendment: Words in reg. 18(2) omitted (25.7.2014) by virtue of [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1556)](https://www.legislation.gov.uk/uksi/2014/1556), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1556/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/1556/regulation/7)

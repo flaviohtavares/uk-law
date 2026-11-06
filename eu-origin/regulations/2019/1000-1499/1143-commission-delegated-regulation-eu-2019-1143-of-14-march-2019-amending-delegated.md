@@ -92,7 +92,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 2.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-47b4129d5b9d6825b1c685032e0637af]...
+[^c-47b4129d5b9d6825b1c685032e0637af]...
 
 Done at Brussels, 14 March 2019.
 
@@ -358,6 +358,6 @@ Annex B to Delegated Regulation (EU) 2015/2446 is amended as follows:
 
 [^f00008]: Footnote: Council Directive (EU) 2017/2455 of 5 December 2017 amending Directive 2006/112/EC and Directive 2009/132/EC as regards certain value added tax obligations for supplies of services and distance sales of goods ([OJ L 348, 29.12.2017, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.348.01.0007.01.ENG)).’;
 
-[^key-47b4129d5b9d6825b1c685032e0637af]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/1143/signature) omitted (31.12.2020) by virtue of S.I. 2019/715, reg. 7(1)(d) (as inserted by [The Customs Safety, Security and Economic Operators Registration and Identification (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1379)](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/6/b))
+[^c-47b4129d5b9d6825b1c685032e0637af]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/1143/signature) omitted (31.12.2020) by virtue of S.I. 2019/715, reg. 7(1)(d) (as inserted by [The Customs Safety, Security and Economic Operators Registration and Identification (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1379)](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/6/b))
 
 [^f00009]: Footnote: Council Directive 2006/79/EC of 5 October 2006 on the exemption from taxes of imports of small consignments of goods of a non-commercial character from third countries ([OJ L 286, 17.10.2006, p. 15-18](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.286.01.0015.01.ENG)).’;

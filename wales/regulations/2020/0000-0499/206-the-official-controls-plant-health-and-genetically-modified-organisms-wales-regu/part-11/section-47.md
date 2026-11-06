@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Offences by partnerships and unincorporated associations[^key-f410ec5548f590b39945d8516f0473da]
+## 47. Offences by partnerships and unincorporated associations[^c-f410ec5548f590b39945d8516f0473da]
 
 *Extent: E+W*
 
-(1) Proceedings for an offence under this Part or paragraph 22 of Schedule 4A (failure to comply with a stop notice)[^key-b489769541858cad0b319e3397d89c53] alleged to have been committed by a partnership or an unincorporated association must be brought against the partnership or association in the name of the partnership or association.
+(1) Proceedings for an offence under this Part or paragraph 22 of Schedule 4A (failure to comply with a stop notice)[^c-b489769541858cad0b319e3397d89c53] alleged to have been committed by a partnership or an unincorporated association must be brought against the partnership or association in the name of the partnership or association.
 
 (2) For the purposes of such proceedings—
 
@@ -52,9 +52,9 @@ the officer, as well as the association, is guilty of the offence and liable to 
 
 ## Annotations
 
-[^key-f410ec5548f590b39945d8516f0473da]: Commencement: Reg. 47 in force at 27.3.2020, see reg. 1
+[^c-f410ec5548f590b39945d8516f0473da]: Commencement: Reg. 47 in force at 27.3.2020, see reg. 1
 
-[^key-b489769541858cad0b319e3397d89c53]: Textual amendment: Words in reg. 47(1) inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(7)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/7)
+[^c-b489769541858cad0b319e3397d89c53]: Textual amendment: Words in reg. 47(1) inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(7)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/7)
 
 [^c23987441]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86); section 33 was repealed in part by Schedule 6 to the [Magistrates Courts Act 1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), and amended by paragraph 19 of Schedule 8 to the [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23) and paragraph 71 of Schedule 8, and Schedule 10, to the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) (subject to savings specified in [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066)).
 

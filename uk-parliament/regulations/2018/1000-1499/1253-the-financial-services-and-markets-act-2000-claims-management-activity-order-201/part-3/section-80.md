@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Temporary permission[^key-016af50271792ad52fb311f7e5bd8a10][^key-6e4d01620206fd235f3675fd01588b9b]
+## 80. Temporary permission[^c-016af50271792ad52fb311f7e5bd8a10][^c-6e4d01620206fd235f3675fd01588b9b]
 
 *Extent: E+W+S*
 
@@ -88,9 +88,9 @@ P’s temporary permission is to be treated as if its suspension by virtue of pa
 
 ## Annotations
 
-[^key-016af50271792ad52fb311f7e5bd8a10]: Commencement: Art. 80 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-016af50271792ad52fb311f7e5bd8a10]: Commencement: Art. 80 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-6e4d01620206fd235f3675fd01588b9b]: Commencement: [Art. 80](https://www.legislation.gov.uk/uksi/2018/1253/article/80) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-6e4d01620206fd235f3675fd01588b9b]: Commencement: [Art. 80](https://www.legislation.gov.uk/uksi/2018/1253/article/80) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00114]: Footnote: Section 13 was amended by the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33) and by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 

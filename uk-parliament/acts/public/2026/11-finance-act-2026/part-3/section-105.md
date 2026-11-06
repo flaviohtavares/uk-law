@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Chemical recycling: mass balance approach[^key-a5bad722e11d9108063b16b08a9ab9b9]
+## 105. Chemical recycling: mass balance approach[^c-a5bad722e11d9108063b16b08a9ab9b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -118,4 +118,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5bad722e11d9108063b16b08a9ab9b9]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2026/11/section/105) in force at Royal Assent for specified purposes and 1.4.2027 in so far as not already in force, see [s. 107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)
+[^c-a5bad722e11d9108063b16b08a9ab9b9]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2026/11/section/105) in force at Royal Assent for specified purposes and 1.4.2027 in so far as not already in force, see [s. 107](https://www.legislation.gov.uk/ukpga/2026/11/section/107)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Admission and rejection of proof (creditors’ meetings)[^key-185aae357d4654a0d5ad4066d3809009]
+## 56. Admission and rejection of proof (creditors’ meetings)[^c-185aae357d4654a0d5ad4066d3809009]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Apply rule 4.70 of the 1986 Rules. For paragraph (5) substitute—
 
 ## Annotations
 
-[^key-185aae357d4654a0d5ad4066d3809009]: Commencement: Rule 56 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-185aae357d4654a0d5ad4066d3809009]: Commencement: Rule 56 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

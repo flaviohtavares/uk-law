@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Summary proceedings for statutory nuisances[^key-101b00ced9113db4a90c535d0c49c89c][^key-2322b098bfeac820dc8fdc0b01bc8814]
+## 65. Summary proceedings for statutory nuisances[^c-101b00ced9113db4a90c535d0c49c89c][^c-2322b098bfeac820dc8fdc0b01bc8814]
 
 *Extent: N.I.*
 
@@ -88,6 +88,6 @@ and the notice shall specify the time or times within which the requirements of 
 
 ## Annotations
 
-[^key-101b00ced9113db4a90c535d0c49c89c]: Commencement: [S. 65](https://www.legislation.gov.uk/nia/2011/23/section/65) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-101b00ced9113db4a90c535d0c49c89c]: Commencement: [S. 65](https://www.legislation.gov.uk/nia/2011/23/section/65) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-2322b098bfeac820dc8fdc0b01bc8814]: Commencement: [S. 65](https://www.legislation.gov.uk/nia/2011/23/section/65) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-2322b098bfeac820dc8fdc0b01bc8814]: Commencement: [S. 65](https://www.legislation.gov.uk/nia/2011/23/section/65) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

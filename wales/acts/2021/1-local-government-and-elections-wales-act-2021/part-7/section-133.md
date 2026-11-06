@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Restructuring regulations which constitute a new principal area[^key-fbc258975a185eb20f93a12fc0d76089]
+## 133. Restructuring regulations which constitute a new principal area[^c-fbc258975a185eb20f93a12fc0d76089]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbc258975a185eb20f93a12fc0d76089]: Commencement: S. 133 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
+[^c-fbc258975a185eb20f93a12fc0d76089]: Commencement: S. 133 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)

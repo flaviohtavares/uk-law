@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — FORMS[^key-83f239ab7ba1d9e45cc0f9b7e86d3080][^M_X_7e44b47c-ede5-4005-a384-09c755d9f187][^M_F_a1910048-bad4-4eae-f1b4-1d6e4b9950d2][^M_F_f7844006-4172-4dfb-b322-a92ace2398b0][^M_F_ffb53abe-2af7-4e42-8d6c-d636634b6520][^M_F_8aae19d9-8cdd-493a-ae6a-d344d04a9f51][^key-75727f700e34408afb0bfbcec0330194][^key-e1ba416065f2adb87831c4a4771a538c][^key-3926b534e9e3fa6420f3ee892526ec21][^key-da8f8925b07122bb3094e99bfbe43212][^key-2225bdb2465dddb1c1d5dd7f9547eddf][^key-c272b955597ef89ede457a2ca111fca5][^key-f7db3a8ea82622a0a7532391f58a23a6][^M_F_2478f57c-42cd-4692-bd7c-9ed6412ee361][^key-591de24f892abe8dbeeccd1deb8f92ac][^key-e7ba4c6b5ebf75529689ac8e3ee1475a][^key-80c0fd58c4e8e5603e2dfd39eda74493][^key-4d58bf1cfe6527ffe8be8af8c02b421b][^key-8eb174c48d308dddcce8db9475645857][^key-4593714c4de55ecea6cb6cbef4af63aa][^key-7d49ad17cf39e44e29ad490f5c559201][^key-9ad271a50f359f8a9eb08ba1bddcf6fa][^key-7c5ed39c93697d8e08541598e3de42d5][^key-b590f1bae5ca1ad6ae150bb38f7ea5d0][^key-27f70decba13a9712880da08b04c5103][^key-e2bb4f7888dae8c05ed0f1032e4b1540][^key-147709f6c062be8ebe9f76f41588e843][^key-157eb8bde4dbfbe8c5d9d2c742cb35d2][^key-baa99fa438a983c84323f765638b17de]
+## SCHEDULE 4 — FORMS[^c-83f239ab7ba1d9e45cc0f9b7e86d3080][^M_X_7e44b47c-ede5-4005-a384-09c755d9f187][^M_F_a1910048-bad4-4eae-f1b4-1d6e4b9950d2][^M_F_f7844006-4172-4dfb-b322-a92ace2398b0][^M_F_ffb53abe-2af7-4e42-8d6c-d636634b6520][^M_F_8aae19d9-8cdd-493a-ae6a-d344d04a9f51][^c-75727f700e34408afb0bfbcec0330194][^c-e1ba416065f2adb87831c4a4771a538c][^c-3926b534e9e3fa6420f3ee892526ec21][^c-da8f8925b07122bb3094e99bfbe43212][^c-2225bdb2465dddb1c1d5dd7f9547eddf][^c-c272b955597ef89ede457a2ca111fca5][^c-f7db3a8ea82622a0a7532391f58a23a6][^M_F_2478f57c-42cd-4692-bd7c-9ed6412ee361][^c-591de24f892abe8dbeeccd1deb8f92ac][^c-e7ba4c6b5ebf75529689ac8e3ee1475a][^c-80c0fd58c4e8e5603e2dfd39eda74493][^c-4d58bf1cfe6527ffe8be8af8c02b421b][^c-8eb174c48d308dddcce8db9475645857][^c-4593714c4de55ecea6cb6cbef4af63aa][^c-7d49ad17cf39e44e29ad490f5c559201][^c-9ad271a50f359f8a9eb08ba1bddcf6fa][^c-7c5ed39c93697d8e08541598e3de42d5][^c-b590f1bae5ca1ad6ae150bb38f7ea5d0][^c-27f70decba13a9712880da08b04c5103][^c-e2bb4f7888dae8c05ed0f1032e4b1540][^c-147709f6c062be8ebe9f76f41588e843][^c-157eb8bde4dbfbe8c5d9d2c742cb35d2][^c-baa99fa438a983c84323f765638b17de]
 
 *Extent: E+W*
 
 Rule 12.7
 
-[^key-94fde4694c1d6b195fa93cfdf54d1851][^key-f51a45547a16633aec7ad14a61444623][^key-68c50e0a26e7161431a972829cfca53b][^key-b18ea2870f85fe0cd029d24db6e362b1]Index
+[^c-94fde4694c1d6b195fa93cfdf54d1851][^c-f51a45547a16633aec7ad14a61444623][^c-68c50e0a26e7161431a972829cfca53b][^c-b18ea2870f85fe0cd029d24db6e362b1]Index
 
 <table>
 <thead>
@@ -52,7 +52,7 @@ Rule 12.7
 </tbody>
 </table>
 
-[^key-43f2db5f76347bf6ff4d97a66871a329]
+[^c-43f2db5f76347bf6ff4d97a66871a329]
 
 <table>
 <thead>
@@ -102,7 +102,7 @@ Rule 12.7
 </tbody>
 </table>
 
-[^key-1691f29dea6861ded5034540dbc2278a]
+[^c-1691f29dea6861ded5034540dbc2278a]
 
 <table>
 <thead>
@@ -124,7 +124,7 @@ Rule 12.7
 </tbody>
 </table>
 
-[^key-5f1d51aef9f20be09e2f3a8978aef3db][^key-e4f615699cf32ce1014d3f2cd3a75c99]
+[^c-5f1d51aef9f20be09e2f3a8978aef3db][^c-e4f615699cf32ce1014d3f2cd3a75c99]
 
 <table>
 <thead>
@@ -207,7 +207,7 @@ Rule 12.7
 </tbody>
 </table>
 
-[^key-a2aadd90d9f45cdb83b496dc2ab7ad54][^key-834efcb3bf967cb2049347817e161ade]
+[^c-a2aadd90d9f45cdb83b496dc2ab7ad54][^c-834efcb3bf967cb2049347817e161ade]
 
 <table>
 <thead>
@@ -222,7 +222,7 @@ Rule 12.7
 </tbody>
 </table>
 
-[^key-43883e3dba9b987519e91768d06a5825]
+[^c-43883e3dba9b987519e91768d06a5825]
 
 <table>
 <thead>
@@ -343,7 +343,7 @@ Rule 12.7
 </tbody>
 </table>
 
-[^key-8e9ab3b30e416c99b327eaa53bceaa6e][^key-8e9ab3b30e416c99b327eaa53bceaa6e][^key-4d90ebe2bed0ed1294dc44d2e2a73b44]
+[^c-8e9ab3b30e416c99b327eaa53bceaa6e][^c-8e9ab3b30e416c99b327eaa53bceaa6e][^c-4d90ebe2bed0ed1294dc44d2e2a73b44]
 
 <table>
 <thead>
@@ -376,7 +376,7 @@ Rule 12.7
 </tbody>
 </table>
 
-[^key-094f7b19ba74af2d7278d5b43a2c1dc1]
+[^c-094f7b19ba74af2d7278d5b43a2c1dc1]
 
 Form 1.1
 
@@ -2064,7 +2064,7 @@ Rule 9.1
 
 ## Annotations
 
-[^key-83f239ab7ba1d9e45cc0f9b7e86d3080]: Commencement: Sch. 4 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-83f239ab7ba1d9e45cc0f9b7e86d3080]: Commencement: Sch. 4 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^M_X_7e44b47c-ede5-4005-a384-09c755d9f187]: Editorial: Editorial note: The forms shown in Sch. 4 are the original forms. Any amendments to or substitutions or revocations of those forms are recorded by means of an annotation at Sch. 4 heading level, but are not reflected in actual changes to the forms themselves. These Rules are revoked and superseded for most purposes on 6.4.2017 by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024). The new Rules remove the requirement for individuals to use prescribed forms for insolvency processes, instead they allow for documents to be submitted in any form, as long as the content is compliant with [S.I. 2016/1024](https://www.legislation.gov.uk/uksi/2016/1024), [Pt. 1](https://www.legislation.gov.uk/uksi/2016/1024/part/1). The forms in Sch. 4 are therefore considered to be of historical interest only.
 
@@ -2076,76 +2076,76 @@ Rule 9.1
 
 [^M_F_8aae19d9-8cdd-493a-ae6a-d344d04a9f51]: Textual amendment: Sch. 4: Form 7.16 omitted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 159](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/159)
 
-[^key-75727f700e34408afb0bfbcec0330194]: Textual amendment: Sch. 4 Forms 4.71, 4.72: word substituted (2.4.1991) by [The Insolvency (Amendment) Rules 1991 (S.I. 1991/495)](https://www.legislation.gov.uk/uksi/1991/495), [rule 1](https://www.legislation.gov.uk/uksi/1991/495/rule/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/1991/495/schedule/paragraph/5)
+[^c-75727f700e34408afb0bfbcec0330194]: Textual amendment: Sch. 4 Forms 4.71, 4.72: word substituted (2.4.1991) by [The Insolvency (Amendment) Rules 1991 (S.I. 1991/495)](https://www.legislation.gov.uk/uksi/1991/495), [rule 1](https://www.legislation.gov.uk/uksi/1991/495/rule/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/1991/495/schedule/paragraph/5)
 
-[^key-e1ba416065f2adb87831c4a4771a538c]: Textual amendment: Sch. 4 Forms 6.71, 6.76, 6.77: word omitted (2.4.1991) by virtue of [The Insolvency (Amendment) Rules 1991 (S.I. 1991/495)](https://www.legislation.gov.uk/uksi/1991/495), [rule 1](https://www.legislation.gov.uk/uksi/1991/495/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/1991/495/schedule/paragraph/6)
+[^c-e1ba416065f2adb87831c4a4771a538c]: Textual amendment: Sch. 4 Forms 6.71, 6.76, 6.77: word omitted (2.4.1991) by virtue of [The Insolvency (Amendment) Rules 1991 (S.I. 1991/495)](https://www.legislation.gov.uk/uksi/1991/495), [rule 1](https://www.legislation.gov.uk/uksi/1991/495/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/1991/495/schedule/paragraph/6)
 
-[^key-3926b534e9e3fa6420f3ee892526ec21]: Textual amendment: Sch. 4 Form 6.80: words substituted (26.3.2001) by [The Postal Services Act 2000 (Consequential Modifications No. 1) Order 2001 (S.I. 2001/1149)](https://www.legislation.gov.uk/uksi/2001/1149), [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2), [Sch. 1 para. 70](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/70/a)
+[^c-3926b534e9e3fa6420f3ee892526ec21]: Textual amendment: Sch. 4 Form 6.80: words substituted (26.3.2001) by [The Postal Services Act 2000 (Consequential Modifications No. 1) Order 2001 (S.I. 2001/1149)](https://www.legislation.gov.uk/uksi/2001/1149), [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2), [Sch. 1 para. 70](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/70/a)
 
-[^key-da8f8925b07122bb3094e99bfbe43212]: Textual amendment: Sch. 4 Form 7.20 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rule 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1307/schedule/part/1) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
+[^c-da8f8925b07122bb3094e99bfbe43212]: Textual amendment: Sch. 4 Form 7.20 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rule 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1307/schedule/part/1) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
 
-[^key-2225bdb2465dddb1c1d5dd7f9547eddf]: Textual amendment: Sch. 4 Forms 2.1, 2.4, 4.2, 4.11, 4.12, 4.14, 4.15, 4.25, 6.7, 6.8, 6.9, 6.10, 6.25, 6.27, 6.30, 6.32, 6.37 substituted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rule 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2002/1307/schedule/part/2) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
+[^c-2225bdb2465dddb1c1d5dd7f9547eddf]: Textual amendment: Sch. 4 Forms 2.1, 2.4, 4.2, 4.11, 4.12, 4.14, 4.15, 4.25, 6.7, 6.8, 6.9, 6.10, 6.25, 6.27, 6.30, 6.32, 6.37 substituted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rule 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2002/1307/schedule/part/2) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
 
-[^key-c272b955597ef89ede457a2ca111fca5]: Textual amendment: Sch. 4 Forms 1.1-1.19 substituted for Sch. 4 Forms 1.1-1.4 (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/6) (with [rule 8(3)(4)](https://www.legislation.gov.uk/uksi/2002/2712/rule/8/3/4))
+[^c-c272b955597ef89ede457a2ca111fca5]: Textual amendment: Sch. 4 Forms 1.1-1.19 substituted for Sch. 4 Forms 1.1-1.4 (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/6) (with [rule 8(3)(4)](https://www.legislation.gov.uk/uksi/2002/2712/rule/8/3/4))
 
-[^key-f7db3a8ea82622a0a7532391f58a23a6]: Textual amendment: Sch. 4 Forms 5.2, 5.3 substituted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/6) (with [rule 8(3)(4)](https://www.legislation.gov.uk/uksi/2002/2712/rule/8/3/4))
+[^c-f7db3a8ea82622a0a7532391f58a23a6]: Textual amendment: Sch. 4 Forms 5.2, 5.3 substituted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/6) (with [rule 8(3)(4)](https://www.legislation.gov.uk/uksi/2002/2712/rule/8/3/4))
 
 [^M_F_2478f57c-42cd-4692-bd7c-9ed6412ee361]: Textual amendment: Sch. 4 Form 5.5 inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/6) (with [rule 8(3)(4)](https://www.legislation.gov.uk/uksi/2002/2712/rule/8/3/4))
 
-[^key-591de24f892abe8dbeeccd1deb8f92ac]: Textual amendment: Sch. 4 Forms 3.2, 4.12, 4.17, 4.18, 4.19, 4.52, 5.2, 6.1, 6.2, 6.3, 6.25 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 2 Pt. C](https://www.legislation.gov.uk/uksi/2003/1730/schedule/2)
+[^c-591de24f892abe8dbeeccd1deb8f92ac]: Textual amendment: Sch. 4 Forms 3.2, 4.12, 4.17, 4.18, 4.19, 4.52, 5.2, 6.1, 6.2, 6.3, 6.25 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 2 Pt. C](https://www.legislation.gov.uk/uksi/2003/1730/schedule/2)
 
-[^key-e7ba4c6b5ebf75529689ac8e3ee1475a]: Textual amendment: Sch. 4 Form 12.1 inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 2 Pt. B](https://www.legislation.gov.uk/uksi/2003/1730/schedule/2)
+[^c-e7ba4c6b5ebf75529689ac8e3ee1475a]: Textual amendment: Sch. 4 Form 12.1 inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 2 Pt. B](https://www.legislation.gov.uk/uksi/2003/1730/schedule/2)
 
-[^key-80c0fd58c4e8e5603e2dfd39eda74493]: Textual amendment: Sch. 4 Forms 2.1B-2.40B substituted for Forms 2.1- 2.23 (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 2 Pt. A](https://www.legislation.gov.uk/uksi/2003/1730/schedule/2) (with [rule 14(3)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/3))
+[^c-80c0fd58c4e8e5603e2dfd39eda74493]: Textual amendment: Sch. 4 Forms 2.1B-2.40B substituted for Forms 2.1- 2.23 (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 2 Pt. A](https://www.legislation.gov.uk/uksi/2003/1730/schedule/2) (with [rule 14(3)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/3))
 
-[^key-4d58bf1cfe6527ffe8be8af8c02b421b]: Textual amendment: Sch. 4: Forms 2.8B, 2.9B, 2.11B, 2.25B, 4.25, 5.7, 5.8, 6.28, 6.37, 6.71, 6.79A, 6.82, 6.84 substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rule 1(2)](https://www.legislation.gov.uk/uksi/2004/584/rule/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/584/schedule)
+[^c-4d58bf1cfe6527ffe8be8af8c02b421b]: Textual amendment: Sch. 4: Forms 2.8B, 2.9B, 2.11B, 2.25B, 4.25, 5.7, 5.8, 6.28, 6.37, 6.71, 6.79A, 6.82, 6.84 substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rule 1(2)](https://www.legislation.gov.uk/uksi/2004/584/rule/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/584/schedule)
 
-[^key-8eb174c48d308dddcce8db9475645857]: Textual amendment: Sch. 4 Forms 5.6, 5.7, 5.8, 6.81, 6.82, 6.83, 6.84 inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/3), [Sch. 2 Pt. B](https://www.legislation.gov.uk/uksi/2003/1730/schedule/2)
+[^c-8eb174c48d308dddcce8db9475645857]: Textual amendment: Sch. 4 Forms 5.6, 5.7, 5.8, 6.81, 6.82, 6.83, 6.84 inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/3), [Sch. 2 Pt. B](https://www.legislation.gov.uk/uksi/2003/1730/schedule/2)
 
-[^key-4593714c4de55ecea6cb6cbef4af63aa]: Textual amendment: Sch. 4 Forms 5.4, 6.30, 6.72, 6.73, 79A substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 2 Pt. C](https://www.legislation.gov.uk/uksi/2003/1730/schedule/2/part/C)
+[^c-4593714c4de55ecea6cb6cbef4af63aa]: Textual amendment: Sch. 4 Forms 5.4, 6.30, 6.72, 6.73, 79A substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 2 Pt. C](https://www.legislation.gov.uk/uksi/2003/1730/schedule/2/part/C)
 
-[^key-7d49ad17cf39e44e29ad490f5c559201]: Textual amendment: Sch. 4 Form 6.31 omitted (1.4.2004) by virtue of [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rules 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/3), [14(2)(d)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/2/d) (with [rule14(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/4))
+[^c-7d49ad17cf39e44e29ad490f5c559201]: Textual amendment: Sch. 4 Form 6.31 omitted (1.4.2004) by virtue of [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rules 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/3), [14(2)(d)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/2/d) (with [rule14(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/4))
 
-[^key-9ad271a50f359f8a9eb08ba1bddcf6fa]: Textual amendment: Sch. 4 Forms 2.8B, 2.11B, 2.13B, 2.14B, 3.1A, 3.2, 4.6, 4.11, 4.12, 4.13, 4.14, 4.17, 4.18, 4.19, 4.68, 6.9, 6.24A, 6.28, 6.80, 6.83, 6.84 substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rule 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [Sch. Pt. B](https://www.legislation.gov.uk/uksi/2005/527/schedule/part/B)
+[^c-9ad271a50f359f8a9eb08ba1bddcf6fa]: Textual amendment: Sch. 4 Forms 2.8B, 2.11B, 2.13B, 2.14B, 3.1A, 3.2, 4.6, 4.11, 4.12, 4.13, 4.14, 4.17, 4.18, 4.19, 4.68, 6.9, 6.24A, 6.28, 6.80, 6.83, 6.84 substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rule 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [Sch. Pt. B](https://www.legislation.gov.uk/uksi/2005/527/schedule/part/B)
 
-[^key-7c5ed39c93697d8e08541598e3de42d5]: Textual amendment: Sch. 4 Form 4.15A inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rule 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [Sch. Pt. A](https://www.legislation.gov.uk/uksi/2005/527/schedule/part/A)
+[^c-7c5ed39c93697d8e08541598e3de42d5]: Textual amendment: Sch. 4 Form 4.15A inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rule 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [Sch. Pt. A](https://www.legislation.gov.uk/uksi/2005/527/schedule/part/A)
 
-[^key-b590f1bae5ca1ad6ae150bb38f7ea5d0]: Textual amendment: Sch. 4 Form 4.3 omitted (1.4.2005) by virtue of [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [49(2)(a)](https://www.legislation.gov.uk/uksi/2005/527/rule/49/2/a)
+[^c-b590f1bae5ca1ad6ae150bb38f7ea5d0]: Textual amendment: Sch. 4 Form 4.3 omitted (1.4.2005) by virtue of [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [49(2)(a)](https://www.legislation.gov.uk/uksi/2005/527/rule/49/2/a)
 
-[^key-27f70decba13a9712880da08b04c5103]: Textual amendment: Sch. 4 Form 2.1B: words substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) ( No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [rule 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 100](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/100)
+[^c-27f70decba13a9712880da08b04c5103]: Textual amendment: Sch. 4 Form 2.1B: words substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) ( No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [rule 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 100](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/100)
 
-[^key-e2bb4f7888dae8c05ed0f1032e4b1540]: Textual amendment: Sch. 4 Forms 6.28, 6.83 substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(18)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/18), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2114/schedule/18/part/2)
+[^c-e2bb4f7888dae8c05ed0f1032e4b1540]: Textual amendment: Sch. 4 Forms 6.28, 6.83 substituted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(18)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/18), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2114/schedule/18/part/2)
 
-[^key-147709f6c062be8ebe9f76f41588e843]: Textual amendment: Sch. 4 Form 4.73 inserted (6.8.2007) by [The Insolvency (Amendment) Rules 2007 (S.I. 2007/1974)](https://www.legislation.gov.uk/uksi/2007/1974), [rule 1](https://www.legislation.gov.uk/uksi/2007/1974/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/1974/schedule) (with [rule 2](https://www.legislation.gov.uk/uksi/2007/1974/article/2))
+[^c-147709f6c062be8ebe9f76f41588e843]: Textual amendment: Sch. 4 Form 4.73 inserted (6.8.2007) by [The Insolvency (Amendment) Rules 2007 (S.I. 2007/1974)](https://www.legislation.gov.uk/uksi/2007/1974), [rule 1](https://www.legislation.gov.uk/uksi/2007/1974/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/1974/schedule) (with [rule 2](https://www.legislation.gov.uk/uksi/2007/1974/article/2))
 
-[^key-157eb8bde4dbfbe8c5d9d2c742cb35d2]: Textual amendment: Sch. 4 Form 4.64 substituted (1.10.2007) by [The Mental Capacity Act 2005 (Transitional and Consequential Provisions) Order 2007 (S.I. 2007/1898)](https://www.legislation.gov.uk/uksi/2007/1898), [art. 1](https://www.legislation.gov.uk/uksi/2007/1898/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/1898/schedule/2/part/1)
+[^c-157eb8bde4dbfbe8c5d9d2c742cb35d2]: Textual amendment: Sch. 4 Form 4.64 substituted (1.10.2007) by [The Mental Capacity Act 2005 (Transitional and Consequential Provisions) Order 2007 (S.I. 2007/1898)](https://www.legislation.gov.uk/uksi/2007/1898), [art. 1](https://www.legislation.gov.uk/uksi/2007/1898/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/1898/schedule/2/part/1)
 
-[^key-baa99fa438a983c84323f765638b17de]: Textual amendment: Sch. 4 Form 6.57 substituted (1.10.2007) by [The Mental Capacity Act 2005 (Transitional and Consequential Provisions) Order 2007 (S.I. 2007/1898)](https://www.legislation.gov.uk/uksi/2007/1898), [art. 1](https://www.legislation.gov.uk/uksi/2007/1898/article/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/1898/schedule/2/part/2)
+[^c-baa99fa438a983c84323f765638b17de]: Textual amendment: Sch. 4 Form 6.57 substituted (1.10.2007) by [The Mental Capacity Act 2005 (Transitional and Consequential Provisions) Order 2007 (S.I. 2007/1898)](https://www.legislation.gov.uk/uksi/2007/1898), [art. 1](https://www.legislation.gov.uk/uksi/2007/1898/article/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/1898/schedule/2/part/2)
 
-[^key-94fde4694c1d6b195fa93cfdf54d1851]: Textual amendment: Sch. 4 Index: amended (1.10.2007) by [The Mental Capacity Act 2005 (Transitional and Consequential Provisions) Order 2007 (S.I. 2007/1898)](https://www.legislation.gov.uk/uksi/2007/1898), [art. 1](https://www.legislation.gov.uk/uksi/2007/1898/article/1), [Sch. 1 para. 12(6)(7)](https://www.legislation.gov.uk/uksi/2007/1898/schedule/1/paragraph/12/7/a)
+[^c-94fde4694c1d6b195fa93cfdf54d1851]: Textual amendment: Sch. 4 Index: amended (1.10.2007) by [The Mental Capacity Act 2005 (Transitional and Consequential Provisions) Order 2007 (S.I. 2007/1898)](https://www.legislation.gov.uk/uksi/2007/1898), [art. 1](https://www.legislation.gov.uk/uksi/2007/1898/article/1), [Sch. 1 para. 12(6)(7)](https://www.legislation.gov.uk/uksi/2007/1898/schedule/1/paragraph/12/7/a)
 
-[^key-f51a45547a16633aec7ad14a61444623]: Textual amendment: Sch. 4 Form Index amended (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rules 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [14(1)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/1)
+[^c-f51a45547a16633aec7ad14a61444623]: Textual amendment: Sch. 4 Form Index amended (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rules 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [14(1)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/1)
 
-[^key-68c50e0a26e7161431a972829cfca53b]: Textual amendment: Sch. 4 Index: amended (1.4.2005) by virtue of [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [49(1)](https://www.legislation.gov.uk/uksi/2005/527/rule/49/1/a)
+[^c-68c50e0a26e7161431a972829cfca53b]: Textual amendment: Sch. 4 Index: amended (1.4.2005) by virtue of [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [49(1)](https://www.legislation.gov.uk/uksi/2005/527/rule/49/1/a)
 
-[^key-b18ea2870f85fe0cd029d24db6e362b1]: Textual amendment: Sch. 4 Index: words inserted (6.8.2007) by [The Insolvency (Amendment) Rules 2007 (S.I. 2007/1974)](https://www.legislation.gov.uk/uksi/2007/1974), [rules 1](https://www.legislation.gov.uk/uksi/2007/1974/rule/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/1974/rule/3/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2007/1974/rule/2))
+[^c-b18ea2870f85fe0cd029d24db6e362b1]: Textual amendment: Sch. 4 Index: words inserted (6.8.2007) by [The Insolvency (Amendment) Rules 2007 (S.I. 2007/1974)](https://www.legislation.gov.uk/uksi/2007/1974), [rules 1](https://www.legislation.gov.uk/uksi/2007/1974/rule/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/1974/rule/3/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2007/1974/rule/2))
 
-[^key-43f2db5f76347bf6ff4d97a66871a329]: Textual amendment: Sch. 4 Index: words substituted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/5)
+[^c-43f2db5f76347bf6ff4d97a66871a329]: Textual amendment: Sch. 4 Index: words substituted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2002/2712/schedule/part/5)
 
-[^key-1691f29dea6861ded5034540dbc2278a]: Textual amendment: Sch. 4 Index: words substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rules 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [14(1)(a)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/1/a)
+[^c-1691f29dea6861ded5034540dbc2278a]: Textual amendment: Sch. 4 Index: words substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rules 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [14(1)(a)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/1/a)
 
-[^key-5f1d51aef9f20be09e2f3a8978aef3db]: Textual amendment: Words in Sch. 4 inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 155(2)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/155/2)
+[^c-5f1d51aef9f20be09e2f3a8978aef3db]: Textual amendment: Words in Sch. 4 inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 155(2)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/155/2)
 
-[^key-e4f615699cf32ce1014d3f2cd3a75c99]: Textual amendment: Words in Sch. 4 substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 155(1)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/155/1)
+[^c-e4f615699cf32ce1014d3f2cd3a75c99]: Textual amendment: Words in Sch. 4 substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 155(1)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/155/1)
 
-[^key-a2aadd90d9f45cdb83b496dc2ab7ad54]: Textual amendment: Sch. 4 Index: words substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rules 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [14(1)(b)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/1/b)
+[^c-a2aadd90d9f45cdb83b496dc2ab7ad54]: Textual amendment: Sch. 4 Index: words substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rules 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [14(1)(b)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/1/b)
 
-[^key-834efcb3bf967cb2049347817e161ade]: Textual amendment: Words in Sch. 4 substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 155(3)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/155/3)
+[^c-834efcb3bf967cb2049347817e161ade]: Textual amendment: Words in Sch. 4 substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 155(3)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/155/3)
 
-[^key-43883e3dba9b987519e91768d06a5825]: Textual amendment: Sch. 4 Index: words inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rules 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2002/2712/rule/8/1/b)
+[^c-43883e3dba9b987519e91768d06a5825]: Textual amendment: Sch. 4 Index: words inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rules 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2002/2712/rule/8/1/b)
 
-[^key-8e9ab3b30e416c99b327eaa53bceaa6e]: Textual amendment: Sch. 4 entry omitted (11.1.1988 with application in accordance with rule 3(1)(2)) by virtue of [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 155(4)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/155/4)
+[^c-8e9ab3b30e416c99b327eaa53bceaa6e]: Textual amendment: Sch. 4 entry omitted (11.1.1988 with application in accordance with rule 3(1)(2)) by virtue of [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 155(4)](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/155/4)
 
-[^key-4d90ebe2bed0ed1294dc44d2e2a73b44]: Textual amendment: Sch. 4 Index: words inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [11](https://www.legislation.gov.uk/uksi/2002/1307/rule/11) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
+[^c-4d90ebe2bed0ed1294dc44d2e2a73b44]: Textual amendment: Sch. 4 Index: words inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [11](https://www.legislation.gov.uk/uksi/2002/1307/rule/11) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
 
-[^key-094f7b19ba74af2d7278d5b43a2c1dc1]: Textual amendment: Sch. 4 Index: words inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rules 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [14(1)(e)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/1/e)
+[^c-094f7b19ba74af2d7278d5b43a2c1dc1]: Textual amendment: Sch. 4 Index: words inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rules 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [14(1)(e)](https://www.legislation.gov.uk/uksi/2003/1730/rule/14/1/e)

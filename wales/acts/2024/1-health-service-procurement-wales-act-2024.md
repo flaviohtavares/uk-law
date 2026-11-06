@@ -40,7 +40,7 @@ An Act of Senedd Cymru in relation to the procurement of health services in Wale
 
 **Having been passed by Senedd Cymru and having received the assent of His Majesty, it is enacted as follows:**
 
-## 1. Overview[^key-4c03c7a5c7376fe6f2455c755f9d42cf]
+## 1. Overview[^c-4c03c7a5c7376fe6f2455c755f9d42cf]
 
 (1) The Procurement Act 2023 regulates the way in which public authorities procure goods and services.
 
@@ -48,7 +48,7 @@ An Act of Senedd Cymru in relation to the procurement of health services in Wale
 
 (3) Section 3 of this Act amends the National Health Service (Wales) Act [2006 (c. 42)](https://www.legislation.gov.uk/ukpga/2006/42) to enable the Welsh Ministers to make specific (alternative) provision about procuring services provided as part of the health service.
 
-## 2. Power to disapply procurement rules in relation to NHS procurement in Wales[^key-5868fd0813f5b7c01378670fe567b72f]
+## 2. Power to disapply procurement rules in relation to NHS procurement in Wales[^c-5868fd0813f5b7c01378670fe567b72f]
 
 (1) The Procurement Act 2023 is amended as follows.
 
@@ -69,7 +69,7 @@ An Act of Senedd Cymru in relation to the procurement of health services in Wale
 
 .
 
-## 3. Procurement of services etc. as part of the NHS in Wales[^key-941ce37b9cab5931974946c026386a92]
+## 3. Procurement of services etc. as part of the NHS in Wales[^c-941ce37b9cab5931974946c026386a92]
 
 (1) The National Health Service (Wales) Act [2006 (c. 42)](https://www.legislation.gov.uk/ukpga/2006/42) is amended as follows.
 
@@ -115,22 +115,22 @@ An Act of Senedd Cymru in relation to the procurement of health services in Wale
 
 (3) In section 203(6), before “section 25B(3)(c)” insert “section 10A(1),”.
 
-## 4. Coming into force[^key-eaac8995395fbb9f94994fc1229295b1]
+## 4. Coming into force[^c-eaac8995395fbb9f94994fc1229295b1]
 
 This Act comes into force on the day after the day it receives Royal Assent.
 
-## 5. Short title[^key-e259ff3c35ca4357992fab54d4cf2968]
+## 5. Short title[^c-e259ff3c35ca4357992fab54d4cf2968]
 
 The short title of this Act is the Health Service Procurement (Wales) Act 2024.
 
 ## Annotations
 
-[^key-4c03c7a5c7376fe6f2455c755f9d42cf]: Commencement: S. 1 in force at 6.2.2024, see [s. 4](https://www.legislation.gov.uk/asc/2024/1/section/4)
+[^c-4c03c7a5c7376fe6f2455c755f9d42cf]: Commencement: S. 1 in force at 6.2.2024, see [s. 4](https://www.legislation.gov.uk/asc/2024/1/section/4)
 
-[^key-5868fd0813f5b7c01378670fe567b72f]: Commencement: S. 2 in force at 6.2.2024, see [s. 4](https://www.legislation.gov.uk/asc/2024/1/section/4)
+[^c-5868fd0813f5b7c01378670fe567b72f]: Commencement: S. 2 in force at 6.2.2024, see [s. 4](https://www.legislation.gov.uk/asc/2024/1/section/4)
 
-[^key-941ce37b9cab5931974946c026386a92]: Commencement: S. 3 in force at 6.2.2024, see [s. 4](https://www.legislation.gov.uk/asc/2024/1/section/4)
+[^c-941ce37b9cab5931974946c026386a92]: Commencement: S. 3 in force at 6.2.2024, see [s. 4](https://www.legislation.gov.uk/asc/2024/1/section/4)
 
-[^key-eaac8995395fbb9f94994fc1229295b1]: Commencement: S. 4 in force at 6.2.2024, see [s. 4](https://www.legislation.gov.uk/asc/2024/1/section/4)
+[^c-eaac8995395fbb9f94994fc1229295b1]: Commencement: S. 4 in force at 6.2.2024, see [s. 4](https://www.legislation.gov.uk/asc/2024/1/section/4)
 
-[^key-e259ff3c35ca4357992fab54d4cf2968]: Commencement: S. 5 in force at 6.2.2024, see [s. 4](https://www.legislation.gov.uk/asc/2024/1/section/4)
+[^c-e259ff3c35ca4357992fab54d4cf2968]: Commencement: S. 5 in force at 6.2.2024, see [s. 4](https://www.legislation.gov.uk/asc/2024/1/section/4)

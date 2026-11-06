@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Powers of entry: authorised persons[^key-557c0cc141609b45a4472aeb94fd5876][^key-9fd4ec117093642f772910a6e3559e66]
+## 44. Powers of entry: authorised persons[^c-557c0cc141609b45a4472aeb94fd5876][^c-9fd4ec117093642f772910a6e3559e66]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) to determine whether to give or confirm an SSSI notification or a notification under section 5(1), 6(5), 7(3), 8(1) or 9(1) in relation to the land,
 - (b) to assess the condition of any protected natural feature of the land,
-- (ba)[^key-fadef72a6555704a1dbce28c17403d44] to ascertain whether an operation required to be carried out by a restoration notice given under section 20A(4) has been carried out in accordance with the notice,
+- (ba)[^c-fadef72a6555704a1dbce28c17403d44] to ascertain whether an operation required to be carried out by a restoration notice given under section 20A(4) has been carried out in accordance with the notice,
 - (bb) to carry out operations in pursuance of section 20A(12),
 - (c) to determine whether or not to offer to enter into a management agreement in relation to the land or to ascertain the terms on which it should offer to enter into such an agreement,
 - (d) to ascertain whether a management agreement is being, or has been, complied with,
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-557c0cc141609b45a4472aeb94fd5876]: Commencement: S. 44 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-557c0cc141609b45a4472aeb94fd5876]: Commencement: S. 44 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-9fd4ec117093642f772910a6e3559e66]: Modification: S. 44 applied (with modifications) by S.I. 1994/2716, regs. 19, 22 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))
+[^c-9fd4ec117093642f772910a6e3559e66]: Modification: S. 44 applied (with modifications) by S.I. 1994/2716, regs. 19, 22 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))
 
-[^key-fadef72a6555704a1dbce28c17403d44]: Textual amendment: S. 44(1)(ba)(bb) inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 40(1)(d)](https://www.legislation.gov.uk/asp/2011/6/section/40/1/d), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(q)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/q)
+[^c-fadef72a6555704a1dbce28c17403d44]: Textual amendment: S. 44(1)(ba)(bb) inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 40(1)(d)](https://www.legislation.gov.uk/asp/2011/6/section/40/1/d), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(q)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/q)

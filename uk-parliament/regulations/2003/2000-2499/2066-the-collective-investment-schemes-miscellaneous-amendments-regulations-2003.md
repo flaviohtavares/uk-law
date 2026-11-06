@@ -31,7 +31,7 @@ summary: ''
 
 FINANCIAL SERVICES AND MARKETS
 
-The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (revoked)[^key-c17ee46c92c646361bc90005692db100]
+The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (revoked)[^c-c17ee46c92c646361bc90005692db100]
 
 Made
 
@@ -45,74 +45,74 @@ Coming into force
 
 13th February 2004
 
-[^key-c17ee46c92c646361bc90005692db100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c17ee46c92c646361bc90005692db100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-c17ee46c92c646361bc90005692db100]
+## PART 1 — General[^c-c17ee46c92c646361bc90005692db100]
 
-### 1. Citation, commencement and interpretation[^key-c17ee46c92c646361bc90005692db100]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Passport Rights of Management Companies[^key-c17ee46c92c646361bc90005692db100]
-
-### 2. General[^key-c17ee46c92c646361bc90005692db100]
+### 1. Citation, commencement and interpretation[^c-c17ee46c92c646361bc90005692db100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Passporting by EEA management companies[^key-c17ee46c92c646361bc90005692db100]
+## PART 2 — Passport Rights of Management Companies[^c-c17ee46c92c646361bc90005692db100]
+
+### 2. General[^c-c17ee46c92c646361bc90005692db100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Passporting by UK management companies[^key-c17ee46c92c646361bc90005692db100]
+### 3. Passporting by EEA management companies[^c-c17ee46c92c646361bc90005692db100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Authorisation of Unit Trust Schemes and Management Companies[^key-c17ee46c92c646361bc90005692db100]
-
-### 5. Power to restrict the activities of a management company[^key-c17ee46c92c646361bc90005692db100]
+### 4. Passporting by UK management companies[^c-c17ee46c92c646361bc90005692db100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Control over management companies[^key-c17ee46c92c646361bc90005692db100]
+## PART 3 — Authorisation of Unit Trust Schemes and Management Companies[^c-c17ee46c92c646361bc90005692db100]
+
+### 5. Power to restrict the activities of a management company[^c-c17ee46c92c646361bc90005692db100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Participation of EEA management companies in the compensation scheme[^key-c17ee46c92c646361bc90005692db100]
+### 6. Control over management companies[^c-c17ee46c92c646361bc90005692db100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of the Open-Ended Investment Companies Regulations[^key-c17ee46c92c646361bc90005692db100]
+### 7. Participation of EEA management companies in the compensation scheme[^c-c17ee46c92c646361bc90005692db100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Rules applying to management companies[^key-c17ee46c92c646361bc90005692db100]
+### 8. Amendment of the Open-Ended Investment Companies Regulations[^c-c17ee46c92c646361bc90005692db100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Miscellaneous[^key-c17ee46c92c646361bc90005692db100]
-
-### 10. Open-ended investment companies incorporated in Northern Ireland[^key-c17ee46c92c646361bc90005692db100]
+### 9. Rules applying to management companies[^c-c17ee46c92c646361bc90005692db100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Regulations made under section 264 of the Act[^key-c17ee46c92c646361bc90005692db100]
+## PART 4 — Miscellaneous[^c-c17ee46c92c646361bc90005692db100]
+
+### 10. Open-ended investment companies incorporated in Northern Ireland[^c-c17ee46c92c646361bc90005692db100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Disclosure of information[^key-c17ee46c92c646361bc90005692db100]
+### 11. Regulations made under section 264 of the Act[^c-c17ee46c92c646361bc90005692db100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. References to the UCITS Directive[^key-c17ee46c92c646361bc90005692db100]
+### 12. Disclosure of information[^c-c17ee46c92c646361bc90005692db100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c17ee46c92c646361bc90005692db100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 13. References to the UCITS Directive[^c-c17ee46c92c646361bc90005692db100]
 
-[^key-c17ee46c92c646361bc90005692db100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c17ee46c92c646361bc90005692db100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c17ee46c92c646361bc90005692db100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c17ee46c92c646361bc90005692db100]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/2066) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-c17ee46c92c646361bc90005692db100]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/2066) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

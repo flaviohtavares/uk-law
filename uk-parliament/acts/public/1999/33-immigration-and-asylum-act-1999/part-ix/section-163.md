@@ -46,9 +46,9 @@ summary: ''
 >
 > (4) For the purpose of enabling a person to recover any such costs and damages, a copy of the declaration of the Registrar General purporting to be sealed with the seal of the General Register Office is evidence that the Registrar General has declared the representation to have been frivolous and to be such that it ought not to obstruct the issue of a certificate.
 
-(3)[^key-3b0d3509b97832a6c928ba70bc99f543] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3b0d3509b97832a6c928ba70bc99f543] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3b0d3509b97832a6c928ba70bc99f543] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3b0d3509b97832a6c928ba70bc99f543] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c11434931]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
-[^key-3b0d3509b97832a6c928ba70bc99f543]: Textual amendment: [S. 163(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/163/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/163/4) repealed (N.I.) (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
+[^c-3b0d3509b97832a6c928ba70bc99f543]: Textual amendment: [S. 163(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/163/3)[(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/163/4) repealed (N.I.) (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)

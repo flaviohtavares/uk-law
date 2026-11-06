@@ -24,7 +24,7 @@ summary: ''
 
 - (a) education or transport provided for a [^c19387771]. . . pupil at any grant‐aided school to which this Article applies other than—[^c17610421]
   - (i) education or transport in respect of which by virtue of Article 128 no charge may be made; or
-  - (ii) transport provided by the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] under Article 52 of the principal Order.
+  - (ii) transport provided by the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] under Article 52 of the principal Order.
 - (b) the entry of any such pupil for a public examination in any specification[^c19387691] for that examination otherwise than in circumstances in which by virtue of Article 128(5) no charge may be made; and
 - (c) board and lodging provided for any such pupil on a residential trip.
 
@@ -67,7 +67,7 @@ unless the education or transport is provided or the pupil is entered for the ex
 
 [^c17610421]: Textual amendment: [1997 NI 5](https://www.legislation.gov.uk/nisi/1997)
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c19387691]: Textual amendment: Word in art. 130(1)(b) substituted (1.8.2006) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2), [44(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/9)
 

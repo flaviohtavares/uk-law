@@ -31,7 +31,7 @@ Sections 1 and 53.
 | 1909 c. 43. | The Revenue Act 1909. | Section 11. |
 | [^c18885311]. . . | [^c18885311]. . . | [^c18885311]. . . |
 | 1920 c. 65. | The Employment of Women, Young Persons and Children Act 1920. | The whole Act. |
-| 1922 c. 35.[^key-9477afdde958e31494946de0e28c9f98] | The Celluloid and Cinematograph Film Act 1922. | The whole Act. |
+| 1922 c. 35.[^c-9477afdde958e31494946de0e28c9f98] | The Celluloid and Cinematograph Film Act 1922. | The whole Act. |
 | [^c18885371]. . . | [^c18885371]. . . | [^c18885371]. . . |
 | 1926 c. 43. | The Public Health (Smoke Abatement) Act 1926. | The whole Act. |
 | 1928 c. 32. | The Petroleum (Consolidation) Act 1928. | The whole Act. |
@@ -52,8 +52,8 @@ Sections 1 and 53.
 | 1961 c. 64. | The Public Health Act 1961. | Section 73. |
 | 1962 c. 58. | The Pipe-lines Act 1962. | Sections 20 to 26, 33, 34 and 42, Schedule 5. |
 | 1963 c. 41. | The Offices, Shops and Railway Premises Act 1963. | The whole Act. |
-| [^key-09d436beb14ca16c022deff1b0aea674]. . . | [^key-09d436beb14ca16c022deff1b0aea674]. . . | [^key-09d436beb14ca16c022deff1b0aea674]... |
-| [^key-b7d3aa5eace70cdfbdd6b2fde0789cf7]. . . | [^key-b7d3aa5eace70cdfbdd6b2fde0789cf7]. . . | [^key-b7d3aa5eace70cdfbdd6b2fde0789cf7]. . . |
+| [^c-09d436beb14ca16c022deff1b0aea674]. . . | [^c-09d436beb14ca16c022deff1b0aea674]. . . | [^c-09d436beb14ca16c022deff1b0aea674]... |
+| [^c-b7d3aa5eace70cdfbdd6b2fde0789cf7]. . . | [^c-b7d3aa5eace70cdfbdd6b2fde0789cf7]. . . | [^c-b7d3aa5eace70cdfbdd6b2fde0789cf7]. . . |
 | 1971 c. 20. | The Mines Management Act 1971. | The whole Act. |
 | 1972 c. 28. | The Employment Medical Advisory Service Act 1972. | The whole Act except sections 1 and 6 and Schedule 1. |
 
@@ -63,7 +63,7 @@ Sections 1 and 53.
 
 [^c18885311]: Textual amendment: Sch. 1: "reference to the Anthrax Prevention Act 1919" repealed (6.4.2005) by [The Anthrax Prevention Order 1971 etc. (Revocation) Regulations 2005 (S.I. 2005/228)](https://www.legislation.gov.uk/uksi/2005/228), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/228/article/2/2)
 
-[^key-9477afdde958e31494946de0e28c9f98]: Textual amendment: Words in Sch. 1 repealed (E.W.S.) (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/448/schedule) Table 3
+[^c-9477afdde958e31494946de0e28c9f98]: Textual amendment: Words in Sch. 1 repealed (E.W.S.) (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/448/schedule) Table 3
 
 [^c18885371]: Textual amendment: Sch. 1: entry repealed (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 28(1)(2)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/28/1/2), [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/14), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6/part/1)
 
@@ -73,6 +73,6 @@ Sections 1 and 53.
 
 [^c7815881]: Textual amendment: Entry inserted by [Sex Discrimination Act 1975 (c. 65)](https://www.legislation.gov.uk/ukpga/1975/65), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/1975/65/schedule/5/paragraph/3) and repealed by [Sex Discrimination Act 1986 (c. 59, SIF 106:1)](https://www.legislation.gov.uk/ukpga/1986/59), [s. 9(2)](https://www.legislation.gov.uk/ukpga/1986/59/section/9/2), [Sch. Pt. III](https://www.legislation.gov.uk/ukpga/1986/59/schedule/part/III)
 
-[^key-09d436beb14ca16c022deff1b0aea674]: Textual amendment: Words in Sch. 1 omitted (1.4.2014) by virtue of [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/14); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-09d436beb14ca16c022deff1b0aea674]: Textual amendment: Words in Sch. 1 omitted (1.4.2014) by virtue of [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/14); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-b7d3aa5eace70cdfbdd6b2fde0789cf7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1974/37/schedule/1) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-b7d3aa5eace70cdfbdd6b2fde0789cf7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/1974/37/schedule/1) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

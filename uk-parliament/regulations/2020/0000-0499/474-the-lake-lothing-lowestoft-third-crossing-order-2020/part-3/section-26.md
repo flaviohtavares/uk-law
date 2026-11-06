@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Compulsory acquisition of rights, etc.[^key-5a503658a9b1f50bf96070ee59b73798]
+## 26. Compulsory acquisition of rights, etc.[^c-5a503658a9b1f50bf96070ee59b73798]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5a503658a9b1f50bf96070ee59b73798]: Commencement: Art. 26 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-5a503658a9b1f50bf96070ee59b73798]: Commencement: Art. 26 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24091271]: Marginal citation: [Section 8](https://www.legislation.gov.uk/uksi/2020/474/section/8) was amended by paragraphs 1 and 2 of Schedule 17 to the Housing and Planning Act 2016 and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95A. Restraint orders: power to retain seized property[^key-d47bfdf5a6c940cae1c28ba96f6a515e]
+## 95A. Restraint orders: power to retain seized property[^c-d47bfdf5a6c940cae1c28ba96f6a515e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d47bfdf5a6c940cae1c28ba96f6a515e]: Textual amendment: [Art. 95A](https://www.legislation.gov.uk/uksi/2005/3181/article/95A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [23](https://www.legislation.gov.uk/uksi/2016/662/article/23)
+[^c-d47bfdf5a6c940cae1c28ba96f6a515e]: Textual amendment: [Art. 95A](https://www.legislation.gov.uk/uksi/2005/3181/article/95A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [23](https://www.legislation.gov.uk/uksi/2016/662/article/23)

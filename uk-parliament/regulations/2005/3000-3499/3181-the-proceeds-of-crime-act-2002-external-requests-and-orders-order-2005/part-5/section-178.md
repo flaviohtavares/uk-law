@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Functions of the trustee for civil recovery[^key-89095fab15bac44ef17da3fdf94bec0f]
+## 178. Functions of the trustee for civil recovery[^c-89095fab15bac44ef17da3fdf94bec0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89095fab15bac44ef17da3fdf94bec0f]: Commencement: [Art. 178](https://www.legislation.gov.uk/uksi/2005/3181/article/178) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-89095fab15bac44ef17da3fdf94bec0f]: Commencement: [Art. 178](https://www.legislation.gov.uk/uksi/2005/3181/article/178) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

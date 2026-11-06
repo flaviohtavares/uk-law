@@ -50,15 +50,15 @@ In accordance with section 21(1) of that Act, the Scottish Ministers consulted t
 
 In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.
 
-## 1. Citation and commencement[^key-cc83d45730fa5a2db8c44f1ac90ae97d]
+## 1. Citation and commencement[^c-cc83d45730fa5a2db8c44f1ac90ae97d]
 
 These Regulations may be cited as the Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 and come into force on 1st April 2015.
 
-## 2. Amendment of the Teachers’ Pension Scheme (Scotland) (No. 2) Regulations 2014[^key-4e7ca203f8fecd67fe43c82127228c2c]
+## 2. Amendment of the Teachers’ Pension Scheme (Scotland) (No. 2) Regulations 2014[^c-4e7ca203f8fecd67fe43c82127228c2c]
 
 The Teachers’ Pension Scheme (Scotland) (No. 2) Regulations 2014[^f00002] are amended in accordance with these Regulations.
 
-## 3. Regulation 3 (interpretation)[^key-358034953bf97ea6d55fd4dfc39adf1a]
+## 3. Regulation 3 (interpretation)[^c-358034953bf97ea6d55fd4dfc39adf1a]
 
 In regulation 3—
 
@@ -69,55 +69,55 @@ In regulation 3—
 
   .
 
-## 4. Regulation 22 (service not pensionable unless member is entitled to pay)[^key-ad9d181363ee87828652e54a87f96aca]
+## 4. Regulation 22 (service not pensionable unless member is entitled to pay)[^c-ad9d181363ee87828652e54a87f96aca]
 
 In paragraph (1)(b) of regulation 22, for “paternity leave or additional paternity leave” substitute “shared parental leave or paternity leave”.
 
-## 5. Regulation 32 (interpretation)[^key-c620d146a372b6cc27530efe5f46806b]
+## 5. Regulation 32 (interpretation)[^c-c620d146a372b6cc27530efe5f46806b]
 
 In paragraph (b) of the definition of “notional pensionable earnings” in regulation 32, for “paternity leave or additional paternity leave” substitute “shared parental leave or paternity leave”.
 
-## 6. Regulation 33 (pensionable earnings)[^key-3bbf655470c3db3b4160cd5ec8972381]
+## 6. Regulation 33 (pensionable earnings)[^c-3bbf655470c3db3b4160cd5ec8972381]
 
 In paragraph (2)(c) of regulation 33, for “additional paternity leave, parental leave” substitute “parental leave, shared parental leave”.
 
-## 7. Regulation 37 (pensionable earnings for the purpose of accruing benefits)[^key-a69590b15fd6427321bbc2425d8291ff]
+## 7. Regulation 37 (pensionable earnings for the purpose of accruing benefits)[^c-a69590b15fd6427321bbc2425d8291ff]
 
 In paragraph (a) of regulation 37, for “paternity leave or additional paternity leave” substitute “shared parental leave or paternity leave”.
 
-## 8. Regulation 90 (entitlement to phased retirement pension)[^key-8ac33f28303b05b1f16f010a9c7be90a]
+## 8. Regulation 90 (entitlement to phased retirement pension)[^c-8ac33f28303b05b1f16f010a9c7be90a]
 
 In paragraph (1)(a) of regulation 90, for “55” substitute “normal minimum pension age”.
 
-## 9. Regulation 98 (entitlement to premature retirement pension)[^key-6c412ce1b32ce65b63449a12a1f0a2fc]
+## 9. Regulation 98 (entitlement to premature retirement pension)[^c-6c412ce1b32ce65b63449a12a1f0a2fc]
 
 In paragraph (1)(a) of regulation 98, for “55” substitute “normal minimum pension age”.
 
-## 10. Regulation 100 (meaning of “entitlement day” (early retirement pension))[^key-c8c3a67913173682db57f3622faa0f58]
+## 10. Regulation 100 (meaning of “entitlement day” (early retirement pension))[^c-c8c3a67913173682db57f3622faa0f58]
 
 In paragraph (5)(a) of regulation 100, for “55” substitute “normal minimum pension age”.
 
-## 11. Regulation 101 (entitlement to early retirement pension)[^key-18063e4253745369e46da21d88e3c481]
+## 11. Regulation 101 (entitlement to early retirement pension)[^c-18063e4253745369e46da21d88e3c481]
 
 In paragraph (1)(a) of regulation 101, for “55” substitute “normal minimum pension age”.
 
-## 12. Regulation 140 (annual rate of surviving adult pension: short-term)[^key-edd79f3ef4e9060426ad31b4682d097e]
+## 12. Regulation 140 (annual rate of surviving adult pension: short-term)[^c-edd79f3ef4e9060426ad31b4682d097e]
 
 In paragraph (2)(a) of regulation 140, for “additional paternity leave” substitute “shared parental leave”.
 
-## 13. Regulation 147 (annual rate of child pension: short-term)[^key-e5bce175019c25b1dea1bc2850c49b2e]
+## 13. Regulation 147 (annual rate of child pension: short-term)[^c-e5bce175019c25b1dea1bc2850c49b2e]
 
 In paragraph (2)(a) of regulation 147, for “additional paternity leave” substitute “shared parental leave”.
 
-## 14. Regulation 151 (entitlement day for pension credit retirement pension)[^key-83befb88c2b0c316b0e7bc6532ca5ec3]
+## 14. Regulation 151 (entitlement day for pension credit retirement pension)[^c-83befb88c2b0c316b0e7bc6532ca5ec3]
 
 In paragraph (1)(b) of regulation 151, for “55” substitute “normal minimum pension age”.
 
-## 15. Regulation 178 (pensionable earnings for a pay period)[^key-42898ef74ab8cbc859dc9ca5ca3fc9a1]
+## 15. Regulation 178 (pensionable earnings for a pay period)[^c-42898ef74ab8cbc859dc9ca5ca3fc9a1]
 
 In paragraph (4) of regulation 178, after “adoption leave” insert “, shared parental leave”.
 
-## 16. Regulation 179 (contributions for standard earned pension)[^key-f3f2f6ae4045279da82aeb38be85d5a6]
+## 16. Regulation 179 (contributions for standard earned pension)[^c-f3f2f6ae4045279da82aeb38be85d5a6]
 
 For regulation 179, substitute—
 
@@ -146,11 +146,11 @@ For regulation 179, substitute—
 
 .
 
-## 17. Regulation 183 (entitlement to repayment of balance of contributions)[^key-01088710909d6538c59a92ee912693b6]
+## 17. Regulation 183 (entitlement to repayment of balance of contributions)[^c-01088710909d6538c59a92ee912693b6]
 
 In paragraph (3) of regulation 183, for “additional paternity leave, parental leave” substitute “parental leave, shared parental leave”.
 
-## 18. Regulation 186 (employers’ contributions)[^key-c58b995b13a87cacca10f6741d10fd16]
+## 18. Regulation 186 (employers’ contributions)[^c-c58b995b13a87cacca10f6741d10fd16]
 
 For regulation 186, substitute—
 
@@ -162,47 +162,47 @@ For regulation 186, substitute—
 
 .
 
-## 19. Regulation 190 (payment by employers to scheme manager)[^key-b16d13e119cca5d5274f26000d6a5547]
+## 19. Regulation 190 (payment by employers to scheme manager)[^c-b16d13e119cca5d5274f26000d6a5547]
 
 In paragraph (2) of regulation 190—
 
 - (a) after sub-paragraph (a), insert “and”; and
 - (b) omit sub-paragraph (c) and the word “and” immediately before it.
 
-## 20. Regulation 195 (application for a statement of entitlement)[^key-3b70d591458d68d6f4a8958048e905a3]
+## 20. Regulation 195 (application for a statement of entitlement)[^c-3b70d591458d68d6f4a8958048e905a3]
 
 In regulation 195, omit—
 
 - (a) “(P)” in paragraph (1); and
 - (b) paragraph (2).
 
-## 21. Regulation 197 (payment of a transfer value)[^key-b02ac0b3b00b372243531fddee8c703b]
+## 21. Regulation 197 (payment of a transfer value)[^c-b02ac0b3b00b372243531fddee8c703b]
 
 In paragraph (1) of regulation 197, for “may” substitute “must”.
 
-## 22. Regulation 199 (acceptance of a transfer value)[^key-52df1fdc78738a581e949eb3c2c9650a]
+## 22. Regulation 199 (acceptance of a transfer value)[^c-52df1fdc78738a581e949eb3c2c9650a]
 
 In paragraph (1)(a) of regulation 199, for “75” substitute “normal pension age”.
 
-## 23. Regulation 203 (application for a club transfer statement of entitlement)[^key-670be91b65a523161641c203de9117a1]
+## 23. Regulation 203 (application for a club transfer statement of entitlement)[^c-670be91b65a523161641c203de9117a1]
 
 In regulation 203, omit—
 
 - (a) “(P)” in paragraph (1); and
 - (b) paragraph (2).
 
-## 24. Regulation 205 (payment of a club transfer value)[^key-436c3fbcf1e3d779993cdce03d9e1ff9]
+## 24. Regulation 205 (payment of a club transfer value)[^c-436c3fbcf1e3d779993cdce03d9e1ff9]
 
 In paragraph (1) of regulation 205, for “may” substitute “must”.
 
-## 25. Regulation 209 (employment records)[^key-cfb5ed3c6beb8a72395747ff0d407164]
+## 25. Regulation 209 (employment records)[^c-cfb5ed3c6beb8a72395747ff0d407164]
 
 In paragraph (2) of regulation 209—
 
 - (a) in sub-paragraph (b), after “earnings” insert “, including any money value of residential benefits in kind forming part of P’s pensionable earnings under regulation 36”; and
 - (b) in sub-paragraph (f), for “additional paternity leave, parental leave” substitute “parental leave, shared parental leave”.
 
-## 26. New regulation 214A[^key-f392802cc40c58561f2321c8f87d067c]
+## 26. New regulation 214A[^c-f392802cc40c58561f2321c8f87d067c]
 
 After regulation 214, insert—
 
@@ -212,11 +212,11 @@ After regulation 214, insert—
 
 .
 
-## 27. Paragraph 3 of Schedule 2 (meaning of “overall amount of extra pension”)[^key-1ce2de8614dfcbc5ad4b362896c265b9]
+## 27. Paragraph 3 of Schedule 2 (meaning of “overall amount of extra pension”)[^c-1ce2de8614dfcbc5ad4b362896c265b9]
 
 In paragraph 3(2) of Schedule 2, after “1971” insert “rounded to the nearest £100”.
 
-## 28. Paragraph 31 of Schedule 2 (eligible to make buy-out election)[^key-4710cde7b222c6d459b3118d293702bd]
+## 28. Paragraph 31 of Schedule 2 (eligible to make buy-out election)[^c-4710cde7b222c6d459b3118d293702bd]
 
 At the end of paragraph 31(1) of Schedule 2, insert—
 
@@ -227,11 +227,11 @@ At the end of paragraph 31(1) of Schedule 2, insert—
 
 .
 
-## 29. Paragraph 1 of Schedule 3 (interpretation)[^key-9dd3f2f1fd68e71326ec1a0a4fb5ee58]
+## 29. Paragraph 1 of Schedule 3 (interpretation)[^c-9dd3f2f1fd68e71326ec1a0a4fb5ee58]
 
 In the definition of “transition date” in paragraph 1 of Schedule 3, in both paragraphs (a) and (b), for “an existing scheme” substitute “the existing scheme”.
 
-## 30. Paragraph 2 of Schedule 3 (meaning of “active member of existing scheme”)[^key-16648eacfb3c7850bcd38aba3cc510f7]
+## 30. Paragraph 2 of Schedule 3 (meaning of “active member of existing scheme”)[^c-16648eacfb3c7850bcd38aba3cc510f7]
 
 In paragraph 2(1) of Schedule 3—
 
@@ -244,7 +244,7 @@ In paragraph 2(1) of Schedule 3—
 
   .
 
-## 31. Paragraph 6 of Schedule 3 (meaning of “full protection member”)[^key-66d3a5f4df7c1cfd61ff2a8e7c0b6a5c]
+## 31. Paragraph 6 of Schedule 3 (meaning of “full protection member”)[^c-66d3a5f4df7c1cfd61ff2a8e7c0b6a5c]
 
 In paragraph 6 of Schedule 3—
 
@@ -266,7 +266,7 @@ In paragraph 6 of Schedule 3—
 
   .
 
-## 32. Paragraph 9 of Schedule 3 (meaning of “tapered protection member”)[^key-319374c7f8f6af6450b69cb780f2e07e]
+## 32. Paragraph 9 of Schedule 3 (meaning of “tapered protection member”)[^c-319374c7f8f6af6450b69cb780f2e07e]
 
 In paragraph 9 of Schedule 3—
 
@@ -290,7 +290,7 @@ In paragraph 9 of Schedule 3—
 
   .
 
-## 33. Paragraph 20 of Schedule 3 (application of existing scheme rules)[^key-3c0cbc99be07a11d6d3f6828dc7b1b7d]
+## 33. Paragraph 20 of Schedule 3 (application of existing scheme rules)[^c-3c0cbc99be07a11d6d3f6828dc7b1b7d]
 
 For paragraph 20 of Schedule 3, substitute—
 
@@ -307,11 +307,11 @@ For paragraph 20 of Schedule 3, substitute—
 
 .
 
-## 34. Paragraph 21 of Schedule 3 (determination of final salary)[^key-94e8659279f141e04ec2c18da8b0613d]
+## 34. Paragraph 21 of Schedule 3 (determination of final salary)[^c-94e8659279f141e04ec2c18da8b0613d]
 
 In paragraph 21 of Schedule 3, for “For” substitute “Subject to paragraph 21A, for”.
 
-## 35. New paragraph 21A of Schedule 3[^key-c28639a1d374b8afe6f9db234eaf3936]
+## 35. New paragraph 21A of Schedule 3[^c-c28639a1d374b8afe6f9db234eaf3936]
 
 After paragraph 21 of Schedule 3, insert—
 
@@ -326,7 +326,7 @@ After paragraph 21 of Schedule 3, insert—
 
 .
 
-## 36. Paragraph 27 of Schedule 3 (application for payment of ill-health pension)[^key-607c51a0226445540df78c275ad9f731]
+## 36. Paragraph 27 of Schedule 3 (application for payment of ill-health pension)[^c-607c51a0226445540df78c275ad9f731]
 
 For paragraph 27 of Schedule 3, substitute—
 
@@ -339,7 +339,7 @@ For paragraph 27 of Schedule 3, substitute—
 
 .
 
-## 37. Paragraph 28 of Schedule 3 (entitlement to payment of total incapacity pension)[^key-7a5ad9d701c3986ab6fc2fab798b7e86]
+## 37. Paragraph 28 of Schedule 3 (entitlement to payment of total incapacity pension)[^c-7a5ad9d701c3986ab6fc2fab798b7e86]
 
 For paragraph 28 of Schedule 3, substitute—
 
@@ -353,7 +353,7 @@ For paragraph 28 of Schedule 3, substitute—
 
 .
 
-## 38. Paragraph 31 of Schedule 3 (entitlement to payment of a short-service serious ill-health grant)[^key-e7e9e3d7592f774be5694e3860b4dc7d]
+## 38. Paragraph 31 of Schedule 3 (entitlement to payment of a short-service serious ill-health grant)[^c-e7e9e3d7592f774be5694e3860b4dc7d]
 
 For paragraph 31 of Schedule 3, substitute—
 
@@ -369,23 +369,23 @@ For paragraph 31 of Schedule 3, substitute—
 
 .
 
-## 39. Paragraph 33 of Schedule 3 (calculation of a surviving adult pension of a surviving adult of a transition member)[^key-56b7f86537a62008828f4e14e4d6e258]
+## 39. Paragraph 33 of Schedule 3 (calculation of a surviving adult pension of a surviving adult of a transition member)[^c-56b7f86537a62008828f4e14e4d6e258]
 
 In the heading and sub-paragraph (1) of paragraph 33 of Schedule 3, before “surviving adult pension” insert “short-term”.
 
-## 40. Paragraph 34 of Schedule 3 (long-term rate of a surviving adult pension of a surviving adult of a transition member)[^key-a006728046bd3f9d90672f296832f7ff]
+## 40. Paragraph 34 of Schedule 3 (long-term rate of a surviving adult pension of a surviving adult of a transition member)[^c-a006728046bd3f9d90672f296832f7ff]
 
 In paragraph 34 of Schedule 3, for “The rate” substitute “The long-term rate”.
 
-## 41. Paragraph 38 of Schedule 3 (calculation of a child pension of an eligible child of a transition member)[^key-3e1de7751b770c299495ad84b5017670]
+## 41. Paragraph 38 of Schedule 3 (calculation of a child pension of an eligible child of a transition member)[^c-3e1de7751b770c299495ad84b5017670]
 
 In the heading and sub-paragraph (1) of paragraph 38 of Schedule 3, before “child pension” insert “short-term”.
 
-## 42. Paragraph 39 of Schedule 3 (rate of a child pension of an eligible child of a transition member)[^key-5ad7c6a17b293b320a4d307bbf39ede6]
+## 42. Paragraph 39 of Schedule 3 (rate of a child pension of an eligible child of a transition member)[^c-5ad7c6a17b293b320a4d307bbf39ede6]
 
 In the heading to paragraph 39 of Schedule 3, before “child pension” insert “long-term”.
 
-## 43. New paragraph 52 of Schedule 3[^key-54c8e22faa99b253e71feffd3e15ae32]
+## 43. New paragraph 52 of Schedule 3[^c-54c8e22faa99b253e71feffd3e15ae32]
 
 After paragraph 51 of Schedule 3, insert—
 
@@ -395,7 +395,7 @@ After paragraph 51 of Schedule 3, insert—
 
 .
 
-## 44. New Schedule 4[^key-4cdd8914cebf67e934b4c014bdbbe96d]
+## 44. New Schedule 4[^c-4cdd8914cebf67e934b4c014bdbbe96d]
 
 After Schedule 3, insert—
 
@@ -469,106 +469,106 @@ The most significant provisions in these Regulations are as follows. Regulation 
 
 [^f00001]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-cc83d45730fa5a2db8c44f1ac90ae97d]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-cc83d45730fa5a2db8c44f1ac90ae97d]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-4e7ca203f8fecd67fe43c82127228c2c]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-4e7ca203f8fecd67fe43c82127228c2c]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2014/292](https://www.legislation.gov.uk/ssi/2014/292).
 
-[^key-358034953bf97ea6d55fd4dfc39adf1a]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-358034953bf97ea6d55fd4dfc39adf1a]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-ad9d181363ee87828652e54a87f96aca]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-ad9d181363ee87828652e54a87f96aca]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-c620d146a372b6cc27530efe5f46806b]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-c620d146a372b6cc27530efe5f46806b]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-3bbf655470c3db3b4160cd5ec8972381]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-3bbf655470c3db3b4160cd5ec8972381]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-a69590b15fd6427321bbc2425d8291ff]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-a69590b15fd6427321bbc2425d8291ff]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-8ac33f28303b05b1f16f010a9c7be90a]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-8ac33f28303b05b1f16f010a9c7be90a]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-6c412ce1b32ce65b63449a12a1f0a2fc]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-6c412ce1b32ce65b63449a12a1f0a2fc]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-c8c3a67913173682db57f3622faa0f58]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-c8c3a67913173682db57f3622faa0f58]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-18063e4253745369e46da21d88e3c481]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-18063e4253745369e46da21d88e3c481]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-edd79f3ef4e9060426ad31b4682d097e]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-edd79f3ef4e9060426ad31b4682d097e]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-e5bce175019c25b1dea1bc2850c49b2e]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-e5bce175019c25b1dea1bc2850c49b2e]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-83befb88c2b0c316b0e7bc6532ca5ec3]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-83befb88c2b0c316b0e7bc6532ca5ec3]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-42898ef74ab8cbc859dc9ca5ca3fc9a1]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-42898ef74ab8cbc859dc9ca5ca3fc9a1]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-f3f2f6ae4045279da82aeb38be85d5a6]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-f3f2f6ae4045279da82aeb38be85d5a6]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
 [^f00003]: Footnote: [2007 c.18](https://www.legislation.gov.uk/ukpga/2007/18).
 
-[^key-01088710909d6538c59a92ee912693b6]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-01088710909d6538c59a92ee912693b6]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-c58b995b13a87cacca10f6741d10fd16]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-c58b995b13a87cacca10f6741d10fd16]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-b16d13e119cca5d5274f26000d6a5547]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-b16d13e119cca5d5274f26000d6a5547]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-3b70d591458d68d6f4a8958048e905a3]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-3b70d591458d68d6f4a8958048e905a3]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-b02ac0b3b00b372243531fddee8c703b]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-b02ac0b3b00b372243531fddee8c703b]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-52df1fdc78738a581e949eb3c2c9650a]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-52df1fdc78738a581e949eb3c2c9650a]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-670be91b65a523161641c203de9117a1]: Commencement: Reg. 23 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-670be91b65a523161641c203de9117a1]: Commencement: Reg. 23 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-436c3fbcf1e3d779993cdce03d9e1ff9]: Commencement: Reg. 24 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-436c3fbcf1e3d779993cdce03d9e1ff9]: Commencement: Reg. 24 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-cfb5ed3c6beb8a72395747ff0d407164]: Commencement: Reg. 25 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-cfb5ed3c6beb8a72395747ff0d407164]: Commencement: Reg. 25 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-f392802cc40c58561f2321c8f87d067c]: Commencement: Reg. 26 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-f392802cc40c58561f2321c8f87d067c]: Commencement: Reg. 26 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-1ce2de8614dfcbc5ad4b362896c265b9]: Commencement: Reg. 27 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-1ce2de8614dfcbc5ad4b362896c265b9]: Commencement: Reg. 27 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-4710cde7b222c6d459b3118d293702bd]: Commencement: Reg. 28 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-4710cde7b222c6d459b3118d293702bd]: Commencement: Reg. 28 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-9dd3f2f1fd68e71326ec1a0a4fb5ee58]: Commencement: Reg. 29 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-9dd3f2f1fd68e71326ec1a0a4fb5ee58]: Commencement: Reg. 29 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-16648eacfb3c7850bcd38aba3cc510f7]: Commencement: Reg. 30 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-16648eacfb3c7850bcd38aba3cc510f7]: Commencement: Reg. 30 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-66d3a5f4df7c1cfd61ff2a8e7c0b6a5c]: Commencement: Reg. 31 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-66d3a5f4df7c1cfd61ff2a8e7c0b6a5c]: Commencement: Reg. 31 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-319374c7f8f6af6450b69cb780f2e07e]: Commencement: Reg. 32 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-319374c7f8f6af6450b69cb780f2e07e]: Commencement: Reg. 32 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-3c0cbc99be07a11d6d3f6828dc7b1b7d]: Commencement: Reg. 33 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-3c0cbc99be07a11d6d3f6828dc7b1b7d]: Commencement: Reg. 33 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
 [^f00004]: Footnote: Schedule 2A was inserted by [S.S.I. 2007/189](https://www.legislation.gov.uk/ssi/2007/189).
 
-[^key-94e8659279f141e04ec2c18da8b0613d]: Commencement: Reg. 34 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-94e8659279f141e04ec2c18da8b0613d]: Commencement: Reg. 34 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-c28639a1d374b8afe6f9db234eaf3936]: Commencement: Reg. 35 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-c28639a1d374b8afe6f9db234eaf3936]: Commencement: Reg. 35 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
 [^f00005]: Footnote: Regulation J2 was amended by [S.S.I. 2007/189](https://www.legislation.gov.uk/ssi/2007/189).
 
 [^f00006]: Footnote: Regulation E34(15) was amended by [S.S.I. 2007/189](https://www.legislation.gov.uk/ssi/2007/189).
 
-[^key-607c51a0226445540df78c275ad9f731]: Commencement: Reg. 36 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-607c51a0226445540df78c275ad9f731]: Commencement: Reg. 36 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-7a5ad9d701c3986ab6fc2fab798b7e86]: Commencement: Reg. 37 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-7a5ad9d701c3986ab6fc2fab798b7e86]: Commencement: Reg. 37 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
 [^f00007]: Footnote: Regulation E10A was inserted by [S.S.I. 2007/189](https://www.legislation.gov.uk/ssi/2007/189) and amended by [S.S.I. 2008/227](https://www.legislation.gov.uk/ssi/2008/227).
 
-[^key-e7e9e3d7592f774be5694e3860b4dc7d]: Commencement: Reg. 38 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-e7e9e3d7592f774be5694e3860b4dc7d]: Commencement: Reg. 38 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
 [^f00008]: Footnote: Regulation E21 was substituted by [S.S.I. 2014/69](https://www.legislation.gov.uk/ssi/2014/69).
 
-[^key-56b7f86537a62008828f4e14e4d6e258]: Commencement: Reg. 39 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-56b7f86537a62008828f4e14e4d6e258]: Commencement: Reg. 39 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-a006728046bd3f9d90672f296832f7ff]: Commencement: Reg. 40 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-a006728046bd3f9d90672f296832f7ff]: Commencement: Reg. 40 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-3e1de7751b770c299495ad84b5017670]: Commencement: Reg. 41 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-3e1de7751b770c299495ad84b5017670]: Commencement: Reg. 41 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-5ad7c6a17b293b320a4d307bbf39ede6]: Commencement: Reg. 42 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-5ad7c6a17b293b320a4d307bbf39ede6]: Commencement: Reg. 42 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
-[^key-54c8e22faa99b253e71feffd3e15ae32]: Commencement: Reg. 43 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-54c8e22faa99b253e71feffd3e15ae32]: Commencement: Reg. 43 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
 
 [^f00009]: Footnote: Regulation J9 was amended by [S.S.I. 2006/308](https://www.legislation.gov.uk/ssi/2006/308), [S.S.I. 2008/227](https://www.legislation.gov.uk/ssi/2008/227), and [S.S.I. 2011/42](https://www.legislation.gov.uk/ssi/2011/42).
 
-[^key-4cdd8914cebf67e934b4c014bdbbe96d]: Commencement: Reg. 44 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)
+[^c-4cdd8914cebf67e934b4c014bdbbe96d]: Commencement: Reg. 44 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1)

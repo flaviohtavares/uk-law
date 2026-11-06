@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Fitness of premises used to provide care and accommodation by the scheme[^key-86dbf94f3a528e2c5021747cd05e1104]
+## 27. Fitness of premises used to provide care and accommodation by the scheme[^c-86dbf94f3a528e2c5021747cd05e1104]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ paragraph (3) does not apply but the registered person must comply with sub-para
 
 ## Annotations
 
-[^key-86dbf94f3a528e2c5021747cd05e1104]: Commencement: Reg. 27 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-86dbf94f3a528e2c5021747cd05e1104]: Commencement: Reg. 27 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

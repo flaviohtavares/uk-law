@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) No liability to income tax arises[^key-1c6eb6ad0e606cc2b331823320158b7d] in respect of the provision of workplace parking for an employee.
+(1) No liability to income tax arises[^c-1c6eb6ad0e606cc2b331823320158b7d] in respect of the provision of workplace parking for an employee.
 
 (2) No liability to income tax arises by virtue of the payment or reimbursement of expenses incurred in connection with the provision for or the use by an employee of workplace parking.
 
 (3) In this section “**workplace parking**” means—
 
-- (a) a parking space for a car or van[^key-b820c36f6cb1b1b48e0db2d002dad846],
+- (a) a parking space for a car or van[^c-b820c36f6cb1b1b48e0db2d002dad846],
 - (b) a motor cycle parking space, or
 - (c) facilities for parking a cycle other than a motor cycle,
 
@@ -34,6 +34,6 @@ at or near the employee’s workplace.
 
 ## Annotations
 
-[^key-1c6eb6ad0e606cc2b331823320158b7d]: Textual amendment: Words in s. 237(1) substituted (with effect in accordance with s. 16(7) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 16(2)](https://www.legislation.gov.uk/ukpga/2005/7/section/16/2)
+[^c-1c6eb6ad0e606cc2b331823320158b7d]: Textual amendment: Words in s. 237(1) substituted (with effect in accordance with s. 16(7) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 16(2)](https://www.legislation.gov.uk/ukpga/2005/7/section/16/2)
 
-[^key-b820c36f6cb1b1b48e0db2d002dad846]: Textual amendment: Words in s. 237(3)(a) substituted (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/8)
+[^c-b820c36f6cb1b1b48e0db2d002dad846]: Textual amendment: Words in s. 237(3)(a) substituted (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/8)

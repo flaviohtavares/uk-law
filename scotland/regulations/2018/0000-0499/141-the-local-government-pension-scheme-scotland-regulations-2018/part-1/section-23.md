@@ -27,14 +27,14 @@ summary: ''
 - (a) the balance mentioned in paragraph (1); plus
 - (b) the amount of earned pension, if any, for the Scheme year; plus
 - (c) the amount of any additional member pension acquired during the Scheme year pursuant to arrangements made under regulation 16(1) or (3) (additional pension contributions); plus or minus, as the case may be;
-- (d) the sum resulting from any pension account adjustment during the Scheme year, plus[^key-af93daede393f0a7edace995eed2da0d]
-- (e)[^key-7b3cb1280c998831d65ae6e25e55f57f] for any Scheme year beginning with the Scheme year that starts on 1 April 2023, the revaluation adjustment which was applied on the revaluation date falling within that Scheme year,
+- (d) the sum resulting from any pension account adjustment during the Scheme year, plus[^c-af93daede393f0a7edace995eed2da0d]
+- (e)[^c-7b3cb1280c998831d65ae6e25e55f57f] for any Scheme year beginning with the Scheme year that starts on 1 April 2023, the revaluation adjustment which was applied on the revaluation date falling within that Scheme year,
 
-must be aggregated [^key-d7c81348e82420ca4bff5e4eccda145e]....
+must be aggregated [^c-d7c81348e82420ca4bff5e4eccda145e]....
 
-(3) The [^key-cc0bfbd507c4f013ca45c504b4da2b2b]... balance calculated under paragraph (2) becomes the new opening balance for the next Scheme year.
+(3) The [^c-cc0bfbd507c4f013ca45c504b4da2b2b]... balance calculated under paragraph (2) becomes the new opening balance for the next Scheme year.
 
-(3A)[^key-848a38cb534e09277bcb4c0dbd495c67] Each Scheme year, beginning with the Scheme year that starts on 1 April 2023, the revaluation adjustment must be applied to the balance mentioned at paragraph (3) on the revaluation date, in accordance with guidance issued by the Scottish Ministers.
+(3A)[^c-848a38cb534e09277bcb4c0dbd495c67] Each Scheme year, beginning with the Scheme year that starts on 1 April 2023, the revaluation adjustment must be applied to the balance mentioned at paragraph (3) on the revaluation date, in accordance with guidance issued by the Scottish Ministers.
 
 (4) Except where regulation 10 (temporary reduction in contributions) applies, the amount of earned pension for a Scheme year is 1/49th of the member's pensionable pay received in that year (irrespective of whether it relates to work carried out in that period).
 
@@ -53,7 +53,7 @@ must be aggregated [^key-d7c81348e82420ca4bff5e4eccda145e]....
 
 (7) If an active member's pension account is closed before the end of a Scheme year any pension account adjustment applicable to the account must be made immediately before the date the account is closed, but no revaluation adjustment is to be made to the active member pension account for that Scheme year.
 
-(8) If a member starts to draw benefits under regulation 29(7)[^key-0b18fe22d53476aecfbd251660b6b893] (flexible retirement) any pension account adjustment applicable to the active member's pension account must be made immediately before the date on which benefits start to be paid.
+(8) If a member starts to draw benefits under regulation 29(7)[^c-0b18fe22d53476aecfbd251660b6b893] (flexible retirement) any pension account adjustment applicable to the active member's pension account must be made immediately before the date on which benefits start to be paid.
 
 (9) Where—
 
@@ -66,14 +66,14 @@ the appropriate administering authority shall reduce the balance in the member's
 
 ## Annotations
 
-[^key-af93daede393f0a7edace995eed2da0d]: Textual amendment: Word in [reg. 23(2)(d)](https://www.legislation.gov.uk/ssi/2018/141/regulation/23/2/d) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [3(1)(a)(i)](https://www.legislation.gov.uk/ssi/2024/37/regulation/3/1/a/i)
+[^c-af93daede393f0a7edace995eed2da0d]: Textual amendment: Word in [reg. 23(2)(d)](https://www.legislation.gov.uk/ssi/2018/141/regulation/23/2/d) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [3(1)(a)(i)](https://www.legislation.gov.uk/ssi/2024/37/regulation/3/1/a/i)
 
-[^key-7b3cb1280c998831d65ae6e25e55f57f]: Textual amendment: [Reg. 23(2)(e)](https://www.legislation.gov.uk/ssi/2018/141/regulation/23/2/e) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [3(1)(a)(i)](https://www.legislation.gov.uk/ssi/2024/37/regulation/3/1/a/i)
+[^c-7b3cb1280c998831d65ae6e25e55f57f]: Textual amendment: [Reg. 23(2)(e)](https://www.legislation.gov.uk/ssi/2018/141/regulation/23/2/e) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [3(1)(a)(i)](https://www.legislation.gov.uk/ssi/2024/37/regulation/3/1/a/i)
 
-[^key-d7c81348e82420ca4bff5e4eccda145e]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/ssi/2018/141/regulation/23/2) omitted (28.3.2024 with effect from 31.3.2023) by virtue of [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [3(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2024/37/regulation/3/1/a/ii)
+[^c-d7c81348e82420ca4bff5e4eccda145e]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/ssi/2018/141/regulation/23/2) omitted (28.3.2024 with effect from 31.3.2023) by virtue of [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [3(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2024/37/regulation/3/1/a/ii)
 
-[^key-cc0bfbd507c4f013ca45c504b4da2b2b]: Textual amendment: Word in [reg. 23(3)](https://www.legislation.gov.uk/ssi/2018/141/regulation/23/3) omitted (28.3.2024 with effect from 31.3.2023) by virtue of [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/ssi/2024/37/regulation/3/1/b)
+[^c-cc0bfbd507c4f013ca45c504b4da2b2b]: Textual amendment: Word in [reg. 23(3)](https://www.legislation.gov.uk/ssi/2018/141/regulation/23/3) omitted (28.3.2024 with effect from 31.3.2023) by virtue of [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/ssi/2024/37/regulation/3/1/b)
 
-[^key-848a38cb534e09277bcb4c0dbd495c67]: Textual amendment: [Reg. 23(3A)](https://www.legislation.gov.uk/ssi/2018/141/regulation/23/3A) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/ssi/2024/37/regulation/3/1/b)
+[^c-848a38cb534e09277bcb4c0dbd495c67]: Textual amendment: [Reg. 23(3A)](https://www.legislation.gov.uk/ssi/2018/141/regulation/23/3A) inserted (28.3.2024 with effect from 31.3.2023) by [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/ssi/2024/37/regulation/3/1/b)
 
-[^key-0b18fe22d53476aecfbd251660b6b893]: Textual amendment: Word in [reg. 23(8)](https://www.legislation.gov.uk/ssi/2018/141/regulation/23/8) substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(13)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/13)
+[^c-0b18fe22d53476aecfbd251660b6b893]: Textual amendment: Word in [reg. 23(8)](https://www.legislation.gov.uk/ssi/2018/141/regulation/23/8) substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(13)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/13)

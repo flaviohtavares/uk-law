@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Bereavement support payment[^key-336aba4cdf29bd5cbae651cce587354d][^key-1fc55c29e5762b5bce3c6db4653e1c61]
+## 29. Bereavement support payment[^c-336aba4cdf29bd5cbae651cce587354d][^c-1fc55c29e5762b5bce3c6db4653e1c61]
 
 *Extent: N.I.*
 
@@ -74,9 +74,9 @@ summary: ''
 
 ## Annotations
 
-[^key-336aba4cdf29bd5cbae651cce587354d]: Commencement: S. 29 in operation at 10.3.2017 for specified purposes by [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2017/44/article/2/1/a)
+[^c-336aba4cdf29bd5cbae651cce587354d]: Commencement: S. 29 in operation at 10.3.2017 for specified purposes by [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2017/44/article/2/1/a)
 
-[^key-1fc55c29e5762b5bce3c6db4653e1c61]: Commencement: S. 29 in operation at 6.4.2017 in so far as not already in operation by [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2017/44/article/2/1/b)
+[^c-1fc55c29e5762b5bce3c6db4653e1c61]: Commencement: S. 29 in operation at 6.4.2017 in so far as not already in operation by [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2017/44/article/2/1/b)
 
 [^M_F_baca9bb7-7388-4e59-f486-556780581b37]: Textual amendment: Words in s. 29(1)(a) substituted (retrospective to 30.8.2018) by [The Bereavement Benefits (Remedial) Order 2023 (S.I. 2023/134)](https://www.legislation.gov.uk/uksi/2023/134), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/134/article/1/3), [7(2)(a)](https://www.legislation.gov.uk/uksi/2023/134/article/7/2/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2023/134/article/2))
 

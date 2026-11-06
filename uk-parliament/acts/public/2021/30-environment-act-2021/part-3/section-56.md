@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Charges for carrier bags[^key-3683defd8f249606e3e220127d590be9][^key-51b53f48a38d35037b75b0520cf3d252]
+## 56. Charges for carrier bags[^c-3683defd8f249606e3e220127d590be9][^c-51b53f48a38d35037b75b0520cf3d252]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ In Schedule 6 to the Climate Change Act 2008 (power to impose carrier bag charge
 
 ## Annotations
 
-[^key-3683defd8f249606e3e220127d590be9]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2021/30/section/56) in force at 9.1.2022 for E.W., see [s. 147(2)(f)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/f)
+[^c-3683defd8f249606e3e220127d590be9]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2021/30/section/56) in force at 9.1.2022 for E.W., see [s. 147(2)(f)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/f)
 
-[^key-51b53f48a38d35037b75b0520cf3d252]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2021/30/section/56) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(h)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/h)
+[^c-51b53f48a38d35037b75b0520cf3d252]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2021/30/section/56) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(h)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/h)

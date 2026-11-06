@@ -35,7 +35,7 @@ Table 1
 | 5 | £43,001 to £85,000 | 8.5% |
 | 6 | More than £85,000 | 10.5% |
 
-(3) Where there is a change in employment, or a material change [^key-81ce16441cc3fa689bf1c79f9fc60e3a]... which affects the member's pensionable pay in the course of a financial year, the employing authority may determine that a contribution rate reflecting the different pay range should be applied and the employing authority shall inform the member of the contribution rate applicable and the date from which it is to be applied.
+(3) Where there is a change in employment, or a material change [^c-81ce16441cc3fa689bf1c79f9fc60e3a]... which affects the member's pensionable pay in the course of a financial year, the employing authority may determine that a contribution rate reflecting the different pay range should be applied and the employing authority shall inform the member of the contribution rate applicable and the date from which it is to be applied.
 
 (4) On the first day of the pay period in which 1st April 2016 falls, and on the first day of the pay period in which each subsequent 1st April falls, the figures in the second column of the table in paragraph (2) are increased by applying the appropriate increase, rounding the result down to the nearest £100 and adding £1 to the first figure in each band apart from band 1.
 
@@ -53,4 +53,4 @@ Table 1
 
 ## Annotations
 
-[^key-81ce16441cc3fa689bf1c79f9fc60e3a]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/nisr/2014/188/regulation/11/3) deleted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2015/162/regulation/4)
+[^c-81ce16441cc3fa689bf1c79f9fc60e3a]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/nisr/2014/188/regulation/11/3) deleted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2015/162/regulation/4)

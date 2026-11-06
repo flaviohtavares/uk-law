@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Declarations provided by academic authorities[^key-249125309eefdb2a099823a51da0b6c4]
+## 118. Declarations provided by academic authorities[^c-249125309eefdb2a099823a51da0b6c4]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-249125309eefdb2a099823a51da0b6c4]: Commencement: [Reg. 118](https://www.legislation.gov.uk/nisr/2007/195/regulation/118) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-249125309eefdb2a099823a51da0b6c4]: Commencement: [Reg. 118](https://www.legislation.gov.uk/nisr/2007/195/regulation/118) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

@@ -43,7 +43,7 @@ Sections 240 to 246 apply to LLPs, modified so that they read as follows—
 >
 > (2) Subsection (1) does not prohibit any use or disclosure of protected information with the consent of the member concerned.
 >
-> (3)[^key-77044b614a030aefec5a38c04d307b8d] If an LLP uses or discloses information in contravention of subsection (1), an offence is committed by—
+> (3)[^c-77044b614a030aefec5a38c04d307b8d] If an LLP uses or discloses information in contravention of subsection (1), an offence is committed by—
 >
 > - (a) the LLP, and
 > - (b) every designated member of the LLP who is in default.
@@ -53,7 +53,7 @@ Sections 240 to 246 apply to LLPs, modified so that they read as follows—
 > - (a) in England and Wales, to a fine;
 > - (b) in Scotland or Northern Ireland, to a fine not exceeding level 5 on the standard scale and, for continued contravention, a daily default fine not exceeding one-tenth of level 5 on the standard scale.
 >
-> **242. Protected information: restriction on ... disclosure by registrar[^key-8195bfdc8688c7ed0f3e2e0f249d7b67]**
+> **242. Protected information: restriction on ... disclosure by registrar[^c-8195bfdc8688c7ed0f3e2e0f249d7b67]**
 >
 > (1) The registrar must omit protected information from the material on the register that is available for inspection where—
 >
@@ -65,24 +65,24 @@ Sections 240 to 246 apply to LLPs, modified so that they read as follows—
 > - (a) to check other documents or (as the case may be) other parts of the document to ensure the absence of protected information, or
 > - (b) to omit from the material that is available for public inspection anything registered before 1st October 2009.
 >
-> (3) The registrar must not [^key-1155a22e7ec8192c854c61dfc1f92452]... disclose protected information except—
+> (3) The registrar must not [^c-1155a22e7ec8192c854c61dfc1f92452]... disclose protected information except—
 >
-> - (a) as permitted by section 243 (permitted [^key-1155a22e7ec8192c854c61dfc1f92452]... disclosure by registrar), [^key-1f01ec115dc6a730df4b8437c90e4ba9]...
-> - (b) in accordance with section 244 (disclosure under court order) , or[^key-cbbd623f218948cab5dff47ee17b9771]
+> - (a) as permitted by section 243 (permitted [^c-1155a22e7ec8192c854c61dfc1f92452]... disclosure by registrar), [^c-1f01ec115dc6a730df4b8437c90e4ba9]...
+> - (b) in accordance with section 244 (disclosure under court order) , or[^c-cbbd623f218948cab5dff47ee17b9771]
 > - (c) as permitted by section 1110F (general powers of disclosure by the registrar).
 >
-> **243. Permitted ... disclosure by the registrar[^key-c212f4c13db14f26b81ceb10489f9c6a]**
+> **243. Permitted ... disclosure by the registrar[^c-c212f4c13db14f26b81ceb10489f9c6a]**
 >
-> (1)[^key-604a0e39c997bede3a6135204e99040f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (1)[^c-604a0e39c997bede3a6135204e99040f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (2)[^key-4c4bbeb789356848ccb4a654ccdc21b2] The registrar may disclose protected information to a credit reference agency.
+> (2)[^c-4c4bbeb789356848ccb4a654ccdc21b2] The registrar may disclose protected information to a credit reference agency.
 >
 > (3) The provisions of the Companies (Disclosure of Address) Regulations 2009 (S.I. 2009/214) relating to disclosure of protected information under this section apply to LLPs.
 >
 > (4) The provisions are—
 >
 > - (a) Part 2 (disclosure of protected information),
-> - (b) Part 4 (matters relating to applications under section 243 and section 1088)[^key-4c903287fb5bcad60c008f5e486fac66], so far as relating to disclosure under this section, and
+> - (b) Part 4 (matters relating to applications under section 243 and section 1088)[^c-4c903287fb5bcad60c008f5e486fac66], so far as relating to disclosure under this section, and
 > - (c) any other provisions of the Regulations having effect for the purposes of those provisions.
 >
 > (5) As those provisions apply to LLPs—
@@ -96,7 +96,7 @@ Sections 240 to 246 apply to LLPs, modified so that they read as follows—
 >   > “**former name**” means a name by which an individual was formerly known and which has been notified to the registrar under section 2 or 9 of the Limited Liability Partnerships Act 2000;
 >
 >   ;
-> - (f)[^key-88faeb4c0ab6a6561fb0a584b61e2142] in regulation 5(2)(a), for the words after “will be subjected to violence or intimidation as a result of the activities of at least one of” substitute—
+> - (f)[^c-88faeb4c0ab6a6561fb0a584b61e2142] in regulation 5(2)(a), for the words after “will be subjected to violence or intimidation as a result of the activities of at least one of” substitute—
 >
 >   > - (i) the companies of which he is, or proposes to become, a director;
 >   > - (ii) the companies of which he was a director;
@@ -112,8 +112,8 @@ Sections 240 to 246 apply to LLPs, modified so that they read as follows—
 >
 > (6) In this section—
 >
-> - “**credit reference agency**” means a person carrying on a business comprising the furnishing of information relevant to the financial standing of individuals, being information collected by the agency for that purpose; [^key-5a7cf3564147259c538d68df126281db]...
-> - [^key-cdbebf6003e659810bbccebaa6f43b4d]...
+> - “**credit reference agency**” means a person carrying on a business comprising the furnishing of information relevant to the financial standing of individuals, being information collected by the agency for that purpose; [^c-5a7cf3564147259c538d68df126281db]...
+> - [^c-cdbebf6003e659810bbccebaa6f43b4d]...
 >
 > **244. Disclosure under court order**
 >
@@ -156,7 +156,7 @@ Sections 240 to 246 apply to LLPs, modified so that they read as follows—
 >
 > (6) What is meant by putting the address on the public record is explained in section 246.
 >
-> **246. Putting the address on the public record[^key-cea70256eab3b3ca26930c0a6b9caebb]**
+> **246. Putting the address on the public record[^c-cea70256eab3b3ca26930c0a6b9caebb]**
 >
 > (1) If the registrar decides in accordance with section 245 that a member‘s usual residential address is to be put on the public record, the registrar must proceed as if each relevant LLP had given notice under section 167H—
 >
@@ -183,28 +183,28 @@ Sections 240 to 246 apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-77044b614a030aefec5a38c04d307b8d]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-77044b614a030aefec5a38c04d307b8d]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-8195bfdc8688c7ed0f3e2e0f249d7b67]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(3)(b)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/3/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-8195bfdc8688c7ed0f3e2e0f249d7b67]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(3)(b)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/3/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-1155a22e7ec8192c854c61dfc1f92452]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/3/a/iii); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-1155a22e7ec8192c854c61dfc1f92452]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/3/a/iii); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-1f01ec115dc6a730df4b8437c90e4ba9]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/3/a/i); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-1f01ec115dc6a730df4b8437c90e4ba9]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/3/a/i); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-cbbd623f218948cab5dff47ee17b9771]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/3/a/ii); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-cbbd623f218948cab5dff47ee17b9771]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/3/a/ii); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-c212f4c13db14f26b81ceb10489f9c6a]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (27.1.2025) by virtue of [The Companies and Limited Liability Partnerships (Protection and Disclosure of Information and Consequential Amendments) Regulations 2024 (S.I. 2024/1377)](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/7/a)
+[^c-c212f4c13db14f26b81ceb10489f9c6a]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (27.1.2025) by virtue of [The Companies and Limited Liability Partnerships (Protection and Disclosure of Information and Consequential Amendments) Regulations 2024 (S.I. 2024/1377)](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/7/a)
 
-[^key-604a0e39c997bede3a6135204e99040f]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (27.1.2025) by virtue of [The Companies and Limited Liability Partnerships (Protection and Disclosure of Information and Consequential Amendments) Regulations 2024 (S.I. 2024/1377)](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/7/b)
+[^c-604a0e39c997bede3a6135204e99040f]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (27.1.2025) by virtue of [The Companies and Limited Liability Partnerships (Protection and Disclosure of Information and Consequential Amendments) Regulations 2024 (S.I. 2024/1377)](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/7/b)
 
-[^key-4c4bbeb789356848ccb4a654ccdc21b2]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(4)(a)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/4/a); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-4c4bbeb789356848ccb4a654ccdc21b2]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(4)(a)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/4/a); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-4c903287fb5bcad60c008f5e486fac66]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) substituted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [6(1)](https://www.legislation.gov.uk/uksi/2025/874/regulation/6/1)
+[^c-4c903287fb5bcad60c008f5e486fac66]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) substituted (21.7.2025) by [The Protection and Disclosure of Personal Information (Amendment) Regulations 2025 (S.I. 2025/874)](https://www.legislation.gov.uk/uksi/2025/874), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/874/regulation/1/2/a), [6(1)](https://www.legislation.gov.uk/uksi/2025/874/regulation/6/1)
 
-[^key-88faeb4c0ab6a6561fb0a584b61e2142]: Textual amendment: Words in reg. 19 inserted (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/4)
+[^c-88faeb4c0ab6a6561fb0a584b61e2142]: Textual amendment: Words in reg. 19 inserted (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/4)
 
-[^key-5a7cf3564147259c538d68df126281db]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/4/b/ii); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-5a7cf3564147259c538d68df126281db]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/4/b/ii); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-cdbebf6003e659810bbccebaa6f43b4d]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/4/b/i); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-cdbebf6003e659810bbccebaa6f43b4d]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) omitted (4.3.2024) by virtue of [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/4/b/i); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-cea70256eab3b3ca26930c0a6b9caebb]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/5); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-cea70256eab3b3ca26930c0a6b9caebb]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2009/1804/regulation/19) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [20(5)](https://www.legislation.gov.uk/uksi/2024/234/regulation/20/5); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

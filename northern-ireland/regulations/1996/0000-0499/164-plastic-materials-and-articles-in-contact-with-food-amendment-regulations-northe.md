@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland in exercise of the powers conferred on it by Articles 15(2), 16(1), 25(1)(*a*) and (3), 26(3), 32 and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00001], and being a designated Department[^f00002] for the purposes of section 2(2) of the European Communities Act 1972[^f00003] in relation to materials and articles in contact with food or drink or intended for such contact, in exercise of the powers confered on it by the said section 2(2) and of all other powers enabling it in that behalf, and after consultation in accordance with Article 47(3) of the said Order with such organisations as appear to it to be representative of interests likely to be substantially affected by these Regulations (in so far as the Regulations are made in exercise of the powers conferred by the said Order), hereby makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation[^key-e3c863acf3374fe428c96904e90dc96b]
+## 1. Citation, commencement and interpretation[^c-e3c863acf3374fe428c96904e90dc96b]
 
 (1) These Regulations may be cited as the Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 3rd June 1996.
 
@@ -50,7 +50,7 @@ The Department of Health and Social Services for Northern Ireland in exercise of
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of the principal Regulations[^key-3380501675d9cd906491aa4660da6e90]
+## 2. Amendment of the principal Regulations[^c-3380501675d9cd906491aa4660da6e90]
 
 The principal Regulations shall be amended as follows—
 
@@ -106,7 +106,7 @@ Assistant Secretary
 
 18th April 1996
 
-## SCHEDULE 1[^key-4593cbbae9a38530f90a2bff460d9e53]
+## SCHEDULE 1[^c-4593cbbae9a38530f90a2bff460d9e53]
 
 Regulation 2(*d*)
 
@@ -125,7 +125,7 @@ Regulation 2(*d*)
 </tbody>
 </table>
 
-## SCHEDULE 2[^key-81201f21584aae5ca196fd83049c19da]
+## SCHEDULE 2[^c-81201f21584aae5ca196fd83049c19da]
 
 Regulation 2(*h*)
 
@@ -143,7 +143,7 @@ Regulation 2(*h*)
 > </tbody>
 > </table>
 
-## SCHEDULE 3[^key-f87f50196643ef5f6e56bc88d4d35413]
+## SCHEDULE 3[^c-f87f50196643ef5f6e56bc88d4d35413]
 
 Regulation 2(*i*)
 
@@ -480,16 +480,16 @@ The Regulations—
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-e3c863acf3374fe428c96904e90dc96b]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/164/regulation/1/1)
+[^c-e3c863acf3374fe428c96904e90dc96b]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/164/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1993 No. 173](https://www.legislation.gov.uk/nisr/1993/173), as amended by [S.R. 1995 No. 107](https://www.legislation.gov.uk/nisr/1995/107)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3380501675d9cd906491aa4660da6e90]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/164/regulation/1/1)
+[^c-3380501675d9cd906491aa4660da6e90]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/164/regulation/1/1)
 
-[^key-4593cbbae9a38530f90a2bff460d9e53]: Commencement: Sch. 1 in operation at 3.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/164/regulation/1/1)
+[^c-4593cbbae9a38530f90a2bff460d9e53]: Commencement: Sch. 1 in operation at 3.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/164/regulation/1/1)
 
-[^key-81201f21584aae5ca196fd83049c19da]: Commencement: Sch. 2 in operation at 3.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/164/regulation/1/1)
+[^c-81201f21584aae5ca196fd83049c19da]: Commencement: Sch. 2 in operation at 3.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/164/regulation/1/1)
 
-[^key-f87f50196643ef5f6e56bc88d4d35413]: Commencement: Sch. 3 in operation at 3.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/164/regulation/1/1)
+[^c-f87f50196643ef5f6e56bc88d4d35413]: Commencement: Sch. 3 in operation at 3.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/164/regulation/1/1)

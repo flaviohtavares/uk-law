@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2O. Reviews[^key-f20f99dee295bf8629433630af3aa773]
+## 2O. Reviews[^c-f20f99dee295bf8629433630af3aa773]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f20f99dee295bf8629433630af3aa773]: Textual amendment: [S. 2O](https://www.legislation.gov.uk/ukpga/2000/8/section/2O) omitted (1.3.2017) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/27) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)
+[^c-f20f99dee295bf8629433630af3aa773]: Textual amendment: [S. 2O](https://www.legislation.gov.uk/ukpga/2000/8/section/2O) omitted (1.3.2017) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/27) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)

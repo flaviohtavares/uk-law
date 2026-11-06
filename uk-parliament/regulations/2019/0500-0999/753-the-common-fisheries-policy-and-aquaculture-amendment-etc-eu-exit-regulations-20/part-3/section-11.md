@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Council Regulation [(EC) No 850/98](https://www.legislation.gov.uk/eur/1998/850) for the conservation of fishery resources through technical measures for the protection of juveniles of marine organisms[^key-af1684acb5794348088ee63dbfd902c6]
+## 11. Council Regulation [(EC) No 850/98](https://www.legislation.gov.uk/eur/1998/850) for the conservation of fishery resources through technical measures for the protection of juveniles of marine organisms[^c-af1684acb5794348088ee63dbfd902c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af1684acb5794348088ee63dbfd902c6]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/753/regulation/11) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af1684acb5794348088ee63dbfd902c6]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/753/regulation/11) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

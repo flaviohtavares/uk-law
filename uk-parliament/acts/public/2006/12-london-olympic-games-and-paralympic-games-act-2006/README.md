@@ -34,7 +34,7 @@ An Act to make provision in connection with the Olympic Games and Paralympic Gam
 
 \[30th March 2006\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-92935a7ba63030d1e7223b5e993051fb][^key-10a093e695eab0e17118ae4b1bf33e0b]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-92935a7ba63030d1e7223b5e993051fb][^c-10a093e695eab0e17118ae4b1bf33e0b]
 
 ## Contents
 
@@ -94,7 +94,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 30 — Other authorities](section-30.md)
 - [Section 31 — Sale of tickets](section-31.md)
 
-### Removal of infringing articles[^key-9f127c7cbd3b52c8e72edc678fe15ec0]
+### Removal of infringing articles[^c-9f127c7cbd3b52c8e72edc678fe15ec0]
 
 *Extent: E+W+S*
 
@@ -130,8 +130,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-92935a7ba63030d1e7223b5e993051fb]: Modification: Act: functions made partly exercisable concurrently (22.8.2007) by [Transfer of Functions (Olympics and Paralympics) Order 2007 (S.I. 2007/2129)](https://www.legislation.gov.uk/uksi/2007/2129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2129/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/1), [(2)(d)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2129/article/4))
+[^c-92935a7ba63030d1e7223b5e993051fb]: Modification: Act: functions made partly exercisable concurrently (22.8.2007) by [Transfer of Functions (Olympics and Paralympics) Order 2007 (S.I. 2007/2129)](https://www.legislation.gov.uk/uksi/2007/2129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2129/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/1), [(2)(d)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2129/article/4))
 
-[^key-10a093e695eab0e17118ae4b1bf33e0b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/12) functions cease to be exercisable concurrently (7.7.2010) by [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 7(d)](https://www.legislation.gov.uk/uksi/2010/1551/article/7/d)
+[^c-10a093e695eab0e17118ae4b1bf33e0b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/12) functions cease to be exercisable concurrently (7.7.2010) by [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 7(d)](https://www.legislation.gov.uk/uksi/2010/1551/article/7/d)
 
-[^key-9f127c7cbd3b52c8e72edc678fe15ec0]: Textual amendment: [Ss. 31A-31E](https://www.legislation.gov.uk/ukpga/2006/12/section/31A) inserted (E.W.S) (14.2.2012) by [London Olympic Games and Paralympic Games (Amendment) Act 2011 (c. 22)](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 1(9)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/9), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1)
+[^c-9f127c7cbd3b52c8e72edc678fe15ec0]: Textual amendment: [Ss. 31A-31E](https://www.legislation.gov.uk/ukpga/2006/12/section/31A) inserted (E.W.S) (14.2.2012) by [London Olympic Games and Paralympic Games (Amendment) Act 2011 (c. 22)](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 1(9)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/9), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198H. Acquisition by member of same group[^key-bc0f627f676ff20f457d5e02f4955b46]
+## 198H. Acquisition by member of same group[^c-bc0f627f676ff20f457d5e02f4955b46]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ as if both companies were the same person.
 
 ## Annotations
 
-[^key-bc0f627f676ff20f457d5e02f4955b46]: Textual amendment: S. 198H inserted (with effect in accordance with s. 17(2) of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2010/33/section/17/1)
+[^c-bc0f627f676ff20f457d5e02f4955b46]: Textual amendment: S. 198H inserted (with effect in accordance with s. 17(2) of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2010/33/section/17/1)

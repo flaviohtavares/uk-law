@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 145. Temporary exclusion[^key-548c1a0effbf33b3b8bb6e0e1a26c001]
+## 145. Temporary exclusion[^c-548c1a0effbf33b3b8bb6e0e1a26c001]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-548c1a0effbf33b3b8bb6e0e1a26c001]: Commencement: [S. 145](https://www.legislation.gov.uk/anaw/2016/1/section/145) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-548c1a0effbf33b3b8bb6e0e1a26c001]: Commencement: [S. 145](https://www.legislation.gov.uk/anaw/2016/1/section/145) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

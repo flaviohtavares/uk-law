@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Offence of concealing etc. documents following notification[^key-d9b3bc600be799334dc21ea23f462e8c]
+## 115. Offence of concealing etc. documents following notification[^c-d9b3bc600be799334dc21ea23f462e8c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9b3bc600be799334dc21ea23f462e8c]: Commencement: S. 115 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-d9b3bc600be799334dc21ea23f462e8c]: Commencement: S. 115 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)

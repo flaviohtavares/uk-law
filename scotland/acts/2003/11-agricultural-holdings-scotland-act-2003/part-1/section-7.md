@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Assignation and subletting of limited duration tenancies[^key-99319f0d143c9d7b04e49531161ce7be]
+## 7. Assignation and subletting of limited duration tenancies[^c-99319f0d143c9d7b04e49531161ce7be]
 
 *Extent: S*
 
@@ -24,14 +24,14 @@ summary: ''
 
 (2) The tenant must give the landlord a notice in writing of any intention of the tenant to assign the lease; and the notice must include the particulars of the proposed assignee, the terms upon which the assignation is to be made and the date on which it is to take effect.
 
-(3) Subject to subsection (3A), the[^key-729e134f87f83b5dd2d0e6a8f4c03d1c] landlord may withhold consent to the proposed assignation if there are reasonable grounds for doing so; and, in particular, the landlord may withhold consent if not satisfied that the proposed assignee—
+(3) Subject to subsection (3A), the[^c-729e134f87f83b5dd2d0e6a8f4c03d1c] landlord may withhold consent to the proposed assignation if there are reasonable grounds for doing so; and, in particular, the landlord may withhold consent if not satisfied that the proposed assignee—
 
 - (a) would have the ability to pay—
   - (i) the rent due under the lease; or
   - (ii) for adequate maintenance of the land; or
 - (b) has the skills or experience that would be required properly to manage and maintain the land in accordance with the rules of good husbandry.
 
-(3A)[^key-5d5bf2774f263334b351ad2154b759ea] Where the tenant proposes to assign the lease to a person who is a near relative of the tenant, the only grounds on which the landlord can withhold consent to the proposed assignation are the following—
+(3A)[^c-5d5bf2774f263334b351ad2154b759ea] Where the tenant proposes to assign the lease to a person who is a near relative of the tenant, the only grounds on which the landlord can withhold consent to the proposed assignation are the following—
 
 - (a) that the person is not of good character,
 - (b) that the person does not have sufficient resources to enable the person to farm the land with reasonable efficiency,
@@ -53,7 +53,7 @@ summary: ''
   of the landlord’s intention to acquire that interest; and
 - (b) the terms upon which the landlord acquires that interest are no less favourable to the tenant than any reasonable terms upon which the proposed assignation was to have been made.
 
-(5A)[^key-ab0d09794630b35eaf54eaf08d8cdc18] For the purposes of subsection (3A), “**near relative**”, in relation to a tenant of an agricultural holding, means—
+(5A)[^c-ab0d09794630b35eaf54eaf08d8cdc18] For the purposes of subsection (3A), “**near relative**”, in relation to a tenant of an agricultural holding, means—
 
 - (a) a parent of the tenant,
 - (b) a spouse or civil partner of the tenant,
@@ -75,10 +75,10 @@ summary: ''
 
 ## Annotations
 
-[^key-99319f0d143c9d7b04e49531161ce7be]: Commencement: S. 7 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-99319f0d143c9d7b04e49531161ce7be]: Commencement: S. 7 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-729e134f87f83b5dd2d0e6a8f4c03d1c]: Textual amendment: Words in s. 7(3) substituted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 104(2)(a)](https://www.legislation.gov.uk/asp/2016/18/section/104/2/a), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/365/regulation/4))
+[^c-729e134f87f83b5dd2d0e6a8f4c03d1c]: Textual amendment: Words in s. 7(3) substituted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 104(2)(a)](https://www.legislation.gov.uk/asp/2016/18/section/104/2/a), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/365/regulation/4))
 
-[^key-5d5bf2774f263334b351ad2154b759ea]: Textual amendment: S. 7(3A)(3B) inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 104(2)(b)](https://www.legislation.gov.uk/asp/2016/18/section/104/2/b), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/365/regulation/4))
+[^c-5d5bf2774f263334b351ad2154b759ea]: Textual amendment: S. 7(3A)(3B) inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 104(2)(b)](https://www.legislation.gov.uk/asp/2016/18/section/104/2/b), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/365/regulation/4))
 
-[^key-ab0d09794630b35eaf54eaf08d8cdc18]: Textual amendment: S. 7(5A) inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 104(2)(c)](https://www.legislation.gov.uk/asp/2016/18/section/104/2/c), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/365/regulation/4))
+[^c-ab0d09794630b35eaf54eaf08d8cdc18]: Textual amendment: S. 7(5A) inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 104(2)(c)](https://www.legislation.gov.uk/asp/2016/18/section/104/2/c), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/365/regulation/4))

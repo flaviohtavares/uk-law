@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Offences relating to investigations[^key-23ceadaf39aea644dfaded80389f0026][^key-02391e43bdd0675e62132dfbd373edaa]
+## 121. Offences relating to investigations[^c-23ceadaf39aea644dfaded80389f0026][^c-02391e43bdd0675e62132dfbd373edaa]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-23ceadaf39aea644dfaded80389f0026]: Commencement: S. 121 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-23ceadaf39aea644dfaded80389f0026]: Commencement: S. 121 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-02391e43bdd0675e62132dfbd373edaa]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2022/31/section/121) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-02391e43bdd0675e62132dfbd373edaa]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2022/31/section/121) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

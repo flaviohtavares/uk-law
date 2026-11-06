@@ -57,7 +57,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 32 and 48(2
 
 (2) In this Order unless otherwise stated, a reference to “**construction work [^c23414011]**” is to be construed as a reference to construction work which has drainage implications [^c23414021].
 
-(3)[^key-29467908e7ed03dc6115a08c5c21d146] For the purposes of this Order, “planning permission” means planning permission under the Town and Country Planning Act 1990 but does not include those permitted developments which are granted planning permission either by virtue of a development order or a local development order in accordance with section 58(1)(a) of that Act.
+(3)[^c-29467908e7ed03dc6115a08c5c21d146] For the purposes of this Order, “planning permission” means planning permission under the Town and Country Planning Act 1990 but does not include those permitted developments which are granted planning permission either by virtue of a development order or a local development order in accordance with section 58(1)(a) of that Act.
 
 ## 3. Construction work not to be treated as having drainage implications
 
@@ -77,7 +77,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 32 and 48(2
 - “**Network Rail**” means Network Rail Infrastructure Limited (Company No. 02904587) whose registered office is at 1 Eversholt Street, London, NW1 2DN;
 - “**railway**” (“***rheilffordd***”) has the meaning given in section 67(1) of the Transport and Works Act 1992 [^c23414051].
 
-## 4. Exceptions to requirement for approval: planning permission not required[^key-0f2f41fd5d9615df305fa47c4b0e935c]
+## 4. Exceptions to requirement for approval: planning permission not required[^c-0f2f41fd5d9615df305fa47c4b0e935c]
 
 (1) Subject to paragraph (2), the requirement for approval under paragraph 7(1) of Schedule 3 does not apply to construction work where the construction work does not require planning permission.
 
@@ -165,7 +165,7 @@ A regulatory impact assessment in relation to Wales has been prepared on the lik
 
 [^c23414021]: Marginal citation: “Drainage implications” is defined in paragraph 7(2)(b) of Schedule 3.
 
-[^key-29467908e7ed03dc6115a08c5c21d146]: Textual amendment: Art. 2(3) inserted (9.6.2020) by [The Sustainable Drainage (Approval and Adoption) (Wales) (Amendment) Order 2020 (S.I. 2020/517)](https://www.legislation.gov.uk/wsi/2020/517), [arts. 1](https://www.legislation.gov.uk/wsi/2020/517/article/1), [3](https://www.legislation.gov.uk/wsi/2020/517/article/3)
+[^c-29467908e7ed03dc6115a08c5c21d146]: Textual amendment: Art. 2(3) inserted (9.6.2020) by [The Sustainable Drainage (Approval and Adoption) (Wales) (Amendment) Order 2020 (S.I. 2020/517)](https://www.legislation.gov.uk/wsi/2020/517), [arts. 1](https://www.legislation.gov.uk/wsi/2020/517/article/1), [3](https://www.legislation.gov.uk/wsi/2020/517/article/3)
 
 [^c23414031]: Marginal citation: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 
@@ -173,7 +173,7 @@ A regulatory impact assessment in relation to Wales has been prepared on the lik
 
 [^c23414051]: Marginal citation: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
 
-[^key-0f2f41fd5d9615df305fa47c4b0e935c]: Textual amendment: Art. 4 substituted (9.6.2020) by [The Sustainable Drainage (Approval and Adoption) (Wales) (Amendment) Order 2020 (S.I. 2020/517)](https://www.legislation.gov.uk/wsi/2020/517), [arts. 1](https://www.legislation.gov.uk/wsi/2020/517/article/1), [4](https://www.legislation.gov.uk/wsi/2020/517/article/4)
+[^c-0f2f41fd5d9615df305fa47c4b0e935c]: Textual amendment: Art. 4 substituted (9.6.2020) by [The Sustainable Drainage (Approval and Adoption) (Wales) (Amendment) Order 2020 (S.I. 2020/517)](https://www.legislation.gov.uk/wsi/2020/517), [arts. 1](https://www.legislation.gov.uk/wsi/2020/517/article/1), [4](https://www.legislation.gov.uk/wsi/2020/517/article/4)
 
 [^c23414071]: Marginal citation: [S.I. 2012/801](https://www.legislation.gov.uk/uksi/2012/801) (W. 110).
 

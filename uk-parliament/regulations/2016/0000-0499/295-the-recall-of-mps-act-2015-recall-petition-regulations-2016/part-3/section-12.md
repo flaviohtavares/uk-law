@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. The official mark[^key-68a7605a2893b4079c99020ae8e8b462]
+## 12. The official mark[^c-68a7605a2893b4079c99020ae8e8b462]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68a7605a2893b4079c99020ae8e8b462]: Commencement: Reg. 12 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-68a7605a2893b4079c99020ae8e8b462]: Commencement: Reg. 12 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

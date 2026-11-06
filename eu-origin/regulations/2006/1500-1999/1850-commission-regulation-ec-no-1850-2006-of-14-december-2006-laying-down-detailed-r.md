@@ -135,8 +135,8 @@ HAS ADOPTED THIS REGULATION:
 
 2. This Regulation shall apply to:
 
-- (a) products referred to in Part VI of Annex I to Regulation (EU) No 1308/2013[^key-d291595df58e59c464f8daf227b54172] when harvested in Great Britain[^key-f3e4ca7308491168b860058b67e48aca];
-- (b) products prepared from products referred to in Part VI of Annex I to that Regulation[^key-19c3c895738b7bc28d6e76a3cbcc36c4] which have either been harvested in Great Britain[^key-074caf784fe6a84a67eaa592e1dc22e8] or imported from third countries in accordance with Article 190 of that Regulation[^key-e094535a5a72ab75c60b9ab42edd4164].
+- (a) products referred to in Part VI of Annex I to Regulation (EU) No 1308/2013[^c-d291595df58e59c464f8daf227b54172] when harvested in Great Britain[^c-f3e4ca7308491168b860058b67e48aca];
+- (b) products prepared from products referred to in Part VI of Annex I to that Regulation[^c-19c3c895738b7bc28d6e76a3cbcc36c4] which have either been harvested in Great Britain[^c-074caf784fe6a84a67eaa592e1dc22e8] or imported from third countries in accordance with Article 190 of that Regulation[^c-e094535a5a72ab75c60b9ab42edd4164].
 
 3. This Regulation shall not apply to:
 
@@ -147,11 +147,11 @@ HAS ADOPTED THIS REGULATION:
 
 However, Article 20 shall apply to the products referred to in points (a), (b) and (c) of this paragraph.
 
-4. Without prejudice to paragraph 3(a), only certified hops, certified hop products prepared from certified hops and hops imported from third countries in accordance with Article 190 of Regulation (EU) No 1308/2013[^key-7b49de04d2f00f25e016d2df516a2e2c] may be used in the manufacture of products prepared from hops.
+4. Without prejudice to paragraph 3(a), only certified hops, certified hop products prepared from certified hops and hops imported from third countries in accordance with Article 190 of Regulation (EU) No 1308/2013[^c-7b49de04d2f00f25e016d2df516a2e2c] may be used in the manufacture of products prepared from hops.
 
 ### Article 2. Definitions
 
-((1))[^key-6d32b010cec2dd1d5334356e8a50a699] For the purposes of this Regulation, the following definitions shall apply:
+((1))[^c-6d32b010cec2dd1d5334356e8a50a699] For the purposes of this Regulation, the following definitions shall apply:
 
 - ((a)) ‘unprepared hops’ means hops which have undergone only preliminary drying and packaging;
 - ((b)) ‘prepared hops’ means hops which have undergone final drying and final packaging;
@@ -160,22 +160,22 @@ However, Article 20 shall apply to the products referred to in points (a), (b) a
 - ((e)) ‘sealing’ means closure of the package under official surveillance and in such a way that the means of closure will be damaged when the package is opened;
 - ((f)) ‘closed operating circuit’ means a process for preparing or processing hops carried out under official surveillance and in such a way that no hops or processed products can be added or removed during the operation. The closed operating circuit starts with the opening of the sealed package containing the hops or hop products to be prepared or processed and ends with the sealing of the package containing the processed hops or hop product;
 - ((g)) ‘consignment’ means a number of packages of hops or hop products with the same characteristics presented at the same time for certification by the same individual or associated producer or by the same processor;
-- ((h)) ‘hop production areas’ means the zones or regions of production in the list prepared by the appropriate authorities in accordance with Article 23 of this Regulation[^key-08f3c4c2c42b39bba19d950cf28490dd];
+- ((h)) ‘hop production areas’ means the zones or regions of production in the list prepared by the appropriate authorities in accordance with Article 23 of this Regulation[^c-08f3c4c2c42b39bba19d950cf28490dd];
 - ((i)) ‘concentrated hop powder’ means product obtained by the action of a solvent on the product obtained by milling the hops, containing all the natural elements thereof;
-- ((j)) ‘competent certification authority’ means the body or department authorised by the appropriate authority[^key-b793af641136824a973532598a8edc24] to carry out certification and to approve and control certification centres;
+- ((j)) ‘competent certification authority’ means the body or department authorised by the appropriate authority[^c-b793af641136824a973532598a8edc24] to carry out certification and to approve and control certification centres;
 - ((k)) ‘marking’ means labelling and identification;
 - ((l)) ‘certification centre’ means a venue where certification is carried out;
 - ((m)) ‘representatives of a competent certification authority’ means either personnel employed by the competent certification authority, or employed by a third party and authorised by the competent certification authority to carry out certification duties;
 - ((n)) ‘official surveillance’ means supervision of certification activities by the competent certification authority or its representatives;
 - ((o)) ‘isomerised hop product’ means hop product in which the alpha acids have been almost totally isomerised.
-- ((p)) ‘constituent nation’ means England, Wales or Scotland, as the case may be;[^key-b0873142928489aa4431d0c378b38875]
+- ((p)) ‘constituent nation’ means England, Wales or Scotland, as the case may be;[^c-b0873142928489aa4431d0c378b38875]
 - ((q)) ‘third country’ means any country or territory other than:
   - (i) the United Kingdom;
   - (ii) the Bailiwick of Jersey;
   - (ii) the Bailiwick of Guernsey;
   - (vi) the Isle of Man.
 
-(2)[^key-1eb1e1084fc97c19e414839fe39dad53] For the purposes of this Regulation, ‘appropriate authority’ means:
+(2)[^c-1eb1e1084fc97c19e414839fe39dad53] For the purposes of this Regulation, ‘appropriate authority’ means:
 
 - (a) in relation to England, the Secretary of State;
 - (b) in relation to Wales, the Welsh Ministers;
@@ -195,14 +195,14 @@ However, Article 20 shall apply to the products referred to in points (a), (b) a
 - (b) the harvest year;
 - (c) the variety;
 - (d) the place of production;
-- (e) the parcel reference in the integrated administrative and control system (IACS) provided for in Article 67 of Regulation (EU) No 1306/2013[^key-a6478f195e4962a69b65db71447a3070], or the land register reference or an official equivalent thereof;
+- (e) the parcel reference in the integrated administrative and control system (IACS) provided for in Article 67 of Regulation (EU) No 1306/2013[^c-a6478f195e4962a69b65db71447a3070], or the land register reference or an official equivalent thereof;
 - (f) the number of packages in the consignment.
 
 2. The declaration provided for in paragraph 1 shall accompany the consignment of hops throughout all processing or mixing operations and in any case until the certificate is issued.
 
 ### Article 4. Marketing requirements
 
-1. In order to be certified, hops shall comply with the conditions referred to in point 1 of Part III of Annex II to Regulation (EU) No 1308/2013[^key-d20f0289b560a1181813d17603fcf200] and the minimum marketing requirements set out in Annex I to this Regulation.
+1. In order to be certified, hops shall comply with the conditions referred to in point 1 of Part III of Annex II to Regulation (EU) No 1308/2013[^c-d20f0289b560a1181813d17603fcf200] and the minimum marketing requirements set out in Annex I to this Regulation.
 
 2. Compliance with the minimum marketing requirement relating to the moisture content of the hops shall be checked by representatives of the competent certification authority applying one of the methods described in Annex II(B).
 
@@ -224,7 +224,7 @@ Samples shall be taken, in each consignment, from at least one package in 10 and
 
 2. Certification shall be carried out before the product is offered for sale and, in any event, before processing.
 
-It shall take place not later than 31 March of the year following the year of harvesting. The appropriate authority[^key-0fc61b717c6710c57dba0912b4dff235] may set an earlier date.
+It shall take place not later than 31 March of the year following the year of harvesting. The appropriate authority[^c-0fc61b717c6710c57dba0912b4dff235] may set an earlier date.
 
 3. Marking shall be carried out in accordance with Annex III, under official surveillance and after sealing, on the unit of packaging in which the product is to be marketed.
 
@@ -238,7 +238,7 @@ It shall take place not later than 31 March of the year following the year of ha
 
 2. Hops for blending must come from the same hop production area and the same harvest and be of the same variety.
 
-3. By way of derogation from paragraph 2, certified hops originating from Great Britain[^key-f7160a647335b4d40f34afbeb7473502] which are from the same harvest but of different varieties and from different hop production areas may be blended in the manufacture of powder and extracts provided that the certificate accompanying the product states:
+3. By way of derogation from paragraph 2, certified hops originating from Great Britain[^c-f7160a647335b4d40f34afbeb7473502] which are from the same harvest but of different varieties and from different hop production areas may be blended in the manufacture of powder and extracts provided that the certificate accompanying the product states:
 
 - (a) the varieties used, the hop production areas and the year of harvesting;
 - (b) the percentage weight of each variety used in the blend; if hop products have been used in combination with cone hops for the manufacturing of hop products, or if different hop products have been used, the percentage weight of each variety based on the quantity of cone hops which was used for the preparation of the input products;
@@ -246,7 +246,7 @@ It shall take place not later than 31 March of the year following the year of ha
 
 ### Article 8. Resale
 
-In the case of resale of hops within Great Britain[^key-e2742caf270e9b99d2ceae4195d333df], after a certified consignment has been split up, the product shall be accompanied by an invoice or a commercial document drawn up by the vendor stating the reference number of the certificate.
+In the case of resale of hops within Great Britain[^c-e2742caf270e9b99d2ceae4195d333df], after a certified consignment has been split up, the product shall be accompanied by an invoice or a commercial document drawn up by the vendor stating the reference number of the certificate.
 
 The invoice or commercial document shall also bear the following information, taken from the certificate:
 
@@ -326,7 +326,7 @@ They shall be kept by the operator of a processing plant for at least three year
 
 1. Hop products certified in accordance with this Regulation may be blended only under official surveillance in certification centres.
 
-2. Certified hop products prepared from certified hops originating from Great Britain[^key-e76e31f41749b3e26a33899ea9fe6766] which are from the same harvest but of different varieties and from different hop production areas may be blended in the manufacture of powder and extracts provided that the certificate accompanying the product states:
+2. Certified hop products prepared from certified hops originating from Great Britain[^c-e76e31f41749b3e26a33899ea9fe6766] which are from the same harvest but of different varieties and from different hop production areas may be blended in the manufacture of powder and extracts provided that the certificate accompanying the product states:
 
 - (a) the varieties used, the hop production areas and the year of harvesting;
 - (b) the percentage weight of each variety used in the blend; if hop products have been used in combination with cone hops for the manufacturing of hop products, or if different hop products have been used, the percentage weight of each variety based on the quantity of cone hops which was used for the preparation of the input products;
@@ -334,7 +334,7 @@ They shall be kept by the operator of a processing plant for at least three year
 
 ### Article 15. Resale
 
-In the case of resale of hop products within Great Britain[^key-bb392f26ce8674befcdd5b5238dae98e], after a certified consignment has been split up, the product shall be accompanied by an invoice or a commercial document drawn up by the vendor stating the reference number of the certificate. The invoice or commercial document shall also bear the following information, taken from the certificate:
+In the case of resale of hop products within Great Britain[^c-bb392f26ce8674befcdd5b5238dae98e], after a certified consignment has been split up, the product shall be accompanied by an invoice or a commercial document drawn up by the vendor stating the reference number of the certificate. The invoice or commercial document shall also bear the following information, taken from the certificate:
 
 - ((a)) the designation of the product;
 - ((b)) the gross and/or net weight;
@@ -354,21 +354,21 @@ In the case of resale of hop products within Great Britain[^key-bb392f26ce8674be
 - (a) the description of the product;
 - (b) the reference number of the certificate;
 - (c) the net and/or gross weight;
-- (d) the hop production area or the place of production as referred to in Article 77(3)(a) of Regulation (EU) No 1308/2013[^key-2e89c3d0e6078a82c40604cfd070d0c1];
+- (d) the hop production area or the place of production as referred to in Article 77(3)(a) of Regulation (EU) No 1308/2013[^c-2e89c3d0e6078a82c40604cfd070d0c1];
 - (e) the year of harvesting;
 - (f) the variety;
 - (g) the mention ‘seeded hops’ or ‘seedless hops’, as appropriate;
-- (h)[^key-3d715ee458b7caa25437833b21318dd0] the words ‘Certified product – Regulation [(EC) No 1850/2006](https://www.legislation.gov.uk/eur/2006/1850)’, applied by the competent certification authority
+- (h)[^c-3d715ee458b7caa25437833b21318dd0] the words ‘Certified product – Regulation [(EC) No 1850/2006](https://www.legislation.gov.uk/eur/2006/1850)’, applied by the competent certification authority
 
 3. In the case of products prepared from hops, the certificate shall include, in addition to the entries listed in paragraph 2, the place and date of processing.
 
-4. The reference number of the certificate referred to in paragraph 2(b) shall be made up of codes designating, in accordance with Annex VI, the certification centre, the country in which certification takes place[^key-7b44e7a2d50786561132181caabb8a4b], the year of harvesting and the relevant consignment.
+4. The reference number of the certificate referred to in paragraph 2(b) shall be made up of codes designating, in accordance with Annex VI, the certification centre, the country in which certification takes place[^c-7b44e7a2d50786561132181caabb8a4b], the year of harvesting and the relevant consignment.
 
 The reference number shall be the same for all packages in a consignment.
 
 ### Article 17. Information on the package
 
-Each package shall bear at least the following entries in English (and may also bear the same entries in any other language)[^key-896afc89763edaefb69c83e11ead4dea]:
+Each package shall bear at least the following entries in English (and may also bear the same entries in any other language)[^c-896afc89763edaefb69c83e11ead4dea]:
 
 - ((a)) the description of the product, including the mentions ‘seeded hops’ or ‘seedless hops’, as appropriate, and ‘prepared hops’ or ‘unprepared hops’, as the case may be;
 - ((b)) the variety or varieties;
@@ -420,15 +420,15 @@ A description of the product and its weight must appear on the package.
 
 ### Article 21. Competent certification authority
 
-1. The appropriate authority[^key-bd4d1205a19e13c79c2eb6fa1d193a8b] shall appoint a competent certification authority and ensure that the necessary controls and manuals of procedures are in place, with a view to guaranteeing a minimal quality of the hops and hop products as well as traceability.
+1. The appropriate authority[^c-bd4d1205a19e13c79c2eb6fa1d193a8b] shall appoint a competent certification authority and ensure that the necessary controls and manuals of procedures are in place, with a view to guaranteeing a minimal quality of the hops and hop products as well as traceability.
 
 2. The competent certification authority, or its representatives, shall carry out certification. It shall have adequate resources to carry out its duties.
 
-3. The competent certification authority is responsible for ensuring the respect of the provisions of this Regulation in the territory or territories for which it is appointed[^key-a40e3a926c5b2fa0cbfe6191526ddc13]. The permanence or frequency of compliance control shall be determined on the basis of a risk analysis by the Member State appropriate authority[^key-264b02a24a1c9e5c74c8d26f103813ec] with a minimum frequency of once per month. The effectiveness of risk analysis parameters used in previous years shall be assessed on an annual basis.
+3. The competent certification authority is responsible for ensuring the respect of the provisions of this Regulation in the territory or territories for which it is appointed[^c-a40e3a926c5b2fa0cbfe6191526ddc13]. The permanence or frequency of compliance control shall be determined on the basis of a risk analysis by the Member State appropriate authority[^c-264b02a24a1c9e5c74c8d26f103813ec] with a minimum frequency of once per month. The effectiveness of risk analysis parameters used in previous years shall be assessed on an annual basis.
 
 ### Article 22. Approval of certification centres
 
-1. The competent certification authority shall approve certification centres, having a legal personality or sufficient legal capacity to be subject [^key-2a5d2349a3e1f5db0a875fe326f63441]... to rights and obligations, and ensure that they have adequate facilities to carry out the necessary sampling, analytical, statistical and recording tasks.
+1. The competent certification authority shall approve certification centres, having a legal personality or sufficient legal capacity to be subject [^c-2a5d2349a3e1f5db0a875fe326f63441]... to rights and obligations, and ensure that they have adequate facilities to carry out the necessary sampling, analytical, statistical and recording tasks.
 
 On the basis of a risk analysis, but at least twice per calendar year, the competent certification authority shall carry out random on-the-spot checks of certification centres in order to verify compliance with the previous subparagraph. The effectiveness of risk analysis parameters used in previous years shall be assessed on an annual basis.
 
@@ -438,19 +438,19 @@ Approval may not be restored for a period of at least 12 months following the da
 
 ## CHAPTER 7 — COMMUNICATIONS AND PUBLICATION OF LISTS
 
-### Article 23. Lists[^key-ad6228a2b810d18c41f7eaf95d8afc1e]
+### Article 23. Lists[^c-ad6228a2b810d18c41f7eaf95d8afc1e]
 
-1. The appropriate authority for each producing constituent nation shall maintain[^key-dbf706bfc5196871bca8f0ac16b4e2fe]:
+1. The appropriate authority for each producing constituent nation shall maintain[^c-dbf706bfc5196871bca8f0ac16b4e2fe]:
 
 - (a) a list of hop production areas;
 - (b) a list of the certification centres and the code for each centre;
-- (c) a list of[^key-7cfb94a86bb3e138c545aa6e6a33971a] the names and addresses of the competent certification authorities.
+- (c) a list of[^c-7cfb94a86bb3e138c545aa6e6a33971a] the names and addresses of the competent certification authorities.
 
-2.[^key-504d293eaca9edd83541e5fb60f20e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-504d293eaca9edd83541e5fb60f20e68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 24. Publication of lists
 
-The appropriate authority for each producing constituent nation[^key-28efb71a1ba2a4ac3b3c621cd469e059] shall ensure that the list of hop production areas and the list of certification centres and their code numbers are updated at least[^key-a736fb7d68968a44913af43e5a62a051] annually and available on the web site of the appropriate authority for each producing constituent nation[^key-230c519c5daba68e3a7fbefbb868e353].
+The appropriate authority for each producing constituent nation[^c-28efb71a1ba2a4ac3b3c621cd469e059] shall ensure that the list of hop production areas and the list of certification centres and their code numbers are updated at least[^c-a736fb7d68968a44913af43e5a62a051] annually and available on the web site of the appropriate authority for each producing constituent nation[^c-230c519c5daba68e3a7fbefbb868e353].
 
 ## CHAPTER 8 — FINAL PROVISIONS
 
@@ -466,7 +466,7 @@ This Regulation shall enter into force on the 20th day following its publication
 
 It shall apply from 1 April 2007.
 
-[^key-89c1144853f4f1f94a2d50214525525c]...
+[^c-89c1144853f4f1f94a2d50214525525c]...
 
 ## ANNEX I
 
@@ -622,7 +622,7 @@ Substances permitted in the standardisation of hop extracts:
 - 1.. glucose syrups;
 - 2.. hot water extract prepared from hops.
 
-## ANNEX V — ENTRIES REFERRED TO IN ARTICLE 16(2)(h)[^key-fccb61a9a27a93321a5b07500595aa45]
+## ANNEX V — ENTRIES REFERRED TO IN ARTICLE 16(2)(h)[^c-fccb61a9a27a93321a5b07500595aa45]
 
 **No longer in force.**
 
@@ -634,67 +634,67 @@ Substances permitted in the standardisation of hop extracts:
 
 CERTIFICATION CENTRE
 
-A number between 0 and 100 communicated by the appropriate authority[^key-314e9668358cb5ab54c53f7256cca4e1].
+A number between 0 and 100 communicated by the appropriate authority[^c-314e9668358cb5ab54c53f7256cca4e1].
 
 2\.
 
-COUNTRY OF[^key-7b78477a02b744197285258ddcfc86e2] CERTIFICATION
+COUNTRY OF[^c-7b78477a02b744197285258ddcfc86e2] CERTIFICATION
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]...
+[^c-bc0d1619217a1a913052cbb8d3b51738]...
 
-GB[^key-cec2cd3d5ca0b685a5810f87e8cf6b63]
+GB[^c-cec2cd3d5ca0b685a5810f87e8cf6b63]
 
 for Great Britain
 
@@ -708,7 +708,7 @@ The last two figures of the year of harvesting.
 
 IDENTIFICATION OF THE CONSIGNMENT
 
-The number given to the consignment by the competent certification authority (e.g. 12 GB[^key-5ae37fbf29d0c7ec78d1e1706bd09392] 77 170225).
+The number given to the consignment by the competent certification authority (e.g. 12 GB[^c-5ae37fbf29d0c7ec78d1e1706bd09392] 77 170225).
 
 ## ANNEX VII
 
@@ -763,82 +763,82 @@ Correlation table (referred to in Article 25)
 
 [^f00003]: Footnote: [OJ L 117, 29.4.1978, p. 43](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1978.117.01.0043.01.ENG). Regulation as last amended by Regulation (EC) No 2125/2004 ([OJ L 368, 15.12.2004, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.368.01.0008.01.ENG)).
 
-[^key-d291595df58e59c464f8daf227b54172]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2006/1850/article/1/2/a) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d291595df58e59c464f8daf227b54172]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2006/1850/article/1/2/a) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f3e4ca7308491168b860058b67e48aca]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2006/1850/article/1/2/a) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/2/a/ii) (as substituted by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(18)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f3e4ca7308491168b860058b67e48aca]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2006/1850/article/1/2/a) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/2/a/ii) (as substituted by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(18)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/18/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-19c3c895738b7bc28d6e76a3cbcc36c4]: Textual amendment: Words in [Art. 1(2)(b)](https://www.legislation.gov.uk/eur/2006/1850/article/1/2/b) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19c3c895738b7bc28d6e76a3cbcc36c4]: Textual amendment: Words in [Art. 1(2)(b)](https://www.legislation.gov.uk/eur/2006/1850/article/1/2/b) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-074caf784fe6a84a67eaa592e1dc22e8]: Textual amendment: Words in [Art. 1(2)(b)](https://www.legislation.gov.uk/eur/2006/1850/article/1/2/b) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/2/b/ii); (as substituted by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(18)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/18/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-074caf784fe6a84a67eaa592e1dc22e8]: Textual amendment: Words in [Art. 1(2)(b)](https://www.legislation.gov.uk/eur/2006/1850/article/1/2/b) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/2/b/ii); (as substituted by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(18)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/18/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e094535a5a72ab75c60b9ab42edd4164]: Textual amendment: Words in [Art. 1(2)(b)](https://www.legislation.gov.uk/eur/2006/1850/article/1/2/b) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/2/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e094535a5a72ab75c60b9ab42edd4164]: Textual amendment: Words in [Art. 1(2)(b)](https://www.legislation.gov.uk/eur/2006/1850/article/1/2/b) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/2/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b49de04d2f00f25e016d2df516a2e2c]: Textual amendment: Words in [Art. 1(4)](https://www.legislation.gov.uk/eur/2006/1850/article/1/4) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b49de04d2f00f25e016d2df516a2e2c]: Textual amendment: Words in [Art. 1(4)](https://www.legislation.gov.uk/eur/2006/1850/article/1/4) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d32b010cec2dd1d5334356e8a50a699]: Textual amendment: Art. 2 renumbered as Art. 2(1) (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d32b010cec2dd1d5334356e8a50a699]: Textual amendment: Art. 2 renumbered as Art. 2(1) (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-08f3c4c2c42b39bba19d950cf28490dd]: Textual amendment: Words in Art. 2(1)(h) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-08f3c4c2c42b39bba19d950cf28490dd]: Textual amendment: Words in Art. 2(1)(h) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b793af641136824a973532598a8edc24]: Textual amendment: Words in Art. 2(1)(j) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b793af641136824a973532598a8edc24]: Textual amendment: Words in Art. 2(1)(j) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b0873142928489aa4431d0c378b38875]: Textual amendment: Art. 2(1)(p)(q) inserted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/4/b/iii) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(19)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/19/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b0873142928489aa4431d0c378b38875]: Textual amendment: Art. 2(1)(p)(q) inserted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/4/b/iii) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(19)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/19/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1eb1e1084fc97c19e414839fe39dad53]: Textual amendment: Art. 2(2)(3) inserted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/4/c) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(19)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1eb1e1084fc97c19e414839fe39dad53]: Textual amendment: Art. 2(2)(3) inserted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/4/c) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(19)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/19/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a6478f195e4962a69b65db71447a3070]: Textual amendment: Words in [Art. 3(1)(e)](https://www.legislation.gov.uk/eur/2006/1850/article/3/1/e) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a6478f195e4962a69b65db71447a3070]: Textual amendment: Words in [Art. 3(1)(e)](https://www.legislation.gov.uk/eur/2006/1850/article/3/1/e) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d20f0289b560a1181813d17603fcf200]: Textual amendment: Words in Art. 4(1) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d20f0289b560a1181813d17603fcf200]: Textual amendment: Words in Art. 4(1) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0fc61b717c6710c57dba0912b4dff235]: Textual amendment: Words in [Art. 6(2)](https://www.legislation.gov.uk/eur/2006/1850/article/6/2) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0fc61b717c6710c57dba0912b4dff235]: Textual amendment: Words in [Art. 6(2)](https://www.legislation.gov.uk/eur/2006/1850/article/6/2) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f7160a647335b4d40f34afbeb7473502]: Textual amendment: Words in Art. 7(3) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/8) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(20)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7160a647335b4d40f34afbeb7473502]: Textual amendment: Words in Art. 7(3) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/8) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(20)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e2742caf270e9b99d2ceae4195d333df]: Textual amendment: Words in [Art. 8](https://www.legislation.gov.uk/eur/2006/1850/article/8) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(9)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/9) (as substituted by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(21)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/21)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e2742caf270e9b99d2ceae4195d333df]: Textual amendment: Words in [Art. 8](https://www.legislation.gov.uk/eur/2006/1850/article/8) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(9)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/9) (as substituted by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(21)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/21)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e76e31f41749b3e26a33899ea9fe6766]: Textual amendment: Words in Art. 14(2) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(10)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/10) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [reg. 10(22)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e76e31f41749b3e26a33899ea9fe6766]: Textual amendment: Words in Art. 14(2) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(10)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/10) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [reg. 10(22)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bb392f26ce8674befcdd5b5238dae98e]: Textual amendment: Words in [Art. 15](https://www.legislation.gov.uk/eur/2006/1850/article/15) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(11)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/11) (as substituted by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(23)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/23)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb392f26ce8674befcdd5b5238dae98e]: Textual amendment: Words in [Art. 15](https://www.legislation.gov.uk/eur/2006/1850/article/15) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(11)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/11) (as substituted by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(23)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/23)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e89c3d0e6078a82c40604cfd070d0c1]: Textual amendment: Words in [Art. 16(2)(d)](https://www.legislation.gov.uk/eur/2006/1850/article/16/2/d) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(12)(a)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e89c3d0e6078a82c40604cfd070d0c1]: Textual amendment: Words in [Art. 16(2)(d)](https://www.legislation.gov.uk/eur/2006/1850/article/16/2/d) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(12)(a)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3d715ee458b7caa25437833b21318dd0]: Textual amendment: [Art. 16(2)(h)](https://www.legislation.gov.uk/eur/2006/1850/article/16/2/h) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(12)(b)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3d715ee458b7caa25437833b21318dd0]: Textual amendment: [Art. 16(2)(h)](https://www.legislation.gov.uk/eur/2006/1850/article/16/2/h) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(12)(b)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b44e7a2d50786561132181caabb8a4b]: Textual amendment: Words in [Art. 16(4)](https://www.legislation.gov.uk/eur/2006/1850/article/16/4) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(13)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b44e7a2d50786561132181caabb8a4b]: Textual amendment: Words in [Art. 16(4)](https://www.legislation.gov.uk/eur/2006/1850/article/16/4) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(13)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-896afc89763edaefb69c83e11ead4dea]: Textual amendment: Words in [Art. 17](https://www.legislation.gov.uk/eur/2006/1850/article/17) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(14)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-896afc89763edaefb69c83e11ead4dea]: Textual amendment: Words in [Art. 17](https://www.legislation.gov.uk/eur/2006/1850/article/17) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(14)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bd4d1205a19e13c79c2eb6fa1d193a8b]: Textual amendment: Words in Art. 21(1) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(15)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd4d1205a19e13c79c2eb6fa1d193a8b]: Textual amendment: Words in Art. 21(1) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(15)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a40e3a926c5b2fa0cbfe6191526ddc13]: Textual amendment: Words in Art. 21(3) inserted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(16)(a)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/16/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a40e3a926c5b2fa0cbfe6191526ddc13]: Textual amendment: Words in Art. 21(3) inserted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(16)(a)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/16/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-264b02a24a1c9e5c74c8d26f103813ec]: Textual amendment: Words in Art. 21(3) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(16)(b)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-264b02a24a1c9e5c74c8d26f103813ec]: Textual amendment: Words in Art. 21(3) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(16)(b)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2a5d2349a3e1f5db0a875fe326f63441]: Textual amendment: Words in Art. 22(1) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(17)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a5d2349a3e1f5db0a875fe326f63441]: Textual amendment: Words in Art. 22(1) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(17)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ad6228a2b810d18c41f7eaf95d8afc1e]: Textual amendment: Art. 23 heading substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(18)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad6228a2b810d18c41f7eaf95d8afc1e]: Textual amendment: Art. 23 heading substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(18)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dbf706bfc5196871bca8f0ac16b4e2fe]: Textual amendment: Words in Art. 23(1) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(19)(a)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/19/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dbf706bfc5196871bca8f0ac16b4e2fe]: Textual amendment: Words in Art. 23(1) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(19)(a)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/19/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7cfb94a86bb3e138c545aa6e6a33971a]: Textual amendment: Words in Art. 23(1)(c) inserted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(19)(b)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7cfb94a86bb3e138c545aa6e6a33971a]: Textual amendment: Words in Art. 23(1)(c) inserted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(19)(b)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-504d293eaca9edd83541e5fb60f20e68]: Textual amendment: Art. 23(2) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(20)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-504d293eaca9edd83541e5fb60f20e68]: Textual amendment: Art. 23(2) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(20)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-28efb71a1ba2a4ac3b3c621cd469e059]: Textual amendment: Words in Art. 24 substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(21)(a)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28efb71a1ba2a4ac3b3c621cd469e059]: Textual amendment: Words in Art. 24 substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(21)(a)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a736fb7d68968a44913af43e5a62a051]: Textual amendment: Words in Art. 24 inserted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(21)(b)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a736fb7d68968a44913af43e5a62a051]: Textual amendment: Words in Art. 24 inserted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(21)(b)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-230c519c5daba68e3a7fbefbb868e353]: Textual amendment: Words in Art. 24 substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(21)(c)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/21/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-230c519c5daba68e3a7fbefbb868e353]: Textual amendment: Words in Art. 24 substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(21)(c)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/21/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-89c1144853f4f1f94a2d50214525525c]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/1850/signature) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(22)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89c1144853f4f1f94a2d50214525525c]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/1850/signature) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(22)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fccb61a9a27a93321a5b07500595aa45]: Textual amendment: [Annex 5](https://www.legislation.gov.uk/eur/2006/1850/annex/V) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(23)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fccb61a9a27a93321a5b07500595aa45]: Textual amendment: [Annex 5](https://www.legislation.gov.uk/eur/2006/1850/annex/V) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(23)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-314e9668358cb5ab54c53f7256cca4e1]: Textual amendment: Words in Annex 6 point 1 substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(24)(a)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/24/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-314e9668358cb5ab54c53f7256cca4e1]: Textual amendment: Words in Annex 6 point 1 substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(24)(a)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/24/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b78477a02b744197285258ddcfc86e2]: Textual amendment: Words in [Annex 6](https://www.legislation.gov.uk/eur/2006/1850/annex/VI) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(24)(b)(i)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/24/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b78477a02b744197285258ddcfc86e2]: Textual amendment: Words in [Annex 6](https://www.legislation.gov.uk/eur/2006/1850/annex/VI) substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(24)(b)(i)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/24/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc0d1619217a1a913052cbb8d3b51738]: Textual amendment: Words in Annex 6 point 2 omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(24)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/24/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc0d1619217a1a913052cbb8d3b51738]: Textual amendment: Words in Annex 6 point 2 omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(24)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/24/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cec2cd3d5ca0b685a5810f87e8cf6b63]: Textual amendment: Words in Annex 6 point 2 substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/1453/regulation/3)
+[^c-cec2cd3d5ca0b685a5810f87e8cf6b63]: Textual amendment: Words in Annex 6 point 2 substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1453)](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/1453/regulation/3)
 
-[^key-5ae37fbf29d0c7ec78d1e1706bd09392]: Textual amendment: Word in Annex 6 point 4 substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(24)(c)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/24/c) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(24)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/24)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ae37fbf29d0c7ec78d1e1706bd09392]: Textual amendment: Word in Annex 6 point 4 substituted (31.12.2020) by [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [9(24)(c)](https://www.legislation.gov.uk/uksi/2019/822/regulation/9/24/c) (as amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/1/2/b), [10(24)](https://www.legislation.gov.uk/uksi/2020/1453/regulation/10/24)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

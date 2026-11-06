@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Assisting a foreign intelligence service[^key-42ed9140b5267beba7f1753c4a0e344c][^key-5d555b12ccd4908ce2a89790f396a739]
+## 3. Assisting a foreign intelligence service[^c-42ed9140b5267beba7f1753c4a0e344c][^c-5d555b12ccd4908ce2a89790f396a739]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42ed9140b5267beba7f1753c4a0e344c]: Commencement: S. 3 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-42ed9140b5267beba7f1753c4a0e344c]: Commencement: S. 3 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-5d555b12ccd4908ce2a89790f396a739]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/32/section/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-5d555b12ccd4908ce2a89790f396a739]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/32/section/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

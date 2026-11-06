@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Time limit for exercise of powers of acquisition[^key-71f8c600661e9bfed8eda8c745a5a38a]
+## 27. Time limit for exercise of powers of acquisition[^c-71f8c600661e9bfed8eda8c745a5a38a]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71f8c600661e9bfed8eda8c745a5a38a]: Commencement: Art. 27 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-71f8c600661e9bfed8eda8c745a5a38a]: Commencement: Art. 27 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

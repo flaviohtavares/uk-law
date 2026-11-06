@@ -24,11 +24,11 @@ summary: ''
 
 - “**contract of service**” (except in paragraph (a) of the definition below of “**employee**”) includes any arrangement providing for the terms of appointment of an employee;
 - “**employee**” means a person who is—
-  - (a) gainfully employed in Northern Ireland either under a contract of service or in an office (including elective office) with earnings (within the meaning of Parts 1 to 5 above)[^key-38e9c73aa0a86961769a85164e5f8715]; [^key-5d3f9ecdff2b79a2bbe0b5bda117b2c5]...
-  - (b) [^key-5d3f9ecdff2b79a2bbe0b5bda117b2c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (a) gainfully employed in Northern Ireland either under a contract of service or in an office (including elective office) with earnings (within the meaning of Parts 1 to 5 above)[^c-38e9c73aa0a86961769a85164e5f8715]; [^c-5d3f9ecdff2b79a2bbe0b5bda117b2c5]...
+  - (b) [^c-5d3f9ecdff2b79a2bbe0b5bda117b2c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   but subject to regulations, which may provide for cases where any such person is not to be treated as an employee for the purposes of this Part of this Act and for cases where any person who would not otherwise be an employee for those purposes is to be treated as an employee for those purposes;
-- “employer”, in relation to an employee and a contract of service of his, means a person who—[^key-f70db0cad4bca1f2c46ff0894cc28118]
+- “employer”, in relation to an employee and a contract of service of his, means a person who—[^c-f70db0cad4bca1f2c46ff0894cc28118]
   - (a) under section 6 above is liable to pay secondary Class 1 contributions in relation to any earnings of the employee under the contract; or
   - (b) would be liable to pay such contributions but for—
     - (i) the condition in section 6(1)(b); or
@@ -66,11 +66,11 @@ and the powers conferred by this subsection are without prejudice to any other p
 
 ## Annotations
 
-[^key-38e9c73aa0a86961769a85164e5f8715]: Textual amendment: Words in [s. 159(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/159/1) substituted (13.5.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 15(4)](https://www.legislation.gov.uk/ukpga/2014/7/section/15/4), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2014/7/schedule/2/paragraph/9)
+[^c-38e9c73aa0a86961769a85164e5f8715]: Textual amendment: Words in [s. 159(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/159/1) substituted (13.5.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 15(4)](https://www.legislation.gov.uk/ukpga/2014/7/section/15/4), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2014/7/schedule/2/paragraph/9)
 
-[^key-5d3f9ecdff2b79a2bbe0b5bda117b2c5]: Textual amendment: Words in [s. 159(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/159/1) repealed (1.10.2006) by [The Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261)](https://www.legislation.gov.uk/nisr/2006/261), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1), [Sch. 7 para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1/2/a), [Sch. 8(1)](https://www.legislation.gov.uk/nisr/2006/261/schedule/8/1) (with [reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50))
+[^c-5d3f9ecdff2b79a2bbe0b5bda117b2c5]: Textual amendment: Words in [s. 159(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/159/1) repealed (1.10.2006) by [The Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261)](https://www.legislation.gov.uk/nisr/2006/261), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1), [Sch. 7 para. 1(2)(a)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1/2/a), [Sch. 8(1)](https://www.legislation.gov.uk/nisr/2006/261/schedule/8/1) (with [reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50))
 
-[^key-f70db0cad4bca1f2c46ff0894cc28118]: Textual amendment: Words in s. 159(1) substituted (1.10.2006) by [The Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261)](https://www.legislation.gov.uk/nisr/2006/261), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1), [Sch. 7 para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1/2/b) (with [reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50))
+[^c-f70db0cad4bca1f2c46ff0894cc28118]: Textual amendment: Words in s. 159(1) substituted (1.10.2006) by [The Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. 2006/261)](https://www.legislation.gov.uk/nisr/2006/261), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1), [Sch. 7 para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1/2/b) (with [reg. 50](https://www.legislation.gov.uk/nisr/2006/261/regulation/50))
 
 [^c16396541]: Textual amendment: Definition in s. 159(1) repealed (7.10.1996) by [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705), [art. 40(2)](https://www.legislation.gov.uk/nisi/1995/2705/article/40/2), [Sch. 3](https://www.legislation.gov.uk/nisi/1995/2705/schedule/3); [S.R. 1996/401](https://www.legislation.gov.uk/nisr/1996/401), [art. 2](https://www.legislation.gov.uk/nisr/1996/401/article/2)
 

@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies if a person is temporarily non-resident.
 
-(2) Any relevant withdrawals within subsection (3) are to be treated for the purposes of section 575 as if they arose in the period of return , but only if the total amount of—[^key-ce1edb866a5f0a84fd70d0efc7809618]
+(2) Any relevant withdrawals within subsection (3) are to be treated for the purposes of section 575 as if they arose in the period of return , but only if the total amount of—[^c-ce1edb866a5f0a84fd70d0efc7809618]
 
 - (a) the relevant withdrawals within subsection (3), and
 - (b) the relevant withdrawals (as defined by section 579CA(4)) within section 579CA(3) for the same temporary period of non-residence,
@@ -34,7 +34,7 @@ exceeds £100,000.
 - (a) it is paid to the person in the temporary period of non-residence, and
 - (b) ignoring this section, it is not chargeable to tax under this Part (or would not be if a DTR claim were made in respect of it).
 
-(4)[^key-fd06c66222125cc71b50cefb53578379] A “relevant withdrawal” is an amount paid under a relevant non-UK scheme that—
+(4)[^c-fd06c66222125cc71b50cefb53578379] A “relevant withdrawal” is an amount paid under a relevant non-UK scheme that—
 
 - (a) is paid to the person in respect of an arrangement relating to the person under the scheme and would, if the scheme were a registered pension scheme, be income withdrawal (within the meaning of paragraph 7 of Schedule 28 to FA 2004) paid to the person from the person's member's flexi-access drawdown fund in respect of the arrangement,
 - (b) is paid to the person in respect of an arrangement relating to the person under the scheme and would, if the scheme were a registered pension scheme, be dependants' income withdrawal (within the meaning of paragraph 21 of Schedule 28 to FA 2004) paid to the person from the person's dependant's flexi-access drawdown fund in respect of the arrangement,
@@ -52,7 +52,7 @@ exceeds £100,000.
 
 (4A) For the purpose of determining whether the figure specified in subsection (2) is exceeded, any relevant withdrawal paid in a currency other than sterling is to be translated into sterling using the average exchange rate for the year ending with 31 March in the tax year in which the relevant withdrawal is paid.
 
-(5) If section 809B, 809D or 809E of ITA 2007 (remittance basis) applied[^key-0f5955eabf103c1c78942631d763bdf8] to the person for the year of return, any relevant withdrawal within subsection (3) that was remitted to the United Kingdom in the temporary period of non-residence is to be treated as remitted to the United Kingdom in the period of return.
+(5) If section 809B, 809D or 809E of ITA 2007 (remittance basis) applied[^c-0f5955eabf103c1c78942631d763bdf8] to the person for the year of return, any relevant withdrawal within subsection (3) that was remitted to the United Kingdom in the temporary period of non-residence is to be treated as remitted to the United Kingdom in the period of return.
 
 (6) This section does not apply to a relevant withdrawal if—
 
@@ -70,9 +70,9 @@ exceeds £100,000.
 
 - “**double taxation relief arrangements**” means arrangements that have effect under section 2(1) of TIOPA 2010;
 - “**DTR claim**” means a claim for relief under section 6 of that Act;
-- “[^key-eeb619c1e3d10cdbfdcac3d59e3c3086]**member's flexi-access drawdown fund**” and “**dependant's flexi-access drawdown fund**” have the same meaning as in Part 4 of FA 2004 (see paragraphs 8A and 22A of Schedule 28 to FA 2004);
+- “[^c-eeb619c1e3d10cdbfdcac3d59e3c3086]**member's flexi-access drawdown fund**” and “**dependant's flexi-access drawdown fund**” have the same meaning as in Part 4 of FA 2004 (see paragraphs 8A and 22A of Schedule 28 to FA 2004);
 - “**remitted to the United Kingdom**” has the same meaning as in Chapter A1 of Part 14 of ITA 2007;
-- “[^key-24ccba492ae5a4dc405e8de24dcbd8ba]**scheme pension**” means a scheme pension within the meaning of paragraph 2 of Schedule 28 to FA 2004 or a dependants' scheme pension within the meaning of paragraphs 16 to 16C of that Schedule;
+- “[^c-24ccba492ae5a4dc405e8de24dcbd8ba]**scheme pension**” means a scheme pension within the meaning of paragraph 2 of Schedule 28 to FA 2004 or a dependants' scheme pension within the meaning of paragraphs 16 to 16C of that Schedule;
 - “**the year of return**” means the tax year that consists of or includes the period of return.
 
 (10) The following expressions have the meaning given in Schedule 34 to FA 2004—
@@ -87,12 +87,12 @@ exceeds £100,000.
 
 [^M_F_4abb9e27-bed7-44a1-8ec3-998f86405906]: Textual amendment: S. 576A substituted (with effect in accordance with [Sch. 45 para. 153(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/153/3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 116](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/116)
 
-[^key-ce1edb866a5f0a84fd70d0efc7809618]: Textual amendment: Words in s. 576A(2) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 83(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/2)[(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/5)
+[^c-ce1edb866a5f0a84fd70d0efc7809618]: Textual amendment: Words in s. 576A(2) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 83(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/2)[(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/5)
 
-[^key-fd06c66222125cc71b50cefb53578379]: Textual amendment: S. 576A(4)(4A) substituted for s. 576A(4) (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 83(3)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/5)
+[^c-fd06c66222125cc71b50cefb53578379]: Textual amendment: S. 576A(4)(4A) substituted for s. 576A(4) (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 83(3)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/5)
 
-[^key-0f5955eabf103c1c78942631d763bdf8]: Textual amendment: Word in s. 576A(5) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(13)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/13)
+[^c-0f5955eabf103c1c78942631d763bdf8]: Textual amendment: Word in s. 576A(5) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 3(13)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/3/13)
 
-[^key-eeb619c1e3d10cdbfdcac3d59e3c3086]: Textual amendment: Words in s. 576A(9) substituted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 83(4)(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/4/a), [(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/5)
+[^c-eeb619c1e3d10cdbfdcac3d59e3c3086]: Textual amendment: Words in s. 576A(9) substituted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 83(4)(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/4/a), [(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/5)
 
-[^key-24ccba492ae5a4dc405e8de24dcbd8ba]: Textual amendment: Words in s. 576A(9) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 83(4)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/4/b), [(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/5)
+[^c-24ccba492ae5a4dc405e8de24dcbd8ba]: Textual amendment: Words in s. 576A(9) inserted (6.4.2015) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 83(4)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/4/b), [(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/83/5)

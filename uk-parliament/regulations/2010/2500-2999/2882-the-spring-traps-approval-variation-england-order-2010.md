@@ -33,7 +33,7 @@ Animals, England
 
 Prevention Of Cruelty
 
-The Spring Traps Approval (Variation) (England) Order 2010 (revoked)[^key-08473601c0317ed02becacaea1cd8311]
+The Spring Traps Approval (Variation) (England) Order 2010 (revoked)[^c-08473601c0317ed02becacaea1cd8311]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into force
 
 24th December 2010
 
-[^key-08473601c0317ed02becacaea1cd8311]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08473601c0317ed02becacaea1cd8311]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-08473601c0317ed02becacaea1cd8311]
+## 1. Citation, commencement and application[^c-08473601c0317ed02becacaea1cd8311]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Variation of the Spring Traps Approval Order 1995[^key-08473601c0317ed02becacaea1cd8311]
+## 2. Variation of the Spring Traps Approval Order 1995[^c-08473601c0317ed02becacaea1cd8311]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-08473601c0317ed02becacaea1cd8311]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08473601c0317ed02becacaea1cd8311]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-08473601c0317ed02becacaea1cd8311]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08473601c0317ed02becacaea1cd8311]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08473601c0317ed02becacaea1cd8311]: Textual amendment: Order revoked (15.2.2012) by [The Spring Traps Approval (England) Order 2012 (S.I. 2012/13)](https://www.legislation.gov.uk/uksi/2012/13), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2012/13/article/1), [3(d)](https://www.legislation.gov.uk/uksi/2012/13/article/3)
+[^c-08473601c0317ed02becacaea1cd8311]: Textual amendment: Order revoked (15.2.2012) by [The Spring Traps Approval (England) Order 2012 (S.I. 2012/13)](https://www.legislation.gov.uk/uksi/2012/13), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2012/13/article/1), [3(d)](https://www.legislation.gov.uk/uksi/2012/13/article/3)

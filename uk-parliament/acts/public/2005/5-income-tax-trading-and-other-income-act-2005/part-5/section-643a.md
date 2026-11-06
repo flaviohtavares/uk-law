@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 643A. Benefits paid out of protected foreign-source income or transitional trust income[^key-224aa64e802f6fa3e296676828f8c821]
+## 643A. Benefits paid out of protected foreign-source income or transitional trust income[^c-224aa64e802f6fa3e296676828f8c821]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ an amount equal to so much of the untaxed benefits total as does not exceed the 
 
 ## Annotations
 
-[^key-224aa64e802f6fa3e296676828f8c821]: Textual amendment: [S. 643A](https://www.legislation.gov.uk/ukpga/2005/5/section/643A) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/13), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-224aa64e802f6fa3e296676828f8c821]: Textual amendment: [S. 643A](https://www.legislation.gov.uk/ukpga/2005/5/section/643A) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/13), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

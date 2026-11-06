@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Expenses of insurance companies[^key-244730b72dd6c7bb8494259c8bd04645]
+## 40. Expenses of insurance companies[^c-244730b72dd6c7bb8494259c8bd04645]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-244730b72dd6c7bb8494259c8bd04645]: Textual amendment: S. 40 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(l)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/l/i)
+[^c-244730b72dd6c7bb8494259c8bd04645]: Textual amendment: S. 40 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(l)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/l/i)

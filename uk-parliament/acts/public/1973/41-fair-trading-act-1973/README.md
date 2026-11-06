@@ -52,7 +52,7 @@ An Act to provide for the appointment of a Director General of Fair Trading and 
 - [Section 11 — Meaning of “complex monopoly situation”.](part-i/section-11.md)
 - [Section 12 — Powers of Secretary of State in relation to functions of Director.](part-i/section-12.md)
 
-### Part II — References to Consumer Protection Advisory Committee[^key-ddbe52b7fdfcacc41efc5778af16e006]
+### Part II — References to Consumer Protection Advisory Committee[^c-ddbe52b7fdfcacc41efc5778af16e006]
 
 *Extent: E+W+S+N.I.*
 
@@ -313,7 +313,7 @@ SCHEDULES
 
 [^c10697471]: Modification: Act modified (17.2.1994) by [S.I. 1993/3160 (N.I. 15)](https://www.legislation.gov.uk/nisi/1993/3160), [art. 32(1)(a)](https://www.legislation.gov.uk/nisi/1993/3160/article/32/1/a) (with [Sch. 9 para. 1](https://www.legislation.gov.uk/nisi/1993/3160/schedule/9/paragraph/1)).
 
-[^key-ddbe52b7fdfcacc41efc5778af16e006]: Modification: Pt. II: power to repeal conferred (1.4.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2002/40/section/10/3/a), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3)) (as amended (20.7.2007) by [S.I. 2007/1846](https://www.legislation.gov.uk/uksi/2007/1846), reg. 3(2), Sch.)
+[^c-ddbe52b7fdfcacc41efc5778af16e006]: Modification: Pt. II: power to repeal conferred (1.4.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2002/40/section/10/3/a), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3)) (as amended (20.7.2007) by [S.I. 2007/1846](https://www.legislation.gov.uk/uksi/2007/1846), reg. 3(2), Sch.)
 
 [^c10698631]: Modification: Pts. III, IV (ss. 34-56) amended (E.W.) (01.12.1991) by [Water Industry Act 1991 (c. 56, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/56), [ss. 31(4)(a)](https://www.legislation.gov.uk/ukpga/1991/56/section/31/4/a), [35(4)](https://www.legislation.gov.uk/ukpga/1991/56/section/35/4), [223(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/223/2) (with [ss. 82(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/82/3), [186(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/186/1), [188](https://www.legislation.gov.uk/ukpga/1991/56/section/188), [222(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/222/1), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1991/56/schedule/14/paragraph/6)).
 

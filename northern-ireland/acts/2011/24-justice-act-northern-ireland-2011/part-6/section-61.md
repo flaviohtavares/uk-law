@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Form of penalty notice[^key-9866d0af70d4795ab60bb12f4102cb2f]
+## 61. Form of penalty notice[^c-9866d0af70d4795ab60bb12f4102cb2f]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ A penalty notice must—
 
 ## Annotations
 
-[^key-9866d0af70d4795ab60bb12f4102cb2f]: Commencement: [S. 61](https://www.legislation.gov.uk/nia/2011/24/section/61) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
+[^c-9866d0af70d4795ab60bb12f4102cb2f]: Commencement: [S. 61](https://www.legislation.gov.uk/nia/2011/24/section/61) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)

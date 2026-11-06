@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**34.**[^key-c99d32e40de6d6e6e0a0fece94fd7eca] Subject to the provisions of the Act, these Byelaws and to conditions contained in any fishing licences, single wall set nets or trammel nets may be used on Lough Neagh for the taking of trout.
+**34.**[^c-c99d32e40de6d6e6e0a0fece94fd7eca] Subject to the provisions of the Act, these Byelaws and to conditions contained in any fishing licences, single wall set nets or trammel nets may be used on Lough Neagh for the taking of trout.
 
 ## Annotations
 
-[^key-c99d32e40de6d6e6e0a0fece94fd7eca]: Commencement: S. 34 in operation at 1.11.1997, see byelaw 1
+[^c-c99d32e40de6d6e6e0a0fece94fd7eca]: Commencement: S. 34 in operation at 1.11.1997, see byelaw 1

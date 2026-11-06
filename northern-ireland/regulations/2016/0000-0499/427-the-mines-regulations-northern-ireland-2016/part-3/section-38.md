@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Safety features of winding apparatus[^key-f2439ef6e5a11e549c32596e234be24d]
+## 38. Safety features of winding apparatus[^c-f2439ef6e5a11e549c32596e234be24d]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The mine operator shall ensure that winding apparatus is suitable and has effect
 
 ## Annotations
 
-[^key-f2439ef6e5a11e549c32596e234be24d]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2016/427/regulation/38) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-f2439ef6e5a11e549c32596e234be24d]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2016/427/regulation/38) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

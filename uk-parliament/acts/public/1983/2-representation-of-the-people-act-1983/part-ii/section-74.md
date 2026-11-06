@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Expenses which may be paid otherwise than by election agent.[^c14489441][^c14489451][^c14489462][^c14489471][^key-a74e98e474fb049a86157667748ff177][^c14479931][^c14489431]
+## 74. Expenses which may be paid otherwise than by election agent.[^c14489441][^c14489451][^c14489462][^c14489471][^c-a74e98e474fb049a86157667748ff177][^c14479931][^c14489431]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ and, where paragraph (a), (b), (c) or (d) above applies,any further personal exp
 
 [^c14489471]: Modification: S. 74 applied (N.I.) (4.5.1996) by [S.I. 1996/1220](https://www.legislation.gov.uk/uksi/1996/1220), [art. 3(1)(b)(5)-(8)](https://www.legislation.gov.uk/uksi/1996/1220/article/3/1/b/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/1220/schedule/1)
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 

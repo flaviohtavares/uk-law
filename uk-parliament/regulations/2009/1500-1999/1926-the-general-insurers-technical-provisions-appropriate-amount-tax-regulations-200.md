@@ -50,7 +50,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 ## PART 1 — INTRODUCTORY PROVISIONS
 
-### 1. Citation, commencement and effect[^key-839d1b4a34d26cc8ddb70048e693de9d]
+### 1. Citation, commencement and effect[^c-839d1b4a34d26cc8ddb70048e693de9d]
 
 (1) These Regulations may be cited as the General Insurers’ Technical Provisions (Appropriate Amount) (Tax) Regulations 2009 and come into force on 1st September 2009.
 
@@ -58,7 +58,7 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 (3) In relation to a member of a Lloyd’s syndicate, these Regulations shall have effect in relation to a syndicate return made in respect of profits or losses declared after 31st December 2009.
 
-### 2. Interpretation[^key-820a38e25e7773c7f6d94e663d44d752]
+### 2. Interpretation[^c-820a38e25e7773c7f6d94e663d44d752]
 
 (1) In these Regulations a reference to Schedule 11 is a reference to Schedule 11 to the Finance Act 2007.
 
@@ -69,17 +69,17 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 
 ## PART 2 — GENERAL INSURERS (OTHER THAN MEMBERS OF LLOYD’S SYNDICATES)
 
-### 3. Appropriate amount of technical provisions: general insurers (other than a member of a Lloyd’s syndicate)[^key-bce2daa60a7cf64ae02b28b130c2523e]
+### 3. Appropriate amount of technical provisions: general insurers (other than a member of a Lloyd’s syndicate)[^c-bce2daa60a7cf64ae02b28b130c2523e]
 
 This Part applies to a general insurer other than a member of a Lloyd’s syndicate.
 
-**4.**[^key-4d5f83ad7a3a6db2c942c6db531d3276] For a period of account, the appropriate amount of the technical provisions for the purposes of paragraph 1 of Schedule 11 is the aggregate of—
+**4.**[^c-4d5f83ad7a3a6db2c942c6db531d3276] For a period of account, the appropriate amount of the technical provisions for the purposes of paragraph 1 of Schedule 11 is the aggregate of—
 
 - (a) the amount of the provision for unearned premiums determined in accordance with paragraph 50 of Schedule 3 to the Accounts and Reports Regulations;
 - (b) the amount of the provision for unexpired risks determined in accordance with paragraph 51 of that Schedule; and
 - (c) the estimated amount of the liabilities in respect of claims outstanding arising from the general insurer’s general business determined in accordance with regulations 5 to 8.
 
-### 5. Estimated amount of claims outstanding: confirmation by general insurer[^key-9630e1b3c4c10919c2ad99f36de86efb]
+### 5. Estimated amount of claims outstanding: confirmation by general insurer[^c-9630e1b3c4c10919c2ad99f36de86efb]
 
 (1) For the purposes of regulation 4, the amount of the liabilities in respect of claims outstanding arising from the general insurer’s general business is the amount of those liabilities stated in the general insurer’s accounts for the period if conditions A to C are satisfied.
 
@@ -94,7 +94,7 @@ Regulation 6 contains provisions supplementing condition A.
 
 (4) Condition C is that the amount of the liabilities stated in the accounts is determined in accordance with regulation 8 (provisions supplementing regulations 5 and 7).
 
-### 6. Provisions supplementing condition A[^key-ad01cf41908896a2dc85fb1cb2b52665]
+### 6. Provisions supplementing condition A[^c-ad01cf41908896a2dc85fb1cb2b52665]
 
 (1) In the case of a controlled foreign company which is a general insurer within the meaning of paragraph 3(1)(b) of Schedule 11—
 
@@ -111,7 +111,7 @@ Regulation 6 contains provisions supplementing condition A.
 
 (6) In this regulation “company tax return” means a return under paragraph 3 of Schedule 18 to the Finance Act 1998[^f00004].
 
-### 7. Estimated amount of claims outstanding where conditions in regulation 5 are not satisfied[^key-beed274ddfabb956d22095d7fc02ff5c]
+### 7. Estimated amount of claims outstanding where conditions in regulation 5 are not satisfied[^c-beed274ddfabb956d22095d7fc02ff5c]
 
 (1) This regulation applies in a case where any of conditions A to C in regulation 5 is not satisfied.
 
@@ -122,7 +122,7 @@ Regulation 6 contains provisions supplementing condition A.
 - (a) the reference to “best estimate” shall be construed as a reference to the mean of the distribution of the potential outcomes of the claims to which the estimate relates, and
 - (b) the best estimate of the future cash flows must be the best estimate available at the time at which the technical provisions are adopted by the general insurer.
 
-### 8. Provisions supplementing regulations 5 and 7[^key-ab1bcafd3479ebb6ab4c667d19d856b5]
+### 8. Provisions supplementing regulations 5 and 7[^c-ab1bcafd3479ebb6ab4c667d19d856b5]
 
 (1) This regulation supplements regulations 5 and 7.
 
@@ -145,7 +145,7 @@ In this paragraph, “the Board for Actuarial Standards” means the operating b
 - (a) on the basis of general insurance business reporting categories described in Annex 11.3 to Chapter 11 of Volume 1 of IPRU(INS), or
 - (b) on the basis of grouping of risks in accordance with the descriptions of accounting classes for general insurance business set out in Appendix 9.16 to Volume 2 of IPRU(INS).
 
-(6)[^key-987802e0c4a98410cbbfdf50023e9cf1] In paragraph (5), “IPRU (INS)” means the Interim Prudential Sourcebook for Insurers made by the Prudential Regulation Authority under the Financial Services and Markets Act 2000.
+(6)[^c-987802e0c4a98410cbbfdf50023e9cf1] In paragraph (5), “IPRU (INS)” means the Interim Prudential Sourcebook for Insurers made by the Prudential Regulation Authority under the Financial Services and Markets Act 2000.
 
 (7) Any estimate of the amount of the liabilities in respect of claims outstanding shall be determined—
 
@@ -167,7 +167,7 @@ In this paragraph, “the Board for Actuarial Standards” means the operating b
 
 ## PART 3 — MEMBERS OF LLOYD’S SYNDICATES
 
-### 9. Appropriate amount of technical provisions: members of closed Lloyd’s syndicates[^key-ef67f1e602f37a580fb460c4dbb7c97c]
+### 9. Appropriate amount of technical provisions: members of closed Lloyd’s syndicates[^c-ef67f1e602f37a580fb460c4dbb7c97c]
 
 (1) This regulation applies to a general insurer which is a member of a closed Lloyd’s syndicate.
 
@@ -188,7 +188,7 @@ In this regulation, a closed Lloyd’s syndicate is a Lloyd’s syndicate that i
 - (a) the syndicate is an open Lloyd’s syndicate, and
 - (b) no reinsurance to close amounts have been paid in respect of the syndicate by any member of the syndicate.
 
-### 10. Appropriate amount of technical provisions: members of open Lloyd’s syndicates[^key-3e7c038ba9135f49fc7d49fb856df941]
+### 10. Appropriate amount of technical provisions: members of open Lloyd’s syndicates[^c-3e7c038ba9135f49fc7d49fb856df941]
 
 (1) This regulation applies to any general insurer which is a member of an open Lloyd’s syndicate.
 
@@ -198,7 +198,7 @@ In this regulation, a closed Lloyd’s syndicate is a Lloyd’s syndicate that i
 - (b) the amount of the provision for unexpired risks determined in accordance with paragraph 51 of that Schedule 3; and
 - (c) the amount of the liabilities in respect of claims outstanding arising from the general business of the syndicate.
 
-### 11. Reinsurance to close amounts[^key-e60d074ad343e588013aa85e20cca620]
+### 11. Reinsurance to close amounts[^c-e60d074ad343e588013aa85e20cca620]
 
 (1) The reinsurance to close amount to be treated as a technical provision in the case of a member of a Lloyd’s syndicate for a period of account is whichever is the lesser of—
 
@@ -216,7 +216,7 @@ the amount which the member receives, or is treated as receiving, shall also be 
 
 (3) For the purposes of paragraph (2), section 839(5) to (8) of the Income and Corporation Taxes Act 1988[^f00008] (connected persons) applies for the purpose of determining whether a company is connected to a member.
 
-### 12. Provisions supplementing regulations 9 and 10: determination of member’s share of provisions[^key-ce9a64e177c3cd0eab0ad042d4474082]
+### 12. Provisions supplementing regulations 9 and 10: determination of member’s share of provisions[^c-ce9a64e177c3cd0eab0ad042d4474082]
 
 (1) For the purposes of regulations 9(3)(b) and 10(2), a member’s share of the amounts referred to in those regulations shall be determined by reference to the member’s proportionate entitlement to participate in the underwriting business of the syndicate.
 
@@ -283,40 +283,40 @@ A full and final Impact Assessment has not been produced for this instrument as 
 
 [^f00001]: Footnote: [2007 c. 11](https://www.legislation.gov.uk/ukpga/2007/11).
 
-[^key-839d1b4a34d26cc8ddb70048e693de9d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
+[^c-839d1b4a34d26cc8ddb70048e693de9d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
 
-[^key-820a38e25e7773c7f6d94e663d44d752]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1926/regulation/2) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
+[^c-820a38e25e7773c7f6d94e663d44d752]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1926/regulation/2) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2008/410](https://www.legislation.gov.uk/uksi/2008/410).
 
 [^f00003]: Footnote: [S.I. 2005/3338](https://www.legislation.gov.uk/uksi/2005/3338).
 
-[^key-bce2daa60a7cf64ae02b28b130c2523e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1926/regulation/3) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
+[^c-bce2daa60a7cf64ae02b28b130c2523e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1926/regulation/3) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
 
-[^key-4d5f83ad7a3a6db2c942c6db531d3276]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1926/regulation/4) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
+[^c-4d5f83ad7a3a6db2c942c6db531d3276]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1926/regulation/4) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
 
-[^key-9630e1b3c4c10919c2ad99f36de86efb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1926/regulation/5) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
+[^c-9630e1b3c4c10919c2ad99f36de86efb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1926/regulation/5) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
 
-[^key-ad01cf41908896a2dc85fb1cb2b52665]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/1926/regulation/6) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
+[^c-ad01cf41908896a2dc85fb1cb2b52665]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/1926/regulation/6) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
 
 [^f00004]: Footnote: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36); paragraph 3 was amended by paragraph 385 of Schedule 1 to the Income Tax Act [2007 (c.3)](https://www.legislation.gov.uk/ukpga/2007/3).
 
-[^key-beed274ddfabb956d22095d7fc02ff5c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/1926/regulation/7) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
+[^c-beed274ddfabb956d22095d7fc02ff5c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/1926/regulation/7) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
 
-[^key-ab1bcafd3479ebb6ab4c667d19d856b5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/1926/regulation/8) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
+[^c-ab1bcafd3479ebb6ab4c667d19d856b5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/1926/regulation/8) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
 
 [^f00005]: Footnote: The Board for Actuarial Standards can be contacted at the Board for Actuarial Standards, Financial Reporting Council, 5th floor, Aldwych House, 71-91 Aldwych, London, WC2B 4HN and the actuarial standards obtained from their website at www.frc.org.uk/bas/standards.
 
-[^key-987802e0c4a98410cbbfdf50023e9cf1]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/8/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 176](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/176)
+[^c-987802e0c4a98410cbbfdf50023e9cf1]: Textual amendment: [Reg. 8(6)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/8/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 176](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/176)
 
 [^f00007]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-ef67f1e602f37a580fb460c4dbb7c97c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/1926/regulation/9) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
+[^c-ef67f1e602f37a580fb460c4dbb7c97c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/1926/regulation/9) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
 
-[^key-3e7c038ba9135f49fc7d49fb856df941]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/1926/regulation/10) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
+[^c-3e7c038ba9135f49fc7d49fb856df941]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/1926/regulation/10) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
 
-[^key-e60d074ad343e588013aa85e20cca620]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/1926/regulation/11) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
+[^c-e60d074ad343e588013aa85e20cca620]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/1926/regulation/11) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
 
 [^f00008]: Footnote: [c.1](https://www.legislation.gov.uk/ukpga/1988/1); section 839 has been amended but none of the amendments are relevant.
 
-[^key-ce9a64e177c3cd0eab0ad042d4474082]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/1926/regulation/12) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)
+[^c-ce9a64e177c3cd0eab0ad042d4474082]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/1926/regulation/12) in force at 1.9.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1926/regulation/1/1)

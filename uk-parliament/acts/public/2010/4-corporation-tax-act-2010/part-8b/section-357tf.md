@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357TF. Restriction on use of losses while video game in development[^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357TF. Restriction on use of losses while video game in development[^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) any Northern Ireland losses of the trade of the period, or
 - (b) any mainstream losses of the trade of the period;
 
-and references to losses in subsections (2) and (3)[^key-dac1d6bc62ee84b73137cd24f26d1a70] of that section are to be read accordingly.
+and references to losses in subsections (2) and (3)[^c-dac1d6bc62ee84b73137cd24f26d1a70] of that section are to be read accordingly.
 
 (3) Subsection (4) applies if a Northern Ireland company has, in a pre-completion period—
 
@@ -45,6 +45,6 @@ and references to losses in subsections (2) and (3)[^key-dac1d6bc62ee84b73137cd2
 
 ## Annotations
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
 
-[^key-dac1d6bc62ee84b73137cd24f26d1a70]: Textual amendment: Words in [s. 357TF(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/357TF/2) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 102](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/102)
+[^c-dac1d6bc62ee84b73137cd24f26d1a70]: Textual amendment: Words in [s. 357TF(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/357TF/2) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 102](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/102)

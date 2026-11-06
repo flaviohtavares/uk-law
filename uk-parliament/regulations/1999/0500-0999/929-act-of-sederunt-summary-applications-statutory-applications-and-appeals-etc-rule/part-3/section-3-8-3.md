@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.8.3. Service of application[^key-366b51597c79a003ae97ad95940310d5]
+## 3.8.3. Service of application[^c-366b51597c79a003ae97ad95940310d5]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-366b51597c79a003ae97ad95940310d5]: Commencement: Rule 3.8.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-366b51597c79a003ae97ad95940310d5]: Commencement: Rule 3.8.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

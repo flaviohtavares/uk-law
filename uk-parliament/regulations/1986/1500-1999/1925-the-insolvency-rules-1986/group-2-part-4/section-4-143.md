@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.143. Removal of liquidator by the court[^key-745c22721755d4b5aed92dfe1690da91]
+## 4.143. Removal of liquidator by the court[^c-745c22721755d4b5aed92dfe1690da91]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ Subject to any contrary order of the court, the costs of the application are not
 
 ## Annotations
 
-[^key-745c22721755d4b5aed92dfe1690da91]: Commencement: [Rule 4.143](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.143) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-745c22721755d4b5aed92dfe1690da91]: Commencement: [Rule 4.143](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.143) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00087]: Marginal citation: \[FORM 4.39\] \[FORM 4.40\]

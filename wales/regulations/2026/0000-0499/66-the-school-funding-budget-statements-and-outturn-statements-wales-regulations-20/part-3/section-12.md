@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Publication of local authority formula[^key-4893bc588fd6f90d13b597d2f7e63240]
+## 12. Publication of local authority formula[^c-4893bc588fd6f90d13b597d2f7e63240]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4893bc588fd6f90d13b597d2f7e63240]: Commencement: Reg. 12 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-4893bc588fd6f90d13b597d2f7e63240]: Commencement: Reg. 12 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

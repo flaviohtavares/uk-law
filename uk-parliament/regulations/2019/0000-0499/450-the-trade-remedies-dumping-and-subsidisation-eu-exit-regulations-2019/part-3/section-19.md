@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Purpose of Part 3[^key-5d8c1f7cd9a768c1fb4530a261c290dd]
+## 19. Purpose of Part 3[^c-5d8c1f7cd9a768c1fb4530a261c290dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d8c1f7cd9a768c1fb4530a261c290dd]: Commencement: Reg. 19 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-5d8c1f7cd9a768c1fb4530a261c290dd]: Commencement: Reg. 19 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

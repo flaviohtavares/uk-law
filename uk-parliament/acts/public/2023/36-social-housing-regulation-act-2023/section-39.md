@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Appeals[^key-5aee7d49a35aa191d1d3f15eb3663f35][^key-f986ee5b41ace9e7921cb25a6a8e4b58]
+## 39. Appeals[^c-5aee7d49a35aa191d1d3f15eb3663f35][^c-f986ee5b41ace9e7921cb25a6a8e4b58]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 4 makes provision about appeals under the Housing and Regeneration Act 
 
 ## Annotations
 
-[^key-5aee7d49a35aa191d1d3f15eb3663f35]: Commencement: S. 39 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-5aee7d49a35aa191d1d3f15eb3663f35]: Commencement: S. 39 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-f986ee5b41ace9e7921cb25a6a8e4b58]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/36/section/39) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/s)
+[^c-f986ee5b41ace9e7921cb25a6a8e4b58]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/36/section/39) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/s)

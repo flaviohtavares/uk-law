@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23B. CRTS credits: conversion of VRTS credits by a CRTS participant which is also an SPV van manufacturer[^key-95320d404252cda7d4bb2deeb283b711]
+## 23B. CRTS credits: conversion of VRTS credits by a CRTS participant which is also an SPV van manufacturer[^c-95320d404252cda7d4bb2deeb283b711]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95320d404252cda7d4bb2deeb283b711]: Textual amendment: [Art. 23B](https://www.legislation.gov.uk/uksi/2023/1394/article/23B) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [10](https://www.legislation.gov.uk/uksi/2025/1101/article/10)
+[^c-95320d404252cda7d4bb2deeb283b711]: Textual amendment: [Art. 23B](https://www.legislation.gov.uk/uksi/2023/1394/article/23B) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [10](https://www.legislation.gov.uk/uksi/2025/1101/article/10)

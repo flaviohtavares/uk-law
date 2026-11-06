@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1E. Duty as to research[^key-4917de4b5327d368abcf323299ea7e0e]
+## 1E. Duty as to research[^c-4917de4b5327d368abcf323299ea7e0e]
 
 *Extent: E+W*
 
-(1)[^key-2634c02914ae26431108763c8b019309] In exercising functions in relation to the health service, the Secretary of State must facilitate or otherwise[^key-53fc2537ace5f6cc2c672895312abdba] promote—
+(1)[^c-2634c02914ae26431108763c8b019309] In exercising functions in relation to the health service, the Secretary of State must facilitate or otherwise[^c-53fc2537ace5f6cc2c672895312abdba] promote—
 
 - (a) research on matters relevant to the health service, and
 - (b) the use in the health service of evidence obtained from research.
 
-(2)[^key-f9b5e145547b5bba0cc5a5b77077667d] The research that the Secretary must facilitate or otherwise promote under subsection (1)(a) includes research into cancers that in the opinion of the Secretary of State are rare cancers.
+(2)[^c-f9b5e145547b5bba0cc5a5b77077667d] The research that the Secretary must facilitate or otherwise promote under subsection (1)(a) includes research into cancers that in the opinion of the Secretary of State are rare cancers.
 
 (3) In discharging the duty under subsection (1)(a) in relation to those cancers, the Secretary of State must, in particular, ensure that there are such arrangements in place as the Secretary of State considers appropriate to—
 
@@ -38,10 +38,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4917de4b5327d368abcf323299ea7e0e]: Textual amendment: S. 1E inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 6](https://www.legislation.gov.uk/ukpga/2012/7/section/6), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-4917de4b5327d368abcf323299ea7e0e]: Textual amendment: S. 1E inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 6](https://www.legislation.gov.uk/ukpga/2012/7/section/6), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-2634c02914ae26431108763c8b019309]: Textual amendment: S. 1E renumbered as s. 1E(1) (5.5.2026) by [Rare Cancers Act 2026 (c. 8)](https://www.legislation.gov.uk/ukpga/2026/8), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2026/8/section/2/1), [5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
+[^c-2634c02914ae26431108763c8b019309]: Textual amendment: S. 1E renumbered as s. 1E(1) (5.5.2026) by [Rare Cancers Act 2026 (c. 8)](https://www.legislation.gov.uk/ukpga/2026/8), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2026/8/section/2/1), [5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
 
-[^key-53fc2537ace5f6cc2c672895312abdba]: Textual amendment: Words in s. 1E inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 40](https://www.legislation.gov.uk/ukpga/2022/31/section/40), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-53fc2537ace5f6cc2c672895312abdba]: Textual amendment: Words in s. 1E inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 40](https://www.legislation.gov.uk/ukpga/2022/31/section/40), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-f9b5e145547b5bba0cc5a5b77077667d]: Textual amendment: S. 1E(2)-(4) inserted (5.5.2026) by [Rare Cancers Act 2026 (c. 8)](https://www.legislation.gov.uk/ukpga/2026/8), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2026/8/section/2/2), [5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)
+[^c-f9b5e145547b5bba0cc5a5b77077667d]: Textual amendment: S. 1E(2)-(4) inserted (5.5.2026) by [Rare Cancers Act 2026 (c. 8)](https://www.legislation.gov.uk/ukpga/2026/8), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2026/8/section/2/2), [5](https://www.legislation.gov.uk/ukpga/2026/8/section/5)

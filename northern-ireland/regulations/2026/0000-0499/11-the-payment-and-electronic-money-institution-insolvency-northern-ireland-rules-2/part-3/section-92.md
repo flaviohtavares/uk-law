@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Right of inspection[^key-27ffadab6eb9110d0230ef75f25484b1]
+## 92. Right of inspection[^c-27ffadab6eb9110d0230ef75f25484b1]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27ffadab6eb9110d0230ef75f25484b1]: Commencement: [Rule 92](https://www.legislation.gov.uk/nisr/2026/11/rule/92) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-27ffadab6eb9110d0230ef75f25484b1]: Commencement: [Rule 92](https://www.legislation.gov.uk/nisr/2026/11/rule/92) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Payment of surplus to employer[^key-c463177d1b8f24b08bd92fa74a2699a7]
+## 250. Payment of surplus to employer[^c-c463177d1b8f24b08bd92fa74a2699a7]
 
 *Extent: E+W+S*
 
@@ -69,4 +69,4 @@ For section 37 of the Pensions Act 1995 (payment of surplus to employer) substit
 
 ## Annotations
 
-[^key-c463177d1b8f24b08bd92fa74a2699a7]: Commencement: [S. 250](https://www.legislation.gov.uk/ukpga/2004/35/section/250) in force at 9.3.2006 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/560/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/1)
+[^c-c463177d1b8f24b08bd92fa74a2699a7]: Commencement: [S. 250](https://www.legislation.gov.uk/ukpga/2004/35/section/250) in force at 9.3.2006 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/560/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/1)

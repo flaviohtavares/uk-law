@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Emergency equipment and communication systems[^key-51f0cdfca2499ce069b4e9302ffa0085]
+## 55. Emergency equipment and communication systems[^c-51f0cdfca2499ce069b4e9302ffa0085]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51f0cdfca2499ce069b4e9302ffa0085]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2014/3248/regulation/55) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-51f0cdfca2499ce069b4e9302ffa0085]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2014/3248/regulation/55) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

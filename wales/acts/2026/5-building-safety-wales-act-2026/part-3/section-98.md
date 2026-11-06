@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Power of fire safety authority to give prohibition notice[^key-952909f4bc0b47a982548ae5645c63de]
+## 98. Power of fire safety authority to give prohibition notice[^c-952909f4bc0b47a982548ae5645c63de]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ until the matters that give rise, or will give rise, to the fire safety risk hav
 
 ## Annotations
 
-[^key-952909f4bc0b47a982548ae5645c63de]: Commencement: S. 98 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-952909f4bc0b47a982548ae5645c63de]: Commencement: S. 98 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

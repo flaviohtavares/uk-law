@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Scottish Social Housing Charter: supplemental[^key-9b0e69918e10a7c402eb89671c8751b5]
+## 33. Scottish Social Housing Charter: supplemental[^c-9b0e69918e10a7c402eb89671c8751b5]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b0e69918e10a7c402eb89671c8751b5]: Commencement: S. 33 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-9b0e69918e10a7c402eb89671c8751b5]: Commencement: S. 33 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

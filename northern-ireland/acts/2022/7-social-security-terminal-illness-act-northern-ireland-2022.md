@@ -36,7 +36,7 @@ An Act to provide that special social security rules which apply where life expe
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Special rules to apply where death expected within 12 months[^key-84c25bb49e242da41994e30565b26545][^key-f040f9b2a651793a05d2a2a775b218ac]
+## 1. Special rules to apply where death expected within 12 months[^c-84c25bb49e242da41994e30565b26545][^c-f040f9b2a651793a05d2a2a775b218ac]
 
 (1) In the provisions listed in subsection (2) (provisions related to special rules which apply where death can reasonably be expected within 6 months), for “6” substitute “12”.
 
@@ -77,7 +77,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (9) In this section “**the 1992 Act**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
-## 2. Consequential provision[^key-fdff1381c912b11bbf200aac15ea3de6]
+## 2. Consequential provision[^c-fdff1381c912b11bbf200aac15ea3de6]
 
 (1) The Department for Communities may by regulations make provision that is consequential on any provision made by this Act.
 
@@ -92,7 +92,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) In this section “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-## 3. Commencement and short title[^key-9cb107fc79a4cf764f3862f4dae422ab]
+## 3. Commencement and short title[^c-9cb107fc79a4cf764f3862f4dae422ab]
 
 (1) Section 2 and this section come into operation on the day after the day on which this Act receives Royal Assent.
 
@@ -104,10 +104,10 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Annotations
 
-[^key-84c25bb49e242da41994e30565b26545]: Commencement: S. 1 not in operation at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/nia/2022/7/section/3/2)
+[^c-84c25bb49e242da41994e30565b26545]: Commencement: S. 1 not in operation at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/nia/2022/7/section/3/2)
 
-[^key-f040f9b2a651793a05d2a2a775b218ac]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/7/section/1) in operation at 4.4.2022 by [S.R. 2022/171](https://www.legislation.gov.uk/nisr/2022/171), [art. 2](https://www.legislation.gov.uk/nisr/2022/171/article/2)
+[^c-f040f9b2a651793a05d2a2a775b218ac]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/7/section/1) in operation at 4.4.2022 by [S.R. 2022/171](https://www.legislation.gov.uk/nisr/2022/171), [art. 2](https://www.legislation.gov.uk/nisr/2022/171/article/2)
 
-[^key-fdff1381c912b11bbf200aac15ea3de6]: Commencement: S. 2 in operation at 31.3.2022, see [s. 3(1)](https://www.legislation.gov.uk/nia/2022/7/section/3/1)
+[^c-fdff1381c912b11bbf200aac15ea3de6]: Commencement: S. 2 in operation at 31.3.2022, see [s. 3(1)](https://www.legislation.gov.uk/nia/2022/7/section/3/1)
 
-[^key-9cb107fc79a4cf764f3862f4dae422ab]: Commencement: S. 3 in operation at 31.3.2022, see [s. 3(1)](https://www.legislation.gov.uk/nia/2022/7/section/3/1)
+[^c-9cb107fc79a4cf764f3862f4dae422ab]: Commencement: S. 3 in operation at 31.3.2022, see [s. 3(1)](https://www.legislation.gov.uk/nia/2022/7/section/3/1)

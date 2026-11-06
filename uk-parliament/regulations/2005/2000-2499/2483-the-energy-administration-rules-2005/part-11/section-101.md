@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Filing and service of affidavits[^key-f3e8220e1ad9ec41482f1bde293ec70f]
+## 101. Filing and service of affidavits[^c-f3e8220e1ad9ec41482f1bde293ec70f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3e8220e1ad9ec41482f1bde293ec70f]: Commencement: Rule 101 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-f3e8220e1ad9ec41482f1bde293ec70f]: Commencement: Rule 101 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

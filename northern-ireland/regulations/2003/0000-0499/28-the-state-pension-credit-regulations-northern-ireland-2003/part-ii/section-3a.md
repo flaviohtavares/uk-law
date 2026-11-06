@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3A. Persons temporarily absent from Northern Ireland on 6th October 2008[^key-06922eebf935c38dab519661c13a80e6]
+## 3A. Persons temporarily absent from Northern Ireland on 6th October 2008[^c-06922eebf935c38dab519661c13a80e6]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ the claimant’s entitlement to state pension credit is to continue during that 
 
 ## Annotations
 
-[^key-06922eebf935c38dab519661c13a80e6]: Textual amendment: Regs. 3,3(A) substituted (6.10.2008) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2008 (S.R. 2008/410)](https://www.legislation.gov.uk/nisr/2008/410), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2008/410/regulation/3/2)
+[^c-06922eebf935c38dab519661c13a80e6]: Textual amendment: Regs. 3,3(A) substituted (6.10.2008) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2008 (S.R. 2008/410)](https://www.legislation.gov.uk/nisr/2008/410), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2008/410/regulation/3/2)

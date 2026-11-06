@@ -23,7 +23,7 @@ summary: ''
 (1) An employee has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer done on the ground that the employee—
 
 - (a) made (or proposed to make) an application under section 80F,
-- (b)[^key-c858f61ccfc017e58df61cba8948dde2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c858f61ccfc017e58df61cba8948dde2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) brought proceedings against the employer under section 80H, or
 - (d) alleged the existence of any circumstance which would constitute a ground for bringing such proceedings.
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c16728081]: Textual amendment: S. 47E inserted (6.4.2003) by virtue of [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 47(3)](https://www.legislation.gov.uk/ukpga/2002/22/section/47/3); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [3](https://www.legislation.gov.uk/uksi/2002/2866/article/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2002/2866/schedule/3/paragraph/7))
 
-[^key-c858f61ccfc017e58df61cba8948dde2]: Textual amendment: S. 47E(1)(b) repealed (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 132(5)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/132/5/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(l)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/l) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/1640/article/10))
+[^c-c858f61ccfc017e58df61cba8948dde2]: Textual amendment: S. 47E(1)(b) repealed (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 132(5)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/132/5/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(l)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/l) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/1640/article/10))

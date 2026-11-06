@@ -31,9 +31,9 @@ summary: ''
 
 (3) Such an assessment must be made before the end of the period of 6 years immediately following the end of the tax year in which subsection (1) first applies.
 
-(4) If subsection (1)(b)(i) or (ii) applies, the person’s employer or former employer must give an officer of Revenue and Customs[^key-4f3a0614079ff004d8042e82d44ecd6f] a notice containing particulars of the person’s failure to begin the course or continued employment or re-employment within 60 days of coming to know of it.
+(4) If subsection (1)(b)(i) or (ii) applies, the person’s employer or former employer must give an officer of Revenue and Customs[^c-4f3a0614079ff004d8042e82d44ecd6f] a notice containing particulars of the person’s failure to begin the course or continued employment or re-employment within 60 days of coming to know of it.
 
-(5) If an officer of Revenue and Customs has[^key-95858dcdb42868135b25ea3f062cee2d] reason to believe that a person has failed to give such a notice, the officer[^key-ebd958e9547475101f59d372d6882f7a] may by notice require the person to provide such information as the officer may reasonably require for the purposes of this section about—
+(5) If an officer of Revenue and Customs has[^c-95858dcdb42868135b25ea3f062cee2d] reason to believe that a person has failed to give such a notice, the officer[^c-ebd958e9547475101f59d372d6882f7a] may by notice require the person to provide such information as the officer may reasonably require for the purposes of this section about—
 
 - (a) the failure to begin the course,
 - (b) the continued employment, or
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-95858dcdb42868135b25ea3f062cee2d]: Textual amendment: Word in s. 312(5) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 111](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/111); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-95858dcdb42868135b25ea3f062cee2d]: Textual amendment: Word in s. 312(5) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 111](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/111); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-ebd958e9547475101f59d372d6882f7a]: Textual amendment: Words in s. 312(5) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 103(1)(f)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/103/1/f); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-ebd958e9547475101f59d372d6882f7a]: Textual amendment: Words in s. 312(5) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 103(1)(f)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/103/1/f); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

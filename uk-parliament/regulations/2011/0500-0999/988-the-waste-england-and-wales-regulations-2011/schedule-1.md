@@ -26,7 +26,7 @@ Regulations 5, 8 and 11
 
 #### 1. Overall objective
 
-To protect the environment and human health by preventing or reducing the generation of waste and[^key-5647f9b99f5bbb28265db676b609f4f9] the adverse impacts of the generation and management of waste and by reducing overall impacts of resource use and improving the efficiency of such use.
+To protect the environment and human health by preventing or reducing the generation of waste and[^c-5647f9b99f5bbb28265db676b609f4f9] the adverse impacts of the generation and management of waste and by reducing overall impacts of resource use and improving the efficiency of such use.
 
 #### 2. Application of the waste hierarchy
 
@@ -47,7 +47,7 @@ To protect the environment and human health by preventing or reducing the genera
   - (iii) protection of resources, and
   - (iv) the overall environmental, human health, economic and social impacts.
 
-(3)[^key-e084128470ef2bc395964e7c8aeefd42] To make use of economic instruments and other measures to provide incentives for the application of the waste hierarchy, such as those listed in paragraph 17 or other appropriate instruments and measures.
+(3)[^c-e084128470ef2bc395964e7c8aeefd42] To make use of economic instruments and other measures to provide incentives for the application of the waste hierarchy, such as those listed in paragraph 17 or other appropriate instruments and measures.
 
 #### 3. Protection of human health and the environment
 
@@ -59,15 +59,15 @@ To ensure that waste management is carried out without endangering human health,
 
 #### 4. Principles of self-sufficiency and proximity
 
-(1) To establish an integrated and adequate network of waste disposal installations and of installations for the recovery of mixed municipal waste collected from private households, including, where such collection also covers such waste from other producers [^key-bae973ae37afd48cce8c9303cb2106a5]....
+(1) To establish an integrated and adequate network of waste disposal installations and of installations for the recovery of mixed municipal waste collected from private households, including, where such collection also covers such waste from other producers [^c-bae973ae37afd48cce8c9303cb2106a5]....
 
-(2) The network must be designed to enable the United Kingdom as a whole to move towards becoming[^key-a503bb48fe8b2839229fc12ee1caf8be] self-sufficient in waste disposal and in the recovery of mixed municipal waste collected from private households, [^key-606b50fc4c11c2b9f98f280e0b5c84d6]... taking into account geographical circumstances or the need for specialised installations for certain types of waste.
+(2) The network must be designed to enable the United Kingdom as a whole to move towards becoming[^c-a503bb48fe8b2839229fc12ee1caf8be] self-sufficient in waste disposal and in the recovery of mixed municipal waste collected from private households, [^c-606b50fc4c11c2b9f98f280e0b5c84d6]... taking into account geographical circumstances or the need for specialised installations for certain types of waste.
 
 (3) The network must enable waste to be disposed of and mixed municipal waste collected from private households to be recovered in one of the nearest appropriate installations, by means of the most appropriate technologies, in order to ensure a high level of protection for the environment and human health.
 
 (4) This paragraph does not require that the full range of final recovery facilities be located in England or in Wales or in England and Wales together.
 
-### PART 2 — Matters which must be included in waste management plans[^key-67922da8cda6e9d5c616e61ad8ba218b]
+### PART 2 — Matters which must be included in waste management plans[^c-67922da8cda6e9d5c616e61ad8ba218b]
 
 #### 5. Analysis of the current waste management situation etc.
 
@@ -99,7 +99,7 @@ In pursuance of the objectives and measures in [Directive 94/62/EC](https://www.
 
 #### 8. Policies in relation to separate collection of waste
 
-Measures to promote high quality recycling including the setting up of separate collections of waste , subject to regulation 13 *(Extent: E)* *(affected by repeal, see note)*[^key-893115560a744e5fe940838e4a1887e6].
+Measures to promote high quality recycling including the setting up of separate collections of waste , subject to regulation 13 *(Extent: E)* *(affected by repeal, see note)*[^c-893115560a744e5fe940838e4a1887e6].
 
 #### 9. Policies in relation to bio-waste
 
@@ -156,7 +156,7 @@ Measures to be taken to ensure that—
 Taking into account the geographical level and geographical area to which the plan relates—
 
 - (a) organisational aspects related to waste management including a description of the allocation of responsibilities between public and private actors carrying out waste management;
-- (b) an evaluation of the usefulness and suitability of the use of economic and other instruments in tackling various waste problems [^key-3e879cf6dae3932070268a2ff0371522]...;
+- (b) an evaluation of the usefulness and suitability of the use of economic and other instruments in tackling various waste problems [^c-3e879cf6dae3932070268a2ff0371522]...;
 - (c) the use of awareness campaigns and information provision directed at the general public or at a specific set of consumers;
 - (d) historical contaminated waste disposal sites and measures for their rehabilitation.
 
@@ -170,7 +170,7 @@ In this Part—
   - (a) in relation to a waste prevention programme or national waste management plan relating to England—
     - (i) Natural England, and
     - (ii) the Historic Buildings and Monuments Commission for England (English Heritage);
-  - (b) in relation to a waste prevention programme or national waste management plan relating to Wales, the Natural Resources Body for Wales[^key-add954b67809afe54e68119bb5ab4265];
+  - (b) in relation to a waste prevention programme or national waste management plan relating to Wales, the Natural Resources Body for Wales[^c-add954b67809afe54e68119bb5ab4265];
 - “**public consultees**” means the persons to whose attention proposals for a programme or plan are brought by the appropriate authority pursuant to paragraph 14(1)(b).
 
 #### 14. Public participation procedures
@@ -210,7 +210,7 @@ In this Part—
 
 (4) Nothing in paragraph (2)(c) requires the appropriate authority to provide copies free of charge, but where a charge is made it must be reasonable.
 
-### Part 5 — Waste prevention measures referred to in regulation 5(c)(iii)[^key-98db102fe4baf0479c15be78557a3844]
+### Part 5 — Waste prevention measures referred to in regulation 5(c)(iii)[^c-98db102fe4baf0479c15be78557a3844]
 
 **16.** The waste prevention measures referred to in regulation 5(c)(iii) are measures to—
 
@@ -255,22 +255,22 @@ In this Part—
 
 ## Annotations
 
-[^key-5647f9b99f5bbb28265db676b609f4f9]: Textual amendment: Words in Sch. 1 para. 1 inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(10)(a)(i)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/10/a/i)
+[^c-5647f9b99f5bbb28265db676b609f4f9]: Textual amendment: Words in Sch. 1 para. 1 inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(10)(a)(i)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/10/a/i)
 
-[^key-e084128470ef2bc395964e7c8aeefd42]: Textual amendment: Sch. 1 para. 2(3) inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/10/a/ii)
+[^c-e084128470ef2bc395964e7c8aeefd42]: Textual amendment: Sch. 1 para. 2(3) inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/10/a/ii)
 
-[^key-bae973ae37afd48cce8c9303cb2106a5]: Textual amendment: Words in Sch. 1 para. 4(1) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [16(6)(za)(i)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/6/za/i) (as inserted by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-bae973ae37afd48cce8c9303cb2106a5]: Textual amendment: Words in Sch. 1 para. 4(1) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [16(6)(za)(i)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/6/za/i) (as inserted by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-a503bb48fe8b2839229fc12ee1caf8be]: Textual amendment: Words in Sch. 1 para. 4(2) substituted (31.12.2020) [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [16(6)(za)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/6/za/ii/aa) (as inserted by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-a503bb48fe8b2839229fc12ee1caf8be]: Textual amendment: Words in Sch. 1 para. 4(2) substituted (31.12.2020) [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [16(6)(za)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/6/za/ii/aa) (as inserted by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-606b50fc4c11c2b9f98f280e0b5c84d6]: Textual amendment: Words in Sch. 1 para. 4(2) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [16(6)(za)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/6/za/ii/bb) (as inserted by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-606b50fc4c11c2b9f98f280e0b5c84d6]: Textual amendment: Words in Sch. 1 para. 4(2) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [16(6)(za)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/6/za/ii/bb) (as inserted by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-67922da8cda6e9d5c616e61ad8ba218b]: Textual amendment: Sch. 1 Pts. 2, 2A substituted for Schs. 1 Pt. 2 (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(10)(b)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/10/b)
+[^c-67922da8cda6e9d5c616e61ad8ba218b]: Textual amendment: Sch. 1 Pts. 2, 2A substituted for Schs. 1 Pt. 2 (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(10)(b)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/10/b)
 
-[^key-893115560a744e5fe940838e4a1887e6]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/988/schedule/1/paragraph/8) omitted (E.) (31.3.2026) by virtue of [The Separation of Waste (England) Regulations 2024 (S.I. 2024/666)](https://www.legislation.gov.uk/uksi/2024/666), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/666/regulation/1/4), [5(b)](https://www.legislation.gov.uk/uksi/2024/666/regulation/5/b)
+[^c-893115560a744e5fe940838e4a1887e6]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/988/schedule/1/paragraph/8) omitted (E.) (31.3.2026) by virtue of [The Separation of Waste (England) Regulations 2024 (S.I. 2024/666)](https://www.legislation.gov.uk/uksi/2024/666), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/666/regulation/1/4), [5(b)](https://www.legislation.gov.uk/uksi/2024/666/regulation/5/b)
 
-[^key-3e879cf6dae3932070268a2ff0371522]: Textual amendment: Words in [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/1/paragraph/12/b) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [16(6)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/6/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e879cf6dae3932070268a2ff0371522]: Textual amendment: Words in [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/1/paragraph/12/b) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [16(6)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/16/6/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-add954b67809afe54e68119bb5ab4265]: Textual amendment: Words in Sch. 1 para. 13 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 410(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/410/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-add954b67809afe54e68119bb5ab4265]: Textual amendment: Words in Sch. 1 para. 13 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 410(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/410/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-98db102fe4baf0479c15be78557a3844]: Textual amendment: Sch. 1 Pts. 5, 6 inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(10)(c)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/10/c)
+[^c-98db102fe4baf0479c15be78557a3844]: Textual amendment: Sch. 1 Pts. 5, 6 inserted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(10)(c)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/10/c)

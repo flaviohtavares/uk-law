@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Power of High Court to stay execution[^key-273364b50ac039c7acc19de09ef1ba66]
+## 70. Power of High Court to stay execution[^c-273364b50ac039c7acc19de09ef1ba66]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the court may stay the execution of any writ of control issued in the proceeding
 
 ## Annotations
 
-[^key-273364b50ac039c7acc19de09ef1ba66]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2007/15/section/70) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-273364b50ac039c7acc19de09ef1ba66]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2007/15/section/70) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

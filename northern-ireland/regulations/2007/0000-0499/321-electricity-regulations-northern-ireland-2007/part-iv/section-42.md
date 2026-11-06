@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Former Tariff Customers[^key-613ac6612abf092eb2c1d487017ab85a]
+## 42. Former Tariff Customers[^c-613ac6612abf092eb2c1d487017ab85a]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ the Authority may itself make the scheme.
 
 ## Annotations
 
-[^key-613ac6612abf092eb2c1d487017ab85a]: Commencement: Reg. 42 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-613ac6612abf092eb2c1d487017ab85a]: Commencement: Reg. 42 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

@@ -46,11 +46,11 @@ and in Scotland, where an order has been made under this section, the person fro
 
 (5) A person to whom an infringing copy or other article is delivered up in pursuance of an order under this section shall retain it pending the making of an order, or the decision not to make an order, undersection 114.
 
-(6) Nothing in this section affects the powers of the court under section 153 of the Sentencing Code[^key-1f8a7404dcfbe93f27828ec8a5708381] , Part II of the Proceeds of Crime (Scotland) Act 1995[^c13756221] or Article 11 of the Criminal Justice (Northern Ireland) Order 1994[^c13756231] (general provisions as to forfeiture in criminal proceedings).
+(6) Nothing in this section affects the powers of the court under section 153 of the Sentencing Code[^c-1f8a7404dcfbe93f27828ec8a5708381] , Part II of the Proceeds of Crime (Scotland) Act 1995[^c13756221] or Article 11 of the Criminal Justice (Northern Ireland) Order 1994[^c13756231] (general provisions as to forfeiture in criminal proceedings).
 
 ## Annotations
 
-[^key-1f8a7404dcfbe93f27828ec8a5708381]: Textual amendment: Words in s. 108(6) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 95](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/95) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1f8a7404dcfbe93f27828ec8a5708381]: Textual amendment: Words in s. 108(6) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 95](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/95) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c13756221]: Textual amendment: Words in s. 108(6) substituted (1.4.1996) by virtue of [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 4 para. 70(2)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/70/2)
 

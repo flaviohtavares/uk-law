@@ -46,7 +46,7 @@ The Secretary of State for Social Services, in exercise of powers conferred upon
 
 (1) These regulations may be cited as the Social Security (Child's Special Allowance) Regulations 1975, and shall come into operation on 6th April 1975.
 
-(1A)[^key-4c8a79a75da1e4d0a82903ae546fb4aa] In these regulations the expression “**child benefit**” means benefit under Part I of the Child Benefit Act 1975.
+(1A)[^c-4c8a79a75da1e4d0a82903ae546fb4aa] In these regulations the expression “**child benefit**” means benefit under Part I of the Child Benefit Act 1975.
 
 (2) Any reference in these regulations to any provision made by or contained in an enactment shall, except in so far as the context otherwise requires, be construed as a reference to that provision as amended or extended by any enactment or instrument and as including a reference to any provision which may re-enact or replace it.
 
@@ -60,7 +60,7 @@ The prescribed rate for the purposes of section 31(c) of the Social Security Act
 
 For the purposes of section 31 of the Social Security Act 1975 (child's special allowance where a woman's marriage has been terminated by divorce) a voidable marriage which has been annulled, whether before or after the date when these regulations come into force, shall be treated as if it had been a valid marriage which was terminated by divorce at the date of annulment.
 
-## 4. Prescribed circumstances for purposes of section 31(b)(ii) of the Social Security Act 1975[^key-08add2507ca84c3f8c676a788dc7a49e]
+## 4. Prescribed circumstances for purposes of section 31(b)(ii) of the Social Security Act 1975[^c-08add2507ca84c3f8c676a788dc7a49e]
 
 The condition specified in section 31(b)(ii) of the Social Security Act 1975 (woman entitled to child benefit to be entitled to a child's special allowance if her marriage has been terminated by divorce and the husband of that marriage was, in such circumstances as may be prescribed, entitled to child benefit in respect of a child immediately before his death) shall be regarded as satisfied where the child in question is a child of the marriage which was terminated by divorce; and in respect of any such child for whom child benefit would have been payable to the husband but for the fact that the child was not then in Great Britain, the husband shall be treated as having been entitled to child benefit immediately before his death.
 
@@ -74,6 +74,6 @@ The Regulations prescribe the minimum weekly rate at which a former husband must
 
 ## Annotations
 
-[^key-4c8a79a75da1e4d0a82903ae546fb4aa]: Textual amendment: [Reg. 1(1A)](https://www.legislation.gov.uk/uksi/1975/497/regulation/1/1A) inserted (4.4.1977) by [The Social Security (Child Benefit Consequential) Regulations 1977 (S.I. 1977/342)](https://www.legislation.gov.uk/uksi/1977/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1977/342/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/1977/342/regulation/6/2)
+[^c-4c8a79a75da1e4d0a82903ae546fb4aa]: Textual amendment: [Reg. 1(1A)](https://www.legislation.gov.uk/uksi/1975/497/regulation/1/1A) inserted (4.4.1977) by [The Social Security (Child Benefit Consequential) Regulations 1977 (S.I. 1977/342)](https://www.legislation.gov.uk/uksi/1977/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1977/342/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/1977/342/regulation/6/2)
 
-[^key-08add2507ca84c3f8c676a788dc7a49e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1975/497/regulation/4) added (4.4.1977) by [The Social Security (Child Benefit Consequential) Regulations 1977 (S.I. 1977/342)](https://www.legislation.gov.uk/uksi/1977/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1977/342/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/1977/342/regulation/6/3)
+[^c-08add2507ca84c3f8c676a788dc7a49e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1975/497/regulation/4) added (4.4.1977) by [The Social Security (Child Benefit Consequential) Regulations 1977 (S.I. 1977/342)](https://www.legislation.gov.uk/uksi/1977/342), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1977/342/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/1977/342/regulation/6/3)

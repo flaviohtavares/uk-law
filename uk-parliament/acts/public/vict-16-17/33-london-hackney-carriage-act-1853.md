@@ -37,9 +37,9 @@ An Act for the better Regulation of Metropolitan Stage and Hackney Carriages, an
 
 ## 2. Commissioners of Police may cause carriages, &c., to be inspected, and if not in fit condition may suspend licences, and recall stamp office plate.[^c561074][^c561073]
 
-(1)[^key-c3f2d98a125dc1a7dbe968645deff363] It shall be lawful for Transport for London[^c561075] to cause an inspection to be made, as often as they deem it necessary, of all . . . [^c561076] hackney carriages, and of the horse or horses used in drawing the same, within the limits of this Act; and if any such carriage, or the horse or horses used in drawing the same, shall at any time be in a condition unfit for public use, the said commissioners shall give notice in writing accordingly to the proprietor thereof,
+(1)[^c-c3f2d98a125dc1a7dbe968645deff363] It shall be lawful for Transport for London[^c561075] to cause an inspection to be made, as often as they deem it necessary, of all . . . [^c561076] hackney carriages, and of the horse or horses used in drawing the same, within the limits of this Act; and if any such carriage, or the horse or horses used in drawing the same, shall at any time be in a condition unfit for public use, the said commissioners shall give notice in writing accordingly to the proprietor thereof,
 
-which notice—[^key-705c0ee963beb4a3e8ea15c40fc232ef]
+which notice—[^c-705c0ee963beb4a3e8ea15c40fc232ef]
 
 - (a) shall be personally served on the proprietor or delivered at his usual place of residence, and
 - (b) may be personally served on the driver of the carriage;
@@ -48,7 +48,7 @@ and if, after notice has been served on the proprietor or driver as mentioned in
 
 Transport for London shall have power to suspend, for such time as they may deem proper, the licence of the proprietor of such carriage . . . [^c561079].
 
-(2)[^key-2e4ec42f72ebed9e3417d841de2a9393] A proprietor of a hackney carriage whose licence is suspended under subsection (1) shall not be guilty of an offence under section 7 of the Metropolitan Public Carriage Act [1869 (c. 115)](https://www.legislation.gov.uk/ukpga/1869/115) in respect of the carriage unless he has been given written notice in accordance with subsection (1).
+(2)[^c-2e4ec42f72ebed9e3417d841de2a9393] A proprietor of a hackney carriage whose licence is suspended under subsection (1) shall not be guilty of an offence under section 7 of the Metropolitan Public Carriage Act [1869 (c. 115)](https://www.legislation.gov.uk/ukpga/1869/115) in respect of the carriage unless he has been given written notice in accordance with subsection (1).
 
 ## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c561080]
 
@@ -80,7 +80,7 @@ The driver of every hackney carriage within the limits of this Act shall carry i
 
 It shall not be lawful for any person to carry about on any carriage or on horseback or on foot, in any thoroughfare or public place within the limits of this Act, to the obstruction or annoyance of the inhabitants or passengers, any picture, placard, notice, or advertisement, whether written, printed, or painted upon or posted or attached to any part of such carriage, or on any board, or otherwise.
 
-## 17. †Drivers and conductors of metropolitan stage carriages and drivers of hackney carriages, liable to penalties for offences herein named.[^key-ab567c714fa0abafb3b5f30ded730ee0][^c561110]
+## 17. †Drivers and conductors of metropolitan stage carriages and drivers of hackney carriages, liable to penalties for offences herein named.[^c-ab567c714fa0abafb3b5f30ded730ee0][^c561110]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c561111] the driver of any hackney carriage, who shall. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c561111] commit any of the following offences within the limits of this Act, shall be liable to a penalty not exceeding level 3 on the standard scale[^c561113], for each offence, . . . [^c561114].
 
@@ -132,17 +132,17 @@ This Act shall be construed as one Act with the [^c561135]London Hackney Carriag
 
 [^c561073]: Modification: S. 2 repealed as to tramcars and trolley vehicles by [Metropolitan Public Carriage Act 1869 (c. 115, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1869/115), [s. 15](https://www.legislation.gov.uk/ukpga/1869/115/section/15) and S.R. & O. 1933/629 (Rev. XX, p. 441: 1933, p. 1772)
 
-[^key-c3f2d98a125dc1a7dbe968645deff363]: Textual amendment: S. 2 renumbered as s. 2(1) (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [16(2)](https://www.legislation.gov.uk/ukla/2008/1/section/16/2)
+[^c-c3f2d98a125dc1a7dbe968645deff363]: Textual amendment: S. 2 renumbered as s. 2(1) (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [16(2)](https://www.legislation.gov.uk/ukla/2008/1/section/16/2)
 
 [^c561075]: Textual amendment: Words in s. 2 substituted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 253](https://www.legislation.gov.uk/ukpga/1999/29/section/253), [Sch. 20](https://www.legislation.gov.uk/ukpga/1999/29/schedule/20), [Pt. I para. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1999/29/part/I/paragraph/3/1/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c); Sch. Pt. III
 
 [^c561076]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch. 1 Pt. XVII](https://www.legislation.gov.uk/ukpga/1976/16/schedule/1/part/XVII)
 
-[^key-705c0ee963beb4a3e8ea15c40fc232ef]: Textual amendment: Words in s. 2(1) substituted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [16(3)](https://www.legislation.gov.uk/ukla/2008/1/section/16/3)
+[^c-705c0ee963beb4a3e8ea15c40fc232ef]: Textual amendment: Words in s. 2(1) substituted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [16(3)](https://www.legislation.gov.uk/ukla/2008/1/section/16/3)
 
 [^c561079]: Textual amendment: Words repealed by [Statute Law Revision Act 1892 (c. 19)](https://www.legislation.gov.uk/ukpga/1892/19)
 
-[^key-2e4ec42f72ebed9e3417d841de2a9393]: Textual amendment: S. 2(2) inserted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [16(4)](https://www.legislation.gov.uk/ukla/2008/1/section/16/4)
+[^c-2e4ec42f72ebed9e3417d841de2a9393]: Textual amendment: S. 2(2) inserted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [16(4)](https://www.legislation.gov.uk/ukla/2008/1/section/16/4)
 
 [^c561080]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/Vict/16-17/33/section/1), [3](https://www.legislation.gov.uk/ukpga/Vict/16-17/33/section/3) repealed by [Statute Law Revision Act 1892 (c. 19)](https://www.legislation.gov.uk/ukpga/1892/19)
 
@@ -176,7 +176,7 @@ This Act shall be construed as one Act with the [^c561135]London Hackney Carriag
 
 [^c561098]: Textual amendment: [Ss. 11](https://www.legislation.gov.uk/ukpga/Vict/16-17/33/section/11), [14](https://www.legislation.gov.uk/ukpga/Vict/16-17/33/section/14), [15](https://www.legislation.gov.uk/ukpga/Vict/16-17/33/section/15) repealed by [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch. 1 Pt. XVII](https://www.legislation.gov.uk/ukpga/1976/16/schedule/1/part/XVII)
 
-[^key-ab567c714fa0abafb3b5f30ded730ee0]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/Vict/16-17/33/section/17) excluded (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [9(3)](https://www.legislation.gov.uk/ukla/2008/1/section/9/3), [10(4)](https://www.legislation.gov.uk/ukla/2008/1/section/10/4)
+[^c-ab567c714fa0abafb3b5f30ded730ee0]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/Vict/16-17/33/section/17) excluded (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [9(3)](https://www.legislation.gov.uk/ukla/2008/1/section/9/3), [10(4)](https://www.legislation.gov.uk/ukla/2008/1/section/10/4)
 
 [^c561110]: Modification: Unreliable marginal note.
 

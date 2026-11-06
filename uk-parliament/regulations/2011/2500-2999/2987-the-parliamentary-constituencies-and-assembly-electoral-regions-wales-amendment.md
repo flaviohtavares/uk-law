@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People, Wales
 
-The Parliamentary Constituencies and Assembly Electoral Regions (Wales) (Amendment) Order 2011 (revoked)[^key-fc4acfe72f5cc1617b3f849124e39980]
+The Parliamentary Constituencies and Assembly Electoral Regions (Wales) (Amendment) Order 2011 (revoked)[^c-fc4acfe72f5cc1617b3f849124e39980]
 
 Made
 
@@ -46,35 +46,35 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-fc4acfe72f5cc1617b3f849124e39980]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc4acfe72f5cc1617b3f849124e39980]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fc4acfe72f5cc1617b3f849124e39980]
+## 1. Citation and commencement[^c-fc4acfe72f5cc1617b3f849124e39980]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Parliamentary Constituencies and Assembly Electoral Regions (Wales) Order 2006[^key-fc4acfe72f5cc1617b3f849124e39980]
+## 2. Amendments to the Parliamentary Constituencies and Assembly Electoral Regions (Wales) Order 2006[^c-fc4acfe72f5cc1617b3f849124e39980]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fc4acfe72f5cc1617b3f849124e39980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fc4acfe72f5cc1617b3f849124e39980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-fc4acfe72f5cc1617b3f849124e39980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fc4acfe72f5cc1617b3f849124e39980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-fc4acfe72f5cc1617b3f849124e39980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fc4acfe72f5cc1617b3f849124e39980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-fc4acfe72f5cc1617b3f849124e39980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-fc4acfe72f5cc1617b3f849124e39980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Electoral register[^key-fc4acfe72f5cc1617b3f849124e39980]
+## 7. Electoral register[^c-fc4acfe72f5cc1617b3f849124e39980]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc4acfe72f5cc1617b3f849124e39980]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc4acfe72f5cc1617b3f849124e39980]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Reports submitted by the Boundary Commission for Wales to the Lord President of the Council[^key-fc4acfe72f5cc1617b3f849124e39980]
+## SCHEDULE — Reports submitted by the Boundary Commission for Wales to the Lord President of the Council[^c-fc4acfe72f5cc1617b3f849124e39980]
 
 Preamble
 
@@ -82,8 +82,8 @@ Preamble
 
 **May not be in force at this date. Check the source.**
 
-[^key-fc4acfe72f5cc1617b3f849124e39980]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc4acfe72f5cc1617b3f849124e39980]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc4acfe72f5cc1617b3f849124e39980]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2987) revoked (18.7.2025) by [The Senedd Cymru Constituency Regulations 2025 (S.I. 2025/709)](https://www.legislation.gov.uk/wsi/2025/709), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/709/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2025/709/regulation/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/709/regulation/1/3))
+[^c-fc4acfe72f5cc1617b3f849124e39980]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/2987) revoked (18.7.2025) by [The Senedd Cymru Constituency Regulations 2025 (S.I. 2025/709)](https://www.legislation.gov.uk/wsi/2025/709), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/709/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2025/709/regulation/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/709/regulation/1/3))

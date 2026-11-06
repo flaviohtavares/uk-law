@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Exemptions from liability to be void[^key-fc15f76e23020178fd98058fd6f9e3e4]
+## 62. Exemptions from liability to be void[^c-fc15f76e23020178fd98058fd6f9e3e4]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc15f76e23020178fd98058fd6f9e3e4]: Commencement: [Reg. 62](https://www.legislation.gov.uk/nisr/2004/335/regulation/62) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-fc15f76e23020178fd98058fd6f9e3e4]: Commencement: [Reg. 62](https://www.legislation.gov.uk/nisr/2004/335/regulation/62) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

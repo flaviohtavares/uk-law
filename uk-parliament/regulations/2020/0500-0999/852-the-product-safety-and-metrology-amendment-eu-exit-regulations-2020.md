@@ -62,21 +62,21 @@ The Secretary of State in exercise of the powers conferred by section 8(1) of, a
 
 The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these regulations) have been satisfied.
 
-## 1. Citation[^key-ac31bc3492db59171c08e9fe4f4f8509]
+## 1. Citation[^c-ac31bc3492db59171c08e9fe4f4f8509]
 
 These Regulations may be cited as the Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020.
 
-## 2. Commencement[^key-dc88b1118d7f9cb439f9f87827f8f48c]
+## 2. Commencement[^c-dc88b1118d7f9cb439f9f87827f8f48c]
 
-(1) This regulation, and regulations 1, 3 and 5[^key-e488a1bc4dce8da048abe3f1e0837137] come into force immediately before the coming into force of regulations 10 and 16 of the Product Safety, Metrology and Mutual Recognition Agreement[^key-865b19695cc2c5718c137303d32484f2] (Amendment) (EU Exit) Regulations 2019 [^c24261821].
+(1) This regulation, and regulations 1, 3 and 5[^c-e488a1bc4dce8da048abe3f1e0837137] come into force immediately before the coming into force of regulations 10 and 16 of the Product Safety, Metrology and Mutual Recognition Agreement[^c-865b19695cc2c5718c137303d32484f2] (Amendment) (EU Exit) Regulations 2019 [^c24261821].
 
 (2) Regulation 4 comes into force immediately before IP completion day.
 
-## 3. Extent[^key-2fe372832226fbc596309ac0358c3dc7]
+## 3. Extent[^c-2fe372832226fbc596309ac0358c3dc7]
 
 Any amendment made by these Regulations has the same extent as the provision amended.
 
-## 4. Amendment to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019[^key-e1bd6470d9e27166b5c9f8e7e0cd7bf7]
+## 4. Amendment to the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019[^c-e1bd6470d9e27166b5c9f8e7e0cd7bf7]
 
 (1) The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c24261831] are amended as follows.
 
@@ -91,7 +91,7 @@ Any amendment made by these Regulations has the same extent as the provision ame
 
   .
 
-## 5. Amendment to the Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019[^key-4ebfb7a4dc458178eab0239b61ed0012]
+## 5. Amendment to the Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019[^c-4ebfb7a4dc458178eab0239b61ed0012]
 
 In the provisions of the Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 listed in Schedule 2, for “exit day” substitute “ IP completion day ”.
 
@@ -105,7 +105,7 @@ Department for Business, Energy and Industrial Strategy
 
 Regulation 4
 
-**1.**[^key-e64a1b6e7a9375317f6467921a3c4cff] The provisions referred to in regulation 4(2) are as follows—
+**1.**[^c-e64a1b6e7a9375317f6467921a3c4cff] The provisions referred to in regulation 4(2) are as follows—
 
 - (a) in Schedule 5 (measuring instruments EEC requirements) in paragraph 1(6), in the inserted regulation 15A(1);
 - (b) in Schedule 8 (noise emission) in paragraphs—
@@ -115,7 +115,7 @@ Regulation 4
 - (c) in Schedule 11 (packaged goods) in paragraph 3(b), in the inserted paragraph (7)(a);
 - (d) in Schedule 12 (supply of machinery) in paragraphs—
   - (i) 2(2);
-  - (ii)[^key-50f6d3cb0e57491a02a82c4a6e56976f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-50f6d3cb0e57491a02a82c4a6e56976f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) 16, in the inserted regulation 16A (four times);
   - (iv) 16, in the inserted regulation 16B(6) (twice);
   - (v) 16, in the inserted regulation 16C(1)(b)(ii) (twice);
@@ -124,7 +124,7 @@ Regulation 4
 - (e) in Schedule 15 (toys) in paragraphs—
   - (i) 3, in the inserted regulation 2A (six times);
   - (ii) 4(a);
-  - (iii)[^key-a60a32ac499831007740898ae474e470] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-a60a32ac499831007740898ae474e470] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) 5, in the inserted regulation 3B(3);
   - (v) 23, in the substituted paragraph (2)(a)(iii);
   - (vi) 27, in the inserted regulation 39E(3);
@@ -148,21 +148,21 @@ Regulation 4
   - (vi) 43(7)(a);
   - (vii) 43(8), in the inserted paragraph 6A(1);
 - (i) in Schedule 20 (electromagnetic compatibility) in paragraphs—
-  - (i)[^key-2b97831ab8279b1485df1b621735ea49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-2b97831ab8279b1485df1b621735ea49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) 2(2)(h);
   - (iii) 14(b), in the inserted paragraph (1A)(a)(ii);
   - (iv) 28, in the substituted regulation 43 (four times);
   - (v) 28, in the substituted regulation 46(b)(ii) (twice);
   - (vi) 33, in the inserted regulation 74 (five times);
 - (j) in Schedule 21 (simple pressure vessels) in paragraphs—
-  - (i)[^key-559e1681778fce546ca9c118cc9c5084] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-559e1681778fce546ca9c118cc9c5084] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) 2(2)(h);
   - (iii) 15(b), in the inserted paragraph (1A)(a)(ii);
   - (iv) 30, in the substituted regulation 45 (four times);
   - (v) 30, in the substituted regulation 48(b)(ii) (twice);
   - (vi) 37, in the inserted regulation 76A (five times);
 - (k) In Schedule 22 (lifts) in paragraphs—
-  - (i)[^key-2331902f642cb557c49d6bf5e6cd8489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-2331902f642cb557c49d6bf5e6cd8489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) 2(2)(i);
   - (iii) 18(b), in the substituted paragraph (3)(a)(ii);
   - (iv) 31, in the substituted regulation 51(four times);
@@ -171,12 +171,12 @@ Regulation 4
   - (vii) 37, in inserted paragraph (4) (twice);
   - (viii) 37, in inserted paragraph (6) (twice);
 - (l) in Schedule 23 (electrical equipment) in paragraphs—
-  - (i)[^key-56ed41222ec828be501b419060ba03ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-56ed41222ec828be501b419060ba03ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) 2(2)(d);
   - (iii) 11(b), in the substituted paragraph (3)(a)(ii);
   - (iv) 30, in the inserted regulation 62A (three times);
 - (m) in Schedule 24 (pressure equipment) in paragraphs—
-  - (i)[^key-c74c1ca537312372b95ab46c044dfba2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-c74c1ca537312372b95ab46c044dfba2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) 2(2)(h);
   - (iii) 15(b), in the substituted paragraph (3)(a)(ii);
   - (iv) 35, in the substituted regulation 51 (four times);
@@ -188,40 +188,40 @@ Regulation 4
   - (x) 46(c), in the heading of the inserted Part 2 of Schedule 3;
 - (n) in Schedule 25 (equipment etc. for use in potentially explosive atmospheres) in paragraphs—
   - (i) 2(2)(a);
-  - (ii)[^key-051e4d600f042fcafcd9e9ab99656705] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-051e4d600f042fcafcd9e9ab99656705] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) 14(b), in the substituted paragraph (3)(a)(ii);
   - (iv) 27, in the substituted regulation 42 (four times);
   - (v) 27, in the substituted regulation 45(b)(ii) (twice);
   - (vi) 34, in the inserted regulation 72A (five times);
 - (o) in Schedule 26 (non-automatic weighing instruments) in paragraphs—
-  - (i)[^key-b43ba6bd9f68ff0c26955f1dddea890d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-b43ba6bd9f68ff0c26955f1dddea890d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) 2(2)(h);
   - (iii) 5, in the inserted regulation 4A (five times);
   - (iv) 15(a), in the substituted paragraph (2)(a)(ii);
   - (v) 32, in the substituted regulation 47 (four times);
   - (vi) 32, in the substituted regulation 50(b)(ii) (twice);
 - (p) in Schedule 27 (Amendment of the Measuring Instruments Regulations 2016) in paragraphs—
-  - (i)[^key-1a940c1b041006717885ebbbf0c7a7ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-1a940c1b041006717885ebbbf0c7a7ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) 14(a), in the substituted paragraph (2)(a)(ii);
   - (iii) 38, in the substituted regulation 53 (four times);
   - (iv) 38, in the substituted regulation 56(b)(ii) (twice);
   - (v) 50(a), in the inserted paragraph 2A of Schedule 3 (five times);
 - (q) in Schedule 28 (recreational craft), in paragraphs—
-  - (i)[^key-9f0f6301b90b5ded88dd9b87c4934c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-9f0f6301b90b5ded88dd9b87c4934c02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) 2(2)(j);
   - (iii) 12, in the substituted paragraph (2)(a)(ii);
   - (iv) 36, in the substituted regulation 55 (four times);
   - (v) 36, in the substituted regulation 58(b)(ii) (twice);
   - (vi) 41, in the inserted regulation 89A (seven times);
 - (r) in Schedule 29 (radio equipment), Part 1, in paragraphs—
-  - (i)[^key-7e9b3261d7e1b2414d0b6a73338fca9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-7e9b3261d7e1b2414d0b6a73338fca9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) 12(c);
   - (iii) 19(b), in the substituted paragraph (3)(a)(ii);
   - (iv) 36, in the substituted regulation 46 (four times);
   - (v) 36, in the substituted regulation 49(b)(ii) (twice);
   - (vi) 44, in the inserted regulation 76A (five times);
 - (s) in Schedule 33 (Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765)) in paragraphs—
-  - (i)[^key-eb37d4d66bda89598de7322bc32ca7f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-eb37d4d66bda89598de7322bc32ca7f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) 5, in the substituted Article 4(2);
   - (iii) 11, in the substituted Article 10(5);
 - (t) in Schedule 34 (cosmetics) in paragraphs—
@@ -234,14 +234,14 @@ Regulation 4
   - (vii) 32, in the inserted regulation 3A (three times);
 - (u) in Schedule 35 (personal protective equipment), in paragraphs—
   - (i) 1(2)(a) in the inserted definition of “Regulation 2016/425 (pre-exit)”;
-  - (ii)[^key-8f1128dd6502462fcaf5eb5446fa6748] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-8f1128dd6502462fcaf5eb5446fa6748] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) 3(4)(e), in the inserted point (24);
   - (iv) 3(10)(b)(iii), in subparagraph (a)(ii) of the inserted unnumbered paragraph;
   - (v) 3(19), in the substituted Article 20 (twice);
   - (vi) 3(42) in the substituted Article 47 (twice);
 - (v) in Schedule 36 (gas appliances), in paragraphs—
   - (i) 1(2)(a), in the inserted definition of “Regulation 2016/426 (pre-exit)”;
-  - (ii)[^key-d2ea606795909eb692b64ee9c3414e86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-d2ea606795909eb692b64ee9c3414e86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) 2(3)(e), in the inserted point (37);
   - (iv) 2(10)(b)(ii), in subparagraph (a)(ii) of the inserted unnumbered paragraph;
   - (v) 2(19), in the substituted Article 19 (twice);
@@ -251,9 +251,9 @@ Regulation 4
 
 Regulation 5
 
-**1.**[^key-2f61ea9120e5718c02361313a9753bee] The provisions referred to in regulation 5 are as follows—
+**1.**[^c-2f61ea9120e5718c02361313a9753bee] The provisions referred to in regulation 5 are as follows—
 
-- (a)[^key-055b03cb9c9511267cfca128a9425a5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-055b03cb9c9511267cfca128a9425a5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in regulation 16(b) in the inserted paragraph 3 (twice).
 
 *(This note is not part of the Regulations)*
@@ -268,19 +268,19 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24261811]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); [section 8](https://www.legislation.gov.uk/uksi/2020/852/section/8) was amended by section 27 of the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) and paragraph 21 of Schedule 7 was amended by section 41(4) and Schedule 5, paragraph 53(2) of that Act.
 
-[^key-ac31bc3492db59171c08e9fe4f4f8509]: Commencement: Reg. 1 in force at 31.12.2020 immediately before [S.I. 2019/1246](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 10](https://www.legislation.gov.uk/uksi/2019/1246/regulation/10), [16](https://www.legislation.gov.uk/uksi/2019/1246/regulation/16) come into force, see reg. 2(1)
+[^c-ac31bc3492db59171c08e9fe4f4f8509]: Commencement: Reg. 1 in force at 31.12.2020 immediately before [S.I. 2019/1246](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 10](https://www.legislation.gov.uk/uksi/2019/1246/regulation/10), [16](https://www.legislation.gov.uk/uksi/2019/1246/regulation/16) come into force, see reg. 2(1)
 
-[^key-dc88b1118d7f9cb439f9f87827f8f48c]: Commencement: Reg. 2 in force at 31.12.2020 immediately before [S.I. 2019/1246](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 10](https://www.legislation.gov.uk/uksi/2019/1246/regulation/10), [16](https://www.legislation.gov.uk/uksi/2019/1246/regulation/16) come into force, see reg. 2(1)
+[^c-dc88b1118d7f9cb439f9f87827f8f48c]: Commencement: Reg. 2 in force at 31.12.2020 immediately before [S.I. 2019/1246](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 10](https://www.legislation.gov.uk/uksi/2019/1246/regulation/10), [16](https://www.legislation.gov.uk/uksi/2019/1246/regulation/16) come into force, see reg. 2(1)
 
-[^key-e488a1bc4dce8da048abe3f1e0837137]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020 immediately before S.I. 2020/852 comes into force) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/2/a)
+[^c-e488a1bc4dce8da048abe3f1e0837137]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020 immediately before S.I. 2020/852 comes into force) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/2/a)
 
-[^key-865b19695cc2c5718c137303d32484f2]: Textual amendment: Word in reg. 2(1) inserted (31.12.2020 immediately before S.I. 2020/852 comes into force) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/2/b)
+[^c-865b19695cc2c5718c137303d32484f2]: Textual amendment: Word in reg. 2(1) inserted (31.12.2020 immediately before S.I. 2020/852 comes into force) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/2/b)
 
 [^c24261821]: Marginal citation: S.I. No. 2019/1246.
 
-[^key-2fe372832226fbc596309ac0358c3dc7]: Commencement: Reg. 3 in force at 31.12.2020 immediately before [S.I. 2019/1246](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 10](https://www.legislation.gov.uk/uksi/2019/1246/regulation/10), [16](https://www.legislation.gov.uk/uksi/2019/1246/regulation/16) come into force, see reg. 2(1)
+[^c-2fe372832226fbc596309ac0358c3dc7]: Commencement: Reg. 3 in force at 31.12.2020 immediately before [S.I. 2019/1246](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 10](https://www.legislation.gov.uk/uksi/2019/1246/regulation/10), [16](https://www.legislation.gov.uk/uksi/2019/1246/regulation/16) come into force, see reg. 2(1)
 
-[^key-e1bd6470d9e27166b5c9f8e7e0cd7bf7]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see reg. 2(2)
+[^c-e1bd6470d9e27166b5c9f8e7e0cd7bf7]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see reg. 2(2)
 
 [^c24261831]: Marginal citation: S.I. No. 2019/696
 
@@ -290,40 +290,40 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
     and [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676).
 
-[^key-4ebfb7a4dc458178eab0239b61ed0012]: Commencement: Reg. 5 in force at 31.12.2020 immediately before [S.I. 2019/1246](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 10](https://www.legislation.gov.uk/uksi/2019/1246/regulation/10), [16](https://www.legislation.gov.uk/uksi/2019/1246/regulation/16) come into force, see reg. 2(1) (as amended by [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/2/a))
+[^c-4ebfb7a4dc458178eab0239b61ed0012]: Commencement: Reg. 5 in force at 31.12.2020 immediately before [S.I. 2019/1246](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 10](https://www.legislation.gov.uk/uksi/2019/1246/regulation/10), [16](https://www.legislation.gov.uk/uksi/2019/1246/regulation/16) come into force, see reg. 2(1) (as amended by [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/2/a))
 
-[^key-e64a1b6e7a9375317f6467921a3c4cff]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 2(2)
+[^c-e64a1b6e7a9375317f6467921a3c4cff]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 2(2)
 
-[^key-50f6d3cb0e57491a02a82c4a6e56976f]: Textual amendment: Sch. 1 para. 1(d)(ii) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/a)
+[^c-50f6d3cb0e57491a02a82c4a6e56976f]: Textual amendment: Sch. 1 para. 1(d)(ii) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/a)
 
-[^key-a60a32ac499831007740898ae474e470]: Textual amendment: Sch. 1 para. 1(e)(iii) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/b)
+[^c-a60a32ac499831007740898ae474e470]: Textual amendment: Sch. 1 para. 1(e)(iii) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/b)
 
-[^key-2b97831ab8279b1485df1b621735ea49]: Textual amendment: Sch. 1 para. 1(i)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/c)
+[^c-2b97831ab8279b1485df1b621735ea49]: Textual amendment: Sch. 1 para. 1(i)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/c)
 
-[^key-559e1681778fce546ca9c118cc9c5084]: Textual amendment: Sch. 1 para. 1(j)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(d)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/d)
+[^c-559e1681778fce546ca9c118cc9c5084]: Textual amendment: Sch. 1 para. 1(j)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(d)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/d)
 
-[^key-2331902f642cb557c49d6bf5e6cd8489]: Textual amendment: Sch. 1 para. 1(k)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(e)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/e)
+[^c-2331902f642cb557c49d6bf5e6cd8489]: Textual amendment: Sch. 1 para. 1(k)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(e)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/e)
 
-[^key-56ed41222ec828be501b419060ba03ef]: Textual amendment: Sch. 1 para. 1(l)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(f)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/f)
+[^c-56ed41222ec828be501b419060ba03ef]: Textual amendment: Sch. 1 para. 1(l)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(f)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/f)
 
-[^key-c74c1ca537312372b95ab46c044dfba2]: Textual amendment: Sch. 1 para. 1(m)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(g)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/g)
+[^c-c74c1ca537312372b95ab46c044dfba2]: Textual amendment: Sch. 1 para. 1(m)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(g)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/g)
 
-[^key-051e4d600f042fcafcd9e9ab99656705]: Textual amendment: Sch. 1 para. 1(n)(ii) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(h)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/h)
+[^c-051e4d600f042fcafcd9e9ab99656705]: Textual amendment: Sch. 1 para. 1(n)(ii) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(h)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/h)
 
-[^key-b43ba6bd9f68ff0c26955f1dddea890d]: Textual amendment: Sch. 1 para. 1(o)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(i)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/i)
+[^c-b43ba6bd9f68ff0c26955f1dddea890d]: Textual amendment: Sch. 1 para. 1(o)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(i)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/i)
 
-[^key-1a940c1b041006717885ebbbf0c7a7ef]: Textual amendment: Sch. 1 para. 1(p)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(j)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/j)
+[^c-1a940c1b041006717885ebbbf0c7a7ef]: Textual amendment: Sch. 1 para. 1(p)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(j)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/j)
 
-[^key-9f0f6301b90b5ded88dd9b87c4934c02]: Textual amendment: Sch. 1 para. 1(q)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(k)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/k)
+[^c-9f0f6301b90b5ded88dd9b87c4934c02]: Textual amendment: Sch. 1 para. 1(q)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(k)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/k)
 
-[^key-7e9b3261d7e1b2414d0b6a73338fca9e]: Textual amendment: Sch. 1 para. 1(r)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(l)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/l)
+[^c-7e9b3261d7e1b2414d0b6a73338fca9e]: Textual amendment: Sch. 1 para. 1(r)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(l)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/l)
 
-[^key-eb37d4d66bda89598de7322bc32ca7f1]: Textual amendment: Sch. 1 para. 1(s)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(m)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/m)
+[^c-eb37d4d66bda89598de7322bc32ca7f1]: Textual amendment: Sch. 1 para. 1(s)(i) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(m)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/m)
 
-[^key-8f1128dd6502462fcaf5eb5446fa6748]: Textual amendment: Sch. 1 para. 1(u)(ii) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(n)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/n)
+[^c-8f1128dd6502462fcaf5eb5446fa6748]: Textual amendment: Sch. 1 para. 1(u)(ii) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(n)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/n)
 
-[^key-d2ea606795909eb692b64ee9c3414e86]: Textual amendment: Sch. 1 para. 1(v)(ii) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(o)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/o)
+[^c-d2ea606795909eb692b64ee9c3414e86]: Textual amendment: Sch. 1 para. 1(v)(ii) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(3)(o)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/3/o)
 
-[^key-2f61ea9120e5718c02361313a9753bee]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 immediately before [S.I. 2019/1246](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 10](https://www.legislation.gov.uk/uksi/2019/1246/regulation/10), [16](https://www.legislation.gov.uk/uksi/2019/1246/regulation/16) come into force, see reg. 2(1) (as amended by [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/2/a))
+[^c-2f61ea9120e5718c02361313a9753bee]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 immediately before [S.I. 2019/1246](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 10](https://www.legislation.gov.uk/uksi/2019/1246/regulation/10), [16](https://www.legislation.gov.uk/uksi/2019/1246/regulation/16) come into force, see reg. 2(1) (as amended by [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/2/a))
 
-[^key-055b03cb9c9511267cfca128a9425a5a]: Textual amendment: Sch. 2 para. 1(a) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/4)
+[^c-055b03cb9c9511267cfca128a9425a5a]: Textual amendment: Sch. 2 para. 1(a) omitted (31.12.2020 immediately before S.I. 2020/852 comes into force) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/3), [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/4/paragraph/1/4)

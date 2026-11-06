@@ -27,7 +27,7 @@ summary: ''
 
 1976 No. 1042 (N.I. 15)
 
-Sex Discrimination (Northern Ireland) Order 1976 [^c17231931][^key-3a3acb360e11303337efff318003733a]
+Sex Discrimination (Northern Ireland) Order 1976 [^c17231931][^c-3a3acb360e11303337efff318003733a]
 
 2nd July 1976
 
@@ -38,7 +38,7 @@ Sex Discrimination (Northern Ireland) Order 1976 [^c17231931][^key-3a3acb360e113
 - [Section 1 — Title and commencement](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 
-### PART II — DISCRIMINATION TO WHICH ORDER APPLIES[^key-6c50d785bd347bdb75ea6d23ec01d5d1]
+### PART II — DISCRIMINATION TO WHICH ORDER APPLIES[^c-6c50d785bd347bdb75ea6d23ec01d5d1]
 
 *Extent: N.I.*
 
@@ -248,9 +248,9 @@ SCHEDULES
 
 [^c17231931]: Textual amendment: function transf. by SR 1999/481
 
-[^key-3a3acb360e11303337efff318003733a]: Modification: [Order](https://www.legislation.gov.uk/nisi/1976/1042): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-3a3acb360e11303337efff318003733a]: Modification: [Order](https://www.legislation.gov.uk/nisi/1976/1042): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-6c50d785bd347bdb75ea6d23ec01d5d1]: Modification: Pt. 2 applied (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 4 para. 4(1)(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/paragraph/4/2/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(k)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/k)
+[^c-6c50d785bd347bdb75ea6d23ec01d5d1]: Modification: Pt. 2 applied (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 4 para. 4(1)(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/paragraph/4/2/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(k)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/k)
 
 [^c17232601]: Textual amendment: SR 2005/426
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Competitive Dialogue[^key-ef94960be4dae03397f28997c8fcbfae]
+## 46. Competitive Dialogue[^c-ef94960be4dae03397f28997c8fcbfae]
 
 *Extent: S*
 
@@ -26,8 +26,8 @@ summary: ''
 
 (3) The minimum time period for receipt of a request to participate, other than in exceptional circumstances, shall be 30 days from the date on which—
 
-- (a) the contract notice was submitted[^key-2b8a2bd9034ff963c0f3f2b944ca6da6] for publication; [^key-7eeabd68b17236316738844a5cdc42b9]...
-- (b)[^key-7eeabd68b17236316738844a5cdc42b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the contract notice was submitted[^c-2b8a2bd9034ff963c0f3f2b944ca6da6] for publication; [^c-7eeabd68b17236316738844a5cdc42b9]...
+- (b)[^c-7eeabd68b17236316738844a5cdc42b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 and shall, in any event, not be less than 15 days from such date.
 
@@ -85,8 +85,8 @@ and shall, in any event, not be less than 15 days from such date.
 
 ## Annotations
 
-[^key-ef94960be4dae03397f28997c8fcbfae]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2016/49/regulation/46) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-ef94960be4dae03397f28997c8fcbfae]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2016/49/regulation/46) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-2b8a2bd9034ff963c0f3f2b944ca6da6]: Textual amendment: Word in [reg. 46(3)(a)](https://www.legislation.gov.uk/ssi/2016/49/regulation/46/3/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(31)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/31) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-2b8a2bd9034ff963c0f3f2b944ca6da6]: Textual amendment: Word in [reg. 46(3)(a)](https://www.legislation.gov.uk/ssi/2016/49/regulation/46/3/a) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(31)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/31) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-7eeabd68b17236316738844a5cdc42b9]: Textual amendment: [Reg. 46(3)(b)](https://www.legislation.gov.uk/ssi/2016/49/regulation/46/3/b) and word omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(10)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/10) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-7eeabd68b17236316738844a5cdc42b9]: Textual amendment: [Reg. 46(3)(b)](https://www.legislation.gov.uk/ssi/2016/49/regulation/46/3/b) and word omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(10)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/10) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))

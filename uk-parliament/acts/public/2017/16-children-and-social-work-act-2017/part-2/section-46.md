@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Ensuring adequate provision of social work training[^key-1fac949032dfbe625720c9fcdcffdd8c]
+## 46. Ensuring adequate provision of social work training[^c-1fac949032dfbe625720c9fcdcffdd8c]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ Part 2 of the Deregulation and Contracting Out Act 1994 has effect as if the aut
 
 ## Annotations
 
-[^key-1fac949032dfbe625720c9fcdcffdd8c]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/16/section/46) in force at 2.12.2019 by [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/f)
+[^c-1fac949032dfbe625720c9fcdcffdd8c]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/16/section/46) in force at 2.12.2019 by [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/f)

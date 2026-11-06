@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 57D, 98 and 106(b) of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002] and with the approval of the Department of Finance and Personnel insofar as they relate to Charges for Drugs and Appliances.
 
-## 1. Citation and commencement[^key-2aa2a3cf79d45ecd8a871819f180c5d9]
+## 1. Citation and commencement[^c-2aa2a3cf79d45ecd8a871819f180c5d9]
 
 These Regulations may be cited as the Health and Personal Social Services (Prescribing and Charging Amendments Relating to Pandemic Influenza) Regulations (Northern Ireland) 2009 and shall come into operation on 1st January 2010.
 
-## 2. Amendment of the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^key-28bad389adec378b27d3f2fe61eeefca]
+## 2. Amendment of the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997[^c-28bad389adec378b27d3f2fe61eeefca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc.) Regulations (Northern Ireland) 2004[^key-de79f983cd4f2c37e1a0cb5d8ac5a0c5]
+## 3. Amendment of the Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc.) Regulations (Northern Ireland) 2004[^c-de79f983cd4f2c37e1a0cb5d8ac5a0c5]
 
 In Schedule 2 to the Health and Personal Social Services (General Medical Services Contracts) (Prescription of Drugs Etc.) Regulations (Northern Ireland) 2004[^f00004] (drugs, medicines and other substances to be ordered only in certain circumstances)—
 
@@ -127,11 +127,11 @@ Regulation 3 amends Schedule 2 of the Drugs Regulations in relation to the same 
 
 [^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) relevant amending instruments are [S.I. 1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229); [S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249) Article 7; [S..I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) Part II of Schedule 5; [2001 c.3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3) section 48; [S.I. 2004/311 (N.I. 2)](https://www.legislation.gov.uk/nisi/2004/311) Article 4; [2008 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2008/2) section 14 and [2009 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1) section 32 and Schedule 6
 
-[^key-2aa2a3cf79d45ecd8a871819f180c5d9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/394/regulation/1) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/394/regulation/1)
+[^c-2aa2a3cf79d45ecd8a871819f180c5d9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/394/regulation/1) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/394/regulation/1)
 
-[^key-28bad389adec378b27d3f2fe61eeefca]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/394/regulation/2) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
+[^c-28bad389adec378b27d3f2fe61eeefca]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/394/regulation/2) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
 
-[^key-de79f983cd4f2c37e1a0cb5d8ac5a0c5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/394/regulation/3) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/394/regulation/1)
+[^c-de79f983cd4f2c37e1a0cb5d8ac5a0c5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/394/regulation/3) in operation at 1.1.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/394/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2004 No.142](https://www.legislation.gov.uk/nisr/2004/142)
 

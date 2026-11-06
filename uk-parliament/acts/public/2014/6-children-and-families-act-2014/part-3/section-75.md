@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Supply of goods and services: detained persons[^key-c42c37e3297c36c14dbdc3f91a150e62]
+## 75. Supply of goods and services: detained persons[^c-c42c37e3297c36c14dbdc3f91a150e62]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c42c37e3297c36c14dbdc3f91a150e62]: Commencement: S. 75 in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/375/article/2/b)
+[^c-c42c37e3297c36c14dbdc3f91a150e62]: Commencement: S. 75 in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/375/article/2/b)

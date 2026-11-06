@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25A. Interpretation and application of this Chapter[^key-6bd2ffade7bbb56d3823f4fea43a2db9]
+## 25A. Interpretation and application of this Chapter[^c-6bd2ffade7bbb56d3823f4fea43a2db9]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bd2ffade7bbb56d3823f4fea43a2db9]: Textual amendment: [Pt. 4 Ch. 3A](https://www.legislation.gov.uk/ssi/2015/142/part/4/chapter/3A) inserted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) (Amendment) Regulations 2026 (S.S.I. 2026/58)](https://www.legislation.gov.uk/ssi/2026/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/58/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/58/regulation/2/2)
+[^c-6bd2ffade7bbb56d3823f4fea43a2db9]: Textual amendment: [Pt. 4 Ch. 3A](https://www.legislation.gov.uk/ssi/2015/142/part/4/chapter/3A) inserted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) (Amendment) Regulations 2026 (S.S.I. 2026/58)](https://www.legislation.gov.uk/ssi/2026/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/58/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/58/regulation/2/2)

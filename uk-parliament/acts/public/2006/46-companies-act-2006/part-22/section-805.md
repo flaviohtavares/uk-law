@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 805. Report to members on outcome of investigation[^c18915851][^key-0219a2298216a1a294a1a30b78a77f32][^key-6f54260ead2beb405b60e315c5ef72e6]
+## 805. Report to members on outcome of investigation[^c18915851][^c-0219a2298216a1a294a1a30b78a77f32][^c-6f54260ead2beb405b60e315c5ef72e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ unless they have at all times been kept at the company's registered office.
 
 [^c18915851]: Commencement: S. 805 wholly in force at 20.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/1/d) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5))
 
-[^key-0219a2298216a1a294a1a30b78a77f32]: Modification: [S. 805](https://www.legislation.gov.uk/ukpga/2006/46/section/805) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(xi)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/xi)
+[^c-0219a2298216a1a294a1a30b78a77f32]: Modification: [S. 805](https://www.legislation.gov.uk/ukpga/2006/46/section/805) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(xi)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/xi)
 
-[^key-6f54260ead2beb405b60e315c5ef72e6]: Modification: [S. 805](https://www.legislation.gov.uk/ukpga/2006/46/section/805) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-6f54260ead2beb405b60e315c5ef72e6]: Modification: [S. 805](https://www.legislation.gov.uk/ukpga/2006/46/section/805) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)

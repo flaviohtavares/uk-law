@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Scrutiny of regulations by the Commission[^key-ead7ac99f35187ebc9396eb904a95c03][^key-d629ede02c7b6f7ec91d82fb1493d8fb]
+## 20. Scrutiny of regulations by the Commission[^c-ead7ac99f35187ebc9396eb904a95c03][^c-d629ede02c7b6f7ec91d82fb1493d8fb]
 
 *Extent: S*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ead7ac99f35187ebc9396eb904a95c03]: Commencement: S. 20 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-ead7ac99f35187ebc9396eb904a95c03]: Commencement: S. 20 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
 
-[^key-d629ede02c7b6f7ec91d82fb1493d8fb]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2025/2/section/20) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-d629ede02c7b6f7ec91d82fb1493d8fb]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2025/2/section/20) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)

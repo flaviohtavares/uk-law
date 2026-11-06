@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 141. Notification of new administrator[^key-93a78f289621d805ab5a5ccffa4ecaba]
+## 141. Notification of new administrator[^c-93a78f289621d805ab5a5ccffa4ecaba]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93a78f289621d805ab5a5ccffa4ecaba]: Commencement: Rule 141 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-93a78f289621d805ab5a5ccffa4ecaba]: Commencement: Rule 141 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

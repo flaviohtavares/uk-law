@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Modification under the Enterprise Act 2002[^key-f506ad991a80d8b0847f10549a17e436]
+## 47. Modification under the Enterprise Act 2002[^c-f506ad991a80d8b0847f10549a17e436]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f506ad991a80d8b0847f10549a17e436]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2023/52/section/47) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-f506ad991a80d8b0847f10549a17e436]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2023/52/section/47) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

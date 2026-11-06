@@ -52,39 +52,39 @@ So far as these Regulations are made in exercise of powers under the Food Safety
 
 There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00006].
 
-## 1. Citation, commencement and extent[^key-ed923a173eafdd7e9db3d4998d3c2a6f]
+## 1. Citation, commencement and extent[^c-ed923a173eafdd7e9db3d4998d3c2a6f]
 
 (1) These Regulations may be cited as the Foods for Specific Groups (Scotland) Regulations 2016 and come into force on 20th July 2016.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-fe8fab75e747a3b412416b7298c70b03]
+## 2. Interpretation[^c-fe8fab75e747a3b412416b7298c70b03]
 
 (1) In these Regulations—
 
 - “the Act” means the Food Safety Act 1990;
-- “[^key-a1cf75594406dc94e305cc6be6decb4a]**the Delegated Regulation**” means Commission Delegated Regulation (EU) 2016/128 supplementing Regulation (EU) 609/2013 of the European Parliament and of the Council as regards the specific compositional and information requirements for food for special medical purposes
+- “[^c-a1cf75594406dc94e305cc6be6decb4a]**the Delegated Regulation**” means Commission Delegated Regulation (EU) 2016/128 supplementing Regulation (EU) 609/2013 of the European Parliament and of the Council as regards the specific compositional and information requirements for food for special medical purposes
 - “food authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00007];
 - “the EU Regulation” means Regulation (EU) No 609/2013 of the European Parliament and of the Council, on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council [Directive 92/52/EEC](https://www.legislation.gov.uk/european/directive/1992/0052), Commission Directives [96/8/EC](https://www.legislation.gov.uk/european/directive/1996/0008), [1999/21/EC](https://www.legislation.gov.uk/european/directive/1999/0021), [2006/125/EC](https://www.legislation.gov.uk/european/directive/2006/0125) and [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141), [Directive 2009/39/EC](https://www.legislation.gov.uk/european/directive/2009/0039) of the European Parliament and of the Council and Commission Regulations [(EC) No 41/2009](https://www.legislation.gov.uk/european/regulation/2009/0041) and [(EC) No 953/2009](https://www.legislation.gov.uk/european/regulation/2009/0953); and
-- “specified requirement”[^key-57c2768c1984376633cc79f5696fd712] means any provision of the EU Regulation or the Delegated Regulation[^key-52e6e40471c4b5d06e81bba0068e9924] specified in column 1 of schedule 1 as read with the provisions specified in the corresponding entry in column 2.
+- “specified requirement”[^c-57c2768c1984376633cc79f5696fd712] means any provision of the EU Regulation or the Delegated Regulation[^c-52e6e40471c4b5d06e81bba0068e9924] specified in column 1 of schedule 1 as read with the provisions specified in the corresponding entry in column 2.
 
-(2) Unless the context otherwise requires any reference in these Regulations to an Article is a reference to an Article of the EU Regulation or the Delegated Regulation, as the case may be[^key-ee11ed509b40189afc4ec96b084e122f].
+(2) Unless the context otherwise requires any reference in these Regulations to an Article is a reference to an Article of the EU Regulation or the Delegated Regulation, as the case may be[^c-ee11ed509b40189afc4ec96b084e122f].
 
-(3)[^key-210cb220fe83df77036896641221e570] Expressions defined in Article 2 of the EU Regulation have the same meaning in these Regulations as they have in that Regulation.
+(3)[^c-210cb220fe83df77036896641221e570] Expressions defined in Article 2 of the EU Regulation have the same meaning in these Regulations as they have in that Regulation.
 
-(4) Any reference to Article 2 of the EU Regulation[^key-4374155233a03a1ce3d1c39a4e034195] or a provision of the EU Regulation or the Delegated Regulation, as the case may be[^key-63234391b52f418e53d6bd73b063e07e] specified in schedule 1 is a reference to that provision as amended from time to time.
+(4) Any reference to Article 2 of the EU Regulation[^c-4374155233a03a1ce3d1c39a4e034195] or a provision of the EU Regulation or the Delegated Regulation, as the case may be[^c-63234391b52f418e53d6bd73b063e07e] specified in schedule 1 is a reference to that provision as amended from time to time.
 
-## 3. Enforcement[^key-919ac1c5afecc0afd215042bd8b49a2e]
+## 3. Enforcement[^c-919ac1c5afecc0afd215042bd8b49a2e]
 
 Each food authority must execute and enforce these Regulations within its area.
 
-## 4. Offences and penalties[^key-cc4b8f84b51ef95c13b48526d879875e]
+## 4. Offences and penalties[^c-cc4b8f84b51ef95c13b48526d879875e]
 
-(1) Subject to regulation 4A, a person[^key-b47c1856b9a38d1481ee47f2f43b9328] is guilty of an offence if they fail to comply with any specified requirement[^key-e7d6d0d6ec8d23255aa816bba5f91ffc].
+(1) Subject to regulation 4A, a person[^c-b47c1856b9a38d1481ee47f2f43b9328] is guilty of an offence if they fail to comply with any specified requirement[^c-e7d6d0d6ec8d23255aa816bba5f91ffc].
 
 (2) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 4A. Transitional Provision[^key-e3d941639ebfeada8ef2e9a436686d70]
+## 4A. Transitional Provision[^c-e3d941639ebfeada8ef2e9a436686d70]
 
 A person is not guilty of an offence under regulation 4(1) if they continue to market food for special medical purposes which does not comply with a provision of the Delegated Regulation specified in schedule 1, provided that—
 
@@ -94,11 +94,11 @@ A person is not guilty of an offence under regulation 4(1) if they continue to m
   - (ii) before 22 February 2020 in the case of food for special medical purposes developed to satisfy the nutritional requirements of infants, and
 - (c) the requirements specified in regulation 3 of the Foods for Special Medical Purposes (Scotland) Regulations 2000 are met.
 
-## 5. Application of provisions of the Act[^key-4cc967513184af64d3f6636a826756a7]
+## 5. Application of provisions of the Act[^c-4cc967513184af64d3f6636a826756a7]
 
 The provisions of the Act specified in column 1 of the table in schedule 2 apply, with the modifications specified in column 2 of that table, for the purposes of these Regulations.
 
-## 6. Amendment of the Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997[^key-33659a3b2de80f22c39317245585214a]
+## 6. Amendment of the Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997[^c-33659a3b2de80f22c39317245585214a]
 
 (1) The Foods Intended for Use in Energy Restricted Diets for Weight Reduction Regulations 1997[^f00008] are amended in accordance with paragraph (2).
 
@@ -108,7 +108,7 @@ The provisions of the Act specified in column 1 of the table in schedule 2 apply
 
 .
 
-## 7. Revocations[^key-cdca074e3cbb88bc20e6cdb8426d0fb8]
+## 7. Revocations[^c-cdca074e3cbb88bc20e6cdb8426d0fb8]
 
 (1) Regulations 26 and 27 of the Infant Formula and Follow-on Formula (Scotland) Regulations 2007[^f00009] are revoked.
 
@@ -122,25 +122,25 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE 1 — Specified requirements[^key-49a472e120801c43deb1bb651a3bf4b9][^key-17527068aab8ca9682257eb49cca977b]
+## SCHEDULE 1 — Specified requirements[^c-49a472e120801c43deb1bb651a3bf4b9][^c-17527068aab8ca9682257eb49cca977b]
 
 Regulation 2
 
 | ***Column 1*** | ***Column 2*** |
 | --- | --- |
-| ***Specified provision of the EU Regulation[^key-8e1872d71857f39650c686722466a4ac]*** | ***Provisions of the EU Regulation to be read with the specified provision of the EU Regulation*** |
-| [^key-093514d347b3703401d5f391aceda82c]. . . | [^key-093514d347b3703401d5f391aceda82c]. . . |
+| ***Specified provision of the EU Regulation[^c-8e1872d71857f39650c686722466a4ac]*** | ***Provisions of the EU Regulation to be read with the specified provision of the EU Regulation*** |
+| [^c-093514d347b3703401d5f391aceda82c]. . . | [^c-093514d347b3703401d5f391aceda82c]. . . |
 | Article 4(2) (requirement for food to be pre-packed) | Articles 1(1) and 4(1) |
 | Article 9(1) (requirement for the composition of food to be nutritionally appropriate and suitable) | Articles 1(1), 4(1), 9(3) and (4) |
 | Article 9(2) (prohibition on substances in dangerous quantities) | Articles 1(1) and 4(1) |
-| [^key-c4a6fb480404b9c0a68ad55baeb538c3]. . . | [^key-c4a6fb480404b9c0a68ad55baeb538c3]. . . |
+| [^c-c4a6fb480404b9c0a68ad55baeb538c3]. . . | [^c-c4a6fb480404b9c0a68ad55baeb538c3]. . . |
 | Article 9(5) (requirements as to labelling, presentation and advertising of food) | Articles 1(1), 4(1) and 9(6) |
 | Article 10 (additional requirements for infant formula and follow-on formula) | Article 4(1) |
-| Article 15(1) (GB list)[^key-8b45a14ff3bb93b0b25f9419566aadb5][^key-92bee8c35322ff5c27ec3dd7fb8545c7] | Article 1(1)(a) and (c) and Articles 4(1) and 15(3) and the Annex, insofar as they apply to infant formula and follow-on formula and food for special medical purposes |
+| Article 15(1) (GB list)[^c-8b45a14ff3bb93b0b25f9419566aadb5][^c-92bee8c35322ff5c27ec3dd7fb8545c7] | Article 1(1)(a) and (c) and Articles 4(1) and 15(3) and the Annex, insofar as they apply to infant formula and follow-on formula and food for special medical purposes |
 
 | ***Specified provision of the Delegated Regulation*** | ***Provisions of the Delegated Regulation to be read with the specified provision of the Delegated Regulation*** |
 | --- | --- |
-| Article 2(2) (requirement for the formulation of food for special medical purposes to be based on sound medical and nutritional principles)[^key-67a7caa94a2fd5423478e3228b290618] | Article 1 |
+| Article 2(2) (requirement for the formulation of food for special medical purposes to be based on sound medical and nutritional principles)[^c-67a7caa94a2fd5423478e3228b290618] | Article 1 |
 | The first sub-paragraph of Article 2(3) (requirement for food for special medical purposes developed to satisfy the nutritional requirements of infants to comply with the compositional requirements in Part A of Annex I) | Articles 1 and 2(4) and Part A of Annex I |
 | The second sub-paragraph of Article 2(3) (requirement for food other than that developed to satisfy the nutritional requirements of infants to comply with the compositional requirements in Part B of Annex I) | Articles 1 and 2(4) and Part B of Annex I |
 | Article 3(2) (residue threshold for certain active substances where food for special medical purposes is developed to satisfy the nutritional requirements of infants and young children) | Articles 1 and 3(1), (3) and (5) |
@@ -167,7 +167,7 @@ Regulation 2
 | Article 8(6) (prohibition on providing free or low-priced products, samples or other promotional gifts) | Article 1 |
 | Article 9 (notification) | Article 1 |
 
-## SCHEDULE 2 — Modification of provisions of the Act[^key-a726dfc776abcb922c2826d438b2c9e0]
+## SCHEDULE 2 — Modification of provisions of the Act[^c-a726dfc776abcb922c2826d438b2c9e0]
 
 Regulation 5
 
@@ -220,65 +220,65 @@ A full business and regulatory impact assessment of the effect these Regulations
 
 [^f00006]: Footnote: OJ L 31, 1.2.2002, p.1, last amended by Regulation (EU) 652/2014 of the European Parliament and of the Council (OJ L 189, 15.05.2014, p 1).
 
-[^key-ed923a173eafdd7e9db3d4998d3c2a6f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/190/regulation/1) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
+[^c-ed923a173eafdd7e9db3d4998d3c2a6f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/190/regulation/1) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
 
-[^key-fe8fab75e747a3b412416b7298c70b03]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/190/regulation/2) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
+[^c-fe8fab75e747a3b412416b7298c70b03]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/190/regulation/2) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
 
-[^key-a1cf75594406dc94e305cc6be6decb4a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/1) inserted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/2/a/i)
+[^c-a1cf75594406dc94e305cc6be6decb4a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/1) inserted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/2/a/i)
 
 [^f00007]: Footnote: [1994 c 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), schedule 22, paragraph 232(1).
 
-[^key-57c2768c1984376633cc79f5696fd712]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/1) substituted (31.12.2020) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/b), [4(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/4/2)
+[^c-57c2768c1984376633cc79f5696fd712]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/1) substituted (31.12.2020) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/b), [4(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/4/2)
 
-[^key-52e6e40471c4b5d06e81bba0068e9924]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/1) inserted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/2/a/ii)
+[^c-52e6e40471c4b5d06e81bba0068e9924]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/1) inserted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/2/a/ii)
 
-[^key-ee11ed509b40189afc4ec96b084e122f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/2) inserted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/2/b)
+[^c-ee11ed509b40189afc4ec96b084e122f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/2) inserted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/2/b)
 
-[^key-210cb220fe83df77036896641221e570]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/3) substituted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/2/c)
+[^c-210cb220fe83df77036896641221e570]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/3) substituted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/2/c)
 
-[^key-4374155233a03a1ce3d1c39a4e034195]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/4) inserted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(2)(d)(i)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/2/d/i)
+[^c-4374155233a03a1ce3d1c39a4e034195]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/4) inserted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(2)(d)(i)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/2/d/i)
 
-[^key-63234391b52f418e53d6bd73b063e07e]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/4) inserted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(2)(d)(ii)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/2/d/ii)
+[^c-63234391b52f418e53d6bd73b063e07e]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/ssi/2016/190/regulation/2/4) inserted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(2)(d)(ii)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/2/d/ii)
 
-[^key-919ac1c5afecc0afd215042bd8b49a2e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/190/regulation/3) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
+[^c-919ac1c5afecc0afd215042bd8b49a2e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/190/regulation/3) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
 
-[^key-cc4b8f84b51ef95c13b48526d879875e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/190/regulation/4) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
+[^c-cc4b8f84b51ef95c13b48526d879875e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/190/regulation/4) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
 
-[^key-b47c1856b9a38d1481ee47f2f43b9328]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/4/1) substituted (22.2.2020) by [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 1 para. 1(2)](https://www.legislation.gov.uk/ssi/2020/7/schedule/1/paragraph/1/2)
+[^c-b47c1856b9a38d1481ee47f2f43b9328]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/4/1) substituted (22.2.2020) by [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 1 para. 1(2)](https://www.legislation.gov.uk/ssi/2020/7/schedule/1/paragraph/1/2)
 
-[^key-e7d6d0d6ec8d23255aa816bba5f91ffc]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/4/1) substituted (31.12.2020) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/b), [4(3)](https://www.legislation.gov.uk/ssi/2020/372/regulation/4/3)
+[^c-e7d6d0d6ec8d23255aa816bba5f91ffc]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/4/1) substituted (31.12.2020) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/b), [4(3)](https://www.legislation.gov.uk/ssi/2020/372/regulation/4/3)
 
-[^key-e3d941639ebfeada8ef2e9a436686d70]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2016/190/regulation/4A) inserted (22.2.2020) by [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 1 para. 1(3)](https://www.legislation.gov.uk/ssi/2020/7/schedule/1/paragraph/1/3)
+[^c-e3d941639ebfeada8ef2e9a436686d70]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/ssi/2016/190/regulation/4A) inserted (22.2.2020) by [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 1 para. 1(3)](https://www.legislation.gov.uk/ssi/2020/7/schedule/1/paragraph/1/3)
 
-[^key-4cc967513184af64d3f6636a826756a7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/190/regulation/5) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
+[^c-4cc967513184af64d3f6636a826756a7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/190/regulation/5) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
 
-[^key-33659a3b2de80f22c39317245585214a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/190/regulation/6) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
+[^c-33659a3b2de80f22c39317245585214a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/190/regulation/6) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1997/2182](https://www.legislation.gov.uk/uksi/1997/2182), to which there are amendments not relevant to this instrument.
 
-[^key-cdca074e3cbb88bc20e6cdb8426d0fb8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/190/regulation/7) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
+[^c-cdca074e3cbb88bc20e6cdb8426d0fb8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/190/regulation/7) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
 
 [^f00009]: Footnote: [S.S.I. 2007/549](https://www.legislation.gov.uk/ssi/2007/549).
 
 [^f00010]: Footnote: [S.S.I. 2007/37](https://www.legislation.gov.uk/ssi/2007/37).
 
-[^key-49a472e120801c43deb1bb651a3bf4b9]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
+[^c-49a472e120801c43deb1bb651a3bf4b9]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
 
-[^key-17527068aab8ca9682257eb49cca977b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) heading substituted (31.12.2020) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/b), [4(4)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/4/4/a)
+[^c-17527068aab8ca9682257eb49cca977b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) heading substituted (31.12.2020) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/b), [4(4)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/4/4/a)
 
-[^key-8e1872d71857f39650c686722466a4ac]: Textual amendment: Sch. 1 Table substituted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/3)
+[^c-8e1872d71857f39650c686722466a4ac]: Textual amendment: Sch. 1 Table substituted (22.2.2019) by [The Foods for Specific Groups (Medical Foods) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/392)](https://www.legislation.gov.uk/ssi/2018/392), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/392/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2018/392/regulation/4/3)
 
-[^key-093514d347b3703401d5f391aceda82c]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) omitted (22.2.2020) by virtue of [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 1 para. 1(4)(a)(i)](https://www.legislation.gov.uk/ssi/2020/7/schedule/1/paragraph/1/4/a/i)
+[^c-093514d347b3703401d5f391aceda82c]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) omitted (22.2.2020) by virtue of [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 1 para. 1(4)(a)(i)](https://www.legislation.gov.uk/ssi/2020/7/schedule/1/paragraph/1/4/a/i)
 
-[^key-c4a6fb480404b9c0a68ad55baeb538c3]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) omitted (22.2.2020) by virtue of [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 1 para. 1(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/7/schedule/1/paragraph/1/4/a/ii)
+[^c-c4a6fb480404b9c0a68ad55baeb538c3]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) omitted (22.2.2020) by virtue of [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 1 para. 1(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/7/schedule/1/paragraph/1/4/a/ii)
 
-[^key-8b45a14ff3bb93b0b25f9419566aadb5]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) substituted (31.12.2020) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/b), [4(4)(b)](https://www.legislation.gov.uk/ssi/2020/372/regulation/4/4/b)
+[^c-8b45a14ff3bb93b0b25f9419566aadb5]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) substituted (31.12.2020) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/b), [4(4)(b)](https://www.legislation.gov.uk/ssi/2020/372/regulation/4/4/b)
 
-[^key-92bee8c35322ff5c27ec3dd7fb8545c7]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) inserted (22.2.2020) by [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 1 para. 1(4)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/7/schedule/1/paragraph/1/4/a/iii)
+[^c-92bee8c35322ff5c27ec3dd7fb8545c7]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) inserted (22.2.2020) by [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 1 para. 1(4)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/7/schedule/1/paragraph/1/4/a/iii)
 
-[^key-67a7caa94a2fd5423478e3228b290618]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) substituted (22.2.2020) by [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 1 para. 1(4)(b)](https://www.legislation.gov.uk/ssi/2020/7/schedule/1/paragraph/1/4/b)
+[^c-67a7caa94a2fd5423478e3228b290618]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/190/schedule/1) substituted (22.2.2020) by [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 1 para. 1(4)(b)](https://www.legislation.gov.uk/ssi/2020/7/schedule/1/paragraph/1/4/b)
 
-[^key-a726dfc776abcb922c2826d438b2c9e0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/190/schedule/2) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
+[^c-a726dfc776abcb922c2826d438b2c9e0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/190/schedule/2) in force at 20.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/190/regulation/1/1)
 
 [^f00011]: Footnote: Section 21(2) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 

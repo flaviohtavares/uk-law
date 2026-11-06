@@ -16,27 +16,27 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103D. Application of Act to tax transparent funds[^key-10e5a4b765ba64891ffc65bfb13aa63d]
+## 103D. Application of Act to tax transparent funds[^c-10e5a4b765ba64891ffc65bfb13aa63d]
 
 *Extent: E+W+S+N.I.*
 
 (1) For the purposes of this section—
 
 - “tax transparent fund” means—
-  - (a) an authorised contractual scheme which is a co-ownership scheme, [^key-d6b37e49fd7d72bd0adc28fec92cd91d]...
-  - (aa) a Reserved Investor Fund (Contractual Scheme), or[^key-01cd4b7a06df4238494dbd2b423cfa72]
+  - (a) an authorised contractual scheme which is a co-ownership scheme, [^c-d6b37e49fd7d72bd0adc28fec92cd91d]...
+  - (aa) a Reserved Investor Fund (Contractual Scheme), or[^c-01cd4b7a06df4238494dbd2b423cfa72]
   - (b) an offshore fund that is a transparent fund within the meaning given by regulation 11 of the Offshore Funds (Tax) Regulations 2009, and
 - “fund property”, in relation to a tax transparent fund, means the property subject to the fund.
 
 (2) For the purposes of this Act—
 
-- “authorised contractual scheme” has the meaning given by section 237(3) of the Financial Services and Markets Act 2000, [^key-63aa0b0cf0229f6aacba2fe8513db595]...
-- “co-ownership scheme” has the meaning given by section 235A of that Act , and[^key-c2a3a55e0c69e9227867de5c53a4b831]
+- “authorised contractual scheme” has the meaning given by section 237(3) of the Financial Services and Markets Act 2000, [^c-63aa0b0cf0229f6aacba2fe8513db595]...
+- “co-ownership scheme” has the meaning given by section 235A of that Act , and[^c-c2a3a55e0c69e9227867de5c53a4b831]
 - “**Reserved Investor Fund (Contractual Scheme)**” has the meaning given by section 20 of the Finance (No.2) Act 2024.
 
 (3) A unit in a tax transparent fund is treated as an asset for the purposes of this Act, and, accordingly, a participant’s interest in the fund property is disregarded for those purposes.
 
-(3A)[^key-7d95155a6908dda6a2668ed7903c9d60] But if a participant is entitled to an allowance under Part 2A of CAA 2001 (structures and buildings allowances) by reference to expenditure in relation to any fund property, the participant’s interest in the fund property is not to be disregarded under subsection (3) for the purposes of the application of section 37B (exclusion of certain expenditure: structures and buildings allowances) in relation to the disposal by the participant of units in the fund.
+(3A)[^c-7d95155a6908dda6a2668ed7903c9d60] But if a participant is entitled to an allowance under Part 2A of CAA 2001 (structures and buildings allowances) by reference to expenditure in relation to any fund property, the participant’s interest in the fund property is not to be disregarded under subsection (3) for the purposes of the application of section 37B (exclusion of certain expenditure: structures and buildings allowances) in relation to the disposal by the participant of units in the fund.
 
 (4) In computing the gain accruing on a disposal by a participant of units in a tax transparent fund, an amount which—
 
@@ -70,14 +70,14 @@ is treated as expenditure falling within section 38(1)(b).
 
 ## Annotations
 
-[^key-10e5a4b765ba64891ffc65bfb13aa63d]: Textual amendment: Ss. 103D, 103DA substituted for s. 103D (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2017/1204/regulation/6)
+[^c-10e5a4b765ba64891ffc65bfb13aa63d]: Textual amendment: Ss. 103D, 103DA substituted for s. 103D (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2017/1204/regulation/6)
 
-[^key-d6b37e49fd7d72bd0adc28fec92cd91d]: Textual amendment: Word in [s. 103D(1)](https://www.legislation.gov.uk/ukpga/1992/12/section/103D/1) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [52(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/200/regulation/52/3/a/i) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-d6b37e49fd7d72bd0adc28fec92cd91d]: Textual amendment: Word in [s. 103D(1)](https://www.legislation.gov.uk/ukpga/1992/12/section/103D/1) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [52(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/200/regulation/52/3/a/i) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-01cd4b7a06df4238494dbd2b423cfa72]: Textual amendment: Words in [s. 103D(1)](https://www.legislation.gov.uk/ukpga/1992/12/section/103D/1) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [52(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/200/regulation/52/3/a/ii) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-01cd4b7a06df4238494dbd2b423cfa72]: Textual amendment: Words in [s. 103D(1)](https://www.legislation.gov.uk/ukpga/1992/12/section/103D/1) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [52(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/200/regulation/52/3/a/ii) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-63aa0b0cf0229f6aacba2fe8513db595]: Textual amendment: Word in [s. 103D(2)](https://www.legislation.gov.uk/ukpga/1992/12/section/103D/2) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [52(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/200/regulation/52/3/b/i) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-63aa0b0cf0229f6aacba2fe8513db595]: Textual amendment: Word in [s. 103D(2)](https://www.legislation.gov.uk/ukpga/1992/12/section/103D/2) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [52(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/200/regulation/52/3/b/i) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-c2a3a55e0c69e9227867de5c53a4b831]: Textual amendment: Words in [s. 103D(2)](https://www.legislation.gov.uk/ukpga/1992/12/section/103D/2) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [52(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/200/regulation/52/3/b/ii) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-c2a3a55e0c69e9227867de5c53a4b831]: Textual amendment: Words in [s. 103D(2)](https://www.legislation.gov.uk/ukpga/1992/12/section/103D/2) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [52(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/200/regulation/52/3/b/ii) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-7d95155a6908dda6a2668ed7903c9d60]: Textual amendment: [S. 103D(3A)](https://www.legislation.gov.uk/ukpga/1992/12/section/103D/3A) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [4(9)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/4/9)
+[^c-7d95155a6908dda6a2668ed7903c9d60]: Textual amendment: [S. 103D(3A)](https://www.legislation.gov.uk/ukpga/1992/12/section/103D/3A) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [4(9)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/4/9)

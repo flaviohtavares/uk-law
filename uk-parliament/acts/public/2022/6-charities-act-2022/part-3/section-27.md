@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Power to delay entry of unsuitable name in register[^key-0ce05eab504f964784a111d5464bdf5f][^key-a4eb6dd5a1c079a1f0525061239f02b9]
+## 27. Power to delay entry of unsuitable name in register[^c-0ce05eab504f964784a111d5464bdf5f][^c-a4eb6dd5a1c079a1f0525061239f02b9]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ After section 45A of the Charities Act 2011 insert—
 
 ## Annotations
 
-[^key-0ce05eab504f964784a111d5464bdf5f]: Commencement: S. 27 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-0ce05eab504f964784a111d5464bdf5f]: Commencement: S. 27 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-a4eb6dd5a1c079a1f0525061239f02b9]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/6/section/27) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/14)
+[^c-a4eb6dd5a1c079a1f0525061239f02b9]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/6/section/27) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/14)

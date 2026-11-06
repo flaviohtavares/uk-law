@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Provision of cross-border assistance to SFRS[^key-224bf910053018dd83eaed3238bf1956]
+## 19. Provision of cross-border assistance to SFRS[^c-224bf910053018dd83eaed3238bf1956]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-224bf910053018dd83eaed3238bf1956]: Commencement: Art. 19 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-224bf910053018dd83eaed3238bf1956]: Commencement: Art. 19 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

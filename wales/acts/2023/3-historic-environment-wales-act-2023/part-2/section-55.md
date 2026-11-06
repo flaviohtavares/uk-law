@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Public access to monuments under public control[^key-1f88e19910dae5eb065045e611c7aafb][^key-ae3fdd3171bfab9e7123c9cc2593406f]
+## 55. Public access to monuments under public control[^c-1f88e19910dae5eb065045e611c7aafb][^c-ae3fdd3171bfab9e7123c9cc2593406f]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f88e19910dae5eb065045e611c7aafb]: Commencement: S. 55 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-1f88e19910dae5eb065045e611c7aafb]: Commencement: S. 55 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-ae3fdd3171bfab9e7123c9cc2593406f]: Commencement: [S. 55](https://www.legislation.gov.uk/asc/2023/3/section/55) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-ae3fdd3171bfab9e7123c9cc2593406f]: Commencement: [S. 55](https://www.legislation.gov.uk/asc/2023/3/section/55) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

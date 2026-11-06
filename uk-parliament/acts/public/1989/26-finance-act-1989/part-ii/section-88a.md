@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88A. Lower corporation tax rate on certain insurance company profits.[^key-25569e04956d77aeae48ac8463a1ff01]
+## 88A. Lower corporation tax rate on certain insurance company profits.[^c-25569e04956d77aeae48ac8463a1ff01]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25569e04956d77aeae48ac8463a1ff01]: Textual amendment: S. 88A repealed (with effect in accordance with Sch. 33 para. 13(11) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 33 para. 13(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/13/3), [Sch. 43 Pt. 3(12)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/12)
+[^c-25569e04956d77aeae48ac8463a1ff01]: Textual amendment: S. 88A repealed (with effect in accordance with Sch. 33 para. 13(11) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 33 para. 13(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/13/3), [Sch. 43 Pt. 3(12)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/12)

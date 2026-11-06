@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 109. Manner of supply of information[^key-1d7d9d466ef8c020554e28aff70e156a]
+## 109. Manner of supply of information[^c-1d7d9d466ef8c020554e28aff70e156a]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ the time for the supply of the relevant information shall be extended to a perio
 
 ## Annotations
 
-[^key-1d7d9d466ef8c020554e28aff70e156a]: Commencement: [Reg. 109](https://www.legislation.gov.uk/nisr/2006/405/regulation/109) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-1d7d9d466ef8c020554e28aff70e156a]: Commencement: [Reg. 109](https://www.legislation.gov.uk/nisr/2006/405/regulation/109) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

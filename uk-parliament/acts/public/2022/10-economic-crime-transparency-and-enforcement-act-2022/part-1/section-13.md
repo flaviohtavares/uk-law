@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Additional powers to obtain information[^key-7cf3ed8a56440120e41cb3c5df213dc6][^key-4da31208fbd474d92a78c49da5d21afd][^key-2fb9a25d85d598dffff3af06e376721a]
+## 13. Additional powers to obtain information[^c-7cf3ed8a56440120e41cb3c5df213dc6][^c-4da31208fbd474d92a78c49da5d21afd][^c-2fb9a25d85d598dffff3af06e376721a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,14 +39,14 @@ summary: ''
 
 (5) In this section a reference to knowing the identity of a person includes knowing information from which that person can be identified.
 
-(6)[^key-e974b7f07bb06d1cc48cc5ac6f98a584] A reference in this section to a person who is a registrable beneficial owner in relation to an overseas entity includes, in connection with the obtaining of information required by section 7(1)(b), 9(1)(c) or 42(1)(c)(i), a reference to a person who has ceased to be a registrable beneficial owner.
+(6)[^c-e974b7f07bb06d1cc48cc5ac6f98a584] A reference in this section to a person who is a registrable beneficial owner in relation to an overseas entity includes, in connection with the obtaining of information required by section 7(1)(b), 9(1)(c) or 42(1)(c)(i), a reference to a person who has ceased to be a registrable beneficial owner.
 
 ## Annotations
 
-[^key-7cf3ed8a56440120e41cb3c5df213dc6]: Commencement: S. 13 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-7cf3ed8a56440120e41cb3c5df213dc6]: Commencement: S. 13 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-4da31208fbd474d92a78c49da5d21afd]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/10/section/13) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/c)
+[^c-4da31208fbd474d92a78c49da5d21afd]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/10/section/13) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/c)
 
-[^key-2fb9a25d85d598dffff3af06e376721a]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/10/section/13) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-2fb9a25d85d598dffff3af06e376721a]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/10/section/13) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
 
-[^key-e974b7f07bb06d1cc48cc5ac6f98a584]: Textual amendment: [S. 13(6)](https://www.legislation.gov.uk/ukpga/2022/10/section/13/6) inserted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/6/paragraph/5)
+[^c-e974b7f07bb06d1cc48cc5ac6f98a584]: Textual amendment: [S. 13(6)](https://www.legislation.gov.uk/ukpga/2022/10/section/13/6) inserted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/6/paragraph/5)

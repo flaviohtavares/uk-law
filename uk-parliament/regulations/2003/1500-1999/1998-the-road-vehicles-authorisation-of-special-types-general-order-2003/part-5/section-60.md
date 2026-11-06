@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Longer semi-trailers – other construction requirements[^key-bd9073478252496c0301552d6f639c81]
+## 60. Longer semi-trailers – other construction requirements[^c-bd9073478252496c0301552d6f639c81]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd9073478252496c0301552d6f639c81]: Textual amendment: Arts. 57-63 inserted (31.5.2023) by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/524/article/4)
+[^c-bd9073478252496c0301552d6f639c81]: Textual amendment: Arts. 57-63 inserted (31.5.2023) by [The Road Vehicles (Authorisation of Special Types) (General) (Amendment) Order 2023 (S.I. 2023/524)](https://www.legislation.gov.uk/uksi/2023/524), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/524/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/524/article/4)

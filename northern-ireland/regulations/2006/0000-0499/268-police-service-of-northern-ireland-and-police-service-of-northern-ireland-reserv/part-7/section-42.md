@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Members of the Police Service Northern Ireland Reserve[^key-05ef6b59c0f2e6a3c66ce650afdaed6d]
+## 42. Members of the Police Service Northern Ireland Reserve[^c-05ef6b59c0f2e6a3c66ce650afdaed6d]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-05ef6b59c0f2e6a3c66ce650afdaed6d]: Commencement: Reg. 42 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-05ef6b59c0f2e6a3c66ce650afdaed6d]: Commencement: Reg. 42 in operation at 25.7.2006 with effect in accordance with reg. 1
 
 [^f00017]: Footnote: [S.R. 1994 No. 197](https://www.legislation.gov.uk/nisr/1994/197)

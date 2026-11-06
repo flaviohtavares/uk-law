@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151A. Up-rating of transitional state pensions under Pensions Act 2014[^key-38269e1c418844999b19bf36e28b9b11]
+## 151A. Up-rating of transitional state pensions under Pensions Act 2014[^c-38269e1c418844999b19bf36e28b9b11]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-38269e1c418844999b19bf36e28b9b11]: Textual amendment: [S. 151A](https://www.legislation.gov.uk/ukpga/1992/5/section/151A) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 21](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/21)
+[^c-38269e1c418844999b19bf36e28b9b11]: Textual amendment: [S. 151A](https://www.legislation.gov.uk/ukpga/1992/5/section/151A) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 21](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/21)
 
 [^M_F_8649e304-181a-490a-890d-4ea75e1986ec]: Textual amendment: Words in s. 151A(5) inserted (3.11.2015 with effect in accordance with reg. 1(3)(4) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/10/2)
 

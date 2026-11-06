@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) A previous conviction by a court in a[^key-4d262903387d5ab667f51439f513822d] member State of the European Union may be proved against any person in any criminal proceedings by the production of evidence of the conviction and by showing that his fingerprints and those of the person convicted are the fingerprints of the same person.
+(1) A previous conviction by a court in a[^c-4d262903387d5ab667f51439f513822d] member State of the European Union may be proved against any person in any criminal proceedings by the production of evidence of the conviction and by showing that his fingerprints and those of the person convicted are the fingerprints of the same person.
 
 (2) A certificate—
 
@@ -46,4 +46,4 @@ shall be received in evidence without being sworn to by witnesses.
 
 [^c18945311]: Textual amendment: S. 286A inserted (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 57(4)](https://www.legislation.gov.uk/asp/2003/7/section/57/4), [89](https://www.legislation.gov.uk/asp/2003/7/section/89); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
 
-[^key-4d262903387d5ab667f51439f513822d]: Textual amendment: Word in [s. 286A(1)](https://www.legislation.gov.uk/ukpga/1995/46/section/286A/1) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(17)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/17) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-4d262903387d5ab667f51439f513822d]: Textual amendment: Word in [s. 286A(1)](https://www.legislation.gov.uk/ukpga/1995/46/section/286A/1) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(17)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/17) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))

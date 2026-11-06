@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Reporting requirements relating to benefit adjustments[^key-b70e5ed5fd68c900737d9530135198d6]
+## 43. Reporting requirements relating to benefit adjustments[^c-b70e5ed5fd68c900737d9530135198d6]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ A report under section 73(2) of the Act (benefits adjustments) must, in addition
 
 ## Annotations
 
-[^key-b70e5ed5fd68c900737d9530135198d6]: Commencement: Reg. 43 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-b70e5ed5fd68c900737d9530135198d6]: Commencement: Reg. 43 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

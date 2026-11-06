@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 21. Power of Commissioners to pay stipend, etc. of certain bishops[^key-0af2ba07095a25bf15e8683c14810ef1]
+## 21. Power of Commissioners to pay stipend, etc. of certain bishops[^c-0af2ba07095a25bf15e8683c14810ef1]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ but before exercising the power conferred on them by paragraph (b) above the Com
 
 ## Annotations
 
-[^key-0af2ba07095a25bf15e8683c14810ef1]: Commencement: [S. 21](https://www.legislation.gov.uk/ukcm/2007/1/section/21) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-0af2ba07095a25bf15e8683c14810ef1]: Commencement: [S. 21](https://www.legislation.gov.uk/ukcm/2007/1/section/21) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops

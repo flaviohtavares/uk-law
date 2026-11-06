@@ -37,7 +37,7 @@ Made
 
 The Welsh Ministers make the following Order in exercise of the powers conferred upon the appropriate national authority by section 56(1) of the Commons Act 2006[^f00001]:
 
-## 1. Title, interpretation and application[^key-edddadf6b1be10974ff7efe10b320b45]
+## 1. Title, interpretation and application[^c-edddadf6b1be10974ff7efe10b320b45]
 
 (1) The title of this Order is the Commons Act 2006 (Commencement No. 4) (Wales) Order 2017.
 
@@ -48,14 +48,14 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 
 (3) This Order applies in relation to Wales.
 
-## 2. Provisions coming into force[^key-43408e53e8097d153de17b8024b5cc38]
+## 2. Provisions coming into force[^c-43408e53e8097d153de17b8024b5cc38]
 
 The following provisions of the 2006 Act come into force on 10 April 2017—
 
 - (a) section 19(1) to (5) and (7) (correction); and
 - (b) paragraphs 1, 2(1) and (2)(a) to (c), 3(1) and (2)(a) to (d), 4(1) to (5), 5(1), 5(2), 6(1), 6(2), 7(1), 7(2), 8(1), 8(2) and 9(1) to (3) of Schedule 2 (non-registration or mistaken registration under the 1965 Act).
 
-## 3. Provisions coming into force for all remaining purposes[^key-fb2d51b04ede80d760bf05692baefa58]
+## 3. Provisions coming into force for all remaining purposes[^c-fb2d51b04ede80d760bf05692baefa58]
 
 The following provisions of the 2006 Act come into force for all remaining purposes on 10 April 2017—
 
@@ -63,7 +63,7 @@ The following provisions of the 2006 Act come into force for all remaining purpo
 - (b) section 22 (non-registration or mistaken registration under the 1965 Act); and
 - (c) paragraphs 2(2)(d) and (3), 3(2)(e) and (3), 4(6), 5(3), 6(3), 7(3), 8(3), 9(4) and 10 of Schedule 2 (non-registration or mistaken registration under the 1965 Act).
 
-## 4. Extension of application of sections 19 and 22 of, and Schedule 2 to, the 2006 Act[^key-7616eeea407952e3c34a4245e6ba352f]
+## 4. Extension of application of sections 19 and 22 of, and Schedule 2 to, the 2006 Act[^c-7616eeea407952e3c34a4245e6ba352f]
 
 (1) In relation to any area in Wales, references in sections 19 and 22 of, and Schedule 2 to, the 2006 Act and any regulations made under those provisions, to a register of common land or town or village greens are, until the coming into force of section 1 of the 2006 Act in relation to that area, to be taken as references to such a register maintained under sections 1 and 3 of the 1965 Act.
 
@@ -177,12 +177,12 @@ The following Commencement Orders have been made under the 2006 Act by the Secre
 
 [^f00001]: Footnote: [2006 c. 26](https://www.legislation.gov.uk/ukpga/2006/26); section 61(1) was amended by Schedule 7, para. 9 of the Planning (Wales) Act 2015, c. 4, and defines “appropriate national authority” as the Welsh Ministers in relation to Wales.
 
-[^key-edddadf6b1be10974ff7efe10b320b45]: Commencement: Art. 1 in force at made date
+[^c-edddadf6b1be10974ff7efe10b320b45]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1965 c. 64](https://www.legislation.gov.uk/ukpga/1965/64).
 
-[^key-43408e53e8097d153de17b8024b5cc38]: Commencement: Art. 2 in force at made date
+[^c-43408e53e8097d153de17b8024b5cc38]: Commencement: Art. 2 in force at made date
 
-[^key-fb2d51b04ede80d760bf05692baefa58]: Commencement: Art. 3 in force at made date
+[^c-fb2d51b04ede80d760bf05692baefa58]: Commencement: Art. 3 in force at made date
 
-[^key-7616eeea407952e3c34a4245e6ba352f]: Textual amendment: Art. 4 added (20.9.2017) by [The Commons Act 2006 (Commencement No. 5 and Transitional Provisions (Wales) and Commencement No. 4 (Wales) (Amendment)) Order 2017 (S.I. 2017/933)](https://www.legislation.gov.uk/wsi/2017/933), [art. 5(1)](https://www.legislation.gov.uk/wsi/2017/933/article/5/1)[(2)](https://www.legislation.gov.uk/wsi/2017/933/article/5/2)
+[^c-7616eeea407952e3c34a4245e6ba352f]: Textual amendment: Art. 4 added (20.9.2017) by [The Commons Act 2006 (Commencement No. 5 and Transitional Provisions (Wales) and Commencement No. 4 (Wales) (Amendment)) Order 2017 (S.I. 2017/933)](https://www.legislation.gov.uk/wsi/2017/933), [art. 5(1)](https://www.legislation.gov.uk/wsi/2017/933/article/5/1)[(2)](https://www.legislation.gov.uk/wsi/2017/933/article/5/2)

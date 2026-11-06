@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. References to Competition and Markets Authority.[^key-2916f96fa10f13d0a1adecb485d060e3]
+## 12. References to Competition and Markets Authority.[^c-2916f96fa10f13d0a1adecb485d060e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2916f96fa10f13d0a1adecb485d060e3]: Textual amendment: Ss. 12-18 omitted (29.6.2021) by virtue of [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2021/12/section/9/2), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/a)
+[^c-2916f96fa10f13d0a1adecb485d060e3]: Textual amendment: Ss. 12-18 omitted (29.6.2021) by virtue of [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2021/12/section/9/2), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/a)

@@ -230,7 +230,7 @@ Section 4.
 
 (4) In section 141(2) of that Act, for the words “section 290(1) of the Town and Country Planning Act 1971” there shall be substituted the words “section 336(1) of the Town and Country Planning Act 1990”.
 
-(5)[^key-860af62313bb8a2f5dd71c0f5c35d6ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-860af62313bb8a2f5dd71c0f5c35d6ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Finance Act 1969 (c. 32)
 
@@ -270,7 +270,7 @@ Section 4.
 
 ### The Courts Act 1971 (c. 23)
 
-**25.**[^key-6515631492fe599c2eb91cb0007886cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-6515631492fe599c2eb91cb0007886cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Town and Country Planning (Amendment) Act 1972 (c. 42)
 
@@ -353,7 +353,7 @@ Section 4.
 
 ### The Control of Pollution Act 1974 (c. 40)
 
-**31.** (1) In section 5(2) of the Control of Pollution Act 1974, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”. *(affected by repeal, see note)*[^key-2eb921cb5bedf886f33c2670c391304d]
+**31.** (1) In section 5(2) of the Control of Pollution Act 1974, for the words “the Town and Country Planning Act 1971” there shall be substituted the words “the Town and Country Planning Act 1990”. *(affected by repeal, see note)*[^c-2eb921cb5bedf886f33c2670c391304d]
 
 (2) In section 105(3) of that Act, for the words “subsection (7) of section 266 of the Town and Country Planning Act 1971” there shall be substituted the words “subsection (1) of section 293 of the Town and Country Planning Act 1990”.
 
@@ -422,7 +422,7 @@ Section 4.
 
 ### The National Health Service Act 1977 (c. 49)
 
-**40.**[^key-f1a94b8c050ad27658e94a09534b6617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-f1a94b8c050ad27658e94a09534b6617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Refuse Disposal (Amenity) Act 1978 (c. 3)
 
@@ -802,7 +802,7 @@ Section 4.
 
 ### The Telecommunications Act 1984 (c. 12)
 
-**63.**[^key-a569f8b648beed20c37b9dda46bffae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**63.**[^c-a569f8b648beed20c37b9dda46bffae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Road Traffic Regulation Act 1984 (c. 27)
 
@@ -1010,7 +1010,7 @@ Section 4.
 
 [^c1048476]: Textual amendment: Sch. 2 para. 22(1) repealed (1.1.1996) by [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23), [s. 60(2)](https://www.legislation.gov.uk/ukpga/1995/23/section/60/2), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1995/23/schedule/8/part/I) (with [ss. 54](https://www.legislation.gov.uk/ukpga/1995/23/section/54), [55](https://www.legislation.gov.uk/ukpga/1995/23/section/55)); [S.I. 1995/2181](https://www.legislation.gov.uk/uksi/1995/2181), [art. 2](https://www.legislation.gov.uk/uksi/1995/2181/article/2)
 
-[^key-860af62313bb8a2f5dd71c0f5c35d6ec]: Textual amendment: [Sch. 2 para. 22(5)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/22/5) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/11)
+[^c-860af62313bb8a2f5dd71c0f5c35d6ec]: Textual amendment: [Sch. 2 para. 22(5)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/22/5) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/11)
 
 [^c1048480]: Textual amendment: [Sch. 2 para. 24(1)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/24/1) repealed (U.K.) (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2) (with savings and transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2001/1149/article/4))
 
@@ -1018,7 +1018,7 @@ Section 4.
 
 [^c1048482]: Textual amendment: [Sch. 2 para. 24(3)(a)(i)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/24/3/a/i) repealed (E.W.S.) (25.09.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123: 1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 19 Pt. II](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/II); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3).
 
-[^key-6515631492fe599c2eb91cb0007886cd]: Textual amendment: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/25) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-6515631492fe599c2eb91cb0007886cd]: Textual amendment: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/25) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
 [^c1048483]: Textual amendment: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/26) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(3)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
 
@@ -1032,7 +1032,7 @@ Section 4.
 
 [^c1048489]: Textual amendment: [Sch. 2 para. 29(4)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/29/4) repealed (25.09.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 19 Pt.III](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/III); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3).
 
-[^key-2eb921cb5bedf886f33c2670c391304d]: Textual amendment: Sch. 2 para. 31(1) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 22](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/22); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-2eb921cb5bedf886f33c2670c391304d]: Textual amendment: Sch. 2 para. 31(1) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 22](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/22); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
 [^c1048490]: Textual amendment: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/33) repealed (E.W.)(31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [68(2)(e)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/2/e), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
@@ -1044,7 +1044,7 @@ Section 4.
 
 [^c1048494]: Textual amendment: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/38) repealed (02.01.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 19 Pt.I](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/I); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art. 3](https://www.legislation.gov.uk/uksi/1991/2905/article/3), [Sch.2](https://www.legislation.gov.uk/uksi/1991/2905/schedule/2)
 
-[^key-f1a94b8c050ad27658e94a09534b6617]: Textual amendment: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/40) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-f1a94b8c050ad27658e94a09534b6617]: Textual amendment: [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/40) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c1048496]: Textual amendment: [Sch. 2 para. 44(3)(4)(9)(10)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/44/3/4/9/10) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. V](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/V) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
@@ -1062,7 +1062,7 @@ Section 4.
 
 [^c1048506]: Textual amendment: [Sch. 2 para. 62](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/62) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(3)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
 
-[^key-a569f8b648beed20c37b9dda46bffae4]: Textual amendment: Sch. 2 para. 63 repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a569f8b648beed20c37b9dda46bffae4]: Textual amendment: Sch. 2 para. 63 repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c1048507]: Textual amendment: [Sch. 2 para. 68](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/68) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(3)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [s. 5](https://www.legislation.gov.uk/ukpga/1997/11/section/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
 

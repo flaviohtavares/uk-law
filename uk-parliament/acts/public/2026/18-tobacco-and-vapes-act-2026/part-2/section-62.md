@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Meaning of “nicotine product”[^key-0972a14f054b3cdef24f5c618bc40e00]
+## 62. Meaning of “nicotine product”[^c-0972a14f054b3cdef24f5c618bc40e00]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ Before section 36 of the Tobacco and Primary Medical Services (Scotland) Act [20
 
 ## Annotations
 
-[^key-0972a14f054b3cdef24f5c618bc40e00]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2026/18/section/62) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-0972a14f054b3cdef24f5c618bc40e00]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2026/18/section/62) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

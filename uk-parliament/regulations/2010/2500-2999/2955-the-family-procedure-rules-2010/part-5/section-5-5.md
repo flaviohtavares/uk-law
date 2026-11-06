@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5.5. Filing documents with and sending documents to the court by e-mail[^key-06780e62059f501f606671916afb0bc8]
+## 5.5. Filing documents with and sending documents to the court by e-mail[^c-06780e62059f501f606671916afb0bc8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06780e62059f501f606671916afb0bc8]: Textual amendment: [Rule 5.5](https://www.legislation.gov.uk/uksi/2010/2955/rule/5.5) inserted (7.12.2015) by [The Family Procedure (Amendment No. 3) Rules 2015 (S.I. 2015/1868)](https://www.legislation.gov.uk/uksi/2015/1868), [rules 1(2)](https://www.legislation.gov.uk/uksi/2015/1868/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2015/1868/rule/4)
+[^c-06780e62059f501f606671916afb0bc8]: Textual amendment: [Rule 5.5](https://www.legislation.gov.uk/uksi/2010/2955/rule/5.5) inserted (7.12.2015) by [The Family Procedure (Amendment No. 3) Rules 2015 (S.I. 2015/1868)](https://www.legislation.gov.uk/uksi/2015/1868), [rules 1(2)](https://www.legislation.gov.uk/uksi/2015/1868/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2015/1868/rule/4)

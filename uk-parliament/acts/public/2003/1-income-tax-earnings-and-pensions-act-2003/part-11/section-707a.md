@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 707A. Provision of additional information to His Majesty’s Revenue and Customs[^key-96e7802932dd387a2231cd15fe05b4a8]
+## 707A. Provision of additional information to His Majesty’s Revenue and Customs[^c-96e7802932dd387a2231cd15fe05b4a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96e7802932dd387a2231cd15fe05b4a8]: Textual amendment: S. 707A inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 36(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/36/4)[(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/36/5)
+[^c-96e7802932dd387a2231cd15fe05b4a8]: Textual amendment: S. 707A inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 36(4)](https://www.legislation.gov.uk/ukpga/2024/3/section/36/4)[(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/36/5)

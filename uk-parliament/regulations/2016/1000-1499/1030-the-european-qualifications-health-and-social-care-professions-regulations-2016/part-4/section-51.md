@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Amendment of section 53[^key-eaa98fbb58e891203607b633fa15f460]
+## 51. Amendment of section 53[^c-eaa98fbb58e891203607b633fa15f460]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eaa98fbb58e891203607b633fa15f460]: Commencement: Reg. 51 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-eaa98fbb58e891203607b633fa15f460]: Commencement: Reg. 51 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00035]: Footnote: Section 53(1) was amended by [S.I. 1996/1496](https://www.legislation.gov.uk/uksi/1996/1496), [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [2015/806](https://www.legislation.gov.uk/uksi/2015/806).

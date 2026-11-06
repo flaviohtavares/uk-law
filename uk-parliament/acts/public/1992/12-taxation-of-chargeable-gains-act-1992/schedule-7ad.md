@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7AD — Gains of insurance company from venture capital investment partnership[^key-8fd0a71e4f4e94f156352db4bf9c4657]
+## SCHEDULE 7AD — Gains of insurance company from venture capital investment partnership[^c-8fd0a71e4f4e94f156352db4bf9c4657]
 
 *Extent: E+W+S+N.I.*
 
 ### Introduction
 
-**1.** This Schedule applies where the assets held by an insurance company (“[^key-d909d97b9c6affea3aab2f5f1e6a5ccc]**the company**”) for the purposes of its long-term business include assets held by the company as a limited partner in a venture capital investment partnership (“the partnership”).
+**1.** This Schedule applies where the assets held by an insurance company (“[^c-d909d97b9c6affea3aab2f5f1e6a5ccc]**the company**”) for the purposes of its long-term business include assets held by the company as a limited partner in a venture capital investment partnership (“the partnership”).
 
 ### Meaning of “venture capital investment partnership”
 
@@ -122,9 +122,9 @@ the company is treated as having received its share of the proceeds as a distrib
 
 ### Disposal of partnership asset giving rise to offshore income gain
 
-**7.** (1) Nothing in this Schedule shall be read as affecting the operation of regulations[^key-b98061b0ea663b640d78966168ced34c] under section 354(1) of TIOPA 2010[^key-69434fe0e85433febd0f5aefbbeb1838] (see the Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)).
+**7.** (1) Nothing in this Schedule shall be read as affecting the operation of regulations[^c-b98061b0ea663b640d78966168ced34c] under section 354(1) of TIOPA 2010[^c-69434fe0e85433febd0f5aefbbeb1838] (see the Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)).
 
-(2) Where an offshore income gain accrues to the company under such regulations[^key-1f807ae84a81232af87308e090df8038] from the disposal of any relevant asset of the partnership, the amount of any distribution received or treated as received by the company from the partnership that represents the whole or part of the proceeds of disposal of that asset is treated for the purposes of this Schedule as reduced by the amount of the whole or a corresponding part of the offshore income gain.
+(2) Where an offshore income gain accrues to the company under such regulations[^c-1f807ae84a81232af87308e090df8038] from the disposal of any relevant asset of the partnership, the amount of any distribution received or treated as received by the company from the partnership that represents the whole or part of the proceeds of disposal of that asset is treated for the purposes of this Schedule as reduced by the amount of the whole or a corresponding part of the offshore income gain.
 
 ### Exclusion of negligible value claim
 
@@ -140,9 +140,9 @@ the company is treated as having received its share of the proceeds as a distrib
 
 ### Interpretation
 
-**10.**[^key-b962009c6ecb69de37ef17a106f992a4] (1) In this Schedule—
+**10.**[^c-b962009c6ecb69de37ef17a106f992a4] (1) In this Schedule—
 
-- [^key-0109d6172370940de20a623008aee19f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-0109d6172370940de20a623008aee19f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “limited partner” means—
   - (a) a person carrying on a business as a limited partner in a partnership registered under the Limited Partnership Act 1907, or
   - (b) a person carrying on a business jointly with others who, under the law of a country or territory outside the United Kingdom, is not entitled to take part in the management of the business and is not liable beyond a certain limit for debts or obligations incurred for the purposes of the business;
@@ -205,16 +205,16 @@ it may elect that the provisions of this Schedule shall not apply to it in relat
 
 ## Annotations
 
-[^key-8fd0a71e4f4e94f156352db4bf9c4657]: Textual amendment: Sch. 7AD inserted (24.7.2002) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 85(2)](https://www.legislation.gov.uk/ukpga/2002/23/section/85/2), [Sch. 31](https://www.legislation.gov.uk/ukpga/2002/23/schedule/31)
+[^c-8fd0a71e4f4e94f156352db4bf9c4657]: Textual amendment: Sch. 7AD inserted (24.7.2002) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 85(2)](https://www.legislation.gov.uk/ukpga/2002/23/section/85/2), [Sch. 31](https://www.legislation.gov.uk/ukpga/2002/23/schedule/31)
 
-[^key-d909d97b9c6affea3aab2f5f1e6a5ccc]: Textual amendment: Words in Sch. 7AD para. 1 substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 89](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/89)
+[^c-d909d97b9c6affea3aab2f5f1e6a5ccc]: Textual amendment: Words in Sch. 7AD para. 1 substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 89](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/89)
 
-[^key-b98061b0ea663b640d78966168ced34c]: Textual amendment: Words in Sch. 7AD para. 7(1) substituted (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [127(4)(a)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/127/4/a)
+[^c-b98061b0ea663b640d78966168ced34c]: Textual amendment: Words in Sch. 7AD para. 7(1) substituted (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [127(4)(a)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/127/4/a)
 
-[^key-69434fe0e85433febd0f5aefbbeb1838]: Textual amendment: Words in Sch. 7AD para. 7(1) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 166](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/166) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-69434fe0e85433febd0f5aefbbeb1838]: Textual amendment: Words in Sch. 7AD para. 7(1) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 166](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/166) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-1f807ae84a81232af87308e090df8038]: Textual amendment: Words in Sch. 7AD para. 7(2) substituted (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [127(4)(b)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/127/4/b)
+[^c-1f807ae84a81232af87308e090df8038]: Textual amendment: Words in Sch. 7AD para. 7(2) substituted (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [127(4)(b)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/127/4/b)
 
-[^key-b962009c6ecb69de37ef17a106f992a4]: Modification: Sch. 7AD para. 10 modified by [The Friendly Societies (Modification of the Corporation Tax Acts) Regulations 1997 (S.I. 1997/473)](https://www.legislation.gov.uk/uksi/1997/473), reg. 50B (as inserted (30.1.2003) by [S.I. 2003/23](https://www.legislation.gov.uk/uksi/2003/23), regs. 1(1), 9)
+[^c-b962009c6ecb69de37ef17a106f992a4]: Modification: Sch. 7AD para. 10 modified by [The Friendly Societies (Modification of the Corporation Tax Acts) Regulations 1997 (S.I. 1997/473)](https://www.legislation.gov.uk/uksi/1997/473), reg. 50B (as inserted (30.1.2003) by [S.I. 2003/23](https://www.legislation.gov.uk/uksi/2003/23), regs. 1(1), 9)
 
-[^key-0109d6172370940de20a623008aee19f]: Textual amendment: Words in Sch. 7AD para. 10(1) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 3(12)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/12)
+[^c-0109d6172370940de20a623008aee19f]: Textual amendment: Words in Sch. 7AD para. 10(1) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 3(12)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/12)

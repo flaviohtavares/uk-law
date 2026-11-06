@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Police friend[^key-3042750b2f8cc91516bd13e3ef0125f4]
+## 7. Police friend[^c-3042750b2f8cc91516bd13e3ef0125f4]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) a police officer;
 - (b) a police staff member, or
-- (c) [^key-a0180612e191a9f06e7f8fda5f9b17dd]... a person nominated by the officer's staff association,
+- (c) [^c-a0180612e191a9f06e7f8fda5f9b17dd]... a person nominated by the officer's staff association,
 
 who is not otherwise involved in the matter, to act as a police friend.
 
@@ -41,6 +41,6 @@ who is not otherwise involved in the matter, to act as a police friend.
 
 ## Annotations
 
-[^key-3042750b2f8cc91516bd13e3ef0125f4]: Commencement: Reg. 7 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-3042750b2f8cc91516bd13e3ef0125f4]: Commencement: Reg. 7 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-a0180612e191a9f06e7f8fda5f9b17dd]: Textual amendment: Words in [reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2020/4/regulation/7/1/c) omitted (28.6.2022) by virtue of [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2022/505/regulation/7/3)
+[^c-a0180612e191a9f06e7f8fda5f9b17dd]: Textual amendment: Words in [reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2020/4/regulation/7/1/c) omitted (28.6.2022) by virtue of [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2022/505/regulation/7/3)

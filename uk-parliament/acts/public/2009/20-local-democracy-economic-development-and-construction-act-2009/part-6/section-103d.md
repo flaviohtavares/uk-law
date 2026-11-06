@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103D. Responding to a collaboration request[^key-083bf9b3600cba23fe3f6b1acab71ac2]
+## 103D. Responding to a collaboration request[^c-083bf9b3600cba23fe3f6b1acab71ac2]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-083bf9b3600cba23fe3f6b1acab71ac2]: Textual amendment: Ss. 103C-103E inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/23/2), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-083bf9b3600cba23fe3f6b1acab71ac2]: Textual amendment: Ss. 103C-103E inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/23/2), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

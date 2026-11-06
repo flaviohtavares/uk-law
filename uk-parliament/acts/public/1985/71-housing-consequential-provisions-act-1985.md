@@ -288,7 +288,7 @@ Section 3.
 </tbody>
 </table>
 
-[^key-97d78a12fe572f41928f055c007f29d9]
+[^c-97d78a12fe572f41928f055c007f29d9]
 
 ### Part II — Scotland
 
@@ -429,7 +429,7 @@ Section 4.
 
 *Extent: E+W+S*
 
-**8.**[^key-74bb42e51f8b77c75566d1eeaa1c654c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-74bb42e51f8b77c75566d1eeaa1c654c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Compulsory Purchase Act 1965 (c. 56)
 
@@ -585,7 +585,7 @@ Section 4.
 
   ;
 - (c)[^c10402361] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-2e9733885ff1816726b5b82d2223dca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2e9733885ff1816726b5b82d2223dca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 37 (disturbance payments)—
 
@@ -863,7 +863,7 @@ for “the Housing Act 1957” substitute “Part X of the Housing Act 1985”.
 
 *Extent: E+W*
 
-**38.**[^key-bcb98055228b6aa38ae732d6165a6473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-bcb98055228b6aa38ae732d6165a6473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Housing (Financial Provisions) (Scotland) Act 1978 (c.14)[^c10402511]
 
@@ -931,7 +931,7 @@ for “the Housing Act 1957” substitute “Part X of the Housing Act 1985”.
 
 *Extent: E+W+S*
 
-**43.**[^key-f1d403aa29236f01ce475dfc62f8c9dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-f1d403aa29236f01ce475dfc62f8c9dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Housing Act 1980 (c.51)
 
@@ -1384,7 +1384,7 @@ does not affect the powers of any company, association or society in relation to
 
 [^c10402171]: Textual amendment: Word in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1985/71/section/6/3) repealed (1.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 187(2)](https://www.legislation.gov.uk/ukpga/1993/28/section/187/2), [Sch. 22](https://www.legislation.gov.uk/ukpga/1993/28/schedule/22); [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [art. 5](https://www.legislation.gov.uk/uksi/1993/2134/article/5)
 
-[^key-97d78a12fe572f41928f055c007f29d9]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-97d78a12fe572f41928f055c007f29d9]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c10402181]: Marginal citation: [1919 c. 35](https://www.legislation.gov.uk/ukpga/1919/35).
 
@@ -1394,7 +1394,7 @@ does not affect the powers of any company, association or society in relation to
 
 [^c10402221]: Textual amendment: [Sch. 2 paras. 5](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/5), [6](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/6) repealed by [Building Societies Act 1986 (c. 53, SIF 16)](https://www.legislation.gov.uk/ukpga/1986/53), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/1986/53/section/54/3)(*a*)(5), 120(2), Sch. 19 Pt. I
 
-[^key-74bb42e51f8b77c75566d1eeaa1c654c]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/8) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-74bb42e51f8b77c75566d1eeaa1c654c]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/8) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c10402231]: Textual amendment: [Sch. 2 paras. 10](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/10), [16](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/17), [37](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/37), [39](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/39), [40](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/40), [42](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/42), [45](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/45) repealed (S.) by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 335](https://www.legislation.gov.uk/ukpga/1987/26/section/335), [339(3)](https://www.legislation.gov.uk/ukpga/1987/26/section/339/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1987/26/schedule/24)
 
@@ -1412,7 +1412,7 @@ does not affect the powers of any company, association or society in relation to
 
 [^c10402361]: Textual amendment: Sch. 2 para. 24(2)(c) repealed (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 28:1,2, 123:1,2)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 84(2)(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/2/6), [Sch. 19 Pt. III](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/III) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4))
 
-[^key-2e9733885ff1816726b5b82d2223dca3]: Textual amendment: [Sch. 2 para. 24(2)(d)](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/24/2/d) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
+[^c-2e9733885ff1816726b5b82d2223dca3]: Textual amendment: [Sch. 2 para. 24(2)(d)](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/24/2/d) repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/wsi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/wsi/2006/1535/schedule))
 
 [^c10402401]: Textual amendment: Sch. 2 paras. 22, 24(8) repealed by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1,2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 3](https://www.legislation.gov.uk/ukpga/1990/11/section/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/1990/11/schedule/1)
 
@@ -1432,7 +1432,7 @@ does not affect the powers of any company, association or society in relation to
 
 [^c10402481]: Textual amendment: [Sch. 2 paras. 10](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/10), [16](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/17), [37](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/37), [39](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/39), [40](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/40), [42](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/42), [45](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/45) repealed (S.) by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 335](https://www.legislation.gov.uk/ukpga/1987/26/section/335), [339(3)](https://www.legislation.gov.uk/ukpga/1987/26/section/339/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1987/26/schedule/24)
 
-[^key-bcb98055228b6aa38ae732d6165a6473]: Textual amendment: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/38) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-bcb98055228b6aa38ae732d6165a6473]: Textual amendment: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/38) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c10402511]: Textual amendment: [Sch. 2 paras. 10](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/10), [16](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/17), [37](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/37), [39](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/39), [40](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/40), [42](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/42), [45](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/45) repealed (S.) by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 335](https://www.legislation.gov.uk/ukpga/1987/26/section/335), [339(3)](https://www.legislation.gov.uk/ukpga/1987/26/section/339/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1987/26/schedule/24)
 
@@ -1440,7 +1440,7 @@ does not affect the powers of any company, association or society in relation to
 
 [^c10402531]: Textual amendment: [Sch. 2 paras. 10](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/10), [16](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/17), [37](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/37), [39](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/39), [40](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/40), [42](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/42), [45](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/45) repealed (S.) by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 335](https://www.legislation.gov.uk/ukpga/1987/26/section/335), [339(3)](https://www.legislation.gov.uk/ukpga/1987/26/section/339/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1987/26/schedule/24)
 
-[^key-f1d403aa29236f01ce475dfc62f8c9dd]: Textual amendment: [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/43) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/3/2/a) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-f1d403aa29236f01ce475dfc62f8c9dd]: Textual amendment: [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/43) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/3/2/a) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
 [^c10402541]: Textual amendment: [Sch. 2 paras. 44(3)](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/44/3), [45(2)](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/45/2) repealed (E.W.) by [Housing and Planning Act 1986 (c. 63, SIF 61)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 24(3)](https://www.legislation.gov.uk/ukpga/1986/63/section/24/3), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/1986/63/schedule/12/part/I)
 

@@ -29,11 +29,11 @@ summary: ''
 
 - (a) profits which are charged to tax under section 299 of CTA 2009 (non-trading profits from loan relationships),
 - (b) a dividend or other distribution of a company, and
-- (c) income treated for the purposes of regulation 15 of the Unauthorised Unit Trusts (Tax) Regulations 2013 as received by a unit holder from an exempt unauthorised unit trust.[^key-a86e128aecb232e9d7a6fb1d5bdb5c03]
+- (c) income treated for the purposes of regulation 15 of the Unauthorised Unit Trusts (Tax) Regulations 2013 as received by a unit holder from an exempt unauthorised unit trust.[^c-a86e128aecb232e9d7a6fb1d5bdb5c03]
 
 (3) Subsection (1) applies, in relation to the income mentioned in subsection (2)(b), only so far as the income falls within, and is dealt with under, Part 9A of CTA 2009 (see section 931W of that Act as to provisions given priority over Part 9A).
 
-(4) Subsection (1) applies, in relation to the income mentioned in subsection (2)(c), only so far as the income falls within, and is dealt with under, regulation 15 of the Unauthorised Unit Trusts (Tax) Regulations 2013 (see regulation 17 of those regulations as to provisions given priority over that regulation).[^key-a23d2455d2f34d6b9eba8e1c825fb28e]
+(4) Subsection (1) applies, in relation to the income mentioned in subsection (2)(c), only so far as the income falls within, and is dealt with under, regulation 15 of the Unauthorised Unit Trusts (Tax) Regulations 2013 (see regulation 17 of those regulations as to provisions given priority over that regulation).[^c-a23d2455d2f34d6b9eba8e1c825fb28e]
 
 (5) Subsection (1) applies so far as the income is applied to charitable purposes only.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a86e128aecb232e9d7a6fb1d5bdb5c03]: Textual amendment: Words in s. 486(2)(c) substituted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [39(3)(a)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/39/3/a) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-a86e128aecb232e9d7a6fb1d5bdb5c03]: Textual amendment: Words in s. 486(2)(c) substituted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [39(3)(a)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/39/3/a) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
 
-[^key-a23d2455d2f34d6b9eba8e1c825fb28e]: Textual amendment: Words in s. 486(4) substituted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [39(3)(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/39/3/b) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-a23d2455d2f34d6b9eba8e1c825fb28e]: Textual amendment: Words in s. 486(4) substituted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [39(3)(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/39/3/b) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))

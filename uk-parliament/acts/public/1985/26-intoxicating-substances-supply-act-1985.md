@@ -31,18 +31,18 @@ Intoxicating Substances (Supply) Act 1985 (repealed)
 
 1985 c. 26
 
-[^key-46e689c75b54134a30c46ef8011ee111]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46e689c75b54134a30c46ef8011ee111]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Offence of supply of intoxicating substance.[^key-46e689c75b54134a30c46ef8011ee111]
+## 1. Offence of supply of intoxicating substance.[^c-46e689c75b54134a30c46ef8011ee111]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title, commencement and extent.[^key-46e689c75b54134a30c46ef8011ee111]
+## 2. Short title, commencement and extent.[^c-46e689c75b54134a30c46ef8011ee111]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46e689c75b54134a30c46ef8011ee111]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/26) repealed (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2), [s. 63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/1/1); [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-46e689c75b54134a30c46ef8011ee111]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/26) repealed (26.5.2016) by [Psychoactive Substances Act 2016 (c. 2)](https://www.legislation.gov.uk/ukpga/2016/2), [s. 63(2)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/2), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/1/1); [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

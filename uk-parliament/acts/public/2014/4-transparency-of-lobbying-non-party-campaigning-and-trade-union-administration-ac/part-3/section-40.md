@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Duty to provide membership audit certificate[^key-030c6df1e3e3227f049262d8f0c0c10c]
+## 40. Duty to provide membership audit certificate[^c-030c6df1e3e3227f049262d8f0c0c10c]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-030c6df1e3e3227f049262d8f0c0c10c]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2014/4/section/40) in force at 6.4.2015 with application in accordance with art. 3 by [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2015/717/article/3/1/a)
+[^c-030c6df1e3e3227f049262d8f0c0c10c]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2014/4/section/40) in force at 6.4.2015 with application in accordance with art. 3 by [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2015/717/article/3/1/a)

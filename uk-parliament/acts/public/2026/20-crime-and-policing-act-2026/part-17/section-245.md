@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Consultation with devolved authorities about regulations under section 243[^key-7c0111af8e15882ff6d91eb750721c69]
+## 245. Consultation with devolved authorities about regulations under section 243[^c-7c0111af8e15882ff6d91eb750721c69]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Before making regulations under section 243, the Secretary of State must consult
 
 ## Annotations
 
-[^key-7c0111af8e15882ff6d91eb750721c69]: Commencement: S. 245 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-7c0111af8e15882ff6d91eb750721c69]: Commencement: S. 245 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)

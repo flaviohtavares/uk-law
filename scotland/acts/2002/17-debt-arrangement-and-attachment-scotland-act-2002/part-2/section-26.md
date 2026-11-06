@@ -39,7 +39,7 @@ the sheriff shall make an order declaring that to be the case and may make such 
 (5) Where—
 
 - (a) an order is made under subsection (1) above; and
-- (b) an officer[^key-06d3c17fb78efa3efbf496cf847a313f] has removed the article from the place at which it was, or purported to be, attached,
+- (b) an officer[^c-06d3c17fb78efa3efbf496cf847a313f] has removed the article from the place at which it was, or purported to be, attached,
 
 the officer shall return the article to the place from which it was removed.
 
@@ -47,4 +47,4 @@ the officer shall return the article to the place from which it was removed.
 
 ## Annotations
 
-[^key-06d3c17fb78efa3efbf496cf847a313f]: Textual amendment: Words in s. 26(5)(b) substituted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(12)](https://www.legislation.gov.uk/asp/2007/3/section/212/12), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)
+[^c-06d3c17fb78efa3efbf496cf847a313f]: Textual amendment: Words in s. 26(5)(b) substituted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(12)](https://www.legislation.gov.uk/asp/2007/3/section/212/12), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Authorisation of use[^key-12db462c96e55345157a69cc82f74a89]
+## 4. Authorisation of use[^c-12db462c96e55345157a69cc82f74a89]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to the provisions of this Order and to the requirements the undertaker m
 
 ## Annotations
 
-[^key-12db462c96e55345157a69cc82f74a89]: Commencement: Art. 4 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-12db462c96e55345157a69cc82f74a89]: Commencement: Art. 4 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

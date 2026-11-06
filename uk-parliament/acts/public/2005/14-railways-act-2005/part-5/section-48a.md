@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48A. Code of practice for disabled rail users in Wales[^key-063ec07ffa4236878ec3bcf9d2f46a32]
+## 48A. Code of practice for disabled rail users in Wales[^c-063ec07ffa4236878ec3bcf9d2f46a32]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-063ec07ffa4236878ec3bcf9d2f46a32]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/ukpga/2005/14/section/48A) inserted (14.10.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/60)
+[^c-063ec07ffa4236878ec3bcf9d2f46a32]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/ukpga/2005/14/section/48A) inserted (14.10.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/60)

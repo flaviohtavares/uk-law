@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Interpretation of Part 8[^key-669f3d54b57421032cd0f6d28a4b3da8]
+## 108. Interpretation of Part 8[^c-669f3d54b57421032cd0f6d28a4b3da8]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In this Part—
 
 ## Annotations
 
-[^key-669f3d54b57421032cd0f6d28a4b3da8]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2008/5/section/108) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
+[^c-669f3d54b57421032cd0f6d28a4b3da8]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2008/5/section/108) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)

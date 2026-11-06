@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 92A. Suspension of club premises certificate for failing to pay annual fee[^key-4ba3412120152eacc9df5dd61dfc7753][^key-4d33a75014babf9362d3e82934983c52]
+## 92A. Suspension of club premises certificate for failing to pay annual fee[^c-4ba3412120152eacc9df5dd61dfc7753][^c-4d33a75014babf9362d3e82934983c52]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ba3412120152eacc9df5dd61dfc7753]: Modification: S. 92A applied (with modifications) (31.10.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 129(6)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/129/6/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 138](https://www.legislation.gov.uk/ukpga/2011/13/section/138)); [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/b)
+[^c-4ba3412120152eacc9df5dd61dfc7753]: Modification: S. 92A applied (with modifications) (31.10.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 129(6)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/129/6/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 138](https://www.legislation.gov.uk/ukpga/2011/13/section/138)); [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/b)
 
-[^key-4d33a75014babf9362d3e82934983c52]: Textual amendment: S. 92A inserted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 120(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/120/5), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 120(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/120/6)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-4d33a75014babf9362d3e82934983c52]: Textual amendment: S. 92A inserted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 120(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/120/5), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 120(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/120/6)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

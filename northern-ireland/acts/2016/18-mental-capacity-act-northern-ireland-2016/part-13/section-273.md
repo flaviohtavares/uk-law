@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 273. Offences by bodies corporate[^key-b93fd17935ed7e2829c3e92a4eac8591]
+## 273. Offences by bodies corporate[^c-b93fd17935ed7e2829c3e92a4eac8591]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ that person (as well as the body corporate) commits the offence and is liable to
 
 ## Annotations
 
-[^key-b93fd17935ed7e2829c3e92a4eac8591]: Commencement: [S. 273](https://www.legislation.gov.uk/nia/2016/18/section/273) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-b93fd17935ed7e2829c3e92a4eac8591]: Commencement: [S. 273](https://www.legislation.gov.uk/nia/2016/18/section/273) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

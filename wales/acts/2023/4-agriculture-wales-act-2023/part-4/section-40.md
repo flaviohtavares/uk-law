@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Tree Preservation Orders[^key-aaa2d7a4252f78cb76097cb3cc187fc6][^key-da5cda4dc916209d816c1d87a07e7464]
+## 40. Tree Preservation Orders[^c-aaa2d7a4252f78cb76097cb3cc187fc6][^c-da5cda4dc916209d816c1d87a07e7464]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ After new section 24E of the [Forestry Act 1967 (c. 10)](https://www.legislation
 
 ## Annotations
 
-[^key-aaa2d7a4252f78cb76097cb3cc187fc6]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2023/4/section/40) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
+[^c-aaa2d7a4252f78cb76097cb3cc187fc6]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2023/4/section/40) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
 
-[^key-da5cda4dc916209d816c1d87a07e7464]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2023/4/section/40) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)
+[^c-da5cda4dc916209d816c1d87a07e7464]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2023/4/section/40) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)

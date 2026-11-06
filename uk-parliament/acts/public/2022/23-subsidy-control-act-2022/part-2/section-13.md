@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Application of the energy and environment principles[^key-9418f5b91a7bd1cba3f6d12dc02b354d][^key-8125e5ec90c551863dd5ee5841f149fa]
+## 13. Application of the energy and environment principles[^c-9418f5b91a7bd1cba3f6d12dc02b354d][^c-8125e5ec90c551863dd5ee5841f149fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9418f5b91a7bd1cba3f6d12dc02b354d]: Commencement: S. 13 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-9418f5b91a7bd1cba3f6d12dc02b354d]: Commencement: S. 13 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-8125e5ec90c551863dd5ee5841f149fa]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/23/section/13) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-8125e5ec90c551863dd5ee5841f149fa]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/23/section/13) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

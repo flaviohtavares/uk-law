@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Section 2AB (functions of the PRA)[^key-a4b8aff7db70680598ea5bc61ddb94fc]
+## 6. Section 2AB (functions of the PRA)[^c-a4b8aff7db70680598ea5bc61ddb94fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ In section 2AB [^c23657221] (functions of the PRA), in subsection (3)(d) [^c2365
 
 ## Annotations
 
-[^key-a4b8aff7db70680598ea5bc61ddb94fc]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-a4b8aff7db70680598ea5bc61ddb94fc]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657221]: Marginal citation: Section 2AB was substituted by section 12 of the [Bank of England and Financial Services Act 2016 (c.14)](https://www.legislation.gov.uk/ukpga/2016/14) and amended by [S.I. 2018/1115](https://www.legislation.gov.uk/uksi/2018/1115).
 

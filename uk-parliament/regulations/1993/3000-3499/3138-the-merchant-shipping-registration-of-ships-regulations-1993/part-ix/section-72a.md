@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72A. Transfer within the Register[^key-71e0450fce87cbedbc280ae119411210]
+## 72A. Transfer within the Register[^c-71e0450fce87cbedbc280ae119411210]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ On application being made to him, the Registrar may, after provision of such inf
 
 ## Annotations
 
-[^key-71e0450fce87cbedbc280ae119411210]: Textual amendment: [Reg. 72A](https://www.legislation.gov.uk/uksi/1993/3138/regulation/72A) added (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [13](https://www.legislation.gov.uk/uksi/1998/2976/regulation/13)
+[^c-71e0450fce87cbedbc280ae119411210]: Textual amendment: [Reg. 72A](https://www.legislation.gov.uk/uksi/1993/3138/regulation/72A) added (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [13](https://www.legislation.gov.uk/uksi/1998/2976/regulation/13)

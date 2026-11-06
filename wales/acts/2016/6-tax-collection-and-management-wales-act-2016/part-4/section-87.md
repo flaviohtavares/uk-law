@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Third party notices[^key-cae376b6fa3bae1960d95351c0b093ba]
+## 87. Third party notices[^c-cae376b6fa3bae1960d95351c0b093ba]
 
 *Extent: E+W*
 
@@ -36,10 +36,10 @@ summary: ''
 - (a) be named in the notice, and
 - (b) be issued with a copy of the notice by WRA.
 
-(4) But when it approves a third party notice, the tribunal may disapply one or both of the requirements of subsection (3) if it is satisfied that WRA has grounds for believing that naming the taxpayer or, as the case may be, issuing the taxpayer with a copy of the notice might seriously prejudice the assessment or collection of WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax.
+(4) But when it approves a third party notice, the tribunal may disapply one or both of the requirements of subsection (3) if it is satisfied that WRA has grounds for believing that naming the taxpayer or, as the case may be, issuing the taxpayer with a copy of the notice might seriously prejudice the assessment or collection of WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax.
 
 ## Annotations
 
-[^key-cae376b6fa3bae1960d95351c0b093ba]: Commencement: S. 87 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-cae376b6fa3bae1960d95351c0b093ba]: Commencement: S. 87 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.82. The chairman at a meeting[^key-479107057d6aac49640c576c2c9fda85]
+## 6.82. The chairman at a meeting[^c-479107057d6aac49640c576c2c9fda85]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ A person nominated under this paragraph must be either—
 
 ## Annotations
 
-[^key-479107057d6aac49640c576c2c9fda85]: Commencement: [Rule 6.82](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.82) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-479107057d6aac49640c576c2c9fda85]: Commencement: [Rule 6.82](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.82) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

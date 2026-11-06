@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Contents
 
-### Part 1 — Persons who lack capacity[^key-9ec7d13bc90d5318f55bb311602d3d4f]
+### Part 1 — Persons who lack capacity[^c-9ec7d13bc90d5318f55bb311602d3d4f]
 
 *Extent: E+W*
 
@@ -213,6 +213,6 @@ SCHEDULES
 
 [^M_C_66db52ac-7a14-4fad-ec53-d2c58182d262]: Modification: Act applied (E.W.) (1.4.2015 for specified purposes) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2014/23/section/80/2), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(u)](https://www.legislation.gov.uk/uksi/2015/993/article/2/u) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995)
 
-[^key-9ec7d13bc90d5318f55bb311602d3d4f]: Modification: Pt. 1 applied (1.12.2017) by [The Court of Protection Rules 2017 (S.I. 2017/1035)](https://www.legislation.gov.uk/uksi/2017/1035), [rules 23.3](https://www.legislation.gov.uk/uksi/2017/1035/rule/23.3), [24.6(1)](https://www.legislation.gov.uk/uksi/2017/1035/rule/24.6/1)
+[^c-9ec7d13bc90d5318f55bb311602d3d4f]: Modification: Pt. 1 applied (1.12.2017) by [The Court of Protection Rules 2017 (S.I. 2017/1035)](https://www.legislation.gov.uk/uksi/2017/1035), [rules 23.3](https://www.legislation.gov.uk/uksi/2017/1035/rule/23.3), [24.6(1)](https://www.legislation.gov.uk/uksi/2017/1035/rule/24.6/1)
 
 [^c2090742]: Textual amendment: S. 21A and preceding cross-heading inserted (1.4.2009) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 50](https://www.legislation.gov.uk/ukpga/2007/12/section/50), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2007/12/schedule/9/paragraph/2); [S.I. 2009/139](https://www.legislation.gov.uk/uksi/2009/139), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/139/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2009/139/article/3))

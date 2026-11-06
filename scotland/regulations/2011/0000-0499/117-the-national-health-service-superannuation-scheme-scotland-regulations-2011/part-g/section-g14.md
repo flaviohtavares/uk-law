@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## G14. Surviving scheme partner’s pension[^key-f1b85afcef3448f9e23aa4f67114ac49]
+## G14. Surviving scheme partner’s pension[^c-f1b85afcef3448f9e23aa4f67114ac49]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1b85afcef3448f9e23aa4f67114ac49]: Textual amendment: [Reg. G14](https://www.legislation.gov.uk/ssi/2011/117/regulation/G14) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2021/102/regulation/12)
+[^c-f1b85afcef3448f9e23aa4f67114ac49]: Textual amendment: [Reg. G14](https://www.legislation.gov.uk/ssi/2011/117/regulation/G14) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2021/102/regulation/12)

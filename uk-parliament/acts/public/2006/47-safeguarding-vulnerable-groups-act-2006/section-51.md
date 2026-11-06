@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Crown application[^key-cd59181042adf287db5a0caa6592e4ff][^key-53c63ae23268ed1f6401e0aab9dfc025]
+## 51. Crown application[^c-cd59181042adf287db5a0caa6592e4ff][^c-53c63ae23268ed1f6401e0aab9dfc025]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 (5) Each government department and other body performing functions on behalf of the Crown—
 
 - (a) if the department or body engages in regulated activity, is the regulated activity provider in relation to the activity;
-- (b)[^key-a05cb3b31d05cfbee3f0ac1378a8f041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a05cb3b31d05cfbee3f0ac1378a8f041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In subsection (5) “**body**” includes office-holder.
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cd59181042adf287db5a0caa6592e4ff]: Commencement: S. 51 in force at 11.2.2008 for specified purposes by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 4(k)](https://www.legislation.gov.uk/uksi/2007/3545/article/4/k)
+[^c-cd59181042adf287db5a0caa6592e4ff]: Commencement: S. 51 in force at 11.2.2008 for specified purposes by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 4(k)](https://www.legislation.gov.uk/uksi/2007/3545/article/4/k)
 
-[^key-53c63ae23268ed1f6401e0aab9dfc025]: Commencement: S. 51 in force at 12.10.2009 in so far as not already in force by [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule)
+[^c-53c63ae23268ed1f6401e0aab9dfc025]: Commencement: S. 51 in force at 12.10.2009 in so far as not already in force by [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule)
 
-[^key-a05cb3b31d05cfbee3f0ac1378a8f041]: Textual amendment: [S. 51(5)(b)](https://www.legislation.gov.uk/ukpga/2006/47/section/51/5/b) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/66), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)[(ii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/ii)
+[^c-a05cb3b31d05cfbee3f0ac1378a8f041]: Textual amendment: [S. 51(5)(b)](https://www.legislation.gov.uk/ukpga/2006/47/section/51/5/b) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/66), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)[(ii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/ii)

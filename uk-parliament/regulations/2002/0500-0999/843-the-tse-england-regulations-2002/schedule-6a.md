@@ -16,92 +16,92 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6A — Enforcement of Annex VII to the Community TSE Regulation[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+## SCHEDULE 6A — Enforcement of Annex VII to the Community TSE Regulation[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### PART I[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+### PART I[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
-#### 1. Competent authority[^key-ecc59272cd32d39f2a51cf2f544cfb64]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Confirmation of TSE in sheep[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 1. Competent authority[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Confirmation of TSE in goats[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 2. Confirmation of TSE in sheep[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Infected animals from another holding[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 3. Confirmation of TSE in goats[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Common grazing[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 4. Infected animals from another holding[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Confirmation of BSE in sheep or goats[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 5. Common grazing[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Time for appeals[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 6. Confirmation of BSE in sheep or goats[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Subsequent occupiers[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 7. Time for appeals[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — MOVEMENT OF ANIMALS[^key-ecc59272cd32d39f2a51cf2f544cfb64]
-
-#### 9. Scope[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 8. Subsequent occupiers[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Introduction of animals on to a holding[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+### PART II — MOVEMENT OF ANIMALS[^c-ecc59272cd32d39f2a51cf2f544cfb64]
+
+#### 9. Scope[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Use of ovine germinal products[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 10. Introduction of animals on to a holding[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Movement of animals from a holding[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 11. Use of ovine germinal products[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Time of movement restrictions[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 12. Movement of animals from a holding[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Derogations[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 13. Time of movement restrictions[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — APPEALS[^key-ecc59272cd32d39f2a51cf2f544cfb64]
-
-#### 15. Notices[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 14. Derogations[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Appeals[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+### PART III — APPEALS[^c-ecc59272cd32d39f2a51cf2f544cfb64]
+
+#### 15. Notices[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — COMPENSATION[^key-ecc59272cd32d39f2a51cf2f544cfb64]
-
-#### 17. Compensation[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+#### 16. Appeals[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — OFFENCES[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+### PART IV — COMPENSATION[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
-**18.**[^key-ecc59272cd32d39f2a51cf2f544cfb64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 17. Compensation[^c-ecc59272cd32d39f2a51cf2f544cfb64]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART V — OFFENCES[^c-ecc59272cd32d39f2a51cf2f544cfb64]
+
+**18.**[^c-ecc59272cd32d39f2a51cf2f544cfb64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ecc59272cd32d39f2a51cf2f544cfb64]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)
+[^c-ecc59272cd32d39f2a51cf2f544cfb64]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)

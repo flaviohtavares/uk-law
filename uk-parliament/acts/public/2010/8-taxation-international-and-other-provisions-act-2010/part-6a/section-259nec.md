@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259NEC. Release of debts[^M_F_85993b09-03ad-4495-a6b9-d6847cdfe6cf][^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259NEC. Release of debts[^M_F_85993b09-03ad-4495-a6b9-d6847cdfe6cf][^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) a payee meets one of the insolvency conditions (see subsection (8)), and
 - (b) the debtor relationship is not a connected companies relationship.
 
-(6) Condition D is that the release is in consequence of the making of a mandatory reduction instrument or a third country instrument or the exercise of a stabilisation power under Part 1 of the Banking Act 2009 or the exercise of a third-country instrument or a stabilisation power under Schedule 11 to the Financial Services and Markets Act 2023[^key-f766855192d7513c7a5d164bc4c7e54e].
+(6) Condition D is that the release is in consequence of the making of a mandatory reduction instrument or a third country instrument or the exercise of a stabilisation power under Part 1 of the Banking Act 2009 or the exercise of a third-country instrument or a stabilisation power under Schedule 11 to the Financial Services and Markets Act 2023[^c-f766855192d7513c7a5d164bc4c7e54e].
 
 (7) Condition E is that—
 
@@ -60,6 +60,6 @@ summary: ''
 
 [^M_F_85993b09-03ad-4495-a6b9-d6847cdfe6cf]: Textual amendment: Ss. 259NEB-259NEF and cross-heading inserted (retrospectively) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 paras. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/5), [36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/36)
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-f766855192d7513c7a5d164bc4c7e54e]: Textual amendment: Words in [s. 259NEC(6)](https://www.legislation.gov.uk/ukpga/2010/8/section/259NEC/6) inserted (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1313/regulation/13)
+[^c-f766855192d7513c7a5d164bc4c7e54e]: Textual amendment: Words in [s. 259NEC(6)](https://www.legislation.gov.uk/ukpga/2010/8/section/259NEC/6) inserted (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1313/regulation/13)

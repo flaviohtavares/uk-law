@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Detention in the United Kingdom in pursuance of ICC sentence[^c19677061][^key-2545ad2aa83e4ce3b9ad2e8ee504e047]
+## 42. Detention in the United Kingdom in pursuance of ICC sentence[^c19677061][^c-2545ad2aa83e4ce3b9ad2e8ee504e047]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 [^c19677061]: Modification: [S. 42](https://www.legislation.gov.uk/ukpga/2001/17/section/42) applied (with modifications) (E.W.) (15.8.2007) by [The International Tribunals (Sierra Leone) (Application of Provisions) Order 2007 (S.I. 2007/2140)](https://www.legislation.gov.uk/uksi/2007/2140), [art. 2](https://www.legislation.gov.uk/uksi/2007/2140/article/2)
 
-[^key-2545ad2aa83e4ce3b9ad2e8ee504e047]: Modification: [Ss. 42-48](https://www.legislation.gov.uk/ukpga/2001/17/section/42) applied (with modifications) (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [33(3)](https://www.legislation.gov.uk/uksi/2018/187/article/33/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
+[^c-2545ad2aa83e4ce3b9ad2e8ee504e047]: Modification: [Ss. 42-48](https://www.legislation.gov.uk/ukpga/2001/17/section/42) applied (with modifications) (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [33(3)](https://www.legislation.gov.uk/uksi/2018/187/article/33/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
 
 [^c18072361]: Modification: [S. 42(5)](https://www.legislation.gov.uk/ukpga/2001/17/section/42/5) extended (IoM) (1.4.2004) by [S.I. 2004/714](https://www.legislation.gov.uk/uksi/2004/714), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/714/article/2/b)

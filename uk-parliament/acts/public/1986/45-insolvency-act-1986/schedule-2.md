@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Powers of a Scottish Receiver (Additional to Those Conferred on him by the Instrument of Charge)[^c15587641][^c15587651][^key-768ce6cecd55bbb592f5e9e53e0d25be]
+## SCHEDULE 2 — Powers of a Scottish Receiver (Additional to Those Conferred on him by the Instrument of Charge)[^c15587641][^c15587651][^c-768ce6cecd55bbb592f5e9e53e0d25be]
 
 *Extent: E+W+S*
 
@@ -74,7 +74,7 @@ Section 55.
 
 [^c15587651]: Modification: Sch. 10 modified (S.) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4(2)](https://www.legislation.gov.uk/ssi/2001/128/regulation/4/2), [Sch. 3](https://www.legislation.gov.uk/ssi/2001/128/schedule/3)
 
-[^key-768ce6cecd55bbb592f5e9e53e0d25be]: Modification: [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/45/schedule/2) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-768ce6cecd55bbb592f5e9e53e0d25be]: Modification: [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/45/schedule/2) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
 
 [^c15587661]: Textual amendment: Word in Sch. 2 para. 2 repealed (S.) (28.11.2004) by [2000 asp 5](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [76(2)](https://www.legislation.gov.uk/asp/2000/5/section/76/2), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 

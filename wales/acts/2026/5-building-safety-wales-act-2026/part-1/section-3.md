@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Meaning of “building”[^key-23bc9dbc1c023b5275d6ccc25ad21133]
+## 3. Meaning of “building”[^c-23bc9dbc1c023b5275d6ccc25ad21133]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23bc9dbc1c023b5275d6ccc25ad21133]: Commencement: S. 3 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)
+[^c-23bc9dbc1c023b5275d6ccc25ad21133]: Commencement: S. 3 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)

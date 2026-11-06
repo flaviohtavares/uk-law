@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Expenditure by National Parks authorities[^key-3c56a58a9b458eab3ea99ad0407cbbe9]
+## 62. Expenditure by National Parks authorities[^c-3c56a58a9b458eab3ea99ad0407cbbe9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 11A of the National Parks and Access to the Countryside Act 1949 (c. 
 
 ## Annotations
 
-[^key-3c56a58a9b458eab3ea99ad0407cbbe9]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2006/16/section/62) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-3c56a58a9b458eab3ea99ad0407cbbe9]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2006/16/section/62) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

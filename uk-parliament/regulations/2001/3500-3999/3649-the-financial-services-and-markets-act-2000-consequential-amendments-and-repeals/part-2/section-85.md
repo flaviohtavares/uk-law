@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Power to make provision about certain charges other than market charges[^key-d57f7af485268f07181d5bb32c9d9744]
+## 85. Power to make provision about certain charges other than market charges[^c-d57f7af485268f07181d5bb32c9d9744]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d57f7af485268f07181d5bb32c9d9744]: Commencement: Art. 85 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d57f7af485268f07181d5bb32c9d9744]: Commencement: Art. 85 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00087]: Footnote: The words repealed were substituted by the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11), Schedule 5 paragraph 48(2).
 

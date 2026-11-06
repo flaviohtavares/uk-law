@@ -46,11 +46,11 @@ The Department for Social Development makes the following Regulations in exercis
 
 ## PART 1 — General provisions
 
-### 1. Citation and commencement[^key-2422da7e17fbbd1498b910be3eb79e64]
+### 1. Citation and commencement[^c-2422da7e17fbbd1498b910be3eb79e64]
 
 These Regulations may be cited as the Social Security (Contributions Credits for Parents and Carers) Regulations (Northern Ireland) 2010 and shall come into operation on 6th April 2010.
 
-### 2. Interpretation[^key-d19f033e53c9790c2e1c6b3658b9abb5]
+### 2. Interpretation[^c-d19f033e53c9790c2e1c6b3658b9abb5]
 
 (1) In these Regulations—
 
@@ -58,7 +58,7 @@ These Regulations may be cited as the Social Security (Contributions Credits for
   - (a) resides; and
   - (b) shares responsibility for a child under the age of 12;
 - “relevant benefit” means—
-  - (za) armed forces independence payment in accordance with the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;[^key-2a36d14a194d63adcbb85078a41cf52c]
+  - (za) armed forces independence payment in accordance with the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;[^c-2a36d14a194d63adcbb85078a41cf52c]
   - (a) attendance allowance in accordance with section 64 (entitlement);
   - (b) the care component of disability living allowance in accordance with section 72 (the care component), at the middle or highest rate prescribed in accordance with subsection (3) of that section;
   - (c) an increase in the rate of disablement pension in accordance with section 104 (increase where constant attendance needed);
@@ -70,17 +70,17 @@ These Regulations may be cited as the Social Security (Contributions Credits for
   - (e) a constant attendance allowance payable by virtue of—
     - (i) article 14 of the Personal Injuries (Civilians) Scheme 1983[^f00004] (constant attendance allowance), or
     - (ii) article 8 of the Naval, Military and Air Forces etc. (Disablement and Death) Service Pensions Order 2006[^f00005] (constant attendance allowance).
-  - (f) the daily living component of personal independence payment in accordance with Article 83 of the Welfare Reform (Northern Ireland) Order 2015.[^key-31ae9d962a21b7dbfd7bb9ee357fec46]
+  - (f) the daily living component of personal independence payment in accordance with Article 83 of the Welfare Reform (Northern Ireland) Order 2015.[^c-31ae9d962a21b7dbfd7bb9ee357fec46]
 
 (2) In these Regulations, a reference to a section or Schedule by number alone is a reference to the section or Schedule so numbered in the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
-### 3. Transitional provision[^key-00ed43a7b813f0d2978986198c5a18ce]
+### 3. Transitional provision[^c-00ed43a7b813f0d2978986198c5a18ce]
 
 For the period of 12 weeks from the date on which these Regulations come into operation, regulation 7(1)(a) has effect as if the reference in regulation 7(1) to 12 weeks were a reference to the number of complete weeks since these Regulations came into operation.
 
 ## PART 2 — Meaning of “foster parent” and “engaged in caring”
 
-### 4. Meaning of “foster parent”[^key-86ff31d47ed357205c3e23d730eb87d1]
+### 4. Meaning of “foster parent”[^c-86ff31d47ed357205c3e23d730eb87d1]
 
 (1)[^M_F_e14b6ad6-d320-4b56-e579-81db1bbfbdeb] For the purposes of section 23A(3)(b) (contributions credits for relevant parents and carers), a foster parent is a person approved as—
 
@@ -90,7 +90,7 @@ For the period of 12 weeks from the date on which these Regulations come into op
 
 (2) Paragraph (1) is subject to regulation 8.
 
-### 5. Meaning of “engaged in caring”[^key-7e85f7209207b88e1e84385fb39ee0ef]
+### 5. Meaning of “engaged in caring”[^c-7e85f7209207b88e1e84385fb39ee0ef]
 
 (1) For the purposes of section 23A(3)(c), a person is engaged in caring in a week—
 
@@ -102,7 +102,7 @@ For the period of 12 weeks from the date on which these Regulations come into op
 
 (2) Paragraph (1) is subject to regulations 6 to 8.
 
-### 6. Limit on the period in respect of partners of persons awarded child benefit[^key-2a7536522705892edb0f0907b937cbbe]
+### 6. Limit on the period in respect of partners of persons awarded child benefit[^c-2a7536522705892edb0f0907b937cbbe]
 
 (1) Regulation 5(1)(a) does not apply to any week which falls within a tax year in respect of which the person awarded child benefit satisfies the following condition.
 
@@ -110,17 +110,17 @@ For the period of 12 weeks from the date on which these Regulations come into op
 
 (3) In calculating a person’s earnings factor for the purposes of paragraph (2), no account is to be taken of any earnings factor derived from contributions credited by virtue of that person being a relevant carer due to an award of child benefit.
 
-### 7. Additional period in respect of entitlement to carer’s allowance , carer support payment and relevant benefits[^key-2598881de749f8185a148ed87d14eaab][^key-4f00449cd91aebbf859aef1fb6d66ebe]
+### 7. Additional period in respect of entitlement to carer’s allowance , carer support payment and relevant benefits[^c-2598881de749f8185a148ed87d14eaab][^c-4f00449cd91aebbf859aef1fb6d66ebe]
 
 (1) A person is engaged in caring for a period of 12 weeks—
 
-- (a) prior to the date on which that person becomes entitled to carer’s allowance by virtue of subsection (1) of section 70[^f00009] or[^key-e236f1d49b131ff42f7f3bfe87bd857d] the carer support payment component of carer support given in accordance with[^key-ef13972e14783d878c96cec35a06b071] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
-- (b) subject to paragraph (2), following the end of the week in which that person ceases to be entitled to carer’s allowance by virtue of that subsection or[^key-d1d4e9440247c4b55cc9312247f3c3d9] the carer support payment component of carer support[^key-5e8da269b7b0740fa6344c7b8614c142] by virtue of those Regulations;
+- (a) prior to the date on which that person becomes entitled to carer’s allowance by virtue of subsection (1) of section 70[^f00009] or[^c-e236f1d49b131ff42f7f3bfe87bd857d] the carer support payment component of carer support given in accordance with[^c-ef13972e14783d878c96cec35a06b071] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+- (b) subject to paragraph (2), following the end of the week in which that person ceases to be entitled to carer’s allowance by virtue of that subsection or[^c-d1d4e9440247c4b55cc9312247f3c3d9] the carer support payment component of carer support[^c-5e8da269b7b0740fa6344c7b8614c142] by virtue of those Regulations;
 - (c) following the end of a week in which regulation 5(1)(b) ceases to be satisfied.
 
-(2) For the purposes of paragraph (1)(b), a person is not engaged in caring in a week in respect of which that person is entitled, under regulations made under section 22(5)[^f00010] (earnings factors), to be credited with contributions by virtue of being entitled to an allowance under section 70 or a payment[^key-b35fcf2fd2e09d4c446329b287aec738] of the carer support payment component of carer support[^key-8ab04e014923a02cf2be771491298055] under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023.
+(2) For the purposes of paragraph (1)(b), a person is not engaged in caring in a week in respect of which that person is entitled, under regulations made under section 22(5)[^f00010] (earnings factors), to be credited with contributions by virtue of being entitled to an allowance under section 70 or a payment[^c-b35fcf2fd2e09d4c446329b287aec738] of the carer support payment component of carer support[^c-8ab04e014923a02cf2be771491298055] under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023.
 
-### 8. Disqualification due to residence or imprisonment[^key-fdff778b2953039d59eee9d7f48d4fd5]
+### 8. Disqualification due to residence or imprisonment[^c-fdff778b2953039d59eee9d7f48d4fd5]
 
 A person is not a foster parent or engaged in caring for the purposes of section 23A during any period in respect of which that person is—
 
@@ -129,7 +129,7 @@ A person is not a foster parent or engaged in caring for the purposes of section
 
 ## PART 3 — Applications
 
-### 9. Applications: foster parents and partners of persons awarded child benefit[^key-676f113bd97f812126d8f44c76eb92e8]
+### 9. Applications: foster parents and partners of persons awarded child benefit[^c-676f113bd97f812126d8f44c76eb92e8]
 
 A person shall not be entitled to be credited with Class 3 contributions under—
 
@@ -138,13 +138,13 @@ A person shall not be entitled to be credited with Class 3 contributions under�
 
 unless an application to be so credited is received by the Commissioners for Her Majesty’s Revenue and Customs.
 
-### 10. Applications: carers for 20 or more hours per week[^key-029b489f790e056d1477b5e3688aafaf]
+### 10. Applications: carers for 20 or more hours per week[^c-029b489f790e056d1477b5e3688aafaf]
 
 (1) A person shall not be entitled to be credited with Class 3 contributions under section 23A(3)(c) by virtue of regulation 5(1)(b) unless an application to be so credited is received by the Department.
 
-(2) Paragraph (1) does not apply where that person is a married woman who is not entitled to be credited with contributions under paragraph (1) of regulation 7A of the Social Security (Credits) Regulations (Northern Ireland) 1975[^f00011] (credits for carer’s allowance or carer support payment[^key-8203ffbc10c0b248423e80553a6874f2]) by virtue of paragraph (2)(b) of that regulation (reduced contribution rate election under regulations under section 19(4)).
+(2) Paragraph (1) does not apply where that person is a married woman who is not entitled to be credited with contributions under paragraph (1) of regulation 7A of the Social Security (Credits) Regulations (Northern Ireland) 1975[^f00011] (credits for carer’s allowance or carer support payment[^c-8203ffbc10c0b248423e80553a6874f2]) by virtue of paragraph (2)(b) of that regulation (reduced contribution rate election under regulations under section 19(4)).
 
-### 11. Provision of information: carers for 20 or more hours per week[^key-3538bf8a694c273eda7c3f4a9c9b0cc5]
+### 11. Provision of information: carers for 20 or more hours per week[^c-3538bf8a694c273eda7c3f4a9c9b0cc5]
 
 (1) With respect to an application to which regulation 10(1) applies, the application must include—
 
@@ -158,7 +158,7 @@ unless an application to be so credited is received by the Commissioners for Her
 - (a) involved in the health care or social care of the person cared for; and
 - (b) considered by the Department as appropriate to make a declaration as to the level of care required.
 
-### 12. Time limit for applications[^key-e281af34ce8f23017c9ac2040a47257d]
+### 12. Time limit for applications[^c-e281af34ce8f23017c9ac2040a47257d]
 
 An application under regulation 9 or 10 must be received—
 
@@ -213,11 +213,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-2422da7e17fbbd1498b910be3eb79e64]: Commencement: Reg. 1 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
+[^c-2422da7e17fbbd1498b910be3eb79e64]: Commencement: Reg. 1 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
 
-[^key-d19f033e53c9790c2e1c6b3658b9abb5]: Commencement: Reg. 2 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
+[^c-d19f033e53c9790c2e1c6b3658b9abb5]: Commencement: Reg. 2 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
 
-[^key-2a36d14a194d63adcbb85078a41cf52c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/82/regulation/2/1) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [30(2)](https://www.legislation.gov.uk/uksi/2013/3021/article/30/2)
+[^c-2a36d14a194d63adcbb85078a41cf52c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/82/regulation/2/1) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [30(2)](https://www.legislation.gov.uk/uksi/2013/3021/article/30/2)
 
 [^f00003]: Footnote: [S.I. 1983/136](https://www.legislation.gov.uk/uksi/1983/136)
 
@@ -225,52 +225,52 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00005]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606); article 8 was amended by article 3 of [S.I. 2006/1455](https://www.legislation.gov.uk/uksi/2006/1455) and article 3 of [S.I. 2009/706](https://www.legislation.gov.uk/uksi/2009/706)
 
-[^key-31ae9d962a21b7dbfd7bb9ee357fec46]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/82/regulation/2/1) added (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [38](https://www.legislation.gov.uk/nisr/2016/228/regulation/38)
+[^c-31ae9d962a21b7dbfd7bb9ee357fec46]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/82/regulation/2/1) added (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [38](https://www.legislation.gov.uk/nisr/2016/228/regulation/38)
 
-[^key-00ed43a7b813f0d2978986198c5a18ce]: Commencement: Reg. 3 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
+[^c-00ed43a7b813f0d2978986198c5a18ce]: Commencement: Reg. 3 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
 
-[^key-86ff31d47ed357205c3e23d730eb87d1]: Commencement: Reg. 4 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
+[^c-86ff31d47ed357205c3e23d730eb87d1]: Commencement: Reg. 4 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
 
 [^M_F_e14b6ad6-d320-4b56-e579-81db1bbfbdeb]: Textual amendment: Reg. 4(1) substituted (5.4.2011) by [The National Insurance Contributions Credits (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/107)](https://www.legislation.gov.uk/nisr/2011/107/made), [reg. 3](https://www.legislation.gov.uk/nisr/2011/107/regulation/3/made)
 
-[^key-7e85f7209207b88e1e84385fb39ee0ef]: Commencement: Reg. 5 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
+[^c-7e85f7209207b88e1e84385fb39ee0ef]: Commencement: Reg. 5 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); Schedule 1B was inserted by regulation 22 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199); paragraph 4 was amended by regulation 33 of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358), regulation 4(1) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74), regulation 3(3) of [S.R. 2002 No. 80](https://www.legislation.gov.uk/nisr/2002/80) and paragraph 1(g) of the Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323)
 
-[^key-2a7536522705892edb0f0907b937cbbe]: Commencement: Reg. 6 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
+[^c-2a7536522705892edb0f0907b937cbbe]: Commencement: Reg. 6 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
 
 [^f00008]: Footnote: Section 45 was amended by sections 30(1) and (2) and 33(8) of the [Child Support, Pensions and Social Security Act (Northern Ireland) 2002 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2002/4) and section 9(2) and (3) of the Pensions Act (Northern Ireland) 2008
 
-[^key-2598881de749f8185a148ed87d14eaab]: Commencement: Reg. 7 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
+[^c-2598881de749f8185a148ed87d14eaab]: Commencement: Reg. 7 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
 
-[^key-4f00449cd91aebbf859aef1fb6d66ebe]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2010/82/regulation/7) heading inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [45(2)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/45/2/a)
+[^c-4f00449cd91aebbf859aef1fb6d66ebe]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2010/82/regulation/7) heading inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [45(2)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/45/2/a)
 
 [^f00009]: Footnote: Section 70 was amended by regulation 2(3) of [S.R. 1994 No. 370](https://www.legislation.gov.uk/nisr/1994/370) and Articles 2(2)(a)(iii) and 3 of [S.R. 2002 No. 321](https://www.legislation.gov.uk/nisr/2002/321)
 
-[^key-e236f1d49b131ff42f7f3bfe87bd857d]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/nisr/2010/82/regulation/7/1/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [45(2)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/45/2/b)
+[^c-e236f1d49b131ff42f7f3bfe87bd857d]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/nisr/2010/82/regulation/7/1/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [45(2)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/45/2/b)
 
-[^key-ef13972e14783d878c96cec35a06b071]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/nisr/2010/82/regulation/7/1/a) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [49(2)(a)](https://www.legislation.gov.uk/uksi/2026/246/article/49/2/a)
+[^c-ef13972e14783d878c96cec35a06b071]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/nisr/2010/82/regulation/7/1/a) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [49(2)(a)](https://www.legislation.gov.uk/uksi/2026/246/article/49/2/a)
 
-[^key-d1d4e9440247c4b55cc9312247f3c3d9]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/nisr/2010/82/regulation/7/1/b) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [45(2)(c)](https://www.legislation.gov.uk/uksi/2023/1218/article/45/2/c)
+[^c-d1d4e9440247c4b55cc9312247f3c3d9]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/nisr/2010/82/regulation/7/1/b) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [45(2)(c)](https://www.legislation.gov.uk/uksi/2023/1218/article/45/2/c)
 
-[^key-5e8da269b7b0740fa6344c7b8614c142]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/nisr/2010/82/regulation/7/1/b) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [49(2)(b)](https://www.legislation.gov.uk/uksi/2026/246/article/49/2/b)
+[^c-5e8da269b7b0740fa6344c7b8614c142]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/nisr/2010/82/regulation/7/1/b) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [49(2)(b)](https://www.legislation.gov.uk/uksi/2026/246/article/49/2/b)
 
 [^f00010]: Footnote: Section 22(5) was amended by paragraph 5 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 ([S.I. 1995/2705 N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)) and paragraph 3(3)(b) of Schedule 3 to the [Welfare Reform Act (Northern Ireland) 2007 (c. 2 (N.I.))](https://www.legislation.gov.uk/nia/2007/2)
 
-[^key-b35fcf2fd2e09d4c446329b287aec738]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2010/82/regulation/7/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [45(2)(d)](https://www.legislation.gov.uk/uksi/2023/1218/article/45/2/d)
+[^c-b35fcf2fd2e09d4c446329b287aec738]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2010/82/regulation/7/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [45(2)(d)](https://www.legislation.gov.uk/uksi/2023/1218/article/45/2/d)
 
-[^key-8ab04e014923a02cf2be771491298055]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2010/82/regulation/7/2) inserted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [49(2)(c)](https://www.legislation.gov.uk/uksi/2026/246/article/49/2/c)
+[^c-8ab04e014923a02cf2be771491298055]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2010/82/regulation/7/2) inserted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [49(2)(c)](https://www.legislation.gov.uk/uksi/2026/246/article/49/2/c)
 
-[^key-fdff778b2953039d59eee9d7f48d4fd5]: Commencement: Reg. 8 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
+[^c-fdff778b2953039d59eee9d7f48d4fd5]: Commencement: Reg. 8 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
 
-[^key-676f113bd97f812126d8f44c76eb92e8]: Commencement: Reg. 9 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
+[^c-676f113bd97f812126d8f44c76eb92e8]: Commencement: Reg. 9 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
 
-[^key-029b489f790e056d1477b5e3688aafaf]: Commencement: Reg. 10 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
+[^c-029b489f790e056d1477b5e3688aafaf]: Commencement: Reg. 10 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
 
 [^f00011]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); regulation 7A was inserted by regulation 19 of [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99) and amended by regulation 2(2) of [S.R. 1978 No. 77](https://www.legislation.gov.uk/nisr/1978/77), regulation 6 of [S.R. 1987 No. 153](https://www.legislation.gov.uk/nisr/1987/153), regulation 2(5)(c) of [S.R. 1988 No. 326](https://www.legislation.gov.uk/nisr/1988/326), regulation 2(4) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430), regulation 3(5)(b) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), regulation 2(3) of [S.R. 2002 No. 80](https://www.legislation.gov.uk/nisr/2002/80), paragraph 1(a) of the Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323) and paragraph 4(2) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536)
 
-[^key-8203ffbc10c0b248423e80553a6874f2]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2010/82/regulation/10/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [45(3)](https://www.legislation.gov.uk/uksi/2023/1218/article/45/3)
+[^c-8203ffbc10c0b248423e80553a6874f2]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/nisr/2010/82/regulation/10/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [45(3)](https://www.legislation.gov.uk/uksi/2023/1218/article/45/3)
 
-[^key-3538bf8a694c273eda7c3f4a9c9b0cc5]: Commencement: Reg. 11 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
+[^c-3538bf8a694c273eda7c3f4a9c9b0cc5]: Commencement: Reg. 11 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
 
-[^key-e281af34ce8f23017c9ac2040a47257d]: Commencement: Reg. 12 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)
+[^c-e281af34ce8f23017c9ac2040a47257d]: Commencement: Reg. 12 in operation at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/82/regulation/1)

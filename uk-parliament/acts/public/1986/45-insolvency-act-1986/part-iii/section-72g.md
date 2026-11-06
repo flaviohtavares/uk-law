@@ -23,7 +23,7 @@ summary: ''
 Section 72A does not prevent the appointment of an administrative receiver of a company which is —[^c21414071]
 
 - (a) a private registered provider of social housing, or
-- (b) registered as a social landlord under Part I of the Housing Act 1996 (c. 52) or under Part 2 of the Housing (Scotland) Act[^key-6690b4a865a4ff0f54e55b17b9ae0128] [2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17).
+- (b) registered as a social landlord under Part I of the Housing Act 1996 (c. 52) or under Part 2 of the Housing (Scotland) Act[^c-6690b4a865a4ff0f54e55b17b9ae0128] [2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17).
 
 ## Annotations
 
@@ -33,4 +33,4 @@ Section 72A does not prevent the appointment of an administrative receiver of a 
 
 [^c21414071]: Textual amendment: Words in s. 72G inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 5](https://www.legislation.gov.uk/uksi/2010/866/article/5), [Sch. 2 para. 61(2)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/61/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
-[^key-6690b4a865a4ff0f54e55b17b9ae0128]: Textual amendment: Words in s. 72G(b) substituted (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/3)
+[^c-6690b4a865a4ff0f54e55b17b9ae0128]: Textual amendment: Words in s. 72G(b) substituted (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/3)

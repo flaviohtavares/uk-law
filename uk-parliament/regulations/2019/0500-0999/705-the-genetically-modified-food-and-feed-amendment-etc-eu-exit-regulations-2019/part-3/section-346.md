@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 346.[^key-4c9f82484f70a73f9d36ae1365d329fe][^key-c5e1204dd64a7cffce4ddfa309848699]
+## 346.[^c-4c9f82484f70a73f9d36ae1365d329fe][^c-c5e1204dd64a7cffce4ddfa309848699]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ In the Annex—
 
 ## Annotations
 
-[^key-4c9f82484f70a73f9d36ae1365d329fe]: Commencement: Reg. 346 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4c9f82484f70a73f9d36ae1365d329fe]: Commencement: Reg. 346 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c5e1204dd64a7cffce4ddfa309848699]: Textual amendment: Reg. 346 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(20)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/20)
+[^c-c5e1204dd64a7cffce4ddfa309848699]: Textual amendment: Reg. 346 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(20)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/20)

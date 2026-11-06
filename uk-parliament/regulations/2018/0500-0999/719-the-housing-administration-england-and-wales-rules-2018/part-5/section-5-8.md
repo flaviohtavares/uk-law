@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.8. Appeal against decision on proof[^key-f740a09e023ab094f9c5372131dbe6cb]
+## 5.8. Appeal against decision on proof[^c-f740a09e023ab094f9c5372131dbe6cb]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f740a09e023ab094f9c5372131dbe6cb]: Commencement: Rule 5.8 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-f740a09e023ab094f9c5372131dbe6cb]: Commencement: Rule 5.8 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

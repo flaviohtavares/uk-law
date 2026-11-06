@@ -33,10 +33,10 @@ Regulation 4
 </tbody>
 </table>
 
-[^key-0e4a87c0c4e8ad57afcd430c13304428][^key-42c1bd1a7e253d64360f87162a811634]
+[^c-0e4a87c0c4e8ad57afcd430c13304428][^c-42c1bd1a7e253d64360f87162a811634]
 
 ## Annotations
 
-[^key-0e4a87c0c4e8ad57afcd430c13304428]: Textual amendment: Words in Sch. 1 substituted (15.12.2017) by [The Seed (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/1095)](https://www.legislation.gov.uk/wsi/2017/1095), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/1095/regulation/1/1), [2](https://www.legislation.gov.uk/wsi/2017/1095/regulation/2)
+[^c-0e4a87c0c4e8ad57afcd430c13304428]: Textual amendment: Words in Sch. 1 substituted (15.12.2017) by [The Seed (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/1095)](https://www.legislation.gov.uk/wsi/2017/1095), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/1095/regulation/1/1), [2](https://www.legislation.gov.uk/wsi/2017/1095/regulation/2)
 
-[^key-42c1bd1a7e253d64360f87162a811634]: Textual amendment: Words in Sch. 1 substituted (10.7.2020) by [The Vegetable Plant Material and Seed (Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/601)](https://www.legislation.gov.uk/wsi/2020/601), [regs. 1](https://www.legislation.gov.uk/wsi/2020/601/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2020/601/regulation/3/2)
+[^c-42c1bd1a7e253d64360f87162a811634]: Textual amendment: Words in Sch. 1 substituted (10.7.2020) by [The Vegetable Plant Material and Seed (Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/601)](https://www.legislation.gov.uk/wsi/2020/601), [regs. 1](https://www.legislation.gov.uk/wsi/2020/601/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2020/601/regulation/3/2)

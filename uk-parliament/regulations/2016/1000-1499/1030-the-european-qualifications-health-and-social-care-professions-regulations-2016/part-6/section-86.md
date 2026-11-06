@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Introductory[^key-be9d10f88de29bc32f8a7d13c74667a6]
+## 86. Introductory[^c-be9d10f88de29bc32f8a7d13c74667a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Opticians Act 1989[^f00067] is amended in accordance with this Chapter.
 
 ## Annotations
 
-[^key-be9d10f88de29bc32f8a7d13c74667a6]: Commencement: Reg. 86 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-be9d10f88de29bc32f8a7d13c74667a6]: Commencement: Reg. 86 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00067]: Footnote: c. 44.

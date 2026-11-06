@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Supplementary provisions as to dividend[^key-13419be9cb0a21e6d337ac0436fed80a]
+## 41. Supplementary provisions as to dividend[^c-13419be9cb0a21e6d337ac0436fed80a]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13419be9cb0a21e6d337ac0436fed80a]: Commencement: [Rule 41](https://www.legislation.gov.uk/uksi/2013/3208/rule/41) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-13419be9cb0a21e6d337ac0436fed80a]: Commencement: [Rule 41](https://www.legislation.gov.uk/uksi/2013/3208/rule/41) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
 
 [^f00011]: Footnote: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110), as amended by the Civil Procedure Acts Repeal Act 1879, section 2, Schedule 1, Part 1, the Statute Law Revision (No. 2) Act 1888, [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564), article 2, [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940), article 3(a),(b) and (c).

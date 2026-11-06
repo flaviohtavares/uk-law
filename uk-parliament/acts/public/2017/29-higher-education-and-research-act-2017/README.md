@@ -38,19 +38,19 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Contents
 
-### PART A1 — Protection of Freedom of Speech[^key-533bb55b30788a9212ac7dbb0b6c79ab]
+### PART A1 — Protection of Freedom of Speech[^c-533bb55b30788a9212ac7dbb0b6c79ab]
 
-#### Duties of registered higher education providers[^key-533bb55b30788a9212ac7dbb0b6c79ab]
+#### Duties of registered higher education providers[^c-533bb55b30788a9212ac7dbb0b6c79ab]
 
 - [Section A1 — Duty to take steps to secure freedom of speech](part-a1/section-a1.md)
 - [Section A2 — Code of practice](part-a1/section-a2.md)
 - [Section A3 — Duty to promote the importance of freedom of speech and academic freedom](part-a1/section-a3.md)
 
-#### Duties of constituent institutions[^key-8bda631822805cb33c30e65002813dcf]
+#### Duties of constituent institutions[^c-8bda631822805cb33c30e65002813dcf]
 
 - [Section A4 — Duties of constituent institutions](part-a1/section-a4.md)
 
-#### Duties of students’ unions[^key-748b03e9e8d57c602018a59a4123e965]
+#### Duties of students’ unions[^c-748b03e9e8d57c602018a59a4123e965]
 
 - [Section A5 — Duty to take steps to secure freedom of speech](part-a1/section-a5.md)
 - [Section A6 — Code of practice](part-a1/section-a6.md)
@@ -202,12 +202,12 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 66 — Designated body](part-1/section-66.md)
 - [Section 67 — Power of designated body to charge fees](part-1/section-67.md)
 
-#### Publication[^key-11f054ec1e801205d6f431dffef58e3d]
+#### Publication[^c-11f054ec1e801205d6f431dffef58e3d]
 
 - [Section 67A — Power for the OfS to publish notices, decisions and reports](part-1/section-67a.md)
 - [Section 67B — Publication of decision to conduct or terminate investigation](part-1/section-67b.md)
 
-#### Defamation[^key-11f054ec1e801205d6f431dffef58e3d]
+#### Defamation[^c-11f054ec1e801205d6f431dffef58e3d]
 
 - [Section 67C — Protection from defamation claims](part-1/section-67c.md)
 
@@ -223,7 +223,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 69 — Studies for improving economy, efficiency and effectiveness](part-1/section-69.md)
 
-#### Freedom of speech[^key-09246f8afee4be504a58564ca7d69b6a]
+#### Freedom of speech[^c-09246f8afee4be504a58564ca7d69b6a]
 
 - [Section 69A — General functions relating to freedom of speech and academic freedom](part-1/section-69a.md)
 - [Section 69B — Functions of the OfS in relation to students’ unions](part-1/section-69b.md)
@@ -377,12 +377,12 @@ SCHEDULES
 
 ## Annotations
 
-[^key-533bb55b30788a9212ac7dbb0b6c79ab]: Textual amendment: [Pt. A1](https://www.legislation.gov.uk/ukpga/2017/29/part/A1) inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 1](https://www.legislation.gov.uk/ukpga/2023/16/section/1), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/a)
+[^c-533bb55b30788a9212ac7dbb0b6c79ab]: Textual amendment: [Pt. A1](https://www.legislation.gov.uk/ukpga/2017/29/part/A1) inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 1](https://www.legislation.gov.uk/ukpga/2023/16/section/1), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/a)
 
-[^key-8bda631822805cb33c30e65002813dcf]: Textual amendment: [S. A4](https://www.legislation.gov.uk/ukpga/2017/29/section/A4) and cross-heading inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 2](https://www.legislation.gov.uk/ukpga/2023/16/section/2), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/b)
+[^c-8bda631822805cb33c30e65002813dcf]: Textual amendment: [S. A4](https://www.legislation.gov.uk/ukpga/2017/29/section/A4) and cross-heading inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 2](https://www.legislation.gov.uk/ukpga/2023/16/section/2), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/b)
 
-[^key-748b03e9e8d57c602018a59a4123e965]: Textual amendment: [Ss. A5](https://www.legislation.gov.uk/ukpga/2017/29/section/A5), [A6](https://www.legislation.gov.uk/ukpga/2017/29/section/A6) and cross-heading inserted (1.8.2025 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/16/section/3), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/c)
+[^c-748b03e9e8d57c602018a59a4123e965]: Textual amendment: [Ss. A5](https://www.legislation.gov.uk/ukpga/2017/29/section/A5), [A6](https://www.legislation.gov.uk/ukpga/2017/29/section/A6) and cross-heading inserted (1.8.2025 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/16/section/3), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/c)
 
-[^key-11f054ec1e801205d6f431dffef58e3d]: Textual amendment: Ss. 67A-67C and cross-headings inserted (28.6.2022) by Skills and Post-16 [Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 33](https://www.legislation.gov.uk/ukpga/2022/21/section/33), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-11f054ec1e801205d6f431dffef58e3d]: Textual amendment: Ss. 67A-67C and cross-headings inserted (28.6.2022) by Skills and Post-16 [Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 33](https://www.legislation.gov.uk/ukpga/2022/21/section/33), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-09246f8afee4be504a58564ca7d69b6a]: Textual amendment: [S. 69A](https://www.legislation.gov.uk/ukpga/2017/29/section/69A) and cross-heading inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2023/16/section/5/2), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/d)
+[^c-09246f8afee4be504a58564ca7d69b6a]: Textual amendment: [S. 69A](https://www.legislation.gov.uk/ukpga/2017/29/section/69A) and cross-heading inserted (1.8.2025) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2023/16/section/5/2), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/d)

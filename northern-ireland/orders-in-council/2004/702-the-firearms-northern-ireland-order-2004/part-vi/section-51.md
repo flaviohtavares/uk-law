@@ -22,10 +22,10 @@ summary: ''
 
 (1) A constable or member of the police support staff authorised in that behalf by the Chief Constable may on producing his authority if required to do so—
 
-- (a) enter any premises occupied or used by a firearms club or a shotgun club[^key-5e4d4bb8a145b5c0c382e13f71801727] ; and
+- (a) enter any premises occupied or used by a firearms club or a shotgun club[^c-5e4d4bb8a145b5c0c382e13f71801727] ; and
 - (b) inspect the premises and anything on them,
 
-for the purpose of ascertaining whether the conditions of any authorisation granted under Article 49 or 50A[^key-7cf48adb8e8a93461627a5b051ca4afa] are being complied with.
+for the purpose of ascertaining whether the conditions of any authorisation granted under Article 49 or 50A[^c-7cf48adb8e8a93461627a5b051ca4afa] are being complied with.
 
 (2) Any person who intentionally obstructs a constable or a member of the police support staff in the exercise of his powers under this Article shall be guilty of an offence.
 
@@ -33,6 +33,6 @@ for the purpose of ascertaining whether the conditions of any authorisation gran
 
 ## Annotations
 
-[^key-5e4d4bb8a145b5c0c382e13f71801727]: Textual amendment: Words in [art. 51(1)(a)](https://www.legislation.gov.uk/nisi/2004/702/article/51/1/a) inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(6)(a)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/6/a)
+[^c-5e4d4bb8a145b5c0c382e13f71801727]: Textual amendment: Words in [art. 51(1)(a)](https://www.legislation.gov.uk/nisi/2004/702/article/51/1/a) inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(6)(a)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/6/a)
 
-[^key-7cf48adb8e8a93461627a5b051ca4afa]: Textual amendment: Words in [art. 51(1)](https://www.legislation.gov.uk/nisi/2004/702/article/51/1) inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(6)(b)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/6/b)
+[^c-7cf48adb8e8a93461627a5b051ca4afa]: Textual amendment: Words in [art. 51(1)](https://www.legislation.gov.uk/nisi/2004/702/article/51/1) inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(6)(b)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/6/b)

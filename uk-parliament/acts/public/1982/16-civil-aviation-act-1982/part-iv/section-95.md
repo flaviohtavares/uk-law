@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Provisions as to evidence in connection with aircraft.[^key-e98ab027303347029239eb98d9228514]
+## 95. Provisions as to evidence in connection with aircraft.[^c-e98ab027303347029239eb98d9228514]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ and subsections (4) and (5) of section 92 above shall apply for the purposes of 
 
 ## Annotations
 
-[^key-e98ab027303347029239eb98d9228514]: Modification: [S. 95](https://www.legislation.gov.uk/ukpga/1982/16/section/95): power to apply conferred (with modifications) (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 52(2)(b)](https://www.legislation.gov.uk/ukpga/2018/5/section/52/2/b), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ss)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ss)
+[^c-e98ab027303347029239eb98d9228514]: Modification: [S. 95](https://www.legislation.gov.uk/ukpga/1982/16/section/95): power to apply conferred (with modifications) (26.11.2018) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 52(2)(b)](https://www.legislation.gov.uk/ukpga/2018/5/section/52/2/b), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(ss)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/ss)
 
 [^c2542741]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 

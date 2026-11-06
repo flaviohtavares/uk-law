@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Orders for regular deductions from accounts[^M_C_4110c32e-7982-43f4-d990-070b0cd06a2f][^key-e50a3526c0cb61d89517e59621a99e95]
+## 32A. Orders for regular deductions from accounts[^M_C_4110c32e-7982-43f4-d990-070b0cd06a2f][^c-e50a3526c0cb61d89517e59621a99e95]
 
 *Extent: E+W+S*
 
-(1) If in relation to any person it appears to the Secretary of State[^key-1b91c3f30a590bfbeb280fc04d70e108]—
+(1) If in relation to any person it appears to the Secretary of State[^c-1b91c3f30a590bfbeb280fc04d70e108]—
 
 - (a) that the person has failed to pay an amount of child support maintenance; and
 - (b) that the person holds an account with a deposit-taker;
@@ -33,7 +33,7 @@ the Secretary of State may make an order against that person to secure the payme
 - (b) amounts of child support maintenance which will become payable under the calculation; or
 - (c) both such arrears and such future amounts.
 
-(3) An order under this section may be made in respect of amounts due under a maintenance calculation which is the subject of an appeal only if it appears to the Secretary of State[^key-e5f2ed1b98c1aba1e20d80b86825798e]—
+(3) An order under this section may be made in respect of amounts due under a maintenance calculation which is the subject of an appeal only if it appears to the Secretary of State[^c-e5f2ed1b98c1aba1e20d80b86825798e]—
 
 - (a) that liability for the amounts would not be affected were the appeal to succeed; or
 - (b) where paragraph (a) does not apply, that the making of an order under this section in respect of the amounts would nonetheless be fair in all the circumstances.
@@ -52,9 +52,9 @@ the Secretary of State may make an order against that person to secure the payme
 (6) An order under this section shall operate as an instruction to the deposit-taker at which it is directed to—
 
 - (a) make deductions from the amount (if any) standing to the credit of the account specified in the order; and
-- (b) pay the amount deducted to the Secretary of State[^key-cc811532405f919a56e330bbfebe4368].
+- (b) pay the amount deducted to the Secretary of State[^c-cc811532405f919a56e330bbfebe4368].
 
-(7) The Secretary of State[^key-969a9fd5d97670884ab31455733330c7] shall serve a copy of any order made under this section on—
+(7) The Secretary of State[^c-969a9fd5d97670884ab31455733330c7] shall serve a copy of any order made under this section on—
 
 - (a) the deposit-taker at which it is directed;
 - (b) the person against whom it is made; and
@@ -73,12 +73,12 @@ it shall be the duty of that deposit-taker to comply with the order; but the dep
 
 [^M_C_4110c32e-7982-43f4-d990-070b0cd06a2f]: Modification: S. 32A modified (10.6.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 59(4)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/4)[(5)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/5); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(6)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/6)
 
-[^key-e50a3526c0cb61d89517e59621a99e95]: Textual amendment: [Ss. 32A-32D](https://www.legislation.gov.uk/ukpga/1991/48/section/32A) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 22](https://www.legislation.gov.uk/ukpga/2008/6/section/22), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/1/a)
+[^c-e50a3526c0cb61d89517e59621a99e95]: Textual amendment: [Ss. 32A-32D](https://www.legislation.gov.uk/ukpga/1991/48/section/32A) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 22](https://www.legislation.gov.uk/ukpga/2008/6/section/22), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/1/a)
 
-[^key-1b91c3f30a590bfbeb280fc04d70e108]: Textual amendment: Words in s. 32A(1) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 34(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/34/a)
+[^c-1b91c3f30a590bfbeb280fc04d70e108]: Textual amendment: Words in s. 32A(1) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 34(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/34/a)
 
-[^key-e5f2ed1b98c1aba1e20d80b86825798e]: Textual amendment: Words in s. 32A(3) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 34(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/34/b)
+[^c-e5f2ed1b98c1aba1e20d80b86825798e]: Textual amendment: Words in s. 32A(3) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 34(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/34/b)
 
-[^key-cc811532405f919a56e330bbfebe4368]: Textual amendment: Words in s. 32A(6)(b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 34(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/34/b)
+[^c-cc811532405f919a56e330bbfebe4368]: Textual amendment: Words in s. 32A(6)(b) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 34(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/34/b)
 
-[^key-969a9fd5d97670884ab31455733330c7]: Textual amendment: Words in s. 32A(7) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 34(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/34/b)
+[^c-969a9fd5d97670884ab31455733330c7]: Textual amendment: Words in s. 32A(7) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 34(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/34/b)

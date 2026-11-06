@@ -50,13 +50,13 @@ The Secretary of State, in exercise of the powers conferred by article 3 of the 
 
 The Secretary of State has consulted such persons in the United Kingdom as the Secretary of State considers will be affected by the exercise of powers in this instrument in accordance with section 86(4) of the Merchant Shipping Act 1995.
 
-## 1. Citation, commencement and extent[^key-0d5e98207a0993e258de256b08623962]
+## 1. Citation, commencement and extent[^c-0d5e98207a0993e258de256b08623962]
 
 (1) These Regulations may be cited as the Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 and come into force on 27th December 2022.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendment of the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^key-ef599232e2e4512cda7bca29619377f2]
+## 2. Amendment of the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^c-ef599232e2e4512cda7bca29619377f2]
 
 (1) The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^f00005] are amended as follows.
 
@@ -95,7 +95,7 @@ The Secretary of State has consulted such persons in the United Kingdom as the S
 
   .
 
-## 3. Amendment of the Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020[^key-ce96dd4088a00ed2b343a71787ad474b]
+## 3. Amendment of the Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020[^c-ce96dd4088a00ed2b343a71787ad474b]
 
 (1) The Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020[^f00006] are amended as follows.
 
@@ -151,7 +151,7 @@ The Secretary of State has consulted such persons in the United Kingdom as the S
 
 (5) In regulation 19(2) (extension of periods of validity of Sewage Certificates by a surveyor), for “the Appendix” substitute “appendix I to Annex IV”.
 
-## 4. Amendment of the Merchant Shipping (Fees) Regulations 2018[^key-adeb1c11e953f1c0e3b33560515cce6a]
+## 4. Amendment of the Merchant Shipping (Fees) Regulations 2018[^c-adeb1c11e953f1c0e3b33560515cce6a]
 
 (1) The Merchant Shipping (Fees) Regulations 2018[^f00007] are amended as follows.
 
@@ -204,16 +204,16 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00004]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29(2) and Schedule 7. Section 85 was amended by the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), section 2(3). Section 128 was amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 29, Schedule 6, paragraph 3(3) and Schedule 7, Part I, and the Merchant Shipping (Pollution) Act [2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), section 2. Section 306A was inserted by the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), section 106. There are other amendments to the Act but none is relevant.
 
-[^key-0d5e98207a0993e258de256b08623962]: Commencement: Reg. 1 in force at 27.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1)
+[^c-0d5e98207a0993e258de256b08623962]: Commencement: Reg. 1 in force at 27.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1)
 
-[^key-ef599232e2e4512cda7bca29619377f2]: Commencement: Reg. 2 in force at 27.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1)
+[^c-ef599232e2e4512cda7bca29619377f2]: Commencement: Reg. 2 in force at 27.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2019/42](https://www.legislation.gov.uk/uksi/2019/42), amended by [S.I. 2021/818](https://www.legislation.gov.uk/uksi/2021/818).
 
-[^key-ce96dd4088a00ed2b343a71787ad474b]: Commencement: Reg. 3 in force at 27.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1)
+[^c-ce96dd4088a00ed2b343a71787ad474b]: Commencement: Reg. 3 in force at 27.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2020/620](https://www.legislation.gov.uk/uksi/2020/620).
 
-[^key-adeb1c11e953f1c0e3b33560515cce6a]: Commencement: Reg. 4 in force at 27.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1)
+[^c-adeb1c11e953f1c0e3b33560515cce6a]: Commencement: Reg. 4 in force at 27.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104). There are amending instruments but none is relevant.

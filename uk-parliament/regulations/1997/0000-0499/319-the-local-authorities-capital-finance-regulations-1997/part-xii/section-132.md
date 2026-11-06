@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Percentage of the housing amount and non-housing amount[^key-41f64e0fae8a6ba8c856ddf6636db88b]
+## 132. Percentage of the housing amount and non-housing amount[^c-41f64e0fae8a6ba8c856ddf6636db88b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41f64e0fae8a6ba8c856ddf6636db88b]: Commencement: Reg. 132 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-41f64e0fae8a6ba8c856ddf6636db88b]: Commencement: Reg. 132 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -32,7 +32,7 @@ summary: ''
 
 Consumer Protection
 
-The Enterprise Act 2002 (Part 8 Community Infringements and Specified UK Laws) (Amendment) Order 2015 (revoked)[^key-dfd2675c794ff225a51f316cd3428f69]
+The Enterprise Act 2002 (Part 8 Community Infringements and Specified UK Laws) (Amendment) Order 2015 (revoked)[^c-dfd2675c794ff225a51f316cd3428f69]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st October 2015
 
-[^key-dfd2675c794ff225a51f316cd3428f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dfd2675c794ff225a51f316cd3428f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dfd2675c794ff225a51f316cd3428f69]
+## 1. Citation and commencement[^c-dfd2675c794ff225a51f316cd3428f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-dfd2675c794ff225a51f316cd3428f69]
+## 2. Amendments[^c-dfd2675c794ff225a51f316cd3428f69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-dfd2675c794ff225a51f316cd3428f69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-dfd2675c794ff225a51f316cd3428f69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dfd2675c794ff225a51f316cd3428f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dfd2675c794ff225a51f316cd3428f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dfd2675c794ff225a51f316cd3428f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dfd2675c794ff225a51f316cd3428f69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dfd2675c794ff225a51f316cd3428f69]: Textual amendment: Order revoked (31.12.2020) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/203)](https://www.legislation.gov.uk/uksi/2019/203), [regs. 1](https://www.legislation.gov.uk/uksi/2019/203/regulation/1), [7(e)](https://www.legislation.gov.uk/uksi/2019/203/regulation/7/e) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/203/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dfd2675c794ff225a51f316cd3428f69]: Textual amendment: Order revoked (31.12.2020) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/203)](https://www.legislation.gov.uk/uksi/2019/203), [regs. 1](https://www.legislation.gov.uk/uksi/2019/203/regulation/1), [7(e)](https://www.legislation.gov.uk/uksi/2019/203/regulation/7/e) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/203/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

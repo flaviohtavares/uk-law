@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-8c295644d7d8925d97f2e7f3ffee735d] The regulator is responsible for monitoring—
+(1)[^c-8c295644d7d8925d97f2e7f3ffee735d] The regulator is responsible for monitoring—
 
 - (a) spaceflight activities,
 - (b) the operation of spaceports,
@@ -29,12 +29,12 @@ summary: ''
 
 for the purposes set out in subsection (2).
 
-(2)[^key-8c295644d7d8925d97f2e7f3ffee735d] Those purposes are—
+(2)[^c-8c295644d7d8925d97f2e7f3ffee735d] Those purposes are—
 
 - (a) securing compliance with the provisions contained in and made under this Act, the conditions of licences under this Act and the international obligations of the United Kingdom;
 - (b) protecting public safety and the national security of the United Kingdom.
 
-(3)[^key-cc9b02595876ec21e3c262354f2d9f9e] Regulations may for any of those purposes—
+(3)[^c-cc9b02595876ec21e3c262354f2d9f9e] Regulations may for any of those purposes—
 
 - (a) require information to be provided to the regulator by a person who—
   - (i) carries out spaceflight activities,
@@ -49,13 +49,13 @@ for the purposes set out in subsection (2).
 - (f) provide for the sharing of information between the regulator and other public authorities or international organisations responsible for regulating any aspect of spaceflight activities;
 - (g) restrict the disclosure of information obtained or shared under the regulations.
 
-(4)[^key-8c295644d7d8925d97f2e7f3ffee735d] The regulator—
+(4)[^c-8c295644d7d8925d97f2e7f3ffee735d] The regulator—
 
 - (a) may investigate offences under this Act or under regulations made under this Act, and
 - (b) except in Scotland, may prosecute such offences.
 
 ## Annotations
 
-[^key-8c295644d7d8925d97f2e7f3ffee735d]: Commencement: [S. 26(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/26/1)[(2)](https://www.legislation.gov.uk/ukpga/2018/5/section/26/2)[(4)](https://www.legislation.gov.uk/ukpga/2018/5/section/26/4) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/45) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-8c295644d7d8925d97f2e7f3ffee735d]: Commencement: [S. 26(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/26/1)[(2)](https://www.legislation.gov.uk/ukpga/2018/5/section/26/2)[(4)](https://www.legislation.gov.uk/ukpga/2018/5/section/26/4) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/45) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-cc9b02595876ec21e3c262354f2d9f9e]: Commencement: [S. 26(3)](https://www.legislation.gov.uk/ukpga/2018/5/section/26/3) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(jj)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/jj)
+[^c-cc9b02595876ec21e3c262354f2d9f9e]: Commencement: [S. 26(3)](https://www.legislation.gov.uk/ukpga/2018/5/section/26/3) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(jj)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/jj)

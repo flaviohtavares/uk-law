@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Interim orders[^key-ff30625b9d23ac553960702368d03f2c]
+## 21. Interim orders[^c-ff30625b9d23ac553960702368d03f2c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff30625b9d23ac553960702368d03f2c]: Commencement: Reg. 21 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-ff30625b9d23ac553960702368d03f2c]: Commencement: Reg. 21 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

@@ -34,7 +34,7 @@ Sea Fisheries, England
 
 Sea Fish Industry
 
-[^key-dc7b25fcc135023173dffa0bea47855e]The Fishing Boats (Electronic Transmission of Fishing Activities Data) (England) Scheme 2010 (revoked)
+[^c-dc7b25fcc135023173dffa0bea47855e]The Fishing Boats (Electronic Transmission of Fishing Activities Data) (England) Scheme 2010 (revoked)
 
 Approved by both Houses of Parliament
 
@@ -50,7 +50,7 @@ Coming into force
 
 7th July 2010
 
-[^key-dc7b25fcc135023173dffa0bea47855e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc7b25fcc135023173dffa0bea47855e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 1
 
@@ -116,4 +116,4 @@ Coming into force
 
 ## Annotations
 
-[^key-dc7b25fcc135023173dffa0bea47855e]: Textual amendment: [Sch](https://www.legislation.gov.uk/uksi/2010/1600/schedule)eme revoked (28.5.2012) by [The Fishing Boats (Satellite-Tracking Devices and Electronic Reporting) (England) Scheme 2012 (S.I. 2012/1375)](https://www.legislation.gov.uk/uksi/2012/1375), [paras. 1(1)](https://www.legislation.gov.uk/uksi/2012/1375/paragraph/1/1), [16(1)(b)](https://www.legislation.gov.uk/uksi/2012/1375/paragraph/16/1/b) (with [para. 16(2)](https://www.legislation.gov.uk/uksi/2012/1375/paragraph/16/2))
+[^c-dc7b25fcc135023173dffa0bea47855e]: Textual amendment: [Sch](https://www.legislation.gov.uk/uksi/2010/1600/schedule)eme revoked (28.5.2012) by [The Fishing Boats (Satellite-Tracking Devices and Electronic Reporting) (England) Scheme 2012 (S.I. 2012/1375)](https://www.legislation.gov.uk/uksi/2012/1375), [paras. 1(1)](https://www.legislation.gov.uk/uksi/2012/1375/paragraph/1/1), [16(1)(b)](https://www.legislation.gov.uk/uksi/2012/1375/paragraph/16/1/b) (with [para. 16(2)](https://www.legislation.gov.uk/uksi/2012/1375/paragraph/16/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9 — Schedule to be substituted for the Third Schedule to the Quarries (Returns and Records) Rules (Northern Ireland) 1963[^key-47c763e6097f180e4dd7d94109eaa2e6]
+## SCHEDULE 9 — Schedule to be substituted for the Third Schedule to the Quarries (Returns and Records) Rules (Northern Ireland) 1963[^c-47c763e6097f180e4dd7d94109eaa2e6]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ Regulation 15(3)
 
 ## Annotations
 
-[^key-47c763e6097f180e4dd7d94109eaa2e6]: Commencement: Sch. 9 in operation at 1.12.1997, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/2)
+[^c-47c763e6097f180e4dd7d94109eaa2e6]: Commencement: Sch. 9 in operation at 1.12.1997, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/2)

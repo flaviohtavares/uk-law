@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Local freedoms[^key-e35be3efee784ff7195b03aa175104f9]
+## 27. Local freedoms[^c-e35be3efee784ff7195b03aa175104f9]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e35be3efee784ff7195b03aa175104f9]: Commencement: S. 27 in force at 12.1.2010, see s. 148(1)(d)
+[^c-e35be3efee784ff7195b03aa175104f9]: Commencement: S. 27 in force at 12.1.2010, see s. 148(1)(d)

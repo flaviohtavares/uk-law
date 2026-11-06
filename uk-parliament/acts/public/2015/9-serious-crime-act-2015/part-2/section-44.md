@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Savings[^key-88dd492d993d6c60596018a0721b2cf8]
+## 44. Savings[^c-88dd492d993d6c60596018a0721b2cf8]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88dd492d993d6c60596018a0721b2cf8]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2015/9/section/44) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)
+[^c-88dd492d993d6c60596018a0721b2cf8]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2015/9/section/44) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/d)

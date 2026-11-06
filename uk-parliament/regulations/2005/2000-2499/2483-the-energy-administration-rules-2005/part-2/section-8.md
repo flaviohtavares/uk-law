@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Service of application[^key-d8350910eee5cb496f5f52ecc80acd63]
+## 8. Service of application[^c-d8350910eee5cb496f5f52ecc80acd63]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8350910eee5cb496f5f52ecc80acd63]: Commencement: Rule 8 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-d8350910eee5cb496f5f52ecc80acd63]: Commencement: Rule 8 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

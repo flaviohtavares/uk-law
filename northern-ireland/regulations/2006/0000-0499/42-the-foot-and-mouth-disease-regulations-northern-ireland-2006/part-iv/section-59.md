@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Offences: no knowledge of restriction or requirement[^key-d0fe84a77138659164bae9e45adc8851]
+## 59. Offences: no knowledge of restriction or requirement[^c-d0fe84a77138659164bae9e45adc8851]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ if he shows to the court’s satisfaction that he did not know of that restricti
 
 ## Annotations
 
-[^key-d0fe84a77138659164bae9e45adc8851]: Commencement: Reg. 59 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-d0fe84a77138659164bae9e45adc8851]: Commencement: Reg. 59 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Amendment of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^key-015244115ec6e5493d572a824bd8907d][^M_I_7b4008a0-a524-4a89-ebcc-15f6e0c52b9f][^key-44353f1e0c81f150f669d83cab94d92f]
+## 15. Amendment of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^c-015244115ec6e5493d572a824bd8907d][^M_I_7b4008a0-a524-4a89-ebcc-15f6e0c52b9f][^c-44353f1e0c81f150f669d83cab94d92f]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 
     .
 
-(3)[^key-44353f1e0c81f150f669d83cab94d92f] In section 19 (England and Wales) [^c24398601]—
+(3)[^c-44353f1e0c81f150f669d83cab94d92f] In section 19 (England and Wales) [^c24398601]—
 
 - (a) in subsection (2)(a) (procedure for marriage: England and Wales)—
   - (i) after “district” insert “ which is ”;
@@ -72,11 +72,11 @@ summary: ''
 
 ## Annotations
 
-[^key-015244115ec6e5493d572a824bd8907d]: Commencement: Reg. 15(1)(2) not in force at made date, see reg. 1
+[^c-015244115ec6e5493d572a824bd8907d]: Commencement: Reg. 15(1)(2) not in force at made date, see reg. 1
 
 [^M_I_7b4008a0-a524-4a89-ebcc-15f6e0c52b9f]: Commencement: Reg. 15(1)(2) in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
-[^key-44353f1e0c81f150f669d83cab94d92f]: Commencement: Reg. 15(3) in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-44353f1e0c81f150f669d83cab94d92f]: Commencement: Reg. 15(3) in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24398571]: Marginal citation: [2004 c. 19](https://www.legislation.gov.uk/ukpga/2004/19).
 

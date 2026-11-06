@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Amendment to Schedule 27[^key-424788e9314cfae3304cad3c1ab59771]
+## 143. Amendment to Schedule 27[^c-424788e9314cfae3304cad3c1ab59771]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In Schedule 27 (package leaflets)[^f00150]—
 
 ## Annotations
 
-[^key-424788e9314cfae3304cad3c1ab59771]: Commencement: [Reg. 143](https://www.legislation.gov.uk/uksi/2024/832/regulation/143) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-424788e9314cfae3304cad3c1ab59771]: Commencement: [Reg. 143](https://www.legislation.gov.uk/uksi/2024/832/regulation/143) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00150]: Footnote: Paragraphs 8(c) and 11(f) were amended by, and Part 3 was inserted by, [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

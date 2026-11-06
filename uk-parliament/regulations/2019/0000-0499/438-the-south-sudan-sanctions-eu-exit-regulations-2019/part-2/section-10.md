@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Designation of persons named by or under UN Security Council Resolutions[^key-bfaf54959e06c6e57ba17b69435e4f21][^key-d8530af655eff9e40980fbfc39e70f2a]
+## 10. Designation of persons named by or under UN Security Council Resolutions[^c-bfaf54959e06c6e57ba17b69435e4f21][^c-d8530af655eff9e40980fbfc39e70f2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,8 +26,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bfaf54959e06c6e57ba17b69435e4f21]: Commencement: Reg. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-bfaf54959e06c6e57ba17b69435e4f21]: Commencement: Reg. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-d8530af655eff9e40980fbfc39e70f2a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/438/regulation/10) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(1)(h)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/1/h)
+[^c-d8530af655eff9e40980fbfc39e70f2a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/438/regulation/10) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(1)(h)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/1/h)
 
 [^c23619671]: Marginal citation: [Section 13](https://www.legislation.gov.uk/uksi/2019/438/section/13) of the Sanctions and Anti-Money Laundering Act 2018 requires that where the purposes of a provision of regulations under section 1 include compliance with a UN obligation to take particular measures in relation to UN-named persons (which is the case with the regulation mentioned in regulation 10), the regulations must provide for those persons to be designated persons for the purposes of that provision.

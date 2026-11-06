@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105Z19. Amount of penalty[^key-1388ff8165ee96bd62b03f8dab0f0e19]
+## 105Z19. Amount of penalty[^c-1388ff8165ee96bd62b03f8dab0f0e19]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1388ff8165ee96bd62b03f8dab0f0e19]: Textual amendment: [Ss. 105Z18-105Z21](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z18) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 20](https://www.legislation.gov.uk/ukpga/2021/31/section/20), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-1388ff8165ee96bd62b03f8dab0f0e19]: Textual amendment: [Ss. 105Z18-105Z21](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z18) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 20](https://www.legislation.gov.uk/ukpga/2021/31/section/20), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)

@@ -48,7 +48,7 @@ These Regulations are made in accordance with Treasury Directions[^f00006] made 
 
 ## PART 1 — General Provision
 
-### 1. Citation, commencement, effect and interpretation[^key-a4078eba2895d44b1b55ffad82142d05]
+### 1. Citation, commencement, effect and interpretation[^c-a4078eba2895d44b1b55ffad82142d05]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 and shall come into operation on 1st October 2023.
 
@@ -69,7 +69,7 @@ These Regulations are made in accordance with Treasury Directions[^f00006] made 
 
 ## PART 2 — Amendments to the statutory underpin
 
-### 2. Amendment of the Transitional Regulations[^key-202fe7b0f28f5950ada3ba38e379df46]
+### 2. Amendment of the Transitional Regulations[^c-202fe7b0f28f5950ada3ba38e379df46]
 
 (1) The Transitional Regulations are amended as follows.
 
@@ -565,7 +565,7 @@ These Regulations are made in accordance with Treasury Directions[^f00006] made 
 
   .
 
-### 3. Amendments to the 2014 Regulations[^key-fe0fd97f8c1fc6652f96b445eb343cc3]
+### 3. Amendments to the 2014 Regulations[^c-fe0fd97f8c1fc6652f96b445eb343cc3]
 
 (1) The 2014 Regulations are amended as follows.
 
@@ -664,7 +664,7 @@ These Regulations are made in accordance with Treasury Directions[^f00006] made 
   > (1B) Where a transfer under paragraph (1) is applied for by an eligible member and is not a Club Transfer, the value of the transfer is to be calculated in accordance with actuarial guidance issued by the Department, taking into account the member’s provisional assumed benefits and provisional underpin amount, which are calculated in accordance with regulations 4I (statutory underpin: calculation of provisional assumed benefits) and 4J (statutory underpin: calculation of provisional underpin amount) of the Transitional Regulations.
 
   .
-- (b)[^key-307675791e5ae1b676a942971d916e4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-307675791e5ae1b676a942971d916e4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15) In regulation 110 (bulk transfer (transfers of undertakings, etc), at the end insert—
 
@@ -693,7 +693,7 @@ These Regulations are made in accordance with Treasury Directions[^f00006] made 
 
 ## PART 3 — Provision for certain classes of person
 
-### 4. Application and interpretation of this Part[^key-fceb6ce99eb44f3a1b8190ea74a631e1]
+### 4. Application and interpretation of this Part[^c-fceb6ce99eb44f3a1b8190ea74a631e1]
 
 (1) A person in category A is a person—
 
@@ -721,7 +721,7 @@ These Regulations are made in accordance with Treasury Directions[^f00006] made 
 
 (6) In this Part, “**final guarantee amount**” has the meaning given in Schedule 1 (interpretation) of the Transitional Regulations.
 
-### 5. Members who retired or died before 1st October 2023[^key-2f517db43689fcdb2ee73ac5b99bb163]
+### 5. Members who retired or died before 1st October 2023[^c-2f517db43689fcdb2ee73ac5b99bb163]
 
 (1) This regulation applies to a person in category A, B or C.
 
@@ -737,7 +737,7 @@ These Regulations are made in accordance with Treasury Directions[^f00006] made 
 
 (7) Where the person elects or elected to commute the amount of pension payable under regulation 34 (election for lump sum instead of pension) of the 2014 Regulations, that regulation is to be applied in relation to the final guarantee amount or, as the case may be, the difference between that and the amount payable under regulation 4 (statutory underpin) of the Transitional Regulations.
 
-### 6. Death grants calculated under regulation 46 of the 2014 Regulations in respect of members who died before 1st October 2023[^key-eea372473832a69a078db59f61cd2bbc]
+### 6. Death grants calculated under regulation 46 of the 2014 Regulations in respect of members who died before 1st October 2023[^c-eea372473832a69a078db59f61cd2bbc]
 
 (1) This regulation applies to a person in category A, B or C—
 
@@ -757,7 +757,7 @@ These Regulations are made in accordance with Treasury Directions[^f00006] made 
 
 (6) In this regulation “**deferred guarantee amount**” has the meaning given in regulation 4N(3) (statutory underpin: death grants) of the Transitional Regulations.
 
-### 7. Pensioner member death grants in respect of members who died before 1st October 2023[^key-71c079763007d9181027792b9a4e2bf2]
+### 7. Pensioner member death grants in respect of members who died before 1st October 2023[^c-71c079763007d9181027792b9a4e2bf2]
 
 (1) This regulation applies to a person in category A, B or C—
 
@@ -771,7 +771,7 @@ These Regulations are made in accordance with Treasury Directions[^f00006] made 
 - (a) where there was a single recipient of the death grant, to that recipient; or
 - (b) where there was more than one recipient, to those recipients in the same proportions as they were paid the death grant.
 
-### 8. Survivor benefits in respect of members who died before 1st October 2023[^key-a20f871493e13018c36731c3fa31c9f5]
+### 8. Survivor benefits in respect of members who died before 1st October 2023[^c-a20f871493e13018c36731c3fa31c9f5]
 
 (1) This regulation applies to a person in category A, B or C—
 
@@ -787,7 +787,7 @@ These Regulations are made in accordance with Treasury Directions[^f00006] made 
 - (a) where the person is in category A or B and a proportion of a survivor guarantee amount is payable in respect of the person, it is to be added to the survivor member’s pension account in question without undue delay; and
 - (b) where the person is in category C and a survivor member’s pension, including any survivor guarantee amount, payable in respect of the person exceeds the annual rate of the survivor member’s pension which was previously payable, the difference is to be added to the survivor member’s pension account in question without undue delay.
 
-### 9. Members who took a transfer out of the fund before 1st October 2023[^key-088d0e35a07e5772e06afb8eacb68924]
+### 9. Members who took a transfer out of the fund before 1st October 2023[^c-088d0e35a07e5772e06afb8eacb68924]
 
 (1) This regulation applies to a transfer of remediable service into the Scheme—
 
@@ -804,7 +804,7 @@ These Regulations are made in accordance with Treasury Directions[^f00006] made 
 
 that transfer is to be treated as a transfer to which regulation 9(1ZA) and, as the case may be (1ZB) of the Transitional Regulations applies.
 
-### 10. Members who took a transfer out of the fund before 1st October 2023[^key-2f8dae3663b557ce7578520b6ef12eb8]
+### 10. Members who took a transfer out of the fund before 1st October 2023[^c-2f8dae3663b557ce7578520b6ef12eb8]
 
 (1) This regulation applies to a person in category A, B or C—
 
@@ -829,7 +829,7 @@ that transfer is to be treated as a transfer to which regulation 9(1ZA) and, as 
 - “Club Memorandum” and “Club Transfer” have the meanings given in Schedule 1 (interpretation) to the 2014 Regulations; and
 - “**the new scheme**” has the meaning given in regulation 110(1) of the 2014 Regulations.
 
-### 11. Commutation payments taken before 1st October 2023[^key-f5b421460a8388b0cb6f90820da6866e]
+### 11. Commutation payments taken before 1st October 2023[^c-f5b421460a8388b0cb6f90820da6866e]
 
 (1) This regulation applies to a person in category A, B or C in respect of whom a lump sum is calculated under regulation 35(1) (commutation and small pensions) of the 2014 Regulations before 1st October 2023 (“**the original payment**”).
 
@@ -839,7 +839,7 @@ that transfer is to be treated as a transfer to which regulation 9(1ZA) and, as 
 
 (4) Notwithstanding regulation 35(3) of the 2014 Regulations (member entitled to no further benefits after payment), where the recalculated payment exceeds the original payment, the difference is to be paid to the person without undue delay.
 
-### 12. Divorce or dissolution of civil partnership before 1st October 2023[^key-a01eaee29ec58af8390de15295846ab3]
+### 12. Divorce or dissolution of civil partnership before 1st October 2023[^c-a01eaee29ec58af8390de15295846ab3]
 
 (1) This regulation applies to a person with remediable service—
 
@@ -870,7 +870,7 @@ that transfer is to be treated as a transfer to which regulation 9(1ZA) and, as 
 - “**pension sharing order**” has the meaning given in Schedule 1 (interpretation) of the 2014 Regulations; and
 - “**relevant benefits**” has the same meaning as in of Article 26 of the Welfare Reform and Pensions (Northern Ireland) Order 1999.
 
-### 13. Persons with underpin dates before 1st October 2023[^key-4a54ed389935368fb49094dff27395bb]
+### 13. Persons with underpin dates before 1st October 2023[^c-4a54ed389935368fb49094dff27395bb]
 
 (1) This regulation applies to a person—
 
@@ -896,7 +896,7 @@ that transfer is to be treated as a transfer to which regulation 9(1ZA) and, as 
 
 .
 
-### 14. Interest on payments under the statutory underpin[^key-4f04aab3d4677fbf13d1c6dc2dc87243]
+### 14. Interest on payments under the statutory underpin[^c-4f04aab3d4677fbf13d1c6dc2dc87243]
 
 (1) This regulation applies in relation to a person to whom regulation 5(3), (4), (5), (6) or (7), 6(5), 7(3), 8(4)(a) or (b), 10(5), 11(4) or 12(6)(b) applies.
 
@@ -951,25 +951,25 @@ that was paid, or, as the case may be, made before 1st October 2023.
 
 ## PART 4 — Minor amendments
 
-### 15. Amendments to the Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009[^key-eac73f0d8ed26a5e9ce1b798c305d42c]
+### 15. Amendments to the Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009[^c-eac73f0d8ed26a5e9ce1b798c305d42c]
 
 (1) The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009[^f00039] are amended as follows.
 
 (2) In regulation 12 (application of abatement policy in individual cases) for “1st August 2000” substitute “1st February 2003”.
 
-### 16. Amendments to the Transitional Regulations[^key-6d43d4b8c164fded67e95f94c2ba366c]
+### 16. Amendments to the Transitional Regulations[^c-6d43d4b8c164fded67e95f94c2ba366c]
 
 (1) The Transitional Regulations[^f00040] are amended as follows.
 
 (2) In regulation 3(13) (membership before 1st April 2015) for “Regulations 67 and 68” substitute “Regulations 66 and 67”.
 
-### 17. Amendments to the 2014 Regulations[^key-e30d70049185559cff5882a196210298]
+### 17. Amendments to the 2014 Regulations[^c-e30d70049185559cff5882a196210298]
 
 (1) The 2014 Regulations[^f00041] are amended as follows.
 
 (2) In regulation 48(4) (survivor benefits: children of deferred members) after “member died” insert “and takes effect from the start of the Scheme year following the Scheme year in which the member’s account was opened,”.
 
-### 18. Amendments to the Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2023[^key-26a88f65a98d3415f76d3bda822c7d05]
+### 18. Amendments to the Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2023[^c-26a88f65a98d3415f76d3bda822c7d05]
 
 (1) The Local Government Pension Scheme Regulations (Amendment) Regulations (Northern Ireland) 2023[^f00042] are amended as follows.
 
@@ -1108,7 +1108,7 @@ Regulations 17 and 18 have retrospective effect from 1st April 2023.
 
 [^f00006]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7); Sections 38(1), 75(1) and 87(1) define “Treasury Directions” as Directions given by the Department of Finance in respect of the applicable devolved Public Service Pension schemes in Northern Ireland
 
-[^key-a4078eba2895d44b1b55ffad82142d05]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-a4078eba2895d44b1b55ffad82142d05]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2009 No. 32](https://www.legislation.gov.uk/nisr/2009/32) as amended by [S.R. 2010 No. 164](https://www.legislation.gov.uk/nisr/2010/164), [S.R. 2010 No. 410](https://www.legislation.gov.uk/nisr/2010/410), [S.R. 2011 No. 117](https://www.legislation.gov.uk/nisr/2011/117), [S.R. 2012 No. 183](https://www.legislation.gov.uk/nisr/2012/183), [S.R. 2013 No. 71](https://www.legislation.gov.uk/nisr/2013/71), [S.R. 2014 No. 189](https://www.legislation.gov.uk/nisr/2014/189), [S.R 2016 No. 128](https://www.legislation.gov.uk/nisr/2016/128), [S.R. 2016 No. 329](https://www.legislation.gov.uk/nisr/2016/329), [S.R 2019 No. 206](https://www.legislation.gov.uk/nisr/2019/206) and [S.R. 2022 No. 163](https://www.legislation.gov.uk/nisr/2022/163).
 
@@ -1118,7 +1118,7 @@ Regulations 17 and 18 have retrospective effect from 1st April 2023.
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-202fe7b0f28f5950ada3ba38e379df46]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-202fe7b0f28f5950ada3ba38e379df46]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
 [^f00011]: Footnote: The Public Service Pensions (Exercise of Powers, Compensation and Information) Directions (Northern Ireland) 2023 (finance-ni.gov.uk).
 
@@ -1174,46 +1174,46 @@ Regulations 17 and 18 have retrospective effect from 1st April 2023.
 
 [^f00037]: Footnote: The Public Service Pensions (Exercise of Powers, Compensation and Information) Directions (Northern Ireland) 2023 (finance-ni.gov.uk)
 
-[^key-fe0fd97f8c1fc6652f96b445eb343cc3]: Commencement: Reg. 3 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-fe0fd97f8c1fc6652f96b445eb343cc3]: Commencement: Reg. 3 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
-[^key-307675791e5ae1b676a942971d916e4a]: Textual amendment: [Reg. 3(14)(b)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/14/b) omitted (31.8.2024) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/159)](https://www.legislation.gov.uk/nisr/2024/159), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/159/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2024/159/regulation/4)
+[^c-307675791e5ae1b676a942971d916e4a]: Textual amendment: [Reg. 3(14)(b)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/14/b) omitted (31.8.2024) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/159)](https://www.legislation.gov.uk/nisr/2024/159), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/159/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2024/159/regulation/4)
 
-[^key-fceb6ce99eb44f3a1b8190ea74a631e1]: Commencement: Reg. 4 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-fceb6ce99eb44f3a1b8190ea74a631e1]: Commencement: Reg. 4 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
 [^f00038]: Footnote: For the meaning of remediable service, including the period in which it must take place, see section 77 of the Public Service Pensions and Judicial Offices Act [2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-2f517db43689fcdb2ee73ac5b99bb163]: Commencement: Reg. 5 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-2f517db43689fcdb2ee73ac5b99bb163]: Commencement: Reg. 5 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
-[^key-eea372473832a69a078db59f61cd2bbc]: Commencement: Reg. 6 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-eea372473832a69a078db59f61cd2bbc]: Commencement: Reg. 6 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
-[^key-71c079763007d9181027792b9a4e2bf2]: Commencement: Reg. 7 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-71c079763007d9181027792b9a4e2bf2]: Commencement: Reg. 7 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
-[^key-a20f871493e13018c36731c3fa31c9f5]: Commencement: Reg. 8 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-a20f871493e13018c36731c3fa31c9f5]: Commencement: Reg. 8 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
-[^key-088d0e35a07e5772e06afb8eacb68924]: Commencement: Reg. 9 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-088d0e35a07e5772e06afb8eacb68924]: Commencement: Reg. 9 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
-[^key-2f8dae3663b557ce7578520b6ef12eb8]: Commencement: Reg. 10 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-2f8dae3663b557ce7578520b6ef12eb8]: Commencement: Reg. 10 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
-[^key-f5b421460a8388b0cb6f90820da6866e]: Commencement: Reg. 11 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-f5b421460a8388b0cb6f90820da6866e]: Commencement: Reg. 11 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
-[^key-a01eaee29ec58af8390de15295846ab3]: Commencement: Reg. 12 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-a01eaee29ec58af8390de15295846ab3]: Commencement: Reg. 12 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
-[^key-4a54ed389935368fb49094dff27395bb]: Commencement: Reg. 13 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-4a54ed389935368fb49094dff27395bb]: Commencement: Reg. 13 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
-[^key-4f04aab3d4677fbf13d1c6dc2dc87243]: Commencement: Reg. 14 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
+[^c-4f04aab3d4677fbf13d1c6dc2dc87243]: Commencement: Reg. 14 in operation at 1.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1/1)
 
-[^key-eac73f0d8ed26a5e9ce1b798c305d42c]: Commencement: Reg. 15 in operation at 1.10.2023 with effect in accordance with reg. 1(2)(a)
+[^c-eac73f0d8ed26a5e9ce1b798c305d42c]: Commencement: Reg. 15 in operation at 1.10.2023 with effect in accordance with reg. 1(2)(a)
 
 [^f00039]: Footnote: [S.R. 2009 No. 34](https://www.legislation.gov.uk/nisr/2009/34): relevant amendments are [S.R. 2014 No. 189](https://www.legislation.gov.uk/nisr/2014/189).
 
-[^key-6d43d4b8c164fded67e95f94c2ba366c]: Commencement: Reg. 16 in operation at 1.10.2023 with effect in accordance with reg. 1(2)(b)
+[^c-6d43d4b8c164fded67e95f94c2ba366c]: Commencement: Reg. 16 in operation at 1.10.2023 with effect in accordance with reg. 1(2)(b)
 
 [^f00040]: Footnote: [S.R. 2014 No. 189](https://www.legislation.gov.uk/nisr/2014/189); relevant amendments are [S.R. 2016 No. 128](https://www.legislation.gov.uk/nisr/2016/128), [S.R. 2019 No. 206](https://www.legislation.gov.uk/nisr/2019/206), [S.I. 2019/1514](https://www.legislation.gov.uk/uksi/2019/1514) and [S.R. 2022 No. 163](https://www.legislation.gov.uk/nisr/2022/163).
 
-[^key-e30d70049185559cff5882a196210298]: Commencement: Reg. 17 in operation at 1.10.2023 with effect in accordance with reg. 1(2)(c)
+[^c-e30d70049185559cff5882a196210298]: Commencement: Reg. 17 in operation at 1.10.2023 with effect in accordance with reg. 1(2)(c)
 
 [^f00041]: Footnote: [S.R. 2014 No. 188](https://www.legislation.gov.uk/nisr/2014/188); relevant amendments are [S.R. 2023 No. 81](https://www.legislation.gov.uk/nisr/2023/81).
 
-[^key-26a88f65a98d3415f76d3bda822c7d05]: Commencement: Reg. 18 in operation at 1.10.2023 with effect in accordance with reg. 1(2)(c)
+[^c-26a88f65a98d3415f76d3bda822c7d05]: Commencement: Reg. 18 in operation at 1.10.2023 with effect in accordance with reg. 1(2)(c)
 
 [^f00042]: Footnote: [S.R. 2023 No. 81](https://www.legislation.gov.uk/nisr/2023/81).

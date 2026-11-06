@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — Equivalence Decisions[^key-b5c2332d636d3094eb3014329da84e82]
+## SCHEDULE 2 — Equivalence Decisions[^c-b5c2332d636d3094eb3014329da84e82]
 
 *Extent: N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 8(3)(c)
 
-**1.**[^key-b5c2332d636d3094eb3014329da84e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b5c2332d636d3094eb3014329da84e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b5c2332d636d3094eb3014329da84e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b5c2332d636d3094eb3014329da84e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b5c2332d636d3094eb3014329da84e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b5c2332d636d3094eb3014329da84e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b5c2332d636d3094eb3014329da84e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b5c2332d636d3094eb3014329da84e82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b5c2332d636d3094eb3014329da84e82]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/464) revoked (24.7.2006) by [The Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2006 (S.R. 2006/291)](https://www.legislation.gov.uk/nisr/2006/291), [regs. 1](https://www.legislation.gov.uk/nisr/2006/291/regulation/1), [66](https://www.legislation.gov.uk/nisr/2006/291/regulation/66), [Sch. 5](https://www.legislation.gov.uk/nisr/2006/291/schedule/5)
+[^c-b5c2332d636d3094eb3014329da84e82]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/464) revoked (24.7.2006) by [The Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2006 (S.R. 2006/291)](https://www.legislation.gov.uk/nisr/2006/291), [regs. 1](https://www.legislation.gov.uk/nisr/2006/291/regulation/1), [66](https://www.legislation.gov.uk/nisr/2006/291/regulation/66), [Sch. 5](https://www.legislation.gov.uk/nisr/2006/291/schedule/5)

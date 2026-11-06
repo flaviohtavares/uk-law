@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Scottish Housing Regulator: transfer of assets following inquiries[^key-63d8b15116dae361a1c3bba441919d92][^key-4a4ef7370db7989cadb465adcc21b192]
+## 97. Scottish Housing Regulator: transfer of assets following inquiries[^c-63d8b15116dae361a1c3bba441919d92][^c-4a4ef7370db7989cadb465adcc21b192]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ In section 67 of the 2010 Act (transfer of assets following inquiries)—
 
 ## Annotations
 
-[^key-63d8b15116dae361a1c3bba441919d92]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2014/14/section/97) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-63d8b15116dae361a1c3bba441919d92]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2014/14/section/97) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-4a4ef7370db7989cadb465adcc21b192]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2014/14/section/97) in force at 31.8.2015 in so far as not already in force by [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)
+[^c-4a4ef7370db7989cadb465adcc21b192]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2014/14/section/97) in force at 31.8.2015 in so far as not already in force by [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)

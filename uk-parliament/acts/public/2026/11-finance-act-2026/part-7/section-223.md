@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Prohibition against unregistered tax advisers interacting with HMRC[^M_I_e5a98d51-3e72-4ed3-f74f-432e2ecc162e][^key-81f36a321a02598fbebb6790ff820a2a][^key-9a11020c2fa19d63d3d88ba162d23dbe]
+## 223. Prohibition against unregistered tax advisers interacting with HMRC[^M_I_e5a98d51-3e72-4ed3-f74f-432e2ecc162e][^c-81f36a321a02598fbebb6790ff820a2a][^c-9a11020c2fa19d63d3d88ba162d23dbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ the interaction is to be regarded as being carried out by that tax adviser.
 
 [^M_I_e5a98d51-3e72-4ed3-f74f-432e2ecc162e]: Commencement: S. 223 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-81f36a321a02598fbebb6790ff820a2a]: Commencement: [S. 223](https://www.legislation.gov.uk/ukpga/2026/11/section/223) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-81f36a321a02598fbebb6790ff820a2a]: Commencement: [S. 223](https://www.legislation.gov.uk/ukpga/2026/11/section/223) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-9a11020c2fa19d63d3d88ba162d23dbe]: Commencement: [S. 223](https://www.legislation.gov.uk/ukpga/2026/11/section/223) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-9a11020c2fa19d63d3d88ba162d23dbe]: Commencement: [S. 223](https://www.legislation.gov.uk/ukpga/2026/11/section/223) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

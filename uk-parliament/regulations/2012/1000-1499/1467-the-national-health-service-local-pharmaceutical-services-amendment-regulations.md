@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Local Pharmaceutical Services) Amendment Regulations 2012 (revoked)[^key-d6581b0b7db9c73f632945367f2d63e3]
+The National Health Service (Local Pharmaceutical Services) Amendment Regulations 2012 (revoked)[^c-d6581b0b7db9c73f632945367f2d63e3]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st July 2012
 
-[^key-d6581b0b7db9c73f632945367f2d63e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6581b0b7db9c73f632945367f2d63e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d6581b0b7db9c73f632945367f2d63e3]
+## 1. Citation and commencement[^c-d6581b0b7db9c73f632945367f2d63e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Health Service (Local Pharmaceutical Services etc.) Regulations 2006[^key-d6581b0b7db9c73f632945367f2d63e3]
+## 2. Amendment of the National Health Service (Local Pharmaceutical Services etc.) Regulations 2006[^c-d6581b0b7db9c73f632945367f2d63e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6581b0b7db9c73f632945367f2d63e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6581b0b7db9c73f632945367f2d63e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d6581b0b7db9c73f632945367f2d63e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6581b0b7db9c73f632945367f2d63e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6581b0b7db9c73f632945367f2d63e3]: Textual amendment: Regulations revoked (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 10](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/10)
+[^c-d6581b0b7db9c73f632945367f2d63e3]: Textual amendment: Regulations revoked (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 10](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/10)

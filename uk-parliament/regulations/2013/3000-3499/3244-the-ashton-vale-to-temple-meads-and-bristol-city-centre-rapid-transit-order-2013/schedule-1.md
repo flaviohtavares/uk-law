@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — SCHEDULED WORKS[^key-dee0d302aa9e2e74d717bb1a26256338]
+## SCHEDULE 1 — SCHEDULED WORKS[^c-dee0d302aa9e2e74d717bb1a26256338]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ Articles 2(1) and 5
 
 ## Annotations
 
-[^key-dee0d302aa9e2e74d717bb1a26256338]: Commencement: Sch. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-dee0d302aa9e2e74d717bb1a26256338]: Commencement: Sch. 1 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65.33. Application where the relevant authority is not a party in principal proceedings[^key-6439814e91956d0f9d3b624b085df931][^key-fe983083cb3d124dd305ab0b59611da3]
+## 65.33. Application where the relevant authority is not a party in principal proceedings[^c-6439814e91956d0f9d3b624b085df931][^c-fe983083cb3d124dd305ab0b59611da3]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6439814e91956d0f9d3b624b085df931]: Textual amendment: Pt. 65 Section 6 inserted (31.8.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(3)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2092/schedule/2)
+[^c-6439814e91956d0f9d3b624b085df931]: Textual amendment: Pt. 65 Section 6 inserted (31.8.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rule 1(3)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2092/schedule/2)
 
-[^key-fe983083cb3d124dd305ab0b59611da3]: Textual amendment: Pt. 65 inserted (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1306/schedule/2) (with [rule 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/2/a))
+[^c-fe983083cb3d124dd305ab0b59611da3]: Textual amendment: Pt. 65 inserted (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1306/schedule/2) (with [rule 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/2/a))

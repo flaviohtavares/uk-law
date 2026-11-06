@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Building society insolvency stayed[^key-d5fdc1ffdae4a5b1b3fa868c4b048a9b]
+## 39. Building society insolvency stayed[^c-d5fdc1ffdae4a5b1b3fa868c4b048a9b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.48 of the 1986 Rules. For “official receiver”, substitute “bu
 
 ## Annotations
 
-[^key-d5fdc1ffdae4a5b1b3fa868c4b048a9b]: Commencement: Rule 39 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-d5fdc1ffdae4a5b1b3fa868c4b048a9b]: Commencement: Rule 39 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

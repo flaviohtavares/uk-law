@@ -54,7 +54,7 @@ summary: ''
 - paragraphs 2(4) and 5(7) of Schedule 4;
 - paragraphs 24 and 25(2)(c) of Schedule 5.
 
-(7)[^key-f44227e40ececa29c4228d4d9d0112f2] In Schedules 2 to 4 “**senior judge**” means—
+(7)[^c-f44227e40ececa29c4228d4d9d0112f2] In Schedules 2 to 4 “**senior judge**” means—
 
 - (a) the Lord Chief Justice of England and Wales,
 - (b) the Lord President of the Court of Session,
@@ -65,4 +65,4 @@ summary: ''
 
 [^c20685321]: Commencement: S. 46 wholly in force at 3.11.2008; s. 46 not in force at Royal Assent see s. 148; s. 46 in force at 19.9.2007 by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/b); s. 46 in force at 3.11.2008 otherwise by [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(b)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/b)
 
-[^key-f44227e40ececa29c4228d4d9d0112f2]: Textual amendment: S. 46(7) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 44(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/44/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-f44227e40ececa29c4228d4d9d0112f2]: Textual amendment: S. 46(7) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 44(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/44/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)

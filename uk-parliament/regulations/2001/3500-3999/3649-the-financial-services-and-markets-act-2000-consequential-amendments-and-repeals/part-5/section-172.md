@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Conduct of business regulations[^key-c8d362a79ba229b07dbdfe81abb682cc]
+## 172. Conduct of business regulations[^c-c8d362a79ba229b07dbdfe81abb682cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 54 of the Consumer Credit Act 1974 (conduct of business regulations),
 
 ## Annotations
 
-[^key-c8d362a79ba229b07dbdfe81abb682cc]: Commencement: Art. 172 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c8d362a79ba229b07dbdfe81abb682cc]: Commencement: Art. 172 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

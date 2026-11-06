@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225C. Sale of private residence under certain agreements with employer, etc[^key-3ab724ec134cf6b24ac0e1f201914287]
+## 225C. Sale of private residence under certain agreements with employer, etc[^c-3ab724ec134cf6b24ac0e1f201914287]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ that receipt shall be treated for the purposes of this Act as a gain attributabl
 
 ## Annotations
 
-[^key-3ab724ec134cf6b24ac0e1f201914287]: Textual amendment: S. 225C inserted (with effect in accordance with art. 10(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2009 (S.I. 2009/730)](https://www.legislation.gov.uk/uksi/2009/730), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/730/article/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2009/730/article/10/1)
+[^c-3ab724ec134cf6b24ac0e1f201914287]: Textual amendment: S. 225C inserted (with effect in accordance with art. 10(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2009 (S.I. 2009/730)](https://www.legislation.gov.uk/uksi/2009/730), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/730/article/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2009/730/article/10/1)

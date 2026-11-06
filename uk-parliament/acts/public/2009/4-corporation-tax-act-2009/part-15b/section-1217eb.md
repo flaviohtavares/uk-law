@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217EB. The European expenditure condition[^key-430657b7d7e90131044eca9771949694][^key-1d127a007202c0135ecc4144486e9880]
+## 1217EB. The European expenditure condition[^c-430657b7d7e90131044eca9771949694][^c-1d127a007202c0135ecc4144486e9880]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ If those requirements are met, the company is provisionally treated in relation 
 
 ## Annotations
 
-[^key-430657b7d7e90131044eca9771949694]: Textual amendment: Pt. 15B inserted (17.7.2013 for specified purposes and 1.4.2014 in so far as not already in force) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 17 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/2); [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/2)
+[^c-430657b7d7e90131044eca9771949694]: Textual amendment: Pt. 15B inserted (17.7.2013 for specified purposes and 1.4.2014 in so far as not already in force) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 17 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/2); [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/2)
 
-[^key-1d127a007202c0135ecc4144486e9880]: Textual amendment: Words in [s. 1217EB](https://www.legislation.gov.uk/ukpga/2009/4/section/1217EB) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [16(26)](https://www.legislation.gov.uk/uksi/2019/689/regulation/16/26) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d127a007202c0135ecc4144486e9880]: Textual amendment: Words in [s. 1217EB](https://www.legislation.gov.uk/ukpga/2009/4/section/1217EB) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [16(26)](https://www.legislation.gov.uk/uksi/2019/689/regulation/16/26) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.6. Documents in the Welsh language[^key-d1199b40645a5c41cc27cef7772feadc]
+## 5.6. Documents in the Welsh language[^c-d1199b40645a5c41cc27cef7772feadc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1199b40645a5c41cc27cef7772feadc]: Textual amendment: [Rule 5.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.6) inserted (1.10.2018) by [The Civil Procedure (Amendment No. 3) Rules 2018 (S.I. 2018/975)](https://www.legislation.gov.uk/uksi/2018/975), [rules 1(1)](https://www.legislation.gov.uk/uksi/2018/975/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2018/975/rule/4/b)
+[^c-d1199b40645a5c41cc27cef7772feadc]: Textual amendment: [Rule 5.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.6) inserted (1.10.2018) by [The Civil Procedure (Amendment No. 3) Rules 2018 (S.I. 2018/975)](https://www.legislation.gov.uk/uksi/2018/975), [rules 1(1)](https://www.legislation.gov.uk/uksi/2018/975/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2018/975/rule/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Maintenance of authorised development[^key-dbd7597f9975dba8eb6739d2c08e9551]
+## 4. Maintenance of authorised development[^c-dbd7597f9975dba8eb6739d2c08e9551]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Secretary of State may at any time maintain the authorised development, exce
 
 ## Annotations
 
-[^key-dbd7597f9975dba8eb6739d2c08e9551]: Commencement: Art. 4 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-dbd7597f9975dba8eb6739d2c08e9551]: Commencement: Art. 4 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)

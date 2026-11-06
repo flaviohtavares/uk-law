@@ -46,30 +46,30 @@ Coming into force
 
 The Lord Chancellor makes the following Regulations in exercise of the powers conferred by section 41(1) and (2) of and paragraph 30(3) of Part 1 of Schedule 1 to the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-4d68b645cf033f76820f2ff2d723b865]
+## 1. Citation, commencement and interpretation[^c-4d68b645cf033f76820f2ff2d723b865]
 
 These Regulations may be cited as the Civil Legal Aid (Immigration Interviews) (Exceptions) Regulations 2012 and come into force on 1st April 2013.
 
-**2.**[^key-5f1d0aa8ea881a081e249e057512d9d3] In these Regulations—
+**2.**[^c-5f1d0aa8ea881a081e249e057512d9d3] In these Regulations—
 
 - “the Act” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012;
 - “child” means—
   - (a) an individual who is under the age of 18; or
   - (b) an individual whose age is uncertain and who, at an immigration interview, is being treated by the Secretary of State as being under the age of 18;
 - “immigration interview” means an interview described in paragraph 30(3) of Part 1 of Schedule 1 to the Act;
-- “[^key-9599eec50610c0f8ed5f24c1e7008fab]**removal centre**” means a removal centre as defined in section 147 of the Immigration and Asylum Act 1999
+- “[^c-9599eec50610c0f8ed5f24c1e7008fab]**removal centre**” means a removal centre as defined in section 147 of the Immigration and Asylum Act 1999
 - “screening interview” means the first immigration interview in respect of the claim.
 
-## 3. Attendance at immigration interviews: children[^key-8a8141c203c2b85011f0b2c8a4e3eb1e]
+## 3. Attendance at immigration interviews: children[^c-8a8141c203c2b85011f0b2c8a4e3eb1e]
 
-The civil legal services described in paragraph 30(1) of Part 1 of Schedule 1 to the Act include attendance at an immigration interview (including a screening interview)[^key-b00bde35a76145d93197e8c440a6c0f0] in any case in which the individual to whom the civil legal services are provided is a child at the time of that interview.
+The civil legal services described in paragraph 30(1) of Part 1 of Schedule 1 to the Act include attendance at an immigration interview (including a screening interview)[^c-b00bde35a76145d93197e8c440a6c0f0] in any case in which the individual to whom the civil legal services are provided is a child at the time of that interview.
 
-## 4. Attendance at immigration interviews: individuals who are not children[^key-4c3c9b1ee17980191ca0feb941bb6837]
+## 4. Attendance at immigration interviews: individuals who are not children[^c-4c3c9b1ee17980191ca0feb941bb6837]
 
 The civil legal services described in paragraph 30(1) of Part 1 of Schedule 1 to the Act include attendance at an immigration interview in which the individual to whom the civil legal services are provided is not a child where—
 
 - (a) the individual—
-  - (i)[^key-8fc4f18f79fd70bd303351677d043e57] is detained at a removal centre; or
+  - (i)[^c-8fc4f18f79fd70bd303351677d043e57] is detained at a removal centre; or
   - (ii) lacks capacity within the meaning of section 2 of the Mental Capacity Act 2005[^f00003]; and
 - (b) the interview is not a screening interview.
 
@@ -99,18 +99,18 @@ Where the individual being interviewed is not under the age of 18 or being treat
 
 [^f00001]: Footnote: [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-4d68b645cf033f76820f2ff2d723b865]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/2683/regulation/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2683/regulation/1)
+[^c-4d68b645cf033f76820f2ff2d723b865]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/2683/regulation/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2683/regulation/1)
 
-[^key-5f1d0aa8ea881a081e249e057512d9d3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/2683/regulation/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2683/regulation/1)
+[^c-5f1d0aa8ea881a081e249e057512d9d3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/2683/regulation/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2683/regulation/1)
 
-[^key-9599eec50610c0f8ed5f24c1e7008fab]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/2683/regulation/2) inserted (1.4.2023) by [The Civil Legal Aid (Immigration Interviews (Exceptions) and Remuneration) (Amendment) Regulations 2022 (S.I. 2022/1379)](https://www.legislation.gov.uk/uksi/2022/1379), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1379/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1379/regulation/2/2)
+[^c-9599eec50610c0f8ed5f24c1e7008fab]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/2683/regulation/2) inserted (1.4.2023) by [The Civil Legal Aid (Immigration Interviews (Exceptions) and Remuneration) (Amendment) Regulations 2022 (S.I. 2022/1379)](https://www.legislation.gov.uk/uksi/2022/1379), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1379/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1379/regulation/2/2)
 
-[^key-8a8141c203c2b85011f0b2c8a4e3eb1e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/2683/regulation/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2683/regulation/1)
+[^c-8a8141c203c2b85011f0b2c8a4e3eb1e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/2683/regulation/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2683/regulation/1)
 
-[^key-b00bde35a76145d93197e8c440a6c0f0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/2683/regulation/3) inserted (1.4.2023) by [The Civil Legal Aid (Immigration Interviews (Exceptions) and Remuneration) (Amendment) Regulations 2022 (S.I. 2022/1379)](https://www.legislation.gov.uk/uksi/2022/1379), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1379/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1379/regulation/2/3)
+[^c-b00bde35a76145d93197e8c440a6c0f0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/2683/regulation/3) inserted (1.4.2023) by [The Civil Legal Aid (Immigration Interviews (Exceptions) and Remuneration) (Amendment) Regulations 2022 (S.I. 2022/1379)](https://www.legislation.gov.uk/uksi/2022/1379), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1379/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1379/regulation/2/3)
 
-[^key-4c3c9b1ee17980191ca0feb941bb6837]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/2683/regulation/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2683/regulation/1)
+[^c-4c3c9b1ee17980191ca0feb941bb6837]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/2683/regulation/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/2683/regulation/1)
 
-[^key-8fc4f18f79fd70bd303351677d043e57]: Textual amendment: [Reg. 4(a)(i)](https://www.legislation.gov.uk/uksi/2012/2683/regulation/4/a/i) substituted (1.4.2023) by [The Civil Legal Aid (Immigration Interviews (Exceptions) and Remuneration) (Amendment) Regulations 2022 (S.I. 2022/1379)](https://www.legislation.gov.uk/uksi/2022/1379), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1379/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1379/regulation/2/4)
+[^c-8fc4f18f79fd70bd303351677d043e57]: Textual amendment: [Reg. 4(a)(i)](https://www.legislation.gov.uk/uksi/2012/2683/regulation/4/a/i) substituted (1.4.2023) by [The Civil Legal Aid (Immigration Interviews (Exceptions) and Remuneration) (Amendment) Regulations 2022 (S.I. 2022/1379)](https://www.legislation.gov.uk/uksi/2022/1379), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1379/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1379/regulation/2/4)
 
 [^f00003]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).

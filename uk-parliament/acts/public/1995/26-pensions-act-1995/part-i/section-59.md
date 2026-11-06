@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Determination of contributions: supplementary.[^key-3c55bdbc3945a0fbc5c383b5fb75c1f5]
+## 59. Determination of contributions: supplementary.[^c-3c55bdbc3945a0fbc5c383b5fb75c1f5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c55bdbc3945a0fbc5c383b5fb75c1f5]: Textual amendment: [Ss. 56-61](https://www.legislation.gov.uk/ukpga/1995/26/section/56) repealed (4.12.2005 for specified purposes, 30.12.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1/b), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1) (with [S.I. 2005/3377](https://www.legislation.gov.uk/uksi/2005/3377), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2005/3377/schedule/4/part/2))
+[^c-3c55bdbc3945a0fbc5c383b5fb75c1f5]: Textual amendment: [Ss. 56-61](https://www.legislation.gov.uk/ukpga/1995/26/section/56) repealed (4.12.2005 for specified purposes, 30.12.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/1/b), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/1) (with [S.I. 2005/3377](https://www.legislation.gov.uk/uksi/2005/3377), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2005/3377/schedule/4/part/2))

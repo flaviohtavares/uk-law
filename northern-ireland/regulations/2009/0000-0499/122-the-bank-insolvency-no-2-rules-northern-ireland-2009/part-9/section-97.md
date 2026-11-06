@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 97. Rule as to reporting[^key-a664d39f4308a5f08951a0da6f10ccaf]
+## 97. Rule as to reporting[^c-a664d39f4308a5f08951a0da6f10ccaf]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a664d39f4308a5f08951a0da6f10ccaf]: Commencement: Rule 97 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-a664d39f4308a5f08951a0da6f10ccaf]: Commencement: Rule 97 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00016]: Footnote: Rule 4.132A was inserted by the Insolvency (Amendment) Rules (Northern Ireland) 2006 ([S.R. 2006 No. 47](https://www.legislation.gov.uk/nisr/2006/47)), rule 33.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53B. Determination of mode of inquiry in a coronavirus period[^key-13053cc779e090658b8e15f29a493269]
+## 53B. Determination of mode of inquiry in a coronavirus period[^c-13053cc779e090658b8e15f29a493269]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ the Senior District Judge (Chief Magistrate) may refer the charge back to the go
 
 ## Annotations
 
-[^key-13053cc779e090658b8e15f29a493269]: Textual amendment: Rule 53B inserted (temp.) (15.5.2020) by virtue of [The Prison and Young Offender Institution (Coronavirus) (Amendment) (No. 2) Rules 2020 (S.I. 2020/508)](https://www.legislation.gov.uk/uksi/2020/508), [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/508/rule/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2020/508/schedule/1/paragraph/11) (with [rule 1(3)](https://www.legislation.gov.uk/uksi/2020/508/rule/1/3))
+[^c-13053cc779e090658b8e15f29a493269]: Textual amendment: Rule 53B inserted (temp.) (15.5.2020) by virtue of [The Prison and Young Offender Institution (Coronavirus) (Amendment) (No. 2) Rules 2020 (S.I. 2020/508)](https://www.legislation.gov.uk/uksi/2020/508), [rule 1(1)](https://www.legislation.gov.uk/uksi/2020/508/rule/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2020/508/schedule/1/paragraph/11) (with [rule 1(3)](https://www.legislation.gov.uk/uksi/2020/508/rule/1/3))

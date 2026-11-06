@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Penalties[^key-138de31162f4256099813bd3daa81a4f]
+## 6. Penalties[^c-138de31162f4256099813bd3daa81a4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person guilty of an offence under section 3, or an offence ancillary to such a
 
 ## Annotations
 
-[^key-138de31162f4256099813bd3daa81a4f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/6/section/6) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-138de31162f4256099813bd3daa81a4f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/6/section/6) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

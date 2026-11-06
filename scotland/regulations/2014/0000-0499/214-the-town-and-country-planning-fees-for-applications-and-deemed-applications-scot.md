@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning
 
-The Town and Country Planning (Fees for Applications and Deemed Applications) (Scotland) Amendment Regulations 2014 (revoked)[^key-a1f9acf3699159f681f9147629b07a62]
+The Town and Country Planning (Fees for Applications and Deemed Applications) (Scotland) Amendment Regulations 2014 (revoked)[^c-a1f9acf3699159f681f9147629b07a62]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 1st November 2014
 
-[^key-a1f9acf3699159f681f9147629b07a62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1f9acf3699159f681f9147629b07a62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a1f9acf3699159f681f9147629b07a62]
+## 1. Citation, commencement and interpretation[^c-a1f9acf3699159f681f9147629b07a62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Town and Country Planning (Fees for Applications and Deemed Applications) (Scotland) Regulations 2004[^key-a1f9acf3699159f681f9147629b07a62]
+## 2. Amendment of the Town and Country Planning (Fees for Applications and Deemed Applications) (Scotland) Regulations 2004[^c-a1f9acf3699159f681f9147629b07a62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Savings[^key-a1f9acf3699159f681f9147629b07a62]
+## 3. Savings[^c-a1f9acf3699159f681f9147629b07a62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1f9acf3699159f681f9147629b07a62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1f9acf3699159f681f9147629b07a62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-a1f9acf3699159f681f9147629b07a62]
+## SCHEDULE[^c-a1f9acf3699159f681f9147629b07a62]
 
 Regulation 2(6)
 
@@ -74,8 +74,8 @@ Regulation 2(6)
 
 **May not be in force at this date. Check the source.**
 
-[^key-a1f9acf3699159f681f9147629b07a62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1f9acf3699159f681f9147629b07a62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a1f9acf3699159f681f9147629b07a62]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/214) revoked (1.4.2022) by [The Town and Country Planning (Fees for Applications) (Scotland) Regulations 2022 (S.S.I. 2022/50)](https://www.legislation.gov.uk/ssi/2022/50), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2022/50/schedule/2)
+[^c-a1f9acf3699159f681f9147629b07a62]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/214) revoked (1.4.2022) by [The Town and Country Planning (Fees for Applications) (Scotland) Regulations 2022 (S.S.I. 2022/50)](https://www.legislation.gov.uk/ssi/2022/50), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/50/regulation/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2022/50/schedule/2)

@@ -24,7 +24,7 @@ Section 93.
 
 ### Application for consent
 
-**1.** (1) Where the appropriate agency[^key-ba940d70ad3a3ad3b6e43bd8efd8ade8] applies to the Secretary of State for an order under section 93 of this Act, it shall—
+**1.** (1) Where the appropriate agency[^c-ba940d70ad3a3ad3b6e43bd8efd8ade8] applies to the Secretary of State for an order under section 93 of this Act, it shall—
 
 - (a) submit to the Secretary of State a draft of the order applied for;
 - (b) publish a notice with respect to the application, at least once in each of two successive weeks, in one or more newspapers circulating in the locality proposed to be designated as a water protection zone by the order;
@@ -59,6 +59,6 @@ Section 93.
 
 ## Annotations
 
-[^key-ba940d70ad3a3ad3b6e43bd8efd8ade8]: Textual amendment: Words in [Sch. 11 paras. 1-3](https://www.legislation.gov.uk/ukpga/1991/57/schedule/11/paragraph/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ba940d70ad3a3ad3b6e43bd8efd8ade8]: Textual amendment: Words in [Sch. 11 paras. 1-3](https://www.legislation.gov.uk/ukpga/1991/57/schedule/11/paragraph/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18745961]: Textual amendment: Words in Sch. 11 para. 4 substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 184](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/184) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)

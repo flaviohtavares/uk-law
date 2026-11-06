@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Recovery of overpaid tax etc[^c845191][^key-e0b4aa9d06fd5b92f542441b6bcb78c5]
+## 33. Recovery of overpaid tax etc[^c845191][^c-e0b4aa9d06fd5b92f542441b6bcb78c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 1AB contains provision for and in connection with claims for the recove
 
 [^c845191]: Modification: S. 33 applied (with modifications) by the [Oil Taxation Act 1975 (c. 22)](https://www.legislation.gov.uk/ukpga/1975/22), [s. 1](https://www.legislation.gov.uk/ukpga/1975/22/section/1), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/2/paragraph/1/1)
 
-[^key-e0b4aa9d06fd5b92f542441b6bcb78c5]: Textual amendment: S. 33 substituted for ss. 33, 33A (with effect in accordance with s. 100(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 52 para. 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/52/paragraph/1) (with [Sch. 52 para. 11](https://www.legislation.gov.uk/ukpga/2009/10/schedule/52/paragraph/11))
+[^c-e0b4aa9d06fd5b92f542441b6bcb78c5]: Textual amendment: S. 33 substituted for ss. 33, 33A (with effect in accordance with s. 100(2) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 52 para. 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/52/paragraph/1) (with [Sch. 52 para. 11](https://www.legislation.gov.uk/ukpga/2009/10/schedule/52/paragraph/11))

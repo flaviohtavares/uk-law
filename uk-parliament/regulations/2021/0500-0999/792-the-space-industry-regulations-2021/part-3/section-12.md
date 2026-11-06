@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Licensee’s duty to ensure necessary resources for individuals in prescribed roles[^key-8227402072933a7f68aab2f42e193d00]
+## 12. Licensee’s duty to ensure necessary resources for individuals in prescribed roles[^c-8227402072933a7f68aab2f42e193d00]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a licensee is required to appoint an individual to undertake a prescribed 
 
 ## Annotations
 
-[^key-8227402072933a7f68aab2f42e193d00]: Commencement: Reg. 12 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-8227402072933a7f68aab2f42e193d00]: Commencement: Reg. 12 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

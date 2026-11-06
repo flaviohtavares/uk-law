@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 583. Functions of the Financial Services Authority[^key-c04cdac8b76c1914d9b4746d49505704]
+## 583. Functions of the Financial Services Authority[^c-c04cdac8b76c1914d9b4746d49505704]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In article 16[^f00365] of the Unfair Terms in Consumer Contracts Regulations 199
 
 ## Annotations
 
-[^key-c04cdac8b76c1914d9b4746d49505704]: Commencement: Art. 583 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c04cdac8b76c1914d9b4746d49505704]: Commencement: Art. 583 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00365]: Footnote: Article 16 was inserted by [S.I. 2001/1186](https://www.legislation.gov.uk/uksi/2001/1186), regulation 2(a).

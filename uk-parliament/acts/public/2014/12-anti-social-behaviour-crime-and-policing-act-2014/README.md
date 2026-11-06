@@ -38,30 +38,30 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Contents
 
-### Part A1 — Respect orders[^key-46ea62b2babd461d652a29242d0ad146]
+### Part A1 — Respect orders[^c-46ea62b2babd461d652a29242d0ad146]
 
-#### Respect orders[^key-46ea62b2babd461d652a29242d0ad146]
+#### Respect orders[^c-46ea62b2babd461d652a29242d0ad146]
 
 - [Section A1 — Power to make respect orders](part-a1/section-a1.md)
 - [Section B1 — Section A1: meaning of “relevant authority”](part-a1/section-b1.md)
 
-#### Contents of respect orders[^key-46ea62b2babd461d652a29242d0ad146]
+#### Contents of respect orders[^c-46ea62b2babd461d652a29242d0ad146]
 
 - [Section C1 — Power to exclude person from home in cases of violence or risk of harm](part-a1/section-c1.md)
 - [Section D1 — Requirements included in respect orders](part-a1/section-d1.md)
 
-#### Procedure[^key-46ea62b2babd461d652a29242d0ad146]
+#### Procedure[^c-46ea62b2babd461d652a29242d0ad146]
 
 - [Section E1 — Applications without notice](part-a1/section-e1.md)
 - [Section F1 — Interim respect orders](part-a1/section-f1.md)
 - [Section G1 — Variation and discharge of respect orders](part-a1/section-g1.md)
 
-#### Breaches of respect orders[^key-46ea62b2babd461d652a29242d0ad146]
+#### Breaches of respect orders[^c-46ea62b2babd461d652a29242d0ad146]
 
 - [Section H1 — Duty to give warning for breach of activity requirement](part-a1/section-h1.md)
 - [Section I1 — Offence of breach of respect order](part-a1/section-i1.md)
 
-#### Supplementary[^key-46ea62b2babd461d652a29242d0ad146]
+#### Supplementary[^c-46ea62b2babd461d652a29242d0ad146]
 
 - [Section J1 — Requirement to carry out risk assessment](part-a1/section-j1.md)
 - [Section K1 — Requirements to give notice of applications](part-a1/section-k1.md)
@@ -69,7 +69,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section M1 — Guidance](part-a1/section-m1.md)
 - [Section N1 — Interpretation etc](part-a1/section-n1.md)
 
-### PART 1 — Injunctions[^key-0599284d15b225c76ceba197f0da02e5]
+### PART 1 — Injunctions[^c-0599284d15b225c76ceba197f0da02e5]
 
 *Extent: E+W*
 
@@ -202,9 +202,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 57 — Interpretation of Chapter 1](part-4/section-57.md)
 - [Section 58 — Saving and transitional provision](part-4/section-58.md)
 
-#### CHAPTER 2 — Public spaces protection orders and expedited orders[^key-2524e49d6c2761f2521bd2bce32c3d02]
+#### CHAPTER 2 — Public spaces protection orders and expedited orders[^c-2524e49d6c2761f2521bd2bce32c3d02]
 
-##### Public spaces protection orders and expedited orders[^key-51b45b9cdfb841decd97060499dedb29]
+##### Public spaces protection orders and expedited orders[^c-51b45b9cdfb841decd97060499dedb29]
 
 - [Section 59 — Power to make public spaces protection orders](part-4/section-59.md)
 - [Section 59A — Power to make expedited public spaces protection orders](part-4/section-59a.md)
@@ -317,7 +317,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 104 — Review of response to complaints](part-6/section-104.md)
 - [Section 105 — ASB case reviews: interpretation](part-6/section-105.md)
 
-#### Information relating to anti-social behaviour[^key-efdcf582613d1eb3ebc914f77aeb770d]
+#### Information relating to anti-social behaviour[^c-efdcf582613d1eb3ebc914f77aeb770d]
 
 - [Section 105A — Provision of information to Secretary of State](part-6/section-105a.md)
 
@@ -495,12 +495,12 @@ SCHEDULES
 
 ## Annotations
 
-[^key-46ea62b2babd461d652a29242d0ad146]: Textual amendment: [Pt. A1](https://www.legislation.gov.uk/ukpga/2014/12/part/A1) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/1/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/a)
+[^c-46ea62b2babd461d652a29242d0ad146]: Textual amendment: [Pt. A1](https://www.legislation.gov.uk/ukpga/2014/12/part/A1) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/1/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/a)
 
-[^key-0599284d15b225c76ceba197f0da02e5]: Modification: Pt. 1 applied (with modifications) (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2017/510/article/20/3)
+[^c-0599284d15b225c76ceba197f0da02e5]: Modification: Pt. 1 applied (with modifications) (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2017/510/article/20/3)
 
-[^key-2524e49d6c2761f2521bd2bce32c3d02]: Textual amendment: Words in [Pt. 4 Ch. 2](https://www.legislation.gov.uk/ukpga/2014/12/part/4/chapter/2) heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/2); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-2524e49d6c2761f2521bd2bce32c3d02]: Textual amendment: Words in [Pt. 4 Ch. 2](https://www.legislation.gov.uk/ukpga/2014/12/part/4/chapter/2) heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/2); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
 
-[^key-51b45b9cdfb841decd97060499dedb29]: Textual amendment: Words in [s. 59 cross-heading](https://www.legislation.gov.uk/ukpga/2014/12/part/4/chapter/2/crossheading/public-spaces-protection-orders) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/3); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-51b45b9cdfb841decd97060499dedb29]: Textual amendment: Words in [s. 59 cross-heading](https://www.legislation.gov.uk/ukpga/2014/12/part/4/chapter/2/crossheading/public-spaces-protection-orders) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/3); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
 
-[^key-efdcf582613d1eb3ebc914f77aeb770d]: Textual amendment: [S. 105A](https://www.legislation.gov.uk/ukpga/2014/12/section/105A) and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 7](https://www.legislation.gov.uk/ukpga/2026/20/section/7), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/b)
+[^c-efdcf582613d1eb3ebc914f77aeb770d]: Textual amendment: [S. 105A](https://www.legislation.gov.uk/ukpga/2014/12/section/105A) and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 7](https://www.legislation.gov.uk/ukpga/2026/20/section/7), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/b)

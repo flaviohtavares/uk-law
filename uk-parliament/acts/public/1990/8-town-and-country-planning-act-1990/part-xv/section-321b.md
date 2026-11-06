@@ -30,7 +30,7 @@ summary: ''
 
 (5) [^c19218641]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-d0782802227f4c8292835d5765d81953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d0782802227f4c8292835d5765d81953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c19218641]: Textual amendment: S. 321B(5) repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [ss. 160](https://www.legislation.gov.uk/ukpga/2006/32/section/160), [161](https://www.legislation.gov.uk/ukpga/2006/32/section/161), [163](https://www.legislation.gov.uk/ukpga/2006/32/section/163), [Sch. 10 para. 35(b)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/35/b), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/32/schedule/12) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/22)), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
 
-[^key-d0782802227f4c8292835d5765d81953]: Textual amendment: S. 321B(6) omitted (6.9.2015) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 4(7)](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/4/7)
+[^c-d0782802227f4c8292835d5765d81953]: Textual amendment: S. 321B(6) omitted (6.9.2015) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/a), [Sch. 7 para. 4(7)](https://www.legislation.gov.uk/anaw/2015/4/schedule/7/paragraph/4/7)

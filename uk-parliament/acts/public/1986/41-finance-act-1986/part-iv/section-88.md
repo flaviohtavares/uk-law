@@ -51,7 +51,7 @@ and in this subsection “**stock exchange nominee**” means a person designate
 - (b) under the arrangement stock is transferred to A or his nominee by an instrument on which stamp duty is not chargeable by virtue only of section 80C(2) above, but
 - (c) it becomes apparent that stock of the same kind or amount will not be transferred to B or his nominee by A or his nominee in accordance with the arrangement,
 
-then, if section 80D does not apply,[^key-91f926759144434193342bae06595083] the instrument shall be disregarded in construing section 92(1A) and (1B) below.
+then, if section 80D does not apply,[^c-91f926759144434193342bae06595083] the instrument shall be disregarded in construing section 92(1A) and (1B) below.
 
 (1D) Where—
 
@@ -125,7 +125,7 @@ and as if the instrument in question (or the two or more instruments in question
 
 [^c22549571]: Textual amendment: S. 88(1C)(1D) inserted (with effect in accordance with s. 106(7) of the amending Act) by Finance Act 1997 (c. 16 {s. 103(4)}
 
-[^key-91f926759144434193342bae06595083]: Textual amendment: Words in [s. 88(1C)](https://www.legislation.gov.uk/ukpga/1986/41/section/88/1C/c) inserted (with effect in accordance with s. 83(2)(3) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 37 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/37/paragraph/3)
+[^c-91f926759144434193342bae06595083]: Textual amendment: Words in [s. 88(1C)](https://www.legislation.gov.uk/ukpga/1986/41/section/88/1C/c) inserted (with effect in accordance with s. 83(2)(3) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 37 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/37/paragraph/3)
 
 [^c22549121]: Textual amendment: S. 88(2)(3) repealed (with effect in accordance with [s. 188(5)](https://www.legislation.gov.uk/ukpga/1996/8/section/188/5) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [ss. 188(3)](https://www.legislation.gov.uk/ukpga/1996/8/section/188/3), [205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. 7](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/7)
 

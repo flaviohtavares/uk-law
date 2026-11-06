@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Interpretation of Part 5[^key-5e2ad395c632a9cd53b66c948c0fd85d]
+## 99. Interpretation of Part 5[^c-5e2ad395c632a9cd53b66c948c0fd85d]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e2ad395c632a9cd53b66c948c0fd85d]: Commencement: S. 99 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-5e2ad395c632a9cd53b66c948c0fd85d]: Commencement: S. 99 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

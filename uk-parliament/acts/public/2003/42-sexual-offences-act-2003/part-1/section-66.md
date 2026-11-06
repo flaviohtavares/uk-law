@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-875f7e4943ae8bd79f72e5c3288989e3][^c20916591] A person (A) who intentionally exposes A’s genitals commits an offence if— *(affected by repeal, see note)*[^c20916591]
+(1)[^c-875f7e4943ae8bd79f72e5c3288989e3][^c20916591] A person (A) who intentionally exposes A’s genitals commits an offence if— *(affected by repeal, see note)*[^c20916591]
 
 - (a) A intends that someone will see the genitals and be caused alarm, distress or humiliation, or *(affected by repeal, see note)*[^c20916591]
 - (b) A exposes the genitals for the purpose of obtaining sexual gratification and does so— *(affected by repeal, see note)*[^c20916591]
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-875f7e4943ae8bd79f72e5c3288989e3]: Textual amendment: S. 66(1)(1A) substituted for s. 66(1) (29.9.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 113](https://www.legislation.gov.uk/ukpga/2026/20/section/113), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
+[^c-875f7e4943ae8bd79f72e5c3288989e3]: Textual amendment: S. 66(1)(1A) substituted for s. 66(1) (29.9.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 113](https://www.legislation.gov.uk/ukpga/2026/20/section/113), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
 
 [^c20916591]: Textual amendment: Ss. 66-72 repealed (N.I.) (2.2.2009) by [The Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))](https://www.legislation.gov.uk/nisi/2008/1769), [arts. 1](https://www.legislation.gov.uk/nisi/2008/1769/article/1), [78(e)](https://www.legislation.gov.uk/nisi/2008/1769/article/78/e), [Sch. 3](https://www.legislation.gov.uk/nisi/2008/1769/schedule/3) (with [Sch. 2 para. 1](https://www.legislation.gov.uk/nisi/2008/1769/schedule/2/paragraph/1)) [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)

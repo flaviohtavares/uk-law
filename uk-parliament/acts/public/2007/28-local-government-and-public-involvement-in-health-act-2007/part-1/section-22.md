@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Consequential amendments[^key-a0538d64c11d8c6435456ab95082042c]
+## 22. Consequential amendments[^c-a0538d64c11d8c6435456ab95082042c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 1 (amendments consequential on this Chapter) has effect.
 
 ## Annotations
 
-[^key-a0538d64c11d8c6435456ab95082042c]: Commencement: S. 22 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
+[^c-a0538d64c11d8c6435456ab95082042c]: Commencement: S. 22 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)

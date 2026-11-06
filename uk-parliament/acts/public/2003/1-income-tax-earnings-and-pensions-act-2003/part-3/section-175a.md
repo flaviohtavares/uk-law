@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175A. Optional remuneration arrangements: “relevant amount” and “modified cash equivalent”[^key-9bf5d93441646a5be2ee11d92cccd97a]
+## 175A. Optional remuneration arrangements: “relevant amount” and “modified cash equivalent”[^c-9bf5d93441646a5be2ee11d92cccd97a]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ In this subsection “earnings” is to be interpreted in accordance with sectio
 
 ## Annotations
 
-[^key-9bf5d93441646a5be2ee11d92cccd97a]: Textual amendment: [S. 175A](https://www.legislation.gov.uk/ukpga/2003/1/section/175A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 44(1)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/44/1)
+[^c-9bf5d93441646a5be2ee11d92cccd97a]: Textual amendment: [S. 175A](https://www.legislation.gov.uk/ukpga/2003/1/section/175A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 44(1)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/44/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Fees[^key-8dcc1ba911ee8eab0dc99e626557a084]
+## 39. Fees[^c-8dcc1ba911ee8eab0dc99e626557a084]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ shall not begin until there have been paid all fees payable under these Regulati
 
 ## Annotations
 
-[^key-8dcc1ba911ee8eab0dc99e626557a084]: Commencement: Reg. 39 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-8dcc1ba911ee8eab0dc99e626557a084]: Commencement: Reg. 39 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Online publicity[^key-54d6414b4d81741ba67552c75065711a][^key-5b0a760316aaf9bef98f9aa4324356b2][^key-7c86e252483b81d8cc00ced3b6b9d592][^key-8af0c85f745d7323677f2368566e5eb6]
+## 181. Online publicity[^c-54d6414b4d81741ba67552c75065711a][^c-5b0a760316aaf9bef98f9aa4324356b2][^c-7c86e252483b81d8cc00ced3b6b9d592][^c-8af0c85f745d7323677f2368566e5eb6]
 
 *Extent: E+W*
 
@@ -134,10 +134,10 @@ summary: ''
 
 ## Annotations
 
-[^key-54d6414b4d81741ba67552c75065711a]: Commencement: S. 181 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-54d6414b4d81741ba67552c75065711a]: Commencement: S. 181 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-5b0a760316aaf9bef98f9aa4324356b2]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2023/55/section/181) in force at 31.1.2024 for specified purposes by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/j)
+[^c-5b0a760316aaf9bef98f9aa4324356b2]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2023/55/section/181) in force at 31.1.2024 for specified purposes by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/j)
 
-[^key-7c86e252483b81d8cc00ced3b6b9d592]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2023/55/section/181) in force at 30.4.2024 for E. in so far as not already in force by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/389/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/389/regulation/4))
+[^c-7c86e252483b81d8cc00ced3b6b9d592]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2023/55/section/181) in force at 30.4.2024 for E. in so far as not already in force by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/389/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/389/regulation/4))
 
-[^key-8af0c85f745d7323677f2368566e5eb6]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2023/55/section/181) in force at 2.12.2025 for specified purposes by [S.I. 2025/1262](https://www.legislation.gov.uk/uksi/2025/1262), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/1262/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2025/1262/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1262/regulation/3))
+[^c-8af0c85f745d7323677f2368566e5eb6]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2023/55/section/181) in force at 2.12.2025 for specified purposes by [S.I. 2025/1262](https://www.legislation.gov.uk/uksi/2025/1262), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/1262/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2025/1262/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1262/regulation/3))

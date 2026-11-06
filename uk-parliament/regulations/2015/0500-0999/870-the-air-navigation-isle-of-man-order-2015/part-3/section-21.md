@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Issue and validity of certificates of validation of permits to fly or equivalent documents[^key-1271aed40fd0ba7c44790532ac77b075]
+## 21. Issue and validity of certificates of validation of permits to fly or equivalent documents[^c-1271aed40fd0ba7c44790532ac77b075]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1271aed40fd0ba7c44790532ac77b075]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2015/870/article/21) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-1271aed40fd0ba7c44790532ac77b075]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2015/870/article/21) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

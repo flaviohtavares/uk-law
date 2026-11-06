@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Treatment of students[^key-698c8075ccecd7ba040f0a847d7b8517]
+## 39. Treatment of students[^c-698c8075ccecd7ba040f0a847d7b8517]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ These Regulations shall have effect in relation to students subject to the follo
 
 ## Annotations
 
-[^key-698c8075ccecd7ba040f0a847d7b8517]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1992/1814/regulation/39) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-698c8075ccecd7ba040f0a847d7b8517]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1992/1814/regulation/39) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

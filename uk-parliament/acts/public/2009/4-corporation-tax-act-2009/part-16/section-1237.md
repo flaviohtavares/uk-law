@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1237. Counselling and other outplacement services[^key-6ebd94b4f884e9230c4cc74e174e6dfa]
+## 1237. Counselling and other outplacement services[^c-6ebd94b4f884e9230c4cc74e174e6dfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ebd94b4f884e9230c4cc74e174e6dfa]: Modification: S. 1237 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/3)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-6ebd94b4f884e9230c4cc74e174e6dfa]: Modification: S. 1237 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/3)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))

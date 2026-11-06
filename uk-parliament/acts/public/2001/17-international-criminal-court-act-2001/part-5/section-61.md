@@ -29,7 +29,7 @@ Account may also be taken of any other relevant international jurisprudence.
 (3) The corresponding domestic offences are—
 
 - (a) in relation to article 70.1(a) (giving false testimony when under an obligation to tell the truth), an offence against Article 3(1) of the Perjury (Northern Ireland) Order 1979 (S.I. 1979/1714 (N.I. 19)) ;
-- (b) in relation to article 70.1(b) to (f) (other offences), an offence at common law or (as the case may be) under the Bribery Act 2010[^key-06f7f040e055c051993aa514bbce5b27].
+- (b) in relation to article 70.1(b) to (f) (other offences), an offence at common law or (as the case may be) under the Bribery Act 2010[^c-06f7f040e055c051993aa514bbce5b27].
 
 (4) This section and, so far as may be necessary for the purposes of this section, the enactments and rules of law relating to the corresponding domestic offences apply to acts committed—
 
@@ -49,4 +49,4 @@ in any place in Northern Ireland.
 
 ## Annotations
 
-[^key-06f7f040e055c051993aa514bbce5b27]: Textual amendment: Words in [s. 61(3)(b)](https://www.legislation.gov.uk/ukpga/2001/17/section/61/3/b) inserted (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/23/schedule/1/paragraph/5) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
+[^c-06f7f040e055c051993aa514bbce5b27]: Textual amendment: Words in [s. 61(3)(b)](https://www.legislation.gov.uk/ukpga/2001/17/section/61/3/b) inserted (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2010/23/schedule/1/paragraph/5) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)

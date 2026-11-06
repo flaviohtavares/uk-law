@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule A1 — Assessment of unassessed transfer pricing profits: partnerships and Lloyd’s syndicates[^key-89ecaa45b3afe2a8903e5a498bfbdd53]
+## Schedule A1 — Assessment of unassessed transfer pricing profits: partnerships and Lloyd’s syndicates[^c-89ecaa45b3afe2a8903e5a498bfbdd53]
 
 *Extent: E+W+S+N.I.*
 
@@ -285,4 +285,4 @@ In its application in relation to an appeal against the assessment of the unasse
 
 ## Annotations
 
-[^key-89ecaa45b3afe2a8903e5a498bfbdd53]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/A1) inserted (for accounting periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/46/2), [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/5/paragraph/1/2)
+[^c-89ecaa45b3afe2a8903e5a498bfbdd53]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/A1) inserted (for accounting periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/46/2), [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/5/paragraph/1/2)

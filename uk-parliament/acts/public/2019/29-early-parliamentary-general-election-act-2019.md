@@ -32,18 +32,18 @@ Early Parliamentary General Election Act 2019 (repealed)
 
 2019 c. 29
 
-[^key-b34c105e1a455ba408c1a11fe467d1c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b34c105e1a455ba408c1a11fe467d1c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Early parliamentary general election[^key-b34c105e1a455ba408c1a11fe467d1c7]
+## 1. Early parliamentary general election[^c-b34c105e1a455ba408c1a11fe467d1c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Commencement and short title[^key-b34c105e1a455ba408c1a11fe467d1c7]
+## 2. Commencement and short title[^c-b34c105e1a455ba408c1a11fe467d1c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b34c105e1a455ba408c1a11fe467d1c7]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2019/29) repealed (24.3.2022) by [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/32)
+[^c-b34c105e1a455ba408c1a11fe467d1c7]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2019/29) repealed (24.3.2022) by [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/32)

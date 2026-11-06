@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Minor and consequential amendments relating to this Part[^key-c3cc3c50fe490358ddccc8edff80457e][^key-069a8a2ad68c6a3b585bf8c3248ed00a]
+## 214. Minor and consequential amendments relating to this Part[^c-c3cc3c50fe490358ddccc8edff80457e][^c-069a8a2ad68c6a3b585bf8c3248ed00a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 18 contains minor and consequential amendments relating to this Part.
 
 ## Annotations
 
-[^key-c3cc3c50fe490358ddccc8edff80457e]: Commencement: S. 214 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-c3cc3c50fe490358ddccc8edff80457e]: Commencement: S. 214 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-069a8a2ad68c6a3b585bf8c3248ed00a]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2024/13/section/214) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-069a8a2ad68c6a3b585bf8c3248ed00a]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2024/13/section/214) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

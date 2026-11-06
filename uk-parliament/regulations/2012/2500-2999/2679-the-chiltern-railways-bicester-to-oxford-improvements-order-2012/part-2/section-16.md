@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Replacement and closure of footpath level crossings[^key-610d9566aac022333a95706a67a39ac3]
+## 16. Replacement and closure of footpath level crossings[^c-610d9566aac022333a95706a67a39ac3]
 
 *Extent: E+W+S*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-610d9566aac022333a95706a67a39ac3]: Commencement: Art. 16 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-610d9566aac022333a95706a67a39ac3]: Commencement: Art. 16 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
 
 [^f00014]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 

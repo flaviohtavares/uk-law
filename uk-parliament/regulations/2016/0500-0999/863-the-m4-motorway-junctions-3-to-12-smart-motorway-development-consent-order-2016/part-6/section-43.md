@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Traffic regulation[^key-dd45ab25234cf172f9900a747de7bca5]
+## 43. Traffic regulation[^c-dd45ab25234cf172f9900a747de7bca5]
 
 *Extent: E+W+S*
 
@@ -66,7 +66,7 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-dd45ab25234cf172f9900a747de7bca5]: Commencement: Art. 43 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-dd45ab25234cf172f9900a747de7bca5]: Commencement: Art. 43 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
 
 [^f00034]: Footnote: Section 32 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(1) of, and paragraph 39 of Schedule 8 to, the 1991 Act.
 

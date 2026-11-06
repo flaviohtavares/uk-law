@@ -34,7 +34,7 @@ This Statutory Instrument has been made for the avoidance of doubt with respect 
 
 Health And Safety
 
-The Control of Major Accident Hazards (Amendment) Regulations 2009 (revoked)[^key-778f127a2ce20d2aafdf228055c595ab]
+The Control of Major Accident Hazards (Amendment) Regulations 2009 (revoked)[^c-778f127a2ce20d2aafdf228055c595ab]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 1st July 2009
 
-[^key-778f127a2ce20d2aafdf228055c595ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-778f127a2ce20d2aafdf228055c595ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-778f127a2ce20d2aafdf228055c595ab]
+## 1. Citation and commencement[^c-778f127a2ce20d2aafdf228055c595ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Control of Major Accident Hazards Regulations 1999[^key-778f127a2ce20d2aafdf228055c595ab]
+## 2. Amendment to the Control of Major Accident Hazards Regulations 1999[^c-778f127a2ce20d2aafdf228055c595ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-778f127a2ce20d2aafdf228055c595ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-778f127a2ce20d2aafdf228055c595ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-778f127a2ce20d2aafdf228055c595ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-778f127a2ce20d2aafdf228055c595ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-778f127a2ce20d2aafdf228055c595ab]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1595) revoked (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2015/483/regulation/31) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
+[^c-778f127a2ce20d2aafdf228055c595ab]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1595) revoked (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2015/483/regulation/31) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))

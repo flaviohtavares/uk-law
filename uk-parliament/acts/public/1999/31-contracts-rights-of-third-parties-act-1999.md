@@ -84,7 +84,7 @@ An Act to make provision for the enforcement of contractual terms by third parti
 
 (6) If the court or arbitral tribunal dispenses with a third party’s consent, it may impose such conditions as it thinks fit, including a condition requiring the payment of compensation to the third party.
 
-(7) The jurisdiction conferred on the court by subsections (4) to (6) is exercisable in England and Wales by both the High Court and the county court and in Northern Ireland[^key-f92815bc5bd9efc6fd94d7389a98c088] by both the High Court and a county court.
+(7) The jurisdiction conferred on the court by subsections (4) to (6) is exercisable in England and Wales by both the High Court and the county court and in Northern Ireland[^c-f92815bc5bd9efc6fd94d7389a98c088] by both the High Court and a county court.
 
 ## 3. Defences etc. available to promisor.
 
@@ -241,7 +241,7 @@ the third party shall, if he exercises the right, be treated for the purposes of
 
 [^c879506]: Extent: Act extends to Northern Ireland but the operation of s. 9 is limited by application as mentioned in s. 9(1)
 
-[^key-f92815bc5bd9efc6fd94d7389a98c088]: Textual amendment: Words in [s. 2(7)](https://www.legislation.gov.uk/ukpga/1999/31/section/2/7) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 71](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/71); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f92815bc5bd9efc6fd94d7389a98c088]: Textual amendment: Words in [s. 2(7)](https://www.legislation.gov.uk/ukpga/1999/31/section/2/7) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 71](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/71); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c879516]: Extent: In its application to Northern Ireland, this section has effect subject to the modifications set out in s. 9(2)(3)
 

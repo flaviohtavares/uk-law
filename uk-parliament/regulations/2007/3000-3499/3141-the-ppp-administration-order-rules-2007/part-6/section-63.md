@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Applications for costs[^key-457e5b5feab61b1c3ff553dc906d344c]
+## 63. Applications for costs[^c-457e5b5feab61b1c3ff553dc906d344c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-457e5b5feab61b1c3ff553dc906d344c]: Commencement: [Rule 63](https://www.legislation.gov.uk/uksi/2007/3141/rule/63) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-457e5b5feab61b1c3ff553dc906d344c]: Commencement: [Rule 63](https://www.legislation.gov.uk/uksi/2007/3141/rule/63) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

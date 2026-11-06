@@ -32,7 +32,7 @@ summary: ''
 
 Banks And Banking
 
-The Cash Ratio Deposits (Value Bands and Ratios) Order 2013 (revoked)[^key-49ff4697ec9f2e07a6ad06645f81c841]
+The Cash Ratio Deposits (Value Bands and Ratios) Order 2013 (revoked)[^c-49ff4697ec9f2e07a6ad06645f81c841]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 3rd June 2013
 
-[^key-49ff4697ec9f2e07a6ad06645f81c841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49ff4697ec9f2e07a6ad06645f81c841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-49ff4697ec9f2e07a6ad06645f81c841]
+## 1. Citation and commencement[^c-49ff4697ec9f2e07a6ad06645f81c841]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation of the 2008 Order[^key-49ff4697ec9f2e07a6ad06645f81c841]
+## 2. Revocation of the 2008 Order[^c-49ff4697ec9f2e07a6ad06645f81c841]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Value bands and ratios[^key-49ff4697ec9f2e07a6ad06645f81c841]
+## 3. Value bands and ratios[^c-49ff4697ec9f2e07a6ad06645f81c841]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-49ff4697ec9f2e07a6ad06645f81c841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49ff4697ec9f2e07a6ad06645f81c841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-49ff4697ec9f2e07a6ad06645f81c841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49ff4697ec9f2e07a6ad06645f81c841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49ff4697ec9f2e07a6ad06645f81c841]: Textual amendment: Order revoked (1.6.2018) by [The Cash Ratio Deposits (Value Bands and Ratios) Order 2018 (S.I. 2018/633)](https://www.legislation.gov.uk/uksi/2018/633), [arts. 1](https://www.legislation.gov.uk/uksi/2018/633/article/1), [3](https://www.legislation.gov.uk/uksi/2018/633/article/3)
+[^c-49ff4697ec9f2e07a6ad06645f81c841]: Textual amendment: Order revoked (1.6.2018) by [The Cash Ratio Deposits (Value Bands and Ratios) Order 2018 (S.I. 2018/633)](https://www.legislation.gov.uk/uksi/2018/633), [arts. 1](https://www.legislation.gov.uk/uksi/2018/633/article/1), [3](https://www.legislation.gov.uk/uksi/2018/633/article/3)

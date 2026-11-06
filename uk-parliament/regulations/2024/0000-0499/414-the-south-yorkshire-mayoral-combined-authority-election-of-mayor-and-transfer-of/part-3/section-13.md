@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Consequential amendments[^key-ad8947d11fb69e28a4bc634d1c972b3b]
+## 13. Consequential amendments[^c-ad8947d11fb69e28a4bc634d1c972b3b]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In the Police and Crime Commissioner Elections Order 2012[^f00021]—
 
 ## Annotations
 
-[^key-ad8947d11fb69e28a4bc634d1c972b3b]: Commencement: Art. 13 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
+[^c-ad8947d11fb69e28a4bc634d1c972b3b]: Commencement: Art. 13 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
 
 [^f00021]: Footnote: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917), amended by [S.I. 2014/921](https://www.legislation.gov.uk/uksi/2014/921), [2016/300](https://www.legislation.gov.uk/uksi/2016/300), [2017/67](https://www.legislation.gov.uk/uksi/2017/67), [2018/1310](https://www.legislation.gov.uk/uksi/2018/1310), [2021/1265](https://www.legislation.gov.uk/uksi/2021/1265), [2022/1275](https://www.legislation.gov.uk/uksi/2022/1275), [2022/1354](https://www.legislation.gov.uk/uksi/2022/1354) and [2022/1382](https://www.legislation.gov.uk/uksi/2022/1382).

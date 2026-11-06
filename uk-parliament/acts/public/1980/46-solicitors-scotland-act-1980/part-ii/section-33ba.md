@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33BA. Privilege of law centres, citizens advice bodies and charities from disclosure etc.[^key-f473878d27e2b60964f73dcecee71195]
+## 33BA. Privilege of law centres, citizens advice bodies and charities from disclosure etc.[^c-f473878d27e2b60964f73dcecee71195]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f473878d27e2b60964f73dcecee71195]: Textual amendment: S. 33BA inserted (5.3.2026) by [Regulation of Legal Services (Scotland) Act 2025 (asp 8)](https://www.legislation.gov.uk/asp/2025/8), [ss. 89(4)](https://www.legislation.gov.uk/asp/2025/8/section/89/4), [103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3); [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-f473878d27e2b60964f73dcecee71195]: Textual amendment: S. 33BA inserted (5.3.2026) by [Regulation of Legal Services (Scotland) Act 2025 (asp 8)](https://www.legislation.gov.uk/asp/2025/8), [ss. 89(4)](https://www.legislation.gov.uk/asp/2025/8/section/89/4), [103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3); [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

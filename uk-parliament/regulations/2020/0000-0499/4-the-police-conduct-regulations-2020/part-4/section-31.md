@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Procedure on receipt of notice[^key-f83c7131ac5ea3f108ab31e96c12245c]
+## 31. Procedure on receipt of notice[^c-f83c7131ac5ea3f108ab31e96c12245c]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ the officer concerned must comply with paragraphs (2) and (3).
 
 ## Annotations
 
-[^key-f83c7131ac5ea3f108ab31e96c12245c]: Commencement: Reg. 31 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-f83c7131ac5ea3f108ab31e96c12245c]: Commencement: Reg. 31 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

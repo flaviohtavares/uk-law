@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Entry Level Agri-Environment Scheme (Pilot) (England) Regulations 2003 (revoked)[^key-14fabf2fde84cca06cc8bebfe03f9500]
+The Entry Level Agri-Environment Scheme (Pilot) (England) Regulations 2003 (revoked)[^c-14fabf2fde84cca06cc8bebfe03f9500]
 
 Made
 
@@ -45,47 +45,47 @@ Coming into force
 
 18th April 2003
 
-[^key-14fabf2fde84cca06cc8bebfe03f9500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14fabf2fde84cca06cc8bebfe03f9500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-14fabf2fde84cca06cc8bebfe03f9500]
+## 1. Title, commencement and application[^c-14fabf2fde84cca06cc8bebfe03f9500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-14fabf2fde84cca06cc8bebfe03f9500]
+## 2. Interpretation[^c-14fabf2fde84cca06cc8bebfe03f9500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Applications[^key-14fabf2fde84cca06cc8bebfe03f9500]
+## 3. Applications[^c-14fabf2fde84cca06cc8bebfe03f9500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Power to enter into agreements[^key-14fabf2fde84cca06cc8bebfe03f9500]
+## 4. Power to enter into agreements[^c-14fabf2fde84cca06cc8bebfe03f9500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Points target[^key-14fabf2fde84cca06cc8bebfe03f9500]
+## 5. Points target[^c-14fabf2fde84cca06cc8bebfe03f9500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Conditions of grant[^key-14fabf2fde84cca06cc8bebfe03f9500]
+## 6. Conditions of grant[^c-14fabf2fde84cca06cc8bebfe03f9500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Power to make payments of grant[^key-14fabf2fde84cca06cc8bebfe03f9500]
+## 7. Power to make payments of grant[^c-14fabf2fde84cca06cc8bebfe03f9500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Power to recover or withhold payments[^key-14fabf2fde84cca06cc8bebfe03f9500]
+## 8. Power to recover or withhold payments[^c-14fabf2fde84cca06cc8bebfe03f9500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-14fabf2fde84cca06cc8bebfe03f9500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14fabf2fde84cca06cc8bebfe03f9500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — ACTIVITIES FOR WHICH POINTS MAY BE OBTAINED[^key-14fabf2fde84cca06cc8bebfe03f9500]
+## SCHEDULE — ACTIVITIES FOR WHICH POINTS MAY BE OBTAINED[^c-14fabf2fde84cca06cc8bebfe03f9500]
 
 Regulation 5(2)(b)
 
@@ -93,8 +93,8 @@ Regulation 5(2)(b)
 
 **May not be in force at this date. Check the source.**
 
-[^key-14fabf2fde84cca06cc8bebfe03f9500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-14fabf2fde84cca06cc8bebfe03f9500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-14fabf2fde84cca06cc8bebfe03f9500]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2003/838) revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)
+[^c-14fabf2fde84cca06cc8bebfe03f9500]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2003/838) revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)

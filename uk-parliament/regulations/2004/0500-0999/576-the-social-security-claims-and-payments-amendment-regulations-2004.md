@@ -52,7 +52,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 In paragraph 4(2A) of Schedule 9 to the Social Security (Claims and Payments) Regulations 1987 [^c530402] (deduction from benefit and direct payments to third parties), for the amount “£17.50” in each place where it appears, there is substituted the amount “ £18.10 ” .
 
-## 3. Amendment of paragraph 7 of Schedule 9A to the Social Security (Claims and Payments) Regulations 1987[^key-aeaff1f00cc7d7d6216ed5fdeac36cc0]
+## 3. Amendment of paragraph 7 of Schedule 9A to the Social Security (Claims and Payments) Regulations 1987[^c-aeaff1f00cc7d7d6216ed5fdeac36cc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -84,4 +84,4 @@ The impact on business of applying these Regulations is minimal and the publicat
 
 [^c530402]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Paragraph 4(2A) of Schedule 9 was inserted by Regulation 2 of [S.I. 2003/2325](https://www.legislation.gov.uk/uksi/2003/2325).
 
-[^key-aeaff1f00cc7d7d6216ed5fdeac36cc0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/576/regulation/3) revoked (1.4.2017) by [The Social Security (Fees Payable by Qualifying Lenders) (Amendment) Regulations 2017 (S.I. 2017/270)](https://www.legislation.gov.uk/uksi/2017/270), [regs. 1](https://www.legislation.gov.uk/uksi/2017/270/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/270/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2017/270/schedule)
+[^c-aeaff1f00cc7d7d6216ed5fdeac36cc0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/576/regulation/3) revoked (1.4.2017) by [The Social Security (Fees Payable by Qualifying Lenders) (Amendment) Regulations 2017 (S.I. 2017/270)](https://www.legislation.gov.uk/uksi/2017/270), [regs. 1](https://www.legislation.gov.uk/uksi/2017/270/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/270/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2017/270/schedule)

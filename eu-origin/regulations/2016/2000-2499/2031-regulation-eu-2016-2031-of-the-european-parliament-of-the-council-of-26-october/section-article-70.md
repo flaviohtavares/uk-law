@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The professional operators who are supplied with, or supply, the plants, plant products or other objects in the trade units[^key-899921a86ed0ec866ac34e9ca7d841c6] referred to in Article 69(1) and (2) shall have in place traceability systems or procedures to allow identification of the movements of those plants, plant products and other objects within and between their own premises.
+1. The professional operators who are supplied with, or supply, the plants, plant products or other objects in the trade units[^c-899921a86ed0ec866ac34e9ca7d841c6] referred to in Article 69(1) and (2) shall have in place traceability systems or procedures to allow identification of the movements of those plants, plant products and other objects within and between their own premises.
 
 The first subparagraph shall not apply to the professional operators referred to in points (c) and (d) of the first subparagraph of Article 65(3).
 
@@ -28,4 +28,4 @@ The first subparagraph shall not apply to the professional operators referred to
 
 ## Annotations
 
-[^key-899921a86ed0ec866ac34e9ca7d841c6]: Textual amendment: Words in Art. 70(1) inserted (27.1.2021) by [The Plant Health (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/79)](https://www.legislation.gov.uk/uksi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/79/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2021/79/regulation/3/9)
+[^c-899921a86ed0ec866ac34e9ca7d841c6]: Textual amendment: Words in Art. 70(1) inserted (27.1.2021) by [The Plant Health (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/79)](https://www.legislation.gov.uk/uksi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/79/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2021/79/regulation/3/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Requirement to provide national insurance number[^key-72b3ec5639151c373dbb32e5b6b25c36]
+## 41. Requirement to provide national insurance number[^c-72b3ec5639151c373dbb32e5b6b25c36]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72b3ec5639151c373dbb32e5b6b25c36]: Commencement: Reg. 41 in force at 27.5.2019, see reg. 1(2)
+[^c-72b3ec5639151c373dbb32e5b6b25c36]: Commencement: Reg. 41 in force at 27.5.2019, see reg. 1(2)

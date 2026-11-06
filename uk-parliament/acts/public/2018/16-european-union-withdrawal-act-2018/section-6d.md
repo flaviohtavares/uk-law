@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6D. Incompatibility orders[^key-3176b41c3eaa0893778ac9c577dedf11]
+## 6D. Incompatibility orders[^c-3176b41c3eaa0893778ac9c577dedf11]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3176b41c3eaa0893778ac9c577dedf11]: Textual amendment: [S. 6D](https://www.legislation.gov.uk/ukpga/2018/16/section/6D) inserted (1.1.2024) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 8](https://www.legislation.gov.uk/ukpga/2023/28/section/8), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/d)
+[^c-3176b41c3eaa0893778ac9c577dedf11]: Textual amendment: [S. 6D](https://www.legislation.gov.uk/ukpga/2018/16/section/6D) inserted (1.1.2024) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 8](https://www.legislation.gov.uk/ukpga/2023/28/section/8), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/d)
 
 [^M_F_85be38f2-f048-4183-eefd-a28bd60ea8d7]: Textual amendment: Words in s. 6D(1)(a) substituted (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 2 para. 8(7)](https://www.legislation.gov.uk/ukpga/2023/28/schedule/2/paragraph/8/7) (with [s. 22(6)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/6)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1363/regulation/3/e)
 

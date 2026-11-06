@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Generating stations in respect of which a NFFO arrangement applied but was terminated[^key-181b8692f6a5e7d83a1d5a3fa38993c5]
+## 19. Generating stations in respect of which a NFFO arrangement applied but was terminated[^c-181b8692f6a5e7d83a1d5a3fa38993c5]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-181b8692f6a5e7d83a1d5a3fa38993c5]: Commencement: Art. 19 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-181b8692f6a5e7d83a1d5a3fa38993c5]: Commencement: Art. 19 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

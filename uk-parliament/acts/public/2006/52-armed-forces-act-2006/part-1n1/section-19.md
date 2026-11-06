@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Conduct prejudicial to good order and discipline[^key-702427e9647bb0c3a79c1b9974d54afa][^key-5aff9c92929ee67ca0ecb396f1ebf408][^key-fc9b6e7da6f79523379d4afd43a06340]
+## 19. Conduct prejudicial to good order and discipline[^c-702427e9647bb0c3a79c1b9974d54afa][^c-5aff9c92929ee67ca0ecb396f1ebf408][^c-fc9b6e7da6f79523379d4afd43a06340]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-702427e9647bb0c3a79c1b9974d54afa]: Commencement: S. 19 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-702427e9647bb0c3a79c1b9974d54afa]: Commencement: S. 19 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5aff9c92929ee67ca0ecb396f1ebf408]: Commencement: S. 19 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5aff9c92929ee67ca0ecb396f1ebf408]: Commencement: S. 19 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-fc9b6e7da6f79523379d4afd43a06340]: Modification: S. 19 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/826/regulation/5/4) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))
+[^c-fc9b6e7da6f79523379d4afd43a06340]: Modification: S. 19 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/826/regulation/5/4) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))

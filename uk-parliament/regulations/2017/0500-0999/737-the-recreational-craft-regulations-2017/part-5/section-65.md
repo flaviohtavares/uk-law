@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Designation of market surveillance authorities[^key-ad67aa063f23b04e516dd1e7965321b5]
+## 65. Designation of market surveillance authorities[^c-ad67aa063f23b04e516dd1e7965321b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The market surveillance authority is—
 
 ## Annotations
 
-[^key-ad67aa063f23b04e516dd1e7965321b5]: Commencement: Reg. 65 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-ad67aa063f23b04e516dd1e7965321b5]: Commencement: Reg. 65 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

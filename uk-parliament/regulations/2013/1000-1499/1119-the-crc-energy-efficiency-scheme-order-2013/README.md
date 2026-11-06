@@ -30,36 +30,36 @@ summary: ''
 
 Climate Change
 
-The CRC Energy Efficiency Scheme Order 2013 (revoked) *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+The CRC Energy Efficiency Scheme Order 2013 (revoked) *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-[^M_C_ca30a341-1f5e-4ce1-99ee-9983d7746b6a]Made *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+[^M_C_ca30a341-1f5e-4ce1-99ee-9983d7746b6a]Made *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-15th May 2013 *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+15th May 2013 *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-Coming into force in accordance with article 1 *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+Coming into force in accordance with article 1 *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-At the Court at Buckingham Palace, the 15th day of May 2013 *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+At the Court at Buckingham Palace, the 15th day of May 2013 *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-Present, *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+Present, *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-The Queen's Most Excellent Majesty in Council *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+The Queen's Most Excellent Majesty in Council *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-Whereas: *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+Whereas: *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-- (a) the Secretary of State, the Scottish Ministers, the Welsh Ministers and the Department of the Environment of Northern Ireland have in accordance with section 48 of and paragraph 10 of Schedule 3 to the Climate Change Act 2008 *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6] [^c21788531]—
-  - (i) obtained, and taken into account, the advice of the Committee on Climate Change in respect of this Order; and *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
-  - (ii) consulted such persons likely to be affected by this Order as they considered appropriate; *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+- (a) the Secretary of State, the Scottish Ministers, the Welsh Ministers and the Department of the Environment of Northern Ireland have in accordance with section 48 of and paragraph 10 of Schedule 3 to the Climate Change Act 2008 *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6] [^c21788531]—
+  - (i) obtained, and taken into account, the advice of the Committee on Climate Change in respect of this Order; and *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
+  - (ii) consulted such persons likely to be affected by this Order as they considered appropriate; *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-  and *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
-- (b) in accordance with paragraph 11 of Schedule 3 to the Climate Change Act 2008, a draft of the statutory instrument containing this Order has been approved by resolution of each House of Parliament, the Scottish Parliament, the National Assembly for Wales, and the Northern Ireland Assembly, *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+  and *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
+- (b) in accordance with paragraph 11 of Schedule 3 to the Climate Change Act 2008, a draft of the statutory instrument containing this Order has been approved by resolution of each House of Parliament, the Scottish Parliament, the National Assembly for Wales, and the Northern Ireland Assembly, *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-Her Majesty, in exercise of the powers conferred by sections 44, 46(3), 49 and 90(3) of and Schedule 2 and paragraph 9 of Schedule 3 to the Climate Change Act 2008, is pleased, by and with the advice of Her Privy Council, to order as follows: *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+Her Majesty, in exercise of the powers conferred by sections 44, 46(3), 49 and 90(3) of and Schedule 2 and paragraph 9 of Schedule 3 to the Climate Change Act 2008, is pleased, by and with the advice of Her Privy Council, to order as follows: *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
 ## Contents
 
-### PART 1 (affected by repeal, see note) — Introduction (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 1 (affected by repeal, see note) — Introduction (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
-#### CHAPTER 1 (affected by repeal, see note) — General (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+#### CHAPTER 1 (affected by repeal, see note) — General (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — The trading scheme: phases and application](part-1/section-2.md)
@@ -70,20 +70,20 @@ Her Majesty, in exercise of the powers conferred by sections 44, 46(3), 49 and 9
 - [Section 7 — Penalties, offences, appeals, revocations, continuing effect and amendments](part-1/section-7.md)
 - [Section 8 — Groups: liability to comply with this Order](part-1/section-8.md)
 
-#### CHAPTER 2 (affected by repeal, see note) — The administrator and co-operation (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+#### CHAPTER 2 (affected by repeal, see note) — The administrator and co-operation (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 9 — The administrator](part-1/section-9.md)
 - [Section 10 — Co-operation and provision of information](part-1/section-10.md)
 
-### PART 2 (affected by repeal, see note) — Registration as a participant (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 2 (affected by repeal, see note) — Registration as a participant (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
-#### CHAPTER 1 (affected by repeal, see note) — General (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+#### CHAPTER 1 (affected by repeal, see note) — General (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 11 — Applications, information and charges](part-2/section-11.md)
 - [Section 12 — Time for applications](part-2/section-12.md)
 - [Section 13 — Registration and certificates](part-2/section-13.md)
 
-#### CHAPTER 2 (affected by repeal, see note) — Public bodies (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+#### CHAPTER 2 (affected by repeal, see note) — Public bodies (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 14 — Government departments and the devolved administrations](part-2/section-14.md)
 - [Section 15 — Other public bodies](part-2/section-15.md)
@@ -91,14 +91,14 @@ Her Majesty, in exercise of the powers conferred by sections 44, 46(3), 49 and 9
 - [Section 17 — Public bodies: applications other than by groups](part-2/section-17.md)
 - [Section 18 — Determinations by the administrator](part-2/section-18.md)
 
-#### CHAPTER 3 (affected by repeal, see note) — Universities and colleges: England (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+#### CHAPTER 3 (affected by repeal, see note) — Universities and colleges: England (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 19 — Universities and colleges: England](part-2/section-19.md)
 - [Section 20 — Qualifying electricity](part-2/section-20.md)
 - [Section 21 — Universities and colleges: groups](part-2/section-21.md)
 - [Section 22 — Applications](part-2/section-22.md)
 
-#### CHAPTER 4 (affected by repeal, see note) — Undertakings (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+#### CHAPTER 4 (affected by repeal, see note) — Undertakings (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 23 — Groups of undertakings](part-2/section-23.md)
 - [Section 24 — Undertakings: applications by groups](part-2/section-24.md)
@@ -107,36 +107,36 @@ Her Majesty, in exercise of the powers conferred by sections 44, 46(3), 49 and 9
 - [Section 27 — Changes to undertakings and groups](part-2/section-27.md)
 - [Section 28 — Determinations by the administrator](part-2/section-28.md)
 
-#### CHAPTER 5 (affected by repeal, see note) — Trustees (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+#### CHAPTER 5 (affected by repeal, see note) — Trustees (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 29 — Trustees: separate participation](part-2/section-29.md)
 
-#### CHAPTER 6 (affected by repeal, see note) — Operators (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+#### CHAPTER 6 (affected by repeal, see note) — Operators (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 30 — Operators: separate participation](part-2/section-30.md)
 
-### PART 3 (affected by repeal, see note) — Annual reports (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 3 (affected by repeal, see note) — Annual reports (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 31 — Provision of annual reports](part-3/section-31.md)
 - [Section 32 — Annual report](part-3/section-32.md)
 - [Section 33 — CRC emissions](part-3/section-33.md)
 - [Section 34 — Changes affecting participants](part-3/section-34.md)
 
-### PART 4 (affected by repeal, see note) — Allowances and trading of CRC emissions (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 4 (affected by repeal, see note) — Allowances and trading of CRC emissions (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 35 — Validity of allowances](part-4/section-35.md)
 - [Section 36 — Allowances and CRC emissions](part-4/section-36.md)
 - [Section 37 — Cancellation of allowances and surplus surrendered allowances](part-4/section-37.md)
 - [Section 38 — Allowances and trading](part-4/section-38.md)
 
-### PART 5 (affected by repeal, see note) — Records and notification (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 5 (affected by repeal, see note) — Records and notification (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 39 — General](part-5/section-39.md)
 - [Section 40 — Records: general](part-5/section-40.md)
 - [Section 41 — Records: public disclosure](part-5/section-41.md)
 - [Section 42 — Audit of records](part-5/section-42.md)
 
-### PART 6 (affected by repeal, see note) — Information and assistance requirements (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 6 (affected by repeal, see note) — Information and assistance requirements (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 43 — Supplies of electricity and gas under Part 6](part-6/section-43.md)
 - [Section 44 — Information on electricity and gas supplied from authorised suppliers](part-6/section-44.md)
@@ -146,7 +146,7 @@ Her Majesty, in exercise of the powers conferred by sections 44, 46(3), 49 and 9
 - [Section 48 — Information and assistance: public bodies](part-6/section-48.md)
 - [Section 49 — Information and assistance by administrators, receivers and insolvency practitioners](part-6/section-49.md)
 
-### PART 7 (affected by repeal, see note) — Administration of the scheme (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 7 (affected by repeal, see note) — Administration of the scheme (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -162,12 +162,12 @@ Her Majesty, in exercise of the powers conferred by sections 44, 46(3), 49 and 9
 - [Section 56 — Notification](part-7/section-56.md)
 - [Section 57 — Determinations](part-7/section-57.md)
 
-### PART 8 (affected by repeal, see note) — Performance information and publication (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 8 (affected by repeal, see note) — Performance information and publication (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 58 — Publication of performance information](part-8/section-58.md)
 - [Section 59 — Further publication](part-8/section-59.md)
 
-### PART 9 (affected by repeal, see note) — Charging (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 9 (affected by repeal, see note) — Charging (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 60 — Charges](part-9/section-60.md)
 - [Section 61 — Chargeable activities](part-9/section-61.md)
@@ -175,18 +175,18 @@ Her Majesty, in exercise of the powers conferred by sections 44, 46(3), 49 and 9
 - [Section 63 — Revised charges](part-9/section-63.md)
 - [Section 64 — Collection and remittance of charges](part-9/section-64.md)
 
-### PART 10 (affected by repeal, see note) — Monitoring compliance (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 10 (affected by repeal, see note) — Monitoring compliance (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 65 — Compliance notices](part-10/section-65.md)
 - [Section 66 — Inspections](part-10/section-66.md)
 
-### PART 11 (affected by repeal, see note) — Enforcement (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 11 (affected by repeal, see note) — Enforcement (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 67 — Powers of the administrator in respect of enforcement](part-11/section-67.md)
 - [Section 68 — Notices to provide information: compliance with articles 40 and 41](part-11/section-68.md)
 - [Section 69 — Enforcement notices](part-11/section-69.md)
 
-### PART 12 (affected by repeal, see note) — Civil penalties (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 12 (affected by repeal, see note) — Civil penalties (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 70 — Civil penalties](part-12/section-70.md)
 - [Section 71 — Effect and recovery of civil penalties](part-12/section-71.md)
@@ -201,7 +201,7 @@ Her Majesty, in exercise of the powers conferred by sections 44, 46(3), 49 and 9
 - [Section 80 — Failures to provide information under article 44](part-12/section-80.md)
 - [Section 81 — Blocking and publication](part-12/section-81.md)
 
-### PART 13 (affected by repeal, see note) — Criminal offences and penalties (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 13 (affected by repeal, see note) — Criminal offences and penalties (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 82 — Offences](part-13/section-82.md)
 - [Section 83 — Penalties](part-13/section-83.md)
@@ -209,7 +209,7 @@ Her Majesty, in exercise of the powers conferred by sections 44, 46(3), 49 and 9
 - [Section 85 — Scottish partnerships](part-13/section-85.md)
 - [Section 86 — The Crown](part-13/section-86.md)
 
-### PART 14 (affected by repeal, see note) — Appeals, service of notices and national security (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 14 (affected by repeal, see note) — Appeals, service of notices and national security (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 87 — Appeals: general](part-14/section-87.md)
 - [Section 88 — Grounds of appeal](part-14/section-88.md)
@@ -221,7 +221,7 @@ Her Majesty, in exercise of the powers conferred by sections 44, 46(3), 49 and 9
 - [Section 94 — Service of documents](part-14/section-94.md)
 - [Section 95 — National security](part-14/section-95.md)
 
-### PART 15 (affected by repeal, see note) — Revocations, continuing effect and amendments (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+### PART 15 (affected by repeal, see note) — Revocations, continuing effect and amendments (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 - [Section 96 — Revocations, continuing effect and amendments](part-15/section-96.md)
 
@@ -237,9 +237,9 @@ Her Majesty, in exercise of the powers conferred by sections 44, 46(3), 49 and 9
 
 *Extent: E+W+S+N.I.*
 
-Richard Tilbrook *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+Richard Tilbrook *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-Clerk of the Privy Council *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+Clerk of the Privy Council *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -359,7 +359,7 @@ A full regulatory impact assessment of the effect that this Order will have on t
 
 ## Annotations
 
-[^key-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)
+[^c-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)
 
 [^M_C_ca30a341-1f5e-4ce1-99ee-9983d7746b6a]: Modification: Order modified (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/4), [29(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/a)
 

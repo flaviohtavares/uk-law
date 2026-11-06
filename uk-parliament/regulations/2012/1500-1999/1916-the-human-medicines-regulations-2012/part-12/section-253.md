@@ -44,7 +44,7 @@ summary: ''
 - (a) the record kept under paragraphs (1) to (3);
 - (b) a prescription in pursuance of which a prescription only medicine has been sold or supplied other than—
   - (i) a health prescription, or
-  - (ii) a prescription for a product subject to special medical prescription[^key-3031ea8893a131c594572adf7572289b];
+  - (ii) a prescription for a product subject to special medical prescription[^c-3031ea8893a131c594572adf7572289b];
 - (c) an order or invoice referred to in paragraph (4)(c) or a copy of the order or invoice; and
 - (d) orders referred to in column 3 of Parts 1 to 3 of Schedule 17, except orders referred to in paragraph 3 of Part 1 of that Schedule.
 
@@ -61,4 +61,4 @@ summary: ''
 
 [^c21328781]: Marginal citation: S.R. (NI) [2004 No. 140](https://www.legislation.gov.uk/nisr/2004/140).
 
-[^key-3031ea8893a131c594572adf7572289b]: Textual amendment: Words in reg. 253(5)(b)(ii) substituted (E.W.S.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.I. 2014/490)](https://www.legislation.gov.uk/uksi/2014/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/490/regulation/1/2), [5(2)(h)](https://www.legislation.gov.uk/uksi/2014/490/regulation/5/2/h) and words in reg. 253(5)(b)(ii) substituted (N.I.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.R. 2014/323)](https://www.legislation.gov.uk/nisr/2014/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/323/regulation/1/2), [5(2)(h)](https://www.legislation.gov.uk/nisr/2014/323/regulation/5/2/h)
+[^c-3031ea8893a131c594572adf7572289b]: Textual amendment: Words in reg. 253(5)(b)(ii) substituted (E.W.S.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.I. 2014/490)](https://www.legislation.gov.uk/uksi/2014/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/490/regulation/1/2), [5(2)(h)](https://www.legislation.gov.uk/uksi/2014/490/regulation/5/2/h) and words in reg. 253(5)(b)(ii) substituted (N.I.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.R. 2014/323)](https://www.legislation.gov.uk/nisr/2014/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/323/regulation/1/2), [5(2)(h)](https://www.legislation.gov.uk/nisr/2014/323/regulation/5/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Public Services Ombudsman[^key-b563ca5a392d080d1a56a25718f8770f]
+## 35. Public Services Ombudsman[^c-b563ca5a392d080d1a56a25718f8770f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b563ca5a392d080d1a56a25718f8770f]: Textual amendment: [S. 35](https://www.legislation.gov.uk/anaw/2016/6/section/35) omitted (1.10.2026) by virtue of [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/10); [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(v)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/v)
+[^c-b563ca5a392d080d1a56a25718f8770f]: Textual amendment: [S. 35](https://www.legislation.gov.uk/anaw/2016/6/section/35) omitted (1.10.2026) by virtue of [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/10); [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(v)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/v)

@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1025. Requirements for administrative restoration[^key-1cda2375b19d3b43a89e87247aefa656]
+## 1025. Requirements for administrative restoration[^c-1cda2375b19d3b43a89e87247aefa656]
 
 *Extent: E+W+S+N.I.*
 
-[^key-4c4ee2aa00c414a060a7b4da458ec11e]
+[^c-4c4ee2aa00c414a060a7b4da458ec11e]
 
 (1) On an application under section 1024 the registrar shall restore the company to the register if, and only if, the following conditions are met.
 
-(2)[^key-83b509d6beb934a7a53b0ecfd0b67c6d] The first condition is that—
+(2)[^c-83b509d6beb934a7a53b0ecfd0b67c6d] The first condition is that—
 
 - (a) in the case of a company struck off the register under section 1000 or 1001, the company was carrying on business or in operation at the time of its striking off;
 - (b) in the case of a company struck off the register under section 1002A, at the time of its striking off, the registrar did not have reasonable cause to believe the matter set out in section 1002A(1)(a) or (b).
@@ -38,7 +38,7 @@ summary: ''
 
 that may be demanded as a condition of giving consent.
 
-(5)[^key-ecb59b772bf7c087b2ad2cd46de647a3] The third condition is that the applicant has delivered to the registrar such documents relating to the company as are necessary to ensure that if the company is restored to the register the records kept by the registrar relating to the company will be up to date.
+(5)[^c-ecb59b772bf7c087b2ad2cd46de647a3] The third condition is that the applicant has delivered to the registrar such documents relating to the company as are necessary to ensure that if the company is restored to the register the records kept by the registrar relating to the company will be up to date.
 
 (5A) The fourth condition is—
 
@@ -70,10 +70,10 @@ that may be demanded as a condition of giving consent.
 
 ## Annotations
 
-[^key-1cda2375b19d3b43a89e87247aefa656]: Modification: [Ss. 1024-1028](https://www.legislation.gov.uk/ukpga/2006/46/section/1024) applied (with modifications) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [56](https://www.legislation.gov.uk/uksi/2009/1804/regulation/56) (as amended (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2024/234/regulation/25); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-1cda2375b19d3b43a89e87247aefa656]: Modification: [Ss. 1024-1028](https://www.legislation.gov.uk/ukpga/2006/46/section/1024) applied (with modifications) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [56](https://www.legislation.gov.uk/uksi/2009/1804/regulation/56) (as amended (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2024/234/regulation/25); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
-[^key-4c4ee2aa00c414a060a7b4da458ec11e]: Modification: Pt. 31 Ch. 3 applied (with modifications) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/233/regulation/23); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-4c4ee2aa00c414a060a7b4da458ec11e]: Modification: Pt. 31 Ch. 3 applied (with modifications) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/233/regulation/23); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-83b509d6beb934a7a53b0ecfd0b67c6d]: Textual amendment: [S. 1025(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1025/2) substituted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, 18.3.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 70(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/70/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/c)
+[^c-83b509d6beb934a7a53b0ecfd0b67c6d]: Textual amendment: [S. 1025(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1025/2) substituted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, 18.3.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 70(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/70/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/c)
 
-[^key-ecb59b772bf7c087b2ad2cd46de647a3]: Textual amendment: [S. 1025(5)-(5C)](https://www.legislation.gov.uk/ukpga/2006/46/section/1025/5) substituted for [s. 1025(5)](https://www.legislation.gov.uk/ukpga/2006/46/section/1025/5) (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 71](https://www.legislation.gov.uk/ukpga/2023/56/section/71), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z16)
+[^c-ecb59b772bf7c087b2ad2cd46de647a3]: Textual amendment: [S. 1025(5)-(5C)](https://www.legislation.gov.uk/ukpga/2006/46/section/1025/5) substituted for [s. 1025(5)](https://www.legislation.gov.uk/ukpga/2006/46/section/1025/5) (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 71](https://www.legislation.gov.uk/ukpga/2023/56/section/71), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z16)

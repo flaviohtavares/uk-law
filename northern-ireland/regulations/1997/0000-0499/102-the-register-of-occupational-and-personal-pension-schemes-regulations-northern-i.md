@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 2(2) and (2A), 164(1) and (2), 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-80845b8334f98bd18d09772149d6d4da]
+## 1. Citation, commencement and interpretation[^c-80845b8334f98bd18d09772149d6d4da]
 
 (1) These Regulations may be cited as the Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 1997 and shall come into operation on 1st April 1997.
 
@@ -96,7 +96,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (5) Without prejudice to any other method of service authorised under section 24 of the Interpretation Act (Northern Ireland) 1954, service of a notice under regulation 2(2)(*b*) may be effected by sending the notice by ordinary post to the trustees.
 
-## 2. Information required in respect of registrable schemes[^key-9b9dd153cc3e461773dbf2fefaee468d]
+## 2. Information required in respect of registrable schemes[^c-9b9dd153cc3e461773dbf2fefaee468d]
 
 (1) It is the duty of the trustees of a registrable scheme to provide the Registrar with the following information in accordance with paragraph (2)(*a*)—
 
@@ -123,7 +123,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (a) within 3 months of the date upon which the scheme becomes a registrable scheme, where that date is on or after the date of the coming into operation of these Regulations, with the information specified in paragraph (1); and
 - (b) within 3 months of the receipt of a written notice served by the Registrar on the trustees on or after the date of the coming into operation of these Regulations, with such information incidental to that specified in paragraph (1) as the Registrar may reasonably require for the purposes of the register.
 
-## 3. Notification of changes[^key-13eea9771ef0ccb548d0b11cba6e80cc]
+## 3. Notification of changes[^c-13eea9771ef0ccb548d0b11cba6e80cc]
 
 (1) Except in relation to the information specified in regulation 2(1)(*g*), it is the duty of the trustees of a registrable scheme to notify the Registrar—
 
@@ -134,15 +134,15 @@ within 12 months of the occurrence of that change, or of the date of the coming 
 
 (2) The trustees of a registrable scheme shall notify the Registrar of any change in the total membership within 12 months of the change.
 
-## 4. Availability of information held on the register[^key-53cac273d2c99bb031711f804b6f5625]
+## 4. Availability of information held on the register[^c-53cac273d2c99bb031711f804b6f5625]
 
 The Registrar shall make available to the Pensions Compensation Board[^f00005], and to the Occupational Pensions Regulatory Authority[^f00006], the information received under regulations 2 and 3.
 
-## 5. Offences and penalties[^key-f070f2756fa24c4a8165d01b82c6dd39]
+## 5. Offences and penalties[^c-f070f2756fa24c4a8165d01b82c6dd39]
 
 Where any person, without reasonable cause, fails to comply with any duty imposed under regulation 2, 3 or 6(2) or (3) he is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 6. Transitional provisions[^key-d793402403093e899b5aff1018bf2ae1]
+## 6. Transitional provisions[^c-d793402403093e899b5aff1018bf2ae1]
 
 (1) Subject to any specific transitional provision, anything done under, or for the purposes of the Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 1990[^f00007] (“the 1990 Regulations”) has effect as if done under or for the purposes of the corresponding provision of these Regulations.
 
@@ -150,7 +150,7 @@ Where any person, without reasonable cause, fails to comply with any duty impose
 
 (3) Where a scheme became a registrable scheme before 1st April 1997, it is the duty of the trustees to provide the Registrar with the information specified in regulation 2(1)(*c*) and (*g*) to (*j*) of these Regulations by 30th June 1997.
 
-## 7. Revocations[^key-7041c3c7c7ee1e811e988caa84872304]
+## 7. Revocations[^c-7041c3c7c7ee1e811e988caa84872304]
 
 (1) The Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 1990 are hereby revoked.
 
@@ -195,7 +195,7 @@ The Pensions (1995 Order) (Commencement No. 4) Order (Northern Ireland) 1996 ([S
 
 [^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 2(2A) was inserted by paragraph 13 of Schedule 1 to the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and section 164 was substituted by Article 151(1) of that Order
 
-[^key-80845b8334f98bd18d09772149d6d4da]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
+[^c-80845b8334f98bd18d09772149d6d4da]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1997/371](https://www.legislation.gov.uk/uksi/1997/371)
 
@@ -203,22 +203,22 @@ The Pensions (1995 Order) (Commencement No. 4) Order (Northern Ireland) 1996 ([S
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9b9dd153cc3e461773dbf2fefaee468d]: Commencement: Reg. 2 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
+[^c-9b9dd153cc3e461773dbf2fefaee468d]: Commencement: Reg. 2 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
 
-[^key-13eea9771ef0ccb548d0b11cba6e80cc]: Commencement: Reg. 3 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
+[^c-13eea9771ef0ccb548d0b11cba6e80cc]: Commencement: Reg. 3 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
 
-[^key-53cac273d2c99bb031711f804b6f5625]: Commencement: Reg. 4 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
+[^c-53cac273d2c99bb031711f804b6f5625]: Commencement: Reg. 4 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
 
 [^f00005]: Footnote: The Pensions Compensation Board is established under section 78(1) of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26)
 
 [^f00006]: Footnote: The Occupational Pensions Regulatory Authority is established under section 1(1) of the Pensions Act 1995
 
-[^key-f070f2756fa24c4a8165d01b82c6dd39]: Commencement: Reg. 5 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
+[^c-f070f2756fa24c4a8165d01b82c6dd39]: Commencement: Reg. 5 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
 
-[^key-d793402403093e899b5aff1018bf2ae1]: Commencement: Reg. 6 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
+[^c-d793402403093e899b5aff1018bf2ae1]: Commencement: Reg. 6 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1990 No. 422](https://www.legislation.gov.uk/nisr/1990/422), amended by [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304)
 
-[^key-7041c3c7c7ee1e811e988caa84872304]: Commencement: Reg. 7 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
+[^c-7041c3c7c7ee1e811e988caa84872304]: Commencement: Reg. 7 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/102/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304)

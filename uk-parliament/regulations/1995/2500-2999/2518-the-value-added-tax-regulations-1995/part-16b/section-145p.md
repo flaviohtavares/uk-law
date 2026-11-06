@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**145P.**[^key-b0c2d0f703543376740abee55bf98151] In regulation 145I(2), read the reference to section 18D(2) as a reference to paragraph 22(2) (removal from warehousing: accountability) of Schedule 9ZB to the Act.
+**145P.**[^c-b0c2d0f703543376740abee55bf98151] In regulation 145I(2), read the reference to section 18D(2) as a reference to paragraph 22(2) (removal from warehousing: accountability) of Schedule 9ZB to the Act.
 
 ## Annotations
 
-[^key-b0c2d0f703543376740abee55bf98151]: Textual amendment: [Pt. 16B](https://www.legislation.gov.uk/uksi/1995/2518/part/16B) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [79](https://www.legislation.gov.uk/uksi/2020/1545/regulation/79) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-b0c2d0f703543376740abee55bf98151]: Textual amendment: [Pt. 16B](https://www.legislation.gov.uk/uksi/1995/2518/part/16B) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [79](https://www.legislation.gov.uk/uksi/2020/1545/regulation/79) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Remedial orders[^key-a420726f99a0bac1e19101318fa29fec]
+## 49. Remedial orders[^c-a420726f99a0bac1e19101318fa29fec]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ the defaulter is liable to the authority for that amount (subject to the outcome
 
 ## Annotations
 
-[^key-a420726f99a0bac1e19101318fa29fec]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2014/12/section/49) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-a420726f99a0bac1e19101318fa29fec]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2014/12/section/49) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

@@ -183,7 +183,7 @@ the claim under the said subsection (3) shall be disregarded for the purposes of
 (3) References to section 86 of the Management Act in—
 
 - (a) sections 70(2) and 92 of that Act (evidence, and remission of interest in certain cases), and
-- (b)[^key-6436e36c62d61f249317af3529caf387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6436e36c62d61f249317af3529caf387] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 shall include a reference to section 87A of the Management Act.
 
@@ -264,7 +264,7 @@ In section 118(2) of the Management Act (cases where persons are deemed not to h
 
 - (a) in subsection (2)(a) the words “otherwise than as settled property” shall be omitted;
 - (b) in subsection (2)(b) the words from “otherwise” onwards shall be omitted; and
-- (c)[^key-b7d4375760689a7ea9fe215e9e50ec15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b7d4375760689a7ea9fe215e9e50ec15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) At the end of section 3A there shall be added the following subsection—
 
@@ -286,7 +286,7 @@ In section 118(2) of the Management Act (cases where persons are deemed not to h
 
 (4) In this section “**estate duty**” and “**property**” have the meaning assigned by section 272 of the Inheritance Tax Act 1984.
 
-### 98. Personal pension schemes.[^key-330a67dea6be16a72bcee9c47b488d4a]
+### 98. Personal pension schemes.[^c-330a67dea6be16a72bcee9c47b488d4a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -354,9 +354,9 @@ In section 118(2) of the Management Act (cases where persons are deemed not to h
 >
 > - ’(a) state the total of the shares of the participators in the oil field of the oil won from the field during the period less so much of the oil won from the field as is not saved’.
 
-(5) Subsections (2) to (4) above have effect with respect to chargeable periods ending after 1st January 1987 and [^key-256d5a5e5f789f24b2fc032d83f3c513]..., Schedule 8 to this Act has effect with respect to calendar months in chargeable periods beginning with March 1987.
+(5) Subsections (2) to (4) above have effect with respect to chargeable periods ending after 1st January 1987 and [^c-256d5a5e5f789f24b2fc032d83f3c513]..., Schedule 8 to this Act has effect with respect to calendar months in chargeable periods beginning with March 1987.
 
-(6)[^key-0fad297ac1e6b757f3290e8d4ce40f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0fad297ac1e6b757f3290e8d4ce40f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 102. Government fees and charges.[^c11888931][^c11888941]
 
@@ -368,7 +368,7 @@ In section 118(2) of the Management Act (cases where persons are deemed not to h
 - (b) “**the appropriate authority**” means, if the power is exercisable by a Minister of the Crown or any Commissioners, that Minister or those Commissioners and, in any other case, such Minister of the Crown as the Treasury may determine ; and
 - (c) “**the recipient**” means the Minister or other person to whom the fee is payable.
 
-(3)[^c11888951] In relation to any power to fix a fee, the appropriate authority or any Minister of the Crown with the consent of the appropriate authority may, by order made by statutory instrument, specify functions, whether of the recipient or any other person and whether arising under any enactment, by virtue of the EU[^key-e631434a31695d3002b15d8f7dc7c427] obligation or otherwise, the costs of which, in addition to any other matters already required to be taken into account, are to be taken into account in determing the amount of the fee.
+(3)[^c11888951] In relation to any power to fix a fee, the appropriate authority or any Minister of the Crown with the consent of the appropriate authority may, by order made by statutory instrument, specify functions, whether of the recipient or any other person and whether arising under any enactment, by virtue of the EU[^c-e631434a31695d3002b15d8f7dc7c427] obligation or otherwise, the costs of which, in addition to any other matters already required to be taken into account, are to be taken into account in determing the amount of the fee.
 
 (4)[^c11888961][^c11888951] In relation to any functions of the costs of which fall to be taken into account on the exercise of any power to fix a fee (whether by virtue of subsection (3) above or otherwise), the appropriate authority or any Minister of the Crown with the consent of the appropriate authority may, by order made by statutory instrument, specify matters which, in addition to any matters already required to be taken into account, are to be taken into account in determining the those costs, and, without prejudice to the generality of the power conferred by this subsection, those matters may include deficits incurred before as well as after the exercise of that power, a requirement to secure a return on an amount of capital and depreciation of assets.
 
@@ -390,19 +390,19 @@ In section 118(2) of the Management Act (cases where persons are deemed not to h
 
 ### 103. Consumption in port of goods transhipped for use as stores etc.[^c11889011]
 
-(1)[^key-fb2026aa4abe504096eab094af3eba04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fb2026aa4abe504096eab094af3eba04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-fb2026aa4abe504096eab094af3eba04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fb2026aa4abe504096eab094af3eba04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 1(1) of the Customs and Excise Management Act 1979, at the end of the definition of “transit of transhipment” there shall be added “ or transhipment of those goods for use as stores ”.
 
-(4)[^key-11a3a0a210b94f9bddeb77cb89ff36e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-11a3a0a210b94f9bddeb77cb89ff36e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-11a3a0a210b94f9bddeb77cb89ff36e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-11a3a0a210b94f9bddeb77cb89ff36e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-11a3a0a210b94f9bddeb77cb89ff36e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-11a3a0a210b94f9bddeb77cb89ff36e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-11a3a0a210b94f9bddeb77cb89ff36e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-11a3a0a210b94f9bddeb77cb89ff36e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 104. Short title, interpretation, construction and repeals.
 
@@ -590,7 +590,7 @@ Section 101.
 >
 > (5) In relation to a proposed supply or proposed appropriation which does not fall within sub-paragraph (4) above, the effective volume is the nominal volume.
 
-**5.**[^key-d62d33068db80bde74b9c6d4f3a9c8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d62d33068db80bde74b9c6d4f3a9c8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In paragraph 12 (nominations of blended oil by a participator in two or more fields)—
 
@@ -764,7 +764,7 @@ This repeal has effect for chargeable periods ending after 1st January 1987.
 
 [^c11888511]: Textual amendment: S. 86(1) repealed (11.5.2001 with effect as mentioned in Sch. 33 Pt. 2(14) note 2 of the amending Act) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 110](https://www.legislation.gov.uk/ukpga/2001/9/section/110), [Sch. 33 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/2/14)
 
-[^key-6436e36c62d61f249317af3529caf387]: Textual amendment: [S. 86(3)(b)](https://www.legislation.gov.uk/ukpga/1987/51/section/86/3/b) repealed (with effect in accordance with s. 381(1) of the commencing Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-6436e36c62d61f249317af3529caf387]: Textual amendment: [S. 86(3)(b)](https://www.legislation.gov.uk/ukpga/1987/51/section/86/3/b) repealed (with effect in accordance with s. 381(1) of the commencing Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c11888531]: Textual amendment: [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 29 para. 10(6)](https://www.legislation.gov.uk/ukpga/1988/1/schedule/29/paragraph/10/6). Previously “90 of the Finance (No. 2) Act 1987”.
 
@@ -788,7 +788,7 @@ This repeal has effect for chargeable periods ending after 1st January 1987.
 
 [^c11888771]: Marginal citation: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51).
 
-[^key-b7d4375760689a7ea9fe215e9e50ec15]: Textual amendment: S. 96(2)(c) omitted (with effect in accordance with s. 53(10) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 53(9)](https://www.legislation.gov.uk/ukpga/2010/13/section/53/9)
+[^c-b7d4375760689a7ea9fe215e9e50ec15]: Textual amendment: S. 96(2)(c) omitted (with effect in accordance with s. 53(10) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 53(9)](https://www.legislation.gov.uk/ukpga/2010/13/section/53/9)
 
 [^c11888781]: Marginal citation: [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41).
 
@@ -800,7 +800,7 @@ This repeal has effect for chargeable periods ending after 1st January 1987.
 
 [^c11888821]: Marginal citation: [1896 c. 28](https://www.legislation.gov.uk/ukpga/1896/28).
 
-[^key-330a67dea6be16a72bcee9c47b488d4a]: Textual amendment: [S. 98](https://www.legislation.gov.uk/ukpga/1987/51/section/98) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-330a67dea6be16a72bcee9c47b488d4a]: Textual amendment: [S. 98](https://www.legislation.gov.uk/ukpga/1987/51/section/98) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
 [^c22189091]: Textual amendment: [1987 c. 16](https://www.legislation.gov.uk/ukpga/1987/16).
 
@@ -816,9 +816,9 @@ This repeal has effect for chargeable periods ending after 1st January 1987.
 
 [^c11888921]: Marginal citation: [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22).
 
-[^key-256d5a5e5f789f24b2fc032d83f3c513]: Textual amendment: Words in s. 101(5) repealed (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the commencing Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
+[^c-256d5a5e5f789f24b2fc032d83f3c513]: Textual amendment: Words in s. 101(5) repealed (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the commencing Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
 
-[^key-0fad297ac1e6b757f3290e8d4ce40f84]: Textual amendment: S. 101(6) repealed (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the commencing Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
+[^c-0fad297ac1e6b757f3290e8d4ce40f84]: Textual amendment: S. 101(6) repealed (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the commencing Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
 
 [^c11888931]: Subordinate legislation: S. 102: s. 102 power exercised (22. 03. 1991) by [S.I.1991/811](https://www.legislation.gov.uk/uksi/1991/811)
 
@@ -826,7 +826,7 @@ This repeal has effect for chargeable periods ending after 1st January 1987.
 
 [^c11888951]: Modification: S. 102(3)(4) modified (30.6.1999) by [1999 c. 12](https://www.legislation.gov.uk/ukpga/1999/12), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/1999/12/section/6/2), [9(2)](https://www.legislation.gov.uk/ukpga/1999/12/section/9/2)
 
-[^key-e631434a31695d3002b15d8f7dc7c427]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[, 4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[, 6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-e631434a31695d3002b15d8f7dc7c427]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[, 4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[, 6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c11888961]: Subordinate legislation: S. 102(4): s. 102(4) power exercised (08.05.1991) by [S.I.1991/1142](https://www.legislation.gov.uk/uksi/1991/1142)
 
@@ -838,9 +838,9 @@ This repeal has effect for chargeable periods ending after 1st January 1987.
 
 [^c11889011]: Modification: The text of s. 103 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-fb2026aa4abe504096eab094af3eba04]: Textual amendment: S. 103(1)(2) omitted (1.4.2015) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/5); [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
+[^c-fb2026aa4abe504096eab094af3eba04]: Textual amendment: S. 103(1)(2) omitted (1.4.2015) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/5); [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
 
-[^key-11a3a0a210b94f9bddeb77cb89ff36e1]: Textual amendment: S. 103(4)-(7) omitted (1.4.2015) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/5); [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
+[^c-11a3a0a210b94f9bddeb77cb89ff36e1]: Textual amendment: S. 103(4)-(7) omitted (1.4.2015) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/5); [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2)
 
 [^c11889051]: Marginal citation: [1970 c. 10](https://www.legislation.gov.uk/ukpga/1970/10).
 
@@ -868,4 +868,4 @@ This repeal has effect for chargeable periods ending after 1st January 1987.
 
 [^c11889221]: Marginal citation: [1987 c. 16](https://www.legislation.gov.uk/ukpga/1987/16).
 
-[^key-d62d33068db80bde74b9c6d4f3a9c8ef]: Textual amendment: Sch. 8 para. 5 repealed (with effect in accordance with Sch. 18 para. 11(3) of the commencing Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 11(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/11/2), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)
+[^c-d62d33068db80bde74b9c6d4f3a9c8ef]: Textual amendment: Sch. 8 para. 5 repealed (with effect in accordance with Sch. 18 para. 11(3) of the commencing Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 18 para. 11(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/18/paragraph/11/2), [Sch. 26 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/5/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Creditors' meeting for nomination of alternative liquidator[^key-828b2cc06407a6f330f775540e1b420d]
+## 23. Creditors' meeting for nomination of alternative liquidator[^c-828b2cc06407a6f330f775540e1b420d]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ but sub-paragraph (a) does not apply if the requesting creditor’s debt is alon
 
 ## Annotations
 
-[^key-828b2cc06407a6f330f775540e1b420d]: Commencement: Rule 23 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-828b2cc06407a6f330f775540e1b420d]: Commencement: Rule 23 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

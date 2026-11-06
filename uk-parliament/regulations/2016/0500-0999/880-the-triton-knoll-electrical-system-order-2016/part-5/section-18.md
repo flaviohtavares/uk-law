@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Compulsory acquisition of rights[^key-6fbb26b38c74cb8eeabcb9b1798ce48a]
+## 18. Compulsory acquisition of rights[^c-6fbb26b38c74cb8eeabcb9b1798ce48a]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fbb26b38c74cb8eeabcb9b1798ce48a]: Commencement: Art. 18 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-6fbb26b38c74cb8eeabcb9b1798ce48a]: Commencement: Art. 18 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

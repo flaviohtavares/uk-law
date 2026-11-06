@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24A. Abstraction licences[^key-101c585c93088b020728e8712cec3035]
+## 24A. Abstraction licences[^c-101c585c93088b020728e8712cec3035]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-101c585c93088b020728e8712cec3035]: Textual amendment: S. 24A inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/1/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/984/article/2/a) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))
+[^c-101c585c93088b020728e8712cec3035]: Textual amendment: S. 24A inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/1/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/984/article/2/a) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))

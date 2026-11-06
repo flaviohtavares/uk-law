@@ -39,11 +39,11 @@ Section 48(1)
 
 ### Chronically Sick and Disabled Persons Act 1970 (c. 44)
 
-**2.**[^key-99156ba0b186b90c0f7a78a0369246cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-99156ba0b186b90c0f7a78a0369246cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Health and Safety at Work etc. Act 1974 (c. 37)
 
-**3.**[^key-0906ed3dd28f6d6ee7fd3765ca5d354c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0906ed3dd28f6d6ee7fd3765ca5d354c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### House of Commons Disqualification Act 1975 (c. 24)
 
@@ -79,13 +79,13 @@ Section 48(1)
 
 ### Town and Country Planning Act 1990 (c. 8)
 
-**9.**[^key-f2ba20a37f37fb0a843ad6014f937d2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f2ba20a37f37fb0a843ad6014f937d2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-f2ba20a37f37fb0a843ad6014f937d2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f2ba20a37f37fb0a843ad6014f937d2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-f2ba20a37f37fb0a843ad6014f937d2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-f2ba20a37f37fb0a843ad6014f937d2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-f2ba20a37f37fb0a843ad6014f937d2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-f2ba20a37f37fb0a843ad6014f937d2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Food Safety Act 1990 (c. 16)
 
@@ -133,11 +133,11 @@ Section 48(1)
 
 ### Social Security Administration Act 1992 (c. 5)
 
-**17.**[^key-ef377bc4ba72121a527b5d7a1282e48f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-ef377bc4ba72121a527b5d7a1282e48f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-ef377bc4ba72121a527b5d7a1282e48f][^c20862791] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-ef377bc4ba72121a527b5d7a1282e48f][^c20862791] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-ef377bc4ba72121a527b5d7a1282e48f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-ef377bc4ba72121a527b5d7a1282e48f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Transport and Works Act 1992 (c. 42)
 
@@ -152,21 +152,21 @@ Section 48(1)
 - (a) for “1971” substitute “ 1992 ”, and
 - (b) for “section 12(1)” substitute “ section 10(1) ”.
 
-(3)[^key-27a656cd4eb12157972abc5e0f3180d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-27a656cd4eb12157972abc5e0f3180d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tribunals and Inquiries Act 1992 (c. 53)
 
 **23.** The Tribunals and Inquiries Act 1992 is amended as follows.
 
-**24.**[^key-cc1c727a4f5147dbaefa2e77a1d2ed52] Omit section 5 (recommendations of Council as to appointment of members of tribunals).
+**24.**[^c-cc1c727a4f5147dbaefa2e77a1d2ed52] Omit section 5 (recommendations of Council as to appointment of members of tribunals).
 
 **25.**[^c20866921] In section 6, subsections (1) to (3) (chairman of a tribunal presided over by a Child Support Commissioner, and chairman of a reserve forces reinstatement committee, to be selected from panels appointed by Lord Chancellor or Lord President of the Court of Session) cease to have effect.
 
 **26.** [^c20735391]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^c20865721][^key-7279be6ca744b499beb38a5338e30b7d] Omit section 8 (procedural rules for tribunals).
+**27.**[^c20865721][^c-7279be6ca744b499beb38a5338e30b7d] Omit section 8 (procedural rules for tribunals).
 
-**28.**[^key-6c3eabaad077daa8deca7c6ee7e6fb1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-6c3eabaad077daa8deca7c6ee7e6fb1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -177,12 +177,12 @@ Section 48(1)
 
 **30.**[^c20690761] In section 16(1) (interpretation)—
 
-- (a)[^key-e56d9f0e2ad27da6a7551489cb99fbf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e56d9f0e2ad27da6a7551489cb99fbf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after the definition of “Council” insert—
 
   > “**enactment**” includes an Act of the Scottish Parliament,
-- (c)[^key-17c14d11e6a30163276393c7c3f73777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-8abf8639c94f472ee7a28316e1f10e5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-17c14d11e6a30163276393c7c3f73777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-8abf8639c94f472ee7a28316e1f10e5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Judicial Pensions and Retirement Act 1993 (c. 8)
 
@@ -206,7 +206,7 @@ Section 48(1)
 
 ### Pension Schemes Act 1993 (c. 48)
 
-**32.**[^key-17272a44951689dfa683573418c22f8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-17272a44951689dfa683573418c22f8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Law of Property (Miscellaneous Provisions) Act 1994 (c. 36)
 
@@ -218,7 +218,7 @@ Section 48(1)
 
 .
 
-(3)[^key-25859aec4c07e7dec49481743c62b733] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-25859aec4c07e7dec49481743c62b733] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Criminal Injuries Compensation Act 1995 (c. 53)
 
@@ -474,7 +474,7 @@ Section 48(1)
 
 **45.** In section 27(1)(a) (payment of appointed members of Employment Appeal Tribunal), after “members,” insert “ and ”.
 
-**46.**[^key-f774ff4776bcae2f80eb0758a808ee2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-f774ff4776bcae2f80eb0758a808ee2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **47.** After section 29 insert—
 
@@ -519,19 +519,19 @@ Section 48(1)
 
 ### Town and Country Planning (Scotland) Act 1997 (c. 8)
 
-**49.**[^key-5396b2dd2c01afe6192f5deddfb4145c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-5396b2dd2c01afe6192f5deddfb4145c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**50.**[^key-5396b2dd2c01afe6192f5deddfb4145c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-5396b2dd2c01afe6192f5deddfb4145c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**51.**[^key-5396b2dd2c01afe6192f5deddfb4145c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-5396b2dd2c01afe6192f5deddfb4145c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Greater London Authority Act 1999 (c. 29)
 
-**52.**[^key-5396b2dd2c01afe6192f5deddfb4145c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-5396b2dd2c01afe6192f5deddfb4145c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Freedom of Information Act 2000 (c. 36)
 
-**53.**[^key-5396b2dd2c01afe6192f5deddfb4145c][^c20862801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-5396b2dd2c01afe6192f5deddfb4145c][^c20862801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Nationality, Immigration and Asylum Act 2002 (c. 41)
 
@@ -560,11 +560,11 @@ Section 48(1)
 
 ### Title Conditions (Scotland) Act 2003 (asp 9)
 
-**56.**[^key-eedf2fcdd7d2bf0343a68c76026659e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-eedf2fcdd7d2bf0343a68c76026659e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**57.**[^key-eedf2fcdd7d2bf0343a68c76026659e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-eedf2fcdd7d2bf0343a68c76026659e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**58.**[^key-eedf2fcdd7d2bf0343a68c76026659e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-eedf2fcdd7d2bf0343a68c76026659e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Planning and Compulsory Purchase Act 2004 (c. 5)
 
@@ -577,11 +577,11 @@ Section 48(1)
 
 ### Gender Recognition Act 2004 (c. 7)
 
-**60.**[^key-f14820a9369f9fd7f3aaa16340a76d39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-f14820a9369f9fd7f3aaa16340a76d39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Civil Contingencies Act 2004 (c. 36)
 
-**61.**[^key-f6f8be17c89b1e643fabeba61d1d46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**61.**[^c-f6f8be17c89b1e643fabeba61d1d46fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Constitutional Reform Act 2005 (c. 4)
 
@@ -598,7 +598,7 @@ Section 48(1)
 - (a) omit the entry for section 6(2), (8) and (9) of the Tribunals and Inquiries Act 1992 (c. 53), and
 - (b) omit the entry for paragraph 7(4) of Schedule 5 to that Act.
 
-**65.**[^key-2dd6b89459fbc9600641cb8458255bcf][^c20685431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**65.**[^c-2dd6b89459fbc9600641cb8458255bcf][^c20685431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **66.** (1) Schedule 14 (Judicial Appointments Commission: relevant offices and enactments) is amended as follows.
 
@@ -621,9 +621,9 @@ Section 48(1)
 
 ## Annotations
 
-[^key-99156ba0b186b90c0f7a78a0369246cd]: Textual amendment: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/2) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
+[^c-99156ba0b186b90c0f7a78a0369246cd]: Textual amendment: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/2) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
 
-[^key-0906ed3dd28f6d6ee7fd3765ca5d354c]: Textual amendment: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/3) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
+[^c-0906ed3dd28f6d6ee7fd3765ca5d354c]: Textual amendment: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/3) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
 
 [^c20862511]: Commencement: Sch. 8 para. 4 wholly in force at 3.11.2008; Sch. 8 para. 4 not in force at Royal Assent see s. 148(5); Sch. 8 para. 4 in force for certain purposes at 1.1.2007 and for certain further purposes at 1.6.2008 by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [arts. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/b/ii), {(6)(b)(i)} and Sch. 8 para. 4 in force at 3.11.2008 otherwise by [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(c)(iii)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/c/iii)
 
@@ -633,15 +633,15 @@ Section 48(1)
 
 [^c21476501]: Textual amendment: Sch. 8 para. 7 repealed (4.4.2011) by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 27 Pt. 1A](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1A) (as inserted by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [art. 3(3)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3))
 
-[^key-f2ba20a37f37fb0a843ad6014f937d2a]: Textual amendment: [Sch. 8 paras. 9-12](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/9) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
+[^c-f2ba20a37f37fb0a843ad6014f937d2a]: Textual amendment: [Sch. 8 paras. 9-12](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/9) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
 
-[^key-ef377bc4ba72121a527b5d7a1282e48f]: Textual amendment: [Sch. 8 paras. 17-19](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/17) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
+[^c-ef377bc4ba72121a527b5d7a1282e48f]: Textual amendment: [Sch. 8 paras. 17-19](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/17) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
 
 [^c20862791]: Commencement: Sch. 8 para. 18 wholly in force at 1.6.2008; Sch. 8 para. 18 not in force at Royal Assent see s. 148(5); Sch. 8 para. 18 in force for certain purposes at 1.1.2007 and at 1.6.2008 otherwise by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [arts. 3(b)(iii)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/b/iii), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2007/2709/article/6/b/ii)
 
-[^key-27a656cd4eb12157972abc5e0f3180d7]: Textual amendment: [Sch. 8 para. 22(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/22/3) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
+[^c-27a656cd4eb12157972abc5e0f3180d7]: Textual amendment: [Sch. 8 para. 22(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/22/3) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
 
-[^key-cc1c727a4f5147dbaefa2e77a1d2ed52]: Commencement: Sch. 8 para. 24 in force at 19.8.2013 by [S.I. 2013/2043](https://www.legislation.gov.uk/uksi/2013/2043), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2043/article/2/a)
+[^c-cc1c727a4f5147dbaefa2e77a1d2ed52]: Commencement: Sch. 8 para. 24 in force at 19.8.2013 by [S.I. 2013/2043](https://www.legislation.gov.uk/uksi/2013/2043), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2043/article/2/a)
 
 [^c20866921]: Commencement: Sch. 8 para. 25 partly in force; Sch. 8 para. 25 not in force at Royal Assent see s. 148(5); Sch. 8 para. 25 in force for certain purposes at 3.11.2008 by [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(c)(ii)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/c/ii)
 
@@ -649,42 +649,42 @@ Section 48(1)
 
 [^c20865721]: Commencement: Sch. 8 para. 27 partly in force; Sch. 8 para. 27 not in force at Royal Assent see s. 148(5); Sch. 8 para. 27 in force for certain purposes by [S.I. 2008/1653](https://www.legislation.gov.uk/uksi/2008/1653), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1653/article/2/a) (with [arts. 3](https://www.legislation.gov.uk/uksi/2008/1653/article/3), [4](https://www.legislation.gov.uk/uksi/2008/1653/article/4))
 
-[^key-7279be6ca744b499beb38a5338e30b7d]: Commencement: Sch. 8 para. 27 in force at 19.8.2013 in so far as not already in force by [S.I. 2013/2043](https://www.legislation.gov.uk/uksi/2013/2043), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2043/article/2/b)
+[^c-7279be6ca744b499beb38a5338e30b7d]: Commencement: Sch. 8 para. 27 in force at 19.8.2013 in so far as not already in force by [S.I. 2013/2043](https://www.legislation.gov.uk/uksi/2013/2043), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2043/article/2/b)
 
-[^key-6c3eabaad077daa8deca7c6ee7e6fb1b]: Textual amendment: [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/28) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
+[^c-6c3eabaad077daa8deca7c6ee7e6fb1b]: Textual amendment: [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/28) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
 
 [^c20690761]: Commencement: Sch. 8 para. 30 wholly in force at 1.6.2008; Sch. 8 para. 30 not in force at Royal Assent see s. 148; Sch. 8 para. 30(a)-(c) in force at 1.11.2007 and Sch. 8 para. 30(d) in force at 1.6.2008 by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/b/i)
 
-[^key-e56d9f0e2ad27da6a7551489cb99fbf9]: Textual amendment: [Sch. 8 para. 30(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/30/a) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/a)
+[^c-e56d9f0e2ad27da6a7551489cb99fbf9]: Textual amendment: [Sch. 8 para. 30(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/30/a) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/a)
 
-[^key-17c14d11e6a30163276393c7c3f73777]: Textual amendment: [Sch. 8 para. 30(c)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/30/c) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/a)
+[^c-17c14d11e6a30163276393c7c3f73777]: Textual amendment: [Sch. 8 para. 30(c)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/30/c) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/a)
 
-[^key-8abf8639c94f472ee7a28316e1f10e5d]: Textual amendment: [Sch. 8 para. 30(d)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/30/d) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/a)
+[^c-8abf8639c94f472ee7a28316e1f10e5d]: Textual amendment: [Sch. 8 para. 30(d)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/30/d) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/a)
 
 [^c20685411]: Commencement: Sch. 8 para. 31 wholly in force at 3.11.2008; Sch. 8 para. 31 not in force at Royal Assent see s. 148; Sch. 8 para. 31(1)-(3) in force at 19.9.2007 by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/c/i); Sch. 8 para. 31(4)-(6) in force at 3.11.2008 by [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(c)(i)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/c/i)
 
-[^key-17272a44951689dfa683573418c22f8e]: Textual amendment: [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/32) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
+[^c-17272a44951689dfa683573418c22f8e]: Textual amendment: [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/32) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
 
 [^c20690811]: Commencement: Sch. 8 para. 33 wholly in force at 3.11.2008; Sch. 8 para. 33 not in force at Royal Assent see s. 148; Sch. 8 para. 33(1)(2) in force at 1.11.2007 by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/b/i); Sch. 8 para. 33(3) in force at 3.11.2008 by [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(c)(i)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/c/i)
 
-[^key-25859aec4c07e7dec49481743c62b733]: Textual amendment: [Sch. 8 para. 33(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/33/3) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
+[^c-25859aec4c07e7dec49481743c62b733]: Textual amendment: [Sch. 8 para. 33(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/33/3) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
 
-[^key-f774ff4776bcae2f80eb0758a808ee2c]: Textual amendment: Sch. 8 para. 46 omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 12(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/12/5), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/2))
+[^c-f774ff4776bcae2f80eb0758a808ee2c]: Textual amendment: Sch. 8 para. 46 omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 12(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/12/5), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/2))
 
-[^key-5396b2dd2c01afe6192f5deddfb4145c]: Textual amendment: [Sch. 8 paras. 49-53](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/49) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
+[^c-5396b2dd2c01afe6192f5deddfb4145c]: Textual amendment: [Sch. 8 paras. 49-53](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/49) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
 
 [^c20862801]: Commencement: Sch. 8 para. 53 wholly in force at 1.6.2008; Sch. 8 para. 53 not in force at Royal Assent see s. 148(5); Sch. 8 para. 53 in force for certain purposes at 1.1.2007 and at 1.6.2008 otherwise by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [arts. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/b/ii), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2007/2709/article/6/b/ii)
 
 [^c21473791]: Textual amendment: Sch. 8 para. 54 repealed (15.2.2010) by [The Transfer of Functions of the Asylum and Immigration Tribunal Order 2010 (S.I. 2010/21)](https://www.legislation.gov.uk/uksi/2010/21), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/21/schedule/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/21/schedule/4))
 
-[^key-eedf2fcdd7d2bf0343a68c76026659e2]: Textual amendment: [Sch. 8 paras. 56-58](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/56) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
+[^c-eedf2fcdd7d2bf0343a68c76026659e2]: Textual amendment: [Sch. 8 paras. 56-58](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/56) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
 
-[^key-f14820a9369f9fd7f3aaa16340a76d39]: Textual amendment: [Sch. 8 para. 60](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/60) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
+[^c-f14820a9369f9fd7f3aaa16340a76d39]: Textual amendment: [Sch. 8 para. 60](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/60) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
 
-[^key-f6f8be17c89b1e643fabeba61d1d46fb]: Textual amendment: [Sch. 8 para. 61](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/61) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
+[^c-f6f8be17c89b1e643fabeba61d1d46fb]: Textual amendment: [Sch. 8 para. 61](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/61) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 37(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/37/b)
 
 [^c20695521]: Commencement: Sch. 8 para. 64 partly in force; Sch. 8 para. 64 not in force at Royal Assent see s. 148; Sch. 8 para. 64(b) in force at 3.11.2008 by [S.I. 2007/2696](https://www.legislation.gov.uk/uksi/2007/2696), [art. 5(c)](https://www.legislation.gov.uk/uksi/2007/2696/article/5/c)
 
-[^key-2dd6b89459fbc9600641cb8458255bcf]: Textual amendment: Sch. 8 para. 65 omitted (4.9.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 28](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/28); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
+[^c-2dd6b89459fbc9600641cb8458255bcf]: Textual amendment: Sch. 8 para. 65 omitted (4.9.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 28](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/28); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/c)
 
 [^c20685431]: Commencement: Sch. 8 para. 65 wholly in force at 3.11.2008; Sch. 8 para. 65 not in force at Royal Assent see s. 148; Sch. 8 para. 65(1)(2) in force and Sch. 8 para. 65(3) in force for certain purposes at 19.9.2007 by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(c)(i)(ii)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/c/i/ii) and Sch. 8 para. 65(3) in force at 3.11.2008 otherwise by [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(c)(iv)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/c/iv)

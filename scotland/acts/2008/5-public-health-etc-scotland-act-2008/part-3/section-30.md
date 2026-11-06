@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Public health investigations: compensation[^key-304ceb6b6ff8fe677f7b549155d89f2d]
+## 30. Public health investigations: compensation[^c-304ceb6b6ff8fe677f7b549155d89f2d]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ is to be determined by a single arbiter appointed by agreement between the parti
 
 ## Annotations
 
-[^key-304ceb6b6ff8fe677f7b549155d89f2d]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2008/5/section/30) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-304ceb6b6ff8fe677f7b549155d89f2d]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2008/5/section/30) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

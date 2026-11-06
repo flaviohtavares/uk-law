@@ -38,7 +38,7 @@ summary: ''
 
 (4) An order under subsection (3) has effect to withdraw such planning permission under a simplified planning zone scheme already in force with effect from the date on which the order comes into force, except in a case where the development authorised by the permission has been begun.
 
-(5)[^key-b51ebd4adf7677343ccf8c0c166c5e18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b51ebd4adf7677343ccf8c0c166c5e18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c14020581]: Textual amendment: S. 87(1)(f) substituted (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 76(1)](https://www.legislation.gov.uk/ukpga/2000/37/section/76/1), [103(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/2), [Sch. 10 Pt. II para. 7](https://www.legislation.gov.uk/ukpga/2000/37/schedule/10/part/II/paragraph/7)
 
-[^key-b51ebd4adf7677343ccf8c0c166c5e18]: Textual amendment: [S. 87(5)](https://www.legislation.gov.uk/ukpga/1990/8/section/87/5) omitted (W.) (15.12.2025) by virtue of [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 4(12)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/4/12) (with [ss. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5), [146(10)](https://www.legislation.gov.uk/asc/2024/3/section/146/10)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-b51ebd4adf7677343ccf8c0c166c5e18]: Textual amendment: [S. 87(5)](https://www.legislation.gov.uk/ukpga/1990/8/section/87/5) omitted (W.) (15.12.2025) by virtue of [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 4(12)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/4/12) (with [ss. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5), [146(10)](https://www.legislation.gov.uk/asc/2024/3/section/146/10)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 156. Second excepted case[^key-71c4827dea62f23672723e3421d4e09f]
+## 156. Second excepted case[^c-71c4827dea62f23672723e3421d4e09f]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71c4827dea62f23672723e3421d4e09f]: Commencement: Rule 156 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-71c4827dea62f23672723e3421d4e09f]: Commencement: Rule 156 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

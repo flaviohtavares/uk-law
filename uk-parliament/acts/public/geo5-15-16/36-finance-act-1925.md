@@ -69,7 +69,7 @@ An Act to grant certain Duties of Customs and Inland Revenue (including Excise),
 
 ## Part IV — General
 
-### 25. Liability of Dominion Governments to taxation in respect of trading operations.[^key-b7d5c432e65a39579478b310b1606b2a]
+### 25. Liability of Dominion Governments to taxation in respect of trading operations.[^c-b7d5c432e65a39579478b310b1606b2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -145,7 +145,7 @@ An Act to grant certain Duties of Customs and Inland Revenue (including Excise),
 
 [^c584443]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/Geo5/15-16/36/section/24) repealed with savings by [Finance Act 1949 (c. 47)](https://www.legislation.gov.uk/ukpga/1949/47), [s. 52(9)(10)](https://www.legislation.gov.uk/ukpga/1949/47/section/52/9/10), [Sch. 11 Pt IV](https://www.legislation.gov.uk/ukpga/1949/47/schedule/11)
 
-[^key-b7d5c432e65a39579478b310b1606b2a]: Textual amendment: S. 25 repealed (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 279](https://www.legislation.gov.uk/ukpga/2026/11/section/279)
+[^c-b7d5c432e65a39579478b310b1606b2a]: Textual amendment: S. 25 repealed (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 279](https://www.legislation.gov.uk/ukpga/2026/11/section/279)
 
 [^c584446]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/Geo5/15-16/36/section/26) repealed with saving by [Income Tax Act 1952 (c. 10)](https://www.legislation.gov.uk/ukpga/1952/10), [s. 527](https://www.legislation.gov.uk/ukpga/1952/10/section/527), [Sch. 25](https://www.legislation.gov.uk/ukpga/1952/10/schedule/25)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 12 — Monitoring of water bottled and labelled as “spring water” and bottled drinking water[^key-a4f2f87b9b54fe4f6f6ed5c61d00e2cb]
+## SCHEDULE 12 — Monitoring of water bottled and labelled as “spring water” and bottled drinking water[^c-a4f2f87b9b54fe4f6f6ed5c61d00e2cb]
 
 *Extent: E+W*
 
@@ -38,8 +38,8 @@ In this Schedule—
 - “paragraph 45 determination” means a determination under paragraph 45 relating to indicative dose”;
 - “parametric concentration”, in relation to a parameter specified in the first column of the table in Part 3 of Schedule 2 or a parameter specified in the first column of the table in Section 1 of Part 9 for which a maximum concentration (as opposed to a value) is set, means the maximum concentration given for the parameter in the second column of the relevant table, as measured by reference to the unit of measurement specified in the third column of the relevant table;
 - “radioactive substance” has the meaning given in Article 2(2) of Council Directive 2013/51/Euratom laying down requirements for the protection of the health of the general public with regard to radioactive substances in water intended for human consumption;
-- [^key-c4ef3808c73972e06de0be32fb6a95c6]...
-- “Regulation (EU) 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;[^key-4dd511329e4e7c62e0bd5db797564e71]
+- [^c-c4ef3808c73972e06de0be32fb6a95c6]...
+- “Regulation (EU) 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;[^c-4dd511329e4e7c62e0bd5db797564e71]
 - “sample” means a sample taken under this Schedule;
 - “trueness” (the systematic error) means the difference between the mean value of the large number of repeated measurements and the true value, as further described in ISO 5725-1:1994(en) entitled “Accuracy (trueness and precision) of measurement methods and results – Part 1: General principles and definitions” published by the International Organization for Standardization on 22nd December 1994, as amended by ISO 5725-1:1994/Cor 1:1998 entitled “Accuracy (trueness and precision) of measurement methods and results – Part 1: General principles and definitions TECHNICAL CORRIGENDUM 1” published by the International Organization for Standardization on 2nd May 1998;
 - “uncertainty of measurement” means a non-negative parameter characterising the dispersion of the quantity values being attributed to a measure based on the information used;
@@ -83,10 +83,10 @@ This Schedule applies to the monitoring of—
 
 *Extent: E+W+S*
 
-(1) In the case of samples of water that a food authority must take and analyse to enable it to discharge its obligations under the provisions specified in paragraph 4(2)(a),[^key-8c8cd3ef5b2b501da8091d0ece345e00] (b), (f) and (g), each food authority must take and analyse such samples regularly, having regard to the provisions contained in—
+(1) In the case of samples of water that a food authority must take and analyse to enable it to discharge its obligations under the provisions specified in paragraph 4(2)(a),[^c-8c8cd3ef5b2b501da8091d0ece345e00] (b), (f) and (g), each food authority must take and analyse such samples regularly, having regard to the provisions contained in—
 
 - (a) Article 17(2) of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (monitoring responsibilities), and
-- (b)[^key-12cc80e4e8bb637723dc6382628b2784] Article 9 of Regulation (EU) 2017/625.
+- (b)[^c-12cc80e4e8bb637723dc6382628b2784] Article 9 of Regulation (EU) 2017/625.
 
 (2) Where, under sub-paragraph (1), a food authority only takes one sample in a year of any water in its area to which this Schedule applies, the authority must take the samples from year to year at intervals that are spread out in such a way—
 
@@ -132,12 +132,12 @@ In the case of samples that a food authority must take and analyse to discharge 
 (5) In sub-paragraph (3)(b)—
 
 - “certificate of conformity” means a certificate of conformity issued on or before 30th June 2013—
-  - (a) under the Construction Products Regulations 1991; [^key-1d4d1ddf083b6c3bdaf37d5867dc20f6]...
-  - (b) [^key-1d4d1ddf083b6c3bdaf37d5867dc20f6]...
+  - (a) under the Construction Products Regulations 1991; [^c-1d4d1ddf083b6c3bdaf37d5867dc20f6]...
+  - (b) [^c-1d4d1ddf083b6c3bdaf37d5867dc20f6]...
 - “construction product” has the meaning given in point (1) of Article 2 of Regulation (EU) No 305/2011 of the European Parliament and of the Council laying down harmonised conditions for the marketing of construction products and repealing Council [Directive 89/106/EEC](https://www.legislation.gov.uk/eudr/1989/0106);
 - “declaration of conformity” means a declaration of conformity issued on or before 30th June 2013—
-  - (a) under the Construction Products Regulations 1991; [^key-6c01c003f610f9cb3a58e0ecc73d6e86]...
-  - (b) [^key-6c01c003f610f9cb3a58e0ecc73d6e86]...
+  - (a) under the Construction Products Regulations 1991; [^c-6c01c003f610f9cb3a58e0ecc73d6e86]...
+  - (b) [^c-6c01c003f610f9cb3a58e0ecc73d6e86]...
 - “declaration of performance” means a declaration of performance drawn up in accordance with Article 4 of Regulation (EU) No 305/2011 of the European Parliament and of the Council.
 
 #### 9. Radon
@@ -168,8 +168,8 @@ To enable a food authority to discharge its functions under this Schedule, a foo
 
 - (a) such arrangement is in accordance with—
   - (i) Part 10, and
-  - (ii)[^key-9f692a022313691997ec4a8b231ef686] Article 29 of Regulation (EU) 2017/625, and
-- (b)[^key-675ef3981a70a9bf4f9a7cdd6d197928] the food authority notifies the Secretary of State, in advance of the proposed delegation, of the tasks that are being delegated to a delegated body.
+  - (ii)[^c-9f692a022313691997ec4a8b231ef686] Article 29 of Regulation (EU) 2017/625, and
+- (b)[^c-675ef3981a70a9bf4f9a7cdd6d197928] the food authority notifies the Secretary of State, in advance of the proposed delegation, of the tasks that are being delegated to a delegated body.
 
 #### 15. Quality management practices
 
@@ -489,7 +489,7 @@ Each food authority must monitor the activity concentration of tritium in any wa
 
 - (a) the results of the analyses of samples of the water carried out before the determination of the result of Sample X,
 - (b) the result of the analysis of the extra sample under sub-paragraph (2)(a), and
-- (c) where extra samples are taken[^key-090d4515a803750786565e1d9afe76be] under sub-paragraph (2)(b), the results of the analyses of those extra samples.
+- (c) where extra samples are taken[^c-090d4515a803750786565e1d9afe76be] under sub-paragraph (2)(b), the results of the analyses of those extra samples.
 
 (4) No further action by the food authority is required if the outcome of the determination under sub-paragraph (3) is that the average of the activity concentration of tritium in the water for the relevant 12 month period does not exceed 100 Bq/l.
 
@@ -970,7 +970,7 @@ In relation to a parameter specified in the first column of the table in Section
 | The task of measuring gross alpha activity and gross beta activity in a sample under paragraph 32(2)(c) |  |
 | The task of analysing samples of water under paragraph 32(2)(d) (relating to the determination of the presence of artificial radionuclides in the water), and the taking of such extra sample, or extra samples, of the water as may be needed for that purpose |  |
 | The task of analysing samples of water under paragraph 38(2) (screening by determining gross alpha activity) |  |
-| The task of analysing samples of water under paragraph 38(5) (relating to the determination of the presence and concentration of certain radionuclides in the water), and the taking of such extra sample, or extra samples, of the water as may be needed for that purpose | The food authority must provide the delegate with instructions specifying the radionuclides in the sample for which[^key-f939bbbf4378d489e817a2ca5f45f235] analysis must be carried out by the delegate and the delegate must analyse the samples in accordance with those instructions. |
+| The task of analysing samples of water under paragraph 38(5) (relating to the determination of the presence and concentration of certain radionuclides in the water), and the taking of such extra sample, or extra samples, of the water as may be needed for that purpose | The food authority must provide the delegate with instructions specifying the radionuclides in the sample for which[^c-f939bbbf4378d489e817a2ca5f45f235] analysis must be carried out by the delegate and the delegate must analyse the samples in accordance with those instructions. |
 | The task of analysing samples of water under paragraph 39(2) (screening by determining gross beta activity) |  |
 | The task of analysing samples of water under paragraph 39(5) (relating to the determination of the presence and concentration of certain radionuclides in the water) and the taking of such extra sample, or extra samples, of the water as may be needed for that purpose | The food authority must provide the delegate with instructions specifying the radionuclides in the sample for which analysis must be carried out by the delegate and the delegate must analyse the samples in accordance with those instructions. |
 | The task of analysing samples of water under paragraph 40(2) (screening based on analysis relating to one radionuclide) |  |
@@ -999,24 +999,24 @@ In relation to a parameter specified in the first column of the table in Section
 
 ## Annotations
 
-[^key-a4f2f87b9b54fe4f6f6ed5c61d00e2cb]: Textual amendment: Sch. 12 inserted (6.4.2018) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/352/schedule/2)
+[^c-a4f2f87b9b54fe4f6f6ed5c61d00e2cb]: Textual amendment: Sch. 12 inserted (6.4.2018) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/352/schedule/2)
 
-[^key-c4ef3808c73972e06de0be32fb6a95c6]: Textual amendment: Words in [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2007/2785/schedule/12/paragraph/1) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [24(a)(i)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/24/a/i)
+[^c-c4ef3808c73972e06de0be32fb6a95c6]: Textual amendment: Words in [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2007/2785/schedule/12/paragraph/1) omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [24(a)(i)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/24/a/i)
 
-[^key-4dd511329e4e7c62e0bd5db797564e71]: Textual amendment: Words in [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2007/2785/schedule/12/paragraph/1) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [24(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/24/a/ii)
+[^c-4dd511329e4e7c62e0bd5db797564e71]: Textual amendment: Words in [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2007/2785/schedule/12/paragraph/1) inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [24(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/24/a/ii)
 
-[^key-8c8cd3ef5b2b501da8091d0ece345e00]: Textual amendment: Words in Sch. 12 para. 5(1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2019/526/regulation/27/2/a)
+[^c-8c8cd3ef5b2b501da8091d0ece345e00]: Textual amendment: Words in Sch. 12 para. 5(1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2019/526/regulation/27/2/a)
 
-[^key-12cc80e4e8bb637723dc6382628b2784]: Textual amendment: [Sch. 12 para. 5(1)(b)](https://www.legislation.gov.uk/uksi/2007/2785/schedule/12/paragraph/5/1/b) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [24(b)(i)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/24/b/i)
+[^c-12cc80e4e8bb637723dc6382628b2784]: Textual amendment: [Sch. 12 para. 5(1)(b)](https://www.legislation.gov.uk/uksi/2007/2785/schedule/12/paragraph/5/1/b) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [24(b)(i)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/24/b/i)
 
-[^key-1d4d1ddf083b6c3bdaf37d5867dc20f6]: Textual amendment: Words in Sch. 12 para. 8(5) omitted (31.12.2020) by virtue of [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2019/150/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d4d1ddf083b6c3bdaf37d5867dc20f6]: Textual amendment: Words in Sch. 12 para. 8(5) omitted (31.12.2020) by virtue of [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2019/150/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6c01c003f610f9cb3a58e0ecc73d6e86]: Textual amendment: Words in Sch. 12 para. 8(5) omitted (31.12.2020) by virtue of [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2019/150/regulation/3/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c01c003f610f9cb3a58e0ecc73d6e86]: Textual amendment: Words in Sch. 12 para. 8(5) omitted (31.12.2020) by virtue of [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2019/150/regulation/3/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f692a022313691997ec4a8b231ef686]: Textual amendment: Sch. 12 para. 14(a)(ii) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [24(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/24/b/ii/aa)
+[^c-9f692a022313691997ec4a8b231ef686]: Textual amendment: Sch. 12 para. 14(a)(ii) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [24(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/24/b/ii/aa)
 
-[^key-675ef3981a70a9bf4f9a7cdd6d197928]: Textual amendment: Sch. 12 para. 14(b) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [24(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/24/b/ii/bb)
+[^c-675ef3981a70a9bf4f9a7cdd6d197928]: Textual amendment: Sch. 12 para. 14(b) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [24(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/24/b/ii/bb)
 
-[^key-090d4515a803750786565e1d9afe76be]: Textual amendment: Word in [Sch. 12 para. 32(3)(c)](https://www.legislation.gov.uk/uksi/2007/2785/schedule/12/paragraph/32/3/c) inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/27/2/b)
+[^c-090d4515a803750786565e1d9afe76be]: Textual amendment: Word in [Sch. 12 para. 32(3)(c)](https://www.legislation.gov.uk/uksi/2007/2785/schedule/12/paragraph/32/3/c) inserted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/27/2/b)
 
-[^key-f939bbbf4378d489e817a2ca5f45f235]: Textual amendment: Words in [Sch. 12 Pt. 10](https://www.legislation.gov.uk/uksi/2007/2785/schedule/12/part/10) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [27(2)(c)](https://www.legislation.gov.uk/uksi/2019/526/regulation/27/2/c)
+[^c-f939bbbf4378d489e817a2ca5f45f235]: Textual amendment: Words in [Sch. 12 Pt. 10](https://www.legislation.gov.uk/uksi/2007/2785/schedule/12/part/10) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [27(2)(c)](https://www.legislation.gov.uk/uksi/2019/526/regulation/27/2/c)

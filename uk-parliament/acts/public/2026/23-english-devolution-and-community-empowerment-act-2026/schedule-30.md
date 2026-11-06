@@ -22,13 +22,13 @@ summary: ''
 
 Section 63
 
-### 1. Elections for the Mayor of London[^key-e86d680f88972c8880896a1eefc2adaf]
+### 1. Elections for the Mayor of London[^c-e86d680f88972c8880896a1eefc2adaf]
 
 **Not yet in force.**
 
 The [GLAA 1999](https://www.legislation.gov.uk/ukpga/1999/29/contents) is amended as follows.
 
-**2.**[^key-7a3a14414ab2ed48d538ee1fa1476fd7] (1) In [section 4](https://www.legislation.gov.uk/ukpga/1999/29/section/4) (voting at ordinary elections)—
+**2.**[^c-7a3a14414ab2ed48d538ee1fa1476fd7] (1) In [section 4](https://www.legislation.gov.uk/ukpga/1999/29/section/4) (voting at ordinary elections)—
 
 - (a) in [subsection (1)](https://www.legislation.gov.uk/ukpga/1999/29/section/4)[(a)](https://www.legislation.gov.uk/ukpga/1999/29/section/4), after “vote” insert “(referred to in this Part as a mayoral vote)”;
 - (b) in [subsection (2)](https://www.legislation.gov.uk/ukpga/1999/29/section/4), after “system,” insert “, unless there are three or more candidates”;
@@ -93,13 +93,13 @@ The [GLAA 1999](https://www.legislation.gov.uk/ukpga/1999/29/contents) is amende
 
 > (4) In the case of an election of the Mayor of London, a vote deemed in accordance with subsection (3) above to be thrown away is to be so deemed only to the extent that it is a vote given so as to indicate that the person who was under the incapacity is the voter’s first or second preference from among the candidates.
 
-### 3. Elections for police and crime commissioners[^key-c3e20fa669648e168ed135fc5322dec6]
+### 3. Elections for police and crime commissioners[^c-c3e20fa669648e168ed135fc5322dec6]
 
 **Not yet in force.**
 
 PRSRA 2011 is amended as follows.
 
-**4.**[^key-9f1dea2cc8ae32a174a6e0d30c0f091d] In [section 57](https://www.legislation.gov.uk/ukpga/2011/13/section/57) (voting at elections of police and crime commissioners)—
+**4.**[^c-9f1dea2cc8ae32a174a6e0d30c0f091d] In [section 57](https://www.legislation.gov.uk/ukpga/2011/13/section/57) (voting at elections of police and crime commissioners)—
 
 - (a) in [subsection (2)](https://www.legislation.gov.uk/ukpga/2011/13/section/57), after “system” insert “, unless there are three or more candidates”;
 - (b) after [subsection (2)](https://www.legislation.gov.uk/ukpga/2011/13/section/57) insert—
@@ -111,7 +111,7 @@ PRSRA 2011 is amended as follows.
   >
   > (4) Schedule 9 (the supplementary vote system) has effect.
 
-**5.**[^key-5bd326690cb7b24de8e1cbf70225eb06] After [Schedule 8](https://www.legislation.gov.uk/ukpga/2011/13/schedule/8) insert—
+**5.**[^c-5bd326690cb7b24de8e1cbf70225eb06] After [Schedule 8](https://www.legislation.gov.uk/ukpga/2011/13/schedule/8) insert—
 
 > **Schedule 9 — Supplementary vote system**
 >
@@ -150,13 +150,13 @@ PRSRA 2011 is amended as follows.
 >
 > (8) If, by reason of an equality of total number of preference votes, two or more candidates remaining in the contest each have the greatest total number of preference votes, the police area returning officer must decide by lots which of them is to be returned as the police and crime commissioner.
 
-### 6. Elections for local authority mayors in England[^key-6eb3433bcbea8ca226445d03835158dc]
+### 6. Elections for local authority mayors in England[^c-6eb3433bcbea8ca226445d03835158dc]
 
 **Not yet in force.**
 
 The [Local Government Act 2000](https://www.legislation.gov.uk/ukpga/2000/22/contents) is amended as follows.
 
-**7.**[^key-fdea109745ab49b2eb3092d2acbfda72] In [section 9HC](https://www.legislation.gov.uk/ukpga/2000/22/section/9HC) (voting at elections of elected mayors)—
+**7.**[^c-fdea109745ab49b2eb3092d2acbfda72] In [section 9HC](https://www.legislation.gov.uk/ukpga/2000/22/section/9HC) (voting at elections of elected mayors)—
 
 - (a) in subsection (1), for “which may be given for a candidate to be the elected mayor” substitute “(a “mayoral vote”)”;
 - (b) in [subsection (2)](https://www.legislation.gov.uk/ukpga/2000/22/section/9HC), after “system” insert “unless there are three or more candidates”;
@@ -167,15 +167,15 @@ The [Local Government Act 2000](https://www.legislation.gov.uk/ukpga/2000/22/con
   > - (a) the elected mayor is to be returned under the supplementary vote system in accordance with Schedule 1A, and
   > - (b) a voter’s mayoral vote is accordingly a vote capable of being given to indicate the voter’s first and second preference from among the candidates.
 
-**8.**[^key-19b3e37593ef74db894ad55059ee8ff5] In [section 9HD](https://www.legislation.gov.uk/ukpga/2000/22/section/9HD) (entitlement to vote), in subsection (2), after “one” insert “mayoral”.
+**8.**[^c-19b3e37593ef74db894ad55059ee8ff5] In [section 9HD](https://www.legislation.gov.uk/ukpga/2000/22/section/9HD) (entitlement to vote), in subsection (2), after “one” insert “mayoral”.
 
-**9.**[^key-e0636d31ce256959eaa1f74e8ce9b281] In [section 9R](https://www.legislation.gov.uk/ukpga/2000/22/section/9R) (interpretation of Part 1A), in the appropriate place insert—
+**9.**[^c-e0636d31ce256959eaa1f74e8ce9b281] In [section 9R](https://www.legislation.gov.uk/ukpga/2000/22/section/9R) (interpretation of Part 1A), in the appropriate place insert—
 
 > - “**mayoral vote**” has the meaning given by section 9HC(1) (as read with subsection (3) of that section),
 
 .
 
-**10.**[^key-e0ed032c58735b1b8cef89a2a1d85056] After [Schedule 1](https://www.legislation.gov.uk/ukpga/2000/22/schedule/1) insert—
+**10.**[^c-e0ed032c58735b1b8cef89a2a1d85056] After [Schedule 1](https://www.legislation.gov.uk/ukpga/2000/22/schedule/1) insert—
 
 > **Schedule 1A — Election of elected mayor (England)**
 >
@@ -214,13 +214,13 @@ The [Local Government Act 2000](https://www.legislation.gov.uk/ukpga/2000/22/con
 >
 > (8) If, by reason of an equality of total number of preference votes, two or more candidates remaining in the contest each have the greatest total number of preference votes, the returning officer is to decide by lots which of them is to be returned as the elected mayor.
 
-**11.**[^key-fd38be6d85b09c887d588835746f3fec] In [Schedule 2](https://www.legislation.gov.uk/ukpga/2000/22/schedule/2) (Election of elected mayor), in the heading, after “mayor” insert “(Wales)”.
+**11.**[^c-fd38be6d85b09c887d588835746f3fec] In [Schedule 2](https://www.legislation.gov.uk/ukpga/2000/22/schedule/2) (Election of elected mayor), in the heading, after “mayor” insert “(Wales)”.
 
-### 12. Elections for mayors of combined authorities[^key-6dfeb2fd11c62d695972e17e06f76148][^key-fe69d476119ecb6f5edc4b10b2808393]
+### 12. Elections for mayors of combined authorities[^c-6dfeb2fd11c62d695972e17e06f76148][^c-fe69d476119ecb6f5edc4b10b2808393]
 
 Schedule 5B to LDEDCA 2009 (mayors for combined authorities: further provision) is amended as follows.
 
-**13.**[^key-07839f5490d95cb8437faa8efba0d389][^key-28bbc7d8c5a027abbb5fcaee191e9f15] In [paragraph 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5B/paragraph/4)—
+**13.**[^c-07839f5490d95cb8437faa8efba0d389][^c-28bbc7d8c5a027abbb5fcaee191e9f15] In [paragraph 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5B/paragraph/4)—
 
 - (a) in [sub-paragraph (1)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5B/paragraph/4), for “which may be given for a candidate to be the mayor” substitute “(a “mayoral vote”)”;
 - (b) in [sub-paragraph (2)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5B/paragraph/4), after “system” insert “unless there are three or more candidates”;
@@ -231,7 +231,7 @@ Schedule 5B to LDEDCA 2009 (mayors for combined authorities: further provision) 
   > - (a) the elected mayor is to be returned under the supplementary vote system in accordance with paragraph 5, and
   > - (b) a voter’s mayoral vote is accordingly a vote capable of being given to indicate the voter’s first and second preference from among the candidates.
 
-**14.**[^key-fab773a56a7165481ee121e8970e3404][^key-7f3bdc5b4227013db82b7d2cae4b2a8b] After [paragraph 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5B/paragraph/4) insert—
+**14.**[^c-fab773a56a7165481ee121e8970e3404][^c-7f3bdc5b4227013db82b7d2cae4b2a8b] After [paragraph 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5B/paragraph/4) insert—
 
 > **5.** (1) This paragraph applies where there are three or more candidates to be a mayor.
 >
@@ -258,18 +258,18 @@ Schedule 5B to LDEDCA 2009 (mayors for combined authorities: further provision) 
 >
 > (11) In this paragraph “**mayoral vote**” has the meaning given by paragraph 4(1) (as read with sub-paragraph (3) of that paragraph).
 
-**15.**[^key-001b77f205f7356a054b14b6534ad915][^key-966617e84f8c6faf4e5db80a38c0e028] In [paragraph 6](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5B/paragraph/6)—
+**15.**[^c-001b77f205f7356a054b14b6534ad915][^c-966617e84f8c6faf4e5db80a38c0e028] In [paragraph 6](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5B/paragraph/6)—
 
 - (a) in [sub-paragraph (2)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5B/paragraph/6), after “one” insert “mayoral”;
 - (b) in [sub-paragraph (3)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5B/paragraph/6), after the definition of “local government elector” insert—
 
   > - “**mayoral vote**” has the meaning given by paragraph 4(1) (as read with sub-paragraph (3) of that paragraph).
 
-### 16. Elections for mayors of combined county authorities[^key-26a314b69e0f20a5ca9360e13ed27a6a][^key-3aad8feece4f9798e4c69c0e9e8821df]
+### 16. Elections for mayors of combined county authorities[^c-26a314b69e0f20a5ca9360e13ed27a6a][^c-3aad8feece4f9798e4c69c0e9e8821df]
 
 [Schedule 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2) to [LURA 2023](https://www.legislation.gov.uk/ukpga/2023/55/contents) (mayors for combined county authority areas: further provisions about elections) is amended as follows.
 
-**17.**[^key-21e2fa370e32315ba6dfba6ba6b07703][^key-c403a021fd7db49dfb20f9d89bd150b8] In [paragraph 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4)—
+**17.**[^c-21e2fa370e32315ba6dfba6ba6b07703][^c-c403a021fd7db49dfb20f9d89bd150b8] In [paragraph 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4)—
 
 - (a) in [sub-paragraph (1)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4), for “which may be given for a candidate to be the mayor” substitute “(a “mayoral vote”)”;
 - (b) in [sub-paragraph (2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4), after “system” insert “, unless there are three or more candidates”;
@@ -280,7 +280,7 @@ Schedule 5B to LDEDCA 2009 (mayors for combined authorities: further provision) 
   > - (a) the mayor is to be returned under the supplementary vote system in accordance with paragraph 4A, and
   > - (b) a voter’s mayoral vote is accordingly a vote capable of being given to indicate the voter’s first and second preference from among the candidates.
 
-**18.**[^key-24bb1bcc625afa04dba29298d1a77385][^key-2f63d2eb0adff4eb4d28f95cf1553433] After [paragraph 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4) insert—
+**18.**[^c-24bb1bcc625afa04dba29298d1a77385][^c-2f63d2eb0adff4eb4d28f95cf1553433] After [paragraph 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/4) insert—
 
 > **4A.** (1) This paragraph applies where there are three or more candidates to be a mayor.
 >
@@ -307,7 +307,7 @@ Schedule 5B to LDEDCA 2009 (mayors for combined authorities: further provision) 
 >
 > (11) In this paragraph “**mayoral vote**” has the meaning given by paragraph 4(1) (as read with sub-paragraph (3) of that paragraph).
 
-**19.**[^key-a516afea68b2c295a4963e253c8e6686][^key-d5ddf8db215ae25c9c6c55127353faf1] In [paragraph 5](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/5)—
+**19.**[^c-a516afea68b2c295a4963e253c8e6686][^c-d5ddf8db215ae25c9c6c55127353faf1] In [paragraph 5](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/5)—
 
 - (a) in [sub-paragraph (2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/5), after “one” insert “mayoral”;
 - (b) in [sub-paragraph (3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/2/paragraph/5), after the definition of “local government elector” insert—
@@ -316,56 +316,56 @@ Schedule 5B to LDEDCA 2009 (mayors for combined authorities: further provision) 
 
 ## Annotations
 
-[^key-e86d680f88972c8880896a1eefc2adaf]: Commencement: Sch. 30 para. 1 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-e86d680f88972c8880896a1eefc2adaf]: Commencement: Sch. 30 para. 1 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-7a3a14414ab2ed48d538ee1fa1476fd7]: Commencement: Sch. 30 para. 2 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-7a3a14414ab2ed48d538ee1fa1476fd7]: Commencement: Sch. 30 para. 2 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-c3e20fa669648e168ed135fc5322dec6]: Commencement: Sch. 30 para. 3 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-c3e20fa669648e168ed135fc5322dec6]: Commencement: Sch. 30 para. 3 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-9f1dea2cc8ae32a174a6e0d30c0f091d]: Commencement: Sch. 30 para. 4 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-9f1dea2cc8ae32a174a6e0d30c0f091d]: Commencement: Sch. 30 para. 4 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-5bd326690cb7b24de8e1cbf70225eb06]: Commencement: Sch. 30 para. 5 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-5bd326690cb7b24de8e1cbf70225eb06]: Commencement: Sch. 30 para. 5 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-6eb3433bcbea8ca226445d03835158dc]: Commencement: Sch. 30 para. 6 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-6eb3433bcbea8ca226445d03835158dc]: Commencement: Sch. 30 para. 6 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-fdea109745ab49b2eb3092d2acbfda72]: Commencement: Sch. 30 para. 7 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-fdea109745ab49b2eb3092d2acbfda72]: Commencement: Sch. 30 para. 7 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-19b3e37593ef74db894ad55059ee8ff5]: Commencement: Sch. 30 para. 8 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-19b3e37593ef74db894ad55059ee8ff5]: Commencement: Sch. 30 para. 8 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-e0636d31ce256959eaa1f74e8ce9b281]: Commencement: Sch. 30 para. 9 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-e0636d31ce256959eaa1f74e8ce9b281]: Commencement: Sch. 30 para. 9 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-e0ed032c58735b1b8cef89a2a1d85056]: Commencement: Sch. 30 para. 10 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-e0ed032c58735b1b8cef89a2a1d85056]: Commencement: Sch. 30 para. 10 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-fd38be6d85b09c887d588835746f3fec]: Commencement: Sch. 30 para. 11 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-fd38be6d85b09c887d588835746f3fec]: Commencement: Sch. 30 para. 11 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-6dfeb2fd11c62d695972e17e06f76148]: Commencement: Sch. 30 para. 12 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-6dfeb2fd11c62d695972e17e06f76148]: Commencement: Sch. 30 para. 12 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-fe69d476119ecb6f5edc4b10b2808393]: Commencement: [Sch. 30 para. 12](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/12) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-fe69d476119ecb6f5edc4b10b2808393]: Commencement: [Sch. 30 para. 12](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/12) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-07839f5490d95cb8437faa8efba0d389]: Commencement: Sch. 30 para. 13 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-07839f5490d95cb8437faa8efba0d389]: Commencement: Sch. 30 para. 13 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-28bbc7d8c5a027abbb5fcaee191e9f15]: Commencement: [Sch. 30 para. 13](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/13) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-28bbc7d8c5a027abbb5fcaee191e9f15]: Commencement: [Sch. 30 para. 13](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/13) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-fab773a56a7165481ee121e8970e3404]: Commencement: Sch. 30 para. 14 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-fab773a56a7165481ee121e8970e3404]: Commencement: Sch. 30 para. 14 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-7f3bdc5b4227013db82b7d2cae4b2a8b]: Commencement: [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/14) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-7f3bdc5b4227013db82b7d2cae4b2a8b]: Commencement: [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/14) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-001b77f205f7356a054b14b6534ad915]: Commencement: Sch. 30 para. 15 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-001b77f205f7356a054b14b6534ad915]: Commencement: Sch. 30 para. 15 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-966617e84f8c6faf4e5db80a38c0e028]: Commencement: [Sch. 30 para. 15](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/15) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-966617e84f8c6faf4e5db80a38c0e028]: Commencement: [Sch. 30 para. 15](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/15) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-26a314b69e0f20a5ca9360e13ed27a6a]: Commencement: Sch. 30 para. 16 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-26a314b69e0f20a5ca9360e13ed27a6a]: Commencement: Sch. 30 para. 16 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-3aad8feece4f9798e4c69c0e9e8821df]: Commencement: [Sch. 30 para. 16](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/16) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-3aad8feece4f9798e4c69c0e9e8821df]: Commencement: [Sch. 30 para. 16](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/16) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-21e2fa370e32315ba6dfba6ba6b07703]: Commencement: Sch. 30 para. 17 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-21e2fa370e32315ba6dfba6ba6b07703]: Commencement: Sch. 30 para. 17 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-c403a021fd7db49dfb20f9d89bd150b8]: Commencement: [Sch. 30 para. 17](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/17) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-c403a021fd7db49dfb20f9d89bd150b8]: Commencement: [Sch. 30 para. 17](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/17) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-24bb1bcc625afa04dba29298d1a77385]: Commencement: Sch. 30 para. 18 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-24bb1bcc625afa04dba29298d1a77385]: Commencement: Sch. 30 para. 18 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-2f63d2eb0adff4eb4d28f95cf1553433]: Commencement: [Sch. 30 para. 18](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/18) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-2f63d2eb0adff4eb4d28f95cf1553433]: Commencement: [Sch. 30 para. 18](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/18) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
 
-[^key-a516afea68b2c295a4963e253c8e6686]: Commencement: Sch. 30 para. 19 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-a516afea68b2c295a4963e253c8e6686]: Commencement: Sch. 30 para. 19 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-d5ddf8db215ae25c9c6c55127353faf1]: Commencement: [Sch. 30 para. 19](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/19) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))
+[^c-d5ddf8db215ae25c9c6c55127353faf1]: Commencement: [Sch. 30 para. 19](https://www.legislation.gov.uk/ukpga/2026/23/schedule/30/paragraph/19) in force at 18.6.2026 by [S.I. 2026/656](https://www.legislation.gov.uk/uksi/2026/656), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/656/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/656/regulation/3))

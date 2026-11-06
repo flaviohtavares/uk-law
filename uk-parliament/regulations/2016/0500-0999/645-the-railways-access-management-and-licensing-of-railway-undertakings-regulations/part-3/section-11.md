@@ -23,13 +23,13 @@ summary: ''
 (1) The Secretary of State must, by 19th December 2019 and after consultation with interested parties, publish an indicative railway infrastructure strategy for England and Wales which must—
 
 - (a) be drafted with a view to meeting future mobility needs in terms of the maintenance, renewal and development needs of the railway infrastructure in England and Wales;
-- (b)[^key-e5ae6b69df6e6429e4bd4f7f63717f58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e5ae6b69df6e6429e4bd4f7f63717f58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) be based on sustainable financing.
 
 (2) The Scottish Ministers must, by 19th December 2019 and after consultation with interested parties, publish an indicative railway infrastructure strategy for Scotland which must—
 
 - (a) be drafted with a view to meeting future mobility needs in terms of the maintenance, renewal and development needs of the railway infrastructure in Scotland;
-- (b)[^key-8ab5a5d7656d77c5cb3118476fa9ee58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8ab5a5d7656d77c5cb3118476fa9ee58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) be based on sustainable financing.
 
 (3) The strategies referred to in paragraphs (1) and (2) must—
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5ae6b69df6e6429e4bd4f7f63717f58]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/11/1/b) omitted (31.12.2020) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [8](https://www.legislation.gov.uk/uksi/2019/518/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5ae6b69df6e6429e4bd4f7f63717f58]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/11/1/b) omitted (31.12.2020) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [8](https://www.legislation.gov.uk/uksi/2019/518/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8ab5a5d7656d77c5cb3118476fa9ee58]: Textual amendment: [Reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/11/2/b) omitted (31.12.2020) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [8](https://www.legislation.gov.uk/uksi/2019/518/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ab5a5d7656d77c5cb3118476fa9ee58]: Textual amendment: [Reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2016/645/regulation/11/2/b) omitted (31.12.2020) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [8](https://www.legislation.gov.uk/uksi/2019/518/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

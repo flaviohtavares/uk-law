@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Power of Scottish Ministers to conduct inquiries and obtain information[^key-a07310bf9142f50ec25a66e8ab533e60]
+## 28. Power of Scottish Ministers to conduct inquiries and obtain information[^c-a07310bf9142f50ec25a66e8ab533e60]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a07310bf9142f50ec25a66e8ab533e60]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2013/7/section/28) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-a07310bf9142f50ec25a66e8ab533e60]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2013/7/section/28) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

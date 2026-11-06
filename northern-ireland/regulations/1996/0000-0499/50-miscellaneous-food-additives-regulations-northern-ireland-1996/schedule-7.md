@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 7 — Foods in which a limited number of Miscellaneous Additives listed in Schedule 1 may be used[^key-454a47cb034a6c4d808a21a1921c14cb]
+## SCHEDULE 7 — Foods in which a limited number of Miscellaneous Additives listed in Schedule 1 may be used[^c-454a47cb034a6c4d808a21a1921c14cb]
 
 *Extent: N.I.*
 
@@ -254,7 +254,7 @@ Regulations 3(2) to (4) and 4(3)
 
 ## Annotations
 
-[^key-454a47cb034a6c4d808a21a1921c14cb]: Commencement: Sch. 7 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-454a47cb034a6c4d808a21a1921c14cb]: Commencement: Sch. 7 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00061]: Footnote: Cocoa and chocolate products energy-reduced or with no added sugars are not covered by Schedule 7
 

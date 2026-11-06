@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Incapacity for Work) (General) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-ace2a31c1b95ea2b867aa195b99074d7]
+The Social Security (Incapacity for Work) (General) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-ace2a31c1b95ea2b867aa195b99074d7]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 6th April 1998
 
-[^key-ace2a31c1b95ea2b867aa195b99074d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ace2a31c1b95ea2b867aa195b99074d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ace2a31c1b95ea2b867aa195b99074d7]
+## 1. Citation, commencement and interpretation[^c-ace2a31c1b95ea2b867aa195b99074d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-ace2a31c1b95ea2b867aa195b99074d7]
+## 2. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-ace2a31c1b95ea2b867aa195b99074d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-ace2a31c1b95ea2b867aa195b99074d7]
+## 3. Revocation[^c-ace2a31c1b95ea2b867aa195b99074d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ace2a31c1b95ea2b867aa195b99074d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ace2a31c1b95ea2b867aa195b99074d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ace2a31c1b95ea2b867aa195b99074d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ace2a31c1b95ea2b867aa195b99074d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ace2a31c1b95ea2b867aa195b99074d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/54) revoked (12.4.1999) by [The Social Security Benefits Up-rating and Miscellaneous Increases Regulations (Northern Ireland) 1999 (S.R. 1999/138)](https://www.legislation.gov.uk/nisr/1999/138), [regs. 1](https://www.legislation.gov.uk/nisr/1999/138/regulation/1), [4](https://www.legislation.gov.uk/nisr/1999/138/regulation/4)
+[^c-ace2a31c1b95ea2b867aa195b99074d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/54) revoked (12.4.1999) by [The Social Security Benefits Up-rating and Miscellaneous Increases Regulations (Northern Ireland) 1999 (S.R. 1999/138)](https://www.legislation.gov.uk/nisr/1999/138), [regs. 1](https://www.legislation.gov.uk/nisr/1999/138/regulation/1), [4](https://www.legislation.gov.uk/nisr/1999/138/regulation/4)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 29
 
-### 1. Aircraft log book[^key-174915408b7712f5a38b8fd4afb4a751]
+### 1. Aircraft log book[^c-174915408b7712f5a38b8fd4afb4a751]
 
 The following entries must be included in the aircraft log book—
 
@@ -34,9 +34,9 @@ The following entries must be included in the aircraft log book—
 - (f) subject to paragraph 2, detailed information about any defects occurring in the aircraft or in any equipment required to be carried by or under this Order, and of the action taken to rectify such defects; and
 - (g) subject to paragraph 2, detailed information about any overhauls, repairs, replacements and modifications relating to the aircraft or any such equipment as aforesaid.
 
-**2.**[^key-d44e256bedf10a9cf791b9d0e7509206] Entries are not required to be made under paragraph 1(e), (f) and (g) for any engine or variable pitch propeller.
+**2.**[^c-d44e256bedf10a9cf791b9d0e7509206] Entries are not required to be made under paragraph 1(e), (f) and (g) for any engine or variable pitch propeller.
 
-### 3. Engine log book[^key-b621f392e93dd476f35552930fdfc87d]
+### 3. Engine log book[^c-b621f392e93dd476f35552930fdfc87d]
 
 The following entries must be included in the engine log book—
 
@@ -50,7 +50,7 @@ The following entries must be included in the engine log book—
 - (f) detailed information about any defects occurring in the engine, and of the rectification of such defects; and
 - (g) detailed information about all overhauls, repairs, replacements and modifications relating to the engine or any of its accessories.
 
-### 4. Variable pitch propeller log book[^key-6aec11a18cc2a2baf43d7a5eeea56d28]
+### 4. Variable pitch propeller log book[^c-6aec11a18cc2a2baf43d7a5eeea56d28]
 
 The following entries must be included in the variable pitch propeller log book—
 
@@ -66,10 +66,10 @@ The following entries must be included in the variable pitch propeller log book�
 
 ## Annotations
 
-[^key-174915408b7712f5a38b8fd4afb4a751]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2015/870/schedule/5/paragraph/1) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-174915408b7712f5a38b8fd4afb4a751]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2015/870/schedule/5/paragraph/1) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-d44e256bedf10a9cf791b9d0e7509206]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2015/870/schedule/5/paragraph/2) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-d44e256bedf10a9cf791b9d0e7509206]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2015/870/schedule/5/paragraph/2) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-b621f392e93dd476f35552930fdfc87d]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2015/870/schedule/5/paragraph/3) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-b621f392e93dd476f35552930fdfc87d]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2015/870/schedule/5/paragraph/3) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-6aec11a18cc2a2baf43d7a5eeea56d28]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2015/870/schedule/5/paragraph/4) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-6aec11a18cc2a2baf43d7a5eeea56d28]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2015/870/schedule/5/paragraph/4) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

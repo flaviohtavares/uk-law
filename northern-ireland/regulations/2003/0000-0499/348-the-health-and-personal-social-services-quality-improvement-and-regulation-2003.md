@@ -37,15 +37,15 @@ Made
 
 The Department of Health, Social Services and Public Safety, in exercise of the powers conferred on it by Article 1(3) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation[^key-bfa60ab245b2eaafff9ca2d3d81b807a]
+## 1. Citation[^c-bfa60ab245b2eaafff9ca2d3d81b807a]
 
 This Order may be cited as the Health and Personal Social Services (Quality, Improvement and Regulation) (2003 Order) (Commencement No. 2) Order (Northern Ireland) 2003.
 
-## 2. Appointed day[^key-4dcf6bbb1b60ad53ad2b114e95a50b83]
+## 2. Appointed day[^c-4dcf6bbb1b60ad53ad2b114e95a50b83]
 
 1st September 2003 is the appointed day for the coming into operation of the following provisions of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 –
 
-- (a) Article 3 and Schedule 1 (the Health and Social Care Regulation and Quality Improvement Authority[^key-31a660e3b06e56d36c2a27ff4ba42cf9] );
+- (a) Article 3 and Schedule 1 (the Health and Social Care Regulation and Quality Improvement Authority[^c-31a660e3b06e56d36c2a27ff4ba42cf9] );
 - (b) Article 6 (Regulations and directions);
 - (c) Article 38 (1), (2) and (3) (Statements of minimum standards);
 - (d) Article 48 (Regulations, orders and directions) and
@@ -79,11 +79,11 @@ Article 47 (Arrangements for provision of pharmaceutical services to pharmacists
 
 [^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-bfa60ab245b2eaafff9ca2d3d81b807a]: Commencement: Art. 1 in operation at made date
+[^c-bfa60ab245b2eaafff9ca2d3d81b807a]: Commencement: Art. 1 in operation at made date
 
-[^key-4dcf6bbb1b60ad53ad2b114e95a50b83]: Commencement: Art. 2 in operation at made date
+[^c-4dcf6bbb1b60ad53ad2b114e95a50b83]: Commencement: Art. 2 in operation at made date
 
-[^key-31a660e3b06e56d36c2a27ff4ba42cf9]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisr/2003/348) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-31a660e3b06e56d36c2a27ff4ba42cf9]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisr/2003/348) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
 [^f00002]: Footnote: S.I. [1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
 

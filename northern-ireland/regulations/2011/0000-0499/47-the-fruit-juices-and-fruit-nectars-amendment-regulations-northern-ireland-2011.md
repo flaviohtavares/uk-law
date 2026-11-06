@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Fruit Juices and Fruit Nectars (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^key-201119d4a355d939feab1f6cc03a9880]
+The Fruit Juices and Fruit Nectars (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^c-201119d4a355d939feab1f6cc03a9880]
 
 Made
 
@@ -42,34 +42,34 @@ Coming into operation
 
 18th March 2011
 
-[^key-201119d4a355d939feab1f6cc03a9880]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-201119d4a355d939feab1f6cc03a9880]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-201119d4a355d939feab1f6cc03a9880]
+## 1. Citation and commencement[^c-201119d4a355d939feab1f6cc03a9880]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 2003[^key-201119d4a355d939feab1f6cc03a9880]
+## 2. Amendment of the Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 2003[^c-201119d4a355d939feab1f6cc03a9880]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-201119d4a355d939feab1f6cc03a9880]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-201119d4a355d939feab1f6cc03a9880]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-201119d4a355d939feab1f6cc03a9880]
+## SCHEDULE[^c-201119d4a355d939feab1f6cc03a9880]
 
 Regulation 2(5)
 
-> **SCHEDULE 6 — MINIMUM BRIX LEVELS FOR FRUIT JUICES FROM CONCENTRATE[^key-201119d4a355d939feab1f6cc03a9880]**
+> **SCHEDULE 6 — MINIMUM BRIX LEVELS FOR FRUIT JUICES FROM CONCENTRATE[^c-201119d4a355d939feab1f6cc03a9880]**
 >
 > Regulation 2 and Schedule 1
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-201119d4a355d939feab1f6cc03a9880]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-201119d4a355d939feab1f6cc03a9880]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-201119d4a355d939feab1f6cc03a9880]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/47) revoked (20.11.2013) by [The Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 2013 (S.R. 2013/253)](https://www.legislation.gov.uk/nisr/2013/253), [reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2013/253/regulation/20/1/b)
+[^c-201119d4a355d939feab1f6cc03a9880]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/47) revoked (20.11.2013) by [The Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 2013 (S.R. 2013/253)](https://www.legislation.gov.uk/nisr/2013/253), [reg. 20(1)(b)](https://www.legislation.gov.uk/nisr/2013/253/regulation/20/1/b)

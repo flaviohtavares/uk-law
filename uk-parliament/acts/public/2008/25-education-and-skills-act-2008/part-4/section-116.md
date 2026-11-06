@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Enforcement action available to Secretary of State[^key-1dd758e829f7406c81bae85ee4770839]
+## 116. Enforcement action available to Secretary of State[^c-1dd758e829f7406c81bae85ee4770839]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dd758e829f7406c81bae85ee4770839]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2008/25/section/116) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/l)
+[^c-1dd758e829f7406c81bae85ee4770839]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2008/25/section/116) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/l)

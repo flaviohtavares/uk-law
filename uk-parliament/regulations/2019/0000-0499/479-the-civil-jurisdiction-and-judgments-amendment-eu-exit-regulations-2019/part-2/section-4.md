@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Civil Jurisdiction and Judgments Act 1982[^key-2bcb938b0d9221c3ae403847b3ecd2c2]
+## 4. Civil Jurisdiction and Judgments Act 1982[^c-2bcb938b0d9221c3ae403847b3ecd2c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Civil Jurisdiction and Judgments Act 1982 [^c23624461] is amended as follows
 
 ## Annotations
 
-[^key-2bcb938b0d9221c3ae403847b3ecd2c2]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-2bcb938b0d9221c3ae403847b3ecd2c2]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624461]: Marginal citation: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Final offers: outcome[^key-8655f1073d1f5896c3460249881e7e44][^key-4c613aa689b79351ed864564dd5ca709]
+## 41. Final offers: outcome[^c-8655f1073d1f5896c3460249881e7e44][^c-4c613aa689b79351ed864564dd5ca709]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8655f1073d1f5896c3460249881e7e44]: Commencement: S. 41 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-8655f1073d1f5896c3460249881e7e44]: Commencement: S. 41 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-4c613aa689b79351ed864564dd5ca709]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2024/13/section/41) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-4c613aa689b79351ed864564dd5ca709]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2024/13/section/41) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

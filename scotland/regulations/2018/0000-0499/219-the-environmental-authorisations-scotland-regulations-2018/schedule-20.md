@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 20 — SCHEDULE 20 EMISSIONS ACTIVITIES[^key-0a3f7fe950fbc3ee86e297bdbc6e6eb7]
+## SCHEDULE 20 — SCHEDULE 20 EMISSIONS ACTIVITIES[^c-0a3f7fe950fbc3ee86e297bdbc6e6eb7]
 
 *Extent: S*
 
@@ -630,4 +630,4 @@ SEPA may, on determining an application for a variation by an authorised person,
 
 ## Annotations
 
-[^key-0a3f7fe950fbc3ee86e297bdbc6e6eb7]: Textual amendment: [Sch. 20](https://www.legislation.gov.uk/ssi/2018/219/schedule/20) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 11](https://www.legislation.gov.uk/ssi/2025/165/schedule/11) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-0a3f7fe950fbc3ee86e297bdbc6e6eb7]: Textual amendment: [Sch. 20](https://www.legislation.gov.uk/ssi/2018/219/schedule/20) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 11](https://www.legislation.gov.uk/ssi/2025/165/schedule/11) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

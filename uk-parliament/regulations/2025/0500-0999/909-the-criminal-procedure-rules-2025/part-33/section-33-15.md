@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.15. Variation of confiscation order due to inadequacy of available amount[^key-bac3f9e112d7774c84648c55ad6348c0]
+## 33.15. Variation of confiscation order due to inadequacy of available amount[^c-bac3f9e112d7774c84648c55ad6348c0]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bac3f9e112d7774c84648c55ad6348c0]: Commencement: [Rule 33.15](https://www.legislation.gov.uk/uksi/2025/909/rule/33.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-bac3f9e112d7774c84648c55ad6348c0]: Commencement: [Rule 33.15](https://www.legislation.gov.uk/uksi/2025/909/rule/33.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00805]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 23 was amended by section 74(2) of, and paragraph 12 of Schedule 8 to, the Serious Crime Act 2007 (c. 27) and section 8 of the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9).

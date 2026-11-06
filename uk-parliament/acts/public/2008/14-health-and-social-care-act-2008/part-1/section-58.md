@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Publication of information[^key-1e62a857fbec39ac9ac626d4a305f098]
+## 58. Publication of information[^c-1e62a857fbec39ac9ac626d4a305f098]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e62a857fbec39ac9ac626d4a305f098]: Commencement: S. 58 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/20)
+[^c-1e62a857fbec39ac9ac626d4a305f098]: Commencement: S. 58 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/20)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 493. Actionable loss[^key-8a46364ed3f725c14bce326cf1397c1e]
+## 493. Actionable loss[^c-8a46364ed3f725c14bce326cf1397c1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ In Schedule C5[^f00325] to the Local Government Pension Scheme Regulations 1995,
 
 ## Annotations
 
-[^key-8a46364ed3f725c14bce326cf1397c1e]: Commencement: Art. 493 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8a46364ed3f725c14bce326cf1397c1e]: Commencement: Art. 493 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00325]: Footnote: Schedule C5 was revoked by virtue of [S.I. 1997/1613](https://www.legislation.gov.uk/uksi/1997/1613), regulation 3(1), insofar as it applies to the “active” members of a scheme as defined in these Regulations and by Pensions Act 1995, section 124(1).
 

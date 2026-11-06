@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Required information about partners[^key-43293694720fdb71d02b11e671188a88]
+## 110. Required information about partners[^c-43293694720fdb71d02b11e671188a88]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43293694720fdb71d02b11e671188a88]: Commencement: S. 110 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-43293694720fdb71d02b11e671188a88]: Commencement: S. 110 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

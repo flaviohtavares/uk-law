@@ -46,7 +46,7 @@ The Secretary of State for Education, in exercise of the powers conferred by sec
 
 In accordance with section 22(9) of the Care Standards Act 2000 the Secretary of State has consulted such persons as were considered appropriate.
 
-## 1. Citation and commencement[^key-2b1e961f6b1fc16cc6d61617485fbabf]
+## 1. Citation and commencement[^c-2b1e961f6b1fc16cc6d61617485fbabf]
 
 (1) These Regulations may be cited as the Adoption and Children (Coronavirus) (Amendment) (No.2) Regulations 2020.
 
@@ -54,7 +54,7 @@ In accordance with section 22(9) of the Care Standards Act 2000 the Secretary of
 
 (3) The remainder of these Regulations come into force on 25th September.
 
-## 2. Amendment of the Residential Family Centres Regulations 2002[^key-6a68085231193fb97db31fc3b4215497]
+## 2. Amendment of the Residential Family Centres Regulations 2002[^c-6a68085231193fb97db31fc3b4215497]
 
 (1) The Residential Family Centres Regulations 2002 [^c24277271] are amended as follows.
 
@@ -73,7 +73,7 @@ In accordance with section 22(9) of the Care Standards Act 2000 the Secretary of
 
 .
 
-## 3. Amendment of the Adoption Agencies Regulations 2005[^key-b3e5b27283d53ef329fe24997eb7f8c1]
+## 3. Amendment of the Adoption Agencies Regulations 2005[^c-b3e5b27283d53ef329fe24997eb7f8c1]
 
 (1) The Adoption Agencies Regulations 2005 [^c24277281] are amended as follows.
 
@@ -101,7 +101,7 @@ In accordance with section 22(9) of the Care Standards Act 2000 the Secretary of
 
   .
 
-## 4. Amendment of the Care Planning, Placement and Case Review (England) Regulations 2010[^key-cee6c0b340d46584832901f6f1a77038]
+## 4. Amendment of the Care Planning, Placement and Case Review (England) Regulations 2010[^c-cee6c0b340d46584832901f6f1a77038]
 
 **No longer in force (ended 2020-09-25).**
 
@@ -145,7 +145,7 @@ In accordance with section 22(9) of the Care Standards Act 2000 the Secretary of
 
   .
 
-## 5. Amendment of the Fostering Services (England) Regulations 2011[^key-55df603201f72c60d3ee4cf2fc615d1d]
+## 5. Amendment of the Fostering Services (England) Regulations 2011[^c-55df603201f72c60d3ee4cf2fc615d1d]
 
 (1) The Fostering Services (England) Regulations 2011 [^c24277301] are amended as follows.
 
@@ -164,7 +164,7 @@ In accordance with section 22(9) of the Care Standards Act 2000 the Secretary of
 
   .
 
-## 6. Amendment of the Children's Homes (England) Regulations 2015[^key-533fd24cfd429a73f7123374ba22c494]
+## 6. Amendment of the Children's Homes (England) Regulations 2015[^c-533fd24cfd429a73f7123374ba22c494]
 
 (1) The Children's Homes (England) Regulations 2015 [^c24277311] are amended as follows.
 
@@ -186,7 +186,7 @@ In accordance with section 22(9) of the Care Standards Act 2000 the Secretary of
 
   .
 
-## 7. Amendment of the Adoption and Children (Coronavirus) (Amendment) Regulations 2020[^key-61a18f9424c0c2f19e92b1f45c69438e][^key-61a18f9424c0c2f19e92b1f45c69438e]
+## 7. Amendment of the Adoption and Children (Coronavirus) (Amendment) Regulations 2020[^c-61a18f9424c0c2f19e92b1f45c69438e][^c-61a18f9424c0c2f19e92b1f45c69438e]
 
 In regulation 14 of the Adoption and Children (Coronavirus) (Amendment) Regulations 2020 [^c24277321] (amendment of Her Majesty's Chief Inspector of Education, Children's Services and Skills (Fees and Frequency of Inspections) (Children's Homes etc) Regulations 2015)—
 
@@ -197,11 +197,11 @@ In regulation 14 of the Adoption and Children (Coronavirus) (Amendment) Regulati
 
   .
 
-## 8. Review and expiry[^key-469de1c51dfd4adad72b932b267689a5]
+## 8. Review and expiry[^c-469de1c51dfd4adad72b932b267689a5]
 
 (1) The Secretary of State must review the effectiveness of the amendments made by these Regulations during the period for which they have effect.
 
-(2) These Regulations expire at the end of 30th September 2021 *(Extent: E)*[^key-38eee20f3619d2e97f8a5772df46e9ee].
+(2) These Regulations expire at the end of 30th September 2021 *(Extent: E)*[^c-38eee20f3619d2e97f8a5772df46e9ee].
 
 (3) This regulation does not affect the validity of anything done pursuant to the amendments made by these Regulations before they cease to have effect.
 
@@ -243,32 +243,32 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^c24277261]: Marginal citation: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38). Section 140(7) was inserted by section 7(1) of the Children and Families Act 2014.
 
-[^key-2b1e961f6b1fc16cc6d61617485fbabf]: Commencement: Reg. 1 in force at 24.9.2020, see reg. 1(2)
+[^c-2b1e961f6b1fc16cc6d61617485fbabf]: Commencement: Reg. 1 in force at 24.9.2020, see reg. 1(2)
 
-[^key-6a68085231193fb97db31fc3b4215497]: Commencement: Reg. 2 in force at 25.9.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3)
+[^c-6a68085231193fb97db31fc3b4215497]: Commencement: Reg. 2 in force at 25.9.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3)
 
 [^c24277271]: Marginal citation: [S.I. 2002/3213](https://www.legislation.gov.uk/uksi/2002/3213). Amended by [S.I. 2013/499](https://www.legislation.gov.uk/uksi/2013/499) and [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445). The amendments made by [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445) cease to have effect on 25th September 2020 subject to savings provisions. There are other amendments not relevant to these Regulations.
 
-[^key-b3e5b27283d53ef329fe24997eb7f8c1]: Commencement: Reg. 3 in force at 25.9.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3)
+[^c-b3e5b27283d53ef329fe24997eb7f8c1]: Commencement: Reg. 3 in force at 25.9.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3)
 
 [^c24277281]: Marginal citation: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389). Amended by [S.I. 2011/589](https://www.legislation.gov.uk/uksi/2011/589), [S.I](https://www.legislation.gov.uk/uksi/2011/589/section/I). 2012/1410, [S.I. 2013/985](https://www.legislation.gov.uk/uksi/2013/985), [S.I](https://www.legislation.gov.uk/uksi/2013/985/section/I). 2005/3482 and [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445). The amendments made by [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445) cease to have effect on 25th September 2020 subject to savings provisions.
 
-[^key-cee6c0b340d46584832901f6f1a77038]: Commencement: Reg. 4 in force at 25.9.2020, see reg. 1(3)
+[^c-cee6c0b340d46584832901f6f1a77038]: Commencement: Reg. 4 in force at 25.9.2020, see reg. 1(3)
 
 [^c24277291]: Marginal citation: [S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959). Amended by [S.I. 2013/706](https://www.legislation.gov.uk/uksi/2013/706), [S.I](https://www.legislation.gov.uk/uksi/2013/706/section/I). 2011/581, [S.I. 2018/48](https://www.legislation.gov.uk/uksi/2018/48), [S.I](https://www.legislation.gov.uk/uksi/2018/48/section/I). 2015/495, [S.I. 2014/852](https://www.legislation.gov.uk/uksi/2014/852), [S.I](https://www.legislation.gov.uk/uksi/2014/852/section/I). 2014/2013, [S.I. 2014/1917](https://www.legislation.gov.uk/uksi/2014/1917), [S.I](https://www.legislation.gov.uk/uksi/2014/1917/section/I). 2011/581 and [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445). The amendments made by [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445) cease to have effect on 25th September 2020 subject to savings provisions. Regulation 22A was inserted by [S.I. 2014/1556](https://www.legislation.gov.uk/uksi/2014/1556).
 
-[^key-55df603201f72c60d3ee4cf2fc615d1d]: Commencement: Reg. 5 in force at 25.9.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3)
+[^c-55df603201f72c60d3ee4cf2fc615d1d]: Commencement: Reg. 5 in force at 25.9.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3)
 
 [^c24277301]: Marginal citation: [S.I. 2011/581](https://www.legislation.gov.uk/uksi/2011/581). Amended by [S.I. 2013/984](https://www.legislation.gov.uk/uksi/2013/984) and S.I 2020/445. The amendments made by [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445) cease to have effect on 25th September 2020 subject to savings provisions, including a savings provision relating to amendments to regulation 26.
 
-[^key-533fd24cfd429a73f7123374ba22c494]: Commencement: Reg. 6 in force at 25.9.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3)
+[^c-533fd24cfd429a73f7123374ba22c494]: Commencement: Reg. 6 in force at 25.9.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/3)
 
 [^c24277311]: Marginal citation: [S.I. 2015/541](https://www.legislation.gov.uk/uksi/2015/541). Amended by [S.I. 2016/211](https://www.legislation.gov.uk/uksi/2016/211) and [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445). The amendments made by [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445) cease to have effect on 25th September 2020 subject to savings provisions.
 
-[^key-61a18f9424c0c2f19e92b1f45c69438e]: Commencement: Reg. 7 in force at 24.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/2)
+[^c-61a18f9424c0c2f19e92b1f45c69438e]: Commencement: Reg. 7 in force at 24.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/909/regulation/1/2)
 
 [^c24277321]: Marginal citation: [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445). The amendments made by [S.I. 2020/445](https://www.legislation.gov.uk/uksi/2020/445) cease to have effect on 25th September 2020 subject to savings provisions.
 
-[^key-469de1c51dfd4adad72b932b267689a5]: Commencement: Reg. 8 in force at 25.9.2020, see reg. 1(3)
+[^c-469de1c51dfd4adad72b932b267689a5]: Commencement: Reg. 8 in force at 25.9.2020, see reg. 1(3)
 
-[^key-38eee20f3619d2e97f8a5772df46e9ee]: Textual amendment: Words in reg. 8(2) substituted (30.3.2021) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/261)](https://www.legislation.gov.uk/uksi/2021/261), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/261/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/261/regulation/4)
+[^c-38eee20f3619d2e97f8a5772df46e9ee]: Textual amendment: Words in reg. 8(2) substituted (30.3.2021) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/261)](https://www.legislation.gov.uk/uksi/2021/261), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/261/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/261/regulation/4)

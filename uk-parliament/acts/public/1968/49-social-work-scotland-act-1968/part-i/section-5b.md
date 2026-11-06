@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5B. Complaints procedure.[^key-aff7713bd98a49b33f37fdca22e80892]
+## 5B. Complaints procedure.[^c-aff7713bd98a49b33f37fdca22e80892]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aff7713bd98a49b33f37fdca22e80892]: Textual amendment: [S. 5B](https://www.legislation.gov.uk/ukpga/1968/49/section/5B) repealed (1.4.2017) by [The Public Services Reform (Social Work Complaints Procedure) (Scotland) Order 2016 (S.S.I. 2016/157)](https://www.legislation.gov.uk/ssi/2016/157), [arts. 1](https://www.legislation.gov.uk/ssi/2016/157/article/1), [6(1)](https://www.legislation.gov.uk/ssi/2016/157/article/6/1) (with [art. 6(3)](https://www.legislation.gov.uk/ssi/2016/157/article/6/3)[(4)](https://www.legislation.gov.uk/ssi/2016/157/article/6/4))
+[^c-aff7713bd98a49b33f37fdca22e80892]: Textual amendment: [S. 5B](https://www.legislation.gov.uk/ukpga/1968/49/section/5B) repealed (1.4.2017) by [The Public Services Reform (Social Work Complaints Procedure) (Scotland) Order 2016 (S.S.I. 2016/157)](https://www.legislation.gov.uk/ssi/2016/157), [arts. 1](https://www.legislation.gov.uk/ssi/2016/157/article/1), [6(1)](https://www.legislation.gov.uk/ssi/2016/157/article/6/1) (with [art. 6(3)](https://www.legislation.gov.uk/ssi/2016/157/article/6/3)[(4)](https://www.legislation.gov.uk/ssi/2016/157/article/6/4))

@@ -131,15 +131,15 @@ Table
 
 (5) For the purposes of sub-paragraph (4)—
 
-- (a) amount A is an amount which is five times the annual amount of pension payable to the member [^key-774b214c5262397a6a44fd2498c86444]..., less the amount of the pension payments already made to the member;
+- (a) amount A is an amount which is five times the annual amount of pension payable to the member [^c-774b214c5262397a6a44fd2498c86444]..., less the amount of the pension payments already made to the member;
 - (b) amount B is the amount which is the higher of—
   - (i) twice the pension debit member's re-valued pensionable earnings for the period of 12 months ending on the valuation day; and
   - (ii) twice the pension debit member's re-valued pensionable earnings for the scheme year falling in the earnings reference period which has the largest re-valued pensionable earnings.
 
 (6) In this paragraph—
 
-- [^key-6657aad71d4b47fb2d8e856b8ba40f48]...
-- [^key-6657aad71d4b47fb2d8e856b8ba40f48]...
+- [^c-6657aad71d4b47fb2d8e856b8ba40f48]...
+- [^c-6657aad71d4b47fb2d8e856b8ba40f48]...
 - “**valuation day**” means the day referred to in Article 26(7) of the 1999 Order.
 
 ### 9. Payment of lump sums or pensions on death
@@ -175,7 +175,7 @@ the lump sum (or, as the case may be, the percentage of it specified in respect 
 
 the lump sum may be paid to that person unless sub-paragraph (7) applies.
 
-(7) This sub-paragraph applies if the person to whom the lump sum (or a specified percentage of the lump sum) would otherwise be payable has been convicted of an offence specified in paragraph 12(4) of Schedule 3[^key-c0e8e803dd3c0d03a56fb88dbf0a7cc4] (Forfeiture of rights to benefit) and the Secretary of State has directed, as a consequence of that conviction, that the person's right to a payment in respect of the member's death is forfeited.
+(7) This sub-paragraph applies if the person to whom the lump sum (or a specified percentage of the lump sum) would otherwise be payable has been convicted of an offence specified in paragraph 12(4) of Schedule 3[^c-c0e8e803dd3c0d03a56fb88dbf0a7cc4] (Forfeiture of rights to benefit) and the Secretary of State has directed, as a consequence of that conviction, that the person's right to a payment in respect of the member's death is forfeited.
 
 (8) A notice under sub-paragraph (3)—
 
@@ -191,10 +191,10 @@ the lump sum may be paid to that person unless sub-paragraph (7) applies.
 
 ## Annotations
 
-[^key-774b214c5262397a6a44fd2498c86444]: Textual amendment: Words in [Sch. 12 para. 8(5)(a)](https://www.legislation.gov.uk/nisr/2015/120/schedule/12/paragraph/8/5/a) omitted (with effect in accordance with reg. 1(8) of the amending Rule) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [67(a)](https://www.legislation.gov.uk/nisr/2022/196/regulation/67/a)
+[^c-774b214c5262397a6a44fd2498c86444]: Textual amendment: Words in [Sch. 12 para. 8(5)(a)](https://www.legislation.gov.uk/nisr/2015/120/schedule/12/paragraph/8/5/a) omitted (with effect in accordance with reg. 1(8) of the amending Rule) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [67(a)](https://www.legislation.gov.uk/nisr/2022/196/regulation/67/a)
 
-[^key-6657aad71d4b47fb2d8e856b8ba40f48]: Textual amendment: Words in [Sch. 12 para. 8(6)](https://www.legislation.gov.uk/nisr/2015/120/schedule/12/paragraph/8/6) omitted (with effect in accordance with reg. 1(8) of the amending Rule) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [67(b)](https://www.legislation.gov.uk/nisr/2022/196/regulation/67/b)
+[^c-6657aad71d4b47fb2d8e856b8ba40f48]: Textual amendment: Words in [Sch. 12 para. 8(6)](https://www.legislation.gov.uk/nisr/2015/120/schedule/12/paragraph/8/6) omitted (with effect in accordance with reg. 1(8) of the amending Rule) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [67(b)](https://www.legislation.gov.uk/nisr/2022/196/regulation/67/b)
 
-[^key-c0e8e803dd3c0d03a56fb88dbf0a7cc4]: Textual amendment: Words in [Sch. 12 para. 9(7)](https://www.legislation.gov.uk/nisr/2015/120/schedule/12/paragraph/9/7) substituted (18.6.2025 with effect from 1/4/2015) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025 (S.R. 2025/100)](https://www.legislation.gov.uk/nisr/2025/100), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)[(4)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/4), [30](https://www.legislation.gov.uk/nisr/2025/100/regulation/30)
+[^c-c0e8e803dd3c0d03a56fb88dbf0a7cc4]: Textual amendment: Words in [Sch. 12 para. 9(7)](https://www.legislation.gov.uk/nisr/2015/120/schedule/12/paragraph/9/7) substituted (18.6.2025 with effect from 1/4/2015) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2025 (S.R. 2025/100)](https://www.legislation.gov.uk/nisr/2025/100), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/2)[(4)](https://www.legislation.gov.uk/nisr/2025/100/regulation/1/4), [30](https://www.legislation.gov.uk/nisr/2025/100/regulation/30)
 
 [^c22441311]: Marginal citation: [1967 c.5 (N.I.)](https://www.legislation.gov.uk/apni/1967/5)

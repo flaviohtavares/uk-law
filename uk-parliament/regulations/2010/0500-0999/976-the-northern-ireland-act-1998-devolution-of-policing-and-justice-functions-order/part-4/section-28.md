@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**28.**[^key-84c25e8bfdab2c56db3b2e2c859e5928] This Order does not affect the validity of anything done before the coming into force of this Order.
+**28.**[^c-84c25e8bfdab2c56db3b2e2c859e5928] This Order does not affect the validity of anything done before the coming into force of this Order.
 
 ## Annotations
 
-[^key-84c25e8bfdab2c56db3b2e2c859e5928]: Commencement: Art. 28 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-84c25e8bfdab2c56db3b2e2c859e5928]: Commencement: Art. 28 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

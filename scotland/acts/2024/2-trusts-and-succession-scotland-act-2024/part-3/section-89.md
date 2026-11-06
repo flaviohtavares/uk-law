@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Short title[^key-373dc30db18e8acc008def2529ede77a]
+## 89. Short title[^c-373dc30db18e8acc008def2529ede77a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Trusts and Succession (Scotland) Act 2024.
 
 ## Annotations
 
-[^key-373dc30db18e8acc008def2529ede77a]: Commencement: S. 89 in force at 31.1.2024, see [s. 88(1)](https://www.legislation.gov.uk/asp/2024/2/section/88/1)
+[^c-373dc30db18e8acc008def2529ede77a]: Commencement: S. 89 in force at 31.1.2024, see [s. 88(1)](https://www.legislation.gov.uk/asp/2024/2/section/88/1)

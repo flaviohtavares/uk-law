@@ -27,7 +27,7 @@ summary: ''
 
 shall carry on and complete the works with all such dispatch as is reasonably practicable.
 
-(2) An undertaker who fails to do so commits an offence and is liable on summary conviction to a fine not exceeding level 5[^key-cf1153df05bd5a01799073f03f25d591] on the standard scale.
+(2) An undertaker who fails to do so commits an offence and is liable on summary conviction to a fine not exceeding level 5[^c-cf1153df05bd5a01799073f03f25d591] on the standard scale.
 
 (3) Where an undertaker executing any road works creates an obstruction in a road to a greater extent or for a longer period than is reasonably necessary, the road works authority may by notice require him to take such reasonable steps as are specified in the notice to mitigate or discontinue the obstruction.
 
@@ -35,4 +35,4 @@ shall carry on and complete the works with all such dispatch as is reasonably pr
 
 ## Annotations
 
-[^key-cf1153df05bd5a01799073f03f25d591]: Textual amendment: Words in [s. 125(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/125/2) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-cf1153df05bd5a01799073f03f25d591]: Textual amendment: Words in [s. 125(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/125/2) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

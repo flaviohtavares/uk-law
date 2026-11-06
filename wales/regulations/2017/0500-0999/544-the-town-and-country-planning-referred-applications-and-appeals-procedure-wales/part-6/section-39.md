@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Absence, adjournment etc.[^key-3ba06dcdab81861c4d07d8586c67d73e]
+## 39. Absence, adjournment etc.[^c-3ba06dcdab81861c4d07d8586c67d73e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ba06dcdab81861c4d07d8586c67d73e]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2017/544/regulation/39) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-3ba06dcdab81861c4d07d8586c67d73e]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2017/544/regulation/39) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

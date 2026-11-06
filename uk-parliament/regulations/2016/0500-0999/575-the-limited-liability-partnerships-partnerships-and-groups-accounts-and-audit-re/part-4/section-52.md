@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Amendments to Section A of Part 2 of Schedule 1 (accounting principles: non-IAS individual accounts)[^key-f4f747c8d47861c9c73f2fd2aa55f11b]
+## 52. Amendments to Section A of Part 2 of Schedule 1 (accounting principles: non-IAS individual accounts)[^c-f4f747c8d47861c9c73f2fd2aa55f11b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ In Section A of Part 2 of Schedule 1 (accounting principles: individual accounts
 
 ## Annotations
 
-[^key-f4f747c8d47861c9c73f2fd2aa55f11b]: Commencement: Reg. 52 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-f4f747c8d47861c9c73f2fd2aa55f11b]: Commencement: Reg. 52 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

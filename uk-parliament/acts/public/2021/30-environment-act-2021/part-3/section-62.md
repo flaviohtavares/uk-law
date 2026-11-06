@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Transfrontier shipments of waste[^key-7da02bebf0e9c6745ca1a459b0d8def8][^key-8cbe26a2e047c349659047e924160730]
+## 62. Transfrontier shipments of waste[^c-7da02bebf0e9c6745ca1a459b0d8def8][^c-8cbe26a2e047c349659047e924160730]
 
 *Extent: E+W+S+N.I.*
 
@@ -139,6 +139,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7da02bebf0e9c6745ca1a459b0d8def8]: Commencement: S. 62 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-7da02bebf0e9c6745ca1a459b0d8def8]: Commencement: S. 62 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-8cbe26a2e047c349659047e924160730]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2021/30/section/62) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/k)
+[^c-8cbe26a2e047c349659047e924160730]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2021/30/section/62) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/k)

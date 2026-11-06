@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Amendments to UNCITRAL Model Law or Rules or New York Convention[^key-43e05b1c3c182efbb2c21ae516ccf157]
+## 26. Amendments to UNCITRAL Model Law or Rules or New York Convention[^c-43e05b1c3c182efbb2c21ae516ccf157]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ in such manner as they consider appropriate in consequence of any amendment made
 
 ## Annotations
 
-[^key-43e05b1c3c182efbb2c21ae516ccf157]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2010/1/section/26) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-43e05b1c3c182efbb2c21ae516ccf157]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2010/1/section/26) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

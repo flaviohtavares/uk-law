@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Functions under this Part to be social services functions[^key-10438385564d9d7b6a0e3da8c8a5a741]
+## 5. Functions under this Part to be social services functions[^c-10438385564d9d7b6a0e3da8c8a5a741]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In Schedule 1 to the Local Authority Social Services Act 1970 (c. 42) (functions
 
 ## Annotations
 
-[^key-10438385564d9d7b6a0e3da8c8a5a741]: Commencement: S. 5 in force at 16.2.2009 for E. by [S.I. 2009/323](https://www.legislation.gov.uk/uksi/2009/323), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/323/article/2/b)
+[^c-10438385564d9d7b6a0e3da8c8a5a741]: Commencement: S. 5 in force at 16.2.2009 for E. by [S.I. 2009/323](https://www.legislation.gov.uk/uksi/2009/323), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/323/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11C. Removal from zone[^key-92cd272be9d2df0d54010fdddc592c51]
+## 11C. Removal from zone[^c-92cd272be9d2df0d54010fdddc592c51]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92cd272be9d2df0d54010fdddc592c51]: Textual amendment: [Ss. 11B](https://www.legislation.gov.uk/ukpga/1998/31/section/11B), [11C](https://www.legislation.gov.uk/ukpga/1998/31/section/11C) inserted (1.10.2002 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2002/32/schedule/15/paragraph/5) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)
+[^c-92cd272be9d2df0d54010fdddc592c51]: Textual amendment: [Ss. 11B](https://www.legislation.gov.uk/ukpga/1998/31/section/11B), [11C](https://www.legislation.gov.uk/ukpga/1998/31/section/11C) inserted (1.10.2002 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2002/32/schedule/15/paragraph/5) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3); [S.I. 2007/3611](https://www.legislation.gov.uk/wsi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/wsi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2007/3611/schedule/part/1)

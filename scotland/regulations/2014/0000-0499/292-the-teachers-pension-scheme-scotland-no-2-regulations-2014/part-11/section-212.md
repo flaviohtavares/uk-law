@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 212. Extension of time[^key-198f1627055c71c3ecf4e28b8436be5c]
+## 212. Extension of time[^c-198f1627055c71c3ecf4e28b8436be5c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The scheme manager may in any particular case extend, or treat as extended, the 
 
 ## Annotations
 
-[^key-198f1627055c71c3ecf4e28b8436be5c]: Commencement: [Reg. 212](https://www.legislation.gov.uk/ssi/2014/292/regulation/212) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-198f1627055c71c3ecf4e28b8436be5c]: Commencement: [Reg. 212](https://www.legislation.gov.uk/ssi/2014/292/regulation/212) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

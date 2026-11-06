@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2d24f16409cb0916af024609d78b2b21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2d24f16409cb0916af024609d78b2b21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Section 328 of the Taxes Act 1988 (agreements with the Board about the taxation regime for common investment funds) shall cease to have effect.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d24f16409cb0916af024609d78b2b21]: Textual amendment: S. 68(1) repealed (1.4.2010 with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2d24f16409cb0916af024609d78b2b21]: Textual amendment: S. 68(1) repealed (1.4.2010 with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

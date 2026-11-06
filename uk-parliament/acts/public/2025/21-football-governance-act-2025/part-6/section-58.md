@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Applications under section 57: procedural and other requirements[^key-8e365a74e76e95a0c6e32fa40d45bb45][^key-52a0db487d61fc89323f4e13bb0c1023]
+## 58. Applications under section 57: procedural and other requirements[^c-8e365a74e76e95a0c6e32fa40d45bb45][^c-52a0db487d61fc89323f4e13bb0c1023]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8e365a74e76e95a0c6e32fa40d45bb45]: Commencement: S. 58 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-8e365a74e76e95a0c6e32fa40d45bb45]: Commencement: S. 58 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-52a0db487d61fc89323f4e13bb0c1023]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2025/21/section/58) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/iii)
+[^c-52a0db487d61fc89323f4e13bb0c1023]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2025/21/section/58) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/iii)

@@ -39,7 +39,7 @@ the member is entitled from the end of the period mentioned in sub-paragraph (a)
 
 (7) For the purposes of this regulation, a person has a guaranteed minimum if that person has such a minimum under section 10 (earner's guaranteed minimum) of the 1993 Act in relation to benefits under these Regulations, and references to entitlement are to the entitlement to payment of a pension in accordance with paragraph (1).
 
-(8) Where the guaranteed minimum pension rule applies, the pension to which a person is entitled under regulations 41 (survivor benefits: partners of active members), 47 (survivor benefits: partners of deferred members) and 52 (survivor benefits: partners of pensioner members) shall be no less than the surviving spouse's, [^key-dc97eff4d3292284355488e5e3d6a0c9]... co-habiting partner's or civil partner's guaranteed minimum.
+(8) Where the guaranteed minimum pension rule applies, the pension to which a person is entitled under regulations 41 (survivor benefits: partners of active members), 47 (survivor benefits: partners of deferred members) and 52 (survivor benefits: partners of pensioner members) shall be no less than the surviving spouse's, [^c-dc97eff4d3292284355488e5e3d6a0c9]... co-habiting partner's or civil partner's guaranteed minimum.
 
 (9) The guaranteed minimum pension rule applies if—
 
@@ -58,4 +58,4 @@ of these Regulations.
 
 ## Annotations
 
-[^key-dc97eff4d3292284355488e5e3d6a0c9]: Textual amendment: Word in [reg. 58(8)](https://www.legislation.gov.uk/nisr/2014/188/regulation/58/8) omitted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [27](https://www.legislation.gov.uk/nisr/2019/206/regulation/27)
+[^c-dc97eff4d3292284355488e5e3d6a0c9]: Textual amendment: Word in [reg. 58(8)](https://www.legislation.gov.uk/nisr/2014/188/regulation/58/8) omitted (with effect in accordance with reg. 1(2)(c) of the amending Rule) by virtue of [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/206)](https://www.legislation.gov.uk/nisr/2019/206), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/206/regulation/1/1), [27](https://www.legislation.gov.uk/nisr/2019/206/regulation/27)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Advertising defences: general[^key-f5cba3920f16b66307235cfcccc20569]
+## 125. Advertising defences: general[^c-f5cba3920f16b66307235cfcccc20569]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5cba3920f16b66307235cfcccc20569]: Commencement: S. 125 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-f5cba3920f16b66307235cfcccc20569]: Commencement: S. 125 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

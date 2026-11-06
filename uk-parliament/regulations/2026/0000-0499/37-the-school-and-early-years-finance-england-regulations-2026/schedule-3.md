@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 29
 
-**1.**[^key-b7a7ed597e123f74784900da6020b280] (1) In this Schedule—
+**1.**[^c-b7a7ed597e123f74784900da6020b280] (1) In this Schedule—
 
 - (a) references to the number of pupils—
   - (i) for the purposes of the previous funding period, exclude those funded by a sixth form grant; and
@@ -73,31 +73,31 @@ Regulation 29
 
 in both cases adjusted in accordance with paragraph 1(1)(e) or (f), whichever is applicable.
 
-**2.**[^key-026ba0688c53fd22db1b0be04deb8617] Where (A/B) is less than (C/D) then the guaranteed funding level is (C/D) x B where—
+**2.**[^c-026ba0688c53fd22db1b0be04deb8617] Where (A/B) is less than (C/D) then the guaranteed funding level is (C/D) x B where—
 
 - A is the redetermined adjusted budget share, calculated by the local authority, for the funding period;
 - B is the relevant number of pupils in the funding period;
 - C is the redetermined adjusted budget share for the previous funding period multiplied by the minimum funding number; and
 - D is the relevant number of pupils in the previous funding period.
 
-**3.**[^key-c718e6afa8c079edcfbdea12acd25f4d] Where a new school opens during the funding period and is a replacement for two or more schools being discontinued during the funding period, its guaranteed funding level must be calculated in accordance with paragraph 2, subject to paragraph 4.
+**3.**[^c-c718e6afa8c079edcfbdea12acd25f4d] Where a new school opens during the funding period and is a replacement for two or more schools being discontinued during the funding period, its guaranteed funding level must be calculated in accordance with paragraph 2, subject to paragraph 4.
 
-**4.**[^key-842fda0610300cf4488cf1540a7ef20f] In calculating the guaranteed level of funding under paragraph 3 the relevant number of pupils in the previous funding period under paragraph 1(1)(b) is the sum of the relevant number of pupils in the discontinued schools on 3rd October 2024.
+**4.**[^c-842fda0610300cf4488cf1540a7ef20f] In calculating the guaranteed level of funding under paragraph 3 the relevant number of pupils in the previous funding period under paragraph 1(1)(b) is the sum of the relevant number of pupils in the discontinued schools on 3rd October 2024.
 
-**5.**[^key-ddfb4d5aed5566be0786ff7d71a591c0] In calculating the redetermined adjusted budget share for the previous funding period, the local authority may exclude any amounts allocated pursuant to regulation 43(1)(d) (exceptional premises costs) if it also excludes the amount from the redetermined adjusted budget share calculated for the funding period.
+**5.**[^c-ddfb4d5aed5566be0786ff7d71a591c0] In calculating the redetermined adjusted budget share for the previous funding period, the local authority may exclude any amounts allocated pursuant to regulation 43(1)(d) (exceptional premises costs) if it also excludes the amount from the redetermined adjusted budget share calculated for the funding period.
 
 ## Annotations
 
-[^key-b7a7ed597e123f74784900da6020b280]: Commencement: Sch. 3 para. 1 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-b7a7ed597e123f74784900da6020b280]: Commencement: Sch. 3 para. 1 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00148]: Footnote: “The National Insurance Contributions Grant” and “the Schools Budget Support Grant”, are the names of two grants paid to a local authority by the Secretary of State under section 14 of the 2002 Act.
 
 [^f00149]: Footnote: The authority proforma tool is provided to local authorities to enable them to detail their schools block funding formulae. The 2026 – 2027 authority proforma tool can be found in a document entitled “Authority Proforma Tool (APT): purpose and process – instructions for local authorities for 2026 to 2027”, published on 17th December 2025, which is available at https://www.gov.uk/government/publications/how-to-complete-the-authority-proforma-tool-apt-2026-to-2027/authority-proforma-tool-apt-purpose-and-process-instructions-for-local-authorities-for-2026-to-2027--2. A printed copy may also be inspected at the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P 3BT, upon request.
 
-[^key-026ba0688c53fd22db1b0be04deb8617]: Commencement: Sch. 3 para. 2 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-026ba0688c53fd22db1b0be04deb8617]: Commencement: Sch. 3 para. 2 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
-[^key-c718e6afa8c079edcfbdea12acd25f4d]: Commencement: Sch. 3 para. 3 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-c718e6afa8c079edcfbdea12acd25f4d]: Commencement: Sch. 3 para. 3 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
-[^key-842fda0610300cf4488cf1540a7ef20f]: Commencement: Sch. 3 para. 4 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-842fda0610300cf4488cf1540a7ef20f]: Commencement: Sch. 3 para. 4 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
-[^key-ddfb4d5aed5566be0786ff7d71a591c0]: Commencement: Sch. 3 para. 5 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-ddfb4d5aed5566be0786ff7d71a591c0]: Commencement: Sch. 3 para. 5 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

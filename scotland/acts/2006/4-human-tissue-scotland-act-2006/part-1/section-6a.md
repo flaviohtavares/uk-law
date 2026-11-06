@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6A. Withdrawal of express authorisation: adult[^key-610399ddf0c7910cd88ab3e99f627cf0]
+## 6A. Withdrawal of express authorisation: adult[^c-610399ddf0c7910cd88ab3e99f627cf0]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-610399ddf0c7910cd88ab3e99f627cf0]: Textual amendment: S. 6A inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 5(4)](https://www.legislation.gov.uk/asp/2019/11/section/5/4), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-610399ddf0c7910cd88ab3e99f627cf0]: Textual amendment: S. 6A inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 5(4)](https://www.legislation.gov.uk/asp/2019/11/section/5/4), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

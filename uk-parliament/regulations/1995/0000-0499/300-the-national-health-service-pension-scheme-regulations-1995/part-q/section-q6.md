@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Q6. Paying for additional service or unreduced retirement lump sum by regular additional contributions[^key-27be4c146d53c41c7bc63aa6995ec596][^key-aa2a412986ca69692abb9558e0be1fe9]
+## Q6. Paying for additional service or unreduced retirement lump sum by regular additional contributions[^c-27be4c146d53c41c7bc63aa6995ec596][^c-aa2a412986ca69692abb9558e0be1fe9]
 
 *Extent: E+W+S*
 
-[^key-aa2a412986ca69692abb9558e0be1fe9]
+[^c-aa2a412986ca69692abb9558e0be1fe9]
 
 (1) A member who wishes to pay for additional service or an unreduced retirement lump sum by regular additional contributions must elect to do so before reaching age 63.
 
@@ -32,9 +32,9 @@ summary: ''
 
 (5) The regular additional contributions will be calculated as a percentage of the member’s pensionable pay, in accordance with Table 3 of Schedule 1 (if the member is buying additional service) or Table 4 of Schedule 1 (if the member is buying an unreduced retirement lump sum).
 
-(6) The member’s total regular contributions to this Section of[^M_F_1dda5cbd-59c8-4c0a-dce6-230e232b8265] the scheme before 1st April 2008[^key-af63402ece40a5b317fb5bd4dd878cf1], including contributions under regulation D1 may not exceed 15 per cent. of pensionable pay, or any other limit specified for the time being by HM[^key-4a2810733f7da58375ee1ff7c704eaec] Revenue and Customs.
+(6) The member’s total regular contributions to this Section of[^M_F_1dda5cbd-59c8-4c0a-dce6-230e232b8265] the scheme before 1st April 2008[^c-af63402ece40a5b317fb5bd4dd878cf1], including contributions under regulation D1 may not exceed 15 per cent. of pensionable pay, or any other limit specified for the time being by HM[^c-4a2810733f7da58375ee1ff7c704eaec] Revenue and Customs.
 
-(6A)[^key-8fe1f014a7ca117af3058e8aa72c7acd] The member’s total regular additional contributions made on or after 1st April under this regulation may not exceed—
+(6A)[^c-8fe1f014a7ca117af3058e8aa72c7acd] The member’s total regular additional contributions made on or after 1st April under this regulation may not exceed—
 
 - (a) in the case of a member paying contributions of 5 per cent of the member’s pensionable pay under regulation D1 on the member’s birthday immediately following the date of the election referred to in paragraph (3), 10 per cent of pensionable pay;
 - (b) in the case of a member paying contributions of more than 5 per cent of the member’s pensionable pay under regulation D1 on the birthday referred to in (a), 9 per cent of pensionable pay, or
@@ -46,14 +46,14 @@ summary: ''
 
 ## Annotations
 
-[^key-27be4c146d53c41c7bc63aa6995ec596]: Modification: [Regs. Q1-Q6](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q1) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [22(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/22/2/a)
+[^c-27be4c146d53c41c7bc63aa6995ec596]: Modification: [Regs. Q1-Q6](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q1) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [22(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/22/2/a)
 
-[^key-aa2a412986ca69692abb9558e0be1fe9]: Modification: [Pt. Q](https://www.legislation.gov.uk/uksi/1995/300/part/Q) restricted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(8)(c)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/8/c)
+[^c-aa2a412986ca69692abb9558e0be1fe9]: Modification: [Pt. Q](https://www.legislation.gov.uk/uksi/1995/300/part/Q) restricted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(8)(c)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/8/c)
 
 [^M_F_1dda5cbd-59c8-4c0a-dce6-230e232b8265]: Textual amendment: Words in reg. Q6(6) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 
-[^key-af63402ece40a5b317fb5bd4dd878cf1]: Textual amendment: Words in [reg. Q6(6)](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q6/6) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [49(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/49/2)
+[^c-af63402ece40a5b317fb5bd4dd878cf1]: Textual amendment: Words in [reg. Q6(6)](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q6/6) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [49(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/49/2)
 
-[^key-4a2810733f7da58375ee1ff7c704eaec]: Textual amendment: Words in [reg. Q6(6)](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q6/6) substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [49(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/49/2)
+[^c-4a2810733f7da58375ee1ff7c704eaec]: Textual amendment: Words in [reg. Q6(6)](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q6/6) substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [49(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/49/2)
 
-[^key-8fe1f014a7ca117af3058e8aa72c7acd]: Textual amendment: [Reg. Q6(6A)](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q6/6A) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [49(3)](https://www.legislation.gov.uk/uksi/2008/654/regulation/49/3)
+[^c-8fe1f014a7ca117af3058e8aa72c7acd]: Textual amendment: [Reg. Q6(6A)](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q6/6A) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [49(3)](https://www.legislation.gov.uk/uksi/2008/654/regulation/49/3)

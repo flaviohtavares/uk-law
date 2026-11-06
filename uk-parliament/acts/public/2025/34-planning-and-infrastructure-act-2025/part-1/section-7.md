@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Applications for development consent: acceptance stage[^key-4477b50a32b3e48116b690debba58757][^key-ad0b23dea43e853d7b60f09d1c0b9082]
+## 7. Applications for development consent: acceptance stage[^c-4477b50a32b3e48116b690debba58757][^c-ad0b23dea43e853d7b60f09d1c0b9082]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4477b50a32b3e48116b690debba58757]: Commencement: S. 7 not in force at Royal Assent, see [s. 118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c)
+[^c-4477b50a32b3e48116b690debba58757]: Commencement: S. 7 not in force at Royal Assent, see [s. 118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c)
 
-[^key-ad0b23dea43e853d7b60f09d1c0b9082]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/34/section/7) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/d) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))
+[^c-ad0b23dea43e853d7b60f09d1c0b9082]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/34/section/7) in force at 24.7.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/d) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))

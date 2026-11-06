@@ -32,7 +32,7 @@ summary: ''
 
 LEGAL AID AND ADVICE
 
-The Civil Legal Aid (Financial Conditions) (Scotland) Regulations 2008 (revoked)[^key-f8561e0a7cb67feb4d2896a604c39f3c]
+The Civil Legal Aid (Financial Conditions) (Scotland) Regulations 2008 (revoked)[^c-f8561e0a7cb67feb4d2896a604c39f3c]
 
 Made
 
@@ -42,44 +42,44 @@ Coming into force
 
 7th April 2008
 
-[^key-f8561e0a7cb67feb4d2896a604c39f3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8561e0a7cb67feb4d2896a604c39f3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f8561e0a7cb67feb4d2896a604c39f3c]
+## 1. Citation, commencement and interpretation[^c-f8561e0a7cb67feb4d2896a604c39f3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-f8561e0a7cb67feb4d2896a604c39f3c]
+## 2. Application[^c-f8561e0a7cb67feb4d2896a604c39f3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Legal Aid (Scotland) Act 1986[^key-f8561e0a7cb67feb4d2896a604c39f3c]
+## 3. Amendment of the Legal Aid (Scotland) Act 1986[^c-f8561e0a7cb67feb4d2896a604c39f3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-f8561e0a7cb67feb4d2896a604c39f3c]
+## 4.[^c-f8561e0a7cb67feb4d2896a604c39f3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-f8561e0a7cb67feb4d2896a604c39f3c]
+## 5.[^c-f8561e0a7cb67feb4d2896a604c39f3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-f8561e0a7cb67feb4d2896a604c39f3c]
+## 6.[^c-f8561e0a7cb67feb4d2896a604c39f3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-f8561e0a7cb67feb4d2896a604c39f3c]
+## 7. Revocation[^c-f8561e0a7cb67feb4d2896a604c39f3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f8561e0a7cb67feb4d2896a604c39f3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8561e0a7cb67feb4d2896a604c39f3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f8561e0a7cb67feb4d2896a604c39f3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8561e0a7cb67feb4d2896a604c39f3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f8561e0a7cb67feb4d2896a604c39f3c]: Textual amendment: Regulations revoked (with transitional provision) (7.4.2009) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2009 (S.S.I. 2009/143)](https://www.legislation.gov.uk/ssi/2009/143), [regs. 1](https://www.legislation.gov.uk/ssi/2009/143/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2009/143/regulation/9)
+[^c-f8561e0a7cb67feb4d2896a604c39f3c]: Textual amendment: Regulations revoked (with transitional provision) (7.4.2009) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2009 (S.S.I. 2009/143)](https://www.legislation.gov.uk/ssi/2009/143), [regs. 1](https://www.legislation.gov.uk/ssi/2009/143/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2009/143/regulation/9)

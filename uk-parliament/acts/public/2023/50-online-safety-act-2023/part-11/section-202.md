@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Liability of corporate officers for offences[^key-4b3b39c46808edd30f22d66cbbe65778][^key-444f89e49d8896cebfb7ae154fe65510][^key-cd6bb3157221c4108b1bf017e906af19]
+## 202. Liability of corporate officers for offences[^c-4b3b39c46808edd30f22d66cbbe65778][^c-444f89e49d8896cebfb7ae154fe65510][^c-cd6bb3157221c4108b1bf017e906af19]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,8 +51,8 @@ In paragraph (a) “**director**”, in relation to a body corporate whose affai
 
 ## Annotations
 
-[^key-4b3b39c46808edd30f22d66cbbe65778]: Commencement: S. 202 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-4b3b39c46808edd30f22d66cbbe65778]: Commencement: S. 202 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-444f89e49d8896cebfb7ae154fe65510]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2023/50/section/202) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z25)
+[^c-444f89e49d8896cebfb7ae154fe65510]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2023/50/section/202) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z25)
 
-[^key-cd6bb3157221c4108b1bf017e906af19]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2023/50/section/202) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)
+[^c-cd6bb3157221c4108b1bf017e906af19]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2023/50/section/202) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Time limit for proceedings for summary offences[^key-26c689a4fcc5f88cc59f51ee59c91b70][^key-f1a3da596892b27c71a45fd66e527c1c]
+## 53. Time limit for proceedings for summary offences[^c-26c689a4fcc5f88cc59f51ee59c91b70][^c-f1a3da596892b27c71a45fd66e527c1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26c689a4fcc5f88cc59f51ee59c91b70]: Commencement: Reg. 53 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-26c689a4fcc5f88cc59f51ee59c91b70]: Commencement: Reg. 53 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-f1a3da596892b27c71a45fd66e527c1c]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2019/433/regulation/53) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1a3da596892b27c71a45fd66e527c1c]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2019/433/regulation/53) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

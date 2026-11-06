@@ -31,7 +31,7 @@ summary: ''
 
 electricity
 
-The Renewables Obligation (Amendment) Order (Northern Ireland) 2007 (revoked)[^key-739cfb417820c35aff5ea351cb2b287d]
+The Renewables Obligation (Amendment) Order (Northern Ireland) 2007 (revoked)[^c-739cfb417820c35aff5ea351cb2b287d]
 
 Laid before the Assembly in draft
 
@@ -43,32 +43,32 @@ Coming into force
 
 1st November 2007
 
-[^key-739cfb417820c35aff5ea351cb2b287d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-739cfb417820c35aff5ea351cb2b287d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-739cfb417820c35aff5ea351cb2b287d]
+## 1. Citation and commencement[^c-739cfb417820c35aff5ea351cb2b287d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to The Renewables Obligation Order (Northern Ireland) 2007[^key-739cfb417820c35aff5ea351cb2b287d]
+## 2. Amendment to The Renewables Obligation Order (Northern Ireland) 2007[^c-739cfb417820c35aff5ea351cb2b287d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-739cfb417820c35aff5ea351cb2b287d]
+## 3. Interpretation[^c-739cfb417820c35aff5ea351cb2b287d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Criteria for issue of NIROCs[^key-739cfb417820c35aff5ea351cb2b287d]
+## 4. Criteria for issue of NIROCs[^c-739cfb417820c35aff5ea351cb2b287d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-739cfb417820c35aff5ea351cb2b287d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-739cfb417820c35aff5ea351cb2b287d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-739cfb417820c35aff5ea351cb2b287d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-739cfb417820c35aff5ea351cb2b287d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-739cfb417820c35aff5ea351cb2b287d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2007/440) revoked (1.4.2009) by [The Renewables Obligation Order (Northern Ireland) 2009 (S.R. 2009/154)](https://www.legislation.gov.uk/nisr/2009/154), [arts. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1), [53(1)(b)](https://www.legislation.gov.uk/nisr/2009/154/article/53/1/b)
+[^c-739cfb417820c35aff5ea351cb2b287d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2007/440) revoked (1.4.2009) by [The Renewables Obligation Order (Northern Ireland) 2009 (S.R. 2009/154)](https://www.legislation.gov.uk/nisr/2009/154), [arts. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1), [53(1)(b)](https://www.legislation.gov.uk/nisr/2009/154/article/53/1/b)

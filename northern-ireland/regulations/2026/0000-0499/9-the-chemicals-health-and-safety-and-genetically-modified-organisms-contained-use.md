@@ -44,11 +44,11 @@ Coming into operation
 
 The Department for the Economy makes the following Regulations in exercise of the powers conferred by Articles 2(5), 17(1) to (5), 40, 54 and 55(2) of, and paragraphs 1(1) to (5), 2, 3(1), 4, 5, 7(2), 8, 10, 12(1) and (3), 13, 14(1), 15, 16 and 19 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00001] and sections 11 and 22 of, and paragraph 11M(1) of Part 1C of Schedule 2 to, and paragraph 21(b) of Part 3 of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00002].
 
-## 1. Citation and commencement[^key-4627c27433d17a6b91c54176e5865a99]
+## 1. Citation and commencement[^c-4627c27433d17a6b91c54176e5865a99]
 
 These Regulations may be cited as the Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment) (EU Exit) Regulations (Northern Ireland) 2026 and come into operation on 23rd February 2026.
 
-## 2. Amendment of the Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013[^key-10c28e4058b25eb85894c6427c2e21ca]
+## 2. Amendment of the Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013[^c-10c28e4058b25eb85894c6427c2e21ca]
 
 (1) The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013[^f00003] are amended in accordance with paragraphs (2) to (6).
 
@@ -71,7 +71,7 @@ These Regulations may be cited as the Chemicals (Health and Safety) and Genetica
 
 (6) In Schedule 2 (defence exemption certificates), paragraph 7(c) for “Member State” substitute “relevant state”.
 
-## 3. Amendment of the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015[^key-b6b7779048ed0b4a677b382843f29795]
+## 3. Amendment of the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015[^c-b6b7779048ed0b4a677b382843f29795]
 
 (1) The Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015[^f00004] are amended in accordance with paragraphs (2) and (3).
 
@@ -119,13 +119,13 @@ An Impact Assessment has not been produced for these Regulations as there are li
 
 [^f00002]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); Part 1C of Schedule 2 was inserted by section 22 of the European Union (Withdrawal Agreement) Act [2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1) (the 2020 Act). Paragraph 21(b) of Schedule 7 was amended by paragraph 53(2)(b) of Schedule 5 to the 2020 Act
 
-[^key-4627c27433d17a6b91c54176e5865a99]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1) in operation at 23.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1)
+[^c-4627c27433d17a6b91c54176e5865a99]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1) in operation at 23.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1)
 
-[^key-10c28e4058b25eb85894c6427c2e21ca]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/9/regulation/2) in operation at 23.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1)
+[^c-10c28e4058b25eb85894c6427c2e21ca]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/9/regulation/2) in operation at 23.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2013 No. 206](https://www.legislation.gov.uk/nisr/2013/206); as amended by [S.R. 2015 No. 265](https://www.legislation.gov.uk/nisr/2015/265) and modified by [S.I. 2023/1056](https://www.legislation.gov.uk/uksi/2023/1056)
 
-[^key-b6b7779048ed0b4a677b382843f29795]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/9/regulation/3) in operation at 23.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1)
+[^c-b6b7779048ed0b4a677b382843f29795]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/9/regulation/3) in operation at 23.2.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/9/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2015 No. 339](https://www.legislation.gov.uk/nisr/2015/339); as amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) and [S.R. 2020 No. 330](https://www.legislation.gov.uk/nisr/2020/330)
 

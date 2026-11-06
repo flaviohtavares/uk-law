@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 295. Arrangements between NHS England and Northern Ireland Ministers[^key-bfc0472a8f805d9f726886aa96f74b7b][^key-31b7aca36aba72e05154950051ab3de0][^key-b0808c77020076e094df09601a49f4e9]
+## 295. Arrangements between NHS England and Northern Ireland Ministers[^c-bfc0472a8f805d9f726886aa96f74b7b][^c-31b7aca36aba72e05154950051ab3de0][^c-b0808c77020076e094df09601a49f4e9]
 
 *Extent: E+W*
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bfc0472a8f805d9f726886aa96f74b7b]: Commencement: [S. 295](https://www.legislation.gov.uk/ukpga/2012/7/section/295) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-bfc0472a8f805d9f726886aa96f74b7b]: Commencement: [S. 295](https://www.legislation.gov.uk/ukpga/2012/7/section/295) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-31b7aca36aba72e05154950051ab3de0]: Commencement: [S. 295](https://www.legislation.gov.uk/ukpga/2012/7/section/295) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-31b7aca36aba72e05154950051ab3de0]: Commencement: [S. 295](https://www.legislation.gov.uk/ukpga/2012/7/section/295) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-b0808c77020076e094df09601a49f4e9]: Textual amendment: Words in [s. 295](https://www.legislation.gov.uk/ukpga/2012/7/section/295) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b0808c77020076e094df09601a49f4e9]: Textual amendment: Words in [s. 295](https://www.legislation.gov.uk/ukpga/2012/7/section/295) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

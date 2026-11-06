@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72C. Provision of information on an incidental basis[^key-d707a5a04f91b72c507c35e850a68739]
+## 72C. Provision of information on an incidental basis[^c-d707a5a04f91b72c507c35e850a68739]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d707a5a04f91b72c507c35e850a68739]: Textual amendment: Arts. 72B-72D inserted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [11](https://www.legislation.gov.uk/uksi/2003/1476/article/11)
+[^c-d707a5a04f91b72c507c35e850a68739]: Textual amendment: Arts. 72B-72D inserted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [11](https://www.legislation.gov.uk/uksi/2003/1476/article/11)

@@ -37,24 +37,24 @@ on the harmonisation of radio spectrum for use by short-range devices within the
 
 (Text with EEA relevance) (revoked)
 
-[^key-0ac7ded9d23e1fb8f425cc21004542c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ac7ded9d23e1fb8f425cc21004542c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-0ac7ded9d23e1fb8f425cc21004542c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0ac7ded9d23e1fb8f425cc21004542c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0ac7ded9d23e1fb8f425cc21004542c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0ac7ded9d23e1fb8f425cc21004542c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-0ac7ded9d23e1fb8f425cc21004542c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-0ac7ded9d23e1fb8f425cc21004542c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-0ac7ded9d23e1fb8f425cc21004542c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-0ac7ded9d23e1fb8f425cc21004542c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-0ac7ded9d23e1fb8f425cc21004542c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-0ac7ded9d23e1fb8f425cc21004542c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0ac7ded9d23e1fb8f425cc21004542c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ac7ded9d23e1fb8f425cc21004542c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Frequency bands with corresponding harmonised technical conditions and implementation deadlines for short-range devices[^key-0ac7ded9d23e1fb8f425cc21004542c4]
+## ANNEX — Frequency bands with corresponding harmonised technical conditions and implementation deadlines for short-range devices[^c-0ac7ded9d23e1fb8f425cc21004542c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0ac7ded9d23e1fb8f425cc21004542c4]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ac7ded9d23e1fb8f425cc21004542c4]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

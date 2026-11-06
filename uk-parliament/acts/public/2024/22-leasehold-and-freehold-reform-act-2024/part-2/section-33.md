@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Longer lease extensions[^key-833bc3c12a7468b7d1911972259be933]
+## 33. Longer lease extensions[^c-833bc3c12a7468b7d1911972259be933]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-833bc3c12a7468b7d1911972259be933]: Commencement: S. 33 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-833bc3c12a7468b7d1911972259be933]: Commencement: S. 33 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

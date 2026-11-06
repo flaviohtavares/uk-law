@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Notification of requirement of secrecy[^key-34ee7be6cd332ec28b3a9e5d5633cb18]
+## 21. Notification of requirement of secrecy[^c-34ee7be6cd332ec28b3a9e5d5633cb18]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The petition officer must make such arrangements as appear appropriate to the of
 
 ## Annotations
 
-[^key-34ee7be6cd332ec28b3a9e5d5633cb18]: Commencement: Reg. 21 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-34ee7be6cd332ec28b3a9e5d5633cb18]: Commencement: Reg. 21 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

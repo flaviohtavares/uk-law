@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Composition agreements in relation to stamp duty[^key-d3352fa11c46161ac347ee0d0edd7ec9]
+## 4. Composition agreements in relation to stamp duty[^c-d3352fa11c46161ac347ee0d0edd7ec9]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3352fa11c46161ac347ee0d0edd7ec9]: Commencement: Art. 4 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-d3352fa11c46161ac347ee0d0edd7ec9]: Commencement: Art. 4 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00006]: Footnote: Section 33 was relevantly amended by paragraph 5 of Schedule 14 to the Finance Act 1999.

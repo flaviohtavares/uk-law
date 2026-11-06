@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30B. Agreements and extensions under section 30A[^key-5490959d52dc40ad12b7f920463f507a]
+## 30B. Agreements and extensions under section 30A[^c-5490959d52dc40ad12b7f920463f507a]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5490959d52dc40ad12b7f920463f507a]: Textual amendment: [Ss. 30A-30C](https://www.legislation.gov.uk/ukpga/1993/43/section/30A) inserted (28.11.2024) by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2024/25/section/2/3), [5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2)
+[^c-5490959d52dc40ad12b7f920463f507a]: Textual amendment: [Ss. 30A-30C](https://www.legislation.gov.uk/ukpga/1993/43/section/30A) inserted (28.11.2024) by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2024/25/section/2/3), [5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2)

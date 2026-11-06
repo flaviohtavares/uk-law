@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 141. Further provision about seizure[^key-88c03e42f2aa9e05091345caadb04cf2]
+## 141. Further provision about seizure[^c-88c03e42f2aa9e05091345caadb04cf2]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ to secure that the item is not removed or otherwise interfered with until such t
 
 ## Annotations
 
-[^key-88c03e42f2aa9e05091345caadb04cf2]: Commencement: [S. 141](https://www.legislation.gov.uk/asp/2010/5/section/141) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-88c03e42f2aa9e05091345caadb04cf2]: Commencement: [S. 141](https://www.legislation.gov.uk/asp/2010/5/section/141) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

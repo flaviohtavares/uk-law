@@ -40,11 +40,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-### 1. Aggravated supply of controlled drug[^key-7d290269a3e499f352b5572931ac26f9]
+### 1. Aggravated supply of controlled drug[^c-7d290269a3e499f352b5572931ac26f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Proof of intention to supply a controlled drug[^key-3f6c79f0f244a36fefd50ade9bb0fdc2]
+### 2. Proof of intention to supply a controlled drug[^c-3f6c79f0f244a36fefd50ade9bb0fdc2]
 
 **Not yet in force.**
 
@@ -54,7 +54,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-### 3. Drug offence searches: England and Wales[^key-5feac513d517ff0016188675686bd662]
+### 3. Drug offence searches: England and Wales[^c-5feac513d517ff0016188675686bd662]
 
 (1) Section 55 of the Police and Criminal Evidence Act 1984 (c. 60) (intimate searches) is amended as follows.
 
@@ -97,7 +97,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 .
 
-### 4. Drug offence searches: Northern Ireland[^key-7c3541dc16773f517f738f314a9e302d]
+### 4. Drug offence searches: Northern Ireland[^c-7c3541dc16773f517f738f314a9e302d]
 
 (1) Article 56 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341) (intimate searches) is amended as follows.
 
@@ -132,7 +132,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >
 > may draw such inferences from the refusal as appear proper.
 
-### 5. X-rays and ultrasound scans: England and Wales[^key-a7e602834ffc79e57d22da755ab31876]
+### 5. X-rays and ultrasound scans: England and Wales[^c-a7e602834ffc79e57d22da755ab31876]
 
 (1) After section 55 (intimate searches) of the Police and Criminal Evidence Act 1984 (c. 60) insert—
 
@@ -202,9 +202,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   > - (b) section 55A of that Act of informing a person who is to be subject to x-ray or ultrasound (as the case may be) under that section of the matters of which he is required to be informed in pursuance of subsection (3) of that section.
 
   ;
-- (b)[^key-ad53a65b71a37832c29d927a3b9469ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ad53a65b71a37832c29d927a3b9469ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. X-rays and ultrasound scans: Northern Ireland[^key-907be0958d31bb1f50ae3fd84e87d42e]
+### 6. X-rays and ultrasound scans: Northern Ireland[^c-907be0958d31bb1f50ae3fd84e87d42e]
 
 After Article 56 (intimate searches) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341) insert—
 
@@ -259,7 +259,7 @@ After Article 56 (intimate searches) of the Police and Criminal Evidence (Northe
 >
 > (10) In this Article “**the appropriate criminal intent**”, “**Class A drug**” and “**suitably qualified person**” have the same meanings as in Article 56 above.
 
-### 7. Testing for presence of Class A drugs[^key-9862c5d422f66eb23965e41740f61bd0]
+### 7. Testing for presence of Class A drugs[^c-9862c5d422f66eb23965e41740f61bd0]
 
 (1) Section 63B of the Police and Criminal Evidence Act 1984 (c. 60) (“PACE”) (testing for presence of Class A drugs) is amended in accordance with subsections (2) to (12).
 
@@ -345,7 +345,7 @@ and “**age condition**”, “**charge condition**” and “**notification co
 
 (14) Subsection (13) above does not prevent the Secretary of State withdrawing a notification which is treated as made by virtue of that subsection.
 
-### 8. Extended detention of suspected drug offenders[^key-0f50208b7b48625c0be361d32a1c3ef9]
+### 8. Extended detention of suspected drug offenders[^c-0f50208b7b48625c0be361d32a1c3ef9]
 
 In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected drug offenders)—
 
@@ -358,7 +358,7 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 
 *Extent: E+W*
 
-### 9. Initial assessment following testing for presence of Class A drugs[^key-54445341121763d0d653edf496ce34a9]
+### 9. Initial assessment following testing for presence of Class A drugs[^c-54445341121763d0d653edf496ce34a9]
 
 (1) This section applies if—
 
@@ -389,7 +389,7 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 
 (7) In subsections (5) and (6), “**relevant chief officer**” means the chief officer of police of the police force for the police area in which the police station is situated.
 
-### 10. Follow-up assessment[^key-57b2906e4dd34ac2c1ffa18a2efa64f8]
+### 10. Follow-up assessment[^c-57b2906e4dd34ac2c1ffa18a2efa64f8]
 
 (1) This section applies if—
 
@@ -423,7 +423,7 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 
 (8) In subsections (6) and (7), “**relevant chief officer**” means the chief officer of police of the police force for the police area in which the police station is situated.
 
-### 11. Requirements under sections 9 and 10: supplemental[^key-0bdb211992fc196abbe0ffeda1e91e7b][^key-262965cf9cc6691837bd1ce71d97100c]
+### 11. Requirements under sections 9 and 10: supplemental[^c-0bdb211992fc196abbe0ffeda1e91e7b][^c-262965cf9cc6691837bd1ce71d97100c]
 
 (1) This section applies if a person is required to attend an initial assessment and remain for its duration by virtue of section 9(2).
 
@@ -457,7 +457,7 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 - (a) informs the person of any change to the time when, or to the place at which, the initial assessment is to take place, and
 - (b) repeats the warning given in pursuance of subsection (3) and any warning given in pursuance of subsection (4).
 
-### 12. Attendance at initial assessment[^key-9bb626c45bd59e490eb8ebb6e7891b38]
+### 12. Attendance at initial assessment[^c-9bb626c45bd59e490eb8ebb6e7891b38]
 
 (1) This section applies if a person is required to attend an initial assessment and remain for its duration by virtue of section 9(2).
 
@@ -482,7 +482,7 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 
 (7) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (c. 44) (alteration of penalties for summary offences), the reference in subsection (4) to 51 weeks is to be read as a reference to 3 months.
 
-### 13. Arrangements for follow-up assessment[^key-5d8d42709aced80320c64d854035c765]
+### 13. Arrangements for follow-up assessment[^c-5d8d42709aced80320c64d854035c765]
 
 (1) This section applies if—
 
@@ -513,7 +513,7 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 - (a) informs the person of any change to the time when, or to the place at which, the follow-up assessment is to take place, and
 - (b) repeats the warning mentioned in subsection (5).
 
-### 14. Attendance at follow-up assessment[^key-771de19d0e691ea5ca310214f6987bf3]
+### 14. Attendance at follow-up assessment[^c-771de19d0e691ea5ca310214f6987bf3]
 
 (1) This section applies if a person is required to attend a follow-up assessment and remain for its duration by virtue of section 10(2).
 
@@ -536,7 +536,7 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 
 (6) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (c. 44) (alteration of penalties for summary offences), the reference in subsection (4) to 51 weeks is to be read as a reference to 3 months.
 
-### 15. Disclosure of information about assessments[^key-81cd637f95ecf50365075dc2a9fd9597][^key-e2625ebebe717a05cd558164695702b6]
+### 15. Disclosure of information about assessments[^c-81cd637f95ecf50365075dc2a9fd9597][^c-e2625ebebe717a05cd558164695702b6]
 
 (1) An initial assessor may disclose information obtained as a result of an initial assessment to any of the following—
 
@@ -549,7 +549,7 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 
 (4) Nothing in this section affects the operation of section 17(4).
 
-### 16. Samples submitted for further analysis[^key-ed064fa7c0cb6b97e2abf86b535bc441][^key-28316e1f5e4939ea36d26e9b5cf42fee]
+### 16. Samples submitted for further analysis[^c-ed064fa7c0cb6b97e2abf86b535bc441][^c-28316e1f5e4939ea36d26e9b5cf42fee]
 
 (1) A requirement imposed on a person by virtue of section 9(2) or 10(2) ceases to have effect if at any time before he has fully complied with the requirement—
 
@@ -570,7 +570,7 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 - (a) no proceedings for an offence under section 14(3) may be brought against him, and
 - (b) if any such proceedings were commenced before the requirement ceased to have effect, those proceedings must be discontinued.
 
-### 17. Relationship with Bail Act 1976 etc.[^key-b55479536a05bf080d9d402857d70cff][^key-b7ac4b07053edf61b1d677777d0cbff8]
+### 17. Relationship with Bail Act 1976 etc.[^c-b55479536a05bf080d9d402857d70cff][^c-b7ac4b07053edf61b1d677777d0cbff8]
 
 (1) A requirement imposed on a person by virtue of section 9(2) or 10(2) ceases to have effect if at any time before he has fully complied with the requirement—
 
@@ -596,7 +596,7 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 
 (6) In subsection (1), “the related offence” is the offence in respect of which the condition specified in subsection (1A) or (2) of section 63B of PACE is satisfied in relation to the taking of the sample mentioned in section 9(1)(a) of this Act.
 
-### 18. Orders under this Part and guidance[^key-3fab3340eac8390ed917f2c1b16ea5c5]
+### 18. Orders under this Part and guidance[^c-3fab3340eac8390ed917f2c1b16ea5c5]
 
 (1) A statutory instrument containing an order under section 9(4) or 10(5) must not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -607,7 +607,7 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 
 (3) In exercising any functions conferred by this Part, a police officer and a suitably qualified person must have regard to any guidance issued by the Secretary of State for the purposes of this Part.
 
-### 19. Interpretation[^key-4bf1af966946681285c607ba4d09c08c]
+### 19. Interpretation[^c-4bf1af966946681285c607ba4d09c08c]
 
 (1) This section applies for the purposes of this Part.
 
@@ -621,7 +621,7 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 
 (6) “**Suitably qualified person**” means a person who has such qualifications or experience as are from time to time specified by the Secretary of State for the purposes of this Part.
 
-(7)[^key-3dadfdac6c269bc18a093cf800d9b721] Police support officer” means—
+(7)[^c-3dadfdac6c269bc18a093cf800d9b721] Police support officer” means—
 
 - (a) persons appointed by a chief constable under paragraph 4 of Schedule 2 to the Police Reform and Social Responsibility Act 2011 (civilian staff of police forces outside London), and
 - (b) persons appointed by the Commissioner of Police of the Metropolis under paragraph 1 of Schedule 4 to that Act (civilian staff of metropolitan police force).
@@ -630,13 +630,13 @@ In section 152 of the Criminal Justice Act 1988 (c. 33) (remand of suspected dru
 
 ## Part 4 — Miscellaneous and general
 
-### 20. Anti-social behaviour orders: intervention orders[^key-d5100f6e00f23cd5baca2fed3200d271]
+### 20. Anti-social behaviour orders: intervention orders[^c-d5100f6e00f23cd5baca2fed3200d271]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Inclusion of mushrooms containing psilocin etc. as Class A drugs[^key-1e1601a682b42dde203081231b3e2a95]
+### 21. Inclusion of mushrooms containing psilocin etc. as Class A drugs[^c-1e1601a682b42dde203081231b3e2a95]
 
 *Extent: E+W*
 
@@ -649,11 +649,11 @@ There shall be paid out of money provided by Parliament—
 - (a) any expenditure incurred by the Secretary of State by virtue of this Act, and
 - (b) any increase attributable to this Act in the sums payable out of money so provided under any other Act.
 
-### 23. Amendments and repeals[^key-1151ce43c1a1d9a0abb58cd9e1429fa6]
+### 23. Amendments and repeals[^c-1151ce43c1a1d9a0abb58cd9e1429fa6]
 
-(1)[^key-5078f4b03e06f3f68c85e080c27c042d] Schedule 1 (which contains amendments) has effect.
+(1)[^c-5078f4b03e06f3f68c85e080c27c042d] Schedule 1 (which contains amendments) has effect.
 
-(2)[^key-4873a484771f7e5ab27d5ce57cdcb0ee] Schedule 2 (which contains repeals) has effect.
+(2)[^c-4873a484771f7e5ab27d5ce57cdcb0ee] Schedule 2 (which contains repeals) has effect.
 
 ### 24. Short title, commencement and extent
 
@@ -684,9 +684,9 @@ Section 23
 
 ### Police and Criminal Evidence Act 1984 (c. 60)
 
-**1.**[^key-0e7738f3c0a1a3dc6166a2234e05cbab] The Police and Criminal Evidence Act 1984 is amended as follows.
+**1.**[^c-0e7738f3c0a1a3dc6166a2234e05cbab] The Police and Criminal Evidence Act 1984 is amended as follows.
 
-**2.**[^key-bc1d1430529f6d43fd917ec9098959da] In section 37 (duties of custody officer before charge), after subsection (8) insert—
+**2.**[^c-bc1d1430529f6d43fd917ec9098959da] In section 37 (duties of custody officer before charge), after subsection (8) insert—
 
 > (8A) Subsection (8B) applies if the offence for which the person is arrested is one in relation to which a sample could be taken under section 63B below and the custody officer—
 >
@@ -695,7 +695,7 @@ Section 23
 >
 > (8B) The detention of the person may be continued to enable a sample to be taken under section 63B, but this subsection does not permit a person to be detained for a period of more than 24 hours after the relevant time.
 
-**3.**[^key-7c72bd963ac4435c45bc0741d555b26e] In section 38 (duties of custody officer after charge)—
+**3.**[^c-7c72bd963ac4435c45bc0741d555b26e] In section 38 (duties of custody officer after charge)—
 
 - (a) in subsection (1)(a) for sub-paragraph (iiia) substitute—
 
@@ -704,7 +704,7 @@ Section 23
   ;
 - (b) in subsection (6A), in the definition of “minimum age” for “section 63B(3) below” substitute “ section 63B(3)(b) below ”.
 
-**4.**[^key-45db5bcf2855727b37bf9b6bc8981f7b] In section 63B(7) (purposes for which results of drug tests may be disclosed), after paragraph (c) insert—
+**4.**[^c-45db5bcf2855727b37bf9b6bc8981f7b] In section 63B(7) (purposes for which results of drug tests may be disclosed), after paragraph (c) insert—
 
 > - (ca) for the purpose of an assessment which the person concerned is required to attend by virtue of section 9(2) or 10(2) of the Drugs Act 2005;
 > - (cb) for the purpose of proceedings against the person concerned for an offence under section 12(3) or 14(3) of that Act;
@@ -713,21 +713,21 @@ Section 23
 
 ### Criminal Justice and Court Services Act 2000 (c. 43)
 
-**5.**[^key-a29ae038a110eeb81c1eb67017e49385] In section 57 of the Criminal Justice and Court Services Act 2000, subsection (5) (power of Secretary of State to extend section 63B of the Police and Criminal Evidence Act 1984 (c. 60) to persons arrested but not charged) is omitted.
+**5.**[^c-a29ae038a110eeb81c1eb67017e49385] In section 57 of the Criminal Justice and Court Services Act 2000, subsection (5) (power of Secretary of State to extend section 63B of the Police and Criminal Evidence Act 1984 (c. 60) to persons arrested but not charged) is omitted.
 
 ### Criminal Justice and Police Act 2001 (c. 16)
 
-**6.**[^key-ea7513ca0d42e08935ff1477ea6febf4] Section 38 of the Criminal Justice and Police Act 2001 (which amends section 8 of the Misuse of Drugs Act 1971 (c. 38) to create an offence of permitting the use of a controlled drug on premises) is omitted.
+**6.**[^c-ea7513ca0d42e08935ff1477ea6febf4] Section 38 of the Criminal Justice and Police Act 2001 (which amends section 8 of the Misuse of Drugs Act 1971 (c. 38) to create an offence of permitting the use of a controlled drug on premises) is omitted.
 
 ### Anti-social Behaviour Act 2003 (c. 38)
 
-**7.**[^key-49d694447b5ff72d2c402263d6ab918c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-49d694447b5ff72d2c402263d6ab918c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Criminal Justice Act 2003 (c. 44)
 
-**8.**[^key-a2a05c546e7871821afc0a000f62a3ac] In section 5 of the Criminal Justice Act 2003 (drug testing for under-eighteens), subsection (3)(a) is omitted.
+**8.**[^c-a2a05c546e7871821afc0a000f62a3ac] In section 5 of the Criminal Justice Act 2003 (drug testing for under-eighteens), subsection (3)(a) is omitted.
 
-## SCHEDULE 2 — Repeals[^key-7fb2431fdaa0db01828e1799c5a69b2c][^key-f48fcf5f3038de9fe68ea43025820bfa]
+## SCHEDULE 2 — Repeals[^c-7fb2431fdaa0db01828e1799c5a69b2c][^c-f48fcf5f3038de9fe68ea43025820bfa]
 
 Section 23
 
@@ -740,82 +740,82 @@ Section 23
 
 ## Annotations
 
-[^key-7d290269a3e499f352b5572931ac26f9]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2005/17/section/1) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 29](https://www.legislation.gov.uk/ukpga/2020/17/schedule/29) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7d290269a3e499f352b5572931ac26f9]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2005/17/section/1) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 29](https://www.legislation.gov.uk/ukpga/2020/17/schedule/29) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3f6c79f0f244a36fefd50ade9bb0fdc2]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2005/17/section/2) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+[^c-3f6c79f0f244a36fefd50ade9bb0fdc2]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2005/17/section/2) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
 
-[^key-5feac513d517ff0016188675686bd662]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2005/17/section/3) in force at 1.1.2006 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/3053/article/3/b)
+[^c-5feac513d517ff0016188675686bd662]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2005/17/section/3) in force at 1.1.2006 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/3053/article/3/b)
 
-[^key-7c3541dc16773f517f738f314a9e302d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2005/17/section/4) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/a)
+[^c-7c3541dc16773f517f738f314a9e302d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2005/17/section/4) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/a)
 
-[^key-a7e602834ffc79e57d22da755ab31876]: Commencement: S. 5 in force at 1.1.2006 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/3053/article/3/c)
+[^c-a7e602834ffc79e57d22da755ab31876]: Commencement: S. 5 in force at 1.1.2006 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/3053/article/3/c)
 
-[^key-ad53a65b71a37832c29d927a3b9469ad]: Textual amendment: [S. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2005/17/section/5/2/b) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+[^c-ad53a65b71a37832c29d927a3b9469ad]: Textual amendment: [S. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2005/17/section/5/2/b) repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
 
-[^key-907be0958d31bb1f50ae3fd84e87d42e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2005/17/section/6) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/b)
+[^c-907be0958d31bb1f50ae3fd84e87d42e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2005/17/section/6) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/b)
 
-[^key-9862c5d422f66eb23965e41740f61bd0]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2005/17/section/7) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/a)
+[^c-9862c5d422f66eb23965e41740f61bd0]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2005/17/section/7) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/a)
 
-[^key-0f50208b7b48625c0be361d32a1c3ef9]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2005/17/section/8) in force at 1.1.2006 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 3(d)](https://www.legislation.gov.uk/uksi/2005/3053/article/3/d)
+[^c-0f50208b7b48625c0be361d32a1c3ef9]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2005/17/section/8) in force at 1.1.2006 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 3(d)](https://www.legislation.gov.uk/uksi/2005/3053/article/3/d)
 
-[^key-54445341121763d0d653edf496ce34a9]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2005/17/section/9) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/b)
+[^c-54445341121763d0d653edf496ce34a9]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2005/17/section/9) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/b)
 
-[^key-57b2906e4dd34ac2c1ffa18a2efa64f8]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2005/17/section/10) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/c)
+[^c-57b2906e4dd34ac2c1ffa18a2efa64f8]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2005/17/section/10) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/c)
 
-[^key-0bdb211992fc196abbe0ffeda1e91e7b]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2005/17/section/11) in force at 1.12.2005 for specified purposes by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/2/a)
+[^c-0bdb211992fc196abbe0ffeda1e91e7b]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2005/17/section/11) in force at 1.12.2005 for specified purposes by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/2/a)
 
-[^key-262965cf9cc6691837bd1ce71d97100c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2005/17/section/11) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2007/562/article/2/2/a)
+[^c-262965cf9cc6691837bd1ce71d97100c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2005/17/section/11) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2007/562/article/2/2/a)
 
-[^key-9bb626c45bd59e490eb8ebb6e7891b38]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2005/17/section/12) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/c)
+[^c-9bb626c45bd59e490eb8ebb6e7891b38]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2005/17/section/12) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/c)
 
-[^key-5d8d42709aced80320c64d854035c765]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2005/17/section/13) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/d)
+[^c-5d8d42709aced80320c64d854035c765]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2005/17/section/13) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/d)
 
-[^key-771de19d0e691ea5ca310214f6987bf3]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2005/17/section/14) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/e)
+[^c-771de19d0e691ea5ca310214f6987bf3]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2005/17/section/14) in force at 1.4.2007 by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/562/article/2/1/e)
 
-[^key-81cd637f95ecf50365075dc2a9fd9597]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/17/section/15) in force at 1.12.2005 for specified purposes by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/2/b)
+[^c-81cd637f95ecf50365075dc2a9fd9597]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/17/section/15) in force at 1.12.2005 for specified purposes by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/2/b)
 
-[^key-e2625ebebe717a05cd558164695702b6]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/17/section/15) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2007/562/article/2/2/b)
+[^c-e2625ebebe717a05cd558164695702b6]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/17/section/15) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2007/562/article/2/2/b)
 
-[^key-ed064fa7c0cb6b97e2abf86b535bc441]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2005/17/section/16) in force at 1.12.2005 for specified purposes by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/2/c)
+[^c-ed064fa7c0cb6b97e2abf86b535bc441]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2005/17/section/16) in force at 1.12.2005 for specified purposes by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/2/c)
 
-[^key-28316e1f5e4939ea36d26e9b5cf42fee]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2005/17/section/16) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2007/562/article/2/2/c)
+[^c-28316e1f5e4939ea36d26e9b5cf42fee]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2005/17/section/16) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2007/562/article/2/2/c)
 
-[^key-b55479536a05bf080d9d402857d70cff]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2005/17/section/17) in force at 1.12.2005 for specified purposes by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/2/d)
+[^c-b55479536a05bf080d9d402857d70cff]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2005/17/section/17) in force at 1.12.2005 for specified purposes by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/2/d)
 
-[^key-b7ac4b07053edf61b1d677777d0cbff8]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2005/17/section/17) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/562/article/2/2/d)
+[^c-b7ac4b07053edf61b1d677777d0cbff8]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2005/17/section/17) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/562](https://www.legislation.gov.uk/uksi/2007/562), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2007/562/article/2/2/d)
 
-[^key-3fab3340eac8390ed917f2c1b16ea5c5]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2005/17/section/18) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/d)
+[^c-3fab3340eac8390ed917f2c1b16ea5c5]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2005/17/section/18) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/d)
 
-[^key-4bf1af966946681285c607ba4d09c08c]: Commencement: S. 19 in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/e)
+[^c-4bf1af966946681285c607ba4d09c08c]: Commencement: S. 19 in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/e)
 
-[^key-3dadfdac6c269bc18a093cf800d9b721]: Textual amendment: [S. 19(7)](https://www.legislation.gov.uk/ukpga/2005/17/section/19/7) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 340](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/340); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/77))
+[^c-3dadfdac6c269bc18a093cf800d9b721]: Textual amendment: [S. 19(7)](https://www.legislation.gov.uk/ukpga/2005/17/section/19/7) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 340](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/340); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/77))
 
-[^key-d5100f6e00f23cd5baca2fed3200d271]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/2005/17/section/20) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)
+[^c-d5100f6e00f23cd5baca2fed3200d271]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/2005/17/section/20) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)
 
-[^key-1e1601a682b42dde203081231b3e2a95]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2005/17/section/21) in force at 18.7.2005 by [S.I. 2005/1650](https://www.legislation.gov.uk/uksi/2005/1650), [art. 2](https://www.legislation.gov.uk/uksi/2005/1650/article/2)
+[^c-1e1601a682b42dde203081231b3e2a95]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2005/17/section/21) in force at 18.7.2005 by [S.I. 2005/1650](https://www.legislation.gov.uk/uksi/2005/1650), [art. 2](https://www.legislation.gov.uk/uksi/2005/1650/article/2)
 
-[^key-1151ce43c1a1d9a0abb58cd9e1429fa6]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2005/17/section/23) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+[^c-1151ce43c1a1d9a0abb58cd9e1429fa6]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2005/17/section/23) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
 
-[^key-5078f4b03e06f3f68c85e080c27c042d]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/ukpga/2005/17/section/23/1) in force at 1.9.2005 for specified purposes by [S.I. 2005/2223](https://www.legislation.gov.uk/uksi/2005/2223), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2223/article/2/a)
+[^c-5078f4b03e06f3f68c85e080c27c042d]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/ukpga/2005/17/section/23/1) in force at 1.9.2005 for specified purposes by [S.I. 2005/2223](https://www.legislation.gov.uk/uksi/2005/2223), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2223/article/2/a)
 
-[^key-4873a484771f7e5ab27d5ce57cdcb0ee]: Commencement: [S. 23(2)](https://www.legislation.gov.uk/ukpga/2005/17/section/23/2) in force at 1.9.2005 for specified purposes by [S.I. 2005/2223](https://www.legislation.gov.uk/uksi/2005/2223), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2223/article/2/b)
+[^c-4873a484771f7e5ab27d5ce57cdcb0ee]: Commencement: [S. 23(2)](https://www.legislation.gov.uk/ukpga/2005/17/section/23/2) in force at 1.9.2005 for specified purposes by [S.I. 2005/2223](https://www.legislation.gov.uk/uksi/2005/2223), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2223/article/2/b)
 
-[^key-0e7738f3c0a1a3dc6166a2234e05cbab]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/1) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+[^c-0e7738f3c0a1a3dc6166a2234e05cbab]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/1) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
 
-[^key-bc1d1430529f6d43fd917ec9098959da]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/2) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+[^c-bc1d1430529f6d43fd917ec9098959da]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/2) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
 
-[^key-7c72bd963ac4435c45bc0741d555b26e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/3) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+[^c-7c72bd963ac4435c45bc0741d555b26e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/3) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
 
-[^key-45db5bcf2855727b37bf9b6bc8981f7b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/4) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+[^c-45db5bcf2855727b37bf9b6bc8981f7b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/4) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
 
-[^key-a29ae038a110eeb81c1eb67017e49385]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/5) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+[^c-a29ae038a110eeb81c1eb67017e49385]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/5) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
 
-[^key-ea7513ca0d42e08935ff1477ea6febf4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/6) in force at 1.9.2005 by [S.I. 2005/2223](https://www.legislation.gov.uk/uksi/2005/2223), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2223/article/2/c)
+[^c-ea7513ca0d42e08935ff1477ea6febf4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/6) in force at 1.9.2005 by [S.I. 2005/2223](https://www.legislation.gov.uk/uksi/2005/2223), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2223/article/2/c)
 
-[^key-49d694447b5ff72d2c402263d6ab918c]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/7) repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(ff)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/ff)[(viii)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/viii) (as renumbered (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(b))
+[^c-49d694447b5ff72d2c402263d6ab918c]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/7) repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(ff)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/ff)[(viii)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/viii) (as renumbered (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(b))
 
-[^key-a2a05c546e7871821afc0a000f62a3ac]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/8) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+[^c-a2a05c546e7871821afc0a000f62a3ac]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/8) in force at 1.12.2005 by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
 
-[^key-7fb2431fdaa0db01828e1799c5a69b2c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/17/schedule/2) in force at 1.9.2005 for specified purposes by [S.I. 2005/2223](https://www.legislation.gov.uk/uksi/2005/2223), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2223/article/2/d)
+[^c-7fb2431fdaa0db01828e1799c5a69b2c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/17/schedule/2) in force at 1.9.2005 for specified purposes by [S.I. 2005/2223](https://www.legislation.gov.uk/uksi/2005/2223), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2223/article/2/d)
 
-[^key-f48fcf5f3038de9fe68ea43025820bfa]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/17/schedule/2) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+[^c-f48fcf5f3038de9fe68ea43025820bfa]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/17/schedule/2) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)

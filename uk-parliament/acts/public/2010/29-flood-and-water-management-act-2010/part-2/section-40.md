@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Building regulations: flood resistance[^key-d3f9ebf11ea08a63ef1d99fad5bc4a46]
+## 40. Building regulations: flood resistance[^c-d3f9ebf11ea08a63ef1d99fad5bc4a46]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3f9ebf11ea08a63ef1d99fad5bc4a46]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2010/29/section/40) in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-d3f9ebf11ea08a63ef1d99fad5bc4a46]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2010/29/section/40) in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

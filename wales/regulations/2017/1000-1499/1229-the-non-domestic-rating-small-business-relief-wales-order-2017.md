@@ -47,7 +47,7 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 
 ## PART A — General
 
-### 1. Title, commencement and application[^key-b26bf49d11ecbed6e6fc79666a90f8fe]
+### 1. Title, commencement and application[^c-b26bf49d11ecbed6e6fc79666a90f8fe]
 
 (1) The title of this Order is the Non-Domestic Rating (Small Business Relief) (Wales) Order 2017.
 
@@ -55,12 +55,12 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 
 (3) This Order applies in relation to Wales.
 
-### 2. Interpretation[^key-15824a237d35c9f8bdd0832380e8c263]
+### 2. Interpretation[^c-15824a237d35c9f8bdd0832380e8c263]
 
 In this Order—
 
 - “the 1988 Act” (“*Deddf 1988*”) means the Local Government Finance Act 1988;
-- “automatic teller machine” (“[^key-c42b7a12f7518ed7c09d0cd4b400ab4c]*peiriant arian awtomatig*”) means an automated facility providing self-service access to a range of banking services;
+- “automatic teller machine” (“[^c-c42b7a12f7518ed7c09d0cd4b400ab4c]*peiriant arian awtomatig*”) means an automated facility providing self-service access to a range of banking services;
 - “electronic communication” (“*cyfathrebiad electronig*”) has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00003];
 - “electronic communications apparatus” (“*cyfarpar cyfathrebiadau electronig*”) includes—
   - (a) apparatus designed or adapted for use in connection with the provision of an electronic communications network;
@@ -71,11 +71,11 @@ In this Order—
 - “excepted hereditament” (“*hereditament a eithrir*”) means a hereditament—
   - (a) which is used exclusively for the display of advertisements, the parking of motor vehicles, sewage works or electronic communications apparatus;
   - (b) which is a beach hut or a post office;
-  - (c) to which either paragraph 2(2)(a) or (b) of Schedule 4ZA to[^key-e0c0d0809834aee5785089466b51eca9] the 1988 Act[^f00005] applies (charities or community amateur sports clubs);
+  - (c) to which either paragraph 2(2)(a) or (b) of Schedule 4ZA to[^c-e0c0d0809834aee5785089466b51eca9] the 1988 Act[^f00005] applies (charities or community amateur sports clubs);
   - (d) to which either paragraph (a) or (b) of section 47(5B) of the 1988 Act[^f00006] applies (not for profit organisations);
   - (e) which is an excepted hereditament as defined in section 47(9) of the 1988 Act[^f00007];
   - (f) which is a Crown hereditament as defined in section 65A(4) of the 1988 Act[^f00008];
-  - (g) which is used exclusively for an automatic teller machine;[^key-d32c37f6bef63d2d232f403d0326daf4]
+  - (g) which is used exclusively for an automatic teller machine;[^c-d32c37f6bef63d2d232f403d0326daf4]
 - “line” (“*llinell*”) means any wire, cable, tube, pipe or similar thing (including its casing or coating) which is designed or adapted for use in connection with the provision of any electronic communications network or electronic communications services;
 - “person authorised to sign on behalf of the ratepayer” (“*person sydd wedi ei awdurdodi i lofnodi ar ran y trethdalwr*”) means, where the ratepayer is—
   - (a) a partnership, a partner of that partnership;
@@ -89,28 +89,28 @@ In this Order—
 - “signature” (“*llofnod*”), “sign” (“*llofnodi*”) or “signed” (“*llofnodwyd*”), in relation to a notice served in accordance with article 13(3) or 14(6) by electronic communication includes the incorporation in it, or the logical association with it, of an electronic signature, as defined in section 7(2) of the Electronic Communications Act 2000;
 - “structure” (“*strwythur*”) includes a building only if the sole purpose of that building is to enclose other electronic communications apparatus.
 
-### 3. General provision about application of this Order[^key-d17937c2cb13b3c91a19018dc0f967bc]
+### 3. General provision about application of this Order[^c-d17937c2cb13b3c91a19018dc0f967bc]
 
 Where a hereditament complies with the conditions in more than one of articles 7, 8 or 9, the article which applies is the article which has the effect of the lowest amount being chargeable in respect of the hereditament.
 
-### 4. Notice of multiple hereditaments[^key-3e95ed5c7019a99eefed045f2a13ffb3]
+### 4. Notice of multiple hereditaments[^c-3e95ed5c7019a99eefed045f2a13ffb3]
 
 Where a ratepayer is liable to pay non-domestic rates for more than two hereditaments shown on a local non-domestic rating list which satisfy only the conditions in article 7 (rateable value conditions), the ratepayer must give notice of those hereditaments to the billing authority for that list in accordance with article 13.
 
-### 5. Maximum rateable value for rate relief[^key-806ffce3d108bbdf6a40f72a4630a9af]
+### 5. Maximum rateable value for rate relief[^c-806ffce3d108bbdf6a40f72a4630a9af]
 
-For the purposes of paragraph 4(2)(b)(i) of Schedule 4ZA to[^key-bff670dd1d22222a68ecc806ca789a78] the 1988 Act, the amount prescribed for a hereditament is—
+For the purposes of paragraph 4(2)(b)(i) of Schedule 4ZA to[^c-bff670dd1d22222a68ecc806ca789a78] the 1988 Act, the amount prescribed for a hereditament is—
 
 - (a) £12,000, or
 - (b) £100,000 where the child care conditions in article 8 are met.
 
 ## PART B — Relief
 
-### 6. Conditions of relief[^key-475a0ff7b2766689649308f68a18825e]
+### 6. Conditions of relief[^c-475a0ff7b2766689649308f68a18825e]
 
-The conditions to be satisfied for the purposes of paragraph 4(2)(b)(ii) of Schedule 4ZA to[^key-1cd40447b345d0f9aa803505334832c7] the 1988 Act are those prescribed in articles 7 to 9.
+The conditions to be satisfied for the purposes of paragraph 4(2)(b)(ii) of Schedule 4ZA to[^c-1cd40447b345d0f9aa803505334832c7] the 1988 Act are those prescribed in articles 7 to 9.
 
-### 7. Rateable value conditions[^key-60240a5ee07470e01f8c4713c96f39e2]
+### 7. Rateable value conditions[^c-60240a5ee07470e01f8c4713c96f39e2]
 
 The rateable value conditions are—
 
@@ -118,17 +118,17 @@ The rateable value conditions are—
 - (b) the hereditament is not an excepted hereditament; and
 - (c) the hereditament is wholly occupied.
 
-### 8. Child care conditions[^key-f6e34958d0e7c9f0ff9b868c925bf480]
+### 8. Child care conditions[^c-f6e34958d0e7c9f0ff9b868c925bf480]
 
 The child care conditions are—
 
 - (a) the hereditament is wholly used for the purposes of child minding or the provision of day care by a person registered under Part 2 of the Children and Families (Wales) Measure 2010[^f00010];
 - (b) the hereditament is not an excepted hereditament;
 - (c) the hereditament is wholly occupied;
-- (d) the rateable value of the hereditament is not more than £100,000[^key-619c9cd013e47cb4447c5e93de34c800]; and
+- (d) the rateable value of the hereditament is not more than £100,000[^c-619c9cd013e47cb4447c5e93de34c800]; and
 - (e) the ratepayer has given notice to the billing authority in respect of the hereditament in accordance with article 14.
 
-### 9. Post office conditions[^key-c48de58eca394cae289f2900a0fcbfed]
+### 9. Post office conditions[^c-c48de58eca394cae289f2900a0fcbfed]
 
 The post office conditions are—
 
@@ -137,17 +137,17 @@ The post office conditions are—
 - (c) the hereditament is wholly occupied; and
 - (d) the ratepayer has given notice to the billing authority in respect of the hereditament in accordance with article 14.
 
-### 10. Amount of E[^key-be2d6b7649d82e8495a5d3fe9e5697b5]
+### 10. Amount of E[^c-be2d6b7649d82e8495a5d3fe9e5697b5]
 
-The amount of E prescribed for the purposes of paragraph 10(6) of Schedule 4ZA to[^key-7fdd9a29dc433e2ebe9fb51f09eca1b6] the 1988 Act is to be determined in accordance with articles 11 and 12.
+The amount of E prescribed for the purposes of paragraph 10(6) of Schedule 4ZA to[^c-7fdd9a29dc433e2ebe9fb51f09eca1b6] the 1988 Act is to be determined in accordance with articles 11 and 12.
 
-### 11. Amount of E where article 12 does not apply[^key-43004a24121d2a6305bd02d948f1873a]
+### 11. Amount of E where article 12 does not apply[^c-43004a24121d2a6305bd02d948f1873a]
 
 (1) Unless article 12 applies (ratepayer liable for more than two qualifying hereditaments), where the conditions in article 7, 8 or 9 are satisfied, E is the amount specified in, or calculated in accordance with, paragraph (2).
 
 (2) Where a hereditament satisfies the conditions prescribed by the article specified in column (1) of the table below, and the rateable value of the hereditament is within the range in the corresponding row in column (2), E is the amount specified or as calculated in the corresponding row in column (3).
 
-Table[^key-f9e974f68b5ad4b8c517a5a21ee64164]
+Table[^c-f9e974f68b5ad4b8c517a5a21ee64164]
 
 | *(1)*<br>*Article* | *(2)*<br>*Rateable Value*<br>*(£)* | *(3)*<br>*Amount of E* |
 | --- | --- | --- |
@@ -159,9 +159,9 @@ Table[^key-f9e974f68b5ad4b8c517a5a21ee64164]
 
 (3) The amount of E (for hereditaments meeting the rateable value conditions or post office conditions) is derived from dividing 6000 by the figure reached by subtracting 6000 from the rateable value of the hereditament shown in the local non-domestic rating list for that day, calculated to three decimal places (rounding up or down as appropriate).
 
-(4)[^key-1b5f83492cc4f5419d837096533d8822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1b5f83492cc4f5419d837096533d8822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amount of E where a ratepayer is liable for more than two qualifying hereditaments shown on a local non-domestic rating list[^key-c246e737eac8d7f56a8f83cc65a9dd7a]
+### 12. Amount of E where a ratepayer is liable for more than two qualifying hereditaments shown on a local non-domestic rating list[^c-c246e737eac8d7f56a8f83cc65a9dd7a]
 
 (1) This article applies—
 
@@ -183,7 +183,7 @@ Table[^key-f9e974f68b5ad4b8c517a5a21ee64164]
 
 ## PART C — Miscellaneous
 
-### 13. Notice served in relation to multiple hereditaments[^key-47cc9a6c078f21f0403e3795da7b9b44]
+### 13. Notice served in relation to multiple hereditaments[^c-47cc9a6c078f21f0403e3795da7b9b44]
 
 (1) A notice under this article must contain the information and other matters specified in Schedule 1 and must be signed by the ratepayer or a person authorised to sign on behalf of the ratepayer.
 
@@ -198,7 +198,7 @@ Table[^key-f9e974f68b5ad4b8c517a5a21ee64164]
 
 (5) When a notice has been given the billing authority may from time to time require the ratepayer to give further notices in accordance with this article.
 
-### 14. Notice served when child care conditions or post office conditions are met[^key-dd655cfb74a19d58363ba15d86fcb8de]
+### 14. Notice served when child care conditions or post office conditions are met[^c-dd655cfb74a19d58363ba15d86fcb8de]
 
 (1) A notice under this article must contain the information and other matters specified in Schedule 2 and must be signed by the ratepayer or a person authorised to sign on behalf of the ratepayer.
 
@@ -224,7 +224,7 @@ the notice may have effect from a date no earlier than the date on which the alt
 
 (8) When a notice has been given in respect of a financial year the billing authority may require the ratepayer to give further notices in accordance with this article in relation to such subsequent financial years as it may from time to time specify.
 
-### 15. Revocation and saving provision[^key-dc89dd2df568128e02db03c620008aef]
+### 15. Revocation and saving provision[^c-dc89dd2df568128e02db03c620008aef]
 
 The Orders specified in Schedule 3 are revoked but continue to apply to a financial year ending on or before 31 March 2018.
 
@@ -238,29 +238,29 @@ Cabinet Secretary for Finance, one of the Welsh Ministers
 
 Article 13
 
-**1.**[^key-001d1471b54e7ba8fafc993cc358f2f1] The name, address (including post code), facsimile number (where applicable), telephone number and electronic mail address (where applicable) of the ratepayer.
+**1.**[^c-001d1471b54e7ba8fafc993cc358f2f1] The name, address (including post code), facsimile number (where applicable), telephone number and electronic mail address (where applicable) of the ratepayer.
 
-**2.**[^key-063b7c3f36ec872784f5ac3844b085de] The addresses (including post codes) of the hereditaments and, where known, the non-domestic rating account numbers.
+**2.**[^c-063b7c3f36ec872784f5ac3844b085de] The addresses (including post codes) of the hereditaments and, where known, the non-domestic rating account numbers.
 
-**3.**[^key-35d33fb303e5c87ed5678983084dfb6d] The date upon which the ratepayer became, or will become, liable to pay non-domestic rates for the hereditaments.
+**3.**[^c-35d33fb303e5c87ed5678983084dfb6d] The date upon which the ratepayer became, or will become, liable to pay non-domestic rates for the hereditaments.
 
-**4.**[^key-86bc348e77b7143232c2f374442078a1] Authority from the ratepayer for the billing authority to which the notice is given to obtain from any person any information which the authority considers relevant for the purposes of confirming any information given in the notice or otherwise ascertaining the ratepayer’s eligibility for relief in respect of the hereditaments mentioned in paragraph 2.
+**4.**[^c-86bc348e77b7143232c2f374442078a1] Authority from the ratepayer for the billing authority to which the notice is given to obtain from any person any information which the authority considers relevant for the purposes of confirming any information given in the notice or otherwise ascertaining the ratepayer’s eligibility for relief in respect of the hereditaments mentioned in paragraph 2.
 
-**5.**[^key-2bff2492822e8517c64c40a89ebc891d] The signature of the ratepayer or person authorised to sign on behalf of the ratepayer.
+**5.**[^c-2bff2492822e8517c64c40a89ebc891d] The signature of the ratepayer or person authorised to sign on behalf of the ratepayer.
 
-**6.**[^key-3e08e3379ada66565c44572ce12b01d1] A description of the capacity of the person signing the notice.
+**6.**[^c-3e08e3379ada66565c44572ce12b01d1] A description of the capacity of the person signing the notice.
 
-**7.**[^key-2c814134955a32d51fef28f59b9719c4] The date of the notice.
+**7.**[^c-2c814134955a32d51fef28f59b9719c4] The date of the notice.
 
 ## SCHEDULE 2 — Information and other matters to be contained in a notice where the child care conditions or post office conditions apply
 
 Article 14
 
-**1.**[^key-b0962f00e78cc5dc28f08934b99a2a2b] The name, address (including post code), facsimile number (where applicable), telephone number and electronic mail address (where applicable) of the ratepayer.
+**1.**[^c-b0962f00e78cc5dc28f08934b99a2a2b] The name, address (including post code), facsimile number (where applicable), telephone number and electronic mail address (where applicable) of the ratepayer.
 
-**2.**[^key-39b98030da5a0a96b8d832b7046b3b50] The address (including post code) of the hereditament for which small business rate relief is sought and, where known, the non-domestic rating account number.
+**2.**[^c-39b98030da5a0a96b8d832b7046b3b50] The address (including post code) of the hereditament for which small business rate relief is sought and, where known, the non-domestic rating account number.
 
-**3.**[^key-b84e874c318a30b88dad62ca5d35f71e] In the case of premises used for child care—
+**3.**[^c-b84e874c318a30b88dad62ca5d35f71e] In the case of premises used for child care—
 
 - (a) confirmation that—
   - (i) the hereditament mentioned in paragraph 2 is used wholly for the purposes of child care as described in this Order;
@@ -268,24 +268,24 @@ Article 14
   - (iii) the hereditament is wholly occupied; and
 - (b) the name and address of the registered provider and their registration number.
 
-**4.**[^key-43640aa994a00d0f4fbfeb018b1ff52d] In the case of a post office, confirmation that the hereditament mentioned in paragraph 2 is used wholly or partly for the purposes of a post office as described in this Order.
+**4.**[^c-43640aa994a00d0f4fbfeb018b1ff52d] In the case of a post office, confirmation that the hereditament mentioned in paragraph 2 is used wholly or partly for the purposes of a post office as described in this Order.
 
-**5.**[^key-9b0a3db7a89276f70b18ba307c6dae78] Confirmation as to either—
+**5.**[^c-9b0a3db7a89276f70b18ba307c6dae78] Confirmation as to either—
 
 - (a) the date on which the hereditament was first used as described in the notice and that it has continued to be so used to the date of the notice; or
 - (b) the date on which the hereditament will be first used as described above.
 
-**6.**[^key-7b83037e9e3358f5fabc92c97191206f] An undertaking by the ratepayer (or if the person signing the notice is not the ratepayer, an undertaking on behalf of the ratepayer) that the ratepayer will as soon as practicable inform the billing authority in writing if they consider that they may no longer be eligible to receive rate relief under this Order.
+**6.**[^c-7b83037e9e3358f5fabc92c97191206f] An undertaking by the ratepayer (or if the person signing the notice is not the ratepayer, an undertaking on behalf of the ratepayer) that the ratepayer will as soon as practicable inform the billing authority in writing if they consider that they may no longer be eligible to receive rate relief under this Order.
 
-**7.**[^key-f30357176da0a725064ec7692015f2f8] Authority from the ratepayer for the billing authority to which the notice is given to obtain from any person any information which the authority considers relevant for the purposes of confirming any information given in the notice or otherwise ascertaining the ratepayer’s eligibility for relief in respect of the hereditament mentioned in paragraph 2.
+**7.**[^c-f30357176da0a725064ec7692015f2f8] Authority from the ratepayer for the billing authority to which the notice is given to obtain from any person any information which the authority considers relevant for the purposes of confirming any information given in the notice or otherwise ascertaining the ratepayer’s eligibility for relief in respect of the hereditament mentioned in paragraph 2.
 
-**8.**[^key-23df9e9c958048bb96113b1947a3d508] The signature of the ratepayer or person authorised to sign on behalf of the ratepayer.
+**8.**[^c-23df9e9c958048bb96113b1947a3d508] The signature of the ratepayer or person authorised to sign on behalf of the ratepayer.
 
-**9.**[^key-374f424073fe500609aa750fa60ef2a8] A description of the capacity of the person signing the notice.
+**9.**[^c-374f424073fe500609aa750fa60ef2a8] A description of the capacity of the person signing the notice.
 
-**10.**[^key-506f642bb18e6afc9d559f6bd4e2a27d] The date of the notice.
+**10.**[^c-506f642bb18e6afc9d559f6bd4e2a27d] The date of the notice.
 
-## SCHEDULE 3 — Revocation and savings[^key-394b4d3f4ebad7fd9de78e8d9503ded2]
+## SCHEDULE 3 — Revocation and savings[^c-394b4d3f4ebad7fd9de78e8d9503ded2]
 
 Article 15
 
@@ -342,11 +342,11 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The functions of the Secretary of State so far as exercisable in relation to Wales transferred to the National Assembly for Wales by virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), article 2, Schedule 1). The functions of the National Assembly for Wales were then vested in the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-b26bf49d11ecbed6e6fc79666a90f8fe]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2017/1229/article/1) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-b26bf49d11ecbed6e6fc79666a90f8fe]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2017/1229/article/1) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-15824a237d35c9f8bdd0832380e8c263]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2017/1229/article/2) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-15824a237d35c9f8bdd0832380e8c263]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2017/1229/article/2) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-c42b7a12f7518ed7c09d0cd4b400ab4c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2017/1229/article/2) inserted (1.4.2020) by [The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2019 (S.I. 2019/1508)](https://www.legislation.gov.uk/wsi/2019/1508), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2019/1508/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2019/1508/article/2/2/a)
+[^c-c42b7a12f7518ed7c09d0cd4b400ab4c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2017/1229/article/2) inserted (1.4.2020) by [The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2019 (S.I. 2019/1508)](https://www.legislation.gov.uk/wsi/2019/1508), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2019/1508/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2019/1508/article/2/2/a)
 
 [^f00003]: Footnote: Section 15(1) of the Electronic Communications Act [2000 (c. 7)](https://www.legislation.gov.uk/ukpga/2000/7) provides that “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—
 
@@ -356,7 +356,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36). Section 8 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-e0c0d0809834aee5785089466b51eca9]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2017/1229/article/2) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [9(2)](https://www.legislation.gov.uk/wsi/2024/37/regulation/9/2)
+[^c-e0c0d0809834aee5785089466b51eca9]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2017/1229/article/2) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [9(2)](https://www.legislation.gov.uk/wsi/2024/37/regulation/9/2)
 
 [^f00005]: Footnote: Section 43(6) was amended by section 64(1) of the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), and section 1177 of, and paragraphs 206 and 207 of Part 2 of Schedule 1 to, the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4).
 
@@ -366,84 +366,84 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: Section 65A was inserted by section 3 of the Local Government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29). Subsection (4) was amended by paragraph 73 of Schedule 6 to the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16) and by paragraphs 180 and 181 of Schedule 16 to the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-d32c37f6bef63d2d232f403d0326daf4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2017/1229/article/2) inserted (1.4.2020) by [The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2019 (S.I. 2019/1508)](https://www.legislation.gov.uk/wsi/2019/1508), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2019/1508/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2019/1508/article/2/2/b)
+[^c-d32c37f6bef63d2d232f403d0326daf4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2017/1229/article/2) inserted (1.4.2020) by [The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2019 (S.I. 2019/1508)](https://www.legislation.gov.uk/wsi/2019/1508), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2019/1508/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2019/1508/article/2/2/b)
 
 [^f00009]: Footnote: [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26). The definition of “public post office” was inserted into subsection (1) by paragraph 49(1) of Schedule 12 to the Postal Services Act [2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5).
 
-[^key-d17937c2cb13b3c91a19018dc0f967bc]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2017/1229/article/3) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-d17937c2cb13b3c91a19018dc0f967bc]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2017/1229/article/3) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-3e95ed5c7019a99eefed045f2a13ffb3]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2017/1229/article/4) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-3e95ed5c7019a99eefed045f2a13ffb3]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2017/1229/article/4) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-806ffce3d108bbdf6a40f72a4630a9af]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/wsi/2017/1229/article/5) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2018 (S.I. 2018/1192)](https://www.legislation.gov.uk/wsi/2018/1192), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1192/article/1/2), [3](https://www.legislation.gov.uk/wsi/2018/1192/article/3)
+[^c-806ffce3d108bbdf6a40f72a4630a9af]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/wsi/2017/1229/article/5) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2018 (S.I. 2018/1192)](https://www.legislation.gov.uk/wsi/2018/1192), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1192/article/1/2), [3](https://www.legislation.gov.uk/wsi/2018/1192/article/3)
 
-[^key-bff670dd1d22222a68ecc806ca789a78]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/wsi/2017/1229/article/5) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [9(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/9/3)
+[^c-bff670dd1d22222a68ecc806ca789a78]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/wsi/2017/1229/article/5) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [9(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/9/3)
 
-[^key-475a0ff7b2766689649308f68a18825e]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2017/1229/article/6) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-475a0ff7b2766689649308f68a18825e]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2017/1229/article/6) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-1cd40447b345d0f9aa803505334832c7]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/wsi/2017/1229/article/6) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [9(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/9/4)
+[^c-1cd40447b345d0f9aa803505334832c7]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/wsi/2017/1229/article/6) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [9(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/9/4)
 
-[^key-60240a5ee07470e01f8c4713c96f39e2]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2017/1229/article/7) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-60240a5ee07470e01f8c4713c96f39e2]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2017/1229/article/7) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-f6e34958d0e7c9f0ff9b868c925bf480]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2017/1229/article/8) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-f6e34958d0e7c9f0ff9b868c925bf480]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2017/1229/article/8) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
 [^f00010]: Footnote: [2010 nawm 1](https://www.legislation.gov.uk/mwa/2010/1).
 
-[^key-619c9cd013e47cb4447c5e93de34c800]: Textual amendment: Sum in art. 8(d) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2018 (S.I. 2018/1192)](https://www.legislation.gov.uk/uksi/2018/1192), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1192/article/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1192/article/4)
+[^c-619c9cd013e47cb4447c5e93de34c800]: Textual amendment: Sum in art. 8(d) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2018 (S.I. 2018/1192)](https://www.legislation.gov.uk/uksi/2018/1192), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1192/article/1/2), [4](https://www.legislation.gov.uk/uksi/2018/1192/article/4)
 
-[^key-c48de58eca394cae289f2900a0fcbfed]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2017/1229/article/9) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-c48de58eca394cae289f2900a0fcbfed]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2017/1229/article/9) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-be2d6b7649d82e8495a5d3fe9e5697b5]: Commencement: [Art. 10](https://www.legislation.gov.uk/wsi/2017/1229/article/10) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-be2d6b7649d82e8495a5d3fe9e5697b5]: Commencement: [Art. 10](https://www.legislation.gov.uk/wsi/2017/1229/article/10) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-7fdd9a29dc433e2ebe9fb51f09eca1b6]: Textual amendment: Words in [art. 10](https://www.legislation.gov.uk/wsi/2017/1229/article/10) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [9(5)](https://www.legislation.gov.uk/wsi/2024/37/regulation/9/5)
+[^c-7fdd9a29dc433e2ebe9fb51f09eca1b6]: Textual amendment: Words in [art. 10](https://www.legislation.gov.uk/wsi/2017/1229/article/10) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [9(5)](https://www.legislation.gov.uk/wsi/2024/37/regulation/9/5)
 
-[^key-43004a24121d2a6305bd02d948f1873a]: Commencement: [Art. 11](https://www.legislation.gov.uk/wsi/2017/1229/article/11) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-43004a24121d2a6305bd02d948f1873a]: Commencement: [Art. 11](https://www.legislation.gov.uk/wsi/2017/1229/article/11) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-f9e974f68b5ad4b8c517a5a21ee64164]: Textual amendment: [Art. 11(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/11/2) Table substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2018 (S.I. 2018/1192)](https://www.legislation.gov.uk/wsi/2018/1192), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1192/article/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2018/1192/article/5/a)
+[^c-f9e974f68b5ad4b8c517a5a21ee64164]: Textual amendment: [Art. 11(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/11/2) Table substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2018 (S.I. 2018/1192)](https://www.legislation.gov.uk/wsi/2018/1192), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1192/article/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2018/1192/article/5/a)
 
-[^key-1b5f83492cc4f5419d837096533d8822]: Textual amendment: [Art. 11(4)](https://www.legislation.gov.uk/wsi/2017/1229/article/11/4) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2018 (S.I. 2018/1192)](https://www.legislation.gov.uk/wsi/2018/1192), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1192/article/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2018/1192/article/5/b)
+[^c-1b5f83492cc4f5419d837096533d8822]: Textual amendment: [Art. 11(4)](https://www.legislation.gov.uk/wsi/2017/1229/article/11/4) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2018 (S.I. 2018/1192)](https://www.legislation.gov.uk/wsi/2018/1192), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/1192/article/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2018/1192/article/5/b)
 
-[^key-c246e737eac8d7f56a8f83cc65a9dd7a]: Commencement: [Art. 12](https://www.legislation.gov.uk/wsi/2017/1229/article/12) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-c246e737eac8d7f56a8f83cc65a9dd7a]: Commencement: [Art. 12](https://www.legislation.gov.uk/wsi/2017/1229/article/12) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-47cc9a6c078f21f0403e3795da7b9b44]: Commencement: [Art. 13](https://www.legislation.gov.uk/wsi/2017/1229/article/13) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-47cc9a6c078f21f0403e3795da7b9b44]: Commencement: [Art. 13](https://www.legislation.gov.uk/wsi/2017/1229/article/13) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-dd655cfb74a19d58363ba15d86fcb8de]: Commencement: [Art. 14](https://www.legislation.gov.uk/wsi/2017/1229/article/14) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-dd655cfb74a19d58363ba15d86fcb8de]: Commencement: [Art. 14](https://www.legislation.gov.uk/wsi/2017/1229/article/14) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
 [^f00011]: Footnote: Section 55 was amended by paragraphs 30 and 79 of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42); paragraph 1 of Schedule 10 and paragraph 67 of Schedule 13 to the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14); paragraph 84 of Schedule 16 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19); paragraphs 2 and 3 of Schedule 16 to the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28); and section 32 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12).
 
-[^key-dc89dd2df568128e02db03c620008aef]: Commencement: [Art. 15](https://www.legislation.gov.uk/wsi/2017/1229/article/15) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-dc89dd2df568128e02db03c620008aef]: Commencement: [Art. 15](https://www.legislation.gov.uk/wsi/2017/1229/article/15) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-001d1471b54e7ba8fafc993cc358f2f1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/1) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-001d1471b54e7ba8fafc993cc358f2f1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/1) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-063b7c3f36ec872784f5ac3844b085de]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/2) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-063b7c3f36ec872784f5ac3844b085de]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/2) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-35d33fb303e5c87ed5678983084dfb6d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/3) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-35d33fb303e5c87ed5678983084dfb6d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/3) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-86bc348e77b7143232c2f374442078a1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/4) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-86bc348e77b7143232c2f374442078a1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/4) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-2bff2492822e8517c64c40a89ebc891d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/5) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-2bff2492822e8517c64c40a89ebc891d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/5) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-3e08e3379ada66565c44572ce12b01d1]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/6) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-3e08e3379ada66565c44572ce12b01d1]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/6) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-2c814134955a32d51fef28f59b9719c4]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/7) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-2c814134955a32d51fef28f59b9719c4]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2017/1229/schedule/1/paragraph/7) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-b0962f00e78cc5dc28f08934b99a2a2b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/1) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-b0962f00e78cc5dc28f08934b99a2a2b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/1) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-39b98030da5a0a96b8d832b7046b3b50]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/2) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-39b98030da5a0a96b8d832b7046b3b50]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/2) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-b84e874c318a30b88dad62ca5d35f71e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/3) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-b84e874c318a30b88dad62ca5d35f71e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/3) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-43640aa994a00d0f4fbfeb018b1ff52d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/4) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-43640aa994a00d0f4fbfeb018b1ff52d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/4) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-9b0a3db7a89276f70b18ba307c6dae78]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/5) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-9b0a3db7a89276f70b18ba307c6dae78]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/5) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-7b83037e9e3358f5fabc92c97191206f]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/6) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-7b83037e9e3358f5fabc92c97191206f]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/6) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-f30357176da0a725064ec7692015f2f8]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/7) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-f30357176da0a725064ec7692015f2f8]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/7) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-23df9e9c958048bb96113b1947a3d508]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/8) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-23df9e9c958048bb96113b1947a3d508]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/8) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-374f424073fe500609aa750fa60ef2a8]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/9) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-374f424073fe500609aa750fa60ef2a8]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/9) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-506f642bb18e6afc9d559f6bd4e2a27d]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/10) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-506f642bb18e6afc9d559f6bd4e2a27d]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2017/1229/schedule/2/paragraph/10) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
 
-[^key-394b4d3f4ebad7fd9de78e8d9503ded2]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2017/1229/schedule/3) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)
+[^c-394b4d3f4ebad7fd9de78e8d9503ded2]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2017/1229/schedule/3) in force at 8.1.2018, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2017/1229/article/1/2)

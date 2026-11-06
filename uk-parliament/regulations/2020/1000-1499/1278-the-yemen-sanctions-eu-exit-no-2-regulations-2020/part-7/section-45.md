@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. General trade licences: records[^key-1d11be6f3061cd2f46d951cec39d3a96][^key-e604862f854d2bb7c7b3fa7339ca9596]
+## 45. General trade licences: records[^c-1d11be6f3061cd2f46d951cec39d3a96][^c-e604862f854d2bb7c7b3fa7339ca9596]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d11be6f3061cd2f46d951cec39d3a96]: Commencement: Reg. 45 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-1d11be6f3061cd2f46d951cec39d3a96]: Commencement: Reg. 45 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-e604862f854d2bb7c7b3fa7339ca9596]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2020/1278/regulation/45) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-e604862f854d2bb7c7b3fa7339ca9596]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2020/1278/regulation/45) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

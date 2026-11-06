@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Supplementary and consequential provision etc[^key-3944dc325073e4b403589f2266435b74]
+## 39. Supplementary and consequential provision etc[^c-3944dc325073e4b403589f2266435b74]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ as he considers necessary or expedient for the purposes of, or in consequence of
 
 ## Annotations
 
-[^key-3944dc325073e4b403589f2266435b74]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/2002/17/section/39) modified (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 2 para. 1(6)(d)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/1/6/d) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-3944dc325073e4b403589f2266435b74]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/2002/17/section/39) modified (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 2 para. 1(6)(d)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/1/6/d) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))

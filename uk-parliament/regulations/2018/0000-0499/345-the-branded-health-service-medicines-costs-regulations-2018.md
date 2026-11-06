@@ -66,9 +66,9 @@ The Secretary of State has consulted in accordance with sections 263(1), 263(1A)
 - “**accounting reference date**” has the meaning given to it under section 391 of the Companies Act 2006 [^c22929031];
 - “**accounting reference period**” has the meaning given to it under section 391 of the Companies Act 2006;
 - “**audited sales report**” means a sales report audited in accordance with regulation 23(1);
-- “biological medicinal product” has the meaning given to it by regulation 8(1) of the 2012 Regulations;[^key-d8bda40888bb4616a31c7c0de5d05e5c]
+- “biological medicinal product” has the meaning given to it by regulation 8(1) of the 2012 Regulations;[^c-d8bda40888bb4616a31c7c0de5d05e5c]
 - “**branded medicine**” means a medicinal product to which a brand name has been applied that enables the medicine to be identified without reference to the common name;
-- “[^key-67d68eb0b9fda733a330b0d1c6bd93e5]**calendar quarter**” means a period of three months beginning on—
+- “[^c-67d68eb0b9fda733a330b0d1c6bd93e5]**calendar quarter**” means a period of three months beginning on—
   - (a) 1st January;
   - (b) 1st April;
   - (c) 1st July; or
@@ -76,11 +76,11 @@ The Secretary of State has consulted in accordance with sections 263(1), 263(1A)
 - “**calendar year**” means a period of 12 months beginning on 1st January;
 - “**combination medicine**” is to be construed in accordance with regulation 3B(8);
 - “common name” in respect of a medicinal product means the non-proprietary name or if one does not exist, the usual common name;
-- “**contracting authority**” in relation to a contract based on a framework agreement has the meaning given to it by section 2(1)(a) of the Procurement Act 2023 (but as if section 2(5)(b), and the reference to paragraph (b) in section 2(5)(d)(ii), were omitted),[^key-3cd4435b42dc2095f20cdb0e00b057f8] regulation 3 of the Public Contracts Regulations 2006 [^c22929041], regulation 3 of the Public Contracts (Scotland) Regulations 2012 [^c22929051], regulation 2 of the Public Contracts Regulations 2015 [^c22929061] or regulation 2 of the Public Contracts (Scotland) Regulations 2015 [^c22929071] under which the relevant framework agreement was concluded;
+- “**contracting authority**” in relation to a contract based on a framework agreement has the meaning given to it by section 2(1)(a) of the Procurement Act 2023 (but as if section 2(5)(b), and the reference to paragraph (b) in section 2(5)(d)(ii), were omitted),[^c-3cd4435b42dc2095f20cdb0e00b057f8] regulation 3 of the Public Contracts Regulations 2006 [^c22929041], regulation 3 of the Public Contracts (Scotland) Regulations 2012 [^c22929051], regulation 2 of the Public Contracts Regulations 2015 [^c22929061] or regulation 2 of the Public Contracts (Scotland) Regulations 2015 [^c22929071] under which the relevant framework agreement was concluded;
 - “**duration of supplementary certificate**” is to be construed in accordance with article 13 of Regulation [(EC) 469/2009](https://www.legislation.gov.uk/european/regulation/2009/0469) of the European Parliament and of the Council of 6th May 2009 concerning the supplementary protection certificate for medicinal products [^c22929081];
 - “**final quarter**” means the last quarter in a financial year;
 - “**financial year**” has the meaning given to it under section 390 of the Companies Act 2006;
-- “[^key-38fcc0cdc1426eb87b072e124e7b2ba0]**framework agreement**” means—
+- “[^c-38fcc0cdc1426eb87b072e124e7b2ba0]**framework agreement**” means—
   - (a) a framework as defined in section 45(2) of the Procurement Act 2023, where the framework was awarded under that Act;
   - (b) a framework agreement as defined in—
     - (i) regulation 2 of the Public Contracts Regulations 2006,
@@ -137,7 +137,7 @@ The Secretary of State has consulted in accordance with sections 263(1), 263(1A)
   - (b) Part 4 of the 2006 Wales Act;
   - (c) section 2C of the 1978 Act [^c22929141], a contract under section 17J of the 1978 Act [^c22929151] or an agreement under section 17C of the 1978 Act [^c22929161]; or
   - (d) Part 2 or 6 of the Health and Personal Social Services (Northern Ireland) Order 1972 [^c22929171];
-- “[^key-425b3bf1a36225fc4920a4dfe1dc1e0c]**public contract**” means—
+- “[^c-425b3bf1a36225fc4920a4dfe1dc1e0c]**public contract**” means—
   - (a) a contract of a kind specified in section 3(2) of the Procurement Act 2023, where the contract was awarded under that Act;
   - (b) a public contract as defined in—
     - (i) regulation 2 of the Public Contracts Regulations 2006,
@@ -148,7 +148,7 @@ The Secretary of State has consulted in accordance with sections 263(1), 263(1A)
     where the relevant contract was awarded under those regulations;
 - “**quarter**” means, in relation to a financial year which is of at least three months duration, the three month period beginning on the first day of the financial year, and every subsequent three month period in that year even if there are more than four such periods in that financial year;
 - “**relevant medicine**” means a health service medicine—
-  - (a) which is a branded medicine or a biological medicinal product (whether or not it is a branded medicine)[^key-97706a955f72e8834e7a611fc5a426d4];
+  - (a) which is a branded medicine or a biological medicinal product (whether or not it is a branded medicine)[^c-97706a955f72e8834e7a611fc5a426d4];
   - (b) which is a medicine in respect of which a marketing authorisation has been granted;
   - (c) which is a prescription only medicine; and
   - (d) which is not—
@@ -169,7 +169,7 @@ The Secretary of State has consulted in accordance with sections 263(1), 263(1A)
   - (a) in relation to individual accounts of the manufacturer or supplier required to be audited in accordance with Part 16 of the Companies Act 2006, the individual accounts audited in accordance with Part 16 of that Act;
   - (b) in relation to individual accounts of the manufacturer or supplier exempt from audit under Part 16 of the Companies Act 2006 in accordance with section 477 of that Act, the individual accounts of the manufacturer or supplier;
   - (c) in relation to individual accounts of the manufacturer or supplier exempt from audit under Part 16 of the Companies Act 2006 in accordance with section 479A of that Act, the consolidated accounts of the parent undertaking in the same group as the manufacturer or supplier as referred to in subsection (2)(c) of that section;
-- “**supplementary protection certificate**” has the meaning given by section 128B(2) of the Patents Act 1977[^key-ab1ecf931efaf7c978b66b46c6750c46];
+- “**supplementary protection certificate**” has the meaning given by section 128B(2) of the Patents Act 1977[^c-ab1ecf931efaf7c978b66b46c6750c46];
 - “**supply**” means supply by way of sale unless the context otherwise requires;
 - “**term of patent**” is to be construed in accordance with section 25 of the Patents Act 1977 [^c22929261];
 - “**unbranded generic health service medicine**” means a health service medicine the labelling of which includes the common name of the medicinal product but does not include an invented name;
@@ -218,41 +218,41 @@ These Regulations do not apply to any manufacturer or supplier to whom a volunta
 
 ## PART 1 — PAYMENT SCHEME
 
-### 3. Payment scheme[^key-72fd0be2e511a82f7d761c24d04b9c03]
+### 3. Payment scheme[^c-72fd0be2e511a82f7d761c24d04b9c03]
 
-(1) Subject to paragraphs (1AA), (1AB), (4) and (5A)[^key-0a4dd0ce04e981641a9ccf006b1b68e8], the manufacturer or supplier that is responsible for the first relevant supply of an item of presentation must pay for the applicable period specified in the first column of the table below the payment percentage specified in the—
+(1) Subject to paragraphs (1AA), (1AB), (4) and (5A)[^c-0a4dd0ce04e981641a9ccf006b1b68e8], the manufacturer or supplier that is responsible for the first relevant supply of an item of presentation must pay for the applicable period specified in the first column of the table below the payment percentage specified in the—
 
 - (a) second column for each newer presentation; or
 - (b) third column for each older presentation,
 
 of that table of the net sales income received in respect of that supply to the Secretary of State in accordance with Schedule 1.
 
-Table[^key-ee943cd97302c0034522d99c5740e393]
+Table[^c-ee943cd97302c0034522d99c5740e393]
 
 | Applicable Period | Newer presentation payment percentage | Older presentation payment percentage |
 | --- | --- | --- |
 | 1st July 2026 to the end of 2026 | 16.5% | 11% |
 | 1st January 2027 to the end of 2027 and any subsequent calendar year | 16.5% | 10.9% |
 
-(1A)[^key-674d64f8812942e6575272fc7d893f1d] Where, in respect of an applicable period, as a consequence of an amendment to these Regulations, there is an amendment (in any manner) of a payment percentage specified in the second column of the table, the applicable payment percentage for payments payable under paragraph (1) in respect of supplies of an item of presentation under any contract entered into on or after 1st January 2019, including—
+(1A)[^c-674d64f8812942e6575272fc7d893f1d] Where, in respect of an applicable period, as a consequence of an amendment to these Regulations, there is an amendment (in any manner) of a payment percentage specified in the second column of the table, the applicable payment percentage for payments payable under paragraph (1) in respect of supplies of an item of presentation under any contract entered into on or after 1st January 2019, including—
 
 - (a) a contract with a contracting authority based on a framework agreement where that framework agreement was entered into following a tender which closed on or after 1st<sup></sup>January 2019; or
 - (b) a public contract entered into following a tender which closed on or after 1st January 2019,
 
 is, for that applicable period, the amended percentage.
 
-(1AA)[^key-c30fa0bc330047731e01934b8c5e56c8] Subject to paragraph (4A), in addition to any sum that may be required to be paid under paragraph (1)(b), the manufacturer or supplier that is responsible for the first relevant supply of an item of presentation that is an older presentation must pay the payment percentage calculated in accordance with regulation 3A of the net sales income received in respect of that supply to the Secretary of State in accordance with Schedule 1.
+(1AA)[^c-c30fa0bc330047731e01934b8c5e56c8] Subject to paragraph (4A), in addition to any sum that may be required to be paid under paragraph (1)(b), the manufacturer or supplier that is responsible for the first relevant supply of an item of presentation that is an older presentation must pay the payment percentage calculated in accordance with regulation 3A of the net sales income received in respect of that supply to the Secretary of State in accordance with Schedule 1.
 
-(1AB)[^key-3abe3affa917abf0530f0c3349b15f27] Where paragraph (1AC) applies, the newer presentation payment percentage referred to in paragraph (1) for the period beginning on 1st July 2026 and ending at the end of 2026[^key-f9100db9564c63bf46bfbbc98f630e48] is 8.7% and not 16.5%[^key-36b4746f9bfa936ac88548b5772e7a35].
+(1AB)[^c-3abe3affa917abf0530f0c3349b15f27] Where paragraph (1AC) applies, the newer presentation payment percentage referred to in paragraph (1) for the period beginning on 1st July 2026 and ending at the end of 2026[^c-f9100db9564c63bf46bfbbc98f630e48] is 8.7% and not 16.5%[^c-36b4746f9bfa936ac88548b5772e7a35].
 
-(1AC) This paragraph applies in the case of the payments payable under paragraph (1) by a manufacturer or supplier in respect of supplies during the period beginning on 1st July 2026 and ending at the end of 2026[^key-da53a3a5532e8a520bea5138701453b2], if, in respect of any supply of an item of presentation that was a newer presentation of that manufacturer or supplier—
+(1AC) This paragraph applies in the case of the payments payable under paragraph (1) by a manufacturer or supplier in respect of supplies during the period beginning on 1st July 2026 and ending at the end of 2026[^c-da53a3a5532e8a520bea5138701453b2], if, in respect of any supply of an item of presentation that was a newer presentation of that manufacturer or supplier—
 
-- (a) a payment was payable under paragraph (1) in respect of a supply during the period beginning on 1st January 2026 and ending at the end of 30 June 2026[^key-029fa565124de95a2a9514dc6471ab13]; and
-- (b) the applicable payment percentage was 24.3%[^key-8b99d2ce22cc59a143133fda465391bd].
+- (a) a payment was payable under paragraph (1) in respect of a supply during the period beginning on 1st January 2026 and ending at the end of 30 June 2026[^c-029fa565124de95a2a9514dc6471ab13]; and
+- (b) the applicable payment percentage was 24.3%[^c-8b99d2ce22cc59a143133fda465391bd].
 
-(1B)[^key-ce357121af02dc6ed455019a436b79e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-ce357121af02dc6ed455019a436b79e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1C)[^key-5add6507ee71b525bc7e84ee66c5ae2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1C)[^c-5add6507ee71b525bc7e84ee66c5ae2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subject to paragraph (3), for these purposes the first relevant supply is the first occasion on which that item of presentation is supplied by any manufacturer or supplier having a place of business in the United Kingdom (MS1) to another person having a place of business in the United Kingdom (MS2) that is not in the same group as MS1.
 
@@ -263,27 +263,27 @@ is, for that applicable period, the amended percentage.
 
 the first relevant supply is the next supply of that item of presentation to a person having a place of business in the United Kingdom that is not in the same group as MS2.
 
-(4) Subject to paragraph (5), paragraphs (1) and (1AA) do[^key-7cb5d732f19a1717d1364417c1746eb1] not apply to the net sales income received in respect of the supply of—
+(4) Subject to paragraph (5), paragraphs (1) and (1AA) do[^c-7cb5d732f19a1717d1364417c1746eb1] not apply to the net sales income received in respect of the supply of—
 
 - (a) any item of presentation which was in respect of that supply, supplied under—
   - (i) a contract with a contracting authority based on a framework agreement where that framework agreement was entered into on or before the date of the coming into force of these Regulations or was entered into following a tender which closed on or before the date of the coming into force of these Regulations,
   - (ii) a public contract entered into on or before the date of the coming into force of these Regulations or was entered into following a tender which closed on or before the date of the coming into force of these Regulations;
 - (b) any item of low cost presentation;
 - (c) any item of parallel distributed presentation;
-- (d) any item of voluntary scheme presentation;[^key-e084a0008f1726a01cc91d6b666f6f02]
-- (e)[^key-22b999e867bed8873f07b363353d8ee6] any item of new active substance presentation during the period beginning on the date on which the marketing authorisation is granted for the first therapeutic indication of the presentation and ending on the last day of the 36th month after that date;
+- (d) any item of voluntary scheme presentation;[^c-e084a0008f1726a01cc91d6b666f6f02]
+- (e)[^c-22b999e867bed8873f07b363353d8ee6] any item of new active substance presentation during the period beginning on the date on which the marketing authorisation is granted for the first therapeutic indication of the presentation and ending on the last day of the 36th month after that date;
 - (f) any item of presentation which is a line extension of a new active substance presentation to which sub-paragraph (e) applies which is supplied during the period referred to in sub-paragraph (e) for the new active substance presentation;
 - (g) any item of exceptional centrally procured presentation;
 - (h) any item of centrally procured vaccine presentation.
 
-(4A)[^key-9da459408de3725195b9cb3757b69520] Paragraph (1AA) does not apply to the net sales income received by a manufacturer or supplier in respect of the supply of—
+(4A)[^c-9da459408de3725195b9cb3757b69520] Paragraph (1AA) does not apply to the net sales income received by a manufacturer or supplier in respect of the supply of—
 
 - (a) any item of presentation that is a plasma derived medicinal product; or
 - (b) any item of presentation that is an older presentation where the cumulative net sales income from all older presentations with a common relevant virtual therapeutic moiety that the manufacturer or supplier supplies for health service use does not exceed £1,500,000 during a relevant calendar year.
 
 (5) Paragraph (4)(a) does not apply to any item of presentation added to a framework agreement or public contract after the coming into force of these Regulations.
 
-(5A)[^key-0e60b66495e4c7ff5db767fb3de62c68] Where paragraph (5B) applies, the payment percentage referred to in paragraph (1) for the applicable period is 7.80% and not the percentage specified in the corresponding entry for that applicable period in the second column of the table.
+(5A)[^c-0e60b66495e4c7ff5db767fb3de62c68] Where paragraph (5B) applies, the payment percentage referred to in paragraph (1) for the applicable period is 7.80% and not the percentage specified in the corresponding entry for that applicable period in the second column of the table.
 
 (5B) Subject to paragraph (5C), this paragraph applies in respect of payments payable under paragraph (1) in respect of supplies of an item of presentation under—
 
@@ -292,7 +292,7 @@ the first relevant supply is the next supply of that item of presentation to a p
 
 (5C) Paragraph (5B) does not apply to payments payable in respect of supplies of any item of presentation added to a framework agreement or public contract that falls within paragraph (5B)(a) or (b) where that item is added on or after 1st January 2019.
 
-(5D)[^key-a60194815cd44a68c7e9dffaf98f7362] For the purposes of paragraph (4)(e)—
+(5D)[^c-a60194815cd44a68c7e9dffaf98f7362] For the purposes of paragraph (4)(e)—
 
 - (a) “**new active substance presentation**” means a presentation containing a new active substance with a marketing authorisation incorporating the first therapeutic indication for that active substance, but not other presentations marketed under a different brand name which nevertheless contain that new active substance (whether alone or in combination with other active substances); and
 - (b) a presentation is only to be considered to contain a new active substance where confirmation that the presentation contains a new active substance is provided by—
@@ -323,7 +323,7 @@ the first relevant supply is the next supply of that item of presentation to a p
 
 - “**active substance**” has the meaning given in regulation 8(1) of the 2012 Regulations;
 - “**licensing authority**” is to be construed in accordance with regulation 6 of the 2012 Regulations;
-- “[^key-8236537b07d1e013fe05783a4b38aa77]**plasma derived medicinal product**” means a presentation that includes an active ingredient from any of the following virtual therapeutic moieties—
+- “[^c-8236537b07d1e013fe05783a4b38aa77]**plasma derived medicinal product**” means a presentation that includes an active ingredient from any of the following virtual therapeutic moieties—
   - (a) albumin human;
   - (b) anti-D immunoglobulin;
   - (c) C1- esterase inhibitor;
@@ -342,7 +342,7 @@ the first relevant supply is the next supply of that item of presentation to a p
 
 (6) This regulation does not apply to a small manufacturer or supplier.
 
-### 3A. Older presentation additional payments[^key-c13ae20e262664ba08b8b2c971814f47]
+### 3A. Older presentation additional payments[^c-c13ae20e262664ba08b8b2c971814f47]
 
 (1) Subject to paragraphs (2) to (4), the manufacturer or supplier responsible for the first relevant supply of an item of presentation that is an older presentation must pay in relation to the observed price decline specified in the first column of the table below, the payment percentage specified in the corresponding entry in the second column of that table of the net sales income for that item of presentation during the relevant period.
 
@@ -400,7 +400,7 @@ the payment percentage in Table 1 applicable to the relevant item of presentatio
 - “**commercial relationship**” means a contractual or other business relationship, whether or not legally enforceable, regarding the manufacturing or supplying of an item of presentation including, but not limited to, licensing;
 - “**reference price**” has the meaning given to it in regulation 3C(9).
 
-### 3B. Meaning of newer presentation and older presentation[^key-ca8e227d9beef6f59fb86de91245f80a]
+### 3B. Meaning of newer presentation and older presentation[^c-ca8e227d9beef6f59fb86de91245f80a]
 
 (1) Paragraphs (2) and (3) set out different conditions for items of presentation that are combination medicines and vaccines, but subject to those paragraphs, a newer presentation is an item of presentation supplied for health service use by a manufacturer or supplier who is an originator or originator licensee in respect of that presentation—
 
@@ -448,7 +448,7 @@ the payment percentage in Table 1 applicable to the relevant item of presentatio
 
 (10) This regulation does not apply to a small manufacturer or supplier.
 
-### 3C. Reference prices for older presentations[^key-9389b2d7a0bf8d2784a13db9762a977f]
+### 3C. Reference prices for older presentations[^c-9389b2d7a0bf8d2784a13db9762a977f]
 
 (1) The Secretary of State must, by direction, determine the reference price of each older presentation to the manufacturer or supplier who has supplied that item of presentation and is liable to make a payment in accordance with regulation 3(1AA).
 
@@ -486,7 +486,7 @@ the payment percentage in Table 1 applicable to the relevant item of presentatio
 - “**relevant period**” has the meaning given to it in regulation 3A(5);
 - “**relevant virtual therapeutic moiety**” has the meaning given to it in regulation 3B(9).
 
-### 3D. Determination of reference prices[^key-e5f50500aeca0687a89bf15e76b12b2a]
+### 3D. Determination of reference prices[^c-e5f50500aeca0687a89bf15e76b12b2a]
 
 (1) The Secretary of State must determine the reference price for an older presentation in accordance with this regulation.
 
@@ -533,18 +533,18 @@ the payment percentage in Table 1 applicable to the relevant item of presentatio
 
 ### 4. Direction to make a payment
 
-(1) This regulation applies where the Secretary of State considers that a manufacturer or supplier has entered into an arrangement whose main purpose or one of whose main purposes is to reduce or avoid a payment in respect of a sale of any item of presentation that either that or another manufacturer or supplier would otherwise be liable to make under regulation 3 or 3A[^key-0ce58fb2e8630435efd884dfd2419a0d].
+(1) This regulation applies where the Secretary of State considers that a manufacturer or supplier has entered into an arrangement whose main purpose or one of whose main purposes is to reduce or avoid a payment in respect of a sale of any item of presentation that either that or another manufacturer or supplier would otherwise be liable to make under regulation 3 or 3A[^c-0ce58fb2e8630435efd884dfd2419a0d].
 
 (2) Where this regulation applies the Secretary of State may give a direction to any manufacturer or supplier that has entered into such an arrangement to do either or both of the following—
 
 - (a) pay the amount so reduced or avoided in relation to such a sale;
-- (b) pay the relevant payment percentage referred to in[^key-70617f4fba829e98f3c5ca29a1b30198] regulation 3(1), (1AA), (1AB) or (5A)[^key-447c6cbc8fe933f32b5dca1fd2f10ce8] in respect of any future sale of any item of that presentation under that arrangement in accordance with Schedule 1.
+- (b) pay the relevant payment percentage referred to in[^c-70617f4fba829e98f3c5ca29a1b30198] regulation 3(1), (1AA), (1AB) or (5A)[^c-447c6cbc8fe933f32b5dca1fd2f10ce8] in respect of any future sale of any item of that presentation under that arrangement in accordance with Schedule 1.
 
 (3) Any direction given under paragraph (2) must specify—
 
 - (a) the reason why the Secretary of State considers that the manufacturer or supplier should pay the amount;
 - (b) the reduced or avoided amount of payment that the manufacturer or supplier must pay to the Secretary of State in relation to the sale referred to in paragraph (2)(a) and the period within which it must be paid;
-- (c) whether the manufacturer or supplier is required to pay the relevant payment percentage referred to in[^key-f47774a13065774aa976298620065c6d] regulation 3(1), (1AA), (1AB) or (5A)[^key-f542b490884a22f55f7e8b0b3f343fd1] in respect of the sale referred to in paragraph (2)(b); and
+- (c) whether the manufacturer or supplier is required to pay the relevant payment percentage referred to in[^c-f47774a13065774aa976298620065c6d] regulation 3(1), (1AA), (1AB) or (5A)[^c-f542b490884a22f55f7e8b0b3f343fd1] in respect of the sale referred to in paragraph (2)(b); and
 - (d) the manufacturer's or supplier's appeal rights.
 
 (4) In this regulation—
@@ -667,7 +667,7 @@ the “**Bank of England base rate**” means—
 (10) For the purposes of paragraph (8)(d) a presentation will only be considered to contain a “new active substance”, where—
 
 - (a) the European Public Assessment Report published by the European Medicines Agency [^c22929321] in relation to the presentation in accordance with Article 13.3 of the Regulation [(EC) 726/2004](https://www.legislation.gov.uk/european/regulation/2004/0726) of the European Parliament and of the Council of 31st March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency confirms that the presentation contains a new active substance; or
-- (b) the Assessment Report published by the licensing authority in relation to the presentation in accordance with Article 21 or regulation 64(6) of the 2012 Regulations[^key-1f0436bbfaa61acaa090f829ea009ccb] of the Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) of the European Parliament and of the Council of 6th November 2001 on the Community code relating to medicinal products for human use [^c22929331] confirms that the presentation contains a new active substance.
+- (b) the Assessment Report published by the licensing authority in relation to the presentation in accordance with Article 21 or regulation 64(6) of the 2012 Regulations[^c-1f0436bbfaa61acaa090f829ea009ccb] of the Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) of the European Parliament and of the Council of 6th November 2001 on the Community code relating to medicinal products for human use [^c22929331] confirms that the presentation contains a new active substance.
 
 (11) In these Regulations “**new presentation**” means a presentation which at the time the notification under paragraph (3) must be made, is not subject to a maximum price under regulation 8(2) or under a direction made under regulation 8(3), 10(1), 11(2), 12(2), or 13(1).
 
@@ -867,17 +867,17 @@ the “**Bank of England base rate**” means—
 
 - (a) the total of the net sales income of the manufacturer or supplier;
 - (b) the total of the net sales income received for the total supply of all presentations in respect of which that manufacturer or supplier is required to make a payment under regulation 3 and any direction given under regulation 4;
-- (ba)[^key-ff16cf7244ed32296522b317d6193fc4] the total of the net sales income received for the total supply of presentations which are newer presentations and older presentations in respect of which that manufacturer or supplier is required to make a payment in accordance with regulation 3 and any direction given under regulation 4;
+- (ba)[^c-ff16cf7244ed32296522b317d6193fc4] the total of the net sales income received for the total supply of presentations which are newer presentations and older presentations in respect of which that manufacturer or supplier is required to make a payment in accordance with regulation 3 and any direction given under regulation 4;
 - (c) the total payments required from the manufacturer or supplier in accordance with regulation 3 and any direction given under regulation 4;
-- (ca)[^key-17870085889d3df5bdd1f3d8f9d84d6b] the total payments for newer presentations and older presentations required to be paid by the manufacturer or supplier in accordance with regulation 3 and any direction given under regulation 4;
+- (ca)[^c-17870085889d3df5bdd1f3d8f9d84d6b] the total payments for newer presentations and older presentations required to be paid by the manufacturer or supplier in accordance with regulation 3 and any direction given under regulation 4;
 - (d) with respect to a contract with a contracting authority based on a framework agreement under which the item of presentation supplied is excluded from the calculation of net sales income in accordance with regulation 3(4)(a)(i), details of the contract with the contracting authority, the framework agreement on which that contract is based and the item of presentation so supplied;
 - (e) with respect to a public contract under which the item of presentation supplied is excluded from the calculation of net sales income in accordance with regulation 3(4)(a)(ii), details of the public contract and the item of presentation so supplied;
 - (f) the total of the net sales income received in respect of the total supply of all of the items of presentations in sub-paragraphs (d) and (e);
-- (fa)[^key-2f6ddcebbd036850c326a984920ada73] with respect to the net sales income received in respect of the supply of an item of presentation under a contract with a contracting authority based on a framework agreement to which a payment percentage is determined in accordance with regulation 3(5A), details of the contract with the contracting authority, the framework agreement on which that contract is based and the item of presentation so supplied;
+- (fa)[^c-2f6ddcebbd036850c326a984920ada73] with respect to the net sales income received in respect of the supply of an item of presentation under a contract with a contracting authority based on a framework agreement to which a payment percentage is determined in accordance with regulation 3(5A), details of the contract with the contracting authority, the framework agreement on which that contract is based and the item of presentation so supplied;
 - (fb) with respect to the net sales income received in respect of the supply of an item of presentation under a public contract to which a payment percentage is determined in accordance with regulation 3(5A), details of the public contract and item of presentation so supplied;
 - (fc) the total of the net sales income received in respect of the total supply of all of the items of presentations referred to in sub-paragraphs (fa) and (fb);
 - (g) the items of low cost presentation supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
-- (ga)[^key-289b8c8aaca5e192758edc4fd81ae011] each item of new active substance presentation supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
+- (ga)[^c-289b8c8aaca5e192758edc4fd81ae011] each item of new active substance presentation supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
 - (gb) each item which is a line extension to which regulation 3(4)(f) applies that is supplied and the total of the net sales income received in respect of the total supply of all those presentations;
 - (gc) each item of exceptional central procurement presentation supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
 - (gd) each item of centrally procured vaccine presentation supplied and the total of the net sales income received in respect of the total supply of all of those presentations;
@@ -889,11 +889,11 @@ the “**Bank of England base rate**” means—
 - (k) the products other than medicinal products supplied and the total of the net sales income received in respect of the total supply of all of those products;
 - (l) the Non United Kingdom medicinal products supplied and the total of the net sales income received in respect of the total supply of all of those products;
 - (m) except the medicinal products listed at sub-paragraphs (o) and (p), the medicinal products supplied for purposes other than for health service use and the total of the net sales income received in respect of the total supply of all of those medicinal products;
-- (n) to the extent not already required by paragraph (b),[^key-6b57841826bea22dcc3f0609275cdf97] the unbranded generic health service medicines supplied and the total of the net sales income received in respect of the total supply of all of those unbranded generic health service medicines;
+- (n) to the extent not already required by paragraph (b),[^c-6b57841826bea22dcc3f0609275cdf97] the unbranded generic health service medicines supplied and the total of the net sales income received in respect of the total supply of all of those unbranded generic health service medicines;
 - (o) the medicinal products subject to general sale supplied and the total of the net sales income received in respect of the total supply of all of those medicinal products; and
 - (p) the pharmacy medicines supplied and the total of the net sales income received in respect of the total supply of all of those pharmacy medicines.
 
-(1A)[^key-66dff6988f9a26037adb3fba46f181c6] Each manufacturer or supplier must provide information in a manner that supports a best estimate calculation of any payments due under regulation 3(1AA) for the period a sales report covers and an explanation to the satisfaction of the Secretary of State of the method of calculating that best estimate with the relevant sales report.
+(1A)[^c-66dff6988f9a26037adb3fba46f181c6] Each manufacturer or supplier must provide information in a manner that supports a best estimate calculation of any payments due under regulation 3(1AA) for the period a sales report covers and an explanation to the satisfaction of the Secretary of State of the method of calculating that best estimate with the relevant sales report.
 
 (2) Paragraph (3) applies where it is not possible to distinguish, in information relating to net sales income, between—
 
@@ -918,26 +918,26 @@ the “**Bank of England base rate**” means—
 
 Where a manufacturer or supplier is required to provide the Secretary of State with a “presentation report” by these Regulations, the presentation report must be provided via the relevant NHS BSA online gateway and, with respect to each presentation, separately set out—
 
-- (a) the name of each presentation supplied and whether it is a newer presentation or an older presentation[^key-a1c916707486bb9900e82e9aeb9ea227];
-- (b) except in relation to the supply of items of presentation specified in regulation 3(4)(a), (b), (c), (d), (g) and (h)[^key-e28ffc6b4431d1768380a88c5d833195], the quantity of each presentation supplied to—
+- (a) the name of each presentation supplied and whether it is a newer presentation or an older presentation[^c-a1c916707486bb9900e82e9aeb9ea227];
+- (b) except in relation to the supply of items of presentation specified in regulation 3(4)(a), (b), (c), (d), (g) and (h)[^c-e28ffc6b4431d1768380a88c5d833195], the quantity of each presentation supplied to—
   - (i) wholesalers,
   - (ii) primary medical services providers,
   - (iii) NHS chemists,
   - (iv) relevant UK hospitals, and
   - (v) any other persons or bodies;
-- (c) except in relation to the supply of items of presentations specified in regulation 3(4)(a), (b), (c), (d), (g) and (h)[^key-42fde6d460097f434dc8db77bdc1b693], the total gross sales income and total net sales income received for the supply of each presentation to each of the categories listed in paragraph (b);
+- (c) except in relation to the supply of items of presentations specified in regulation 3(4)(a), (b), (c), (d), (g) and (h)[^c-42fde6d460097f434dc8db77bdc1b693], the total gross sales income and total net sales income received for the supply of each presentation to each of the categories listed in paragraph (b);
 - (d) with respect to a contract with a contracting authority based on a framework agreement under which the item of presentation supplied is excluded from the calculation of net sales income in accordance with regulation 3(4)(a)(i), details of the contract with the contracting authority, the framework agreement on which that contract is based and the item of presentation so supplied;
 - (e) with respect to a public contract under which the item of presentation supplied is excluded from the calculation of net sales income in accordance with regulation 3(4)(a)(ii), details of the public contract and the item of presentation so supplied;
 - (f) the quantity supplied and the total gross sales income and total net sales income received for the supply of—
   - (i) each presentation which was supplied under a contract with a contracting authority based on a framework agreement, where the framework agreement was entered into on or before the date of coming into force of these Regulations or was entered into following a tender which closed on or before the date of coming into force of these Regulations, and
   - (ii) each presentation which was supplied under a public contract entered into before the date of the coming into force of these Regulations or was entered into following a tender which closed on or before the date of the coming into force of these Regulations;
-- (fa)[^key-71e260868331f2231af4fbd8e34b5666] with respect to the net sales income received in respect of the supply of an item of presentation under a contract with a contracting authority based on a framework agreement to which a payment percentage is determined in accordance with regulation 3(5A), details of the contract with the contracting authority, the framework agreement on which that contract is based and the item of presentation so supplied;
+- (fa)[^c-71e260868331f2231af4fbd8e34b5666] with respect to the net sales income received in respect of the supply of an item of presentation under a contract with a contracting authority based on a framework agreement to which a payment percentage is determined in accordance with regulation 3(5A), details of the contract with the contracting authority, the framework agreement on which that contract is based and the item of presentation so supplied;
 - (fb) with respect to the net sales income received in respect of the supply of an item of presentation under a public contract to which a payment percentage is determined in accordance with regulation 3(5A), details of the public contract and the item of presentation so supplied;
 - (fc) the quantity supplied and the total gross sales income and total net sales income received in respect of the supply of—
   - (i) each presentation which was supplied under a contract with a contracting authority based on a framework agreement, where the framework agreement was entered into on or after 1st April 2018 but before 1st January 2019 or was entered into following a tender which closed on or after 1st April 2018 but before 1st January 2019, and
   - (ii) each presentation which was supplied under a public contract entered into on or after 1st April 2018 but before 1st January 2019, or was entered into following a tender which closed on or after 1st April 2018 but before 1st January 2019;
 - (g) the quantity supplied and the total gross sales income and the total net sales income received for the supply of each low cost presentation;
-- (ga)[^key-1eda0623adf188b5b042df3f5687533b] the quantity supplied and the total gross sales income and the total net sales income received for the supply of each item of new active substance presentation supplied;
+- (ga)[^c-1eda0623adf188b5b042df3f5687533b] the quantity supplied and the total gross sales income and the total net sales income received for the supply of each item of new active substance presentation supplied;
 - (gb) the quantity supplied and the total gross sales income and the total net sales income received for the supply of each item which is a line extension to which regulation 3(4)(f) applies that is supplied;
 - (gc) the quantity supplied and the total gross sales income and the total net sales income received for the supply of each item of exceptional central procurement presentation supplied;
 - (gd) the quantity supplied and the total gross sales income and the total net sales income received for the supply of each item of centrally procured vaccine presentation supplied;
@@ -956,22 +956,22 @@ Where a manufacturer or supplier is required to provide the Secretary of State w
 - (c) a report by the qualified independent auditor and signed by the qualified independent auditor which provides a reasonable assurance (as provided for in the applicable auditing standards) that the information in the audited sales report or audited information has not been materially misstated; and
 - (d) the final audit plan prepared in accordance with the applicable auditing standards.
 
-(1A)[^key-d77b5c5204d0d5b9c6c96743db0a558a] Where a manufacturer or supplier has provided information under regulation 21 or 22, the Secretary of State may, for the purposes of verifying the information provided, request the manufacturer or supplier to provide that information in an audited form.
+(1A)[^c-d77b5c5204d0d5b9c6c96743db0a558a] Where a manufacturer or supplier has provided information under regulation 21 or 22, the Secretary of State may, for the purposes of verifying the information provided, request the manufacturer or supplier to provide that information in an audited form.
 
 (1B) A request made under paragraph (1A)—
 
 - (a) must be made within 12 months of receipt of the information provided in accordance with the relevant report; and
 - (b) must require the audited report to be provided within a period of not less than 3 months and not more than 12 months from the date on which the Secretary of State makes the request.
 
-(1C)[^key-2e18fb87298f7a2548629b4d508ef40d] A manufacturer or supplier who provides a presentation report to the Secretary of State in accordance with Schedule 1 or Schedule 3 must, at the same time as providing an audited sales report, provide the Secretary of State with—
+(1C)[^c-2e18fb87298f7a2548629b4d508ef40d] A manufacturer or supplier who provides a presentation report to the Secretary of State in accordance with Schedule 1 or Schedule 3 must, at the same time as providing an audited sales report, provide the Secretary of State with—
 
 - (a) a statement from the manufacturer or supplier that the most recently submitted presentation report has been subject to procedures agreed between the manufacturer or supplier and a qualified independent auditor in accordance with an applicable related services standard; and
 - (b) the relevant report of the qualified independent auditor produced in accordance with the applicable related services standard.
 
 (2) In this regulation—
 
-- “**applicable auditing standards**” means any relevant International Standard on Auditing and related Statements or Standards produced by the Financial Reporting Council Limited [^c22929341]; [^key-9b0a6f11643f71549effcfd011d567b3]...
-- “[^key-51b2e7a885a761c49e0f1eb851eb71ec]**applicable related services standard**” means any relevant International Standard on Related Services recognised by, or equivalent standard produced by, the Financial Reporting Council Limited; and
+- “**applicable auditing standards**” means any relevant International Standard on Auditing and related Statements or Standards produced by the Financial Reporting Council Limited [^c22929341]; [^c-9b0a6f11643f71549effcfd011d567b3]...
+- “[^c-51b2e7a885a761c49e0f1eb851eb71ec]**applicable related services standard**” means any relevant International Standard on Related Services recognised by, or equivalent standard produced by, the Financial Reporting Council Limited; and
 - “**qualified independent auditor**” means the auditor of the manufacturer's or supplier's statutory audited accounts, or with the agreement of the Secretary of State, another suitably qualified auditor.
 
 ### 24. Written declaration of approval
@@ -1009,7 +1009,7 @@ Where a manufacturer or supplier is required to provide the Secretary of State w
 
 ### 26. Penalties, demands and appeals
 
-(1) If the Secretary of State considers that the information provided or to be provided by a manufacturer or supplier under regulation 3B(7) or 3C(3) or (7) or this Part is incomplete (“[^key-da355dccfb5f4bd4f9107b5c6b60a923]**incomplete**” includes circumstances where no information has been provided, notwithstanding the obligation to provide it), he may write to the manufacturer or supplier, and where appropriate by giving an information notice, to request complete information from the manufacturer or supplier be provided within a period of 30 days.
+(1) If the Secretary of State considers that the information provided or to be provided by a manufacturer or supplier under regulation 3B(7) or 3C(3) or (7) or this Part is incomplete (“[^c-da355dccfb5f4bd4f9107b5c6b60a923]**incomplete**” includes circumstances where no information has been provided, notwithstanding the obligation to provide it), he may write to the manufacturer or supplier, and where appropriate by giving an information notice, to request complete information from the manufacturer or supplier be provided within a period of 30 days.
 
 (2) In making a determination under paragraph (1), the Secretary of State may take into account any information on medicinal products, whether or not the Secretary of State obtained the information under these Regulations.
 
@@ -1076,11 +1076,11 @@ Regulations 3, 4 and 18
 
 ### 1. Payment scheme requirements
 
-Any payments required to be made by regulation 3(1)[^key-e6eea27332f84c9c7e8ccb5a98fb7cc6] or by a direction given under regulation 4(2)(b) by a manufacturer or supplier to whom this Schedule applies must—
+Any payments required to be made by regulation 3(1)[^c-e6eea27332f84c9c7e8ccb5a98fb7cc6] or by a direction given under regulation 4(2)(b) by a manufacturer or supplier to whom this Schedule applies must—
 
 - (a) be paid in accordance with table 1 so that they are made in respect of the period specified in column (1) within the period specified in column (2);
 - (b) be paid by electronic transfer no later than the last day of the period within which payment must be made; and
-- (c) be calculated, where relevant, in accordance with the rules in paragraphs 3 to 9[^key-bb54f13e684c11774a179ca24c43c50a].
+- (c) be calculated, where relevant, in accordance with the rules in paragraphs 3 to 9[^c-bb54f13e684c11774a179ca24c43c50a].
 
   Table 1
 
@@ -1089,7 +1089,7 @@ Any payments required to be made by regulation 3(1)[^key-e6eea27332f84c9c7e8ccb5
   | Each quarter | Within 30 days of the last day of that quarter |
   | Each remaining period | Within 30 days of the last day of that remaining period |
 
-**1A.**[^key-ce0b5175a88cf17a51debcd0fef29e91] Any payment required to be made under regulation 3(1AA) by a manufacturer or supplier to whom this Schedule applies must—
+**1A.**[^c-ce0b5175a88cf17a51debcd0fef29e91] Any payment required to be made under regulation 3(1AA) by a manufacturer or supplier to whom this Schedule applies must—
 
 - (a) be paid annually at the same time as the relevant presentation report is due;
 - (b) be paid by electronic transfer no later than the last day of the period within which the payment must be made; and
@@ -1100,7 +1100,7 @@ Any payments required to be made by regulation 3(1)[^key-e6eea27332f84c9c7e8ccb5
 Information required by regulation 18 must be—
 
 - (a) provided in accordance with table 2 so that for the period specified in column (1), the information specified in column (2) must be provided within the period specified in column (3); and
-- (b) provided, where relevant, in accordance with the rules in paragraphs 3 to 9[^key-d6633be69e5ba0e9d3411dee8468916c].
+- (b) provided, where relevant, in accordance with the rules in paragraphs 3 to 9[^c-d6633be69e5ba0e9d3411dee8468916c].
 
   Table 2
 
@@ -1108,7 +1108,7 @@ Information required by regulation 18 must be—
   | --- | --- | --- |
   | Each quarter | Sales report | Within 30 days of the last day of that quarter |
   | Each remaining period | Sales report | Within 30 days of the last day of that quarter |
-  | Each calendar[^key-f90a32a41f24b517560796784d1eb790] year | Presentation report | Within 3 months[^key-e74ed27078d3337a56c7cd891ff51da5] of the last day of that calendar[^key-aa9593070dc9a4a1431e38ecc6b1009c] year |
+  | Each calendar[^c-f90a32a41f24b517560796784d1eb790] year | Presentation report | Within 3 months[^c-e74ed27078d3337a56c7cd891ff51da5] of the last day of that calendar[^c-aa9593070dc9a4a1431e38ecc6b1009c] year |
   | Each financial year | Audited sales report | Within 9 months of the last day of that financial year |
   | Each financial year | Statutory audited accounts | Within 9 months of the last day of that financial year |
 
@@ -1116,12 +1116,12 @@ Information required by regulation 18 must be—
 
 The end date of the final period in the manufacturer's or supplier's financial year, be that the final quarter or remaining period, must be treated as extended or reduced by not more than seven days before or after that period, if the end date of the supplier's or manufacturer's financial year has, in accordance with section 390(2)(b) of the Companies Act 2006, also been reduced or extended by the same period.
 
-**4.** Where the requirement to make a payment set out in regulation 3(1) or (1AA) or[^key-24ed7571a71b731835fe981b44e8d598] under a direction given under regulation 4(2)(b) begins to apply to a manufacturer or supplier part way through any of their quarters, remaining period or financial year, the manufacturer or supplier must—
+**4.** Where the requirement to make a payment set out in regulation 3(1) or (1AA) or[^c-24ed7571a71b731835fe981b44e8d598] under a direction given under regulation 4(2)(b) begins to apply to a manufacturer or supplier part way through any of their quarters, remaining period or financial year, the manufacturer or supplier must—
 
 - (a) in respect of that quarter or remaining period, calculate the payment and provide the sales report for the period from the date on which the requirement to make a payment in regulation 3(1) or (1AA) or under a direction given under regulation 4(2)(b) begins to apply until the end of the relevant quarter or remaining period; and
 - (b) in respect of that financial year provide the audited sales report and presentation report for the period from the date on which the requirement to make a payment in regulation 3(1) or (1AA) or a direction given under regulation 4(2)(b) begins to apply until the end of the financial year.
 
-**5.** Where the requirement to make a payment set out in regulation 3(1) or (1AA) or[^key-c28ed362aa353036cc90dbf312bec110] under a direction given under regulation 4(2)(b) stops applying to a manufacturer or supplier part way through any of their quarters, remaining period or financial year, the manufacturer or supplier must—
+**5.** Where the requirement to make a payment set out in regulation 3(1) or (1AA) or[^c-c28ed362aa353036cc90dbf312bec110] under a direction given under regulation 4(2)(b) stops applying to a manufacturer or supplier part way through any of their quarters, remaining period or financial year, the manufacturer or supplier must—
 
 - (a) in respect of that quarter or remaining period, calculate the payment and provide the sales report, for the period from the beginning of the quarter or remaining period to the date the requirement to make a payment in regulation 3(1) or (1AA) or under a direction given under regulation 4(2)(b) stops applying; and
 - (b) in respect of that financial year provide the audited sales report and presentation report for the period from the beginning of the financial year to the date that the requirement to make a payment in regulation 3(1) or (1AA) or under a direction given under regulation 4(2)(b) stops applying.
@@ -1130,7 +1130,7 @@ The end date of the final period in the manufacturer's or supplier's financial y
 
 **7.** A manufacturer's or supplier's “**previous accounting reference period**” means the one immediately preceding its current accounting reference period.
 
-**8.**[^key-656a9acf92f792fd19a83bf82c71aa88] A manufacturer or supplier whose financial year does not end on 31st December must, in addition to the reports required to be provided in table 1, provide two or more audited sales reports or presentation reports to cover the period of 1st January to the last day of the relevant accounting reference period and from the first day of the subsequent accounting reference period to the end of 31st December of that calendar year so that, when taken together, the separate reports cover the entire calendar year.
+**8.**[^c-656a9acf92f792fd19a83bf82c71aa88] A manufacturer or supplier whose financial year does not end on 31st December must, in addition to the reports required to be provided in table 1, provide two or more audited sales reports or presentation reports to cover the period of 1st January to the last day of the relevant accounting reference period and from the first day of the subsequent accounting reference period to the end of 31st December of that calendar year so that, when taken together, the separate reports cover the entire calendar year.
 
 **9.** A manufacturer or supplier must provide two or more separate sales reports, audited sales reports or presentation reports for the period the applicable report covers in which a change to the payment percentages under regulation 3 or 3A occurs so that information concerning supplies of presentations made before and after that change are contained in separate reports and, when taken together, those reports cover the entire calendar quarter, financial year and, where paragraph 8 applies, the calendar year, as applicable.
 
@@ -1153,7 +1153,7 @@ Table 1
 
 | *Column (1)**Length of current accounting reference period* | *Column (2)**Likely net sales income* |
 | --- | --- |
-| Twelve months | £6 million[^key-b44f902dfe983d70d99dd2d70b15107f] |
+| Twelve months | £6 million[^c-b44f902dfe983d70d99dd2d70b15107f] |
 | Less than twelve months | £6 million as proportionately reduced to the number of months in the manufacturer's or supplier's accounting reference period |
 | More than twelve months | £6 million as proportionately increased to the number of months in the manufacturer's or supplier's accounting reference period |
 
@@ -1161,7 +1161,7 @@ Table 2
 
 | *Column (1)**Length of previous accounting reference period* | *Column (2)**Net sales income* |
 | --- | --- |
-| Twelve months | £6 million[^key-153e377e3af1d6739a8f4bfb3cb8d365] |
+| Twelve months | £6 million[^c-153e377e3af1d6739a8f4bfb3cb8d365] |
 | Less than twelve months | £6 million as proportionately reduced to the number of months in the manufacturer's or supplier's accounting reference period |
 | More than twelve months | £6 million as proportionately increased to the number of months in the manufacturer's or supplier's accounting reference period |
 
@@ -1367,11 +1367,11 @@ An impact assessment relating to this instrument has been prepared and copies ca
 
 [^c22929031]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-d8bda40888bb4616a31c7c0de5d05e5c]: Textual amendment: Words in reg. 1 inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/2/a)
+[^c-d8bda40888bb4616a31c7c0de5d05e5c]: Textual amendment: Words in reg. 1 inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/2/a)
 
-[^key-67d68eb0b9fda733a330b0d1c6bd93e5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/1277/regulation/3)
+[^c-67d68eb0b9fda733a330b0d1c6bd93e5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/1277/regulation/3)
 
-[^key-3cd4435b42dc2095f20cdb0e00b057f8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [23(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/23/2/a)
+[^c-3cd4435b42dc2095f20cdb0e00b057f8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [23(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/23/2/a)
 
 [^c22929041]: Marginal citation: [S.I. 2006/5](https://www.legislation.gov.uk/uksi/2006/5) revoked by regulation 116 of the [Public Contracts Regulations 2015 (S.I. 2015/102)](https://www.legislation.gov.uk/uksi/2015/102).
 
@@ -1383,7 +1383,7 @@ An impact assessment relating to this instrument has been prepared and copies ca
 
 [^c22929081]: Marginal citation: OJ No L 152, 16.06.2009, p1 amended by the Treaty of Accession of Croatia (OJ No L 112, 24.4.2012, p10).
 
-[^key-38fcc0cdc1426eb87b072e124e7b2ba0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [23(2)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/23/2/b)
+[^c-38fcc0cdc1426eb87b072e124e7b2ba0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [23(2)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/23/2/b)
 
 [^c22929091]: Marginal citation: [2009 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1).
 
@@ -1403,9 +1403,9 @@ An impact assessment relating to this instrument has been prepared and copies ca
 
 [^c22929171]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
 
-[^key-425b3bf1a36225fc4920a4dfe1dc1e0c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [23(2)(c)](https://www.legislation.gov.uk/uksi/2025/163/regulation/23/2/c)
+[^c-425b3bf1a36225fc4920a4dfe1dc1e0c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [23(2)(c)](https://www.legislation.gov.uk/uksi/2025/163/regulation/23/2/c)
 
-[^key-97706a955f72e8834e7a611fc5a426d4]: Textual amendment: Words in reg. 1 inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/2/b)
+[^c-97706a955f72e8834e7a611fc5a426d4]: Textual amendment: Words in reg. 1 inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/2/b)
 
 [^c22929191]: Marginal citation: [S.I. 2004/629](https://www.legislation.gov.uk/uksi/2004/629).
 
@@ -1421,7 +1421,7 @@ An impact assessment relating to this instrument has been prepared and copies ca
 
 [^c22929251]: Marginal citation: [Sections 390](https://www.legislation.gov.uk/uksi/2018/345/section/390), [391](https://www.legislation.gov.uk/uksi/2018/345/section/391) and 392 of the [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) provide that a company can have a financial year of any period between 1 day up to a maximum of 18 months, plus or minus seven days.
 
-[^key-ab1ecf931efaf7c978b66b46c6750c46]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) substituted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 16(2)(e)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/16/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab1ecf931efaf7c978b66b46c6750c46]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/1/2) substituted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 16(2)(e)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/16/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22929261]: Marginal citation: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37); [section 25(3)](https://www.legislation.gov.uk/uksi/2018/345/section/25/3) was amended subject to transitional provisions specified in article 3 of [S.I. 2005/2471](https://www.legislation.gov.uk/uksi/2005/2471) of the [Patents Act 2004 (c.16)](https://www.legislation.gov.uk/ukpga/2004/16), [section 8(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/8/1). Section 25(4) was amended by the [Patents Act 2004 (c.16)](https://www.legislation.gov.uk/ukpga/2004/16), [section 8(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/8/2).
 
@@ -1431,63 +1431,63 @@ An impact assessment relating to this instrument has been prepared and copies ca
 
 [^c22929291]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41); [section 261(1)](https://www.legislation.gov.uk/uksi/2018/345/section/261/1) was amended by the [Health Service Medical Supplies (Costs) Act 2017 (c.23)](https://www.legislation.gov.uk/ukpga/2017/23), [section 3(2)(a)](https://www.legislation.gov.uk/ukpga/2017/23/section/3/2/a).
 
-[^key-72fd0be2e511a82f7d761c24d04b9c03]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/2)
+[^c-72fd0be2e511a82f7d761c24d04b9c03]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/2)
 
-[^key-0a4dd0ce04e981641a9ccf006b1b68e8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1) substituted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/667/regulation/3/2/a)
+[^c-0a4dd0ce04e981641a9ccf006b1b68e8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1) substituted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/667/regulation/3/2/a)
 
-[^key-ee943cd97302c0034522d99c5740e393]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1) Table substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/2)
+[^c-ee943cd97302c0034522d99c5740e393]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1) Table substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/2)
 
-[^key-674d64f8812942e6575272fc7d893f1d]: Textual amendment: Reg. 3(1A) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/3/c)
+[^c-674d64f8812942e6575272fc7d893f1d]: Textual amendment: Reg. 3(1A) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/3/c)
 
-[^key-c30fa0bc330047731e01934b8c5e56c8]: Textual amendment: [Reg. 3(1AA)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AA) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/3)
+[^c-c30fa0bc330047731e01934b8c5e56c8]: Textual amendment: [Reg. 3(1AA)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AA) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/3)
 
-[^key-3abe3affa917abf0530f0c3349b15f27]: Textual amendment: [Reg. 3(1AB)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AB)[(1AC)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AC) inserted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/667/regulation/3/3)
+[^c-3abe3affa917abf0530f0c3349b15f27]: Textual amendment: [Reg. 3(1AB)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AB)[(1AC)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AC) inserted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/667/regulation/3/3)
 
-[^key-f9100db9564c63bf46bfbbc98f630e48]: Textual amendment: Words in [reg. 3(1AB)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AB) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/3/a)
+[^c-f9100db9564c63bf46bfbbc98f630e48]: Textual amendment: Words in [reg. 3(1AB)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AB) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/3/a)
 
-[^key-36b4746f9bfa936ac88548b5772e7a35]: Textual amendment: Words in [reg. 3(1AB)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AB) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/3/b)
+[^c-36b4746f9bfa936ac88548b5772e7a35]: Textual amendment: Words in [reg. 3(1AB)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AB) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/3/b)
 
-[^key-da53a3a5532e8a520bea5138701453b2]: Textual amendment: Words in [reg. 3(1AC)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AC) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/4/a)
+[^c-da53a3a5532e8a520bea5138701453b2]: Textual amendment: Words in [reg. 3(1AC)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AC) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/4/a)
 
-[^key-029fa565124de95a2a9514dc6471ab13]: Textual amendment: Words in [reg. 3(1AC)(a)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AC/a) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/4/b)
+[^c-029fa565124de95a2a9514dc6471ab13]: Textual amendment: Words in [reg. 3(1AC)(a)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AC/a) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/4/b)
 
-[^key-8b99d2ce22cc59a143133fda465391bd]: Textual amendment: Word in [reg. 3(1AC)(b)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AC/b) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/4/c)
+[^c-8b99d2ce22cc59a143133fda465391bd]: Textual amendment: Word in [reg. 3(1AC)(b)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1AC/b) substituted (1.7.2026) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2026 (S.I. 2026/614)](https://www.legislation.gov.uk/uksi/2026/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/614/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2026/614/regulation/2/4/c)
 
-[^key-ce357121af02dc6ed455019a436b79e8]: Textual amendment: [Reg. 3(1B)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1B) omitted (1.1.2024) by virtue of [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/b)
+[^c-ce357121af02dc6ed455019a436b79e8]: Textual amendment: [Reg. 3(1B)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1B) omitted (1.1.2024) by virtue of [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/b)
 
-[^key-5add6507ee71b525bc7e84ee66c5ae2b]: Textual amendment: [Reg. 3(1C)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1C) omitted (1.1.2024) by virtue of [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/b)
+[^c-5add6507ee71b525bc7e84ee66c5ae2b]: Textual amendment: [Reg. 3(1C)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/1C) omitted (1.1.2024) by virtue of [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/b)
 
-[^key-7cb5d732f19a1717d1364417c1746eb1]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/4) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/4)
+[^c-7cb5d732f19a1717d1364417c1746eb1]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/4) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/4)
 
-[^key-e084a0008f1726a01cc91d6b666f6f02]: Textual amendment: Word in [reg. 3(4)(d)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/4/d) substituted (1.1.2024) by [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/c)
+[^c-e084a0008f1726a01cc91d6b666f6f02]: Textual amendment: Word in [reg. 3(4)(d)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/4/d) substituted (1.1.2024) by [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/c)
 
-[^key-22b999e867bed8873f07b363353d8ee6]: Textual amendment: [Reg. 3(4)(e)-(h)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/4/e) inserted (1.1.2024) by [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/c)
+[^c-22b999e867bed8873f07b363353d8ee6]: Textual amendment: [Reg. 3(4)(e)-(h)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/4/e) inserted (1.1.2024) by [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/c)
 
-[^key-9da459408de3725195b9cb3757b69520]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/4A) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/5)
+[^c-9da459408de3725195b9cb3757b69520]: Textual amendment: [Reg. 3(4A)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/4A) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/5)
 
-[^key-0e60b66495e4c7ff5db767fb3de62c68]: Textual amendment: Reg. 3(5A)-(5C) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/3/d)
+[^c-0e60b66495e4c7ff5db767fb3de62c68]: Textual amendment: Reg. 3(5A)-(5C) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/3/d)
 
-[^key-a60194815cd44a68c7e9dffaf98f7362]: Textual amendment: [Reg. 3(5D)-(5H)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/5D) inserted (1.1.2024) by [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/d)
+[^c-a60194815cd44a68c7e9dffaf98f7362]: Textual amendment: [Reg. 3(5D)-(5H)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/5D) inserted (1.1.2024) by [The Branded Health Service Medicines (Costs) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1307)](https://www.legislation.gov.uk/uksi/2023/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2023/1307/regulation/2/2/d)
 
-[^key-8236537b07d1e013fe05783a4b38aa77]: Textual amendment: Words in [reg. 3(5H)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/5H) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/6)
+[^c-8236537b07d1e013fe05783a4b38aa77]: Textual amendment: Words in [reg. 3(5H)](https://www.legislation.gov.uk/uksi/2018/345/regulation/3/5H) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/4/6)
 
-[^key-c13ae20e262664ba08b8b2c971814f47]: Textual amendment: Reg. 3A inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2024/1277/regulation/5)
+[^c-c13ae20e262664ba08b8b2c971814f47]: Textual amendment: Reg. 3A inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2024/1277/regulation/5)
 
-[^key-ca8e227d9beef6f59fb86de91245f80a]: Textual amendment: Reg. 3B inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/1277/regulation/6)
+[^c-ca8e227d9beef6f59fb86de91245f80a]: Textual amendment: Reg. 3B inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/1277/regulation/6)
 
-[^key-9389b2d7a0bf8d2784a13db9762a977f]: Textual amendment: Reg. 3C inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2024/1277/regulation/7)
+[^c-9389b2d7a0bf8d2784a13db9762a977f]: Textual amendment: Reg. 3C inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2024/1277/regulation/7)
 
-[^key-e5f50500aeca0687a89bf15e76b12b2a]: Textual amendment: Reg. 3D inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/1277/regulation/8)
+[^c-e5f50500aeca0687a89bf15e76b12b2a]: Textual amendment: Reg. 3D inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/1277/regulation/8)
 
-[^key-0ce58fb2e8630435efd884dfd2419a0d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/4/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2024/1277/regulation/9)
+[^c-0ce58fb2e8630435efd884dfd2419a0d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/4/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2024/1277/regulation/9)
 
-[^key-70617f4fba829e98f3c5ca29a1b30198]: Textual amendment: Words in reg. 4(2)(b) substituted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/4/a)
+[^c-70617f4fba829e98f3c5ca29a1b30198]: Textual amendment: Words in reg. 4(2)(b) substituted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/4/a)
 
-[^key-447c6cbc8fe933f32b5dca1fd2f10ce8]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2018/345/regulation/4/2/b) substituted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2025/667/regulation/4/a)
+[^c-447c6cbc8fe933f32b5dca1fd2f10ce8]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2018/345/regulation/4/2/b) substituted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2025/667/regulation/4/a)
 
-[^key-f47774a13065774aa976298620065c6d]: Textual amendment: Words in reg. 4(3)(c) substituted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/4/b)
+[^c-f47774a13065774aa976298620065c6d]: Textual amendment: Words in reg. 4(3)(c) substituted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/4/b)
 
-[^key-f542b490884a22f55f7e8b0b3f343fd1]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2018/345/regulation/4/3/c) substituted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2025/667/regulation/4/b)
+[^c-f542b490884a22f55f7e8b0b3f343fd1]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2018/345/regulation/4/3/c) substituted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2025/667/regulation/4/b)
 
 [^c22929301]: Marginal citation: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
@@ -1495,43 +1495,43 @@ An impact assessment relating to this instrument has been prepared and copies ca
 
 [^c22929321]: Marginal citation: As established under Regulation (EC) 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency (OJ No L 136, 30.04.2004, p 1).
 
-[^key-1f0436bbfaa61acaa090f829ea009ccb]: Textual amendment: Words in reg. 9(10)(b) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [Sch. 8 para. 16(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/16/4/a/ii) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 194(d)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/194/d/iv)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f0436bbfaa61acaa090f829ea009ccb]: Textual amendment: Words in reg. 9(10)(b) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [Sch. 8 para. 16(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/16/4/a/ii) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 194(d)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/194/d/iv)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22929331]: Marginal citation: OJ No L 311, 28.11.2001, p.67; [article 21](https://www.legislation.gov.uk/uksi/2018/345/article/21) was amended by Directive 2011/62/EU of the European Parliament and of the Council of 15 December 2010 (OJ No. L 348 31.12.2010, p 74).
 
-[^key-ff16cf7244ed32296522b317d6193fc4]: Textual amendment: Reg. 21(1)(ba) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/10/2/a)
+[^c-ff16cf7244ed32296522b317d6193fc4]: Textual amendment: Reg. 21(1)(ba) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/10/2/a)
 
-[^key-17870085889d3df5bdd1f3d8f9d84d6b]: Textual amendment: Reg. 21(1)(ca) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/10/2/b)
+[^c-17870085889d3df5bdd1f3d8f9d84d6b]: Textual amendment: Reg. 21(1)(ca) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/10/2/b)
 
-[^key-2f6ddcebbd036850c326a984920ada73]: Textual amendment: Reg. 21(1)(fa)-(fc) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/5/a)
+[^c-2f6ddcebbd036850c326a984920ada73]: Textual amendment: Reg. 21(1)(fa)-(fc) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/5/a)
 
-[^key-289b8c8aaca5e192758edc4fd81ae011]: Textual amendment: Reg. 21(1)(ga)-(gf) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/10/2/c)
+[^c-289b8c8aaca5e192758edc4fd81ae011]: Textual amendment: Reg. 21(1)(ga)-(gf) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/10/2/c)
 
-[^key-6b57841826bea22dcc3f0609275cdf97]: Textual amendment: Words in reg. 21(1)(n) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/5/b)
+[^c-6b57841826bea22dcc3f0609275cdf97]: Textual amendment: Words in reg. 21(1)(n) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/5/b)
 
-[^key-66dff6988f9a26037adb3fba46f181c6]: Textual amendment: Reg. 21(1A) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/10/3)
+[^c-66dff6988f9a26037adb3fba46f181c6]: Textual amendment: Reg. 21(1A) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/10/3)
 
-[^key-a1c916707486bb9900e82e9aeb9ea227]: Textual amendment: Words in [reg. 22(a)](https://www.legislation.gov.uk/uksi/2018/345/regulation/22/a) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/11/a)
+[^c-a1c916707486bb9900e82e9aeb9ea227]: Textual amendment: Words in [reg. 22(a)](https://www.legislation.gov.uk/uksi/2018/345/regulation/22/a) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/11/a)
 
-[^key-e28ffc6b4431d1768380a88c5d833195]: Textual amendment: Words in [reg. 22(b)](https://www.legislation.gov.uk/uksi/2018/345/regulation/22/b) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/11/b)
+[^c-e28ffc6b4431d1768380a88c5d833195]: Textual amendment: Words in [reg. 22(b)](https://www.legislation.gov.uk/uksi/2018/345/regulation/22/b) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/11/b)
 
-[^key-42fde6d460097f434dc8db77bdc1b693]: Textual amendment: Words in [reg. 22(c)](https://www.legislation.gov.uk/uksi/2018/345/regulation/22/c) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/11/b)
+[^c-42fde6d460097f434dc8db77bdc1b693]: Textual amendment: Words in [reg. 22(c)](https://www.legislation.gov.uk/uksi/2018/345/regulation/22/c) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/11/b)
 
-[^key-71e260868331f2231af4fbd8e34b5666]: Textual amendment: Reg. 22(fa)-(fc) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/6)
+[^c-71e260868331f2231af4fbd8e34b5666]: Textual amendment: Reg. 22(fa)-(fc) inserted (1.1.2019) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2018 (S.I. 2018/1255)](https://www.legislation.gov.uk/uksi/2018/1255), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1255/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/1255/regulation/2/6)
 
-[^key-1eda0623adf188b5b042df3f5687533b]: Textual amendment: Regs. 22(ga)-(gf) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/11/c)
+[^c-1eda0623adf188b5b042df3f5687533b]: Textual amendment: Regs. 22(ga)-(gf) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [11(c)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/11/c)
 
-[^key-d77b5c5204d0d5b9c6c96743db0a558a]: Textual amendment: Reg. 23(1A)(1B) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2024/1277/regulation/12)
+[^c-d77b5c5204d0d5b9c6c96743db0a558a]: Textual amendment: Reg. 23(1A)(1B) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2024/1277/regulation/12)
 
-[^key-2e18fb87298f7a2548629b4d508ef40d]: Textual amendment: [Reg. 23(1C)](https://www.legislation.gov.uk/uksi/2018/345/regulation/23/1C) inserted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2025/667/regulation/5/a)
+[^c-2e18fb87298f7a2548629b4d508ef40d]: Textual amendment: [Reg. 23(1C)](https://www.legislation.gov.uk/uksi/2018/345/regulation/23/1C) inserted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2025/667/regulation/5/a)
 
 [^c22929341]: Marginal citation: Registered Number 02486368. Copies of the relevant statements and standards can be obtained from the Financial Reporting Council Limited, 8th Floor, 125 London Wall, London, EC2Y 5AS or at https://www.frc.org.uk/auditors/audit-assurance/standards-and-guidance.
 
-[^key-9b0a6f11643f71549effcfd011d567b3]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/23/2) omitted (1.7.2025) by virtue of [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2025/667/regulation/5/b)
+[^c-9b0a6f11643f71549effcfd011d567b3]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/23/2) omitted (1.7.2025) by virtue of [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2025/667/regulation/5/b)
 
-[^key-51b2e7a885a761c49e0f1eb851eb71ec]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/23/2) inserted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2025/667/regulation/5/b)
+[^c-51b2e7a885a761c49e0f1eb851eb71ec]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2018/345/regulation/23/2) inserted (1.7.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2025 (S.I. 2025/667)](https://www.legislation.gov.uk/uksi/2025/667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/667/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2025/667/regulation/5/b)
 
-[^key-da355dccfb5f4bd4f9107b5c6b60a923]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/26/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2024/1277/regulation/13)
+[^c-da355dccfb5f4bd4f9107b5c6b60a923]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2018/345/regulation/26/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2024/1277/regulation/13)
 
 [^c22929351]: Marginal citation: [S.I. 2000/124](https://www.legislation.gov.uk/uksi/2000/124) amended by [S.I. 2000/870](https://www.legislation.gov.uk/uksi/2000/870) and 2007/1898.
 
@@ -1539,28 +1539,28 @@ An impact assessment relating to this instrument has been prepared and copies ca
 
 [^c22929371]: Marginal citation: [S.I. 2007/1320](https://www.legislation.gov.uk/uksi/2007/1320) amended by [S.I. 2008/1938](https://www.legislation.gov.uk/uksi/2008/1938) and 3258, 2013/325 and 2881 and 2015/233.
 
-[^key-e6eea27332f84c9c7e8ccb5a98fb7cc6]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/2/a)
+[^c-e6eea27332f84c9c7e8ccb5a98fb7cc6]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/2/a)
 
-[^key-bb54f13e684c11774a179ca24c43c50a]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/2/b)
+[^c-bb54f13e684c11774a179ca24c43c50a]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/1) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/2/b)
 
-[^key-ce0b5175a88cf17a51debcd0fef29e91]: Textual amendment: Sch. 1 para. 1A inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/3)
+[^c-ce0b5175a88cf17a51debcd0fef29e91]: Textual amendment: Sch. 1 para. 1A inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/3)
 
-[^key-d6633be69e5ba0e9d3411dee8468916c]: Textual amendment: Words in [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/2/b) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(4)(a)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/4/a)
+[^c-d6633be69e5ba0e9d3411dee8468916c]: Textual amendment: Words in [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/2/b) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(4)(a)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/4/a)
 
-[^key-f90a32a41f24b517560796784d1eb790]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/2) Table 2 substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/4/b/i)
+[^c-f90a32a41f24b517560796784d1eb790]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/2) Table 2 substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/4/b/i)
 
-[^key-e74ed27078d3337a56c7cd891ff51da5]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/2) Table 2 substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/4/b/ii)
+[^c-e74ed27078d3337a56c7cd891ff51da5]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/2) Table 2 substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/4/b/ii)
 
-[^key-aa9593070dc9a4a1431e38ecc6b1009c]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/2) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/4/b/ii)
+[^c-aa9593070dc9a4a1431e38ecc6b1009c]: Textual amendment: Word in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/2) substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/4/b/ii)
 
-[^key-24ed7571a71b731835fe981b44e8d598]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/4) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(5)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/5)
+[^c-24ed7571a71b731835fe981b44e8d598]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/4) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(5)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/5)
 
-[^key-c28ed362aa353036cc90dbf312bec110]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/5) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(5)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/5)
+[^c-c28ed362aa353036cc90dbf312bec110]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2018/345/schedule/1/paragraph/5) inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(5)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/5)
 
-[^key-656a9acf92f792fd19a83bf82c71aa88]: Textual amendment: Sch. 1 paras. 8, 9 inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(6)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/6)
+[^c-656a9acf92f792fd19a83bf82c71aa88]: Textual amendment: Sch. 1 paras. 8, 9 inserted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [14(6)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/14/6)
 
-[^key-b44f902dfe983d70d99dd2d70b15107f]: Textual amendment: Sum in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/345/schedule/2/paragraph/3) Table 1 substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/1277/regulation/15)
+[^c-b44f902dfe983d70d99dd2d70b15107f]: Textual amendment: Sum in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/345/schedule/2/paragraph/3) Table 1 substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/1277/regulation/15)
 
-[^key-153e377e3af1d6739a8f4bfb3cb8d365]: Textual amendment: Sum in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/345/schedule/2/paragraph/3) Table 2 substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/1277/regulation/15)
+[^c-153e377e3af1d6739a8f4bfb3cb8d365]: Textual amendment: Sum in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/345/schedule/2/paragraph/3) Table 2 substituted (1.1.2025) by [The Branded Health Service Medicines (Costs) (Amendment) Regulations 2024 (S.I. 2024/1277)](https://www.legislation.gov.uk/uksi/2024/1277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1277/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/1277/regulation/15)
 
 [^c22929381]: Marginal citation: A record of the decisions of maximum prices which may be charged for the supply of presentations is available on a list published by the Department of Health and Social Care at https://dhexchange.kahootz.com/connect.ti/PPRS/groupHome. Copies of the list can be obtained from the Department of Health and Social Care at 39 Victoria Street, London, SW1H 0EU.

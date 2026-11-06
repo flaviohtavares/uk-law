@@ -58,7 +58,7 @@ The Secretary of State has consulted the Chief Constables of the Thames Valley a
 
 Accordingly, the Secretary of State[^f00002] makes this Order.
 
-## 1. Citation, commencement and extent[^key-f7f984e0a5deff3ac3ecd351c60a97ce]
+## 1. Citation, commencement and extent[^c-f7f984e0a5deff3ac3ecd351c60a97ce]
 
 (1) This Order may be cited as the Civil Enforcement of Parking Contraventions Designation Order 2021.
 
@@ -68,25 +68,25 @@ Accordingly, the Secretary of State[^f00002] makes this Order.
 
 (4) This order extends to England and Wales.
 
-## 2. Interpretation[^key-d3023e4167ab4bab48661311927c13cd]
+## 2. Interpretation[^c-d3023e4167ab4bab48661311927c13cd]
 
 In this Order “grid reference” means Ordnance Survey National Grid reference point.
 
-## 3. Designation of civil enforcement area and special enforcement area for Oxfordshire[^key-dd5252aea0bb4b806bc38b0049315b10]
+## 3. Designation of civil enforcement area and special enforcement area for Oxfordshire[^c-dd5252aea0bb4b806bc38b0049315b10]
 
 The Secretary of State designates the part of the area of Oxfordshire County Council specified in Schedule 1 as—
 
 - (a) a civil enforcement area for parking contraventions; and
 - (b) a special enforcement area.
 
-## 4. Designation of civil enforcement area and special enforcement area for Warwickshire[^key-6a5f81af83cf54e0d477d80374cb5f3e]
+## 4. Designation of civil enforcement area and special enforcement area for Warwickshire[^c-6a5f81af83cf54e0d477d80374cb5f3e]
 
 The Secretary of State designates the part of the area of Warwickshire County Council specified in Schedule 2 as—
 
 - (a) a civil enforcement area for parking contraventions; and
 - (b) a special enforcement area.
 
-## 5. Revocation[^key-291373c31df90b8e03e6ab26f5b0e187]
+## 5. Revocation[^c-291373c31df90b8e03e6ab26f5b0e187]
 
 The following Orders are revoked—
 
@@ -106,9 +106,9 @@ Department for Transport
 
 Article 3
 
-**1.**[^key-bdfde97c34fc6e369fb5c0e5c72b9aab] The whole of the area of Oxfordshire County Council except the roads listed in paragraph 2.
+**1.**[^c-bdfde97c34fc6e369fb5c0e5c72b9aab] The whole of the area of Oxfordshire County Council except the roads listed in paragraph 2.
 
-**2.**[^key-b0fa737af44d5af6dcc5d27af3d24772] (1) In the area of Cherwell District Council—
+**2.**[^c-b0fa737af44d5af6dcc5d27af3d24772] (1) In the area of Cherwell District Council—
 
 - (a) the M40 and its associated slip roads from the boundary with the district of Stratford-on-Avon at grid reference SP4213147874 at the northern end, to the boundary with the district of South Northamptonshire at grid reference SP4959835013 at the southern end;
 - (b) the M40 and its associated slip roads from the boundary with the district of South Northamptonshire at grid reference SP5057131748 at the northern end to the boundary with the district of Aylesbury Vale at grid reference SP5975515808 at the southern end;
@@ -124,16 +124,16 @@ Article 3
 (5) In the City of Oxford—
 
 - (a) the A4142 from its junction with the A423 at grid reference SP5298402833 to its junction with the A40 trunk road at Headington Roundabout at grid reference SP5553007438, including the associated slip roads at its junction with the B480 at Garsington Road, Cowley but not including the Rover Works service road south of Horspath Road;
-- (b) the A423[^key-435c3c8e000312022e6573e41c4782cb] trunk road from its junction with the A4074 at grid reference SP5298402833 to its junction with the A34 trunk road at Hinksey Hill Roundabout at grid reference SP5127803478; and
-- (c) the A44[^key-141fb4d5e3c5fbc0822b7e4654a1d324] trunk road from its junction with the A40 trunk road at Wolvercote roundabout at grid reference SP4971610180 to the City boundary at grid reference SP4941110819.
+- (b) the A423[^c-435c3c8e000312022e6573e41c4782cb] trunk road from its junction with the A4074 at grid reference SP5298402833 to its junction with the A34 trunk road at Hinksey Hill Roundabout at grid reference SP5127803478; and
+- (c) the A44[^c-141fb4d5e3c5fbc0822b7e4654a1d324] trunk road from its junction with the A40 trunk road at Wolvercote roundabout at grid reference SP4971610180 to the City boundary at grid reference SP4941110819.
 
 (6) in the Parish of North Hinksey, the A420 trunk road from its junctions with the A34 trunk road slip roads and the A420 principal link road at Botley interchange at grid reference SP4887006316 to a point 100 metres west of Botley interchange at grid reference SP4848606616.
 
-## SCHEDULE 2 — The part of the area of Warwickshire County Council designated as a civil enforcement area for parking contraventions and special enforcement area[^key-0f7fc48ffedcd40aab3105a8de58f66c]
+## SCHEDULE 2 — The part of the area of Warwickshire County Council designated as a civil enforcement area for parking contraventions and special enforcement area[^c-0f7fc48ffedcd40aab3105a8de58f66c]
 
 Article 4
 
-[^key-0f7fc48ffedcd40aab3105a8de58f66c]The whole of the area of North Warwickshire Borough Council except—
+[^c-0f7fc48ffedcd40aab3105a8de58f66c]The whole of the area of North Warwickshire Borough Council except—
 
 - (a) the A446 from grid reference SP149992 to grid reference SP185935;
 - (b) the A38 from grid reference SP148991 to grid reference SP149988;
@@ -158,15 +158,15 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^f00002]: Footnote: The Secretary of State is the “appropriate national authority” as regards England for the purposes of Part 6 of the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18), by virtue of section 92 of that Act.
 
-[^key-f7f984e0a5deff3ac3ecd351c60a97ce]: Commencement: Art. 1 in force at 1.11.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2)
+[^c-f7f984e0a5deff3ac3ecd351c60a97ce]: Commencement: Art. 1 in force at 1.11.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2)
 
-[^key-d3023e4167ab4bab48661311927c13cd]: Commencement: Art. 2 in force at 1.11.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2)
+[^c-d3023e4167ab4bab48661311927c13cd]: Commencement: Art. 2 in force at 1.11.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2)
 
-[^key-dd5252aea0bb4b806bc38b0049315b10]: Commencement: Art. 3 in force at 1.11.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2)
+[^c-dd5252aea0bb4b806bc38b0049315b10]: Commencement: Art. 3 in force at 1.11.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2)
 
-[^key-6a5f81af83cf54e0d477d80374cb5f3e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/1125/article/4) in force at 1.2.2022, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/3)
+[^c-6a5f81af83cf54e0d477d80374cb5f3e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/1125/article/4) in force at 1.2.2022, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/3)
 
-[^key-291373c31df90b8e03e6ab26f5b0e187]: Commencement: Art. 5 in force at 1.11.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2)
+[^c-291373c31df90b8e03e6ab26f5b0e187]: Commencement: Art. 5 in force at 1.11.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2)
 
 [^f00003]: Footnote: [S.I. 1996/2650](https://www.legislation.gov.uk/uksi/1996/2650), as amended by [S.I. 1999/1668](https://www.legislation.gov.uk/uksi/1999/1668).
 
@@ -174,12 +174,12 @@ A full Impact Assessment has not been produced for this instrument as it is not 
 
 [^f00005]: Footnote: [S.I. 2009/3298](https://www.legislation.gov.uk/uksi/2009/3298).
 
-[^key-bdfde97c34fc6e369fb5c0e5c72b9aab]: Commencement: Sch. 1 para. 1 in force at 1.11.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2)
+[^c-bdfde97c34fc6e369fb5c0e5c72b9aab]: Commencement: Sch. 1 para. 1 in force at 1.11.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2)
 
-[^key-b0fa737af44d5af6dcc5d27af3d24772]: Commencement: Sch. 1 para. 2 in force at 1.11.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2)
+[^c-b0fa737af44d5af6dcc5d27af3d24772]: Commencement: Sch. 1 para. 2 in force at 1.11.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2)
 
-[^key-435c3c8e000312022e6573e41c4782cb]: Textual amendment: Word in Sch. 1 para. 2(5)(b) substituted (14.7.2022) by [The Civil Enforcement of Moving Traffic Contraventions Designations and Miscellaneous Amendments Order 2022 (S.I. 2022/686)](https://www.legislation.gov.uk/uksi/2022/686), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/686/article/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/686/article/4/2/a)
+[^c-435c3c8e000312022e6573e41c4782cb]: Textual amendment: Word in Sch. 1 para. 2(5)(b) substituted (14.7.2022) by [The Civil Enforcement of Moving Traffic Contraventions Designations and Miscellaneous Amendments Order 2022 (S.I. 2022/686)](https://www.legislation.gov.uk/uksi/2022/686), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/686/article/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/686/article/4/2/a)
 
-[^key-141fb4d5e3c5fbc0822b7e4654a1d324]: Textual amendment: Word in Sch. 1 para. 2(5)(c) substituted (14.7.2022) by [The Civil Enforcement of Moving Traffic Contraventions Designations and Miscellaneous Amendments Order 2022 (S.I. 2022/686)](https://www.legislation.gov.uk/uksi/2022/686), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/686/article/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/686/article/4/2/b)
+[^c-141fb4d5e3c5fbc0822b7e4654a1d324]: Textual amendment: Word in Sch. 1 para. 2(5)(c) substituted (14.7.2022) by [The Civil Enforcement of Moving Traffic Contraventions Designations and Miscellaneous Amendments Order 2022 (S.I. 2022/686)](https://www.legislation.gov.uk/uksi/2022/686), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/686/article/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/686/article/4/2/b)
 
-[^key-0f7fc48ffedcd40aab3105a8de58f66c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1125/schedule/2) in force at 1.2.2022, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/3)
+[^c-0f7fc48ffedcd40aab3105a8de58f66c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1125/schedule/2) in force at 1.2.2022, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/3)

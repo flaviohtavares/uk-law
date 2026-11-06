@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E27. Disregard of certain reckonable service in determining entitlement to benefits[^key-7adb6fe62ed00fc6eaace9b5f3960ab6]
+## E27. Disregard of certain reckonable service in determining entitlement to benefits[^c-7adb6fe62ed00fc6eaace9b5f3960ab6]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ For the purpose of determining entitlement to any benefit, no account shall be t
 
 ## Annotations
 
-[^key-7adb6fe62ed00fc6eaace9b5f3960ab6]: Commencement: [Reg. E27](https://www.legislation.gov.uk/uksi/1986/24/regulation/E27) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-7adb6fe62ed00fc6eaace9b5f3960ab6]: Commencement: [Reg. E27](https://www.legislation.gov.uk/uksi/1986/24/regulation/E27) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

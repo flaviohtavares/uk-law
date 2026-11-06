@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Officers and warrant officers qualified for membership of the SAC[^key-4fa0564156785f5ba6771b13f78d53f5][^key-f78181214e698a3f3ab8344e12ead306]
+## 143. Officers and warrant officers qualified for membership of the SAC[^c-4fa0564156785f5ba6771b13f78d53f5][^c-f78181214e698a3f3ab8344e12ead306]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4fa0564156785f5ba6771b13f78d53f5]: Commencement: S. 143 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-4fa0564156785f5ba6771b13f78d53f5]: Commencement: S. 143 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f78181214e698a3f3ab8344e12ead306]: Commencement: S. 143 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f78181214e698a3f3ab8344e12ead306]: Commencement: S. 143 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

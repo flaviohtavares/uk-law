@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72ZA. Meaning of “exempt capital-raising instrument”[^key-5d438a73a8d023c8b26f9012eb4d742e]
+## 72ZA. Meaning of “exempt capital-raising instrument”[^c-5d438a73a8d023c8b26f9012eb4d742e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d438a73a8d023c8b26f9012eb4d742e]: Textual amendment: [Ss. 72ZA](https://www.legislation.gov.uk/ukpga/1986/41/section/72ZA), [72ZB](https://www.legislation.gov.uk/ukpga/1986/41/section/72ZB) and cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/5)
+[^c-5d438a73a8d023c8b26f9012eb4d742e]: Textual amendment: [Ss. 72ZA](https://www.legislation.gov.uk/ukpga/1986/41/section/72ZA), [72ZB](https://www.legislation.gov.uk/ukpga/1986/41/section/72ZB) and cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/5)

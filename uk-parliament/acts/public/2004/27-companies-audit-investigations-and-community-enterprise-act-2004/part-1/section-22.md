@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Protection in relation to certain disclosures[^key-5bf6840b0a56bc92a930308f64aa68a5]
+## 22. Protection in relation to certain disclosures[^c-5bf6840b0a56bc92a930308f64aa68a5]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ After section 448 of the Companies Act 1985 (c. 6) insert—
 
 ## Annotations
 
-[^key-5bf6840b0a56bc92a930308f64aa68a5]: Commencement: S. 22 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))
+[^c-5bf6840b0a56bc92a930308f64aa68a5]: Commencement: S. 22 in force at 6.4.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (with [arts. 4-13](https://www.legislation.gov.uk/uksi/2004/3322/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Pornographic images of sex between relatives[^key-aaacbc8b5a87dff872e8684b1cf684d7]
+## 106. Pornographic images of sex between relatives[^c-aaacbc8b5a87dff872e8684b1cf684d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -167,4 +167,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaacbc8b5a87dff872e8684b1cf684d7]: Commencement: S. 106 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-aaacbc8b5a87dff872e8684b1cf684d7]: Commencement: S. 106 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

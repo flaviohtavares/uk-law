@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Liability of insured in certain cases[^c24415771][^key-2091d7f6a987557fc722b9f58a535c55]
+## 8. Liability of insured in certain cases[^c24415771][^c-2091d7f6a987557fc722b9f58a535c55]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 65 of FA 1994 (insurance premium tax: liability of insured in certain
 
 [^c24415771]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2020/26/section/8) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-2091d7f6a987557fc722b9f58a535c55]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2020/26/section/8) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-2091d7f6a987557fc722b9f58a535c55]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2020/26/section/8) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

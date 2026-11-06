@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3D. Forms and electronic arrangements for use in case management and for other purposes[^key-6593a7d8c415eb3400278407a350c408]
+## 3D. Forms and electronic arrangements for use in case management and for other purposes[^c-6593a7d8c415eb3400278407a350c408]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6593a7d8c415eb3400278407a350c408]: Textual amendment: [Rule 3D](https://www.legislation.gov.uk/uksi/1981/552/rule/3D) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/5)
+[^c-6593a7d8c415eb3400278407a350c408]: Textual amendment: [Rule 3D](https://www.legislation.gov.uk/uksi/1981/552/rule/3D) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/5)

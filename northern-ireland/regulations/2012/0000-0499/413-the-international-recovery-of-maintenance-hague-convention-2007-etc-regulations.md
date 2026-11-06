@@ -38,7 +38,7 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-The Department of Justice, being a Northern Ireland department designated for the purposes of section 2(2) of the European Communities Act 1972 [^c2146664] in relation to private international law [^c2146665], makes the following Regulations in exercise of the power under section 2(2) of the European Communities Act 1972.[^key-c167d3315fb3f98fe3a7db899b41c913]
+The Department of Justice, being a Northern Ireland department designated for the purposes of section 2(2) of the European Communities Act 1972 [^c2146664] in relation to private international law [^c2146665], makes the following Regulations in exercise of the power under section 2(2) of the European Communities Act 1972.[^c-c167d3315fb3f98fe3a7db899b41c913]
 
 ## 1. Citation and commencement
 
@@ -55,7 +55,7 @@ The Department of Justice, being a Northern Ireland department designated for th
 In these Regulations—
 
 - “**the Convention**” means the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23 November 2007 [^c2146666]
-- [^key-0295803e86a32e62a407c6cea4bb44b9]...[^c2146667][^c2146668]
+- [^c-0295803e86a32e62a407c6cea4bb44b9]...[^c2146667][^c2146668]
 
 ## 3. Central Authority for Northern Ireland
 
@@ -65,7 +65,7 @@ In these Regulations—
 
 ## 4. The Convention
 
-Schedule 1 (which contains provisions relating to the establishment, modification, recognition and enforcement in Northern Ireland pursuant to the Convention of maintenance decisions made in States bound by the Convention [^key-8d3349b10c1da8d5fab1825635f23ca9]...) has effect.
+Schedule 1 (which contains provisions relating to the establishment, modification, recognition and enforcement in Northern Ireland pursuant to the Convention of maintenance decisions made in States bound by the Convention [^c-8d3349b10c1da8d5fab1825635f23ca9]...) has effect.
 
 ## 5. Enforcement
 
@@ -79,9 +79,9 @@ Schedule 3 (which contains provisions relating to access to, and the transmissio
 
 Schedule 4 (which makes consequential amendments) has effect.
 
-## 8. Further amendments[^key-9f9b5b81ce46906acdc2b5164acddde8]
+## 8. Further amendments[^c-9f9b5b81ce46906acdc2b5164acddde8]
 
-Schedule 5 (which contains further amendments [^key-66c6b02ea6b6111eeb87ef32763c3416]...) has effect.
+Schedule 5 (which contains further amendments [^c-66c6b02ea6b6111eeb87ef32763c3416]...) has effect.
 
 Sealed with the Official Seal of the Department of Justice on 16th November 2012
 
@@ -89,7 +89,7 @@ David Ford
 
 Minister of Justice
 
-## SCHEDULE 1 — RECOGNITION AND ENFORCMENTOF ... MAINTENANCE DECISIONS, AND ESTABLISHMENT AND MODIFICATION OF MAINTENANCE UNDER THE CONVENTION[^key-70f397bd242526c5c3d787aa9c42b0a9]
+## SCHEDULE 1 — RECOGNITION AND ENFORCMENTOF ... MAINTENANCE DECISIONS, AND ESTABLISHMENT AND MODIFICATION OF MAINTENANCE UNDER THE CONVENTION[^c-70f397bd242526c5c3d787aa9c42b0a9]
 
 Regulation 4
 
@@ -97,13 +97,13 @@ Regulation 4
 
 (1) In this Schedule—
 
-- “**Contracting State**” means a State bound by the Convention [^key-34fa3df1cfe314f916773f420116da2e]...;
+- “**Contracting State**” means a State bound by the Convention [^c-34fa3df1cfe314f916773f420116da2e]...;
 - “**court**”, in relation to a maintenance decision given in a Contracting State, includes a tribunal, and any administrative authority (within the meaning of Article 19(3)) with competence to make a decision in respect of a maintenance obligation;
 - “**maintenance decision**” means a decision, or part of a decision, made by a court in a Contracting State, to which Chapter V of the Convention applies by virtue of Article 19(1).
 
 (2) In this Schedule any reference to a numbered Article is a reference to the Article so numbered in the Convention and any reference to a sub-division of a numbered Article shall be construed accordingly.
 
-(3) Anything authorised or required by the Convention or by this Schedule to be done by, to or before a particular magistrates' court may be done by, to or before any magistrates' court in Northern Ireland[^key-a5523df16a4e930e78d09974857444b6] .
+(3) Anything authorised or required by the Convention or by this Schedule to be done by, to or before a particular magistrates' court may be done by, to or before any magistrates' court in Northern Ireland[^c-a5523df16a4e930e78d09974857444b6] .
 
 ### 2. Recognition and enforcement of maintenance decisions made by courts in Contracting States
 
@@ -207,11 +207,11 @@ the debt resulting from registration of the decision is to carry interest at tha
 
 ### 7. Applications for establishment or modification of maintenance in Northern Ireland
 
-(1) Upon receipt of an application submitted under Article 10 for establishment or modification of a decision, the Department of Justice shall send that application to the clerk of petty sessions[^key-8261d06b489002e958ca4ed48f53a9b7] .
+(1) Upon receipt of an application submitted under Article 10 for establishment or modification of a decision, the Department of Justice shall send that application to the clerk of petty sessions[^c-8261d06b489002e958ca4ed48f53a9b7] .
 
-(2) Upon receipt of the application under sub-paragraph (1), the clerk of petty sessions[^key-87269a98ff7c308840689567434a6d41] shall decide—
+(2) Upon receipt of the application under sub-paragraph (1), the clerk of petty sessions[^c-87269a98ff7c308840689567434a6d41] shall decide—
 
-- (a) whether the courts of Northern Ireland have jurisdiction to determine the application [^key-3d380304c0d5d64901d31fe8e0532c21]...; and
+- (a) whether the courts of Northern Ireland have jurisdiction to determine the application [^c-3d380304c0d5d64901d31fe8e0532c21]...; and
 - (b) if so, whether the magistrates' court has power to make the decision or modification sought under—
   - (i) the Domestic Proceedings (Northern Ireland) Order 1980 [^c2146674], or
   - (ii) Article 15 of and Schedule 1 to the Children (Northern Ireland) Order 1995 [^c2146675].
@@ -227,9 +227,9 @@ as appears to the clerk to be appropriate.
 
 (5) Subject to sub-paragraph (6), if the clerk of petty sessions decides under sub-paragraph (2)(b) that the magistrates' court has power to make the decision or modification sought, the clerk of petty sessions shall issue the application and serve it on the respondent.
 
-(6)[^key-faba244b849375014898dd6683ea1f69] If the clerk of petty sessions is unable to establish where the respondent is residing, the clerk shall return the application to the Department of Justice.
+(6)[^c-faba244b849375014898dd6683ea1f69] If the clerk of petty sessions is unable to establish where the respondent is residing, the clerk shall return the application to the Department of Justice.
 
-(7)[^key-526345539d2fd138797552d742e72c65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-526345539d2fd138797552d742e72c65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Where the clerk of petty sessions has determined in accordance with sub-paragraph (2)(b) that the magistrates' court has power to make the decision or modification sought, the application shall be treated for the purpose of establishment or modification of a decision under the Convention as an application under the Domestic Proceedings (Northern Ireland) Order 1980, or under Article 15 of and Schedule 1 to the Children (Northern Ireland) Order 1995, as appropriate.
 
@@ -247,11 +247,11 @@ Regulation 5
 
 The provisions of this Schedule apply in relation to the enforcement of a maintenance decision relating to a child where that maintenance decision is registered for enforcement, or enforceable, by virtue of—
 
-- (a)[^key-642036b5dbdec9c35266e1d87f8a0f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-642036b5dbdec9c35266e1d87f8a0f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-642036b5dbdec9c35266e1d87f8a0f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-642036b5dbdec9c35266e1d87f8a0f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-39cb4b8bd3943c8b14bb366955f56df2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-642036b5dbdec9c35266e1d87f8a0f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-642036b5dbdec9c35266e1d87f8a0f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-642036b5dbdec9c35266e1d87f8a0f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-642036b5dbdec9c35266e1d87f8a0f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-39cb4b8bd3943c8b14bb366955f56df2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) the Hague Convention.
 
 ### 2. Interpretation
@@ -259,15 +259,15 @@ The provisions of this Schedule apply in relation to the enforcement of a mainte
 (1) In this Schedule—
 
 - “**the 1981 Order**” means the Magistrates' Courts (Northern Ireland) Order 1981;
-- [^key-3b71fb0b7e9c425b8a0fb2a4e92af612]...[^c2146676]
-- [^key-3b71fb0b7e9c425b8a0fb2a4e92af612]...[^c2146677]
-- [^key-3b71fb0b7e9c425b8a0fb2a4e92af612]... [^c2146678]
-- [^key-3b71fb0b7e9c425b8a0fb2a4e92af612]...[^c2146679]
+- [^c-3b71fb0b7e9c425b8a0fb2a4e92af612]...[^c2146676]
+- [^c-3b71fb0b7e9c425b8a0fb2a4e92af612]...[^c2146677]
+- [^c-3b71fb0b7e9c425b8a0fb2a4e92af612]... [^c2146678]
+- [^c-3b71fb0b7e9c425b8a0fb2a4e92af612]...[^c2146679]
 - “**arrears**” means a sum or sums payable to the creditor from the debtor which have fallen due under the terms of a maintenance decision and which the debtor has not paid;
 - “**the court**” means a magistrates' court;
 - “**the creditor**” means a person to whom a sum or sums of maintenance are owed by the debtor under the terms of a maintenance decision in relation to which an application under this Schedule is made, and includes—
   - (a) a public body acting in place of an individual to whom maintenance is owed or to which reimbursement is owed for benefits provided in place of maintenance, to the extent that such a body may seek enforcement of a maintenance decision under the terms of an international agreement referred to in paragraph 1;
-  - (b) where there is in force an order that the sum or sums of maintenance be paid to the collecting officer [^key-7ecc812936367322834e34314ef11ab8]..., that officer;
+  - (b) where there is in force an order that the sum or sums of maintenance be paid to the collecting officer [^c-7ecc812936367322834e34314ef11ab8]..., that officer;
 - “**the debtor**” means the person who is liable to pay a sum or sums to the creditor under the terms of the maintenance decision in relation to which a complaint referred to in paragraph 3(1) of this Schedule is made;
 - “**driving disqualification order**” means an order under paragraph 4(1)(a) of this Schedule;
 - “**driving licence**” means a licence to drive a motor vehicle granted under Part II of the Road Traffic (Northern Ireland) Order 1981 [^c2146680];
@@ -567,7 +567,7 @@ In section 103 of the Social Security Administration (Northern Ireland) Act 1992
 
   .
 
-## SCHEDULE 5 — Further amendments[^key-5e58dcf71682c716653e4fab10600fe8]
+## SCHEDULE 5 — Further amendments[^c-5e58dcf71682c716653e4fab10600fe8]
 
 Regulation 8
 
@@ -601,27 +601,27 @@ Regulation 7 and Schedule 4 make amendments to legislation consequential upon th
 
 [^c2146665]: Marginal citation: [The European Communities (Designation) (No.5) Order 2010 (S.I. 2010/2690)](https://www.legislation.gov.uk/uksi/2010/2690).
 
-[^key-c167d3315fb3f98fe3a7db899b41c913]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2012/413) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c167d3315fb3f98fe3a7db899b41c913]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2012/413) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c2146666]: Marginal citation: OJ No. L192, 22.7.2011, p.51-70
 
-[^key-0295803e86a32e62a407c6cea4bb44b9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/413/regulation/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(2)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0295803e86a32e62a407c6cea4bb44b9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/413/regulation/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(2)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c2146667]: Marginal citation: OJ No. L7, 10.1.2009, p.1-79
 
 [^c2146668]: Marginal citation: OJ No. L299, 16.11.2005, p62-70.
 
-[^key-8d3349b10c1da8d5fab1825635f23ca9]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2012/413/regulation/4) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(3)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d3349b10c1da8d5fab1825635f23ca9]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/nisr/2012/413/regulation/4) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(3)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f9b5b81ce46906acdc2b5164acddde8]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2012/413/regulation/8) heading substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(4)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f9b5b81ce46906acdc2b5164acddde8]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2012/413/regulation/8) heading substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(4)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-66c6b02ea6b6111eeb87ef32763c3416]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/nisr/2012/413/regulation/8) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(5)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66c6b02ea6b6111eeb87ef32763c3416]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/nisr/2012/413/regulation/8) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(5)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70f397bd242526c5c3d787aa9c42b0a9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2012/413/schedule/1) heading omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(6)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/6/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70f397bd242526c5c3d787aa9c42b0a9]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2012/413/schedule/1) heading omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(6)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/6/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-34fa3df1cfe314f916773f420116da2e]: Textual amendment: Words in Sch. 1 para. 1(1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(6)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/6/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34fa3df1cfe314f916773f420116da2e]: Textual amendment: Words in Sch. 1 para. 1(1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(6)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/6/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a5523df16a4e930e78d09974857444b6]: Textual amendment: Words in Sch. 1 para. 1(3) substituted (coming into force in accordance with art. 1 of the amending Rule) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [34(2)(a)](https://www.legislation.gov.uk/nisr/2016/317/article/34/2/a); (as commenced (31.10.2016) by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), art. 2(a) (with art. 3))
+[^c-a5523df16a4e930e78d09974857444b6]: Textual amendment: Words in Sch. 1 para. 1(3) substituted (coming into force in accordance with art. 1 of the amending Rule) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [34(2)(a)](https://www.legislation.gov.uk/nisr/2016/317/article/34/2/a); (as commenced (31.10.2016) by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), art. 2(a) (with art. 3))
 
 [^c2146669]: Marginal citation: 1982 C.27. Section 5(6A) was inserted by [S.I. 1993/1576 (N.I. 6)](https://www.legislation.gov.uk/nisi/1993/1576).
 
@@ -631,25 +631,25 @@ Regulation 7 and Schedule 4 make amendments to legislation consequential upon th
 
 [^c2146672]: Marginal citation: [1982 c.27](https://www.legislation.gov.uk/ukpga/1982/27).
 
-[^key-8261d06b489002e958ca4ed48f53a9b7]: Textual amendment: Words in Sch. 1 para. 7(1) substituted (coming into force in accordance with art. 1 of the amending Rule) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [34(2)(b)(i)](https://www.legislation.gov.uk/nisr/2016/317/article/34/2/b/i); (as commenced (31.10.2016) by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), art. 2(a) (with art. 3))
+[^c-8261d06b489002e958ca4ed48f53a9b7]: Textual amendment: Words in Sch. 1 para. 7(1) substituted (coming into force in accordance with art. 1 of the amending Rule) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [34(2)(b)(i)](https://www.legislation.gov.uk/nisr/2016/317/article/34/2/b/i); (as commenced (31.10.2016) by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), art. 2(a) (with art. 3))
 
-[^key-87269a98ff7c308840689567434a6d41]: Textual amendment: Words in Sch. 1 para. 7(2) substituted (coming into force in accordance with art. 1 of the amending Rule) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [34(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/317/article/34/2/b/ii); (as commenced (31.10.2016) by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), art. 2(a) (with art. 3))
+[^c-87269a98ff7c308840689567434a6d41]: Textual amendment: Words in Sch. 1 para. 7(2) substituted (coming into force in accordance with art. 1 of the amending Rule) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [34(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/317/article/34/2/b/ii); (as commenced (31.10.2016) by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), art. 2(a) (with art. 3))
 
-[^key-3d380304c0d5d64901d31fe8e0532c21]: Textual amendment: Words in Sch. 1 para. 7(2)(a) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(6)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/6/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3d380304c0d5d64901d31fe8e0532c21]: Textual amendment: Words in Sch. 1 para. 7(2)(a) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(6)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/6/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c2146674]: Marginal citation: [S.I. 1980/563](https://www.legislation.gov.uk/uksi/1980/563) (NI 5).
 
 [^c2146675]: Marginal citation: [S.I. 1995/755](https://www.legislation.gov.uk/uksi/1995/755) (NI 2).
 
-[^key-faba244b849375014898dd6683ea1f69]: Textual amendment: Sch. 1 para. 7(6) substituted (coming into force in accordance with art. 1 of the amending Rule) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [34(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2016/317/article/34/2/b/iii); (as commenced (31.10.2016) by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), art. 2(a) (with art. 3))
+[^c-faba244b849375014898dd6683ea1f69]: Textual amendment: Sch. 1 para. 7(6) substituted (coming into force in accordance with art. 1 of the amending Rule) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [34(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2016/317/article/34/2/b/iii); (as commenced (31.10.2016) by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), art. 2(a) (with art. 3))
 
-[^key-526345539d2fd138797552d742e72c65]: Textual amendment: Sch. 1 para. 7(7) omitted (coming into force in accordance with art. 1 of the amending Rule) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [34(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2016/317/article/34/2/b/iv); (as commenced (31.10.2016) by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), art. 2(a) (with art. 3))
+[^c-526345539d2fd138797552d742e72c65]: Textual amendment: Sch. 1 para. 7(7) omitted (coming into force in accordance with art. 1 of the amending Rule) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [34(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2016/317/article/34/2/b/iv); (as commenced (31.10.2016) by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), art. 2(a) (with art. 3))
 
-[^key-642036b5dbdec9c35266e1d87f8a0f06]: Textual amendment: Sch. 2 para. 1(a)(b)(c)(d) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [81(a)](https://www.legislation.gov.uk/uksi/2019/479/regulation/81/a) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-642036b5dbdec9c35266e1d87f8a0f06]: Textual amendment: Sch. 2 para. 1(a)(b)(c)(d) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [81(a)](https://www.legislation.gov.uk/uksi/2019/479/regulation/81/a) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-39cb4b8bd3943c8b14bb366955f56df2]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2012/413/schedule/2/paragraph/1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(7)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39cb4b8bd3943c8b14bb366955f56df2]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2012/413/schedule/2/paragraph/1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(7)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3b71fb0b7e9c425b8a0fb2a4e92af612]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2012/413/schedule/2/paragraph/2) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [81(b)](https://www.legislation.gov.uk/uksi/2019/479/regulation/81/b) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b71fb0b7e9c425b8a0fb2a4e92af612]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2012/413/schedule/2/paragraph/2) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [81(b)](https://www.legislation.gov.uk/uksi/2019/479/regulation/81/b) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c2146676]: Marginal citation: OJ No.L 299, 31.12.1972 p.32; OJ L304, 30.10.1978 p.1; OJ L 388, 31.12.1982, p.1; OJ L285, 3.10.1989, p.1; OJ C 15, 15.1.1997 p.1. A consolidated version is available at OJ C 27, 16.1.1998, p.1.
 
@@ -659,7 +659,7 @@ Regulation 7 and Schedule 4 make amendments to legislation consequential upon th
 
 [^c2146679]: Marginal citation: OJ No. L339, 21.12.2007, p3.
 
-[^key-7ecc812936367322834e34314ef11ab8]: Textual amendment: Words in Sch. 2 para. 2(1) omitted (coming into force in accordance with art. 1 of the amending Rule) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [34(3)](https://www.legislation.gov.uk/nisr/2016/317/article/34/3); (as commenced (31.10.2016) by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), art. 2(a) (with art. 3))
+[^c-7ecc812936367322834e34314ef11ab8]: Textual amendment: Words in Sch. 2 para. 2(1) omitted (coming into force in accordance with art. 1 of the amending Rule) by virtue of [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [34(3)](https://www.legislation.gov.uk/nisr/2016/317/article/34/3); (as commenced (31.10.2016) by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), art. 2(a) (with art. 3))
 
 [^c2146680]: Marginal citation: [S.I. 1981/154](https://www.legislation.gov.uk/uksi/1981/154) (NI 1).
 
@@ -667,4 +667,4 @@ Regulation 7 and Schedule 4 make amendments to legislation consequential upon th
 
 [^c2146682]: Marginal citation: [S.I. 1981/154](https://www.legislation.gov.uk/uksi/1981/154) (NI 1).
 
-[^key-5e58dcf71682c716653e4fab10600fe8]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/nisr/2012/413/schedule/5) heading substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(9)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e58dcf71682c716653e4fab10600fe8]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/nisr/2012/413/schedule/5) heading substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 40(9)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/40/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

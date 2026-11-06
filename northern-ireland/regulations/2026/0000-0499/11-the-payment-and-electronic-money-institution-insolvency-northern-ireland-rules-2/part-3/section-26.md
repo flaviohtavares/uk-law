@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Limited disclosure of the statement of proposals[^key-43e492395f67f4f35269728ef5f32262]
+## 26. Limited disclosure of the statement of proposals[^c-43e492395f67f4f35269728ef5f32262]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ as it thinks just.
 
 ## Annotations
 
-[^key-43e492395f67f4f35269728ef5f32262]: Commencement: [Rule 26](https://www.legislation.gov.uk/nisr/2026/11/rule/26) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-43e492395f67f4f35269728ef5f32262]: Commencement: [Rule 26](https://www.legislation.gov.uk/nisr/2026/11/rule/26) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

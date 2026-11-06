@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Amendment of the Special Immigration Appeals Commission Act 1997[^key-1a06ce2eb04c123b687bc805c5907163][^M_I_8b160587-8d66-42a1-a3b5-231a87431010]
+## 11. Amendment of the Special Immigration Appeals Commission Act 1997[^c-1a06ce2eb04c123b687bc805c5907163][^M_I_8b160587-8d66-42a1-a3b5-231a87431010]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1a06ce2eb04c123b687bc805c5907163]: Commencement: Reg. 11 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-1a06ce2eb04c123b687bc805c5907163]: Commencement: Reg. 11 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_8b160587-8d66-42a1-a3b5-231a87431010]: Commencement: Reg. 11 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

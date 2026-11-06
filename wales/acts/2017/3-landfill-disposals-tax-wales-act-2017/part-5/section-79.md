@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Variation or cancellation of designation[^key-b449ff92973d1eed45f0e780871529f0]
+## 79. Variation or cancellation of designation[^c-b449ff92973d1eed45f0e780871529f0]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b449ff92973d1eed45f0e780871529f0]: Commencement: [S. 79](https://www.legislation.gov.uk/anaw/2017/3/section/79) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(w)](https://www.legislation.gov.uk/wsi/2018/35/article/2/w)
+[^c-b449ff92973d1eed45f0e780871529f0]: Commencement: [S. 79](https://www.legislation.gov.uk/anaw/2017/3/section/79) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(w)](https://www.legislation.gov.uk/wsi/2018/35/article/2/w)

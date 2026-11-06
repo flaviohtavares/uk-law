@@ -22,11 +22,11 @@ summary: ''
 
 Section 79
 
-**1.**[^key-b1e0120ea03135088acda9a7704f47d4] Part 8 of the Enterprise Act 2002 (enforcement of certain consumer legislation) is amended as follows.
+**1.**[^c-b1e0120ea03135088acda9a7704f47d4] Part 8 of the Enterprise Act 2002 (enforcement of certain consumer legislation) is amended as follows.
 
-**2.**[^key-2d888a8b13e398a0ce3e3b0b08b0c88d] In section 210 (consumers), omit subsection (5).
+**2.**[^c-2d888a8b13e398a0ce3e3b0b08b0c88d] In section 210 (consumers), omit subsection (5).
 
-**3.**[^key-446384537559cf5869a4b5a7eec40ea5] (1) Section 211 (domestic infringements) is amended as follows.
+**3.**[^c-446384537559cf5869a4b5a7eec40ea5] (1) Section 211 (domestic infringements) is amended as follows.
 
 (2) In subsection (1)(c), omit “in the United Kingdom”.
 
@@ -37,13 +37,13 @@ Section 79
 > - (a) the person supplying (or seeking to supply) goods or services has a place of business in the United Kingdom, or
 > - (b) the goods or services are supplied (or sought to be supplied) to or for a person in the United Kingdom (see section 232).
 
-**4.**[^key-7d81bf01706ea1b6b9835cd5b3121134] In section 213(5A) (CPC enforcers), for paragraph (i) substitute—
+**4.**[^c-7d81bf01706ea1b6b9835cd5b3121134] In section 213(5A) (CPC enforcers), for paragraph (i) substitute—
 
 > - (i) an enforcement authority within the meaning of section 120(15) of the Communications Act 2003 (regulation of premium rate services);
 
 .
 
-**5.**[^key-0ba6d5ec38ebc32f13f93c5262e1115b] (1) Section 214 (consultation) is amended as follows.
+**5.**[^c-0ba6d5ec38ebc32f13f93c5262e1115b] (1) Section 214 (consultation) is amended as follows.
 
 (2) In subsection (4)(a), after “14 days” insert “ or, where subsection (4A) applies, 28 days ”.
 
@@ -61,7 +61,7 @@ Section 79
 > - “**consumer code**” means a code of practice or other document (however described) intended, with a view to safeguarding or promoting the interests of consumers, to regulate by any means the conduct of persons engaged in the supply of goods or services to consumers (or the conduct of their employees or representatives), and
 > - “**representative body**” means an organisation established to represent the interests of two or more businesses in a particular sector or area, and for this purpose “**business**” has the meaning it bears in section 210.
 
-**6.**[^key-2a1c7c0687eb5c4df1e93952f6a6d578] In section 217 (enforcement orders), after subsection (10) insert—
+**6.**[^c-2a1c7c0687eb5c4df1e93952f6a6d578] In section 217 (enforcement orders), after subsection (10) insert—
 
 > (10A) An enforcement order may require a person against whom the order is made to take enhanced consumer measures (defined in section 219A) within a period specified by the court.
 >
@@ -71,7 +71,7 @@ Section 79
 >
 > (10D) Where a person is required by an enforcement order or an undertaking under this section to take enhanced consumer measures, the order or undertaking may include requirements as to the provision of information or documents to the court by the person in order that the court may determine if the person is taking those measures.
 
-**7.**[^key-3d1473f7c6ad8daf6ea6d226044449eb] In section 219 (undertakings), after subsection (5) insert—
+**7.**[^c-3d1473f7c6ad8daf6ea6d226044449eb] In section 219 (undertakings), after subsection (5) insert—
 
 > (5ZA) An undertaking under this section may include a further undertaking by the person—
 >
@@ -80,7 +80,7 @@ Section 79
 >
 > (5ZB) Subsection (5ZA) is subject to section 219C in a case where the enforcer is a designated enforcer which is not a public body.
 
-**8.**[^key-9f8f85e29670af10f84d2c43835bad49] After section 219 insert—
+**8.**[^c-9f8f85e29670af10f84d2c43835bad49] After section 219 insert—
 
 > **219A. Definition of enhanced consumer measures**
 >
@@ -190,7 +190,7 @@ Section 79
 >
 > and for this purpose “parent undertaking” and “subsidiary undertaking” have the meanings given by section 1162 of the Companies Act 2006.
 
-**9.**[^key-555616806900b3f862c41158675d336e] (1) Section 220 (further proceedings) is amended as follows.
+**9.**[^c-555616806900b3f862c41158675d336e] (1) Section 220 (further proceedings) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -210,7 +210,7 @@ Section 79
 
   > - (e) sections 219A, 219B and 219C must be ignored to the extent that they relate to an undertaking under section 217(9) or 219.
 
-**10.**[^key-554ba51832c51d1c204e1765974c62d3] In section 229 (advice and information), after subsection (1) insert—
+**10.**[^c-554ba51832c51d1c204e1765974c62d3] In section 229 (advice and information), after subsection (1) insert—
 
 > (1A) As soon as is reasonably practicable after the commencement of Schedule 5 to the Consumer Rights Act 2015 (investigatory powers etc.) the CMA must prepare and publish advice and information with a view to—
 >
@@ -219,22 +219,22 @@ Section 79
 
 ## Annotations
 
-[^key-b1e0120ea03135088acda9a7704f47d4]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/1) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-b1e0120ea03135088acda9a7704f47d4]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/1) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-2d888a8b13e398a0ce3e3b0b08b0c88d]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/2) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-2d888a8b13e398a0ce3e3b0b08b0c88d]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/2) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-446384537559cf5869a4b5a7eec40ea5]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/3) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-446384537559cf5869a4b5a7eec40ea5]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/3) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-7d81bf01706ea1b6b9835cd5b3121134]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/4) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-7d81bf01706ea1b6b9835cd5b3121134]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/4) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-0ba6d5ec38ebc32f13f93c5262e1115b]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/5) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-0ba6d5ec38ebc32f13f93c5262e1115b]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/5) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-2a1c7c0687eb5c4df1e93952f6a6d578]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/6) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-2a1c7c0687eb5c4df1e93952f6a6d578]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/6) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-3d1473f7c6ad8daf6ea6d226044449eb]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/7) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-3d1473f7c6ad8daf6ea6d226044449eb]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/7) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-9f8f85e29670af10f84d2c43835bad49]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/8) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-9f8f85e29670af10f84d2c43835bad49]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/8) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-555616806900b3f862c41158675d336e]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/9) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-555616806900b3f862c41158675d336e]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/9) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-554ba51832c51d1c204e1765974c62d3]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/10) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-554ba51832c51d1c204e1765974c62d3]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7/paragraph/10) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)

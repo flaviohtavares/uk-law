@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.4. Applications for interdict[^key-6c6c826670df13fb2a5197699bc23c76]
+## 3.9.4. Applications for interdict[^c-6c6c826670df13fb2a5197699bc23c76]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c6c826670df13fb2a5197699bc23c76]: Commencement: Rule 3.9.4 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-6c6c826670df13fb2a5197699bc23c76]: Commencement: Rule 3.9.4 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

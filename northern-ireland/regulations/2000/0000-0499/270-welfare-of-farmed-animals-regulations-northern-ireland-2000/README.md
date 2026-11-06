@@ -31,7 +31,7 @@ summary: ''
 
 WELFARE OF ANIMALS
 
-Welfare of Farmed Animals Regulations (Northern Ireland) 2000 (revoked)[^key-3823bfdeaa573ad722ab877e4278600a]
+Welfare of Farmed Animals Regulations (Northern Ireland) 2000 (revoked)[^c-3823bfdeaa573ad722ab877e4278600a]
 
 Made
 
@@ -41,7 +41,7 @@ Coming into operation
 
 16th October 2000
 
-[^key-3823bfdeaa573ad722ab877e4278600a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3823bfdeaa573ad722ab877e4278600a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -81,14 +81,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-3823bfdeaa573ad722ab877e4278600a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3823bfdeaa573ad722ab877e4278600a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-3823bfdeaa573ad722ab877e4278600a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3823bfdeaa573ad722ab877e4278600a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3823bfdeaa573ad722ab877e4278600a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/270) revoked (2.4.2012) by [Welfare of Farmed Animals Regulations (Northern Ireland) 2012 (S.R. 2012/156)](https://www.legislation.gov.uk/nisr/2012/156), [regs. 1](https://www.legislation.gov.uk/nisr/2012/156/regulation/1), [8](https://www.legislation.gov.uk/nisr/2012/156/regulation/8)
+[^c-3823bfdeaa573ad722ab877e4278600a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/270) revoked (2.4.2012) by [Welfare of Farmed Animals Regulations (Northern Ireland) 2012 (S.R. 2012/156)](https://www.legislation.gov.uk/nisr/2012/156), [regs. 1](https://www.legislation.gov.uk/nisr/2012/156/regulation/1), [8](https://www.legislation.gov.uk/nisr/2012/156/regulation/8)

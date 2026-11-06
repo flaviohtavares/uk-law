@@ -179,12 +179,12 @@ summary: ''
 
 .
 
-(2)[^key-eae46ba147e73e83795b1616efa8bfbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-eae46ba147e73e83795b1616efa8bfbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-eae46ba147e73e83795b1616efa8bfbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-eae46ba147e73e83795b1616efa8bfbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The amendments made by this section have effect in relation to chargeable gains accruing on any disposal that is made on or after 5th December 2005.
 
 ## Annotations
 
-[^key-eae46ba147e73e83795b1616efa8bfbc]: Textual amendment: [S. 71(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/71/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/71/3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-eae46ba147e73e83795b1616efa8bfbc]: Textual amendment: [S. 71(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/71/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/71/3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

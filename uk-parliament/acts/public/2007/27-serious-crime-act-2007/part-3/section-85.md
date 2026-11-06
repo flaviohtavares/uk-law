@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Disclosure of information by Revenue and Customs[^key-7b6737b5991ba10b81c7f318c92e777c]
+## 85. Disclosure of information by Revenue and Customs[^c-7b6737b5991ba10b81c7f318c92e777c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,8 +53,8 @@ section 19 of the 2005 Act (wrongful disclosure) applies in relation to that dis
 
 (8) Nothing in this section authorises any disclosure of information which—
 
-- (a) contravenes the data protection legislation[^key-9adcef59d5175505febeeae9a56f05de]; or
-- (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^key-8589464da0fd5acde047adbf7dbaeb77].
+- (a) contravenes the data protection legislation[^c-9adcef59d5175505febeeae9a56f05de]; or
+- (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^c-8589464da0fd5acde047adbf7dbaeb77].
 
 (9) In this section—
 
@@ -62,7 +62,7 @@ section 19 of the 2005 Act (wrongful disclosure) applies in relation to that dis
 - “**assets**” means property of any description, wherever situated;
 - “**civil proceedings**” means civil proceedings of whatever nature and whether brought in the United Kingdom or elsewhere;
 - “**Commissioners of Revenue and Customs**” means the Commissioners for Her Majesty's Revenue and Customs;
-- “[^key-fc53adb338ec12856daa8c65be24b2f4]**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+- “[^c-fc53adb338ec12856daa8c65be24b2f4]**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 - “**enforcement purposes**”, in relation to the proceeds of crime, means with a view to—
   - (a) recovering, forfeiting or freezing assets constituting proceeds of crime; or
   - (b) otherwise depriving persons (to any extent) of, or of access to, such assets or the benefit of such assets;
@@ -75,10 +75,10 @@ section 19 of the 2005 Act (wrongful disclosure) applies in relation to that dis
 
 ## Annotations
 
-[^key-7b6737b5991ba10b81c7f318c92e777c]: Commencement: S. 85 in force at 15.2.2008 by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/219/article/2/a)
+[^c-7b6737b5991ba10b81c7f318c92e777c]: Commencement: S. 85 in force at 15.2.2008 by [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/219/article/2/a)
 
-[^key-9adcef59d5175505febeeae9a56f05de]: Textual amendment: Words in s. 85(8)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 146(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/146/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-9adcef59d5175505febeeae9a56f05de]: Textual amendment: Words in s. 85(8)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 146(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/146/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-8589464da0fd5acde047adbf7dbaeb77]: Textual amendment: Words in s. 85(8)(b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 19(3)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/19/3) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-8589464da0fd5acde047adbf7dbaeb77]: Textual amendment: Words in s. 85(8)(b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 19(3)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/19/3) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
 
-[^key-fc53adb338ec12856daa8c65be24b2f4]: Textual amendment: Words in s. 85(9) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 146(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/146/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-fc53adb338ec12856daa8c65be24b2f4]: Textual amendment: Words in s. 85(9) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 146(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/146/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

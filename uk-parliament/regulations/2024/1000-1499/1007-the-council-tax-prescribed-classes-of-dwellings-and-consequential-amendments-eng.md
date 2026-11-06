@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 11A(1) and (4), 11B(2) and (3), 11D(1) and (2), 31B(3) to (5), 34(4), 42B(3) to (5), 45(4) and (5), 48(5) and (6), 52ZX(7) and (8) and 113(1) and (2) of, and paragraphs 1(1), 2(4)(e) and 4 of Schedule 2 to, the Local Government Finance Act 1992[^f00001].
 
-## 1. Citation, commencement and extent[^key-297bc0bd99bcd7e9a0fd1d4b62315600]
+## 1. Citation, commencement and extent[^c-297bc0bd99bcd7e9a0fd1d4b62315600]
 
 (1) These Regulations may be cited as the Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 and come into force on 1st November 2024.
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Amendment of the Council Tax (Prescribed Classes of Dwellings) (England) Regulations 2003[^key-a21e6d3df8c8f9f9281d26e97eabeae4]
+## 2. Amendment of the Council Tax (Prescribed Classes of Dwellings) (England) Regulations 2003[^c-a21e6d3df8c8f9f9281d26e97eabeae4]
 
 (1) The Council Tax (Prescribed Classes of Dwellings) (England) Regulations 2003[^f00002] are amended in accordance with paragraphs (2) to (5).
 
@@ -185,11 +185,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 .
 
-## 3. Amendment of the Council Tax (Administration and Enforcement) Regulations 1992[^key-2679ce1d3f7ef309e9159364f2b3b012]
+## 3. Amendment of the Council Tax (Administration and Enforcement) Regulations 1992[^c-2679ce1d3f7ef309e9159364f2b3b012]
 
 In regulation 1(2) of the Council Tax (Administration and Enforcement) Regulations 1992[^f00008] (citation, commencement and interpretation), in the definition of “premium” after “11B(1)” insert “or 11C(1)”.
 
-## 4. Amendment of the Council Tax (Demand Notices) (England) Regulations 2011[^key-591bdb64a2c0b50d0a37119bbf9d3833]
+## 4. Amendment of the Council Tax (Demand Notices) (England) Regulations 2011[^c-591bdb64a2c0b50d0a37119bbf9d3833]
 
 In paragraph 18 of Schedule 1 to the Council Tax (Demand Notices) (England) Regulations 2011[^f00009] (matters to be contained in demand notices)—
 
@@ -200,7 +200,7 @@ In paragraph 18 of Schedule 1 to the Council Tax (Demand Notices) (England) Regu
 
   .
 
-## 5. Amendment of the Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012[^key-fb628e1376705f3f3178392b03931363]
+## 5. Amendment of the Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012[^c-fb628e1376705f3f3178392b03931363]
 
 In regulation 1(4) of the Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012[^f00010] (citation, commencement, application and interpretation), in the definition of “a relevant percentage” after “11B” insert “or 11C”.
 
@@ -244,9 +244,9 @@ A full impact assessment has not been produced for this instrument because it am
 
 [^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Section 11A was inserted by section 75(1) of the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26). Section 11B was inserted by section 12 of the Local Government Finance Act [2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17) and amended by section 2 of the Rating (Property in Common Occupation) and Council Tax (Empty Dwellings) Act [2018 (c. 25)](https://www.legislation.gov.uk/ukpga/2018/25) and by section 79 of the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55). Section 11D was inserted by section 80 of the Levelling-up and Regeneration Act 2023. Section 31B was inserted by section 74, section 42B by section 75 and section 52ZX by section 72(1) of, and Schedule 5 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20). Paragraph 4 of Schedule 2 was amended by section 12 of the Local Government Finance Act 2012.
 
-[^key-297bc0bd99bcd7e9a0fd1d4b62315600]: Commencement: Reg. 1 in force at 1.11.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1)
+[^c-297bc0bd99bcd7e9a0fd1d4b62315600]: Commencement: Reg. 1 in force at 1.11.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1)
 
-[^key-a21e6d3df8c8f9f9281d26e97eabeae4]: Commencement: Reg. 2 in force at 1.11.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1)
+[^c-a21e6d3df8c8f9f9281d26e97eabeae4]: Commencement: Reg. 2 in force at 1.11.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2003/3011](https://www.legislation.gov.uk/uksi/2003/3011), amended by [S.I. 2004/926](https://www.legislation.gov.uk/uksi/2004/926), [2005/416](https://www.legislation.gov.uk/uksi/2005/416), [2005/2866](https://www.legislation.gov.uk/uksi/2005/2866), [2012/2964](https://www.legislation.gov.uk/uksi/2012/2964) and [2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).
 
@@ -260,14 +260,14 @@ A full impact assessment has not been produced for this instrument because it am
 
 [^f00007]: Footnote: [S.I. 1992/558](https://www.legislation.gov.uk/uksi/1992/558). Class F was substituted by [S.I. 1994/539](https://www.legislation.gov.uk/uksi/1994/539).
 
-[^key-2679ce1d3f7ef309e9159364f2b3b012]: Commencement: Reg. 3 in force at 1.11.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1)
+[^c-2679ce1d3f7ef309e9159364f2b3b012]: Commencement: Reg. 3 in force at 1.11.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1992/613](https://www.legislation.gov.uk/uksi/1992/613). Relevant amendments were made by [S.I. 2012/3086](https://www.legislation.gov.uk/uksi/2012/3086).
 
-[^key-591bdb64a2c0b50d0a37119bbf9d3833]: Commencement: Reg. 4 in force at 1.11.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1)
+[^c-591bdb64a2c0b50d0a37119bbf9d3833]: Commencement: Reg. 4 in force at 1.11.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2011/3038](https://www.legislation.gov.uk/uksi/2011/3038). Relevant amendments were made by [S.I. 2012/3087](https://www.legislation.gov.uk/uksi/2012/3087).
 
-[^key-fb628e1376705f3f3178392b03931363]: Commencement: Reg. 5 in force at 1.11.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1)
+[^c-fb628e1376705f3f3178392b03931363]: Commencement: Reg. 5 in force at 1.11.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2012/2914](https://www.legislation.gov.uk/uksi/2012/2914).

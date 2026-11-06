@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Interpretation of Chapter[^key-5b27b462b04691e029d164b6a0021b98]
+## 35. Interpretation of Chapter[^c-5b27b462b04691e029d164b6a0021b98]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b27b462b04691e029d164b6a0021b98]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/19/section/35) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-5b27b462b04691e029d164b6a0021b98]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/19/section/35) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

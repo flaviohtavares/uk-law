@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 88. Power to make regulations[^key-e19073cb45ce995828e7004bcd4d097b]
+## Article 88. Power to make regulations[^c-e19073cb45ce995828e7004bcd4d097b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The appropriate authority may make regulations laying down rules for the uniform
 
 ## Annotations
 
-[^key-e19073cb45ce995828e7004bcd4d097b]: Textual amendment: [Art. 88](https://www.legislation.gov.uk/eur/2013/1306/article/88) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [22](https://www.legislation.gov.uk/uksi/2019/748/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e19073cb45ce995828e7004bcd4d097b]: Textual amendment: [Art. 88](https://www.legislation.gov.uk/eur/2013/1306/article/88) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 (S.I. 2019/748)](https://www.legislation.gov.uk/uksi/2019/748), [regs. 1](https://www.legislation.gov.uk/uksi/2019/748/regulation/1), [22](https://www.legislation.gov.uk/uksi/2019/748/regulation/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

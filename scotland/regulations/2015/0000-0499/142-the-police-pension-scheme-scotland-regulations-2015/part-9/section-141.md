@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 141. Guaranteed minimum pensions for surviving spouses and civil partners[^key-f446327bbb88acb839c72d1caa084823]
+## 141. Guaranteed minimum pensions for surviving spouses and civil partners[^c-f446327bbb88acb839c72d1caa084823]
 
 *Extent: S*
 
@@ -38,12 +38,12 @@ summary: ''
 (7) Paragraphs (5) and (6) do not apply to a pension that is—
 
 - (a) forfeited as a result of a conviction for treason; or
-- (b) forfeited under regulation 201 (forfeiture: offences committed by members) where the relevant offence within the meaning of that regulation is an offence under the Official Secrets Acts 1911 to 1989[^f00060] or an applicable offence under the National Security Act 2023[^key-ed8f9e5903b7ba3d97311f2a92b493aa].
+- (b) forfeited under regulation 201 (forfeiture: offences committed by members) where the relevant offence within the meaning of that regulation is an offence under the Official Secrets Acts 1911 to 1989[^f00060] or an applicable offence under the National Security Act 2023[^c-ed8f9e5903b7ba3d97311f2a92b493aa].
 
 ## Annotations
 
-[^key-f446327bbb88acb839c72d1caa084823]: Commencement: Reg. 141 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-f446327bbb88acb839c72d1caa084823]: Commencement: Reg. 141 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00060]: Footnote: [1989 c.6](https://www.legislation.gov.uk/ukpga/1989/6); see section 16(2) for the meaning of “Official Secrets Acts 1911 to 1989”.
 
-[^key-ed8f9e5903b7ba3d97311f2a92b493aa]: Textual amendment: Words in [reg. 141(7)(b)](https://www.legislation.gov.uk/ssi/2015/142/regulation/141/7/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 52(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/52/3)
+[^c-ed8f9e5903b7ba3d97311f2a92b493aa]: Textual amendment: Words in [reg. 141(7)(b)](https://www.legislation.gov.uk/ssi/2015/142/regulation/141/7/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 52(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/52/3)

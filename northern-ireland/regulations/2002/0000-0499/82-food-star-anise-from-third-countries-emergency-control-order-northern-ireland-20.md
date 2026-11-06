@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Food (Star Anise from Third Countries) (Emergency Control) Order (Northern Ireland) 2002 (revoked)[^key-a0ca2ea3b9fe09f6b1f28091f149cb81]
+Food (Star Anise from Third Countries) (Emergency Control) Order (Northern Ireland) 2002 (revoked)[^c-a0ca2ea3b9fe09f6b1f28091f149cb81]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 7th March 2002
 
-[^key-a0ca2ea3b9fe09f6b1f28091f149cb81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0ca2ea3b9fe09f6b1f28091f149cb81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a0ca2ea3b9fe09f6b1f28091f149cb81]
+## 1. Citation and commencement[^c-a0ca2ea3b9fe09f6b1f28091f149cb81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a0ca2ea3b9fe09f6b1f28091f149cb81]
+## 2. Interpretation[^c-a0ca2ea3b9fe09f6b1f28091f149cb81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibitions of import[^key-a0ca2ea3b9fe09f6b1f28091f149cb81]
+## 3. Prohibitions of import[^c-a0ca2ea3b9fe09f6b1f28091f149cb81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-a0ca2ea3b9fe09f6b1f28091f149cb81]
+## 4. Enforcement[^c-a0ca2ea3b9fe09f6b1f28091f149cb81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the 1991 Order[^key-a0ca2ea3b9fe09f6b1f28091f149cb81]
+## 5. Application of various provisions of the 1991 Order[^c-a0ca2ea3b9fe09f6b1f28091f149cb81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0ca2ea3b9fe09f6b1f28091f149cb81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0ca2ea3b9fe09f6b1f28091f149cb81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0ca2ea3b9fe09f6b1f28091f149cb81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0ca2ea3b9fe09f6b1f28091f149cb81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a0ca2ea3b9fe09f6b1f28091f149cb81]: Textual amendment: Order revoked (16.9.2003) by [Food (Star Anise from Third Countries) (Emergency Control) (Revocation) Order (Northern Ireland) 2003 (S.R. 2003/406)](https://www.legislation.gov.uk/nisr/2003/406), [arts. 1](https://www.legislation.gov.uk/nisr/2003/406/article/1), [2](https://www.legislation.gov.uk/nisr/2003/406/article/2)
+[^c-a0ca2ea3b9fe09f6b1f28091f149cb81]: Textual amendment: Order revoked (16.9.2003) by [Food (Star Anise from Third Countries) (Emergency Control) (Revocation) Order (Northern Ireland) 2003 (S.R. 2003/406)](https://www.legislation.gov.uk/nisr/2003/406), [arts. 1](https://www.legislation.gov.uk/nisr/2003/406/article/1), [2](https://www.legislation.gov.uk/nisr/2003/406/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Trust special administrators[^key-0c60238e675ca76fa0681a0072f085e4][^key-b67440107d93995a71b9b6064c74cf45]
+## 70. Trust special administrators[^c-0c60238e675ca76fa0681a0072f085e4][^c-b67440107d93995a71b9b6064c74cf45]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 8 contains amendments to Chapter 5A of the National Health Service Act 
 
 ## Annotations
 
-[^key-0c60238e675ca76fa0681a0072f085e4]: Commencement: S. 70 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-0c60238e675ca76fa0681a0072f085e4]: Commencement: S. 70 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-b67440107d93995a71b9b6064c74cf45]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2022/31/section/70) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b67440107d93995a71b9b6064c74cf45]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2022/31/section/70) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

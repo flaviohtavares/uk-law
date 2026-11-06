@@ -44,7 +44,7 @@ any constable may at any time not later than one month after the date of the con
 
 (3) Any constable may arrest without warrant a person who has failed to comply with a requirement under paragraph (1).
 
-(4)[^key-63b36e9e4a55ffda9bdeff3980d948a2] The Department of Justice may by regulations make provision for recording—
+(4)[^c-63b36e9e4a55ffda9bdeff3980d948a2] The Department of Justice may by regulations make provision for recording—
 
 - (a) convictions for such offences as are specified in the regulations (“recordable offences”);
 - (b) cautions given in respect of recordable offences;
@@ -60,4 +60,4 @@ any constable may at any time not later than one month after the date of the con
 
 [^c20413301]: Textual amendment: Art. 29(1A)(1B) inserted (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [16(2)](https://www.legislation.gov.uk/nisi/2007/288/article/16/2)
 
-[^key-63b36e9e4a55ffda9bdeff3980d948a2]: Textual amendment: Art. 29(4)(5) substituted for art. 29(4) (2.11.2015) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 46](https://www.legislation.gov.uk/nia/2015/9/section/46), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(h)](https://www.legislation.gov.uk/nisr/2015/358/article/2/h)
+[^c-63b36e9e4a55ffda9bdeff3980d948a2]: Textual amendment: Art. 29(4)(5) substituted for art. 29(4) (2.11.2015) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 46](https://www.legislation.gov.uk/nia/2015/9/section/46), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(h)](https://www.legislation.gov.uk/nisr/2015/358/article/2/h)

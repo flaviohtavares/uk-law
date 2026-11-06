@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Using best endeavours to secure special educational provision[^key-780c711fe1207cb8a114d97bca61e934]
+## 66. Using best endeavours to secure special educational provision[^c-780c711fe1207cb8a114d97bca61e934]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-780c711fe1207cb8a114d97bca61e934]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2014/6/section/66) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-780c711fe1207cb8a114d97bca61e934]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2014/6/section/66) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**23.**[^key-11031b07f911b8a19026c66609f14b43] In rule 56.2, for subparagraph (1) substitute—
+**23.**[^c-11031b07f911b8a19026c66609f14b43] In rule 56.2, for subparagraph (1) substitute—
 
 > (1) In the County Court—
 >
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11031b07f911b8a19026c66609f14b43]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2014/407/rule/23) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-11031b07f911b8a19026c66609f14b43]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2014/407/rule/23) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

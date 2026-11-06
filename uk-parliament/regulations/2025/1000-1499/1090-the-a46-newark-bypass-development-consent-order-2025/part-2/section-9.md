@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Existing powers and duties of the undertaker[^key-815e863bdec0402f321d8495a5045660]
+## 9. Existing powers and duties of the undertaker[^c-815e863bdec0402f321d8495a5045660]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Except as expressly provided, nothing in this Order is to prejudice the operatio
 
 ## Annotations
 
-[^key-815e863bdec0402f321d8495a5045660]: Commencement: Art. 9 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-815e863bdec0402f321d8495a5045660]: Commencement: Art. 9 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00037]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596).

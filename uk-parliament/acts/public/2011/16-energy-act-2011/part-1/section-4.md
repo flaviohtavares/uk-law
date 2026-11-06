@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Assessment of property etc[^key-64f7cf9660660eb011f8f5f68638e243][^key-93c1d69565e534460d58c76e1abf9093]
+## 4. Assessment of property etc[^c-64f7cf9660660eb011f8f5f68638e243][^c-93c1d69565e534460d58c76e1abf9093]
 
 *Extent: E+W+S*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64f7cf9660660eb011f8f5f68638e243]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/16/section/4) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
+[^c-64f7cf9660660eb011f8f5f68638e243]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/16/section/4) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
 
-[^key-93c1d69565e534460d58c76e1abf9093]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/16/section/4) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/125/article/2/b)
+[^c-93c1d69565e534460d58c76e1abf9093]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/16/section/4) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/125/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.9. Application to adduce evidence[^key-be1c165a7ec6c7124f36a1cccb9a7890]
+## 5.9. Application to adduce evidence[^c-be1c165a7ec6c7124f36a1cccb9a7890]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be1c165a7ec6c7124f36a1cccb9a7890]: Commencement: Rule 5.9 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-be1c165a7ec6c7124f36a1cccb9a7890]: Commencement: Rule 5.9 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

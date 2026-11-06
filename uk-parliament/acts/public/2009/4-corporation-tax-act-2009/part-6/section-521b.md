@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 521B. Application of Part 5 to certain shares as rights under creditor relationship[^key-596eba3b2e03b2e5eb5b680e98204f9d]
+## 521B. Application of Part 5 to certain shares as rights under creditor relationship[^c-596eba3b2e03b2e5eb5b680e98204f9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-596eba3b2e03b2e5eb5b680e98204f9d]: Textual amendment: Pt. 6 Ch. 6A inserted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/4)[12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)
+[^c-596eba3b2e03b2e5eb5b680e98204f9d]: Textual amendment: Pt. 6 Ch. 6A inserted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/4)[12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)

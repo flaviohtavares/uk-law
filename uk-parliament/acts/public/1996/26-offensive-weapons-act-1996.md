@@ -41,7 +41,7 @@ An Act to make provision about persons having knives, other articles which have 
 
 *Extent: E+W+S*
 
-(1)[^key-27ebe92ecb08ca5e7515b862c2704e4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-27ebe92ecb08ca5e7515b862c2704e4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 50(3) of the [^c833863]Criminal Law (Consolidation) (Scotland) Act 1995 (arrest without warrant), after “section 49(1)” there is inserted “ or section 49A(1) or (2) ”.
 
@@ -159,7 +159,7 @@ An Act to make provision about persons having knives, other articles which have 
 
 (4)[^c833876] Subsections (1) to (3) above shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint.
 
-## 5. Meaning of offensive weapon: Scotland[^key-3541725206563a0a1087af5ae9563c04]
+## 5. Meaning of offensive weapon: Scotland[^c-3541725206563a0a1087af5ae9563c04]
 
 *Extent: E+W+S*
 
@@ -205,7 +205,7 @@ An Act to make provision about persons having knives, other articles which have 
 
 [^c833859]: Extent: For extent of Act see [s. 7(2)](https://www.legislation.gov.uk/ukpga/1996/26/section/7/2).
 
-[^key-27ebe92ecb08ca5e7515b862c2704e4d]: Textual amendment: S. 1(1) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); S.I. 2005/3495, art. 2(1)(u)(xxxix)
+[^c-27ebe92ecb08ca5e7515b862c2704e4d]: Textual amendment: S. 1(1) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); S.I. 2005/3495, art. 2(1)(u)(xxxix)
 
 [^c833863]: Marginal citation: [1995 c. 39](https://www.legislation.gov.uk/ukpga/1995/39).
 
@@ -235,7 +235,7 @@ An Act to make provision about persons having knives, other articles which have 
 
 [^c833876]: Subordinate legislation: [S. 4(4)](https://www.legislation.gov.uk/ukpga/1996/26/section/4/4) power fully exercised (4.8.1996): 1.9.1996 appointed by [S.I. 1996/2071](https://www.legislation.gov.uk/uksi/1996/2071), [art. 2](https://www.legislation.gov.uk/uksi/1996/2071/article/2)
 
-[^key-3541725206563a0a1087af5ae9563c04]: Textual amendment: S. 5 repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 63](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/63); S.S.I. 2011/178, art. 2, Sch.
+[^c-3541725206563a0a1087af5ae9563c04]: Textual amendment: S. 5 repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 63](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/63); S.S.I. 2011/178, art. 2, Sch.
 
 [^c833878]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/1996/26/section/6) wholly in force; [s. 6(3)](https://www.legislation.gov.uk/ukpga/1996/26/section/6/3) in force at Royal Assent see [s. 6(3)](https://www.legislation.gov.uk/ukpga/1996/26/section/6/3); [s. 6(1)(2)](https://www.legislation.gov.uk/ukpga/1996/26/section/6/1/2) in force at 1.1.1997 by [S.I. 1996/3063](https://www.legislation.gov.uk/uksi/1996/3063), [art. 2](https://www.legislation.gov.uk/uksi/1996/3063/article/2)
 

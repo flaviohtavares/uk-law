@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 644A. Health and employment insurance payments[^key-87382306a0ae23a403a2870544ef68a7]
+## 644A. Health and employment insurance payments[^c-87382306a0ae23a403a2870544ef68a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,12 +28,12 @@ summary: ''
 (2) Condition A is that the payments are made—
 
 - (a) to a person (“**the pensioner**”) who made payments or contributions in respect of premiums under an insurance policy which another person took out wholly or partly for the pensioner's benefit, or
-- (b) to the pensioner's spouse or civil partner[^key-a13fb8c4037f24c0f4064e98095f5cbb] .
+- (b) to the pensioner's spouse or civil partner[^c-a13fb8c4037f24c0f4064e98095f5cbb] .
 
 (3) Condition B is that the payments are attributable on a just and reasonable basis to the payments or contributions in respect of premiums.
 
 ## Annotations
 
-[^key-87382306a0ae23a403a2870544ef68a7]: Textual amendment: S. 644A inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 610](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/610) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-87382306a0ae23a403a2870544ef68a7]: Textual amendment: S. 644A inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 610](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/610) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-a13fb8c4037f24c0f4064e98095f5cbb]: Textual amendment: Words in s. 644A(2)(b) substituted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [161](https://www.legislation.gov.uk/uksi/2005/3229/regulation/161)
+[^c-a13fb8c4037f24c0f4064e98095f5cbb]: Textual amendment: Words in s. 644A(2)(b) substituted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [161](https://www.legislation.gov.uk/uksi/2005/3229/regulation/161)

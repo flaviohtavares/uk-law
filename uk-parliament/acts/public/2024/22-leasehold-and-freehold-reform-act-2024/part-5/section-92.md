@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Criteria for determining whether to make appointment order[^key-cc4936b368f8ca693a4c613c2c015fa1]
+## 92. Criteria for determining whether to make appointment order[^c-cc4936b368f8ca693a4c613c2c015fa1]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc4936b368f8ca693a4c613c2c015fa1]: Commencement: S. 92 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-cc4936b368f8ca693a4c613c2c015fa1]: Commencement: S. 92 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

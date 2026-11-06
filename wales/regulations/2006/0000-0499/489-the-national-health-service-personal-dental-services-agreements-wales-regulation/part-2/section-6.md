@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Reasons[^key-bf1a896d71d96ed2e3aec4b638dc3145]
+## 6. Reasons[^c-bf1a896d71d96ed2e3aec4b638dc3145]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf1a896d71d96ed2e3aec4b638dc3145]: Commencement: Reg. 6 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-bf1a896d71d96ed2e3aec4b638dc3145]: Commencement: Reg. 6 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Her Majesty's Inspectorate of Court Administration[^key-4f4aa5e87d4c1022cc758d74a70b504e]
+## 32. Her Majesty's Inspectorate of Court Administration[^c-4f4aa5e87d4c1022cc758d74a70b504e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f4aa5e87d4c1022cc758d74a70b504e]: Textual amendment: S. 32 repealed (18.9.2012) by [The Public Bodies (Abolition of Her Majesty’s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2012/2401/schedule/1/paragraph/26) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
+[^c-4f4aa5e87d4c1022cc758d74a70b504e]: Textual amendment: S. 32 repealed (18.9.2012) by [The Public Bodies (Abolition of Her Majesty’s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2012/2401/schedule/1/paragraph/26) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))

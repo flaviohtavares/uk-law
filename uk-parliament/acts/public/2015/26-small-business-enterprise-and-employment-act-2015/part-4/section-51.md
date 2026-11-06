@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Arbitration: supplementary[^key-467026f5e45b110e982120b59ebdc883][^key-95e1986490c794fcf4ee776fc37615f9]
+## 51. Arbitration: supplementary[^c-467026f5e45b110e982120b59ebdc883][^c-95e1986490c794fcf4ee776fc37615f9]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-467026f5e45b110e982120b59ebdc883]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2015/26/section/51) in force at 6.4.2016 for specified purposes by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/4/c)
+[^c-467026f5e45b110e982120b59ebdc883]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2015/26/section/51) in force at 6.4.2016 for specified purposes by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/4/c)
 
-[^key-95e1986490c794fcf4ee776fc37615f9]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2015/26/section/51) in force at 21.7.2016 in so far as not already in force by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-95e1986490c794fcf4ee776fc37615f9]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2015/26/section/51) in force at 21.7.2016 in so far as not already in force by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

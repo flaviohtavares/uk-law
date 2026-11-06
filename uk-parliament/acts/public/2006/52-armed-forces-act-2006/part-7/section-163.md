@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Court Martial rules[^key-529cab260bae2e4b9052c0c80b62dfd1][^key-7d40a7a922b5ed2cff9fe5ec817909cc]
+## 163. Court Martial rules[^c-529cab260bae2e4b9052c0c80b62dfd1][^c-7d40a7a922b5ed2cff9fe5ec817909cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-529cab260bae2e4b9052c0c80b62dfd1]: Commencement: S. 163 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-529cab260bae2e4b9052c0c80b62dfd1]: Commencement: S. 163 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-7d40a7a922b5ed2cff9fe5ec817909cc]: Commencement: S. 163 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-7d40a7a922b5ed2cff9fe5ec817909cc]: Commencement: S. 163 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

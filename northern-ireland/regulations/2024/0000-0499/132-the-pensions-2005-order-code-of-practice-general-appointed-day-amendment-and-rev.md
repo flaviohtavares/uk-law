@@ -37,19 +37,19 @@ Made
 
 The Department for Communities[^f00001] makes the following Order in exercise of the powers conferred by Article 86(7) of the Pensions (Northern Ireland) Order 2005[^f00002].
 
-## 1. Citation[^key-d550dcc58bedf446cda097eb156136e7]
+## 1. Citation[^c-d550dcc58bedf446cda097eb156136e7]
 
 This Order may be cited as the Pensions (2005 Order) (Code of Practice) (General) (Appointed Day, Amendment and Revocations) Order (Northern Ireland) 2024.
 
-## 2. Appointed day[^key-218989682e220037f929e886b9e73793]
+## 2. Appointed day[^c-218989682e220037f929e886b9e73793]
 
 The day appointed for the purposes of Article 86(7) of the Pensions (Northern Ireland) Order 2005 (procedure for issue and publication of codes of practice) for the coming into operation of the Pensions Regulator General code of practice is 5th July 2024.
 
-## 3. Amendment of the Pensions (2005 Order) (Commencement No. 3, Appointed Day, Transitional Provisions and Amendment) Order[^key-c597e89917dff75ec96e4e2ea7334ea7]
+## 3. Amendment of the Pensions (2005 Order) (Commencement No. 3, Appointed Day, Transitional Provisions and Amendment) Order[^c-c597e89917dff75ec96e4e2ea7334ea7]
 
 In Article 2 of the Pensions (2005 Order) (Commencement No. 3, Appointed Day, Transitional Provisions and Amendment) Order (Northern Ireland) 2005[^f00003] omit paragraph (1) with effect from 5th July 2024.
 
-## 4. Revocation of earlier Orders[^key-576542c8db9cb8f00a1bb6b31fe5ef46]
+## 4. Revocation of earlier Orders[^c-576542c8db9cb8f00a1bb6b31fe5ef46]
 
 The following Orders are revoked with effect from 5th July 2024—
 
@@ -88,15 +88,15 @@ Article 4 of the Order revokes the eight Appointed Day Orders which brought into
 
 [^f00002]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-d550dcc58bedf446cda097eb156136e7]: Commencement: Art. 1 in operation at 13.6.2024
+[^c-d550dcc58bedf446cda097eb156136e7]: Commencement: Art. 1 in operation at 13.6.2024
 
-[^key-218989682e220037f929e886b9e73793]: Commencement: Art. 2 in operation at 13.6.2024
+[^c-218989682e220037f929e886b9e73793]: Commencement: Art. 2 in operation at 13.6.2024
 
-[^key-c597e89917dff75ec96e4e2ea7334ea7]: Commencement: Art. 3 in operation at 13.6.2024
+[^c-c597e89917dff75ec96e4e2ea7334ea7]: Commencement: Art. 3 in operation at 13.6.2024
 
 [^f00003]: Footnote: [S.R. 2005 No. 192 (C. 14)](https://www.legislation.gov.uk/nisr/2005/192)
 
-[^key-576542c8db9cb8f00a1bb6b31fe5ef46]: Commencement: Art. 4 in operation at 13.6.2024
+[^c-576542c8db9cb8f00a1bb6b31fe5ef46]: Commencement: Art. 4 in operation at 13.6.2024
 
 [^f00004]: Footnote: [S.R. 2006 No. 231](https://www.legislation.gov.uk/nisr/2006/231)
 

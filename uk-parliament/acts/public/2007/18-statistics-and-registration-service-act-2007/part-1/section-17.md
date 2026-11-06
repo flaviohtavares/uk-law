@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Principles and procedures[^key-9a23cc57f7907e590ba649cfd6b2877f]
+## 17. Principles and procedures[^c-9a23cc57f7907e590ba649cfd6b2877f]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ in exercising its functions under sections 12(1) and 14(1).
 
 ## Annotations
 
-[^key-9a23cc57f7907e590ba649cfd6b2877f]: Commencement: S. 17 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-9a23cc57f7907e590ba649cfd6b2877f]: Commencement: S. 17 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

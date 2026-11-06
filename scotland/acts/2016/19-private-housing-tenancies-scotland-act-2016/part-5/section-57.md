@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Wrongful termination by eviction order[^key-f7d80b9ca4922a2682b1dbe2926c76e9]
+## 57. Wrongful termination by eviction order[^c-f7d80b9ca4922a2682b1dbe2926c76e9]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7d80b9ca4922a2682b1dbe2926c76e9]: Commencement: S. 57 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-f7d80b9ca4922a2682b1dbe2926c76e9]: Commencement: S. 57 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

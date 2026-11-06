@@ -22,7 +22,7 @@ summary: ''
 
 Section 129
 
-**1.**[^key-42ea5dbe2c4a714a3b45fb0ee2d14ce4] (1) On the transfer date, the designated property, rights and liabilities that are to be transferred from the Oil and Pipelines Agency (“**the transferor**”) to the Secretary of State (“**the transferee**”) are transferred and vest in accordance with the scheme.
+**1.**[^c-42ea5dbe2c4a714a3b45fb0ee2d14ce4] (1) On the transfer date, the designated property, rights and liabilities that are to be transferred from the Oil and Pipelines Agency (“**the transferor**”) to the Secretary of State (“**the transferee**”) are transferred and vest in accordance with the scheme.
 
 (2) The rights and liabilities that may be transferred by a scheme include those arising under or in connection with a contract of employment.
 
@@ -36,7 +36,7 @@ Section 129
 - “**the transfer date**” means a date specified by a scheme as the date on which the scheme is to have effect;
 - “**TUPE regulations**” means the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246).
 
-**2.**[^key-ec6377da56f2eae33e4b6bac1b578ab3] (1) A scheme may make provision—
+**2.**[^c-ec6377da56f2eae33e4b6bac1b578ab3] (1) A scheme may make provision—
 
 - (a) for anything done by or in relation to the transferor in connection with any property, rights or liabilities transferred by the scheme to be treated as done, or to be continued, by or in relation to the transferee;
 - (b) for references to the transferor in any agreement (whether written or not), instrument or other document relating to any property, rights or liabilities transferred by the scheme to be treated as references to the transferee;
@@ -53,15 +53,15 @@ Section 129
 
 (2) Sub-paragraph (1)(b) does not apply to references in primary legislation or in subordinate legislation.
 
-**3.**[^key-b2ae8a179b6938b85d8f899112d42c3b] For the purposes of this Schedule—
+**3.**[^c-b2ae8a179b6938b85d8f899112d42c3b] For the purposes of this Schedule—
 
 - (a) an individual who holds employment in the civil service is to be treated as employed by virtue of a contract of employment, and
 - (b) the terms of the individual's employment in the civil service are to be regarded as constituting the terms of the contract of employment.
 
 ## Annotations
 
-[^key-42ea5dbe2c4a714a3b45fb0ee2d14ce4]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2013/32/schedule/13/paragraph/1) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/817/article/2/b)
+[^c-42ea5dbe2c4a714a3b45fb0ee2d14ce4]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2013/32/schedule/13/paragraph/1) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/817/article/2/b)
 
-[^key-ec6377da56f2eae33e4b6bac1b578ab3]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2013/32/schedule/13/paragraph/2) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/817/article/2/b)
+[^c-ec6377da56f2eae33e4b6bac1b578ab3]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2013/32/schedule/13/paragraph/2) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/817/article/2/b)
 
-[^key-b2ae8a179b6938b85d8f899112d42c3b]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2013/32/schedule/13/paragraph/3) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/817/article/2/b)
+[^c-b2ae8a179b6938b85d8f899112d42c3b]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2013/32/schedule/13/paragraph/3) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/817/article/2/b)

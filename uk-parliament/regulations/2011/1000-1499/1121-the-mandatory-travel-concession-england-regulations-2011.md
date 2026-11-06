@@ -48,15 +48,15 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## Part 1 — General
 
-### 1. Citation, commencement and cessation[^key-eb517070079bd7894bf680c385c08eb3]
+### 1. Citation, commencement and cessation[^c-eb517070079bd7894bf680c385c08eb3]
 
 (1) These Regulations may be cited as the Mandatory Travel Concession (England) Regulations 2011.
 
 (2) They come into force on 12th May 2011.
 
-(3)[^key-1bf87775e6afdde005082262b589b275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1bf87775e6afdde005082262b589b275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Review[^key-f0e7c1e7c50f1d66e576d765ed3b56b7]
+### 2. Review[^c-f0e7c1e7c50f1d66e576d765ed3b56b7]
 
 (1) Before the end of the review period, the Secretary of State must—
 
@@ -72,7 +72,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) “Review period” means the period of five years beginning with the day on which these Regulations come into force.
 
-### 3. Interpretation[^key-41797961f5e13110dbc043210f326bdd]
+### 3. Interpretation[^c-41797961f5e13110dbc043210f326bdd]
 
 (1) In these Regulations—
 
@@ -94,24 +94,24 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) Any reference in these Regulations to estimates or calculations made by a travel concession authority in relation to reimbursement payments is a reference to estimates or calculations made by the best practical method available to the travel concession authority.
 
-### 4. Application[^key-504e64721fe6870d055d18387f1d3319]
+### 4. Application[^c-504e64721fe6870d055d18387f1d3319]
 
 These Regulations relate to the concession established under section 145A of the Act and apply in relation to England.
 
 ## Part 2 — Arrangements between Operators and Travel Concession Authorities
 
-### 5. Reimbursement arrangements[^key-286f7fa24e5026bd6e226505a89fb77c]
+### 5. Reimbursement arrangements[^c-286f7fa24e5026bd6e226505a89fb77c]
 
 Regulations 6 to 17 apply to the provisions to be included in reimbursement arrangements.
 
-**6.**[^key-af2d5e41f89eb46b1277d95719f92b9d] Subject to regulation 6A, it[^key-1c28e90d867ae336ab2d5fded2aa73c1] must be an objective of a travel concession authority when formulating reimbursement arrangements for an operator to provide that such operator—
+**6.**[^c-af2d5e41f89eb46b1277d95719f92b9d] Subject to regulation 6A, it[^c-1c28e90d867ae336ab2d5fded2aa73c1] must be an objective of a travel concession authority when formulating reimbursement arrangements for an operator to provide that such operator—
 
 - (a) is financially no better and no worse off as a result of providing a concession; and
 - (b) receives appropriate reimbursement for providing concessions to the persons eligible to receive those concessions.
 
-**6A.**[^key-ab178eebf184cf7882c4d5ebc2416eb9] During the period beginning with 24th March 2021 and ending at the end of 5th April 2024[^key-e71214eebf49448ef2b3bb546f421d5d], regulation 6 applies as if the words “no better and” in sub-paragraph (a) were omitted.
+**6A.**[^c-ab178eebf184cf7882c4d5ebc2416eb9] During the period beginning with 24th March 2021 and ending at the end of 5th April 2024[^c-e71214eebf49448ef2b3bb546f421d5d], regulation 6 applies as if the words “no better and” in sub-paragraph (a) were omitted.
 
-**7.**[^key-42a90a13c37a2daf94db20a30ecb570f] (1) The payment periods and payment days must be specified in the reimbursement arrangements and—
+**7.**[^c-42a90a13c37a2daf94db20a30ecb570f] (1) The payment periods and payment days must be specified in the reimbursement arrangements and—
 
 - (a) payment periods must not be longer than three months; and
 - (b) in relation to each payment period, the payment day must not be later than the day which is half way between the first and last days of the payment period (and, in ascertaining the payment day, no account is to be taken of half days).
@@ -133,14 +133,14 @@ Regulations 6 to 17 apply to the provisions to be included in reimbursement arra
 - (a) in the case of a payment due in accordance with paragraph (2), in sufficient time to allow the travel concession authority to form a reasonable estimate of the amount of the payment; or
 - (b) in the case of a payment due in accordance with paragraph (3), in sufficient time to allow the travel concession authority to calculate the amount of the payment.
 
-**8.**[^key-c9ac162208d05a1c7840681db06ec3ed] Subject to regulation 13, when formulating reimbursement arrangements, a travel concession authority may request information from operators which it reasonably considers relevant to assisting it in the formulation and operation of those arrangements, including—
+**8.**[^c-c9ac162208d05a1c7840681db06ec3ed] Subject to regulation 13, when formulating reimbursement arrangements, a travel concession authority may request information from operators which it reasonably considers relevant to assisting it in the formulation and operation of those arrangements, including—
 
 - (a) commercial ticket sales;
 - (b) commercial ticket revenue;
 - (c) concessionary journeys; and
 - (d) average commercial adult fare.
 
-**9.**[^key-1836e174bf717b99bb9ced3c1eea6fc9] (1) Subject to paragraph (4), in relation to each reimbursement arrangement, the travel concession authority must adopt a standard method to be used.
+**9.**[^c-1836e174bf717b99bb9ced3c1eea6fc9] (1) Subject to paragraph (4), in relation to each reimbursement arrangement, the travel concession authority must adopt a standard method to be used.
 
 (2) The standard method must provide for the travel concession authority to take into account any data supplied by an operator who shows that the method by which such data was derived is more appropriate for the calculation of reimbursement payments.
 
@@ -148,9 +148,9 @@ Regulations 6 to 17 apply to the provisions to be included in reimbursement arra
 
 (4) A travel concession authority that has reason to believe that the standard method used by it is inappropriate in relation to the reimbursement of any particular operator may, at its own cost and expense, make provision for a more accurate calculation of the reimbursement in respect of that operator.
 
-**10.**[^key-90fcdb9403af1cbe8f954cb2af523cc9] Provision must be made for a travel concession authority to review the calculations made in accordance with the standard method at least once in each period of 12 months that the relevant reimbursement arrangement is in operation.
+**10.**[^c-90fcdb9403af1cbe8f954cb2af523cc9] Provision must be made for a travel concession authority to review the calculations made in accordance with the standard method at least once in each period of 12 months that the relevant reimbursement arrangement is in operation.
 
-**11.**[^key-ff88e1e2287bf500e2bb623c396e878b] (1) Provision must be made for additional reimbursement payments in any case where the operator demonstrates to the travel concession authority—
+**11.**[^c-ff88e1e2287bf500e2bb623c396e878b] (1) Provision must be made for additional reimbursement payments in any case where the operator demonstrates to the travel concession authority—
 
 - (a) that that operator has necessarily incurred costs in providing services on which concessions are available in order to meet the extra demand created by the availability of those concessions additional to those costs that had been taken into account in the standard method; and
 - (b) that those costs are such that they will not be met by reimbursement payments made in accordance with the standard method during the year in which the costs are incurred or during the three months immediately following the end of that year.
@@ -160,43 +160,43 @@ Regulations 6 to 17 apply to the provisions to be included in reimbursement arra
 - (a) that the operator has supplied any information required in accordance with reimbursement arrangements; and
 - (b) that in doing so it has incurred expenditure which it would not otherwise have incurred.
 
-**12.**[^key-c2d5f7773caccca036d174323d38780e] Any information supplied by an operator to a travel concession authority pursuant to regulation 8 or to reimbursement arrangements must only be used for and in connection with the calculation of reimbursement payments and such information must not be disclosed by the travel concession authority except—
+**12.**[^c-c2d5f7773caccca036d174323d38780e] Any information supplied by an operator to a travel concession authority pursuant to regulation 8 or to reimbursement arrangements must only be used for and in connection with the calculation of reimbursement payments and such information must not be disclosed by the travel concession authority except—
 
 - (a) with the consent in writing of the operator; or
 - (b) to the extent to which the information in question has become public knowledge otherwise than by the act or omission of the travel concession authority.
 
-**13.**[^key-e15a72528a127feed8ff202171158560] Information may not be required on any of the following subjects—
+**13.**[^c-e15a72528a127feed8ff202171158560] Information may not be required on any of the following subjects—
 
 - (a) the cost to the operator of providing any service or services on which concessions are available;
 - (b) the total turnover of the business, or of any part of the business, of an operator; and
 - (c) the annual rate or amount of the profit or loss of that business, or of any part of it.
 
-**14.**[^key-895b19be71e596e42c35c318d9a3362e] A travel concession authority may require an operator to allow the officers, servants or agents of that travel concession authority to have access with reasonable frequency to (including the right to travel free of charge on) the vehicles of the operator on which concessions are available for the purpose of—
+**14.**[^c-895b19be71e596e42c35c318d9a3362e] A travel concession authority may require an operator to allow the officers, servants or agents of that travel concession authority to have access with reasonable frequency to (including the right to travel free of charge on) the vehicles of the operator on which concessions are available for the purpose of—
 
 - (a) surveying or counting or estimating the number of passengers (whether generally or of any particular description) and the fares paid by those passengers; and
 - (b) obtaining information on other matters relating to the journeys made by passengers who are eligible to receive concessions and necessary to the calculation by the travel concession authority of reimbursement payments.
 
-### 15. Change in services and fares[^key-2b0d11ce92fa2ba88f84e85403d48b89]
+### 15. Change in services and fares[^c-2b0d11ce92fa2ba88f84e85403d48b89]
 
 Provision may be made for an operator to inform the travel concession authority of any changes in the services of that operator on which concessions are available, and of any changes in the fares payable by passengers on those services, in either case not later than the day on which the change takes effect.
 
-### 16. Employment of administering agents[^key-c26978dc889deb75d7f8d09e91dec38d]
+### 16. Employment of administering agents[^c-c26978dc889deb75d7f8d09e91dec38d]
 
 A travel concession authority may not employ as its agent for the purposes of the administration of reimbursement arrangements any person who is a holder of a PSV operator’s licence[^f00006].
 
-### 17. General restriction on interference with the manner of providing services[^key-69f98adae093775b3d1dfd8a2ea0919f]
+### 17. General restriction on interference with the manner of providing services[^c-69f98adae093775b3d1dfd8a2ea0919f]
 
 Except where done to give effect to this Part, reimbursement arrangements may not include provisions compliance with which would require the operator to alter the manner in which that operator provides the services on which concessions are available.
 
 ## Part 3 — Notices
 
-### 18. Content of Notices[^key-876db175fb9eb5d439e7109159afc12d]
+### 18. Content of Notices[^c-876db175fb9eb5d439e7109159afc12d]
 
 Notices under section 150(4) of the Act must contain the particulars set out in Schedule 1.
 
-**19.**[^key-5430ed162757f82e5604aa99fc635bef] Notices under section 150(5) of the Act must contain the particulars set out in Schedule 2.
+**19.**[^c-5430ed162757f82e5604aa99fc635bef] Notices under section 150(5) of the Act must contain the particulars set out in Schedule 2.
 
-### 20. Service of notices[^key-9ddad97d54aab170dd0bb1ec49b31f41]
+### 20. Service of notices[^c-9ddad97d54aab170dd0bb1ec49b31f41]
 
 (1) Notices required to be given under sections 150(4) and 150(5) of the Act must be—
 
@@ -214,17 +214,17 @@ Notices under section 150(4) of the Act must contain the particulars set out in 
 
 ## Part 4 — Periods of Notice
 
-### 21. Prescribed notice period[^key-674da5c1546cad60b50bb291aeb96c2f]
+### 21. Prescribed notice period[^c-674da5c1546cad60b50bb291aeb96c2f]
 
 For the purposes of section 150(5) of the Act, the period for giving prior notice of intention to apply to the Secretary of State must not be less than seven days.
 
 ## Part 5 — Applications to the Secretary of State
 
-### 22. Application[^key-b7bd001712af3af766cde5f9174a9368]
+### 22. Application[^c-b7bd001712af3af766cde5f9174a9368]
 
 Regulations 23 to 32 apply to applications to the Secretary of State under section 150(3) of the Act for the modification of reimbursement arrangements.
 
-### 23. Written Statements[^key-2d088db74d4b5fa3cb3435c5aad91151]
+### 23. Written Statements[^c-2d088db74d4b5fa3cb3435c5aad91151]
 
 (1) The applicant must, with the notice required to be given under section 150(4) of the Act, submit to the Secretary of State a written statement of—
 
@@ -233,19 +233,19 @@ Regulations 23 to 32 apply to applications to the Secretary of State under secti
 
 (2) The applicant must, at the same time as submitting the notice and statement to the Secretary of State, send a copy of that notice and of that statement to the travel concession authority.
 
-**24.**[^key-2e7c0634ed4544a458a69ba5386cb71d] (1) The Secretary of State may request from the travel concession authority a written statement of any matters which it considers to be relevant to the application.
+**24.**[^c-2e7c0634ed4544a458a69ba5386cb71d] (1) The Secretary of State may request from the travel concession authority a written statement of any matters which it considers to be relevant to the application.
 
 (2) Subject to regulation 30, the travel concession authority must within 28 days of it having received a request under paragraph (1) submit the written statement to the Secretary of State.
 
 (3) At the same time as it submits the written statement to the Secretary of State, the travel concession authority must send a copy of it to the applicant.
 
-**25.**[^key-17667dee935d423257948cd599804744] (1) Subject to regulation 30, the Secretary of State may, after the travel concession authority has submitted its written statement, request the applicant or the travel concession authority, or both of them, to submit to the Secretary of State such further written statements and documents as the Secretary of State may direct.
+**25.**[^c-17667dee935d423257948cd599804744] (1) Subject to regulation 30, the Secretary of State may, after the travel concession authority has submitted its written statement, request the applicant or the travel concession authority, or both of them, to submit to the Secretary of State such further written statements and documents as the Secretary of State may direct.
 
 (2) Any such further statements and documents must be submitted within such time as the Secretary of State may direct, but such time must not, unless the applicant and the travel concession authority otherwise agree, be less than 14 days commencing with the date of the Secretary of State’s request.
 
 (3) The applicant or the travel concession authority (as the case may be) submitting any further statement or document to the Secretary of State must at the same time send a copy of it to (as appropriate) the travel concession authority or the applicant.
 
-### 26. Hearings and Procedure[^key-f7cd8a221d63d3edc24248e87341a089]
+### 26. Hearings and Procedure[^c-f7cd8a221d63d3edc24248e87341a089]
 
 (1) The Secretary of State may, after the submission of the last written statement or document required under regulations 23 to 25, invite the applicant or the travel concession authority to appear before the Secretary of State.
 
@@ -257,14 +257,14 @@ Regulations 23 to 32 apply to applications to the Secretary of State under secti
 
 (5) A travel concession authority may appear by any officer appointed for that purpose, or be represented by counsel, solicitor or any other person.
 
-**27.**[^key-289487936f7340d15bbba6b4010a8790] If the applicant or the travel concession authority fails—
+**27.**[^c-289487936f7340d15bbba6b4010a8790] If the applicant or the travel concession authority fails—
 
 - (a) to submit any statement or documents within the time specified by the Secretary of State; or
 - (b) to appear before the Secretary of State in response to an invitation from the Secretary of State,
 
 the Secretary of State may nevertheless proceed with the determination of the application.
 
-**28.**[^key-19e961563de7b617dc47bf00ff33a712] (1) Subject to regulation 27, at any hearing the Secretary of State must give to the applicant and the travel concession authority an opportunity—
+**28.**[^c-19e961563de7b617dc47bf00ff33a712] (1) Subject to regulation 27, at any hearing the Secretary of State must give to the applicant and the travel concession authority an opportunity—
 
 - (a) to address the Secretary of State and to amplify the written statement submitted under this Part, to give evidence, to call witnesses, and to put questions to any person giving evidence before the Secretary of State; and
 - (b) to make representations on the evidence (if any) and on the subject matter of the application generally but, where evidence is taken, such opportunity is not to be given before the completion of the taking of the evidence.
@@ -273,7 +273,7 @@ the Secretary of State may nevertheless proceed with the determination of the ap
 
 (3) Except as otherwise provided in this Part, the procedure at any hearing is to be determined at the discretion of the Secretary of State.
 
-**29.**[^key-9ea0b88b4adbc3b1efa86bf6963c16d3] (1) The decision of the Secretary of State, including any decision to increase, decrease or leave unchanged the amount to be paid to an applicant by way of reimbursement, must be recorded in a document signed by or on behalf of the Secretary of State and dated when so signed.
+**29.**[^c-9ea0b88b4adbc3b1efa86bf6963c16d3] (1) The decision of the Secretary of State, including any decision to increase, decrease or leave unchanged the amount to be paid to an applicant by way of reimbursement, must be recorded in a document signed by or on behalf of the Secretary of State and dated when so signed.
 
 (2) Such document must contain a summary of the reasons for the decision of the Secretary of State.
 
@@ -281,15 +281,15 @@ the Secretary of State may nevertheless proceed with the determination of the ap
 
 (4) Except where a decision has been announced at the conclusion of a hearing, the decision is to be treated as having been made on the date on which the copy of the document is sent to the applicant.
 
-**30.**[^key-d13f839fc369186de13d520158fa5274] (1) In this regulation a reference to a “third party” is a reference to a person who is or was an operator but is not the person making the application in question.
+**30.**[^c-d13f839fc369186de13d520158fa5274] (1) In this regulation a reference to a “third party” is a reference to a person who is or was an operator but is not the person making the application in question.
 
 (2) Any statement or document submitted by a travel concession authority, and any statement made on behalf of a travel concession authority appearing before the Secretary of State, must not contain any information relating to the reimbursement of a third party where that information was received by the authority from that third party pursuant to reimbursement arrangements.
 
 (3) Paragraph (2) does not apply where the third party has given consent in writing to the inclusion of the information.
 
-**31.**[^key-4afb2e9ab3eb4bf1714c09a339a5d7d5] When the Secretary of State determines an application, the Secretary of State may, after giving them an opportunity to make representations, require the applicant or the travel concession authority, or both of them, to pay such a sum as the Secretary of State may determine towards the expenses incurred by the Secretary of State in connection with the determination of the application.
+**31.**[^c-4afb2e9ab3eb4bf1714c09a339a5d7d5] When the Secretary of State determines an application, the Secretary of State may, after giving them an opportunity to make representations, require the applicant or the travel concession authority, or both of them, to pay such a sum as the Secretary of State may determine towards the expenses incurred by the Secretary of State in connection with the determination of the application.
 
-**32.**[^key-66545b993f6c6ae3b0e0d15c0961a65a] (1) If the Secretary of State appoints a person to determine an application on behalf of the Secretary of State, the Secretary of State must give notice in writing of the appointment to the applicant and the travel concession authority.
+**32.**[^c-66545b993f6c6ae3b0e0d15c0961a65a] (1) If the Secretary of State appoints a person to determine an application on behalf of the Secretary of State, the Secretary of State must give notice in writing of the appointment to the applicant and the travel concession authority.
 
 (2) If the Secretary of State appoints a person to determine an application on behalf of the Secretary of State, references in regulations 23 to 30 to the Secretary of State must be read, with effect from the date of the appointment, as references to the person so appointed.
 
@@ -307,33 +307,33 @@ Department for Transport
 
 Regulation 18
 
-**1.**[^key-f4bc324a0392d76ebd73af4022adfcf4] The date on which the notice is given.
+**1.**[^c-f4bc324a0392d76ebd73af4022adfcf4] The date on which the notice is given.
 
-**2.**[^key-3bdaddcf339f3674616bdaeedca07740] A statement giving the date on which notice was given to the travel concession authority under section 150(5) of the Act together with a copy of that notice.
+**2.**[^c-3bdaddcf339f3674616bdaeedca07740] A statement giving the date on which notice was given to the travel concession authority under section 150(5) of the Act together with a copy of that notice.
 
-**3.**[^key-95183b195bd44e1e9a3955f5eeec9099] A statement giving the date on which the proposed reimbursement arrangements or proposed variation to the reimbursement arrangements was published by the travel concession authority.
+**3.**[^c-95183b195bd44e1e9a3955f5eeec9099] A statement giving the date on which the proposed reimbursement arrangements or proposed variation to the reimbursement arrangements was published by the travel concession authority.
 
-**4.**[^key-bb21fb6c94beafbc774ea720a3a270d4] A statement giving the date on which the proposed reimbursement arrangements (or proposed variation to the reimbursement arrangements) come into operation.
+**4.**[^c-bb21fb6c94beafbc774ea720a3a270d4] A statement giving the date on which the proposed reimbursement arrangements (or proposed variation to the reimbursement arrangements) come into operation.
 
-**5.**[^key-b62504b708587d8eb6047a150bf07062] As applicable, a copy of the proposed reimbursement arrangements, or proposed variation to the reimbursement arrangements, published by the travel concession authority.
+**5.**[^c-b62504b708587d8eb6047a150bf07062] As applicable, a copy of the proposed reimbursement arrangements, or proposed variation to the reimbursement arrangements, published by the travel concession authority.
 
-**6.**[^key-8401f1fed5463c4efc70dce5fab1a236] The provision of the Act under which the notice is given.
+**6.**[^c-8401f1fed5463c4efc70dce5fab1a236] The provision of the Act under which the notice is given.
 
-**7.**[^key-f2edb97e67221b7d1882290dffa6661a] A statement giving the grounds of the operator for making the application.
+**7.**[^c-f2edb97e67221b7d1882290dffa6661a] A statement giving the grounds of the operator for making the application.
 
-**8.**[^key-ea792e53f1b16b1feb53de59a232ff25] If those grounds include a financial loss, an estimate of that loss.
+**8.**[^c-ea792e53f1b16b1feb53de59a232ff25] If those grounds include a financial loss, an estimate of that loss.
 
 ## SCHEDULE 2 — Particulars to be contained in notices given under section 150(5) of the Act
 
 Regulation 19
 
-**1.**[^key-eb852b4ab27baaa30bac4da180129887] The name and address of the operator of the service or services to which the notice refers.
+**1.**[^c-eb852b4ab27baaa30bac4da180129887] The name and address of the operator of the service or services to which the notice refers.
 
-**2.**[^key-e23599d11db5ebb45a1b3c7960f83f43] The name and address of the travel concession authority.
+**2.**[^c-e23599d11db5ebb45a1b3c7960f83f43] The name and address of the travel concession authority.
 
-**3.**[^key-1131642b4a658506ede3de936b73e933] The provision of the Act under which the notice is given.
+**3.**[^c-1131642b4a658506ede3de936b73e933] The provision of the Act under which the notice is given.
 
-**4.**[^key-fe07abf57976a12a4523ddc17f86f428] The details of each of the services to which the notice refers including—
+**4.**[^c-fe07abf57976a12a4523ddc17f86f428] The details of each of the services to which the notice refers including—
 
 - (a) the origin and terminal points; and
 - (b) a description of the route or routes by reference to the principal places served.
@@ -360,13 +360,13 @@ An impact assessment of the effect that this instrument is to have on the costs 
 
 [^f00001]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-eb517070079bd7894bf680c385c08eb3]: Commencement: Reg. 1 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-eb517070079bd7894bf680c385c08eb3]: Commencement: Reg. 1 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-1bf87775e6afdde005082262b589b275]: Textual amendment: Reg. 1(3) omitted (11.5.2018) by virtue of [The Mandatory Travel Concession (England) (Amendment) Regulations 2018 (S.I. 2018/385)](https://www.legislation.gov.uk/uksi/2018/385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/385/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/385/regulation/2/2)
+[^c-1bf87775e6afdde005082262b589b275]: Textual amendment: Reg. 1(3) omitted (11.5.2018) by virtue of [The Mandatory Travel Concession (England) (Amendment) Regulations 2018 (S.I. 2018/385)](https://www.legislation.gov.uk/uksi/2018/385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/385/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/385/regulation/2/2)
 
-[^key-f0e7c1e7c50f1d66e576d765ed3b56b7]: Commencement: Reg. 2 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-f0e7c1e7c50f1d66e576d765ed3b56b7]: Commencement: Reg. 2 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-41797961f5e13110dbc043210f326bdd]: Commencement: Reg. 3 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-41797961f5e13110dbc043210f326bdd]: Commencement: Reg. 3 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
 [^f00002]: Footnote: Section 145A(1) of the Act was substituted by section 1 of the Concessionary Bus Travel Act 2007 ([2007 c.13](https://www.legislation.gov.uk/ukpga/2007/13)).
 
@@ -376,92 +376,92 @@ An impact assessment of the effect that this instrument is to have on the costs 
 
 [^f00005]: Footnote: Section 149(1) of the Act was substituted by section 3(1) and (2) of the Concessionary Bus Travel Act 2007. Section 149(2)(a)(i) and (ii) were substituted by Section 3(1) and (3) of the Concessionary Bus Travel Act 2007.
 
-[^key-504e64721fe6870d055d18387f1d3319]: Commencement: Reg. 4 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-504e64721fe6870d055d18387f1d3319]: Commencement: Reg. 4 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-286f7fa24e5026bd6e226505a89fb77c]: Commencement: Reg. 5 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-286f7fa24e5026bd6e226505a89fb77c]: Commencement: Reg. 5 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-af2d5e41f89eb46b1277d95719f92b9d]: Commencement: Reg. 6 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-af2d5e41f89eb46b1277d95719f92b9d]: Commencement: Reg. 6 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-1c28e90d867ae336ab2d5fded2aa73c1]: Textual amendment: Words in reg. 6 substituted (23.3.2021) by [The Mandatory Travel Concession (England) (Amendment) Regulations 2021 (S.I. 2021/205)](https://www.legislation.gov.uk/uksi/2021/205), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/205/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/205/regulation/3/2)
+[^c-1c28e90d867ae336ab2d5fded2aa73c1]: Textual amendment: Words in reg. 6 substituted (23.3.2021) by [The Mandatory Travel Concession (England) (Amendment) Regulations 2021 (S.I. 2021/205)](https://www.legislation.gov.uk/uksi/2021/205), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/205/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/205/regulation/3/2)
 
-[^key-ab178eebf184cf7882c4d5ebc2416eb9]: Textual amendment: Reg. 6A inserted (23.3.2021) by [The Mandatory Travel Concession (England) (Amendment) Regulations 2021 (S.I. 2021/205)](https://www.legislation.gov.uk/uksi/2021/205), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/205/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/205/regulation/3/3)
+[^c-ab178eebf184cf7882c4d5ebc2416eb9]: Textual amendment: Reg. 6A inserted (23.3.2021) by [The Mandatory Travel Concession (England) (Amendment) Regulations 2021 (S.I. 2021/205)](https://www.legislation.gov.uk/uksi/2021/205), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/205/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/205/regulation/3/3)
 
-[^key-e71214eebf49448ef2b3bb546f421d5d]: Textual amendment: Words in reg. 6A substituted (4.4.2023) by [The Mandatory Travel Concession (England) (Amendment) Regulations 2023 (S.I. 2023/303)](https://www.legislation.gov.uk/uksi/2023/303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/303/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/303/regulation/3/2)
+[^c-e71214eebf49448ef2b3bb546f421d5d]: Textual amendment: Words in reg. 6A substituted (4.4.2023) by [The Mandatory Travel Concession (England) (Amendment) Regulations 2023 (S.I. 2023/303)](https://www.legislation.gov.uk/uksi/2023/303), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/303/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/303/regulation/3/2)
 
-[^key-42a90a13c37a2daf94db20a30ecb570f]: Commencement: Reg. 7 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-42a90a13c37a2daf94db20a30ecb570f]: Commencement: Reg. 7 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-c9ac162208d05a1c7840681db06ec3ed]: Commencement: Reg. 8 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-c9ac162208d05a1c7840681db06ec3ed]: Commencement: Reg. 8 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-1836e174bf717b99bb9ced3c1eea6fc9]: Commencement: Reg. 9 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-1836e174bf717b99bb9ced3c1eea6fc9]: Commencement: Reg. 9 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-90fcdb9403af1cbe8f954cb2af523cc9]: Commencement: Reg. 10 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-90fcdb9403af1cbe8f954cb2af523cc9]: Commencement: Reg. 10 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-ff88e1e2287bf500e2bb623c396e878b]: Commencement: Reg. 11 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-ff88e1e2287bf500e2bb623c396e878b]: Commencement: Reg. 11 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-c2d5f7773caccca036d174323d38780e]: Commencement: Reg. 12 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-c2d5f7773caccca036d174323d38780e]: Commencement: Reg. 12 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-e15a72528a127feed8ff202171158560]: Commencement: Reg. 13 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-e15a72528a127feed8ff202171158560]: Commencement: Reg. 13 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-895b19be71e596e42c35c318d9a3362e]: Commencement: Reg. 14 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-895b19be71e596e42c35c318d9a3362e]: Commencement: Reg. 14 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-2b0d11ce92fa2ba88f84e85403d48b89]: Commencement: Reg. 15 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-2b0d11ce92fa2ba88f84e85403d48b89]: Commencement: Reg. 15 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-c26978dc889deb75d7f8d09e91dec38d]: Commencement: Reg. 16 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-c26978dc889deb75d7f8d09e91dec38d]: Commencement: Reg. 16 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
 [^f00006]: Footnote: The term “PSV operator’s licence” means a PSV operator’s licence issued under Part 2 of the Public Passenger Vehicles Act 1981 ([1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14))(see section 82(1) of that Act and section 162(2) of the Transport Act 2000).
 
-[^key-69f98adae093775b3d1dfd8a2ea0919f]: Commencement: Reg. 17 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-69f98adae093775b3d1dfd8a2ea0919f]: Commencement: Reg. 17 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-876db175fb9eb5d439e7109159afc12d]: Commencement: Reg. 18 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-876db175fb9eb5d439e7109159afc12d]: Commencement: Reg. 18 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-5430ed162757f82e5604aa99fc635bef]: Commencement: Reg. 19 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-5430ed162757f82e5604aa99fc635bef]: Commencement: Reg. 19 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-9ddad97d54aab170dd0bb1ec49b31f41]: Commencement: Reg. 20 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-9ddad97d54aab170dd0bb1ec49b31f41]: Commencement: Reg. 20 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-674da5c1546cad60b50bb291aeb96c2f]: Commencement: Reg. 21 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-674da5c1546cad60b50bb291aeb96c2f]: Commencement: Reg. 21 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-b7bd001712af3af766cde5f9174a9368]: Commencement: Reg. 22 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-b7bd001712af3af766cde5f9174a9368]: Commencement: Reg. 22 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-2d088db74d4b5fa3cb3435c5aad91151]: Commencement: Reg. 23 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-2d088db74d4b5fa3cb3435c5aad91151]: Commencement: Reg. 23 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-2e7c0634ed4544a458a69ba5386cb71d]: Commencement: Reg. 24 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-2e7c0634ed4544a458a69ba5386cb71d]: Commencement: Reg. 24 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-17667dee935d423257948cd599804744]: Commencement: Reg. 25 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-17667dee935d423257948cd599804744]: Commencement: Reg. 25 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-f7cd8a221d63d3edc24248e87341a089]: Commencement: Reg. 26 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-f7cd8a221d63d3edc24248e87341a089]: Commencement: Reg. 26 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-289487936f7340d15bbba6b4010a8790]: Commencement: Reg. 27 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-289487936f7340d15bbba6b4010a8790]: Commencement: Reg. 27 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-19e961563de7b617dc47bf00ff33a712]: Commencement: Reg. 28 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-19e961563de7b617dc47bf00ff33a712]: Commencement: Reg. 28 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-9ea0b88b4adbc3b1efa86bf6963c16d3]: Commencement: Reg. 29 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-9ea0b88b4adbc3b1efa86bf6963c16d3]: Commencement: Reg. 29 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-d13f839fc369186de13d520158fa5274]: Commencement: Reg. 30 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-d13f839fc369186de13d520158fa5274]: Commencement: Reg. 30 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-4afb2e9ab3eb4bf1714c09a339a5d7d5]: Commencement: Reg. 31 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-4afb2e9ab3eb4bf1714c09a339a5d7d5]: Commencement: Reg. 31 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-66545b993f6c6ae3b0e0d15c0961a65a]: Commencement: Reg. 32 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-66545b993f6c6ae3b0e0d15c0961a65a]: Commencement: Reg. 32 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-f4bc324a0392d76ebd73af4022adfcf4]: Commencement: Sch. 1 para. 1 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-f4bc324a0392d76ebd73af4022adfcf4]: Commencement: Sch. 1 para. 1 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-3bdaddcf339f3674616bdaeedca07740]: Commencement: Sch. 1 para. 2 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-3bdaddcf339f3674616bdaeedca07740]: Commencement: Sch. 1 para. 2 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-95183b195bd44e1e9a3955f5eeec9099]: Commencement: Sch. 1 para. 3 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-95183b195bd44e1e9a3955f5eeec9099]: Commencement: Sch. 1 para. 3 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-bb21fb6c94beafbc774ea720a3a270d4]: Commencement: Sch. 1 para. 4 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-bb21fb6c94beafbc774ea720a3a270d4]: Commencement: Sch. 1 para. 4 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-b62504b708587d8eb6047a150bf07062]: Commencement: Sch. 1 para. 5 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-b62504b708587d8eb6047a150bf07062]: Commencement: Sch. 1 para. 5 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-8401f1fed5463c4efc70dce5fab1a236]: Commencement: Sch. 1 para. 6 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-8401f1fed5463c4efc70dce5fab1a236]: Commencement: Sch. 1 para. 6 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-f2edb97e67221b7d1882290dffa6661a]: Commencement: Sch. 1 para. 7 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-f2edb97e67221b7d1882290dffa6661a]: Commencement: Sch. 1 para. 7 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-ea792e53f1b16b1feb53de59a232ff25]: Commencement: Sch. 1 para. 8 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-ea792e53f1b16b1feb53de59a232ff25]: Commencement: Sch. 1 para. 8 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-eb852b4ab27baaa30bac4da180129887]: Commencement: Sch. 2 para. 1 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-eb852b4ab27baaa30bac4da180129887]: Commencement: Sch. 2 para. 1 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-e23599d11db5ebb45a1b3c7960f83f43]: Commencement: Sch. 2 para. 2 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-e23599d11db5ebb45a1b3c7960f83f43]: Commencement: Sch. 2 para. 2 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-1131642b4a658506ede3de936b73e933]: Commencement: Sch. 2 para. 3 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-1131642b4a658506ede3de936b73e933]: Commencement: Sch. 2 para. 3 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
 
-[^key-fe07abf57976a12a4523ddc17f86f428]: Commencement: Sch. 2 para. 4 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)
+[^c-fe07abf57976a12a4523ddc17f86f428]: Commencement: Sch. 2 para. 4 in force at 12.5.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1121/regulation/1/2)

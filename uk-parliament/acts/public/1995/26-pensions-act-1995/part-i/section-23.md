@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Power to appoint independent trustees[^key-ec328b9b2cef8ffd50f4894859f00f36][^key-28201cfda64f571d40c2a374f599ffd7][^key-256445b91714399713edef7758f6a047]
+## 23. Power to appoint independent trustees[^c-ec328b9b2cef8ffd50f4894859f00f36][^c-28201cfda64f571d40c2a374f599ffd7][^c-256445b91714399713edef7758f6a047]
 
 *Extent: E+W+S*
 
@@ -51,8 +51,8 @@ and any reference in this Part to an independent trustee is to be construed acco
 
 ## Annotations
 
-[^key-ec328b9b2cef8ffd50f4894859f00f36]: Modification: Ss. 22-26 excluded (31.12.2000) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations 2000 (S.I. 2000/3198)](https://www.legislation.gov.uk/uksi/2000/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/3198/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2000/3198/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3198/schedule)
+[^c-ec328b9b2cef8ffd50f4894859f00f36]: Modification: Ss. 22-26 excluded (31.12.2000) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations 2000 (S.I. 2000/3198)](https://www.legislation.gov.uk/uksi/2000/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/3198/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2000/3198/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3198/schedule)
 
-[^key-28201cfda64f571d40c2a374f599ffd7]: Modification: Ss. 22-26 modified (11.4.2005) by [The Occupational Pension Schemes (Independent Trustee) Regulations 2005 (S.I. 2005/703)](https://www.legislation.gov.uk/uksi/2005/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/703/regulation/1/1), [10-12](https://www.legislation.gov.uk/uksi/2005/703/regulation/10)
+[^c-28201cfda64f571d40c2a374f599ffd7]: Modification: Ss. 22-26 modified (11.4.2005) by [The Occupational Pension Schemes (Independent Trustee) Regulations 2005 (S.I. 2005/703)](https://www.legislation.gov.uk/uksi/2005/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/703/regulation/1/1), [10-12](https://www.legislation.gov.uk/uksi/2005/703/regulation/10)
 
-[^key-256445b91714399713edef7758f6a047]: Textual amendment: S. 23 substituted for ss. 23, 24 (10.2.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 36(3)](https://www.legislation.gov.uk/ukpga/2004/35/section/36/3), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/a)[(b)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/b), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)
+[^c-256445b91714399713edef7758f6a047]: Textual amendment: S. 23 substituted for ss. 23, 24 (10.2.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 36(3)](https://www.legislation.gov.uk/ukpga/2004/35/section/36/3), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/a)[(b)](https://www.legislation.gov.uk/uksi/2005/275/article/2/3/b), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3)

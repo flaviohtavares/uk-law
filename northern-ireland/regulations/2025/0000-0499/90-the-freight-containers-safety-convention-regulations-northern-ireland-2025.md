@@ -44,11 +44,11 @@ The Department for the Economy[^f00001], being the Department concerned[^f00002]
 
 The Regulations give effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A)[^f00005] of the 1978 Order after the Executive had carried out consultations in accordance with Article 46(3)[^f00006].
 
-## 1. Citation and commencement[^key-7dc5523238f90e203ab8ba889c73ad98]
+## 1. Citation and commencement[^c-7dc5523238f90e203ab8ba889c73ad98]
 
 These Regulations may be cited as the Freight Containers (Safety Convention) Regulations (Northern Ireland) 2025 and come into operation on 9th June 2025.
 
-## 2. Interpretation[^key-218dc1746d3f01557ac339c70c264425]
+## 2. Interpretation[^c-218dc1746d3f01557ac339c70c264425]
 
 In these Regulations—
 
@@ -84,13 +84,13 @@ In these Regulations—
     - (i) transport to a place for testing to obtain approval; or
     - (ii) delivery to its purchaser by the vendor or their agent.
 
-## 3. Application of Regulations[^key-ecbf293f50c111b44a900a418f93b372]
+## 3. Application of Regulations[^c-ecbf293f50c111b44a900a418f93b372]
 
 (1) These Regulations apply to any container used at work or supplied for use at work.
 
 (2) Within the territorial sea or a designated area these Regulations apply to any container so used at work or supplied for use at work in circumstances in which any of paragraphs 2 to 9 of Schedule 2 apply.
 
-## 4. Conditions of use and enforcement[^key-8a307765be04ae8b8ac04673cb53d3cc]
+## 4. Conditions of use and enforcement[^c-8a307765be04ae8b8ac04673cb53d3cc]
 
 (1) The owner or lessee of a container shall not use or permit that container to be used unless—
 
@@ -122,7 +122,7 @@ In these Regulations—
 
 (5) In this regulation “**owner**” includes the owner’s agent.
 
-## 5. Approval of containers—either by design type or individually[^key-7f79190f7def8c2c11b3d32368551f30]
+## 5. Approval of containers—either by design type or individually[^c-7f79190f7def8c2c11b3d32368551f30]
 
 (1) An approval (whether relating to a design type or to an individual container) is, for the purposes of these Regulations, valid only if—
 
@@ -141,7 +141,7 @@ In these Regulations—
 - (b) subject to conditions; and
 - (c) varied or revoked at any time by the Executive in writing.
 
-## 6. Fixing of safety approval plate[^key-e38937ca90c1b3a7b543c3fe6fb7b366]
+## 6. Fixing of safety approval plate[^c-e38937ca90c1b3a7b543c3fe6fb7b366]
 
 For the purposes of these Regulations a container has a valid safety approval plate fixed to it if—
 
@@ -150,11 +150,11 @@ For the purposes of these Regulations a container has a valid safety approval pl
   - (ii) where regulation 7 applies, the 1992 Regulations, and
 - (b) the information on the safety approval plate is correct and relates to a valid approval.
 
-## 7. Containers constructed before 1st July 2014[^key-9d02c5f67135c7603fd68abab29b3792]
+## 7. Containers constructed before 1st July 2014[^c-9d02c5f67135c7603fd68abab29b3792]
 
 A container constructed prior to 1st July 2014 may retain the safety approval plate required by the 1992 Regulations, provided that no structural modifications have been or are made to that container.
 
-## 8. Examination of containers[^key-74f5afcc84b7c5179264e84bf5ea519c]
+## 8. Examination of containers[^c-74f5afcc84b7c5179264e84bf5ea519c]
 
 (1) The examinations in regulation 4(1)(d) and (3)(b) shall be in accordance with an examination scheme or programme approved by the Executive for the purposes of this regulation or by the Health and Safety Executive for the purposes of regulation 8 of the Freight Containers (Safety Convention) Regulations 2017.
 
@@ -166,13 +166,13 @@ A container constructed prior to 1st July 2014 may retain the safety approval pl
 - (b) the procedure has been approved or prescribed by the Government of that State, or by any organisation authorised by such a Government to act on its behalf, for the purpose of the Convention; and
 - (c) the Government has ratified, accepted, approved or acceded to the Convention.
 
-## 9. Marking in accordance with British Standard[^key-593dc58e1eef684e4ddabbd2ff4f30d6]
+## 9. Marking in accordance with British Standard[^c-593dc58e1eef684e4ddabbd2ff4f30d6]
 
 (1) Where the stacking or racking values are less than 192,000kg or 150kN, respectively, the container shall be conspicuously marked as required under British Standard Freight Containers – Coding, identification and marking[^f00012], as revised or reissued from time to time, at or before the next scheduled examination.
 
 (2) In this regulation “**scheduled examination**” means the next examination conducted in accordance with regulation 8.
 
-## 10. Revocation[^key-37afca4da3271a64387dadbad2545b8f]
+## 10. Revocation[^c-37afca4da3271a64387dadbad2545b8f]
 
 The 1992 Regulations are revoked.
 
@@ -186,7 +186,7 @@ Minister of the Department for the Economy
 
 Regulations 2 and 6
 
-### 1. Location[^key-59c5c9ced2578cdab4764434b13374d2]
+### 1. Location[^c-59c5c9ced2578cdab4764434b13374d2]
 
 The safety approval plate required by regulation 6 shall be permanently fixed to the container in such a position that it is—
 
@@ -194,7 +194,7 @@ The safety approval plate required by regulation 6 shall be permanently fixed to
 - (b) adjacent to any other officially approved plate carried on the container; and
 - (c) not likely to be easily damaged.
 
-### 2. Construction and content[^key-fc812185969b22a0b08a6a653cd598bd]
+### 2. Construction and content[^c-fc812185969b22a0b08a6a653cd598bd]
 
 The safety approval plate shall—
 
@@ -229,7 +229,7 @@ The safety approval plate shall—
 
   This marking shall be displayed immediately near the racking test value (see line 6).
 
-### 3. Interpretation[^key-bdb171e2b0f2c9f184673303b8082015]
+### 3. Interpretation[^c-bdb171e2b0f2c9f184673303b8082015]
 
 In this Schedule—
 
@@ -243,7 +243,7 @@ In this Schedule—
 
 Regulation 3
 
-### 1. Interpretation[^key-21d11fd693da918df6bc7ca927e85b90]
+### 1. Interpretation[^c-21d11fd693da918df6bc7ca927e85b90]
 
 (1) In this Schedule—
 
@@ -257,7 +257,7 @@ Regulation 3
 
 (3) Any reference in this Schedule to premises and activities includes a reference to any person, article or substance on those premises or engaged in, or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-a235e2a77f6c03751822df4d6b434985]
+### 2. Offshore installations[^c-a235e2a77f6c03751822df4d6b434985]
 
 (1) This paragraph shall apply within the territorial sea or a designated area to and in relation to—
 
@@ -296,7 +296,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (5) Sub-paragraph (4)(b) does not apply in respect of a vessel in or from which an activity is carried on in connection with, or any activity that is immediately preparatory to an activity in connection with, an offshore installation other than an activity falling within sub-paragraph 4(b).
 
-### 3. Wells[^key-7c1481fbe42c4ab410a36b8552d7ad3f]
+### 3. Wells[^c-7c1481fbe42c4ab410a36b8552d7ad3f]
 
 (1) Subject to sub-paragraph (2), this paragraph applies within the territorial sea or a designated area to and in relation to—
 
@@ -305,7 +305,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-d07beaebae8aa848da5d121f3f26c2e4]
+### 4. Pipelines[^c-d07beaebae8aa848da5d121f3f26c2e4]
 
 (1) This paragraph applies within the territorial sea or a designated area to and in relation to—
 
@@ -339,13 +339,13 @@ together with any supplementary unit which is ordinarily connected to it, and al
   - (e) any activities incidental to the activities described in heads (a) to (d);
   - (f) a diving project in connection with any of the works mentioned in heads (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-a538becd27b851bf1e98266a70cf51e3]
+### 5. Mines[^c-a538becd27b851bf1e98266a70cf51e3]
 
 (1) This paragraph applies to and in relation to a mine within the territorial sea, and any activity in connection with it, while it is being worked.
 
 (2) In this paragraph “**mine**” has the same meaning as in the Mines Act (Northern Ireland) 1969[^f00014].
 
-### 6. Gas Importation and Storage[^key-3da65662914a16b140b01c59993e753b]
+### 6. Gas Importation and Storage[^c-3da65662914a16b140b01c59993e753b]
 
 (1) Subject to sub-paragraph (3), this paragraph applies within the territorial sea to and in relation to any activities connected with or immediately preparatory to the activities set out in sub-paragraph (2).
 
@@ -366,7 +366,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (5) For the purposes of sub-paragraphs (2) and (4), references to gas include any substance which consists wholly or mainly of gas.
 
-### 7. Production of Energy from Water or Wind[^key-851733166a2a72c0249b6408e8d615c3]
+### 7. Production of Energy from Water or Wind[^c-851733166a2a72c0249b6408e8d615c3]
 
 (1) This paragraph applies within the territorial sea to and in relation to any energy structure or activities connected with or preparatory to—
 
@@ -376,7 +376,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (2) In this paragraph “**energy structure**” means a fixed or floating structure or machine, other than a vessel, which is, or is to be, or has been, used for producing energy from water or wind.
 
-### 8. Underground Coal Gasification[^key-136a98f0ca600de5999251b9fb296555]
+### 8. Underground Coal Gasification[^c-136a98f0ca600de5999251b9fb296555]
 
  This paragraph applies within the territorial sea or a designated area to and in relation to—
 
@@ -384,7 +384,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 - (b) any activity which is immediately preparatory to any activity in sub-paragraph (a); and
 - (c) any fixed or floating structure which is, or is to be, or has been, used in connection with the carrying on of activities within sub-paragraphs (a) and (b).
 
-### 9. Other activities[^key-69b707aa03de1ece4cc73eae65e71b9e]
+### 9. Other activities[^c-69b707aa03de1ece4cc73eae65e71b9e]
 
 (1) Subject to sub-paragraph (2), this paragraph applies within the territorial sea to and in relation to—
 
@@ -448,9 +448,9 @@ In Great Britain the corresponding Regulations are the Freight Containers (Safet
 
 [^f00006]: Footnote: Article 46(3) was amended by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 6(1) and Schedule 1, paragraphs 8 and 18 and the Health Protection Agency Act [2004 (c. 17)](https://www.legislation.gov.uk/ukpga/2004/17), section 11 and Schedule 3, paragraph 10(3)
 
-[^key-7dc5523238f90e203ab8ba889c73ad98]: Commencement: Reg. 1 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-7dc5523238f90e203ab8ba889c73ad98]: Commencement: Reg. 1 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-218dc1746d3f01557ac339c70c264425]: Commencement: Reg. 2 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-218dc1746d3f01557ac339c70c264425]: Commencement: Reg. 2 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1992 No. 2](https://www.legislation.gov.uk/nisr/1992/2), as amended by [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150) and revoked in part by [S.R. 1998 No. 125](https://www.legislation.gov.uk/nisr/1998/125)
 
@@ -460,50 +460,50 @@ In Great Britain the corresponding Regulations are the Freight Containers (Safet
 
 [^f00010]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); section 10 was substituted by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960), Article 4
 
-[^key-ecbf293f50c111b44a900a418f93b372]: Commencement: Reg. 3 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-ecbf293f50c111b44a900a418f93b372]: Commencement: Reg. 3 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-8a307765be04ae8b8ac04673cb53d3cc]: Commencement: Reg. 4 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-8a307765be04ae8b8ac04673cb53d3cc]: Commencement: Reg. 4 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-7f79190f7def8c2c11b3d32368551f30]: Commencement: Reg. 5 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-7f79190f7def8c2c11b3d32368551f30]: Commencement: Reg. 5 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
 [^f00011]: Footnote: [S.I. 2017/325](https://www.legislation.gov.uk/uksi/2017/325)
 
-[^key-e38937ca90c1b3a7b543c3fe6fb7b366]: Commencement: Reg. 6 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-e38937ca90c1b3a7b543c3fe6fb7b366]: Commencement: Reg. 6 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-9d02c5f67135c7603fd68abab29b3792]: Commencement: Reg. 7 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-9d02c5f67135c7603fd68abab29b3792]: Commencement: Reg. 7 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-74f5afcc84b7c5179264e84bf5ea519c]: Commencement: Reg. 8 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-74f5afcc84b7c5179264e84bf5ea519c]: Commencement: Reg. 8 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-593dc58e1eef684e4ddabbd2ff4f30d6]: Commencement: Reg. 9 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-593dc58e1eef684e4ddabbd2ff4f30d6]: Commencement: Reg. 9 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
 [^f00012]: Footnote: BS EN ISO 6346:1995 + A3:2012 (ISBN 978 0 580 80120 4) is published by BSI Standards Limited 2013, under the authority of the Standards Board and came into effect on 15th April 1996
 
-[^key-37afca4da3271a64387dadbad2545b8f]: Commencement: Reg. 10 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-37afca4da3271a64387dadbad2545b8f]: Commencement: Reg. 10 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-59c5c9ced2578cdab4764434b13374d2]: Commencement: Sch. 1 para. 1 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-59c5c9ced2578cdab4764434b13374d2]: Commencement: Sch. 1 para. 1 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-fc812185969b22a0b08a6a653cd598bd]: Commencement: Sch. 1 para. 2 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-fc812185969b22a0b08a6a653cd598bd]: Commencement: Sch. 1 para. 2 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-bdb171e2b0f2c9f184673303b8082015]: Commencement: Sch. 1 para. 3 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-bdb171e2b0f2c9f184673303b8082015]: Commencement: Sch. 1 para. 3 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-21d11fd693da918df6bc7ca927e85b90]: Commencement: Sch. 2 para. 1 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-21d11fd693da918df6bc7ca927e85b90]: Commencement: Sch. 2 para. 1 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
 [^f00013]: Footnote: [S.R. 2005 No. 45](https://www.legislation.gov.uk/nisr/2005/45), as amended by [S.R. 2007 No. 247](https://www.legislation.gov.uk/nisr/2007/247)
 
-[^key-a235e2a77f6c03751822df4d6b434985]: Commencement: Sch. 2 para. 2 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-a235e2a77f6c03751822df4d6b434985]: Commencement: Sch. 2 para. 2 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-7c1481fbe42c4ab410a36b8552d7ad3f]: Commencement: Sch. 2 para. 3 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-7c1481fbe42c4ab410a36b8552d7ad3f]: Commencement: Sch. 2 para. 3 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-d07beaebae8aa848da5d121f3f26c2e4]: Commencement: Sch. 2 para. 4 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-d07beaebae8aa848da5d121f3f26c2e4]: Commencement: Sch. 2 para. 4 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-a538becd27b851bf1e98266a70cf51e3]: Commencement: Sch. 2 para. 5 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-a538becd27b851bf1e98266a70cf51e3]: Commencement: Sch. 2 para. 5 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
 [^f00014]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-3da65662914a16b140b01c59993e753b]: Commencement: Sch. 2 para. 6 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-3da65662914a16b140b01c59993e753b]: Commencement: Sch. 2 para. 6 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-851733166a2a72c0249b6408e8d615c3]: Commencement: Sch. 2 para. 7 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-851733166a2a72c0249b6408e8d615c3]: Commencement: Sch. 2 para. 7 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-136a98f0ca600de5999251b9fb296555]: Commencement: Sch. 2 para. 8 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-136a98f0ca600de5999251b9fb296555]: Commencement: Sch. 2 para. 8 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
 
-[^key-69b707aa03de1ece4cc73eae65e71b9e]: Commencement: Sch. 2 para. 9 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)
+[^c-69b707aa03de1ece4cc73eae65e71b9e]: Commencement: Sch. 2 para. 9 in operation at 9.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/90/regulation/1)

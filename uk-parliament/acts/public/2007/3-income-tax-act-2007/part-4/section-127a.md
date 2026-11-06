@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127A. No relief for tax-generated losses attributable to annual investment allowance[^key-4ddd6f509fa3761917a19b19efa89f7a]
+## 127A. No relief for tax-generated losses attributable to annual investment allowance[^c-4ddd6f509fa3761917a19b19efa89f7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ddd6f509fa3761917a19b19efa89f7a]: Textual amendment: S. 127A and cross-heading inserted (8.4.2010 with effect in accordance with s. 25(5)-(7) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2010/13/section/25/4)
+[^c-4ddd6f509fa3761917a19b19efa89f7a]: Textual amendment: S. 127A and cross-heading inserted (8.4.2010 with effect in accordance with s. 25(5)-(7) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2010/13/section/25/4)

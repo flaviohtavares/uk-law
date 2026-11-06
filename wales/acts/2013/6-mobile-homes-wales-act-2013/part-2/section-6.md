@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Application for site licence[^key-3b3c24e8d481ff90b2c3c6d205f7487d]
+## 6. Application for site licence[^c-3b3c24e8d481ff90b2c3c6d205f7487d]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ is a fit and proper person to manage the site.
 
 ## Annotations
 
-[^key-3b3c24e8d481ff90b2c3c6d205f7487d]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2013/6/section/6) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-3b3c24e8d481ff90b2c3c6d205f7487d]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2013/6/section/6) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

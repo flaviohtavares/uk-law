@@ -39,11 +39,11 @@ The Department for Communities[^f00001] makes the following Order in exercise of
 
 The powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
 
-## 1. Citation and effect[^key-ab3d25223d4fffea4d6014223525b0a8]
+## 1. Citation and effect[^c-ab3d25223d4fffea4d6014223525b0a8]
 
 This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions) (Amendment) Order (Northern Ireland) 2024 and has effect from 8th June 2024.
 
-## 2. Preservation of saving for mixed-age couples migrated to universal credit[^key-f6d55ca45a8148963bfe7f7466019f0e]
+## 2. Preservation of saving for mixed-age couples migrated to universal credit[^c-f6d55ca45a8148963bfe7f7466019f0e]
 
 In Article 4 of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions and Commencement No. 8 and Transitional and Transitory Provisions (Amendment)) Order 2019[^f00004] (savings) after paragraph (2) add—
 
@@ -94,9 +94,9 @@ Article 2 of this Order allows that saving, which would otherwise cease when a m
 
 [^f00003]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
 
-[^key-ab3d25223d4fffea4d6014223525b0a8]: Commencement: Art. 1 in operation at made date
+[^c-ab3d25223d4fffea4d6014223525b0a8]: Commencement: Art. 1 in operation at made date
 
-[^key-f6d55ca45a8148963bfe7f7466019f0e]: Commencement: Art. 2 in operation at made date
+[^c-f6d55ca45a8148963bfe7f7466019f0e]: Commencement: Art. 2 in operation at made date
 
 [^f00004]: Footnote: [S.R. 2019 No. 4 (C. 1)](https://www.legislation.gov.uk/nisr/2019/4)
 

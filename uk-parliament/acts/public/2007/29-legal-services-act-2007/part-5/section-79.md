@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-1411e2eb3c173e151b1174f7ed880531] This section applies where an approved regulator (“**the former authority**”) has its designation in relation to one or more reserved legal activities cancelled by by virtue of section 75 or an order under section 76.
+(1)[^c-1411e2eb3c173e151b1174f7ed880531] This section applies where an approved regulator (“**the former authority**”) has its designation in relation to one or more reserved legal activities cancelled by by virtue of section 75 or an order under section 76.
 
-(2)[^key-1411e2eb3c173e151b1174f7ed880531] The Board may request the former authority to provide assistance to the new authority and the Board, for the purpose of continuing regulation.
+(2)[^c-1411e2eb3c173e151b1174f7ed880531] The Board may request the former authority to provide assistance to the new authority and the Board, for the purpose of continuing regulation.
 
-(3)[^key-1411e2eb3c173e151b1174f7ed880531] On an application by a person appointed by the Board to act on its behalf, a judge of the High Court, Circuit judge or justice of the peace may issue a warrant authorising that person to—
+(3)[^c-1411e2eb3c173e151b1174f7ed880531] On an application by a person appointed by the Board to act on its behalf, a judge of the High Court, Circuit judge or justice of the peace may issue a warrant authorising that person to—
 
 - (a) enter and search the premises of the former authority, and
 - (b) take possession of any written or electronic records found on the premises.
 
-(4)[^key-1411e2eb3c173e151b1174f7ed880531] A person so authorised may, for the purpose of continuing regulation, take copies of written or electronic records found on a search carried out by virtue of the warrant.
+(4)[^c-1411e2eb3c173e151b1174f7ed880531] A person so authorised may, for the purpose of continuing regulation, take copies of written or electronic records found on a search carried out by virtue of the warrant.
 
-(5)[^key-1411e2eb3c173e151b1174f7ed880531] The judge or justice of the peace may not issue the warrant unless satisfied that its issue is necessary or desirable for the purpose of continuing regulation.
+(5)[^c-1411e2eb3c173e151b1174f7ed880531] The judge or justice of the peace may not issue the warrant unless satisfied that its issue is necessary or desirable for the purpose of continuing regulation.
 
 (6) The Lord Chancellor must make regulations—
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c20326761]: Commencement: S. 79 partly in force; s. 79 not in force at Royal Assent see s. 211; s. 79(6)-(10) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/d/i)
 
-[^key-1411e2eb3c173e151b1174f7ed880531]: Commencement: S. 79(1)-(5) in force at 2.8.2010 by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)
+[^c-1411e2eb3c173e151b1174f7ed880531]: Commencement: S. 79(1)-(5) in force at 2.8.2010 by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)

@@ -184,7 +184,7 @@ Implementing Regulation (EU) 2019/1793 is amended as follows:
 
 2. References to the repealed acts shall be construed as references to Implementing Regulation (EU) 2019/1793.
 
-## Article 3. Transitional measures[^key-fad4d68ecca53c25b2f9f9768b299464]
+## Article 3. Transitional measures[^c-fad4d68ecca53c25b2f9f9768b299464]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -528,7 +528,7 @@ The following Annex IIa is inserted in Implementing Regulation (EU) 2019/1793:
 
 [^f00008]: Footnote: Commission Implementing Regulation (EU) 2019/1256 of 23 July 2019 amending Implementing Regulation (EU) 2015/943 on emergency measures suspending imports of dried beans from Nigeria, as regards extending its period of application ([OJ L 196, 24.7.2019, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.196.01.0003.01.ENG)).
 
-[^key-fad4d68ecca53c25b2f9f9768b299464]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2020/625/article/3) omitted (13.12.2022) by virtue of [The Animals and Animal Health, Feed and Food, Plants and Plant Health (Amendment) Regulations 2022 (S.I. 2022/1315)](https://www.legislation.gov.uk/uksi/2022/1315), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/19/2)
+[^c-fad4d68ecca53c25b2f9f9768b299464]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2020/625/article/3) omitted (13.12.2022) by virtue of [The Animals and Animal Health, Feed and Food, Plants and Plant Health (Amendment) Regulations 2022 (S.I. 2022/1315)](https://www.legislation.gov.uk/uksi/2022/1315), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/19/2)
 
 [^f00009]: Footnote: Where only certain products under any CN code are required to be examined, the CN code is marked “ex”.
 

@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If the amount of jobseeker’s allowance and relevant welfare supplementary payments[^key-a10ed2e75db354051182952e775da226] paid to a person (“**the claimant**”) for a week or a part of a week exceeds the claimant’s taxable maximum for that period, no liability to income tax arises on the excess.
+(1) If the amount of jobseeker’s allowance and relevant welfare supplementary payments[^c-a10ed2e75db354051182952e775da226] paid to a person (“**the claimant**”) for a week or a part of a week exceeds the claimant’s taxable maximum for that period, no liability to income tax arises on the excess.
 
 (2) The claimant’s taxable maximum for a period is determined under sections 672 to 674.
 
 ## Annotations
 
-[^key-a10ed2e75db354051182952e775da226]: Textual amendment: Words in s. 671(1) inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Taxation of Northern Ireland Welfare Supplementary Payments Regulations 2017 (S.I. 2017/338)](https://www.legislation.gov.uk/uksi/2017/338), [regs. 1](https://www.legislation.gov.uk/uksi/2017/338/regulation/1), [13](https://www.legislation.gov.uk/uksi/2017/338/regulation/13)
+[^c-a10ed2e75db354051182952e775da226]: Textual amendment: Words in s. 671(1) inserted (with effect in accordance with reg. 2 of the amending S.I.) by [The Taxation of Northern Ireland Welfare Supplementary Payments Regulations 2017 (S.I. 2017/338)](https://www.legislation.gov.uk/uksi/2017/338), [regs. 1](https://www.legislation.gov.uk/uksi/2017/338/regulation/1), [13](https://www.legislation.gov.uk/uksi/2017/338/regulation/13)

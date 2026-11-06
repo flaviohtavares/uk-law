@@ -42,19 +42,19 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs, makes these Regulations in exercise of the powers conferred by Article 18A(1) of the Litter (Northern Ireland) Order 1994[^f00001] and section 44(4) of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011[^f00002] and now exercisable by it[^f00003].
 
-## 1. Citation and commencement[^key-eb3937cdd62646b63374f314a6200792]
+## 1. Citation and commencement[^c-eb3937cdd62646b63374f314a6200792]
 
 These regulations may be cited as the Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 and come into operation on 30th December 2022.
 
-## 2. Amendment to the Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) Regulations (Northern Ireland) 2012[^key-8a520c1b96e3b9709a1550a598debd52]
+## 2. Amendment to the Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) Regulations (Northern Ireland) 2012[^c-8a520c1b96e3b9709a1550a598debd52]
 
 The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) Regulations (Northern Ireland) 2012[^f00004] are amended in accordance with regulations 3 and 4.
 
-## 3. Amendment of regulation 2 (Interpretation)[^key-6af16d604136de13836935dd246a62fd]
+## 3. Amendment of regulation 2 (Interpretation)[^c-6af16d604136de13836935dd246a62fd]
 
 In regulation 2 after the definition of “the 2011 Act” insert ““**the 2012 Regulations**” means the Dog Control Orders (Prescribed Offences and Penalties, etc.) Regulations (Northern Ireland) 2012”[^f00005].
 
-## 4. Amendment of regulation 3 (Prescribed range of fixed penalties)[^key-73cadb9892b8d3981c0b710ead3929e7]
+## 4. Amendment of regulation 3 (Prescribed range of fixed penalties)[^c-73cadb9892b8d3981c0b710ead3929e7]
 
 (1) In paragraph (1)(a) omit “Article 6(6A)(a) of, and”.
 
@@ -111,14 +111,14 @@ An impact assessment on the effect of these Regulations has not been prepared as
 
 [^f00003]: Footnote: S.R.[2016 No.76](https://www.legislation.gov.uk/nisr/2016/76); see Article 8(1)(c) of the Departments (Transfer of Functions) Order (Northern Ireland) 2016
 
-[^key-eb3937cdd62646b63374f314a6200792]: Commencement: Reg. 1 in operation at 30.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1)
+[^c-eb3937cdd62646b63374f314a6200792]: Commencement: Reg. 1 in operation at 30.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1)
 
-[^key-8a520c1b96e3b9709a1550a598debd52]: Commencement: Reg. 2 in operation at 30.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1)
+[^c-8a520c1b96e3b9709a1550a598debd52]: Commencement: Reg. 2 in operation at 30.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1)
 
 [^f00004]: Footnote: [S.R.2012 No. 35](https://www.legislation.gov.uk/nisr/2012/35)
 
-[^key-6af16d604136de13836935dd246a62fd]: Commencement: Reg. 3 in operation at 30.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1)
+[^c-6af16d604136de13836935dd246a62fd]: Commencement: Reg. 3 in operation at 30.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1)
 
 [^f00005]: Footnote: [S.R 2012 No. 114](https://www.legislation.gov.uk/nisr/2012/114)
 
-[^key-73cadb9892b8d3981c0b710ead3929e7]: Commencement: Reg. 4 in operation at 30.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1)
+[^c-73cadb9892b8d3981c0b710ead3929e7]: Commencement: Reg. 4 in operation at 30.12.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1)

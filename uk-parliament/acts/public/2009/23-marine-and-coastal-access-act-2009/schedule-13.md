@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 13 — Marine boundaries of SSSIs and national nature reserves[^key-5241bb862b82a6bf9181110a90d47e7c]
+## Schedule 13 — Marine boundaries of SSSIs and national nature reserves[^c-5241bb862b82a6bf9181110a90d47e7c]
 
 *Extent: E+W*
 
@@ -24,13 +24,13 @@ Section 148
 
 ### Part 1 — Introductory
 
-**1.**[^c2008229][^key-548f694a4f9b14f1c0735d0883e8254b] In this Schedule “**the 1981 Act**” means the Wildlife and Countryside Act 1981 (c. 69).
+**1.**[^c2008229][^c-548f694a4f9b14f1c0735d0883e8254b] In this Schedule “**the 1981 Act**” means the Wildlife and Countryside Act 1981 (c. 69).
 
 ### Part 2 — Sites of special scientific interest
 
 #### Marine boundaries of sites of special scientific interest
 
-**2.**[^c2008230][^key-07da9ee0200e1af0b9c7d784b1884fb9] (1) Section 28 of the 1981 Act (sites of special scientific interest) is amended as follows.
+**2.**[^c2008230][^c-07da9ee0200e1af0b9c7d784b1884fb9] (1) Section 28 of the 1981 Act (sites of special scientific interest) is amended as follows.
 
 (2) In subsection (1)(a) after “the local planning authority” insert “ (if any) ”.
 
@@ -68,9 +68,9 @@ Section 148
 
 (8) No notification under subsection (1) of that section made before the coming into force of this paragraph may be questioned in legal proceedings on the ground that the area of land to which the notification relates includes land lying below mean low water mark.
 
-**3.**[^c2008231][^key-e79183ee16b79981e4cf24975974e897] In section 28A of the 1981 Act (variation of notification under section 28), in subsection (3)(a) after “the local planning authority” insert “ (if any) ”.
+**3.**[^c2008231][^c-e79183ee16b79981e4cf24975974e897] In section 28A of the 1981 Act (variation of notification under section 28), in subsection (3)(a) after “the local planning authority” insert “ (if any) ”.
 
-**4.**[^c2008232][^key-ca3f7fd70ce5eb2fef3e1f1b095db2ed] In section 52(1) of the 1981 Act (interpretation of Part 2), after the definition of “agricultural land” insert—
+**4.**[^c2008232][^c-ca3f7fd70ce5eb2fef3e1f1b095db2ed] In section 52(1) of the 1981 Act (interpretation of Part 2), after the definition of “agricultural land” insert—
 
 > “**estuarial waters**” has the meaning given by section 28(9A);
 
@@ -78,7 +78,7 @@ Section 148
 
 #### Notification of additional land that is subtidal
 
-**5.**[^c2008233][^key-e265e27b228966dcebbd8d409056dd85] (1) Section 28B of the 1981 Act (notification of additional land) is amended as follows.
+**5.**[^c2008233][^c-e265e27b228966dcebbd8d409056dd85] (1) Section 28B of the 1981 Act (notification of additional land) is amended as follows.
 
 (2) In subsection (2)(a) after “the local planning authority” insert “ (if any) ”.
 
@@ -108,7 +108,7 @@ Section 148
 
 #### Enlargement of SSSI to include subtidal land
 
-**6.**[^c2008234][^key-7d146a28f08f467f85be897796e322cf] (1) Section 28C of the 1981 Act (enlargement of SSSI) is amended as follows.
+**6.**[^c2008234][^c-7d146a28f08f467f85be897796e322cf] (1) Section 28C of the 1981 Act (enlargement of SSSI) is amended as follows.
 
 (2) In subsection (2)(a) after “the local planning authority” insert “ (if any) ”.
 
@@ -136,7 +136,7 @@ Section 148
 
 #### Guidance in relation to subtidal notifications of SSSIs
 
-**7.**[^c2008235][^key-288b0cb9dddab5364b76753b9e2b9af7] After section 28C of the 1981 Act insert—
+**7.**[^c2008235][^c-288b0cb9dddab5364b76753b9e2b9af7] After section 28C of the 1981 Act insert—
 
 > **28CA. Guidance in relation to subtidal notifications of SSSIs**
 >
@@ -149,7 +149,7 @@ Section 148
 
 #### Power to call in subtidal notifications of SSSIs
 
-**8.**[^c2008236][^key-bda7c36faf67db6f0755d302ed7c21e3] After section 28CA of the 1981 Act (inserted by paragraph 7) insert—
+**8.**[^c2008236][^c-bda7c36faf67db6f0755d302ed7c21e3] After section 28CA of the 1981 Act (inserted by paragraph 7) insert—
 
 > **28CB. Power to call in subtidal notifications**
 >
@@ -189,7 +189,7 @@ Section 148
 
 #### Denotification of SSSI on designation of area as MCZ
 
-**9.**[^c2008181][^key-66b129242916501f61c1480f26b8a45f] (1) Section 28D of the 1981 Act (denotification) is amended as follows.
+**9.**[^c2008181][^c-66b129242916501f61c1480f26b8a45f] (1) Section 28D of the 1981 Act (denotification) is amended as follows.
 
 (2) In subsection (1) before “is not of special interest” insert “ (a) ” and after “mentioned in section 28(1),” insert “or
 
@@ -208,7 +208,7 @@ Section 148
 
 #### Marine boundaries of national nature reserves
 
-**10.**[^c2008180][^key-0b5a75605557c1dbc472ae0276632ba3] (1) In section 35 of the 1981 Act (national nature reserves) after subsection (1) insert—
+**10.**[^c2008180][^c-0b5a75605557c1dbc472ae0276632ba3] (1) In section 35 of the 1981 Act (national nature reserves) after subsection (1) insert—
 
 > (1A) The land which may be declared to be a national nature reserve in England or Wales includes—
 >
@@ -234,7 +234,7 @@ Section 148
 
 #### Power to call in subtidal declarations of national nature reserves
 
-**11.**[^c2008179][^key-d2abc0fc164d862b3a4be52ed4bc501e] After section 35 of the 1981 Act insert—
+**11.**[^c2008179][^c-d2abc0fc164d862b3a4be52ed4bc501e] After section 35 of the 1981 Act insert—
 
 > **35A. Power to call in subtidal declarations**
 >
@@ -278,48 +278,48 @@ Section 148
 
 ## Annotations
 
-[^key-5241bb862b82a6bf9181110a90d47e7c]: Modification: Sch. 13 modified (22.4.2022) by [The East Anglia ONE North Offshore Wind Farm Order 2022 (S.I. 2022/432)](https://www.legislation.gov.uk/uksi/2022/432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2), [31](https://www.legislation.gov.uk/uksi/2022/432/article/31) (with [arts. 40](https://www.legislation.gov.uk/uksi/2022/432/article/40), [41](https://www.legislation.gov.uk/uksi/2022/432/article/41))
+[^c-5241bb862b82a6bf9181110a90d47e7c]: Modification: Sch. 13 modified (22.4.2022) by [The East Anglia ONE North Offshore Wind Farm Order 2022 (S.I. 2022/432)](https://www.legislation.gov.uk/uksi/2022/432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2), [31](https://www.legislation.gov.uk/uksi/2022/432/article/31) (with [arts. 40](https://www.legislation.gov.uk/uksi/2022/432/article/40), [41](https://www.legislation.gov.uk/uksi/2022/432/article/41))
 
 [^c2008229]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/1) partly in force; [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/1) in force for specified purposes at 12.1.2010 see [s. 324(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/ii)
 
-[^key-548f694a4f9b14f1c0735d0883e8254b]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/1) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-548f694a4f9b14f1c0735d0883e8254b]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/1) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
 
 [^c2008230]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/2) partly in force; [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/2) in force for specified purposes at 12.1.2010 see [s. 324(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/ii)
 
-[^key-07da9ee0200e1af0b9c7d784b1884fb9]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/2) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-07da9ee0200e1af0b9c7d784b1884fb9]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/2) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
 
 [^c2008231]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/3) partly in force; [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/3) in force for specified purposes at 12.1.2010 see [s. 324(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/ii)
 
-[^key-e79183ee16b79981e4cf24975974e897]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/3) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-e79183ee16b79981e4cf24975974e897]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/3) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
 
 [^c2008232]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/4) partly in force; [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/4) in force for specified purposes at 12.1.2010 see [s. 324(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/ii)
 
-[^key-ca3f7fd70ce5eb2fef3e1f1b095db2ed]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/4) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-ca3f7fd70ce5eb2fef3e1f1b095db2ed]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/4) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
 
 [^c2008233]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/5) partly in force; [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/5) in force for specified purposes at 12.1.2010 see [s. 324(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/ii)
 
-[^key-e265e27b228966dcebbd8d409056dd85]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/5) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-e265e27b228966dcebbd8d409056dd85]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/5) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
 
 [^c2008234]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/6) partly in force; [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/6) in force for specified purposes at 12.1.2010 see [s. 324(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/ii)
 
-[^key-7d146a28f08f467f85be897796e322cf]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/6) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-7d146a28f08f467f85be897796e322cf]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/6) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
 
 [^c2008235]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/7) partly in force; [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/7) in force for specified purposes at 12.1.2010 see [s. 324(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/ii)
 
-[^key-288b0cb9dddab5364b76753b9e2b9af7]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/7) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-288b0cb9dddab5364b76753b9e2b9af7]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/7) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
 
 [^c2008236]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/8) partly in force; [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/8) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c); [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/8) in force for further specified purposes on 12.1.2010 see [s. 324(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/ii)
 
-[^key-bda7c36faf67db6f0755d302ed7c21e3]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/8) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-bda7c36faf67db6f0755d302ed7c21e3]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/8) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
 
 [^c2008181]: Commencement: [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/9) partly in force; [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/9) in force for specified purposes at 12.1.2010 see [s. 324(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/ii)
 
-[^key-66b129242916501f61c1480f26b8a45f]: Commencement: [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/9) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-66b129242916501f61c1480f26b8a45f]: Commencement: [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/9) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
 
 [^c2008180]: Commencement: [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/10) partly in force; [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/10) in force for specified purposes at 12.1.2010 see [s. 324(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/ii)
 
-[^key-0b5a75605557c1dbc472ae0276632ba3]: Commencement: [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/10) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-0b5a75605557c1dbc472ae0276632ba3]: Commencement: [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/10) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
 
 [^c2008179]: Commencement: [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/11) partly in force; [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/11) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c); [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/11) in force for further specified purposes on 12.1.2010 see [s. 324(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/ii)
 
-[^key-d2abc0fc164d862b3a4be52ed4bc501e]: Commencement: [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/11) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-d2abc0fc164d862b3a4be52ed4bc501e]: Commencement: [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2009/23/schedule/13/paragraph/11) in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)

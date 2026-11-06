@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Minor and consequential amendments[^key-754a4301bce7d35f8e82a3c4be047619]
+## 99. Minor and consequential amendments[^c-754a4301bce7d35f8e82a3c4be047619]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 36 makes further amendments in connection with local audit.
 
 ## Annotations
 
-[^key-754a4301bce7d35f8e82a3c4be047619]: Commencement: S. 99 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-754a4301bce7d35f8e82a3c4be047619]: Commencement: S. 99 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

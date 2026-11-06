@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Required information[^key-5e69202f223add735269db0540efb7a0]
+## SCHEDULE 4 — Required information[^c-5e69202f223add735269db0540efb7a0]
 
 *Extent: E+W+S+N.I.*
 
 Section 110
 
-[^key-5e69202f223add735269db0540efb7a0]After section 38 of the Limited Partnerships Act 1907 (inserted by section 151 of this Act) insert the following as a Schedule to that Act—
+[^c-5e69202f223add735269db0540efb7a0]After section 38 of the Limited Partnerships Act 1907 (inserted by section 151 of this Act) insert the following as a Schedule to that Act—
 
 > **SCHEDULE — Required information**
 >
@@ -98,4 +98,4 @@ Section 110
 
 ## Annotations
 
-[^key-5e69202f223add735269db0540efb7a0]: Commencement: Sch. 4 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5e69202f223add735269db0540efb7a0]: Commencement: Sch. 4 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

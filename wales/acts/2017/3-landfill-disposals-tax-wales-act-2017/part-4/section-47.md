@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. The charging condition[^key-cfa6e3ff99256d684403112004d072b9]
+## 47. The charging condition[^c-cfa6e3ff99256d684403112004d072b9]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ unless the person satisfies WRA or (on appeal) the tribunal that the person did 
 
 ## Annotations
 
-[^key-cfa6e3ff99256d684403112004d072b9]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2017/3/section/47) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-cfa6e3ff99256d684403112004d072b9]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2017/3/section/47) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

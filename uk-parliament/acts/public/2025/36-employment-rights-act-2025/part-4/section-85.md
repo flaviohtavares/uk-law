@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Removal of power to impose levy[^key-b0939dcb19e6db7c9790b0a6f4715512][^key-a0ab49c66600eb151db872c3b74c58df]
+## 85. Removal of power to impose levy[^c-b0939dcb19e6db7c9790b0a6f4715512][^c-a0ab49c66600eb151db872c3b74c58df]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0939dcb19e6db7c9790b0a6f4715512]: Commencement: S. 85 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b0939dcb19e6db7c9790b0a6f4715512]: Commencement: S. 85 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-a0ab49c66600eb151db872c3b74c58df]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2025/36/section/85) in force at 1.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 2](https://www.legislation.gov.uk/uksi/2026/323/regulation/2)
+[^c-a0ab49c66600eb151db872c3b74c58df]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2025/36/section/85) in force at 1.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 2](https://www.legislation.gov.uk/uksi/2026/323/regulation/2)

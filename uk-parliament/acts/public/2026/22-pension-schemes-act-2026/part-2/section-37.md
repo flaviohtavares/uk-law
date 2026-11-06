@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Meaning of “pension pot”[^key-c1a6cbc09275a640bea6ea0831d1e293]
+## 37. Meaning of “pension pot”[^c-c1a6cbc09275a640bea6ea0831d1e293]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ the sums or assets held in relation to each employment are regarded for the purp
 
 ## Annotations
 
-[^key-c1a6cbc09275a640bea6ea0831d1e293]: Commencement: S. 37 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-c1a6cbc09275a640bea6ea0831d1e293]: Commencement: S. 37 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. UK credit or financial institutions: accounts and correspondent banking relationships etc[^key-3a2089ad822a74b6868a76f3b70bf6dc]
+## 16. UK credit or financial institutions: accounts and correspondent banking relationships etc[^c-3a2089ad822a74b6868a76f3b70bf6dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a2089ad822a74b6868a76f3b70bf6dc]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/792/regulation/16) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/a)
+[^c-3a2089ad822a74b6868a76f3b70bf6dc]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/792/regulation/16) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/a)

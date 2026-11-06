@@ -29,7 +29,7 @@ summary: ''
 (2) If—
 
 - (a) the trader would otherwise be liable to tax under Chapter 9 of Part 3 in respect of the rent for the wayleave (rent receivable for UK electric-line wayleaves), or
-- (b) expenses incurred by the trader in respect of the wayleave would otherwise be brought into account in calculating profits[^key-697760bbde5ef24889784bfc875de32c] charged under that Chapter,
+- (b) expenses incurred by the trader in respect of the wayleave would otherwise be brought into account in calculating profits[^c-697760bbde5ef24889784bfc875de32c] charged under that Chapter,
 
 the trader may instead bring both the rent and expenses into account in calculating the profits of the trade.
 
@@ -60,4 +60,4 @@ the trader may instead bring both the rent and expenses into account in calculat
 
 ## Annotations
 
-[^key-697760bbde5ef24889784bfc875de32c]: Textual amendment: Words in s. 22(2)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 588](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/588) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-697760bbde5ef24889784bfc875de32c]: Textual amendment: Words in s. 22(2)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 588](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/588) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

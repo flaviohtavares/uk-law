@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Section 77: supplementary provision[^key-1b3c8c72eff49d38a3b210772c0f4b0b]
+## 80. Section 77: supplementary provision[^c-1b3c8c72eff49d38a3b210772c0f4b0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b3c8c72eff49d38a3b210772c0f4b0b]: Commencement: S. 80 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-1b3c8c72eff49d38a3b210772c0f4b0b]: Commencement: S. 80 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

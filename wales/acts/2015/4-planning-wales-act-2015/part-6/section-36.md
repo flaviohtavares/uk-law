@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Duration of outline planning permission[^c22542921][^key-bc7adcc46ca65bdbcbdbc0f5f898bdf2]
+## 36. Duration of outline planning permission[^c22542921][^c-bc7adcc46ca65bdbcbdbc0f5f898bdf2]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c22542921]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2015/4/section/36) partly in force; [s. 36](https://www.legislation.gov.uk/anaw/2015/4/section/36) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-bc7adcc46ca65bdbcbdbc0f5f898bdf2]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2015/4/section/36) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 13](https://www.legislation.gov.uk/wsi/2016/52/article/13))
+[^c-bc7adcc46ca65bdbcbdbc0f5f898bdf2]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2015/4/section/36) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 13](https://www.legislation.gov.uk/wsi/2016/52/article/13))

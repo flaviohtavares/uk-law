@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Discharge of water[^key-62177fd8242fefa21d08b6d8bf337b28]
+## 14. Discharge of water[^c-62177fd8242fefa21d08b6d8bf337b28]
 
 *Extent: E+W+S*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-62177fd8242fefa21d08b6d8bf337b28]: Commencement: Art. 14 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-62177fd8242fefa21d08b6d8bf337b28]: Commencement: Art. 14 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
 [^f00022]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). This Section was amended by sections 35 and 43(2) of, and paragraph 1 of Schedule 2 to, the Competition and Service (Utilities) Act [1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), sections 36 and 99 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37) and paragraph 16 of Schedule 3 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
 

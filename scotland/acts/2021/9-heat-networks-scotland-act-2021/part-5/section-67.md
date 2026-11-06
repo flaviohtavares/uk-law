@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Interpretation of Part 5[^key-b2d172a3fb8a0f244f2172802a74282e][^key-f4f424195ab5bfafd1680145c1149e73]
+## 67. Interpretation of Part 5[^c-b2d172a3fb8a0f244f2172802a74282e][^c-f4f424195ab5bfafd1680145c1149e73]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ In this Part—
 
 ## Annotations
 
-[^key-b2d172a3fb8a0f244f2172802a74282e]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2021/9/section/67) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-b2d172a3fb8a0f244f2172802a74282e]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2021/9/section/67) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
 
-[^key-f4f424195ab5bfafd1680145c1149e73]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2021/9/section/67) in force at 30.5.2023 in so far as not already in force by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(m)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/m)
+[^c-f4f424195ab5bfafd1680145c1149e73]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2021/9/section/67) in force at 30.5.2023 in so far as not already in force by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(m)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/m)

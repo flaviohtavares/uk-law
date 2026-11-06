@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Powers to amend this Chapter[^key-d88d112365120324abac2dd3519114a2]
+## 17. Powers to amend this Chapter[^c-d88d112365120324abac2dd3519114a2]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d88d112365120324abac2dd3519114a2]: Commencement: S. 17 in force at 28.4.2026, see [s. 138(1)(b)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/b)
+[^c-d88d112365120324abac2dd3519114a2]: Commencement: S. 17 in force at 28.4.2026, see [s. 138(1)(b)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/b)

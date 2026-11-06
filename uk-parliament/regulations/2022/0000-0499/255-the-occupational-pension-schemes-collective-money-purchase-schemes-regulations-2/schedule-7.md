@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 35
 
-### 1. Amendments to the Occupational Pension Schemes (Scheme Administration) Regulations 1996[^key-fda57d0836c7890ca7d9c0fc4af337ff]
+### 1. Amendments to the Occupational Pension Schemes (Scheme Administration) Regulations 1996[^c-fda57d0836c7890ca7d9c0fc4af337ff]
 
 (1) The Occupational Pension Schemes (Scheme Administration) Regulations 1996[^f00056] are amended as follows.
 
@@ -72,7 +72,7 @@ Regulation 35
 
     .
 
-### 2. Amendment of the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010[^key-f3772bdcc03368778f975898ffe370a5]
+### 2. Amendment of the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010[^c-f3772bdcc03368778f975898ffe370a5]
 
 (1) The Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010[^f00061] are amended as follows.
 
@@ -190,11 +190,11 @@ Regulation 35
   ; and
 - (b) in the definition of “alternative requirement”, after “by regulation 32E,” insert “32EA,”.
 
-### 3. Amendments to the Occupational Pension Schemes (Charges and Governance) Regulations 2015[^key-6ebdfca0cfbd8768ba9d2ced7779a345]
+### 3. Amendments to the Occupational Pension Schemes (Charges and Governance) Regulations 2015[^c-6ebdfca0cfbd8768ba9d2ced7779a345]
 
 The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f00068] are amended in accordance with paragraphs 4 to 22.
 
-**4.**[^key-d1f6d2c85e0b4f1817eb1a93ecd656b9] (1) Regulation 2 (interpretation)[^f00069] is amended as follows.
+**4.**[^c-d1f6d2c85e0b4f1817eb1a93ecd656b9] (1) Regulation 2 (interpretation)[^f00069] is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -296,13 +296,13 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 .
 
-**5.**[^key-c656749009b23b699f6906884fdb0f96] In regulation 3 (default arrangement)[^f00073], in paragraph (9), at the appropriate place insert—
+**5.**[^c-c656749009b23b699f6906884fdb0f96] In regulation 3 (default arrangement)[^f00073], in paragraph (9), at the appropriate place insert—
 
 > - “**relevant scheme**” does not include a collective money purchase scheme;
 
 .
 
-**6.**[^key-f3dda3ec210f0ba509be948d0dd2b0db] After regulation 3, insert—
+**6.**[^c-f3dda3ec210f0ba509be948d0dd2b0db] After regulation 3, insert—
 
 > **3A. Qualifying collective money purchase schemes**
 >
@@ -321,9 +321,9 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 .
 
-**7.**[^key-62d9a53fd3ab9e3c87a61e4747e2b2e6] In the heading to Chapter 1 of Part 2 (default arrangements, non-contributing members and payments to advisers)[^f00074], after “default arrangements,” insert “qualifying collective money purchase schemes,”.
+**7.**[^c-62d9a53fd3ab9e3c87a61e4747e2b2e6] In the heading to Chapter 1 of Part 2 (default arrangements, non-contributing members and payments to advisers)[^f00074], after “default arrangements,” insert “qualifying collective money purchase schemes,”.
 
-**8.**[^key-1710a097a31d075e29f1becfc0ff8dcc] (1) Regulation 4 (restrictions on charges)[^f00075] is amended as follows.
+**8.**[^c-1710a097a31d075e29f1becfc0ff8dcc] (1) Regulation 4 (restrictions on charges)[^f00075] is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -377,9 +377,9 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 .
 
-**9.**[^key-accddc4d4ea3ad808d5bcbbc994bca7e] In the heading to regulation 5 (prohibited charge structures), after “prohibited charge structures” insert “- default arrangements”.
+**9.**[^c-accddc4d4ea3ad808d5bcbbc994bca7e] In the heading to regulation 5 (prohibited charge structures), after “prohibited charge structures” insert “- default arrangements”.
 
-**10.**[^key-a2dd19225bc306d21f9c6862e8a4c1ec] After regulation 5 (prohibited charge structures), insert—
+**10.**[^c-a2dd19225bc306d21f9c6862e8a4c1ec] After regulation 5 (prohibited charge structures), insert—
 
 > **5A. Prohibited charge structures – qualifying collective money purchase schemes**
 >
@@ -399,9 +399,9 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 .
 
-**11.**[^key-d12b2634efecaa4514bf50c5bed051f5] In the heading to regulation 6 (limits on charges), after “limits on charges” insert “- default arrangements”.
+**11.**[^c-d12b2634efecaa4514bf50c5bed051f5] In the heading to regulation 6 (limits on charges), after “limits on charges” insert “- default arrangements”.
 
-**12.**[^key-8c99c51810dbddc2cb168f23ae7249d2] After regulation 6 (limits on charges) insert—
+**12.**[^c-8c99c51810dbddc2cb168f23ae7249d2] After regulation 6 (limits on charges) insert—
 
 > **6A. Limits on charges – qualifying collective money purchase schemes**
 >
@@ -435,9 +435,9 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 .
 
-**13.**[^key-89ff1a257ef8404c8a5fa9a2e1a9cfcd] In the heading to regulation 7 (assessment of charges), after “assessment of charges” insert “- default arrangements”.
+**13.**[^c-89ff1a257ef8404c8a5fa9a2e1a9cfcd] In the heading to regulation 7 (assessment of charges), after “assessment of charges” insert “- default arrangements”.
 
-**14.**[^key-f9eeaba27333c276a2350ce8d737d424] After regulation 7 (assessment of charges) insert—
+**14.**[^c-f9eeaba27333c276a2350ce8d737d424] After regulation 7 (assessment of charges) insert—
 
 > **7A. Assessment of charges – qualifying collective money purchase schemes**
 >
@@ -485,9 +485,9 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 .
 
-**15.**[^key-d1ee1c9e6dfe0d860f5b578079e34c9b] In the heading to regulation 8 (alternative assessment of charges) after “charges” insert “- default arrangements”.
+**15.**[^c-d1ee1c9e6dfe0d860f5b578079e34c9b] In the heading to regulation 8 (alternative assessment of charges) after “charges” insert “- default arrangements”.
 
-**16.**[^key-2e3e6b3f0e6ca826d4f01083f0c918d3] After regulation 8 (alternative assessment of charges) insert—
+**16.**[^c-2e3e6b3f0e6ca826d4f01083f0c918d3] After regulation 8 (alternative assessment of charges) insert—
 
 > **8A. Alternative assessment of charges – qualifying collective money purchase schemes**
 >
@@ -524,7 +524,7 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 .
 
-**17.**[^key-97d2f1ee73a3052399b3c95e8860f5eb] (1) Regulation 9 (member agreement for services)[^f00077] is amended as follows.
+**17.**[^c-97d2f1ee73a3052399b3c95e8860f5eb] (1) Regulation 9 (member agreement for services)[^f00077] is amended as follows.
 
 (2) In paragraph (1), after “Subject to paragraph (3),” insert “in the case of a member of a relevant scheme (that is not a collective money purchase scheme),”.
 
@@ -548,11 +548,11 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 .
 
-**18.**[^key-774208f8a74d1a0535feac37225ef2d9] In paragraph (1) of regulation 10 (charge limits adjustment), after “relevant scheme” insert “, that is not a collective money purchase scheme,”.
+**18.**[^c-774208f8a74d1a0535feac37225ef2d9] In paragraph (1) of regulation 10 (charge limits adjustment), after “relevant scheme” insert “, that is not a collective money purchase scheme,”.
 
-**19.**[^key-cc2e829fdfabc655c3209b15c302caa2] In paragraph (5) of regulation 11 (non-contributing members), in the definition of “relevant scheme”, for “regulation 2(2)” substitute “regulation 2(2)(a) or (b)”.
+**19.**[^c-cc2e829fdfabc655c3209b15c302caa2] In paragraph (5) of regulation 11 (non-contributing members), in the definition of “relevant scheme”, for “regulation 2(2)” substitute “regulation 2(2)(a) or (b)”.
 
-**20.**[^key-44c06e98fa96991a3cf227dad039ae5a] (1) Regulation 11A (payments to advisers)[^f00078] is amended as follows.
+**20.**[^c-44c06e98fa96991a3cf227dad039ae5a] (1) Regulation 11A (payments to advisers)[^f00078] is amended as follows.
 
 (2) In paragraph (1), the existing text after “applies” becomes sub-paragraph (a).
 
@@ -566,13 +566,13 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 (5) In paragraph (3), after “specified scheme” in both places that it occurs, insert “or specified section, as applicable”.
 
-**21.**[^key-95dca8324fb3ba00183399f855d173e3] In regulation 11B (relevant information)[^f00079], after paragraph (7) insert—
+**21.**[^c-95dca8324fb3ba00183399f855d173e3] In regulation 11B (relevant information)[^f00079], after paragraph (7) insert—
 
 > (8) In this regulation, in relation to a specified section, references to a “specified scheme” are to be read as references to a “specified section”.
 
 .
 
-**22.**[^key-f0d52406acd826be98d85e5a20fffcce] For paragraph (5) of regulation 11C (member agreement for payments to advisers)[^f00080] substitute—
+**22.**[^c-f0d52406acd826be98d85e5a20fffcce] For paragraph (5) of regulation 11C (member agreement for payments to advisers)[^f00080] substitute—
 
 > (5) In this regulation—
 >
@@ -583,7 +583,7 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 ## Annotations
 
-[^key-fda57d0836c7890ca7d9c0fc4af337ff]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/1) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-fda57d0836c7890ca7d9c0fc4af337ff]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/1) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00056]: Footnote: [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715).
 
@@ -595,7 +595,7 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 [^f00060]: Footnote: Regulation 25 was inserted by [S.I. 2015/879](https://www.legislation.gov.uk/uksi/2015/879) and amended by [S.I. 2021/1070](https://www.legislation.gov.uk/uksi/2021/1070).
 
-[^key-f3772bdcc03368778f975898ffe370a5]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-f3772bdcc03368778f975898ffe370a5]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00061]: Footnote: [S.I. 2010/772](https://www.legislation.gov.uk/uksi/2010/772).
 
@@ -611,11 +611,11 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 [^f00067]: Footnote: [2021 c. 1](https://www.legislation.gov.uk/ukpga/2021/1).
 
-[^key-6ebdfca0cfbd8768ba9d2ced7779a345]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/3) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-6ebdfca0cfbd8768ba9d2ced7779a345]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/3) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00068]: Footnote: [S.I. 2015/879](https://www.legislation.gov.uk/uksi/2015/879).
 
-[^key-d1f6d2c85e0b4f1817eb1a93ecd656b9]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-d1f6d2c85e0b4f1817eb1a93ecd656b9]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/4) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00069]: Footnote: Regulation 2 was amended by [S.I. 2016/304](https://www.legislation.gov.uk/uksi/2016/304), [2017/774](https://www.legislation.gov.uk/uksi/2017/774) and [2021/1070](https://www.legislation.gov.uk/uksi/2021/1070).
 
@@ -625,54 +625,54 @@ The Occupational Pension Schemes (Charges and Governance) Regulations 2015[^f000
 
 [^f00072]: Footnote: Paragraph 5 was inserted by [S.I. 2021/1070](https://www.legislation.gov.uk/uksi/2021/1070).
 
-[^key-c656749009b23b699f6906884fdb0f96]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/5) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-c656749009b23b699f6906884fdb0f96]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/5) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00073]: Footnote: Regulation 3 was amended by [S.I. 2015/889](https://www.legislation.gov.uk/uksi/2015/889).
 
-[^key-f3dda3ec210f0ba509be948d0dd2b0db]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/6) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-f3dda3ec210f0ba509be948d0dd2b0db]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/6) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-62d9a53fd3ab9e3c87a61e4747e2b2e6]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/7) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-62d9a53fd3ab9e3c87a61e4747e2b2e6]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/7) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00074]: Footnote: The heading to Chapter 1 was inserted by [S.I. 2017/774](https://www.legislation.gov.uk/uksi/2017/774).
 
-[^key-1710a097a31d075e29f1becfc0ff8dcc]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-1710a097a31d075e29f1becfc0ff8dcc]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/8) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00075]: Footnote: Regulation 4 was amended by [S.I. 2016/304](https://www.legislation.gov.uk/uksi/2016/304), [2017/774](https://www.legislation.gov.uk/uksi/2017/774) and [2018/240](https://www.legislation.gov.uk/uksi/2018/240).
 
 [^f00076]: Footnote: The definition of “pensioner member” was amended by paragraph 8 of Schedule 5 to the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) and [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745).
 
-[^key-accddc4d4ea3ad808d5bcbbc994bca7e]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/9) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-accddc4d4ea3ad808d5bcbbc994bca7e]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/9) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-a2dd19225bc306d21f9c6862e8a4c1ec]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/10) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-a2dd19225bc306d21f9c6862e8a4c1ec]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/10) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-d12b2634efecaa4514bf50c5bed051f5]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/11) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-d12b2634efecaa4514bf50c5bed051f5]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/11) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-8c99c51810dbddc2cb168f23ae7249d2]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/12) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-8c99c51810dbddc2cb168f23ae7249d2]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/12) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-89ff1a257ef8404c8a5fa9a2e1a9cfcd]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/13) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-89ff1a257ef8404c8a5fa9a2e1a9cfcd]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/13) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-f9eeaba27333c276a2350ce8d737d424]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/14) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-f9eeaba27333c276a2350ce8d737d424]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/14) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-d1ee1c9e6dfe0d860f5b578079e34c9b]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/15) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-d1ee1c9e6dfe0d860f5b578079e34c9b]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/15) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-2e3e6b3f0e6ca826d4f01083f0c918d3]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/16) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-2e3e6b3f0e6ca826d4f01083f0c918d3]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/16) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-97d2f1ee73a3052399b3c95e8860f5eb]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/17) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-97d2f1ee73a3052399b3c95e8860f5eb]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/17) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00077]: Footnote: Regulation 9 was amended by [S.I. 2017/774](https://www.legislation.gov.uk/uksi/2017/774).
 
-[^key-774208f8a74d1a0535feac37225ef2d9]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/18) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-774208f8a74d1a0535feac37225ef2d9]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/18) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-cc2e829fdfabc655c3209b15c302caa2]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/19) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-cc2e829fdfabc655c3209b15c302caa2]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/19) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-44c06e98fa96991a3cf227dad039ae5a]: Commencement: [Sch. 7 para. 20](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/20) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-44c06e98fa96991a3cf227dad039ae5a]: Commencement: [Sch. 7 para. 20](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/20) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00078]: Footnote: Regulation 11A was inserted by [S.I. 2016/304](https://www.legislation.gov.uk/uksi/2016/304) and was amended by [S.I. 2017/774](https://www.legislation.gov.uk/uksi/2017/774).
 
-[^key-95dca8324fb3ba00183399f855d173e3]: Commencement: [Sch. 7 para. 21](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/21) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-95dca8324fb3ba00183399f855d173e3]: Commencement: [Sch. 7 para. 21](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/21) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00079]: Footnote: Regulation 11B was inserted by [S.I. 2016/304](https://www.legislation.gov.uk/uksi/2016/304) and was amended by [S.I. 2017/774](https://www.legislation.gov.uk/uksi/2017/774).
 
-[^key-f0d52406acd826be98d85e5a20fffcce]: Commencement: [Sch. 7 para. 22](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/22) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-f0d52406acd826be98d85e5a20fffcce]: Commencement: [Sch. 7 para. 22](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/22) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00080]: Footnote: Regulation 11C was inserted by [S.I. 2016/304](https://www.legislation.gov.uk/uksi/2016/304) and was amended by [S.I. 2017/774](https://www.legislation.gov.uk/uksi/2017/774).

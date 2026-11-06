@@ -61,7 +61,7 @@ In paragraph (a) of section 3 (effect of warrant for diligence in extract decree
 
 In paragraph (a) of section 7(1) (effect of warrant for diligence in extract decree) of the Sheriff Courts (Scotland) Extracts Act 1892, for “poinding”, in both places where it occurs, there is substituted “ attachment ”.
 
-#### 9. Public Health (Scotland) Act 1897 (c.38)[^key-10471aff5e05c863ba54d654e78317e5]
+#### 9. Public Health (Scotland) Act 1897 (c.38)[^c-10471aff5e05c863ba54d654e78317e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -112,7 +112,7 @@ In section 11 (which enables a poinding of furniture or plenishings possessed or
 
 (3) In sub-paragraph (5) (sheriff officer’s fees and outlays), for the words from “paragraphs” to “sale)” there is substituted “ section 39(1) of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) (expenses of attachment) ”.
 
-#### 15. Bankruptcy (Scotland) Act 1985 (c.66)[^key-3a5d6ca709c402400f7cb5e5c9d8f0eb]
+#### 15. Bankruptcy (Scotland) Act 1985 (c.66)[^c-3a5d6ca709c402400f7cb5e5c9d8f0eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -231,7 +231,7 @@ are repealed.
 
 (3) In paragraph 8(1) (sheriff officer’s fees and outlays), for the words from “paragraphs” to “1987” there is substituted “ section 39(1) of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) (expenses of attachment) ”.
 
-#### 19. Income and Corporation Taxes Act 1988 (c.1)[^key-f456ef2f30f89a1e601b35ec9517df72]
+#### 19. Income and Corporation Taxes Act 1988 (c.1)[^c-f456ef2f30f89a1e601b35ec9517df72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -399,8 +399,8 @@ In Regulation 33 of the Civil Legal Aid (Scotland) Regulations 2002, for paragra
 
 ## Annotations
 
-[^key-10471aff5e05c863ba54d654e78317e5]: Textual amendment: [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2002/17/schedule/3/paragraph/9) repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-10471aff5e05c863ba54d654e78317e5]: Textual amendment: [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2002/17/schedule/3/paragraph/9) repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
-[^key-3a5d6ca709c402400f7cb5e5c9d8f0eb]: Textual amendment: [Sch. 3 para. 15](https://www.legislation.gov.uk/asp/2002/17/schedule/3/paragraph/15) repealed (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 9 Pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-3a5d6ca709c402400f7cb5e5c9d8f0eb]: Textual amendment: [Sch. 3 para. 15](https://www.legislation.gov.uk/asp/2002/17/schedule/3/paragraph/15) repealed (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 9 Pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-f456ef2f30f89a1e601b35ec9517df72]: Textual amendment: [Sch. 3 para. 19](https://www.legislation.gov.uk/asp/2002/17/schedule/3/paragraph/19) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-f456ef2f30f89a1e601b35ec9517df72]: Textual amendment: [Sch. 3 para. 19](https://www.legislation.gov.uk/asp/2002/17/schedule/3/paragraph/19) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

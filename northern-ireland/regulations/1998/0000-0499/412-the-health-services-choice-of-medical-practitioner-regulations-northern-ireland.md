@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 15E(1) and (2), 95 and 106(*b*) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-820b43448fe8b5996c71fa783fe7dd66]
+## 1. Citation, commencement and interpretation[^c-820b43448fe8b5996c71fa783fe7dd66]
 
 (1) These Regulations may be cited as the Health Services (Choice of Medical Practitioner) Regulations (Northern Ireland) 1998 and shall come into operation on 1st April 1999.
 
@@ -67,7 +67,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - “primary medical services” means the services described in Article 15E(5) of the 1972 Order[^f00005]; and
 - “temporary resident” shall be construed in accordance with regulation 6.
 
-## 2. Procedure for choosing a doctor[^key-e3e97b1f33eafcc1b3c64e09b3a3e63d]
+## 2. Procedure for choosing a doctor[^c-e3e97b1f33eafcc1b3c64e09b3a3e63d]
 
 (1) Any person who wishes to receive primary medical services may choose the doctor from whom he is to receive those services (being a doctor who provides general medical services or who is primarily responsible for the performance of personal medical services under a pilot scheme[^f00006]), subject to–
 
@@ -85,7 +85,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
   - (iii) in a training school, by the manager of that training school; or
 - (c) on behalf of any person who is incapable of making such an application, or authorising such an application to be made on his behalf, by a relative or other adult person who has the care of such person.
 
-## 3. Change of doctor[^key-bcdadb2f00d5552eeeac3fdf056ac2f9]
+## 3. Change of doctor[^c-bcdadb2f00d5552eeeac3fdf056ac2f9]
 
 (1) A person whose name is already included in a doctor’s list, but who wishes to change doctor, may, in accordance with regulation 2, apply to another doctor who provides general medical services or performs personal medical services for inclusion of his name in the doctor’s list of that other doctor.
 
@@ -102,7 +102,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (4) Where no such successor is to be appointed to a practice, the Agency shall notify the persons whose names are included in the doctor’s list of the doctor who last carried on that practice of their right to apply to another doctor for acceptance.
 
-## 4. Assignment of persons to doctors[^key-f02b47b8f2799db7211387600f8f48a5]
+## 4. Assignment of persons to doctors[^c-f02b47b8f2799db7211387600f8f48a5]
 
 (1) Where–
 
@@ -152,9 +152,9 @@ the Agency shall take all reasonable steps to assign, or to require the assignme
 - (b) the number of persons whose names are included in his doctor’s list; and
 - (c) where the application relates only to a specified person whose name has previously been removed from his doctor’s list, the circumstances of that removal,
 
-and the Agency shall notify any such doctor in writing of any decision under paragraph (8)[^key-dfe16662aee9ee73ef6555145c466d25] .
+and the Agency shall notify any such doctor in writing of any decision under paragraph (8)[^c-dfe16662aee9ee73ef6555145c466d25] .
 
-## 5. Assignment by a pilot scheme provider[^key-2f978cd4dd88e48b73b123fc56218d27]
+## 5. Assignment by a pilot scheme provider[^c-2f978cd4dd88e48b73b123fc56218d27]
 
 (1) A pilot scheme provider who is required under regulation 4(2)(*b*) to assign an applicant to a doctor shall (subject to paragraphs (3), (4) and (5)) assign the applicant to a doctor within the period of two days beginning with the day on which he receives notice of the requirement to assign and shall, upon making that assignment, notify–
 
@@ -185,7 +185,7 @@ and the Agency shall, on receipt of notification under sub-paragraph (*a*), noti
 
 and shall, in each of those cases, provide personal medical services to the applicant (which provision need not include the services mentioned in regulation 4(6), unless the pilot scheme provider is obliged to provide those services to the applicant in connection with a pilot scheme) for the period of 14 days beginning on the day on which the pilot scheme provider so informs the Agency, or if the applicant is accepted by a doctor or another pilot scheme provider or assigned to a doctor within that period, until he is so accepted or assigned.
 
-## 6. Temporary residents[^key-fc2bef32ac888951605f080838184349]
+## 6. Temporary residents[^c-fc2bef32ac888951605f080838184349]
 
 (1) A person requiring treatment who is–
 
@@ -196,7 +196,7 @@ may apply to any doctor who provides general medical services or is primarily re
 
 (2) For the purposes of paragraph (1), a person shall be regarded as temporarily resident in a place if, when he arrives in that place, he intends to stay there for more than 24 hours, but not more than three months.
 
-## 7. Transfer of doctors between provision of general medical services and performance of personal medical services[^key-4e2840fb2c354c0cb96686a2cb252500]
+## 7. Transfer of doctors between provision of general medical services and performance of personal medical services[^c-4e2840fb2c354c0cb96686a2cb252500]
 
 (1) Where a person has chosen a doctor from whom he is to receive general medical services and–
 
@@ -249,7 +249,7 @@ Belfast BT4 3SF
 
 [^f00001]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265). Article 15E was inserted by Article 23 of S.I. [1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
-[^key-820b43448fe8b5996c71fa783fe7dd66]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/412/regulation/1) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
+[^c-820b43448fe8b5996c71fa783fe7dd66]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/412/regulation/1) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
@@ -259,7 +259,7 @@ Belfast BT4 3SF
 
 [^f00005]: Footnote: Article 15E was inserted by Article 23 of S.I. [1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
-[^key-e3e97b1f33eafcc1b3c64e09b3a3e63d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/412/regulation/2) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
+[^c-e3e97b1f33eafcc1b3c64e09b3a3e63d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/412/regulation/2) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
 
 [^f00006]: Footnote: As to such doctors (and the requirement that they must have a doctor’s list) *see* the directions to Health and Social Services Boards concerning the implementation of pilot schemes (personal medical services), given by the Department of Health and Social Services on 19th November 1998
 
@@ -267,20 +267,20 @@ Belfast BT4 3SF
 
 [^f00008]: Footnote: S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-bcdadb2f00d5552eeeac3fdf056ac2f9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/412/regulation/3) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
+[^c-bcdadb2f00d5552eeeac3fdf056ac2f9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/412/regulation/3) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
 
-[^key-f02b47b8f2799db7211387600f8f48a5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/412/regulation/4) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
+[^c-f02b47b8f2799db7211387600f8f48a5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/412/regulation/4) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
 
 [^f00009]: Footnote: *See* regulations 27, 28, 34 and 36 respectively
 
 [^f00010]: Footnote: *See* paragraph 11(3) of the directions to Health and Social Services Boards concerning the implementation of pilot schemes (personal medical services), given by the Department of Health and Social Services on 19th November 1998
 
-[^key-dfe16662aee9ee73ef6555145c466d25]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/nisr/1998/412/regulation/4/9) substituted (1.4.1999) by [The Health Services (Pilot Schemes: Miscellaneous Provisions and Consequential Amendments) Regulations (Northern Ireland) 1999 (S.R. 1999/100)](https://www.legislation.gov.uk/nisr/1999/100), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/1999/100/regulation/15)
+[^c-dfe16662aee9ee73ef6555145c466d25]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/nisr/1998/412/regulation/4/9) substituted (1.4.1999) by [The Health Services (Pilot Schemes: Miscellaneous Provisions and Consequential Amendments) Regulations (Northern Ireland) 1999 (S.R. 1999/100)](https://www.legislation.gov.uk/nisr/1999/100), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/100/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/1999/100/regulation/15)
 
-[^key-2f978cd4dd88e48b73b123fc56218d27]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/412/regulation/5) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
+[^c-2f978cd4dd88e48b73b123fc56218d27]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/412/regulation/5) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
 
-[^key-fc2bef32ac888951605f080838184349]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/412/regulation/6) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
+[^c-fc2bef32ac888951605f080838184349]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/412/regulation/6) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
 
-[^key-4e2840fb2c354c0cb96686a2cb252500]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/412/regulation/7) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
+[^c-4e2840fb2c354c0cb96686a2cb252500]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/412/regulation/7) in operation at 1.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/412/regulation/1/1)
 
 [^f00011]: Footnote: *See* the directions to Health and Social Services Boards and the Central Services Agency concerning patient lists (personal medical services), given by the Department of Health and Social Services on 19th November 1998

@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 280(3) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-e06fd57a464ab0af536fe58c43c41f1e]
+## 1. Citation, commencement and interpretation[^c-e06fd57a464ab0af536fe58c43c41f1e]
 
 (1) These Regulations may be cited as the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations (Northern Ireland) 2005 and shall come into operation –
 
@@ -55,23 +55,23 @@ The Department for Social Development, in exercise of the powers conferred on it
     - (ii) any benefits payable under the scheme rules; or
     - (iii) any members of the scheme, or
   - (b) made any other arrangements for the purposes of securing that the assets of the scheme are sufficient to meet any part of its liabilities.
-- “secured part” means any part of a partially guaranteed scheme which is not an unsecured part;[^key-322e206450e0da3622e8b886d0a8411e]
+- “secured part” means any part of a partially guaranteed scheme which is not an unsecured part;[^c-322e206450e0da3622e8b886d0a8411e]
 - “the Treaty” means the Treaty on the Functioning of the European Union.
 
 (3) In these Regulations, any reference to a numbered Article is a reference to the Article of the Order bearing that number.
 
-## 2. Modification of Part III of the Order[^key-573c30a9b223374762a75bb745ba8273]
+## 2. Modification of Part III of the Order[^c-573c30a9b223374762a75bb745ba8273]
 
-(1)[^key-dd4966d0b5df5e71f9b31bbfb83016a7] In relation to a partially guaranteed scheme, Part III of the Order (the Board of the Pension Protection Fund) applies with the modifications prescribed in regulations 3 to 11[^key-1e6dc3db33d9a5ce44f1c1922b364d73] .
+(1)[^c-dd4966d0b5df5e71f9b31bbfb83016a7] In relation to a partially guaranteed scheme, Part III of the Order (the Board of the Pension Protection Fund) applies with the modifications prescribed in regulations 3 to 11[^c-1e6dc3db33d9a5ce44f1c1922b364d73] .
 
-(2)[^key-d2b6adcf9c9addaa15186fb8e255bf3f][^key-2c46d16f0695fd7080d1e5143d720b1b] Paragraph (1) shall not apply in relation to a partially guaranteed scheme where—
+(2)[^c-d2b6adcf9c9addaa15186fb8e255bf3f][^c-2c46d16f0695fd7080d1e5143d720b1b] Paragraph (1) shall not apply in relation to a partially guaranteed scheme where—
 
 - (a) the scheme was in existence immediately prior to IP completion day, and
 - (b) the application of paragraph (1) immediately prior to IP completion day would have given rise to State aid that was incompatible with the internal market within the meaning of Article 107 of the Treaty as it had effect in the United Kingdom immediately prior to IP completion day.
 
 (3) Regulations 2A and 11 shall apply where paragraph (1) does not apply to a partially guaranteed scheme by virtue of paragraph (2).
 
-## 2A. Schemes to which regulation 2(1) does not apply[^key-18dfea1915393169b5f076b94cf5e4f4]
+## 2A. Schemes to which regulation 2(1) does not apply[^c-18dfea1915393169b5f076b94cf5e4f4]
 
 (1) This regulation applies to a partially guaranteed scheme to which paragraph (1) of regulation 2 does not apply by virtue of paragraph (2) of that regulation.
 
@@ -79,19 +79,19 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) Each part of the scheme referred to in paragraph (1) is an eligible scheme within the meaning of Article 110(1) for the purposes of Part III of the Order.
 
-## 3. Application and effect[^key-0a7259ad60a26d3449fae85982090904][^key-abd626733b8637300adfb57625d41e62]
+## 3. Application and effect[^c-0a7259ad60a26d3449fae85982090904][^c-abd626733b8637300adfb57625d41e62]
 
-(1)[^key-0a7259ad60a26d3449fae85982090904] The following Articles of the Order apply as if for “assets of the scheme” in each place where it occurs there were substituted “assets of the unsecured part” –
+(1)[^c-0a7259ad60a26d3449fae85982090904] The following Articles of the Order apply as if for “assets of the scheme” in each place where it occurs there were substituted “assets of the unsecured part” –
 
 - (a) Article 111(2)(a) and (4)(a) (duty to assume responsibility for schemes following insolvency event);
 - (b) Article 112(2)(a) and (3)(a) (duty to assume responsibility for schemes following application or notification);
 - (c) Article 120(5) (power to validate contraventions of Article 119);
-- (ca)[^key-cb8c2c8774627d3e3f89e8fd4ddcacf6] Article 127(5B)(b) and (c) (Board’s obligation to obtain valuation of assets and protected liabilities);
+- (ca)[^c-cb8c2c8774627d3e3f89e8fd4ddcacf6] Article 127(5B)(b) and (c) (Board’s obligation to obtain valuation of assets and protected liabilities);
 - (d) Article 135(9)(a) (application for reconsideration);
-- (e) Article 136(2B), (9)(a), (10A)[^key-97a4765758f5acadd295b38bca2b7985] and (11) (duty to assume responsibility following reconsideration), and
+- (e) Article 136(2B), (9)(a), (10A)[^c-97a4765758f5acadd295b38bca2b7985] and (11) (duty to assume responsibility following reconsideration), and
 - (f) Article 142(2) (duty to assume responsibility for closed schemes).
 
-(2)[^key-0a7259ad60a26d3449fae85982090904] The following Articles of the Order apply as if for “an eligible scheme” in each place where it occurs there were substituted “the unsecured part of an eligible scheme” –
+(2)[^c-0a7259ad60a26d3449fae85982090904] The following Articles of the Order apply as if for “an eligible scheme” in each place where it occurs there were substituted “the unsecured part of an eligible scheme” –
 
 - (a) Article 115(1) (protected liabilities);
 - (b) Article 147(1) (adjustments to be made where the Board assumes responsibility for a scheme);
@@ -100,7 +100,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 - (e) Article 153(1) (discharge of liabilities in respect of compensation), and
 - (f) Article 154(1) (discharge of liabilities in respect of money purchase benefits).
 
-(3)[^key-0a7259ad60a26d3449fae85982090904] The following Articles of the Order apply as if for “a scheme” in each place where it occurs there were substituted “an unsecured part” –
+(3)[^c-0a7259ad60a26d3449fae85982090904] The following Articles of the Order apply as if for “a scheme” in each place where it occurs there were substituted “an unsecured part” –
 
 - (a) Article 126(1) (Articles 124 and 125: interpretation);
 - (b) Article 128(1) (approval of valuation);
@@ -116,77 +116,77 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (4) The following Articles of the Order apply as if for “the scheme” in each place where it occurs there were substituted “the unsecured part” –
 
-- (a)[^key-0a7259ad60a26d3449fae85982090904] Article 115(1) (protected liabilities);
-- (b)[^key-0a7259ad60a26d3449fae85982090904] Article 122(3) (payment of scheme benefits);
-- (c)[^key-0a7259ad60a26d3449fae85982090904] Article 124(2)(a) (reviewable ill health pensions);
-- (d)[^key-abd626733b8637300adfb57625d41e62] Article 125(2), (3)(a), (4) and (5)(a) (effect of a review);
-- (e)[^key-0a7259ad60a26d3449fae85982090904] Article 126(1) and (4) (Articles 124 and 125: interpretation);
-- (f)[^key-0a7259ad60a26d3449fae85982090904] Article 127(2) , (2A)(a), (5A)(a) and (b)[^key-8247e4d3ad202c2cd281364ffe58e39a] and (11)(a) and (b) (Board’s obligation to obtain valuation of assets and protected liabilities);
-- (fa)[^key-24ec8b3732b38e786ea1eb2cfabb1c91] Article 127A(1)(b) (determinations under Article 127);
-- (g)[^key-abd626733b8637300adfb57625d41e62] Article 130(1) (schemes which become eligible schemes);
-- (h)[^key-0a7259ad60a26d3449fae85982090904] Article 135(1), (2)(b) and (c) and (3)(b) and (c) (application for reconsideration);
-- (i)[^key-0a7259ad60a26d3449fae85982090904] Article 136(2), (2A), (2B), (5) and (10A)[^key-f9c446087896f5c132a70c96b4c2ce9f] (duty to assume responsibility following reconsideration);
-- (j)[^key-0a7259ad60a26d3449fae85982090904] Article 138(2)(c) and (5)(b) and (c) (requirement to wind up schemes with sufficient assets to meet protected liabilities);
-- (k)[^key-0a7259ad60a26d3449fae85982090904] Article 141(1) and (3) (applications and notifications where closed schemes have insufficient assets);
-- (l)[^key-0a7259ad60a26d3449fae85982090904] Article 142(1), (3) and (3A)[^key-529dab5d7ddf335f400693fc711c8db4] (duty to assume responsibility for closed schemes);
-- (m)[^key-0a7259ad60a26d3449fae85982090904] Article 143(3)(b)(ii) (closed schemes: further assessment periods);
-- (n)[^key-0a7259ad60a26d3449fae85982090904] Article 145(1), (2)(a), (3) and (7)(b) (effect of Board assuming responsibility for a scheme);
-- (o)[^key-0a7259ad60a26d3449fae85982090904] Article 147(3)(a) (adjustments to be made where the Board assumes responsibility for a scheme);
-- (p)[^key-0a7259ad60a26d3449fae85982090904] Article 148(1) (postponement of compensation entitlement for the assessment period);
-- (q)[^key-0a7259ad60a26d3449fae85982090904] Article 150(5)(a) and (6) (duty to pay scheme benefits unpaid at assessment date etc.), and
-- (r)[^key-0a7259ad60a26d3449fae85982090904] Article 156(4) and (6) (relationship with fraud compensation regime).
+- (a)[^c-0a7259ad60a26d3449fae85982090904] Article 115(1) (protected liabilities);
+- (b)[^c-0a7259ad60a26d3449fae85982090904] Article 122(3) (payment of scheme benefits);
+- (c)[^c-0a7259ad60a26d3449fae85982090904] Article 124(2)(a) (reviewable ill health pensions);
+- (d)[^c-abd626733b8637300adfb57625d41e62] Article 125(2), (3)(a), (4) and (5)(a) (effect of a review);
+- (e)[^c-0a7259ad60a26d3449fae85982090904] Article 126(1) and (4) (Articles 124 and 125: interpretation);
+- (f)[^c-0a7259ad60a26d3449fae85982090904] Article 127(2) , (2A)(a), (5A)(a) and (b)[^c-8247e4d3ad202c2cd281364ffe58e39a] and (11)(a) and (b) (Board’s obligation to obtain valuation of assets and protected liabilities);
+- (fa)[^c-24ec8b3732b38e786ea1eb2cfabb1c91] Article 127A(1)(b) (determinations under Article 127);
+- (g)[^c-abd626733b8637300adfb57625d41e62] Article 130(1) (schemes which become eligible schemes);
+- (h)[^c-0a7259ad60a26d3449fae85982090904] Article 135(1), (2)(b) and (c) and (3)(b) and (c) (application for reconsideration);
+- (i)[^c-0a7259ad60a26d3449fae85982090904] Article 136(2), (2A), (2B), (5) and (10A)[^c-f9c446087896f5c132a70c96b4c2ce9f] (duty to assume responsibility following reconsideration);
+- (j)[^c-0a7259ad60a26d3449fae85982090904] Article 138(2)(c) and (5)(b) and (c) (requirement to wind up schemes with sufficient assets to meet protected liabilities);
+- (k)[^c-0a7259ad60a26d3449fae85982090904] Article 141(1) and (3) (applications and notifications where closed schemes have insufficient assets);
+- (l)[^c-0a7259ad60a26d3449fae85982090904] Article 142(1), (3) and (3A)[^c-529dab5d7ddf335f400693fc711c8db4] (duty to assume responsibility for closed schemes);
+- (m)[^c-0a7259ad60a26d3449fae85982090904] Article 143(3)(b)(ii) (closed schemes: further assessment periods);
+- (n)[^c-0a7259ad60a26d3449fae85982090904] Article 145(1), (2)(a), (3) and (7)(b) (effect of Board assuming responsibility for a scheme);
+- (o)[^c-0a7259ad60a26d3449fae85982090904] Article 147(3)(a) (adjustments to be made where the Board assumes responsibility for a scheme);
+- (p)[^c-0a7259ad60a26d3449fae85982090904] Article 148(1) (postponement of compensation entitlement for the assessment period);
+- (q)[^c-0a7259ad60a26d3449fae85982090904] Article 150(5)(a) and (6) (duty to pay scheme benefits unpaid at assessment date etc.), and
+- (r)[^c-0a7259ad60a26d3449fae85982090904] Article 156(4) and (6) (relationship with fraud compensation regime).
 
-(5)[^key-69c174b73228589dbcbb30986627bb33] Article 158(2)(a)(i) (pension protection levies) applies as if, for “a scheme’s assets” there were substituted “the assets of the unsecured part of a scheme”.
+(5)[^c-69c174b73228589dbcbb30986627bb33] Article 158(2)(a)(i) (pension protection levies) applies as if, for “a scheme’s assets” there were substituted “the assets of the unsecured part of a scheme”.
 
-## 4. Circumstances in which Board assumes responsibility for eligible schemes[^key-f29936ea75bc6d1552181ef315f9e066][^key-2ef049f3c564d6a801db5339cfb100c4]
+## 4. Circumstances in which Board assumes responsibility for eligible schemes[^c-f29936ea75bc6d1552181ef315f9e066][^c-2ef049f3c564d6a801db5339cfb100c4]
 
-(1)[^key-f29936ea75bc6d1552181ef315f9e066] Articles 111 (duty to assume responsibility for schemes following insolvency event) and 112 (duty to assume responsibility for schemes following application or notification) apply as if, in paragraph (2) of each Article –
+(1)[^c-f29936ea75bc6d1552181ef315f9e066] Articles 111 (duty to assume responsibility for schemes following insolvency event) and 112 (duty to assume responsibility for schemes following application or notification) apply as if, in paragraph (2) of each Article –
 
 - (a) for “responsibility for the scheme” there were substituted “responsibility for the unsecured part”, and
 - (b) in sub-paragraph (a), after “protected liabilities” there were inserted “of that part”.
 
-(2)[^key-2ef049f3c564d6a801db5339cfb100c4] Article 113 (applications and notifications for the purposes of Article 112) applies as if, in paragraph (1), for “responsibility for the scheme” there were substituted “responsibility for the unsecured part”.
+(2)[^c-2ef049f3c564d6a801db5339cfb100c4] Article 113 (applications and notifications for the purposes of Article 112) applies as if, in paragraph (1), for “responsibility for the scheme” there were substituted “responsibility for the unsecured part”.
 
-## 5. Restrictions on schemes during the assessment period[^key-7d73a2489a3700860cae113ca01d5926][^key-7f4d4e4bd862defc0fd8e72c2eaa2145]
+## 5. Restrictions on schemes during the assessment period[^c-7d73a2489a3700860cae113ca01d5926][^c-7f4d4e4bd862defc0fd8e72c2eaa2145]
 
-(1)[^key-7d73a2489a3700860cae113ca01d5926] Article 118 (directions) applies as if, in paragraph (2), for “the scheme’s protected liabilities” there were substituted “the protected liabilities of the unsecured part”.
+(1)[^c-7d73a2489a3700860cae113ca01d5926] Article 118 (directions) applies as if, in paragraph (2), for “the scheme’s protected liabilities” there were substituted “the protected liabilities of the unsecured part”.
 
-(2)[^key-7d73a2489a3700860cae113ca01d5926] Article 120 (power to validate contraventions of Article 119) applies as if, in paragraph (1), for “the scheme’s protected liabilities” there were substituted “the protected liabilities of the unsecured part”.
+(2)[^c-7d73a2489a3700860cae113ca01d5926] Article 120 (power to validate contraventions of Article 119) applies as if, in paragraph (1), for “the scheme’s protected liabilities” there were substituted “the protected liabilities of the unsecured part”.
 
 (3) Article 122 (payment of scheme benefits) applies as if –
 
-- (a)[^key-7d73a2489a3700860cae113ca01d5926] in paragraph (2)(a), for “responsibility for the scheme” there were substituted “responsibility for the unsecured part”;
-- (b)[^key-7f4d4e4bd862defc0fd8e72c2eaa2145] in paragraph (12)(a), for “member of the scheme” there were substituted “member of the unsecured part”.
+- (a)[^c-7d73a2489a3700860cae113ca01d5926] in paragraph (2)(a), for “responsibility for the scheme” there were substituted “responsibility for the unsecured part”;
+- (b)[^c-7f4d4e4bd862defc0fd8e72c2eaa2145] in paragraph (12)(a), for “member of the scheme” there were substituted “member of the unsecured part”.
 
-(4)[^key-7d73a2489a3700860cae113ca01d5926] Article 123 (loans to pay scheme benefits) applies as if, in paragraph (2), after “benefits” in both places where it occurs there were inserted “relating to the unsecured part”.
+(4)[^c-7d73a2489a3700860cae113ca01d5926] Article 123 (loans to pay scheme benefits) applies as if, in paragraph (2), after “benefits” in both places where it occurs there were inserted “relating to the unsecured part”.
 
-## 6. Ill health pensions[^key-0fd6270dc76e45843ce92e4845ad0157]
+## 6. Ill health pensions[^c-0fd6270dc76e45843ce92e4845ad0157]
 
 Article 124 (reviewable ill health pensions) applies as if –
 
 - (a) in paragraph (4)(a), for “under the scheme” there were substituted “under the unsecured part”;
 - (b) in paragraph (5), for “responsibility for the scheme” there were substituted “responsibility for the unsecured part”.
 
-## 7. New schemes created to replace existing schemes[^key-7818c00d6e6fa58f81006af60b3c3ead]
+## 7. New schemes created to replace existing schemes[^c-7818c00d6e6fa58f81006af60b3c3ead]
 
 Article 131 (new schemes created to replace existing schemes) applies as if, in paragraph (1), after “responsibility for” there were inserted “the unsecured part of”.
 
-## 8. Reconsideration[^key-e3f7f8b3d20b72026266ead3a7056a34][^key-3963f4cab22b5addebb63d6fccf5e6d7]
+## 8. Reconsideration[^c-e3f7f8b3d20b72026266ead3a7056a34][^c-3963f4cab22b5addebb63d6fccf5e6d7]
 
 (1) Article 135 (application for reconsideration) applies as if, in paragraph (8) –
 
-- (a)[^key-e3f7f8b3d20b72026266ead3a7056a34] in the definition of “audited scheme accounts”, for “a scheme” there were substituted “an unsecured part”, and
-- (b)[^key-3963f4cab22b5addebb63d6fccf5e6d7] in the definition of “protected benefits quotation” –
+- (a)[^c-e3f7f8b3d20b72026266ead3a7056a34] in the definition of “audited scheme accounts”, for “a scheme” there were substituted “an unsecured part”, and
+- (b)[^c-3963f4cab22b5addebb63d6fccf5e6d7] in the definition of “protected benefits quotation” –
   - (i) for “a scheme” there were substituted “an unsecured part”;
   - (ii) for “member of the scheme” there were substituted “member of the unsecured part”; and
   - (iii) in paragraph (a) of that definition, for “responsibility for the scheme” there were substituted “responsibility for the unsecured part”.
 
-(2)[^key-3963f4cab22b5addebb63d6fccf5e6d7][^key-ad82a15b9159ca176dc9d5557d099d39] Article 136 (duty to assume responsibility following reconsideration) applies as if—
+(2)[^c-3963f4cab22b5addebb63d6fccf5e6d7][^c-ad82a15b9159ca176dc9d5557d099d39] Article 136 (duty to assume responsibility following reconsideration) applies as if—
 
 - (a) in paragraph (2B), for “protected liabilities” there were substituted “protected liabilities of the unsecured part”, and
 - (b) in paragraph (9)(b), for “liabilities of the scheme” there were substituted “liabilities of the unsecured part”.
 
-## 9. Closed schemes[^key-c2adfa9d3a24a1390edb2be8edeca28c]
+## 9. Closed schemes[^c-c2adfa9d3a24a1390edb2be8edeca28c]
 
 (1) Article 137 (closed schemes) applies as if –
 
@@ -219,11 +219,11 @@ Article 131 (new schemes created to replace existing schemes) applies as if, in 
 
     .
 
-## 10. Assumption of responsibility[^key-909760748d8ea24debd5f503bd1be527][^key-9fc2b80b688f3d97048a0fca49bf9492]
+## 10. Assumption of responsibility[^c-909760748d8ea24debd5f503bd1be527][^c-9fc2b80b688f3d97048a0fca49bf9492]
 
-(1)[^key-909760748d8ea24debd5f503bd1be527] Article 144 (transfer notice) applies as if –
+(1)[^c-909760748d8ea24debd5f503bd1be527] Article 144 (transfer notice) applies as if –
 
-- (za)[^key-a27a9bc8386df5353dfe16bdaec6831a] in paragraph (3) for “determination made or valuation obtained under Article 127(2)” there were substituted “valuation obtained under Article 127”;
+- (za)[^c-a27a9bc8386df5353dfe16bdaec6831a] in paragraph (3) for “determination made or valuation obtained under Article 127(2)” there were substituted “valuation obtained under Article 127”;
 - (zb) in paragraph (4) “determination made or” were omitted;
 - (a) after paragraph (4), there were inserted the following paragraph –
 
@@ -232,31 +232,31 @@ Article 131 (new schemes created to replace existing schemes) applies as if, in 
   ;
 - (b) after paragraph (7), there were added the following paragraphs –
 
-  > (8) Subject to paragraph (9), the following provisions apply in relation to a valuation and not a determination[^key-acf04b5be8f6b8609c703c3e09b38994] obtained under paragraph (4A) as they apply in relation to a valuation obtained under Article 127 (Board’s obligation to obtain valuation of assets and protected liabilities) –
+  > (8) Subject to paragraph (9), the following provisions apply in relation to a valuation and not a determination[^c-acf04b5be8f6b8609c703c3e09b38994] obtained under paragraph (4A) as they apply in relation to a valuation obtained under Article 127 (Board’s obligation to obtain valuation of assets and protected liabilities) –
   >
   > - (a) paragraphs (4) to (7) and (11)(a), (b) and (d) of that Article;
   > - (b) Article 128 (approval of valuation); and
   > - (c) Article 129 (binding valuations), other than paragraph (2).
   >
-  > (9) In the application of Article 127 by virtue of paragraph (8), paragraphs (5), (5A)(b), (5B)(b) and (11)(b)[^key-c442315f4f4c18bb92ca8165c0ae2774] of that Article apply as if the references to the “relevant time” were to the date on which the Board is required to assume responsibility for the unsecured part.
+  > (9) In the application of Article 127 by virtue of paragraph (8), paragraphs (5), (5A)(b), (5B)(b) and (11)(b)[^c-c442315f4f4c18bb92ca8165c0ae2774] of that Article apply as if the references to the “relevant time” were to the date on which the Board is required to assume responsibility for the unsecured part.
 
   .
 
-(2)[^key-909760748d8ea24debd5f503bd1be527] Article 145 (effect of Board assuming responsibility for a scheme) applies as if in paragraph (2) –
+(2)[^c-909760748d8ea24debd5f503bd1be527] Article 145 (effect of Board assuming responsibility for a scheme) applies as if in paragraph (2) –
 
 - (a) in sub-paragraph (b), after “pension obligations” there were inserted “in relation to the unsecured part”; and
 - (b) for “the scheme is to be treated” there were substituted “the unsecured part is to be treated”.
 
-(3)[^key-909760748d8ea24debd5f503bd1be527] Article 149 (guaranteed minimum pensions) applies as if, in paragraph (1), for “member of the scheme” there were substituted “member of the unsecured part”.
+(3)[^c-909760748d8ea24debd5f503bd1be527] Article 149 (guaranteed minimum pensions) applies as if, in paragraph (1), for “member of the scheme” there were substituted “member of the unsecured part”.
 
-(4)[^key-909760748d8ea24debd5f503bd1be527] Schedule 5 to the Order (transfer of property, rights and liabilities to the Board) applies as if –
+(4)[^c-909760748d8ea24debd5f503bd1be527] Schedule 5 to the Order (transfer of property, rights and liabilities to the Board) applies as if –
 
 - (a) in paragraph 1, after “liabilities” there were inserted “of the unsecured part”, and
 - (b) in paragraph 3(1) –
   - (i) after “transfer” there were inserted “of the unsecured part”, and
   - (ii) after “in their capacity as trustees or managers” there were inserted “of that part”.
 
-(5)[^key-9fc2b80b688f3d97048a0fca49bf9492] Schedule 6 to the Order (pension compensation provisions) applies as if –
+(5)[^c-9fc2b80b688f3d97048a0fca49bf9492] Schedule 6 to the Order (pension compensation provisions) applies as if –
 
 - (a) for paragraphs 1 and 2 there were substituted the following paragraphs –
 
@@ -270,7 +270,7 @@ Article 131 (new schemes created to replace existing schemes) applies as if, in 
   , and
 - (b) in paragraph 37(1), in the definition of “the scheme”, for “paragraph 1” there were substituted “paragraph 2”.
 
-## 11. General interpretation[^key-0984d4153ee9edc5617132afb6eebd58]
+## 11. General interpretation[^c-0984d4153ee9edc5617132afb6eebd58]
 
 In relation to a partially guaranteed scheme, Article 2 (general interpretation) applies as if there were inserted the following definitions at the appropriate alphabetical places –
 
@@ -308,68 +308,68 @@ These Regulations modify the operation of Part III of the Pensions (Northern Ire
 
 [^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-e06fd57a464ab0af536fe58c43c41f1e]: Commencement: Reg. 1 in operation at 8.3.2005 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
+[^c-e06fd57a464ab0af536fe58c43c41f1e]: Commencement: Reg. 1 in operation at 8.3.2005 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
 
-[^key-322e206450e0da3622e8b886d0a8411e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/2) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/2)
+[^c-322e206450e0da3622e8b886d0a8411e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/2) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/2)
 
-[^key-573c30a9b223374762a75bb745ba8273]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/55/regulation/2) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
+[^c-573c30a9b223374762a75bb745ba8273]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/55/regulation/2) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
 
-[^key-dd4966d0b5df5e71f9b31bbfb83016a7]: Textual amendment: [Reg. 2 renumbered as reg. 2(1) (8.3.2010) by](https://www.legislation.gov.uk/nisr/2005/55/regulation/2/1): [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/3/a)
+[^c-dd4966d0b5df5e71f9b31bbfb83016a7]: Textual amendment: [Reg. 2 renumbered as reg. 2(1) (8.3.2010) by](https://www.legislation.gov.uk/nisr/2005/55/regulation/2/1): [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/3/a)
 
-[^key-1e6dc3db33d9a5ce44f1c1922b364d73]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/55/regulation/2/1) substituted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/3/b)
+[^c-1e6dc3db33d9a5ce44f1c1922b364d73]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/55/regulation/2/1) substituted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/3/b)
 
-[^key-d2b6adcf9c9addaa15186fb8e255bf3f]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/2/2)[(3)](https://www.legislation.gov.uk/nisr/2005/55/regulation/2/3) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/3/c)
+[^c-d2b6adcf9c9addaa15186fb8e255bf3f]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/2/2)[(3)](https://www.legislation.gov.uk/nisr/2005/55/regulation/2/3) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/3/c)
 
-[^key-2c46d16f0695fd7080d1e5143d720b1b]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/2/2) substituted (31.12.2020) by [The Pension Protection Fund (State Aid) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/318)](https://www.legislation.gov.uk/nisr/2020/318), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/318/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2020/318/regulation/2)
+[^c-2c46d16f0695fd7080d1e5143d720b1b]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/2/2) substituted (31.12.2020) by [The Pension Protection Fund (State Aid) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/318)](https://www.legislation.gov.uk/nisr/2020/318), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/318/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2020/318/regulation/2)
 
-[^key-18dfea1915393169b5f076b94cf5e4f4]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2005/55/regulation/2A) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/4)
+[^c-18dfea1915393169b5f076b94cf5e4f4]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2005/55/regulation/2A) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/4)
 
-[^key-0a7259ad60a26d3449fae85982090904]: Commencement: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/2)[(3)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/3), [(4)(a)-(c)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/a), [(e)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/e)[(f)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/f), [(h)-(r)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/h) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
+[^c-0a7259ad60a26d3449fae85982090904]: Commencement: [Reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/2)[(3)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/3), [(4)(a)-(c)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/a), [(e)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/e)[(f)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/f), [(h)-(r)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/h) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
 
-[^key-abd626733b8637300adfb57625d41e62]: Commencement: Reg. 3(4)(d)(g) in operation at 8.3.2005 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
+[^c-abd626733b8637300adfb57625d41e62]: Commencement: Reg. 3(4)(d)(g) in operation at 8.3.2005 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
 
-[^key-cb8c2c8774627d3e3f89e8fd4ddcacf6]: Textual amendment: [Reg. 3(1)(ca)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/1/ca) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/2/a/i)
+[^c-cb8c2c8774627d3e3f89e8fd4ddcacf6]: Textual amendment: [Reg. 3(1)(ca)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/1/ca) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/2/a/i)
 
-[^key-97a4765758f5acadd295b38bca2b7985]: Textual amendment: Words in [reg. 3(1)(e)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/1/e) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/2/a/ii)
+[^c-97a4765758f5acadd295b38bca2b7985]: Textual amendment: Words in [reg. 3(1)(e)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/1/e) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/2/a/ii)
 
-[^key-8247e4d3ad202c2cd281364ffe58e39a]: Textual amendment: Words in [reg. 3(4)(f)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/f) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/2/b/i)
+[^c-8247e4d3ad202c2cd281364ffe58e39a]: Textual amendment: Words in [reg. 3(4)(f)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/f) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/2/b/i)
 
-[^key-24ec8b3732b38e786ea1eb2cfabb1c91]: Textual amendment: [Reg. 3(4)(fa)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/fa) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/2/b/ii)
+[^c-24ec8b3732b38e786ea1eb2cfabb1c91]: Textual amendment: [Reg. 3(4)(fa)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/fa) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/2/b/ii)
 
-[^key-f9c446087896f5c132a70c96b4c2ce9f]: Textual amendment: Words in [reg. 3(4)(i)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/i) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/2/b/iii)
+[^c-f9c446087896f5c132a70c96b4c2ce9f]: Textual amendment: Words in [reg. 3(4)(i)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/i) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/2/b/iii)
 
-[^key-529dab5d7ddf335f400693fc711c8db4]: Textual amendment: Words in [reg. 3(4)(l)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/l) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/2/b/iv)
+[^c-529dab5d7ddf335f400693fc711c8db4]: Textual amendment: Words in [reg. 3(4)(l)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/4/l) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/2/b/iv)
 
-[^key-69c174b73228589dbcbb30986627bb33]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/5) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/5)
+[^c-69c174b73228589dbcbb30986627bb33]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/nisr/2005/55/regulation/3/5) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2010/32/regulation/2/5)
 
-[^key-f29936ea75bc6d1552181ef315f9e066]: Commencement: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2005/55/regulation/4/1) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
+[^c-f29936ea75bc6d1552181ef315f9e066]: Commencement: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2005/55/regulation/4/1) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
 
-[^key-2ef049f3c564d6a801db5339cfb100c4]: Commencement: Reg. 4(2) in operation at 8.3.2005 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
+[^c-2ef049f3c564d6a801db5339cfb100c4]: Commencement: Reg. 4(2) in operation at 8.3.2005 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
 
-[^key-7d73a2489a3700860cae113ca01d5926]: Commencement: [Reg. 5(1)](https://www.legislation.gov.uk/nisr/2005/55/regulation/5/1)[(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/5/2)[(3)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/5/3/a)[(4)](https://www.legislation.gov.uk/nisr/2005/55/regulation/5/4) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
+[^c-7d73a2489a3700860cae113ca01d5926]: Commencement: [Reg. 5(1)](https://www.legislation.gov.uk/nisr/2005/55/regulation/5/1)[(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/5/2)[(3)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/5/3/a)[(4)](https://www.legislation.gov.uk/nisr/2005/55/regulation/5/4) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
 
-[^key-7f4d4e4bd862defc0fd8e72c2eaa2145]: Commencement: Reg. 5(3)(b) in operation at 8.3.2005 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
+[^c-7f4d4e4bd862defc0fd8e72c2eaa2145]: Commencement: Reg. 5(3)(b) in operation at 8.3.2005 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
 
-[^key-0fd6270dc76e45843ce92e4845ad0157]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/55/regulation/6) in operation at 6.4.2005, see [reg.](https://www.legislation.gov.uk/nisr/2005/55/regulation)
+[^c-0fd6270dc76e45843ce92e4845ad0157]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/55/regulation/6) in operation at 6.4.2005, see [reg.](https://www.legislation.gov.uk/nisr/2005/55/regulation)
 
-[^key-7818c00d6e6fa58f81006af60b3c3ead]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/55/regulation/7) in operation at 6.4.2005 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
+[^c-7818c00d6e6fa58f81006af60b3c3ead]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/55/regulation/7) in operation at 6.4.2005 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
 
-[^key-e3f7f8b3d20b72026266ead3a7056a34]: Commencement: Reg. 8(1)(a) in operation at 8.3.2005 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
+[^c-e3f7f8b3d20b72026266ead3a7056a34]: Commencement: Reg. 8(1)(a) in operation at 8.3.2005 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
 
-[^key-3963f4cab22b5addebb63d6fccf5e6d7]: Commencement: [Reg. 8(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/8/1/b)[(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/8/2) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
+[^c-3963f4cab22b5addebb63d6fccf5e6d7]: Commencement: [Reg. 8(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/8/1/b)[(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/8/2) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
 
-[^key-ad82a15b9159ca176dc9d5557d099d39]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/8/2) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/3)
+[^c-ad82a15b9159ca176dc9d5557d099d39]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/nisr/2005/55/regulation/8/2) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/3)
 
-[^key-c2adfa9d3a24a1390edb2be8edeca28c]: Commencement: Reg. 9 in operation at 8.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
+[^c-c2adfa9d3a24a1390edb2be8edeca28c]: Commencement: Reg. 9 in operation at 8.3.2005, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
 
-[^key-909760748d8ea24debd5f503bd1be527]: Commencement: [Reg. 10(1)-(4)](https://www.legislation.gov.uk/nisr/2005/55/regulation/10/1) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
+[^c-909760748d8ea24debd5f503bd1be527]: Commencement: [Reg. 10(1)-(4)](https://www.legislation.gov.uk/nisr/2005/55/regulation/10/1) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
 
-[^key-9fc2b80b688f3d97048a0fca49bf9492]: Commencement: Reg. 10(5) in operation at 8.3.2005 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
+[^c-9fc2b80b688f3d97048a0fca49bf9492]: Commencement: Reg. 10(5) in operation at 8.3.2005 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/a)
 
-[^key-a27a9bc8386df5353dfe16bdaec6831a]: Textual amendment: [Reg. 10(1)(za)](https://www.legislation.gov.uk/nisr/2005/55/regulation/10/1/za)[(zb)](https://www.legislation.gov.uk/nisr/2005/55/regulation/10/1/zb) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/4/a)
+[^c-a27a9bc8386df5353dfe16bdaec6831a]: Textual amendment: [Reg. 10(1)(za)](https://www.legislation.gov.uk/nisr/2005/55/regulation/10/1/za)[(zb)](https://www.legislation.gov.uk/nisr/2005/55/regulation/10/1/zb) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/4/a)
 
-[^key-acf04b5be8f6b8609c703c3e09b38994]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/10/1/b) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(4)(b)(i)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/4/b/i)
+[^c-acf04b5be8f6b8609c703c3e09b38994]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/10/1/b) inserted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(4)(b)(i)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/4/b/i)
 
-[^key-c442315f4f4c18bb92ca8165c0ae2774]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/10/1/b) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/4/b/ii)
+[^c-c442315f4f4c18bb92ca8165c0ae2774]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/10/1/b) substituted (30.4.2013) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/95)](https://www.legislation.gov.uk/nisr/2013/95), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/95/regulation/1/2), [3(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2013/95/regulation/3/4/b/ii)
 
-[^key-0984d4153ee9edc5617132afb6eebd58]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/55/regulation/11) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)
+[^c-0984d4153ee9edc5617132afb6eebd58]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/55/regulation/11) in operation at 6.4.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/55/regulation/1/1/b)

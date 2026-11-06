@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 295A. Travel expenses of members of local authorities etc[^key-31be84536c031caa58480e2f69a0a4f7]
+## 295A. Travel expenses of members of local authorities etc[^c-31be84536c031caa58480e2f69a0a4f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31be84536c031caa58480e2f69a0a4f7]: Textual amendment: S. 295A and cross-heading inserted (with effect in accordance with s. 29(7) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 29(5)](https://www.legislation.gov.uk/ukpga/2015/33/section/29/5)
+[^c-31be84536c031caa58480e2f69a0a4f7]: Textual amendment: S. 295A and cross-heading inserted (with effect in accordance with s. 29(7) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 29(5)](https://www.legislation.gov.uk/ukpga/2015/33/section/29/5)

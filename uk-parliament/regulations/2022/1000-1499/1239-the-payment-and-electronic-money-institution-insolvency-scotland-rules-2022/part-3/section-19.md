@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Statement of concurrence[^key-0dd9454b92452e7e8fce5cf0f398af9f]
+## 19. Statement of concurrence[^c-0dd9454b92452e7e8fce5cf0f398af9f]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0dd9454b92452e7e8fce5cf0f398af9f]: Commencement: Rule 19 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-0dd9454b92452e7e8fce5cf0f398af9f]: Commencement: Rule 19 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
 [^f00013]: Footnote: [1835 c. 62](https://www.legislation.gov.uk/ukpga/1835/62).

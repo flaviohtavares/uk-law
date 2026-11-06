@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 10
 
-**1.**[^key-c69c899f928ddb4138f5a7475bdfb527] The following retained direct EU legislation is revoked—
+**1.**[^c-c69c899f928ddb4138f5a7475bdfb527] The following retained direct EU legislation is revoked—
 
 - (a) Commission Regulation [(EC) No 506/2007](https://www.legislation.gov.uk/eur/2007/506) imposing testing and information requirements on the importers or manufacturers of certain priority substances in accordance with Council Regulation [(EEC) No 793/93](https://www.legislation.gov.uk/eur/1993/793) on the evaluation and control of the risks of existing substances;
 - (b) Commission Regulation [(EC) No 1238/2007](https://www.legislation.gov.uk/eur/2007/1238) on laying down rules on the qualifications of the members of the Board of Appeal of the European Chemicals Agency;
@@ -33,4 +33,4 @@ Regulation 10
 
 ## Annotations
 
-[^key-c69c899f928ddb4138f5a7475bdfb527]: Commencement: Sch. 8 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c69c899f928ddb4138f5a7475bdfb527]: Commencement: Sch. 8 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

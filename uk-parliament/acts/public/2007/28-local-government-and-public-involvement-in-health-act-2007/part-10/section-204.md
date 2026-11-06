@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Political assistants' pay[^key-2a3eaea297a1555818593bca9552b68d]
+## 204. Political assistants' pay[^c-2a3eaea297a1555818593bca9552b68d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In section 9 of the Local Government and Housing Act 1989, after subsection (4) 
 
 ## Annotations
 
-[^key-2a3eaea297a1555818593bca9552b68d]: Commencement: S. 204 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(q)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/q)
+[^c-2a3eaea297a1555818593bca9552b68d]: Commencement: S. 204 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(q)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/q)

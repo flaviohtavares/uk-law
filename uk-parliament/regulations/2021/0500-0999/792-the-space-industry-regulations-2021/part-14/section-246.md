@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Power to require the use of facilities and assistance[^key-64a813f2236eca69653490e9558feecc]
+## 246. Power to require the use of facilities and assistance[^c-64a813f2236eca69653490e9558feecc]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ which are needed in order to enable an inspector to exercise the power.
 
 ## Annotations
 
-[^key-64a813f2236eca69653490e9558feecc]: Commencement: Reg. 246 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-64a813f2236eca69653490e9558feecc]: Commencement: Reg. 246 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

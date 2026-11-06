@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Use of name that another company has been required to change[^key-1fe32d12b5e417c8ab5a122e10230029][^key-665a3f80637bc50d7cf4c3f190aab401]
+## 26. Use of name that another company has been required to change[^c-1fe32d12b5e417c8ab5a122e10230029][^c-665a3f80637bc50d7cf4c3f190aab401]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ After section 1198A of the Companies Act 2006 (inserted by section 25 of this Ac
 
 ## Annotations
 
-[^key-1fe32d12b5e417c8ab5a122e10230029]: Commencement: S. 26 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-1fe32d12b5e417c8ab5a122e10230029]: Commencement: S. 26 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-665a3f80637bc50d7cf4c3f190aab401]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2023/56/section/26) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/u)
+[^c-665a3f80637bc50d7cf4c3f190aab401]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2023/56/section/26) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/u)

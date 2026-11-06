@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Service of notices[^key-21389aa03da2aeaa00d66e34e8f99d25]
+## 23. Service of notices[^c-21389aa03da2aeaa00d66e34e8f99d25]
 
 *Extent: E+W+S*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21389aa03da2aeaa00d66e34e8f99d25]: Commencement: Art. 23 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-21389aa03da2aeaa00d66e34e8f99d25]: Commencement: Art. 23 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
 
 [^f00027]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Charges[^key-f239bf0ae6cc36e449462abf5286caf6]
+## 41. Charges[^c-f239bf0ae6cc36e449462abf5286caf6]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where a course of treatment is started before 1 April 2026 and continues after t
 
 ## Annotations
 
-[^key-f239bf0ae6cc36e449462abf5286caf6]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2026/37/regulation/41) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-f239bf0ae6cc36e449462abf5286caf6]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2026/37/regulation/41) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

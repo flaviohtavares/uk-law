@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-89d5b9ef35ba309d74e12eee525f9370] In section 30(1) of the National Health Service Act 2006 (definition of NHS foundation trust), for “which is authorised under this Chapter to provide” substitute “the function of which is to provide in accordance with this Chapter”.
+(1)[^c-89d5b9ef35ba309d74e12eee525f9370] In section 30(1) of the National Health Service Act 2006 (definition of NHS foundation trust), for “which is authorised under this Chapter to provide” substitute “the function of which is to provide in accordance with this Chapter”.
 
-(2)[^key-89d5b9ef35ba309d74e12eee525f9370] Omit section 33(2)(a) of that Act (requirement for application for authorisation to describe goods and services to be provided).
+(2)[^c-89d5b9ef35ba309d74e12eee525f9370] Omit section 33(2)(a) of that Act (requirement for application for authorisation to describe goods and services to be provided).
 
-(3)[^key-89d5b9ef35ba309d74e12eee525f9370] In section 35(2) of that Act (matters as to which the regulator must be satisfied before giving authorisation), for paragraph (e) substitute—
+(3)[^c-89d5b9ef35ba309d74e12eee525f9370] In section 35(2) of that Act (matters as to which the regulator must be satisfied before giving authorisation), for paragraph (e) substitute—
 
 > - (e) the applicant will be able to provide goods and services for the purposes of the health service in England,
 
@@ -36,16 +36,16 @@ summary: ''
 >
 > (3B) In subsection (3A), “**regulated activity**” has the same meaning as in section 8 of the Health and Social Care Act 2008.
 
-(5)[^key-89d5b9ef35ba309d74e12eee525f9370] Omit section 35(4) and (7) of that Act (power to give authorisation on terms the regulator considers appropriate).
+(5)[^c-89d5b9ef35ba309d74e12eee525f9370] Omit section 35(4) and (7) of that Act (power to give authorisation on terms the regulator considers appropriate).
 
-(6)[^key-89d5b9ef35ba309d74e12eee525f9370] Omit section 38 of that Act (variation of authorisation).
+(6)[^c-89d5b9ef35ba309d74e12eee525f9370] Omit section 38 of that Act (variation of authorisation).
 
-(7)[^key-89d5b9ef35ba309d74e12eee525f9370] Omit section 39(2)(b) of that Act (requirement for copy of authorisation to be on register).
+(7)[^c-89d5b9ef35ba309d74e12eee525f9370] Omit section 39(2)(b) of that Act (requirement for copy of authorisation to be on register).
 
-(8)[^key-89d5b9ef35ba309d74e12eee525f9370] Omit section 49 of that Act (authorisation to require trust to allow regulator to enter and inspect trust's premises).
+(8)[^c-89d5b9ef35ba309d74e12eee525f9370] Omit section 49 of that Act (authorisation to require trust to allow regulator to enter and inspect trust's premises).
 
-(9)[^key-89d5b9ef35ba309d74e12eee525f9370] Omit paragraph 22(1)(b) of Schedule 7 to that Act (requirement for copy of authorisation to be available for public inspection).
+(9)[^c-89d5b9ef35ba309d74e12eee525f9370] Omit paragraph 22(1)(b) of Schedule 7 to that Act (requirement for copy of authorisation to be available for public inspection).
 
 ## Annotations
 
-[^key-89d5b9ef35ba309d74e12eee525f9370]: Commencement: S. 159(1)-(3)(5)-(9) in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-89d5b9ef35ba309d74e12eee525f9370]: Commencement: S. 159(1)-(3)(5)-(9) in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

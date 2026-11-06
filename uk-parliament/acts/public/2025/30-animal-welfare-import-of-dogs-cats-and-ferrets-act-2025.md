@@ -39,7 +39,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 **Not yet in force.**
 
-### 1. Regulations about bringing dogs, cats and ferrets into the United Kingdom[^key-370f8d58afb46c79214558667477748e]
+### 1. Regulations about bringing dogs, cats and ferrets into the United Kingdom[^c-370f8d58afb46c79214558667477748e]
 
 Regulations for the purpose of animal welfare
 
@@ -92,7 +92,7 @@ Interpretation
 
 (10) In this section, “**specified**”, in relation to the making of regulations, means specified in the regulations.
 
-### 2. Regulations under section 1: supplementary[^key-bc766447d3445de8845b17e0183adb62]
+### 2. Regulations under section 1: supplementary[^c-bc766447d3445de8845b17e0183adb62]
 
 (1) Regulations under section 1 may (in particular)—
 
@@ -153,7 +153,7 @@ Interpretation
 - (a) different provision for different purposes or areas;
 - (b) consequential, incidental, supplementary, transitional or saving provision.
 
-### 3. Meaning of “appropriate national authority” and related provision[^key-734850f9e58e24eb36310d5907a46b76]
+### 3. Meaning of “appropriate national authority” and related provision[^c-734850f9e58e24eb36310d5907a46b76]
 
 (1) In section 1, “**appropriate national authority**”, in relation to the making of regulations, means—
 
@@ -197,7 +197,7 @@ before making any provision in regulations under section 1 that could be made in
 - (a) it instead inserted an unnumbered sub-paragraph at the same place, and
 - (b) where relevant, it did not insert “or” before that sub-paragraph or omit “or” before the preceding sub-paragraph.
 
-### 4. Procedure for regulations under section 1[^key-f4b3783c493f050031155c0bb9c8dcaa]
+### 4. Procedure for regulations under section 1[^c-f4b3783c493f050031155c0bb9c8dcaa]
 
 (1) A power of the Secretary of State or the Welsh Ministers to make regulations under section 1 is exercisable by statutory instrument.
 
@@ -237,7 +237,7 @@ the provision mentioned in paragraph (b) may instead be made by regulations subj
 
 **Not yet in force.**
 
-### 5. Disapplication of non-commercial rules in certain cases[^key-61aa5aabb2007312137fd86e32ce1655]
+### 5. Disapplication of non-commercial rules in certain cases[^c-61aa5aabb2007312137fd86e32ce1655]
 
 (1) [Regulation (EU) No 576/2013](https://www.legislation.gov.uk/european/regulation/2013/0576) of the European Parliament and of the Council of 12 June 2013 on the non-commercial movement of pet animals and repealing Regulation [(EC) No 998/2003](https://www.legislation.gov.uk/european/regulation/2003/0998) is amended as follows.
 
@@ -297,7 +297,7 @@ the provision mentioned in paragraph (b) may instead be made by regulations subj
 
 (6) In Article 25 (format and content of identification document), in paragraph 3, omit “or the authorised person”.
 
-### 6. Corresponding application of commercial rules[^key-58cd139910a5f12c8d9dcbe44be7ad6c]
+### 6. Corresponding application of commercial rules[^c-58cd139910a5f12c8d9dcbe44be7ad6c]
 
 (1) In regulation 3 of the Trade in Animals and Related Products Regulations 2011 ([S.I. 2011/1197](https://www.legislation.gov.uk/uksi/2011/1197))—
 
@@ -334,7 +334,7 @@ the provision mentioned in paragraph (b) may instead be made by regulations subj
     ;
   - (ii) in paragraph (2), omit the definitions of “mynd gyda”, “person awdurdodedig”, “symud anfasnachol” and “perchennog”.
 
-### 7. Consequential provision[^key-c76c8a2163595d1274f24b2c3580e7e2]
+### 7. Consequential provision[^c-c76c8a2163595d1274f24b2c3580e7e2]
 
 (1) In Commission Implementing [Regulation (EU) No 577/2013](https://www.legislation.gov.uk/european/regulation/2013/0577) of 28 June 2013 on the model identification documents for the non-commercial movement of dogs, cats and ferrets, the establishment of lists of territories and third countries and the format, layout and language requirements of the declarations attesting compliance with certain conditions provided for in [Regulation (EU) No 576/2013](https://www.legislation.gov.uk/european/regulation/2013/0576) of the European Parliament and of the Council, in Section A of Part 3 of Annex IV (model of declaration)—
 
@@ -345,7 +345,7 @@ the provision mentioned in paragraph (b) may instead be made by regulations subj
 
 ## General
 
-### 8. Extent, commencement and short title[^key-f57af87cbde792605c95aa3f8addd4dd]
+### 8. Extent, commencement and short title[^c-f57af87cbde792605c95aa3f8addd4dd]
 
 (1) Sections 1 to 4 and this section extend to England and Wales, Scotland and Northern Ireland.
 
@@ -365,18 +365,18 @@ the provision mentioned in paragraph (b) may instead be made by regulations subj
 
 ## Annotations
 
-[^key-370f8d58afb46c79214558667477748e]: Commencement: S. 1 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
+[^c-370f8d58afb46c79214558667477748e]: Commencement: S. 1 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
 
-[^key-bc766447d3445de8845b17e0183adb62]: Commencement: S. 2 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
+[^c-bc766447d3445de8845b17e0183adb62]: Commencement: S. 2 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
 
-[^key-734850f9e58e24eb36310d5907a46b76]: Commencement: S. 3 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
+[^c-734850f9e58e24eb36310d5907a46b76]: Commencement: S. 3 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
 
-[^key-f4b3783c493f050031155c0bb9c8dcaa]: Commencement: S. 4 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
+[^c-f4b3783c493f050031155c0bb9c8dcaa]: Commencement: S. 4 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
 
-[^key-61aa5aabb2007312137fd86e32ce1655]: Commencement: S. 5 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
+[^c-61aa5aabb2007312137fd86e32ce1655]: Commencement: S. 5 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
 
-[^key-58cd139910a5f12c8d9dcbe44be7ad6c]: Commencement: S. 6 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
+[^c-58cd139910a5f12c8d9dcbe44be7ad6c]: Commencement: S. 6 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
 
-[^key-c76c8a2163595d1274f24b2c3580e7e2]: Commencement: S. 7 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
+[^c-c76c8a2163595d1274f24b2c3580e7e2]: Commencement: S. 7 not in force at Royal Assent, see [s. 8(3)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/3)
 
-[^key-f57af87cbde792605c95aa3f8addd4dd]: Commencement: S. 8 in force at Royal Assent, see [s. 8(4)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/4)
+[^c-f57af87cbde792605c95aa3f8addd4dd]: Commencement: S. 8 in force at Royal Assent, see [s. 8(4)](https://www.legislation.gov.uk/ukpga/2025/30/section/8/4)

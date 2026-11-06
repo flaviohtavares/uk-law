@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 181. Amount of transferred pension[^key-1d5fb79b0ca55d41a2755b2819d686cf]
+## 181. Amount of transferred pension[^c-1d5fb79b0ca55d41a2755b2819d686cf]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d5fb79b0ca55d41a2755b2819d686cf]: Commencement: Reg. 181 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1d5fb79b0ca55d41a2755b2819d686cf]: Commencement: Reg. 181 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

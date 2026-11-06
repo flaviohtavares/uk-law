@@ -30,7 +30,7 @@ summary: ''
 
 ROADS
 
-The Road Humps (Amendment) Regulations (Northern Ireland) 1996 (revoked)[^key-84df1025c1f9ed588db3b6f01c853862]
+The Road Humps (Amendment) Regulations (Northern Ireland) 1996 (revoked)[^c-84df1025c1f9ed588db3b6f01c853862]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 10th February 1997
 
-[^key-84df1025c1f9ed588db3b6f01c853862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84df1025c1f9ed588db3b6f01c853862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-84df1025c1f9ed588db3b6f01c853862]
+## 1. Citation and commencement[^c-84df1025c1f9ed588db3b6f01c853862]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-84df1025c1f9ed588db3b6f01c853862]
+## 2. Amendment[^c-84df1025c1f9ed588db3b6f01c853862]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84df1025c1f9ed588db3b6f01c853862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84df1025c1f9ed588db3b6f01c853862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-84df1025c1f9ed588db3b6f01c853862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84df1025c1f9ed588db3b6f01c853862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-84df1025c1f9ed588db3b6f01c853862]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/613) revoked (19.4.1999) by [The Road Humps Regulations (Northern Ireland) 1999 (S.R. 1999/101)](https://www.legislation.gov.uk/nisr/1999/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/1999/101/regulation/7)
+[^c-84df1025c1f9ed588db3b6f01c853862]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/613) revoked (19.4.1999) by [The Road Humps Regulations (Northern Ireland) 1999 (S.R. 1999/101)](https://www.legislation.gov.uk/nisr/1999/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/1999/101/regulation/7)

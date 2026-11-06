@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Defence of due diligence[^key-33e4960107e2f4cf7ed278fbac3d0fe3]
+## 67. Defence of due diligence[^c-33e4960107e2f4cf7ed278fbac3d0fe3]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33e4960107e2f4cf7ed278fbac3d0fe3]: Commencement: Art. 67 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-33e4960107e2f4cf7ed278fbac3d0fe3]: Commencement: Art. 67 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

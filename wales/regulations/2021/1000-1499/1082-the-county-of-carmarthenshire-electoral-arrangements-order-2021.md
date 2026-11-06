@@ -45,7 +45,7 @@ In accordance with section 37(3) of the 2013 Act, more than 6 weeks have elapsed
 
 The Welsh Ministers make the following Order in exercise of their powers conferred by section 37(1) of the 2013 Act.
 
-## 1. Title and commencement[^key-b6812fff538af0e82b3ebce6b2a4b3bf][^key-fd387f301a38c86392e8f731d81b555b]
+## 1. Title and commencement[^c-b6812fff538af0e82b3ebce6b2a4b3bf][^c-fd387f301a38c86392e8f731d81b555b]
 
 (1) The title of this Order is the County of Carmarthenshire (Electoral Arrangements) Order 2021.
 
@@ -53,7 +53,7 @@ The Welsh Ministers make the following Order in exercise of their powers conferr
 
 (3) For all other purposes, this Order comes into force on the ordinary day of election of councillors in 2022[^f00003].
 
-## 2. Interpretation[^key-f7794d720171233d8a11d7e3094d4a19][^key-5de7bd35811e36f456e658baa11a70c5]
+## 2. Interpretation[^c-f7794d720171233d8a11d7e3094d4a19][^c-5de7bd35811e36f456e658baa11a70c5]
 
 In this Order—
 
@@ -61,9 +61,9 @@ In this Order—
 - “the Regulations” (“*y Rheoliadau*”) means the Local Government Area Changes Regulations 1976[^f00004];
 - any reference to a map means one of the 2 maps marked “Map of the County of Carmarthenshire (Electoral Arrangements) Order 2021” deposited in accordance with regulation 5 of the Regulations, labelled “1” and “2”, and a reference to a numbered map is a reference to the map that bears that number;
 - where a boundary is shown on a map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature;
-- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^key-efb9388544e8291043e92481b01fc8ca], except so far as a contrary intention appears.
+- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^c-efb9388544e8291043e92481b01fc8ca], except so far as a contrary intention appears.
 
-## 3. Electoral arrangements for the County of Carmarthenshire[^key-eef81004f06fce6a9164a62626126931][^key-f7f90435606edfd5a17d852083416fbf]
+## 3. Electoral arrangements for the County of Carmarthenshire[^c-eef81004f06fce6a9164a62626126931][^c-f7f90435606edfd5a17d852083416fbf]
 
 (1) The electoral wards of the County of Carmarthenshire, as they exist immediately before the ordinary day of election of councillors in 2022, are abolished.
 
@@ -75,18 +75,18 @@ In this Order—
 
 (5) The provisions in this Order take precedence over any conflicting provision in any previous statutory instrument made under section 58(2) of the Local Government Act 1972[^f00005].
 
-## 4. The town of Llanelli: abolition and creation of community wards[^key-47815813cecf86e5123e3eddeaf86076][^key-7ac489cbb3543b16635449725938ecf0]
+## 4. The town of Llanelli: abolition and creation of community wards[^c-47815813cecf86e5123e3eddeaf86076][^c-7ac489cbb3543b16635449725938ecf0]
 
 The community wards of Elli and Tyisha in the town of Llanelli, as they exist immediately before the ordinary day of election of councillors in 2022, are abolished.
 
-## 5.[^key-a76f0d62666d0799d27ea4216b6ceb28][^key-e0a41819cf8f0efd8cd346d61b3fc6ea]
+## 5.[^c-a76f0d62666d0799d27ea4216b6ceb28][^c-e0a41819cf8f0efd8cd346d61b3fc6ea]
 
 There are constituted the following community wards in the town of Llanelli—
 
 - (a) the Elli ward shown hatched on Map 1;
 - (b) the Tyisha ward shown hatched on Map 2.
 
-## 6. The town of Llanelli: consequential changes to electoral arrangements[^key-d36cab49eb245a27156841a717b053c1][^key-0cc40c1bd7a3f1fbc9ae96a89cf91381]
+## 6. The town of Llanelli: consequential changes to electoral arrangements[^c-d36cab49eb245a27156841a717b053c1][^c-0cc40c1bd7a3f1fbc9ae96a89cf91381]
 
 In the town of Llanelli—
 
@@ -99,7 +99,7 @@ Minister for Finance and Local Government, one of the Welsh Ministers
 
 22 September 2021
 
-## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^key-74c29666e7888ac26d3799deba95f29b][^key-589d5343e785b999ea63c1d08710de64]
+## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^c-74c29666e7888ac26d3799deba95f29b][^c-589d5343e785b999ea63c1d08710de64]
 
 Article 3
 
@@ -189,38 +189,38 @@ Prints of the maps labelled 1 and 2 to which this Order relates are deposited in
 
 [^f00002]: Footnote: [2013 anaw 4](https://www.legislation.gov.uk/anaw/2013/4).
 
-[^key-b6812fff538af0e82b3ebce6b2a4b3bf]: Commencement: Art. 1 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
+[^c-b6812fff538af0e82b3ebce6b2a4b3bf]: Commencement: Art. 1 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
 
-[^key-fd387f301a38c86392e8f731d81b555b]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1082/article/1) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
+[^c-fd387f301a38c86392e8f731d81b555b]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1082/article/1) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
 
 [^f00003]: Footnote: The Local Authorities (Change to the Years of Ordinary Elections) (Wales) Order 2019 ([S.I. 2019/1269 (W. 220)](https://www.legislation.gov.uk/wsi/2019/1269)) amends section 26(1) of the 1972 Act to provide that the year in which the ordinary elections of councillors of local authorities shall take place is 2022 instead of 2021.
 
-[^key-f7794d720171233d8a11d7e3094d4a19]: Commencement: Art. 2 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
+[^c-f7794d720171233d8a11d7e3094d4a19]: Commencement: Art. 2 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
 
-[^key-5de7bd35811e36f456e658baa11a70c5]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2021/1082/article/2) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
+[^c-5de7bd35811e36f456e658baa11a70c5]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2021/1082/article/2) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
 
 [^f00004]: Footnote: [S.I. 1976/246](https://www.legislation.gov.uk/uksi/1976/246). Section 74(3) of the 2013 Act provides that the Regulations continue to have effect in relation to orders made under Part 3 of the 2013 Act, as if those orders were made under Part 4 of the 1972 Act.
 
-[^key-efb9388544e8291043e92481b01fc8ca]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2021/1082/article/2) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/12)
+[^c-efb9388544e8291043e92481b01fc8ca]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2021/1082/article/2) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/12)
 
-[^key-eef81004f06fce6a9164a62626126931]: Commencement: Art. 3 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
+[^c-eef81004f06fce6a9164a62626126931]: Commencement: Art. 3 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
 
-[^key-f7f90435606edfd5a17d852083416fbf]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2021/1082/article/3) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
+[^c-f7f90435606edfd5a17d852083416fbf]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2021/1082/article/3) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
 
 [^f00005]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 58 of the 1972 Act was repealed by section 73(2) of, and Schedule 2 to, the 2013 Act, subject to savings provisions specified in section 74 of the 2013 Act.
 
-[^key-47815813cecf86e5123e3eddeaf86076]: Commencement: Art. 4 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
+[^c-47815813cecf86e5123e3eddeaf86076]: Commencement: Art. 4 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
 
-[^key-7ac489cbb3543b16635449725938ecf0]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2021/1082/article/4) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
+[^c-7ac489cbb3543b16635449725938ecf0]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2021/1082/article/4) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
 
-[^key-a76f0d62666d0799d27ea4216b6ceb28]: Commencement: Art. 5 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
+[^c-a76f0d62666d0799d27ea4216b6ceb28]: Commencement: Art. 5 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
 
-[^key-e0a41819cf8f0efd8cd346d61b3fc6ea]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2021/1082/article/5) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
+[^c-e0a41819cf8f0efd8cd346d61b3fc6ea]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2021/1082/article/5) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
 
-[^key-d36cab49eb245a27156841a717b053c1]: Commencement: Art. 6 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
+[^c-d36cab49eb245a27156841a717b053c1]: Commencement: Art. 6 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
 
-[^key-0cc40c1bd7a3f1fbc9ae96a89cf91381]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2021/1082/article/6) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
+[^c-0cc40c1bd7a3f1fbc9ae96a89cf91381]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2021/1082/article/6) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
 
-[^key-74c29666e7888ac26d3799deba95f29b]: Commencement: Sch. in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
+[^c-74c29666e7888ac26d3799deba95f29b]: Commencement: Sch. in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/2)
 
-[^key-589d5343e785b999ea63c1d08710de64]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2021/1082/schedule) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)
+[^c-589d5343e785b999ea63c1d08710de64]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2021/1082/schedule) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1082/article/1/3)

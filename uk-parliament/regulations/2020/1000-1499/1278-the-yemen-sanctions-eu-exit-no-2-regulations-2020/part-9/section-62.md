@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Restrictions on exercise of maritime enforcement powers[^key-c142f055a8aeb2010dcd2641f540fd6f][^key-28f5f01ecfac78a9caa56dd8aab3a850]
+## 62. Restrictions on exercise of maritime enforcement powers[^c-c142f055a8aeb2010dcd2641f540fd6f][^c-28f5f01ecfac78a9caa56dd8aab3a850]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c142f055a8aeb2010dcd2641f540fd6f]: Commencement: Reg. 62 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-c142f055a8aeb2010dcd2641f540fd6f]: Commencement: Reg. 62 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-28f5f01ecfac78a9caa56dd8aab3a850]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2020/1278/regulation/62) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-28f5f01ecfac78a9caa56dd8aab3a850]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2020/1278/regulation/62) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
 
 [^c24335011]: Marginal citation: Command 8941.

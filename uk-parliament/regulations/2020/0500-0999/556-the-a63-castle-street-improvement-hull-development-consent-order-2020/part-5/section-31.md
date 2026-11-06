@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Statutory undertakers[^key-5b0bcb288734fccf3f6050f103e258f7]
+## 31. Statutory undertakers[^c-5b0bcb288734fccf3f6050f103e258f7]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ the land to which this paragraph (3) applies pursuant to any Act or enactment, o
 
 ## Annotations
 
-[^key-5b0bcb288734fccf3f6050f103e258f7]: Commencement: Art. 31 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-5b0bcb288734fccf3f6050f103e258f7]: Commencement: Art. 31 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)

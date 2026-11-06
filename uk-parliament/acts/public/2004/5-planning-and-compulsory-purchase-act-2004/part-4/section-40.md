@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Local development orders[^key-7faf536f4e78496b68de127abaff383e][^key-3bc1ab4e626fdcfa3c5c72a7c4fae0ac][^key-0f8f340a44e4f60d4ef06db55220fc41]
+## 40. Local development orders[^c-7faf536f4e78496b68de127abaff383e][^c-3bc1ab4e626fdcfa3c5c72a7c4fae0ac][^c-0f8f340a44e4f60d4ef06db55220fc41]
 
 *Extent: E+W*
 
@@ -126,10 +126,10 @@ summary: ''
 
 ## Annotations
 
-[^key-7faf536f4e78496b68de127abaff383e]: Commencement: S. 40 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-7faf536f4e78496b68de127abaff383e]: Commencement: S. 40 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-3bc1ab4e626fdcfa3c5c72a7c4fae0ac]: Commencement: S. 40 in force at 10.5.2006 for E. so far as not already in force by [S.I. 2006/1061](https://www.legislation.gov.uk/uksi/2006/1061), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1061/article/2/a)
+[^c-3bc1ab4e626fdcfa3c5c72a7c4fae0ac]: Commencement: S. 40 in force at 10.5.2006 for E. so far as not already in force by [S.I. 2006/1061](https://www.legislation.gov.uk/uksi/2006/1061), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1061/article/2/a)
 
-[^key-0f8f340a44e4f60d4ef06db55220fc41]: Commencement: S. 40 in force at 30.4.2012 for W. so far as not already in force by [S.I. 2012/1100](https://www.legislation.gov.uk/uksi/2012/1100), [art. 2](https://www.legislation.gov.uk/uksi/2012/1100/article/2)
+[^c-0f8f340a44e4f60d4ef06db55220fc41]: Commencement: S. 40 in force at 30.4.2012 for W. so far as not already in force by [S.I. 2012/1100](https://www.legislation.gov.uk/uksi/2012/1100), [art. 2](https://www.legislation.gov.uk/uksi/2012/1100/article/2)
 
 [^M_F_928c5311-0e1c-4661-a97c-3a91f29a652b]: Textual amendment: S. 40(2)(b)-(k) repealed (15.11.2011 for specified purposes, 6.4.2012 in force in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [240(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j) [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/12/paragraph/29), [Sch. 25 Pt. 18](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/18); S.I. 2012/628, art. 8(a)(e) (with arts. 9 12 13 16 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)

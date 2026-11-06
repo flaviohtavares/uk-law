@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Consequential amendments[^key-da0ec4fb5f07afc93f67be2eb319a8ea]
+## 110. Consequential amendments[^c-da0ec4fb5f07afc93f67be2eb319a8ea]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Part 2 of Schedule 3 makes consequential amendments relating to this Part.
 
 ## Annotations
 
-[^key-da0ec4fb5f07afc93f67be2eb319a8ea]: Commencement: [S. 110](https://www.legislation.gov.uk/anaw/2014/7/section/110) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/380/article/2/h)
+[^c-da0ec4fb5f07afc93f67be2eb319a8ea]: Commencement: [S. 110](https://www.legislation.gov.uk/anaw/2014/7/section/110) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/380/article/2/h)

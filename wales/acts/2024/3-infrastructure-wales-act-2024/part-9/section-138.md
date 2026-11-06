@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Giving documents to the Crown[^key-8026e5d30b276230fc1497df9f143755]
+## 138. Giving documents to the Crown[^c-8026e5d30b276230fc1497df9f143755]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8026e5d30b276230fc1497df9f143755]: Commencement: S. 138 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-8026e5d30b276230fc1497df9f143755]: Commencement: S. 138 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

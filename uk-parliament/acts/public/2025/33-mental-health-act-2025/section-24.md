@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Nominated person[^key-7612cb12e347fdd25079e483b950c36e]
+## 24. Nominated person[^c-7612cb12e347fdd25079e483b950c36e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ Schedule 2 contains amendments of the Mental Health Act 1983 which—
 
 ## Annotations
 
-[^key-7612cb12e347fdd25079e483b950c36e]: Commencement: S. 24 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-7612cb12e347fdd25079e483b950c36e]: Commencement: S. 24 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

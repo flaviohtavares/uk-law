@@ -24,13 +24,13 @@ summary: ''
 
 (2) Every institution which is a charity under the law of Northern Ireland must be registered in the register of charities.
 
-(2A)[^key-3cb5b1858156c6ef12d9be4d5785b6de] Subsection (2) does not apply to a charity exempted under section 16A.
+(2A)[^c-3cb5b1858156c6ef12d9be4d5785b6de] Subsection (2) does not apply to a charity exempted under section 16A.
 
 (2B) A charity exempted under section 16A must, if it so requests, be registered in the register.
 
 (3) The register shall be kept by the Commission in such manner as it thinks fit.
 
-(4) The register shall contain for each charity registered in it[^key-a7d385bfa819a02af331bbbfef20d056] —
+(4) The register shall contain for each charity registered in it[^c-a7d385bfa819a02af331bbbfef20d056] —
 
 - (a) the name of the charity,
 - (b) if the charity is a designated religious charity within the meaning of section 165, a statement to that effect, and
@@ -41,7 +41,7 @@ summary: ''
 - (a) any institution which it no longer considers to be a charity, and
 - (b) any charity which has ceased to exist or does not operate.
 
-(5A)[^key-4ee5432e610ff887fd4ca7d2db716e39] A registered charity which is exempted under section 16A must be removed from the register if it so requests.
+(5A)[^c-4ee5432e610ff887fd4ca7d2db716e39] A registered charity which is exempted under section 16A must be removed from the register if it so requests.
 
 (6) If the removal of an institution under subsection (5)(a) is due to any change in its trusts, the removal shall take effect from the date of that change.
 
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3cb5b1858156c6ef12d9be4d5785b6de]: Textual amendment: [S. 16(2A)](https://www.legislation.gov.uk/nia/2008/12/section/16/2A)[(2B)](https://www.legislation.gov.uk/nia/2008/12/section/16/2B) inserted (30.3.2022) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [ss. 3(2)](https://www.legislation.gov.uk/nia/2022/11/section/3/2), [4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)
+[^c-3cb5b1858156c6ef12d9be4d5785b6de]: Textual amendment: [S. 16(2A)](https://www.legislation.gov.uk/nia/2008/12/section/16/2A)[(2B)](https://www.legislation.gov.uk/nia/2008/12/section/16/2B) inserted (30.3.2022) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [ss. 3(2)](https://www.legislation.gov.uk/nia/2022/11/section/3/2), [4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)
 
-[^key-a7d385bfa819a02af331bbbfef20d056]: Textual amendment: Words in [s. 16(4)](https://www.legislation.gov.uk/nia/2008/12/section/16/4) inserted (30.3.2022) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [ss. 3(3)](https://www.legislation.gov.uk/nia/2022/11/section/3/3), [4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)
+[^c-a7d385bfa819a02af331bbbfef20d056]: Textual amendment: Words in [s. 16(4)](https://www.legislation.gov.uk/nia/2008/12/section/16/4) inserted (30.3.2022) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [ss. 3(3)](https://www.legislation.gov.uk/nia/2022/11/section/3/3), [4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)
 
-[^key-4ee5432e610ff887fd4ca7d2db716e39]: Textual amendment: [S. 16(5A)](https://www.legislation.gov.uk/nia/2008/12/section/16A/5A) inserted (30.3.2022) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [ss. 3(4)](https://www.legislation.gov.uk/nia/2022/11/section/3/4), [4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)
+[^c-4ee5432e610ff887fd4ca7d2db716e39]: Textual amendment: [S. 16(5A)](https://www.legislation.gov.uk/nia/2008/12/section/16A/5A) inserted (30.3.2022) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [ss. 3(4)](https://www.legislation.gov.uk/nia/2022/11/section/3/4), [4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)

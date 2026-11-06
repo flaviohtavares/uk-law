@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Variable monetary penalties[^c2007845][^key-237a8dd5d92ba279ddfef75b0fdcd855]
+## 95. Variable monetary penalties[^c2007845][^c-237a8dd5d92ba279ddfef75b0fdcd855]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c2007845]: Commencement: S. 95 partly in force; s. 95 in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-237a8dd5d92ba279ddfef75b0fdcd855]: Commencement: S. 95 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-237a8dd5d92ba279ddfef75b0fdcd855]: Commencement: S. 95 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

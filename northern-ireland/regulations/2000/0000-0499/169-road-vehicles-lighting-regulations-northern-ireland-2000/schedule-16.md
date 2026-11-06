@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 16 — Requirement relating to obligatory and optional warning beacons[^key-e12c75b09b4861e01b2a4fb0ace43ab4]
+## SCHEDULE 16 — Requirement relating to obligatory and optional warning beacons[^c-e12c75b09b4861e01b2a4fb0ace43ab4]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ Regulations 20 and 23
 
 ## Annotations
 
-[^key-e12c75b09b4861e01b2a4fb0ace43ab4]: Commencement: [Sch. 16](https://www.legislation.gov.uk/nisr/2000/169/schedule/16) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-e12c75b09b4861e01b2a4fb0ace43ab4]: Commencement: [Sch. 16](https://www.legislation.gov.uk/nisr/2000/169/schedule/16) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

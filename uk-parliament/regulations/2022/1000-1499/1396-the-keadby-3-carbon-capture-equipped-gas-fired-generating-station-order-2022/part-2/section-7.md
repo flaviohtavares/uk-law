@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Consent to transfer benefit of the Order[^key-13bb3e9d9311d6ae1bc0513a14dc3c96]
+## 7. Consent to transfer benefit of the Order[^c-13bb3e9d9311d6ae1bc0513a14dc3c96]
 
 *Extent: E+W+S*
 
@@ -67,7 +67,7 @@ except where paragraph (6) applies, in which case no consent of the Secretary of
 
 ## Annotations
 
-[^key-13bb3e9d9311d6ae1bc0513a14dc3c96]: Commencement: Art. 7 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-13bb3e9d9311d6ae1bc0513a14dc3c96]: Commencement: Art. 7 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
 [^f00019]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was amended by section 30 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), sections 89, 136, 145 of, and Schedules 19 and 23 to, the Energy Act [2004 (c. 29)](https://www.legislation.gov.uk/ukpga/2004/29), paragraph 2 of Schedule 8 to the Climate Change Act [2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), regulation 19 of [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704) and articles 6 and 21 of [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
 

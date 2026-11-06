@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1132. Production and inspection of documents where offence suspected[^c19639851][^c19708481][^c19919461][^c20605361][^c21737831][^c21737911][^key-07a0cf3bf75171f6efb02f36265c98df][^key-84d01fa70a84ceb5f3fb207d8a7e4284]
+## 1132. Production and inspection of documents where offence suspected[^c19639851][^c19708481][^c19919461][^c20605361][^c21737831][^c21737911][^c-07a0cf3bf75171f6efb02f36265c98df][^c-84d01fa70a84ceb5f3fb207d8a7e4284]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ an order under this section may be made.
 
 [^c21737911]: Modification: S. 1132 applied (with modifications) (E.W.) (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [15(1)-(3)](https://www.legislation.gov.uk/uksi/2012/3013/regulation/15/1)
 
-[^key-07a0cf3bf75171f6efb02f36265c98df]: Modification: S. 1132 applied (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 19(e)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/19/e)
+[^c-07a0cf3bf75171f6efb02f36265c98df]: Modification: S. 1132 applied (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 19(e)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/19/e)
 
-[^key-84d01fa70a84ceb5f3fb207d8a7e4284]: Modification: S. 1132 applied (with modifications) (26.6.2017) by [The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)](https://www.legislation.gov.uk/uksi/2017/694), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/1/1), [74](https://www.legislation.gov.uk/uksi/2017/694/regulation/74)
+[^c-84d01fa70a84ceb5f3fb207d8a7e4284]: Modification: S. 1132 applied (with modifications) (26.6.2017) by [The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)](https://www.legislation.gov.uk/uksi/2017/694), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/1/1), [74](https://www.legislation.gov.uk/uksi/2017/694/regulation/74)

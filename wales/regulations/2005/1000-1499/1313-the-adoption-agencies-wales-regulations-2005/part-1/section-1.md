@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement and application[^key-53ae0659a894766f52197cafaeb5dd20]
+## 1. Citation, commencement and application[^c-53ae0659a894766f52197cafaeb5dd20]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53ae0659a894766f52197cafaeb5dd20]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-53ae0659a894766f52197cafaeb5dd20]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

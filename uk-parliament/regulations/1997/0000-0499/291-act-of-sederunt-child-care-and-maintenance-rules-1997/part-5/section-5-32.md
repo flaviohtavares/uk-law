@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.32. Information to be provided where payer has ceased to reside in Scotland[^key-383a75e612aa4b9e7f75177d7d69c5c3]
+## 5.32. Information to be provided where payer has ceased to reside in Scotland[^c-383a75e612aa4b9e7f75177d7d69c5c3]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-383a75e612aa4b9e7f75177d7d69c5c3]: Commencement: Rule 5.32 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-383a75e612aa4b9e7f75177d7d69c5c3]: Commencement: Rule 5.32 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
 [^f00048]: Footnote: Section 10(7) was amended by the Civil Jurisdiction and Judgments Act 1982, Schedule 11, paragraph 13.

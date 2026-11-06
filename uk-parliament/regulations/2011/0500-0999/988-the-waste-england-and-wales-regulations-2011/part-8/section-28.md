@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The appropriate body[^key-7d35227ae9524bc18aa499d302d9a0da] must establish and maintain a register of carriers, brokers and dealers.
+(1) The appropriate body[^c-7d35227ae9524bc18aa499d302d9a0da] must establish and maintain a register of carriers, brokers and dealers.
 
 (2) A register of carriers or brokers held at the relevant time for the purposes of the Control of Pollution (Amendment) Act 1989 or the Waste Management Licensing Regulations 1994 is a register for the purposes of these Regulations.
 
 ## Annotations
 
-[^key-7d35227ae9524bc18aa499d302d9a0da]: Textual amendment: Words in reg. 28(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 405](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/405) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7d35227ae9524bc18aa499d302d9a0da]: Textual amendment: Words in reg. 28(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 405](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/405) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Listing rules: disciplinary powers in relation to sponsors[^key-95c396841bcc4ce69eb4662868beb884][^key-0474095e45358168ca8871f52cbb0cf3][^key-921f5af7425f39673949b5e20260f22c]
+## 18. Listing rules: disciplinary powers in relation to sponsors[^c-95c396841bcc4ce69eb4662868beb884][^c-0474095e45358168ca8871f52cbb0cf3][^c-921f5af7425f39673949b5e20260f22c]
 
 *Extent: E+W+S+N.I.*
 
@@ -244,8 +244,8 @@ summary: ''
 
 ## Annotations
 
-[^key-95c396841bcc4ce69eb4662868beb884]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2012/21/section/18) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-95c396841bcc4ce69eb4662868beb884]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2012/21/section/18) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-0474095e45358168ca8871f52cbb0cf3]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2012/21/section/18) in force at 19.3.2013 for specified purposes by [S.I. 2013/651](https://www.legislation.gov.uk/uksi/2013/651), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/651/article/2/a)
+[^c-0474095e45358168ca8871f52cbb0cf3]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2012/21/section/18) in force at 19.3.2013 for specified purposes by [S.I. 2013/651](https://www.legislation.gov.uk/uksi/2013/651), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/651/article/2/a)
 
-[^key-921f5af7425f39673949b5e20260f22c]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2012/21/section/18) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-921f5af7425f39673949b5e20260f22c]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2012/21/section/18) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

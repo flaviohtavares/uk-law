@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 110(2)
 
-### 1. Cleaner Road Transport Vehicles (Scotland) Regulations 2010[^key-ec06c395ae59bbf5b3589171a5f48e4a]
+### 1. Cleaner Road Transport Vehicles (Scotland) Regulations 2010[^c-ec06c395ae59bbf5b3589171a5f48e4a]
 
 (1) The Cleaner Road Transport Vehicles (Scotland) Regulations 2010[^f00050] are amended as follows.
 
@@ -33,11 +33,11 @@ Regulation 110(2)
 
 (3) In regulation 6(1)(b)[^f00052] (enforcement of duties) for “Part 9 of the Utilities Contracts (Scotland) Regulations 2012” substitute “Chapter 2 of Part 5 of the Utilities Contracts (Scotland) Regulations 2016”.
 
-### 2. Defence and Security Public Contracts Regulations 2011[^key-a2cfb1c80c56040de8551f0a365d6f5f]
+### 2. Defence and Security Public Contracts Regulations 2011[^c-a2cfb1c80c56040de8551f0a365d6f5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^key-1f860d8361ae6d085436c9b2a591e70b]
+### 3. Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^c-1f860d8361ae6d085436c9b2a591e70b]
 
 (1) The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^f00055] is amended as follows.
 
@@ -61,7 +61,7 @@ Regulation 110(2)
 
 ## Annotations
 
-[^key-ec06c395ae59bbf5b3589171a5f48e4a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/1) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-ec06c395ae59bbf5b3589171a5f48e4a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/1) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
 [^f00050]: Footnote: [S.S.I. 2010/390](https://www.legislation.gov.uk/ssi/2010/390).
 
@@ -69,9 +69,9 @@ Regulation 110(2)
 
 [^f00052]: Footnote: Regulation 6(1)(b) amended by [S.S.I. 2012/89](https://www.legislation.gov.uk/ssi/2012/89), schedule 5(B), paragraph 1.
 
-[^key-a2cfb1c80c56040de8551f0a365d6f5f]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/2) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [21(9)](https://www.legislation.gov.uk/uksi/2025/163/regulation/21/9)
+[^c-a2cfb1c80c56040de8551f0a365d6f5f]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/2) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [21(9)](https://www.legislation.gov.uk/uksi/2025/163/regulation/21/9)
 
-[^key-1f860d8361ae6d085436c9b2a591e70b]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/3) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-1f860d8361ae6d085436c9b2a591e70b]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/3) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
 [^f00055]: Footnote: [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50).
 

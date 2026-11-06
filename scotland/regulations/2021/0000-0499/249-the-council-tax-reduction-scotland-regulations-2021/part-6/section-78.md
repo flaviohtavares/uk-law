@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Treatment of childcare charges (applicants with an award of universal credit)[^key-d95277f4b04e00cbf152606e0695be54]
+## 78. Treatment of childcare charges (applicants with an award of universal credit)[^c-d95277f4b04e00cbf152606e0695be54]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ Divide the amount produced by step 3 by 52 and round to the nearest penny.
 
 ## Annotations
 
-[^key-d95277f4b04e00cbf152606e0695be54]: Commencement: [Reg. 78](https://www.legislation.gov.uk/ssi/2021/249/regulation/78) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-d95277f4b04e00cbf152606e0695be54]: Commencement: [Reg. 78](https://www.legislation.gov.uk/ssi/2021/249/regulation/78) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

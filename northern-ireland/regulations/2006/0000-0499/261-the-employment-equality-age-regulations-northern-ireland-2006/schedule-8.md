@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 8 — Repeals and revocations[^key-825033232899d5e010fff290b4f818f0]
+## SCHEDULE 8 — Repeals and revocations[^c-825033232899d5e010fff290b4f818f0]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ Regulation 53(2)
 
 ## Annotations
 
-[^key-825033232899d5e010fff290b4f818f0]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nisr/2006/261/schedule/8) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-825033232899d5e010fff290b4f818f0]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nisr/2006/261/schedule/8) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

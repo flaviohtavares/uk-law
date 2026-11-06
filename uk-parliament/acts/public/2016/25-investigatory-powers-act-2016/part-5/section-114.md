@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Sources of journalistic information[^key-816ebcbb347f2c44ad24585d6a3c9fd9]
+## 114. Sources of journalistic information[^c-816ebcbb347f2c44ad24585d6a3c9fd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-816ebcbb347f2c44ad24585d6a3c9fd9]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2016/25/section/114) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/l)
+[^c-816ebcbb347f2c44ad24585d6a3c9fd9]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2016/25/section/114) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/l)

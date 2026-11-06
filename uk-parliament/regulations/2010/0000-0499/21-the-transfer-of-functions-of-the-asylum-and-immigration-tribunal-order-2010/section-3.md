@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Transfer of persons into the First-tier Tribunal and the Upper Tribunal[^key-c3c71694c3ce4b86a4490d55f5c81be3]
+## 3. Transfer of persons into the First-tier Tribunal and the Upper Tribunal[^c-c3c71694c3ce4b86a4490d55f5c81be3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ A person who, immediately before this Order comes into force, holds an office li
 
 ## Annotations
 
-[^key-c3c71694c3ce4b86a4490d55f5c81be3]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/21/article/3) in force at 15.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1)
+[^c-c3c71694c3ce4b86a4490d55f5c81be3]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/21/article/3) in force at 15.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1)
 
 [^f00002]: Footnote: [2002 c.41](https://www.legislation.gov.uk/ukpga/2002/41).
 

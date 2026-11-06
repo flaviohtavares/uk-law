@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 27 — Emergency fisheries byelaws[^key-9cbf622aa3d6d06bc434fdd3ad99d1a0]
+## Schedule 27 — Emergency fisheries byelaws[^c-9cbf622aa3d6d06bc434fdd3ad99d1a0]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ Section 210(3)
 
 (2) The circumstances are that—
 
-- (a) the appropriate agency[^key-0d0ca815f0b2e11d4e634b0d455a8974] considers that, because of any event or likely event, harm is occurring or is likely to occur to—
+- (a) the appropriate agency[^c-0d0ca815f0b2e11d4e634b0d455a8974] considers that, because of any event or likely event, harm is occurring or is likely to occur to—
   - (i) any fish to which paragraph 6 of Schedule 25 to this Act applies or to the spawn, gametes or food of any such fish, or
   - (ii) the marine or coastal, or aquatic or waterside, environment,
 - (b) the appropriate agency considers that the byelaw would prevent or limit that harm, or would be reasonably likely to do so,
@@ -51,7 +51,7 @@ Section 210(3)
 
 ### Notification of the appropriate national authority
 
-**3.** The appropriate agency[^key-f82f541d7ed567ab211e77d24f50e3bb] must, within 24 hours of making an emergency fisheries byelaw—
+**3.** The appropriate agency[^c-f82f541d7ed567ab211e77d24f50e3bb] must, within 24 hours of making an emergency fisheries byelaw—
 
 - (a) send a copy of the byelaw to the appropriate national authority, and
 - (b) explain to the appropriate national authority why the byelaw is being made as an emergency fisheries byelaw.
@@ -81,7 +81,7 @@ Section 210(3)
 
 (2) A byelaw may not under sub-paragraph (1)(a) above remain in force for longer than the period of twelve months beginning with the day on which it comes into force.
 
-**7.** (1) The appropriate agency[^key-aeef4ecc4dbf84776efe9704dc5ea6da] may, at any time before an emergency fisheries byelaw expires, apply to the appropriate national authority for it to be extended.
+**7.** (1) The appropriate agency[^c-aeef4ecc4dbf84776efe9704dc5ea6da] may, at any time before an emergency fisheries byelaw expires, apply to the appropriate national authority for it to be extended.
 
 (2) On such an application, the appropriate national authority may extend the byelaw at any time before its expiry, provided the authority is satisfied that—
 
@@ -113,10 +113,10 @@ shall be prima facie evidence of the facts stated in the certificate, and withou
 
 ## Annotations
 
-[^key-9cbf622aa3d6d06bc434fdd3ad99d1a0]: Textual amendment: Sch. 27 inserted (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 225(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/225/2), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)
+[^c-9cbf622aa3d6d06bc434fdd3ad99d1a0]: Textual amendment: Sch. 27 inserted (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 225(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/225/2), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)
 
-[^key-0d0ca815f0b2e11d4e634b0d455a8974]: Textual amendment: Words in Sch. 27 para. 1 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 315(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/315/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0d0ca815f0b2e11d4e634b0d455a8974]: Textual amendment: Words in Sch. 27 para. 1 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 315(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/315/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-f82f541d7ed567ab211e77d24f50e3bb]: Textual amendment: Words in [Sch. 27 paras. 3-5](https://www.legislation.gov.uk/ukpga/1991/57/schedule/27/paragraph/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 315(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/315/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-f82f541d7ed567ab211e77d24f50e3bb]: Textual amendment: Words in [Sch. 27 paras. 3-5](https://www.legislation.gov.uk/ukpga/1991/57/schedule/27/paragraph/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 315(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/315/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-aeef4ecc4dbf84776efe9704dc5ea6da]: Textual amendment: Words in [Sch. 27 paras. 7-9](https://www.legislation.gov.uk/ukpga/1991/57/schedule/27/paragraph/7) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 315(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/315/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-aeef4ecc4dbf84776efe9704dc5ea6da]: Textual amendment: Words in [Sch. 27 paras. 7-9](https://www.legislation.gov.uk/ukpga/1991/57/schedule/27/paragraph/7) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 315(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/315/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

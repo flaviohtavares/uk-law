@@ -22,7 +22,7 @@ summary: ''
 
 Article 29
 
-### PART A — Land of which temporary possession may be taken[^key-49a73c4f6b29a1981dacc6af47d6b6e4]
+### PART A — Land of which temporary possession may be taken[^c-49a73c4f6b29a1981dacc6af47d6b6e4]
 
 | *(1)*<br>*Number of land shown on land plans* | *(2)*<br>*Purpose for which temporary possession may be taken* |
 | --- | --- |
@@ -36,7 +36,7 @@ Article 29
 | 173, 174, 178, 181, 182, 184, 185, 188, 189, 191, 192, 194, 195, 197, 198, 200, 201, 203, 204, 206, 207, 209, 210, 212, 213, 226, 228, 230, 232, 233, 234, 236, 238, 241, 242, 244, 249, 250, 260, 261, 262 | Working site, construction and storage compound, access for the carrying out of the authorised development. |
 | 177, 252, 256, 257, 258 | The laying of temporary haul roads and improvements to tracks, modifications to roads, access for the carrying out of the authorised development. |
 
-### PART B — Land over which temporary access may be taken where others use the same[^key-22163b7aaf155069a9f1abd3c04caf4f]
+### PART B — Land over which temporary access may be taken where others use the same[^c-22163b7aaf155069a9f1abd3c04caf4f]
 
 | *(1)*<br>*Number of land shown on land plans* | *(2)*<br>*Purpose for which temporary possession may be taken* |
 | --- | --- |
@@ -46,6 +46,6 @@ Article 29
 
 ## Annotations
 
-[^key-49a73c4f6b29a1981dacc6af47d6b6e4]: Commencement: Sch. 7 Pt. A in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-49a73c4f6b29a1981dacc6af47d6b6e4]: Commencement: Sch. 7 Pt. A in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-22163b7aaf155069a9f1abd3c04caf4f]: Commencement: Sch. 7 Pt. B in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-22163b7aaf155069a9f1abd3c04caf4f]: Commencement: Sch. 7 Pt. B in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

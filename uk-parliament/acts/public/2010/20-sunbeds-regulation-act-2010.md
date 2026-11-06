@@ -63,7 +63,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) If a sunbed to which the business relates is in a room on relevant premises, but not in a space falling within subsection (4), every part of that room is a restricted zone.
 
-(6) If P fails to comply with subsection (1), P commits an offence and is liable on summary conviction to a fine[^key-0b75ed720da4c6c2463c1c601fcfdea5].
+(6) If P fails to comply with subsection (1), P commits an offence and is liable on summary conviction to a fine[^c-0b75ed720da4c6c2463c1c601fcfdea5].
 
 (7) It is a defence for a person (“D”) charged with an offence under this section to show that D took all reasonable precautions and exercised all due diligence to avoid committing it.
 
@@ -172,7 +172,7 @@ that director, manager, secretary or person purporting to act as such (as well a
 
 (3) Regulations under this Act may—
 
-- (a) create offences punishable on summary conviction with a fine, the amount of which may be limited by the regulations;[^key-1ea16676fbffb320c43d0baaf3fd6c88]
+- (a) create offences punishable on summary conviction with a fine, the amount of which may be limited by the regulations;[^c-1ea16676fbffb320c43d0baaf3fd6c88]
 
 (4) Regulations under this Act may also—
 
@@ -238,7 +238,7 @@ There is to be paid out of money provided by Parliament any increase attributabl
 
 (3) This Act extends to England and Wales.
 
-## SCHEDULE — Powers of entry etc.[^key-2cf2e78d7f3ce9c163c349fdc354c460]
+## SCHEDULE — Powers of entry etc.[^c-2cf2e78d7f3ce9c163c349fdc354c460]
 
 Section 7
 
@@ -276,8 +276,8 @@ Section 7
 
 ## Annotations
 
-[^key-0b75ed720da4c6c2463c1c601fcfdea5]: Textual amendment: Words in [s. 2(6)](https://www.legislation.gov.uk/ukpga/2010/20/section/2/6) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 44](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/44) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-0b75ed720da4c6c2463c1c601fcfdea5]: Textual amendment: Words in [s. 2(6)](https://www.legislation.gov.uk/ukpga/2010/20/section/2/6) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 44](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/44) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-1ea16676fbffb320c43d0baaf3fd6c88]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2010/20/section/10/3) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 94](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/94) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/2))
+[^c-1ea16676fbffb320c43d0baaf3fd6c88]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2010/20/section/10/3) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 94](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/94) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/2))
 
-[^key-2cf2e78d7f3ce9c163c349fdc354c460]: Modification: Sch. applied (with modifications) (W.) (31.10.2011) by [The Sunbeds (Regulation) Act 2010 (Wales) Regulations 2011 (S.I. 2011/1130)](https://www.legislation.gov.uk/uksi/2011/1130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1130/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2011/1130/regulation/9/3)[(4)](https://www.legislation.gov.uk/uksi/2011/1130/regulation/9/4)
+[^c-2cf2e78d7f3ce9c163c349fdc354c460]: Modification: Sch. applied (with modifications) (W.) (31.10.2011) by [The Sunbeds (Regulation) Act 2010 (Wales) Regulations 2011 (S.I. 2011/1130)](https://www.legislation.gov.uk/uksi/2011/1130), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1130/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2011/1130/regulation/9/3)[(4)](https://www.legislation.gov.uk/uksi/2011/1130/regulation/9/4)

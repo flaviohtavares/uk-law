@@ -35,20 +35,20 @@ An Act to consolidate certain enactments relating to juries, jurors and jury ser
 
 ## 1. Qualification for jury service[^c20887391]
 
-(1) Subject to the provisions of this Act, every person shall be qualified to serve as a juror in the Crown Court, the High Court and the county court[^key-e026c5f415ff61e4d9a426310d942415] and be liable accordingly to attend for jury service when summoned under this Act if—
+(1) Subject to the provisions of this Act, every person shall be qualified to serve as a juror in the Crown Court, the High Court and the county court[^c-e026c5f415ff61e4d9a426310d942415] and be liable accordingly to attend for jury service when summoned under this Act if—
 
-- (a) he is for the time being registered as a parliamentary or local government elector and aged eighteen or over but under seventy six[^key-b0fe98e536a23f4631191fa80073b8fd] ;
+- (a) he is for the time being registered as a parliamentary or local government elector and aged eighteen or over but under seventy six[^c-b0fe98e536a23f4631191fa80073b8fd] ;
 - (b) he has been ordinarily resident in the United Kingdom, the Channel Islands or the Isle of Man for any period of at least five years since attaining the age of thirteen; and
-- (c)[^key-b5c300786bb0524553b00044f4ca0a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b5c300786bb0524553b00044f4ca0a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) he is not disqualified for jury service.
 
-(2)[^key-c7a5a43a540efc8bf7dc880b1500c9eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c7a5a43a540efc8bf7dc880b1500c9eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The persons who are disqualified for jury service are those listed in Schedule 1[^key-e2f07f271ea28cc708f470e32cb38d9d].
+(3) The persons who are disqualified for jury service are those listed in Schedule 1[^c-e2f07f271ea28cc708f470e32cb38d9d].
 
 ## 2. Summoning.[^c857321][^c857311]
 
-(1) Subject to the provisions of this Act, the Lord Chancellor shall be responsible for the summoning of jurors to attend for service in the Crown Court, the High Court and the county court[^key-66ec97021f192143aaca8a3497fcafe3] and for determining the occasions on which they are to attend when so summoned, and the number to be summoned.
+(1) Subject to the provisions of this Act, the Lord Chancellor shall be responsible for the summoning of jurors to attend for service in the Crown Court, the High Court and the county court[^c-66ec97021f192143aaca8a3497fcafe3] and for determining the occasions on which they are to attend when so summoned, and the number to be summoned.
 
 (2) In making arrangements to discharge his duty under subsection (1) above the Lord Chancellor shall have regard to the convenience of the persons summoned and to their respective places of residence, and in particular to the desirability of selecting jurors within reasonable daily travelling distance of the place where they are to attend.
 
@@ -69,7 +69,7 @@ and where a person is summoned under subsection (4) above or[^c857351] under sec
 
 ## 3. Electoral register as basis of jury selection.
 
-(1)[^c857371] Every electoral registration officer under the Representation of the People Act 1983[^c857381] shall as soon as practicable after the publication of any register of electors for his area deliver to such officer as the Lord Chancellor may designate such number of copies of the register as the designated officer may require for the purpose of summoning jurors, and on each copy there shall be indicated those persons on the register whom the registration officer has ascertained to be, or to have been on a date also indicated on the copy —[^key-b98ed8d29ef1edc8b60b91db143ce1e0]
+(1)[^c857371] Every electoral registration officer under the Representation of the People Act 1983[^c857381] shall as soon as practicable after the publication of any register of electors for his area deliver to such officer as the Lord Chancellor may designate such number of copies of the register as the designated officer may require for the purpose of summoning jurors, and on each copy there shall be indicated those persons on the register whom the registration officer has ascertained to be, or to have been on a date also indicated on the copy —[^c-b98ed8d29ef1edc8b60b91db143ce1e0]
 
 - (a) aged under eighteen, or
 - (b) aged seventy six or over.
@@ -106,7 +106,7 @@ If it appears to the appropriate officer, at any time before the day on which an
 
 ## 7. Attendance and service.
 
-Subject to the provisions of this Act, a person summoned under this Act shall attend for so many days as may be directed by the summons or by the appropriate officer, and shall be liable to serve on any jury (in the Crown Court or the High Court or the county[^key-27ffd74c7322dcc899b03e8219359c7a] court) at the place to which he is summoned, or in the vicinity.
+Subject to the provisions of this Act, a person summoned under this Act shall attend for so many days as may be directed by the summons or by the appropriate officer, and shall be liable to serve on any jury (in the Crown Court or the High Court or the county[^c-27ffd74c7322dcc899b03e8219359c7a] court) at the place to which he is summoned, or in the vicinity.
 
 ## 8. Excusal for previous jury service.
 
@@ -131,12 +131,12 @@ the officer or court shall excuse him from attending, or further attending, in p
 
 (2) If any person summoned under this Act shows to the satisfaction of the appropriate officer that there is good reason why he should be excused from attending in pursuance of the summons, the appropriate officer may , subject to section 9A(1A) of this Act,[^c20887601] excuse him from so attending [^c20887621]. . . .
 
-(2A)[^c20887631] Without prejudice to subsection (2) above, the appropriate officer shall excuse a member of the regular forces[^key-c7e3f4ec1bf14a96f985daea7c9d1b6b] from attending in pursuance of a summons if—
+(2A)[^c20887631] Without prejudice to subsection (2) above, the appropriate officer shall excuse a member of the regular forces[^c-c7e3f4ec1bf14a96f985daea7c9d1b6b] from attending in pursuance of a summons if—
 
 - (a) that member’s commanding officer certifies to the appropriate officer that it would be prejudicial to the efficiency of the service if that member were to be required to be absent from duty, and
 - (b) subsection (2A) or (2B) of section 9A of this Act applies.
 
-(2B) Subsection (2A) above does not affect the application of subsection (2) above to a member of the regular forces[^key-07587cf3190b4e57ce0ab8ea99bb7c97] in a case where he is not entitled to be excused under subsection (2A).
+(2B) Subsection (2A) above does not affect the application of subsection (2) above to a member of the regular forces[^c-07587cf3190b4e57ce0ab8ea99bb7c97] in a case where he is not entitled to be excused under subsection (2A).
 
 (3) Criminal Procedure Rules[^c20887671] shall provide a right of appeal to the court (or one of the courts) before which the person is summoned to attend against any refusal of the appropriate officer to excuse him under subsection (2) above or any failure by the appropriate officer to excuse him as required by subsection (2A) above[^c20887651].
 
@@ -148,12 +148,12 @@ the officer or court shall excuse him from attending, or further attending, in p
 
 (1A)[^c20888731] Without prejudice to subsection (1) above and subject to subsection (2) below, the appropriate officer—
 
-- (a) shall defer the attendance of a member of the regular forces[^key-40534e4c0407e547b83ca01741992ba2] in pursuance of a summons if subsection (1B) below applies, and
+- (a) shall defer the attendance of a member of the regular forces[^c-40534e4c0407e547b83ca01741992ba2] in pursuance of a summons if subsection (1B) below applies, and
 - (b) for this purpose, shall vary the dates upon which that member is summoned to attend and the summons shall have effect accordingly.
 
 (1B) This subsection applies if that member’s commanding officer certifies to the appropriate officer that it would be prejudicial to the efficiency of the service if that member were to be required to be absent from duty.
 
-(1C) Nothing in subsection (1A) or (1B) above shall affect the application of subsection (1) above to a member of the regular forces[^key-0d94a32d0197273c5d895aa0844fcb44] in a case where subsection (1B) does not apply.
+(1C) Nothing in subsection (1A) or (1B) above shall affect the application of subsection (1) above to a member of the regular forces[^c-0d94a32d0197273c5d895aa0844fcb44] in a case where subsection (1B) does not apply.
 
 (2)[^c20888841] The attendance of a person in pursuance of a summons shall not be deferred under subsection (1) or (1A) above if subsection (2A) or (2B) below applies.
 
@@ -161,7 +161,7 @@ the officer or court shall excuse him from attending, or further attending, in p
 
 (2B) This subsection applies where—
 
-- (a) the person is a member of the regular forces[^key-f864be85a6a66ef22ace0051cf2db9e0] , and
+- (a) the person is a member of the regular forces[^c-f864be85a6a66ef22ace0051cf2db9e0] , and
 - (b) in addition to certifying to the appropriate officer that it would be prejudicial to the efficiency of the service if that member were to be required to be absent from duty, that member’s commanding officer certifies that this position is likely to remain for any period specified for the purpose of this subsection in guidance issued under section 9AA of this Act.
 
 (3) Criminal Procedure Rules[^c20888971] shall provide a right of appeal to the court (or one of the courts) before which the person is summoned to attend against any refusal of the appropriate officer to defer his attendance under subsection (1) above or any failure by the appropriate officer to defer his attendance as required by subsection (1A) above[^c20888911].
@@ -192,7 +192,7 @@ the officer or court shall excuse him from attending, or further attending, in p
 
 (4)[^M_F_6be9371e-f691-4d2e-9838-0728a9eb58cc] Subsection (3)(b) applies only where the case relates to a summons to attend for jury service in the Crown Court.
 
-## 9C. British Sign Language interpreters for deaf jurors[^key-4aeee353c0665da6ec6538744ce29ed8]
+## 9C. British Sign Language interpreters for deaf jurors[^c-4aeee353c0665da6ec6538744ce29ed8]
 
 (1) For the purpose of section 9B(2), in determining whether or not a person who is deaf should act as a juror, the judge must consider whether the assistance of a British Sign Language interpreter would enable that person to be capable of acting effectively as a juror.
 
@@ -241,7 +241,7 @@ Where it appears to the appropriate officer, in the case of a person attending i
 
 (5) In section 29 of the Juries Act [^c857521]1825 (challenges to jurors by the Crown) the words “the Crown Court” shall continue to be substituted for the words “any of the courts hereinbefore mentioned”, notwithstanding the repeal by this Act of paragraph 3(2) of Schedule 4 to the Courts Act [^c857531]1971 and of the entries relating to the said Act in Schedule 5 to the Criminal Justice Act [^c857541]1972.
 
-(6) Without prejudice to subsection (4) above, the right of challenge to the array, that is to say the right of challenge on the ground that the person responsible for summoning the jurors in question is biased or has acted improperly, shall continue to be unaffected by the fact that, since the coming into operation of section 31 of the Courts Act [^c857551]1971 (which is replaced by this Act), the responsibility for summoning jurors for service in the Crown Court, the High Court and the county court[^key-e1f48032fda2d2846238c40ae1c096c7] has lain with the Lord Chancellor.
+(6) Without prejudice to subsection (4) above, the right of challenge to the array, that is to say the right of challenge on the ground that the person responsible for summoning the jurors in question is biased or has acted improperly, shall continue to be unaffected by the fact that, since the coming into operation of section 31 of the Courts Act [^c857551]1971 (which is replaced by this Act), the responsibility for summoning jurors for service in the Crown Court, the High Court and the county court[^c-e1f48032fda2d2846238c40ae1c096c7] has lain with the Lord Chancellor.
 
 ## 13. Separation.[^c857281]
 
@@ -255,7 +255,7 @@ Criminal Procedure Rules and Civil Procedure Rules[^c20889361] may make provisio
 
 Jurors, after being sworn, may, in the discretion of the court, be allowed reasonable refreshment at their own expense.
 
-## 15A. Surrender of electronic communications devices[^key-8c932bda3e3ee7498e35a7f58e2a9235]
+## 15A. Surrender of electronic communications devices[^c-8c932bda3e3ee7498e35a7f58e2a9235]
 
 (1) A judge dealing with an issue may order the members of a jury trying the issue to surrender any electronic communications devices for a period.
 
@@ -281,9 +281,9 @@ Jurors, after being sworn, may, in the discretion of the court, be allowed reaso
 
 ## 16. Continuation of criminal trial on death or discharge of juror.
 
-(1) Where in the course of a trial of any person for an offence on indictment any member of the jury dies or is discharged by the court whether as being through illness incapable of continuing to act or for any other reason, but the number of its members is not reduced below nine, the jury shall nevertheless (subject to subsection (3)[^key-0ac1c1c32c2178623c00df707d564736] below) be considered as remaining for all the purposes of that trial properly constituted, and the trial shall proceed and a verdict may be given accordingly.
+(1) Where in the course of a trial of any person for an offence on indictment any member of the jury dies or is discharged by the court whether as being through illness incapable of continuing to act or for any other reason, but the number of its members is not reduced below nine, the jury shall nevertheless (subject to subsection (3)[^c-0ac1c1c32c2178623c00df707d564736] below) be considered as remaining for all the purposes of that trial properly constituted, and the trial shall proceed and a verdict may be given accordingly.
 
-(2)[^key-59253ca5c228692f0710868525c6b698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-59253ca5c228692f0710868525c6b698] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Notwithstanding subsection (1) above, on the death or discharge of a member of the jury in the course of a trial of any person for an offence on indictment the court may discharge the jury in any case where the court sees fit to do so.
 
@@ -294,7 +294,7 @@ Jurors, after being sworn, may, in the discretion of the court, be allowed reaso
 - (a) in a case where there are not less than eleven jurors, ten of them agree on the verdict; and
 - (b) in a case where there are ten jurors, nine of them agree on the verdict.
 
-(2) Subject to subsection (4) below, the verdict of a jury (that is to say a complete jury of eight) in proceedings in the county[^key-ceccf4d79665e148013033e7c63f07f9] court need not be unanimous if seven of them agree on the verdict.
+(2) Subject to subsection (4) below, the verdict of a jury (that is to say a complete jury of eight) in proceedings in the county[^c-ceccf4d79665e148013033e7c63f07f9] court need not be unanimous if seven of them agree on the verdict.
 
 (3) The Crown Court shall not accept a verdict of guilty by virtue of subsection (1) above unless the foreman of the jury has stated in open court the number of jurors who respectively agreed to and dissented from the verdict.
 
@@ -324,19 +324,19 @@ Jurors, after being sworn, may, in the discretion of the court, be allowed reaso
 
 (1A)[^c20889381] The reference in subsection (1) above to payments by way of allowance for subsistence includes a reference to vouchers and other benefits which may be used to pay for subsistence, whether or not their use is subject to any limitations.
 
-(2) Subsection (1) above shall not apply to service on a coroner’s jury (for which provision for payment is made by Schedule 7 to the Coroners and Justice Act 2009[^key-d8b995da9ef0d9483a431a61c33a5206]).
+(2) Subsection (1) above shall not apply to service on a coroner’s jury (for which provision for payment is made by Schedule 7 to the Coroners and Justice Act 2009[^c-d8b995da9ef0d9483a431a61c33a5206]).
 
 (3) The determination of the amounts payable to persons under subsection (1) above, and the manner of making those payments, shall be in accordance with arrangements made by the Lord Chancellor and all such payments shall be made out of moneys provided by Parliament.
 
 (4)[^c857581] In subsection (1) above “**prescribed**” means prescribed by regulations made by statutory instrument by the Lord Chancellor with the consent of the Minister for the Civil Service; and for the purposes of that subsection a person who, in obedience to a summons to serve on a jury, attends for service as a juror shall be deemed to serve as a juror notwithstanding that he is not subsequently sworn.
 
-(5) Save as provided by Schedule 7 to the Coroners and Justice Act 2009[^key-3bffa18e7c301ec20b3a26e235a20288], no person shall be entitled under any Act other than this Act or under any rule of law, custom or agreement to payment for his services as a juror.
+(5) Save as provided by Schedule 7 to the Coroners and Justice Act 2009[^c-3bffa18e7c301ec20b3a26e235a20288], no person shall be entitled under any Act other than this Act or under any rule of law, custom or agreement to payment for his services as a juror.
 
 (6) This section shall not apply to service on a jury summoned for the purposes of a trial of the pyx under section 8 of the Coinage Act [^c857641]1971.
 
 (7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c857651]
 
-## 20. Offences: failure to attend, serving while disqualified etc[^key-d0cb73464fcacabb14b6a99759a5566a]
+## 20. Offences: failure to attend, serving while disqualified etc[^c-d0cb73464fcacabb14b6a99759a5566a]
 
 (1) Subject to the provisions of subsections (2) to (4) below—
 
@@ -361,7 +361,7 @@ he shall be liable to a fine not exceeding level 3 on the standard scale[^M_F_7c
 
 he shall be liable on summary conviction to a fine of not more than level 5 on the standard scale[^c857721] in the case of an offence of serving on a jury when disqualified and, in any other case, a fine of not more than level 3 on the standard scale.
 
-## 20A. Offence: research by jurors[^key-8ff670967ea4815fb9736efaed9c2260]
+## 20A. Offence: research by jurors[^c-8ff670967ea4815fb9736efaed9c2260]
 
 (1) It is an offence for a member of a jury that tries an issue in a case before a court to research the case during the trial period, subject to the exceptions in subsections (6) and (7).
 
@@ -406,7 +406,7 @@ he shall be liable on summary conviction to a fine of not more than level 5 on t
 
 (9) Proceedings for an offence under this section may only be instituted by or with the consent of the Attorney General.
 
-## 20B. Offence: sharing research with other jurors[^key-d7e5362e5bb4adc971a43784de908bbd]
+## 20B. Offence: sharing research with other jurors[^c-d7e5362e5bb4adc971a43784de908bbd]
 
 (1) It is an offence for a member of a jury that tries an issue in a case before a court intentionally to disclose information to another member of the jury during the trial period if—
 
@@ -424,7 +424,7 @@ he shall be liable on summary conviction to a fine of not more than level 5 on t
 
 (5) In this section, “**the trial period**” has the same meaning as in section 20A.
 
-## 20C. Offence: jurors engaging in other prohibited conduct[^key-6bed8ecd0eca859909ac6b3b4e0b70b7]
+## 20C. Offence: jurors engaging in other prohibited conduct[^c-6bed8ecd0eca859909ac6b3b4e0b70b7]
 
 (1) It is an offence for a member of a jury that tries an issue in a case before a court intentionally to engage in prohibited conduct during the trial period, subject to the exceptions in subsections (4) and (5).
 
@@ -442,7 +442,7 @@ he shall be liable on summary conviction to a fine of not more than level 5 on t
 
 (8) In this section, “**the trial period**” has the same meaning as in section 20A.
 
-## 20D. Offence: disclosing jury's deliberations[^key-a7e6aeed6b970ba0db4dd0c0f7b8ce7b]
+## 20D. Offence: disclosing jury's deliberations[^c-a7e6aeed6b970ba0db4dd0c0f7b8ce7b]
 
 (1) It is an offence for a person intentionally—
 
@@ -546,7 +546,7 @@ to consider whether conduct of a juror in connection with those proceedings may 
 - (a) by means of a disclosure described in section 20E(1) to (4) or section 20F(1) to (9), or
 - (b) from a document that is available to the public or a section of the public.
 
-## 20H. Application of certain provisions to British Sign Language interpreters[^key-cd840a2a564d20adadab81a5aa0d9301]
+## 20H. Application of certain provisions to British Sign Language interpreters[^c-cd840a2a564d20adadab81a5aa0d9301]
 
 (1) Section 12(1) and (2) (challenge for cause) apply to an interpreter appointed under section 9C(2) as those provisions apply to jurors.
 
@@ -589,7 +589,7 @@ to consider whether conduct of a juror in connection with those proceedings may 
 
 ## 22. Consequential amendments, savings and repeals.
 
-(A1)[^key-99022bcd033c58145f80c79c66962878] Nothing in section 20A, 20B , 20C or 20I[^key-777587c37ce3ce5f6ffe708bd1c3248c] affects what constitutes contempt of court at common law.
+(A1)[^c-99022bcd033c58145f80c79c66962878] Nothing in section 20A, 20B , 20C or 20I[^c-777587c37ce3ce5f6ffe708bd1c3248c] affects what constitutes contempt of court at common law.
 
 (1)[^c857781] The Coroners Act 1887[^c857791] shall have effect subject to the amendments set out in Schedule 2 to this Act (being amendments consequential on certain of the repeals made by this Act).
 
@@ -607,9 +607,9 @@ to consider whether conduct of a juror in connection with those proceedings may 
 
 (2) In this Act—
 
-- “**court**”, except where the context otherwise requires, means the Crown Court, the High Court, or the county[^key-f28285ecf26c71838b504b3694456ed9] court;
+- “**court**”, except where the context otherwise requires, means the Crown Court, the High Court, or the county[^c-f28285ecf26c71838b504b3694456ed9] court;
 - “**the appropriate officer**” means such officer as may be designated for the purpose in question in accordance with arrangements made by the Lord Chancellor.
-- “[^key-ad98cc3b760d14fa9f1572aa92916b7b]**regular forces**” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act).
+- “[^c-ad98cc3b760d14fa9f1572aa92916b7b]**regular forces**” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act).
 
 (3) This Act shall come into force at the expiration of the period of one month beginning with the date on which it is passed.
 
@@ -617,11 +617,11 @@ to consider whether conduct of a juror in connection with those proceedings may 
 
 SCHEDULES
 
-## SCHEDULE 1 — Persons Disqualified for Jury Service[^c20889471][^key-d7fe2f6289df0b5a2f1b362872f5cb3e]
+## SCHEDULE 1 — Persons Disqualified for Jury Service[^c20889471][^c-d7fe2f6289df0b5a2f1b362872f5cb3e]
 
-### Part 1 — Persons subject to Mental Health Act 1983 or Mental Capacity Act 2005[^key-ebcd5e45ab8d861acf1850aa5e5c1a6f]
+### Part 1 — Persons subject to Mental Health Act 1983 or Mental Capacity Act 2005[^c-ebcd5e45ab8d861acf1850aa5e5c1a6f]
 
-**1.** A person for the time being liable to be detained under the Mental Health Act 1983.[^key-2f552d12cb87002e7e09d56cf6489b19]
+**1.** A person for the time being liable to be detained under the Mental Health Act 1983.[^c-2f552d12cb87002e7e09d56cf6489b19]
 
 **1A.** A person for the time being resident in a hospital on account of mental disorder as defined by the Mental Health Act 1983.
 
@@ -633,7 +633,7 @@ SCHEDULES
 
 (2) [^c20890261]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2 — Other Persons Disqualified for Jury Service[^key-dcbecb322e30730738ac61cf92dccefb]
+### Part 2 — Other Persons Disqualified for Jury Service[^c-dcbecb322e30730738ac61cf92dccefb]
 
 **5.** A person who is on bail in criminal proceedings (within the meaning of the Bail Act 1976).
 
@@ -642,10 +642,10 @@ SCHEDULES
 - (a) to imprisonment for life, detention for life or custody for life,
 - (b) to detention during her Majesty’s pleasure or during the pleasure of the Secretary of State,
 - (c) to imprisonment for public protection or detention for public protection,
-- (d) to an extended sentence under section 226A, 226B,[^key-42967bb3bb5565adecfa86d59829fdd8] 227 or 228 of the Criminal Justice Act 2003 or section 254, 266 or 279 of the Sentencing Code[^key-7177111c025b09ba668a1a6a5c76bac2] (including such a sentence imposed as a result of section 219A, 220, 221A or 222 of the Armed Forces Act 2006)[^key-1f18d9893ede58ca07ee5261e6bb983b] or section 210A of the Criminal Procedure (Scotland) Act 1995, or
+- (d) to an extended sentence under section 226A, 226B,[^c-42967bb3bb5565adecfa86d59829fdd8] 227 or 228 of the Criminal Justice Act 2003 or section 254, 266 or 279 of the Sentencing Code[^c-7177111c025b09ba668a1a6a5c76bac2] (including such a sentence imposed as a result of section 219A, 220, 221A or 222 of the Armed Forces Act 2006)[^c-1f18d9893ede58ca07ee5261e6bb983b] or section 210A of the Criminal Procedure (Scotland) Act 1995, or
 - (e) to a term of imprisonment of five years or more or a term of detention of five years or more.
 
-**6A.**[^key-653a36274e961f8cd874c4d2053191bf] A person who at any time in the last ten years has been convicted of—
+**6A.**[^c-653a36274e961f8cd874c4d2053191bf] A person who at any time in the last ten years has been convicted of—
 
 - (a) an offence under section 20A, 20B, 20C or 20D of this Act,
 - (b) an offence under paragraph 5A, 5B, 5C or 5D of Schedule 6 to the Coroners and Justice Act 2009 (equivalent offences relating to jurors at inquests), or
@@ -656,7 +656,7 @@ SCHEDULES
 - (a) in the United Kingdom, the Channel Islands or the Isle of Man—
   - (i) served any part of a sentence of imprisonment or a sentence of detention, or
   - (ii) had passed on him a suspended sentence of imprisonment or had made in respect of him a suspended order for detention,
-- (b) in England and Wales, had made in respect of him a community order under section 177 of the Criminal Justice Act 2003 or Chapter 2 of Part 9 of the Sentencing Code[^key-fa2633b8323c32e947843fdb2d36ab84], a community rehabilitation order, a community punishment order, a community punishment and rehabilitation order, a drug treatment and testing order or a drug abstinence order, or
+- (b) in England and Wales, had made in respect of him a community order under section 177 of the Criminal Justice Act 2003 or Chapter 2 of Part 9 of the Sentencing Code[^c-fa2633b8323c32e947843fdb2d36ab84], a community rehabilitation order, a community punishment order, a community punishment and rehabilitation order, a drug treatment and testing order or a drug abstinence order, or
 - (c) had made in respect of him any corresponding order under the law of Scotland, Northern Ireland, the Isle of Man or any of the Channel Islands or a service community order or overseas community order under the Armed Forces Act 2006[^c20891481].
 
 **8.** For the purposes of this Part of this Schedule—
@@ -688,21 +688,21 @@ Section 22(4)
 
 [^c20887391]: Textual amendment: S. 1 substituted (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 321](https://www.legislation.gov.uk/ukpga/2003/44/section/321), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 33 para. 2](https://www.legislation.gov.uk/ukpga/2003/44/schedule/33/paragraph/2); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)(2)(g)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1/2/g) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2004/829/article/2/4))
 
-[^key-e026c5f415ff61e4d9a426310d942415]: Textual amendment: Words in s. 1(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 96(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/96/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-e026c5f415ff61e4d9a426310d942415]: Textual amendment: Words in s. 1(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 96(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/96/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-b0fe98e536a23f4631191fa80073b8fd]: Textual amendment: Words in [s. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1974/23/section/1/1/a) substituted (1.12.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 68(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/68/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/896](https://www.legislation.gov.uk/uksi/2016/896), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/896/article/3/b)
+[^c-b0fe98e536a23f4631191fa80073b8fd]: Textual amendment: Words in [s. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1974/23/section/1/1/a) substituted (1.12.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 68(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/68/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/896](https://www.legislation.gov.uk/uksi/2016/896), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/896/article/3/b)
 
-[^key-b5c300786bb0524553b00044f4ca0a79]: Textual amendment: Words in s. 1(1)(c) omitted (15.7.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/1/a), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
+[^c-b5c300786bb0524553b00044f4ca0a79]: Textual amendment: Words in s. 1(1)(c) omitted (15.7.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/1/a), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
 
-[^key-c7a5a43a540efc8bf7dc880b1500c9eb]: Textual amendment: S. 1(2) omitted (15.7.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/1/b), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
+[^c-c7a5a43a540efc8bf7dc880b1500c9eb]: Textual amendment: S. 1(2) omitted (15.7.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/1/b), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
 
-[^key-e2f07f271ea28cc708f470e32cb38d9d]: Textual amendment: Words in s. 1(3) substituted (15.7.2013) by [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(1)(c)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/1/c), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
+[^c-e2f07f271ea28cc708f470e32cb38d9d]: Textual amendment: Words in s. 1(3) substituted (15.7.2013) by [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(1)(c)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/1/c), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
 
 [^c857321]: Modification: S. 2 modified (31.8.1999) by [S.I. 1999/2128](https://www.legislation.gov.uk/uksi/1999/2128), [art. 3(2)](https://www.legislation.gov.uk/uksi/1999/2128/article/3/2).
 
 [^c857311]: Modification: S. 2: reference to the register of parliamentary and local government electors to be construed as mentioned in [Representation of the People Act 1983 (c. 2, SIF 42)](https://www.legislation.gov.uk/ukpga/1983/2), [ss. 205](https://www.legislation.gov.uk/ukpga/1983/2/section/205), [206](https://www.legislation.gov.uk/ukpga/1983/2/section/206), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/1983/2/schedule/7/paragraph/10)
 
-[^key-66ec97021f192143aaca8a3497fcafe3]: Textual amendment: Words in s. 2(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 96(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/96/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-66ec97021f192143aaca8a3497fcafe3]: Textual amendment: Words in s. 2(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 96(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/96/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c857331]: Textual amendment: Words substituted by virtue of [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), [s. 17(2)](https://www.legislation.gov.uk/ukpga/1978/30/section/17/2)
 
@@ -718,7 +718,7 @@ Section 22(4)
 
 [^c857381]: Textual amendment: Words substituted by [Representation of the People Act 1983 (c. 2, SIF 42)](https://www.legislation.gov.uk/ukpga/1983/2), [s. 206](https://www.legislation.gov.uk/ukpga/1983/2/section/206), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/1983/2/schedule/8/paragraph/17)
 
-[^key-b98ed8d29ef1edc8b60b91db143ce1e0]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1974/23/section/3/1) substituted (9.9.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 68(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/68/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/896](https://www.legislation.gov.uk/uksi/2016/896), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/896/article/2/b)
+[^c-b98ed8d29ef1edc8b60b91db143ce1e0]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1974/23/section/3/1) substituted (9.9.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 68(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/68/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/896](https://www.legislation.gov.uk/uksi/2016/896), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/896/article/2/b)
 
 [^c20890971]: Textual amendment: S. 3(1A) inserted (1.1.2007) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/10/2), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/1); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a)
 
@@ -732,7 +732,7 @@ Section 22(4)
 
 [^c857431]: Textual amendment: Word substituted by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [ss. 123(6)](https://www.legislation.gov.uk/ukpga/1988/33/section/123/6), [170(1)](https://www.legislation.gov.uk/ukpga/1988/33/section/170/1), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16), [Sch. 15 para. 45](https://www.legislation.gov.uk/ukpga/1988/33/schedule/15/paragraph/45)
 
-[^key-27ffd74c7322dcc899b03e8219359c7a]: Textual amendment: Words in s. 7 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 96(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/96/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-27ffd74c7322dcc899b03e8219359c7a]: Textual amendment: Words in s. 7 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 96(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/96/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c857441]: Marginal citation: [1971 c. 23](https://www.legislation.gov.uk/ukpga/1971/23).
 
@@ -744,9 +744,9 @@ Section 22(4)
 
 [^c20887631]: Textual amendment: S. 9(2A)(2B) inserted (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 321](https://www.legislation.gov.uk/ukpga/2003/44/section/321), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 33 para. 5](https://www.legislation.gov.uk/ukpga/2003/44/schedule/33/paragraph/5); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)(2)(g)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1/2/g)
 
-[^key-c7e3f4ec1bf14a96f985daea7c9d1b6b]: Textual amendment: Words in [s. 9(2A)](https://www.legislation.gov.uk/ukpga/1974/23/section/9/2A) substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/2), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
+[^c-c7e3f4ec1bf14a96f985daea7c9d1b6b]: Textual amendment: Words in [s. 9(2A)](https://www.legislation.gov.uk/ukpga/1974/23/section/9/2A) substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/2), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
 
-[^key-07587cf3190b4e57ce0ab8ea99bb7c97]: Textual amendment: Words in [s. 9(2B)](https://www.legislation.gov.uk/ukpga/1974/23/section/9/2B) substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/2), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
+[^c-07587cf3190b4e57ce0ab8ea99bb7c97]: Textual amendment: Words in [s. 9(2B)](https://www.legislation.gov.uk/ukpga/1974/23/section/9/2B) substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/2), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
 
 [^c20887671]: Textual amendment: Words in s. 9(3) substituted (1.9.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 172(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/172/a); [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(viii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/viii) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
@@ -758,15 +758,15 @@ Section 22(4)
 
 [^c20888731]: Textual amendment: S. 9A(1A)-(1C) inserted (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 321](https://www.legislation.gov.uk/ukpga/2003/44/section/321), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 33 para. 8](https://www.legislation.gov.uk/ukpga/2003/44/schedule/33/paragraph/8); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)(2)(g)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1/2/g)
 
-[^key-40534e4c0407e547b83ca01741992ba2]: Textual amendment: Words in s. 9A(1A) substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/3), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
+[^c-40534e4c0407e547b83ca01741992ba2]: Textual amendment: Words in s. 9A(1A) substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/3), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
 
-[^key-0d94a32d0197273c5d895aa0844fcb44]: Textual amendment: Words in s. 9A(1C) substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/3), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
+[^c-0d94a32d0197273c5d895aa0844fcb44]: Textual amendment: Words in s. 9A(1C) substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/3), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
 
 [^c20888841]: Textual amendment: S. 9A(2) substituted (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 321](https://www.legislation.gov.uk/ukpga/2003/44/section/321), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 33 para. 9](https://www.legislation.gov.uk/ukpga/2003/44/schedule/33/paragraph/9); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)(2)(g)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1/2/g)
 
 [^c20888861]: Textual amendment: S. 9A(2A)(2B) inserted (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 321](https://www.legislation.gov.uk/ukpga/2003/44/section/321), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 33 para. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/33/paragraph/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)(2)(g)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1/2/g)
 
-[^key-f864be85a6a66ef22ace0051cf2db9e0]: Textual amendment: Words in s. 9A(2B)(a) substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/3), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
+[^c-f864be85a6a66ef22ace0051cf2db9e0]: Textual amendment: Words in s. 9A(2B)(a) substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/3), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
 
 [^c20888971]: Textual amendment: Words in s. 9A(3) substituted (1.9.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 172(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/172/b); [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(viii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/viii) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
@@ -786,7 +786,7 @@ Section 22(4)
 
 [^M_F_6be9371e-f691-4d2e-9838-0728a9eb58cc]: Textual amendment: S. 9B(4) inserted (temp. until the amendment by 2003 c. 39, Sch. 4 para. 3 comes into force) (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 2 para. 10(1)(2)(4)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/2/paragraph/10/1); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/669/article/4/c)
 
-[^key-4aeee353c0665da6ec6538744ce29ed8]: Textual amendment: [S. 9C](https://www.legislation.gov.uk/ukpga/1974/23/section/9C) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 196(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/196/2), [208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)
+[^c-4aeee353c0665da6ec6538744ce29ed8]: Textual amendment: [S. 9C](https://www.legislation.gov.uk/ukpga/1974/23/section/9C) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 196(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/196/2), [208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)
 
 [^c857491]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/ukpga/1974/23/section/10) repealed (3.2.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(3)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/3), [Sch. 11](https://www.legislation.gov.uk/ukpga/1994/33/schedule/11); [S.I. 1995/127](https://www.legislation.gov.uk/uksi/1995/127), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/127/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/127/schedule/1), Appendix C
 
@@ -804,19 +804,19 @@ Section 22(4)
 
 [^c857551]: Marginal citation: [1971 c. 23](https://www.legislation.gov.uk/ukpga/1971/23).
 
-[^key-e1f48032fda2d2846238c40ae1c096c7]: Textual amendment: Words in s. 12(6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 96(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/96/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-e1f48032fda2d2846238c40ae1c096c7]: Textual amendment: Words in s. 12(6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 96(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/96/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c857281]: Textual amendment: S. 13 substituted (3.2.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 43(1)](https://www.legislation.gov.uk/ukpga/1994/33/section/43/1); [S.I. 1995/127](https://www.legislation.gov.uk/uksi/1995/127), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/127/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/127/schedule/1)
 
 [^c20889361]: Textual amendment: Words in s. 14 substituted (1.9.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 173](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/173); [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(viii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/viii) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
-[^key-8c932bda3e3ee7498e35a7f58e2a9235]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/ukpga/1974/23/section/15A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 69](https://www.legislation.gov.uk/ukpga/2015/2/section/69), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/54)
+[^c-8c932bda3e3ee7498e35a7f58e2a9235]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/ukpga/1974/23/section/15A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 69](https://www.legislation.gov.uk/ukpga/2015/2/section/69), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/54)
 
-[^key-0ac1c1c32c2178623c00df707d564736]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/1974/23/section/16/1) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 197(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/197/a), [208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)
+[^c-0ac1c1c32c2178623c00df707d564736]: Textual amendment: Words in [s. 16(1)](https://www.legislation.gov.uk/ukpga/1974/23/section/16/1) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 197(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/197/a), [208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)
 
-[^key-59253ca5c228692f0710868525c6b698]: Textual amendment: [S. 16(2)](https://www.legislation.gov.uk/ukpga/1974/23/section/16/2) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 197(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/197/b), [208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)
+[^c-59253ca5c228692f0710868525c6b698]: Textual amendment: [S. 16(2)](https://www.legislation.gov.uk/ukpga/1974/23/section/16/2) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 197(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/197/b), [208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)
 
-[^key-ceccf4d79665e148013033e7c63f07f9]: Textual amendment: Words in s. 17(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 96(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/96/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-ceccf4d79665e148013033e7c63f07f9]: Textual amendment: Words in s. 17(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 96(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/96/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c857581]: Modification: S. 19(1): certain functions of the Minister for the Civil Service are transferred to the Treasury and references to that Minister are to be construed as mentioned in [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670), [arts. 2(2)](https://www.legislation.gov.uk/uksi/1981/1670/article/2/2), [3(5)](https://www.legislation.gov.uk/uksi/1981/1670/article/3/5)
 
@@ -826,15 +826,15 @@ Section 22(4)
 
 [^c20889381]: Textual amendment: S. 19(1A) inserted (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 321](https://www.legislation.gov.uk/ukpga/2003/44/section/321), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 33 para. 13](https://www.legislation.gov.uk/ukpga/2003/44/schedule/33/paragraph/13); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)(2)(g)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1/2/g)
 
-[^key-d8b995da9ef0d9483a431a61c33a5206]: Textual amendment: Words in s. 19(2) substituted (25.7.2013) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(e)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/e), [Sch. 21 para. 24](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/24) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(o)(xi)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/o/xi)
+[^c-d8b995da9ef0d9483a431a61c33a5206]: Textual amendment: Words in s. 19(2) substituted (25.7.2013) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(e)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/e), [Sch. 21 para. 24](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/24) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(o)(xi)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/o/xi)
 
-[^key-3bffa18e7c301ec20b3a26e235a20288]: Textual amendment: Words in s. 19(5) substituted (25.7.2013) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(e)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/e), [Sch. 21 para. 24](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/24) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(o)(xi)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/o/xi)
+[^c-3bffa18e7c301ec20b3a26e235a20288]: Textual amendment: Words in s. 19(5) substituted (25.7.2013) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(4)(e)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/4/e), [Sch. 21 para. 24](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/24) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(o)(xi)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/o/xi)
 
 [^c857641]: Marginal citation: [1971 c. 24](https://www.legislation.gov.uk/ukpga/1971/24).
 
 [^c857651]: Textual amendment: S. 19(7) repealed by [Social Security (Consequential Provisions) Act 1975 (c. 18, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1975/18), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1975/18/section/1/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1975/18/schedule/1/part/I) and also expressed to be repealed by [Administration of Justice Act 1977 (c. 38, SIF 37)](https://www.legislation.gov.uk/ukpga/1977/38), [s. 32(4)](https://www.legislation.gov.uk/ukpga/1977/38/section/32/4), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1977/38/schedule/5/part/II)
 
-[^key-d0cb73464fcacabb14b6a99759a5566a]: Textual amendment: [S. 20 heading](https://www.legislation.gov.uk/ukpga/1974/23/section/20) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/71/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/56) (with [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/a))
+[^c-d0cb73464fcacabb14b6a99759a5566a]: Textual amendment: [S. 20 heading](https://www.legislation.gov.uk/ukpga/1974/23/section/20) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 71(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/71/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/56) (with [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/a))
 
 [^M_F_7cb43f0e-6ccd-4b4d-f448-78aed9209cf9]: Textual amendment: Words substituted by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 37](https://www.legislation.gov.uk/ukpga/1982/48/section/37), [38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) (with [s. 47](https://www.legislation.gov.uk/ukpga/1982/48/section/47))
 
@@ -846,15 +846,15 @@ Section 22(4)
 
 [^c857721]: Textual amendment: Words substituted by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 37](https://www.legislation.gov.uk/ukpga/1982/48/section/37), [38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) (with [s. 47](https://www.legislation.gov.uk/ukpga/1982/48/section/47))
 
-[^key-8ff670967ea4815fb9736efaed9c2260]: Textual amendment: [S. 20A](https://www.legislation.gov.uk/ukpga/1974/23/section/20A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 71(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/71/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/56) (with [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/a))
+[^c-8ff670967ea4815fb9736efaed9c2260]: Textual amendment: [S. 20A](https://www.legislation.gov.uk/ukpga/1974/23/section/20A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 71(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/71/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/56) (with [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/a))
 
-[^key-d7e5362e5bb4adc971a43784de908bbd]: Textual amendment: [S. 20B](https://www.legislation.gov.uk/ukpga/1974/23/section/20B) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 72](https://www.legislation.gov.uk/ukpga/2015/2/section/72), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/57) (with [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/a))
+[^c-d7e5362e5bb4adc971a43784de908bbd]: Textual amendment: [S. 20B](https://www.legislation.gov.uk/ukpga/1974/23/section/20B) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 72](https://www.legislation.gov.uk/ukpga/2015/2/section/72), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 57](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/57) (with [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/a))
 
-[^key-6bed8ecd0eca859909ac6b3b4e0b70b7]: Textual amendment: [S. 20C](https://www.legislation.gov.uk/ukpga/1974/23/section/20C) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 73](https://www.legislation.gov.uk/ukpga/2015/2/section/73), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/58) (with [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/a))
+[^c-6bed8ecd0eca859909ac6b3b4e0b70b7]: Textual amendment: [S. 20C](https://www.legislation.gov.uk/ukpga/1974/23/section/20C) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 73](https://www.legislation.gov.uk/ukpga/2015/2/section/73), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/58) (with [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/a))
 
-[^key-a7e6aeed6b970ba0db4dd0c0f7b8ce7b]: Textual amendment: [Ss. 20D-20G](https://www.legislation.gov.uk/ukpga/1974/23/section/20D) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/74/1), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/59) (with [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/a))
+[^c-a7e6aeed6b970ba0db4dd0c0f7b8ce7b]: Textual amendment: [Ss. 20D-20G](https://www.legislation.gov.uk/ukpga/1974/23/section/20D) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 74(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/74/1), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/59) (with [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/a))
 
-[^key-cd840a2a564d20adadab81a5aa0d9301]: Textual amendment: [Ss. 20H](https://www.legislation.gov.uk/ukpga/1974/23/section/20H), [20I](https://www.legislation.gov.uk/ukpga/1974/23/section/20I) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 196(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/196/3), [208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)
+[^c-cd840a2a564d20adadab81a5aa0d9301]: Textual amendment: [Ss. 20H](https://www.legislation.gov.uk/ukpga/1974/23/section/20H), [20I](https://www.legislation.gov.uk/ukpga/1974/23/section/20I) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 196(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/196/3), [208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)
 
 [^c857751]: Marginal citation: [1971 c. 23](https://www.legislation.gov.uk/ukpga/1971/23).
 
@@ -862,9 +862,9 @@ Section 22(4)
 
 [^c857771]: Marginal citation: [1971 c. 23](https://www.legislation.gov.uk/ukpga/1971/23).
 
-[^key-99022bcd033c58145f80c79c66962878]: Textual amendment: [S. 22(A1)](https://www.legislation.gov.uk/ukpga/1974/23/section/22/A1) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 77(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/77/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/62)
+[^c-99022bcd033c58145f80c79c66962878]: Textual amendment: [S. 22(A1)](https://www.legislation.gov.uk/ukpga/1974/23/section/22/A1) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 77(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/77/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/62)
 
-[^key-777587c37ce3ce5f6ffe708bd1c3248c]: Textual amendment: Words in [s. 22(A1)](https://www.legislation.gov.uk/ukpga/1974/23/section/22/A1) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 196(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/196/4), [208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)
+[^c-777587c37ce3ce5f6ffe708bd1c3248c]: Textual amendment: Words in [s. 22(A1)](https://www.legislation.gov.uk/ukpga/1974/23/section/22/A1) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 196(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/196/4), [208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)
 
 [^c857781]: Editorial: The text of s. 22(1)(4) and Sch. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
@@ -874,17 +874,17 @@ Section 22(4)
 
 [^c857821]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-f28285ecf26c71838b504b3694456ed9]: Textual amendment: Words in s. 23(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 96(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/96/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f28285ecf26c71838b504b3694456ed9]: Textual amendment: Words in s. 23(2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 96(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/96/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-ad98cc3b760d14fa9f1572aa92916b7b]: Textual amendment: Words in [s. 23(2)](https://www.legislation.gov.uk/ukpga/1974/23/section/23/2) inserted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/4), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
+[^c-ad98cc3b760d14fa9f1572aa92916b7b]: Textual amendment: Words in [s. 23(2)](https://www.legislation.gov.uk/ukpga/1974/23/section/23/2) inserted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/4), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
 
 [^c20889471]: Textual amendment: Sch. 1 substituted (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 321](https://www.legislation.gov.uk/ukpga/2003/44/section/321), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 33 para. 15](https://www.legislation.gov.uk/ukpga/2003/44/schedule/33/paragraph/15); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)(2)(g)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1/2/g)
 
-[^key-d7fe2f6289df0b5a2f1b362872f5cb3e]: Textual amendment: Sch. 1 title substituted (15.7.2013) by [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
+[^c-d7fe2f6289df0b5a2f1b362872f5cb3e]: Textual amendment: Sch. 1 title substituted (15.7.2013) by [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
 
-[^key-ebcd5e45ab8d861acf1850aa5e5c1a6f]: Textual amendment: Sch. 1 Pt. 1 title substituted (15.7.2013) by [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
+[^c-ebcd5e45ab8d861acf1850aa5e5c1a6f]: Textual amendment: Sch. 1 Pt. 1 title substituted (15.7.2013) by [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
 
-[^key-2f552d12cb87002e7e09d56cf6489b19]: Textual amendment: Sch. 1 paras. 1, 1A substituted for Sch. 1 para. 1 (15.7.2013) by [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
+[^c-2f552d12cb87002e7e09d56cf6489b19]: Textual amendment: Sch. 1 paras. 1, 1A substituted for Sch. 1 para. 1 (15.7.2013) by [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
 
 [^c20890991]: Textual amendment: Words in Sch. 1 para. 2 inserted (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 32](https://www.legislation.gov.uk/ukpga/2007/12/section/32), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2007/12/schedule/4/paragraph/4); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3))
 
@@ -894,17 +894,17 @@ Section 22(4)
 
 [^c20890261]: Textual amendment: Sch. 1 para. 4(2) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2004/28/section/58/2), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)(iv)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i/iv)
 
-[^key-dcbecb322e30730738ac61cf92dccefb]: Textual amendment: Sch. 1 Pt. 2 title substituted (15.7.2013) by [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
+[^c-dcbecb322e30730738ac61cf92dccefb]: Textual amendment: Sch. 1 Pt. 2 title substituted (15.7.2013) by [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/2); [S.I. 2013/1694](https://www.legislation.gov.uk/uksi/2013/1694), [art. 2](https://www.legislation.gov.uk/uksi/2013/1694/article/2)
 
-[^key-42967bb3bb5565adecfa86d59829fdd8]: Textual amendment: Words in Sch. 1 para. 6(d) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2012/10/schedule/21/paragraph/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(s)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/s)
+[^c-42967bb3bb5565adecfa86d59829fdd8]: Textual amendment: Words in Sch. 1 para. 6(d) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2012/10/schedule/21/paragraph/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(s)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/s)
 
-[^key-7177111c025b09ba668a1a6a5c76bac2]: Textual amendment: Words in [Sch. 1 para. 6(d)](https://www.legislation.gov.uk/ukpga/1974/23/schedule/1/paragraph/6/d) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 28(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/28/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7177111c025b09ba668a1a6a5c76bac2]: Textual amendment: Words in [Sch. 1 para. 6(d)](https://www.legislation.gov.uk/ukpga/1974/23/schedule/1/paragraph/6/d) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 28(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/28/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-1f18d9893ede58ca07ee5261e6bb983b]: Textual amendment: Words in Sch. 1 para. 6(d) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2012/10/schedule/22/paragraph/11); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(t)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/t)
+[^c-1f18d9893ede58ca07ee5261e6bb983b]: Textual amendment: Words in Sch. 1 para. 6(d) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2012/10/schedule/22/paragraph/11); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(t)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/t)
 
-[^key-653a36274e961f8cd874c4d2053191bf]: Textual amendment: [Sch. 1 para. 6A](https://www.legislation.gov.uk/ukpga/1974/23/schedule/1/paragraph/6A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 77(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/77/1), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/62)
+[^c-653a36274e961f8cd874c4d2053191bf]: Textual amendment: [Sch. 1 para. 6A](https://www.legislation.gov.uk/ukpga/1974/23/schedule/1/paragraph/6A) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 77(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/77/1), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/62)
 
-[^key-fa2633b8323c32e947843fdb2d36ab84]: Textual amendment: Words in Sch. 1 para. 7(b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 28(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/28/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fa2633b8323c32e947843fdb2d36ab84]: Textual amendment: Words in Sch. 1 para. 7(b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 28(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/28/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c20891481]: Textual amendment: Words in Sch. 1 para. 7(c) inserted (28.3.2009 for certain purposes and otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378](https://www.legislation.gov.uk/ukpga/2006/52/section/378), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 16 para. 62(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/62/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 

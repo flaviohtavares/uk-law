@@ -78,7 +78,7 @@ Section 34.
 
 .
 
-**7.**[^key-ff0302bd4d2d927ddd824e1de5e4b36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ff0302bd4d2d927ddd824e1de5e4b36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** (1) In Schedule 7 the following shall be inserted after paragraph 4—
 
@@ -112,7 +112,7 @@ Section 34.
 
 [^c15673981]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-ff0302bd4d2d927ddd824e1de5e4b36d]: Textual amendment: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/1995/4/schedule/5/paragraph/7) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/16/b)
+[^c-ff0302bd4d2d927ddd824e1de5e4b36d]: Textual amendment: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/1995/4/schedule/5/paragraph/7) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/16/b)
 
 [^c15673991]: Marginal citation: [1975 c. 21](https://www.legislation.gov.uk/ukpga/1975/21).
 

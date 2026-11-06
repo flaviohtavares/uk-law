@@ -26,7 +26,7 @@ summary: ''
 - “**necessary drugs, medicines and appliances**” means those drugs, medicines and appliances which the patient requires and for which, in the reasonable opinion of the contractor having regard to the patient's medical condition, it would not be reasonable in all the circumstances for the patient to wait to obtain them;
 - “**out of hours performer**” means a prescriber, a person acting in accordance with a Patient Group Direction or any other health care professional employed or engaged by the contractor who can lawfully supply a drug, medicine or appliance, who is performing out of hours services under the agreement;
 - “**Patient Group Direction**” has the meaning given in the regulation 213(1) of the Human Medicines Regulations 2012 [^c22690291] (interpretation); and
-- “**supply form**” means a form provided by NHS England[^key-9520329cffeb7671913a444ac58ebf84] and completed by or on behalf of the contractor for the purpose of recording the provision of drugs, medicines or appliances to a patient during the out of hours period.
+- “**supply form**” means a form provided by NHS England[^c-9520329cffeb7671913a444ac58ebf84] and completed by or on behalf of the contractor for the purpose of recording the provision of drugs, medicines or appliances to a patient during the out of hours period.
 
 (2) Where a contractor whose agreement includes the provision of out of hours services has agreed with NHS England that its agreement should also include the supply of necessary drugs, medicines or appliances to patients at the time that it is providing them with out of hours services, the contractor must comply with the requirements of paragraphs (3) to (5).
 
@@ -62,7 +62,7 @@ summary: ''
 
 [^c22690291]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916). There are no relevant amendments to regulation 213.
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c22690301]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/2015/1879/section/I) 2004/629. There are no amendments to Schedule 1.
 

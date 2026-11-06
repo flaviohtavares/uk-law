@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Exemption from approval[^key-b8f2f82caaf7d226298264b3987d5bb8]
+## 7. Exemption from approval[^c-b8f2f82caaf7d226298264b3987d5bb8]
 
 *Extent: S*
 
-(1) A qualifying abstraction is exempt if, on the day on which this subsection comes into force, it is subject to an authorisation under the 2018 Regulations[^key-6908f7ab54affbc7aa4d528e276985f4].
+(1) A qualifying abstraction is exempt if, on the day on which this subsection comes into force, it is subject to an authorisation under the 2018 Regulations[^c-6908f7ab54affbc7aa4d528e276985f4].
 
 (2) The exemption under subsection (1) comes to an end if the authorisation subsequently—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b8f2f82caaf7d226298264b3987d5bb8]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2013/5/section/7) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-b8f2f82caaf7d226298264b3987d5bb8]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2013/5/section/7) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-6908f7ab54affbc7aa4d528e276985f4]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/asp/2013/5/section/7/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 8(2)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/8/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-6908f7ab54affbc7aa4d528e276985f4]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/asp/2013/5/section/7/1) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 8(2)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/8/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

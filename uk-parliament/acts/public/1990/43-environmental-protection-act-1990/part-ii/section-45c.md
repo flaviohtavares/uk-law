@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45C. Separate collection of dry recyclable waste and food waste: Scotland[^key-21c5861341a989f3414d575309341aa1]
+## 45C. Separate collection of dry recyclable waste and food waste: Scotland[^c-21c5861341a989f3414d575309341aa1]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) the property is in a rural area, and the authority considers that the separate collection of dry recyclable waste from the property would not be environmentally or economically practicable; or
 - (b) the authority considers that dry recyclable waste if not presented in a receptacle will be deposited at a bring site.
 
-(4)[^key-8470d3f96562d9e01e30211d7a64f437] An authority need not comply with subsection (2) to the extent that—
+(4)[^c-8470d3f96562d9e01e30211d7a64f437] An authority need not comply with subsection (2) to the extent that—
 
 - (a) it considers that—
   - (i) such non-compliance will not affect the potential of the waste to undergo preparing for re-use, recycling or other recovery operations, and
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21c5861341a989f3414d575309341aa1]: Textual amendment: S. 45C inserted (S.) (17.5.2012) by [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/5)
+[^c-21c5861341a989f3414d575309341aa1]: Textual amendment: S. 45C inserted (S.) (17.5.2012) by [The Waste (Scotland) Regulations 2012 (S.S.I. 2012/148)](https://www.legislation.gov.uk/ssi/2012/148), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/148/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2012/148/regulation/2/5)
 
-[^key-8470d3f96562d9e01e30211d7a64f437]: Textual amendment: [S. 45C(4)](https://www.legislation.gov.uk/ukpga/1990/43/section/45C/4) substituted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/314/regulation/2/4)
+[^c-8470d3f96562d9e01e30211d7a64f437]: Textual amendment: [S. 45C(4)](https://www.legislation.gov.uk/ukpga/1990/43/section/45C/4) substituted (4.12.2020) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/314)](https://www.legislation.gov.uk/ssi/2020/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/314/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/314/regulation/2/4)

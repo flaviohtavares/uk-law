@@ -44,12 +44,12 @@ summary: ''
 
 .
 
-(4)[^key-ef54eb65d541a3b54fb35c89d6c807b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ef54eb65d541a3b54fb35c89d6c807b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ef54eb65d541a3b54fb35c89d6c807b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ef54eb65d541a3b54fb35c89d6c807b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ef54eb65d541a3b54fb35c89d6c807b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ef54eb65d541a3b54fb35c89d6c807b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef54eb65d541a3b54fb35c89d6c807b7]: Textual amendment: S. 14(4)-(6) repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/d)
+[^c-ef54eb65d541a3b54fb35c89d6c807b7]: Textual amendment: S. 14(4)-(6) repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/d)

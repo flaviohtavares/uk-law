@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Power for Department to obtain information[^key-01ff365271dad0b55c571ad2c7d5016f]
+## 19. Power for Department to obtain information[^c-01ff365271dad0b55c571ad2c7d5016f]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ After Article 350R of the Insolvency Order (inserted by section 18) insert—
 
 ## Annotations
 
-[^key-01ff365271dad0b55c571ad2c7d5016f]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2016/2/section/19) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-01ff365271dad0b55c571ad2c7d5016f]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2016/2/section/19) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

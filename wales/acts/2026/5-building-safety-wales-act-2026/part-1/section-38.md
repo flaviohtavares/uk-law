@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Occurrence recording system: duty of principal accountable person[^key-8833a86d3595a729dabe20507da691d8]
+## 38. Occurrence recording system: duty of principal accountable person[^c-8833a86d3595a729dabe20507da691d8]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8833a86d3595a729dabe20507da691d8]: Commencement: S. 38 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-8833a86d3595a729dabe20507da691d8]: Commencement: S. 38 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

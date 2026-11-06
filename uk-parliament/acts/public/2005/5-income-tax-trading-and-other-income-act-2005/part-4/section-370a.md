@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 370A. Valuation of interest not paid in cash[^key-8485c25fe475340be4566b2b74b1314e]
+## 370A. Valuation of interest not paid in cash[^c-8485c25fe475340be4566b2b74b1314e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8485c25fe475340be4566b2b74b1314e]: Textual amendment: S. 370A inserted (with effect in accordance with Sch. 11 para. 12(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/11/paragraph/6)
+[^c-8485c25fe475340be4566b2b74b1314e]: Textual amendment: S. 370A inserted (with effect in accordance with Sch. 11 para. 12(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/11/paragraph/6)

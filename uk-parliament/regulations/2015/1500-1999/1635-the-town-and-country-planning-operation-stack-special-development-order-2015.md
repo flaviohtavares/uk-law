@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 59 and 60 of the Town and Country Planning Act 1990[^f00001], makes the following Order:
 
-## 1. Citation, commencement and application[^key-1cea8bf1aef13d25a75ca282ae0a8c67]
+## 1. Citation, commencement and application[^c-1cea8bf1aef13d25a75ca282ae0a8c67]
 
 (1) This Order may be cited as the Town and Country Planning (Operation Stack) Special Development Order 2015 and comes into force on 2nd September 2015.
 
 (2) This Order applies to land comprising the freight holding area at Manston Airport, Manston Road, Manston in Kent.
 
-## 2. Interpretation[^key-91a95394e53ff849f563f8fc97d09819]
+## 2. Interpretation[^c-91a95394e53ff849f563f8fc97d09819]
 
 For the purposes of this Order—
 
@@ -64,7 +64,7 @@ For the purposes of this Order—
   - (b) Thanet District Council, Cecil Street, Margate, Kent, CT9 1XZ; and
 - “Operation Stack” means the operation, administered by Kent Police and Highways England, for the purpose of relieving congestion on the M20 motorway.
 
-## 3. Temporary planning permission[^key-eda3b6aa2bc3fcb531c3b149226f4981]
+## 3. Temporary planning permission[^c-eda3b6aa2bc3fcb531c3b149226f4981]
 
 (1) Subject to the following provisions of this Order, planning permission is granted for development consisting of—
 
@@ -72,9 +72,9 @@ For the purposes of this Order—
 - (b) the provision on the land of any temporary structures, works, plant or machinery in connection with that use including the provision of facilities for drivers of goods vehicles stationed on the land; and
 - (c) use of the air traffic control tower building on the land as a centre for control and co-ordination of activities on the land.
 
-(2) The planning permission granted by paragraph (1) ceases at the end of 31st December 2019[^key-c165a42e8280883fa69661b7b40f2bca] and accordingly immediately thereafter the land reverts to its previous lawful use.
+(2) The planning permission granted by paragraph (1) ceases at the end of 31st December 2019[^c-c165a42e8280883fa69661b7b40f2bca] and accordingly immediately thereafter the land reverts to its previous lawful use.
 
-## 4. Conditions and limitations[^key-60b7701811b2d68f9b577e50c3cdaa71]
+## 4. Conditions and limitations[^c-60b7701811b2d68f9b577e50c3cdaa71]
 
 (1) Development is not permitted by article 3 for—
 
@@ -94,7 +94,7 @@ For the purposes of this Order—
 - (d) a plan identifying the foul water sewers and surface water drainage system, including the location of access points to deploy emergency stop valves, must be kept on the land at all times; and
 - (e) any artificial lighting must be installed no closer than 10 metres from the boundary of the land and must be arranged so the main beam angle of each installation is directed downward so as to minimise light spill.
 
-(3) As soon as reasonably practicable after 31st December 2019[^key-d2b7ed89f759eeed4cdaad9194138079]—
+(3) As soon as reasonably practicable after 31st December 2019[^c-d2b7ed89f759eeed4cdaad9194138079]—
 
 - (a) all structures, works, plant or machinery brought on to the land on or after 5th August 2015 for the purposes of Operation Stack must be removed; and
 - (b) the land must be restored to its condition immediately before 5th August 2015.
@@ -131,16 +131,16 @@ For illustrative purposes only a plan of the Airport site and the land to which 
 
 [^f00001]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8). Section 59 was amended by section 1 of, and Schedule 1 to, the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and section 60 was amended by section 4(1) of the Growth and Infrastructure Act 2013.
 
-[^key-1cea8bf1aef13d25a75ca282ae0a8c67]: Commencement: Art. 1 in force at 2.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1635/article/1/1)
+[^c-1cea8bf1aef13d25a75ca282ae0a8c67]: Commencement: Art. 1 in force at 2.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1635/article/1/1)
 
-[^key-91a95394e53ff849f563f8fc97d09819]: Commencement: Art. 2 in force at 2.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1635/article/1/1)
+[^c-91a95394e53ff849f563f8fc97d09819]: Commencement: Art. 2 in force at 2.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1635/article/1/1)
 
 [^f00002]: Footnote: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-eda3b6aa2bc3fcb531c3b149226f4981]: Commencement: Art. 3 in force at 2.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1635/article/1/1)
+[^c-eda3b6aa2bc3fcb531c3b149226f4981]: Commencement: Art. 3 in force at 2.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1635/article/1/1)
 
-[^key-c165a42e8280883fa69661b7b40f2bca]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/1635/article/3/2) substituted (31.12.2017) by [The Town and Country Planning (Operation Stack) Special Development (Amendment) Order 2017 (S.I. 2017/1137)](https://www.legislation.gov.uk/uksi/2017/1137), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1137/article/1), [3](https://www.legislation.gov.uk/uksi/2017/1137/article/3)
+[^c-c165a42e8280883fa69661b7b40f2bca]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/1635/article/3/2) substituted (31.12.2017) by [The Town and Country Planning (Operation Stack) Special Development (Amendment) Order 2017 (S.I. 2017/1137)](https://www.legislation.gov.uk/uksi/2017/1137), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1137/article/1), [3](https://www.legislation.gov.uk/uksi/2017/1137/article/3)
 
-[^key-60b7701811b2d68f9b577e50c3cdaa71]: Commencement: Art. 4 in force at 2.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1635/article/1/1)
+[^c-60b7701811b2d68f9b577e50c3cdaa71]: Commencement: Art. 4 in force at 2.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1635/article/1/1)
 
-[^key-d2b7ed89f759eeed4cdaad9194138079]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2015/1635/article/4/3) substituted (31.12.2017) by [The Town and Country Planning (Operation Stack) Special Development (Amendment) Order 2017 (S.I. 2017/1137)](https://www.legislation.gov.uk/uksi/2017/1137), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1137/article/1), [4](https://www.legislation.gov.uk/uksi/2017/1137/article/4)
+[^c-d2b7ed89f759eeed4cdaad9194138079]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2015/1635/article/4/3) substituted (31.12.2017) by [The Town and Country Planning (Operation Stack) Special Development (Amendment) Order 2017 (S.I. 2017/1137)](https://www.legislation.gov.uk/uksi/2017/1137), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1137/article/1), [4](https://www.legislation.gov.uk/uksi/2017/1137/article/4)

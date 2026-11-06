@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Airports[^key-70f02fa8a3129d9b8a5d1e07159e3588]
+## 23. Airports[^c-70f02fa8a3129d9b8a5d1e07159e3588]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70f02fa8a3129d9b8a5d1e07159e3588]: Commencement: S. 23 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(b)](https://www.legislation.gov.uk/uksi/2010/101/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-70f02fa8a3129d9b8a5d1e07159e3588]: Commencement: S. 23 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(b)](https://www.legislation.gov.uk/uksi/2010/101/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Liquidating deposit takers or insurance companies[^key-768d6aabfd3491edcde2f4a6631c23f2][^key-bb3d9ac629f14ce3c481ff60f6a9b866]
+## 22. Liquidating deposit takers or insurance companies[^c-768d6aabfd3491edcde2f4a6631c23f2][^c-bb3d9ac629f14ce3c481ff60f6a9b866]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-768d6aabfd3491edcde2f4a6631c23f2]: Commencement: S. 22 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
+[^c-768d6aabfd3491edcde2f4a6631c23f2]: Commencement: S. 22 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
 
-[^key-bb3d9ac629f14ce3c481ff60f6a9b866]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/23/section/22) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-bb3d9ac629f14ce3c481ff60f6a9b866]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2022/23/section/22) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

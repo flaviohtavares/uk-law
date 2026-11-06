@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Smoking: prohibition and control
 
-### 1. Offence of permitting others to smoke in no-smoking premises[^key-4b9f6d04b4faea3625bd35e2d495c5cf][^key-6992248b161ec76f435c8e34f0ae9bfa]
+### 1. Offence of permitting others to smoke in no-smoking premises[^c-4b9f6d04b4faea3625bd35e2d495c5cf][^c-6992248b161ec76f435c8e34f0ae9bfa]
 
 (1) A person who, having the management or control of no-smoking premises, knowingly permits another to smoke there commits an offence.
 
@@ -49,7 +49,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) A person guilty of an offence under this section is liable, on summary conviction, to a fine not exceeding level 4 on the standard scale.
 
-### 2. Offence of smoking in no-smoking premises[^key-09ad59fb8d040db4b1a86421ec3d6dc2][^key-da46bc49a71ba99057a8967f45413595]
+### 2. Offence of smoking in no-smoking premises[^c-09ad59fb8d040db4b1a86421ec3d6dc2][^c-da46bc49a71ba99057a8967f45413595]
 
 (1) A person who smokes in no-smoking premises commits an offence.
 
@@ -59,7 +59,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### 3. Display of warning notices in and on no-smoking premises
 
-(1)[^key-535559bc1b546da4971c7f6b8660b81c][^key-b1dc076ea0c35366c17dc034b8125ab8][^key-103c8448bca5b07ea1ca6ca4aaf66c31] If notices are not conspicuously displayed—
+(1)[^c-535559bc1b546da4971c7f6b8660b81c][^c-b1dc076ea0c35366c17dc034b8125ab8][^c-103c8448bca5b07ea1ca6ca4aaf66c31] If notices are not conspicuously displayed—
 
 - (a) in, on or near no-smoking premises so as to be visible to and legible by persons in and persons approaching the premises; and
 - (b) stating—
@@ -68,51 +68,51 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 the person having the management or control of the premises commits an offence.
 
-(2)[^key-535559bc1b546da4971c7f6b8660b81c][^key-103c8448bca5b07ea1ca6ca4aaf66c31] It is a defence for an accused charged with an offence under this section to prove that the accused (or any employee or agent of the accused) took all reasonable precautions and exercised all due diligence not to commit the offence.
+(2)[^c-535559bc1b546da4971c7f6b8660b81c][^c-103c8448bca5b07ea1ca6ca4aaf66c31] It is a defence for an accused charged with an offence under this section to prove that the accused (or any employee or agent of the accused) took all reasonable precautions and exercised all due diligence not to commit the offence.
 
-(3)[^key-da4706555ba2db2777b9f6ffe45fd9cf] The Scottish Ministers may, after consulting such persons as they consider appropriate, by regulations provide further as to the manner of display, form and content of the notices referred to in subsection (1) and that any such provision is to be treated, for the purposes of that subsection, as if incorporated in it.
+(3)[^c-da4706555ba2db2777b9f6ffe45fd9cf] The Scottish Ministers may, after consulting such persons as they consider appropriate, by regulations provide further as to the manner of display, form and content of the notices referred to in subsection (1) and that any such provision is to be treated, for the purposes of that subsection, as if incorporated in it.
 
-(4)[^key-535559bc1b546da4971c7f6b8660b81c][^key-103c8448bca5b07ea1ca6ca4aaf66c31] A person guilty of an offence under this section is liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
+(4)[^c-535559bc1b546da4971c7f6b8660b81c][^c-103c8448bca5b07ea1ca6ca4aaf66c31] A person guilty of an offence under this section is liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
 
 ### 4. Meaning of “smoke” and “no-smoking premises”
 
-(1)[^key-6df70a0c3561ae968a2c422ad2758244][^key-604b4e3511f6c79c00d9cf6e1f379be1] In this Part, “**smoke**” means smoke tobacco, any substance or mixture which includes it or any other substance or mixture; and a person is to be taken as smoking if the person is holding or otherwise in possession or control of lit tobacco, of any lit substance or mixture which includes tobacco or of any other lit substance or mixture which is in a form or in a receptacle in which it can be smoked.
+(1)[^c-6df70a0c3561ae968a2c422ad2758244][^c-604b4e3511f6c79c00d9cf6e1f379be1] In this Part, “**smoke**” means smoke tobacco, any substance or mixture which includes it or any other substance or mixture; and a person is to be taken as smoking if the person is holding or otherwise in possession or control of lit tobacco, of any lit substance or mixture which includes tobacco or of any other lit substance or mixture which is in a form or in a receptacle in which it can be smoked.
 
-(2)[^key-be702efcdadd355c7f373827b93fd2da] In this Part, “**no-smoking premises**” means such premises or such classes of premises, being premises of a kind mentioned in subsection (4), as are prescribed by regulations made by the Scottish Ministers after consulting such persons as they consider appropriate on a draft of the regulations.
+(2)[^c-be702efcdadd355c7f373827b93fd2da] In this Part, “**no-smoking premises**” means such premises or such classes of premises, being premises of a kind mentioned in subsection (4), as are prescribed by regulations made by the Scottish Ministers after consulting such persons as they consider appropriate on a draft of the regulations.
 
-(3)[^key-be702efcdadd355c7f373827b93fd2da] Regulations under subsection (2) may prescribe premises or parts of premises or classes of premises or parts of premises which are excluded from the definition of “no-smoking premises”.
+(3)[^c-be702efcdadd355c7f373827b93fd2da] Regulations under subsection (2) may prescribe premises or parts of premises or classes of premises or parts of premises which are excluded from the definition of “no-smoking premises”.
 
-(4)[^key-6df70a0c3561ae968a2c422ad2758244] The kind of premises referred to in subsection (2) is premises which are wholly or substantially enclosed and—
+(4)[^c-6df70a0c3561ae968a2c422ad2758244] The kind of premises referred to in subsection (2) is premises which are wholly or substantially enclosed and—
 
 - (a) to which the public or a section of the public has access;
 - (b) which are being used wholly or mainly as a place of work;
 - (c) which are being used by and for the purposes of a club or other unincorporated association; or
 - (d) which are being used wholly or mainly for the provision of education or of health or care services.
 
-(5)[^key-6df70a0c3561ae968a2c422ad2758244] In subsection (4)(b), the reference to work includes work undertaken for no financial advantage.
+(5)[^c-6df70a0c3561ae968a2c422ad2758244] In subsection (4)(b), the reference to work includes work undertaken for no financial advantage.
 
-(6)[^key-8302601fbc0de4f9a03d7a61f9c2bd45] Regulations under subsection (2) may, for the purposes of that subsection, define or elaborate the meaning of any of the expressions—
+(6)[^c-8302601fbc0de4f9a03d7a61f9c2bd45] Regulations under subsection (2) may, for the purposes of that subsection, define or elaborate the meaning of any of the expressions—
 
 - (a) “premises”;
 - (b) “wholly or substantially enclosed”;
 - (c) “the public”; and
 - (d) “has access”.
 
-(7)[^key-be702efcdadd355c7f373827b93fd2da] Regulations under subsection (2) may define or elaborate the meaning of “premises”—
+(7)[^c-be702efcdadd355c7f373827b93fd2da] Regulations under subsection (2) may define or elaborate the meaning of “premises”—
 
 - (a) by reference to the person or class of person who owns or occupies them;
 - (b) so as to include vehicles, vessels, trains and other means of transport (except aircraft), or such, or such classes, of them as are specified in the regulations.
 
-(8)[^key-8302601fbc0de4f9a03d7a61f9c2bd45] The Scottish Ministers may, by regulations, after consulting such persons as they consider appropriate on a draft of the regulations, modify subsection (4) so as—
+(8)[^c-8302601fbc0de4f9a03d7a61f9c2bd45] The Scottish Ministers may, by regulations, after consulting such persons as they consider appropriate on a draft of the regulations, modify subsection (4) so as—
 
 - (a) to add a kind of premises to; or
 - (b) remove a kind of premises (but not the kind referred to in paragraph (a) of that subsection) from,
 
 those in that subsection.
 
-(9)[^key-8302601fbc0de4f9a03d7a61f9c2bd45] Regulations made by virtue of subsection (7)(b) may provide as to how the statement referred to in section 3(1)(b) is to be expressed in the case of each of the means of transport referred to in the regulations and that any such provision is to be treated, for the purposes of that section, as if incorporated in it.
+(9)[^c-8302601fbc0de4f9a03d7a61f9c2bd45] Regulations made by virtue of subsection (7)(b) may provide as to how the statement referred to in section 3(1)(b) is to be expressed in the case of each of the means of transport referred to in the regulations and that any such provision is to be treated, for the purposes of that section, as if incorporated in it.
 
-### 4A. Offence of permitting others to smoke outside hospital building[^key-900c278377db543ed5fdfafb759e3174]
+### 4A. Offence of permitting others to smoke outside hospital building[^c-900c278377db543ed5fdfafb759e3174]
 
 (1) A person who, having the management and control of the no-smoking area outside a hospital building, knowingly permits another to smoke there commits an offence.
 
@@ -176,32 +176,32 @@ but only insofar as the area forms part of hospital grounds.
 
 (5) Regulations under subsection (4) may modify the application of section 4C as the Scottish Ministers consider appropriate.
 
-### 5. Proceedings for offences under sections 1 to 3 and 4A to 4C[^key-c7e5bf905dea20920ec5cdfc1dee3f80][^key-b3e6886d923df2d9e5d303b12dfa51ea][^key-20938002eab0c05d342fc0af11adc1f7]
+### 5. Proceedings for offences under sections 1 to 3 and 4A to 4C[^c-c7e5bf905dea20920ec5cdfc1dee3f80][^c-b3e6886d923df2d9e5d303b12dfa51ea][^c-20938002eab0c05d342fc0af11adc1f7]
 
-(1) Summary proceedings in pursuance of section 1, 2 , 3, 4A, 4B or 4C(5)[^key-77232033dedce0fbaa4fd673bd44d31e] may be commenced at any time within the period of 6 months from the date on which evidence sufficient in the opinion of the Lord Advocate to justify the proceedings comes to the Lord Advocate's knowledge.
+(1) Summary proceedings in pursuance of section 1, 2 , 3, 4A, 4B or 4C(5)[^c-77232033dedce0fbaa4fd673bd44d31e] may be commenced at any time within the period of 6 months from the date on which evidence sufficient in the opinion of the Lord Advocate to justify the proceedings comes to the Lord Advocate's knowledge.
 
 (2) Subsection (3) of section 136 of the Criminal Procedure (Scotland) Act 1995 (c. 46) (date of commencement of summary proceedings) has effect for the purposes of subsection (1) as it has effect for the purposes of that section.
 
 (3) For the purposes of subsection (1), a certificate of the Lord Advocate as to the date on which the evidence in question came to the Lord Advocate's knowledge is conclusive evidence of the date on which it did so.
 
-### 6. Fixed penalties[^key-a483a945679e277a201176a5ad0a798e][^key-97a87650673f4bc26ca7478049efcae7][^key-2a7b9963693dfbf55ceb29c1ed241c35]
+### 6. Fixed penalties[^c-a483a945679e277a201176a5ad0a798e][^c-97a87650673f4bc26ca7478049efcae7][^c-2a7b9963693dfbf55ceb29c1ed241c35]
 
 (1) Schedule 1 (which provides as to fixed penalties for offences under this Part) has effect.
 
-(2) Schedule 1 does not extend to an offence under section 1 , 3, 4A, 4B or 4C(5)[^key-b4ef95107140a0714a089db0150dc074] committed otherwise than by a natural person.
+(2) Schedule 1 does not extend to an offence under section 1 , 3, 4A, 4B or 4C(5)[^c-b4ef95107140a0714a089db0150dc074] committed otherwise than by a natural person.
 
-### 7. Powers to enter and require identification[^key-277a12e09736018060543cf7a87652c5][^key-83afe44eb759e35878a0bab64999175e]
+### 7. Powers to enter and require identification[^c-277a12e09736018060543cf7a87652c5][^c-83afe44eb759e35878a0bab64999175e]
 
 (1) An authorised officer of the appropriate council may enter and search any no-smoking premises in order to ascertain whether an offence under section 1, 2 or 3 has been or is being committed there.
 
-(1A)[^key-54ddeed62e82a2a5272b64466d5e762e] An authorised officer of the appropriate council may enter and search any hospital grounds to ascertain whether an offence under section 4A, 4B or 4C(5) has been or is being committed there.
+(1A)[^c-54ddeed62e82a2a5272b64466d5e762e] An authorised officer of the appropriate council may enter and search any hospital grounds to ascertain whether an offence under section 4A, 4B or 4C(5) has been or is being committed there.
 
 (2) A power under this section may be exercised, if need be, by force.
 
 (3) A person who—
 
 - (a) an authorised officer of a council reasonably believes—
-  - (i) is committing or has committed an offence under section 1, 2 , 3, 4A, 4B or 4C(5)[^key-eaa48359777a85c7da9ebc3fe74adcdc]; or
+  - (i) is committing or has committed an offence under section 1, 2 , 3, 4A, 4B or 4C(5)[^c-eaa48359777a85c7da9ebc3fe74adcdc]; or
   - (ii) has information relating to such an offence; and
 - (b) fails without reasonable excuse to supply the officer with the person's name and address on being so required by the officer,
 
@@ -213,10 +213,10 @@ commits an offence.
 
 - “**authorised**” means authorised for the purposes of this section by the appropriate council;
 - “**the appropriate council**” means—
-  - ((a)) in relation to no-smoking premises, the council of the area in which those premises are[^key-a01192cda5136f42cf9d132636db7f7c];
-  - ((b)) in relation to a no-smoking area outside a hospital building, the council of the area in which the hospital is.[^key-bdc410b0d32c0f38eb3b3fdc48eebe0f]
+  - ((a)) in relation to no-smoking premises, the council of the area in which those premises are[^c-a01192cda5136f42cf9d132636db7f7c];
+  - ((b)) in relation to a no-smoking area outside a hospital building, the council of the area in which the hospital is.[^c-bdc410b0d32c0f38eb3b3fdc48eebe0f]
 
-### 8. Bodies corporate etc.[^key-246800ca05d273547726cf06b0de1af1][^key-b3b4de090d9184cb9d46b0e715eba488]
+### 8. Bodies corporate etc.[^c-246800ca05d273547726cf06b0de1af1][^c-b3b4de090d9184cb9d46b0e715eba488]
 
 (1) Where an offence under this Part which has been committed by a body corporate other than a council is proved to have been committed with the consent or connivance of, or to be attributable to, any neglect on the part of—
 
@@ -246,11 +246,11 @@ that person, as well as the partnership, is guilty of the offence and liable to 
 
 that person, as well as the unincorporated association, is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-### 9. Sale of tobacco to under-age persons: variation of age limit[^key-97541f4aae9c5bdc17789ed99999326e][^key-9125836a161634449ca1eb9381252b77]
+### 9. Sale of tobacco to under-age persons: variation of age limit[^c-97541f4aae9c5bdc17789ed99999326e][^c-9125836a161634449ca1eb9381252b77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Crown application[^key-b0ba8121fb86b596303ed1016586db13][^key-eeaa1095d39dd562883956462fea65a3]
+### 10. Crown application[^c-b0ba8121fb86b596303ed1016586db13][^c-eeaa1095d39dd562883956462fea65a3]
 
 (1) This Part binds the Crown.
 
@@ -260,7 +260,7 @@ that person, as well as the unincorporated association, is guilty of the offence
 
 ## Part 2 — General dental services, general ophthalmic services, personal dental services etc.
 
-### 11. Detection of vision problems in children[^key-f8213ee2ec4d8d8e2797eb9bf50c9835]
+### 11. Detection of vision problems in children[^c-f8213ee2ec4d8d8e2797eb9bf50c9835]
 
 After section 38A of the 1978 Act, insert—
 
@@ -272,7 +272,7 @@ After section 38A of the 1978 Act, insert—
 
 .
 
-### 12. Free oral health assessments and dental examinations[^key-1cf152711cbb79c95571c2162ed86a55][^key-d3b042336dfea0ec4fd85758bddcd70f]
+### 12. Free oral health assessments and dental examinations[^c-1cf152711cbb79c95571c2162ed86a55][^c-d3b042336dfea0ec4fd85758bddcd70f]
 
 (1) Oral health assessments and dental examinations carried out on or after 1st April 2006 in accordance with arrangements made under section 17C of the 1978 Act, arrangements for the provision of general dental services under Part II of that Act or a pilot scheme under Part I of the National Health Service (Primary Care) Act 1997 (c. 46) (the “**1997 Act**”) are to be free of charge; and accordingly those Acts are amended as follows.
 
@@ -306,7 +306,7 @@ After section 38A of the 1978 Act, insert—
   ;
 - (b) subsection (2) is repealed.
 
-### 13. Free eye examinations and sight tests[^key-4a698fcaaddb6b44b82baf0f07696b51][^key-f25a7eff78008270bc2fe1ab00bff18b]
+### 13. Free eye examinations and sight tests[^c-4a698fcaaddb6b44b82baf0f07696b51][^c-f25a7eff78008270bc2fe1ab00bff18b]
 
 (1) Arrangements under section 26(1) of the 1978 Act for the provision of general ophthalmic services are to include eye examinations and the provision of free eye examinations and sight tests in accordance with such arrangements is to be extended on and after 1st April 2006; and accordingly that Act is amended as follows.
 
@@ -346,14 +346,14 @@ After section 38A of the 1978 Act, insert—
 - (c) in sub-paragraph (3), the words “or (1A)” are repealed;
 - (d) in sub-paragraph (4), for the words “70(1A)” substitute “ 70(1) ”.
 
-### 15. Arrangements for provision of general dental services[^key-6d21ff0c2c6af5f9fbb0109715fd4097][^key-09d467e00b55f47263fe8a02d8c0fa42]
+### 15. Arrangements for provision of general dental services[^c-6d21ff0c2c6af5f9fbb0109715fd4097][^c-09d467e00b55f47263fe8a02d8c0fa42]
 
 In section 25 of the 1978 Act (arrangements for provision of general dental services) in subsection (1)—
 
 - (a) after the words “dental practitioners” insert “ or bodies corporate entitled, by virtue of section 43 of the Dentists Act 1984 (c. 24), to carry on the business of dentistry ”;
 - (b) after the words “dental practitioner” insert “ or body corporate ”.
 
-### 16. Assistance and support: general dental services[^key-7ae7f9832f8807068ea9240878139362]
+### 16. Assistance and support: general dental services[^c-7ae7f9832f8807068ea9240878139362]
 
 After section 28C of the 1978 Act, insert—
 
@@ -369,7 +369,7 @@ After section 28C of the 1978 Act, insert—
 
 .
 
-### 17. Lists of persons undertaking to provide or approved to assist in the provision of general dental services[^key-4bf0b3f0b23bc4b7807fb6329b6644b1][^key-668b9b4da52fd2142e49733dc9bd8b63]
+### 17. Lists of persons undertaking to provide or approved to assist in the provision of general dental services[^c-4bf0b3f0b23bc4b7807fb6329b6644b1][^c-668b9b4da52fd2142e49733dc9bd8b63]
 
 In section 25 of the 1978 Act (arrangements for provision of general dental services), for subsections (2) to (2B), substitute—
 
@@ -423,7 +423,7 @@ After section 17E of the 1978 Act, insert—
 
 .
 
-### 19. Lists of persons undertaking to provide or approved to assist in the provision of general ophthalmic services[^key-7ef29a3798327cdac21d0ee6084f2ed0][^key-8ad3934fe9b55a3fad866a99e9bfb384]
+### 19. Lists of persons undertaking to provide or approved to assist in the provision of general ophthalmic services[^c-7ef29a3798327cdac21d0ee6084f2ed0][^c-8ad3934fe9b55a3fad866a99e9bfb384]
 
 In section 26 of the 1978 Act (arrangements for provision of general ophthalmic services), for subsection (2), substitute—
 
@@ -732,13 +732,13 @@ After section 17X of the 1978 Act (as inserted by section 23 above), insert—
 
 ## Part 5 — Discipline
 
-### 26. Disqualification by the NHS Tribunal[^key-62cb4f03bab4169f878ab8dcb5e690f4]
+### 26. Disqualification by the NHS Tribunal[^c-62cb4f03bab4169f878ab8dcb5e690f4]
 
-(1)[^key-4cc5021b852f91e1e4885cc3f1430199] The 1978 Act is amended as follows.
+(1)[^c-4cc5021b852f91e1e4885cc3f1430199] The 1978 Act is amended as follows.
 
 (2) In section 29 (conditions of disqualification and persons subject to jurisdiction of NHS Tribunal)—
 
-- (a)[^key-4cc5021b852f91e1e4885cc3f1430199] for subsection (2) substitute—
+- (a)[^c-4cc5021b852f91e1e4885cc3f1430199] for subsection (2) substitute—
 
   > (2) If the Tribunal receive from a Health Board representations that a person—
   >
@@ -748,10 +748,10 @@ After section 17X of the 1978 Act (as inserted by section 23 above), insert—
   > in any list meets any of the conditions for disqualification, the Tribunal shall inquire into the case.
 
   ;
-- (b)[^key-4cc5021b852f91e1e4885cc3f1430199] in subsection (4)(b), the words “the representations are that the second condition for disqualification is met and” are repealed;
+- (b)[^c-4cc5021b852f91e1e4885cc3f1430199] in subsection (4)(b), the words “the representations are that the second condition for disqualification is met and” are repealed;
 - (c) in subsection (6)—
-  - (i)[^key-4cc5021b852f91e1e4885cc3f1430199] for the word “continued” substitute “ inclusion or continued ”;
-  - (ii)[^key-dcd13d0a20c4e6e93100caddc62b6640][^key-7c2706975b18ad76ac4421738878c0da] for the words from “list”, where it second occurs, to the end substitute
+  - (i)[^c-4cc5021b852f91e1e4885cc3f1430199] for the word “continued” substitute “ inclusion or continued ”;
+  - (ii)[^c-dcd13d0a20c4e6e93100caddc62b6640][^c-7c2706975b18ad76ac4421738878c0da] for the words from “list”, where it second occurs, to the end substitute
 
     > list—
     >
@@ -759,14 +759,14 @@ After section 17X of the 1978 Act (as inserted by section 23 above), insert—
     > - (b) in relation to a list referred to in subsection (8)(c) or (d), undertake to provide or are approved to assist in providing;
 
     ;
-- (d)[^key-4cc5021b852f91e1e4885cc3f1430199] after subsection (7), insert—
+- (d)[^c-4cc5021b852f91e1e4885cc3f1430199] after subsection (7), insert—
 
   > (7A) The third condition for disqualification is that the person concerned is unsuitable (by virtue of professional or personal conduct) to be included, or to continue to be included, in the list.
 
   ;
 - (e) in subsection (8)—
-  - (i)[^key-4cc5021b852f91e1e4885cc3f1430199] paragraph (b) is repealed;
-  - (ii)[^key-41ad76e73404ff04a5308dd1a943667d][^key-a639f000669e808f7bce884ac82da7ce] for paragraphs (c) to (e) substitute—
+  - (i)[^c-4cc5021b852f91e1e4885cc3f1430199] paragraph (b) is repealed;
+  - (ii)[^c-41ad76e73404ff04a5308dd1a943667d][^c-a639f000669e808f7bce884ac82da7ce] for paragraphs (c) to (e) substitute—
 
     > - (c) a list of dental practitioners and bodies corporate referred to in section 25(1) undertaking to provide, and of persons who are approved to assist in providing, general dental services;
     > - (cc) a list of persons performing personal dental services;
@@ -774,34 +774,34 @@ After section 17X of the 1978 Act (as inserted by section 23 above), insert—
     > - (e) a list of registered pharmacists performing pharmaceutical care services,
 
     ;
-- (f)[^key-4cc5021b852f91e1e4885cc3f1430199] in subsection (11)—
+- (f)[^c-4cc5021b852f91e1e4885cc3f1430199] in subsection (11)—
   - (i) the word “and” is repealed;
   - (ii) at the end insert “ ; and cases in which representations are made that the third condition for disqualification is met are referred to below as unsuitability cases ”.
 
 (3) In section 29A (cases before Tribunal: supplementary provision)—
 
-- (a)[^key-4cc5021b852f91e1e4885cc3f1430199] in subsection (1), after “the second condition for disqualification” insert “ or, as the case may be, the third condition for disqualification ”;
-- (b)[^key-168801182434397549b3d09d36dec189] after subsection (1), insert—
+- (a)[^c-4cc5021b852f91e1e4885cc3f1430199] in subsection (1), after “the second condition for disqualification” insert “ or, as the case may be, the third condition for disqualification ”;
+- (b)[^c-168801182434397549b3d09d36dec189] after subsection (1), insert—
 
   > (1A) A body corporate entitled, by virtue of section 43 of the Dentists Act 1984 (c. 24), to carry on the business of dentistry is to be treated for the purposes of this group of sections as meeting the second condition for disqualification or, as the case may be, the third condition for disqualification if any director meets that condition (whether or not he first met that condition when he was a director).
 
   ;
-- (c)[^key-93079faade9d06cf0a7978fecc062798][^key-c62fb3ac6b23838aa8217ff50d14f8d8] in subsection (3)—
+- (c)[^c-93079faade9d06cf0a7978fecc062798][^c-c62fb3ac6b23838aa8217ff50d14f8d8] in subsection (3)—
   - (i) in paragraph (a), after the word “providing,” insert “ assisting in providing, ”;
   - (ii) in paragraph (b), after the word “provision,” insert “ assistance in provision, ”;
-- (d)[^key-4cc5021b852f91e1e4885cc3f1430199] in subsection (5), for the words “a fraud case” substitute “ an unsuitability case, a fraud case or an efficiency case ”;
-- (e)[^key-4cc5021b852f91e1e4885cc3f1430199] in subsection (6), after the word “in” insert “ an unsuitability, ”.
+- (d)[^c-4cc5021b852f91e1e4885cc3f1430199] in subsection (5), for the words “a fraud case” substitute “ an unsuitability case, a fraud case or an efficiency case ”;
+- (e)[^c-4cc5021b852f91e1e4885cc3f1430199] in subsection (6), after the word “in” insert “ an unsuitability, ”.
 
 (4) In section 29B (disqualification by Tribunal)—
 
-- (a)[^key-4cc5021b852f91e1e4885cc3f1430199] in subsection (1), after paragraph (b) insert
+- (a)[^c-4cc5021b852f91e1e4885cc3f1430199] in subsection (1), after paragraph (b) insert
 
   > ;
   >
   > - (c) on inquiring into an unsuitability case, that the person meets the third condition for disqualification
 
   ;
-- (b)[^key-9075ffa7dcebb88a84110b7c54b7afdb] for subsection (2), substitute—
+- (b)[^c-9075ffa7dcebb88a84110b7c54b7afdb] for subsection (2), substitute—
 
   > (2) The Tribunal shall disqualify him for inclusion in—
   >
@@ -812,11 +812,11 @@ After section 17X of the 1978 Act (as inserted by section 23 above), insert—
   >   - (ii) that paragraph (cc), all lists within that paragraph (c).
 
   ;
-- (c)[^key-4cc5021b852f91e1e4885cc3f1430199] in subsection (4), for the word “any” substitute “ a ”.
+- (c)[^c-4cc5021b852f91e1e4885cc3f1430199] in subsection (4), for the word “any” substitute “ a ”.
 
 (5) In section 29C (conditional disqualification)—
 
-- (a)[^key-4cc5021b852f91e1e4885cc3f1430199] in subsection (2)—
+- (a)[^c-4cc5021b852f91e1e4885cc3f1430199] in subsection (2)—
   - (i) the word “or” following paragraph (a) is repealed;
   - (ii) after paragraph (b), insert
 
@@ -829,7 +829,7 @@ After section 17X of the 1978 Act (as inserted by section 23 above), insert—
     ;
 - (b) in subsection (5)(aa), for the words “17P” substitute “ 17F, 17P or 17X or this Part ”.
 
-(6)[^key-4cc5021b852f91e1e4885cc3f1430199] In section 32(2) (regulations: inquiry into more than one category of case), for the words “both an efficiency case and a fraud case” substitute “ an efficiency case and a fraud case or an unsuitability case or any other combination of more than one such category of case ”.
+(6)[^c-4cc5021b852f91e1e4885cc3f1430199] In section 32(2) (regulations: inquiry into more than one category of case), for the words “both an efficiency case and a fraud case” substitute “ an efficiency case and a fraud case or an unsuitability case or any other combination of more than one such category of case ”.
 
 (7) In section 32A (interim suspension by the Tribunal)—
 
@@ -843,14 +843,14 @@ After section 17X of the 1978 Act (as inserted by section 23 above), insert—
   ;
 - (b) in subsection (2A)—
   - (i) in paragraph (a), after the words “primary medical services” insert “ , pharmaceutical care services ”;
-  - (ii)[^key-4cc5021b852f91e1e4885cc3f1430199] for paragraph (b), substitute
+  - (ii)[^c-4cc5021b852f91e1e4885cc3f1430199] for paragraph (b), substitute
 
     > or
     >
     > - (b) that it is otherwise in the public interest to do so.
 
     ;
-- (c)[^key-4cc5021b852f91e1e4885cc3f1430199] in subsection (6)(a), for the words from “a list” to “services” substitute—
+- (c)[^c-4cc5021b852f91e1e4885cc3f1430199] in subsection (6)(a), for the words from “a list” to “services” substitute—
 
   > - (i) a list of persons performing;
   > - (ii) a list of persons undertaking to provide and of persons approved to assist in providing,
@@ -858,13 +858,13 @@ After section 17X of the 1978 Act (as inserted by section 23 above), insert—
   > services
 
   ;
-- (d)[^key-cd7dddd733bf9b073805780473335e80] after subsection (6), insert—
+- (d)[^c-cd7dddd733bf9b073805780473335e80] after subsection (6), insert—
 
   > (7) Regulations may provide that where a Health Board, in accordance with regulations made under section 17F, 17P, 17X, 25(2) or 26(2), suspend a person from a list prepared under regulations made under the section in question and the Board apply to the Tribunal for a direction to be made under subsection (2) in relation to the person to whom the suspension applies, the suspension may continue until the Tribunal determine the application.
 
   .
 
-### 27. Corresponding provision in England or Wales or Northern Ireland[^key-5156ab38cebc37dcbdf2fd732ff9bead][^key-9e19e933dbaacfb4d3e8a2a74f89a2e7]
+### 27. Corresponding provision in England or Wales or Northern Ireland[^c-5156ab38cebc37dcbdf2fd732ff9bead][^c-9e19e933dbaacfb4d3e8a2a74f89a2e7]
 
 For section 32D of the 1978 Act (suspension provisions in England and Wales or Northern Ireland), substitute—
 
@@ -884,19 +884,19 @@ For section 32D of the 1978 Act (suspension provisions in England and Wales or N
 
 ### Infection with hepatitis C as a result of NHS treatment etc.
 
-#### 28. Payments to certain persons infected with hepatitis C as a result of NHS treatment etc.[^key-0a1deeaf0aed7f99f3b697ae85d996ea]
+#### 28. Payments to certain persons infected with hepatitis C as a result of NHS treatment etc.[^c-0a1deeaf0aed7f99f3b697ae85d996ea]
 
 (1) The Scottish Ministers may make a scheme for the making of payments by them, or out of money provided by them, to, or in respect of—
 
 - (a) persons who—
-  - (i) before 1st September 1991, were treated anywhere in the United Kingdom under the National Health Service by way of the receipt of blood, tissue or a blood product; and[^key-bb85ed095ccd68c77138c9e48166362a]
-  - (ii) as a result of that treatment, became infected with the hepatitis C virus; [^key-7277b5a64c9267c09c63b9ce00a72c8f]...
-  - (iii)[^key-bf060bb52390d9d997f013451a198eb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) before 1st September 1991, were treated anywhere in the United Kingdom under the National Health Service by way of the receipt of blood, tissue or a blood product; and[^c-bb85ed095ccd68c77138c9e48166362a]
+  - (ii) as a result of that treatment, became infected with the hepatitis C virus; [^c-7277b5a64c9267c09c63b9ce00a72c8f]...
+  - (iii)[^c-bf060bb52390d9d997f013451a198eb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) persons who—
-  - (i) became infected with the hepatitis C virus by transmission of the virus by means specified in the scheme from a person who before 1st September 1991 was treated anywhere in the United Kingdom under the National Health Service by way of the receipt of blood, tissue or a blood product and as a result of that treatment became infected with the hepatitis C virus; and[^key-ee0cf1a8bf608a95047f76e7e7195483]
-  - (ii) were at the time of transmission in a relationship mentioned in subsection (2) with the person from whom the virus was transmitted; [^key-464d82f190c49ac02a1a94e0b2219374]...
-  - (iii)[^key-8cf2ff580f60c6ad1ab9e64b475f91f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-84999f50ccebe40b9fc3c60caea6c3a2] dependants of persons mentioned in paragraph (a) or (b).
+  - (i) became infected with the hepatitis C virus by transmission of the virus by means specified in the scheme from a person who before 1st September 1991 was treated anywhere in the United Kingdom under the National Health Service by way of the receipt of blood, tissue or a blood product and as a result of that treatment became infected with the hepatitis C virus; and[^c-ee0cf1a8bf608a95047f76e7e7195483]
+  - (ii) were at the time of transmission in a relationship mentioned in subsection (2) with the person from whom the virus was transmitted; [^c-464d82f190c49ac02a1a94e0b2219374]...
+  - (iii)[^c-8cf2ff580f60c6ad1ab9e64b475f91f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-84999f50ccebe40b9fc3c60caea6c3a2] dependants of persons mentioned in paragraph (a) or (b).
 
 (2) The relationships referred to in subsection (1)(b)(ii) are—
 
@@ -906,7 +906,7 @@ For section 32D of the 1978 Act (suspension provisions in England and Wales or N
 - (d) where the person from whom the virus was transmitted was a mother, a son or daughter of the mother;
 - (e) such other relationship as the scheme may specify; and the scheme may specify or elaborate the meaning of relationship for this purpose.
 
-(2A)[^key-ec3dd219fdfefcc2d4d21f6624ba1e9e] In subsection (1)(c), “**dependant**”, in relation to a person mentioned in subsection (1)(a) or (b) (the “infected person”), means—
+(2A)[^c-ec3dd219fdfefcc2d4d21f6624ba1e9e] In subsection (1)(c), “**dependant**”, in relation to a person mentioned in subsection (1)(a) or (b) (the “infected person”), means—
 
 - (a) a spouse or civil partner of the infected person;
 - (b) a person living with the infected person as husband or wife or in a relationship which has the characteristics of the relationship between civil partners (or if the infected person was in hospital immediately before death, had been so living when the infected person was admitted to hospital);
@@ -919,16 +919,16 @@ For section 32D of the 1978 Act (suspension provisions in England and Wales or N
   - (ii) a person became infected with the virus by transmission of it by means specified in the scheme from a person who became infected as mentioned in sub-paragraph (i),
 
   are to be determined on the balance of probabilities;
-- (b) provide that a person is not eligible for the making of a payment under the scheme unless, when the claim for the payment is made or, in the case of a claim made in respect of a dead person falling within subsection (1)(a) or (b)[^key-09164128f0df9657cf0c871ae2e25aad], when the person died either—
+- (b) provide that a person is not eligible for the making of a payment under the scheme unless, when the claim for the payment is made or, in the case of a claim made in respect of a dead person falling within subsection (1)(a) or (b)[^c-09164128f0df9657cf0c871ae2e25aad], when the person died either—
   - (i) the person's sole or main residence is or was in Scotland; or
   - (ii) the person's sole or main residence is or was outside the United Kingdom but, immediately before acquiring such sole or main residence, the person's sole or main residence is or was in Scotland;
 - (c) provide for the procedure to be followed in relation to claims under the scheme (including the time within which claims must be made and matters relating to the provision of information) and the determination of such claims;
 - (d) provide for a right of appeal against a decision refusing a claim under the scheme; and
-- (e) provide that a claim may be made in respect of a dead person falling within subsection (1)(a) or (b)[^key-34d9580d7b363cad047e9ce8404d9033], without such a claim having to have been made prior to that person's death.
+- (e) provide that a claim may be made in respect of a dead person falling within subsection (1)(a) or (b)[^c-34d9580d7b363cad047e9ce8404d9033], without such a claim having to have been made prior to that person's death.
 
 (4) Without prejudice to the generality of subsection (1), a scheme under this section may—
 
-- (a) specify conditions for eligibility for the making of a claim by another person under the scheme in respect of a person falling within subsection (1) (a) or (b)[^key-a91eb7ccf0ea844557b822a3946426f5] who has died without having made a claim under the scheme;
+- (a) specify conditions for eligibility for the making of a claim by another person under the scheme in respect of a person falling within subsection (1) (a) or (b)[^c-a91eb7ccf0ea844557b822a3946426f5] who has died without having made a claim under the scheme;
 - (b) specify conditions for eligibility for the making of a payment under the scheme (and may specify different conditions in relation to different payments);
 - (c) provide that the making of a claim, or the receipt of a payment, under the scheme is not to prejudice the right of any person to institute or carry on proceedings in relation to the matter which is the subject of the claim or payment;
 - (d) appoint a person (other than a Minister of the Crown) to manage the scheme on behalf of the Scottish Ministers;
@@ -944,15 +944,15 @@ For section 32D of the 1978 Act (suspension provisions in England and Wales or N
 
 ### Amendment of Regulation of Care (Scotland) Act 2001
 
-#### 29. Independent health care services[^key-9b14c997b3a36557288aa8b66bddcae0]
+#### 29. Independent health care services[^c-9b14c997b3a36557288aa8b66bddcae0]
 
 In section 2(5) of the 2001 Act (meaning of “independent health care service”), after paragraph (d) insert “ , but a service may be excepted from this definition by regulations ”.
 
-#### 30. Implementation of certain decisions under the 2001 Act[^key-7876db82d2ca4ede50712a067407309c]
+#### 30. Implementation of certain decisions under the 2001 Act[^c-7876db82d2ca4ede50712a067407309c]
 
 (1) The 2001 Act is amended as follows.
 
-(2)[^key-14ac51655848323316940df39209b6e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-14ac51655848323316940df39209b6e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 37 (right to make representations to Commission under Part 2 as respects conditions), for subsection (2) substitute—
 
@@ -980,7 +980,7 @@ In section 2(5) of the 2001 Act (meaning of “independent health care service�
 
 (5) In section 51(1) (appeal against decision of Council), for the words from “section” to “proposal” substitute “ subsection (2) of section 50 of this Act of a decision mentioned in that subsection ”.
 
-#### 31. Frequency of inspection of care services under the 2001 Act[^key-38fb3d77b453561192428c88e3c70790]
+#### 31. Frequency of inspection of care services under the 2001 Act[^c-38fb3d77b453561192428c88e3c70790]
 
 (1) The 2001 Act is amended as follows.
 
@@ -997,7 +997,7 @@ In section 2(5) of the 2001 Act (meaning of “independent health care service�
 
 (3) In section 78 (orders and regulations), in subsection (2)(b), after the word “3” insert “ or 25(5A) ”.
 
-#### 32. Provision of information to the Scottish Social Services Council[^key-2f7e4febb84698d3f7170b789bfb07cc]
+#### 32. Provision of information to the Scottish Social Services Council[^c-2f7e4febb84698d3f7170b789bfb07cc]
 
 After section 57 of the 2001 Act, insert—
 
@@ -1075,7 +1075,7 @@ which were not validly made merely by virtue of the condition not having been co
 
 ### Authorisation of medical treatment
 
-#### 35. Amendment of Adults with Incapacity (Scotland) Act 2000: authorisation of medical treatment[^key-326225bf09cb41cc10e29721a0af2dcd]
+#### 35. Amendment of Adults with Incapacity (Scotland) Act 2000: authorisation of medical treatment[^c-326225bf09cb41cc10e29721a0af2dcd]
 
 (1) The Adults with Incapacity (Scotland) Act 2000 (asp 4) is amended as follows.
 
@@ -1167,13 +1167,13 @@ which were not validly made merely by virtue of the condition not having been co
 
 ### Appeals under Public Health (Scotland) Act 1897
 
-#### 36. Amendment of Public Health (Scotland) Act 1897: appeal against certain orders etc.[^key-3b97120e6d852ff6ab8303ab792777ef][^key-4acc95bf8f441157725c601a50717dca]
+#### 36. Amendment of Public Health (Scotland) Act 1897: appeal against certain orders etc.[^c-3b97120e6d852ff6ab8303ab792777ef][^c-4acc95bf8f441157725c601a50717dca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Joint ventures
 
-#### 37. Joint ventures[^key-f892d2bc1ef836f89db7144edf95c290]
+#### 37. Joint ventures[^c-f892d2bc1ef836f89db7144edf95c290]
 
 (1) After section 84A of the 1978 Act, insert—
 
@@ -1219,7 +1219,7 @@ which were not validly made merely by virtue of the condition not having been co
 
 ### Scottish Hospital Endowments Research Trust
 
-#### 38. Scottish Hospital Endowments Research Trust[^key-495b7bf37146f4b3e49f66a4c34166ca]
+#### 38. Scottish Hospital Endowments Research Trust[^c-495b7bf37146f4b3e49f66a4c34166ca]
 
 (1) The 1978 Act is amended as follows.
 
@@ -1344,7 +1344,7 @@ which were not validly made merely by virtue of the condition not having been co
 
 (3) A statutory instrument containing—
 
-- (a) regulations under section 3(3) , 4(2) or (8) or 4D(2)(a) or (4)(a)[^key-93975b1e99d5fcf455e6824fe09b0333] or paragraph 2, 4(1), 5(2), 12 or 13 of schedule 1 or an order under section 9 or 33(4)(e);
+- (a) regulations under section 3(3) , 4(2) or (8) or 4D(2)(a) or (4)(a)[^c-93975b1e99d5fcf455e6824fe09b0333] or paragraph 2, 4(1), 5(2), 12 or 13 of schedule 1 or an order under section 9 or 33(4)(e);
 - (b) an order under section 39 containing provisions which add to, replace or omit any part of the text of an Act,
 
 is not to be made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
@@ -1360,9 +1360,9 @@ In this Act—
 
 ### 42. Minor and consequential amendments and repeals[^c1125501]
 
-(1)[^key-94c48be9cce4d5631075389cd88d4641][^key-852df5c962a22cf127a1f22fb6d0a9a3][^key-a3ae823668cf7d1ed3057cf73219338c][^key-217596df2e52d9852ef5537811fb3cf1] Schedule 2 contains minor amendments and amendments consequential on the provisions of this Act.
+(1)[^c-94c48be9cce4d5631075389cd88d4641][^c-852df5c962a22cf127a1f22fb6d0a9a3][^c-a3ae823668cf7d1ed3057cf73219338c][^c-217596df2e52d9852ef5537811fb3cf1] Schedule 2 contains minor amendments and amendments consequential on the provisions of this Act.
 
-(2)[^key-94c48be9cce4d5631075389cd88d4641][^key-852df5c962a22cf127a1f22fb6d0a9a3][^key-cd8a66001c26ba2ff7ef57fb57296e6a][^key-217596df2e52d9852ef5537811fb3cf1] The enactments specified in column 1 of schedule 3 are repealed to the extent specified in column 2.
+(2)[^c-94c48be9cce4d5631075389cd88d4641][^c-852df5c962a22cf127a1f22fb6d0a9a3][^c-cd8a66001c26ba2ff7ef57fb57296e6a][^c-217596df2e52d9852ef5537811fb3cf1] The enactments specified in column 1 of schedule 3 are repealed to the extent specified in column 2.
 
 ### 43. Short title and commencement
 
@@ -1374,27 +1374,27 @@ In this Act—
 
 (4) Different days may be appointed under subsection (3) for different purposes.
 
-## SCHEDULE 1 — Fixed penalty for offences under sections 1, 2, 3, 4A, 4B and 4C(5)[^key-46746aa942bceb5a03a7f918d70c7b1c]
+## SCHEDULE 1 — Fixed penalty for offences under sections 1, 2, 3, 4A, 4B and 4C(5)[^c-46746aa942bceb5a03a7f918d70c7b1c]
 
 (introduced by section 6)
 
-### 1. Power to give fixed penalty notices[^key-e9e66309bce01e227a4f07352c948438][^key-3af4147feff0d8401149d7591ca5307a]
+### 1. Power to give fixed penalty notices[^c-e9e66309bce01e227a4f07352c948438][^c-3af4147feff0d8401149d7591ca5307a]
 
-(1) An authorised officer of a council may, if having reason to believe that a person is committing or has committed an offence mentioned in sub-paragraph (1A)[^key-a47ca2940dc76adfa457488a6e8fe459], give that person a fixed penalty notice in relation to that offence.
+(1) An authorised officer of a council may, if having reason to believe that a person is committing or has committed an offence mentioned in sub-paragraph (1A)[^c-a47ca2940dc76adfa457488a6e8fe459], give that person a fixed penalty notice in relation to that offence.
 
-(1A)[^key-fee374caf14b88cef0749cab9bb465a0] An offence referred to in sub-paragraph (1) is—
+(1A)[^c-fee374caf14b88cef0749cab9bb465a0] An offence referred to in sub-paragraph (1) is—
 
 - (a) an offence under section 1, 2 or 3 in no-smoking premises within the area of the council,
 - (b) an offence under section 4A or 4B within the no-smoking area outside a hospital building within the area of the council,
 - (c) an offence under section 4C(5) in relation to a hospital building within the area of the council.
 
-(2) A constable may, if having reason to believe that a person is committing or has committed an offence under section 1, 2 , 3, 4A, 4B or 4C(5)[^key-9318e2374f9d5b229e962a18085e3bf4], give that person a fixed penalty notice in relation to that offence.
+(2) A constable may, if having reason to believe that a person is committing or has committed an offence under section 1, 2 , 3, 4A, 4B or 4C(5)[^c-9318e2374f9d5b229e962a18085e3bf4], give that person a fixed penalty notice in relation to that offence.
 
-(3) In this schedule, “**fixed penalty notice**” means a notice offering a person the opportunity of discharging any liability to conviction for an offence under section 1, 2 , 3, 4A, 4B or 4C(5)[^key-721e70884b814b9818737dba2a45f332] by payment of a fixed penalty.
+(3) In this schedule, “**fixed penalty notice**” means a notice offering a person the opportunity of discharging any liability to conviction for an offence under section 1, 2 , 3, 4A, 4B or 4C(5)[^c-721e70884b814b9818737dba2a45f332] by payment of a fixed penalty.
 
-**2.**[^key-a6de2152566e8e316841531f4aa4df39][^key-701c265a4133b9b3d45c3298d457a211][^M_C_204cf100-1823-495d-856f-63ae66604bc4] A fixed penalty notice for an offence under section 1, 2 , 3, 4A, 4B or 4C(5)[^key-860c0dadd22f278887df18e25f662389] may not be given after such time relating to the offence as may be prescribed.
+**2.**[^c-a6de2152566e8e316841531f4aa4df39][^c-701c265a4133b9b3d45c3298d457a211][^M_C_204cf100-1823-495d-856f-63ae66604bc4] A fixed penalty notice for an offence under section 1, 2 , 3, 4A, 4B or 4C(5)[^c-860c0dadd22f278887df18e25f662389] may not be given after such time relating to the offence as may be prescribed.
 
-### 3. Contents of fixed penalty notice[^key-0a91737429131656863ccfcf31f893cd][^key-3af4147feff0d8401149d7591ca5307a]
+### 3. Contents of fixed penalty notice[^c-0a91737429131656863ccfcf31f893cd][^c-3af4147feff0d8401149d7591ca5307a]
 
 (1) A fixed penalty notice must identify the offence to which it relates and give reasonable particulars of the circumstances alleged to constitute that offence.
 
@@ -1411,21 +1411,21 @@ In this Act—
 
 ### 4. The amount of the penalty and the period for payment
 
-(1)[^key-e8630d2eb13940ac14207d23cb39c2fd][^key-de2f04f63d778582ba8c5800d4af4293] The fixed penalty for an offence under section 1, 2 , 3, 4A, 4B or 4C(5)[^key-ed6b68c1fe3eb0a732635945dbaa2957] is (subject to paragraph 5) such amount as may be prescribed.
+(1)[^c-e8630d2eb13940ac14207d23cb39c2fd][^c-de2f04f63d778582ba8c5800d4af4293] The fixed penalty for an offence under section 1, 2 , 3, 4A, 4B or 4C(5)[^c-ed6b68c1fe3eb0a732635945dbaa2957] is (subject to paragraph 5) such amount as may be prescribed.
 
-(2)[^key-dcd76b29b67b058fc1274754376fe58c][^key-3ce1711543d5c453c70325cf65bfb36e] The period for payment of the fixed penalty is the period of 29 days beginning with the day on which the notice is given.
+(2)[^c-dcd76b29b67b058fc1274754376fe58c][^c-3ce1711543d5c453c70325cf65bfb36e] The period for payment of the fixed penalty is the period of 29 days beginning with the day on which the notice is given.
 
-(3)[^key-dcd76b29b67b058fc1274754376fe58c][^key-3ce1711543d5c453c70325cf65bfb36e] The council may extend the period for paying the fixed penalty in any particular case if it considers it appropriate to do so.
+(3)[^c-dcd76b29b67b058fc1274754376fe58c][^c-3ce1711543d5c453c70325cf65bfb36e] The council may extend the period for paying the fixed penalty in any particular case if it considers it appropriate to do so.
 
 ### 5. The discounted amount
 
-(1)[^key-3e93f3c7cce8343d219eb745002417e9][^key-2893f5eac92ad22c0ae6e5dea019e28a] A discounted amount is payable instead of the amount prescribed under paragraph 4(1) if payment is made before the end of the period of 15 days beginning with the day on which the notice is given.
+(1)[^c-3e93f3c7cce8343d219eb745002417e9][^c-2893f5eac92ad22c0ae6e5dea019e28a] A discounted amount is payable instead of the amount prescribed under paragraph 4(1) if payment is made before the end of the period of 15 days beginning with the day on which the notice is given.
 
-(2)[^key-22e603c08e7ba67a0fe36e6eb89b5eba][^key-03edcff65f75f046019da4d5fef44b88] The discounted amount for a fixed penalty offence is such amount as may be prescribed.
+(2)[^c-22e603c08e7ba67a0fe36e6eb89b5eba][^c-03edcff65f75f046019da4d5fef44b88] The discounted amount for a fixed penalty offence is such amount as may be prescribed.
 
-(3)[^key-3e93f3c7cce8343d219eb745002417e9][^key-2893f5eac92ad22c0ae6e5dea019e28a] If the last day of the period specified in sub-paragraph (1) does not fall on a working day, the period for payment of the discounted amount is extended until the end of the next working day.
+(3)[^c-3e93f3c7cce8343d219eb745002417e9][^c-2893f5eac92ad22c0ae6e5dea019e28a] If the last day of the period specified in sub-paragraph (1) does not fall on a working day, the period for payment of the discounted amount is extended until the end of the next working day.
 
-### 6. Effect of notice and payment of penalty[^key-82da394213fa2750b506689343f277a6][^key-c5d71fcde7bd24826beab765792b3857]
+### 6. Effect of notice and payment of penalty[^c-82da394213fa2750b506689343f277a6][^c-c5d71fcde7bd24826beab765792b3857]
 
 (1) This paragraph applies where a person is served with a fixed penalty notice in respect of a fixed penalty offence.
 
@@ -1442,7 +1442,7 @@ In this Act—
 
 is sufficient evidence of the facts stated.
 
-### 7. Request for hearing[^key-29bb0be2c6e6ab5e33e4db65ed69254f][^key-c5d71fcde7bd24826beab765792b3857]
+### 7. Request for hearing[^c-29bb0be2c6e6ab5e33e4db65ed69254f][^c-c5d71fcde7bd24826beab765792b3857]
 
 (1) A person to whom a fixed penalty notice has been given may, before the expiry of the period for payment of the penalty, give notice requesting a hearing in respect of the offence to which the fixed penalty notice relates.
 
@@ -1456,7 +1456,7 @@ is sufficient evidence of the facts stated.
 - (b) a person authorised for the purpose by the council of the area in which the offence was committed must notify the procurator fiscal of the request; and
 - (c) the period for payment of the fixed penalty must be calculated so that the period beginning with the giving of the notice under this paragraph and ending with the receipt by the person who gave that notice of the decision reached at the hearing is left out of account.
 
-### 8. Power to withdraw notices[^key-3e84e642c65d4d64e6b589872485365e][^key-c5d71fcde7bd24826beab765792b3857]
+### 8. Power to withdraw notices[^c-3e84e642c65d4d64e6b589872485365e][^c-c5d71fcde7bd24826beab765792b3857]
 
 (1) If the council considers (whether after holding a hearing under paragraph 7 or not) that a fixed penalty notice which has been given ought not to have been given, it may give to the person to whom it was given a notice withdrawing the fixed penalty notice.
 
@@ -1467,15 +1467,15 @@ is sufficient evidence of the facts stated.
 
 (3) The council must consider any representations made by or on behalf of the recipient of a fixed penalty notice and decide in all the circumstances whether to withdraw the notice.
 
-### 9. Effect of prosecution on notice[^key-93e5c340636382a645637af4de817071][^key-c5d71fcde7bd24826beab765792b3857]
+### 9. Effect of prosecution on notice[^c-93e5c340636382a645637af4de817071][^c-c5d71fcde7bd24826beab765792b3857]
 
 Where proceedings for an offence in respect of which a fixed penalty notice has been given are commenced, the notice is to be treated as withdrawn.
 
-### 10. Recovery of unpaid fixed penalties[^key-06817a4ca8ad9bac781ef1dc98ef12a7][^key-c5d71fcde7bd24826beab765792b3857]
+### 10. Recovery of unpaid fixed penalties[^c-06817a4ca8ad9bac781ef1dc98ef12a7][^c-c5d71fcde7bd24826beab765792b3857]
 
 Subject to paragraphs 8 and 9, where a fixed penalty remains unpaid after the expiry of the period for payment of the penalty it is enforceable in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff for any sheriffdom.
 
-### 11. Judicial determination of enforcement of fixed penalty[^key-3c48eafd4362be2f1ff22c149fc72c6f][^key-c5d71fcde7bd24826beab765792b3857]
+### 11. Judicial determination of enforcement of fixed penalty[^c-3c48eafd4362be2f1ff22c149fc72c6f][^c-c5d71fcde7bd24826beab765792b3857]
 
 (1) A person against whom a fixed penalty bears to be enforceable under paragraph 10 may apply to the sheriff by summary application for a declaration that the fixed penalty is not enforceable on the ground that—
 
@@ -1490,14 +1490,14 @@ Subject to paragraphs 8 and 9, where a fixed penalty remains unpaid after the ex
 
 accordingly, that the fixed penalty is or, as the case may be, is not enforceable.
 
-### 12. General and supplementary[^key-50a479ff5b3beea2db9ca61a5d7c8bf4][^key-372684b6091b66aecaca249ed6827a4b]
+### 12. General and supplementary[^c-50a479ff5b3beea2db9ca61a5d7c8bf4][^c-372684b6091b66aecaca249ed6827a4b]
 
 The Scottish Ministers may make regulations about—
 
 - (a) the application by councils of fixed penalties paid under this schedule;
 - (b) the keeping of accounts, and the preparation and publication of statements of account, relating to fixed penalties under this schedule.
 
-**13.**[^key-71a8df37ee51a09a78b5a3efc6abf8de] (1) Fixed penalty notices may not be given in such circumstances as may be prescribed.
+**13.**[^c-71a8df37ee51a09a78b5a3efc6abf8de] (1) Fixed penalty notices may not be given in such circumstances as may be prescribed.
 
 (2) The method or methods by which fixed penalties may be paid may be prescribed.
 
@@ -1507,17 +1507,17 @@ The Scottish Ministers may make regulations about—
 
 (introduced by section 42(1))
 
-### 1. Public Health (Scotland) Act 1897 (c. 38)[^key-5cc66de089c8b6a15c81bb73a4e21c05][^key-edc21ad5692359754992aa41d3f8f9e1]
+### 1. Public Health (Scotland) Act 1897 (c. 38)[^c-5cc66de089c8b6a15c81bb73a4e21c05][^c-edc21ad5692359754992aa41d3f8f9e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. National Health Service (Scotland) Act 1978 (c. 29)[^c1125936]
 
-(1)[^key-871b6ba4193f88b81d7206c46a1e940d] The 1978 Act is amended as follows.
+(1)[^c-871b6ba4193f88b81d7206c46a1e940d] The 1978 Act is amended as follows.
 
 (2) In section 2(1) (Health Boards and Special Health Boards), in each of paragraphs (a) and (b), for the words “under this Act” substitute “ relating to the health service ”.
 
-(3)[^key-77da97569038a9469a2af6a5e6206b80] In section 4 (Scottish Dental Practice Board)—
+(3)[^c-77da97569038a9469a2af6a5e6206b80] In section 4 (Scottish Dental Practice Board)—
 
 - (a) in subsection (1A)—
   - (i) in paragraph (a), for the words from the second “to” to “he” substitute “ or body corporate entitled, by virtue of section 43 of the Dentists Act 1984 (c. 24), to carry on the business of dentistry to submit to the Board, in relation to treatment which he, or as the case may be, it ”;
@@ -1526,7 +1526,7 @@ The Scottish Ministers may make regulations about—
 
 (4) In section 10(3) (Common Services Agency), for the words “under this Act” substitute “ relating to the health service ”.
 
-(5)[^key-db4f5c6e5efb1a5abc74812ccad190e1] In section 17AA(3) (meaning of “ophthalmic list” for purpose of section), in the definition of “ophthalmic list”—
+(5)[^c-db4f5c6e5efb1a5abc74812ccad190e1] In section 17AA(3) (meaning of “ophthalmic list” for purpose of section), in the definition of “ophthalmic list”—
 
 - (a) for the words from “a list” to the end of paragraph (a) substitute
 
@@ -1563,17 +1563,17 @@ The Scottish Ministers may make regulations about—
   ;
 - (b) in the definition of “Part II services”, for the words “general dental services, general ophthalmic services or pharmaceutical services” substitute “ general dental services or general ophthalmic services ”.
 
-(10)[^key-db4f5c6e5efb1a5abc74812ccad190e1] In section 29(8A) (meaning of health care professional in section 29(8)(a)), for the words “17D” substitute “ 17P ”.
+(10)[^c-db4f5c6e5efb1a5abc74812ccad190e1] In section 29(8A) (meaning of health care professional in section 29(8)(a)), for the words “17D” substitute “ 17P ”.
 
-(11)[^key-db4f5c6e5efb1a5abc74812ccad190e1] In section 30(1) (review etc. of disqualification), for the words “any disqualification, conditional disqualification or declaration of unfitness” substitute “ a disqualification or conditional disqualification ”.
+(11)[^c-db4f5c6e5efb1a5abc74812ccad190e1] In section 30(1) (review etc. of disqualification), for the words “any disqualification, conditional disqualification or declaration of unfitness” substitute “ a disqualification or conditional disqualification ”.
 
-(12)[^key-db4f5c6e5efb1a5abc74812ccad190e1] In section 32(1)(a) (regulations as to sections 29 and 31), for the words “31” substitute “ 30 ”.
+(12)[^c-db4f5c6e5efb1a5abc74812ccad190e1] In section 32(1)(a) (regulations as to sections 29 and 31), for the words “31” substitute “ 30 ”.
 
-(13)[^key-db4f5c6e5efb1a5abc74812ccad190e1] In section 32A(3) (interim suspension), after paragraph (a) insert “ and ”.
+(13)[^c-db4f5c6e5efb1a5abc74812ccad190e1] In section 32A(3) (interim suspension), after paragraph (a) insert “ and ”.
 
-(14)[^key-db4f5c6e5efb1a5abc74812ccad190e1] In section 32E(1) (payments in consequence of suspension), for the words “32D(2)” substitute “ 32D(3) ”.
+(14)[^c-db4f5c6e5efb1a5abc74812ccad190e1] In section 32E(1) (payments in consequence of suspension), for the words “32D(2)” substitute “ 32D(3) ”.
 
-(15)[^key-017730e7fa1b327bcfa96aa24a784f9b] In section 33 (powers of Scottish Ministers where services are inadequate), for the words from “any list” to the end of paragraph (d) substitute
+(15)[^c-017730e7fa1b327bcfa96aa24a784f9b] In section 33 (powers of Scottish Ministers where services are inadequate), for the words from “any list” to the end of paragraph (d) substitute
 
 > —
 >
@@ -1582,7 +1582,7 @@ The Scottish Ministers may make regulations about—
 
 .
 
-(16)[^key-77da97569038a9469a2af6a5e6206b80] In section 64(5) (permission for use of facilities in private practice), in paragraph (b), after the word “provide” insert “ dental, ”.
+(16)[^c-77da97569038a9469a2af6a5e6206b80] In section 64(5) (permission for use of facilities in private practice), in paragraph (b), after the word “provide” insert “ dental, ”.
 
 (17) In section 85AA (means of meeting expenditure of Health Boards out of public funds)—
 
@@ -1612,7 +1612,7 @@ The Scottish Ministers may make regulations about—
     > “**Drug Tariff**” means the Drug Tariff required to be prepared, maintained and published by the Scottish Ministers under section 17W of this Act;
 
     ;
-  - (ii)[^key-e912461f96e914b87e2147591f627b65] after the definition of “general medical services contract”, insert—
+  - (ii)[^c-e912461f96e914b87e2147591f627b65] after the definition of “general medical services contract”, insert—
 
     > “**general ophthalmic services**” is to be construed in accordance with section 26(1F);
 
@@ -1624,18 +1624,18 @@ The Scottish Ministers may make regulations about—
     > “**pharmaceutical care services contract**” has the meaning given by section 17Q(2);
 
     ;
-  - (iv)[^key-502f32584976d5f451f7eb7e759a7951] for the definition of “the Research Trust”, substitute—
+  - (iv)[^c-502f32584976d5f451f7eb7e759a7951] for the definition of “the Research Trust”, substitute—
 
     > “**the Research Trust**” means the Scottish Hospital Endowments Research Trust constituted under subsection (1) of section 12 of this Act (before the repeal of that subsection by section 38(2)(a) of the Smoking, Health and Social Care (Scotland) Act 2005 (asp 13);
 
     ;
-- (b)[^key-77da97569038a9469a2af6a5e6206b80] after that subsection, insert—
+- (b)[^c-77da97569038a9469a2af6a5e6206b80] after that subsection, insert—
 
   > (1A) References in this Act to “carrying on the business of dentistry” are to be construed in accordance with section 40 of the Dentists Act 1984 (c. 24).
 
   .
 
-(20)[^key-db4f5c6e5efb1a5abc74812ccad190e1] In Schedule 8, in paragraph 8(2)(b), for the words “disqualification, conditional disqualification or declaration of unfitness” substitute “ disqualification or conditional disqualification ”.
+(20)[^c-db4f5c6e5efb1a5abc74812ccad190e1] In Schedule 8, in paragraph 8(2)(b), for the words “disqualification, conditional disqualification or declaration of unfitness” substitute “ disqualification or conditional disqualification ”.
 
 ### 3. Health and Medicines Act 1988 (c. 49)
 
@@ -1654,7 +1654,7 @@ In section 17 of the Health and Medicines Act 1988—
 
     ;
 - (b) in subsection (2)(a)(ii), for the words from “or,” to the end substitute “ or, with any requirements placed on him by regulations made under section 17F, 17P, 17X, 25(2) or, as the case may be, 26(2) of the 1978 Act ”;
-- (c)[^key-c6ae548f3dda520c8995bc9e70329f35] in subsection (2)(b)—
+- (c)[^c-c6ae548f3dda520c8995bc9e70329f35] in subsection (2)(b)—
   - (i) after the words “dental practitioner” insert “ or body corporate entitled, by virtue of section 43 of the Dentists Act 1984 (c. 24), to carry on the business of dentistry ”;
   - (ii) after the word “his” insert “ or its ”.
 
@@ -1712,7 +1712,7 @@ In section 115 of the Police Act 1997 (enhanced criminal record certificates)—
 
 In paragraph 14 of schedule 4 to the Scottish Public Services Ombudsman Act 2002, for the words “17P, 25(2), 26(2) or 27(2)” substitute “ 17F, 17P, 17X, 25(2) or 26(2) ”.
 
-## SCHEDULE 3 — Repeals[^key-56aaac85f3254685157b58482a187bae][^key-d7fb40f98327dc3aec294dcca0666acb][^key-7dd6986e3529752506f66de8a5d8a591][^key-160e2616aeeae93c330932578bae6e98][^key-ce2dd881fdea2be3866bcc0d88b70728]
+## SCHEDULE 3 — Repeals[^c-56aaac85f3254685157b58482a187bae][^c-d7fb40f98327dc3aec294dcca0666acb][^c-7dd6986e3529752506f66de8a5d8a591][^c-160e2616aeeae93c330932578bae6e98][^c-ce2dd881fdea2be3866bcc0d88b70728]
 
 (introduced by section 42(2))
 
@@ -1737,268 +1737,268 @@ In paragraph 14 of schedule 4 to the Scottish Public Services Ombudsman Act 2002
 
 ## Annotations
 
-[^key-4b9f6d04b4faea3625bd35e2d495c5cf]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2005/13/section/1) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-4b9f6d04b4faea3625bd35e2d495c5cf]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2005/13/section/1) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-6992248b161ec76f435c8e34f0ae9bfa]: Modification: [S. 1](https://www.legislation.gov.uk/asp/2005/13/section/1) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-6992248b161ec76f435c8e34f0ae9bfa]: Modification: [S. 1](https://www.legislation.gov.uk/asp/2005/13/section/1) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-09ad59fb8d040db4b1a86421ec3d6dc2]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2005/13/section/2) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-09ad59fb8d040db4b1a86421ec3d6dc2]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2005/13/section/2) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-da46bc49a71ba99057a8967f45413595]: Modification: [S. 2](https://www.legislation.gov.uk/asp/2005/13/section/2) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-da46bc49a71ba99057a8967f45413595]: Modification: [S. 2](https://www.legislation.gov.uk/asp/2005/13/section/2) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-535559bc1b546da4971c7f6b8660b81c]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/asp/2005/13/section/3/1)[(2)](https://www.legislation.gov.uk/asp/2005/13/section/3/2)[(4)](https://www.legislation.gov.uk/asp/2005/13/section/3/4) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-535559bc1b546da4971c7f6b8660b81c]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/asp/2005/13/section/3/1)[(2)](https://www.legislation.gov.uk/asp/2005/13/section/3/2)[(4)](https://www.legislation.gov.uk/asp/2005/13/section/3/4) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-b1dc076ea0c35366c17dc034b8125ab8]: Modification: [S. 3(1)](https://www.legislation.gov.uk/asp/2005/13/section/3/1) modified (26.3.2006) by [Prohibition of Smoking in Certain Premises (Scotland) Regulations 2006 (S.S.I. 2006/90)](https://www.legislation.gov.uk/ssi/2006/90), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2006/90/regulation/1/4), [2](https://www.legislation.gov.uk/ssi/2006/90/regulation/2)
+[^c-b1dc076ea0c35366c17dc034b8125ab8]: Modification: [S. 3(1)](https://www.legislation.gov.uk/asp/2005/13/section/3/1) modified (26.3.2006) by [Prohibition of Smoking in Certain Premises (Scotland) Regulations 2006 (S.S.I. 2006/90)](https://www.legislation.gov.uk/ssi/2006/90), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2006/90/regulation/1/4), [2](https://www.legislation.gov.uk/ssi/2006/90/regulation/2)
 
-[^key-103c8448bca5b07ea1ca6ca4aaf66c31]: Modification: [S. 3(1)](https://www.legislation.gov.uk/asp/2005/13/section/3/1)[(2)](https://www.legislation.gov.uk/asp/2005/13/section/3/2)[(4)](https://www.legislation.gov.uk/asp/2005/13/section/3/4) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-103c8448bca5b07ea1ca6ca4aaf66c31]: Modification: [S. 3(1)](https://www.legislation.gov.uk/asp/2005/13/section/3/1)[(2)](https://www.legislation.gov.uk/asp/2005/13/section/3/2)[(4)](https://www.legislation.gov.uk/asp/2005/13/section/3/4) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-da4706555ba2db2777b9f6ffe45fd9cf]: Commencement: [S. 3(3)](https://www.legislation.gov.uk/asp/2005/13/section/3/3) in force at 1.11.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+[^c-da4706555ba2db2777b9f6ffe45fd9cf]: Commencement: [S. 3(3)](https://www.legislation.gov.uk/asp/2005/13/section/3/3) in force at 1.11.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
 
-[^key-6df70a0c3561ae968a2c422ad2758244]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/asp/2005/13/section/4/1)[(4)](https://www.legislation.gov.uk/asp/2005/13/section/4/4)[(5)](https://www.legislation.gov.uk/asp/2005/13/section/4/5) in force at 7.2.2006 by [S.S.I. 2006/47](https://www.legislation.gov.uk/ssi/2006/47), [art. 2](https://www.legislation.gov.uk/ssi/2006/47/article/2)
+[^c-6df70a0c3561ae968a2c422ad2758244]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/asp/2005/13/section/4/1)[(4)](https://www.legislation.gov.uk/asp/2005/13/section/4/4)[(5)](https://www.legislation.gov.uk/asp/2005/13/section/4/5) in force at 7.2.2006 by [S.S.I. 2006/47](https://www.legislation.gov.uk/ssi/2006/47), [art. 2](https://www.legislation.gov.uk/ssi/2006/47/article/2)
 
-[^key-604b4e3511f6c79c00d9cf6e1f379be1]: Modification: [S. 4(1)](https://www.legislation.gov.uk/asp/2005/13/section/4/1) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-604b4e3511f6c79c00d9cf6e1f379be1]: Modification: [S. 4(1)](https://www.legislation.gov.uk/asp/2005/13/section/4/1) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-be702efcdadd355c7f373827b93fd2da]: Commencement: [S. 4(2)](https://www.legislation.gov.uk/asp/2005/13/section/4/2)[(3)](https://www.legislation.gov.uk/asp/2005/13/section/4/3)[(7)](https://www.legislation.gov.uk/asp/2005/13/section/4/7) in force at 1.11.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+[^c-be702efcdadd355c7f373827b93fd2da]: Commencement: [S. 4(2)](https://www.legislation.gov.uk/asp/2005/13/section/4/2)[(3)](https://www.legislation.gov.uk/asp/2005/13/section/4/3)[(7)](https://www.legislation.gov.uk/asp/2005/13/section/4/7) in force at 1.11.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
 
-[^key-8302601fbc0de4f9a03d7a61f9c2bd45]: Commencement: [S. 4(6)](https://www.legislation.gov.uk/asp/2005/13/section/4/6)[(8)](https://www.legislation.gov.uk/asp/2005/13/section/4/8)[(9)](https://www.legislation.gov.uk/asp/2005/13/section/4/9) in force at 16.12.2005 by [S.S.I. 2005/642](https://www.legislation.gov.uk/ssi/2005/642), [art. 2](https://www.legislation.gov.uk/ssi/2005/642/article/2)
+[^c-8302601fbc0de4f9a03d7a61f9c2bd45]: Commencement: [S. 4(6)](https://www.legislation.gov.uk/asp/2005/13/section/4/6)[(8)](https://www.legislation.gov.uk/asp/2005/13/section/4/8)[(9)](https://www.legislation.gov.uk/asp/2005/13/section/4/9) in force at 16.12.2005 by [S.S.I. 2005/642](https://www.legislation.gov.uk/ssi/2005/642), [art. 2](https://www.legislation.gov.uk/ssi/2005/642/article/2)
 
-[^key-900c278377db543ed5fdfafb759e3174]: Textual amendment: [Ss. 4A-4D](https://www.legislation.gov.uk/asp/2005/13/section/4A) inserted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(2)](https://www.legislation.gov.uk/asp/2016/14/section/20/2), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-900c278377db543ed5fdfafb759e3174]: Textual amendment: [Ss. 4A-4D](https://www.legislation.gov.uk/asp/2005/13/section/4A) inserted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(2)](https://www.legislation.gov.uk/asp/2016/14/section/20/2), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-c7e5bf905dea20920ec5cdfc1dee3f80]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2005/13/section/5) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-c7e5bf905dea20920ec5cdfc1dee3f80]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2005/13/section/5) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-b3e6886d923df2d9e5d303b12dfa51ea]: Modification: [S. 5](https://www.legislation.gov.uk/asp/2005/13/section/5) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-b3e6886d923df2d9e5d303b12dfa51ea]: Modification: [S. 5](https://www.legislation.gov.uk/asp/2005/13/section/5) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-20938002eab0c05d342fc0af11adc1f7]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2005/13/section/5) title substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(4)](https://www.legislation.gov.uk/asp/2016/14/section/20/4), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-20938002eab0c05d342fc0af11adc1f7]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2005/13/section/5) title substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(4)](https://www.legislation.gov.uk/asp/2016/14/section/20/4), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-77232033dedce0fbaa4fd673bd44d31e]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/asp/2005/13/section/5/1) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(3)](https://www.legislation.gov.uk/asp/2016/14/section/20/3), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-77232033dedce0fbaa4fd673bd44d31e]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/asp/2005/13/section/5/1) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(3)](https://www.legislation.gov.uk/asp/2016/14/section/20/3), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-a483a945679e277a201176a5ad0a798e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2005/13/section/6) in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+[^c-a483a945679e277a201176a5ad0a798e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2005/13/section/6) in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
 
-[^key-97a87650673f4bc26ca7478049efcae7]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2005/13/section/6) in force at 26.3.2006 at 0600 hours in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-97a87650673f4bc26ca7478049efcae7]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2005/13/section/6) in force at 26.3.2006 at 0600 hours in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-2a7b9963693dfbf55ceb29c1ed241c35]: Modification: [S. 6](https://www.legislation.gov.uk/asp/2005/13/section/6) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-2a7b9963693dfbf55ceb29c1ed241c35]: Modification: [S. 6](https://www.legislation.gov.uk/asp/2005/13/section/6) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-b4ef95107140a0714a089db0150dc074]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/asp/2005/13/section/6/2) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(5)](https://www.legislation.gov.uk/asp/2016/14/section/20/5), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-b4ef95107140a0714a089db0150dc074]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/asp/2005/13/section/6/2) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(5)](https://www.legislation.gov.uk/asp/2016/14/section/20/5), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-277a12e09736018060543cf7a87652c5]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2005/13/section/7) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-277a12e09736018060543cf7a87652c5]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2005/13/section/7) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-83afe44eb759e35878a0bab64999175e]: Modification: [S. 7](https://www.legislation.gov.uk/asp/2005/13/section/7) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-83afe44eb759e35878a0bab64999175e]: Modification: [S. 7](https://www.legislation.gov.uk/asp/2005/13/section/7) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-54ddeed62e82a2a5272b64466d5e762e]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/asp/2005/13/section/7/1A) inserted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(6)(a)](https://www.legislation.gov.uk/asp/2016/14/section/20/6/a), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-54ddeed62e82a2a5272b64466d5e762e]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/asp/2005/13/section/7/1A) inserted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(6)(a)](https://www.legislation.gov.uk/asp/2016/14/section/20/6/a), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-eaa48359777a85c7da9ebc3fe74adcdc]: Textual amendment: Words in [s. 7(3)(a)(i)](https://www.legislation.gov.uk/asp/2005/13/section/7/3/a/i) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(6)(b)](https://www.legislation.gov.uk/asp/2016/14/section/20/6/b), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-eaa48359777a85c7da9ebc3fe74adcdc]: Textual amendment: Words in [s. 7(3)(a)(i)](https://www.legislation.gov.uk/asp/2005/13/section/7/3/a/i) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(6)(b)](https://www.legislation.gov.uk/asp/2016/14/section/20/6/b), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-a01192cda5136f42cf9d132636db7f7c]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/asp/2005/13/section/7/5) in definition renumbered (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(6)(c)(i)](https://www.legislation.gov.uk/asp/2016/14/section/20/6/c/i), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-a01192cda5136f42cf9d132636db7f7c]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/asp/2005/13/section/7/5) in definition renumbered (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(6)(c)(i)](https://www.legislation.gov.uk/asp/2016/14/section/20/6/c/i), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-bdc410b0d32c0f38eb3b3fdc48eebe0f]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/asp/2005/13/section/7/5) inserted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(6)(c)(ii)](https://www.legislation.gov.uk/asp/2016/14/section/20/6/c/ii), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-bdc410b0d32c0f38eb3b3fdc48eebe0f]: Textual amendment: Words in [s. 7(5)](https://www.legislation.gov.uk/asp/2005/13/section/7/5) inserted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(6)(c)(ii)](https://www.legislation.gov.uk/asp/2016/14/section/20/6/c/ii), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-246800ca05d273547726cf06b0de1af1]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2005/13/section/8) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-246800ca05d273547726cf06b0de1af1]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2005/13/section/8) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-b3b4de090d9184cb9d46b0e715eba488]: Modification: [S. 8](https://www.legislation.gov.uk/asp/2005/13/section/8) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-b3b4de090d9184cb9d46b0e715eba488]: Modification: [S. 8](https://www.legislation.gov.uk/asp/2005/13/section/8) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-97541f4aae9c5bdc17789ed99999326e]: Textual amendment: [S. 9](https://www.legislation.gov.uk/asp/2005/13/section/9) repealed (1.4.2011) by [Tobacco and Primary Medical Services (Scotland) Act 2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), [s. 43(2)](https://www.legislation.gov.uk/asp/2010/3/section/43/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2010/3/schedule/2/paragraph/5); S.I. 2010/77, art. 2; S.I. 2010/345, art. 2, Sch.
+[^c-97541f4aae9c5bdc17789ed99999326e]: Textual amendment: [S. 9](https://www.legislation.gov.uk/asp/2005/13/section/9) repealed (1.4.2011) by [Tobacco and Primary Medical Services (Scotland) Act 2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), [s. 43(2)](https://www.legislation.gov.uk/asp/2010/3/section/43/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2010/3/schedule/2/paragraph/5); S.I. 2010/77, art. 2; S.I. 2010/345, art. 2, Sch.
 
-[^key-9125836a161634449ca1eb9381252b77]: Commencement: S. 9 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-9125836a161634449ca1eb9381252b77]: Commencement: S. 9 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-b0ba8121fb86b596303ed1016586db13]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2005/13/section/10) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-b0ba8121fb86b596303ed1016586db13]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2005/13/section/10) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-eeaa1095d39dd562883956462fea65a3]: Modification: [S. 10](https://www.legislation.gov.uk/asp/2005/13/section/10) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-eeaa1095d39dd562883956462fea65a3]: Modification: [S. 10](https://www.legislation.gov.uk/asp/2005/13/section/10) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-f8213ee2ec4d8d8e2797eb9bf50c9835]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2005/13/section/11) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-f8213ee2ec4d8d8e2797eb9bf50c9835]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2005/13/section/11) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
-[^key-1cf152711cbb79c95571c2162ed86a55]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2005/13/section/12) in force at 7.3.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/121/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/121/schedule/1)
+[^c-1cf152711cbb79c95571c2162ed86a55]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2005/13/section/12) in force at 7.3.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/121/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/121/schedule/1)
 
-[^key-d3b042336dfea0ec4fd85758bddcd70f]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2005/13/section/12) in force at 1.4.2006 in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(e)](https://www.legislation.gov.uk/ssi/2005/492/article/3/e), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/492/schedule/3)
+[^c-d3b042336dfea0ec4fd85758bddcd70f]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2005/13/section/12) in force at 1.4.2006 in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(e)](https://www.legislation.gov.uk/ssi/2005/492/article/3/e), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/492/schedule/3)
 
-[^key-4a698fcaaddb6b44b82baf0f07696b51]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2005/13/section/13) in force at 7.3.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/121/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/121/schedule/1)
+[^c-4a698fcaaddb6b44b82baf0f07696b51]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2005/13/section/13) in force at 7.3.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/121/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/121/schedule/1)
 
-[^key-f25a7eff78008270bc2fe1ab00bff18b]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2005/13/section/13) in force at 1.4.2006 in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(e)](https://www.legislation.gov.uk/ssi/2005/492/article/3/e), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/492/schedule/3)
+[^c-f25a7eff78008270bc2fe1ab00bff18b]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2005/13/section/13) in force at 1.4.2006 in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(e)](https://www.legislation.gov.uk/ssi/2005/492/article/3/e), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/492/schedule/3)
 
-[^key-6d21ff0c2c6af5f9fbb0109715fd4097]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2005/13/section/15) in force at 20.5.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/185/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2010/185/schedule/1)
+[^c-6d21ff0c2c6af5f9fbb0109715fd4097]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2005/13/section/15) in force at 20.5.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/185/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2010/185/schedule/1)
 
-[^key-09d467e00b55f47263fe8a02d8c0fa42]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2005/13/section/15) in force at 2.7.2010 in so far as not already in force by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+[^c-09d467e00b55f47263fe8a02d8c0fa42]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2005/13/section/15) in force at 2.7.2010 in so far as not already in force by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
 
-[^key-7ae7f9832f8807068ea9240878139362]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2005/13/section/16) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-7ae7f9832f8807068ea9240878139362]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2005/13/section/16) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
-[^key-4bf0b3f0b23bc4b7807fb6329b6644b1]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2005/13/section/17) in force at 20.5.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/185/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2010/185/schedule/1)
+[^c-4bf0b3f0b23bc4b7807fb6329b6644b1]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2005/13/section/17) in force at 20.5.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(a)](https://www.legislation.gov.uk/ssi/2010/185/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2010/185/schedule/1)
 
-[^key-668b9b4da52fd2142e49733dc9bd8b63]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2005/13/section/17) in force at 20.7.2010 in so far as not already in force by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+[^c-668b9b4da52fd2142e49733dc9bd8b63]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2005/13/section/17) in force at 20.7.2010 in so far as not already in force by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
 
-[^key-7ef29a3798327cdac21d0ee6084f2ed0]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2005/13/section/19) in force at 7.3.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/121/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/121/schedule/1)
+[^c-7ef29a3798327cdac21d0ee6084f2ed0]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2005/13/section/19) in force at 7.3.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/121/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/121/schedule/1)
 
-[^key-8ad3934fe9b55a3fad866a99e9bfb384]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2005/13/section/19) in force at 1.4.2006 in so far as not already in force by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-8ad3934fe9b55a3fad866a99e9bfb384]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2005/13/section/19) in force at 1.4.2006 in so far as not already in force by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-62cb4f03bab4169f878ab8dcb5e690f4]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2005/13/section/26) in force at 7.3.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/121/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/121/schedule/1)
+[^c-62cb4f03bab4169f878ab8dcb5e690f4]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2005/13/section/26) in force at 7.3.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/121/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/121/schedule/1)
 
-[^key-4cc5021b852f91e1e4885cc3f1430199]: Commencement: [S. 26(1)](https://www.legislation.gov.uk/asp/2005/13/section/26/1)[(2)(a)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/a)[(2)(b)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/b)[(2)(c)(i)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/c/i)[(2)(d)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/d)[(2)(e)(i)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/e/i)[(2)(f)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/f)[(3)(a)](https://www.legislation.gov.uk/asp/2005/13/section/26/3/a)[(3)(d)](https://www.legislation.gov.uk/asp/2005/13/section/26/3/d)[(3)(e)](https://www.legislation.gov.uk/asp/2005/13/section/26/3/e)[(4)(a)](https://www.legislation.gov.uk/asp/2005/13/section/26/4/a)[(4)(c)](https://www.legislation.gov.uk/asp/2005/13/section/26/4/c)[(5)(a)](https://www.legislation.gov.uk/asp/2005/13/section/26/5/a)[(6)](https://www.legislation.gov.uk/asp/2005/13/section/26/6)[(7)(b)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/26/7/b/ii)[(7)(c)](https://www.legislation.gov.uk/asp/2005/13/section/26/7/c) in force at 1.4.2006 in so far as not already in force by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-4cc5021b852f91e1e4885cc3f1430199]: Commencement: [S. 26(1)](https://www.legislation.gov.uk/asp/2005/13/section/26/1)[(2)(a)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/a)[(2)(b)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/b)[(2)(c)(i)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/c/i)[(2)(d)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/d)[(2)(e)(i)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/e/i)[(2)(f)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/f)[(3)(a)](https://www.legislation.gov.uk/asp/2005/13/section/26/3/a)[(3)(d)](https://www.legislation.gov.uk/asp/2005/13/section/26/3/d)[(3)(e)](https://www.legislation.gov.uk/asp/2005/13/section/26/3/e)[(4)(a)](https://www.legislation.gov.uk/asp/2005/13/section/26/4/a)[(4)(c)](https://www.legislation.gov.uk/asp/2005/13/section/26/4/c)[(5)(a)](https://www.legislation.gov.uk/asp/2005/13/section/26/5/a)[(6)](https://www.legislation.gov.uk/asp/2005/13/section/26/6)[(7)(b)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/26/7/b/ii)[(7)(c)](https://www.legislation.gov.uk/asp/2005/13/section/26/7/c) in force at 1.4.2006 in so far as not already in force by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-dcd13d0a20c4e6e93100caddc62b6640]: Commencement: [S. 26(2)(c)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/c/ii) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-dcd13d0a20c4e6e93100caddc62b6640]: Commencement: [S. 26(2)(c)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/c/ii) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-7c2706975b18ad76ac4421738878c0da]: Commencement: [S. 26(2)(c)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/c/ii) in force at 2.7.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+[^c-7c2706975b18ad76ac4421738878c0da]: Commencement: [S. 26(2)(c)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/c/ii) in force at 2.7.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
 
-[^key-41ad76e73404ff04a5308dd1a943667d]: Commencement: [S. 26(2)(e)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/e/ii) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-41ad76e73404ff04a5308dd1a943667d]: Commencement: [S. 26(2)(e)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/e/ii) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-a639f000669e808f7bce884ac82da7ce]: Commencement: [S. 26(2)(e)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/e/ii) in force at 2.7.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+[^c-a639f000669e808f7bce884ac82da7ce]: Commencement: [S. 26(2)(e)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/26/2/e/ii) in force at 2.7.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
 
-[^key-168801182434397549b3d09d36dec189]: Commencement: [S. 26(3)(b)](https://www.legislation.gov.uk/asp/2005/13/section/26/3/b) in force at 2.7.2010 in so far as not already in force by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+[^c-168801182434397549b3d09d36dec189]: Commencement: [S. 26(3)(b)](https://www.legislation.gov.uk/asp/2005/13/section/26/3/b) in force at 2.7.2010 in so far as not already in force by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
 
-[^key-93079faade9d06cf0a7978fecc062798]: Commencement: [S. 26(3)(c)](https://www.legislation.gov.uk/asp/2005/13/section/26/3/c) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-93079faade9d06cf0a7978fecc062798]: Commencement: [S. 26(3)(c)](https://www.legislation.gov.uk/asp/2005/13/section/26/3/c) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-c62fb3ac6b23838aa8217ff50d14f8d8]: Commencement: [S. 26(3)(c)](https://www.legislation.gov.uk/asp/2005/13/section/26/3/c) in force at 2.7.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+[^c-c62fb3ac6b23838aa8217ff50d14f8d8]: Commencement: [S. 26(3)(c)](https://www.legislation.gov.uk/asp/2005/13/section/26/3/c) in force at 2.7.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
 
-[^key-9075ffa7dcebb88a84110b7c54b7afdb]: Commencement: [S. 26(4)(b)](https://www.legislation.gov.uk/asp/2005/13/section/26/4/b) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-9075ffa7dcebb88a84110b7c54b7afdb]: Commencement: [S. 26(4)(b)](https://www.legislation.gov.uk/asp/2005/13/section/26/4/b) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-cd7dddd733bf9b073805780473335e80]: Commencement: [S. 26(7)(d)](https://www.legislation.gov.uk/asp/2005/13/section/26/7/d) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-cd7dddd733bf9b073805780473335e80]: Commencement: [S. 26(7)(d)](https://www.legislation.gov.uk/asp/2005/13/section/26/7/d) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-5156ab38cebc37dcbdf2fd732ff9bead]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2005/13/section/27) in force at 7.3.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/121/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/121/schedule/1)
+[^c-5156ab38cebc37dcbdf2fd732ff9bead]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2005/13/section/27) in force at 7.3.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/121/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/121/schedule/1)
 
-[^key-9e19e933dbaacfb4d3e8a2a74f89a2e7]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2005/13/section/27) in force at 1.4.2006 in so far as not already in force by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-9e19e933dbaacfb4d3e8a2a74f89a2e7]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2005/13/section/27) in force at 1.4.2006 in so far as not already in force by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-0a1deeaf0aed7f99f3b697ae85d996ea]: Commencement: S. 28 in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-0a1deeaf0aed7f99f3b697ae85d996ea]: Commencement: S. 28 in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
-[^key-bb85ed095ccd68c77138c9e48166362a]: Textual amendment: Word in [s. 28(1)(a)(i)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/a) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(a)(i)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/a/i), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
+[^c-bb85ed095ccd68c77138c9e48166362a]: Textual amendment: Word in [s. 28(1)(a)(i)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/a) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(a)(i)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/a/i), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
 
-[^key-7277b5a64c9267c09c63b9ce00a72c8f]: Textual amendment: Word in [s. 28(1)(a)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/a) repealed (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(a)(ii)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/a/ii), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
+[^c-7277b5a64c9267c09c63b9ce00a72c8f]: Textual amendment: Word in [s. 28(1)(a)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/a) repealed (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(a)(ii)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/a/ii), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
 
-[^key-bf060bb52390d9d997f013451a198eb4]: Textual amendment: [S. 28(1)(a)(iii)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/a/iii) repealed (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(a)(iii)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/a/iii), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
+[^c-bf060bb52390d9d997f013451a198eb4]: Textual amendment: [S. 28(1)(a)(iii)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/a/iii) repealed (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(a)(iii)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/a/iii), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
 
-[^key-ee0cf1a8bf608a95047f76e7e7195483]: Textual amendment: Word in [s. 28(1)(b)(i)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/b) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(b)(i)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/b/i), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
+[^c-ee0cf1a8bf608a95047f76e7e7195483]: Textual amendment: Word in [s. 28(1)(b)(i)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/b) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(b)(i)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/b/i), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
 
-[^key-464d82f190c49ac02a1a94e0b2219374]: Textual amendment: Word in [s. 28(1)(b)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/b) repealed (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(b)(ii)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/b/ii), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
+[^c-464d82f190c49ac02a1a94e0b2219374]: Textual amendment: Word in [s. 28(1)(b)(ii)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/b) repealed (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(b)(ii)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/b/ii), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
 
-[^key-8cf2ff580f60c6ad1ab9e64b475f91f2]: Textual amendment: [S. 28(1)(b)(iii)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/b/iii) repealed (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(b)(iii)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/b/iii), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
+[^c-8cf2ff580f60c6ad1ab9e64b475f91f2]: Textual amendment: [S. 28(1)(b)(iii)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/b/iii) repealed (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(b)(iii)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/b/iii), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
 
-[^key-84999f50ccebe40b9fc3c60caea6c3a2]: Textual amendment: [S. 28(1)(c)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/c) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(c)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/c), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
+[^c-84999f50ccebe40b9fc3c60caea6c3a2]: Textual amendment: [S. 28(1)(c)](https://www.legislation.gov.uk/asp/2005/13/section/28/1/c) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(2)(c)](https://www.legislation.gov.uk/asp/2011/5/section/22/2/c), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
 
-[^key-ec3dd219fdfefcc2d4d21f6624ba1e9e]: Textual amendment: [S. 28(2A)](https://www.legislation.gov.uk/asp/2005/13/section/28/2A) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(3)](https://www.legislation.gov.uk/asp/2011/5/section/22/3), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
+[^c-ec3dd219fdfefcc2d4d21f6624ba1e9e]: Textual amendment: [S. 28(2A)](https://www.legislation.gov.uk/asp/2005/13/section/28/2A) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(3)](https://www.legislation.gov.uk/asp/2011/5/section/22/3), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
 
-[^key-09164128f0df9657cf0c871ae2e25aad]: Textual amendment: Words in [s. 28(3)(b)](https://www.legislation.gov.uk/asp/2005/13/section/28/3/b) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(4)(a)](https://www.legislation.gov.uk/asp/2011/5/section/22/4/a), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
+[^c-09164128f0df9657cf0c871ae2e25aad]: Textual amendment: Words in [s. 28(3)(b)](https://www.legislation.gov.uk/asp/2005/13/section/28/3/b) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(4)(a)](https://www.legislation.gov.uk/asp/2011/5/section/22/4/a), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
 
-[^key-34d9580d7b363cad047e9ce8404d9033]: Textual amendment: Words in [s. 28(3)(e)](https://www.legislation.gov.uk/asp/2005/13/section/28/3/e) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(4)(b)](https://www.legislation.gov.uk/asp/2011/5/section/22/4/b), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
+[^c-34d9580d7b363cad047e9ce8404d9033]: Textual amendment: Words in [s. 28(3)(e)](https://www.legislation.gov.uk/asp/2005/13/section/28/3/e) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(4)(b)](https://www.legislation.gov.uk/asp/2011/5/section/22/4/b), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
 
-[^key-a91eb7ccf0ea844557b822a3946426f5]: Textual amendment: Words in [s. 28(4)(a)](https://www.legislation.gov.uk/asp/2005/13/section/28/4/a) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(5)](https://www.legislation.gov.uk/asp/2011/5/section/22/5), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
+[^c-a91eb7ccf0ea844557b822a3946426f5]: Textual amendment: Words in [s. 28(4)(a)](https://www.legislation.gov.uk/asp/2005/13/section/28/4/a) inserted (31.3.2011) by [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), [ss. 22(5)](https://www.legislation.gov.uk/asp/2011/5/section/22/5), [26(2)](https://www.legislation.gov.uk/asp/2011/5/section/26/2) (with [ss. 18(3)](https://www.legislation.gov.uk/asp/2011/5/section/18/3), [20](https://www.legislation.gov.uk/asp/2011/5/section/20))
 
-[^key-9b14c997b3a36557288aa8b66bddcae0]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2005/13/section/29) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-9b14c997b3a36557288aa8b66bddcae0]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2005/13/section/29) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
-[^key-7876db82d2ca4ede50712a067407309c]: Commencement: S. 30 in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-7876db82d2ca4ede50712a067407309c]: Commencement: S. 30 in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
-[^key-14ac51655848323316940df39209b6e5]: Textual amendment: [S. 30(2)](https://www.legislation.gov.uk/asp/2005/13/section/30/2) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 33](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/33); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-14ac51655848323316940df39209b6e5]: Textual amendment: [S. 30(2)](https://www.legislation.gov.uk/asp/2005/13/section/30/2) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 17 para. 33](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/33); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-38fb3d77b453561192428c88e3c70790]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2005/13/section/31) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-38fb3d77b453561192428c88e3c70790]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2005/13/section/31) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
-[^key-2f7e4febb84698d3f7170b789bfb07cc]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2005/13/section/32) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-2f7e4febb84698d3f7170b789bfb07cc]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2005/13/section/32) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
-[^key-326225bf09cb41cc10e29721a0af2dcd]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2005/13/section/35) in force at 19.12.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(c)](https://www.legislation.gov.uk/ssi/2005/492/article/3/c)
+[^c-326225bf09cb41cc10e29721a0af2dcd]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2005/13/section/35) in force at 19.12.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(c)](https://www.legislation.gov.uk/ssi/2005/492/article/3/c)
 
-[^key-3b97120e6d852ff6ab8303ab792777ef]: Textual amendment: [S. 36](https://www.legislation.gov.uk/asp/2005/13/section/36) repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-3b97120e6d852ff6ab8303ab792777ef]: Textual amendment: [S. 36](https://www.legislation.gov.uk/asp/2005/13/section/36) repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
-[^key-4acc95bf8f441157725c601a50717dca]: Commencement: S. 36 in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-4acc95bf8f441157725c601a50717dca]: Commencement: S. 36 in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
-[^key-f892d2bc1ef836f89db7144edf95c290]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2005/13/section/37) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-f892d2bc1ef836f89db7144edf95c290]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2005/13/section/37) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
-[^key-495b7bf37146f4b3e49f66a4c34166ca]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2005/13/section/38) in force at 1.11.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+[^c-495b7bf37146f4b3e49f66a4c34166ca]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2005/13/section/38) in force at 1.11.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
 
-[^key-93975b1e99d5fcf455e6824fe09b0333]: Textual amendment: Words in [s. 40(3)(a)](https://www.legislation.gov.uk/asp/2005/13/section/40/3/a) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(7)](https://www.legislation.gov.uk/asp/2016/14/section/20/7), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-93975b1e99d5fcf455e6824fe09b0333]: Textual amendment: Words in [s. 40(3)(a)](https://www.legislation.gov.uk/asp/2005/13/section/40/3/a) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(7)](https://www.legislation.gov.uk/asp/2016/14/section/20/7), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
 [^c1125501]: Commencement: S. 42 in force for specified purposes at 6.8.2005
 
-[^key-94c48be9cce4d5631075389cd88d4641]: Commencement: S. 42(1)(2) in force at 17.10.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-94c48be9cce4d5631075389cd88d4641]: Commencement: S. 42(1)(2) in force at 17.10.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
-[^key-852df5c962a22cf127a1f22fb6d0a9a3]: Commencement: [S. 42(1)](https://www.legislation.gov.uk/asp/2005/13/section/42/1)[(2)](https://www.legislation.gov.uk/asp/2005/13/section/42/2) in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+[^c-852df5c962a22cf127a1f22fb6d0a9a3]: Commencement: [S. 42(1)](https://www.legislation.gov.uk/asp/2005/13/section/42/1)[(2)](https://www.legislation.gov.uk/asp/2005/13/section/42/2) in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
 
-[^key-a3ae823668cf7d1ed3057cf73219338c]: Commencement: [S. 42(1)](https://www.legislation.gov.uk/asp/2005/13/section/42/1) in force at 1.4.2006 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(e)](https://www.legislation.gov.uk/ssi/2005/492/article/3/e), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/492/schedule/3)
+[^c-a3ae823668cf7d1ed3057cf73219338c]: Commencement: [S. 42(1)](https://www.legislation.gov.uk/asp/2005/13/section/42/1) in force at 1.4.2006 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(e)](https://www.legislation.gov.uk/ssi/2005/492/article/3/e), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/492/schedule/3)
 
-[^key-217596df2e52d9852ef5537811fb3cf1]: Commencement: [S. 42(1)](https://www.legislation.gov.uk/asp/2005/13/section/42/1)[(2)](https://www.legislation.gov.uk/asp/2005/13/section/42/2) in force at 2.7.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+[^c-217596df2e52d9852ef5537811fb3cf1]: Commencement: [S. 42(1)](https://www.legislation.gov.uk/asp/2005/13/section/42/1)[(2)](https://www.legislation.gov.uk/asp/2005/13/section/42/2) in force at 2.7.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
 
-[^key-cd8a66001c26ba2ff7ef57fb57296e6a]: Commencement: [S. 42(2)](https://www.legislation.gov.uk/asp/2005/13/section/42/2) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/218](https://www.legislation.gov.uk/ssi/2007/218), [art. 2](https://www.legislation.gov.uk/ssi/2007/218/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/218/schedule)
+[^c-cd8a66001c26ba2ff7ef57fb57296e6a]: Commencement: [S. 42(2)](https://www.legislation.gov.uk/asp/2005/13/section/42/2) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/218](https://www.legislation.gov.uk/ssi/2007/218), [art. 2](https://www.legislation.gov.uk/ssi/2007/218/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/218/schedule)
 
-[^key-46746aa942bceb5a03a7f918d70c7b1c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/asp/2005/13/schedule/1) title substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(8)(f)](https://www.legislation.gov.uk/asp/2016/14/section/20/8/f), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-46746aa942bceb5a03a7f918d70c7b1c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/asp/2005/13/schedule/1) title substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(8)(f)](https://www.legislation.gov.uk/asp/2016/14/section/20/8/f), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-e9e66309bce01e227a4f07352c948438]: Commencement: Sch. 1 para. 1 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-e9e66309bce01e227a4f07352c948438]: Commencement: Sch. 1 para. 1 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-3af4147feff0d8401149d7591ca5307a]: Modification: Sch. 1 paras. 1-3 applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-3af4147feff0d8401149d7591ca5307a]: Modification: Sch. 1 paras. 1-3 applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-a47ca2940dc76adfa457488a6e8fe459]: Textual amendment: Words in [sch. 1 para. 1(1)](https://www.legislation.gov.uk/asp/2005/13/schedule/1/paragraph/1/1) substituted (19.9.2022) by [The Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (Supplementary Provision) Regulations 2022 (S.S.I. 2022/276)](https://www.legislation.gov.uk/ssi/2022/276), [regs. 1](https://www.legislation.gov.uk/ssi/2022/276/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2022/276/regulation/2/a)
+[^c-a47ca2940dc76adfa457488a6e8fe459]: Textual amendment: Words in [sch. 1 para. 1(1)](https://www.legislation.gov.uk/asp/2005/13/schedule/1/paragraph/1/1) substituted (19.9.2022) by [The Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (Supplementary Provision) Regulations 2022 (S.S.I. 2022/276)](https://www.legislation.gov.uk/ssi/2022/276), [regs. 1](https://www.legislation.gov.uk/ssi/2022/276/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2022/276/regulation/2/a)
 
-[^key-fee374caf14b88cef0749cab9bb465a0]: Textual amendment: [Sch. 1 para. 1(1A)](https://www.legislation.gov.uk/asp/2005/13/schedule/1/paragraph/1/1A) inserted (19.9.2022) by [The Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (Supplementary Provision) Regulations 2022 (S.S.I. 2022/276)](https://www.legislation.gov.uk/ssi/2022/276), [regs. 1](https://www.legislation.gov.uk/ssi/2022/276/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2022/276/regulation/2/b)
+[^c-fee374caf14b88cef0749cab9bb465a0]: Textual amendment: [Sch. 1 para. 1(1A)](https://www.legislation.gov.uk/asp/2005/13/schedule/1/paragraph/1/1A) inserted (19.9.2022) by [The Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (Supplementary Provision) Regulations 2022 (S.S.I. 2022/276)](https://www.legislation.gov.uk/ssi/2022/276), [regs. 1](https://www.legislation.gov.uk/ssi/2022/276/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2022/276/regulation/2/b)
 
-[^key-9318e2374f9d5b229e962a18085e3bf4]: Textual amendment: Words in [sch. 1 para. 1(2)](https://www.legislation.gov.uk/asp/2005/13/schedule/1/paragraph/1/2) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(8)(b)](https://www.legislation.gov.uk/asp/2016/14/section/20/8/b), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-9318e2374f9d5b229e962a18085e3bf4]: Textual amendment: Words in [sch. 1 para. 1(2)](https://www.legislation.gov.uk/asp/2005/13/schedule/1/paragraph/1/2) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(8)(b)](https://www.legislation.gov.uk/asp/2016/14/section/20/8/b), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-721e70884b814b9818737dba2a45f332]: Textual amendment: Words in [sch. 1 para. 1(3)](https://www.legislation.gov.uk/asp/2005/13/schedule/1/paragraph/1/3) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(8)(c)](https://www.legislation.gov.uk/asp/2016/14/section/20/8/c), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-721e70884b814b9818737dba2a45f332]: Textual amendment: Words in [sch. 1 para. 1(3)](https://www.legislation.gov.uk/asp/2005/13/schedule/1/paragraph/1/3) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(8)(c)](https://www.legislation.gov.uk/asp/2016/14/section/20/8/c), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-a6de2152566e8e316841531f4aa4df39]: Commencement: Sch. 1 para. 2 in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+[^c-a6de2152566e8e316841531f4aa4df39]: Commencement: Sch. 1 para. 2 in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
 
-[^key-701c265a4133b9b3d45c3298d457a211]: Commencement: Sch. 1 para. 2 in force at 26.3.2006 at 0600 hours in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-701c265a4133b9b3d45c3298d457a211]: Commencement: Sch. 1 para. 2 in force at 26.3.2006 at 0600 hours in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
 [^M_C_204cf100-1823-495d-856f-63ae66604bc4]: Modification: Sch. 1 paras. 1-3 applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-860c0dadd22f278887df18e25f662389]: Textual amendment: Words in [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2005/13/schedule/1/paragraph/2) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(8)(d)](https://www.legislation.gov.uk/asp/2016/14/section/20/8/d), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-860c0dadd22f278887df18e25f662389]: Textual amendment: Words in [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2005/13/schedule/1/paragraph/2) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(8)(d)](https://www.legislation.gov.uk/asp/2016/14/section/20/8/d), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-0a91737429131656863ccfcf31f893cd]: Commencement: Sch. 1 para. 3 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-0a91737429131656863ccfcf31f893cd]: Commencement: Sch. 1 para. 3 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-e8630d2eb13940ac14207d23cb39c2fd]: Commencement: Sch. 1 para. 4(1) in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+[^c-e8630d2eb13940ac14207d23cb39c2fd]: Commencement: Sch. 1 para. 4(1) in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
 
-[^key-de2f04f63d778582ba8c5800d4af4293]: Commencement: Sch. 1 para. 4(1) in force at 26.3.2006 at 0600 hours in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-de2f04f63d778582ba8c5800d4af4293]: Commencement: Sch. 1 para. 4(1) in force at 26.3.2006 at 0600 hours in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-ed6b68c1fe3eb0a732635945dbaa2957]: Textual amendment: Words in [sch. 1 para. 4(1)](https://www.legislation.gov.uk/asp/2005/13/schedule/1/paragraph/4/1) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(8)(e)](https://www.legislation.gov.uk/asp/2016/14/section/20/8/e), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
+[^c-ed6b68c1fe3eb0a732635945dbaa2957]: Textual amendment: Words in [sch. 1 para. 4(1)](https://www.legislation.gov.uk/asp/2005/13/schedule/1/paragraph/4/1) substituted (2.3.2022 for specified purposes, 5.9.2022 in so far as not already in force) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 20(8)(e)](https://www.legislation.gov.uk/asp/2016/14/section/20/8/e), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2022/43](https://www.legislation.gov.uk/ssi/2022/43), [reg. 2](https://www.legislation.gov.uk/ssi/2022/43/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/43/schedule)
 
-[^key-dcd76b29b67b058fc1274754376fe58c]: Commencement: Sch. 1 para. 4(2)(3) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-dcd76b29b67b058fc1274754376fe58c]: Commencement: Sch. 1 para. 4(2)(3) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-3ce1711543d5c453c70325cf65bfb36e]: Modification: Sch. 1 para. 4(2)(3) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-3ce1711543d5c453c70325cf65bfb36e]: Modification: Sch. 1 para. 4(2)(3) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-3e93f3c7cce8343d219eb745002417e9]: Commencement: Sch. 1 para. 5(1)(3) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-3e93f3c7cce8343d219eb745002417e9]: Commencement: Sch. 1 para. 5(1)(3) in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-2893f5eac92ad22c0ae6e5dea019e28a]: Modification: Sch. 1 para. 5(1)(3) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-2893f5eac92ad22c0ae6e5dea019e28a]: Modification: Sch. 1 para. 5(1)(3) applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-22e603c08e7ba67a0fe36e6eb89b5eba]: Commencement: Sch. 1 para. 5(2) in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+[^c-22e603c08e7ba67a0fe36e6eb89b5eba]: Commencement: Sch. 1 para. 5(2) in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
 
-[^key-03edcff65f75f046019da4d5fef44b88]: Commencement: Sch. 1 para. 5(2) in force at 26.3.2006 at 0600 hours in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-03edcff65f75f046019da4d5fef44b88]: Commencement: Sch. 1 para. 5(2) in force at 26.3.2006 at 0600 hours in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-82da394213fa2750b506689343f277a6]: Commencement: Sch. 1 para. 6 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-82da394213fa2750b506689343f277a6]: Commencement: Sch. 1 para. 6 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-c5d71fcde7bd24826beab765792b3857]: Modification: Sch. 1 paras. 6-11 applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
+[^c-c5d71fcde7bd24826beab765792b3857]: Modification: Sch. 1 paras. 6-11 applied (15.5.2006) by [Smoking, Health and Social Care (Scotland) Act 2005 and The Prohibition Of Smoking In Certain Premises (Scotland) Regulations 2006 (Consequential Provisions) (Scotland) Order 2006 (S.I. 2006/1115)](https://www.legislation.gov.uk/uksi/2006/1115), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1115/article/1), [3](https://www.legislation.gov.uk/uksi/2006/1115/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1115/article/4))
 
-[^key-29bb0be2c6e6ab5e33e4db65ed69254f]: Commencement: Sch. 1 para. 7 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-29bb0be2c6e6ab5e33e4db65ed69254f]: Commencement: Sch. 1 para. 7 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-3e84e642c65d4d64e6b589872485365e]: Commencement: Sch. 1 para. 8 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-3e84e642c65d4d64e6b589872485365e]: Commencement: Sch. 1 para. 8 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-93e5c340636382a645637af4de817071]: Commencement: Sch. 1 para. 9 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-93e5c340636382a645637af4de817071]: Commencement: Sch. 1 para. 9 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-06817a4ca8ad9bac781ef1dc98ef12a7]: Commencement: Sch. 1 para. 10 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-06817a4ca8ad9bac781ef1dc98ef12a7]: Commencement: Sch. 1 para. 10 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-3c48eafd4362be2f1ff22c149fc72c6f]: Commencement: Sch. 1 para. 11 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-3c48eafd4362be2f1ff22c149fc72c6f]: Commencement: Sch. 1 para. 11 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-50a479ff5b3beea2db9ca61a5d7c8bf4]: Commencement: Sch. 1 para. 12 in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+[^c-50a479ff5b3beea2db9ca61a5d7c8bf4]: Commencement: Sch. 1 para. 12 in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
 
-[^key-372684b6091b66aecaca249ed6827a4b]: Commencement: Sch. 1 para. 12 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-372684b6091b66aecaca249ed6827a4b]: Commencement: Sch. 1 para. 12 in force at 26.3.2006 at 0600 hours by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-71a8df37ee51a09a78b5a3efc6abf8de]: Commencement: Sch. 1 para. 13 in force at 26.3.2006 at 0600 hours in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
+[^c-71a8df37ee51a09a78b5a3efc6abf8de]: Commencement: Sch. 1 para. 13 in force at 26.3.2006 at 0600 hours in so far as not already in force by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(d)](https://www.legislation.gov.uk/ssi/2005/492/article/3/d)
 
-[^key-5cc66de089c8b6a15c81bb73a4e21c05]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/1) repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-5cc66de089c8b6a15c81bb73a4e21c05]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/1) repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
-[^key-edc21ad5692359754992aa41d3f8f9e1]: Commencement: Sch. 2 para. 1 in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-edc21ad5692359754992aa41d3f8f9e1]: Commencement: Sch. 2 para. 1 in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
 [^c1125936]: Commencement: Sch. 2 para. 2(2)(4) in force at 6.8.2005
 
-[^key-871b6ba4193f88b81d7206c46a1e940d]: Commencement: Sch. 2 para. 2(1) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-871b6ba4193f88b81d7206c46a1e940d]: Commencement: Sch. 2 para. 2(1) in force at 17.10.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
-[^key-77da97569038a9469a2af6a5e6206b80]: Commencement: [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/3)[(16)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/16)[(19)(b)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/19/b) in force at 2.7.2010 by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+[^c-77da97569038a9469a2af6a5e6206b80]: Commencement: [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/3)[(16)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/16)[(19)(b)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/19/b) in force at 2.7.2010 by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
 
-[^key-db4f5c6e5efb1a5abc74812ccad190e1]: Commencement: [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/5) [Sch. 2 para. 2(10)-(14)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/10) [(20)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/20) in force at 1.4.2006 by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-db4f5c6e5efb1a5abc74812ccad190e1]: Commencement: [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/5) [Sch. 2 para. 2(10)-(14)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/10) [(20)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/20) in force at 1.4.2006 by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-017730e7fa1b327bcfa96aa24a784f9b]: Commencement: [Sch. 2 para. 2(15)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/15) in force at 2.7.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+[^c-017730e7fa1b327bcfa96aa24a784f9b]: Commencement: [Sch. 2 para. 2(15)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/15) in force at 2.7.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
 
-[^key-e912461f96e914b87e2147591f627b65]: Commencement: [Sch. 2 para. 2(19)(a)(ii)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/19/a/ii) in force at 1.4.2006 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(e)](https://www.legislation.gov.uk/ssi/2005/492/article/3/e), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/492/schedule/3)
+[^c-e912461f96e914b87e2147591f627b65]: Commencement: [Sch. 2 para. 2(19)(a)(ii)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/19/a/ii) in force at 1.4.2006 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(e)](https://www.legislation.gov.uk/ssi/2005/492/article/3/e), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/492/schedule/3)
 
-[^key-502f32584976d5f451f7eb7e759a7951]: Commencement: [Sch. 2 para. 2(19)(a)(iv)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/19/a/iv) in force at 1.11.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+[^c-502f32584976d5f451f7eb7e759a7951]: Commencement: [Sch. 2 para. 2(19)(a)(iv)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/2/19/a/iv) in force at 1.11.2005 by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
 
-[^key-c6ae548f3dda520c8995bc9e70329f35]: Commencement: [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/3/c) in force at 2.7.2010 by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+[^c-c6ae548f3dda520c8995bc9e70329f35]: Commencement: [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/asp/2005/13/schedule/2/paragraph/3/c) in force at 2.7.2010 by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
 
-[^key-56aaac85f3254685157b58482a187bae]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3) in force at 17.10.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-56aaac85f3254685157b58482a187bae]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3) in force at 17.10.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
 
-[^key-d7fb40f98327dc3aec294dcca0666acb]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3) in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+[^c-d7fb40f98327dc3aec294dcca0666acb]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3) in force at 1.11.2005 for specified purposes by [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
 
-[^key-7dd6986e3529752506f66de8a5d8a591]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
+[^c-7dd6986e3529752506f66de8a5d8a591]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3) in force at 1.4.2006 for specified purposes by [S.S.I. 2006/121](https://www.legislation.gov.uk/ssi/2006/121), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/121/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/121/schedule/2)
 
-[^key-160e2616aeeae93c330932578bae6e98]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/218](https://www.legislation.gov.uk/ssi/2007/218), [art. 2](https://www.legislation.gov.uk/ssi/2007/218/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/218/schedule)
+[^c-160e2616aeeae93c330932578bae6e98]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/218](https://www.legislation.gov.uk/ssi/2007/218), [art. 2](https://www.legislation.gov.uk/ssi/2007/218/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/218/schedule)
 
-[^key-ce2dd881fdea2be3866bcc0d88b70728]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3) in force at 2.7.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)
+[^c-ce2dd881fdea2be3866bcc0d88b70728]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3) in force at 2.7.2010 for specified purposes by [S.S.I. 2010/185](https://www.legislation.gov.uk/ssi/2010/185), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/185/article/3/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2010/185/schedule/2)

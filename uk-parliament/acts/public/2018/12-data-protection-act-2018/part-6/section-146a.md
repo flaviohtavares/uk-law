@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146A. Assessment notices: approval of person to prepare report etc[^key-d7b53c8fbbc309eb53cd104cacb820d5]
+## 146A. Assessment notices: approval of person to prepare report etc[^c-d7b53c8fbbc309eb53cd104cacb820d5]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where an assessment notice requires a controller or processor to make arrangements for an approved person to prepare a report.
 
-(2) The controller or processor must, within such period as is specified in the assessment notice, nominate to the Commission[^key-33c39eed2430f70240192080d85d2cfe] a person to prepare the report.
+(2) The controller or processor must, within such period as is specified in the assessment notice, nominate to the Commission[^c-33c39eed2430f70240192080d85d2cfe] a person to prepare the report.
 
 (3) If the Commission is satisfied that the nominated person is a suitable person to prepare the report, the Commission must by written notice to the controller or processor approve the nominated person to prepare the report.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7b53c8fbbc309eb53cd104cacb820d5]: Textual amendment: S. 146A inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 98(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/98/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/q)
+[^c-d7b53c8fbbc309eb53cd104cacb820d5]: Textual amendment: S. 146A inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 98(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/98/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/q)
 
-[^key-33c39eed2430f70240192080d85d2cfe]: Textual amendment: Word in s. 146A(2)-(5) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-33c39eed2430f70240192080d85d2cfe]: Textual amendment: Word in s. 146A(2)-(5) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

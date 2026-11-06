@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Duty to consult on unpaid work requirements[^key-6dc8874bc88b26c88c8e8c2d690f9756][^key-0fe76f777d7def38d7a5fbcb41815a29]
+## 155. Duty to consult on unpaid work requirements[^c-6dc8874bc88b26c88c8e8c2d690f9756][^c-0fe76f777d7def38d7a5fbcb41815a29]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ After section 10 of the Offender Management Act 2007 insert—
 
 ## Annotations
 
-[^key-6dc8874bc88b26c88c8e8c2d690f9756]: Commencement: S. 155 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-6dc8874bc88b26c88c8e8c2d690f9756]: Commencement: S. 155 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-0fe76f777d7def38d7a5fbcb41815a29]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2022/32/section/155) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(r)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/r)
+[^c-0fe76f777d7def38d7a5fbcb41815a29]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2022/32/section/155) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(r)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/r)

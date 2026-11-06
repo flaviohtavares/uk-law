@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Definition of “proxy”[^key-e3a745bd6e88d37563b14857ebebd818]
+## 137. Definition of “proxy”[^c-e3a745bd6e88d37563b14857ebebd818]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3a745bd6e88d37563b14857ebebd818]: Commencement: [Rule 137](https://www.legislation.gov.uk/uksi/2013/3208/rule/137) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-e3a745bd6e88d37563b14857ebebd818]: Commencement: [Rule 137](https://www.legislation.gov.uk/uksi/2013/3208/rule/137) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

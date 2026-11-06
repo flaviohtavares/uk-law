@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Interpretation of Schedule 2[^key-394a705da1821f9f0c1f5e3d2b01d3d9]
+## 70. Interpretation of Schedule 2[^c-394a705da1821f9f0c1f5e3d2b01d3d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Part 1 of Schedule 2 contains interpretative provisions for the purposes of that
 
 ## Annotations
 
-[^key-394a705da1821f9f0c1f5e3d2b01d3d9]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-394a705da1821f9f0c1f5e3d2b01d3d9]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

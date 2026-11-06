@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Contents
 
-### Part 1 — The Local Better Regulation Office[^key-69af4c06d49fae2fd28fd9b3c1d73700]
+### Part 1 — The Local Better Regulation Office[^c-69af4c06d49fae2fd28fd9b3c1d73700]
 
 #### Establishment of LBRO
 
@@ -82,7 +82,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 20 — Orders under Part 1](part-1/section-20.md)
 - [Section 21 — Interpretation of Part 1](part-1/section-21.md)
 
-### Part 2 — Co-ordination of regulatory enforcement[^key-81564caee809fd120afd33b1ad10dd17][^key-7229255d28e07423b60bf8489db654cd]
+### Part 2 — Co-ordination of regulatory enforcement[^c-81564caee809fd120afd33b1ad10dd17][^c-7229255d28e07423b60bf8489db654cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,15 +115,15 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 34 — Orders under Part 2](part-2/section-34.md)
 - [Section 35 — Interpretation of Part 2](part-2/section-35.md)
 
-### PART 2 — Regulatory Enforcement[^key-7229255d28e07423b60bf8489db654cd]
+### PART 2 — Regulatory Enforcement[^c-7229255d28e07423b60bf8489db654cd]
 
-#### Introductory[^key-7229255d28e07423b60bf8489db654cd]
+#### Introductory[^c-7229255d28e07423b60bf8489db654cd]
 
 - [Section 22A — “Regulated person” and “regulated group”](part-2n1/section-22a.md)
 - [Section 22B — “Qualifying regulator”](part-2n1/section-22b.md)
 - [Section 22C — “Relevant function”](part-2n1/section-22c.md)
 
-#### Primary authorities[^key-7229255d28e07423b60bf8489db654cd]
+#### Primary authorities[^c-7229255d28e07423b60bf8489db654cd]
 
 - [Section 23A — Primary authorities for regulated persons and regulated groups](part-2n1/section-23a.md)
 - [Section 23B — Nomination of primary authorities](part-2n1/section-23b.md)
@@ -131,47 +131,47 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 23D — Membership of a regulated group](part-2n1/section-23d.md)
 - [Section 23E — Application of sections 24A to 28B](part-2n1/section-23e.md)
 
-#### Advice and guidance[^key-7229255d28e07423b60bf8489db654cd]
+#### Advice and guidance[^c-7229255d28e07423b60bf8489db654cd]
 
 - [Section 24A — Primary authority advice and guidance](part-2n1/section-24a.md)
 
-#### Enforcement action[^key-7229255d28e07423b60bf8489db654cd]
+#### Enforcement action[^c-7229255d28e07423b60bf8489db654cd]
 
 - [Section 25A — “Enforcement action”](part-2n1/section-25a.md)
 - [Section 25B — Enforcement action by primary authority](part-2n1/section-25b.md)
 - [Section 25C — Enforcement action other than by primary authority](part-2n1/section-25c.md)
 - [Section 25D — Enforcement action: exceptions](part-2n1/section-25d.md)
 
-#### Inspection plans[^key-7229255d28e07423b60bf8489db654cd]
+#### Inspection plans[^c-7229255d28e07423b60bf8489db654cd]
 
 - [Section 26A — Inspection plans](part-2n1/section-26a.md)
 - [Section 26B — Effect of inspection plans](part-2n1/section-26b.md)
 - [Section 26C — Revocation and revision of inspection plans](part-2n1/section-26c.md)
 
-#### Primary authority's costs[^key-7229255d28e07423b60bf8489db654cd]
+#### Primary authority's costs[^c-7229255d28e07423b60bf8489db654cd]
 
 - [Section 27A — Power to charge](part-2n1/section-27a.md)
 
-#### Other regulators[^key-7229255d28e07423b60bf8489db654cd]
+#### Other regulators[^c-7229255d28e07423b60bf8489db654cd]
 
 - [Section 28A — Support of primary authority by other regulators](part-2n1/section-28a.md)
 - [Section 28B — Other regulators to act consistently with primary authority advice etc](part-2n1/section-28b.md)
 
-#### Cases with more than one primary authority[^key-7229255d28e07423b60bf8489db654cd]
+#### Cases with more than one primary authority[^c-7229255d28e07423b60bf8489db654cd]
 
 - [Section 29A — Primary authority enforcement action inconsistent with another authority's advice etc](part-2n1/section-29a.md)
 - [Section 29B — Concurrent duties to notify primary authorities of enforcement action](part-2n1/section-29b.md)
 - [Section 29C — Enforcement action notified to a primary authority inconsistent with another authority's advice etc](part-2n1/section-29c.md)
 - [Section 29D — Overlapping inspection plans](part-2n1/section-29d.md)
 
-#### General[^key-7229255d28e07423b60bf8489db654cd]
+#### General[^c-7229255d28e07423b60bf8489db654cd]
 
 - [Section 30A — Guidance and directions](part-2n1/section-30a.md)
 - [Section 30B — Periods of time under Part 2](part-2n1/section-30b.md)
 - [Section 30C — Regulations under Part 2](part-2n1/section-30c.md)
 - [Section 30D — Interpretation of Part 2](part-2n1/section-30d.md)
 
-### Part 3 — Civil sanctions[^key-0765f1545dbae6cfe10975414b11f518][^key-ec7d9953099fb93e1230b181a9700244]
+### Part 3 — Civil sanctions[^c-0765f1545dbae6cfe10975414b11f518][^c-ec7d9953099fb93e1230b181a9700244]
 
 #### Orders under Part 3: introductory
 
@@ -272,12 +272,12 @@ SCHEDULES
 
 ## Annotations
 
-[^key-69af4c06d49fae2fd28fd9b3c1d73700]: Modification: Pt. 1: transfer of functions (1.4.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(1)](https://www.legislation.gov.uk/uksi/2012/246/article/4/1)[(a)](https://www.legislation.gov.uk/uksi/2012/246/article/4/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/246/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-69af4c06d49fae2fd28fd9b3c1d73700]: Modification: Pt. 1: transfer of functions (1.4.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(1)](https://www.legislation.gov.uk/uksi/2012/246/article/4/1)[(a)](https://www.legislation.gov.uk/uksi/2012/246/article/4/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/246/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
 
-[^key-81564caee809fd120afd33b1ad10dd17]: Modification: Pt. 2: transfer of functions (1.4.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(1)](https://www.legislation.gov.uk/uksi/2012/246/article/4/1)[(b)](https://www.legislation.gov.uk/uksi/2012/246/article/4/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/246/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-81564caee809fd120afd33b1ad10dd17]: Modification: Pt. 2: transfer of functions (1.4.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(1)](https://www.legislation.gov.uk/uksi/2012/246/article/4/1)[(b)](https://www.legislation.gov.uk/uksi/2012/246/article/4/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/246/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
 
-[^key-7229255d28e07423b60bf8489db654cd]: Textual amendment: Pt. 2 substituted (4.5.2016 for specified purposes, 1.10.2017 in so far as not already in force) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/20/1), [44(1)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/c); [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/b)
+[^c-7229255d28e07423b60bf8489db654cd]: Textual amendment: Pt. 2 substituted (4.5.2016 for specified purposes, 1.10.2017 in so far as not already in force) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/20/1), [44(1)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/c); [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/b)
 
-[^key-0765f1545dbae6cfe10975414b11f518]: Modification: Pt. 3 modified (21.1.2010) by [Video Recordings Act 2010 (c. 1)](https://www.legislation.gov.uk/ukpga/2010/1), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2010/1/section/2/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2010/1/schedule/paragraph/5) (with [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2010/1/schedule/paragraph/2/2)[6](https://www.legislation.gov.uk/ukpga/2010/1/schedule/paragraph/6))
+[^c-0765f1545dbae6cfe10975414b11f518]: Modification: Pt. 3 modified (21.1.2010) by [Video Recordings Act 2010 (c. 1)](https://www.legislation.gov.uk/ukpga/2010/1), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2010/1/section/2/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2010/1/schedule/paragraph/5) (with [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2010/1/schedule/paragraph/2/2)[6](https://www.legislation.gov.uk/ukpga/2010/1/schedule/paragraph/6))
 
-[^key-ec7d9953099fb93e1230b181a9700244]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2008/13/part/3) modified (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(1)](https://www.legislation.gov.uk/anaw/2016/3/section/68/1), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
+[^c-ec7d9953099fb93e1230b181a9700244]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2008/13/part/3) modified (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(1)](https://www.legislation.gov.uk/anaw/2016/3/section/68/1), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)

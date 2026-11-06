@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Bus services improvement partnerships[^key-b9232f8356b8f372c1d214f91fae17f5]
+## 35. Bus services improvement partnerships[^c-b9232f8356b8f372c1d214f91fae17f5]
 
 *Extent: S*
 
@@ -128,7 +128,7 @@ summary: ''
 >
 > (2) The local transport authority must modify the route service standard in such manner as is necessary to take account of the number of registered operators (or expected number of such operators) to enable the service to be provided in accordance with the service standard.
 >
-> (3) A modification of a route service standard under this section is to be treated as a variation under section 3H of the partnership scheme which imposed the service standard and paragraph 18(3) of schedule A1[^key-01eeee0e4b59905e9fdaf3e34a5d2d05] applies to the modification as it does to such a variation.
+> (3) A modification of a route service standard under this section is to be treated as a variation under section 3H of the partnership scheme which imposed the service standard and paragraph 18(3) of schedule A1[^c-01eeee0e4b59905e9fdaf3e34a5d2d05] applies to the modification as it does to such a variation.
 >
 > (4) Without limit to the generality of section 3M, the Scottish Ministers may by regulations make further provision about the modification of route service standards under this section, including, in particular, provision—
 >
@@ -306,6 +306,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b9232f8356b8f372c1d214f91fae17f5]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2019/17/section/35) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-b9232f8356b8f372c1d214f91fae17f5]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2019/17/section/35) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-01eeee0e4b59905e9fdaf3e34a5d2d05]: Textual amendment: Word in [s. 35](https://www.legislation.gov.uk/asp/2019/17/section/35) substituted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/2)
+[^c-01eeee0e4b59905e9fdaf3e34a5d2d05]: Textual amendment: Word in [s. 35](https://www.legislation.gov.uk/asp/2019/17/section/35) substituted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/2)

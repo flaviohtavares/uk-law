@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Surviving partner’s pensions and eligible child’s pensions: suspension and recovery[^key-11c985812a02f005650445fbd7973e42]
+## 101. Surviving partner’s pensions and eligible child’s pensions: suspension and recovery[^c-11c985812a02f005650445fbd7973e42]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11c985812a02f005650445fbd7973e42]: Commencement: [Reg. 101](https://www.legislation.gov.uk/ssi/2015/19/regulation/101) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-11c985812a02f005650445fbd7973e42]: Commencement: [Reg. 101](https://www.legislation.gov.uk/ssi/2015/19/regulation/101) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

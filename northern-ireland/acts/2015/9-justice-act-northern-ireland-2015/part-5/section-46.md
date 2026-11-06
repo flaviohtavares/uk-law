@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Inclusion of cautions and other diversionary disposals in criminal records[^key-de289877d3f8b383d1d77078f933aac4]
+## 46. Inclusion of cautions and other diversionary disposals in criminal records[^c-de289877d3f8b383d1d77078f933aac4]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ In Article 29 of the Police and Criminal Evidence (Northern Ireland) Order 1989 
 
 ## Annotations
 
-[^key-de289877d3f8b383d1d77078f933aac4]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2015/9/section/46) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(h)](https://www.legislation.gov.uk/nisr/2015/358/article/2/h)
+[^c-de289877d3f8b383d1d77078f933aac4]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2015/9/section/46) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(h)](https://www.legislation.gov.uk/nisr/2015/358/article/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Penalties for information offences[^key-9e370a3e3dbe3970061d79c7533e35e0][^key-dbda85f6cd35c240a31992169e6653dc]
+## 113. Penalties for information offences[^c-9e370a3e3dbe3970061d79c7533e35e0][^c-dbda85f6cd35c240a31992169e6653dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) on summary conviction in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum;
 - (c) on conviction on indictment, to a fine.
 
-(2) A person who commits an offence under section 109(3), (4), (5) or (6A)[^key-3d701e63d5b71a59a56c698368bc48fb], 110(4), (5), (6) or (6A)[^key-7ef2cabbc723327349e1b5b21166b7d8], 111(2) or (3) or 112(1) is liable—
+(2) A person who commits an offence under section 109(3), (4), (5) or (6A)[^c-3d701e63d5b71a59a56c698368bc48fb], 110(4), (5), (6) or (6A)[^c-7ef2cabbc723327349e1b5b21166b7d8], 111(2) or (3) or 112(1) is liable—
 
 - (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine (or both);
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both);
@@ -41,10 +41,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9e370a3e3dbe3970061d79c7533e35e0]: Commencement: S. 113 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-9e370a3e3dbe3970061d79c7533e35e0]: Commencement: S. 113 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-dbda85f6cd35c240a31992169e6653dc]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2023/50/section/113) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z11)
+[^c-dbda85f6cd35c240a31992169e6653dc]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2023/50/section/113) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z11)
 
-[^key-3d701e63d5b71a59a56c698368bc48fb]: Textual amendment: Words in [s. 113(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/113/2) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(7)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/7/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-3d701e63d5b71a59a56c698368bc48fb]: Textual amendment: Words in [s. 113(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/113/2) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(7)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/7/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
 
-[^key-7ef2cabbc723327349e1b5b21166b7d8]: Textual amendment: Words in [s. 113(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/113/2) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(7)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/7/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-7ef2cabbc723327349e1b5b21166b7d8]: Textual amendment: Words in [s. 113(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/113/2) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(7)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/7/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)

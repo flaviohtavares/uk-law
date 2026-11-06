@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Imprisonment or detention for public protection[^key-9fd3d16227da5af7a8ce4a0fbe7acea0]
+## 66. Imprisonment or detention for public protection[^c-9fd3d16227da5af7a8ce4a0fbe7acea0]
 
 *Extent: E+W*
 
-(1)[^key-180ff84f409df374a41205afc0da6f64] Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (life sentences) is amended as follows.
+(1)[^c-180ff84f409df374a41205afc0da6f64] Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (life sentences) is amended as follows.
 
-(2)[^key-180ff84f409df374a41205afc0da6f64] In section 31 (duration and conditions of licences)—
+(2)[^c-180ff84f409df374a41205afc0da6f64] In section 31 (duration and conditions of licences)—
 
 - (a) in subsection (3), after paragraph (a) (but before the “or”) insert—
 
@@ -86,7 +86,7 @@ summary: ''
     >   - (b) a sentence of detention for public protection under section 226 of the Criminal Justice Act 2003 (including one passed as a result of section 221 of the Armed Forces Act 2006);
 
     ;
-  - (ii)[^key-a7bf9de3ea1c6a01bd763385238b72a1][^key-d96731aa1e053252010efe496cc2fcdb] in the definition of “the qualifying period”, for the words from “the period” to the end of the definition substitute
+  - (ii)[^c-a7bf9de3ea1c6a01bd763385238b72a1][^c-d96731aa1e053252010efe496cc2fcdb] in the definition of “the qualifying period”, for the words from “the period” to the end of the definition substitute
 
     > —
     >
@@ -100,7 +100,7 @@ summary: ''
   >
   > (7) A statutory instrument containing regulations under subsection (6) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-(4)[^key-180ff84f409df374a41205afc0da6f64] In section 32 (recall of life prisoners while on licence)—
+(4)[^c-180ff84f409df374a41205afc0da6f64] In section 32 (recall of life prisoners while on licence)—
 
 - (a) after subsection (1) insert—
 
@@ -117,7 +117,7 @@ summary: ''
   >
   > (5E) Where the Secretary of State makes a determination under subsection (5C), the Secretary of State must notify the prisoner.
 
-(5)[^key-180ff84f409df374a41205afc0da6f64] After section 32 insert—
+(5)[^c-180ff84f409df374a41205afc0da6f64] After section 32 insert—
 
 > **32ZZA. Imprisonment or detention for public protection: powers in relation to release of recalled prisoners**
 >
@@ -143,10 +143,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9fd3d16227da5af7a8ce4a0fbe7acea0]: Commencement: S. 66 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-9fd3d16227da5af7a8ce4a0fbe7acea0]: Commencement: S. 66 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-180ff84f409df374a41205afc0da6f64]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2024/21/section/66) (except s. 66(3)(e)(ii)) in force at 1.11.2024 by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2024/966/regulation/3/1/a)
+[^c-180ff84f409df374a41205afc0da6f64]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2024/21/section/66) (except s. 66(3)(e)(ii)) in force at 1.11.2024 by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2024/966/regulation/3/1/a)
 
-[^key-a7bf9de3ea1c6a01bd763385238b72a1]: Commencement: [S. 66(3)(e)(ii)](https://www.legislation.gov.uk/ukpga/2024/21/section/66/3/e/ii) in force at 1.11.2024 for specified purposes by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2024/966/regulation/3/2)
+[^c-a7bf9de3ea1c6a01bd763385238b72a1]: Commencement: [S. 66(3)(e)(ii)](https://www.legislation.gov.uk/ukpga/2024/21/section/66/3/e/ii) in force at 1.11.2024 for specified purposes by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2024/966/regulation/3/2)
 
-[^key-d96731aa1e053252010efe496cc2fcdb]: Commencement: [S. 66(3)(e)(ii)](https://www.legislation.gov.uk/ukpga/2024/21/section/66/3/e/ii) in force at 1.2.2025 in so far as not already in force by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 4](https://www.legislation.gov.uk/uksi/2024/966/regulation/4)
+[^c-d96731aa1e053252010efe496cc2fcdb]: Commencement: [S. 66(3)(e)(ii)](https://www.legislation.gov.uk/ukpga/2024/21/section/66/3/e/ii) in force at 1.2.2025 in so far as not already in force by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 4](https://www.legislation.gov.uk/uksi/2024/966/regulation/4)

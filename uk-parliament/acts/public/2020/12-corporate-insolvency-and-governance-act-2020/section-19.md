@@ -28,7 +28,7 @@ summary: ''
 (2) In subsection (1)(a) “**relevant period**” means the period which—
 
 - (a) begins with the day on which this section comes into force, and
-- (b) ends with 30 June 2021[^key-62ef1e972a369007ce9a0d84ebb49b09].
+- (b) ends with 30 June 2021[^c-62ef1e972a369007ce9a0d84ebb49b09].
 
 (3) For the purposes of subsection (1)(b), whether the supplier is a “small entity” at the time the company becomes subject to a relevant insolvency procedure (the “ relevant time ”) is to be determined under subsections (4) to (10).
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62ef1e972a369007ce9a0d84ebb49b09]: Textual amendment: Words in [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2020/12/section/19/2/b) substituted (29.3.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Certain Relevant Periods) Regulations (Northern Ireland) 2021 (S.R. 2021/75)](https://www.legislation.gov.uk/nisr/2021/75), [regs. 1](https://www.legislation.gov.uk/nisr/2021/75/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2021/75/regulation/2/a)
+[^c-62ef1e972a369007ce9a0d84ebb49b09]: Textual amendment: Words in [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2020/12/section/19/2/b) substituted (29.3.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Certain Relevant Periods) Regulations (Northern Ireland) 2021 (S.R. 2021/75)](https://www.legislation.gov.uk/nisr/2021/75), [regs. 1](https://www.legislation.gov.uk/nisr/2021/75/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2021/75/regulation/2/a)

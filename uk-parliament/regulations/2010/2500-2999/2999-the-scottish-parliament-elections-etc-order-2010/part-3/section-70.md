@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Illegal canvassing by police officers[^key-cc42c5cc9d1d47ba4946169e065b34ea]
+## 70. Illegal canvassing by police officers[^c-cc42c5cc9d1d47ba4946169e065b34ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc42c5cc9d1d47ba4946169e065b34ea]: Commencement: Art. 70 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-cc42c5cc9d1d47ba4946169e065b34ea]: Commencement: Art. 70 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

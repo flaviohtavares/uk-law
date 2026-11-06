@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Notice of revocation of recognition of individually recognised scheme[^key-d367ce07359268f0aca32aa2c14ab4fb]
+## 48. Notice of revocation of recognition of individually recognised scheme[^c-d367ce07359268f0aca32aa2c14ab4fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ the notice has effect after commencement as a warning notice under section 280(1
 
 ## Annotations
 
-[^key-d367ce07359268f0aca32aa2c14ab4fb]: Commencement: Art. 48 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-d367ce07359268f0aca32aa2c14ab4fb]: Commencement: Art. 48 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 4.10. Interim faculties and interim injunctions and restoration orders[^key-b73abe952f627b235fcb14caa18f9263]
+## 4.10. Interim faculties and interim injunctions and restoration orders[^c-b73abe952f627b235fcb14caa18f9263]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ This Part is without prejudice to the court’s power at any time to grant an in
 
 ## Annotations
 
-[^key-b73abe952f627b235fcb14caa18f9263]: Textual amendment: Pt. 4 substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1184/rule/6) (with [rule 23(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/2))
+[^c-b73abe952f627b235fcb14caa18f9263]: Textual amendment: Pt. 4 substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1184/rule/6) (with [rule 23(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/2))

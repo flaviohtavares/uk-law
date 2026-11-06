@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Child Benefit and Social Security (Fixing and Adjustment of Rates) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-52219ea9f765b7dfa7fd8d861d05fa95]
+The Child Benefit and Social Security (Fixing and Adjustment of Rates) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-52219ea9f765b7dfa7fd8d861d05fa95]
 
 Made
 
@@ -40,32 +40,32 @@ Coming into operation
 
 6th July 1998
 
-[^key-52219ea9f765b7dfa7fd8d861d05fa95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52219ea9f765b7dfa7fd8d861d05fa95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-52219ea9f765b7dfa7fd8d861d05fa95]
+## 1. Citation, commencement and interpretation[^c-52219ea9f765b7dfa7fd8d861d05fa95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-52219ea9f765b7dfa7fd8d861d05fa95]
+## 2. Amendment of the principal Regulations[^c-52219ea9f765b7dfa7fd8d861d05fa95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons ceasing to receive specified benefits[^key-52219ea9f765b7dfa7fd8d861d05fa95]
+## 3. Persons ceasing to receive specified benefits[^c-52219ea9f765b7dfa7fd8d861d05fa95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions and savings[^key-52219ea9f765b7dfa7fd8d861d05fa95]
+## 4. Transitional provisions and savings[^c-52219ea9f765b7dfa7fd8d861d05fa95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52219ea9f765b7dfa7fd8d861d05fa95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52219ea9f765b7dfa7fd8d861d05fa95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-52219ea9f765b7dfa7fd8d861d05fa95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52219ea9f765b7dfa7fd8d861d05fa95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52219ea9f765b7dfa7fd8d861d05fa95]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/239) revoked (10.4.2006) by [The Child Benefit (Rates) Regulations 2006 (S.I. 2006/965)](https://www.legislation.gov.uk/uksi/2006/965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/965/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/965/regulation/4)
+[^c-52219ea9f765b7dfa7fd8d861d05fa95]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/239) revoked (10.4.2006) by [The Child Benefit (Rates) Regulations 2006 (S.I. 2006/965)](https://www.legislation.gov.uk/uksi/2006/965), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/965/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/965/regulation/4)

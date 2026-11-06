@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Continuity[^M_I_c8e85a40-e5f5-461c-bbec-cd543bde38ef][^key-4e47536c166e11ced74d26613e795443]
+## 18. Continuity[^M_I_c8e85a40-e5f5-461c-bbec-cd543bde38ef][^c-4e47536c166e11ced74d26613e795443]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,16 +33,16 @@ summary: ''
 - (a) a transferor to provide a transferee with information and assistance;
 - (b) a transferee to provide a transferor with information and assistance.
 
-(5A)[^key-2682e22046f193aa9160f19060a094e1] This section applies to a mandatory reduction instrument as it applies to a share transfer instrument; and in relation to a mandatory reduction instrument references in this section to a “transfer” are to a transfer of securities (whether made by that or another mandatory reduction instrument) and “transferor” and “transferee” are to be read accordingly.
+(5A)[^c-2682e22046f193aa9160f19060a094e1] This section applies to a mandatory reduction instrument as it applies to a share transfer instrument; and in relation to a mandatory reduction instrument references in this section to a “transfer” are to a transfer of securities (whether made by that or another mandatory reduction instrument) and “transferor” and “transferee” are to be read accordingly.
 
-(6)[^key-2ec3d6017c97fade9c8be1b1ace1dcdd] This section applies to a resolution instrument as it applies to a share transfer instrument; and in relation to a resolution instrument references in this section to a “transfer” are to a transfer of securities (whether made by that or another resolution instrument) and “**transferor**” and “**transferee**” are to be read accordingly.
+(6)[^c-2ec3d6017c97fade9c8be1b1ace1dcdd] This section applies to a resolution instrument as it applies to a share transfer instrument; and in relation to a resolution instrument references in this section to a “transfer” are to a transfer of securities (whether made by that or another resolution instrument) and “**transferor**” and “**transferee**” are to be read accordingly.
 
 ## Annotations
 
 [^M_I_c8e85a40-e5f5-461c-bbec-cd543bde38ef]: Commencement: S. 18 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-4e47536c166e11ced74d26613e795443]: Commencement: S. 18 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-4e47536c166e11ced74d26613e795443]: Commencement: S. 18 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-2682e22046f193aa9160f19060a094e1]: Textual amendment: S. 18(5A) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [25](https://www.legislation.gov.uk/uksi/2014/3329/article/25)
+[^c-2682e22046f193aa9160f19060a094e1]: Textual amendment: S. 18(5A) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [25](https://www.legislation.gov.uk/uksi/2014/3329/article/25)
 
-[^key-2ec3d6017c97fade9c8be1b1ace1dcdd]: Textual amendment: S. 18(6) inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/15); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-2ec3d6017c97fade9c8be1b1ace1dcdd]: Textual amendment: S. 18(6) inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/15); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)

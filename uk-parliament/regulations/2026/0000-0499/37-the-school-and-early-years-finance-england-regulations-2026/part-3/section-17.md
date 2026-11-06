@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Lump sums for primary and secondary schools[^key-cfe05c9342846b777a593760dc88c15c]
+## 17. Lump sums for primary and secondary schools[^c-cfe05c9342846b777a593760dc88c15c]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cfe05c9342846b777a593760dc88c15c]: Commencement: Reg. 17 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-cfe05c9342846b777a593760dc88c15c]: Commencement: Reg. 17 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00058]: Footnote: “**Middle school**” has the meaning given by section 5(3) of the 1996 Act, by virtue of section 142(8) of the 1998 Act, which provides that (in the absence of a different meaning) the 1998 Act is to be construed as one with the 1996 Act. Section 5(3) was substituted by paragraph 7 of Schedule 3 to, the 2006 Act.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Authorised landfill sites and environmental permits[^key-91b2849cd602792b8fd6c3dbbcefe2d0]
+## 5. Authorised landfill sites and environmental permits[^c-91b2849cd602792b8fd6c3dbbcefe2d0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91b2849cd602792b8fd6c3dbbcefe2d0]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2017/3/section/5) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-91b2849cd602792b8fd6c3dbbcefe2d0]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2017/3/section/5) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

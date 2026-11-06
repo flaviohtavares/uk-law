@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Power to direct that functions be exercised by other persons[^key-579c26b6721635204647fef7748a42cc]
+## 9. Power to direct that functions be exercised by other persons[^c-579c26b6721635204647fef7748a42cc]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-579c26b6721635204647fef7748a42cc]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2008/5/section/9) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-579c26b6721635204647fef7748a42cc]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2008/5/section/9) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Amendment of section 74 (Welsh text)[^key-9f0cde29efd46a70743142dcb428008f]
+## 123. Amendment of section 74 (Welsh text)[^c-9f0cde29efd46a70743142dcb428008f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f0cde29efd46a70743142dcb428008f]: Commencement: Reg. 123 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-9f0cde29efd46a70743142dcb428008f]: Commencement: Reg. 123 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

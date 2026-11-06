@@ -31,7 +31,7 @@ summary: ''
 
 INCOME TAX
 
-The Capital Allowances (Environmentally Beneficial Plant and Machinery) Order 2003 (revoked)[^key-3cc57740f8692755b72e17214662d5e9]
+The Capital Allowances (Environmentally Beneficial Plant and Machinery) Order 2003 (revoked)[^c-3cc57740f8692755b72e17214662d5e9]
 
 Made
 
@@ -45,34 +45,34 @@ Coming into force
 
 1st September 2003
 
-[^key-3cc57740f8692755b72e17214662d5e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cc57740f8692755b72e17214662d5e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3cc57740f8692755b72e17214662d5e9]
+## 1. Citation and commencement[^c-3cc57740f8692755b72e17214662d5e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3cc57740f8692755b72e17214662d5e9]
+## 2. Interpretation[^c-3cc57740f8692755b72e17214662d5e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Description of environmentally beneficial plant and machinery[^key-3cc57740f8692755b72e17214662d5e9]
+## 3. Description of environmentally beneficial plant and machinery[^c-3cc57740f8692755b72e17214662d5e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Environmentally beneficial components of plant or machinery[^key-3cc57740f8692755b72e17214662d5e9]
+## 4. Environmentally beneficial components of plant or machinery[^c-3cc57740f8692755b72e17214662d5e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Certification of environmentally beneficial plant and machinery[^key-3cc57740f8692755b72e17214662d5e9]
+## 5. Certification of environmentally beneficial plant and machinery[^c-3cc57740f8692755b72e17214662d5e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3cc57740f8692755b72e17214662d5e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cc57740f8692755b72e17214662d5e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3cc57740f8692755b72e17214662d5e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cc57740f8692755b72e17214662d5e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3cc57740f8692755b72e17214662d5e9]: Textual amendment: Order revoked (with effect in relation to expenditure incurred on or after 1.4.2020 for corporation tax purposes and 6.4.2020 for income tax purposes) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(3)(a)(5)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/3/a)
+[^c-3cc57740f8692755b72e17214662d5e9]: Textual amendment: Order revoked (with effect in relation to expenditure incurred on or after 1.4.2020 for corporation tax purposes and 6.4.2020 for income tax purposes) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(3)(a)(5)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/3/a)

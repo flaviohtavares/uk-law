@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Service of notices[^key-49a18ad4874e9f613e62786c0907d602]
+## 34. Service of notices[^c-49a18ad4874e9f613e62786c0907d602]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ summary: ''
 
 ## Annotations
 
-[^key-49a18ad4874e9f613e62786c0907d602]: Commencement: Art. 34 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-49a18ad4874e9f613e62786c0907d602]: Commencement: Art. 34 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
 [^f00060]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 

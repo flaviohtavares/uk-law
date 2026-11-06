@@ -31,7 +31,7 @@ summary: ''
 
 Veterinary Surgeons
 
-The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2018 (revoked)[^key-17169c5dc2c0264ea404692fb80d15a1]
+The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2018 (revoked)[^c-17169c5dc2c0264ea404692fb80d15a1]
 
 Made
 
@@ -45,38 +45,38 @@ At the Council Chamber, Whitehall, the 29th day of January 2018
 
 By the Lords of Her Majesty's Most Honourable Privy Council
 
-[^key-17169c5dc2c0264ea404692fb80d15a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17169c5dc2c0264ea404692fb80d15a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-17169c5dc2c0264ea404692fb80d15a1]
+## 1. Title and commencement[^c-17169c5dc2c0264ea404692fb80d15a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval[^key-17169c5dc2c0264ea404692fb80d15a1]
+## 2. Approval[^c-17169c5dc2c0264ea404692fb80d15a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17169c5dc2c0264ea404692fb80d15a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17169c5dc2c0264ea404692fb80d15a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations 2018[^key-17169c5dc2c0264ea404692fb80d15a1]
+## SCHEDULE — The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations 2018[^c-17169c5dc2c0264ea404692fb80d15a1]
 
 Article 2
 
-[^key-17169c5dc2c0264ea404692fb80d15a1]
+[^c-17169c5dc2c0264ea404692fb80d15a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17169c5dc2c0264ea404692fb80d15a1]
+[^c-17169c5dc2c0264ea404692fb80d15a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-17169c5dc2c0264ea404692fb80d15a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17169c5dc2c0264ea404692fb80d15a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-17169c5dc2c0264ea404692fb80d15a1]: Textual amendment: Order revoked (1.4.2020) by [The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2020 (S.I. 2020/42)](https://www.legislation.gov.uk/uksi/2020/42), [art. 1](https://www.legislation.gov.uk/uksi/2020/42/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/42/schedule/2)
+[^c-17169c5dc2c0264ea404692fb80d15a1]: Textual amendment: Order revoked (1.4.2020) by [The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2020 (S.I. 2020/42)](https://www.legislation.gov.uk/uksi/2020/42), [art. 1](https://www.legislation.gov.uk/uksi/2020/42/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/42/schedule/2)

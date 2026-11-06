@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 133. Mentally disordered offenders: compulsion orders[^key-7c042e275aa8ea53f9b94c4023e013fa][^key-11288436161319d9bb72ada5b2003a53]
+## 133. Mentally disordered offenders: compulsion orders[^c-7c042e275aa8ea53f9b94c4023e013fa][^c-11288436161319d9bb72ada5b2003a53]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ After section 57 of the 1995 Act there shall be inserted—
 >
 > **57A. Compulsion order**
 >
-> (1) This section applies where a person (in this section and in sections 57B to[^key-a16cde1a03a7ec3c76211417c5a60343] 57D of this Act, referred to as the “**offender**”)—
+> (1) This section applies where a person (in this section and in sections 57B to[^c-a16cde1a03a7ec3c76211417c5a60343] 57D of this Act, referred to as the “**offender**”)—
 >
 > - (a) is convicted in the High Court or the sheriff court of an offence punishable by imprisonment (other than an offence the sentence for which is fixed by law); or
 > - (b) is remitted to the High Court by the sheriff under any enactment for sentence for such an offence.
@@ -207,8 +207,8 @@ After section 57 of the 1995 Act there shall be inserted—
 
 ## Annotations
 
-[^key-7c042e275aa8ea53f9b94c4023e013fa]: Commencement: S. 133 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-7c042e275aa8ea53f9b94c4023e013fa]: Commencement: S. 133 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-11288436161319d9bb72ada5b2003a53]: Commencement: [S. 133](https://www.legislation.gov.uk/asp/2003/13/section/133) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-11288436161319d9bb72ada5b2003a53]: Commencement: [S. 133](https://www.legislation.gov.uk/asp/2003/13/section/133) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
 
-[^key-a16cde1a03a7ec3c76211417c5a60343]: Textual amendment: Words in s. 133 substituted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(14)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/14)
+[^c-a16cde1a03a7ec3c76211417c5a60343]: Textual amendment: Words in s. 133 substituted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(14)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/14)

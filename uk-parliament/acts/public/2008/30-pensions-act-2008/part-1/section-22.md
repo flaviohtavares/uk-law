@@ -22,7 +22,7 @@ summary: ''
 
 (1) A scheme satisfies the test scheme standard in relation to a jobholder (J) if the pensions to be provided for the relevant members of the scheme are broadly equivalent to, or better than, the pensions which would be provided for them under a test scheme.
 
-(2)[^key-ea87f44a52de6447078e3267ec57afb9] Subject to subsection (3), the relevant members are J and all active members who are jobholders of the same employer as J.
+(2)[^c-ea87f44a52de6447078e3267ec57afb9] Subject to subsection (3), the relevant members are J and all active members who are jobholders of the same employer as J.
 
 (3) In applying this section the pensions to be provided for relevant members must be considered as a whole.
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c19537361]: Commencement: S. 22 wholly in force at 30.6.2012; s. 22 in force for certain purposes at Royal Assent see s. 149(2)(k); s. 22 in force so far as not already in force at 30.6.2012 by [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2(1)(2)(a)](https://www.legislation.gov.uk/uksi/2012/1682/article/2/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1682/schedule/1)
 
-[^key-ea87f44a52de6447078e3267ec57afb9]: Textual amendment: [S. 22(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/22/2) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 83](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/83)
+[^c-ea87f44a52de6447078e3267ec57afb9]: Textual amendment: [S. 22(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/22/2) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 83](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/83)
 
 [^c21673721]: Textual amendment: S. 22(8) inserted (3.11.2011 for specified purposes otherwise 30.6.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/11/1), [38(1)(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1/4); [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/1/c)

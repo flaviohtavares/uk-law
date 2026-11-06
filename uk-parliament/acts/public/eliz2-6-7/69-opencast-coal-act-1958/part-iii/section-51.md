@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-fe6198f8ca9ba8622cfc50e1de05f09d][^key-8b59d8e1dda97521b82296ddf3965521] In this Act, except in so far as the context otherwise requires, the following expressions have the meanings hereby assigned to them respectively, that is to say:—
+(1)[^c-fe6198f8ca9ba8622cfc50e1de05f09d][^c-8b59d8e1dda97521b82296ddf3965521] In this Act, except in so far as the context otherwise requires, the following expressions have the meanings hereby assigned to them respectively, that is to say:—
 
 - [^c6625641]. . .
 - “the Act of 1986” means the[^c6625651] [^c6625661]Agricultural Holdings Act 1986;
@@ -68,13 +68,13 @@ summary: ''
   - (a) the working of coal by opencast operations pursuant to opencast planning permission and the carrying out of operations incidental to such working; and
   - (b) the carrying out of any conditions subject to which opencast planning permission has been granted;;
 - “**persons directly concerned**” has (subject to the provisions of sections seven and eight of this Act) the meaning assigned to it by section 5 of this Act;
-- “planning permission” means planning permission under Part III[^c6625941] or, in relation to England, Part 13[^key-59abafd0b649f2f549dd7ee941c38ef6] of the Act of 1990[^c6625951]
+- “planning permission” means planning permission under Part III[^c6625941] or, in relation to England, Part 13[^c-59abafd0b649f2f549dd7ee941c38ef6] of the Act of 1990[^c6625951]
 - “**prescribed**” means prescribed by regulations made under this Act;
 - “**restoration**”, in relation to land, includes rehabilitation, and “**restore**” shall be construed accordingly;
 - [^c6625961]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c6625971]. . .
 - [^c6625971]. . .
-- “**statutory undertakers**” and “**statutory undertaking**” have the same meanings as in the Act of 1971(but excluding a universal service provider within the meaning of[^c6626001] Part 3 of the Postal Services Act 2011[^key-1c4667de7e1106af96ff151e1dd92d24] and his undertaking);
+- “**statutory undertakers**” and “**statutory undertaking**” have the same meanings as in the Act of 1971(but excluding a universal service provider within the meaning of[^c6626001] Part 3 of the Postal Services Act 2011[^c-1c4667de7e1106af96ff151e1dd92d24] and his undertaking);
 - “successor”, in relation to an applicant for an order under any provision of this Act, means any person (whether or not the immediate successor of the applicant) who—[^c6626011]
   - (a) in accordance with the provisions of any licence granted to the applicant under Part II of the Coal Industry Act 1994, succeeds to any entitlement of that applicant under that licence to work any coal by opencast operations; or
   - (b) becomes entitled by virtue of the grant of a new licence under that Part of that Act to work by such operations any coal which the applicant was previously entitled so to work as a licensed operator within the meaning of that Act;
@@ -115,9 +115,9 @@ and any right over land which constitutes an easement or similar right in relati
 
 ## Annotations
 
-[^key-fe6198f8ca9ba8622cfc50e1de05f09d]: Modification: S. 51(1) transfer of functions (7.5.2008) by [Transfer of Functions (Miscellaneous) Order 2008 (S.I. 2008/1034)](https://www.legislation.gov.uk/uksi/2008/1034), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1034/article/1/2), [5](https://www.legislation.gov.uk/uksi/2008/1034/article/5)
+[^c-fe6198f8ca9ba8622cfc50e1de05f09d]: Modification: S. 51(1) transfer of functions (7.5.2008) by [Transfer of Functions (Miscellaneous) Order 2008 (S.I. 2008/1034)](https://www.legislation.gov.uk/uksi/2008/1034), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1034/article/1/2), [5](https://www.legislation.gov.uk/uksi/2008/1034/article/5)
 
-[^key-8b59d8e1dda97521b82296ddf3965521]: Modification: S. 51(1) transfer of functions (5.3.2009) by [Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/229/article/4), [Sch. 1(a)](https://www.legislation.gov.uk/uksi/2009/229/schedule/1/a)
+[^c-8b59d8e1dda97521b82296ddf3965521]: Modification: S. 51(1) transfer of functions (5.3.2009) by [Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/229/article/4), [Sch. 1(a)](https://www.legislation.gov.uk/uksi/2009/229/schedule/1/a)
 
 [^c6625641]: Textual amendment: Definition “the Acquisition of Land Act” repealed (E.W.) by [Acquisition of Land Act 1981 (c. 67, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1981/67), [s. 34(3)](https://www.legislation.gov.uk/ukpga/1981/67/section/34/3), [Sch 6 Pt. I](https://www.legislation.gov.uk/ukpga/1981/67/schedule/6/part/I)
 
@@ -177,7 +177,7 @@ and any right over land which constitutes an easement or similar right in relati
 
 [^c6625941]: Textual amendment: Definition inserted by Housing and Planning Act [1986 c. 63](https://www.legislation.gov.uk/ukpga/1986/63), [s. 39(3)](https://www.legislation.gov.uk/ukpga/1986/63/section/39/3), [Sch. 8 para. 13(c)](https://www.legislation.gov.uk/ukpga/1986/63/schedule/8/paragraph/13/c)
 
-[^key-59abafd0b649f2f549dd7ee941c38ef6]: Textual amendment: Words in [s. 51](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/69/section/51) inserted (1.5.2025) by [The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418)](https://www.legislation.gov.uk/uksi/2025/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/418/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2025/418/regulation/3)
+[^c-59abafd0b649f2f549dd7ee941c38ef6]: Textual amendment: Words in [s. 51](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/69/section/51) inserted (1.5.2025) by [The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418)](https://www.legislation.gov.uk/uksi/2025/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/418/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2025/418/regulation/3)
 
 [^c6625951]: Textual amendment: Words substituted by [Planning (consequential Provisions) Act 1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 5(c)(ii)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/5/c/ii)
 
@@ -187,7 +187,7 @@ and any right over land which constitutes an easement or similar right in relati
 
 [^c6626001]: Textual amendment: Words in the definition of “statutory undertakers” and “statutory undertaking” in s. 51(1) inserted by virtue of [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/16/2)
 
-[^key-1c4667de7e1106af96ff151e1dd92d24]: Textual amendment: Words in [s. 51(1)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/69/section/51/1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 80](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/80); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-1c4667de7e1106af96ff151e1dd92d24]: Textual amendment: Words in [s. 51(1)](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/69/section/51/1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 80](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/80); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c6626011]: Textual amendment: Definition in s. 51(1) inserted (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 52](https://www.legislation.gov.uk/ukpga/1994/21/section/52), [Sch. 8 para. 36(b)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/8/paragraph/36/b) (with [s. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 

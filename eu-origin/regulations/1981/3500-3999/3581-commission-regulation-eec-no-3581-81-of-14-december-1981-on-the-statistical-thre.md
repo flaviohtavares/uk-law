@@ -31,10 +31,10 @@ Commission Regulation (EEC) No 3581/81
 
 of 14 December 1981 on the statistical threshold in the external trade statistics of the Community and statistics of trade between Member States (revoked)
 
-[^key-c97e1c3f9338c5dcd8d705cb23a2cd8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c97e1c3f9338c5dcd8d705cb23a2cd8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-c97e1c3f9338c5dcd8d705cb23a2cd8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-c97e1c3f9338c5dcd8d705cb23a2cd8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c97e1c3f9338c5dcd8d705cb23a2cd8c]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/6)
+[^c-c97e1c3f9338c5dcd8d705cb23a2cd8c]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Welsh Ministers’ duty in relation to the objectives[^key-5f411797049d074ea210579421aa4e52]
+## 2. Welsh Ministers’ duty in relation to the objectives[^c-5f411797049d074ea210579421aa4e52]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f411797049d074ea210579421aa4e52]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2023/4/section/2) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)
+[^c-5f411797049d074ea210579421aa4e52]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2023/4/section/2) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)

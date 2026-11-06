@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Amendment of the National Health Service (Primary Ophthalmic Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013[^key-7588247c9981494ead9337b721185289]
+## 64. Amendment of the National Health Service (Primary Ophthalmic Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013[^c-7588247c9981494ead9337b721185289]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7588247c9981494ead9337b721185289]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2023/1071/regulation/64) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-7588247c9981494ead9337b721185289]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2023/1071/regulation/64) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00053]: Footnote: [S.I. 2013/365](https://www.legislation.gov.uk/uksi/2013/365).

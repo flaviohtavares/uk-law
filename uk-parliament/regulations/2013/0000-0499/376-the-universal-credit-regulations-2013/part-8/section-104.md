@@ -38,7 +38,7 @@ summary: ''
   - (iv) the date on which the award terminates (other than by reason of the claimant ceasing to be, or becoming, a member of a couple),
 
   whichever is soonest; and
-- (b)[^key-133e8960011dacc310a575a758061195] in the circumstances described in the first column of the following table, the number of days set out in the second column.
+- (b)[^c-133e8960011dacc310a575a758061195] in the circumstances described in the first column of the following table, the number of days set out in the second column.
 
 |  |  |
 | --- | --- |
@@ -63,10 +63,10 @@ summary: ''
   - (iv) date on which the award terminates (other than by reason of the claimant ceasing to be, or becoming, a member of a couple),
 
   whichever is soonest; and
-- (b)[^key-37000f2c2b27fae2d8d739f2df32ae5f] if there was another sanctionable failure of a kind mentioned in paragraph (1) within 365 days, but not within 14 days, beginning with the date of the current sanctionable failure, 7 days.
+- (b)[^c-37000f2c2b27fae2d8d739f2df32ae5f] if there was another sanctionable failure of a kind mentioned in paragraph (1) within 365 days, but not within 14 days, beginning with the date of the current sanctionable failure, 7 days.
 
 ## Annotations
 
-[^key-133e8960011dacc310a575a758061195]: Textual amendment: Reg. 104(2)(b) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker's Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [5(9)(a)](https://www.legislation.gov.uk/uksi/2016/678/regulation/5/9/a)
+[^c-133e8960011dacc310a575a758061195]: Textual amendment: Reg. 104(2)(b) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker's Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [5(9)(a)](https://www.legislation.gov.uk/uksi/2016/678/regulation/5/9/a)
 
-[^key-37000f2c2b27fae2d8d739f2df32ae5f]: Textual amendment: Reg. 104(3)(b) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker's Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [5(9)(b)](https://www.legislation.gov.uk/uksi/2016/678/regulation/5/9/b)
+[^c-37000f2c2b27fae2d8d739f2df32ae5f]: Textual amendment: Reg. 104(3)(b) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker's Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [5(9)(b)](https://www.legislation.gov.uk/uksi/2016/678/regulation/5/9/b)

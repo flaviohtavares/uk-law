@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule A1 — Information to be included in a specification for a new school[^key-2a29727fdd76442da6d078cb5fc4a64c]
+## Schedule A1 — Information to be included in a specification for a new school[^c-2a29727fdd76442da6d078cb5fc4a64c]
 
 *Extent: E+W*
 
@@ -108,4 +108,4 @@ The arrangements which the alternative provision school should have for—
 
 ## Annotations
 
-[^key-2a29727fdd76442da6d078cb5fc4a64c]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2013/3109/schedule/A1) inserted (1.9.2026) by [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/528/schedule) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))
+[^c-2a29727fdd76442da6d078cb5fc4a64c]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2013/3109/schedule/A1) inserted (1.9.2026) by [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/528/schedule) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))

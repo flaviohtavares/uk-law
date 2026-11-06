@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 21. Consent to dealings[^key-51c0551a68e4c06fd950c62a20102a1a]
+## 21. Consent to dealings[^c-51c0551a68e4c06fd950c62a20102a1a]
 
 *Extent: E*
 
@@ -39,8 +39,8 @@ summary: ''
 
 (4) The condition in this subsection is that the DBF or subsidiary—
 
-- (a) has obtained a written report on the proposed transaction from a designated adviser[^key-5ecbc8d79ca6973906e085a104c26004] instructed by and acting exclusively for it,
-- (b)[^key-bb57222672a316ab5ee810bf7894d56a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+- (a) has obtained a written report on the proposed transaction from a designated adviser[^c-5ecbc8d79ca6973906e085a104c26004] instructed by and acting exclusively for it,
+- (b)[^c-bb57222672a316ab5ee810bf7894d56a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
 - (c) having considered the report, is satisfied that the terms of the proposed transaction are the best that can be reasonably obtained for the diocese.
 
 (5) The consent of the Commissioners is not required if the disposition would give effect to the entitlement of a tenant under an enactment—
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-51c0551a68e4c06fd950c62a20102a1a]: Commencement: [S. 21](https://www.legislation.gov.uk/ukcm/2018/8/section/21) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-51c0551a68e4c06fd950c62a20102a1a]: Commencement: [S. 21](https://www.legislation.gov.uk/ukcm/2018/8/section/21) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-5ecbc8d79ca6973906e085a104c26004]: Textual amendment: Words in [s. 21(4)(a)](https://www.legislation.gov.uk/ukcm/2018/8/section/21/4/a) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/4), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-5ecbc8d79ca6973906e085a104c26004]: Textual amendment: Words in [s. 21(4)(a)](https://www.legislation.gov.uk/ukcm/2018/8/section/21/4/a) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/4), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
 
-[^key-bb57222672a316ab5ee810bf7894d56a]: Textual amendment: [S. 21(4)(b)](https://www.legislation.gov.uk/ukcm/2018/8/section/21/4/b) omitted (17.5.2024) by virtue of [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(2)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/2), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-bb57222672a316ab5ee810bf7894d56a]: Textual amendment: [S. 21(4)(b)](https://www.legislation.gov.uk/ukcm/2018/8/section/21/4/b) omitted (17.5.2024) by virtue of [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(2)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/2), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)

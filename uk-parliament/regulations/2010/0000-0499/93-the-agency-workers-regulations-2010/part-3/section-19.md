@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Calculating a week's pay[^key-79801ac0b9b8b1caffec0a618ff5be95][^key-5dbde440a05d6abc19bc0153e3ac26d2]
+## 19. Calculating a week's pay[^c-79801ac0b9b8b1caffec0a618ff5be95][^c-5dbde440a05d6abc19bc0153e3ac26d2]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-79801ac0b9b8b1caffec0a618ff5be95]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/93/regulation/19) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2019/724/regulation/5/7) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-79801ac0b9b8b1caffec0a618ff5be95]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/93/regulation/19) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2019/724/regulation/5/7) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
-[^key-5dbde440a05d6abc19bc0153e3ac26d2]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/93/regulation/19) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/724/regulation/4/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-5dbde440a05d6abc19bc0153e3ac26d2]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/93/regulation/19) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/724/regulation/4/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))

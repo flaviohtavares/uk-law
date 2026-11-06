@@ -708,13 +708,13 @@ Unless falling within Part A(1) or Part A(2) of this Section—
 
 **Part A(1)**
 
-- (a) Disposal of non-hazardous waste with a capacity exceeding 50 tonnes per day (or 100 tonnes per day if the only waste treatment activity is anaerobic digestion) involving one or more of the following activities, and excluding activities covered by the Urban Waste Water Treatment (England and Wales) Regulations 1994[^key-ce3bd835d47ccc8f8f28fe2a91c3e90c]—
+- (a) Disposal of non-hazardous waste with a capacity exceeding 50 tonnes per day (or 100 tonnes per day if the only waste treatment activity is anaerobic digestion) involving one or more of the following activities, and excluding activities covered by the Urban Waste Water Treatment (England and Wales) Regulations 1994[^c-ce3bd835d47ccc8f8f28fe2a91c3e90c]—
   - (i) biological treatment;
   - (ii) physico-chemical treatment;
   - (iii) pre-treatment waste for incineration or co-incineration;
   - (iv) treatment of slags and ashes;
   - (v) treatment in shredders of metal waste, including waste electrical and electronic equipment and end-of-life vehicles and their components.
-- (b) Recovery or a mix of recovery and disposal of non-hazardous waste with a capacity exceeding 75 tonnes per day (or 100 tonnes per day if the only waste treatment activity is anaerobic digestion) involving one or more of the following activities, and excluding activities covered by the Urban Waste Water Treatment (England and Wales) Regulations 1994[^key-b869dd3f63a7fb1e07dad808f3de4557]—
+- (b) Recovery or a mix of recovery and disposal of non-hazardous waste with a capacity exceeding 75 tonnes per day (or 100 tonnes per day if the only waste treatment activity is anaerobic digestion) involving one or more of the following activities, and excluding activities covered by the Urban Waste Water Treatment (England and Wales) Regulations 1994[^c-b869dd3f63a7fb1e07dad808f3de4557]—
   - (i) biological treatment;
   - (ii) pre-treatment of waste for incineration or co-incineration;
   - (iii) treatment of slags and ashes;
@@ -743,7 +743,7 @@ Unless falling within Part A(1) or Part A(2) of this Section—
 
 **Part A(1)**
 
-- (a) Independently operated treatment of waste water not covered by the Urban Waste Water Treatment (England and Wales) Regulations 1994[^key-d2255977e013ab3fbb544718f9ded8ce] and discharged by an installation carrying out any other Part A(1) or A(2) activity.
+- (a) Independently operated treatment of waste water not covered by the Urban Waste Water Treatment (England and Wales) Regulations 1994[^c-d2255977e013ab3fbb544718f9ded8ce] and discharged by an installation carrying out any other Part A(1) or A(2) activity.
 
 #### CHAPTER 6 — Other activities
 
@@ -959,7 +959,7 @@ Unless falling within Part A(1) or Part A(2) of this Section—
 
 **Part A(1)**
 
-- (a) Capture of carbon dioxide streams from an installation for the purposes of geological storage pursuant to Chapter 3 of Part 1 of the Energy Act 2008 and other EU-derived domestic legislation which transposed Directive[^key-0c52b2a5347e789b8d51cfef800db6cf] [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) on the geological storage of carbon dioxide in relation to England and Wales.
+- (a) Capture of carbon dioxide streams from an installation for the purposes of geological storage pursuant to Chapter 3 of Part 1 of the Energy Act 2008 and other EU-derived domestic legislation which transposed Directive[^c-0c52b2a5347e789b8d51cfef800db6cf] [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) on the geological storage of carbon dioxide in relation to England and Wales.
 
 ## Annotations
 
@@ -969,10 +969,10 @@ Unless falling within Part A(1) or Part A(2) of this Section—
 
 [^c23192921]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-ce3bd835d47ccc8f8f28fe2a91c3e90c]: Textual amendment: Words in Sch. 1 Pt. 2 Ch. 5 substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(7)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/7/a/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce3bd835d47ccc8f8f28fe2a91c3e90c]: Textual amendment: Words in Sch. 1 Pt. 2 Ch. 5 substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(7)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/7/a/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b869dd3f63a7fb1e07dad808f3de4557]: Textual amendment: Words in Sch. 1 Pt. 2 Ch. 5 substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(7)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/7/a/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b869dd3f63a7fb1e07dad808f3de4557]: Textual amendment: Words in Sch. 1 Pt. 2 Ch. 5 substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(7)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/7/a/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d2255977e013ab3fbb544718f9ded8ce]: Textual amendment: Words in Sch. 1 Pt. 2 Ch. 5 substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d2255977e013ab3fbb544718f9ded8ce]: Textual amendment: Words in Sch. 1 Pt. 2 Ch. 5 substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0c52b2a5347e789b8d51cfef800db6cf]: Textual amendment: Words in Sch. 1 Pt. 2 Ch. 6 substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c52b2a5347e789b8d51cfef800db6cf]: Textual amendment: Words in Sch. 1 Pt. 2 Ch. 6 substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

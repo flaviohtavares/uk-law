@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15A. Reviews: information about domestic abuse[^key-dbf76548e5d06188c4e1e18d7930550b]
+## 15A. Reviews: information about domestic abuse[^c-dbf76548e5d06188c4e1e18d7930550b]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbf76548e5d06188c4e1e18d7930550b]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/asp/2020/7/section/15A) inserted (27.5.2020) by [Coronavirus (Scotland) (No.2) Act 2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [ss. 13(3)](https://www.legislation.gov.uk/asp/2020/10/section/13/3), [16(1)](https://www.legislation.gov.uk/asp/2020/10/section/16/1)
+[^c-dbf76548e5d06188c4e1e18d7930550b]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/asp/2020/7/section/15A) inserted (27.5.2020) by [Coronavirus (Scotland) (No.2) Act 2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [ss. 13(3)](https://www.legislation.gov.uk/asp/2020/10/section/13/3), [16(1)](https://www.legislation.gov.uk/asp/2020/10/section/16/1)

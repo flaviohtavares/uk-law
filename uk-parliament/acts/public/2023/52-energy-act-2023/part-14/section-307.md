@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 307. Provision of additional police services[^key-c9d1357c6b1da6616efa9b6051e04dda]
+## 307. Provision of additional police services[^c-c9d1357c6b1da6616efa9b6051e04dda]
 
 *Extent: E+W+S*
 
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9d1357c6b1da6616efa9b6051e04dda]: Commencement: S. 307 in force at Royal Assent, see [s. 334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
+[^c-c9d1357c6b1da6616efa9b6051e04dda]: Commencement: S. 307 in force at Royal Assent, see [s. 334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**94.**[^key-f3bd47fd1d5c797452fb7bc1049527ce] Schedule 3 amends subordinate legislation made pursuant to the Judicial Pensions Act 1981.
+**94.**[^c-f3bd47fd1d5c797452fb7bc1049527ce] Schedule 3 amends subordinate legislation made pursuant to the Judicial Pensions Act 1981.
 
 ## Annotations
 
-[^key-f3bd47fd1d5c797452fb7bc1049527ce]: Commencement: Art. 94 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-f3bd47fd1d5c797452fb7bc1049527ce]: Commencement: Art. 94 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

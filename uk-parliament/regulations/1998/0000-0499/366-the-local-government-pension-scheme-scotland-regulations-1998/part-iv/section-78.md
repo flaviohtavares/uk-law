@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 78. Employer’s contributions[^key-76b8696b7b21045505637ef46791f3e5]
+## 78. Employer’s contributions[^c-76b8696b7b21045505637ef46791f3e5]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76b8696b7b21045505637ef46791f3e5]: Commencement: Reg. 78 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-76b8696b7b21045505637ef46791f3e5]: Commencement: Reg. 78 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

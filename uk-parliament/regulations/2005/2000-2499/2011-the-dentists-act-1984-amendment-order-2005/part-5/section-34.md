@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Amendment of section 37[^key-3f399e8c49e7ac36c0f1de8eded2c412]
+## 34. Amendment of section 37[^c-3f399e8c49e7ac36c0f1de8eded2c412]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ In section 37 (definition of practice of dentistry)—
 
 ## Annotations
 
-[^key-3f399e8c49e7ac36c0f1de8eded2c412]: Commencement: Art. 34 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-3f399e8c49e7ac36c0f1de8eded2c412]: Commencement: Art. 34 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

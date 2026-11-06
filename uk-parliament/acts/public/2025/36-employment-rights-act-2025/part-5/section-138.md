@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Restriction on disclosure of intelligence service information[^key-f5d0fa53e82e71e8c662c6c7f4929375][^key-7deb089241ebaeee5dba876fbcdc44e2]
+## 138. Restriction on disclosure of intelligence service information[^c-f5d0fa53e82e71e8c662c6c7f4929375][^c-7deb089241ebaeee5dba876fbcdc44e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ But this does not affect the disclosures which a person serving in an intelligen
 
 ## Annotations
 
-[^key-f5d0fa53e82e71e8c662c6c7f4929375]: Commencement: S. 138 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-f5d0fa53e82e71e8c662c6c7f4929375]: Commencement: S. 138 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-7deb089241ebaeee5dba876fbcdc44e2]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2025/36/section/138) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(39)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/39)
+[^c-7deb089241ebaeee5dba876fbcdc44e2]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2025/36/section/138) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(39)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/39)

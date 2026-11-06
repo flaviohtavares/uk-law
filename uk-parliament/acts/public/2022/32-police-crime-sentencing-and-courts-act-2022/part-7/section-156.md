@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Assaults on those providing a public service etc[^key-031cceaf2ac6a89e818a7e7b7bfffd8f][^key-6e1bab5910f9c077c36c1cc6dae925e4]
+## 156. Assaults on those providing a public service etc[^c-031cceaf2ac6a89e818a7e7b7bfffd8f][^c-6e1bab5910f9c077c36c1cc6dae925e4]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ In the Sentencing Act 2020, after section 68 insert—
 
 ## Annotations
 
-[^key-031cceaf2ac6a89e818a7e7b7bfffd8f]: Commencement: S. 156 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-031cceaf2ac6a89e818a7e7b7bfffd8f]: Commencement: S. 156 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-6e1bab5910f9c077c36c1cc6dae925e4]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2022/32/section/156) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(s)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/s)
+[^c-6e1bab5910f9c077c36c1cc6dae925e4]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2022/32/section/156) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(s)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/s)

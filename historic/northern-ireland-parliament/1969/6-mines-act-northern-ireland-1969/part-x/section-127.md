@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 127. Cancellation or suspension of certificates.[^key-a35def469922346b43bf6a0ff08c8133]
+## 127. Cancellation or suspension of certificates.[^c-a35def469922346b43bf6a0ff08c8133]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a35def469922346b43bf6a0ff08c8133]: Textual amendment: [Ss. 126-128](https://www.legislation.gov.uk/apni/1969/6/section/126) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-a35def469922346b43bf6a0ff08c8133]: Textual amendment: [Ss. 126-128](https://www.legislation.gov.uk/apni/1969/6/section/126) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

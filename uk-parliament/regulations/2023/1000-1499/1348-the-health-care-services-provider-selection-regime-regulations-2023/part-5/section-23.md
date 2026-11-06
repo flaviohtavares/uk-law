@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Advice[^key-ce63c77e4bcfa7a3887e1f88f9985712]
+## 23. Advice[^c-ce63c77e4bcfa7a3887e1f88f9985712]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce63c77e4bcfa7a3887e1f88f9985712]: Commencement: Reg. 23 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-ce63c77e4bcfa7a3887e1f88f9985712]: Commencement: Reg. 23 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

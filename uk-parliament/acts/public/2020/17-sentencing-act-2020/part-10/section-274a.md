@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 274A. Required sentence of custody for life for manslaughter of emergency worker[^key-f02645d17b2e37639eabf4b75518dd21]
+## 274A. Required sentence of custody for life for manslaughter of emergency worker[^c-f02645d17b2e37639eabf4b75518dd21]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f02645d17b2e37639eabf4b75518dd21]: Textual amendment: [S. 274A](https://www.legislation.gov.uk/ukpga/2020/17/section/274A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 3(9)](https://www.legislation.gov.uk/ukpga/2022/32/section/3/9), [208(5)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/b)
+[^c-f02645d17b2e37639eabf4b75518dd21]: Textual amendment: [S. 274A](https://www.legislation.gov.uk/ukpga/2020/17/section/274A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 3(9)](https://www.legislation.gov.uk/ukpga/2022/32/section/3/9), [208(5)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/b)

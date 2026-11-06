@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Appropriate age[^key-3f0e3887085f1267a91c309748e29dcc]
+## 38. Appropriate age[^c-3f0e3887085f1267a91c309748e29dcc]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f0e3887085f1267a91c309748e29dcc]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/nisr/2010/122/regulation/38) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(8)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/8)
+[^c-3f0e3887085f1267a91c309748e29dcc]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/nisr/2010/122/regulation/38) substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/a), [4(8)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/8)

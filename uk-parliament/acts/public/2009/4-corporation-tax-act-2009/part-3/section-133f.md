@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133F. “Excluded company”[^key-c98210a82b63e9fb0bbc42a0013b43b0]
+## 133F. “Excluded company”[^c-c98210a82b63e9fb0bbc42a0013b43b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,11 +38,11 @@ summary: ''
 - (j) a society registered as a credit union under the Co-operative and Community Benefit Societies Act 2014 or the Credit Unions (Northern Ireland) Order 1985 (S.I. 1985/1205 (N.I. 12));
 - (k) a building society.
 
-(2A)[^key-1a34842fd7767cd1d46d9767dd3a13a6] A company is also an “excluded company” at any time (in an accounting period) if—
+(2A)[^c-1a34842fd7767cd1d46d9767dd3a13a6] A company is also an “excluded company” at any time (in an accounting period) if—
 
 - (a) the company would fall within a relevant relieving provision but for one (and only one) line of business which it carries on,
 - (b) that line of business does not involve the relevant regulated activity described in the provision mentioned in section 133G(1)(a), and
-- (c) the company's activities in that line of business would not, on their own, result in it being —[^key-4495259f99dd3901dfdec5e3e44c5206]
+- (c) the company's activities in that line of business would not, on their own, result in it being —[^c-4495259f99dd3901dfdec5e3e44c5206]
   - (i) in relation to a time on or after 1 January 2022, an FCA investment firm that meets the conditions in section 133H(1B);
   - (ii) in relation to a time before that date,
 
@@ -58,8 +58,8 @@ summary: ''
 
 (4) In subsection (2)(f) “**exempt commodities firm**” means—
 
-- (za)[^key-a7848952e3637c3c22a991f93e7889db] in relation to a time on or after 1 January 2022, a commodity and emission allowance dealer;
-- (a) in relation to a time on or after 1 January 2014 but before 1 January 2022[^key-34b5bcc31a55588148a33d5d68c9b4ba], an exempt IFPRU commodities firm, as defined by the FCA Handbook at that time,
+- (za)[^c-a7848952e3637c3c22a991f93e7889db] in relation to a time on or after 1 January 2022, a commodity and emission allowance dealer;
+- (a) in relation to a time on or after 1 January 2014 but before 1 January 2022[^c-34b5bcc31a55588148a33d5d68c9b4ba], an exempt IFPRU commodities firm, as defined by the FCA Handbook at that time,
 - (b) in relation to a time on or after 1 April 2013 but before 1 January 2014, an exempt BIPRU commodities firm, as defined by the PRA Handbook at that time,
 - (c) in relation to a time on or after 1 January 2007 but before 1 April 2013, an exempt BIPRU commodities firm, as defined by the Handbook of the Financial Services Authority at that time, and
 - (d) in relation to a time before 1 January 2007, an exempt BIPRU commodities firm as defined by the Handbook of the Financial Services Authority as in force on 1 January 2007.
@@ -79,21 +79,21 @@ summary: ''
 
 (7) In this section—
 
-- “[^key-99af79a8a1ce639cdae8a4afa30a09d0]**730k firm**”—
-  - (a) in relation to any time on or after 1 January 2014 but before 1 January 2022[^key-b40f85c0cf00a2bd2051047c5b0a40e1], means an IFPRU 730k firm,
-  - (b) in relation to any time before 1 January 2014[^key-0cd204c26e217e10846dca92679b23d4], means a BIPRU 730k firm;
+- “[^c-99af79a8a1ce639cdae8a4afa30a09d0]**730k firm**”—
+  - (a) in relation to any time on or after 1 January 2014 but before 1 January 2022[^c-b40f85c0cf00a2bd2051047c5b0a40e1], means an IFPRU 730k firm,
+  - (b) in relation to any time before 1 January 2014[^c-0cd204c26e217e10846dca92679b23d4], means a BIPRU 730k firm;
 - “**authorised corporate director**”—
   - (a) in relation to any time on or after 1 April 2013, has the meaning given by the FCA Handbook at that time;
   - (b) in relation to any time before 1 April 2013, has the meaning given by the FCA Handbook as in force on 1 April 2013;
-- “[^key-94be64568c294e57f46c3f268e553e2f]**BIPRU 730k firm**” and “**full scope BIPRU investment firm**” have the same meaning as in subsections (2) to (4) of section 133H;
-- “[^key-980aa2abbc9ce1be0c3ce1f51237e7f7]**commodity and emission allowance dealer**” has the meaning given by the FCA Handbook at the time in question;
+- “[^c-94be64568c294e57f46c3f268e553e2f]**BIPRU 730k firm**” and “**full scope BIPRU investment firm**” have the same meaning as in subsections (2) to (4) of section 133H;
+- “[^c-980aa2abbc9ce1be0c3ce1f51237e7f7]**commodity and emission allowance dealer**” has the meaning given by the FCA Handbook at the time in question;
 - “**contract for differences**” has the meaning given by section 582;
 - “**the FCA Handbook**” means the Handbook made by the Financial Conduct Authority under FISMA 2000;
 - “**FCA investment firm**” has the meaning given by section 143A of FISMA 2000;
 - “**friendly society**” means a registered friendly society or an incorporated friendly society;
 - “**full scope investment firm**”—
-  - (a) in relation to any time on or after 1 January 2014 but before 1 January 2022[^key-da94bdfc82b30972e179eb910a6be131], means a full scope IFPRU investment firm,
-  - (b) in relation to any time before 1 January 2014[^key-0e8a0ec9cffdb747363fbbf0293c9753], means a full scope BIPRU investment firm;
+  - (a) in relation to any time on or after 1 January 2014 but before 1 January 2022[^c-da94bdfc82b30972e179eb910a6be131], means a full scope IFPRU investment firm,
+  - (b) in relation to any time before 1 January 2014[^c-0e8a0ec9cffdb747363fbbf0293c9753], means a full scope BIPRU investment firm;
 - “**group**” has the same meaning as in Part 7A of CTA 2010 (see section 269BD of that Act);
 - “**IFPRU 730k firm**” and “**full scope IFPRU investment firm**” have the meaning given by the FCA Handbook at the time in question;
 - “**incorporated friendly society**” means a society incorporated under the Friendly Societies Act 1992;
@@ -110,26 +110,26 @@ summary: ''
 
 ## Annotations
 
-[^key-c98210a82b63e9fb0bbc42a0013b43b0]: Textual amendment: Ss. 133A-133N and cross-heading inserted (with effect in accordance with s. 18(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/18/1)
+[^c-c98210a82b63e9fb0bbc42a0013b43b0]: Textual amendment: Ss. 133A-133N and cross-heading inserted (with effect in accordance with s. 18(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/18/1)
 
-[^key-1a34842fd7767cd1d46d9767dd3a13a6]: Textual amendment: S. 133F(2A)(2B) inserted (retrospective to 18.11.2015) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/2)
+[^c-1a34842fd7767cd1d46d9767dd3a13a6]: Textual amendment: S. 133F(2A)(2B) inserted (retrospective to 18.11.2015) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/2)
 
-[^key-4495259f99dd3901dfdec5e3e44c5206]: Textual amendment: [S. 133F(2A)(c)(i)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/2A/c/i)[(ii)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/2A/c/ii) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/2)
+[^c-4495259f99dd3901dfdec5e3e44c5206]: Textual amendment: [S. 133F(2A)(c)(i)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/2A/c/i)[(ii)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/2A/c/ii) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/2)
 
-[^key-a7848952e3637c3c22a991f93e7889db]: Textual amendment: [S. 133F(4)(za)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/4/za) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(3)(a)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/3/a)
+[^c-a7848952e3637c3c22a991f93e7889db]: Textual amendment: [S. 133F(4)(za)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/4/za) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(3)(a)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/3/a)
 
-[^key-34b5bcc31a55588148a33d5d68c9b4ba]: Textual amendment: Words in [s. 133F(4)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/4/a) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/3/b)
+[^c-34b5bcc31a55588148a33d5d68c9b4ba]: Textual amendment: Words in [s. 133F(4)(a)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/4/a) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/3/b)
 
-[^key-99af79a8a1ce639cdae8a4afa30a09d0]: Textual amendment: Words in s. 133F(7) inserted (retrospective to 18.11.2015) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/1)[(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/3)
+[^c-99af79a8a1ce639cdae8a4afa30a09d0]: Textual amendment: Words in s. 133F(7) inserted (retrospective to 18.11.2015) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/1)[(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/3)
 
-[^key-b40f85c0cf00a2bd2051047c5b0a40e1]: Textual amendment: Words in [s. 133F(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/7) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/4/a/i)
+[^c-b40f85c0cf00a2bd2051047c5b0a40e1]: Textual amendment: Words in [s. 133F(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/7) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/4/a/i)
 
-[^key-0cd204c26e217e10846dca92679b23d4]: Textual amendment: Words in [s. 133F(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/7) substituted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/4/a/ii)
+[^c-0cd204c26e217e10846dca92679b23d4]: Textual amendment: Words in [s. 133F(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/7) substituted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/4/a/ii)
 
-[^key-94be64568c294e57f46c3f268e553e2f]: Textual amendment: Words in s. 133F(7) inserted (retrospective to 18.11.2015) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/1)[(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/4)
+[^c-94be64568c294e57f46c3f268e553e2f]: Textual amendment: Words in s. 133F(7) inserted (retrospective to 18.11.2015) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/1)[(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/4)
 
-[^key-980aa2abbc9ce1be0c3ce1f51237e7f7]: Textual amendment: Words in [s. 133F(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/7) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(4)(c)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/4/c)
+[^c-980aa2abbc9ce1be0c3ce1f51237e7f7]: Textual amendment: Words in [s. 133F(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/7) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(4)(c)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/4/c)
 
-[^key-da94bdfc82b30972e179eb910a6be131]: Textual amendment: Words in [s. 133F(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/7) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/4/b/i)
+[^c-da94bdfc82b30972e179eb910a6be131]: Textual amendment: Words in [s. 133F(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/7) inserted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/4/b/i)
 
-[^key-0e8a0ec9cffdb747363fbbf0293c9753]: Textual amendment: Words in [s. 133F(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/7) substituted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/4/b/ii)
+[^c-0e8a0ec9cffdb747363fbbf0293c9753]: Textual amendment: Words in [s. 133F(7)](https://www.legislation.gov.uk/ukpga/2009/4/section/133F/7) substituted (5.4.2022 with application from 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/3), [3(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/286/regulation/3/4/b/ii)

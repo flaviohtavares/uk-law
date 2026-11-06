@@ -99,7 +99,7 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE[^key-c1b1a64a6a4bd27590cf27b1c552287e][^key-6fd54956f205966c142d33450c53f2cb][^key-372eecdab75f5b0a0e977c646a5bd5c9]
+## SCHEDULE[^c-c1b1a64a6a4bd27590cf27b1c552287e][^c-6fd54956f205966c142d33450c53f2cb][^c-372eecdab75f5b0a0e977c646a5bd5c9]
 
 Article 3
 
@@ -110,7 +110,7 @@ Table 1
 | *Provision creating offence* | *General nature of offence* |
 | --- | --- |
 | [^c21165771]Section 4(4) | Using motor vehicle on road except under Road Service licence |
-| [^key-acc556d771dcfb9695f3d3c579f2d370]. . . | [^key-acc556d771dcfb9695f3d3c579f2d370]. . . |
+| [^c-acc556d771dcfb9695f3d3c579f2d370]. . . | [^c-acc556d771dcfb9695f3d3c579f2d370]. . . |
 | [^c21165791]Section 34 | Forgery and misuse of documents |
 
 Table 2
@@ -224,7 +224,7 @@ Table 8
 | Article 43(1) | Exceeding speed limit |
 | Article 59(4) | Breach of pedestrian crossing regulations |
 
-Table 8A[^key-5114fa17340ba4afd9ae179a3bc6b190]
+Table 8A[^c-5114fa17340ba4afd9ae179a3bc6b190]
 
 Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010
 
@@ -255,8 +255,8 @@ Table 10
 
 | *Provision creating offence* | *General nature of offence* |
 | --- | --- |
-| Regulation 3(1) | Using a vehicle in contravention of requirements relating to installation, use or repair of recording equipment in accordance with the[^key-22f8eb2954ee5da135501d5384ff6881] EU Tachographs Regulation |
-| Regulation 3A(1) and (2)[^key-fb08188c26eeb9b40063dc06d58a17b6] | Using vehicle in contravention of requirements relating to installation, use or repair of recording equipment in accordance with the AETR. |
+| Regulation 3(1) | Using a vehicle in contravention of requirements relating to installation, use or repair of recording equipment in accordance with the[^c-22f8eb2954ee5da135501d5384ff6881] EU Tachographs Regulation |
+| Regulation 3A(1) and (2)[^c-fb08188c26eeb9b40063dc06d58a17b6] | Using vehicle in contravention of requirements relating to installation, use or repair of recording equipment in accordance with the AETR. |
 | Regulation 5(1) | Forging, altering or using with intent to deceive any seal on recording equipment |
 | Regulation 6A | Contravention of requirement of applicable Community rules as to manual records or documents. |
 | Regulation 7(4) and 7D | Failing to comply with requirements relating to inspection of records or obstructing a vehicle examiner |
@@ -314,17 +314,17 @@ The Department of the Environment has produced an Explanatory Memorandum and a R
 
 [^c21165751]: Marginal citation: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 
-[^key-c1b1a64a6a4bd27590cf27b1c552287e]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/2012/17/schedule) Table 13 substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [23(2)(a)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/23/2/a) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+[^c-c1b1a64a6a4bd27590cf27b1c552287e]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/2012/17/schedule) Table 13 substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [23(2)(a)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/23/2/a) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
 
-[^key-6fd54956f205966c142d33450c53f2cb]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/2012/17/schedule) Table 13 substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [23(2)(b)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/23/2/b) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+[^c-6fd54956f205966c142d33450c53f2cb]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/2012/17/schedule) Table 13 substituted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [23(2)(b)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/23/2/b) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
 
-[^key-372eecdab75f5b0a0e977c646a5bd5c9]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/2012/17/schedule) Table 13 inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [23(2)(c)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/23/2/c) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
+[^c-372eecdab75f5b0a0e977c646a5bd5c9]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/nisr/2012/17/schedule) Table 13 inserted (3.12.2024 except in so far as it relates to national return to driving courses, 1.2.2025 in so far as not already in force) by [The Vehicle Drivers (Certificates of Professional Competence) (Amendment) Regulations 2024 (S.I. 2024/1160)](https://www.legislation.gov.uk/uksi/2024/1160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/1/3), [23(2)(c)](https://www.legislation.gov.uk/uksi/2024/1160/regulation/23/2/c) (with [reg. 26](https://www.legislation.gov.uk/uksi/2024/1160/regulation/26))
 
 [^c21165761]: Marginal citation: [1967 c.37 (N.I.)](https://www.legislation.gov.uk/apni/1967/37)
 
 [^c21165771]: Marginal citation: Section 4(4) was amended by SRO (N.I.) 1972/359 & [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703)
 
-[^key-acc556d771dcfb9695f3d3c579f2d370]: Textual amendment: Words in Sch. omitted (31.10.2014) by virtue of [The Road Traffic (Financial Penalty Deposit) (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/233)](https://www.legislation.gov.uk/nisr/2014/233), [arts. 1](https://www.legislation.gov.uk/nisr/2014/233/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/233/article/2/2)
+[^c-acc556d771dcfb9695f3d3c579f2d370]: Textual amendment: Words in Sch. omitted (31.10.2014) by virtue of [The Road Traffic (Financial Penalty Deposit) (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/233)](https://www.legislation.gov.uk/nisr/2014/233), [arts. 1](https://www.legislation.gov.uk/nisr/2014/233/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/233/article/2/2)
 
 [^c21165791]: Marginal citation: Section 34 was amended by [1975 c.46](https://www.legislation.gov.uk/ukpga/1975/46), S.R. [1977 No. 327](https://www.legislation.gov.uk/ukcm/1977/327), S.R. [1981 No. 2](https://www.legislation.gov.uk/ukcm/1981/2), [1981 c. 45](https://www.legislation.gov.uk/ukpga/1981/45), [S.I](https://www.legislation.gov.uk/ukpga/1981/45/section/I). 1984/703 ( N.I. 3), S.R. [1987 No. 187](https://www.legislation.gov.uk/ukcm/1987/187), S.R. [1987 No. 383](https://www.legislation.gov.uk/ukcm/1987/383), S.R. [2003 No. 217](https://www.legislation.gov.uk/ukcm/2003/217) and S.R. [2005 No. 212](https://www.legislation.gov.uk/ukcm/2005/212)
 
@@ -376,15 +376,15 @@ The Department of the Environment has produced an Explanatory Memorandum and a R
 
 [^c21166031]: Marginal citation: [S.I. 1997/276 (N.I. 2)](https://www.legislation.gov.uk/nisi/1997/276)
 
-[^key-5114fa17340ba4afd9ae179a3bc6b190]: Textual amendment: Sch. Tables 8A, 8B inserted (31.10.2014) by [The Road Traffic (Financial Penalty Deposit) (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/233)](https://www.legislation.gov.uk/nisr/2014/233), [arts. 1](https://www.legislation.gov.uk/nisr/2014/233/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2014/233/article/2/3)
+[^c-5114fa17340ba4afd9ae179a3bc6b190]: Textual amendment: Sch. Tables 8A, 8B inserted (31.10.2014) by [The Road Traffic (Financial Penalty Deposit) (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/233)](https://www.legislation.gov.uk/nisr/2014/233), [arts. 1](https://www.legislation.gov.uk/nisr/2014/233/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2014/233/article/2/3)
 
 [^c21166041]: Marginal citation: S.R. [1987 No. 383](https://www.legislation.gov.uk/ukcm/1987/383)
 
 [^c21166051]: Marginal citation: S.R. [1996 No. 145](https://www.legislation.gov.uk/ukcm/1996/145)
 
-[^key-22f8eb2954ee5da135501d5384ff6881]: Textual amendment: Words in Sch. Table 10 substituted (11.3.2019) by [The Drivers Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [29(a)](https://www.legislation.gov.uk/nisr/2019/12/regulation/29/a)
+[^c-22f8eb2954ee5da135501d5384ff6881]: Textual amendment: Words in Sch. Table 10 substituted (11.3.2019) by [The Drivers Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [29(a)](https://www.legislation.gov.uk/nisr/2019/12/regulation/29/a)
 
-[^key-fb08188c26eeb9b40063dc06d58a17b6]: Textual amendment: Words in Sch. Table 10 inserted (11.3.2019) by [The Drivers Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [29(b)](https://www.legislation.gov.uk/nisr/2019/12/regulation/29/b)
+[^c-fb08188c26eeb9b40063dc06d58a17b6]: Textual amendment: Words in Sch. Table 10 inserted (11.3.2019) by [The Drivers Hours and Tachographs (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/12)](https://www.legislation.gov.uk/nisr/2019/12), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/12/regulation/1/2), [29(b)](https://www.legislation.gov.uk/nisr/2019/12/regulation/29/b)
 
 [^c21166061]: Marginal citation: Regulations 7A to 7F were inserted by S.R. [2006 No. 274](https://www.legislation.gov.uk/ukcm/2006/274)
 

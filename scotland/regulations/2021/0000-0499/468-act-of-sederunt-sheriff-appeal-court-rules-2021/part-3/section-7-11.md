@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7.11. Transmission of sheriff court process[^key-a3a5fa70e4cd81717753ad880cace65c]
+## 7.11. Transmission of sheriff court process[^c-a3a5fa70e4cd81717753ad880cace65c]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ that the sheriff court process, or any part of it, must be transmitted to the Cl
 
 ## Annotations
 
-[^key-a3a5fa70e4cd81717753ad880cace65c]: Commencement: Para. 7.11 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-a3a5fa70e4cd81717753ad880cace65c]: Commencement: Para. 7.11 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

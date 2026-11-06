@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — Method of calculating the energy value of compound feeds[^key-cd2bfb614e840d55636507e2ddd3fee2]
+## SCHEDULE 1 — Method of calculating the energy value of compound feeds[^c-cd2bfb614e840d55636507e2ddd3fee2]
 
 *Extent: N.I.*
 
@@ -73,7 +73,7 @@ NB Where the results of analysis are to be given on a dry matter basis, this may
 
 ## Annotations
 
-[^key-cd2bfb614e840d55636507e2ddd3fee2]: Commencement: Sch. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-cd2bfb614e840d55636507e2ddd3fee2]: Commencement: Sch. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00037]: Footnote: O.J. No. L123, 29.5.72, p. 6 (O.J./SE 1966-1972 supplement, p. 74). Point 2 of Annex 1 has been replaced entirely by the Annex to Directive [93/28/EC](https://www.legislation.gov.uk/european/directive/1993/0028) (O.J. No. L179, 22.7.93, p. 8)
 

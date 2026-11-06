@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Orders with respect to licences[^key-fabfd04b20fef26f8fc74588f3574927]
+## 41. Orders with respect to licences[^c-fabfd04b20fef26f8fc74588f3574927]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fabfd04b20fef26f8fc74588f3574927]: Modification: [S. 41](https://www.legislation.gov.uk/nia/2011/16/section/41) applied (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [17](https://www.legislation.gov.uk/nisr/2013/43/regulation/17)
+[^c-fabfd04b20fef26f8fc74588f3574927]: Modification: [S. 41](https://www.legislation.gov.uk/nia/2011/16/section/41) applied (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [17](https://www.legislation.gov.uk/nisr/2013/43/regulation/17)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Compensation payments[^key-36615adc6bc62bf96f10cadda22efb34][^key-8a7b6ca9a3fcc82c6b924c617b9cfdf2]
+## 178. Compensation payments[^c-36615adc6bc62bf96f10cadda22efb34][^c-8a7b6ca9a3fcc82c6b924c617b9cfdf2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ A payment is a compensation payment if it is made in respect of a member’s lia
 
 ## Annotations
 
-[^key-36615adc6bc62bf96f10cadda22efb34]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-36615adc6bc62bf96f10cadda22efb34]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-8a7b6ca9a3fcc82c6b924c617b9cfdf2]: Modification: Ss. 175-181 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [15](https://www.legislation.gov.uk/uksi/2006/575/regulation/15)
+[^c-8a7b6ca9a3fcc82c6b924c617b9cfdf2]: Modification: Ss. 175-181 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [15](https://www.legislation.gov.uk/uksi/2006/575/regulation/15)

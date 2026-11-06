@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Unsuitable persons[^key-b756034042df7448925a5bbaa2d04612][^key-65f9213a9e4302b4a9b7d994f3aa38f2]
+## 119. Unsuitable persons[^c-b756034042df7448925a5bbaa2d04612][^c-65f9213a9e4302b4a9b7d994f3aa38f2]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b756034042df7448925a5bbaa2d04612]: Commencement: S. 119 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
+[^c-b756034042df7448925a5bbaa2d04612]: Commencement: S. 119 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2)
 
-[^key-65f9213a9e4302b4a9b7d994f3aa38f2]: Commencement: S. 119 in force at 12.10.2009 in so far as not already in force by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 4](https://www.legislation.gov.uk/uksi/2009/1606/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2009/1606/article/5)) (which transitional provisions in art. 5 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)
+[^c-65f9213a9e4302b4a9b7d994f3aa38f2]: Commencement: S. 119 in force at 12.10.2009 in so far as not already in force by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 4](https://www.legislation.gov.uk/uksi/2009/1606/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2009/1606/article/5)) (which transitional provisions in art. 5 are revoked (22.12.2014) by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), art. 3(3), Sch.)

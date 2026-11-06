@@ -44,7 +44,7 @@ are to be treated as reducing the amount of the debt due to the trustees or mana
 
 (8) An application under paragraph (7) must be made as soon as reasonably practicable after the sum is paid to the trustees or managers or, as the case may be, to the Board in respect of the debt due under Article 75 of the 1995 Order.
 
-(8A)[^key-51501bc8d39e50509f332aa241566df2] An application under paragraph (7) may not be made after—
+(8A)[^c-51501bc8d39e50509f332aa241566df2] An application under paragraph (7) may not be made after—
 
 - (a) the date specified under Article 36(2A) for the purposes of Articles 38A(2) and 38B(2) (sanctions for failure to comply with a contribution notice), or
 - (b) if a different date has effect instead of that date (see paragraphs (10A) and (11B)), that different date.
@@ -63,7 +63,7 @@ are to be treated as reducing the amount of the debt due to the trustees or mana
 - (e) whether P's contribution notice specifies that P is jointly and severally liable for the debt with other persons, and
 - (f) such other matters as may be prescribed.
 
-(10A)[^key-8b12f17f3d8b85a49862c7138e607943] Where an application under paragraph (7) is made to the Regulator, the Regulator may, if it is of the opinion that it is appropriate to do so—
+(10A)[^c-8b12f17f3d8b85a49862c7138e607943] Where an application under paragraph (7) is made to the Regulator, the Regulator may, if it is of the opinion that it is appropriate to do so—
 
 - (a) change the date that has effect for the purposes of Articles 38A(2) and 38B(2) (whether specified in the contribution notice or an earlier revised contribution notice), and
 - (b) specify the revised date in the revised contribution notice issued under paragraph (9)(b) or, if the Regulator does not issue a revised contribution notice under paragraph (9)(b), issue a revised contribution notice specifying the revised date.
@@ -75,7 +75,7 @@ are to be treated as reducing the amount of the debt due to the trustees or mana
 
 the Regulator must also issue revised contribution notices to those other persons specifying the revised sum and their joint and several liability with P for the debt in respect of that sum.
 
-(11A)[^key-eb2e154872ad53ab47a1d8ea8f1bc0c9] Paragraph (11B) applies where—
+(11A)[^c-eb2e154872ad53ab47a1d8ea8f1bc0c9] Paragraph (11B) applies where—
 
 - (a) P's contribution notice specifies that P is jointly and severally liable for the debt with other persons, and
 - (b) the Regulator issues a revised contribution notice to P under paragraph (9)(b) or (10A)(b) specifying a revised date for the purposes of Articles 38A(2) and 38B(2).
@@ -94,8 +94,8 @@ the Regulator must also issue revised contribution notices to those other person
 
 [^c17103061]: Textual amendment: mod. by SR 2005/378
 
-[^key-51501bc8d39e50509f332aa241566df2]: Textual amendment: [Art. 37(8A)](https://www.legislation.gov.uk/nisi/2005/255/article/37/8A) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/2/a); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
+[^c-51501bc8d39e50509f332aa241566df2]: Textual amendment: [Art. 37(8A)](https://www.legislation.gov.uk/nisi/2005/255/article/37/8A) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/2/a); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
 
-[^key-8b12f17f3d8b85a49862c7138e607943]: Textual amendment: [Art. 37(10A)](https://www.legislation.gov.uk/nisi/2005/255/article/37/10A) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/2/b); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
+[^c-8b12f17f3d8b85a49862c7138e607943]: Textual amendment: [Art. 37(10A)](https://www.legislation.gov.uk/nisi/2005/255/article/37/10A) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/2/b); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
 
-[^key-eb2e154872ad53ab47a1d8ea8f1bc0c9]: Textual amendment: [Art. 37(11A)](https://www.legislation.gov.uk/nisi/2005/255/article/37/11A)[(11B)](https://www.legislation.gov.uk/nisi/2005/255/article/37/11B) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(2)(c)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/2/c); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))
+[^c-eb2e154872ad53ab47a1d8ea8f1bc0c9]: Textual amendment: [Art. 37(11A)](https://www.legislation.gov.uk/nisi/2005/255/article/37/11A)[(11B)](https://www.legislation.gov.uk/nisi/2005/255/article/37/11B) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 5(2)(c)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/5/2/c); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(c)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1))

@@ -22,7 +22,7 @@ summary: ''
 
 Section 50. *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482]
 
-### Part I (Extent: E+W) (affected by repeal, see note) — Acts of the Parliament of the United Kingdom (Extent: E+W) (affected by repeal, see note)[^key-0161932b95c82b817637539ca18c097e][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482]
+### Part I (Extent: E+W) (affected by repeal, see note) — Acts of the Parliament of the United Kingdom (Extent: E+W) (affected by repeal, see note)[^c-0161932b95c82b817637539ca18c097e][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482]
 
 | Chapter *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] | Short title *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] | Extent of repeal *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ Section 50. *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-
 
 Note: Except as provided in Part II of this Schedule, the repeal of the Radioactive Substances Act 1948 does not extend to Northern Ireland. *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482]
 
-### Part II (Extent: E+W) (affected by repeal, see note) — Repeals in Radioactive Substances Act 1948 extending to Northern Ireland (Extent: E+W) (affected by repeal, see note)[^key-0161932b95c82b817637539ca18c097e][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482]
+### Part II (Extent: E+W) (affected by repeal, see note) — Repeals in Radioactive Substances Act 1948 extending to Northern Ireland (Extent: E+W) (affected by repeal, see note)[^c-0161932b95c82b817637539ca18c097e][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482]
 
 | Chapter *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] | Short title *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] | Extent of repeal *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Note: Except as provided in Part II of this Schedule, the repeal of the Radioact
 
 Note: These repeals extend to Northern Ireland only. *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482]
 
-### Part III (Extent: E+W) (affected by repeal, see note) — Northern Ireland legislation (Extent: E+W) (affected by repeal, see note)[^key-0161932b95c82b817637539ca18c097e][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482]
+### Part III (Extent: E+W) (affected by repeal, see note) — Northern Ireland legislation (Extent: E+W) (affected by repeal, see note)[^c-0161932b95c82b817637539ca18c097e][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482]
 
 *Extent: N.I.*
 
@@ -61,7 +61,7 @@ Note: These repeals extend to Northern Ireland only. *(Extent: E+W)* *(affected 
 | S.I. *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] 1973/70 (N.I. 2). *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] | The Water and Sewerage Services (Northern Ireland) Order 1973. *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] | In Schedule 3, paragraph 1. *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] |
 | S.I. *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] 1978/1049 (N.I. 19). *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] | The Pollution Control and Local Government (Northern Ireland) Order 1978. *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] | In Schedule 4, paragraph 5. *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] |
 
-### Part IV (Extent: E+W) (affected by repeal, see note) — Subordinate legislation (Extent: E+W) (affected by repeal, see note)[^key-0161932b95c82b817637539ca18c097e][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482]
+### Part IV (Extent: E+W) (affected by repeal, see note) — Subordinate legislation (Extent: E+W) (affected by repeal, see note)[^c-0161932b95c82b817637539ca18c097e][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482][^M_F_dc1df248-b712-400c-9d38-af76c5ed5482]
 
 | Number *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] | Title *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] | Extent of revocation *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_dc1df248-b712-400c-9d38-af76c5ed5482] |
 | --- | --- | --- |
@@ -75,4 +75,4 @@ Note: These repeals extend to Northern Ireland only. *(Extent: E+W)* *(affected 
 
 [^M_F_dc1df248-b712-400c-9d38-af76c5ed5482]: Textual amendment: Sch. 6 repealed (E.W.) (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 11(2)(uu)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/11/2/uu), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4)); and Sch. 6 repealed (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 paras. 3](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/3), [4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4), [6](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/6) and with transitional provisions and savings ([25](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/25).[11](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/11).[2021](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2021)) by [The Environmental Authorisations (Scotland) Regulations 2018 (Transitional and Savings Provisions) Order 2021 (S.I. 2021/1309)](https://www.legislation.gov.uk/uksi/2021/1309), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1309/article/1/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1309/article/3))
 
-[^key-0161932b95c82b817637539ca18c097e]: Modification: [Schs. 1-6](https://www.legislation.gov.uk/ukpga/1993/12/schedule/1) transitional provisions and savings for effects of S.S.I. 2018/219, sch. 7 Pt. 1 (25.11.2021) by [The Environmental Authorisations (Scotland) Regulations 2018 (Transitional and Savings Provisions) Order 2021 (S.I. 2021/1309)](https://www.legislation.gov.uk/uksi/2021/1309), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1309/article/1/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1309/article/3)
+[^c-0161932b95c82b817637539ca18c097e]: Modification: [Schs. 1-6](https://www.legislation.gov.uk/ukpga/1993/12/schedule/1) transitional provisions and savings for effects of S.S.I. 2018/219, sch. 7 Pt. 1 (25.11.2021) by [The Environmental Authorisations (Scotland) Regulations 2018 (Transitional and Savings Provisions) Order 2021 (S.I. 2021/1309)](https://www.legislation.gov.uk/uksi/2021/1309), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1309/article/1/1), [3-5](https://www.legislation.gov.uk/uksi/2021/1309/article/3)

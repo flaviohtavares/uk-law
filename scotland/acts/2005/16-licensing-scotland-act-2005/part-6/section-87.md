@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Licence holder's duty to undertake training[^key-8e9a6c23f31a0030da8a810a7c77372f]
+## 87. Licence holder's duty to undertake training[^c-8e9a6c23f31a0030da8a810a7c77372f]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ give to the holder of the licence notice of the requirement imposed by that subs
 
 ## Annotations
 
-[^key-8e9a6c23f31a0030da8a810a7c77372f]: Commencement: S. 87 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-8e9a6c23f31a0030da8a810a7c77372f]: Commencement: S. 87 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

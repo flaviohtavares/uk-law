@@ -155,12 +155,12 @@ The following forms of civil legal services are available without a determinatio
   - (i) paragraph 17(1)(c) (EU and international agreements concerning children) of Part 1 of Schedule 1 to the Act; or
   - (ii) paragraph 18(1)(a), (c), (d) and (e) (EU and international agreements concerning maintenance) of Part 1 of Schedule 1 to the Act;
 - (c) family help (higher) or legal representation in relation to a matter which, if the legal person were an individual, would be a matter described in paragraph 18(3) (parties who benefited from free legal aid etc. in the Member State of origin) of Part 1 of Schedule 1 to the Act; and
-- (ca)[^key-881525cb4b26293cf793cb8431860f5a] family help (higher) or legal representation in relation to a matter which, if the legal person were an individual, would be a matter described in paragraph 18(3A) (applications under Article 10 of the 2007 Hague Convention) of Part 1 of Schedule 1 to the Act, where—
+- (ca)[^c-881525cb4b26293cf793cb8431860f5a] family help (higher) or legal representation in relation to a matter which, if the legal person were an individual, would be a matter described in paragraph 18(3A) (applications under Article 10 of the 2007 Hague Convention) of Part 1 of Schedule 1 to the Act, where—
   - (i) the matter relates to any application under Article 10(1)(a) or (b) of the 2007 Hague Convention; and
   - (ii) Article 17(b) of that Convention applies;
 - (d) legal help, family help (lower), family help (higher) and legal representation in relation to a matter which, if the legal person were an individual, would be a matter described in paragraph 18(2) (EU and international agreements concerning maintenance) of Part 1 of Schedule 1 to the Act, to the extent that the matter—
   - (i) relates to any application under Article 56(1) of the EU Maintenance Regulation [^c21686231]; and
-  - (ii) is an application made by a creditor concerning maintenance obligations arising from a parent-child relationship towards a person under the age of 21; and[^key-d2dcaf84d7a6727deb0f2da48b0ad3b0]
+  - (ii) is an application made by a creditor concerning maintenance obligations arising from a parent-child relationship towards a person under the age of 21; and[^c-d2dcaf84d7a6727deb0f2da48b0ad3b0]
 - (da) legal help, family help (lower), family help (higher) and legal representation in relation to a matter which, if the legal person were an individual, would be a matter described in paragraph 18(3A) (applications under Article 10 of the 2007 Hague Convention) of Part 1 of Schedule 1 to the Act, where the matter—
   - (i) relates to any application under Article 10(1)(a) or (b) of the 2007 Hague Convention; and
   - (ii) is an application made by a creditor under the 2007 Hague Convention concerning maintenance obligations arising from a parent-child relationship towards a person under the age of 21.
@@ -503,11 +503,11 @@ The Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2
 
 [^c21686221]: Marginal citation: The 1980 Hague Convention is defined in paragraph 17(3) of Part 1 of Schedule 1 to the Act to mean the Convention on the Civil Aspects of International Child Abduction which was signed at The Hague on 25 October 1980.
 
-[^key-881525cb4b26293cf793cb8431860f5a]: Textual amendment: Reg. 10(ca) inserted (1.4.2013) by [The Legal Aid (Financial Resources and Payment for Services) (Legal Persons) (Amendment) Regulations 2013 (S.I. 2013/754)](https://www.legislation.gov.uk/uksi/2013/754), [regs. 1](https://www.legislation.gov.uk/uksi/2013/754/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/754/regulation/2/2/a)
+[^c-881525cb4b26293cf793cb8431860f5a]: Textual amendment: Reg. 10(ca) inserted (1.4.2013) by [The Legal Aid (Financial Resources and Payment for Services) (Legal Persons) (Amendment) Regulations 2013 (S.I. 2013/754)](https://www.legislation.gov.uk/uksi/2013/754), [regs. 1](https://www.legislation.gov.uk/uksi/2013/754/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/754/regulation/2/2/a)
 
 [^c21686231]: Marginal citation: The EU Maintenance Regulation is defined in paragraph 18(5) of Part 1 of Schedule 1 to the Act to mean Council Regulation (EC) No. 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and co-operation in matters relating to maintenance obligations.
 
-[^key-d2dcaf84d7a6727deb0f2da48b0ad3b0]: Textual amendment: Reg. 10(da) and word inserted (1.4.2013) by [The Legal Aid (Financial Resources and Payment for Services) (Legal Persons) (Amendment) Regulations 2013 (S.I. 2013/754)](https://www.legislation.gov.uk/uksi/2013/754), [regs. 1](https://www.legislation.gov.uk/uksi/2013/754/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/754/regulation/2/2/b)
+[^c-d2dcaf84d7a6727deb0f2da48b0ad3b0]: Textual amendment: Reg. 10(da) and word inserted (1.4.2013) by [The Legal Aid (Financial Resources and Payment for Services) (Legal Persons) (Amendment) Regulations 2013 (S.I. 2013/754)](https://www.legislation.gov.uk/uksi/2013/754), [regs. 1](https://www.legislation.gov.uk/uksi/2013/754/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/754/regulation/2/2/b)
 
 [^c21686241]: Marginal citation: [S.I. 2013/480](https://www.legislation.gov.uk/uksi/2013/480).
 

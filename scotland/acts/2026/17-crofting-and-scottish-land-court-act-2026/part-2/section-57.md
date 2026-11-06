@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Merger of the Scottish Land Court and the Lands Tribunal for Scotland[^key-946469a03ddd6a131a8129bfecaeac8c]
+## 57. Merger of the Scottish Land Court and the Lands Tribunal for Scotland[^c-946469a03ddd6a131a8129bfecaeac8c]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-946469a03ddd6a131a8129bfecaeac8c]: Commencement: S. 57 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-946469a03ddd6a131a8129bfecaeac8c]: Commencement: S. 57 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

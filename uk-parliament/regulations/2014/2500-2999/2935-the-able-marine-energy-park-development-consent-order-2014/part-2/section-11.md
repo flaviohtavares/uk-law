@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Provision of works[^key-04b18d025d73e0cea01136a6f31cc34c]
+## 11. Provision of works[^c-04b18d025d73e0cea01136a6f31cc34c]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-04b18d025d73e0cea01136a6f31cc34c]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2014/2935/article/11) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-04b18d025d73e0cea01136a6f31cc34c]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2014/2935/article/11) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
 
 [^f00019]: Footnote: [SI 1995/418](https://www.legislation.gov.uk/uksi/1995/418). Relevant amending instruments are [S.I. 1999/293](https://www.legislation.gov.uk/uksi/1999/293), [S.I. 2003/2155](https://www.legislation.gov.uk/uksi/2003/2155) and [S.I. 2011/1824](https://www.legislation.gov.uk/uksi/2011/1824).

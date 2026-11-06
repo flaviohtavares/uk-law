@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Offences of prejudicing external investigation[^key-060766313aba20153312b3566d6230a6]
+## 39. Offences of prejudicing external investigation[^c-060766313aba20153312b3566d6230a6]
 
 *Extent: S*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-060766313aba20153312b3566d6230a6]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2013/2605/article/39) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-060766313aba20153312b3566d6230a6]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2013/2605/article/39) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
 [^f00022]: Footnote: [S.I. 2005/3181](https://www.legislation.gov.uk/uksi/2005/3181).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Refusal to be medically examined or attend interviews[^key-752d6977d2829b419923ef82b44e332e]
+## 67. Refusal to be medically examined or attend interviews[^c-752d6977d2829b419923ef82b44e332e]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-752d6977d2829b419923ef82b44e332e]: Commencement: Reg. 67 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-752d6977d2829b419923ef82b44e332e]: Commencement: Reg. 67 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

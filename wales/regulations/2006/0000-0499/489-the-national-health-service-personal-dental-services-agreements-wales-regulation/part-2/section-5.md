@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Additional conditions relating to agreements with qualifying bodies[^key-d8543990f7a487f291592b3c9634a03e]
+## 5. Additional conditions relating to agreements with qualifying bodies[^c-d8543990f7a487f291592b3c9634a03e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8543990f7a487f291592b3c9634a03e]: Commencement: Reg. 5 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-d8543990f7a487f291592b3c9634a03e]: Commencement: Reg. 5 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

@@ -39,9 +39,9 @@ summary: ''
 - (c) make provision which has the effect of modifying the operation of any right as conferred on individuals by the order;
 - (d) include such consequential, incidental or supplementary provisions as the Secretary of State thinks fit.
 
-(5) An order under this section may make provision in such way as the Secretary of State thinks fit[^key-99e31f432ae5f81d0b7d99999c042df6]...[^M_F_9c7909cc-bf89-4ae4-e2c5-53f1566df064]...
+(5) An order under this section may make provision in such way as the Secretary of State thinks fit[^c-99e31f432ae5f81d0b7d99999c042df6]...[^M_F_9c7909cc-bf89-4ae4-e2c5-53f1566df064]...
 
-(5A)[^key-b44469b73e9591690fa790ab511859c0] The ways in which an order under this section may make provision include, in particular—
+(5A)[^c-b44469b73e9591690fa790ab511859c0] The ways in which an order under this section may make provision include, in particular—
 
 - (a) amending any enactment;
 - (b) excluding or applying (whether with or without amendment) any enactment.
@@ -62,10 +62,10 @@ summary: ''
 
 [^c12486421]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-99e31f432ae5f81d0b7d99999c042df6]: Textual amendment: Words in s. 23(5) repealed (31.12.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/39/2), [59(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2); [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)(c)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a/c)
+[^c-99e31f432ae5f81d0b7d99999c042df6]: Textual amendment: Words in s. 23(5) repealed (31.12.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/39/2), [59(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2); [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)(c)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a/c)
 
 [^M_F_9c7909cc-bf89-4ae4-e2c5-53f1566df064]: Textual amendment: Words in s. 23(5) omitted (6.4.2003) by virtue of [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 41](https://www.legislation.gov.uk/ukpga/2002/22/section/41), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3)
 
-[^key-b44469b73e9591690fa790ab511859c0]: Textual amendment: S. 23(5A)(5B) inserted (31.12.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 39(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/39/3), [59(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/3); [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a)
+[^c-b44469b73e9591690fa790ab511859c0]: Textual amendment: S. 23(5A)(5B) inserted (31.12.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 39(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/39/3), [59(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/3); [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a)
 
 [^c12486431]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).

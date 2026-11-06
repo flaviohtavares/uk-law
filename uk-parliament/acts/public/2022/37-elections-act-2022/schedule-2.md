@@ -22,7 +22,7 @@ summary: ''
 
 Section 2
 
-### 1. Amendments to the Representation of the People Act 1983[^key-6a593bd1babebfe6c1c6974b1b4489b4][^key-2561a5598ff676eea0bb7b4a744ae118]
+### 1. Amendments to the Representation of the People Act 1983[^c-6a593bd1babebfe6c1c6974b1b4489b4][^c-2561a5598ff676eea0bb7b4a744ae118]
 
 In section 53 of RPA 1983 (power to make regulations as to registration etc), in subsection (1)—
 
@@ -33,9 +33,9 @@ In section 53 of RPA 1983 (power to make regulations as to registration etc), in
 
   .
 
-**2.**[^key-0c3c2879a87bbd1d319e14edf99d20cf][^key-1aaba3f4329681b3f2d10e14dd8cad35] Schedule 2 to RPA 1983 (provision which may be contained in regulations as to registration etc) is amended in accordance with paragraphs 3 to 11.
+**2.**[^c-0c3c2879a87bbd1d319e14edf99d20cf][^c-1aaba3f4329681b3f2d10e14dd8cad35] Schedule 2 to RPA 1983 (provision which may be contained in regulations as to registration etc) is amended in accordance with paragraphs 3 to 11.
 
-**3.**[^key-deab433d9d3dd0a396357601bdc2ea37][^key-62685751f1fc5c2b7feb1b08d4a12d70] (1) Paragraph 1 is amended as follows.
+**3.**[^c-deab433d9d3dd0a396357601bdc2ea37][^c-62685751f1fc5c2b7feb1b08d4a12d70] (1) Paragraph 1 is amended as follows.
 
 (2) In sub-paragraph (2A)—
 
@@ -54,7 +54,7 @@ In section 53 of RPA 1983 (power to make regulations as to registration etc), in
 >   - (i) under section 13C, and
 >   - (ii) in relation to applications under section 6, 7 or 8 of the Representation of the People Act 1985.
 
-**4.**[^key-1c525db3fe6dc837eeb96de4a5f2fc2c][^key-15732359a02f0d52b4f67e71a5fbc500] (1) Paragraph 1A is amended as follows.
+**4.**[^c-1c525db3fe6dc837eeb96de4a5f2fc2c][^c-15732359a02f0d52b4f67e71a5fbc500] (1) Paragraph 1A is amended as follows.
 
 (2) In sub-paragraph (1)(a), for the words from the first “who is” to the end substitute “within sub-paragraph (1A),”.
 
@@ -88,7 +88,7 @@ In section 53 of RPA 1983 (power to make regulations as to registration etc), in
 >
 > (8) A notice, including a partially completed notice, under section 8(9) of the Representation of the People Act 1985 (cancellation of proxy appointment) is to be treated as a relevant absent voting application for the purposes of this paragraph.
 
-**5.**[^key-fa1d32f991605f8b301c5cc2fbeb4aab][^key-831860589512f573e0a7fadcd93f5d22] (1) Paragraph 3ZA is amended as follows.
+**5.**[^c-fa1d32f991605f8b301c5cc2fbeb4aab][^c-831860589512f573e0a7fadcd93f5d22] (1) Paragraph 3ZA is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -122,7 +122,7 @@ In section 53 of RPA 1983 (power to make regulations as to registration etc), in
 
 > (7) In sub-paragraph (2B)(a)(iii), “**the UK digital service**” means a digital service provided by a Minister of the Crown for the registration of electors, and the reference to an application submitted through the UK digital service is a reference to an application submitted using that service as an intermediary.
 
-**6.**[^key-94ee5472dd7639239ee19c2366c6825e][^key-d34fcbd195c376df6326a496f0a1a6f8] For paragraph 3A substitute—
+**6.**[^c-94ee5472dd7639239ee19c2366c6825e][^c-d34fcbd195c376df6326a496f0a1a6f8] For paragraph 3A substitute—
 
 > **3A.** (1) Provision about—
 >
@@ -158,7 +158,7 @@ In section 53 of RPA 1983 (power to make regulations as to registration etc), in
 >
 > may be satisfied.
 
-**7.**[^key-930f617bb35d6c7db7e49354b4fc1ab6][^key-901d88e2fbfa29913d512d73931a977c] After paragraph 5 insert—
+**7.**[^c-930f617bb35d6c7db7e49354b4fc1ab6][^c-901d88e2fbfa29913d512d73931a977c] After paragraph 5 insert—
 
 > **5ZA.** (1) Provision about the manner in which relevant absent voting applications are to be made.
 >
@@ -177,9 +177,9 @@ In section 53 of RPA 1983 (power to make regulations as to registration etc), in
 >
 > (6) A notice under section 8(9) of the Representation of the People Act 1985 (cancellation of proxy appointment) is to be treated as a relevant absent voting application for the purposes of this paragraph.
 
-**8.**[^key-d4567c69abd21f4ec3b752b820e891ee][^key-b990bb6e070395657daefb9c46ceedc8] In paragraph 8B(1), for “or 10ZD” substitute “, 10ZD, 13BD, 13BE or 13C”.
+**8.**[^c-d4567c69abd21f4ec3b752b820e891ee][^c-b990bb6e070395657daefb9c46ceedc8] In paragraph 8B(1), for “or 10ZD” substitute “, 10ZD, 13BD, 13BE or 13C”.
 
-**9.**[^key-ff25223d02aa688de1b9758fb2800dc4][^key-7ce92f178883367f504950c4d98b4c9b] After paragraph 8B insert—
+**9.**[^c-ff25223d02aa688de1b9758fb2800dc4][^c-7ce92f178883367f504950c4d98b4c9b] After paragraph 8B insert—
 
 > **8BA.** (1) Provision requiring a registration officer in Great Britain to keep records of—
 >
@@ -205,12 +205,12 @@ In section 53 of RPA 1983 (power to make regulations as to registration etc), in
 > - (a) in relation to a record referred to in sub-paragraph (1), a registration officer in Great Britain;
 > - (b) in relation to a record referred to in sub-paragraph (2), the Chief Electoral Officer for Northern Ireland.
 
-**10.**[^key-a36ba9da89c5df3087385459278272d4][^key-aabff4d67aa70b9a04ae426fff19eb65] In paragraph 8C(1)—
+**10.**[^c-a36ba9da89c5df3087385459278272d4][^c-aabff4d67aa70b9a04ae426fff19eb65] In paragraph 8C(1)—
 
 - (a) in paragraph (a), for “or 10A” substitute “, 10A, 13BD, 13BE or 13C”;
 - (b) in paragraph (c), after “3ZA” insert “, 3A or 8BA”.
 
-**11.**[^key-cdb032afea9eca60bf9786f9193063d3][^key-dbcc12fddf0a7784643d7b88607d47e6] In paragraph 13, after sub-paragraph (1) insert—
+**11.**[^c-cdb032afea9eca60bf9786f9193063d3][^c-dbcc12fddf0a7784643d7b88607d47e6] In paragraph 13, after sub-paragraph (1) insert—
 
 > (1ZZA) References in sub-paragraph (1)(b) to a registration officer’s registration duties include references to—
 >
@@ -221,7 +221,7 @@ In section 53 of RPA 1983 (power to make regulations as to registration etc), in
 >   - (i) under section 13C, and
 >   - (ii) in relation to applications under section 6, 7 or 8 of the Representation of the People Act 1985.
 
-### 12. Power to remove signature requirements[^key-cf48028d99ee3d44107759a0324c089d]
+### 12. Power to remove signature requirements[^c-cf48028d99ee3d44107759a0324c089d]
 
 **Not yet in force.**
 
@@ -243,7 +243,7 @@ In section 53 of RPA 1983 (power to make regulations as to registration etc), in
 
 (6) A statutory instrument containing regulations under sub-paragraph (1) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-### 13. Power to make provision about unique reference numbers: elections in Northern Ireland[^key-9e407ef147d9e7626ea5203e7423d706]
+### 13. Power to make provision about unique reference numbers: elections in Northern Ireland[^c-9e407ef147d9e7626ea5203e7423d706]
 
 **Not yet in force.**
 
@@ -270,66 +270,66 @@ In section 53 of RPA 1983 (power to make regulations as to registration etc), in
 
 (6) A statutory instrument containing regulations under sub-paragraph (1) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-### 14. Consequential repeals[^key-ddb8751eb14c8a9fc63923977cba3815]
+### 14. Consequential repeals[^c-ddb8751eb14c8a9fc63923977cba3815]
 
 The following are repealed—
 
-- (a)[^key-beb56776b299d084533ae81cf3977ced] section 2(2) of the Elections (Northern Ireland) Act 1985;
-- (b)[^key-ef937fdb496b043cda1270a2c8ccb8a0] paragraph 24(5) of Schedule 1 to the Representation of the People Act 2000;
-- (c)[^key-ef937fdb496b043cda1270a2c8ccb8a0] paragraph 20(4) of Schedule 4 to the Electoral Registration and Administration Act 2013.
+- (a)[^c-beb56776b299d084533ae81cf3977ced] section 2(2) of the Elections (Northern Ireland) Act 1985;
+- (b)[^c-ef937fdb496b043cda1270a2c8ccb8a0] paragraph 24(5) of Schedule 1 to the Representation of the People Act 2000;
+- (c)[^c-ef937fdb496b043cda1270a2c8ccb8a0] paragraph 20(4) of Schedule 4 to the Electoral Registration and Administration Act 2013.
 
 ## Annotations
 
-[^key-6a593bd1babebfe6c1c6974b1b4489b4]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-6a593bd1babebfe6c1c6974b1b4489b4]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-2561a5598ff676eea0bb7b4a744ae118]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/1) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-2561a5598ff676eea0bb7b4a744ae118]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/1) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
-[^key-0c3c2879a87bbd1d319e14edf99d20cf]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-0c3c2879a87bbd1d319e14edf99d20cf]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-1aaba3f4329681b3f2d10e14dd8cad35]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/2) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-1aaba3f4329681b3f2d10e14dd8cad35]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/2) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
-[^key-deab433d9d3dd0a396357601bdc2ea37]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-deab433d9d3dd0a396357601bdc2ea37]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-62685751f1fc5c2b7feb1b08d4a12d70]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/3) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-62685751f1fc5c2b7feb1b08d4a12d70]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/3) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
-[^key-1c525db3fe6dc837eeb96de4a5f2fc2c]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-1c525db3fe6dc837eeb96de4a5f2fc2c]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-15732359a02f0d52b4f67e71a5fbc500]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/4) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-15732359a02f0d52b4f67e71a5fbc500]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/4) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
-[^key-fa1d32f991605f8b301c5cc2fbeb4aab]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-fa1d32f991605f8b301c5cc2fbeb4aab]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-831860589512f573e0a7fadcd93f5d22]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/5) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-831860589512f573e0a7fadcd93f5d22]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/5) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
-[^key-94ee5472dd7639239ee19c2366c6825e]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-94ee5472dd7639239ee19c2366c6825e]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-d34fcbd195c376df6326a496f0a1a6f8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/6) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-d34fcbd195c376df6326a496f0a1a6f8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/6) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
-[^key-930f617bb35d6c7db7e49354b4fc1ab6]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-930f617bb35d6c7db7e49354b4fc1ab6]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-901d88e2fbfa29913d512d73931a977c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/7) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-901d88e2fbfa29913d512d73931a977c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/7) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
-[^key-d4567c69abd21f4ec3b752b820e891ee]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-d4567c69abd21f4ec3b752b820e891ee]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-b990bb6e070395657daefb9c46ceedc8]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/8) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-b990bb6e070395657daefb9c46ceedc8]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/8) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
-[^key-ff25223d02aa688de1b9758fb2800dc4]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-ff25223d02aa688de1b9758fb2800dc4]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-7ce92f178883367f504950c4d98b4c9b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/9) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-7ce92f178883367f504950c4d98b4c9b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/9) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
-[^key-a36ba9da89c5df3087385459278272d4]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-a36ba9da89c5df3087385459278272d4]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-aabff4d67aa70b9a04ae426fff19eb65]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/10) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-aabff4d67aa70b9a04ae426fff19eb65]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/10) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
-[^key-cdb032afea9eca60bf9786f9193063d3]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-cdb032afea9eca60bf9786f9193063d3]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-dbcc12fddf0a7784643d7b88607d47e6]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/11) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-dbcc12fddf0a7784643d7b88607d47e6]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/11) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
 
-[^key-cf48028d99ee3d44107759a0324c089d]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-cf48028d99ee3d44107759a0324c089d]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-9e407ef147d9e7626ea5203e7423d706]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-9e407ef147d9e7626ea5203e7423d706]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-ddb8751eb14c8a9fc63923977cba3815]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-ddb8751eb14c8a9fc63923977cba3815]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-beb56776b299d084533ae81cf3977ced]: Commencement: [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/14/a) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/e) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-beb56776b299d084533ae81cf3977ced]: Commencement: [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/14/a) in force at 16.1.2023 by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/e) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-ef937fdb496b043cda1270a2c8ccb8a0]: Commencement: [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/14/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/14/c) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)
+[^c-ef937fdb496b043cda1270a2c8ccb8a0]: Commencement: [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/14/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/2/paragraph/14/c) in force at 27.8.2022 by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2022/916/article/2/e)

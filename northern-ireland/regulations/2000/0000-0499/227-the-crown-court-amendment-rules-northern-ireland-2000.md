@@ -43,15 +43,15 @@ Coming into operation in accordance with Rule 1
 
 We, the Crown Court Rules Committee, in exercise of the powers conferred upon us by section 51(5), 51A(7), (8) and (9), 51C(2) and (3), 51D(5), (6) and (7), 51F(3) and (4) and 52(1) of the Judicature (Northern Ireland) Act 1978[^f00001], Articles 30(3) and 39(1) of the Criminal Evidence (Northern Ireland) Order 1999[^f00002] and of all other powers enabling us in that behalf hereby with the concurrence of the Lord Chancellor make the following Rules:
 
-## 1. Citation, commencement and interpretation[^key-21c1c4645624fcc1edeb4988e0fa650f]
+## 1. Citation, commencement and interpretation[^c-21c1c4645624fcc1edeb4988e0fa650f]
 
 (1) These Rules may be cited as the Crown Court (Amendment) Rules (Northern Ireland) 2000 and except as provided by paragraph (2) shall come into operation on 21st August 2000.
 
-(2)[^key-de559dea10cf573684e21a39356ce680] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-de559dea10cf573684e21a39356ce680] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In these Rules “the principal Rules” means the Crown Court Rules (Northern Ireland) 1979[^f00003] and a reference to a rule or form by number shall mean a rule or form so numbered in the principal Rules.
 
-## 2. Amendments to the principal Rules[^key-09143527947506940944dccfaddf7b18]
+## 2. Amendments to the principal Rules[^c-09143527947506940944dccfaddf7b18]
 
 The principal Rules shall be amended as follows—
 
@@ -65,17 +65,17 @@ The principal Rules shall be amended as follows—
 - (b) rules 66, 67, 68, 69, 70 and 71 shall be re-numbered rules 63, 64, 65, 66, 67 and 68, respectively.
 - (c) by substituting in Form 11 in the Schedule for the words “paragraph 7”, the words “paragraph 33”.
 
-## 3. Criminal Evidence (Northern Ireland) Order 1999[^key-287878635f16a3c81ee2125e52a3b33f]
+## 3. Criminal Evidence (Northern Ireland) Order 1999[^c-287878635f16a3c81ee2125e52a3b33f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Inserting new Part X into principal Rules[^key-b6b2f288fe1832749ee97d858063df9f]
+## 4. Inserting new Part X into principal Rules[^c-b6b2f288fe1832749ee97d858063df9f]
 
 (1) This rule applies in relation to any proceedings for the purpose of which no summons requiring the attendance of a witness has been issued before 21st August 2000 and where this rule does not apply the law in operation immediately before this rule came into operation continues to have effect.
 
 (2) The principal Rules shall be amended by adding after Part IX the new Part X set out in the Schedule to these Rules.
 
-## 5. Amendment to the Crown Court (Amendment No. 2) Rules (Northern Ireland) 1999[^key-7c3b72f63710a3b75481f7b00413ff59]
+## 5. Amendment to the Crown Court (Amendment No. 2) Rules (Northern Ireland) 1999[^c-7c3b72f63710a3b75481f7b00413ff59]
 
 In rule 2 of the Crown Court (Amendment No. 2) Rules (Northern Ireland) 1999[^f00005] for the words “rule 65” there shall be substituted the words “rule 62”.
 
@@ -105,7 +105,7 @@ Irvine of Lairg, C.
 
 Dated 10th July 2000
 
-## SCHEDULE[^key-4aeeca86f8aae2bc9f1c70d4937ba72c]
+## SCHEDULE[^c-4aeeca86f8aae2bc9f1c70d4937ba72c]
 
 Rule 4(2).
 
@@ -235,22 +235,22 @@ These Rules amend the Crown Court Rules (Northern Ireland) 1979 to:
 
 [^f00002]: Footnote: [S.I. 1999/2789 (N.I. 8)](https://www.legislation.gov.uk/nisi/1999/2789)
 
-[^key-21c1c4645624fcc1edeb4988e0fa650f]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2000/227/article/1) in operation at 21.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/227/article/1/1)
+[^c-21c1c4645624fcc1edeb4988e0fa650f]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2000/227/article/1) in operation at 21.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/227/article/1/1)
 
-[^key-de559dea10cf573684e21a39356ce680]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/nisr/2000/227/article/1/2) revoked (1.12.2003) by [The Crown Court (Amendment No. 3) Rules (Northern Ireland) 2003 (S.R. 2003/471)](https://www.legislation.gov.uk/nisr/2003/471), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2003/471/article/1/1), [2(1)(a)](https://www.legislation.gov.uk/nisr/2003/471/article/2/1/a)
+[^c-de559dea10cf573684e21a39356ce680]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/nisr/2000/227/article/1/2) revoked (1.12.2003) by [The Crown Court (Amendment No. 3) Rules (Northern Ireland) 2003 (S.R. 2003/471)](https://www.legislation.gov.uk/nisr/2003/471), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2003/471/article/1/1), [2(1)(a)](https://www.legislation.gov.uk/nisr/2003/471/article/2/1/a)
 
 [^f00003]: Footnote: [S.R. 1979 No. 90](https://www.legislation.gov.uk/nisr/1979/90); to which the most recent relevant amendments were made by [S.R. 1999 No. 491](https://www.legislation.gov.uk/nisr/1999/491)
 
-[^key-09143527947506940944dccfaddf7b18]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2000/227/article/2) in operation at 21.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/227/article/1/1)
+[^c-09143527947506940944dccfaddf7b18]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2000/227/article/2) in operation at 21.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/227/article/1/1)
 
-[^key-287878635f16a3c81ee2125e52a3b33f]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2000/227/article/3) revoked (1.12.2003) by [The Crown Court (Amendment No. 3) Rules (Northern Ireland) 2003 (S.R. 2003/471)](https://www.legislation.gov.uk/nisr/2003/471), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2003/471/article/1/1), [2(1)(a)](https://www.legislation.gov.uk/nisr/2003/471/article/2/1/a)
+[^c-287878635f16a3c81ee2125e52a3b33f]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2000/227/article/3) revoked (1.12.2003) by [The Crown Court (Amendment No. 3) Rules (Northern Ireland) 2003 (S.R. 2003/471)](https://www.legislation.gov.uk/nisr/2003/471), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2003/471/article/1/1), [2(1)(a)](https://www.legislation.gov.uk/nisr/2003/471/article/2/1/a)
 
-[^key-b6b2f288fe1832749ee97d858063df9f]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2000/227/article/4) in operation at 21.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/227/article/1/1)
+[^c-b6b2f288fe1832749ee97d858063df9f]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2000/227/article/4) in operation at 21.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/227/article/1/1)
 
-[^key-7c3b72f63710a3b75481f7b00413ff59]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2000/227/article/5) in operation at 21.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/227/article/1/1)
+[^c-7c3b72f63710a3b75481f7b00413ff59]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2000/227/article/5) in operation at 21.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/227/article/1/1)
 
 [^f00005]: Footnote: [S.R. 1999 No. 491](https://www.legislation.gov.uk/nisr/1999/491)
 
-[^key-4aeeca86f8aae2bc9f1c70d4937ba72c]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2000/227/schedule) in operation at 21.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/227/article/1/1)
+[^c-4aeeca86f8aae2bc9f1c70d4937ba72c]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2000/227/schedule) in operation at 21.8.2000, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/227/article/1/1)
 
 [^f00006]: Footnote: [1996 c. 24](https://www.legislation.gov.uk/ukpga/1996/24)

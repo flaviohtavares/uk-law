@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84A. Third party determinations[^key-a6b54e637ff9f49669fe61be0c2f630f]
+## 84A. Third party determinations[^c-a6b54e637ff9f49669fe61be0c2f630f]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6b54e637ff9f49669fe61be0c2f630f]: Textual amendment: S. 84A inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/21)
+[^c-a6b54e637ff9f49669fe61be0c2f630f]: Textual amendment: S. 84A inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/21)

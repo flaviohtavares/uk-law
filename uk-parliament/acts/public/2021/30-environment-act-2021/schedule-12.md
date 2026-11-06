@@ -24,9 +24,9 @@ Section 73
 
 ### PART 1 — Principal amendments to the Clean Air Act 1993: England
 
-**1.**[^key-b204b5803e757b01295822a9dca8e775][^key-c65b49bc3d42a745d4c73665d593829b] The Clean Air Act 1993 is amended as follows.
+**1.**[^c-b204b5803e757b01295822a9dca8e775][^c-c65b49bc3d42a745d4c73665d593829b] The Clean Air Act 1993 is amended as follows.
 
-**2.**[^key-657f3dee490cc0c20d2708512bdaae46][^key-525490f149d7ab314dacab6a49226096] After section 19 insert—
+**2.**[^c-657f3dee490cc0c20d2708512bdaae46][^c-525490f149d7ab314dacab6a49226096] After section 19 insert—
 
 > **Regulation of smoke and fuel in smoke control areas in England**
 >
@@ -34,7 +34,7 @@ Section 73
 >
 > Schedule 1A makes provision for financial penalties in relation to the emission of smoke in smoke control areas in England.
 
-**3.**[^key-05f03fced1c18835106dc17e69a55be2][^key-e7a9efe43850cfc2b13f68cd56883976] After Schedule 1 insert—
+**3.**[^c-05f03fced1c18835106dc17e69a55be2][^c-e7a9efe43850cfc2b13f68cd56883976] After Schedule 1 insert—
 
 > **SCHEDULE 1A — Penalty for emission of smoke in smoke control area in England**
 >
@@ -180,7 +180,7 @@ Section 73
 >
 > (4) Where a notice of intent is given to a person in respect of a vessel, that person may object under paragraph 4 on the further ground that, on the occasion specified in the notice, the emission of smoke was solely due to the use of the vessel’s engine to propel the vessel or to provide electric power to the vessel.
 
-**4.**[^key-46854272c5748afa3d530c1ae91b9991][^key-846ef936911c0ce5cda6b0d9ef0fee48] After section 19A (as inserted by paragraph 2 above)—
+**4.**[^c-46854272c5748afa3d530c1ae91b9991][^c-846ef936911c0ce5cda6b0d9ef0fee48] After section 19A (as inserted by paragraph 2 above)—
 
 > **19B. Acquisition and sale of controlled solid fuel in England**
 >
@@ -244,7 +244,7 @@ Section 73
 >
 > (4) In subsection (3), “**approved fuel**” means a solid fuel specified in a list which has been published by the Secretary of State for the purposes of this section.
 
-**5.**[^key-e283dd818dfb20bfbc97e78c18018aae][^key-160f6c4c5752394b2defa07d57760bef] After section 26 insert—
+**5.**[^c-e283dd818dfb20bfbc97e78c18018aae][^c-160f6c4c5752394b2defa07d57760bef] After section 26 insert—
 
 > **26A. Duty of local authority to reimburse for adaptations of vessels in England**
 >
@@ -272,13 +272,13 @@ Section 73
 > - (a) the owner or occupier of the vessel ceases to have the right to moor the vessel at the single mooring place mentioned in subsection (1)(c), or
 > - (b) the vessel is absent from the smoke control area for a period of, or periods together totalling, three months.
 
-**6.**[^key-ba91cd9a812dcd3f74ff60b580c399da][^key-015fcfb7cd0def3c818a7b833db3a947] After section 28 insert—
+**6.**[^c-ba91cd9a812dcd3f74ff60b580c399da][^c-015fcfb7cd0def3c818a7b833db3a947] After section 28 insert—
 
 > **28A. Guidance for local authorities in England**
 >
 > A local authority in England must have regard to any guidance published by the Secretary of State about the exercise of the authority’s functions under this Part.
 
-**7.**[^key-54eadfc40474803c9f398b5a6a40fa9b][^key-156b97fffd05ded004c9f8287a417a5e] In section 44 (vessels), after subsection (2) insert—
+**7.**[^c-54eadfc40474803c9f398b5a6a40fa9b][^c-156b97fffd05ded004c9f8287a417a5e] In section 44 (vessels), after subsection (2) insert—
 
 > (2A) A smoke control order made under section 18 by a local authority in England may provide for vessels which are moored in the smoke control area to be subject to the operation of Schedule 1A.
 >
@@ -289,30 +289,30 @@ Section 73
 >
 > (2C) In subsection (2A) the reference to vessels which are moored includes a vessel which is unmoored but which is stationary at a mooring place in circumstances where it might reasonably be moored.
 
-**8.**[^key-5e7700001c935254dd9634ebbfdfaabf][^key-3ae412a9cff035faf72db9a0c01330ad] In section 56 (rights of entry and inspection etc), for subsection (2) substitute—
+**8.**[^c-5e7700001c935254dd9634ebbfdfaabf][^c-3ae412a9cff035faf72db9a0c01330ad] In section 56 (rights of entry and inspection etc), for subsection (2) substitute—
 
 > (2) Subsection (1) does not apply in relation to a private dwelling except in relation to—
 >
 > - (a) a private dwelling in relation to which adaptations are required under section 24(1), or
 > - (b) a private dwelling that is a vessel in relation to which there is a duty to make payments under section 26A(3).
 
-### PART 2 — Principal amendments to the Clean Air Act 1993: Wales[^key-7f3d9dc722409b5af1c8687463731a11]
+### PART 2 — Principal amendments to the Clean Air Act 1993: Wales[^c-7f3d9dc722409b5af1c8687463731a11]
 
 **No longer in force.**
 
-**9.**[^key-7f3d9dc722409b5af1c8687463731a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7f3d9dc722409b5af1c8687463731a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7f3d9dc722409b5af1c8687463731a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7f3d9dc722409b5af1c8687463731a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-7f3d9dc722409b5af1c8687463731a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7f3d9dc722409b5af1c8687463731a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 3 — Minor and consequential amendments
 
-#### 12. Minor and consequential amendments to the Clean Air Act 1993[^key-aacf4fd768324e49e96908d609e9717e][^key-a4351b14e2716af1ed11461f75dc70f3]
+#### 12. Minor and consequential amendments to the Clean Air Act 1993[^c-aacf4fd768324e49e96908d609e9717e][^c-a4351b14e2716af1ed11461f75dc70f3]
 
 The Clean Air Act 1993 is amended as follows.
 
-**13.**[^key-ff61cb2866ef211b917d88cdbf69a132][^key-80589b9652160e43bd38d8c3efcc845e] (1) Section 18 (declaration of smoke control area by local authority) is amended as follows.
+**13.**[^c-ff61cb2866ef211b917d88cdbf69a132][^c-80589b9652160e43bd38d8c3efcc845e] (1) Section 18 (declaration of smoke control area by local authority) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -325,7 +325,7 @@ The Clean Air Act 1993 is amended as follows.
 
 > (2A) For the purposes of this Part a smoke control order in England “applies” to a building, fireplace, fixed boiler or industrial plant if the operation of Schedule 1A is not excluded in relation to it by virtue of subsection (2)(b) or (c).
 
-**14.**[^key-dc0ea8bd6928044a2e26af62888a49a3][^key-1cbb0c7ac0fddfe78778fe455c995f50] (1) Section 20 (prohibition on emission of smoke in smoke control area) is amended as follows.
+**14.**[^c-dc0ea8bd6928044a2e26af62888a49a3][^c-1cbb0c7ac0fddfe78778fe455c995f50] (1) Section 20 (prohibition on emission of smoke in smoke control area) is amended as follows.
 
 (2) In the heading, at the end insert “in Wales”.
 
@@ -338,7 +338,7 @@ The Clean Air Act 1993 is amended as follows.
 - (a) omit “Except as provided by subsection (5ZA),”;
 - (b) for “Secretary of State” substitute “Welsh Ministers”.
 
-**15.**[^key-6daa50e432af5bbc625b370a56496bdb][^key-97717dab4ebaf092d0ac7f516cc95773] (1) Section 21 (power to exempt certain fireplaces) is amended as follows.
+**15.**[^c-6daa50e432af5bbc625b370a56496bdb][^c-97717dab4ebaf092d0ac7f516cc95773] (1) Section 21 (power to exempt certain fireplaces) is amended as follows.
 
 (2) In the heading, at the end insert “in Wales”.
 
@@ -350,7 +350,7 @@ The Clean Air Act 1993 is amended as follows.
 - (b) for “Secretary of State” substitute “Welsh Ministers”;
 - (c) for “he is” substitute “they are”.
 
-**16.**[^key-ccdbc0285e4c8d9d3e5f5b1ee590e2b6][^key-90c5e5997be5c41ff1f481318db9d180] (1) Section 22 (exemptions relating to particular areas) is amended as follows.
+**16.**[^c-ccdbc0285e4c8d9d3e5f5b1ee590e2b6][^c-90c5e5997be5c41ff1f481318db9d180] (1) Section 22 (exemptions relating to particular areas) is amended as follows.
 
 (2) In the heading, at the end insert “in Wales”.
 
@@ -365,7 +365,7 @@ The Clean Air Act 1993 is amended as follows.
 - (a) for “Secretary of State” substitute “Welsh Ministers”;
 - (b) for “he is” substitute “they are”.
 
-**17.**[^key-d0c0165ddcf6bad3aac0908eba9283c5][^key-ad4ea97c573658f575cc0cb1a21591e9] (1) Section 23 (acquisition and sale of unauthorised fuel in a smoke control area) is amended as follows.
+**17.**[^c-d0c0165ddcf6bad3aac0908eba9283c5][^c-ad4ea97c573658f575cc0cb1a21591e9] (1) Section 23 (acquisition and sale of unauthorised fuel in a smoke control area) is amended as follows.
 
 (2) In the heading, at the end insert “in Wales”.
 
@@ -389,12 +389,12 @@ The Clean Air Act 1993 is amended as follows.
 - (a) after first “fuel” insert “in Wales”;
 - (b) after “premises” insert “in Wales”.
 
-**18.**[^key-8718c7f3d48c77d8211ba93f42ba5c8d][^key-ccfb1e6c9da0419debd005901f86ffba] In section 24 (power to require adaptations of fireplaces), in subsection (1)—
+**18.**[^c-8718c7f3d48c77d8211ba93f42ba5c8d][^c-ccfb1e6c9da0419debd005901f86ffba] In section 24 (power to require adaptations of fireplaces), in subsection (1)—
 
 - (a) after second “area” insert “in Wales”;
 - (b) at the end insert “or the imposition of a financial penalty under Schedule 1A (penalty for emission of smoke in England)”.
 
-**19.**[^key-215dba9cbdaae531ae233e6f56af3611][^key-71acf689f055ed023f63b2f1054b4d39] In section 26 (power to make grants for fireplaces in churches etc)—
+**19.**[^c-215dba9cbdaae531ae233e6f56af3611][^c-71acf689f055ed023f63b2f1054b4d39] In section 26 (power to make grants for fireplaces in churches etc)—
 
 - (a) in subsection (1)—
   - (i) after second “area” insert “in Wales”;
@@ -403,7 +403,7 @@ The Clean Air Act 1993 is amended as follows.
 
   > (3) Where a smoke control order in England applies to a vessel which is moored (see section 44), subsection (2)(c) applies to the vessel as it applies in relation to premises.
 
-**20.**[^key-302a4dcc3845d59f430d288946a53978][^key-59449c69022de06be773f9a4d64dfe0a] In section 27 (references to adaptations)—
+**20.**[^c-302a4dcc3845d59f430d288946a53978][^c-59449c69022de06be773f9a4d64dfe0a] In section 27 (references to adaptations)—
 
 - (a) in the heading, at the end insert “or Schedule 1A”;
 - (b) in subsection (1)—
@@ -413,9 +413,9 @@ The Clean Air Act 1993 is amended as follows.
 - (c) in subsection (3), after “Act” insert “or liability under Schedule 1A to this Act”;
 - (d) in subsection (4), at the end insert “, and to any vessel to which section 26 or 26A (adaptations of vessels in England) applies”.
 
-**21.**[^key-018c382274d310926d025495a28801c1][^key-48828b64134696a701d7acdc01f6ab91] In section 28 (expenditure on execution of works), in subsection (3), at the end insert “, and to any vessel to which section 26 or section 26A (adaptations of vessels in England) applies”.
+**21.**[^c-018c382274d310926d025495a28801c1][^c-48828b64134696a701d7acdc01f6ab91] In section 28 (expenditure on execution of works), in subsection (3), at the end insert “, and to any vessel to which section 26 or section 26A (adaptations of vessels in England) applies”.
 
-**22.**[^key-d21b5f8dcf454508be31ddbaacb64554][^key-a9b7db8a17c446b67b0ee7372c10ed54] In section 29 (interpretation)—
+**22.**[^c-d21b5f8dcf454508be31ddbaacb64554][^c-a9b7db8a17c446b67b0ee7372c10ed54] In section 29 (interpretation)—
 
 - (a) in the definition of “old private dwelling”, omit the final “and”;
 - (b) in the definition of “smoke control order”, at the end insert “and”;
@@ -423,12 +423,12 @@ The Clean Air Act 1993 is amended as follows.
 
   > - “**smoke control order in England**” means a smoke control order made by a local authority in England.
 
-**23.**[^key-9ddf6787fe70cd10c350e0787a4349b3][^key-39352e823a56cfee0165666baa83fc87] In section 63 (orders and regulations)—
+**23.**[^c-9ddf6787fe70cd10c350e0787a4349b3][^c-39352e823a56cfee0165666baa83fc87] In section 63 (orders and regulations)—
 
 - (a) in subsection (2), after “47(2)” insert “or paragraph 3(4) or 4(6) of Schedule 1A”;
 - (b) in subsection (3), after “section” insert “19C,”.
 
-**24.**[^key-b2641b46e8a308f920676eb4ee524c71][^key-ffcee0b4b3b1632875c330653a42e1bf] (1) Schedule 1 (coming into operation of smoke control orders) is amended as follows.
+**24.**[^c-b2641b46e8a308f920676eb4ee524c71][^c-ffcee0b4b3b1632875c330653a42e1bf] (1) Schedule 1 (coming into operation of smoke control orders) is amended as follows.
 
 (2) In paragraph 5—
 
@@ -442,104 +442,104 @@ The Clean Air Act 1993 is amended as follows.
 > - (a) inform the Secretary of State that it has done so, and
 > - (b) provide the date on which the order is to come, or came, into operation.
 
-#### 25. Minor amendments to other legislation[^key-9e028f078640e4f55ca253f5f8a7d5bc][^key-f95090ca746197492d73c448c4bbe701]
+#### 25. Minor amendments to other legislation[^c-9e028f078640e4f55ca253f5f8a7d5bc][^c-f95090ca746197492d73c448c4bbe701]
 
 In section 79 of the Environmental Protection Act 1990 (statutory nuisances), in subsection (3)(i), insert “in Wales”.
 
 ### PART 4 — Smoke control areas in England: transitional provision
 
-**26.**[^key-4f496c90db775d4c3774fadea550fea6] Where a local authority in England has made a smoke control order under section 18 of the Clean Air Act 1993, any limitations or exemptions from the operation of section 20 of that Act (prohibition of emissions of smoke) made by that order under section 18(2)(b) or (c) of that Act that apply immediately before the commencement of Parts 1 and 3 of this Schedule continue to apply as if they were limitations or exemptions from the operation of Schedule 1A to that Act (penalty for emission of smoke), as inserted by paragraph 3 of this Schedule.
+**26.**[^c-4f496c90db775d4c3774fadea550fea6] Where a local authority in England has made a smoke control order under section 18 of the Clean Air Act 1993, any limitations or exemptions from the operation of section 20 of that Act (prohibition of emissions of smoke) made by that order under section 18(2)(b) or (c) of that Act that apply immediately before the commencement of Parts 1 and 3 of this Schedule continue to apply as if they were limitations or exemptions from the operation of Schedule 1A to that Act (penalty for emission of smoke), as inserted by paragraph 3 of this Schedule.
 
 ## Annotations
 
-[^key-b204b5803e757b01295822a9dca8e775]: Commencement: Sch. 12 para. 1 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-b204b5803e757b01295822a9dca8e775]: Commencement: Sch. 12 para. 1 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-c65b49bc3d42a745d4c73665d593829b]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/1) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-c65b49bc3d42a745d4c73665d593829b]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/1) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-657f3dee490cc0c20d2708512bdaae46]: Commencement: Sch. 12 para. 2 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-657f3dee490cc0c20d2708512bdaae46]: Commencement: Sch. 12 para. 2 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-525490f149d7ab314dacab6a49226096]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/2) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-525490f149d7ab314dacab6a49226096]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/2) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-05f03fced1c18835106dc17e69a55be2]: Commencement: Sch. 12 para. 3 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-05f03fced1c18835106dc17e69a55be2]: Commencement: Sch. 12 para. 3 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-e7a9efe43850cfc2b13f68cd56883976]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/3) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-e7a9efe43850cfc2b13f68cd56883976]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/3) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-46854272c5748afa3d530c1ae91b9991]: Commencement: Sch. 12 para. 4 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-46854272c5748afa3d530c1ae91b9991]: Commencement: Sch. 12 para. 4 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-846ef936911c0ce5cda6b0d9ef0fee48]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/4) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-846ef936911c0ce5cda6b0d9ef0fee48]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/4) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-e283dd818dfb20bfbc97e78c18018aae]: Commencement: Sch. 12 para. 5 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-e283dd818dfb20bfbc97e78c18018aae]: Commencement: Sch. 12 para. 5 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-160f6c4c5752394b2defa07d57760bef]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/5) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-160f6c4c5752394b2defa07d57760bef]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/5) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-ba91cd9a812dcd3f74ff60b580c399da]: Commencement: Sch. 12 para. 6 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-ba91cd9a812dcd3f74ff60b580c399da]: Commencement: Sch. 12 para. 6 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-015fcfb7cd0def3c818a7b833db3a947]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/6) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-015fcfb7cd0def3c818a7b833db3a947]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/6) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-54eadfc40474803c9f398b5a6a40fa9b]: Commencement: Sch. 12 para. 7 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-54eadfc40474803c9f398b5a6a40fa9b]: Commencement: Sch. 12 para. 7 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-156b97fffd05ded004c9f8287a417a5e]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/7) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-156b97fffd05ded004c9f8287a417a5e]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/7) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-5e7700001c935254dd9634ebbfdfaabf]: Commencement: Sch. 12 para. 8 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-5e7700001c935254dd9634ebbfdfaabf]: Commencement: Sch. 12 para. 8 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-3ae412a9cff035faf72db9a0c01330ad]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/8) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-3ae412a9cff035faf72db9a0c01330ad]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/8) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-7f3d9dc722409b5af1c8687463731a11]: Textual amendment: [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/part/2) repealed (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/23/b); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/uksi/2025/937/article/2/g)
+[^c-7f3d9dc722409b5af1c8687463731a11]: Textual amendment: [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/part/2) repealed (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/23/b); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/uksi/2025/937/article/2/g)
 
-[^key-aacf4fd768324e49e96908d609e9717e]: Commencement: Sch. 12 para. 12 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-aacf4fd768324e49e96908d609e9717e]: Commencement: Sch. 12 para. 12 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-a4351b14e2716af1ed11461f75dc70f3]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/12) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-a4351b14e2716af1ed11461f75dc70f3]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/12) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-ff61cb2866ef211b917d88cdbf69a132]: Commencement: Sch. 12 para. 13 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-ff61cb2866ef211b917d88cdbf69a132]: Commencement: Sch. 12 para. 13 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-80589b9652160e43bd38d8c3efcc845e]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/13) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-80589b9652160e43bd38d8c3efcc845e]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/13) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-dc0ea8bd6928044a2e26af62888a49a3]: Commencement: Sch. 12 para. 14 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-dc0ea8bd6928044a2e26af62888a49a3]: Commencement: Sch. 12 para. 14 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-1cbb0c7ac0fddfe78778fe455c995f50]: Commencement: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/14) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-1cbb0c7ac0fddfe78778fe455c995f50]: Commencement: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/14) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-6daa50e432af5bbc625b370a56496bdb]: Commencement: Sch. 12 para. 15 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-6daa50e432af5bbc625b370a56496bdb]: Commencement: Sch. 12 para. 15 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-97717dab4ebaf092d0ac7f516cc95773]: Commencement: [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/15) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-97717dab4ebaf092d0ac7f516cc95773]: Commencement: [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/15) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-ccdbc0285e4c8d9d3e5f5b1ee590e2b6]: Commencement: Sch. 12 para. 16 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-ccdbc0285e4c8d9d3e5f5b1ee590e2b6]: Commencement: Sch. 12 para. 16 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-90c5e5997be5c41ff1f481318db9d180]: Commencement: [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/16) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-90c5e5997be5c41ff1f481318db9d180]: Commencement: [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/16) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-d0c0165ddcf6bad3aac0908eba9283c5]: Commencement: Sch. 12 para. 17 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-d0c0165ddcf6bad3aac0908eba9283c5]: Commencement: Sch. 12 para. 17 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-ad4ea97c573658f575cc0cb1a21591e9]: Commencement: [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/17) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-ad4ea97c573658f575cc0cb1a21591e9]: Commencement: [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/17) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-8718c7f3d48c77d8211ba93f42ba5c8d]: Commencement: Sch. 12 para. 18 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-8718c7f3d48c77d8211ba93f42ba5c8d]: Commencement: Sch. 12 para. 18 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-ccfb1e6c9da0419debd005901f86ffba]: Commencement: [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/18) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-ccfb1e6c9da0419debd005901f86ffba]: Commencement: [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/18) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-215dba9cbdaae531ae233e6f56af3611]: Commencement: Sch. 12 para. 19 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-215dba9cbdaae531ae233e6f56af3611]: Commencement: Sch. 12 para. 19 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-71acf689f055ed023f63b2f1054b4d39]: Commencement: [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/19) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-71acf689f055ed023f63b2f1054b4d39]: Commencement: [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/19) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-302a4dcc3845d59f430d288946a53978]: Commencement: Sch. 12 para. 20 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-302a4dcc3845d59f430d288946a53978]: Commencement: Sch. 12 para. 20 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-59449c69022de06be773f9a4d64dfe0a]: Commencement: [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/20) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-59449c69022de06be773f9a4d64dfe0a]: Commencement: [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/20) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-018c382274d310926d025495a28801c1]: Commencement: Sch. 12 para. 21 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-018c382274d310926d025495a28801c1]: Commencement: Sch. 12 para. 21 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-48828b64134696a701d7acdc01f6ab91]: Commencement: [Sch. 12 para. 21](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/21) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-48828b64134696a701d7acdc01f6ab91]: Commencement: [Sch. 12 para. 21](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/21) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-d21b5f8dcf454508be31ddbaacb64554]: Commencement: Sch. 12 para. 22 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-d21b5f8dcf454508be31ddbaacb64554]: Commencement: Sch. 12 para. 22 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-a9b7db8a17c446b67b0ee7372c10ed54]: Commencement: [Sch. 12 para. 22](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/22) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-a9b7db8a17c446b67b0ee7372c10ed54]: Commencement: [Sch. 12 para. 22](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/22) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-9ddf6787fe70cd10c350e0787a4349b3]: Commencement: Sch. 12 para. 23 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-9ddf6787fe70cd10c350e0787a4349b3]: Commencement: Sch. 12 para. 23 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-39352e823a56cfee0165666baa83fc87]: Commencement: [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/23) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-39352e823a56cfee0165666baa83fc87]: Commencement: [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/23) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-b2641b46e8a308f920676eb4ee524c71]: Commencement: Sch. 12 para. 24 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-b2641b46e8a308f920676eb4ee524c71]: Commencement: Sch. 12 para. 24 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-ffcee0b4b3b1632875c330653a42e1bf]: Commencement: [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/24) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-ffcee0b4b3b1632875c330653a42e1bf]: Commencement: [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/24) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-9e028f078640e4f55ca253f5f8a7d5bc]: Commencement: Sch. 12 para. 25 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-9e028f078640e4f55ca253f5f8a7d5bc]: Commencement: Sch. 12 para. 25 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-f95090ca746197492d73c448c4bbe701]: Commencement: [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/25) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-f95090ca746197492d73c448c4bbe701]: Commencement: [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/25) in force at 1.5.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-4f496c90db775d4c3774fadea550fea6]: Commencement: Sch. 12 para. 26 in force at Royal Assent, see [s. 147](https://www.legislation.gov.uk/ukpga/2021/30/section/147)
+[^c-4f496c90db775d4c3774fadea550fea6]: Commencement: Sch. 12 para. 26 in force at Royal Assent, see [s. 147](https://www.legislation.gov.uk/ukpga/2021/30/section/147)

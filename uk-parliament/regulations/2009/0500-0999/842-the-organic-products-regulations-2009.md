@@ -53,9 +53,9 @@ The Secretary of State makes these Regulations—
 - (a)
 - (b)
 
-and in exercise of the powers conferred by paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00004].[^key-41594a90586b386763da6b05600ede7b]
+and in exercise of the powers conferred by paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00004].[^c-41594a90586b386763da6b05600ede7b]
 
-In accordance with section 56(1) of the Finance Act 1973, the Treasury consent to the making of these Regulations.[^key-41594a90586b386763da6b05600ede7b]
+In accordance with section 56(1) of the Finance Act 1973, the Treasury consent to the making of these Regulations.[^c-41594a90586b386763da6b05600ede7b]
 
 ## PART 1 — Introductory provisions
 
@@ -87,9 +87,9 @@ These Regulations may be cited as the Organic Products Regulations 2009; they co
 - “port health authority” means—
   - (a) in relation to the London port health district (within the meaning given by section 7(1) of the Public Health (Control of Disease) Act 1984[^f00011]), the Common Council of the City of London; and
   - (b) in relation to any port health district constituted by order under section 2(3) of that Act, the port health authority for that district constituted by order under section 2(4) of that Act;
-- “specified [^key-e6a00701851c71f749097eca559a6fa9]... provision” means those provisions specified in column 1 of the table in the Schedule, as read with any supplementary provisions specified in column 2 of that Schedule;
+- “specified [^c-e6a00701851c71f749097eca559a6fa9]... provision” means those provisions specified in column 1 of the table in the Schedule, as read with any supplementary provisions specified in column 2 of that Schedule;
 - “the Soil Association” means the Soil Association Limited, a company limited by guarantee and registered charity No 206862 of South Plaza, Marlborough Street, Bristol BS1 3NX.
-- “[^key-fb98df25d772ecd83d5ca80bed0ed520]**third country**” means any country or territory other than—
+- “[^c-fb98df25d772ecd83d5ca80bed0ed520]**third country**” means any country or territory other than—
   - (a) the United Kingdom,
   - (b) the Bailiwick of Guernsey,
   - (c) the Bailiwick of Jersey, or
@@ -113,7 +113,7 @@ These Regulations may be cited as the Organic Products Regulations 2009; they co
 
 Article 28 of the Council Regulation (requirements to notify activities and submit undertakings to the control system) does not apply to an operator who sells an organic product directly to the final consumer or user, provided that the operator does not produce, prepare, store other than in connection with the point of sale, or import such a product from a third country, or has not contracted out such activities to a third party.
 
-### 5. Permitted exceptions to the organic production rules[^key-66539291cbc1392f15b39b9fb59a6797]
+### 5. Permitted exceptions to the organic production rules[^c-66539291cbc1392f15b39b9fb59a6797]
 
 A control body may permit the use of non-organic seed and seed potatoes for the purposes of Article 45(1)(b) and in accordance with Article 45 of Commission Regulation 889/2008.
 
@@ -121,7 +121,7 @@ A control body may permit the use of non-organic seed and seed potatoes for the 
 
 ### 6. Advance notification
 
-(1) A person seeking the release for free circulation in Great Britain[^key-02a7110d4a24e1020098f52b6cb18e45] of a consignment must, during the normal office hours of the relevant authority at the place of import, give to an authorised officer advance notice in writing of the intended arrival of the consignment at that place of import.
+(1) A person seeking the release for free circulation in Great Britain[^c-02a7110d4a24e1020098f52b6cb18e45] of a consignment must, during the normal office hours of the relevant authority at the place of import, give to an authorised officer advance notice in writing of the intended arrival of the consignment at that place of import.
 
 (2) Any such notice must be given at least six hours in advance in relation to a consignment arriving by air and at least twenty four hours in advance in relation to a consignment arriving by any other means.
 
@@ -132,7 +132,7 @@ A control body may permit the use of non-organic seed and seed potatoes for the 
 
 ### 7. Control on movement
 
-(1) An authorised officer may prohibit the movement of a consignment from the place of import or from any other place from which release for free circulation in[^key-d3608ebb90a11887b785a27f9466d42d] Great Britain[^key-70a52585d8e7a02f0ae47669c728c50f] is being sought if the officer has reason to believe that there has been a failure to comply with any relevant provision of the Council Regulation or Commission Regulation 1235/2008.
+(1) An authorised officer may prohibit the movement of a consignment from the place of import or from any other place from which release for free circulation in[^c-d3608ebb90a11887b785a27f9466d42d] Great Britain[^c-70a52585d8e7a02f0ae47669c728c50f] is being sought if the officer has reason to believe that there has been a failure to comply with any relevant provision of the Council Regulation or Commission Regulation 1235/2008.
 
 (2) An officer who has prohibited such movement must, as soon as possible, give written notice to the importer or person who appears to the officer to be in charge of the consignment.
 
@@ -171,7 +171,7 @@ an authorised officer may order that, under supervision, the controlled consignm
 - (b) specify the place to which the controlled consignment is to be moved; and
 - (c) state that the controlled consignment continues to be controlled.
 
-(4) Where such a consent has been given and the consignment has been moved to the place in question, the prohibition on movement under regulation 7 applies to it at the place in question as it applied at the place where the prohibition on movement under that regulation last applied[^key-2f075dae7958e119aa3d83bcabca7af7].
+(4) Where such a consent has been given and the consignment has been moved to the place in question, the prohibition on movement under regulation 7 applies to it at the place in question as it applied at the place where the prohibition on movement under that regulation last applied[^c-2f075dae7958e119aa3d83bcabca7af7].
 
 ## PART 4 — Fees
 
@@ -183,7 +183,7 @@ an authorised officer may order that, under supervision, the controlled consignm
 
 ### 10. Fees for registering information in the database
 
-(1) Subject to paragraph (2), the Soil Association must charge a supplier a fee of £182[^key-d6d8c36e2f9201e9440a86170096a8ae] for registering information in the database in accordance with Articles 49(1) and 51(1) of Commission Regulation 889/2008.
+(1) Subject to paragraph (2), the Soil Association must charge a supplier a fee of £182[^c-d6d8c36e2f9201e9440a86170096a8ae] for registering information in the database in accordance with Articles 49(1) and 51(1) of Commission Regulation 889/2008.
 
 (2) The Soil Association may waive the whole or part of any fee payable under paragraph (1).
 
@@ -191,13 +191,13 @@ an authorised officer may order that, under supervision, the controlled consignm
 
 The Secretary of State may charge a fee of £38 for issuing or for renewing a provisional authorisation to permit the use of a non-organic agricultural ingredient in organic production for the purposes of Article 19(1)(c) of the Council Regulation.
 
-### 12. Fees for import authorisations[^key-b796a34cf46c620cd97328ce77a98988]
+### 12. Fees for import authorisations[^c-b796a34cf46c620cd97328ce77a98988]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 13. Fees for approvals of control bodies and post-approval inspections
 
-(1) The Secretary of State may charge a person who has applied for approval as a control body for the purposes of Article 27 of the Council Regulation a fee of £203.00[^key-b716886e833779bc9d5645c93a28b63c].
+(1) The Secretary of State may charge a person who has applied for approval as a control body for the purposes of Article 27 of the Council Regulation a fee of £203.00[^c-b716886e833779bc9d5645c93a28b63c].
 
 (2) The Secretary of State may charge a control body a fee in respect of any expenses reasonably incurred in carrying out, for the purposes of Article 27(8) or (9) of the Council Regulation—
 
@@ -262,9 +262,9 @@ is evidence (and, in Scotland, sufficient evidence) of the facts stated in it un
 
 ### 18. Offences
 
-(1) The Schedule (specified [^key-661cafb3bb184c6c679614bb12488c44]... provisions) has effect.
+(1) The Schedule (specified [^c-661cafb3bb184c6c679614bb12488c44]... provisions) has effect.
 
-(2) It is an offence for a person to contravene any of the specified [^key-661cafb3bb184c6c679614bb12488c44]... provisions or regulation 6.
+(2) It is an offence for a person to contravene any of the specified [^c-661cafb3bb184c6c679614bb12488c44]... provisions or regulation 6.
 
 (3) It is an offence for a person, knowing a consignment to be a controlled consignment—
 
@@ -294,9 +294,9 @@ A person guilty of an offence under these Regulations is liable on summary convi
 
 ### 22. Enforcement
 
-(1) Subject to paragraphs (2) and (3), these Regulations and the specified [^key-3015cb272a725ddde8ad0f5019ddc096]... provisions are enforced by the local authority within its area.
+(1) Subject to paragraphs (2) and (3), these Regulations and the specified [^c-3015cb272a725ddde8ad0f5019ddc096]... provisions are enforced by the local authority within its area.
 
-(2)[^key-ec55dee13607cc8c34017d23eab481a7] In relation to products imported from third countries, where there is a port health authority for the place of import or other place from which release for free circulation in Great Britain[^key-fe7dc2d48d9de620a2efacf7b245ce44] is being sought, these Regulations and the specified [^key-3015cb272a725ddde8ad0f5019ddc096]... provisions are enforced by that authority instead of by the local authority.
+(2)[^c-ec55dee13607cc8c34017d23eab481a7] In relation to products imported from third countries, where there is a port health authority for the place of import or other place from which release for free circulation in Great Britain[^c-fe7dc2d48d9de620a2efacf7b245ce44] is being sought, these Regulations and the specified [^c-3015cb272a725ddde8ad0f5019ddc096]... provisions are enforced by that authority instead of by the local authority.
 
 (3) In relation to cases of a particular description, or a particular case, the Secretary of State may give written directions to a local authority or a port health authority concerning the enforcement of these Regulations, and such directions may also be given—
 
@@ -306,9 +306,9 @@ A person guilty of an offence under these Regulations is liable on summary convi
 
 ### 23. Powers of entry
 
-(1) An authorised officer may, on producing (if so required) a duly authenticated document showing the officer’s authority, at all reasonable hours enter any premises for the purposes of enforcing the specified [^key-3f642e53b34bf5d4393e4eb9d711234f]... provisions or these Regulations.
+(1) An authorised officer may, on producing (if so required) a duly authenticated document showing the officer’s authority, at all reasonable hours enter any premises for the purposes of enforcing the specified [^c-3f642e53b34bf5d4393e4eb9d711234f]... provisions or these Regulations.
 
-(2) The authorised officer may be accompanied by such other persons as the officer considers necessary.[^key-599137e4ba1a34834a80ab609ce75d21]...
+(2) The authorised officer may be accompanied by such other persons as the officer considers necessary.[^c-599137e4ba1a34834a80ab609ce75d21]...
 
 (3) If a justice of the peace is satisfied on sworn information or, in Northern Ireland, on a complaint on oath that there are reasonable grounds for believing—
 
@@ -362,7 +362,7 @@ An authorised officer may require any person to provide the officer with such as
 
 (1) It is an offence for a person—
 
-- (a) intentionally to obstruct a person acting in the execution or enforcement of these Regulations or the specified [^key-24e1b5c66d22195a25ff9d3a6cd6b5bd]... provisions; or
+- (a) intentionally to obstruct a person acting in the execution or enforcement of these Regulations or the specified [^c-24e1b5c66d22195a25ff9d3a6cd6b5bd]... provisions; or
 - (b) without reasonable excuse, the proof of which lies on the person, to fail to comply with any requirement made by an authorised officer under regulation 25.
 
 (2) A person who, in response to a requirement made under regulation 25, makes any representation which is false or misleading in a material particular and does so recklessly or knowing it to be false or misleading in that particular is guilty of an offence.
@@ -432,7 +432,7 @@ The following are revoked—
 - (b) the Organic Products Regulations 2004[^f00022]; and
 - (c) regulation 2 of the Environmental Stewardship (England) and Organic Products (Amendment) Regulations 2006[^f00023].
 
-### 32A. Review[^key-f3cea1b8de307d27f65380586c5875d0]
+### 32A. Review[^c-f3cea1b8de307d27f65380586c5875d0]
 
 (1) The Secretary of State, in relation to England, must from time to time—
 
@@ -466,7 +466,7 @@ Steve McCabe
 
 Two of the Lords Commissioners of Her Majesty’s Treasury
 
-## SCHEDULE — Specified ... Provisions[^key-2f1e8bae3bff7a12cc1096c713982b50]
+## SCHEDULE — Specified ... Provisions[^c-2f1e8bae3bff7a12cc1096c713982b50]
 
 Regulations 2(1) and 18
 
@@ -501,7 +501,7 @@ Regulations 2(1) and 18
 </tbody>
 </table>
 
-[^key-e14e30a7686125dd2ea51f3e52a54b78][^key-e527de85abae4b0f056d145515b87ae7][^key-4b594211b43533d85469fc27c6492d1f]
+[^c-e14e30a7686125dd2ea51f3e52a54b78][^c-e527de85abae4b0f056d145515b87ae7][^c-4b594211b43533d85469fc27c6492d1f]
 
 EXPLANATORY NOTE
 
@@ -535,7 +535,7 @@ An Impact Assessment has been prepared and a copy placed in the library of each 
 
 [^f00004]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-41594a90586b386763da6b05600ede7b]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/959/regulation/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/959/schedule/3) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-41594a90586b386763da6b05600ede7b]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/959/regulation/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/959/schedule/3) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00005]: Footnote: OJ No L 250, 18.9.08, p 1; last amended by Commission Regulation [(EC) No 1254/2008](https://www.legislation.gov.uk/european/regulation/2008/1254) (OJ No L 337, 16.12.08, p 80).
 
@@ -551,49 +551,49 @@ An Impact Assessment has been prepared and a copy placed in the library of each 
 
 [^f00011]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-e6a00701851c71f749097eca559a6fa9]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/2/1) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6a00701851c71f749097eca559a6fa9]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/2/1) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fb98df25d772ecd83d5ca80bed0ed520]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/2/1) inserted (31.12.2020) by [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb98df25d772ecd83d5ca80bed0ed520]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/2/1) inserted (31.12.2020) by [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_3f654302-cad4-45c5-84c3-7abda5db9d76]: Textual amendment: Word in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
 [^M_F_ec55add7-5fdb-46bb-c6f5-8aec79064218]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
-[^key-66539291cbc1392f15b39b9fb59a6797]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/842/regulation/5) substituted (1.10.2015) by [The Organic Products (Amendment) Regulations 2015 (S.I. 2015/1669)](https://www.legislation.gov.uk/uksi/2015/1669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1669/regulation/2/2)
+[^c-66539291cbc1392f15b39b9fb59a6797]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/842/regulation/5) substituted (1.10.2015) by [The Organic Products (Amendment) Regulations 2015 (S.I. 2015/1669)](https://www.legislation.gov.uk/uksi/2015/1669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1669/regulation/2/2)
 
-[^key-02a7110d4a24e1020098f52b6cb18e45]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/6/1) substitued (31.12.2020) by S.I. 2019/109, reg. 2(3) (as substituted by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/4/2/a))
+[^c-02a7110d4a24e1020098f52b6cb18e45]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/6/1) substitued (31.12.2020) by S.I. 2019/109, reg. 2(3) (as substituted by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/4/2/a))
 
-[^key-d3608ebb90a11887b785a27f9466d42d]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/7/1) inserted (1.10.2010) by [The Organic Products (Amendment) Regulations 2010 (S.I. 2010/1902)](https://www.legislation.gov.uk/uksi/2010/1902), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1902/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2010/1902/regulation/2/a)
+[^c-d3608ebb90a11887b785a27f9466d42d]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/7/1) inserted (1.10.2010) by [The Organic Products (Amendment) Regulations 2010 (S.I. 2010/1902)](https://www.legislation.gov.uk/uksi/2010/1902), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1902/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2010/1902/regulation/2/a)
 
-[^key-70a52585d8e7a02f0ae47669c728c50f]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/7/1) substituted (31.12.2020) by S.I. 2019/109, reg. 2(4) (as substituted by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/4/2/b))
+[^c-70a52585d8e7a02f0ae47669c728c50f]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/7/1) substituted (31.12.2020) by S.I. 2019/109, reg. 2(4) (as substituted by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/4/2/b))
 
-[^key-2f075dae7958e119aa3d83bcabca7af7]: Textual amendment: Words in reg. 8(4) substituted (1.10.2010) by [The Organic Products (Amendment) Regulations 2010 (S.I. 2010/1902)](https://www.legislation.gov.uk/uksi/2010/1902), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1902/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/1902/regulation/2/b)
+[^c-2f075dae7958e119aa3d83bcabca7af7]: Textual amendment: Words in reg. 8(4) substituted (1.10.2010) by [The Organic Products (Amendment) Regulations 2010 (S.I. 2010/1902)](https://www.legislation.gov.uk/uksi/2010/1902), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1902/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2010/1902/regulation/2/b)
 
-[^key-d6d8c36e2f9201e9440a86170096a8ae]: Textual amendment: Reg. 10(1) sum substituted (1.10.2010) by [The Organic Products (Amendment) Regulations 2010 (S.I. 2010/1902)](https://www.legislation.gov.uk/uksi/2010/1902), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1902/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2010/1902/regulation/2/c)
+[^c-d6d8c36e2f9201e9440a86170096a8ae]: Textual amendment: Reg. 10(1) sum substituted (1.10.2010) by [The Organic Products (Amendment) Regulations 2010 (S.I. 2010/1902)](https://www.legislation.gov.uk/uksi/2010/1902), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1902/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2010/1902/regulation/2/c)
 
-[^key-b796a34cf46c620cd97328ce77a98988]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/842/regulation/12) omitted (1.10.2015) by virtue of [The Organic Products (Amendment) Regulations 2015 (S.I. 2015/1669)](https://www.legislation.gov.uk/uksi/2015/1669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1669/regulation/2/3)
+[^c-b796a34cf46c620cd97328ce77a98988]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/842/regulation/12) omitted (1.10.2015) by virtue of [The Organic Products (Amendment) Regulations 2015 (S.I. 2015/1669)](https://www.legislation.gov.uk/uksi/2015/1669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1669/regulation/2/3)
 
-[^key-b716886e833779bc9d5645c93a28b63c]: Textual amendment: Reg. 13(1) sum substituted (1.10.2015) by [The Organic Products (Amendment) Regulations 2015 (S.I. 2015/1669)](https://www.legislation.gov.uk/uksi/2015/1669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1669/regulation/2/4)
+[^c-b716886e833779bc9d5645c93a28b63c]: Textual amendment: Reg. 13(1) sum substituted (1.10.2015) by [The Organic Products (Amendment) Regulations 2015 (S.I. 2015/1669)](https://www.legislation.gov.uk/uksi/2015/1669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1669/regulation/2/4)
 
 [^f00012]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16). Section 27(2) was amended by the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), section 40(1) and Schedule 5, paragraphs 7, and 8. There are further amendments not relevant to these Regulations.
 
 [^f00013]: Footnote: [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762), to which there are amendments not relevant to these Regulations.
 
-[^key-661cafb3bb184c6c679614bb12488c44]: Textual amendment: Word in [reg. 18](https://www.legislation.gov.uk/uksi/2009/842/regulation/18) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-661cafb3bb184c6c679614bb12488c44]: Textual amendment: Word in [reg. 18](https://www.legislation.gov.uk/uksi/2009/842/regulation/18) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3015cb272a725ddde8ad0f5019ddc096]: Textual amendment: Word in [reg. 22](https://www.legislation.gov.uk/uksi/2009/842/regulation/22) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3015cb272a725ddde8ad0f5019ddc096]: Textual amendment: Word in [reg. 22](https://www.legislation.gov.uk/uksi/2009/842/regulation/22) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ec55dee13607cc8c34017d23eab481a7]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2009/842/regulation/22/2) substituted (1.10.2010) by [The Organic Products (Amendment) Regulations 2010 (S.I. 2010/1902)](https://www.legislation.gov.uk/uksi/2010/1902), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1902/regulation/1), [2(g)](https://www.legislation.gov.uk/uksi/2010/1902/regulation/2/g)
+[^c-ec55dee13607cc8c34017d23eab481a7]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2009/842/regulation/22/2) substituted (1.10.2010) by [The Organic Products (Amendment) Regulations 2010 (S.I. 2010/1902)](https://www.legislation.gov.uk/uksi/2010/1902), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1902/regulation/1), [2(g)](https://www.legislation.gov.uk/uksi/2010/1902/regulation/2/g)
 
-[^key-fe7dc2d48d9de620a2efacf7b245ce44]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2009/842/regulation/22/2) substituted (31.12.2020) by S.I. 2019/109, reg. 2(6)(b) (as substituted by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [4(2)(c)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/4/2/c))
+[^c-fe7dc2d48d9de620a2efacf7b245ce44]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2009/842/regulation/22/2) substituted (31.12.2020) by S.I. 2019/109, reg. 2(6)(b) (as substituted by [The Organic Products (Production and Control) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1400)](https://www.legislation.gov.uk/uksi/2020/1400), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/1/b), [4(2)(c)](https://www.legislation.gov.uk/uksi/2020/1400/regulation/4/2/c))
 
-[^key-3f642e53b34bf5d4393e4eb9d711234f]: Textual amendment: Word in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/23/1) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f642e53b34bf5d4393e4eb9d711234f]: Textual amendment: Word in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2009/842/regulation/23/1) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-599137e4ba1a34834a80ab609ce75d21]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2009/842/regulation/23/2) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-599137e4ba1a34834a80ab609ce75d21]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2009/842/regulation/23/2) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00014]: Footnote: [1975 c. 20](https://www.legislation.gov.uk/ukpga/1975/20); the definition of “full justice” was inserted by section 8 of the Bail, Judicial Appointments etc. (Scotland) Act [2000 (asp 9)](https://www.legislation.gov.uk/asp/2000/9).
 
-[^key-24e1b5c66d22195a25ff9d3a6cd6b5bd]: Textual amendment: Word in [reg. 26(1)(a)](https://www.legislation.gov.uk/uksi/2009/842/regulation/26/1/a) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24e1b5c66d22195a25ff9d3a6cd6b5bd]: Textual amendment: Word in [reg. 26(1)(a)](https://www.legislation.gov.uk/uksi/2009/842/regulation/26/1/a) omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00015]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1) and (2) of section 33 were repealed by the Magistrates’ Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6; subsection (3) was amended by the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, part II, paragraph 19; subsection (4) was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 71 and Schedule 10, and by the Magistrates’ Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 154 and Schedule 7, paragraph 5; subsection (5) was repealed by the Magistrates’ Court Act 1952, section 132 and Schedule 6.
 
@@ -613,12 +613,12 @@ An Impact Assessment has been prepared and a copy placed in the library of each 
 
 [^f00023]: Footnote: [S.I. 2006/2075](https://www.legislation.gov.uk/uksi/2006/2075).
 
-[^key-f3cea1b8de307d27f65380586c5875d0]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2009/842/regulation/32A) inserted (1.10.2015) by [The Organic Products (Amendment) Regulations 2015 (S.I. 2015/1669)](https://www.legislation.gov.uk/uksi/2015/1669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/1669/regulation/2/5)
+[^c-f3cea1b8de307d27f65380586c5875d0]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2009/842/regulation/32A) inserted (1.10.2015) by [The Organic Products (Amendment) Regulations 2015 (S.I. 2015/1669)](https://www.legislation.gov.uk/uksi/2015/1669), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1669/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/1669/regulation/2/5)
 
-[^key-2f1e8bae3bff7a12cc1096c713982b50]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2009/842/schedule) heading omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f1e8bae3bff7a12cc1096c713982b50]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2009/842/schedule) heading omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e14e30a7686125dd2ea51f3e52a54b78]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/842/schedule) Table omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e14e30a7686125dd2ea51f3e52a54b78]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/842/schedule) Table omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e527de85abae4b0f056d145515b87ae7]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/842/schedule) Table omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e527de85abae4b0f056d145515b87ae7]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/842/schedule) Table omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4b594211b43533d85469fc27c6492d1f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/842/schedule) Table omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(9)(d)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/9/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b594211b43533d85469fc27c6492d1f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2009/842/schedule) Table omitted (31.12.2020) by virtue of [The Organic Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/109)](https://www.legislation.gov.uk/uksi/2019/109), [regs. 1](https://www.legislation.gov.uk/uksi/2019/109/regulation/1), [2(9)(d)](https://www.legislation.gov.uk/uksi/2019/109/regulation/2/9/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

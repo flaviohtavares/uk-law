@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Cooperation of storage licensing authority with economic regulator[^key-5dd29901487641bc552fa959b6ce039f]
+## 53. Cooperation of storage licensing authority with economic regulator[^c-5dd29901487641bc552fa959b6ce039f]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dd29901487641bc552fa959b6ce039f]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/52/section/53) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-5dd29901487641bc552fa959b6ce039f]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/52/section/53) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

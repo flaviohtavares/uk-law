@@ -80,7 +80,7 @@ Section (1)3.
 
 #### Agriculture Act 1967 (c. 22)
 
-**32.** In section 67(3) of the Agriculture Act 1967, in paragraph (e), for the words following “ benefits” substitute “ payable under Part II of the Social Security Act 1975”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-f73d788a9203a425cbbb94f1a5a3992a]
+**32.** In section 67(3) of the Agriculture Act 1967, in paragraph (e), for the words following “ benefits” substitute “ payable under Part II of the Social Security Act 1975”. *(Extent: E+W)* *(affected by repeal, see note)*[^c-f73d788a9203a425cbbb94f1a5a3992a]
 
 #### Public Expenditure and Receipts Act 1968 (c. 14)
 
@@ -353,7 +353,7 @@ and in subsection (4), omit “ 48(3) or” and for “ the relevant” substitu
 
 [^c782209]: Textual amendment: [Sch. 2 paras. 24](https://www.legislation.gov.uk/ukpga/1975/18/schedule/2/paragraph/24)—31 repealed by [Supplementary Benefits Act 1976 (c. 71)](https://www.legislation.gov.uk/ukpga/1976/71), [s. 35(3)](https://www.legislation.gov.uk/ukpga/1976/71/section/35/3), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1976/71/schedule/8/part/I); words in para. 31 expressed to be repealed (1.7.1992) by Social Security (Consequential Provisions)(Northern Ireland) Act 1992 (c. 9), s.3 Sch. 1
 
-[^key-f73d788a9203a425cbbb94f1a5a3992a]: Textual amendment: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/1975/18/schedule/2/paragraph/32) repealed (E.W.) (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))
+[^c-f73d788a9203a425cbbb94f1a5a3992a]: Textual amendment: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/1975/18/schedule/2/paragraph/32) repealed (E.W.) (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))
 
 [^c782210]: Textual amendment: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/1975/18/schedule/2/paragraph/34) repealed by [Rent Act 1977 (c. 42)](https://www.legislation.gov.uk/ukpga/1977/42), [s. 155(5)](https://www.legislation.gov.uk/ukpga/1977/42/section/155/5), [Sch. 25](https://www.legislation.gov.uk/ukpga/1977/42/schedule/25)
 

@@ -37,7 +37,7 @@ on the procedure for attesting the conformity of construction products pursuant 
 
 (98/213/EC)
 
-[^key-2cff2ebbee16f756afa51c0e1a4249d3]
+[^c-2cff2ebbee16f756afa51c0e1a4249d3]
 
 THE COMMISSION OF THE EUROPEAN COMMUNITIES,
 
@@ -290,7 +290,7 @@ The specification for the system must be such that it may be implemented even wh
 
 ## Annotations
 
-[^key-2cff2ebbee16f756afa51c0e1a4249d3]: Modification: Decision modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/2) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(c)-(e)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/c)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2cff2ebbee16f756afa51c0e1a4249d3]: Modification: Decision modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/2) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(c)-(e)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/c)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [OJ L 40, 11. 2. 1989, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.040.01.0012.01.ENG).
 

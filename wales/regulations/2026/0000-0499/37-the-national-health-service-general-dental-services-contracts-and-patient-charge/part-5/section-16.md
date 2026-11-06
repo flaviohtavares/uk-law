@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Services: general[^key-5b68b423b290177bf5f5c7853c927a50]
+## 16. Services: general[^c-5b68b423b290177bf5f5c7853c927a50]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b68b423b290177bf5f5c7853c927a50]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2026/37/regulation/16) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-5b68b423b290177bf5f5c7853c927a50]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2026/37/regulation/16) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

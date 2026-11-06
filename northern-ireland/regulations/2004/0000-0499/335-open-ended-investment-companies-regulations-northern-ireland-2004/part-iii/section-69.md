@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Auditors[^key-5f7fa019981b5d7bb42e40c51f777608]
+## 69. Auditors[^c-5f7fa019981b5d7bb42e40c51f777608]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5 makes provision with respect to the auditors of open-ended investment
 
 ## Annotations
 
-[^key-5f7fa019981b5d7bb42e40c51f777608]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2004/335/regulation/69) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-5f7fa019981b5d7bb42e40c51f777608]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2004/335/regulation/69) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

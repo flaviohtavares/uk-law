@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-3a94b164e443bfddada7b2eeb059ea3d][^key-8e6aa851b49cae7c870fc564a8416237] After section 22 of the WIA there is inserted—
+(1)[^c-3a94b164e443bfddada7b2eeb059ea3d][^c-8e6aa851b49cae7c870fc564a8416237] After section 22 of the WIA there is inserted—
 
 > **Financial penalties**
 >
@@ -176,7 +176,7 @@ summary: ''
 >
 > the enforcement authority may recover from the company, as a civil debt due to him or it, any of the penalty and any interest which has not been paid.
 
-(2)[^key-5b5b19bed91d625b710555ea89a7f227] In section 195 of the WIA (keeping of a register), in subsection (2), the “and” at the end of paragraph (d) is omitted, and after paragraph (e) there is inserted—
+(2)[^c-5b5b19bed91d625b710555ea89a7f227] In section 195 of the WIA (keeping of a register), in subsection (2), the “and” at the end of paragraph (d) is omitted, and after paragraph (e) there is inserted—
 
 > - (f) every penalty imposed under section 22A(1) or (2) above and every notice under section 22A(6) above;
 
@@ -184,8 +184,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3a94b164e443bfddada7b2eeb059ea3d]: Commencement: [S. 48(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/48/1) in force at 1.10.2004 for specified purposes by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/e) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-3a94b164e443bfddada7b2eeb059ea3d]: Commencement: [S. 48(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/48/1) in force at 1.10.2004 for specified purposes by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/e) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
 
-[^key-8e6aa851b49cae7c870fc564a8416237]: Commencement: [S. 48(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/48/1) in force at 1.4.2005 in so far as not already in force by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/968/article/2/i)
+[^c-8e6aa851b49cae7c870fc564a8416237]: Commencement: [S. 48(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/48/1) in force at 1.4.2005 in so far as not already in force by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/968/article/2/i)
 
-[^key-5b5b19bed91d625b710555ea89a7f227]: Commencement: [S. 48(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/48/2) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/968/article/2/i)
+[^c-5b5b19bed91d625b710555ea89a7f227]: Commencement: [S. 48(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/48/2) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/968/article/2/i)

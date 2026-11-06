@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Trade offences in CEMA: modification of penalty[^key-661e36acbc797b086313a61a536df210]
+## 72. Trade offences in CEMA: modification of penalty[^c-661e36acbc797b086313a61a536df210]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-661e36acbc797b086313a61a536df210]: Textual amendment: [Reg. 72](https://www.legislation.gov.uk/uksi/2020/1665/regulation/72) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [32(5)](https://www.legislation.gov.uk/uksi/2026/443/regulation/32/5)
+[^c-661e36acbc797b086313a61a536df210]: Textual amendment: [Reg. 72](https://www.legislation.gov.uk/uksi/2020/1665/regulation/72) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [32(5)](https://www.legislation.gov.uk/uksi/2026/443/regulation/32/5)

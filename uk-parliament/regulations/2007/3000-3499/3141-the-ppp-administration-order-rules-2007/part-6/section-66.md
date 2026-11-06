@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Introductory[^key-a60fd971021538012281bf2d8744e50a]
+## 66. Introductory[^c-a60fd971021538012281bf2d8744e50a]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a60fd971021538012281bf2d8744e50a]: Commencement: [Rule 66](https://www.legislation.gov.uk/uksi/2007/3141/rule/66) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-a60fd971021538012281bf2d8744e50a]: Commencement: [Rule 66](https://www.legislation.gov.uk/uksi/2007/3141/rule/66) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
 
 [^f00017]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).

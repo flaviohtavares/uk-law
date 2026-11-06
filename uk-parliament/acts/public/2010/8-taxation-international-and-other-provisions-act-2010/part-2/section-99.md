@@ -41,8 +41,8 @@ the amount of corporation tax attributable (apart from this subsection) to any i
 
 (6) If, by virtue of subsection (4), the credit allowed for any foreign tax is less than it would be apart from that subsection, section 31(2)(a) does not prevent a deduction being made for the difference in calculating the income of the 75% subsidiary.
 
-(7) For the purposes of the operation of this section in relation to any income or gain in respect of which credit is to be allowed under the arrangements, the amount of the income or gain that is referable to a category of insurance business is the same fraction of the income or gain as the fraction of the foreign tax that is attributable to that category of business in accordance with sections 97 and 97A[^key-22885a0c6923c016ed00dba8085cb05f].
+(7) For the purposes of the operation of this section in relation to any income or gain in respect of which credit is to be allowed under the arrangements, the amount of the income or gain that is referable to a category of insurance business is the same fraction of the income or gain as the fraction of the foreign tax that is attributable to that category of business in accordance with sections 97 and 97A[^c-22885a0c6923c016ed00dba8085cb05f].
 
 ## Annotations
 
-[^key-22885a0c6923c016ed00dba8085cb05f]: Textual amendment: Word in s. 99(7) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 238](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/238)
+[^c-22885a0c6923c016ed00dba8085cb05f]: Textual amendment: Word in s. 99(7) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 238](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/238)

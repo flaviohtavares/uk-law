@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Variation of HMO licence[^key-d79b11c3fed6d63aec6a59aecffcf869]
+## 138. Variation of HMO licence[^c-d79b11c3fed6d63aec6a59aecffcf869]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ and must invite each of them to make oral representations about the proposed var
 
 ## Annotations
 
-[^key-d79b11c3fed6d63aec6a59aecffcf869]: Commencement: S. 138 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-d79b11c3fed6d63aec6a59aecffcf869]: Commencement: S. 138 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
 [^c1897996]: Textual amendment: Words in s. 138(4)(8)(b) substituted (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/475/article/2/1), [Sch. 1 para. 17(2)(3)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/17/2/3/a)

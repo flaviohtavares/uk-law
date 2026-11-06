@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers make these Regulations, in exercise of the powers conferred by sections 1(1) and (2) and 2(1)(b), (c) and (d) of the Trade (Australia and New Zealand) Act 2023[^f00001].
 
-## 1. Title, commencement, application and interpretation[^key-33ed4e3499e3792e4d6a36037c47b6bb]
+## 1. Title, commencement, application and interpretation[^c-33ed4e3499e3792e4d6a36037c47b6bb]
 
 (1) These Regulations are called the Public Procurement (International Trade Agreements) (Amendment) (Wales) (No. 2) Regulations 2023.
 
@@ -55,27 +55,27 @@ The Welsh Ministers make these Regulations, in exercise of the powers conferred 
 
 (4) In this regulation, “**devolved Welsh authority**” has the meaning given by section 157A of the Government of Wales Act 2006[^f00002].
 
-## 2. Amendment to the Public Contracts Regulations 2015[^key-47fdcfe3032e72d487cc48497c4040c0]
+## 2. Amendment to the Public Contracts Regulations 2015[^c-47fdcfe3032e72d487cc48497c4040c0]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Concession Contracts Regulations 2016[^key-47fdcfe3032e72d487cc48497c4040c0]
+## 3. Amendment to the Concession Contracts Regulations 2016[^c-47fdcfe3032e72d487cc48497c4040c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to the Utilities Contracts Regulations 2016[^key-47fdcfe3032e72d487cc48497c4040c0]
+## 4. Amendment to the Utilities Contracts Regulations 2016[^c-47fdcfe3032e72d487cc48497c4040c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional provisions[^key-47fdcfe3032e72d487cc48497c4040c0]
+## 5. Transitional provisions[^c-47fdcfe3032e72d487cc48497c4040c0]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation of The Public Procurement (International Trade Agreements) (Amendment) (Wales) Regulations 2023[^key-de4c687f86a09755bcd27e51759157dc]
+## 6. Revocation of The Public Procurement (International Trade Agreements) (Amendment) (Wales) Regulations 2023[^c-de4c687f86a09755bcd27e51759157dc]
 
 The Public Procurement (International Trade Agreements) (Amendment) (Wales) Regulations 2023[^f00006] are revoked.
 
@@ -113,12 +113,12 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2023 c. 9](https://www.legislation.gov.uk/ukpga/2023/9). The Welsh Ministers are the “appropriate authority” for these purposes under section 3 of the Act.
 
-[^key-33ed4e3499e3792e4d6a36037c47b6bb]: Commencement: Reg. 1 in force at 26.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/567/regulation/1/2)
+[^c-33ed4e3499e3792e4d6a36037c47b6bb]: Commencement: Reg. 1 in force at 26.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/567/regulation/1/2)
 
 [^f00002]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 157A was inserted into the Government of Wales Act 2006 by the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), section 4(1) and amended by the Senedd and Elections (Wales) Act 2020 (anaw.1) Schedule 1, paragraph 2(19) and by the Fisheries Act [2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), section 45(3).
 
-[^key-47fdcfe3032e72d487cc48497c4040c0]: Textual amendment: [Regs. 2-5](https://www.legislation.gov.uk/wsi/2023/567/regulation/2) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/uksi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/782/regulation/1/2), [53](https://www.legislation.gov.uk/uksi/2024/782/regulation/53) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-47fdcfe3032e72d487cc48497c4040c0]: Textual amendment: [Regs. 2-5](https://www.legislation.gov.uk/wsi/2023/567/regulation/2) omitted (24.2.2025) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/uksi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/782/regulation/1/2), [53](https://www.legislation.gov.uk/uksi/2024/782/regulation/53) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/782/regulation/2)); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-de4c687f86a09755bcd27e51759157dc]: Commencement: Reg. 6 in force at 26.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/567/regulation/1/2)
+[^c-de4c687f86a09755bcd27e51759157dc]: Commencement: Reg. 6 in force at 26.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/567/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2023/506 (W.76)](https://www.legislation.gov.uk/wsi/2023/506).

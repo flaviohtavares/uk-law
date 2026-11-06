@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — FUNCTIONS TRANSFERRED TO THE TREASURY[^key-8888c2f632e760099049c37a634f2e42]
+## SCHEDULE 1 — FUNCTIONS TRANSFERRED TO THE TREASURY[^c-8888c2f632e760099049c37a634f2e42]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Article 4(1)
 
-### PART I — FUNCTIONS OF THE CHIEF REGISTRAR, ASSISTANT REGISTRAR FOR SCOTLAND, ASSISTANT REGISTRARS AND THE CENTRAL OFFICE[^key-8888c2f632e760099049c37a634f2e42]
+### PART I — FUNCTIONS OF THE CHIEF REGISTRAR, ASSISTANT REGISTRAR FOR SCOTLAND, ASSISTANT REGISTRARS AND THE CENTRAL OFFICE[^c-8888c2f632e760099049c37a634f2e42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — FUNCTIONS OF THE FRIENDLY SOCIETIES COMMISSION[^key-8888c2f632e760099049c37a634f2e42]
+### PART II — FUNCTIONS OF THE FRIENDLY SOCIETIES COMMISSION[^c-8888c2f632e760099049c37a634f2e42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — FUNCTIONS OF THE BUILDING SOCIETIES COMMISSION[^key-8888c2f632e760099049c37a634f2e42]
+### PART III — FUNCTIONS OF THE BUILDING SOCIETIES COMMISSION[^c-8888c2f632e760099049c37a634f2e42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8888c2f632e760099049c37a634f2e42]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/2617) revoked (except for art. 7 and Sch. 5 paras. 5, 7, 11, 12 21, 22, 25(a) and arts. 3, 4 in so far as they relate to art. 7) (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/1) (with [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/b))
+[^c-8888c2f632e760099049c37a634f2e42]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/2617) revoked (except for art. 7 and Sch. 5 paras. 5, 7, 11, 12 21, 22, 25(a) and arts. 3, 4 in so far as they relate to art. 7) (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/1) (with [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/b))

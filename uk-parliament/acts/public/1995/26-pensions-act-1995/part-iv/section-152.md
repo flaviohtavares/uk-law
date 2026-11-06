@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Extension of scope of right to cash equivalent.[^key-86dc1845bedfb77975ab01e517176014][^key-9f221d4cc6eb1cae6285dde0acf3a42f]
+## 152. Extension of scope of right to cash equivalent.[^c-86dc1845bedfb77975ab01e517176014][^c-9f221d4cc6eb1cae6285dde0acf3a42f]
 
 *Extent: E+W+S*
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-86dc1845bedfb77975ab01e517176014]: Commencement: S. 152 in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/1996/778/article/2/5/a), [Sch. Pt. V](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/V)
+[^c-86dc1845bedfb77975ab01e517176014]: Commencement: S. 152 in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/1996/778/article/2/5/a), [Sch. Pt. V](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/V)
 
-[^key-9f221d4cc6eb1cae6285dde0acf3a42f]: Commencement: S. 152 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-9f221d4cc6eb1cae6285dde0acf3a42f]: Commencement: S. 152 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
 [^c2136357]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**54A.**[^key-c90449a032263386f6b5fcb82ad626f4] (1) This Article applies in relation to an occupational pension scheme other than—
+**54A.**[^c-c90449a032263386f6b5fcb82ad626f4] (1) This Article applies in relation to an occupational pension scheme other than—
 
 - (a) a money purchase scheme, or
 - (b) a prescribed scheme or a scheme of a prescribed description.
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c90449a032263386f6b5fcb82ad626f4]: Textual amendment: [Arts. 54A](https://www.legislation.gov.uk/nisi/2005/255/article/54A), [54B](https://www.legislation.gov.uk/nisi/2005/255/article/54B) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 6(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/6/1); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(d)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/d) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(4)](https://www.legislation.gov.uk/nisr/2021/271/article/3/4))
+[^c-c90449a032263386f6b5fcb82ad626f4]: Textual amendment: [Arts. 54A](https://www.legislation.gov.uk/nisi/2005/255/article/54A), [54B](https://www.legislation.gov.uk/nisi/2005/255/article/54B) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 6(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/6/1); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(d)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/d) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(4)](https://www.legislation.gov.uk/nisr/2021/271/article/3/4))

@@ -40,7 +40,7 @@ summary: ''
 - (f) as to the merger of one or more such bodies and the division of such a body;
 - (g) for the appointment and removal of an auditor for such a body;
 - (h) as to the winding up and dissolution of such a body;
-- (i) for such a body, or any director or depositary of such a body, to be required to comply with directions given by the FCA[^key-225f639a0482e6aafade78ac497b5cbc];
+- (i) for such a body, or any director or depositary of such a body, to be required to comply with directions given by the FCA[^c-225f639a0482e6aafade78ac497b5cbc];
 - (j) enabling the FCA to apply to a court for an order removing and replacing any director or depositary of such a body;
 - (k) for the carrying out of investigations by persons appointed by the FCA or the Secretary of State;
 - (l) corresponding to any provision made in relation to unit trust schemes by Chapter III of this Part.
@@ -67,6 +67,6 @@ summary: ''
 
 [^c2109273]: Textual amendment: Words in s. 262(2)(a) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 12(3)](https://www.legislation.gov.uk/uksi/2011/1265/article/12/3)
 
-[^key-225f639a0482e6aafade78ac497b5cbc]: Textual amendment: Word in ss. 254-262 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-225f639a0482e6aafade78ac497b5cbc]: Textual amendment: Word in ss. 254-262 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c1709545]: Marginal citation: [S.I. 1996/2827](https://www.legislation.gov.uk/uksi/1996/2827).

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-Where, as a consequence of regulations made under section 94(4) of the Act (regulations about section 92 arrangements) or in accordance with directions given by the Secretary of State under section 98A of the Act (exercise of functions), NHS England[^key-9520329cffeb7671913a444ac58ebf84] is required to make a payment to a contractor under an agreement which is subject to conditions, the agreement must contain a term which requires those conditions to be a term of the agreement.
+Where, as a consequence of regulations made under section 94(4) of the Act (regulations about section 92 arrangements) or in accordance with directions given by the Secretary of State under section 98A of the Act (exercise of functions), NHS England[^c-9520329cffeb7671913a444ac58ebf84] is required to make a payment to a contractor under an agreement which is subject to conditions, the agreement must contain a term which requires those conditions to be a term of the agreement.
 
 ## Annotations
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

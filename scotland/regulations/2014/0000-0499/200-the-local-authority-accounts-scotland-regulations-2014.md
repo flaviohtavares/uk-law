@@ -50,15 +50,15 @@ In accordance with section 105(2) of that Act, they have consulted with such ass
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-96c2c9a7e5cd0a4f114b2eea7d772946]
+### 1. Citation and commencement[^c-96c2c9a7e5cd0a4f114b2eea7d772946]
 
 These Regulations may be cited as the Local Authority Accounts (Scotland) Regulations 2014 and come into force on 10th October 2014.
 
-### 2. Saving provision[^key-15863662283756d4f1dc30205c2125a4]
+### 2. Saving provision[^c-15863662283756d4f1dc30205c2125a4]
 
 Nothing in these Regulations applies to any accounts, or any Annual Accounts, that relate to a financial year that began prior to 1st April 2014.
 
-### 3. Interpretation[^key-f0db377c4b85507397ddefaacd721a48]
+### 3. Interpretation[^c-f0db377c4b85507397ddefaacd721a48]
 
 In these Regulations—
 
@@ -74,7 +74,7 @@ In these Regulations—
   - (b) where that officer is unable to act owing to absence or illness, such officer as is appointed by, or under arrangements made by, that local authority for the purposes of these Regulations;
 - “working day” means any day other than a Saturday, Sunday, Christmas Eve or a day which is a bank holiday in Scotland under the Banking and Financial Dealings Act 1971[^f00006].
 
-### 4. Revocations[^key-92c46570f2ab7e6780b7d25244a3f0da]
+### 4. Revocations[^c-92c46570f2ab7e6780b7d25244a3f0da]
 
 The following instruments are revoked—
 
@@ -85,7 +85,7 @@ The following instruments are revoked—
 
 ## PART 2 — Financial management and internal control
 
-### 5. Responsibility for financial management[^key-db070195f82f595cf0c95cb4d9ef7eb0]
+### 5. Responsibility for financial management[^c-db070195f82f595cf0c95cb4d9ef7eb0]
 
 (1) A local authority is responsible for ensuring that the financial management of the authority is adequate and effective and that the authority has a sound system of internal control which—
 
@@ -100,7 +100,7 @@ The following instruments are revoked—
 
 (5) The annual governance statement must be signed by the Chief Executive and the Leader of the Council.
 
-### 6. Accounting records and control systems[^key-883bf62e3c82f1c91f447afb2c46a9ea]
+### 6. Accounting records and control systems[^c-883bf62e3c82f1c91f447afb2c46a9ea]
 
 (1) A local authority must keep adequate accounting records.
 
@@ -130,7 +130,7 @@ The following instruments are revoked—
 
 (7) The proper officer must ensure that the accounting control systems are observed and that the accounting records of the local authority are kept up to date.
 
-### 7. Internal auditing[^key-2161342fdda56786c9bead6cd927fc94]
+### 7. Internal auditing[^c-2161342fdda56786c9bead6cd927fc94]
 
 (1) A local authority must operate a professional and objective internal auditing service in accordance with recognised standards and practices in relation to internal auditing.
 
@@ -145,7 +145,7 @@ The following instruments are revoked—
 
 ## PART 3 — Published accounts and audit
 
-### 8. Annual Accounts[^key-8170eca99592f963664b524850a5df59]
+### 8. Annual Accounts[^c-8170eca99592f963664b524850a5df59]
 
 (1) A local authority must ensure that its Annual Accounts are prepared in accordance with these Regulations and, so far as compatible with these Regulations, in accordance with proper accounting practices.
 
@@ -182,7 +182,7 @@ The following instruments are revoked—
 
 (10) The meeting referred to in paragraph (9) must be held no later than 31st August immediately following the financial year to which the Annual Accounts relate.
 
-### 9. Notice of public right to inspect and object to accounts[^key-c8bb5b7586f62b839b85654679d6725b]
+### 9. Notice of public right to inspect and object to accounts[^c-c8bb5b7586f62b839b85654679d6725b]
 
 (1) A local authority must give public notice of the right of interested persons to inspect and object to its accounts, as provided for by section 101 (rights of interested persons to inspect and copy documents and to object to accounts)[^f00011] of the 1973 Act.
 
@@ -204,13 +204,13 @@ The following instruments are revoked—
 
 (5) The date specified in the notice in terms of paragraph (4)(a) must be at least 14 days after the date that notice is published, but cannot be later than 1st July in the year in which the notice is published.
 
-### 10. Consideration and signing of audited Annual Accounts[^key-99e40dc88fdebc82381645a0f64d5eeb]
+### 10. Consideration and signing of audited Annual Accounts[^c-99e40dc88fdebc82381645a0f64d5eeb]
 
 (1) A local authority, or a committee of that authority whose remit includes audit or governance functions, must—
 
 - (a) meet to consider the audited Annual Accounts; and
-- (b)[^key-4ca850b29933b66920336bd5c055e80d] aim to approve those accounts for signature as described in this regulation no later than—
-  - (i) 30 November 2022[^key-f880cd970815e49985c862ff08e81e63] in respect of the accounts for the financial year 2021-2022[^key-30e71866589efff86277151196264190], and
+- (b)[^c-4ca850b29933b66920336bd5c055e80d] aim to approve those accounts for signature as described in this regulation no later than—
+  - (i) 30 November 2022[^c-f880cd970815e49985c862ff08e81e63] in respect of the accounts for the financial year 2021-2022[^c-30e71866589efff86277151196264190], and
   - (ii) 30 September in each subsequent year, in respect of the accounts for the immediately preceding financial year.
 
 (2) That local authority or committee must consider whether the Annual Accounts should be signed, having regard to any report made on those accounts and any advice given by the proper officer or the auditor.
@@ -233,7 +233,7 @@ The following instruments are revoked—
 
 (8) Any further report provided by the auditor following the signature of the Annual Accounts which relates to those accounts must be considered by the local authority or a committee of that authority whose remit includes audit or governance functions.
 
-### 11. Publication of the audited Annual Accounts[^key-ebcb214f251f7b0c6b46eb9da0ea3501]
+### 11. Publication of the audited Annual Accounts[^c-ebcb214f251f7b0c6b46eb9da0ea3501]
 
 (1) The local authority must publish—
 
@@ -244,7 +244,7 @@ The following instruments are revoked—
 
 (2) A local authority is to publish the documents mentioned in paragraph (1) by making a copy of them, or a link to a copy of them, available on a website of the authority for a period of at least five years and by making copies available for purchase throughout that period on payment of such amount as the authority considers reasonable.
 
-(3) The documents referred to in paragraph (1)(a) to (c) must be published no later than 15[^key-508d788398b1e9f1fcc73eef9508e36a] December 2022[^key-2eed26967f44a35798da91ebd7be0006], and in subsequent years no later than 31st October immediately following the financial year to which they relate, and any report referred to in paragraph (1)(d) must be published no later than the following 31st December.
+(3) The documents referred to in paragraph (1)(a) to (c) must be published no later than 15[^c-508d788398b1e9f1fcc73eef9508e36a] December 2022[^c-2eed26967f44a35798da91ebd7be0006], and in subsequent years no later than 31st October immediately following the financial year to which they relate, and any report referred to in paragraph (1)(d) must be published no later than the following 31st December.
 
 (4) Paragraph (5) applies where a local authority receives—
 
@@ -259,7 +259,7 @@ The following instruments are revoked—
 
 ## PART 4 — Charities
 
-### 12. Modification of Regulations[^key-c62602f35da41ba0e00b6bcbbb5d1c9c]
+### 12. Modification of Regulations[^c-c62602f35da41ba0e00b6bcbbb5d1c9c]
 
 In the application of these Regulations to any body which requires to prepare a statement of account under section 44(1)(b) of the Charities and Trustee Investment (Scotland) Act 2005 (charity accounts)[^f00014] the following requirements of these Regulations do not apply—
 
@@ -285,7 +285,7 @@ Regulation 8(2)(d)(i)
 
 ### Definitions
 
-**1.**[^key-5c679a822c131418076ca878461fee17] In this Schedule—
+**1.**[^c-5c679a822c131418076ca878461fee17] In this Schedule—
 
 - “annual remuneration” is to be calculated—
   - (a) in respect of a person who is employed or serves on a part time basis, with the salary element of remuneration increased to what it would have been had the person been paid for usual full time hours at the same hourly rate;
@@ -306,46 +306,46 @@ Regulation 8(2)(d)(i)
 
 ### Remuneration arrangements
 
-**2.**[^key-7bef8f8a7684028eab126cfd34000a76] A Remuneration Report is to provide details of the local authority’s remuneration policy for senior employees and senior councillors, and details of any role the authority has in determining the remuneration policy for any local authority subsidiary body.
+**2.**[^c-7bef8f8a7684028eab126cfd34000a76] A Remuneration Report is to provide details of the local authority’s remuneration policy for senior employees and senior councillors, and details of any role the authority has in determining the remuneration policy for any local authority subsidiary body.
 
-**3.**[^key-c22a30f6bbda96aa53f6edc555ca9d9b] A Remuneration Report is to describe the role, and state the membership of, the local authority’s committee that deals with remuneration arrangements or, where the authority does not have such a committee, state how remuneration arrangements are managed within the authority.
+**3.**[^c-c22a30f6bbda96aa53f6edc555ca9d9b] A Remuneration Report is to describe the role, and state the membership of, the local authority’s committee that deals with remuneration arrangements or, where the authority does not have such a committee, state how remuneration arrangements are managed within the authority.
 
 ### Disclosure of exit packages
 
-**4.**[^key-fca0fcb64b3a019c919082ddb3d90c15] A Remuneration Report is to give the number of exit packages agreed by the local authority in the financial year to which it relates and the number agreed in the preceding financial year, in each case—
+**4.**[^c-fca0fcb64b3a019c919082ddb3d90c15] A Remuneration Report is to give the number of exit packages agreed by the local authority in the financial year to which it relates and the number agreed in the preceding financial year, in each case—
 
 - (a) separated into exit packages in respect of compulsory redundancies and other departures;
 - (b) shown on a scale using brackets initially in multiples of £20,000, starting with exit packages costing up to £20,000, and after the bracket for exit packages costing up to £100,000 continuing in multiples of £50,000, but if publication of a bracket would result in details of an individual’s exit package being identifiable, and those details are not otherwise accessible to the public, that bracket is to be combined with such adjoining bracket as the local authority considers appropriate; and
 - (c) giving for each published bracket of the scale the combined cost of the packages it contains.
 
-**5.**[^key-7463d27ab3ab75200075c7edff7157e2] However, paragraph 4 does not require a Remuneration Report to refer to any exit package that did not require the agreement of the local authority (such as where a person exercises a contractual right to leave employment on the grounds of ill health).
+**5.**[^c-7463d27ab3ab75200075c7edff7157e2] However, paragraph 4 does not require a Remuneration Report to refer to any exit package that did not require the agreement of the local authority (such as where a person exercises a contractual right to leave employment on the grounds of ill health).
 
 ### General disclosure by pay band
 
-**6.**[^key-31fa1132c87aac2c1e63167d988d399c] A Remuneration Report is to give the number of employees of the local authority in the financial year to which it relates whose remuneration from that authority fell into each bracket of a scale in multiples of £5,000, starting with £50,000, along with the number of employees in each band in the preceding financial year.
+**6.**[^c-31fa1132c87aac2c1e63167d988d399c] A Remuneration Report is to give the number of employees of the local authority in the financial year to which it relates whose remuneration from that authority fell into each bracket of a scale in multiples of £5,000, starting with £50,000, along with the number of employees in each band in the preceding financial year.
 
 ### Disclosure - local authority subsidiary bodies
 
-**7.**[^key-b61a28449127b7c0a03cbb7250cb6029] A Remuneration Report is to give, for any local authority subsidiary body, the name of that body, together with—
+**7.**[^c-b61a28449127b7c0a03cbb7250cb6029] A Remuneration Report is to give, for any local authority subsidiary body, the name of that body, together with—
 
 - (a) the full post title and name of the chief executive of that body (or, if there is no chief executive, the post held and name of the most senior manager in that body); and
 - (b) the full post title and name of each director or employee of the body whose annual remuneration in that year, including any annual remuneration from a local authority, was £150,000 or more.
 
 ### Disclosure of remuneration for relevant persons
 
-**8.**[^key-b145589a53aae2d6ba73c180dc6db6de] The Remuneration Report for each financial year is to show, in tabular form, against the post held and name of each relevant person the total amounts (before tax and other deductions), whether received or receivable, by each relevant person from the local authority or, as the case may be, local authority subsidiary body—
+**8.**[^c-b145589a53aae2d6ba73c180dc6db6de] The Remuneration Report for each financial year is to show, in tabular form, against the post held and name of each relevant person the total amounts (before tax and other deductions), whether received or receivable, by each relevant person from the local authority or, as the case may be, local authority subsidiary body—
 
 - (a) listed individually and rounded to the nearest whole pound;
 - (b) under each of the categories listed in paragraph 10; and
 - (c) for the financial year to which the Report relates, except for the total amount required by paragraph 10(h).
 
-**9.**[^key-7921e45eb990bf6aebf2bee2daf967bb] The Remuneration Report must show in separate tables—
+**9.**[^c-7921e45eb990bf6aebf2bee2daf967bb] The Remuneration Report must show in separate tables—
 
 - (a) remuneration from the local authority to relevant persons who are senior employees;
 - (b) remuneration from the local authority to relevant persons who are senior councillors; and
 - (c) remuneration from the local authority subsidiary body to relevant persons who are included in a Remuneration Report for that financial year by virtue of paragraph 7.
 
-**10.**[^key-fa53f32ca7e50b727b4584bd43c60bdb] The categories are—
+**10.**[^c-fa53f32ca7e50b727b4584bd43c60bdb] The categories are—
 
 - (a) the total amount of salary, fees or allowances due to the person, whether paid or not;
 - (b) the total amount of bonuses so paid or receivable;
@@ -358,15 +358,15 @@ Regulation 8(2)(d)(i)
 
 ### Pension rights - disclosure of information and calculation of value
 
-**11.**[^key-12626663dd060466a5d2d63c5dade01c] The Remuneration Report must show, in tabular form, against the post held and name of each relevant person the value of pension rights held and acquired by that person, as required by paragraphs 13 and 14.
+**11.**[^c-12626663dd060466a5d2d63c5dade01c] The Remuneration Report must show, in tabular form, against the post held and name of each relevant person the value of pension rights held and acquired by that person, as required by paragraphs 13 and 14.
 
-**12.**[^key-66efa2861ddc0073aa5c52c429d3c970] The Remuneration Report must group in separate tables—
+**12.**[^c-66efa2861ddc0073aa5c52c429d3c970] The Remuneration Report must group in separate tables—
 
 - (a) relevant persons who are senior employees;
 - (b) relevant persons who are senior councillors; and
 - (c) relevant persons who do not fall within sub-paragraph (a) or (b) and who are included in a Remuneration Report for that financial year by virtue of paragraph 7.
 
-**13.**[^key-eace1e49921a1630c63675aa38d49793] (1) Where a relevant person included in a Remuneration Report under paragraph 11 has rights under a pension scheme which will provide defined benefits (within the meaning of section 99 of the Pensions Act 2008[^f00017]), the information to be provided in respect of the person is—
+**13.**[^c-eace1e49921a1630c63675aa38d49793] (1) Where a relevant person included in a Remuneration Report under paragraph 11 has rights under a pension scheme which will provide defined benefits (within the meaning of section 99 of the Pensions Act 2008[^f00017]), the information to be provided in respect of the person is—
 
 - (a) the value of the person’s accrued pension benefits under the scheme as at 31st March in the financial year to which the Remuneration Report relates, rounded to the nearest £1,000;
 - (b) the difference between that value and the equivalent value (so rounded) as at the previous 31st March; and
@@ -379,7 +379,7 @@ Regulation 8(2)(d)(i)
 - (c) including any contributions that the relevant person is required to make in terms of the scheme rules, but disregarding any voluntary contributions made by the relevant person; and
 - (d) without any adjustment for the effects of future inflation.
 
-**14.**[^key-e86799aff241c0d0ae75f7e6511454ff] (1) Where a relevant person included in a Remuneration Report under paragraph 11 has rights under a pension scheme which is a money purchase scheme (within the meaning of sub-paragraph (2)), the information to be provided in respect of the person is the amount, rounded to the nearest whole pound, of any pension contributions made to that scheme by the local authority producing that Report, or a local authority subsidiary body named in that Report, during the financial year to which that Report relates, including any contributions which that local authority, or a local authority subsidiary body named in that Report, has agreed to pay in respect of the relevant person at a later date.
+**14.**[^c-e86799aff241c0d0ae75f7e6511454ff] (1) Where a relevant person included in a Remuneration Report under paragraph 11 has rights under a pension scheme which is a money purchase scheme (within the meaning of sub-paragraph (2)), the information to be provided in respect of the person is the amount, rounded to the nearest whole pound, of any pension contributions made to that scheme by the local authority producing that Report, or a local authority subsidiary body named in that Report, during the financial year to which that Report relates, including any contributions which that local authority, or a local authority subsidiary body named in that Report, has agreed to pay in respect of the relevant person at a later date.
 
 (2) A “money purchase scheme” means a scheme under which all the benefits that may become payable to or in respect of a person are retirement benefits, the rate or amount of which is calculated by reference to payments made, or treated as made, by the person (or by any other person in respect of that person) and which are not average salary benefits.
 
@@ -399,11 +399,11 @@ Regulation 12 adjusts the application of the requirements in these Regulations w
 
 [^f00001]: Footnote: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65), which is amended by the Rating and Valuation (Amendment) (Scotland) Act [1984 (c.31)](https://www.legislation.gov.uk/ukpga/1984/31), section 10(2). The functions of the Secretary of State in section 105 transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-96c2c9a7e5cd0a4f114b2eea7d772946]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-96c2c9a7e5cd0a4f114b2eea7d772946]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-15863662283756d4f1dc30205c2125a4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/200/regulation/2) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-15863662283756d4f1dc30205c2125a4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/200/regulation/2) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-f0db377c4b85507397ddefaacd721a48]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/200/regulation/3) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-f0db377c4b85507397ddefaacd721a48]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/200/regulation/3) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
 [^f00002]: Footnote: Section 96(4) is amended by paragraph 3 of schedule 4 to the Public Finance and Accountability (Scotland) Act [2000 (asp 1)](https://www.legislation.gov.uk/asp/2000/1).
 
@@ -415,7 +415,7 @@ Regulation 12 adjusts the application of the requirements in these Regulations w
 
 [^f00006]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-92c46570f2ab7e6780b7d25244a3f0da]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/200/regulation/4) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-92c46570f2ab7e6780b7d25244a3f0da]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/200/regulation/4) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1985/267](https://www.legislation.gov.uk/uksi/1985/267).
 
@@ -425,70 +425,70 @@ Regulation 12 adjusts the application of the requirements in these Regulations w
 
 [^f00010]: Footnote: [S.S.I. 2013/119](https://www.legislation.gov.uk/ssi/2013/119).
 
-[^key-db070195f82f595cf0c95cb4d9ef7eb0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/200/regulation/5) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-db070195f82f595cf0c95cb4d9ef7eb0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/200/regulation/5) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-883bf62e3c82f1c91f447afb2c46a9ea]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/200/regulation/6) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-883bf62e3c82f1c91f447afb2c46a9ea]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/200/regulation/6) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-2161342fdda56786c9bead6cd927fc94]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/200/regulation/7) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-2161342fdda56786c9bead6cd927fc94]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/200/regulation/7) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-8170eca99592f963664b524850a5df59]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/200/regulation/8) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-8170eca99592f963664b524850a5df59]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/200/regulation/8) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-c8bb5b7586f62b839b85654679d6725b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/200/regulation/9) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-c8bb5b7586f62b839b85654679d6725b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/200/regulation/9) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
 [^f00011]: Footnote: Section 101 is amended by section 10(1) of the Rating and Valuation (Amendment) (Scotland) Act [1984 (c.31)](https://www.legislation.gov.uk/ukpga/1984/31) and paragraph 3(8) of schedule 4 to the Public Finance and Accountability (Scotland) Act [2000 (asp 1)](https://www.legislation.gov.uk/asp/2000/1).
 
-[^key-99e40dc88fdebc82381645a0f64d5eeb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/200/regulation/10) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-99e40dc88fdebc82381645a0f64d5eeb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/200/regulation/10) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-4ca850b29933b66920336bd5c055e80d]: Textual amendment: [Reg. 10(1)(b)](https://www.legislation.gov.uk/ssi/2014/200/regulation/10/1/b) substituted (5.3.2021) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/5/2)
+[^c-4ca850b29933b66920336bd5c055e80d]: Textual amendment: [Reg. 10(1)(b)](https://www.legislation.gov.uk/ssi/2014/200/regulation/10/1/b) substituted (5.3.2021) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/5/2)
 
-[^key-f880cd970815e49985c862ff08e81e63]: Textual amendment: Words in [reg. 10(1)(b)(i)](https://www.legislation.gov.uk/ssi/2014/200/regulation/10/1/b/i) substituted (1.4.2022) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2022 (S.S.I. 2022/122)](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/122/regulation/2/2/a)
+[^c-f880cd970815e49985c862ff08e81e63]: Textual amendment: Words in [reg. 10(1)(b)(i)](https://www.legislation.gov.uk/ssi/2014/200/regulation/10/1/b/i) substituted (1.4.2022) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2022 (S.S.I. 2022/122)](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/122/regulation/2/2/a)
 
-[^key-30e71866589efff86277151196264190]: Textual amendment: Word in [reg. 10(1)(b)(i)](https://www.legislation.gov.uk/ssi/2014/200/regulation/10/1/b/i) substituted (1.4.2022) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2022 (S.S.I. 2022/122)](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/122/regulation/2/2/b)
+[^c-30e71866589efff86277151196264190]: Textual amendment: Word in [reg. 10(1)(b)(i)](https://www.legislation.gov.uk/ssi/2014/200/regulation/10/1/b/i) substituted (1.4.2022) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2022 (S.S.I. 2022/122)](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/122/regulation/2/2/b)
 
-[^key-ebcb214f251f7b0c6b46eb9da0ea3501]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/200/regulation/11) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-ebcb214f251f7b0c6b46eb9da0ea3501]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/200/regulation/11) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-508d788398b1e9f1fcc73eef9508e36a]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/ssi/2014/200/regulation/11/3) inserted (5.3.2021) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/5/3)
+[^c-508d788398b1e9f1fcc73eef9508e36a]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/ssi/2014/200/regulation/11/3) inserted (5.3.2021) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2021 (S.S.I. 2021/119)](https://www.legislation.gov.uk/ssi/2021/119), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/119/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2021/119/regulation/5/3)
 
-[^key-2eed26967f44a35798da91ebd7be0006]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/ssi/2014/200/regulation/11/3) substituted (1.4.2022) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2022 (S.S.I. 2022/122)](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/2/3)
+[^c-2eed26967f44a35798da91ebd7be0006]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/ssi/2014/200/regulation/11/3) substituted (1.4.2022) by [The Local Authority (Capital Finance and Accounting) (Scotland) (Coronavirus) Amendment Regulations 2022 (S.S.I. 2022/122)](https://www.legislation.gov.uk/ssi/2022/122), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/122/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2022/122/regulation/2/3)
 
 [^f00012]: Footnote: Section 102(1) and (2) were substituted by section 56 of the Local Government in Scotland Act 2003. There are other amendments to section 102 that are not relevant to these Regulations.
 
 [^f00013]: Footnote: Section 103F was added by section 33(3) of the Ethical Standards in Public Life etc. (Scotland) Act [2000 (asp 7)](https://www.legislation.gov.uk/asp/2000/7).
 
-[^key-c62602f35da41ba0e00b6bcbbb5d1c9c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2014/200/regulation/12) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-c62602f35da41ba0e00b6bcbbb5d1c9c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2014/200/regulation/12) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
 [^f00014]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
-[^key-5c679a822c131418076ca878461fee17]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/1) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-5c679a822c131418076ca878461fee17]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/1) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
 [^f00015]: Footnote: [S.S.I. 2007/183](https://www.legislation.gov.uk/ssi/2007/183).
 
 [^f00016]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-7bef8f8a7684028eab126cfd34000a76]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/2) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-7bef8f8a7684028eab126cfd34000a76]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/2) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-c22a30f6bbda96aa53f6edc555ca9d9b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/3) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-c22a30f6bbda96aa53f6edc555ca9d9b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/3) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-fca0fcb64b3a019c919082ddb3d90c15]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/4) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-fca0fcb64b3a019c919082ddb3d90c15]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/4) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-7463d27ab3ab75200075c7edff7157e2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/5) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-7463d27ab3ab75200075c7edff7157e2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/5) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-31fa1132c87aac2c1e63167d988d399c]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/6) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-31fa1132c87aac2c1e63167d988d399c]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/6) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-b61a28449127b7c0a03cbb7250cb6029]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/7) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-b61a28449127b7c0a03cbb7250cb6029]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/7) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-b145589a53aae2d6ba73c180dc6db6de]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/8) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-b145589a53aae2d6ba73c180dc6db6de]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/8) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-7921e45eb990bf6aebf2bee2daf967bb]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/9) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-7921e45eb990bf6aebf2bee2daf967bb]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/9) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-fa53f32ca7e50b727b4584bd43c60bdb]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/10) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-fa53f32ca7e50b727b4584bd43c60bdb]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/10) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-12626663dd060466a5d2d63c5dade01c]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/11) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-12626663dd060466a5d2d63c5dade01c]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/11) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-66efa2861ddc0073aa5c52c429d3c970]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/12) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-66efa2861ddc0073aa5c52c429d3c970]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/12) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
-[^key-eace1e49921a1630c63675aa38d49793]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/13) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-eace1e49921a1630c63675aa38d49793]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/13) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
 
 [^f00017]: Footnote: [2008 c.30](https://www.legislation.gov.uk/ukpga/2008/30).
 
-[^key-e86799aff241c0d0ae75f7e6511454ff]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/14) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)
+[^c-e86799aff241c0d0ae75f7e6511454ff]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2014/200/schedule/paragraph/14) in force at 10.10.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/200/regulation/1)

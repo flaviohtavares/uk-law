@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Foyle Area (Control of Drift and Draft Net Fishing) Regulations 2004[^key-840078fad97c6a7ddcbe4737b5c8fae7]
+## 158. Foyle Area (Control of Drift and Draft Net Fishing) Regulations 2004[^c-840078fad97c6a7ddcbe4737b5c8fae7]
 
 *Extent: N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-840078fad97c6a7ddcbe4737b5c8fae7]: Commencement: Reg. 158 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-840078fad97c6a7ddcbe4737b5c8fae7]: Commencement: Reg. 158 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00266]: Footnote: [S.R. (N.I.) 2004/255](https://www.legislation.gov.uk/nisr/2004/255); amended by [S.R. (N.I.) 2007/275](https://www.legislation.gov.uk/nisr/2007/275).
 

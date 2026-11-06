@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Power to exempt[^c1968282][^key-f3becfc503b3c5299259034b07683159]
+## 43. Power to exempt[^c1968282][^c-f3becfc503b3c5299259034b07683159]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ the appropriate national authority may by order provide that section 38 is not t
 
 [^c1968282]: Commencement: S. 43 not in force at Royal Assent see s. 56(1); s. 43 in force for certain purposes for W. at 12.8.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 2](https://www.legislation.gov.uk/uksi/2007/2386/article/2); s. 43 in force for E. at 1.10.2007 by [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2](https://www.legislation.gov.uk/uksi/2007/2584/article/2)
 
-[^key-f3becfc503b3c5299259034b07683159]: Commencement: S. 43 in force at 1.4.2012 for W. in so far as not already in force by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 3(e)](https://www.legislation.gov.uk/wsi/2012/739/article/3/e)
+[^c-f3becfc503b3c5299259034b07683159]: Commencement: S. 43 in force at 1.4.2012 for W. in so far as not already in force by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 3(e)](https://www.legislation.gov.uk/wsi/2012/739/article/3/e)

@@ -46,7 +46,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 11(5) of that Act the Secretary of State has consulted such organisations as appear to him to be representative of interests substantially affected by the following Regulations, such other persons as are considered appropriate and the Health and Safety Executive.
 
-## 1. Citation, commencement and interpretation[^key-f97ebaea2b6cbf81335eb4da2764aeeb]
+## 1. Citation, commencement and interpretation[^c-f97ebaea2b6cbf81335eb4da2764aeeb]
 
 (1) These Regulations may be cited as the Cosmetic Products (Safety) (Amendment No. 2) Regulations 2009.
 
@@ -60,7 +60,7 @@ In accordance with section 11(5) of that Act the Secretary of State has consulte
 
 (6) In these Regulations “the Principal Regulations” means the Cosmetic Products (Safety) Regulations 2008[^f00002].
 
-## 2. Amendment to the Principal Regulations[^key-1c00649879330f41858e8f1fa030f168][^key-6f4241538b22389359c41f2de3771f96][^key-7ce33cc27c57e6d978269667f87b542f][^key-d6c857c59f50e2db59cbdd2ec0fafd81][^key-7506435add49126132b3cb96c8db70e7]
+## 2. Amendment to the Principal Regulations[^c-1c00649879330f41858e8f1fa030f168][^c-6f4241538b22389359c41f2de3771f96][^c-7ce33cc27c57e6d978269667f87b542f][^c-d6c857c59f50e2db59cbdd2ec0fafd81][^c-7506435add49126132b3cb96c8db70e7]
 
 **Not yet in force.**
 
@@ -91,7 +91,7 @@ Department for Business, Enterprise & Regulatory Reform
 
 **Not yet in force.**
 
-## SCHEDULE 1[^key-16aa7171337d7998355e9937a5e7753d]
+## SCHEDULE 1[^c-16aa7171337d7998355e9937a5e7753d]
 
 Regulation 2(b)(ii)
 
@@ -100,7 +100,7 @@ Regulation 2(b)(ii)
 | 1370 | Diethylene glycol (DEG), for traces level see Schedule 4, Part 1<br>2,2’-oxydiethanol | 203-872-2 | 111-46-6 |
 | 1371 | Phytonadione \[INCI\], phytomenadione \[INN\] | 201-564-2’ | 84-80-0/81818-54-4 |
 
-## SCHEDULE 2[^key-6771eabd0cec1548e0e4a7adbfd1f3b0][^key-e19556a7067b41a0eb3eb170682ea9ca]
+## SCHEDULE 2[^c-6771eabd0cec1548e0e4a7adbfd1f3b0][^c-e19556a7067b41a0eb3eb170682ea9ca]
 
 Regulation 2(c)
 
@@ -141,22 +141,22 @@ Copies of a transposition note relating to these Regulations have been placed in
 
 [^f00001]: Footnote: [1987 c.43](https://www.legislation.gov.uk/ukpga/1987/43). Section 11(1) has been amended by [S.I. 2005/1803](https://www.legislation.gov.uk/uksi/2005/1803), and section 11(5) has been amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-f97ebaea2b6cbf81335eb4da2764aeeb]: Commencement: Reg. 1 in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1)
+[^c-f97ebaea2b6cbf81335eb4da2764aeeb]: Commencement: Reg. 1 in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2008/1284](https://www.legislation.gov.uk/uksi/2008/1284), as amended by [S.I. 2008/2173](https://www.legislation.gov.uk/uksi/2008/2173), [S.I. 2008/2566](https://www.legislation.gov.uk/uksi/2008/2566) and [S.I. 2009/796](https://www.legislation.gov.uk/uksi/2009/796).
 
-[^key-1c00649879330f41858e8f1fa030f168]: Commencement: Reg. 2(a)(d)(ii) in force at 8.7.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/2)
+[^c-1c00649879330f41858e8f1fa030f168]: Commencement: Reg. 2(a)(d)(ii) in force at 8.7.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/2)
 
-[^key-6f4241538b22389359c41f2de3771f96]: Commencement: Reg. 2(b)(i)(d)(i) in force at 8.10.2009, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/3)
+[^c-6f4241538b22389359c41f2de3771f96]: Commencement: Reg. 2(b)(i)(d)(i) in force at 8.10.2009, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/3)
 
-[^key-7ce33cc27c57e6d978269667f87b542f]: Commencement: Reg. 2(b)(ii) in force at 5.11.2009, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/4)
+[^c-7ce33cc27c57e6d978269667f87b542f]: Commencement: Reg. 2(b)(ii) in force at 5.11.2009, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/4)
 
-[^key-d6c857c59f50e2db59cbdd2ec0fafd81]: Commencement: Reg. 2(c) in force at 5.11.2009 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/4)
+[^c-d6c857c59f50e2db59cbdd2ec0fafd81]: Commencement: Reg. 2(c) in force at 5.11.2009 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/4)
 
-[^key-7506435add49126132b3cb96c8db70e7]: Commencement: Reg. 2(c) in force at 5.2.2010 in so far as not already in force, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/5)
+[^c-7506435add49126132b3cb96c8db70e7]: Commencement: Reg. 2(c) in force at 5.2.2010 in so far as not already in force, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/5)
 
-[^key-16aa7171337d7998355e9937a5e7753d]: Commencement: Sch. 1 in force at 5.9.2009, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/4)
+[^c-16aa7171337d7998355e9937a5e7753d]: Commencement: Sch. 1 in force at 5.9.2009, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/4)
 
-[^key-6771eabd0cec1548e0e4a7adbfd1f3b0]: Commencement: Sch. 2 in force at 5.9.2009 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/4)
+[^c-6771eabd0cec1548e0e4a7adbfd1f3b0]: Commencement: Sch. 2 in force at 5.9.2009 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/4)
 
-[^key-e19556a7067b41a0eb3eb170682ea9ca]: Commencement: Sch. 2 in force at 5.2.2010 in so far as not already in force, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/5)
+[^c-e19556a7067b41a0eb3eb170682ea9ca]: Commencement: Sch. 2 in force at 5.2.2010 in so far as not already in force, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2009/1346/regulation/1/5)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-877333a8f26a5e4b1f8551338a83d338][^key-b205b701e0abffa42a66bb87ef20f274] After section 95 of the 1991 Act (offences) there is inserted—
+(1)[^c-877333a8f26a5e4b1f8551338a83d338][^c-b205b701e0abffa42a66bb87ef20f274] After section 95 of the 1991 Act (offences) there is inserted—
 
 > **95A. Fixed penalties for certain offences under this Part**
 >
@@ -34,7 +34,7 @@ summary: ''
 >
 > (5) Schedule 4B (which makes provision about fixed penalties for fixed penalty offences) has effect.
 
-(2)[^key-5500b8531bbc77e0d17b3136fdfb57ca][^key-ea63b08cfb7234b84176abf1a5399660] In section 106 of that Act (index for Part 3), the following entry is inserted in the appropriate place—
+(2)[^c-5500b8531bbc77e0d17b3136fdfb57ca][^c-ea63b08cfb7234b84176abf1a5399660] In section 106 of that Act (index for Part 3), the following entry is inserted in the appropriate place—
 
 > |  |  |
 > | --- | --- |
@@ -42,14 +42,14 @@ summary: ''
 
 .
 
-(3)[^key-877333a8f26a5e4b1f8551338a83d338][^key-b205b701e0abffa42a66bb87ef20f274] After Schedule 4 to that Act there is inserted Schedules 4A and 4B as set out in Schedules 2 and 3 to this Act.
+(3)[^c-877333a8f26a5e4b1f8551338a83d338][^c-b205b701e0abffa42a66bb87ef20f274] After Schedule 4 to that Act there is inserted Schedules 4A and 4B as set out in Schedules 2 and 3 to this Act.
 
 ## Annotations
 
-[^key-877333a8f26a5e4b1f8551338a83d338]: Commencement: S. 41(1)(3) in force at 29.6.2007 for specified purposes for E. and 12.5.2008 for E. in so far as not already in force by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1890/article/3))
+[^c-877333a8f26a5e4b1f8551338a83d338]: Commencement: S. 41(1)(3) in force at 29.6.2007 for specified purposes for E. and 12.5.2008 for E. in so far as not already in force by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1890/article/3))
 
-[^key-b205b701e0abffa42a66bb87ef20f274]: Commencement: S. 41(1)(3) in force at 26.11.2007 for specified purposes for W. and 12.5.2008 for W. in so far as not already in force by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/3174/article/3))
+[^c-b205b701e0abffa42a66bb87ef20f274]: Commencement: S. 41(1)(3) in force at 26.11.2007 for specified purposes for W. and 12.5.2008 for W. in so far as not already in force by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/3174/article/3))
 
-[^key-5500b8531bbc77e0d17b3136fdfb57ca]: Commencement: S. 41(2) in force at 12.5.2008 for E. by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1890/article/3))
+[^c-5500b8531bbc77e0d17b3136fdfb57ca]: Commencement: S. 41(2) in force at 12.5.2008 for E. by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1890/article/3))
 
-[^key-ea63b08cfb7234b84176abf1a5399660]: Commencement: S. 41(2) in force at 12.5.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
+[^c-ea63b08cfb7234b84176abf1a5399660]: Commencement: S. 41(2) in force at 12.5.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)

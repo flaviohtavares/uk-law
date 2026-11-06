@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. References to inspector[^key-90795ed753c4840e55c63306b0ca23d4]
+## 240. References to inspector[^c-90795ed753c4840e55c63306b0ca23d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Chapter, references to an inspector, in relation to any power, are to th
 
 ## Annotations
 
-[^key-90795ed753c4840e55c63306b0ca23d4]: Commencement: Reg. 240 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-90795ed753c4840e55c63306b0ca23d4]: Commencement: Reg. 240 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

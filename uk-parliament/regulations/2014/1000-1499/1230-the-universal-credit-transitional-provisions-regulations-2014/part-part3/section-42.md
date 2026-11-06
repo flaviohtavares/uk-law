@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Evidence for non-consensual conception where claimant previously had an award of child tax credit[^key-e4404c63a9c11d53b0e22e7791561ec3]
+## 42. Evidence for non-consensual conception where claimant previously had an award of child tax credit[^c-e4404c63a9c11d53b0e22e7791561ec3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4404c63a9c11d53b0e22e7791561ec3]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/uksi/2014/1230/regulation/42) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/316/regulation/3/b)
+[^c-e4404c63a9c11d53b0e22e7791561ec3]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/uksi/2014/1230/regulation/42) omitted (6.4.2026) by virtue of [The Social Security (Removal of Two Child Limit) (Consequential Amendments) Regulations 2026 (S.I. 2026/316)](https://www.legislation.gov.uk/uksi/2026/316), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/316/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/316/regulation/3/b)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Regulations providing for approval of local authority foster parents[^key-00ca298b4354a427101f5682f3b661b8]
+## 93. Regulations providing for approval of local authority foster parents[^c-00ca298b4354a427101f5682f3b661b8]
 
 *Extent: E+W*
 
 (1) Regulations under section 87 may, for example, make provision—
 
-- (a) for securing that a child is not placed with a local authority foster parent unless that person is for the time being approved as a local authority foster parent by such local authority or other persons[^key-2cb241ee1a8ebbea438561f94053fd51] as may be specified;
+- (a) for securing that a child is not placed with a local authority foster parent unless that person is for the time being approved as a local authority foster parent by such local authority or other persons[^c-2cb241ee1a8ebbea438561f94053fd51] as may be specified;
 - (b) establishing a procedure under which any person in respect of whom a qualifying determination has been made may apply to the Welsh Ministers for a review of that determination by a panel constituted by the Welsh Ministers.
 
 (2) A determination is a qualifying determination if—
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00ca298b4354a427101f5682f3b661b8]: Commencement: S. 93 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-00ca298b4354a427101f5682f3b661b8]: Commencement: S. 93 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-2cb241ee1a8ebbea438561f94053fd51]: Textual amendment: Words in s. 93(1)(a) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [302](https://www.legislation.gov.uk/wsi/2016/413/regulation/302)
+[^c-2cb241ee1a8ebbea438561f94053fd51]: Textual amendment: Words in s. 93(1)(a) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [302](https://www.legislation.gov.uk/wsi/2016/413/regulation/302)

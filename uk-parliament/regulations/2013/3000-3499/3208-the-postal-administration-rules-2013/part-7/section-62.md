@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Redemption by postal administrator[^key-5da9e1cd118f2edc8d4dd884963e4220]
+## 62. Redemption by postal administrator[^c-5da9e1cd118f2edc8d4dd884963e4220]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5da9e1cd118f2edc8d4dd884963e4220]: Commencement: [Rule 62](https://www.legislation.gov.uk/uksi/2013/3208/rule/62) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-5da9e1cd118f2edc8d4dd884963e4220]: Commencement: [Rule 62](https://www.legislation.gov.uk/uksi/2013/3208/rule/62) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

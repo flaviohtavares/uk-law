@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Amendments and revocations[^key-fe3ab762504d88b011f34c19a35671d8]
+## 38. Amendments and revocations[^c-fe3ab762504d88b011f34c19a35671d8]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe3ab762504d88b011f34c19a35671d8]: Commencement: Reg. 38 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-fe3ab762504d88b011f34c19a35671d8]: Commencement: Reg. 38 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238. Ports and border security: retention and copying of articles[^key-ff1b1794bbddda4804b46452b1d65df1]
+## 238. Ports and border security: retention and copying of articles[^c-ff1b1794bbddda4804b46452b1d65df1]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff1b1794bbddda4804b46452b1d65df1]: Commencement: S. 238 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ff1b1794bbddda4804b46452b1d65df1]: Commencement: S. 238 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

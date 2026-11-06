@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 403. References to “local authority”[^key-9c5857e76d0e8711752b78a8dc13816a][^key-6c9b2b994a6e476d83d39da024ba169b]
+## 403. References to “local authority”[^c-9c5857e76d0e8711752b78a8dc13816a][^c-6c9b2b994a6e476d83d39da024ba169b]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ has the same meaning as in the Children Act 1989 (see section 105 of that Act).
 
 ## Annotations
 
-[^key-9c5857e76d0e8711752b78a8dc13816a]: Commencement: S. 403 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9c5857e76d0e8711752b78a8dc13816a]: Commencement: S. 403 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6c9b2b994a6e476d83d39da024ba169b]: Modification: Ss. 403-405 applied (with modifications) by 2008 c. 4, s. 39(6)(a), Sch 7 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 paras. 266(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/266/5), [270](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/270) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-6c9b2b994a6e476d83d39da024ba169b]: Modification: Ss. 403-405 applied (with modifications) by 2008 c. 4, s. 39(6)(a), Sch 7 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 paras. 266(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/266/5), [270](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/270) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))

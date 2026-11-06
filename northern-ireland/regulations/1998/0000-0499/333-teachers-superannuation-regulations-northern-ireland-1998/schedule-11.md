@@ -26,16 +26,16 @@ Regulations F2(1) and F4(8)
 
 ### Part I — Outward Transfers
 
-**1.**[^key-e70f045a0ca44cfdccfbadc405b80205] A transfer value is calculated on the cash equivalent basis if it is calculated and verified in the manner required by Chapter IV of Part IV of the Pensions Act (transfer values) for the calculation of cash equivalents.
+**1.**[^c-e70f045a0ca44cfdccfbadc405b80205] A transfer value is calculated on the cash equivalent basis if it is calculated and verified in the manner required by Chapter IV of Part IV of the Pensions Act (transfer values) for the calculation of cash equivalents.
 
-**2.**[^key-e7cff4e62e1023fb435709ebb7b75404] Where—
+**2.**[^c-e7cff4e62e1023fb435709ebb7b75404] Where—
 
 - (a) a transfer value is payable to the scheme managers of a club scheme or a personal pension scheme; or
 - (b) a transfer value is payable to the scheme managers of an approved superannuation scheme which is not a club scheme and none of the service to which it relates is service before 1st March 1989,
 
 and no right to a cash equivalent was acquired, the transfer value shall be calculated on the cash equivalent basis.
 
-**3.**[^key-12cc3689eaa8d171ad1bb8f6e35ce9e2] Where—
+**3.**[^c-12cc3689eaa8d171ad1bb8f6e35ce9e2] Where—
 
 - (a) a transfer value is payable to the scheme managers of an approved superannuation scheme which is not a club scheme; and
 - (b) the service to which it relates includes service before 1st March 1989; and
@@ -51,7 +51,7 @@ where—
 - B is a notional transfer value, calculated on the cash equivalent basis, in respect of his service before 1st March 1989; and
 - C is a notional transfer value, calculated as if Schedule 6 to the 1977 Regulations, as in operation on 28th February 1989, had continued in operation, in respect of his service before 1st March 1989.
 
-**4.**[^key-aca87a065152db14c165f2f4f4993548] Where—
+**4.**[^c-aca87a065152db14c165f2f4f4993548] Where—
 
 - (a) a transfer value is payable to the scheme managers of an approved superannuation scheme which is not a club scheme; and
 - (b) the service to which it relates includes service before 1st March 1989; and
@@ -66,14 +66,14 @@ where—
 - D is the transfer value that would have been payable if paragraph 3 had applied; and
 - E is the amount of the cash equivalent.
 
-**5.**[^key-ac0ace31c128a175b343365310ca8962] Where—
+**5.**[^c-ac0ace31c128a175b343365310ca8962] Where—
 
 - (a) a transfer value is payable to the scheme managers of a personal pension scheme; and
 - (b) a right to a part cash equivalent was acquired,
 
 the transfer value shall be calculated on the cash equivalent basis but as if the person’s pensionable employment had ended with 5th April 1988.
 
-**6.**[^key-d6397c73fa2fb43a48649408799695de] (1) This paragraph applies where—
+**6.**[^c-d6397c73fa2fb43a48649408799695de] (1) This paragraph applies where—
 
 - (a) a transfer value falls to be calculated in accordance with paragraph 3 or 4; and
 - (b) for the purposes of paragraph 3, C is greater than B.
@@ -87,13 +87,13 @@ the transfer value shall be calculated on the cash equivalent basis but as if th
 
 (4) If the employment ended after 5th April 1978 and before 1st April 1979 the amount calculated in accordance with paragraph 3 is increased by adding to it interest on C at 6 per cent per annum, compounded with yearly rests, for each complete period of a year after the end of the employment and before the date of payment.
 
-**7.**[^key-13546a04bc67d430ced4e37573139ad9] Where a transfer value is paid to the scheme managers of an occupational pension scheme which is not a contracted-out scheme or of a personal pension scheme, there may be deducted from it the amount of any contributions equivalent premium paid by the Department.
+**7.**[^c-13546a04bc67d430ced4e37573139ad9] Where a transfer value is paid to the scheme managers of an occupational pension scheme which is not a contracted-out scheme or of a personal pension scheme, there may be deducted from it the amount of any contributions equivalent premium paid by the Department.
 
 ### Part II — Inward Transfers
 
-**8.**[^key-c403d0cdc22e4f3bccf196f927b6b5b3] If the employment in which the person was subject to the previous scheme was comparable service, he is entitled to count as reckonable service the period of service certified by the scheme managers as having stood to his credit under the scheme when he ceased to be subject to it.
+**8.**[^c-c403d0cdc22e4f3bccf196f927b6b5b3] If the employment in which the person was subject to the previous scheme was comparable service, he is entitled to count as reckonable service the period of service certified by the scheme managers as having stood to his credit under the scheme when he ceased to be subject to it.
 
-**9.**[^key-7e3e5ad5f8a145de09346365c7048a74] (1) If—
+**9.**[^c-7e3e5ad5f8a145de09346365c7048a74] (1) If—
 
 - (a) the previous scheme is a club scheme service under which is not comparable service; or
 - (b) the previous scheme is a personal pension scheme or an approved superannuation scheme which is not a club scheme and the person has entered pensionable employment after 31st December 1985,
@@ -110,7 +110,7 @@ he is entitled, unless paragraph 10 applies, to count as reckonable service the 
 - (d) if sub-paragraph (1)(*a*) applies any sum representing interest that is included in the transfer value shall not be taken into account; and
 - (e) if sub-paragraph (1)(*b*) applies any sum referred to in head (*d*) shall be taken into account.
 
-**10.**[^key-4bd9d4d683981439be0b095a3acae589] (1) This paragraph applies where—
+**10.**[^c-4bd9d4d683981439be0b095a3acae589] (1) This paragraph applies where—
 
 - (a) the condition specified in paragraph 9(1)(*b*) applies;
 - (b) the person has made an election under regulation B5 (election to rejoin pensionable service);
@@ -142,7 +142,7 @@ where—
 - (a) the reckonable service arising from the period of original pensionable employment; and
 - (b) such service arising from the period of excluded employment as if it had been pensionable employment.
 
-**11.**[^key-3358a9bf25813389e11b1be0c9cee36c] If—
+**11.**[^c-3358a9bf25813389e11b1be0c9cee36c] If—
 
 - (a) the previous scheme is an approved superannuation scheme which is not a club scheme; and
 - (b) the person entered pensionable employment before 1st January 1986,
@@ -151,25 +151,25 @@ he is entitled to count as reckonable service a period calculated as if Schedule
 
 ## Annotations
 
-[^key-e70f045a0ca44cfdccfbadc405b80205]: Commencement: Sch. 11 para. 1 in operation at 2.11.1998, see reg. A1
+[^c-e70f045a0ca44cfdccfbadc405b80205]: Commencement: Sch. 11 para. 1 in operation at 2.11.1998, see reg. A1
 
-[^key-e7cff4e62e1023fb435709ebb7b75404]: Commencement: Sch. 11 para. 2 in operation at 2.11.1998, see reg. A1
+[^c-e7cff4e62e1023fb435709ebb7b75404]: Commencement: Sch. 11 para. 2 in operation at 2.11.1998, see reg. A1
 
-[^key-12cc3689eaa8d171ad1bb8f6e35ce9e2]: Commencement: Sch. 11 para. 3 in operation at 2.11.1998, see reg. A1
+[^c-12cc3689eaa8d171ad1bb8f6e35ce9e2]: Commencement: Sch. 11 para. 3 in operation at 2.11.1998, see reg. A1
 
-[^key-aca87a065152db14c165f2f4f4993548]: Commencement: Sch. 11 para. 4 in operation at 2.11.1998, see reg. A1
+[^c-aca87a065152db14c165f2f4f4993548]: Commencement: Sch. 11 para. 4 in operation at 2.11.1998, see reg. A1
 
-[^key-ac0ace31c128a175b343365310ca8962]: Commencement: Sch. 11 para. 5 in operation at 2.11.1998, see reg. A1
+[^c-ac0ace31c128a175b343365310ca8962]: Commencement: Sch. 11 para. 5 in operation at 2.11.1998, see reg. A1
 
-[^key-d6397c73fa2fb43a48649408799695de]: Commencement: Sch. 11 para. 6 in operation at 2.11.1998, see reg. A1
+[^c-d6397c73fa2fb43a48649408799695de]: Commencement: Sch. 11 para. 6 in operation at 2.11.1998, see reg. A1
 
-[^key-13546a04bc67d430ced4e37573139ad9]: Commencement: Sch. 11 para. 7 in operation at 2.11.1998, see reg. A1
+[^c-13546a04bc67d430ced4e37573139ad9]: Commencement: Sch. 11 para. 7 in operation at 2.11.1998, see reg. A1
 
-[^key-c403d0cdc22e4f3bccf196f927b6b5b3]: Commencement: Sch. 11 para. 8 in operation at 2.11.1998, see reg. A1
+[^c-c403d0cdc22e4f3bccf196f927b6b5b3]: Commencement: Sch. 11 para. 8 in operation at 2.11.1998, see reg. A1
 
-[^key-7e3e5ad5f8a145de09346365c7048a74]: Commencement: Sch. 11 para. 9 in operation at 2.11.1998, see reg. A1
+[^c-7e3e5ad5f8a145de09346365c7048a74]: Commencement: Sch. 11 para. 9 in operation at 2.11.1998, see reg. A1
 
-[^key-4bd9d4d683981439be0b095a3acae589]: Commencement: Sch. 11 para. 10 in operation at 2.11.1998, see reg. A1
+[^c-4bd9d4d683981439be0b095a3acae589]: Commencement: Sch. 11 para. 10 in operation at 2.11.1998, see reg. A1
 
 [^f00058]: Footnote: [S.R. 1998 No. 363](https://www.legislation.gov.uk/nisr/1998/363)
 
@@ -177,4 +177,4 @@ he is entitled to count as reckonable service a period calculated as if Schedule
 
 [^f00060]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26)
 
-[^key-3358a9bf25813389e11b1be0c9cee36c]: Commencement: Sch. 11 para. 11 in operation at 2.11.1998, see reg. A1
+[^c-3358a9bf25813389e11b1be0c9cee36c]: Commencement: Sch. 11 para. 11 in operation at 2.11.1998, see reg. A1

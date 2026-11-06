@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64.[^key-70037219a0a465f737b0dd29121c5300]
+## 64.[^c-70037219a0a465f737b0dd29121c5300]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 31 (content of notices) has effect as if paragraphs (1) and (3) were 
 
 ## Annotations
 
-[^key-70037219a0a465f737b0dd29121c5300]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2019/449/regulation/64) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-70037219a0a465f737b0dd29121c5300]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2019/449/regulation/64) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 27.5. Striking out grounds of appeal etc.[^key-679ebfc4a0feb8d77bf3a5774437e494]
+## 27.5. Striking out grounds of appeal etc.[^c-679ebfc4a0feb8d77bf3a5774437e494]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-679ebfc4a0feb8d77bf3a5774437e494]: Commencement: [Rule 27.5](https://www.legislation.gov.uk/uksi/2015/1568/article/27.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-679ebfc4a0feb8d77bf3a5774437e494]: Commencement: [Rule 27.5](https://www.legislation.gov.uk/uksi/2015/1568/article/27.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -44,15 +44,15 @@ Coming into operation
 
 The Department of Finance and Personnel makes the following Order in exercise of the powers conferred by Article 31D(15) and (16) of the Rates (Northern Ireland) Order 1977[^f00001].
 
-## 1. Citation and commencement[^key-c3f1a81152c39b2c8224efce0fc6e182]
+## 1. Citation and commencement[^c-c3f1a81152c39b2c8224efce0fc6e182]
 
 This Order may be cited as the Rates (Temporary Rebate) (Amendment) Order (Northern Ireland) 2016 and shall come into operation on 1st April 2016.
 
-## 2. Temporary rebate for certain previously unoccupied hereditaments etc.[^key-f51c26c11186a857e0cee438e82f5e63]
+## 2. Temporary rebate for certain previously unoccupied hereditaments etc.[^c-f51c26c11186a857e0cee438e82f5e63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-00062df9e68ceca809791702f37f1ab3]
+## 3. Revocation[^c-00062df9e68ceca809791702f37f1ab3]
 
 Sub-paragraphs (a) and (b) of Article 2 of the Rates (Temporary Rebate) (Amendment) Order (Northern Ireland) Order 2015[^f00002] are revoked.
 
@@ -76,10 +76,10 @@ This Order extends the rebate to retail properties which become occupied during 
 
 [^f00001]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 31D was inserted by section 2 of the Rates (Amendment) Act (Northern Ireland) [2012 (c.1 (N.I.)](https://www.legislation.gov.uk/nia/2012/1)) and amended by [S.R. 2015 No. 48](https://www.legislation.gov.uk/nisr/2015/48)
 
-[^key-c3f1a81152c39b2c8224efce0fc6e182]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2016/18/article/1) in operation at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/18/article/1)
+[^c-c3f1a81152c39b2c8224efce0fc6e182]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2016/18/article/1) in operation at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/18/article/1)
 
-[^key-f51c26c11186a857e0cee438e82f5e63]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2016/18/article/2) revoked (1.5.2022) by [The Rates (Temporary Rebate) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/77)](https://www.legislation.gov.uk/nisr/2022/77), [arts. 1](https://www.legislation.gov.uk/nisr/2022/77/article/1), [3](https://www.legislation.gov.uk/nisr/2022/77/article/3)
+[^c-f51c26c11186a857e0cee438e82f5e63]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2016/18/article/2) revoked (1.5.2022) by [The Rates (Temporary Rebate) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/77)](https://www.legislation.gov.uk/nisr/2022/77), [arts. 1](https://www.legislation.gov.uk/nisr/2022/77/article/1), [3](https://www.legislation.gov.uk/nisr/2022/77/article/3)
 
-[^key-00062df9e68ceca809791702f37f1ab3]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2016/18/article/3) in operation at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/18/article/1)
+[^c-00062df9e68ceca809791702f37f1ab3]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2016/18/article/3) in operation at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/18/article/1)
 
 [^f00002]: Footnote: [S.R. 2015 No.48](https://www.legislation.gov.uk/nisr/2015/48)

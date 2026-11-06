@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of this Part the Secretary of State[^key-058d1f72f6e70814baeae57d874eb3f1] may nominate a local authority to be the “primary authority” for the exercise of the relevant function in relation to the regulated person.
+(1) For the purposes of this Part the Secretary of State[^c-058d1f72f6e70814baeae57d874eb3f1] may nominate a local authority to be the “primary authority” for the exercise of the relevant function in relation to the regulated person.
 
 (2) Sections 27 to 32 apply in any case where a primary authority is nominated under this section in relation to the regulated person.
 
 ## Annotations
 
-[^key-058d1f72f6e70814baeae57d874eb3f1]: Textual amendment: Words in s. 25(1) substituted (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/10) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-058d1f72f6e70814baeae57d874eb3f1]: Textual amendment: Words in s. 25(1) substituted (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/10) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))

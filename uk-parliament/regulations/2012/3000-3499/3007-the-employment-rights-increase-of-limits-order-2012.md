@@ -32,7 +32,7 @@ summary: ''
 
 Terms And Conditions Of Employment
 
-The Employment Rights (Increase of Limits) Order 2012 (revoked)[^key-039ee43c0acf201d55b828331b305162]
+The Employment Rights (Increase of Limits) Order 2012 (revoked)[^c-039ee43c0acf201d55b828331b305162]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 1st February 2013
 
-[^key-039ee43c0acf201d55b828331b305162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-039ee43c0acf201d55b828331b305162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-039ee43c0acf201d55b828331b305162]
+## 1. Citation, commencement and interpretation[^c-039ee43c0acf201d55b828331b305162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-039ee43c0acf201d55b828331b305162]
+## 2. Revocation[^c-039ee43c0acf201d55b828331b305162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-039ee43c0acf201d55b828331b305162]
+## 3. Increase of limits[^c-039ee43c0acf201d55b828331b305162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-039ee43c0acf201d55b828331b305162]
+## 4. Transitional provisions[^c-039ee43c0acf201d55b828331b305162]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-039ee43c0acf201d55b828331b305162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-039ee43c0acf201d55b828331b305162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-039ee43c0acf201d55b828331b305162]
+## SCHEDULE[^c-039ee43c0acf201d55b828331b305162]
 
 Article 3
 
@@ -78,8 +78,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-039ee43c0acf201d55b828331b305162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-039ee43c0acf201d55b828331b305162]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-039ee43c0acf201d55b828331b305162]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/3007) revoked (6.4.2014) by [The Employment Rights (Increase of Limits) Order 2014 (S.I. 2014/382)](https://www.legislation.gov.uk/uksi/2014/382), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/382/article/1/1), [2](https://www.legislation.gov.uk/uksi/2014/382/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/382/article/4))
+[^c-039ee43c0acf201d55b828331b305162]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/3007) revoked (6.4.2014) by [The Employment Rights (Increase of Limits) Order 2014 (S.I. 2014/382)](https://www.legislation.gov.uk/uksi/2014/382), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/382/article/1/1), [2](https://www.legislation.gov.uk/uksi/2014/382/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/382/article/4))

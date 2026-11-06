@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Joint contract-holders: joint liability etc.[^key-dcf6ebbcf3828bba3c7ce7e5df6cf488]
+## 48. Joint contract-holders: joint liability etc.[^c-dcf6ebbcf3828bba3c7ce7e5df6cf488]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcf6ebbcf3828bba3c7ce7e5df6cf488]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2016/1/section/48) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-dcf6ebbcf3828bba3c7ce7e5df6cf488]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2016/1/section/48) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

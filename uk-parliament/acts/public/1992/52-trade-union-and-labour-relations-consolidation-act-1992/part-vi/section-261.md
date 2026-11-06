@@ -30,7 +30,7 @@ summary: ''
 
 (5) If the Secretary of State is satisfied that a member—
 
-- (a) has become bankrupt or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him or has[^key-7dc1a8fd93708e6c9b1d6dcd661ac23c] made an arrangement with his creditors (or, in Scotland, has had his estate sequestrated or has made a trust deed for his creditors or has made and had accepted a composition contract), or
+- (a) has become bankrupt or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him or has[^c-7dc1a8fd93708e6c9b1d6dcd661ac23c] made an arrangement with his creditors (or, in Scotland, has had his estate sequestrated or has made a trust deed for his creditors or has made and had accepted a composition contract), or
 - (b) is incapacitated by physical or mental illness, or
 - (c) is otherwise unable or unfit to discharge the functions of a member,
 
@@ -40,4 +40,4 @@ the Secretary of State may declare his office as a member to be vacant and shall
 
 ## Annotations
 
-[^key-7dc1a8fd93708e6c9b1d6dcd661ac23c]: Textual amendment: Words in s. 261(5)(a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 28(3)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/28/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-7dc1a8fd93708e6c9b1d6dcd661ac23c]: Textual amendment: Words in s. 261(5)(a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 28(3)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/28/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))

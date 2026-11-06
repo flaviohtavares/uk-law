@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Multiple employers[^key-75a2749ce01db2ef9a749b029d89ef05]
+## 47. Multiple employers[^c-75a2749ce01db2ef9a749b029d89ef05]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the employer is to be treated as having made an election for the purposes of tho
 
 ## Annotations
 
-[^key-75a2749ce01db2ef9a749b029d89ef05]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2009/470/regulation/47) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-75a2749ce01db2ef9a749b029d89ef05]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2009/470/regulation/47) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

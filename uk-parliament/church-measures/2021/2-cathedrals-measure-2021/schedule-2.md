@@ -49,8 +49,8 @@ Section 3
 >
 > (6) The College of Canons has such other functions as may be conferred on it by the constitution or statutes.
 >
-> (7) In subsection (2)(c), “**canon**” includes a lay canon , a lay residentiary canon[^key-b5db71d61a2561297480a7707f60b0d5] and a non-residentiary canon but not a minor canon; and “**non-residentiary canon**” includes a prebendary who is not a residentiary canon.
+> (7) In subsection (2)(c), “**canon**” includes a lay canon , a lay residentiary canon[^c-b5db71d61a2561297480a7707f60b0d5] and a non-residentiary canon but not a minor canon; and “**non-residentiary canon**” includes a prebendary who is not a residentiary canon.
 
 ## Annotations
 
-[^key-b5db71d61a2561297480a7707f60b0d5]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/2021/2/schedule/2/paragraph/1) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/27)
+[^c-b5db71d61a2561297480a7707f60b0d5]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/2021/2/schedule/2/paragraph/1) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/27)

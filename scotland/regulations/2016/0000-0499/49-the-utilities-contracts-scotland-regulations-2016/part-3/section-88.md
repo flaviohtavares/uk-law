@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Award of contracts for social and other specific services[^key-f3b54dc81bea65c9392b902e43fc1662]
+## 88. Award of contracts for social and other specific services[^c-f3b54dc81bea65c9392b902e43fc1662]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A contract or framework for social and other specific services listed in Schedul
 
 ## Annotations
 
-[^key-f3b54dc81bea65c9392b902e43fc1662]: Commencement: [Reg. 88](https://www.legislation.gov.uk/ssi/2016/49/regulation/88) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-f3b54dc81bea65c9392b902e43fc1662]: Commencement: [Reg. 88](https://www.legislation.gov.uk/ssi/2016/49/regulation/88) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Meaning of “annual accounts”[^key-98a3d8b315dff14f484052c6f9d5b3b6]
+## 19. Meaning of “annual accounts”[^c-98a3d8b315dff14f484052c6f9d5b3b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-98a3d8b315dff14f484052c6f9d5b3b6]: Commencement: Reg. 19 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-98a3d8b315dff14f484052c6f9d5b3b6]: Commencement: Reg. 19 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00033]: Footnote: Section 471(1) as applied to LLPs was amended by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301), regulation 20(1) and (10).

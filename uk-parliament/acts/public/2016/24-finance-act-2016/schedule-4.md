@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Pensions: lump sum allowance and lump sum and death benefit allowance: transitional provision[^key-49ccee29804c40816dda21714dfbd6f2][^key-b135bd7492a78ec9ff9f0a53e046362b]
+## SCHEDULE 4 — Pensions: lump sum allowance and lump sum and death benefit allowance: transitional provision[^c-49ccee29804c40816dda21714dfbd6f2][^c-b135bd7492a78ec9ff9f0a53e046362b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ Section 19
 - (c) paragraph 1(2) of Schedule 6 to FA 2014 (“individual protection 2014”) does not apply in the individual's case at the particular time, and
 - (d) at the particular time or any later time, the individual has a reference number (see Part 3 of this Schedule) for the purposes of sub-paragraph (2).
 
-(2)[^key-021ecf9b24f3d8ad889cbe5aecf356ef] Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect in relation to the individual as if—
+(2)[^c-021ecf9b24f3d8ad889cbe5aecf356ef] Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect in relation to the individual as if—
 
 - (a) the amount specified in section 637P of that Act (individual’s lump sum allowance) were £312,500, and
 - (b) the amount specified in section 637R of that Act (individual’s lump sum and death benefit allowance) were—
@@ -49,7 +49,7 @@ Section 19
 - (a) that, on 6 April 2016, the individual has one or more arrangements under—
   - (i) a registered pension scheme, or
   - (ii) a relieved non-UK pension scheme of which the individual is a relieved member,
-- (b) that paragraph 7 of Schedule 36 to FA 2004 (primary protection) does not apply on 6 April 2016[^key-c04a26f153faf644173a5e76b6789463] in relation to the individual,
+- (b) that paragraph 7 of Schedule 36 to FA 2004 (primary protection) does not apply on 6 April 2016[^c-c04a26f153faf644173a5e76b6789463] in relation to the individual,
 - (c) that paragraph 12 of that Schedule (enhanced protection) does not apply in the individual's case on 6 April 2016,
 - (d) that paragraph 14 of Schedule 18 to FA 2011 (transitional provision relating to new standard lifetime allowance for the tax year 2012-13) does not apply in the individual's case on 6 April 2016, and
 - (e) that paragraph 1 of Schedule 22 to FA 2013 (“**fixed protection 2014**” relating to new standard lifetime allowance for the tax year 2014-15) does not apply in the individual's case on 6 April 2016.
@@ -60,7 +60,7 @@ Section 19
 
 - (a) there is benefit accrual in relation to the individual under an arrangement under a registered pension scheme,
 - (b) there is an impermissible transfer into any arrangement under a registered pension scheme relating to the individual,
-- (c)[^key-7baf820a7a67e51b8957f6e9dc84025f] a transfer of sums or assets held for the purposes of, or representing accrued rights under, any such arrangement is made that is not a permitted transfer, or
+- (c)[^c-7baf820a7a67e51b8957f6e9dc84025f] a transfer of sums or assets held for the purposes of, or representing accrued rights under, any such arrangement is made that is not a permitted transfer, or
 - (d) an arrangement relating to the individual is made under a registered pension scheme otherwise than in permitted circumstances.
 
 #### Protection-cessation events: interpretation: “benefit accrual”
@@ -68,7 +68,7 @@ Section 19
 **4.** (1) For the purposes of paragraph 3(a) there is benefit accrual in relation to the individual under an arrangement—
 
 - (a) in the case of a money purchase arrangement that is not a cash balance arrangement, if a relevant contribution is paid under the arrangement on or after 6 April 2016,
-- (b)[^key-c44dbf690f55fbeeb86d1198b9c26d12] in the case of a cash balance arrangement or defined benefits arrangement, if there is an increase in the value of the individual's rights under the arrangement at any time on or after that date (but subject to sub-paragraph (5)), and
+- (b)[^c-c44dbf690f55fbeeb86d1198b9c26d12] in the case of a cash balance arrangement or defined benefits arrangement, if there is an increase in the value of the individual's rights under the arrangement at any time on or after that date (but subject to sub-paragraph (5)), and
 - (c) in the case of a hybrid arrangement—
   - (i) where the benefits that may be provided to or in respect of the individual under the arrangement include money purchase benefits other than cash balance benefits, if a relevant contribution is paid under the arrangement on or after 6 April 2016, and
   - (ii) in any case, if there is an increase in the value of the individual's rights under the arrangement at any time on or after that date (but subject to sub-paragraph (5)).
@@ -156,24 +156,24 @@ RVF is the relevant valuation factor.
 
 and, in such a case, the benefit accrual is treated as occurring immediately before the benefit crystallisation event.
 
-### PART 2 — “Individual protection 2016”[^key-17a4f30244fd39a1610e52b3bae1be4a]
+### PART 2 — “Individual protection 2016”[^c-17a4f30244fd39a1610e52b3bae1be4a]
 
 #### The protection
 
-**9.** (1) Sub-paragraphs (2) to (2B) apply[^key-881b72e06fd0a0aa195befce8c864920] at any particular time on or after 6 April 2016 in the case of an individual if—
+**9.** (1) Sub-paragraphs (2) to (2B) apply[^c-881b72e06fd0a0aa195befce8c864920] at any particular time on or after 6 April 2016 in the case of an individual if—
 
 - (a) the individual has one or more relevant arrangements (see sub-paragraph (3)) on 5 April 2016,
-- (b) the individual's relevant amount at the particular time is greater than £1,073,100[^key-f1127b10e65ad3f1ec8f0844c978430f](see sub-paragraphs (4) and (7)),
-- (c) paragraph 7 of Schedule 36 to FA 2004 (primary protection) does not apply on 6 April 2016[^key-df26f77297a94b0da77d5ee7bc50fe2b] in relation to the individual,
+- (b) the individual's relevant amount at the particular time is greater than £1,073,100[^c-f1127b10e65ad3f1ec8f0844c978430f](see sub-paragraphs (4) and (7)),
+- (c) paragraph 7 of Schedule 36 to FA 2004 (primary protection) does not apply on 6 April 2016[^c-df26f77297a94b0da77d5ee7bc50fe2b] in relation to the individual,
 - (d) none of the provisions listed in sub-paragraph (5) applies in the individual's case at the particular time, and
 - (e) at the particular time or any later time, the individual has a reference number (see Part 3 of this Schedule) for the purposes of sub-paragraph (2).
 
-(2)[^key-2cab8a72aff0cb772d217152b312f4da] Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect in relation to the individual as if the amount specified in section 637P of that Act (individual’s lump sum allowance) were the lower of—
+(2)[^c-2cab8a72aff0cb772d217152b312f4da] Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect in relation to the individual as if the amount specified in section 637P of that Act (individual’s lump sum allowance) were the lower of—
 
 - (a) 25% of the individual’s relevant amount, and
 - (b) £312,500.
 
-(2A) Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect in relation to the individual as if the amount specified in section 637R of that Act (individual’s lump sum and death benefit allowance) were [^key-5b35efb2e06f2f14439e27392c6037b0]...—
+(2A) Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect in relation to the individual as if the amount specified in section 637R of that Act (individual’s lump sum and death benefit allowance) were [^c-5b35efb2e06f2f14439e27392c6037b0]...—
 
 - (a) if one or more lump sum and death benefit allowance enhancement factors operate in relation to the individual for the purposes of paragraph 20H of Schedule 36 to FA 2004, the individual’s enhanced lump sum and death benefit allowance (as determined under that paragraph of that Schedule), and
 - (b) otherwise, the lower of—
@@ -202,7 +202,7 @@ and, in such a case, the benefit accrual is treated as occurring immediately bef
 
 (6) Sub-paragraph (7) applies if rights of an individual under a relevant arrangement become subject to a pension debit where the transfer day falls on or after 6 April 2016.
 
-(7) For the purposes of applying sub-paragraphs (2) to (2B)[^key-6c694c37d0594ced5c29b582200cfa3a] in the case of the individual on and after the transfer day, the individual's relevant amount is reduced (or further reduced) by the following amount—
+(7) For the purposes of applying sub-paragraphs (2) to (2B)[^c-6c694c37d0594ced5c29b582200cfa3a] in the case of the individual on and after the transfer day, the individual's relevant amount is reduced (or further reduced) by the following amount—
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2016/24)
 
@@ -313,7 +313,7 @@ the new scheme pension is also to be a “relevant existing pension” (includin
 (3) A valid application is an application—
 
 - (a) made by or on behalf of the individual concerned,
-- (b) made on or after 6 April 2016 but before 6 April 2025[^key-6ffa69522c50a7c6fadabb4a7c8817ca],
+- (b) made on or after 6 April 2016 but before 6 April 2025[^c-6ffa69522c50a7c6fadabb4a7c8817ca],
 - (c) made by means of a digital service provided for the purpose by or on behalf of the Commissioners, or by other means authorised in a particular case by an officer of Revenue and Customs,
 - (d) containing—
   - (i) the following details for the individual and, where the individual is not the applicant, also for the applicant: title, full name, full postal address and e-mail address,
@@ -657,32 +657,32 @@ omit regulation 4(2)(a).
 
 ## Annotations
 
-[^key-49ccee29804c40816dda21714dfbd6f2]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4) modified (24.4.2025 for the tax year 2024-25 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/6), [19](https://www.legislation.gov.uk/uksi/2025/419/regulation/19) (with [reg. 18(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/2))
+[^c-49ccee29804c40816dda21714dfbd6f2]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4) modified (24.4.2025 for the tax year 2024-25 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/6), [19](https://www.legislation.gov.uk/uksi/2025/419/regulation/19) (with [reg. 18(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/2))
 
-[^key-b135bd7492a78ec9ff9f0a53e046362b]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4) heading substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 93(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/93/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-b135bd7492a78ec9ff9f0a53e046362b]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4) heading substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 93(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/93/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-021ecf9b24f3d8ad889cbe5aecf356ef]: Textual amendment: [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/1/3) substituted for [Sch. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4) [para. 1(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/1/2) (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [16(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/16/2)
+[^c-021ecf9b24f3d8ad889cbe5aecf356ef]: Textual amendment: [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/1/3) substituted for [Sch. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4) [para. 1(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/1/2) (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [16(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/16/2)
 
-[^key-c04a26f153faf644173a5e76b6789463]: Textual amendment: Words in [Sch. 4 para. 2(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/2/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 93(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/93/3/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-c04a26f153faf644173a5e76b6789463]: Textual amendment: Words in [Sch. 4 para. 2(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/2/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 93(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/93/3/b), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
 [^M_F_460cc9eb-d755-463d-d702-9123a82fc2e2]: Textual amendment: Words in Sch. 4 para. 3 inserted (6.4.2023 for the tax year 2023-24 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 23(7)(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/23/7)
 
-[^key-7baf820a7a67e51b8957f6e9dc84025f]: Modification: [Sch. 4 para. 3(c)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/3/c) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2023/113/regulation/42) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
+[^c-7baf820a7a67e51b8957f6e9dc84025f]: Modification: [Sch. 4 para. 3(c)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/3/c) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2023/113/regulation/42) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
 
-[^key-c44dbf690f55fbeeb86d1198b9c26d12]: Modification: [Sch. 4 para. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/4/1/b) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2023/113/regulation/40), [41](https://www.legislation.gov.uk/uksi/2023/113/regulation/41) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
+[^c-c44dbf690f55fbeeb86d1198b9c26d12]: Modification: [Sch. 4 para. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/4/1/b) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2023/113/regulation/40), [41](https://www.legislation.gov.uk/uksi/2023/113/regulation/41) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
 
-[^key-17a4f30244fd39a1610e52b3bae1be4a]: Modification: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/part/2) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2023/113/regulation/37), [38](https://www.legislation.gov.uk/uksi/2023/113/regulation/38) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
+[^c-17a4f30244fd39a1610e52b3bae1be4a]: Modification: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/part/2) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2023/113/regulation/37), [38](https://www.legislation.gov.uk/uksi/2023/113/regulation/38) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
 
-[^key-881b72e06fd0a0aa195befce8c864920]: Textual amendment: Words in Sch. 4 para. 9(1) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [16(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/16/3/a/i)
+[^c-881b72e06fd0a0aa195befce8c864920]: Textual amendment: Words in Sch. 4 para. 9(1) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [16(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/16/3/a/i)
 
-[^key-f1127b10e65ad3f1ec8f0844c978430f]: Textual amendment: Sum in Sch. 4 para. 9(1)(b) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [16(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/16/3/a/ii)
+[^c-f1127b10e65ad3f1ec8f0844c978430f]: Textual amendment: Sum in Sch. 4 para. 9(1)(b) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [16(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/16/3/a/ii)
 
-[^key-df26f77297a94b0da77d5ee7bc50fe2b]: Textual amendment: Words in Sch. 4 para. 9(1)(c) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 93(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/93/4/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-df26f77297a94b0da77d5ee7bc50fe2b]: Textual amendment: Words in Sch. 4 para. 9(1)(c) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 93(4)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/93/4/a), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-2cab8a72aff0cb772d217152b312f4da]: Textual amendment: Sch. 4 para. 9(2)-(2B) substituted for Sch. 4 para. 9(2) (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [16(3)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/16/3/b)
+[^c-2cab8a72aff0cb772d217152b312f4da]: Textual amendment: Sch. 4 para. 9(2)-(2B) substituted for Sch. 4 para. 9(2) (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [16(3)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/16/3/b)
 
-[^key-5b35efb2e06f2f14439e27392c6037b0]: Textual amendment: Words in Sch. 4 para. 9(2A) omitted (25.6.2026 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [8(a)](https://www.legislation.gov.uk/uksi/2026/698/regulation/8/a)
+[^c-5b35efb2e06f2f14439e27392c6037b0]: Textual amendment: Words in Sch. 4 para. 9(2A) omitted (25.6.2026 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [8(a)](https://www.legislation.gov.uk/uksi/2026/698/regulation/8/a)
 
-[^key-6c694c37d0594ced5c29b582200cfa3a]: Textual amendment: Words in Sch. 4 para. 9(7) substituted (25.6.2026 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [8(b)](https://www.legislation.gov.uk/uksi/2026/698/regulation/8/b)
+[^c-6c694c37d0594ced5c29b582200cfa3a]: Textual amendment: Words in Sch. 4 para. 9(7) substituted (25.6.2026 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [8(b)](https://www.legislation.gov.uk/uksi/2026/698/regulation/8/b)
 
-[^key-6ffa69522c50a7c6fadabb4a7c8817ca]: Textual amendment: Words in [Sch. 4 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/14/3/b) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 93(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/93/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-6ffa69522c50a7c6fadabb4a7c8817ca]: Textual amendment: Words in [Sch. 4 para. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/14/3/b) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 93(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/93/5), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))

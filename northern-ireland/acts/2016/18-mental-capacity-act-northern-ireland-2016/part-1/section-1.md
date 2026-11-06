@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Principles: capacity[^key-0d97b9105d6b6acc8673d8968f64aa54][^key-d4f79b40b02495761bc440daf1df462f]
+## 1. Principles: capacity[^c-0d97b9105d6b6acc8673d8968f64aa54][^c-d4f79b40b02495761bc440daf1df462f]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d97b9105d6b6acc8673d8968f64aa54]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/18/section/1) in operation at 1.10.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-0d97b9105d6b6acc8673d8968f64aa54]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/18/section/1) in operation at 1.10.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-d4f79b40b02495761bc440daf1df462f]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/18/section/1) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/163/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/3) (as amended by S.R. 2019/190, art. 2)
+[^c-d4f79b40b02495761bc440daf1df462f]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/18/section/1) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/163/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/3) (as amended by S.R. 2019/190, art. 2)

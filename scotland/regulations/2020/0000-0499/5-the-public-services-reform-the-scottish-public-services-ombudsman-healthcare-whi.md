@@ -53,15 +53,15 @@ In accordance with section 19(2) of that Act, the Scottish Parliamentary Corpora
 
 In accordance with section 25(2)(c) of that Act[^f00002], a draft of this Order has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation[^key-402425f45b7440ecf992c35e14d16f7f]
+## 1. Citation[^c-402425f45b7440ecf992c35e14d16f7f]
 
 This Order may be cited as the Public Services Reform (The Scottish Public Services Ombudsman) (Healthcare Whistleblowing) Order 2020.
 
-## 2. Commencement[^key-c03e0b3cd68aee4af13125fa228fbbc3]
+## 2. Commencement[^c-c03e0b3cd68aee4af13125fa228fbbc3]
 
 This Order comes into force on the day after the day on which it is made.
 
-## 3. Amendment of the Scottish Public Services Ombudsman Act 2002[^key-3327c8c36e9c170b182949421463c7a0]
+## 3. Amendment of the Scottish Public Services Ombudsman Act 2002[^c-3327c8c36e9c170b182949421463c7a0]
 
 (1) The Scottish Public Services Ombudsman Act 2002[^f00003] is amended as follows.
 
@@ -157,7 +157,7 @@ This Order comes into force on the day after the day on which it is made.
 > | --- | --- |
 > | The Common Services Agency for the Scottish Health Service | 1\. The Agency’s function of providing information, advice and management services in support of the functions of the Scottish Ministers, Health Boards and Special Health Boards<br>2\. Fraud or another irregularity in relation to the health service (as defined in section 108(1) of the National Health Service (Scotland) Act 1978[^f00007]) |
 > | Healthcare Improvement Scotland | A matter of relevance to furthering improvement in the quality of health care (as defined in section 10A(2) of the National Health Service (Scotland) Act 1978[^f00008]) |
-> | [^key-01d1596634cb2f939e5960c7589de7d8]. . . | [^key-01d1596634cb2f939e5960c7589de7d8]. . . |
+> | [^c-01d1596634cb2f939e5960c7589de7d8]. . . | [^c-01d1596634cb2f939e5960c7589de7d8]. . . |
 > | The Mental Welfare Commission for Scotland | 1\. An investigation under section 11 or 12 of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00009]<br>2\. Circumstances of a kind mentioned in paragraph (a) or (d) to (f) of section 11(2) of that Act |
 
 .
@@ -218,11 +218,11 @@ Section 20 of the 2002 Act allows the Ombudsman to disclose information gathered
 
 [^f00002]: Footnote: Section 25(2)(c) is modified by the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10), schedule 3, paragraph 5.
 
-[^key-402425f45b7440ecf992c35e14d16f7f]: Commencement: Art. 1 in force at 8.1.2020, see [art. 2](https://www.legislation.gov.uk/ssi/2020/5/article/2)
+[^c-402425f45b7440ecf992c35e14d16f7f]: Commencement: Art. 1 in force at 8.1.2020, see [art. 2](https://www.legislation.gov.uk/ssi/2020/5/article/2)
 
-[^key-c03e0b3cd68aee4af13125fa228fbbc3]: Commencement: Art. 2 in force at 8.1.2020, see [art. 2](https://www.legislation.gov.uk/ssi/2020/5/article/2)
+[^c-c03e0b3cd68aee4af13125fa228fbbc3]: Commencement: Art. 2 in force at 8.1.2020, see [art. 2](https://www.legislation.gov.uk/ssi/2020/5/article/2)
 
-[^key-3327c8c36e9c170b182949421463c7a0]: Commencement: Art. 3 in force at 8.1.2020, see [art. 2](https://www.legislation.gov.uk/ssi/2020/5/article/2)
+[^c-3327c8c36e9c170b182949421463c7a0]: Commencement: Art. 3 in force at 8.1.2020, see [art. 2](https://www.legislation.gov.uk/ssi/2020/5/article/2)
 
 [^f00003]: Footnote: [2002 asp 11](https://www.legislation.gov.uk/asp/2002/11).
 
@@ -236,7 +236,7 @@ Section 20 of the 2002 Act allows the Ombudsman to disclose information gathered
 
 [^f00008]: Footnote: Section 10A is inserted by the Public Services Reform (Scotland) Act 2010, section 108.
 
-[^key-01d1596634cb2f939e5960c7589de7d8]: Textual amendment: Words in art. 3(7) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 24](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/24) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+[^c-01d1596634cb2f939e5960c7589de7d8]: Textual amendment: Words in art. 3(7) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 24](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/24) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
 
 [^f00009]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13). Sections 11 and 12 are amended by the Public Services Reform (Scotland) Act 2010, section 111(8) and (9).
 

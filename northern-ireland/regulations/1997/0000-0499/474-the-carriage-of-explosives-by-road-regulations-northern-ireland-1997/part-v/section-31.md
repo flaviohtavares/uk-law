@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Transitional provision[^key-5b2070f5af559b2588f1aa2ef48a9ed8]
+## 31. Transitional provision[^c-5b2070f5af559b2588f1aa2ef48a9ed8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Until 1st April 1998 it shall be sufficient compliance with the requirements of 
 
 ## Annotations
 
-[^key-5b2070f5af559b2588f1aa2ef48a9ed8]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/1997/474/regulation/31) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-5b2070f5af559b2588f1aa2ef48a9ed8]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/1997/474/regulation/31) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

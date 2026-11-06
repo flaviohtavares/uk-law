@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Offences in relation to passage of salmon[^key-6c480958377fe278bffe60a7e141611a]
+## 10. Offences in relation to passage of salmon[^c-6c480958377fe278bffe60a7e141611a]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c480958377fe278bffe60a7e141611a]: Commencement: S. 10 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-6c480958377fe278bffe60a7e141611a]: Commencement: S. 10 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

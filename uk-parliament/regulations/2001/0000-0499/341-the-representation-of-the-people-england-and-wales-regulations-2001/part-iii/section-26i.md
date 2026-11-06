@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26I. Overseas electors: supplemental provision as to attestations and the meaning of “qualifying attestor”[^key-1e1f105d375a50a126885bfb071efac6]
+## 26I. Overseas electors: supplemental provision as to attestations and the meaning of “qualifying attestor”[^c-1e1f105d375a50a126885bfb071efac6]
 
 *Extent: E+W*
 
@@ -54,14 +54,14 @@ where the qualifying attestor for each attestation is the same person.
 
 (4) This paragraph applies to an attestation made in accordance with any of—
 
-- (a) regulations 26E to 26H, [^key-961042cb6d561990cd38a20985dd96e2]...
-- (b) regulations 26E to 26H of the Representation of the People (Scotland) Regulations 2001 , and[^key-578c3b56c7f4e6ff09ea4151c4deb717]
+- (a) regulations 26E to 26H, [^c-961042cb6d561990cd38a20985dd96e2]...
+- (b) regulations 26E to 26H of the Representation of the People (Scotland) Regulations 2001 , and[^c-578c3b56c7f4e6ff09ea4151c4deb717]
 - (c) regulations 25C and 27ZC to 27ZF of the Representation of the People (Northern Ireland) Regulations 2008.
 
 ## Annotations
 
-[^key-1e1f105d375a50a126885bfb071efac6]: Textual amendment: Regs. 26C-26J inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/5/9) (with [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/b))
+[^c-1e1f105d375a50a126885bfb071efac6]: Textual amendment: Regs. 26C-26J inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [5(9)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/5/9) (with [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/b))
 
-[^key-961042cb6d561990cd38a20985dd96e2]: Textual amendment: Word in reg. 26I(4)(a) omitted (16.1.2024) by virtue of [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [22(3)(a)](https://www.legislation.gov.uk/uksi/2024/43/regulation/22/3/a) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))
+[^c-961042cb6d561990cd38a20985dd96e2]: Textual amendment: Word in reg. 26I(4)(a) omitted (16.1.2024) by virtue of [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [22(3)(a)](https://www.legislation.gov.uk/uksi/2024/43/regulation/22/3/a) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))
 
-[^key-578c3b56c7f4e6ff09ea4151c4deb717]: Textual amendment: Reg. 26I(4)(c) and word inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [22(3)(b)](https://www.legislation.gov.uk/uksi/2024/43/regulation/22/3/b) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))
+[^c-578c3b56c7f4e6ff09ea4151c4deb717]: Textual amendment: Reg. 26I(4)(c) and word inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [22(3)(b)](https://www.legislation.gov.uk/uksi/2024/43/regulation/22/3/b) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))

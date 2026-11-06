@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Power of CMA to publish notice of investigative assistance[^key-d257bde52ec32a54f26ce5a45a02594f][^key-1df36c20f6b28f65b2ea962650c92d57]
+## 82. Power of CMA to publish notice of investigative assistance[^c-d257bde52ec32a54f26ce5a45a02594f][^c-1df36c20f6b28f65b2ea962650c92d57]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d257bde52ec32a54f26ce5a45a02594f]: Commencement: S. 82 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d257bde52ec32a54f26ce5a45a02594f]: Commencement: S. 82 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-1df36c20f6b28f65b2ea962650c92d57]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2024/13/section/82) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-1df36c20f6b28f65b2ea962650c92d57]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2024/13/section/82) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

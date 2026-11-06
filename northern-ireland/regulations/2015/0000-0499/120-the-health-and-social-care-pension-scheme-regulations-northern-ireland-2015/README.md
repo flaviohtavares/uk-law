@@ -44,7 +44,7 @@ Coming into operation
 
 In accordance with section 21 of that Act, the Department has consulted the representatives of such persons as appear to the Department likely to be affected by these Regulations.
 
-In accordance with section 3(5) of that Act, the Department of Finance and Personnel has consented to the making of these Regulations.[^key-854270f32e529bb1fdb7177da8afb678]
+In accordance with section 3(5) of that Act, the Department of Finance and Personnel has consented to the making of these Regulations.[^c-854270f32e529bb1fdb7177da8afb678]
 
 ## Contents
 
@@ -413,4 +413,4 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^c22440351]: Marginal citation: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2)
 
-[^key-854270f32e529bb1fdb7177da8afb678]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2015/120) modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [reg. 5(1)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/5/1/b)
+[^c-854270f32e529bb1fdb7177da8afb678]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2015/120) modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [reg. 5(1)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/5/1/b)

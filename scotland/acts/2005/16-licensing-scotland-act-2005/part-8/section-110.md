@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Duty to display notice[^key-ce36e4ec440ebad628bff9d770af5cf3]
+## 110. Duty to display notice[^c-ce36e4ec440ebad628bff9d770af5cf3]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce36e4ec440ebad628bff9d770af5cf3]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2005/16/section/110) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-ce36e4ec440ebad628bff9d770af5cf3]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2005/16/section/110) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

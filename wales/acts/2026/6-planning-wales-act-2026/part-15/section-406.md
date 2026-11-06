@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 406. Church of England land[^key-086da80dbc0224d589cc1e2b23dbc33f]
+## 406. Church of England land[^c-086da80dbc0224d589cc1e2b23dbc33f]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-086da80dbc0224d589cc1e2b23dbc33f]: Commencement: S. 406 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-086da80dbc0224d589cc1e2b23dbc33f]: Commencement: S. 406 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

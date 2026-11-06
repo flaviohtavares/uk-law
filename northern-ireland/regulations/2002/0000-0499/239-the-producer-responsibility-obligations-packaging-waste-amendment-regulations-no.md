@@ -31,7 +31,7 @@ summary: ''
 
 PUBLIC HEALTH
 
-The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-18e070164019ade611900c3cdbf3bcfa]
+The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-18e070164019ade611900c3cdbf3bcfa]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 2nd September 2002
 
-[^key-18e070164019ade611900c3cdbf3bcfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18e070164019ade611900c3cdbf3bcfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-18e070164019ade611900c3cdbf3bcfa]
+## 1. Citation, commencement and interpretation[^c-18e070164019ade611900c3cdbf3bcfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-18e070164019ade611900c3cdbf3bcfa]
+## 2. Amendment of the principal Regulations[^c-18e070164019ade611900c3cdbf3bcfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18e070164019ade611900c3cdbf3bcfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18e070164019ade611900c3cdbf3bcfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18e070164019ade611900c3cdbf3bcfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18e070164019ade611900c3cdbf3bcfa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-18e070164019ade611900c3cdbf3bcfa]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/239) revoked (9.10.2006) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/356)](https://www.legislation.gov.uk/nisr/2006/356), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/356/regulation/1/1), [41](https://www.legislation.gov.uk/nisr/2006/356/regulation/41), [Sch. 12](https://www.legislation.gov.uk/nisr/2006/356/schedule/12)
+[^c-18e070164019ade611900c3cdbf3bcfa]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/239) revoked (9.10.2006) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/356)](https://www.legislation.gov.uk/nisr/2006/356), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/356/regulation/1/1), [41](https://www.legislation.gov.uk/nisr/2006/356/regulation/41), [Sch. 12](https://www.legislation.gov.uk/nisr/2006/356/schedule/12)

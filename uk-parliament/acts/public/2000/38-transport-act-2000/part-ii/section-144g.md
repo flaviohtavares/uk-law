@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144G. Application of training requirement: services in Wales[^key-7fa1bd5880a69b4209e48dcf95fbf384]
+## 144G. Application of training requirement: services in Wales[^c-7fa1bd5880a69b4209e48dcf95fbf384]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fa1bd5880a69b4209e48dcf95fbf384]: Textual amendment: Ss. 144F, 144G and cross-heading inserted (27.10.2025 for the purposes of making regulations, 5.8.2026 in so far as not already in force) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/34/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/f) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/834/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/834/regulation/4))
+[^c-7fa1bd5880a69b4209e48dcf95fbf384]: Textual amendment: Ss. 144F, 144G and cross-heading inserted (27.10.2025 for the purposes of making regulations, 5.8.2026 in so far as not already in force) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/34/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/f) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/834/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/834/regulation/4))

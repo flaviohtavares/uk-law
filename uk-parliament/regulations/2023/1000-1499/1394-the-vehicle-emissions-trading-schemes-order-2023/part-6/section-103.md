@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Refusal to allow access to premises[^key-36cb9cc97fd59841b389a595a944d086]
+## 103. Refusal to allow access to premises[^c-36cb9cc97fd59841b389a595a944d086]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36cb9cc97fd59841b389a595a944d086]: Commencement: Art. 103 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-36cb9cc97fd59841b389a595a944d086]: Commencement: Art. 103 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

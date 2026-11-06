@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Long-term incapacity benefit for widowers.[^key-858aeda7079575ddbc422ece50c468a7][^c16384791]
+## 41. Long-term incapacity benefit for widowers.[^c-858aeda7079575ddbc422ece50c468a7][^c16384791]
 
 *Extent: N.I.*
 
@@ -52,7 +52,7 @@ For the purposes of this subsection a man is terminally ill if he suffers from a
 
 ## Annotations
 
-[^key-858aeda7079575ddbc422ece50c468a7]: Modification: [S. 41](https://www.legislation.gov.uk/ukpga/1992/7/section/41) excluded (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (S.R. 2010/312)](https://www.legislation.gov.uk/nisr/2010/312), [regs. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1), [22(a)](https://www.legislation.gov.uk/nisr/2010/312/regulation/22/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2010/312/regulation/3))
+[^c-858aeda7079575ddbc422ece50c468a7]: Modification: [S. 41](https://www.legislation.gov.uk/ukpga/1992/7/section/41) excluded (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (S.R. 2010/312)](https://www.legislation.gov.uk/nisr/2010/312), [regs. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1), [22(a)](https://www.legislation.gov.uk/nisr/2010/312/regulation/22/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2010/312/regulation/3))
 
 [^c16384791]: Textual amendment: [S. 41](https://www.legislation.gov.uk/ukpga/1992/7/section/41) substituted (13.4.1995) by [S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898), [art. 13(1)](https://www.legislation.gov.uk/nisi/1994/1898/article/13/1), [Sch. 1 Pt. I para. 9](https://www.legislation.gov.uk/nisi/1994/1898/schedule/1/part/I/paragraph/9); [S.R. 1994/450](https://www.legislation.gov.uk/nisr/1994/450), [art. 2(d)](https://www.legislation.gov.uk/nisr/1994/450/article/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/1994/450/schedule/part/IV)
 

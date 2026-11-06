@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-3080850e759fd6b1d61e01f141e72330] No person shall subject natural mineral water in its state at source to—
+(1)[^c-3080850e759fd6b1d61e01f141e72330] No person shall subject natural mineral water in its state at source to—
 
 - (a) any treatment other than—
   - (i) an authorised ozone-enriched air oxidation technique,
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3080850e759fd6b1d61e01f141e72330]: Textual amendment: Reg. 6(1) substituted (9.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2010 (S.I. 2010/433)](https://www.legislation.gov.uk/uksi/2010/433), [regs. 1](https://www.legislation.gov.uk/uksi/2010/433/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/433/regulation/4)
+[^c-3080850e759fd6b1d61e01f141e72330]: Textual amendment: Reg. 6(1) substituted (9.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2010 (S.I. 2010/433)](https://www.legislation.gov.uk/uksi/2010/433), [regs. 1](https://www.legislation.gov.uk/uksi/2010/433/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/433/regulation/4)

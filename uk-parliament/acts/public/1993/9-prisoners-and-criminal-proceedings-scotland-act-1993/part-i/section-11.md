@@ -27,11 +27,11 @@ summary: ''
 (3) Without prejudice to any order under section 209[^c12925671] of the 1995 Act[^c12925681], where a short-term prisoner is released on licence—
 
 - (a) under section 3(1) of this Act, the licence shall (unless revoked) remain in force until
-  - (i)[^key-946f68102ceff98d580656fdf96307ab] in the case of a person to whom section 1AB applies, the date on which, but for such release, the entire period specified in the prisoner's sentence (reckoned from the commencement of the sentence) has elapsed, and
-  - (ii) in any other case, under section 3(1) of this Act, the licence shall (unless revoked) remain in force until the date on which, but for the release under section 3(1)[^key-2b7414830111e501f6119b394a6ff598], he would have been released under section 1(1) of this Act;
+  - (i)[^c-946f68102ceff98d580656fdf96307ab] in the case of a person to whom section 1AB applies, the date on which, but for such release, the entire period specified in the prisoner's sentence (reckoned from the commencement of the sentence) has elapsed, and
+  - (ii) in any other case, under section 3(1) of this Act, the licence shall (unless revoked) remain in force until the date on which, but for the release under section 3(1)[^c-2b7414830111e501f6119b394a6ff598], he would have been released under section 1(1) of this Act;
 - (b)[^c12925691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3ZA)[^key-c2091de39cafb4be5fb032eb6930743f] Where a short-term prisoner is released on licence under section 1AB, the licence (unless revoked) remains in force until the entire period specified in the prisoner's sentence (reckoned from the commencement of the sentence) has elapsed.
+(3ZA)[^c-c2091de39cafb4be5fb032eb6930743f] Where a short-term prisoner is released on licence under section 1AB, the licence (unless revoked) remains in force until the entire period specified in the prisoner's sentence (reckoned from the commencement of the sentence) has elapsed.
 
 (3A)[^c20991081] Subsections (1) to (3) above do not apply in relation to release on licence under section 3AA of this Act.
 
@@ -47,12 +47,12 @@ summary: ''
 
 [^c12925681]: Textual amendment: Words in s. 11(3) substituted (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 4 para. 86(2)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/86/2)
 
-[^key-946f68102ceff98d580656fdf96307ab]: Textual amendment: Words in s. 11(3)(a) inserted (26.2.2020) by [Terrorist Offenders (Restriction of Early Release) Act 2020 (c. 3)](https://www.legislation.gov.uk/ukpga/2020/3), [ss. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2020/3/section/9/2/a), [10(4)](https://www.legislation.gov.uk/ukpga/2020/3/section/10/4)
+[^c-946f68102ceff98d580656fdf96307ab]: Textual amendment: Words in s. 11(3)(a) inserted (26.2.2020) by [Terrorist Offenders (Restriction of Early Release) Act 2020 (c. 3)](https://www.legislation.gov.uk/ukpga/2020/3), [ss. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2020/3/section/9/2/a), [10(4)](https://www.legislation.gov.uk/ukpga/2020/3/section/10/4)
 
-[^key-2b7414830111e501f6119b394a6ff598]: Textual amendment: Words in s. 11(3)(a) substituted (26.2.2020) by [Terrorist Offenders (Restriction of Early Release) Act 2020 (c. 3)](https://www.legislation.gov.uk/ukpga/2020/3), [ss. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2020/3/section/9/2/b), [10(4)](https://www.legislation.gov.uk/ukpga/2020/3/section/10/4)
+[^c-2b7414830111e501f6119b394a6ff598]: Textual amendment: Words in s. 11(3)(a) substituted (26.2.2020) by [Terrorist Offenders (Restriction of Early Release) Act 2020 (c. 3)](https://www.legislation.gov.uk/ukpga/2020/3), [ss. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2020/3/section/9/2/b), [10(4)](https://www.legislation.gov.uk/ukpga/2020/3/section/10/4)
 
 [^c12925691]: Textual amendment: S. 11(3)(b) repealed (30.9.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [ss. 119](https://www.legislation.gov.uk/ukpga/1998/37/section/119), [120(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/120/2), [Sch. 8 para. 102](https://www.legislation.gov.uk/ukpga/1998/37/schedule/8/paragraph/102), [Sch. 10](https://www.legislation.gov.uk/ukpga/1998/37/schedule/10); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(1)(y)(aa)(2)(hh)(3)(u)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/1/y/aa/2/hh/3/u) (with transitional provisions in [arts. 5-8](https://www.legislation.gov.uk/uksi/1998/2327/article/5))
 
-[^key-c2091de39cafb4be5fb032eb6930743f]: Textual amendment: S. 11(3ZA) inserted (26.2.2020) by [Terrorist Offenders (Restriction of Early Release) Act 2020 (c. 3)](https://www.legislation.gov.uk/ukpga/2020/3), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2020/3/section/9/3), [10(4)](https://www.legislation.gov.uk/ukpga/2020/3/section/10/4)
+[^c-c2091de39cafb4be5fb032eb6930743f]: Textual amendment: S. 11(3ZA) inserted (26.2.2020) by [Terrorist Offenders (Restriction of Early Release) Act 2020 (c. 3)](https://www.legislation.gov.uk/ukpga/2020/3), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2020/3/section/9/3), [10(4)](https://www.legislation.gov.uk/ukpga/2020/3/section/10/4)
 
 [^c20991081]: Textual amendment: S. 11(3A)(3B) inserted (3.7.2006 for specified purposes, otherwise 21.3.2008) by [Management of Offenders etc. (Scotland) Act 2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14), [ss. 15(8)](https://www.legislation.gov.uk/asp/2005/14/section/15/8), [24(2)](https://www.legislation.gov.uk/asp/2005/14/section/24/2); [S.S.I. 2006/331](https://www.legislation.gov.uk/ssi/2006/331), [art 3(4)(5)](https://www.legislation.gov.uk/ssi/2006/331/article/3/4/5); [S.S.I. 2008/21](https://www.legislation.gov.uk/ssi/2008/21), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/21/article/2/2)

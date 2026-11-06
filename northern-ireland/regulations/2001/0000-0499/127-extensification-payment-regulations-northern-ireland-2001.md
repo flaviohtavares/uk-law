@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Extensification Payment Regulations (Northern Ireland) 2001 (revoked)[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+Extensification Payment Regulations (Northern Ireland) 2001 (revoked)[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 Made
 
@@ -41,80 +41,80 @@ Coming into operation
 
 27th April 2001
 
-[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 1. Citation and commencement[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 2. Interpretation[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 3. Application[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Choice of scheme[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 4. Choice of scheme[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Supporting information[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 5. Supporting information[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Pasture land[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 6. Pasture land[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Withholding and recovery of extensification payments[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 7. Withholding and recovery of extensification payments[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Rate of interest[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 8. Rate of interest[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Exercise of powers by authorised persons[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 9. Exercise of powers by authorised persons[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Powers of entry and inspection[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 10. Powers of entry and inspection[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Powers in relation to documents[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 11. Powers in relation to documents[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Assistance to authorised persons[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 12. Assistance to authorised persons[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Limits on powers of authorised persons[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 13. Limits on powers of authorised persons[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Offences[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 14. Offences[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Penalties[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 15. Penalties[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Time limit for prosecutions[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]
+## 16. Time limit for prosecutions[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-68bd7f2abeb0b7f7c33e61dd91d74c79]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/127) revoked (12.5.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations (Northern Ireland) 2005 (S.R. 2005/256)](https://www.legislation.gov.uk/nisr/2005/256), [regs. 1](https://www.legislation.gov.uk/nisr/2005/256/regulation/1), [16(2)](https://www.legislation.gov.uk/nisr/2005/256/regulation/16), [Sch. 2](https://www.legislation.gov.uk/nisr/2005/256/schedule/2) (with [reg. 16(3)](https://www.legislation.gov.uk/nisr/2005/256/regulation/16))
+[^c-68bd7f2abeb0b7f7c33e61dd91d74c79]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/127) revoked (12.5.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations (Northern Ireland) 2005 (S.R. 2005/256)](https://www.legislation.gov.uk/nisr/2005/256), [regs. 1](https://www.legislation.gov.uk/nisr/2005/256/regulation/1), [16(2)](https://www.legislation.gov.uk/nisr/2005/256/regulation/16), [Sch. 2](https://www.legislation.gov.uk/nisr/2005/256/schedule/2) (with [reg. 16(3)](https://www.legislation.gov.uk/nisr/2005/256/regulation/16))

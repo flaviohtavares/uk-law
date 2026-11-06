@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Regulations for the execution of the Convention[^key-34e34f904124db6fa1e9a8d2e6cfe6d2]
+## SCHEDULE 2 — Regulations for the execution of the Convention[^c-34e34f904124db6fa1e9a8d2e6cfe6d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -197,4 +197,4 @@ Whenever a High Contracting Party occupying territory of another High Contractin
 
 ## Annotations
 
-[^key-34e34f904124db6fa1e9a8d2e6cfe6d2]: Commencement: Sch. 2 in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-34e34f904124db6fa1e9a8d2e6cfe6d2]: Commencement: Sch. 2 in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

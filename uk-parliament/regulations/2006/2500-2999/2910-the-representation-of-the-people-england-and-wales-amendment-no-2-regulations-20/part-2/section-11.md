@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Procedure for other determinations by registration officer of entitlement to registration[^key-43c4d5b42cd2a56b482183901f3e51d5]
+## 11. Procedure for other determinations by registration officer of entitlement to registration[^c-43c4d5b42cd2a56b482183901f3e51d5]
 
 *Extent: E+W*
 
@@ -136,7 +136,7 @@ After regulation 31A insert—
 
 ## Annotations
 
-[^key-43c4d5b42cd2a56b482183901f3e51d5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/2910/regulation/11) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-43c4d5b42cd2a56b482183901f3e51d5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2006/2910/regulation/11) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00013]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Section 7 was substituted, and sections 7A and 7C were inserted by, respectively, sections 4, 5 and 6 of the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2). Section 15(2) was substituted by paragraph 8(2) of Schedule 1 to that Act. Sections 7(3)(aa), 7A(3)(aa), 7C(2)(aa) and 15(2)(aa) were inserted by, respectively, section 12(1), (2), (3) and (7) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 

@@ -52,11 +52,11 @@ summary: ''
 
 (7) Section 618 of the Housing Act 1985 (c. 68) (committees and members of Common Council of City of London) applies in relation to this Act as it applies in relation to that Act.
 
-(8)[^key-6caf8279b4d4cf4eacbe1c4df14c35c8] In this Act “appropriate tribunal” means—
+(8)[^c-6caf8279b4d4cf4eacbe1c4df14c35c8] In this Act “appropriate tribunal” means—
 
 - (a) in relation to premises in England, the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
 - (b) in relation to premises in Wales, a residential property tribunal.
 
 ## Annotations
 
-[^key-6caf8279b4d4cf4eacbe1c4df14c35c8]: Textual amendment: S. 261(8) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 180](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/180) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-6caf8279b4d4cf4eacbe1c4df14c35c8]: Textual amendment: S. 261(8) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 180](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/180) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

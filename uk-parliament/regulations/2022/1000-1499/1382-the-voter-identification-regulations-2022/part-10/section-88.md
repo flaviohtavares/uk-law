@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. New regulation 69A (additional requirements: applications for an emergency proxy signature in respect of a particular petition on grounds relating to identification: England and Wales and Scotland)[^key-76008256f9cf3071487a9f3156b19a74]
+## 88. New regulation 69A (additional requirements: applications for an emergency proxy signature in respect of a particular petition on grounds relating to identification: England and Wales and Scotland)[^c-76008256f9cf3071487a9f3156b19a74]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ After regulation 69 insert—
 
 ## Annotations
 
-[^key-76008256f9cf3071487a9f3156b19a74]: Commencement: Reg. 88 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-76008256f9cf3071487a9f3156b19a74]: Commencement: Reg. 88 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

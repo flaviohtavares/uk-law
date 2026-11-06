@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Secretary of State's duty to keep health service functions under review[^key-03e1552ca75e078f8bbb53e2aa298f7c]
+## 52. Secretary of State's duty to keep health service functions under review[^c-03e1552ca75e078f8bbb53e2aa298f7c]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ In Part 13 of the National Health Service Act 2006, after section 247B (as inser
 
 ## Annotations
 
-[^key-03e1552ca75e078f8bbb53e2aa298f7c]: Commencement: S. 52 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-03e1552ca75e078f8bbb53e2aa298f7c]: Commencement: S. 52 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Determination of question of whether a substance is a drug, and recovery of cost[^key-60f1fe894a8e549dae7d75f7465d9e98]
+## 40. Determination of question of whether a substance is a drug, and recovery of cost[^c-60f1fe894a8e549dae7d75f7465d9e98]
 
 *Extent: N.I.*
 
@@ -97,4 +97,4 @@ and shall inform the Department of their findings of fact.
 
 ## Annotations
 
-[^key-60f1fe894a8e549dae7d75f7465d9e98]: Commencement: Reg. 40 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-60f1fe894a8e549dae7d75f7465d9e98]: Commencement: Reg. 40 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

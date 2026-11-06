@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51C. Extreme pornography: defences[^key-82d2f3c3ee2e94eef45e7a14f2e3dd91]
+## 51C. Extreme pornography: defences[^c-82d2f3c3ee2e94eef45e7a14f2e3dd91]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82d2f3c3ee2e94eef45e7a14f2e3dd91]: Textual amendment: Ss. 51A-51C inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 42(2)](https://www.legislation.gov.uk/asp/2010/13/section/42/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-82d2f3c3ee2e94eef45e7a14f2e3dd91]: Textual amendment: Ss. 51A-51C inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 42(2)](https://www.legislation.gov.uk/asp/2010/13/section/42/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

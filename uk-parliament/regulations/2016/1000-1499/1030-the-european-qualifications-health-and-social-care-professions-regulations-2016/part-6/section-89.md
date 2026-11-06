@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Amendment of section 23G[^key-caff3c270300af79d78208a617226c9c]
+## 89. Amendment of section 23G[^c-caff3c270300af79d78208a617226c9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-caff3c270300af79d78208a617226c9c]: Commencement: Reg. 89 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-caff3c270300af79d78208a617226c9c]: Commencement: Reg. 89 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00070]: Footnote: Section 23G was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848) and amended by section 99 of, and Schedule 7 to, the Health and Social Care Act 2008.

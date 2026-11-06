@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Meaning of “qualifying trigger”[^key-13399cfee5ea18e4d6c40b7e8b9b26ba][^key-8491689cf1d0375ba652995a0dc28882]
+## 55. Meaning of “qualifying trigger”[^c-13399cfee5ea18e4d6c40b7e8b9b26ba][^c-8491689cf1d0375ba652995a0dc28882]
 
 *Extent: E+W+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13399cfee5ea18e4d6c40b7e8b9b26ba]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2009/25/section/55) in force at 4.10.2010 for E.W. by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 6(a)](https://www.legislation.gov.uk/uksi/2010/816/article/6/a)
+[^c-13399cfee5ea18e4d6c40b7e8b9b26ba]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2009/25/section/55) in force at 4.10.2010 for E.W. by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 6(a)](https://www.legislation.gov.uk/uksi/2010/816/article/6/a)
 
-[^key-8491689cf1d0375ba652995a0dc28882]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2009/25/section/55) in force at 1.6.2011 for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 3(b)](https://www.legislation.gov.uk/nisr/2011/182/article/3/b)
+[^c-8491689cf1d0375ba652995a0dc28882]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2009/25/section/55) in force at 1.6.2011 for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 3(b)](https://www.legislation.gov.uk/nisr/2011/182/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 269. Service by post[^key-31577ce0b8cf560a31f04ede6319b14f]
+## 269. Service by post[^c-31577ce0b8cf560a31f04ede6319b14f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 12.10 of the 1986 Rules[^f00091].
 
 ## Annotations
 
-[^key-31577ce0b8cf560a31f04ede6319b14f]: Commencement: Rule 269 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-31577ce0b8cf560a31f04ede6319b14f]: Commencement: Rule 269 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00091]: Footnote: Rule 12.10 was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Restrictions on allowable losses[^key-056ede730c89d72f9f1f9f68d02e0f2e]
+## 16A. Restrictions on allowable losses[^c-056ede730c89d72f9f1f9f68d02e0f2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-056ede730c89d72f9f1f9f68d02e0f2e]: Textual amendment: S. 16A inserted (with effect in accordance with s. 27(6) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/27/3)
+[^c-056ede730c89d72f9f1f9f68d02e0f2e]: Textual amendment: S. 16A inserted (with effect in accordance with s. 27(6) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/27/3)

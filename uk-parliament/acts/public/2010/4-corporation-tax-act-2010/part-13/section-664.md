@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 664. Exemption for interest , gift aid and company gift income[^key-e1e5a79daa2dfbf2a8f0285c32efd85e]
+## 664. Exemption for interest , gift aid and company gift income[^c-e1e5a79daa2dfbf2a8f0285c32efd85e]
 
 *Extent: E+W+S+N.I.*
 
 (1) A club which is a registered club throughout an accounting period may make a claim for—
 
-- (a) its interest income for that period, [^key-f2a8bd7612b29e998890c6bf4c1745a3]...
-- (b) its gift aid income for that period, and[^key-97a31910cf4e94d810d1469ca2598039]
+- (a) its interest income for that period, [^c-f2a8bd7612b29e998890c6bf4c1745a3]...
+- (b) its gift aid income for that period, and[^c-97a31910cf4e94d810d1469ca2598039]
 - (c) its company gift income for that period,
 
-to be exempt from corporation tax if the whole of that interest income , gift aid income and company gift income[^key-bd73f04cdc1c1a64181d3c2d7c36ae0b] is applied for qualifying purposes.
+to be exempt from corporation tax if the whole of that interest income , gift aid income and company gift income[^c-bd73f04cdc1c1a64181d3c2d7c36ae0b] is applied for qualifying purposes.
 
 (2) If a club is a registered club for only part of an accounting period, this section has effect as if—
 
@@ -35,18 +35,18 @@ to be exempt from corporation tax if the whole of that interest income , gift ai
 
 (3) In this section—
 
-- “[^key-d7a1ff45445830579b273d21a02866f6]**company gift income**”, in relation to a club, means gifts of money made to the club by companies which are not charities,
+- “[^c-d7a1ff45445830579b273d21a02866f6]**company gift income**”, in relation to a club, means gifts of money made to the club by companies which are not charities,
 - “**interest income**”, in relation to a club, means interest arising to the club that is not brought into account under section 297 of CTA 2009 (trading credits and debits brought into account under Part 3 of that Act as trading income), and
 - “**gift aid income**”, in relation to a club, means gifts made by individuals to the club which are qualifying donations for the purposes of Chapter 2 of Part 8 of ITA 2007 (gift aid).
 
 ## Annotations
 
-[^key-e1e5a79daa2dfbf2a8f0285c32efd85e]: Textual amendment: Words in s. 664 heading substituted (with effect in accordance with s. 35(13) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(12)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/12/b)
+[^c-e1e5a79daa2dfbf2a8f0285c32efd85e]: Textual amendment: Words in s. 664 heading substituted (with effect in accordance with s. 35(13) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(12)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/12/b)
 
-[^key-f2a8bd7612b29e998890c6bf4c1745a3]: Textual amendment: Word in s. 664(1) omitted (with effect in accordance with s. 35(13) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(10)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/10/a)
+[^c-f2a8bd7612b29e998890c6bf4c1745a3]: Textual amendment: Word in s. 664(1) omitted (with effect in accordance with s. 35(13) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(10)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/10/a)
 
-[^key-97a31910cf4e94d810d1469ca2598039]: Textual amendment: S. 664(1)(c) and word inserted (with effect in accordance with s. 35(13) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(10)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/10/a)
+[^c-97a31910cf4e94d810d1469ca2598039]: Textual amendment: S. 664(1)(c) and word inserted (with effect in accordance with s. 35(13) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(10)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/10/a)
 
-[^key-bd73f04cdc1c1a64181d3c2d7c36ae0b]: Textual amendment: Words in s. 664(1) substituted (with effect in accordance with s. 35(13) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(10)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/10/b)
+[^c-bd73f04cdc1c1a64181d3c2d7c36ae0b]: Textual amendment: Words in s. 664(1) substituted (with effect in accordance with s. 35(13) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(10)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/10/b)
 
-[^key-d7a1ff45445830579b273d21a02866f6]: Textual amendment: Words in s. 664(3) inserted (with effect in accordance with s. 35(13) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(10)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/10/c)
+[^c-d7a1ff45445830579b273d21a02866f6]: Textual amendment: Words in s. 664(3) inserted (with effect in accordance with s. 35(13) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 35(10)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/35/10/c)

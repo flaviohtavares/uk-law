@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59A. Power to make expedited public spaces protection orders[^key-98c5ac8ae834c68c444b1595ff4759e4]
+## 59A. Power to make expedited public spaces protection orders[^c-98c5ac8ae834c68c444b1595ff4759e4]
 
 *Extent: E+W*
 
@@ -86,4 +86,4 @@ The reference in paragraph (b)(i) to arrangements includes arrangements made by 
 
 ## Annotations
 
-[^key-98c5ac8ae834c68c444b1595ff4759e4]: Textual amendment: [S. 59A](https://www.legislation.gov.uk/ukpga/2014/12/section/59A) inserted (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 82(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/82/2), [208(4)(n)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/n); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-98c5ac8ae834c68c444b1595ff4759e4]: Textual amendment: [S. 59A](https://www.legislation.gov.uk/ukpga/2014/12/section/59A) inserted (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 82(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/82/2), [208(4)(n)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/n); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

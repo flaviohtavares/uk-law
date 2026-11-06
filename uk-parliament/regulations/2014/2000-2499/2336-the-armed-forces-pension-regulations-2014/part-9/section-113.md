@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Appointment of scheme actuary and actuarial valuations[^key-5853fc5244063638417348ee1e151cd2]
+## 113. Appointment of scheme actuary and actuarial valuations[^c-5853fc5244063638417348ee1e151cd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5853fc5244063638417348ee1e151cd2]: Commencement: [Reg. 113](https://www.legislation.gov.uk/uksi/2014/2336/regulation/113) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-5853fc5244063638417348ee1e151cd2]: Commencement: [Reg. 113](https://www.legislation.gov.uk/uksi/2014/2336/regulation/113) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

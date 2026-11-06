@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Subsidiary works and operations in the river Yare[^key-0bc628085525024a82183bf247edc792]
+## 49. Subsidiary works and operations in the river Yare[^c-0bc628085525024a82183bf247edc792]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bc628085525024a82183bf247edc792]: Commencement: Art. 49 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-0bc628085525024a82183bf247edc792]: Commencement: Art. 49 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

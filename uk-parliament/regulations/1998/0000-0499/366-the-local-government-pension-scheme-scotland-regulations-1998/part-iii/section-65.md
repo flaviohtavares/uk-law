@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Elections as to use of accumulated value of AVCs[^key-fb09f4b7242a35fd9243b8bfb2809896]
+## 65. Elections as to use of accumulated value of AVCs[^c-fb09f4b7242a35fd9243b8bfb2809896]
 
 *Extent: E+W+S*
 
@@ -70,4 +70,4 @@ he must immediately be paid the accumulated value of the invested additional con
 
 ## Annotations
 
-[^key-fb09f4b7242a35fd9243b8bfb2809896]: Commencement: Reg. 65 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-fb09f4b7242a35fd9243b8bfb2809896]: Commencement: Reg. 65 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

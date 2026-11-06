@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Sealing up of completed corresponding number lists and security of special lists[^key-40ec560a03e70190817065e271928ded]
+## 79. Sealing up of completed corresponding number lists and security of special lists[^c-40ec560a03e70190817065e271928ded]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40ec560a03e70190817065e271928ded]: Modification: [Reg. 79](https://www.legislation.gov.uk/uksi/2008/1741/regulation/79) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 90](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/90)
+[^c-40ec560a03e70190817065e271928ded]: Modification: [Reg. 79](https://www.legislation.gov.uk/uksi/2008/1741/regulation/79) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 90](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/90)

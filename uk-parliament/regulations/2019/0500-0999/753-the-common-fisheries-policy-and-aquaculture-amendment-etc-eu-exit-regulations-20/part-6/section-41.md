@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/eur/2008/1005) establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing[^key-cbbefec9314460a73e74ed3b44fe8e29]
+## 41. Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/eur/2008/1005) establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing[^c-cbbefec9314460a73e74ed3b44fe8e29]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbbefec9314460a73e74ed3b44fe8e29]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-cbbefec9314460a73e74ed3b44fe8e29]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75.[^key-16cd4521bfb597f9e766e55f9d0b1cdd]
+## 75.[^c-16cd4521bfb597f9e766e55f9d0b1cdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ Regulation 50 (determinations of the TRA) has effect as if—
 
 ## Annotations
 
-[^key-16cd4521bfb597f9e766e55f9d0b1cdd]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2019/449/regulation/75) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-16cd4521bfb597f9e766e55f9d0b1cdd]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2019/449/regulation/75) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

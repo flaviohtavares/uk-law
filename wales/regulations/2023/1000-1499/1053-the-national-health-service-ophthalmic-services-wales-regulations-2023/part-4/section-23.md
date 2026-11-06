@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Suspension from a supplementary list[^key-84bbba7b00d311c0c3e9f99483aa4bc6]
+## 23. Suspension from a supplementary list[^c-84bbba7b00d311c0c3e9f99483aa4bc6]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84bbba7b00d311c0c3e9f99483aa4bc6]: Commencement: Reg. 23 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-84bbba7b00d311c0c3e9f99483aa4bc6]: Commencement: Reg. 23 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

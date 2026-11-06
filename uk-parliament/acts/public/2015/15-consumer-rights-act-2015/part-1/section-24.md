@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Right to price reduction or final right to reject[^key-4fb9aa5b87081c2f3a212c5a0e2d1bfe]
+## 24. Right to price reduction or final right to reject[^c-4fb9aa5b87081c2f3a212c5a0e2d1bfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fb9aa5b87081c2f3a212c5a0e2d1bfe]: Commencement: S. 24 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-4fb9aa5b87081c2f3a212c5a0e2d1bfe]: Commencement: S. 24 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

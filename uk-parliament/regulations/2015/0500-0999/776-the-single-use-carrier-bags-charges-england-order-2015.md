@@ -52,7 +52,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 ## PART 1 — Introduction
 
-### 1. Citation, application and commencement[^key-772b8aef78e3ed0aa0563eb8b7c071fd]
+### 1. Citation, application and commencement[^c-772b8aef78e3ed0aa0563eb8b7c071fd]
 
 This Order—
 
@@ -61,7 +61,7 @@ This Order—
 - (c) comes into force—
   - (i) for the purposes of article 18(1), one month after the day on which it is made;
   - (ii) for all other purposes, on 5th October 2015;
-- (d)[^key-02a68b93b896fc391c2f2b2931cf1709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-02a68b93b896fc391c2f2b2931cf1709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Interpretation
 
@@ -73,7 +73,7 @@ In this Order—
 - “**non-compliance penalty notice**” has the meaning given in paragraph 3(4) of Schedule 7;
 - “**record**” means a record required to be kept in accordance with paragraph 1 of Schedule 3;
 - "reporting year" has the meaning given in paragraph 3 of Schedule 3;
-- “seller”—[^key-72b96d9309b862bace19b43a82c1fad0]
+- “seller”—[^c-72b96d9309b862bace19b43a82c1fad0]
   - (a) for the purposes of Schedule 3, has the meaning given in Schedule 1;
   - (b) otherwise, means a person who sells goods;
 - “**single use carrier bag**” has the meaning given in Schedule 2;
@@ -84,7 +84,7 @@ In this Order—
 
 ### 3. Obligation to charge
 
-A seller must charge a minimum of 10[^key-e7ba93dd1583d3281eafe70856ef3ae9] pence (including any VAT) for each SUCB supplied in a reporting year—
+A seller must charge a minimum of 10[^c-e7ba93dd1583d3281eafe70856ef3ae9] pence (including any VAT) for each SUCB supplied in a reporting year—
 
 - (a) at the place in England where the goods are sold, for the purpose of enabling the goods to be taken away; or
 - (b) for the purpose of enabling the goods to be delivered to persons in England.
@@ -272,7 +272,7 @@ In Schedule 3 to the Regulatory Enforcement and Sanctions Act 2008 [^c22470891] 
 
 ### 18. Review
 
-(1) Before 5th October 2015, and afterwards at intervals not exceeding 5 years[^key-3a13d332dbdeaa34b14a6152caaed169], the Secretary of State must—
+(1) Before 5th October 2015, and afterwards at intervals not exceeding 5 years[^c-3a13d332dbdeaa34b14a6152caaed169], the Secretary of State must—
 
 - (a) complete a review of industry standards for the biodegradability of lightweight plastic material; and
 - (b) lay a copy of a report before Parliament setting out the conclusions of the review, in particular—
@@ -291,7 +291,7 @@ In Schedule 3 to the Regulatory Enforcement and Sanctions Act 2008 [^c22470891] 
 - (b) assess the extent to which those objectives are achieved;
 - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
 
-### 19. Transitional and saving provision[^key-8046042860466d4f7b02c3262f207c6b]
+### 19. Transitional and saving provision[^c-8046042860466d4f7b02c3262f207c6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -301,7 +301,7 @@ Parliamentary Under Secretary of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE 1 — Sellers for the purposes of Schedule 3[^key-77c6d46337d8fa525ec119782a56e723]
+## SCHEDULE 1 — Sellers for the purposes of Schedule 3[^c-77c6d46337d8fa525ec119782a56e723]
 
 Article 2
 
@@ -335,7 +335,7 @@ A SUCB means an unused bag made of lightweight plastic material with handles, ot
 
 ### 2. Excluded bags
 
-(1) Subject to sub-paragraph (1A),[^key-8529959fe42eca46372c61ab1af16e25] the following are excluded bags—
+(1) Subject to sub-paragraph (1A),[^c-8529959fe42eca46372c61ab1af16e25] the following are excluded bags—
 
 | *Name* | *Description* |
 | --- | --- |
@@ -348,10 +348,10 @@ A SUCB means an unused bag made of lightweight plastic material with handles, ot
 | (g) Returnable multiple reuse bag | A bag which is sold for an amount not less than the minimum amount specified in article 3 and which—<br>- (i) is intended to be returnable to the seller from whom it was purchased to be replaced free of charge;<br>- (ii) is made from material the thickness of which is not less than 50 microns but not greater than 70 microns; and<br>- (iii) disregarding the width of any gussets, or the height of any handles extending above the main body of the bag—<br>  - (aa) has a width and height greater (in each case) than 404 mm; and<br>  - (bb) has a width or height greater (in either case) than 439 mm. |
 | (h) Woven plastic bag | A bag the material of which is made by interlacing long threads passing in one direction with others at a right angle to them. |
 | (i) Transit goods bag | A bag which is intended to be used to carry goods in a transit place. |
-| (j) Online grocery delivery bag[^key-3668cfa2b07f202e5c3191ec9d44c5b1] | A bag intended to be used solely to carry goods purchased for home delivery as part of an online grocery delivery service. |
-| (k) Sealed transit bag[^key-2ac0f13124b63726fc907ca7782b4558] | A bag which is intended to be used to carry alcohol or tobacco purchased in an area designated by the Secretary of State as a security restricted area under section 11A of the Aviation Security Act 1982 and which is sealed after the item is placed in it. |
+| (j) Online grocery delivery bag[^c-3668cfa2b07f202e5c3191ec9d44c5b1] | A bag intended to be used solely to carry goods purchased for home delivery as part of an online grocery delivery service. |
+| (k) Sealed transit bag[^c-2ac0f13124b63726fc907ca7782b4558] | A bag which is intended to be used to carry alcohol or tobacco purchased in an area designated by the Secretary of State as a security restricted area under section 11A of the Aviation Security Act 1982 and which is sealed after the item is placed in it. |
 
-(1A)[^key-314b98fa591adbad8bd8f245af23ec87] Online grocery delivery bags are excluded bags from 21st March to 21st September 2020 only.
+(1A)[^c-314b98fa591adbad8bd8f245af23ec87] Online grocery delivery bags are excluded bags from 21st March to 21st September 2020 only.
 
 (2) For the purposes of determining whether a bag falls within the description in paragraph 2(1)(a), (b), (c), (d) or (e), the fact that the bag may be intended to be used to contain items referred to in the description relating to any other of those bags is to be disregarded.
 
@@ -367,7 +367,7 @@ A SUCB means an unused bag made of lightweight plastic material with handles, ot
   - (c) section 27 of the National Health Service (Scotland) Act 1978 [^c22470951]; or
   - (d) section 126 of the National Health Service Act 2006 [^c22470961];
 - “pharmacy medicine” and “prescription-only medicine” have the meaning given in regulation 5(3) and (5) of the Human Medicines Regulations 2012;
-- “**transit place**” means on board a ship, train, aircraft, coach or bus, [^key-1f6f709733387c294252af3981cddccc]....
+- “**transit place**” means on board a ship, train, aircraft, coach or bus, [^c-1f6f709733387c294252af3981cddccc]....
 
 ## SCHEDULE 3 — Records
 
@@ -395,7 +395,7 @@ Article 4
 - (a) the amount of any VAT received by way of the gross proceeds of the charge; and
 - (b) the amount of any reasonable costs.
 
-(5)[^key-bd9623b28821e7ee35052cc3cb340568] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bd9623b28821e7ee35052cc3cb340568] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In this paragraph, “**reasonable costs**” means costs reasonably incurred completing transactions, communicating information, obtaining expert advice or carrying on similar activities to enable the seller to comply with this Order.
 
@@ -410,17 +410,17 @@ Article 4
 
 (3) If a person writes to the seller asking them to supply the record during the retention period, the seller must provide a copy of that record to the person who requested it within the period of 28 days beginning with the day on which the written request is received.
 
-(4)[^key-6da88bfca762cddee95c730b04496b0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6da88bfca762cddee95c730b04496b0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) In sub-paragraph (3), “**the retention period**” means the three-year period for which the record must be retained in accordance with paragraph 1(3) [^key-05371540985616d4b94c1919aacdd218]....
+(5) In sub-paragraph (3), “**the retention period**” means the three-year period for which the record must be retained in accordance with paragraph 1(3) [^c-05371540985616d4b94c1919aacdd218]....
 
 ### 3. Meaning of reporting year
 
 For the purposes of this Schedule, each of the following is a “reporting year”—
 
 - (a) the period beginning with 5th October 2015 and ending with 6th April 2016;
-- (b) each period of 12 months beginning with [^key-d1363289a3f6ab953c0bb1882f38d411]... 7th April 2016;
-- (c)[^key-4bdcc3a29b74c1e1da49a33a01f816c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) each period of 12 months beginning with [^c-d1363289a3f6ab953c0bb1882f38d411]... 7th April 2016;
+- (c)[^c-4bdcc3a29b74c1e1da49a33a01f816c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — Reporting and guidance
 
@@ -434,7 +434,7 @@ Article 8
 
 (3) The record must remain published for a period of one year beginning with the day after the date of its publication in accordance with sub-paragraph (1).
 
-(4)[^key-f7c7f504e8e44314fb9b61bf34906fba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f7c7f504e8e44314fb9b61bf34906fba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Publication of report about enforcement action
 
@@ -442,17 +442,17 @@ Article 8
 
 - (a) beginning with 5th October 2015 and ending with 4th October 2017;
 - (b) beginning with 5th October 2017 and ending with 4th October 2020; and
-- (c) beginning with 5th October 2020 and ending with 4th October 2023[^key-20715f7b1d385a4fdf3388fa7a979c32].
+- (c) beginning with 5th October 2020 and ending with 4th October 2023[^c-20715f7b1d385a4fdf3388fa7a979c32].
 
-(1A)[^key-b86ea385219259fe624e4abb5b1dc0b6] Beginning with 5th October 2023, an administrator must publish a report for each consecutive three-year period (“the reporting period”).
+(1A)[^c-b86ea385219259fe624e4abb5b1dc0b6] Beginning with 5th October 2023, an administrator must publish a report for each consecutive three-year period (“the reporting period”).
 
 (2) The report must be published, in relation to the period beginning with—
 
 - (a) 5th October 2015, on or before 31st May 2018;
 - (b) 5th October 2017, on or before 31st May 2021;
-- (c) 5th October 2020, on or before 31st May 2024[^key-2f8eb4501c866a97f48ed4d874863d9b].
+- (c) 5th October 2020, on or before 31st May 2024[^c-2f8eb4501c866a97f48ed4d874863d9b].
 
-(2A)[^key-edf9e15750e880e42853635770fa6004] In relation to each report referred to in sub-paragraph (1A), the report must be published on or before 31st May in the third year of the reporting period for the report.
+(2A)[^c-edf9e15750e880e42853635770fa6004] In relation to each report referred to in sub-paragraph (1A), the report must be published on or before 31st May in the third year of the reporting period for the report.
 
 (3) The report must be—
 
@@ -759,15 +759,15 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22470851]: Marginal citation: [2008 c.13](https://www.legislation.gov.uk/ukpga/2008/13).
 
-[^key-772b8aef78e3ed0aa0563eb8b7c071fd]: Textual amendment: Words in art. 1 heading substituted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2021/598/article/3/a)
+[^c-772b8aef78e3ed0aa0563eb8b7c071fd]: Textual amendment: Words in art. 1 heading substituted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2021/598/article/3/a)
 
-[^key-02a68b93b896fc391c2f2b2931cf1709]: Textual amendment: Art. 1(d) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2021/598/article/3/b)
+[^c-02a68b93b896fc391c2f2b2931cf1709]: Textual amendment: Art. 1(d) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2021/598/article/3/b)
 
-[^key-72b96d9309b862bace19b43a82c1fad0]: Textual amendment: Words in art. 2 substituted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [4](https://www.legislation.gov.uk/uksi/2021/598/article/4)
+[^c-72b96d9309b862bace19b43a82c1fad0]: Textual amendment: Words in art. 2 substituted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [4](https://www.legislation.gov.uk/uksi/2021/598/article/4)
 
 [^c22470861]: Marginal citation: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-e7ba93dd1583d3281eafe70856ef3ae9]: Textual amendment: Word in art. 3 substituted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [5](https://www.legislation.gov.uk/uksi/2021/598/article/5)
+[^c-e7ba93dd1583d3281eafe70856ef3ae9]: Textual amendment: Word in art. 3 substituted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [5](https://www.legislation.gov.uk/uksi/2021/598/article/5)
 
 [^c22470871]: Marginal citation: For the definition of “administrator”, see paragraph 6(1) and (4) of Schedule 6 to the Climate Change Act 2008.
 
@@ -775,19 +775,19 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22470891]: Marginal citation: [2008 c.13](https://www.legislation.gov.uk/ukpga/2008/13).
 
-[^key-3a13d332dbdeaa34b14a6152caaed169]: Textual amendment: Words in art. 18(2) inserted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [6](https://www.legislation.gov.uk/uksi/2021/598/article/6)
+[^c-3a13d332dbdeaa34b14a6152caaed169]: Textual amendment: Words in art. 18(2) inserted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [6](https://www.legislation.gov.uk/uksi/2021/598/article/6)
 
-[^key-8046042860466d4f7b02c3262f207c6b]: Textual amendment: Art. 19 omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/598/article/7)
+[^c-8046042860466d4f7b02c3262f207c6b]: Textual amendment: Art. 19 omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [7](https://www.legislation.gov.uk/uksi/2021/598/article/7)
 
-[^key-77c6d46337d8fa525ec119782a56e723]: Textual amendment: Words in Sch. 1 heading inserted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [8](https://www.legislation.gov.uk/uksi/2021/598/article/8)
+[^c-77c6d46337d8fa525ec119782a56e723]: Textual amendment: Words in Sch. 1 heading inserted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [8](https://www.legislation.gov.uk/uksi/2021/598/article/8)
 
-[^key-8529959fe42eca46372c61ab1af16e25]: Textual amendment: Words in Sch. 2 para. 2(1) inserted (21.3.2020) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2020 (S.I. 2020/324)](https://www.legislation.gov.uk/uksi/2020/324), [art. 3(a)(i)](https://www.legislation.gov.uk/uksi/2020/324/article/3/a/i), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/324/regulation/1/2)
+[^c-8529959fe42eca46372c61ab1af16e25]: Textual amendment: Words in Sch. 2 para. 2(1) inserted (21.3.2020) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2020 (S.I. 2020/324)](https://www.legislation.gov.uk/uksi/2020/324), [art. 3(a)(i)](https://www.legislation.gov.uk/uksi/2020/324/article/3/a/i), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/324/regulation/1/2)
 
-[^key-3668cfa2b07f202e5c3191ec9d44c5b1]: Textual amendment: Sch. 2 para. 2(1)(j) inserted (21.3.2020) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2020 (S.I. 2020/324)](https://www.legislation.gov.uk/uksi/2020/324), [art. 3(b)](https://www.legislation.gov.uk/uksi/2020/324/article/3/b), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/324/regulation/1/2)
+[^c-3668cfa2b07f202e5c3191ec9d44c5b1]: Textual amendment: Sch. 2 para. 2(1)(j) inserted (21.3.2020) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2020 (S.I. 2020/324)](https://www.legislation.gov.uk/uksi/2020/324), [art. 3(b)](https://www.legislation.gov.uk/uksi/2020/324/article/3/b), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/324/regulation/1/2)
 
-[^key-2ac0f13124b63726fc907ca7782b4558]: Textual amendment: Sch. 2 para. 2(1)(k) inserted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2021/598/article/9/a)
+[^c-2ac0f13124b63726fc907ca7782b4558]: Textual amendment: Sch. 2 para. 2(1)(k) inserted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2021/598/article/9/a)
 
-[^key-314b98fa591adbad8bd8f245af23ec87]: Textual amendment: Sch. 2 para. 2(1A) inserted (21.3.2020) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2020 (S.I. 2020/324)](https://www.legislation.gov.uk/uksi/2020/324), [art. 3(c)](https://www.legislation.gov.uk/uksi/2020/324/article/3/c), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/324/regulation/1/2)
+[^c-314b98fa591adbad8bd8f245af23ec87]: Textual amendment: Sch. 2 para. 2(1A) inserted (21.3.2020) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2020 (S.I. 2020/324)](https://www.legislation.gov.uk/uksi/2020/324), [art. 3(c)](https://www.legislation.gov.uk/uksi/2020/324/article/3/c), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/324/regulation/1/2)
 
 [^c22470901]: Marginal citation: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24), amended by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), [articles 2(1)](https://www.legislation.gov.uk/uksi/2005/2011/article/2/1) and 6,
 
@@ -805,24 +805,24 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22470961]: Marginal citation: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41), to which there are amendments not relevant to this Order.
 
-[^key-1f6f709733387c294252af3981cddccc]: Textual amendment: Words in Sch. 2 para. 2(3) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2021/598/article/9/b)
+[^c-1f6f709733387c294252af3981cddccc]: Textual amendment: Words in Sch. 2 para. 2(3) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2021/598/article/9/b)
 
-[^key-bd9623b28821e7ee35052cc3cb340568]: Textual amendment: Sch. 3 para. 1(5) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2021/598/article/10/a)
+[^c-bd9623b28821e7ee35052cc3cb340568]: Textual amendment: Sch. 3 para. 1(5) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2021/598/article/10/a)
 
-[^key-6da88bfca762cddee95c730b04496b0d]: Textual amendment: Sch. 3 para. 2(4) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [10(b)(i)](https://www.legislation.gov.uk/uksi/2021/598/article/10/b/i)
+[^c-6da88bfca762cddee95c730b04496b0d]: Textual amendment: Sch. 3 para. 2(4) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [10(b)(i)](https://www.legislation.gov.uk/uksi/2021/598/article/10/b/i)
 
-[^key-05371540985616d4b94c1919aacdd218]: Textual amendment: Words in Sch. 3 para. 2(5) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2021/598/article/10/b/ii)
+[^c-05371540985616d4b94c1919aacdd218]: Textual amendment: Words in Sch. 3 para. 2(5) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2021/598/article/10/b/ii)
 
-[^key-d1363289a3f6ab953c0bb1882f38d411]: Textual amendment: Word in Sch. 3 para. 3(b) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [10(c)(i)](https://www.legislation.gov.uk/uksi/2021/598/article/10/c/i)
+[^c-d1363289a3f6ab953c0bb1882f38d411]: Textual amendment: Word in Sch. 3 para. 3(b) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [10(c)(i)](https://www.legislation.gov.uk/uksi/2021/598/article/10/c/i)
 
-[^key-4bdcc3a29b74c1e1da49a33a01f816c5]: Textual amendment: Sch. 3 para. 3(c) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [10(c)(ii)](https://www.legislation.gov.uk/uksi/2021/598/article/10/c/ii)
+[^c-4bdcc3a29b74c1e1da49a33a01f816c5]: Textual amendment: Sch. 3 para. 3(c) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [10(c)(ii)](https://www.legislation.gov.uk/uksi/2021/598/article/10/c/ii)
 
-[^key-f7c7f504e8e44314fb9b61bf34906fba]: Textual amendment: Sch. 4 para. 1(4) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2021/598/article/11/a)
+[^c-f7c7f504e8e44314fb9b61bf34906fba]: Textual amendment: Sch. 4 para. 1(4) omitted (21.5.2021) by virtue of [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2021/598/article/11/a)
 
-[^key-20715f7b1d385a4fdf3388fa7a979c32]: Textual amendment: Word in Sch. 4 para. 2(1)(c) substituted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [11(b)(i)](https://www.legislation.gov.uk/uksi/2021/598/article/11/b/i)
+[^c-20715f7b1d385a4fdf3388fa7a979c32]: Textual amendment: Word in Sch. 4 para. 2(1)(c) substituted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [11(b)(i)](https://www.legislation.gov.uk/uksi/2021/598/article/11/b/i)
 
-[^key-b86ea385219259fe624e4abb5b1dc0b6]: Textual amendment: Sch. 4 para. 2(1A) inserted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2021/598/article/11/b/ii)
+[^c-b86ea385219259fe624e4abb5b1dc0b6]: Textual amendment: Sch. 4 para. 2(1A) inserted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2021/598/article/11/b/ii)
 
-[^key-2f8eb4501c866a97f48ed4d874863d9b]: Textual amendment: Word in Sch. 4 para. 2(2)(c) substituted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [11(b)(iii)](https://www.legislation.gov.uk/uksi/2021/598/article/11/b/iii)
+[^c-2f8eb4501c866a97f48ed4d874863d9b]: Textual amendment: Word in Sch. 4 para. 2(2)(c) substituted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [11(b)(iii)](https://www.legislation.gov.uk/uksi/2021/598/article/11/b/iii)
 
-[^key-edf9e15750e880e42853635770fa6004]: Textual amendment: Sch. 4 para. 2(2A) inserted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [11(b)(iv)](https://www.legislation.gov.uk/uksi/2021/598/article/11/b/iv)
+[^c-edf9e15750e880e42853635770fa6004]: Textual amendment: Sch. 4 para. 2(2A) inserted (21.5.2021) by [The Single Use Carrier Bags Charges (England) (Amendment) Order 2021 (S.I. 2021/598)](https://www.legislation.gov.uk/uksi/2021/598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/598/article/1/2), [11(b)(iv)](https://www.legislation.gov.uk/uksi/2021/598/article/11/b/iv)

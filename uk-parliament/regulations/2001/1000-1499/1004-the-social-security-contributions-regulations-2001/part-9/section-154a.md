@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**154A.**[^key-f620d42e6cd39c7aac1a358135edb77c] (1) For the purposes of section 9B (zero-rate secondary Class 1 contributions for certain apprentices) of the Act, an apprentice is a person who falls within paragraphs (2) and (3).
+**154A.**[^c-f620d42e6cd39c7aac1a358135edb77c] (1) For the purposes of section 9B (zero-rate secondary Class 1 contributions for certain apprentices) of the Act, an apprentice is a person who falls within paragraphs (2) and (3).
 
 (2) The person is employed under—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f620d42e6cd39c7aac1a358135edb77c]: Textual amendment: [Reg. 154A](https://www.legislation.gov.uk/uksi/2001/1004/regulation/154A) inserted (6.4.2016) by [The Social Security (Contributions) (Amendment) Regulations 2016 (S.I. 2016/117)](https://www.legislation.gov.uk/uksi/2016/117), [regs. 1](https://www.legislation.gov.uk/uksi/2016/117/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/117/regulation/2/2)
+[^c-f620d42e6cd39c7aac1a358135edb77c]: Textual amendment: [Reg. 154A](https://www.legislation.gov.uk/uksi/2001/1004/regulation/154A) inserted (6.4.2016) by [The Social Security (Contributions) (Amendment) Regulations 2016 (S.I. 2016/117)](https://www.legislation.gov.uk/uksi/2016/117), [regs. 1](https://www.legislation.gov.uk/uksi/2016/117/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/117/regulation/2/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 307A. Notice required of general meeting: certain meetings of traded companies[^key-060fbe922df595816e9e5552acee9a77][^key-e8a5ae357ba69b2981b0750c1f8803cb][^c20622971]
+## 307A. Notice required of general meeting: certain meetings of traded companies[^c-060fbe922df595816e9e5552acee9a77][^c-e8a5ae357ba69b2981b0750c1f8803cb][^c20622971]
 
 *Extent: E+W+S+N.I.*
 
-[^key-060fbe922df595816e9e5552acee9a77]
+[^c-060fbe922df595816e9e5552acee9a77]
 
 (1) A general meeting of a traded company must be called by notice of—
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-060fbe922df595816e9e5552acee9a77]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/2006/46/part/13) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
+[^c-060fbe922df595816e9e5552acee9a77]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/2006/46/part/13) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
 
-[^key-e8a5ae357ba69b2981b0750c1f8803cb]: Modification: [S. 307A](https://www.legislation.gov.uk/ukpga/2006/46/section/307A) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
+[^c-e8a5ae357ba69b2981b0750c1f8803cb]: Modification: [S. 307A](https://www.legislation.gov.uk/ukpga/2006/46/section/307A) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
 
 [^c20622971]: Textual amendment: S. 307A inserted (3.8.2009) by [The Companies (Shareholders' Rights) Regulations 2009 (S.I. 2009/1632)](https://www.legislation.gov.uk/uksi/2009/1632), [regs. 9(2)](https://www.legislation.gov.uk/uksi/2009/1632/regulation/9/2), [23](https://www.legislation.gov.uk/uksi/2009/1632/regulation/23) (with application as stated in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1632/regulation/1/2))

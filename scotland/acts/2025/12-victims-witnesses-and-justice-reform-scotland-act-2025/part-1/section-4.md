@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Engagement[^key-8aa4da4326cace112157fcc40508ad78]
+## 4. Engagement[^c-8aa4da4326cace112157fcc40508ad78]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aa4da4326cace112157fcc40508ad78]: Commencement: S. 4 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-8aa4da4326cace112157fcc40508ad78]: Commencement: S. 4 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

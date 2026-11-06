@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Incapacity benefit: entitlement.[^key-c7c221544b9104a4f67197e07102ad70][^key-4e3082e3bc882c5f8ff04c8bde9cff0b][^c16383711]
+## 30A. Incapacity benefit: entitlement.[^c-c7c221544b9104a4f67197e07102ad70][^c-4e3082e3bc882c5f8ff04c8bde9cff0b][^c16383711]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ is entitled to short-term incapacity benefit in respect of any day of incapacity
 - (a) he is under pensionable age on the relevant day[^c16383751] and satisfies the contribution conditions specified for short-term incapacity benefit in Schedule 3, paragraph 2; or
 - (b) on that day he is over pensionable age but not more than 5 years over that age, the period of incapacity for work began before he attained pensionable age, and—
   - (i) he would be entitled to a Category A retirement pension if his entitlement had not been deferred or if he had not made an election under section 54(1) below; or
-  - (ii) he would be entitled to a Category B retirement pension by virtue of the contributions of his deceased spouse or deceased civil partner[^key-d9d2dde94a054538e26ee17eec11e7a1], but for any such deferment or election.
+  - (ii) he would be entitled to a Category B retirement pension by virtue of the contributions of his deceased spouse or deceased civil partner[^c-d9d2dde94a054538e26ee17eec11e7a1], but for any such deferment or election.
 
 (2A)[^c16383761] The conditions mentioned in subsection (1)(b) above are that—
 
@@ -54,9 +54,9 @@ is entitled to short-term incapacity benefit in respect of any day of incapacity
 
 ## Annotations
 
-[^key-c7c221544b9104a4f67197e07102ad70]: Modification: [S. 30A](https://www.legislation.gov.uk/ukpga/1992/7/section/30A) modified (5.5.2003) by [The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Modifications for Her Majestys Forces and Incapacity Benefit) Regulations 2003 (S.I. 2003/735)](https://www.legislation.gov.uk/uksi/2003/735), [regs. 1](https://www.legislation.gov.uk/uksi/2003/735/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/735/regulation/2)
+[^c-c7c221544b9104a4f67197e07102ad70]: Modification: [S. 30A](https://www.legislation.gov.uk/ukpga/1992/7/section/30A) modified (5.5.2003) by [The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (Modifications for Her Majestys Forces and Incapacity Benefit) Regulations 2003 (S.I. 2003/735)](https://www.legislation.gov.uk/uksi/2003/735), [regs. 1](https://www.legislation.gov.uk/uksi/2003/735/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/735/regulation/2)
 
-[^key-4e3082e3bc882c5f8ff04c8bde9cff0b]: Modification: [S. 30A](https://www.legislation.gov.uk/ukpga/1992/7/section/30A) excluded (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (S.R. 2010/312)](https://www.legislation.gov.uk/nisr/2010/312), [regs. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1), [22(a)](https://www.legislation.gov.uk/nisr/2010/312/regulation/22/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2010/312/regulation/3))
+[^c-4e3082e3bc882c5f8ff04c8bde9cff0b]: Modification: [S. 30A](https://www.legislation.gov.uk/ukpga/1992/7/section/30A) excluded (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010 (S.R. 2010/312)](https://www.legislation.gov.uk/nisr/2010/312), [regs. 1](https://www.legislation.gov.uk/nisr/2010/312/regulation/1), [22(a)](https://www.legislation.gov.uk/nisr/2010/312/regulation/22/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2010/312/regulation/3))
 
 [^c16383711]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/1992/7/section/30A) and preceding cross-heading inserted (13.4.1995) by [S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898), [art. 3(1)](https://www.legislation.gov.uk/nisi/1994/1898/article/3/1); [S.R. 1994/450](https://www.legislation.gov.uk/nisr/1994/450), [art. 2(d)](https://www.legislation.gov.uk/nisr/1994/450/article/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/1994/450/schedule/part/IV)
 
@@ -68,7 +68,7 @@ is entitled to short-term incapacity benefit in respect of any day of incapacity
 
 [^c16383751]: Textual amendment: Words in [s. 30A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/7/section/30A/2/a) substituted (3.11.2000 for specified purposes and 6.4.2001 otherwise) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 61(2)(b)](https://www.legislation.gov.uk/nisi/1999/3147/article/61/2/b); [S.R. 2000/332](https://www.legislation.gov.uk/nisr/2000/332), [art. 2(3)(c)(4)(5)](https://www.legislation.gov.uk/nisr/2000/332/article/2/3/c/4/5)
 
-[^key-d9d2dde94a054538e26ee17eec11e7a1]: Textual amendment: Words in [s. 30A(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/1992/7/section/30A/2/b/ii) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 68](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/68); [S.I. 2005/3255](https://www.legislation.gov.uk/uksi/2005/3255), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3255/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3255/schedule)
+[^c-d9d2dde94a054538e26ee17eec11e7a1]: Textual amendment: Words in [s. 30A(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/1992/7/section/30A/2/b/ii) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(d)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/d), [Sch. 24 para. 68](https://www.legislation.gov.uk/ukpga/2004/33/schedule/24/paragraph/68); [S.I. 2005/3255](https://www.legislation.gov.uk/uksi/2005/3255), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3255/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3255/schedule)
 
 [^c16383761]: Textual amendment: [S. 30A(2A)](https://www.legislation.gov.uk/ukpga/1992/7/section/30A/2A) inserted (3.11.2000 for specified purposes and 6.4.2001 otherwise) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 61(3)](https://www.legislation.gov.uk/nisi/1999/3147/article/61/3); [S.R. 2000/332](https://www.legislation.gov.uk/nisr/2000/332), [art. 2(3)(c)(4)(5)](https://www.legislation.gov.uk/nisr/2000/332/article/2/3/c/4/5)
 

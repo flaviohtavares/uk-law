@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Registrants’ duties with regard to their entries[^key-5a73f539d4623e1cbc03632788982df7][^key-6e5fbd523a4a7de28c572bb46d7ac6be]
+## 28. Registrants’ duties with regard to their entries[^c-5a73f539d4623e1cbc03632788982df7][^c-6e5fbd523a4a7de28c572bb46d7ac6be]
 
 *Extent: E+W+S*
 
@@ -43,6 +43,6 @@ the Registrar may remove R’s entry from Part 1 or, as the case may be, Part 2 
 
 ## Annotations
 
-[^key-5a73f539d4623e1cbc03632788982df7]: Commencement: Art. 28 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-5a73f539d4623e1cbc03632788982df7]: Commencement: Art. 28 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-6e5fbd523a4a7de28c572bb46d7ac6be]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2010/231/article/28) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-6e5fbd523a4a7de28c572bb46d7ac6be]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2010/231/article/28) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

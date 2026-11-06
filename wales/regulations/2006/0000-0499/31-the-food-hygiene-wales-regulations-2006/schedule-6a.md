@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6A — THE SPECIAL HEALTH MARK[^key-1dcd51f48f411a1829e5b40bd8bb25cc]
+## SCHEDULE 6A — THE SPECIAL HEALTH MARK[^c-1dcd51f48f411a1829e5b40bd8bb25cc]
 
 *Extent: E+W*
 
@@ -24,12 +24,12 @@ Regulation 32A
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-1dcd51f48f411a1829e5b40bd8bb25cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1dcd51f48f411a1829e5b40bd8bb25cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-1dcd51f48f411a1829e5b40bd8bb25cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1dcd51f48f411a1829e5b40bd8bb25cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1dcd51f48f411a1829e5b40bd8bb25cc]: Textual amendment: Sch. 6A revoked (8.8.2014) by [The Food Hygiene (Wales) (Amendment) Regulations 2014 (S.I. 2014/1858)](https://www.legislation.gov.uk/wsi/2014/1858), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1858/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2014/1858/regulation/2/5)
+[^c-1dcd51f48f411a1829e5b40bd8bb25cc]: Textual amendment: Sch. 6A revoked (8.8.2014) by [The Food Hygiene (Wales) (Amendment) Regulations 2014 (S.I. 2014/1858)](https://www.legislation.gov.uk/wsi/2014/1858), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1858/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2014/1858/regulation/2/5)

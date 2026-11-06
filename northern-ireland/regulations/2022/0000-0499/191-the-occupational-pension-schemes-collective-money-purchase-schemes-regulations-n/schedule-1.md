@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — Fit and proper persons requirement[^key-dc823ff0b8368702de23c7599969595a]
+## SCHEDULE 1 — Fit and proper persons requirement[^c-dc823ff0b8368702de23c7599969595a]
 
 *Extent: N.I.*
 
@@ -24,12 +24,12 @@ summary: ''
 
 Regulation 8
 
-**1.**[^key-dc823ff0b8368702de23c7599969595a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-dc823ff0b8368702de23c7599969595a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-dc823ff0b8368702de23c7599969595a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-dc823ff0b8368702de23c7599969595a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-dc823ff0b8368702de23c7599969595a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-dc823ff0b8368702de23c7599969595a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc823ff0b8368702de23c7599969595a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/191) revoked (30.1.2023) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2023 (S.R. 2023/7)](https://www.legislation.gov.uk/nisr/2023/7), [regs. 1](https://www.legislation.gov.uk/nisr/2023/7/regulation/1), [36](https://www.legislation.gov.uk/nisr/2023/7/regulation/36)
+[^c-dc823ff0b8368702de23c7599969595a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/191) revoked (30.1.2023) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations (Northern Ireland) 2023 (S.R. 2023/7)](https://www.legislation.gov.uk/nisr/2023/7), [regs. 1](https://www.legislation.gov.uk/nisr/2023/7/regulation/1), [36](https://www.legislation.gov.uk/nisr/2023/7/regulation/36)

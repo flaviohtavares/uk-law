@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Annual report[^key-b66d537e8db54e350db50dd92b7073c8][^key-29800a9ca92e7043bc84ddfad27acf4e]
+## 47. Annual report[^c-b66d537e8db54e350db50dd92b7073c8][^c-29800a9ca92e7043bc84ddfad27acf4e]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b66d537e8db54e350db50dd92b7073c8]: Commencement: S. 47 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-b66d537e8db54e350db50dd92b7073c8]: Commencement: S. 47 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-29800a9ca92e7043bc84ddfad27acf4e]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2025/11/section/47) in force at 1.4.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(6)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/6), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/3) (with [reg. 6](https://www.legislation.gov.uk/ssi/2026/2/regulation/6))
+[^c-29800a9ca92e7043bc84ddfad27acf4e]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2025/11/section/47) in force at 1.4.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(6)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/6), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/3) (with [reg. 6](https://www.legislation.gov.uk/ssi/2026/2/regulation/6))

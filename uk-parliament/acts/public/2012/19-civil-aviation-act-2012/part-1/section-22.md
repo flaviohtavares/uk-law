@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Modifying licence conditions and licence area[^key-c95a175e7e47dc0c7ba4e0c007a5a39f]
+## 22. Modifying licence conditions and licence area[^c-c95a175e7e47dc0c7ba4e0c007a5a39f]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ subject to section 23.
 
 ## Annotations
 
-[^key-c95a175e7e47dc0c7ba4e0c007a5a39f]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2012/19/section/22) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-c95a175e7e47dc0c7ba4e0c007a5a39f]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2012/19/section/22) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

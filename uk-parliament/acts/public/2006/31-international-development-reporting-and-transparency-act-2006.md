@@ -56,7 +56,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 Each annual report must include the information set out in the Schedule to this Act.
 
-### 3. Progress towards United Nations 0.7% expenditure target[^key-5acf7b80a2521f71bb8ebd9288758b48]
+### 3. Progress towards United Nations 0.7% expenditure target[^c-5acf7b80a2521f71bb8ebd9288758b48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -67,7 +67,7 @@ Each annual report must include the information set out in the Schedule to this 
 - (a) what progress has been made generally towards the achievement of Millennium Development Goals 1 to 7,
 - (b) the effectiveness in pursuing Millennium Development Goals 1 to 7 of multilateral aid generally to which the United Kingdom contributes,
 - (c) the effectiveness in pursuing Millennium Development Goals 1 to 7 of bilateral aid provided by the United Kingdom to not fewer than 20 countries specified in the report, selected according to criteria so specified,
-- (ca)[^key-5c4d4bac7f77a8faad6510f9ec3e3af2] what steps have been taken as a result of sections 1(1A) and 3(2) of the International Development Act 2002 in pursuing Millennium Development Goal 3,
+- (ca)[^c-5c4d4bac7f77a8faad6510f9ec3e3af2] what steps have been taken as a result of sections 1(1A) and 3(2) of the International Development Act 2002 in pursuing Millennium Development Goal 3,
 - (d) what progress has been made in promoting untied aid.
 
 (2) In this section—
@@ -187,6 +187,6 @@ Section 2
 
 ## Annotations
 
-[^key-5acf7b80a2521f71bb8ebd9288758b48]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2006/31/section/3) repealed (1.6.2015) by [International Development (Official Development Assistance Target) Act 2015 (c. 12)](https://www.legislation.gov.uk/ukpga/2015/12), [ss. 4](https://www.legislation.gov.uk/ukpga/2015/12/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/2015/12/section/6/2)
+[^c-5acf7b80a2521f71bb8ebd9288758b48]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2006/31/section/3) repealed (1.6.2015) by [International Development (Official Development Assistance Target) Act 2015 (c. 12)](https://www.legislation.gov.uk/ukpga/2015/12), [ss. 4](https://www.legislation.gov.uk/ukpga/2015/12/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/2015/12/section/6/2)
 
-[^key-5c4d4bac7f77a8faad6510f9ec3e3af2]: Textual amendment: [S. 4(1)(ca)](https://www.legislation.gov.uk/ukpga/2006/31/section/4/1/ca) inserted (13.5.2014) by [International Development (Gender Equality) Act 2014 (c. 9)](https://www.legislation.gov.uk/ukpga/2014/9), [ss. 2](https://www.legislation.gov.uk/ukpga/2014/9/section/2), [3(2)](https://www.legislation.gov.uk/ukpga/2014/9/section/3/2)
+[^c-5c4d4bac7f77a8faad6510f9ec3e3af2]: Textual amendment: [S. 4(1)(ca)](https://www.legislation.gov.uk/ukpga/2006/31/section/4/1/ca) inserted (13.5.2014) by [International Development (Gender Equality) Act 2014 (c. 9)](https://www.legislation.gov.uk/ukpga/2014/9), [ss. 2](https://www.legislation.gov.uk/ukpga/2014/9/section/2), [3(2)](https://www.legislation.gov.uk/ukpga/2014/9/section/3/2)

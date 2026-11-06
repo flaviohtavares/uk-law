@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Repeal of unnecessary provisions etc.[^key-f2aeafed73eee2272df2c7a4d9c5ec6e]
+## 199. Repeal of unnecessary provisions etc.[^c-f2aeafed73eee2272df2c7a4d9c5ec6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f2aeafed73eee2272df2c7a4d9c5ec6e]: Commencement: Art. 199 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f2aeafed73eee2272df2c7a4d9c5ec6e]: Commencement: Art. 199 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00142]: Footnote: The definition of “currency” was inserted by the Building Societies Act [1997 (c. 32)](https://www.legislation.gov.uk/ukpga/1997/32) Schedule 7 paragraph 53(1)(f).
 

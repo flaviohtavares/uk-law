@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — REMOVAL OF HEDGEROWS AND TREES[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+## SCHEDULE 8 — REMOVAL OF HEDGEROWS AND TREES[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 *Extent: E+W+S*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Article 39
 
-### PART 1 — REMOVAL OF HEDGEROWS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 1 — REMOVAL OF HEDGEROWS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-065c7c1971b34bf6ea9858ab4bf41b70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/218) revoked (3.6.2026) by [The A47 Wansford to Sutton Development Consent (Revocation) Order 2026 (S.I. 2026/579)](https://www.legislation.gov.uk/uksi/2026/579), [arts. 1](https://www.legislation.gov.uk/uksi/2026/579/article/1), [2](https://www.legislation.gov.uk/uksi/2026/579/article/2)
+[^c-065c7c1971b34bf6ea9858ab4bf41b70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/218) revoked (3.6.2026) by [The A47 Wansford to Sutton Development Consent (Revocation) Order 2026 (S.I. 2026/579)](https://www.legislation.gov.uk/uksi/2026/579), [arts. 1](https://www.legislation.gov.uk/uksi/2026/579/article/1), [2](https://www.legislation.gov.uk/uksi/2026/579/article/2)

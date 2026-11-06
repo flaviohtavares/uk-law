@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31ZZB. Finance: exceptions relating to payment of Treasury debt[^key-7b111f86725a2b9376391d0688419890]
+## 31ZZB. Finance: exceptions relating to payment of Treasury debt[^c-7b111f86725a2b9376391d0688419890]
 
 *Extent: E+W+S+N.I.*
 
 (1) The prohibitions in regulations 12 to 14 (asset-freeze in relation to, and making funds available to, or for the benefit of, designated persons) are not contravened by any act done by a person to transfer funds to—
 
-- (a) a UN designated person (“**D**”) in order to satisfy an obligation owed [^key-a40f6753b0393276e877fd927e68bba6]... to D in respect of Treasury debt where the conditions in paragraph (2) are met; or
+- (a) a UN designated person (“**D**”) in order to satisfy an obligation owed [^c-a40f6753b0393276e877fd927e68bba6]... to D in respect of Treasury debt where the conditions in paragraph (2) are met; or
 - (b) a person (“**B**”) in respect of Treasury debt where the effect of the transfer is to make funds available to or for the benefit of D and the conditions in paragraph (3) are met.
 
 (2) The person (“**P**”) making the transfer of funds to D knows or has reasonable cause to suspect that the obligation referred to in paragraph (1) arose before the date on which D was designated and P takes reasonable steps to satisfy itself that the funds to be transferred to D are credited to a specified account.
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7b111f86725a2b9376391d0688419890]: Textual amendment: [Reg. 31ZZB](https://www.legislation.gov.uk/uksi/2019/438/regulation/31ZZB) inserted (10.7.2025) by [The Sanctions (EU Exit) (Treasury Debt) Regulations 2025 (S.I. 2025/712)](https://www.legislation.gov.uk/uksi/2025/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/712/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/712/regulation/2/2)
+[^c-7b111f86725a2b9376391d0688419890]: Textual amendment: [Reg. 31ZZB](https://www.legislation.gov.uk/uksi/2019/438/regulation/31ZZB) inserted (10.7.2025) by [The Sanctions (EU Exit) (Treasury Debt) Regulations 2025 (S.I. 2025/712)](https://www.legislation.gov.uk/uksi/2025/712), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/712/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/712/regulation/2/2)
 
-[^key-a40f6753b0393276e877fd927e68bba6]: Textual amendment: Words in [reg. 31ZZB(1)(a)](https://www.legislation.gov.uk/uksi/2019/438/regulation/31ZZB/1/a) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/5/2)
+[^c-a40f6753b0393276e877fd927e68bba6]: Textual amendment: Words in [reg. 31ZZB(1)(a)](https://www.legislation.gov.uk/uksi/2019/438/regulation/31ZZB/1/a) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/5/2)

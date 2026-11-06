@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment[^f00001] makes the following Regulations in exercise of the powers conferred by Article 13(1) of the Weights and Measures (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-8946653ca376f6078513dc081002a5bd]
+## 1. Citation and commencement[^c-8946653ca376f6078513dc081002a5bd]
 
 These Regulations may be cited as the Measuring Instruments (Liquid Fuel by Road Tanker) (Use for Trade) Regulations (Northern Ireland) 2007 and shall come into operation on 15th October 2007.
 
-## 2. Interpretation[^key-848a3e9e8767578b2918b10a02a1fdac]
+## 2. Interpretation[^c-848a3e9e8767578b2918b10a02a1fdac]
 
 In these Regulations—
 
@@ -65,9 +65,9 @@ In these Regulations—
 
   other than the tank containing the fuel used to propel the vehicle or trailer.
 
-**2A.**[^key-4efe5caa408db585194dd38c2b715ac9] In these Regulations a reference to member State includes Norway, Iceland or Liechtenstein.
+**2A.**[^c-4efe5caa408db585194dd38c2b715ac9] In these Regulations a reference to member State includes Norway, Iceland or Liechtenstein.
 
-## 3. Application[^key-eb57dd8ce88c767acdae2d72ff466585]
+## 3. Application[^c-eb57dd8ce88c767acdae2d72ff466585]
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply to a meter measuring system which is—
 
@@ -81,7 +81,7 @@ In these Regulations—
 
 (3) These Regulations do not apply to any meter measuring system to which the 2006 Regulations do not apply by virtue of regulation 3(3) to (7) thereof.
 
-## 4. Requirements for use for trade[^key-8e39c499616d3596170e6c02a0866b24]
+## 4. Requirements for use for trade[^c-8e39c499616d3596170e6c02a0866b24]
 
 A person shall not use for trade a meter measuring system unless—
 
@@ -90,7 +90,7 @@ A person shall not use for trade a meter measuring system unless—
 - (c) it operates within the maximum permissible errors set out in regulation 5; and
 - (d) the requirements of regulations 6 and 7 are complied with.
 
-## 5. Maximum permissible errors[^key-29a927cff10c1d88f252db3ba9d35c36]
+## 5. Maximum permissible errors[^c-29a927cff10c1d88f252db3ba9d35c36]
 
 (1) An instrument which falls within an accuracy class of 0.3, 0.5 or 1.0 shall, when used to measure a quantity set out in column 1 of the following Table, operate within the maximum permissible error as set out in column 2, 3 or 4 of that Table (as appropriate) for that class and that quantity.
 
@@ -111,7 +111,7 @@ Table
 </tbody>
 </table>
 
-## 6. Manner of use[^key-ee245055499967e2ea3a12261687717b]
+## 6. Manner of use[^c-ee245055499967e2ea3a12261687717b]
 
 (1) Where a meter measuring system is marked with—
 
@@ -138,7 +138,7 @@ Table
 - (a) which are likely prematurely to degrade its metrological characteristics; or
 - (b) in which it may be prevented from operating consistently or accurately.
 
-## 7. Minimum measured quantity[^key-cdfb7057d8cbd5c96cb1c443a40c3301]
+## 7. Minimum measured quantity[^c-cdfb7057d8cbd5c96cb1c443a40c3301]
 
 (1) A meter measuring system shall not be used for trade to measure quantities of liquid fuel delivered from a road tanker that are less than the minimum measured quantity but this paragraph shall not apply where—
 
@@ -173,22 +173,22 @@ The Regulations have been notified to the European Commission in draft pursuant 
 
 [^f00003]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846) Art. 4
 
-[^key-8946653ca376f6078513dc081002a5bd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
+[^c-8946653ca376f6078513dc081002a5bd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
 
-[^key-848a3e9e8767578b2918b10a02a1fdac]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/388/regulation/2) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
+[^c-848a3e9e8767578b2918b10a02a1fdac]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/388/regulation/2) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2006/1269](https://www.legislation.gov.uk/uksi/2006/1269)
 
-[^key-4efe5caa408db585194dd38c2b715ac9]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2007/388/regulation/2A) inserted (17.3.2008) by [The Measuring Instruments (Use for Trade) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/52)](https://www.legislation.gov.uk/nisr/2008/52), [regs. 1](https://www.legislation.gov.uk/nisr/2008/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/2008/52/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/52/schedule)
+[^c-4efe5caa408db585194dd38c2b715ac9]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2007/388/regulation/2A) inserted (17.3.2008) by [The Measuring Instruments (Use for Trade) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/52)](https://www.legislation.gov.uk/nisr/2008/52), [regs. 1](https://www.legislation.gov.uk/nisr/2008/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/2008/52/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/52/schedule)
 
-[^key-eb57dd8ce88c767acdae2d72ff466585]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/388/regulation/3) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
+[^c-eb57dd8ce88c767acdae2d72ff466585]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/388/regulation/3) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1984 No. 117](https://www.legislation.gov.uk/nisr/1984/117), as amended by [S.R. 1986 No. 307](https://www.legislation.gov.uk/nisr/1986/307), [S.R. 1995 No. 228](https://www.legislation.gov.uk/nisr/1995/228), [S.R. 1997 No. 220](https://www.legislation.gov.uk/nisr/1997/220), [S.R. 2002 No. 71](https://www.legislation.gov.uk/nisr/2002/71) and [S.R. 2005 No. 26](https://www.legislation.gov.uk/nisr/2005/26).
 
-[^key-8e39c499616d3596170e6c02a0866b24]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/388/regulation/4) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
+[^c-8e39c499616d3596170e6c02a0866b24]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/388/regulation/4) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
 
-[^key-29a927cff10c1d88f252db3ba9d35c36]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/388/regulation/5) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
+[^c-29a927cff10c1d88f252db3ba9d35c36]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/388/regulation/5) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
 
-[^key-ee245055499967e2ea3a12261687717b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/388/regulation/6) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
+[^c-ee245055499967e2ea3a12261687717b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/388/regulation/6) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
 
-[^key-cdfb7057d8cbd5c96cb1c443a40c3301]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/388/regulation/7) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)
+[^c-cdfb7057d8cbd5c96cb1c443a40c3301]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/388/regulation/7) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/388/regulation/1)

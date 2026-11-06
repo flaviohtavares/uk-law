@@ -48,7 +48,7 @@ A draft of this instrument has been laid before, and approved by a resolution of
 
 The Secretary of State with the consent of the Treasury[^f00002] makes the following Regulations:
 
-## 1. Citation, commencement, duration and extent[^key-f2c6ab7f9d5a46700f00a7c0f0c17a72]
+## 1. Citation, commencement, duration and extent[^c-f2c6ab7f9d5a46700f00a7c0f0c17a72]
 
 (1) These Regulations may be cited as the Disabled People’s Right to Control (Pilot Scheme) (England) Regulations 2010.
 
@@ -59,13 +59,13 @@ The Secretary of State with the consent of the Treasury[^f00002] makes the follo
 - (a) referred to in regulation 3(b) and (k), these Regulations come into force on 1st March 2011; and
 - (b) referred to in regulation 3(c), (g), (i), (l) and (m), these Regulations come into force on 1st April 2011.
 
-(4) These Regulations cease to be in force on 13th December 2013[^key-9b91292046ed99c2dcd7fe41db67489e] (”the expiry date”), but this is subject to regulation 22 and to paragraph 11 of Schedule 2.
+(4) These Regulations cease to be in force on 13th December 2013[^c-9b91292046ed99c2dcd7fe41db67489e] (”the expiry date”), but this is subject to regulation 22 and to paragraph 11 of Schedule 2.
 
 (5) These Regulations extend to England and Wales.
 
 (6) These Regulations apply to England only.
 
-## 2. Interpretation[^key-06eb9bd65eb136cc0701f48e0630dc0a]
+## 2. Interpretation[^c-06eb9bd65eb136cc0701f48e0630dc0a]
 
 (1) In these Regulations—
 
@@ -96,25 +96,25 @@ The Secretary of State with the consent of the Treasury[^f00002] makes the follo
 
 (3) Where any provision of these Regulations requires a relevant authority to inform a person in writing of any matter, that requirement is to be read as including a requirement so far as reasonably practicable to make the information available in a format that is accessible to the person to whom the information is provided.
 
-## 3. Pilot areas[^key-b0513644b990e612d89cb87f836a521a][^key-f56348ae7b2f90084c3d1bcc0d1f788d]
+## 3. Pilot areas[^c-b0513644b990e612d89cb87f836a521a][^c-f56348ae7b2f90084c3d1bcc0d1f788d]
 
 The pilot areas are as follows—
 
-- (a)[^key-b0513644b990e612d89cb87f836a521a] the London borough of Barnet;
-- (b)[^key-f56348ae7b2f90084c3d1bcc0d1f788d] the metropolitan district of Barnsley;
+- (a)[^c-b0513644b990e612d89cb87f836a521a] the London borough of Barnet;
+- (b)[^c-f56348ae7b2f90084c3d1bcc0d1f788d] the metropolitan district of Barnsley;
 - (c) the metropolitan district of Bury;
-- (d)[^key-b0513644b990e612d89cb87f836a521a] the non-metropolitan district of Epsom and Ewell;
-- (e)[^key-b0513644b990e612d89cb87f836a521a] the county of Essex;
-- (f)[^key-b0513644b990e612d89cb87f836a521a] the non-metropolitan district of Leicester;
-- (g)[^key-7675d9ffec83cde3f8a2cf6fa8a4586d] the metropolitan district of Manchester;
-- (h)[^key-b0513644b990e612d89cb87f836a521a] the London borough of Newham;
-- (i)[^key-5e1ed258a63d0f3b76bb8f7b7ef95158] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-b0513644b990e612d89cb87f836a521a] the non-metropolitan district of Reigate and Banstead;
+- (d)[^c-b0513644b990e612d89cb87f836a521a] the non-metropolitan district of Epsom and Ewell;
+- (e)[^c-b0513644b990e612d89cb87f836a521a] the county of Essex;
+- (f)[^c-b0513644b990e612d89cb87f836a521a] the non-metropolitan district of Leicester;
+- (g)[^c-7675d9ffec83cde3f8a2cf6fa8a4586d] the metropolitan district of Manchester;
+- (h)[^c-b0513644b990e612d89cb87f836a521a] the London borough of Newham;
+- (i)[^c-5e1ed258a63d0f3b76bb8f7b7ef95158] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-b0513644b990e612d89cb87f836a521a] the non-metropolitan district of Reigate and Banstead;
 - (k) the metropolitan district of Sheffield;
 - (l) the metropolitan district of Stockport;
 - (m) the metropolitan district of Trafford.
 
-## 4. Qualifying services[^key-d66c4a33df93406871649ad6dc45b4dc]
+## 4. Qualifying services[^c-d66c4a33df93406871649ad6dc45b4dc]
 
 The right to control services which are qualifying services for the purposes of these Regulations are specified in the first column of the following table and the authority which is the relevant authority providing or arranging the provision of each of those services is specified in the second column—
 
@@ -123,7 +123,7 @@ The right to control services which are qualifying services for the purposes of 
 | (1) Assistance provided under the programmes known as “Access to Work” and “Work Choice Specialist Disability Employment Programme” in pursuance of arrangements made by the Secretary of State under section 2 of the Employment and Training Act 1973[^f00005]. | The Secretary of State. |
 | (2) Non-statutory assistance provided by a principal local authority for the purpose of enabling people aged 18 or over to overcome barriers to participation in society associated with their disability where—<br>- (a) the assistance is given for the purpose of developing and sustaining people’s capacity to live more independently in their accommodation,<br>- (b) the assistance does not include the grant of a tenancy or the provision of accommodation,<br>- (c) the assistance is not a community care service, and<br>- (d) when the assistance is first provided it appears to the principal local authority that the need for the assistance is likely to last for more than 2 years. | A principal local authority. |
 
-## 5. Meaning of “representative” and “surrogate”[^key-296bb84020f820456cbbc74c38940581]
+## 5. Meaning of “representative” and “surrogate”[^c-296bb84020f820456cbbc74c38940581]
 
 (1) In these Regulations “representative”, in relation to a person who lacks capacity (“P”), means—
 
@@ -132,7 +132,7 @@ The right to control services which are qualifying services for the purposes of 
 
 (2) In these Regulations “surrogate”, in relation to a person who lacks capacity, means a representative of the person whose powers, as deputy or donee, consist of or include powers relating to decisions about securing the provision of a community care service or a qualifying service.
 
-## 6. Application of regulations 7 to 20[^key-b2f7b39e99de77e158431a25ec601384]
+## 6. Application of regulations 7 to 20[^c-b2f7b39e99de77e158431a25ec601384]
 
 (1) Regulations 7 to 20 apply if (and only if), in the case of an individual aged 18 or over who is resident in a pilot area, a relevant authority specified in the Table in regulation 4 has determined—
 
@@ -148,7 +148,7 @@ The right to control services which are qualifying services for the purposes of 
 
 (4) Where, immediately before the commencement of these Regulations, P is already receiving a qualifying service, regulations 7 to 20 do not apply in relation to that service unless the responsible authority and P agree that they are to apply in relation to that service as from a specified date.
 
-## 7. Duty of responsible authority to provide information to beneficiary[^key-bf7bbd8177c0f9850401d39b34beedb6]
+## 7. Duty of responsible authority to provide information to beneficiary[^c-bf7bbd8177c0f9850401d39b34beedb6]
 
 (1) The responsible authority must inform P in writing of—
 
@@ -163,7 +163,7 @@ The right to control services which are qualifying services for the purposes of 
 - (a) to be provided by the relevant authority providing any other right to control service to P, and
 - (b) to be combined with similar information about the other service.
 
-## 8. Support plan: general[^key-18f8eb731611a324fbbeca72b2d21f75]
+## 8. Support plan: general[^c-18f8eb731611a324fbbeca72b2d21f75]
 
 (1) The responsible authority must work with P to develop a support plan for P.
 
@@ -177,7 +177,7 @@ The right to control services which are qualifying services for the purposes of 
 
 (6) The responsible authority may arrange for a support plan under this regulation to be combined with a support plan developed in relation to any other right to control service provided to P.
 
-## 9. Support plan: cases where beneficiary lacks capacity to approve[^key-5ff7d058e2bc2db03c319788464e9ef9]
+## 9. Support plan: cases where beneficiary lacks capacity to approve[^c-5ff7d058e2bc2db03c319788464e9ef9]
 
 (1) Where P falls within paragraph (2) or is believed by the responsible authority to fall within that paragraph, the responsible authority must if possible work with a suitable person (“S”) other than P to develop a support plan for P.
 
@@ -202,7 +202,7 @@ The right to control services which are qualifying services for the purposes of 
 
 (6) The responsible authority may arrange for a support plan under this regulation to be combined with a support plan developed in relation to any other right to control service provided to P.
 
-## 10. Contents of support plan[^key-a284d09ec2463a78dc9069536773a49c]
+## 10. Contents of support plan[^c-a284d09ec2463a78dc9069536773a49c]
 
 The support plan must set out, in relation to the qualifying service to which it relates—
 
@@ -212,7 +212,7 @@ The support plan must set out, in relation to the qualifying service to which it
 - (d) the amount of any contribution payable by or on behalf of P, and
 - (e) the intervals (of not more than 12 months) at which the plan is to be reviewed by the responsible authority.
 
-## 11. Right of beneficiary to control manner in which services are provided[^key-2d252e663cae4d5fd17e5c201feff8ca]
+## 11. Right of beneficiary to control manner in which services are provided[^c-2d252e663cae4d5fd17e5c201feff8ca]
 
 (1) Where outcomes have been agreed with P, the responsible authority must in preparing the support plan give effect to any request by P as to the manner in which any services are to be provided for the purpose of securing those outcomes.
 
@@ -224,17 +224,17 @@ The support plan must set out, in relation to the qualifying service to which it
 
 (3) Where the responsible authority refuses any request in reliance on paragraph (2), the authority must provide P with a written statement of the reasons for the refusal.
 
-## 12. Duty to provide services in accordance with support plan[^key-7f0bea2cf5f3c662f7ef9bfbce121b27]
+## 12. Duty to provide services in accordance with support plan[^c-7f0bea2cf5f3c662f7ef9bfbce121b27]
 
 To the extent that a support plan provides for services to be provided by or on behalf of the responsible authority, the authority must provide them, or arrange for them to be provided, in accordance with the plan so far as it is reasonably practicable to do so.
 
-## 13. Duty to review support plan[^key-a6089192f042ce5a3970fd9e47a90958]
+## 13. Duty to review support plan[^c-a6089192f042ce5a3970fd9e47a90958]
 
 (1) The responsible authority must work with P, and any other person who may approve P’s support plan, to review P’s support plan.
 
 (2) Reviews must be undertaken at the intervals specified in the plan, or more frequently if circumstances require.
 
-## 14. Direct payments to beneficiary[^key-c6efd3f8e43f7924dfed1a53a6dc3384]
+## 14. Direct payments to beneficiary[^c-c6efd3f8e43f7924dfed1a53a6dc3384]
 
 (1) Where P has approved the support plan, the responsible authority must offer P the opportunity, with P’s consent, to receive payments (“direct payments”) in respect of P securing the provision of services that secure one or more of the outcomes referred to in regulation 10(b), but this is subject to paragraphs (2) and (3).
 
@@ -277,7 +277,7 @@ To the extent that a support plan provides for services to be provided by or on 
 - (a) must not secure the service from a particular person; and
 - (b) must provide such information to the responsible authority as the authority considers necessary in connection with the direct payment.
 
-## 15. Direct payments in case of person lacking capacity to request them[^key-6c1354d601a1ff6002b69bbf19fcf7d0]
+## 15. Direct payments in case of person lacking capacity to request them[^c-6c1354d601a1ff6002b69bbf19fcf7d0]
 
 (1) Where P falls within paragraph (2) or is believed by the responsible authority to fall within that paragraph, this regulation applies instead of regulation 14.
 
@@ -305,7 +305,7 @@ To the extent that a support plan provides for services to be provided by or on 
 - (a) must not secure the service from a particular person; and
 - (b) must provide such information to the responsible authority as the authority considers necessary in connection with the direct payment.
 
-## 16. Conditions for direct payment to suitable person[^key-9301357058bc9fc404fe0199506960e7]
+## 16. Conditions for direct payment to suitable person[^c-9301357058bc9fc404fe0199506960e7]
 
 (1) This regulation sets out the conditions mentioned in regulation 15(4)(b).
 
@@ -335,7 +335,7 @@ To the extent that a support plan provides for services to be provided by or on 
 - (c) S will act in the best interests, within the meaning of the Mental Capacity Act 2005, of P when securing the provision of services in respect of which the direct payment is made, and
 - (d) in all the circumstances it is appropriate for a direct payment to be made to S.
 
-## 17. Termination of direct payments to beneficiary or other person[^key-23d2f6d7349e9571650a2b2fd94e9aad]
+## 17. Termination of direct payments to beneficiary or other person[^c-23d2f6d7349e9571650a2b2fd94e9aad]
 
 (1) The responsible authority must terminate the making of direct payments under regulation 14 or 15 if—
 
@@ -348,7 +348,7 @@ To the extent that a support plan provides for services to be provided by or on 
 
 (2) Where paragraph (1) applies, the responsible authority must make the necessary changes to P’s support plan and notify P (or, as the case requires, S) in writing of those changes.
 
-## 18. Repayment of direct payments[^key-6877c4cac9482d908e172789a85c0b01]
+## 18. Repayment of direct payments[^c-6877c4cac9482d908e172789a85c0b01]
 
 (1) A responsible authority which has made a direct payment may require the payment or part of the payment to be repaid where it is satisfied that –
 
@@ -358,7 +358,7 @@ To the extent that a support plan provides for services to be provided by or on 
 
 (2) Any sum falling to be repaid by virtue of paragraph (1) shall be recoverable as a debt due to the responsible authority.
 
-## 19. Review of decisions[^key-f44ef36647f9fbd40e228f2e220f9182]
+## 19. Review of decisions[^c-f44ef36647f9fbd40e228f2e220f9182]
 
 The responsible authority must maintain arrangements under which a person (“A”) may apply for a review of—
 
@@ -368,7 +368,7 @@ The responsible authority must maintain arrangements under which a person (“A�
 - (d) any decision under regulation 15 to refuse to make direct payments to A in a case where the responsible authority has informed A that it regards A as a suitable person for the purposes of that regulation, and
 - (e) any decision under regulation 17 to terminate the making of direct payments to A under regulation 14 or 15.
 
-## 20. Arrangements for exercise of functions[^key-da5c5ed5616f91766d5933d40e11772f]
+## 20. Arrangements for exercise of functions[^c-da5c5ed5616f91766d5933d40e11772f]
 
 (1) The functions of the responsible authority under any of regulations 7 to 11 and 13 may be exercised by a person authorised by the responsible authority for the purpose or by employees of such a person.
 
@@ -381,7 +381,7 @@ The responsible authority must maintain arrangements under which a person (“A�
 
 (4) In paragraphs (2) and (3), “authorised person” means a person authorised to exercise any function by virtue of paragraph (1).
 
-## 21. Information sharing in relation to right to control services generally[^key-aff55d6d6e564e1a4214fe6a7a164088]
+## 21. Information sharing in relation to right to control services generally[^c-aff55d6d6e564e1a4214fe6a7a164088]
 
 Relevant authorities may disclose to each other information relating to individuals resident in pilot areas or individuals who act or purport to act for such individuals, for any of the following purposes in relation to right to control services—
 
@@ -390,11 +390,11 @@ Relevant authorities may disclose to each other information relating to individu
 - (c) monitoring the application of direct payments (including any equivalent payment made in respect of a right to control service that is not a qualifying service);
 - (d) ascertaining any of the matters mentioned in section 44(2) of the Welfare Reform Act 2009.
 
-## 22. Transitional provisions on expiry[^key-89002a5e8ad326f4a7ae11eb59156c84]
+## 22. Transitional provisions on expiry[^c-89002a5e8ad326f4a7ae11eb59156c84]
 
 Where a support plan developed in accordance with regulation 8 or 9 is current immediately before the expiry date, the duty of the responsible authority to provide services or direct payments in accordance with these Regulations continues until the time when the support plan would otherwise next fall to be reviewed.
 
-## 23. Disabled facilities grants for housing purposes[^key-a699fff98a038f75dd0760575a5e6e9b]
+## 23. Disabled facilities grants for housing purposes[^c-a699fff98a038f75dd0760575a5e6e9b]
 
 (1) If the following conditions are met in relation to an application for a grant under section 1(1) of the Housing Grants, Construction and Regeneration Act 1996[^f00007] (“the 1996 Act”) which is approved after the commencement of these Regulations and before the expiry date, the provisions of Chapter 1 of Part 1 of that Act have effect subject to the provisions of Schedule 2.
 
@@ -411,7 +411,7 @@ Where a support plan developed in accordance with regulation 8 or 9 is current i
 - (b) a person falling within section 19(1)(b) of the 1996 Act (tenants) in a case where the landlord is a registered provider of social housing, or
 - (c) a person falling within section 19(1)(c) of the 1996 Act (occupiers of houseboats and caravans).
 
-## 24. Guidance[^key-5d63cb2e7dd04ec9d488288a58f31613]
+## 24. Guidance[^c-5d63cb2e7dd04ec9d488288a58f31613]
 
 In exercising its functions under these Regulations, a relevant authority other than the Secretary of State must have regard to any guidance given from time to time by the Secretary of State.
 
@@ -435,16 +435,16 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 29th November 2010
 
-## SCHEDULE 1 — PERSONS EXCLUDED FROM DIRECT PAYMENTS[^key-9615c5fbb29ea2b399a8e5efdfe2902c]
+## SCHEDULE 1 — PERSONS EXCLUDED FROM DIRECT PAYMENTS[^c-9615c5fbb29ea2b399a8e5efdfe2902c]
 
 Regulation 14(3) and 15(4)(c)
 
-[^key-9615c5fbb29ea2b399a8e5efdfe2902c]
+[^c-9615c5fbb29ea2b399a8e5efdfe2902c]
 
 The following persons are excluded by this Schedule from direct payments—
 
-- (a) a person who is subject to a drug rehabilitation requirement, as defined by section 209 of the Criminal Justice Act 2003[^f00008] or paragraph 19 of Schedule 9 to the Sentencing Code[^key-4afaa2df7f942ce06f3a8c2964e67b10], imposed by a community order within the meaning of section 177 of that Act or section 200 of that Code[^key-2cc929819c1b1247e6acba3b5417decc] or by a suspended sentence order within the meaning of section 189 of that Act or section 286 of that Code[^key-507bf4d5351b851b35b1e5de9a3ae624];
-- (b) a person who is subject to an alcohol treatment requirement, as defined by section 212 of the Criminal Justice Act 2003 or paragraph 23 of Schedule 9 to the Sentencing Code[^key-ee0882ded6ee0ee967000458e90973b1], imposed by a community order within the meaning of section 177 of that Act or section 200 of that Code[^key-cee4051ad302e356a602c896dfa00f2b] or by a suspended sentence order within the meaning of section 189 of that Act or section 286 of that Code[^key-358f392ad721c42928a6cd3f2eee049c];
+- (a) a person who is subject to a drug rehabilitation requirement, as defined by section 209 of the Criminal Justice Act 2003[^f00008] or paragraph 19 of Schedule 9 to the Sentencing Code[^c-4afaa2df7f942ce06f3a8c2964e67b10], imposed by a community order within the meaning of section 177 of that Act or section 200 of that Code[^c-2cc929819c1b1247e6acba3b5417decc] or by a suspended sentence order within the meaning of section 189 of that Act or section 286 of that Code[^c-507bf4d5351b851b35b1e5de9a3ae624];
+- (b) a person who is subject to an alcohol treatment requirement, as defined by section 212 of the Criminal Justice Act 2003 or paragraph 23 of Schedule 9 to the Sentencing Code[^c-ee0882ded6ee0ee967000458e90973b1], imposed by a community order within the meaning of section 177 of that Act or section 200 of that Code[^c-cee4051ad302e356a602c896dfa00f2b] or by a suspended sentence order within the meaning of section 189 of that Act or section 286 of that Code[^c-358f392ad721c42928a6cd3f2eee049c];
 - (c) a person who is released on licence under Part 2 of the Criminal Justice Act 1991[^f00009], Chapter 6 of Part 12 of the Criminal Justice Act 2003 or Chapter 2 of Part 2 of the Crime (Sentences) Act 1997[^f00010] subject to a non-standard licence condition requiring the offender to undertake offending behaviour work to address drug-related or alcohol-related behaviour;
 - (d) a person who is required to submit to treatment for their drug or alcohol dependency by virtue of a community rehabilitation order within the meaning of section 41 of the Powers of Criminal Courts (Sentencing) Act 2000[^f00011] or a community punishment and rehabilitation order within the meaning of section 51 of that Act;
 - (e) a person who is subject to a drug treatment and testing order imposed under section 52 of the Powers of Criminal Courts (Sentencing) Act 2000[^f00012];
@@ -455,18 +455,18 @@ The following persons are excluded by this Schedule from direct payments—
 
 Regulation 23(1)
 
-**1.**[^key-415c32eb58a7205d46170307987e40bf] In this Schedule “the 1996 Act” means the Housing Grants, Construction and Regeneration Act 1996, and expressions used in this Schedule and in Chapter 1 of Part 1 of that Act have the same meaning as in that Chapter.
+**1.**[^c-415c32eb58a7205d46170307987e40bf] In this Schedule “the 1996 Act” means the Housing Grants, Construction and Regeneration Act 1996, and expressions used in this Schedule and in Chapter 1 of Part 1 of that Act have the same meaning as in that Chapter.
 
-**2.**[^key-10f3a08ac4273a8467ca7a9923c149a1] Section 2 of the 1996 Act has effect as if it required the local housing authority, in any case where the authority has not given a direction that no estimates are required but an application under that section does not contain the estimates that would (apart from this paragraph) be required by subsection (2)(b) of that section, to obtain those estimates that would otherwise be required.
+**2.**[^c-10f3a08ac4273a8467ca7a9923c149a1] Section 2 of the 1996 Act has effect as if it required the local housing authority, in any case where the authority has not given a direction that no estimates are required but an application under that section does not contain the estimates that would (apart from this paragraph) be required by subsection (2)(b) of that section, to obtain those estimates that would otherwise be required.
 
-**3.**[^key-3d316de9ad5bf5c567420d78b46a6785] If the local housing authority notifies the applicant under section 34(1) of the 1996 Act that the application is approved, it must provide the following information to the disabled occupant—
+**3.**[^c-3d316de9ad5bf5c567420d78b46a6785] If the local housing authority notifies the applicant under section 34(1) of the 1996 Act that the application is approved, it must provide the following information to the disabled occupant—
 
 - (a) an explanation of the right of the disabled occupant, subject to the provisions of paragraph 5, to choose a contractor other than the contractor, or one of the contractors, whose estimate accompanied the application,
 - (b) an explanation of the right of the disabled occupant, subject to the provisions of paragraph 6, to require the grant to be paid to the disabled occupant rather than to the contractor or the applicant (if not the disabled occupant),
 - (c) information about the existence of other right to control services and the relevant authorities by which they are provided, and
 - (d) information about organisations which provide advice and assistance in connection with the exercise of the rights available by virtue of these Regulations.
 
-**4.**[^key-a2d2cc898e5cdd46dc181f91a48cffb1] (1) If the local housing authority approves an application for a grant under section 1(1) of the 1996 Act[^f00016], the authority must work with the disabled occupant to develop a support plan for the disabled occupant.
+**4.**[^c-a2d2cc898e5cdd46dc181f91a48cffb1] (1) If the local housing authority approves an application for a grant under section 1(1) of the 1996 Act[^f00016], the authority must work with the disabled occupant to develop a support plan for the disabled occupant.
 
 (2) The support plan must set out—
 
@@ -489,27 +489,27 @@ Regulation 23(1)
 
 (7) The local housing authority may arrange for a support plan under this Schedule to be combined with a support plan developed in relation to any other right to control service.
 
-**5.**[^key-f6ac2c47950907f1e60440707582e12b] Section 38 of the 1996 Act (conditions as to contractors employed) does not apply unless the local housing authority notifies the applicant and the disabled occupant that is considers that the disabled occupant is incapable of managing —
+**5.**[^c-f6ac2c47950907f1e60440707582e12b] Section 38 of the 1996 Act (conditions as to contractors employed) does not apply unless the local housing authority notifies the applicant and the disabled occupant that is considers that the disabled occupant is incapable of managing —
 
 - (a) a grant, either alone or with such assistance as may be available to the disabled occupant, or
 - (b) the proposed works, either alone or with such assistance as may be available to the disabled occupant.
 
-**6.**[^key-1fd87c3898cf486801d11967bf492574] Section 39 of the 1996 Act (payment of grant to contractor) is not to be regarded as enabling the local housing authority to pay a grant or part of a grant as mentioned in subsection (1)(a) or (b) of that section unless—
+**6.**[^c-1fd87c3898cf486801d11967bf492574] Section 39 of the 1996 Act (payment of grant to contractor) is not to be regarded as enabling the local housing authority to pay a grant or part of a grant as mentioned in subsection (1)(a) or (b) of that section unless—
 
 - (a) the disabled occupant so requests,
 - (b) it appears to the authority that the disabled occupant is incapable of managing a grant, either alone or with such assistance as may be available to the disabled occupant,
 - (c) it appears to the authority that the disabled occupant is incapable of managing the proposed works, either alone or with such assistance as may be available to the disabled occupant, or
 - (d) where part of the grant has been paid, it appears to the authority that that part has not been applied in accordance with the support plan.
 
-**7.**[^key-b903ffb1d6f15bd38a50a3aadf913e7a] (1) If the support plan so provides, the local housing authority must pay a grant or part of a grant to the disabled occupant, even if the disabled occupant was not the applicant for the grant.
+**7.**[^c-b903ffb1d6f15bd38a50a3aadf913e7a] (1) If the support plan so provides, the local housing authority must pay a grant or part of a grant to the disabled occupant, even if the disabled occupant was not the applicant for the grant.
 
 (2) Sub-paragraph (1) does not apply if the disabled occupant is a person excluded by Schedule 1 to these Regulations.
 
-**8.**[^key-1794d2707a9745709a539d387f98fef5] Section 52 of the 1996 Act (power to impose other conditions) has effect as if it enabled a condition imposed under that section, in a case where the grant was paid to a disabled occupant other than the applicant, also to enable the amounts mentioned, together with interest as mentioned in subsection (1) of that section, to be required to be paid by the person to whom the grant was paid.
+**8.**[^c-1794d2707a9745709a539d387f98fef5] Section 52 of the 1996 Act (power to impose other conditions) has effect as if it enabled a condition imposed under that section, in a case where the grant was paid to a disabled occupant other than the applicant, also to enable the amounts mentioned, together with interest as mentioned in subsection (1) of that section, to be required to be paid by the person to whom the grant was paid.
 
-**9.**[^key-19644ee544d171bda485ca564733cd45] The local housing authority must maintain arrangements under which disabled occupants affected by decisions of the local housing authority by virtue of paragraph 5 or 6 may apply for a review of those decisions.
+**9.**[^c-19644ee544d171bda485ca564733cd45] The local housing authority must maintain arrangements under which disabled occupants affected by decisions of the local housing authority by virtue of paragraph 5 or 6 may apply for a review of those decisions.
 
-**10.**[^key-cbfc8b0e53459476a8ec20b2df92d8b8] (1) The functions of the local housing authority under any of paragraphs 3, 4 and 7 may be exercised by a person authorised by the local housing authority for the purpose or by employees of such a person.
+**10.**[^c-cbfc8b0e53459476a8ec20b2df92d8b8] (1) The functions of the local housing authority under any of paragraphs 3, 4 and 7 may be exercised by a person authorised by the local housing authority for the purpose or by employees of such a person.
 
 (2) Anything done or omitted to be done by or in relation to an authorised person (or an employee of that person) in, or in connection with, the exercise or purported exercise of the function concerned is to be treated for all purposes as done or omitted to be done by or in relation to the local housing authority.
 
@@ -520,7 +520,7 @@ Regulation 23(1)
 
 (4) In sub-paragraphs (2) and (3) “authorised person” means a person authorised to exercise any function by virtue of sub-paragraph (1).
 
-**11.**[^key-feca14dc3d56ad8477f3d6260357d5d2] Where an application for a grant has been approved before the expiry date, the provisions of this Schedule are to continue to apply during the period of 12 months beginning with the expiry date.
+**11.**[^c-feca14dc3d56ad8477f3d6260357d5d2] Where an application for a grant has been approved before the expiry date, the provisions of this Schedule are to continue to apply during the period of 12 months beginning with the expiry date.
 
 EXPLANATORY NOTE
 
@@ -560,87 +560,87 @@ A full impact assessment has not been made for this instrument as it has no impa
 
 [^f00002]: Footnote: The consent of the Treasury is required by section 45(3)(a) of the Welfare Reform Act 2009.
 
-[^key-f2c6ab7f9d5a46700f00a7c0f0c17a72]: Commencement: Reg. 1 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-f2c6ab7f9d5a46700f00a7c0f0c17a72]: Commencement: Reg. 1 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-9b91292046ed99c2dcd7fe41db67489e]: Textual amendment: Word in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/4) substituted (12.12.2012) by [The Disabled People’s Right to Control (Pilot Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3048)](https://www.legislation.gov.uk/uksi/2012/3048), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3048/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3048/regulation/2/2)
+[^c-9b91292046ed99c2dcd7fe41db67489e]: Textual amendment: Word in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/4) substituted (12.12.2012) by [The Disabled People’s Right to Control (Pilot Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3048)](https://www.legislation.gov.uk/uksi/2012/3048), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3048/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3048/regulation/2/2)
 
-[^key-06eb9bd65eb136cc0701f48e0630dc0a]: Commencement: Reg. 2 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-06eb9bd65eb136cc0701f48e0630dc0a]: Commencement: Reg. 2 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
 [^f00003]: Footnote: [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53).
 
 [^f00004]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-b0513644b990e612d89cb87f836a521a]: Commencement: Reg. 3(a)(d)-(f)(h)(j) in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-b0513644b990e612d89cb87f836a521a]: Commencement: Reg. 3(a)(d)-(f)(h)(j) in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-f56348ae7b2f90084c3d1bcc0d1f788d]: Commencement: [Reg. 3(b)(k)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/3/b) in force at 1.3.2011, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/3/a)
+[^c-f56348ae7b2f90084c3d1bcc0d1f788d]: Commencement: [Reg. 3(b)(k)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/3/b) in force at 1.3.2011, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/3/a)
 
-[^key-7675d9ffec83cde3f8a2cf6fa8a4586d]: Commencement: [Reg. 3(c)(g)(i)(l)(m)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/3/g) in force at 1.4.2011, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/3/b)
+[^c-7675d9ffec83cde3f8a2cf6fa8a4586d]: Commencement: [Reg. 3(c)(g)(i)(l)(m)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/3/g) in force at 1.4.2011, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/3/b)
 
-[^key-5e1ed258a63d0f3b76bb8f7b7ef95158]: Textual amendment: [Reg. 3(i)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/3/i) omitted (12.12.2012) by virtue of [The Disabled People’s Right to Control (Pilot Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3048)](https://www.legislation.gov.uk/uksi/2012/3048), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3048/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3048/regulation/2/3)
+[^c-5e1ed258a63d0f3b76bb8f7b7ef95158]: Textual amendment: [Reg. 3(i)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/3/i) omitted (12.12.2012) by virtue of [The Disabled People’s Right to Control (Pilot Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3048)](https://www.legislation.gov.uk/uksi/2012/3048), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3048/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3048/regulation/2/3)
 
-[^key-d66c4a33df93406871649ad6dc45b4dc]: Commencement: Reg. 4 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-d66c4a33df93406871649ad6dc45b4dc]: Commencement: Reg. 4 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
 [^f00005]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50). Section 2 of the Employment and Training Act 1973 was substituted by the Employment Act [1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19), section 25(1); subsections (4) and (6) were repealed by the Employment Act [1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38), section 29(4) and Schedule 7, Part 1. There are other amendments not relevant to these Regulations.
 
-[^key-296bb84020f820456cbbc74c38940581]: Commencement: Reg. 5 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-296bb84020f820456cbbc74c38940581]: Commencement: Reg. 5 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-b2f7b39e99de77e158431a25ec601384]: Commencement: Reg. 6 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-b2f7b39e99de77e158431a25ec601384]: Commencement: Reg. 6 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-bf7bbd8177c0f9850401d39b34beedb6]: Commencement: Reg. 7 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-bf7bbd8177c0f9850401d39b34beedb6]: Commencement: Reg. 7 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-18f8eb731611a324fbbeca72b2d21f75]: Commencement: Reg. 8 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-18f8eb731611a324fbbeca72b2d21f75]: Commencement: Reg. 8 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-5ff7d058e2bc2db03c319788464e9ef9]: Commencement: Reg. 9 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-5ff7d058e2bc2db03c319788464e9ef9]: Commencement: Reg. 9 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-a284d09ec2463a78dc9069536773a49c]: Commencement: Reg. 10 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-a284d09ec2463a78dc9069536773a49c]: Commencement: Reg. 10 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-2d252e663cae4d5fd17e5c201feff8ca]: Commencement: Reg. 11 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-2d252e663cae4d5fd17e5c201feff8ca]: Commencement: Reg. 11 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-7f0bea2cf5f3c662f7ef9bfbce121b27]: Commencement: Reg. 12 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-7f0bea2cf5f3c662f7ef9bfbce121b27]: Commencement: Reg. 12 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-a6089192f042ce5a3970fd9e47a90958]: Commencement: Reg. 13 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-a6089192f042ce5a3970fd9e47a90958]: Commencement: Reg. 13 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-c6efd3f8e43f7924dfed1a53a6dc3384]: Commencement: Reg. 14 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-c6efd3f8e43f7924dfed1a53a6dc3384]: Commencement: Reg. 14 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-6c1354d601a1ff6002b69bbf19fcf7d0]: Commencement: Reg. 15 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-6c1354d601a1ff6002b69bbf19fcf7d0]: Commencement: Reg. 15 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-9301357058bc9fc404fe0199506960e7]: Commencement: Reg. 16 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-9301357058bc9fc404fe0199506960e7]: Commencement: Reg. 16 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
 [^f00006]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). Section 113B was inserted by the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), section 163(2) and was amended by the following enactments: the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26), sections 97(2) and 112(2) and Schedule 8, Part 8; the Safeguarding Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47), section 63(1) and Schedule 9, Part 2, paragraph 14(1) and (3); the Police Act 1997 (Criminal Records) (Electronic Communications) Order 2009 ([S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203)), articles 2 and 4(1) to (4); the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52), section 378(1), Schedule 16, paragraph 149 and the Safeguarding Vulnerable Groups Act 2006 (Controlled Activity and Miscellaneous Provisions) Regulations 2010 ([S.I. 2010/1146](https://www.legislation.gov.uk/uksi/2010/1146)), regulation 8. There are other amendments not relevant to these Regulations.
 
-[^key-23d2f6d7349e9571650a2b2fd94e9aad]: Commencement: Reg. 17 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-23d2f6d7349e9571650a2b2fd94e9aad]: Commencement: Reg. 17 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-6877c4cac9482d908e172789a85c0b01]: Commencement: Reg. 18 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-6877c4cac9482d908e172789a85c0b01]: Commencement: Reg. 18 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-f44ef36647f9fbd40e228f2e220f9182]: Commencement: Reg. 19 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-f44ef36647f9fbd40e228f2e220f9182]: Commencement: Reg. 19 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-da5c5ed5616f91766d5933d40e11772f]: Commencement: Reg. 20 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-da5c5ed5616f91766d5933d40e11772f]: Commencement: Reg. 20 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-aff55d6d6e564e1a4214fe6a7a164088]: Commencement: Reg. 21 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-aff55d6d6e564e1a4214fe6a7a164088]: Commencement: Reg. 21 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-89002a5e8ad326f4a7ae11eb59156c84]: Commencement: Reg. 22 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-89002a5e8ad326f4a7ae11eb59156c84]: Commencement: Reg. 22 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-a699fff98a038f75dd0760575a5e6e9b]: Commencement: Reg. 23 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-a699fff98a038f75dd0760575a5e6e9b]: Commencement: Reg. 23 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
 [^f00007]: Footnote: [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53). The following amendments to the 1996 Act were made by the Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 ([S.I. 2002/1860](https://www.legislation.gov.uk/uksi/2002/1860)): the definition of ‘premises’ was inserted by article 11(1), Schedule 3, paragraphs 1 and 25(c); the definition of ‘disabled occupant’ was amended by articles 11(1) and 15(1), Schedule 3, paragraphs 1 and 5(a); and section 19(1)(c) was inserted by article 11(1), Schedule 3, paragraphs 1 and 4(1) and (2)(b).
 
-[^key-5d63cb2e7dd04ec9d488288a58f31613]: Commencement: Reg. 24 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-5d63cb2e7dd04ec9d488288a58f31613]: Commencement: Reg. 24 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-9615c5fbb29ea2b399a8e5efdfe2902c]: Commencement: Sch. 1 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-9615c5fbb29ea2b399a8e5efdfe2902c]: Commencement: Sch. 1 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
 [^f00008]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44) (‘the 2003 Act’). Section 209 was amended by paragraph 88 of Schedule 4 to the Criminal Justice and Immigration Act [2008 (c.4)](https://www.legislation.gov.uk/ukpga/2008/4) and by [S.I. 2008/912](https://www.legislation.gov.uk/uksi/2008/912). Section 177 was amended by paragraph 82 of Schedule 4 to that Act. Section 189 was amended by [S.I. 2005/643](https://www.legislation.gov.uk/uksi/2005/643).
 
-[^key-4afaa2df7f942ce06f3a8c2964e67b10]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2862/schedule/1) para. (a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 403(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/403/2/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4afaa2df7f942ce06f3a8c2964e67b10]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2862/schedule/1) para. (a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 403(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/403/2/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-2cc929819c1b1247e6acba3b5417decc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2862/schedule/1) para. (a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 403(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/403/2/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2cc929819c1b1247e6acba3b5417decc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2862/schedule/1) para. (a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 403(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/403/2/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-507bf4d5351b851b35b1e5de9a3ae624]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2862/schedule/1) para. (a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 403(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/403/2/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-507bf4d5351b851b35b1e5de9a3ae624]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2862/schedule/1) para. (a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 403(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/403/2/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ee0882ded6ee0ee967000458e90973b1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2862/schedule/1) para. (b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 403(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/403/3/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ee0882ded6ee0ee967000458e90973b1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2862/schedule/1) para. (b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 403(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/403/3/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-cee4051ad302e356a602c896dfa00f2b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2862/schedule/1) para. (b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 403(3)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/403/3/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-cee4051ad302e356a602c896dfa00f2b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2862/schedule/1) para. (b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 403(3)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/403/3/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-358f392ad721c42928a6cd3f2eee049c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2862/schedule/1) para. (b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 403(3)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/403/3/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-358f392ad721c42928a6cd3f2eee049c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2862/schedule/1) para. (b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 403(3)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/403/3/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00009]: Footnote: [1991 c. 53](https://www.legislation.gov.uk/ukpga/1991/53). Part 2 was repealed, with savings (as to which see paragraph 19 of Schedule 2 to the Criminal Justice Act 2003 (Commencement No. 8 and Transitional and Savings Provisions) Order 2005 ([S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950))), by sections 303(a) and 332 of, and Part 7 of Schedule 37 to, the 2003 Act.
 
@@ -656,13 +656,13 @@ A full impact assessment has not been made for this instrument as it has no impa
 
 [^f00015]: Footnote: [1993 c. 9](https://www.legislation.gov.uk/ukpga/1993/9). Section 1 was amended by paragraph 98 of Schedule 8 to the Crime and Disorder Act 1998, by section 1(2) of the Convention Rights (Compliance) (Scotland) Act [2001 (asp 7)](https://www.legislation.gov.uk/asp/2001/7) and by section 15(2) of MOSA. Section 1AA was inserted by section 15(3) of MOSA.
 
-[^key-415c32eb58a7205d46170307987e40bf]: Commencement: Sch. 2 para. 1 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-415c32eb58a7205d46170307987e40bf]: Commencement: Sch. 2 para. 1 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-10f3a08ac4273a8467ca7a9923c149a1]: Commencement: Sch. 2 para. 2 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-10f3a08ac4273a8467ca7a9923c149a1]: Commencement: Sch. 2 para. 2 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-3d316de9ad5bf5c567420d78b46a6785]: Commencement: Sch. 2 para. 3 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-3d316de9ad5bf5c567420d78b46a6785]: Commencement: Sch. 2 para. 3 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-a2d2cc898e5cdd46dc181f91a48cffb1]: Commencement: Sch. 2 para. 4 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-a2d2cc898e5cdd46dc181f91a48cffb1]: Commencement: Sch. 2 para. 4 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
 [^f00016]: Footnote: Paragraphs (a) and (b) of subsection (1) were repealed by [S.I. 2002/1860](https://www.legislation.gov.uk/uksi/2002/1860), articles 11(1) and 15, Schedule 3, paragraphs 1 and 2(a)(i) and Schedule 6 and paragraph (c) (i) and (ii) was inserted by article 11(1), Schedule 3, paragraphs 1 and 2(a) (ii). ‘Caravans’ was inserted by the Housing Act [2004 (c.34)](https://www.legislation.gov.uk/ukpga/2004/34), section 224(1) and (2).
 
@@ -672,16 +672,16 @@ A full impact assessment has not been made for this instrument as it has no impa
 
 [^f00019]: Footnote: Section 22A was inserted by [S.I. 2002/1860](https://www.legislation.gov.uk/uksi/2002/1860), article 11(1), Schedule 3, paragraphs 1 and 6 and subsection (3) was amended by the Housing Act 2004, section 224.
 
-[^key-f6ac2c47950907f1e60440707582e12b]: Commencement: Sch. 2 para. 5 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-f6ac2c47950907f1e60440707582e12b]: Commencement: Sch. 2 para. 5 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-1fd87c3898cf486801d11967bf492574]: Commencement: Sch. 2 para. 6 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-1fd87c3898cf486801d11967bf492574]: Commencement: Sch. 2 para. 6 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-b903ffb1d6f15bd38a50a3aadf913e7a]: Commencement: Sch. 2 para. 7 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-b903ffb1d6f15bd38a50a3aadf913e7a]: Commencement: Sch. 2 para. 7 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-1794d2707a9745709a539d387f98fef5]: Commencement: Sch. 2 para. 8 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-1794d2707a9745709a539d387f98fef5]: Commencement: Sch. 2 para. 8 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-19644ee544d171bda485ca564733cd45]: Commencement: Sch. 2 para. 9 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-19644ee544d171bda485ca564733cd45]: Commencement: Sch. 2 para. 9 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-cbfc8b0e53459476a8ec20b2df92d8b8]: Commencement: Sch. 2 para. 10 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-cbfc8b0e53459476a8ec20b2df92d8b8]: Commencement: Sch. 2 para. 10 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
 
-[^key-feca14dc3d56ad8477f3d6260357d5d2]: Commencement: Sch. 2 para. 11 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)
+[^c-feca14dc3d56ad8477f3d6260357d5d2]: Commencement: Sch. 2 para. 11 in force at 13.12.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2862/regulation/1/2)

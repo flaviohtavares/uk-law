@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Power to require name and address[^key-105371883fd4d94f5c6590c87d965987]
+## 45. Power to require name and address[^c-105371883fd4d94f5c6590c87d965987]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-105371883fd4d94f5c6590c87d965987]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2011/23/section/45) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-105371883fd4d94f5c6590c87d965987]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2011/23/section/45) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

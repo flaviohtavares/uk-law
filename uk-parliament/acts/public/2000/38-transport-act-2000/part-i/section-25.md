@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Power to obtain information[^key-83550618f1d8407edbac4d81038d36e3]
+## 25. Power to obtain information[^c-83550618f1d8407edbac4d81038d36e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Schedule C1 makes provision—
 
 ## Annotations
 
-[^key-83550618f1d8407edbac4d81038d36e3]: Textual amendment: S. 25 substituted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2021/12/section/10/4), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)
+[^c-83550618f1d8407edbac4d81038d36e3]: Textual amendment: S. 25 substituted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2021/12/section/10/4), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)

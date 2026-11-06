@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 195. Transfer and disposal of institution’s books, papers and other records[^key-4aef96dc390f0b8cdca47102ceec20cb]
+## 195. Transfer and disposal of institution’s books, papers and other records[^c-4aef96dc390f0b8cdca47102ceec20cb]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4aef96dc390f0b8cdca47102ceec20cb]: Commencement: Rule 195 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-4aef96dc390f0b8cdca47102ceec20cb]: Commencement: Rule 195 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

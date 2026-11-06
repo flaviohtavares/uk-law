@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Application for order in relation to bodies retained in premises[^key-2c21209b9f28d5a6c5e18954bc17431a]
+## 92. Application for order in relation to bodies retained in premises[^c-2c21209b9f28d5a6c5e18954bc17431a]
 
 *Extent: S*
 
 (1) This section applies where—
 
 - (a) the body of a person is being retained in premises;
-- (b) the local authority in whose area the premises are—[^key-1a5e7f19c82bf55da81acf36c5e15333]
+- (b) the local authority in whose area the premises are—[^c-1a5e7f19c82bf55da81acf36c5e15333]
   - (i) is satisfied that no arrangements have been or are being made under section 65(2) or 66(2) of the Burial and Cremation (Scotland) Act 2016 for disposal of the body; or
-  - (ii) considers that appropriate arrangements have not otherwise[^key-48b324d79014db6a1f9391404c72bf83] been made for the disposal of the body; and
+  - (ii) considers that appropriate arrangements have not otherwise[^c-48b324d79014db6a1f9391404c72bf83] been made for the disposal of the body; and
 - (c) that authority is satisfied that, as a result—
   - (i) there is a significant risk to public health; and
   - (ii) it is necessary, to avoid or minimise that risk, for the body to be appropriately disposed of.
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2c21209b9f28d5a6c5e18954bc17431a]: Commencement: S. 92 in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-2c21209b9f28d5a6c5e18954bc17431a]: Commencement: S. 92 in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
-[^key-1a5e7f19c82bf55da81acf36c5e15333]: Textual amendment: S. 92(1)(b)(i) and sub-para reference (ii) inserted (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 1 para. 2(a)](https://www.legislation.gov.uk/asp/2016/20/schedule/1/paragraph/2/a) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-1a5e7f19c82bf55da81acf36c5e15333]: Textual amendment: S. 92(1)(b)(i) and sub-para reference (ii) inserted (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 1 para. 2(a)](https://www.legislation.gov.uk/asp/2016/20/schedule/1/paragraph/2/a) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
 
-[^key-48b324d79014db6a1f9391404c72bf83]: Textual amendment: Word in s. 92(1)(b) inserted (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 1 para. 2(b)](https://www.legislation.gov.uk/asp/2016/20/schedule/1/paragraph/2/b) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-48b324d79014db6a1f9391404c72bf83]: Textual amendment: Word in s. 92(1)(b) inserted (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 1 para. 2(b)](https://www.legislation.gov.uk/asp/2016/20/schedule/1/paragraph/2/b) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

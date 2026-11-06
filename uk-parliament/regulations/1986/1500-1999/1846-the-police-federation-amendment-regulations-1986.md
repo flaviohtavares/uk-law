@@ -31,7 +31,7 @@ summary: ''
 
 POLICE
 
-The Police Federation (Amendment) Regulations 1986 (revoked)[^key-fb698caecc7e65290fd0a7fa197fbf12]
+The Police Federation (Amendment) Regulations 1986 (revoked)[^c-fb698caecc7e65290fd0a7fa197fbf12]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into Operation
 
 1st December 1986
 
-[^key-fb698caecc7e65290fd0a7fa197fbf12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb698caecc7e65290fd0a7fa197fbf12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fb698caecc7e65290fd0a7fa197fbf12]
+## 1. Citation and commencement[^c-fb698caecc7e65290fd0a7fa197fbf12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fb698caecc7e65290fd0a7fa197fbf12]
+## 2. Interpretation[^c-fb698caecc7e65290fd0a7fa197fbf12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Elections to and removal from branch boards[^key-fb698caecc7e65290fd0a7fa197fbf12]
+## 3. Elections to and removal from branch boards[^c-fb698caecc7e65290fd0a7fa197fbf12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Removal from liaison committees[^key-fb698caecc7e65290fd0a7fa197fbf12]
+## 4. Removal from liaison committees[^c-fb698caecc7e65290fd0a7fa197fbf12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Elections to and removal from conferences arrangements committee[^key-fb698caecc7e65290fd0a7fa197fbf12]
+## 5. Elections to and removal from conferences arrangements committee[^c-fb698caecc7e65290fd0a7fa197fbf12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Elections to and removal from central committees[^key-fb698caecc7e65290fd0a7fa197fbf12]
+## 6. Elections to and removal from central committees[^c-fb698caecc7e65290fd0a7fa197fbf12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Procedure for removal from office[^key-fb698caecc7e65290fd0a7fa197fbf12]
+## 7. Procedure for removal from office[^c-fb698caecc7e65290fd0a7fa197fbf12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb698caecc7e65290fd0a7fa197fbf12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb698caecc7e65290fd0a7fa197fbf12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fb698caecc7e65290fd0a7fa197fbf12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb698caecc7e65290fd0a7fa197fbf12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb698caecc7e65290fd0a7fa197fbf12]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1986/1846) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+[^c-fb698caecc7e65290fd0a7fa197fbf12]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1986/1846) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))

@@ -74,18 +74,18 @@ In accordance with section 5(1) of that Act, a draft of this instrument was laid
 - “**extended family member**” has the meaning given in regulation 8 of the EEA Regulations;
 - “**family member**” has the meaning given in regulation 7 of the EEA Regulations;
 - “**highly skilled person**” has the meaning given in regulation3;
-- “**immigration rules**” means the rules laid down as mentioned in section 3(2) of the 1971 Act applying (except for in the definition of “relevant requirements”) —[^key-eff687a2a34cd2e45861749038e0a0db]
+- “**immigration rules**” means the rules laid down as mentioned in section 3(2) of the 1971 Act applying (except for in the definition of “relevant requirements”) —[^c-eff687a2a34cd2e45861749038e0a0db]
   - (a) for the purposes of regulation 3(1)(a) (highly skilled person: Tier 1 (Exceptional Talent) migrant), on 6th November 2014; and
   - (b) for all other purposes, on 1st July 2013[^c2251309];
 - “**Points-Based System**” means the system established under Part 6A of the immigration rules;
 - “**relevant requirements**” means, in relation to an authorised category of employment, the requirements which, subject to any necessary modifications, a person in that category of employment was obliged to meet under the immigration rules in force on 9th December 2011 in order to obtain entry clearance or leave to enter or remain in the United Kingdom and which are set out in the relevant statement;
-- “[^key-a1d00235c3b7336bc159b51c472dba8e] **relevant statement** ” means the statement entitled “the Statement of relevant requirements” dated March 2015[^key-81512a44f6d51a183d4969a371680ddf] and published by the Secretary of State [^c2251310] ;
+- “[^c-a1d00235c3b7336bc159b51c472dba8e] **relevant statement** ” means the statement entitled “the Statement of relevant requirements” dated March 2015[^c-81512a44f6d51a183d4969a371680ddf] and published by the Secretary of State [^c2251310] ;
 - “right to reside” shall be interpreted in accordance with the EEA Regulations and “**entitled to reside**” and “**right of residence**” shall be construed accordingly;
 - “**sponsor**” means the holder of a sponsor licence [^c2251311];
 - “**sponsor licence**” has the meaning given in paragraph 6 of the immigration rules;
 - “**spouse**” does not include a party to a marriage of convenience;
 - “**student**” has the meaning given in regulation 4(1)(d) of the EEA Regulations;
-- “Student Union Sabbatical Officer” and “National Union of Students (NUS) position” have the same meaning as in paragraph 245ZW of the immigration rules;[^key-b268901ab0a5807a8688da535e05b453]
+- “Student Union Sabbatical Officer” and “National Union of Students (NUS) position” have the same meaning as in paragraph 245ZW of the immigration rules;[^c-b268901ab0a5807a8688da535e05b453]
 - “**Tier 2**” and “**Tier 5**” shall be construed in accordance in paragraph 6 of the immigration rules, except that the reference to the grant of leave is to be read as including a reference to the issuing of a worker authorisation registration certificate;
 - “**unmarried or same sex partner**” means a person who is in a durable relationship with another person;
 - “**work**” and “**working**” shall be construed in accordance with the meaning of “worker”[^c2251312]; and
@@ -97,7 +97,7 @@ In accordance with section 5(1) of that Act, a draft of this instrument was laid
 
 (1) Subject to the following paragraphs of this regulation, other than where these Regulations expressly refer to an accession State national subject to worker authorisation within the meaning of regulation 2 of the EU2 Regulations, in these Regulations “**accession State national subject to worker authorisation**” means a Croatian national.
 
-(2) A Croatian national is not an accession State national subject to worker authorisation if, on 30th June 2013, he had leave to enter or remain in the United Kingdom under the 1971 Act that was not subject to any condition restricting his employment (other than a condition restricting his employment as a doctor in training or as a dentist in training or as a professional sportsperson (including as a sports coach))[^key-a5306f3e03939e5c8a96b454527fa784], or he is given such leave after that date.
+(2) A Croatian national is not an accession State national subject to worker authorisation if, on 30th June 2013, he had leave to enter or remain in the United Kingdom under the 1971 Act that was not subject to any condition restricting his employment (other than a condition restricting his employment as a doctor in training or as a dentist in training or as a professional sportsperson (including as a sports coach))[^c-a5306f3e03939e5c8a96b454527fa784], or he is given such leave after that date.
 
 (3) A Croatian national is not an accession State national subject to worker authorisation if he was legally working in the United Kingdom on 30th June 2013 and had been legally working in the United Kingdom without interruption throughout the preceding period of 12 months ending on that date.
 
@@ -155,8 +155,8 @@ In accordance with section 5(1) of that Act, a draft of this instrument was laid
 
 (17) The condition referred to in paragraph (16)(a) is that the student shall not work for more than 20 hours a week unless—
 
-- (a) he is following a course of vocational training and is working as part of that training; [^key-be536b7308f8821cff913884236d1159]...
-- (b) he is working during his vacation; or[^key-08518fcd6472b49aeef13ec0735fbed9]
+- (a) he is following a course of vocational training and is working as part of that training; [^c-be536b7308f8821cff913884236d1159]...
+- (b) he is working during his vacation; or[^c-08518fcd6472b49aeef13ec0735fbed9]
 - (c) he works for no more than 2 years as a Student Union Sabbatical Officer, provided the appointment to the post is by election and the post is—
   - (i) either at the institution at which the Croatian national is enrolled as a student; or
   - (ii) a national National Union of Students (NUS) position
@@ -189,7 +189,7 @@ In accordance with section 5(1) of that Act, a draft of this instrument was laid
 
 Pursuant to Annex V of the treaty concerning the accession of the Republic of Croatia to the European Union, signed at Brussels on 9 December 2011, Regulations 5 and 7 to 10 derogate during the accession period from Article 45 of the Treaty on the Functioning of the European Union, Articles 1 to 6 of Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612) of the Council of 15 October 1968 on freedom of movement for workers within the Community [^c2251316] and Directive [2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038) of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the member States, amending Regulation [(EEC) No. 1612/68](https://www.legislation.gov.uk/european/regulation/1968/1612), and repealing Directives [64/221/EEC](https://www.legislation.gov.uk/european/directive/1964/0221), [68/360/EEC](https://www.legislation.gov.uk/european/directive/1968/0360), [72/194/EEC](https://www.legislation.gov.uk/european/directive/1972/0194), [73/148/EEC](https://www.legislation.gov.uk/european/directive/1973/0148), [75/34/EEC](https://www.legislation.gov.uk/european/directive/1975/0034), [75/35/EEC](https://www.legislation.gov.uk/european/directive/1975/0035), [90/364/EEC](https://www.legislation.gov.uk/european/directive/1990/0364), [90/365/EEC](https://www.legislation.gov.uk/european/directive/1990/0365) and [93/96/EEC](https://www.legislation.gov.uk/european/directive/1993/0096) [^c2251317].
 
-### 5. Right of residence of an accession State national subject to worker authorisation[^key-f5c3ee99efb9091154103d8ba9aa37b0]
+### 5. Right of residence of an accession State national subject to worker authorisation[^c-f5c3ee99efb9091154103d8ba9aa37b0]
 
 During the accession period, an accession State national subject to worker authorisation who is seeking employment in the United Kingdom shall not be treated as a jobseeker and shall be treated as a worker only in so far as it gives him a right to reside and only during a period in which he holds an accession worker authorisation document and is working in accordance with the conditions set out in that document.
 
@@ -219,7 +219,7 @@ During the accession period, an accession State national subject to worker autho
 > - (c) a student; or
 > - (d) a highly skilled person who is seeking employment or is employed in the United Kingdom.
 >
-> (1B)[^key-178e63d11a387f2f0b6676f895c1b0ca] In regulation 14(2), regulation 16(3) and (5) and regulation 17(1) and (4) a “qualified person” includes an accession State national subject to worker authorisation within the meaning of regulation 2 of the Croatian Regulations where that accession State national subject to worker authorisation has a right to reside.
+> (1B)[^c-178e63d11a387f2f0b6676f895c1b0ca] In regulation 14(2), regulation 16(3) and (5) and regulation 17(1) and (4) a “qualified person” includes an accession State national subject to worker authorisation within the meaning of regulation 2 of the Croatian Regulations where that accession State national subject to worker authorisation has a right to reside.
 >
 > (1C) In these Regulations—
 >
@@ -237,9 +237,9 @@ During the accession period, an accession State national subject to worker autho
 
 (5) An EEA registration certificate issued to a Croatian national who is a student during the accession period shall include a statement that the holder of the certificate is a student who may work in the United Kingdom whilst a student in accordance with the condition set out in paragraph (17) of regulation 2 and who, on ceasing to be a student, may work during the period referred to in paragraph (18) of regulation 2, unless it includes a statement under paragraph (2) or (4) that the holder has unconditional access to the United Kingdom labour market.
 
-(6) Where under paragraph (5) of regulation 16 of the EEA Regulations an EEA registration certificate is issued to a Croatian national extended family member, with the exception of an extended family member who is an unmarried partner (including a same sex partner),[^key-19b75ae6887b62949a844de7b9a4420a] of an accession State national subject to worker authorisation, the certificate must include a statement that the certificate does not confer a permission to work.
+(6) Where under paragraph (5) of regulation 16 of the EEA Regulations an EEA registration certificate is issued to a Croatian national extended family member, with the exception of an extended family member who is an unmarried partner (including a same sex partner),[^c-19b75ae6887b62949a844de7b9a4420a] of an accession State national subject to worker authorisation, the certificate must include a statement that the certificate does not confer a permission to work.
 
-(7)[^key-8b106226304d9c933840839d254db32d] Where under paragraph (1) or (4) of regulation 17 of the EEA Regulations a residence card is issued to a family member or an extended family member of an accession State national subject to worker authorisation—
+(7)[^c-8b106226304d9c933840839d254db32d] Where under paragraph (1) or (4) of regulation 17 of the EEA Regulations a residence card is issued to a family member or an extended family member of an accession State national subject to worker authorisation—
 
 - (a) paragraph (6) of regulation 17 of the EEA Regulations shall not apply;
 - (b) the duration of that card shall be twelve months from the date of issue; and
@@ -636,29 +636,29 @@ An Impact Assessment in respect of the Government's decision to apply transition
 
 [^c2251308]: Marginal citation: [S.I. 2006/3317](https://www.legislation.gov.uk/uksi/2006/3317), amended by [S.I. 2007/475](https://www.legislation.gov.uk/uksi/2007/475), 3012, 3224, 2009/2426, 2748, 2010/1836, 2011/2816 and 2012/1809.
 
-[^key-eff687a2a34cd2e45861749038e0a0db]: Textual amendment: Words in reg. 1(2) substituted (6.4.2015) by [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/1/a)
+[^c-eff687a2a34cd2e45861749038e0a0db]: Textual amendment: Words in reg. 1(2) substituted (6.4.2015) by [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/1/a)
 
 [^c2251309]: Marginal citation: Immigration rules H.C. 395, laid before Parliament on 23 May 1994 (as amended).
 
-[^key-a1d00235c3b7336bc159b51c472dba8e]: Textual amendment: Words in reg. 1(2) substituted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/2)
+[^c-a1d00235c3b7336bc159b51c472dba8e]: Textual amendment: Words in reg. 1(2) substituted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/2)
 
-[^key-81512a44f6d51a183d4969a371680ddf]: Textual amendment: Words in reg. 1(2) substituted (6.4.2015) by [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/1/b)
+[^c-81512a44f6d51a183d4969a371680ddf]: Textual amendment: Words in reg. 1(2) substituted (6.4.2015) by [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/1/b)
 
 [^c2251310]: Marginal citation: The relevant statement is published by the Home Office at: http://www.ukba.homeoffice.gov.uk/ and copies can be obtained through the Direct Communications Unit, Home Office, 2 Marsham Street, London, SW1P 4DF (email: public.enquiries@homeoffice.gsi.gov.uk).
 
 [^c2251311]: Marginal citation: The requirements for the issuance of a licence to a sponsor for the purposes of Part 6A of the immigration rules are published by the Home Office at: http://www.ukba.homeoffice.gov.uk/sitecontent/documents/employersandsponsors/pbsguidance/
 
-[^key-b268901ab0a5807a8688da535e05b453]: Textual amendment: Words in reg. 1(2) inserted (6.4.2015) by [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/1/c)
+[^c-b268901ab0a5807a8688da535e05b453]: Textual amendment: Words in reg. 1(2) inserted (6.4.2015) by [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/1/c)
 
 [^c2251312]: Marginal citation: See section 4(11) of the European Union (Croatian Accession and Irish Protocol) Act 2013.
 
-[^key-a5306f3e03939e5c8a96b454527fa784]: Textual amendment: Words in reg. 2(2) inserted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/3)
+[^c-a5306f3e03939e5c8a96b454527fa784]: Textual amendment: Words in reg. 2(2) inserted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/3)
 
 [^c2251313]: Marginal citation: Section 33(2A) was inserted by section 39(6) of, and Schedule 4 to, to the [British Nationality Act 1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-be536b7308f8821cff913884236d1159]: Textual amendment: Word in reg. 2(17) omitted (6.4.2015) by virtue of [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/2/a)
+[^c-be536b7308f8821cff913884236d1159]: Textual amendment: Word in reg. 2(17) omitted (6.4.2015) by virtue of [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/2/a)
 
-[^key-08518fcd6472b49aeef13ec0735fbed9]: Textual amendment: Words in reg. 2(17) inserted (6.4.2015) by [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/2/b)
+[^c-08518fcd6472b49aeef13ec0735fbed9]: Textual amendment: Words in reg. 2(17) inserted (6.4.2015) by [The Immigration (European Economic Area) (Amendment) Regulations 2015 (S.I. 2015/694)](https://www.legislation.gov.uk/uksi/2015/694), [reg. 2](https://www.legislation.gov.uk/uksi/2015/694/regulation/2), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/694/schedule/2/paragraph/2/b)
 
 [^c2251314]: Marginal citation: O.J. L 018, 21.1.1997, p.1
 
@@ -668,7 +668,7 @@ An Impact Assessment in respect of the Government's decision to apply transition
 
 [^c2251317]: Marginal citation: O J L 158, 30.4.2004, p.77.
 
-[^key-f5c3ee99efb9091154103d8ba9aa37b0]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1460/regulation/5) substituted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/4)
+[^c-f5c3ee99efb9091154103d8ba9aa37b0]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1460/regulation/5) substituted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/4)
 
 [^c2251318]: Marginal citation: [Paragraphs 8 to 10](https://www.legislation.gov.uk/uksi/2013/1460/paragraph/8) have been amended by section 10 of, and the Schedule to, the [Immigration Act 1988 (c.14)](https://www.legislation.gov.uk/ukpga/1988/14), [section 12](https://www.legislation.gov.uk/ukpga/1988/14/section/12) of, and Schedule 2 to, the [Asylum and Immigration Act 1996 (c. 49)](https://www.legislation.gov.uk/ukpga/1996/49) and section 114 of, and Schedule 7 to, the Nationality, Immigration and Asylum Act 2002; [paragraph 10A](https://www.legislation.gov.uk/uksi/2013/1460/paragraph/10A) was inserted by section 73 of the 2002 Act.
 
@@ -678,11 +678,11 @@ An Impact Assessment in respect of the Government's decision to apply transition
 
 [^c2251321]: Marginal citation: [2002 c.41](https://www.legislation.gov.uk/ukpga/2002/41).
 
-[^key-178e63d11a387f2f0b6676f895c1b0ca]: Textual amendment: Words in reg. 7(1) substituted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/5/a)
+[^c-178e63d11a387f2f0b6676f895c1b0ca]: Textual amendment: Words in reg. 7(1) substituted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/5/a)
 
-[^key-19b75ae6887b62949a844de7b9a4420a]: Textual amendment: Words in reg. 7(6) inserted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/5/b)
+[^c-19b75ae6887b62949a844de7b9a4420a]: Textual amendment: Words in reg. 7(6) inserted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/5/b)
 
-[^key-8b106226304d9c933840839d254db32d]: Textual amendment: Reg. 7(7) inserted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/5/c)
+[^c-8b106226304d9c933840839d254db32d]: Textual amendment: Reg. 7(7) inserted (6.4.2014) by [The Accession of Croatia (Immigration and Worker Authorisation) (Amendment) Regulations 2014 (S.I. 2014/530)](https://www.legislation.gov.uk/uksi/2014/530), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/530/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2014/530/regulation/2/5/c)
 
 [^c2251322]: Marginal citation: The relevant statement is published by the Home Office at: http://www.ukba.homeoffice.gov.uk/ and copies can be obtained through the Direct Communications Unit, Home Office, 2 Marsham Street, London, SW1P 4DF (email: public.enquiries@homeoffice.gsi.gov.uk).
 

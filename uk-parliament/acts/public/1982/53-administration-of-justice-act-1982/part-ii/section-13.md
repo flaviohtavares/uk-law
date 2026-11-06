@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this Part of this Act, unless the context otherwise requires—
 
-- “[^key-fbadc2f9fe2f95e6a43eee6a31fe8e46]**personal injuries**” means––
+- “[^c-fbadc2f9fe2f95e6a43eee6a31fe8e46]**personal injuries**” means––
   - (a) any disease, and
   - (b) any impairment of a person's physical or mental condition;
 - “**relative**”, in relation to the injured person, means—
@@ -45,7 +45,7 @@ In deducing any relationship for the purposes of the foregoing definition—
 
 ## Annotations
 
-[^key-fbadc2f9fe2f95e6a43eee6a31fe8e46]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukpga/1982/53/section/13/1) substituted (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [sch. 1 para. 3](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/3) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-fbadc2f9fe2f95e6a43eee6a31fe8e46]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukpga/1982/53/section/13/1) substituted (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [sch. 1 para. 3](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/3) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
 [^c20820941]: Textual amendment: S. 13(1): para. (aa) in definition of 'relative' inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/2), [263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 47](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/47); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c)
 

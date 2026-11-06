@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Promotion of educational achievement of children looked after by local authorities[^key-56e12fd529712b586de0170758b188ef]
+## 99. Promotion of educational achievement of children looked after by local authorities[^c-56e12fd529712b586de0170758b188ef]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In the Children Act 1989, in section 22 after subsection (3A) (duty of local aut
 
 ## Annotations
 
-[^key-56e12fd529712b586de0170758b188ef]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2014/6/section/99) in force at 13.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/889/article/5/e)
+[^c-56e12fd529712b586de0170758b188ef]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2014/6/section/99) in force at 13.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/889/article/5/e)

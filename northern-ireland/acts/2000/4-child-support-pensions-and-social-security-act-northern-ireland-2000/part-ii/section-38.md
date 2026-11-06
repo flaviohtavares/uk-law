@@ -35,7 +35,7 @@ summary: ''
 - (a) he is the trustee or manager of an occupational pension scheme of which the individual to whom the information relates is a member;
 - (b) he is the trustee or manager of a personal pension scheme of which that individual is a member;
 - (c) he is the employer in relation to an occupational pension scheme of which that individual is a member;
-- (d) he is the employer in relation to any employed earner's employment of that individual [^key-9b962b314fbb860ad855f29c4f8684d1]...; or
+- (d) he is the employer in relation to any employed earner's employment of that individual [^c-9b962b314fbb860ad855f29c4f8684d1]...; or
 - (e) he is proposing to provide services to that individual in circumstances in which the provision of the services, or the proposal to do so, may involve the giving of advice or forecasts to which the information to which this section applies may be relevant.
 
 (3A)[^c22780561] For the purposes of this section and of any regulations made under it, anything done by or in relation to a person who—
@@ -64,7 +64,7 @@ is treated as done by or in relation to the qualifying person.
 - (a) his date of birth, and the age at which and date on which he attains pensionable age—
   - (i) for the purposes of the Pension Schemes Act, in relation to any guaranteed minimum pension to which he is entitled; and
   - (ii) in accordance with the rules in paragraph 1 of Schedule 2 to the Pensions Order;
-- (aa)[^key-cd00e04f76ab5990de33cf6f409d13e6] the amount of any state pension under Part 1 of the Pensions Act (Northern Ireland) 2015 a present or future entitlement to which has already accrued to that individual;
+- (aa)[^c-cd00e04f76ab5990de33cf6f409d13e6] the amount of any state pension under Part 1 of the Pensions Act (Northern Ireland) 2015 a present or future entitlement to which has already accrued to that individual;
 - (ab) a projection of the amount of any state pension under Part 1 of the Pensions Act (Northern Ireland) 2015 to which that individual is likely to become entitled, or might become entitled in particular circumstances;
 - (b) the amount of any basic retirement pension a present or future entitlement to which has already accrued to that individual, and the amount of any additional retirement pension such an entitlement to which has already accrued to that individual;
 - (c) a projection of the amount of the basic retirement pension to which that individual is likely to become entitled, or might become entitled in particular circumstances;[^c17264691]. . .
@@ -81,12 +81,12 @@ is treated as done by or in relation to the qualifying person.
 
 - “[^c22780581]**additional retirement pension**” means any additional pension or shared additional pension under the Contributions and Benefits Act, or any graduated retirement benefit under sections 35 and 36 of the National Insurance Act (Northern Ireland) 1966;
 - “**basic retirement pension**” means any basic pension under the Contributions and Benefits Act;
-- [^key-12a3c1976d07833b7cc4bae839b4acd0]...
+- [^c-12a3c1976d07833b7cc4bae839b4acd0]...
 - employed earner has the same meaning as in Parts I to V of the Contributions and Benefits Act (by virtue of section 2(1) of that Act);
 - employer
   - (a) in relation to any occupational pension scheme, has the same meaning as in Part II of the Pensions Order; and
   - (b) in relation to employed earner's employment, has the same meaning as in the Pension Schemes Act;
-- lump sum means a lump sum under section 8 of the Pensions Act (Northern Ireland) 2015 or[^key-ccc722b6d13536f1c959b0363d7738aa] Schedule 5 or 5A to the Contributions and Benefits Act;
+- lump sum means a lump sum under section 8 of the Pensions Act (Northern Ireland) 2015 or[^c-ccc722b6d13536f1c959b0363d7738aa] Schedule 5 or 5A to the Contributions and Benefits Act;
 - member, in relation to an occupational pension scheme, has the same meaning as in Part II of the Pensions Order;
 - occupational pension scheme and personal pension scheme have the same meanings as in the Pension Schemes Act;
 - prescribed means prescribed by or determined in accordance with regulations;
@@ -99,18 +99,18 @@ is treated as done by or in relation to the qualifying person.
 
 [^c22780541]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-9b962b314fbb860ad855f29c4f8684d1]: Textual amendment: Words in [s. 38(3)(d)](https://www.legislation.gov.uk/nia/2000/4/section/38/3/d) omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 69(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/69/2)
+[^c-9b962b314fbb860ad855f29c4f8684d1]: Textual amendment: Words in [s. 38(3)(d)](https://www.legislation.gov.uk/nia/2000/4/section/38/3/d) omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 69(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/69/2)
 
 [^c22780561]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-cd00e04f76ab5990de33cf6f409d13e6]: Textual amendment: S. 38(7)(aa)-(ab) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 34(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/34/2)
+[^c-cd00e04f76ab5990de33cf6f409d13e6]: Textual amendment: S. 38(7)(aa)-(ab) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 34(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/34/2)
 
 [^c17264691]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 
 [^c22780581]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-12a3c1976d07833b7cc4bae839b4acd0]: Textual amendment: Words in [s. 38(11)](https://www.legislation.gov.uk/nia/2000/4/section/38/11) omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 69(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/69/3)
+[^c-12a3c1976d07833b7cc4bae839b4acd0]: Textual amendment: Words in [s. 38(11)](https://www.legislation.gov.uk/nia/2000/4/section/38/11) omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 69(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/69/3)
 
-[^key-ccc722b6d13536f1c959b0363d7738aa]: Textual amendment: Words in s. 38(11) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 34(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/34/3)
+[^c-ccc722b6d13536f1c959b0363d7738aa]: Textual amendment: Words in s. 38(11) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 34(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/34/3)
 
 [^c22780601]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)

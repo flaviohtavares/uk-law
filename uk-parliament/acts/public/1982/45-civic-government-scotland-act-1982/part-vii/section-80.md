@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Subject to subsection (2) below, this Part of this Act applies to all the property which is found in the possession of a person, or in his charge, at the time when he is taken into police custody, that is to say, when he is arrested by a constable[^key-6de8a2343aee43dd7bcbdba9af1f53e2].
+(1) Subject to subsection (2) below, this Part of this Act applies to all the property which is found in the possession of a person, or in his charge, at the time when he is taken into police custody, that is to say, when he is arrested by a constable[^c-6de8a2343aee43dd7bcbdba9af1f53e2].
 
 (2) This Part of this Act does not apply to—
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6de8a2343aee43dd7bcbdba9af1f53e2]: Textual amendment: Words in s. 80(1) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 7(d)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/7/d); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-6de8a2343aee43dd7bcbdba9af1f53e2]: Textual amendment: Words in s. 80(1) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 7(d)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/7/d); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
 [^c13375911]: Textual amendment: S. 80(2)(b) substituted (19.5.1997) by [1997 c. 30](https://www.legislation.gov.uk/ukpga/1997/30), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/1997/30/section/6/2), [7(2)](https://www.legislation.gov.uk/ukpga/1997/30/section/7/2)

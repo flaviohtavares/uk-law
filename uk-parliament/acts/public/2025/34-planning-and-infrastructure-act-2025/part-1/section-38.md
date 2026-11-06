@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Duty to hold inquiry or hearing[^key-aac4b846844428e06447843a6f4b21d3]
+## 38. Duty to hold inquiry or hearing[^c-aac4b846844428e06447843a6f4b21d3]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aac4b846844428e06447843a6f4b21d3]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2025/34/section/38) in force at 18.2.2026, see [s. 118(1)(v)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/v)
+[^c-aac4b846844428e06447843a6f4b21d3]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2025/34/section/38) in force at 18.2.2026, see [s. 118(1)(v)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/v)

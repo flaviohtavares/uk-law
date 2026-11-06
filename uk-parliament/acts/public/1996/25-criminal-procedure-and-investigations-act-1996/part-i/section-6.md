@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Voluntary disclosure by accused.[^key-8c1811d7ba0c092c4e68960ff664e626]
+## 6. Voluntary disclosure by accused.[^c-8c1811d7ba0c092c4e68960ff664e626]
 
 *Extent: E+W+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c1811d7ba0c092c4e68960ff664e626]: Modification: Pt. I power to apply (with modifications) conferred by SI 2015/1490 rule 23.2 Note (as inserted (2.4.2018) by [The Criminal Procedure (Amendment) Rules 2018 (S.I. 2018/132)](https://www.legislation.gov.uk/uksi/2018/132), [rules 1](https://www.legislation.gov.uk/uksi/2018/132/rule/1), [11(a)(v)](https://www.legislation.gov.uk/uksi/2018/132/rule/11/a/v))
+[^c-8c1811d7ba0c092c4e68960ff664e626]: Modification: Pt. I power to apply (with modifications) conferred by SI 2015/1490 rule 23.2 Note (as inserted (2.4.2018) by [The Criminal Procedure (Amendment) Rules 2018 (S.I. 2018/132)](https://www.legislation.gov.uk/uksi/2018/132), [rules 1](https://www.legislation.gov.uk/uksi/2018/132/rule/1), [11(a)(v)](https://www.legislation.gov.uk/uksi/2018/132/rule/11/a/v))
 
 [^c18984911]: Textual amendment: S. 6(3) repealed (4.4.2005 for E.W. and 15.7.2005 for N.I.) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 331](https://www.legislation.gov.uk/ukpga/2003/44/section/331), [332](https://www.legislation.gov.uk/ukpga/2003/44/section/332), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 36 Pt. 3 para. 24](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36/part/3/paragraph/24), [Sch. 37](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2](https://www.legislation.gov.uk/uksi/2005/950/article/2); [S.I. 2005/1817](https://www.legislation.gov.uk/uksi/2005/1817), [art. 2](https://www.legislation.gov.uk/uksi/2005/1817/article/2) (with savings in [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/1817/article/2/3))

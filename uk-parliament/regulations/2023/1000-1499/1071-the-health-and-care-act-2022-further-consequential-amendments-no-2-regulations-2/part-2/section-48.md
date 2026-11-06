@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Amendment of the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (English language text)[^key-a883130fb3478885606110c0436d9ef7]
+## 48. Amendment of the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (English language text)[^c-a883130fb3478885606110c0436d9ef7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a883130fb3478885606110c0436d9ef7]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2023/1071/regulation/48) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-a883130fb3478885606110c0436d9ef7]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2023/1071/regulation/48) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00039]: Footnote: [S.I. 2011/704 (W. 108)](https://www.legislation.gov.uk/wsi/2011/704), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.

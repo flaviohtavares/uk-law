@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20B. Interest rate not to exceed prevailing market rate[^key-a170a2013cf50da362356f33ef8f4400]
+## 20B. Interest rate not to exceed prevailing market rate[^c-a170a2013cf50da362356f33ef8f4400]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a170a2013cf50da362356f33ef8f4400]: Textual amendment: [Reg. 20B](https://www.legislation.gov.uk/uksi/2009/470/regulation/20B) omitted (1.12.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 3) Regulations 2023 (S.I. 2023/1184)](https://www.legislation.gov.uk/uksi/2023/1184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1184/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2023/1184/regulation/2/a)
+[^c-a170a2013cf50da362356f33ef8f4400]: Textual amendment: [Reg. 20B](https://www.legislation.gov.uk/uksi/2009/470/regulation/20B) omitted (1.12.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 3) Regulations 2023 (S.I. 2023/1184)](https://www.legislation.gov.uk/uksi/2023/1184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1184/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2023/1184/regulation/2/a)

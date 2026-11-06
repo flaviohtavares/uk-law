@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Documentation to be provided by operators[^key-8e1f0a4ddd6078b28036c7a482cb0534]
+## 17. Documentation to be provided by operators[^c-8e1f0a4ddd6078b28036c7a482cb0534]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e1f0a4ddd6078b28036c7a482cb0534]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/1997/474/regulation/17) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-8e1f0a4ddd6078b28036c7a482cb0534]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/1997/474/regulation/17) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

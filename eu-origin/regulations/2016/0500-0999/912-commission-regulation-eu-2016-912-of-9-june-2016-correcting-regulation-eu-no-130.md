@@ -35,14 +35,14 @@ correcting Regulation (EU) No 1303/2014 concerning the technical specification f
 
 (Text with EEA relevance) (revoked)
 
-[^key-d84df788c84b91472b2680943fa3fb3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d84df788c84b91472b2680943fa3fb3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d84df788c84b91472b2680943fa3fb3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d84df788c84b91472b2680943fa3fb3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d84df788c84b91472b2680943fa3fb3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d84df788c84b91472b2680943fa3fb3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d84df788c84b91472b2680943fa3fb3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d84df788c84b91472b2680943fa3fb3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d84df788c84b91472b2680943fa3fb3f]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-d84df788c84b91472b2680943fa3fb3f]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261F. Deemed manufactured payments: effect on repurchase price[^key-e08efa395b8032427391fc686fe39626]
+## 261F. Deemed manufactured payments: effect on repurchase price[^c-e08efa395b8032427391fc686fe39626]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e08efa395b8032427391fc686fe39626]: Textual amendment: S. 261F and cross-heading inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 330](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/330) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-e08efa395b8032427391fc686fe39626]: Textual amendment: S. 261F and cross-heading inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 330](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/330) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

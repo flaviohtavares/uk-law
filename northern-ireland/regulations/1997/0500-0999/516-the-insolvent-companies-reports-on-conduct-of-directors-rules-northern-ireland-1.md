@@ -30,7 +30,7 @@ summary: ''
 
 INSOLVENCY
 
-The Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 1997 (revoked)[^key-b315d7154542ecf57f9d29ebc63235be]
+The Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 1997 (revoked)[^c-b315d7154542ecf57f9d29ebc63235be]
 
 Made
 
@@ -42,47 +42,47 @@ Coming into operation
 
 1st January 1998
 
-[^key-b315d7154542ecf57f9d29ebc63235be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b315d7154542ecf57f9d29ebc63235be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b315d7154542ecf57f9d29ebc63235be]
+## 1. Citation and commencement[^c-b315d7154542ecf57f9d29ebc63235be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b315d7154542ecf57f9d29ebc63235be]
+## 2. Interpretation[^c-b315d7154542ecf57f9d29ebc63235be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-b315d7154542ecf57f9d29ebc63235be]
+## 3. Revocation[^c-b315d7154542ecf57f9d29ebc63235be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Reports required under Article 10(3)[^key-b315d7154542ecf57f9d29ebc63235be]
+## 4. Reports required under Article 10(3)[^c-b315d7154542ecf57f9d29ebc63235be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Return by the office-holder[^key-b315d7154542ecf57f9d29ebc63235be]
+## 5. Return by the office-holder[^c-b315d7154542ecf57f9d29ebc63235be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Forms[^key-b315d7154542ecf57f9d29ebc63235be]
+## 6. Forms[^c-b315d7154542ecf57f9d29ebc63235be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement of Article 10(4)[^key-b315d7154542ecf57f9d29ebc63235be]
+## 7. Enforcement of Article 10(4)[^c-b315d7154542ecf57f9d29ebc63235be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transitional and saving provisions[^key-b315d7154542ecf57f9d29ebc63235be]
+## 8. Transitional and saving provisions[^c-b315d7154542ecf57f9d29ebc63235be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b315d7154542ecf57f9d29ebc63235be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b315d7154542ecf57f9d29ebc63235be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-b315d7154542ecf57f9d29ebc63235be]
+## SCHEDULE[^c-b315d7154542ecf57f9d29ebc63235be]
 
 Rules 4(2) and 5(3)
 
@@ -90,8 +90,8 @@ Rules 4(2) and 5(3)
 
 **May not be in force at this date. Check the source.**
 
-[^key-b315d7154542ecf57f9d29ebc63235be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b315d7154542ecf57f9d29ebc63235be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b315d7154542ecf57f9d29ebc63235be]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/1997/516) revoked (5.9.2003) by [The Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 2003 (S.R. 2003/357)](https://www.legislation.gov.uk/nisr/2003/357), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2), [3](https://www.legislation.gov.uk/nisr/2003/357/article/3) (with [art. 8](https://www.legislation.gov.uk/nisr/2003/357/article/8))
+[^c-b315d7154542ecf57f9d29ebc63235be]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/1997/516) revoked (5.9.2003) by [The Insolvent Companies (Reports on Conduct of Directors) Rules (Northern Ireland) 2003 (S.R. 2003/357)](https://www.legislation.gov.uk/nisr/2003/357), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2003/357/article/1/2), [3](https://www.legislation.gov.uk/nisr/2003/357/article/3) (with [art. 8](https://www.legislation.gov.uk/nisr/2003/357/article/8))

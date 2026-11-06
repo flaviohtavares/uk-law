@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Supplementary powers in relation to documents[^key-b977db60722982c1a23936e59604516c][^key-ff2a2ba2a5367c7d984f6ef5dc865044]
+## 99. Supplementary powers in relation to documents[^c-b977db60722982c1a23936e59604516c][^c-ff2a2ba2a5367c7d984f6ef5dc865044]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b977db60722982c1a23936e59604516c]: Commencement: S. 99 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b977db60722982c1a23936e59604516c]: Commencement: S. 99 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-ff2a2ba2a5367c7d984f6ef5dc865044]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2025/36/section/99) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(7)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/7)
+[^c-ff2a2ba2a5367c7d984f6ef5dc865044]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2025/36/section/99) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(7)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/7)

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Provisions relating to Labelling) (Wales) Regulations 2004 (revoked)[^key-de935085f4e34386409a56b9c5af6648]
+The Food (Provisions relating to Labelling) (Wales) Regulations 2004 (revoked)[^c-de935085f4e34386409a56b9c5af6648]
 
 Made
 
@@ -39,48 +39,48 @@ Made
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-de935085f4e34386409a56b9c5af6648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de935085f4e34386409a56b9c5af6648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-de935085f4e34386409a56b9c5af6648]
+## 1. Title, application and commencement[^c-de935085f4e34386409a56b9c5af6648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-de935085f4e34386409a56b9c5af6648]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-de935085f4e34386409a56b9c5af6648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-de935085f4e34386409a56b9c5af6648]
+## 3.[^c-de935085f4e34386409a56b9c5af6648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-de935085f4e34386409a56b9c5af6648]
+## 4.[^c-de935085f4e34386409a56b9c5af6648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-de935085f4e34386409a56b9c5af6648]
+## 5.[^c-de935085f4e34386409a56b9c5af6648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-de935085f4e34386409a56b9c5af6648]
+## 6.[^c-de935085f4e34386409a56b9c5af6648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-de935085f4e34386409a56b9c5af6648]
+## 7.[^c-de935085f4e34386409a56b9c5af6648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Genetically Modified and Novel Foods (Labelling) (Wales) Regulations 2000[^key-de935085f4e34386409a56b9c5af6648]
+## 8. Amendment of the Genetically Modified and Novel Foods (Labelling) (Wales) Regulations 2000[^c-de935085f4e34386409a56b9c5af6648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de935085f4e34386409a56b9c5af6648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de935085f4e34386409a56b9c5af6648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-de935085f4e34386409a56b9c5af6648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de935085f4e34386409a56b9c5af6648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de935085f4e34386409a56b9c5af6648]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
+[^c-de935085f4e34386409a56b9c5af6648]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)

@@ -65,18 +65,18 @@ The 3400—3800 MHz Frequency Band (Management) Regulations 2008 [^c23149661] ar
 
 ## 4. Designation of the 1452-1492 MHz frequency band
 
-(1)[^key-ff4b256c42b164ac2d16a0e681acc8b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ff4b256c42b164ac2d16a0e681acc8b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) OFCOM must [^key-57160a6db977acdb6968001af178ca82]...—
+(2) OFCOM must [^c-57160a6db977acdb6968001af178ca82]...—
 
 - (a) designate and make available, on a non-exclusive basis, the 1452-1492 MHz frequency band for terrestrial systems capable of providing electronic communications services in compliance with the parameters set out in the Annex to Commission Implementing Decision (EU) 2015/750; and
 - (b) ensure that the terrestrial systems referred to in sub-paragraph (a) give appropriate protection to systems in adjacent frequency bands.
 
 ## 5. Designation of the 3400-3800 MHz frequency band
 
-(1)[^key-43a961e84d81f9927181cba368776391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-43a961e84d81f9927181cba368776391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) [^key-1f6ee339b7050f2013c50e0d82ef9a78]... OFCOM must, subject to paragraphs (3), (4) and (5), continue to designate and make available, on a non-exclusive basis, the 3400-3800 MHz frequency band for terrestrial electronic communications networks, in compliance with the parameters set out in the Annex to Commission Decision [2008/411/EC](https://www.legislation.gov.uk/european/decision/2008/0411).
+(2) [^c-1f6ee339b7050f2013c50e0d82ef9a78]... OFCOM must, subject to paragraphs (3), (4) and (5), continue to designate and make available, on a non-exclusive basis, the 3400-3800 MHz frequency band for terrestrial electronic communications networks, in compliance with the parameters set out in the Annex to Commission Decision [2008/411/EC](https://www.legislation.gov.uk/european/decision/2008/0411).
 
 (3) Paragraph (2) is without prejudice to the protection and continued operation of other existing use of the 3400-3800 MHz frequency band.
 
@@ -127,10 +127,10 @@ A Transposition Note has been produced for these Regulations and is published wi
 
 [^c23149661]: Marginal citation: [S.I. 2008/2794](https://www.legislation.gov.uk/uksi/2008/2794).
 
-[^key-ff4b256c42b164ac2d16a0e681acc8b7]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/495/regulation/4/1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff4b256c42b164ac2d16a0e681acc8b7]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/495/regulation/4/1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57160a6db977acdb6968001af178ca82]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/495/regulation/4/2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57160a6db977acdb6968001af178ca82]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/495/regulation/4/2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-43a961e84d81f9927181cba368776391]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2016/495/regulation/5/1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-43a961e84d81f9927181cba368776391]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2016/495/regulation/5/1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1f6ee339b7050f2013c50e0d82ef9a78]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2016/495/regulation/5/2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f6ee339b7050f2013c50e0d82ef9a78]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2016/495/regulation/5/2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -49,14 +49,14 @@ and the power of the Secretary of State to direct them under section 3 of the [^
 - (a) whether or not the disposal is consistent with promoting or controlling the development of atomic energy; and
 - (b) whether the disposal will extend to some or to all the shares held in the company.
 
-(4)[^c742095][^key-81cb1c88a40e63e278a57e3fa3ba18ba] Where a disposal by the Authority would not in their opinion be consistent with the exercise or performance of their functions, the disposal may only be made—
+(4)[^c742095][^c-81cb1c88a40e63e278a57e3fa3ba18ba] Where a disposal by the Authority would not in their opinion be consistent with the exercise or performance of their functions, the disposal may only be made—
 
 - (a) if in the Secretary of State’s opinion it will promote the national interest; and
 - (b) under and in accordance with directions given by him under the said section 3.
 
 (5)[^c742095] Where a disposal by the Secretary of State would in his opinion be inconsistent with promoting or controlling the development of atomic energy, the disposal may only be made if in his opinion it will promote the national interest.
 
-(6)[^key-eaac9408e5568b014b14b93eeb978e74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-eaac9408e5568b014b14b93eeb978e74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) If at any time the Atomic Energy Authority and the Secretary of State cease to hold shares in the Radiochemical Company which in the aggregate (taking any shares held by the Authority together with any shares held by the Secretary of State) carry more than half the voting rights exercisable at general meetings of the company, section 14 of the Atomic Energy Authority Act 1971 (laying of accounts before Parliament) shall not thereafter apply in relation to the Radiochemical Company.
 
@@ -97,9 +97,9 @@ There shall be paid out of money provided by Parliament any increase attributabl
 
 [^c742095]: Modification: S. 1(4)(5) excluded (8.11.1995) by [1995 c. 37](https://www.legislation.gov.uk/ukpga/1995/37), [s. 7](https://www.legislation.gov.uk/ukpga/1995/37/section/7)
 
-[^key-81cb1c88a40e63e278a57e3fa3ba18ba]: Modification: S. 1(4) excluded (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 48(8)](https://www.legislation.gov.uk/ukpga/2004/20/section/48/8), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-81cb1c88a40e63e278a57e3fa3ba18ba]: Modification: S. 1(4) excluded (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 48(8)](https://www.legislation.gov.uk/ukpga/2004/20/section/48/8), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-eaac9408e5568b014b14b93eeb978e74]: Textual amendment: [S. 1(6)](https://www.legislation.gov.uk/ukpga/1981/48/section/1/6) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-eaac9408e5568b014b14b93eeb978e74]: Textual amendment: [S. 1(6)](https://www.legislation.gov.uk/ukpga/1981/48/section/1/6) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
 [^c742098]: Modification: The text of ss. 1(8), 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

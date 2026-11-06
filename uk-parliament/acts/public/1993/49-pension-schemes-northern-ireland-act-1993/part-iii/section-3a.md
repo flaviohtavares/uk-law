@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A. Meaning of the first abolition date” and the second abolition date”[^key-b925914c01609c62162f4723a004ef0c]
+## 3A. Meaning of the first abolition date” and the second abolition date”[^c-b925914c01609c62162f4723a004ef0c]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ In this Act—
 
 ## Annotations
 
-[^key-b925914c01609c62162f4723a004ef0c]: Textual amendment: Ss. 3A, 3B inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 6](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/6)
+[^c-b925914c01609c62162f4723a004ef0c]: Textual amendment: Ss. 3A, 3B inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 6](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/6)

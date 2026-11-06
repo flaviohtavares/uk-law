@@ -34,7 +34,7 @@ Sea Fisheries
 
 Conservation Of Sea Fish
 
-The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2021 (revoked)[^key-b3569ec78ee50414fd859dbbccf70d21]
+The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2021 (revoked)[^c-b3569ec78ee50414fd859dbbccf70d21]
 
 Made
 
@@ -48,27 +48,27 @@ Coming into force
 
 14th February 2022
 
-[^key-b3569ec78ee50414fd859dbbccf70d21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3569ec78ee50414fd859dbbccf70d21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement, cessation and effect[^key-b3569ec78ee50414fd859dbbccf70d21]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation[^key-b3569ec78ee50414fd859dbbccf70d21]
+## 1. Citation, commencement, cessation and effect[^c-b3569ec78ee50414fd859dbbccf70d21]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibited methods of fishing[^key-b3569ec78ee50414fd859dbbccf70d21]
+## 2. Interpretation[^c-b3569ec78ee50414fd859dbbccf70d21]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-b3569ec78ee50414fd859dbbccf70d21]
+## 3. Prohibited methods of fishing[^c-b3569ec78ee50414fd859dbbccf70d21]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Revocation[^c-b3569ec78ee50414fd859dbbccf70d21]
 
 **Not yet in force.**
 
@@ -76,11 +76,11 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-b3569ec78ee50414fd859dbbccf70d21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3569ec78ee50414fd859dbbccf70d21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-b3569ec78ee50414fd859dbbccf70d21]EXPLANATORY NOTE
+[^c-b3569ec78ee50414fd859dbbccf70d21]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -104,4 +104,4 @@ A Business and Regulatory Impact Assessment (“**BRIA**”) has been prepared i
 
 ## Annotations
 
-[^key-b3569ec78ee50414fd859dbbccf70d21]: Textual amendment: Order revoked (12.2.2022) by [The Sea Fish (Prohibition on Fishing) (Firth of Clyde) (No. 2) Order 2022 (S.S.I. 2022/35)](https://www.legislation.gov.uk/ssi/2022/35), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/35/article/1/1), [4(b)](https://www.legislation.gov.uk/ssi/2022/35/article/4/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/35/article/1/2))
+[^c-b3569ec78ee50414fd859dbbccf70d21]: Textual amendment: Order revoked (12.2.2022) by [The Sea Fish (Prohibition on Fishing) (Firth of Clyde) (No. 2) Order 2022 (S.S.I. 2022/35)](https://www.legislation.gov.uk/ssi/2022/35), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/35/article/1/1), [4(b)](https://www.legislation.gov.uk/ssi/2022/35/article/4/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/35/article/1/2))

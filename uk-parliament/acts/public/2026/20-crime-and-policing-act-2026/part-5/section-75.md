@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Possession of advice or guidance about creating etc CSA images: England and Wales and Northern Ireland[^key-3a475d727b2b487b66d644e52cec4ba5]
+## 75. Possession of advice or guidance about creating etc CSA images: England and Wales and Northern Ireland[^c-3a475d727b2b487b66d644e52cec4ba5]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a475d727b2b487b66d644e52cec4ba5]: Commencement: S. 75 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-3a475d727b2b487b66d644e52cec4ba5]: Commencement: S. 75 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

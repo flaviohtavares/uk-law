@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Revocation of local development plan[^key-3501d0675141ce08d9ac38a4c8551ae3]
+## 68. Revocation of local development plan[^c-3501d0675141ce08d9ac38a4c8551ae3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Assembly may at any time revoke a local development plan at the request of t
 
 ## Annotations
 
-[^key-3501d0675141ce08d9ac38a4c8551ae3]: Commencement: S. 68 in force at 5.10.2005 for specified purposes and 15.10.2005 in so far as not already in force by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2722/article/2/f)
+[^c-3501d0675141ce08d9ac38a4c8551ae3]: Commencement: S. 68 in force at 5.10.2005 for specified purposes and 15.10.2005 in so far as not already in force by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2722/article/2/f)

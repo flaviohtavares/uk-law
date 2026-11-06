@@ -38,7 +38,7 @@ but does not, by virtue of paragraph (b) of this definition, include the removal
 
 (5) Nothing in sections 102 to 109 above or in sections 111 to 116 above shall be construed as authorising a sewerage undertaker to construct or use any public or other sewer, or any drain or outfall—
 
-- (a) in contravention of any applicable provision of the [^c13219751]Water Resources Act 1991 or the Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)[^key-a6cd6cdee021584876cd5a5835678b61]; or
+- (a) in contravention of any applicable provision of the [^c13219751]Water Resources Act 1991 or the Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)[^c-a6cd6cdee021584876cd5a5835678b61]; or
 - (b) for the purpose of conveying foul water into any natural or artificial stream, watercourse, canal, pond or lake, without the water having been so treated as not to affect prejudicially the purity and quality of the water in the stream, watercourse, canal, pond or lake.
 
 (6) A sewerage undertaker shall so carry out its functions under sections 102 to 105, 112, 115 and 116 above as not to create a nuisance.
@@ -47,4 +47,4 @@ but does not, by virtue of paragraph (b) of this definition, include the removal
 
 [^c13219751]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-a6cd6cdee021584876cd5a5835678b61]: Textual amendment: Words in s. 117(5)(a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 8(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/8/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-a6cd6cdee021584876cd5a5835678b61]: Textual amendment: Words in s. 117(5)(a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 8(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/8/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

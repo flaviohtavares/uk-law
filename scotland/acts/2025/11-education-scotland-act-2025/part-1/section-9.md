@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Strategic Advisory Council[^key-9267d5bc3cb0c1920deda0b76d71a133][^key-5b186cd6fbb5ca14a710c5d62077b1a1]
+## 9. Strategic Advisory Council[^c-9267d5bc3cb0c1920deda0b76d71a133][^c-5b186cd6fbb5ca14a710c5d62077b1a1]
 
 *Extent: S*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9267d5bc3cb0c1920deda0b76d71a133]: Commencement: S. 9 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-9267d5bc3cb0c1920deda0b76d71a133]: Commencement: S. 9 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-5b186cd6fbb5ca14a710c5d62077b1a1]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/11/section/9) in force at 27.1.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/1)
+[^c-5b186cd6fbb5ca14a710c5d62077b1a1]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/11/section/9) in force at 27.1.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/1)

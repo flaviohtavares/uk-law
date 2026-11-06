@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Public Guardian Board[^key-4f5b16936443c855552c1c6a7ccd35a7]
+## 59. Public Guardian Board[^c-4f5b16936443c855552c1c6a7ccd35a7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f5b16936443c855552c1c6a7ccd35a7]: Textual amendment: [S. 59](https://www.legislation.gov.uk/ukpga/2005/9/section/59) repealed (18.9.2012) by [The Public Bodies (Abolition of Her Majestyâ€™s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/2401/schedule/2/paragraph/2) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
+[^c-4f5b16936443c855552c1c6a7ccd35a7]: Textual amendment: [S. 59](https://www.legislation.gov.uk/ukpga/2005/9/section/59) repealed (18.9.2012) by [The Public Bodies (Abolition of Her Majestyâ€™s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/2401/schedule/2/paragraph/2) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))

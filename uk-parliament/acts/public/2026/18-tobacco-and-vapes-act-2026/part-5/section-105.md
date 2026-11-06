@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Matters dealt with by 2016 Regulations[^key-f7fd28972d1b70736043aa18ba387342]
+## 105. Matters dealt with by 2016 Regulations[^c-f7fd28972d1b70736043aa18ba387342]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ so far as that provision could not otherwise be made under this Part.
 
 ## Annotations
 
-[^key-f7fd28972d1b70736043aa18ba387342]: Commencement: S. 105 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-f7fd28972d1b70736043aa18ba387342]: Commencement: S. 105 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

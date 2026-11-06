@@ -42,7 +42,7 @@ Coming into force in accordance with regulation 1(2)
 
 [^c23674671]The Treasury make these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 .
 
-In accordance with paragraph 1(1) of Schedule 7 to that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^key-abad8e3986b07066767e00fb15dd7035]
+In accordance with paragraph 1(1) of Schedule 7 to that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^c-abad8e3986b07066767e00fb15dd7035]
 
 ## Contents
 
@@ -191,4 +191,4 @@ An impact assessment of the effect that this instrument, and certain other instr
 
 [^c23674671]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-abad8e3986b07066767e00fb15dd7035]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/707): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-abad8e3986b07066767e00fb15dd7035]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/707): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)

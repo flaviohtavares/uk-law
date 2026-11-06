@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 772. Equity holders and profits or assets available for distribution[^key-fc1973c2e568eca214116f449a72490f]
+## 772. Equity holders and profits or assets available for distribution[^c-fc1973c2e568eca214116f449a72490f]
 
 *Extent: E+W+S+N.I.*
 
 (1) Chapter 6 of Part 5 of CTA 2010 (group relief: equity holders and profits or assets available for distribution) applies for the purposes of sections 768 and 771.
 
-(2)[^key-03213e52370142f2a90b90f2a753230e] In that Chapter as it applies for those purposes—
+(2)[^c-03213e52370142f2a90b90f2a753230e] In that Chapter as it applies for those purposes—
 
 - (a) section 158 of CTA 2010 has effect as if after subsection (2) there were inserted—
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc1973c2e568eca214116f449a72490f]: Textual amendment: S. 772(1)(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 646](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/646) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-fc1973c2e568eca214116f449a72490f]: Textual amendment: S. 772(1)(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 646](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/646) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-03213e52370142f2a90b90f2a753230e]: Textual amendment: S. 772(2) substituted (retrospective and with effect in accordance with art. 1(2) of the amending S.I.) by [Corporation Tax Act 2010 (Amendment) Order 2010 (S.I. 2010/2902)](https://www.legislation.gov.uk/uksi/2010/2902), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2902/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/2902/article/3)
+[^c-03213e52370142f2a90b90f2a753230e]: Textual amendment: S. 772(2) substituted (retrospective and with effect in accordance with art. 1(2) of the amending S.I.) by [Corporation Tax Act 2010 (Amendment) Order 2010 (S.I. 2010/2902)](https://www.legislation.gov.uk/uksi/2010/2902), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2902/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/2902/article/3)

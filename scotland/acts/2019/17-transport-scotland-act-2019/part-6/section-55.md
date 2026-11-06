@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Exceptions to pavement parking prohibition and double parking prohibition[^key-25d34e63d00ee4046047c0592b88b9c0]
+## 55. Exceptions to pavement parking prohibition and double parking prohibition[^c-25d34e63d00ee4046047c0592b88b9c0]
 
 *Extent: S*
 
 (1) This section sets out exceptions to the pavement parking prohibition and the double parking prohibition.
 
-(2) The pavement parking prohibition and the double parking prohibition do not apply where [^key-9892a8d8dcf541ae79d6e20008f80143]...—
+(2) The pavement parking prohibition and the double parking prohibition do not apply where [^c-9892a8d8dcf541ae79d6e20008f80143]...—
 
-- (a) the motor vehicle[^key-a2ea4498331035fb39f241454e8dabbf] is being used—
+- (a) the motor vehicle[^c-a2ea4498331035fb39f241454e8dabbf] is being used—
   - (i) for police purposes, including for the purposes of the National Crime Agency,
   - (ii) for ambulance purposes or for the purpose of providing a response to an emergency at the request of the Scottish Ambulance Service Board,
   - (iii) for or in connection with the exercise of any function of the Scottish Fire and Rescue Service or Her Majesty's Coastguard, or
@@ -92,8 +92,8 @@ summary: ''
 
 ## Annotations
 
-[^key-25d34e63d00ee4046047c0592b88b9c0]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2019/17/section/55) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-25d34e63d00ee4046047c0592b88b9c0]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2019/17/section/55) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-9892a8d8dcf541ae79d6e20008f80143]: Textual amendment: Words in [s. 55(2)](https://www.legislation.gov.uk/asp/2019/17/section/55/2) omitted (27.11.2023) by virtue of [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/5/a)
+[^c-9892a8d8dcf541ae79d6e20008f80143]: Textual amendment: Words in [s. 55(2)](https://www.legislation.gov.uk/asp/2019/17/section/55/2) omitted (27.11.2023) by virtue of [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/5/a)
 
-[^key-a2ea4498331035fb39f241454e8dabbf]: Textual amendment: Words in [s. 55(2)(a)](https://www.legislation.gov.uk/asp/2019/17/section/55/2/a) inserted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/5/b)
+[^c-a2ea4498331035fb39f241454e8dabbf]: Textual amendment: Words in [s. 55(2)(a)](https://www.legislation.gov.uk/asp/2019/17/section/55/2/a) inserted (27.11.2023) by [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/5/b)

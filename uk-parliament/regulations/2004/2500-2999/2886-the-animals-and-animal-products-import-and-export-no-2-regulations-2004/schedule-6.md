@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — LIST OF DISEASES[^key-1b1ebc82e455454b9fe7890cf9e39e0e]
+## SCHEDULE 6 — LIST OF DISEASES[^c-1b1ebc82e455454b9fe7890cf9e39e0e]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Regulations 13(1) and 27(1)
 
-[^key-1b1ebc82e455454b9fe7890cf9e39e0e]
+[^c-1b1ebc82e455454b9fe7890cf9e39e0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b1ebc82e455454b9fe7890cf9e39e0e]: Textual amendment: Regulations revoked (15.8.2005) by [The Animals and Animal Products (Import and Export) (England) Regulations 2005 (S.I. 2005/2002)](https://www.legislation.gov.uk/uksi/2005/2002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2002/regulation/1), [35](https://www.legislation.gov.uk/uksi/2005/2002/regulation/35) (with [reg. 2](https://www.legislation.gov.uk/uksi/2005/2002/regulation/2))
+[^c-1b1ebc82e455454b9fe7890cf9e39e0e]: Textual amendment: Regulations revoked (15.8.2005) by [The Animals and Animal Products (Import and Export) (England) Regulations 2005 (S.I. 2005/2002)](https://www.legislation.gov.uk/uksi/2005/2002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2002/regulation/1), [35](https://www.legislation.gov.uk/uksi/2005/2002/regulation/35) (with [reg. 2](https://www.legislation.gov.uk/uksi/2005/2002/regulation/2))

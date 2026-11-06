@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Management of removal centres.[^c11434621][^key-6dd5c5d8ed4868e11852df6b48c97e6f]
+## 148. Management of removal centres.[^c11434621][^c-6dd5c5d8ed4868e11852df6b48c97e6f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c11434621]: Commencement: S. 148 wholly in force at 2.4.2001; s. 148 not in force at Royal Assent; s. 148(3) in force at 1.8.2000 for certain purposes by [S.I. 2000/1985](https://www.legislation.gov.uk/uksi/2000/1985), [art. 2](https://www.legislation.gov.uk/uksi/2000/1985/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1985/schedule); s. 148 in force so far as not already in force at 2.4.2001 by [S.I. 2001/239](https://www.legislation.gov.uk/uksi/2001/239), [art. 2](https://www.legislation.gov.uk/uksi/2001/239/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/239/schedule)
 
-[^key-6dd5c5d8ed4868e11852df6b48c97e6f]: Textual amendment: Words in s. 148 substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41) [ss.](https://www.legislation.gov.uk/ukpga/2002/41/section) [66(2)(3)(b)](https://www.legislation.gov.uk/ukpga/2002/41/section/66/3/b), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
+[^c-6dd5c5d8ed4868e11852df6b48c97e6f]: Textual amendment: Words in s. 148 substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41) [ss.](https://www.legislation.gov.uk/ukpga/2002/41/section) [66(2)(3)(b)](https://www.legislation.gov.uk/ukpga/2002/41/section/66/3/b), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)

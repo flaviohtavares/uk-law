@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Designation of venues or events[^key-2205f4f306dae6a7d7a2c8dfbb9c9281][^key-2daaf49898ab41ce3c043707d4a89444]
+## 37. Designation of venues or events[^c-2205f4f306dae6a7d7a2c8dfbb9c9281][^c-2daaf49898ab41ce3c043707d4a89444]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2205f4f306dae6a7d7a2c8dfbb9c9281]: Commencement: S. 37 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-2205f4f306dae6a7d7a2c8dfbb9c9281]: Commencement: S. 37 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-2daaf49898ab41ce3c043707d4a89444]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2022/9/section/37) in force at 6.6.2023 by [S.S.I. 2023/99](https://www.legislation.gov.uk/ssi/2023/99), [reg. 2](https://www.legislation.gov.uk/ssi/2023/99/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/99/schedule)
+[^c-2daaf49898ab41ce3c043707d4a89444]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2022/9/section/37) in force at 6.6.2023 by [S.S.I. 2023/99](https://www.legislation.gov.uk/ssi/2023/99), [reg. 2](https://www.legislation.gov.uk/ssi/2023/99/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/99/schedule)

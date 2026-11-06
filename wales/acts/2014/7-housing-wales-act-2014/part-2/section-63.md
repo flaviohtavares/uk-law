@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Notice of the outcome of assessment[^key-230746c8ab206a0262cd87a26a982ba7]
+## 63. Notice of the outcome of assessment[^c-230746c8ab206a0262cd87a26a982ba7]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-230746c8ab206a0262cd87a26a982ba7]: Commencement: [S. 63](https://www.legislation.gov.uk/anaw/2014/7/section/63) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 14](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/14)
+[^c-230746c8ab206a0262cd87a26a982ba7]: Commencement: [S. 63](https://www.legislation.gov.uk/anaw/2014/7/section/63) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 14](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/14)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**246.**[^key-c1ecabffbca00ad4d7dded42a7f8cda6] In section 35 (care trusts)—
+**246.**[^c-c1ecabffbca00ad4d7dded42a7f8cda6] In section 35 (care trusts)—
 
 - (a) in subsection (11) after the words “relevant social services functions” insert “of a local authority in England”;
 - (b) after subsection (11) insert—
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1ecabffbca00ad4d7dded42a7f8cda6]: Commencement: Reg. 246 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-c1ecabffbca00ad4d7dded42a7f8cda6]: Commencement: Reg. 246 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Revocation, suspension and variation of permissions, etc granted under article 250 or article 252[^key-638c9f1e247c031730804c9fa51ed734]
+## 255. Revocation, suspension and variation of permissions, etc granted under article 250 or article 252[^c-638c9f1e247c031730804c9fa51ed734]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) Subject to paragraph (7), the Secretary of State or the CAA may without notice revoke, suspend or vary any permission to which this article applies for reasons of urgency, in which case paragraph (4) applies.
 
-(4)[^key-f6bd86b043b76145b6fbc3c104a6f446][^key-59890ac857268d0b0452e64302d16108] Where this paragraph applies, the person who revoked, suspended or varied any permission without notice under paragraph (3) must consider any representations made subsequently by the operator or charterer concerned and in response to such representations may—
+(4)[^c-f6bd86b043b76145b6fbc3c104a6f446][^c-59890ac857268d0b0452e64302d16108] Where this paragraph applies, the person who revoked, suspended or varied any permission without notice under paragraph (3) must consider any representations made subsequently by the operator or charterer concerned and in response to such representations may—
 
 - (a) confirm, vary or lift the suspension;
 - (b) confirm the revocation of permission; or
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-638c9f1e247c031730804c9fa51ed734]: Modification: [Art. 255](https://www.legislation.gov.uk/uksi/2016/765/article/255) restricted (31.12.2020) by [The Syria (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/792)](https://www.legislation.gov.uk/uksi/2019/792), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/792/regulation/1/3), [52(1)(a)](https://www.legislation.gov.uk/uksi/2019/792/regulation/52/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-638c9f1e247c031730804c9fa51ed734]: Modification: [Art. 255](https://www.legislation.gov.uk/uksi/2016/765/article/255) restricted (31.12.2020) by [The Syria (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/792)](https://www.legislation.gov.uk/uksi/2019/792), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/792/regulation/1/3), [52(1)(a)](https://www.legislation.gov.uk/uksi/2019/792/regulation/52/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f6bd86b043b76145b6fbc3c104a6f446]: Modification: [Art. 255(4)](https://www.legislation.gov.uk/uksi/2016/765/article/255/4) excluded (31.12.2020) by [The Syria (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/792)](https://www.legislation.gov.uk/uksi/2019/792), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/792/regulation/1/3), [52(1)(b)](https://www.legislation.gov.uk/uksi/2019/792/regulation/52/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f6bd86b043b76145b6fbc3c104a6f446]: Modification: [Art. 255(4)](https://www.legislation.gov.uk/uksi/2016/765/article/255/4) excluded (31.12.2020) by [The Syria (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/792)](https://www.legislation.gov.uk/uksi/2019/792), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/792/regulation/1/3), [52(1)(b)](https://www.legislation.gov.uk/uksi/2019/792/regulation/52/1/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59890ac857268d0b0452e64302d16108]: Modification: Art. 255(4) excluded (8.3.2022 at 5.00 p.m.) by [S.I. 2019/855](https://www.legislation.gov.uk/uksi/2019/855), [reg. 57L(1)(b)](https://www.legislation.gov.uk/uksi/2019/855/regulation/57L/1/b) (as inserted by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/241/regulation/9))
+[^c-59890ac857268d0b0452e64302d16108]: Modification: Art. 255(4) excluded (8.3.2022 at 5.00 p.m.) by [S.I. 2019/855](https://www.legislation.gov.uk/uksi/2019/855), [reg. 57L(1)(b)](https://www.legislation.gov.uk/uksi/2019/855/regulation/57L/1/b) (as inserted by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/241/regulation/9))

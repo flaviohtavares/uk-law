@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Precepts[^key-7d891b62ea1b3a72513e43e7a1a0f27f]
+## 26. Precepts[^c-7d891b62ea1b3a72513e43e7a1a0f27f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d891b62ea1b3a72513e43e7a1a0f27f]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2011/13/section/26) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-7d891b62ea1b3a72513e43e7a1a0f27f]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2011/13/section/26) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

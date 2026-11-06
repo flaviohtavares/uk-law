@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Armed forces change procedure[^key-e00933df7170da9a0cbaa1467fa0e540]
+## 27. Armed forces change procedure[^c-e00933df7170da9a0cbaa1467fa0e540]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e00933df7170da9a0cbaa1467fa0e540]: Commencement: Art. 27 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-e00933df7170da9a0cbaa1467fa0e540]: Commencement: Art. 27 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

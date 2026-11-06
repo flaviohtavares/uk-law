@@ -24,10 +24,10 @@ summary: ''
 
 (2) The Secretary of State may take such action under paragraph 9 or 11 of Schedule 7 as he considers to be reasonable and practicable to remedy, mitigate or prevent any of the effects adverse to the public interest which have resulted from, or may be expected to result from, the creation of the relevant merger situation concerned.
 
-(3) In making a decision under subsection (2) the Secretary of State shall, in particular, have regard to the report of the CMA[^key-8bf14cd27841097f051333d6ca94fb80] under section 50.
+(3) In making a decision under subsection (2) the Secretary of State shall, in particular, have regard to the report of the CMA[^c-8bf14cd27841097f051333d6ca94fb80] under section 50.
 
 (4) In making a decision under subsection (2) in any case of a substantial lessening of competition, the Secretary of State may, in particular, have regard to the effect of any action on any relevant customer benefits in relation to the creation of the relevant merger situation concerned.
 
 ## Annotations
 
-[^key-8bf14cd27841097f051333d6ca94fb80]: Textual amendment: Word in s. 55(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 97](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/97) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-8bf14cd27841097f051333d6ca94fb80]: Textual amendment: Word in s. 55(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 97](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/97) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

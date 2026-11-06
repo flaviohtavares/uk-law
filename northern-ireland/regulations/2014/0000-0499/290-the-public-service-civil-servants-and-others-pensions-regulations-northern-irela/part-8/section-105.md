@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Meaning of “dependant’s upper tier top up earned pension”[^key-71980e567f377d889728ce5f9ff86bfd][^key-b70f6c635be7aeb4ed9532e97b51c4d3]
+## 105. Meaning of “dependant’s upper tier top up earned pension”[^c-71980e567f377d889728ce5f9ff86bfd][^c-b70f6c635be7aeb4ed9532e97b51c4d3]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ A dependant’s upper tier top up earned pension is a pension payable on the dea
 
 ## Annotations
 
-[^key-71980e567f377d889728ce5f9ff86bfd]: Commencement: [Reg. 105](https://www.legislation.gov.uk/nisr/2014/290/regulation/105) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-71980e567f377d889728ce5f9ff86bfd]: Commencement: [Reg. 105](https://www.legislation.gov.uk/nisr/2014/290/regulation/105) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-b70f6c635be7aeb4ed9532e97b51c4d3]: Textual amendment: Words in [reg. 105](https://www.legislation.gov.uk/nisr/2014/290/regulation/105) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2022/67/regulation/34)
+[^c-b70f6c635be7aeb4ed9532e97b51c4d3]: Textual amendment: Words in [reg. 105](https://www.legislation.gov.uk/nisr/2014/290/regulation/105) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2022/67/regulation/34)

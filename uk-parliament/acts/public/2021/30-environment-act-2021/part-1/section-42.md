@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Disclosures to the OEP[^key-feb4f249f6daec1d281b840ee0f4e655][^key-f6a05539ea98551912784c79d77b247a]
+## 42. Disclosures to the OEP[^c-feb4f249f6daec1d281b840ee0f4e655][^c-f6a05539ea98551912784c79d77b247a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-feb4f249f6daec1d281b840ee0f4e655]: Commencement: S. 42 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-feb4f249f6daec1d281b840ee0f4e655]: Commencement: S. 42 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-f6a05539ea98551912784c79d77b247a]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2021/30/section/42) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/h)
+[^c-f6a05539ea98551912784c79d77b247a]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2021/30/section/42) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/h)

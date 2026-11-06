@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Fish Labelling (Wales) Regulations 2010 (revoked)[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+The Fish Labelling (Wales) Regulations 2010 (revoked)[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 Made
 
@@ -45,72 +45,72 @@ Coming into force
 
 6 April 2010
 
-[^key-3da22bec56b0f73dec4c3c2639b68dbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3da22bec56b0f73dec4c3c2639b68dbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+## 1. Title, application and commencement[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+## 2. Interpretation[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences relating to consumer information[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+## 3. Offences relating to consumer information[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Lists of commercial designations[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+## 4. Lists of commercial designations[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Omission of reference to the production method[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+## 5. Omission of reference to the production method[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Small quantities of products[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+## 6. Small quantities of products[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Additional information relating to the catch area[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+## 7. Additional information relating to the catch area[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Provisional commercial designations[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+## 8. Provisional commercial designations[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Enforcement[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+## 9. Enforcement[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Application of various provisions of the Food Safety Act 1990[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+## 10. Application of various provisions of the Food Safety Act 1990[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocation[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+## 11. Revocation[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3da22bec56b0f73dec4c3c2639b68dbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3da22bec56b0f73dec4c3c2639b68dbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Commercial Designations[^key-3da22bec56b0f73dec4c3c2639b68dbe]
+## SCHEDULE — Commercial Designations[^c-3da22bec56b0f73dec4c3c2639b68dbe]
 
 Regulation 4
 
-**1.**[^key-3da22bec56b0f73dec4c3c2639b68dbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3da22bec56b0f73dec4c3c2639b68dbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3da22bec56b0f73dec4c3c2639b68dbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3da22bec56b0f73dec4c3c2639b68dbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3da22bec56b0f73dec4c3c2639b68dbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3da22bec56b0f73dec4c3c2639b68dbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3da22bec56b0f73dec4c3c2639b68dbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3da22bec56b0f73dec4c3c2639b68dbe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3da22bec56b0f73dec4c3c2639b68dbe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/797) revoked (26.9.2013) by [The Fish Labelling (Wales) Regulations 2013 (S.I. 2013/2139)](https://www.legislation.gov.uk/wsi/2013/2139), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2), [12](https://www.legislation.gov.uk/wsi/2013/2139/regulation/12)
+[^c-3da22bec56b0f73dec4c3c2639b68dbe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/797) revoked (26.9.2013) by [The Fish Labelling (Wales) Regulations 2013 (S.I. 2013/2139)](https://www.legislation.gov.uk/wsi/2013/2139), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2139/regulation/1/2), [12](https://www.legislation.gov.uk/wsi/2013/2139/regulation/12)

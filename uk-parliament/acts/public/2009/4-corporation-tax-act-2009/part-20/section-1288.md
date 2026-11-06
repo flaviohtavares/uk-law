@@ -32,11 +32,11 @@ summary: ''
 
 (4) Provision corresponding to that made by this section is made by—
 
-- (a) section 1249 (in relation to expenses of management of a company's investment business), including as applied by section 82 of FA 2012[^key-4b48af240d5d144103231e2872008121] [^key-cb5195981b2b23e986ead33d6c6bfeed]...
-- (b)[^key-cb5195981b2b23e986ead33d6c6bfeed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) section 1249 (in relation to expenses of management of a company's investment business), including as applied by section 82 of FA 2012[^c-4b48af240d5d144103231e2872008121] [^c-cb5195981b2b23e986ead33d6c6bfeed]...
+- (b)[^c-cb5195981b2b23e986ead33d6c6bfeed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b48af240d5d144103231e2872008121]: Textual amendment: Words in s. 1288(4)(a) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 209(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/209/a)
+[^c-4b48af240d5d144103231e2872008121]: Textual amendment: Words in s. 1288(4)(a) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 209(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/209/a)
 
-[^key-cb5195981b2b23e986ead33d6c6bfeed]: Textual amendment: S. 1288(4)(b) and the word immediately preceding it omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 209(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/209/b)
+[^c-cb5195981b2b23e986ead33d6c6bfeed]: Textual amendment: S. 1288(4)(b) and the word immediately preceding it omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 209(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/209/b)

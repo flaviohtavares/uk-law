@@ -44,13 +44,13 @@ Whereas the Secretary of State for Social Security has made an Order[^f00001] un
 
 Now, therefore, the Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by section 38B of the Pension Schemes (Northern Ireland) Act 1993[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-2d28311f3c9b428064cb61a2ea7363b3]
+## 1. Citation, commencement and interpretation[^c-2d28311f3c9b428064cb61a2ea7363b3]
 
 (1) This Order may be cited as the Social Security (Reduced Rates of Class 1 Contributions and Rebates) (Money Purchase Contracted-out Schemes) Order (Northern Ireland) 1996 and shall come into operation on 6th April 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to this Order as it applies to a Measure of the Assembly.
 
-## 2. Reduced rates of Class 1 contributions and rebates[^key-de4f01010345861a35094de7f2d23b63]
+## 2. Reduced rates of Class 1 contributions and rebates[^c-de4f01010345861a35094de7f2d23b63]
 
 For the purposes of section 38A of the Pension Schemes (Northern Ireland) Act 1993[^f00005]—
 
@@ -65,7 +65,7 @@ Assistant Secretary
 
 4th April 1996
 
-## SCHEDULE — TABLE[^key-3756452a63ac3043b9d8e52a87cc369e]
+## SCHEDULE — TABLE[^c-3756452a63ac3043b9d8e52a87cc369e]
 
 Article 2(*b*)
 
@@ -143,12 +143,12 @@ Section 38B of the Pension Schemes (Northern Ireland) Act 1993, the enabling pro
 
 [^f00003]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 38B was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
-[^key-2d28311f3c9b428064cb61a2ea7363b3]: Commencement: Art. 1 in operation at 6.4.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/150/article/1/1)
+[^c-2d28311f3c9b428064cb61a2ea7363b3]: Commencement: Art. 1 in operation at 6.4.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/150/article/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-de4f01010345861a35094de7f2d23b63]: Commencement: Art. 2 in operation at 6.4.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/150/article/1/1)
+[^c-de4f01010345861a35094de7f2d23b63]: Commencement: Art. 2 in operation at 6.4.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/150/article/1/1)
 
 [^f00005]: Footnote: Section 38A was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995
 
-[^key-3756452a63ac3043b9d8e52a87cc369e]: Commencement: Sch. in operation at 6.4.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/150/article/1/1)
+[^c-3756452a63ac3043b9d8e52a87cc369e]: Commencement: Sch. in operation at 6.4.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/150/article/1/1)

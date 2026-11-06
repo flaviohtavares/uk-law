@@ -27,12 +27,12 @@ summary: ''
 - (a) a Chairman, and
 - (b) not more than twenty-four other members,
 
-appointed by the Assembly after consultation with the Secretary of State[^key-53929efadeb22f7f36eff1f8ffd3545f] .
+appointed by the Assembly after consultation with the Secretary of State[^c-53929efadeb22f7f36eff1f8ffd3545f] .
 
 (3) In appointing members under subsection (2) above, the Assembly shall have regard to the desirability of ensuring that the members of the Committee between them represent the interests of—
 
 - (a) those who use passenger transport facilities and services in Greater London, and
-- (b) those who use rail passenger transport facilities and services in the area for which the Committee fell, immediately before the repeal of section 2 of the Railways Act 1993 (Rail Passengers' Committees), to be treated as the Rail Passengers' Committee for the purposes specified in subsection (4) of that section[^key-87b52874be75a36671acaec852d5ab80] .
+- (b) those who use rail passenger transport facilities and services in the area for which the Committee fell, immediately before the repeal of section 2 of the Railways Act 1993 (Rail Passengers' Committees), to be treated as the Rail Passengers' Committee for the purposes specified in subsection (4) of that section[^c-87b52874be75a36671acaec852d5ab80] .
 
 (4) A person may not be appointed under subsection (2) above if he is—
 
@@ -49,6 +49,6 @@ appointed by the Assembly after consultation with the Secretary of State[^key-53
 
 ## Annotations
 
-[^key-53929efadeb22f7f36eff1f8ffd3545f]: Textual amendment: Words in s. 247(2) substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 14(7)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/14/7); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-53929efadeb22f7f36eff1f8ffd3545f]: Textual amendment: Words in s. 247(2) substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 14(7)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/14/7); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-87b52874be75a36671acaec852d5ab80]: Textual amendment: Words in s. 247(3)(b) substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/1); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-87b52874be75a36671acaec852d5ab80]: Textual amendment: Words in s. 247(3)(b) substituted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/1); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)

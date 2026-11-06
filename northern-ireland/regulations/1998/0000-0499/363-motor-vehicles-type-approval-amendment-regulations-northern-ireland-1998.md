@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicles (Type Approval) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-6d7d813d96b8e11e703dd132ab9f3774]
+Motor Vehicles (Type Approval) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-6d7d813d96b8e11e703dd132ab9f3774]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 2nd December 1998
 
-[^key-6d7d813d96b8e11e703dd132ab9f3774]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d7d813d96b8e11e703dd132ab9f3774]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6d7d813d96b8e11e703dd132ab9f3774]
+## 1. Citation, commencement and interpretation[^c-6d7d813d96b8e11e703dd132ab9f3774]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to regulation 9 (form of certificates)[^key-6d7d813d96b8e11e703dd132ab9f3774]
+## 2. Amendments to regulation 9 (form of certificates)[^c-6d7d813d96b8e11e703dd132ab9f3774]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d7d813d96b8e11e703dd132ab9f3774]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d7d813d96b8e11e703dd132ab9f3774]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6d7d813d96b8e11e703dd132ab9f3774]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d7d813d96b8e11e703dd132ab9f3774]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d7d813d96b8e11e703dd132ab9f3774]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/363) revoked (10.7.2007) by [The Motor Vehicles (Type Approval) Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/240)](https://www.legislation.gov.uk/nisr/2007/240), [reg. 1](https://www.legislation.gov.uk/nisr/2007/240/regulation/1), [Sch. 9](https://www.legislation.gov.uk/nisr/2007/240/schedule/9)
+[^c-6d7d813d96b8e11e703dd132ab9f3774]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/363) revoked (10.7.2007) by [The Motor Vehicles (Type Approval) Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/240)](https://www.legislation.gov.uk/nisr/2007/240), [reg. 1](https://www.legislation.gov.uk/nisr/2007/240/regulation/1), [Sch. 9](https://www.legislation.gov.uk/nisr/2007/240/schedule/9)

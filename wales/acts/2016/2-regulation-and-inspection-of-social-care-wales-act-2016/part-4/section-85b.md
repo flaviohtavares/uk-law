@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85B. Professional qualifications – specified state applicants[^key-0bae63de0ef2f8c9374c37bd22c8b4ce]
+## 85B. Professional qualifications – specified state applicants[^c-0bae63de0ef2f8c9374c37bd22c8b4ce]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bae63de0ef2f8c9374c37bd22c8b4ce]: Textual amendment: Ss. 85B-85D inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [9](https://www.legislation.gov.uk/wsi/2026/24/regulation/9)
+[^c-0bae63de0ef2f8c9374c37bd22c8b4ce]: Textual amendment: Ss. 85B-85D inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [9](https://www.legislation.gov.uk/wsi/2026/24/regulation/9)

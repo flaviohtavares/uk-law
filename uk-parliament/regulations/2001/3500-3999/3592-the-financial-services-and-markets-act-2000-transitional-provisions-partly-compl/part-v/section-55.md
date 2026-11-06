@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Disqualification directions[^key-28405935ea19fea2d16e8dd091456182]
+## 55. Disqualification directions[^c-28405935ea19fea2d16e8dd091456182]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ the notice ceases to have effect and the Authority must, as soon as practicable 
 
 ## Annotations
 
-[^key-28405935ea19fea2d16e8dd091456182]: Commencement: Art. 55 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-28405935ea19fea2d16e8dd091456182]: Commencement: Art. 55 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

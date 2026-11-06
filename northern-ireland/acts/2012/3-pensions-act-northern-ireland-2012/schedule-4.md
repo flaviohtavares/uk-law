@@ -24,22 +24,22 @@ Section 22.
 
 ### Requirements to obtain actuarial valuations
 
-**1.**[^key-5f66fe2f1ac456433f00218bb95561cb][^M_I_6956d477-9f12-418c-a6f8-b03eadb67207][^key-4ccb0a86fcbda02c3a10970dc2379302] The Pensions (Northern Ireland) Order 2005 is amended as follows.
+**1.**[^c-5f66fe2f1ac456433f00218bb95561cb][^M_I_6956d477-9f12-418c-a6f8-b03eadb67207][^c-4ccb0a86fcbda02c3a10970dc2379302] The Pensions (Northern Ireland) Order 2005 is amended as follows.
 
-**2.**[^key-33543b5fe2062f8c9bfdec25b5a5c470] In Article 54(3) (right to apply under Article 367 of the Insolvency (Northern Ireland) Order 1989)—
+**2.**[^c-33543b5fe2062f8c9bfdec25b5a5c470] In Article 54(3) (right to apply under Article 367 of the Insolvency (Northern Ireland) Order 1989)—
 
 - (a) for the words from “an actuarial” to the first “scheme” substitute “ a determination made, or actuarial valuation obtained, in respect of the scheme by the Board under Article 127(2) ”, and
 - (b) for “that Article” substitute “ Article 127 ”.
 
-**3.**[^key-3e409d3b9ea8669eb4b1cafdd4ed2d2f] (1) Article 125 (effect of review of ill health pension) is amended as follows.
+**3.**[^c-3e409d3b9ea8669eb4b1cafdd4ed2d2f] (1) Article 125 (effect of review of ill health pension) is amended as follows.
 
 (2) In paragraph (4) after “which” insert “ a determination under Article 127(2)(a) or ”.
 
 (3) In paragraph (5)(a) after “first” insert “ makes a determination under Article 127(2)(a) or ”.
 
-**4.**[^key-92d2be10a66a0f36051f46d1849bec13] In Article 126 (interpretation) in the definition of “scheme valuation” for “127” substitute “ 127(2)(b) ”.
+**4.**[^c-92d2be10a66a0f36051f46d1849bec13] In Article 126 (interpretation) in the definition of “scheme valuation” for “127” substitute “ 127(2)(b) ”.
 
-**5.**[^key-8553e1e2dd312501669bde380b8b6288] (1) Article 127 (Board's obligation to obtain valuation of assets and protected liabilities) is amended as follows.
+**5.**[^c-8553e1e2dd312501669bde380b8b6288] (1) Article 127 (Board's obligation to obtain valuation of assets and protected liabilities) is amended as follows.
 
 (2) For paragraph (2) substitute—
 
@@ -81,7 +81,7 @@ Section 22.
 
 (10) In paragraph (11)(b)(ii) after “first” insert “ makes a determination under paragraph (2)(a) or ”.
 
-**6.**[^key-9c6a5dfdb8b885b410f5c237c91b8e1a] After Article 127 insert—
+**6.**[^c-9c6a5dfdb8b885b410f5c237c91b8e1a] After Article 127 insert—
 
 > **Determinations under Article 127**
 >
@@ -115,15 +115,15 @@ Section 22.
 
 .
 
-**7.**[^key-679733d4fa422589e016134349ee7824] (1) Article 128 (approval of valuation) is amended as follows.
+**7.**[^c-679733d4fa422589e016134349ee7824] (1) Article 128 (approval of valuation) is amended as follows.
 
 (2) In paragraph (1) for “127” substitute “ 127(2)(b) ”.
 
 (3) In paragraph (2) for “that Article” substitute “ Article 127 ”.
 
-**8.**[^key-efcea8c4eb681b2844235fc2c4ecaabf] In Article 129(1) (binding valuations) for “127” substitute “ 127(2)(b) ”.
+**8.**[^c-efcea8c4eb681b2844235fc2c4ecaabf] In Article 129(1) (binding valuations) for “127” substitute “ 127(2)(b) ”.
 
-**9.**[^key-d5fe9ce5900e6631d1f2e915f722e8f7] (1) Article 135 (application for Board to assume responsibility for schemes) is amended as follows.
+**9.**[^c-d5fe9ce5900e6631d1f2e915f722e8f7] (1) Article 135 (application for Board to assume responsibility for schemes) is amended as follows.
 
 (2) In paragraphs (2)(b) and (3)(b) for the words from “the valuation” to “scheme” substitute “ the determination made by the Board or valuation obtained by the Board in respect of the scheme under Article 127(2) ”.
 
@@ -131,9 +131,9 @@ Section 22.
 
 (4) In paragraph (10) for “under that Article” substitute “ under Article 127(2)(b) ”.
 
-**10.**[^key-b3e388ed07bee2e9ef3a645a81cafecd] In Article 138(5)(b) (requirement to wind up scheme) after “that the” insert “ determination made by the Board or ”.
+**10.**[^c-b3e388ed07bee2e9ef3a645a81cafecd] In Article 138(5)(b) (requirement to wind up scheme) after “that the” insert “ determination made by the Board or ”.
 
-**11.**[^key-86ff22e00bd72d884ab21c45f1437f18] (1) Article 142 (Board's duty to assume responsibility for closed schemes) is amended as follows.
+**11.**[^c-86ff22e00bd72d884ab21c45f1437f18] (1) Article 142 (Board's duty to assume responsibility for closed schemes) is amended as follows.
 
 (2) For paragraph (3) substitute—
 
@@ -168,13 +168,13 @@ Section 22.
 
   .
 
-**12.**[^key-40bef80a188316ddd02c8b22179a8d13] (1) Article 144 (transfer notice) is amended as follows.
+**12.**[^c-40bef80a188316ddd02c8b22179a8d13] (1) Article 144 (transfer notice) is amended as follows.
 
 (2) In paragraph (3) for “valuation obtained under Article 127” substitute “ determination made or valuation obtained under Article 127(2) ”.
 
 (3) In paragraph (4) after “until the” insert “ determination made or ”.
 
-**13.**[^key-3f14e2c81557601b8359f6172f88aac4] (1) Schedule 8 (reviewable matters) is amended as follows.
+**13.**[^c-3f14e2c81557601b8359f6172f88aac4] (1) Schedule 8 (reviewable matters) is amended as follows.
 
 (2) For paragraph 8 substitute—
 
@@ -204,9 +204,9 @@ Section 22.
 
 ### Requirement to obtain protected benefits quotation
 
-**14.**[^key-c1ce15242731b5b02a7f3137cdc32002] In Article 135(4)(a) of the Pensions (Northern Ireland) Order 2005 (application for Board to assume responsibility for scheme) after “form,” insert “ or evidence in the prescribed form which shows that the trustees or managers of the scheme have taken all reasonable steps to obtain a protected benefits quotation but were unable to do so, ”.
+**14.**[^c-c1ce15242731b5b02a7f3137cdc32002] In Article 135(4)(a) of the Pensions (Northern Ireland) Order 2005 (application for Board to assume responsibility for scheme) after “form,” insert “ or evidence in the prescribed form which shows that the trustees or managers of the scheme have taken all reasonable steps to obtain a protected benefits quotation but were unable to do so, ”.
 
-**15.**[^key-386f63c4f2ce1f6053980094972d916f] (1) Article 136 of the Pensions (Northern Ireland) Order 2005 (Board's duty to assume responsibility for scheme) is amended as follows.
+**15.**[^c-386f63c4f2ce1f6053980094972d916f] (1) Article 136 of the Pensions (Northern Ireland) Order 2005 (Board's duty to assume responsibility for scheme) is amended as follows.
 
 (2) After paragraph (1) insert—
 
@@ -256,14 +256,14 @@ Section 22.
 
 .
 
-**16.**[^key-3a0ac9904edffbe1864aeea6d9421ecc] In the following provisions of the Pensions (Northern Ireland) Order 2005 after “136(2)” insert “ or (2B) ”
+**16.**[^c-3a0ac9904edffbe1864aeea6d9421ecc] In the following provisions of the Pensions (Northern Ireland) Order 2005 after “136(2)” insert “ or (2B) ”
 
 - (a) Article 138(2)(c) (requirement to wind up certain schemes), and
 - (b) Article 156(4) and (5)(c) (fraud compensation regime).
 
 ### Removal of restriction on transfer notices
 
-**17.**[^key-9f05079e1bce9a7bc077187d7ea308ca] (1) The Pensions (Northern Ireland) Order 2005 is amended as follows.
+**17.**[^c-9f05079e1bce9a7bc077187d7ea308ca] (1) The Pensions (Northern Ireland) Order 2005 is amended as follows.
 
 (2) In Article 144(7) (transfer notice)—
 
@@ -274,11 +274,11 @@ Section 22.
 
 ### Assembly control of orders and regulations
 
-**18.**[^key-877f93e8449580a8a09c65aa346d1d3d] In Article 288(3) of the Pensions (Northern Ireland) Order 2005 (Assembly etc. control of orders and regulations) omit sub-paragraph (b) (the administration levy).
+**18.**[^c-877f93e8449580a8a09c65aa346d1d3d] In Article 288(3) of the Pensions (Northern Ireland) Order 2005 (Assembly etc. control of orders and regulations) omit sub-paragraph (b) (the administration levy).
 
 ### Pension credit members
 
-**19.**[^key-36927acd3368b352a4ae7c9b47b171b7] (1) Schedule 6 to the Pensions (Northern Ireland) Order 2005 (pension compensation provisions) is amended as follows.
+**19.**[^c-36927acd3368b352a4ae7c9b47b171b7] (1) Schedule 6 to the Pensions (Northern Ireland) Order 2005 (pension compensation provisions) is amended as follows.
 
 (2) For paragraph 21 (pension credit members under normal benefit age at assessment date) substitute—
 
@@ -376,13 +376,13 @@ Section 22.
 
 (4) In paragraph 36(5)(a) (meaning of “pensionable service”) after “credit” insert “ (except for the purposes of paragraphs 21 and 21A) ”.
 
-**20.**[^key-bdccdfd3405b8c169fba1d9e0f2de533] In the Pensions (No. 2) Act (Northern Ireland) 2008 omit paragraphs 10 and 11 of Schedule 6 (which amend paragraph 21 of Schedule 6 to the Pensions (Northern Ireland) Order 2005).
+**20.**[^c-bdccdfd3405b8c169fba1d9e0f2de533] In the Pensions (No. 2) Act (Northern Ireland) 2008 omit paragraphs 10 and 11 of Schedule 6 (which amend paragraph 21 of Schedule 6 to the Pensions (Northern Ireland) Order 2005).
 
 ### Postponement of compensation
 
-**21.**[^key-4b767a23f6852cbe193a998745d20614] Schedule 6 to the Pensions (Northern Ireland) Order 2005 (pension compensation provisions) is amended as follows.
+**21.**[^c-4b767a23f6852cbe193a998745d20614] Schedule 6 to the Pensions (Northern Ireland) Order 2005 (pension compensation provisions) is amended as follows.
 
-**22.**[^key-dfe65892fdfe90ee00c1b907e0980897] For paragraph 25A (deferral of compensation) and the heading before it substitute—
+**22.**[^c-dfe65892fdfe90ee00c1b907e0980897] For paragraph 25A (deferral of compensation) and the heading before it substitute—
 
 > **Postponement of compensation**
 >
@@ -414,7 +414,7 @@ Section 22.
 
 .
 
-**23.**[^key-ce1608be361f18a38a304c6de52d3512] (1) In paragraph 5(3) (periodic compensation for postponed pensioner at assessment date)—
+**23.**[^c-ce1608be361f18a38a304c6de52d3512] (1) In paragraph 5(3) (periodic compensation for postponed pensioner at assessment date)—
 
 - (a) omit “and” at the end of paragraph (a), and
 - (b) after that paragraph insert—
@@ -488,9 +488,9 @@ Section 22.
 
 .
 
-(9)[^key-6190301d5332b073908698a27d142bc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-6190301d5332b073908698a27d142bc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-4a060526bdc88bdf5d131880e8dfcecd] (1) In paragraph 6 (periodic compensation for widow or widower of postponed pensioner at assessment date)—
+**24.**[^c-4a060526bdc88bdf5d131880e8dfcecd] (1) In paragraph 6 (periodic compensation for widow or widower of postponed pensioner at assessment date)—
 
 - (a) in sub-paragraph (3) after “including” insert “ any actuarial increase under paragraph 25A and ”, and
 - (b) after sub-paragraph (3) insert—
@@ -536,9 +536,9 @@ Section 22.
 
   .
 
-**25.**[^key-c1f1db6ba26adc2a6f28877398a59cfd] In paragraph 24(1) (commutation of periodic compensation) for “becomes payable” substitute “ commences ”.
+**25.**[^c-c1f1db6ba26adc2a6f28877398a59cfd] In paragraph 24(1) (commutation of periodic compensation) for “becomes payable” substitute “ commences ”.
 
-**26.**[^key-7e4088bc40b1145bd4160f569ecd633e] (1) In paragraph 25B (eligibility for terminal illness lump sum)—
+**26.**[^c-7e4088bc40b1145bd4160f569ecd633e] (1) In paragraph 25B (eligibility for terminal illness lump sum)—
 
 - (a) in sub-paragraph (4) in the definition of “relevant age”—
   - (i) in paragraph (a) omit “or deferred” and “or (as the case may be) 25A”, and
@@ -568,7 +568,7 @@ Section 22.
 
 .
 
-**27.**[^key-47c92e747b7c41869bbd12b004be5c36] (1) Paragraph 28 (annual increase in periodic compensation) is amended as follows.
+**27.**[^c-47c92e747b7c41869bbd12b004be5c36] (1) Paragraph 28 (annual increase in periodic compensation) is amended as follows.
 
 (2) In sub-paragraph (3)—
 
@@ -604,7 +604,7 @@ Section 22.
 
 .
 
-**28.**[^key-4ff61f4e259affba76465a4ceb76fa15] (1) In paragraph 29 (Board's powers to alter rates of revaluation and indexation) after sub-paragraph (6) insert—
+**28.**[^c-4ff61f4e259affba76465a4ceb76fa15] (1) In paragraph 29 (Board's powers to alter rates of revaluation and indexation) after sub-paragraph (6) insert—
 
 > (6A) A determination under sub-paragraph (2) which has effect as mentioned in sub-paragraph (6)(b)(ii) may provide that, where the payment of periodic compensation to a person is postponed by virtue of paragraph 25A, the determination applies as if the person first becomes entitled to the periodic compensation on the day on which the periodic compensation commences.
 
@@ -618,9 +618,9 @@ Section 22.
 
 ### Pension compensation sharing: postponement of compensation
 
-**29.**[^key-44f835e760ce85352712fc9358b42b11] Schedule 4 to the Pensions (No. 2) Act (Northern Ireland) 2008 (pension compensation payable on discharge of pension compensation credit) is amended as follows.
+**29.**[^c-44f835e760ce85352712fc9358b42b11] Schedule 4 to the Pensions (No. 2) Act (Northern Ireland) 2008 (pension compensation payable on discharge of pension compensation credit) is amended as follows.
 
-**30.**[^key-1c841f442528c1812bcbb8186f832086] (1) Omit paragraph 11 (deferral of compensation).
+**30.**[^c-1c841f442528c1812bcbb8186f832086] (1) Omit paragraph 11 (deferral of compensation).
 
 (2) In Part 4 after the Part heading insert—
 
@@ -642,7 +642,7 @@ Section 22.
 
 .
 
-**31.**[^key-97473501a960c9c87eb273c221299441] (1) In paragraph 4(3) (periodic compensation for transferee over pension compensation age on transfer day)—
+**31.**[^c-97473501a960c9c87eb273c221299441] (1) In paragraph 4(3) (periodic compensation for transferee over pension compensation age on transfer day)—
 
 - (a) omit “and” at the end of paragraph (a), and
 - (b) after that paragraph insert—
@@ -668,7 +668,7 @@ Section 22.
 - (b) omit “and” at the end of the entry for paragraph 15, and
 - (c) after that entry insert— “ paragraph 16A (postponement of compensation), and ”.
 
-**32.**[^key-868df37cfdbd870d651419063592e488] (1) In paragraph 5 (periodic compensation for widow etc. of transferee over pension compensation age on transfer day)—
+**32.**[^c-868df37cfdbd870d651419063592e488] (1) In paragraph 5 (periodic compensation for widow etc. of transferee over pension compensation age on transfer day)—
 
 - (a) in sub-paragraph (3) after “(including” insert “ any actuarial increase under paragraph 16A and ”, and
 - (b) after sub-paragraph (3) insert—
@@ -691,9 +691,9 @@ Section 22.
 
   .
 
-**33.**[^key-6411cbae94db64cfd79d3212bd59c0f8] In paragraph 9(1) (commutation of periodic compensation) for “becomes payable” substitute “ commences ”.
+**33.**[^c-6411cbae94db64cfd79d3212bd59c0f8] In paragraph 9(1) (commutation of periodic compensation) for “becomes payable” substitute “ commences ”.
 
-**34.**[^key-ccf543e26a1045a4ee1d0b2a927c9f42] (1) In paragraph 12 (eligibility for terminal illness lump sum)—
+**34.**[^c-ccf543e26a1045a4ee1d0b2a927c9f42] (1) In paragraph 12 (eligibility for terminal illness lump sum)—
 
 - (a) in sub-paragraph (4) in the definition of “relevant age”—
   - (i) in paragraph (a) omit “or deferred” and “or (as the case may be) 11”, and
@@ -715,7 +715,7 @@ Section 22.
 
 .
 
-**35.**[^key-297dd723463e1f89a4373b7ae9d5ce40] (1) Paragraph 17 (annual increase in periodic compensation) is amended as follows.
+**35.**[^c-297dd723463e1f89a4373b7ae9d5ce40] (1) Paragraph 17 (annual increase in periodic compensation) is amended as follows.
 
 (2) In sub-paragraph (4) in the definition of “the underlying rate”—
 
@@ -737,7 +737,7 @@ Section 22.
 
 .
 
-**36.**[^key-b2434fd9b7b788c2cd9b9b84701b24ee] In paragraph 20 (Board's power to alter rates of revaluation and indexation) after sub-paragraph (5) insert—
+**36.**[^c-b2434fd9b7b788c2cd9b9b84701b24ee] In paragraph 20 (Board's power to alter rates of revaluation and indexation) after sub-paragraph (5) insert—
 
 > (5A) A determination under sub-paragraph (1)(b) which has effect as mentioned in sub-paragraph (5)(b)(ii) may provide that, where the payment of periodic compensation to the transferee is postponed by virtue of paragraph 16A, the determination applies as if the transferee first becomes entitled to the periodic compensation on the day on which the periodic compensation commences.
 
@@ -745,7 +745,7 @@ Section 22.
 
 ### Calculation of compensation: admissible rules etc.
 
-**37.**[^key-817c2f6ec1b3bc97a04342c0caf1605b] (1) Schedule 6 to the Pensions (Northern Ireland) Order 2005 (pension compensation provisions) is amended as follows.
+**37.**[^c-817c2f6ec1b3bc97a04342c0caf1605b] (1) Schedule 6 to the Pensions (Northern Ireland) Order 2005 (pension compensation provisions) is amended as follows.
 
 (2) In paragraph 3(6) (pensions in payment at assessment date) for “35(3)” substitute “ 35(3A) ”.
 
@@ -764,82 +764,82 @@ Section 22.
 
 ## Annotations
 
-[^key-5f66fe2f1ac456433f00218bb95561cb]: Commencement: Sch. 4 para. 1 in operation at 7.6.2012 for specified purposes by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(i)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/i)
+[^c-5f66fe2f1ac456433f00218bb95561cb]: Commencement: Sch. 4 para. 1 in operation at 7.6.2012 for specified purposes by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(i)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/i)
 
 [^M_I_6956d477-9f12-418c-a6f8-b03eadb67207]: Commencement: Sch. 4 para. 1 in operation at 2.7.2012 for specified purposes and 23.7.2012 for further specifed purposes by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(3)(a)(i)(4)(a)(i)](https://www.legislation.gov.uk/nisr/2012/265/article/2/3/a/i/4/a/i)
 
-[^key-4ccb0a86fcbda02c3a10970dc2379302]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/1) in operation at 27.3.2013 in so far as not already in operation by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(i)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/i)
+[^c-4ccb0a86fcbda02c3a10970dc2379302]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/1) in operation at 27.3.2013 in so far as not already in operation by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(i)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/i)
 
-[^key-33543b5fe2062f8c9bfdec25b5a5c470]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/2) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-33543b5fe2062f8c9bfdec25b5a5c470]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/2) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-3e409d3b9ea8669eb4b1cafdd4ed2d2f]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/3) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-3e409d3b9ea8669eb4b1cafdd4ed2d2f]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/3) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-92d2be10a66a0f36051f46d1849bec13]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/4) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-92d2be10a66a0f36051f46d1849bec13]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/4) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-8553e1e2dd312501669bde380b8b6288]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/5) in operation at 2.7.2012 for specified purposes and 23.7.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/3/a/ii)
+[^c-8553e1e2dd312501669bde380b8b6288]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/5) in operation at 2.7.2012 for specified purposes and 23.7.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/3/a/ii)
 
-[^key-9c6a5dfdb8b885b410f5c237c91b8e1a]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/6) in operation at 2.7.2012 for specified purposes and 23.7.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/3/a/ii)
+[^c-9c6a5dfdb8b885b410f5c237c91b8e1a]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/6) in operation at 2.7.2012 for specified purposes and 23.7.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/3/a/ii)
 
-[^key-679733d4fa422589e016134349ee7824]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/7) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-679733d4fa422589e016134349ee7824]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/7) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-efcea8c4eb681b2844235fc2c4ecaabf]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/8) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-efcea8c4eb681b2844235fc2c4ecaabf]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/8) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-d5fe9ce5900e6631d1f2e915f722e8f7]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/9) in operation at 2.7.2012 for specified purposes and 23.7.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/3/a/ii)
+[^c-d5fe9ce5900e6631d1f2e915f722e8f7]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/9) in operation at 2.7.2012 for specified purposes and 23.7.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/3/a/ii)
 
-[^key-b3e388ed07bee2e9ef3a645a81cafecd]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/10) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-b3e388ed07bee2e9ef3a645a81cafecd]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/10) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-86ff22e00bd72d884ab21c45f1437f18]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/11) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-86ff22e00bd72d884ab21c45f1437f18]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/11) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-40bef80a188316ddd02c8b22179a8d13]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/12) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-40bef80a188316ddd02c8b22179a8d13]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/12) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-3f14e2c81557601b8359f6172f88aac4]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/13) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-3f14e2c81557601b8359f6172f88aac4]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/13) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-c1ce15242731b5b02a7f3137cdc32002]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/14) in operation at 2.7.2012 for specified purposes and 23.7.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/3/a/iii)
+[^c-c1ce15242731b5b02a7f3137cdc32002]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/14) in operation at 2.7.2012 for specified purposes and 23.7.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/3/a/iii)
 
-[^key-386f63c4f2ce1f6053980094972d916f]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/15) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/iii)
+[^c-386f63c4f2ce1f6053980094972d916f]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/15) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/iii)
 
-[^key-3a0ac9904edffbe1864aeea6d9421ecc]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/16) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/iii)
+[^c-3a0ac9904edffbe1864aeea6d9421ecc]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/16) in operation at 23.7.2012 by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(iii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/iii)
 
-[^key-9f05079e1bce9a7bc077187d7ea308ca]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/17) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(ii)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/ii)
+[^c-9f05079e1bce9a7bc077187d7ea308ca]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/17) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(ii)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/ii)
 
-[^key-877f93e8449580a8a09c65aa346d1d3d]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/18) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(iii)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/iii)
+[^c-877f93e8449580a8a09c65aa346d1d3d]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/18) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(iii)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/iii)
 
-[^key-36927acd3368b352a4ae7c9b47b171b7]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/19) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(iv)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/iv)
+[^c-36927acd3368b352a4ae7c9b47b171b7]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/19) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(iv)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/iv)
 
-[^key-bdccdfd3405b8c169fba1d9e0f2de533]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/20) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(iv)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/iv)
+[^c-bdccdfd3405b8c169fba1d9e0f2de533]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/20) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(iv)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/iv)
 
-[^key-4b767a23f6852cbe193a998745d20614]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/21) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
+[^c-4b767a23f6852cbe193a998745d20614]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/21) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
 
-[^key-dfe65892fdfe90ee00c1b907e0980897]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/22) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
+[^c-dfe65892fdfe90ee00c1b907e0980897]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/22) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
 
-[^key-ce1608be361f18a38a304c6de52d3512]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/23) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
+[^c-ce1608be361f18a38a304c6de52d3512]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/23) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
 
-[^key-6190301d5332b073908698a27d142bc3]: Textual amendment: [Sch. 4 para. 23(9)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/23/9) omitted (31.12.2023) by virtue of [The Pensions (Pension Protection Fund Compensation) (Northern Ireland) Regulations 2023 (S.I. 2023/1312)](https://www.legislation.gov.uk/uksi/2023/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1312/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1312/regulation/5)
+[^c-6190301d5332b073908698a27d142bc3]: Textual amendment: [Sch. 4 para. 23(9)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/23/9) omitted (31.12.2023) by virtue of [The Pensions (Pension Protection Fund Compensation) (Northern Ireland) Regulations 2023 (S.I. 2023/1312)](https://www.legislation.gov.uk/uksi/2023/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1312/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1312/regulation/5)
 
-[^key-4a060526bdc88bdf5d131880e8dfcecd]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/24) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
+[^c-4a060526bdc88bdf5d131880e8dfcecd]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/24) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
 
-[^key-c1f1db6ba26adc2a6f28877398a59cfd]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/25) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
+[^c-c1f1db6ba26adc2a6f28877398a59cfd]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/25) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
 
-[^key-7e4088bc40b1145bd4160f569ecd633e]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/26) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
+[^c-7e4088bc40b1145bd4160f569ecd633e]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/26) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
 
-[^key-47c92e747b7c41869bbd12b004be5c36]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/27) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
+[^c-47c92e747b7c41869bbd12b004be5c36]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/27) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
 
-[^key-4ff61f4e259affba76465a4ceb76fa15]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/28) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
+[^c-4ff61f4e259affba76465a4ceb76fa15]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/28) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/ii)
 
-[^key-44f835e760ce85352712fc9358b42b11]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/29) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
+[^c-44f835e760ce85352712fc9358b42b11]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/29) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
 
-[^key-1c841f442528c1812bcbb8186f832086]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/30) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
+[^c-1c841f442528c1812bcbb8186f832086]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/30) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
 
-[^key-97473501a960c9c87eb273c221299441]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/31) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
+[^c-97473501a960c9c87eb273c221299441]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/31) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
 
-[^key-868df37cfdbd870d651419063592e488]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/32) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
+[^c-868df37cfdbd870d651419063592e488]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/32) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
 
-[^key-6411cbae94db64cfd79d3212bd59c0f8]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/33) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
+[^c-6411cbae94db64cfd79d3212bd59c0f8]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/33) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
 
-[^key-ccf543e26a1045a4ee1d0b2a927c9f42]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/34) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
+[^c-ccf543e26a1045a4ee1d0b2a927c9f42]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/34) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
 
-[^key-297dd723463e1f89a4373b7ae9d5ce40]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/35) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
+[^c-297dd723463e1f89a4373b7ae9d5ce40]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/35) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
 
-[^key-b2434fd9b7b788c2cd9b9b84701b24ee]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/36) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
+[^c-b2434fd9b7b788c2cd9b9b84701b24ee]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/36) in operation at 27.3.2013 by [S.R. 2013/83](https://www.legislation.gov.uk/nisr/2013/83), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2013/83/article/2/b/iii)
 
-[^key-817c2f6ec1b3bc97a04342c0caf1605b]: Commencement: [Sch. 4 para. 37](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/37) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(v)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/v)
+[^c-817c2f6ec1b3bc97a04342c0caf1605b]: Commencement: [Sch. 4 para. 37](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/37) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(v)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/v)

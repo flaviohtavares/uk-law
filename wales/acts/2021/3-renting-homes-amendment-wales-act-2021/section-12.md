@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Landlord's request to vary periodic standard contract terms: removal of additional notice procedure[^key-8dd398ee9dde5e98af88afe48e20e028]
+## 12. Landlord's request to vary periodic standard contract terms: removal of additional notice procedure[^c-8dd398ee9dde5e98af88afe48e20e028]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8dd398ee9dde5e98af88afe48e20e028]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2021/3/section/12) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-8dd398ee9dde5e98af88afe48e20e028]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2021/3/section/12) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

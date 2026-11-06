@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Survival equipment[^key-a351003ca35d0178fff124a143fed433]
+## 32A. Survival equipment[^c-a351003ca35d0178fff124a143fed433]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a351003ca35d0178fff124a143fed433]: Textual amendment: [Art. 32A](https://www.legislation.gov.uk/uksi/2015/870/article/32A) inserted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [6](https://www.legislation.gov.uk/uksi/2016/155/article/6)
+[^c-a351003ca35d0178fff124a143fed433]: Textual amendment: [Art. 32A](https://www.legislation.gov.uk/uksi/2015/870/article/32A) inserted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [6](https://www.legislation.gov.uk/uksi/2016/155/article/6)

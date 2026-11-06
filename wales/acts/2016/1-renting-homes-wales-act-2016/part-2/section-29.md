@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Model written statement of contract[^key-34bab68efb03b6d906df73fcc0290b50][^key-933cb7c985c50fd27beea7c2c64f4dec]
+## 29. Model written statement of contract[^c-34bab68efb03b6d906df73fcc0290b50][^c-933cb7c985c50fd27beea7c2c64f4dec]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34bab68efb03b6d906df73fcc0290b50]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2016/1/section/29) in force at 5.8.2016 for specified purposes by [S.I. 2016/813](https://www.legislation.gov.uk/wsi/2016/813), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/813/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2016/813/schedule/part/1)
+[^c-34bab68efb03b6d906df73fcc0290b50]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2016/1/section/29) in force at 5.8.2016 for specified purposes by [S.I. 2016/813](https://www.legislation.gov.uk/wsi/2016/813), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/813/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2016/813/schedule/part/1)
 
-[^key-933cb7c985c50fd27beea7c2c64f4dec]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2016/1/section/29) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-933cb7c985c50fd27beea7c2c64f4dec]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2016/1/section/29) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

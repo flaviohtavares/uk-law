@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Statutory sick pay: power to disapply waiting period limitation: Northern Ireland[^key-aa5fd8d0b198248c7906308f1d456b0a]
+## 43. Statutory sick pay: power to disapply waiting period limitation: Northern Ireland[^c-aa5fd8d0b198248c7906308f1d456b0a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa5fd8d0b198248c7906308f1d456b0a]: Textual amendment: [S. 43](https://www.legislation.gov.uk/ukpga/2020/7/section/43) expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90)) (with saving in [S.I. 2022/987](https://www.legislation.gov.uk/uksi/2022/987), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/987/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/987/regulation/2))
+[^c-aa5fd8d0b198248c7906308f1d456b0a]: Textual amendment: [S. 43](https://www.legislation.gov.uk/ukpga/2020/7/section/43) expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90)) (with saving in [S.I. 2022/987](https://www.legislation.gov.uk/uksi/2022/987), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/987/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/987/regulation/2))

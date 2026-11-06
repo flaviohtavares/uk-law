@@ -30,7 +30,7 @@ summary: ''
 
 PRICES
 
-The Price Marking (Amendment) Order 1995 (revoked)[^key-7dd9bfe0630aa1ff5431e9225e401b3f]
+The Price Marking (Amendment) Order 1995 (revoked)[^c-7dd9bfe0630aa1ff5431e9225e401b3f]
 
 Made
 
@@ -44,20 +44,20 @@ Coming into force
 
 7th June 1995
 
-[^key-7dd9bfe0630aa1ff5431e9225e401b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dd9bfe0630aa1ff5431e9225e401b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-7dd9bfe0630aa1ff5431e9225e401b3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7dd9bfe0630aa1ff5431e9225e401b3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7dd9bfe0630aa1ff5431e9225e401b3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7dd9bfe0630aa1ff5431e9225e401b3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7dd9bfe0630aa1ff5431e9225e401b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dd9bfe0630aa1ff5431e9225e401b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7dd9bfe0630aa1ff5431e9225e401b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dd9bfe0630aa1ff5431e9225e401b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7dd9bfe0630aa1ff5431e9225e401b3f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1995/1441) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-7dd9bfe0630aa1ff5431e9225e401b3f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1995/1441) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

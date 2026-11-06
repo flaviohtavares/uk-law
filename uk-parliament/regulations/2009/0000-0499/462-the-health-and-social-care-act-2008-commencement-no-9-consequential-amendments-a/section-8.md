@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Functions of the CHAI and the CSCI under the 2000 Act[^key-6886043a90f06486fd1fdeb120c21a6f]
+## 8. Functions of the CHAI and the CSCI under the 2000 Act[^c-6886043a90f06486fd1fdeb120c21a6f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 which makes transitory provision in relation to functions of the CHAI
 
 ## Annotations
 
-[^key-6886043a90f06486fd1fdeb120c21a6f]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2009/462/article/8) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
+[^c-6886043a90f06486fd1fdeb120c21a6f]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2009/462/article/8) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)

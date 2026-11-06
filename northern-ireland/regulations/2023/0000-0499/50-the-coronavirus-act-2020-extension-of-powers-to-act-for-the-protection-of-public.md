@@ -48,11 +48,11 @@ Coming into operation
 
 The Department of Health[^f00001], in exercise of the powers conferred by section 90(2) of the Coronavirus Act 2020[^f00002], makes the following order.
 
-## 1. Citation and commencement[^key-f6e52162e8e6b869a5dd93192a387c79]
+## 1. Citation and commencement[^c-f6e52162e8e6b869a5dd93192a387c79]
 
 This order may be cited as The Coronavirus Act 2020 (Extension of Powers to Act for the Protection of Public Health) Order (Northern Ireland) 2023 and shall come into operation on 24th March 2023.
 
-## 2. Alteration of expiry date[^key-9058bd1bb1d54d0a2f4a01f44f09cf2a]
+## 2. Alteration of expiry date[^c-9058bd1bb1d54d0a2f4a01f44f09cf2a]
 
 Section 48 of, and Schedule 18 to, the Coronavirus Act 2020 do not expire at the time when they would otherwise expire and expire instead on 24th September 2023.
 
@@ -76,6 +76,6 @@ This order extends the expiry date of section 48 of, and Schedule 18 to, the Cor
 
 [^f00002]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7)
 
-[^key-f6e52162e8e6b869a5dd93192a387c79]: Commencement: Art. 1 in operation at 24.3.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/50/article/1)
+[^c-f6e52162e8e6b869a5dd93192a387c79]: Commencement: Art. 1 in operation at 24.3.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/50/article/1)
 
-[^key-9058bd1bb1d54d0a2f4a01f44f09cf2a]: Commencement: Art. 2 in operation at 24.3.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/50/article/1)
+[^c-9058bd1bb1d54d0a2f4a01f44f09cf2a]: Commencement: Art. 2 in operation at 24.3.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/50/article/1)

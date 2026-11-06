@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Voluntary referral to CMA[^key-147f145b38e546a1ccc97db975b8ffd2][^key-22885817fc661de3d6ad514795fea60e]
+## 56. Voluntary referral to CMA[^c-147f145b38e546a1ccc97db975b8ffd2][^c-22885817fc661de3d6ad514795fea60e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-147f145b38e546a1ccc97db975b8ffd2]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-147f145b38e546a1ccc97db975b8ffd2]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-22885817fc661de3d6ad514795fea60e]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/23/section/56) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-22885817fc661de3d6ad514795fea60e]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/23/section/56) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

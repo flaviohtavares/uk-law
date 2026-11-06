@@ -37,95 +37,95 @@ establishing a common format for the notification of electronic cigarettes and r
 
 (Text with EEA relevance) (revoked)
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-3113f85b46733f0a277d5c4d50cbd1d6]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Format for notification[^key-3113f85b46733f0a277d5c4d50cbd1d6]
+## Article 1. Subject matter[^c-3113f85b46733f0a277d5c4d50cbd1d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Storage of data[^key-3113f85b46733f0a277d5c4d50cbd1d6]
+## Article 2. Format for notification[^c-3113f85b46733f0a277d5c4d50cbd1d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Identification number of the data submitter[^key-3113f85b46733f0a277d5c4d50cbd1d6]
+## Article 3. Storage of data[^c-3113f85b46733f0a277d5c4d50cbd1d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Identification number of the product[^key-3113f85b46733f0a277d5c4d50cbd1d6]
+## Article 4. Identification number of the data submitter[^c-3113f85b46733f0a277d5c4d50cbd1d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Confidential data and disclosure of data[^key-3113f85b46733f0a277d5c4d50cbd1d6]
+## Article 5. Identification number of the product[^c-3113f85b46733f0a277d5c4d50cbd1d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Addressees[^key-3113f85b46733f0a277d5c4d50cbd1d6]
+## Article 6. Confidential data and disclosure of data[^c-3113f85b46733f0a277d5c4d50cbd1d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 7. Addressees[^c-3113f85b46733f0a277d5c4d50cbd1d6]
 
-## ANNEX[^key-3113f85b46733f0a277d5c4d50cbd1d6]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]1.
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-3113f85b46733f0a277d5c4d50cbd1d6]
+
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]1.
 
 FIELD DESCRIPTIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]2.
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]2.
 
 SUBMITTER CHARACTERISTICS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]2.1.
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]2.1.
 
 **Manufacturer/Importer Parent company characteristics**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]2.2.
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]2.2.
 
 **Manufacturer/Importer affiliate company characteristics**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]2.3.
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]2.3.
 
 **Enterer reporting on behalf of the submitter**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]3.
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]3.
 
 PRODUCT INFORMATION SUBMISSION AND DESCRIPTION — PART A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]3.
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]3.
 
 PRODUCT INFORMATION SUBMISSION AND DESCRIPTION — PART B.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]4.
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]4.
 
 DESCRIPTION OF INGREDIENTS CONTAINED IN THE PRODUCT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]5.
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]5.
 
 EMISSIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]6.
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]6.
 
 PRODUCT DESIGN
 
@@ -133,4 +133,4 @@ PRODUCT DESIGN
 
 ## Annotations
 
-[^key-3113f85b46733f0a277d5c4d50cbd1d6]: Textual amendment: Decision revoked (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/41/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3113f85b46733f0a277d5c4d50cbd1d6]: Textual amendment: Decision revoked (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/41/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

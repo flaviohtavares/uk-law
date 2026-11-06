@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Amount of the fee loan[^key-d8117a26092190cc2ba0a7ba68b57f93]
+## 21. Amount of the fee loan[^c-d8117a26092190cc2ba0a7ba68b57f93]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8117a26092190cc2ba0a7ba68b57f93]: Commencement: Reg. 21 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-d8117a26092190cc2ba0a7ba68b57f93]: Commencement: Reg. 21 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

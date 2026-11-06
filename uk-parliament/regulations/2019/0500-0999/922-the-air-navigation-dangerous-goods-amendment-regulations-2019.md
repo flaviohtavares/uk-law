@@ -31,7 +31,7 @@ summary: ''
 
 Civil Aviation
 
-The Air Navigation (Dangerous Goods) (Amendment) Regulations 2019 (revoked)[^key-63388908cca0067c52846256fab1f448]
+The Air Navigation (Dangerous Goods) (Amendment) Regulations 2019 (revoked)[^c-63388908cca0067c52846256fab1f448]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 15th May 2019
 
-[^key-63388908cca0067c52846256fab1f448]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63388908cca0067c52846256fab1f448]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-63388908cca0067c52846256fab1f448]
+## 1. Citation and Commencement[^c-63388908cca0067c52846256fab1f448]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-63388908cca0067c52846256fab1f448]
+## 2. Amendment of Regulations[^c-63388908cca0067c52846256fab1f448]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-63388908cca0067c52846256fab1f448]
+## 3. Revocation[^c-63388908cca0067c52846256fab1f448]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-63388908cca0067c52846256fab1f448]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63388908cca0067c52846256fab1f448]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-63388908cca0067c52846256fab1f448]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63388908cca0067c52846256fab1f448]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63388908cca0067c52846256fab1f448]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/922) revoked (29.6.2021) by [The Air Navigation (Dangerous Goods) (Amendment) Regulations 2021 (S.I. 2021/742)](https://www.legislation.gov.uk/uksi/2021/742), [reg. 3](https://www.legislation.gov.uk/uksi/2021/742/regulation/3)
+[^c-63388908cca0067c52846256fab1f448]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/922) revoked (29.6.2021) by [The Air Navigation (Dangerous Goods) (Amendment) Regulations 2021 (S.I. 2021/742)](https://www.legislation.gov.uk/uksi/2021/742), [reg. 3](https://www.legislation.gov.uk/uksi/2021/742/regulation/3)

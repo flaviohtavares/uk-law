@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Off-setting payments under a notice[^key-e34f51a39cae0c49ef47c2bce8df7a35]
+## 82. Off-setting payments under a notice[^c-e34f51a39cae0c49ef47c2bce8df7a35]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e34f51a39cae0c49ef47c2bce8df7a35]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2007/15/section/82) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-e34f51a39cae0c49ef47c2bce8df7a35]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2007/15/section/82) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

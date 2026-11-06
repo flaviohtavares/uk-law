@@ -35,7 +35,7 @@ National Health Service, England
 
 Social Care, England
 
-The Care and Support (Discharge of Hospital Patients) Regulations 2014 (revoked)[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+The Care and Support (Discharge of Hospital Patients) Regulations 2014 (revoked)[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 Made
 
@@ -47,62 +47,62 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(1)
 
-[^key-8c83e560a2b736e99a00e8fb7da26fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c83e560a2b736e99a00e8fb7da26fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+## 1. Citation, commencement and interpretation[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Form of notices[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+## 2. Form of notices[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Assessment notice: contents[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+## 3. Assessment notice: contents[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Assessment notice: withdrawal[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+## 4. Assessment notice: withdrawal[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Discharge notice: minimum period of service[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+## 5. Discharge notice: minimum period of service[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Discharge notice: contents[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+## 6. Discharge notice: contents[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Discharge notice: withdrawal[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+## 7. Discharge notice: withdrawal[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Relevant day[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+## 8. Relevant day[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Delayed discharge period[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+## 9. Delayed discharge period[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Delayed discharge payment[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+## 10. Delayed discharge payment[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Day on which assessment and discharge notice is to be regarded as given[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+## 11. Day on which assessment and discharge notice is to be regarded as given[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Ordinary residence[^key-8c83e560a2b736e99a00e8fb7da26fdc]
+## 12. Ordinary residence[^c-8c83e560a2b736e99a00e8fb7da26fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8c83e560a2b736e99a00e8fb7da26fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c83e560a2b736e99a00e8fb7da26fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8c83e560a2b736e99a00e8fb7da26fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c83e560a2b736e99a00e8fb7da26fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8c83e560a2b736e99a00e8fb7da26fdc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2823) revoked (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 91(3)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/91/3/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-8c83e560a2b736e99a00e8fb7da26fdc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2823) revoked (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 91(3)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/91/3/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

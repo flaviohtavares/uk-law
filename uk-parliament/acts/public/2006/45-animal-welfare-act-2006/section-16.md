@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Making of codes of practice: Wales[^key-b74170cf680e0d95aef665cc2f1a5787]
+## 16. Making of codes of practice: Wales[^c-b74170cf680e0d95aef665cc2f1a5787]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b74170cf680e0d95aef665cc2f1a5787]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/45/section/16) in force at 24.10.2007 for W. by [S.I. 2007/3065](https://www.legislation.gov.uk/wsi/2007/3065), [art. 2(a)](https://www.legislation.gov.uk/wsi/2007/3065/article/2/a)
+[^c-b74170cf680e0d95aef665cc2f1a5787]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/45/section/16) in force at 24.10.2007 for W. by [S.I. 2007/3065](https://www.legislation.gov.uk/wsi/2007/3065), [art. 2(a)](https://www.legislation.gov.uk/wsi/2007/3065/article/2/a)

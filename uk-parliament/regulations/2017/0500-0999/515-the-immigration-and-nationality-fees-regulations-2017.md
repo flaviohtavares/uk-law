@@ -44,57 +44,57 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2) and (3)
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a]The Secretary of State makes the following Regulations with the consent of the Treasury, in exercise of the powers conferred by sections 68(1), (7), (8) and (10), 69(2), and 74(8)(a), (b) and (d) of the Immigration Act 2014[^f00001]. These Regulations are made further to provision in the Immigration and Nationality (Fees) Order 2016[^f00002].
+[^c-02a5f24f8bbeadfafdf2f274f961af3a]The Secretary of State makes the following Regulations with the consent of the Treasury, in exercise of the powers conferred by sections 68(1), (7), (8) and (10), 69(2), and 74(8)(a), (b) and (d) of the Immigration Act 2014[^f00001]. These Regulations are made further to provision in the Immigration and Nationality (Fees) Order 2016[^f00002].
 
-## 1. Citation, commencement and extent[^key-02a5f24f8bbeadfafdf2f274f961af3a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## 1. Citation, commencement and extent[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees for applications, processes and services in connection with immigration and nationality[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## 2. Interpretation[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 3. Fees for applications, processes and services in connection with immigration and nationality[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
-**5.**[^key-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^key-9989a52956cfc3f7708edf8e8690233f]
+**12.**[^c-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Amendment of the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^c-9989a52956cfc3f7708edf8e8690233f]
 
 Schedule 12 (amendment of the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011) has effect.
 
-## 15. Rate of exchange[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## 15. Rate of exchange[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Consequences of failing to pay the specified fee[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## 16. Consequences of failing to pay the specified fee[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Payments for in person applications[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## 17. Payments for in person applications[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Revocations[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## 18. Revocations[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -116,207 +116,207 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 30th March 2017
 
-## SCHEDULE 1 — APPLICATIONS FOR ENTRY CLEARANCE TO ENTER AND LEAVE TO ENTER THE UNITED KINGDOM[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## SCHEDULE 1 — APPLICATIONS FOR ENTRY CLEARANCE TO ENTER AND LEAVE TO ENTER THE UNITED KINGDOM[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 Regulation 3
 
-### ...[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-7f04234cb2224af0a311bfdbded182b1]
+### ...[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-7f04234cb2224af0a311bfdbded182b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-b0abecae13314362f1093801d6eb3a36]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-b0abecae13314362f1093801d6eb3a36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-e0b77feeb3c609743904475f01842f99]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-e0b77feeb3c609743904475f01842f99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-06b313b54a91da416064042e2e3e5f13]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-06b313b54a91da416064042e2e3e5f13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — APPLICATIONS FOR LEAVE TO REMAIN IN THE UNITED KINGDOM[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## SCHEDULE 2 — APPLICATIONS FOR LEAVE TO REMAIN IN THE UNITED KINGDOM[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 Regulation 4
 
-### ...[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-86f348738921cbc38bf393bac993560b]
+### ...[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-86f348738921cbc38bf393bac993560b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-a2588fbbd4e97ed4055c89878dd82ae6]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-a2588fbbd4e97ed4055c89878dd82ae6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-e205a9b057fb83bf88462d8fe6997e95]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-e205a9b057fb83bf88462d8fe6997e95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-0151012840b31240cfa2fe2c7fc7c301]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-0151012840b31240cfa2fe2c7fc7c301]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-9d296599f354f27b123e99d590d54904]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-9d296599f354f27b123e99d590d54904]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — DOCUMENTS AND ADMINISTRATION[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## SCHEDULE 3 — DOCUMENTS AND ADMINISTRATION[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 Regulation 5
 
-### ...[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-82c43ab58212e0cb4ea32a71b6e8b244]
+### ...[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-82c43ab58212e0cb4ea32a71b6e8b244]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-46171d73f3edb3dbc05cb65dbe849397]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-46171d73f3edb3dbc05cb65dbe849397]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-21292c7470bc2661c59f767ba4b2fbc2]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-21292c7470bc2661c59f767ba4b2fbc2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — SPONSORSHIP[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## SCHEDULE 4 — SPONSORSHIP[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 Regulation 6
 
-### ...[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-0aaad8c47e567881d55ef8fc5c6009da]
+### ...[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-0aaad8c47e567881d55ef8fc5c6009da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-ab853ee5b1cc45518bb300aaf4fb6355]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-ab853ee5b1cc45518bb300aaf4fb6355]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-950bfedbf41601196f7cff52b94e92f2]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-950bfedbf41601196f7cff52b94e92f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — CONSULAR FUNCTIONS[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## SCHEDULE 5 — CONSULAR FUNCTIONS[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 Regulation 7
 
-### ...[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-ba5693684d590940431ac9d7ad410b47]
+### ...[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-ba5693684d590940431ac9d7ad410b47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-2968c130f1c616febf9edea65470da95]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-2968c130f1c616febf9edea65470da95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-f85cf19b60e1e2a131c0a1e404fdfff7]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-f85cf19b60e1e2a131c0a1e404fdfff7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-d9a7dffb33c15427adf6c6c8d16a31ca]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-d9a7dffb33c15427adf6c6c8d16a31ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — PREMIUM SERVICES (IN THE UNITED KINGDOM)[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## SCHEDULE 6 — PREMIUM SERVICES (IN THE UNITED KINGDOM)[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 Regulation 8
 
-### ...[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-7ac48141f1a9e7a3f6d70d8ceca488f0]
+### ...[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-7ac48141f1a9e7a3f6d70d8ceca488f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-009e8ae3b9f563bd36e277bf932a680c]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-009e8ae3b9f563bd36e277bf932a680c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-5b4d9f30c47fb667ca128360a8f43714]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-5b4d9f30c47fb667ca128360a8f43714]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — PREMIUM SERVICES (OUTSIDE THE UNITED KINGDOM)[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## SCHEDULE 7 — PREMIUM SERVICES (OUTSIDE THE UNITED KINGDOM)[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 Regulation 9
 
-### ...[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-dc60f00305b19bc8857ab62877fb6bec]
+### ...[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-dc60f00305b19bc8857ab62877fb6bec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-dcd500a573c702c6c0751e6a26ba3918][^key-064e205da73e16c6a70314047055573c]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-dcd500a573c702c6c0751e6a26ba3918][^c-064e205da73e16c6a70314047055573c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-d50380a66c1533ef0bd9dc802f939041]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-d50380a66c1533ef0bd9dc802f939041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 8 — NATIONALITY[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## SCHEDULE 8 — NATIONALITY[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 Regulation 10
 
-### ...[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-e8ee8a47becc68a88f1b9556cf1c0b57]
+### ...[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-e8ee8a47becc68a88f1b9556cf1c0b57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-3b1de825d27fc1b9fb9176e55ecc3b6e]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-3b1de825d27fc1b9fb9176e55ecc3b6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-616c5039c2c66665136d6d59bc69103d]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-616c5039c2c66665136d6d59bc69103d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-634a4a931fa20d636150f907eea29451]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-634a4a931fa20d636150f907eea29451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-d25d90eb3f0c6208519954313cd3e111]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-d25d90eb3f0c6208519954313cd3e111]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 9 — APPLICATIONS FOR ENTRY CLEARANCE TO ENTER THE ISLE OF MAN[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## SCHEDULE 9 — APPLICATIONS FOR ENTRY CLEARANCE TO ENTER THE ISLE OF MAN[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 Regulation 11
 
-### ...[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-397f532908e808ba4e88907fc421be08]
+### ...[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-397f532908e808ba4e88907fc421be08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-2ceb4ec314df4034e87b10fbbceca036]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-2ceb4ec314df4034e87b10fbbceca036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-f3d8124c32f4c6d13c2a179c9acdd109]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-f3d8124c32f4c6d13c2a179c9acdd109]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-eda51457414cbc8b46cd2712ef14a3e2]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-eda51457414cbc8b46cd2712ef14a3e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 10 — APPLICATIONS FOR ENTRY CLEARANCE TO ENTER THE BAILIWICK OF GUERNSEY AND THE BAILIWICK OF JERSEY[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+## SCHEDULE 10 — APPLICATIONS FOR ENTRY CLEARANCE TO ENTER THE BAILIWICK OF GUERNSEY AND THE BAILIWICK OF JERSEY[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 Regulation 12
 
-### ...[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-a7619e9ee376044af13e0e56bafeca12]
+### ...[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-a7619e9ee376044af13e0e56bafeca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-dd26dbb6c92b39197f25901cc55348b5][^key-a7619e9ee376044af13e0e56bafeca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-dd26dbb6c92b39197f25901cc55348b5][^c-a7619e9ee376044af13e0e56bafeca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-946800f34af7b0db111f01929fae280f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-2d6c617548a79b07f3621c8a8e87461b]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-946800f34af7b0db111f01929fae280f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 11 — MISCELLANEOUS FEES[^key-02a5f24f8bbeadfafdf2f274f961af3a]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-2d6c617548a79b07f3621c8a8e87461b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 11 — MISCELLANEOUS FEES[^c-02a5f24f8bbeadfafdf2f274f961af3a]
 
 Regulation 13
 
-**....**[^key-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Fee for the administration of the Life in the UK Test[^key-687d12a84e9d15715c1bfc56e80b64d9]
+### 2. Fee for the administration of the Life in the UK Test[^c-687d12a84e9d15715c1bfc56e80b64d9]
 
 A fee of £50 is payable for the administration of the Life in the UK Test.
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a][^key-916d16d35d388ab259826ec27c0b423c]
+[^c-02a5f24f8bbeadfafdf2f274f961af3a][^c-916d16d35d388ab259826ec27c0b423c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -324,9 +324,9 @@ A fee of £50 is payable for the administration of the Life in the UK Test.
 
 Regulation 14
 
-**1.**[^key-ef4f113e8608edc88fc6d135e8c2d8f4] (1) The First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^f00089] is amended as follows.
+**1.**[^c-ef4f113e8608edc88fc6d135e8c2d8f4] (1) The First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^f00089] is amended as follows.
 
-(2)[^key-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-02a5f24f8bbeadfafdf2f274f961af3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For article 5(1A) and (1B) (exemption from fees) substitute—
 
@@ -363,96 +363,96 @@ A note outlining the likely impact of these Regulations has been laid before Par
 
 ## Annotations
 
-[^key-02a5f24f8bbeadfafdf2f274f961af3a]: Textual amendment: Regulations revoked (except reg. 14 and Sch. 12 para. 1(1)(3)) (6.4.2018) by [The Immigration and Nationality (Fees) Regulations 2018 (S.I. 2018/330)](https://www.legislation.gov.uk/uksi/2018/330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/330/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2018/330/regulation/18/a)
+[^c-02a5f24f8bbeadfafdf2f274f961af3a]: Textual amendment: Regulations revoked (except reg. 14 and Sch. 12 para. 1(1)(3)) (6.4.2018) by [The Immigration and Nationality (Fees) Regulations 2018 (S.I. 2018/330)](https://www.legislation.gov.uk/uksi/2018/330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/330/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2018/330/regulation/18/a)
 
 [^f00001]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22). Treasury consent has been obtained in pursuance of section 69(1) of the Immigration Act 2014 (“the 2014 Act”).
 
 [^f00002]: Footnote: [S.I. 2016/177](https://www.legislation.gov.uk/uksi/2016/177); this Order was amended by [S.I. 2017/440](https://www.legislation.gov.uk/uksi/2017/440).
 
-[^key-9989a52956cfc3f7708edf8e8690233f]: Commencement: Reg. 14 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-9989a52956cfc3f7708edf8e8690233f]: Commencement: Reg. 14 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-7f04234cb2224af0a311bfdbded182b1]: Commencement: Sch. 1 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-7f04234cb2224af0a311bfdbded182b1]: Commencement: Sch. 1 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-b0abecae13314362f1093801d6eb3a36]: Commencement: Sch. 1 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-b0abecae13314362f1093801d6eb3a36]: Commencement: Sch. 1 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-e0b77feeb3c609743904475f01842f99]: Commencement: Sch. 1 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-e0b77feeb3c609743904475f01842f99]: Commencement: Sch. 1 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-06b313b54a91da416064042e2e3e5f13]: Commencement: Sch. 1 para. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-06b313b54a91da416064042e2e3e5f13]: Commencement: Sch. 1 para. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-86f348738921cbc38bf393bac993560b]: Commencement: Sch. 2 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-86f348738921cbc38bf393bac993560b]: Commencement: Sch. 2 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-a2588fbbd4e97ed4055c89878dd82ae6]: Commencement: Sch. 2 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-a2588fbbd4e97ed4055c89878dd82ae6]: Commencement: Sch. 2 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-e205a9b057fb83bf88462d8fe6997e95]: Commencement: Sch. 2 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-e205a9b057fb83bf88462d8fe6997e95]: Commencement: Sch. 2 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-0151012840b31240cfa2fe2c7fc7c301]: Commencement: Sch. 2 para. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-0151012840b31240cfa2fe2c7fc7c301]: Commencement: Sch. 2 para. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-9d296599f354f27b123e99d590d54904]: Commencement: Sch. 2 para. 5 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-9d296599f354f27b123e99d590d54904]: Commencement: Sch. 2 para. 5 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-82c43ab58212e0cb4ea32a71b6e8b244]: Commencement: Sch. 3 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-82c43ab58212e0cb4ea32a71b6e8b244]: Commencement: Sch. 3 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-46171d73f3edb3dbc05cb65dbe849397]: Commencement: Sch. 3 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-46171d73f3edb3dbc05cb65dbe849397]: Commencement: Sch. 3 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-21292c7470bc2661c59f767ba4b2fbc2]: Commencement: Sch. 3 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-21292c7470bc2661c59f767ba4b2fbc2]: Commencement: Sch. 3 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-0aaad8c47e567881d55ef8fc5c6009da]: Commencement: Sch. 4 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-0aaad8c47e567881d55ef8fc5c6009da]: Commencement: Sch. 4 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-ab853ee5b1cc45518bb300aaf4fb6355]: Commencement: Sch. 4 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-ab853ee5b1cc45518bb300aaf4fb6355]: Commencement: Sch. 4 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-950bfedbf41601196f7cff52b94e92f2]: Commencement: Sch. 4 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-950bfedbf41601196f7cff52b94e92f2]: Commencement: Sch. 4 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-ba5693684d590940431ac9d7ad410b47]: Commencement: Sch. 5 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-ba5693684d590940431ac9d7ad410b47]: Commencement: Sch. 5 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-2968c130f1c616febf9edea65470da95]: Commencement: Sch. 5 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-2968c130f1c616febf9edea65470da95]: Commencement: Sch. 5 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-f85cf19b60e1e2a131c0a1e404fdfff7]: Commencement: Sch. 5 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-f85cf19b60e1e2a131c0a1e404fdfff7]: Commencement: Sch. 5 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-d9a7dffb33c15427adf6c6c8d16a31ca]: Commencement: Sch. 5 para. 4 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/1)
+[^c-d9a7dffb33c15427adf6c6c8d16a31ca]: Commencement: Sch. 5 para. 4 in force at 6.4.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/1)
 
-[^key-7ac48141f1a9e7a3f6d70d8ceca488f0]: Commencement: Sch. 6 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-7ac48141f1a9e7a3f6d70d8ceca488f0]: Commencement: Sch. 6 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-009e8ae3b9f563bd36e277bf932a680c]: Commencement: Sch. 6 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-009e8ae3b9f563bd36e277bf932a680c]: Commencement: Sch. 6 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-5b4d9f30c47fb667ca128360a8f43714]: Commencement: Sch. 6 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-5b4d9f30c47fb667ca128360a8f43714]: Commencement: Sch. 6 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-dc60f00305b19bc8857ab62877fb6bec]: Commencement: Sch. 7 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-dc60f00305b19bc8857ab62877fb6bec]: Commencement: Sch. 7 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-dcd500a573c702c6c0751e6a26ba3918]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2017/515/schedule/7/paragraph/2) in force at 6.4.2017 for specified purposes, see [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2/3)
+[^c-dcd500a573c702c6c0751e6a26ba3918]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2017/515/schedule/7/paragraph/2) in force at 6.4.2017 for specified purposes, see [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2/3)
 
-[^key-064e205da73e16c6a70314047055573c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2017/515/schedule/7/paragraph/2) in force at 6.4.2017 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/3)
+[^c-064e205da73e16c6a70314047055573c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2017/515/schedule/7/paragraph/2) in force at 6.4.2017 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/3)
 
-[^key-d50380a66c1533ef0bd9dc802f939041]: Commencement: Sch. 7 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-d50380a66c1533ef0bd9dc802f939041]: Commencement: Sch. 7 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-e8ee8a47becc68a88f1b9556cf1c0b57]: Commencement: Sch. 8 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-e8ee8a47becc68a88f1b9556cf1c0b57]: Commencement: Sch. 8 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-3b1de825d27fc1b9fb9176e55ecc3b6e]: Commencement: Sch. 8 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-3b1de825d27fc1b9fb9176e55ecc3b6e]: Commencement: Sch. 8 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-616c5039c2c66665136d6d59bc69103d]: Commencement: Sch. 8 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-616c5039c2c66665136d6d59bc69103d]: Commencement: Sch. 8 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-634a4a931fa20d636150f907eea29451]: Commencement: Sch. 8 para. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-634a4a931fa20d636150f907eea29451]: Commencement: Sch. 8 para. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-d25d90eb3f0c6208519954313cd3e111]: Commencement: Sch. 8 para. 5 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-d25d90eb3f0c6208519954313cd3e111]: Commencement: Sch. 8 para. 5 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-397f532908e808ba4e88907fc421be08]: Commencement: Sch. 9 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-397f532908e808ba4e88907fc421be08]: Commencement: Sch. 9 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-2ceb4ec314df4034e87b10fbbceca036]: Commencement: Sch. 9 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-2ceb4ec314df4034e87b10fbbceca036]: Commencement: Sch. 9 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-f3d8124c32f4c6d13c2a179c9acdd109]: Commencement: Sch. 9 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-f3d8124c32f4c6d13c2a179c9acdd109]: Commencement: Sch. 9 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-eda51457414cbc8b46cd2712ef14a3e2]: Commencement: Sch. 9 para. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-eda51457414cbc8b46cd2712ef14a3e2]: Commencement: Sch. 9 para. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-a7619e9ee376044af13e0e56bafeca12]: Commencement: Sch. 10 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-a7619e9ee376044af13e0e56bafeca12]: Commencement: Sch. 10 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-dd26dbb6c92b39197f25901cc55348b5]: Commencement: Sch. 10 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-dd26dbb6c92b39197f25901cc55348b5]: Commencement: Sch. 10 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-946800f34af7b0db111f01929fae280f]: Commencement: Sch. 10 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-946800f34af7b0db111f01929fae280f]: Commencement: Sch. 10 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-2d6c617548a79b07f3621c8a8e87461b]: Commencement: Sch. 10 para. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-2d6c617548a79b07f3621c8a8e87461b]: Commencement: Sch. 10 para. 4 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-687d12a84e9d15715c1bfc56e80b64d9]: Commencement: Sch. 11 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-687d12a84e9d15715c1bfc56e80b64d9]: Commencement: Sch. 11 para. 2 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-916d16d35d388ab259826ec27c0b423c]: Commencement: Sch. 11 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-916d16d35d388ab259826ec27c0b423c]: Commencement: Sch. 11 para. 3 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
-[^key-ef4f113e8608edc88fc6d135e8c2d8f4]: Commencement: Sch. 12 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
+[^c-ef4f113e8608edc88fc6d135e8c2d8f4]: Commencement: Sch. 12 para. 1 in force at 6.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/515/regulation/1/2)
 
 [^f00089]: Footnote: [S.I. 2011/2841](https://www.legislation.gov.uk/uksi/2011/2841); amendments have been made to that Order by [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), [2016/928](https://www.legislation.gov.uk/uksi/2016/928) and [2016/1149](https://www.legislation.gov.uk/uksi/2016/1149).

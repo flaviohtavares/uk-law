@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 318. Crown status[^key-d7bf08d580ced552e654da4f32f2cf58]
+## 318. Crown status[^c-d7bf08d580ced552e654da4f32f2cf58]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7bf08d580ced552e654da4f32f2cf58]: Commencement: S. 318 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-d7bf08d580ced552e654da4f32f2cf58]: Commencement: S. 318 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

@@ -28,7 +28,7 @@ summary: ''
 (2) Where a debt (or any part of a debt) in respect of which the Secretary of State has made a payment in pursuance of section 182 constitutes—
 
 - (a) a preferential debt within the meaning of the [^c16334221]Insolvency Act 1986 for the purposes of any provision of that Act (including any such provision as applied by any order made under that Act) or any provision of the the Companies Act 2006[^c20375331], or
-- (b) a preferred debt within the meaning of the Bankruptcy (Scotland) Act 2016[^key-c728751d746a3f2cc9f95207a22ed488] for the purposes of any provision of that Act (including any such provision as applied by section 11A of the [^c16334251]Judicial Factors (Scotland) Act 1889),
+- (b) a preferred debt within the meaning of the Bankruptcy (Scotland) Act 2016[^c-c728751d746a3f2cc9f95207a22ed488] for the purposes of any provision of that Act (including any such provision as applied by section 11A of the [^c16334251]Judicial Factors (Scotland) Act 1889),
 
 the rights which become rights of the Secretary of State in accordance with subsection (1) include any right arising under any such provision by reason of the status of the debt (or that part of it) as a preferential or preferred debt.
 
@@ -51,7 +51,7 @@ any claim of the Secretary of State to be so paid by virtue of subsection (2) sh
 
 [^c20375331]: Textual amendment: Words in s. 189(2)(a) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 ([S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [3(1)](https://www.legislation.gov.uk/uksi/2008/948/article/3/1), [Sch. 1 para. 201](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/201) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-c728751d746a3f2cc9f95207a22ed488]: Textual amendment: Word in s. 189(2)(b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 16(4)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/16/4)
+[^c-c728751d746a3f2cc9f95207a22ed488]: Textual amendment: Word in s. 189(2)(b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 16(4)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/16/4)
 
 [^c16334251]: Marginal citation: [1889 c. 39](https://www.legislation.gov.uk/ukpga/1889/39).
 

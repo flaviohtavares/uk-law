@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4A — Disposal of interest in settled property: deemed disposal of underlying assets[^key-1dbdd0ff47b72eb8f83ad80bbaae49a4]
+## SCHEDULE 4A — Disposal of interest in settled property: deemed disposal of underlying assets[^c-1dbdd0ff47b72eb8f83ad80bbaae49a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,15 +63,15 @@ This is subject to paragraph 13(3)(a) where the beginning of the disposal and it
 
 ### Condition as to UK residence of trustees
 
-**5.** (1) The condition as to UK residence of the trustees is that the trustees of the settlement were resident[^key-bc1c8c1b663b7c1cf4334a895f5be87c] [^key-2fd778cea48582dfa14b85fd4b7deb01]... in the United Kingdom during any part of the year.
+**5.** (1) The condition as to UK residence of the trustees is that the trustees of the settlement were resident[^c-bc1c8c1b663b7c1cf4334a895f5be87c] [^c-2fd778cea48582dfa14b85fd4b7deb01]... in the United Kingdom during any part of the year.
 
-(2) For this purpose the trustees shall not be regarded as resident[^key-c7c67dd16f65ee5dca2684c35e82f333] [^key-2fd778cea48582dfa14b85fd4b7deb01]... in the United Kingdom at any time when they fall to be regarded for the purposes of any double taxation relief arrangements as resident in a territory outside the United Kingdom.
+(2) For this purpose the trustees shall not be regarded as resident[^c-c7c67dd16f65ee5dca2684c35e82f333] [^c-2fd778cea48582dfa14b85fd4b7deb01]... in the United Kingdom at any time when they fall to be regarded for the purposes of any double taxation relief arrangements as resident in a territory outside the United Kingdom.
 
 (3) This paragraph has effect subject to paragraph 13(3)(b) where the beginning of the disposal and its effective completion fall in different years of assessment.
 
 ### Condition as to UK residence of settlor
 
-**6.** (1) The condition as to UK residence of the settlor is that as respects the relevant[^key-74688eb5bcb7397430cd08ccb1bbc0f6] year of assessment, or any of the previous five years of assessment, a person who is a settlor in relation to the settlement was UK resident for the tax year (as determined in accordance with Chapter 1 of Part 1 of this Act)[^key-f7e13220c15f5a60790b16afd38fcc57].
+**6.** (1) The condition as to UK residence of the settlor is that as respects the relevant[^c-74688eb5bcb7397430cd08ccb1bbc0f6] year of assessment, or any of the previous five years of assessment, a person who is a settlor in relation to the settlement was UK resident for the tax year (as determined in accordance with Chapter 1 of Part 1 of this Act)[^c-f7e13220c15f5a60790b16afd38fcc57].
 
 (2) Sub-paragraph (1) has effect subject to paragraph 13(3)(c) where the beginning of the disposal and its effective completion fall in different years of assessment.
 
@@ -97,21 +97,21 @@ If the rule in sub-paragraph (2) (or, where relevant, that in paragraph 13(3)(d)
 
 (4) For the purposes of this paragraph a “settlor-interested settlement” means a settlement in which a person who is a settlor in relation to the settlement has an interest or had an interest at any time in the relevant period.
 
-The provisions of section 169F(2) to (6)[^key-6df6845a7df19056bdd150c7a87ddfd6] apply to determine for the purposes of this paragraph whether a settlor has (or had) an interest in the settlement.
+The provisions of section 169F(2) to (6)[^c-6df6845a7df19056bdd150c7a87ddfd6] apply to determine for the purposes of this paragraph whether a settlor has (or had) an interest in the settlement.
 
 (5) The condition as to settlor interest in the settlement is treated as not met in a year of assessment—
 
-- (a) where the settlor dies during the year, [^key-a0d89cdb844a8013ea3fbab6d1448912]...
+- (a) where the settlor dies during the year, [^c-a0d89cdb844a8013ea3fbab6d1448912]...
 - (b) in a case where the settlor is regarded as having an interest in the settlement by reason only of—
-  - (i) the fact that property is, or will or may become, payable to or applicable for the benefit of his spouse or civil partner[^key-2bec920e3ce0bf72e41fed8c745f861f], or
+  - (i) the fact that property is, or will or may become, payable to or applicable for the benefit of his spouse or civil partner[^c-2bec920e3ce0bf72e41fed8c745f861f], or
   - (ii) the fact that a benefit is enjoyed by his spouse or civil partner,
 
-  where the spouse or civil partner dies, or the settlor and the spouse or civil partner cease to be married or to be civil partners of each other[^key-7dcff352bd09ae40fa1b46a901c7ab8e], during the year, or[^key-448307eb6cbe601a31e5e59e7134b571]
+  where the spouse or civil partner dies, or the settlor and the spouse or civil partner cease to be married or to be civil partners of each other[^c-7dcff352bd09ae40fa1b46a901c7ab8e], during the year, or[^c-448307eb6cbe601a31e5e59e7134b571]
 - (c) in a case where the settlor is regarded as having an interest in a settlement by reason only of—
   - (i) the fact that property is, or will or may become, payable to or applicable for the benefit of a dependent child of his, or
   - (ii) the fact that a benefit is enjoyed by such a child,
 
-  where the settlor ceases during the year to have (and does not in that year subsequently come to have) any dependent child in relation to whom section 169F(3A)(a) or (b)[^key-05e479e7e1d91b1e715d2bcb82c3b905] applies.
+  where the settlor ceases during the year to have (and does not in that year subsequently come to have) any dependent child in relation to whom section 169F(3A)(a) or (b)[^c-05e479e7e1d91b1e715d2bcb82c3b905] applies.
 
 ### The relevant underlying assets
 
@@ -189,7 +189,7 @@ A “chargeable disposal” means one in relation to which section 76(1) does no
 
 ### Meaning of “settlor”
 
-**12.** The provisions of paragraphs 7 and 8(1), (3), (6) and (7) of Schedule 5[^key-ef42781536d30a3034581ab752d66bd3] (meaning of “settlor”) apply for the purposes of this Schedule as they apply for the purposes of section 86[^key-e3032567c8cc9243b9966b6196479ced].
+**12.** The provisions of paragraphs 7 and 8(1), (3), (6) and (7) of Schedule 5[^c-ef42781536d30a3034581ab752d66bd3] (meaning of “settlor”) apply for the purposes of this Schedule as they apply for the purposes of section 86[^c-e3032567c8cc9243b9966b6196479ced].
 
 ### Cases where there is a period between the beginning of the disposal and its effective completion
 
@@ -220,36 +220,36 @@ A “chargeable disposal” means one in relation to which section 76(1) does no
 
 ### Exception: maintenance funds for historic buildings
 
-**14.** If the trustees of a settlement have elected that 508 of ITA 2007 (trustees' election in respect of income arising from heritage maintenance property)[^key-420d5ababd9a42ac37cbf8661aeba06d] shall have effect in the case of a settlement or part of a settlement in relation to a year of assessment, this Schedule does not apply in relation to the settlement or part for that year.
+**14.** If the trustees of a settlement have elected that 508 of ITA 2007 (trustees' election in respect of income arising from heritage maintenance property)[^c-420d5ababd9a42ac37cbf8661aeba06d] shall have effect in the case of a settlement or part of a settlement in relation to a year of assessment, this Schedule does not apply in relation to the settlement or part for that year.
 
 ## Annotations
 
-[^key-1dbdd0ff47b72eb8f83ad80bbaae49a4]: Textual amendment: Sch. 4A inserted (with application in accordance with s. 91(3) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 91(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/91/2), [Sch. 24](https://www.legislation.gov.uk/ukpga/2000/17/schedule/24)
+[^c-1dbdd0ff47b72eb8f83ad80bbaae49a4]: Textual amendment: Sch. 4A inserted (with application in accordance with s. 91(3) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 91(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/91/2), [Sch. 24](https://www.legislation.gov.uk/ukpga/2000/17/schedule/24)
 
-[^key-bc1c8c1b663b7c1cf4334a895f5be87c]: Textual amendment: Words in Sch. 4A para. 5(1) substituted (6.4.2007) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 paras. 39](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/39), [41](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/41)
+[^c-bc1c8c1b663b7c1cf4334a895f5be87c]: Textual amendment: Words in Sch. 4A para. 5(1) substituted (6.4.2007) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 paras. 39](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/39), [41](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/41)
 
-[^key-2fd778cea48582dfa14b85fd4b7deb01]: Textual amendment: Words in Sch. 4A para. 5(1)(2) omitted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 106(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/106/2)
+[^c-2fd778cea48582dfa14b85fd4b7deb01]: Textual amendment: Words in Sch. 4A para. 5(1)(2) omitted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 106(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/106/2)
 
-[^key-c7c67dd16f65ee5dca2684c35e82f333]: Textual amendment: Words in Sch. 4A para. 5(2) substituted (with effect in accordance with Sch. 12 para. 34(3) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 34(1)(2)(e)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/34/2/e)
+[^c-c7c67dd16f65ee5dca2684c35e82f333]: Textual amendment: Words in Sch. 4A para. 5(2) substituted (with effect in accordance with Sch. 12 para. 34(3) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 34(1)(2)(e)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/34/2/e)
 
-[^key-74688eb5bcb7397430cd08ccb1bbc0f6]: Textual amendment: Words in Sch. 4A para. 6(1) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 106(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/106/3/a) (with [Sch. 46 para. 106(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/106/4))
+[^c-74688eb5bcb7397430cd08ccb1bbc0f6]: Textual amendment: Words in Sch. 4A para. 6(1) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 106(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/106/3/a) (with [Sch. 46 para. 106(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/106/4))
 
-[^key-f7e13220c15f5a60790b16afd38fcc57]: Textual amendment: Words in [Sch. 4A para. 6(1)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4A/paragraph/6/1) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 88](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/88)
+[^c-f7e13220c15f5a60790b16afd38fcc57]: Textual amendment: Words in [Sch. 4A para. 6(1)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4A/paragraph/6/1) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 88](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/88)
 
-[^key-6df6845a7df19056bdd150c7a87ddfd6]: Textual amendment: Words in Sch. 4A para. 7(4) substituted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/7/2/a)
+[^c-6df6845a7df19056bdd150c7a87ddfd6]: Textual amendment: Words in Sch. 4A para. 7(4) substituted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/7/2/a)
 
-[^key-a0d89cdb844a8013ea3fbab6d1448912]: Textual amendment: Word in Sch. 4A para. 7(5)(a) repealed (with effect in accordance with Sch. 12 para. 5(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/5/1/a), [Sch. 26 Pt. 3(15)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/15)
+[^c-a0d89cdb844a8013ea3fbab6d1448912]: Textual amendment: Word in Sch. 4A para. 7(5)(a) repealed (with effect in accordance with Sch. 12 para. 5(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/5/1/a), [Sch. 26 Pt. 3(15)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/15)
 
-[^key-2bec920e3ce0bf72e41fed8c745f861f]: Textual amendment: Words in Sch. 4A para. 7(5)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [125(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/125/a)
+[^c-2bec920e3ce0bf72e41fed8c745f861f]: Textual amendment: Words in Sch. 4A para. 7(5)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [125(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/125/a)
 
-[^key-7dcff352bd09ae40fa1b46a901c7ab8e]: Textual amendment: Words in Sch. 4A para. 7(5)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [125(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/125/b)
+[^c-7dcff352bd09ae40fa1b46a901c7ab8e]: Textual amendment: Words in Sch. 4A para. 7(5)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [125(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/125/b)
 
-[^key-448307eb6cbe601a31e5e59e7134b571]: Textual amendment: Sch. 4A para. 7(5)(c) and preceding word inserted (with effect in accordance with Sch. 12 para. 5(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/5/1/b)
+[^c-448307eb6cbe601a31e5e59e7134b571]: Textual amendment: Sch. 4A para. 7(5)(c) and preceding word inserted (with effect in accordance with Sch. 12 para. 5(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/5/1/b)
 
-[^key-05e479e7e1d91b1e715d2bcb82c3b905]: Textual amendment: Words in Sch. 4A para. 7(5)(c) substituted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/7/2/b)
+[^c-05e479e7e1d91b1e715d2bcb82c3b905]: Textual amendment: Words in Sch. 4A para. 7(5)(c) substituted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/7/2/b)
 
-[^key-ef42781536d30a3034581ab752d66bd3]: Textual amendment: Words in Sch. 4A para. 12 substituted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/7/3/a)
+[^c-ef42781536d30a3034581ab752d66bd3]: Textual amendment: Words in Sch. 4A para. 12 substituted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/7/3/a)
 
-[^key-e3032567c8cc9243b9966b6196479ced]: Textual amendment: Words in Sch. 4A para. 12 substituted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/7/3/b)
+[^c-e3032567c8cc9243b9966b6196479ced]: Textual amendment: Words in Sch. 4A para. 12 substituted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/7/3/b)
 
-[^key-420d5ababd9a42ac37cbf8661aeba06d]: Textual amendment: Words in Sch. 4A para. 14 substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 344](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/344) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-420d5ababd9a42ac37cbf8661aeba06d]: Textual amendment: Words in Sch. 4A para. 14 substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 344](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/344) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

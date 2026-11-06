@@ -22,7 +22,7 @@ summary: ''
 
 Article 10
 
-### PART 1 — THOSE PARTS OF ACCESSES TO BE MAINTAINED AT THE PUBLIC EXPENSE[^key-ceca756440f56c39a1132b5a68b3d8d5]
+### PART 1 — THOSE PARTS OF ACCESSES TO BE MAINTAINED AT THE PUBLIC EXPENSE[^c-ceca756440f56c39a1132b5a68b3d8d5]
 
 Table 8
 
@@ -30,7 +30,7 @@ Table 8
 | --- | --- | --- |
 | City and County of Swansea | Rhyd–y–pandy road | New road surface located in the area shown hatched blue **between points C and D** on the rights of way, streets and access plan. |
 
-### PART 2 — THOSE PARTS OF ACCESSES TO BE MAINTAINED BY THE STREET AUTHORITY[^key-a2edc0ba47106b64fbdf56bb811ee6af]
+### PART 2 — THOSE PARTS OF ACCESSES TO BE MAINTAINED BY THE STREET AUTHORITY[^c-a2edc0ba47106b64fbdf56bb811ee6af]
 
 Table 9
 
@@ -41,7 +41,7 @@ Table 9
 | City and County of Swansea | New private access road (unnamed) | New access road comprising part of numbered work 2 and shown hatched pink **between the points marked O and T** on the rights of way, streets and access plan. |
 | City and County of Swansea | Private access road (unnamed) leading from B4489 to Swansea North substation and Felindre gas compressor station | Modified access road comprising part of numbered work 2 and shown hatched pink **between the points marked T and W** on the rights of way, streets and access plan. |
 
-### PART 3 — THOSE WORKS TO RESTORE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED AT THE PUBLIC EXPENSE[^key-cb4f305c4ae70ebeacc3250484c98e74]
+### PART 3 — THOSE WORKS TO RESTORE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED AT THE PUBLIC EXPENSE[^c-cb4f305c4ae70ebeacc3250484c98e74]
 
 Table 10
 
@@ -49,7 +49,7 @@ Table 10
 | --- | --- | --- |
 | City and County of Swansea | Temporary access from Rhyd–y–pandy road | Temporary construction access in the area shown hatched pink **between the points marked C and D** on the rights of way, streets and access plan. |
 
-### PART 4 — THOSE WORKS TO RESTORE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED BY THE STREET AUTHORITY[^key-57f36231b52cd7a728accc400d91320c]
+### PART 4 — THOSE WORKS TO RESTORE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED BY THE STREET AUTHORITY[^c-57f36231b52cd7a728accc400d91320c]
 
 Table 11
 
@@ -62,10 +62,10 @@ Table 11
 
 ## Annotations
 
-[^key-ceca756440f56c39a1132b5a68b3d8d5]: Commencement: Sch. 5 Pt. 1 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-ceca756440f56c39a1132b5a68b3d8d5]: Commencement: Sch. 5 Pt. 1 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
 
-[^key-a2edc0ba47106b64fbdf56bb811ee6af]: Commencement: Sch. 5 Pt. 2 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-a2edc0ba47106b64fbdf56bb811ee6af]: Commencement: Sch. 5 Pt. 2 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
 
-[^key-cb4f305c4ae70ebeacc3250484c98e74]: Commencement: Sch. 5 Pt. 3 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-cb4f305c4ae70ebeacc3250484c98e74]: Commencement: Sch. 5 Pt. 3 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
 
-[^key-57f36231b52cd7a728accc400d91320c]: Commencement: Sch. 5 Pt. 4 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-57f36231b52cd7a728accc400d91320c]: Commencement: Sch. 5 Pt. 4 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)

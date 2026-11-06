@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Motor racing on public roads: general[^key-3510097a0fe30b0621521ec7b2f099bd]
+## 73. Motor racing on public roads: general[^c-3510097a0fe30b0621521ec7b2f099bd]
 
 *Extent: E+W+S*
 
@@ -297,4 +297,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3510097a0fe30b0621521ec7b2f099bd]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2015/20/section/73) in force at 10.3.2017 by [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a)
+[^c-3510097a0fe30b0621521ec7b2f099bd]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2015/20/section/73) in force at 10.3.2017 by [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a)

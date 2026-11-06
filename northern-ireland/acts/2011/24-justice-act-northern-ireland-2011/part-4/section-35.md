@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Regulated matches[^c22421641][^key-97526117bbdf765469dbc02e75cd81d0]
+## 35. Regulated matches[^c22421641][^c-97526117bbdf765469dbc02e75cd81d0]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c22421641]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2011/24/section/35) wholly in operation at 1.1.2012; [s. 35](https://www.legislation.gov.uk/nia/2011/24/section/35) not in operation at Royal Assent see [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [s. 35](https://www.legislation.gov.uk/nia/2011/24/section/35) in operation for specified purposes at 1.8.2011 by [S.R. 2011/224](https://www.legislation.gov.uk/nisr/2011/224), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/224/article/3/a); [s. 35](https://www.legislation.gov.uk/nia/2011/24/section/35) in operation at 1.1.2012 in so far as not already in operation by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(c)](https://www.legislation.gov.uk/nisr/2011/370/article/3/c)
 
-[^key-97526117bbdf765469dbc02e75cd81d0]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2011/24/section/35) in operation at 1.1.2012 in so far as not already in operation by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(c)](https://www.legislation.gov.uk/nisr/2011/370/article/3/c)
+[^c-97526117bbdf765469dbc02e75cd81d0]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2011/24/section/35) in operation at 1.1.2012 in so far as not already in operation by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(c)](https://www.legislation.gov.uk/nisr/2011/370/article/3/c)

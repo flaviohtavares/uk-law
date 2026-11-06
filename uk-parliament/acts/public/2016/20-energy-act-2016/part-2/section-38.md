@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Duty to inform the OGA of meetings[^key-0f4f4cc8d713b3ae710daa87673b5ae5]
+## 38. Duty to inform the OGA of meetings[^c-0f4f4cc8d713b3ae710daa87673b5ae5]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f4f4cc8d713b3ae710daa87673b5ae5]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2016/20/section/38) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-0f4f4cc8d713b3ae710daa87673b5ae5]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2016/20/section/38) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

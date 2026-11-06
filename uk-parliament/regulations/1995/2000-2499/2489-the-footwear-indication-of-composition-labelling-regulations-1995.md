@@ -48,13 +48,13 @@ Whereas the Secretary of State is a Minister designated[^f00001] for the purpose
 
 Now, the Secretary of State, in exercise of the powers conferred upon him by section 2(2) of that Act and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-10556b2719e6b970bd81b814592da20c]
+## 1. Citation and commencement[^c-10556b2719e6b970bd81b814592da20c]
 
 (1) These Regulations may be cited as the Footwear (Indication of Composition) Labelling Regulations 1995 and except as provided by paragraph 2 below shall come into force on 23rd March 1996.
 
 (2) In the case of footwear invoiced or delivered to a retailer on or before 22nd March 1996, these Regulations shall come into force on 23rd September 1997.
 
-## 2. Interpretation[^key-66ba39e5ea78cb87c6c792a969aec075]
+## 2. Interpretation[^c-66ba39e5ea78cb87c6c792a969aec075]
 
 *Extent: E+W+S*
 
@@ -62,7 +62,7 @@ In these Regulations—
 
 - “the Act of 1968” means the Trade Descriptions Act 1968;
 - “coated leather” means leather with a surface coating applied provided that the coating as applied does not exceed one third of the total thickness of the product and is in excess of 0.15mm;
-- [^key-771477dfa3da84f6aba589fdf93a3668]...
+- [^c-771477dfa3da84f6aba589fdf93a3668]...
 - “consumer” means any natural person who is acting for purposes which are outside his trade, business or profession;
 - “footwear” means all articles with applied soles designed to protect or cover the foot, including one or more of the main components when marketed separately;
 - “full grain leather” means a leather bearing the original grain surface as exposed by removal of the epidermis and with none of the surface removed by buffing, snuffing or splitting;
@@ -72,8 +72,8 @@ In these Regulations—
 - “outer sole” means the bottom part of the footwear article, which is subject to abrasive wear and attached to the upper;
 - “responsible person” in relation to footwear means—
   - (a) the manufacturer;
-  - (b) the manufacturer’s authorised agent established in Great Britain[^key-4f59f98c7972215e200cdfb57c779176]; or
-  - (c) where neither the manufacturer nor his authorised agent is established in Great Britain, the person who first places the footwear on the market in Great Britain;[^key-da1e5dcc5368b062912c2ab5056b4cdc]
+  - (b) the manufacturer’s authorised agent established in Great Britain[^c-4f59f98c7972215e200cdfb57c779176]; or
+  - (c) where neither the manufacturer nor his authorised agent is established in Great Britain, the person who first places the footwear on the market in Great Britain;[^c-da1e5dcc5368b062912c2ab5056b4cdc]
 - “retailer” means any person who supplies footwear to consumers;
 - “supply” shall be construed in accordance with section 46 of the Consumer Protection Act 1987[^f00003] and includes offering to supply, agreeing to supply, exposing for supply and possessing for supply, and cognate expressions shall be construed accordingly;
 - “textiles” shall mean all products covered by Directive [71/307/EEC](https://www.legislation.gov.uk/european/directive/1971/0307)[^f00004] and amendments thereof; and
@@ -97,14 +97,14 @@ In these Regulations—
 - “outer sole” means the bottom part of the footwear article, which is subject to abrasive wear and attached to the upper;
 - “responsible person” in relation to footwear means—
   - (a) the manufacturer;
-  - (b) the manufacturer’s authorised agent established in the European Union or in Northern Ireland[^key-a640df412e33547d2187c9318ccc7c77]; or
-  - (c) where neither the manufacturer nor his authorised agent is established in the European Union or in Northern Ireland, the person who first places the footwear on the market in the European Union or in Northern Ireland;[^key-2d1c2900905041674f249dd517edbd1a]
+  - (b) the manufacturer’s authorised agent established in the European Union or in Northern Ireland[^c-a640df412e33547d2187c9318ccc7c77]; or
+  - (c) where neither the manufacturer nor his authorised agent is established in the European Union or in Northern Ireland, the person who first places the footwear on the market in the European Union or in Northern Ireland;[^c-2d1c2900905041674f249dd517edbd1a]
 - “retailer” means any person who supplies footwear to consumers;
 - “supply” shall be construed in accordance with section 46 of the Consumer Protection Act 1987[^f00003] and includes offering to supply, agreeing to supply, exposing for supply and possessing for supply, and cognate expressions shall be construed accordingly;
 - “textiles” shall mean all products covered by Directive [71/307/EEC](https://www.legislation.gov.uk/european/directive/1971/0307)[^f00004] and amendments thereof; and
 - “upper” means the outer face of the structural element which is attached to the outer sole.
 
-## 3. Application[^key-b5103c5325d549d0469249eab3514f48]
+## 3. Application[^c-b5103c5325d549d0469249eab3514f48]
 
 (1) These Regulations apply to footwear sold or offered for sale to consumers.
 
@@ -113,17 +113,17 @@ In these Regulations—
 (3) The following types of footwear are excluded from these Regulations—
 
 - (a) second-hand, worn footwear,
-- (b) protective footwear covered by Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive[^key-390e5609f8200cd5cdd22d0a5ab1a92a] [89/686/EEC](https://www.legislation.gov.uk/eudr/1989/686),
-- (c) footwear covered by Regulation[^key-c5922d19f02db0098ac8c88746a6b810] [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907) of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) and repealing Council Regulation [(EEC) No 793/93](https://www.legislation.gov.uk/eur/1993/793) and Commission Regulation [(EC) No 1488/94](https://www.legislation.gov.uk/eur/1994/1488) as well as Council Directive [76/769/EEC](https://www.legislation.gov.uk/eudr/1976/769) and Commission Directives [91/155/EEC](https://www.legislation.gov.uk/eudr/1991/155), [93/67/EEC](https://www.legislation.gov.uk/eudr/1993/67), [93/105/EC](https://www.legislation.gov.uk/eudr/1993/105) and [2000/21/EC](https://www.legislation.gov.uk/eudr/2000/21), and
+- (b) protective footwear covered by Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive[^c-390e5609f8200cd5cdd22d0a5ab1a92a] [89/686/EEC](https://www.legislation.gov.uk/eudr/1989/686),
+- (c) footwear covered by Regulation[^c-c5922d19f02db0098ac8c88746a6b810] [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907) of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) and repealing Council Regulation [(EEC) No 793/93](https://www.legislation.gov.uk/eur/1993/793) and Commission Regulation [(EC) No 1488/94](https://www.legislation.gov.uk/eur/1994/1488) as well as Council Directive [76/769/EEC](https://www.legislation.gov.uk/eudr/1976/769) and Commission Directives [91/155/EEC](https://www.legislation.gov.uk/eudr/1991/155), [93/67/EEC](https://www.legislation.gov.uk/eudr/1993/67), [93/105/EC](https://www.legislation.gov.uk/eudr/1993/105) and [2000/21/EC](https://www.legislation.gov.uk/eudr/2000/21), and
 - (d) toy footwear.
 
-## 4. Requirements applicable to responsible persons[^key-30a5c4ef9b8441c6a0097fe755752988]
+## 4. Requirements applicable to responsible persons[^c-30a5c4ef9b8441c6a0097fe755752988]
 
 (1) The responsible person shall ensure that footwear placed on the market shall comply with the labelling requirements of these Regulations.
 
 (2) The responsible person shall be responsible for supplying the labelling to be conveyed upon the foowear and for the accuracy of the information contained in it.
 
-## 5. Labelling requirements[^key-a5aca7bb7e3af252b1da64b218e6b130]
+## 5. Labelling requirements[^c-a5aca7bb7e3af252b1da64b218e6b130]
 
 *Extent: E+W+S*
 
@@ -133,7 +133,7 @@ In these Regulations—
 
 (3) In the case of the upper, in determining the composition no account shall be taken of any accessories or reinforcements such as ankle patches, edging, ornamentation buckles, tabs, eyelet stays or similar attachments.
 
-(4) The manufacturer or his authorised agent established in Great Britain[^key-dd72e823b06a9a8089c27d8a85e6a0ce] may provide the information required in accordance with paragraph (1) above by way of a pictogram or written indication as set out in Schedule 2 to these Regulations.
+(4) The manufacturer or his authorised agent established in Great Britain[^c-dd72e823b06a9a8089c27d8a85e6a0ce] may provide the information required in accordance with paragraph (1) above by way of a pictogram or written indication as set out in Schedule 2 to these Regulations.
 
 (5) Subject to the requirements of this regulation, the labelling may contain additional information to that required by paragraph (4) above.
 
@@ -151,7 +151,7 @@ In these Regulations—
 
 (3) In the case of the upper, in determining the composition no account shall be taken of any accessories or reinforcements such as ankle patches, edging, ornamentation buckles, tabs, eyelet stays or similar attachments.
 
-(4) The manufacturer or his authorised agent established in the European Union[^V_NI_87da59df-b380-77bb-d215-5acf1413cbfd] or in Northern Ireland[^key-41926547240dee3ec869d291e788441e] may provide the information required in accordance with paragraph (1) above by way of a pictogram or written indication as set out in Schedule 2 to these Regulations.
+(4) The manufacturer or his authorised agent established in the European Union[^V_NI_87da59df-b380-77bb-d215-5acf1413cbfd] or in Northern Ireland[^c-41926547240dee3ec869d291e788441e] may provide the information required in accordance with paragraph (1) above by way of a pictogram or written indication as set out in Schedule 2 to these Regulations.
 
 (5) Subject to the requirements of this regulation, the labelling may contain additional information to that required by paragraph (4) above.
 
@@ -159,7 +159,7 @@ In these Regulations—
 
 (7) The responsible person shall ensure that any labelling attached to footwear is not likely to mislead consumers as to its composition therof.
 
-## 6. Obligation on retailers[^key-9e29d7e98f5baa80ec98908032962405]
+## 6. Obligation on retailers[^c-9e29d7e98f5baa80ec98908032962405]
 
 (1) No retailer shall supply footwear unless it is labelled in accordance with the requirements of these Regulations.
 
@@ -167,28 +167,28 @@ In these Regulations—
 
 (3) Any retailer who supplies footwear labelled by way of a pictogram from premises other than that to which consumers are admitted shall ensure that consumers are informed of the meaning of any pictogram shown, in accordance with regulation 5, on the labelling of any footwear he supplies.
 
-## 7. Offences[^key-c5a1f98781c829e16db29abf5d8a591e]
+## 7. Offences[^c-c5a1f98781c829e16db29abf5d8a591e]
 
 An indication of composition of any footwear which satisfies the requirements of these Regulations shall be deemed not to be a trade description for the purposes of the Act of 1968.
 
-**8.**[^key-c5a1f98781c829e16db29abf5d8a591e] Any person who contravenes the provisions of regulation 4 or 6 shall be guilty of an offence and shall be liable—
+**8.**[^c-c5a1f98781c829e16db29abf5d8a591e] Any person who contravenes the provisions of regulation 4 or 6 shall be guilty of an offence and shall be liable—
 
 - (a) on summary conviction, to a fine not exceeding level 5 on the Standard Scale;
 - (b) on conviction on indictment, to a fine.
 
-## 9. Compliance notices[^key-aa698d8ccef31400a5fb41e9ebff43a2]
+## 9. Compliance notices[^c-aa698d8ccef31400a5fb41e9ebff43a2]
 
 (1) Where an enforcement authority has reasonable grounds for suspecting that the provisions of these Regulations have been or are being contravened it may serve a notice (a “compliance notice”) on the responsible person or, as the case may be, the retailer and the provisions of sections 26, 27, 28, 29 and 30(1) of the Act of 1968 shall not be applied until such a notice has been so served and the person upon whom it has been served has failed to comply with its requirements.
 
 (2) Schedule 3 shall have effect in respect of a compliance notice.
 
-## 10. Enforcement[^key-af971ad8484a99d0f2dd0339a19129a4]
+## 10. Enforcement[^c-af971ad8484a99d0f2dd0339a19129a4]
 
 (1) The following provisions of the Act of 1968 shall apply in relation to an offence under these Regulations as they apply in relation to an offence under that Act (modified where appropriate in relation to Northern Ireland by section 40(1) of that Act), that is to say sections 19, 20, 23 and 24 as if references in those sections to offences under the Act of 1968 were references to offences under these Regulations and in relation to Northern Ireland as if those references were modified in accordance with section 40(1) of the Act of 1968.
 
-(2)[^key-3e4c04fc861967256022bb7037efb8f6] Section 26 of the Act of 1968 shall (with necessary modifications) apply in relation to the enforcement of these Regulations as it applies in relation to the enforcement of that Act (modified where appropriate in relation to Northern Ireland as aforesaid).
+(2)[^c-3e4c04fc861967256022bb7037efb8f6] Section 26 of the Act of 1968 shall (with necessary modifications) apply in relation to the enforcement of these Regulations as it applies in relation to the enforcement of that Act (modified where appropriate in relation to Northern Ireland as aforesaid).
 
-(3)[^key-c4f7f622bf37e25fc9e968d9a8f446ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c4f7f622bf37e25fc9e968d9a8f446ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Jonathan Evans,
 
@@ -196,11 +196,11 @@ Parliamentary Under-Secretary of State for Competition and Consumer Affairs,
 
 Department of Trade and Industry
 
-## SCHEDULE 1 — NON-EXHAUSTIVE LIST OF FOOTWEAR COVERED BY THESE REGULATIONS[^key-66b951a7f8539a06847611eb539c8cd3]
+## SCHEDULE 1 — NON-EXHAUSTIVE LIST OF FOOTWEAR COVERED BY THESE REGULATIONS[^c-66b951a7f8539a06847611eb539c8cd3]
 
 Regulation 3(2)
 
-[^key-66b951a7f8539a06847611eb539c8cd3]“Footwear” may range from sandals with uppers consisting simply of adjustable laces or ribbons to thigh boots the uppers of which cover the leg and thigh. Among the products included therefore are—
+[^c-66b951a7f8539a06847611eb539c8cd3]“Footwear” may range from sandals with uppers consisting simply of adjustable laces or ribbons to thigh boots the uppers of which cover the leg and thigh. Among the products included therefore are—
 
 - (i) flat or high-heeled shoes for ordinary indoor or outdoor wear;
 - (ii) ankle-boots, half-boots, knee-boots and thigh boots;
@@ -212,13 +212,13 @@ Regulation 3(2)
 - (viii) disposable footwear, with applied soles, generally designed to be used only once;
 - (ix) orthopaedic footwear, other than medical devices to which the Medical Devices Regulations 1994[^f00007] apply.
 
-[^key-66b951a7f8539a06847611eb539c8cd3]For reasons of homogeneity and clarity, and subject to the provisions mentioned in the description of the products covered by Directive [94/11/EC](https://www.legislation.gov.uk/european/directive/1994/0011), products covered by Chapter 64 of the combined nomenclature (CN) may, as a general rule, be regarded as falling within the scope of Directive [94/11/EC](https://www.legislation.gov.uk/european/directive/1994/0011)
+[^c-66b951a7f8539a06847611eb539c8cd3]For reasons of homogeneity and clarity, and subject to the provisions mentioned in the description of the products covered by Directive [94/11/EC](https://www.legislation.gov.uk/european/directive/1994/0011), products covered by Chapter 64 of the combined nomenclature (CN) may, as a general rule, be regarded as falling within the scope of Directive [94/11/EC](https://www.legislation.gov.uk/european/directive/1994/0011)
 
 ## SCHEDULE 2
 
 Regulation 5(4)
 
-**1.**[^key-6058361ea9e7bf3e6640b1c7b623cdba] Pictograms or written indications concerning the parts of the footwear to be identified.
+**1.**[^c-6058361ea9e7bf3e6640b1c7b623cdba] Pictograms or written indications concerning the parts of the footwear to be identified.
 
 |  | *Pictograms* | *Written indications* |
 | --- | --- | --- |
@@ -226,7 +226,7 @@ Regulation 5(4)
 | (b) Lining and sock. | [image: see source](https://www.legislation.gov.uk/uksi/1995/2489/images/uksi_19952489_en_002) | Lining and sock. |
 | (c) Outer sole. | [image: see source](https://www.legislation.gov.uk/uksi/1995/2489/images/uksi_19952489_en_003) | Outer sole. |
 
-**2.**[^key-9d45fec83c4ad1e738b395a233093c9e] Pictograms or written indications concerning materials used in the composition of footwear.
+**2.**[^c-9d45fec83c4ad1e738b395a233093c9e] Pictograms or written indications concerning materials used in the composition of footwear.
 
 |  | *Pictograms* | *Written indications* |
 | --- | --- | --- |
@@ -235,17 +235,17 @@ Regulation 5(4)
 | (b) Natural textile materials and synthetic or non-woven textile materials. | [image: see source](https://www.legislation.gov.uk/uksi/1995/2489/images/uksi_19952489_en_006) | Textile. |
 | All other materials. | [image: see source](https://www.legislation.gov.uk/uksi/1995/2489/images/uksi_19952489_en_007) | Other materials. |
 
-**3.**[^key-a3ea0c9ff78ded0322ae722ff0a80518] Any pictogram concerning material shall appear on the label beside the pictogram of the relevant footwear part.
+**3.**[^c-a3ea0c9ff78ded0322ae722ff0a80518] Any pictogram concerning material shall appear on the label beside the pictogram of the relevant footwear part.
 
-**4.**[^key-f2fc004b3cc2d73873a7f70eefcffc7d] The dimensions of any pictograms must be sufficiently large to make it easy to understand the information contained therein.
+**4.**[^c-f2fc004b3cc2d73873a7f70eefcffc7d] The dimensions of any pictograms must be sufficiently large to make it easy to understand the information contained therein.
 
-**5.**[^key-f06c30c472ca779970f674381784c1e0] Any written indication shall be in the English Language.
+**5.**[^c-f06c30c472ca779970f674381784c1e0] Any written indication shall be in the English Language.
 
 ## SCHEDULE 3 — COMPLIANCE NOTICE
 
 Regulation 9
 
-**1.**[^key-442b716e513c3ac1e7d9885313c59c79] The notice shall—
+**1.**[^c-442b716e513c3ac1e7d9885313c59c79] The notice shall—
 
 - (a) specify the description of the footwear to which the notice relates;
 - (b) state that the enforcement authority suspects that a contravention of a provision of these Regulations has taken place and the reasons for that suspicion;
@@ -255,7 +255,7 @@ Regulation 9
   - (ii) to provide evidence within that period to the satisfaction of the enforcement authority that all the provisions of these Regulations have been complied with; and
 - (e) warn that person that if the non-conformity continues (or if satisfactory evidence has not been produced under sub-paragraph (ii) of paragraph (d) above) within the period specified in the notice, further action may be taken under these Regulations in respect of that footwear or any footwear of the same type supplied by that person.
 
-**2.**[^key-fd18d330fc2c261ca9241ab6a35f229a] The notice may include directions as to the measures to be taken by that person to secure compliance with the provisions of these Regulations, including different ways of securing compliance.
+**2.**[^c-fd18d330fc2c261ca9241ab6a35f229a] The notice may include directions as to the measures to be taken by that person to secure compliance with the provisions of these Regulations, including different ways of securing compliance.
 
 (This note does not form part of the Regulations)
 
@@ -281,15 +281,15 @@ A compliance cost assessment is available, copies of which have been placed in t
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-10556b2719e6b970bd81b814592da20c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-10556b2719e6b970bd81b814592da20c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-66ba39e5ea78cb87c6c792a969aec075]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/2489/regulation/2) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-66ba39e5ea78cb87c6c792a969aec075]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/2489/regulation/2) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-771477dfa3da84f6aba589fdf93a3668]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/2489/regulation/2) omitted (E.W.S.) (31.12.2020) by virtue of [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9B(2)(a)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9B/2/a) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
+[^c-771477dfa3da84f6aba589fdf93a3668]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/2489/regulation/2) omitted (E.W.S.) (31.12.2020) by virtue of [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9B(2)(a)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9B/2/a) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
 
-[^key-4f59f98c7972215e200cdfb57c779176]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/2489/regulation/2) substituted (E.W.S.) (31.12.2020) by [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9B(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9B/2/b/i) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
+[^c-4f59f98c7972215e200cdfb57c779176]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/2489/regulation/2) substituted (E.W.S.) (31.12.2020) by [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9B(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9B/2/b/i) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
 
-[^key-da1e5dcc5368b062912c2ab5056b4cdc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/2489/regulation/2) substituted (E.W.S.) (31.12.2020) by [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9B(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9B/2/b/ii) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
+[^c-da1e5dcc5368b062912c2ab5056b4cdc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/2489/regulation/2) substituted (E.W.S.) (31.12.2020) by [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9B(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9B/2/b/ii) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
 
 [^f00003]: Footnote: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43).
 
@@ -299,54 +299,54 @@ A compliance cost assessment is available, copies of which have been placed in t
 
 [^V_NI_bd0d7226-7e96-a5b8-4fda-099d2cc493ad]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
-[^key-a640df412e33547d2187c9318ccc7c77]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/2489/regulation/2) inserted (N.I.) (31.12.2020) by [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9D(2)(a)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9D/2/a) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
+[^c-a640df412e33547d2187c9318ccc7c77]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/2489/regulation/2) inserted (N.I.) (31.12.2020) by [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9D(2)(a)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9D/2/a) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
 
-[^key-2d1c2900905041674f249dd517edbd1a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/2489/regulation/2) substituted (N.I.) (31.12.2020) by [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9D(2)(b)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9D/2/b) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
+[^c-2d1c2900905041674f249dd517edbd1a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1995/2489/regulation/2) substituted (N.I.) (31.12.2020) by [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9D(2)(b)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9D/2/b) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
 
-[^key-b5103c5325d549d0469249eab3514f48]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/2489/regulation/3) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-b5103c5325d549d0469249eab3514f48]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/2489/regulation/3) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-390e5609f8200cd5cdd22d0a5ab1a92a]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/1995/2489/regulation/3/3/b) substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-390e5609f8200cd5cdd22d0a5ab1a92a]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/1995/2489/regulation/3/3/b) substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c5922d19f02db0098ac8c88746a6b810]: Textual amendment: Words in [reg. 3(3)(c)](https://www.legislation.gov.uk/uksi/1995/2489/regulation/3/3/c) substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5922d19f02db0098ac8c88746a6b810]: Textual amendment: Words in [reg. 3(3)(c)](https://www.legislation.gov.uk/uksi/1995/2489/regulation/3/3/c) substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1326)](https://www.legislation.gov.uk/uksi/2018/1326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-30a5c4ef9b8441c6a0097fe755752988]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/2489/regulation/4) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-30a5c4ef9b8441c6a0097fe755752988]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/2489/regulation/4) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-a5aca7bb7e3af252b1da64b218e6b130]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/2489/regulation/5) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-a5aca7bb7e3af252b1da64b218e6b130]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/2489/regulation/5) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-dd72e823b06a9a8089c27d8a85e6a0ce]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1995/2489/regulation/5/4) substituted (E.W.S.) (31.12.2020) by [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9B(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9B/3) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
+[^c-dd72e823b06a9a8089c27d8a85e6a0ce]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1995/2489/regulation/5/4) substituted (E.W.S.) (31.12.2020) by [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9B(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9B/3) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
 
 [^V_NI_8d0e2482-c899-5c70-3b25-eb250cfc7fc6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/2489/regulation/5) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
 [^V_NI_87da59df-b380-77bb-d215-5acf1413cbfd]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
-[^key-41926547240dee3ec869d291e788441e]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1995/2489/regulation/5/4) inserted (N.I.) (31.12.2020) by [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9D(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9D/3) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
+[^c-41926547240dee3ec869d291e788441e]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/1995/2489/regulation/5/4) inserted (N.I.) (31.12.2020) by [S.I. 2018/1326](https://www.legislation.gov.uk/uksi/2018/1326), [reg. 9D(3)](https://www.legislation.gov.uk/uksi/2018/1326/regulation/9D/3) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [4(7)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/4/7))
 
-[^key-9e29d7e98f5baa80ec98908032962405]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/2489/regulation/6) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-9e29d7e98f5baa80ec98908032962405]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/2489/regulation/6) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-c5a1f98781c829e16db29abf5d8a591e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/2489/regulation/7) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-c5a1f98781c829e16db29abf5d8a591e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/2489/regulation/7) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-aa698d8ccef31400a5fb41e9ebff43a2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1995/2489/regulation/9) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-aa698d8ccef31400a5fb41e9ebff43a2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1995/2489/regulation/9) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-af971ad8484a99d0f2dd0339a19129a4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1995/2489/regulation/10) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-af971ad8484a99d0f2dd0339a19129a4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1995/2489/regulation/10) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-3e4c04fc861967256022bb7037efb8f6]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/1995/2489/regulation/10/2) substituted (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/23)
+[^c-3e4c04fc861967256022bb7037efb8f6]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/1995/2489/regulation/10/2) substituted (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/23)
 
-[^key-c4f7f622bf37e25fc9e968d9a8f446ae]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/1995/2489/regulation/10/3) omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/24) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-c4f7f622bf37e25fc9e968d9a8f446ae]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/1995/2489/regulation/10/3) omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/24) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-66b951a7f8539a06847611eb539c8cd3]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1995/2489/schedule/1) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-66b951a7f8539a06847611eb539c8cd3]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1995/2489/schedule/1) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1994/3017](https://www.legislation.gov.uk/uksi/1994/3017).
 
-[^key-6058361ea9e7bf3e6640b1c7b623cdba]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1995/2489/schedule/2/paragraph/1) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-6058361ea9e7bf3e6640b1c7b623cdba]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1995/2489/schedule/2/paragraph/1) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-9d45fec83c4ad1e738b395a233093c9e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1995/2489/schedule/2/paragraph/2) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-9d45fec83c4ad1e738b395a233093c9e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1995/2489/schedule/2/paragraph/2) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-a3ea0c9ff78ded0322ae722ff0a80518]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1995/2489/schedule/2/paragraph/3) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-a3ea0c9ff78ded0322ae722ff0a80518]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1995/2489/schedule/2/paragraph/3) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-f2fc004b3cc2d73873a7f70eefcffc7d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1995/2489/schedule/2/paragraph/4) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-f2fc004b3cc2d73873a7f70eefcffc7d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1995/2489/schedule/2/paragraph/4) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-f06c30c472ca779970f674381784c1e0]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1995/2489/schedule/2/paragraph/5) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-f06c30c472ca779970f674381784c1e0]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1995/2489/schedule/2/paragraph/5) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-442b716e513c3ac1e7d9885313c59c79]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1995/2489/schedule/3/paragraph/1) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-442b716e513c3ac1e7d9885313c59c79]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1995/2489/schedule/3/paragraph/1) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
 
-[^key-fd18d330fc2c261ca9241ab6a35f229a]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1995/2489/schedule/3/paragraph/2) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)
+[^c-fd18d330fc2c261ca9241ab6a35f229a]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1995/2489/schedule/3/paragraph/2) in force at 23.3.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2489/regulation/1)

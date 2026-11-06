@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Requirements in relation to the provision of the service[^key-7e9b9104ace6f576c6d2e24518e1bcd3]
+## 4. Requirements in relation to the provision of the service[^c-7e9b9104ace6f576c6d2e24518e1bcd3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must ensure that the service is provided with sufficient ca
 
 ## Annotations
 
-[^key-7e9b9104ace6f576c6d2e24518e1bcd3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2019/762/regulation/4) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-7e9b9104ace6f576c6d2e24518e1bcd3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2019/762/regulation/4) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

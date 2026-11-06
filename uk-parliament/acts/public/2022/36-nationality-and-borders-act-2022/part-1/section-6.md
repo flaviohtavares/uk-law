@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Disapplication of historical registration requirements[^key-34f7778c1789ea8bb1e9a9887219febe][^key-d2f89ae923f159b7266edef0c794c478]
+## 6. Disapplication of historical registration requirements[^c-34f7778c1789ea8bb1e9a9887219febe][^c-d2f89ae923f159b7266edef0c794c478]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34f7778c1789ea8bb1e9a9887219febe]: Commencement: S. 6 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-34f7778c1789ea8bb1e9a9887219febe]: Commencement: S. 6 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-d2f89ae923f159b7266edef0c794c478]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/36/section/6) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/5) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/2))
+[^c-d2f89ae923f159b7266edef0c794c478]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/36/section/6) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/5) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/2))

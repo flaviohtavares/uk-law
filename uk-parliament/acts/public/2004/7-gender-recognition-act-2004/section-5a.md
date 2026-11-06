@@ -27,7 +27,7 @@ summary: ''
 
 must, on doing so, issue a full gender recognition certificate to that civil partner and send a copy to the Secretary of State.
 
-(1A)[^key-b29c9e9400b8554f9f4a1288309833dc] Subsection (1) does not apply where a full gender recognition certificate has already been issued, to the party to whom the interim gender recognition certificate was issued, by the sheriff under section 4E.
+(1A)[^c-b29c9e9400b8554f9f4a1288309833dc] Subsection (1) does not apply where a full gender recognition certificate has already been issued, to the party to whom the interim gender recognition certificate was issued, by the sheriff under section 4E.
 
 (2) If an interim gender recognition certificate has been issued to a person and either—
 
@@ -53,4 +53,4 @@ the person may make an application for a full gender recognition certificate at 
 
 [^c2033148]: Textual amendment: S. 5A inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 250(4)](https://www.legislation.gov.uk/ukpga/2004/33/section/250/4), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 3](https://www.legislation.gov.uk/uksi/2005/3175/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3175/schedule/2)
 
-[^key-b29c9e9400b8554f9f4a1288309833dc]: Textual amendment: [S. 5A(1A)](https://www.legislation.gov.uk/ukpga/2004/7/section/5A/1A) inserted (S.) (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 5(9)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/5/9); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-b29c9e9400b8554f9f4a1288309833dc]: Textual amendment: [S. 5A(1A)](https://www.legislation.gov.uk/ukpga/2004/7/section/5A/1A) inserted (S.) (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 5(9)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/5/9); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))

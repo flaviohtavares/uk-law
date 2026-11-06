@@ -32,7 +32,7 @@ summary: ''
 
 Legal Services, England And Wales
 
-The Legal Services Act 2007 (Claims Management Complaints) (Fees) Regulations 2014 (revoked)[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+The Legal Services Act 2007 (Claims Management Complaints) (Fees) Regulations 2014 (revoked)[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 Made
 
@@ -46,39 +46,39 @@ Coming into force
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+## 1. Citation and commencement[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+## 2. Interpretation[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Complaints fee payable to the Lord Chancellor[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+## 3. Complaints fee payable to the Lord Chancellor[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Collection of the complaints fee[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+## 4. Collection of the complaints fee[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Date for payment of the complaints fee[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+## 5. Date for payment of the complaints fee[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Cancellation or suspension for non-payment of complaints fee[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+## 6. Cancellation or suspension for non-payment of complaints fee[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Procedure for cancellation or suspension for non-payment of complaints fee[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+## 7. Procedure for cancellation or suspension for non-payment of complaints fee[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Payment by cheque[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+## 8. Payment by cheque[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Notice requirements[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+## 9. Notice requirements[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -86,25 +86,25 @@ Coming into force
 
 **No longer in force.**
 
-## SCHEDULE[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+## SCHEDULE[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 Regulation 3
 
 ### FEE DETERMINATION
 
-#### 1. Complaints fee payable for the period beginning 28th January 2015 and ending 31st March 2015: authorisations granted before 28th January 2015[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+#### 1. Complaints fee payable for the period beginning 28th January 2015 and ending 31st March 2015: authorisations granted before 28th January 2015[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Pro-rata complaints fee payable for the period beginning 28th January 2015 and ending 31st March 2015: authorisations granted on or after 28th January 2015[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+#### 2. Pro-rata complaints fee payable for the period beginning 28th January 2015 and ending 31st March 2015: authorisations granted on or after 28th January 2015[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Annual complaints fee ...[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+#### 3. Annual complaints fee ...[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Pro-rata annual complaints fee ...[^key-dd747718a0b1f8e3cd10fb470be5c41b]
+#### 4. Pro-rata annual complaints fee ...[^c-dd747718a0b1f8e3cd10fb470be5c41b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -114,4 +114,4 @@ Regulation 3
 
 ## Annotations
 
-[^key-dd747718a0b1f8e3cd10fb470be5c41b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3316) revoked (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [art. 105(h)](https://www.legislation.gov.uk/uksi/2018/1253/article/105/h)
+[^c-dd747718a0b1f8e3cd10fb470be5c41b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3316) revoked (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [art. 105(h)](https://www.legislation.gov.uk/uksi/2018/1253/article/105/h)

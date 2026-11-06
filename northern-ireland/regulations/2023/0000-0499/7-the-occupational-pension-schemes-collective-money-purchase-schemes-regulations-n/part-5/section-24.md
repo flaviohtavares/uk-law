@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Risk notices[^key-c567ba7afc62e98938a1c1d4c270470d]
+## 24. Risk notices[^c-c567ba7afc62e98938a1c1d4c270470d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c567ba7afc62e98938a1c1d4c270470d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/7) revoked (28.7.2023) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/117)](https://www.legislation.gov.uk/nisr/2023/117), [regs. 1](https://www.legislation.gov.uk/nisr/2023/117/regulation/1), [36(a)](https://www.legislation.gov.uk/nisr/2023/117/regulation/36/a)
+[^c-c567ba7afc62e98938a1c1d4c270470d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/7) revoked (28.7.2023) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/117)](https://www.legislation.gov.uk/nisr/2023/117), [regs. 1](https://www.legislation.gov.uk/nisr/2023/117/regulation/1), [36(a)](https://www.legislation.gov.uk/nisr/2023/117/regulation/36/a)

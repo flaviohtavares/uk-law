@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87B. Scottish local government elections: duty of appropriate officer to forward returns and declarations to Electoral Commission[^key-a2ac07a433b1ce03b18249f849ee41e0][^c14479931]
+## 87B. Scottish local government elections: duty of appropriate officer to forward returns and declarations to Electoral Commission[^c-a2ac07a433b1ce03b18249f849ee41e0][^c14479931]
 
 *Extent: S*
 
@@ -27,6 +27,6 @@ Where the appropriate officer receives any return or declaration under section 7
 
 ## Annotations
 
-[^key-a2ac07a433b1ce03b18249f849ee41e0]: Textual amendment: [S. 87B](https://www.legislation.gov.uk/ukpga/1983/2/section/87B) inserted (S.) (2.2.2022) by [The Scottish Local Government Elections Amendment Order 2022 (S.S.I. 2022/38)](https://www.legislation.gov.uk/ssi/2022/38), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2022/38/article/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/38/article/2/2) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2022/38/article/1/3))
+[^c-a2ac07a433b1ce03b18249f849ee41e0]: Textual amendment: [S. 87B](https://www.legislation.gov.uk/ukpga/1983/2/section/87B) inserted (S.) (2.2.2022) by [The Scottish Local Government Elections Amendment Order 2022 (S.S.I. 2022/38)](https://www.legislation.gov.uk/ssi/2022/38), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2022/38/article/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2022/38/article/2/2) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2022/38/article/1/3))
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))

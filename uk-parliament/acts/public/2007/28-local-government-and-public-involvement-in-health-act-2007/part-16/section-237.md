@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237. Exercise of functions under section 236: records[^key-24387cff9af3f9a8ff3e8ac0e5a8985f]
+## 237. Exercise of functions under section 236: records[^c-24387cff9af3f9a8ff3e8ac0e5a8985f]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24387cff9af3f9a8ff3e8ac0e5a8985f]: Commencement: S. 237 in force at 12.12.2008 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/3110/article/2/i)
+[^c-24387cff9af3f9a8ff3e8ac0e5a8985f]: Commencement: S. 237 in force at 12.12.2008 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/3110/article/2/i)

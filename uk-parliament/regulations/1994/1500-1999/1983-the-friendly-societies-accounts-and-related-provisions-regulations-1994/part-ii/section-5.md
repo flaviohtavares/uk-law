@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Annual accounts—group accounts society[^key-76bb1ca6c813ca610805e1ac9b38e6bf]
+## 5. Annual accounts—group accounts society[^c-76bb1ca6c813ca610805e1ac9b38e6bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In respect of the annual accounts of a group accounts society:
 
 ## Annotations
 
-[^key-76bb1ca6c813ca610805e1ac9b38e6bf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1994/1983/regulation/5) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-76bb1ca6c813ca610805e1ac9b38e6bf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1994/1983/regulation/5) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)

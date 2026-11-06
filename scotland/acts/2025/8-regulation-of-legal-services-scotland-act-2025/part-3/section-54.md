@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Commission’s duty to investigate and determine services complaints[^key-c55b57789dd74a1eb94a8c582727b542]
+## 54. Commission’s duty to investigate and determine services complaints[^c-c55b57789dd74a1eb94a8c582727b542]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c55b57789dd74a1eb94a8c582727b542]: Commencement: S. 54 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-c55b57789dd74a1eb94a8c582727b542]: Commencement: S. 54 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

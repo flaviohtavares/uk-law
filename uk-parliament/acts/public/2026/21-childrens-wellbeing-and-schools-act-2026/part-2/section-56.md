@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Academies: power to secure performance of proprietor’s duties[^key-0d422b2994fe2e7f57cf7c2c2c836be8]
+## 56. Academies: power to secure performance of proprietor’s duties[^c-0d422b2994fe2e7f57cf7c2c2c836be8]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ After section 497B of the Education Act 1996 (but before the italic heading befo
 
 ## Annotations
 
-[^key-0d422b2994fe2e7f57cf7c2c2c836be8]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2026/21/section/56) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-0d422b2994fe2e7f57cf7c2c2c836be8]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2026/21/section/56) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)

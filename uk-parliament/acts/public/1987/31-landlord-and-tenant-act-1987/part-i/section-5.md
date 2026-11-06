@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Landlord required to serve offer notice on tenants.[^key-53c4fa8565dca783b6895326863ae77e][^c10161141]
+## 5. Landlord required to serve offer notice on tenants.[^c-53c4fa8565dca783b6895326863ae77e][^c10161141]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ and in the case of a disposal to which section 5E applies (disposal for non-mone
 
 ## Annotations
 
-[^key-53c4fa8565dca783b6895326863ae77e]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/1987/31/section/5) modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/7); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/wsi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/wsi/2004/669/article/2/a)
+[^c-53c4fa8565dca783b6895326863ae77e]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/1987/31/section/5) modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/7); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/wsi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/wsi/2004/669/article/2/a)
 
 [^c10161141]: Textual amendment: [Ss. 5](https://www.legislation.gov.uk/ukpga/1987/31/section/5), [5A-5E](https://www.legislation.gov.uk/ukpga/1987/31/section/5A), [6](https://www.legislation.gov.uk/ukpga/1987/31/section/6), [7](https://www.legislation.gov.uk/ukpga/1987/31/section/7), [8](https://www.legislation.gov.uk/ukpga/1987/31/section/8), [8A-8E](https://www.legislation.gov.uk/ukpga/1987/31/section/8A), [9A](https://www.legislation.gov.uk/ukpga/1987/31/section/9A), [9B](https://www.legislation.gov.uk/ukpga/1987/31/section/9B), [10](https://www.legislation.gov.uk/ukpga/1987/31/section/10) and crossheading substituted for ss. 5-10 (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 92(1)](https://www.legislation.gov.uk/ukpga/1996/52/section/92/1), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1996/52/schedule/6/part/I); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))

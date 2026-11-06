@@ -56,7 +56,7 @@ Whereas the Secretary of State is of the opinion, as mentioned in section 1(1) o
 
 Now, therefore, in exercise of the powers conferred on him by sections 1(1) and (2), and 24(1) and (3) of the said Act[^f00002], and of all other powers enabling him in that behalf, he hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-5fc3a8543e925c7b6defb31537a108b2]
+## 1. Citation, commencement and interpretation[^c-5fc3a8543e925c7b6defb31537a108b2]
 
 (1) This Order may be cited as the Food Protection (Emergency Prohibitions) (Radioactivity in Sheep) Order 1991 and shall come into force on 14th January 1991.
 
@@ -66,25 +66,25 @@ Now, therefore, in exercise of the powers conferred on him by sections 1(1) and 
 - “designated areas” means the areas described in Schedule 1 to this Order;
 - “sheep” means an animal of the genus *Ovis* of whatever age or sex.
 
-## 2. Designated circumstances[^key-052db0fe63b96e11d8aef0bb75dd9b81]
+## 2. Designated circumstances[^c-052db0fe63b96e11d8aef0bb75dd9b81]
 
 In the opinion of the Secretary of State food which is, or may be in the future, derived from sheep in any of the designated areas is, or may be, or may become unsuitable for human consumption in consequence of the elevated levels of radioactivity found in the designated areas following the escape on or after 26th April 1986 of radioactive substances from a nuclear powered reactor situated at Chernobyl in the Ukraine, USSR.
 
-## 3. Designated areas[^key-f369d05c277d488471d7ce3a78c54f4e]
+## 3. Designated areas[^c-f369d05c277d488471d7ce3a78c54f4e]
 
 The areas described in Schedule 1 to this Order are hereby designated for the purposes of Part I of the Act.
 
-## 4. Activities prohibited in the designated areas[^key-3154d51e61c04416a1e21bc3dff620fb]
+## 4. Activities prohibited in the designated areas[^c-3154d51e61c04416a1e21bc3dff620fb]
 
 No person shall in any of the designated areas slaughter any sheep for human consumption or for use in the preparation of feeding stuffs from which food could be derived.
 
-## 5. Restrictions on movement[^key-5fe06e23a77bfb736128bacb0104acaa]
+## 5. Restrictions on movement[^c-5fe06e23a77bfb736128bacb0104acaa]
 
 (1) No person shall move any sheep from any farm, agricultural holding or agricultural premises in any of the designated areas.
 
 (2) No person shall move into any of the designated areas any sheep which has been removed from those areas or from any area which is at the time of the removal designated by an order under section 1 of the Act which refers to the circumstances described in article 2 of this Order, except any sheep which was moved from any place in accordance with a consent given under section 2(1) of the Act which consent was subject to the condition that the sheep to which it applies should be marked with a green, blue or apricot mark.
 
-## 6. Restrictions throughout the United Kingdom[^key-3496c12f8c48848efbd03e9d1a813bdc]
+## 6. Restrictions throughout the United Kingdom[^c-3496c12f8c48848efbd03e9d1a813bdc]
 
 (1) No person shall in the United Kingdom—
 
@@ -113,7 +113,7 @@ No person shall in any of the designated areas slaughter any sheep for human con
 
   on or after 1st December of the year in which it was so marked.
 
-## 7. Revocation[^key-7035fe4afa82d21faa485c93c123f25e]
+## 7. Revocation[^c-7035fe4afa82d21faa485c93c123f25e]
 
 The Orders specified in Schedule 2 are hereby revoked.
 
@@ -133,19 +133,19 @@ Article 3
 
 ### PART I
 
-#### 1. Dumfries and Galloway Region[^key-f5c484bb56930c6ebf7e10794ee01412]
+#### 1. Dumfries and Galloway Region[^c-f5c484bb56930c6ebf7e10794ee01412]
 
 The area of land within Nithsdale District comprising that part of the Parish of New Abbey bounded as follows:—
 
 - On the north by the Glensone Burn running in an easterly direction until it meets the weir below the junction of the Glensone Burn and the Kinharvie Burn; on the east by the Kinharvie Plantation and the Kinharvie Burn running in a southerly direction until Hawkhill; on the south by Hayfield Knowe, part of the Kinharvie Plantation, in a westerly direction until the Cullendeugh Plantation; and on the west running in a northerly direction by the eastern side of the Cullendeugh Plantation to the point national grid reference NX917659 and onwards to Riddlebank.
 
-**2.**[^key-abd6e9a0215765338beb65474596332d] The area of land within Stewartry District comprising that part of the Parish of Kirkgunzeon bounded as follows:—
+**2.**[^c-abd6e9a0215765338beb65474596332d] The area of land within Stewartry District comprising that part of the Parish of Kirkgunzeon bounded as follows:—
 
 - On the north from the point national grid reference NX 871653 eastwards to the point national grid reference NX 878653 on the Glaisters Burn and then generally south easterly by the said burn until it meets the Plascow Rig Plantation; then south westerly along the western edge of the said plantation to the point national grid reference NX 875637 and northerly to the point national grid reference NX 877653.
 
 ### Part II
 
-#### 1. Dumfries and Galloway Region[^key-98d6844e2ba018d19c98d84ea4bbac1c]
+#### 1. Dumfries and Galloway Region[^c-98d6844e2ba018d19c98d84ea4bbac1c]
 
 - (a) The area of land within Stewartry District comprising that part of the Parish of Dunscors bounded as follows:—
 
@@ -157,7 +157,7 @@ The area of land within Nithsdale District comprising that part of the Parish of
   - (a) The area of land within Nithsdale District comprising that part of the Parish of Kirkconnel bounded as follows:—
 - On the north from the point where the Polmarlach Burn meets the River Nith and running in an easterly direction by the River Nith to the point national grid reference NS 693130; then in a southerly direction to, and crossing the Road A76 at the point national grid reference NS 695125 and then continuing generally in a south-westerly direction through White Hill and south-westerly until the eastern boundary of the plantation at the point national grid reference NS 682102 north of Polnagrie Hill; then following generally the eastern and northern boundaries of the said plantation until it meets the Polmarlach Burn; and then following the said Burn until it meets the River Nith.
 
-#### 2. Strathclyde Region[^key-07dfe71e54decbd9fa606e0bb1c97177]
+#### 2. Strathclyde Region[^c-07dfe71e54decbd9fa606e0bb1c97177]
 
 - (a) The area of land within Cumnock and Doon Valley District comprising that part of the Parish of Sorn bounded as follows:—
 
@@ -191,7 +191,7 @@ The area of land within Nithsdale District comprising that part of the Parish of
   - (a) The area of land within Eastwood District comprising that part of the Parish of Eaglesham bounded as follows:—
 - On the north from the point national grid reference NS503502 and continuing in a north-easterly direction to the point national grid reference NS510504; then continuing in a south-easterly direction to the point national grid reference NS517503 and then in a north-easterly direction to the point national grid reference NS524509; then continuing in a north-westerly direction to the point national grid reference NS523516 and continuing in a north-easterly direction to the point national grid reference NS533523; then continuing generally in a northerly direction to the point national grid reference NS533526 and then in a north-easterly direction to the point national grid reference NS547536; then in a south-easterly direction to the point national grid reference NS549534; then in a north-easterly direction by the unnamed burn until it meets the minor road between Mearns and Eaglesham, and then continuing in a south-easterly direction by said road to its junction with another minor road at the point national grid reference NS557537; then in a south-westerly direction by said road to the point national grid reference NS541520; then continuing in a south-easterly direction to the road B764 at the point national grid reference NS553508 and continuing in a south-westerly direction to the point national grid reference NS547501; and then continuing generally in an easterly direction by the Dunwan Burn to the point national grid reference NS572488 and on to the point national grid reference NS572477 on the Carrot Burn; then north-easterly along the said burn to the point national grid reference NS577481 and continuing in the same general direction to the point national grid reference 585482 and to the point national grid reference Ns593491 then in a south-easterly direction to the point national grid reference NS595490; then continuing in a southerly direction to point national grid reference NS596484 and in a south-easterly direction to the point national grid reference NS604482; then continuing generally in a south-westerly fdirection by the boundary between Eastwood District and East Kilbride District until it meets the boundary between Kilmarnock and Loudoun District and Eastwood District; and then continuing generally in a north-westerly direction by said District boundary to the point national grid reference NS503502.
 
-#### 3. Central Region[^key-9af3e48b70e848591d98bef20b0e7a02]
+#### 3. Central Region[^c-9af3e48b70e848591d98bef20b0e7a02]
 
 - (a) The area of land within Stirling District comprising that part of the Parish of Killin bounded as follows:—
 
@@ -207,7 +207,7 @@ The area of land within Nithsdale District comprising that part of the Parish of
   - (a) That area of land within Stirling District comprising that part of the Parish of Callander bounded as follows:—
 - On the north from the point national grid reference NN547055 where the parish boundary meets the south shore of Loch Venachar and then eastwards and north-easterly by the southern shore of the said Loch and the Eas Gobhain River to the plantation south of the said river; then continuing generally in an easterly direction by the western and southern boundaries of the plantation to the Road A81 and continuing in a southerly direction by the said road to the point national grid reference NN633062; then in an easterly direction to the River Teith and continuing in a southerly direction by said river until it meets the boundary between the Parishes of Callander and Kilmadock; then continuing in a south-westerly direction along said boundary until it meets the boundary between the Parishes of Callander and Port-of-Menteith; then continuing in a westerly direction by said boundary until it meets the boundary between the Parishes of Callander and Aberfoyle and continuing in a northerly direction along said boundary until the southern shore of Loch Venachar at point national grid reference NN547055.
 
-## SCHEDULE 2 — REVOCATIONS[^key-d9a3003e5525a8ef8314d07839387d66]
+## SCHEDULE 2 — REVOCATIONS[^c-d9a3003e5525a8ef8314d07839387d66]
 
 Article 7
 
@@ -267,28 +267,28 @@ Powers of enforcement in relation to emergency prohibitions are conferred by sec
 
 [^f00002]: Footnote: Section 1(2) defines “designating authority” and section 24(1) contains a definition of “the Ministers” relevant to the exercise of the statutory powers under which this Order is made.
 
-[^key-5fc3a8543e925c7b6defb31537a108b2]: Commencement: Art. 1 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-5fc3a8543e925c7b6defb31537a108b2]: Commencement: Art. 1 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
 
-[^key-052db0fe63b96e11d8aef0bb75dd9b81]: Commencement: Art. 2 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-052db0fe63b96e11d8aef0bb75dd9b81]: Commencement: Art. 2 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
 
-[^key-f369d05c277d488471d7ce3a78c54f4e]: Commencement: Art. 3 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-f369d05c277d488471d7ce3a78c54f4e]: Commencement: Art. 3 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
 
-[^key-3154d51e61c04416a1e21bc3dff620fb]: Commencement: Art. 4 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-3154d51e61c04416a1e21bc3dff620fb]: Commencement: Art. 4 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
 
-[^key-5fe06e23a77bfb736128bacb0104acaa]: Commencement: Art. 5 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-5fe06e23a77bfb736128bacb0104acaa]: Commencement: Art. 5 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
 
-[^key-3496c12f8c48848efbd03e9d1a813bdc]: Commencement: Art. 6 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-3496c12f8c48848efbd03e9d1a813bdc]: Commencement: Art. 6 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
 
-[^key-7035fe4afa82d21faa485c93c123f25e]: Commencement: Art. 7 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-7035fe4afa82d21faa485c93c123f25e]: Commencement: Art. 7 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
 
-[^key-f5c484bb56930c6ebf7e10794ee01412]: Commencement: Sch. 1 Pt. I para. 1 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-f5c484bb56930c6ebf7e10794ee01412]: Commencement: Sch. 1 Pt. I para. 1 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
 
-[^key-abd6e9a0215765338beb65474596332d]: Commencement: Sch. 1 Pt. I para. 2 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-abd6e9a0215765338beb65474596332d]: Commencement: Sch. 1 Pt. I para. 2 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
 
-[^key-98d6844e2ba018d19c98d84ea4bbac1c]: Commencement: Sch. 1 Pt. II para. 1 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-98d6844e2ba018d19c98d84ea4bbac1c]: Commencement: Sch. 1 Pt. II para. 1 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
 
-[^key-07dfe71e54decbd9fa606e0bb1c97177]: Commencement: Sch. 1 Pt. II para. 2 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-07dfe71e54decbd9fa606e0bb1c97177]: Commencement: Sch. 1 Pt. II para. 2 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
 
-[^key-9af3e48b70e848591d98bef20b0e7a02]: Commencement: Sch. 1 para. 3 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-9af3e48b70e848591d98bef20b0e7a02]: Commencement: Sch. 1 para. 3 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
 
-[^key-d9a3003e5525a8ef8314d07839387d66]: Commencement: Sch. 2 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)
+[^c-d9a3003e5525a8ef8314d07839387d66]: Commencement: Sch. 2 in force at 14.1.1991, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1991/20/article/1/1)

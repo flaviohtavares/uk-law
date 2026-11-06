@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196. Commercial air transport – exception for flying displays etc.[^key-f6839e9c678e14c16ddbac94ace79a2c]
+## 196. Commercial air transport – exception for flying displays etc.[^c-f6839e9c678e14c16ddbac94ace79a2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6839e9c678e14c16ddbac94ace79a2c]: Commencement: [Art. 196](https://www.legislation.gov.uk/uksi/2013/2870/article/196) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-f6839e9c678e14c16ddbac94ace79a2c]: Commencement: [Art. 196](https://www.legislation.gov.uk/uksi/2013/2870/article/196) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

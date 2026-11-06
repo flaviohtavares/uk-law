@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Notice of intention to withdraw or revoke authorisation[^key-5cced0396c616f47e0f5fe84b15fb6cb]
+## 29. Notice of intention to withdraw or revoke authorisation[^c-5cced0396c616f47e0f5fe84b15fb6cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ the notice has effect after commencement as if it were a notice given by the Aut
 
 ## Annotations
 
-[^key-5cced0396c616f47e0f5fe84b15fb6cb]: Commencement: Art. 29 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-5cced0396c616f47e0f5fe84b15fb6cb]: Commencement: Art. 29 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

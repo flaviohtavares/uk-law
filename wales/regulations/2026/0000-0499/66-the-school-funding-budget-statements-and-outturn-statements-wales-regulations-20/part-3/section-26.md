@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Pupils permanently excluded or admitted following a permanent exclusion[^key-35a43e41550938f5afa7b0a1fdfdbe80]
+## 26. Pupils permanently excluded or admitted following a permanent exclusion[^c-35a43e41550938f5afa7b0a1fdfdbe80]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-35a43e41550938f5afa7b0a1fdfdbe80]: Commencement: Reg. 26 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-35a43e41550938f5afa7b0a1fdfdbe80]: Commencement: Reg. 26 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
 
 [^f00049]: Footnote: Section 494 was substituted by the School Standards and Framework Act 1998, Schedule 30, paragraph 128 and was amended by the Education Act 2005, Schedule 18, paragraph 5 and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). The current Regulations are [S.I. 1999/495](https://www.legislation.gov.uk/uksi/1999/495).

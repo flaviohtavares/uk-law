@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Tenancies: saving provision[^key-36e4bd491570b6163d19f2a481feee60]
+## 48. Tenancies: saving provision[^c-36e4bd491570b6163d19f2a481feee60]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36e4bd491570b6163d19f2a481feee60]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2022/8/section/48) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-36e4bd491570b6163d19f2a481feee60]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2022/8/section/48) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 14 — Powers in relation to schools causing concern: Wales[^key-2f814c3a92409ef17ff736c3072fc0b0]
+## Schedule 14 — Powers in relation to schools causing concern: Wales[^c-2f814c3a92409ef17ff736c3072fc0b0]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ Section 205
 
 ## Annotations
 
-[^key-2f814c3a92409ef17ff736c3072fc0b0]: Textual amendment: Sch. 14 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 12](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/12); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-2f814c3a92409ef17ff736c3072fc0b0]: Textual amendment: Sch. 14 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 12](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/12); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))

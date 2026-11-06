@@ -166,7 +166,7 @@ the advance information in relation to him must include a notice that, if he wer
 
 the advance information in relation to him must include a notice that, if he were convicted of the offence, the court would have power to deal with him for the offence for which the order was made.
 
-(2) In rule 96(3) the reference to power to deal with the offender under paragraph 23(2) of Schedule 10 to the Sentencing Code[^key-e278e269cc05aa60d530e8fac8fe7f0b] includes power to deal with him for an offence as respects which a community supervision order was made.
+(2) In rule 96(3) the reference to power to deal with the offender under paragraph 23(2) of Schedule 10 to the Sentencing Code[^c-e278e269cc05aa60d530e8fac8fe7f0b] includes power to deal with him for an offence as respects which a community supervision order was made.
 
 (3) In this paragraph, “**community supervision order**” means an order under paragraph 4(1) of Schedule 5A to AA 1955 or AFA 1955 or of Schedule 4A to NDA 1957.
 
@@ -186,4 +186,4 @@ the advance information in relation to him must include a notice that, if he wer
 
 [^c19687851]: Marginal citation: [1976 c. 52](https://www.legislation.gov.uk/ukpga/1976/52).
 
-[^key-e278e269cc05aa60d530e8fac8fe7f0b]: Textual amendment: Words in [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2009/1209/schedule/2/paragraph/15/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 379](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/379) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e278e269cc05aa60d530e8fac8fe7f0b]: Textual amendment: Words in [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2009/1209/schedule/2/paragraph/15/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 379](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/379) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

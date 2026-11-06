@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89E. Notification of proposed amendment of issuer's constitution[^key-17fc4bb9edb3b1262b71d847e390e9fa][^c2076380]
+## 89E. Notification of proposed amendment of issuer's constitution[^c-17fc4bb9edb3b1262b71d847e390e9fa][^c2076380]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17fc4bb9edb3b1262b71d847e390e9fa]: Textual amendment: S. 89E omitted (1.11.2015 for specified purposes, 26.11.2015 in so far as not already in force) by virtue of [The Transparency Regulations 2015 (S.I. 2015/1755)](https://www.legislation.gov.uk/uksi/2015/1755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1755/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1755/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2015/1755/regulation/2/3)
+[^c-17fc4bb9edb3b1262b71d847e390e9fa]: Textual amendment: S. 89E omitted (1.11.2015 for specified purposes, 26.11.2015 in so far as not already in force) by virtue of [The Transparency Regulations 2015 (S.I. 2015/1755)](https://www.legislation.gov.uk/uksi/2015/1755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1755/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1755/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2015/1755/regulation/2/3)
 
 [^c2076380]: Textual amendment: Ss. 89A-89G and cross-heading inserted (8.11.2006) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1266(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/1266/1), [1300(1)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/1/a) (with [s. 1266(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1266/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 19ZB — Offences where offender not eligible for release at the end of the section 255BA automatic release period[^key-cf5fe9c44eb003a3e26c6b285bd1e1da]
+## Schedule 19ZB — Offences where offender not eligible for release at the end of the section 255BA automatic release period[^c-cf5fe9c44eb003a3e26c6b285bd1e1da]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,9 +95,9 @@ An offence under any of the following provisions of the [National Security Act 2
 
 ### 8. Acting for foreign power
 
-An offence in relation to which, under section 20 of the National Security Act 2023 (aggravating factor where foreign power or designated body[^key-ad3a9ad4ecab66f7347114ed0871ab55] condition met: Northern Ireland), the foreign power condition or the designated body condition[^key-c82c4cd25301e4bfb03e85040b2f5a88] has been determined to have been met in relation to the conduct that constituted the offence.
+An offence in relation to which, under section 20 of the National Security Act 2023 (aggravating factor where foreign power or designated body[^c-ad3a9ad4ecab66f7347114ed0871ab55] condition met: Northern Ireland), the foreign power condition or the designated body condition[^c-c82c4cd25301e4bfb03e85040b2f5a88] has been determined to have been met in relation to the conduct that constituted the offence.
 
-**9.** An offence to which section 21 of that Act applies (aggravating factor where foreign power or designated body[^key-ba462d03286cfc1e935df6e9d65dffa4] condition met: Scotland).
+**9.** An offence to which section 21 of that Act applies (aggravating factor where foreign power or designated body[^c-ba462d03286cfc1e935df6e9d65dffa4] condition met: Scotland).
 
 ### 10. Inchoate offences
 
@@ -123,10 +123,10 @@ An attempt to commit an offence specified in a preceding paragraph of this Sched
 
 ## Annotations
 
-[^key-cf5fe9c44eb003a3e26c6b285bd1e1da]: Textual amendment: Sch. 19ZB inserted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2026/2/schedule/4) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(v)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/v), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-cf5fe9c44eb003a3e26c6b285bd1e1da]: Textual amendment: Sch. 19ZB inserted (31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/2026/2/schedule/4) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(v)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/v), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
 
-[^key-ad3a9ad4ecab66f7347114ed0871ab55]: Textual amendment: Words in Sch. 19ZB para. 8 inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 11(a)(i)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/11/a/i)
+[^c-ad3a9ad4ecab66f7347114ed0871ab55]: Textual amendment: Words in Sch. 19ZB para. 8 inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 11(a)(i)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/11/a/i)
 
-[^key-c82c4cd25301e4bfb03e85040b2f5a88]: Textual amendment: Words in Sch. 19ZB para. 8 inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 11(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/11/a/ii)
+[^c-c82c4cd25301e4bfb03e85040b2f5a88]: Textual amendment: Words in Sch. 19ZB para. 8 inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 11(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/11/a/ii)
 
-[^key-ba462d03286cfc1e935df6e9d65dffa4]: Textual amendment: Words in Sch. 19ZB para. 9 inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 11(b)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/11/b)
+[^c-ba462d03286cfc1e935df6e9d65dffa4]: Textual amendment: Words in Sch. 19ZB para. 9 inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 11(b)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/11/b)

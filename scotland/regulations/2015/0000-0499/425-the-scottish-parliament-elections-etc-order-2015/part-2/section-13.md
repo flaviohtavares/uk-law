@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Combination of polls[^key-7f8c2ca6b36025d9dc2d163bb460f5a7]
+## 13. Combination of polls[^c-7f8c2ca6b36025d9dc2d163bb460f5a7]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f8c2ca6b36025d9dc2d163bb460f5a7]: Commencement: Art. 13 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-7f8c2ca6b36025d9dc2d163bb460f5a7]: Commencement: Art. 13 in force at 16.12.2015 in accordance with art. 1(1)

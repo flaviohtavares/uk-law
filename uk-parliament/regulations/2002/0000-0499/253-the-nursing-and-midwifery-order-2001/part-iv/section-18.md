@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Refusal or withdrawal of approval of courses, qualifications and institutions[^key-ba405e2bb5ba814816d2cf06f3a9598f]
+## 18. Refusal or withdrawal of approval of courses, qualifications and institutions[^c-ba405e2bb5ba814816d2cf06f3a9598f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ from which approval has been withdrawn.
 
 ## Annotations
 
-[^key-ba405e2bb5ba814816d2cf06f3a9598f]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2002/253/article/18) in force at 1.8.2004 as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-ba405e2bb5ba814816d2cf06f3a9598f]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2002/253/article/18) in force at 1.8.2004 as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)

@@ -22,12 +22,12 @@ summary: ''
 
 Articles 24 and 25
 
-### PART 1 — REMOVAL OF HEDGEROWS[^key-f4d42c7381cff63a01a363b66c0daf87]
+### PART 1 — REMOVAL OF HEDGEROWS[^c-f4d42c7381cff63a01a363b66c0daf87]
 
 | *(1)*<br>*Reference No. (location of hedgerow)* | *(2)*<br>*Work to be carried out* | *(3)*<br>*Relevant part of the authorised development* | *(4)*<br>*Important hedgerow* |
 | --- | --- | --- | --- |
 | H2 (Running parallel to and to the north of the B4082 and west of the A46) as shown on sheets 2, 3 and 4 of the hedgerow and trees plans | Partial removal | Work Nos. 1A, 1B, 1C, 1D, 1M, 2A, 2B, 2H | No |
-| H3 (Between A46 and Hungerley Hall Farm) as shown on sheet 2 of the hedgerow and trees[^key-e644b5c6adf0621bc5c10e369746bc86] plans | Removal | Work No. 2A | No |
+| H3 (Between A46 and Hungerley Hall Farm) as shown on sheet 2 of the hedgerow and trees[^c-e644b5c6adf0621bc5c10e369746bc86] plans | Removal | Work No. 2A | No |
 | H4 (South-west of Hungerley Hall Farm) as shown on sheet 2 of the hedgerow and trees plans | Partial removal | Work No. 2A | No |
 | H5 (North-west of Hungerley Hall Farm), as shown on sheet 2 of the hedgerow and trees plans | Partial removal | Work No. 2C | Yes |
 | H6 (West of the A46, north-east of Hungerley Hall Farm) as shown on sheet 4 of the hedgerow and trees plans | Partial removal (the existing hedge extends beyond surveyed extents) | Work Nos. 1C and 2A | Yes |
@@ -36,7 +36,7 @@ Articles 24 and 25
 | H16 (East of the A46) as shown on sheet 4 of the hedgerow and trees plans | Partial removal | Work Nos. 1A and 1E | Yes |
 | H17 (East of the A46, north-east of Hungerley Hall Farm) as shown on sheet 4 of the hedgerow and trees plans | Partial removal (the existing hedge extends beyond surveyed extents) | Work Nos. 1F and 1H | Yes |
 
-### PART 2 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-f8dd6e087f4a9b4697482a2e73b64329]
+### PART 2 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-f8dd6e087f4a9b4697482a2e73b64329]
 
 | *(1)*<br>*Type of tree* | *(2)*<br>*Work to be carried out* | *(3)*<br>*Relevant part of the authorised development* | *(4)*<br>*TPO reference* |
 | --- | --- | --- | --- |
@@ -44,8 +44,8 @@ Articles 24 and 25
 
 ## Annotations
 
-[^key-f4d42c7381cff63a01a363b66c0daf87]: Commencement: Sch. 5 Pt. 1 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-f4d42c7381cff63a01a363b66c0daf87]: Commencement: Sch. 5 Pt. 1 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
-[^key-e644b5c6adf0621bc5c10e369746bc86]: Textual amendment: Word in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2026/537/schedule/5/part/1) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-e644b5c6adf0621bc5c10e369746bc86]: Textual amendment: Word in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2026/537/schedule/5/part/1) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
 
-[^key-f8dd6e087f4a9b4697482a2e73b64329]: Commencement: Sch. 5 Pt. 2 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-f8dd6e087f4a9b4697482a2e73b64329]: Commencement: Sch. 5 Pt. 2 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)

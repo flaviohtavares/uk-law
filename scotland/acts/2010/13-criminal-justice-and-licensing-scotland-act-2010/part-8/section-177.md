@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 177. Licensing of late night catering[^key-7012ba143346ae158a0f7987a1beff0e]
+## 177. Licensing of late night catering[^c-7012ba143346ae158a0f7987a1beff0e]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7012ba143346ae158a0f7987a1beff0e]: Commencement: [S. 177](https://www.legislation.gov.uk/asp/2010/13/section/177) in force at 1.10.2012 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2011/178/article/10))
+[^c-7012ba143346ae158a0f7987a1beff0e]: Commencement: [S. 177](https://www.legislation.gov.uk/asp/2010/13/section/177) in force at 1.10.2012 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2011/178/article/10))

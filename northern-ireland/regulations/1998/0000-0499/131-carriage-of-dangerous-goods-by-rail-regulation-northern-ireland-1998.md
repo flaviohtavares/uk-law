@@ -44,7 +44,7 @@ The Department of Economic Development, being the Department concerned[^f00001],
 
 ## Part I — Interpretation and Application
 
-### 1. Citation, commencement and interpretation[^key-2c3377cd545f307f49bcf3fd0382acf4]
+### 1. Citation, commencement and interpretation[^c-2c3377cd545f307f49bcf3fd0382acf4]
 
 (1) These Regulations may be cited as the Carriage of Dangerous Goods by Rail Regulations (Northern Ireland) 1998 and shall come into operation on 1st June 1998.
 
@@ -206,7 +206,7 @@ The Department of Economic Development, being the Department concerned[^f00001],
 
   acting in the course of his duties.
 
-### 2. Application[^key-c72809b399a5ccac0fca37283ac04bc1]
+### 2. Application[^c-c72809b399a5ccac0fca37283ac04bc1]
 
 (1) Subject to paragraphs (2) to (4), these Regulations shall apply to and in relation to the carriage of any dangerous goods in a container, package, tank container, tank wagon, or wagon, except where—
 
@@ -269,7 +269,7 @@ until the time when either—
 
 ## Part II — Approved Documents
 
-### 3. Meaning of the Approved Carriage List and other approved documents[^key-bad8785ccfe90f014a3a17cb60ca9846]
+### 3. Meaning of the Approved Carriage List and other approved documents[^c-bad8785ccfe90f014a3a17cb60ca9846]
 
 (1) The Department shall approve for the purposes of these Regulations the following documents published by the Health and Safety Commission, (hereinafter referred to as “the approved documents”), entitled—
 
@@ -282,7 +282,7 @@ until the time when either—
 
 (2) The Department may approve a revision of either of the approved documents referred to in paragraph (1) and, when it does so, the Department shall within 3 months of the date of that approval publish in such manner as it considers appropriate a notice specifying the revision, the date on which it was approved and the date on which it takes effect, which last-mentioned date shall be not less than 6 months after the date of the approval of the revision.
 
-### 4. Duties in relation to the approved documents[^key-43d8d707ed6a76437090110cd24d4ca2]
+### 4. Duties in relation to the approved documents[^c-43d8d707ed6a76437090110cd24d4ca2]
 
 Without prejudice to the generality of the provisions contained in these Regulations—
 
@@ -292,7 +292,7 @@ Without prejudice to the generality of the provisions contained in these Regulat
 
 ## Part III — Mode of Carriage
 
-### 5. Carriage in bulk in wagons and large containers[^key-f55b59efaf3e321fbe16672396bf6377]
+### 5. Carriage in bulk in wagons and large containers[^c-f55b59efaf3e321fbe16672396bf6377]
 
 An operator of a wagon or large container shall not cause or permit to be carried therein any dangerous goods in bulk unless—
 
@@ -306,11 +306,11 @@ An operator of a wagon or large container shall not cause or permit to be carrie
   - (i) closed, or
   - (ii) open and sheeted.
 
-### 6. Carriage in small containers[^key-a59b9316bebd8abd4d034675cd694375]
+### 6. Carriage in small containers[^c-a59b9316bebd8abd4d034675cd694375]
 
 An operator of a small container shall not cause or permit to be carried therein any dangerous goods unless the requirements specified in Schedule 3 relating to those goods are complied with.
 
-### 7. Carriage in tanks[^key-e49ba9b3f33f42f2a2203b047e461ed9]
+### 7. Carriage in tanks[^c-e49ba9b3f33f42f2a2203b047e461ed9]
 
 (1) An operator of a tank container or tank wagon shall not cause or permit to be carried therein any dangerous goods unless the letter Y appears in column 7 of the Approved Carriage List in relation to those goods.
 
@@ -318,7 +318,7 @@ An operator of a small container shall not cause or permit to be carried therein
 
 (3) An operator of a tank container or tank wagon shall not cause or permit to be carried therein any dangerous goods unless the information relating to certification of tanks specified in the Approved Tank Requirements is indelibly marked on one or more corrosion-resistant plates which are securely fastened to the tank of the tank container or tank wagon concerned, or to a support which is welded to the tank, in a position readily accessible for inspection.
 
-### 8. Suitability of containers, packages, tank containers, tank wagons and wagons[^key-cc9e5720835d716830a57eac4b313534]
+### 8. Suitability of containers, packages, tank containers, tank wagons and wagons[^c-cc9e5720835d716830a57eac4b313534]
 
 (1) An operator of any container, tank container, tank wagon or wagon shall not cause or permit to be carried therein any dangerous goods unless the container, tank container, tank wagon or wagon concerned—
 
@@ -337,7 +337,7 @@ An operator of a small container shall not cause or permit to be carried therein
 - (a) the nature and circumstances of the journey to be undertaken; and
 - (b) the hazardous properties and quantities of the dangerous goods and of all other goods to be carried with them.
 
-### 9. Examination, testing and certification of tanks[^key-55a1fbbc7743153c6c80511ca4d9e45f]
+### 9. Examination, testing and certification of tanks[^c-55a1fbbc7743153c6c80511ca4d9e45f]
 
 (1) The provisions of this regulation shall only apply to or in relation to tanks constructed after 31st December 1998.
 
@@ -394,11 +394,11 @@ An operator of a small container shall not cause or permit to be carried therein
 
 ## Part IV — Information
 
-### 10. Classification, packaging and labelling of dangerous goods[^key-141dfc03053a9a4cb990b3d7e53ee1b3]
+### 10. Classification, packaging and labelling of dangerous goods[^c-141dfc03053a9a4cb990b3d7e53ee1b3]
 
 An operator of a container, tank container, tank wagon or wagon shall not cause or permit to be carried therein any dangerous goods to which the CDGCPL Regulations apply, unless he has taken all reasonable steps to ensure that those goods have been classified, packaged and labelled in accordance with those Regulations.
 
-### 11. Carriage Information to be provided by consignors[^key-685b4a8d4136cda5601ed6240df3d755]
+### 11. Carriage Information to be provided by consignors[^c-685b4a8d4136cda5601ed6240df3d755]
 
 (1) Subject to paragraph (3), any consignor of dangerous goods shall ensure that any operator of a container, tank container, tank wagon or wagon engaged by him to carry those goods is provided with the information specified in paragraph (2), in these Regulations referred to as the Carriage Information.
 
@@ -424,7 +424,7 @@ An operator of a container, tank container, tank wagon or wagon shall not cause 
 
 (4) A consignor or anyone acting on his behalf shall not provide false or misleading information to any operator concerning the dangerous goods to be carried.
 
-### 12. Carriage Information to be provided to operators and infrastructure controllers[^key-146fe7dcc249ec0b1ffc4e7cd8f188d2]
+### 12. Carriage Information to be provided to operators and infrastructure controllers[^c-146fe7dcc249ec0b1ffc4e7cd8f188d2]
 
 (1) Any operator of any container, tank container, tank wagon or wagon which is being used for the carriage of dangerous goods shall ensure that any train operator who has undertaken to carry that container, tank container, tank wagon or wagon is provided with the Carriage Information.
 
@@ -436,11 +436,11 @@ An operator of a container, tank container, tank wagon or wagon shall not cause 
 
 (5) An operator of a container, tank container, tank wagon, wagon or train or anyone acting on his behalf shall not provide false or misleading information to any other operator engaged by him concerning the dangerous goods to be carried.
 
-### 13. Keeping of information by operators[^key-de4d5a91ee790e204e1e031cb25b0be4]
+### 13. Keeping of information by operators[^c-de4d5a91ee790e204e1e031cb25b0be4]
 
 The operator of any container, tank container, tank wagon or wagon which is used for the carriage of dangerous goods and the train operator on whose train such goods are carried shall keep a record of all the information contained within the Carriage Information in respect of each journey by train undertaken by the container, tank container, tank wagon, or wagon concerned for a period of at least 3 months after the completion of the relevant journey.
 
-### 14. Information to be displayed on containers, tank containers, tank wagons and wagons[^key-a54591eb8409c86f4444d865aed9d577]
+### 14. Information to be displayed on containers, tank containers, tank wagons and wagons[^c-a54591eb8409c86f4444d865aed9d577]
 
 (1) The operator of any container, tank container, tank wagon, wagon or train which is being used for the carriage of dangerous goods shall ensure that information concerning those goods is displayed on the container, tank container, tank wagon or wagon concerned in accordance with Schedule 5.
 
@@ -461,7 +461,7 @@ The operator of any container, tank container, tank wagon or wagon which is used
 - (a) remove any danger sign, hazard warning panel, orange-coloured panel or subsidiary hazard sign affixed in accordance with Schedule 5 from a container, tank container, tank wagon or wagon which is being used for the carriage of dangerous goods, except for the purpose of updating the information thereon;
 - (b) falsify any of the information on such a panel or sign.
 
-### 15. Information, instruction and training for train crews and other persons connected with the carriage of dangerous goods[^key-4bf99d428306bf8ea1bfe6744ee93121]
+### 15. Information, instruction and training for train crews and other persons connected with the carriage of dangerous goods[^c-4bf99d428306bf8ea1bfe6744ee93121]
 
 (1) The operator of any train which is being used for the carriage of dangerous goods shall ensure that those members of the crew of that train who have responsibilities in connection with the carriage of the dangerous goods concerned have received adequate information, instruction and training to enable them to understand—
 
@@ -479,17 +479,17 @@ The operator of any container, tank container, tank wagon or wagon which is used
 
 ## Part V — Loading and Unloading
 
-### 16. Prohibition on overfilling tank containers and tank wagons[^key-b7c9909b823b7cfb3e7c013d3a6b890c]
+### 16. Prohibition on overfilling tank containers and tank wagons[^c-b7c9909b823b7cfb3e7c013d3a6b890c]
 
 A person shall not cause or permit any tank container or tank wagon, or any compartment thereof, to be filled beyond its safe level with any dangerous goods.
 
-### 17. Prohibitions on mixed loading and segregation of certain dangerous goods[^key-f1c497d0a0a88525e299daa91da91626]
+### 17. Prohibitions on mixed loading and segregation of certain dangerous goods[^c-f1c497d0a0a88525e299daa91da91626]
 
 (1) A person shall not cause or permit to be carried in any container or wagon any of the mixed loads of dangerous goods specified in Schedule 6.
 
 (2) A train operator shall not cause or permit to be carried in his train any consignment of dangerous goods unless that consignment is adequately segregated from any other consignment of dangerous goods carried with it in such a way as to prevent the creation of a significantly greater risk than each of the consignments of dangerous goods is liable to create separately.
 
-### 18. Loading, stowage, unloading and cleaning of containers, tank containers, tank wagons and wagons[^key-ae89e961a50b6d42f4f76f1eddf7c143]
+### 18. Loading, stowage, unloading and cleaning of containers, tank containers, tank wagons and wagons[^c-ae89e961a50b6d42f4f76f1eddf7c143]
 
 (1) The operator of a container, tank container, tank wagon or wagon which is being used for the carriage of dangerous goods and any other person engaged in such carriage shall take such steps as it is reasonable for them respectively to take to ensure that nothing in the manner in which dangerous goods are loaded, stowed or unloaded from the container, tank container, tank wagon or wagon concerned is liable to create a significant risk or significantly increase any existing risk to the health or safety of any person.
 
@@ -502,7 +502,7 @@ A person shall not cause or permit any tank container or tank wagon, or any comp
 
 (4) A person shall not cause or permit any food to be carried in any container, tank container, tank wagon or wagon which is being used for the carriage of toxic goods unless that food is effectively separated from those goods or is otherwise adequately protected from the risk of contamination by those goods.
 
-### 19. Openings, valves and caps of tank containers and tank wagons to be securely closed[^key-edbfcb6cf0d1ab9ef5e4c70f4c55aedb]
+### 19. Openings, valves and caps of tank containers and tank wagons to be securely closed[^c-edbfcb6cf0d1ab9ef5e4c70f4c55aedb]
 
 (1) Subject to paragraph (3), the operator of a tank container or tank wagon which is to be used for the carriage of any dangerous goods shall ensure that—
 
@@ -522,22 +522,22 @@ remain securely closed during carriage.
 
 ## Part VI — Security and Other Safety Measures and Emergency Arrangements
 
-### 20. Marshalling and formation of trains[^key-e77590426b48ac51d146f91dd70eadeb]
+### 20. Marshalling and formation of trains[^c-e77590426b48ac51d146f91dd70eadeb]
 
 The operator of a train which is being used for the carriage of dangerous goods shall ensure that all necessary precautions are taken during the marshalling or formation of that train to prevent the creation of a significant risk or the significant increase of any existing risk to the health or safety of any person.
 
-### 21. Safe carriage and security[^key-ecea50c3c833afb1a7761daa0af958f1]
+### 21. Safe carriage and security[^c-ecea50c3c833afb1a7761daa0af958f1]
 
 Every person engaged in the carriage of dangerous goods shall take all reasonable steps to ensure that—
 
 - (a) nothing is done during that carriage to create a significant risk or significantly increase any existing risk to the health or safety of any person; and
 - (b) unauthorised access to the dangerous goods concerned is prevented.
 
-### 22. Prevention of fire, explosion and leakage[^key-afa3392a6cc57397f14196ab9460c3cd]
+### 22. Prevention of fire, explosion and leakage[^c-afa3392a6cc57397f14196ab9460c3cd]
 
 A person shall not cause or permit anything to be done which is liable to create a significant risk or significantly increase any existing risk of a fire or an explosion whilst dangerous goods are being carried in any container, package, tank container, tank wagon or wagon.
 
-### 23. Emergency arrangements[^key-20e687b48e1fb99b0cbb2e42d0dfce66]
+### 23. Emergency arrangements[^c-20e687b48e1fb99b0cbb2e42d0dfce66]
 
 Each train operator, facility owner and infrastructure controller shall—
 
@@ -549,13 +549,13 @@ Each train operator, facility owner and infrastructure controller shall—
 
 ## Part VII — General Carriage Prohibition
 
-### 24. Prohibition on carriage of temperature controlled substances[^key-653553dc0449c95c06a51ed3e0e30e7c]
+### 24. Prohibition on carriage of temperature controlled substances[^c-653553dc0449c95c06a51ed3e0e30e7c]
 
 A person shall not cause or permit to be carried any temperature controlled substances.
 
 ## Part VIII — Miscellaneous and General
 
-### 25. Exemption certificates[^key-c9b3ca84d45b9ed118562d04c9c21374]
+### 25. Exemption certificates[^c-c9b3ca84d45b9ed118562d04c9c21374]
 
 (1) Subject to paragraph (2), and to any provisions imposed by the Communities in respect of the transport of dangerous goods by rail, the Department may, by a certificate in writing, exempt—
 
@@ -574,7 +574,7 @@ it is satisfied that the health or safety of persons who are likely to be affect
 
 (3) The Secretary of State for Defence may, in the interests of national security, by a certificate in writing exempt any person from all or any of the requirements or prohibitions imposed by these Regulations insofar as they relate to the carriage of any dangerous goods and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by the said Secretary of State at any time by a further certificate in writing.
 
-### 26. Defence[^key-e91e0bfb3e48337914fc923e0d79cd36]
+### 26. Defence[^c-e91e0bfb3e48337914fc923e0d79cd36]
 
 (1) In any proceedings for an offence consisting of a contravention of any of the provisions of these Regulations it shall be a defence, subject to paragraphs (2) and (3), for the person charged to prove—
 
@@ -585,7 +585,7 @@ it is satisfied that the health or safety of persons who are likely to be affect
 
 (3) Where a contravention of any of the provisions of these Regulations by any person is due to the act or default of the other person, that other person shall be guilty of the offence which would, but for any defence under these Regulations available to the first mentioned person, be constituted by the act or default.
 
-### 27. International provisions[^key-5418d83e212d1fab9689ac573eaa3dd3]
+### 27. International provisions[^c-5418d83e212d1fab9689ac573eaa3dd3]
 
 (1) Where, in relation to the carriage of any dangerous goods, any provision of regulations 3 to 14 or 16 to 19 applies to a matter to which any specified international provision applies, it shall be sufficient compliance, in relation to that matter, with the provision of the particular regulation if the specified international provision is satisfied in respect of that matter.
 
@@ -607,7 +607,7 @@ Assistant Secretary
 
 Regulation 2
 
-### 1. Testing, examination and maintenance of tank containers and tank wagons[^key-cf5704faed68ba6e385fafdbe4f943d0]
+### 1. Testing, examination and maintenance of tank containers and tank wagons[^c-cf5704faed68ba6e385fafdbe4f943d0]
 
 (1) A train operator or operator of any tank container or tank wagon shall not cause or permit to be carried therein any dangerous goods unless—
 
@@ -651,11 +651,11 @@ Regulation 2
 
 (8) In this paragraph “competent person” means a competent individual person, other than an employee, or a competent body of persons corporate or unincorporate, and accordingly any reference in the provisions referred to in this paragraph to a competent person performing a function includes a reference to his performing it through his employees.
 
-### 2. Certification of testing, examination and maintenance of tank containers and tank wagons[^key-b5f2faa4ed5c44c697fad9adccafac29]
+### 2. Certification of testing, examination and maintenance of tank containers and tank wagons[^c-b5f2faa4ed5c44c697fad9adccafac29]
 
 An operator of any tank container or tank wagon shall not cause or permit to be carried therein any dangerous goods unless he certifies to the operator of the train on which that tank container is to be carried or of which that tank wagon is to form part that he has complied with paragraph 1 in respect of the tank of the tank container or tank wagon concerned.
 
-### 3. Keeping of documents[^key-5c37900d761475be67c722a1df901d7a]
+### 3. Keeping of documents[^c-5c37900d761475be67c722a1df901d7a]
 
 (1) The operator of any tank container or tank wagon shall ensure that all the documents referred to in paragraph 1 are kept throughout the period that they remain valid at the address within Northern Ireland from which the deployment of the tank container or tank wagon concerned is controlled.
 
@@ -668,7 +668,7 @@ An operator of any tank container or tank wagon shall not cause or permit to be 
 
 Regulation 5
 
-### 1. Flammable solids (classification code 4.1)[^key-024723d30d35bf850471f344ba3100ae]
+### 1. Flammable solids (classification code 4.1)[^c-024723d30d35bf850471f344ba3100ae]
 
 (1) Carriage in bulk of the goods UN 1334 NAPHTHALENE, CRUDE OR NAPHTHALENE REFINED shall be in—
 
@@ -685,7 +685,7 @@ Regulation 5
 
   and in the case of UN 3178 FLAMMABLE SOLID, INORGANIC, N.O.S. suitable measures shall be taken to ensure that those goods cannot escape.
 
-### 2. Substances liable to spontaneous combustion (classification code 4.2)[^key-41f4349b412b69672e82ca782ddcf2d1]
+### 2. Substances liable to spontaneous combustion (classification code 4.2)[^c-41f4349b412b69672e82ca782ddcf2d1]
 
 Where the following goods are carried in bulk in—
 
@@ -717,7 +717,7 @@ the large containers or wagons concerned shall be metal—
 
 - UN 2793 FERROUS METAL BORINGS, SHAVINGS, TURNINGS, OR CUTTINGS.
 
-### 3. Substances which, in contact with water, emit flammable gases (classification code 4.3)[^key-2e304aa96b3a48e13ae19f0727d2fda9]
+### 3. Substances which, in contact with water, emit flammable gases (classification code 4.3)[^c-2e304aa96b3a48e13ae19f0727d2fda9]
 
 (1) Carriage in bulk of any of the following goods shall be in large containers or wagons designed and constructed so that the openings for loading and unloading can be closed hermetically—
 
@@ -737,27 +737,27 @@ the large containers or wagons concerned shall be metal—
 
 (2) Carriage of the goods UN 3170 ALUMINIUM SMELTING BY-PRODUCTS OR ALUMINIUM RE-MELTING BY-PRODUCTS in bulk shall be in wagons with a moveable roof.
 
-### 4. Oxidizing substances (classification code 5.1)[^key-a4fb51e07271896886d3fc7901a0d133]
+### 4. Oxidizing substances (classification code 5.1)[^c-a4fb51e07271896886d3fc7901a0d133]
 
 (1) Where OXIDIZING SUBSTANCES are being carried in bulk in metal wagons or large containers, measures shall be taken to prevent those substances from coming into contact with any other combustible dangerous goods or any wooden part of the wagon or container concerned.
 
 (2) Where OXIDIZING SUBSTANCES are being carried in bulk in wooden lined containers or wooden wagons their flooring and sides shall be completely covered with a waterproof and incombustible lining, or with a coating of sodium silicate or a similar product.
 
-### 5. Toxic substances (classification code 6.1)[^key-54c8df4dddc870fd95db118dcdcd7885]
+### 5. Toxic substances (classification code 6.1)[^c-54c8df4dddc870fd95db118dcdcd7885]
 
 Wagons or large containers used for the carriage of the goods UN 3243 SOLIDS CONTAINING TOXIC LIQUID, N.O.S. in bulk shall be leak-proof or made leak-proof.
 
-### 6. Infectious substances (classification code 6.2)[^key-9b9cb7dad2df35bae7d70e726ffdd137]
+### 6. Infectious substances (classification code 6.2)[^c-9b9cb7dad2df35bae7d70e726ffdd137]
 
 (1) Carriage in bulk of the goods UN 3291 CLINICAL WASTE, UNSPECIFIED, N.O.S. shall be in large containers or wagons designed and constructed so that the openings for loading and unloading can be closed hermetically.
 
 (2) The goods in sub-paragraph (1) shall be loaded in such a way that dangers to man, animals and the environment are avoided.
 
-### 7. Corrosive substances (classification code 8)[^key-43f817a63435209346b967951a69a073]
+### 7. Corrosive substances (classification code 8)[^c-43f817a63435209346b967951a69a073]
 
 Wagons or large containers used for the carriage of the goods UN 3244 SOLIDS CONTAINING CORROSIVE LIQUIDS, N.O.S. in bulk shall be leak-proof or made leak-proof.
 
-### 8. Miscellaneous dangerous substances and articles (classification code 9)[^key-b5b5611e9e6830da0a456e22cecaec2e]
+### 8. Miscellaneous dangerous substances and articles (classification code 9)[^c-b5b5611e9e6830da0a456e22cecaec2e]
 
 Wagons or large containers used for the carriage of the goods UN 2111 POLYMERIC BEADS, EXPANDABLE shall be properly ventilated.
 
@@ -765,7 +765,7 @@ Wagons or large containers used for the carriage of the goods UN 2111 POLYMERIC 
 
 Regulation 6
 
-### 1. Gases: Compressed, liquefied or dissolved under pressure (classification code 2)[^key-4a188c523f69169dc47c6ca865a7795b]
+### 1. Gases: Compressed, liquefied or dissolved under pressure (classification code 2)[^c-4a188c523f69169dc47c6ca865a7795b]
 
 The carriage of packages containing GASES: COMPRESSED, LIQUEFIED OR DISSOLVED UNDER PRESSURE in small containers is permitted, with the exception of the following gases—
 
@@ -781,11 +781,11 @@ The carriage of packages containing GASES: COMPRESSED, LIQUEFIED OR DISSOLVED UN
 - MIXTURES OF ANY OF THE ABOVE
 - AIR
 
-### 2. Flammable liquids (classification code 3)[^key-c15036fbddb3db0dcbbce1ee6d6ad6b3]
+### 2. Flammable liquids (classification code 3)[^c-c15036fbddb3db0dcbbce1ee6d6ad6b3]
 
 The carriage of packages containing FLAMMABLE LIQUIDS in small containers is permitted.
 
-### 3. Flammable solids (classification code 4.1)[^key-b9456d2685d544608d663bfa5a6143ba]
+### 3. Flammable solids (classification code 4.1)[^c-b9456d2685d544608d663bfa5a6143ba]
 
 (1) The carriage of packages containing FLAMMABLE SOLIDS, other than UN 3221 SELF-REACTIVE LIQUID TYPE B and UN 3222 SELF-REACTIVE SOLID TYPE B, in small containers is permitted, provided the packages are not fragile packages.
 
@@ -819,7 +819,7 @@ The carriage of packages containing FLAMMABLE LIQUIDS in small containers is per
 - UN 3181 METAL SALTS OF ORGANIC COMPOUNDS, FLAMMABLE, N.O.S.
 - UN 3182 METAL HYDRIDES, FLAMMABLE, N.O.S.
 
-### 4. Substances liable to spontaneous combustion (classification code 4.2)[^key-5a76ec27622a3f84b1f0eba7f651af9e]
+### 4. Substances liable to spontaneous combustion (classification code 4.2)[^c-5a76ec27622a3f84b1f0eba7f651af9e]
 
 (1) The carriage of packages containing SUBSTANCES LIABLE TO SPONTANEOUS COMBUSTION in small containers is permitted.
 
@@ -840,7 +840,7 @@ The carriage of packages containing FLAMMABLE LIQUIDS in small containers is per
 - UN 2217 SEEDCAKE, with not more than 1.5% (mass) oil and not more than 11% (mass) moisture
 - UN 2793 FERROUS METAL BORINGS, SHAVINGS, TURNINGS OR CUTTINGS
 
-### 5. Substances which, in contact with water, emit flammable gases (classification code 4.3)[^key-a0c794c1725d541038ce54f12bb2b01b]
+### 5. Substances which, in contact with water, emit flammable gases (classification code 4.3)[^c-a0c794c1725d541038ce54f12bb2b01b]
 
 (1) The carriage of packages containing SUBSTANCES, WHICH IN CONTACT WITH WATER, EMIT FLAMMABLE GASES in small containers is permitted.
 
@@ -859,7 +859,7 @@ The carriage of packages containing FLAMMABLE LIQUIDS in small containers is per
 - UN 3170 ALUMINIUM SMELTING BY-PRODUCTS OR ALUMINIUM RE-MELTING BY-PRODUCTS
 - UN 3209 METALLIC SUBSTANCE, WATER-REACTIVE, SELF-HEATING, N.O.S.
 
-### 6. Oxidizing substances (classification code 5.1)[^key-7eea5e8d2349d7ddd4466eab6b327e60]
+### 6. Oxidizing substances (classification code 5.1)[^c-7eea5e8d2349d7ddd4466eab6b327e60]
 
 (1) The carriage of packages containing OXIDIZING SUBSTANCES, (other than HYDROGEN PEROXIDE, SOLUTION OF HYDROGEN PEROXIDE OR TETRANITROMETHANE), in small containers is permitted, provided the packages are not fragile packages.
 
@@ -911,11 +911,11 @@ The carriage of packages containing FLAMMABLE LIQUIDS in small containers is per
 - UN 2728 ZIRCONIUM NITRATE
 - UN 3215 PERSULPHATES, INORGANIC, N.O.S.
 
-### 7. Organic Peroxides (classification code 5.1)[^key-d2d47059b6395cd1927e20ae014b75ea]
+### 7. Organic Peroxides (classification code 5.1)[^c-d2d47059b6395cd1927e20ae014b75ea]
 
 The carriage of packages containing ORGANIC PEROXIDES, (other than UN 3101 ORGANIC PEROXIDE TYPE B, LIQUID and UN 3102 ORGANIC PEROXIDE TYPE B, LIQUID), in small containers is permitted, provided the packages are not fragile packages.
 
-### 8. Toxic substances (classification code 6.1)[^key-8140b495c1b672f205e0516027073fe2]
+### 8. Toxic substances (classification code 6.1)[^c-8140b495c1b672f205e0516027073fe2]
 
 (1) The carriage of packages containing TOXIC SUBSTANCES in small containers is permitted.
 
@@ -927,7 +927,7 @@ The carriage of packages containing ORGANIC PEROXIDES, (other than UN 3101 ORGAN
 
 (3) Small containers which have contained TOXIC SUBSTANCES in bulk shall be checked after unloading for any residue of the load, and, if there has been a leak, shall not be re-used until thoroughly cleaned and, if necessary, decontaminated.
 
-### 9. Infectious substances (classification code 6.2)[^key-fe4fa8d1c583e4389fa344aef0bc5695]
+### 9. Infectious substances (classification code 6.2)[^c-fe4fa8d1c583e4389fa344aef0bc5695]
 
 (1) The carriage of packages containing INFECTIOUS SUBSTANCES in small containers is permitted.
 
@@ -936,7 +936,7 @@ The carriage of packages containing ORGANIC PEROXIDES, (other than UN 3101 ORGAN
 - (a) the small container shall not be re-used until it has been thoroughly cleaned and, if necessary, disinfected;
 - (b) any wooden parts of the small container which have come into contact with such substances shall be removed and burnt.
 
-### 10. Corrosive substances (classification code 8)[^key-98d3b15d8b9cf92848eeb4007ec27eda]
+### 10. Corrosive substances (classification code 8)[^c-98d3b15d8b9cf92848eeb4007ec27eda]
 
 (1) The carriage of packages containing CORROSIVE SUBSTANCES in small containers is permitted provided such containers are of the closed type, with complete walls and a suitable lining.
 
@@ -946,7 +946,7 @@ The carriage of packages containing ORGANIC PEROXIDES, (other than UN 3101 ORGAN
 - UN 2509 POTASSIUM HYDROGEN SULPHATE
 - UN 3244 SOLIDS CONTAINING CORROSIVE LIQUID, N.O.S.
 
-### 11. Miscellaneous dangerous substances and articles (classification code 9)[^key-d92e5ec70fa183e38cc6327851653ca6]
+### 11. Miscellaneous dangerous substances and articles (classification code 9)[^c-d92e5ec70fa183e38cc6327851653ca6]
 
 (1) The carriage of packages containing MISCELLANEOUS DANGEROUS SUBSTANCES OR ARTICLES in small containers is permitted.
 
@@ -958,26 +958,26 @@ The carriage of packages containing ORGANIC PEROXIDES, (other than UN 3101 ORGAN
 
 Regulation 9
 
-**1.**[^key-2951938124fde49a10db936c3c980d0d] On the making of an application under regulation 9 to the competent authority for the approval of a person as an approved person there shall be payable by the applicant in connection with the performance by or on behalf of the competent authority of its functions in relation to that application, a fee or fees to be determined in accordance with paragraphs 2 to 5.
+**1.**[^c-2951938124fde49a10db936c3c980d0d] On the making of an application under regulation 9 to the competent authority for the approval of a person as an approved person there shall be payable by the applicant in connection with the performance by or on behalf of the competent authority of its functions in relation to that application, a fee or fees to be determined in accordance with paragraphs 2 to 5.
 
-**2.**[^key-358787c0cae242629214584bddfc9292] On receipt of the application referred to in paragraph 1 the competent authority shall prepare and send to the applicant an estimate of the cost to the competent authority of the work necessary for the determination of the application, and subject to paragraph 4, the amount so estimated shall be the amount of the initial fee payable and shall be paid forthwith to the competent authority.
+**2.**[^c-358787c0cae242629214584bddfc9292] On receipt of the application referred to in paragraph 1 the competent authority shall prepare and send to the applicant an estimate of the cost to the competent authority of the work necessary for the determination of the application, and subject to paragraph 4, the amount so estimated shall be the amount of the initial fee payable and shall be paid forthwith to the competent authority.
 
-**3.**[^key-ab43af4a5f92a2b27072d166f06194bf] On determination of the application referred to in paragraph 1 the competent authority shall prepare and send to the applicant a detailed statement of the work carried out for the determination of the application and of the cost reasonably incurred by it in carrying out that work or in having it carried out on its behalf.
+**3.**[^c-ab43af4a5f92a2b27072d166f06194bf] On determination of the application referred to in paragraph 1 the competent authority shall prepare and send to the applicant a detailed statement of the work carried out for the determination of the application and of the cost reasonably incurred by it in carrying out that work or in having it carried out on its behalf.
 
-**4.**[^key-a0b7485a8faaf3934194b40b8248359e] If the cost so stated in accordance with paragraph 3 differs from the amount estimated in accordance with paragraph 2—
+**4.**[^c-a0b7485a8faaf3934194b40b8248359e] If the cost so stated in accordance with paragraph 3 differs from the amount estimated in accordance with paragraph 2—
 
 - (a) where it is greater, the amount of the difference shall be the amount of the final fee payable and shall be paid forthwith; and
 - (b) where it is less, the initial fee shall be redetermined accordingly and the amount of the difference shall be paid forthwith to the applicant by the competent authority.
 
-**5.**[^key-28568468860ea86a946a258a39c5f615] In estimating or stating the cost of carrying out any work the competent authority may determine the cost of employing an officer for any period on work appropriate to his grade by reference to the average cost to it of employing officers of his grade for that period.
+**5.**[^c-28568468860ea86a946a258a39c5f615] In estimating or stating the cost of carrying out any work the competent authority may determine the cost of employing an officer for any period on work appropriate to his grade by reference to the average cost to it of employing officers of his grade for that period.
 
-**6.**[^key-d285a3dcc05c6a64175a7cb8541e7fc1] Following a surveillance inspection of an approved person in accordance with regulation 9(13), the competent authority shall prepare and send to that person a statement of the cost of the performance by or on behalf of the competent authority of its functions in relation to that inspection, and the amount so stated shall be the fee payable for that inspection and shall be paid forthwith.
+**6.**[^c-d285a3dcc05c6a64175a7cb8541e7fc1] Following a surveillance inspection of an approved person in accordance with regulation 9(13), the competent authority shall prepare and send to that person a statement of the cost of the performance by or on behalf of the competent authority of its functions in relation to that inspection, and the amount so stated shall be the fee payable for that inspection and shall be paid forthwith.
 
 ## SCHEDULE 5 — Information to be Displayed on Containers, Tank Containers, Tank Wagons and Wagons
 
 Regulation 14
 
-### 1. Information[^key-2524f3225e52a2c7ef0c2e47f8103000]
+### 1. Information[^c-2524f3225e52a2c7ef0c2e47f8103000]
 
 (1) The information specified in sub-paragraph (2) shall be displayed on—
 
@@ -1001,7 +1001,7 @@ in accordance with this Schedule.
 - (c) subject to paragraph 7, the danger sign and the subsidiary hazard sign, if any, shall have sides which measure not less than 250 millimetres;
 - (d) the telephone number shall consist of black digits of 30 millimetres height and shall be displayed on an orange-coloured background.
 
-### 2. Panels[^key-dfc1be6e31096606e3eb6b68ff252446]
+### 2. Panels[^c-dfc1be6e31096606e3eb6b68ff252446]
 
 The orange-coloured panels and hazard warning panels referred to in this Schedule shall be—
 
@@ -1009,7 +1009,7 @@ The orange-coloured panels and hazard warning panels referred to in this Schedul
 - (b) rigid or fixed to be rigid and securely attached in a substantially vertical plane; and
 - (c) clearly visible.
 
-### 3. Tank containers and tank wagons carrying dangerous goods[^key-67a6e08048a06ddec5970f5ceb1e768f]
+### 3. Tank containers and tank wagons carrying dangerous goods[^c-67a6e08048a06ddec5970f5ceb1e768f]
 
 (1) Subject to sub-paragraphs (2) and (3) and to paragraph 7, tank containers and tank wagons used for the carriage of dangerous goods shall display—
 
@@ -1029,28 +1029,28 @@ The orange-coloured panels and hazard warning panels referred to in this Schedul
     - (i) the UN number shall be taken as a reference to the UN number of the most hazardous of the goods being carried, and
     - (ii) the emergency action code shall be taken as a reference to the emergency action code of the most hazardous of the goods present.
 
-### 4. Containers and wagons carrying dangerous goods in bulk[^key-47f515ad8f288b5464e325bc4ec897e9]
+### 4. Containers and wagons carrying dangerous goods in bulk[^c-47f515ad8f288b5464e325bc4ec897e9]
 
 Subject to paragraph 7, containers and wagons used for the carriage of dangerous goods in bulk shall display—
 
 - (a) an orange-coloured panel, conforming to figure 1, on each side of the container or wagon concerned, bearing the emergency action code and the UN number; and
 - (b) the danger sign and the subsidiary hazard sign, if any, adjacent to each orange-coloured panel.
 
-### 5. Containers and wagons carrying dangerous goods in packages[^key-c8c7e97430b5160fb17a06446e2f34b2]
+### 5. Containers and wagons carrying dangerous goods in packages[^c-c8c7e97430b5160fb17a06446e2f34b2]
 
 Where dangerous goods are being carried in packages in a container or wagon and those dangerous goods are such that a danger sign or a subsidiary hazard sign is required by the CDGCPL Regulations to be displayed on packages containing those goods, the same signs shall also be affixed to or displayed on the outside of the container or wagon concerned as follows—
 
 - (a) the danger sign on each side of the container or wagon; and
 - (b) the subsidiary hazard sign, if any, adjacent to and on the same horizontal plane as each danger sign.
 
-### 6. Piggyback transport[^key-c52bf908587b4954d6a9c30e5d0b7e57]
+### 6. Piggyback transport[^c-c52bf908587b4954d6a9c30e5d0b7e57]
 
 Subject to paragraph 9, where dangerous goods are being carried by piggyback transport the wagon shall display—
 
 - (a) the danger sign on each side; and
 - (b) the subsidiary hazard sign, if any, adjacent to and on the same horizontal plane as the danger sign.
 
-### 7. Exceptions[^key-dbd5c7c37414b8c8cd75a7bb4a0b5c6f]
+### 7. Exceptions[^c-dbd5c7c37414b8c8cd75a7bb4a0b5c6f]
 
 (1) Notwithstanding paragraphs 3(1) and (2) and 4—
 
@@ -1069,7 +1069,7 @@ may be displayed on a hazard warning panel, which panel shall conform to figure 
 
 (3) Wherever an orange-coloured panel is required to be displayed at the sides of the container, tank container, tank wagon or wagon the hazard warning panel may be displayed instead at the sides of the container, tank container, tank wagon or wagon concerned.
 
-**8.**[^key-28bae46468924d18d6315f5085105877] Where dangerous goods are being carried in a tank container or tank wagon or in bulk in a container or wagon, the orange-coloured panels may be replaced by—
+**8.**[^c-28bae46468924d18d6315f5085105877] Where dangerous goods are being carried in a tank container or tank wagon or in bulk in a container or wagon, the orange-coloured panels may be replaced by—
 
 - (a) self-adhesive sheets;
 - (b) paint; or
@@ -1077,7 +1077,7 @@ may be displayed on a hazard warning panel, which panel shall conform to figure 
 
 of the same dimensions as the orange-coloured panels, provided the material used for this purpose is weather-resistant and ensures durable marking.
 
-**9.**[^key-23783561b3188c147572e964e14a5746] Paragraph 6 shall not apply where the road vehicle being carried displays information concerning the goods being carried in accordance with regulation 18 of the Carriage of Dangerous Goods by Road Regulations (Northern Ireland) 1997[^f00027] and that information is clearly visible.
+**9.**[^c-23783561b3188c147572e964e14a5746] Paragraph 6 shall not apply where the road vehicle being carried displays information concerning the goods being carried in accordance with regulation 18 of the Carriage of Dangerous Goods by Road Regulations (Northern Ireland) 1997[^f00027] and that information is clearly visible.
 
 ### Figure 1 — Orange-coloured panel displaying the emergency action code and the UN number
 
@@ -1095,9 +1095,9 @@ The emergency action code shall be inscribed in the upper half and the UN number
 
 Regulation 17
 
-**1.**[^key-7592e808641a5632a1ef2b72e0793dba] A package bearing a danger sign with a classification code specified in column 1 shall not be loaded in the same container or wagon together with any package or small container bearing a danger sign with any of the classification codes specified in the corresponding entry in column 2.
+**1.**[^c-7592e808641a5632a1ef2b72e0793dba] A package bearing a danger sign with a classification code specified in column 1 shall not be loaded in the same container or wagon together with any package or small container bearing a danger sign with any of the classification codes specified in the corresponding entry in column 2.
 
-**2.**[^key-b2fb304947322be7601264f297197da0] A small container bearing a danger sign with a classification code specified in column 1 shall not be loaded in the same container or wagon together with any package or small container bearing a danger sign with any of the classification codes specified in the corresponding entry in column 2.
+**2.**[^c-b2fb304947322be7601264f297197da0] A small container bearing a danger sign with a classification code specified in column 1 shall not be loaded in the same container or wagon together with any package or small container bearing a danger sign with any of the classification codes specified in the corresponding entry in column 2.
 
 <table>
 <thead>
@@ -1126,7 +1126,7 @@ Regulation 18
 
 ### Part I — Packages
 
-#### 1. General requirements[^key-aed6fc33aaee29bf154c9b3389e0bd49]
+#### 1. General requirements[^c-aed6fc33aaee29bf154c9b3389e0bd49]
 
 (1) Unless requirements to the contrary appear in this Schedule, packages labelled as containing dangerous goods may be loaded—
 
@@ -1147,7 +1147,7 @@ Regulation 18
 
 (7) Packages labelled as containing SELF-REACTIVE SUBSTANCES or dangerous goods with a classification code 5.2 shall be loaded in large containers or closed wagons with adequate ventilation.
 
-#### 2. Gases: compressed, liquefied or dissolved under pressure (classification code 2)[^key-39e581a2a26dc256d43a1fc70a984bf0]
+#### 2. Gases: compressed, liquefied or dissolved under pressure (classification code 2)[^c-39e581a2a26dc256d43a1fc70a984bf0]
 
 (1) Receptacles containing GASES: COMPRESSED, LIQUEFIED OR DISSOLVED UNDER PRESSURE shall be stowed in large containers or wagons in compliance with the following requirements—
 
@@ -1171,7 +1171,7 @@ Regulation 18
 
 (2) Where pallets loaded with metal aerosol dispensers (grouped together in units on trays and sealed with a suitable plastic wrapping) are stacked, each tier of pallets shall be evenly distributed over the lower tier, if necessary by the interposition of a material of adequate strength.
 
-#### 3. Flammable solids (classification code 4.1)[^key-ced124dd4970dc6cf122a963f0ce2ae6]
+#### 3. Flammable solids (classification code 4.1)[^c-ced124dd4970dc6cf122a963f0ce2ae6]
 
 (1) Packages containing any of the following goods shall be loaded in containers or wagons which are closed and adequately ventilated—
 
@@ -1197,7 +1197,7 @@ Regulation 18
 
 (4) Where the contents of a container or wagon exceed 5000 kilograms of FLAMMABLE SOLIDS in packages and the packages display the subsidiary hazard sign “liable to explosion”, the load shall be divided into stacks of not more than 5000 kilogrammes separated by air spaces of at least 0·05 metre.
 
-#### 4. Oxidizing substances (classification code 5.1)[^key-cc5fc58b32ed28d42db2aab477bdd307]
+#### 4. Oxidizing substances (classification code 5.1)[^c-cc5fc58b32ed28d42db2aab477bdd307]
 
 (1) Containers and wagons shall be thoroughly cleaned and in particular be free of any combustible debris before they are loaded with packages containing oxidizing substances.
 
@@ -1237,7 +1237,7 @@ Regulation 18
     - (iv) an open wagon covered with an impermeable and non-combustible sheet; and
   - (b) measures shall be taken to ensure that the goods cannot, in the event of a leak, come into contact with wood or any other combustible material.
 
-#### 5. Organic peroxides (classification code 5.2)[^key-8f48897fab54b1108b90ac68b36932cf]
+#### 5. Organic peroxides (classification code 5.2)[^c-8f48897fab54b1108b90ac68b36932cf]
 
 (1) Containers and wagons shall be thoroughly cleaned before they are loaded with packages containing ORGANIC PEROXIDES.
 
@@ -1245,7 +1245,7 @@ Regulation 18
 
 (3) Where the contents of a container or wagon exceed 5000 kilogrammes of organic peroxides in packages, the load shall be divided into stacks of not more than 5000 kilogrammes separated by air spaces of at least 0·05 metre.
 
-#### 6. Toxic substances (classification code 6.1)[^key-af6aaad952965e226317f8f115656d66]
+#### 6. Toxic substances (classification code 6.1)[^c-af6aaad952965e226317f8f115656d66]
 
 (1) Where a container or wagon has been used for the carriage of TOXIC SUBSTANCES in packages it shall be checked after unloading for any signs of spillage or leakage of those goods.
 
@@ -1254,13 +1254,13 @@ Regulation 18
 - (a) all other goods and articles carried therein at the time of the leakage or spillage shall be examined for possible contamination; and
 - (b) the container or wagon concerned shall not be re-used until after it has been thoroughly cleaned and, if necessary, decontaminated.
 
-#### 7. Infectious substances (classification code 6.2)[^key-31580a705f37fd7b175895b9286a556f]
+#### 7. Infectious substances (classification code 6.2)[^c-31580a705f37fd7b175895b9286a556f]
 
 (1) Packages containing INFECTIOUS SUBSTANCES shall be stowed in such a way as to be easily accessible.
 
 (2) Where packages containing INFECTIOUS SUBSTANCES are being carried in a container or wagon they shall be kept apart from foodstuffs, other articles of consumption and animal feeding stuffs.
 
-#### 8. Corrosive substances (classification code 8)[^key-4cf1d223c307fd8924b79bb57f580506]
+#### 8. Corrosive substances (classification code 8)[^c-4cf1d223c307fd8924b79bb57f580506]
 
 (1) Containers and wagons shall be thoroughly cleaned and in particular be free of all combustible debris before they are loaded with packages containing any of the following goods—
 
@@ -1273,7 +1273,7 @@ Regulation 18
 
 (2) The use of combustible materials for stowing packages containing any of the goods listed in sub-paragraph (1) is prohibited.
 
-#### 9. Miscellaneous dangerous substances and articles (classification code 9)[^key-8df2fc0bff24b587426412098c2f3b2f]
+#### 9. Miscellaneous dangerous substances and articles (classification code 9)[^c-8df2fc0bff24b587426412098c2f3b2f]
 
 (1) Where packages containing miscellaneous substances or articles are being carried in a container or wagon they shall be kept apart from foodstuffs, other articles of consumption and animal feedstuffs.
 
@@ -1286,7 +1286,7 @@ Regulation 18
 
 ### Part II — Empty, Uncleaned Packagings
 
-#### 10. Flammable solids (classification code 4.1)[^key-fc4d59a1198d55d7e15576c205a36258]
+#### 10. Flammable solids (classification code 4.1)[^c-fc4d59a1198d55d7e15576c205a36258]
 
 (1) Empty, uncleaned packagings (including empty, intermediate bulk containers), which contain the residues of any of the following goods shall not be accepted for carriage unless those residues are so packed that the content of water or other phlegmatizers added to them to render them inert cannot diminish—
 
@@ -1328,11 +1328,11 @@ Regulation 18
 - UN 3229 SELF-REACTIVE LIQUID TYPE F
 - UN 3230 SELF-REACTIVE SOLID TYPE F
 
-#### 11. Toxic substances (classification code 6.1)[^key-56cb19f07d749b0e927e7e7097b29554]
+#### 11. Toxic substances (classification code 6.1)[^c-56cb19f07d749b0e927e7e7097b29554]
 
 Empty, uncleaned packagings (comprising bags or flexible intermediate bulk containers), which contain the residues of any TOXIC SUBSTANCES shall be placed in boxes or waterproof bags to prevent any leakage of those residues during carriage.
 
-#### 12. Miscellaneous dangerous substances and articles (classification code 9)[^key-4d1033b4cb8452376a94034b384bd76f]
+#### 12. Miscellaneous dangerous substances and articles (classification code 9)[^c-4d1033b4cb8452376a94034b384bd76f]
 
 Empty, uncleaned packagings (comprising bags) which contain the residues of any MISCELLANEOUS DANGEROUS SUBSTANCES OR ARTICLES shall be placed in boxes or waterproof bags to prevent any leakage of those residues during carriage.
 
@@ -1380,7 +1380,7 @@ Empty, uncleaned packagings (comprising bags) which contain the residues of any 
 
 [^f00002]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039); Article 3(1)(*c*) was modified by the Health and Safety at Work Order (Application to Environmentally Hazardous Substances) Regulations (Northern Ireland) 1996 ([S.R. 1996 No. 525](https://www.legislation.gov.uk/nisr/1996/525))
 
-[^key-2c3377cd545f307f49bcf3fd0382acf4]: Commencement: Reg. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-2c3377cd545f307f49bcf3fd0382acf4]: Commencement: Reg. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1997 No. 247](https://www.legislation.gov.uk/nisr/1997/247) as amended by [S.R. 1997 No. 360](https://www.legislation.gov.uk/nisr/1997/360)
 
@@ -1410,7 +1410,7 @@ Empty, uncleaned packagings (comprising bags) which contain the residues of any 
 
 [^f00016]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5)
 
-[^key-c72809b399a5ccac0fca37283ac04bc1]: Commencement: Reg. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-c72809b399a5ccac0fca37283ac04bc1]: Commencement: Reg. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. & O. (N.I.) 1930 No. 11](https://www.legislation.gov.uk/nisro/1930/11) (p. 330)
 
@@ -1430,158 +1430,158 @@ Empty, uncleaned packagings (comprising bags) which contain the residues of any 
 
 [^f00025]: Footnote: [S.R. 1997 No. 248](https://www.legislation.gov.uk/nisr/1997/248)
 
-[^key-bad8785ccfe90f014a3a17cb60ca9846]: Commencement: Reg. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-bad8785ccfe90f014a3a17cb60ca9846]: Commencement: Reg. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-43d8d707ed6a76437090110cd24d4ca2]: Commencement: Reg. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-43d8d707ed6a76437090110cd24d4ca2]: Commencement: Reg. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-f55b59efaf3e321fbe16672396bf6377]: Commencement: Reg. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-f55b59efaf3e321fbe16672396bf6377]: Commencement: Reg. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-a59b9316bebd8abd4d034675cd694375]: Commencement: Reg. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-a59b9316bebd8abd4d034675cd694375]: Commencement: Reg. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-e49ba9b3f33f42f2a2203b047e461ed9]: Commencement: Reg. 7 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-e49ba9b3f33f42f2a2203b047e461ed9]: Commencement: Reg. 7 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-cc9e5720835d716830a57eac4b313534]: Commencement: Reg. 8 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-cc9e5720835d716830a57eac4b313534]: Commencement: Reg. 8 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-55a1fbbc7743153c6c80511ca4d9e45f]: Commencement: Reg. 9 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-55a1fbbc7743153c6c80511ca4d9e45f]: Commencement: Reg. 9 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-141dfc03053a9a4cb990b3d7e53ee1b3]: Commencement: Reg. 10 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-141dfc03053a9a4cb990b3d7e53ee1b3]: Commencement: Reg. 10 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-685b4a8d4136cda5601ed6240df3d755]: Commencement: Reg. 11 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-685b4a8d4136cda5601ed6240df3d755]: Commencement: Reg. 11 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-146fe7dcc249ec0b1ffc4e7cd8f188d2]: Commencement: Reg. 12 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-146fe7dcc249ec0b1ffc4e7cd8f188d2]: Commencement: Reg. 12 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-de4d5a91ee790e204e1e031cb25b0be4]: Commencement: Reg. 13 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-de4d5a91ee790e204e1e031cb25b0be4]: Commencement: Reg. 13 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-a54591eb8409c86f4444d865aed9d577]: Commencement: Reg. 14 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-a54591eb8409c86f4444d865aed9d577]: Commencement: Reg. 14 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-4bf99d428306bf8ea1bfe6744ee93121]: Commencement: Reg. 15 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-4bf99d428306bf8ea1bfe6744ee93121]: Commencement: Reg. 15 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-b7c9909b823b7cfb3e7c013d3a6b890c]: Commencement: Reg. 16 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-b7c9909b823b7cfb3e7c013d3a6b890c]: Commencement: Reg. 16 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-f1c497d0a0a88525e299daa91da91626]: Commencement: Reg. 17 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-f1c497d0a0a88525e299daa91da91626]: Commencement: Reg. 17 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-ae89e961a50b6d42f4f76f1eddf7c143]: Commencement: Reg. 18 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-ae89e961a50b6d42f4f76f1eddf7c143]: Commencement: Reg. 18 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-edbfcb6cf0d1ab9ef5e4c70f4c55aedb]: Commencement: Reg. 19 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-edbfcb6cf0d1ab9ef5e4c70f4c55aedb]: Commencement: Reg. 19 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-e77590426b48ac51d146f91dd70eadeb]: Commencement: Reg. 20 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-e77590426b48ac51d146f91dd70eadeb]: Commencement: Reg. 20 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-ecea50c3c833afb1a7761daa0af958f1]: Commencement: Reg. 21 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-ecea50c3c833afb1a7761daa0af958f1]: Commencement: Reg. 21 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-afa3392a6cc57397f14196ab9460c3cd]: Commencement: Reg. 22 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-afa3392a6cc57397f14196ab9460c3cd]: Commencement: Reg. 22 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-20e687b48e1fb99b0cbb2e42d0dfce66]: Commencement: Reg. 23 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-20e687b48e1fb99b0cbb2e42d0dfce66]: Commencement: Reg. 23 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-653553dc0449c95c06a51ed3e0e30e7c]: Commencement: Reg. 24 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-653553dc0449c95c06a51ed3e0e30e7c]: Commencement: Reg. 24 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-c9b3ca84d45b9ed118562d04c9c21374]: Commencement: Reg. 25 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-c9b3ca84d45b9ed118562d04c9c21374]: Commencement: Reg. 25 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-e91e0bfb3e48337914fc923e0d79cd36]: Commencement: Reg. 26 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-e91e0bfb3e48337914fc923e0d79cd36]: Commencement: Reg. 26 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-5418d83e212d1fab9689ac573eaa3dd3]: Commencement: Reg. 27 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-5418d83e212d1fab9689ac573eaa3dd3]: Commencement: Reg. 27 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
 [^f00026]: Footnote: Current edition and supplement (1995-1996): Doc 9284-AN/905
 
-[^key-cf5704faed68ba6e385fafdbe4f943d0]: Commencement: Sch. 1 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-cf5704faed68ba6e385fafdbe4f943d0]: Commencement: Sch. 1 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-b5f2faa4ed5c44c697fad9adccafac29]: Commencement: Sch. 1 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-b5f2faa4ed5c44c697fad9adccafac29]: Commencement: Sch. 1 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-5c37900d761475be67c722a1df901d7a]: Commencement: Sch. 1 para. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-5c37900d761475be67c722a1df901d7a]: Commencement: Sch. 1 para. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-024723d30d35bf850471f344ba3100ae]: Commencement: Sch. 2 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-024723d30d35bf850471f344ba3100ae]: Commencement: Sch. 2 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-41f4349b412b69672e82ca782ddcf2d1]: Commencement: Sch. 2 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-41f4349b412b69672e82ca782ddcf2d1]: Commencement: Sch. 2 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-2e304aa96b3a48e13ae19f0727d2fda9]: Commencement: Sch. 2 para. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-2e304aa96b3a48e13ae19f0727d2fda9]: Commencement: Sch. 2 para. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-a4fb51e07271896886d3fc7901a0d133]: Commencement: Sch. 2 para. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-a4fb51e07271896886d3fc7901a0d133]: Commencement: Sch. 2 para. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-54c8df4dddc870fd95db118dcdcd7885]: Commencement: Sch. 2 para. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-54c8df4dddc870fd95db118dcdcd7885]: Commencement: Sch. 2 para. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-9b9cb7dad2df35bae7d70e726ffdd137]: Commencement: Sch. 2 para. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-9b9cb7dad2df35bae7d70e726ffdd137]: Commencement: Sch. 2 para. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-43f817a63435209346b967951a69a073]: Commencement: Sch. 2 para. 7 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-43f817a63435209346b967951a69a073]: Commencement: Sch. 2 para. 7 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-b5b5611e9e6830da0a456e22cecaec2e]: Commencement: Sch. 2 para. 8 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-b5b5611e9e6830da0a456e22cecaec2e]: Commencement: Sch. 2 para. 8 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-4a188c523f69169dc47c6ca865a7795b]: Commencement: Sch. 3 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-4a188c523f69169dc47c6ca865a7795b]: Commencement: Sch. 3 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-c15036fbddb3db0dcbbce1ee6d6ad6b3]: Commencement: Sch. 3 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-c15036fbddb3db0dcbbce1ee6d6ad6b3]: Commencement: Sch. 3 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-b9456d2685d544608d663bfa5a6143ba]: Commencement: Sch. 3 para. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-b9456d2685d544608d663bfa5a6143ba]: Commencement: Sch. 3 para. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-5a76ec27622a3f84b1f0eba7f651af9e]: Commencement: Sch. 3 para. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-5a76ec27622a3f84b1f0eba7f651af9e]: Commencement: Sch. 3 para. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-a0c794c1725d541038ce54f12bb2b01b]: Commencement: Sch. 3 para. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-a0c794c1725d541038ce54f12bb2b01b]: Commencement: Sch. 3 para. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-7eea5e8d2349d7ddd4466eab6b327e60]: Commencement: Sch. 3 para. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-7eea5e8d2349d7ddd4466eab6b327e60]: Commencement: Sch. 3 para. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-d2d47059b6395cd1927e20ae014b75ea]: Commencement: Sch. 3 para. 7 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-d2d47059b6395cd1927e20ae014b75ea]: Commencement: Sch. 3 para. 7 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-8140b495c1b672f205e0516027073fe2]: Commencement: Sch. 3 para. 8 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-8140b495c1b672f205e0516027073fe2]: Commencement: Sch. 3 para. 8 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-fe4fa8d1c583e4389fa344aef0bc5695]: Commencement: Sch. 3 para. 9 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-fe4fa8d1c583e4389fa344aef0bc5695]: Commencement: Sch. 3 para. 9 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-98d3b15d8b9cf92848eeb4007ec27eda]: Commencement: Sch. 3 para. 10 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-98d3b15d8b9cf92848eeb4007ec27eda]: Commencement: Sch. 3 para. 10 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-d92e5ec70fa183e38cc6327851653ca6]: Commencement: Sch. 3 para. 11 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-d92e5ec70fa183e38cc6327851653ca6]: Commencement: Sch. 3 para. 11 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-2951938124fde49a10db936c3c980d0d]: Commencement: Sch. 4 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-2951938124fde49a10db936c3c980d0d]: Commencement: Sch. 4 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-358787c0cae242629214584bddfc9292]: Commencement: Sch. 4 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-358787c0cae242629214584bddfc9292]: Commencement: Sch. 4 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-ab43af4a5f92a2b27072d166f06194bf]: Commencement: Sch. 4 para. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-ab43af4a5f92a2b27072d166f06194bf]: Commencement: Sch. 4 para. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-a0b7485a8faaf3934194b40b8248359e]: Commencement: Sch. 4 para. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-a0b7485a8faaf3934194b40b8248359e]: Commencement: Sch. 4 para. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-28568468860ea86a946a258a39c5f615]: Commencement: Sch. 4 para. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-28568468860ea86a946a258a39c5f615]: Commencement: Sch. 4 para. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-d285a3dcc05c6a64175a7cb8541e7fc1]: Commencement: Sch. 4 para. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-d285a3dcc05c6a64175a7cb8541e7fc1]: Commencement: Sch. 4 para. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-2524f3225e52a2c7ef0c2e47f8103000]: Commencement: Sch. 5 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-2524f3225e52a2c7ef0c2e47f8103000]: Commencement: Sch. 5 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-dfc1be6e31096606e3eb6b68ff252446]: Commencement: Sch. 5 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-dfc1be6e31096606e3eb6b68ff252446]: Commencement: Sch. 5 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-67a6e08048a06ddec5970f5ceb1e768f]: Commencement: Sch. 5 para. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-67a6e08048a06ddec5970f5ceb1e768f]: Commencement: Sch. 5 para. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-47f515ad8f288b5464e325bc4ec897e9]: Commencement: Sch. 5 para. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-47f515ad8f288b5464e325bc4ec897e9]: Commencement: Sch. 5 para. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-c8c7e97430b5160fb17a06446e2f34b2]: Commencement: Sch. 5 para. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-c8c7e97430b5160fb17a06446e2f34b2]: Commencement: Sch. 5 para. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-c52bf908587b4954d6a9c30e5d0b7e57]: Commencement: Sch. 5 para. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-c52bf908587b4954d6a9c30e5d0b7e57]: Commencement: Sch. 5 para. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-dbd5c7c37414b8c8cd75a7bb4a0b5c6f]: Commencement: Sch. 5 para. 7 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-dbd5c7c37414b8c8cd75a7bb4a0b5c6f]: Commencement: Sch. 5 para. 7 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-28bae46468924d18d6315f5085105877]: Commencement: Sch. 5 para. 8 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-28bae46468924d18d6315f5085105877]: Commencement: Sch. 5 para. 8 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-23783561b3188c147572e964e14a5746]: Commencement: Sch. 5 para. 9 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-23783561b3188c147572e964e14a5746]: Commencement: Sch. 5 para. 9 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
 [^f00027]: Footnote: [S.R. 1997 No. 248](https://www.legislation.gov.uk/nisr/1997/248)
 
-[^key-7592e808641a5632a1ef2b72e0793dba]: Commencement: Sch. 6 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-7592e808641a5632a1ef2b72e0793dba]: Commencement: Sch. 6 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-b2fb304947322be7601264f297197da0]: Commencement: Sch. 6 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-b2fb304947322be7601264f297197da0]: Commencement: Sch. 6 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-aed6fc33aaee29bf154c9b3389e0bd49]: Commencement: Sch. 7 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-aed6fc33aaee29bf154c9b3389e0bd49]: Commencement: Sch. 7 para. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-39e581a2a26dc256d43a1fc70a984bf0]: Commencement: Sch. 7 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-39e581a2a26dc256d43a1fc70a984bf0]: Commencement: Sch. 7 para. 2 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-ced124dd4970dc6cf122a963f0ce2ae6]: Commencement: Sch. 7 para. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-ced124dd4970dc6cf122a963f0ce2ae6]: Commencement: Sch. 7 para. 3 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-cc5fc58b32ed28d42db2aab477bdd307]: Commencement: Sch. 7 para. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-cc5fc58b32ed28d42db2aab477bdd307]: Commencement: Sch. 7 para. 4 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-8f48897fab54b1108b90ac68b36932cf]: Commencement: Sch. 7 para. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-8f48897fab54b1108b90ac68b36932cf]: Commencement: Sch. 7 para. 5 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-af6aaad952965e226317f8f115656d66]: Commencement: Sch. 7 para. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-af6aaad952965e226317f8f115656d66]: Commencement: Sch. 7 para. 6 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-31580a705f37fd7b175895b9286a556f]: Commencement: Sch. 7 para. 7 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-31580a705f37fd7b175895b9286a556f]: Commencement: Sch. 7 para. 7 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-4cf1d223c307fd8924b79bb57f580506]: Commencement: Sch. 7 para. 8 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-4cf1d223c307fd8924b79bb57f580506]: Commencement: Sch. 7 para. 8 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-8df2fc0bff24b587426412098c2f3b2f]: Commencement: Sch. 7 para. 9 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-8df2fc0bff24b587426412098c2f3b2f]: Commencement: Sch. 7 para. 9 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-fc4d59a1198d55d7e15576c205a36258]: Commencement: Sch. 7 para. 10 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-fc4d59a1198d55d7e15576c205a36258]: Commencement: Sch. 7 para. 10 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-56cb19f07d749b0e927e7e7097b29554]: Commencement: Sch. 7 para. 11 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-56cb19f07d749b0e927e7e7097b29554]: Commencement: Sch. 7 para. 11 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
 
-[^key-4d1033b4cb8452376a94034b384bd76f]: Commencement: Sch. 7 para. 12 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)
+[^c-4d1033b4cb8452376a94034b384bd76f]: Commencement: Sch. 7 para. 12 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/131/regulation/1/1)

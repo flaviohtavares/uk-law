@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.1. When this Part applies[^key-c3278694665fae2038e68de7a743f0de]
+## 24.1. When this Part applies[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.2. General rules[^key-c3278694665fae2038e68de7a743f0de]
+## 24.2. General rules[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.3. Procedure on plea of not guilty[^key-c3278694665fae2038e68de7a743f0de]
+## 24.3. Procedure on plea of not guilty[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.4. Evidence of a witness in person[^key-c3278694665fae2038e68de7a743f0de]
+## 24.4. Evidence of a witness in person[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.5. Evidence of a witness in writing[^key-c3278694665fae2038e68de7a743f0de]
+## 24.5. Evidence of a witness in writing[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.6. Evidence by admission[^key-c3278694665fae2038e68de7a743f0de]
+## 24.6. Evidence by admission[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.7. Procedure on plea of guilty[^key-c3278694665fae2038e68de7a743f0de]
+## 24.7. Procedure on plea of guilty[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.8. Written guilty plea: special rules[^key-c3278694665fae2038e68de7a743f0de]
+## 24.8. Written guilty plea: special rules[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.9. Single justice procedure: special rules[^key-c3278694665fae2038e68de7a743f0de]
+## 24.9. Single justice procedure: special rules[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.10. Application to withdraw a guilty plea[^key-c3278694665fae2038e68de7a743f0de]
+## 24.10. Application to withdraw a guilty plea[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.11. Procedure if the court convicts[^key-c3278694665fae2038e68de7a743f0de]
+## 24.11. Procedure if the court convicts[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -104,7 +104,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.12. Procedure where a party is absent[^key-c3278694665fae2038e68de7a743f0de]
+## 24.12. Procedure where a party is absent[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -112,7 +112,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.13. Provision of documents for the court[^key-c3278694665fae2038e68de7a743f0de]
+## 24.13. Provision of documents for the court[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -120,7 +120,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.14. Place of trial[^key-c3278694665fae2038e68de7a743f0de]
+## 24.14. Place of trial[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -128,7 +128,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.15. Duty of justices' legal adviser[^key-c3278694665fae2038e68de7a743f0de]
+## 24.15. Duty of justices' legal adviser[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -136,7 +136,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.16. Duty of court officer[^key-c3278694665fae2038e68de7a743f0de]
+## 24.16. Duty of court officer[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -144,7 +144,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.17. Statutory declaration of ignorance of proceedings[^key-c3278694665fae2038e68de7a743f0de]
+## 24.17. Statutory declaration of ignorance of proceedings[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -152,7 +152,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.18. Setting aside a conviction or varying a costs etc. order[^key-c3278694665fae2038e68de7a743f0de]
+## 24.18. Setting aside a conviction or varying a costs etc. order[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -162,6 +162,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3278694665fae2038e68de7a743f0de]: Textual amendment: Rules revoked (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [preamble](https://www.legislation.gov.uk/uksi/2020/759/introduction)
+[^c-c3278694665fae2038e68de7a743f0de]: Textual amendment: Rules revoked (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [preamble](https://www.legislation.gov.uk/uksi/2020/759/introduction)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

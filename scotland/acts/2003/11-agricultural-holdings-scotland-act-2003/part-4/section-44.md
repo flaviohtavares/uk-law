@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Amount of compensation where grant made to tenant[^key-b4c0a317cc1d33bba362d532d8b5b823]
+## 44. Amount of compensation where grant made to tenant[^c-b4c0a317cc1d33bba362d532d8b5b823]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ In section 36 (amount of compensation) of the 1991 Act, in subsection (3), for t
 
 ## Annotations
 
-[^key-b4c0a317cc1d33bba362d532d8b5b823]: Commencement: S. 44 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-b4c0a317cc1d33bba362d532d8b5b823]: Commencement: S. 44 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

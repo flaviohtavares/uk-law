@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357GCZA. Qualifying IP right held by another party to CSA[^key-9bc1295391e07b348102a977265d2002][^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357GCZA. Qualifying IP right held by another party to CSA[^c-9bc1295391e07b348102a977265d2002][^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9bc1295391e07b348102a977265d2002]: Textual amendment: [Ss. 357GC-357GCZF](https://www.legislation.gov.uk/ukpga/2010/4/section/357GC) substituted for [s. 357GC](https://www.legislation.gov.uk/ukpga/2010/4/section/357GC) (with effect in accordance with s. 23(5) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 23(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/23/3)
+[^c-9bc1295391e07b348102a977265d2002]: Textual amendment: [Ss. 357GC-357GCZF](https://www.legislation.gov.uk/ukpga/2010/4/section/357GC) substituted for [s. 357GC](https://www.legislation.gov.uk/ukpga/2010/4/section/357GC) (with effect in accordance with s. 23(5) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 23(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/23/3)
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)

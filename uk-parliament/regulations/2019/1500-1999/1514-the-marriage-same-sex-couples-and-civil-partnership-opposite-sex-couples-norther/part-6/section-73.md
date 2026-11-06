@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Pensions Act (Northern Ireland) 2015[^key-741c963390e409836422df7f1129da21]
+## 73. Pensions Act (Northern Ireland) 2015[^c-741c963390e409836422df7f1129da21]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ In paragraph 4 of Schedule 6 to the Pensions Act (Northern Ireland) 2015[^f00132
 
 ## Annotations
 
-[^key-741c963390e409836422df7f1129da21]: Commencement: Reg. 73 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-741c963390e409836422df7f1129da21]: Commencement: Reg. 73 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00132]: Footnote: [2015 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5).

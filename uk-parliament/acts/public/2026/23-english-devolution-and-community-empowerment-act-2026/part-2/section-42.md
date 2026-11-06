@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Local Government Act 2003: expenditure grant[^key-9e6a49614835e9ae6157e1bf71a62f77]
+## 42. Local Government Act 2003: expenditure grant[^c-9e6a49614835e9ae6157e1bf71a62f77]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e6a49614835e9ae6157e1bf71a62f77]: Commencement: S. 42 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-9e6a49614835e9ae6157e1bf71a62f77]: Commencement: S. 42 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

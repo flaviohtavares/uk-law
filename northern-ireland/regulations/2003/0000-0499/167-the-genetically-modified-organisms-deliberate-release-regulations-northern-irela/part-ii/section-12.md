@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Advertisement of applications for consent to release[^key-6e58214e0e94b520146efe9a825d4aa5]
+## 12. Advertisement of applications for consent to release[^c-6e58214e0e94b520146efe9a825d4aa5]
 
 *Extent: N.I.*
 
@@ -49,6 +49,6 @@ and shall immediately send to the Department copies of the notices.
 
 ## Annotations
 
-[^key-6e58214e0e94b520146efe9a825d4aa5]: Commencement: Reg. 12 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-6e58214e0e94b520146efe9a825d4aa5]: Commencement: Reg. 12 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
 
 [^f00014]: Footnote: [S.R. 2001 No. 295](https://www.legislation.gov.uk/nisr/2001/295)

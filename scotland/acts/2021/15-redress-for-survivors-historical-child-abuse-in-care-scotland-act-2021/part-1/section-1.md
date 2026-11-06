@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Overview of Act[^key-aa39411ef29228e43024a46d4b956873]
+## 1. Overview of Act[^c-aa39411ef29228e43024a46d4b956873]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa39411ef29228e43024a46d4b956873]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/15/section/1) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-aa39411ef29228e43024a46d4b956873]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/15/section/1) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

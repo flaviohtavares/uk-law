@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Repayments of tax[^key-533b61ea700b81718f36175ca73941e8]
+## 52. Repayments of tax[^c-533b61ea700b81718f36175ca73941e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-533b61ea700b81718f36175ca73941e8]: Textual amendment: [Reg. 52](https://www.legislation.gov.uk/uksi/2006/964/regulation/52) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2010 (S.I. 2010/1642)](https://www.legislation.gov.uk/uksi/2010/1642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1642/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2010/1642/regulation/6)
+[^c-533b61ea700b81718f36175ca73941e8]: Textual amendment: [Reg. 52](https://www.legislation.gov.uk/uksi/2006/964/regulation/52) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2010 (S.I. 2010/1642)](https://www.legislation.gov.uk/uksi/2010/1642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1642/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2010/1642/regulation/6)

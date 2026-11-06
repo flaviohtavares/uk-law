@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 208. Applications under Article 150A(5) to disapply Article 150A[^key-f7600907d24c2570bc6a8a477f384398]
+## 208. Applications under Article 150A(5) to disapply Article 150A[^c-f7600907d24c2570bc6a8a477f384398]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7600907d24c2570bc6a8a477f384398]: Commencement: [Rule 208](https://www.legislation.gov.uk/nisr/2026/11/rule/208) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-f7600907d24c2570bc6a8a477f384398]: Commencement: [Rule 208](https://www.legislation.gov.uk/nisr/2026/11/rule/208) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

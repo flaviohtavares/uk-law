@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19A. Schemes for development[^key-3b2536a196f1acb31698f12a2c5c511d]
+## 19A. Schemes for development[^c-3b2536a196f1acb31698f12a2c5c511d]
 
 *Extent: S*
 
@@ -98,4 +98,4 @@ the Court shall advise the Commission that it has done so and provide them with 
 
 ## Annotations
 
-[^key-3b2536a196f1acb31698f12a2c5c511d]: Textual amendment: S. 19A inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 30(1)](https://www.legislation.gov.uk/asp/2007/7/section/30/1), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-3b2536a196f1acb31698f12a2c5c511d]: Textual amendment: S. 19A inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 30(1)](https://www.legislation.gov.uk/asp/2007/7/section/30/1), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)

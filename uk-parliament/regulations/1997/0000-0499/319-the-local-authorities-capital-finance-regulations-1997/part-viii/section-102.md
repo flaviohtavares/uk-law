@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 102. Disposal of land—compensation for planning decision[^key-2ab819b06c567a4f725f46740ebddc56]
+## 102. Disposal of land—compensation for planning decision[^c-2ab819b06c567a4f725f46740ebddc56]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ab819b06c567a4f725f46740ebddc56]: Commencement: Reg. 102 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-2ab819b06c567a4f725f46740ebddc56]: Commencement: Reg. 102 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00095]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).

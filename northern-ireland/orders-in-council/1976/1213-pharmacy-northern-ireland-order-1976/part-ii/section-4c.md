@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4C. Accounts[^key-b6bf95b607d695e5babf259207c41f48]
+## 4C. Accounts[^c-b6bf95b607d695e5babf259207c41f48]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ and the Department shall lay before the Assembly a copy of those annual accounts
 
 ## Annotations
 
-[^key-b6bf95b607d695e5babf259207c41f48]: Textual amendment: [Arts. 4A-4D](https://www.legislation.gov.uk/nisi/1976/1213/article/4A) inserted (1.10.2012, 1.6.2013) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [4](https://www.legislation.gov.uk/nisr/2012/308/article/4) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))
+[^c-b6bf95b607d695e5babf259207c41f48]: Textual amendment: [Arts. 4A-4D](https://www.legislation.gov.uk/nisi/1976/1213/article/4A) inserted (1.10.2012, 1.6.2013) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [4](https://www.legislation.gov.uk/nisr/2012/308/article/4) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))

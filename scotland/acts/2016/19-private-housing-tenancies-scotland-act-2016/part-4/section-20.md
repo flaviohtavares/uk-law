@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. No premiums, advance payments, etc.[^key-618f853959aea832f3f4e9266bbfee68]
+## 20. No premiums, advance payments, etc.[^c-618f853959aea832f3f4e9266bbfee68]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-618f853959aea832f3f4e9266bbfee68]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/19/section/20) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-618f853959aea832f3f4e9266bbfee68]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/19/section/20) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

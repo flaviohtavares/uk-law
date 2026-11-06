@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Flight safety analysis[^key-e968c04f7e6ef500cbe917e77632de52]
+## 26. Flight safety analysis[^c-e968c04f7e6ef500cbe917e77632de52]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e968c04f7e6ef500cbe917e77632de52]: Commencement: Reg. 26 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-e968c04f7e6ef500cbe917e77632de52]: Commencement: Reg. 26 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

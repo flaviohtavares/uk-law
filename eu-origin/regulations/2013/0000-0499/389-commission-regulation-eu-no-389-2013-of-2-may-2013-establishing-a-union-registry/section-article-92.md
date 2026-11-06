@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 92. Helpdesk[^key-dfe0feb033cbfa5aba914031dc1e7535]
+## Article 92. Helpdesk[^c-dfe0feb033cbfa5aba914031dc1e7535]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The national administrator must provide assistance and support to account holder
 
 ## Annotations
 
-[^key-dfe0feb033cbfa5aba914031dc1e7535]: Textual amendment: [Art. 92](https://www.legislation.gov.uk/eur/2013/389/article/92) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/3)
+[^c-dfe0feb033cbfa5aba914031dc1e7535]: Textual amendment: [Art. 92](https://www.legislation.gov.uk/eur/2013/389/article/92) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/3)

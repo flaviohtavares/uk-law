@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 157. Special provisions in respect of share fishermen[^key-3468033fd037f3eaebb243e42db0f75d]
+## 157. Special provisions in respect of share fishermen[^c-3468033fd037f3eaebb243e42db0f75d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The Order and the foregoing provisions of these Regulations shall have effect in
 
 ## Annotations
 
-[^key-3468033fd037f3eaebb243e42db0f75d]: Commencement: Reg. 157 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-3468033fd037f3eaebb243e42db0f75d]: Commencement: Reg. 157 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

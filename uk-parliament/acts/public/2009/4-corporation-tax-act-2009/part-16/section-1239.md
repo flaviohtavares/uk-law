@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1239. Redundancy payments and approved contractual payments[^key-c23e952e2561e1c44d1f376f01fd5338]
+## 1239. Redundancy payments and approved contractual payments[^c-c23e952e2561e1c44d1f376f01fd5338]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c23e952e2561e1c44d1f376f01fd5338]: Modification: Ss. 1238-1242 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/3)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-c23e952e2561e1c44d1f376f01fd5338]: Modification: Ss. 1238-1242 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/3)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))

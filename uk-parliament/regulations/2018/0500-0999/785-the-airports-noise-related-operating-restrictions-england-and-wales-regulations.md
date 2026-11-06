@@ -58,7 +58,7 @@ The Secretary of State is a Minister designated for the purposes of that section
 
 In these Regulations—
 
-- “**the 2014 Regulation**” means Regulation (EU) No 598/2014 of the European Parliament and of the Council of 16th April 2014 on the establishment of rules and procedures with regard to the introduction of noise-related operating restrictions at United Kingdom[^key-b6cc2d56fec0aabac5dfbeaf62bc5e7e] airports within a Balanced Approach [^c23326241] and repealing Directive [2002/30/EC](https://www.legislation.gov.uk/european/directive/2002/0030) [^c23326251];
+- “**the 2014 Regulation**” means Regulation (EU) No 598/2014 of the European Parliament and of the Council of 16th April 2014 on the establishment of rules and procedures with regard to the introduction of noise-related operating restrictions at United Kingdom[^c-b6cc2d56fec0aabac5dfbeaf62bc5e7e] airports within a Balanced Approach [^c23326241] and repealing Directive [2002/30/EC](https://www.legislation.gov.uk/european/directive/2002/0030) [^c23326251];
 - “**aircraft**” has the same meaning as in Article 2(1) (definitions) of the 2014 Regulation;
 - “**airport**” means an airport which—
   - (a) is in England or Wales, and
@@ -145,7 +145,7 @@ No impact assessment has been prepared in relation to these Regulations as there
 
 [^c23326231]: Marginal citation: [S.I. 1993/2661](https://www.legislation.gov.uk/uksi/1993/2661), to which there are amendments not relevant to these Regulations.
 
-[^key-b6cc2d56fec0aabac5dfbeaf62bc5e7e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/785/regulation/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/643/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b6cc2d56fec0aabac5dfbeaf62bc5e7e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/785/regulation/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/643/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23326241]: Marginal citation: OJ L 173, 12.6.2014, p. 65-78.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.1. Extension of time[^key-e4bf78c16ca804c8c0a546f82abd82e8]
+## 42.1. Extension of time[^c-e4bf78c16ca804c8c0a546f82abd82e8]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e4bf78c16ca804c8c0a546f82abd82e8]: Commencement: [Rule 42.1](https://www.legislation.gov.uk/uksi/2025/909/rule/42.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e4bf78c16ca804c8c0a546f82abd82e8]: Commencement: [Rule 42.1](https://www.legislation.gov.uk/uksi/2025/909/rule/42.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00988]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 

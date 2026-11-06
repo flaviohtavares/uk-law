@@ -29,7 +29,7 @@ summary: ''
   - (b) is, or corresponds to, any conduct which, if it all took place in any one part of the United Kingdom, would constitute one or more criminal offences,
 - “**criminal proceedings**” includes proceedings before a court in respect of a service offence within the meaning of the Armed Forces Act 2006 (and references to criminal prosecutions are to be read accordingly),
 - “**data**” includes data which is not electronic data and any information (whether or not electronic),
-- “[^key-ae26b1248e2ef90ba11f0b6d90a4ec4a]**Deputy Investigatory Powers Commissioner**” means a person appointed under section 227(6A) (and the expression is also to be read in accordance with section 227(13)(b)),
+- “[^c-ae26b1248e2ef90ba11f0b6d90a4ec4a]**Deputy Investigatory Powers Commissioner**” means a person appointed under section 227(6A) (and the expression is also to be read in accordance with section 227(13)(b)),
 - “**destroy**”, in relation to electronic data, means delete the data in such a way as to make access to the data impossible (and related expressions are to be read accordingly),
 - “**enactment**” means an enactment whenever passed or made; and includes—
   - (a) an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978,
@@ -81,7 +81,7 @@ summary: ''
 - “**systems data**” has the meaning given by subsection (4),
 - “**the Technical Advisory Board**” means the Board provided for by section 245,
 - “**the Technology Advisory Panel**” means the panel established in accordance with section 246(1),
-- “[^key-1ad8ee62bb7c4f744274ee7d147eabf0]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006,
+- “[^c-1ad8ee62bb7c4f744274ee7d147eabf0]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006,
 - “**working day**” means a day other than a Saturday, a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
 
 (2) In this Act “**identifying data**” means—
@@ -115,6 +115,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae26b1248e2ef90ba11f0b6d90a4ec4a]: Textual amendment: Words in [s. 263(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/263/1) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2024/9/section/7/4), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/g)
+[^c-ae26b1248e2ef90ba11f0b6d90a4ec4a]: Textual amendment: Words in [s. 263(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/263/1) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2024/9/section/7/4), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/g)
 
-[^key-1ad8ee62bb7c4f744274ee7d147eabf0]: Textual amendment: Words in [s. 263(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/263/1) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/46); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-1ad8ee62bb7c4f744274ee7d147eabf0]: Textual amendment: Words in [s. 263(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/263/1) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/46); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)

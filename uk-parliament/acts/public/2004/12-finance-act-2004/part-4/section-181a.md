@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181A. Minimum level of payment[^key-75fb7f25b08c1d02fe31b9e3290ca18d]
+## 181A. Minimum level of payment[^c-75fb7f25b08c1d02fe31b9e3290ca18d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75fb7f25b08c1d02fe31b9e3290ca18d]: Textual amendment: S. 181A omitted (with effect in accordance with Sch. 16 para. 85 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 69](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/69)
+[^c-75fb7f25b08c1d02fe31b9e3290ca18d]: Textual amendment: S. 181A omitted (with effect in accordance with Sch. 16 para. 85 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 69](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/69)

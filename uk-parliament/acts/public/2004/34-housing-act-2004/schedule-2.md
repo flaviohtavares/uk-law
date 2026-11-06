@@ -95,7 +95,7 @@ Section 27
 
 #### Appeal against prohibition order
 
-**7.**[^c2051593] (1) A relevant person may appeal to the appropriate tribunal[^key-09ea7ff06bb752a6f3e73b2177399d86] against a prohibition order.
+**7.**[^c2051593] (1) A relevant person may appeal to the appropriate tribunal[^c-09ea7ff06bb752a6f3e73b2177399d86] against a prohibition order.
 
 (2) Paragraph 8 sets out a specific ground on which an appeal may be made under this paragraph, but it does not affect the generality of sub-paragraph (1).
 
@@ -109,7 +109,7 @@ Section 27
 
 #### Appeal against decision relating to revocation or variation of prohibition order
 
-**9.**[^c2051597] A relevant person may appeal to the appropriate tribunal[^key-50f160363c9d45a1ac07795001d2a58e] against—
+**9.**[^c2051597] A relevant person may appeal to the appropriate tribunal[^c-50f160363c9d45a1ac07795001d2a58e] against—
 
 - (a) a decision by the local housing authority to vary a prohibition order, or
 - (b) a decision by the authority to refuse to revoke or vary a prohibition order.
@@ -120,11 +120,11 @@ Section 27
 
 (2) Any appeal under paragraph 9 must be made within the period of 28 days beginning with the date specified in the notice under paragraph 3 or 5 as the date on which the decision concerned was made.
 
-(3) The appropriate tribunal[^key-0c15ede4ed756c1a7b43725c34f654cf] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (1) or (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
+(3) The appropriate tribunal[^c-0c15ede4ed756c1a7b43725c34f654cf] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (1) or (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
 
-#### Powers of ... tribunal on appeal under paragraph 7[^key-de2a6860e2749cd388eeb679934e6cae]
+#### Powers of ... tribunal on appeal under paragraph 7[^c-de2a6860e2749cd388eeb679934e6cae]
 
-**11.**[^c2051622] (1) This paragraph applies to an appeal to the appropriate tribunal[^key-d7ae35ae86dd4d7e94dd80e5c22a4948] under paragraph 7.
+**11.**[^c2051622] (1) This paragraph applies to an appeal to the appropriate tribunal[^c-d7ae35ae86dd4d7e94dd80e5c22a4948] under paragraph 7.
 
 (2) The appeal—
 
@@ -146,9 +146,9 @@ Section 27
 
 (4) The tribunal must, if requested to do so by the appellant or the local housing authority, include in its decision a finding to that effect and identifying the course of action concerned.
 
-#### Powers of ... tribunal on appeal under paragraph 9[^key-e33c3d9c6ac8cb80581e90f6d1f834e0]
+#### Powers of ... tribunal on appeal under paragraph 9[^c-e33c3d9c6ac8cb80581e90f6d1f834e0]
 
-**13.**[^c2051633] (1) This paragraph applies to an appeal to the appropriate tribunal[^key-2e54961592b8e6561e8d299cb935ac85] under paragraph 9.
+**13.**[^c2051633] (1) This paragraph applies to an appeal to the appropriate tribunal[^c-2e54961592b8e6561e8d299cb935ac85] under paragraph 9.
 
 (2) Paragraph 11(2) applies to such an appeal as it applies to an appeal under paragraph 7.
 
@@ -221,31 +221,31 @@ Section 27
 
 [^c2051593]: Commencement: Sch. 2 wholly in force at 16.6.2006; Sch. 2 not in force at Royal Assent see s. 270(4)(5); Sch. 2 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 2 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-09ea7ff06bb752a6f3e73b2177399d86]: Textual amendment: Words in Sch. 2 para. 7(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-09ea7ff06bb752a6f3e73b2177399d86]: Textual amendment: Words in Sch. 2 para. 7(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051596]: Commencement: Sch. 2 wholly in force at 16.6.2006; Sch. 2 not in force at Royal Assent see s. 270(4)(5); Sch. 2 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 2 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
 [^c2051597]: Commencement: Sch. 2 wholly in force at 16.6.2006; Sch. 2 not in force at Royal Assent see s. 270(4)(5); Sch. 2 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 2 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-50f160363c9d45a1ac07795001d2a58e]: Textual amendment: Words in Sch. 2 para. 9 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-50f160363c9d45a1ac07795001d2a58e]: Textual amendment: Words in Sch. 2 para. 9 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051617]: Commencement: Sch. 2 wholly in force at 16.6.2006; Sch. 2 not in force at Royal Assent see s. 270(4)(5); Sch. 2 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 2 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-0c15ede4ed756c1a7b43725c34f654cf]: Textual amendment: Words in Sch. 2 para. 10(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-0c15ede4ed756c1a7b43725c34f654cf]: Textual amendment: Words in Sch. 2 para. 10(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-de2a6860e2749cd388eeb679934e6cae]: Textual amendment: Words in Sch. 2 para. 11 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-de2a6860e2749cd388eeb679934e6cae]: Textual amendment: Words in Sch. 2 para. 11 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051622]: Commencement: Sch. 2 wholly in force at 16.6.2006; Sch. 2 not in force at Royal Assent see s. 270(4)(5); Sch. 2 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 2 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-d7ae35ae86dd4d7e94dd80e5c22a4948]: Textual amendment: Words in Sch. 2 para. 11(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-d7ae35ae86dd4d7e94dd80e5c22a4948]: Textual amendment: Words in Sch. 2 para. 11(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051629]: Commencement: Sch. 2 wholly in force at 16.6.2006; Sch. 2 not in force at Royal Assent see s. 270(4)(5); Sch. 2 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 2 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-e33c3d9c6ac8cb80581e90f6d1f834e0]: Textual amendment: Words in Sch. 2 para. 13 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-e33c3d9c6ac8cb80581e90f6d1f834e0]: Textual amendment: Words in Sch. 2 para. 13 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051633]: Commencement: Sch. 2 wholly in force at 16.6.2006; Sch. 2 not in force at Royal Assent see s. 270(4)(5); Sch. 2 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 2 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-2e54961592b8e6561e8d299cb935ac85]: Textual amendment: Words in Sch. 2 para. 13(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-2e54961592b8e6561e8d299cb935ac85]: Textual amendment: Words in Sch. 2 para. 13(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 182(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/182/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051634]: Commencement: Sch. 2 wholly in force at 16.6.2006; Sch. 2 not in force at Royal Assent see s. 270(4)(5); Sch. 2 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 2 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 

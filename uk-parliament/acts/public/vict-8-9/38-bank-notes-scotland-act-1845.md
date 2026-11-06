@@ -33,55 +33,55 @@ An Act to regulate the Issue of Bank Notes in Scotland.
 
 \[21st July 1845\][^c5562581][^c5562591]
 
-## 1. Commissioners to certify existing banks of issue and limitation of issue.[^key-ea5bb495fb7ddc5cbb0de5be108ecb35]
+## 1. Commissioners to certify existing banks of issue and limitation of issue.[^c-ea5bb495fb7ddc5cbb0de5be108ecb35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5562631]
 
-## 3. Duplicate of certificate to be published in the Gazette. Gazette to be evidence.[^key-b76c1a1c79d1bfae3b61f463a9eeadbb][^c5562641]
+## 3. Duplicate of certificate to be published in the Gazette. Gazette to be evidence.[^c-b76c1a1c79d1bfae3b61f463a9eeadbb][^c5562641]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. In case banks become united, commissioners to certify the amount of bank notes which each bank was authorized to issue.[^key-b76c1a1c79d1bfae3b61f463a9eeadbb]
+## 4. In case banks become united, commissioners to certify the amount of bank notes which each bank was authorized to issue.[^c-b76c1a1c79d1bfae3b61f463a9eeadbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Issue of notes for fractional parts of a pound prohibited.[^key-b76c1a1c79d1bfae3b61f463a9eeadbb]
+## 5. Issue of notes for fractional parts of a pound prohibited.[^c-b76c1a1c79d1bfae3b61f463a9eeadbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Limitation of bank notes in circulation.[^key-b76c1a1c79d1bfae3b61f463a9eeadbb]
+## 6. Limitation of bank notes in circulation.[^c-b76c1a1c79d1bfae3b61f463a9eeadbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Issuing banks to render accounts weekly.[^key-b76c1a1c79d1bfae3b61f463a9eeadbb][^c5562681]
+## 7. Issuing banks to render accounts weekly.[^c-b76c1a1c79d1bfae3b61f463a9eeadbb][^c5562681]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. What shall be deemed to be bank notes in circulation[^key-b76c1a1c79d1bfae3b61f463a9eeadbb]
+## 8. What shall be deemed to be bank notes in circulation[^c-b76c1a1c79d1bfae3b61f463a9eeadbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Commissioners of stamps and taxes to make a monthly return.[^key-b76c1a1c79d1bfae3b61f463a9eeadbb][^c5562711]
+## 9. Commissioners of stamps and taxes to make a monthly return.[^c-b76c1a1c79d1bfae3b61f463a9eeadbb][^c5562711]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Mode of ascertaining the average amount of bank notes of each banker in circulation and gold coin, during the first four weeks after 31st December 1845.[^key-b76c1a1c79d1bfae3b61f463a9eeadbb][^c5562741]
+## 10. Mode of ascertaining the average amount of bank notes of each banker in circulation and gold coin, during the first four weeks after 31st December 1845.[^c-b76c1a1c79d1bfae3b61f463a9eeadbb][^c5562741]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. In taking the account of coin held by bankers, silver coin not to exceed the proportion of one fourth of gold.[^key-b76c1a1c79d1bfae3b61f463a9eeadbb][^c5562791]
+## 11. In taking the account of coin held by bankers, silver coin not to exceed the proportion of one fourth of gold.[^c-b76c1a1c79d1bfae3b61f463a9eeadbb][^c5562791]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Commissioners of inland revenue empowered to cause the books of bankers containing accounts of their bank notes in circulation, and of gold coin, to be inspected. Penalty for refusing to allow such inspection[^key-b76c1a1c79d1bfae3b61f463a9eeadbb][^c5562811][^c5562821][^c5562831]
+## 12. Commissioners of inland revenue empowered to cause the books of bankers containing accounts of their bank notes in circulation, and of gold coin, to be inspected. Penalty for refusing to allow such inspection[^c-b76c1a1c79d1bfae3b61f463a9eeadbb][^c5562811][^c5562821][^c5562831]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5562851]
 
-## 14. Penalty on banks issuing in excess.[^key-c884ddcb670cfae5e3747b410b27cc37]
+## 14. Penalty on banks issuing in excess.[^c-c884ddcb670cfae5e3747b410b27cc37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -95,11 +95,11 @@ All promissory or other notes, bills of exchange, or drafts, or undertakings in 
 
 ## 18. Penalty for persons, other than bankers hereby authorized, issuing notes payable on demand for less than 5l.
 
-If any body politic or corporate or any person or persons shall make, sign, issue, or re-issue in Scotland any promissory note payable on demand to the bearer thereof for any sum of money less than the sum of five pounds, except banknotes issued in reliance on section 213 of the Banking Act 2009[^key-f1f65121aa337740fb332a948b5a2389] , then and in either of such cases every such body politic or corporate or person or persons so making, signing, issuing, or re-issuing any such promissory note as aforesaid, except as aforesaid, shall for every such note so made, signed, issued, or re-issued forfeit the sum of twenty pounds.
+If any body politic or corporate or any person or persons shall make, sign, issue, or re-issue in Scotland any promissory note payable on demand to the bearer thereof for any sum of money less than the sum of five pounds, except banknotes issued in reliance on section 213 of the Banking Act 2009[^c-f1f65121aa337740fb332a948b5a2389] , then and in either of such cases every such body politic or corporate or person or persons so making, signing, issuing, or re-issuing any such promissory note as aforesaid, except as aforesaid, shall for every such note so made, signed, issued, or re-issued forfeit the sum of twenty pounds.
 
 ## 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5562911]
 
-## 20. Not to prohibit checks on bankers.[^key-2d975be9b097acfbef78aea86c20aeb6]
+## 20. Not to prohibit checks on bankers.[^c-2d975be9b097acfbef78aea86c20aeb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -115,13 +115,13 @@ All pecuniary penalties under this Act may be sued or prosecuted for and recover
 
 schedules to which this act refers
 
-## schedule (A)[^key-b124f72b4cfe40692edfa6cc03060ed1]
+## schedule (A)[^c-b124f72b4cfe40692edfa6cc03060ed1]
 
 Section 7
 
 ...
 
-## Schedule (B)[^key-b7cbe8e21c61870e900f901184bee037]
+## Schedule (B)[^c-b7cbe8e21c61870e900f901184bee037]
 
 Section 9
 
@@ -137,11 +137,11 @@ Section 9
 
 [^c5562591]: Modification: Preamble omitted under authority of [Statute Law Revision Act 1891 (c. 67)](https://www.legislation.gov.uk/ukpga/1891/67)
 
-[^key-ea5bb495fb7ddc5cbb0de5be108ecb35]: Textual amendment: S. 1 repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 212(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/212/a), 214(2)(a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-ea5bb495fb7ddc5cbb0de5be108ecb35]: Textual amendment: S. 1 repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 212(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/212/a), 214(2)(a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
 [^c5562631]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/2) repealed by [Statute Law Revision Act 1892 (c. 19)](https://www.legislation.gov.uk/ukpga/1892/19)
 
-[^key-b76c1a1c79d1bfae3b61f463a9eeadbb]: Textual amendment: [Ss. 3-12](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/3) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(2)(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/2/a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-b76c1a1c79d1bfae3b61f463a9eeadbb]: Textual amendment: [Ss. 3-12](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/3) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(2)(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/2/a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
 [^c5562641]: Modification: “such particulars as they are hereinbefore required to certify” means the amount certified under s. 1
 
@@ -161,7 +161,7 @@ Section 9
 
 [^c5562851]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/13) repealed by [Banking Act 1979 (c. 37, SIF 10)](https://www.legislation.gov.uk/ukpga/1979/37), [s. 51(2)](https://www.legislation.gov.uk/ukpga/1979/37/section/51/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1979/37/schedule/7)
 
-[^key-c884ddcb670cfae5e3747b410b27cc37]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/14) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(2)(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/2/a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-c884ddcb670cfae5e3747b410b27cc37]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/14) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(2)(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/2/a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
 [^c5562861]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/15) repealed by [Currency and Bank Notes Act 1954 (c. 12)](https://www.legislation.gov.uk/ukpga/1954/12), [s. 4(2)](https://www.legislation.gov.uk/ukpga/1954/12/section/4/2)
 
@@ -169,11 +169,11 @@ Section 9
 
 [^c5562901]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/17) repealed by [Promissory Notes Act 1863 (c. 105)](https://www.legislation.gov.uk/ukpga/1863/105), [s. 1](https://www.legislation.gov.uk/ukpga/1863/105/section/1)
 
-[^key-f1f65121aa337740fb332a948b5a2389]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/18) substituted (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(2)(b)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/2/b), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-f1f65121aa337740fb332a948b5a2389]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/18) substituted (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(2)(b)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/2/b), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
 [^c5562911]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/19) repealed by [Statute Law (Repeals) Act 1971 (c. 52)](https://www.legislation.gov.uk/ukpga/1971/52), [Sch. Pt. III](https://www.legislation.gov.uk/ukpga/1971/52/schedule/part/III)
 
-[^key-2d975be9b097acfbef78aea86c20aeb6]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/20) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(2)(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/2/a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-2d975be9b097acfbef78aea86c20aeb6]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/20) repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(2)(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/2/a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
 [^c5562921]: Textual amendment: Words repealed by [Statute Law Revision Act 1892 (c. 19)](https://www.legislation.gov.uk/ukpga/1892/19)
 
@@ -183,8 +183,8 @@ Section 9
 
 [^c5562971]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/section/23) repealed by [Statute Law Revision Act 1875 (c. 66)](https://www.legislation.gov.uk/ukpga/1875/66)
 
-[^key-b124f72b4cfe40692edfa6cc03060ed1]: Textual amendment: Sch. A repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(2)(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/2/a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-b124f72b4cfe40692edfa6cc03060ed1]: Textual amendment: Sch. A repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(2)(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/2/a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
-[^key-b7cbe8e21c61870e900f901184bee037]: Textual amendment: Sch. B repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(2)(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/2/a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-b7cbe8e21c61870e900f901184bee037]: Textual amendment: Sch. B repealed (23.11.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 214(2)(a)](https://www.legislation.gov.uk/ukpga/2009/1/section/214/2/a), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
 
 [^c5563001]: Textual amendment: [Schs.](https://www.legislation.gov.uk/ukpga/Vict/8-9/38/schedule) (C.), (D.) repealed by [Promissory Notes Act 1863 (c. 105)](https://www.legislation.gov.uk/ukpga/1863/105), [s. 1](https://www.legislation.gov.uk/ukpga/1863/105/section/1)

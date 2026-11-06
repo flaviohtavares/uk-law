@@ -24,9 +24,9 @@ Section 2
 
 ### Membership etc of police authorities
 
-**1.**[^key-d1a67dc65e543b633bbd6ee96dcd88d2] In section 4 (membership of police authorities outside Greater London), in subsection (4), for “Schedules 2 and 3” there is substituted “ Schedule 2 ”.
+**1.**[^c-d1a67dc65e543b633bbd6ee96dcd88d2] In section 4 (membership of police authorities outside Greater London), in subsection (4), for “Schedules 2 and 3” there is substituted “ Schedule 2 ”.
 
-**2.**[^key-434d60a03ee179f74ac442547a8da282] For Schedule 2 there is substituted—
+**2.**[^c-434d60a03ee179f74ac442547a8da282] For Schedule 2 there is substituted—
 
 > **SCHEDULE 2 — Police authorities established under section 3**
 >
@@ -140,9 +140,9 @@ Section 2
 >
 > **9.** In this Schedule “**lay justice**” has the meaning given by section 9 of the Courts Act 2003.
 
-**3.**[^key-90dfa0a7909c9b280759561e9c8170f9] In section 5C (membership etc of Metropolitan Police Authority), in subsection (6), for “Schedules 2A and 3” there is substituted “ Schedule 2A ”.
+**3.**[^c-90dfa0a7909c9b280759561e9c8170f9] In section 5C (membership etc of Metropolitan Police Authority), in subsection (6), for “Schedules 2A and 3” there is substituted “ Schedule 2A ”.
 
-**4.**[^key-e6033892270c8adcf33bb7503a58a7c3] For Schedule 2A there is substituted—
+**4.**[^c-e6033892270c8adcf33bb7503a58a7c3] For Schedule 2A there is substituted—
 
 > **SCHEDULE 2A — The Metropolitan police authority**
 >
@@ -246,15 +246,15 @@ Section 2
 >
 > **8.** In this Schedule “**lay justice**” has the meaning given by section 9 of the Courts Act 2003.
 
-**5.**[^key-5bef4225d064d5ff33c0ea906bdaeb99] In section 19 (approval of decisions about precepts), in subsection (2)(b), for “appointed under paragraph 2 of Schedule 2” there is substituted “ who are members of a relevant council as defined in paragraph 8 of Schedule 2 ”.
+**5.**[^c-5bef4225d064d5ff33c0ea906bdaeb99] In section 19 (approval of decisions about precepts), in subsection (2)(b), for “appointed under paragraph 2 of Schedule 2” there is substituted “ who are members of a relevant council as defined in paragraph 8 of Schedule 2 ”.
 
-**6.**[^key-012bb480c6cab9c6d0e9f9fd6ef08839] Schedules 3 (police authorities: selection of independent members) and 3A (police authorities: selection of lay justice members) are repealed.
+**6.**[^c-012bb480c6cab9c6d0e9f9fd6ef08839] Schedules 3 (police authorities: selection of independent members) and 3A (police authorities: selection of lay justice members) are repealed.
 
 ### Functions of police authorities
 
-**7.**[^c1764151] (1)[^key-636a814abe81bb92146589b5c9c3eec5] Section 6 (general functions of police authorities) is amended as follows.
+**7.**[^c1764151] (1)[^c-636a814abe81bb92146589b5c9c3eec5] Section 6 (general functions of police authorities) is amended as follows.
 
-(2)[^key-636a814abe81bb92146589b5c9c3eec5] In subsection (1)—
+(2)[^c-636a814abe81bb92146589b5c9c3eec5] In subsection (1)—
 
 - (a) the words after “section 3” become paragraph (a) of that subsection;
 - (b) at the end of that paragraph there is inserted
@@ -266,14 +266,14 @@ Section 2
 (3) In subsection (2)—
 
 - (a) in paragraph (a), for “objectives determined by the Secretary of State under section 37” there is substituted “ strategic priorities determined by the Secretary of State under section 37A ”;
-- (b)[^key-3d9e737c70b3b47790cd7f95abe0695e] in paragraph (b), for “under section 7” there is substituted “ by virtue of section 6ZB ”;
-- (c)[^key-3d9e737c70b3b47790cd7f95abe0695e] for paragraph (d) there is substituted—
+- (b)[^c-3d9e737c70b3b47790cd7f95abe0695e] in paragraph (b), for “under section 7” there is substituted “ by virtue of section 6ZB ”;
+- (c)[^c-3d9e737c70b3b47790cd7f95abe0695e] for paragraph (d) there is substituted—
 
   > - (d) any plan issued by the authority by virtue of section 6ZB.
 
-(4)[^key-3d9e737c70b3b47790cd7f95abe0695e] Subsection (4) (police authorities to comply with directions given under section 38 or 40) is omitted.
+(4)[^c-3d9e737c70b3b47790cd7f95abe0695e] Subsection (4) (police authorities to comply with directions given under section 38 or 40) is omitted.
 
-**8.**[^key-f3e0276d5cfcc33ecf54a2e55b1b3d58] After section 6 there is inserted—
+**8.**[^c-f3e0276d5cfcc33ecf54a2e55b1b3d58] After section 6 there is inserted—
 
 > **6ZA. Power to confer particular functions on police authorities**
 >
@@ -299,7 +299,7 @@ Section 2
 
 ### Police authorities: objectives, plans and reports
 
-**9.**[^key-6a514c9ce676d297efcd28942846c8c1] After section 6ZA (inserted by paragraph 8) there is inserted—
+**9.**[^c-6a514c9ce676d297efcd28942846c8c1] After section 6ZA (inserted by paragraph 8) there is inserted—
 
 > **6ZB. Plans by police authorities**
 >
@@ -362,28 +362,28 @@ Section 2
 >
 > (5) A statutory instrument containing an order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**10.**[^key-00ff2263625e3af223a8608462a87b3f] The following sections are repealed—
+**10.**[^c-00ff2263625e3af223a8608462a87b3f] The following sections are repealed—
 
 - section 6A (three-year strategy plans);
 - section 7 (local policing objectives);
 - section 8 (local policing plans);
 - section 9 (annual reports by police authorities).
 
-**11.**[^key-89e6669e232e866cbf82ab78c648e3c8] In section 9A (general functions of Commissioner of Police of the Metropolis), in subsection (2), for the words after “shall have regard” there is substituted
+**11.**[^c-89e6669e232e866cbf82ab78c648e3c8] In section 9A (general functions of Commissioner of Police of the Metropolis), in subsection (2), for the words after “shall have regard” there is substituted
 
 > to—
 >
 > - (a) any arrangements involving the metropolitan police force that are made by virtue of section 6ZA(2)(b);
 > - (b) the policing plan issued by the Metropolitan Police Authority under section 6ZB.
 
-**12.**[^key-b8b6e4beeb4cbedd1f705747c05220a7] In section 10 (general functions of chief constables), in subsection (2), for the words after “shall have regard” there is substituted
+**12.**[^c-b8b6e4beeb4cbedd1f705747c05220a7] In section 10 (general functions of chief constables), in subsection (2), for the words after “shall have regard” there is substituted
 
 > to—
 >
 > - (a) any arrangements involving his force that are made by virtue of section 6ZA(2)(b);
 > - (b) the policing plan issued by the police authority for his area under section 6ZB.
 
-**13.**[^key-81eca1bd05ccd7930d8201e1be4cdbc0] (1) Section 96B (national and international functions: application of requirements relating to reports etc) is amended as follows.
+**13.**[^c-81eca1bd05ccd7930d8201e1be4cdbc0] (1) Section 96B (national and international functions: application of requirements relating to reports etc) is amended as follows.
 
 (2) In subsection (2), for “section 7(1) shall have effect as if the reference” there is substituted “ section 6ZB(1) shall have effect as if a reference ”.
 
@@ -445,7 +445,7 @@ Section 2
 
 ### Civilian employees of police authorities
 
-**16.**[^key-55cb2f8480dd235eb3c1f071a22298a2] (1) Section 15 (civilian employees) is amended as follows.
+**16.**[^c-55cb2f8480dd235eb3c1f071a22298a2] (1) Section 15 (civilian employees) is amended as follows.
 
 (2) For subsection (2) (civilians employed by police authority to be under direction and control of chief officer of police) there is substituted—
 
@@ -453,21 +453,21 @@ Section 2
 
 (3) Subsection (3) (power to agree or determine exceptions to section 15(2)) is omitted.
 
-**17.**[^key-8a70125ccca4280ff63b6b3e8bc76719] In section 24 (aid of one police force by another), after subsection (3) there is inserted—
+**17.**[^c-8a70125ccca4280ff63b6b3e8bc76719] In section 24 (aid of one police force by another), after subsection (3) there is inserted—
 
 > (3A) While a person employed by a police authority under section 15 solely to assist the police force maintained by that authority is provided under this section for the assistance of another police force, he shall, notwithstanding section 15(2), be under the direction and control of the chief officer of police of that other force.
 
 ### Clerks to police authorities renamed chief executives
 
-**18.**[^key-61855d832be92a38d6887c58dd92f0e9] (1) Section 16 (appointment of clerk by police authority) is amended as follows.
+**18.**[^c-61855d832be92a38d6887c58dd92f0e9] (1) Section 16 (appointment of clerk by police authority) is amended as follows.
 
 (2) In subsections (1) and (2), for “clerk to” there is substituted “ chief executive of ”.
 
 (3) In the heading, for “clerk” there is substituted “ chief executive ”.
 
-**19.**[^key-3210823d519a89c129f425a9321524fd] In Schedule 6 (appeals to police appeal tribunals), in paragraph 6(2), for “clerk” there is substituted “ chief executive ”.
+**19.**[^c-3210823d519a89c129f425a9321524fd] In Schedule 6 (appeals to police appeal tribunals), in paragraph 6(2), for “clerk” there is substituted “ chief executive ”.
 
-**20.**[^key-a1bf35f6d035d6ff02426ca84140b2f8] (1) A reference in subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)) to the clerk to a police authority has effect as a reference to the chief executive of the authority.
+**20.**[^c-a1bf35f6d035d6ff02426ca84140b2f8] (1) A reference in subordinate legislation (within the meaning of the Interpretation Act 1978 (c. 30)) to the clerk to a police authority has effect as a reference to the chief executive of the authority.
 
 (2) A person holding office as clerk to a police authority on the commencement of paragraph 18 continues in that office as chief executive of the authority.
 
@@ -478,7 +478,7 @@ Section 2
 
 ### Jurisdiction of special constables
 
-**21.**[^key-c7e6bb86ad9250873066dab979ce1b5e] (1) Section 30 (jurisdiction of constables) is amended as follows.
+**21.**[^c-c7e6bb86ad9250873066dab979ce1b5e] (1) Section 30 (jurisdiction of constables) is amended as follows.
 
 (2) For subsection (2) (jurisdiction of special constables) there is substituted—
 
@@ -486,9 +486,9 @@ Section 2
 
 (3) Subsections (3) and (4) are omitted.
 
-**22.**[^key-8c6adc54d04f0f18a122361f7e384eab] In section 24(3) (constable assisting another police force to be under direction and control of chief officer of that force), for “section 10(1)” there is substituted “ sections 9A(1) and 10(1) ”.
+**22.**[^c-8c6adc54d04f0f18a122361f7e384eab] In section 24(3) (constable assisting another police force to be under direction and control of chief officer of that force), for “section 10(1)” there is substituted “ sections 9A(1) and 10(1) ”.
 
-**23.**[^key-7c41861f76feedbb914ee85b4a99e630] In section 27(2) (special constables to be under direction and control of chief officer), after “Subject to” there is inserted “ section 24(3) and ”.
+**23.**[^c-7c41861f76feedbb914ee85b4a99e630] In section 27(2) (special constables to be under direction and control of chief officer), after “Subject to” there is inserted “ section 24(3) and ”.
 
 ### Secretary of State's strategic functions in relation to police authorities
 
@@ -524,7 +524,7 @@ Section 2
 
 ### Power to give directions to police authority or chief officer of police
 
-**27.**[^key-eb99b2d872feaa4126bbac5de333d1ae] For section 40 (power to give directions to police authority) there is substituted—
+**27.**[^c-eb99b2d872feaa4126bbac5de333d1ae] For section 40 (power to give directions to police authority) there is substituted—
 
 > **40. Power to give directions in relation to police force**
 >
@@ -617,15 +617,15 @@ Section 2
 > - (a) shall be prepared at such time as the Secretary of State considers appropriate; and
 > - (b) may relate to more than one direction.
 
-**28.**[^key-9687f2d32649bad5d9669b975a0de149] In section 41 (directions as to minimum budget), in subsection (1), after “section 40” there is inserted “ or 40A ”.
+**28.**[^c-9687f2d32649bad5d9669b975a0de149] In section 41 (directions as to minimum budget), in subsection (1), after “section 40” there is inserted “ or 40A ”.
 
 ### Power to give directions as to action plans
 
-**29.**[^key-e86690aac01f8a2479512038fee80974] Sections 41A and 41B (power to give directions as to action plans, and procedure for doing so) are repealed.
+**29.**[^c-e86690aac01f8a2479512038fee80974] Sections 41A and 41B (power to give directions as to action plans, and procedure for doing so) are repealed.
 
 ### Arrangements for obtaining the views of the community on policing
 
-**30.**[^key-ef14f02401e9198516ee10f39b5b36ae] (1) Section 96 (arrangements for obtaining the views of the community on policing) is amended as follows.
+**30.**[^c-ef14f02401e9198516ee10f39b5b36ae] (1) Section 96 (arrangements for obtaining the views of the community on policing) is amended as follows.
 
 (2) In subsection (1)(b), after “crime” there is inserted “ and anti-social behaviour ”.
 
@@ -659,56 +659,56 @@ Section 2
 
 ## Annotations
 
-[^key-d1a67dc65e543b633bbd6ee96dcd88d2]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/1) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
+[^c-d1a67dc65e543b633bbd6ee96dcd88d2]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/1) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
 
-[^key-434d60a03ee179f74ac442547a8da282]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/2) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
+[^c-434d60a03ee179f74ac442547a8da282]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/2) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
 
-[^key-90dfa0a7909c9b280759561e9c8170f9]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/3) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
+[^c-90dfa0a7909c9b280759561e9c8170f9]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/3) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
 
-[^key-e6033892270c8adcf33bb7503a58a7c3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/4) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
+[^c-e6033892270c8adcf33bb7503a58a7c3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/4) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
 
-[^key-5bef4225d064d5ff33c0ea906bdaeb99]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/5) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
+[^c-5bef4225d064d5ff33c0ea906bdaeb99]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/5) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
 
-[^key-012bb480c6cab9c6d0e9f9fd6ef08839]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/6) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
+[^c-012bb480c6cab9c6d0e9f9fd6ef08839]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/6) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
 
 [^c1764151]: Commencement: Sch. 2 para. 7(3)(a) in force at Royal Assent see s. 53(1)(2)
 
-[^key-636a814abe81bb92146589b5c9c3eec5]: Commencement: Sch. 2 para. 7(1) (2) in force at 29.6.2007 by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/2/b)
+[^c-636a814abe81bb92146589b5c9c3eec5]: Commencement: Sch. 2 para. 7(1) (2) in force at 29.6.2007 by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1614/article/2/b)
 
-[^key-3d9e737c70b3b47790cd7f95abe0695e]: Commencement: Sch. 2 para. 7(3)(b) (c) (4) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/790/article/2/b)
+[^c-3d9e737c70b3b47790cd7f95abe0695e]: Commencement: Sch. 2 para. 7(3)(b) (c) (4) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/790/article/2/b)
 
-[^key-f3e0276d5cfcc33ecf54a2e55b1b3d58]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/8) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
+[^c-f3e0276d5cfcc33ecf54a2e55b1b3d58]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/8) in force at 15.1.2007 by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3)) (as amended (6.3.2008) by S.I. 2008/627, art. 2)
 
-[^key-6a514c9ce676d297efcd28942846c8c1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/9) in force at 14.3.2008 by [S.I. 2008/311](https://www.legislation.gov.uk/uksi/2008/311), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/311/article/2/b)
+[^c-6a514c9ce676d297efcd28942846c8c1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/9) in force at 14.3.2008 by [S.I. 2008/311](https://www.legislation.gov.uk/uksi/2008/311), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/311/article/2/b)
 
-[^key-00ff2263625e3af223a8608462a87b3f]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/10) in force at 14.3.2008 by [S.I. 2008/311](https://www.legislation.gov.uk/uksi/2008/311), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/311/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/311/article/3))
+[^c-00ff2263625e3af223a8608462a87b3f]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/10) in force at 14.3.2008 by [S.I. 2008/311](https://www.legislation.gov.uk/uksi/2008/311), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/311/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/311/article/3))
 
-[^key-89e6669e232e866cbf82ab78c648e3c8]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/11) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/790/article/2/b)
+[^c-89e6669e232e866cbf82ab78c648e3c8]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/11) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/790/article/2/b)
 
-[^key-b8b6e4beeb4cbedd1f705747c05220a7]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/12) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/790/article/2/b)
+[^c-b8b6e4beeb4cbedd1f705747c05220a7]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/12) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/790/article/2/b)
 
-[^key-81eca1bd05ccd7930d8201e1be4cdbc0]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/13) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/790/article/2/b)
+[^c-81eca1bd05ccd7930d8201e1be4cdbc0]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/13) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/790/article/2/b)
 
-[^key-55cb2f8480dd235eb3c1f071a22298a2]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/16) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-55cb2f8480dd235eb3c1f071a22298a2]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/16) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-8a70125ccca4280ff63b6b3e8bc76719]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/17) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-8a70125ccca4280ff63b6b3e8bc76719]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/17) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-61855d832be92a38d6887c58dd92f0e9]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/18) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-61855d832be92a38d6887c58dd92f0e9]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/18) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-3210823d519a89c129f425a9321524fd]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/19) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-3210823d519a89c129f425a9321524fd]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/19) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-a1bf35f6d035d6ff02426ca84140b2f8]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/20) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-a1bf35f6d035d6ff02426ca84140b2f8]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/20) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-c7e6bb86ad9250873066dab979ce1b5e]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/21) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-c7e6bb86ad9250873066dab979ce1b5e]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/21) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-8c6adc54d04f0f18a122361f7e384eab]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/22) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-8c6adc54d04f0f18a122361f7e384eab]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/22) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-7c41861f76feedbb914ee85b4a99e630]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/23) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-7c41861f76feedbb914ee85b4a99e630]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/23) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-eb99b2d872feaa4126bbac5de333d1ae]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/27) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-eb99b2d872feaa4126bbac5de333d1ae]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/27) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-9687f2d32649bad5d9669b975a0de149]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/28) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-9687f2d32649bad5d9669b975a0de149]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/28) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-e86690aac01f8a2479512038fee80974]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/29) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-e86690aac01f8a2479512038fee80974]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/29) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-ef14f02401e9198516ee10f39b5b36ae]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/30) in force at 15.3.2010 by [S.I. 2010/414](https://www.legislation.gov.uk/uksi/2010/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/414/article/2/b)
+[^c-ef14f02401e9198516ee10f39b5b36ae]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/30) in force at 15.3.2010 by [S.I. 2010/414](https://www.legislation.gov.uk/uksi/2010/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/414/article/2/b)

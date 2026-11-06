@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Minor and consequential amendments[^key-3d233625c22d66fac8c03b5f9b9f6af3]
+## 12. Minor and consequential amendments[^c-3d233625c22d66fac8c03b5f9b9f6af3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The enactments listed in Schedule 5 are amended as there specified.
 
 ## Annotations
 
-[^key-3d233625c22d66fac8c03b5f9b9f6af3]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2009/462/article/12) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
+[^c-3d233625c22d66fac8c03b5f9b9f6af3]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2009/462/article/12) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)

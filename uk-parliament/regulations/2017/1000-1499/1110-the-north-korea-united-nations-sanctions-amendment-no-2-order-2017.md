@@ -32,7 +32,7 @@ summary: ''
 
 United Nations
 
-The North Korea (United Nations Sanctions) (Amendment) (No. 2) Order 2017 (revoked)[^key-1b4ed8d27687fba10d5af002952a04f9]
+The North Korea (United Nations Sanctions) (Amendment) (No. 2) Order 2017 (revoked)[^c-1b4ed8d27687fba10d5af002952a04f9]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 13th December 2017
 
-[^key-1b4ed8d27687fba10d5af002952a04f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b4ed8d27687fba10d5af002952a04f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-1b4ed8d27687fba10d5af002952a04f9]
+## 1. Citation, commencement, interpretation and extent[^c-1b4ed8d27687fba10d5af002952a04f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Order[^key-1b4ed8d27687fba10d5af002952a04f9]
+## 2. Amendment of the principal Order[^c-1b4ed8d27687fba10d5af002952a04f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1b4ed8d27687fba10d5af002952a04f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1b4ed8d27687fba10d5af002952a04f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1b4ed8d27687fba10d5af002952a04f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1b4ed8d27687fba10d5af002952a04f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b4ed8d27687fba10d5af002952a04f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b4ed8d27687fba10d5af002952a04f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -70,4 +70,4 @@ Coming into force
 
 ## Annotations
 
-[^key-1b4ed8d27687fba10d5af002952a04f9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/1110) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(o)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/o); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-1b4ed8d27687fba10d5af002952a04f9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/1110) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(o)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/o); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

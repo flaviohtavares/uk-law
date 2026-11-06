@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 178. Procedure for return of capital[^key-c076bbe88e4c438265021a9d2005c148]
+## 178. Procedure for return of capital[^c-c076bbe88e4c438265021a9d2005c148]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.222 of the 1986 Rules.
 
 ## Annotations
 
-[^key-c076bbe88e4c438265021a9d2005c148]: Commencement: Rule 178 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-c076bbe88e4c438265021a9d2005c148]: Commencement: Rule 178 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Surviving partner’s pensions and eligible child’s pensions: suspension and recovery[^key-d82a03da8c36c09e1c88aad802fda19e]
+## 110. Surviving partner’s pensions and eligible child’s pensions: suspension and recovery[^c-d82a03da8c36c09e1c88aad802fda19e]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d82a03da8c36c09e1c88aad802fda19e]: Commencement: Reg. 110 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-d82a03da8c36c09e1c88aad802fda19e]: Commencement: Reg. 110 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

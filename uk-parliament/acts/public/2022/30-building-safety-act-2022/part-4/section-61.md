@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Overview of Part[^key-a4abde5170f7bbfe737a24cf3d832e0c]
+## 61. Overview of Part[^c-a4abde5170f7bbfe737a24cf3d832e0c]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4abde5170f7bbfe737a24cf3d832e0c]: Commencement: S. 61 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)
+[^c-a4abde5170f7bbfe737a24cf3d832e0c]: Commencement: S. 61 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)

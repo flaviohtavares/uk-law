@@ -50,7 +50,7 @@ The Treasury consider it appropriate in consequence of, or otherwise in connecti
 
 ## Part 1 — Introduction
 
-### 1. Citation and commencement[^key-cab150e4421c22d4ab887cc36a031577][^key-cab150e4421c22d4ab887cc36a031577]
+### 1. Citation and commencement[^c-cab150e4421c22d4ab887cc36a031577][^c-cab150e4421c22d4ab887cc36a031577]
 
 (1) These Regulations may be cited as the Customs (Modification and Amendment) (EU Exit) Regulations 2020.
 
@@ -72,13 +72,13 @@ The Treasury consider it appropriate in consequence of, or otherwise in connecti
 
 ## Part 2 — Modifications
 
-### 2. Modification of the Taxation (Cross-border Trade) Act 2018[^key-a143e9bf25bb540f34df890bc7c83558]
+### 2. Modification of the Taxation (Cross-border Trade) Act 2018[^c-a143e9bf25bb540f34df890bc7c83558]
 
 In paragraph 158 of Schedule 7 to the Taxation (Cross-border Trade) Act 2018[^f00005] any reference to “vehicle” includes a ship, an aircraft and a railway vehicle.
 
 ## Part 3 — Amendments
 
-### 3. Amendment to the Customs (Import Duty) (EU Exit) Regulations 2018[^key-3680cb5141eb426a3b0af879e291dfc1][^key-3680cb5141eb426a3b0af879e291dfc1]
+### 3. Amendment to the Customs (Import Duty) (EU Exit) Regulations 2018[^c-3680cb5141eb426a3b0af879e291dfc1][^c-3680cb5141eb426a3b0af879e291dfc1]
 
 (1) The Customs (Import Duty) (EU Exit) Regulations 2018[^f00006] are amended as follows.
 
@@ -104,7 +104,7 @@ In paragraph 158 of Schedule 7 to the Taxation (Cross-border Trade) Act 2018[^f0
     ;
 - (c) omit paragraph (10).
 
-### 4. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^key-30cddc261b8b258806effdbd035624a0]
+### 4. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^c-30cddc261b8b258806effdbd035624a0]
 
 (1) The Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^f00007] are amended as follows.
 
@@ -124,7 +124,7 @@ In paragraph 158 of Schedule 7 to the Taxation (Cross-border Trade) Act 2018[^f0
 
 .
 
-### 5. Amendment of the Customs (Transitional) (EU Exit) Regulations 2020[^key-275f84d36fb14e766acb7ff5f763d219]
+### 5. Amendment of the Customs (Transitional) (EU Exit) Regulations 2020[^c-275f84d36fb14e766acb7ff5f763d219]
 
 (1) The Customs (Transitional) (EU Exit) Regulations 2020[^f00009] are amended as follows.
 
@@ -168,11 +168,11 @@ In paragraph 158 of Schedule 7 to the Taxation (Cross-border Trade) Act 2018[^f0
 
 .
 
-### 6. Amendment of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^key-fcd675ffa593daae03a9a5a598d23596][^key-84f972774f040720b928016a5d3b5eed]
+### 6. Amendment of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^c-fcd675ffa593daae03a9a5a598d23596][^c-84f972774f040720b928016a5d3b5eed]
 
-(1)[^key-fcd675ffa593daae03a9a5a598d23596] The Customs (Northern Ireland) (EU Exit) Regulations 2020[^f00010] are amended as follows.
+(1)[^c-fcd675ffa593daae03a9a5a598d23596] The Customs (Northern Ireland) (EU Exit) Regulations 2020[^f00010] are amended as follows.
 
-(2)[^key-fcd675ffa593daae03a9a5a598d23596] In regulation 3 (Part 2 interpretation)—
+(2)[^c-fcd675ffa593daae03a9a5a598d23596] In regulation 3 (Part 2 interpretation)—
 
 - (a) after the definition of “catch” insert—
 
@@ -185,7 +185,7 @@ In paragraph 158 of Schedule 7 to the Taxation (Cross-border Trade) Act 2018[^f0
 
   .
 
-(3)[^key-fcd675ffa593daae03a9a5a598d23596] In regulation 7 (application of provisions made by or under the Act), after paragraph (2) insert—
+(3)[^c-fcd675ffa593daae03a9a5a598d23596] In regulation 7 (application of provisions made by or under the Act), after paragraph (2) insert—
 
 > (3) Section 7(1) of the Act applies as if in the Tariff of the United Kingdom—
 >
@@ -201,7 +201,7 @@ In paragraph 158 of Schedule 7 to the Taxation (Cross-border Trade) Act 2018[^f0
 
 .
 
-(4)[^key-fcd675ffa593daae03a9a5a598d23596] In regulation 9 (relief from section 30A duty)—
+(4)[^c-fcd675ffa593daae03a9a5a598d23596] In regulation 9 (relief from section 30A duty)—
 
 - (a) omit “and” at the end of paragraph (b);
 - (b) at the end of paragraph (c) insert “; and”;
@@ -211,7 +211,7 @@ In paragraph 158 of Schedule 7 to the Taxation (Cross-border Trade) Act 2018[^f0
 
   .
 
-(5)[^key-fcd675ffa593daae03a9a5a598d23596] In regulation 13 (application of provisions made by or under the Act)—
+(5)[^c-fcd675ffa593daae03a9a5a598d23596] In regulation 13 (application of provisions made by or under the Act)—
 
 - (a) in paragraph (1), at the end insert “and with the modifications in paragraph (3)”;
 - (b) after paragraph (2) insert—
@@ -230,13 +230,13 @@ In paragraph 158 of Schedule 7 to the Taxation (Cross-border Trade) Act 2018[^f0
 
   .
 
-(6)[^key-fcd675ffa593daae03a9a5a598d23596] In regulation 15(3) (amount of section 40A charge), for sub-paragraph (b) substitute—
+(6)[^c-fcd675ffa593daae03a9a5a598d23596] In regulation 15(3) (amount of section 40A charge), for sub-paragraph (b) substitute—
 
 > - (b) the Delegated Regulation;
 
 .
 
-(7)[^key-fcd675ffa593daae03a9a5a598d23596] In regulation 16(1) (relief from section 40A duty)—
+(7)[^c-fcd675ffa593daae03a9a5a598d23596] In regulation 16(1) (relief from section 40A duty)—
 
 - (a) omit “and” at the end of sub-paragraph (b);
 - (b) at the end of sub-paragraph (c) insert “; and”;
@@ -246,7 +246,7 @@ In paragraph 158 of Schedule 7 to the Taxation (Cross-border Trade) Act 2018[^f0
 
   .
 
-(8)[^key-84f972774f040720b928016a5d3b5eed][^key-636c44c0036203c6dac2862411a596c9] After regulation 16 insert—
+(8)[^c-84f972774f040720b928016a5d3b5eed][^c-636c44c0036203c6dac2862411a596c9] After regulation 16 insert—
 
 > **CHAPTER 5 — Reliefs and repayment**
 >
@@ -581,7 +581,7 @@ In paragraph 158 of Schedule 7 to the Taxation (Cross-border Trade) Act 2018[^f0
 
 .
 
-### 7. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^key-e9b1dcbf74734e4f24d63babf2fa0367]
+### 7. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^c-e9b1dcbf74734e4f24d63babf2fa0367]
 
 (1) The Schedule to the Customs (Contravention of a Relevant Rule) Regulations 2003[^f00026] is amended as follows.
 
@@ -595,7 +595,7 @@ In paragraph 158 of Schedule 7 to the Taxation (Cross-border Trade) Act 2018[^f0
 
 .
 
-### 8. Amendment of the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019[^key-6ed5c91fb71c7b49d859589318ce51ce]
+### 8. Amendment of the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019[^c-6ed5c91fb71c7b49d859589318ce51ce]
 
 (1) The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019[^f00028] are amended as follows.
 
@@ -643,31 +643,31 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00003]: Footnote: [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26).
 
-[^key-cab150e4421c22d4ab887cc36a031577]: Commencement: Reg. 1 in force at 23.12.2020, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/3/a)
+[^c-cab150e4421c22d4ab887cc36a031577]: Commencement: Reg. 1 in force at 23.12.2020, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/3/a)
 
 [^f00004]: Footnote: The requirement to make a customs declaration under the UCC in respect of goods to which this regulation applies is given effect by sections 30A(3) and 40A(4) of the Act.
 
-[^key-a143e9bf25bb540f34df890bc7c83558]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2)
+[^c-a143e9bf25bb540f34df890bc7c83558]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2)
 
 [^f00005]: Footnote: That paragraph was inserted into the Act by paragraph 10(6) of Schedule 1 to the 2020 Act.
 
-[^key-3680cb5141eb426a3b0af879e291dfc1]: Commencement: Reg. 3 in force at 23.12.2020, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/3/b)
+[^c-3680cb5141eb426a3b0af879e291dfc1]: Commencement: Reg. 3 in force at 23.12.2020, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/3/b)
 
 [^f00006]: Footnote: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248). Relevant amending instruments are [S.I. 2020/967](https://www.legislation.gov.uk/uksi/2020/967) and [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605).
 
-[^key-30cddc261b8b258806effdbd035624a0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2)
+[^c-30cddc261b8b258806effdbd035624a0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249). There are amending instruments, but none is relevant.
 
 [^f00008]: Footnote: The meaning of a declaration of goods for an outward processing procedure is given in section 36(2) of the Act.
 
-[^key-275f84d36fb14e766acb7ff5f763d219]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2)
+[^c-275f84d36fb14e766acb7ff5f763d219]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449).
 
-[^key-fcd675ffa593daae03a9a5a598d23596]: Commencement: Reg. 6(1)-(7) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2)
+[^c-fcd675ffa593daae03a9a5a598d23596]: Commencement: Reg. 6(1)-(7) in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2)
 
-[^key-84f972774f040720b928016a5d3b5eed]: Commencement: Reg. 6(8) in force at 31.12.2020 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/4)
+[^c-84f972774f040720b928016a5d3b5eed]: Commencement: Reg. 6(8) in force at 31.12.2020 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/4)
 
 [^f00010]: Footnote: [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605).
 
@@ -677,7 +677,7 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00013]: Footnote: “Union customs legislation” is defined in section 37 of the Act. The definition was inserted by paragraph 6 of Schedule 1 to the 2020 Act.
 
-[^key-636c44c0036203c6dac2862411a596c9]: Commencement: [Reg. 6(8)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/6/8) in force at 4.9.2021 for specified purposes by [S.I. 2021/983](https://www.legislation.gov.uk/uksi/2021/983), [reg. 2](https://www.legislation.gov.uk/uksi/2021/983/regulation/2)
+[^c-636c44c0036203c6dac2862411a596c9]: Commencement: [Reg. 6(8)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/6/8) in force at 4.9.2021 for specified purposes by [S.I. 2021/983](https://www.legislation.gov.uk/uksi/2021/983), [reg. 2](https://www.legislation.gov.uk/uksi/2021/983/regulation/2)
 
 [^f00014]: Footnote: Article 79 of the UCC applies to non-Union goods imported into the United Kingdom by virtue of section 30A(3) of the Act.
 
@@ -703,12 +703,12 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00025]: Footnote: OJ L 248, 24.9.2015, p. 9.
 
-[^key-e9b1dcbf74734e4f24d63babf2fa0367]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2)
+[^c-e9b1dcbf74734e4f24d63babf2fa0367]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 2003/3113](https://www.legislation.gov.uk/uksi/2003/3113) amended by [S.I. 2009/3164](https://www.legislation.gov.uk/uksi/2009/3164), [2011/2534](https://www.legislation.gov.uk/uksi/2011/2534), [2015/636](https://www.legislation.gov.uk/uksi/2015/636), [2018/483](https://www.legislation.gov.uk/uksi/2018/483), [2018/1260](https://www.legislation.gov.uk/uksi/2018/1260), [2019/148](https://www.legislation.gov.uk/uksi/2019/148) and [2020/1431](https://www.legislation.gov.uk/uksi/2020/1431).There are other amending instruments, but none is relevant.
 
 [^f00027]: Footnote: Inserted by regulation 5(23) of [S.I. 2018/1260](https://www.legislation.gov.uk/uksi/2018/1260).
 
-[^key-6ed5c91fb71c7b49d859589318ce51ce]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2)
+[^c-6ed5c91fb71c7b49d859589318ce51ce]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2)
 
 [^f00028]: Footnote: [S.I. 2019/385](https://www.legislation.gov.uk/uksi/2019/385), amended by [S.I. 2020/967](https://www.legislation.gov.uk/uksi/2020/967), [2020/1088](https://www.legislation.gov.uk/uksi/2020/1088), [2020/1552](https://www.legislation.gov.uk/uksi/2020/1552) and [2020/1605](https://www.legislation.gov.uk/uksi/2020/1605).

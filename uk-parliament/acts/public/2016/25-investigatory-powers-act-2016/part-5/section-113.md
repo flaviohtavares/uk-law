@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Confidential journalistic material[^key-7d0d2d5027d15fe636b659b5a536d05f]
+## 113. Confidential journalistic material[^c-7d0d2d5027d15fe636b659b5a536d05f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d0d2d5027d15fe636b659b5a536d05f]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2016/25/section/113) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/k)
+[^c-7d0d2d5027d15fe636b659b5a536d05f]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2016/25/section/113) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/k)

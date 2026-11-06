@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Chargeable transaction[^key-3bba14569bc26ca95c03e9e9f98379fe]
+## 17. Chargeable transaction[^c-3bba14569bc26ca95c03e9e9f98379fe]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A land transaction is a chargeable transaction unless—
 
 ## Annotations
 
-[^key-3bba14569bc26ca95c03e9e9f98379fe]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2017/1/section/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-3bba14569bc26ca95c03e9e9f98379fe]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2017/1/section/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

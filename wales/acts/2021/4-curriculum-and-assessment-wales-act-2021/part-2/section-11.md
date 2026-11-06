@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Curriculum adoption[^key-607c3db0e106c21fa226953eb4874db2][^key-845e8c7af6dbc342a800e462c1f83dd2][^key-9c39097376954ef3054ed8366ecf256b][^key-f859c0f156490c0f3acdc789ef7275f0][^key-7b4c3839faf50407d5941fbcdecfa5dc]
+## 11. Curriculum adoption[^c-607c3db0e106c21fa226953eb4874db2][^c-845e8c7af6dbc342a800e462c1f83dd2][^c-9c39097376954ef3054ed8366ecf256b][^c-f859c0f156490c0f3acdc789ef7275f0][^c-7b4c3839faf50407d5941fbcdecfa5dc]
 
 *Extent: E+W*
 
@@ -29,12 +29,12 @@ summary: ''
 
 ## Annotations
 
-[^key-607c3db0e106c21fa226953eb4874db2]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2021/4/section/11) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(a)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/a), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
+[^c-607c3db0e106c21fa226953eb4874db2]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2021/4/section/11) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(a)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/a), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
 
-[^key-845e8c7af6dbc342a800e462c1f83dd2]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2021/4/section/11) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(a)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/a)
+[^c-845e8c7af6dbc342a800e462c1f83dd2]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2021/4/section/11) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(a)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/a)
 
-[^key-9c39097376954ef3054ed8366ecf256b]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2021/4/section/11) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(a)](https://www.legislation.gov.uk/wsi/2022/652/article/7/a)
+[^c-9c39097376954ef3054ed8366ecf256b]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2021/4/section/11) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(a)](https://www.legislation.gov.uk/wsi/2022/652/article/7/a)
 
-[^key-f859c0f156490c0f3acdc789ef7275f0]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2021/4/section/11) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
+[^c-f859c0f156490c0f3acdc789ef7275f0]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2021/4/section/11) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
 
-[^key-7b4c3839faf50407d5941fbcdecfa5dc]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2021/4/section/11) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)
+[^c-7b4c3839faf50407d5941fbcdecfa5dc]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2021/4/section/11) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)

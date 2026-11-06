@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## A2A. Scottish carbon budgets: 2026 to 2045[^key-dd1843d4cfdb6c308b8a38e42f91c569][^key-ed14c80abc272325ca29ed56cca23666]
+## A2A. Scottish carbon budgets: 2026 to 2045[^c-dd1843d4cfdb6c308b8a38e42f91c569][^c-ed14c80abc272325ca29ed56cca23666]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd1843d4cfdb6c308b8a38e42f91c569]: Textual amendment: [S. A2A](https://www.legislation.gov.uk/asp/2009/12/section/A2A) inserted (10.10.2025) by [The Climate Change (Scotland) Act 2009 (Scottish Carbon Budgets) Amendment Regulations 2025 (S.S.I. 2025/281)](https://www.legislation.gov.uk/ssi/2025/281), [regs. 1](https://www.legislation.gov.uk/ssi/2025/281/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/281/regulation/2/3)
+[^c-dd1843d4cfdb6c308b8a38e42f91c569]: Textual amendment: [S. A2A](https://www.legislation.gov.uk/asp/2009/12/section/A2A) inserted (10.10.2025) by [The Climate Change (Scotland) Act 2009 (Scottish Carbon Budgets) Amendment Regulations 2025 (S.S.I. 2025/281)](https://www.legislation.gov.uk/ssi/2025/281), [regs. 1](https://www.legislation.gov.uk/ssi/2025/281/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/281/regulation/2/3)
 
-[^key-ed14c80abc272325ca29ed56cca23666]: Textual amendment: [Ss. A2-A5](https://www.legislation.gov.uk/asp/2009/12/section/A2) and cross-heading inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 1(2)](https://www.legislation.gov.uk/asp/2024/15/section/1/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-ed14c80abc272325ca29ed56cca23666]: Textual amendment: [Ss. A2-A5](https://www.legislation.gov.uk/asp/2009/12/section/A2) and cross-heading inserted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 1(2)](https://www.legislation.gov.uk/asp/2024/15/section/1/2), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Amendment of the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 (Welsh language text)[^key-fadb00131df3447d47522b47b8ff8584]
+## 71. Amendment of the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 (Welsh language text)[^c-fadb00131df3447d47522b47b8ff8584]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fadb00131df3447d47522b47b8ff8584]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2023/1071/regulation/71) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-fadb00131df3447d47522b47b8ff8584]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2023/1071/regulation/71) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

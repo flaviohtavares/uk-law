@@ -26,7 +26,7 @@ summary: ''
 
 ### PART 1 — PROCEDURE FOR DISCONTINUANCE ORDERS MADE BY PLANNING AUTHORITIES
 
-#### 1. Requirement for confirmation by the Welsh Ministers[^key-81a6ab221bfb82ad07d93240946b79de]
+#### 1. Requirement for confirmation by the Welsh Ministers[^c-81a6ab221bfb82ad07d93240946b79de]
 
 (1) A discontinuance order made by a planning authority does not take effect unless it is confirmed by the Welsh Ministers.
 
@@ -52,7 +52,7 @@ summary: ''
 
 ### PART 2 — PROCEDURE FOR DISCONTINUANCE ORDERS MADE BY THE WELSH MINISTERS
 
-#### 2. Consultation and notification in connection with making order[^key-97b2c4c456691afe212c6a93eb9387a1]
+#### 2. Consultation and notification in connection with making order[^c-97b2c4c456691afe212c6a93eb9387a1]
 
 (1) The Welsh Ministers must not make a discontinuance order without consulting the planning authority in whose area the land to which the order relates is situated.
 
@@ -75,7 +75,7 @@ summary: ''
 
 ### PART 3 — DISCONTINUANCE ORDERS RELATING TO MINING OPERATIONS AND DEPOSITING OF WASTE
 
-#### 3. Power to include restoration condition and aftercare condition in discontinuance order[^key-b5fcd4e95ad62209fe578bb0e0fd9020]
+#### 3. Power to include restoration condition and aftercare condition in discontinuance order[^c-b5fcd4e95ad62209fe578bb0e0fd9020]
 
 (1) A discontinuance order that relates to a use of land for carrying out mining operations or depositing waste may impose one or more restoration conditions.
 
@@ -88,8 +88,8 @@ summary: ''
 
 ## Annotations
 
-[^key-81a6ab221bfb82ad07d93240946b79de]: Commencement: Sch. 14 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-81a6ab221bfb82ad07d93240946b79de]: Commencement: Sch. 14 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-97b2c4c456691afe212c6a93eb9387a1]: Commencement: Sch. 14 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-97b2c4c456691afe212c6a93eb9387a1]: Commencement: Sch. 14 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-b5fcd4e95ad62209fe578bb0e0fd9020]: Commencement: Sch. 14 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b5fcd4e95ad62209fe578bb0e0fd9020]: Commencement: Sch. 14 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

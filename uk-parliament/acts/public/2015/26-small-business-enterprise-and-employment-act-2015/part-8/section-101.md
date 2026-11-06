@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Registrar's duty to inform new directors of entry in register[^key-252956240e0acf0d90379f9f79a7e8bd]
+## 101. Registrar's duty to inform new directors of entry in register[^c-252956240e0acf0d90379f9f79a7e8bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-252956240e0acf0d90379f9f79a7e8bd]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2015/26/section/101) in force at 10.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/4/b)
+[^c-252956240e0acf0d90379f9f79a7e8bd]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2015/26/section/101) in force at 10.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/4/b)

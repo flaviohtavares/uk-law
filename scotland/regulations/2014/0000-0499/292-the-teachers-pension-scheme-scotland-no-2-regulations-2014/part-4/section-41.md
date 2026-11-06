@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Pensionable service[^key-b58a07827803104948c9f06987744e84]
+## 41. Pensionable service[^c-b58a07827803104948c9f06987744e84]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ For the purpose of this Part, a person (P) who re-enters pensionable service aft
 
 ## Annotations
 
-[^key-b58a07827803104948c9f06987744e84]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2014/292/regulation/41) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-b58a07827803104948c9f06987744e84]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2014/292/regulation/41) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

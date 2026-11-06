@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.122. Appointment by Secretary of State[^key-3c8eb24b685e6b54cd283a23e8316560]
+## 6.122. Appointment by Secretary of State[^c-3c8eb24b685e6b54cd283a23e8316560]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ The certificate shall specify the date from which the trustee's appointment is t
 
 ## Annotations
 
-[^key-3c8eb24b685e6b54cd283a23e8316560]: Commencement: [Rule 6.122](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.122) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-3c8eb24b685e6b54cd283a23e8316560]: Commencement: [Rule 6.122](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.122) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

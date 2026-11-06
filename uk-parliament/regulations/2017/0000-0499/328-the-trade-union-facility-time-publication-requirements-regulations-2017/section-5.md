@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Meaning of total pay bill[^key-0065aeb0de0a2cc7cc64637862f47dc2]
+## 5. Meaning of total pay bill[^c-0065aeb0de0a2cc7cc64637862f47dc2]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ For the purposes of these Regulations, the total pay bill for a relevant period 
 
 ## Annotations
 
-[^key-0065aeb0de0a2cc7cc64637862f47dc2]: Commencement: Reg. 5 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)
+[^c-0065aeb0de0a2cc7cc64637862f47dc2]: Commencement: Reg. 5 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Power of entry to investigate the historic environment[^key-881e7281bc356ac2e31617505476b538]
+## 5. Power of entry to investigate the historic environment[^c-881e7281bc356ac2e31617505476b538]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-881e7281bc356ac2e31617505476b538]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/19/section/5) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-881e7281bc356ac2e31617505476b538]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/19/section/5) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

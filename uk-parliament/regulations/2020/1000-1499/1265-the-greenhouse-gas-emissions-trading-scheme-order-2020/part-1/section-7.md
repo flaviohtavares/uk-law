@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Exempt commercial air transport operators[^key-c5d20d92813894882bd28e2ab0a1be8d]
+## 7. Exempt commercial air transport operators[^c-c5d20d92813894882bd28e2ab0a1be8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5d20d92813894882bd28e2ab0a1be8d]: Commencement: Art. 7 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-c5d20d92813894882bd28e2ab0a1be8d]: Commencement: Art. 7 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

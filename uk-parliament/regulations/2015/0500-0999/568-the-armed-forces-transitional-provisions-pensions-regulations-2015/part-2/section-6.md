@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Amendment of Rule H.3 in Schedule 1 to the AFPS 1975[^key-28e159b2f80a2579fa57f4d4a280e9f3]
+## 6. Amendment of Rule H.3 in Schedule 1 to the AFPS 1975[^c-28e159b2f80a2579fa57f4d4a280e9f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In the Naval Pensions Order, the Army Pensions Warrant and the Air Force Pension
 
 ## Annotations
 
-[^key-28e159b2f80a2579fa57f4d4a280e9f3]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-28e159b2f80a2579fa57f4d4a280e9f3]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

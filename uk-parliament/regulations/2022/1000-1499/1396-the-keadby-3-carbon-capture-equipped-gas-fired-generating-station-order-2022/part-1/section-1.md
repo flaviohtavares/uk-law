@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-668df929e54bc4c77e139e9e180e388e]
+## 1. Citation and commencement[^c-668df929e54bc4c77e139e9e180e388e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Keadby 3 (Carbon Capture Equipped Gas Fired Gener
 
 ## Annotations
 
-[^key-668df929e54bc4c77e139e9e180e388e]: Commencement: Art. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-668df929e54bc4c77e139e9e180e388e]: Commencement: Art. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

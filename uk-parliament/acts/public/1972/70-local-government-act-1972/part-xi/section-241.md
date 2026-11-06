@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 241. Power to apply provisions of Act to joint boards, etc.[^c15125601][^key-c7cbb7eaec342e2f1080e2bfca146f0f]
+## 241. Power to apply provisions of Act to joint boards, etc.[^c15125601][^c-c7cbb7eaec342e2f1080e2bfca146f0f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Where any enactment, whether passed before or after 1st April 1974, authorises t
 
     S. 241 modified (28.7.1995) by [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8), [s. 2(6A)](https://www.legislation.gov.uk/ukpga/1990/8/section/2/6A) (as inserted (28.7.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 42](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/42) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 2](https://www.legislation.gov.uk/uksi/1995/1983/article/2))
 
-[^key-c7cbb7eaec342e2f1080e2bfca146f0f]: Modification: [S. 241](https://www.legislation.gov.uk/ukpga/1972/70/section/241) applied (with modifications) (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2016/644/article/8/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/644/schedule/1)
+[^c-c7cbb7eaec342e2f1080e2bfca146f0f]: Modification: [S. 241](https://www.legislation.gov.uk/ukpga/1972/70/section/241) applied (with modifications) (E.) (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [8(1)](https://www.legislation.gov.uk/uksi/2016/644/article/8/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/644/schedule/1)

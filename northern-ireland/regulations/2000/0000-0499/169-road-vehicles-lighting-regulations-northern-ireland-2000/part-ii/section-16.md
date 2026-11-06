@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Filament lamps[^key-a4528c0ef657bf005b0b9da088eb341c]
+## 16. Filament lamps[^c-a4528c0ef657bf005b0b9da088eb341c]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ to those Regulations, shall be fitted to any such vehicle.
 
 ## Annotations
 
-[^key-a4528c0ef657bf005b0b9da088eb341c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2000/169/regulation/16) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-a4528c0ef657bf005b0b9da088eb341c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2000/169/regulation/16) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

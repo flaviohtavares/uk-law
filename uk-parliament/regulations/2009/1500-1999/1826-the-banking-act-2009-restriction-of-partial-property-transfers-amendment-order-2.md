@@ -44,15 +44,15 @@ The Treasury make this Order in exercise of the powers conferred by sections 47,
 
 A draft of this Order has been laid before and approved by a resolution of each House of Parliament in accordance with sections 47(5) and 48(6) of that Act.
 
-## 1. Citation and commencement[^key-8f7e3160553548dcbe2f690fd8c9c49f]
+## 1. Citation and commencement[^c-8f7e3160553548dcbe2f690fd8c9c49f]
 
 This Order may be cited as the Banking Act 2009 (Restriction of Partial Property Transfers) (Amendment) Order 2009 and shall come into force on the day after the day on which it is made.
 
-## 2. Amendment[^key-33372dacf4e1ab4aba4852448e79931b]
+## 2. Amendment[^c-33372dacf4e1ab4aba4852448e79931b]
 
 The Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009[^f00002] is amended as follows.
 
-**3.**[^key-3371e4ab80b3c921eff8f57b561ce83a] In article 1(3)—
+**3.**[^c-3371e4ab80b3c921eff8f57b561ce83a] In article 1(3)—
 
 - (a) after the definition of “the Bank” insert—
 
@@ -105,9 +105,9 @@ The Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009[^f00
 
   .
 
-**4.**[^key-48bb7f90b69a9ca0f7178d512f489d62] In article 3(6) for the words from “shall” to “subordinated debt” in the second place where they occur substitute “and the references to transferable securities in paragraph (f) of the definition of “excluded rights” shall be treated as if they were respectively a reference to subordinated debt or transferable securities”.
+**4.**[^c-48bb7f90b69a9ca0f7178d512f489d62] In article 3(6) for the words from “shall” to “subordinated debt” in the second place where they occur substitute “and the references to transferable securities in paragraph (f) of the definition of “excluded rights” shall be treated as if they were respectively a reference to subordinated debt or transferable securities”.
 
-**5.**[^key-2e9150fa066c2412399bfb172303215a] In article 5—
+**5.**[^c-2e9150fa066c2412399bfb172303215a] In article 5—
 
 - (a) in paragraph (1) after “(2),” insert “(2A),”;
 - (b) after paragraph (2) insert—
@@ -118,7 +118,7 @@ The Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009[^f00
 - (c) in paragraph (5) after “(2),” insert “(2A),”; and
 - (d) in paragraph (6) after “(2)” insert “, (2A)” in each place where it occurs.
 
-**6.**[^key-fc94967b8b7dc0373614f0a41abba39b] After article 7 insert—
+**6.**[^c-fc94967b8b7dc0373614f0a41abba39b] After article 7 insert—
 
 > **7A. Trusts**
 >
@@ -127,7 +127,7 @@ The Banking Act 2009 (Restriction of Partial Property Transfers) Order 2009[^f00
 > - (a) the legal or beneficial interest of the banking institution in the property held on trust;
 > - (b) any powers, rights or obligations of the banking institution in respect of the property held on trust.
 
-**7.**[^key-a5f311ec894cb6e63132f52d7da7fd0f] In article 8(2)(c) after “a” insert “relevant”.
+**7.**[^c-a5f311ec894cb6e63132f52d7da7fd0f] In article 8(2)(c) after “a” insert “relevant”.
 
 Tony Cunningham
 
@@ -157,24 +157,24 @@ An Impact Assessment has not been prepared for this Order as one was prepared fo
 
 [^f00001]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
-[^key-8f7e3160553548dcbe2f690fd8c9c49f]: Commencement: Art. 1 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
+[^c-8f7e3160553548dcbe2f690fd8c9c49f]: Commencement: Art. 1 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
 
-[^key-33372dacf4e1ab4aba4852448e79931b]: Commencement: Art. 2 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
+[^c-33372dacf4e1ab4aba4852448e79931b]: Commencement: Art. 2 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
 
 [^f00002]: Footnote: [S.I. 2009/322](https://www.legislation.gov.uk/uksi/2009/322).
 
-[^key-3371e4ab80b3c921eff8f57b561ce83a]: Commencement: Art. 3 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
+[^c-3371e4ab80b3c921eff8f57b561ce83a]: Commencement: Art. 3 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
 
 [^f00003]: Footnote: OJ L177 30.6.2006 p.1.
 
 [^f00004]: Footnote: OJ L145 30.4.2004 p.1.
 
-[^key-48bb7f90b69a9ca0f7178d512f489d62]: Commencement: Art. 4 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
+[^c-48bb7f90b69a9ca0f7178d512f489d62]: Commencement: Art. 4 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
 
-[^key-2e9150fa066c2412399bfb172303215a]: Commencement: Art. 5 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
+[^c-2e9150fa066c2412399bfb172303215a]: Commencement: Art. 5 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
 
-[^key-fc94967b8b7dc0373614f0a41abba39b]: Commencement: Art. 6 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
+[^c-fc94967b8b7dc0373614f0a41abba39b]: Commencement: Art. 6 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
 
-[^key-a5f311ec894cb6e63132f52d7da7fd0f]: Commencement: Art. 7 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
+[^c-a5f311ec894cb6e63132f52d7da7fd0f]: Commencement: Art. 7 in force at 9.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1826/article/1)
 
 [^f00005]: Footnote: The Impact Assessment is attached to the Explanatory Memorandum for the Principal Order, which is available at the following address: http://www.opsi.gov.uk/si/si2009/em/uksiem\_20090322\_en.pdf.

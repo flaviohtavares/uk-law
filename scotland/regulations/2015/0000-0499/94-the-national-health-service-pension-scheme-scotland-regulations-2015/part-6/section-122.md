@@ -41,11 +41,11 @@ FP is the amount of full retirement earned pension which, if at the date of deat
 A is the aggregate of the amounts of all of the member's pensions from pensionable service on the day after the member's last day of pensionable service (L + 1)—
 
 - (i) disregarding any additional pension; and
-- (ii) including any increases applied by virtue of the Pensions (Increase) Act 1971 on L+1[^key-78fbf4db1c2fa1a90cd922c2f298e2b0];
+- (ii) including any increases applied by virtue of the Pensions (Increase) Act 1971 on L+1[^c-78fbf4db1c2fa1a90cd922c2f298e2b0];
 
 B is the period counted in days which is the greater of—
 
-- (iii) the aggregate of the total period of pensionable service counted in days over which the pensions referred to in A were accrued and 50% of the length of the period starting on L+1 and ending on the day before[^key-6c9aa31e56a30ee110578b6b64c3b0be] the deceased would have reached prospective normal pension age; and
+- (iii) the aggregate of the total period of pensionable service counted in days over which the pensions referred to in A were accrued and 50% of the length of the period starting on L+1 and ending on the day before[^c-6c9aa31e56a30ee110578b6b64c3b0be] the deceased would have reached prospective normal pension age; and
 - (iv) 10 years;
 
 C is the total period of pensionable service counted in days over which the pensions aggregated to find A were accrued;
@@ -86,6 +86,6 @@ and for the purposes of B and C, any part of a day is taken to be a whole day.
 
 ## Annotations
 
-[^key-78fbf4db1c2fa1a90cd922c2f298e2b0]: Textual amendment: Words in reg. 122(3) inserted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2017/433/regulation/12)
+[^c-78fbf4db1c2fa1a90cd922c2f298e2b0]: Textual amendment: Words in reg. 122(3) inserted (retrospective to 1.4.2015) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/433)](https://www.legislation.gov.uk/ssi/2017/433), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/433/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2017/433/regulation/12)
 
-[^key-6c9aa31e56a30ee110578b6b64c3b0be]: Textual amendment: Word in [reg. 122(3)](https://www.legislation.gov.uk/ssi/2015/94/regulation/122/3) inserted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [16](https://www.legislation.gov.uk/ssi/2017/28/regulation/16)
+[^c-6c9aa31e56a30ee110578b6b64c3b0be]: Textual amendment: Word in [reg. 122(3)](https://www.legislation.gov.uk/ssi/2015/94/regulation/122/3) inserted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [16](https://www.legislation.gov.uk/ssi/2017/28/regulation/16)

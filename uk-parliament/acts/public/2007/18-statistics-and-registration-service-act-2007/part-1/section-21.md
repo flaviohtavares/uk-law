@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Retail prices index[^key-5b9f26adf60d0a4e40e170355b3ab9d7]
+## 21. Retail prices index[^c-5b9f26adf60d0a4e40e170355b3ab9d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b9f26adf60d0a4e40e170355b3ab9d7]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2007/18/section/21) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-5b9f26adf60d0a4e40e170355b3ab9d7]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2007/18/section/21) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

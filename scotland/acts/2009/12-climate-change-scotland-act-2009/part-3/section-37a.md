@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37A. Reports on land use strategy[^key-318593cd5b34b3d6be8b2e4f46e94967]
+## 37A. Reports on land use strategy[^c-318593cd5b34b3d6be8b2e4f46e94967]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ as soon as reasonably practicable after the end of each financial year.
 
 ## Annotations
 
-[^key-318593cd5b34b3d6be8b2e4f46e94967]: Textual amendment: S. 37A inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 22](https://www.legislation.gov.uk/asp/2019/15/section/22), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-318593cd5b34b3d6be8b2e4f46e94967]: Textual amendment: S. 37A inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 22](https://www.legislation.gov.uk/asp/2019/15/section/22), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

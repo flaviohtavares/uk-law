@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 81. Procedure for notifying the FCA of a desire to be registered for temporary permission[^key-5829c024528387ec6b9beaee41c1ac7e][^key-5479b3faff5969c24a406e315298e843]
+## 81. Procedure for notifying the FCA of a desire to be registered for temporary permission[^c-5829c024528387ec6b9beaee41c1ac7e][^c-5479b3faff5969c24a406e315298e843]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5829c024528387ec6b9beaee41c1ac7e]: Commencement: Art. 81 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-5829c024528387ec6b9beaee41c1ac7e]: Commencement: Art. 81 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-5479b3faff5969c24a406e315298e843]: Commencement: [Art. 81](https://www.legislation.gov.uk/uksi/2018/1253/article/81) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-5479b3faff5969c24a406e315298e843]: Commencement: [Art. 81](https://www.legislation.gov.uk/uksi/2018/1253/article/81) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

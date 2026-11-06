@@ -29,12 +29,12 @@ the individual is entitled to a tax reduction for the tax year in which the shar
 
 This is subject to the provisions of this Part.
 
-(2) The amount of the tax reduction to which the individual is entitled is the amount equal to tax at the EIS[^key-398a82dd6d6f5a156a3009e17e70ccaf] rate for the current year on—
+(2) The amount of the tax reduction to which the individual is entitled is the amount equal to tax at the EIS[^c-398a82dd6d6f5a156a3009e17e70ccaf] rate for the current year on—
 
-- (a) the amount or, as the case may be, the sum of the amounts subscribed for shares issued in that year in respect of which the individual is eligible for and claims EIS relief (qualifying shares)[^key-db2e2e20011da202d505f6b5bfdb9fa2], or
-- (b) if less, the allowable amount[^key-a30b0a9801295179b215be9928235d2b].
+- (a) the amount or, as the case may be, the sum of the amounts subscribed for shares issued in that year in respect of which the individual is eligible for and claims EIS relief (qualifying shares)[^c-db2e2e20011da202d505f6b5bfdb9fa2], or
+- (b) if less, the allowable amount[^c-a30b0a9801295179b215be9928235d2b].
 
-(2ZA)[^key-1202173b0312c8563fb7dab2750f0ed2] The allowable amount is—
+(2ZA)[^c-1202173b0312c8563fb7dab2750f0ed2] The allowable amount is—
 
 - (a) if the qualifying shares do not include any KIC shares: £1 million;
 - (b) if the amount, or the sum of the amounts, subscribed for qualifying shares that are KIC shares is £1 million or more: £2 million;
@@ -42,20 +42,20 @@ This is subject to the provisions of this Part.
 
 (2ZB) In subsection (2ZA) “**KIC shares**” means shares in a company which, or in companies each of which, is a knowledge-intensive company at the time the shares are issued (see section 252A and subsection (6)).
 
-(2A)[^key-67fc98e0a70c7598d5afffb812d5f102] In this Part “**the EIS rate**” means 30%[^key-8b447e887b8e5e288423d42bd0070a7a].
+(2A)[^c-67fc98e0a70c7598d5afffb812d5f102] In this Part “**the EIS rate**” means 30%[^c-8b447e887b8e5e288423d42bd0070a7a].
 
 (3) The tax reduction is given effect at Step 6 of the calculation in section 23.
 
-(4) [^key-70fe4695c21d8355477c1a7452a002a2]... if in the case of any issue of shares—
+(4) [^c-70fe4695c21d8355477c1a7452a002a2]... if in the case of any issue of shares—
 
-- (a) which are issued [^key-70fe4695c21d8355477c1a7452a002a2]... in the current year, and
+- (a) which are issued [^c-70fe4695c21d8355477c1a7452a002a2]... in the current year, and
 - (b) in respect of the amount subscribed for which the individual is eligible for EIS relief,
 
-the individual so claims, subsections (1) to (2ZB)[^key-988d30ac02442f48690750de22055d70] apply as if, in respect of such part of that issue as may be specified in the claim, the shares had been issued in the preceding tax year; and the individual's liability to tax for both tax years is determined accordingly.
+the individual so claims, subsections (1) to (2ZB)[^c-988d30ac02442f48690750de22055d70] apply as if, in respect of such part of that issue as may be specified in the claim, the shares had been issued in the preceding tax year; and the individual's liability to tax for both tax years is determined accordingly.
 
-(5)[^key-6f3a7d25d639fba9da3464d673a63a25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6f3a7d25d639fba9da3464d673a63a25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-cecde74343f4466262e35e6f16ae6115] If the issuing company began to carry on a trade less than three years before the date the relevant shares are issued, section 252A as it applies for the purposes of this section has effect with the substitution of the following subsections for subsections (2) to (4A)—
+(6)[^c-cecde74343f4466262e35e6f16ae6115] If the issuing company began to carry on a trade less than three years before the date the relevant shares are issued, section 252A as it applies for the purposes of this section has effect with the substitution of the following subsections for subsections (2) to (4A)—
 
 > (2) The first operating costs condition is that in at least one of the relevant three succeeding years at least 15% of the relevant operating costs constitute expenditure on research and development or innovation.
 >
@@ -78,22 +78,22 @@ the individual so claims, subsections (1) to (2ZB)[^key-988d30ac02442f48690750de
 
 ## Annotations
 
-[^key-398a82dd6d6f5a156a3009e17e70ccaf]: Textual amendment: Words in s. 158(2) substituted (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/13/2)
+[^c-398a82dd6d6f5a156a3009e17e70ccaf]: Textual amendment: Words in s. 158(2) substituted (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/13/2)
 
-[^key-db2e2e20011da202d505f6b5bfdb9fa2]: Textual amendment: Words in s. 158(2)(a) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 1(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/1/2), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
+[^c-db2e2e20011da202d505f6b5bfdb9fa2]: Textual amendment: Words in s. 158(2)(a) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 1(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/1/2), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
 
-[^key-a30b0a9801295179b215be9928235d2b]: Textual amendment: Words in s. 158(2)(b) substituted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/1/3), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
+[^c-a30b0a9801295179b215be9928235d2b]: Textual amendment: Words in s. 158(2)(b) substituted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/1/3), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
 
-[^key-1202173b0312c8563fb7dab2750f0ed2]: Textual amendment: S. 158(2ZA)(2ZB) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 1(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/1/4), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
+[^c-1202173b0312c8563fb7dab2750f0ed2]: Textual amendment: S. 158(2ZA)(2ZB) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 1(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/1/4), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
 
-[^key-67fc98e0a70c7598d5afffb812d5f102]: Textual amendment: S. 158(2A) inserted (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/13/3)
+[^c-67fc98e0a70c7598d5afffb812d5f102]: Textual amendment: S. 158(2A) inserted (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/13/3)
 
-[^key-8b447e887b8e5e288423d42bd0070a7a]: Textual amendment: Word in s. 158(2A) substituted (13.10.2011) (with effect in accordance with s. 42(7)(8) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 42(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/2)[(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/6); [S.I. 2011/2459](https://www.legislation.gov.uk/uksi/2011/2459), [art. 2](https://www.legislation.gov.uk/uksi/2011/2459/article/2)
+[^c-8b447e887b8e5e288423d42bd0070a7a]: Textual amendment: Word in s. 158(2A) substituted (13.10.2011) (with effect in accordance with s. 42(7)(8) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 42(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/2)[(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/6); [S.I. 2011/2459](https://www.legislation.gov.uk/uksi/2011/2459), [art. 2](https://www.legislation.gov.uk/uksi/2011/2459/article/2)
 
-[^key-70fe4695c21d8355477c1a7452a002a2]: Textual amendment: Words in s. 158(4) omitted (with effect in accordance with Sch. 8 para. 13(2) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 6(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/6/2)
+[^c-70fe4695c21d8355477c1a7452a002a2]: Textual amendment: Words in s. 158(4) omitted (with effect in accordance with Sch. 8 para. 13(2) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 6(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/6/2)
 
-[^key-988d30ac02442f48690750de22055d70]: Textual amendment: Words in s. 158(4) substituted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 1(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/1/5), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
+[^c-988d30ac02442f48690750de22055d70]: Textual amendment: Words in s. 158(4) substituted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 1(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/1/5), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
 
-[^key-6f3a7d25d639fba9da3464d673a63a25]: Textual amendment: S. 158(5) omitted (with effect in accordance with Sch. 8 para. 13(3) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 6(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/6/3)
+[^c-6f3a7d25d639fba9da3464d673a63a25]: Textual amendment: S. 158(5) omitted (with effect in accordance with Sch. 8 para. 13(3) of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 6(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/6/3)
 
-[^key-cecde74343f4466262e35e6f16ae6115]: Textual amendment: S. 158(6)(7) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 1(6)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/1/6), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)
+[^c-cecde74343f4466262e35e6f16ae6115]: Textual amendment: S. 158(6)(7) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 4 paras. 1(6)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/1/6), [10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/4/paragraph/10); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-18d6fb23e33867fa4eeebe6baf4304d6]
+## 2. Interpretation[^c-18d6fb23e33867fa4eeebe6baf4304d6]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ In these Regulations—
 - “**placing authority**” (“***awdurdod lleoli***”) means, in relation to a child who is looked after by a local authority or local authority in England, that local authority;
 - “**reasonable adjustments**” (“***addasiadau rhesymol***”) means such reasonable adjustments as would be required under the Equality Act 2010 [^c23552741];
 - “**responsible individual**” (“***unigolyn cyfrifol***”) means an individual designated by a service provider when making an application to register under section 6 of the 2016 Act;
-- “**social worker**” (“***gweithiwr cymdeithasol***”) means a person who is registered as a social worker in the register maintained by SCW [^c23552751] under section 80 of the 2016 Act, in the register of social workers in England maintained under section 39(1) of the Children and Social Work Act 2017[^key-41b369e96493666b7ee05cf8567687d8] or in a corresponding register maintained under the law of Scotland or Northern Ireland;
+- “**social worker**” (“***gweithiwr cymdeithasol***”) means a person who is registered as a social worker in the register maintained by SCW [^c23552751] under section 80 of the 2016 Act, in the register of social workers in England maintained under section 39(1) of the Children and Social Work Act 2017[^c-41b369e96493666b7ee05cf8567687d8] or in a corresponding register maintained under the law of Scotland or Northern Ireland;
 - “**staff**” (“***staff***”) includes—
   - (a) persons employed by the service provider to work at the service as an employee or a worker, and
   - (b) persons engaged by the service provider under a contract for services,
@@ -68,7 +68,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-18d6fb23e33867fa4eeebe6baf4304d6]: Commencement: Reg. 2 in force at 29.4.2019, see reg. 1(2)
+[^c-18d6fb23e33867fa4eeebe6baf4304d6]: Commencement: Reg. 2 in force at 29.4.2019, see reg. 1(2)
 
 [^c23552651]: Marginal citation: [S.I. 2015/1818](https://www.legislation.gov.uk/uksi/2015/1818) (W. 261).
 
@@ -92,6 +92,6 @@ In these Regulations—
 
 [^c23552751]: Marginal citation: *See* section 67(3) of the 2016 Act for the definition of Social Care Wales as “SCW”.
 
-[^key-41b369e96493666b7ee05cf8567687d8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2019/169/regulation/2) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 48(2)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/48/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-41b369e96493666b7ee05cf8567687d8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2019/169/regulation/2) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 48(2)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/48/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^c23552771]: Marginal citation: Regulation 3(c) of the 2017 Registration Regulations requires a person who wants to provide a fostering service to provide a statement of purpose for each place in relation to which the service is to be provided.

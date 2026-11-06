@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Exchanges[^key-37a1467dd8c186b1b79511b24af6d8ef]
+## 16. Exchanges[^c-37a1467dd8c186b1b79511b24af6d8ef]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37a1467dd8c186b1b79511b24af6d8ef]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2017/1/section/16) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-37a1467dd8c186b1b79511b24af6d8ef]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2017/1/section/16) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

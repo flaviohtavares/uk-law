@@ -197,7 +197,7 @@ These Regulations may be cited as the Social Security Benefits (Miscellaneous Am
 
   .
 
-## 6. Amendment of the Housing Benefit (General) Regulations 1987[^key-15778614dcacddeafb5989c34e3402f3]
+## 6. Amendment of the Housing Benefit (General) Regulations 1987[^c-15778614dcacddeafb5989c34e3402f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -281,4 +281,4 @@ Regulation 6 relates to housing benefit and makes specific provision for those w
 
 [^c1823125]: Marginal citation: [1990 c.19](https://www.legislation.gov.uk/ukpga/1990/19).
 
-[^key-15778614dcacddeafb5989c34e3402f3]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/518/regulation/6) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-15778614dcacddeafb5989c34e3402f3]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/518/regulation/6) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

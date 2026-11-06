@@ -77,7 +77,7 @@ Where a claim is made for a maternity grant, unemployment benefit or sickness be
 
 (1) The provisions of regulation 2 of the National Insurance (General Benefit) Regulations 1970[^f00001] as amended [^f00002], shall not be applied to a claim to which regulation 3 applies and the periods set out in columns 2 and 3 of Schedule 1 to these regulations against the month in column 1 of that Schedule in which occurs the relevant contribution week determined by the Secretary of State in accordance with the said regulation 2 to be applicable in the case of a former contributor shall, in relation to such former contributor, constitute respectively, as set out in column 2, contribution years and, as set out in column 3, benefit years; but nothing in this paragraph shall prevent the provisions of the said regulation 2 being applied for the purposes of the rules, relating to the late payment of contributions, in the National Insurance (Contributions) Regulations 1969 [^f00003], as amended [^f00004].
 
-(1A)[^key-3b98a60c250a3a0dc0b6e4f2e8a9499a] Where by virtue of regulation 3 a claim for unemployment or sickness benefit in respect of a day in the period from 2nd January 1977 to 28th May 1977 (inclusive of both dates) falls to be determined by reference to the contribution conditions in the 1965 Act it shall be determined as if the benefit year were the benefit year which by virtue of paragraph (1) ended for the claimant in question on 1st January 1977
+(1A)[^c-3b98a60c250a3a0dc0b6e4f2e8a9499a] Where by virtue of regulation 3 a claim for unemployment or sickness benefit in respect of a day in the period from 2nd January 1977 to 28th May 1977 (inclusive of both dates) falls to be determined by reference to the contribution conditions in the 1965 Act it shall be determined as if the benefit year were the benefit year which by virtue of paragraph (1) ended for the claimant in question on 1st January 1977
 
 (2) Each period set out in column 2 of Schedule 1 to these regulations shall be deemed to be the last complete contribution year before the beginning of the period constituting a benefit year set out against it in column 3 of that Schedule.
 
@@ -103,13 +103,13 @@ Any day before 6th April 1975 which was a day of interruption of employment for 
 
 (1) For the purposes of satisfying the conditions in section 13(2) of the 1973 Act, a former contributor who has exhausted his right to unemployment benefit under the 1965 Act before 6th April 1975 shall be deemed to have been working for 21 hours in employment as an employed earner for such number of weeks in the period between the date on which he exhausted his right to that benefit and 6th April 1975 as he has paid contributions as an employed person in that period.
 
-(2) Where a person has, by virtue of section 21(2) of the 1965 Act, exhausted his right to sickness benefit under that Act, he shall not be entitled to sickness benefit or invalidity benefit[^key-3a694ef0793ddfd482ceef9124f4c921] under the 1973 Act for any day before either of the requirements of paragraph (3) is satisfied in his case.
+(2) Where a person has, by virtue of section 21(2) of the 1965 Act, exhausted his right to sickness benefit under that Act, he shall not be entitled to sickness benefit or invalidity benefit[^c-3a694ef0793ddfd482ceef9124f4c921] under the 1973 Act for any day before either of the requirements of paragraph (3) is satisfied in his case.
 
 (3) The said requirements are that—
 
 - (a) the earnings factor derived from contributions of a relevant class paid by him in any one year under the 1973 Act is not less than that year's lower earnings limit multiplied by 25; or
 - (b) he has—
-  - (i) made a claim for sickness benefit or invalidity benefit[^key-591d6b56b350692d5282319de2457768] in respect of a day in the transitional period, and
+  - (i) made a claim for sickness benefit or invalidity benefit[^c-591d6b56b350692d5282319de2457768] in respect of a day in the transitional period, and
   - (ii) paid 25 contributions after he exhausted his right to sickness benefit under the 1965 Act, but before the relevant time, and for this purpose contributions of an appropriate class under that Act shall be counted and there shall be added such number as results from dividing the earnings factor derived from contributions of a relevant class paid by him under the 1973 Act in respect of any one year by that year's lower earnings limit.
 
 ## 9. Certain contributions to be treated as contributions of the appropriate class for unemployment and sickness benefit
@@ -167,7 +167,7 @@ so however that where she has paid or would fall to be deemed to have been credi
 (5) Where a woman would be entitled to a maternity allowance under the 1973 Act but for the fact that she does not satisfy the contribution conditions as respects the number of contributions paid or credited in the relevant contribution period and—
 
 - (a) paragraph (1) does not apply to her and her expected week of confinement ends before 20th March 1977, and
-- (b) at least 26 contributions of the appropriate class or their equivalent have been paid [^key-e71fb633e75cc04269ec21de26c1cd04]... in respect of the relevant contribution period,
+- (b) at least 26 contributions of the appropriate class or their equivalent have been paid [^c-e71fb633e75cc04269ec21de26c1cd04]... in respect of the relevant contribution period,
 
 she shall be entitled to such an allowance at the reduced rate in column 2 of Schedule 2 to these regulations which corresponds to the number of contributions of the appropriate class paid or credited in the relevant contribution period as shown in column 1 of that Schedule.
 
@@ -179,7 +179,7 @@ Where, before the end of the transitional period, a former contributor has paid,
 - (b) for maternity grant specified in paragraph 2(1)(a) of that Schedule, or
 - (c) for maternity allowance specified in paragraph 3(1)(b) of that Schedule, he shall be deemed, as from the end of the transitional period, to satisfy the first contribution condition for benefit of a corresponding description under the 1973 Act specified in paragraphs 1(2), 2(2) or 3(2) as the case may be of Schedule 3 to that Act.
 
-## 16. Satisfaction of second contribution condition after the end of the transitional period[^key-5e11e16ca4e295d1eef946fc52d905c5]
+## 16. Satisfaction of second contribution condition after the end of the transitional period[^c-5e11e16ca4e295d1eef946fc52d905c5]
 
 Where a former contributor makes a claim for unemployment benefit or sickness benefit in respect of a day which is after 28th May 1977 and which is in a period of interruption of employment commencing on or before 1st January 1977, for the purposes of the second contribution condition set out in paragraph 1(3) of Schedule 3 to the Social Security Act 1975 the relevant past year shall be the year ending 5th April 1976.
 
@@ -209,7 +209,7 @@ Regulation 4
 </tbody>
 </table>
 
-## SCHEDULE 2 — REDUCED RATES OF BENEFIT AND OF INCREASE OF BENEFIT FOR ADULT DEPENDANT[^key-d15e48634b3810046490c8ef8e897dd7]
+## SCHEDULE 2 — REDUCED RATES OF BENEFIT AND OF INCREASE OF BENEFIT FOR ADULT DEPENDANT[^c-d15e48634b3810046490c8ef8e897dd7]
 
 Regulations 6, 13 and 14
 
@@ -250,13 +250,13 @@ The Regulations enable contributions paid under the National Insurance Act 1965 
 
 [^f00004]: Footnote: The relevant amending instrument is S.I. 1971/1421 (1971 II, p. 3964).
 
-[^key-3b98a60c250a3a0dc0b6e4f2e8a9499a]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/1974/2192/regulation/4/1A) inserted (20.11.1975) by [The Social Security (Transitional) Amendment Regulations 1975 (S.I. 1975/1747)](https://www.legislation.gov.uk/uksi/1975/1747), [regs. 1](https://www.legislation.gov.uk/uksi/1975/1747/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1975/1747/regulation/2/2)
+[^c-3b98a60c250a3a0dc0b6e4f2e8a9499a]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/1974/2192/regulation/4/1A) inserted (20.11.1975) by [The Social Security (Transitional) Amendment Regulations 1975 (S.I. 1975/1747)](https://www.legislation.gov.uk/uksi/1975/1747), [regs. 1](https://www.legislation.gov.uk/uksi/1975/1747/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1975/1747/regulation/2/2)
 
 [^f00005]: Footnote: (1973 I, p. 2301).
 
-[^key-3a694ef0793ddfd482ceef9124f4c921]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/1974/2192/regulation/8/2) inserted (20.11.1975) by [The Social Security (Transitional) Amendment Regulations 1975 (S.I. 1975/1747)](https://www.legislation.gov.uk/uksi/1975/1747), [regs. 1](https://www.legislation.gov.uk/uksi/1975/1747/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1975/1747/regulation/2/3)
+[^c-3a694ef0793ddfd482ceef9124f4c921]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/1974/2192/regulation/8/2) inserted (20.11.1975) by [The Social Security (Transitional) Amendment Regulations 1975 (S.I. 1975/1747)](https://www.legislation.gov.uk/uksi/1975/1747), [regs. 1](https://www.legislation.gov.uk/uksi/1975/1747/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1975/1747/regulation/2/3)
 
-[^key-591d6b56b350692d5282319de2457768]: Textual amendment: Words in [reg. 8(3)(b)(i)](https://www.legislation.gov.uk/uksi/1974/2192/regulation/8/3/b/i) inserted (20.11.1975) by [The Social Security (Transitional) Amendment Regulations 1975 (S.I. 1975/1747)](https://www.legislation.gov.uk/uksi/1975/1747), [regs. 1](https://www.legislation.gov.uk/uksi/1975/1747/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1975/1747/regulation/2/3)
+[^c-591d6b56b350692d5282319de2457768]: Textual amendment: Words in [reg. 8(3)(b)(i)](https://www.legislation.gov.uk/uksi/1974/2192/regulation/8/3/b/i) inserted (20.11.1975) by [The Social Security (Transitional) Amendment Regulations 1975 (S.I. 1975/1747)](https://www.legislation.gov.uk/uksi/1975/1747), [regs. 1](https://www.legislation.gov.uk/uksi/1975/1747/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1975/1747/regulation/2/3)
 
 [^f00006]: Footnote: (1974 III, p. 7031).
 
@@ -266,8 +266,8 @@ The Regulations enable contributions paid under the National Insurance Act 1965 
 
 [^f00009]: Footnote: (1974 I, p. 458).
 
-[^key-e71fb633e75cc04269ec21de26c1cd04]: Textual amendment: Words in reg. 14(5)(b) revoked (6.4.1975) by [The Social Security (Miscellaneous Amendments and Transitional Provisions) Regulations 1975 (S.I. 1975/566)](https://www.legislation.gov.uk/uksi/1975/566), [regs. 1](https://www.legislation.gov.uk/uksi/1975/566/regulation/1), [4](https://www.legislation.gov.uk/uksi/1975/566/regulation/4)
+[^c-e71fb633e75cc04269ec21de26c1cd04]: Textual amendment: Words in reg. 14(5)(b) revoked (6.4.1975) by [The Social Security (Miscellaneous Amendments and Transitional Provisions) Regulations 1975 (S.I. 1975/566)](https://www.legislation.gov.uk/uksi/1975/566), [regs. 1](https://www.legislation.gov.uk/uksi/1975/566/regulation/1), [4](https://www.legislation.gov.uk/uksi/1975/566/regulation/4)
 
-[^key-5e11e16ca4e295d1eef946fc52d905c5]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/1974/2192/regulation/16) inserted (20.11.1975) by [The Social Security (Transitional) Amendment Regulations 1975 (S.I. 1975/1747)](https://www.legislation.gov.uk/uksi/1975/1747), [regs. 1](https://www.legislation.gov.uk/uksi/1975/1747/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1975/1747/regulation/2/4)
+[^c-5e11e16ca4e295d1eef946fc52d905c5]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/1974/2192/regulation/16) inserted (20.11.1975) by [The Social Security (Transitional) Amendment Regulations 1975 (S.I. 1975/1747)](https://www.legislation.gov.uk/uksi/1975/1747), [regs. 1](https://www.legislation.gov.uk/uksi/1975/1747/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1975/1747/regulation/2/4)
 
-[^key-d15e48634b3810046490c8ef8e897dd7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1974/2192/schedule/2) substituted (15.11.1976 for specified purposes, 18.11.1976 for specified purposes) by [The Social Security Benefits Up-rating Regulations 1976 (S.I. 1976/1069)](https://www.legislation.gov.uk/uksi/1976/1069), [regs. 1](https://www.legislation.gov.uk/uksi/1976/1069/regulation/1), [2](https://www.legislation.gov.uk/uksi/1976/1069/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/1976/1069/schedule)
+[^c-d15e48634b3810046490c8ef8e897dd7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1974/2192/schedule/2) substituted (15.11.1976 for specified purposes, 18.11.1976 for specified purposes) by [The Social Security Benefits Up-rating Regulations 1976 (S.I. 1976/1069)](https://www.legislation.gov.uk/uksi/1976/1069), [regs. 1](https://www.legislation.gov.uk/uksi/1976/1069/regulation/1), [2](https://www.legislation.gov.uk/uksi/1976/1069/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/1976/1069/schedule)

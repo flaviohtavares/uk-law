@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.20. Application to dismiss offence sent for Crown Court trial[^key-574c2342ecb32eb30d4490a50d6167f3]
+## 3.20. Application to dismiss offence sent for Crown Court trial[^c-574c2342ecb32eb30d4490a50d6167f3]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-574c2342ecb32eb30d4490a50d6167f3]: Commencement: [Rule 3.20](https://www.legislation.gov.uk/uksi/2025/909/rule/3.20) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-574c2342ecb32eb30d4490a50d6167f3]: Commencement: [Rule 3.20](https://www.legislation.gov.uk/uksi/2025/909/rule/3.20) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00125]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); paragraph 2 of Schedule 3 was amended by paragraphs 15 and 20 of Schedule 3, paragraph 73 of Schedule 36 and Part 4 of Schedule 37 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035).

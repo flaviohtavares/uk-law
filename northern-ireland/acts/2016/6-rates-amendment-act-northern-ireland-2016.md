@@ -35,7 +35,7 @@ An Act to amend the Rates (Northern Ireland) Order 1977 to enable regulations to
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Power for Department to increase rates reduction provided under Article 31 of the 1977 Order in certain cases[^key-9e3b06995394a1165ac625888d787f02][^key-84cafad778824fee11a69a6d27e2653e]
+## 1. Power for Department to increase rates reduction provided under Article 31 of the 1977 Order in certain cases[^c-9e3b06995394a1165ac625888d787f02][^c-84cafad778824fee11a69a6d27e2653e]
 
 (1) The 1977 Order is amended as follows.
 
@@ -75,11 +75,11 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
   ,
 - (c) the words “shall be subject to affirmative resolution” become a full-out to the paragraph.
 
-## 2. Specified recreations: pigeon racing[^key-2507cd551f127bb524490f3200af4bda]
+## 2. Specified recreations: pigeon racing[^c-2507cd551f127bb524490f3200af4bda]
 
 In the Schedule to the Rates (Recreational Hereditaments) Order (Northern Ireland) 2007 (list of specified recreations), where appropriate insert “ Pigeon Racing ”.
 
-## 3. Window displays not to constitute occupation under the 1977 Order in certain cases[^key-e84d8a3f40bd06ada99f0da80147908c]
+## 3. Window displays not to constitute occupation under the 1977 Order in certain cases[^c-e84d8a3f40bd06ada99f0da80147908c]
 
 In Schedule 8A to the 1977 Order (unoccupied hereditaments), after paragraph 9 add—
 
@@ -104,7 +104,7 @@ In Schedule 8A to the 1977 Order (unoccupied hereditaments), after paragraph 9 a
 
 .
 
-## 4. Repeals[^key-dec314690b4dcde8c0b05c416a5695da]
+## 4. Repeals[^c-dec314690b4dcde8c0b05c416a5695da]
 
 The provisions set out in the first column of the Schedule are repealed to the extent specified in the second column of the Schedule.
 
@@ -126,7 +126,7 @@ In this Act, “**the 1977 Order**” means the Rates (Northern Ireland) Order 1
 
 This Act may be cited as the Rates (Amendment) Act (Northern Ireland) 2016.
 
-## SCHEDULE — REPEALS[^key-83dafd85a45e29c5eb8eb813b3ef25af]
+## SCHEDULE — REPEALS[^c-83dafd85a45e29c5eb8eb813b3ef25af]
 
 Section 4.
 
@@ -137,14 +137,14 @@ Section 4.
 
 ## Annotations
 
-[^key-9e3b06995394a1165ac625888d787f02]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/6/section/1) in operation at 19.9.2016 for specified purposes by [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/331/article/2/a)
+[^c-9e3b06995394a1165ac625888d787f02]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/6/section/1) in operation at 19.9.2016 for specified purposes by [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/331/article/2/a)
 
-[^key-84cafad778824fee11a69a6d27e2653e]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/6/section/1) in operation at 26.10.2016 in so far as not already in operation by [S.R. 2016/388](https://www.legislation.gov.uk/nisr/2016/388), [art. 2](https://www.legislation.gov.uk/nisr/2016/388/article/2)
+[^c-84cafad778824fee11a69a6d27e2653e]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/6/section/1) in operation at 26.10.2016 in so far as not already in operation by [S.R. 2016/388](https://www.legislation.gov.uk/nisr/2016/388), [art. 2](https://www.legislation.gov.uk/nisr/2016/388/article/2)
 
-[^key-2507cd551f127bb524490f3200af4bda]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/6/section/2) in operation at 1.10.2016 by [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 4](https://www.legislation.gov.uk/nisr/2016/331/article/4)
+[^c-2507cd551f127bb524490f3200af4bda]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/6/section/2) in operation at 1.10.2016 by [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 4](https://www.legislation.gov.uk/nisr/2016/331/article/4)
 
-[^key-e84d8a3f40bd06ada99f0da80147908c]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/6/section/3) in operation at 19.9.2016 for specified purposes by [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/331/article/2/b)
+[^c-e84d8a3f40bd06ada99f0da80147908c]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/6/section/3) in operation at 19.9.2016 for specified purposes by [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/331/article/2/b)
 
-[^key-dec314690b4dcde8c0b05c416a5695da]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/6/section/4) in operation at 19.9.2016 by [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 3(a)](https://www.legislation.gov.uk/nisr/2016/331/article/3/a)
+[^c-dec314690b4dcde8c0b05c416a5695da]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/6/section/4) in operation at 19.9.2016 by [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 3(a)](https://www.legislation.gov.uk/nisr/2016/331/article/3/a)
 
-[^key-83dafd85a45e29c5eb8eb813b3ef25af]: Commencement: [Sch.](https://www.legislation.gov.uk/nia/2016/6/schedule) in operation at 19.9.2016 by [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 3(b)](https://www.legislation.gov.uk/nisr/2016/331/article/3/b)
+[^c-83dafd85a45e29c5eb8eb813b3ef25af]: Commencement: [Sch.](https://www.legislation.gov.uk/nia/2016/6/schedule) in operation at 19.9.2016 by [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 3(b)](https://www.legislation.gov.uk/nisr/2016/331/article/3/b)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Every open-ended investment company must have the following particulars disclosed in characters that can be read with the naked eye in all letters of the company, in all other documents issued by the company in the course of business, and on its websites[^key-54e4af6841aee94ee294ba9adf9a08a5]—
+(1) Every open-ended investment company must have the following particulars disclosed in characters that can be read with the naked eye in all letters of the company, in all other documents issued by the company in the course of business, and on its websites[^c-54e4af6841aee94ee294ba9adf9a08a5]—
 
 - (a) the company’s place of registration;
 - (b) the number with which it is registered;
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54e4af6841aee94ee294ba9adf9a08a5]: Textual amendment: Words in reg. 55(1) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/16) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-54e4af6841aee94ee294ba9adf9a08a5]: Textual amendment: Words in reg. 55(1) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/16) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))

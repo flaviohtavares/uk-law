@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Calculation of profits[^key-07c6de2f6365a74ec85db547fad9df06]
+## 55. Calculation of profits[^c-07c6de2f6365a74ec85db547fad9df06]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07c6de2f6365a74ec85db547fad9df06]: Commencement: Art. 55 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-07c6de2f6365a74ec85db547fad9df06]: Commencement: Art. 55 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

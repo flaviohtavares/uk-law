@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 162. Control by bank liquidation committee[^key-d0adbc88da197f2daa7211f16df0dbce]
+## 162. Control by bank liquidation committee[^c-d0adbc88da197f2daa7211f16df0dbce]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.203 of the 1986 Rules.
 
 ## Annotations
 
-[^key-d0adbc88da197f2daa7211f16df0dbce]: Commencement: Rule 162 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-d0adbc88da197f2daa7211f16df0dbce]: Commencement: Rule 162 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

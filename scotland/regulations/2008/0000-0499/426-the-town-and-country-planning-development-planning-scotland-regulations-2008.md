@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and interpretation[^key-bf60be4d70ab2d3d4a9c93729e68f9c6]
+### 1. Citation, commencement and interpretation[^c-bf60be4d70ab2d3d4a9c93729e68f9c6]
 
 (1) These Regulations may be cited as the Town and Country Planning (Development Planning) (Scotland) Regulations 2008 and come into force on 28th February 2009.
 
@@ -56,22 +56,22 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 - “the Act” means the Town and Country Planning (Scotland) Act 1997;
 - “the 2005 Act” means the Environmental Assessment (Scotland) Act 2005[^f00002];
-- “[^key-5d884d8f44800ae13add7994deba2419]**the 2015 Regulations**” means the Control of Major Accident Hazards Regulations 2015,
+- “[^c-5d884d8f44800ae13add7994deba2419]**the 2015 Regulations**” means the Control of Major Accident Hazards Regulations 2015,
 - “community council” means a community council established in accordance with the provisions of Part IV of the Local Government (Scotland) Act 1973[^f00003];
-- “[^key-e8194edbd3b965984b25e54482e596c5]**the Directive**” means Directive 2012/18/EU of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) , as Directive 2012/18/EU had effect immediately before IP completion day[^key-10b10aea7e4a8bd1d78ec8174c31fb5a];
+- “[^c-e8194edbd3b965984b25e54482e596c5]**the Directive**” means Directive 2012/18/EU of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) , as Directive 2012/18/EU had effect immediately before IP completion day[^c-10b10aea7e4a8bd1d78ec8174c31fb5a];
 - “environmental report” means the environmental report prepared in connection with a proposed plan in accordance with the 2005 Act;
-- “flood risk management plan” and “local flood risk management plan” have the same meaning as in the Flood Risk Management (Scotland) Act 2009;[^key-204fac31b35d828ad5689dea9f7748d7]
+- “flood risk management plan” and “local flood risk management plan” have the same meaning as in the Flood Risk Management (Scotland) Act 2009;[^c-204fac31b35d828ad5689dea9f7748d7]
 - “key agency” means a body specified as a key agency in regulation 28;
 - “local development plan area” means the area of land to which a proposed local development plan relates;
 - “local housing strategy” means a strategy (and any modified strategy) prepared and submitted to the Scottish Ministers in accordance with section 89 of the Housing (Scotland) Act 2001[^f00005];
-- “national marine plan” and “regional marine plan” have the same meaning as in Part 3 of the Marine (Scotland) Act 2010;[^key-5b238dfd3a2a9e5ad2c74b6ed96ca12a]
+- “national marine plan” and “regional marine plan” have the same meaning as in Part 3 of the Marine (Scotland) Act 2010;[^c-5b238dfd3a2a9e5ad2c74b6ed96ca12a]
 - “National Park” and “National Park authority” have the same meaning as in the National Parks (Scotland) Act 2000[^f00006];
 - “national waste management plan” has the same meaning as in the National Waste Management Plan for Scotland Regulations 2007[^f00007];
 - “neighbouring land” means land which is conterminous with or within 20 metres of the boundary of a specific site in respect of which a local development plan includes a proposal;
 - “regional transport strategy” means a transport strategy approved by the Scottish Ministers under section 6 of the Transport (Scotland) Act 2005[^f00008];
 - “relevant date” means the date on which section 2 of the Planning etc. (Scotland) Act 2006 comes into force for all purposes;
 - “river basin management plan” means a river basin management plan approved by the Scottish Ministers under section 13(1) of the Water Environment and Water Services Act 2003[^f00009]; and
-- “Scottish marine area” has the meaning given in section 1 of the Marine (Scotland) Act 2010;[^key-a2aef9069d44ac8dbd770675e3b689c8]
+- “Scottish marine area” has the meaning given in section 1 of the Marine (Scotland) Act 2010;[^c-a2aef9069d44ac8dbd770675e3b689c8]
 - “supplementary guidance” has the same meaning as in section 22(1) of the Act.
 
 (3) Expressions which are used in regulations 3(2) and 10(2) and which are also used in the Directive have the same meaning as in the Directive.
@@ -80,37 +80,37 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 2 — Strategic Development Plans
 
-### 2. Maps or Diagrams to be included in strategic development plan[^key-3bcb66cd1e6cfaa758fd2e458b95ced1]
+### 2. Maps or Diagrams to be included in strategic development plan[^c-3bcb66cd1e6cfaa758fd2e458b95ced1]
 
 A strategic development plan must contain a map or a diagram (or a combination thereof) describing the spatial strategy set out in the strategic development plan.
 
-### 3. Information and considerations[^key-3ffd4d3a16707c9cbcfa3b6e2334e2ce]
+### 3. Information and considerations[^c-3ffd4d3a16707c9cbcfa3b6e2334e2ce]
 
 (1) In preparing a strategic development plan or a main issues report the strategic development planning authority are to have regard to–
 
 - (a) the resources available or likely to be available for the carrying out of the policies and proposals set out in the strategic development plan;
 - (b) any strategic development plan for a strategic development plan area which adjoins the strategic development plan area in respect of which the plan is being prepared;
 - (c) any proposed strategic development plan prepared for a strategic development plan area which adjoins the strategic development plan area which has been submitted to the Scottish Ministers in accordance with section 10(3)(b) or 12A(5)(b)(ii) of the Act;
-- (ca)[^key-564e0dbedcaf0e45edd5148d14091c78] any adopted national marine plan or regional marine plan relating to parts of the Scottish marine area adjoining the strategic development plan area;
+- (ca)[^c-564e0dbedcaf0e45edd5148d14091c78] any adopted national marine plan or regional marine plan relating to parts of the Scottish marine area adjoining the strategic development plan area;
 - (d) any regional transport strategy relating to the strategic development plan area;
-- (da)[^key-354ce1a4c12fe26a0d800bffe50185ce] any approved flood risk management plan or finalised local flood risk management plan relating to the strategic development plan area;
+- (da)[^c-354ce1a4c12fe26a0d800bffe50185ce] any approved flood risk management plan or finalised local flood risk management plan relating to the strategic development plan area;
 - (e) any river basin management plan relating to the strategic development plan area;
 - (f) any local housing strategy relating to the strategic development plan area; and
 - (g) the national waste management plan.
 
 (2) In addition to the matters specified in paragraph (1), the strategic development planning authority when preparing a strategic development plan or main issues report are also to have regard to–
 
-- (a)[^key-ddf4e8985ad2da723f2c8ff86e4abd73] the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment; and
+- (a)[^c-ddf4e8985ad2da723f2c8ff86e4abd73] the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment; and
 - (b) the need in the long term—
   - (i) to maintain appropriate safety distances between establishments covered by the Directive and residential areas, buildings and areas of public use, recreational areas and, as far as possible, major transport routes;
   - (ii) to protect areas of particular natural sensitivity or interest in the vicinity of establishments, where appropriate through appropriate safety distances or other relevant measures; and
-  - (iii) in the case of existing establishments, to take additional technical measures in accordance with regulation 5 of the 2015 Regulations[^key-93d612e7086b186433d4870c62a023c8] so as not to increase the risks to human health and the environment.
+  - (iii) in the case of existing establishments, to take additional technical measures in accordance with regulation 5 of the 2015 Regulations[^c-93d612e7086b186433d4870c62a023c8] so as not to increase the risks to human health and the environment.
 
-### 4. Consultation for main issues report[^key-91af98ab293f5063fc5b830e7457eb7f]
+### 4. Consultation for main issues report[^c-91af98ab293f5063fc5b830e7457eb7f]
 
 The Scottish Ministers are, for the purposes of section 9(4)(c) of the Act, persons whose views a strategic development planning authority is to seek and have regard to when compiling a main issues report.
 
-### 5. Publication in accordance with section 9(6)[^key-1f966744e4af9706fa10aaccb5e2199d]
+### 5. Publication in accordance with section 9(6)[^c-1f966744e4af9706fa10aaccb5e2199d]
 
 (1) The manner of publication prescribed for the purpose of section 9(6) of the Act is as set out in paragraph (2).
 
@@ -136,14 +136,14 @@ The Scottish Ministers are, for the purposes of section 9(4)(c) of the Act, pers
 - (c) in section 10(6) of the Act, a proposed strategic development plan as modified under section 10(3) of the Act; and
 - (d) in section 12A(7) of the Act, a proposed strategic development plan as modified under section 12A(5)(b)(i) of the Act.
 
-### 6. Consultation on proposed strategic development plan[^key-21d4ec6380c71063c4021fe84550ad28]
+### 6. Consultation on proposed strategic development plan[^c-21d4ec6380c71063c4021fe84550ad28]
 
 The strategic development planning authority must–
 
 - (a) with regard to a proposed strategic development plan consult the Scottish Ministers; and
 - (b) with regard to a new proposed strategic development plan prepared in accordance with section 10(4) of the Act, in addition consult all persons who made timeous representation with respect to the original plan.
 
-### 7. Publication of submission of proposed strategic development plan[^key-eb5220f720c66a7f2b0eed9ca3fb40a9]
+### 7. Publication of submission of proposed strategic development plan[^c-eb5220f720c66a7f2b0eed9ca3fb40a9]
 
 On submitting a proposed strategic development plan to the Scottish Ministers under section 10(3)(b) or section 12A(5)(b)(ii) of the Act the strategic development planning authority are to advertise that they have done so by–
 
@@ -157,28 +157,28 @@ On submitting a proposed strategic development plan to the Scottish Ministers un
 
 ## PART 3 — Local Development Plans
 
-### 8. Maps to be included in local development plan[^key-6f01e3b14b707c3082dcbc82225d81e3]
+### 8. Maps to be included in local development plan[^c-6f01e3b14b707c3082dcbc82225d81e3]
 
 (1) A local development plan is to contain a map or maps, (to be known as “the Proposals Map”), describing the policies and proposals set out in the local development plan, so far as practicable to illustrate such policies or proposals spatially.
 
 (2) The Proposals Map is to be sufficiently detailed so as to enable the location of proposals for the development and use of land to be identified.
 
-### 9. Schedule of land ownership[^key-e6bd7b80fc050ea255f529bb19505232]
+### 9. Schedule of land ownership[^c-e6bd7b80fc050ea255f529bb19505232]
 
 (1) The schedule of land ownership required to be appended to the plan by section 15(3) of the Act is to be in the form set out in Schedule 1.
 
 (2) Where a local development plan is prepared by a National Park authority, the schedule of land ownership is also to include land owned by a local authority.
 
-### 10. Information and considerations[^key-48e2ebef264e2351d8bfdac476adcd5b]
+### 10. Information and considerations[^c-48e2ebef264e2351d8bfdac476adcd5b]
 
 (1) In preparing a local development plan the planning authority are to have regard to–
 
 - (a) the resources available or likely to be available for the carrying out of the policies and proposals set out in the local development plan;
 - (b) any local development plan prepared for a different purpose for the local development plan area;
 - (c) any local development plan or strategic development plan prepared for an area adjoining the local development plan area;
-- (ca)[^key-93254bdce5dd9e7648ed449af09d67a8] any adopted national marine plan or regional marine plan relating to parts of the Scottish marine area adjoining the local development plan area;
+- (ca)[^c-93254bdce5dd9e7648ed449af09d67a8] any adopted national marine plan or regional marine plan relating to parts of the Scottish marine area adjoining the local development plan area;
 - (d) any regional transport strategy relating to the local development plan area;
-- (da)[^key-b29ebb6b7c3854dd05bdf103a6306539] any approved flood risk management plan or finalised local flood risk management plan relating to the local development plan area;
+- (da)[^c-b29ebb6b7c3854dd05bdf103a6306539] any approved flood risk management plan or finalised local flood risk management plan relating to the local development plan area;
 - (e) any local transport strategy relating to the local development plan area;
 - (f) any river basin management plan relating to the local development plan area;
 - (g) any local housing strategy relating to the local development plan area;
@@ -187,17 +187,17 @@ On submitting a proposed strategic development plan to the Scottish Ministers un
 
 (2) In addition to the matters specified in paragraph (1), in preparing a local development plan the planning authority are also to have regard to–
 
-- (a)[^key-0730fc28878e6fe8d1d7d6bc928dbf20] the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment; and
+- (a)[^c-0730fc28878e6fe8d1d7d6bc928dbf20] the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment; and
 - (b) the need in the long term—
   - (i) to maintain appropriate safety distances between establishments covered by the Directive and residential areas, buildings and areas of public use, recreational areas and, as far as possible, major transport routes;
   - (ii) to protect areas of particular natural sensitivity or interest in the vicinity of establishments, where appropriate through appropriate safety distances or other relevant measures; and
-  - (iii) in the case of existing establishments, to take additional technical measures in accordance with regulation 5 of the 2015 Regulations[^key-14cfc61bc5d64d8ddb70bdef0448a50a] so as not to increase the risks to human health and the environment.
+  - (iii) in the case of existing establishments, to take additional technical measures in accordance with regulation 5 of the 2015 Regulations[^c-14cfc61bc5d64d8ddb70bdef0448a50a] so as not to increase the risks to human health and the environment.
 
 (3) In paragraph (1) references to a local development plan or a strategic development plan include, as the case may be, a reference to a proposed local development plan submitted to the Scottish Ministers in accordance with section 18(4)(a) or section 19A(5)(b)(ii) of the Act or a proposed strategic development plan submitted to the Scottish Ministers in accordance with section 10(3)(b) or 12A(5)(b)(ii) of the Act.
 
 (4) In this regulation “local transport strategy” has the same meaning as in section 82(1) of the Transport (Scotland) Act 2001[^f00010].
 
-### 11. Consultation for main issues report[^key-ff06e6dfa84d1e082201c65c2a267a9d]
+### 11. Consultation for main issues report[^c-ff06e6dfa84d1e082201c65c2a267a9d]
 
 The following persons are prescribed for the purposes of section 17(4)(b) of the Act as a person whose views a planning authority are to seek and have regard to when compiling a main issues report–
 
@@ -205,7 +205,7 @@ The following persons are prescribed for the purposes of section 17(4)(b) of the
 - (b) any planning authority whose district adjoins and any National Park authority for a National Park which adjoins, the district of that planning authority area; and
 - (c) where the district of that planning authority, or any part of it, is within a strategic development plan area, the other planning authorities comprising the strategic development planning authority for that area.
 
-### 12. Publication in accordance with section 17(6) of the Act[^key-c9c69f9d6208825ae3c5b30981a33c08]
+### 12. Publication in accordance with section 17(6) of the Act[^c-c9c69f9d6208825ae3c5b30981a33c08]
 
 (1) The manner of publication prescribed for the purposes of section 17(6) of the Act is as set out in paragraph (2).
 
@@ -231,14 +231,14 @@ The following persons are prescribed for the purposes of section 17(4)(b) of the
 - (b) in section 18(1)(a) of the Act, a proposed local development plan; and
 - (c) in section 18(5)(a) of the Act, a proposed local development plan modified under section 18(3) or (6) of the Act, as the case may be.
 
-### 13. Consultation on proposed local development plan[^key-c91a96c2c9042374c0969e65cde2266b]
+### 13. Consultation on proposed local development plan[^c-c91a96c2c9042374c0969e65cde2266b]
 
 The planning authority must–
 
 - (a) with regard to a proposed local development plan, consult the Scottish Ministers; and
 - (b) with regard to a new proposed local development plan prepared in accordance with section 18(8) of the Act, in addition consult all persons who made timeous representation with respect to the original plan.
 
-### 14. Notification of publication of proposed local development plan[^key-56fdc10ae251d8c7a84251db14c3ca59]
+### 14. Notification of publication of proposed local development plan[^c-56fdc10ae251d8c7a84251db14c3ca59]
 
 (1) Where the proposed local development plan includes a proposal for development relating to a specific site which, if implemented, would be likely to have a significant effect on the use or amenity of that site or of neighbouring land, the planning authority are to give notice to the owner, lessee or occupier of any premises situated on that site, or on such neighbouring land, as the case may be, in accordance with paragraph (2).
 
@@ -248,7 +248,7 @@ The planning authority must–
 - (b) accompanied by a map showing the location of the site in question; and
 - (c) sent to the premises situated on the site or neighbouring land, as the case may be, addressed to “the Owner, Lessee or Occupier”.
 
-### 15. Notification of modifications[^key-b5f32f791eca92df55374a2b39375cb8]
+### 15. Notification of modifications[^c-b5f32f791eca92df55374a2b39375cb8]
 
 (1) The kind of modifications prescribed for the purposes of section 18(5) of the Act are modifications which–
 
@@ -265,7 +265,7 @@ The planning authority must–
 
 (4) In this regulation “relevant site” means land in respect of which a modification mentioned in paragraph (1) removes, alters or introduces a specific proposal for the development of that land which if implemented would be likely to have a significant effect on the use or amenity of that land or neighbouring land.
 
-### 16. Publication of proposed local development plan as submitted to the Scottish Ministers[^key-8a09056d53e00018a347a412e0e14f36]
+### 16. Publication of proposed local development plan as submitted to the Scottish Ministers[^c-8a09056d53e00018a347a412e0e14f36]
 
 (1) The manner of publication or advertisement prescribed for the purposes of section 18(4)(b) and 19A(8) of the Act (publication of a proposed local development plan as submitted to the Scottish Ministers) is as set out in paragraph (2).
 
@@ -277,7 +277,7 @@ The planning authority must–
 - (b) making a copy of the proposed local development plan available for inspection at an office of the planning authority and in every public library in the local development plan area; and
 - (c) publishing the proposed local development plan on the internet.
 
-### 17. Publication of proposed local development plan following examination[^key-7f30eb64c7e276122ce408672fc9f11c]
+### 17. Publication of proposed local development plan following examination[^c-7f30eb64c7e276122ce408672fc9f11c]
 
 (1) The manner of publication prescribed for the purposes of section 19(10)(b) is as set out in paragraph (2).
 
@@ -292,7 +292,7 @@ The planning authority must–
 
 ## PART 4 — Examinations
 
-### 18. Application and interpretation of Part 4[^key-879bf8da928456ef2b65327bcf323a51]
+### 18. Application and interpretation of Part 4[^c-879bf8da928456ef2b65327bcf323a51]
 
 (1) Part 4 of these regulations applies to–
 
@@ -320,11 +320,11 @@ The planning authority must–
   - (a) in respect of a proposed strategic development plan, representations mentioned in section 12(1)(a) of the Act; and
   - (b) in respect of a proposed local development plan, representations mentioned in section 19(2) of the Act.
 
-### 19. Notification of appointment of appointed person[^key-dad9aa07c91c084d2b119d66bf96aa01]
+### 19. Notification of appointment of appointed person[^c-dad9aa07c91c084d2b119d66bf96aa01]
 
 The Scottish Ministers must as soon as practicable after appointing a person to examine a proposed local development plan under section 19(3) of the Act notify the authority that such an appointment has been made and of the name of the appointed person.
 
-### 20. Summary of unresolved issues[^key-a9a95a1a9759afa27840406fe41d2653]
+### 20. Summary of unresolved issues[^c-a9a95a1a9759afa27840406fe41d2653]
 
 (1) The authority must, to the extent that they have not already done so, send to the appointed person within 14 days of receiving notification under section 12(4)(b) of the Act or regulation 19, as the case may be–
 
@@ -352,7 +352,7 @@ are to include a statement that the authority has, or is to, provide to the appo
 
 (4) In the application of paragraph (3) to advertisement under sections 12A(8) or 19A(8) of the Act the reference to a “summary” includes a reference to the note and report submitted under section 12A(5)(b)(ii) or 19A(5)(b)(ii), as the case may be.
 
-### 21. Scope of the examination[^key-c215f262b06a2a662adf9e8cda00ccd5]
+### 21. Scope of the examination[^c-c215f262b06a2a662adf9e8cda00ccd5]
 
 (1) An examination held under section 12(1) of the Act is to assess–
 
@@ -362,13 +362,13 @@ are to include a statement that the authority has, or is to, provide to the appo
 
 (2) An examination held under section 19(3) of the Act is only to assess issues raised in unresolved representations.
 
-### 22. Further representations or information[^key-50c93ff0203126b39a3a5a3ccd87d7a0]
+### 22. Further representations or information[^c-50c93ff0203126b39a3a5a3ccd87d7a0]
 
 (1) Where the appointed person determines that further representations should be made or further information should be provided by any person in connection with the examination of the proposed plan the appointed person may by notice request that person to make such further representations or to provide such further information.
 
 (2) The appointed person may make a request under paragraph (1) at any stage of the examination.
 
-### 23. Expenses of examination[^key-69c2878809275107fbf0bbd6672b48c9]
+### 23. Expenses of examination[^c-69c2878809275107fbf0bbd6672b48c9]
 
 The general administrative costs, staff costs (including any remuneration due to the appointed person) and overheads (including the costs of provision of a venue for the examination) incurred by the Scottish Ministers or the appointed person in relation to an examination held under–
 
@@ -377,22 +377,22 @@ The general administrative costs, staff costs (including any remuneration due to
 
 ## PART 5 — General
 
-### 24. Development plan schemes[^key-8d223251e47413024e7643b29813f9d6]
+### 24. Development plan schemes[^c-8d223251e47413024e7643b29813f9d6]
 
-In addition to those matters specified by the Act, a development plan scheme must state the timetable proposed[^key-7d2a95833dc3cd966b0fd95bb95955a7] (specifying the proposed month) by the strategic development planning authority or the planning authority, as the case may be, with regard to–
+In addition to those matters specified by the Act, a development plan scheme must state the timetable proposed[^c-7d2a95833dc3cd966b0fd95bb95955a7] (specifying the proposed month) by the strategic development planning authority or the planning authority, as the case may be, with regard to–
 
 - (a) publication of its main issues report;
 - (b) publication of its proposed strategic development plan or local development plan; and
 - (c) submission of its proposed strategic development plan or local development plan to the Scottish Ministers.
 
-### 25. Consultation for action programmes[^key-1b0422d923834eb4fb4493f3f652495d]
+### 25. Consultation for action programmes[^c-1b0422d923834eb4fb4493f3f652495d]
 
 The following persons are prescribed for the purposes of section 21(3)(b) of the Act as a person whose views the strategic development planning authority or the planning authority in question is to seek and have regard to when compiling an action programme:–
 
 - (a) the Scottish Ministers; and
 - (b) any person whom that authority proposes to specify by name in the action programme.
 
-### 26. Form and content of action programmes[^key-d2766873bbd4d35e1eee4764631ed4da]
+### 26. Form and content of action programmes[^c-d2766873bbd4d35e1eee4764631ed4da]
 
 An action programme is to set out the following matters–
 
@@ -400,9 +400,9 @@ An action programme is to set out the following matters–
 - (b) the name of the person who is to carry out each such action; and
 - (c) the timescale for the conclusion of each such action.
 
-### 27. Supplementary Guidance[^key-9f5fdf873f76a1be812e6e2629523454]
+### 27. Supplementary Guidance[^c-9f5fdf873f76a1be812e6e2629523454]
 
-(A1)[^key-c7106645c9c23c2a8ef9ec776c508508] In preparing any supplementary guidance for the purpose of section 22(1) of the Act—
+(A1)[^c-c7106645c9c23c2a8ef9ec776c508508] In preparing any supplementary guidance for the purpose of section 22(1) of the Act—
 
 - (a) a strategic development planning authority must have regard to the matters referred to in regulation 3(2); and
 - (b) a planning authority must to have regard to the matters referred to in regulation 10(2).
@@ -415,14 +415,14 @@ An action programme is to set out the following matters–
 
 (2) Supplementary guidance adopted and issued under section 22(1) of the Act in connection with a particular strategic development plan or local development plan may only deal with the provision of further information or detail in respect of the policies or proposals set out in that plan and then only provided that those are matters which are expressly identified in a statement contained in the plan as matters which are to be dealt with in supplementary guidance.
 
-### 28. Key Agencies[^key-1402dcae8f36c5b3b8487ff287957095]
+### 28. Key Agencies[^c-1402dcae8f36c5b3b8487ff287957095]
 
 (1) The bodies mentioned in paragraph (2) are, subject to the limitations set out in paragraph (3), specified as a key agency for the purposes of sections 9(4)(a) and (5), 10(1)(b)(i) and (d) and (9), 13(4)(b)(ii), 17(4)(a) and (5), 18(1)(b) and (d) and (10) and 21(3)(a) and (5) of the Act.
 
 (2) The bodies are–
 
 - (a) Scottish Natural Heritage;
-- (aa)[^key-36847290aee6cc066511b9f5a3cde5f5] Historic Environment Scotland;
+- (aa)[^c-36847290aee6cc066511b9f5a3cde5f5] Historic Environment Scotland;
 - (b) the Scottish Environment Protection Agency;
 - (c) Scottish Water;
 - (d) Scottish Enterprise;
@@ -441,7 +441,7 @@ An action programme is to set out the following matters–
 
 (4) In paragraphs (2) and (3), ‘Health Board’ means a board constituted by order under section 2(1)(a) of the National Health Service (Scotland) Act 1978[^f00014].
 
-### 29. Transitional Provisions – structure plans[^key-9d89d1968484c73354ae532f06741bff]
+### 29. Transitional Provisions – structure plans[^c-9d89d1968484c73354ae532f06741bff]
 
 (1) This regulation applies to a structure plan or a proposal for the alteration or repeal and replacement of a structure plan (within the meaning of the Act immediately before the relevant date)–
 
@@ -458,7 +458,7 @@ An action programme is to set out the following matters–
   - (iii) a strategic development planning authority are to be treated as references to the planning authority or planning authorities, as the case may be, which are preparing the structure plan; and
 - (b) paragraphs (d) to (f) of regulation 20(1) do not apply.
 
-### 30. Transitional Provisions – local plans[^key-0ff8a897d41bd8470459c11ff795b338]
+### 30. Transitional Provisions – local plans[^c-0ff8a897d41bd8470459c11ff795b338]
 
 (1) This regulation applies to a local plan or a proposal to alter, repeal or replace a local plan in respect of which, before the relevant date–
 
@@ -471,10 +471,10 @@ An action programme is to set out the following matters–
 
 - (a) references to–
   - (i) a local development plan are to be treated as references to a local plan or, as the case may be, a proposal to alter, repeal or replace a local plan; and
-  - (ii) the local development plan area are to be treated as references to the area of land to which the local plan or, as the case may be, a proposal to alter, repeal or replace a local plan[^key-3c9b7057d33438ddb6f35c72acd7e518] relates;
+  - (ii) the local development plan area are to be treated as references to the area of land to which the local plan or, as the case may be, a proposal to alter, repeal or replace a local plan[^c-3c9b7057d33438ddb6f35c72acd7e518] relates;
 - (b) in regulation 18 for the definition of “unresolved representations” substitute–
 
-  > - ““unresolved representations” means any objections to a local plan or a proposal to alter, repeal or replace a local plan, as the case may be, timeously made to the planning authority (and not subsequently withdrawn) following the local plan or proposal being made available for inspection under section 12(3)(a) of the Act (as that section applied immediately before the relevant date).”[^key-56880d218e5ac55485edafdb19a2b32e]
+  > - ““unresolved representations” means any objections to a local plan or a proposal to alter, repeal or replace a local plan, as the case may be, timeously made to the planning authority (and not subsequently withdrawn) following the local plan or proposal being made available for inspection under section 12(3)(a) of the Act (as that section applied immediately before the relevant date).”[^c-56880d218e5ac55485edafdb19a2b32e]
 
   ; and
 - (c) paragraphs (d) to (f) of regulation 20(1) do not apply.
@@ -487,25 +487,25 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE 1 — Form of schedule of land ownership[^key-83afc7155947d3d9231261314776b723]
+## SCHEDULE 1 — Form of schedule of land ownership[^c-83afc7155947d3d9231261314776b723]
 
 Regulation 9
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/426/images/ssi_20080426_en_001)
 
-## SCHEDULE 2 — Form of Notice[^key-e119bd53b6023ea0bf6fbe13fba88b4a]
+## SCHEDULE 2 — Form of Notice[^c-e119bd53b6023ea0bf6fbe13fba88b4a]
 
 Regulation 14(2)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/426/images/ssi_20080426_en_002)
 
-## SCHEDULE 3 — Form of Notice[^key-abe59c3fecb6f8674ffe75fa23823e11]
+## SCHEDULE 3 — Form of Notice[^c-abe59c3fecb6f8674ffe75fa23823e11]
 
 Regulation 15(3)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2008/426/images/ssi_20080426_en_003)
 
-## SCHEDULE 4 — Summary of Unresolved Issues[^key-951f1baede4b7904fc6ca343dbe6bc1b]
+## SCHEDULE 4 — Summary of Unresolved Issues[^c-951f1baede4b7904fc6ca343dbe6bc1b]
 
 Regulation 20(2)(b)
 
@@ -549,23 +549,23 @@ A regulatory impact assessment has been prepared in relation to these Regulation
 
 [^f00001]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). The enabling powers contained in Part 2 of the Act were inserted by section 2 of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17). Section 275 was relevantly amended by section 54(16) of that Act. The functions of the Secretary of State under the Town and Country Planning (Scotland) Act 1997 transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-bf60be4d70ab2d3d4a9c93729e68f9c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2008/426/regulation/1) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-bf60be4d70ab2d3d4a9c93729e68f9c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2008/426/regulation/1) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
 [^f00002]: Footnote: [2005 asp 15](https://www.legislation.gov.uk/asp/2005/15).
 
-[^key-5d884d8f44800ae13add7994deba2419]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/2) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/80/regulation/2/2/a) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d884d8f44800ae13add7994deba2419]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/2) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/80/regulation/2/2/a) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65). Part IV was relevantly amended by section 180(2) and Schedule 14 to the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-e8194edbd3b965984b25e54482e596c5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/2) substituted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 2(2)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/2/2)
+[^c-e8194edbd3b965984b25e54482e596c5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/2) substituted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 2(2)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/2/2)
 
-[^key-10b10aea7e4a8bd1d78ec8174c31fb5a]: Textual amendment: Words in reg. 1(2) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/80/regulation/2/2/b) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(3)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10b10aea7e4a8bd1d78ec8174c31fb5a]: Textual amendment: Words in reg. 1(2) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/80/regulation/2/2/b) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)(3)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-204fac31b35d828ad5689dea9f7748d7]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/2) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/2/a)
+[^c-204fac31b35d828ad5689dea9f7748d7]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/2) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/2/a)
 
 [^f00005]: Footnote: [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10).
 
-[^key-5b238dfd3a2a9e5ad2c74b6ed96ca12a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/2) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/2/b)
+[^c-5b238dfd3a2a9e5ad2c74b6ed96ca12a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/2) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/2/b)
 
 [^f00006]: Footnote: [2000 asp 10](https://www.legislation.gov.uk/asp/2000/10).
 
@@ -575,85 +575,85 @@ A regulatory impact assessment has been prepared in relation to these Regulation
 
 [^f00009]: Footnote: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3).
 
-[^key-a2aef9069d44ac8dbd770675e3b689c8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/2) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/2/c)
+[^c-a2aef9069d44ac8dbd770675e3b689c8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/2) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/2/c)
 
-[^key-3bcb66cd1e6cfaa758fd2e458b95ced1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2008/426/regulation/2) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-3bcb66cd1e6cfaa758fd2e458b95ced1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2008/426/regulation/2) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-3ffd4d3a16707c9cbcfa3b6e2334e2ce]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2008/426/regulation/3) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-3ffd4d3a16707c9cbcfa3b6e2334e2ce]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2008/426/regulation/3) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-564e0dbedcaf0e45edd5148d14091c78]: Textual amendment: [Reg. 3(1)(ca)](https://www.legislation.gov.uk/ssi/2008/426/regulation/3/1/ca) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/3/a)
+[^c-564e0dbedcaf0e45edd5148d14091c78]: Textual amendment: [Reg. 3(1)(ca)](https://www.legislation.gov.uk/ssi/2008/426/regulation/3/1/ca) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/3/a)
 
-[^key-354ce1a4c12fe26a0d800bffe50185ce]: Textual amendment: [Reg. 3(1)(da)](https://www.legislation.gov.uk/ssi/2008/426/regulation/3/1/da) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/3/b)
+[^c-354ce1a4c12fe26a0d800bffe50185ce]: Textual amendment: [Reg. 3(1)(da)](https://www.legislation.gov.uk/ssi/2008/426/regulation/3/1/da) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/3/b)
 
-[^key-ddf4e8985ad2da723f2c8ff86e4abd73]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2008/426/regulation/3/2/a)[(b)](https://www.legislation.gov.uk/ssi/2008/426/regulation/3/2/b) substituted for reg. 3(2)(a)-(c) (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 2(3)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/2/3)
+[^c-ddf4e8985ad2da723f2c8ff86e4abd73]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/ssi/2008/426/regulation/3/2/a)[(b)](https://www.legislation.gov.uk/ssi/2008/426/regulation/3/2/b) substituted for reg. 3(2)(a)-(c) (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 2(3)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/2/3)
 
-[^key-93d612e7086b186433d4870c62a023c8]: Textual amendment: Words in [reg. 3(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2008/426/regulation/3/2/b/iii) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/80/regulation/2/3) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-93d612e7086b186433d4870c62a023c8]: Textual amendment: Words in [reg. 3(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2008/426/regulation/3/2/b/iii) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/80/regulation/2/3) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-91af98ab293f5063fc5b830e7457eb7f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2008/426/regulation/4) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-91af98ab293f5063fc5b830e7457eb7f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2008/426/regulation/4) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-1f966744e4af9706fa10aaccb5e2199d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2008/426/regulation/5) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-1f966744e4af9706fa10aaccb5e2199d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2008/426/regulation/5) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-21d4ec6380c71063c4021fe84550ad28]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2008/426/regulation/6) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-21d4ec6380c71063c4021fe84550ad28]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2008/426/regulation/6) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-eb5220f720c66a7f2b0eed9ca3fb40a9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2008/426/regulation/7) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-eb5220f720c66a7f2b0eed9ca3fb40a9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2008/426/regulation/7) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-6f01e3b14b707c3082dcbc82225d81e3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2008/426/regulation/8) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-6f01e3b14b707c3082dcbc82225d81e3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2008/426/regulation/8) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-e6bd7b80fc050ea255f529bb19505232]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2008/426/regulation/9) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-e6bd7b80fc050ea255f529bb19505232]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2008/426/regulation/9) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-48e2ebef264e2351d8bfdac476adcd5b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2008/426/regulation/10) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-48e2ebef264e2351d8bfdac476adcd5b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2008/426/regulation/10) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-93254bdce5dd9e7648ed449af09d67a8]: Textual amendment: [Reg. 10(1)(ca)](https://www.legislation.gov.uk/ssi/2008/426/regulation/10/1/ca) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/4/a)
+[^c-93254bdce5dd9e7648ed449af09d67a8]: Textual amendment: [Reg. 10(1)(ca)](https://www.legislation.gov.uk/ssi/2008/426/regulation/10/1/ca) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/4/a)
 
-[^key-b29ebb6b7c3854dd05bdf103a6306539]: Textual amendment: [Reg. 10(1)(da)](https://www.legislation.gov.uk/ssi/2008/426/regulation/10/1/da) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/4/b)
+[^c-b29ebb6b7c3854dd05bdf103a6306539]: Textual amendment: [Reg. 10(1)(da)](https://www.legislation.gov.uk/ssi/2008/426/regulation/10/1/da) inserted (1.4.2011) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/138)](https://www.legislation.gov.uk/ssi/2011/138), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/138/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/ssi/2011/138/regulation/5/4/b)
 
-[^key-0730fc28878e6fe8d1d7d6bc928dbf20]: Textual amendment: [Reg. 10(2)(a)](https://www.legislation.gov.uk/ssi/2008/426/regulation/10/2/a)[(b)](https://www.legislation.gov.uk/ssi/2008/426/regulation/10/2/b) substituted for reg. 10(2)(a)-(c) (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 2(4)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/2/4)
+[^c-0730fc28878e6fe8d1d7d6bc928dbf20]: Textual amendment: [Reg. 10(2)(a)](https://www.legislation.gov.uk/ssi/2008/426/regulation/10/2/a)[(b)](https://www.legislation.gov.uk/ssi/2008/426/regulation/10/2/b) substituted for reg. 10(2)(a)-(c) (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 2(4)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/2/4)
 
-[^key-14cfc61bc5d64d8ddb70bdef0448a50a]: Textual amendment: Words in [reg. 10(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2008/426/regulation/10/2/b/iii) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2019/80/regulation/2/4) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14cfc61bc5d64d8ddb70bdef0448a50a]: Textual amendment: Words in [reg. 10(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2008/426/regulation/10/2/b/iii) substituted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2019/80/regulation/2/4) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00010]: Footnote: [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2).
 
-[^key-ff06e6dfa84d1e082201c65c2a267a9d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2008/426/regulation/11) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-ff06e6dfa84d1e082201c65c2a267a9d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2008/426/regulation/11) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-c9c69f9d6208825ae3c5b30981a33c08]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2008/426/regulation/12) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-c9c69f9d6208825ae3c5b30981a33c08]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2008/426/regulation/12) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-c91a96c2c9042374c0969e65cde2266b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2008/426/regulation/13) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-c91a96c2c9042374c0969e65cde2266b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2008/426/regulation/13) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-56fdc10ae251d8c7a84251db14c3ca59]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2008/426/regulation/14) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-56fdc10ae251d8c7a84251db14c3ca59]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2008/426/regulation/14) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-b5f32f791eca92df55374a2b39375cb8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2008/426/regulation/15) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-b5f32f791eca92df55374a2b39375cb8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2008/426/regulation/15) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-8a09056d53e00018a347a412e0e14f36]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2008/426/regulation/16) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-8a09056d53e00018a347a412e0e14f36]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2008/426/regulation/16) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-7f30eb64c7e276122ce408672fc9f11c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2008/426/regulation/17) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-7f30eb64c7e276122ce408672fc9f11c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2008/426/regulation/17) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-879bf8da928456ef2b65327bcf323a51]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2008/426/regulation/18) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-879bf8da928456ef2b65327bcf323a51]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2008/426/regulation/18) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-dad9aa07c91c084d2b119d66bf96aa01]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2008/426/regulation/19) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-dad9aa07c91c084d2b119d66bf96aa01]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2008/426/regulation/19) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-a9a95a1a9759afa27840406fe41d2653]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2008/426/regulation/20) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-a9a95a1a9759afa27840406fe41d2653]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2008/426/regulation/20) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-c215f262b06a2a662adf9e8cda00ccd5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2008/426/regulation/21) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-c215f262b06a2a662adf9e8cda00ccd5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2008/426/regulation/21) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-50c93ff0203126b39a3a5a3ccd87d7a0]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2008/426/regulation/22) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-50c93ff0203126b39a3a5a3ccd87d7a0]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2008/426/regulation/22) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-69c2878809275107fbf0bbd6672b48c9]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2008/426/regulation/23) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-69c2878809275107fbf0bbd6672b48c9]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2008/426/regulation/23) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-8d223251e47413024e7643b29813f9d6]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2008/426/regulation/24) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-8d223251e47413024e7643b29813f9d6]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2008/426/regulation/24) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-7d2a95833dc3cd966b0fd95bb95955a7]: Textual amendment: Word in [reg. 24](https://www.legislation.gov.uk/ssi/2008/426/regulation/24) inserted (3.8.2009) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2009 (S.S.I. 2009/220)](https://www.legislation.gov.uk/ssi/2009/220), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/220/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2009/220/regulation/6/2)
+[^c-7d2a95833dc3cd966b0fd95bb95955a7]: Textual amendment: Word in [reg. 24](https://www.legislation.gov.uk/ssi/2008/426/regulation/24) inserted (3.8.2009) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2009 (S.S.I. 2009/220)](https://www.legislation.gov.uk/ssi/2009/220), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/220/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2009/220/regulation/6/2)
 
-[^key-1b0422d923834eb4fb4493f3f652495d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2008/426/regulation/25) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-1b0422d923834eb4fb4493f3f652495d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2008/426/regulation/25) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-d2766873bbd4d35e1eee4764631ed4da]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2008/426/regulation/26) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-d2766873bbd4d35e1eee4764631ed4da]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2008/426/regulation/26) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-9f5fdf873f76a1be812e6e2629523454]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2008/426/regulation/27) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-9f5fdf873f76a1be812e6e2629523454]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2008/426/regulation/27) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-c7106645c9c23c2a8ef9ec776c508508]: Textual amendment: [Reg. 27(A1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/27/A1) inserted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 2(5)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/2/5)
+[^c-c7106645c9c23c2a8ef9ec776c508508]: Textual amendment: [Reg. 27(A1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/27/A1) inserted (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 8 para. 2(5)](https://www.legislation.gov.uk/ssi/2015/181/schedule/8/paragraph/2/5)
 
-[^key-1402dcae8f36c5b3b8487ff287957095]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2008/426/regulation/28) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-1402dcae8f36c5b3b8487ff287957095]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2008/426/regulation/28) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-36847290aee6cc066511b9f5a3cde5f5]: Textual amendment: [Reg. 28(2)(aa)](https://www.legislation.gov.uk/ssi/2008/426/regulation/28/2/aa) inserted (1.10.2015) by [The Town and Country Planning (Historic Environment Scotland) Amendment Regulations 2015 (S.S.I. 2015/237)](https://www.legislation.gov.uk/ssi/2015/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/237/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2015/237/regulation/3/2) (with [reg. 3(3)](https://www.legislation.gov.uk/ssi/2015/237/regulation/3/3)[(4)](https://www.legislation.gov.uk/ssi/2015/237/regulation/3/4))
+[^c-36847290aee6cc066511b9f5a3cde5f5]: Textual amendment: [Reg. 28(2)(aa)](https://www.legislation.gov.uk/ssi/2008/426/regulation/28/2/aa) inserted (1.10.2015) by [The Town and Country Planning (Historic Environment Scotland) Amendment Regulations 2015 (S.S.I. 2015/237)](https://www.legislation.gov.uk/ssi/2015/237), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/237/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2015/237/regulation/3/2) (with [reg. 3(3)](https://www.legislation.gov.uk/ssi/2015/237/regulation/3/3)[(4)](https://www.legislation.gov.uk/ssi/2015/237/regulation/3/4))
 
 [^f00011]: Footnote: [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35).
 
@@ -663,20 +663,20 @@ A regulatory impact assessment has been prepared in relation to these Regulation
 
 [^f00014]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). Section 2(1)(a) was amended by paragraph 2(2) of Schedule 2 to the [Smoking, Health & Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13).
 
-[^key-9d89d1968484c73354ae532f06741bff]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2008/426/regulation/29) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-9d89d1968484c73354ae532f06741bff]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2008/426/regulation/29) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-0ff8a897d41bd8470459c11ff795b338]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2008/426/regulation/30) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-0ff8a897d41bd8470459c11ff795b338]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2008/426/regulation/30) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
 [^f00015]: Footnote: S.I. [1983/1590](https://www.legislation.gov.uk/uksi/1983/1590).
 
-[^key-3c9b7057d33438ddb6f35c72acd7e518]: Textual amendment: Words in [reg. 30(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2008/426/regulation/30/3/a/ii) inserted (16.11.2009) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) (No. 2) Regulations 2009 (S.S.I. 2009/343)](https://www.legislation.gov.uk/ssi/2009/343), [regs. 1](https://www.legislation.gov.uk/ssi/2009/343/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2009/343/regulation/4/2/a)
+[^c-3c9b7057d33438ddb6f35c72acd7e518]: Textual amendment: Words in [reg. 30(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2008/426/regulation/30/3/a/ii) inserted (16.11.2009) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) (No. 2) Regulations 2009 (S.S.I. 2009/343)](https://www.legislation.gov.uk/ssi/2009/343), [regs. 1](https://www.legislation.gov.uk/ssi/2009/343/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2009/343/regulation/4/2/a)
 
-[^key-56880d218e5ac55485edafdb19a2b32e]: Textual amendment: Words in [reg. 30(3)(b)](https://www.legislation.gov.uk/ssi/2008/426/regulation/30/3/b) substituted (16.11.2009) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) (No. 2) Regulations 2009 (S.S.I. 2009/343)](https://www.legislation.gov.uk/ssi/2009/343), [regs. 1](https://www.legislation.gov.uk/ssi/2009/343/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2009/343/regulation/4/2/b)
+[^c-56880d218e5ac55485edafdb19a2b32e]: Textual amendment: Words in [reg. 30(3)(b)](https://www.legislation.gov.uk/ssi/2008/426/regulation/30/3/b) substituted (16.11.2009) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) (No. 2) Regulations 2009 (S.S.I. 2009/343)](https://www.legislation.gov.uk/ssi/2009/343), [regs. 1](https://www.legislation.gov.uk/ssi/2009/343/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2009/343/regulation/4/2/b)
 
-[^key-83afc7155947d3d9231261314776b723]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2008/426/schedule/1) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-83afc7155947d3d9231261314776b723]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2008/426/schedule/1) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-e119bd53b6023ea0bf6fbe13fba88b4a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2008/426/schedule/2) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-e119bd53b6023ea0bf6fbe13fba88b4a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2008/426/schedule/2) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-abe59c3fecb6f8674ffe75fa23823e11]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2008/426/schedule/3) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-abe59c3fecb6f8674ffe75fa23823e11]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2008/426/schedule/3) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
 
-[^key-951f1baede4b7904fc6ca343dbe6bc1b]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2008/426/schedule/4) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)
+[^c-951f1baede4b7904fc6ca343dbe6bc1b]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2008/426/schedule/4) in force at 28.2.2009, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2008/426/regulation/1/1)

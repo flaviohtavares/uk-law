@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.7. Urgent disposal procedure[^key-606931e54348dd508f0be9ed8ea1ccf5]
+## 6.7. Urgent disposal procedure[^c-606931e54348dd508f0be9ed8ea1ccf5]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ the appellant must seek urgent disposal.
 
 ## Annotations
 
-[^key-606931e54348dd508f0be9ed8ea1ccf5]: Commencement: Para. 6.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-606931e54348dd508f0be9ed8ea1ccf5]: Commencement: Para. 6.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00010]: Footnote: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36). Section 11 was amended by the Family Law (Scotland) Act [2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), section 24; the Adoption and Children (Scotland) Act [2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), section 107, schedule 2, paragraph 9(2) and schedule 3, paragraph 1; the Human Fertilisation and Embryology Act [2008 (c.22)](https://www.legislation.gov.uk/ukpga/2008/22), Schedule 6, paragraph 52; the Children (Scotland) Act [2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), section 15(2); [S.S.I. 2001/36](https://www.legislation.gov.uk/ssi/2001/36); [S.S.I. 2005/42](https://www.legislation.gov.uk/ssi/2005/42); [S.S.I. 2016/21](https://www.legislation.gov.uk/ssi/2016/21) and [S.I. 2018/1413](https://www.legislation.gov.uk/uksi/2018/1413).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Condemnation of food[^key-ce7b69d78730ba22b8a42d0d8d796ffd]
+## 6. Condemnation of food[^c-ce7b69d78730ba22b8a42d0d8d796ffd]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Where any food is certified by a food analyst as being food which it is an offen
 
 ## Annotations
 
-[^key-ce7b69d78730ba22b8a42d0d8d796ffd]: Commencement: Reg. 6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-ce7b69d78730ba22b8a42d0d8d796ffd]: Commencement: Reg. 6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

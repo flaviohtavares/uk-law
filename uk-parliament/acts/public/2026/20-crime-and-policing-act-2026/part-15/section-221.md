@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Data from electronic monitoring in England and Wales: code of practice[^key-c81ac8260cc05dfa18e6741475c4d147][^key-0b8f3a4a14c8181da1b2dff4a6aa3165]
+## 221. Data from electronic monitoring in England and Wales: code of practice[^c-c81ac8260cc05dfa18e6741475c4d147][^c-0b8f3a4a14c8181da1b2dff4a6aa3165]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Secretary of State must issue a code of practice relating to the processing 
 
 ## Annotations
 
-[^key-c81ac8260cc05dfa18e6741475c4d147]: Commencement: S. 221 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c81ac8260cc05dfa18e6741475c4d147]: Commencement: S. 221 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0b8f3a4a14c8181da1b2dff4a6aa3165]: Commencement: [S. 221](https://www.legislation.gov.uk/ukpga/2026/20/section/221) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z2)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z2)
+[^c-0b8f3a4a14c8181da1b2dff4a6aa3165]: Commencement: [S. 221](https://www.legislation.gov.uk/ukpga/2026/20/section/221) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z2)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z2)

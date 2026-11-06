@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.58. Security in court[^key-86a6550a47c2dde56616723f58906501]
+## 7.58. Security in court[^c-86a6550a47c2dde56616723f58906501]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86a6550a47c2dde56616723f58906501]: Commencement: [Rule 7.58](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.58) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-86a6550a47c2dde56616723f58906501]: Commencement: [Rule 7.58](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.58) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

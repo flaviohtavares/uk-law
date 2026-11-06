@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Withdrawal of pupils from religious instruction or religious observance in schools
 
-### 1. Withdrawal of pupils from religious instruction or religious observance in schools[^key-cfc1cf33d74b89f52c431cef385efd81]
+### 1. Withdrawal of pupils from religious instruction or religious observance in schools[^c-cfc1cf33d74b89f52c431cef385efd81]
 
 **Not yet in force.**
 
@@ -166,7 +166,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 2. Review of modifications made by section 1[^key-f597131a20905ff01cc7fbb7d4aae10e][^key-f597131a20905ff01cc7fbb7d4aae10e]
+### 2. Review of modifications made by section 1[^c-f597131a20905ff01cc7fbb7d4aae10e][^c-f597131a20905ff01cc7fbb7d4aae10e]
 
 (1) The Scottish Ministers must—
 
@@ -191,7 +191,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-### 3. United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024: circumstances where incompatible action or failure to act is not unlawful[^key-8269e81bfe116c0e62fdea8aa2c23563]
+### 3. United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024: circumstances where incompatible action or failure to act is not unlawful[^c-8269e81bfe116c0e62fdea8aa2c23563]
 
 (1) The United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 is modified as follows.
 
@@ -266,7 +266,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 3 — Final provisions
 
-### 4. Ancillary provision[^key-7d013e0b57e469850b4d90eb97db1d7a]
+### 4. Ancillary provision[^c-7d013e0b57e469850b4d90eb97db1d7a]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with, or for giving full effect to this Act.
 
@@ -280,7 +280,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) which add to, replace or omit any part of the text of an Act are subject to the affirmative procedure, but
 - (b) otherwise, are subject to the negative procedure.
 
-### 5. Commencement[^key-66b903823d902f04fd21de915f0c3480]
+### 5. Commencement[^c-66b903823d902f04fd21de915f0c3480]
 
 (1) This section and sections 4 and 6 come into force on the day after Royal Assent.
 
@@ -291,20 +291,20 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) include transitional, transitory or saving provision,
 - (b) make different provision for different purposes.
 
-### 6. Short title[^key-c4c5a8221333b796c0de01385342af59]
+### 6. Short title[^c-c4c5a8221333b796c0de01385342af59]
 
 The short title of this Act is the Children (Withdrawal from Religious Education and Amendment of UNCRC Compatibility Duty) (Scotland) Act 2026.
 
 ## Annotations
 
-[^key-cfc1cf33d74b89f52c431cef385efd81]: Commencement: S. 1 not in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/asp/2026/9/section/5/2)
+[^c-cfc1cf33d74b89f52c431cef385efd81]: Commencement: S. 1 not in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/asp/2026/9/section/5/2)
 
-[^key-f597131a20905ff01cc7fbb7d4aae10e]: Commencement: S. 2 in force at Royal Assent
+[^c-f597131a20905ff01cc7fbb7d4aae10e]: Commencement: S. 2 in force at Royal Assent
 
-[^key-8269e81bfe116c0e62fdea8aa2c23563]: Commencement: S. 3 not in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/asp/2026/9/section/5/2)
+[^c-8269e81bfe116c0e62fdea8aa2c23563]: Commencement: S. 3 not in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/asp/2026/9/section/5/2)
 
-[^key-7d013e0b57e469850b4d90eb97db1d7a]: Commencement: S. 4 in force at 3.4.2026, see [s. 5(1)](https://www.legislation.gov.uk/asp/2026/9/section/5/1)
+[^c-7d013e0b57e469850b4d90eb97db1d7a]: Commencement: S. 4 in force at 3.4.2026, see [s. 5(1)](https://www.legislation.gov.uk/asp/2026/9/section/5/1)
 
-[^key-66b903823d902f04fd21de915f0c3480]: Commencement: S. 5 in force at 3.4.2026, see [s. 5(1)](https://www.legislation.gov.uk/asp/2026/9/section/5/1)
+[^c-66b903823d902f04fd21de915f0c3480]: Commencement: S. 5 in force at 3.4.2026, see [s. 5(1)](https://www.legislation.gov.uk/asp/2026/9/section/5/1)
 
-[^key-c4c5a8221333b796c0de01385342af59]: Commencement: S. 6 in force at 3.4.2026, see [s. 5(1)](https://www.legislation.gov.uk/asp/2026/9/section/5/1)
+[^c-c4c5a8221333b796c0de01385342af59]: Commencement: S. 6 in force at 3.4.2026, see [s. 5(1)](https://www.legislation.gov.uk/asp/2026/9/section/5/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Establishment of an active member’s account[^key-af1285ef2be3d71f30e75a332288ad91]
+## 29. Establishment of an active member’s account[^c-af1285ef2be3d71f30e75a332288ad91]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A pension account must be established for each active member (“the active memb
 
 ## Annotations
 
-[^key-af1285ef2be3d71f30e75a332288ad91]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2014/2336/regulation/29) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-af1285ef2be3d71f30e75a332288ad91]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2014/2336/regulation/29) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Application to IPCC of provisions about investigation of offences[^key-85c8f98a36090c41d2943b41e455a6af]
+## 136. Application to IPCC of provisions about investigation of offences[^c-85c8f98a36090c41d2943b41e455a6af]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85c8f98a36090c41d2943b41e455a6af]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2014/12/section/136) in force at 1.10.2014 by [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2454/article/3/a)
+[^c-85c8f98a36090c41d2943b41e455a6af]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2014/12/section/136) in force at 1.10.2014 by [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2454/article/3/a)

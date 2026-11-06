@@ -34,7 +34,7 @@ Taxes
 
 Tonnage Tax
 
-The Tonnage Tax (Training Requirement) (Amendment) Regulations 2013 (revoked)[^key-13fc72b333341f86bc1b2f6c2435c869]
+The Tonnage Tax (Training Requirement) (Amendment) Regulations 2013 (revoked)[^c-13fc72b333341f86bc1b2f6c2435c869]
 
 Made
 
@@ -48,32 +48,32 @@ Coming into force
 
 1st February 2013
 
-[^key-13fc72b333341f86bc1b2f6c2435c869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13fc72b333341f86bc1b2f6c2435c869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-13fc72b333341f86bc1b2f6c2435c869]
+## 1. Citation and Commencement[^c-13fc72b333341f86bc1b2f6c2435c869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-13fc72b333341f86bc1b2f6c2435c869]
+## 2. Application[^c-13fc72b333341f86bc1b2f6c2435c869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payments in lieu of training[^key-13fc72b333341f86bc1b2f6c2435c869]
+## 3. Payments in lieu of training[^c-13fc72b333341f86bc1b2f6c2435c869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-13fc72b333341f86bc1b2f6c2435c869]
+## 4. Revocation[^c-13fc72b333341f86bc1b2f6c2435c869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-13fc72b333341f86bc1b2f6c2435c869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13fc72b333341f86bc1b2f6c2435c869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-13fc72b333341f86bc1b2f6c2435c869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13fc72b333341f86bc1b2f6c2435c869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-13fc72b333341f86bc1b2f6c2435c869]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/5) revoked (with application in accordance with reg. 2 of the amending S.I.) by [The Tonnage Tax (Training Requirement) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2245)](https://www.legislation.gov.uk/uksi/2013/2245), [reg. 4](https://www.legislation.gov.uk/uksi/2013/2245/regulation/4)
+[^c-13fc72b333341f86bc1b2f6c2435c869]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/5) revoked (with application in accordance with reg. 2 of the amending S.I.) by [The Tonnage Tax (Training Requirement) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2245)](https://www.legislation.gov.uk/uksi/2013/2245), [reg. 4](https://www.legislation.gov.uk/uksi/2013/2245/regulation/4)

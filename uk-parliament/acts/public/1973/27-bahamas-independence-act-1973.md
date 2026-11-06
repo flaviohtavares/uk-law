@@ -97,7 +97,7 @@ and subsection (1) of this section shall not apply to a person by virtue of any 
 
 (1)[^c702212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-a7ec622f8b5b398af99c76d0b4e6e315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a7ec622f8b5b398af99c76d0b4e6e315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) On and after the appointed day the provisions specified in Schedule 2 to this Act shall have effect subject to the amendments specified respectively in that Schedule.
 
@@ -199,7 +199,7 @@ and, until express provision with respect to the Bahamas is made by an Order in 
 
 [^c702212]: Textual amendment: S. 4(1) repealed by [Interpretation Act 1978 (c. 30, SIF 115:1)](https://www.legislation.gov.uk/ukpga/1978/30), [Sch. 3](https://www.legislation.gov.uk/ukpga/1978/30/schedule/3)
 
-[^key-a7ec622f8b5b398af99c76d0b4e6e315]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1973/27/section/4/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a7ec622f8b5b398af99c76d0b4e6e315]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1973/27/section/4/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c702218]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1973/27/section/5) repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. XI](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/XI)
 

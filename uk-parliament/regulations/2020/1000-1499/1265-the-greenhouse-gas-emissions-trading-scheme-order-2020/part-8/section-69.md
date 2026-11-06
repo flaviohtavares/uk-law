@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Interpretation[^key-6632daf97eb38a15a37a3dbf5d845015]
+## 69. Interpretation[^c-6632daf97eb38a15a37a3dbf5d845015]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In this Part—
 
 ## Annotations
 
-[^key-6632daf97eb38a15a37a3dbf5d845015]: Commencement: Art. 69 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-6632daf97eb38a15a37a3dbf5d845015]: Commencement: Art. 69 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

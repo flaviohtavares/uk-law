@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Arrangements for mutual exchange of tax information[^key-c30f081e9e5556a8f5eae510724c9d00]
+## 198. Arrangements for mutual exchange of tax information[^c-c30f081e9e5556a8f5eae510724c9d00]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c30f081e9e5556a8f5eae510724c9d00]: Textual amendment: [S. 198](https://www.legislation.gov.uk/ukpga/2003/14/section/198) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 8(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/8/2)
+[^c-c30f081e9e5556a8f5eae510724c9d00]: Textual amendment: [S. 198](https://www.legislation.gov.uk/ukpga/2003/14/section/198) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 8(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/8/2)

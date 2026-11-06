@@ -24,7 +24,7 @@ Article 4
 
 ### PART 1
 
-#### 1. Meaning of marriage and related expressions: Scotland[^key-9b11498601ebeb73e9129c5ee2c9ccc6]
+#### 1. Meaning of marriage and related expressions: Scotland[^c-9b11498601ebeb73e9129c5ee2c9ccc6]
 
 (1) In the reserved law of Scotland, marriage has the same effect in relation to same sex couples as it has in relation to opposite sex couples.
 
@@ -44,7 +44,7 @@ Article 4
 
 ### PART 2 — GENERAL INTERPRETATION
 
-#### 2. Interpretation: existing Scottish legislation[^key-e530c0c7246367ecfa95b62257da668f]
+#### 2. Interpretation: existing Scottish legislation[^c-e530c0c7246367ecfa95b62257da668f]
 
 (1) In existing Scottish legislation—
 
@@ -70,7 +70,7 @@ Article 4
 
 (7) This paragraph does not limit paragraph 1(1) or 1(2).
 
-#### 3. Interpretation: new Scottish legislation[^key-8030ac35482a0dd6f94984fbb94eaa23]
+#### 3. Interpretation: new Scottish legislation[^c-8030ac35482a0dd6f94984fbb94eaa23]
 
 (1) This paragraph applies to provision made by—
 
@@ -103,7 +103,7 @@ and related expressions are to be construed accordingly.
 
 (6) This paragraph does not limit paragraph 1(1) or (2).
 
-#### 4. Definitions[^key-293662310226776862605d7d59dd5da9]
+#### 4. Definitions[^c-293662310226776862605d7d59dd5da9]
 
 In this Schedule—
 
@@ -116,10 +116,10 @@ In this Schedule—
 
 ## Annotations
 
-[^key-9b11498601ebeb73e9129c5ee2c9ccc6]: Commencement: Sch. 1 para. 1 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-9b11498601ebeb73e9129c5ee2c9ccc6]: Commencement: Sch. 1 para. 1 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
-[^key-e530c0c7246367ecfa95b62257da668f]: Commencement: Sch. 1 para. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-e530c0c7246367ecfa95b62257da668f]: Commencement: Sch. 1 para. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
-[^key-8030ac35482a0dd6f94984fbb94eaa23]: Commencement: Sch. 1 para. 3 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-8030ac35482a0dd6f94984fbb94eaa23]: Commencement: Sch. 1 para. 3 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
-[^key-293662310226776862605d7d59dd5da9]: Commencement: Sch. 1 para. 4 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-293662310226776862605d7d59dd5da9]: Commencement: Sch. 1 para. 4 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

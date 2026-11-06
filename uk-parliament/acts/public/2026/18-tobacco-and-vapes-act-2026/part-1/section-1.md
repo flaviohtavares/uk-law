@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Sale of tobacco etc[^key-dbee61247c89cf72aa72f6c411c6a96c][^key-17e02511a48df23f876378c6a0a00df7]
+## 1. Sale of tobacco etc[^c-dbee61247c89cf72aa72f6c411c6a96c][^c-17e02511a48df23f876378c6a0a00df7]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dbee61247c89cf72aa72f6c411c6a96c]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-dbee61247c89cf72aa72f6c411c6a96c]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-17e02511a48df23f876378c6a0a00df7]: Commencement: S. 1 in force at 1.1.2027 in so far as not already in force, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)
+[^c-17e02511a48df23f876378c6a0a00df7]: Commencement: S. 1 in force at 1.1.2027 in so far as not already in force, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)

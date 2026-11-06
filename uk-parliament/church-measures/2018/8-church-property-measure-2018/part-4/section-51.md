@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 51. Transitional and saving provision[^key-6064285d198f8cb18d48449c8a918b80]
+## 51. Transitional and saving provision[^c-6064285d198f8cb18d48449c8a918b80]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Schedule 2 (which contains transitional and saving provision) has effect.
 
 ## Annotations
 
-[^key-6064285d198f8cb18d48449c8a918b80]: Commencement: [S. 51](https://www.legislation.gov.uk/ukcm/2018/8/section/51) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-6064285d198f8cb18d48449c8a918b80]: Commencement: [S. 51](https://www.legislation.gov.uk/ukcm/2018/8/section/51) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

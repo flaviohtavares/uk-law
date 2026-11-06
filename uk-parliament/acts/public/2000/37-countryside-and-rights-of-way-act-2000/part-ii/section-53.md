@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Extinguishment of unrecorded rights of way : England.[^key-ac38f716be60e48be43900331f37f85f][^key-31b58be404895dc7e24e09236ebcbd4e]
+## 53. Extinguishment of unrecorded rights of way : England.[^c-ac38f716be60e48be43900331f37f85f][^c-31b58be404895dc7e24e09236ebcbd4e]
 
 *Extent: E+W*
 
-(1) Subsection (2) applies to a highway in England[^key-64dfb0f02fe75920af9cee640d0e186a] if—
+(1) Subsection (2) applies to a highway in England[^c-64dfb0f02fe75920af9cee640d0e186a] if—
 
 - (a) it was on 1st January 1949 a footpath or a bridleway, is on the cut-off date (in either case) a footpath or a bridleway, and between those dates has not been a highway of any other description,
 - (b) it is not on the cut-off date shown in a definitive map and statement as a highway of any description, and
@@ -28,7 +28,7 @@ summary: ''
 
 (2) All public rights of way over a highway to which this subsection applies shall be extinguished immediately after the cut-off date.
 
-(3) Where a public right of way over land in England[^key-8dd2d0aeb51927fa5b4e810be74ceb77] created before 1949—
+(3) Where a public right of way over land in England[^c-8dd2d0aeb51927fa5b4e810be74ceb77] created before 1949—
 
 - (a) falls within subsection (4) on the cut-off date, and
 - (b) is not on that date an excepted right of way, as defined by section 54(5),
@@ -60,13 +60,13 @@ any diversion, widening or extension of the highway on or after that date (and n
 
 ## Annotations
 
-[^key-ac38f716be60e48be43900331f37f85f]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2000/37/section/53) in force at 25.10.2023 for E. by [S.I. 2023/1121](https://www.legislation.gov.uk/uksi/2023/1121), [art. 2](https://www.legislation.gov.uk/uksi/2023/1121/article/2)
+[^c-ac38f716be60e48be43900331f37f85f]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2000/37/section/53) in force at 25.10.2023 for E. by [S.I. 2023/1121](https://www.legislation.gov.uk/uksi/2023/1121), [art. 2](https://www.legislation.gov.uk/uksi/2023/1121/article/2)
 
-[^key-31b58be404895dc7e24e09236ebcbd4e]: Textual amendment: Word in s. 53 heading inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(2)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/2/c)
+[^c-31b58be404895dc7e24e09236ebcbd4e]: Textual amendment: Word in s. 53 heading inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(2)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/2/c)
 
-[^key-64dfb0f02fe75920af9cee640d0e186a]: Textual amendment: Words in s. 53(1) inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(2)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/2/a)
+[^c-64dfb0f02fe75920af9cee640d0e186a]: Textual amendment: Words in s. 53(1) inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(2)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/2/a)
 
-[^key-8dd2d0aeb51927fa5b4e810be74ceb77]: Textual amendment: Words in s. 53(3) inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(2)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/2/b)
+[^c-8dd2d0aeb51927fa5b4e810be74ceb77]: Textual amendment: Words in s. 53(3) inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 54(2)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/54/2/b)
 
 [^c1057054]: Marginal citation: [1968 c. 41](https://www.legislation.gov.uk/ukpga/1968/41).
 

@@ -27,10 +27,10 @@ summary: ''
 - (a) to make different provision for different cases, and
 - (b) to make such incidental, supplementary, consequential or transitional provision as the person making the order or regulations considers necessary or expedient.
 
-(3) No order under section 3 or 3A(1)[^key-7f7a663fb0e3fdc8f174f38e13b75c94] or regulations under paragraph 3 of Schedule 2 shall be made by the Secretary of State unless a draft has been laid before, and approved by a resolution of, each House of Parliament.
+(3) No order under section 3 or 3A(1)[^c-7f7a663fb0e3fdc8f174f38e13b75c94] or regulations under paragraph 3 of Schedule 2 shall be made by the Secretary of State unless a draft has been laid before, and approved by a resolution of, each House of Parliament.
 
 (4) Any statutory instrument containing regulations made by the Secretary of State under any other provision of this Part shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 ## Annotations
 
-[^key-7f7a663fb0e3fdc8f174f38e13b75c94]: Textual amendment: Words in [s. 44(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/44/3) inserted (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 303(8)](https://www.legislation.gov.uk/ukpga/2009/23/section/303/8), [324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
+[^c-7f7a663fb0e3fdc8f174f38e13b75c94]: Textual amendment: Words in [s. 44(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/44/3) inserted (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 303(8)](https://www.legislation.gov.uk/ukpga/2009/23/section/303/8), [324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))

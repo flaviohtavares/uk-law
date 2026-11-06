@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Electronic service etc[^key-25af37444fdf84ec4c27896497bfedf4]
+## 105. Electronic service etc[^c-25af37444fdf84ec4c27896497bfedf4]
 
 *Extent: E+W*
 
@@ -132,4 +132,4 @@ was published before this section came into force.
 
 ## Annotations
 
-[^key-25af37444fdf84ec4c27896497bfedf4]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2025/34/section/105) in force at 18.2.2026, see [s. 118(5)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/a)
+[^c-25af37444fdf84ec4c27896497bfedf4]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2025/34/section/105) in force at 18.2.2026, see [s. 118(5)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/a)

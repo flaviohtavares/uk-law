@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Benefit of Order[^key-5f3834eda8eb5f197eb42c01101411cb]
+## 46. Benefit of Order[^c-5f3834eda8eb5f197eb42c01101411cb]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ unless the Secretary of State consents to the transfer of the benefit of those p
 
 - (a) article 19 (authority to survey and investigate the land);
 - (b) article 20 (protective works);
-- (c) article 31[^key-86e3bdab29efe6fecaa188feeb919b5e] (temporary use of land for constructing the authorised project); and
+- (c) article 31[^c-86e3bdab29efe6fecaa188feeb919b5e] (temporary use of land for constructing the authorised project); and
 - (d) article 32 (temporary use of land for maintaining the authorised project),
 
 unless the Secretary of State consents to the transfer of the benefit of those provisions.
@@ -67,7 +67,7 @@ unless the Secretary of State consents to the transfer of the benefit of those p
 - (c) a water undertaker or sewerage undertaker for the purposes of the Water Act 1989; or
 - (d) the operator of an electronic communications code network.
 
-(10) Where the Company has [^key-20db4e56f67b706ed81e8e3396a3f92d]... the benefit of any provision of this Order it may pursuant to this paragraph—
+(10) Where the Company has [^c-20db4e56f67b706ed81e8e3396a3f92d]... the benefit of any provision of this Order it may pursuant to this paragraph—
 
 - (a) transfer to Air Products any or all of the benefit of the provision (excluding the deemed marine licence) and such related statutory rights as may be agreed between the undertaker and that person; and
 - (b) grant to Air Products for a period agreed between the undertaker and that person any or all of the benefit of the provision (excluding the deemed marine licence) and such related statutory rights as may be so agreed between the undertaker and that person,
@@ -120,7 +120,7 @@ and providing a copy of the consent given by the Secretary of State to the trans
 
 - (a) article 19 (authority to survey and investigate the land);
 - (b) article 20 (protective works);
-- (c) article 31[^key-67b7a489713bced50591c2121fc920bd] (temporary use of land for constructing the authorised project); or
+- (c) article 31[^c-67b7a489713bced50591c2121fc920bd] (temporary use of land for constructing the authorised project); or
 - (d) article 32 (temporary use of land for maintaining the authorised project),
 
 each may exercise the powers conferred by the article in question on its terms at the same time on such terms as they may agree with each other in writing; and the exercise of such a power by one on its terms does not prevent subsequent exercise of it on its terms by the other.
@@ -132,10 +132,10 @@ each may exercise the powers conferred by the article in question on its terms a
 
 ## Annotations
 
-[^key-5f3834eda8eb5f197eb42c01101411cb]: Commencement: Art. 46 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-5f3834eda8eb5f197eb42c01101411cb]: Commencement: Art. 46 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-86e3bdab29efe6fecaa188feeb919b5e]: Textual amendment: Words in [art. 46(3)(c)](https://www.legislation.gov.uk/uksi/2025/165/article/46/3/c) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-86e3bdab29efe6fecaa188feeb919b5e]: Textual amendment: Words in [art. 46(3)(c)](https://www.legislation.gov.uk/uksi/2025/165/article/46/3/c) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
 
-[^key-20db4e56f67b706ed81e8e3396a3f92d]: Textual amendment: Word in [art. 46(10)](https://www.legislation.gov.uk/uksi/2025/165/article/46/10) omitted (2.7.2025) by virtue of [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-20db4e56f67b706ed81e8e3396a3f92d]: Textual amendment: Word in [art. 46(10)](https://www.legislation.gov.uk/uksi/2025/165/article/46/10) omitted (2.7.2025) by virtue of [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
 
-[^key-67b7a489713bced50591c2121fc920bd]: Textual amendment: Words in [art. 46(20)(c)](https://www.legislation.gov.uk/uksi/2025/165/article/46/20/c) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-67b7a489713bced50591c2121fc920bd]: Textual amendment: Words in [art. 46(20)(c)](https://www.legislation.gov.uk/uksi/2025/165/article/46/20/c) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)

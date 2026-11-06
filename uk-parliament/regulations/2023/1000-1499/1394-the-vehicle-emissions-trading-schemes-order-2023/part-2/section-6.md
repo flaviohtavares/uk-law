@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Administration of the Trading Schemes[^key-464a41fc4d5c5b0bdbd226c315f51171]
+## 6. Administration of the Trading Schemes[^c-464a41fc4d5c5b0bdbd226c315f51171]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-464a41fc4d5c5b0bdbd226c315f51171]: Commencement: Art. 6 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-464a41fc4d5c5b0bdbd226c315f51171]: Commencement: Art. 6 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

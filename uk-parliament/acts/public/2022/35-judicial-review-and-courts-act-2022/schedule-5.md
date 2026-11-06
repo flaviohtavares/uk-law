@@ -24,7 +24,7 @@ Section 34
 
 ### Part 1 — Making and content of Employment Tribunal Procedure Rules
 
-**1.**[^key-61b59f3d902933508a225dcd045a42aa][^key-f158ffeb8d91629034fed552ad890e07] In the Employment Tribunals Act 1996, before Schedule 1 insert—
+**1.**[^c-61b59f3d902933508a225dcd045a42aa][^c-f158ffeb8d91629034fed552ad890e07] In the Employment Tribunals Act 1996, before Schedule 1 insert—
 
 > **Schedule A1 — Procedure Rules**
 >
@@ -205,11 +205,11 @@ Section 34
 
 ### Part 2 — Other amendments of the Employment Tribunals Act 1996
 
-#### 2. Introduction[^key-eebd7b70a299bd50a0719296e5a26150][^key-34adbd14bdd8f2a86cfc4a74dc73e0e3]
+#### 2. Introduction[^c-eebd7b70a299bd50a0719296e5a26150][^c-34adbd14bdd8f2a86cfc4a74dc73e0e3]
 
 The Employment Tribunals Act 1996 is amended as follows.
 
-#### 3. Employment tribunals[^key-46730798b60b01fdc744ea94d479e7c4][^key-d5795d01b81f92b3dbadd408d0b6936f]
+#### 3. Employment tribunals[^c-46730798b60b01fdc744ea94d479e7c4][^c-d5795d01b81f92b3dbadd408d0b6936f]
 
 (1) Section 7A (practice directions) is amended as follows.
 
@@ -225,7 +225,7 @@ The Employment Tribunals Act 1996 is amended as follows.
 
 (6) In subsection (2C), for “(1)(a)” substitute “(1)”.
 
-**4.**[^key-0e51de62e0a9397c0249fd7c691a8b2a][^M_I_2091842f-79a8-45ae-e80c-9886ae01f774] (1) Section 7B (mediation) is amended as follows.
+**4.**[^c-0e51de62e0a9397c0249fd7c691a8b2a][^M_I_2091842f-79a8-45ae-e80c-9886ae01f774] (1) Section 7B (mediation) is amended as follows.
 
 (2) Before subsection (1) insert—
 
@@ -241,7 +241,7 @@ The Employment Tribunals Act 1996 is amended as follows.
 - (a) for “included in employment tribunal procedure regulations” substitute “made”;
 - (b) omit “enabling practice directions to provide for”.
 
-**5.**[^key-b3b681f6f73544e990b3b2a3d0684780][^M_I_a9172f25-8f63-4849-deb1-cdb11e878ebc] (1) Section 9 (pre-hearing reviews) is amended as follows.
+**5.**[^c-b3b681f6f73544e990b3b2a3d0684780][^M_I_a9172f25-8f63-4849-deb1-cdb11e878ebc] (1) Section 9 (pre-hearing reviews) is amended as follows.
 
 (2) For the heading substitute “Preliminary hearings”.
 
@@ -277,7 +277,7 @@ The Employment Tribunals Act 1996 is amended as follows.
 
 > (5) In this section “**preliminary hearing**” means a hearing in any proceedings before an employment tribunal which takes place at a time before a hearing held for the purpose of determining them.
 
-**6.**[^key-5d6abd3d34ecf02280a6e8ddec8c3bb8][^M_I_5a7dd5d4-1b1a-452d-8e9f-be3a964c4736] (1) Section 10 (national security) is amended as follows.
+**6.**[^c-5d6abd3d34ecf02280a6e8ddec8c3bb8][^M_I_5a7dd5d4-1b1a-452d-8e9f-be3a964c4736] (1) Section 10 (national security) is amended as follows.
 
 (2) In subsections (2), (5) and (6), omit “Employment tribunal procedure”.
 
@@ -287,23 +287,23 @@ The Employment Tribunals Act 1996 is amended as follows.
 
 > (10) Regulations under this section are to be made by the Lord Chancellor.
 
-**7.**[^key-06682847ef1c01f7c55d6ced1194a3e8][^M_I_48e07483-ce11-486b-cd38-b71466a34096] Omit section 10A (confidential information).
+**7.**[^c-06682847ef1c01f7c55d6ced1194a3e8][^M_I_48e07483-ce11-486b-cd38-b71466a34096] Omit section 10A (confidential information).
 
-**8.**[^key-1dd9ae6fe145d1f96a88e55a3aa550b7][^M_I_5385ab66-f3f3-415d-da28-67a2d942db18] In section 11 (restriction of publicity in cases involving sexual misconduct)—
+**8.**[^c-1dd9ae6fe145d1f96a88e55a3aa550b7][^M_I_5385ab66-f3f3-415d-da28-67a2d942db18] In section 11 (restriction of publicity in cases involving sexual misconduct)—
 
 - (a) in subsection (1), for “Employment tribunal procedure regulations” substitute “Procedure Rules”;
 - (b) in subsection (6), in paragraph (a) of the definition of “restricted reporting order”, for “regulations made by virtue of this section” substitute “Procedure Rules of the kind mentioned in subsection (1)(b)”.
 
-**9.**[^key-c3aa1bfe1127bfaab7ac3bb6b099e679][^M_I_b54101bd-7771-4ce7-e20a-44da9e673fa7] In section 12 (restriction of publicity in disability cases)—
+**9.**[^c-c3aa1bfe1127bfaab7ac3bb6b099e679][^M_I_b54101bd-7771-4ce7-e20a-44da9e673fa7] In section 12 (restriction of publicity in disability cases)—
 
 - (a) in subsection (2), for “Employment tribunal procedure regulations” substitute “Procedure Rules”;
 - (b) in subsection (7)—
   - (i) in the definition of “promulgation”, for “regulations made by virtue” substitute “Procedure Rules made for the purposes”;
   - (ii) in paragraph (a) of the definition of “restricted reporting order”, for “regulations made by virtue of this section” substitute “Procedure Rules of the kind mentioned in subsection (2)(a)”.
 
-**10.**[^key-dea8c0994331bddc55e128644c9023c6][^M_I_367e102f-3c0a-44bb-c6b0-c021b8df229e] In section 12A(9) (subsequent award of compensation not to necessitate review of financial penalties), in the words before paragraph (a), after “be” insert “reconsidered or”.
+**10.**[^c-dea8c0994331bddc55e128644c9023c6][^M_I_367e102f-3c0a-44bb-c6b0-c021b8df229e] In section 12A(9) (subsequent award of compensation not to necessitate review of financial penalties), in the words before paragraph (a), after “be” insert “reconsidered or”.
 
-**11.**[^key-17fcca081f172022645369f302108c45][^M_I_d25cdf27-bc50-4e4c-d56b-511e656794cb] (1) Section 13 (costs and expenses) is amended as follows.
+**11.**[^c-17fcca081f172022645369f302108c45][^M_I_d25cdf27-bc50-4e4c-d56b-511e656794cb] (1) Section 13 (costs and expenses) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -330,7 +330,7 @@ The Employment Tribunals Act 1996 is amended as follows.
 
 (8) In subsection (4)(a), for “the regulations” substitute “Procedure Rules”.
 
-**12.**[^key-7830bbb91533b9aad266b5b2f279ca9c][^M_I_29b4c279-f0a9-4b27-aa9f-1b806f38fa85] (1) Section 13A (payments in respect of preparation time) is amended as follows.
+**12.**[^c-7830bbb91533b9aad266b5b2f279ca9c][^M_I_29b4c279-f0a9-4b27-aa9f-1b806f38fa85] (1) Section 13A (payments in respect of preparation time) is amended as follows.
 
 (2) In subsection (1), for “Employment tribunal procedure regulations” substitute “Procedure Rules”.
 
@@ -358,14 +358,14 @@ The Employment Tribunals Act 1996 is amended as follows.
 
 **Not yet in force.**
 
-**13.**[^key-ad3bf7dd21aeb076a34befaae2fe333b] In section 14 (interest), in subsections (1) and (3)(f), for “Secretary of State” substitute “Lord Chancellor”.
+**13.**[^c-ad3bf7dd21aeb076a34befaae2fe333b] In section 14 (interest), in subsections (1) and (3)(f), for “Secretary of State” substitute “Lord Chancellor”.
 
-**14.**[^key-2fad4a1231cf62ca45d3db0aa6e669f5][^M_I_e3ba26ed-2091-48e3-8798-802f2bcfec87] In section 15 (enforcement)—
+**14.**[^c-2fad4a1231cf62ca45d3db0aa6e669f5][^M_I_e3ba26ed-2091-48e3-8798-802f2bcfec87] In section 15 (enforcement)—
 
 - (a) in subsection (1), for “employment tribunal procedure regulations” substitute “Procedure Rules”;
 - (b) in subsection (3), in paragraphs (a) and (b), after “being” insert “reconsidered or”.
 
-**15.**[^key-42517fe04beb520f43700bb82262138e][^M_I_e2f737b8-5993-44c2-c94b-34b26135173d] (1) Section 18A (requirement to contact ACAS before instituting proceedings) is amended as follows.
+**15.**[^c-42517fe04beb520f43700bb82262138e][^M_I_e2f737b8-5993-44c2-c94b-34b26135173d] (1) Section 18A (requirement to contact ACAS before instituting proceedings) is amended as follows.
 
 (2) In subsection (10), for “employment tribunal procedure regulations” substitute “regulations made by the Secretary of State”.
 
@@ -376,11 +376,11 @@ The Employment Tribunals Act 1996 is amended as follows.
 - (a) in the words before paragraph (a), for “Employment tribunal procedure regulations” substitute “The regulations”;
 - (b) in paragraph (a), for “such regulations” substitute “the regulations”.
 
-**16.**[^key-63239d9cd366cf91eff6d0e9ee440137][^M_I_32006f3c-9fff-419b-f326-f72ba7dcae56] In section 19(1) (conciliation procedure), for “Employment tribunal procedure regulations shall” substitute “Procedure Rules must”.
+**16.**[^c-63239d9cd366cf91eff6d0e9ee440137][^M_I_32006f3c-9fff-419b-f326-f72ba7dcae56] In section 19(1) (conciliation procedure), for “Employment tribunal procedure regulations shall” substitute “Procedure Rules must”.
 
-**17.**[^key-ba31d0b8fd96dccf1efd71408328f4e6][^M_I_c0a586ae-6e13-448c-b95a-fc1019226bbb] In section 19A(9) (power to provide time limits for certain applications about settlement sums), for “Employment tribunal procedure regulations” substitute “Procedure Rules”.
+**17.**[^c-ba31d0b8fd96dccf1efd71408328f4e6][^M_I_c0a586ae-6e13-448c-b95a-fc1019226bbb] In section 19A(9) (power to provide time limits for certain applications about settlement sums), for “Employment tribunal procedure regulations” substitute “Procedure Rules”.
 
-#### 18. Employment Appeal Tribunal[^key-2590ea1abb7a2ed321bb4821c1874c21][^key-19211801e02a5cb6c260b9db03ff5f01]
+#### 18. Employment Appeal Tribunal[^c-2590ea1abb7a2ed321bb4821c1874c21][^c-19211801e02a5cb6c260b9db03ff5f01]
 
 In section 29A (practice directions)—
 
@@ -389,7 +389,7 @@ In section 29A (practice directions)—
 
 **Not yet in force.**
 
-**19.**[^key-45dab3469c51ee1431b3a40591df615d] After section 30 insert—
+**19.**[^c-45dab3469c51ee1431b3a40591df615d] After section 30 insert—
 
 > **30A. National security**
 >
@@ -417,14 +417,14 @@ In section 29A (practice directions)—
 
 **Not yet in force.**
 
-**20.**[^key-29bd82169563af7218e0f3fbea843b44] In section 31 (restriction of publicity in cases involving sexual misconduct)—
+**20.**[^c-29bd82169563af7218e0f3fbea843b44] In section 31 (restriction of publicity in cases involving sexual misconduct)—
 
 - (a) in subsection (1), for “Appeal Tribunal procedure rules” substitute “Procedure Rules”;
 - (b) in subsection (7)(a)(i), for “rules made by virtue of this section” substitute “Procedure Rules of the kind mentioned in subsection (1)(b)”.
 
 **Not yet in force.**
 
-**21.**[^key-9cd0cec9826ab8a06644a776946b8031] In section 32 (restriction of publicity in disability cases)—
+**21.**[^c-9cd0cec9826ab8a06644a776946b8031] In section 32 (restriction of publicity in disability cases)—
 
 - (a) in subsection (2), for “Appeal Tribunal procedure rules” substitute “Procedure Rules”;
 - (b) in subsection (7)(b)(i), for “rules made by virtue of this section” substitute “Procedure Rules of the kind mentioned in subsection (2)(a)”;
@@ -432,7 +432,7 @@ In section 29A (practice directions)—
 
 **Not yet in force.**
 
-**22.**[^key-2bedae2fabb9178ca7ef18c248868c67] (1) Section 34 (costs and expenses) is amended as follows.
+**22.**[^c-2bedae2fabb9178ca7ef18c248868c67] (1) Section 34 (costs and expenses) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -444,11 +444,11 @@ In section 29A (practice directions)—
 
 (5) In subsection (4), for “Appeal Tribunal procedure rules may also” substitute “Procedure Rules may, in particular,”.
 
-#### 23. General[^key-a954356453ce9ea9321ff65e508e4617][^key-c0e6a6ab85f5daac1ff4d943b13ed82f]
+#### 23. General[^c-a954356453ce9ea9321ff65e508e4617][^c-c0e6a6ab85f5daac1ff4d943b13ed82f]
 
 In the heading of Part 3, at the beginning insert “General and”.
 
-**24.**[^key-cb445ff4ca23d74cefd6b325f0c766d9][^key-97d0b7fa82279ced11864f96387a9979] After section 37QA (inserted by section 34(4) of this Act) insert—
+**24.**[^c-cb445ff4ca23d74cefd6b325f0c766d9][^c-97d0b7fa82279ced11864f96387a9979] After section 37QA (inserted by section 34(4) of this Act) insert—
 
 > **37QB. Power to amend legislation in connection with Procedure Rules**
 >
@@ -462,7 +462,7 @@ In the heading of Part 3, at the beginning insert “General and”.
 >
 > (2) In subsection (1) “**enactment**” means any enactment whenever passed or made, including an enactment comprised in subordinate legislation within the meaning of the Interpretation Act 1978.
 
-**25.**[^key-31b36a2bf4ea1da714e72e9d7bc3bd3d][^M_I_b666bdef-00d4-4d35-90de-e8cdcf020e6a] (1) Section 41 (orders, regulations and rules) is amended as follows.
+**25.**[^c-31b36a2bf4ea1da714e72e9d7bc3bd3d][^M_I_b666bdef-00d4-4d35-90de-e8cdcf020e6a] (1) Section 41 (orders, regulations and rules) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -494,7 +494,7 @@ In the heading of Part 3, at the beginning insert “General and”.
 
 > (5) This section does not apply in relation to Procedure Rules (the procedure for which is provided for by Schedule A1).
 
-**26.**[^key-e67ccf70ce61d47dede310c9cb683766][^key-d3147ad1a2ac6a90dd5142907ba2e0c6] In section 42(1) (definition of terms)—
+**26.**[^c-e67ccf70ce61d47dede310c9cb683766][^c-d3147ad1a2ac6a90dd5142907ba2e0c6] In section 42(1) (definition of terms)—
 
 - (a) omit the definitions of “Appeal Tribunal procedure rules” and “employment tribunal procedure regulations”;
 - (b) at the appropriate place insert—
@@ -511,19 +511,19 @@ In the heading of Part 3, at the beginning insert “General and”.
 
 ### Part 3 — Related amendments of other legislation
 
-#### 27. Employment Rights Act 1996[^key-e27b02e537d4bf5d9ca1600c7d5154f2][^key-8342d834a22bc56957794a2edaf22d6e]
+#### 27. Employment Rights Act 1996[^c-e27b02e537d4bf5d9ca1600c7d5154f2][^c-8342d834a22bc56957794a2edaf22d6e]
 
 In section 163 of the Employment Rights Act 1996 (references to employment tribunals about redundancy payments), after subsection (5) insert—
 
 > (6) Where in accordance with Employment Tribunal Procedure Rules an employment tribunal determines in the same proceedings a complaint presented under section 111 (unfair dismissal) and a question referred under this section, subsection (2) has no effect for the purposes of the proceedings in so far as they relate to the complaint under section 111.
 
-#### 28. Tribunals, Courts and Enforcement Act 2007[^key-e5a7153595cc572db646518adf50b581][^key-a8701b0397de233faa757654914a89c5]
+#### 28. Tribunals, Courts and Enforcement Act 2007[^c-e5a7153595cc572db646518adf50b581][^c-a8701b0397de233faa757654914a89c5]
 
 In section 8(2) of the Tribunals, Courts and Enforcement Act 2007 (functions of the Senior President of Tribunals not capable of delegation under that section), at the end insert—
 
 > paragraph 2 of Schedule A1 to the Employment Tribunals Act 1996.
 
-**29.**[^key-07a909c8288374af211dbcfb05b61b50][^M_I_611f05cc-90f0-40c9-fabc-6443828f9efe] (1) Schedule 5 to the Tribunals, Courts and Enforcement Act 2007 (which, among other things, deals with membership of the Tribunals Procedure Committee) is amended as follows.
+**29.**[^c-07a909c8288374af211dbcfb05b61b50][^M_I_611f05cc-90f0-40c9-fabc-6443828f9efe] (1) Schedule 5 to the Tribunals, Courts and Enforcement Act 2007 (which, among other things, deals with membership of the Tribunals Procedure Committee) is amended as follows.
 
 (2) In paragraph 21 (Lord Chancellor’s appointees)—
 
@@ -546,108 +546,108 @@ In section 8(2) of the Tribunals, Courts and Enforcement Act 2007 (functions of 
 
 ## Annotations
 
-[^key-61b59f3d902933508a225dcd045a42aa]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-61b59f3d902933508a225dcd045a42aa]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-f158ffeb8d91629034fed552ad890e07]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/1) in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/i)
+[^c-f158ffeb8d91629034fed552ad890e07]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/1) in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/i)
 
-[^key-eebd7b70a299bd50a0719296e5a26150]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-eebd7b70a299bd50a0719296e5a26150]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-34adbd14bdd8f2a86cfc4a74dc73e0e3]: Commencement: Sch. 5 para. 2 in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
+[^c-34adbd14bdd8f2a86cfc4a74dc73e0e3]: Commencement: Sch. 5 para. 2 in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
 
-[^key-46730798b60b01fdc744ea94d479e7c4]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-46730798b60b01fdc744ea94d479e7c4]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-d5795d01b81f92b3dbadd408d0b6936f]: Commencement: Sch. 5 para. 3 in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
+[^c-d5795d01b81f92b3dbadd408d0b6936f]: Commencement: Sch. 5 para. 3 in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
 
-[^key-0e51de62e0a9397c0249fd7c691a8b2a]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-0e51de62e0a9397c0249fd7c691a8b2a]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_2091842f-79a8-45ae-e80c-9886ae01f774]: Commencement: Sch. 5 para. 4 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
 
-[^key-b3b681f6f73544e990b3b2a3d0684780]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-b3b681f6f73544e990b3b2a3d0684780]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_a9172f25-8f63-4849-deb1-cdb11e878ebc]: Commencement: Sch. 5 para. 5 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
 
-[^key-5d6abd3d34ecf02280a6e8ddec8c3bb8]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-5d6abd3d34ecf02280a6e8ddec8c3bb8]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_5a7dd5d4-1b1a-452d-8e9f-be3a964c4736]: Commencement: Sch. 5 para. 6 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
 
-[^key-06682847ef1c01f7c55d6ced1194a3e8]: Commencement: Sch. 5 para. 7 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-06682847ef1c01f7c55d6ced1194a3e8]: Commencement: Sch. 5 para. 7 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_48e07483-ce11-486b-cd38-b71466a34096]: Commencement: Sch. 5 para. 7 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
 
-[^key-1dd9ae6fe145d1f96a88e55a3aa550b7]: Commencement: Sch. 5 para. 8 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-1dd9ae6fe145d1f96a88e55a3aa550b7]: Commencement: Sch. 5 para. 8 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_5385ab66-f3f3-415d-da28-67a2d942db18]: Commencement: Sch. 5 para. 8 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
 
-[^key-c3aa1bfe1127bfaab7ac3bb6b099e679]: Commencement: Sch. 5 para. 9 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-c3aa1bfe1127bfaab7ac3bb6b099e679]: Commencement: Sch. 5 para. 9 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_b54101bd-7771-4ce7-e20a-44da9e673fa7]: Commencement: Sch. 5 para. 9 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
 
-[^key-dea8c0994331bddc55e128644c9023c6]: Commencement: Sch. 5 para. 10 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-dea8c0994331bddc55e128644c9023c6]: Commencement: Sch. 5 para. 10 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_367e102f-3c0a-44bb-c6b0-c021b8df229e]: Commencement: Sch. 5 para. 10 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
 
-[^key-17fcca081f172022645369f302108c45]: Commencement: Sch. 5 para. 11 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-17fcca081f172022645369f302108c45]: Commencement: Sch. 5 para. 11 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_d25cdf27-bc50-4e4c-d56b-511e656794cb]: Commencement: Sch. 5 para. 11 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
 
-[^key-7830bbb91533b9aad266b5b2f279ca9c]: Commencement: Sch. 5 para. 12 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-7830bbb91533b9aad266b5b2f279ca9c]: Commencement: Sch. 5 para. 12 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_29b4c279-f0a9-4b27-aa9f-1b806f38fa85]: Commencement: Sch. 5 para. 12 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
 
-[^key-ad3bf7dd21aeb076a34befaae2fe333b]: Commencement: Sch. 5 para. 13 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-ad3bf7dd21aeb076a34befaae2fe333b]: Commencement: Sch. 5 para. 13 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-2fad4a1231cf62ca45d3db0aa6e669f5]: Commencement: Sch. 5 para. 14 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-2fad4a1231cf62ca45d3db0aa6e669f5]: Commencement: Sch. 5 para. 14 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_e3ba26ed-2091-48e3-8798-802f2bcfec87]: Commencement: Sch. 5 para. 14 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/iii)
 
-[^key-42517fe04beb520f43700bb82262138e]: Commencement: Sch. 5 para. 15 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-42517fe04beb520f43700bb82262138e]: Commencement: Sch. 5 para. 15 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_e2f737b8-5993-44c2-c94b-34b26135173d]: Commencement: Sch. 5 para. 15 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/iii)
 
-[^key-63239d9cd366cf91eff6d0e9ee440137]: Commencement: Sch. 5 para. 16 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-63239d9cd366cf91eff6d0e9ee440137]: Commencement: Sch. 5 para. 16 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_32006f3c-9fff-419b-f326-f72ba7dcae56]: Commencement: Sch. 5 para. 16 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/iii)
 
-[^key-ba31d0b8fd96dccf1efd71408328f4e6]: Commencement: Sch. 5 para. 17 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-ba31d0b8fd96dccf1efd71408328f4e6]: Commencement: Sch. 5 para. 17 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_c0a586ae-6e13-448c-b95a-fc1019226bbb]: Commencement: Sch. 5 para. 17 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/iii)
 
-[^key-2590ea1abb7a2ed321bb4821c1874c21]: Commencement: Sch. 5 para. 18 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-2590ea1abb7a2ed321bb4821c1874c21]: Commencement: Sch. 5 para. 18 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-19211801e02a5cb6c260b9db03ff5f01]: Commencement: Sch. 5 para. 18 in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
+[^c-19211801e02a5cb6c260b9db03ff5f01]: Commencement: Sch. 5 para. 18 in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
 
-[^key-45dab3469c51ee1431b3a40591df615d]: Commencement: Sch. 5 para. 19 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-45dab3469c51ee1431b3a40591df615d]: Commencement: Sch. 5 para. 19 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-29bd82169563af7218e0f3fbea843b44]: Commencement: Sch. 5 para. 20 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-29bd82169563af7218e0f3fbea843b44]: Commencement: Sch. 5 para. 20 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-9cd0cec9826ab8a06644a776946b8031]: Commencement: Sch. 5 para. 21 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-9cd0cec9826ab8a06644a776946b8031]: Commencement: Sch. 5 para. 21 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-2bedae2fabb9178ca7ef18c248868c67]: Commencement: Sch. 5 para. 22 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-2bedae2fabb9178ca7ef18c248868c67]: Commencement: Sch. 5 para. 22 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-a954356453ce9ea9321ff65e508e4617]: Commencement: Sch. 5 para. 23 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-a954356453ce9ea9321ff65e508e4617]: Commencement: Sch. 5 para. 23 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-c0e6a6ab85f5daac1ff4d943b13ed82f]: Commencement: Sch. 5 para. 23 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/iv)
+[^c-c0e6a6ab85f5daac1ff4d943b13ed82f]: Commencement: Sch. 5 para. 23 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/iv)
 
-[^key-cb445ff4ca23d74cefd6b325f0c766d9]: Commencement: Sch. 5 para. 24 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-cb445ff4ca23d74cefd6b325f0c766d9]: Commencement: Sch. 5 para. 24 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-97d0b7fa82279ced11864f96387a9979]: Commencement: Sch. 5 para. 24 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(v)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/v)
+[^c-97d0b7fa82279ced11864f96387a9979]: Commencement: Sch. 5 para. 24 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(v)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/v)
 
-[^key-31b36a2bf4ea1da714e72e9d7bc3bd3d]: Commencement: Sch. 5 para. 25 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-31b36a2bf4ea1da714e72e9d7bc3bd3d]: Commencement: Sch. 5 para. 25 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_b666bdef-00d4-4d35-90de-e8cdcf020e6a]: Commencement: Sch. 5 para. 25 in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)
 
-[^key-e67ccf70ce61d47dede310c9cb683766]: Commencement: Sch. 5 para. 26 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-e67ccf70ce61d47dede310c9cb683766]: Commencement: Sch. 5 para. 26 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-d3147ad1a2ac6a90dd5142907ba2e0c6]: Commencement: Sch. 5 para. 26 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/vi)
+[^c-d3147ad1a2ac6a90dd5142907ba2e0c6]: Commencement: Sch. 5 para. 26 in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/vi)
 
-[^key-e27b02e537d4bf5d9ca1600c7d5154f2]: Commencement: Sch. 5 para. 27 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-e27b02e537d4bf5d9ca1600c7d5154f2]: Commencement: Sch. 5 para. 27 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-8342d834a22bc56957794a2edaf22d6e]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/27) in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(vii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/vii)
+[^c-8342d834a22bc56957794a2edaf22d6e]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/27) in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(vii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/vii)
 
-[^key-e5a7153595cc572db646518adf50b581]: Commencement: Sch. 5 para. 28 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-e5a7153595cc572db646518adf50b581]: Commencement: Sch. 5 para. 28 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-a8701b0397de233faa757654914a89c5]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/28) in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(viii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/viii)
+[^c-a8701b0397de233faa757654914a89c5]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/28) in force at 25.4.2024 by [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(viii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/viii)
 
-[^key-07a909c8288374af211dbcfb05b61b50]: Commencement: Sch. 5 para. 29 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-07a909c8288374af211dbcfb05b61b50]: Commencement: Sch. 5 para. 29 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
 [^M_I_611f05cc-90f0-40c9-fabc-6443828f9efe]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/18) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/f)

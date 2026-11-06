@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Power of Department of Finance to make scheme for compensation[^key-50fc86f1a26f10b5e64d4b6f6a00c4e0][^key-f31787be063df16bf315dc28e34677fe]
+## 102. Power of Department of Finance to make scheme for compensation[^c-50fc86f1a26f10b5e64d4b6f6a00c4e0][^c-f31787be063df16bf315dc28e34677fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50fc86f1a26f10b5e64d4b6f6a00c4e0]: Commencement: S. 102 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-50fc86f1a26f10b5e64d4b6f6a00c4e0]: Commencement: S. 102 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-f31787be063df16bf315dc28e34677fe]: Commencement: S. 102 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-f31787be063df16bf315dc28e34677fe]: Commencement: S. 102 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

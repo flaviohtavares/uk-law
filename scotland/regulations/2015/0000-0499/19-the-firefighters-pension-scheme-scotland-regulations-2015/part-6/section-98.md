@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Lump sum payable on death in certain cases[^key-e6ef96211312fb1eae237faec4bf12f2]
+## 98. Lump sum payable on death in certain cases[^c-e6ef96211312fb1eae237faec4bf12f2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a person (P) at the time of P’s death was a pensioner member of this sch
 
 ## Annotations
 
-[^key-e6ef96211312fb1eae237faec4bf12f2]: Commencement: [Reg. 98](https://www.legislation.gov.uk/ssi/2015/19/regulation/98) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-e6ef96211312fb1eae237faec4bf12f2]: Commencement: [Reg. 98](https://www.legislation.gov.uk/ssi/2015/19/regulation/98) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

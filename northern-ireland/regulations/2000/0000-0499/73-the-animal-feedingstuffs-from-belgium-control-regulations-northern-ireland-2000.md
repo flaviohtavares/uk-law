@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Animal Feedingstuffs from Belgium (Control) Regulations (Northern Ireland) 2000 (revoked)[^key-94357d28e7744a6d37cfa42d2f8fb961]
+The Animal Feedingstuffs from Belgium (Control) Regulations (Northern Ireland) 2000 (revoked)[^c-94357d28e7744a6d37cfa42d2f8fb961]
 
 Made
 
@@ -41,46 +41,46 @@ Coming into operation
 
 13th March 2000
 
-[^key-94357d28e7744a6d37cfa42d2f8fb961]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94357d28e7744a6d37cfa42d2f8fb961]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-94357d28e7744a6d37cfa42d2f8fb961]
+## 1. Citation and commencement[^c-94357d28e7744a6d37cfa42d2f8fb961]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-94357d28e7744a6d37cfa42d2f8fb961]
+## 2. Interpretation[^c-94357d28e7744a6d37cfa42d2f8fb961]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemptions[^key-94357d28e7744a6d37cfa42d2f8fb961]
+## 3. Exemptions[^c-94357d28e7744a6d37cfa42d2f8fb961]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibitions and offences[^key-94357d28e7744a6d37cfa42d2f8fb961]
+## 4. Prohibitions and offences[^c-94357d28e7744a6d37cfa42d2f8fb961]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement[^key-94357d28e7744a6d37cfa42d2f8fb961]
+## 5. Enforcement[^c-94357d28e7744a6d37cfa42d2f8fb961]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application and modification of various provisions of the Order[^key-94357d28e7744a6d37cfa42d2f8fb961]
+## 6. Application and modification of various provisions of the Order[^c-94357d28e7744a6d37cfa42d2f8fb961]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-94357d28e7744a6d37cfa42d2f8fb961]
+## 7. Revocation[^c-94357d28e7744a6d37cfa42d2f8fb961]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94357d28e7744a6d37cfa42d2f8fb961]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94357d28e7744a6d37cfa42d2f8fb961]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-94357d28e7744a6d37cfa42d2f8fb961]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94357d28e7744a6d37cfa42d2f8fb961]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-94357d28e7744a6d37cfa42d2f8fb961]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/73) revoked (21.8.2000) by [Animal Feedingstuffs from Belgium (Control) (Revocation) Regulations (Northern Ireland) 2000 (S.R. 2000/233)](https://www.legislation.gov.uk/nisr/2000/233), [regs. 1](https://www.legislation.gov.uk/nisr/2000/233/regulation/1), [2](https://www.legislation.gov.uk/nisr/2000/233/regulation/2);
+[^c-94357d28e7744a6d37cfa42d2f8fb961]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/73) revoked (21.8.2000) by [Animal Feedingstuffs from Belgium (Control) (Revocation) Regulations (Northern Ireland) 2000 (S.R. 2000/233)](https://www.legislation.gov.uk/nisr/2000/233), [regs. 1](https://www.legislation.gov.uk/nisr/2000/233/regulation/1), [2](https://www.legislation.gov.uk/nisr/2000/233/regulation/2);
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.R. made prior to its final revocation. A revised version of how the S.R. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

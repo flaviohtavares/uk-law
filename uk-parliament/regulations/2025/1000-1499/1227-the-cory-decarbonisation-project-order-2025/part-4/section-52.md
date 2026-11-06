@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. No double recovery[^key-8be5b2acae3745cfe055f0b227e0257b]
+## 52. No double recovery[^c-8be5b2acae3745cfe055f0b227e0257b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Compensation is not payable in respect of the same matter both under this Order 
 
 ## Annotations
 
-[^key-8be5b2acae3745cfe055f0b227e0257b]: Commencement: Art. 52 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-8be5b2acae3745cfe055f0b227e0257b]: Commencement: Art. 52 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

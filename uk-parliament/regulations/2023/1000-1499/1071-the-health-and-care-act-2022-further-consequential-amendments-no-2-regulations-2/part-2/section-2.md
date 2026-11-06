@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendment of the Income Support (General) Regulations 1987[^key-57644eae9527e833066b30c8350497f8]
+## 2. Amendment of the Income Support (General) Regulations 1987[^c-57644eae9527e833066b30c8350497f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57644eae9527e833066b30c8350497f8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1071/regulation/2) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-57644eae9527e833066b30c8350497f8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1071/regulation/2) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.

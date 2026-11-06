@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019[^key-07fa1938022ac53affb6ca292ce8af2b]
+## 57. The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019[^c-07fa1938022ac53affb6ca292ce8af2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07fa1938022ac53affb6ca292ce8af2b]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2020/1385/regulation/57) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-07fa1938022ac53affb6ca292ce8af2b]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2020/1385/regulation/57) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00043]: Footnote: [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).

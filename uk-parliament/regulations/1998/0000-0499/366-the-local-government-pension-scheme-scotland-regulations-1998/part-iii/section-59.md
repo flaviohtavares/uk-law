@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Elections to pay AVCs[^key-fc54d2888dd37e91cfc99170ffe7eb5a]
+## 59. Elections to pay AVCs[^c-fc54d2888dd37e91cfc99170ffe7eb5a]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc54d2888dd37e91cfc99170ffe7eb5a]: Commencement: Reg. 59 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-fc54d2888dd37e91cfc99170ffe7eb5a]: Commencement: Reg. 59 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00030]: Footnote: S.I. [1987/1108](https://www.legislation.gov.uk/uksi/1987/1108), amended by S.I. [1994/1062](https://www.legislation.gov.uk/uksi/1994/1062).

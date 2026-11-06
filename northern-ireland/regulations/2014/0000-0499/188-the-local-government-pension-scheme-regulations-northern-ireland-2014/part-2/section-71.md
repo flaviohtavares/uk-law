@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Committee may agree with any inheriting body[^key-526442a6148b9360bcd3ced6c4b50609] or guarantor that with effect from a specific date, some or all of the liabilities in relation to benefits for or in respect of members in connection with their employment with a current employing authority or former employer shall transfer to and be attributable to the inheriting body in accordance with the terms of this regulation (the “inherited liabilities”).
+(1) The Committee may agree with any inheriting body[^c-526442a6148b9360bcd3ced6c4b50609] or guarantor that with effect from a specific date, some or all of the liabilities in relation to benefits for or in respect of members in connection with their employment with a current employing authority or former employer shall transfer to and be attributable to the inheriting body in accordance with the terms of this regulation (the “inherited liabilities”).
 
-(2) The agreement under paragraph (1) (“**the apportionment agreement**”) shall be recorded in writing between the Committee and the inheriting body[^key-e6e053c673d5c8f2ba8420237264e285] or guarantor and shall specify—
+(2) The agreement under paragraph (1) (“**the apportionment agreement**”) shall be recorded in writing between the Committee and the inheriting body[^c-e6e053c673d5c8f2ba8420237264e285] or guarantor and shall specify—
 
 - (a) its effective date, which may be a date before the date of the apportionment agreement;
 - (b) the liabilities attributable to the original employer which will transfer;
@@ -32,18 +32,18 @@ summary: ''
 (3) As soon as is practicable after an apportionment agreement is made under paragraph (1) the Committee, after seeking advice from an actuary may—
 
 - (a) unless paragraph (6) applies, vary the rates and adjustments certificate currently in place in respect of contributions payable by the original employer and, or if appropriate, obtain an actuarial valuation and exit certificate in accordance with regulation 70;
-- (b) vary the rates and adjustments certificate currently in place in respect of contributions payable by the inheriting body[^key-57731cea5f4ab593c65cda5f874f0b34] or guarantor; and
+- (b) vary the rates and adjustments certificate currently in place in respect of contributions payable by the inheriting body[^c-57731cea5f4ab593c65cda5f874f0b34] or guarantor; and
 - (c) where a rates and adjustments certificate is not currently in place in respect of the inheriting body or guarantor, produce a rates and adjustments certificate.
 
 to reflect the transfer of liabilities under paragraph (1).
 
-(4) Any future rates and adjustment certificate in respect of any inheriting body[^key-f8d57f0114457cdf413a0d6332bf0487] or guarantor under regulation 68 (actuarial valuations and certificates) and any revision of the rates and adjustments certificate in respect of the inheriting body under regulation 70 (special circumstances where revised actuarial valuations and certificates shall be obtained) shall be calculated to reflect the transfer of liabilities under paragraph (1).
+(4) Any future rates and adjustment certificate in respect of any inheriting body[^c-f8d57f0114457cdf413a0d6332bf0487] or guarantor under regulation 68 (actuarial valuations and certificates) and any revision of the rates and adjustments certificate in respect of the inheriting body under regulation 70 (special circumstances where revised actuarial valuations and certificates shall be obtained) shall be calculated to reflect the transfer of liabilities under paragraph (1).
 
 (5) For the purposes of paragraphs (3) and (4) the transfer of liabilities shall be reflected in a rates and adjustments certificate in—
 
-- (a) the calculation of the individual adjustment of employer contributions in respect of the original employer and, as the case may be, any inheriting body[^key-dad9c5c41755bf5bc4cfeff1d08d7357] under regulation 68(7);
+- (a) the calculation of the individual adjustment of employer contributions in respect of the original employer and, as the case may be, any inheriting body[^c-dad9c5c41755bf5bc4cfeff1d08d7357] under regulation 68(7);
 - (b) the calculation of the amount payable by a guarantor or other non-employer under regulation 68(8); and
-- (c) any exit payment calculation in respect of the original employer and, as the case may be, any inheriting body[^key-2128672b8063e8c5588907c3d68e7b50] under regulation 70(2).
+- (c) any exit payment calculation in respect of the original employer and, as the case may be, any inheriting body[^c-2128672b8063e8c5588907c3d68e7b50] under regulation 70(2).
 
 (6) Where the apportionment agreement under this regulation is entered into after the original employer has become an exiting employer in accordance with regulation 70(1) (special circumstances where revised actuarial valuations and certificates shall be obtained), the effect of that regulation shall, with the agreement of the Committee, be modified so that either—
 
@@ -68,14 +68,14 @@ to reflect the transfer of liabilities under paragraph (1).
 
 ## Annotations
 
-[^key-526442a6148b9360bcd3ced6c4b50609]: Textual amendment: Words in [reg. 71(1)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/1) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [17(a)](https://www.legislation.gov.uk/nisr/2015/162/regulation/17/a)
+[^c-526442a6148b9360bcd3ced6c4b50609]: Textual amendment: Words in [reg. 71(1)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/1) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [17(a)](https://www.legislation.gov.uk/nisr/2015/162/regulation/17/a)
 
-[^key-e6e053c673d5c8f2ba8420237264e285]: Textual amendment: Words in [reg. 71(2)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/2) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [17(b)](https://www.legislation.gov.uk/nisr/2015/162/regulation/17/b)
+[^c-e6e053c673d5c8f2ba8420237264e285]: Textual amendment: Words in [reg. 71(2)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/2) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [17(b)](https://www.legislation.gov.uk/nisr/2015/162/regulation/17/b)
 
-[^key-57731cea5f4ab593c65cda5f874f0b34]: Textual amendment: Words in [reg. 71(3)(b)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/3/b)[(c)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/3/c) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [17(c)](https://www.legislation.gov.uk/nisr/2015/162/regulation/17/c)
+[^c-57731cea5f4ab593c65cda5f874f0b34]: Textual amendment: Words in [reg. 71(3)(b)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/3/b)[(c)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/3/c) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [17(c)](https://www.legislation.gov.uk/nisr/2015/162/regulation/17/c)
 
-[^key-f8d57f0114457cdf413a0d6332bf0487]: Textual amendment: Words in [reg. 71(4)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/4) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [17(d)](https://www.legislation.gov.uk/nisr/2015/162/regulation/17/d)
+[^c-f8d57f0114457cdf413a0d6332bf0487]: Textual amendment: Words in [reg. 71(4)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/4) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [17(d)](https://www.legislation.gov.uk/nisr/2015/162/regulation/17/d)
 
-[^key-dad9c5c41755bf5bc4cfeff1d08d7357]: Textual amendment: Words in [reg. 71(5)(a)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/5/a) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [17(e)](https://www.legislation.gov.uk/nisr/2015/162/regulation/17/e)
+[^c-dad9c5c41755bf5bc4cfeff1d08d7357]: Textual amendment: Words in [reg. 71(5)(a)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/5/a) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [17(e)](https://www.legislation.gov.uk/nisr/2015/162/regulation/17/e)
 
-[^key-2128672b8063e8c5588907c3d68e7b50]: Textual amendment: Words in [reg. 71(5)(c)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/5/c) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [17(e)](https://www.legislation.gov.uk/nisr/2015/162/regulation/17/e)
+[^c-2128672b8063e8c5588907c3d68e7b50]: Textual amendment: Words in [reg. 71(5)(c)](https://www.legislation.gov.uk/nisr/2014/188/regulation/71/5/c) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [17(e)](https://www.legislation.gov.uk/nisr/2015/162/regulation/17/e)

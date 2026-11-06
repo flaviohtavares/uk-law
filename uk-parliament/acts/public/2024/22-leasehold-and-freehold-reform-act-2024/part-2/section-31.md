@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Acquisition of intermediate interests in collective enfranchisement[^key-37b9c0731c3a29481c39d018dee08c6d]
+## 31. Acquisition of intermediate interests in collective enfranchisement[^c-37b9c0731c3a29481c39d018dee08c6d]
 
 *Extent: E+W*
 
@@ -202,4 +202,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37b9c0731c3a29481c39d018dee08c6d]: Commencement: S. 31 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-37b9c0731c3a29481c39d018dee08c6d]: Commencement: S. 31 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

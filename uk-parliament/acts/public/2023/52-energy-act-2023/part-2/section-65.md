@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Designation of hydrogen production counterparty[^key-3648664a06cfe713a5278b8b2113ed8d]
+## 65. Designation of hydrogen production counterparty[^c-3648664a06cfe713a5278b8b2113ed8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3648664a06cfe713a5278b8b2113ed8d]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2023/52/section/65) in force at Royal Assent, see [s. 334(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a/iii)
+[^c-3648664a06cfe713a5278b8b2113ed8d]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2023/52/section/65) in force at Royal Assent, see [s. 334(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a/iii)

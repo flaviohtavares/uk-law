@@ -95,7 +95,7 @@ The following section shall be substituted for section 7 of the [^c741990]Chroni
 
 .
 
-### 6. Further provision as to duty to provide for needs of the disabled.[^key-e40fe2f6ef1b3b4a6143ad31d65695d9]
+### 6. Further provision as to duty to provide for needs of the disabled.[^c-e40fe2f6ef1b3b4a6143ad31d65695d9]
 
 *Extent: E+W*
 
@@ -137,7 +137,7 @@ An Order in Council made under paragraph 1(1)(b) of Schedule 1 to the Northern I
 
 (1) This Act may be cited as the Disabled Persons Act 1981.
 
-(2)[^key-40c9c4dcfaf2a1a935a6fdb3eb03bf42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-40c9c4dcfaf2a1a935a6fdb3eb03bf42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) With the exception of section 8 above this Act does not extend to Northern Ireland.
 
@@ -161,8 +161,8 @@ An Order in Council made under paragraph 1(1)(b) of Schedule 1 to the Northern I
 
 [^c741990]: Marginal citation: [1970 c. 44](https://www.legislation.gov.uk/ukpga/1970/44).
 
-[^key-e40fe2f6ef1b3b4a6143ad31d65695d9]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1981/43/section/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-e40fe2f6ef1b3b4a6143ad31d65695d9]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1981/43/section/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c741997]: Modification: The text of ss. 1, 4, 5, 6(1)–(5) and 7 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-40c9c4dcfaf2a1a935a6fdb3eb03bf42]: Textual amendment: [S. 9(2)](https://www.legislation.gov.uk/ukpga/1981/43/section/9/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-40c9c4dcfaf2a1a935a6fdb3eb03bf42]: Textual amendment: [S. 9(2)](https://www.legislation.gov.uk/ukpga/1981/43/section/9/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)

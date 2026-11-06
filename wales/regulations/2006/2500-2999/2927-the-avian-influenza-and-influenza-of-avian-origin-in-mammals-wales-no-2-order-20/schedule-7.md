@@ -51,13 +51,13 @@ No person is to permit any poultry or other captive birds to be collected togeth
 
 #### 5. Release of game
 
-(1)[^key-9724a80bbe8d7afc661ff94a4963e6fd] No person is to release game birds.
+(1)[^c-9724a80bbe8d7afc661ff94a4963e6fd] No person is to release game birds.
 
-(2)[^key-3aa8137616a99c9e700b0a9a4cc6700b] For the purpose of this paragraph, game birds include any pheasant, partridge, grouse (or moor game), black (or heath) game or ptarmigan or ducks bred for shooting.
+(2)[^c-3aa8137616a99c9e700b0a9a4cc6700b] For the purpose of this paragraph, game birds include any pheasant, partridge, grouse (or moor game), black (or heath) game or ptarmigan or ducks bred for shooting.
 
 #### 6. Restrictions on the movement of poultry, other captive birds and eggs within the zone
 
-Subject to paragraph 8, no person is to move any poultry, other captive birds or eggs into or[^key-b664b5914c8471c4811911ddfc59b58e] within the zone (other than through the zone by road or rail without stopping), unless licensed by a veterinary inspector or by an inspector under the direction of a veterinary inspector.
+Subject to paragraph 8, no person is to move any poultry, other captive birds or eggs into or[^c-b664b5914c8471c4811911ddfc59b58e] within the zone (other than through the zone by road or rail without stopping), unless licensed by a veterinary inspector or by an inspector under the direction of a veterinary inspector.
 
 #### 7. Restrictions on the movement of poultry and eggs out of the zone
 
@@ -77,7 +77,7 @@ Subject to paragraph 8, no person is to move any poultry, other captive birds or
   - (ii) to designated premises for use for scientific, diagnostic or pharmaceutical purposes
 
   (if, in both cases, the eggs and their packaging are disinfected before dispatch);
-- (f)[^key-4a263681ebdac2481d40324e2880c640] eggs to a designated egg packing centre in disposable packaging or packaging which has been cleansed and disinfected in accordance with the instructions of a veterinary inspector or an inspector under the direction of a veterinary inspector and in accordance with biosecurity requirements specified by a veterinary inspector or an inspector under the direction of a veterinary inspector;
+- (f)[^c-4a263681ebdac2481d40324e2880c640] eggs to a designated egg packing centre in disposable packaging or packaging which has been cleansed and disinfected in accordance with the instructions of a veterinary inspector or an inspector under the direction of a veterinary inspector and in accordance with biosecurity requirements specified by a veterinary inspector or an inspector under the direction of a veterinary inspector;
 - (g) eggs to an egg processing plant inside or outside the zone;
 - (h) eggs for disposal.
 
@@ -95,10 +95,10 @@ A person who moves any poultry, other captive bird, meat, feed, manure, slurry, 
 
 ## Annotations
 
-[^key-9724a80bbe8d7afc661ff94a4963e6fd]: Textual amendment: [Sch. 7 para. 5](https://www.legislation.gov.uk/wsi/2006/2927/schedule/7/paragraph/5) renumbered as Sch. 7 para. 5(1) (8.11.2023) by [The Avian Influenza (Miscellaneous Amendments) (Wales) Order 2023 (S.I. 2023/1179)](https://www.legislation.gov.uk/uksi/2023/1179), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1179/article/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2023/1179/article/11/2/a)
+[^c-9724a80bbe8d7afc661ff94a4963e6fd]: Textual amendment: [Sch. 7 para. 5](https://www.legislation.gov.uk/wsi/2006/2927/schedule/7/paragraph/5) renumbered as Sch. 7 para. 5(1) (8.11.2023) by [The Avian Influenza (Miscellaneous Amendments) (Wales) Order 2023 (S.I. 2023/1179)](https://www.legislation.gov.uk/uksi/2023/1179), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1179/article/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2023/1179/article/11/2/a)
 
-[^key-3aa8137616a99c9e700b0a9a4cc6700b]: Textual amendment: [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/7/paragraph/5/2) inserted (8.11.2023) by [The Avian Influenza (Miscellaneous Amendments) (Wales) Order 2023 (S.I. 2023/1179)](https://www.legislation.gov.uk/wsi/2023/1179), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/1179/article/1/2), [11(2)(b)](https://www.legislation.gov.uk/wsi/2023/1179/article/11/2/b)
+[^c-3aa8137616a99c9e700b0a9a4cc6700b]: Textual amendment: [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/7/paragraph/5/2) inserted (8.11.2023) by [The Avian Influenza (Miscellaneous Amendments) (Wales) Order 2023 (S.I. 2023/1179)](https://www.legislation.gov.uk/wsi/2023/1179), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/1179/article/1/2), [11(2)(b)](https://www.legislation.gov.uk/wsi/2023/1179/article/11/2/b)
 
-[^key-b664b5914c8471c4811911ddfc59b58e]: Textual amendment: Words in [Sch. 7 para. 6](https://www.legislation.gov.uk/wsi/2006/2927/schedule/7/paragraph/6) inserted (8.11.2023) by [The Avian Influenza (Miscellaneous Amendments) (Wales) Order 2023 (S.I. 2023/1179)](https://www.legislation.gov.uk/wsi/2023/1179), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/1179/article/1/2), [11(3)](https://www.legislation.gov.uk/wsi/2023/1179/article/11/3)
+[^c-b664b5914c8471c4811911ddfc59b58e]: Textual amendment: Words in [Sch. 7 para. 6](https://www.legislation.gov.uk/wsi/2006/2927/schedule/7/paragraph/6) inserted (8.11.2023) by [The Avian Influenza (Miscellaneous Amendments) (Wales) Order 2023 (S.I. 2023/1179)](https://www.legislation.gov.uk/wsi/2023/1179), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/1179/article/1/2), [11(3)](https://www.legislation.gov.uk/wsi/2023/1179/article/11/3)
 
-[^key-4a263681ebdac2481d40324e2880c640]: Textual amendment: [Sch. 7 para. 7(2)(f)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/7/paragraph/7/2/f) substituted (8.11.2023) by [The Avian Influenza (Miscellaneous Amendments) (Wales) Order 2023 (S.I. 2023/1179)](https://www.legislation.gov.uk/wsi/2023/1179), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/1179/article/1/2), [11(4)](https://www.legislation.gov.uk/wsi/2023/1179/article/11/4)
+[^c-4a263681ebdac2481d40324e2880c640]: Textual amendment: [Sch. 7 para. 7(2)(f)](https://www.legislation.gov.uk/wsi/2006/2927/schedule/7/paragraph/7/2/f) substituted (8.11.2023) by [The Avian Influenza (Miscellaneous Amendments) (Wales) Order 2023 (S.I. 2023/1179)](https://www.legislation.gov.uk/wsi/2023/1179), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/1179/article/1/2), [11(4)](https://www.legislation.gov.uk/wsi/2023/1179/article/11/4)

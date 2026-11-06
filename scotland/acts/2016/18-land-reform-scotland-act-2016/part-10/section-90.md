@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Conversion of 1991 Act tenancies into modern limited duration tenancies[^key-0db20740964fa5a5579cd5b17344d07b]
+## 90. Conversion of 1991 Act tenancies into modern limited duration tenancies[^c-0db20740964fa5a5579cd5b17344d07b]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0db20740964fa5a5579cd5b17344d07b]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2016/18/section/90) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/299/regulation/3))
+[^c-0db20740964fa5a5579cd5b17344d07b]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2016/18/section/90) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/299/regulation/3))

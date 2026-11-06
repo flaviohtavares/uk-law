@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Recognition of building societies, other institutions and individuals as suitable to provide conveyancing services.[^key-583a873b0334251c4570e18213fd4124]
+## 124. Recognition of building societies, other institutions and individuals as suitable to provide conveyancing services.[^c-583a873b0334251c4570e18213fd4124]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-583a873b0334251c4570e18213fd4124]: Textual amendment: S. 124 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
+[^c-583a873b0334251c4570e18213fd4124]: Textual amendment: S. 124 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2

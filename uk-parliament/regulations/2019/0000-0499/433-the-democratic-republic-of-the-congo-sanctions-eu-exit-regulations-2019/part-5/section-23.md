@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Making military goods and military technology available[^key-d4458b8b5facd456833da5053772059e][^key-f5bdfddfd00711c404c4e1d2c038dd2b]
+## 23. Making military goods and military technology available[^c-d4458b8b5facd456833da5053772059e][^c-f5bdfddfd00711c404c4e1d2c038dd2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4458b8b5facd456833da5053772059e]: Commencement: Reg. 23 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-d4458b8b5facd456833da5053772059e]: Commencement: Reg. 23 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-f5bdfddfd00711c404c4e1d2c038dd2b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2019/433/regulation/23) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f5bdfddfd00711c404c4e1d2c038dd2b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2019/433/regulation/23) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

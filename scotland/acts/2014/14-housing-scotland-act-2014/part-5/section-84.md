@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Agreements to which the Mobile Homes Act 1983 applies[^key-2ce6e5226d8fc430c1f13ca91a37ca96]
+## 84. Agreements to which the Mobile Homes Act 1983 applies[^c-2ce6e5226d8fc430c1f13ca91a37ca96]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ In Schedule 1 to the Mobile Homes Act 1983 (c.34)—
 
 ## Annotations
 
-[^key-2ce6e5226d8fc430c1f13ca91a37ca96]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2014/14/section/84) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-2ce6e5226d8fc430c1f13ca91a37ca96]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2014/14/section/84) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

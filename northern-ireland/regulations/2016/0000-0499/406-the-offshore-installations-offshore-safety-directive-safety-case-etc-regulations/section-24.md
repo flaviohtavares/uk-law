@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Revision of safety case[^key-743213dea02f159bdd7160b7de1c991c]
+## 24. Revision of safety case[^c-743213dea02f159bdd7160b7de1c991c]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ to the current safety case for the purposes of paragraph (2).
 
 ## Annotations
 
-[^key-743213dea02f159bdd7160b7de1c991c]: Commencement: Reg. 24 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-743213dea02f159bdd7160b7de1c991c]: Commencement: Reg. 24 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

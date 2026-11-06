@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Refusal to grant a certificate, temporary certificate or licence[^key-78af8b21ed189906b7390a254c56ce65]
+## 18. Refusal to grant a certificate, temporary certificate or licence[^c-78af8b21ed189906b7390a254c56ce65]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78af8b21ed189906b7390a254c56ce65]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2014/951/regulation/18) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-78af8b21ed189906b7390a254c56ce65]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2014/951/regulation/18) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

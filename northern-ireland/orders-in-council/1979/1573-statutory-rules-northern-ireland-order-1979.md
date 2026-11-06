@@ -27,7 +27,7 @@ summary: ''
 
 1979 No. 1573 (N.I. 12)
 
-Statutory Rules (Northern Ireland) Order 1979 [^c11610631][^key-5b4b49fd007de4f25a44b4ac5761e7ed]
+Statutory Rules (Northern Ireland) Order 1979 [^c11610631][^c-5b4b49fd007de4f25a44b4ac5761e7ed]
 
 \[3rd December 1979\] [^c20828681]
 
@@ -72,11 +72,11 @@ In this Order “statutory rules” means—
   - (ii) any Act[^c11610641] of the Assembly, unless the power is expressed to be exercisable by statutory instrument;
   - (iii) any Act of the Parliament of the United Kingdom passed before 1st January 1974, if the power relates to any matter in respect of which the Parliament of Northern Ireland had power to make laws and is not expressed to be exercisable by statutory instrument;
   - (iv) any Act of the Parliament of the United Kingdom passed after 1st January 1974, if the power is expressed to be exercisable by statutory rule for the purposes of the Statutory Rules Act (Northern Ireland) 1958[^m00003] or this Order;
-  - (v)[^key-35bcf9c436dc94c4a621f24d47b75a66] any assimilated direct[^key-b21725222b66e54cfe24a18a219ffa33] legislation [^key-2913ac6fd3ae400e8ac9be49bb7937e7]..., if the power is expressed to be exercisable by statutory rule for the purposes of this Order;
+  - (v)[^c-35bcf9c436dc94c4a621f24d47b75a66] any assimilated direct[^c-b21725222b66e54cfe24a18a219ffa33] legislation [^c-2913ac6fd3ae400e8ac9be49bb7937e7]..., if the power is expressed to be exercisable by statutory rule for the purposes of this Order;
   - (vi) any regulations made under the European Union (Withdrawal) Act 2018, if the power is expressed to be exercisable by statutory rule for the purposes of this Order;
-  - (vii)[^key-c9d557d8791806f7aae7a3843c4ef301] any legislation referred to in paragraph 7(2)(b)[^key-b32741e31337b1cbf4fa0b81d9dd0ea1] of Schedule 1 to the Direct Payments to Farmers (Legislative Continuity) Act 2020, if the power is expressed to be exercisable by statutory rule for the purposes of this Order;
+  - (vii)[^c-c9d557d8791806f7aae7a3843c4ef301] any legislation referred to in paragraph 7(2)(b)[^c-b32741e31337b1cbf4fa0b81d9dd0ea1] of Schedule 1 to the Direct Payments to Farmers (Legislative Continuity) Act 2020, if the power is expressed to be exercisable by statutory rule for the purposes of this Order;
   - (viii) any regulations made under the Direct Payments to Farmers (Legislative Continuity) Act 2020, if the power is expressed to be exercisable by statutory rule for the purposes of this Order;
-  - (ix)[^key-1f7b8b55a48383371365fee07615aeb8] any regulations made under section 14(2) or (3) of the Retained EU Law (Revocation and Reform) Act 2023, if the power is expressed to be exercisable by statutory rule for the purposes of this Order.
+  - (ix)[^c-1f7b8b55a48383371365fee07615aeb8] any regulations made under section 14(2) or (3) of the Retained EU Law (Revocation and Reform) Act 2023, if the power is expressed to be exercisable by statutory rule for the purposes of this Order.
 - (b) all orders, rules, regulations or other subordinate legislation (whether or not relating to any matter in respect of which the Parliament of Northern Ireland had power to make laws), made, confirmed or approved by any of the rule-making authorities mentioned in Part II of Schedule 1 in exercise of powers conferred by any Act of the Parliament of the United Kingdom passed before 1st January 1974, including orders, rules, regulations or other subordinate legislation made, confirmed or approved as aforesaid on or after 1st January 1948 (the date of the commencement of the Statutory Instruments Act 1946[^m00004]);
 - (c) schemes made under the statutory provisions listed in Schedule 2; and
 - (d) instruments, or instruments of any class, declared by regulations under Article 7(1) to be statutory rules for the purposes of this Order;
@@ -225,7 +225,7 @@ Article 3(1).
 - Waterways Ireland
 - The Pharmaceutical Society of Northern Ireland or the Council of that Society.
 - The presiding officer of the Assembly.
-- [^key-76efa1f75e6d2632b0961b7e2cdd343c]....
+- [^c-76efa1f75e6d2632b0961b7e2cdd343c]....
 
 ### PART II — RULE-MAKING AUTHORITIES REFERRED TO IN ARTICLE 4( b)
 
@@ -256,7 +256,7 @@ Article 4(*c*)
 | The Agriculture (Miscellaneous Provisions) Act (Northern Ireland) 1959. | Destruction of vermin. |
 | The Fishing Vessels (Grants) Act (Northern Ireland) 1967. | Grants in relation to fishing vessels. |
 | The Poultry Improvement Act (Northern Ireland) 1968, sections 1 and 8(1). | Poultry improvement and poultry testing. |
-| [^key-900db65523bc625d940b76a87dbc3d1e]. . . | [^key-900db65523bc625d940b76a87dbc3d1e]. . . |
+| [^c-900db65523bc625d940b76a87dbc3d1e]. . . | [^c-900db65523bc625d940b76a87dbc3d1e]. . . |
 | The Fish Industry Act (Northern Ireland) 1972. | Financial aid for fish industry. |
 | The Agriculture and Fisheries (Financial Assistance) (Northern Ireland) Order 1987—[^c11611041] |  |
 | Part III | Farm Structure grants |
@@ -283,7 +283,7 @@ Articles 5(2)(*c*), 7(5).
 
 **7.**[^c11611261] Orders under Article 13, 14, 68 or 69 of the Roads (Northern Ireland) Order 1993.
 
-**7A.**[^c20828781] Orders under Article 4, 10, 13, 15, 27A,[^c20828761] 36(3)(a), 37, 38, 40(2), (3) or (7) or 66 of , or Schedule 3A to,[^key-348edbab54f0881b1744a120effa1776] the Road Traffic Regulation (Northern Ireland) Order 1997
+**7A.**[^c20828781] Orders under Article 4, 10, 13, 15, 27A,[^c20828761] 36(3)(a), 37, 38, 40(2), (3) or (7) or 66 of , or Schedule 3A to,[^c-348edbab54f0881b1744a120effa1776] the Road Traffic Regulation (Northern Ireland) Order 1997
 
 **8.** Statutory rules of a temporary character which in the opinion of the rule-making authority are likely to cease to be in force within three months after they are made, or, if they are published in full in the Belfast Gazette, within six months after they are made.
 
@@ -295,7 +295,7 @@ Articles 5(2)(*c*), 7(5).
 
 [^c11610631]: Textual amendment: functions transf. SR 1999/481
 
-[^key-5b4b49fd007de4f25a44b4ac5761e7ed]: Modification: [Order](https://www.legislation.gov.uk/nisi/1979/1573) excluded (18.1.2012 for specified purposes, 1.4.2012 in so far as not already in operation) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 2 para. 5(7)](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/5/7); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1)[(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1), [2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-5b4b49fd007de4f25a44b4ac5761e7ed]: Modification: [Order](https://www.legislation.gov.uk/nisi/1979/1573) excluded (18.1.2012 for specified purposes, 1.4.2012 in so far as not already in operation) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 2 para. 5(7)](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/5/7); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1)[(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1), [2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
 [^c20828681]: Modification: Order excluded (27.3.2009) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [ss. 6(7)](https://www.legislation.gov.uk/nia/2008/12/section/6/7), [185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1), [Sch. 1 para. 10(4)](https://www.legislation.gov.uk/nia/2008/12/schedule/1/paragraph/10/4); [S.R. 2009/138](https://www.legislation.gov.uk/nisr/2009/138), [art. 2](https://www.legislation.gov.uk/nisr/2009/138/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/138/schedule)
 
@@ -307,17 +307,17 @@ Articles 5(2)(*c*), 7(5).
 
 [^m00003]: Marginal citation: 1958 c.18
 
-[^key-35bcf9c436dc94c4a621f24d47b75a66]: Textual amendment: Art. 4(a)(v)(vi) inserted (28.11.2018) by [The European Union (Withdrawal) Act 2018 (Consequential Amendments) Regulations 2018 (S.I. 2018/1242)](https://www.legislation.gov.uk/uksi/2018/1242), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1242/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/1242/schedule/2/paragraph/3)
+[^c-35bcf9c436dc94c4a621f24d47b75a66]: Textual amendment: Art. 4(a)(v)(vi) inserted (28.11.2018) by [The European Union (Withdrawal) Act 2018 (Consequential Amendments) Regulations 2018 (S.I. 2018/1242)](https://www.legislation.gov.uk/uksi/2018/1242), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1242/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/1242/schedule/2/paragraph/3)
 
-[^key-b21725222b66e54cfe24a18a219ffa33]: Textual amendment: Words in [art. 4(a)(v)](https://www.legislation.gov.uk/nisi/1979/1573/article/4/a/v) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 10(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/10/2)
+[^c-b21725222b66e54cfe24a18a219ffa33]: Textual amendment: Words in [art. 4(a)(v)](https://www.legislation.gov.uk/nisi/1979/1573/article/4/a/v) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 10(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/10/2)
 
-[^key-2913ac6fd3ae400e8ac9be49bb7937e7]: Textual amendment: Words in [art. 4(a)(v)](https://www.legislation.gov.uk/nisi/1979/1573/article/4/a/v) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 10(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/10/2)
+[^c-2913ac6fd3ae400e8ac9be49bb7937e7]: Textual amendment: Words in [art. 4(a)(v)](https://www.legislation.gov.uk/nisi/1979/1573/article/4/a/v) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 10(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/10/2)
 
-[^key-c9d557d8791806f7aae7a3843c4ef301]: Textual amendment: [Art. 4(a)(vii)(viii)](https://www.legislation.gov.uk/nisi/1979/1573/article/4/a/vii/viii) inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/463/regulation/7)
+[^c-c9d557d8791806f7aae7a3843c4ef301]: Textual amendment: [Art. 4(a)(vii)(viii)](https://www.legislation.gov.uk/nisi/1979/1573/article/4/a/vii/viii) inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/463/regulation/7)
 
-[^key-b32741e31337b1cbf4fa0b81d9dd0ea1]: Textual amendment: Word in [art. 4(a)(vii)](https://www.legislation.gov.uk/nisi/1979/1573/article/4/a/vii) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/10/3)
+[^c-b32741e31337b1cbf4fa0b81d9dd0ea1]: Textual amendment: Word in [art. 4(a)(vii)](https://www.legislation.gov.uk/nisi/1979/1573/article/4/a/vii) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/10/3)
 
-[^key-1f7b8b55a48383371365fee07615aeb8]: Textual amendment: [Art. 4(a)(ix)](https://www.legislation.gov.uk/nisi/1979/1573/article/4/a/ix) inserted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 10(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/10/4)
+[^c-1f7b8b55a48383371365fee07615aeb8]: Textual amendment: [Art. 4(a)(ix)](https://www.legislation.gov.uk/nisi/1979/1573/article/4/a/ix) inserted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 10(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/10/4)
 
 [^m00004]: Marginal citation: 1946 c.36
 
@@ -371,7 +371,7 @@ Articles 5(2)(*c*), 7(5).
 
 [^c19884851]: Textual amendment: Word in Sch. 1 Pt. I substituted (1.4.2007) by [Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336), [arts. 1(2)(5)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2/5), [308(1)](https://www.legislation.gov.uk/nisi/2006/3336/article/308/1), [Sch. 12 para. 15](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/15) (with [arts. 8(8)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/8), [121(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/121/3), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (with [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-76efa1f75e6d2632b0961b7e2cdd343c]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/nisi/1979/1573/schedule/1/part/I) entry omitted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-76efa1f75e6d2632b0961b7e2cdd343c]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/nisi/1979/1573/schedule/1/part/I) entry omitted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
 [^c11610961]: Textual amendment: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)
 
@@ -381,7 +381,7 @@ Articles 5(2)(*c*), 7(5).
 
 [^c11611021]: Textual amendment: [1981 NI 22](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-900db65523bc625d940b76a87dbc3d1e]: Textual amendment: Words in Sch. 2 repealed (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), [s. 13(1)](https://www.legislation.gov.uk/nia/2014/6/section/13/1), [Sch.](https://www.legislation.gov.uk/nia/2014/6/schedule)
+[^c-900db65523bc625d940b76a87dbc3d1e]: Textual amendment: Words in Sch. 2 repealed (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), [s. 13(1)](https://www.legislation.gov.uk/nia/2014/6/section/13/1), [Sch.](https://www.legislation.gov.uk/nia/2014/6/schedule)
 
 [^c11611041]: Textual amendment: [1987 NI 1](https://www.legislation.gov.uk/nisi/1987)
 
@@ -403,4 +403,4 @@ Articles 5(2)(*c*), 7(5).
 
 [^c20828761]: Textual amendment: Words in Sch. 3 para. 7A inserted (23.11.2009) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [ss. 21(3)](https://www.legislation.gov.uk/nia/2008/4/section/21/3), [59](https://www.legislation.gov.uk/nia/2008/4/section/59); [S.R. 2009/352](https://www.legislation.gov.uk/nisr/2009/352), [art. 2](https://www.legislation.gov.uk/nisr/2009/352/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2009/352/schedule)
 
-[^key-348edbab54f0881b1744a120effa1776]: Textual amendment: Words in [Sch. 3 para. 7A](https://www.legislation.gov.uk/nisi/1979/1573/schedule/3/paragraph/7A) inserted (4.9.2017) by [Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 14)](https://www.legislation.gov.uk/nia/2010/14), [s. 9(2)(c)](https://www.legislation.gov.uk/nia/2010/14/section/9/2/c), [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/3); [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-348edbab54f0881b1744a120effa1776]: Textual amendment: Words in [Sch. 3 para. 7A](https://www.legislation.gov.uk/nisi/1979/1573/schedule/3/paragraph/7A) inserted (4.9.2017) by [Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 14)](https://www.legislation.gov.uk/nia/2010/14), [s. 9(2)(c)](https://www.legislation.gov.uk/nia/2010/14/section/9/2/c), [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/3); [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)

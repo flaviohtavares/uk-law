@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Interpretation: axles, wheels, axle weights and wheel weights[^key-a923069eb4c2e0a2094c5bcc5dfec567]
+## 7. Interpretation: axles, wheels, axle weights and wheel weights[^c-a923069eb4c2e0a2094c5bcc5dfec567]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a923069eb4c2e0a2094c5bcc5dfec567]: Commencement: Art. 7 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-a923069eb4c2e0a2094c5bcc5dfec567]: Commencement: Art. 7 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

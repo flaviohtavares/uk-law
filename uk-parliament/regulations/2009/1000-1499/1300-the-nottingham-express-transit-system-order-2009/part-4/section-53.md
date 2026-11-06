@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Power to make byelaws[^key-1409fcc138b3a07019f9e598e7a48590]
+## 53. Power to make byelaws[^c-1409fcc138b3a07019f9e598e7a48590]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ shall be rebuttable evidence of the facts stated in the certificate.
 
 ## Annotations
 
-[^key-1409fcc138b3a07019f9e598e7a48590]: Commencement: Art. 53 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-1409fcc138b3a07019f9e598e7a48590]: Commencement: Art. 53 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

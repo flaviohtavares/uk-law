@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10A — Face-value vouchers issued before 1 January 2019[^key-d3cf6445cece64edf692bced38a57173][^key-179924628c15ba015974588ea2a6a725]
+## SCHEDULE 10A — Face-value vouchers issued before 1 January 2019[^c-d3cf6445cece64edf692bced38a57173][^c-179924628c15ba015974588ea2a6a725]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ Such a voucher is referred to in this Schedule as a “**credit voucher**”.
 
 (3) Sub-paragraph (2) above does not apply if any of the persons from whom goods or services are obtained by the use of the voucher fails to account for any of the VAT due on the supply of those goods or services to the person using the voucher to obtain them.
 
-(4)[^key-99e0eadc92ae73bfdeb629d87c0ce1da] The Treasury may by order specify other circumstances in which sub-paragraph (2) above does not apply.
+(4)[^c-99e0eadc92ae73bfdeb629d87c0ce1da] The Treasury may by order specify other circumstances in which sub-paragraph (2) above does not apply.
 
 ### Treatment of retailer vouchers
 
@@ -91,7 +91,7 @@ Such a voucher is referred to in this Schedule as a “**retailer voucher**”.
 
 the supply of the voucher shall be treated as being made for no consideration.
 
-### Exclusion of single purpose vouchers[^key-5d413a29ecb0ceeaa60d9c415d3aca01]
+### Exclusion of single purpose vouchers[^c-5d413a29ecb0ceeaa60d9c415d3aca01]
 
 **7A.** Paragraphs 2 to 4, 6 and 7 do not apply in relation to the issue, or any subsequent supply, of a face-value voucher that represents a right to receive goods or services of one type which are subject to a single rate of VAT.
 
@@ -118,10 +118,10 @@ the supply of the voucher shall be treated as being made for no consideration.
 
 ## Annotations
 
-[^key-d3cf6445cece64edf692bced38a57173]: Textual amendment: Sch. 10A inserted (with application in accordance with Sch. 1 para. 4 of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2003/14/schedule/1/paragraph/2)
+[^c-d3cf6445cece64edf692bced38a57173]: Textual amendment: Sch. 10A inserted (with application in accordance with Sch. 1 para. 4 of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2003/14/schedule/1/paragraph/2)
 
-[^key-179924628c15ba015974588ea2a6a725]: Textual amendment: Words in Sch. 10A heading inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2019/1/schedule/17/paragraph/4)
+[^c-179924628c15ba015974588ea2a6a725]: Textual amendment: Words in Sch. 10A heading inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2019/1/schedule/17/paragraph/4)
 
-[^key-99e0eadc92ae73bfdeb629d87c0ce1da]: Textual amendment: Sch. 10A para. 3(4) inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/22/3)
+[^c-99e0eadc92ae73bfdeb629d87c0ce1da]: Textual amendment: Sch. 10A para. 3(4) inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/22/3)
 
-[^key-5d413a29ecb0ceeaa60d9c415d3aca01]: Textual amendment: Sch. 10A para. 7A and cross-heading inserted (with effect in accordance with s. 201(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 201(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/201/1)
+[^c-5d413a29ecb0ceeaa60d9c415d3aca01]: Textual amendment: Sch. 10A para. 7A and cross-heading inserted (with effect in accordance with s. 201(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 201(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/201/1)

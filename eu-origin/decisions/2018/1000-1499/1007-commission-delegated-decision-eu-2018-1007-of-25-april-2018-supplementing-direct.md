@@ -35,26 +35,26 @@ supplementing Directive 2009/42/EC of the European Parliament and of the Council
 
 (Text with EEA relevance) (revoked)
 
-[^key-73bdcd50c72d2d5b39ae81d798647b0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73bdcd50c72d2d5b39ae81d798647b0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-73bdcd50c72d2d5b39ae81d798647b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-73bdcd50c72d2d5b39ae81d798647b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-73bdcd50c72d2d5b39ae81d798647b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-73bdcd50c72d2d5b39ae81d798647b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-73bdcd50c72d2d5b39ae81d798647b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-73bdcd50c72d2d5b39ae81d798647b0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73bdcd50c72d2d5b39ae81d798647b0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73bdcd50c72d2d5b39ae81d798647b0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — EUROSTAT LIST OF EU PORTS[^key-73bdcd50c72d2d5b39ae81d798647b0e]
+## ANNEX — EUROSTAT LIST OF EU PORTS[^c-73bdcd50c72d2d5b39ae81d798647b0e]
 
-[^key-73bdcd50c72d2d5b39ae81d798647b0e] Description
+[^c-73bdcd50c72d2d5b39ae81d798647b0e] Description
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73bdcd50c72d2d5b39ae81d798647b0e] Structure
+[^c-73bdcd50c72d2d5b39ae81d798647b0e] Structure
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-73bdcd50c72d2d5b39ae81d798647b0e]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 291](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/291); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-73bdcd50c72d2d5b39ae81d798647b0e]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 291](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/291); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

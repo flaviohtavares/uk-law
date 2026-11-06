@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Member's option to pay additional periodical contributions to purchase additional pension[^key-5e53f575b024d5ac4eb0f64078bd9d4e][^key-2b5c664650514915b5149faeb7341291]
+## 34. Member's option to pay additional periodical contributions to purchase additional pension[^c-5e53f575b024d5ac4eb0f64078bd9d4e][^c-2b5c664650514915b5149faeb7341291]
 
 *Extent: N.I.*
 
@@ -65,12 +65,12 @@ may not exceed £5000 or such other amount as the Department may for the time be
 - (c) is not less than 1 year nor more than 20 years, and
 - (d) does not end later than the member's 65th birthday.
 
-(9)[^key-476b78129ce3867ea157e06f89eed0b8] In the case of a 2008 Section Optant, this regulation is subject to regulation 136D.
+(9)[^c-476b78129ce3867ea157e06f89eed0b8] In the case of a 2008 Section Optant, this regulation is subject to regulation 136D.
 
 ## Annotations
 
-[^key-5e53f575b024d5ac4eb0f64078bd9d4e]: Modification: [Regs. 34-41](https://www.legislation.gov.uk/nisr/2008/256/regulation/34) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/i)
+[^c-5e53f575b024d5ac4eb0f64078bd9d4e]: Modification: [Regs. 34-41](https://www.legislation.gov.uk/nisr/2008/256/regulation/34) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/i)
 
-[^key-2b5c664650514915b5149faeb7341291]: Modification: [Reg. 34](https://www.legislation.gov.uk/nisr/2008/256/regulation/34) modified (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [regs. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [15(3)](https://www.legislation.gov.uk/nisr/2023/132/regulation/15/3)
+[^c-2b5c664650514915b5149faeb7341291]: Modification: [Reg. 34](https://www.legislation.gov.uk/nisr/2008/256/regulation/34) modified (1.10.2023) by [The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/132)](https://www.legislation.gov.uk/nisr/2023/132), [regs. 1](https://www.legislation.gov.uk/nisr/2023/132/regulation/1), [15(3)](https://www.legislation.gov.uk/nisr/2023/132/regulation/15/3)
 
-[^key-476b78129ce3867ea157e06f89eed0b8]: Textual amendment: [Reg. 34(9)](https://www.legislation.gov.uk/nisr/2008/256/regulation/34/9) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [23](https://www.legislation.gov.uk/nisr/2010/22/regulation/23)
+[^c-476b78129ce3867ea157e06f89eed0b8]: Textual amendment: [Reg. 34(9)](https://www.legislation.gov.uk/nisr/2008/256/regulation/34/9) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [23](https://www.legislation.gov.uk/nisr/2010/22/regulation/23)

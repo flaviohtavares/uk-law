@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Power to transfer functions between bodies[^key-b655593b04ea2656a793bb98eb77f6ad][^key-6c8d91a865dd96688d43e9752a9cb72c]
+## 103. Power to transfer functions between bodies[^c-b655593b04ea2656a793bb98eb77f6ad][^c-6c8d91a865dd96688d43e9752a9cb72c]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ the Secretary of State must make provision by virtue of section 183(1)(a) modify
 
 ## Annotations
 
-[^key-b655593b04ea2656a793bb98eb77f6ad]: Commencement: S. 103 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-b655593b04ea2656a793bb98eb77f6ad]: Commencement: S. 103 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-6c8d91a865dd96688d43e9752a9cb72c]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2022/31/section/103) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6c8d91a865dd96688d43e9752a9cb72c]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2022/31/section/103) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Publication of up-to-date lists of communities and community councils[^key-ab07a43ebd1e3d0a8fb21dce293e6df6]
+## 54. Publication of up-to-date lists of communities and community councils[^c-ab07a43ebd1e3d0a8fb21dce293e6df6]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab07a43ebd1e3d0a8fb21dce293e6df6]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2024/5/section/54) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-ab07a43ebd1e3d0a8fb21dce293e6df6]: Commencement: [S. 54](https://www.legislation.gov.uk/asc/2024/5/section/54) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Determination of income and capital of members of relevant person’s family and of a polygamous marriage[^key-3344dff043743dd09bc0de5901892c21]
+## 16. Determination of income and capital of members of relevant person’s family and of a polygamous marriage[^c-3344dff043743dd09bc0de5901892c21]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3344dff043743dd09bc0de5901892c21]: Commencement: Reg. 16 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-3344dff043743dd09bc0de5901892c21]: Commencement: Reg. 16 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

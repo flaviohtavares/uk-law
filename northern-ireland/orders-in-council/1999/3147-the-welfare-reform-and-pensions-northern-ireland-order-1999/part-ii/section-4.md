@@ -26,7 +26,7 @@ summary: ''
 
 - (a) make an application for the purpose and pay such fee as the Authority may determine; and
 - (b) declare that each of the following is fulfilled in relation to the scheme, namely—
-  - (i) the conditions set out in paragraphs (2) to (9)[^key-15803411e6d1049e1abd6a6bc4308f2c] of Article 3; and
+  - (i) the conditions set out in paragraphs (2) to (9)[^c-15803411e6d1049e1abd6a6bc4308f2c] of Article 3; and
   - (ii) such other conditions as may be prescribed under paragraph (1) of that Article.
 
 (3) Where the Authority are satisfied on reasonable grounds that any of those conditions is not fulfilled in relation to a pension scheme, the Authority may by direction[^c17090071]
@@ -50,6 +50,6 @@ such persons, in such manner, at such times, on payment of such fees, and subjec
 
 ## Annotations
 
-[^key-15803411e6d1049e1abd6a6bc4308f2c]: Textual amendment: Words in [art. 4(2)(b)(i)](https://www.legislation.gov.uk/nisi/1999/3147/article/4/2/b/i) substituted (having effect as from 6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1), [Sch. 4 para. 38](https://www.legislation.gov.uk/nia/2008/1/schedule/4/paragraph/38) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2008/1/schedule/4/part/3)); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
+[^c-15803411e6d1049e1abd6a6bc4308f2c]: Textual amendment: Words in [art. 4(2)(b)(i)](https://www.legislation.gov.uk/nisi/1999/3147/article/4/2/b/i) substituted (having effect as from 6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1), [Sch. 4 para. 38](https://www.legislation.gov.uk/nia/2008/1/schedule/4/paragraph/38) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2008/1/schedule/4/part/3)); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
 
 [^c17090071]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)

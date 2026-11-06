@@ -41,23 +41,23 @@ The Welsh Ministers make the following Regulations in exercise of the power conf
 
 In accordance with section 256(3) and (4)(n) of that Act, a draft of these Regulations has been laid before, and approved by a resolution of, Senedd Cymru.
 
-## 1. Title and coming into force[^key-1e31dbb27c6abacc5d2d917a2866ca2c]
+## 1. Title and coming into force[^c-1e31dbb27c6abacc5d2d917a2866ca2c]
 
 (1) The title of these Regulations is the Renting Homes (Wales) Act 2016 (Amendment of Schedule 12) Regulations 2022.
 
 (2) These Regulations come into force on the day after the day on which they are made.
 
-## 2. Amendments to Schedule 12[^key-689afaf3ea4a72f7368060325b85700b]
+## 2. Amendments to Schedule 12[^c-689afaf3ea4a72f7368060325b85700b]
 
 Schedule 12[^f00002] to the Renting Homes (Wales) Act 2016 is amended as follows.
 
-**3.**[^key-66b21c76126d7f60b65cfa01db2ad67f] In paragraph 1(1), in the appropriate place insert—
+**3.**[^c-66b21c76126d7f60b65cfa01db2ad67f] In paragraph 1(1), in the appropriate place insert—
 
 > - “assured agricultural occupancy” (“*meddiannaeth amaethyddol sicr*”) has the same meaning as in Part 1 of the Housing Act [1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50) (see section 24(1) of that Act);
 > - “assured tenancy” (*“tenantiaeth sicr”*) includes a reference to an assured agricultural occupancy which is treated as an assured tenancy under section 24(3) of the Housing Act 1988 (as well as an assured agricultural occupancy which is an assured tenancy)
 > - “converted AAO” (*“MAS wedi ei throsi”*) means a converted contract which immediately before the appointed day was an assured agricultural occupancy;
 
-**4.**[^key-9f733bc86f4cee6c62f3825b4a8ffa69] In paragraph 2—
+**4.**[^c-9f733bc86f4cee6c62f3825b4a8ffa69] In paragraph 2—
 
 - (a) after sub-paragraph (2) insert—
 
@@ -76,7 +76,7 @@ Schedule 12[^f00002] to the Renting Homes (Wales) Act 2016 is amended as follows
   > - (a) section 7 (tenancies and licences that are occupation contracts) applies as if subsection (1)(b) (rent or other consideration must be payable) were omitted, and
   > - (b) Schedule 2 applies as if paragraph 1(2) were omitted.
 
-**5.**[^key-c26d0162f282ee82daac5333a906a7d9] After paragraph 2 insert—
+**5.**[^c-c26d0162f282ee82daac5333a906a7d9] After paragraph 2 insert—
 
 > **2A.** (1) Section 7(6) and paragraph 7(2) of Schedule 2 do not apply to a licence where immediately before the appointed day—
 >
@@ -87,14 +87,14 @@ Schedule 12[^f00002] to the Renting Homes (Wales) Act 2016 is amended as follows
 >
 > (2) Where sub-paragraph (1) applies, this Act applies to the contract-holder as if he or she were aged 18.
 
-**6.**[^key-ce27c488efc650282378cf7c2c838a78] In paragraph 4—
+**6.**[^c-ce27c488efc650282378cf7c2c838a78] In paragraph 4—
 
 - (a) in sub-paragraph (1)—
   - (i) after “converted contract” insert “to which section 11 applies (whether or not under paragraph 3)”;
   - (ii) for “notice under” substitute “notice as described in”.
 - (b) in sub-paragraph (2) for “does so” substitute “gives notice under section 13”.
 
-**7.**[^key-c2a538f7ed559aa30c02e1dddeaf838a] For paragraph 5 substitute—
+**7.**[^c-c2a538f7ed559aa30c02e1dddeaf838a] For paragraph 5 substitute—
 
 > **5.** A converted contract which immediately before the appointed day was—
 >
@@ -105,16 +105,16 @@ Schedule 12[^f00002] to the Renting Homes (Wales) Act 2016 is amended as follows
 >
 > has effect as an introductory standard contract (see paragraph 23).
 
-**8.**[^key-b68dee24bdc00e1ce3e178dd57d0c898] After paragraph 6 insert—
+**8.**[^c-b68dee24bdc00e1ce3e178dd57d0c898] After paragraph 6 insert—
 
 > **6A.** A converted contract relating to supported accommodation has effect as a supported standard contract only if immediately before the appointed day the contract was—
 >
 > - (a) an assured shorthold tenancy (see paragraph 24A for further provision about supported standard contracts that were assured shorthold tenancies), or
 > - (b) a licence, other than a licence which was a secure tenancy.
 
-**9.**[^key-dd8f350ea924b842e89337dbca8151c3] In paragraph 12A, omit the “(1)” which precedes the text of that paragraph.
+**9.**[^c-dd8f350ea924b842e89337dbca8151c3] In paragraph 12A, omit the “(1)” which precedes the text of that paragraph.
 
-**10.**[^key-beb10c06e14638858eed202c6ecccfdb] After paragraph 13 insert—
+**10.**[^c-beb10c06e14638858eed202c6ecccfdb] After paragraph 13 insert—
 
 > **13A. Deposit Schemes**
 >
@@ -126,14 +126,14 @@ Schedule 12[^f00002] to the Renting Homes (Wales) Act 2016 is amended as follows
 > - (b) Schedule 5;
 > - (c) paragraphs 4(2) to (5) of Schedule 9A.
 
-**11.**[^key-be8d18b251e61bec038a7987cbeccb40] After the heading “Variation” and before paragraph 14 insert—
+**11.**[^c-be8d18b251e61bec038a7987cbeccb40] After the heading “Variation” and before paragraph 14 insert—
 
 > **13B.** Section 123 (variation of rent) does not apply to a converted contract that is a periodic standard contract which immediately before the appointed day—
 >
 > - (a) was an assured tenancy but not an assured shorthold tenancy, and
 > - (b) contained a term which made provision about variation of the rent under the tenancy or licence.
 
-**12.**[^key-be4c2aafc04520b283e38156336cc33d] In paragraph 15—
+**12.**[^c-be4c2aafc04520b283e38156336cc33d] In paragraph 15—
 
 - (a) in sub-paragraph (1) after “converted contract” insert “(other than a contract mentioned in paragraph 13B)”;
 - (b) for sub-paragraph (3) substitute—
@@ -149,7 +149,7 @@ Schedule 12[^f00002] to the Renting Homes (Wales) Act 2016 is amended as follows
   >
   > - (c) it is a secure contract which immediately before the appointed day was an assured tenancy, but not an assured shorthold tenancy, for a fixed term.
 
-**13.**[^key-d561a05269c79c2a32d9fe0cc49c61e1] In paragraph 23—
+**13.**[^c-d561a05269c79c2a32d9fe0cc49c61e1] In paragraph 23—
 
 - (a) for sub-paragraph (3)(c) substitute—
 
@@ -171,7 +171,7 @@ Schedule 12[^f00002] to the Renting Homes (Wales) Act 2016 is amended as follows
   >
   > has effect as if given under paragraph 3 of Schedule 4 (and, regardless of the length of extension under a notice as described in paragraph (b), the introductory period ends 18 months after the introduction date of the starter tenancy (as determined in accordance with sub-paragraph 5)).
 
-**14.**[^key-2b44bc77df83d1496ce92840437f2c3b] After paragraph 24 insert—
+**14.**[^c-2b44bc77df83d1496ce92840437f2c3b] After paragraph 24 insert—
 
 > **24A. Supported standard contract that was an assured shorthold tenancy**
 >
@@ -182,7 +182,7 @@ Schedule 12[^f00002] to the Renting Homes (Wales) Act 2016 is amended as follows
 >
 > as if sections 144 (mobility) and 145 (temporary exclusion) were omitted.
 
-**15.**[^key-25f897a87f4648dc83999a22007f101d] In paragraph 25A—
+**15.**[^c-25f897a87f4648dc83999a22007f101d] In paragraph 25A—
 
 - (a) in sub-paragraph (2)(b)—
   - (i) for “the references in subsections (1) and (2)” substitute “the reference in subsection (1)”;
@@ -205,15 +205,15 @@ Schedule 12[^f00002] to the Renting Homes (Wales) Act 2016 is amended as follows
   >   >   - (i) where the substitute tenancy or licence has an occupation date falling immediately after the end of a tenancy or licence which is not a substitute tenancy or licence, the tenancy or licence which preceded the substitute tenancy or licence;
   >   >   - (ii) where there have been successive substitute tenancies or licences, the tenancy or licence which preceded the first of the substitute tenancies or licences.
 
-**16.**[^key-7767b03d337df49925d71a9f47c74e27] In paragraph 25B, after sub-paragraph (1) insert—
+**16.**[^c-7767b03d337df49925d71a9f47c74e27] In paragraph 25B, after sub-paragraph (1) insert—
 
 > (1A) The reference to a tenancy or licence for a fixed term in sub-paragraph (1)(a) does not include a reference to an assured tenancy that was not an assured shorthold tenancy.
 
-**17.**[^key-be1eb713c45dbb4483148a7a82816983] In paragraph 25D(1) after “applies to a fixed term standard contract” insert “(other than a tenancy or licence mentioned in paragraph 26(2) or (3))”.
+**17.**[^c-be1eb713c45dbb4483148a7a82816983] In paragraph 25D(1) after “applies to a fixed term standard contract” insert “(other than a tenancy or licence mentioned in paragraph 26(2) or (3))”.
 
-**18.**[^key-106241282b6422d62080fd89deb78746] In paragraph 29(1) for “an assured tenancy” substitute “a periodic assured tenancy”.
+**18.**[^c-106241282b6422d62080fd89deb78746] In paragraph 29(1) for “an assured tenancy” substitute “a periodic assured tenancy”.
 
-**19.**[^key-ff0b7d355d530b212cf86e831b492eb5] In paragraph 32—
+**19.**[^c-ff0b7d355d530b212cf86e831b492eb5] In paragraph 32—
 
 - (a) in sub-paragraph (3)—
   - (i) in paragraph (a) for “who immediately before the occupation date of the contract” substitute “who, immediately before the day on which the contract-holder became entitled to occupy the dwelling under that contract,”;
@@ -286,42 +286,42 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1).
 
-[^key-1e31dbb27c6abacc5d2d917a2866ca2c]: Commencement: Reg. 1 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-1e31dbb27c6abacc5d2d917a2866ca2c]: Commencement: Reg. 1 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-689afaf3ea4a72f7368060325b85700b]: Commencement: Reg. 2 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-689afaf3ea4a72f7368060325b85700b]: Commencement: Reg. 2 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
 [^f00002]: Footnote: Schedule 12 was amended by section 18 of, and paragraphs 1 and 27 of Schedule 6 to, the Renting Homes (Amendment) (Wales) Act [2021 (asc. 3)](https://www.legislation.gov.uk/asc/2021/3).
 
-[^key-66b21c76126d7f60b65cfa01db2ad67f]: Commencement: Reg. 3 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-66b21c76126d7f60b65cfa01db2ad67f]: Commencement: Reg. 3 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-9f733bc86f4cee6c62f3825b4a8ffa69]: Commencement: Reg. 4 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-9f733bc86f4cee6c62f3825b4a8ffa69]: Commencement: Reg. 4 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-c26d0162f282ee82daac5333a906a7d9]: Commencement: Reg. 5 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-c26d0162f282ee82daac5333a906a7d9]: Commencement: Reg. 5 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-ce27c488efc650282378cf7c2c838a78]: Commencement: Reg. 6 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-ce27c488efc650282378cf7c2c838a78]: Commencement: Reg. 6 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-c2a538f7ed559aa30c02e1dddeaf838a]: Commencement: Reg. 7 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-c2a538f7ed559aa30c02e1dddeaf838a]: Commencement: Reg. 7 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-b68dee24bdc00e1ce3e178dd57d0c898]: Commencement: Reg. 8 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-b68dee24bdc00e1ce3e178dd57d0c898]: Commencement: Reg. 8 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-dd8f350ea924b842e89337dbca8151c3]: Commencement: Reg. 9 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-dd8f350ea924b842e89337dbca8151c3]: Commencement: Reg. 9 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-beb10c06e14638858eed202c6ecccfdb]: Commencement: Reg. 10 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-beb10c06e14638858eed202c6ecccfdb]: Commencement: Reg. 10 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-be8d18b251e61bec038a7987cbeccb40]: Commencement: Reg. 11 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-be8d18b251e61bec038a7987cbeccb40]: Commencement: Reg. 11 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-be4c2aafc04520b283e38156336cc33d]: Commencement: Reg. 12 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-be4c2aafc04520b283e38156336cc33d]: Commencement: Reg. 12 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-d561a05269c79c2a32d9fe0cc49c61e1]: Commencement: Reg. 13 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-d561a05269c79c2a32d9fe0cc49c61e1]: Commencement: Reg. 13 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-2b44bc77df83d1496ce92840437f2c3b]: Commencement: Reg. 14 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-2b44bc77df83d1496ce92840437f2c3b]: Commencement: Reg. 14 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-25f897a87f4648dc83999a22007f101d]: Commencement: Reg. 15 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-25f897a87f4648dc83999a22007f101d]: Commencement: Reg. 15 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-7767b03d337df49925d71a9f47c74e27]: Commencement: Reg. 16 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-7767b03d337df49925d71a9f47c74e27]: Commencement: Reg. 16 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-be1eb713c45dbb4483148a7a82816983]: Commencement: Reg. 17 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-be1eb713c45dbb4483148a7a82816983]: Commencement: Reg. 17 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-106241282b6422d62080fd89deb78746]: Commencement: Reg. 18 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-106241282b6422d62080fd89deb78746]: Commencement: Reg. 18 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
 
-[^key-ff0b7d355d530b212cf86e831b492eb5]: Commencement: Reg. 19 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)
+[^c-ff0b7d355d530b212cf86e831b492eb5]: Commencement: Reg. 19 in force at 14.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/795/regulation/1/2)

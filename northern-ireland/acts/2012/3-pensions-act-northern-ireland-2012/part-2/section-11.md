@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Qualifying schemes: administration charges[^key-2405576be7601e4e16969fb064c9c343]
+## 11. Qualifying schemes: administration charges[^c-2405576be7601e4e16969fb064c9c343]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2405576be7601e4e16969fb064c9c343]: Textual amendment: S. 11 repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 18 para. 12](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/12); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/n)
+[^c-2405576be7601e4e16969fb064c9c343]: Textual amendment: S. 11 repealed (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 18 para. 12](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/12); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/n)

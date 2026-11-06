@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63AA. Supply by water supply licensee: domestic supply[^c19800321][^key-9cbf89ca2715efda20c1385fe2c52cbb]
+## 63AA. Supply by water supply licensee: domestic supply[^c19800321][^c-9cbf89ca2715efda20c1385fe2c52cbb]
 
 *Extent: E+W*
 
 (1) The owner or occupier of any premises may serve a notice on a water undertaker—
 
-- (a) informing the undertaker that the premises are to be supplied by a water supply licensee[^key-e3de3a490ad598608e7c572abc6354c1]; and
+- (a) informing the undertaker that the premises are to be supplied by a water supply licensee[^c-e3de3a490ad598608e7c572abc6354c1]; and
 - (b) specifying the time after which a supply of water to the premises by the undertaker will no longer be required.
 
 (2) Where the charges for the water supplied by the undertaker are, under Chapter 1 of Part 5 of this Act, fixed in relation to the premises by reference to volume, the time specified in the notice shall fall at least two working days after the notice is served.
@@ -36,6 +36,6 @@ summary: ''
 
 [^c19800321]: Textual amendment: Ss. 63AA-63AC and preceding cross-heading inserted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/17); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-9cbf89ca2715efda20c1385fe2c52cbb]: Textual amendment: Words in s. 63AA title substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 63(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/63/2); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(l)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-9cbf89ca2715efda20c1385fe2c52cbb]: Textual amendment: Words in s. 63AA title substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 63(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/63/2); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(l)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
-[^key-e3de3a490ad598608e7c572abc6354c1]: Textual amendment: Words in s. 63AA(1)(a) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 63(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/63/3); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(l)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-e3de3a490ad598608e7c572abc6354c1]: Textual amendment: Words in s. 63AA(1)(a) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 63(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/63/3); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(l)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/l) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Functions under the Competition Act 1998[^key-d73bb1d93b71a6b75e90455f76a17e63]
+## 37. Functions under the Competition Act 1998[^c-d73bb1d93b71a6b75e90455f76a17e63]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ which relate to the carrying on of relevant transport and storage activities.
 
 ## Annotations
 
-[^key-d73bb1d93b71a6b75e90455f76a17e63]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/52/section/37) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-d73bb1d93b71a6b75e90455f76a17e63]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/52/section/37) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

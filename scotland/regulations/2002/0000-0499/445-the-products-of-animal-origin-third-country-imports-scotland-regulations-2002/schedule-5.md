@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — CALCULATION OF CHARGES FOR VETERINARY CHECKS[^key-773713172fcc412278acac5841935b06]
+## SCHEDULE 5 — CALCULATION OF CHARGES FOR VETERINARY CHECKS[^c-773713172fcc412278acac5841935b06]
 
 *Extent: S*
 
@@ -24,40 +24,40 @@ summary: ''
 
 Regulation 49
 
-### PART I — COSTS COVERED BY THE CHARGES[^key-773713172fcc412278acac5841935b06]
+### PART I — COSTS COVERED BY THE CHARGES[^c-773713172fcc412278acac5841935b06]
 
-**1.**[^key-773713172fcc412278acac5841935b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-773713172fcc412278acac5841935b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-773713172fcc412278acac5841935b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-773713172fcc412278acac5841935b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — CONSIGNMENTS FROM SPECIFIED THIRD COUNTRIES[^key-773713172fcc412278acac5841935b06]
+### PART II — CONSIGNMENTS FROM SPECIFIED THIRD COUNTRIES[^c-773713172fcc412278acac5841935b06]
 
-[^key-773713172fcc412278acac5841935b06]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — MEAT AND MEAT PRODUCTS[^key-773713172fcc412278acac5841935b06]
-
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — FISHERY PRODUCTS[^key-773713172fcc412278acac5841935b06]
+### PART III — MEAT AND MEAT PRODUCTS[^c-773713172fcc412278acac5841935b06]
 
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — ALL OTHER PRODUCTS[^key-773713172fcc412278acac5841935b06]
+### PART IV — FISHERY PRODUCTS[^c-773713172fcc412278acac5841935b06]
 
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART V — ALL OTHER PRODUCTS[^c-773713172fcc412278acac5841935b06]
+
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-773713172fcc412278acac5841935b06]: Textual amendment: Regulations revoked (1.2.2007) by [The Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2007 (S.S.I. 2007/1)](https://www.legislation.gov.uk/ssi/2007/1), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/1/regulation/1/1), [71(a)](https://www.legislation.gov.uk/ssi/2007/1/regulation/71/a)
+[^c-773713172fcc412278acac5841935b06]: Textual amendment: Regulations revoked (1.2.2007) by [The Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2007 (S.S.I. 2007/1)](https://www.legislation.gov.uk/ssi/2007/1), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/1/regulation/1/1), [71(a)](https://www.legislation.gov.uk/ssi/2007/1/regulation/71/a)

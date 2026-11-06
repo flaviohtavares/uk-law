@@ -44,7 +44,7 @@ The Secretary of State for Work and Pensions has made an Order[^f00003] under se
 
 Accordingly the Department for Communities makes the following Order.
 
-## 1. Citation, commencement and interpretation[^key-f7e3c8a4552c7148cb9e19bc096a5092][^key-7e181590a07caa7f73fe7fe00ba95235]
+## 1. Citation, commencement and interpretation[^c-f7e3c8a4552c7148cb9e19bc096a5092][^c-7e181590a07caa7f73fe7fe00ba95235]
 
 (1) This Order may be cited as the State Pension Revaluation for Transitional Pensions Order (Northern Ireland) 2024 and shall come into operation on—
 
@@ -53,7 +53,7 @@ Accordingly the Department for Communities makes the following Order.
 
 (2) In this Article “**a state pension**” means a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015[^f00007].
 
-## 2. Revaluing percentage for transitional pensions[^key-8fe1e7ffce7f8e1ecb011f0400c713f6][^key-269198d53d2d9f5ba381212841e4f0cd]
+## 2. Revaluing percentage for transitional pensions[^c-8fe1e7ffce7f8e1ecb011f0400c713f6][^c-269198d53d2d9f5ba381212841e4f0cd]
 
 For the purposes of section 130AC(2) of the Social Security Administration (Northern Ireland) Act 1992 (revaluation for transitional pensions under Pensions Act (Northern Ireland) 2015), the percentage specified is 33.9 per cent.
 
@@ -87,9 +87,9 @@ Article 2 of this Order specifies the revaluing percentage as 33.9 per cent.
 
 [^f00004]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5)
 
-[^key-f7e3c8a4552c7148cb9e19bc096a5092]: Commencement: Art. 1 in operation at 17.12.2024 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2024/199/article/1/1/a)
+[^c-f7e3c8a4552c7148cb9e19bc096a5092]: Commencement: Art. 1 in operation at 17.12.2024 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2024/199/article/1/1/a)
 
-[^key-7e181590a07caa7f73fe7fe00ba95235]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/199/article/1) in operation at 7.4.2025 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2024/199/article/1/1/b)
+[^c-7e181590a07caa7f73fe7fe00ba95235]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/199/article/1) in operation at 7.4.2025 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2024/199/article/1/1/b)
 
 [^f00005]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 15(1) was amended by regulation 2(6) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299) and Article 9(7)(a) of [S.R. 2015 No. 411](https://www.legislation.gov.uk/nisr/2015/411)
 
@@ -97,6 +97,6 @@ Article 2 of this Order specifies the revaluing percentage as 33.9 per cent.
 
 [^f00007]: Footnote: [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5)
 
-[^key-8fe1e7ffce7f8e1ecb011f0400c713f6]: Commencement: Art. 2 in operation at 17.12.2024 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2024/199/article/1/1/a)
+[^c-8fe1e7ffce7f8e1ecb011f0400c713f6]: Commencement: Art. 2 in operation at 17.12.2024 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2024/199/article/1/1/a)
 
-[^key-269198d53d2d9f5ba381212841e4f0cd]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/199/article/2) in operation at 7.4.2025 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2024/199/article/1/1/b)
+[^c-269198d53d2d9f5ba381212841e4f0cd]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/199/article/2) in operation at 7.4.2025 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2024/199/article/1/1/b)

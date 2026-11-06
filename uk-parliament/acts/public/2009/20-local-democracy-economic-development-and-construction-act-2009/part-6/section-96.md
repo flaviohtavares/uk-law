@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Dissolution of an EPB's area[^key-427d3dcfe38e1e955844079f77554ca9]
+## 96. Dissolution of an EPB's area[^c-427d3dcfe38e1e955844079f77554ca9]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-427d3dcfe38e1e955844079f77554ca9]: Commencement: S. 96 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
+[^c-427d3dcfe38e1e955844079f77554ca9]: Commencement: S. 96 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)

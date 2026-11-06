@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 93. National security proceedings[^key-168e362434a19a2a9aba7f4017113b11]
+## 93. National security proceedings[^c-168e362434a19a2a9aba7f4017113b11]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-168e362434a19a2a9aba7f4017113b11]: Commencement: [Rule 93](https://www.legislation.gov.uk/uksi/2024/1155/rule/93) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-168e362434a19a2a9aba7f4017113b11]: Commencement: [Rule 93](https://www.legislation.gov.uk/uksi/2024/1155/rule/93) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

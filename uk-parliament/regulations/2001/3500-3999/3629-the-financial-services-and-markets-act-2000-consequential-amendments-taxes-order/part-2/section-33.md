@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Taxation in respect of other business[^key-253edc81c2b9e0bc2d5aaffa783ef6c8]
+## 33. Taxation in respect of other business[^c-253edc81c2b9e0bc2d5aaffa783ef6c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-253edc81c2b9e0bc2d5aaffa783ef6c8]: Commencement: Art. 33 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-253edc81c2b9e0bc2d5aaffa783ef6c8]: Commencement: Art. 33 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00038]: Footnote: Section 461 was amended by paragraph 10 of Schedule 21, and Part 1 of Schedule 22, to the Friendly Societies Act 1992 and paragraph 6 of Schedule 9 to the Finance (No. 2) Act 1992.

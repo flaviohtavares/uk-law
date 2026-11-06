@@ -16,50 +16,50 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Record-keeping and review duties[^key-17a919a78ccb1954545c707acf751e9e]
+## 23. Record-keeping and review duties[^c-17a919a78ccb1954545c707acf751e9e]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-bfc8d528136e256bcc18767b65d60388] This section sets out the record-keeping and review duties which apply in relation to regulated user-to-user services (as indicated by the headings).
+(1)[^c-bfc8d528136e256bcc18767b65d60388] This section sets out the record-keeping and review duties which apply in relation to regulated user-to-user services (as indicated by the headings).
 
 All services
 
-(2)[^key-bfc8d528136e256bcc18767b65d60388] A duty to make and keep a written record, in an easily understandable form, of all aspects of every risk assessment under section 9 or 11, including details about how the assessment was carried out and its findings.
+(2)[^c-bfc8d528136e256bcc18767b65d60388] A duty to make and keep a written record, in an easily understandable form, of all aspects of every risk assessment under section 9 or 11, including details about how the assessment was carried out and its findings.
 
-(3)[^key-bfc8d528136e256bcc18767b65d60388] A duty to make and keep a written record of any measures taken or in use to comply with a relevant duty which—
+(3)[^c-bfc8d528136e256bcc18767b65d60388] A duty to make and keep a written record of any measures taken or in use to comply with a relevant duty which—
 
 - (a) are described in a code of practice and recommended for the purpose of compliance with the duty in question, and
 - (b) apply in relation to the provider and the service in question.
 
 In this section such measures are referred to as “**applicable measures in a code of practice**”.
 
-(4)[^key-bfc8d528136e256bcc18767b65d60388] If alternative measures have been taken or are in use to comply with a relevant duty, a duty to make and keep a written record containing the following information—
+(4)[^c-bfc8d528136e256bcc18767b65d60388] If alternative measures have been taken or are in use to comply with a relevant duty, a duty to make and keep a written record containing the following information—
 
 - (a) the applicable measures in a code of practice that have not been taken or are not in use,
 - (b) the alternative measures that have been taken or are in use,
 - (c) how those alternative measures amount to compliance with the duty in question, and
 - (d) how the provider has complied with section 49(5) (freedom of expression and privacy).
 
-(5)[^key-bfc8d528136e256bcc18767b65d60388] If alternative measures have been taken or are in use to comply with a duty set out in section 10(2) , (3) or (3A)[^key-4a38385849ce59eade972f1dbe46f43f] or 12(2) or (3), the record required under subsection (4) of this section must also indicate whether such measures have been taken or are in use in every area listed in section 10(4) or 12(8) (as the case may be) in relation to which there are applicable measures in a code of practice.
+(5)[^c-bfc8d528136e256bcc18767b65d60388] If alternative measures have been taken or are in use to comply with a duty set out in section 10(2) , (3) or (3A)[^c-4a38385849ce59eade972f1dbe46f43f] or 12(2) or (3), the record required under subsection (4) of this section must also indicate whether such measures have been taken or are in use in every area listed in section 10(4) or 12(8) (as the case may be) in relation to which there are applicable measures in a code of practice.
 
-(6)[^key-bfc8d528136e256bcc18767b65d60388] A duty to review compliance with the relevant duties in relation to a service—
+(6)[^c-bfc8d528136e256bcc18767b65d60388] A duty to review compliance with the relevant duties in relation to a service—
 
 - (a) regularly, and
 - (b) as soon as reasonably practicable after making any significant change to any aspect of the design or operation of the service.
 
-(7)[^key-bfc8d528136e256bcc18767b65d60388] OFCOM may provide that particular descriptions of providers of user-to-user services are exempt from any or all of the duties set out in this section, and may revoke such an exemption.
+(7)[^c-bfc8d528136e256bcc18767b65d60388] OFCOM may provide that particular descriptions of providers of user-to-user services are exempt from any or all of the duties set out in this section, and may revoke such an exemption.
 
-(8)[^key-bfc8d528136e256bcc18767b65d60388] OFCOM must publish details of any exemption or revocation under subsection (7), including reasons for the revocation of an exemption.
+(8)[^c-bfc8d528136e256bcc18767b65d60388] OFCOM must publish details of any exemption or revocation under subsection (7), including reasons for the revocation of an exemption.
 
 Additional duties for Category 1 services
 
-(9)[^key-bfc8d528136e256bcc18767b65d60388] A duty to make and keep a written record, in an easily understandable form, of all aspects of every assessment under section 14 (assessments related to the adult user empowerment duty set out in section 15(2)), including details about how the assessment was carried out and its findings.
+(9)[^c-bfc8d528136e256bcc18767b65d60388] A duty to make and keep a written record, in an easily understandable form, of all aspects of every assessment under section 14 (assessments related to the adult user empowerment duty set out in section 15(2)), including details about how the assessment was carried out and its findings.
 
-(10)[^key-bfc8d528136e256bcc18767b65d60388] As soon as reasonably practicable after making a record of an assessment as required by subsection (2) or (9), or revising such a record, a duty to supply OFCOM with a copy of the record (in full).
+(10)[^c-bfc8d528136e256bcc18767b65d60388] As soon as reasonably practicable after making a record of an assessment as required by subsection (2) or (9), or revising such a record, a duty to supply OFCOM with a copy of the record (in full).
 
 Interpretation
 
-(11)[^key-f8e8d5ff0526daf2569aec4e4e8cde5e] In this section—
+(11)[^c-f8e8d5ff0526daf2569aec4e4e8cde5e] In this section—
 
 - “**alternative measures**” means measures other than measures which are (in relation to the provider and the service in question) applicable measures in a code of practice;
 - “**code of practice**” means a code of practice published under section 46;
@@ -76,10 +76,10 @@ Interpretation
 
 ## Annotations
 
-[^key-17a919a78ccb1954545c707acf751e9e]: Commencement: S. 23 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-17a919a78ccb1954545c707acf751e9e]: Commencement: S. 23 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-bfc8d528136e256bcc18767b65d60388]: Commencement: S. 23(1)-(10) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/i)
+[^c-bfc8d528136e256bcc18767b65d60388]: Commencement: S. 23(1)-(10) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/i)
 
-[^key-4a38385849ce59eade972f1dbe46f43f]: Textual amendment: Words in s. 23(5) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-4a38385849ce59eade972f1dbe46f43f]: Textual amendment: Words in s. 23(5) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
 
-[^key-f8e8d5ff0526daf2569aec4e4e8cde5e]: Commencement: S. 23(11) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/i)
+[^c-f8e8d5ff0526daf2569aec4e4e8cde5e]: Commencement: S. 23(11) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/i)

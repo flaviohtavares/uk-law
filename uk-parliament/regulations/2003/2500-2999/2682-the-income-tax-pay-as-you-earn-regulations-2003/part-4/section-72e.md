@@ -22,9 +22,9 @@ summary: ''
 
 (1) Regulation 72F applies where—
 
-- (a) one or more employees have[^key-f37e32ab43e4c8cc7764c22ffb32e0a4] received a relevant payment;
+- (a) one or more employees have[^c-f37e32ab43e4c8cc7764c22ffb32e0a4] received a relevant payment;
 - (b) it appears to HMRC that an amount intended to represent tax on the payment—
-  - (i)[^key-1bb574ad64685e1d3aad5e12000628c8] is likely to have been self-assessed by one or more of the employees, or
+  - (i)[^c-1bb574ad64685e1d3aad5e12000628c8] is likely to have been self-assessed by one or more of the employees, or
   - (ii) has not been self-assessed, but has been paid under section 59A TMA (payments on account of income tax), section 559A of ICTA (treatment of sums deducted under s.559 (sub-contractors)) or section 62 of the Finance Act 2004 (treatment of sums deducted (sub-contractors));
 - (c) any of conditions A, B and C is met;
 - (d) a trigger event has occurred; and
@@ -74,6 +74,6 @@ exceeds the amount actually deducted.
 
 [^M_F_e5066a3d-bb59-4bf4-92c5-5a552d10c20a]: Textual amendment: Regs. 72E-72G inserted (6.4.2008) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2008 (S.I. 2008/782)](https://www.legislation.gov.uk/uksi/2008/782), [regs. 1](https://www.legislation.gov.uk/uksi/2008/782/regulation/1), [7](https://www.legislation.gov.uk/uksi/2008/782/regulation/7)
 
-[^key-f37e32ab43e4c8cc7764c22ffb32e0a4]: Textual amendment: Words in [reg. 72E(1)(a)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72E/1/a) substituted (6.4.2014) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2014/472/regulation/8/a)
+[^c-f37e32ab43e4c8cc7764c22ffb32e0a4]: Textual amendment: Words in [reg. 72E(1)(a)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72E/1/a) substituted (6.4.2014) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2014/472/regulation/8/a)
 
-[^key-1bb574ad64685e1d3aad5e12000628c8]: Textual amendment: [Reg. 72E(1)(b)(i)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72E/1/b/i) substituted (6.4.2014) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2014/472/regulation/8/b)
+[^c-1bb574ad64685e1d3aad5e12000628c8]: Textual amendment: [Reg. 72E(1)(b)(i)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72E/1/b/i) substituted (6.4.2014) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2014/472/regulation/8/b)

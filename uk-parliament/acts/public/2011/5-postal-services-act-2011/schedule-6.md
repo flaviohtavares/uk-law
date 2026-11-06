@@ -24,7 +24,7 @@ Section 53
 
 ### General test for imposing or modifying regulatory conditions
 
-**1.**[^key-cd0288f778d7b5ae15235a43452bacef] OFCOM may impose or modify a regulatory condition only if satisfied that the condition or modification—
+**1.**[^c-cd0288f778d7b5ae15235a43452bacef] OFCOM may impose or modify a regulatory condition only if satisfied that the condition or modification—
 
 - (a) is objectively justifiable,
 - (b) does not discriminate unduly against particular persons or a particular description of persons,
@@ -33,7 +33,7 @@ Section 53
 
 ### Provision which may be contained in regulatory conditions
 
-**2.**[^key-a9ffd8c7cb46fb3dd3265d5b5f2ea7ad] (1) The power of OFCOM to impose a regulatory condition includes each of the following powers.
+**2.**[^c-a9ffd8c7cb46fb3dd3265d5b5f2ea7ad] (1) The power of OFCOM to impose a regulatory condition includes each of the following powers.
 
 - *Directions* The power to impose a requirement to comply with directions given by OFCOM, or by another person specified in the condition, with respect to the matters to which the condition relates.
 - *Consents, approvals and recommendations* The power to impose an obligation with respect to those matters framed by reference to, or conditional on, the consent, approval or recommendation of OFCOM or of another person specified in the condition.
@@ -45,7 +45,7 @@ Section 53
 
 ### Procedure for imposing, modifying or revoking conditions
 
-**3.**[^key-e528a214bab4f6baebd338b81b9ccf0f] (1) The way in which a regulatory condition is to be imposed or modified is by the publication of a notification setting out the condition or modification.
+**3.**[^c-e528a214bab4f6baebd338b81b9ccf0f] (1) The way in which a regulatory condition is to be imposed or modified is by the publication of a notification setting out the condition or modification.
 
 (2) The way in which a regulatory condition is to be revoked is by the publication of a notification stating that the condition is revoked.
 
@@ -72,7 +72,7 @@ Section 53
 
 ### Directions and approvals for purposes of conditions
 
-**4.**[^key-465eba8ac782cc6eb47fa0ff898802f9] (1) This paragraph applies if—
+**4.**[^c-465eba8ac782cc6eb47fa0ff898802f9] (1) This paragraph applies if—
 
 - (a) a regulatory condition has effect by reference to directions, approvals or consents given by a person (whether OFCOM or another), and
 - (b) the person proposes to give a direction, approval or consent affecting the operation of the condition or to modify or withdraw a direction, approval or consent so as to affect its operation.
@@ -115,13 +115,13 @@ the obligation of publishing the notification of that proposal for the purposes 
 
 ### Delivery of copies of notifications etc.
 
-**5.**[^key-718c4d54527907405e5373c9dcf02685] (1) The relevant person must send to the Secretary of State—
+**5.**[^c-718c4d54527907405e5373c9dcf02685] (1) The relevant person must send to the Secretary of State—
 
 - (a) a copy of every notification published under paragraph 3 or 4,
 - (b) a copy of every direction, approval or consent given for the purpose of giving effect to a proposal required to be published under paragraph 4, and
 - (c) a copy of every instrument modifying or withdrawing a direction, approval or consent for the purpose of giving effect to a proposal required to be published under that paragraph.
 
-(2)[^key-14d0ced9714a6e59e46dfb8a61242a1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-14d0ced9714a6e59e46dfb8a61242a1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this paragraph “**the relevant person**”, in relation to a notification, direction, approval or consent—
 
@@ -130,14 +130,14 @@ the obligation of publishing the notification of that proposal for the purposes 
 
 ## Annotations
 
-[^key-cd0288f778d7b5ae15235a43452bacef]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2011/5/schedule/6/paragraph/1) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-cd0288f778d7b5ae15235a43452bacef]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2011/5/schedule/6/paragraph/1) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-a9ffd8c7cb46fb3dd3265d5b5f2ea7ad]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2011/5/schedule/6/paragraph/2) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-a9ffd8c7cb46fb3dd3265d5b5f2ea7ad]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2011/5/schedule/6/paragraph/2) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-e528a214bab4f6baebd338b81b9ccf0f]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2011/5/schedule/6/paragraph/3) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-e528a214bab4f6baebd338b81b9ccf0f]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2011/5/schedule/6/paragraph/3) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-465eba8ac782cc6eb47fa0ff898802f9]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2011/5/schedule/6/paragraph/4) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-465eba8ac782cc6eb47fa0ff898802f9]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2011/5/schedule/6/paragraph/4) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-718c4d54527907405e5373c9dcf02685]: Commencement: Sch. 6 para. 5 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-718c4d54527907405e5373c9dcf02685]: Commencement: Sch. 6 para. 5 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-14d0ced9714a6e59e46dfb8a61242a1f]: Textual amendment: [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/6/paragraph/5/2) omitted (31.1.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [3(4)(e)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/3/4/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14d0ced9714a6e59e46dfb8a61242a1f]: Textual amendment: [Sch. 6 para. 5(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/6/paragraph/5/2) omitted (31.1.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [3(4)(e)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/3/4/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

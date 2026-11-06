@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Standards relating to the grant of a regulated licence[^key-961f4e20d8b2ac6fb4e27584881a2006]
+## 71. Standards relating to the grant of a regulated licence[^c-961f4e20d8b2ac6fb4e27584881a2006]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ if the licensing authority is not satisfied that the standard is met.
 
 ## Annotations
 
-[^key-961f4e20d8b2ac6fb4e27584881a2006]: Commencement: S. 71 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-961f4e20d8b2ac6fb4e27584881a2006]: Commencement: S. 71 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

@@ -22,25 +22,25 @@ summary: ''
 
 Article 3
 
-### 1. Interpretation[^key-8220d3bed203c3216433de741fa0f4af]
+### 1. Interpretation[^c-8220d3bed203c3216433de741fa0f4af]
 
 In this Part of Schedule 2 the following expression has the following meaning—
 
 - “AOD” means above ordnance datum.
 
-### 2. Time limits[^key-20fe67728ff529f037d0ae8e2a03b32e]
+### 2. Time limits[^c-20fe67728ff529f037d0ae8e2a03b32e]
 
 The authorised development must commence no later than the expiration of 5 years from the date this Order comes into force.
 
-### 3. Numbered Works[^key-2a7f046264f5bb8fbc3fea7f00d33c0d]
+### 3. Numbered Works[^c-2a7f046264f5bb8fbc3fea7f00d33c0d]
 
 Where these requirements refer to numbered work 2, such reference is to be taken to mean numbered works 2A – 2G (inclusive).
 
-### 4. Detailed Design[^key-4a1be03685deb26d2f926ada581e16ad]
+### 4. Detailed Design[^c-4a1be03685deb26d2f926ada581e16ad]
 
 (1) The authorised development must be carried out in accordance with the approved plans in Table 1 below, inclusive of any limits of deviation, bearing the references listed below and any other plans, drawings, documents, details, schemes, statements or strategies which are approved by the relevant planning authority pursuant to any requirement (as the same may be amended by approval of the relevant planning authority in accordance with requirement 18(1))—
 
-Table 1[^key-ac21d4f6b1a95b2029d0e4b3b080c684]
+Table 1[^c-ac21d4f6b1a95b2029d0e4b3b080c684]
 
 |  |  |
 | --- | --- |
@@ -49,7 +49,7 @@ Table 1[^key-ac21d4f6b1a95b2029d0e4b3b080c684]
 
 (2) The authorised development must be carried out in accordance the parameters specified in Table 2 below (as the same may be amended by approval of the relevant planning authority pursuant to requirement 18(1))—
 
-Table 2[^key-4e375942f157257aea7d717edbe5b06c]
+Table 2[^c-4e375942f157257aea7d717edbe5b06c]
 
 | Building or Structure | Maximum height (metres above 211 metres AOD) | Minimum height (metres above 211 metres AOD) | Maximum length (metres) | Minimum length (metres) | Maximum width (metres) | Minimum width (metres) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -70,15 +70,15 @@ Table 2[^key-4e375942f157257aea7d717edbe5b06c]
 | Raw/fire water tank (part of numbered work 2E) | 18.0 | – | 15.0 | – | 15.0 | – |
 | Bat mitigation structure (part of numbered work 2E) | 6.0 | – | 10.0 | – | 5.0 | – |
 
-(3)[^key-5a45dc9ebec72087df11cfbe224a27df] Save in respect of the bat mitigation structure forming part of numbered work 2E(g), the remainder of numbered work 2 of the authorised development is not to commence until details of the layout, scale and external appearance of numbered work 2 (except for the bat mitigation structure) have been submitted to and approved by the relevant planning authority in consultation with the Brecon Beacons National Park Authority.
+(3)[^c-5a45dc9ebec72087df11cfbe224a27df] Save in respect of the bat mitigation structure forming part of numbered work 2E(g), the remainder of numbered work 2 of the authorised development is not to commence until details of the layout, scale and external appearance of numbered work 2 (except for the bat mitigation structure) have been submitted to and approved by the relevant planning authority in consultation with the Brecon Beacons National Park Authority.
 
 (4) Paragraph (3) is not to apply to any new permanent or temporary means of access to a highway forming part of numbered work 2 which has been approved pursuant to requirement 4.
 
 (5) To the extent that design principles for any numbered work are set out in the design principles statement, that numbered work must be designed substantially in accordance with the relevant design principle set out therein.
 
-(6)[^key-4d56727b5b91da738dd6bf5ff8a6f0fa] Save as otherwise provided for in this requirement, the authorised development must be carried out substantially in accordance with the mitigation measures identified in the mitigation commitments register in so far as they relate to the authorised development. Notwithstanding the reference on page 9 of the mitigation commitments register to the bat mitigation structure being provided one year prior to the demolition of the existing structures, where bat mitigation has been in place for the period agreed with the relevant planning authority and Natural Resources Wales in accordance with Requirement 4(7)(b)(iv) that period shall be deemed to be substantially in accordance with the mitigation measures identified in the commitments register.
+(6)[^c-4d56727b5b91da738dd6bf5ff8a6f0fa] Save as otherwise provided for in this requirement, the authorised development must be carried out substantially in accordance with the mitigation measures identified in the mitigation commitments register in so far as they relate to the authorised development. Notwithstanding the reference on page 9 of the mitigation commitments register to the bat mitigation structure being provided one year prior to the demolition of the existing structures, where bat mitigation has been in place for the period agreed with the relevant planning authority and Natural Resources Wales in accordance with Requirement 4(7)(b)(iv) that period shall be deemed to be substantially in accordance with the mitigation measures identified in the commitments register.
 
-(7)[^key-356fa86d64d263316fcedc5c56d96415] The bat mitigation structure forming part of numbered work 2E(g) of the authorised development is not to commence until:
+(7)[^c-356fa86d64d263316fcedc5c56d96415] The bat mitigation structure forming part of numbered work 2E(g) of the authorised development is not to commence until:
 
 - (a) dusk and dawn bat surveys have been completed and the results submitted to the relevant planning authority and Natural Resources Wales; and
 - (b) the following details of the bat mitigation structure have been submitted to and approved by the relevant planning authority in consultation with Natural Resources Wales (informed by the results of the survey referred to in (a) above):
@@ -87,9 +87,9 @@ Table 2[^key-4e375942f157257aea7d717edbe5b06c]
   - (iii) if an existing building, details of any alterations to the building required to make it suitable as bat mitigation; and
   - (iv) the period for which such mitigation (for either a new structure or existing building) is required to be in place prior to demolition works commencing on site.
 
-### 5. Provision of landscaping[^key-4db9e278b3f8b44504efc86781b47d50]
+### 5. Provision of landscaping[^c-4db9e278b3f8b44504efc86781b47d50]
 
-(1)[^key-95c71ca4770395acb611bb0b6105ab7d] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, the remainder of numbered work 2 of the authorised development is not to commence until a written landscaping plan for numbered work 2 has been submitted to and approved by the relevant planning authority. The landscaping plan must include details of all proposed hard and soft landscaping works and be substantially in accordance with the landscaping mitigation proposals set out in figure 11.5 of the environmental statement in so far as they relate to numbered work 2, and include details of—
+(1)[^c-95c71ca4770395acb611bb0b6105ab7d] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, the remainder of numbered work 2 of the authorised development is not to commence until a written landscaping plan for numbered work 2 has been submitted to and approved by the relevant planning authority. The landscaping plan must include details of all proposed hard and soft landscaping works and be substantially in accordance with the landscaping mitigation proposals set out in figure 11.5 of the environmental statement in so far as they relate to numbered work 2, and include details of—
 
 - (a) location, number, species, size and planting density of any proposed planting including details of any proposed tree planting and the proposed times of such planting;
 - (b) cultivation, importing of materials and other operations to ensure plant establishment;
@@ -108,15 +108,15 @@ Table 2[^key-4e375942f157257aea7d717edbe5b06c]
 
 (4) Any tree or shrub planted as part of an approved landscaping scheme that, within a period of five years after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless otherwise approved by the relevant planning authority.
 
-### 6. Highway accesses[^key-706d873919316631cb1d7c04ef52061c]
+### 6. Highway accesses[^c-706d873919316631cb1d7c04ef52061c]
 
-(1)[^key-ce1311a82a523af6973e28c87737280e] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, the remainder of numbered work 2 of the authorised development is not to commence until written details of the design, layout and (where not already identified in Schedule 3 and the rights of way, streets and access plan) siting of any new permanent or temporary means of access to a highway to be used by vehicular traffic, or any alteration to an existing means of access to a highway used by vehicular traffic, has been submitted to and approved by the relevant planning authority (in consultation with the highway authority).
+(1)[^c-ce1311a82a523af6973e28c87737280e] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, the remainder of numbered work 2 of the authorised development is not to commence until written details of the design, layout and (where not already identified in Schedule 3 and the rights of way, streets and access plan) siting of any new permanent or temporary means of access to a highway to be used by vehicular traffic, or any alteration to an existing means of access to a highway used by vehicular traffic, has been submitted to and approved by the relevant planning authority (in consultation with the highway authority).
 
 (2) The highway accesses must be constructed in accordance with the approved details.
 
-### 7. Fencing and other means of enclosure[^key-ee93b31e046b6bf6fb61b42bf6d66cc8]
+### 7. Fencing and other means of enclosure[^c-ee93b31e046b6bf6fb61b42bf6d66cc8]
 
-(1)[^key-3fb0df3daae4bf250433665c5d87330a] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, the remainder of numbered work 2 of the authorised development is not to commence until written details of all proposed permanent and temporary fences, walls or other means of enclosure have been submitted to and approved by the relevant planning authority.
+(1)[^c-3fb0df3daae4bf250433665c5d87330a] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, the remainder of numbered work 2 of the authorised development is not to commence until written details of all proposed permanent and temporary fences, walls or other means of enclosure have been submitted to and approved by the relevant planning authority.
 
 (2) Any construction sites must remain securely fenced at all times during construction of the authorised development.
 
@@ -126,29 +126,29 @@ Table 2[^key-4e375942f157257aea7d717edbe5b06c]
 
 (5) Any permanent gates comprised in numbered work 2 are to be set back a minimum of 10 metres from the nearside edge of the carriageway.
 
-### 8. Surface and foul water drainage[^key-5a6a8a7464d71ddc35bcd077cae72017]
+### 8. Surface and foul water drainage[^c-5a6a8a7464d71ddc35bcd077cae72017]
 
-(1)[^key-81c6bc1a1c97230e4b961b6ed6285b22] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, the remainder of numbered work 2 of the authorised development is not to commence until written details of a surface and foul water drainage plan (including means of pollution control) have, after consultation with the relevant sewerage and drainage authority, been submitted to and approved by the relevant planning authority, such strategy to be in substantial accordance with the principles set out in Section 5.2 of the flood risk assessment.
+(1)[^c-81c6bc1a1c97230e4b961b6ed6285b22] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, the remainder of numbered work 2 of the authorised development is not to commence until written details of a surface and foul water drainage plan (including means of pollution control) have, after consultation with the relevant sewerage and drainage authority, been submitted to and approved by the relevant planning authority, such strategy to be in substantial accordance with the principles set out in Section 5.2 of the flood risk assessment.
 
 (2) The surface and foul water drainage plan must be implemented in accordance with the approved details.
 
-### 9. Contaminated land and groundwater[^key-bd2d649d1b54bf93489e0f1b4aee8778]
+### 9. Contaminated land and groundwater[^c-bd2d649d1b54bf93489e0f1b4aee8778]
 
-(1)[^key-45f3988e71f5e2effd490296a3f2455c] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, the remainder of numbered work 2 of the authorised development is not to commence until a written scheme applicable to that numbered work, to deal with the contamination of any land, including groundwater, which is likely to cause significant harm to persons, the environment or significant pollution of controlled waters has, after consultation with Natural Resources Wales been submitted to and approved by the relevant planning authority.
+(1)[^c-45f3988e71f5e2effd490296a3f2455c] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, the remainder of numbered work 2 of the authorised development is not to commence until a written scheme applicable to that numbered work, to deal with the contamination of any land, including groundwater, which is likely to cause significant harm to persons, the environment or significant pollution of controlled waters has, after consultation with Natural Resources Wales been submitted to and approved by the relevant planning authority.
 
 (2) The scheme must include an investigation and assessment report, prepared by a specialist consultant approved by the relevant planning authority, to identify the extent of any contamination and the remedial measures to be taken to render the land fit for its intended purpose, together with a management plan which sets out long-term measures with respect to any contaminants remaining on the site.
 
 (3) Remediation must be carried out in accordance with the approved scheme.
 
-### 10. Ecological management plan[^key-b9c2e09a156f12cff05b7b5ae2f8cdd3]
+### 10. Ecological management plan[^c-b9c2e09a156f12cff05b7b5ae2f8cdd3]
 
-(1)[^key-ce10cc13830a3e5789dca1379d1d8431] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, each of numbered works 1 and the remainder of numbered work 2 of the authorised development is not to commence until a written ecological management plan covering that numbered work reflecting a preconstruction ecological constraints survey and the ecological mitigation plan for that numbered work, figure 11.5 and section 8.7 of the environmental statement has been submitted to and approved by the relevant planning authority in consultation with Natural Resources Wales.
+(1)[^c-ce10cc13830a3e5789dca1379d1d8431] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, each of numbered works 1 and the remainder of numbered work 2 of the authorised development is not to commence until a written ecological management plan covering that numbered work reflecting a preconstruction ecological constraints survey and the ecological mitigation plan for that numbered work, figure 11.5 and section 8.7 of the environmental statement has been submitted to and approved by the relevant planning authority in consultation with Natural Resources Wales.
 
 (2) The ecological management plan must include an implementation timetable and must be carried out as approved.
 
-### 11. Archaeology[^key-1e46b128ef35bce8c20645ec9bb0eed7]
+### 11. Archaeology[^c-1e46b128ef35bce8c20645ec9bb0eed7]
 
-(1)[^key-c581d462fe9ab66a592c0fdebe594c56] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, each of numbered work 1 and the remainder of numbered work 2 of the authorised development is not to commence until a written scheme of investigation covering that numbered work has been submitted to and approved by the relevant planning authority.
+(1)[^c-c581d462fe9ab66a592c0fdebe594c56] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, each of numbered work 1 and the remainder of numbered work 2 of the authorised development is not to commence until a written scheme of investigation covering that numbered work has been submitted to and approved by the relevant planning authority.
 
 (2) The written scheme of investigation is to be a technical document that outlines the aim and objectives and methods to be employed during a scheme of archaeological investigation work.
 
@@ -158,15 +158,15 @@ Table 2[^key-4e375942f157257aea7d717edbe5b06c]
 
 (5) Any archaeological works or watching brief must be carried out in accordance with the approved scheme.
 
-### 12. Construction environment management plan[^key-636f055bb751f8520aefd87c4e69f65e]
+### 12. Construction environment management plan[^c-636f055bb751f8520aefd87c4e69f65e]
 
-(1)[^key-56df672125d0b74b18a3dd29837aeff8] No numbered work of the authorised development is to commence other than the bat mitigation structure forming part of numbered work 2E(g) of the authorised development until a construction environment management plan covering that numbered work has been submitted to and approved by the relevant planning authority.
+(1)[^c-56df672125d0b74b18a3dd29837aeff8] No numbered work of the authorised development is to commence other than the bat mitigation structure forming part of numbered work 2E(g) of the authorised development until a construction environment management plan covering that numbered work has been submitted to and approved by the relevant planning authority.
 
 (2) All construction works must be undertaken in accordance with the approved construction environment management plan.
 
-### 13. Construction traffic[^key-a47dcab5435943a2f8a02167a7caa606]
+### 13. Construction traffic[^c-a47dcab5435943a2f8a02167a7caa606]
 
-(1)[^key-57985593c532d3748b8d8749ff36c46a] No numbered work of the authorised development other than tree felling and the bat mitigation structure forming part of numbered work 2E(g) of the authorised development is to commence until a construction traffic management plan covering that numbered work has been submitted to and approved by the relevant planning authority in consultation with Welsh Government Transport. The construction management plan is to detail the proposals for the movement of construction traffic and abnormal indivisible loads associated with the authorised development and is to include—
+(1)[^c-57985593c532d3748b8d8749ff36c46a] No numbered work of the authorised development other than tree felling and the bat mitigation structure forming part of numbered work 2E(g) of the authorised development is to commence until a construction traffic management plan covering that numbered work has been submitted to and approved by the relevant planning authority in consultation with Welsh Government Transport. The construction management plan is to detail the proposals for the movement of construction traffic and abnormal indivisible loads associated with the authorised development and is to include—
 
 - (a) construction vehicle routing plans at 1:2,500 scale for all traffic including abnormal indivisible loads showing—
   - (i) swept path analysis from the point of entry onto the highway network to the Order land;
@@ -188,7 +188,7 @@ Table 2[^key-4e375942f157257aea7d717edbe5b06c]
 
 (3) During the operation or decommissioning of numbered work 2 no abnormal indivisible loads must be transported into or out of the Order land without the prior written approval of the relevant planning authority in consultation with Welsh Government Transport.
 
-### 14. Construction hours[^key-cfa2d0c71febe823e80d1f9df21907f7]
+### 14. Construction hours[^c-cfa2d0c71febe823e80d1f9df21907f7]
 
 (1) No construction work, or the delivery or removal of materials, is to take place outside the hours of—
 
@@ -197,7 +197,7 @@ Table 2[^key-4e375942f157257aea7d717edbe5b06c]
 
 (2) Sub-paragraph (1) does not prevent outside such hours construction works, or the delivery or removal of materials, being carried out with the prior written approval of the relevant planning authority.
 
-### 15. Control of noise during operational phase[^key-38dfa52663363507442c5e66886c2fbc]
+### 15. Control of noise during operational phase[^c-38dfa52663363507442c5e66886c2fbc]
 
 (1) Following the date of final commissioning of numbered work 2, site-attributable noise attributable to numbered work 2 during the operational phase must be limited at all times of day to the noise levels set out below in Table 3 measured at the coordinates set out below in Table 3—
 
@@ -228,31 +228,31 @@ Table 3
 
 (5) Any subsequent complaint by person from whom the undertaker has previously investigated a complaint under paragraph (4) must be referred by the undertaker to the relevant planning authority (although only one complaint per person per month must be referred).
 
-### 16. Control of artificial light emissions[^key-37f57dd223be4bf7d37e4ae0aa2c596c]
+### 16. Control of artificial light emissions[^c-37f57dd223be4bf7d37e4ae0aa2c596c]
 
-(1)[^key-3cd378b21e95f6e067a80cb1b5145054] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, the remainder of numbered work 2 of the authorised development is not to commence until, after consultation with the relevant planning authority, a written scheme for the management and mitigation of artificial light emissions which is in accordance with the outline lighting strategy in so far as it relates to the authorised development has been submitted to and approved by the relevant planning authority in consultation with the Brecon Beacons National Park Authority.
+(1)[^c-3cd378b21e95f6e067a80cb1b5145054] With the exception of the bat mitigation structure forming part of numbered work 2E(g) of the authorised development which may commence, the remainder of numbered work 2 of the authorised development is not to commence until, after consultation with the relevant planning authority, a written scheme for the management and mitigation of artificial light emissions which is in accordance with the outline lighting strategy in so far as it relates to the authorised development has been submitted to and approved by the relevant planning authority in consultation with the Brecon Beacons National Park Authority.
 
 (2) The approved scheme for the management and mitigation of artificial light emissions must be implemented before and maintained during the operation of the relevant numbered work.
 
-### 17. Decommissioning strategy[^key-9ab61a8760f3a80cf076c8aab805d2df]
+### 17. Decommissioning strategy[^c-9ab61a8760f3a80cf076c8aab805d2df]
 
 (1) Subject to obtaining the necessary consents, unless otherwise agreed with the relevant planning authority, within twenty four months of the site ceasing to be used for the purposes of electricity generation (either actively generating electricity or being available to generate electricity on a standby basis), a scheme for the demolition and removal of numbered work 2 must be submitted to the relevant planning authority.
 
 (2) The demolition and removal of numbered work 2 must be implemented in accordance with the approved scheme.
 
-### 18. Amendments to approved details[^key-4f7f4046756b40fdb9b25e1e5dcd6509]
+### 18. Amendments to approved details[^c-4f7f4046756b40fdb9b25e1e5dcd6509]
 
 (1) With respect to any plans, details, schemes or matters which require approval by the relevant planning authority pursuant to any other requirement (the “Plans, Details or Schemes”), the undertaker may submit to the relevant planning authority for approval any amendments to the Plans, Details or Schemes and following any such approval by the relevant planning authority the Plans, Details or Schemes are to be taken to include the amendments approved pursuant to this sub-paragraph (1).
 
 (2) Approval under requirement sub-paragraph (1) must not be given except where it has been demonstrated to the satisfaction of the relevant planning authority that the subject-matter of the approval sought does not give rise to any materially new or materially different environmental effects in comparison with the authorised development as approved (as identified in the environmental statement).
 
-### 19. Date of final commissioning and cessation[^key-6de770232241132cc814c13ddeae327b]
+### 19. Date of final commissioning and cessation[^c-6de770232241132cc814c13ddeae327b]
 
 (1) The undertaker must notify the relevant planning authority of the date of final commissioning as soon as reasonably practicable and in any event within three months after the occurrence of that date.
 
 (2) The undertaker must notify the relevant planning authority of the date the authorised development permanently ceases to generate power on a commercial basis as soon as reasonably practicable and in any event within three months after the occurrence of that date.
 
-### 20. Provision of details to the Ministry of Defence[^key-37f54e12b4aac2a6ccf5b09b7af6f761]
+### 20. Provision of details to the Ministry of Defence[^c-37f54e12b4aac2a6ccf5b09b7af6f761]
 
 Numbered work 2 of the authorised development is not to commence until the following details for that numbered work have been provided to the Ministry of Defence Geographic Centre—
 
@@ -262,7 +262,7 @@ Numbered work 2 of the authorised development is not to commence until the follo
 - (d) the height above ground of the tallest structure forming part of the authorised development; and
 - (e) the maximum extension height of the tallest structure anticipated to be within the Order land during construction of the authorised development.
 
-### 21. Operational Limits[^key-c73a230541a017d920d421ce775c7478]
+### 21. Operational Limits[^c-c73a230541a017d920d421ce775c7478]
 
 (1) In any calendar year the operation of the gas turbine generators comprised in numbered work 2A must not exceed 1500 hours in total.
 
@@ -272,74 +272,74 @@ Numbered work 2 of the authorised development is not to commence until the follo
 
 ## Annotations
 
-[^key-8220d3bed203c3216433de741fa0f4af]: Commencement: Sch. 2 para. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-8220d3bed203c3216433de741fa0f4af]: Commencement: Sch. 2 para. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-20fe67728ff529f037d0ae8e2a03b32e]: Commencement: Sch. 2 para. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-20fe67728ff529f037d0ae8e2a03b32e]: Commencement: Sch. 2 para. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-2a7f046264f5bb8fbc3fea7f00d33c0d]: Commencement: Sch. 2 para. 3 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-2a7f046264f5bb8fbc3fea7f00d33c0d]: Commencement: Sch. 2 para. 3 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-4a1be03685deb26d2f926ada581e16ad]: Commencement: Sch. 2 para. 4 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-4a1be03685deb26d2f926ada581e16ad]: Commencement: Sch. 2 para. 4 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-ac21d4f6b1a95b2029d0e4b3b080c684]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/4) Table 1 substituted (12.11.2016) by [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/1087/article/6/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1087/schedule/1)
+[^c-ac21d4f6b1a95b2029d0e4b3b080c684]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/4) Table 1 substituted (12.11.2016) by [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/1087/article/6/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1087/schedule/1)
 
-[^key-4e375942f157257aea7d717edbe5b06c]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/4) Table 2 substituted (12.11.2016) by [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2016/1087/article/6/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1087/schedule/2)
+[^c-4e375942f157257aea7d717edbe5b06c]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/4) Table 2 substituted (12.11.2016) by [The Hirwaun Generating Station (Amendment) Order 2016 (S.I. 2016/1087)](https://www.legislation.gov.uk/uksi/2016/1087), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1087/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2016/1087/article/6/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1087/schedule/2)
 
-[^key-5a45dc9ebec72087df11cfbe224a27df]: Textual amendment: [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/4/3) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/2)
+[^c-5a45dc9ebec72087df11cfbe224a27df]: Textual amendment: [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/4/3) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/2)
 
-[^key-4d56727b5b91da738dd6bf5ff8a6f0fa]: Textual amendment: [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/4/6) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/3)
+[^c-4d56727b5b91da738dd6bf5ff8a6f0fa]: Textual amendment: [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/4/6) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/3)
 
-[^key-356fa86d64d263316fcedc5c56d96415]: Textual amendment: [Sch. 2 para. 4(7)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/4/7) inserted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/4)
+[^c-356fa86d64d263316fcedc5c56d96415]: Textual amendment: [Sch. 2 para. 4(7)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/4/7) inserted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/4)
 
-[^key-4db9e278b3f8b44504efc86781b47d50]: Commencement: Sch. 2 para. 5 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-4db9e278b3f8b44504efc86781b47d50]: Commencement: Sch. 2 para. 5 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-95c71ca4770395acb611bb0b6105ab7d]: Textual amendment: [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/5/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/5)
+[^c-95c71ca4770395acb611bb0b6105ab7d]: Textual amendment: [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/5/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/5)
 
-[^key-706d873919316631cb1d7c04ef52061c]: Commencement: Sch. 2 para. 6 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-706d873919316631cb1d7c04ef52061c]: Commencement: Sch. 2 para. 6 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-ce1311a82a523af6973e28c87737280e]: Textual amendment: [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/6/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/6)
+[^c-ce1311a82a523af6973e28c87737280e]: Textual amendment: [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/6/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/6)
 
-[^key-ee93b31e046b6bf6fb61b42bf6d66cc8]: Commencement: Sch. 2 para. 7 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-ee93b31e046b6bf6fb61b42bf6d66cc8]: Commencement: Sch. 2 para. 7 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-3fb0df3daae4bf250433665c5d87330a]: Textual amendment: [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/7/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/7)
+[^c-3fb0df3daae4bf250433665c5d87330a]: Textual amendment: [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/7/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/7)
 
-[^key-5a6a8a7464d71ddc35bcd077cae72017]: Commencement: Sch. 2 para. 8 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-5a6a8a7464d71ddc35bcd077cae72017]: Commencement: Sch. 2 para. 8 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-81c6bc1a1c97230e4b961b6ed6285b22]: Textual amendment: [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/8/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/8)
+[^c-81c6bc1a1c97230e4b961b6ed6285b22]: Textual amendment: [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/8/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/8)
 
-[^key-bd2d649d1b54bf93489e0f1b4aee8778]: Commencement: Sch. 2 para. 9 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-bd2d649d1b54bf93489e0f1b4aee8778]: Commencement: Sch. 2 para. 9 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-45f3988e71f5e2effd490296a3f2455c]: Textual amendment: [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/9/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(9)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/9)
+[^c-45f3988e71f5e2effd490296a3f2455c]: Textual amendment: [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/9/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(9)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/9)
 
-[^key-b9c2e09a156f12cff05b7b5ae2f8cdd3]: Commencement: Sch. 2 para. 10 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-b9c2e09a156f12cff05b7b5ae2f8cdd3]: Commencement: Sch. 2 para. 10 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-ce10cc13830a3e5789dca1379d1d8431]: Textual amendment: [Sch. 2 para. 10(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/10/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(10)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/10)
+[^c-ce10cc13830a3e5789dca1379d1d8431]: Textual amendment: [Sch. 2 para. 10(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/10/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(10)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/10)
 
-[^key-1e46b128ef35bce8c20645ec9bb0eed7]: Commencement: Sch. 2 para. 11 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-1e46b128ef35bce8c20645ec9bb0eed7]: Commencement: Sch. 2 para. 11 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-c581d462fe9ab66a592c0fdebe594c56]: Textual amendment: [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/11/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/11)
+[^c-c581d462fe9ab66a592c0fdebe594c56]: Textual amendment: [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/11/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/11)
 
-[^key-636f055bb751f8520aefd87c4e69f65e]: Commencement: Sch. 2 para. 12 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-636f055bb751f8520aefd87c4e69f65e]: Commencement: Sch. 2 para. 12 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-56df672125d0b74b18a3dd29837aeff8]: Textual amendment: [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/12/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(12)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/12)
+[^c-56df672125d0b74b18a3dd29837aeff8]: Textual amendment: [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/12/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(12)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/12)
 
-[^key-a47dcab5435943a2f8a02167a7caa606]: Commencement: Sch. 2 para. 13 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-a47dcab5435943a2f8a02167a7caa606]: Commencement: Sch. 2 para. 13 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-57985593c532d3748b8d8749ff36c46a]: Textual amendment: [Sch. 2 para. 13(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/13/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(13)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/13)
+[^c-57985593c532d3748b8d8749ff36c46a]: Textual amendment: [Sch. 2 para. 13(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/13/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(13)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/13)
 
-[^key-cfa2d0c71febe823e80d1f9df21907f7]: Commencement: Sch. 2 para. 14 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-cfa2d0c71febe823e80d1f9df21907f7]: Commencement: Sch. 2 para. 14 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-38dfa52663363507442c5e66886c2fbc]: Commencement: Sch. 2 para. 15 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-38dfa52663363507442c5e66886c2fbc]: Commencement: Sch. 2 para. 15 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-37f57dd223be4bf7d37e4ae0aa2c596c]: Commencement: Sch. 2 para. 16 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-37f57dd223be4bf7d37e4ae0aa2c596c]: Commencement: Sch. 2 para. 16 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-3cd378b21e95f6e067a80cb1b5145054]: Textual amendment: [Sch. 2 para. 16(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/16/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(14)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/14)
+[^c-3cd378b21e95f6e067a80cb1b5145054]: Textual amendment: [Sch. 2 para. 16(1)](https://www.legislation.gov.uk/uksi/2015/1574/schedule/2/paragraph/16/1) substituted (20.10.2017) by [The Hirwaun Generating Station (Amendment) Order 2017 (S.I. 2017/1009)](https://www.legislation.gov.uk/uksi/2017/1009), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1009/article/1), [2(14)](https://www.legislation.gov.uk/uksi/2017/1009/article/2/14)
 
-[^key-9ab61a8760f3a80cf076c8aab805d2df]: Commencement: Sch. 2 para. 17 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-9ab61a8760f3a80cf076c8aab805d2df]: Commencement: Sch. 2 para. 17 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-4f7f4046756b40fdb9b25e1e5dcd6509]: Commencement: Sch. 2 para. 18 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-4f7f4046756b40fdb9b25e1e5dcd6509]: Commencement: Sch. 2 para. 18 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-6de770232241132cc814c13ddeae327b]: Commencement: Sch. 2 para. 19 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-6de770232241132cc814c13ddeae327b]: Commencement: Sch. 2 para. 19 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-37f54e12b4aac2a6ccf5b09b7af6f761]: Commencement: Sch. 2 para. 20 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-37f54e12b4aac2a6ccf5b09b7af6f761]: Commencement: Sch. 2 para. 20 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
-[^key-c73a230541a017d920d421ce775c7478]: Commencement: Sch. 2 para. 21 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-c73a230541a017d920d421ce775c7478]: Commencement: Sch. 2 para. 21 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

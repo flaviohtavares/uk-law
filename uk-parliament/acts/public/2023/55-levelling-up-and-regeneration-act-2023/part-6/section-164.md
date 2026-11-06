@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Interaction with existing environmental assessment legislation and the Habitats Regulations[^key-9b070a8bbd5323dca67189425de5a41a]
+## 164. Interaction with existing environmental assessment legislation and the Habitats Regulations[^c-9b070a8bbd5323dca67189425de5a41a]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b070a8bbd5323dca67189425de5a41a]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2023/55/section/164) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-9b070a8bbd5323dca67189425de5a41a]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2023/55/section/164) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)

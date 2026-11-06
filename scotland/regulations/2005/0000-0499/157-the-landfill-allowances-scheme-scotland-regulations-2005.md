@@ -47,7 +47,7 @@ as they consider appropriate, hereby make the following Regulations, a draft of 
 
 ## PART 1 — General
 
-### 1. Citation, commencement and extent[^key-43892009e9ddc2419dd087056731be74]
+### 1. Citation, commencement and extent[^c-43892009e9ddc2419dd087056731be74]
 
 (1) These Regulations may be cited as the Landfill Allowances Scheme (Scotland) Regulations 2005.
 
@@ -57,20 +57,20 @@ as they consider appropriate, hereby make the following Regulations, a draft of 
 
 (4) These Regulations extend to Scotland only.
 
-### 2. Interpretation[^key-6a947ff5eb656a875bf344dcd66a2620]
+### 2. Interpretation[^c-6a947ff5eb656a875bf344dcd66a2620]
 
 (1) In these Regulations–
 
 - “the Act” means the Waste and Emissions Trading Act 2003;
 - “collected municipal waste” means municipal waste which is recovered or disposed of in pursuance of arrangements made by a waste disposal authority or a waste collection authority;
-- “[^key-4945d66ff88aaa8659b29ba332961797]**disposal**” has the meaning given by regulation 2(1) of the Waste Management Licensing (Scotland) Regulations 2011;
+- “[^c-4945d66ff88aaa8659b29ba332961797]**disposal**” has the meaning given by regulation 2(1) of the Waste Management Licensing (Scotland) Regulations 2011;
 - “electronic communication” has the same meaning as in section 15(1) of the Electronic Communications Act 2000[^f00003];
-- “European Waste Catalogue” has the same meaning as in regulation 1(4) of the Special Waste Regulations 1996[^key-8d5323d9a64762cc26f31bbbd12bc28b][^M_F_aa51cf59-9b1e-430e-db69-48873f1a5e55],
+- “European Waste Catalogue” has the same meaning as in regulation 1(4) of the Special Waste Regulations 1996[^c-8d5323d9a64762cc26f31bbbd12bc28b][^M_F_aa51cf59-9b1e-430e-db69-48873f1a5e55],
 - “landfill allowance account” means the landfill allowance account contained in the landfill allowances register under regulation 16(2);
-- “Landfill Directive” means Council[^key-b113e515a23874f7ad62b306d3f8f90b] [Directive 99/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste[^M_F_4e5fa872-1d93-4ecc-d780-b6ce3db82fc9] as last amended by Directive (EU) 2018/850 of the European Parliament and of the Council[^M_F_44753f46-8050-4e9d-f4ad-e8894bd7d008],
+- “Landfill Directive” means Council[^c-b113e515a23874f7ad62b306d3f8f90b] [Directive 99/31/EC](https://www.legislation.gov.uk/european/directive/1999/0031) on the landfill of waste[^M_F_4e5fa872-1d93-4ecc-d780-b6ce3db82fc9] as last amended by Directive (EU) 2018/850 of the European Parliament and of the Council[^M_F_44753f46-8050-4e9d-f4ad-e8894bd7d008],
 - “operator of a landfill” means the person who has control over the operation of the landfill;
 - “reconciliation period” means the period of 6 months following the end of a scheme year;
-- “[^key-947ab94f22775ffd446e5aa18575f913]**recovery**” has the same meaning as in Article 3 of, and Annex II to, Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste and repealing certain Directives, as amended by Commission Regulation (EU) 1357/2014 replacing Annex III to Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
+- “[^c-947ab94f22775ffd446e5aa18575f913]**recovery**” has the same meaning as in Article 3 of, and Annex II to, Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste and repealing certain Directives, as amended by Commission Regulation (EU) 1357/2014 replacing Annex III to Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
 - “relevant authority” means–
   - (a) the monitoring authority;
   - (b) the Scottish Ministers;
@@ -94,7 +94,7 @@ as they consider appropriate, hereby make the following Regulations, a draft of 
 
   and not subsequently been banked, borrowed, transferred or withdrawn.
 
-### 3. Giving notices and notifications, and the submission of forms and returns[^key-59baeff665760ff0f76efd62062a3f3d]
+### 3. Giving notices and notifications, and the submission of forms and returns[^c-59baeff665760ff0f76efd62062a3f3d]
 
 (1) Subject to paragraph (2), where under these Regulations a person is required or authorised to–
 
@@ -114,7 +114,7 @@ the form, notice, return or notification must be in writing.
 - (c) regulation 4(3)(b) applies, the form may be submitted to the monitoring authority via the website;
 - (d) a relevant authority maintains a website for the purpose of enabling returns to be submitted to the monitoring authority, any return which is enabled to be so submitted may be submitted to the monitoring authority via the website.
 
-### 4. Electronic registers and forms[^key-37e5c837285566db0b998b2c79b5e779]
+### 4. Electronic registers and forms[^c-37e5c837285566db0b998b2c79b5e779]
 
 (1) The register established or maintained under regulation 16 may be in electronic form.
 
@@ -127,7 +127,7 @@ the form, notice, return or notification must be in writing.
 
 ## PART 2 — Allocation and the banking, borrowing and transfer of landfill allowances
 
-### 5. Allocation of allowances[^key-4c4a118558bd4ef0a560c0ffab101787]
+### 5. Allocation of allowances[^c-4c4a118558bd4ef0a560c0ffab101787]
 
 As soon as reasonably practicable after the Scottish Ministers have complied with section 4(4) of the Act, the monitoring authority must assign all landfill allowances allocated to a waste disposal authority under that section–
 
@@ -137,7 +137,7 @@ As soon as reasonably practicable after the Scottish Ministers have complied wit
   - (ii) the year for which the allowance is allocated,
   - (iii) the vintage of the allowance for that year.
 
-### 6. Banking landfill allowances[^key-525c27fb9144778679fd1ed244ed4f72]
+### 6. Banking landfill allowances[^c-525c27fb9144778679fd1ed244ed4f72]
 
 (1) All landfill allowances which–
 
@@ -151,7 +151,7 @@ must be banked for use in the following scheme year.
 - (a) in a target year,
 - (b) where the following scheme year is a target year.
 
-### 7. Borrowing of landfill allowances[^key-7dba20fe8e8ab7c18fb7321e323891cc]
+### 7. Borrowing of landfill allowances[^c-7dba20fe8e8ab7c18fb7321e323891cc]
 
 (1) Subject to paragraphs (2) and (3), a waste disposal authority may borrow for use in a scheme year (other than the scheme years mentioned in paragraph (3)) up to 5% of the landfill allowances available to it for the following scheme year (rounded down to the nearest whole allowance).
 
@@ -193,7 +193,7 @@ must be banked for use in the following scheme year.
 - (c) accepting the borrowing request would not cause the waste disposal authority to exceed the limit on borrowing under paragraph (1) or, as the case may be, paragraph (3); and
 - (d) the authority is not suspended from borrowing landfill allowances under regulation 9.
 
-### 8. Transfer of landfill allowances[^key-6a0d46d7aa03eccc4bebd6e41d84739a]
+### 8. Transfer of landfill allowances[^c-6a0d46d7aa03eccc4bebd6e41d84739a]
 
 (1) Subject to paragraph (2) a waste disposal authority may transfer to any other waste disposal authority, whether by way of trade or otherwise, landfill allowances which–
 
@@ -235,7 +235,7 @@ must be banked for use in the following scheme year.
 - (b) all landfill allowances are available to the transferor for the scheme years specified pursuant to paragraph (4)(b)(iii), and
 - (c) neither the transferor nor the transferee is suspended from transferring allowances under regulation 9.
 
-### 9. Suspension of banking, borrowing and transferring of landfill allowances[^key-171fb103f0bd81af81793d8c689d61b3]
+### 9. Suspension of banking, borrowing and transferring of landfill allowances[^c-171fb103f0bd81af81793d8c689d61b3]
 
 (1) The Scottish Ministers may suspend any or all waste disposal authorities from banking, borrowing and transferring landfill allowances if they consider–
 
@@ -277,11 +277,11 @@ must be banked for use in the following scheme year.
 
 ## PART 3 — Monitoring
 
-### 10. Monitoring authority[^key-590fa70b879cce66c9f316b0633977cd]
+### 10. Monitoring authority[^c-590fa70b879cce66c9f316b0633977cd]
 
 SEPA is the monitoring authority for Scotland.
 
-### 11. Obligation for waste disposal authorities to keep records and make returns[^key-1cbc3607e10923e001b12421b3252971]
+### 11. Obligation for waste disposal authorities to keep records and make returns[^c-1cbc3607e10923e001b12421b3252971]
 
 (1) A waste disposal authority must keep records containing the following information for each scheme year–
 
@@ -307,7 +307,7 @@ and to do so in such form, at such reasonable place and within such reasonable t
 
 (6) The monitoring authority, or a person authorised in writing by the monitoring authority, may make copies of any records produced or information or evidence supplied under paragraph (5).
 
-### 12. Obligation for operators of landfills to keep records and make returns[^key-498e7904531edc498a38861627aea12e]
+### 12. Obligation for operators of landfills to keep records and make returns[^c-498e7904531edc498a38861627aea12e]
 
 (1) An operator of a landfill must, if required to do so by the monitoring authority, keep records containing the following information for each scheme year–
 
@@ -343,7 +343,7 @@ and to do so in such form, at such reasonable place and within such reasonable t
 
 as are necessary to enable the monitoring authority or an authorised person to exercise the power.
 
-### 13. Determining the amount of biodegradable municipal waste in amounts of waste[^key-a415019750cabf8ab7dfb351a062eb36]
+### 13. Determining the amount of biodegradable municipal waste in amounts of waste[^c-a415019750cabf8ab7dfb351a062eb36]
 
 (1) The provisions in this regulation apply for the purposes of–
 
@@ -368,7 +368,7 @@ as are necessary to enable the monitoring authority or an authorised person to e
     - (ii) less than 1 tonne, the nearest 10 kilograms; and
 - “separated municipal waste” means waste which has been separated from other municipal waste, whether the separation occurs before or after the waste comes into the possession or under the control of a waste disposal authority or a waste collection authority.
 
-### 14. Calculation of the amount of biodegradable municipal waste sent to landfills[^key-ae4a4ff3a04a6c8be4d74235ff7eaedb]
+### 14. Calculation of the amount of biodegradable municipal waste sent to landfills[^c-ae4a4ff3a04a6c8be4d74235ff7eaedb]
 
 (1) No later than 5 months after the end of a scheme year, in relation to each waste disposal authority the monitoring authority must–
 
@@ -388,7 +388,7 @@ as are necessary to enable the monitoring authority or an authorised person to e
 
 (4) The monitoring authority must round the amount calculated in accordance with paragraph (3) up to the nearest tonne.
 
-### 15. Utilisation of landfill allowances[^key-ae2f7a0dcfacc98c264e12cadbf7be63]
+### 15. Utilisation of landfill allowances[^c-ae2f7a0dcfacc98c264e12cadbf7be63]
 
 (1) As soon as reasonably practicable after the end of the reconciliation period the monitoring authority must reconcile the allowances available to each waste disposal authority with the amount of biodegradable municipal waste sent to landfills by the waste disposal authority, as calculated under regulation 14(1)(a), by deeming allowances to have been utilised in accordance with paragraphs (2) and (3).
 
@@ -408,7 +408,7 @@ as are necessary to enable the monitoring authority or an authorised person to e
 
 ## PART 4 — Landfill Allowances Register
 
-### 16. Landfill allowances register[^key-415a84f4e6287f1df93a5d9c6b4a7ca9]
+### 16. Landfill allowances register[^c-415a84f4e6287f1df93a5d9c6b4a7ca9]
 
 (1) The monitoring authority must maintain a landfill allowances register.
 
@@ -436,7 +436,7 @@ as are necessary to enable the monitoring authority or an authorised person to e
 
 (3) At the end of the reconciliation period for a scheme year the landfill allowances register must record for that scheme year the total price (if any) paid by waste disposal authorities for the transfer of landfill allowances to that scheme year.
 
-### 17. Amendment of information on registers[^key-6db129d1552777d57ed5e3467f006842]
+### 17. Amendment of information on registers[^c-6db129d1552777d57ed5e3467f006842]
 
 (1) Where a relevant authority has reason to believe that any information on the landfill allowances register is incorrect, the authority may amend the register so as to correct that information.
 
@@ -447,7 +447,7 @@ as are necessary to enable the monitoring authority or an authorised person to e
 
 (3) Where a relevant authority amends a register under paragraph (1) it must notify any waste disposal authority which is affected by the amendment of the amendment which has been made.
 
-### 18. Availability of register[^key-3776fe5e0743f7bc3cbd81225cfd01df]
+### 18. Availability of register[^c-3776fe5e0743f7bc3cbd81225cfd01df]
 
 A relevant authority must–
 
@@ -456,7 +456,7 @@ A relevant authority must–
 
 ## PART 5 — Penalties
 
-### 19. Penalties: exceeding allowances[^key-e204fad11c9d0232196c54ebe99de26b]
+### 19. Penalties: exceeding allowances[^c-e204fad11c9d0232196c54ebe99de26b]
 
 (1) The penalty to which a waste disposal authority is liable under section 9(2) of the Act is the excess landfill for that waste disposal authority multiplied by:–
 
@@ -491,11 +491,11 @@ A relevant authority must–
   - P is the amount of any penalty already paid by a waste disposal authority under regulation 21 in respect of that year; or
 - (b) £1000.
 
-### 20. Penalties: failure to comply with requirements imposed by regulation 11[^key-46dc4bc89d97b58545802deeb950567b]
+### 20. Penalties: failure to comply with requirements imposed by regulation 11[^c-46dc4bc89d97b58545802deeb950567b]
 
 The penalty to which a waste disposal authority is liable under section 12(3) of the Act is £1000 for each requirement imposed on the authorities by regulation 11 with which the authority fails to comply.
 
-### 21. Penalties: general[^key-329f97e1c76c0bed6c59add90a82b52c]
+### 21. Penalties: general[^c-329f97e1c76c0bed6c59add90a82b52c]
 
 (1) Where a waste disposal authority is liable to a penalty, the Scottish Ministers may–
 
@@ -522,7 +522,7 @@ The penalty to which a waste disposal authority is liable under section 12(3) of
 
 ## PART 6 — Guidance
 
-### 22. Guidance to waste disposal authorities[^key-555fb07c3b32a8eddf3c721743209f9b]
+### 22. Guidance to waste disposal authorities[^c-555fb07c3b32a8eddf3c721743209f9b]
 
 A waste disposal authority, in exercising functions in relation to waste that is or contains biodegradable municipal waste, must have regard to any guidance issued by the Scottish Ministers under this regulation.
 
@@ -532,11 +532,11 @@ A member of the Scottish Executive
 
 St Andrew’s House, Edinburgh
 
-## SCHEDULE — Amount of biodegradable municipal waste in certain types of waste[^key-b09bd715be894de208cc9e03639c40d9]
+## SCHEDULE — Amount of biodegradable municipal waste in certain types of waste[^c-b09bd715be894de208cc9e03639c40d9]
 
 Regulation 13(2)(c)
 
-[^key-b09bd715be894de208cc9e03639c40d9]In this Schedule–
+[^c-b09bd715be894de208cc9e03639c40d9]In this Schedule–
 
 - “inert construction and demolition waste”–
   - (a) means any waste from construction or demolition activities which is not capable of undergoing anaerobic or aerobic decomposition, but
@@ -593,66 +593,66 @@ A regulatory impact assessment in relation to these Regulations has been placed 
 
 [^f00001]: Footnote: [2003 c. 33](https://www.legislation.gov.uk/ukpga/2003/33). The relevant powers in sections 6, 7, 10 to 13, 15, 16 and 26 are expressed to be exercisable by the allocating authority. In relation to Scotland, the Scottish Ministers are an allocating authority under section 24(1) of the Act.
 
-[^key-43892009e9ddc2419dd087056731be74]: Commencement: Reg. 1 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-43892009e9ddc2419dd087056731be74]: Commencement: Reg. 1 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-6a947ff5eb656a875bf344dcd66a2620]: Commencement: Reg. 2 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-6a947ff5eb656a875bf344dcd66a2620]: Commencement: Reg. 2 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-4945d66ff88aaa8659b29ba332961797]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/157/regulation/2/1) substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 17(a)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/17/a)
+[^c-4945d66ff88aaa8659b29ba332961797]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/157/regulation/2/1) substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 17(a)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/17/a)
 
 [^f00003]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-8d5323d9a64762cc26f31bbbd12bc28b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/157/regulation/2/1) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/436/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d5323d9a64762cc26f31bbbd12bc28b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/157/regulation/2/1) substituted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [regs. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/436/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_aa51cf59-9b1e-430e-db69-48873f1a5e55]: Textual amendment: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), as relevantly amended by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
 
-[^key-b113e515a23874f7ad62b306d3f8f90b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/157/regulation/2/1) substituted (10.12.2019) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/356)](https://www.legislation.gov.uk/ssi/2019/356), [regs. 1](https://www.legislation.gov.uk/ssi/2019/356/regulation/1), [2](https://www.legislation.gov.uk/ssi/2019/356/regulation/2)
+[^c-b113e515a23874f7ad62b306d3f8f90b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/157/regulation/2/1) substituted (10.12.2019) by [The Waste (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/356)](https://www.legislation.gov.uk/ssi/2019/356), [regs. 1](https://www.legislation.gov.uk/ssi/2019/356/regulation/1), [2](https://www.legislation.gov.uk/ssi/2019/356/regulation/2)
 
 [^M_F_4e5fa872-1d93-4ecc-d780-b6ce3db82fc9]: Textual amendment: OJ L 182, 16.7.1999, p.1.
 
 [^M_F_44753f46-8050-4e9d-f4ad-e8894bd7d008]: Textual amendment: OJ L 150, 14.6.2018, p.100.
 
-[^key-947ab94f22775ffd446e5aa18575f913]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/157/regulation/2/1) substituted (8.6.2015) by [The Waste (Meaning of Hazardous Waste and European Waste Catalogue) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/188)](https://www.legislation.gov.uk/ssi/2015/188), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/188/regulation/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2015/188/regulation/5/b)
+[^c-947ab94f22775ffd446e5aa18575f913]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2005/157/regulation/2/1) substituted (8.6.2015) by [The Waste (Meaning of Hazardous Waste and European Waste Catalogue) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/188)](https://www.legislation.gov.uk/ssi/2015/188), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/188/regulation/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2015/188/regulation/5/b)
 
 [^f00007]: Footnote: The definition of “scheme year” in section 23(1) of the Act was amended by S.I. [2004/1936](https://www.legislation.gov.uk/uksi/2004/1936), regulation 2(2).
 
-[^key-59baeff665760ff0f76efd62062a3f3d]: Commencement: Reg. 3 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-59baeff665760ff0f76efd62062a3f3d]: Commencement: Reg. 3 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-37e5c837285566db0b998b2c79b5e779]: Commencement: Reg. 4 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-37e5c837285566db0b998b2c79b5e779]: Commencement: Reg. 4 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-4c4a118558bd4ef0a560c0ffab101787]: Commencement: Reg. 5 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-4c4a118558bd4ef0a560c0ffab101787]: Commencement: Reg. 5 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-525c27fb9144778679fd1ed244ed4f72]: Commencement: Reg. 6 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-525c27fb9144778679fd1ed244ed4f72]: Commencement: Reg. 6 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-7dba20fe8e8ab7c18fb7321e323891cc]: Commencement: Reg. 7 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-7dba20fe8e8ab7c18fb7321e323891cc]: Commencement: Reg. 7 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-6a0d46d7aa03eccc4bebd6e41d84739a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2005/157/regulation/8) in force at 1.4.2008, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/3)
+[^c-6a0d46d7aa03eccc4bebd6e41d84739a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2005/157/regulation/8) in force at 1.4.2008, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/3)
 
-[^key-171fb103f0bd81af81793d8c689d61b3]: Commencement: Reg. 9 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-171fb103f0bd81af81793d8c689d61b3]: Commencement: Reg. 9 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-590fa70b879cce66c9f316b0633977cd]: Commencement: Reg. 10 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-590fa70b879cce66c9f316b0633977cd]: Commencement: Reg. 10 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-1cbc3607e10923e001b12421b3252971]: Commencement: Reg. 11 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-1cbc3607e10923e001b12421b3252971]: Commencement: Reg. 11 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-498e7904531edc498a38861627aea12e]: Commencement: Reg. 12 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-498e7904531edc498a38861627aea12e]: Commencement: Reg. 12 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-a415019750cabf8ab7dfb351a062eb36]: Commencement: Reg. 13 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-a415019750cabf8ab7dfb351a062eb36]: Commencement: Reg. 13 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-ae4a4ff3a04a6c8be4d74235ff7eaedb]: Commencement: Reg. 14 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-ae4a4ff3a04a6c8be4d74235ff7eaedb]: Commencement: Reg. 14 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-ae2f7a0dcfacc98c264e12cadbf7be63]: Commencement: Reg. 15 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-ae2f7a0dcfacc98c264e12cadbf7be63]: Commencement: Reg. 15 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-415a84f4e6287f1df93a5d9c6b4a7ca9]: Commencement: Reg. 16 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-415a84f4e6287f1df93a5d9c6b4a7ca9]: Commencement: Reg. 16 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-6db129d1552777d57ed5e3467f006842]: Commencement: Reg. 17 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-6db129d1552777d57ed5e3467f006842]: Commencement: Reg. 17 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-3776fe5e0743f7bc3cbd81225cfd01df]: Commencement: Reg. 18 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-3776fe5e0743f7bc3cbd81225cfd01df]: Commencement: Reg. 18 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-e204fad11c9d0232196c54ebe99de26b]: Commencement: Reg. 19 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-e204fad11c9d0232196c54ebe99de26b]: Commencement: Reg. 19 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-46dc4bc89d97b58545802deeb950567b]: Commencement: Reg. 20 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-46dc4bc89d97b58545802deeb950567b]: Commencement: Reg. 20 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-329f97e1c76c0bed6c59add90a82b52c]: Commencement: Reg. 21 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-329f97e1c76c0bed6c59add90a82b52c]: Commencement: Reg. 21 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-555fb07c3b32a8eddf3c721743209f9b]: Commencement: Reg. 22 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-555fb07c3b32a8eddf3c721743209f9b]: Commencement: Reg. 22 in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
 
-[^key-b09bd715be894de208cc9e03639c40d9]: Commencement: Sch. in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)
+[^c-b09bd715be894de208cc9e03639c40d9]: Commencement: Sch. in force at 1.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/157/regulation/1/2)

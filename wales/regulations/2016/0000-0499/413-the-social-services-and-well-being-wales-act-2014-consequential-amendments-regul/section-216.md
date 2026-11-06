@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**216.**[^key-7c8b1adc5f603186f607f60520dc851a] In section 9(4)(a)[^f00192] (Commissioner’s functions in relation to certain young people) for “Children Act 1989” substitute “Social Services and Well-being (Wales) Act 2014”.
+**216.**[^c-7c8b1adc5f603186f607f60520dc851a] In section 9(4)(a)[^f00192] (Commissioner’s functions in relation to certain young people) for “Children Act 1989” substitute “Social Services and Well-being (Wales) Act 2014”.
 
 ## Annotations
 
-[^key-7c8b1adc5f603186f607f60520dc851a]: Commencement: Reg. 216 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-7c8b1adc5f603186f607f60520dc851a]: Commencement: Reg. 216 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00192]: Footnote: Section 9 was substituted by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6) Schedule 5, paragraph 6(1).

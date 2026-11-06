@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27B. Exceptional approval of foster carer[^key-0456c3ae418bab52a851b9b0482032e8]
+## 27B. Exceptional approval of foster carer[^c-0456c3ae418bab52a851b9b0482032e8]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0456c3ae418bab52a851b9b0482032e8]: Textual amendment: [Reg. 27B](https://www.legislation.gov.uk/ssi/2009/210/regulation/27B) inserted (31.3.2021) by [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/4), [3(9)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/9)
+[^c-0456c3ae418bab52a851b9b0482032e8]: Textual amendment: [Reg. 27B](https://www.legislation.gov.uk/ssi/2009/210/regulation/27B) inserted (31.3.2021) by [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/4), [3(9)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/9)

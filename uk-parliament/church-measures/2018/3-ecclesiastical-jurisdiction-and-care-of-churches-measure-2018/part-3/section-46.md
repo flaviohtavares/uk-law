@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 46. Inspection: contents etc.[^key-db4e288091875b9707b0d592a36dc05c]
+## 46. Inspection: contents etc.[^c-db4e288091875b9707b0d592a36dc05c]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db4e288091875b9707b0d592a36dc05c]: Commencement: [S. 46](https://www.legislation.gov.uk/ukcm/2018/3/section/46) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-db4e288091875b9707b0d592a36dc05c]: Commencement: [S. 46](https://www.legislation.gov.uk/ukcm/2018/3/section/46) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

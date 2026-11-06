@@ -31,7 +31,7 @@ Mission and Pastoral Measure 2011
 
 A Measure passed by the General Synod of the Church of England to consolidate with corrections and minor improvements the Pastoral Measure 1983 and Parts 3, 4, 5 and 6 and section 61 of the Dioceses, Pastoral and Mission Measure 2007, and related enactments which are designed to make better provision for the cure of souls.
 
-\[24th May 2011\][^key-0acc41e63883d6621f507c2eddf89e92][^key-04a507647c64255fd12b8e5f96b9b531]
+\[24th May 2011\][^c-0acc41e63883d6621f507c2eddf89e92][^c-04a507647c64255fd12b8e5f96b9b531]
 
 ## Contents
 
@@ -146,7 +146,7 @@ A Measure passed by the General Synod of the Church of England to consolidate wi
 - [Section 53 — Amendment and revocation of pastoral schemes and orders](part-5/section-53.md)
 - [Section 54 — Application of Schedule 3 containing supplementary provisions and powers](part-5/section-54.md)
 
-### PART 5A — BISHOP'S PASTORAL ORDER[^key-19834b94f23b1ff0eb3f543b583f4cf9]
+### PART 5A — BISHOP'S PASTORAL ORDER[^c-19834b94f23b1ff0eb3f543b583f4cf9]
 
 - [Section 54A — Bishop's pastoral order](part-5a/section-54a.md)
 - [Section 54B — Supplementary provisions](part-5a/section-54b.md)
@@ -268,8 +268,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-0acc41e63883d6621f507c2eddf89e92]: Commencement: Measure in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-0acc41e63883d6621f507c2eddf89e92]: Commencement: Measure in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-04a507647c64255fd12b8e5f96b9b531]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/2011/3) modified (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 19(10)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/19/10); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-04a507647c64255fd12b8e5f96b9b531]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/2011/3) modified (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 19(10)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/19/10); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-19834b94f23b1ff0eb3f543b583f4cf9]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukcm/2011/3/part/5A) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 7(1)](https://www.legislation.gov.uk/ukcm/2018/4/section/7/1), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(f)](https://www.legislation.gov.uk/uksi/2018/722/article/3/f)
+[^c-19834b94f23b1ff0eb3f543b583f4cf9]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukcm/2011/3/part/5A) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 7(1)](https://www.legislation.gov.uk/ukcm/2018/4/section/7/1), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(f)](https://www.legislation.gov.uk/uksi/2018/722/article/3/f)

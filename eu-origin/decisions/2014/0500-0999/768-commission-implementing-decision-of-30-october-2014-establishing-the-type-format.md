@@ -39,73 +39,73 @@ establishing the type, format and frequency of information to be made available 
 
 (2014/768/EU) (revoked)
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-215d6c89ec682f78505c2eacf7ca635d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Reporting ...[^key-215d6c89ec682f78505c2eacf7ca635d]
+## Article 1. Reporting ...[^c-215d6c89ec682f78505c2eacf7ca635d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Addressees[^key-215d6c89ec682f78505c2eacf7ca635d]
+## Article 2. Addressees[^c-215d6c89ec682f78505c2eacf7ca635d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-215d6c89ec682f78505c2eacf7ca635d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Type of information on integrated emission management techniques applied in mineral oil and gas refineries to be published[^key-215d6c89ec682f78505c2eacf7ca635d]
+## ANNEX — Type of information on integrated emission management techniques applied in mineral oil and gas refineries to be published[^c-215d6c89ec682f78505c2eacf7ca635d]
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]1.
+[^c-215d6c89ec682f78505c2eacf7ca635d]1.
 
 **General information**
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]1.1.
+[^c-215d6c89ec682f78505c2eacf7ca635d]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]1.2.
+[^c-215d6c89ec682f78505c2eacf7ca635d]1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]1.3.
+[^c-215d6c89ec682f78505c2eacf7ca635d]1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]1.4.
+[^c-215d6c89ec682f78505c2eacf7ca635d]1.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]2.
+[^c-215d6c89ec682f78505c2eacf7ca635d]2.
 
 **Information on the scope of the integrated emission management techniques and the applicable emission limit values**
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]2.1.
+[^c-215d6c89ec682f78505c2eacf7ca635d]2.1.
 
 List and description of combustion and process units covered by the integrated emission management techniques for NO<sub>x</sub> and SO<sub>2</sub>, in particular:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]2.2.
+[^c-215d6c89ec682f78505c2eacf7ca635d]2.2.
 
 Applicable emission limit values for NO<sub>x</sub> and SO<sub>2</sub> under the integrated emission management techniques, detailing:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]3.
+[^c-215d6c89ec682f78505c2eacf7ca635d]3.
 
 **Information on the monitoring system**
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]3.1.
+[^c-215d6c89ec682f78505c2eacf7ca635d]3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]3.2.
+[^c-215d6c89ec682f78505c2eacf7ca635d]3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]4.
+[^c-215d6c89ec682f78505c2eacf7ca635d]4.
 
 **Information on monitoring results**
 
@@ -113,4 +113,4 @@ Applicable emission limit values for NO<sub>x</sub> and SO<sub>2</sub> under the
 
 ## Annotations
 
-[^key-215d6c89ec682f78505c2eacf7ca635d]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-215d6c89ec682f78505c2eacf7ca635d]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

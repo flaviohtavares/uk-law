@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. General functions of the Council[^key-2c3f6029f617ef461011d5674c168f72]
+## 43. General functions of the Council[^c-2c3f6029f617ef461011d5674c168f72]
 
 *Extent: E+W*
 
@@ -137,4 +137,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c3f6029f617ef461011d5674c168f72]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2003/37/section/43) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-2c3f6029f617ef461011d5674c168f72]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2003/37/section/43) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))

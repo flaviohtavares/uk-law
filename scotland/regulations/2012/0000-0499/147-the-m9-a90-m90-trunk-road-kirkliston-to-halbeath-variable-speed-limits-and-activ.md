@@ -48,18 +48,18 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 134(2)[^f00002] of that Act they have consulted with such representative organisations as they think fit.
 
-## 1. Citation and commencement[^key-f1b144b8cdfaa341ac21f46e434448da]
+## 1. Citation and commencement[^c-f1b144b8cdfaa341ac21f46e434448da]
 
 These Regulations may be cited as the M9/A90/M90 Trunk Road (Kirkliston to Halbeath) (Variable Speed Limits and Actively Managed Hard Shoulder) Regulations 2012 and come into force on 1st September 2012.
 
-## 2. Interpretation[^key-ed701ffe0a822cc3693121dc39d7a0dc]
+## 2. Interpretation[^c-ed701ffe0a822cc3693121dc39d7a0dc]
 
 In these Regulations—
 
 - “the 1995 Regulations” means the Motorways Traffic (Scotland) Regulations 1995[^f00003];
 - “relevant road” means the road known as the M9/A90/M90 Edinburgh to Fraserburgh Trunk Road from Kirkliston at Humbie Rail Bridge to Halbeath.
 
-## 3. Variable speed limits[^key-a0dd80aaa130ce3c731989a4aaa83b16]
+## 3. Variable speed limits[^c-a0dd80aaa130ce3c731989a4aaa83b16]
 
 (1) A person must not drive a vehicle on a section of any of the specified lengths of the relevant road to which a variable speed limit applies at a speed exceeding the applicable variable speed limit.
 
@@ -87,7 +87,7 @@ In these Regulations—
 - “road” includes the adjacent hard shoulder;
 - “specified lengths of the relevant road” means any of the lengths of the relevant road specified in the Schedule to these Regulations.
 
-## 4. Application of 1995 Regulations to the relevant road[^key-21115cb3ea3d0c58b3126329e56f8ea5]
+## 4. Application of 1995 Regulations to the relevant road[^c-21115cb3ea3d0c58b3126329e56f8ea5]
 
 In relation to the relevant road the 1995 Regulations apply as if they had been modified as follows—
 
@@ -168,23 +168,23 @@ Edinburgh
 
 Regulation 3(5)
 
-**1.**[^key-c0608ab593742f860bdeab61ff59b534] The southbound carriageway from a point 180 metres or thereby north of the point where the southbound off-slip at Junction 3 Halbeath diverges from the southbound carriageway to the point where the southbound on-slip merges with the southbound carriageway at Junction 1 Admiralty Interchange.
+**1.**[^c-c0608ab593742f860bdeab61ff59b534] The southbound carriageway from a point 180 metres or thereby north of the point where the southbound off-slip at Junction 3 Halbeath diverges from the southbound carriageway to the point where the southbound on-slip merges with the southbound carriageway at Junction 1 Admiralty Interchange.
 
-**2.**[^key-034f129bf82273c210d22a6e9a6210bc] The northbound carriageway from the point where the northbound on-slip merges with the northbound carriageway at Junction 1 Admiralty Interchange to a point 1380 metres or thereby north of the point where the northbound on-slip merges with the northbound carriageway at Junction 2 Masterton Interchange.
+**2.**[^c-034f129bf82273c210d22a6e9a6210bc] The northbound carriageway from the point where the northbound on-slip merges with the northbound carriageway at Junction 1 Admiralty Interchange to a point 1380 metres or thereby north of the point where the northbound on-slip merges with the northbound carriageway at Junction 2 Masterton Interchange.
 
-**3.**[^key-7b4bc26b4dfd3a97d2f13bca1c40d1f3] The southbound off-slip connecting the southbound carriageway to the roundabout at Junction 3 Halbeath.
+**3.**[^c-7b4bc26b4dfd3a97d2f13bca1c40d1f3] The southbound off-slip connecting the southbound carriageway to the roundabout at Junction 3 Halbeath.
 
-**4.**[^key-c8e864812b9dcceb4460edfb7e61b108] The southbound on-slip connecting the A92 with the southbound carriageway at Junction 2a Halbeath Interchange.
+**4.**[^c-c8e864812b9dcceb4460edfb7e61b108] The southbound on-slip connecting the A92 with the southbound carriageway at Junction 2a Halbeath Interchange.
 
-**5.**[^key-2fc6c1eeb1b97b3d16691030a42ac870] The southbound off-slip connecting the southbound carriageway to the roundabout at Junction 1 Admiralty Interchange.
+**5.**[^c-2fc6c1eeb1b97b3d16691030a42ac870] The southbound off-slip connecting the southbound carriageway to the roundabout at Junction 1 Admiralty Interchange.
 
-**6.**[^key-6de5a6089e67d0fc50c5a9e9efa9f47d] The northbound on-slip connecting the roundabout at Junction 1 Admiralty Interchange to the northbound carriageway.
+**6.**[^c-6de5a6089e67d0fc50c5a9e9efa9f47d] The northbound on-slip connecting the roundabout at Junction 1 Admiralty Interchange to the northbound carriageway.
 
-**7.**[^key-a849242473f9612dcc3104ad0ee9357a] The southbound carriageway from its junction with the A90 at Scotstoun Junction to the point where it crosses Humbie Rail Bridge at Kirkliston.
+**7.**[^c-a849242473f9612dcc3104ad0ee9357a] The southbound carriageway from its junction with the A90 at Scotstoun Junction to the point where it crosses Humbie Rail Bridge at Kirkliston.
 
-**8.**[^key-90bc533c7a650d5eae7f98c88b71f8af] The northbound carriageway from the point where it crosses Humbie Rail Bridge at Kirkliston to its junction with the A90 at Scotstoun Junction.
+**8.**[^c-90bc533c7a650d5eae7f98c88b71f8af] The northbound carriageway from the point where it crosses Humbie Rail Bridge at Kirkliston to its junction with the A90 at Scotstoun Junction.
 
-**9.**[^key-9a5fd5e7e58d4e028eaa4271eb07947a] In this Schedule—
+**9.**[^c-9a5fd5e7e58d4e028eaa4271eb07947a] In this Schedule—
 
 - (a) a junction followed by a number is a reference to the junction of the M90 of that number;
 - (b) the letter “A” followed by a number is a reference to the road known by that name;
@@ -215,36 +215,36 @@ Contravention of the Regulations is an offence under section 17(4) of the Road T
 
 [^f00002]: Footnote: Section 134(2) is amended by the New Roads and Street Works Act 1991, Schedule 8, paragraph 77.
 
-[^key-f1b144b8cdfaa341ac21f46e434448da]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
+[^c-f1b144b8cdfaa341ac21f46e434448da]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
 
-[^key-ed701ffe0a822cc3693121dc39d7a0dc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/147/regulation/2) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
+[^c-ed701ffe0a822cc3693121dc39d7a0dc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/147/regulation/2) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1995/2507](https://www.legislation.gov.uk/uksi/1995/2507) amended by [S.I. 1995/3070](https://www.legislation.gov.uk/uksi/1995/3070), [S.I. 1996/2664](https://www.legislation.gov.uk/uksi/1996/2664), [S.S.I. 2004/3261](https://www.legislation.gov.uk/ssi/2004/3261), [S.S.I. 2005/344](https://www.legislation.gov.uk/ssi/2005/344), [S.S.I. 2006/129](https://www.legislation.gov.uk/ssi/2006/129) and [S.I. 2006/594](https://www.legislation.gov.uk/uksi/2006/594).
 
-[^key-a0dd80aaa130ce3c731989a4aaa83b16]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/147/regulation/3) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
+[^c-a0dd80aaa130ce3c731989a4aaa83b16]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/147/regulation/3) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1974/502](https://www.legislation.gov.uk/uksi/1974/502).
 
 [^f00005]: Footnote: [S.I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113) as amended by [S.I. 2003/393](https://www.legislation.gov.uk/uksi/2003/393), [2004/1275](https://www.legislation.gov.uk/uksi/2004/1275) [2005/1670](https://www.legislation.gov.uk/uksi/2005/1670), [2006/2083](https://www.legislation.gov.uk/uksi/2006/2083), [2008/2177](https://www.legislation.gov.uk/uksi/2008/2177), [2011/1040](https://www.legislation.gov.uk/uksi/2011/1040) and [2011/3041](https://www.legislation.gov.uk/uksi/2011/3041).
 
-[^key-21115cb3ea3d0c58b3126329e56f8ea5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/147/regulation/4) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
+[^c-21115cb3ea3d0c58b3126329e56f8ea5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/147/regulation/4) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113) as relevantly amended by [S.I. 2005/1670](https://www.legislation.gov.uk/uksi/2005/1670).
 
-[^key-c0608ab593742f860bdeab61ff59b534]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/1) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
+[^c-c0608ab593742f860bdeab61ff59b534]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/1) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
 
-[^key-034f129bf82273c210d22a6e9a6210bc]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/2) substituted (26.5.2017) by [The M9/A90/M90 Trunk Road (Kirkliston to Halbeath) (Variable Speed Limits and Actively Managed Hard Shoulder) Amendment Regulations 2017 (S.S.I. 2017/128)](https://www.legislation.gov.uk/ssi/2017/128), [regs. 1](https://www.legislation.gov.uk/ssi/2017/128/regulation/1), [2](https://www.legislation.gov.uk/ssi/2017/128/regulation/2)
+[^c-034f129bf82273c210d22a6e9a6210bc]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/2) substituted (26.5.2017) by [The M9/A90/M90 Trunk Road (Kirkliston to Halbeath) (Variable Speed Limits and Actively Managed Hard Shoulder) Amendment Regulations 2017 (S.S.I. 2017/128)](https://www.legislation.gov.uk/ssi/2017/128), [regs. 1](https://www.legislation.gov.uk/ssi/2017/128/regulation/1), [2](https://www.legislation.gov.uk/ssi/2017/128/regulation/2)
 
-[^key-7b4bc26b4dfd3a97d2f13bca1c40d1f3]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/3) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
+[^c-7b4bc26b4dfd3a97d2f13bca1c40d1f3]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/3) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
 
-[^key-c8e864812b9dcceb4460edfb7e61b108]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/4) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
+[^c-c8e864812b9dcceb4460edfb7e61b108]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/4) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
 
-[^key-2fc6c1eeb1b97b3d16691030a42ac870]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/5) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
+[^c-2fc6c1eeb1b97b3d16691030a42ac870]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/5) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
 
-[^key-6de5a6089e67d0fc50c5a9e9efa9f47d]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/6) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
+[^c-6de5a6089e67d0fc50c5a9e9efa9f47d]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/6) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
 
-[^key-a849242473f9612dcc3104ad0ee9357a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/7) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
+[^c-a849242473f9612dcc3104ad0ee9357a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/7) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
 
-[^key-90bc533c7a650d5eae7f98c88b71f8af]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/8) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
+[^c-90bc533c7a650d5eae7f98c88b71f8af]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/8) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
 
-[^key-9a5fd5e7e58d4e028eaa4271eb07947a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/9) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)
+[^c-9a5fd5e7e58d4e028eaa4271eb07947a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2012/147/schedule/paragraph/9) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/147/regulation/1)

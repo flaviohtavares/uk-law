@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Valuation of capital[^key-99556aa4d9f36be89eaad396e0e58f92]
+## 70. Valuation of capital[^c-99556aa4d9f36be89eaad396e0e58f92]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99556aa4d9f36be89eaad396e0e58f92]: Commencement: [Reg. 70](https://www.legislation.gov.uk/ssi/2021/249/regulation/70) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-99556aa4d9f36be89eaad396e0e58f92]: Commencement: [Reg. 70](https://www.legislation.gov.uk/ssi/2021/249/regulation/70) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

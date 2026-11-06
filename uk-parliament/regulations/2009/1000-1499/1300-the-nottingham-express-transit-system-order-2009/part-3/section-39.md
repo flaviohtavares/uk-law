@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Set-off for enhancement in value of retained land[^key-952838b39e67cd4078ed0f30f00eb9d2]
+## 39. Set-off for enhancement in value of retained land[^c-952838b39e67cd4078ed0f30f00eb9d2]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ which will accrue to that person by reason of the construction of the authorised
 
 ## Annotations
 
-[^key-952838b39e67cd4078ed0f30f00eb9d2]: Commencement: Art. 39 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-952838b39e67cd4078ed0f30f00eb9d2]: Commencement: Art. 39 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

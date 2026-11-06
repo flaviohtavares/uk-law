@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 164. Forfeiture: relevant monetary obligations and relevant monetary losses[^key-8126a07b0b9b7be361355e3116bcf697]
+## 164. Forfeiture: relevant monetary obligations and relevant monetary losses[^c-8126a07b0b9b7be361355e3116bcf697]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8126a07b0b9b7be361355e3116bcf697]: Commencement: [Reg. 164](https://www.legislation.gov.uk/ssi/2015/19/regulation/164) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-8126a07b0b9b7be361355e3116bcf697]: Commencement: [Reg. 164](https://www.legislation.gov.uk/ssi/2015/19/regulation/164) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

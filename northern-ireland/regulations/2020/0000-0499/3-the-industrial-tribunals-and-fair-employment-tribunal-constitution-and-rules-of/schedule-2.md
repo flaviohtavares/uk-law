@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 17(2)(a)
 
-### 1. Application of Schedule 2[^key-2781dcf9ce528d5971dc5a0311419c6b]
+### 1. Application of Schedule 2[^c-2781dcf9ce528d5971dc5a0311419c6b]
 
 (1) Subject to paragraph (2) this Schedule applies to industrial tribunal proceedings in relation to which a direction is given, or order is made, under rule 91 (national security) and modifies the rules in Schedule 1 in relation to such proceedings.
 
@@ -34,17 +34,17 @@ Regulation 17(2)(a)
 
 - “excluded person” means, in relation to any proceedings, a person who has been excluded from all or part of the proceedings by virtue of a direction under rule 91(1)(b) or an order under rule 91(2)(a) (read with rule 91(1)(b)).
 
-### 2. Serving of documents[^key-7a2fb2377d43f4074c084f371d6156cc]
+### 2. Serving of documents[^c-7a2fb2377d43f4074c084f371d6156cc]
 
 The Secretary shall not send a copy of the response to any excluded person.
 
-### 3. Witness orders and disclosure of documents[^key-976f8e1d67b76d4ef505832d1f4d0884]
+### 3. Witness orders and disclosure of documents[^c-976f8e1d67b76d4ef505832d1f4d0884]
 
 (1) Where a person or their representative has been excluded under rule 91 from all or part of the proceedings and a tribunal is considering whether to make an order under rule 27(1)(a) (documents and evidence), the Secretary of State (whether a party to the proceedings or otherwise) may make an application to the tribunal objecting to that order. If such an order has been made, the Secretary of State may make an application to vary or set aside the order.
 
 (2) The tribunal shall hear and determine the Secretary of State’s application in private and the Secretary of State shall be entitled to address the tribunal.
 
-### 4. Special advocate[^key-3e7c46f381c869925c4610fe21c14580]
+### 4. Special advocate[^c-3e7c46f381c869925c4610fe21c14580]
 
 (1) The tribunal shall inform the Advocate General for Northern Ireland if a party becomes an excluded person.
 
@@ -82,11 +82,11 @@ The Secretary shall not send a copy of the response to any excluded person.
 
 (10) References in these Regulations and Schedules 1 and 2 to a party shall include any special advocate appointed in particular proceedings, save that the references to “party” or “parties” in rules 3, 7(c), 20, 28, 30(2) and (3), the first reference in rule 32, 33 to 35, 41, 59, 71 to 81, 83, 94 and 96(3) shall not include the special advocate.
 
-### 5. Hearings[^key-014f764bdd1b1808cb94c6c1b44d2a4c]
+### 5. Hearings[^c-014f764bdd1b1808cb94c6c1b44d2a4c]
 
 Subject to any order under rule 44 (privacy and restrictions on disclosure) or any direction or order under rules 91 and 92 (national security), any hearing shall take place in public, and any party may attend and participate in the hearing.
 
-### 6. Reasons in national security proceedings[^key-fdeec5405f1cdf7fa3a43ea15afc6e0d]
+### 6. Reasons in national security proceedings[^c-fdeec5405f1cdf7fa3a43ea15afc6e0d]
 
 (1) The Secretary shall send a copy of the written reasons given under rule 57 to the Secretary of State and allow 42 days for the Secretary of State to make a direction under paragraph (3) before sending them to any party or entering them onto the register.
 
@@ -118,14 +118,14 @@ Subject to any order under rule 44 (privacy and restrictions on disclosure) or a
 
 ## Annotations
 
-[^key-2781dcf9ce528d5971dc5a0311419c6b]: Commencement: Sch. 2 para. 1 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-2781dcf9ce528d5971dc5a0311419c6b]: Commencement: Sch. 2 para. 1 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-7a2fb2377d43f4074c084f371d6156cc]: Commencement: Sch. 2 para. 2 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-7a2fb2377d43f4074c084f371d6156cc]: Commencement: Sch. 2 para. 2 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-976f8e1d67b76d4ef505832d1f4d0884]: Commencement: Sch. 2 para. 3 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-976f8e1d67b76d4ef505832d1f4d0884]: Commencement: Sch. 2 para. 3 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-3e7c46f381c869925c4610fe21c14580]: Commencement: Sch. 2 para. 4 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-3e7c46f381c869925c4610fe21c14580]: Commencement: Sch. 2 para. 4 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-014f764bdd1b1808cb94c6c1b44d2a4c]: Commencement: Sch. 2 para. 5 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-014f764bdd1b1808cb94c6c1b44d2a4c]: Commencement: Sch. 2 para. 5 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-fdeec5405f1cdf7fa3a43ea15afc6e0d]: Commencement: Sch. 2 para. 6 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-fdeec5405f1cdf7fa3a43ea15afc6e0d]: Commencement: Sch. 2 para. 6 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Repeals and revocations[^key-dd7067ca8029aadd10cac6bf270aff6c]
+## SCHEDULE 4 — Repeals and revocations[^c-dd7067ca8029aadd10cac6bf270aff6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ Article 5(5)
 
 ## Annotations
 
-[^key-dd7067ca8029aadd10cac6bf270aff6c]: Commencement: Sch. 4 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
+[^c-dd7067ca8029aadd10cac6bf270aff6c]: Commencement: Sch. 4 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)

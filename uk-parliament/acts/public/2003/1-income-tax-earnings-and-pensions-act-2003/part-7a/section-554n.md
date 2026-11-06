@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554N. Exclusions: other cases involving employment-related securities etc[^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554N. Exclusions: other cases involving employment-related securities etc[^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,12 +40,12 @@ summary: ''
 - (b) an event which gives rise to the discharge of a notional loan for the purposes of section 446U, or
 - (c) a disposal to which Chapter 3D of Part 7 applies.
 
-(6) Chapter 2 does not apply by reason of an event to which subsection (4) would apply apart from section 421B(6), ... 429, 430A(5)(b),[^key-77bc7a534ebb74c7fe463d0c6017463a] 443... or 477(2) or apart from an election under section 430 or 431.
+(6) Chapter 2 does not apply by reason of an event to which subsection (4) would apply apart from section 421B(6), ... 429, 430A(5)(b),[^c-77bc7a534ebb74c7fe463d0c6017463a] 443... or 477(2) or apart from an election under section 430 or 431.
 
 (7) Subsection (11) applies if there is an acquisition of an asset within section 554C(4)(a) or (b) (“the relevant asset”) and—
 
 - (a) relevant consideration is given by A for the relevant asset of an amount equal to or greater than the market value of the relevant asset at the time of the acquisition, or
-- (b) ignoring any relevant consideration given for the relevant asset, the acquisition gives rise (or would give rise) to earnings of A within Chapter 1 of Part 3 , or an amount treated under section 226A as earnings of A,[^key-c1ebf52d59135e399ef846f27c25d0b0] from A's employment with B—
+- (b) ignoring any relevant consideration given for the relevant asset, the acquisition gives rise (or would give rise) to earnings of A within Chapter 1 of Part 3 , or an amount treated under section 226A as earnings of A,[^c-c1ebf52d59135e399ef846f27c25d0b0] from A's employment with B—
   - (i) the amount of which is equal to or greater than the market value of the relevant asset at the time of the acquisition, and
   - (ii) which are not exempt income.
 
@@ -78,7 +78,7 @@ summary: ''
 - (a) the payment of the sum of money is by way of a loan (“the relevant loan”),
 - (b) the relevant loan is made and used solely for the purpose of enabling A to exercise an employment-related securities option (within the meaning of Chapter 5 of Part 7),
 - (c) the exercise of the option by A gives rise to employment income of A in respect of A's employment with B—
-  - (i) which is chargeable to income tax or would be chargeable apart from Chapter 5B of Part 2[^key-1008a80f210c41a7d0ac7691b8531e04], or
+  - (i) which is chargeable to income tax or would be chargeable apart from Chapter 5B of Part 2[^c-1008a80f210c41a7d0ac7691b8531e04], or
   - (ii) which is exempt income, and
 - (d) there is no connection (direct or indirect) between the relevant step and a tax avoidance arrangement.
 
@@ -95,16 +95,16 @@ summary: ''
 
 (16) In subsections (14) and (15) “**the relevant period**” means the period of 40 days starting with the day on which the relevant step mentioned in subsection (13) is taken.
 
-(17)[^key-fde5e7288eb23c465d1422f10ab54f7c] See paragraph 31 of Schedule 11 to F(No. 2)A 2017 for provision about exclusions where a loan is made for the purpose of enabling the exercise of an employment-related securities option and the relevant step is within paragraph 1 of that Schedule.
+(17)[^c-fde5e7288eb23c465d1422f10ab54f7c] See paragraph 31 of Schedule 11 to F(No. 2)A 2017 for provision about exclusions where a loan is made for the purpose of enabling the exercise of an employment-related securities option and the relevant step is within paragraph 1 of that Schedule.
 
 ## Annotations
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
 
-[^key-77bc7a534ebb74c7fe463d0c6017463a]: Textual amendment: Word in s. 554N(6) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 para. 38](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/38)
+[^c-77bc7a534ebb74c7fe463d0c6017463a]: Textual amendment: Word in s. 554N(6) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 para. 38](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/38)
 
-[^key-c1ebf52d59135e399ef846f27c25d0b0]: Textual amendment: Words in s. 554N(7)(b) inserted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 23 paras. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/15), [38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/38); [S.I. 2013/1755](https://www.legislation.gov.uk/uksi/2013/1755), [art. 2](https://www.legislation.gov.uk/uksi/2013/1755/article/2)
+[^c-c1ebf52d59135e399ef846f27c25d0b0]: Textual amendment: Words in s. 554N(7)(b) inserted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 23 paras. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/15), [38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/38); [S.I. 2013/1755](https://www.legislation.gov.uk/uksi/2013/1755), [art. 2](https://www.legislation.gov.uk/uksi/2013/1755/article/2)
 
-[^key-1008a80f210c41a7d0ac7691b8531e04]: Textual amendment: Words in s. 554N(13)(c)(i) substituted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 20(6)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/20/6), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-1008a80f210c41a7d0ac7691b8531e04]: Textual amendment: Words in s. 554N(13)(c)(i) substituted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 20(6)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/20/6), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
 
-[^key-fde5e7288eb23c465d1422f10ab54f7c]: Textual amendment: S. 554N(17) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 32](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/32)
+[^c-fde5e7288eb23c465d1422f10ab54f7c]: Textual amendment: S. 554N(17) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 32](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/32)

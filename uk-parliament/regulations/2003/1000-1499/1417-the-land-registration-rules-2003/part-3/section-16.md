@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) If an application is not in order the registrar may raise such requisitions as he considers necessary, specifying a period (being not less than twenty working[^key-a67e551471a6651095443c13a1850bd1] days) within which the applicant must comply with the requisitions.
+(1) If an application is not in order the registrar may raise such requisitions as he considers necessary, specifying a period (being not less than twenty working[^c-a67e551471a6651095443c13a1850bd1] days) within which the applicant must comply with the requisitions.
 
 (2) If the applicant fails to comply with the requisitions within that period, the registrar may cancel the application or may extend the period when this appears to him to be reasonable in the circumstances.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a67e551471a6651095443c13a1850bd1]: Textual amendment: Word in [rule 16(1)](https://www.legislation.gov.uk/uksi/2003/1417/rule/16/1) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)
+[^c-a67e551471a6651095443c13a1850bd1]: Textual amendment: Word in [rule 16(1)](https://www.legislation.gov.uk/uksi/2003/1417/rule/16/1) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)

@@ -47,7 +47,7 @@ anything to which this paragraph applies.
 
 (6) For the purposes of paragraph (4), a plant, or part of a plant, is to be treated as having been lawfully taken in the wild if—
 
-- (aa)[^key-e00ecd7af480aa06e40b221091139664] it was taken from the wild in the United Kingdom without contravention of the law and before 10th June 1994;
+- (aa)[^c-e00ecd7af480aa06e40b221091139664] it was taken from the wild in the United Kingdom without contravention of the law and before 10th June 1994;
 - (a) it was taken in the wild in the European territory of a member State, being territory to which the Treaty on the Functioning of the European Union applies, without contravention of the law of that member State and before the implementation date; or
 - (b) it was taken in the wild elsewhere.
 
@@ -64,4 +64,4 @@ anything to which this paragraph applies.
 
 ## Annotations
 
-[^key-e00ecd7af480aa06e40b221091139664]: Textual amendment: [Reg. 49(6)(aa)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/49/6/aa) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [62](https://www.legislation.gov.uk/uksi/2019/579/regulation/62); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e00ecd7af480aa06e40b221091139664]: Textual amendment: [Reg. 49(6)(aa)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/49/6/aa) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [62](https://www.legislation.gov.uk/uksi/2019/579/regulation/62); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

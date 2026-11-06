@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Application of Compulsory Purchase (Vesting Declarations) Act 1981[^key-a86126eee7e27ecdaef1fd3637ded6e7]
+## 26. Application of Compulsory Purchase (Vesting Declarations) Act 1981[^c-a86126eee7e27ecdaef1fd3637ded6e7]
 
 *Extent: E+W+S*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a86126eee7e27ecdaef1fd3637ded6e7]: Commencement: Art. 26 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-a86126eee7e27ecdaef1fd3637ded6e7]: Commencement: Art. 26 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
 
 [^f00028]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66).

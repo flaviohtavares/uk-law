@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Pensions to dependants who lived as spouses or civil partners[^key-656f9222b2fa03633076f01452cf5e22]
+## 24. Pensions to dependants who lived as spouses or civil partners[^c-656f9222b2fa03633076f01452cf5e22]
 
 *Extent: E+W+S+N.I.*
 
-(1) A dependant who lived as a spouse or [^key-c89203926e0642d222b9b323fd862dab]... civil partner of a member of the armed forces whose death is due to service (“dependant”) may be awarded a pension in accordance with the following provisions of this article.
+(1) A dependant who lived as a spouse or [^c-c89203926e0642d222b9b323fd862dab]... civil partner of a member of the armed forces whose death is due to service (“dependant”) may be awarded a pension in accordance with the following provisions of this article.
 
 (2) Where the child of a member of the armed forces whose death is due to service is in his dependant's charge and the dependant is in receipt of an allowance awarded in respect of that child under the following provisions of this Part of this Order, a pension may, subject to the provisions of paragraph (3), be paid to the dependant until the allowance ceases to be paid or the child ceases to be in the dependant's charge.
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-656f9222b2fa03633076f01452cf5e22]: Textual amendment: Word in [art. 24](https://www.legislation.gov.uk/uksi/2006/606/article/24) heading substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(4)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/4/a)
+[^c-656f9222b2fa03633076f01452cf5e22]: Textual amendment: Word in [art. 24](https://www.legislation.gov.uk/uksi/2006/606/article/24) heading substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(4)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/4/a)
 
-[^key-c89203926e0642d222b9b323fd862dab]: Textual amendment: Words in [art. 24(1)](https://www.legislation.gov.uk/uksi/2006/606/article/24/1) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(4)(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/4/b)
+[^c-c89203926e0642d222b9b323fd862dab]: Textual amendment: Words in [art. 24(1)](https://www.legislation.gov.uk/uksi/2006/606/article/24/1) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(4)(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/4/b)

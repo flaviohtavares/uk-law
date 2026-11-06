@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Functions of official receiver in relation to office of liquidator[^key-47061f04be208ff04b4aada12ef3dee5]
+## 38. Functions of official receiver in relation to office of liquidator[^c-47061f04be208ff04b4aada12ef3dee5]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47061f04be208ff04b4aada12ef3dee5]: Commencement: S. 38 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-47061f04be208ff04b4aada12ef3dee5]: Commencement: S. 38 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

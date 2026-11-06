@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37A. Dissolution on ground of breakdown: conditional and final orders[^key-76ad48a32868d8d1171a1897e070a9a5]
+## 37A. Dissolution on ground of breakdown: conditional and final orders[^c-76ad48a32868d8d1171a1897e070a9a5]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ and a person may not give confirmation for the purposes of this subsection befor
 
 ## Annotations
 
-[^key-76ad48a32868d8d1171a1897e070a9a5]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/ukpga/2004/33/section/37A) inserted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2020/11/section/4/3), [8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-76ad48a32868d8d1171a1897e070a9a5]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/ukpga/2004/33/section/37A) inserted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2020/11/section/4/3), [8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

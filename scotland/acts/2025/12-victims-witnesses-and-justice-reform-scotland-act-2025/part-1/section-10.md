@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Strategic plan[^key-064e88adfcbbf88a3713afe1d1fe5a04]
+## 10. Strategic plan[^c-064e88adfcbbf88a3713afe1d1fe5a04]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-064e88adfcbbf88a3713afe1d1fe5a04]: Commencement: S. 10 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-064e88adfcbbf88a3713afe1d1fe5a04]: Commencement: S. 10 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

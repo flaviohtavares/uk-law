@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Carrying out the Troubles-related work programme[^key-b8174d10468d3ff22fad535978fd99cf][^key-d7bdf7df37234651d99b8032e5dec2dd]
+## 54. Carrying out the Troubles-related work programme[^c-b8174d10468d3ff22fad535978fd99cf][^c-d7bdf7df37234651d99b8032e5dec2dd]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b8174d10468d3ff22fad535978fd99cf]: Commencement: S. 54 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-b8174d10468d3ff22fad535978fd99cf]: Commencement: S. 54 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-d7bdf7df37234651d99b8032e5dec2dd]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2023/41/section/54) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-d7bdf7df37234651d99b8032e5dec2dd]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2023/41/section/54) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

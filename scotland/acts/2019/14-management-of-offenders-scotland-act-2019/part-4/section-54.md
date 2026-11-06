@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Long-term prisoners due for removal from the UK[^key-49158866678186d285210beb63e1bbfd]
+## 54. Long-term prisoners due for removal from the UK[^c-49158866678186d285210beb63e1bbfd]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49158866678186d285210beb63e1bbfd]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2019/14/section/54) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(p)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/p)
+[^c-49158866678186d285210beb63e1bbfd]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2019/14/section/54) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(p)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/p)

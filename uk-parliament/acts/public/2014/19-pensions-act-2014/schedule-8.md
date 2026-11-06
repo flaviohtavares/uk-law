@@ -24,11 +24,11 @@ Section 13
 
 ### Introduction
 
-**1.**[^key-f95d43545779f501d5bfca16b0fa7672] This Schedule sets out the appropriate weekly rate of a person's state pension under section 13.
+**1.**[^c-f95d43545779f501d5bfca16b0fa7672] This Schedule sets out the appropriate weekly rate of a person's state pension under section 13.
 
 ### Appropriate weekly rate for pensioner with old state scheme pension credit
 
-**2.**[^key-c0aad56d816ff69bdfc5926cba5a0521] (1) This paragraph sets out the appropriate weekly rate if the person is entitled to a state pension under section 13 because of an old state scheme pension credit.
+**2.**[^c-c0aad56d816ff69bdfc5926cba5a0521] (1) This paragraph sets out the appropriate weekly rate if the person is entitled to a state pension under section 13 because of an old state scheme pension credit.
 
 (2) If the person became entitled to the old state scheme pension credit in or after the final relevant year, the appropriate weekly rate is a weekly rate equal to the person's notional rate.
 
@@ -50,7 +50,7 @@ Section 13
 
 ### Appropriate weekly rate for pensioner with new state scheme pension credit
 
-**3.**[^key-d21ad5beb44d98df9774fe17e2e17075] (1) This paragraph sets out the appropriate weekly rate if the person is entitled to a state pension under section 13 because of a new state scheme pension credit.
+**3.**[^c-d21ad5beb44d98df9774fe17e2e17075] (1) This paragraph sets out the appropriate weekly rate if the person is entitled to a state pension under section 13 because of a new state scheme pension credit.
 
 (2) If the person was over pensionable age when he or she became entitled to the new state scheme pension credit, the appropriate weekly rate is a weekly rate equal to the amount of the credit.
 
@@ -60,7 +60,7 @@ Section 13
 
 ### Supplementary
 
-**4.**[^key-91746e8997f72dc3c1545e7abd963cc1][^key-2e0b929f813738a7ea83c06af0c78a35] (1) Regulations may make provision about the calculation and verification of notional rates under paragraph 2.
+**4.**[^c-91746e8997f72dc3c1545e7abd963cc1][^c-2e0b929f813738a7ea83c06af0c78a35] (1) Regulations may make provision about the calculation and verification of notional rates under paragraph 2.
 
 (2) The regulations may, in particular, provide—
 
@@ -69,12 +69,12 @@ Section 13
 
 ## Annotations
 
-[^key-f95d43545779f501d5bfca16b0fa7672]: Commencement: Sch. 8 para. 1 in force at 6.4.2016, see s. 56(1)(4)
+[^c-f95d43545779f501d5bfca16b0fa7672]: Commencement: Sch. 8 para. 1 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-c0aad56d816ff69bdfc5926cba5a0521]: Commencement: Sch. 8 para. 2 in force at 6.4.2016, see s. 56(1)(4)
+[^c-c0aad56d816ff69bdfc5926cba5a0521]: Commencement: Sch. 8 para. 2 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d21ad5beb44d98df9774fe17e2e17075]: Commencement: Sch. 8 para. 3 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d21ad5beb44d98df9774fe17e2e17075]: Commencement: Sch. 8 para. 3 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-91746e8997f72dc3c1545e7abd963cc1]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2014/19/schedule/8/paragraph/4) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(i)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/i)
+[^c-91746e8997f72dc3c1545e7abd963cc1]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2014/19/schedule/8/paragraph/4) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(i)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/i)
 
-[^key-2e0b929f813738a7ea83c06af0c78a35]: Commencement: Sch. 8 para. 4 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)
+[^c-2e0b929f813738a7ea83c06af0c78a35]: Commencement: Sch. 8 para. 4 in force at 6.4.2016 so far as not brought into force earlier by an order, see s. 56(1)(4)

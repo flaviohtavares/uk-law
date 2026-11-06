@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Closure of level crossings and crossings over disused railway[^key-75dbdc3837bd780d60d81951d7368d5c]
+## 20. Closure of level crossings and crossings over disused railway[^c-75dbdc3837bd780d60d81951d7368d5c]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75dbdc3837bd780d60d81951d7368d5c]: Commencement: Art. 20 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-75dbdc3837bd780d60d81951d7368d5c]: Commencement: Art. 20 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

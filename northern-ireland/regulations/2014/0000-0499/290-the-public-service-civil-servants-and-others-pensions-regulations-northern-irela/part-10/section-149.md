@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 149. Interpretation of Chapter[^key-55e9d213789f5fcc13b628a5ba3e42de]
+## 149. Interpretation of Chapter[^c-55e9d213789f5fcc13b628a5ba3e42de]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-55e9d213789f5fcc13b628a5ba3e42de]: Commencement: [Reg. 149](https://www.legislation.gov.uk/nisr/2014/290/regulation/149) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-55e9d213789f5fcc13b628a5ba3e42de]: Commencement: [Reg. 149](https://www.legislation.gov.uk/nisr/2014/290/regulation/149) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

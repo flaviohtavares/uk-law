@@ -33,7 +33,7 @@ FOOD, WALES
 
 ANIMALS, WALES
 
-The Specified Risk Material (Amendment) (Wales) (No.2) Regulations 2001 (revoked)[^key-cca9e9ad375eddce1dd9f9c6ea060e0a]
+The Specified Risk Material (Amendment) (Wales) (No.2) Regulations 2001 (revoked)[^c-cca9e9ad375eddce1dd9f9c6ea060e0a]
 
 Made
 
@@ -43,32 +43,32 @@ Coming into force
 
 1 November 2001
 
-[^key-cca9e9ad375eddce1dd9f9c6ea060e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cca9e9ad375eddce1dd9f9c6ea060e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-cca9e9ad375eddce1dd9f9c6ea060e0a]
+## 1. Citation, commencement and application[^c-cca9e9ad375eddce1dd9f9c6ea060e0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation of the Specified Risk Material (Amendment) (Wales) Regulations 2001[^key-cca9e9ad375eddce1dd9f9c6ea060e0a]
+## 2. Revocation of the Specified Risk Material (Amendment) (Wales) Regulations 2001[^c-cca9e9ad375eddce1dd9f9c6ea060e0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Specified Risk Material Order 1997[^key-cca9e9ad375eddce1dd9f9c6ea060e0a]
+## 3. Amendment of the Specified Risk Material Order 1997[^c-cca9e9ad375eddce1dd9f9c6ea060e0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Specified Risk Material Regulations 1997[^key-cca9e9ad375eddce1dd9f9c6ea060e0a]
+## 4. Amendments to the Specified Risk Material Regulations 1997[^c-cca9e9ad375eddce1dd9f9c6ea060e0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cca9e9ad375eddce1dd9f9c6ea060e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cca9e9ad375eddce1dd9f9c6ea060e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cca9e9ad375eddce1dd9f9c6ea060e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cca9e9ad375eddce1dd9f9c6ea060e0a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cca9e9ad375eddce1dd9f9c6ea060e0a]: Textual amendment: Regulations revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2006 (S.I. 2006/1226)](https://www.legislation.gov.uk/uksi/2006/1226), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1226/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2006/1226/schedule/8)
+[^c-cca9e9ad375eddce1dd9f9c6ea060e0a]: Textual amendment: Regulations revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2006 (S.I. 2006/1226)](https://www.legislation.gov.uk/uksi/2006/1226), [reg. 1](https://www.legislation.gov.uk/uksi/2006/1226/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2006/1226/schedule/8)

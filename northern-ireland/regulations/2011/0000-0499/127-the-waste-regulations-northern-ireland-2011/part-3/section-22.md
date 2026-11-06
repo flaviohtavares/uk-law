@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Enforcement notices[^key-0272345195bfac38547daac0bffc12bf]
+## 22. Enforcement notices[^c-0272345195bfac38547daac0bffc12bf]
 
 *Extent: N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0272345195bfac38547daac0bffc12bf]: Commencement: Reg. 22 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-0272345195bfac38547daac0bffc12bf]: Commencement: Reg. 22 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2003 No. 493](https://www.legislation.gov.uk/nisr/2003/493)

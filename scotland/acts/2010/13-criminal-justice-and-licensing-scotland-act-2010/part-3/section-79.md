@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Retention of samples etc. taken or provided in connection with certain fixed penalty offences[^key-437178a6d0aab878ebe5aafb7571b41f]
+## 79. Retention of samples etc. taken or provided in connection with certain fixed penalty offences[^c-437178a6d0aab878ebe5aafb7571b41f]
 
 *Extent: S*
 
@@ -73,4 +73,4 @@ After section 18C of the 1995 Act insert—
 
 ## Annotations
 
-[^key-437178a6d0aab878ebe5aafb7571b41f]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2010/13/section/79) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2011/178/article/6))
+[^c-437178a6d0aab878ebe5aafb7571b41f]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2010/13/section/79) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2011/178/article/6))

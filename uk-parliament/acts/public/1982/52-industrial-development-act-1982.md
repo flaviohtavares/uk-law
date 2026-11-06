@@ -33,7 +33,7 @@ Industrial Development Act 1982
 
 An Act to consolidate, with certain exceptions, the Local Employment Act 1972, Parts I and II of the the Industry Act 1972, section 18 of the Industry Act 1980, section 6 of the Industry Act 1981 and related enactments.\]
 
-\[28th October 1982\][^key-44127eb46d0ead40873d707781972e7d]
+\[28th October 1982\][^c-44127eb46d0ead40873d707781972e7d]
 
 [^c12736681][^c12736691][^c12736701]
 
@@ -48,11 +48,11 @@ An Act to consolidate, with certain exceptions, the Local Employment Act 1972, P
 - (a) a development area; or
 - (b) an intermediate area.
 
-(2)[^key-2939bf9f989e32cccebda1e0099c355e][^c12736721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2939bf9f989e32cccebda1e0099c355e][^c12736721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In exercising his powers under the preceding provisions of this section the Secretary of State shall have regard to all the circumstances actual and expected, including the state of employment and unemployment, population changes, migration and the objectives of regional policies.
 
-(4)[^c12736731] An order under this section may describe a development area, intermediate area [^key-6a7952af4a73cccee9d0e8bf675e391b]... by reference to any of the following kinds of area or any combination of those areas, that is to say—
+(4)[^c12736731] An order under this section may describe a development area, intermediate area [^c-6a7952af4a73cccee9d0e8bf675e391b]... by reference to any of the following kinds of area or any combination of those areas, that is to say—
 
 - (a) wards;
 - (b) travel to work areas (being areas by reference to which the Secretary of State publishes unemployment statistics);
@@ -60,43 +60,43 @@ An Act to consolidate, with certain exceptions, the Local Employment Act 1972, P
 
 and any order under this section may provide for any reference in the order to any named area or combination of areas to be construed as a reference to that area or combination of areas as it or they existed on a date specified in the order.
 
-(5)[^key-521b873c8ad9665ab99cf19d7b9ff072] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-521b873c8ad9665ab99cf19d7b9ff072] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-bd504be6a8683c8f68e62137025d6744] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-bd504be6a8683c8f68e62137025d6744] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) An order under this section shall be contained in a statutory instrument which, subject to subsection (8) below, shall be subject to annulment in pursuance of a resolution of either House of Parliament[^key-9aff251ba425cff3483066d74bf9b739]....
+(7) An order under this section shall be contained in a statutory instrument which, subject to subsection (8) below, shall be subject to annulment in pursuance of a resolution of either House of Parliament[^c-9aff251ba425cff3483066d74bf9b739]....
 
-(8)[^key-4c60e37dadffd815f29bd1dcb6bdcc4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-4c60e37dadffd815f29bd1dcb6bdcc4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part II — Regional Development Grants[^key-51619ec85c63402ecee89ea720275959]
+## Part II — Regional Development Grants[^c-51619ec85c63402ecee89ea720275959]
 
 *Extent: E+W+S*
 
-### 2. Grants for projects of investment in development areas.[^key-51619ec85c63402ecee89ea720275959]
+### 2. Grants for projects of investment in development areas.[^c-51619ec85c63402ecee89ea720275959]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Approval of projects by Secretary of State.[^key-51619ec85c63402ecee89ea720275959]
+### 3. Approval of projects by Secretary of State.[^c-51619ec85c63402ecee89ea720275959]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amount and payment of grants.[^key-51619ec85c63402ecee89ea720275959]
+### 4. Amount and payment of grants.[^c-51619ec85c63402ecee89ea720275959]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Provisions supplementary to ss. 3 and 4.[^key-51619ec85c63402ecee89ea720275959]
+### 5. Provisions supplementary to ss. 3 and 4.[^c-51619ec85c63402ecee89ea720275959]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Conditions.[^key-51619ec85c63402ecee89ea720275959]
+### 6. Conditions.[^c-51619ec85c63402ecee89ea720275959]
 
 **No longer in force.**
 
@@ -131,7 +131,7 @@ and any order under this section may provide for any reference in the order to a
 
 *Extent: S.*
 
-(4A)[^key-a9675484e2c30d54c6b82657206f663a] The Scottish Ministers may, to such extent and subject to such conditions as they think appropriate, delegate their function under subsection (1) to such persons as they may determine.
+(4A)[^c-a9675484e2c30d54c6b82657206f663a] The Scottish Ministers may, to such extent and subject to such conditions as they think appropriate, delegate their function under subsection (1) to such persons as they may determine.
 
 (4B (Extent: S.)) Where the Scottish Ministers make a delegation under subsection (4A) to a person, they may also delegate to that person their function of being satisfied as mentioned in subsection (4). *(Extent: S.)*
 
@@ -157,14 +157,14 @@ and any order under this section may provide for any reference in the order to a
 
 (3) Financial assistance shall not be given under this section in the way described in subsection (3)(a) of section 7 above unless the Secretary of State is satisfied that it cannot, or cannot appropriately, be so given in any other way; and the Secretary of State, in giving financial assistance in the way so described, shall not acquire any shares or stock in a company without the consent of that company.
 
-(4)[^key-bc0fe35d01f3841d14c2429ab5888e5d] The aggregate of—
+(4)[^c-bc0fe35d01f3841d14c2429ab5888e5d] The aggregate of—
 
 - (a) the sums paid by the Secretary of State under this section or section 8 of the [^c12737041]Industry Act 1972, other than sums paid in respect of foreign currency guarantees, and
 - (b) the liabilities of the Secretary of State under any guarantees given by him under this section or that section, (exclusive of any liability in respect of interest on a principal sum so guaranteed and of any liability under a foreign currency guarantee),
 
 less any sum received by the Secretary of State by way of repayment of loans under this section or that section, or repayment of principal sums paid to meet a guarantee under this section or that section (other than a foreign currency guarantee), shall not at any time exceed the limit specified in subsection (5) below.
 
-(5)[^c12737051][^key-bc0fe35d01f3841d14c2429ab5888e5d][^key-20be5eea2fc6b985d298e8edea570b5c] The limit shall be £20 billion[^key-117656b46a82b958a799b0ff242b732b], but the Secretary of State may, on not more than four occasions, by order made with the consent of the Treasury increase or further increase that limit by a sum specified in the order, being a sum not exceeding £1.5 billion[^key-43199d5458d3602e09fd6a6ccfe8689b].
+(5)[^c12737051][^c-bc0fe35d01f3841d14c2429ab5888e5d][^c-20be5eea2fc6b985d298e8edea570b5c] The limit shall be £20 billion[^c-117656b46a82b958a799b0ff242b732b], but the Secretary of State may, on not more than four occasions, by order made with the consent of the Treasury increase or further increase that limit by a sum specified in the order, being a sum not exceeding £1.5 billion[^c-43199d5458d3602e09fd6a6ccfe8689b].
 
 (6) Subject to section 9 below, the aggregate of—
 
@@ -175,7 +175,7 @@ less any sums received by the Secretary of State by way of repayment of principa
 
 (7)[^c12737051] The said limit shall be 1,000 million special drawing rights, but the Secretary of State may, on not more than four occasions, by order made with the consent of the Treasury increase or further increase that limit by an amount specified in the order, being an amount not exceeding 500 million special drawing rights.
 
-(8) Subject to subsection (9) below, the sums which are paid, or undertaken to be paid,[^key-67ac432fdbcf32a0875e7923082660b3] by way of financial assistance under this section in respect of any one project, excluding sums paid or to be paid in respect of foreign currency guarantees, shall not exceed £10 million in the case of payments made, or undertakings given by, the Scottish Ministers, or £30 million in any other case[^key-bd7ca5706d804e904cc60d7ca787f612], except so far as any excess over the said sum of £10 million or £30 million[^key-5d7b4752e805f8ac31f77a380aacf79f] has been authorised by a resolution of the Commons House of Parliament.
+(8) Subject to subsection (9) below, the sums which are paid, or undertaken to be paid,[^c-67ac432fdbcf32a0875e7923082660b3] by way of financial assistance under this section in respect of any one project, excluding sums paid or to be paid in respect of foreign currency guarantees, shall not exceed £10 million in the case of payments made, or undertakings given by, the Scottish Ministers, or £30 million in any other case[^c-bd7ca5706d804e904cc60d7ca787f612], except so far as any excess over the said sum of £10 million or £30 million[^c-5d7b4752e805f8ac31f77a380aacf79f] has been authorised by a resolution of the Commons House of Parliament.
 
 (9) Subsection (8) above shall not apply where the Secretary of State is satisfied that the payment or undertaking is urgently needed at a time when it is impracticable to obtain the approval of the Commons House of Parliament; and in that case the Secretary of State shall lay a statement concerning the financial assistance before each House of Parliament.
 
@@ -238,7 +238,7 @@ and shall be so determined having regard to what appears to him to be the approp
 
 (2) Not later than six months after the end of any financial year in which this power is used the Secretary of State shall prepare and lay before Parliament a report on the exercise during the year of his powers under this section.
 
-(3)[^key-ff81b2c8a9a8841e10b90b9e5f6f9e91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ff81b2c8a9a8841e10b90b9e5f6f9e91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 12. Powers to promote careers in industry etc.[^c12737141][^c12737151]
 
@@ -259,7 +259,7 @@ and shall be so determined having regard to what appears to him to be the approp
 - (a) it is established by Royal Charter; and
 - (b) its members are for the time being appointed by the Secretary of State.
 
-#### 13. Improvement of basic services in development areas and intermediate areas.[^c12737171][^c12737181][^key-fee9b366d2d0a43655f85790a10352db]
+#### 13. Improvement of basic services in development areas and intermediate areas.[^c12737171][^c12737181][^c-fee9b366d2d0a43655f85790a10352db]
 
 *Extent: E+W+S*
 
@@ -269,7 +269,7 @@ and shall be so determined having regard to what appears to him to be the approp
 
 (3) The powers conferred by this section are in addition to any other powers of a Minister of the Crown to make grants or loans.
 
-#### 13A. Improvement of electronic communications networks and services etc[^key-cf86ddc040fd23aa4a35643d7a729f89]
+#### 13A. Improvement of electronic communications networks and services etc[^c-cf86ddc040fd23aa4a35643d7a729f89]
 
 (1) This section applies if it appears to the Secretary of State that adequate provision has not been made for an area in respect of electronic communications facilities.
 
@@ -312,7 +312,7 @@ and shall be so determined having regard to what appears to him to be the approp
 
 the Secretary of State shall not be authorised to acquire compulsorily the interest of the person carrying on the undertaking.
 
-(6)[^key-6b19bdd0c532dd65a7aedc5ddd9f206a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-6b19bdd0c532dd65a7aedc5ddd9f206a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 14A. Meaning of “industrial buildings”.[^c12737251]
 
@@ -346,14 +346,14 @@ shall themselves be treated as used or designed for use for the carrying on of s
 
 (1) For each financial year the Secretary of State shall prepare a report on the discharge of his functions—
 
-- (a) under Parts 1 and 3[^key-b649d33489a0bb3d25b8ef2574d842f0] and sections 13 and 14 of this Act,
+- (a) under Parts 1 and 3[^c-b649d33489a0bb3d25b8ef2574d842f0] and sections 13 and 14 of this Act,
 - (b)[^c12737271] under section 67(1) of the [^c12737281] Town and Country Planning Act 1971 and section 65(1) of the [^c12737291] Town and Country Planning (Scotland) Act 1972 (industrial development certificates),
 - (c) under Part III of the [^c12737301]Industry Act 1972 (including any functions in respect of guarantees given by him under section 7 of the [^c12737311]Shipbuilding Industry Act 1967), and
 - (d) under the [^c12737321]English Industrial Estates Corporation Act 1981,
 
 and shall lay the report before Parliament not later than six months after the end of the financial year to which it relates.
 
-(2) The Secretary of State may discharge his duty under this section in any year by making a report on his functions under Part I, [^key-4426efdbcb94e905029e76dc6c6f73da]... Part III or sections 13 and 14 of this Act, or under the other enactments mentioned in subsection (1) above and one or more separate reports on the remaining functions.
+(2) The Secretary of State may discharge his duty under this section in any year by making a report on his functions under Part I, [^c-4426efdbcb94e905029e76dc6c6f73da]... Part III or sections 13 and 14 of this Act, or under the other enactments mentioned in subsection (1) above and one or more separate reports on the remaining functions.
 
 (3) A report under this section relating to Part III of this Act or Part III of the [^c12737331]Industry Act 1972 shall contain a statement showing the total amount of the liabilities of the Secretary of State (exclusive of any liability in respect of interest on a principal sum) under guarantees given by him under Part III of this Act or Part II of that Act or, as the case may be, under Part III of that Act (and in the latter case shall include liabilities under guarantees given under section 7 of the [^c12737341]Shipbuilding Industry Act 1967).
 
@@ -365,14 +365,14 @@ and shall lay the report before Parliament not later than six months after the e
 
 (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c12737461], the Secretary of State shall, for each financial year, prepare a statement of accounts in such form as the Treasury may direct, showing the financial results for the financial year as respects—
 
-- (a) the activities of the Secretary of State in the execution of sections 13 to 14[^key-7a50a5d4a186d8b9819a1634eaf583bc] of this Act . . . [^c12737471], other than activities in respect of grants; . . . [^c12737481]
+- (a) the activities of the Secretary of State in the execution of sections 13 to 14[^c-7a50a5d4a186d8b9819a1634eaf583bc] of this Act . . . [^c12737471], other than activities in respect of grants; . . . [^c12737481]
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c12737481]
 
 (2) The Secretary of State shall on or before 30th November in each year transmit to the Comptroller and Auditor General the statement of accounts prepared by the Secretary of State for the financial year last ended for examination and certification by him.
 
 (3) Copies of every statement of accounts of the Secretary of State under this section, together with the report of the Comptroller and Auditor General thereon, shall be laid by the Secretary of State before Parliament.
 
-(4)[^key-1c15f108e4e29f1e0295c27135cb9b88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1c15f108e4e29f1e0295c27135cb9b88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Supplemental
 
@@ -396,7 +396,7 @@ and shall lay the report before Parliament not later than six months after the e
 
 *Extent: E+W+S*
 
-(1) In this Act “**development area**”[^key-bb2211c566672c586920bf2b1bd6d4a0]... and “**intermediate area**” mean an area for the time being specified or designated by an order made, or having effect as if made, under section 1 above, as the case may be, as a development area[^key-bb2211c566672c586920bf2b1bd6d4a0]... or as an intermediate area.
+(1) In this Act “**development area**”[^c-bb2211c566672c586920bf2b1bd6d4a0]... and “**intermediate area**” mean an area for the time being specified or designated by an order made, or having effect as if made, under section 1 above, as the case may be, as a development area[^c-bb2211c566672c586920bf2b1bd6d4a0]... or as an intermediate area.
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c12737511]
 
@@ -412,11 +412,11 @@ and shall lay the report before Parliament not later than six months after the e
 
 (2) This Act shall come into force on the expiration of the period of three months beginning with its passing.
 
-(3) This Act extends to England and Wales and, except for section 14, to Scotland; but only the following provisions of this Act extend to Northern Ireland, that is to say, Part III, sections 11, 12 and 13A[^key-62be13435b9a95024babc3d0bea889a1], and this section and (so far as they relate to enactments which extend to Northern Ireland) sections 15, 16[^key-4d2fec02a94144c970ac05e989be0c33] and 19 and Schedules 2 and 3.
+(3) This Act extends to England and Wales and, except for section 14, to Scotland; but only the following provisions of this Act extend to Northern Ireland, that is to say, Part III, sections 11, 12 and 13A[^c-62be13435b9a95024babc3d0bea889a1], and this section and (so far as they relate to enactments which extend to Northern Ireland) sections 15, 16[^c-4d2fec02a94144c970ac05e989be0c33] and 19 and Schedules 2 and 3.
 
 SCHEDULES
 
-## SCHEDULE 1 — Enforcement of Conditions attached to Regional Development Grants[^key-01a999ab231b81da04758a8168227336]
+## SCHEDULE 1 — Enforcement of Conditions attached to Regional Development Grants[^c-01a999ab231b81da04758a8168227336]
 
 *Extent: E+W+S*
 
@@ -424,41 +424,41 @@ Section 5.
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-01a999ab231b81da04758a8168227336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-01a999ab231b81da04758a8168227336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-01a999ab231b81da04758a8168227336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-01a999ab231b81da04758a8168227336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-01a999ab231b81da04758a8168227336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-01a999ab231b81da04758a8168227336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-01a999ab231b81da04758a8168227336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-01a999ab231b81da04758a8168227336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-01a999ab231b81da04758a8168227336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-01a999ab231b81da04758a8168227336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-01a999ab231b81da04758a8168227336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-01a999ab231b81da04758a8168227336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Consequential Amendments, Transitional Provisions and Savings
 
 Section 19.
 
-### Part I — Old Cases Etc.[^key-f17398aa4e6f572df5440c3d498cf4b8]
+### Part I — Old Cases Etc.[^c-f17398aa4e6f572df5440c3d498cf4b8]
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-f17398aa4e6f572df5440c3d498cf4b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f17398aa4e6f572df5440c3d498cf4b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-f17398aa4e6f572df5440c3d498cf4b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f17398aa4e6f572df5440c3d498cf4b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Miscellaneous
 
@@ -493,7 +493,7 @@ Section 19.
 
 #### The Finance Act 1971[^c12737791]
 
-**6.**[^key-554689e787742e7b1339d4a919e5170d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-554689e787742e7b1339d4a919e5170d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Town and Country Planning Act 1971[^c12737821]
 
@@ -507,7 +507,7 @@ Section 19.
 
 **8.** The repeal by this Act of paragraph 3 of Schedule 2 to the [^c12737871]Industry Act 1972 shall not affect any liability by virtue of that paragraph (savings for repeals of provisions of the Local Employment Act 1972) for any offence committed before the cmmencement of this Act.
 
-**9.**[^key-83a73a9c8af830aea0dfea5794f9627a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-83a73a9c8af830aea0dfea5794f9627a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Town and Country Planning (Scotland) Act 1972[^c12737911]
 
@@ -602,7 +602,7 @@ Section 19.
 
 ## Annotations
 
-[^key-44127eb46d0ead40873d707781972e7d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1982/52) functions in part made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-44127eb46d0ead40873d707781972e7d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1982/52) functions in part made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c12736681]: Modification: Act (with the exceptions of ss. 1, 8(5) and (7), 10, 15 and 16): functions modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
@@ -612,23 +612,23 @@ Section 19.
 
 [^c12736711]: Modification: S. 1(1) restricted by [Regional Development Grants (Termination) Act 1988 (c. 11, SIF 64)](https://www.legislation.gov.uk/ukpga/1988/11), [s. 1(4)(a)](https://www.legislation.gov.uk/ukpga/1988/11/section/1/4/a)
 
-[^key-2939bf9f989e32cccebda1e0099c355e]: Textual amendment: S. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-2939bf9f989e32cccebda1e0099c355e]: Textual amendment: S. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c12736721]: Modification: S. 1(2) restricted by [Regional Development Grants (Termination) Act 1988 (c. 11, SIF 64)](https://www.legislation.gov.uk/ukpga/1988/11), [s. 1(4)(b)](https://www.legislation.gov.uk/ukpga/1988/11/section/1/4/b)
 
 [^c12736731]: Textual amendment: S. 1(4) substituted (with saving) by Co-operative [Development Agency and Industrial Development Act 1984 (c. 57, SIF 64)](https://www.legislation.gov.uk/ukpga/1984/57), [ss. 4](https://www.legislation.gov.uk/ukpga/1984/57/section/4), [7(1)](https://www.legislation.gov.uk/ukpga/1984/57/section/7/1)(*b*)
 
-[^key-6a7952af4a73cccee9d0e8bf675e391b]: Textual amendment: Words in s. 1(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-6a7952af4a73cccee9d0e8bf675e391b]: Textual amendment: Words in s. 1(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-521b873c8ad9665ab99cf19d7b9ff072]: Textual amendment: S. 1(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-521b873c8ad9665ab99cf19d7b9ff072]: Textual amendment: S. 1(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-bd504be6a8683c8f68e62137025d6744]: Textual amendment: S. 1(6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-bd504be6a8683c8f68e62137025d6744]: Textual amendment: S. 1(6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-9aff251ba425cff3483066d74bf9b739]: Textual amendment: Words in s. 1(7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-9aff251ba425cff3483066d74bf9b739]: Textual amendment: Words in s. 1(7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-4c60e37dadffd815f29bd1dcb6bdcc4f]: Textual amendment: S. 1(8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-4c60e37dadffd815f29bd1dcb6bdcc4f]: Textual amendment: S. 1(8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-51619ec85c63402ecee89ea720275959]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1982/52/part/II) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-51619ec85c63402ecee89ea720275959]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1982/52/part/II) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c12736951]: Modification: S. 7: functions transferred (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [ss. 53](https://www.legislation.gov.uk/ukpga/1998/46/section/53), [56(1)(h)](https://www.legislation.gov.uk/ukpga/1998/46/section/56/1/h) (with [ss. 54](https://www.legislation.gov.uk/ukpga/1998/46/section/54), [126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3), [Sch. 4 Pt. III paras. 12-14](https://www.legislation.gov.uk/ukpga/1998/46/schedule/4/part/III/paragraph/12)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3).
 
@@ -638,7 +638,7 @@ Section 19.
 
 [^c12736971]: Marginal citation: [1972 c. 63](https://www.legislation.gov.uk/ukpga/1972/63).
 
-[^key-a9675484e2c30d54c6b82657206f663a]: Textual amendment: [S. 7(4A)-(4E)](https://www.legislation.gov.uk/ukpga/1982/52/section/7/4A) inserted (S.) (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 9](https://www.legislation.gov.uk/asp/2010/8/section/9), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-a9675484e2c30d54c6b82657206f663a]: Textual amendment: [S. 7(4A)-(4E)](https://www.legislation.gov.uk/ukpga/1982/52/section/7/4A) inserted (S.) (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 9](https://www.legislation.gov.uk/asp/2010/8/section/9), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
 [^c12737011]: Modification: S. 8: functions transferred (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [ss. 53](https://www.legislation.gov.uk/ukpga/1998/46/section/53), [56(1)(h)](https://www.legislation.gov.uk/ukpga/1998/46/section/56/1/h) (with [ss. 54](https://www.legislation.gov.uk/ukpga/1998/46/section/54), [126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3), [Sch. 4 Pt. III paras. 12-14](https://www.legislation.gov.uk/ukpga/1998/46/schedule/4/part/III/paragraph/12)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3).
 
@@ -648,25 +648,25 @@ Section 19.
 
 [^c15952481]: Modification: S. 8(1): certain functions made exercisable concurrently by the Scottish Ministers and a Minister of the Crown (27.6.2002) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2002 (S.I. 2002/1630)](https://www.legislation.gov.uk/uksi/2002/1630), [art. 2](https://www.legislation.gov.uk/uksi/2002/1630/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/1630/schedule)
 
-[^key-bc0fe35d01f3841d14c2429ab5888e5d]: Modification: S. 8(4)(5) modified (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 75(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/75/1), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
+[^c-bc0fe35d01f3841d14c2429ab5888e5d]: Modification: S. 8(4)(5) modified (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 75(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/75/1), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
 
 [^c12737041]: Marginal citation: [1972 c. 63](https://www.legislation.gov.uk/ukpga/1972/63).
 
 [^c12737051]: Modification: S. 8(5)(7): functions modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 5](https://www.legislation.gov.uk/uksi/1999/672/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/672/schedule/2)
 
-[^key-20be5eea2fc6b985d298e8edea570b5c]: Textual amendment: S. 8(5) substituted (21.5.2009) by [Industry and Exports (Financial Support) Act 2009 (c. 5)](https://www.legislation.gov.uk/ukpga/2009/5), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2009/5/section/1/1), [3(2)](https://www.legislation.gov.uk/ukpga/2009/5/section/3/2)
+[^c-20be5eea2fc6b985d298e8edea570b5c]: Textual amendment: S. 8(5) substituted (21.5.2009) by [Industry and Exports (Financial Support) Act 2009 (c. 5)](https://www.legislation.gov.uk/ukpga/2009/5), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2009/5/section/1/1), [3(2)](https://www.legislation.gov.uk/ukpga/2009/5/section/3/2)
 
-[^key-117656b46a82b958a799b0ff242b732b]: Textual amendment: Sum in s. 8(5) substituted (18.5.2026) by [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 1(a)](https://www.legislation.gov.uk/ukpga/2026/14/section/1/a), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
+[^c-117656b46a82b958a799b0ff242b732b]: Textual amendment: Sum in s. 8(5) substituted (18.5.2026) by [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 1(a)](https://www.legislation.gov.uk/ukpga/2026/14/section/1/a), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
 
-[^key-43199d5458d3602e09fd6a6ccfe8689b]: Textual amendment: Sum in s. 8(5) substituted (18.5.2026) by [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 1(b)](https://www.legislation.gov.uk/ukpga/2026/14/section/1/b), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
+[^c-43199d5458d3602e09fd6a6ccfe8689b]: Textual amendment: Sum in s. 8(5) substituted (18.5.2026) by [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 1(b)](https://www.legislation.gov.uk/ukpga/2026/14/section/1/b), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
 
 [^c12737071]: Marginal citation: [1972 c. 63](https://www.legislation.gov.uk/ukpga/1972/63).
 
-[^key-67ac432fdbcf32a0875e7923082660b3]: Textual amendment: Words in s. 8(8) substituted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 34(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/34/a), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
+[^c-67ac432fdbcf32a0875e7923082660b3]: Textual amendment: Words in s. 8(8) substituted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 34(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/34/a), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
 
-[^key-bd7ca5706d804e904cc60d7ca787f612]: Textual amendment: Words in s. 8(8) inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 34(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/34/b), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
+[^c-bd7ca5706d804e904cc60d7ca787f612]: Textual amendment: Words in s. 8(8) inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 34(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/34/b), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
 
-[^key-5d7b4752e805f8ac31f77a380aacf79f]: Textual amendment: Words in s. 8(8) inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 34(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/34/c), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
+[^c-5d7b4752e805f8ac31f77a380aacf79f]: Textual amendment: Words in s. 8(8) inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 34(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/34/c), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
 
 [^c12737091]: Marginal citation: [1972 c. 63](https://www.legislation.gov.uk/ukpga/1972/63).
 
@@ -676,7 +676,7 @@ Section 19.
 
 [^c12737121]: Modification: S. 11: functions transferred (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [ss. 53](https://www.legislation.gov.uk/ukpga/1998/46/section/53), [56(1)(h)](https://www.legislation.gov.uk/ukpga/1998/46/section/56/1/h) (with [ss. 54](https://www.legislation.gov.uk/ukpga/1998/46/section/54), [126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3), [Sch. 4 Pt. III paras. 12-14](https://www.legislation.gov.uk/ukpga/1998/46/schedule/4/part/III/paragraph/12)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3).
 
-[^key-ff81b2c8a9a8841e10b90b9e5f6f9e91]: Textual amendment: S. 11(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-ff81b2c8a9a8841e10b90b9e5f6f9e91]: Textual amendment: S. 11(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c12737141]: Modification: S. 12: functions transferred (1.7.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [ss. 53](https://www.legislation.gov.uk/ukpga/1998/46/section/53), [56(1)(h)](https://www.legislation.gov.uk/ukpga/1998/46/section/56/1/h) (with [ss. 54](https://www.legislation.gov.uk/ukpga/1998/46/section/54), [126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3), [Sch. 4 Pt. III paras. 12-14](https://www.legislation.gov.uk/ukpga/1998/46/schedule/4/part/III/paragraph/12)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3).
 
@@ -688,9 +688,9 @@ Section 19.
 
 [^c12737181]: Modification: S. 13: functions modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-fee9b366d2d0a43655f85790a10352db]: Textual amendment: Words in s. 13 heading inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2016/12/section/35/2), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
+[^c-fee9b366d2d0a43655f85790a10352db]: Textual amendment: Words in s. 13 heading inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2016/12/section/35/2), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
 
-[^key-cf86ddc040fd23aa4a35643d7a729f89]: Textual amendment: [S. 13A](https://www.legislation.gov.uk/ukpga/1982/52/section/13A) inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/35/3), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
+[^c-cf86ddc040fd23aa4a35643d7a729f89]: Textual amendment: [S. 13A](https://www.legislation.gov.uk/ukpga/1982/52/section/13A) inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 35(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/35/3), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
 
 [^c12737191]: Textual amendment: Words substituted by [Housing and Planning Act 1986 (c. 63, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1986/63), [ss. 49](https://www.legislation.gov.uk/ukpga/1986/63/section/49), [53](https://www.legislation.gov.uk/ukpga/1986/63/section/53), [Sch. 11 Pt. I para. 25(2)](https://www.legislation.gov.uk/ukpga/1986/63/schedule/11/part/I/paragraph/25/2)
 
@@ -700,13 +700,13 @@ Section 19.
 
 [^c12737221]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-6b19bdd0c532dd65a7aedc5ddd9f206a]: Textual amendment: [S. 14(6)](https://www.legislation.gov.uk/ukpga/1982/52/section/14/6) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/15); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
+[^c-6b19bdd0c532dd65a7aedc5ddd9f206a]: Textual amendment: [S. 14(6)](https://www.legislation.gov.uk/ukpga/1982/52/section/14/6) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/15); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
 
 [^c12737251]: Textual amendment: S. 14A inserted by [Housing and Planning Act 1986 (c. 63, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1986/63), [ss. 49](https://www.legislation.gov.uk/ukpga/1986/63/section/49), [53](https://www.legislation.gov.uk/ukpga/1986/63/section/53), [Sch. 11 Pt. I para. 25(3)](https://www.legislation.gov.uk/ukpga/1986/63/schedule/11/part/I/paragraph/25/3)
 
 [^c12737261]: Modification: S. 15 modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [arts. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [5](https://www.legislation.gov.uk/uksi/1999/672/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/672/schedule/2)
 
-[^key-b649d33489a0bb3d25b8ef2574d842f0]: Textual amendment: Words in s. 15(1)(a) substituted (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/14)
+[^c-b649d33489a0bb3d25b8ef2574d842f0]: Textual amendment: Words in s. 15(1)(a) substituted (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/14)
 
 [^c12737271]: Textual amendment: S. 15(1)(*b*) repealed (E.W.) by [Housing and Planning Act 1986 (c. 63, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/49/2), [Sch. 12 Pt. III](https://www.legislation.gov.uk/ukpga/1986/63/schedule/12/part/III), and (S.) by [Housing and Planning Act 1986 (c. 63, SIF 123:2)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 53(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/53/2), [Sch. 12 Pt. IV](https://www.legislation.gov.uk/ukpga/1986/63/schedule/12/part/IV)
 
@@ -720,7 +720,7 @@ Section 19.
 
 [^c12737321]: Marginal citation: [1981 c. 13](https://www.legislation.gov.uk/ukpga/1981/13).
 
-[^key-4426efdbcb94e905029e76dc6c6f73da]: Textual amendment: Words in s. 15(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-4426efdbcb94e905029e76dc6c6f73da]: Textual amendment: Words in s. 15(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c12737331]: Marginal citation: [1972 c. 63](https://www.legislation.gov.uk/ukpga/1972/63).
 
@@ -732,29 +732,29 @@ Section 19.
 
 [^c12737461]: Textual amendment: Words repealed by [Industrial Development Act 1985 (c. 25, SIF 64)](https://www.legislation.gov.uk/ukpga/1985/25), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1985/25/section/4/2)(*a*), 6(3), Sch.
 
-[^key-7a50a5d4a186d8b9819a1634eaf583bc]: Textual amendment: Words in s. 16(1)(a) substituted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 35(4)](https://www.legislation.gov.uk/ukpga/2016/12/section/35/4), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
+[^c-7a50a5d4a186d8b9819a1634eaf583bc]: Textual amendment: Words in s. 16(1)(a) substituted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 35(4)](https://www.legislation.gov.uk/ukpga/2016/12/section/35/4), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
 
 [^c12737471]: Textual amendment: Words repealed by [Industrial Development Act 1985 (c. 25, SIF 64)](https://www.legislation.gov.uk/ukpga/1985/25), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1985/25/section/4/2)(*b*), 6(3), Sch.
 
 [^c12737481]: Textual amendment: S. 16(1)(*b* and the word “and” immediately preceding it repealed by [Industrial Development Act 1985 (c. 25, SIF64)](https://www.legislation.gov.uk/ukpga/1985/25), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1985/25/section/4/2)(*c*), 6(3), Sch.
 
-[^key-1c15f108e4e29f1e0295c27135cb9b88]: Textual amendment: S. 16(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-1c15f108e4e29f1e0295c27135cb9b88]: Textual amendment: S. 16(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c12737501]: Marginal citation: [1972 c. 5](https://www.legislation.gov.uk/ukpga/1972/5).
 
-[^key-bb2211c566672c586920bf2b1bd6d4a0]: Textual amendment: Words in s. 18(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-bb2211c566672c586920bf2b1bd6d4a0]: Textual amendment: Words in s. 18(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c12737511]: Textual amendment: S. 18(2) repealed by Co-operative [Development Agency and Industrial Development Act 1984 (c. 57, SIF 64)](https://www.legislation.gov.uk/ukpga/1984/57), [s. 6](https://www.legislation.gov.uk/ukpga/1984/57/section/6), [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1984/57/schedule/2/part/III)
 
 [^c12737521]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-62be13435b9a95024babc3d0bea889a1]: Textual amendment: Words in s. 20(3) substituted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 35(5)(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/35/5/a), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
+[^c-62be13435b9a95024babc3d0bea889a1]: Textual amendment: Words in s. 20(3) substituted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 35(5)(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/35/5/a), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
 
-[^key-4d2fec02a94144c970ac05e989be0c33]: Textual amendment: Word in s. 20(3) inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 35(5)(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/35/5/b), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
+[^c-4d2fec02a94144c970ac05e989be0c33]: Textual amendment: Word in s. 20(3) inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 35(5)(b)](https://www.legislation.gov.uk/ukpga/2016/12/section/35/5/b), [44(2)(f)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/f)
 
-[^key-01a999ab231b81da04758a8168227336]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1982/52/schedule/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-01a999ab231b81da04758a8168227336]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1982/52/schedule/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-f17398aa4e6f572df5440c3d498cf4b8]: Textual amendment: [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1982/52/schedule/2/part/I) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-f17398aa4e6f572df5440c3d498cf4b8]: Textual amendment: [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1982/52/schedule/2/part/I) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c12737661]: Marginal citation: [1972 c. 5](https://www.legislation.gov.uk/ukpga/1972/5).
 
@@ -782,7 +782,7 @@ Section 19.
 
 [^c12737791]: Marginal citation: [1971 c. 68](https://www.legislation.gov.uk/ukpga/1971/68).
 
-[^key-554689e787742e7b1339d4a919e5170d]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1982/52/schedule/2/paragraph/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-554689e787742e7b1339d4a919e5170d]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1982/52/schedule/2/paragraph/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c12737821]: Marginal citation: [1971 c. 78](https://www.legislation.gov.uk/ukpga/1971/78).
 
@@ -796,7 +796,7 @@ Section 19.
 
 [^c12737871]: Marginal citation: [1972 c. 5](https://www.legislation.gov.uk/ukpga/1972/5)
 
-[^key-83a73a9c8af830aea0dfea5794f9627a]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1982/52/schedule/2/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-83a73a9c8af830aea0dfea5794f9627a]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1982/52/schedule/2/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c12737911]: Marginal citation: [1972 c. 52](https://www.legislation.gov.uk/ukpga/1972/52).
 

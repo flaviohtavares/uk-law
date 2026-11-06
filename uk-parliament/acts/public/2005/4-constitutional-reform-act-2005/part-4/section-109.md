@@ -43,9 +43,9 @@ and “**judicial office holder**” means the holder of a judicial office.
 - (a) Master of the Rolls;
 - (b) President of the Queen's Bench Division;
 - (c) President of the Family Division;
-- (d) President of the Business and Property Division[^key-fcd48a2d28da541f430a066c7c92e737];
+- (d) President of the Business and Property Division[^c-fcd48a2d28da541f430a066c7c92e737];
 - (da)[^c19677561] Senior President of Tribunals;
-- (db)[^key-9154bc9eedeb85ec50caf38b4eb3c094] President of Welsh Tribunals;
+- (db)[^c-9154bc9eedeb85ec50caf38b4eb3c094] President of Welsh Tribunals;
 - (e) Lord Justice of Appeal;
 - (f) puisne judge of the High Court.
 
@@ -57,8 +57,8 @@ and “**judicial office holder**” means the holder of a judicial office.
 
 ## Annotations
 
-[^key-fcd48a2d28da541f430a066c7c92e737]: Textual amendment: Words in [s. 109(5)(d)](https://www.legislation.gov.uk/ukpga/2005/4/section/109/5/d) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 23(2)(e)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/23/2/e)
+[^c-fcd48a2d28da541f430a066c7c92e737]: Textual amendment: Words in [s. 109(5)(d)](https://www.legislation.gov.uk/ukpga/2005/4/section/109/5/d) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 23(2)(e)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/23/2/e)
 
 [^c19677561]: Textual amendment: S. 109(5)(da) inserted (19.9.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 48(1)](https://www.legislation.gov.uk/ukpga/2007/15/section/48/1), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 8 para. 63](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/63); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/c)
 
-[^key-9154bc9eedeb85ec50caf38b4eb3c094]: Textual amendment: S. 109(5)(db) inserted (coming into force in accordance with reg. 2(1) of the commencing S.I.) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 62](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/62) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2/2)
+[^c-9154bc9eedeb85ec50caf38b4eb3c094]: Textual amendment: S. 109(5)(db) inserted (coming into force in accordance with reg. 2(1) of the commencing S.I.) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 62](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/62) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Duty to decommission and clean up installations and sites[^key-30ca05571bfad940c1c3dd1cd7bf4696]
+## 15. Duty to decommission and clean up installations and sites[^c-30ca05571bfad940c1c3dd1cd7bf4696]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30ca05571bfad940c1c3dd1cd7bf4696]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2004/20/section/15) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-30ca05571bfad940c1c3dd1cd7bf4696]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2004/20/section/15) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Rural Development (Enforcement) (England) (Amendment) Regulations 2010 (revoked)[^key-50bf2565b4d81d5d626c78d7f4fdd912]
+The Rural Development (Enforcement) (England) (Amendment) Regulations 2010 (revoked)[^c-50bf2565b4d81d5d626c78d7f4fdd912]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 13th September 2010
 
-[^key-50bf2565b4d81d5d626c78d7f4fdd912]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50bf2565b4d81d5d626c78d7f4fdd912]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-50bf2565b4d81d5d626c78d7f4fdd912]
+## 1. Title, commencement and application[^c-50bf2565b4d81d5d626c78d7f4fdd912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Rural Development (Enforcement) (England) Regulations 2007[^key-50bf2565b4d81d5d626c78d7f4fdd912]
+## 2. Amendment of the Rural Development (Enforcement) (England) Regulations 2007[^c-50bf2565b4d81d5d626c78d7f4fdd912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-50bf2565b4d81d5d626c78d7f4fdd912]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50bf2565b4d81d5d626c78d7f4fdd912]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-50bf2565b4d81d5d626c78d7f4fdd912]EXPLANATORY NOTE
+[^c-50bf2565b4d81d5d626c78d7f4fdd912]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -78,4 +78,4 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-50bf2565b4d81d5d626c78d7f4fdd912]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1, [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))
+[^c-50bf2565b4d81d5d626c78d7f4fdd912]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1, [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))

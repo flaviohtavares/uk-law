@@ -24,13 +24,13 @@ Section 99
 
 ### PART 1 — Principal amendments to the Planning Act 2008
 
-**1.**[^key-277c10341e83b89186cc6ac6b5b35f16][^key-1ce2c80bbd741a7b2937dfb6f060bbfe] The Planning Act 2008 is amended as follows.
+**1.**[^c-277c10341e83b89186cc6ac6b5b35f16][^c-1ce2c80bbd741a7b2937dfb6f060bbfe] The Planning Act 2008 is amended as follows.
 
-**2.**[^key-cbf46ae463dc789b6e7ea54fd0240350][^key-8f7df649c8a807fc14b5571070699016] In section 103 (Secretary of State is to decide applications), after subsection (1) insert—
+**2.**[^c-cbf46ae463dc789b6e7ea54fd0240350][^c-8f7df649c8a807fc14b5571070699016] In section 103 (Secretary of State is to decide applications), after subsection (1) insert—
 
 > (1A) Schedule 2A makes provision about biodiversity gain in relation to decisions of the Secretary of State under sections 104 and 105; and for related matters.
 
-**3.**[^key-36e3d27ea0cdca96cbfc989c106a0a04][^key-9c34ddf1ceccc11abd782bb63de29625] (1) Section 104 (decisions in cases where national policy statement has effect) is amended as follows.
+**3.**[^c-36e3d27ea0cdca96cbfc989c106a0a04][^c-9c34ddf1ceccc11abd782bb63de29625] (1) Section 104 (decisions in cases where national policy statement has effect) is amended as follows.
 
 (2) For subsection (3) substitute—
 
@@ -44,13 +44,13 @@ Section 99
 
 (4) In subsection (8), for “a national policy statement” substitute “subsection (3) or (3A)”.
 
-**4.**[^key-1d8e60eb99c62dee1d3829dd7f81e694][^key-ca6c7d8aee63c25084c93dab3fd15dda] (1) Section 105 (decisions in cases where no national policy statement has effect), after subsection (2) insert—
+**4.**[^c-1d8e60eb99c62dee1d3829dd7f81e694][^c-ca6c7d8aee63c25084c93dab3fd15dda] (1) Section 105 (decisions in cases where no national policy statement has effect), after subsection (2) insert—
 
 > (3) Where there is a biodiversity gain statement under Schedule 2A in relation to development of the description to which the application relates, the Secretary of State may not grant the application unless satisfied that the biodiversity gain objective contained in the statement is met in relation to the development to which the application relates.
 >
 > (4) Subsection (3) does not apply to the extent that the Secretary of State is satisfied that deciding the application in accordance with that subsection would have an effect referred to in section 104(4), (5), (6) or (7).
 
-**5.**[^key-f0d4eb8c8bae4b5ee7a0d190d1be6bc8][^key-bf63e7c00b2c078a2bd26ecbcc8a26e7] After Schedule 2 insert—
+**5.**[^c-f0d4eb8c8bae4b5ee7a0d190d1be6bc8][^c-bf63e7c00b2c078a2bd26ecbcc8a26e7] After Schedule 2 insert—
 
 > **SCHEDULE 2A — Biodiversity gain**
 >
@@ -230,19 +230,19 @@ Section 99
 
 ### PART 2 — Supplementary amendments to the Planning Act 2008
 
-**6.**[^key-a2af5b694037bc0ba65a3356fdbc3fd6][^key-47015c5a02ef357664a1782015b26279] The Planning Act 2008 is amended as follows.
+**6.**[^c-a2af5b694037bc0ba65a3356fdbc3fd6][^c-47015c5a02ef357664a1782015b26279] The Planning Act 2008 is amended as follows.
 
-**7.**[^key-13ffbf7fcf2334a679c9cc9732fc397a][^key-efa687cf1108f7993adec813655abad2] In section 37 (applications for orders for development consent), after subsection (3) insert—
+**7.**[^c-13ffbf7fcf2334a679c9cc9732fc397a][^c-efa687cf1108f7993adec813655abad2] In section 37 (applications for orders for development consent), after subsection (3) insert—
 
 > (3A) The documents and information prescribed under subsection (3)(d) may include documents and information demonstrating how any biodiversity gain objective in a biodiversity gain statement under Schedule 2A having effect in relation to the development is to be met.
 
-**8.**[^key-7f57637ad76126b846ba3a1231358f58][^key-5beb118eabbd21a2cd8580407f812b9f] In section 120 (what may be included in development consent order), in subsection (2), at the end insert—
+**8.**[^c-7f57637ad76126b846ba3a1231358f58][^c-5beb118eabbd21a2cd8580407f812b9f] In section 120 (what may be included in development consent order), in subsection (2), at the end insert—
 
 > - (c) requirements designed to secure that—
 >   - (i) the biodiversity gain objective under Schedule 2A relevant to the development is met;
 >   - (ii) any proposals included in the application for the order for the purposes of meeting the biodiversity gain objective are implemented.
 
-**9.**[^key-1d45c5fb2b7894af6a38810f374aca59][^key-3e545db9e75d9a5663358ec040c0e18f] (1) Section 232 (orders and regulations) is amended as follows.
+**9.**[^c-1d45c5fb2b7894af6a38810f374aca59][^c-3e545db9e75d9a5663358ec040c0e18f] (1) Section 232 (orders and regulations) is amended as follows.
 
 (2) In subsection (5), at the end insert—
 
@@ -252,38 +252,38 @@ Section 99
 
 ## Annotations
 
-[^key-277c10341e83b89186cc6ac6b5b35f16]: Commencement: Sch. 15 para. 1 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-277c10341e83b89186cc6ac6b5b35f16]: Commencement: Sch. 15 para. 1 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-1ce2c80bbd741a7b2937dfb6f060bbfe]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/1) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
+[^c-1ce2c80bbd741a7b2937dfb6f060bbfe]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/1) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
 
-[^key-cbf46ae463dc789b6e7ea54fd0240350]: Commencement: Sch. 15 para. 2 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-cbf46ae463dc789b6e7ea54fd0240350]: Commencement: Sch. 15 para. 2 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-8f7df649c8a807fc14b5571070699016]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/2) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
+[^c-8f7df649c8a807fc14b5571070699016]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/2) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
 
-[^key-36e3d27ea0cdca96cbfc989c106a0a04]: Commencement: Sch. 15 para. 3 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-36e3d27ea0cdca96cbfc989c106a0a04]: Commencement: Sch. 15 para. 3 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-9c34ddf1ceccc11abd782bb63de29625]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/3) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
+[^c-9c34ddf1ceccc11abd782bb63de29625]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/3) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
 
-[^key-1d8e60eb99c62dee1d3829dd7f81e694]: Commencement: Sch. 15 para. 4 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-1d8e60eb99c62dee1d3829dd7f81e694]: Commencement: Sch. 15 para. 4 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-ca6c7d8aee63c25084c93dab3fd15dda]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/4) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
+[^c-ca6c7d8aee63c25084c93dab3fd15dda]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/4) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
 
-[^key-f0d4eb8c8bae4b5ee7a0d190d1be6bc8]: Commencement: Sch. 15 para. 5 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-f0d4eb8c8bae4b5ee7a0d190d1be6bc8]: Commencement: Sch. 15 para. 5 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-bf63e7c00b2c078a2bd26ecbcc8a26e7]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/5) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
+[^c-bf63e7c00b2c078a2bd26ecbcc8a26e7]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/5) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
 
-[^key-a2af5b694037bc0ba65a3356fdbc3fd6]: Commencement: Sch. 15 para. 6 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-a2af5b694037bc0ba65a3356fdbc3fd6]: Commencement: Sch. 15 para. 6 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-47015c5a02ef357664a1782015b26279]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/6) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
+[^c-47015c5a02ef357664a1782015b26279]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/6) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
 
-[^key-13ffbf7fcf2334a679c9cc9732fc397a]: Commencement: Sch. 15 para. 7 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-13ffbf7fcf2334a679c9cc9732fc397a]: Commencement: Sch. 15 para. 7 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-efa687cf1108f7993adec813655abad2]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/7) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
+[^c-efa687cf1108f7993adec813655abad2]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/7) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
 
-[^key-7f57637ad76126b846ba3a1231358f58]: Commencement: Sch. 15 para. 8 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-7f57637ad76126b846ba3a1231358f58]: Commencement: Sch. 15 para. 8 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-5beb118eabbd21a2cd8580407f812b9f]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/8) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
+[^c-5beb118eabbd21a2cd8580407f812b9f]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/8) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
 
-[^key-1d45c5fb2b7894af6a38810f374aca59]: Commencement: Sch. 15 para. 9 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-1d45c5fb2b7894af6a38810f374aca59]: Commencement: Sch. 15 para. 9 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-3e545db9e75d9a5663358ec040c0e18f]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/9) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)
+[^c-3e545db9e75d9a5663358ec040c0e18f]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2021/30/schedule/15/paragraph/9) in force at 7.5.2026 by [S.I. 2026/492](https://www.legislation.gov.uk/uksi/2026/492), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/492/regulation/2/b)

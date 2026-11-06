@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Shared ownership transactions.[^key-937a32f490a6a3480936c5283cdc144c][^c10382761]
+## 97. Shared ownership transactions.[^c-937a32f490a6a3480936c5283cdc144c][^c10382761]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-937a32f490a6a3480936c5283cdc144c]: Textual amendment: [S. 97](https://www.legislation.gov.uk/ukpga/1980/48/section/97) repealed (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/3/1/a) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-937a32f490a6a3480936c5283cdc144c]: Textual amendment: [S. 97](https://www.legislation.gov.uk/ukpga/1980/48/section/97) repealed (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/3/1/a) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
 [^c10382761]: Modification: S. 97 extended by [Finance Act 1987 (c. 16, SIF 114)](https://www.legislation.gov.uk/ukpga/1987/16), [s. 54(2)–(4)](https://www.legislation.gov.uk/ukpga/1987/16/section/54/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 365. Annex 13 to Commission Implementing Regulation (EU) 2017/373[^key-22b8b9ed9a7ffcf3e1fa259658c84daf]
+## 365. Annex 13 to Commission Implementing Regulation (EU) 2017/373[^c-22b8b9ed9a7ffcf3e1fa259658c84daf]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22b8b9ed9a7ffcf3e1fa259658c84daf]: Textual amendment: Reg. 365 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/694)](https://www.legislation.gov.uk/uksi/2020/694), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/694/regulation/1/3), [55(11)](https://www.legislation.gov.uk/uksi/2020/694/regulation/55/11)
+[^c-22b8b9ed9a7ffcf3e1fa259658c84daf]: Textual amendment: Reg. 365 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/694)](https://www.legislation.gov.uk/uksi/2020/694), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/694/regulation/1/3), [55(11)](https://www.legislation.gov.uk/uksi/2020/694/regulation/55/11)

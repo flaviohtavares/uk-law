@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Availability for signing the petition[^key-19182bfc3d2eaae1186c451bdf8aa2c9]
+## 15. Availability for signing the petition[^c-19182bfc3d2eaae1186c451bdf8aa2c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-19182bfc3d2eaae1186c451bdf8aa2c9]: Commencement: Reg. 15 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-19182bfc3d2eaae1186c451bdf8aa2c9]: Commencement: Reg. 15 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
 [^f00016]: Footnote: See section 22(1) of the Act for the definition of working day.

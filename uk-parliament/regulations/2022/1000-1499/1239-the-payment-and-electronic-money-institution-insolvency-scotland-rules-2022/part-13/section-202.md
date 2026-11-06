@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 202. Introduction[^key-a78221cb3fcc44df56f0eb9c3b67eff0]
+## 202. Introduction[^c-a78221cb3fcc44df56f0eb9c3b67eff0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any definition given in this Part applies except and in so far as the context ot
 
 ## Annotations
 
-[^key-a78221cb3fcc44df56f0eb9c3b67eff0]: Commencement: Rule 202 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-a78221cb3fcc44df56f0eb9c3b67eff0]: Commencement: Rule 202 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

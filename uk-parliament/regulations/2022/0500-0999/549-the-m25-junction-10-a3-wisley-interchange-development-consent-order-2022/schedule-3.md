@@ -22,7 +22,7 @@ summary: ''
 
 Articles 13 and 17
 
-### PART 1 — SPECIAL ROADS[^key-3075cdbf27bf996a0bf3e85474b7672a]
+### PART 1 — SPECIAL ROADS[^c-3075cdbf27bf996a0bf3e85474b7672a]
 
 | *(1)*<br>*Highway* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -37,7 +37,7 @@ Articles 13 and 17
 | A3 southbound to M25 eastbound dedicated free-flow slip lane at M25 junction 10 | New slip lane, as shown between point 5/18 on Sheet 5 and point 13/1 on Sheet 13 of the streets, rights of way and access plans, comprising 210 metres. |
 | M25 westbound to A3 southbound dedicated free-flow slip lane at M25 junction 10 | New slip lane, as shown between point 13/2 on Sheet 13 and point 5/4 on Sheet 5 of the streets, rights of way and access plans, comprising 250 metres. |
 
-### PART 2 — TRUNK ROADS[^key-4f7a34c2b5e67e4dd11f38043ca23107]
+### PART 2 — TRUNK ROADS[^c-4f7a34c2b5e67e4dd11f38043ca23107]
 
 | *(1)*<br>*Highway* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -55,7 +55,7 @@ Articles 13 and 17
 | A3 southbound on-slip at M25 junction 10 | Altered slip road, as shown between point 5/5 on Sheet 5 and point 4/1 on Sheet 4 of the streets, rights of way and access plans, comprising 870 metres. |
 | A3 southbound off-slip at the A3 Ockham Park junction | Improved slip road, as shown between point 2/1 on Sheet 2 and point 1/22 on Sheet 1 of the streets, rights of way and access plans, comprising 380 metres. |
 
-### PART 3 — CLASSIFIED ROADS[^key-1cc85e3b5e19ac83f8c9f3b1a04ee056]
+### PART 3 — CLASSIFIED ROADS[^c-1cc85e3b5e19ac83f8c9f3b1a04ee056]
 
 <table>
 <thead>
@@ -80,7 +80,7 @@ Articles 13 and 17
 </tbody>
 </table>
 
-### PART 4 — UNCLASSIFIED ROADS[^key-ecdb682997e1982763c78464d5a1866a]
+### PART 4 — UNCLASSIFIED ROADS[^c-ecdb682997e1982763c78464d5a1866a]
 
 | *(1)*<br>*Highway* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -91,7 +91,7 @@ Articles 13 and 17
 | Elm Lane | Improved unclassified road, as shown between point 23/1 on Sheet 23 and point 24/1 on Sheet 24 of the streets, rights of way and access plans, comprising 240 metres. |
 | Byway Open to All Traffic – Byway 525 (Elm Lane) | Improved Byway Open to All Traffic, as shown between points 24/1 and 24/2 on Sheet 24 of the streets, rights of way and access plans, comprising 565 metres. |
 
-### PART 5 — SPEED LIMITS[^key-1818be045b044094ab92f097a5932445]
+### PART 5 — SPEED LIMITS[^c-1818be045b044094ab92f097a5932445]
 
 <table>
 <thead>
@@ -156,9 +156,9 @@ Articles 13 and 17
 </tbody>
 </table>
 
-[^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352][^key-3517902c7393fb408b54640d510e39e8][^key-3a6fa18863b5f9545735b7030c5503c4][^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352][^key-e0667eca2dcb1be01cec3b02ff536352]
+[^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352][^c-3517902c7393fb408b54640d510e39e8][^c-3a6fa18863b5f9545735b7030c5503c4][^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352][^c-e0667eca2dcb1be01cec3b02ff536352]
 
-### PART 6 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^key-bb7ed4dc906336c7118110d9c481b65f]
+### PART 6 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^c-bb7ed4dc906336c7118110d9c481b65f]
 
 <table>
 <thead>
@@ -180,7 +180,7 @@ Articles 13 and 17
 </tbody>
 </table>
 
-### PART 7 — REVOCATIONS AND VARIATIONS OF EXISTING TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^key-96ab1ed7025b0882f582652c5426f05c]
+### PART 7 — REVOCATIONS AND VARIATIONS OF EXISTING TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^c-96ab1ed7025b0882f582652c5426f05c]
 
 | *(1)*<br>*Road name and number* | *(2)*<br>*Title of order* | *(3)*<br>*Revocations or Variations* |
 | --- | --- | --- |
@@ -190,7 +190,7 @@ Articles 13 and 17
 | Wisley Road | The Surrey County Council, Various Roads in the Parished Areas Within The Borough of Guildford (Consolidation of Waiting Restrictions and Street Parking Places) Order 2004 | Order to be revoked between the junction of Wisley Lane and the northbound A3, and the tie-in with the Wisley Lane diversion, as shown between points 2/2 and 2/3 on Sheet 2 of the speed limits and traffic regulations plans. |
 | Elm Lane | The Surrey County Council, Various Roads in the Parished Areas Within The Borough of Guildford (Consolidation of Waiting Restrictions and Street Parking Places) Order 2004 | Order to be revoked between the junction of Elm Lane and the southbound A3, and the point just west of Orchard Cottage access, between points 2/5 and 2/6 and inclusive of point 2/7 on Sheet 2 of the speed limits and traffic regulations plans. |
 
-### PART 8 — OTHER PUBLIC RIGHTS OF WAY[^key-c8b56ec3261178408006a0855da89023]
+### PART 8 — OTHER PUBLIC RIGHTS OF WAY[^c-c8b56ec3261178408006a0855da89023]
 
 | *(1)*<br>*Public right of way* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -233,28 +233,28 @@ Articles 13 and 17
 
 ## Annotations
 
-[^key-3075cdbf27bf996a0bf3e85474b7672a]: Commencement: Sch. 3 Pt. 1 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-3075cdbf27bf996a0bf3e85474b7672a]: Commencement: Sch. 3 Pt. 1 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-4f7a34c2b5e67e4dd11f38043ca23107]: Commencement: Sch. 3 Pt. 2 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-4f7a34c2b5e67e4dd11f38043ca23107]: Commencement: Sch. 3 Pt. 2 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-1cc85e3b5e19ac83f8c9f3b1a04ee056]: Commencement: Sch. 3 Pt. 3 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-1cc85e3b5e19ac83f8c9f3b1a04ee056]: Commencement: Sch. 3 Pt. 3 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-ecdb682997e1982763c78464d5a1866a]: Commencement: Sch. 3 Pt. 4 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-ecdb682997e1982763c78464d5a1866a]: Commencement: Sch. 3 Pt. 4 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-1818be045b044094ab92f097a5932445]: Commencement: Sch. 3 Pt. 5 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-1818be045b044094ab92f097a5932445]: Commencement: Sch. 3 Pt. 5 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-e0667eca2dcb1be01cec3b02ff536352]: Textual amendment: Words in [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/2022/549/schedule/3/part/5) table omitted (17.7.2026) by virtue of [The M25 Junction 10/A3 Wisley Interchange Development Consent (Amendment) Order 2026 (S.I. 2026/842)](https://www.legislation.gov.uk/uksi/2026/842), [arts. 1](https://www.legislation.gov.uk/uksi/2026/842/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/842/article/2/2) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1057)
+[^c-e0667eca2dcb1be01cec3b02ff536352]: Textual amendment: Words in [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/2022/549/schedule/3/part/5) table omitted (17.7.2026) by virtue of [The M25 Junction 10/A3 Wisley Interchange Development Consent (Amendment) Order 2026 (S.I. 2026/842)](https://www.legislation.gov.uk/uksi/2026/842), [arts. 1](https://www.legislation.gov.uk/uksi/2026/842/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/842/article/2/2) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1057)
 
-[^key-3517902c7393fb408b54640d510e39e8]: Textual amendment: Word in [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/2022/549/schedule/3/part/5) table substituted (17.7.2026) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Amendment) Order 2026 (S.I. 2026/842)](https://www.legislation.gov.uk/uksi/2026/842), [arts. 1](https://www.legislation.gov.uk/uksi/2026/842/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/842/article/2/3/a) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1057)
+[^c-3517902c7393fb408b54640d510e39e8]: Textual amendment: Word in [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/2022/549/schedule/3/part/5) table substituted (17.7.2026) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Amendment) Order 2026 (S.I. 2026/842)](https://www.legislation.gov.uk/uksi/2026/842), [arts. 1](https://www.legislation.gov.uk/uksi/2026/842/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/842/article/2/3/a) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1057)
 
-[^key-3a6fa18863b5f9545735b7030c5503c4]: Textual amendment: Word in [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/2022/549/schedule/3/part/5) table substituted (17.7.2026) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Amendment) Order 2026 (S.I. 2026/842)](https://www.legislation.gov.uk/uksi/2026/842), [arts. 1](https://www.legislation.gov.uk/uksi/2026/842/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/842/article/2/3/b) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1057)
+[^c-3a6fa18863b5f9545735b7030c5503c4]: Textual amendment: Word in [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/2022/549/schedule/3/part/5) table substituted (17.7.2026) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Amendment) Order 2026 (S.I. 2026/842)](https://www.legislation.gov.uk/uksi/2026/842), [arts. 1](https://www.legislation.gov.uk/uksi/2026/842/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/842/article/2/3/b) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1057)
 
-[^key-bb7ed4dc906336c7118110d9c481b65f]: Commencement: Sch. 3 Pt. 6 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-bb7ed4dc906336c7118110d9c481b65f]: Commencement: Sch. 3 Pt. 6 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-96ab1ed7025b0882f582652c5426f05c]: Commencement: Sch. 3 Pt. 7 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-96ab1ed7025b0882f582652c5426f05c]: Commencement: Sch. 3 Pt. 7 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
 [^f00098]: Footnote: [S.I. 2003/3187](https://www.legislation.gov.uk/uksi/2003/3187).
 
 [^f00099]: Footnote: [S.I. 2004/1674](https://www.legislation.gov.uk/uksi/2004/1674).
 
-[^key-c8b56ec3261178408006a0855da89023]: Commencement: Sch. 3 Pt. 8 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-c8b56ec3261178408006a0855da89023]: Commencement: Sch. 3 Pt. 8 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)

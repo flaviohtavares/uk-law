@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.45.11. Adjustment of incoming protection measure[^key-47f4241d0e20fb75f53bfb61ae0bf88c]
+## 3.45.11. Adjustment of incoming protection measure[^c-47f4241d0e20fb75f53bfb61ae0bf88c]
 
 *Extent: S*
 
@@ -40,19 +40,19 @@ summary: ''
 
 (7) Where the address of the person causing the risk is not known, notice shall be given by displaying on the walls of court a notice in Form 66.
 
-(8) An appeal against an interlocutor adjusting the factual elements of an incoming protection measure shall be made[^key-a10e40b67248fdef6065040ebf769421] within 14 days after the date of the interlocutor concerned.
+(8) An appeal against an interlocutor adjusting the factual elements of an incoming protection measure shall be made[^c-a10e40b67248fdef6065040ebf769421] within 14 days after the date of the interlocutor concerned.
 
 (9) Where—
 
 - (a) the sheriff has dispensed with intimation of the application on the person causing the risk; and
 - (b) the person causing the risk has not appeared in the application,
 
-the time within which the person causing the risk may make[^key-2f35cbd732f87c6168a42372bd6e4ddf] an appeal shall be reckoned from the date on which notice is given in accordance with paragraph (4).
+the time within which the person causing the risk may make[^c-2f35cbd732f87c6168a42372bd6e4ddf] an appeal shall be reckoned from the date on which notice is given in accordance with paragraph (4).
 
 ## Annotations
 
-[^key-47f4241d0e20fb75f53bfb61ae0bf88c]: Textual amendment: [Ch. 3 Pt. 45](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/45) inserted (11.1.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Mutual Recognition of Protection Measures) 2014 (S.S.I. 2014/371)](https://www.legislation.gov.uk/ssi/2014/371), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/4/2)
+[^c-47f4241d0e20fb75f53bfb61ae0bf88c]: Textual amendment: [Ch. 3 Pt. 45](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/45) inserted (11.1.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Mutual Recognition of Protection Measures) 2014 (S.S.I. 2014/371)](https://www.legislation.gov.uk/ssi/2014/371), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/4/2)
 
-[^key-a10e40b67248fdef6065040ebf769421]: Textual amendment: Word in [rule 3.45.11(8)](https://www.legislation.gov.uk/uksi/1999/929/rule/3.45.11/8) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [9(8)(a)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/9/8/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-a10e40b67248fdef6065040ebf769421]: Textual amendment: Word in [rule 3.45.11(8)](https://www.legislation.gov.uk/uksi/1999/929/rule/3.45.11/8) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [9(8)(a)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/9/8/a) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
 
-[^key-2f35cbd732f87c6168a42372bd6e4ddf]: Textual amendment: Word in [rule 3.45.11(9)](https://www.legislation.gov.uk/uksi/1999/929/rule/3.45.11/9) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [9(8)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/9/8/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-2f35cbd732f87c6168a42372bd6e4ddf]: Textual amendment: Word in [rule 3.45.11(9)](https://www.legislation.gov.uk/uksi/1999/929/rule/3.45.11/9) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [9(8)(b)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/9/8/b) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))

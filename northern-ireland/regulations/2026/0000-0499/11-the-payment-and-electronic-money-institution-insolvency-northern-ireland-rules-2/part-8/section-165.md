@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 165. Creditors’ and customers’ request for further information[^key-28e60fb5e4d10e2e824f30379f38d637]
+## 165. Creditors’ and customers’ request for further information[^c-28e60fb5e4d10e2e824f30379f38d637]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ and the court may make such order as it thinks just.
 
 ## Annotations
 
-[^key-28e60fb5e4d10e2e824f30379f38d637]: Commencement: [Rule 165](https://www.legislation.gov.uk/nisr/2026/11/rule/165) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-28e60fb5e4d10e2e824f30379f38d637]: Commencement: [Rule 165](https://www.legislation.gov.uk/nisr/2026/11/rule/165) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

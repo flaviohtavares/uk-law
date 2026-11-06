@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Privileges of witnesses and others[^key-94ff523a90670f9de42e8511c923030e][^key-466cd50fc3cf19eb6b1618bd81288b57]
+## 162. Privileges of witnesses and others[^c-94ff523a90670f9de42e8511c923030e][^c-466cd50fc3cf19eb6b1618bd81288b57]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ A witness before the Court Martial or any other person whose duty it is to atten
 
 ## Annotations
 
-[^key-94ff523a90670f9de42e8511c923030e]: Commencement: S. 162 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-94ff523a90670f9de42e8511c923030e]: Commencement: S. 162 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-466cd50fc3cf19eb6b1618bd81288b57]: Commencement: S. 162 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-466cd50fc3cf19eb6b1618bd81288b57]: Commencement: S. 162 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

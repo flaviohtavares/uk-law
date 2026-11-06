@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Private rights[^key-ee00c22832df7ed6237e1a94e9aba4e8]
+## 21. Private rights[^c-ee00c22832df7ed6237e1a94e9aba4e8]
 
 *Extent: E+W+S*
 
@@ -69,7 +69,7 @@ any right so acquired by the undertaker referred to in sub-paragraph (a) does no
 
 ## Annotations
 
-[^key-ee00c22832df7ed6237e1a94e9aba4e8]: Commencement: Art. 21 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-ee00c22832df7ed6237e1a94e9aba4e8]: Commencement: Art. 21 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
 [^f00036]: Footnote: Section 11(1) was amended by paragraph 14 of Schedule 4 to the Acquisition of Land Act 1981 and paragraph 12 of Schedule 5 to the Church of England (Miscellaneous Provisions) Measure 2006 ([2006 No. 1](https://www.legislation.gov.uk/ukcm/2006/1)).
 

@@ -95,7 +95,7 @@ summary: ''
 - “**STIG**” means the Silvertown Tunnel Implementation Group, the consultative body established by article 66 (Silvertown Tunnel Implementation Group);
 - “**street**” means a street within the meaning of section 48 [^c22957091] (streets, street works and undertakers) of the 1991 Act, together with land on the verge of a street or between two carriageways, and includes part of a street;
 - “**street authority**”, in relation to a street, has the same meaning as in Part 3 of the 1991 Act;
-- “**TfL**” means Transport for London, the body corporate established under section 154 of the 1999 Act, of 55 Broadway, London, SW1H 0BL[^key-f00386d08c04b8b37bff51c8be3e0a83];
+- “**TfL**” means Transport for London, the body corporate established under section 154 of the 1999 Act, of 55 Broadway, London, SW1H 0BL[^c-f00386d08c04b8b37bff51c8be3e0a83];
 - “**traffic authority**” has the same meaning as in section 121A [^c22957101] of the 1984 Act;
 - “**the traffic regulation measures (speed limits and restricted roads) plans**” means the plans of that description set out in Schedule 14 certified by the Secretary of State as the traffic regulation measures (speed limits and restricted roads) plans for the purposes of this Order;
 - “**the traffic regulation measures (clearways and prohibitions) plans**” means the plans of that description set out in Schedule 14 certified by the Secretary of State as the traffic regulation measures (clearways and prohibitions) plans for the purposes of this Order;
@@ -167,7 +167,7 @@ summary: ''
 
 [^c22957091]: Marginal citation: There are amendments to section 48 which are not relevant to this Order.
 
-[^key-f00386d08c04b8b37bff51c8be3e0a83]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2018/574/article/2/1) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/413/article/2/2)
+[^c-f00386d08c04b8b37bff51c8be3e0a83]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2018/574/article/2/1) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/413/article/2/2)
 
 [^c22957101]: Marginal citation: As inserted by paragraph 70 of Schedule 8 to the 1991 Act, and subsequently amended by section 271 of the 1999 Act; paragraphs 70 and 95 of Schedule 1 to the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7); [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) and [S.I. 2001/1400](https://www.legislation.gov.uk/uksi/2001/1400).
 

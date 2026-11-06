@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20.4. Clerk of the court[^key-5b74803a6ec2b6184ba930d50db47319]
+## 20.4. Clerk of the court[^c-5b74803a6ec2b6184ba930d50db47319]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ the court must appoint another suitably qualified person to sit as clerk in plac
 
 ## Annotations
 
-[^key-5b74803a6ec2b6184ba930d50db47319]: Commencement: [Rule 20.4](https://www.legislation.gov.uk/uksi/2015/1568/article/20.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-5b74803a6ec2b6184ba930d50db47319]: Commencement: [Rule 20.4](https://www.legislation.gov.uk/uksi/2015/1568/article/20.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

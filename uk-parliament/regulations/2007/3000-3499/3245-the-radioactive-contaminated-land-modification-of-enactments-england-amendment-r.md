@@ -147,8 +147,8 @@ In these Regulations “**the 2006 Regulations**” means the Radioactive Contam
 >   > “**licensee**”, “**relevant foreign law**” and “**relevant foreign operator**” have the meanings given by section 26(1) of the 1965 Act;
 >
 >   ;
-> - (d)[^key-5b8895e93629d9bb7673b189fc5ebd4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-> - (...)[^key-0844b07c6305af800889bc34eeabec93]
+> - (d)[^c-5b8895e93629d9bb7673b189fc5ebd4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (...)[^c-0844b07c6305af800889bc34eeabec93]
 >
 >   > and any other word or expression used both in this Part and in Council Directive 96/29/Euratom, laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionizing radiation has the same meaning for the purposes of this Part as it has in that Directive.
 >
@@ -233,7 +233,7 @@ In these Regulations “**the 2006 Regulations**” means the Radioactive Contam
 
 .
 
-(6)[^key-fa8ecc438a6f108478c57952e71b65e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-fa8ecc438a6f108478c57952e71b65e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) After regulation 18, insert—
 
@@ -273,8 +273,8 @@ A full regulatory impact assessment was produced in relation to the 2006 Regulat
 
 [^c18989971]: Marginal citation: [S.I. 2006/1379](https://www.legislation.gov.uk/uksi/2006/1379).
 
-[^key-5b8895e93629d9bb7673b189fc5ebd4f]: Textual amendment: Words in reg. 3(2) omitted (23.8.2010) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2010 (S.I. 2010/2147)](https://www.legislation.gov.uk/uksi/2010/2147), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2010/2147/regulation/4/2)[reg. 4(2)](https://www.legislation.gov.uk/uksi/2010/2147/regulation/4/2)
+[^c-5b8895e93629d9bb7673b189fc5ebd4f]: Textual amendment: Words in reg. 3(2) omitted (23.8.2010) by virtue of [The Radioactive Contaminated Land (Enabling Powers and Modification of Enactments) (England) (Amendment) Regulations 2010 (S.I. 2010/2147)](https://www.legislation.gov.uk/uksi/2010/2147), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2010/2147/regulation/4/2)[reg. 4(2)](https://www.legislation.gov.uk/uksi/2010/2147/regulation/4/2)
 
-[^key-0844b07c6305af800889bc34eeabec93]: Textual amendment: Words in reg. 3(2) omitted (6.4.2008) by virtue of [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2008 (S.I. 2008/520)](https://www.legislation.gov.uk/uksi/2008/520), [regs. 1](https://www.legislation.gov.uk/uksi/2008/520/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/520/regulation/3/a)
+[^c-0844b07c6305af800889bc34eeabec93]: Textual amendment: Words in reg. 3(2) omitted (6.4.2008) by virtue of [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2008 (S.I. 2008/520)](https://www.legislation.gov.uk/uksi/2008/520), [regs. 1](https://www.legislation.gov.uk/uksi/2008/520/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/520/regulation/3/a)
 
-[^key-fa8ecc438a6f108478c57952e71b65e1]: Textual amendment: Reg. 3(6) omitted (6.4.2008) by virtue of [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2008 (S.I. 2008/520)](https://www.legislation.gov.uk/uksi/2008/520), [regs. 1](https://www.legislation.gov.uk/uksi/2008/520/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/520/regulation/3/b)
+[^c-fa8ecc438a6f108478c57952e71b65e1]: Textual amendment: Reg. 3(6) omitted (6.4.2008) by virtue of [The Radioactive Contaminated Land (Modification of Enactments) (England) (Amendment) Regulations 2008 (S.I. 2008/520)](https://www.legislation.gov.uk/uksi/2008/520), [regs. 1](https://www.legislation.gov.uk/uksi/2008/520/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/520/regulation/3/b)

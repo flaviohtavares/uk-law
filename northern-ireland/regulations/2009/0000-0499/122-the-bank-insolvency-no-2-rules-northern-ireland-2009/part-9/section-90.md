@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Meeting of creditors to remove bank liquidator[^key-a825281542a096e2b7890ee1a84c6ad7]
+## 90. Meeting of creditors to remove bank liquidator[^c-a825281542a096e2b7890ee1a84c6ad7]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a825281542a096e2b7890ee1a84c6ad7]: Commencement: Rule 90 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-a825281542a096e2b7890ee1a84c6ad7]: Commencement: Rule 90 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

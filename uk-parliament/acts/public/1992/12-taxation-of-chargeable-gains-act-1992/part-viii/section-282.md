@@ -28,7 +28,7 @@ summary: ''
 
 (4) In this section references to a gift include references to any transaction otherwise than by way of a bargain made at arm’s length so far as money or money’s worth passes under the transaction without full consideration in money or money’s worth, and “**donor**” and “**donee**” shall be construed accordingly; and this section shall apply in relation to a gift made by 2 or more donors with the necessary modifications and subject to any necessary apportionments.
 
-(5)[^key-39deaebf507fb3e4efac385edda8b467] This section applies in relation to a chargeable gain accruing to a transferor under section 169C(7) (clawback of relief under section 165 or 260 if settlement becomes settlor-interested etc) as it applies in relation to a chargeable gain accruing to a person on the disposal of an asset by way of gift.
+(5)[^c-39deaebf507fb3e4efac385edda8b467] This section applies in relation to a chargeable gain accruing to a transferor under section 169C(7) (clawback of relief under section 165 or 260 if settlement becomes settlor-interested etc) as it applies in relation to a chargeable gain accruing to a person on the disposal of an asset by way of gift.
 
 (6) For the purposes of this section as applied by subsection (5) above—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39deaebf507fb3e4efac385edda8b467]: Textual amendment: S. 282(5)(6) inserted (with effect in accordance with Sch. 21 para. 10(4) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 21 para. 7(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/7/2)
+[^c-39deaebf507fb3e4efac385edda8b467]: Textual amendment: S. 282(5)(6) inserted (with effect in accordance with Sch. 21 para. 10(4) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 21 para. 7(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/7/2)

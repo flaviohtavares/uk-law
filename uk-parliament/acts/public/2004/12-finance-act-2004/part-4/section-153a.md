@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153A. Power to require information or documents in relation to applications for registration[^key-5ab7d220b10067e1c506f9a39c19649a]
+## 153A. Power to require information or documents in relation to applications for registration[^c-5ab7d220b10067e1c506f9a39c19649a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ if the officer reasonably requires the information or document in connection wit
 
 ## Annotations
 
-[^key-5ab7d220b10067e1c506f9a39c19649a]: Textual amendment: Ss. 153A-153F inserted (with effect in accordance with Sch. 7 para. 5(1) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 7 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/3), [5(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/5/1)
+[^c-5ab7d220b10067e1c506f9a39c19649a]: Textual amendment: Ss. 153A-153F inserted (with effect in accordance with Sch. 7 para. 5(1) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 7 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/3), [5(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/5/1)

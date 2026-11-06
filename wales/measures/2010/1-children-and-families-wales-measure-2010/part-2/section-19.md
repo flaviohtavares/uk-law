@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Meaning of “child minding” and “day care for children”[^key-87edb0879ffde9539a5497864fd09de0]
+## 19. Meaning of “child minding” and “day care for children”[^c-87edb0879ffde9539a5497864fd09de0]
 
 *Extent: E+W*
 
 (1) This section applies for the purposes of this Part.
 
-(2) A person acts as a child minder if the person looks after one or more children under the age of twelve[^key-7c91c1da194541df122e6df5f1c016bb] on domestic premises for reward; and “child minding” is to be interpreted accordingly.
+(2) A person acts as a child minder if the person looks after one or more children under the age of twelve[^c-7c91c1da194541df122e6df5f1c016bb] on domestic premises for reward; and “child minding” is to be interpreted accordingly.
 
-(3) A person provides day care for children if the person provides care at any time for children under the age of twelve[^key-fb01542225e66854bc16907a08d3e431] on premises other than domestic premises; and “day care for children” and “day care” are to be interpreted accordingly.
+(3) A person provides day care for children if the person provides care at any time for children under the age of twelve[^c-fb01542225e66854bc16907a08d3e431] on premises other than domestic premises; and “day care for children” and “day care” are to be interpreted accordingly.
 
 (4) The Welsh Ministers may by order—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-87edb0879ffde9539a5497864fd09de0]: Commencement: S. 19 in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
+[^c-87edb0879ffde9539a5497864fd09de0]: Commencement: S. 19 in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
 
-[^key-7c91c1da194541df122e6df5f1c016bb]: Textual amendment: Word in [s. 19(2)](https://www.legislation.gov.uk/mwa/2010/1/section/19/2) substituted (1.4.2016) by [The Regulation of Child Minding and Day Care (Wales) Order 2016 (No. 98)](https://www.legislation.gov.uk/wsi/2016/98), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/98/article/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2016/98/article/3/a)
+[^c-7c91c1da194541df122e6df5f1c016bb]: Textual amendment: Word in [s. 19(2)](https://www.legislation.gov.uk/mwa/2010/1/section/19/2) substituted (1.4.2016) by [The Regulation of Child Minding and Day Care (Wales) Order 2016 (No. 98)](https://www.legislation.gov.uk/wsi/2016/98), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/98/article/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2016/98/article/3/a)
 
-[^key-fb01542225e66854bc16907a08d3e431]: Textual amendment: Word in [s. 19(3)](https://www.legislation.gov.uk/mwa/2010/1/section/19/3) substituted (1.4.2016) by [The Regulation of Child Minding and Day Care (Wales) Order 2016 (No. 98)](https://www.legislation.gov.uk/wsi/2016/98), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/98/article/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2016/98/article/3/b)
+[^c-fb01542225e66854bc16907a08d3e431]: Textual amendment: Word in [s. 19(3)](https://www.legislation.gov.uk/mwa/2010/1/section/19/3) substituted (1.4.2016) by [The Regulation of Child Minding and Day Care (Wales) Order 2016 (No. 98)](https://www.legislation.gov.uk/wsi/2016/98), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/98/article/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2016/98/article/3/b)

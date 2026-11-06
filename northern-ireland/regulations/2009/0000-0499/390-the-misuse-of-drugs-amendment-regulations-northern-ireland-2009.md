@@ -43,25 +43,25 @@ The Department of Health, Social Services and Public Safety makes the following 
 
 In accordance with section 31(3) of that Act, it has consulted with the Advisory Council on the Misuse of Drugs.
 
-## 1. Citation and Commencement[^key-f5069726027e2e01359a04443292ead6]
+## 1. Citation and Commencement[^c-f5069726027e2e01359a04443292ead6]
 
 These Regulations may be cited as the Misuse of Drugs (Amendment) Regulations (Northern Ireland) 2009 and shall come into operation on 23rd December 2009.
 
-## 2. Interpretation[^key-d0d9afbd7d95f8b461d9348acc7afe93]
+## 2. Interpretation[^c-d0d9afbd7d95f8b461d9348acc7afe93]
 
 (1) In these Regulations, “the 2002 Regulations” means the Misuse of Drugs Regulations (Northern Ireland) 2002[^f00003]
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Amendments to the 2002 Regulations[^key-33eb7ecf14be07a314de771ac8168c35]
+## 3. Amendments to the 2002 Regulations[^c-33eb7ecf14be07a314de771ac8168c35]
 
 The 2002 Regulations shall be amended as follows.
 
-## 4.[^key-5bbffda1ca6fe8c670d7b52050448bf2]
+## 4.[^c-5bbffda1ca6fe8c670d7b52050448bf2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-3ba41ed7906827a5054255d9be37a523]
+## 5.[^c-3ba41ed7906827a5054255d9be37a523]
 
 (1) In Schedule 1 (which specifies controlled drugs subject to the requirements of regulations 14, 15, 16, 18, 19, 20, 23, 26 and 27)—
 
@@ -169,19 +169,19 @@ Gamma–butyrolactone (GBL) and 1, 4–butanediol (1, 4–BD) are not inserted i
 
 [^f00002]: Footnote: S.R. & O.(N.I) [1973 No 504](https://www.legislation.gov.uk/nisro/1973/504); Article 5(a) and [S.I.1999 No 283(N.I.1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(6)
 
-[^key-f5069726027e2e01359a04443292ead6]: Commencement: Reg. 1 in operation at 23.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/390/regulation/1)
+[^c-f5069726027e2e01359a04443292ead6]: Commencement: Reg. 1 in operation at 23.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/390/regulation/1)
 
-[^key-d0d9afbd7d95f8b461d9348acc7afe93]: Commencement: Reg. 2 in operation at 23.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/390/regulation/1)
+[^c-d0d9afbd7d95f8b461d9348acc7afe93]: Commencement: Reg. 2 in operation at 23.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/390/regulation/1)
 
 [^f00003]: Footnote: [S.R.2002 No 1](https://www.legislation.gov.uk/nisr/2002/1); the relevant amending Regulations are [S.R.2003 No. 314](https://www.legislation.gov.uk/nisr/2003/314),[324](https://www.legislation.gov.uk/nisr/2003/324) and [420](https://www.legislation.gov.uk/nisr/2003/420), [S.R.2005 No. 119](https://www.legislation.gov.uk/nisr/2005/119),[360](https://www.legislation.gov.uk/nisr/2005/360) and [564](https://www.legislation.gov.uk/nisr/2005/564), [S.R.2006 No. 44](https://www.legislation.gov.uk/nisr/2006/44), [214](https://www.legislation.gov.uk/nisr/2006/214), [264](https://www.legislation.gov.uk/nisr/2006/264) and [334](https://www.legislation.gov.uk/nisr/2006/334), and [S.R.2007 No 348](https://www.legislation.gov.uk/nisr/2007/348).
 
 [^f00004]: Footnote: [1954 c.33 (N.I)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-33eb7ecf14be07a314de771ac8168c35]: Commencement: Reg. 3 in operation at 23.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/390/regulation/1)
+[^c-33eb7ecf14be07a314de771ac8168c35]: Commencement: Reg. 3 in operation at 23.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/390/regulation/1)
 
-[^key-5bbffda1ca6fe8c670d7b52050448bf2]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/390/regulation/4) revoked (23.12.2009) by [The Misuse of Drugs (Amendment) (No.2) Regulations (Northern Ireland) 2009 (S.R. 2009/397)](https://www.legislation.gov.uk/nisr/2009/397), [regs. 1](https://www.legislation.gov.uk/nisr/2009/397/regulation/1), [4](https://www.legislation.gov.uk/nisr/2009/397/regulation/4)
+[^c-5bbffda1ca6fe8c670d7b52050448bf2]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/390/regulation/4) revoked (23.12.2009) by [The Misuse of Drugs (Amendment) (No.2) Regulations (Northern Ireland) 2009 (S.R. 2009/397)](https://www.legislation.gov.uk/nisr/2009/397), [regs. 1](https://www.legislation.gov.uk/nisr/2009/397/regulation/1), [4](https://www.legislation.gov.uk/nisr/2009/397/regulation/4)
 
-[^key-3ba41ed7906827a5054255d9be37a523]: Commencement: Reg. 5 in operation at 23.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/390/regulation/1)
+[^c-3ba41ed7906827a5054255d9be37a523]: Commencement: Reg. 5 in operation at 23.12.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/390/regulation/1)
 
 [^f00006]: Footnote: “Fungus (of any kind) which contains psilocin or an ester of psilocin” was inserted into [S.R.2002 No 1](https://www.legislation.gov.uk/nisr/2002/1) by [S.R.2005 No 360](https://www.legislation.gov.uk/nisr/2005/360)
 

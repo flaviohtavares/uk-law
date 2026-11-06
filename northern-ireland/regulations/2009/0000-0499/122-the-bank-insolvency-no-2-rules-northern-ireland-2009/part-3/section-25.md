@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Remuneration[^key-8fe9c11f76be6b6c90084177701dfe5d]
+## 25. Remuneration[^c-8fe9c11f76be6b6c90084177701dfe5d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fe9c11f76be6b6c90084177701dfe5d]: Commencement: Rule 25 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-8fe9c11f76be6b6c90084177701dfe5d]: Commencement: Rule 25 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Civil Service[^key-226d294bf13c69948576fb271d04ec6e]
+## 122. Civil Service[^c-226d294bf13c69948576fb271d04ec6e]
 
 *Extent: N.I.*
 
@@ -97,6 +97,6 @@ summary: ''
 
 ## Annotations
 
-[^key-226d294bf13c69948576fb271d04ec6e]: Commencement: Reg. 122 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-226d294bf13c69948576fb271d04ec6e]: Commencement: Reg. 122 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00205]: Footnote: The Scheme was most recently amended by the Principal Civil Service Pension Scheme (Amendment No.3) Scheme (Northern Ireland) 2014 made on 11th July 2014. The Scheme rules (updated October 2015) are available at: https://www.finance-ni.gov.uk/articles/scheme-rules.

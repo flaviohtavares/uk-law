@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7.7. Notes of argument[^key-46e35ca7900a5cd999264a7064a8a10c]
+## 7.7. Notes of argument[^c-46e35ca7900a5cd999264a7064a8a10c]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46e35ca7900a5cd999264a7064a8a10c]: Commencement: Para. 7.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-46e35ca7900a5cd999264a7064a8a10c]: Commencement: Para. 7.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

@@ -27,9 +27,9 @@ summary: ''
 - (c) managing the flow of air traffic with a view to ensuring the most efficient use of airspace;
 - (d) providing facilities for communicating with aircraft and for the navigation and surveillance of aircraft;
 - (e) notifying organisations of aircraft needing search and rescue facilities, and assisting organisations to provide such facilities.
-- (f)[^key-b53e08d0aea15d30956a2cf6cb9f1bf7] making an airspace change proposal to the CAA, or developing such a proposal with a view to making it to the CAA.
+- (f)[^c-b53e08d0aea15d30956a2cf6cb9f1bf7] making an airspace change proposal to the CAA, or developing such a proposal with a view to making it to the CAA.
 
-(1A)[^key-be45ed9fcb553675e2a20017118aaa7c] In paragraph (1)(f), “**airspace change proposal**” means a proposal—
+(1A)[^c-be45ed9fcb553675e2a20017118aaa7c] In paragraph (1)(f), “**airspace change proposal**” means a proposal—
 
 - (a) to change—
   - (i) airspace structures within the London, Scottish or Shanwick Oceanic flight information regions, or
@@ -42,6 +42,6 @@ summary: ''
 
 [^c14880571]: Commencement: S. 98 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-b53e08d0aea15d30956a2cf6cb9f1bf7]: Textual amendment: S. 98(1)(f) inserted (15.8.2025) by [The Transport Act 2000 (Air Traffic Services) (Amendment) Order 2025 (S.I. 2025/629)](https://www.legislation.gov.uk/uksi/2025/629), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/629/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/629/article/2/2)
+[^c-b53e08d0aea15d30956a2cf6cb9f1bf7]: Textual amendment: S. 98(1)(f) inserted (15.8.2025) by [The Transport Act 2000 (Air Traffic Services) (Amendment) Order 2025 (S.I. 2025/629)](https://www.legislation.gov.uk/uksi/2025/629), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/629/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/629/article/2/2)
 
-[^key-be45ed9fcb553675e2a20017118aaa7c]: Textual amendment: S. 98(1A) inserted (15.8.2025) by [The Transport Act 2000 (Air Traffic Services) (Amendment) Order 2025 (S.I. 2025/629)](https://www.legislation.gov.uk/uksi/2025/629), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/629/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/629/article/2/3)
+[^c-be45ed9fcb553675e2a20017118aaa7c]: Textual amendment: S. 98(1A) inserted (15.8.2025) by [The Transport Act 2000 (Air Traffic Services) (Amendment) Order 2025 (S.I. 2025/629)](https://www.legislation.gov.uk/uksi/2025/629), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/629/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/629/article/2/3)

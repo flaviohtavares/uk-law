@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Application of penalties and disposal of forfeitures.[^key-eed55b50fa4a4b30c887b1928b53278e]
+## 96. Application of penalties and disposal of forfeitures.[^c-eed55b50fa4a4b30c887b1928b53278e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ The court declaring the forfeiture, or the Secretary of State directing the sale
 
 ## Annotations
 
-[^key-eed55b50fa4a4b30c887b1928b53278e]: Modification: [S. 96](https://www.legislation.gov.uk/ukpga/Vict/38-39/17/section/96): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 12 para. 1(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/12/paragraph/1/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-eed55b50fa4a4b30c887b1928b53278e]: Modification: [S. 96](https://www.legislation.gov.uk/ukpga/Vict/38-39/17/section/96): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 12 para. 1(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/12/paragraph/1/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c5689661]: Textual amendment: Words repealed by [S.I. 1974/1885](https://www.legislation.gov.uk/uksi/1974/1885), [Sch. 1](https://www.legislation.gov.uk/uksi/1974/1885/schedule/1)

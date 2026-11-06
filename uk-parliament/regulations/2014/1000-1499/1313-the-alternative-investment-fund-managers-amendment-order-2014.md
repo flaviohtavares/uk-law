@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Alternative Investment Fund Managers (Amendment) Order 2014 (revoked)[^key-79b65a358039ade89c714f35ab810504]
+The Alternative Investment Fund Managers (Amendment) Order 2014 (revoked)[^c-79b65a358039ade89c714f35ab810504]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 31st May 2014
 
-[^key-79b65a358039ade89c714f35ab810504]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79b65a358039ade89c714f35ab810504]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-79b65a358039ade89c714f35ab810504]
+## 1. Citation and commencement[^c-79b65a358039ade89c714f35ab810504]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Investment Fund Managers Order 2014[^key-79b65a358039ade89c714f35ab810504]
+## 2. Amendment of the Investment Fund Managers Order 2014[^c-79b65a358039ade89c714f35ab810504]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-79b65a358039ade89c714f35ab810504]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79b65a358039ade89c714f35ab810504]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-79b65a358039ade89c714f35ab810504]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79b65a358039ade89c714f35ab810504]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-79b65a358039ade89c714f35ab810504]: Textual amendment: Order revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)
+[^c-79b65a358039ade89c714f35ab810504]: Textual amendment: Order revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)

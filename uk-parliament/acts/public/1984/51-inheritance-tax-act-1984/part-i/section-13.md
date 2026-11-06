@@ -27,10 +27,10 @@ summary: ''
 
 (2) Subsection (1) above shall not apply if the trusts permit any of the property to be applied at any time (whether during any such period as is referred to in section 86(1) below or later) for the benefit of—
 
-- (a) a person who is , at the time of the disposition,[^key-0e2b57fa2d458c9230c5a59bec0cbbc3] a participator in the company making the disposition, or
-- (b) any other person who is , at the time of the disposition,[^key-a153c98a4bb62f34cde2cee9fec03123] a participator in any close company that has made a disposition whereby property became comprised in the same settlement, being a disposition which but for this section would have been a transfer of value, or
-- (c) any other person who is[^key-7316f258a1c148ed0e4a3bf4a6b18999] a participator in any such company as is mentioned in paragraph (a) or (b) above at any time after, or during the ten years before, the disposition made by that company, or
-- (d) any person who is , at the time of the disposition or any later time,[^key-d36920aac011c9a1b06c848f2ea71e60] connected with any person within paragraph (a), (b) or (c) above.
+- (a) a person who is , at the time of the disposition,[^c-0e2b57fa2d458c9230c5a59bec0cbbc3] a participator in the company making the disposition, or
+- (b) any other person who is , at the time of the disposition,[^c-a153c98a4bb62f34cde2cee9fec03123] a participator in any close company that has made a disposition whereby property became comprised in the same settlement, being a disposition which but for this section would have been a transfer of value, or
+- (c) any other person who is[^c-7316f258a1c148ed0e4a3bf4a6b18999] a participator in any such company as is mentioned in paragraph (a) or (b) above at any time after, or during the ten years before, the disposition made by that company, or
+- (d) any person who is , at the time of the disposition or any later time,[^c-d36920aac011c9a1b06c848f2ea71e60] connected with any person within paragraph (a), (b) or (c) above.
 
 (3) The participators in a company who are referred to in subsection (2) above do not include any participator who—
 
@@ -62,13 +62,13 @@ and references in subsections (2) and (3) above to a participator in a company s
 
 ## Annotations
 
-[^key-0e2b57fa2d458c9230c5a59bec0cbbc3]: Textual amendment: Words in [s. 13(2)(a)](https://www.legislation.gov.uk/ukpga/1984/51/section/13/2/a) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(2)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/2/a)
+[^c-0e2b57fa2d458c9230c5a59bec0cbbc3]: Textual amendment: Words in [s. 13(2)(a)](https://www.legislation.gov.uk/ukpga/1984/51/section/13/2/a) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(2)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/2/a)
 
-[^key-a153c98a4bb62f34cde2cee9fec03123]: Textual amendment: Words in [s. 13(2)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/13/2/b) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/2/b)
+[^c-a153c98a4bb62f34cde2cee9fec03123]: Textual amendment: Words in [s. 13(2)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/13/2/b) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/2/b)
 
-[^key-7316f258a1c148ed0e4a3bf4a6b18999]: Textual amendment: Word in [s. 13(2)(c)](https://www.legislation.gov.uk/ukpga/1984/51/section/13/2/c) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(2)(c)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/2/c)
+[^c-7316f258a1c148ed0e4a3bf4a6b18999]: Textual amendment: Word in [s. 13(2)(c)](https://www.legislation.gov.uk/ukpga/1984/51/section/13/2/c) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(2)(c)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/2/c)
 
-[^key-d36920aac011c9a1b06c848f2ea71e60]: Textual amendment: Words in [s. 13(2)(d)](https://www.legislation.gov.uk/ukpga/1984/51/section/13/2/d) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(2)(d)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/2/d)
+[^c-d36920aac011c9a1b06c848f2ea71e60]: Textual amendment: Words in [s. 13(2)(d)](https://www.legislation.gov.uk/ukpga/1984/51/section/13/2/d) inserted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 58(2)(d)](https://www.legislation.gov.uk/ukpga/2025/8/section/58/2/d)
 
 [^c13607311]: Textual amendment: *Substituted by* [Income and Corporation Taxes Act 1988 (c. 1. SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), Sch. 29 para. 32. *Originally* “the Finance Act 1978”.
 

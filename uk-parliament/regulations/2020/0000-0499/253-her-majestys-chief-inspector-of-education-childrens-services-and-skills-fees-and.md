@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-Her Majesty's Chief Inspector of Education, Children's Services and Skills (Fees and Frequency of Inspections) (Children's Homes etc.) (Amendment) Regulations 2020 (revoked)[^key-31fdfbba4f967162e1dbfd8e40057d1e]
+Her Majesty's Chief Inspector of Education, Children's Services and Skills (Fees and Frequency of Inspections) (Children's Homes etc.) (Amendment) Regulations 2020 (revoked)[^c-31fdfbba4f967162e1dbfd8e40057d1e]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 1st April 2020
 
-[^key-31fdfbba4f967162e1dbfd8e40057d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31fdfbba4f967162e1dbfd8e40057d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-31fdfbba4f967162e1dbfd8e40057d1e]
+## 1. Citation, commencement and interpretation[^c-31fdfbba4f967162e1dbfd8e40057d1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Substitution of fees payable[^key-31fdfbba4f967162e1dbfd8e40057d1e]
+## 2. Substitution of fees payable[^c-31fdfbba4f967162e1dbfd8e40057d1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to size classification for residential colleges and residential special schools[^key-31fdfbba4f967162e1dbfd8e40057d1e]
+## 3. Amendment to size classification for residential colleges and residential special schools[^c-31fdfbba4f967162e1dbfd8e40057d1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to size classification for children's homes[^key-31fdfbba4f967162e1dbfd8e40057d1e]
+## 4. Amendment to size classification for children's homes[^c-31fdfbba4f967162e1dbfd8e40057d1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-31fdfbba4f967162e1dbfd8e40057d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31fdfbba4f967162e1dbfd8e40057d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Substitution of fees payable under the 2015 Regulations[^key-31fdfbba4f967162e1dbfd8e40057d1e]
+## SCHEDULE — Substitution of fees payable under the 2015 Regulations[^c-31fdfbba4f967162e1dbfd8e40057d1e]
 
 Regulation 2
 
@@ -78,8 +78,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-31fdfbba4f967162e1dbfd8e40057d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-31fdfbba4f967162e1dbfd8e40057d1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-31fdfbba4f967162e1dbfd8e40057d1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/253) revoked (30.3.2021) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/261)](https://www.legislation.gov.uk/uksi/2021/261), [reg. 5](https://www.legislation.gov.uk/uksi/2021/261/regulation/5)
+[^c-31fdfbba4f967162e1dbfd8e40057d1e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/253) revoked (30.3.2021) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/261)](https://www.legislation.gov.uk/uksi/2021/261), [reg. 5](https://www.legislation.gov.uk/uksi/2021/261/regulation/5)

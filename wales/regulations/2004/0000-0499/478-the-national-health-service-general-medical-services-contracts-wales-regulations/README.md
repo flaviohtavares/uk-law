@@ -27,7 +27,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The National Health Service (General Medical Services Contracts) (Wales) Regulations 2004 (revoked)[^key-6d7a5705172c3348fcdecce31e5cc887]
+The National Health Service (General Medical Services Contracts) (Wales) Regulations 2004 (revoked)[^c-6d7a5705172c3348fcdecce31e5cc887]
 
 Made
 
@@ -37,18 +37,18 @@ Coming into force
 
 1st March 2004
 
-[^key-6d7a5705172c3348fcdecce31e5cc887]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d7a5705172c3348fcdecce31e5cc887]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-6d7a5705172c3348fcdecce31e5cc887]
+### PART 1 — GENERAL[^c-6d7a5705172c3348fcdecce31e5cc887]
 
 **No longer in force.**
 
 - [Section 1 — Citation, commencement and application](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — CONTRACTORS[^key-6d7a5705172c3348fcdecce31e5cc887]
+### PART 2 — CONTRACTORS[^c-6d7a5705172c3348fcdecce31e5cc887]
 
 **No longer in force.**
 
@@ -59,19 +59,19 @@ Coming into force
 - [Section 7 — Appeal](part-2/section-7.md)
 - [Section 8 — Prescribed period under section 28D(1)(bc) of the Act](part-2/section-8.md)
 
-### PART 3 — PRE-CONTRACT DISPUTE RESOLUTION[^key-6d7a5705172c3348fcdecce31e5cc887]
+### PART 3 — PRE-CONTRACT DISPUTE RESOLUTION[^c-6d7a5705172c3348fcdecce31e5cc887]
 
 **No longer in force.**
 
 - [Section 9 — Pre-contract disputes](part-3/section-9.md)
 
-### PART 4 — HEALTH SERVICE BODY STATUS[^key-6d7a5705172c3348fcdecce31e5cc887]
+### PART 4 — HEALTH SERVICE BODY STATUS[^c-6d7a5705172c3348fcdecce31e5cc887]
 
 **No longer in force.**
 
 - [Section 10 — Health service body status](part-4/section-10.md)
 
-### PART 5 — CONTRACTS: REQUIRED TERMS[^key-6d7a5705172c3348fcdecce31e5cc887]
+### PART 5 — CONTRACTS: REQUIRED TERMS[^c-6d7a5705172c3348fcdecce31e5cc887]
 
 **No longer in force.**
 
@@ -92,13 +92,13 @@ Coming into force
 - [Section 25 — Arrangements on termination](part-5/section-25.md)
 - [Section 26 — Other contractual terms](part-5/section-26.md)
 
-### PART 6 — FUNCTIONS OF LOCAL MEDICAL COMMITTEES[^key-6d7a5705172c3348fcdecce31e5cc887]
+### PART 6 — FUNCTIONS OF LOCAL MEDICAL COMMITTEES[^c-6d7a5705172c3348fcdecce31e5cc887]
 
 **No longer in force.**
 
 - [Section 27](part-6/section-27.md)
 
-### PART 7 — TRANSITIONAL PROVISIONS[^key-6d7a5705172c3348fcdecce31e5cc887]
+### PART 7 — TRANSITIONAL PROVISIONS[^c-6d7a5705172c3348fcdecce31e5cc887]
 
 **No longer in force.**
 
@@ -121,10 +121,10 @@ Coming into force
 
 **No longer in force.**
 
-[^key-6d7a5705172c3348fcdecce31e5cc887]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d7a5705172c3348fcdecce31e5cc887]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d7a5705172c3348fcdecce31e5cc887]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d7a5705172c3348fcdecce31e5cc887]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d7a5705172c3348fcdecce31e5cc887]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2004/478) revoked (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 6 para. 1](https://www.legislation.gov.uk/wsi/2023/953/schedule/6/paragraph/1) (with [reg. 31](https://www.legislation.gov.uk/wsi/2023/953/regulation/31)) (as amended by [S.I. 2023/1421](https://www.legislation.gov.uk/uksi/2023/1421), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1421/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2023/1421/regulation/21/b))
+[^c-6d7a5705172c3348fcdecce31e5cc887]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2004/478) revoked (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 6 para. 1](https://www.legislation.gov.uk/wsi/2023/953/schedule/6/paragraph/1) (with [reg. 31](https://www.legislation.gov.uk/wsi/2023/953/regulation/31)) (as amended by [S.I. 2023/1421](https://www.legislation.gov.uk/uksi/2023/1421), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1421/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2023/1421/regulation/21/b))

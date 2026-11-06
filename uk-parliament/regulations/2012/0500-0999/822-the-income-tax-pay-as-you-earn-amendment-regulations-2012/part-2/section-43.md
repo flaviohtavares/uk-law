@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Time limits for issue of transfer notices: managed service companies[^key-912b5d8f0c1b5fb0b72791533c1e8d7c]
+## 43. Time limits for issue of transfer notices: managed service companies[^c-912b5d8f0c1b5fb0b72791533c1e8d7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In regulation 97D (time limits for issue of transfer notices), after paragraph (
 
 ## Annotations
 
-[^key-912b5d8f0c1b5fb0b72791533c1e8d7c]: Commencement: Reg. 43 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-912b5d8f0c1b5fb0b72791533c1e8d7c]: Commencement: Reg. 43 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

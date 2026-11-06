@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-781b8ffcd6be58d5001e26adc5766cb2] Subject to subsection (A2), this section applies only to a donation received by a Northern Ireland recipient before 1 July 2017.
+(A1)[^c-781b8ffcd6be58d5001e26adc5766cb2] Subject to subsection (A2), this section applies only to a donation received by a Northern Ireland recipient before 1 July 2017.
 
 (A2) This section does not apply to a donation received before 1 July 2017 which is required to be recorded in a report—
 
@@ -29,7 +29,7 @@ summary: ''
 
 (1) A person who is or has been a member or employee of the Commission must not disclose any information which—
 
-- (a) relates to a donation to which this section applies[^key-d395e80f817186669d110110d604b85d] , and
+- (a) relates to a donation to which this section applies[^c-d395e80f817186669d110110d604b85d] , and
 - (b) has been obtained by the Commission in the exercise of their functions under this Part,
 
 except in the following cases.
@@ -43,7 +43,7 @@ except in the following cases.
 
 (4) Such information may be disclosed in accordance with any prescribed requirements if it relates to a donation which the Commission believe, on reasonable grounds, was a donation required to be dealt with in accordance with section 56(2) (donations from impermissible and unidentifiable donors).
 
-(4A)[^key-45c8be27bfe6a0118a8741a8c887c3ea] Such information may be disclosed if the Commission believe, on reasonable grounds, that—
+(4A)[^c-45c8be27bfe6a0118a8741a8c887c3ea] Such information may be disclosed if the Commission believe, on reasonable grounds, that—
 
 - (a) the relevant person has consented to the disclosure, and
 - (b) the consent was given in accordance with any prescribed requirements.
@@ -52,7 +52,7 @@ except in the following cases.
 
 (5) A person who contravenes subsection (1) is guilty of an offence.
 
-(6)[^key-6d6a538fe03ab881599216382601f19f] A person does not contravene subsection (1) if that person discloses information relating to a donation to which this section applies where—
+(6)[^c-6d6a538fe03ab881599216382601f19f] A person does not contravene subsection (1) if that person discloses information relating to a donation to which this section applies where—
 
 - (a) the donation was received on or after 1 January 2014 but before 1 July 2017,
 - (b) the Northern Ireland report recording the donation does not state that the donation was received before 1 July 2017, and
@@ -76,10 +76,10 @@ except in the following cases.
 
 [^c20068921]: Textual amendment: Pt. 4 Ch. 6 inserted (1.11.2007) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 10(2)(b)](https://www.legislation.gov.uk/ukpga/2006/33/section/10/2/b), [12](https://www.legislation.gov.uk/ukpga/2006/33/section/12), [31(2)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/2)
 
-[^key-781b8ffcd6be58d5001e26adc5766cb2]: Textual amendment: S. 71E(A1)(A2) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/328/article/2/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2018/328/article/12))
+[^c-781b8ffcd6be58d5001e26adc5766cb2]: Textual amendment: S. 71E(A1)(A2) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/328/article/2/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2018/328/article/12))
 
-[^key-d395e80f817186669d110110d604b85d]: Textual amendment: Words in s. 71E(1)(a) substituted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/328/article/2/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2018/328/article/12))
+[^c-d395e80f817186669d110110d604b85d]: Textual amendment: Words in s. 71E(1)(a) substituted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/328/article/2/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2018/328/article/12))
 
-[^key-45c8be27bfe6a0118a8741a8c887c3ea]: Textual amendment: S. 71E(4A)(4B) inserted (13.3.2014 for specified purposes) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2014/13/section/1/3), [28(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/a/ii)
+[^c-45c8be27bfe6a0118a8741a8c887c3ea]: Textual amendment: S. 71E(4A)(4B) inserted (13.3.2014 for specified purposes) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2014/13/section/1/3), [28(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/a/ii)
 
-[^key-6d6a538fe03ab881599216382601f19f]: Textual amendment: S. 71E(6)-(8) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2018/328/article/2/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2018/328/article/12))
+[^c-6d6a538fe03ab881599216382601f19f]: Textual amendment: S. 71E(6)-(8) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2018/328/article/2/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2018/328/article/12))

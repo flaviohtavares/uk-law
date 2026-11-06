@@ -56,19 +56,19 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## PART 1 — General
 
-### 1. Citation, commencement and extent[^key-b3a7c27b672c4d59751a71d45543a8ef]
+### 1. Citation, commencement and extent[^c-b3a7c27b672c4d59751a71d45543a8ef]
 
 (1) These Regulations may be cited as the Planning (Environmental Assessments and Miscellaneous Amendments) (EU Exit) (Northern Ireland) Regulations 2018.
 
 (2) Subject to paragraph (3), these Regulations come into force on exit day.
 
-(3) Regulation 9(3)(b) and 9(3)(c) come into force immediately before IP completion day.[^key-b0829ae0f7dfd67320b7fb3ad96f0816]
+(3) Regulation 9(3)(b) and 9(3)(c) come into force immediately before IP completion day.[^c-b0829ae0f7dfd67320b7fb3ad96f0816]
 
 (4) These Regulations extend to Northern Ireland only.
 
 ## PART 2 — Amendments to secondary legislation
 
-### 2. Amendments to the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999[^key-3e246ef9f1d6d7273c4ced4f3a3a04b4]
+### 2. Amendments to the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999[^c-3e246ef9f1d6d7273c4ced4f3a3a04b4]
 
 (1) Paragraphs (2) and (3) have effect in relation to the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999[^f00004] to the extent that those Regulations continue in force by virtue of regulation 48(4) of the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017[^f00005].
 
@@ -82,7 +82,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) In regulation 28(a), in the text substituting regulation 18(1)(a), for “another” substitute “a”.
 
-### 3. Amendments to the Planning (Local Development Plan) Regulations (Northern Ireland) 2015[^key-5e52e3ca0eb4250be90e769c6f1edfa3]
+### 3. Amendments to the Planning (Local Development Plan) Regulations (Northern Ireland) 2015[^c-5e52e3ca0eb4250be90e769c6f1edfa3]
 
 Regulation 14 of the Planning (Local Development Plan) Regulations (Northern Ireland) 2015[^f00006] shall be amended as follows—
 
@@ -90,11 +90,11 @@ Regulation 14 of the Planning (Local Development Plan) Regulations (Northern Ire
 - (b) in paragraph (1)(b)(iii), for the words “Article 5 of the Directive” substitute “regulation 5 of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^f00007]”; and
 - (c) omit paragraph (2).
 
-### 4. Amendments to the Planning (Control of Advertisements) Regulations (Northern Ireland) 2015[^key-21b0c4dbea5208edd8a102af62ae3130]
+### 4. Amendments to the Planning (Control of Advertisements) Regulations (Northern Ireland) 2015[^c-21b0c4dbea5208edd8a102af62ae3130]
 
 In class 13 of Schedule 3 of the Planning (Control of Advertisements) Regulations (Northern Ireland) 2015[^f00008] omit “, European Parliamentary”.
 
-### 5. Amendments to the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015[^key-63fcf636e4c3ebc8b7d96cf9f156f1a6]
+### 5. Amendments to the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015[^c-63fcf636e4c3ebc8b7d96cf9f156f1a6]
 
 (1) Paragraphs (2) to (4) have effect in relation to the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015[^f00009] to the extent that those Regulations continue in force by virtue of regulation 48 of the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017.
 
@@ -117,13 +117,13 @@ In class 13 of Schedule 3 of the Planning (Control of Advertisements) Regulation
 
 (6) In Schedule 2, in the table in paragraph 1 in item 3(k), after “pursuant to” insert “Chapter 3 of Part 1 of the Energy Act 2008 and any law that implemented”.
 
-### 6. Amendments to the Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2015[^key-21056b2e5bdcc2e57170e09742c836ee]
+### 6. Amendments to the Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2015[^c-21056b2e5bdcc2e57170e09742c836ee]
 
 (1) The Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2015[^f00011] shall be amended as follows—
 
 (2) In regulation 2(2)—
 
-- (a) for the definition of “best available techniques” substitute “best available techniques” has the same meaning as in Article 3(10)[^key-9e787de41919a7b3501af9b349db8ff5] of Council [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075)[^f00012] of 24 November 2010 as it had effect immediately before exit day”;
+- (a) for the definition of “best available techniques” substitute “best available techniques” has the same meaning as in Article 3(10)[^c-9e787de41919a7b3501af9b349db8ff5] of Council [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075)[^f00012] of 24 November 2010 as it had effect immediately before exit day”;
 - (b) at the end of the definition of “the Directive” insert “as it had effect immediately before exit day”;
 - (c) omit the definition of “[Directive 2006/11/EC](https://www.legislation.gov.uk/european/directive/2006/0011)”[^f00013];
 - (d) at the end of the definition of “[Directive 2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118)”[^f00014] insert “as it had effect immediately before exit day”;
@@ -171,14 +171,14 @@ In class 13 of Schedule 3 of the Planning (Control of Advertisements) Regulation
 
 > **3.** It contains substances or preparations classified as dangerous which fall within the scope of Regulation [(EC) 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272)[^f00020].
 
-### 7. Amendments to the Planning (General Development Procedure) Order (Northern Ireland) 2015[^key-e4dabdb4c3830103dae7a345baf1c7bb]
+### 7. Amendments to the Planning (General Development Procedure) Order (Northern Ireland) 2015[^c-e4dabdb4c3830103dae7a345baf1c7bb]
 
 Schedule 3 of the Planning (General Development Procedure) Order (Northern Ireland) 2015[^f00021] shall be amended as follows—
 
 - (a) in Part 1, paragraph 3(b)(ii), for the words “covered” to the end of the paragraph substitute “which would require notification under regulation 6(6) of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015”; and
 - (b) in Part 2, paragraph 4(b)(ii), for the words “covered” to the end of the paragraph substitute “which would require notification under regulation 6(6) of the Control of Major Accident Hazards Regulations (Northern Ireland) 2015”.
 
-### 8. Amendments to the Planning (Hazardous Substances) (No. 2) Regulations (Northern Ireland) 2015[^key-3014fdac861a280352d7a393b63ce6a7]
+### 8. Amendments to the Planning (Hazardous Substances) (No. 2) Regulations (Northern Ireland) 2015[^c-3014fdac861a280352d7a393b63ce6a7]
 
 (1) The Planning (Hazardous Substances) (No. 2) Regulations (Northern Ireland) 2015[^f00022] shall be amended as follows—
 
@@ -229,9 +229,9 @@ Schedule 3 of the Planning (General Development Procedure) Order (Northern Irela
 
 ### 9. Amendments to the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017
 
-(1)[^key-fcfddf705e5671469a6a13631bc7110c] The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 shall be amended as follows—
+(1)[^c-fcfddf705e5671469a6a13631bc7110c] The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 shall be amended as follows—
 
-(2)[^key-fcfddf705e5671469a6a13631bc7110c] In regulation 2(2)—
+(2)[^c-fcfddf705e5671469a6a13631bc7110c] In regulation 2(2)—
 
 - (a) at the end of the definition of “the Directive” insert “as it had effect immediately before exit day”; and
 - (b) for the definition of “Union legislation” substitute—
@@ -242,28 +242,28 @@ Schedule 3 of the Planning (General Development Procedure) Order (Northern Irela
 
 (3) In regulation 3—
 
-- (a)[^key-fcfddf705e5671469a6a13631bc7110c] in paragraph (1)(b), omit “in accordance with Article 2.4 of the Directive (but without prejudice to Article 7 of the Directive),”;
-- (b)[^key-bbf123c39cd0e485369ec4ee655e04c5] after paragraph (1) insert—
+- (a)[^c-fcfddf705e5671469a6a13631bc7110c] in paragraph (1)(b), omit “in accordance with Article 2.4 of the Directive (but without prejudice to Article 7 of the Directive),”;
+- (b)[^c-bbf123c39cd0e485369ec4ee655e04c5] after paragraph (1) insert—
 
   > (1A) The Department must not make a direction under paragraph (1)(b) that a project is exempt unless, where the Department considers that the development is likely to have significant effects on the environment in an EEA State, or where an EEA State likely to be significantly affected so requests, the Department has carried out a form of consultation with that EEA State broadly equivalent to the form described in regulation 29 or 30, as appropriate, or is satisfied that such an equivalent consultation has been carried out, before planning permission or subsequent consent is granted in respect of the development.
 
   ; and
-- (c)[^key-bbf123c39cd0e485369ec4ee655e04c5] after paragraph (3) insert—
+- (c)[^c-bbf123c39cd0e485369ec4ee655e04c5] after paragraph (3) insert—
 
   > (4) Before planning permission or subsequent consent is given in respect of a development which is exempt under paragraph (1)(b), the council or, as the case may be, the Department, must take into account the results of—
   >
   > - (a) any other assessment considered appropriate by the Department under paragraph (3)(b); and
   > - (b) any consultation with an EEA State carried out under paragraph (1A) about the development.
 
-(4)[^key-fcfddf705e5671469a6a13631bc7110c] In regulation 5(2)(b) after “under” insert “any law that implemented”.
+(4)[^c-fcfddf705e5671469a6a13631bc7110c] In regulation 5(2)(b) after “under” insert “any law that implemented”.
 
-(5)[^key-fcfddf705e5671469a6a13631bc7110c] In regulation 29—
+(5)[^c-fcfddf705e5671469a6a13631bc7110c] In regulation 29—
 
 - (a) in the heading and in paragraphs (1), (2) and (3), for “another”, in each place it occurs, substitute “an”;
 - (b) in paragraph (5) for “referred to in Article 6.1 of the Directive” substitute “which the EEA State designated to be consulted about the project”; and
 - (c) in paragraph (6)(b) omit “other”.
 
-(6)[^key-fcfddf705e5671469a6a13631bc7110c] In regulation 30—
+(6)[^c-fcfddf705e5671469a6a13631bc7110c] In regulation 30—
 
 - (a) in the heading for “another” substitute “an”;
 - (b) in paragraph (1)—
@@ -275,18 +275,18 @@ Schedule 3 of the Planning (General Development Procedure) Order (Northern Irela
     - (bb) omit “pursuant to Article 7.3(b) of the Directive”; and
 - (c) in paragraph (2)(c) omit “in order to comply with Article 9.2 of the Directive”.
 
-(7)[^key-fcfddf705e5671469a6a13631bc7110c] In regulation 32, after the word “compliance” substitute “with the requirements of any law which implemented the Directive and the objectives of the Directive”.
+(7)[^c-fcfddf705e5671469a6a13631bc7110c] In regulation 32, after the word “compliance” substitute “with the requirements of any law which implemented the Directive and the objectives of the Directive”.
 
-(8)[^key-fcfddf705e5671469a6a13631bc7110c] In regulation 40(a), in the text substituting regulation 29(1), for “another” substitute “an”.
+(8)[^c-fcfddf705e5671469a6a13631bc7110c] In regulation 40(a), in the text substituting regulation 29(1), for “another” substitute “an”.
 
-(9)[^key-fcfddf705e5671469a6a13631bc7110c] In Schedule 1—
+(9)[^c-fcfddf705e5671469a6a13631bc7110c] In Schedule 1—
 
 - (a) in paragraph 22 after “pursuant to” insert “Chapter 3 of Part 1 of the Energy Act 2008[^f00024] and any law that implemented”; and
 - (b) in paragraph 23 after “pursuant to” insert “Chapter 3 of Part 1 of the Energy Act 2008 and any law that implemented”.
 
-(10)[^key-fcfddf705e5671469a6a13631bc7110c] In Schedule 2, in the table in paragraph 1 in item 3(k), after “pursuant to” insert “Chapter 3 of Part 1 of the Energy Act 2008 and any law that implemented”.
+(10)[^c-fcfddf705e5671469a6a13631bc7110c] In Schedule 2, in the table in paragraph 1 in item 3(k), after “pursuant to” insert “Chapter 3 of Part 1 of the Energy Act 2008 and any law that implemented”.
 
-(11)[^key-fcfddf705e5671469a6a13631bc7110c] In Schedule 4—
+(11)[^c-fcfddf705e5671469a6a13631bc7110c] In Schedule 4—
 
 - (a) in paragraph 5—
   - (i) for “Member State level” substitute “United Kingdom level (as they had effect immediately before exit day)”; and
@@ -325,37 +325,37 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68) Section 2(2) was amended by section 27(1) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51); and Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-b3a7c27b672c4d59751a71d45543a8ef]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b3a7c27b672c4d59751a71d45543a8ef]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-b0829ae0f7dfd67320b7fb3ad96f0816]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/3) substituted (31.12.2020) by [The Planning (Environmental Assessments and Technical Miscellaneous Amendments) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/300)](https://www.legislation.gov.uk/nisr/2020/300), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/300/regulation/1/3), [6(2)](https://www.legislation.gov.uk/nisr/2020/300/regulation/6/2)
+[^c-b0829ae0f7dfd67320b7fb3ad96f0816]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/3) substituted (31.12.2020) by [The Planning (Environmental Assessments and Technical Miscellaneous Amendments) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/300)](https://www.legislation.gov.uk/nisr/2020/300), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/300/regulation/1/3), [6(2)](https://www.legislation.gov.uk/nisr/2020/300/regulation/6/2)
 
-[^key-3e246ef9f1d6d7273c4ced4f3a3a04b4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1235/regulation/2) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3e246ef9f1d6d7273c4ced4f3a3a04b4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1235/regulation/2) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^f00004]: Footnote: [S.R. 1999 No.73](https://www.legislation.gov.uk/nisr/1999/73)
 
 [^f00005]: Footnote: [S.R. 2017 No.83](https://www.legislation.gov.uk/nisr/2017/83)
 
-[^key-5e52e3ca0eb4250be90e769c6f1edfa3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1235/regulation/3) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2)
+[^c-5e52e3ca0eb4250be90e769c6f1edfa3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1235/regulation/3) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/2)
 
 [^f00006]: Footnote: [S.R. 2015 No.62](https://www.legislation.gov.uk/nisr/2015/62)
 
 [^f00007]: Footnote: [S.R. 2015 No.325](https://www.legislation.gov.uk/nisr/2015/325)
 
-[^key-21b0c4dbea5208edd8a102af62ae3130]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1235/regulation/4) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-21b0c4dbea5208edd8a102af62ae3130]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1235/regulation/4) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^f00008]: Footnote: [S.R. 2015 No.66](https://www.legislation.gov.uk/nisr/2015/66)
 
-[^key-63fcf636e4c3ebc8b7d96cf9f156f1a6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1235/regulation/5) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-63fcf636e4c3ebc8b7d96cf9f156f1a6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1235/regulation/5) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^f00009]: Footnote: [S.R. 2015 No.74](https://www.legislation.gov.uk/nisr/2015/74)
 
 [^f00010]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32)
 
-[^key-21056b2e5bdcc2e57170e09742c836ee]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-21056b2e5bdcc2e57170e09742c836ee]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^f00011]: Footnote: [S.R. 2015 No.85](https://www.legislation.gov.uk/nisr/2015/85)
 
-[^key-9e787de41919a7b3501af9b349db8ff5]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/a) substituted (31.12.2020) by [The Planning (Environmental Assessments and Technical Miscellaneous Amendments) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/300)](https://www.legislation.gov.uk/nisr/2020/300), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/300/regulation/1/3), [6(3)](https://www.legislation.gov.uk/nisr/2020/300/regulation/6/3)
+[^c-9e787de41919a7b3501af9b349db8ff5]: Textual amendment: Words in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/6/2/a) substituted (31.12.2020) by [The Planning (Environmental Assessments and Technical Miscellaneous Amendments) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/300)](https://www.legislation.gov.uk/nisr/2020/300), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/300/regulation/1/3), [6(3)](https://www.legislation.gov.uk/nisr/2020/300/regulation/6/3)
 
 [^f00012]: Footnote: O.J. No. L334, 17.12.2010, p.17–119
 
@@ -375,18 +375,18 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00020]: Footnote: O.J. No. L353, 31.12.2008, p. 1-1355
 
-[^key-e4dabdb4c3830103dae7a345baf1c7bb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1235/regulation/7) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e4dabdb4c3830103dae7a345baf1c7bb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1235/regulation/7) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^f00021]: Footnote: [S.R. 2015 No.72](https://www.legislation.gov.uk/nisr/2015/72)
 
-[^key-3014fdac861a280352d7a393b63ce6a7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/1235/regulation/8) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3014fdac861a280352d7a393b63ce6a7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/1235/regulation/8) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^f00022]: Footnote: [S.R. 2015 No. 344](https://www.legislation.gov.uk/nisr/2015/344)
 
 [^f00023]: Footnote: O.J. No. L26, 28.1.2012, p. 1-21
 
-[^key-fcfddf705e5671469a6a13631bc7110c]: Commencement: [Reg. 9(1)(2)(3)(a)(4)-(11)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/1/2/3/a/4) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-fcfddf705e5671469a6a13631bc7110c]: Commencement: [Reg. 9(1)(2)(3)(a)(4)-(11)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/1/2/3/a/4) in force at 31.12.2020 (in force on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-bbf123c39cd0e485369ec4ee655e04c5]: Commencement: [Reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/b)[(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/c) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/3)
+[^c-bbf123c39cd0e485369ec4ee655e04c5]: Commencement: [Reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/b)[(c)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/9/3/c) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1235/regulation/1/3)
 
 [^f00024]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32)

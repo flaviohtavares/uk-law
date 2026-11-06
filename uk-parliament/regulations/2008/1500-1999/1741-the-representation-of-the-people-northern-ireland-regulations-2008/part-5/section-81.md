@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Spoilt postal ballot papers[^key-44f36f46276f5646be8ada70e3ab0d8b]
+## 81. Spoilt postal ballot papers[^c-44f36f46276f5646be8ada70e3ab0d8b]
 
 *Extent: N.I.*
 
@@ -34,14 +34,14 @@ summary: ''
 
 (7) The returning officer shall enter in a list kept for the purpose (“the list of spoilt ballot papers”)—
 
-- (a) the name and address of the elector as stated in the register (or, in the case of an elector who has an anonymous entry, the elector’s electoral number alone)[^key-64eeaf5338d59bb12374a37fbd83896d];
+- (a) the name and address of the elector as stated in the register (or, in the case of an elector who has an anonymous entry, the elector’s electoral number alone)[^c-64eeaf5338d59bb12374a37fbd83896d];
 - (b) the number of the postal ballot paper issued under this regulation; and
-- (c) where the postal voter whose ballot paper is spoilt is a proxy, his name and address (or, in the case of a proxy who has an anonymous entry or is the proxy for a person with an anonymous entry, the proxy’s electoral number alone or, as the case may be, a statement that the proxy is not registered as an elector)[^key-ca851ba79c9a1e0fa55120e0a8b8540f].
+- (c) where the postal voter whose ballot paper is spoilt is a proxy, his name and address (or, in the case of a proxy who has an anonymous entry or is the proxy for a person with an anonymous entry, the proxy’s electoral number alone or, as the case may be, a statement that the proxy is not registered as an elector)[^c-ca851ba79c9a1e0fa55120e0a8b8540f].
 
 ## Annotations
 
-[^key-44f36f46276f5646be8ada70e3ab0d8b]: Modification: [Reg. 81](https://www.legislation.gov.uk/uksi/2008/1741/regulation/81) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 92](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/92)
+[^c-44f36f46276f5646be8ada70e3ab0d8b]: Modification: [Reg. 81](https://www.legislation.gov.uk/uksi/2008/1741/regulation/81) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 92](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/92)
 
-[^key-64eeaf5338d59bb12374a37fbd83896d]: Textual amendment: Words in [reg. 81(7)(a)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/81/7/a) added (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/26/a)
+[^c-64eeaf5338d59bb12374a37fbd83896d]: Textual amendment: Words in [reg. 81(7)(a)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/81/7/a) added (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/26/a)
 
-[^key-ca851ba79c9a1e0fa55120e0a8b8540f]: Textual amendment: Words in [reg. 81(7)(c)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/81/7/c) added (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/26/b)
+[^c-ca851ba79c9a1e0fa55120e0a8b8540f]: Textual amendment: Words in [reg. 81(7)(c)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/81/7/c) added (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/26/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 172L. Sections 172F to 172K: supplementary[^key-b81a6e09954b1341fb8716011f555e15]
+## 172L. Sections 172F to 172K: supplementary[^c-b81a6e09954b1341fb8716011f555e15]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b81a6e09954b1341fb8716011f555e15]: Textual amendment: [Ss. 172F-172L](https://www.legislation.gov.uk/ukpga/2003/17/section/172F) and cross-heading inserted (temp. until 1.4.2025) (22.7.2020) by virtue of [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/2), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [s. 11(13)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/13)) (as amended: (16.9.2021) by [S.I. 2021/1049](https://www.legislation.gov.uk/uksi/2021/1049), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1049/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1049/regulation/2); (29.9.2022) by [S.I. 2022/978](https://www.legislation.gov.uk/uksi/2022/978), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/978/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/978/regulation/2); and (28.9.2023) by [S.I. 2023/990](https://www.legislation.gov.uk/uksi/2023/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/990/regulation/2))
+[^c-b81a6e09954b1341fb8716011f555e15]: Textual amendment: [Ss. 172F-172L](https://www.legislation.gov.uk/ukpga/2003/17/section/172F) and cross-heading inserted (temp. until 1.4.2025) (22.7.2020) by virtue of [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/2), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [s. 11(13)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/13)) (as amended: (16.9.2021) by [S.I. 2021/1049](https://www.legislation.gov.uk/uksi/2021/1049), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1049/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1049/regulation/2); (29.9.2022) by [S.I. 2022/978](https://www.legislation.gov.uk/uksi/2022/978), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/978/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/978/regulation/2); and (28.9.2023) by [S.I. 2023/990](https://www.legislation.gov.uk/uksi/2023/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/990/regulation/2))

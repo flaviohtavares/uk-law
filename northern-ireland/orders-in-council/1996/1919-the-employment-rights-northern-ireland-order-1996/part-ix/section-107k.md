@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107K. Rights during and after shared parental leave[^key-19972f31637f696df1d9548fa61c1b9b][^c22340171]
+## 107K. Rights during and after shared parental leave[^c-19972f31637f696df1d9548fa61c1b9b][^c22340171]
 
 *Extent: N.I.*
 
@@ -36,8 +36,8 @@ summary: ''
 - (a) leave under the other of those Articles,
 - (b) maternity leave,
 - (c) paternity leave,
-- (d) adoption leave, [^key-c566f113b741f6a68ea95b751ff8ee7a]...
-- (e) parental leave , and[^key-b68580a6c1423621ce4f45ffede81cc5]
+- (d) adoption leave, [^c-c566f113b741f6a68ea95b751ff8ee7a]...
+- (e) parental leave , and[^c-b68580a6c1423621ce4f45ffede81cc5]
 - (f) parental bereavement leave.
 
 (4) Regulations under Article 107E or 107G may specify matters which are, or are not, to be treated as remuneration for the purposes of this Article.
@@ -49,10 +49,10 @@ summary: ''
 
 ## Annotations
 
-[^key-19972f31637f696df1d9548fa61c1b9b]: Textual amendment: Pt. 9 Ch. 1B inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 2(2)](https://www.legislation.gov.uk/nia/2015/1/section/2/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/b)
+[^c-19972f31637f696df1d9548fa61c1b9b]: Textual amendment: Pt. 9 Ch. 1B inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 2(2)](https://www.legislation.gov.uk/nia/2015/1/section/2/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/b)
 
 [^c22340171]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-c566f113b741f6a68ea95b751ff8ee7a]: Textual amendment: Word in [art. 107K(3)(d)](https://www.legislation.gov.uk/nisi/1996/1919/article/107K/3/d) omitted (23.3.2022) by virtue of [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 19(a)](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/19/a); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-c566f113b741f6a68ea95b751ff8ee7a]: Textual amendment: Word in [art. 107K(3)(d)](https://www.legislation.gov.uk/nisi/1996/1919/article/107K/3/d) omitted (23.3.2022) by virtue of [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 19(a)](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/19/a); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-b68580a6c1423621ce4f45ffede81cc5]: Textual amendment: [Art. 107K(3)(f)](https://www.legislation.gov.uk/nisi/1996/1919/article/107K/3/f) and word inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 19(b)](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/19/b); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-b68580a6c1423621ce4f45ffede81cc5]: Textual amendment: [Art. 107K(3)(f)](https://www.legislation.gov.uk/nisi/1996/1919/article/107K/3/f) and word inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 19(b)](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/19/b); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)

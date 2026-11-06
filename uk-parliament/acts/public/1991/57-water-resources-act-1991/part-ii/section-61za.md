@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61ZA. No compensation where modification to protect environment: England[^key-d8ee13fd67e311360e2cfa7854a0aabc]
+## 61ZA. No compensation where modification to protect environment: England[^c-d8ee13fd67e311360e2cfa7854a0aabc]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ or any flora or fauna dependent on any of them.
 
 ## Annotations
 
-[^key-d8ee13fd67e311360e2cfa7854a0aabc]: Textual amendment: [Ss. 61ZA](https://www.legislation.gov.uk/ukpga/1991/57/section/61ZA), [61ZB](https://www.legislation.gov.uk/ukpga/1991/57/section/61ZB) inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 88(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/88/1), [147(2)(k)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/k) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-d8ee13fd67e311360e2cfa7854a0aabc]: Textual amendment: [Ss. 61ZA](https://www.legislation.gov.uk/ukpga/1991/57/section/61ZA), [61ZB](https://www.legislation.gov.uk/ukpga/1991/57/section/61ZB) inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 88(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/88/1), [147(2)(k)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/k) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))

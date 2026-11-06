@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Actionability and restrictions on bringing proceedings
 
-#### 1. Actionability of defamatory statements[^key-3db1fcf954ce8d14154e60961c08dbbd]
+#### 1. Actionability of defamatory statements[^c-3db1fcf954ce8d14154e60961c08dbbd]
 
 (1) This section applies to a defamatory statement made or published by a person (A) about another person (B).
 
@@ -57,7 +57,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) Nothing in this section affects a right to bring proceedings which accrued before the commencement of this section.
 
-#### 2. Prohibition on public authorities bringing proceedings[^key-a18bbba4595c6773c5932181ba629abb]
+#### 2. Prohibition on public authorities bringing proceedings[^c-a18bbba4595c6773c5932181ba629abb]
 
 (1) A public authority may not bring defamation proceedings.
 
@@ -98,7 +98,7 @@ it is not a public authority by reason only of its carrying out functions of a p
   - (ii) managed or controlled wholly or mainly outwith Scotland and which is registered in a register equivalent to the Scottish Charity Register for the purposes of the country in which it operates,
 - (b) “**charitable purposes**” is to be construed in accordance with section 7(2) of the Charities and Trustee Investment (Scotland) Act 2005.
 
-#### 3. Restriction on proceedings against secondary publishers[^key-ead7c98e66a7950c6694ff287de705ef]
+#### 3. Restriction on proceedings against secondary publishers[^c-ead7c98e66a7950c6694ff287de705ef]
 
 (1) Except as may be provided for under section 4, a right to bring defamation proceedings in respect of a defamatory statement does not accrue against a person unless the person is—
 
@@ -143,7 +143,7 @@ it is not a public authority by reason only of its carrying out functions of a p
 
 (8) Before laying a draft of a Scottish statutory instrument containing regulations under subsection (6), the Scottish Ministers must consult such persons as they consider appropriate.
 
-#### 4. Power to specify persons to be treated as publishers[^key-d567edc575b1bc7a19ea49f1b6ecf1da]
+#### 4. Power to specify persons to be treated as publishers[^c-d567edc575b1bc7a19ea49f1b6ecf1da]
 
 (1) The Scottish Ministers may by regulations specify categories of persons who are to be treated as publishers of a statement for the purpose of defamation proceedings despite not being—
 
@@ -162,7 +162,7 @@ it is not a public authority by reason only of its carrying out functions of a p
 
 ### Defences
 
-#### 5. Defence of truth[^key-29bf6ce81a483556200dd66c46ccdf0e]
+#### 5. Defence of truth[^c-29bf6ce81a483556200dd66c46ccdf0e]
 
 (1) It is a defence to defamation proceedings for the defender to show that the imputation conveyed by the statement complained of is true or is substantially true.
 
@@ -171,7 +171,7 @@ it is not a public authority by reason only of its carrying out functions of a p
 - (a) not all of the imputations have been shown to be true or substantially true, and
 - (b) having regard to the imputations that have been shown to be true or substantially true, publication of the remaining imputations has not caused serious harm to the reputation of the pursuer.
 
-#### 6. Defence of publication on a matter of public interest[^key-145990c9a5d15e0bb4e4df3a2a618520]
+#### 6. Defence of publication on a matter of public interest[^c-145990c9a5d15e0bb4e4df3a2a618520]
 
 (1) It is a defence to defamation proceedings for the defender to show that—
 
@@ -186,7 +186,7 @@ it is not a public authority by reason only of its carrying out functions of a p
 
 (5) For the avoidance of doubt, the defence under this section may be relied upon irrespective of whether the statement complained of is a statement of fact or a statement of opinion.
 
-#### 7. Defence of honest opinion[^key-ac00962872df86dbcfb366d09da6c829]
+#### 7. Defence of honest opinion[^c-ac00962872df86dbcfb366d09da6c829]
 
 (1) Subject to subsections (5) and (6), it is a defence to defamation proceedings for the defender to show that the conditions in subsections (2) to (4) are met.
 
@@ -217,7 +217,7 @@ it is not a public authority by reason only of its carrying out functions of a p
 - (b) the defence of absolute privilege under section 9, or
 - (c) the defence of qualified privilege under section 10 or 11.
 
-#### 8. Abolition of common law defences and transitional provision[^key-d108dec103294bf6d751d7cfd916c15c]
+#### 8. Abolition of common law defences and transitional provision[^c-d108dec103294bf6d751d7cfd916c15c]
 
 (1) Any rules of law providing for—
 
@@ -232,7 +232,7 @@ cease to have effect.
 
 ### Absolute privilege
 
-#### 9. Contemporaneous reports of court proceedings[^key-3a453cbbf847c7bf884545e7917055cf]
+#### 9. Contemporaneous reports of court proceedings[^c-3a453cbbf847c7bf884545e7917055cf]
 
 (1) The contemporaneous publication of a statement which is a fair and accurate report of proceedings in public before a court to which this section applies is absolutely privileged.
 
@@ -253,7 +253,7 @@ it is to be treated as being contemporaneously published if it is published as s
 
 ### Qualified privilege
 
-#### 10. Peer-reviewed statement in scientific or academic journal etc.[^key-ed82a86ec7691d001336d2555ce2b4bd]
+#### 10. Peer-reviewed statement in scientific or academic journal etc.[^c-ed82a86ec7691d001336d2555ce2b4bd]
 
 (1) The publication of a statement in a scientific or academic journal is privileged if the conditions in subsections (2) and (3) are met.
 
@@ -280,7 +280,7 @@ it is to be treated as being contemporaneously published if it is published as s
 
 (8) The reference in subsection (3) (a) to “the editor of the journal” is to be read, in the case of a journal with more than one editor, as a reference to the editor or editors who were responsible for deciding to publish the statement concerned.
 
-#### 11. Other statements protected by qualified privilege[^key-29f81fb4e61d4937e82af6cf1f4ed02d]
+#### 11. Other statements protected by qualified privilege[^c-29f81fb4e61d4937e82af6cf1f4ed02d]
 
 (1) Other than as provided in this section, the publication of any statement mentioned in the schedule (however described) is privileged.
 
@@ -307,13 +307,13 @@ the publication of the statement complained of is not privileged by virtue of th
 - (a) protecting the publication of matter the publication of which is prohibited by law, or
 - (b) limiting any privilege subsisting apart from this section.
 
-#### 12. Privilege: transitional provision[^key-5752f358a839f82afe465efabbcd43fb]
+#### 12. Privilege: transitional provision[^c-5752f358a839f82afe465efabbcd43fb]
 
 Nothing in sections 9 to 11 (or the schedule) has effect in relation to defamation proceedings if the right to bring the proceedings accrued before the commencement of the section in question.
 
 ### Offers to make amends
 
-#### 13. Offer to make amends[^key-197471fc8875b9265f22ce9cf3b3ad1c]
+#### 13. Offer to make amends[^c-197471fc8875b9265f22ce9cf3b3ad1c]
 
 (1) An offer to make amends is an offer made by a person (A) who has published a statement which another person (B) alleges is defamatory to make amends to B by—
 
@@ -338,7 +338,7 @@ Nothing in sections 9 to 11 (or the schedule) has effect in relation to defamati
 - (b) may be renewed (such renewal being treated as a new offer),
 - (c) is deemed to have been rejected if not accepted within a reasonable period.
 
-#### 14. Acceptance and enforcement of offer to make amends[^key-8024b4e7964732311c14e571024af36f]
+#### 14. Acceptance and enforcement of offer to make amends[^c-8024b4e7964732311c14e571024af36f]
 
 (1) This section applies where a person (B) accepts an offer to make amends made under section 13.
 
@@ -374,7 +374,7 @@ and may reduce or increase the amount to be paid from that offered (if any) acco
 
 (9) In this section, a “qualified offer” is an offer to make amends made under section 13 that is made only in relation to a specific defamatory meaning which the person making the offer accepts that the statement conveys.
 
-#### 15. Offer to make amends: multiple persons responsible for statement[^key-e9d021c290add18eeaa2f09dcc9854ae]
+#### 15. Offer to make amends: multiple persons responsible for statement[^c-e9d021c290add18eeaa2f09dcc9854ae]
 
 (1) This section applies where a person (B)—
 
@@ -387,7 +387,7 @@ and may reduce or increase the amount to be paid from that offered (if any) acco
 
 (4) Where a person other than A is liable in respect of the same damage (whether jointly or otherwise), A is not required to pay by virtue of any contribution under section 3(2) of the 1940 Act an amount greater than the amount of compensation payable under the offer made by A.
 
-#### 16. Rejection of unqualified offer to make amends[^key-daf05ab68661199a1a554adbce031953]
+#### 16. Rejection of unqualified offer to make amends[^c-daf05ab68661199a1a554adbce031953]
 
 (1) This section—
 
@@ -409,7 +409,7 @@ but it is to be presumed, unless the contrary is shown, that A did not know and 
 
 (6) In this section, a “qualified offer” is an offer to make amends made under section 13 that is made only in relation to a specific defamatory meaning which the person making the offer accepts that the statement conveys.
 
-#### 17. Rejection of qualified offer to make amends[^key-3eb6ee3846084dc33a99e2f8399287c2]
+#### 17. Rejection of qualified offer to make amends[^c-3eb6ee3846084dc33a99e2f8399287c2]
 
 (1) This section applies where a person (B) rejects or is deemed to have rejected a qualified offer.
 
@@ -428,13 +428,13 @@ but it is to be presumed, unless the contrary is shown, that A did not know and 
 
 (6) In this section, a “qualified offer” is an offer to make amends made under section 13 that is made only in relation to a specific defamatory meaning which the person making the offer accepts that the statement conveys.
 
-#### 18. Offers to make amends: transitional provision[^key-f4ad2ff372f6c1a493bc94103beeb900]
+#### 18. Offers to make amends: transitional provision[^c-f4ad2ff372f6c1a493bc94103beeb900]
 
 Nothing in sections 13 to 17 has effect in relation to defamation proceedings if the right to bring the proceedings accrued before the commencement of the section in question.
 
 ### Jurisdiction
 
-#### 19. Actions against a person not domiciled in the UK[^key-e510c149b29c824df753b782884aeb0e]
+#### 19. Actions against a person not domiciled in the UK[^c-e510c149b29c824df753b782884aeb0e]
 
 (1) This section applies to defamation proceedings brought in Scotland against a person who is not domiciled in the United Kingdom.
 
@@ -450,7 +450,7 @@ Nothing in sections 13 to 17 has effect in relation to defamation proceedings if
 
 ### Removal of presumption that proceedings are to be tried by jury
 
-#### 20. Removal of presumption that proceedings are to be tried by jury[^key-3b0f6f04294ba3e3461f271c674ab0eb]
+#### 20. Removal of presumption that proceedings are to be tried by jury[^c-3b0f6f04294ba3e3461f271c674ab0eb]
 
 (1) In section 11 of the Court of Session Act 1988 (jury actions), paragraph (b) is repealed.
 
@@ -460,7 +460,7 @@ Nothing in sections 13 to 17 has effect in relation to defamation proceedings if
 
 ### Actionable types of malicious publication
 
-#### 21. Statements causing harm to business interests[^key-8a6d38663a15e234ad549b0575da4529]
+#### 21. Statements causing harm to business interests[^c-8a6d38663a15e234ad549b0575da4529]
 
 (1) A person (B) may bring proceedings under this section against another person (A) where—
 
@@ -476,7 +476,7 @@ Nothing in sections 13 to 17 has effect in relation to defamation proceedings if
   - (i) that A knew that the imputation was false or was recklessly indifferent as to the truth of the imputation, and
   - (ii) that A's publication of the statement was motivated by a malicious intention to cause harm to B's business or business activities.
 
-#### 22. Statements causing doubt as to title to property[^key-d840de48174ac4abcc27d722731934b9]
+#### 22. Statements causing doubt as to title to property[^c-d840de48174ac4abcc27d722731934b9]
 
 (1) A person (B) may bring proceedings under this section against another person (A) where—
 
@@ -492,7 +492,7 @@ Nothing in sections 13 to 17 has effect in relation to defamation proceedings if
   - (i) that A knew that the imputation was false or was recklessly indifferent as to the truth of the imputation, and
   - (ii) that A's publication of the statement was motivated by a malicious intention to delay or jeopardise a transaction involving the land or other property of B.
 
-#### 23. Statements criticising assets[^key-5126380bbcf33580e53731d7fa91b83a]
+#### 23. Statements criticising assets[^c-5126380bbcf33580e53731d7fa91b83a]
 
 (1) A person (B) may bring proceedings under this section against another person (A) where—
 
@@ -510,11 +510,11 @@ Nothing in sections 13 to 17 has effect in relation to defamation proceedings if
 
 ### General provision
 
-#### 24. Limit on requirement to show financial loss[^key-815d9f469bd00d1e153146cd6b59a5a7]
+#### 24. Limit on requirement to show financial loss[^c-815d9f469bd00d1e153146cd6b59a5a7]
 
 A pursuer in proceedings under this Part does not need to show financial loss if the statement complained of is more likely than not to cause such loss.
 
-#### 25. Statements conveying two or more meanings[^key-0076a9c9e91d7fb5776aa8f66577d22a]
+#### 25. Statements conveying two or more meanings[^c-0076a9c9e91d7fb5776aa8f66577d22a]
 
 (1) This section applies where proceedings are brought under this Part in respect of a statement that is capable of conveying two or more distinct meanings.
 
@@ -525,7 +525,7 @@ A pursuer in proceedings under this Part does not need to show financial loss if
 
 (3) But nothing in this section prevents the court from excluding or disregarding possible meanings where it considers it appropriate to do so.
 
-#### 26. Damages for anxiety and distress[^key-0685aa2a466a9f42b9b1d27255321f4b]
+#### 26. Damages for anxiety and distress[^c-0685aa2a466a9f42b9b1d27255321f4b]
 
 (1) In determining the appropriate amount of damages to award in proceedings under this Part, the court may take into account any distress and anxiety caused to the pursuer by the statement complained of.
 
@@ -533,7 +533,7 @@ A pursuer in proceedings under this Part does not need to show financial loss if
 
 ### Abolition of common law verbal injuries
 
-#### 27. Abolition of common law verbal injuries[^key-876c6948618cb4f75db0039f11d3c1a0]
+#### 27. Abolition of common law verbal injuries[^c-876c6948618cb4f75db0039f11d3c1a0]
 
 (1) Any rules of law providing for a right to bring proceedings for a verbal injury cease to have effect.
 
@@ -543,7 +543,7 @@ A pursuer in proceedings under this Part does not need to show financial loss if
 
 ### Remedies
 
-#### 28. Power of court to order a summary of its judgment to be published[^key-d7c425a56f3e470f06756ebd18ef3ae5]
+#### 28. Power of court to order a summary of its judgment to be published[^c-d7c425a56f3e470f06756ebd18ef3ae5]
 
 (1) A court may, in finding for the pursuer in defamation proceedings or proceedings under Part 2, order the defender to publish a summary of the judgment.
 
@@ -557,7 +557,7 @@ A pursuer in proceedings under this Part does not need to show financial loss if
 - (a) the wording of the summary, the court must determine it,
 - (b) a matter in subsection (2) (b), the court may give such directions as it considers appropriate.
 
-#### 29. Making a statement in open court[^key-2f812d2dfa10a249f708e6cd425c3d6e]
+#### 29. Making a statement in open court[^c-2f812d2dfa10a249f708e6cd425c3d6e]
 
 (1) In defamation proceedings or proceedings under Part 2, where the parties have reached an agreement in settlement of the proceedings, the court may allow a statement to be made in open court.
 
@@ -568,7 +568,7 @@ A pursuer in proceedings under this Part does not need to show financial loss if
 
 (3) The statement may not be made unless the court has approved its wording.
 
-#### 30. Power of court to order display of notice of proceedings, removal of a statement etc.[^key-58a024d1a73e3111a5ca4bd0605671cf]
+#### 30. Power of court to order display of notice of proceedings, removal of a statement etc.[^c-58a024d1a73e3111a5ca4bd0605671cf]
 
 (1) In defamation proceedings or proceedings under Part 2, a court may order—
 
@@ -583,13 +583,13 @@ A pursuer in proceedings under this Part does not need to show financial loss if
 
 (4) In this section, “author”, “editor”, and “publisher” are to be construed in accordance with section 3.
 
-#### 31. Remedies: transitional provision[^key-4b71deb3496b835b4a444ccd1e154dc1]
+#### 31. Remedies: transitional provision[^c-4b71deb3496b835b4a444ccd1e154dc1]
 
 Nothing in sections 28 to 30 has effect in relation to defamation proceedings begun before the commencement of the section in question.
 
 ### Limitation
 
-#### 32. Limitation of actions[^key-5012bef3e0264ee15ed27b8ed44dd6a7]
+#### 32. Limitation of actions[^c-5012bef3e0264ee15ed27b8ed44dd6a7]
 
 (1) Section 18A of the Prescription and Limitation (Scotland) Act 1973 (limitation of defamation and other actions) is amended as follows.
 
@@ -645,7 +645,7 @@ Nothing in sections 28 to 30 has effect in relation to defamation proceedings be
 
   .
 
-#### 33. Interruption of limitation period: mediation[^key-e6c9feac1d5f569dd23b29e4b286014e]
+#### 33. Interruption of limitation period: mediation[^c-e6c9feac1d5f569dd23b29e4b286014e]
 
 After section 19CA of the Prescription and Limitation (Scotland) Act 1973 (interruption of limitation period: arbitration) insert—
 
@@ -670,7 +670,7 @@ After section 19CA of the Prescription and Limitation (Scotland) Act 1973 (inter
 
 .
 
-#### 34. Interruption of limitation period: media complaints and expert determination[^key-5765f062ba50445d1ccf9ab44a007fd7]
+#### 34. Interruption of limitation period: media complaints and expert determination[^c-5765f062ba50445d1ccf9ab44a007fd7]
 
 After section 19CB of the Prescription and Limitation (Scotland) Act 1973 (interruption of limitation period: mediation) insert—
 
@@ -703,7 +703,7 @@ After section 19CB of the Prescription and Limitation (Scotland) Act 1973 (inter
 
 ### Miscellaneous
 
-#### 35. Consequential modifications[^key-3cece76e0d15183e739e7378f5949e52]
+#### 35. Consequential modifications[^c-3cece76e0d15183e739e7378f5949e52]
 
 (1) The Defamation Act 1952 is amended as follows—
 
@@ -945,75 +945,75 @@ whether admission to the meeting is general or restricted.
 
 ## Annotations
 
-[^key-3db1fcf954ce8d14154e60961c08dbbd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/10/section/1) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-3db1fcf954ce8d14154e60961c08dbbd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/10/section/1) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-a18bbba4595c6773c5932181ba629abb]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/10/section/2) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2) (with [reg. 4(1)](https://www.legislation.gov.uk/ssi/2022/154/regulation/4/1))
+[^c-a18bbba4595c6773c5932181ba629abb]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/10/section/2) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2) (with [reg. 4(1)](https://www.legislation.gov.uk/ssi/2022/154/regulation/4/1))
 
-[^key-ead7c98e66a7950c6694ff287de705ef]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/10/section/3) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2) (with [reg. 4(1)](https://www.legislation.gov.uk/ssi/2022/154/regulation/4/1))
+[^c-ead7c98e66a7950c6694ff287de705ef]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/10/section/3) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2) (with [reg. 4(1)](https://www.legislation.gov.uk/ssi/2022/154/regulation/4/1))
 
-[^key-d567edc575b1bc7a19ea49f1b6ecf1da]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2021/10/section/4) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-d567edc575b1bc7a19ea49f1b6ecf1da]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2021/10/section/4) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-29bf6ce81a483556200dd66c46ccdf0e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2021/10/section/5) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-29bf6ce81a483556200dd66c46ccdf0e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2021/10/section/5) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-145990c9a5d15e0bb4e4df3a2a618520]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/10/section/6) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-145990c9a5d15e0bb4e4df3a2a618520]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/10/section/6) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-ac00962872df86dbcfb366d09da6c829]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/10/section/7) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-ac00962872df86dbcfb366d09da6c829]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/10/section/7) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-d108dec103294bf6d751d7cfd916c15c]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/10/section/8) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-d108dec103294bf6d751d7cfd916c15c]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/10/section/8) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-3a453cbbf847c7bf884545e7917055cf]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2021/10/section/9) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-3a453cbbf847c7bf884545e7917055cf]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2021/10/section/9) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-ed82a86ec7691d001336d2555ce2b4bd]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2021/10/section/10) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-ed82a86ec7691d001336d2555ce2b4bd]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2021/10/section/10) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-29f81fb4e61d4937e82af6cf1f4ed02d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2021/10/section/11) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-29f81fb4e61d4937e82af6cf1f4ed02d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2021/10/section/11) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-5752f358a839f82afe465efabbcd43fb]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2021/10/section/12) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-5752f358a839f82afe465efabbcd43fb]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2021/10/section/12) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-197471fc8875b9265f22ce9cf3b3ad1c]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2021/10/section/13) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-197471fc8875b9265f22ce9cf3b3ad1c]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2021/10/section/13) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-8024b4e7964732311c14e571024af36f]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2021/10/section/14) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-8024b4e7964732311c14e571024af36f]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2021/10/section/14) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-e9d021c290add18eeaa2f09dcc9854ae]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/10/section/15) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-e9d021c290add18eeaa2f09dcc9854ae]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/10/section/15) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-daf05ab68661199a1a554adbce031953]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2021/10/section/16) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-daf05ab68661199a1a554adbce031953]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2021/10/section/16) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-3eb6ee3846084dc33a99e2f8399287c2]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2021/10/section/17) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-3eb6ee3846084dc33a99e2f8399287c2]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2021/10/section/17) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-f4ad2ff372f6c1a493bc94103beeb900]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2021/10/section/18) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-f4ad2ff372f6c1a493bc94103beeb900]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2021/10/section/18) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-e510c149b29c824df753b782884aeb0e]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2021/10/section/19) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-e510c149b29c824df753b782884aeb0e]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2021/10/section/19) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-3b0f6f04294ba3e3461f271c674ab0eb]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2021/10/section/20) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-3b0f6f04294ba3e3461f271c674ab0eb]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2021/10/section/20) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-8a6d38663a15e234ad549b0575da4529]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2021/10/section/21) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-8a6d38663a15e234ad549b0575da4529]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2021/10/section/21) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-d840de48174ac4abcc27d722731934b9]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2021/10/section/22) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-d840de48174ac4abcc27d722731934b9]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2021/10/section/22) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-5126380bbcf33580e53731d7fa91b83a]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2021/10/section/23) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-5126380bbcf33580e53731d7fa91b83a]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2021/10/section/23) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-815d9f469bd00d1e153146cd6b59a5a7]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2021/10/section/24) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-815d9f469bd00d1e153146cd6b59a5a7]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2021/10/section/24) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-0076a9c9e91d7fb5776aa8f66577d22a]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2021/10/section/25) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-0076a9c9e91d7fb5776aa8f66577d22a]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2021/10/section/25) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-0685aa2a466a9f42b9b1d27255321f4b]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2021/10/section/26) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-0685aa2a466a9f42b9b1d27255321f4b]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2021/10/section/26) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-876c6948618cb4f75db0039f11d3c1a0]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2021/10/section/27) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-876c6948618cb4f75db0039f11d3c1a0]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2021/10/section/27) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-d7c425a56f3e470f06756ebd18ef3ae5]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2021/10/section/28) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-d7c425a56f3e470f06756ebd18ef3ae5]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2021/10/section/28) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-2f812d2dfa10a249f708e6cd425c3d6e]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2021/10/section/29) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-2f812d2dfa10a249f708e6cd425c3d6e]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2021/10/section/29) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-58a024d1a73e3111a5ca4bd0605671cf]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2021/10/section/30) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-58a024d1a73e3111a5ca4bd0605671cf]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2021/10/section/30) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-4b71deb3496b835b4a444ccd1e154dc1]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2021/10/section/31) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-4b71deb3496b835b4a444ccd1e154dc1]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2021/10/section/31) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-5012bef3e0264ee15ed27b8ed44dd6a7]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2021/10/section/32) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-5012bef3e0264ee15ed27b8ed44dd6a7]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2021/10/section/32) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
-[^key-e6c9feac1d5f569dd23b29e4b286014e]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2021/10/section/33) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/4/2))
+[^c-e6c9feac1d5f569dd23b29e4b286014e]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2021/10/section/33) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/4/2))
 
-[^key-5765f062ba50445d1ccf9ab44a007fd7]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2021/10/section/34) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/4/2))
+[^c-5765f062ba50445d1ccf9ab44a007fd7]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2021/10/section/34) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/4/2))
 
-[^key-3cece76e0d15183e739e7378f5949e52]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2021/10/section/35) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
+[^c-3cece76e0d15183e739e7378f5949e52]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2021/10/section/35) in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 
 [^M_I_4203ff97-adf7-4a1c-ed1c-c5ca77ff9598]: Commencement: Sch. para. 1 in force at 8.8.2022 by [S.S.I. 2022/154](https://www.legislation.gov.uk/ssi/2022/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/154/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/154/regulation/2)
 

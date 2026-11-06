@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Arrangements relating to uranium mining and certain restricted goods and technology[^key-b03407b86e37287c90fe0a26e7228800][^key-735cc5b555fb1be05d4a8cdb36353057]
+## 32. Arrangements relating to uranium mining and certain restricted goods and technology[^c-b03407b86e37287c90fe0a26e7228800][^c-735cc5b555fb1be05d4a8cdb36353057]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b03407b86e37287c90fe0a26e7228800]: Commencement: Reg. 32 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-b03407b86e37287c90fe0a26e7228800]: Commencement: Reg. 32 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-735cc5b555fb1be05d4a8cdb36353057]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2019/461/regulation/32) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-735cc5b555fb1be05d4a8cdb36353057]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2019/461/regulation/32) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

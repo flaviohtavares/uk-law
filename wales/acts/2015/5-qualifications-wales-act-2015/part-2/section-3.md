@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Principal aims of Qualifications Wales[^key-06a698cb9d6210dcc2de9855f26e4a82]
+## 3. Principal aims of Qualifications Wales[^c-06a698cb9d6210dcc2de9855f26e4a82]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06a698cb9d6210dcc2de9855f26e4a82]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2015/5/section/3) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-06a698cb9d6210dcc2de9855f26e4a82]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2015/5/section/3) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

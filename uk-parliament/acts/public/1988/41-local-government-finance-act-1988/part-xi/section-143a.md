@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 143A. Orders and regulations of the Welsh Ministers[^key-1fbdf39f2101e56ffac40ce4923191b5]
+## 143A. Orders and regulations of the Welsh Ministers[^c-1fbdf39f2101e56ffac40ce4923191b5]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fbdf39f2101e56ffac40ce4923191b5]: Textual amendment: [S. 143A](https://www.legislation.gov.uk/ukpga/1988/41/section/143A) inserted (E.W.) (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 14](https://www.legislation.gov.uk/asc/2024/6/section/14), [23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g)
+[^c-1fbdf39f2101e56ffac40ce4923191b5]: Textual amendment: [S. 143A](https://www.legislation.gov.uk/ukpga/1988/41/section/143A) inserted (E.W.) (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 14](https://www.legislation.gov.uk/asc/2024/6/section/14), [23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g)

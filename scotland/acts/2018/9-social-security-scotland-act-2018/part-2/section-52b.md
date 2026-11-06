@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52B. Applications for assistance[^key-43f4a119620dc6df03b51dfb27acd9e6]
+## 52B. Applications for assistance[^c-43f4a119620dc6df03b51dfb27acd9e6]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43f4a119620dc6df03b51dfb27acd9e6]: Textual amendment: Ss. 52A, 52B and cross-heading inserted (7.4.2020) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 17(1)](https://www.legislation.gov.uk/asp/2020/7/section/17/1), [sch. 7 para. 4](https://www.legislation.gov.uk/asp/2020/7/schedule/7/paragraph/4) (with [ss. 11-13](https://www.legislation.gov.uk/asp/2020/7/section/11))
+[^c-43f4a119620dc6df03b51dfb27acd9e6]: Textual amendment: Ss. 52A, 52B and cross-heading inserted (7.4.2020) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 17(1)](https://www.legislation.gov.uk/asp/2020/7/section/17/1), [sch. 7 para. 4](https://www.legislation.gov.uk/asp/2020/7/schedule/7/paragraph/4) (with [ss. 11-13](https://www.legislation.gov.uk/asp/2020/7/section/11))

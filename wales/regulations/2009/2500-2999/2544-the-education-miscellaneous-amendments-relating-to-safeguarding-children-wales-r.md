@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred on the Secretary of State by section 342(2), (4) and (5), section 569 of the Education Act 1996[^f00001] and by section 21(5) and (6), section 138(7) and (8) and section 72 of the School Standards and Framework Act 1998[^f00002], and in exercise of the powers conferred on the National Assembly for Wales by section 19(3), section 34(5), section 35(4) and (5), section 36(4) and (5), section 136(c), section 157(1), section 168(1) and (2), section 210(7) and section 214(1) and (2) of the Education Act 2002[^f00003], and now vested in them make the following Regulations:
 
-## 1. Title and commencement[^key-8f7eb9770d60ceea7bb3a4f6d9951e21]
+## 1. Title and commencement[^c-8f7eb9770d60ceea7bb3a4f6d9951e21]
 
 (1) The title of these Regulations is the Education (Miscellaneous Amendments relating to Safeguarding Children) (Wales) Regulations 2009 and they come into force on 12 October 2009.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Amendments to the Education (Special Schools) Regulations 1994[^key-56fae03db7c60c860f69c4673c74e2c3]
+## 2. Amendments to the Education (Special Schools) Regulations 1994[^c-56fae03db7c60c860f69c4673c74e2c3]
 
 (1) The Education (Special Schools) Regulations 1994[^f00004] are amended as follows.
 
@@ -68,7 +68,7 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 
   .
 
-## 3. Amendments to the Education (Foundation Body) (Wales) Regulations 2001[^key-80ddfde5e357a5d4dcc8bf9e9ba3e935]
+## 3. Amendments to the Education (Foundation Body) (Wales) Regulations 2001[^c-80ddfde5e357a5d4dcc8bf9e9ba3e935]
 
 (1) The Education (Foundation Body) (Wales) Regulations 2001[^f00007] are amended as follows.
 
@@ -76,15 +76,15 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 
 - (a) in sub-paragraph (1), after “restricted”, insert “, or is subject to a direction under section 142 of the Education Act 2002[^f00008], or is barred from regulated activity relating to children in accordance with section 3(2) of the Safeguarding Vulnerable Groups Act 2006[^f00009].”.
 
-## 4. Amendments to the Independent School Standards (Wales) Regulations 2003[^key-bd03454b006d926dee0cc6ca3b0606ac]
+## 4. Amendments to the Independent School Standards (Wales) Regulations 2003[^c-bd03454b006d926dee0cc6ca3b0606ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Independent Schools (Provision of Information) (Wales) Regulations 2003[^key-167589eac195f635218fe6f72f21a3a6]
+## 5. Amendments to the Independent Schools (Provision of Information) (Wales) Regulations 2003[^c-167589eac195f635218fe6f72f21a3a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the Government of Maintained Schools (Wales) Regulations 2005[^key-3d1b865995bc8e8ed7d53feac81f31a5]
+## 6. Amendments to the Government of Maintained Schools (Wales) Regulations 2005[^c-3d1b865995bc8e8ed7d53feac81f31a5]
 
 In Schedule 5 to the Government of Maintained Schools (Wales) Regulations 2005[^f00013]—
 
@@ -96,7 +96,7 @@ In Schedule 5 to the Government of Maintained Schools (Wales) Regulations 2005[^
   ; and
 - (b) in paragraph 12, substitute “113B” for “113”.
 
-## 7. Amendments to the Staffing of Maintained Schools (Wales) Regulations 2006[^key-44f16f67afabacb085259dbf6ab4953a]
+## 7. Amendments to the Staffing of Maintained Schools (Wales) Regulations 2006[^c-44f16f67afabacb085259dbf6ab4953a]
 
 (1) The Staffing of Maintained Schools (Wales) Regulations 2006[^f00016] are amended as follows.
 
@@ -130,7 +130,7 @@ In Schedule 5 to the Government of Maintained Schools (Wales) Regulations 2005[^
 - (a) in sub-paragraph (a)(ii) of paragraph (1), omit “accompanied by a children’s suitability statement”; and
 - (b) in paragraph (2), substitute “more” for “less”.
 
-## 8. Amendments to the Persons Providing Education at Further Education Institutions in Wales (Conditions) Regulations 2007[^key-72911184a10d694a29653682df1bfb7c]
+## 8. Amendments to the Persons Providing Education at Further Education Institutions in Wales (Conditions) Regulations 2007[^c-72911184a10d694a29653682df1bfb7c]
 
 (1) The Persons Providing Education at Further Education Institutions in Wales (Conditions) Regulations 2007[^f00018] are amended as follows.
 
@@ -188,9 +188,9 @@ From 12 October 2009, a certificate which states that someone is barred from wor
 
 [^f00003]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 157 has been amended by section 47(1) and (2) of the Childcare Act [2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21) and the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), section 169, Schedule 1, Part 1, paragraphs 13 and 16 and Schedule 2. Section 210 is amended by section 21(1), (3)(a) and (c)(i) and (ii) of the [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2). Further amendments are made by that Measure and by the Childcare Act [2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21) to section 210 but none are relevant to these Regulations. The functions of the National Assembly for Wales were transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-8f7eb9770d60ceea7bb3a4f6d9951e21]: Commencement: Reg. 1 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2544/regulation/1/1)
+[^c-8f7eb9770d60ceea7bb3a4f6d9951e21]: Commencement: Reg. 1 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2544/regulation/1/1)
 
-[^key-56fae03db7c60c860f69c4673c74e2c3]: Commencement: Reg. 2 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2544/regulation/1/1)
+[^c-56fae03db7c60c860f69c4673c74e2c3]: Commencement: Reg. 2 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2544/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1994/652](https://www.legislation.gov.uk/uksi/1994/652). These Regulations have been revoked so far as they apply to England but continue in force so far as they apply to Wales.
 
@@ -198,7 +198,7 @@ From 12 October 2009, a certificate which states that someone is barred from wor
 
 [^f00006]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
 
-[^key-80ddfde5e357a5d4dcc8bf9e9ba3e935]: Commencement: Reg. 3 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2544/regulation/1/1)
+[^c-80ddfde5e357a5d4dcc8bf9e9ba3e935]: Commencement: Reg. 3 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2544/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2001/2709 (W.228)](https://www.legislation.gov.uk/wsi/2001/2709).
 
@@ -206,11 +206,11 @@ From 12 October 2009, a certificate which states that someone is barred from wor
 
 [^f00009]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
 
-[^key-bd03454b006d926dee0cc6ca3b0606ac]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2009/2544/regulation/4) omitted (14.2.2024) by virtue of [The Independent Schools (Provision of Information) (Wales) Regulations 2024 (S.I. 2024/26)](https://www.legislation.gov.uk/wsi/2024/26), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/26/regulation/1/1), [11(a)](https://www.legislation.gov.uk/wsi/2024/26/regulation/11/a)
+[^c-bd03454b006d926dee0cc6ca3b0606ac]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2009/2544/regulation/4) omitted (14.2.2024) by virtue of [The Independent Schools (Provision of Information) (Wales) Regulations 2024 (S.I. 2024/26)](https://www.legislation.gov.uk/wsi/2024/26), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/26/regulation/1/1), [11(a)](https://www.legislation.gov.uk/wsi/2024/26/regulation/11/a)
 
-[^key-167589eac195f635218fe6f72f21a3a6]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2009/2544/regulation/5) omitted (14.2.2024) by virtue of [The Independent Schools (Provision of Information) (Wales) Regulations 2024 (S.I. 2024/26)](https://www.legislation.gov.uk/wsi/2024/26), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/26/regulation/1/1), [11(b)](https://www.legislation.gov.uk/wsi/2024/26/regulation/11/b)
+[^c-167589eac195f635218fe6f72f21a3a6]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2009/2544/regulation/5) omitted (14.2.2024) by virtue of [The Independent Schools (Provision of Information) (Wales) Regulations 2024 (S.I. 2024/26)](https://www.legislation.gov.uk/wsi/2024/26), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2024/26/regulation/1/1), [11(b)](https://www.legislation.gov.uk/wsi/2024/26/regulation/11/b)
 
-[^key-3d1b865995bc8e8ed7d53feac81f31a5]: Commencement: Reg. 6 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2544/regulation/1/1)
+[^c-3d1b865995bc8e8ed7d53feac81f31a5]: Commencement: Reg. 6 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2544/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 2005/2914 (W.211)](https://www.legislation.gov.uk/wsi/2005/2914), as amended by [S.I. 2005/3200 (W.236)](https://www.legislation.gov.uk/wsi/2005/3200), [S.I. 2006/873 (W.81)](https://www.legislation.gov.uk/wsi/2006/873), and [S.I. 2007/944 (W.80)](https://www.legislation.gov.uk/wsi/2007/944).
 
@@ -218,13 +218,13 @@ From 12 October 2009, a certificate which states that someone is barred from wor
 
 [^f00015]: Footnote: Section 167A was inserted by section 169 of the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), but it is not yet in force. It is intended that section 169 of the Education and Inspections Act 2006 will come into force on 12 October 2009.
 
-[^key-44f16f67afabacb085259dbf6ab4953a]: Commencement: Reg. 7 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2544/regulation/1/1)
+[^c-44f16f67afabacb085259dbf6ab4953a]: Commencement: Reg. 7 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2544/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 2006/873 (W.81)](https://www.legislation.gov.uk/wsi/2006/873), as amended by [S.I. 2007/944 (W.80)](https://www.legislation.gov.uk/wsi/2007/944).
 
 [^f00017]: Footnote: [2006. c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
-[^key-72911184a10d694a29653682df1bfb7c]: Commencement: Reg. 8 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2544/regulation/1/1)
+[^c-72911184a10d694a29653682df1bfb7c]: Commencement: Reg. 8 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2544/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2007/2220 (W.175)](https://www.legislation.gov.uk/wsi/2007/2220).
 

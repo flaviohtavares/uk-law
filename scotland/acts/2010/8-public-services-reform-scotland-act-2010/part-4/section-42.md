@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Transfer of staff etc.[^key-9ae2e8a98ddc7113cbd2854f57e40817]
+## 42. Transfer of staff etc.[^c-9ae2e8a98ddc7113cbd2854f57e40817]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ae2e8a98ddc7113cbd2854f57e40817]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2010/8/section/42) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
+[^c-9ae2e8a98ddc7113cbd2854f57e40817]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2010/8/section/42) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)

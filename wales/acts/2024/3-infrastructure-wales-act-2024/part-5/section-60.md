@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Grant or refusal of infrastructure consent[^key-b09358e8fe6d4b2aa88e8a89058ddd04][^key-8710fe4727d808db1d0ee6ac4b1c68e2]
+## 60. Grant or refusal of infrastructure consent[^c-b09358e8fe6d4b2aa88e8a89058ddd04][^c-8710fe4727d808db1d0ee6ac4b1c68e2]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b09358e8fe6d4b2aa88e8a89058ddd04]: Commencement: S. 60 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-b09358e8fe6d4b2aa88e8a89058ddd04]: Commencement: S. 60 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-8710fe4727d808db1d0ee6ac4b1c68e2]: Commencement: [S. 60](https://www.legislation.gov.uk/asc/2024/3/section/60) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/698/article/3/c)
+[^c-8710fe4727d808db1d0ee6ac4b1c68e2]: Commencement: [S. 60](https://www.legislation.gov.uk/asc/2024/3/section/60) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/698/article/3/c)

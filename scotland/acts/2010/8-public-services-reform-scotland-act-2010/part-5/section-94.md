@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Guarantees[^key-8eb667207ec4fb602552c6dbfe541af8][^key-7231a633b7d304665e4ee5c4f1098532]
+## 94. Guarantees[^c-8eb667207ec4fb602552c6dbfe541af8][^c-7231a633b7d304665e4ee5c4f1098532]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8eb667207ec4fb602552c6dbfe541af8]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2010/8/section/94) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-8eb667207ec4fb602552c6dbfe541af8]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2010/8/section/94) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-7231a633b7d304665e4ee5c4f1098532]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2010/8/section/94) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-7231a633b7d304665e4ee5c4f1098532]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2010/8/section/94) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

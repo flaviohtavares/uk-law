@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Deductions from debtor's earnings and other income[^key-e545e5ad399ed89c42db0e40fc93b5bd]
+## 94. Deductions from debtor's earnings and other income[^c-e545e5ad399ed89c42db0e40fc93b5bd]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e545e5ad399ed89c42db0e40fc93b5bd]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2016/21/section/94) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-e545e5ad399ed89c42db0e40fc93b5bd]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2016/21/section/94) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

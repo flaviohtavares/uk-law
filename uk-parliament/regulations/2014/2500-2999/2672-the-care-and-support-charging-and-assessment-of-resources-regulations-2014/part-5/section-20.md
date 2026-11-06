@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Calculation of capital in the United Kingdom[^key-c5f5dcb578453a4d148018fca83b9a7b]
+## 20. Calculation of capital in the United Kingdom[^c-c5f5dcb578453a4d148018fca83b9a7b]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Capital which the adult possesses in the United Kingdom is to be calculated at i
 
 ## Annotations
 
-[^key-c5f5dcb578453a4d148018fca83b9a7b]: Commencement: Reg. 20 in force at 1.4.2015 in accordance with reg. 1
+[^c-c5f5dcb578453a4d148018fca83b9a7b]: Commencement: Reg. 20 in force at 1.4.2015 in accordance with reg. 1

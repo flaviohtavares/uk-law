@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Insertion of article 39B[^key-64872fcf3e2a33d7ae0b2f472e9afeb3]
+## 66. Insertion of article 39B[^c-64872fcf3e2a33d7ae0b2f472e9afeb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ After article 39A, insert—
 
 ## Annotations
 
-[^key-64872fcf3e2a33d7ae0b2f472e9afeb3]: Commencement: Reg. 66 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-64872fcf3e2a33d7ae0b2f472e9afeb3]: Commencement: Reg. 66 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

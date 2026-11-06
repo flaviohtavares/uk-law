@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Harbourmaster may prevent sailing of vessels[^key-4798f3b4b84dfe1795104bf088253a7b]
+## 37. Harbourmaster may prevent sailing of vessels[^c-4798f3b4b84dfe1795104bf088253a7b]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ The harbourmaster may prevent the removal or sailing from the harbour of any ves
 
 ## Annotations
 
-[^key-4798f3b4b84dfe1795104bf088253a7b]: Commencement: Art. 37 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-4798f3b4b84dfe1795104bf088253a7b]: Commencement: Art. 37 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

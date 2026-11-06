@@ -22,7 +22,7 @@ summary: ''
 
 Article 6
 
-**1.**[^key-6b6bba221709d0a1b3c8b4f85c63cda5] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development and so far as the provisions still in force are incompatible with the powers contained within this Order—
+**1.**[^c-6b6bba221709d0a1b3c8b4f85c63cda5] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development and so far as the provisions still in force are incompatible with the powers contained within this Order—
 
 - (a) Bedford Level Act 1663[^f00049];
 - (b) Hundred Foot River and Ouse: Bedford Level Act 1756[^f00050];
@@ -47,7 +47,7 @@ Article 6
 
 ## Annotations
 
-[^key-6b6bba221709d0a1b3c8b4f85c63cda5]: Commencement: Sch. 3 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-6b6bba221709d0a1b3c8b4f85c63cda5]: Commencement: Sch. 3 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
 [^f00049]: Footnote: [1663 c. 17](https://www.legislation.gov.uk/ukpga/1663/17). Section 31 of the River Nene and Wisbech River 1836 (c. xcii). Section 38 of the Nene and Wisbech Rivers Improvement Act 1848 (c. cxliii). Sections 91 and 150 of the Repair Act 1837 (c. lxxxi). Section 170 of the Cottenham, Rampton and Willingham Drainage Act 1842 (c. xxiii). Section 109 of the Cottenham Inclosure Act [1842 (c. 3)](https://www.legislation.gov.uk/ukpga/1842/3). Section 228 of the Willingham Inclosure and Drainage Act 1846 (c. ix). Section 90 of the Whittlesea St Mary and Whittlesea St. Andrew Inclosures Act [1840 (c. 6)](https://www.legislation.gov.uk/ukpga/1840/6). Section 83 of the Wicken Inclosure Act [1840 (c. 14)](https://www.legislation.gov.uk/ukpga/1840/14). Section 41 of the Wimblington and Upwell Drainage and Inclosure Act 1810 (c. lxxviii). Section 65 of the Stilton Drainage Act 1810 (c. lxxx). Section 29 of the Ramsey Inclosure Act 1818 (c. xlix). Section 24 of the Lakenheath Allotments Act [1818 (c. 25)](https://www.legislation.gov.uk/ukpga/1818/25). Section 76 of the Sutton (Isle of Ely) Inclosure Act [1838 (c. 2)](https://www.legislation.gov.uk/ukpga/1838/2). Section 91 of the Swavesey Inclosure Act [1838 (c. 6)](https://www.legislation.gov.uk/ukpga/1838/6). Section 77 of the Rampton Inclosure Act [1839 (c. 15)](https://www.legislation.gov.uk/ukpga/1839/15). Section 114 of the Norfolk Estuary Act 1846 (c. ccclxxxviii).
 

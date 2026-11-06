@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 173. Determination of appeal by appointed person[^key-b34f7d37741c6b202d138c340719ca53][^key-4dfda1d13e37f6100031be205658d47a]
+## 173. Determination of appeal by appointed person[^c-b34f7d37741c6b202d138c340719ca53][^c-4dfda1d13e37f6100031be205658d47a]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) it is an appeal of a description specified in regulations made by the Welsh Ministers, or
 - (b) the Welsh Ministers direct that the appeal is to be determined by them instead of by an appointed person.
 
-(4)[^key-04627894579693de91a30b8ed27ade3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-04627894579693de91a30b8ed27ade3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where an appointed person determines an appeal, the appointed person’s decision is to be treated as the decision of the Welsh Ministers.
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b34f7d37741c6b202d138c340719ca53]: Commencement: S. 173 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-b34f7d37741c6b202d138c340719ca53]: Commencement: S. 173 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-4dfda1d13e37f6100031be205658d47a]: Commencement: [S. 173](https://www.legislation.gov.uk/asc/2023/3/section/173) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-4dfda1d13e37f6100031be205658d47a]: Commencement: [S. 173](https://www.legislation.gov.uk/asc/2023/3/section/173) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
 
-[^key-04627894579693de91a30b8ed27ade3c]: Textual amendment: [S. 173(4)](https://www.legislation.gov.uk/asc/2023/3/section/173/4) omitted (28.4.2026) by virtue of [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 3 para. 60](https://www.legislation.gov.uk/asc/2026/7/schedule/3/paragraph/60) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1))
+[^c-04627894579693de91a30b8ed27ade3c]: Textual amendment: [S. 173(4)](https://www.legislation.gov.uk/asc/2023/3/section/173/4) omitted (28.4.2026) by virtue of [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 3 para. 60](https://www.legislation.gov.uk/asc/2026/7/schedule/3/paragraph/60) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1))

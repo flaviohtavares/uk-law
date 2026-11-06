@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Appointment of inquiry panel[^key-bc3e4e0fd75e06ae3049d93d4e5ac73d]
+## 4. Appointment of inquiry panel[^c-bc3e4e0fd75e06ae3049d93d4e5ac73d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc3e4e0fd75e06ae3049d93d4e5ac73d]: Modification: S. 4 modified (E.W.N.I) (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [3](https://www.legislation.gov.uk/uksi/2016/1142/article/3); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), reg. 2
+[^c-bc3e4e0fd75e06ae3049d93d4e5ac73d]: Modification: S. 4 modified (E.W.N.I) (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [3](https://www.legislation.gov.uk/uksi/2016/1142/article/3); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), reg. 2

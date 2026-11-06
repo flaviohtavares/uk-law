@@ -39,10 +39,10 @@ where the disposition is of a description specified by rules.
 
 (4) Section 27(1) does not apply to a disposition to which this section applies.
 
-(5) Before making rules under this section the Secretary of State[^key-5a61699cf3ba671de0b8d8829253786c] must consult such persons as he considers appropriate.
+(5) Before making rules under this section the Secretary of State[^c-5a61699cf3ba671de0b8d8829253786c] must consult such persons as he considers appropriate.
 
 (6) In this section, “**disposition**”, in relation to a registered charge, includes postponement.
 
 ## Annotations
 
-[^key-5a61699cf3ba671de0b8d8829253786c]: Textual amendment: Words in [s. 93(5)](https://www.legislation.gov.uk/ukpga/2002/9/section/93/5) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
+[^c-5a61699cf3ba671de0b8d8829253786c]: Textual amendment: Words in [s. 93(5)](https://www.legislation.gov.uk/ukpga/2002/9/section/93/5) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)

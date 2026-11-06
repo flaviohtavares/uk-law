@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Education about electoral and democratic systems[^key-5464c0a5a1c8054555a37d10a6da797c][^key-5e66663c3bfef5158e9fb846c06847ac]
+## 64. Education about electoral and democratic systems[^c-5464c0a5a1c8054555a37d10a6da797c][^c-5e66663c3bfef5158e9fb846c06847ac]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5464c0a5a1c8054555a37d10a6da797c]: Commencement: S. 64 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-5464c0a5a1c8054555a37d10a6da797c]: Commencement: S. 64 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-5e66663c3bfef5158e9fb846c06847ac]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2025/4/section/64) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-5e66663c3bfef5158e9fb846c06847ac]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2025/4/section/64) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

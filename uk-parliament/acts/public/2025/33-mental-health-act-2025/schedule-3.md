@@ -24,9 +24,9 @@ summary: ''
 
 section 40
 
-**1.**[^key-ee293a4a256a4184798c528394f37a18] The [Mental Health Act 1983](https://www.legislation.gov.uk/ukpga/1983/20/contents) is amended as follows.
+**1.**[^c-ee293a4a256a4184798c528394f37a18] The [Mental Health Act 1983](https://www.legislation.gov.uk/ukpga/1983/20/contents) is amended as follows.
 
-**2.**[^key-8a6515f6491c0d4fd17cb969bad3fa3b] (1) [Section 118](https://www.legislation.gov.uk/ukpga/1983/20/section/118) (code of practice) is amended as follows.
+**2.**[^c-8a6515f6491c0d4fd17cb969bad3fa3b] (1) [Section 118](https://www.legislation.gov.uk/ukpga/1983/20/section/118) (code of practice) is amended as follows.
 
 (2) In [subsection (1)](https://www.legislation.gov.uk/ukpga/1983/20/section/118), after [paragraph (c)](https://www.legislation.gov.uk/ukpga/1983/20/section/118) (as inserted by Schedule 2 to this Act) insert—
 
@@ -36,7 +36,7 @@ section 40
 
 (3) Omit [subsection (1A)](https://www.legislation.gov.uk/ukpga/1983/20/section/118).
 
-**3.**[^key-9ee908cd0ed6c5e3c7a965feb81dcb51] (1) [Section 130A](https://www.legislation.gov.uk/ukpga/1983/20/section/130A) (independent mental health advocates) is amended as follows.
+**3.**[^c-9ee908cd0ed6c5e3c7a965feb81dcb51] (1) [Section 130A](https://www.legislation.gov.uk/ukpga/1983/20/section/130A) (independent mental health advocates) is amended as follows.
 
 (2) In [subsection (1)](https://www.legislation.gov.uk/ukpga/1983/20/section/130A), for “qualifying patients” substitute “English qualifying patients”.
 
@@ -47,7 +47,7 @@ section 40
 > - (a) an English qualifying compulsory patient (see section 130C), or
 > - (b) an English qualifying informal patient (see section 130CA).
 
-**4.**[^key-a1f37fa4861d7318b988a76e76f03b93] (1) [Section 130B](https://www.legislation.gov.uk/ukpga/1983/20/section/130B) (arrangements under section 130A) is amended as follows.
+**4.**[^c-a1f37fa4861d7318b988a76e76f03b93] (1) [Section 130B](https://www.legislation.gov.uk/ukpga/1983/20/section/130B) (arrangements under section 130A) is amended as follows.
 
 (2) In [subsection (1)](https://www.legislation.gov.uk/ukpga/1983/20/section/130B), for “a qualifying patient”, in both places it occurs, substitute “an English qualifying compulsory patient”.
 
@@ -100,7 +100,7 @@ section 40
 
 (8) In [subsection (7)](https://www.legislation.gov.uk/ukpga/1983/20/section/130B) omit [paragraph (a)](https://www.legislation.gov.uk/ukpga/1983/20/section/130B).
 
-**5.**[^key-fb109368c359eada554bd559553a7dcd] (1) [Section 130C](https://www.legislation.gov.uk/ukpga/1983/20/section/130C) (section 130A: supplemental) is amended as follows.
+**5.**[^c-fb109368c359eada554bd559553a7dcd] (1) [Section 130C](https://www.legislation.gov.uk/ukpga/1983/20/section/130C) (section 130A: supplemental) is amended as follows.
 
 (2) For the heading, substitute ““English qualifying compulsory patients””.
 
@@ -117,7 +117,7 @@ section 40
 
 (7) Omit [subsections (4A)](https://www.legislation.gov.uk/ukpga/1983/20/section/130C) and [(4B)](https://www.legislation.gov.uk/ukpga/1983/20/section/130C).
 
-**6.**[^key-341b732ff6acc50a16d51b8d922d8eca] After [section 130C](https://www.legislation.gov.uk/ukpga/1983/20/section/130C) insert—
+**6.**[^c-341b732ff6acc50a16d51b8d922d8eca] After [section 130C](https://www.legislation.gov.uk/ukpga/1983/20/section/130C) insert—
 
 > **130CA. “English qualifying informal patients”**
 >
@@ -161,7 +161,7 @@ section 40
 >
 > (4) In this section “**the required information**”, in relation to a patient, means such information relating to the patient as may be prescribed in regulations made by the Secretary of State.
 
-**7.**[^key-03b1c1998bf6020ce8b5196ee56a6bd3] For [section 130D](https://www.legislation.gov.uk/ukpga/1983/20/section/130D) substitute—
+**7.**[^c-03b1c1998bf6020ce8b5196ee56a6bd3] For [section 130D](https://www.legislation.gov.uk/ukpga/1983/20/section/130D) substitute—
 
 > **130DA. Duty to give information to English qualifying informal patients**
 >
@@ -180,7 +180,7 @@ section 40
 >
 > (6) The steps to be taken under subsection (5) must be taken when the information concerned is given to the patient or within a reasonable time thereafter.
 
-**8.**[^key-daab9e5283f2f305cbc3e55b9c2ebbc5] In [section 130J](https://www.legislation.gov.uk/ukpga/1983/20/section/130J) (Welsh qualifying informal patients), in [subsection (2)](https://www.legislation.gov.uk/ukpga/1983/20/section/130J), for [paragraph (c)](https://www.legislation.gov.uk/ukpga/1983/20/section/130J) substitute—
+**8.**[^c-daab9e5283f2f305cbc3e55b9c2ebbc5] In [section 130J](https://www.legislation.gov.uk/ukpga/1983/20/section/130J) (Welsh qualifying informal patients), in [subsection (2)](https://www.legislation.gov.uk/ukpga/1983/20/section/130J), for [paragraph (c)](https://www.legislation.gov.uk/ukpga/1983/20/section/130J) substitute—
 
 > - (c) the patient is not liable to be detained under this Act or any other legislation or by virtue of a court order
 
@@ -188,18 +188,18 @@ section 40
 
 ## Annotations
 
-[^key-ee293a4a256a4184798c528394f37a18]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-ee293a4a256a4184798c528394f37a18]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-8a6515f6491c0d4fd17cb969bad3fa3b]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-8a6515f6491c0d4fd17cb969bad3fa3b]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-9ee908cd0ed6c5e3c7a965feb81dcb51]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-9ee908cd0ed6c5e3c7a965feb81dcb51]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-a1f37fa4861d7318b988a76e76f03b93]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-a1f37fa4861d7318b988a76e76f03b93]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-fb109368c359eada554bd559553a7dcd]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-fb109368c359eada554bd559553a7dcd]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-341b732ff6acc50a16d51b8d922d8eca]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-341b732ff6acc50a16d51b8d922d8eca]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-03b1c1998bf6020ce8b5196ee56a6bd3]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-03b1c1998bf6020ce8b5196ee56a6bd3]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-daab9e5283f2f305cbc3e55b9c2ebbc5]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-daab9e5283f2f305cbc3e55b9c2ebbc5]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

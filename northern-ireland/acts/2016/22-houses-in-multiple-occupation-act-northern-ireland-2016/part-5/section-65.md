@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Fixed penalty: effect of notice[^key-05fa9fd847e315c851714e157ba811f9]
+## 65. Fixed penalty: effect of notice[^c-05fa9fd847e315c851714e157ba811f9]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-05fa9fd847e315c851714e157ba811f9]: Commencement: [S. 65](https://www.legislation.gov.uk/nia/2016/22/section/65) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-05fa9fd847e315c851714e157ba811f9]: Commencement: [S. 65](https://www.legislation.gov.uk/nia/2016/22/section/65) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

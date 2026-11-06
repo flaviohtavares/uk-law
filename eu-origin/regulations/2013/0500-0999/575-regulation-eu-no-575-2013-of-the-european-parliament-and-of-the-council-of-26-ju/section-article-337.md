@@ -24,7 +24,7 @@ summary: ''
 
 2. When determining risk weights for the purposes of paragraph 1, estimates of PD and LGD may be determined based on estimates that are derived from an internal incremental default and migration risk model (IRC model) of an institution that has been granted permission to use an internal model for specific risk of debt instruments. The latter alternative may be used only subject to permission by the competent authorities, which shall be granted if those estimates meet the quantitative requirements for the IRB Approach set out in Chapter 3 of Title II.
 
-[^key-0671bf386d33a315ca88c70226ab94f8]...
+[^c-0671bf386d33a315ca88c70226ab94f8]...
 
 3. For securitisation positions that are subject to an additional risk weight in accordance with Article 247(6), 8 % of the total risk weight shall be applied.
 
@@ -40,4 +40,4 @@ Where an originator institution of a synthetic securitisation does not meet the 
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-0671bf386d33a315ca88c70226ab94f8]: Textual amendment: Words in [Art. 337(2)](https://www.legislation.gov.uk/eur/2013/575/article/337/2) omitted (31.12.2020) by virtue of [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [53](https://www.legislation.gov.uk/uksi/2019/660/regulation/53) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0671bf386d33a315ca88c70226ab94f8]: Textual amendment: Words in [Art. 337(2)](https://www.legislation.gov.uk/eur/2013/575/article/337/2) omitted (31.12.2020) by virtue of [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [53](https://www.legislation.gov.uk/uksi/2019/660/regulation/53) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

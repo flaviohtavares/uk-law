@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. No bankrupt or insolvent to be a commissioner.[^key-18b4a554e391dd466877978394f58439]
+## 8. No bankrupt or insolvent to be a commissioner.[^c-18b4a554e391dd466877978394f58439]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ No bankrupt or insolvent, or person not qualified as required by the special Act
 
 ## Annotations
 
-[^key-18b4a554e391dd466877978394f58439]: Modification: [Ss. 6-10](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/6) incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
+[^c-18b4a554e391dd466877978394f58439]: Modification: [Ss. 6-10](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/6) incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)

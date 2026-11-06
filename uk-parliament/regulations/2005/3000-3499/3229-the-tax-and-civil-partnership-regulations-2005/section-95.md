@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95.[^key-711db1a075a50764603aac4c88b7666a]
+## 95.[^c-711db1a075a50764603aac4c88b7666a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 694 (trustees chargeable to income tax in certain cases at higher rat
 
 ## Annotations
 
-[^key-711db1a075a50764603aac4c88b7666a]: Commencement: Reg. 95 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-711db1a075a50764603aac4c88b7666a]: Commencement: Reg. 95 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00024]: Footnote: Subsection (3) was amended by section 882 of, and paragraph 283 of Schedule 1 to, the Income Tax (Trading and Other Income) Act 2005.

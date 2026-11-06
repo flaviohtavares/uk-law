@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 183. Responsible medical officer’s report and recommendation following review of compulsion order and restriction order[^key-a342ce782b35f120fa20e6d9426a47bc][^key-d3df015e59bba16309cece5681dd3776]
+## 183. Responsible medical officer’s report and recommendation following review of compulsion order and restriction order[^c-a342ce782b35f120fa20e6d9426a47bc][^c-d3df015e59bba16309cece5681dd3776]
 
 *Extent: S*
 
@@ -38,7 +38,7 @@ summary: ''
 - (a) is satisfied that the patient has a mental disorder; but
 - (b) is not satisfied—
   - (i) that, as a result of the patient’s mental disorder, it is necessary, in order to protect any other person from serious harm, for the patient to be detained in hospital, whether or not for medical treatment; and
-  - (ii)[^key-294b64c7c01151e433826b5ec1d6a154] either—
+  - (ii)[^c-294b64c7c01151e433826b5ec1d6a154] either—
     - (A) that the conditions mentioned in paragraphs (b) and (c) of section 182(4) of this Act continue to apply in respect of the patient; or
     - (B) that it continues to be necessary for the patient to be subject to the compulsion order,
 
@@ -73,8 +73,8 @@ the responsible medical officer shall include in the report a recommendation tha
 
 ## Annotations
 
-[^key-a342ce782b35f120fa20e6d9426a47bc]: Commencement: S. 183 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-a342ce782b35f120fa20e6d9426a47bc]: Commencement: S. 183 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-d3df015e59bba16309cece5681dd3776]: Modification: S. 183 modified (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [39](https://www.legislation.gov.uk/ssi/2005/467/regulation/39) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-d3df015e59bba16309cece5681dd3776]: Modification: S. 183 modified (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [39](https://www.legislation.gov.uk/ssi/2005/467/regulation/39) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
 
-[^key-294b64c7c01151e433826b5ec1d6a154]: Textual amendment: S. 183(5)(b)(ii) substituted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 69(1)](https://www.legislation.gov.uk/asp/2007/10/section/69/1), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)
+[^c-294b64c7c01151e433826b5ec1d6a154]: Textual amendment: S. 183(5)(b)(ii) substituted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 69(1)](https://www.legislation.gov.uk/asp/2007/10/section/69/1), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)

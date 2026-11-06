@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Assisting Principal Reporter[^key-f7db9c05d74cf2eaec72b28f00497358]
+## 20. Assisting Principal Reporter[^c-f7db9c05d74cf2eaec72b28f00497358]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ SCRA must—
 
 ## Annotations
 
-[^key-f7db9c05d74cf2eaec72b28f00497358]: Commencement: S. 20 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-f7db9c05d74cf2eaec72b28f00497358]: Commencement: S. 20 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

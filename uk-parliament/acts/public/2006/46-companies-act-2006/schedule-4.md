@@ -50,9 +50,9 @@ Section 1144(1)
 - (b) to the company's registered office;
 - (c) to an address to which any provision of the Companies Acts authorises the document or information to be sent or supplied.
 
-### PART 2A — Communications in electronic form from the registrar or the Secretary of State[^key-9a2289b98570220ac7f042377e1f9eb4]
+### PART 2A — Communications in electronic form from the registrar or the Secretary of State[^c-9a2289b98570220ac7f042377e1f9eb4]
 
-**4A.**[^key-6820116348e20bce50802844c7814f86] (1) A document or information is validly sent or supplied to a company by the registrar or the Secretary of State if it is sent or supplied in electronic form in accordance with sub-paragraph (2) or (3).
+**4A.**[^c-6820116348e20bce50802844c7814f86] (1) A document or information is validly sent or supplied to a company by the registrar or the Secretary of State if it is sent or supplied in electronic form in accordance with sub-paragraph (2) or (3).
 
 (2) Where the document or information is sent or supplied by electronic means it may only be sent—
 
@@ -61,11 +61,11 @@ Section 1144(1)
 
 (3) Where the document or information is sent or supplied in electronic form by hand or by post, it must be sent or supplied to an address to which it could be validly sent if it were in hard copy form.
 
-### Part 3 — Communications in electronic form in other cases[^key-3be3e1346d19b26a64e21a74cbf12bc0]
+### Part 3 — Communications in electronic form in other cases[^c-3be3e1346d19b26a64e21a74cbf12bc0]
 
 #### Introduction
 
-**5.**[^c18923221] A document or information is validly sent or supplied to a company by a person other than the registrar or the Secretary of State[^key-197a34a8e8d9aa9f86bee53963b7fa27] if it is sent or supplied in electronic form in accordance with this Part of this Schedule.
+**5.**[^c18923221] A document or information is validly sent or supplied to a company by a person other than the registrar or the Secretary of State[^c-197a34a8e8d9aa9f86bee53963b7fa27] if it is sent or supplied in electronic form in accordance with this Part of this Schedule.
 
 #### Conditions for use of communications in electronic form
 
@@ -97,15 +97,15 @@ Section 1144(1)
 
 [^c18923141]: Commencement: Sch. 4 para. 4 wholly in force at 20.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/1/e) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1)) (with arts. 6, 8, Sch. 5)
 
-[^key-9a2289b98570220ac7f042377e1f9eb4]: Textual amendment: [Sch. 4 Pt. 2A](https://www.legislation.gov.uk/ukpga/2006/46/schedule/4/part/2A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 29(9)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/29/9/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/w)
+[^c-9a2289b98570220ac7f042377e1f9eb4]: Textual amendment: [Sch. 4 Pt. 2A](https://www.legislation.gov.uk/ukpga/2006/46/schedule/4/part/2A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 29(9)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/29/9/a), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/w)
 
-[^key-6820116348e20bce50802844c7814f86]: Modification: [Sch. 4 para. 4A](https://www.legislation.gov.uk/ukpga/2006/46/schedule/4/paragraph/4A) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 75A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/75A) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2024/234/regulation/45); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-6820116348e20bce50802844c7814f86]: Modification: [Sch. 4 para. 4A](https://www.legislation.gov.uk/ukpga/2006/46/schedule/4/paragraph/4A) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 75A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/75A) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2024/234/regulation/45); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
-[^key-3be3e1346d19b26a64e21a74cbf12bc0]: Textual amendment: Words in [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/46/schedule/4/part/3) heading inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 29(9)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/29/9/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/w)
+[^c-3be3e1346d19b26a64e21a74cbf12bc0]: Textual amendment: Words in [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/46/schedule/4/part/3) heading inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 29(9)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/29/9/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/w)
 
 [^c18923221]: Commencement: Sch. 4 para. 5 wholly in force at 20.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/1/e) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1)) (with arts. 6, 8, Sch. 5)
 
-[^key-197a34a8e8d9aa9f86bee53963b7fa27]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2006/46/schedule/4/paragraph/5) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 29(9)(c)](https://www.legislation.gov.uk/ukpga/2023/56/section/29/9/c), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/w)
+[^c-197a34a8e8d9aa9f86bee53963b7fa27]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2006/46/schedule/4/paragraph/5) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 29(9)(c)](https://www.legislation.gov.uk/ukpga/2023/56/section/29/9/c), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/w)
 
 [^c18923311]: Commencement: Sch. 4 para. 6 wholly in force at 20.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/1/e) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1)) (with arts. 6, 8, Sch. 5)
 

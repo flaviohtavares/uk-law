@@ -30,10 +30,10 @@ summary: ''
 (3) This section does not affect any provisions of the Corporation Tax Acts—
 
 - (a) relating to the calculation of the profits of—
-  - (i) Lloyd's underwriters, [^key-6a2fa41cc5a6d30b646cc0a1ed569021]...
-  - (ii)[^key-6a2fa41cc5a6d30b646cc0a1ed569021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) Lloyd's underwriters, [^c-6a2fa41cc5a6d30b646cc0a1ed569021]...
+  - (ii)[^c-6a2fa41cc5a6d30b646cc0a1ed569021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) otherwise laying down special rules for the calculation of the profits of a particular description of business.
 
 ## Annotations
 
-[^key-6a2fa41cc5a6d30b646cc0a1ed569021]: Textual amendment: S. 46(3)(a)(ii) and the word immediately preceding it omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 142](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/142)
+[^c-6a2fa41cc5a6d30b646cc0a1ed569021]: Textual amendment: S. 46(3)(a)(ii) and the word immediately preceding it omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 142](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/142)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Approval by the schools forum or the Welsh Ministers of proposals to revise schemes[^key-8600411615e2e61bf4039dbea4d1387f]
+## 28. Approval by the schools forum or the Welsh Ministers of proposals to revise schemes[^c-8600411615e2e61bf4039dbea4d1387f]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8600411615e2e61bf4039dbea4d1387f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2010/824/regulation/28) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-8600411615e2e61bf4039dbea4d1387f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2010/824/regulation/28) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

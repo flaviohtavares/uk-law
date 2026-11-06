@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 404. Listed buildings and features of special architectural or historical interest[^key-da279d3c3dfaf41a3936ad0b45391496]
+## 404. Listed buildings and features of special architectural or historical interest[^c-da279d3c3dfaf41a3936ad0b45391496]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da279d3c3dfaf41a3936ad0b45391496]: Commencement: S. 404 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-da279d3c3dfaf41a3936ad0b45391496]: Commencement: S. 404 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

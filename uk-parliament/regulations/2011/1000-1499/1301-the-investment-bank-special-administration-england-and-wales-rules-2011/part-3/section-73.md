@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Content of notice for meetings[^key-17e141aa1d4591c7fe86c2eccb143d77]
+## 73. Content of notice for meetings[^c-17e141aa1d4591c7fe86c2eccb143d77]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ unless the court orders that it be given by advertisement only in accordance wit
 
 ## Annotations
 
-[^key-17e141aa1d4591c7fe86c2eccb143d77]: Commencement: [Rule 73](https://www.legislation.gov.uk/uksi/2011/1301/rule/73) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-17e141aa1d4591c7fe86c2eccb143d77]: Commencement: [Rule 73](https://www.legislation.gov.uk/uksi/2011/1301/rule/73) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Reviews: general[^key-dc0c4e053b20dcbfc4d14c19d7d8fd2e][^key-a37ad8732835a9a3b04a0cb723dd83aa]
+## 63. Reviews: general[^c-dc0c4e053b20dcbfc4d14c19d7d8fd2e][^c-a37ad8732835a9a3b04a0cb723dd83aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc0c4e053b20dcbfc4d14c19d7d8fd2e]: Commencement: S. 63 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-dc0c4e053b20dcbfc4d14c19d7d8fd2e]: Commencement: S. 63 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-a37ad8732835a9a3b04a0cb723dd83aa]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2023/32/section/63) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/c)
+[^c-a37ad8732835a9a3b04a0cb723dd83aa]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2023/32/section/63) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/c)

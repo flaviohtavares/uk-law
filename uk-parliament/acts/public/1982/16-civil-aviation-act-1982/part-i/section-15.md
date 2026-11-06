@@ -28,7 +28,7 @@ summary: ''
 
 (2)[^c2535091]
 
-- (a) The accounts kept and the statement prepared in pursuance of subsection (1) above shall be audited by auditors appointed annually by the Secretary of State after consultation with the CAA ; and a person\[ [^c2535101] shall not be so appointed unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^key-3116b3481b3ec2115bb4cab6c65429ea] \] —
+- (a) The accounts kept and the statement prepared in pursuance of subsection (1) above shall be audited by auditors appointed annually by the Secretary of State after consultation with the CAA ; and a person\[ [^c2535101] shall not be so appointed unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^c-3116b3481b3ec2115bb4cab6c65429ea] \] —
   - the Institute of Chartered Accountants in England and Wales;
   - the Institute of Chartered Accountants of Scotland;
   - the Association of Certified Accountants;
@@ -55,6 +55,6 @@ and the Comptroller and Auditor General shall examine, certify and report on the
 
 [^c2535101]: Textual amendment: Words in s. 15(2)(a) substituted (01.10.1991) by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [reg. 2](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/1997/schedule)para. 45 (with reg. 4).
 
-[^key-3116b3481b3ec2115bb4cab6c65429ea]: Textual amendment: Words in s. 15(2)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(z)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/z) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-3116b3481b3ec2115bb4cab6c65429ea]: Textual amendment: Words in s. 15(2)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(z)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/z) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c2535111]: Textual amendment: Words substituted by [Companies Consolidation (Consequential Provisions) Act 1985 (c. 9, SIF 27)](https://www.legislation.gov.uk/ukpga/1985/9), [s. 30](https://www.legislation.gov.uk/ukpga/1985/9/section/30), [Sch. 2](https://www.legislation.gov.uk/ukpga/1985/9/schedule/2)

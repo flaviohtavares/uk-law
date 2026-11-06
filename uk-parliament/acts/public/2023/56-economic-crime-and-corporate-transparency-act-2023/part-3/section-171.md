@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. False statement offences in connection with information notices[^key-5395d41adb1afe39cfc363be3cab5ea2][^key-dface1110d1aff325ccda120acfcb266]
+## 171. False statement offences in connection with information notices[^c-5395d41adb1afe39cfc363be3cab5ea2][^c-dface1110d1aff325ccda120acfcb266]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ For section 15 of the Economic Crime (Transparency and Enforcement) Act 2022 sub
 
 ## Annotations
 
-[^key-5395d41adb1afe39cfc363be3cab5ea2]: Commencement: S. 171 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5395d41adb1afe39cfc363be3cab5ea2]: Commencement: S. 171 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-dface1110d1aff325ccda120acfcb266]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2023/56/section/171) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z55)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z55)
+[^c-dface1110d1aff325ccda120acfcb266]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2023/56/section/171) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z55)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z55)

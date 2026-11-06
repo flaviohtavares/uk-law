@@ -22,7 +22,7 @@ summary: ''
 
 Article 33
 
-### PART 1 — Removal of Hedgerows[^key-d95eccfff6b5ca7c25bfd6afcaa8574d]
+### PART 1 — Removal of Hedgerows[^c-d95eccfff6b5ca7c25bfd6afcaa8574d]
 
 | (1) Area | (2) Reference of hedgerow |
 | --- | --- |
@@ -69,7 +69,7 @@ Article 33
 | District of North Norfolk | The hedgerow marked H0231 on the tree preservation order and hedgerow plan |
 | District of North Norfolk | The hedgerow marked H0234 on the tree preservation order and hedgerow plan |
 
-### PART 2 — Removal of potentially important hedgerows[^key-975b19ad7fb4778b9f567ef96b4c92f5]
+### PART 2 — Removal of potentially important hedgerows[^c-975b19ad7fb4778b9f567ef96b4c92f5]
 
 | (1) Area | (2) Reference of hedgerow |
 | --- | --- |
@@ -80,7 +80,7 @@ Article 33
 | District of Broadland | The hedgerow marked HR0128a on the tree preservation order and hedgerow plan |
 | District of Broadland | The hedgerow marked HR0128b on the tree preservation order and hedgerow plan |
 
-### PART 3 — Removal of important hedgerows[^key-7ce07e4a02e9c57cfba9ede216fae283]
+### PART 3 — Removal of important hedgerows[^c-7ce07e4a02e9c57cfba9ede216fae283]
 
 | (1) Area | (2) Reference of hedgerow |
 | --- | --- |
@@ -179,8 +179,8 @@ Article 33
 
 ## Annotations
 
-[^key-d95eccfff6b5ca7c25bfd6afcaa8574d]: Commencement: Sch. 16 Pt. 1 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-d95eccfff6b5ca7c25bfd6afcaa8574d]: Commencement: Sch. 16 Pt. 1 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-975b19ad7fb4778b9f567ef96b4c92f5]: Commencement: Sch. 16 Pt. 2 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-975b19ad7fb4778b9f567ef96b4c92f5]: Commencement: Sch. 16 Pt. 2 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-7ce07e4a02e9c57cfba9ede216fae283]: Commencement: Sch. 16 Pt. 3 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-7ce07e4a02e9c57cfba9ede216fae283]: Commencement: Sch. 16 Pt. 3 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

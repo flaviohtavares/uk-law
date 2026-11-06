@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-1890390d10be0e8b644ec5736c8ecda8]
+## 1. Citation and commencement[^c-1890390d10be0e8b644ec5736c8ecda8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the A46 Newark Bypass Development Consent Order 2025 
 
 ## Annotations
 
-[^key-1890390d10be0e8b644ec5736c8ecda8]: Commencement: Art. 1 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-1890390d10be0e8b644ec5736c8ecda8]: Commencement: Art. 1 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

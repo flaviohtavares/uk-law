@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Change in Status of Greenland) Order 1984 (revoked)[^key-c358e5e2a0211a63055284f01cee7536]
+The European Communities (Definition of Treaties) (Change in Status of Greenland) Order 1984 (revoked)[^c-c358e5e2a0211a63055284f01cee7536]
 
 Laid before Parliament in draft
 
@@ -41,24 +41,24 @@ Made
 
 Coming into operation in accordance with Article 1
 
-[^key-c358e5e2a0211a63055284f01cee7536]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c358e5e2a0211a63055284f01cee7536]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-c358e5e2a0211a63055284f01cee7536] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c358e5e2a0211a63055284f01cee7536] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c358e5e2a0211a63055284f01cee7536] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c358e5e2a0211a63055284f01cee7536] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c358e5e2a0211a63055284f01cee7536]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c358e5e2a0211a63055284f01cee7536]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-c358e5e2a0211a63055284f01cee7536]
+## SCHEDULE[^c-c358e5e2a0211a63055284f01cee7536]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c358e5e2a0211a63055284f01cee7536]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c358e5e2a0211a63055284f01cee7536]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c358e5e2a0211a63055284f01cee7536]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1984/1820) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c358e5e2a0211a63055284f01cee7536]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1984/1820) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

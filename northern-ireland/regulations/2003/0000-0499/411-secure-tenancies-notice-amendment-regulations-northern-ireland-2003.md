@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING
 
-Secure Tenancies (Notice) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-3e1600f0b08f770aecb3b8e01a59a55e]
+Secure Tenancies (Notice) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-3e1600f0b08f770aecb3b8e01a59a55e]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 1st November 2003
 
-[^key-3e1600f0b08f770aecb3b8e01a59a55e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e1600f0b08f770aecb3b8e01a59a55e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3e1600f0b08f770aecb3b8e01a59a55e]
+## 1. Citation and commencement[^c-3e1600f0b08f770aecb3b8e01a59a55e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the notice[^key-3e1600f0b08f770aecb3b8e01a59a55e]
+## 2. Amendment to the notice[^c-3e1600f0b08f770aecb3b8e01a59a55e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1600f0b08f770aecb3b8e01a59a55e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e1600f0b08f770aecb3b8e01a59a55e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1600f0b08f770aecb3b8e01a59a55e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e1600f0b08f770aecb3b8e01a59a55e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e1600f0b08f770aecb3b8e01a59a55e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/411) revoked (5.5.2014) by [The Secure Tenancies (Notice) Regulations (Northern Ireland) 2014 (S.R. 2014/103)](https://www.legislation.gov.uk/nisr/2014/103), [reg. 3](https://www.legislation.gov.uk/nisr/2014/103/regulation/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/103/schedule/2)
+[^c-3e1600f0b08f770aecb3b8e01a59a55e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/411) revoked (5.5.2014) by [The Secure Tenancies (Notice) Regulations (Northern Ireland) 2014 (S.R. 2014/103)](https://www.legislation.gov.uk/nisr/2014/103), [reg. 3](https://www.legislation.gov.uk/nisr/2014/103/regulation/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/103/schedule/2)

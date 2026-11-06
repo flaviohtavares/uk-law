@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Information about inrush hazards[^key-619fa019184e8c630232b6f2c8915c9d]
+## 34. Information about inrush hazards[^c-619fa019184e8c630232b6f2c8915c9d]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-619fa019184e8c630232b6f2c8915c9d]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2014/3248/regulation/34) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-619fa019184e8c630232b6f2c8915c9d]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2014/3248/regulation/34) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

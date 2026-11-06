@@ -118,7 +118,7 @@ The following information is prescribed under section 3(3)(d) of the Act (other 
     - (bb) wrapped or packaged before it is brought to the establishment and the wrapping or packaging remains sealed at all times before the food is supplied to consumers;
 - (b) an establishment used by any of the following persons for the purpose of providing caring services where the establishment is also used as a private dwelling —
   - (i) childminders;
-  - (ii)[^key-5b5a4408bb2530b75a8f75bfa2af3b83] persons who are adult placement carers within the meaning of regulation 1(3) of the Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019;
+  - (ii)[^c-5b5a4408bb2530b75a8f75bfa2af3b83] persons who are adult placement carers within the meaning of regulation 1(3) of the Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019;
 
   but not including an establishment used to provide catering services by which food is supplied from a private dwelling.
 
@@ -304,6 +304,6 @@ A draft of the Regulations was notified to the European Commission in accordance
 
 [^c21950111]: Marginal citation: “The Food Hygiene Rating Scheme for England, Wales and Northern Ireland” available at http://ratings.food.gov.uk/.
 
-[^key-5b5a4408bb2530b75a8f75bfa2af3b83]: Textual amendment: Reg. 5(1)(b)(ii) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 22(2)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/22/2)
+[^c-5b5a4408bb2530b75a8f75bfa2af3b83]: Textual amendment: Reg. 5(1)(b)(ii) substituted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2019 (S.I. 2019/237)](https://www.legislation.gov.uk/wsi/2019/237), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/237/regulation/1/2), [Sch. 1 para. 22(2)](https://www.legislation.gov.uk/wsi/2019/237/schedule/1/paragraph/22/2)
 
 [^c21950131]: Marginal citation: [2010 nawm 1](https://www.legislation.gov.uk/mwa/2010/1).

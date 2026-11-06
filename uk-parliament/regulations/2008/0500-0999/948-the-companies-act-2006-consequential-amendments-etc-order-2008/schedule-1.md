@@ -33,18 +33,18 @@ In the following provisions [^c19199711], for “company auditor under section 2
 - (c) section 24(2) of the Transport Act 1962 [^c19199741] (accounts of transport boards);
 - (d) section 13(2) of the Hairdressers (Registration) Act 1964 [^c19199751] (accounts of Hairdressers Registration Council);
 - (e) section 21(5)(b) of the Cereals Marketing Act 1965 [^c19199761] (accounts of Home-Grown Cereals Authority);
-- (f)[^key-7beba33037c8607e4636598440718799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-7beba33037c8607e4636598440718799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) section 12(2) of the Universities (Scotland) Act 1966 [^c19199781] (accounts of universities);
 - (h) section 19(3) of the Agriculture Act 1967 [^c19199791] (accounts of Meat and Livestock Commission);
 - (i) section 39(3) of the New Towns (Scotland) Act 1968 [^c19199801] (accounts of development corporation);
-- (j)[^key-37316d5ae7c2e86cf6ef4da5e0fe12da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-37316d5ae7c2e86cf6ef4da5e0fe12da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (k) section 14(2) of the Transport Act 1968 [^c19199821] (accounts of passenger transport executive), as it has effect in Scotland and Northern Ireland;
 - (l) paragraph 19(2) of Schedule 4 to the Hallmarking Act 1973 [^c19199831] (accounts of British Hallmarking Council);
 - (m) section 97(7)(a) of the Local Government (Scotland) Act 1973 [^c19199841] (appointment by Accounts Commission for Scotland);
 - (n) section 36(1) of the Friendly Societies Act 1974 [^c19199851] (qualified auditors);
 - (o) paragraph 12(2) of Schedule 1 to the Farriers (Registration) Act 1975 [^c19199861] (accounts of Farriers Registration Council);
 - (p) paragraph 14 of the Schedule to the Theatres Trust Act 1976 [^c19199871] (accounts of Theatres Trust);
-- (q)[^key-a26edcd2c5622bb474a1318305e3cec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (q)[^c-a26edcd2c5622bb474a1318305e3cec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (r) article 10(3) of the Sheffield Assay Office Order 1978 [^c19199891] (accounts of the Guardians of the Standard of Wrought Plate within the Town of Sheffield);
 - (s) section 22(6) of the Crown Agents Act 1979 [^c19199901] as applied by paragraph 20 of Schedule 5 to that Act (accounts of Crown Agents Holding and Realisation Board);
 - (t) article 12(3) of the Edinburgh Assay Office Order 1979 [^c19199911] (accounts of the Incorporation of Goldsmiths of the City of Edinburgh);
@@ -55,7 +55,7 @@ In the following provisions [^c19199711], for “company auditor under section 2
 - (y) section 8(2) of the Industrial Training Act 1982 [^c19199961] (accounts of industrial training boards);
 - (z) section 15(2)(a) of the Civil Aviation Act 1982 [^c19199971] (accounts of Civil Aviation Authority);
 - (aa) section 9(2) of the Duchy of Cornwall Management Act 1982 [^c19199981] (accounts of the Duchy of Cornwall);
-- (bb)[^key-f205bf54c390e7134b72ce2ecb84b28e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bb)[^c-f205bf54c390e7134b72ce2ecb84b28e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (cc) paragraph 12(6)(a) of Schedule 3 to the National Heritage Act 1983 [^c19200001] (accounts of the Historic Buildings and Monuments Commission for England);
 - (dd) paragraph 18(3) of Schedule 1 to the Medical Act 1983 [^c19200011] (accounts of the General Medical Council);
 - (ee) section 4(2) of the Ports (Finance) Act 1985 [^c19200021] (accounts of certain harbour authorities);
@@ -64,7 +64,7 @@ In the following provisions [^c19199711], for “company auditor under section 2
   - (ii) paragraph 11(2) of Schedule 3 (accounts kept by the Council of Licensed Conveyancers);
 - (gg) paragraph 9(5) of Schedule 3 to the Oil and Pipelines Act 1985 [^c19200041] (accounts of the Oil and Pipelines Agency);
 - (hh) section 51(2) of the Housing Act 1985 [^c19200051] (service charges: certification of information about costs);
-- (ii) section 97(6) of the Housing Associations Act 1985 *(Extent: E+W)* *(affected by repeal, see note)*[^key-a3a3db4fb7956671678d9c32c0f6e402] [^c19200061] (accounts of Housing Corporation); *(Extent: E+W)* *(affected by repeal, see note)*[^key-a3a3db4fb7956671678d9c32c0f6e402]
+- (ii) section 97(6) of the Housing Associations Act 1985 *(Extent: E+W)* *(affected by repeal, see note)*[^c-a3a3db4fb7956671678d9c32c0f6e402] [^c19200061] (accounts of Housing Corporation); *(Extent: E+W)* *(affected by repeal, see note)*[^c-a3a3db4fb7956671678d9c32c0f6e402]
 - (jj) section 28(2) of the Landlord and Tenant Act 1985 [^c19200071] (service charges: certification of information about costs);
 - (kk) in the Education Reform Act 1988 [^c19200081]—
   - (i) section 124B(6)(a) [^c19200091] (accounts of higher and further education corporations);
@@ -80,7 +80,7 @@ In the following provisions [^c19199711], for “company auditor under section 2
 - (qq) in the Trade Union and Labour Relations (Consolidation) Act 1992 [^c19200161]—
   - (i) section 30(4) (access to accounting records of trade union);
   - (ii) section 34(1) (eligibility for appointment as auditor of trade union);
-- (rr)[^key-fe8251d93d199259533343b412bfa3a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (rr)[^c-fe8251d93d199259533343b412bfa3a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (ss) section 46(2)(a) of the Environment Act 1995 [^c19200181] (accounts of Environment Agency);
 - (tt) regulation 60(1)(b)(iv) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c19200191] (conditions for excluded funeral plan contracts);
 - (uu) section 14(4)(a) of the Public Audit (Wales) Act 2004 [^c19200201] (accounts of local government bodies in Wales);
@@ -102,11 +102,11 @@ In the following provisions [^c19199711], for “company auditor under section 2
 - (b) section 40(3) of the Osteopaths Act 1993 [^c19200311] (accounts of General Osteopathic Council);
 - (c) section 41(3) of the Chiropractors Act 1994 [^c19200321] (accounts of General Chiropractic Council).
 
-#### 4. Industrial and Provident Societies Act 1965 (c.12)[^key-3d48d927cbe731c4d0b53670095e3ba9]
+#### 4. Industrial and Provident Societies Act 1965 (c.12)[^c-3d48d927cbe731c4d0b53670095e3ba9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Friendly and Industrial and Provident Societies Act 1968 (c.55)[^key-0476101299720f6ef7bceea854e7fa2f]
+#### 5. Friendly and Industrial and Provident Societies Act 1968 (c.55)[^c-0476101299720f6ef7bceea854e7fa2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -216,7 +216,7 @@ In section 29(10) of the Civic Government (Scotland) Act 1982 (metal dealers' ex
 
 #### 17. Charities Act 1993 (c.10)
 
-[^key-d00e21169b6a9bb4086e74a5ec51ab03]...
+[^c-d00e21169b6a9bb4086e74a5ec51ab03]...
 
 .
 
@@ -274,7 +274,7 @@ In regulation 4 of the Occupational Pension Schemes (Scheme Administration) Regu
   ;
 - (b) in paragraph (2)(d), for “Article 30 of the Companies (Northern Ireland) Order 1990, ineligible to audit the accounts” substitute “ section 1214 of the Companies Act 2006, prohibited from acting as statutory auditor ”.
 
-#### 23. Audit Commission Act 1998 (c.18)[^key-03b9586a7641544ebb767213573bd989]
+#### 23. Audit Commission Act 1998 (c.18)[^c-03b9586a7641544ebb767213573bd989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -399,7 +399,7 @@ In paragraph 21(6) of Schedule 8 to the Government of Wales Act 2006, in paragra
 
 In regulation 10(2) of the Charities Accounts (Scotland) Regulations (annual accounts of charity), for “eligible to act as an auditor in terms of section 25 of the Companies Act 1989” substitute “ eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006 ”.
 
-#### 36. European Grouping of Territorial Co-operation Regulations 2007 (S.I. 2007/1949)[^key-12ed194123cc8f0618d1c881d8bc25bf]
+#### 36. European Grouping of Territorial Co-operation Regulations 2007 (S.I. 2007/1949)[^c-12ed194123cc8f0618d1c881d8bc25bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -450,7 +450,7 @@ In section 9(2) of the Fish Industry Act (Northern Ireland) 1972 [^c19200561] (a
 
 In section 11(1) of the Land Tenure Reform (Scotland) Act 1974 (right to redeem heritable security after 20 years where security subjects used as private dwelling-house), for “section 89 of the Companies Act 1948 (perpetual debentures, etc)” substitute “ section 739 of the Companies Act 2006 (perpetual debentures) ”.
 
-#### 45. Aircraft and Shipbuilding Industries Act 1977 (c.3)[^key-cd5bd65bf59858d3c5c7712f5e8147ef]
+#### 45. Aircraft and Shipbuilding Industries Act 1977 (c.3)[^c-cd5bd65bf59858d3c5c7712f5e8147ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1482,7 +1482,7 @@ In Article 7 of the Industrial Relations (Northern Ireland) Order 1992 (property
 
 (3) In paragraph (4)(b) for “Article 388 of the Companies (Northern Ireland) Order 1986 (as that section has effect by virtue of the said section 64(a))” substitute “ section 30 of the Companies Act 2006 (as it applies by virtue of Article 70(2) of the Insolvency (Northern Ireland) Order 1989 and section 64(a) of the Act of 1969) ”.
 
-#### 192. Charities Act 1993 (c.10)[^key-e5024ab6a3b1a0576b08929787adb7c0]
+#### 192. Charities Act 1993 (c.10)[^c-e5024ab6a3b1a0576b08929787adb7c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1857,7 +1857,7 @@ In sections 5(4)(a) and 9(5)(a) of the Government Resources and Accounts Act 200
 
 (3) In section 59(5) (securities: other provisions), for “the Companies Act 1985 or the Companies (Northern Ireland) Order 1986” substitute “ the Companies Act 2006 ”.
 
-#### 219. Housing (Scotland) Act 2001 (asp 10)[^key-456570f90e58fdc22324fe62565cc215]
+#### 219. Housing (Scotland) Act 2001 (asp 10)[^c-456570f90e58fdc22324fe62565cc215]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2492,7 +2492,7 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19199761]: Marginal citation: [1965 c.14](https://www.legislation.gov.uk/ukpga/1965/14).
 
-[^key-7beba33037c8607e4636598440718799]: Textual amendment: Sch. 1 para. 1(f) revoked (S.) (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-7beba33037c8607e4636598440718799]: Textual amendment: Sch. 1 para. 1(f) revoked (S.) (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
 
 [^c19199781]: Marginal citation: [1966 c.13](https://www.legislation.gov.uk/ukpga/1966/13).
 
@@ -2500,7 +2500,7 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19199801]: Marginal citation: [1968 c.16](https://www.legislation.gov.uk/ukpga/1968/16).
 
-[^key-37316d5ae7c2e86cf6ef4da5e0fe12da]: Textual amendment: [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/j) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-37316d5ae7c2e86cf6ef4da5e0fe12da]: Textual amendment: [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/j) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c19199821]: Marginal citation: [1968 c.73](https://www.legislation.gov.uk/ukpga/1968/73).
 
@@ -2514,7 +2514,7 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19199871]: Marginal citation: [1976 c.27](https://www.legislation.gov.uk/ukpga/1976/27).
 
-[^key-a26edcd2c5622bb474a1318305e3cec2]: Textual amendment: Sch. 1 para. 1(q) revoked (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/687/schedule/2)
+[^c-a26edcd2c5622bb474a1318305e3cec2]: Textual amendment: Sch. 1 para. 1(q) revoked (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/687/schedule/2)
 
 [^c19199891]: Marginal citation: [S.I. 1978/639](https://www.legislation.gov.uk/uksi/1978/639).
 
@@ -2536,7 +2536,7 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19199981]: Marginal citation: [1982 c.47](https://www.legislation.gov.uk/ukpga/1982/47).
 
-[^key-f205bf54c390e7134b72ce2ecb84b28e]: Textual amendment: Sch. 1 para. 1(bb) revoked (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
+[^c-f205bf54c390e7134b72ce2ecb84b28e]: Textual amendment: Sch. 1 para. 1(bb) revoked (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
 
 [^c19200001]: Marginal citation: [1983 c.47](https://www.legislation.gov.uk/ukpga/1983/47).
 
@@ -2550,7 +2550,7 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19200051]: Marginal citation: [1985 c.68](https://www.legislation.gov.uk/ukpga/1985/68); section 51(2) has been repealed in relation to dwellings let on long leases by the [Landlord and Tenant Act 1987 (c.31)](https://www.legislation.gov.uk/ukpga/1987/31), [section 41(2)](https://www.legislation.gov.uk/ukpga/1987/31/section/41/2).
 
-[^key-a3a3db4fb7956671678d9c32c0f6e402]: Textual amendment: Sch. 1 para. 1(ii) revoked (E.W.) (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/12))
+[^c-a3a3db4fb7956671678d9c32c0f6e402]: Textual amendment: Sch. 1 para. 1(ii) revoked (E.W.) (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/12))
 
 [^c19200061]: Marginal citation: [1985 c.69](https://www.legislation.gov.uk/ukpga/1985/69).
 
@@ -2574,7 +2574,7 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19200161]: Marginal citation: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-fe8251d93d199259533343b412bfa3a8]: Textual amendment: Sch. 1 para. 1(rr) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-fe8251d93d199259533343b412bfa3a8]: Textual amendment: Sch. 1 para. 1(rr) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c19200181]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25); section 46 has been repealed so far as relating to the Scottish Environment Protection Agency by the [Public Finance Accountability (Scotland) Act 2000 (asp 1)](https://www.legislation.gov.uk/asp/2000/1), [Schedule 4](https://www.legislation.gov.uk/asp/2000/1/schedule/4), [paragraph 13(1)](https://www.legislation.gov.uk/asp/2000/1/paragraph/13/1) and (2).
 
@@ -2606,9 +2606,9 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19200321]: Marginal citation: [1994 c.17](https://www.legislation.gov.uk/ukpga/1994/17).
 
-[^key-3d48d927cbe731c4d0b53670095e3ba9]: Textual amendment: Sch. 1 para. 4 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-3d48d927cbe731c4d0b53670095e3ba9]: Textual amendment: Sch. 1 para. 4 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-0476101299720f6ef7bceea854e7fa2f]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/5) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-0476101299720f6ef7bceea854e7fa2f]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/5) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c19200351]: Marginal citation: [Section 42(1)(e)](https://www.legislation.gov.uk/uksi/2008/948/section/42/1/e) was inserted by the Schedule to the Companies (1990 Order) (Eligibility for Appointment as Company Auditor) (Consequential Amendments) Regulations (Northern Ireland) 1993 (S.R. (NI) 1993 No 67), paragraph 4.
 
@@ -2624,7 +2624,7 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19200411]: Marginal citation: [Section 78A](https://www.legislation.gov.uk/uksi/2008/948/section/78A) was inserted by the Schedule to the [Friendly Societies Act 1992 (International Accounting Standards and Other Accounting Amendments) Order 2005 (S.I. 2005/2211)](https://www.legislation.gov.uk/uksi/2005/2211), [paragraph 3](https://www.legislation.gov.uk/uksi/2005/2211/paragraph/3); [Schedule 14](https://www.legislation.gov.uk/uksi/2008/948/schedule/14) has been amended in respects which are not relevant to this Order.
 
-[^key-d00e21169b6a9bb4086e74a5ec51ab03]: Textual amendment: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/17) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-d00e21169b6a9bb4086e74a5ec51ab03]: Textual amendment: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/17) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c19200431]: Marginal citation: [Paragraph 10(2)(b)](https://www.legislation.gov.uk/uksi/2008/948/paragraph/10/2/b) has been amended by the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194) (C. 84)), Schedule 4, paragraph 83.
 
@@ -2632,7 +2632,7 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19200451]: Marginal citation: [Paragraph 18(4B)](https://www.legislation.gov.uk/uksi/2008/948/paragraph/18/4B) was inserted by the [Housing Act 2004 (c.34)](https://www.legislation.gov.uk/ukpga/2004/34), [Schedule 11](https://www.legislation.gov.uk/ukpga/2004/34/schedule/11), [paragraphs 7](https://www.legislation.gov.uk/ukpga/2004/34/paragraph/7) and 20.
 
-[^key-03b9586a7641544ebb767213573bd989]: Textual amendment: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/23) revoked (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a)
+[^c-03b9586a7641544ebb767213573bd989]: Textual amendment: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/23) revoked (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a)
 
 [^c19200461]: Marginal citation: [Paragraph 8(5)(b)](https://www.legislation.gov.uk/uksi/2008/948/paragraph/8/5/b) was amended by the Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194) (C. 84)), Schedule 4, paragraph 91.
 
@@ -2642,7 +2642,7 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19200491]: Marginal citation: [Section 43(2)](https://www.legislation.gov.uk/uksi/2008/948/section/43/2) has been amended by the Companies Act 2006 (Commencement No. 2, Consequential Amendments, Transitional Provisions and Savings) Order 2007 ([S.I. 2007/1093](https://www.legislation.gov.uk/uksi/2007/1093) (C. 49)), Schedule 4, paragraph 12(a).
 
-[^key-12ed194123cc8f0618d1c881d8bc25bf]: Textual amendment: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/36) revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/153/schedule)
+[^c-12ed194123cc8f0618d1c881d8bc25bf]: Textual amendment: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/36) revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/153/schedule)
 
 [^c19200501]: Marginal citation: [Section 2(2)](https://www.legislation.gov.uk/uksi/2008/948/section/2/2) and (3) have been amended by the [Companies Consolidation (Consequential Provisions) Act 1985 (c.9)](https://www.legislation.gov.uk/ukpga/1985/9), [Schedule 2](https://www.legislation.gov.uk/ukpga/1985/9/schedule/2).
 
@@ -2658,7 +2658,7 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19200561]: Marginal citation: [Section 9](https://www.legislation.gov.uk/uksi/2008/948/section/9) has been amended by the [Companies Consolidation (Consequential Provisions) (Northern Ireland) Order 1986 (S.I. 1986/1035 (N.I. 9))](https://www.legislation.gov.uk/nisi/1986/1035), [Schedule 1](https://www.legislation.gov.uk/nisi/1986/1035/schedule/1).
 
-[^key-cd5bd65bf59858d3c5c7712f5e8147ef]: Textual amendment: [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/45) revoked (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/687/schedule/2)
+[^c-cd5bd65bf59858d3c5c7712f5e8147ef]: Textual amendment: [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/45) revoked (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/687/schedule/2)
 
 [^c19200581]: Marginal citation: [Section 22](https://www.legislation.gov.uk/uksi/2008/948/section/22) has been repealed, except in relation to the Crown Agents Holding and Realisation Board, by the Crown Agents Act 1995, Schedule 2, Part 1; [section 22(2)](https://www.legislation.gov.uk/uksi/2008/948/section/22/2) has been amended by the [Companies Act 1989 (c.40)](https://www.legislation.gov.uk/ukpga/1989/40), [Schedule 10](https://www.legislation.gov.uk/ukpga/1989/40/schedule/10), [Part 2](https://www.legislation.gov.uk/ukpga/1989/40/part/2), [paragraph 29](https://www.legislation.gov.uk/ukpga/1989/40/paragraph/29).
 
@@ -2816,7 +2816,7 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19201351]: Marginal citation: [Article 73(6)](https://www.legislation.gov.uk/uksi/2008/948/article/73/6) has been amended by the [Company Directors Disqualification (Northern Ireland) Order 2002 (S.I. 2002/3150 (N.I. 4))](https://www.legislation.gov.uk/nisi/2002/3150), [Schedule 3](https://www.legislation.gov.uk/nisi/2002/3150/schedule/3), [paragraph 8](https://www.legislation.gov.uk/nisi/2002/3150/paragraph/8).
 
-[^key-e5024ab6a3b1a0576b08929787adb7c0]: Textual amendment: [Sch. 1 para. 192](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/192) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-e5024ab6a3b1a0576b08929787adb7c0]: Textual amendment: [Sch. 1 para. 192](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/192) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c19201491]: Marginal citation: [Sections 94](https://www.legislation.gov.uk/uksi/2008/948/section/94) and 106 have been repealed by the [Transport Act 2000 (c.38)](https://www.legislation.gov.uk/ukpga/2000/38), [Schedule 31](https://www.legislation.gov.uk/ukpga/2000/38/schedule/31), [Part 4](https://www.legislation.gov.uk/ukpga/2000/38/part/4) from a date to be appointed.
 
@@ -2830,7 +2830,7 @@ In section 458 of the Companies Act 2006 (disclosure of information by tax autho
 
 [^c19201541]: Marginal citation: [Sections 5(4)(a)](https://www.legislation.gov.uk/uksi/2008/948/section/5/4/a) and 9(5) have been amended by [S.I. 2004/2947](https://www.legislation.gov.uk/uksi/2004/2947), [Schedule 7](https://www.legislation.gov.uk/uksi/2004/2947/schedule/7), [paragraphs 14](https://www.legislation.gov.uk/uksi/2004/2947/paragraph/14) and 15.
 
-[^key-456570f90e58fdc22324fe62565cc215]: Textual amendment: [Sch. 1 para. 219](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/219) revoked (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/19)
+[^c-456570f90e58fdc22324fe62565cc215]: Textual amendment: [Sch. 1 para. 219](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/219) revoked (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/19)
 
 [^c19201551]: Marginal citation: Subsection (12) has been amended by regulation 2(3) of, and paragraph 5 of Schedule 3 to, [S.I. 2005/1433](https://www.legislation.gov.uk/uksi/2005/1433), and by section 1272 of, and paragraphs 13 and 14(1) and (5) in Part 2 of Schedule 15 to, the Companies Act 2006.
 

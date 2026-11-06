@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A.[^key-3457e20b27e301ffdd1550c3d75ab938]
+## 7A.[^c-3457e20b27e301ffdd1550c3d75ab938]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3457e20b27e301ffdd1550c3d75ab938]: Textual amendment: Reg. 7A inserted by [The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/13)](https://www.legislation.gov.uk/uksi/2019/13), [regs. 1](https://www.legislation.gov.uk/uksi/2019/13/regulation/1), [10A](https://www.legislation.gov.uk/uksi/2019/13/regulation/10A) (with [reg. 44](https://www.legislation.gov.uk/uksi/2019/13/regulation/44)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1494/regulation/2); [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [88](https://www.legislation.gov.uk/uksi/2020/1559/regulation/88)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-3457e20b27e301ffdd1550c3d75ab938]: Textual amendment: Reg. 7A inserted by [The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/13)](https://www.legislation.gov.uk/uksi/2019/13), [regs. 1](https://www.legislation.gov.uk/uksi/2019/13/regulation/1), [10A](https://www.legislation.gov.uk/uksi/2019/13/regulation/10A) (with [reg. 44](https://www.legislation.gov.uk/uksi/2019/13/regulation/44)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1494/regulation/2); [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [88](https://www.legislation.gov.uk/uksi/2020/1559/regulation/88)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)

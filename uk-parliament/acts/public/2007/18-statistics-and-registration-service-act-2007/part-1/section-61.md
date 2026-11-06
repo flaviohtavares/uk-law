@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Money[^key-3f52cb0175c85936d0e8273d3da0e890]
+## 61. Money[^c-3f52cb0175c85936d0e8273d3da0e890]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f52cb0175c85936d0e8273d3da0e890]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2007/18/section/61) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-3f52cb0175c85936d0e8273d3da0e890]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2007/18/section/61) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

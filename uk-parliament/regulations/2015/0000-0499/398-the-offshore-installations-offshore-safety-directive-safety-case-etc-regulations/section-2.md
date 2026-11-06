@@ -24,9 +24,9 @@ summary: ''
 
 - “**the 1974 Act**” means the Health and Safety at Work etc. Act 1974;
 - “**the 1995 Act**” means the Merchant Shipping Act 1995 [^c22462201];
-- “[^key-0d85e9345e62f11c79fd81560c0ed760]**carbon capture, utilisation and storage**” means the capture, utilisation and storage of carbon dioxide including its injection into geological formations beneath the seabed or onshore;
+- “[^c-0d85e9345e62f11c79fd81560c0ed760]**carbon capture, utilisation and storage**” means the capture, utilisation and storage of carbon dioxide including its injection into geological formations beneath the seabed or onshore;
 - “**CCUS operations**” means all activities associated with an offshore installation relating to carbon capture, utilisation and storage, including the design, planning, construction, operation and decommissioning of the installation;
-- “[^key-516e709bb5e32868483614c5d8481a07]**competent authority**” means—
+- “[^c-516e709bb5e32868483614c5d8481a07]**competent authority**” means—
   - (a) in relation to CCUS operations and offshore hydrogen operations, the Executive;
   - (b) otherwise, the Executive and Secretary of State acting jointly;
 - “**corporate major accident prevention policy**” has the meaning given in regulation 7(2);
@@ -44,10 +44,10 @@ summary: ''
 - “**external waters**” means—
   - (a) the territorial sea adjacent to Great Britain; and
   - (b) any area designated by order under section 1(7) of the Continental Shelf Act 1964 [^c22462231];
-- “**field development plan**” means the support document for development and production consents to be submitted to the Oil and Gas Authority[^key-9e11a8e1c5b583b9a64bf3d65a250aaf] pursuant to the Guidance on the Content of Offshore Oil and Gas Field Development Plans, as published on the Oil and Gas Authority’s[^key-e5907e3d4277aa67c8e48c059ad260d6] website, as revised or reissued from time to time [^c22462241];
+- “**field development plan**” means the support document for development and production consents to be submitted to the Oil and Gas Authority[^c-9e11a8e1c5b583b9a64bf3d65a250aaf] pursuant to the Guidance on the Content of Offshore Oil and Gas Field Development Plans, as published on the Oil and Gas Authority’s[^c-e5907e3d4277aa67c8e48c059ad260d6] website, as revised or reissued from time to time [^c22462241];
 - “**fixed installation**” means an installation which cannot be moved from place to place without major dismantling or modification, whether or not it has its own motive power;
 - “**installation**” means an offshore installation within the meaning of regulation 3 of the Management Regulations [^c22462251];
-- “licensee”—[^key-1124a0f928d3998baa77bad6dd5b7b11]
+- “licensee”—[^c-1124a0f928d3998baa77bad6dd5b7b11]
   - (a) in relation to offshore oil and gas operations including conveyance by means of a pipeline, means an “**offshore licensee**” as defined in regulation 2(1) of the Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015;
   - (b) in relation to carbon capture, utilisation and storage, means a person who holds a “**licence**” as defined in—
     - (i) regulation 1(3) of the Storage of Carbon Dioxide (Licensing etc.) Regulations 2010; or
@@ -66,10 +66,10 @@ summary: ''
 - “**the Management Regulations**” means the Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995 [^c22462281];
 - “**non-production installation**” means an installation other than a production installation;
 - “notified” except in regulations 29 and 33, means notified in writing, and related expressions are to be construed accordingly;
-- “[^key-94fe4850c7a7924c24c2ea2632282833]**offshore hydrogen operations**” means all activities associated with an offshore installation relating to offshore hydrogen production, including the design, planning, construction, operation and decommissioning of the installation;
+- “[^c-94fe4850c7a7924c24c2ea2632282833]**offshore hydrogen operations**” means all activities associated with an offshore installation relating to offshore hydrogen production, including the design, planning, construction, operation and decommissioning of the installation;
 - “**offshore hydrogen production**” means the production of hydrogen including any processes involved in its production;
 - “**offshore oil and gas operations**” means all activities associated with an installation relating to exploration and production of petroleum, including the design, planning, construction, operation and decommissioning of the installation, but excluding the conveyance of petroleum from one coast to another;
-- “operator”—[^key-af9064f84c96733211c18ab7e9965f03]
+- “operator”—[^c-af9064f84c96733211c18ab7e9965f03]
   - (a) in relation to a production installation which extracts petroleum from beneath the seabed by means of a well, means an “**installation operator**” as defined in regulation 2(1) of the Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015;
   - (b) in relation to a production installation which is used for the conveyance of petroleum by means of a pipe, means an “**installation operator**” as defined in regulation 2(1) of the Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015;
   - (c) in relation to a production installation which is used for carbon capture, utilisation and storage, means an operator as defined in—
@@ -80,7 +80,7 @@ summary: ''
 - “**petroleum**” includes any mineral oil or relative hydrocarbon and natural gas, whether or not existing in its natural condition in strata, but does not include coal or bituminous shales or other stratified deposits from which oil can be extracted by destructive distillation;
 - “**the PFEER Regulations**” means the Offshore Installations (Prevention of Fire and Explosion, and Emergency Response) Regulations 1995 [^c22462291];
 - “**pipeline**” has the meaning given in regulation 3 of the Pipelines Safety Regulations 1996 [^c22462301];
-- “[^key-3a59f71eae0b87a2b2a18c86bf0a58a2]**production installation**” means an installation which—
+- “[^c-3a59f71eae0b87a2b2a18c86bf0a58a2]**production installation**” means an installation which—
   - (a)
     - (i) extracts petroleum from beneath the seabed by means of a well;
     - (ii) is used for the conveyance of petroleum by means of a pipe;
@@ -92,7 +92,7 @@ summary: ''
       - (bb) production installation which has ceased production for so long as it is not converted to a non-production installation; and
       - (cc) production installation which has not come into use; and
     - (ii) does not include an installation which, for a period of no more than 90 days, extracts petroleum from beneath the seabed for the purposes of well testing;
-- “**relevant statutory provisions**” means the relevant statutory provisions (as defined in section 53(1) of the 1974 Act) which apply to or in relation to offshore oil and gas operations , CCUS operations and offshore hydrogen operations[^key-5db174e2a38dabf0e52cae1cf94d0719];
+- “**relevant statutory provisions**” means the relevant statutory provisions (as defined in section 53(1) of the 1974 Act) which apply to or in relation to offshore oil and gas operations , CCUS operations and offshore hydrogen operations[^c-5db174e2a38dabf0e52cae1cf94d0719];
 - “**safety and environmental-critical elements**” means such parts of an installation and such of its plant (including computer programmes), or any part of those—
   - (a) the failure of which could cause or contribute substantially to a major accident; or
   - (b) a purpose of which is to prevent, or limit the effect of, a major accident;
@@ -121,7 +121,7 @@ summary: ''
 - “**well operation**” means—
   - (a) the drilling of a well, including the recommencement of drilling after a well has been completed, suspended or abandoned by plugging at the seabed; and
   - (b) any operation in relation to a well which may result in an accidental release of fluids from that well which could give rise to the risk of a major accident; and
-- “well operator”—[^key-2edcb268812a43ab62ad675e88eee319]
+- “well operator”—[^c-2edcb268812a43ab62ad675e88eee319]
   - (a) in relation to a well used for the injection of carbon dioxide for the purposes of storage or associated activities or for the storage of hydrogen and associated activities, means the licensee;
   - (b) in relation to all other uses, including a proposed well, has the meaning given in regulation 2(1) of the Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015.
 
@@ -129,9 +129,9 @@ summary: ''
 
 (3) For the purposes of these Regulations an installation is operated if it is used for any of the purposes described in sub-paragraphs (a), (c), (ca) [^c22462311] and (d) of regulation 3(1) of the Management Regulations.
 
-(4) For the purposes of these Regulations, an installation (other than a production installation, the operation of which has not commenced), is engaged in a combined operation with another such installation or other such installations[^key-9353f0cc07d35935d61b966f3d559f6d] where—
+(4) For the purposes of these Regulations, an installation (other than a production installation, the operation of which has not commenced), is engaged in a combined operation with another such installation or other such installations[^c-9353f0cc07d35935d61b966f3d559f6d] where—
 
-- (a) an activity carried out from, by means of or on the installation is carried out for a purpose relating to the other[^key-c7cfbdc51bd29bf8ea285439fe2a875f] installation or installations; and
+- (a) an activity carried out from, by means of or on the installation is carried out for a purpose relating to the other[^c-c7cfbdc51bd29bf8ea285439fe2a875f] installation or installations; and
 - (b) the activity could materially affect the risk to—
   - (i) the health or safety of persons on either installation or on any of the installations; or
   - (ii) the environment,
@@ -157,7 +157,7 @@ and the expression “**combined operation**” is to be construed accordingly.
 
 (9) For the purposes of paragraph (6)(b) “**suitable personnel**” means personnel in adequate numbers who are suitably qualified and experienced and who are independent.
 
-(10) For the purposes of these Regulations a “**description of the internal emergency response arrangements**” means, in relation to an installation, a description of the manner of performance of the internal emergency response duties (as defined in regulation 30(14)) in relation to that installation, together with , in the case of offshore oil and gas operations,[^key-2fef8a396a795d00dafd5c12140a1ef6] the oil pollution emergency plan produced pursuant to regulation 4(3)(a) and (c) of, and Schedule 2 to, the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 [^c22462321].
+(10) For the purposes of these Regulations a “**description of the internal emergency response arrangements**” means, in relation to an installation, a description of the manner of performance of the internal emergency response duties (as defined in regulation 30(14)) in relation to that installation, together with , in the case of offshore oil and gas operations,[^c-2fef8a396a795d00dafd5c12140a1ef6] the oil pollution emergency plan produced pursuant to regulation 4(3)(a) and (c) of, and Schedule 2 to, the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 [^c22462321].
 
 (11) Where a duty holder is succeeded by a new duty holder, anything done in compliance with these Regulations by the duty holder in relation to an installation is, for the purposes of these Regulations, to be treated as having been done by the new duty holder.
 
@@ -165,9 +165,9 @@ and the expression “**combined operation**” is to be construed accordingly.
 
 [^c22462201]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-0d85e9345e62f11c79fd81560c0ed760]: Textual amendment: Words in reg. 2(1) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/i)
+[^c-0d85e9345e62f11c79fd81560c0ed760]: Textual amendment: Words in reg. 2(1) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/i)
 
-[^key-516e709bb5e32868483614c5d8481a07]: Textual amendment: Words in reg. 2(1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/ii)
+[^c-516e709bb5e32868483614c5d8481a07]: Textual amendment: Words in reg. 2(1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/ii)
 
 [^c22462211]: Marginal citation: OJ No L 348, 28.11.92, p. 9.
 
@@ -175,40 +175,40 @@ and the expression “**combined operation**” is to be construed accordingly.
 
 [^c22462231]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29). Section 1(7) was amended by paragraph 1 of Schedule 3 to the [Oil and Gas (Enterprise) Act 1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23) and by section 103 of the [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16).
 
-[^key-9e11a8e1c5b583b9a64bf3d65a250aaf]: Textual amendment: Words in reg. 2(1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [24(2)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/24/2/a)
+[^c-9e11a8e1c5b583b9a64bf3d65a250aaf]: Textual amendment: Words in reg. 2(1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [24(2)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/24/2/a)
 
-[^key-e5907e3d4277aa67c8e48c059ad260d6]: Textual amendment: Words in reg. 2(1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [24(2)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/24/2/b)
+[^c-e5907e3d4277aa67c8e48c059ad260d6]: Textual amendment: Words in reg. 2(1) substituted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [24(2)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/24/2/b)
 
 [^c22462241]: Marginal citation: https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/265842/FDP\_guidance\_notes\_November\_2013\_web.pdf.
 
 [^c22462251]: Marginal citation: Regulation 3 was amended by regulation 2(2) of [S.I. 2002/2175](https://www.legislation.gov.uk/uksi/2002/2175).
 
-[^key-1124a0f928d3998baa77bad6dd5b7b11]: Textual amendment: Words in reg. 2(1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/iii)
+[^c-1124a0f928d3998baa77bad6dd5b7b11]: Textual amendment: Words in reg. 2(1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/iii)
 
 [^c22462271]: Marginal citation: OJ L 143, 30.4.2004, p56, amended by Directive 2006/21/EC (OJ No L 102, 11.4.2006 p15), Directive 2009/31/EC (OJ No L 140, 5.6.2009, p114) and Directive 2013/30/EU (OJ No L 178, 28.06.13, p66.)
 
 [^c22462281]: Marginal citation: [S.I. 1995/738](https://www.legislation.gov.uk/uksi/1995/738), amended by [S.I. 2002/2175](https://www.legislation.gov.uk/uksi/2002/2175), 2005/3117. Further amendments are made by paragraphs 8 to 15 of Schedule 13 to these Regulations.
 
-[^key-94fe4850c7a7924c24c2ea2632282833]: Textual amendment: Words in reg. 2(1) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/iv)
+[^c-94fe4850c7a7924c24c2ea2632282833]: Textual amendment: Words in reg. 2(1) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/iv)
 
-[^key-af9064f84c96733211c18ab7e9965f03]: Textual amendment: Words in reg. 2(1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(v)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/v)
+[^c-af9064f84c96733211c18ab7e9965f03]: Textual amendment: Words in reg. 2(1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(v)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/v)
 
 [^c22462291]: Marginal citation: [S.I. 1995/743](https://www.legislation.gov.uk/uksi/1995/743), amended by [S.I. 2005/3117](https://www.legislation.gov.uk/uksi/2005/3117) and paragraphs 16 to 23 of Schedule 13 to these Regulations.
 
 [^c22462301]: Marginal citation: [S.I. 1996/825](https://www.legislation.gov.uk/uksi/1996/825), to which there are amendments not relevant to these Regulations.
 
-[^key-3a59f71eae0b87a2b2a18c86bf0a58a2]: Textual amendment: Words in reg. 2(1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/vi)
+[^c-3a59f71eae0b87a2b2a18c86bf0a58a2]: Textual amendment: Words in reg. 2(1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/vi)
 
-[^key-5db174e2a38dabf0e52cae1cf94d0719]: Textual amendment: Words in reg. 2(1) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(vii)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/vii)
+[^c-5db174e2a38dabf0e52cae1cf94d0719]: Textual amendment: Words in reg. 2(1) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(vii)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/vii)
 
-[^key-2edcb268812a43ab62ad675e88eee319]: Textual amendment: Words in reg. 2(1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(viii)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/viii)
+[^c-2edcb268812a43ab62ad675e88eee319]: Textual amendment: Words in reg. 2(1) substituted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(a)(viii)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/a/viii)
 
 [^c22462311]: Marginal citation: Paragraph (ca) is inserted by paragraph 10(2)(a) of Schedule 13 to these Regulations.
 
-[^key-9353f0cc07d35935d61b966f3d559f6d]: Textual amendment: Words in reg. 2(4) substituted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [6(2)(a)](https://www.legislation.gov.uk/uksi/2017/304/regulation/6/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/3)) (which has been made in consequence of defects in [The Health and Safety (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/238)](https://www.legislation.gov.uk/uksi/2017/238), [regs. 2(4)](https://www.legislation.gov.uk/uksi/2017/238/regulation/2/4), [7(2)(a)](https://www.legislation.gov.uk/uksi/2017/238/regulation/7/2/a))
+[^c-9353f0cc07d35935d61b966f3d559f6d]: Textual amendment: Words in reg. 2(4) substituted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [6(2)(a)](https://www.legislation.gov.uk/uksi/2017/304/regulation/6/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/3)) (which has been made in consequence of defects in [The Health and Safety (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/238)](https://www.legislation.gov.uk/uksi/2017/238), [regs. 2(4)](https://www.legislation.gov.uk/uksi/2017/238/regulation/2/4), [7(2)(a)](https://www.legislation.gov.uk/uksi/2017/238/regulation/7/2/a))
 
-[^key-c7cfbdc51bd29bf8ea285439fe2a875f]: Textual amendment: Words in reg. 2(4)(a) substituted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [6(2)(b)](https://www.legislation.gov.uk/uksi/2017/304/regulation/6/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/3)) (which has been made in consequence of defects in [The Health and Safety (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/238)](https://www.legislation.gov.uk/uksi/2017/238), [regs. 2(4)](https://www.legislation.gov.uk/uksi/2017/238/regulation/2/4), [7(2)(b)](https://www.legislation.gov.uk/uksi/2017/238/regulation/7/2/b))
+[^c-c7cfbdc51bd29bf8ea285439fe2a875f]: Textual amendment: Words in reg. 2(4)(a) substituted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [6(2)(b)](https://www.legislation.gov.uk/uksi/2017/304/regulation/6/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/3)) (which has been made in consequence of defects in [The Health and Safety (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/238)](https://www.legislation.gov.uk/uksi/2017/238), [regs. 2(4)](https://www.legislation.gov.uk/uksi/2017/238/regulation/2/4), [7(2)(b)](https://www.legislation.gov.uk/uksi/2017/238/regulation/7/2/b))
 
-[^key-2fef8a396a795d00dafd5c12140a1ef6]: Textual amendment: Words in reg. 2(10) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/b)
+[^c-2fef8a396a795d00dafd5c12140a1ef6]: Textual amendment: Words in reg. 2(10) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/2/b)
 
 [^c22462321]: Marginal citation: [S.I. 1998/1056](https://www.legislation.gov.uk/uksi/1998/1056). Regulation 4(3) was amended by regulation 6(5) of the [Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) (Amendment) Regulations 2015 (S.I. 2015/386)](https://www.legislation.gov.uk/uksi/2015/386) and Schedule 2 was inserted by regulation 12(2) of those Regulations. Regulation 4(7) was amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), [Schedule 2](https://www.legislation.gov.uk/uksi/2009/229/schedule/2), [Part 2](https://www.legislation.gov.uk/uksi/2009/229/part/2), [paragraph 11](https://www.legislation.gov.uk/uksi/2009/229/paragraph/11).

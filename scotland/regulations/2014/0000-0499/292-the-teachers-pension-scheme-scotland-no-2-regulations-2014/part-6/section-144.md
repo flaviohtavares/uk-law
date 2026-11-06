@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 144. Annual rate of additional (surviving adult) pension: short-term[^key-88b2ace8b7e889de655ea5c57974fe7b]
+## 144. Annual rate of additional (surviving adult) pension: short-term[^c-88b2ace8b7e889de655ea5c57974fe7b]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88b2ace8b7e889de655ea5c57974fe7b]: Commencement: [Reg. 144](https://www.legislation.gov.uk/ssi/2014/292/regulation/144) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-88b2ace8b7e889de655ea5c57974fe7b]: Commencement: [Reg. 144](https://www.legislation.gov.uk/ssi/2014/292/regulation/144) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

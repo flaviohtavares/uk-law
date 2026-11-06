@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 562A. Breach of condition D in section 528 (conditions for company)[^key-b1b739d7c1708eda393bb9f1e9961c65]
+## 562A. Breach of condition D in section 528 (conditions for company)[^c-b1b739d7c1708eda393bb9f1e9961c65]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ and, accordingly, the breach is to be ignored.
 
 ## Annotations
 
-[^key-b1b739d7c1708eda393bb9f1e9961c65]: Textual amendment: S. 562A inserted (with effect in accordance with Sch. 4 para. 13(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/9)
+[^c-b1b739d7c1708eda393bb9f1e9961c65]: Textual amendment: S. 562A inserted (with effect in accordance with Sch. 4 para. 13(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/9)

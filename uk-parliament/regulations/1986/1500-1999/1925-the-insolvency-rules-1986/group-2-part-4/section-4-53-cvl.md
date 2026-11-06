@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.53-CVL. Business at meeting under s. 95 or 98[^key-4aa5f4003b14aff9e63287d14827e68d]
+## 4.53-CVL. Business at meeting under s. 95 or 98[^c-4aa5f4003b14aff9e63287d14827e68d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Rule 4.52(1), except sub-paragraph (e), applies to a creditors' meeting under se
 
 ## Annotations
 
-[^key-4aa5f4003b14aff9e63287d14827e68d]: Commencement: [Rule 4.53CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.53CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4aa5f4003b14aff9e63287d14827e68d]: Commencement: [Rule 4.53CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.53CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

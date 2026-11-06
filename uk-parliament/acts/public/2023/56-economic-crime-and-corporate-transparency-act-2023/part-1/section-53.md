@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Filing obligations of micro-entities[^key-001793c14c54af71d1977aeea809ae91]
+## 53. Filing obligations of micro-entities[^c-001793c14c54af71d1977aeea809ae91]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ Before section 444 of the Companies Act 2006 (but after the italic heading befor
 
 ## Annotations
 
-[^key-001793c14c54af71d1977aeea809ae91]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-001793c14c54af71d1977aeea809ae91]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

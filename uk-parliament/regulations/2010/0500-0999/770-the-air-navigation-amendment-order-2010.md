@@ -32,7 +32,7 @@ summary: ''
 
 Civil Aviation
 
-The Air Navigation (Amendment) Order 2010 (revoked)[^key-a9980a5227af3a8a1bb17f4e761f90bc]
+The Air Navigation (Amendment) Order 2010 (revoked)[^c-a9980a5227af3a8a1bb17f4e761f90bc]
 
 Made
 
@@ -52,40 +52,40 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-a9980a5227af3a8a1bb17f4e761f90bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9980a5227af3a8a1bb17f4e761f90bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a9980a5227af3a8a1bb17f4e761f90bc]
+## 1. Citation and commencement[^c-a9980a5227af3a8a1bb17f4e761f90bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Air Navigation Order 2009[^key-a9980a5227af3a8a1bb17f4e761f90bc]
+## 2. Amendment of the Air Navigation Order 2009[^c-a9980a5227af3a8a1bb17f4e761f90bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirements for aerodromes used for flying training and testing[^key-a9980a5227af3a8a1bb17f4e761f90bc]
+## 3. Requirements for aerodromes used for flying training and testing[^c-a9980a5227af3a8a1bb17f4e761f90bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Powers of aerodrome firefighters in an emergency[^key-a9980a5227af3a8a1bb17f4e761f90bc]
+## 4. Powers of aerodrome firefighters in an emergency[^c-a9980a5227af3a8a1bb17f4e761f90bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Definitions[^key-a9980a5227af3a8a1bb17f4e761f90bc]
+## 5. Definitions[^c-a9980a5227af3a8a1bb17f4e761f90bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Other changes[^key-a9980a5227af3a8a1bb17f4e761f90bc]
+## 6. Other changes[^c-a9980a5227af3a8a1bb17f4e761f90bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9980a5227af3a8a1bb17f4e761f90bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9980a5227af3a8a1bb17f4e761f90bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a9980a5227af3a8a1bb17f4e761f90bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9980a5227af3a8a1bb17f4e761f90bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9980a5227af3a8a1bb17f4e761f90bc]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/770) revoked (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/1) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-a9980a5227af3a8a1bb17f4e761f90bc]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/770) revoked (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/1) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))

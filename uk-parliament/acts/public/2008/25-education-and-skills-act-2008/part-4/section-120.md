@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Application to justice of the peace for order[^key-ff68f244650cfbfc168759e2f1343f30]
+## 120. Application to justice of the peace for order[^c-ff68f244650cfbfc168759e2f1343f30]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff68f244650cfbfc168759e2f1343f30]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2008/25/section/120) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(o)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/o)
+[^c-ff68f244650cfbfc168759e2f1343f30]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2008/25/section/120) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(o)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/o)

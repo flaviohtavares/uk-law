@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 146. Entitlement to child pension[^key-ed61bb9dce62962702240fa2c9b2b663]
+## 146. Entitlement to child pension[^c-ed61bb9dce62962702240fa2c9b2b663]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed61bb9dce62962702240fa2c9b2b663]: Commencement: [Reg. 146](https://www.legislation.gov.uk/ssi/2014/292/regulation/146) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-ed61bb9dce62962702240fa2c9b2b663]: Commencement: [Reg. 146](https://www.legislation.gov.uk/ssi/2014/292/regulation/146) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

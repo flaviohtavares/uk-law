@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Requirement of secrecy[^key-2d79d88f592189083eff82871db7d1f7]
+## 31. Requirement of secrecy[^c-2d79d88f592189083eff82871db7d1f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ shall maintain and aid in maintaining the secrecy of voting and shall not, excep
 
 ## Annotations
 
-[^key-2d79d88f592189083eff82871db7d1f7]: Commencement: Art. 31 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-2d79d88f592189083eff82871db7d1f7]: Commencement: Art. 31 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00031]: Footnote: Sections 6A to 6D were inserted by the 2006 Act, section 29.

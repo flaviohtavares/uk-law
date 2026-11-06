@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Release[^key-a200d6b20dffbd2f9912212313c526de]
+## 111. Release[^c-a200d6b20dffbd2f9912212313c526de]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A bank liquidator who is released is discharged from all liability in respect of
 
 ## Annotations
 
-[^key-a200d6b20dffbd2f9912212313c526de]: Commencement: S. 111 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-a200d6b20dffbd2f9912212313c526de]: Commencement: S. 111 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

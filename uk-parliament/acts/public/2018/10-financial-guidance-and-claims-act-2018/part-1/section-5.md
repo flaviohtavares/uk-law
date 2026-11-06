@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Delegation of functions to delivery partner organisations[^key-fd4edde9d765419c3bd83ff1e3584a85]
+## 5. Delegation of functions to delivery partner organisations[^c-fd4edde9d765419c3bd83ff1e3584a85]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd4edde9d765419c3bd83ff1e3584a85]: Commencement: S. 5 in force at 1.1.2019 by [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/c)
+[^c-fd4edde9d765419c3bd83ff1e3584a85]: Commencement: S. 5 in force at 1.1.2019 by [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/c)

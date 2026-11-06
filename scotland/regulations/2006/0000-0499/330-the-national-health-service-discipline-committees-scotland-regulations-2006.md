@@ -48,13 +48,13 @@ The Scottish Ministers, in exercise of the powers conferred by sections 17P, 25(
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and extent[^key-5eccacde10914449c29965f13d1f5f3a]
+### 1. Citation, commencement and extent[^c-5eccacde10914449c29965f13d1f5f3a]
 
 (1) These Regulations may be cited as the National Health Service (Discipline Committees) (Scotland) Regulations 2006 and shall come into force on 1st July 2006.
 
 (2) These Regulations extend to Scotland only.
 
-### 2. Interpretation[^key-9497030f80fab61e431f549af20d25da]
+### 2. Interpretation[^c-9497030f80fab61e431f549af20d25da]
 
 (1) In these Regulations–
 
@@ -74,8 +74,8 @@ The Scottish Ministers, in exercise of the powers conferred by sections 17P, 25(
 - “area professional committee” means an area dental committee, area medical committee, area optical committee or area pharmaceutical committee, as appropriate;
 - “chairperson” includes a deputy chairperson acting in his or her place;
 - “Chief Executive” means the Chief Executive of a Health Board, or some other officer of the Health Board duly authorised to act on behalf of the Chief Executive;
-- [^key-8f94fba283ff2c10a3e9371a98427383]...
-- “dental body corporate” means a body corporate entitled by virtue of section 43 of the Dentists Act 1984(1) to carry on the business of dentistry;[^key-d3cfa498dacc2c68c29b841a1e99fbf1]
+- [^c-8f94fba283ff2c10a3e9371a98427383]...
+- “dental body corporate” means a body corporate entitled by virtue of section 43 of the Dentists Act 1984(1) to carry on the business of dentistry;[^c-d3cfa498dacc2c68c29b841a1e99fbf1]
 - “dental discipline committee” means a committee referred to in regulation 3(1)(b);
 - “dentist” means a registered dental practitioner;
 - “dentists' panel” means the panel of dentists who are, or who have been, engaged in the provision of general dental services and who have been nominated to the panel for the purposes of these Regulations by a body which is, in the Scottish Ministers' opinion, representative of the dental profession;
@@ -83,9 +83,9 @@ The Scottish Ministers, in exercise of the powers conferred by sections 17P, 25(
 - “discipline committee” has the meaning given in regulation 3(2);
 - “doctor” means a registered medical practitioner excluding an ophthalmic medical practitioner unless performing primary medical services;
 - “doctors' panel” means the panel of doctors who are, or who have been, engaged in the performance of primary medical services and who have been nominated to the panel for the purposes of these Regulations by a body which is, in the Scottish Ministers' opinion, representative of doctors engaged in the performance of primary medical services;
-- “him or her” includes “it” when referring to a practitioner who is a dental body corporate;[^key-89870c16737f0826fb7f62f6d1e7e55a]
+- “him or her” includes “it” when referring to a practitioner who is a dental body corporate;[^c-89870c16737f0826fb7f62f6d1e7e55a]
 - “his or her” includes “its” when referring to a practitioner who is a dental body corporate;
-- “General Dental Services Regulations” means, in respect of the period to 1st July 2010, the National Health Service (General Dental Services) (Scotland) Regulations 1996[^key-43533fc13cdcdb30fa78ea2528713db6][^M_F_cafc3cf6-1bd8-43ee-b41e-f241a0eaf217] and, in respect of the period from 2nd July 2010, the National Health Service (General Dental Services) (Scotland) Regulations 2010[^M_F_125ea29b-753a-498a-8c16-f576a9d57860];
+- “General Dental Services Regulations” means, in respect of the period to 1st July 2010, the National Health Service (General Dental Services) (Scotland) Regulations 1996[^c-43533fc13cdcdb30fa78ea2528713db6][^M_F_cafc3cf6-1bd8-43ee-b41e-f241a0eaf217] and, in respect of the period from 2nd July 2010, the National Health Service (General Dental Services) (Scotland) Regulations 2010[^M_F_125ea29b-753a-498a-8c16-f576a9d57860];
 - “General Ophthalmic Services Regulations” means in respect of the period prior to 1st April 2006 the National Health Service (General Ophthalmic Services) (Scotland) Regulations 1986[^f00010]and in respect of the period from 1st April 2006 the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006[^f00011];
 - “Health Board” means a Health Board constituted under section 2 of the Act[^f00012];
 - “in writing” does not include transmission by electronic means;
@@ -97,11 +97,11 @@ The Scottish Ministers, in exercise of the powers conferred by sections 17P, 25(
 - “optician” means an ophthalmic optician;
 - “Part II Services” means services provided under Part II of the Act;
 - “pharmaceutical discipline committee” means a committee referred to in regulation 3(1)(d);
-- “Pharmaceutical Services Regulations” means the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^key-34dbf9a5fe28c97e4b9d09c4cb7357a5];
+- “Pharmaceutical Services Regulations” means the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^c-34dbf9a5fe28c97e4b9d09c4cb7357a5];
 - “pharmacist” means a person registered with the Royal Pharmaceutical Society of Great Britain in the register of pharmaceutical chemists;
 - “pharmacist contractor” means a contractor who provides pharmaceutical services, or a person lawfully conducting a retail pharmacy business in accordance with section 69 (general provisions) of the Medicines Act 1968[^f00014];
 - “Practice Board” means the Scottish Dental Practice Board constituted under section 4 of the Act[^f00015];
-- “practitioner” means, except in Schedule 1[^key-0a21842440aa9bce16984792f90191a3], a doctor, a dentist, a dental body corporate,[^key-0f4054689ee4e13ddb133fd58992644d] an ophthalmic medical practitioner, an optician, a pharmacist or a pharmacist contractor, as the case may be;
+- “practitioner” means, except in Schedule 1[^c-0a21842440aa9bce16984792f90191a3], a doctor, a dentist, a dental body corporate,[^c-0f4054689ee4e13ddb133fd58992644d] an ophthalmic medical practitioner, an optician, a pharmacist or a pharmacist contractor, as the case may be;
 - “primary medical services performers' list” means the list maintained by a Health Board under the Primary Medical Services Performers' Lists Regulations;
 - “Primary Medical Services Performers' Lists Regulations” means the National Health Service (Primary Medical Services Performers' Lists) (Scotland) Regulations 2004[^f00016];
 - “section 17C agreement” means an agreement under section 17C of the Act[^f00017];
@@ -110,22 +110,22 @@ The Scottish Ministers, in exercise of the powers conferred by sections 17P, 25(
 - “supplements” means prisms, tints, photochromic lenses, small glasses and complex appliances;
 - “terms of service” means–
   - (a) the requirements with which a doctor included in the primary medical services performers' list must comply under or by virtue of regulation 8 of the Primary Medical Services Performers' Lists Regulations;
-  - (b) the terms of service for dentists or dental bodies corporate[^key-73ed0b2591e4579a0fee971b7dd6546d] contained in Schedule 1 to the General Dental Services Regulations;
+  - (b) the terms of service for dentists or dental bodies corporate[^c-73ed0b2591e4579a0fee971b7dd6546d] contained in Schedule 1 to the General Dental Services Regulations;
   - (c) the terms of service for ophthalmic medical practitioners and opticians contained in Schedule 1 to the General Ophthalmic Services Regulations;
   - (d) the terms of service for pharmacists contained in Schedule 1 to the Pharmaceutical Services Regulations; or
   - (e) the terms under which additional pharmaceutical services are provided under arrangements made in accordance with directions under section 27A of the Act[^f00019],
 
   as the case may be;
-- “[^key-edc7630946ef18a625b959c48f807301]**treatment**” in relation to general dental services, except in relation to regulation 6(7)(c), means care and treatment within the meaning of the General Dental Services Regulations;
+- “[^c-edc7630946ef18a625b959c48f807301]**treatment**” in relation to general dental services, except in relation to regulation 6(7)(c), means care and treatment within the meaning of the General Dental Services Regulations;
 - “the Tribunal” means the Tribunal constituted under section 29 of and Schedule 8 to, the Act[^f00020].
 
-(2)[^key-3fba43f58973210b33fd8e81ca588495] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3fba43f58973210b33fd8e81ca588495] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In these Regulations any reference to a numbered regulation or a numbered Schedule is, unless otherwise expressly provided, a reference to a regulation or a Schedule bearing that number in these Regulations.
 
 ## PART II — INVESTIGATION OF DISCIPLINARY MATTERS
 
-### 3. Establishment of committees[^key-32711573610c316ca9d08ccac6056ef7]
+### 3. Establishment of committees[^c-32711573610c316ca9d08ccac6056ef7]
 
 (1) Subject to paragraph (3), every Health Board shall have–
 
@@ -145,7 +145,7 @@ and may, where it sees fit, have 2 or more of any of those committees.
 
 (5) Schedule 1 shall have effect with respect to the constitution of discipline committees.
 
-### 4. Provisions relating to the start of disciplinary proceedings[^key-71c6851aa3606fcad0d69abaf3c756b1]
+### 4. Provisions relating to the start of disciplinary proceedings[^c-71c6851aa3606fcad0d69abaf3c756b1]
 
 (1) Where an appropriate Health Board receives information which it considers could amount to an allegation that a practitioner has failed to comply with his or her terms of service, it shall decide either to take no action or to take one or both of the courses of action set out in paragraph (2).
 
@@ -156,20 +156,20 @@ and may, where it sees fit, have 2 or more of any of those committees.
 
 (3) Without prejudice to any other rights or remedies which it may have, where an appropriate Health Board considers that a payment has been made to a practitioner which was not due and the practitioner does not admit that overpayment, the appropriate Health Board may refer the overpayment under regulation 5(1).
 
-(4)[^key-e8a39ba57c7c453b4ac8f446603a2f69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e8a39ba57c7c453b4ac8f446603a2f69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e8a39ba57c7c453b4ac8f446603a2f69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e8a39ba57c7c453b4ac8f446603a2f69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In this regulation–
 
 - (a) “relevant professional body” means–
   - (i) in relation to a doctor or an ophthalmic medical practitioner, the General Medical Council[^f00027];
-  - (ii) in relation to a dentist or a dental body corporate[^key-5ed72817cc9e5e30b80fa214952d33c4], the General Dental Council[^f00028];
+  - (ii) in relation to a dentist or a dental body corporate[^c-5ed72817cc9e5e30b80fa214952d33c4], the General Dental Council[^f00028];
   - (iii) in relation to an optician, the General Optical Council[^f00029]; or
-  - (iv)[^key-aec91c840479431d318ea86fc612ecac] in relation to a pharmacist, the General Pharmaceutical Council;
+  - (iv)[^c-aec91c840479431d318ea86fc612ecac] in relation to a pharmacist, the General Pharmaceutical Council;
 - (b) “the relevant time” means the time of the event, treatment or other matter giving rise to the allegation.
 
-### 5. Referral to discipline committee[^key-ca81b19ffbdefaf0c01a30c2b15fe166]
+### 5. Referral to discipline committee[^c-ca81b19ffbdefaf0c01a30c2b15fe166]
 
 (1) Where an appropriate Health Board decides to proceed under regulation 4(2)(a) or (3) it shall, subject to paragraph (2), refer the matter to another Health Board for investigation by that Health Board’s appropriate discipline committee.
 
@@ -178,7 +178,7 @@ and may, where it sees fit, have 2 or more of any of those committees.
 (3) Subject to paragraph (6), the appropriate discipline committee referred to in paragraph (1) is–
 
 - (a) where the matter relates to a doctor, a medical discipline committee;
-- (b) where the matter relates to a dentist or a dental body corporate[^key-4f3c8d69168ac50c414077404e4f4f1a], a dental discipline committee;
+- (b) where the matter relates to a dentist or a dental body corporate[^c-4f3c8d69168ac50c414077404e4f4f1a], a dental discipline committee;
 - (c) where the matter relates to an ophthalmic medical practitioner or optician, an ophthalmic discipline committee;
 - (d) where the matter relates to a pharmacist, a pharmaceutical discipline committee.
 
@@ -188,17 +188,17 @@ and may, where it sees fit, have 2 or more of any of those committees.
 
 (6) Where a matter is referred for investigation by a joint discipline committee under paragraph (4) or paragraph (5), that committee shall be the appropriate discipline committee instead of any other committee.
 
-### 6. Time limits[^key-54205d5dee1827d453a5635c9318d477]
+### 6. Time limits[^c-54205d5dee1827d453a5635c9318d477]
 
-(1)[^key-e62eeba2c5a76ea62e0d44aac14c2158] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-e62eeba2c5a76ea62e0d44aac14c2158] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where the disciplinary matter concerns an allegation which has been the subject of an investigation by the Agency, or of an investigation by any other person or body, the appropriate Health Board shall refer it under regulation 5(1) within 28 days of the Health Board having received the final report on the matter under investigation from the Agency or such other person or body.
 
-(3) Where the disciplinary matter relates to a matter which is the subject of an inquiry in terms of the Inquiries into Fatal Accidents and Sudden Deaths[^key-10d827968489786de8d067879e6f01b4] etc. (Scotland) Act 2016 the appropriate Health Board shall refer it under regulation 5 (1) within 28 days of the conclusion of that inquiry.
+(3) Where the disciplinary matter relates to a matter which is the subject of an inquiry in terms of the Inquiries into Fatal Accidents and Sudden Deaths[^c-10d827968489786de8d067879e6f01b4] etc. (Scotland) Act 2016 the appropriate Health Board shall refer it under regulation 5 (1) within 28 days of the conclusion of that inquiry.
 
 (4) Where the disciplinary matter relates to a matter which is the subject of any other proceedings before a court or tribunal, (including any appeal procedures) the appropriate Health Board shall refer it under regulation 5(1) within 28 days of the final conclusion of those proceedings
 
-(5) Where none of paragraph (2), (3) or (4)[^key-4b25c16038a31d09b7ed99c184fd52f1] applies, the appropriate Health Board shall refer the disciplinary matter under regulation 5(1) within the time limits specified in paragraph (7).
+(5) Where none of paragraph (2), (3) or (4)[^c-4b25c16038a31d09b7ed99c184fd52f1] applies, the appropriate Health Board shall refer the disciplinary matter under regulation 5(1) within the time limits specified in paragraph (7).
 
 (6) Where the disciplinary matter concerns an alleged overpayment made to a practitioner pursuant to regulation 4(3), the appropriate Health Board may refer it under regulation 5(1) at any time.
 
@@ -206,8 +206,8 @@ and may, where it sees fit, have 2 or more of any of those committees.
 
 - (a) in the case of a doctor, pharmacist or pharmacist contractor, 13 weeks after the event or matter which is the subject of the allegation occurred, or 13 weeks after the latest in a series of events or matters which are the subject of the allegation occurred;
 - (b) in the case of an ophthalmic medical practitioner or optician, 13 weeks after the event or matter which is the subject of the allegation occurred, or 13 weeks after the latest in a series of events or matters which are the subject matter of the allegation occurred;
-- (c) in the case of a dentist or dental body corporate[^key-aca8e4de247f4384fbbbb4dea1fc4427]–
-  - (i) subject to paragraph (8), where the matter concerns the treatment of a patient, either 6 months after the last date of submission [^key-ecf6d8a51becf657f44e7551c3ad0108]... of the claim forms for that course of treatment to the Practice Board or the Agency on behalf of the Practice Board, or, where the allegation relates to a series of courses of treatment, 6 months after the last date of submission [^key-ecf6d8a51becf657f44e7551c3ad0108]... of claim forms for the latest course of treatment in that series;
+- (c) in the case of a dentist or dental body corporate[^c-aca8e4de247f4384fbbbb4dea1fc4427]–
+  - (i) subject to paragraph (8), where the matter concerns the treatment of a patient, either 6 months after the last date of submission [^c-ecf6d8a51becf657f44e7551c3ad0108]... of the claim forms for that course of treatment to the Practice Board or the Agency on behalf of the Practice Board, or, where the allegation relates to a series of courses of treatment, 6 months after the last date of submission [^c-ecf6d8a51becf657f44e7551c3ad0108]... of claim forms for the latest course of treatment in that series;
   - (ii) subject to paragraph (8), where the matter does not concern the treatment of a patient and is reported to the appropriate Health Board by the Practice Board, 13 weeks after the date on which the matter, or after the latest in a series of matters, came to the notice of the Practice Board;
   - (iii) where the matter does not concern the treatment of a patient and comes to the notice of the appropriate Health Board other than by a report from the Practice Board, 13 weeks after the date on which the matter or after the latest in a series of matters came to the notice of the Health Board.
 
@@ -215,13 +215,13 @@ and may, where it sees fit, have 2 or more of any of those committees.
 
 (9) For the purposes of paragraph (7)(c), “treatment” has the same meaning as in regulation 2(1) of the General Dental Services Regulations.
 
-### 7. Investigations by discipline committees[^key-e1038be6436062f36ea592bdd2a6899e]
+### 7. Investigations by discipline committees[^c-e1038be6436062f36ea592bdd2a6899e]
 
 (1) A discipline committee shall investigate any matter which is referred to it.
 
 (2) Schedule 2 shall have effect with respect to the procedure for investigating disciplinary matters under this Part.
 
-### 8. Determination of appropriate Health Board[^key-55851b9542f54bb1f4e0337c9da9390c]
+### 8. Determination of appropriate Health Board[^c-55851b9542f54bb1f4e0337c9da9390c]
 
 (1) The appropriate Health Board, after due consideration of a report presented to it by the discipline committee pursuant to paragraph 7(1) of Schedule 2, shall–
 
@@ -262,7 +262,7 @@ and may, where it sees fit, have 2 or more of any of those committees.
 
 (9) For the purpose of paragraph (3) “estimate” has the same meaning as in regulation 2(1) of the General Dental Services Regulations.
 
-### 9. Appeal to Scottish Ministers[^key-f3d8a5d1c67730bda6c775f4bdf1be06]
+### 9. Appeal to Scottish Ministers[^c-f3d8a5d1c67730bda6c775f4bdf1be06]
 
 (1) A practitioner may appeal to the Scottish Ministers–
 
@@ -301,7 +301,7 @@ by giving notice of an appeal in accordance with paragraph (2).
 - (a) by giving notice in writing to the Scottish Ministers of his or her intention to do so; and
 - (b) with the consent of the Scottish Ministers.
 
-### 10. Procedure on appeal to Scottish Ministers[^key-a99034be2106669cb50c4be38fe2f61e]
+### 10. Procedure on appeal to Scottish Ministers[^c-a99034be2106669cb50c4be38fe2f61e]
 
 (1) Without prejudice to paragraph (5), if the Scottish Ministers, after considering a notice of appeal and any further particulars furnished by the practitioner, are of the opinion that the notice and particulars disclose no reasonable grounds of appeal or that the appeal is otherwise vexatious or frivolous, they may determine the appeal by dismissing it immediately.
 
@@ -321,7 +321,7 @@ by giving notice of an appeal in accordance with paragraph (2).
 (7) The persons appointed under paragraph (6)(b) shall be–
 
 - (a) where the practitioner is a doctor, 2 doctors;
-- (b) where the practitioner is a dentist or a dental body corporate[^key-50f45c3a9a37e5395727648df63f22be], 2 dentists;
+- (b) where the practitioner is a dentist or a dental body corporate[^c-50f45c3a9a37e5395727648df63f22be], 2 dentists;
 - (c) where the practitioner is an ophthalmic medical practitioner, 2 ophthalmic medical practitioners;
 - (d) where the practitioner is an optician, 2 opticians; and
 - (e) where the practitioner is a pharmacist contractor, 2 pharmacists.
@@ -353,7 +353,7 @@ by giving notice of an appeal in accordance with paragraph (2).
 
 (15) The provisions of Schedule 3 shall have effect with regard to the hearing of an appeal.
 
-### 11. Recovery of amounts from practitioners following appeal[^key-6bfe157cc5f8ad65d8397c432cbf0327]
+### 11. Recovery of amounts from practitioners following appeal[^c-6bfe157cc5f8ad65d8397c432cbf0327]
 
 (1) Where–
 
@@ -362,7 +362,7 @@ by giving notice of an appeal in accordance with paragraph (2).
 
 the Scottish Ministers shall, subject to the following provisions of this regulation, determine whether any, and if so, what amount shall be recovered from the practitioner, whether by way of deduction from his or her remuneration or otherwise.
 
-(2) The Scottish Ministers shall not consider the question of the recovery of an amount from a doctor or dentist or dental body corporate[^key-b2bd6ed622cf60febe142419c03b87d0] whose failure to comply with his or her terms of service (as determined under these Regulations) is a failure specified in relation to him or her in Part I of Schedule 4 unless they have referred the question of recovery to the appropriate advisory committee and have received the advice of that committee.
+(2) The Scottish Ministers shall not consider the question of the recovery of an amount from a doctor or dentist or dental body corporate[^c-b2bd6ed622cf60febe142419c03b87d0] whose failure to comply with his or her terms of service (as determined under these Regulations) is a failure specified in relation to him or her in Part I of Schedule 4 unless they have referred the question of recovery to the appropriate advisory committee and have received the advice of that committee.
 
 (3) Where the case is not one to which paragraph (2) applies, the Scottish Ministers, before considering the question of recovery of–
 
@@ -382,11 +382,11 @@ the Scottish Ministers shall, subject to the following provisions of this regula
 
 (8) Any amount which falls to be recovered by a Health Board by virtue of paragraph (6) shall, to the extent that it is not recovered by deduction from the practitioner’s remuneration, be a debt owed by the practitioner to that Health Board.
 
-### 12. Death of practitioner[^key-42548dc5ec9d9b9a94d9f5fee437b1de]
+### 12. Death of practitioner[^c-42548dc5ec9d9b9a94d9f5fee437b1de]
 
 Where, at any time after a disciplinary matter has been referred under regulation 5(1) but before the appropriate Health Board makes a determination under regulation 8 in relation to that matter, the practitioner to whom the matter relates dies, no further action shall be taken under these Regulations in relation to that practitioner.
 
-### 13. Investigation of excessive undertaking of eye examinations, excessive issuing of optical vouchers or excessive prescribing of supplements[^key-32dfdfc8d715c39dc777b095eda417d2]
+### 13. Investigation of excessive undertaking of eye examinations, excessive issuing of optical vouchers or excessive prescribing of supplements[^c-32dfdfc8d715c39dc777b095eda417d2]
 
 (1) An ophthalmic officer shall from time to time examine the eye examination and optical voucher forms which have been completed by an ophthalmic medical practitioner or an ophthalmic optician in respect of persons who may have an eye examination after 1st April 2006 under general ophthalmic services in accordance with the General Ophthalmic Services Regulations.
 
@@ -399,7 +399,7 @@ Where, at any time after a disciplinary matter has been referred under regulatio
 
 ## PART III — MISCELLANEOUS
 
-### 14. Service of notices, etc[^key-a76623f62aef076d7525a9b14f11900b]
+### 14. Service of notices, etc[^c-a76623f62aef076d7525a9b14f11900b]
 
 (1) Any notice or document which is required or authorised by these Regulations to be sent to or served on any person or body may be sent or served as follows:–
 
@@ -412,23 +412,23 @@ Where, at any time after a disciplinary matter has been referred under regulatio
 
 (3) Unless the contrary is proved, any notice or document sent in accordance with this regulation shall be deemed to be received at the time at which a letter would be delivered in the ordinary course of post.
 
-### 15. Power to dispense with requirements as to notices[^key-dc967d5e42f42bcaf3838394991e4bbb]
+### 15. Power to dispense with requirements as to notices[^c-dc967d5e42f42bcaf3838394991e4bbb]
 
 The Scottish Ministers may dispense with any requirements of these Regulations applicable to notices, applications, documents or otherwise in any case where it appears to the Scottish Ministers appropriate to do so.
 
-### 16. Attendance by member of Administrative Justice and Tribunals Council[^key-1fe81c3f9a1e4f79e41c8d45ec11e57f][^key-a8cf2988b0407b8df3c50ec069154963]
+### 16. Attendance by member of Administrative Justice and Tribunals Council[^c-1fe81c3f9a1e4f79e41c8d45ec11e57f][^c-a8cf2988b0407b8df3c50ec069154963]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART IV — TRANSITIONAL PROVISIONS AND REVOCATIONS
 
-### 17. Transitional provisions[^key-3fc2cf6e7fdb913a3e5371efff1725fc]
+### 17. Transitional provisions[^c-3fc2cf6e7fdb913a3e5371efff1725fc]
 
 (1) Where, before the date on which these Regulations come into force a Health Board has referred a matter to another Health Board for investigation by that Health Board’s appropriate discipline committee under regulation 4 of the National Health Service (Service Committees and Tribunal) (Scotland) Regulations 1992[^f00031](“the 1992 Regulations”), the provisions of those Regulations shall, notwithstanding regulation 18 (revocations) continue to apply on or after that date, as respects any investigation, hearing, direction or report which by virtue of any provision of the 1992 Regulations falls to be investigated, held or made in relation to any such matter or in relation to an appeal to the Scottish Ministers.
 
 (2) Notwithstanding regulation 18 (revocations), a Health Board shall be entitled to consider in terms of regulation 4(1) any report prepared by an ophthalmic officer in terms of regulation 20 of the 1992 Regulations (investigation of excessive testing of sight and/or excessive issuing of vouchers)[^f00032]irrespective of whether such a report was received by the Health Board prior to, or after, the date on which these Regulations come into force.
 
-### 18. Revocations[^key-0f606320bdd4a8d5b575023b5d9de87c]
+### 18. Revocations[^c-0f606320bdd4a8d5b575023b5d9de87c]
 
 The Regulations specified in column (1) of Schedule 5 are revoked to the extent specified in column (3) of that Schedule.
 
@@ -444,13 +444,13 @@ Edinburgh
 
 Regulation 3(5)
 
-**1.**[^key-c322f0b43c7312a17dccc398bea56aed] A discipline committee other than a joint discipline committee shall consist of–
+**1.**[^c-c322f0b43c7312a17dccc398bea56aed] A discipline committee other than a joint discipline committee shall consist of–
 
 - (a) a chairperson appointed in accordance with paragraph 4;
 - (b) one lay person appointed by the Health Board; and
 - (c) one practitioner appointed by the Health Board from a list of nominees provided by the area professional committee for the Health Board’s area.
 
-**2.**[^key-4ef55d111ec2d33a720cec18003da3c9] (1) A joint discipline committee shall consist of–
+**2.**[^c-4ef55d111ec2d33a720cec18003da3c9] (1) A joint discipline committee shall consist of–
 
 - (a) a chairperson appointed in accordance with paragraph 4; and
 - (b) five other members of whom–
@@ -467,15 +467,15 @@ Regulation 3(5)
 (4) For the purposes of sub–paragraph (3) a relevant practitioner is–
 
 - (a) in relation to a member appointed by the medical discipline committee, a doctor;
-- (b) in relation to a member appointed by the dental discipline committee, a dentist or dental body corporate[^key-6b82ae2be1e948a871bbd64b3601d09d];
+- (b) in relation to a member appointed by the dental discipline committee, a dentist or dental body corporate[^c-6b82ae2be1e948a871bbd64b3601d09d];
 - (c) in relation to a member appointed by the ophthalmic discipline committee, an ophthalmic medical practitioner or an optician;
 - (d) in relation to a member appointed by the pharmaceutical discipline committee, a pharmacist.
 
-**3.**[^key-f9b6500fb044d68cc72f78f449885ee2] (1) As respects each discipline committee not fewer than one lay person and not fewer than one practitioner shall be appointed as deputies, according to the same provisions as apply to the appointment of members of that committee other than the chairperson.
+**3.**[^c-f9b6500fb044d68cc72f78f449885ee2] (1) As respects each discipline committee not fewer than one lay person and not fewer than one practitioner shall be appointed as deputies, according to the same provisions as apply to the appointment of members of that committee other than the chairperson.
 
 (2) Where a member of a discipline committee, other than the chairperson, is absent, a deputy appointed according to the same provisions as that member may act in his or her place.
 
-**4.**[^key-fcef7d5dbe1f19c97e963b504217ecef] (1) The chairperson of a discipline committee shall be a solicitor or advocate appointed by the Health Board.
+**4.**[^c-fcef7d5dbe1f19c97e963b504217ecef] (1) The chairperson of a discipline committee shall be a solicitor or advocate appointed by the Health Board.
 
 (2) The Health Board shall, within 14 days of making an appointment under sub–paragraph (1), give notice in writing of the appointment to the other members of the discipline committee.
 
@@ -490,22 +490,22 @@ Regulation 3(5)
 
 (6) A person appointed as chairperson of a discipline committee who is already a member of that discipline committee shall, on appointment as chairperson, cease to be a member otherwise than in his or her capacity as chairperson and a new member shall be appointed to take his or her place.
 
-**5.**[^key-c9065a7772e8436f3492515620e84d33] (1) A person shall be appointed to act as deputy for the chairperson of any discipline committee and the provisions of paragraph 4 shall apply to that appointment as they apply to the appointment of the chairperson.
+**5.**[^c-c9065a7772e8436f3492515620e84d33] (1) A person shall be appointed to act as deputy for the chairperson of any discipline committee and the provisions of paragraph 4 shall apply to that appointment as they apply to the appointment of the chairperson.
 
 (2) The deputy chairperson may, in the absence of the chairperson, act in his or her place and may, if already a member of the committee when appointed, continue as a member but when acting as chairperson shall act only in that capacity.
 
-**6.**[^key-0d1c7b2c4709588952bc795fa019d0a0] (1) Subject to the other provisions of this Schedule, a Health Board may make standing orders with respect to the term of office of any members and deputy members of any discipline committee.
+**6.**[^c-0d1c7b2c4709588952bc795fa019d0a0] (1) Subject to the other provisions of this Schedule, a Health Board may make standing orders with respect to the term of office of any members and deputy members of any discipline committee.
 
-(2) Subject to any re–appointment, the term of office of any member or deputy member of such a committee shall not exceed three years[^key-7dbfdacecfcce4eacaf949ef1a9337e5].
+(2) Subject to any re–appointment, the term of office of any member or deputy member of such a committee shall not exceed three years[^c-7dbfdacecfcce4eacaf949ef1a9337e5].
 
 (3) A chairperson of a discipline committee may attend and take part in any proceedings of the appropriate Health Board at which a report of that committee is being considered, but may not vote.
 
-**7.**[^key-16c50536c7e3f1811c9129093b11dd03] A person who is a member of a discipline committee constituted under this Schedule shall cease to hold office–
+**7.**[^c-16c50536c7e3f1811c9129093b11dd03] A person who is a member of a discipline committee constituted under this Schedule shall cease to hold office–
 
 - (a) where he or she is the chairperson or a lay member, on ceasing to be the chairperson or a lay person, as the case may be;
 - (b) where he or she is a member not mentioned in sub–paragraph (a), on ceasing to be a practitioner.
 
-**8.**[^key-49ce8f81a808c0326098848f14daf79d] In this Schedule–
+**8.**[^c-49ce8f81a808c0326098848f14daf79d] In this Schedule–
 
 - (a) “lay member” in relation to a discipline committee or joint discipline committee, means any member (other than the chairperson) who is a lay person;
 - (b) “lay person” means a person who is not and never has been–
@@ -525,11 +525,11 @@ Regulation 3(5)
 
 Regulation 7(2)
 
-### 1. Health Board’s statement of case[^key-ed840e8cb8399b88c9e6fcb6a666e802]
+### 1. Health Board’s statement of case[^c-ed840e8cb8399b88c9e6fcb6a666e802]
 
 (1) Where a disciplinary matter is referred to the appropriate discipline committee in accordance with regulation 5(1), the appropriate Health Board shall–
 
-- (a) within 5[^key-b1e6c770923a8de0c3520b7dff058519] working days of the date the matter is referred to the appropriate discipline committee send a notice to the practitioner who is the subject of the referral advising that practitioner that the matter has been so referred;
+- (a) within 5[^c-b1e6c770923a8de0c3520b7dff058519] working days of the date the matter is referred to the appropriate discipline committee send a notice to the practitioner who is the subject of the referral advising that practitioner that the matter has been so referred;
 - (b) subject to sub–paragraph (4), send a statement of its case to the discipline committee and the practitioner within 28 working days of the date the matter is referred to the appropriate discipline committee.
 
 (2) The statement of case shall include–
@@ -540,14 +540,14 @@ Regulation 7(2)
 
 (3) Where the appropriate Health Board requests an extension of the 28 day period mentioned in sub–paragraph (1)(b) before it expires, the chairperson of the discipline committee may grant an extension of that period for a further 28 days from the day on which the period would otherwise expire.
 
-### 2. Disciplinary matters in relation to deputies[^key-a7b1432022bfdc00faac9c4547eb69ae]
+### 2. Disciplinary matters in relation to deputies[^c-a7b1432022bfdc00faac9c4547eb69ae]
 
 (1) Where a disciplinary matter which is investigated in relation to–
 
-- (a)[^key-f418b0974ed228dfcd99f48639543d59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f418b0974ed228dfcd99f48639543d59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a pharmacist contractor concerns the conduct of a pharmacist employed by him or her,
 
-the appropriate Health Board shall send a notice in writing in accordance with sub–paragraph (2) to the [^key-8093de43373006e2cc0e6fb44446308d]... employed pharmacist.
+the appropriate Health Board shall send a notice in writing in accordance with sub–paragraph (2) to the [^c-8093de43373006e2cc0e6fb44446308d]... employed pharmacist.
 
 (2) A notice given under sub–paragraph (1) shall–
 
@@ -561,13 +561,13 @@ the appropriate Health Board shall send a notice in writing in accordance with s
 
 (3) Where the recipient of a notice given under sub–paragraph (1) gives notification to the appropriate Health Board as mentioned in sub–paragraph (2)(a)(i), and submits comments as mentioned in sub–paragraph (2)(a)(ii), that person shall be treated for the purposes of this Schedule as if he or she were a practitioner in relation to whom the allegation, the subject of the disciplinary matter, is made, although no action may be taken in relation to him or her under regulation 8, and the following paragraphs of this Schedule (except paragraph (3)(1)) shall apply to that person accordingly.
 
-### 3. Response of practitioner[^key-2f47515c4db34213ea35e30e1ebd3359]
+### 3. Response of practitioner[^c-2f47515c4db34213ea35e30e1ebd3359]
 
 (1) Where the practitioner wishes to respond to the statement of case, he or she shall send the response to the appropriate Health Board and the discipline committee within 28 days of the date on which the statement of case was sent to the practitioner.
 
 (2) Where the practitioner requests an extension of the 28 day period mentioned in sub–paragraph (1) before it expires, the chairperson of the appropriate discipline committee may grant an extension of that period for a further 28 days from the day on which the period would otherwise expire.
 
-### 4. Preparation for the hearing[^key-8d795e0c50b28c23cfeccb05dc8753d1]
+### 4. Preparation for the hearing[^c-8d795e0c50b28c23cfeccb05dc8753d1]
 
 (1) The Health Board which has appointed the discipline committee shall–
 
@@ -592,13 +592,13 @@ the appropriate Health Board shall send a notice in writing in accordance with s
 - (d) any documentary evidence submitted under paragraph (1)(c); and
 - (e) any comments made under paragraph 2(2)(a)(ii).
 
-### 5. Attendance at hearing[^key-61a6c98467dbe1283aee75ece3b4b6df]
+### 5. Attendance at hearing[^c-61a6c98467dbe1283aee75ece3b4b6df]
 
 (1) Subject to the provisions of regulation 16 (attendance by member of Council on Tribunals), the hearing before the discipline committee shall be in private, and no person shall be admitted to it unless he or she is a person specified in sub–paragraph (2).
 
 (2) The persons specified for the purposes of sub–paragraph (1) are–
 
-- (a) subject to sub–paragraph (3), no more than one member or officer of the appropriate Health Board and the practitioner or, where the practitioner is a dental body corporate, a person who exercises some control over that dental body corporate[^key-499602cd16061f99b97800ded8dbada7];
+- (a) subject to sub–paragraph (3), no more than one member or officer of the appropriate Health Board and the practitioner or, where the practitioner is a dental body corporate, a person who exercises some control over that dental body corporate[^c-499602cd16061f99b97800ded8dbada7];
 - (b) any person permitted under sub–paragraph (3) to accompany a party;
 - (c) subject to sub–paragraph (5), any person whose attendance is required for the purpose of giving evidence to the discipline committee;
 - (d) not more than 2 officers of the Health Board which has appointed the discipline committee, who have been authorised by that Health Board to attend for the purpose of assisting the discipline committee in the discharge of its functions;
@@ -611,13 +611,13 @@ the appropriate Health Board shall send a notice in writing in accordance with s
 
 (5) Any person permitted to attend the hearing under sub–paragraph (2)(c) for the purpose of giving evidence shall, unless the discipline committee otherwise directs, be excluded from the hearing except while giving evidence.
 
-(6)[^key-57bebf7c2da7f5a3f8b548089ea1bf30] For the purposes of paragraph 5(2)(a) a person who exercises some control over a body corporate is, in the case of a—
+(6)[^c-57bebf7c2da7f5a3f8b548089ea1bf30] For the purposes of paragraph 5(2)(a) a person who exercises some control over a body corporate is, in the case of a—
 
 - (a) company, a director,
 - (b) limited liability partnership, a member,
 - (c) partnership, a partner.
 
-### 6. Procedure at the hearing[^key-8ab7a89c896f5531d143e90514cc9fc6]
+### 6. Procedure at the hearing[^c-8ab7a89c896f5531d143e90514cc9fc6]
 
 (1) At the hearing, any person mentioned in paragraph 5(2)(a) or (b) may–
 
@@ -632,7 +632,7 @@ the appropriate Health Board shall send a notice in writing in accordance with s
 
 (5) Where, in the course of a hearing, any issue arises in relation to an event or matter which, in the opinion of the chairperson–
 
-- (a) is pertinent to the disciplinary matter but was not sufficiently disclosed to the practitioner prior to the hearing, the chairperson may direct that the issue is to be excluded from consideration as part of the hearing[^key-830792e01fb2a5f289c47e7cc5758c3d];
+- (a) is pertinent to the disciplinary matter but was not sufficiently disclosed to the practitioner prior to the hearing, the chairperson may direct that the issue is to be excluded from consideration as part of the hearing[^c-830792e01fb2a5f289c47e7cc5758c3d];
 - (b) is not pertinent to the disciplinary matter, the issue shall be excluded from consideration as part of the hearing.
 
 (6) Subject to sub–paragraph (7), where the chairperson makes no direction under sub–paragraph (5)(a) the hearing shall be adjourned unless the practitioner and the chairperson agree that the hearing may proceed.
@@ -645,7 +645,7 @@ the appropriate Health Board shall send a notice in writing in accordance with s
 
 (10) Subject to the other provisions of this Schedule, the procedure at the hearing shall be determined by the discipline committee.
 
-### 7. Discipline committee’s report[^key-333fe70229a26c8b6a3e1e6fb456b10e]
+### 7. Discipline committee’s report[^c-333fe70229a26c8b6a3e1e6fb456b10e]
 
 (1) The discipline committee shall present to the appropriate Health Board a report in writing which shall contain–
 
@@ -659,7 +659,7 @@ the appropriate Health Board shall send a notice in writing in accordance with s
 
 (3) For the purposes of sub–paragraph (2) “any discipline committee” includes any discipline committee which investigated a complaint under the provisions of Part II of the National Health Service (Service Committees and Tribunal) (Scotland) Regulations 1992 as they were in force before 1st July 2006
 
-### 8. Provisions as to quorum, composition and voting[^key-ecdfcb8ed76d5ef76219a54bda49dc30]
+### 8. Provisions as to quorum, composition and voting[^c-ecdfcb8ed76d5ef76219a54bda49dc30]
 
 (1) All hearings of a discipline committee shall require all members of the committee to be present.
 
@@ -671,14 +671,14 @@ the appropriate Health Board shall send a notice in writing in accordance with s
 
 (5) Where there is an equality of votes among members of a discipline committee, the chairperson shall have a casting vote, but shall not otherwise be entitled to vote.
 
-### 9. Interpretation[^key-b3bcb58984739ac5d65d80d905574ca5]
+### 9. Interpretation[^c-b3bcb58984739ac5d65d80d905574ca5]
 
 In this Schedule–
 
-- (a)[^key-7895f1f9765033c3ba299084f2371ca7] “lay member” has the same meaning given to it in paragraph 8 of Schedule 1;
+- (a)[^c-7895f1f9765033c3ba299084f2371ca7] “lay member” has the same meaning given to it in paragraph 8 of Schedule 1;
 - (b) “relevant practitioner” means–
   - (i) a doctor, where the practitioner is a doctor;
-  - (ii) a dentist, where the practitioner is a dentist or a dental body corporate[^key-b13eb1be8e6863890bf0dedba5473196];
+  - (ii) a dentist, where the practitioner is a dentist or a dental body corporate[^c-b13eb1be8e6863890bf0dedba5473196];
   - (iii) an optician or ophthalmic medical practitioner, where the practitioner is an optician or an ophthalmic medical practitioner;
   - (iv) a pharmacist, where the practitioner is a pharmacist;
 - (c) “party” means the practitioner, the appropriate Health Board, and any person who is to be treated as a party to the investigation pursuant to paragraph 2(3).
@@ -687,24 +687,24 @@ In this Schedule–
 
 Regulation 10(15)
 
-**1.**[^key-34b4a2fd39d9b4db522b918eb2d944d7] Subject to the provisions of these Regulations the procedure at an appeal hearing shall be within the discretion of the persons hearing the appeal.
+**1.**[^c-34b4a2fd39d9b4db522b918eb2d944d7] Subject to the provisions of these Regulations the procedure at an appeal hearing shall be within the discretion of the persons hearing the appeal.
 
-**2.**[^key-d17763096f14ca8f769523c681fff7f9] The chairperson may by notice require any person–
+**2.**[^c-d17763096f14ca8f769523c681fff7f9] The chairperson may by notice require any person–
 
 - (a) to attend at the time and place specified in the notice, to give evidence or to produce any books or documents in that person’s custody or under that person’s control which relate to any matter in question at the hearing; or
 - (b) to provide within such reasonable period as is specified in the notice such information relating to any matter in question at the hearing as the chairperson who presides over the hearing may think fit, and as the person so required is able to provide; but–
   - (i) no person shall be required to attend at any place which is more than 10 miles from the place where that person resides unless the necessary expenses are paid or tendered to that person; and
   - (ii) nothing in this paragraph shall empower the chairperson to require any person to produce any book or document or to answer any question which that person would be entitled, on the ground of privilege or confidentiality, to refuse the produce or to answer if the hearing were a court of law.
 
-**3.**[^key-489982f36c5b7c33abb3fda5632da123] The chairperson may administer oaths and examine witnesses on oath, and may accept in lieu of evidence on oath by a person, a statement in writing by that person.
+**3.**[^c-489982f36c5b7c33abb3fda5632da123] The chairperson may administer oaths and examine witnesses on oath, and may accept in lieu of evidence on oath by a person, a statement in writing by that person.
 
-**4.**[^key-af22bc99752ee42fd03e211d9ff7a684] Any person who refuses or wilfully neglects to attend a hearing in response to a notice under paragraph 2(a) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a period not exceeding 3 months.
+**4.**[^c-af22bc99752ee42fd03e211d9ff7a684] Any person who refuses or wilfully neglects to attend a hearing in response to a notice under paragraph 2(a) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a period not exceeding 3 months.
 
-**5.**[^key-92426829fac2fd76f697613a38c763ac] Subject to the provisions of these Regulations, the hearing may adjourn from time to time as the chairperson thinks fit and hold adjourned sittings at such time and place as may appear the chairperson to be suitable.
+**5.**[^c-92426829fac2fd76f697613a38c763ac] Subject to the provisions of these Regulations, the hearing may adjourn from time to time as the chairperson thinks fit and hold adjourned sittings at such time and place as may appear the chairperson to be suitable.
 
-**6.**[^key-8bb87fd67d9a3ac827c2144cfbcd48a4] The Scottish Ministers may make orders as to the expenses incurred by the parties appearing at any such hearing and as to the parties by whom such expenses shall be paid.
+**6.**[^c-8bb87fd67d9a3ac827c2144cfbcd48a4] The Scottish Ministers may make orders as to the expenses incurred by the parties appearing at any such hearing and as to the parties by whom such expenses shall be paid.
 
-**7.**[^key-0130a86a56ea1442f807634996ea5a3d] Any order by the Scottish Ministers under paragraph 6 may be enforced in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
+**7.**[^c-0130a86a56ea1442f807634996ea5a3d] Any order by the Scottish Ministers under paragraph 6 may be enforced in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
 
 ## SCHEDULE 4 — ADVISORY COMMITTEES
 
@@ -712,31 +712,31 @@ Regulation 11(2) and (4)
 
 ### PART I — SPECIFIED FAILURES TO COMPLY WITH TERMS OF SERVICE
 
-**1.**[^key-aafb3f0200ffc21257a17f40f46173c3] A failure to exercise a reasonable standard of professional or clinical judgement, behaviour, skill, knowledge or care towards patients who receive primary medical services from the doctor, or in the prescribing or dispensing of any drugs, medicines or appliances to patients, is specified for the purposes of regulation 11(2) in relation to a doctor.
+**1.**[^c-aafb3f0200ffc21257a17f40f46173c3] A failure to exercise a reasonable standard of professional or clinical judgement, behaviour, skill, knowledge or care towards patients who receive primary medical services from the doctor, or in the prescribing or dispensing of any drugs, medicines or appliances to patients, is specified for the purposes of regulation 11(2) in relation to a doctor.
 
-**2.**[^key-9d3d61b1a85226ec907269e1c969e92a] A failure to exercise a proper degree of skill and attention in the treatment of a patient is specified for the purposes of regulation 11(2) in relation to a dentist.
+**2.**[^c-9d3d61b1a85226ec907269e1c969e92a] A failure to exercise a proper degree of skill and attention in the treatment of a patient is specified for the purposes of regulation 11(2) in relation to a dentist.
 
-**2A.**[^key-24181b55bde257ef42ece74a077afe2e] A failure to ensure a proper degree of skill and attention in the treatment of a patient is specified for the purposes of regulation 11(2) in relation to a dental body corporate.
+**2A.**[^c-24181b55bde257ef42ece74a077afe2e] A failure to ensure a proper degree of skill and attention in the treatment of a patient is specified for the purposes of regulation 11(2) in relation to a dental body corporate.
 
 ### PART II — THE MEDICAL ADVISORY COMMITTEE
 
-**3.**[^key-7c67fb077717c1a894cb587c7d687f34] The committee (in these Regulations referred to as the Medical Advisory Committee) which is to advise the Scottish Ministers on questions referred to it under regulation 11(2) or (3) in relation to doctors shall be constituted in accordance with paragraph 4.
+**3.**[^c-7c67fb077717c1a894cb587c7d687f34] The committee (in these Regulations referred to as the Medical Advisory Committee) which is to advise the Scottish Ministers on questions referred to it under regulation 11(2) or (3) in relation to doctors shall be constituted in accordance with paragraph 4.
 
-**4.**[^key-d3e3251c7c19c6540ba339c5713efdc0] The Medical Advisory Committee shall consist of 2 medical practitioners of whom–
+**4.**[^c-d3e3251c7c19c6540ba339c5713efdc0] The Medical Advisory Committee shall consist of 2 medical practitioners of whom–
 
 - (a) one shall be in the service of the Scottish Ministers and who shall act as chairperson; and
 - (b) one shall be selected by the Scottish Ministers from a panel of doctors nominated by a body which is in their opinion representative of doctors.
 
 ### PART III — THE DENTAL ADVISORY COMMITTEE
 
-**5.**[^key-497c9eadf3b2708687316b1bfe2a9408] The committee (in these Regulations referred to as the Dental Advisory Committee) which is to advise the Scottish Ministers on questions referred to it under regulation 11(2) or (3) in relation to dentists or dental bodies corporate[^key-9cdec8e994c35af840406f167bbb3602] shall be constituted in accordance with paragraph 6.
+**5.**[^c-497c9eadf3b2708687316b1bfe2a9408] The committee (in these Regulations referred to as the Dental Advisory Committee) which is to advise the Scottish Ministers on questions referred to it under regulation 11(2) or (3) in relation to dentists or dental bodies corporate[^c-9cdec8e994c35af840406f167bbb3602] shall be constituted in accordance with paragraph 6.
 
-**6.**[^key-39b64a6ced53411c3f87d9fd959af8ba] The Dental Advisory Committee shall consist of 2 dental practitioners of whom–
+**6.**[^c-39b64a6ced53411c3f87d9fd959af8ba] The Dental Advisory Committee shall consist of 2 dental practitioners of whom–
 
 - (a) one shall be in the service of the Scottish Ministers and who shall act as chairperson; and
 - (b) one shall be selected by the Scottish Ministers from a panel of dentists nominated by a body which is in their opinion representative of dentists.
 
-## SCHEDULE 5 — REVOCATIONS[^key-06ec32d04906e54325816b523f54a58e]
+## SCHEDULE 5 — REVOCATIONS[^c-06ec32d04906e54325816b523f54a58e]
 
 Regulation 18
 
@@ -830,9 +830,9 @@ In Schedule 2, paragraphs 1 and 6, the provisions in the 1992 Regulations which 
 
 [^f00003]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-5eccacde10914449c29965f13d1f5f3a]: Commencement: Reg. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-5eccacde10914449c29965f13d1f5f3a]: Commencement: Reg. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-9497030f80fab61e431f549af20d25da]: Commencement: Reg. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-9497030f80fab61e431f549af20d25da]: Commencement: Reg. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
 [^f00004]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -842,13 +842,13 @@ In Schedule 2, paragraphs 1 and 6, the provisions in the 1992 Regulations which 
 
 [^f00007]: Footnote: Section 9 was amended by the 1990 Act, section 29, the 1999 Act, section 65 and Schedule 4, paragraph 43, and the 2004 Act, Schedule 2.
 
-[^key-8f94fba283ff2c10a3e9371a98427383]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) omitted (1.4.2012) by virtue of [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4/2/a)
+[^c-8f94fba283ff2c10a3e9371a98427383]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) omitted (1.4.2012) by virtue of [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 4(2)(a)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4/2/a)
 
-[^key-d3cfa498dacc2c68c29b841a1e99fbf1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/2/a)
+[^c-d3cfa498dacc2c68c29b841a1e99fbf1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/2/a)
 
-[^key-89870c16737f0826fb7f62f6d1e7e55a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/2/b)
+[^c-89870c16737f0826fb7f62f6d1e7e55a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/2/b)
 
-[^key-43533fc13cdcdb30fa78ea2528713db6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) substituted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/2/c)
+[^c-43533fc13cdcdb30fa78ea2528713db6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) substituted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/2/c)
 
 [^M_F_cafc3cf6-1bd8-43ee-b41e-f241a0eaf217]: Textual amendment: [S.I. 1996/177](https://www.legislation.gov.uk/uksi/1996/177) amended by [S.I. 1996/841](https://www.legislation.gov.uk/uksi/1996/841) and 2060, 1998/1663 and 2259, 1999/724 and 2005/2011 and by [S.S.I. 1999/51](https://www.legislation.gov.uk/ssi/1999/51), 2000/188, 352, 394, 2001/57, 368, 2002/99, 192, 268, 2003/131, 422, 2004/37, 292, 2005/95, 2006/137, 321, 2007/191, 422 2009/96, 183 and 2010/33, and to be revoked by [S.S.I. 2010/208](https://www.legislation.gov.uk/ssi/2010/208) on 2nd July 2010.
 
@@ -860,15 +860,15 @@ In Schedule 2, paragraphs 1 and 6, the provisions in the 1992 Regulations which 
 
 [^f00012]: Footnote: Section 2 was amended by the [National Health Service Reform (Scotland) Act 2004 (asp 7)](https://www.legislation.gov.uk/asp/2004/7), Schedule 1, paragraph 1(2).
 
-[^key-34dbf9a5fe28c97e4b9d09c4cb7357a5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2006/330/regulation/2) substituted (1.7.2009) by [The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009 (S.S.I. 2009/183)](https://www.legislation.gov.uk/ssi/2009/183), [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1), [sch. 6 para. 5](https://www.legislation.gov.uk/ssi/2009/183/schedule/6/paragraph/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2009/183/regulation/10))
+[^c-34dbf9a5fe28c97e4b9d09c4cb7357a5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2006/330/regulation/2) substituted (1.7.2009) by [The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009 (S.S.I. 2009/183)](https://www.legislation.gov.uk/ssi/2009/183), [reg. 1](https://www.legislation.gov.uk/ssi/2009/183/regulation/1), [sch. 6 para. 5](https://www.legislation.gov.uk/ssi/2009/183/schedule/6/paragraph/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2009/183/regulation/10))
 
 [^f00014]: Footnote: Section 69 was amended by S.I. [1976/1213](https://www.legislation.gov.uk/uksi/1976/1213), and repealed in part by the Statute Law (Repeals) Act [1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50), Schedule, Part XII.
 
 [^f00015]: Footnote: Section 4 was amended by the 1988 Act, section 12(3) and Schedule 3.
 
-[^key-0a21842440aa9bce16984792f90191a3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) substituted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(2)(d)(i)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/2/d/i)
+[^c-0a21842440aa9bce16984792f90191a3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) substituted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(2)(d)(i)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/2/d/i)
 
-[^key-0f4054689ee4e13ddb133fd58992644d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/2/d/ii)
+[^c-0f4054689ee4e13ddb133fd58992644d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/2/d/ii)
 
 [^f00016]: Footnote: [S.S.I. 2004/114](https://www.legislation.gov.uk/ssi/2004/114).
 
@@ -876,164 +876,164 @@ In Schedule 2, paragraphs 1 and 6, the provisions in the 1992 Regulations which 
 
 [^f00018]: Footnote: Regulation 22 was amended by [S.S.I. 2000/352](https://www.legislation.gov.uk/ssi/2000/352), [2001/368](https://www.legislation.gov.uk/ssi/2001/368), [2002/99](https://www.legislation.gov.uk/ssi/2002/99) and [268](https://www.legislation.gov.uk/ssi/2002/268), [2003/131](https://www.legislation.gov.uk/ssi/2003/131) and [422](https://www.legislation.gov.uk/ssi/2003/422) and [2005/95](https://www.legislation.gov.uk/ssi/2005/95).
 
-[^key-73ed0b2591e4579a0fee971b7dd6546d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/2/e)
+[^c-73ed0b2591e4579a0fee971b7dd6546d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/2/e)
 
 [^f00019]: Footnote: Section 27A was inserted by the 1997 Act, section 27(2).
 
-[^key-edc7630946ef18a625b959c48f807301]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) substituted (1.11.2023) by [The National Health Service (General Dental Services) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/247)](https://www.legislation.gov.uk/ssi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/247/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2023/247/regulation/4/2) (with [regs. 16](https://www.legislation.gov.uk/ssi/2023/247/regulation/16), [17](https://www.legislation.gov.uk/ssi/2023/247/regulation/17))
+[^c-edc7630946ef18a625b959c48f807301]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/1) substituted (1.11.2023) by [The National Health Service (General Dental Services) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/247)](https://www.legislation.gov.uk/ssi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/247/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2023/247/regulation/4/2) (with [regs. 16](https://www.legislation.gov.uk/ssi/2023/247/regulation/16), [17](https://www.legislation.gov.uk/ssi/2023/247/regulation/17))
 
 [^f00020]: Footnote: Section 29 was substituted by the 1999 Act, section 58, amended by the 2004 Act, section 5(3) and the 2005 Act, section 26; Schedule 8 was amended by the 1995 Act, section 12, S.I. [1995/3214](https://www.legislation.gov.uk/uksi/1995/3214); the 1997 Act, section 41(10), and Schedule 2, Part II, paragraph 58; S.I. [1998/631](https://www.legislation.gov.uk/uksi/1998/631); the 1999 Act, section 653 and Schedule 4, paragraph 64, and by the 2005 Act, Schedule 2, paragraph 2.
 
-[^key-3fba43f58973210b33fd8e81ca588495]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/2) omitted (1.4.2012) by virtue of [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 4(2)(b)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4/2/b)
+[^c-3fba43f58973210b33fd8e81ca588495]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2006/330/regulation/2/2) omitted (1.4.2012) by virtue of [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 4(2)(b)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4/2/b)
 
-[^key-32711573610c316ca9d08ccac6056ef7]: Commencement: Reg. 3 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-32711573610c316ca9d08ccac6056ef7]: Commencement: Reg. 3 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-71c6851aa3606fcad0d69abaf3c756b1]: Commencement: Reg. 4 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-71c6851aa3606fcad0d69abaf3c756b1]: Commencement: Reg. 4 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-e8a39ba57c7c453b4ac8f446603a2f69]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/ssi/2006/330/regulation/4/4)[(5)](https://www.legislation.gov.uk/ssi/2006/330/regulation/4/5) omitted (1.4.2012) by virtue of [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 4(3)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4/3)
+[^c-e8a39ba57c7c453b4ac8f446603a2f69]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/ssi/2006/330/regulation/4/4)[(5)](https://www.legislation.gov.uk/ssi/2006/330/regulation/4/5) omitted (1.4.2012) by virtue of [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 4(3)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4/3)
 
 [^f00027]: Footnote: See the Medical Act [1983 (c. 54)](https://www.legislation.gov.uk/ukpga/1983/54), section 1.
 
-[^key-5ed72817cc9e5e30b80fa214952d33c4]: Textual amendment: Words in [reg. 4(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2006/330/regulation/4/6/a/ii) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/4)
+[^c-5ed72817cc9e5e30b80fa214952d33c4]: Textual amendment: Words in [reg. 4(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2006/330/regulation/4/6/a/ii) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/4)
 
 [^f00028]: Footnote: See the Dentists Act [1984 (c. 24)](https://www.legislation.gov.uk/ukpga/1984/24), section 1.
 
 [^f00029]: Footnote: See the Opticians Act [1989 (c. 44)](https://www.legislation.gov.uk/ukpga/1989/44), section 1.
 
-[^key-aec91c840479431d318ea86fc612ecac]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2006/330/regulation/4/6) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 52](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/52) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-aec91c840479431d318ea86fc612ecac]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/ssi/2006/330/regulation/4/6) substituted (27.9.2010) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/231/article/1/5), [Sch. 4 para. 52](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/52) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/231/schedule/5)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-ca81b19ffbdefaf0c01a30c2b15fe166]: Commencement: Reg. 5 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-ca81b19ffbdefaf0c01a30c2b15fe166]: Commencement: Reg. 5 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-4f3c8d69168ac50c414077404e4f4f1a]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/ssi/2006/330/regulation/5/3/b) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/5)
+[^c-4f3c8d69168ac50c414077404e4f4f1a]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/ssi/2006/330/regulation/5/3/b) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/5)
 
-[^key-54205d5dee1827d453a5635c9318d477]: Commencement: Reg. 6 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-54205d5dee1827d453a5635c9318d477]: Commencement: Reg. 6 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-e62eeba2c5a76ea62e0d44aac14c2158]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/6/1) omitted (1.4.2012) by virtue of [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 4(4)(a)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4/4/a)
+[^c-e62eeba2c5a76ea62e0d44aac14c2158]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/6/1) omitted (1.4.2012) by virtue of [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 4(4)(a)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4/4/a)
 
-[^key-10d827968489786de8d067879e6f01b4]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/ssi/2006/330/regulation/6/3) substituted (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions) Regulations 2017 (S.S.I. 2017/156)](https://www.legislation.gov.uk/ssi/2017/156), [regs. 1](https://www.legislation.gov.uk/ssi/2017/156/regulation/1), [6](https://www.legislation.gov.uk/ssi/2017/156/regulation/6) (with [reg. 8](https://www.legislation.gov.uk/ssi/2017/156/regulation/8))
+[^c-10d827968489786de8d067879e6f01b4]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/ssi/2006/330/regulation/6/3) substituted (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions) Regulations 2017 (S.S.I. 2017/156)](https://www.legislation.gov.uk/ssi/2017/156), [regs. 1](https://www.legislation.gov.uk/ssi/2017/156/regulation/1), [6](https://www.legislation.gov.uk/ssi/2017/156/regulation/6) (with [reg. 8](https://www.legislation.gov.uk/ssi/2017/156/regulation/8))
 
-[^key-4b25c16038a31d09b7ed99c184fd52f1]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/ssi/2006/330/regulation/6/5) substituted (1.4.2012) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 4(4)(b)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4/4/b)
+[^c-4b25c16038a31d09b7ed99c184fd52f1]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/ssi/2006/330/regulation/6/5) substituted (1.4.2012) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 4(4)(b)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4/4/b)
 
-[^key-aca8e4de247f4384fbbbb4dea1fc4427]: Textual amendment: Words in [reg. 6(7)(c)](https://www.legislation.gov.uk/ssi/2006/330/regulation/6/7/c) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/6/a)
+[^c-aca8e4de247f4384fbbbb4dea1fc4427]: Textual amendment: Words in [reg. 6(7)(c)](https://www.legislation.gov.uk/ssi/2006/330/regulation/6/7/c) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/6/a)
 
-[^key-ecf6d8a51becf657f44e7551c3ad0108]: Textual amendment: Words in [reg. 6(7)(c)](https://www.legislation.gov.uk/ssi/2006/330/regulation/6/7/c) omitted (2.7.2010) by virtue of [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/6/b)
+[^c-ecf6d8a51becf657f44e7551c3ad0108]: Textual amendment: Words in [reg. 6(7)(c)](https://www.legislation.gov.uk/ssi/2006/330/regulation/6/7/c) omitted (2.7.2010) by virtue of [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/6/b)
 
-[^key-e1038be6436062f36ea592bdd2a6899e]: Commencement: Reg. 7 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-e1038be6436062f36ea592bdd2a6899e]: Commencement: Reg. 7 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-55851b9542f54bb1f4e0337c9da9390c]: Commencement: Reg. 8 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-55851b9542f54bb1f4e0337c9da9390c]: Commencement: Reg. 8 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-f3d8a5d1c67730bda6c775f4bdf1be06]: Commencement: Reg. 9 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-f3d8a5d1c67730bda6c775f4bdf1be06]: Commencement: Reg. 9 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-a99034be2106669cb50c4be38fe2f61e]: Commencement: Reg. 10 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-a99034be2106669cb50c4be38fe2f61e]: Commencement: Reg. 10 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-50f45c3a9a37e5395727648df63f22be]: Textual amendment: Words in [reg. 10(7)(b)](https://www.legislation.gov.uk/ssi/2006/330/regulation/10/7/b) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/7)
+[^c-50f45c3a9a37e5395727648df63f22be]: Textual amendment: Words in [reg. 10(7)(b)](https://www.legislation.gov.uk/ssi/2006/330/regulation/10/7/b) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(7)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/7)
 
-[^key-6bfe157cc5f8ad65d8397c432cbf0327]: Commencement: Reg. 11 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-6bfe157cc5f8ad65d8397c432cbf0327]: Commencement: Reg. 11 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-b2bd6ed622cf60febe142419c03b87d0]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/ssi/2006/330/regulation/11) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(8)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/8)
+[^c-b2bd6ed622cf60febe142419c03b87d0]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/ssi/2006/330/regulation/11) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(8)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/8)
 
-[^key-42548dc5ec9d9b9a94d9f5fee437b1de]: Commencement: Reg. 12 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-42548dc5ec9d9b9a94d9f5fee437b1de]: Commencement: Reg. 12 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-32dfdfc8d715c39dc777b095eda417d2]: Commencement: Reg. 13 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-32dfdfc8d715c39dc777b095eda417d2]: Commencement: Reg. 13 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-a76623f62aef076d7525a9b14f11900b]: Commencement: Reg. 14 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-a76623f62aef076d7525a9b14f11900b]: Commencement: Reg. 14 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-dc967d5e42f42bcaf3838394991e4bbb]: Commencement: Reg. 15 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-dc967d5e42f42bcaf3838394991e4bbb]: Commencement: Reg. 15 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-1fe81c3f9a1e4f79e41c8d45ec11e57f]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2006/330/article/16) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 65](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/65)
+[^c-1fe81c3f9a1e4f79e41c8d45ec11e57f]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2006/330/article/16) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 65](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/65)
 
-[^key-a8cf2988b0407b8df3c50ec069154963]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/ssi/2006/330/regulation/16) heading substituted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(9)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/9)
+[^c-a8cf2988b0407b8df3c50ec069154963]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/ssi/2006/330/regulation/16) heading substituted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(9)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/9)
 
-[^key-3fc2cf6e7fdb913a3e5371efff1725fc]: Commencement: Reg. 17 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-3fc2cf6e7fdb913a3e5371efff1725fc]: Commencement: Reg. 17 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
 [^f00031]: Footnote: S.I. [1992/434](https://www.legislation.gov.uk/uksi/1992/434), amended by S.I. [1994/3038](https://www.legislation.gov.uk/uksi/1994/3038), [1995/3201](https://www.legislation.gov.uk/uksi/1995/3201), [1996/938](https://www.legislation.gov.uk/uksi/1996/938), [1998/1424](https://www.legislation.gov.uk/uksi/1998/1424), [S.S.I. 1999/53](https://www.legislation.gov.uk/ssi/1999/53), S.I. [2000/3135](https://www.legislation.gov.uk/uksi/2000/3135), [S.S.I. 2004/38](https://www.legislation.gov.uk/ssi/2004/38), [2005/118](https://www.legislation.gov.uk/ssi/2005/118),[122](https://www.legislation.gov.uk/ssi/2005/122) and [334](https://www.legislation.gov.uk/ssi/2005/334) and [2006/139](https://www.legislation.gov.uk/ssi/2006/139).
 
 [^f00032]: Footnote: Regulation 20 was inserted by [S.S.I. 1999/53](https://www.legislation.gov.uk/ssi/1999/53) and amended by [S.S.I. 2005/118](https://www.legislation.gov.uk/ssi/2005/118).
 
-[^key-0f606320bdd4a8d5b575023b5d9de87c]: Commencement: Reg. 18 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-0f606320bdd4a8d5b575023b5d9de87c]: Commencement: Reg. 18 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-c322f0b43c7312a17dccc398bea56aed]: Commencement: Sch. 1 para. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-c322f0b43c7312a17dccc398bea56aed]: Commencement: Sch. 1 para. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-4ef55d111ec2d33a720cec18003da3c9]: Commencement: Sch. 1 para. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-4ef55d111ec2d33a720cec18003da3c9]: Commencement: Sch. 1 para. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-6b82ae2be1e948a871bbd64b3601d09d]: Textual amendment: Words in [sch. 1 para. 2(4)(b)](https://www.legislation.gov.uk/ssi/2006/330/schedule/1/paragraph/2/4/b) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(10)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/10)
+[^c-6b82ae2be1e948a871bbd64b3601d09d]: Textual amendment: Words in [sch. 1 para. 2(4)(b)](https://www.legislation.gov.uk/ssi/2006/330/schedule/1/paragraph/2/4/b) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(10)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/10)
 
-[^key-f9b6500fb044d68cc72f78f449885ee2]: Commencement: Sch. 1 para. 3 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-f9b6500fb044d68cc72f78f449885ee2]: Commencement: Sch. 1 para. 3 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-fcef7d5dbe1f19c97e963b504217ecef]: Commencement: Sch. 1 para. 4 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-fcef7d5dbe1f19c97e963b504217ecef]: Commencement: Sch. 1 para. 4 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-c9065a7772e8436f3492515620e84d33]: Commencement: Sch. 1 para. 5 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-c9065a7772e8436f3492515620e84d33]: Commencement: Sch. 1 para. 5 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-0d1c7b2c4709588952bc795fa019d0a0]: Commencement: Sch. 1 para. 6 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-0d1c7b2c4709588952bc795fa019d0a0]: Commencement: Sch. 1 para. 6 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-7dbfdacecfcce4eacaf949ef1a9337e5]: Textual amendment: Words in [sch. 1 para. 6(2)](https://www.legislation.gov.uk/ssi/2006/330/schedule/1/paragraph/6/2) substituted (30.9.2009) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/308)](https://www.legislation.gov.uk/ssi/2009/308), [regs. 1](https://www.legislation.gov.uk/ssi/2009/308/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2009/308/regulation/2/a)
+[^c-7dbfdacecfcce4eacaf949ef1a9337e5]: Textual amendment: Words in [sch. 1 para. 6(2)](https://www.legislation.gov.uk/ssi/2006/330/schedule/1/paragraph/6/2) substituted (30.9.2009) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/308)](https://www.legislation.gov.uk/ssi/2009/308), [regs. 1](https://www.legislation.gov.uk/ssi/2009/308/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2009/308/regulation/2/a)
 
-[^key-16c50536c7e3f1811c9129093b11dd03]: Commencement: Sch. 1 para. 7 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-16c50536c7e3f1811c9129093b11dd03]: Commencement: Sch. 1 para. 7 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-49ce8f81a808c0326098848f14daf79d]: Commencement: Sch. 1 para. 8 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-49ce8f81a808c0326098848f14daf79d]: Commencement: Sch. 1 para. 8 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-ed840e8cb8399b88c9e6fcb6a666e802]: Commencement: Sch. 2 para. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-ed840e8cb8399b88c9e6fcb6a666e802]: Commencement: Sch. 2 para. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-b1e6c770923a8de0c3520b7dff058519]: Textual amendment: Word in [sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/1/1/a) substituted (30.9.2009) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/308)](https://www.legislation.gov.uk/ssi/2009/308), [regs. 1](https://www.legislation.gov.uk/ssi/2009/308/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2009/308/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2009/308/regulation/3))
+[^c-b1e6c770923a8de0c3520b7dff058519]: Textual amendment: Word in [sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/1/1/a) substituted (30.9.2009) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/308)](https://www.legislation.gov.uk/ssi/2009/308), [regs. 1](https://www.legislation.gov.uk/ssi/2009/308/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2009/308/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2009/308/regulation/3))
 
-[^key-a7b1432022bfdc00faac9c4547eb69ae]: Commencement: Sch. 2 para. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-a7b1432022bfdc00faac9c4547eb69ae]: Commencement: Sch. 2 para. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-f418b0974ed228dfcd99f48639543d59]: Textual amendment: [Sch. 2 para. 2(1)(a)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/2/1/a) omitted (2.7.2010) by virtue of [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(11)(a)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/11/a)
+[^c-f418b0974ed228dfcd99f48639543d59]: Textual amendment: [Sch. 2 para. 2(1)(a)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/2/1/a) omitted (2.7.2010) by virtue of [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(11)(a)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/11/a)
 
-[^key-8093de43373006e2cc0e6fb44446308d]: Textual amendment: Words in [sch. 2 para. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/2/1) omitted (2.7.2010) by virtue of [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(11)(b)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/11/b)
+[^c-8093de43373006e2cc0e6fb44446308d]: Textual amendment: Words in [sch. 2 para. 2(1)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/2/1) omitted (2.7.2010) by virtue of [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(11)(b)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/11/b)
 
-[^key-2f47515c4db34213ea35e30e1ebd3359]: Commencement: Sch. 2 para. 3 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-2f47515c4db34213ea35e30e1ebd3359]: Commencement: Sch. 2 para. 3 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-8d795e0c50b28c23cfeccb05dc8753d1]: Commencement: Sch. 2 para. 4 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-8d795e0c50b28c23cfeccb05dc8753d1]: Commencement: Sch. 2 para. 4 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-61a6c98467dbe1283aee75ece3b4b6df]: Commencement: Sch. 2 para. 5 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-61a6c98467dbe1283aee75ece3b4b6df]: Commencement: Sch. 2 para. 5 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-499602cd16061f99b97800ded8dbada7]: Textual amendment: Words in [sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/5/2/a) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(11)(c)(i)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/11/c/i)
+[^c-499602cd16061f99b97800ded8dbada7]: Textual amendment: Words in [sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/5/2/a) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(11)(c)(i)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/11/c/i)
 
-[^key-57bebf7c2da7f5a3f8b548089ea1bf30]: Textual amendment: [Sch. 2 para. 5(6)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/5/6) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(11)(c)(ii)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/11/c/ii)
+[^c-57bebf7c2da7f5a3f8b548089ea1bf30]: Textual amendment: [Sch. 2 para. 5(6)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/5/6) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(11)(c)(ii)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/11/c/ii)
 
-[^key-8ab7a89c896f5531d143e90514cc9fc6]: Commencement: Sch. 2 para. 6 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-8ab7a89c896f5531d143e90514cc9fc6]: Commencement: Sch. 2 para. 6 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-830792e01fb2a5f289c47e7cc5758c3d]: Textual amendment: Words in [sch. 2 para. 6(5)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/6/5) substituted (1.4.2012) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 4(5)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4/5)
+[^c-830792e01fb2a5f289c47e7cc5758c3d]: Textual amendment: Words in [sch. 2 para. 6(5)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/6/5) substituted (1.4.2012) by [The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012 (S.S.I. 2012/36)](https://www.legislation.gov.uk/ssi/2012/36), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/36/regulation/1/1), [sch. para. 4(5)](https://www.legislation.gov.uk/ssi/2012/36/schedule/paragraph/4/5)
 
-[^key-333fe70229a26c8b6a3e1e6fb456b10e]: Commencement: Sch. 2 para. 7 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-333fe70229a26c8b6a3e1e6fb456b10e]: Commencement: Sch. 2 para. 7 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-ecdfcb8ed76d5ef76219a54bda49dc30]: Commencement: Sch. 2 para. 8 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-ecdfcb8ed76d5ef76219a54bda49dc30]: Commencement: Sch. 2 para. 8 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-b3bcb58984739ac5d65d80d905574ca5]: Commencement: Sch. 2 para. 9 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-b3bcb58984739ac5d65d80d905574ca5]: Commencement: Sch. 2 para. 9 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-7895f1f9765033c3ba299084f2371ca7]: Textual amendment: [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/9/a) substituted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(11)(d)(i)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/11/d/i)
+[^c-7895f1f9765033c3ba299084f2371ca7]: Textual amendment: [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/9/a) substituted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(11)(d)(i)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/11/d/i)
 
-[^key-b13eb1be8e6863890bf0dedba5473196]: Textual amendment: Words in [sch. 2 para. 9(b)(ii)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/9/b/ii) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(11)(d)(ii)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/11/d/ii)
+[^c-b13eb1be8e6863890bf0dedba5473196]: Textual amendment: Words in [sch. 2 para. 9(b)(ii)](https://www.legislation.gov.uk/ssi/2006/330/schedule/2/paragraph/9/b/ii) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(11)(d)(ii)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/11/d/ii)
 
-[^key-34b4a2fd39d9b4db522b918eb2d944d7]: Commencement: Sch. 3 para. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-34b4a2fd39d9b4db522b918eb2d944d7]: Commencement: Sch. 3 para. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-d17763096f14ca8f769523c681fff7f9]: Commencement: Sch. 3 para. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-d17763096f14ca8f769523c681fff7f9]: Commencement: Sch. 3 para. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-489982f36c5b7c33abb3fda5632da123]: Commencement: Sch. 3 para. 3 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-489982f36c5b7c33abb3fda5632da123]: Commencement: Sch. 3 para. 3 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-af22bc99752ee42fd03e211d9ff7a684]: Commencement: Sch. 3 para. 4 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-af22bc99752ee42fd03e211d9ff7a684]: Commencement: Sch. 3 para. 4 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-92426829fac2fd76f697613a38c763ac]: Commencement: Sch. 3 para. 5 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-92426829fac2fd76f697613a38c763ac]: Commencement: Sch. 3 para. 5 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-8bb87fd67d9a3ac827c2144cfbcd48a4]: Commencement: Sch. 3 para. 6 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-8bb87fd67d9a3ac827c2144cfbcd48a4]: Commencement: Sch. 3 para. 6 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-0130a86a56ea1442f807634996ea5a3d]: Commencement: Sch. 3 para. 7 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-0130a86a56ea1442f807634996ea5a3d]: Commencement: Sch. 3 para. 7 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-aafb3f0200ffc21257a17f40f46173c3]: Commencement: Sch. 4 para. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-aafb3f0200ffc21257a17f40f46173c3]: Commencement: Sch. 4 para. 1 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-9d3d61b1a85226ec907269e1c969e92a]: Commencement: Sch. 4 para. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-9d3d61b1a85226ec907269e1c969e92a]: Commencement: Sch. 4 para. 2 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-24181b55bde257ef42ece74a077afe2e]: Textual amendment: [Sch. 4 para. 2A](https://www.legislation.gov.uk/ssi/2006/330/schedule/4/paragraph/2A) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(12)(a)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/12/a)
+[^c-24181b55bde257ef42ece74a077afe2e]: Textual amendment: [Sch. 4 para. 2A](https://www.legislation.gov.uk/ssi/2006/330/schedule/4/paragraph/2A) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(12)(a)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/12/a)
 
-[^key-7c67fb077717c1a894cb587c7d687f34]: Commencement: Sch. 4 para. 3 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-7c67fb077717c1a894cb587c7d687f34]: Commencement: Sch. 4 para. 3 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-d3e3251c7c19c6540ba339c5713efdc0]: Commencement: Sch. 4 para. 4 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-d3e3251c7c19c6540ba339c5713efdc0]: Commencement: Sch. 4 para. 4 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-497c9eadf3b2708687316b1bfe2a9408]: Commencement: Sch. 4 para. 5 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-497c9eadf3b2708687316b1bfe2a9408]: Commencement: Sch. 4 para. 5 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-9cdec8e994c35af840406f167bbb3602]: Textual amendment: Words in [sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2006/330/schedule/4/paragraph/5) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(12)(b)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/12/b)
+[^c-9cdec8e994c35af840406f167bbb3602]: Textual amendment: Words in [sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2006/330/schedule/4/paragraph/5) inserted (2.7.2010) by [The National Health Service (Discipline Committees) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/226)](https://www.legislation.gov.uk/ssi/2010/226), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/226/regulation/1/1), [2(12)(b)](https://www.legislation.gov.uk/ssi/2010/226/regulation/2/12/b)
 
-[^key-39b64a6ced53411c3f87d9fd959af8ba]: Commencement: Sch. 4 para. 6 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-39b64a6ced53411c3f87d9fd959af8ba]: Commencement: Sch. 4 para. 6 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
 
-[^key-06ec32d04906e54325816b523f54a58e]: Commencement: Sch. 5 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)
+[^c-06ec32d04906e54325816b523f54a58e]: Commencement: Sch. 5 in force at 1.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/330/regulation/1/1)

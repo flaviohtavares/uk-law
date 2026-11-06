@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51ZA. Special provision for married person whose spouse changed gender[^key-d198da2248c78d4d5182bb8d694b282e]
+## 51ZA. Special provision for married person whose spouse changed gender[^c-d198da2248c78d4d5182bb8d694b282e]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ and in such a case the reference in section 48B(1ZB)(a)(ii) to the spouse having
 
 ## Annotations
 
-[^key-d198da2248c78d4d5182bb8d694b282e]: Textual amendment: [S. 51ZA](https://www.legislation.gov.uk/ukpga/1992/4/section/51ZA) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 65](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/65)
+[^c-d198da2248c78d4d5182bb8d694b282e]: Textual amendment: [S. 51ZA](https://www.legislation.gov.uk/ukpga/1992/4/section/51ZA) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 65](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/65)

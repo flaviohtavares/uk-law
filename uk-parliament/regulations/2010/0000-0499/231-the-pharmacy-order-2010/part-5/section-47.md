@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Refusal or withdrawal of approval of courses, qualifications and institutions[^key-a2d86652066cb61403942928b2f7598a][^key-9ed539d358a31d47c285361ef48fb598]
+## 47. Refusal or withdrawal of approval of courses, qualifications and institutions[^c-a2d86652066cb61403942928b2f7598a][^c-9ed539d358a31d47c285361ef48fb598]
 
 *Extent: E+W+S*
 
@@ -54,6 +54,6 @@ it must send to the institution or other provider concerned at the last known ad
 
 ## Annotations
 
-[^key-a2d86652066cb61403942928b2f7598a]: Commencement: Art. 47 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-a2d86652066cb61403942928b2f7598a]: Commencement: Art. 47 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-9ed539d358a31d47c285361ef48fb598]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2010/231/article/47) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-9ed539d358a31d47c285361ef48fb598]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2010/231/article/47) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

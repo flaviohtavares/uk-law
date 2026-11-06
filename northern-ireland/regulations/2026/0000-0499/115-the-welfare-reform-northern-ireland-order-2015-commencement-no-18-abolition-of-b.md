@@ -37,11 +37,11 @@ Made
 
 The Department for Communities[^f00001] makes the following Order in exercise of the powers conferred by Article 2(2) and (4) of the Welfare Reform (Northern Ireland) Order 2015[^f00002].
 
-## 1. Citation[^key-4fc600e1932fab1e34a2cfa36536b5b6]
+## 1. Citation[^c-4fc600e1932fab1e34a2cfa36536b5b6]
 
 This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026.
 
-## 2. Amendment of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) Order (Northern Ireland)[^key-84cfddf37d767d0c6f4541ea44d6557c]
+## 2. Amendment of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) Order (Northern Ireland)[^c-84cfddf37d767d0c6f4541ea44d6557c]
 
 (1) The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) Order (Northern Ireland) 2025[^f00003] is amended in accordance with paragraphs (2) to (6).
 
@@ -276,9 +276,9 @@ The following provisions of the Welfare Reform (Northern Ireland) Order 2015 ([S
 
 [^f00002]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006); see Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020 ([S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927))
 
-[^key-4fc600e1932fab1e34a2cfa36536b5b6]: Commencement: Art. 1 in operation at made date
+[^c-4fc600e1932fab1e34a2cfa36536b5b6]: Commencement: Art. 1 in operation at made date
 
-[^key-84cfddf37d767d0c6f4541ea44d6557c]: Commencement: Art. 2 in operation at made date
+[^c-84cfddf37d767d0c6f4541ea44d6557c]: Commencement: Art. 2 in operation at made date
 
 [^f00003]: Footnote: [S.R. 2025 No. 176 (C. 3)](https://www.legislation.gov.uk/nisr/2025/176)
 

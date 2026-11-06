@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356NH. Restriction on deductions from contractor's ring fence profits[^key-043319100d628f41933f8985a584aef2]
+## 356NH. Restriction on deductions from contractor's ring fence profits[^c-043319100d628f41933f8985a584aef2]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-043319100d628f41933f8985a584aef2]: Textual amendment: [Ss. 356NH-356NJ](https://www.legislation.gov.uk/ukpga/2010/4/section/356NH) and cross-heading inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 59](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/59)
+[^c-043319100d628f41933f8985a584aef2]: Textual amendment: [Ss. 356NH-356NJ](https://www.legislation.gov.uk/ukpga/2010/4/section/356NH) and cross-heading inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 59](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/59)

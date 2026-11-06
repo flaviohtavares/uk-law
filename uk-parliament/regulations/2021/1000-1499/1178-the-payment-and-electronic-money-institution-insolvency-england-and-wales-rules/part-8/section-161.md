@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 161. Disclaimer presumed valid and effective[^key-0ab42db0aac6ab8c60ca2b95449e9029]
+## 161. Disclaimer presumed valid and effective[^c-0ab42db0aac6ab8c60ca2b95449e9029]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any disclaimer of property by the administrator is presumed valid and effective,
 
 ## Annotations
 
-[^key-0ab42db0aac6ab8c60ca2b95449e9029]: Commencement: Rule 161 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-0ab42db0aac6ab8c60ca2b95449e9029]: Commencement: Rule 161 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

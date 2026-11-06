@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42B. Directions as to performance of delegated functions[^key-531a64df4552cc166c26882af66c73d6]
+## 42B. Directions as to performance of delegated functions[^c-531a64df4552cc166c26882af66c73d6]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-531a64df4552cc166c26882af66c73d6]: Textual amendment: Ss. 42A, 42B and cross-heading inserted (E.W.) (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [Sch. 21 para. 3(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/3/1); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
+[^c-531a64df4552cc166c26882af66c73d6]: Textual amendment: Ss. 42A, 42B and cross-heading inserted (E.W.) (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [Sch. 21 para. 3(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/3/1); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)

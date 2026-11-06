@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Order for examination, etc[^key-0964f468e431e4356e7691242d47c747]
+## 146. Order for examination, etc[^c-0964f468e431e4356e7691242d47c747]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0964f468e431e4356e7691242d47c747]: Commencement: [Rule 146](https://www.legislation.gov.uk/uksi/2013/3208/rule/146) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-0964f468e431e4356e7691242d47c747]: Commencement: [Rule 146](https://www.legislation.gov.uk/uksi/2013/3208/rule/146) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

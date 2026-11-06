@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Overpayments[^key-51400a435891fe914554ba4d8c50ae6b]
+## 43. Overpayments[^c-51400a435891fe914554ba4d8c50ae6b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51400a435891fe914554ba4d8c50ae6b]: Textual amendment: Regulations revoked (1.10.2020 for the revocation of Pts. 1-3, 7, 8; 31.2.2021 for the revocation of regs. 8(1), 20; and 1.10.2021 in so far as not already in force) ) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (S.I. 2020/1073)](https://www.legislation.gov.uk/uksi/2020/1073), [reg. 65](https://www.legislation.gov.uk/uksi/2020/1073/regulation/65) (with [reg. 63](https://www.legislation.gov.uk/uksi/2020/1073/regulation/63))
+[^c-51400a435891fe914554ba4d8c50ae6b]: Textual amendment: Regulations revoked (1.10.2020 for the revocation of Pts. 1-3, 7, 8; 31.2.2021 for the revocation of regs. 8(1), 20; and 1.10.2021 in so far as not already in force) ) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (S.I. 2020/1073)](https://www.legislation.gov.uk/uksi/2020/1073), [reg. 65](https://www.legislation.gov.uk/uksi/2020/1073/regulation/65) (with [reg. 63](https://www.legislation.gov.uk/uksi/2020/1073/regulation/63))

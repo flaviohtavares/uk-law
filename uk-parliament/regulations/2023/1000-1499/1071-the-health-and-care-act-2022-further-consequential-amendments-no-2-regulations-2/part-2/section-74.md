@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Amendment of the Emergency Ambulance Services Committee (Wales) Regulations 2014 (English language text)[^key-cae334edf7e24d07f38eb541bb981ef3]
+## 74. Amendment of the Emergency Ambulance Services Committee (Wales) Regulations 2014 (English language text)[^c-cae334edf7e24d07f38eb541bb981ef3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cae334edf7e24d07f38eb541bb981ef3]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2023/1071/regulation/74) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-cae334edf7e24d07f38eb541bb981ef3]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2023/1071/regulation/74) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00061]: Footnote: [S.I. 2014/566 (W. 67)](https://www.legislation.gov.uk/wsi/2014/566), amended by [S.I. 2015/137](https://www.legislation.gov.uk/uksi/2015/137); there are other amending instruments but none is relevant.

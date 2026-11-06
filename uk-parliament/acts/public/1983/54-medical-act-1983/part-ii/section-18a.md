@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Temporary registration with regard to emergencies involving loss of human life or human illness etc.[^key-96f89be802bbe400760ec38b84713459]
+## 18A. Temporary registration with regard to emergencies involving loss of human life or human illness etc.[^c-96f89be802bbe400760ec38b84713459]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96f89be802bbe400760ec38b84713459]: Textual amendment: S. 18A inserted (9.7.2008) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/2/b), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2008/1774/schedule/1/paragraph/10)
+[^c-96f89be802bbe400760ec38b84713459]: Textual amendment: S. 18A inserted (9.7.2008) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/2/b), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2008/1774/schedule/1/paragraph/10)

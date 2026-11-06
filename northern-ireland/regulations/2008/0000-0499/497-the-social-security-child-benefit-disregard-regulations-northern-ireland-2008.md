@@ -45,7 +45,7 @@ Regulation 4 is made with the consent of the Department of Finance and Personnel
 
 The Social Security Advisory Committee[^f00005] has agreed that the proposals in respect of these Regulations should not be referred to it.
 
-## 1. Citation, commencement, effect and interpretation[^key-6c467993acaa0592732f7873c2675495]
+## 1. Citation, commencement, effect and interpretation[^c-6c467993acaa0592732f7873c2675495]
 
 (1) These Regulations may be cited as the Social Security (Child Benefit Disregard) Regulations (Northern Ireland) 2008 and shall come into operation on 5th January 2009.
 
@@ -61,15 +61,15 @@ The Social Security Advisory Committee[^f00005] has agreed that the proposals in
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-0d1de4d85f5d4f126e41c66272e58d8b]
+## 2. Amendment of the Income Support (General) Regulations[^c-0d1de4d85f5d4f126e41c66272e58d8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-e2fcd026f798154c0e2e30dad3e6ff63]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-e2fcd026f798154c0e2e30dad3e6ff63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Housing Benefit Regulations[^key-4d882a54aa4d6270aec35b987545bc09]
+## 4. Amendment of the Housing Benefit Regulations[^c-4d882a54aa4d6270aec35b987545bc09]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -113,7 +113,7 @@ In so far as these Regulations are required, for the purposes of regulation 4, t
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-6c467993acaa0592732f7873c2675495]: Commencement: Reg. 1 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/497/regulation/1/1)
+[^c-6c467993acaa0592732f7873c2675495]: Commencement: Reg. 1 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/497/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405) to which there are amendments not relevant to these Regulations
 
@@ -123,8 +123,8 @@ In so far as these Regulations are required, for the purposes of regulation 4, t
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0d1de4d85f5d4f126e41c66272e58d8b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/497/regulation/2) revoked (6.4.2009) by [The Social Security (Child Benefit Disregard) Regulations (Northern Ireland) 2008 (S.R. 2008/497)](https://www.legislation.gov.uk/nisr/2008/497), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/497/regulation/1/2)
+[^c-0d1de4d85f5d4f126e41c66272e58d8b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/497/regulation/2) revoked (6.4.2009) by [The Social Security (Child Benefit Disregard) Regulations (Northern Ireland) 2008 (S.R. 2008/497)](https://www.legislation.gov.uk/nisr/2008/497), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/497/regulation/1/2)
 
-[^key-e2fcd026f798154c0e2e30dad3e6ff63]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/497/regulation/3) revoked (1.4.2009) by [The Social Security (Child Benefit Disregard) Regulations (Northern Ireland) 2008 (S.R. 2008/497)](https://www.legislation.gov.uk/nisr/2008/497), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/497/regulation/1/2)
+[^c-e2fcd026f798154c0e2e30dad3e6ff63]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/497/regulation/3) revoked (1.4.2009) by [The Social Security (Child Benefit Disregard) Regulations (Northern Ireland) 2008 (S.R. 2008/497)](https://www.legislation.gov.uk/nisr/2008/497), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/497/regulation/1/2)
 
-[^key-4d882a54aa4d6270aec35b987545bc09]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/497/regulation/4) revoked (1.4.2009 for specified purposes) by [The Social Security (Child Benefit Disregard) Regulations (Northern Ireland) 2008 (S.R. 2008/497)](https://www.legislation.gov.uk/nisr/2008/497), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/497/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2008/497/regulation/1/3)
+[^c-4d882a54aa4d6270aec35b987545bc09]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/497/regulation/4) revoked (1.4.2009 for specified purposes) by [The Social Security (Child Benefit Disregard) Regulations (Northern Ireland) 2008 (S.R. 2008/497)](https://www.legislation.gov.uk/nisr/2008/497), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/497/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2008/497/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Review of Act[^key-2a19cdc2a8ad8a7bfce9ab57a7a41a69]
+## 96. Review of Act[^c-2a19cdc2a8ad8a7bfce9ab57a7a41a69]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a19cdc2a8ad8a7bfce9ab57a7a41a69]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2025/21/section/96) in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-2a19cdc2a8ad8a7bfce9ab57a7a41a69]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2025/21/section/96) in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)

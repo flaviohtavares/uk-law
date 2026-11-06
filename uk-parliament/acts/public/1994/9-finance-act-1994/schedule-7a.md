@@ -59,7 +59,7 @@ the inclusion of such cover shall be ignored.
 
 (6) This sub-paragraph applies to a payment of a specified sum if the contract under which it is payable provides that only one such payment in relation to each specified medical procedure will be made in respect of each person in relation to whom benefit is payable under the contract.
 
-#### Contracts relating to motor vehicles let on relevant benefit terms[^key-f876947cc5e0f0a4fadf0d0e1f7b35b7]
+#### Contracts relating to motor vehicles let on relevant benefit terms[^c-f876947cc5e0f0a4fadf0d0e1f7b35b7]
 
 **3.** (1) A contract falls within this paragraph if it relates only to a motor vehicle and—
 
@@ -127,7 +127,7 @@ the inclusion of such cover shall be ignored.
 - (a) of a weight of 8,000 kilogrammes or more; and
 - (b) not designed or adapted for use for recreation or pleasure.
 
-#### Contracts relating to spacecraft[^key-a70cb01074e258049489ddf6ce283f1c]
+#### Contracts relating to spacecraft[^c-a70cb01074e258049489ddf6ce283f1c]
 
 **7A.** (1) A contract falls within this paragraph if it relates only to the operation of a spacecraft and is a contract of general insurance of a relevant class.
 
@@ -315,7 +315,7 @@ the contract shall be treated for the purposes of sub-paragraphs (1) and (2) abo
 - (b) has such establishments both in the United Kingdom and elsewhere, provided that the establishment at which, or for the purposes of which, the goods or services which are to be supplied to him are most directly to be used is not in the United Kingdom; or
 - (c) has no such establishment in any place and does not have his usual place of residence in the United Kingdom.
 
-**16A.**[^c14460201] Paragraphs 2, 4, 5, 7, 7A,[^key-525e46dbbdf1d4988ad065dac5612461] 8, 9, 10, 11 and 15 must be read with—
+**16A.**[^c14460201] Paragraphs 2, 4, 5, 7, 7A,[^c-525e46dbbdf1d4988ad065dac5612461] 8, 9, 10, 11 and 15 must be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000;
 - (b) any relevant order under that section; and
@@ -333,7 +333,7 @@ the contract shall be treated for the purposes of sub-paragraphs (1) and (2) abo
 
 [^c14459951]: Textual amendment: Sch. 7A para. 2(3)-(6) inserted (1.10.1997) by [S.I. 1997/1627](https://www.legislation.gov.uk/uksi/1997/1627), [art. 2(b)](https://www.legislation.gov.uk/uksi/1997/1627/article/2/b)
 
-[^key-f876947cc5e0f0a4fadf0d0e1f7b35b7]: Textual amendment: [Sch. 7A para. 3 and cross-heading](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7A/part/I/crossheading/contracts-relating-to-motor-vehicles-for-use-by-handicapped-persons) substituted (with effect in accordance with s. 81(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 81](https://www.legislation.gov.uk/ukpga/2026/11/section/81)
+[^c-f876947cc5e0f0a4fadf0d0e1f7b35b7]: Textual amendment: [Sch. 7A para. 3 and cross-heading](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7A/part/I/crossheading/contracts-relating-to-motor-vehicles-for-use-by-handicapped-persons) substituted (with effect in accordance with s. 81(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 81](https://www.legislation.gov.uk/ukpga/2026/11/section/81)
 
 [^c14460021]: Textual amendment: Words in Sch. 7A para. 4(1) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [346(4)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/346/4/a)
 
@@ -347,7 +347,7 @@ the contract shall be treated for the purposes of sub-paragraphs (1) and (2) abo
 
 [^c14460071]: Textual amendment: Sch. 7A para. 7(2) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [art. 346(6)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/346/6/b)
 
-[^key-a70cb01074e258049489ddf6ce283f1c]: Textual amendment: Sch. 7A para. 7A and cross-heading inserted (1.12.2014) by [The Insurance Premium Tax (Non-taxable Insurance Contracts) Order 2014 (S.I. 2014/2856)](https://www.legislation.gov.uk/uksi/2014/2856), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2856/article/1), [2](https://www.legislation.gov.uk/uksi/2014/2856/article/2)
+[^c-a70cb01074e258049489ddf6ce283f1c]: Textual amendment: Sch. 7A para. 7A and cross-heading inserted (1.12.2014) by [The Insurance Premium Tax (Non-taxable Insurance Contracts) Order 2014 (S.I. 2014/2856)](https://www.legislation.gov.uk/uksi/2014/2856), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2856/article/1), [2](https://www.legislation.gov.uk/uksi/2014/2856/article/2)
 
 [^c14460091]: Textual amendment: Sch. 7A para. 8(2) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [art. 346(7)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/346/7/a)
 
@@ -375,4 +375,4 @@ the contract shall be treated for the purposes of sub-paragraphs (1) and (2) abo
 
 [^c14460201]: Textual amendment: Sch. 7A para. 16A inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [346(12)](https://www.legislation.gov.uk/uksi/2001/3649/article/346/12)
 
-[^key-525e46dbbdf1d4988ad065dac5612461]: Textual amendment: Word in [Sch. 7A para. 16A](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7A/paragraph/16A) inserted (1.12.2014) by [The Insurance Premium Tax (Non-taxable Insurance Contracts) Order 2014 (S.I. 2014/2856)](https://www.legislation.gov.uk/uksi/2014/2856), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2856/article/1), [3](https://www.legislation.gov.uk/uksi/2014/2856/article/3)
+[^c-525e46dbbdf1d4988ad065dac5612461]: Textual amendment: Word in [Sch. 7A para. 16A](https://www.legislation.gov.uk/ukpga/1994/9/schedule/7A/paragraph/16A) inserted (1.12.2014) by [The Insurance Premium Tax (Non-taxable Insurance Contracts) Order 2014 (S.I. 2014/2856)](https://www.legislation.gov.uk/uksi/2014/2856), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2856/article/1), [3](https://www.legislation.gov.uk/uksi/2014/2856/article/3)

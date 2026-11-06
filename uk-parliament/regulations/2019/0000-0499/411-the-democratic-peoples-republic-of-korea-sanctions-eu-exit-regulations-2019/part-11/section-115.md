@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Trade enforcement: application of CEMA[^key-47be73fb8712ab88c43dc7bf2b046a13][^key-6d98a94064f78af0fd19acebf304edb5]
+## 115. Trade enforcement: application of CEMA[^c-47be73fb8712ab88c43dc7bf2b046a13][^c-6d98a94064f78af0fd19acebf304edb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ the matter is to be treated as an assigned matter.
 - (c) regulation 106(6) (general trade licences: records), or
 - (d) regulation 107(5) (general trade licences: inspection of records).
 
-(3A)[^key-237351f2814389f998de665d468aaf22] The Commissioners may not investigate the suspected commission of a relevant offence listed in paragraph (3B), (3C) or (3D), unless the suspected offence has been the subject of—
+(3A)[^c-237351f2814389f998de665d468aaf22] The Commissioners may not investigate the suspected commission of a relevant offence listed in paragraph (3B), (3C) or (3D), unless the suspected offence has been the subject of—
 
 - (a) a referral to the Commissioners by the Secretary of State, or
 - (b) a decision by the Commissioners to treat the suspected offence as if it had been referred to them under sub-paragraph (a).
@@ -84,20 +84,20 @@ the matter is to be treated as an assigned matter.
 
 (6) The provisions of CEMA are sections 145, 146, 147, 148(1), 150, 151, 152, 154 and 155 [^c23636781] (legal proceedings).
 
-(7)[^key-30f7947613815540950a70214b4af558] Any term in this regulation that is defined in regulation 64 (interpretation of Part 6) bears the same meaning as in that regulation.
+(7)[^c-30f7947613815540950a70214b4af558] Any term in this regulation that is defined in regulation 64 (interpretation of Part 6) bears the same meaning as in that regulation.
 
 ## Annotations
 
-[^key-47be73fb8712ab88c43dc7bf2b046a13]: Commencement: Reg. 115 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-47be73fb8712ab88c43dc7bf2b046a13]: Commencement: Reg. 115 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-6d98a94064f78af0fd19acebf304edb5]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2019/411/regulation/115) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d98a94064f78af0fd19acebf304edb5]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2019/411/regulation/115) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23636761]: Marginal citation: The definition of “assigned matter” in section 1(1) of CEMA was amended by the [Commissioners for Revenue and Customs Act 2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), [Schedule 4](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4), [paragraph 22(a)](https://www.legislation.gov.uk/ukpga/2005/11/paragraph/22/a), the [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [section 24(7)](https://www.legislation.gov.uk/ukpga/2012/11/section/24/7), the [Wales Act 2014 (c.29)](https://www.legislation.gov.uk/ukpga/2014/29), [section 7(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/7/1).
 
-[^key-237351f2814389f998de665d468aaf22]: Textual amendment: [Reg. 115(3A)-(3D)](https://www.legislation.gov.uk/uksi/2019/411/regulation/115/3A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/uksi/2024/644/regulation/2/10/a)
+[^c-237351f2814389f998de665d468aaf22]: Textual amendment: [Reg. 115(3A)-(3D)](https://www.legislation.gov.uk/uksi/2019/411/regulation/115/3A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/uksi/2024/644/regulation/2/10/a)
 
 [^c23636771]: Marginal citation: [Section 138](https://www.legislation.gov.uk/uksi/2019/411/section/138) of CEMA was amended by the [Police and Criminal Evidence Act 1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), [section 114(1)](https://www.legislation.gov.uk/ukpga/1984/60/section/114/1), [Schedule 6](https://www.legislation.gov.uk/ukpga/1984/60/schedule/6), [paragraph 37](https://www.legislation.gov.uk/ukpga/1984/60/paragraph/37), and Part 1 of Schedule 7 the [Finance Act 1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), [section 11](https://www.legislation.gov.uk/ukpga/1988/39/section/11), the [Serious Organised Crime Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [Part 4](https://www.legislation.gov.uk/ukpga/2005/15/part/4) of Schedule 7, paragraph 54, S.I 1989/1341 and [S.I. 2007/288](https://www.legislation.gov.uk/uksi/2007/288).
 
 [^c23636781]: Marginal citation: [Section 145](https://www.legislation.gov.uk/uksi/2019/411/section/145) of CEMA was amended by the Police and Criminal Evidence Act 1984, section 114(1), the Commissioners for Revenue and Customs Act 2005, Schedule 4, paragraph 23(a), and [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834). Section 147 was amended by the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [Schedule 14](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14), [paragraph 42](https://www.legislation.gov.uk/ukpga/1982/48/paragraph/42), the Finance Act 1989, section 16(2), and the Criminal Justice Act 2003, Part 2 of Schedule 3, paragraph 50. Section 152 was amended by the Commissioners for Revenue and Customs Act 2005, Schedule 4, paragraph 26, and Schedule 5. Section 155 was amended by the Commissioners for Revenue and Customs Act 2005, Schedule, 4, paragraph 27, and Schedule 5.
 
-[^key-30f7947613815540950a70214b4af558]: Textual amendment: [Reg. 115(7)](https://www.legislation.gov.uk/uksi/2019/411/regulation/115/7) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/uksi/2024/644/regulation/2/10/b)
+[^c-30f7947613815540950a70214b4af558]: Textual amendment: [Reg. 115(7)](https://www.legislation.gov.uk/uksi/2019/411/regulation/115/7) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/uksi/2024/644/regulation/2/10/b)

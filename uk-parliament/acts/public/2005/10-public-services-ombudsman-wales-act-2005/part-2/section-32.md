@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Protection from defamation claims[^key-8fa1bcac37e85548ae1e967e1ff9d03a]
+## 32. Protection from defamation claims[^c-8fa1bcac37e85548ae1e967e1ff9d03a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fa1bcac37e85548ae1e967e1ff9d03a]: Textual amendment: S. 32 omitted (1.11.2014) by virtue of [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 26](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/26); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-8fa1bcac37e85548ae1e967e1ff9d03a]: Textual amendment: S. 32 omitted (1.11.2014) by virtue of [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 26](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/26); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)

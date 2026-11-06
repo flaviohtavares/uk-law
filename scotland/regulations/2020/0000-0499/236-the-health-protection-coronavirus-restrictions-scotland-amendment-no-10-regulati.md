@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (Restrictions) (Scotland) Amendment (No. 10) Regulations 2020 (revoked)[^key-ed754497ee34a469e49a44240e726609]
+The Health Protection (Coronavirus) (Restrictions) (Scotland) Amendment (No. 10) Regulations 2020 (revoked)[^c-ed754497ee34a469e49a44240e726609]
 
 Approved by the Scottish Parliament
 
@@ -48,22 +48,22 @@ Coming into force
 
 8th August 2020
 
-[^key-ed754497ee34a469e49a44240e726609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed754497ee34a469e49a44240e726609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ed754497ee34a469e49a44240e726609]
+## 1. Citation and commencement[^c-ed754497ee34a469e49a44240e726609]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020[^key-ed754497ee34a469e49a44240e726609]
+## 2. Amendment of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020[^c-ed754497ee34a469e49a44240e726609]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ed754497ee34a469e49a44240e726609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed754497ee34a469e49a44240e726609]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ed754497ee34a469e49a44240e726609]: Textual amendment: Regulations revoked (14.9.2020) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Scotland) Regulations 2020 (S.S.I. 2020/279)](https://www.legislation.gov.uk/ssi/2020/279), [reg. 1](https://www.legislation.gov.uk/ssi/2020/279/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/279/schedule/2)
+[^c-ed754497ee34a469e49a44240e726609]: Textual amendment: Regulations revoked (14.9.2020) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Scotland) Regulations 2020 (S.S.I. 2020/279)](https://www.legislation.gov.uk/ssi/2020/279), [reg. 1](https://www.legislation.gov.uk/ssi/2020/279/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/279/schedule/2)

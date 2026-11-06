@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Calculation of periods of membership and service[^key-0f614a42c273aded0792fc801d264ce2]
+## 182. Calculation of periods of membership and service[^c-0f614a42c273aded0792fc801d264ce2]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ must be converted into years by dividing the number of days in excess of the per
 
 ## Annotations
 
-[^key-0f614a42c273aded0792fc801d264ce2]: Commencement: [Reg. 182](https://www.legislation.gov.uk/uksi/2014/2848/regulation/182) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-0f614a42c273aded0792fc801d264ce2]: Commencement: [Reg. 182](https://www.legislation.gov.uk/uksi/2014/2848/regulation/182) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

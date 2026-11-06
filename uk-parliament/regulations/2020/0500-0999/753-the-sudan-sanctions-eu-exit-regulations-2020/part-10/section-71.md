@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Transitional provision: trade licences[^key-0de3076e94881ec8d124496f04abc327]
+## 71. Transitional provision: trade licences[^c-0de3076e94881ec8d124496f04abc327]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ and such a licence or authorisation is referred to in this regulation as an “*
 
 ## Annotations
 
-[^key-0de3076e94881ec8d124496f04abc327]: Commencement: Reg. 71 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-0de3076e94881ec8d124496f04abc327]: Commencement: Reg. 71 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
 
 [^c24240001]: Marginal citation: OJ No. L 193, 23.7.2005, p.9 as repealed by the EU Sudan Regulation.
 

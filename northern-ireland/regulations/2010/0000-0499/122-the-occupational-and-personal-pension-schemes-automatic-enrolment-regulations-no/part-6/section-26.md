@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Cases in which automatic enrolment may be postponed[^key-77870c1d7787223d2ef8f03bf1393726]
+## 26. Cases in which automatic enrolment may be postponed[^c-77870c1d7787223d2ef8f03bf1393726]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77870c1d7787223d2ef8f03bf1393726]: Textual amendment: [Regs. 25](https://www.legislation.gov.uk/nisr/2010/122/regulation/25), [26](https://www.legislation.gov.uk/nisr/2010/122/regulation/26) revoked (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [5](https://www.legislation.gov.uk/nisr/2012/232/regulation/5)
+[^c-77870c1d7787223d2ef8f03bf1393726]: Textual amendment: [Regs. 25](https://www.legislation.gov.uk/nisr/2010/122/regulation/25), [26](https://www.legislation.gov.uk/nisr/2010/122/regulation/26) revoked (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [5](https://www.legislation.gov.uk/nisr/2012/232/regulation/5)

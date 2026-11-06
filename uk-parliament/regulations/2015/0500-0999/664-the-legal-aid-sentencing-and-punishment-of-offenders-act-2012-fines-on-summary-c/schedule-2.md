@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2(2)
 
-### 1. Customs and Excise Management Act [1979 (c.2)](https://www.legislation.gov.uk/ukpga/1979/2)[^key-c29ce9f4fc086a1f8a3792945904a826]
+### 1. Customs and Excise Management Act [1979 (c.2)](https://www.legislation.gov.uk/ukpga/1979/2)[^c-c29ce9f4fc086a1f8a3792945904a826]
 
 (1) The Customs and Excise Management Act 1979 is amended as follows.
 
@@ -79,7 +79,7 @@ Regulation 2(2)
 
 (23) In Schedule 1 (controlled drugs: variation of punishments for certain offences under the Act) in paragraph 1, in paragraph (a) of the substituted text, for “the prescribed sum” substitute “£20,000”.
 
-### 2. Customs and Excise Duties (General Reliefs) Act [1979 (c.3)](https://www.legislation.gov.uk/ukpga/1979/3)[^key-6674b0ab04867e207f88bd074dce777c]
+### 2. Customs and Excise Duties (General Reliefs) Act [1979 (c.3)](https://www.legislation.gov.uk/ukpga/1979/3)[^c-6674b0ab04867e207f88bd074dce777c]
 
 (1) The Customs and Excise Duties (General Reliefs) Act 1979 is amended as follows.
 
@@ -92,7 +92,7 @@ Regulation 2(2)
 - (a) in subsection (2)(a), for “the prescribed sum” substitute “£20,000”;
 - (b) omit subsection (3)(a).
 
-### 3. Alcoholic Liquor Duties Act [1979 (c.4)](https://www.legislation.gov.uk/ukpga/1979/4)[^key-d83576f38eecb30a1cd8581a0af59aad]
+### 3. Alcoholic Liquor Duties Act [1979 (c.4)](https://www.legislation.gov.uk/ukpga/1979/4)[^c-d83576f38eecb30a1cd8581a0af59aad]
 
 (1) The Alcoholic Liquor Duties Act 1979 is amended as follows.
 
@@ -106,7 +106,7 @@ Regulation 2(2)
 - (b) in paragraph 6(3), for “level 5 on the standard scale” substitute “£20,000”;
 - (c) in paragraph 7(3), for “level 5 on the standard scale” substitute “£20,000”.
 
-### 4. Hydrocarbon Oil Duties Act [1979 (c.5)](https://www.legislation.gov.uk/ukpga/1979/5)[^key-e0c3e3eefe2217b4fab7414cf7ccb031]
+### 4. Hydrocarbon Oil Duties Act [1979 (c.5)](https://www.legislation.gov.uk/ukpga/1979/5)[^c-e0c3e3eefe2217b4fab7414cf7ccb031]
 
 (1) The Hydrocarbon Oil Duties Act 1979 is amended as follows.
 
@@ -122,7 +122,7 @@ Regulation 2(2)
 
 (7) In section 24A (penalties for misuse of marked oil)[^f00020], in subsection (6)(a), for “the statutory maximum” substitute “£20,000”.
 
-### 5. Betting and Gaming Duties Act [1981 (c.63)](https://www.legislation.gov.uk/ukpga/1981/63)[^key-6ab1c5d13f2cb0a336bffc8bd35013c3]
+### 5. Betting and Gaming Duties Act [1981 (c.63)](https://www.legislation.gov.uk/ukpga/1981/63)[^c-6ab1c5d13f2cb0a336bffc8bd35013c3]
 
 (1) The Betting and Gaming Duties Act 1981 is amended as follows.
 
@@ -138,7 +138,7 @@ Regulation 2(2)
 - (a) in paragraph 16(1)(a), for “the prescribed sum” substitute “£20,000”;
 - (b) in paragraph 16(2)(i), for “the prescribed sum” substitute “£20,000”.
 
-### 6. Finance Act [1993 (c.34)](https://www.legislation.gov.uk/ukpga/1993/34)[^key-b4773b2927a83ed407ccf6858646755c]
+### 6. Finance Act [1993 (c.34)](https://www.legislation.gov.uk/ukpga/1993/34)[^c-b4773b2927a83ed407ccf6858646755c]
 
 (1) The Finance Act 1993 is amended as follows.
 
@@ -149,7 +149,7 @@ Regulation 2(2)
 - (a) in subsection (2)(a), for “the statutory maximum” substitute “£20,000”;
 - (b) in subsection (4)(a), for “the statutory maximum” substitute “£20,000”.
 
-### 7. Finance Act [1994 (c.9)](https://www.legislation.gov.uk/ukpga/1994/9)[^key-bc041f1190cde6f4bd3591462f3e8c75]
+### 7. Finance Act [1994 (c.9)](https://www.legislation.gov.uk/ukpga/1994/9)[^c-bc041f1190cde6f4bd3591462f3e8c75]
 
 (1) The Finance Act 1994 is amended as follows.
 
@@ -166,7 +166,7 @@ Regulation 2(2)
 - (d) in paragraph 10(6), for “level 5 on the standard scale” substitute “£20,000”;
 - (e) in paragraph 10(7), for “level 5 on the standard scale” substitute “£20,000”.
 
-### 8. Value Added Tax Act [1994 (c.23)](https://www.legislation.gov.uk/ukpga/1994/23)[^key-f9fa8e91137a07298fa537cdab91a395]
+### 8. Value Added Tax Act [1994 (c.23)](https://www.legislation.gov.uk/ukpga/1994/23)[^c-f9fa8e91137a07298fa537cdab91a395]
 
 (1) Section 72 of the Value Added Tax Act 1994 (offences) is amended as follows.
 
@@ -180,7 +180,7 @@ Regulation 2(2)
 
 (6) In subsection (11), for “level 5 on the standard scale” substitute “£20,000”.
 
-### 9. Finance Act [1996 (c.8)](https://www.legislation.gov.uk/ukpga/1996/8)[^key-a2ac8e674dd3df647fea72df1d037991]
+### 9. Finance Act [1996 (c.8)](https://www.legislation.gov.uk/ukpga/1996/8)[^c-a2ac8e674dd3df647fea72df1d037991]
 
 In Schedule 5 to the Finance Act 1996 (landfill tax)—
 
@@ -190,11 +190,11 @@ In Schedule 5 to the Finance Act 1996 (landfill tax)—
 - (d) in paragraph 16(6), for “level 5 on the standard scale” substitute “£20,000”;
 - (e) in paragraph 16(7), for “level 5 on the standard scale” substitute “£20,000”.
 
-### 10. Finance Act [1997 (c.16)](https://www.legislation.gov.uk/ukpga/1997/16)[^key-59f2153180a123b4c3d88ebd307fb617]
+### 10. Finance Act [1997 (c.16)](https://www.legislation.gov.uk/ukpga/1997/16)[^c-59f2153180a123b4c3d88ebd307fb617]
 
 In Schedule 1 to the Finance Act 1997 (gaming duty: administration, enforcement etc), in paragraph 12(3)(a)(i), for “the statutory maximum” substitute “£20,000”.
 
-### 11. Finance Act [2000 (c.17)](https://www.legislation.gov.uk/ukpga/2000/17)[^key-de7cca457f3b680803d1cc9b127855b6]
+### 11. Finance Act [2000 (c.17)](https://www.legislation.gov.uk/ukpga/2000/17)[^c-de7cca457f3b680803d1cc9b127855b6]
 
 (1) Schedule 6 to the Finance Act 2000 (climate change levy) is amended as follows.
 
@@ -220,7 +220,7 @@ In Schedule 1 to the Finance Act 1997 (gaming duty: administration, enforcement 
 
 (6) In paragraph 139 (security for levy), in sub-paragraph (5), for “level 5 on the standard scale” substitute “£20,000”.
 
-### 12. Finance Act [2001 (c.9)](https://www.legislation.gov.uk/ukpga/2001/9)[^key-a6c54381ac06d39be8a158faf4387e3e]
+### 12. Finance Act [2001 (c.9)](https://www.legislation.gov.uk/ukpga/2001/9)[^c-a6c54381ac06d39be8a158faf4387e3e]
 
 (1) The Finance Act 2001 is amended as follows.
 
@@ -237,13 +237,13 @@ In Schedule 1 to the Finance Act 1997 (gaming duty: administration, enforcement 
 - (g) in paragraph 4(2), for “level 5 on the standard scale” substitute “£20,000”;
 - (h) in paragraph 4(3), for “level 5 on the standard scale” (in each place where it occurs) substitute “the amount of £20,000 mentioned in sub-paragraph (2)”.
 
-### 13. Finance Act [2012 (c.14)](https://www.legislation.gov.uk/ukpga/2012/14)[^key-6d620ffbb074d54b2bbec29d97e1b748]
+### 13. Finance Act [2012 (c.14)](https://www.legislation.gov.uk/ukpga/2012/14)[^c-6d620ffbb074d54b2bbec29d97e1b748]
 
 In Schedule 24 to the Finance Act 2012 (machine games duty), in paragraph 37(3)(a), for “the statutory maximum” substitute “£20,000”.
 
 ## Annotations
 
-[^key-c29ce9f4fc086a1f8a3792945904a826]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/1) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-c29ce9f4fc086a1f8a3792945904a826]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/1) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
 
 [^f00002]: Footnote: Section 50(5B) was inserted by the Import of Seal Skins Regulations 1996 ([S.I. 1996/2686](https://www.legislation.gov.uk/uksi/1996/2686)), regulation 4.
 
@@ -269,19 +269,19 @@ In Schedule 24 to the Finance Act 2012 (machine games duty), in paragraph 37(3)(
 
 [^f00013]: Footnote: Section 170B was inserted by the Finance (No.2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), section 3 and Schedule 2, paragraph 8.
 
-[^key-6674b0ab04867e207f88bd074dce777c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/2) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-6674b0ab04867e207f88bd074dce777c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/2) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
 
 [^f00014]: Footnote: Section 13(3C) was inserted by the Finance (No.2) Act [1992 (c.48)](https://www.legislation.gov.uk/ukpga/1992/48), section 1 and Schedule 1, paragraph 8(2).
 
 [^f00015]: Footnote: Section 13C was inserted by the Finance Act [1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26), section 28(1).
 
-[^key-d83576f38eecb30a1cd8581a0af59aad]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/3) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-d83576f38eecb30a1cd8581a0af59aad]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/3) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
 
 [^f00016]: Footnote: In section 25(1),the reference to “level 5 on the standard scale” was substituted for the reference to “£1,000” by section 46 of the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48).
 
 [^f00017]: Footnote: Schedule 2A was inserted by the Finance Act [2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12), section 4(2) and Schedule 1.
 
-[^key-e0c3e3eefe2217b4fab7414cf7ccb031]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/4) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-e0c3e3eefe2217b4fab7414cf7ccb031]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/4) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
 
 [^f00018]: Footnote: Section 13AB was inserted by the Finance Act [1996 (c.8)](https://www.legislation.gov.uk/ukpga/1996/8), section 5(4).
 
@@ -289,22 +289,22 @@ In Schedule 24 to the Finance Act 2012 (machine games duty), in paragraph 37(3)(
 
 [^f00020]: Footnote: Section 24A was inserted by the Finance Act [1996 (c.8)](https://www.legislation.gov.uk/ukpga/1996/8), section 7(1).
 
-[^key-6ab1c5d13f2cb0a336bffc8bd35013c3]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/5) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-6ab1c5d13f2cb0a336bffc8bd35013c3]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/5) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
 
 [^f00021]: Footnote: Section 26L was inserted by the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11), section 8 and Schedule 1, paragraph 2.
 
-[^key-b4773b2927a83ed407ccf6858646755c]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/6) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-b4773b2927a83ed407ccf6858646755c]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/6) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
 
-[^key-bc041f1190cde6f4bd3591462f3e8c75]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/7) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-bc041f1190cde6f4bd3591462f3e8c75]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/7) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
 
-[^key-f9fa8e91137a07298fa537cdab91a395]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/8) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-f9fa8e91137a07298fa537cdab91a395]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/8) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
 
-[^key-a2ac8e674dd3df647fea72df1d037991]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/9) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-a2ac8e674dd3df647fea72df1d037991]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/9) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
 
-[^key-59f2153180a123b4c3d88ebd307fb617]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/10) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-59f2153180a123b4c3d88ebd307fb617]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/10) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
 
-[^key-de7cca457f3b680803d1cc9b127855b6]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/11) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-de7cca457f3b680803d1cc9b127855b6]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/11) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
 
-[^key-a6c54381ac06d39be8a158faf4387e3e]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-a6c54381ac06d39be8a158faf4387e3e]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
 
-[^key-6d620ffbb074d54b2bbec29d97e1b748]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/13) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)
+[^c-6d620ffbb074d54b2bbec29d97e1b748]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/13) in force at 12.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1)

@@ -35,31 +35,31 @@ of 27 October 2008
 
 implementing Regulation (EC) No 184/2005 of the European Parliament and of the Council, as regards quality criteria and quality reporting for balance of payments statistics (revoked)
 
-[^key-a64fa2a87ab0b4727c5b86ca95980d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a64fa2a87ab0b4727c5b86ca95980d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a64fa2a87ab0b4727c5b86ca95980d05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a64fa2a87ab0b4727c5b86ca95980d05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a64fa2a87ab0b4727c5b86ca95980d05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a64fa2a87ab0b4727c5b86ca95980d05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a64fa2a87ab0b4727c5b86ca95980d05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a64fa2a87ab0b4727c5b86ca95980d05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a64fa2a87ab0b4727c5b86ca95980d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a64fa2a87ab0b4727c5b86ca95980d05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-a64fa2a87ab0b4727c5b86ca95980d05]
+## ANNEX[^c-a64fa2a87ab0b4727c5b86ca95980d05]
 
-[^key-a64fa2a87ab0b4727c5b86ca95980d05] 1.
+[^c-a64fa2a87ab0b4727c5b86ca95980d05] 1.
 
 **Introduction**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a64fa2a87ab0b4727c5b86ca95980d05] 2.
+[^c-a64fa2a87ab0b4727c5b86ca95980d05] 2.
 
 **Timeline**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a64fa2a87ab0b4727c5b86ca95980d05] 3.
+[^c-a64fa2a87ab0b4727c5b86ca95980d05] 3.
 
 **Quality criteria**
 
@@ -67,4 +67,4 @@ implementing Regulation (EC) No 184/2005 of the European Parliament and of the C
 
 ## Annotations
 
-[^key-a64fa2a87ab0b4727c5b86ca95980d05]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 136](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/136); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a64fa2a87ab0b4727c5b86ca95980d05]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 136](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/136); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

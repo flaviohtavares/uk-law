@@ -40,7 +40,7 @@ In this Schedule—
   - (a) who is an active member of this scheme; or
   - (b) who, for the purpose of determining entitlement to payment of benefits to or in respect of the member, is taken to be an active member of this scheme [^c22403081];
 - “**closing date**”, in relation to a transition member, means—
-  - (za) if the member is a full protection member of the existing police pension scheme, 31st March 2022;[^key-d990fd76db0896741fdfcb85a20792dd]
+  - (za) if the member is a full protection member of the existing police pension scheme, 31st March 2022;[^c-d990fd76db0896741fdfcb85a20792dd]
   - (a) if the member is a tapered protection member of the existing police pension scheme, the tapered protection closing date for that member; or
   - (b) if the member is not a protected member of the existing police pension scheme, the scheme closing date;
 - “**exception**” means an exception to section 18(1) of the Act;
@@ -64,7 +64,7 @@ In this Schedule—
   - (c) in relation to the 1988 NI police pension scheme or the 2009 NI police pension scheme, has the meaning given in the 2015 NI police pension scheme; and
   - (d) in relation to an existing scheme other than the 1987 scheme or the 2006 scheme, means a person in respect of whom an exception under section 18(6) of the Act applies for the purpose of that scheme; and
 - “**transition date**”, in relation to a transition member, means—
-  - (za) if the member is a full protection member of the existing police pension scheme, 1st April 2022;[^key-0fa50d19c30a049521ab889815b21418]
+  - (za) if the member is a full protection member of the existing police pension scheme, 1st April 2022;[^c-0fa50d19c30a049521ab889815b21418]
   - (a) if the member is a tapered protection member of the existing police pension scheme, the day after the tapered protection closing date for that member;
   - (b) if the member is not a protected member of that scheme, the day after the scheme closing date.
 
@@ -184,7 +184,7 @@ In this Schedule—
 
 (1) A person (P) to whom paragraph 11 applies is a full protection member of the 1987 scheme.
 
-(2)[^key-3873c6d2fe0d96e99bd9d55e297ca2c5] P ceases to be a full protection member of the 1987 scheme on whichever of the following days occurs first—
+(2)[^c-3873c6d2fe0d96e99bd9d55e297ca2c5] P ceases to be a full protection member of the 1987 scheme on whichever of the following days occurs first—
 
 - (a) the day on which P ceases to be in pensionable service under that scheme; or
 - (b) 31st March 2022.
@@ -231,7 +231,7 @@ In this Schedule—
 
 (1) A person (P) to whom paragraph 14 applies is a full protection member of the 2006 scheme.
 
-(2)[^key-dc39f2b64ebc5d175e542b5dc0393fb1] P ceases to be a full protection member of the 2006 scheme on whichever of the following days occurs first—
+(2)[^c-dc39f2b64ebc5d175e542b5dc0393fb1] P ceases to be a full protection member of the 2006 scheme on whichever of the following days occurs first—
 
 - (a) the day on which P ceases to be in pensionable service under that scheme; or
 - (b) 31st March 2022.
@@ -614,12 +614,12 @@ For the purpose of this Part, “**ill-health pension**”, in relation to the e
 
 (1) This paragraph applies in relation to a transition member with continuity of service who dies as a deferred member or pensioner member or active member of this scheme.
 
-(2) The scheme manager must[^key-b909bec5b6258b551b5eaf956d44c01b] grant a gratuity under both this scheme and the 2006 scheme if the conditions for payment are met under both—
+(2) The scheme manager must[^c-b909bec5b6258b551b5eaf956d44c01b] grant a gratuity under both this scheme and the 2006 scheme if the conditions for payment are met under both—
 
 - (a) regulation 166 (death gratuity – estate); and
 - (b) regulation 45 of the 2006 Regulations (death gratuity – estate).
 
-(3) The scheme manager must[^key-caffa5b83af38c986b6cd90a58460f80] grant a gratuity under both this scheme and the 1987 scheme if the conditions for payment are met under both—
+(3) The scheme manager must[^c-caffa5b83af38c986b6cd90a58460f80] grant a gratuity under both this scheme and the 1987 scheme if the conditions for payment are met under both—
 
 - (a) regulation 166; and
 - (b) regulation E3 of the 1987 Regulations (gratuity – estate).
@@ -630,7 +630,7 @@ For the purpose of this Part, “**ill-health pension**”, in relation to the e
 
 (1) This paragraph applies in relation to a transition member with continuity of service (T).
 
-(2) The provisions of the existing police pension scheme relating to an election to purchase increased benefits made before 1st April 2022[^key-af43fc014bc64b0e60c07661f1226037] continue to apply after the closing date as if T continued in pensionable service under that scheme.
+(2) The provisions of the existing police pension scheme relating to an election to purchase increased benefits made before 1st April 2022[^c-af43fc014bc64b0e60c07661f1226037] continue to apply after the closing date as if T continued in pensionable service under that scheme.
 
 (3) T may choose to end payments for added 60ths or added years after joining this scheme.
 
@@ -695,7 +695,7 @@ where—
 - (a) part-time service is taken to be full-time service; and
 - (b) the limit of 30 years' service applies.
 
-(7)[^key-7e7e617c1216aadf05f2b206d226da23] The annual rate of pension payable to the member under the 1987 scheme is the higher of—
+(7)[^c-7e7e617c1216aadf05f2b206d226da23] The annual rate of pension payable to the member under the 1987 scheme is the higher of—
 
 - (a) the amount calculated by multiplying the accrual rate by the member’s final pay; or,
 - (b) where a member is entitled to a deferred pension under regulation B5 (policeman’s deferred pension) and under Part 6 (policeman’s deferred pension) of Schedule B, the amount of pension that would have been payable under the 1987 scheme if those provisions applied for the calculation instead of sub-paragraphs (3) to (6) of this paragraph.
@@ -922,9 +922,9 @@ where—
 
 [^c22403081]: Marginal citation: See Chapter 1 of Part 4 (active membership) for when a member of a police force is taken to be an active member of this scheme.
 
-[^key-d990fd76db0896741fdfcb85a20792dd]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2015/445/schedule/4/paragraph/1) inserted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/336/regulation/3/2/a)
+[^c-d990fd76db0896741fdfcb85a20792dd]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2015/445/schedule/4/paragraph/1) inserted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/336/regulation/3/2/a)
 
-[^key-0fa50d19c30a049521ab889815b21418]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2015/445/schedule/4/paragraph/1) inserted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/336/regulation/3/2/b)
+[^c-0fa50d19c30a049521ab889815b21418]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2015/445/schedule/4/paragraph/1) inserted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/336/regulation/3/2/b)
 
 [^c22403091]: Marginal citation: A copy is available at https://www.gov.uk/government/publications/police-pension-reform-design-framework.
 
@@ -932,16 +932,16 @@ where—
 
 [^c22403111]: Marginal citation: See the definition of “pensionable service” in section 37 of the Act.
 
-[^key-3873c6d2fe0d96e99bd9d55e297ca2c5]: Textual amendment: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/uksi/2015/445/schedule/4/paragraph/9/2) substituted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2022/336/regulation/3/3)
+[^c-3873c6d2fe0d96e99bd9d55e297ca2c5]: Textual amendment: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/uksi/2015/445/schedule/4/paragraph/9/2) substituted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2022/336/regulation/3/3)
 
-[^key-dc39f2b64ebc5d175e542b5dc0393fb1]: Textual amendment: [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/uksi/2015/445/schedule/4/paragraph/12/2) substituted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2022/336/regulation/3/4)
+[^c-dc39f2b64ebc5d175e542b5dc0393fb1]: Textual amendment: [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/uksi/2015/445/schedule/4/paragraph/12/2) substituted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2022/336/regulation/3/4)
 
-[^key-b909bec5b6258b551b5eaf956d44c01b]: Textual amendment: Word in Sch. 4 para. 34(2) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.I.) by [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [35(2)(a)](https://www.legislation.gov.uk/uksi/2018/997/regulation/35/2/a)
+[^c-b909bec5b6258b551b5eaf956d44c01b]: Textual amendment: Word in Sch. 4 para. 34(2) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.I.) by [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [35(2)(a)](https://www.legislation.gov.uk/uksi/2018/997/regulation/35/2/a)
 
-[^key-caffa5b83af38c986b6cd90a58460f80]: Textual amendment: Word in Sch. 4 para. 34(3) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.I.) by [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [35(2)(b)](https://www.legislation.gov.uk/uksi/2018/997/regulation/35/2/b)
+[^c-caffa5b83af38c986b6cd90a58460f80]: Textual amendment: Word in Sch. 4 para. 34(3) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.I.) by [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [35(2)(b)](https://www.legislation.gov.uk/uksi/2018/997/regulation/35/2/b)
 
-[^key-af43fc014bc64b0e60c07661f1226037]: Textual amendment: Words in [Sch. 4 para. 35(2)](https://www.legislation.gov.uk/uksi/2015/445/schedule/4/paragraph/35/2) substituted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2022/336/regulation/3/5)
+[^c-af43fc014bc64b0e60c07661f1226037]: Textual amendment: Words in [Sch. 4 para. 35(2)](https://www.legislation.gov.uk/uksi/2015/445/schedule/4/paragraph/35/2) substituted (1.4.2022) by [The Police and Firefighters’ Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/336)](https://www.legislation.gov.uk/uksi/2022/336), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/336/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2022/336/regulation/3/5)
 
 [^c22403131]: Marginal citation: See Part 6 (retirement benefits) for the meaning of “qualifying service”.
 
-[^key-7e7e617c1216aadf05f2b206d226da23]: Textual amendment: [Sch. 4 para. 39(7)](https://www.legislation.gov.uk/uksi/2015/445/schedule/4/paragraph/39/7) substituted (8.10.2018) by [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2018/997/regulation/38)
+[^c-7e7e617c1216aadf05f2b206d226da23]: Textual amendment: [Sch. 4 para. 39(7)](https://www.legislation.gov.uk/uksi/2015/445/schedule/4/paragraph/39/7) substituted (8.10.2018) by [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2018/997/regulation/38)

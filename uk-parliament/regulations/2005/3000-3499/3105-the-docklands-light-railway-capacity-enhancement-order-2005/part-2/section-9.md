@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Station works at Mudchute[^key-71092862cb7b977aa4cf28d792e1846b]
+## 9. Station works at Mudchute[^c-71092862cb7b977aa4cf28d792e1846b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ DLRL may, in the construction of Works Nos. 7 and 8 and within the limits of dev
 
 ## Annotations
 
-[^key-71092862cb7b977aa4cf28d792e1846b]: Commencement: Art. 9 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-71092862cb7b977aa4cf28d792e1846b]: Commencement: Art. 9 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

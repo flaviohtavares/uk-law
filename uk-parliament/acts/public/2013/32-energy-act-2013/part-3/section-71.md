@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Notice by Secretary of State to ONR specifying sensitive nuclear information[^key-386ad7263b9e17cde9239d8b891aef3d]
+## 71. Notice by Secretary of State to ONR specifying sensitive nuclear information[^c-386ad7263b9e17cde9239d8b891aef3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-386ad7263b9e17cde9239d8b891aef3d]: Commencement: S. 71 in force at 10.3.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/251/article/3/a)
+[^c-386ad7263b9e17cde9239d8b891aef3d]: Commencement: S. 71 in force at 10.3.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/251/article/3/a)

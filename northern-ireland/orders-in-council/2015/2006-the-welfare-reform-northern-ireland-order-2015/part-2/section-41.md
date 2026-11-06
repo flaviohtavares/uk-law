@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Universal credit and working-age benefits[^key-e5184d37454f09d914912568a866150c]
+## 41. Universal credit and working-age benefits[^c-e5184d37454f09d914912568a866150c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5 makes further provision relating to universal credit, jobseeker's all
 
 ## Annotations
 
-[^key-e5184d37454f09d914912568a866150c]: Commencement: [Art. 41](https://www.legislation.gov.uk/nisi/2015/2006/article/41) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/i)
+[^c-e5184d37454f09d914912568a866150c]: Commencement: [Art. 41](https://www.legislation.gov.uk/nisi/2015/2006/article/41) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/i)

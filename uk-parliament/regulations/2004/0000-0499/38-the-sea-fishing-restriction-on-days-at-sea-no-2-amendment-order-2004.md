@@ -31,7 +31,7 @@ summary: ''
 
 SEA FISHERIES, ENGLAND AND WALES
 
-The Sea Fishing (Restriction on Days at Sea) (No. 2) (Amendment) Order 2004 (revoked)[^key-041cfa2dd6d47df8a7f29784b14cc438]
+The Sea Fishing (Restriction on Days at Sea) (No. 2) (Amendment) Order 2004 (revoked)[^c-041cfa2dd6d47df8a7f29784b14cc438]
 
 Made
 
@@ -45,30 +45,30 @@ Coming into force
 
 13th January 2004
 
-[^key-041cfa2dd6d47df8a7f29784b14cc438]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-041cfa2dd6d47df8a7f29784b14cc438]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-041cfa2dd6d47df8a7f29784b14cc438]
+## 1. Citation and commencement[^c-041cfa2dd6d47df8a7f29784b14cc438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Sea Fishing (Restriction on Days at Sea) (No. 2) Order 2003[^key-041cfa2dd6d47df8a7f29784b14cc438]
+## 2. Amendment of the Sea Fishing (Restriction on Days at Sea) (No. 2) Order 2003[^c-041cfa2dd6d47df8a7f29784b14cc438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendment[^key-041cfa2dd6d47df8a7f29784b14cc438]
+## 3. Consequential amendment[^c-041cfa2dd6d47df8a7f29784b14cc438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-041cfa2dd6d47df8a7f29784b14cc438]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-041cfa2dd6d47df8a7f29784b14cc438]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-041cfa2dd6d47df8a7f29784b14cc438]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-041cfa2dd6d47df8a7f29784b14cc438]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-041cfa2dd6d47df8a7f29784b14cc438]: Textual amendment: Order revoked (E.) (19.2.2004) by [The Sea Fishing (Restriction on Days at Sea) Order 2004 (S.I. 2004/398)](https://www.legislation.gov.uk/uksi/2004/398), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/398/article/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2004/398/article/24/b)
+[^c-041cfa2dd6d47df8a7f29784b14cc438]: Textual amendment: Order revoked (E.) (19.2.2004) by [The Sea Fishing (Restriction on Days at Sea) Order 2004 (S.I. 2004/398)](https://www.legislation.gov.uk/uksi/2004/398), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/398/article/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2004/398/article/24/b)
 
     Order revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

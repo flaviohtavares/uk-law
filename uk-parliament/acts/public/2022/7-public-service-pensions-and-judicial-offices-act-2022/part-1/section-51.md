@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Pension benefits and lump sums benefits[^key-d11d9630568c922643e736b7f1b88786][^key-6a53f7ca12440392d170432f0f5d1919][^key-0b1c3dc4b741d0dd132ca0fd041d0515][^key-560b43f044e5018b9827135eccbd7b28]
+## 51. Pension benefits and lump sums benefits[^c-d11d9630568c922643e736b7f1b88786][^c-6a53f7ca12440392d170432f0f5d1919][^c-0b1c3dc4b741d0dd132ca0fd041d0515][^c-560b43f044e5018b9827135eccbd7b28]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,10 +77,10 @@ the judicial service award is to be treated for the purposes of subsection (4)(a
 
 ## Annotations
 
-[^key-d11d9630568c922643e736b7f1b88786]: Commencement: S. 51 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-d11d9630568c922643e736b7f1b88786]: Commencement: S. 51 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-6a53f7ca12440392d170432f0f5d1919]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/7/section/51) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
+[^c-6a53f7ca12440392d170432f0f5d1919]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/7/section/51) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
 
-[^key-0b1c3dc4b741d0dd132ca0fd041d0515]: Modification: [Ss. 40-66](https://www.legislation.gov.uk/ukpga/2022/7/section/40) excluded (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2023/766/regulation/9/2)
+[^c-0b1c3dc4b741d0dd132ca0fd041d0515]: Modification: [Ss. 40-66](https://www.legislation.gov.uk/ukpga/2022/7/section/40) excluded (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [9(2)](https://www.legislation.gov.uk/uksi/2023/766/regulation/9/2)
 
-[^key-560b43f044e5018b9827135eccbd7b28]: Modification: [S. 51](https://www.legislation.gov.uk/ukpga/2022/7/section/51) applied (with modifications) (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [11](https://www.legislation.gov.uk/uksi/2023/766/regulation/11)
+[^c-560b43f044e5018b9827135eccbd7b28]: Modification: [S. 51](https://www.legislation.gov.uk/ukpga/2022/7/section/51) applied (with modifications) (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [11](https://www.legislation.gov.uk/uksi/2023/766/regulation/11)

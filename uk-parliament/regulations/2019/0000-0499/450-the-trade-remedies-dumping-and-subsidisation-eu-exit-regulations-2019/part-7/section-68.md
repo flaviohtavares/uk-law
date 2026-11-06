@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. The conduct of a review[^key-3a7003bd5e1ff9c5e07864c7d7ab9f26]
+## 68. The conduct of a review[^c-3a7003bd5e1ff9c5e07864c7d7ab9f26]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The TRA must provide interested parties with an opportunity to provide comments prior to acting in accordance with paragraph (1).
 
-(3)[^key-d549700344234207404da72a684d1b1d] The TRA must make a determination that an anti-dumping amount or a countervailing amount should be revoked in respect of goods from a particular overseas exporter where, at any stage during a review, it determines that the margin of dumping or the amount of subsidy is minimal.
+(3)[^c-d549700344234207404da72a684d1b1d] The TRA must make a determination that an anti-dumping amount or a countervailing amount should be revoked in respect of goods from a particular overseas exporter where, at any stage during a review, it determines that the margin of dumping or the amount of subsidy is minimal.
 
 (4) Where regulation 36(5) applies in respect of goods from a particular overseas exporter (“E”), but an anti-dumping amount or a countervailing amount remains in place for at least one other overseas exporter in respect of such goods, E—
 
@@ -37,7 +37,7 @@ summary: ''
 
 (6) The TRA may, where it considers it appropriate, terminate a review on the request of the review applicant.
 
-(6A)[^key-19144619ed78bf8145afb939bca759e6] The TRA must terminate an early review on the request of the Secretary of State.
+(6A)[^c-19144619ed78bf8145afb939bca759e6] The TRA must terminate an early review on the request of the Secretary of State.
 
 (7) Where the TRA constructs the export price in accordance with regulation 15 (export price), the TRA may deduct any anti-dumping amount paid where it is not reflected in resale prices and subsequent selling prices in the United Kingdom.
 
@@ -52,7 +52,7 @@ summary: ''
 
 (11) Part 5 applies to—
 
-- (za)[^key-1b05edd57bedf91a7089b8d0049c84b5] an early review where the TRA considers varying the level of an anti-dumping amount or a countervailing amount;
+- (za)[^c-1b05edd57bedf91a7089b8d0049c84b5] an early review where the TRA considers varying the level of an anti-dumping amount or a countervailing amount;
 - (a) an interim review where the TRA considers varying the level of an anti-dumping amount or a countervailing amount by varying its level and duration;
 - (b) an interim review where the TRA reassesses the amount adequate to remove the injury;
 - (c) an expiry review where the TRA considers varying the level of an anti-dumping amount or a countervailing amount;
@@ -63,10 +63,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3a7003bd5e1ff9c5e07864c7d7ab9f26]: Commencement: Reg. 68 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-3a7003bd5e1ff9c5e07864c7d7ab9f26]: Commencement: Reg. 68 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-d549700344234207404da72a684d1b1d]: Textual amendment: [Reg. 68(3)-(4A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/68/3) substituted for [reg. 68(3)](https://www.legislation.gov.uk/uksi/2019/450/regulation/68/3) (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [19](https://www.legislation.gov.uk/uksi/2020/99/regulation/19)
+[^c-d549700344234207404da72a684d1b1d]: Textual amendment: [Reg. 68(3)-(4A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/68/3) substituted for [reg. 68(3)](https://www.legislation.gov.uk/uksi/2019/450/regulation/68/3) (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [19](https://www.legislation.gov.uk/uksi/2020/99/regulation/19)
 
-[^key-19144619ed78bf8145afb939bca759e6]: Textual amendment: [Reg. 68(6A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/68/6A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/9/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-19144619ed78bf8145afb939bca759e6]: Textual amendment: [Reg. 68(6A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/68/6A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/9/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-1b05edd57bedf91a7089b8d0049c84b5]: Textual amendment: [Reg. 68(11)(za)](https://www.legislation.gov.uk/uksi/2019/450/regulation/68/11/za) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/9/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-1b05edd57bedf91a7089b8d0049c84b5]: Textual amendment: [Reg. 68(11)(za)](https://www.legislation.gov.uk/uksi/2019/450/regulation/68/11/za) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/9/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

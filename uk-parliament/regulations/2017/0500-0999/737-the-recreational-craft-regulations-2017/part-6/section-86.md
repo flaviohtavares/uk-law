@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Amendment to the Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^key-4f2f03eaa1780e09c065c3094bf79e09]
+## 86. Amendment to the Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^c-4f2f03eaa1780e09c065c3094bf79e09]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^f00018]
 
 ## Annotations
 
-[^key-4f2f03eaa1780e09c065c3094bf79e09]: Commencement: Reg. 86 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-4f2f03eaa1780e09c065c3094bf79e09]: Commencement: Reg. 86 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
 
 [^f00018]: Footnote: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Issue of official poll cards[^key-723901e40ca7d6df14cfc610ee9a6c59]
+## 20. Issue of official poll cards[^c-723901e40ca7d6df14cfc610ee9a6c59]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ This paragraph is subject to paragraph (2).
 
 ## Annotations
 
-[^key-723901e40ca7d6df14cfc610ee9a6c59]: Commencement: Reg. 20 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-723901e40ca7d6df14cfc610ee9a6c59]: Commencement: Reg. 20 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00018]: Footnote: [1985 c.50](https://www.legislation.gov.uk/ukpga/1985/50). Section 2 was substituted by paragraphs 1 and 3 of Schedule 2 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2) and was amended by section 12(9) of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22) and by paragraph 21 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6).
 

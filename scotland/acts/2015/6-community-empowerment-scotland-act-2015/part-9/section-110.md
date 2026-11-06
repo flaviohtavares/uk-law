@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Offer to lease allotment[^key-230ddb71cb1f26fa350f54bd8afb275a]
+## 110. Offer to lease allotment[^c-230ddb71cb1f26fa350f54bd8afb275a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-230ddb71cb1f26fa350f54bd8afb275a]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2015/6/section/110) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-230ddb71cb1f26fa350f54bd8afb275a]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2015/6/section/110) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

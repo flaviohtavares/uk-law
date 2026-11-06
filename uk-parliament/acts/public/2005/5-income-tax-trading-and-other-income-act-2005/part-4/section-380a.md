@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 380A. FSCS payments representing interest[^key-f26d321035c22d1463d9b0a02039a692]
+## 380A. FSCS payments representing interest[^c-f26d321035c22d1463d9b0a02039a692]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f26d321035c22d1463d9b0a02039a692]: Textual amendment: S. 380A inserted (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 33(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/33/3)
+[^c-f26d321035c22d1463d9b0a02039a692]: Textual amendment: S. 380A inserted (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 33(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/33/3)

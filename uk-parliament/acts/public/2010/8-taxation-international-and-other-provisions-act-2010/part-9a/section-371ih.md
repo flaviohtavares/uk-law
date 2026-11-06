@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371IH. Exclusions from definition of “qualifying loan relationship”[^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371IH. Exclusions from definition of “qualifying loan relationship”[^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ summary: ''
 - (b) the company's main business is banking business or insurance business, and
 - (c) the company's banking business or insurance business (as the case may be) is a trade.
 
-(9A)[^key-c9316c4a5d64d5a3d5d919b2fdf61f2c] Subsection (9B) applies to a creditor relationship of a CFC if—
+(9A)[^c-c9316c4a5d64d5a3d5d919b2fdf61f2c] Subsection (9B) applies to a creditor relationship of a CFC if—
 
 - (a) a creditor relationship (“the UK creditor relationship”) of a UK connected company is made where the debtor is a non-UK resident company connected with the UK connected company,
 - (b) subsequently, an arrangement (“the relevant arrangement”) is made directly or indirectly in connection with the UK creditor relationship, and
@@ -98,7 +98,7 @@ summary: ''
 - (b) the provision of the relevant UK funds or other assets is itself funded (wholly or partly and directly or indirectly) by a loan made to a UK connected company by—
   - (i) a non-UK resident person, or
   - (ii) a UK resident person who is not connected with the CFC,
-- (c) the relevant loan is used to any extent (other than a negligible one)[^key-a8392d6b41f40b7f03547df65b3101ba] to repay wholly or partly another loan made to the ultimate debtor by a person not connected with the ultimate debtor, and
+- (c) the relevant loan is used to any extent (other than a negligible one)[^c-a8392d6b41f40b7f03547df65b3101ba] to repay wholly or partly another loan made to the ultimate debtor by a person not connected with the ultimate debtor, and
 - (d) the events mentioned in paragraphs (a) to (c) take place under, or are otherwise connected (directly or indirectly) with, an arrangement the main purpose, or one of the main purposes, of which is to obtain a tax advantage for any person.
 
 (11) In subsection (10)—
@@ -115,8 +115,8 @@ summary: ''
 
 ## Annotations
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
 
-[^key-c9316c4a5d64d5a3d5d919b2fdf61f2c]: Textual amendment: Ss. 371IH(9A)-(9E) inserted (with effect in accordance with s. 293(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 293(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/293/1)
+[^c-c9316c4a5d64d5a3d5d919b2fdf61f2c]: Textual amendment: Ss. 371IH(9A)-(9E) inserted (with effect in accordance with s. 293(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 293(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/293/1)
 
-[^key-a8392d6b41f40b7f03547df65b3101ba]: Textual amendment: Words in s. 371IH(10)(c) substituted (with effect in accordance with s. 294(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 294(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/294/1)
+[^c-a8392d6b41f40b7f03547df65b3101ba]: Textual amendment: Words in s. 371IH(10)(c) substituted (with effect in accordance with s. 294(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 294(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/294/1)

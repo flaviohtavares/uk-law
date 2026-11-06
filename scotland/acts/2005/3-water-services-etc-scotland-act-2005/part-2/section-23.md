@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Determinations relating to provision of services[^key-b449979b75aecba089eab27331b20f9f]
+## 23. Determinations relating to provision of services[^c-b449979b75aecba089eab27331b20f9f]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b449979b75aecba089eab27331b20f9f]: Commencement: S. 23 in force at 1.4.2006 by [S.S.I. 2006/167](https://www.legislation.gov.uk/ssi/2006/167), [art. 2](https://www.legislation.gov.uk/ssi/2006/167/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/167/schedule/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/167/article/3))
+[^c-b449979b75aecba089eab27331b20f9f]: Commencement: S. 23 in force at 1.4.2006 by [S.S.I. 2006/167](https://www.legislation.gov.uk/ssi/2006/167), [art. 2](https://www.legislation.gov.uk/ssi/2006/167/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/167/schedule/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2006/167/article/3))

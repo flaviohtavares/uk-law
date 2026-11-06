@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Control of school premises[^key-8b39361aaea208fc380c79ff446b036c][^key-1a8b7a3dc707d8d5694422c1875b8dec]
+## 31. Control of school premises[^c-8b39361aaea208fc380c79ff446b036c][^c-1a8b7a3dc707d8d5694422c1875b8dec]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Regulations may make provision relating to the control by the governing body of 
 
 ## Annotations
 
-[^key-8b39361aaea208fc380c79ff446b036c]: Commencement: S. 31 in force at 2.1.2008 for specified purposes for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-8b39361aaea208fc380c79ff446b036c]: Commencement: S. 31 in force at 2.1.2008 for specified purposes for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
-[^key-1a8b7a3dc707d8d5694422c1875b8dec]: Commencement: S. 31 in force at 31.3.2008 for W. so far as not already in force by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(2)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/2)
+[^c-1a8b7a3dc707d8d5694422c1875b8dec]: Commencement: S. 31 in force at 31.3.2008 for W. so far as not already in force by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(2)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/2)

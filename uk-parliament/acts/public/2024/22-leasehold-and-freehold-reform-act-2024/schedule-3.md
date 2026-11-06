@@ -24,7 +24,7 @@ summary: ''
 
 Section 30
 
-### 1. Removal of redevelopment restrictions on enfranchisement and extension[^key-c923592f569609a54253892b06b45a2d]
+### 1. Removal of redevelopment restrictions on enfranchisement and extension[^c-c923592f569609a54253892b06b45a2d]
 
 (1) In section 17 of the LRA 1967 (redevelopment rights)—
 
@@ -33,15 +33,15 @@ Section 30
 
 (2) Omit sections 23 and 47 of the LRHUDA 1993 (tenants’ claim liable to be defeated where landlord intends to redevelop).
 
-### 2. Removal of residential restriction on enfranchisement and extension under the LRA 1967[^key-c8f40bb6119e915a646b2bda0ec07715]
+### 2. Removal of residential restriction on enfranchisement and extension under the LRA 1967[^c-c8f40bb6119e915a646b2bda0ec07715]
 
 Omit section 18 of the LRA 1967 (residential restriction on enfranchisement and extension rights).
 
-### 3. Removal of public purposes restriction on enfranchisement and extension under the LRA 1967[^key-de900c7ad55d1bbc6880e9a06f2ea870]
+### 3. Removal of public purposes restriction on enfranchisement and extension under the LRA 1967[^c-de900c7ad55d1bbc6880e9a06f2ea870]
 
 Omit section 28 of the LRA 1967 (restrictions on enfranchisement and extension where land required for public purposes).
 
-### 4. Exception to enfranchisement for certified community housing providers[^key-52aeb2f0e732b0f0788b0554043f98a9]
+### 4. Exception to enfranchisement for certified community housing providers[^c-52aeb2f0e732b0f0788b0554043f98a9]
 
 (1) The LRA 1967 is amended as follows.
 
@@ -98,7 +98,7 @@ Omit section 28 of the LRA 1967 (restrictions on enfranchisement and extension w
 >
 > (10) A statutory instrument containing regulations under this section (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-**5.**[^key-9a0e3017a711d0eb7dee8a93ccf409e7] (1) The LRHUDA 1993 is amended as follows.
+**5.**[^c-9a0e3017a711d0eb7dee8a93ccf409e7] (1) The LRHUDA 1993 is amended as follows.
 
 (2) In section 5 (qualifying tenants for enfranchisement), after subsection (2)(a) insert—
 
@@ -158,7 +158,7 @@ Omit section 28 of the LRA 1967 (restrictions on enfranchisement and extension w
 
 > (2A) But a statutory instrument containing regulations under section 8B (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-### 6. Removal of restriction on extension claims by sub-lessees[^key-c550bb326dcb23b77cd7f997147b85e5]
+### 6. Removal of restriction on extension claims by sub-lessees[^c-c550bb326dcb23b77cd7f997147b85e5]
 
 (1) In the LRA 1967—
 
@@ -172,7 +172,7 @@ Omit section 28 of the LRA 1967 (restrictions on enfranchisement and extension w
 - (a) in section 57(7) (terms of new lease), omit paragraph (a);
 - (b) in section 59 (further renewal after grant of new lease), omit subsection (3).
 
-### 7. Eligibility of leases of National Trust property for extension[^key-a8ae320a36d899808d3a534434233302]
+### 7. Eligibility of leases of National Trust property for extension[^c-a8ae320a36d899808d3a534434233302]
 
 For section 32 of the LRA 1967 (saving for National Trust) substitute—
 
@@ -264,7 +264,7 @@ For section 32 of the LRA 1967 (saving for National Trust) substitute—
 > - “**relative**” includes a person who is related by marriage or civil partnership;
 > - “**right to an extended lease**” means the right under this Part to acquire an extended lease.
 
-**8.**[^key-f3db551b3dd8b969cfa3f985947b1d82] For section 95 of the LRHUDA 1993 (saving for National Trust) substitute—
+**8.**[^c-f3db551b3dd8b969cfa3f985947b1d82] For section 95 of the LRHUDA 1993 (saving for National Trust) substitute—
 
 > **95. National Trust property**
 >
@@ -344,17 +344,17 @@ For section 32 of the LRA 1967 (saving for National Trust) substitute—
 > - “**relative**” includes a person who is related by marriage or civil partnership;
 > - “**right to a new lease**” means the right under Chapter 2 to a new lease.
 
-### 9. Consequential amendments to the LRA 1967[^key-84c17ad1b9b21ba893d9876595ad8078]
+### 9. Consequential amendments to the LRA 1967[^c-84c17ad1b9b21ba893d9876595ad8078]
 
 The LRA 1967 is amended in accordance with paragraphs 10 to 18.
 
-**10.**[^key-c997108205dfd1f1711eabd04af94b23] In section 20(2)(d) (jurisdiction and special powers of county court), omit “or 18”.
+**10.**[^c-c997108205dfd1f1711eabd04af94b23] In section 20(2)(d) (jurisdiction and special powers of county court), omit “or 18”.
 
-**11.**[^key-3686bc369c232b8a2d992ba837309e65] In section 21(1)(c) (jurisdiction of tribunals), omit “or 18”.
+**11.**[^c-3686bc369c232b8a2d992ba837309e65] In section 21(1)(c) (jurisdiction of tribunals), omit “or 18”.
 
-**12.**[^key-e028fc072f7cf65257a11d80f0c25be1] In section 25(5)(a) (mortgagee in possession of landlord’s interest), omit “or 18”.
+**12.**[^c-e028fc072f7cf65257a11d80f0c25be1] In section 25(5)(a) (mortgagee in possession of landlord’s interest), omit “or 18”.
 
-**13.**[^key-0b2e9512f632fb6f4e9d32509b8ca52b] In section 29 (reservation of future right to develop)—
+**13.**[^c-0b2e9512f632fb6f4e9d32509b8ca52b] In section 29 (reservation of future right to develop)—
 
 - (a) for subsection (5) substitute—
 
@@ -392,7 +392,7 @@ The LRA 1967 is amended in accordance with paragraphs 10 to 18.
   >
   > (10) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**14.**[^key-108736a67e5c9408c98051e66445960d] In section 38 (modification of right to possession under Landlord and Tenant Act 1954)—
+**14.**[^c-108736a67e5c9408c98051e66445960d] In section 38 (modification of right to possession under Landlord and Tenant Act 1954)—
 
 - (a) in subsection (1), omit the words from “, except” to “so required”;
 - (b) for subsection (2) substitute—
@@ -422,9 +422,9 @@ The LRA 1967 is amended in accordance with paragraphs 10 to 18.
   ;
 - (c) omit subsection (3).
 
-**15.**[^key-4d12b5f1673a4ee43d00c2801a1a5300] In Schedule 1 (enfranchisement and extension by sub-tenants), omit paragraph 6(1).
+**15.**[^c-4d12b5f1673a4ee43d00c2801a1a5300] In Schedule 1 (enfranchisement and extension by sub-tenants), omit paragraph 6(1).
 
-**16.**[^key-fd5c61490443c4202c2a66f5f99d0e03] In Schedule 2 (provisions supplementary to sections 17 and 18)—
+**16.**[^c-fd5c61490443c4202c2a66f5f99d0e03] In Schedule 2 (provisions supplementary to sections 17 and 18)—
 
 - (a) in the heading of the Schedule, for “Sections 17 and 18” substitute “section 17”;
 - (b) in paragraph 1(1), in the words before paragraph (a), omit “or 18”;
@@ -439,157 +439,157 @@ The LRA 1967 is amended in accordance with paragraphs 10 to 18.
 - (k) in paragraph 7(3), omit “or 18”;
 - (l) in paragraph 9(1), omit “or 18”.
 
-**17.**[^key-02fbaacff9058f7c06ae5466f4db5c9a] In Schedule 3 (procedure)—
+**17.**[^c-02fbaacff9058f7c06ae5466f4db5c9a] In Schedule 3 (procedure)—
 
 - (a) omit paragraph 7(3);
 - (b) in paragraph 10, omit sub-paragraphs (2)(c) (and the “and” preceding it) and (4).
 
-**18.**[^key-2eb366e419a9bcc4e040c610442e936f] In Schedule 4 (covenants with local authorities etc), in paragraph 5(3), for “section 28(5)(c)” substitute “29(6ZA)”.
+**18.**[^c-2eb366e419a9bcc4e040c610442e936f] In Schedule 4 (covenants with local authorities etc), in paragraph 5(3), for “section 28(5)(c)” substitute “29(6ZA)”.
 
-### 19. Consequential amendments to the LRHUDA 1993[^key-edb431a787fcef0cb15ccd53a3eb37e6]
+### 19. Consequential amendments to the LRHUDA 1993[^c-edb431a787fcef0cb15ccd53a3eb37e6]
 
 The LRHUDA 1993 is amended in accordance with paragraphs 20 to 39.
 
-**20.**[^key-a698fec5faea331d9f78d9afbc73a589] In section 13(9) (initial notice for enfranchisement)—
+**20.**[^c-a698fec5faea331d9f78d9afbc73a589] In section 13(9) (initial notice for enfranchisement)—
 
 - (a) omit paragraph (b) and the “or” preceding it;
 - (b) omit the words from “or with the time” to “case may be)”.
 
-**21.**[^key-eb86fd618042b8089779639a4cfda9c2] Omit section 21(2)(c) (counter-notice for enfranchisement).
+**21.**[^c-eb86fd618042b8089779639a4cfda9c2] Omit section 21(2)(c) (counter-notice for enfranchisement).
 
-**22.**[^key-bbab832917fae9e2932585a2330b6a76] In section 22 (proceedings relating to validity of initial notice for enfranchisement)—
+**22.**[^c-bbab832917fae9e2932585a2330b6a76] In section 22 (proceedings relating to validity of initial notice for enfranchisement)—
 
 - (a) in subsection (1)(a), omit the words from “(whether” to “or (c) of that section)”;
 - (b) in subsection (3), omit “(subject to subsection (4))”;
 - (c) omit subsection (4).
 
-**23.**[^key-219f4c0df27ff5faf6f6766b41a8c8ad] In section 24(1)(b) (applications in enfranchisement where terms in dispute etc), omit “or section 23(5) or (6)”.
+**23.**[^c-219f4c0df27ff5faf6f6766b41a8c8ad] In section 24(1)(b) (applications in enfranchisement where terms in dispute etc), omit “or section 23(5) or (6)”.
 
-**24.**[^key-eb5a8d1f2c554fede343e3c56626c0e6] In section 25(1)(b) (applications in enfranchisement on failure to give counter-notice), omit “or section 23(5) or (6)”.
+**24.**[^c-eb5a8d1f2c554fede343e3c56626c0e6] In section 25(1)(b) (applications in enfranchisement on failure to give counter-notice), omit “or section 23(5) or (6)”.
 
-**25.**[^key-f8a51606af21ffd46c733c01e77a29b5] In section 33(4) (costs of enfranchisement), omit “23(4) or”.
+**25.**[^c-f8a51606af21ffd46c733c01e77a29b5] In section 33(4) (costs of enfranchisement), omit “23(4) or”.
 
-**26.**[^key-9fd83e54b6f4b402034697e74b149c32] In section 37A(8)(c)(i) (compensation for ineffective enfranchisement claim), omit “23(4),”.
+**26.**[^c-9fd83e54b6f4b402034697e74b149c32] In section 37A(8)(c)(i) (compensation for ineffective enfranchisement claim), omit “23(4),”.
 
-**27.**[^key-e0fc2170d1eb8f6f43236eb48658000d] In section 42(7) (notice of extension)—
+**27.**[^c-e0fc2170d1eb8f6f43236eb48658000d] In section 42(7) (notice of extension)—
 
 - (a) omit paragraph (b) (and the “or” preceding it);
 - (b) omit the words from “or with the time” to “case may be”).
 
-**28.**[^key-c9d2396208d00ebc3195517826ec1a63] Omit section 45(2)(c) (counter-notice for extension).
+**28.**[^c-c9d2396208d00ebc3195517826ec1a63] Omit section 45(2)(c) (counter-notice for extension).
 
-**29.**[^key-286a1e09cb8b93bf86eb444f76c9958c] In section 46 (proceedings relating to validity of notice for extension)—
+**29.**[^c-286a1e09cb8b93bf86eb444f76c9958c] In section 46 (proceedings relating to validity of notice for extension)—
 
 - (a) in subsection (1)(a), omit the words from “(whether” to “or (c) of that section)”;
 - (b) in subsection (4), omit “(subject to subsection (5))”;
 - (c) omit subsection (5).
 
-**30.**[^key-ae194692eba102c1078f8a84176175c0] In section 48(1)(b) (applications in extension where terms in dispute etc), omit “or section 47(4) or (5)”.
+**30.**[^c-ae194692eba102c1078f8a84176175c0] In section 48(1)(b) (applications in extension where terms in dispute etc), omit “or section 47(4) or (5)”.
 
-**31.**[^key-828d7e058fc735071c1f32cd347b4e71] In section 49(1)(b) (applications in extension on failure to give counter-notice), omit “or section 47(4) or (5)”.
+**31.**[^c-828d7e058fc735071c1f32cd347b4e71] In section 49(1)(b) (applications in extension on failure to give counter-notice), omit “or section 47(4) or (5)”.
 
-**32.**[^key-30004f307aadcd9934ac2c9b7f156ade] In section 54(6) (suspension of extension during enfranchisement)—
+**32.**[^c-30004f307aadcd9934ac2c9b7f156ade] In section 54(6) (suspension of extension during enfranchisement)—
 
 - (a) in paragraph (b)—
   - (i) omit “or (c)”;
   - (ii) omit “or 47(1)”;
 - (b) in paragraph (c), omit “or 47(4)”.
 
-**33.**[^key-dbf3ef8668f8f453147352de2d99448a] In section 60(4) (costs incurred in connection with new lease), omit “47(1) or”.
+**33.**[^c-dbf3ef8668f8f453147352de2d99448a] In section 60(4) (costs incurred in connection with new lease), omit “47(1) or”.
 
-**34.**[^key-a318e187fb6a7d9d08288ea977ceea85] In section 61A(6)(a) (compensation for ineffective extension claim), omit “47(1) or”.
+**34.**[^c-a318e187fb6a7d9d08288ea977ceea85] In section 61A(6)(a) (compensation for ineffective extension claim), omit “47(1) or”.
 
-**35.**[^key-41c924df919a16f4b34e9e28a267dc7c] In section 62(3)(a) (definitions), omit “47 or”.
+**35.**[^c-41c924df919a16f4b34e9e28a267dc7c] In section 62(3)(a) (definitions), omit “47 or”.
 
-**36.**[^key-d1bed211d277f2d5e4effee65563327e] In section 74 (effect of scheme applications on claims)—
+**36.**[^c-d1bed211d277f2d5e4effee65563327e] In section 74 (effect of scheme applications on claims)—
 
 - (a) in subsection (3)(c)—
   - (i) omit “or 23”;
   - (ii) for “either of those sections” substitute “that section”.
 - (b) omit subsection (8)(b) and the “or” preceding it.
 
-**37.**[^key-454298a13d9baac39f3bae67687ee596] In Schedule 1 (conduct of proceedings by reversioner), omit paragraph 9 and the italic heading preceding it.
+**37.**[^c-454298a13d9baac39f3bae67687ee596] In Schedule 1 (conduct of proceedings by reversioner), omit paragraph 9 and the italic heading preceding it.
 
-**38.**[^key-00f1502ca056a10a15af0f66fb80a6b9] In Schedule 2 (special categories of landlord), in paragraph 2, omit sub-paragraphs (2) and (3).
+**38.**[^c-00f1502ca056a10a15af0f66fb80a6b9] In Schedule 2 (special categories of landlord), in paragraph 2, omit sub-paragraphs (2) and (3).
 
-**39.**[^key-a1190f939cedb04bc461cc5899d4da9c] In Schedule 11 (procedure where competent landlord is not tenant’s immediate landlord), omit paragraph 9 and the italic heading preceding it.
+**39.**[^c-a1190f939cedb04bc461cc5899d4da9c] In Schedule 11 (procedure where competent landlord is not tenant’s immediate landlord), omit paragraph 9 and the italic heading preceding it.
 
 ## Annotations
 
-[^key-c923592f569609a54253892b06b45a2d]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c923592f569609a54253892b06b45a2d]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-c8f40bb6119e915a646b2bda0ec07715]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c8f40bb6119e915a646b2bda0ec07715]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-de900c7ad55d1bbc6880e9a06f2ea870]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-de900c7ad55d1bbc6880e9a06f2ea870]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-52aeb2f0e732b0f0788b0554043f98a9]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-52aeb2f0e732b0f0788b0554043f98a9]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-9a0e3017a711d0eb7dee8a93ccf409e7]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-9a0e3017a711d0eb7dee8a93ccf409e7]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-c550bb326dcb23b77cd7f997147b85e5]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c550bb326dcb23b77cd7f997147b85e5]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-a8ae320a36d899808d3a534434233302]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-a8ae320a36d899808d3a534434233302]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-f3db551b3dd8b969cfa3f985947b1d82]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f3db551b3dd8b969cfa3f985947b1d82]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-84c17ad1b9b21ba893d9876595ad8078]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-84c17ad1b9b21ba893d9876595ad8078]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-c997108205dfd1f1711eabd04af94b23]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c997108205dfd1f1711eabd04af94b23]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-3686bc369c232b8a2d992ba837309e65]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-3686bc369c232b8a2d992ba837309e65]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-e028fc072f7cf65257a11d80f0c25be1]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-e028fc072f7cf65257a11d80f0c25be1]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-0b2e9512f632fb6f4e9d32509b8ca52b]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-0b2e9512f632fb6f4e9d32509b8ca52b]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-108736a67e5c9408c98051e66445960d]: Commencement: Sch. 3 para. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-108736a67e5c9408c98051e66445960d]: Commencement: Sch. 3 para. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-4d12b5f1673a4ee43d00c2801a1a5300]: Commencement: Sch. 3 para. 15 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-4d12b5f1673a4ee43d00c2801a1a5300]: Commencement: Sch. 3 para. 15 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-fd5c61490443c4202c2a66f5f99d0e03]: Commencement: Sch. 3 para. 16 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-fd5c61490443c4202c2a66f5f99d0e03]: Commencement: Sch. 3 para. 16 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-02fbaacff9058f7c06ae5466f4db5c9a]: Commencement: Sch. 3 para. 17 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-02fbaacff9058f7c06ae5466f4db5c9a]: Commencement: Sch. 3 para. 17 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-2eb366e419a9bcc4e040c610442e936f]: Commencement: Sch. 3 para. 18 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-2eb366e419a9bcc4e040c610442e936f]: Commencement: Sch. 3 para. 18 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-edb431a787fcef0cb15ccd53a3eb37e6]: Commencement: Sch. 3 para. 19 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-edb431a787fcef0cb15ccd53a3eb37e6]: Commencement: Sch. 3 para. 19 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-a698fec5faea331d9f78d9afbc73a589]: Commencement: Sch. 3 para. 20 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-a698fec5faea331d9f78d9afbc73a589]: Commencement: Sch. 3 para. 20 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-eb86fd618042b8089779639a4cfda9c2]: Commencement: Sch. 3 para. 21 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-eb86fd618042b8089779639a4cfda9c2]: Commencement: Sch. 3 para. 21 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-bbab832917fae9e2932585a2330b6a76]: Commencement: Sch. 3 para. 22 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-bbab832917fae9e2932585a2330b6a76]: Commencement: Sch. 3 para. 22 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-219f4c0df27ff5faf6f6766b41a8c8ad]: Commencement: Sch. 3 para. 23 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-219f4c0df27ff5faf6f6766b41a8c8ad]: Commencement: Sch. 3 para. 23 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-eb5a8d1f2c554fede343e3c56626c0e6]: Commencement: Sch. 3 para. 24 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-eb5a8d1f2c554fede343e3c56626c0e6]: Commencement: Sch. 3 para. 24 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-f8a51606af21ffd46c733c01e77a29b5]: Commencement: Sch. 3 para. 25 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f8a51606af21ffd46c733c01e77a29b5]: Commencement: Sch. 3 para. 25 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-9fd83e54b6f4b402034697e74b149c32]: Commencement: Sch. 3 para. 26 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-9fd83e54b6f4b402034697e74b149c32]: Commencement: Sch. 3 para. 26 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-e0fc2170d1eb8f6f43236eb48658000d]: Commencement: Sch. 3 para. 27 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-e0fc2170d1eb8f6f43236eb48658000d]: Commencement: Sch. 3 para. 27 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-c9d2396208d00ebc3195517826ec1a63]: Commencement: Sch. 3 para. 28 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c9d2396208d00ebc3195517826ec1a63]: Commencement: Sch. 3 para. 28 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-286a1e09cb8b93bf86eb444f76c9958c]: Commencement: Sch. 3 para. 29 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-286a1e09cb8b93bf86eb444f76c9958c]: Commencement: Sch. 3 para. 29 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-ae194692eba102c1078f8a84176175c0]: Commencement: Sch. 3 para. 30 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-ae194692eba102c1078f8a84176175c0]: Commencement: Sch. 3 para. 30 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-828d7e058fc735071c1f32cd347b4e71]: Commencement: Sch. 3 para. 31 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-828d7e058fc735071c1f32cd347b4e71]: Commencement: Sch. 3 para. 31 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-30004f307aadcd9934ac2c9b7f156ade]: Commencement: Sch. 3 para. 32 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-30004f307aadcd9934ac2c9b7f156ade]: Commencement: Sch. 3 para. 32 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-dbf3ef8668f8f453147352de2d99448a]: Commencement: Sch. 3 para. 33 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-dbf3ef8668f8f453147352de2d99448a]: Commencement: Sch. 3 para. 33 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-a318e187fb6a7d9d08288ea977ceea85]: Commencement: Sch. 3 para. 34 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-a318e187fb6a7d9d08288ea977ceea85]: Commencement: Sch. 3 para. 34 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-41c924df919a16f4b34e9e28a267dc7c]: Commencement: Sch. 3 para. 35 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-41c924df919a16f4b34e9e28a267dc7c]: Commencement: Sch. 3 para. 35 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-d1bed211d277f2d5e4effee65563327e]: Commencement: Sch. 3 para. 36 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d1bed211d277f2d5e4effee65563327e]: Commencement: Sch. 3 para. 36 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-454298a13d9baac39f3bae67687ee596]: Commencement: Sch. 3 para. 37 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-454298a13d9baac39f3bae67687ee596]: Commencement: Sch. 3 para. 37 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-00f1502ca056a10a15af0f66fb80a6b9]: Commencement: Sch. 3 para. 38 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-00f1502ca056a10a15af0f66fb80a6b9]: Commencement: Sch. 3 para. 38 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-a1190f939cedb04bc461cc5899d4da9c]: Commencement: Sch. 3 para. 39 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-a1190f939cedb04bc461cc5899d4da9c]: Commencement: Sch. 3 para. 39 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

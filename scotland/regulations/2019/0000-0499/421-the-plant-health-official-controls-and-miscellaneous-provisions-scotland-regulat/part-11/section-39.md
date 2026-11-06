@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Defence: reasonable excuse for failure to comply with requirements of notices etc.[^key-b2bc765b670ada74d267f488ecadc73d]
+## 39. Defence: reasonable excuse for failure to comply with requirements of notices etc.[^c-b2bc765b670ada74d267f488ecadc73d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ It is a defence for a person charged with an offence under regulation 37 or 38 t
 
 ## Annotations
 
-[^key-b2bc765b670ada74d267f488ecadc73d]: Commencement: Reg. 39 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-b2bc765b670ada74d267f488ecadc73d]: Commencement: Reg. 39 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

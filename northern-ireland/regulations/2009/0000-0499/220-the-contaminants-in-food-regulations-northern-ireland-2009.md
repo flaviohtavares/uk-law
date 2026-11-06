@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Contaminants in Food Regulations (Northern Ireland) 2009 (revoked)[^key-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
+The Contaminants in Food Regulations (Northern Ireland) 2009 (revoked)[^c-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
 
 Made
 
@@ -42,42 +42,42 @@ Coming into operation
 
 1st July 2009
 
-[^key-2f9bcb13ecd7af6a1a3ea50a87f2c21a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f9bcb13ecd7af6a1a3ea50a87f2c21a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
+## 1. Citation and commencement[^c-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
+## 2. Interpretation[^c-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
+## 3. Offences and penalties[^c-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement and competent authorities[^key-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
+## 4. Enforcement and competent authorities[^c-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^key-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
+## 5. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^c-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Consequential amendment[^key-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
+## 6. Consequential amendment[^c-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
+## 7. Revocations[^c-2f9bcb13ecd7af6a1a3ea50a87f2c21a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f9bcb13ecd7af6a1a3ea50a87f2c21a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f9bcb13ecd7af6a1a3ea50a87f2c21a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f9bcb13ecd7af6a1a3ea50a87f2c21a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f9bcb13ecd7af6a1a3ea50a87f2c21a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f9bcb13ecd7af6a1a3ea50a87f2c21a]: Textual amendment: Regulations revoked (20.10.2010) by [The Contaminants in Food Regulations (Northern Ireland) 2010 (S.R. 2010/335)](https://www.legislation.gov.uk/nisr/2010/335), [regs. 1](https://www.legislation.gov.uk/nisr/2010/335/regulation/1), [7](https://www.legislation.gov.uk/nisr/2010/335/regulation/7)
+[^c-2f9bcb13ecd7af6a1a3ea50a87f2c21a]: Textual amendment: Regulations revoked (20.10.2010) by [The Contaminants in Food Regulations (Northern Ireland) 2010 (S.R. 2010/335)](https://www.legislation.gov.uk/nisr/2010/335), [regs. 1](https://www.legislation.gov.uk/nisr/2010/335/regulation/1), [7](https://www.legislation.gov.uk/nisr/2010/335/regulation/7)

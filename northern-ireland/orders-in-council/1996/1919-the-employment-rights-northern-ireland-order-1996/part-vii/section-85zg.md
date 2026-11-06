@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85ZG. Right to time off to accompany to ante-natal appointments: agency workers[^key-00e00d8edbe359062bf6e90e94c1983e]
+## 85ZG. Right to time off to accompany to ante-natal appointments: agency workers[^c-00e00d8edbe359062bf6e90e94c1983e]
 
 *Extent: N.I.*
 
@@ -39,11 +39,11 @@ summary: ''
 
 (7) A person has a qualifying relationship with a pregnant woman or her expected child if—
 
-- (a) the person is the spouse[^key-2befde49f97c3e66e068b15f47fdacc5] or civil partner of the pregnant woman,
+- (a) the person is the spouse[^c-2befde49f97c3e66e068b15f47fdacc5] or civil partner of the pregnant woman,
 - (b) the person, being of a different sex or the same sex, lives with the woman in an enduring family relationship but is not a relative of the woman,
 - (c) the person is the father of the expected child,
-- (d) the person is a parent of the expected child by virtue of section 42 or 43 of the Human Fertilisation and Embryology Act 2008, [^key-31aea7073dd8693a5f29c77f29366ad0]...
-- (e) the person is a potential applicant for a parental order under section 54 of that Act in respect of the expected child, or[^key-ed0dadcdde72a51a2036631c7cb07a31]
+- (d) the person is a parent of the expected child by virtue of section 42 or 43 of the Human Fertilisation and Embryology Act 2008, [^c-31aea7073dd8693a5f29c77f29366ad0]...
+- (e) the person is a potential applicant for a parental order under section 54 of that Act in respect of the expected child, or[^c-ed0dadcdde72a51a2036631c7cb07a31]
 - (f) the person is a potential applicant for a parental order under section 54A of that Act in respect of the expected child.
 
 (8) For the purposes of paragraph (7), a relative of a person is the person's parent, grandparent, sister, brother, aunt or uncle.
@@ -63,7 +63,7 @@ but do not include any other adoptive relationships.
 - (d) A and B would satisfy subsection (2) of that section if they made an application under that section at the time that A seeks to exercise the right under this Article, and
 - (e) A expects that A and B will satisfy the conditions in subsections (2), (4), (5) and (8) of that section as regards the intended application.
 
-(10A)[^key-4369ca7c338c61a7eafbc00bd9d93890] For the purposes of paragraph (7)(f) a person is a potential applicant for a parental order under section 54A of the Human Fertilisation and Embryology Act 2008 in respect of an expected child only if—
+(10A)[^c-4369ca7c338c61a7eafbc00bd9d93890] For the purposes of paragraph (7)(f) a person is a potential applicant for a parental order under section 54A of the Human Fertilisation and Embryology Act 2008 in respect of an expected child only if—
 
 - (a) the person intends to apply for such an order in respect of the expected child within the time allowed by subsection (2) of that section,
 - (b) the expected child is being carried by the pregnant woman as a result of such procedure as is described in subsection (1)(a) of that section,
@@ -74,12 +74,12 @@ but do not include any other adoptive relationships.
 
 ## Annotations
 
-[^key-00e00d8edbe359062bf6e90e94c1983e]: Textual amendment: Arts. 85ZE-85ZI and cross-headings inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 15(2)](https://www.legislation.gov.uk/nia/2015/1/section/15/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(l)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/l)
+[^c-00e00d8edbe359062bf6e90e94c1983e]: Textual amendment: Arts. 85ZE-85ZI and cross-headings inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 15(2)](https://www.legislation.gov.uk/nia/2015/1/section/15/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(l)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/l)
 
-[^key-2befde49f97c3e66e068b15f47fdacc5]: Textual amendment: Word in [art. 85ZG(7)(a)](https://www.legislation.gov.uk/nisi/1996/1919/article/85ZG/7/a) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [143(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/143/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-2befde49f97c3e66e068b15f47fdacc5]: Textual amendment: Word in [art. 85ZG(7)(a)](https://www.legislation.gov.uk/nisi/1996/1919/article/85ZG/7/a) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [143(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/143/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-31aea7073dd8693a5f29c77f29366ad0]: Textual amendment: Word in art. 85ZG(7) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 13(7)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/13/7)
+[^c-31aea7073dd8693a5f29c77f29366ad0]: Textual amendment: Word in art. 85ZG(7) omitted (3.1.2019) by virtue of [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 13(7)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/13/7)
 
-[^key-ed0dadcdde72a51a2036631c7cb07a31]: Textual amendment: Art. 85ZG(7)(f) and word inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 13(8)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/13/8)
+[^c-ed0dadcdde72a51a2036631c7cb07a31]: Textual amendment: Art. 85ZG(7)(f) and word inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 13(8)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/13/8)
 
-[^key-4369ca7c338c61a7eafbc00bd9d93890]: Textual amendment: Art. 85ZG(10A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 13(9)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/13/9)
+[^c-4369ca7c338c61a7eafbc00bd9d93890]: Textual amendment: Art. 85ZG(10A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 13(9)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/13/9)

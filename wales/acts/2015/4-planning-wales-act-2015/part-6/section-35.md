@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Duration of planning permission: general[^c22542911][^key-ba53606cb4ebc287f81c6eb5ffaad26a]
+## 35. Duration of planning permission: general[^c22542911][^c-ba53606cb4ebc287f81c6eb5ffaad26a]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^c22542911]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2015/4/section/35) partly in force; [s. 35](https://www.legislation.gov.uk/anaw/2015/4/section/35) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-ba53606cb4ebc287f81c6eb5ffaad26a]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2015/4/section/35) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 13](https://www.legislation.gov.uk/wsi/2016/52/article/13))
+[^c-ba53606cb4ebc287f81c6eb5ffaad26a]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2015/4/section/35) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 13](https://www.legislation.gov.uk/wsi/2016/52/article/13))

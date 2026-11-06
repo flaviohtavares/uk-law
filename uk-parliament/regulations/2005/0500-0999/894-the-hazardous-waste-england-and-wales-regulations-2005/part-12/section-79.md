@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Review[^key-7706939c7f86a60c9e601b8d4e7a2707]
+## 79. Review[^c-7706939c7f86a60c9e601b8d4e7a2707]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7706939c7f86a60c9e601b8d4e7a2707]: Textual amendment: [Reg. 79](https://www.legislation.gov.uk/uksi/2005/894/regulation/79) inserted (1.4.2016) by [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2016/336/regulation/2/8)
+[^c-7706939c7f86a60c9e601b8d4e7a2707]: Textual amendment: [Reg. 79](https://www.legislation.gov.uk/uksi/2005/894/regulation/79) inserted (1.4.2016) by [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2016/336/regulation/2/8)

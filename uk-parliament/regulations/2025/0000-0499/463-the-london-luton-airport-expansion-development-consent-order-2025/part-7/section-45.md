@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Application of the 1990 Act[^key-2be23d16d888173b980df9bec298dbf2]
+## 45. Application of the 1990 Act[^c-2be23d16d888173b980df9bec298dbf2]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ is to be treated as specific planning permission for the purposes of section 264
 
 ## Annotations
 
-[^key-2be23d16d888173b980df9bec298dbf2]: Commencement: Art. 45 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-2be23d16d888173b980df9bec298dbf2]: Commencement: Art. 45 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
 [^f00090]: Footnote: Section 73 was amended by section 51(3) of, and Schedule 9 to, the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), paragraph 4 of Schedule 3 to the Neighbourhood Planning Act [2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), paragraph 3(5) of Schedule 14 to the Environment Act [2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), section 114(6) of the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55) and [S.I. 2024/49](https://www.legislation.gov.uk/uksi/2024/49).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Assistance with fees in respect of attendance on a course in Wales, Northern Ireland or Scotland[^key-21c1ceb6456b3110f7ed6914e960170c]
+## 139. Assistance with fees in respect of attendance on a course in Wales, Northern Ireland or Scotland[^c-21c1ceb6456b3110f7ed6914e960170c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21c1ceb6456b3110f7ed6914e960170c]: Commencement: Reg. 139 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-21c1ceb6456b3110f7ed6914e960170c]: Commencement: Reg. 139 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00071]: Footnote: This body was established under section 1 of the Further and Higher Education (Scotland) Act 2005 ([2005 asp 6](https://www.legislation.gov.uk/asp/2005/6)).

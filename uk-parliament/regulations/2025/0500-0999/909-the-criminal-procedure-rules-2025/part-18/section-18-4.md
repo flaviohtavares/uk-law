@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.4. Making an application for a direction or order[^key-dcd7fc49b66488180d3df10cbae6163e]
+## 18.4. Making an application for a direction or order[^c-dcd7fc49b66488180d3df10cbae6163e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ A party who wants the court to exercise its power to give or make a direction or
 
 ## Annotations
 
-[^key-dcd7fc49b66488180d3df10cbae6163e]: Commencement: [Rule 18.4](https://www.legislation.gov.uk/uksi/2025/909/rule/18.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-dcd7fc49b66488180d3df10cbae6163e]: Commencement: [Rule 18.4](https://www.legislation.gov.uk/uksi/2025/909/rule/18.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

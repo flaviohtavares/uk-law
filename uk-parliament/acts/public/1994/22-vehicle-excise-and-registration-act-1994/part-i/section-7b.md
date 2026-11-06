@@ -34,7 +34,7 @@ summary: ''
 (3) Regulations under subsection (2) may, in particular, make provision that, subject to any modifications that the Secretary of State considers appropriate, corresponds or is similar to—
 
 - (a) any provision made by sections 12A and 12B of the Finance Act 1994 (assessments related to excise duty matters), or
-- (b) any provision made by sections 13A to 16[^key-f98a39e0e72974bff1fee28feb7280b5] of that Act (customs and excise reviews and appeals).
+- (b) any provision made by sections 13A to 16[^c-f98a39e0e72974bff1fee28feb7280b5] of that Act (customs and excise reviews and appeals).
 
 (4) Sums received by way of supplements under section 7A shall be paid into the Consolidated Fund.
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c19865451]: Textual amendment: Words in s. 7B(1) substituted (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 66(10)(b)](https://www.legislation.gov.uk/ukpga/2005/22/section/66/10/b)
 
-[^key-f98a39e0e72974bff1fee28feb7280b5]: Textual amendment: Words in [s. 7B(3)(b)](https://www.legislation.gov.uk/ukpga/1994/22/section/7B/3/b) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 215](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/215)
+[^c-f98a39e0e72974bff1fee28feb7280b5]: Textual amendment: Words in [s. 7B(3)(b)](https://www.legislation.gov.uk/ukpga/1994/22/section/7B/3/b) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 215](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/215)

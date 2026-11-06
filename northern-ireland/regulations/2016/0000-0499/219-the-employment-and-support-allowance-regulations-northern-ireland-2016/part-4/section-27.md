@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Certain claimants to be treated as not having limited capability for work[^key-00f1fd0934cb7a3ca1e1d20183002c64]
+## 27. Certain claimants to be treated as not having limited capability for work[^c-00f1fd0934cb7a3ca1e1d20183002c64]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00f1fd0934cb7a3ca1e1d20183002c64]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2016/219/regulation/27) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-00f1fd0934cb7a3ca1e1d20183002c64]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2016/219/regulation/27) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

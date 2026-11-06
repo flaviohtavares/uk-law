@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Offences[^key-7d4d70921ecbc7a0fbd5751ac2085202]
+## 107. Offences[^c-7d4d70921ecbc7a0fbd5751ac2085202]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ the offence is also committed by the person nominated by the producer in accorda
 
 ## Annotations
 
-[^key-7d4d70921ecbc7a0fbd5751ac2085202]: Commencement: S. 107 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-7d4d70921ecbc7a0fbd5751ac2085202]: Commencement: S. 107 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

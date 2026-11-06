@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Report on effect of waiver on participation in redress scheme[^key-4ff40adb8ea28671eb36fd16f91c3fa2]
+## 48. Report on effect of waiver on participation in redress scheme[^c-4ff40adb8ea28671eb36fd16f91c3fa2]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ Before the end of the period of 18 months beginning with the day section 46 come
 
 ## Annotations
 
-[^key-4ff40adb8ea28671eb36fd16f91c3fa2]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2021/15/section/48) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-4ff40adb8ea28671eb36fd16f91c3fa2]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2021/15/section/48) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

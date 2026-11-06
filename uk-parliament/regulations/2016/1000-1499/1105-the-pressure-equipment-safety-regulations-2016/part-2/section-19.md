@@ -24,7 +24,7 @@ summary: ''
 
 (2) The mandate must allow the authorised representative to do at least the following in relation to pressure equipment or assemblies covered by the mandate—
 
-- (a) perform the manufacturer's obligations under regulation 12 (duty to keep technical documentation and [^key-58cfd571a9d1c0cf2e4e76b74483a577]... declaration of conformity); and
+- (a) perform the manufacturer's obligations under regulation 12 (duty to keep technical documentation and [^c-58cfd571a9d1c0cf2e4e76b74483a577]... declaration of conformity); and
 - (b) perform the manufacturer's obligations under regulation 18 (provision of information and cooperation).
 
 (3) The obligations laid down in regulation 9 (design and manufacture in accordance with the essential safety requirements) and regulation 10(1)(b) (technical documentation and conformity assessment) must not form part of an authorised representative's mandate.
@@ -54,6 +54,6 @@ summary: ''
 
 [^M_E_ad978567-7611-4749-ed27-3da85ba2d28a]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-58cfd571a9d1c0cf2e4e76b74483a577]: Textual amendment: Word in [reg. 19(2)(a)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/19/2/a) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 13](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/13) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58cfd571a9d1c0cf2e4e76b74483a577]: Textual amendment: Word in [reg. 19(2)(a)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/19/2/a) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 13](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/13) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_9814383e-ac70-41ac-f899-68d4471b08b9]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

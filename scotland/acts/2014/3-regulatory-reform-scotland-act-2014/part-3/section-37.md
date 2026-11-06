@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Corporate offending[^key-6a0f0631052fdfdaa3eb55b893b09ef6]
+## 37. Corporate offending[^c-6a0f0631052fdfdaa3eb55b893b09ef6]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a0f0631052fdfdaa3eb55b893b09ef6]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2014/3/section/37) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-6a0f0631052fdfdaa3eb55b893b09ef6]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2014/3/section/37) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Returning officers: general[^key-06d4e95eb25120243cefd648f1d9fbe4]
+## 22. Returning officers: general[^c-06d4e95eb25120243cefd648f1d9fbe4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06d4e95eb25120243cefd648f1d9fbe4]: Commencement: Art. 22 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-06d4e95eb25120243cefd648f1d9fbe4]: Commencement: Art. 22 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

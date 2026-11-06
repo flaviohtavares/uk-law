@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Fish Health (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-d9fb6966d7ee400f1d0c290027876436]
+Fish Health (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-d9fb6966d7ee400f1d0c290027876436]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 8th July 2005
 
-[^key-d9fb6966d7ee400f1d0c290027876436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9fb6966d7ee400f1d0c290027876436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d9fb6966d7ee400f1d0c290027876436]
+## 1. Citation and commencement[^c-d9fb6966d7ee400f1d0c290027876436]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fish Health Regulations (Northern Ireland) 1998[^key-d9fb6966d7ee400f1d0c290027876436]
+## 2. Amendment of the Fish Health Regulations (Northern Ireland) 1998[^c-d9fb6966d7ee400f1d0c290027876436]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d9fb6966d7ee400f1d0c290027876436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9fb6966d7ee400f1d0c290027876436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — AMENDMENTS OF THE FISH HEALTH REGULATIONS (NORTHERN IRELAND) 1998[^key-d9fb6966d7ee400f1d0c290027876436]
+## SCHEDULE — AMENDMENTS OF THE FISH HEALTH REGULATIONS (NORTHERN IRELAND) 1998[^c-d9fb6966d7ee400f1d0c290027876436]
 
 Regulation 2
 
-**1.**[^key-d9fb6966d7ee400f1d0c290027876436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d9fb6966d7ee400f1d0c290027876436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d9fb6966d7ee400f1d0c290027876436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d9fb6966d7ee400f1d0c290027876436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d9fb6966d7ee400f1d0c290027876436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9fb6966d7ee400f1d0c290027876436]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d9fb6966d7ee400f1d0c290027876436]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/330) revoked (27.3.2009) by [The Aquatic Animal Health Regulations (Northern Ireland) 2009 (S.R. 2009/129)](https://www.legislation.gov.uk/nisr/2009/129), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/129/schedule/2)
+[^c-d9fb6966d7ee400f1d0c290027876436]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/330) revoked (27.3.2009) by [The Aquatic Animal Health Regulations (Northern Ireland) 2009 (S.R. 2009/129)](https://www.legislation.gov.uk/nisr/2009/129), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/129/schedule/2)

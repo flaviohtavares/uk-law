@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Economic Development, being a Department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001], in relation to measures to prevent discrimination on the grounds of sex in the fields of pay and treatment in matters of employment, self-employment and vocational training[^f00002], in exercise of the powers conferred on it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-739d186e616c42ae185d695339e405b6]
+## 1. Citation, commencement and interpretation[^c-739d186e616c42ae185d695339e405b6]
 
 (1) These Regulations may be cited as the Sex Discrimination (Gender Reassignment) Regulations (Northern Ireland) 1999 and shall come into operation on 1st August 1999.
 
@@ -48,7 +48,7 @@ The Department of Economic Development, being a Department designated for the pu
 
 (3) In these Regulations “the Order” means the Sex Discrimination (Northern Ireland) Order 1976[^f00004].
 
-## 2. Discrimination on the grounds of gender reassignment[^key-3e7708b9ea2dfa6c3028d2af2c961b82]
+## 2. Discrimination on the grounds of gender reassignment[^c-3e7708b9ea2dfa6c3028d2af2c961b82]
 
 (1) In Article 2(2) of the Order (interpretation) after the definition of “further education” there shall be inserted the following definition—
 
@@ -82,7 +82,7 @@ The Department of Economic Development, being a Department designated for the pu
 
 (3) In Article 7 of the Order (basis of comparison) after the words “or 5(1)” there shall be inserted the words “, or a comparison of the cases of persons required for the purposes of Article 4A,”.
 
-## 3. Discrimination in relation to pay, etc[^key-cb51ad7fb2890d41352ed346036d8abf]
+## 3. Discrimination in relation to pay, etc[^c-cb51ad7fb2890d41352ed346036d8abf]
 
 (1) In Article 8 of the Order (discrimination against applicants and employees), after paragraph (7) there shall be inserted the following paragraph—
 
@@ -96,7 +96,7 @@ The Department of Economic Development, being a Department designated for the pu
 
 .
 
-## 4. Exceptions for genuine occupational qualifications[^key-915de1cdd817393ffe17f24ef25f501d]
+## 4. Exceptions for genuine occupational qualifications[^c-915de1cdd817393ffe17f24ef25f501d]
 
 (1) After Article 10 of the Order (exception where sex is a genuine occupational qualification) there shall be inserted the following Articles—
 
@@ -182,11 +182,11 @@ The Department of Economic Development, being a Department designated for the pu
 
 (6) In Article 2(2) of the Order (interpretation) in the definition of “genuine occupational qualification” at the end there shall be inserted the words “, except in the expression “supplementary genuine occupational qualification”, which shall be construed in accordance with Article 10B(2);”.
 
-## 5. Ministers of religion etc.[^key-bb294dcd8067550225f3bdd7d1b79756]
+## 5. Ministers of religion etc.[^c-bb294dcd8067550225f3bdd7d1b79756]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Discrimination in vocational training — provision of goods, facilities or services[^key-341b706534504d2539de803ff6d17df5]
+## 6. Discrimination in vocational training — provision of goods, facilities or services[^c-341b706534504d2539de803ff6d17df5]
 
 In Article 30 of the Order (discrimination in provision of goods, facilities or services) after paragraph (3) there shall be inserted the following paragraph—
 
@@ -194,7 +194,7 @@ In Article 30 of the Order (discrimination in provision of goods, facilities or 
 
 .
 
-## 7. The Equal Opportunities Commission for Northern Ireland[^key-24ff00e3686168f6774cfdbf283684eb]
+## 7. The Equal Opportunities Commission for Northern Ireland[^c-24ff00e3686168f6774cfdbf283684eb]
 
 (1) In Article 54 of the Order (establishment and duties of the Commission) in paragraph (1) the word “and” after sub-paragraph (b) shall be omitted and after that sub-paragraph there shall be inserted the following sub-paragraph—
 
@@ -246,22 +246,22 @@ Regulation 7 amends Article 54 of the Order (establishment and duties of the Com
 
 [^f00002]: Footnote: S.I. [1997/2563](https://www.legislation.gov.uk/uksi/1997/2563)
 
-[^key-739d186e616c42ae185d695339e405b6]: Commencement: Reg. 1 in operation at 1.8.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/311/regulation/1/1)
+[^c-739d186e616c42ae185d695339e405b6]: Commencement: Reg. 1 in operation at 1.8.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/311/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00004]: Footnote: S.I. [1976/1042 (N.I. 15)](https://www.legislation.gov.uk/nisi/1976/1042)
 
-[^key-3e7708b9ea2dfa6c3028d2af2c961b82]: Commencement: Reg. 2 in operation at 1.8.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/311/regulation/1/1)
+[^c-3e7708b9ea2dfa6c3028d2af2c961b82]: Commencement: Reg. 2 in operation at 1.8.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/311/regulation/1/1)
 
-[^key-cb51ad7fb2890d41352ed346036d8abf]: Commencement: Reg. 3 in operation at 1.8.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/311/regulation/1/1)
+[^c-cb51ad7fb2890d41352ed346036d8abf]: Commencement: Reg. 3 in operation at 1.8.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/311/regulation/1/1)
 
-[^key-915de1cdd817393ffe17f24ef25f501d]: Commencement: Reg. 4 in operation at 1.8.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/311/regulation/1/1)
+[^c-915de1cdd817393ffe17f24ef25f501d]: Commencement: Reg. 4 in operation at 1.8.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/311/regulation/1/1)
 
-[^key-bb294dcd8067550225f3bdd7d1b79756]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/311/regulation/5) revoked (5.10.2005) by [Employment Equality (Sex Discrimination) Regulations (Northern Ireland) 2005 (S.R. 2005/426)](https://www.legislation.gov.uk/nisr/2005/426), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/426/regulation/1/1), [19(2)](https://www.legislation.gov.uk/nisr/2005/426/regulation/19/2)
+[^c-bb294dcd8067550225f3bdd7d1b79756]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/311/regulation/5) revoked (5.10.2005) by [Employment Equality (Sex Discrimination) Regulations (Northern Ireland) 2005 (S.R. 2005/426)](https://www.legislation.gov.uk/nisr/2005/426), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/426/regulation/1/1), [19(2)](https://www.legislation.gov.uk/nisr/2005/426/regulation/19/2)
 
-[^key-341b706534504d2539de803ff6d17df5]: Commencement: Reg. 6 in operation at 1.8.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/311/regulation/1/1)
+[^c-341b706534504d2539de803ff6d17df5]: Commencement: Reg. 6 in operation at 1.8.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/311/regulation/1/1)
 
-[^key-24ff00e3686168f6774cfdbf283684eb]: Commencement: Reg. 7 in operation at 1.8.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/311/regulation/1/1)
+[^c-24ff00e3686168f6774cfdbf283684eb]: Commencement: Reg. 7 in operation at 1.8.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/311/regulation/1/1)
 
 [^f00005]: Footnote: Inserted by S.I. [1988/1303 (N.I. 13)](https://www.legislation.gov.uk/nisi/1988/1303), Article 7

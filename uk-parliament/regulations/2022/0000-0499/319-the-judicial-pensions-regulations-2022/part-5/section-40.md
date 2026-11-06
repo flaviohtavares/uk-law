@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Establishment of partial retirement account[^key-63d6a23dc2dabfde6f729dfc0e82ba15]
+## 40. Establishment of partial retirement account[^c-63d6a23dc2dabfde6f729dfc0e82ba15]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63d6a23dc2dabfde6f729dfc0e82ba15]: Commencement: Reg. 40 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-63d6a23dc2dabfde6f729dfc0e82ba15]: Commencement: Reg. 40 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Engagement with statutory panels[^key-f8f1e5d2193d2d733ef94d1f467e7ca2][^key-c72b01069352d9f28e9cfe69ceb84ab2]
+## 37. Engagement with statutory panels[^c-f8f1e5d2193d2d733ef94d1f467e7ca2][^c-c72b01069352d9f28e9cfe69ceb84ab2]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f8f1e5d2193d2d733ef94d1f467e7ca2]: Commencement: S. 37 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f8f1e5d2193d2d733ef94d1f467e7ca2]: Commencement: S. 37 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c72b01069352d9f28e9cfe69ceb84ab2]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/29/section/37) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/aa)
+[^c-c72b01069352d9f28e9cfe69ceb84ab2]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/29/section/37) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(aa)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/aa)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Description of verification scheme and well examination scheme[^key-14939dbedf12405f492283e876384122]
+## 13. Description of verification scheme and well examination scheme[^c-14939dbedf12405f492283e876384122]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14939dbedf12405f492283e876384122]: Commencement: Reg. 13 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-14939dbedf12405f492283e876384122]: Commencement: Reg. 13 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

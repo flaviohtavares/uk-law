@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Power to amend disqualification legislation in relation to relevant entities: NI[^key-eecd9988c2b0452d05626d9ad318d52a][^key-56314d1fe4d3028a85e0a4d420e31a1b]
+## 155. Power to amend disqualification legislation in relation to relevant entities: NI[^c-eecd9988c2b0452d05626d9ad318d52a][^c-56314d1fe4d3028a85e0a4d420e31a1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eecd9988c2b0452d05626d9ad318d52a]: Commencement: S. 155 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-eecd9988c2b0452d05626d9ad318d52a]: Commencement: S. 155 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-56314d1fe4d3028a85e0a4d420e31a1b]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2023/56/section/155) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z46)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z46)
+[^c-56314d1fe4d3028a85e0a4d420e31a1b]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2023/56/section/155) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z46)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z46)

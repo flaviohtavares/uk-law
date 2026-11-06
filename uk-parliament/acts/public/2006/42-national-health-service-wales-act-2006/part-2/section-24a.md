@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24A. Duty of Special Health Authorities to secure quality in health services[^key-51195317cb5d0d43ba7391cbb6c75a81]
+## 24A. Duty of Special Health Authorities to secure quality in health services[^c-51195317cb5d0d43ba7391cbb6c75a81]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51195317cb5d0d43ba7391cbb6c75a81]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/2006/42/section/24A) inserted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [ss. 2(5)](https://www.legislation.gov.uk/asc/2020/1/section/2/5), [29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/b)
+[^c-51195317cb5d0d43ba7391cbb6c75a81]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/2006/42/section/24A) inserted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [ss. 2(5)](https://www.legislation.gov.uk/asc/2020/1/section/2/5), [29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/b)

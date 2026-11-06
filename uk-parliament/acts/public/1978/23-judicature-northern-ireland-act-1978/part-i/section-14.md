@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Lord Chief Justice, a Lord Justice of Appeal or a judge of the High Court may vacate his office by resignation in writing under his hand addressed to Her Majesty[^key-92ba5fe5968a62b3ddf5d621f9e3f590].
+(1) The Lord Chief Justice, a Lord Justice of Appeal or a judge of the High Court may vacate his office by resignation in writing under his hand addressed to Her Majesty[^c-92ba5fe5968a62b3ddf5d621f9e3f590].
 
 (2) The High Court and the Court of Appeal shall be deemed to be duly constituted during and notwithstanding any vacancy in the office of any judge of either court.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92ba5fe5968a62b3ddf5d621f9e3f590]: Textual amendment: Words in s. 14(1) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/14) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-92ba5fe5968a62b3ddf5d621f9e3f590]: Textual amendment: Words in s. 14(1) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/14) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
 [^c13725061]: Marginal citation: [1973 c. 15](https://www.legislation.gov.uk/ukpga/1973/15).

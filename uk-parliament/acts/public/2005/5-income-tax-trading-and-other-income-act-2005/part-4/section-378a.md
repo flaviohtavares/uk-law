@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 378A. Offshore fund distributions[^key-9ee28955f2d2787e462785b0c076501d][^key-f363f8dc604f21a48572cce43c5902a4]
+## 378A. Offshore fund distributions[^c-9ee28955f2d2787e462785b0c076501d][^c-f363f8dc604f21a48572cce43c5902a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,13 +45,13 @@ summary: ''
 
 - “**dividend**” includes any distribution that (but for this section) would be treated as a dividend for income tax purposes;
 - “**manufactured overseas dividend**” has the same meaning as in Chapter 2 of Part 11 of ITA 2007 (manufactured payments);
-- “**offshore fund**” has the same meaning as in section 354 of TIOPA 2010 (see sections 355 to 363 of that Act)[^key-a867046572d3c44e1596c18ffa4a8e67];
+- “**offshore fund**” has the same meaning as in section 354 of TIOPA 2010 (see sections 355 to 363 of that Act)[^c-a867046572d3c44e1596c18ffa4a8e67];
 - “**qualifying investments**” has the meaning given in section 494 of CTA 2009.
 
 ## Annotations
 
-[^key-9ee28955f2d2787e462785b0c076501d]: Modification: S. 378A applied (1.12.2009) (with effect in accordance with art. 1(2)(3) of, Sch. 1 to the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [96(3)(a)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/96/3/a)
+[^c-9ee28955f2d2787e462785b0c076501d]: Modification: S. 378A applied (1.12.2009) (with effect in accordance with art. 1(2)(3) of, Sch. 1 to the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [96(3)(a)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/96/3/a)
 
-[^key-f363f8dc604f21a48572cce43c5902a4]: Textual amendment: S. 378A inserted (with effect in accordance with s. 39(5) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 39(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/39/3)
+[^c-f363f8dc604f21a48572cce43c5902a4]: Textual amendment: S. 378A inserted (with effect in accordance with s. 39(5) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 39(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/39/3)
 
-[^key-a867046572d3c44e1596c18ffa4a8e67]: Textual amendment: Words in s. 378A(7) substituted (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 168](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/168) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-a867046572d3c44e1596c18ffa4a8e67]: Textual amendment: Words in s. 378A(7) substituted (1.4.2010) (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 168](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/168) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

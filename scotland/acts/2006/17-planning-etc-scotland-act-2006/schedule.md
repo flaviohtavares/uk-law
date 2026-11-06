@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE — Repeals[^key-849d365965f0eb8e378e7ac01bcb5e4e][^key-c472dd5dbaa4467b3142f5b61f5bb00f][^key-b0fe1f9ebe4009a89153aafc8f902961][^key-97345782c9c6581cbb277a13a32ad189]
+## SCHEDULE — Repeals[^c-849d365965f0eb8e378e7ac01bcb5e4e][^c-c472dd5dbaa4467b3142f5b61f5bb00f][^c-b0fe1f9ebe4009a89153aafc8f902961][^c-97345782c9c6581cbb277a13a32ad189]
 
 *Extent: S*
 
@@ -30,10 +30,10 @@ summary: ''
 
 ## Annotations
 
-[^key-849d365965f0eb8e378e7ac01bcb5e4e]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-849d365965f0eb8e378e7ac01bcb5e4e]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
 
-[^key-c472dd5dbaa4467b3142f5b61f5bb00f]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) in force at 3.8.2009 for specified purposes by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-c472dd5dbaa4467b3142f5b61f5bb00f]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) in force at 3.8.2009 for specified purposes by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-b0fe1f9ebe4009a89153aafc8f902961]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) in force at 1.2.2011 for specified purposes by [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
+[^c-b0fe1f9ebe4009a89153aafc8f902961]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) in force at 1.2.2011 for specified purposes by [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
 
-[^key-97345782c9c6581cbb277a13a32ad189]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) in force at 1.12.2011 for specified purposes by [S.S.I. 2011/382](https://www.legislation.gov.uk/ssi/2011/382), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2011/382/article/2/2/b)[(3)](https://www.legislation.gov.uk/ssi/2011/382/article/2/3)
+[^c-97345782c9c6581cbb277a13a32ad189]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) in force at 1.12.2011 for specified purposes by [S.S.I. 2011/382](https://www.legislation.gov.uk/ssi/2011/382), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2011/382/article/2/2/b)[(3)](https://www.legislation.gov.uk/ssi/2011/382/article/2/3)

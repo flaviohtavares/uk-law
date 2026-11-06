@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(ZA)[^key-4eb7107c5f869dd38a3faf82d7c1271c] This regulation applies where a local authority carry out a review of an EHC plan and the child or young person concerned attends a school or other institution.
+(ZA)[^c-4eb7107c5f869dd38a3faf82d7c1271c] This regulation applies where a local authority carry out a review of an EHC plan and the child or young person concerned attends a school or other institution.
 
 (1) As part of a review of a child or young person's EHC plan, the local authority must ensure that a meeting to review that EHC plan is held and in the case of a child or young person attending a school referred to in paragraph (12), can require the head teacher or principal of the school to arrange and hold that meeting.
 
@@ -54,14 +54,14 @@ summary: ''
 
 and must notify the child's parent or the young person and the person referred to in paragraph (2)(b) within four weeks of the review meeting.
 
-(11)[^key-92c427c89d77a7fd1731a22a791a304c] If the local authority proposes to continue or to cease to maintain the child or young person's EHC plan, it must also notify the child's parent or the young person of—
+(11)[^c-92c427c89d77a7fd1731a22a791a304c] If the local authority proposes to continue or to cease to maintain the child or young person's EHC plan, it must also notify the child's parent or the young person of—
 
-- (a)[^key-b31a6c29d6a0a06d3e26d70ea6b4483b] their right to appeal in accordance with section 51(2)(e) or (f) of the Act;
+- (a)[^c-b31a6c29d6a0a06d3e26d70ea6b4483b] their right to appeal in accordance with section 51(2)(e) or (f) of the Act;
 - (b) the time limits for doing so;
 - (c) the information concerning mediation, set out in regulation 32; and
 - (d) the availability of—
   - (i) disagreement resolution services; and
-  - (ii) information and advice about matters relating to the special educational needs of children and young people ; and[^key-58869f04ae4e656fbf38c75bc677410b]
+  - (ii) information and advice about matters relating to the special educational needs of children and young people ; and[^c-58869f04ae4e656fbf38c75bc677410b]
 - (e) the First-tier Tribunal's power to make recommendations under the Special Educational Needs and Disability (First-tier Tribunal Recommendations Power) Regulations 2017.
 
 (12) Schools referred to in this paragraph are—
@@ -76,13 +76,13 @@ and must notify the child's parent or the young person and the person referred t
 
 ## Annotations
 
-[^key-4eb7107c5f869dd38a3faf82d7c1271c]: Textual amendment: Reg. 20(ZA) inserted (1.9.2014) by [The Special Educational Needs (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2096)](https://www.legislation.gov.uk/uksi/2014/2096), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2096/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2096/regulation/3/2)
+[^c-4eb7107c5f869dd38a3faf82d7c1271c]: Textual amendment: Reg. 20(ZA) inserted (1.9.2014) by [The Special Educational Needs (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2096)](https://www.legislation.gov.uk/uksi/2014/2096), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2096/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2096/regulation/3/2)
 
-[^key-92c427c89d77a7fd1731a22a791a304c]: Modification: Reg. 20(11) applied (with modifications) (1.4.2015) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) Regulations 2015 (S.I. 2015/358)](https://www.legislation.gov.uk/uksi/2015/358), [regs. 1](https://www.legislation.gov.uk/uksi/2015/358/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/358/regulation/7)
+[^c-92c427c89d77a7fd1731a22a791a304c]: Modification: Reg. 20(11) applied (with modifications) (1.4.2015) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) Regulations 2015 (S.I. 2015/358)](https://www.legislation.gov.uk/uksi/2015/358), [regs. 1](https://www.legislation.gov.uk/uksi/2015/358/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/358/regulation/7)
 
-[^key-b31a6c29d6a0a06d3e26d70ea6b4483b]: Textual amendment: Reg. 20(11)(a) substituted (23.3.2015) by [The Special Educational Needs and Disability (Amendment) Regulations 2015 (S.I. 2015/359)](https://www.legislation.gov.uk/uksi/2015/359), [regs. 1](https://www.legislation.gov.uk/uksi/2015/359/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/359/regulation/4)
+[^c-b31a6c29d6a0a06d3e26d70ea6b4483b]: Textual amendment: Reg. 20(11)(a) substituted (23.3.2015) by [The Special Educational Needs and Disability (Amendment) Regulations 2015 (S.I. 2015/359)](https://www.legislation.gov.uk/uksi/2015/359), [regs. 1](https://www.legislation.gov.uk/uksi/2015/359/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/359/regulation/4)
 
-[^key-58869f04ae4e656fbf38c75bc677410b]: Textual amendment: Reg. 20(11)(e) and word inserted (3.4.2018) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendations Power) Regulations 2017 (S.I. 2017/1306)](https://www.legislation.gov.uk/uksi/2017/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1306/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/1306/regulation/8/2)
+[^c-58869f04ae4e656fbf38c75bc677410b]: Textual amendment: Reg. 20(11)(e) and word inserted (3.4.2018) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendations Power) Regulations 2017 (S.I. 2017/1306)](https://www.legislation.gov.uk/uksi/2017/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1306/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/1306/regulation/8/2)
 
 [^c22119141]: Marginal citation: Alternative provision Academies has the meaning given in section 1C of the Academies Act 2010 . Section 1C was inserted by section 53(7) of the 2011 Act
 

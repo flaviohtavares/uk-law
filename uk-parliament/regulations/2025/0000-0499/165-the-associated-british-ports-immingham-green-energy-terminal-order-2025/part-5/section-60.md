@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Application of sections 91(3A) and (3B) of the 1990 Act[^key-5f7c9f1d170c6f86bf421230d7b66479]
+## 60. Application of sections 91(3A) and (3B) of the 1990 Act[^c-5f7c9f1d170c6f86bf421230d7b66479]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ For the purposes of this Order, sections 91(3A) and (3B) (general condition limi
 
 ## Annotations
 
-[^key-5f7c9f1d170c6f86bf421230d7b66479]: Commencement: Art. 60 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-5f7c9f1d170c6f86bf421230d7b66479]: Commencement: Art. 60 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

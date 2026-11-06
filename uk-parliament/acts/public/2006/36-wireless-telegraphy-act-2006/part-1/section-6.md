@@ -29,7 +29,7 @@ summary: ''
 
 (3) Subsection (2) does not apply where the Secretary of State considers that the urgency of the case makes it inexpedient to consult before making the order.
 
-(3A)[^key-e2b24905384ea579952ce34d79edfc47] Before making an order under section 5, the Secretary of State must take due account of the desirability of not favouring—
+(3A)[^c-e2b24905384ea579952ce34d79edfc47] Before making an order under section 5, the Secretary of State must take due account of the desirability of not favouring—
 
 - (a) one form of electronic communications network, electronic communications service or associated facility, or
 - (b) one means of providing or making available such a network, service or facility,
@@ -54,4 +54,4 @@ the Secretary of State considers that the urgency of the case is or has become s
 
 ## Annotations
 
-[^key-e2b24905384ea579952ce34d79edfc47]: Textual amendment: S. 6(3A) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/3) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-e2b24905384ea579952ce34d79edfc47]: Textual amendment: S. 6(3A) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/3) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Power to override easements and other rights[^key-54f0ad769a9f275f790bb7a581510700][^key-93d8fc2f2afe4c89425094dee09e3b21]
+## 74. Power to override easements and other rights[^c-54f0ad769a9f275f790bb7a581510700][^c-93d8fc2f2afe4c89425094dee09e3b21]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ In section 205(1) of the Housing and Planning Act [2016 (c. 22)](https://www.leg
 
 ## Annotations
 
-[^key-54f0ad769a9f275f790bb7a581510700]: Commencement: S. 74 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-54f0ad769a9f275f790bb7a581510700]: Commencement: S. 74 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-93d8fc2f2afe4c89425094dee09e3b21]: Commencement: [S. 74](https://www.legislation.gov.uk/asc/2024/3/section/74) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-93d8fc2f2afe4c89425094dee09e3b21]: Commencement: [S. 74](https://www.legislation.gov.uk/asc/2024/3/section/74) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

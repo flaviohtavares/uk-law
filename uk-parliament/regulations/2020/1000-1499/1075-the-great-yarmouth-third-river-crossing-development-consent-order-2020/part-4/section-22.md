@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Authority to survey and investigate land[^key-79e3e05f8757acbd80beeb47caa356af]
+## 22. Authority to survey and investigate land[^c-79e3e05f8757acbd80beeb47caa356af]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ but such consent must not be unreasonably withheld.
 
 ## Annotations
 
-[^key-79e3e05f8757acbd80beeb47caa356af]: Commencement: Art. 22 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-79e3e05f8757acbd80beeb47caa356af]: Commencement: Art. 22 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

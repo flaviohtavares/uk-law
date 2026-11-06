@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Limitation on detention of pregnant women[^key-9738a9950fe8fe5d1a93cc50e5747cd5]
+## 60. Limitation on detention of pregnant women[^c-9738a9950fe8fe5d1a93cc50e5747cd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9738a9950fe8fe5d1a93cc50e5747cd5]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2016/19/section/60) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/m)
+[^c-9738a9950fe8fe5d1a93cc50e5747cd5]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2016/19/section/60) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/m)

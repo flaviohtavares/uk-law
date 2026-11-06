@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Establishment of additional pension account[^key-35985c9cd53449d5410614d1ebe3717b]
+## 55. Establishment of additional pension account[^c-35985c9cd53449d5410614d1ebe3717b]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35985c9cd53449d5410614d1ebe3717b]: Commencement: [Reg. 55](https://www.legislation.gov.uk/ssi/2014/292/regulation/55) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-35985c9cd53449d5410614d1ebe3717b]: Commencement: [Reg. 55](https://www.legislation.gov.uk/ssi/2014/292/regulation/55) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

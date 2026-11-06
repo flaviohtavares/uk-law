@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Local pension boards: guidance and advice[^key-0428a59f31ada4afbd87d73f1d1f0bde]
+## 8. Local pension boards: guidance and advice[^c-0428a59f31ada4afbd87d73f1d1f0bde]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ A scheme manager must have regard to—
 
 ## Annotations
 
-[^key-0428a59f31ada4afbd87d73f1d1f0bde]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-0428a59f31ada4afbd87d73f1d1f0bde]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00046]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35). Section 90A was inserted by the Public Service Pensions Act 2013, Schedule 4, paragraph 14.

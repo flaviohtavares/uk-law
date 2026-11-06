@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. General ophthalmic services and primary ophthalmic services[^key-275dcbc638845114a114df5fc0cba956]
+## 4. General ophthalmic services and primary ophthalmic services[^c-275dcbc638845114a114df5fc0cba956]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In these Regulations—
 
 ## Annotations
 
-[^key-275dcbc638845114a114df5fc0cba956]: Commencement: Reg. 4 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-275dcbc638845114a114df5fc0cba956]: Commencement: Reg. 4 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

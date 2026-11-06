@@ -26,7 +26,7 @@ summary: ''
 
 **Not yet in force.**
 
-**1.**[^key-fdcb4e3afc4f88512f2cf65f321d2c04] In section 8A (legitimation of adopted child)—
+**1.**[^c-fdcb4e3afc4f88512f2cf65f321d2c04] In section 8A (legitimation of adopted child)—
 
 - (a) in subsection (1) after “1987” insert “or section 66 of the Adoption and Children Act (Northern Ireland) 2022;
 - (b) in subsection (2)—
@@ -37,7 +37,7 @@ summary: ''
 
 **Not yet in force.**
 
-**2.**[^key-6765ef3a865d51554fb04d0231446a93] In Article 37 (registration or alteration of child’s name), in paragraph (1)—
+**2.**[^c-6765ef3a865d51554fb04d0231446a93] In Article 37 (registration or alteration of child’s name), in paragraph (1)—
 
 - (a) for “Article 52(1)(a) of the Adoption (Northern Ireland) Order 1987” substitute “paragraph 4 of Schedule 1 to the Adoption and Children Act (Northern Ireland) 2022”;
 - (b) for “Article 50 of that Order” substitute “section 76 of that Act”.
@@ -46,7 +46,7 @@ summary: ''
 
 **Not yet in force.**
 
-**3.**[^key-b30fe1cc20283957d9fd9d18991c3fe0] In Schedule 3 to the Child Abduction and Custody Act 1985 (custody orders), in paragraph 8—
+**3.**[^c-b30fe1cc20283957d9fd9d18991c3fe0] In Schedule 3 to the Child Abduction and Custody Act 1985 (custody orders), in paragraph 8—
 
 - (a) after head (b) insert—
 
@@ -59,7 +59,7 @@ summary: ''
 
 **Not yet in force.**
 
-**4.**[^key-e49765050ea789242c9968af28c4fdd6] (1) Article 3 (offence of abduction of child by parent, etc.) is amended as follows.
+**4.**[^c-e49765050ea789242c9968af28c4fdd6] (1) Article 3 (offence of abduction of child by parent, etc.) is amended as follows.
 
 (2) In paragraph (2), after sub-paragraph (c) insert—
 
@@ -92,7 +92,7 @@ summary: ''
   ;
 - (b) after ““guardian of a child”,” insert ““special guardian”,”.
 
-**5.**[^key-4df41d8edd72aa3d731fe60b28d3fe1b] (1) In the Schedule (modifications of Article 3 for children in certain cases), paragraph 3 is amended as follows.
+**5.**[^c-4df41d8edd72aa3d731fe60b28d3fe1b] (1) In the Schedule (modifications of Article 3 for children in certain cases), paragraph 3 is amended as follows.
 
 (2) For sub-paragraphs (1) and (2) substitute—
 
@@ -124,13 +124,13 @@ summary: ''
 
 **Not yet in force.**
 
-**6.**[^key-65fda5d818a0a998ea09f29a0f1aabca] In Article 34 (minors under guardianship, etc.), in paragraph (3) after ““guardian”” insert “includes a special guardian (within the meaning of the Children (Northern Ireland) Order 1995), but”.
+**6.**[^c-65fda5d818a0a998ea09f29a0f1aabca] In Article 34 (minors under guardianship, etc.), in paragraph (3) after ““guardian”” insert “includes a special guardian (within the meaning of the Children (Northern Ireland) Order 1995), but”.
 
 #### The Family Law Act 1986
 
 **Not yet in force.**
 
-**7.**[^key-cd2aabb96da05667950372b5942b9561] In section 1 (orders to which Part 1 applies), in subsection (1) after paragraph (c) insert—
+**7.**[^c-cd2aabb96da05667950372b5942b9561] In section 1 (orders to which Part 1 applies), in subsection (1) after paragraph (c) insert—
 
 > - (ca) a special guardianship order made by a court in Northern Ireland under the Children (Northern Ireland) Order 1995;
 > - (cb) an order made under section 23 of the Adoption and Children Act (Northern Ireland) 2022 (contact), other than an order varying or revoking such an order;
@@ -138,7 +138,7 @@ summary: ''
 
 .
 
-**8.**[^key-e72b415b207d841012a43991f8d66a04] In section 19 (jurisdiction: general), after subsection (1) insert—
+**8.**[^c-e72b415b207d841012a43991f8d66a04] In section 19 (jurisdiction: general), after subsection (1) insert—
 
 > (1A) A court in Northern Ireland shall not have jurisdiction to make a special guardianship order under the Children (Northern Ireland) Order 1995 unless the condition in section 20 of this Act is satisfied.
 >
@@ -155,13 +155,13 @@ summary: ''
 
 **Not yet in force.**
 
-**9.**[^key-97eec26fde12121cca4873cfdb21bea0] In Article 39 (meaning of “**adoption**” in Part 5), in paragraph (2) after “this Part” insert “but does not include an adoption of a kind mentioned in sub-paragraphs (c) to (d) of paragraph (1) effected on or after the day on which Chapter 4 of Part 1 of the Adoption and Children Act (Northern Ireland) 2022 comes into operation”.
+**9.**[^c-97eec26fde12121cca4873cfdb21bea0] In Article 39 (meaning of “**adoption**” in Part 5), in paragraph (2) after “this Part” insert “but does not include an adoption of a kind mentioned in sub-paragraphs (c) to (d) of paragraph (1) effected on or after the day on which Chapter 4 of Part 1 of the Adoption and Children Act (Northern Ireland) 2022 comes into operation”.
 
 #### The Matrimonial and Family Proceedings (Northern Ireland) Order 1989
 
 **Not yet in force.**
 
-**10.**[^key-2b3ae44c181673d4a977a16eb7d032d8] In Article 33 (declarations as to adoptions effected overseas)—
+**10.**[^c-2b3ae44c181673d4a977a16eb7d032d8] In Article 33 (declarations as to adoptions effected overseas)—
 
 - (a) in paragraph (1)(a), for “Article 2(2) of the Adoption (Northern Ireland) Order 1987” substitute “section 159(1) of the Adoption and Children Act (Northern Ireland) 2022”;
 - (b) in paragraph (2)(a), for “Article 40 of the Adoption (Northern Ireland) Order 1987” substitute “section 66 of the Adoption and Children Act (Northern Ireland) 2022”.
@@ -170,25 +170,25 @@ summary: ''
 
 **Not yet in force.**
 
-**11.**[^key-1201296819e4466dbae5fd506f3cfeb1] In section 17(4) (persons to be given notice of application for service family child assessment order), after paragraph (db) insert—
+**11.**[^c-1201296819e4466dbae5fd506f3cfeb1] In section 17(4) (persons to be given notice of application for service family child assessment order), after paragraph (db) insert—
 
 > - (dc) any person in whose favour an order under section 49 of the Adoption and Children Act (Northern Ireland) 2022 (post-adoption contact) is in force with respect to the child;
 
 .
 
-**12.**[^key-d4f0d4a5cb43155bd9624e6651346dd9] In section 18(7) (persons who may apply to vary or discharge a service family child assessment order), after paragraph (db) insert—
+**12.**[^c-d4f0d4a5cb43155bd9624e6651346dd9] In section 18(7) (persons who may apply to vary or discharge a service family child assessment order), after paragraph (db) insert—
 
 > - (dc) any person in whose favour an order under section 49 of the Adoption and Children Act (Northern Ireland) 2022 (post-adoption contact) is in force with respect to the child;
 
 .
 
-**13.**[^key-cdf24ccbe988d4e22d9bd9e31f10bf3a] In section 20(8) (persons who are to be allowed reasonable contact with a child subject to a protection order), after paragraph (cb) insert—
+**13.**[^c-cdf24ccbe988d4e22d9bd9e31f10bf3a] In section 20(8) (persons who are to be allowed reasonable contact with a child subject to a protection order), after paragraph (cb) insert—
 
 > - (cc) any person in whose favour an order under section 49 of the Adoption and Children Act (Northern Ireland) 2022 (post-adoption contact) is in force with respect to the child;
 
 .
 
-**14.**[^key-f1b3a71a1a8f0b7ceecac8adbd8fef1a] In section 22A(7) (persons who are to be allowed reasonable contact with a child in service police protection), after paragraph (cb) insert—
+**14.**[^c-f1b3a71a1a8f0b7ceecac8adbd8fef1a] In section 22A(7) (persons who are to be allowed reasonable contact with a child in service police protection), after paragraph (cb) insert—
 
 > - (cc) any person in whose favour an order under section 49 of the Adoption and Children Act (Northern Ireland) 2022 (post-adoption contact) is in force with respect to the child;
 
@@ -198,25 +198,25 @@ summary: ''
 
 **Not yet in force.**
 
-**15.**[^key-95b50d5fb44a540a09ff76bfbc4be6c2] In Article 10A (definition of “social care and children functions”), in paragraph (1)(e), for “Adoption (Northern Ireland) Order 1987” substitute “Adoption and Children Act (Northern Ireland) 2022”.
+**15.**[^c-95b50d5fb44a540a09ff76bfbc4be6c2] In Article 10A (definition of “social care and children functions”), in paragraph (1)(e), for “Adoption (Northern Ireland) Order 1987” substitute “Adoption and Children Act (Northern Ireland) 2022”.
 
 #### The Child Support (Northern Ireland) Order 1991
 
 **Not yet in force.**
 
-**16.**[^key-a4bf9805358ea51c4ff0087b9c9655c9] In Article 4 (meaning of certain other terms used in the Order), in paragraph (4) after sub-paragraph (b) insert—
+**16.**[^c-a4bf9805358ea51c4ff0087b9c9655c9] In Article 4 (meaning of certain other terms used in the Order), in paragraph (4) after sub-paragraph (b) insert—
 
 > - (ba) special guardians (within the meaning of Article 14A of the Children (Northern Ireland) Order 1995);
 
 .
 
-**17.**[^key-1798585949b1b8a5f191b8b0723968c7] In Article 27 (disputes about parentage), in paragraph (3) after “1987” insert “or Chapter 4 of Part 1 of the Adoption and Children Act (Northern Ireland) 2022”.
+**17.**[^c-1798585949b1b8a5f191b8b0723968c7] In Article 27 (disputes about parentage), in paragraph (3) after “1987” insert “or Chapter 4 of Part 1 of the Adoption and Children Act (Northern Ireland) 2022”.
 
 #### The Social Security Contributions and Benefits (Northern Ireland) Act 1992
 
 **Not yet in force.**
 
-**18.**[^key-7a640f9b12ca89f24bba75d7e6fc455f] (1) Section 167ZBA (entitlement: prospective adopters with whom looked after children are placed) is amended as follows.
+**18.**[^c-7a640f9b12ca89f24bba75d7e6fc455f] (1) Section 167ZBA (entitlement: prospective adopters with whom looked after children are placed) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -249,9 +249,9 @@ summary: ''
 
 (7) Omit subsection (6).
 
-**19.**[^key-63941cdebf963076c36236dcb504689a] In section 167ZL (statutory adoption pay: entitlement), in subsection (4A) for “the Adoption (Northern Ireland) Order 1987 (see Article 2(6) to (8) of that Order)” substitute “the Adoption and Children Act (Northern Ireland) 2022 (see section 159(3) of that Act)”.
+**19.**[^c-63941cdebf963076c36236dcb504689a] In section 167ZL (statutory adoption pay: entitlement), in subsection (4A) for “the Adoption (Northern Ireland) Order 1987 (see Article 2(6) to (8) of that Order)” substitute “the Adoption and Children Act (Northern Ireland) 2022 (see section 159(3) of that Act)”.
 
-**20.**[^key-4ea587c18ee84bec19ba73eec0bfd596] (1) Section 167ZLA (entitlement: prospective adopters with whom looked after children are placed) is amended as follows.
+**20.**[^c-4ea587c18ee84bec19ba73eec0bfd596] (1) Section 167ZLA (entitlement: prospective adopters with whom looked after children are placed) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -277,7 +277,7 @@ summary: ''
 - (a) for ““approved foster parent”, “approved prospective adopter”,” substitute ““approved as an authority foster parent”, “approved as a prospective adopter” and”;
 - (b) omit “and “child who is looked after by an authority””.
 
-**21.**[^key-99393d62fbbfa412b6e7ecd4d37b039d] (1) Section 167ZY (entitlement: prospective adopters with whom looked after children are placed) is amended as follows.
+**21.**[^c-99393d62fbbfa412b6e7ecd4d37b039d] (1) Section 167ZY (entitlement: prospective adopters with whom looked after children are placed) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -303,7 +303,7 @@ summary: ''
 
 **Not yet in force.**
 
-**22.**[^key-a87662cb36eefbbf5fff252a4d4fe3d5] In Article 2 (interpretation), in paragraph (2)—
+**22.**[^c-a87662cb36eefbbf5fff252a4d4fe3d5] In Article 2 (interpretation), in paragraph (2)—
 
 - (a) omit the definition of “Adoption Order”;
 - (b) insert the following at the appropriate places—
@@ -321,20 +321,20 @@ summary: ''
   ; and
 - (c) omit the definition of “protected child”.
 
-**23.**[^key-3993a48fc65a9130b26237100aa8414f] In Article 7 (acquisition of parental responsibility), in paragraph (1B)—
+**23.**[^c-3993a48fc65a9130b26237100aa8414f] In Article 7 (acquisition of parental responsibility), in paragraph (1B)—
 
 - (a) in sub-paragraph (a) for “Article 17 of the Adoption Order” substitute “section 16 of the Adoption and Children Act (Northern Ireland) 2022”;
 - (b) in sub-paragraph (b) for “Article 57 of the Adoption Order” substitute “section 83 of the Adoption and Children Act (Northern Ireland) 2022”.
 
-**24.**[^key-08a3073f90e972e5a7bac2897a4c5d9c] In Article 8 (residence, contact and other orders with respect to children), in paragraph (4), for sub-paragraph (e) substitute—
+**24.**[^c-08a3073f90e972e5a7bac2897a4c5d9c] In Article 8 (residence, contact and other orders with respect to children), in paragraph (4), for sub-paragraph (e) substitute—
 
 > - (e) the Adoption and Children Act (Northern Ireland) 2022;
 
 .
 
-**25.**[^key-967517dce37eff5f729105b05c94774b] In Article 9 (restrictions on making Article 8 orders), in paragraph (5)(a) after “order” insert “or an order under section 49 of the Adoption and Children Act (Northern Ireland) 2022 (post-adoption contact)”.
+**25.**[^c-967517dce37eff5f729105b05c94774b] In Article 9 (restrictions on making Article 8 orders), in paragraph (5)(a) after “order” insert “or an order under section 49 of the Adoption and Children Act (Northern Ireland) 2022 (post-adoption contact)”.
 
-**26.**[^key-231434f4206d27b20e120852c61dcc61] In Article 10 (power of court to make Article 8 orders)—
+**26.**[^c-231434f4206d27b20e120852c61dcc61] In Article 10 (power of court to make Article 8 orders)—
 
 - (a) in paragraph (4)(a), for “or guardian” substitute “, guardian or special guardian”;
 - (b) after paragraph (5) insert—
@@ -348,22 +348,22 @@ summary: ''
 
   .
 
-**27.**[^key-e47369fb7935551cc1bbe0dde1bc58e6] In Article 12 (residence orders and parental responsibility), in paragraph (3)—
+**27.**[^c-e47369fb7935551cc1bbe0dde1bc58e6] In Article 12 (residence orders and parental responsibility), in paragraph (3)—
 
 - (a) in sub-paragraph (a) for “Article 17 of the Adoption Order” substitute “section 16 of the Adoption and Children Act (Northern Ireland) 2022”;
 - (b) in sub-paragraph (b), for “Article 57 of the Adoption Order” substitute “section 83 of the Adoption and Children Act (Northern Ireland) 2022”.
 
-**28.**[^key-41b95e36be1c3cc55448262610a49d96] In Article 16 (family assistance orders), in paragraph (2)(a) for “or guardian” substitute “, guardian or special guardian”.
+**28.**[^c-41b95e36be1c3cc55448262610a49d96] In Article 16 (family assistance orders), in paragraph (2)(a) for “or guardian” substitute “, guardian or special guardian”.
 
-**29.**[^key-ff163aa519a1ef17f0c3e53b4e6a7427] In Article 22 (powers of person with parental responsibility), in paragraph (3) omit the “or” at the end of sub-paragraph (a) and after that sub-paragraph insert—
+**29.**[^c-ff163aa519a1ef17f0c3e53b4e6a7427] In Article 22 (powers of person with parental responsibility), in paragraph (3) omit the “or” at the end of sub-paragraph (a) and after that sub-paragraph insert—
 
 > - (aa) who is a special guardian of the child; or
 
 .
 
-**30.**[^key-c6eb2e711cbba6acbf8052a12001451a] In Article 28 (regulations under Article 27), in paragraph (1) omit sub-paragraph (d).
+**30.**[^c-c6eb2e711cbba6acbf8052a12001451a] In Article 28 (regulations under Article 27), in paragraph (1) omit sub-paragraph (d).
 
-**31.**[^key-43d234baef0f8ad08a861be8336e5aa5] In Article 33 (arrangements to assist children to live abroad)—
+**31.**[^c-43d234baef0f8ad08a861be8336e5aa5] In Article 33 (arrangements to assist children to live abroad)—
 
 - (a) in paragraph (4) after “guardian,” insert “special guardian,”;
 - (b) in paragraph (6) for the words from the beginning to “adoption)” substitute “Section 84 of the Adoption and Children Act (Northern Ireland) 2022 (restrictions on taking children out)”;
@@ -373,7 +373,7 @@ summary: ''
 
   .
 
-**32.**[^key-6408c36bd074c809e51a2d84013cee7d] In Article 34E (personal advisers)—
+**32.**[^c-6408c36bd074c809e51a2d84013cee7d] In Article 34E (personal advisers)—
 
 - (a) in paragraph (1)—
   - (i) for “21” substitute “25 (or such other age as may be prescribed)”;
@@ -393,7 +393,7 @@ summary: ''
 
   .
 
-**33.**[^key-3aad59d8345f9d3886fe8f3818b1e495] In Article 34F (pathway plans)—
+**33.**[^c-3aad59d8345f9d3886fe8f3818b1e495] In Article 34F (pathway plans)—
 
 - (a) in paragraph (1)—
   - (i) after sub-paragraph (a) (but before the “and” at the end) insert—
@@ -419,7 +419,7 @@ summary: ''
 
   .
 
-**34.**[^key-6f614df494fd45c7503aa1b7ed4e76d8] In Article 35 (persons qualifying for advice and assistance)—
+**34.**[^c-6f614df494fd45c7503aa1b7ed4e76d8] In Article 35 (persons qualifying for advice and assistance)—
 
 - (a) for paragraph (1) substitute—
 
@@ -444,17 +444,17 @@ summary: ''
 
   .
 
-**35.**[^key-42bf6a03fa70122ff995052c1c7dc813] In Article 35A (advice and assistance for qualifying persons)—
+**35.**[^c-42bf6a03fa70122ff995052c1c7dc813] In Article 35A (advice and assistance for qualifying persons)—
 
 - (a) in paragraph (2)(b), after “a person” insert “to whom Article 35(1A) applies, or to whom Article 35(1B) applies and”;
 - (b) in paragraph (3)(a), after “if” insert “he is a person to whom Article 35(1A) applies, or he is a person to whom Article 35(1B) applies and”.
 
-**36.**[^key-1b50e7565961ff5f76f25a8630eb4af1] In Article 35B (assistance with employment, education and training)—
+**36.**[^c-1b50e7565961ff5f76f25a8630eb4af1] In Article 35B (assistance with employment, education and training)—
 
 - (a) in each of paragraphs (1) and (3)(b) after “of” insert “Article 35(1A) or”;
 - (b) in paragraph (3)(a) for “24” substitute “25 (or such other age as may be prescribed)”.
 
-**37.**[^key-3ff6886416efac39e66f650aa8b129c7] In Article 52 (effect of care order)—
+**37.**[^c-3ff6886416efac39e66f650aa8b129c7] In Article 52 (effect of care order)—
 
 - (a) in paragraph (3)(b) for “or guardian” substitute “, guardian or special guardian”;
 - (b) in paragraph (5) for “a parent or guardian of the child who has care of him” substitute “a person mentioned in that provision who has care of the child”;
@@ -463,7 +463,7 @@ summary: ''
   - (ii) in head (ii) for “Article 57 of that Order” substitute “section 83 of the Adoption and Children Act (Northern Ireland) 2022”;
 - (d) in paragraph (9) for “a parent or guardian of the child” substitute “a person mentioned in that provision”.
 
-**38.**[^key-712d948c2d10e5fc232e6f64e6457454] In Article 53 (parental contact etcwith children in care)—
+**38.**[^c-712d948c2d10e5fc232e6f64e6457454] In Article 53 (parental contact etcwith children in care)—
 
 - (a) in paragraph (1)(b) after “guardian” insert “or special guardian”; and
 - (b) after paragraph (1)(b) insert—
@@ -472,17 +472,17 @@ summary: ''
 
   .
 
-**39.**[^key-4487a6eaaf8b4c0be92e1660364d6136] In Article 153 (child care training), in paragraph (3) for “Adoption Order” substitute “Adoption and Children Act (Northern Ireland) 2022”.
+**39.**[^c-4487a6eaaf8b4c0be92e1660364d6136] In Article 153 (child care training), in paragraph (3) for “Adoption Order” substitute “Adoption and Children Act (Northern Ireland) 2022”.
 
-**40.**[^key-8ff6af8e16cd8d36c36e8e1abc6a93a6] In Article 155 (parents not being married to, or civil partners of, each other to have no effect in law on relationships), in paragraph (3) for sub-paragraph (c) substitute—
+**40.**[^c-8ff6af8e16cd8d36c36e8e1abc6a93a6] In Article 155 (parents not being married to, or civil partners of, each other to have no effect in law on relationships), in paragraph (3) for sub-paragraph (c) substitute—
 
 > - (c) is an adopted person within the meaning of Chapter 4 of Part 1 of the Adoption and Children Act (Northern Ireland) 2022; or
 
 .
 
-**41.**[^key-7c11dd58bd5e74127cbcce3566fb9e30] In Article 178 (power of constable to assist in exercise of certain powers to search for children or inspect premises), in paragraph (6) omit sub-paragraph (c).
+**41.**[^c-7c11dd58bd5e74127cbcce3566fb9e30] In Article 178 (power of constable to assist in exercise of certain powers to search for children or inspect premises), in paragraph (6) omit sub-paragraph (c).
 
-**42.**[^key-424cf9baaab7040175bca9d0bf007170] In Article 179 (effect and duration of orders, etc.), after paragraph (5) insert—
+**42.**[^c-424cf9baaab7040175bca9d0bf007170] In Article 179 (effect and duration of orders, etc.), after paragraph (5) insert—
 
 > (5A) The making of a special guardianship order with respect to a child who is the subject of—
 >
@@ -493,7 +493,7 @@ summary: ''
 
 .
 
-**43.**[^key-cbc182618fd93e336e4e40e8750b953f] In Schedule 1 (financial provision for children)—
+**43.**[^c-cbc182618fd93e336e4e40e8750b953f] In Schedule 1 (financial provision for children)—
 
 - (a) in paragraph 2 (orders for financial relief against parents)—
   - (i) in sub-paragraph (1), for “or guardian” substitute “, guardian or special guardian”; and
@@ -501,19 +501,19 @@ summary: ''
 - (b) in paragraph 7 (variation etc. of orders for periodical payments), in sub-paragraph (8), after “guardian” insert “or special guardian”;
 - (c) in paragraph 10 (financial relief under other statutory provisions), in sub-paragraph (1) and in sub-paragraph (2)(b), after “residence order” insert “or a special guardianship order”.
 
-**44.**[^key-f4159f9c2b0ee1676dfbfd3979a049ab] In Schedule 6 (property rights etc.), in paragraph 2 (dispositions of property), in sub-paragraph (5) at the end insert “or section 68 of the Adoption and Children Act (Northern Ireland) 2022 (rules of interpretation for instruments concerning property).”.
+**44.**[^c-f4159f9c2b0ee1676dfbfd3979a049ab] In Schedule 6 (property rights etc.), in paragraph 2 (dispositions of property), in sub-paragraph (5) at the end insert “or section 68 of the Adoption and Children Act (Northern Ireland) 2022 (rules of interpretation for instruments concerning property).”.
 
 #### The Children (Scotland) Act 1995
 
-**45.**[^key-8ae1d5143773e703c52d8f26bcd987c9][^key-e3bbd5fbfa217ce2c717e4c2e107bb56] In section 26 (manner of provision of accommodation to child looked after by local authority), in subsection (2)(b)(ii) for “Article 27(2)(b) to (e)” substitute “Article 27(2)(aa)”.
+**45.**[^c-8ae1d5143773e703c52d8f26bcd987c9][^c-e3bbd5fbfa217ce2c717e4c2e107bb56] In section 26 (manner of provision of accommodation to child looked after by local authority), in subsection (2)(b)(ii) for “Article 27(2)(b) to (e)” substitute “Article 27(2)(aa)”.
 
 #### The Employment Rights (Northern Ireland) Order 1996
 
 **Not yet in force.**
 
-**46.**[^key-6b0006e1dc95183f3a83ff21a4f7136d] In Article 85ZJ (right to paid time off to attend adoption appointments) in paragraph (13) for “for the purposes of the Adoption (Northern Ireland) Order 1987 (see Articles 2(2) and 3(3) of the Order)” substitute “within the meaning of section 2(2) of the Adoption and Children Act (Northern Ireland) 2022”.
+**46.**[^c-6b0006e1dc95183f3a83ff21a4f7136d] In Article 85ZJ (right to paid time off to attend adoption appointments) in paragraph (13) for “for the purposes of the Adoption (Northern Ireland) Order 1987 (see Articles 2(2) and 3(3) of the Order)” substitute “within the meaning of section 2(2) of the Adoption and Children Act (Northern Ireland) 2022”.
 
-**47.**[^key-6a14e82fa79df5a0e8b460080be52d62] (1) Article 85ZS (entitlement: prospective adopters with whom looked after children are placed) is amended as follows.
+**47.**[^c-6a14e82fa79df5a0e8b460080be52d62] (1) Article 85ZS (entitlement: prospective adopters with whom looked after children are placed) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -547,7 +547,7 @@ summary: ''
 
 (7) Omit paragraph (6).
 
-**48.**[^key-e90fa37be3aee00c7013b10d049a3021] (1) Article 107AB (ordinary adoption leave: prospective adopters with whom looked after children are placed) is amended as follows.
+**48.**[^c-e90fa37be3aee00c7013b10d049a3021] (1) Article 107AB (ordinary adoption leave: prospective adopters with whom looked after children are placed) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -571,7 +571,7 @@ summary: ''
 
 (5) Omit paragraph (4).
 
-**49.**[^key-2f86cfae7e816c313819cb7f9a249721] (1) Article 107H (entitlement to shared parental leave: prospective adopters with whom looked after children are placed) is amended as follows.
+**49.**[^c-2f86cfae7e816c313819cb7f9a249721] (1) Article 107H (entitlement to shared parental leave: prospective adopters with whom looked after children are placed) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -590,7 +590,7 @@ summary: ''
 - (a) for ““approved foster parent”, “approved prospective adopter”,” substitute ““approved as an authority foster parent”, “approved as a prospective adopter” and”;
 - (b) omit “and “child who is looked after by an authority””.
 
-**50.**[^key-836827fe354352e23767652e0c01a07d] (1) Article 112BA (entitlement to paternity leave: prospective adopters with whom looked after children are placed) is amended as follows.
+**50.**[^c-836827fe354352e23767652e0c01a07d] (1) Article 112BA (entitlement to paternity leave: prospective adopters with whom looked after children are placed) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -613,13 +613,13 @@ summary: ''
 
 **Not yet in force.**
 
-**51.**[^key-71a6d09d062a8c0a887a7abf6d5b703d] In section 113A (criminal record certificates), in subsection (6D)(aa) after “1987” insert “or an offence under section 27, 28, 29, 30, 31, 32, 33, 82, 84, 89, 97 or 99 of the Adoption and Children Act (Northern Ireland) 2022”.
+**51.**[^c-71a6d09d062a8c0a887a7abf6d5b703d] In section 113A (criminal record certificates), in subsection (6D)(aa) after “1987” insert “or an offence under section 27, 28, 29, 30, 31, 32, 33, 82, 84, 89, 97 or 99 of the Adoption and Children Act (Northern Ireland) 2022”.
 
 #### The Family Homes and Domestic Violence (Northern Ireland) Order 1998
 
 **Not yet in force.**
 
-**52.**[^key-01b4a19738932c0ce6b4114a4fe365ba] In Article 2 (interpretation)—
+**52.**[^c-01b4a19738932c0ce6b4114a4fe365ba] In Article 2 (interpretation)—
 
 - (a) in paragraph (2) for the definition of “adoption order” substitute—
 
@@ -632,7 +632,7 @@ summary: ''
 
   .
 
-**53.**[^key-e54634adb8fab5041b7546f79c22c0fc] In Article 3 (meaning of “**cohabitees**” etc.)—
+**53.**[^c-e54634adb8fab5041b7546f79c22c0fc] In Article 3 (meaning of “**cohabitees**” etc.)—
 
 - (a) in paragraph (2), in sub-paragraph (b) after “Adoption (Northern Ireland) Order 1987” insert “, the Adoption and Children Act (Northern Ireland) 2022”;
 - (b) in paragraph (5), for the words from “has been freed” to “Order 1987” substitute “falls within paragraph (7)”;
@@ -651,21 +651,21 @@ summary: ''
 
 #### The Justice (Northern Ireland) Act 2002
 
-**54.**[^key-2d783bf235d2d9c82df63630936f51f0][^key-c9d172077514d5d5bc9d34a9c927706b] In Schedule 1 (listed judicial offices) omit each of the entries relating to a Chairman of an Appeal Tribunal for the purposes of the Adoption (Northern Ireland) Order 1987.
+**54.**[^c-2d783bf235d2d9c82df63630936f51f0][^c-c9d172077514d5d5bc9d34a9c927706b] In Schedule 1 (listed judicial offices) omit each of the entries relating to a Chairman of an Appeal Tribunal for the purposes of the Adoption (Northern Ireland) Order 1987.
 
-**55.**[^key-69eb06b8602975c3fb20125741a1d873][^key-ed50b23c722d106fdc303bbc9b81f0d7] In Schedule 6 (office-holders required to take judicial oath) omit the entry relating to a Chairman of an Appeal Tribunal for the purposes of the Adoption (Northern Ireland) Order 1987.
+**55.**[^c-69eb06b8602975c3fb20125741a1d873][^c-ed50b23c722d106fdc303bbc9b81f0d7] In Schedule 6 (office-holders required to take judicial oath) omit the entry relating to a Chairman of an Appeal Tribunal for the purposes of the Adoption (Northern Ireland) Order 1987.
 
 #### The Adoption and Children Act 2002
 
 **Not yet in force.**
 
-**56.**[^key-0b63ccd91df234b4090cc56457377b8a] In section 63 (counselling), in subsection (4)(b) for the words from “or an” to the end of the paragraph substitute “or an appropriate voluntary organisation within the meaning of the Adoption and Children Act (Northern Ireland) 2022”.
+**56.**[^c-0b63ccd91df234b4090cc56457377b8a] In section 63 (counselling), in subsection (4)(b) for the words from “or an” to the end of the paragraph substitute “or an appropriate voluntary organisation within the meaning of the Adoption and Children Act (Northern Ireland) 2022”.
 
-**57.**[^key-7133a440ca9d60bdf9fc45d7787b82e4] In section 65 (sections 56 to 65: interpretation), in subsection (2)(b) for the words from “or an” to “(N.I.22)” substitute “or an appropriate voluntary organisation within the meaning of the Adoption and Children Act (Northern Ireland) 2022”.
+**57.**[^c-7133a440ca9d60bdf9fc45d7787b82e4] In section 65 (sections 56 to 65: interpretation), in subsection (2)(b) for the words from “or an” to “(N.I.22)” substitute “or an appropriate voluntary organisation within the meaning of the Adoption and Children Act (Northern Ireland) 2022”.
 
-**58.**[^key-ac5cd7cb8fd1ee1ab113b5dacf56ba39] In section 123 (restriction on advertisements etc.), in subsection (3)(a) for “Article 11 or 58 of the [Adoption (Northern Ireland) Order 1987 (S.I1987/2203 (N.I22)](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “section 84 or 96 of the Adoption and Children Act (Northern Ireland) 2022”.
+**58.**[^c-ac5cd7cb8fd1ee1ab113b5dacf56ba39] In section 123 (restriction on advertisements etc.), in subsection (3)(a) for “Article 11 or 58 of the [Adoption (Northern Ireland) Order 1987 (S.I1987/2203 (N.I22)](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “section 84 or 96 of the Adoption and Children Act (Northern Ireland) 2022”.
 
-**59.**[^key-47db5f8ce3583ecef368708968e12347] In section 144 (general interpretation etc.), in subsection (1)—
+**59.**[^c-47db5f8ce3583ecef368708968e12347] In section 144 (general interpretation etc.), in subsection (1)—
 
 - (a) in the definition of “Northern Irish adoption agency” for “Article 3 of the [Adoption (Northern Ireland) Order 1987 (S.I. 1987/2203 (N.I. 22))](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “section 2 of the Adoption and Children Act (Northern Ireland) 2022”;
 - (b) in the definition of “Northern Irish adoption order” after “Order 1987” insert “or an adoption order within the meaning of section 43(1) of the Adoption and Children Act (Northern Ireland) 2022”.
@@ -674,7 +674,7 @@ summary: ''
 
 **Not yet in force.**
 
-**60.**[^key-c179153fefc4d85b1a23fbe50c617b5d] (1) Article 22 (relevant consents required) is amended as follows.
+**60.**[^c-c179153fefc4d85b1a23fbe50c617b5d] (1) Article 22 (relevant consents required) is amended as follows.
 
 (2) For paragraph (2), substitute—
 
@@ -707,45 +707,45 @@ summary: ''
 
 **Not yet in force.**
 
-**61.**[^key-638f8baed2d3477a76b3a90e9f61ae83] In Article 2 (interpretation), in paragraph (2)—
+**61.**[^c-638f8baed2d3477a76b3a90e9f61ae83] In Article 2 (interpretation), in paragraph (2)—
 
 - (a) in the definition of “voluntary adoption agency” for “the [Adoption (Northern Ireland) Order 1987 (NI 22)](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “the Adoption and Children Act (Northern Ireland) 2022”;
 - (b) in the definition of “voluntary organisation” for “the [Adoption (Northern Ireland) Order 1987 (NI 22)](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “the Adoption and Children Act (Northern Ireland) 2022”.
 
-**62.**[^key-e4f3ef791f1a95009d0f64fef7d2904f] In Article 15 (cancellation of registration), in paragraph (2) for sub-paragraph (e) substitute —
+**62.**[^c-e4f3ef791f1a95009d0f64fef7d2904f] In Article 15 (cancellation of registration), in paragraph (2) for sub-paragraph (e) substitute —
 
 > - (e) an offence under regulations under section 1(3) of the Adoption (Intercountry Aspects) Act (Northern Ireland) 2001;
 > - (f) an offence under the Adoption and Children Act (Northern Ireland) 2022 or regulations made under it.
 
 .
 
-**63.**[^key-c76b00583ca94c51de02e1de50b5fcf6] In Article 36 (provision of information), in paragraph (2)(a) for “the [Adoption (Northern Ireland) Order 1987 (NI 22)](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “the Adoption and Children Act (Northern Ireland) 2022”.
+**63.**[^c-c76b00583ca94c51de02e1de50b5fcf6] In Article 36 (provision of information), in paragraph (2)(a) for “the [Adoption (Northern Ireland) Order 1987 (NI 22)](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “the Adoption and Children Act (Northern Ireland) 2022”.
 
-**64.**[^key-723254415daedc196ad891fb5bf6640e] In Article 38 (statements of minimum standards), in paragraph (4)(d) at the end insert “or proceedings against a voluntary adoption agency for an offence under Article 10(2) of the Adoption (Northern Ireland) Order 1987 or section 9 of the Adoption and Children Act (Northern Ireland) 2022”.
+**64.**[^c-723254415daedc196ad891fb5bf6640e] In Article 38 (statements of minimum standards), in paragraph (4)(d) at the end insert “or proceedings against a voluntary adoption agency for an offence under Article 10(2) of the Adoption (Northern Ireland) Order 1987 or section 9 of the Adoption and Children Act (Northern Ireland) 2022”.
 
-**65.**[^key-095e71af4ddb1e7df9c5e69e6fe93cd3] In Article 40 (information, entry and inspection), in paragraph (3)(b) for “Article 10 of the [Adoption (Northern Ireland) Order 1987 (NI 22)](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “section 9 of the Adoption and Children Act (Northern Ireland) 2022”.
+**65.**[^c-095e71af4ddb1e7df9c5e69e6fe93cd3] In Article 40 (information, entry and inspection), in paragraph (3)(b) for “Article 10 of the [Adoption (Northern Ireland) Order 1987 (NI 22)](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “section 9 of the Adoption and Children Act (Northern Ireland) 2022”.
 
 #### The Access to Justice (Northern Ireland) Order 2003
 
 **Not yet in force.**
 
-**66.**[^key-ae73e6b87432e3682c4f3e5f96073c95] In Article 39 (conditional fee agreements: supplementary), in paragraph (2)(c) for “the Adoption (Northern Ireland) Order 1987” substitute “the Adoption and Children Act (Northern Ireland) 2022”.
+**66.**[^c-ae73e6b87432e3682c4f3e5f96073c95] In Article 39 (conditional fee agreements: supplementary), in paragraph (2)(c) for “the Adoption (Northern Ireland) Order 1987” substitute “the Adoption and Children Act (Northern Ireland) 2022”.
 
-**67.**[^key-b5d672fbb595e1c9a9a882a7179c572e] In Schedule 2 (civil legal services: excluded services), in paragraph 6, at the end insert “or the Adoption and Children Act (Northern Ireland) 2022”.
+**67.**[^c-b5d672fbb595e1c9a9a882a7179c572e] In Schedule 2 (civil legal services: excluded services), in paragraph 6, at the end insert “or the Adoption and Children Act (Northern Ireland) 2022”.
 
 #### The Commissioner for Children and Young People (Northern Ireland) Order 2003
 
 **Not yet in force.**
 
-**68.**[^key-ffb9b56bcf3bba2888f9b274a21642dc] In Article 3 (interpretation: child or young person), in paragraph (2)(a) after “34D,” insert “34DB, 34DC,”.
+**68.**[^c-ffb9b56bcf3bba2888f9b274a21642dc] In Article 3 (interpretation: child or young person), in paragraph (2)(a) after “34D,” insert “34DB, 34DC,”.
 
 #### The Children and Adoption Act 2006
 
 **Not yet in force.**
 
-**69.**[^key-cfcef6e5071b9d26fd4e0863d040882f] Omit sections 9 to 12 (special restrictions on adoptions from abroad etc.).
+**69.**[^c-cfcef6e5071b9d26fd4e0863d040882f] Omit sections 9 to 12 (special restrictions on adoptions from abroad etc.).
 
-**70.**[^key-25e68c72ed17638a00c24c088101b866] In section 17 (short title, commencement and extent)—
+**70.**[^c-25e68c72ed17638a00c24c088101b866] In section 17 (short title, commencement and extent)—
 
 - (a) omit subsection (5);
 - (b) in subsection (8), omit paragraphs (a) and (b).
@@ -754,19 +754,19 @@ summary: ''
 
 **Not yet in force.**
 
-**71.**[^key-823da2bcae834a32a6ff6abc4c85b795] In Article 34 (family relationships), in paragraph (1)(b) after “adoption)” insert “or section 66 of the Adoption and Children Act (Northern Ireland) 2022 (status conferred by adoption)”.
+**71.**[^c-823da2bcae834a32a6ff6abc4c85b795] In Article 34 (family relationships), in paragraph (1)(b) after “adoption)” insert “or section 66 of the Adoption and Children Act (Northern Ireland) 2022 (status conferred by adoption)”.
 
-**72.**[^key-2758bc1bf347ebf52aeac13f8fb308b8] In Article 36 (Articles 32 and 33: sexual relationships which pre-date family relationships), in paragraph (1)(b) after “(NI 22)” insert “or section 66 of the Adoption and Children Act (Northern Ireland) 2022”.
+**72.**[^c-2758bc1bf347ebf52aeac13f8fb308b8] In Article 36 (Articles 32 and 33: sexual relationships which pre-date family relationships), in paragraph (1)(b) after “(NI 22)” insert “or section 66 of the Adoption and Children Act (Northern Ireland) 2022”.
 
-**73.**[^key-924166783e96d7fa9c7ed9d7309743b1] In Article 68 (sex with an adult relative: penetration), in paragraph (3)(b) for “an adopted child within the meaning of Part 5 of the [Adoption (Northern Ireland) Order 1987 (NI 22)](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “adopted person within the meaning of Chapter 4 of Part 1 of the Adoption and Children Act (Northern Ireland) 2022”.
+**73.**[^c-924166783e96d7fa9c7ed9d7309743b1] In Article 68 (sex with an adult relative: penetration), in paragraph (3)(b) for “an adopted child within the meaning of Part 5 of the [Adoption (Northern Ireland) Order 1987 (NI 22)](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “adopted person within the meaning of Chapter 4 of Part 1 of the Adoption and Children Act (Northern Ireland) 2022”.
 
-**74.**[^key-d5c69b17c774d871a85f469069d8e1cf] In Article 69 (sex with an adult relative: consenting to penetration), in paragraph (3)(b) for “an adopted child within the meaning of Part 5 of the [Adoption (Northern Ireland) Order 1987 (NI 22)](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “adopted person within the meaning of Chapter 4 of Part 1 of the Adoption and Children Act (Northern Ireland) 2022”.
+**74.**[^c-d5c69b17c774d871a85f469069d8e1cf] In Article 69 (sex with an adult relative: consenting to penetration), in paragraph (3)(b) for “an adopted child within the meaning of Part 5 of the [Adoption (Northern Ireland) Order 1987 (NI 22)](https://www.legislation.gov.uk/nisi/1987/2203)” substitute “adopted person within the meaning of Chapter 4 of Part 1 of the Adoption and Children Act (Northern Ireland) 2022”.
 
 #### The Human Fertilisation and Embryology Act 2008
 
 **Not yet in force.**
 
-**75.**[^key-472e21b7e96c661d4e0162beab47a0dd] In section 55 (parental orders: supplementary provision), in subsection (3)—
+**75.**[^c-472e21b7e96c661d4e0162beab47a0dd] In section 55 (parental orders: supplementary provision), in subsection (3)—
 
 - (a) at the end of paragraph (c) omit the word “and”;
 - (b) at the end of paragraph (d) insert
@@ -781,13 +781,13 @@ summary: ''
 
 **Not yet in force.**
 
-**76.**[^key-e48c13c0557568a8ed8f71731ac942e8] In section 9 (interpretation), in subsection (2)(a) after “34D,” insert “34DB, 34DC,”.
+**76.**[^c-e48c13c0557568a8ed8f71731ac942e8] In section 9 (interpretation), in subsection (2)(a) after “34D,” insert “34DB, 34DC,”.
 
 #### The Mental Capacity Act (Northern Ireland) 2016
 
 **Not yet in force.**
 
-**77.**[^key-b5efbe2156a809dda6e8ce0ed742944b] In section 285 (family relationships etc.)—
+**77.**[^c-b5efbe2156a809dda6e8ce0ed742944b] In section 285 (family relationships etc.)—
 
 - (a) in subsection (1), in paragraph (e) for “the Adoption (Northern Ireland) Order 1987” substitute “the Adoption and Children Act (Northern Ireland) 2022”;
 - (b) in subsection (2), for paragraphs (a) and (b) substitute—
@@ -802,7 +802,7 @@ summary: ''
 
 **Not yet in force.**
 
-**78.**[^key-e3b1336b36013f839c4ccf2cad11315a] (1) Paragraph 8(1) of Schedule 3 (exemptions etc from GDPR: social work) is amended as follows.
+**78.**[^c-e3b1336b36013f839c4ccf2cad11315a] (1) Paragraph 8(1) of Schedule 3 (exemptions etc from GDPR: social work) is amended as follows.
 
 (2) In head (q), in sub-head (ii)—
 
@@ -815,7 +815,7 @@ summary: ''
 
 .
 
-**79.**[^key-896358624f99c1cd2ff852526b8bb0ae] (1) Schedule 4 (exemptions etc. from the GDPR: disclosure prohibited or restricted by an enactment) is amended as follows.
+**79.**[^c-896358624f99c1cd2ff852526b8bb0ae] (1) Schedule 4 (exemptions etc. from the GDPR: disclosure prohibited or restricted by an enactment) is amended as follows.
 
 (2) In paragraph 3(4), for head (a) substitute—
 
@@ -832,7 +832,7 @@ summary: ''
 
 **Not yet in force.**
 
-**80.**[^key-243d557941612c15eef92c26203b9a21] (1) Schedule 1 (transfer of the Regional Board’s functions) is amended as follows.
+**80.**[^c-243d557941612c15eef92c26203b9a21] (1) Schedule 1 (transfer of the Regional Board’s functions) is amended as follows.
 
 (2) Omit paragraphs 102 to 120.
 
@@ -846,11 +846,11 @@ summary: ''
 
 #### The Human Fertilisation and Embryology (Parental Orders) Regulations 2018
 
-**81.**[^key-0181a7ae14207cc17d7b9d9a444e683f] In regulation 1 (citation, commencement, extent and interpretation), in paragraph (4) for the definition of “the 1987 Order” substitute—
+**81.**[^c-0181a7ae14207cc17d7b9d9a444e683f] In regulation 1 (citation, commencement, extent and interpretation), in paragraph (4) for the definition of “the 1987 Order” substitute—
 
 > - “**the 2022 Act**” means the Adoption and Children Act (Northern Ireland) 2022
 
-**82.**[^key-d168d4c8590fa4c3aec556b53f25c911] (1) In regulation 4 (application of certain provisions of the 1987 Order subject to modifications), for “the 1987 Order” substitute “the 2022 Act”.
+**82.**[^c-d168d4c8590fa4c3aec556b53f25c911] (1) In regulation 4 (application of certain provisions of the 1987 Order subject to modifications), for “the 1987 Order” substitute “the 2022 Act”.
 
 (2) In the heading of that regulation, for “the 1987 Order” substitute “the 2022 Act”.
 
@@ -1281,7 +1281,7 @@ summary: ''
 
 .
 
-**84.**[^key-369d623d1aaaa8f16bc48d167d1cd47a] (1) In Schedule 4 (references to adoption etc in enactments to be read as references to effect of parental order etc), paragraph 5 is amended as follows.
+**84.**[^c-369d623d1aaaa8f16bc48d167d1cd47a] (1) In Schedule 4 (references to adoption etc in enactments to be read as references to effect of parental order etc), paragraph 5 is amended as follows.
 
 (2) In head (a) for the words “the Adoption (Northern Ireland) Order 1987” in each place they appear substitute “the Adoption and Children Act (Northern Ireland) 2022”.
 
@@ -1292,174 +1292,174 @@ summary: ''
 
 ## Annotations
 
-[^key-fdcb4e3afc4f88512f2cf65f321d2c04]: Commencement: Sch. 3 para. 1 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-fdcb4e3afc4f88512f2cf65f321d2c04]: Commencement: Sch. 3 para. 1 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-6765ef3a865d51554fb04d0231446a93]: Commencement: Sch. 3 para. 2 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6765ef3a865d51554fb04d0231446a93]: Commencement: Sch. 3 para. 2 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-b30fe1cc20283957d9fd9d18991c3fe0]: Commencement: Sch. 3 para. 3 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-b30fe1cc20283957d9fd9d18991c3fe0]: Commencement: Sch. 3 para. 3 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-e49765050ea789242c9968af28c4fdd6]: Commencement: Sch. 3 para. 4 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e49765050ea789242c9968af28c4fdd6]: Commencement: Sch. 3 para. 4 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-4df41d8edd72aa3d731fe60b28d3fe1b]: Commencement: Sch. 3 para. 5 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-4df41d8edd72aa3d731fe60b28d3fe1b]: Commencement: Sch. 3 para. 5 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-65fda5d818a0a998ea09f29a0f1aabca]: Commencement: Sch. 3 para. 6 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-65fda5d818a0a998ea09f29a0f1aabca]: Commencement: Sch. 3 para. 6 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-cd2aabb96da05667950372b5942b9561]: Commencement: Sch. 3 para. 7 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-cd2aabb96da05667950372b5942b9561]: Commencement: Sch. 3 para. 7 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-e72b415b207d841012a43991f8d66a04]: Commencement: Sch. 3 para. 8 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e72b415b207d841012a43991f8d66a04]: Commencement: Sch. 3 para. 8 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-97eec26fde12121cca4873cfdb21bea0]: Commencement: Sch. 3 para. 9 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-97eec26fde12121cca4873cfdb21bea0]: Commencement: Sch. 3 para. 9 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-2b3ae44c181673d4a977a16eb7d032d8]: Commencement: Sch. 3 para. 10 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-2b3ae44c181673d4a977a16eb7d032d8]: Commencement: Sch. 3 para. 10 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-1201296819e4466dbae5fd506f3cfeb1]: Commencement: Sch. 3 para. 11 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-1201296819e4466dbae5fd506f3cfeb1]: Commencement: Sch. 3 para. 11 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-d4f0d4a5cb43155bd9624e6651346dd9]: Commencement: Sch. 3 para. 12 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d4f0d4a5cb43155bd9624e6651346dd9]: Commencement: Sch. 3 para. 12 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-cdf24ccbe988d4e22d9bd9e31f10bf3a]: Commencement: Sch. 3 para. 13 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-cdf24ccbe988d4e22d9bd9e31f10bf3a]: Commencement: Sch. 3 para. 13 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-f1b3a71a1a8f0b7ceecac8adbd8fef1a]: Commencement: Sch. 3 para. 14 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-f1b3a71a1a8f0b7ceecac8adbd8fef1a]: Commencement: Sch. 3 para. 14 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-95b50d5fb44a540a09ff76bfbc4be6c2]: Commencement: Sch. 3 para. 15 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-95b50d5fb44a540a09ff76bfbc4be6c2]: Commencement: Sch. 3 para. 15 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-a4bf9805358ea51c4ff0087b9c9655c9]: Commencement: Sch. 3 para. 16 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-a4bf9805358ea51c4ff0087b9c9655c9]: Commencement: Sch. 3 para. 16 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-1798585949b1b8a5f191b8b0723968c7]: Commencement: Sch. 3 para. 17 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-1798585949b1b8a5f191b8b0723968c7]: Commencement: Sch. 3 para. 17 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-7a640f9b12ca89f24bba75d7e6fc455f]: Commencement: Sch. 3 para. 18 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-7a640f9b12ca89f24bba75d7e6fc455f]: Commencement: Sch. 3 para. 18 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-63941cdebf963076c36236dcb504689a]: Commencement: Sch. 3 para. 19 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-63941cdebf963076c36236dcb504689a]: Commencement: Sch. 3 para. 19 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-4ea587c18ee84bec19ba73eec0bfd596]: Commencement: Sch. 3 para. 20 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-4ea587c18ee84bec19ba73eec0bfd596]: Commencement: Sch. 3 para. 20 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-99393d62fbbfa412b6e7ecd4d37b039d]: Commencement: Sch. 3 para. 21 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-99393d62fbbfa412b6e7ecd4d37b039d]: Commencement: Sch. 3 para. 21 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-a87662cb36eefbbf5fff252a4d4fe3d5]: Commencement: Sch. 3 para. 22 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-a87662cb36eefbbf5fff252a4d4fe3d5]: Commencement: Sch. 3 para. 22 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-3993a48fc65a9130b26237100aa8414f]: Commencement: Sch. 3 para. 23 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-3993a48fc65a9130b26237100aa8414f]: Commencement: Sch. 3 para. 23 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-08a3073f90e972e5a7bac2897a4c5d9c]: Commencement: Sch. 3 para. 24 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-08a3073f90e972e5a7bac2897a4c5d9c]: Commencement: Sch. 3 para. 24 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-967517dce37eff5f729105b05c94774b]: Commencement: Sch. 3 para. 25 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-967517dce37eff5f729105b05c94774b]: Commencement: Sch. 3 para. 25 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-231434f4206d27b20e120852c61dcc61]: Commencement: Sch. 3 para. 26 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-231434f4206d27b20e120852c61dcc61]: Commencement: Sch. 3 para. 26 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-e47369fb7935551cc1bbe0dde1bc58e6]: Commencement: Sch. 3 para. 27 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e47369fb7935551cc1bbe0dde1bc58e6]: Commencement: Sch. 3 para. 27 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-41b95e36be1c3cc55448262610a49d96]: Commencement: Sch. 3 para. 28 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-41b95e36be1c3cc55448262610a49d96]: Commencement: Sch. 3 para. 28 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-ff163aa519a1ef17f0c3e53b4e6a7427]: Commencement: Sch. 3 para. 29 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-ff163aa519a1ef17f0c3e53b4e6a7427]: Commencement: Sch. 3 para. 29 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-c6eb2e711cbba6acbf8052a12001451a]: Commencement: Sch. 3 para. 30 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-c6eb2e711cbba6acbf8052a12001451a]: Commencement: Sch. 3 para. 30 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-43d234baef0f8ad08a861be8336e5aa5]: Commencement: Sch. 3 para. 31 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-43d234baef0f8ad08a861be8336e5aa5]: Commencement: Sch. 3 para. 31 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-6408c36bd074c809e51a2d84013cee7d]: Commencement: Sch. 3 para. 32 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6408c36bd074c809e51a2d84013cee7d]: Commencement: Sch. 3 para. 32 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-3aad59d8345f9d3886fe8f3818b1e495]: Commencement: Sch. 3 para. 33 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-3aad59d8345f9d3886fe8f3818b1e495]: Commencement: Sch. 3 para. 33 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-6f614df494fd45c7503aa1b7ed4e76d8]: Commencement: Sch. 3 para. 34 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6f614df494fd45c7503aa1b7ed4e76d8]: Commencement: Sch. 3 para. 34 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-42bf6a03fa70122ff995052c1c7dc813]: Commencement: Sch. 3 para. 35 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-42bf6a03fa70122ff995052c1c7dc813]: Commencement: Sch. 3 para. 35 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-1b50e7565961ff5f76f25a8630eb4af1]: Commencement: Sch. 3 para. 36 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-1b50e7565961ff5f76f25a8630eb4af1]: Commencement: Sch. 3 para. 36 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-3ff6886416efac39e66f650aa8b129c7]: Commencement: Sch. 3 para. 37 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-3ff6886416efac39e66f650aa8b129c7]: Commencement: Sch. 3 para. 37 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-712d948c2d10e5fc232e6f64e6457454]: Commencement: Sch. 3 para. 38 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-712d948c2d10e5fc232e6f64e6457454]: Commencement: Sch. 3 para. 38 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-4487a6eaaf8b4c0be92e1660364d6136]: Commencement: Sch. 3 para. 39 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-4487a6eaaf8b4c0be92e1660364d6136]: Commencement: Sch. 3 para. 39 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-8ff6af8e16cd8d36c36e8e1abc6a93a6]: Commencement: Sch. 3 para. 40 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-8ff6af8e16cd8d36c36e8e1abc6a93a6]: Commencement: Sch. 3 para. 40 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-7c11dd58bd5e74127cbcce3566fb9e30]: Commencement: Sch. 3 para. 41 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-7c11dd58bd5e74127cbcce3566fb9e30]: Commencement: Sch. 3 para. 41 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-424cf9baaab7040175bca9d0bf007170]: Commencement: Sch. 3 para. 42 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-424cf9baaab7040175bca9d0bf007170]: Commencement: Sch. 3 para. 42 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-cbc182618fd93e336e4e40e8750b953f]: Commencement: Sch. 3 para. 43 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-cbc182618fd93e336e4e40e8750b953f]: Commencement: Sch. 3 para. 43 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-f4159f9c2b0ee1676dfbfd3979a049ab]: Commencement: Sch. 3 para. 44 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-f4159f9c2b0ee1676dfbfd3979a049ab]: Commencement: Sch. 3 para. 44 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-8ae1d5143773e703c52d8f26bcd987c9]: Commencement: Sch. 3 para. 45 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-8ae1d5143773e703c52d8f26bcd987c9]: Commencement: Sch. 3 para. 45 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-e3bbd5fbfa217ce2c717e4c2e107bb56]: Commencement: [Sch. 3 para. 45](https://www.legislation.gov.uk/nia/2022/18/schedule/3/paragraph/45) in operation at 1.11.2024 by [S.R. 2024/186](https://www.legislation.gov.uk/nisr/2024/186), [art. 2(b)(i)](https://www.legislation.gov.uk/nisr/2024/186/article/2/b/i)
+[^c-e3bbd5fbfa217ce2c717e4c2e107bb56]: Commencement: [Sch. 3 para. 45](https://www.legislation.gov.uk/nia/2022/18/schedule/3/paragraph/45) in operation at 1.11.2024 by [S.R. 2024/186](https://www.legislation.gov.uk/nisr/2024/186), [art. 2(b)(i)](https://www.legislation.gov.uk/nisr/2024/186/article/2/b/i)
 
-[^key-6b0006e1dc95183f3a83ff21a4f7136d]: Commencement: Sch. 3 para. 46 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6b0006e1dc95183f3a83ff21a4f7136d]: Commencement: Sch. 3 para. 46 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-6a14e82fa79df5a0e8b460080be52d62]: Commencement: Sch. 3 para. 47 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6a14e82fa79df5a0e8b460080be52d62]: Commencement: Sch. 3 para. 47 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-e90fa37be3aee00c7013b10d049a3021]: Commencement: Sch. 3 para. 48 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e90fa37be3aee00c7013b10d049a3021]: Commencement: Sch. 3 para. 48 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-2f86cfae7e816c313819cb7f9a249721]: Commencement: Sch. 3 para. 49 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-2f86cfae7e816c313819cb7f9a249721]: Commencement: Sch. 3 para. 49 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-836827fe354352e23767652e0c01a07d]: Commencement: Sch. 3 para. 50 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-836827fe354352e23767652e0c01a07d]: Commencement: Sch. 3 para. 50 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-71a6d09d062a8c0a887a7abf6d5b703d]: Commencement: Sch. 3 para. 51 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-71a6d09d062a8c0a887a7abf6d5b703d]: Commencement: Sch. 3 para. 51 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-01b4a19738932c0ce6b4114a4fe365ba]: Commencement: Sch. 3 para. 52 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-01b4a19738932c0ce6b4114a4fe365ba]: Commencement: Sch. 3 para. 52 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-e54634adb8fab5041b7546f79c22c0fc]: Commencement: Sch. 3 para. 53 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e54634adb8fab5041b7546f79c22c0fc]: Commencement: Sch. 3 para. 53 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-2d783bf235d2d9c82df63630936f51f0]: Commencement: Sch. 3 para. 54 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-2d783bf235d2d9c82df63630936f51f0]: Commencement: Sch. 3 para. 54 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-c9d172077514d5d5bc9d34a9c927706b]: Commencement: [Sch. 3 para. 54](https://www.legislation.gov.uk/nia/2022/18/schedule/3/paragraph/54) in operation at 1.11.2024 by [S.R. 2024/186](https://www.legislation.gov.uk/nisr/2024/186), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2024/186/article/2/b/ii)
+[^c-c9d172077514d5d5bc9d34a9c927706b]: Commencement: [Sch. 3 para. 54](https://www.legislation.gov.uk/nia/2022/18/schedule/3/paragraph/54) in operation at 1.11.2024 by [S.R. 2024/186](https://www.legislation.gov.uk/nisr/2024/186), [art. 2(b)(ii)](https://www.legislation.gov.uk/nisr/2024/186/article/2/b/ii)
 
-[^key-69eb06b8602975c3fb20125741a1d873]: Commencement: Sch. 3 para. 55 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-69eb06b8602975c3fb20125741a1d873]: Commencement: Sch. 3 para. 55 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-ed50b23c722d106fdc303bbc9b81f0d7]: Commencement: [Sch. 3 para. 55](https://www.legislation.gov.uk/nia/2022/18/schedule/3/paragraph/55) in operation at 1.11.2024 by [S.R. 2024/186](https://www.legislation.gov.uk/nisr/2024/186), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2024/186/article/2/b/iii)
+[^c-ed50b23c722d106fdc303bbc9b81f0d7]: Commencement: [Sch. 3 para. 55](https://www.legislation.gov.uk/nia/2022/18/schedule/3/paragraph/55) in operation at 1.11.2024 by [S.R. 2024/186](https://www.legislation.gov.uk/nisr/2024/186), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2024/186/article/2/b/iii)
 
-[^key-0b63ccd91df234b4090cc56457377b8a]: Commencement: Sch. 3 para. 56 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-0b63ccd91df234b4090cc56457377b8a]: Commencement: Sch. 3 para. 56 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-7133a440ca9d60bdf9fc45d7787b82e4]: Commencement: Sch. 3 para. 57 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-7133a440ca9d60bdf9fc45d7787b82e4]: Commencement: Sch. 3 para. 57 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-ac5cd7cb8fd1ee1ab113b5dacf56ba39]: Commencement: Sch. 3 para. 58 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-ac5cd7cb8fd1ee1ab113b5dacf56ba39]: Commencement: Sch. 3 para. 58 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-47db5f8ce3583ecef368708968e12347]: Commencement: Sch. 3 para. 59 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-47db5f8ce3583ecef368708968e12347]: Commencement: Sch. 3 para. 59 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-c179153fefc4d85b1a23fbe50c617b5d]: Commencement: Sch. 3 para. 60 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-c179153fefc4d85b1a23fbe50c617b5d]: Commencement: Sch. 3 para. 60 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-638f8baed2d3477a76b3a90e9f61ae83]: Commencement: Sch. 3 para. 61 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-638f8baed2d3477a76b3a90e9f61ae83]: Commencement: Sch. 3 para. 61 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-e4f3ef791f1a95009d0f64fef7d2904f]: Commencement: Sch. 3 para. 62 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e4f3ef791f1a95009d0f64fef7d2904f]: Commencement: Sch. 3 para. 62 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-c76b00583ca94c51de02e1de50b5fcf6]: Commencement: Sch. 3 para. 63 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-c76b00583ca94c51de02e1de50b5fcf6]: Commencement: Sch. 3 para. 63 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-723254415daedc196ad891fb5bf6640e]: Commencement: Sch. 3 para. 64 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-723254415daedc196ad891fb5bf6640e]: Commencement: Sch. 3 para. 64 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-095e71af4ddb1e7df9c5e69e6fe93cd3]: Commencement: Sch. 3 para. 65 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-095e71af4ddb1e7df9c5e69e6fe93cd3]: Commencement: Sch. 3 para. 65 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-ae73e6b87432e3682c4f3e5f96073c95]: Commencement: Sch. 3 para. 66 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-ae73e6b87432e3682c4f3e5f96073c95]: Commencement: Sch. 3 para. 66 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-b5d672fbb595e1c9a9a882a7179c572e]: Commencement: Sch. 3 para. 67 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-b5d672fbb595e1c9a9a882a7179c572e]: Commencement: Sch. 3 para. 67 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-ffb9b56bcf3bba2888f9b274a21642dc]: Commencement: Sch. 3 para. 68 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-ffb9b56bcf3bba2888f9b274a21642dc]: Commencement: Sch. 3 para. 68 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-cfcef6e5071b9d26fd4e0863d040882f]: Commencement: Sch. 3 para. 69 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-cfcef6e5071b9d26fd4e0863d040882f]: Commencement: Sch. 3 para. 69 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-25e68c72ed17638a00c24c088101b866]: Commencement: Sch. 3 para. 70 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-25e68c72ed17638a00c24c088101b866]: Commencement: Sch. 3 para. 70 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-823da2bcae834a32a6ff6abc4c85b795]: Commencement: Sch. 3 para. 71 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-823da2bcae834a32a6ff6abc4c85b795]: Commencement: Sch. 3 para. 71 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-2758bc1bf347ebf52aeac13f8fb308b8]: Commencement: Sch. 3 para. 72 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-2758bc1bf347ebf52aeac13f8fb308b8]: Commencement: Sch. 3 para. 72 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-924166783e96d7fa9c7ed9d7309743b1]: Commencement: Sch. 3 para. 73 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-924166783e96d7fa9c7ed9d7309743b1]: Commencement: Sch. 3 para. 73 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-d5c69b17c774d871a85f469069d8e1cf]: Commencement: Sch. 3 para. 74 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d5c69b17c774d871a85f469069d8e1cf]: Commencement: Sch. 3 para. 74 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-472e21b7e96c661d4e0162beab47a0dd]: Commencement: Sch. 3 para. 75 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-472e21b7e96c661d4e0162beab47a0dd]: Commencement: Sch. 3 para. 75 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-e48c13c0557568a8ed8f71731ac942e8]: Commencement: Sch. 3 para. 76 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e48c13c0557568a8ed8f71731ac942e8]: Commencement: Sch. 3 para. 76 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-b5efbe2156a809dda6e8ce0ed742944b]: Commencement: Sch. 3 para. 77 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-b5efbe2156a809dda6e8ce0ed742944b]: Commencement: Sch. 3 para. 77 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-e3b1336b36013f839c4ccf2cad11315a]: Commencement: Sch. 3 para. 78 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e3b1336b36013f839c4ccf2cad11315a]: Commencement: Sch. 3 para. 78 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-896358624f99c1cd2ff852526b8bb0ae]: Commencement: Sch. 3 para. 79 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-896358624f99c1cd2ff852526b8bb0ae]: Commencement: Sch. 3 para. 79 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-243d557941612c15eef92c26203b9a21]: Commencement: Sch. 3 para. 80 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-243d557941612c15eef92c26203b9a21]: Commencement: Sch. 3 para. 80 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-0181a7ae14207cc17d7b9d9a444e683f]: Commencement: Sch. 3 para. 81 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-0181a7ae14207cc17d7b9d9a444e683f]: Commencement: Sch. 3 para. 81 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-d168d4c8590fa4c3aec556b53f25c911]: Commencement: Sch. 3 para. 82 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d168d4c8590fa4c3aec556b53f25c911]: Commencement: Sch. 3 para. 82 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-369d623d1aaaa8f16bc48d167d1cd47a]: Commencement: Sch. 3 para. 84 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-369d623d1aaaa8f16bc48d167d1cd47a]: Commencement: Sch. 3 para. 84 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

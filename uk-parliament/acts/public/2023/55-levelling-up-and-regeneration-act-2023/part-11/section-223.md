@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Requirements may include transactional information[^key-38eb0667f94625a3452c8fb8b7a065ad]
+## 223. Requirements may include transactional information[^c-38eb0667f94625a3452c8fb8b7a065ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38eb0667f94625a3452c8fb8b7a065ad]: Commencement: S. 223 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)
+[^c-38eb0667f94625a3452c8fb8b7a065ad]: Commencement: S. 223 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)

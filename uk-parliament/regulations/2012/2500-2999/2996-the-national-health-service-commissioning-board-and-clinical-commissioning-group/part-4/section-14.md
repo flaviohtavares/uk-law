@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Circumstances in which duty may be imposed on another CCG[^key-e508a137ea28d60332680f91acce9c28]
+## 14. Circumstances in which duty may be imposed on another CCG[^c-e508a137ea28d60332680f91acce9c28]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e508a137ea28d60332680f91acce9c28]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2012/2996/part/4) omitted (1.7.2022) by virtue of [The National Health Service (Integrated Care Boards: Responsibilities) Regulations 2022 (S.I. 2022/635)](https://www.legislation.gov.uk/uksi/2022/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/635/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2022/635/regulation/9/4/b)
+[^c-e508a137ea28d60332680f91acce9c28]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2012/2996/part/4) omitted (1.7.2022) by virtue of [The National Health Service (Integrated Care Boards: Responsibilities) Regulations 2022 (S.I. 2022/635)](https://www.legislation.gov.uk/uksi/2022/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/635/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2022/635/regulation/9/4/b)

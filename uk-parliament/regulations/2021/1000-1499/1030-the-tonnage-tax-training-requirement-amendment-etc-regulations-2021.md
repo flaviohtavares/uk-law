@@ -32,7 +32,7 @@ summary: ''
 
 Tonnage Tax
 
-The Tonnage Tax (Training Requirement) (Amendment etc.) Regulations 2021 (revoked)[^key-b0177937337ecfe361e6323c218eed8b]
+The Tonnage Tax (Training Requirement) (Amendment etc.) Regulations 2021 (revoked)[^c-b0177937337ecfe361e6323c218eed8b]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st October 2021
 
-[^key-b0177937337ecfe361e6323c218eed8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0177937337ecfe361e6323c218eed8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b0177937337ecfe361e6323c218eed8b]
+## 1. Citation and commencement[^c-b0177937337ecfe361e6323c218eed8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extent and application[^key-b0177937337ecfe361e6323c218eed8b]
+## 2. Extent and application[^c-b0177937337ecfe361e6323c218eed8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b0177937337ecfe361e6323c218eed8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b0177937337ecfe361e6323c218eed8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Regulations[^key-b0177937337ecfe361e6323c218eed8b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 5. Revocation[^key-b0177937337ecfe361e6323c218eed8b]
+## 4. Amendment of Regulations[^c-b0177937337ecfe361e6323c218eed8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0177937337ecfe361e6323c218eed8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 5. Revocation[^c-b0177937337ecfe361e6323c218eed8b]
 
-[^key-b0177937337ecfe361e6323c218eed8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b0177937337ecfe361e6323c218eed8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b0177937337ecfe361e6323c218eed8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b0177937337ecfe361e6323c218eed8b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1030) revoked (1.10.2023) by [The Tonnage Tax (Training Requirement) (Amendment etc.) Regulations 2023 (S.I. 2023/983)](https://www.legislation.gov.uk/uksi/2023/983), [regs. 1](https://www.legislation.gov.uk/uksi/2023/983/regulation/1), [5](https://www.legislation.gov.uk/uksi/2023/983/regulation/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/983/regulation/3))
+[^c-b0177937337ecfe361e6323c218eed8b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1030) revoked (1.10.2023) by [The Tonnage Tax (Training Requirement) (Amendment etc.) Regulations 2023 (S.I. 2023/983)](https://www.legislation.gov.uk/uksi/2023/983), [regs. 1](https://www.legislation.gov.uk/uksi/2023/983/regulation/1), [5](https://www.legislation.gov.uk/uksi/2023/983/regulation/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/983/regulation/3))

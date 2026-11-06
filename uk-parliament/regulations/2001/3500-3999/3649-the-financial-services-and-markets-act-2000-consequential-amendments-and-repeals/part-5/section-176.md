@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Interpretation[^key-48561730acc71af822eed4e02e06a8a7]
+## 176. Interpretation[^c-48561730acc71af822eed4e02e06a8a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 189(1) of the Consumer Credit Act 1974 (definitions)—
 
 ## Annotations
 
-[^key-48561730acc71af822eed4e02e06a8a7]: Commencement: Art. 176 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-48561730acc71af822eed4e02e06a8a7]: Commencement: Art. 176 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

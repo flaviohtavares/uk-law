@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157. Postal delivery of documents[^key-1d54d8aeab003d906464cb4b8d18a649]
+## 157. Postal delivery of documents[^c-1d54d8aeab003d906464cb4b8d18a649]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless in any particular case some other form of delivery is required by the 198
 
 ## Annotations
 
-[^key-1d54d8aeab003d906464cb4b8d18a649]: Commencement: [Rule 157](https://www.legislation.gov.uk/uksi/2013/3208/rule/157) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-1d54d8aeab003d906464cb4b8d18a649]: Commencement: [Rule 157](https://www.legislation.gov.uk/uksi/2013/3208/rule/157) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

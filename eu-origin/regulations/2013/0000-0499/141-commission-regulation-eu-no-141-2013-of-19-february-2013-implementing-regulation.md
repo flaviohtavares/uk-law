@@ -36,50 +36,50 @@ implementing Regulation (EC) No 1338/2008 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-5fe80ec88101bb86fef9e22824d783ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fe80ec88101bb86fef9e22824d783ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Scope[^key-5fe80ec88101bb86fef9e22824d783ef]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-5fe80ec88101bb86fef9e22824d783ef]
+## Article 1. Scope[^c-5fe80ec88101bb86fef9e22824d783ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Data required[^key-5fe80ec88101bb86fef9e22824d783ef]
+## Article 2. Definitions[^c-5fe80ec88101bb86fef9e22824d783ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Reference year and population[^key-5fe80ec88101bb86fef9e22824d783ef]
+## Article 3. Data required[^c-5fe80ec88101bb86fef9e22824d783ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Reference metadata[^key-5fe80ec88101bb86fef9e22824d783ef]
+## Article 4. Reference year and population[^c-5fe80ec88101bb86fef9e22824d783ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Provision of microdata and reference metadata to the Commission (Eurostat)[^key-5fe80ec88101bb86fef9e22824d783ef]
+## Article 5. Reference metadata[^c-5fe80ec88101bb86fef9e22824d783ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-5fe80ec88101bb86fef9e22824d783ef]
+## Article 6. Provision of microdata and reference metadata to the Commission (Eurostat)[^c-5fe80ec88101bb86fef9e22824d783ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5fe80ec88101bb86fef9e22824d783ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-5fe80ec88101bb86fef9e22824d783ef]
+## Article 7. Entry into force[^c-5fe80ec88101bb86fef9e22824d783ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-5fe80ec88101bb86fef9e22824d783ef]
+[^c-5fe80ec88101bb86fef9e22824d783ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-5fe80ec88101bb86fef9e22824d783ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-5fe80ec88101bb86fef9e22824d783ef]
+## ANNEX II[^c-5fe80ec88101bb86fef9e22824d783ef]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-5fe80ec88101bb86fef9e22824d783ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5fe80ec88101bb86fef9e22824d783ef]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 213](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/213); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5fe80ec88101bb86fef9e22824d783ef]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 213](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/213); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

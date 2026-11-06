@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1B. Saving for EU-derived domestic legislation for implementation period[^key-789a88df7cc37e0804a6d44b2255b4ac]
+## 1B. Saving for EU-derived domestic legislation for implementation period[^c-789a88df7cc37e0804a6d44b2255b4ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ but does not include any enactment contained in the European Communities Act 197
 
 ## Annotations
 
-[^key-789a88df7cc37e0804a6d44b2255b4ac]: Textual amendment: S. 1B inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 2](https://www.legislation.gov.uk/ukpga/2020/1/section/2), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/b)
+[^c-789a88df7cc37e0804a6d44b2255b4ac]: Textual amendment: S. 1B inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 2](https://www.legislation.gov.uk/ukpga/2020/1/section/2), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/b)

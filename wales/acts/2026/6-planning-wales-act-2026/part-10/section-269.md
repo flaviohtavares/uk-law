@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 269. Power of local authority to obtain possession of dwellings let under certain tenancies[^key-70a94e27678218ceb7feac515e65192d]
+## 269. Power of local authority to obtain possession of dwellings let under certain tenancies[^c-70a94e27678218ceb7feac515e65192d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70a94e27678218ceb7feac515e65192d]: Commencement: S. 269 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-70a94e27678218ceb7feac515e65192d]: Commencement: S. 269 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

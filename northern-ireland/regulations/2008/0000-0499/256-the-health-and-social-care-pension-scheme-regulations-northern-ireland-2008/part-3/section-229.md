@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 229. Acceptance of transfer value payments[^key-f24862fc75829d4a9a6fa57edc76663a]
+## 229. Acceptance of transfer value payments[^c-f24862fc75829d4a9a6fa57edc76663a]
 
 *Extent: N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f24862fc75829d4a9a6fa57edc76663a]: Textual amendment: [Reg. 229](https://www.legislation.gov.uk/nisr/2008/256/regulation/229) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [92](https://www.legislation.gov.uk/nisr/2010/22/regulation/92)
+[^c-f24862fc75829d4a9a6fa57edc76663a]: Textual amendment: [Reg. 229](https://www.legislation.gov.uk/nisr/2008/256/regulation/229) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [92](https://www.legislation.gov.uk/nisr/2010/22/regulation/92)

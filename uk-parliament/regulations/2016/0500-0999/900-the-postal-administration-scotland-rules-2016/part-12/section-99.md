@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Notices otherwise advertised under the 1986 Act or these Rules[^key-db659eb1bf232125e54c3d004a16b570]
+## 99. Notices otherwise advertised under the 1986 Act or these Rules[^c-db659eb1bf232125e54c3d004a16b570]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db659eb1bf232125e54c3d004a16b570]: Commencement: Rule 99 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-db659eb1bf232125e54c3d004a16b570]: Commencement: Rule 99 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

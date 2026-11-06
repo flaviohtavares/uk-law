@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Meaning of “movement restriction condition”[^key-18c15111a99d002f5641299fcedf7500]
+## 84. Meaning of “movement restriction condition”[^c-18c15111a99d002f5641299fcedf7500]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Act, “**movement restriction condition**”, in relation to a child, m
 
 ## Annotations
 
-[^key-18c15111a99d002f5641299fcedf7500]: Commencement: S. 84 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-18c15111a99d002f5641299fcedf7500]: Commencement: S. 84 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

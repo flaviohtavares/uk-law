@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Mortgage interest relief: register of qualifying lenders[^key-f10b9a3932d965c790d30404c40a4959]
+## 24. Mortgage interest relief: register of qualifying lenders[^c-f10b9a3932d965c790d30404c40a4959]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ In section 376A (the register of qualifying lenders)[^f00028] after subsection (
 
 ## Annotations
 
-[^key-f10b9a3932d965c790d30404c40a4959]: Commencement: Art. 24 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-f10b9a3932d965c790d30404c40a4959]: Commencement: Art. 24 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00028]: Footnote: Section 376A was inserted by section 142(2) of the Finance Act 1994.

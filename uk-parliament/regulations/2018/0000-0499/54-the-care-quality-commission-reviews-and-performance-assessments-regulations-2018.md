@@ -82,7 +82,7 @@ These Regulations may be cited as the Care Quality Commission (Reviews and Perfo
 - “**the 2006 Act**” means the National Health Service Act 2006 [^c22921151]
 - “the 2014 Regulations” mean the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 [^c22921161]
 - “**children's home**” means a children's home within the meaning of section 1 (children's homes) of the Care Standards Act 2000 [^c22921171];
-- “**chiropodist or podiatrist**” means a person registered with the Health and Care Professions Council as a chiropodist or podiatrist pursuant to article 5 (establishment and maintenance of register) of the Health Professions Order 2001[^key-e14cfda10b08384e307966dd346a6564] [^c22921181].
+- “**chiropodist or podiatrist**” means a person registered with the Health and Care Professions Council as a chiropodist or podiatrist pursuant to article 5 (establishment and maintenance of register) of the Health Professions Order 2001[^c-e14cfda10b08384e307966dd346a6564] [^c22921181].
 - “**immigration removal centre**” means pre-departure accommodation, a short-term holding facility or a removal centre within the meaning of section 147 (interpretation) of the Immigration and Asylum Act 1999 [^c22921191];
 - “**independent hospital**” means a hospital which is not a health service hospital as defined in section 275 (interpretation) of the 2006 Act;
 - “**NHS Foundation Trust**” means a foundation trust as defined in section 30 (NHS foundation trusts) of the 2006 Act [^c22921201];
@@ -158,7 +158,7 @@ An impact assessment has not been prepared for this instrument as no significant
 
 [^c22921171]: Marginal citation: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14). Section 1 was amended by paragraph 2 of Schedule 5 to the [Health and Social Care Act 2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-e14cfda10b08384e307966dd346a6564]: Textual amendment: Words in reg. 2(2) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/38); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-e14cfda10b08384e307966dd346a6564]: Textual amendment: Words in reg. 2(2) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/38); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^c22921181]: Marginal citation: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254), as amended by [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248. Application of general duties to functions relating to load control[^key-98f1f71d7ee9b3695d13b3f4e6db358c][^key-985bac7bdcff7c5c38d7c313649ef960]
+## 248. Application of general duties to functions relating to load control[^c-98f1f71d7ee9b3695d13b3f4e6db358c][^c-985bac7bdcff7c5c38d7c313649ef960]
 
 *Extent: E+W+S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-98f1f71d7ee9b3695d13b3f4e6db358c]: Commencement: S. 248 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-98f1f71d7ee9b3695d13b3f4e6db358c]: Commencement: S. 248 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-985bac7bdcff7c5c38d7c313649ef960]: Commencement: [S. 248](https://www.legislation.gov.uk/ukpga/2023/52/section/248) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
+[^c-985bac7bdcff7c5c38d7c313649ef960]: Commencement: [S. 248](https://www.legislation.gov.uk/ukpga/2023/52/section/248) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)

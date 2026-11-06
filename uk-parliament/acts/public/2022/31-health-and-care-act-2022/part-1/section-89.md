@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Repeal of spent powers to make transfer schemes etc[^key-926ff62c2b4e763cce7e22c0db73b444][^key-ce28ba62462792ccea30facd0ec7c39b]
+## 89. Repeal of spent powers to make transfer schemes etc[^c-926ff62c2b4e763cce7e22c0db73b444][^c-ce28ba62462792ccea30facd0ec7c39b]
 
 *Extent: E+W*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-926ff62c2b4e763cce7e22c0db73b444]: Commencement: S. 89 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-926ff62c2b4e763cce7e22c0db73b444]: Commencement: S. 89 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-ce28ba62462792ccea30facd0ec7c39b]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2022/31/section/89) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-ce28ba62462792ccea30facd0ec7c39b]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2022/31/section/89) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

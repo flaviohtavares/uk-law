@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Power to make regulations about penalties[^key-e447f6482e3adaa44d5d2a6de6b028dd]
+## 73. Power to make regulations about penalties[^c-e447f6482e3adaa44d5d2a6de6b028dd]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e447f6482e3adaa44d5d2a6de6b028dd]: Commencement: [S. 73](https://www.legislation.gov.uk/anaw/2017/3/section/73) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-e447f6482e3adaa44d5d2a6de6b028dd]: Commencement: [S. 73](https://www.legislation.gov.uk/anaw/2017/3/section/73) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Carriage and use of equipment[^key-f35c8dbc8b87d344e879d29070baaeb5]
+## 33. Carriage and use of equipment[^c-f35c8dbc8b87d344e879d29070baaeb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f35c8dbc8b87d344e879d29070baaeb5]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2015/870/article/33) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-f35c8dbc8b87d344e879d29070baaeb5]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2015/870/article/33) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

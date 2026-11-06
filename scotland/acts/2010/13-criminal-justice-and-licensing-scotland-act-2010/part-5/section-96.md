@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Persons excusable from jury service[^key-05b9754d30fe59e7e0251df43f6576f8]
+## 96. Persons excusable from jury service[^c-05b9754d30fe59e7e0251df43f6576f8]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ In the Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c.55), in Sche
 
 ## Annotations
 
-[^key-05b9754d30fe59e7e0251df43f6576f8]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2010/13/section/96) in force at 10.1.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-05b9754d30fe59e7e0251df43f6576f8]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2010/13/section/96) in force at 10.1.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

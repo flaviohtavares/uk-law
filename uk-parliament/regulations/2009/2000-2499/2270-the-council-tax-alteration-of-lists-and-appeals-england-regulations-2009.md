@@ -48,13 +48,13 @@ The Secretary of State, in exercise of the powers conferred by sections 24 and 1
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement and application[^key-7896ff96d6d77751761a9cd89b345569]
+### 1. Citation, commencement and application[^c-7896ff96d6d77751761a9cd89b345569]
 
 (1) These Regulations may be cited as the Council Tax (Alteration of Lists and Appeals) (England) Regulations 2009 and shall come into force on 1st October 2009.
 
 (2) These Regulations apply in relation to England only.
 
-### 2. Interpretation[^key-0bd091f42f3d48d0d9386173691bd7a3]
+### 2. Interpretation[^c-0bd091f42f3d48d0d9386173691bd7a3]
 
 (1) In these Regulations—
 
@@ -90,13 +90,13 @@ The Secretary of State, in exercise of the powers conferred by sections 24 and 1
 
 ## PART 2 — COUNCIL TAX: ALTERATIONS RELATING TO LISTS
 
-### 3. Restrictions on alteration of valuation bands[^key-94ef0c4c2838d46bfb39e0d10ba9ff0c]
+### 3. Restrictions on alteration of valuation bands[^c-94ef0c4c2838d46bfb39e0d10ba9ff0c]
 
 (1) No alteration shall be made of a valuation band shown in a list as applicable to any dwelling unless—
 
 - (a) since the valuation band was first shown in the list as applicable to the dwelling—
-  - (i) subject to paragraph (2A),[^key-cb29ea5453f367b38984faa0f6cbd796] there has been a material increase in the value of the dwelling and a relevant transaction has been subsequently carried out in relation to the whole or any part of it; or
-  - (ii) subject to paragraph (3)[^key-02397ef404ffb670afb347c471444c94], there has been a material reduction in the value of the dwelling; or
+  - (i) subject to paragraph (2A),[^c-cb29ea5453f367b38984faa0f6cbd796] there has been a material increase in the value of the dwelling and a relevant transaction has been subsequently carried out in relation to the whole or any part of it; or
+  - (ii) subject to paragraph (3)[^c-02397ef404ffb670afb347c471444c94], there has been a material reduction in the value of the dwelling; or
   - (iii) the dwelling has become or ceased to be a composite hereditament for the purposes of Part 3 of the 1988 Act; or
   - (iv) in the case of a dwelling which continues to be a composite hereditament, there has been an increase or reduction in its domestic use; or
 - (b) the LO is satisfied that—
@@ -111,7 +111,7 @@ The Secretary of State, in exercise of the powers conferred by sections 24 and 1
 
 the previous alteration shall be deemed to have had effect before the circumstances which caused the material increase arose.
 
-(2A)[^key-de966e6b358953e0ae078d9ac0988109] For the purposes of paragraph (1)(a)(i), the relevant transaction must be one other than the grant of a lease described in paragraph (2B) or the transfer on sale of such a lease.
+(2A)[^c-de966e6b358953e0ae078d9ac0988109] For the purposes of paragraph (1)(a)(i), the relevant transaction must be one other than the grant of a lease described in paragraph (2B) or the transfer on sale of such a lease.
 
 (2B) The lease referred to in paragraph (2A) is a lease for the purposes of the installation of plant or equipment for the generation of electricity or the production of heat by a source of energy or a technology mentioned in section 26(2) of the Climate Change and Sustainable Energy Act 2006, where—
 
@@ -122,7 +122,7 @@ the previous alteration shall be deemed to have had effect before the circumstan
 
 (4) The reference in paragraph (3) to an operation does not include the repair of any damage caused to the dwelling in the course of demolition.
 
-### 4. Circumstances and periods in which proposals may be made[^key-f9aa88dfbc9d68843cede0bacbf7d553]
+### 4. Circumstances and periods in which proposals may be made[^c-f9aa88dfbc9d68843cede0bacbf7d553]
 
 (1) Subject to the following paragraphs of this regulation, where a billing authority or an interested person is of the opinion that a list is inaccurate because—
 
@@ -166,7 +166,7 @@ that authority or person may make a proposal for the alteration of the list.
   - (iv) the entry of the day from which an alteration has effect where the day is the completion day determined under Schedule 4A in relation to the dwelling concerned; or
 - (b) reflects a change in the area of the billing authority or a decision of the VTE or the High Court in relation to the dwelling concerned.
 
-### 5. Manner of making proposals and information to be included[^key-185c198d5c0af529fc8da06296b9b8da]
+### 5. Manner of making proposals and information to be included[^c-185c198d5c0af529fc8da06296b9b8da]
 
 (1) A proposal shall be made by notice in writing served on the LO; and the notice shall—
 
@@ -186,7 +186,7 @@ that authority or person may make a proposal for the alteration of the list.
 - (a) in the circumstances mentioned in regulation 4(1)(a); or
 - (b) where the proposer makes the proposal in the same capacity as respects each dwelling, and each of the dwellings is within the same building as each other dwelling or, where any of them is not within a building, it is within the same curtilage as the other or others.
 
-### 6. Acknowledgement of proposals[^key-85e0857c050e489c63e519f9f864a2ee]
+### 6. Acknowledgement of proposals[^c-85e0857c050e489c63e519f9f864a2ee]
 
 (1) Subject to paragraph (2), within the period of 28 days beginning on the day on which the LO receives a proposal, the LO shall by notice in writing served on the proposer acknowledge its receipt.
 
@@ -194,7 +194,7 @@ that authority or person may make a proposal for the alteration of the list.
 
 (3) A notice under paragraph (1) shall specify the date of receipt of the proposal; and shall be accompanied by a statement of the effect of regulations 8 to 12.
 
-### 7. Proposals treated as invalid[^key-194dc4573091078f5366f716c7336640]
+### 7. Proposals treated as invalid[^c-194dc4573091078f5366f716c7336640]
 
 (1) Where the LO is of the opinion that a proposal has not been validly made, the LO may, within four weeks of its service, serve notice (an “invalidity notice”) on the proposer that the LO is of that opinion, and stating—
 
@@ -233,7 +233,7 @@ that authority or person may make a proposal for the alteration of the list.
 
 (10) Nothing done under this regulation shall be construed as preventing any party to an appeal under regulation 10 from contending for the purposes of that appeal that the proposal to which the appeal relates was not validly made.
 
-### 8. Procedure subsequent to the making of proposals[^key-ad9fda37563eeae3b2e687584079c9a8]
+### 8. Procedure subsequent to the making of proposals[^c-ad9fda37563eeae3b2e687584079c9a8]
 
 (1) Within six weeks beginning on the day on which a proposal is served on him, the LO shall serve a copy of the proposal on each of the following (not being the proposer)—
 
@@ -242,7 +242,7 @@ that authority or person may make a proposal for the alteration of the list.
 
 (2) Each copy of a proposal served under paragraph (1)(a) shall be accompanied by a statement of the effect of regulations 9 to 12.
 
-### 9. Decision of listing officer[^key-5c04c9f8d7b97d18c8810fc5202351ec]
+### 9. Decision of listing officer[^c-5c04c9f8d7b97d18c8810fc5202351ec]
 
 (1) Within the period of four months beginning on the date on which the proposer served the proposal on the LO—
 
@@ -268,7 +268,7 @@ giving particulars of the decision made or agreement reached.
 
 (4) Where the LO has reached an agreement in accordance with paragraph (1)(b)(ii) or (iii), the LO shall, within the period of six weeks beginning on the date on which the agreement was reached, alter the list in accordance with the terms of the agreement.
 
-### 10. Disagreement as to proposed alteration[^key-14d246bf9705c598b5c31a7aec1ac7aa]
+### 10. Disagreement as to proposed alteration[^c-14d246bf9705c598b5c31a7aec1ac7aa]
 
 (1) Where the LO has—
 
@@ -299,7 +299,7 @@ the VTE President may authorise the appeal and shall notify the appellant as soo
   - (iv) where the appellant knows the name and address of any person (who is neither the proposer nor the appellant) who appears to be a taxpayer as regards any dwelling to which the decision notice relates, that person; and
   - (v) where the appellant knows the name and address of any other person who appears to be an interested person as regards any dwelling to which the decision notice relates, that person.
 
-### 11. Day from which alteration has effect[^key-554ad3b63fba802bbca3878a05293459]
+### 11. Day from which alteration has effect[^c-554ad3b63fba802bbca3878a05293459]
 
 (1) Subject to the following provisions of this regulation, an alteration made so as to show in or, as the case may be, to delete from a list any dwelling which, since the list was compiled—
 
@@ -363,7 +363,7 @@ from the day on which the previous alteration had effect, or, but for the inaccu
 
 (12) Paragraphs (1) to (9) shall not apply, as regards the date from which an alteration is to have effect, where provision for that date is made under regulation 35 of the VTE Procedure Regulations (consent orders) or by regulation 38(3) of those Regulations (orders other than consent orders).
 
-### 12. Notification of alteration[^key-e8e30469455fcd9c085acd0b2050e27d]
+### 12. Notification of alteration[^c-e8e30469455fcd9c085acd0b2050e27d]
 
 (1) Within six weeks of altering a list the LO shall serve notice on the billing authority stating the effect of the alteration; and the billing authority shall as soon as is reasonably practicable alter the copy of the list deposited by it at its principal office under section 22(8) of the 1992 Act.
 
@@ -386,7 +386,7 @@ from the day on which the previous alteration had effect, or, but for the inaccu
 
 ## PART 3 — MISCELLANEOUS PROVISIONS
 
-### 13. Post-appeal agreements[^key-38ecdecd25a551ff9efd7a68116acea8]
+### 13. Post-appeal agreements[^c-38ecdecd25a551ff9efd7a68116acea8]
 
 (1) After an appeal under regulation 10 has been made, but before the commencement of a hearing or consideration of written representations, the LO may reach an agreement on an alteration of the list in accordance with the following paragraphs.
 
@@ -419,7 +419,7 @@ from the day on which the previous alteration had effect, or, but for the inaccu
 
 (7) An appeal in relation to which a notice has been served under paragraph (3) shall be treated as withdrawn on the date on which the notice is served on the VTE.
 
-### 14. Revocation of Regulations[^key-ebc98bcde955ac27b640e1a128e35b18]
+### 14. Revocation of Regulations[^c-ebc98bcde955ac27b640e1a128e35b18]
 
 The Council Tax (Alteration of Lists and Appeals) Regulations 1993 are revoked[^f00008].
 
@@ -479,9 +479,9 @@ No impact assessment has been produced for these Regulations as no impact on the
 
 [^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-7896ff96d6d77751761a9cd89b345569]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-7896ff96d6d77751761a9cd89b345569]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
-[^key-0bd091f42f3d48d0d9386173691bd7a3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/2270/regulation/2) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-0bd091f42f3d48d0d9386173691bd7a3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/2270/regulation/2) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
 [^f00002]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41) (“the 1988 Act”). Schedule 11 to the 1988 Act is amended by Schedule 15 to the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28). Paragraphs 2 to 5 of Schedule 16 to that Act amend section 55 of, and Schedules 4A and 9 to, the 1988 Act. Schedule 4A to the 1988 Act was inserted by the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraph 36.
 
@@ -491,38 +491,38 @@ No impact assessment has been produced for these Regulations as no impact on the
 
 [^f00005]: Footnote: Schedule 4A was inserted by the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraph 36.
 
-[^key-94ef0c4c2838d46bfb39e0d10ba9ff0c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/2270/regulation/3) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-94ef0c4c2838d46bfb39e0d10ba9ff0c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/2270/regulation/3) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
-[^key-cb29ea5453f367b38984faa0f6cbd796]: Textual amendment: Words in [reg. 3(1)(a)(i)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/3/1/a/i) inserted (1.4.2013) by [The Council Tax (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2013 (S.I. 2013/467)](https://www.legislation.gov.uk/uksi/2013/467), [regs. 1](https://www.legislation.gov.uk/uksi/2013/467/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/467/regulation/2/2/a)
+[^c-cb29ea5453f367b38984faa0f6cbd796]: Textual amendment: Words in [reg. 3(1)(a)(i)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/3/1/a/i) inserted (1.4.2013) by [The Council Tax (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2013 (S.I. 2013/467)](https://www.legislation.gov.uk/uksi/2013/467), [regs. 1](https://www.legislation.gov.uk/uksi/2013/467/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/467/regulation/2/2/a)
 
-[^key-02397ef404ffb670afb347c471444c94]: Textual amendment: Words in [reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/3/1/a/ii) substituted (1.4.2013) by [The Council Tax (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2013 (S.I. 2013/467)](https://www.legislation.gov.uk/uksi/2013/467), [regs. 1](https://www.legislation.gov.uk/uksi/2013/467/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/467/regulation/2/2/b)
+[^c-02397ef404ffb670afb347c471444c94]: Textual amendment: Words in [reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/3/1/a/ii) substituted (1.4.2013) by [The Council Tax (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2013 (S.I. 2013/467)](https://www.legislation.gov.uk/uksi/2013/467), [regs. 1](https://www.legislation.gov.uk/uksi/2013/467/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/467/regulation/2/2/b)
 
-[^key-de966e6b358953e0ae078d9ac0988109]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/3/2B) inserted (1.4.2013) by [The Council Tax (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2013 (S.I. 2013/467)](https://www.legislation.gov.uk/uksi/2013/467), [regs. 1](https://www.legislation.gov.uk/uksi/2013/467/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2013/467/regulation/2/2/c)
+[^c-de966e6b358953e0ae078d9ac0988109]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/3/2A)[(2B)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/3/2B) inserted (1.4.2013) by [The Council Tax (Alteration of Lists and Appeals) (England) (Amendment) Regulations 2013 (S.I. 2013/467)](https://www.legislation.gov.uk/uksi/2013/467), [regs. 1](https://www.legislation.gov.uk/uksi/2013/467/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2013/467/regulation/2/2/c)
 
-[^key-f9aa88dfbc9d68843cede0bacbf7d553]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/2270/regulation/4) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-f9aa88dfbc9d68843cede0bacbf7d553]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/2270/regulation/4) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 1992/549](https://www.legislation.gov.uk/uksi/1992/549). A relevant amending instrument is [S.I. 1997/656](https://www.legislation.gov.uk/uksi/1997/656).
 
-[^key-185c198d5c0af529fc8da06296b9b8da]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/2270/regulation/5) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-185c198d5c0af529fc8da06296b9b8da]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/2270/regulation/5) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
-[^key-85e0857c050e489c63e519f9f864a2ee]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/2270/regulation/6) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-85e0857c050e489c63e519f9f864a2ee]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/2270/regulation/6) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
-[^key-194dc4573091078f5366f716c7336640]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/2270/regulation/7) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-194dc4573091078f5366f716c7336640]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2009/2270/regulation/7) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
-[^key-ad9fda37563eeae3b2e687584079c9a8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/2270/regulation/8) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-ad9fda37563eeae3b2e687584079c9a8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2009/2270/regulation/8) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
-[^key-5c04c9f8d7b97d18c8810fc5202351ec]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/2270/regulation/9) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-5c04c9f8d7b97d18c8810fc5202351ec]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/2270/regulation/9) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
-[^key-14d246bf9705c598b5c31a7aec1ac7aa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/2270/regulation/10) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-14d246bf9705c598b5c31a7aec1ac7aa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/2270/regulation/10) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
-[^key-554ad3b63fba802bbca3878a05293459]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/2270/regulation/11) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-554ad3b63fba802bbca3878a05293459]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2009/2270/regulation/11) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1992/549](https://www.legislation.gov.uk/uksi/1992/549). A relevant amending instrument is [S.I. 1997/656](https://www.legislation.gov.uk/uksi/1997/656).
 
-[^key-e8e30469455fcd9c085acd0b2050e27d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/2270/regulation/12) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-e8e30469455fcd9c085acd0b2050e27d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/2270/regulation/12) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
-[^key-38ecdecd25a551ff9efd7a68116acea8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/2270/regulation/13) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-38ecdecd25a551ff9efd7a68116acea8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2009/2270/regulation/13) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
-[^key-ebc98bcde955ac27b640e1a128e35b18]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/2270/regulation/14) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
+[^c-ebc98bcde955ac27b640e1a128e35b18]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2009/2270/regulation/14) in force at 1.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2270/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1993/290](https://www.legislation.gov.uk/uksi/1993/290).

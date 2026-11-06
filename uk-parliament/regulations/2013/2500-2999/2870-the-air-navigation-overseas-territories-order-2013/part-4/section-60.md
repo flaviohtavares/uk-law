@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Glider pilot-minimum age[^key-2871221868124f676a92081142a46e83]
+## 60. Glider pilot-minimum age[^c-2871221868124f676a92081142a46e83]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person under the age of 16 years must not act as pilot-in-command of a glider.
 
 ## Annotations
 
-[^key-2871221868124f676a92081142a46e83]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2013/2870/article/60) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-2871221868124f676a92081142a46e83]: Commencement: [Art. 60](https://www.legislation.gov.uk/uksi/2013/2870/article/60) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

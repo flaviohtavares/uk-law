@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8ZA. Specific conditions: asset management vehicle[^key-d289fd6fe94c8ef156608f87461fe03b]
+## 8ZA. Specific conditions: asset management vehicle[^c-d289fd6fe94c8ef156608f87461fe03b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,12 +36,12 @@ summary: ''
 - (b) the FCA, and
 - (c) the Treasury.
 
-(5)[^key-03651017edb577640fb350abed01b98c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-03651017edb577640fb350abed01b98c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The conditions in this section are in addition to the conditions in sections 7 and 8.
 
 ## Annotations
 
-[^key-d289fd6fe94c8ef156608f87461fe03b]: Textual amendment: S. 8ZA inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [15](https://www.legislation.gov.uk/uksi/2014/3329/article/15)
+[^c-d289fd6fe94c8ef156608f87461fe03b]: Textual amendment: S. 8ZA inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [15](https://www.legislation.gov.uk/uksi/2014/3329/article/15)
 
-[^key-03651017edb577640fb350abed01b98c]: Textual amendment: [S. 8ZA(5)](https://www.legislation.gov.uk/ukpga/2009/1/section/8ZA/5) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03651017edb577640fb350abed01b98c]: Textual amendment: [S. 8ZA(5)](https://www.legislation.gov.uk/ukpga/2009/1/section/8ZA/5) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

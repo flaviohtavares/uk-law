@@ -38,7 +38,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Departmental functions
 
-### 1. Period during which functions may be exercised in absence of Ministers[^key-2d8398bfcecfd285832ba2c7fb08a619]
+### 1. Period during which functions may be exercised in absence of Ministers[^c-2d8398bfcecfd285832ba2c7fb08a619]
 
 In section 3 of the Northern Ireland (Executive Formation etc) Act 2022 (exercise of departmental functions in absence of ministers)—
 
@@ -52,7 +52,7 @@ In section 3 of the Northern Ireland (Executive Formation etc) Act 2022 (exercis
 
 ## Advice and information
 
-### 2. Advice and information on options for raising public revenue[^key-39a7b17d17433a4ffd8531ed90d3f1d6]
+### 2. Advice and information on options for raising public revenue[^c-39a7b17d17433a4ffd8531ed90d3f1d6]
 
 After section 5 of the Northern Ireland (Executive Formation etc) Act 2022 insert—
 
@@ -102,7 +102,7 @@ After section 5 of the Northern Ireland (Executive Formation etc) Act 2022 inser
 >
 > (2) In this section “**data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act).
 
-### 3. Exception to Assembly power to call for witnesses and documents[^key-582079d93e8bbb1a53478adc89cd3770]
+### 3. Exception to Assembly power to call for witnesses and documents[^c-582079d93e8bbb1a53478adc89cd3770]
 
 In section 44 of the Northern Ireland Act 1998 (power to call witnesses and documents), in subsection (4)—
 
@@ -121,7 +121,7 @@ In section 44 of the Northern Ireland Act 1998 (power to call witnesses and docu
 
 ## Accounts
 
-### 4. Accounts etc to be laid before House of Commons[^key-a3cf7af4195d76d13ff5e4551ce378cb]
+### 4. Accounts etc to be laid before House of Commons[^c-a3cf7af4195d76d13ff5e4551ce378cb]
 
 (1) After section 67 of the Northern Ireland Act 1998 insert—
 
@@ -150,7 +150,7 @@ In section 44 of the Northern Ireland Act 1998 (power to call witnesses and docu
 
 ## General
 
-### 5. Extent[^key-54f8979ec35b5d49dee9a5de084052e0]
+### 5. Extent[^c-54f8979ec35b5d49dee9a5de084052e0]
 
 This Act extends to—
 
@@ -158,26 +158,26 @@ This Act extends to—
 - (b) Scotland, and
 - (c) Northern Ireland.
 
-### 6. Commencement[^key-62102c6abd6448fc7cd996ffa8757eea]
+### 6. Commencement[^c-62102c6abd6448fc7cd996ffa8757eea]
 
 This Act comes into force on the day on which it is passed.
 
-### 7. Short title[^key-4fb803a8bb8b75d870b69d8d9606b657]
+### 7. Short title[^c-4fb803a8bb8b75d870b69d8d9606b657]
 
 This Act may be cited as the Northern Ireland (Interim Arrangements) Act 2023.
 
 ## Annotations
 
-[^key-2d8398bfcecfd285832ba2c7fb08a619]: Commencement: S. 1 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
+[^c-2d8398bfcecfd285832ba2c7fb08a619]: Commencement: S. 1 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
 
-[^key-39a7b17d17433a4ffd8531ed90d3f1d6]: Commencement: S. 2 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
+[^c-39a7b17d17433a4ffd8531ed90d3f1d6]: Commencement: S. 2 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
 
-[^key-582079d93e8bbb1a53478adc89cd3770]: Commencement: S. 3 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
+[^c-582079d93e8bbb1a53478adc89cd3770]: Commencement: S. 3 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
 
-[^key-a3cf7af4195d76d13ff5e4551ce378cb]: Commencement: S. 4 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
+[^c-a3cf7af4195d76d13ff5e4551ce378cb]: Commencement: S. 4 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
 
-[^key-54f8979ec35b5d49dee9a5de084052e0]: Commencement: S. 5 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
+[^c-54f8979ec35b5d49dee9a5de084052e0]: Commencement: S. 5 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
 
-[^key-62102c6abd6448fc7cd996ffa8757eea]: Commencement: S. 6 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
+[^c-62102c6abd6448fc7cd996ffa8757eea]: Commencement: S. 6 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
 
-[^key-4fb803a8bb8b75d870b69d8d9606b657]: Commencement: S. 7 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
+[^c-4fb803a8bb8b75d870b69d8d9606b657]: Commencement: S. 7 in force at Royal Assent, see [s. 6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)

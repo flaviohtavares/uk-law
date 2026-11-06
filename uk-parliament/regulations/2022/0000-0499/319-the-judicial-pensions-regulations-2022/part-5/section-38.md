@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Establishment of full retirement account[^key-b932f1640a626f37761294540c788a7f]
+## 38. Establishment of full retirement account[^c-b932f1640a626f37761294540c788a7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b932f1640a626f37761294540c788a7f]: Commencement: Reg. 38 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-b932f1640a626f37761294540c788a7f]: Commencement: Reg. 38 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

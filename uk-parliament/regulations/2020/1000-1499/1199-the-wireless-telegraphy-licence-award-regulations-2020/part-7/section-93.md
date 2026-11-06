@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. First form delivered within a negotiation phase by a winning bidder for 3.6 GHz lots to be used by OFCOM[^key-dcabddf78bfdf003ffbb656d6362c5c0]
+## 93. First form delivered within a negotiation phase by a winning bidder for 3.6 GHz lots to be used by OFCOM[^c-dcabddf78bfdf003ffbb656d6362c5c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcabddf78bfdf003ffbb656d6362c5c0]: Commencement: Reg. 93 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-dcabddf78bfdf003ffbb656d6362c5c0]: Commencement: Reg. 93 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

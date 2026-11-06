@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 ANIMALS
 
-Salmonella in Laying Flocks (Survey Powers) Regulations (Northern Ireland) 2004 (revoked)[^key-a005d606b4c2296b57a36d8350ee0953]
+Salmonella in Laying Flocks (Survey Powers) Regulations (Northern Ireland) 2004 (revoked)[^c-a005d606b4c2296b57a36d8350ee0953]
 
 Made
 
@@ -43,46 +43,46 @@ Coming into operation
 
 1st February 2005
 
-[^key-a005d606b4c2296b57a36d8350ee0953]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a005d606b4c2296b57a36d8350ee0953]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a005d606b4c2296b57a36d8350ee0953]
+## 1. Citation and commencement[^c-a005d606b4c2296b57a36d8350ee0953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a005d606b4c2296b57a36d8350ee0953]
+## 2. Interpretation[^c-a005d606b4c2296b57a36d8350ee0953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Selection of Premises[^key-a005d606b4c2296b57a36d8350ee0953]
+## 3. Selection of Premises[^c-a005d606b4c2296b57a36d8350ee0953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Powers of Entry[^key-a005d606b4c2296b57a36d8350ee0953]
+## 4. Powers of Entry[^c-a005d606b4c2296b57a36d8350ee0953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. General Powers[^key-a005d606b4c2296b57a36d8350ee0953]
+## 5. General Powers[^c-a005d606b4c2296b57a36d8350ee0953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Notices[^key-a005d606b4c2296b57a36d8350ee0953]
+## 6. Notices[^c-a005d606b4c2296b57a36d8350ee0953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences[^key-a005d606b4c2296b57a36d8350ee0953]
+## 7. Offences[^c-a005d606b4c2296b57a36d8350ee0953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Penalties[^key-a005d606b4c2296b57a36d8350ee0953]
+## 8. Penalties[^c-a005d606b4c2296b57a36d8350ee0953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a005d606b4c2296b57a36d8350ee0953]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a005d606b4c2296b57a36d8350ee0953]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a005d606b4c2296b57a36d8350ee0953]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a005d606b4c2296b57a36d8350ee0953]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a005d606b4c2296b57a36d8350ee0953]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/525) revoked (18.4.2005) by [Salmonella in Laying Flocks (Survey Powers) Regulations (Northern Ireland) 2005 (S.R. 2005/132)](https://www.legislation.gov.uk/nisr/2005/132), [regs. 1](https://www.legislation.gov.uk/nisr/2005/132/regulation/1), [9](https://www.legislation.gov.uk/nisr/2005/132/regulation/9)
+[^c-a005d606b4c2296b57a36d8350ee0953]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/525) revoked (18.4.2005) by [Salmonella in Laying Flocks (Survey Powers) Regulations (Northern Ireland) 2005 (S.R. 2005/132)](https://www.legislation.gov.uk/nisr/2005/132), [regs. 1](https://www.legislation.gov.uk/nisr/2005/132/regulation/1), [9](https://www.legislation.gov.uk/nisr/2005/132/regulation/9)

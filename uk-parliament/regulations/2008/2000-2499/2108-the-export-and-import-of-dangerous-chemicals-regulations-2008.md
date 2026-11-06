@@ -32,7 +32,7 @@ summary: ''
 
 Health And Safety
 
-The Export and Import of Dangerous Chemicals Regulations 2008 (revoked)[^key-3c3b4c266b5d95b2624158f80041f15c]
+The Export and Import of Dangerous Chemicals Regulations 2008 (revoked)[^c-3c3b4c266b5d95b2624158f80041f15c]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 3rd September 2008
 
-[^key-3c3b4c266b5d95b2624158f80041f15c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c3b4c266b5d95b2624158f80041f15c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3c3b4c266b5d95b2624158f80041f15c]
+## 1. Citation, commencement and interpretation[^c-3c3b4c266b5d95b2624158f80041f15c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment of designated national authorities[^key-3c3b4c266b5d95b2624158f80041f15c]
+## 2. Appointment of designated national authorities[^c-3c3b4c266b5d95b2624158f80041f15c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. False or misleading information[^key-3c3b4c266b5d95b2624158f80041f15c]
+## 3. False or misleading information[^c-3c3b4c266b5d95b2624158f80041f15c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement and offences[^key-3c3b4c266b5d95b2624158f80041f15c]
+## 4. Enforcement and offences[^c-3c3b4c266b5d95b2624158f80041f15c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation and amendments[^key-3c3b4c266b5d95b2624158f80041f15c]
+## 5. Revocation and amendments[^c-3c3b4c266b5d95b2624158f80041f15c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c3b4c266b5d95b2624158f80041f15c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c3b4c266b5d95b2624158f80041f15c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3c3b4c266b5d95b2624158f80041f15c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c3b4c266b5d95b2624158f80041f15c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c3b4c266b5d95b2624158f80041f15c]: Textual amendment: Regulations revoked (1.3.2014) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1), [34(f)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/34/f) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1506/schedule/2))
+[^c-3c3b4c266b5d95b2624158f80041f15c]: Textual amendment: Regulations revoked (1.3.2014) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1506/regulation/1), [34(f)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/34/f) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1506/schedule/2))

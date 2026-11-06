@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Electronic monitoring requirements[^key-b91de30c5b477718c746a5050ef7a6cf]
+## 55. Electronic monitoring requirements[^c-b91de30c5b477718c746a5050ef7a6cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b91de30c5b477718c746a5050ef7a6cf]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-b91de30c5b477718c746a5050ef7a6cf]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)

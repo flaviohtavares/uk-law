@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Disclosure orders: England and Wales and Northern Ireland[^key-6da30d0d1957be76ce67538410fe6e5e][^key-045608cb21d46078ef3d66ee40946b1f][^c22725121]
+## 7. Disclosure orders: England and Wales and Northern Ireland[^c-6da30d0d1957be76ce67538410fe6e5e][^c-045608cb21d46078ef3d66ee40946b1f][^c22725121]
 
 *Extent: E+W+N.I.*
 
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6da30d0d1957be76ce67538410fe6e5e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/22/section/7) in force at 31.1.2018 for E.W. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/b)
+[^c-6da30d0d1957be76ce67538410fe6e5e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/22/section/7) in force at 31.1.2018 for E.W. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/b)
 
-[^key-045608cb21d46078ef3d66ee40946b1f]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/22/section/7) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/b)
+[^c-045608cb21d46078ef3d66ee40946b1f]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/22/section/7) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/b)
 
 [^c22725121]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/22/section/7) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

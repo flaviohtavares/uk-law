@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Custodial sentences that may be suspended[^key-b95b1639cff0399c72684a2be532f9a5]
+## 2. Custodial sentences that may be suspended[^c-b95b1639cff0399c72684a2be532f9a5]
 
 *Extent: E+W*
 
@@ -119,4 +119,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b95b1639cff0399c72684a2be532f9a5]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/2/section/2) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-b95b1639cff0399c72684a2be532f9a5]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/2/section/2) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

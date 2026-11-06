@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Other exemptions[^key-55e0570037e02ab4f9049b7ddda5958a]
+## 206. Other exemptions[^c-55e0570037e02ab4f9049b7ddda5958a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ is not recoverable or (as the case may be) associated property.
 
 ## Annotations
 
-[^key-55e0570037e02ab4f9049b7ddda5958a]: Commencement: [Art. 206](https://www.legislation.gov.uk/uksi/2005/3181/article/206) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-55e0570037e02ab4f9049b7ddda5958a]: Commencement: [Art. 206](https://www.legislation.gov.uk/uksi/2005/3181/article/206) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00113]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).

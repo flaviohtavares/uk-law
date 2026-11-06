@@ -43,7 +43,7 @@ summary: ''
 
 (7) In this section “**relevant financial institution**” means—
 
-- (a) a person who has permission under Part 4A[^key-37df0d571243160423991231a5f1c00e] of the Financial Services and Markets Act 2000 (c. 8) to accept deposits,
+- (a) a person who has permission under Part 4A[^c-37df0d571243160423991231a5f1c00e] of the Financial Services and Markets Act 2000 (c. 8) to accept deposits,
 - (b) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to that Act which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12(1) of that Schedule) to accept deposits,
 
 and this definition must be read with section 22 of and Schedule 2 to that Act and any relevant order under that section.
@@ -52,4 +52,4 @@ and this definition must be read with section 22 of and Schedule 2 to that Act a
 
 [^c22542501]: Textual amendment: Words in s. 56(1)(a) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [ss. 354(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/354/1), [355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 137](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/137) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-37df0d571243160423991231a5f1c00e]: Textual amendment: Words in [s. 56(7)(a)](https://www.legislation.gov.uk/nia/2008/12/section/56/7/a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 143(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/143/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-37df0d571243160423991231a5f1c00e]: Textual amendment: Words in [s. 56(7)(a)](https://www.legislation.gov.uk/nia/2008/12/section/56/7/a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 143(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/143/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

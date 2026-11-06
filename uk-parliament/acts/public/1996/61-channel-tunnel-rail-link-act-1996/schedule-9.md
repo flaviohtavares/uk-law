@@ -65,7 +65,7 @@ Section 20.
 
 #### Railway Companies (Accounts and Returns) Act 1911 (c. 34)
 
-**6.**[^key-816131f5b6828bc361cf140ab3ea4dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-816131f5b6828bc361cf140ab3ea4dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### British Transport Commission Act 1949 (c. xxix)
 
@@ -120,7 +120,7 @@ The Table
 
 [^c1252267]: Modification: [Sch. 9 Pt. I para. 2](https://www.legislation.gov.uk/ukpga/1996/61/schedule/9/part/I/paragraph/2) applied (with modifications) (19.2.1999) by [S.I. 1999/537](https://www.legislation.gov.uk/uksi/1999/537), [art. 13(1)](https://www.legislation.gov.uk/uksi/1999/537/article/13/1), [Sch. 3 para. 1-8](https://www.legislation.gov.uk/uksi/1999/537/schedule/3/paragraph/1)
 
-[^key-816131f5b6828bc361cf140ab3ea4dfc]: Textual amendment: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/1996/61/schedule/9/paragraph/6) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/9) Group 3(2)
+[^c-816131f5b6828bc361cf140ab3ea4dfc]: Textual amendment: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/1996/61/schedule/9/paragraph/6) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/9) Group 3(2)
 
 [^c1252268]: Textual amendment: Words in [Sch. 9 para. 7(2)(3)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/9/paragraph/7/2/3) substituted (1.2.2001 subject to transitional provision in Sch. 2 Pt. II of the commencing S.I.) [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 252](https://www.legislation.gov.uk/ukpga/2000/38/section/252), [Sch. 27 para. 56(1)(2)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/27/paragraph/56/1/2); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3](https://www.legislation.gov.uk/uksi/2001/57/article/3), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I)
 

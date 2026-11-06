@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 90. Offences in connection with deposits and vegetation in rivers.[^key-5fb26faa49e4fd2bb73fc72eae5af31b]
+## 90. Offences in connection with deposits and vegetation in rivers.[^c-5fb26faa49e4fd2bb73fc72eae5af31b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fb26faa49e4fd2bb73fc72eae5af31b]: Textual amendment: S. 90 repealed (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(2)(f)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/2/f), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+[^c-5fb26faa49e4fd2bb73fc72eae5af31b]: Textual amendment: S. 90 repealed (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(2)(f)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/2/f), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))

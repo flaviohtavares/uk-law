@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Variation[^key-c2bca98528ff27b06d4da1f75b90c9af][^key-8d1bfd58a79befd8f48650a54a76e18d]
+## 29. Variation[^c-c2bca98528ff27b06d4da1f75b90c9af][^c-8d1bfd58a79befd8f48650a54a76e18d]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ an opportunity to make representations about the proposed variation.
 
 ## Annotations
 
-[^key-c2bca98528ff27b06d4da1f75b90c9af]: Commencement: S. 29 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-c2bca98528ff27b06d4da1f75b90c9af]: Commencement: S. 29 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-8d1bfd58a79befd8f48650a54a76e18d]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2025/28/section/29) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-8d1bfd58a79befd8f48650a54a76e18d]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2025/28/section/29) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

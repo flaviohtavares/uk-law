@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Purposes[^key-db85cf2f3439fb3d3019629c3257b1fb]
+## 4. Purposes[^c-db85cf2f3439fb3d3019629c3257b1fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,7 +71,7 @@ otherwise than by compliance with the relevant UN obligations.
 
 ## Annotations
 
-[^key-db85cf2f3439fb3d3019629c3257b1fb]: Commencement: Reg. 4 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/1)
+[^c-db85cf2f3439fb3d3019629c3257b1fb]: Commencement: Reg. 4 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/1)
 
 [^c24239421]: Marginal citation: The Constitutional Document (also referred to as the Constitutional Charter for the 2019 Transitional Period) was signed by representatives of the Transitional Military Council and the Forces for Freedom and Change in Khartoum on 17th August 2019. The UN Security Council “welcom\[ed\] the signing of the Constitutional Document on 17 August 2019…” in the preamble to resolution 2524 (2020) adopted by the Security Council on 3 June 2020.
 

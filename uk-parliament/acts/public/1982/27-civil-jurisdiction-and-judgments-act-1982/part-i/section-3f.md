@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3F. The 2019 Hague Convention to have the force of law[^key-e135c201ed58ee807f94d4afa8a7b761]
+## 3F. The 2019 Hague Convention to have the force of law[^c-e135c201ed58ee807f94d4afa8a7b761]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e135c201ed58ee807f94d4afa8a7b761]: Textual amendment: [S. 3F](https://www.legislation.gov.uk/ukpga/1982/27/section/3F) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/713/regulation/5/1)
+[^c-e135c201ed58ee807f94d4afa8a7b761]: Textual amendment: [S. 3F](https://www.legislation.gov.uk/ukpga/1982/27/section/3F) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/713/regulation/5/1)

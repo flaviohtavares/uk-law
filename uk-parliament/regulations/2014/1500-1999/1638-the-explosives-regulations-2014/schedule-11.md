@@ -147,7 +147,7 @@ The enforcing authority for regulation 33—
 
 #### 15. Enforcement in respect of transfers, and the placing on the market, of civil explosives
 
-(1)[^key-9709ef2106e5085f5fa94746d49f7010] The Executive is the enforcing authority for regulation 8, Part 13 and paragraph 18 of Schedule 12.
+(1)[^c-9709ef2106e5085f5fa94746d49f7010] The Executive is the enforcing authority for regulation 8, Part 13 and paragraph 18 of Schedule 12.
 
 (2) Despite sub-paragraph (1), the ONR is the enforcing authority for regulation 8 as it applies on, or in relation to, any activity carried out wholly or mainly on an authorised defence site or a new nuclear build site.
 
@@ -161,4 +161,4 @@ The enforcing authority for regulation 33—
 
 [^c22151091]: Marginal citation: [S.I. 1998/494](https://www.legislation.gov.uk/uksi/1998/494); relevant amending instruments are [S.I. 2005/1082](https://www.legislation.gov.uk/uksi/2005/1082), 2007/2598, 2009/693 and 2014/469. For the purposes of regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations, “**local authority**” means: (a) in relation to England, a county council so far as they are the council for an area in which there are no district councils, a district council, a London borough council, the Common Council of the City of London, the Sub-Treasurer of the Inner Temple, the Under-Treasurer of the Middle Temple or the Council of the Isles of Scilly; (b) in relation to Scotland, the council for a local government area; (c) in relation to Wales, a county council or county borough council.
 
-[^key-9709ef2106e5085f5fa94746d49f7010]: Textual amendment: [Sch. 11 para. 15(1)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/11/paragraph/15/1) substituted (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [12](https://www.legislation.gov.uk/uksi/2016/315/regulation/12) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
+[^c-9709ef2106e5085f5fa94746d49f7010]: Textual amendment: [Sch. 11 para. 15(1)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/11/paragraph/15/1) substituted (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [12](https://www.legislation.gov.uk/uksi/2016/315/regulation/12) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))

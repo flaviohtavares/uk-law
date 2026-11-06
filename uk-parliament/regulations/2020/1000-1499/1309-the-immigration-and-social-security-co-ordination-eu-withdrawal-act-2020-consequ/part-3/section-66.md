@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Amendment of the Child Benefit (General) Regulations 2006[^key-73f22d3844aa3b0858f9bba03808fe2a][^M_I_14eda05c-284c-40a4-c061-6e6bcd9ac906]
+## 66. Amendment of the Child Benefit (General) Regulations 2006[^c-73f22d3844aa3b0858f9bba03808fe2a][^M_I_14eda05c-284c-40a4-c061-6e6bcd9ac906]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-73f22d3844aa3b0858f9bba03808fe2a]: Commencement: Reg. 66 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-73f22d3844aa3b0858f9bba03808fe2a]: Commencement: Reg. 66 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_14eda05c-284c-40a4-c061-6e6bcd9ac906]: Commencement: Reg. 66 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

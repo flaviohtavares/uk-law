@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 113. Approval by the court[^key-9bad9c820fee27d785a523db36329531]
+## 113. Approval by the court[^c-9bad9c820fee27d785a523db36329531]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ and details as to how to find out the venue for the hearing must be sent out wit
 
 ## Annotations
 
-[^key-9bad9c820fee27d785a523db36329531]: Commencement: [Rule 113](https://www.legislation.gov.uk/nisr/2026/11/rule/113) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-9bad9c820fee27d785a523db36329531]: Commencement: [Rule 113](https://www.legislation.gov.uk/nisr/2026/11/rule/113) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

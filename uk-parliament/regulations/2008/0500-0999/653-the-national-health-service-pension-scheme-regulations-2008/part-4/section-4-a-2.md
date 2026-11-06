@@ -26,15 +26,15 @@ In this Part—
 - “calculation method A” means the calculation method provided for in regulation 4.B.8;
 - “calculation method B” means the calculation method provided for in regulation 4.B.9;
 - “calculation method C” means the calculation method provided for in regulation 4.B.10;
-- “calculation method D” means the calculation method provided for in regulation 4.B.11;[^key-fd46317b6259dcce4bffad5a6335c77c]
+- “calculation method D” means the calculation method provided for in regulation 4.B.11;[^c-fd46317b6259dcce4bffad5a6335c77c]
 - “increment period” has the meaning given in regulation 4.B.11(2);
 - “officer” has the same meaning as in Part 2;
 - “practitioner” has the same meaning as in Part 3;
-- [^key-28aef7c82da25c5103fae2f836d25e91]...
+- [^c-28aef7c82da25c5103fae2f836d25e91]...
 - “uprated earnings” has the same meaning as in Part 3.
 
 ## Annotations
 
-[^key-fd46317b6259dcce4bffad5a6335c77c]: Textual amendment: Words in [reg. 4.A.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.A.2) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [95(a)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/95/a)
+[^c-fd46317b6259dcce4bffad5a6335c77c]: Textual amendment: Words in [reg. 4.A.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.A.2) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [95(a)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/95/a)
 
-[^key-28aef7c82da25c5103fae2f836d25e91]: Textual amendment: Words in [reg. 4.A.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.A.2) omitted (1.10.2009) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [95(b)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/95/b)
+[^c-28aef7c82da25c5103fae2f836d25e91]: Textual amendment: Words in [reg. 4.A.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.A.2) omitted (1.10.2009) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [95(b)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/95/b)

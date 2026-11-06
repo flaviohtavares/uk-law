@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Duty to monitor financial thresholds[^key-85257804bfa6e701b9f00525d5ebcff5]
+## 71. Duty to monitor financial thresholds[^c-85257804bfa6e701b9f00525d5ebcff5]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85257804bfa6e701b9f00525d5ebcff5]: Commencement: S. 71 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-85257804bfa6e701b9f00525d5ebcff5]: Commencement: S. 71 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

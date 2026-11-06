@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 757B. Relevant amount to be treated as income[^key-a2650d3141988d8efc586b9df4c75852]
+## 757B. Relevant amount to be treated as income[^c-a2650d3141988d8efc586b9df4c75852]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ this Chapter is not to apply in relation to the disposal.
 
 ## Annotations
 
-[^key-a2650d3141988d8efc586b9df4c75852]: Textual amendment: [Pt. 16 Ch. 1A](https://www.legislation.gov.uk/ukpga/2010/4/part/16/chapter/1A) inserted (with effect in accordance with Sch. 17 para. 28(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 28(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/28/1)
+[^c-a2650d3141988d8efc586b9df4c75852]: Textual amendment: [Pt. 16 Ch. 1A](https://www.legislation.gov.uk/ukpga/2010/4/part/16/chapter/1A) inserted (with effect in accordance with Sch. 17 para. 28(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 28(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/28/1)

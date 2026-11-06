@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Steps to be taken for each identified hazard[^key-31d1606e6707311214fbe8d151d9d074]
+## 28. Steps to be taken for each identified hazard[^c-31d1606e6707311214fbe8d151d9d074]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31d1606e6707311214fbe8d151d9d074]: Commencement: Reg. 28 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-31d1606e6707311214fbe8d151d9d074]: Commencement: Reg. 28 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

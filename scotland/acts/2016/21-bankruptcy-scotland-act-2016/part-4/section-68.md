@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Review of determination or appointment under section 66[^key-3fc9d634ec7c21a8dd56c336b1a50b6f]
+## 68. Review of determination or appointment under section 66[^c-3fc9d634ec7c21a8dd56c336b1a50b6f]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fc9d634ec7c21a8dd56c336b1a50b6f]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2016/21/section/68) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-3fc9d634ec7c21a8dd56c336b1a50b6f]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2016/21/section/68) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

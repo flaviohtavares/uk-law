@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Direct award in special cases[^key-0d214cce40d50f0da6ab43db82399a7c][^key-ec6dff3b5518337faff1258846630b11]
+## 41. Direct award in special cases[^c-0d214cce40d50f0da6ab43db82399a7c][^c-ec6dff3b5518337faff1258846630b11]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d214cce40d50f0da6ab43db82399a7c]: Commencement: S. 41 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-0d214cce40d50f0da6ab43db82399a7c]: Commencement: S. 41 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-ec6dff3b5518337faff1258846630b11]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/54/section/41) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (with [regs. 4](https://www.legislation.gov.uk/uksi/2024/716/regulation/4), [6](https://www.legislation.gov.uk/uksi/2024/716/regulation/6), [9](https://www.legislation.gov.uk/uksi/2024/716/regulation/9)) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-ec6dff3b5518337faff1258846630b11]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/54/section/41) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (with [regs. 4](https://www.legislation.gov.uk/uksi/2024/716/regulation/4), [6](https://www.legislation.gov.uk/uksi/2024/716/regulation/6), [9](https://www.legislation.gov.uk/uksi/2024/716/regulation/9)) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

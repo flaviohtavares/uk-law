@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Orders and regulations[^key-be9149e3c293e4743652c9ca5ae11d0a]
+## 68. Orders and regulations[^c-be9149e3c293e4743652c9ca5ae11d0a]
 
 *Extent: S*
 
@@ -38,12 +38,12 @@ summary: ''
 
 of this Act.
 
-(4) No regulations are to be made under subsection (1) of section 21A of this Act that make modifications such as are mentioned in subsection (3)(c) of that section, or under[^key-1b921060ca5e318ddcb2567bc5f55363] section 31(4)(c) of this Act and no order is to be made under section 46F(1) of this Act,[^key-b2a248c54e0730fcefe844f30e18c511] unless a draft has been laid before, and approved by resolution of, the Parliament.
+(4) No regulations are to be made under subsection (1) of section 21A of this Act that make modifications such as are mentioned in subsection (3)(c) of that section, or under[^c-1b921060ca5e318ddcb2567bc5f55363] section 31(4)(c) of this Act and no order is to be made under section 46F(1) of this Act,[^c-b2a248c54e0730fcefe844f30e18c511] unless a draft has been laid before, and approved by resolution of, the Parliament.
 
 ## Annotations
 
-[^key-be9149e3c293e4743652c9ca5ae11d0a]: Commencement: S. 68 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-be9149e3c293e4743652c9ca5ae11d0a]: Commencement: S. 68 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-1b921060ca5e318ddcb2567bc5f55363]: Textual amendment: Words in s. 68(4) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 26(4)](https://www.legislation.gov.uk/asp/2013/7/section/26/4), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-1b921060ca5e318ddcb2567bc5f55363]: Textual amendment: Words in s. 68(4) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 26(4)](https://www.legislation.gov.uk/asp/2013/7/section/26/4), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-b2a248c54e0730fcefe844f30e18c511]: Textual amendment: Words in s. 68(4) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 24(4)](https://www.legislation.gov.uk/asp/2013/7/section/24/4), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-b2a248c54e0730fcefe844f30e18c511]: Textual amendment: Words in s. 68(4) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 24(4)](https://www.legislation.gov.uk/asp/2013/7/section/24/4), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

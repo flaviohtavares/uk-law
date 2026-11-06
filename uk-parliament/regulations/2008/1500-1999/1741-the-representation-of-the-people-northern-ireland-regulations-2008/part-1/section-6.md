@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Electronic signatures and related certificates[^key-fc6ea0399f1b186f0e821cb20496e00d][^key-5f728101d56c398035017afa2584a682]
+## 6. Electronic signatures and related certificates[^c-fc6ea0399f1b186f0e821cb20496e00d][^c-5f728101d56c398035017afa2584a682]
 
 *Extent: N.I.*
 
-(1) A requirement in these Regulations for an application (other than an application under regulation 13 [^key-0121651e2bdf1b07859e0f9453108ba2]... or 55), notice, representation or objection to be signed is satisfied (as an alternative to a signature given by hand) where there is—
+(1) A requirement in these Regulations for an application (other than an application under regulation 13 [^c-0121651e2bdf1b07859e0f9453108ba2]... or 55), notice, representation or objection to be signed is satisfied (as an alternative to a signature given by hand) where there is—
 
 - (a) an electronic signature incorporated into or otherwise logically associated with a particular electronic communication; and
 - (b) the certification by any person of such a signature.
@@ -40,8 +40,8 @@ is (either alone or in combination with other factors) a valid means of establis
 
 ## Annotations
 
-[^key-fc6ea0399f1b186f0e821cb20496e00d]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/1741/regulation/6) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 67(c)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/67/c)
+[^c-fc6ea0399f1b186f0e821cb20496e00d]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/1741/regulation/6) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 67(c)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/67/c)
 
-[^key-5f728101d56c398035017afa2584a682]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/1741/regulation/6) applied (6.7.2020) by [The Representation of the People (Form of Canvass) (Northern Ireland) Regulations 2020 (S.I. 2020/580)](https://www.legislation.gov.uk/uksi/2020/580), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/580/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2020/580/regulation/4/6)
+[^c-5f728101d56c398035017afa2584a682]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2008/1741/regulation/6) applied (6.7.2020) by [The Representation of the People (Form of Canvass) (Northern Ireland) Regulations 2020 (S.I. 2020/580)](https://www.legislation.gov.uk/uksi/2020/580), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/580/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2020/580/regulation/4/6)
 
-[^key-0121651e2bdf1b07859e0f9453108ba2]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/6/1) omitted (31.5.2018) by virtue of [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2018/699/regulation/15/1)
+[^c-0121651e2bdf1b07859e0f9453108ba2]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/6/1) omitted (31.5.2018) by virtue of [The Representation of the People (Electronic Communications and Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/699)](https://www.legislation.gov.uk/uksi/2018/699), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/699/regulation/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2018/699/regulation/15/1)

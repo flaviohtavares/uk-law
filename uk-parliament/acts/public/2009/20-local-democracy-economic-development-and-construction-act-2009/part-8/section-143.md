@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Notices relating to payment[^key-cccdcd3050189a7047e5734abb64d5c3][^key-ac38a53c700a4d6b1c481ed98f84fd20][^key-d988164dc6ba623faf928c2779a35ad1]
+## 143. Notices relating to payment[^c-cccdcd3050189a7047e5734abb64d5c3][^c-ac38a53c700a4d6b1c481ed98f84fd20][^c-d988164dc6ba623faf928c2779a35ad1]
 
 *Extent: E+W+S*
 
@@ -83,8 +83,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cccdcd3050189a7047e5734abb64d5c3]: Commencement: S. 143 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
+[^c-cccdcd3050189a7047e5734abb64d5c3]: Commencement: S. 143 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
 
-[^key-ac38a53c700a4d6b1c481ed98f84fd20]: Commencement: S. 143 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/b)
+[^c-ac38a53c700a4d6b1c481ed98f84fd20]: Commencement: S. 143 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/b)
 
-[^key-d988164dc6ba623faf928c2779a35ad1]: Commencement: S. 143 in force at 1.11.2011 for S. by [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2)
+[^c-d988164dc6ba623faf928c2779a35ad1]: Commencement: S. 143 in force at 1.11.2011 for S. by [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2)

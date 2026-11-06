@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 123. Articles 120 to 122: supplementary[^key-f3932c080af13f4969d959a3a4c25bf2]
+## 123. Articles 120 to 122: supplementary[^c-f3932c080af13f4969d959a3a4c25bf2]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3932c080af13f4969d959a3a4c25bf2]: Commencement: [Art. 123](https://www.legislation.gov.uk/nisi/2015/2006/article/123) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(h)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/h)
+[^c-f3932c080af13f4969d959a3a4c25bf2]: Commencement: [Art. 123](https://www.legislation.gov.uk/nisi/2015/2006/article/123) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(h)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/h)

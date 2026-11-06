@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19A. Regulator’s notices: description of work and connection[^key-ff1846bb554b2575257022f50443168e]
+## 19A. Regulator’s notices: description of work and connection[^c-ff1846bb554b2575257022f50443168e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ For the purposes of section 91ZB(1) of the Act, a regulator’s notice may be gi
 
 ## Annotations
 
-[^key-ff1846bb554b2575257022f50443168e]: Textual amendment: [Regs. 19A-19F](https://www.legislation.gov.uk/uksi/2010/2214/regulation/19A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/911/regulation/11) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-ff1846bb554b2575257022f50443168e]: Textual amendment: [Regs. 19A-19F](https://www.legislation.gov.uk/uksi/2010/2214/regulation/19A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/911/regulation/11) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))

@@ -47,10 +47,10 @@ summary: ''
 
 (4) Subsection (1) above applies to transfers made on or after 17th March 1998.
 
-(5) Subsections (2) and (3) above apply to a company in respect of which an approval for the purposes of Part 6 of the Income Tax Act 2007[^key-3f11e77ef7a71e7fcd94ec624db9c8a8] (venture capital trusts) has effect as from a time falling on or after 17th March 1998.
+(5) Subsections (2) and (3) above apply to a company in respect of which an approval for the purposes of Part 6 of the Income Tax Act 2007[^c-3f11e77ef7a71e7fcd94ec624db9c8a8] (venture capital trusts) has effect as from a time falling on or after 17th March 1998.
 
 ## Annotations
 
 [^c16422321]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-3f11e77ef7a71e7fcd94ec624db9c8a8]: Textual amendment: Words in [s. 134(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/134/5) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 382](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/382) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-3f11e77ef7a71e7fcd94ec624db9c8a8]: Textual amendment: Words in [s. 134(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/134/5) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 382](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/382) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

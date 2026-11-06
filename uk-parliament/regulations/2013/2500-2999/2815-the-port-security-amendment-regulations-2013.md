@@ -50,15 +50,15 @@ The Secretary of State for Transport makes these regulations in exercise of the 
 
 The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to port security[^f00002], to measures relating to the safety of ships and the health and safety of persons on them[^f00003] and to measures relating to maritime transport[^f00004].
 
-## 1. Citation and commencement[^key-4dbdfebbefacdffa37d8753c11da1a75]
+## 1. Citation and commencement[^c-4dbdfebbefacdffa37d8753c11da1a75]
 
 These regulations may be cited as the Port Security (Amendment) Regulations 2013 and come into force on 29th November 2013.
 
-## 2. Amendment of the Port Security Regulations 2009[^key-47587fb6c2f19ee9576744e2f7c1ea61]
+## 2. Amendment of the Port Security Regulations 2009[^c-47587fb6c2f19ee9576744e2f7c1ea61]
 
 The Port Security Regulations 2009[^f00005] are amended as follows.
 
-## 3. Amendment of regulation 2[^key-7ed0a4ddf293b30e14894ac51ec1b3e1]
+## 3. Amendment of regulation 2[^c-7ed0a4ddf293b30e14894ac51ec1b3e1]
 
 In regulation 2 (interpretation)—
 
@@ -83,7 +83,7 @@ In regulation 2 (interpretation)—
 
   .
 
-## 4. Substitution of regulation 3[^key-73bd056de996e873c726d03551df2b36]
+## 4. Substitution of regulation 3[^c-73bd056de996e873c726d03551df2b36]
 
 For regulation 3 (application of the regulations), substitute—
 
@@ -105,7 +105,7 @@ For regulation 3 (application of the regulations), substitute—
 
 .
 
-## 5. New regulation 3A[^key-539dcb6bfb4d84207004a86573aabb45]
+## 5. New regulation 3A[^c-539dcb6bfb4d84207004a86573aabb45]
 
 After regulation 3, insert—
 
@@ -133,18 +133,18 @@ After regulation 3, insert—
 
 .
 
-## 6. Revocation of regulation 14[^key-12349bcc3785fa17e406252638490795]
+## 6. Revocation of regulation 14[^c-12349bcc3785fa17e406252638490795]
 
 Regulation 14 (port security assessment) is revoked.
 
-## 7. Amendment of regulation 15[^key-42dd97b887ee55f05e0339568cdb46fc]
+## 7. Amendment of regulation 15[^c-42dd97b887ee55f05e0339568cdb46fc]
 
 In regulation 15 (port security plan), in paragraph (5)—
 
 - (a) omit “for a port”; and
 - (b) for “the port security plan for that port” substitute “the port security plan for the port to which that assessment relates”.
 
-## 8. Amendment of regulation 18[^key-1123baf2de1dfcf972070132d6aae20b]
+## 8. Amendment of regulation 18[^c-1123baf2de1dfcf972070132d6aae20b]
 
 (1) Regulation 18 (review of port security assessment and port security plan) is amended as follows.
 
@@ -168,11 +168,11 @@ In regulation 15 (port security plan), in paragraph (5)—
 
 .
 
-## 9. Amendment of regulation 38[^key-9994187ed31cb50ce7f30b1faee86a69]
+## 9. Amendment of regulation 38[^c-9994187ed31cb50ce7f30b1faee86a69]
 
 In regulation 38 (designation of Secretary of State as focal point for port security), omit paragraph (2).
 
-## 10. Review clause[^key-cc52ec8daaf86940431f2ea61cc352e0]
+## 10. Review clause[^c-cc52ec8daaf86940431f2ea61cc352e0]
 
 After regulation 38, insert—
 
@@ -198,7 +198,7 @@ After regulation 38, insert—
 
 .
 
-## 11. Amendment of Schedule 3[^key-776738c5524353109829ba6088ab449d]
+## 11. Amendment of Schedule 3[^c-776738c5524353109829ba6088ab449d]
 
 (1) Schedule 3 (port security assessment) is amended as follows.
 
@@ -280,28 +280,28 @@ A transposition note was prepared in relation to the Regulations when they were 
 
 [^f00004]: Footnote: [S.I. 1994/757](https://www.legislation.gov.uk/uksi/1994/757).
 
-[^key-4dbdfebbefacdffa37d8753c11da1a75]: Commencement: Reg. 1 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
+[^c-4dbdfebbefacdffa37d8753c11da1a75]: Commencement: Reg. 1 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
 
-[^key-47587fb6c2f19ee9576744e2f7c1ea61]: Commencement: Reg. 2 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
+[^c-47587fb6c2f19ee9576744e2f7c1ea61]: Commencement: Reg. 2 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2009/2048](https://www.legislation.gov.uk/uksi/2009/2048).
 
-[^key-7ed0a4ddf293b30e14894ac51ec1b3e1]: Commencement: Reg. 3 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
+[^c-7ed0a4ddf293b30e14894ac51ec1b3e1]: Commencement: Reg. 3 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
 
 [^f00006]: Footnote: O.J. No. L 310, 25.11.2005, p 28.
 
-[^key-73bd056de996e873c726d03551df2b36]: Commencement: Reg. 4 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
+[^c-73bd056de996e873c726d03551df2b36]: Commencement: Reg. 4 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
 
-[^key-539dcb6bfb4d84207004a86573aabb45]: Commencement: Reg. 5 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
+[^c-539dcb6bfb4d84207004a86573aabb45]: Commencement: Reg. 5 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
 
-[^key-12349bcc3785fa17e406252638490795]: Commencement: Reg. 6 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
+[^c-12349bcc3785fa17e406252638490795]: Commencement: Reg. 6 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
 
-[^key-42dd97b887ee55f05e0339568cdb46fc]: Commencement: Reg. 7 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
+[^c-42dd97b887ee55f05e0339568cdb46fc]: Commencement: Reg. 7 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
 
-[^key-1123baf2de1dfcf972070132d6aae20b]: Commencement: Reg. 8 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
+[^c-1123baf2de1dfcf972070132d6aae20b]: Commencement: Reg. 8 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
 
-[^key-9994187ed31cb50ce7f30b1faee86a69]: Commencement: Reg. 9 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
+[^c-9994187ed31cb50ce7f30b1faee86a69]: Commencement: Reg. 9 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
 
-[^key-cc52ec8daaf86940431f2ea61cc352e0]: Commencement: Reg. 10 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
+[^c-cc52ec8daaf86940431f2ea61cc352e0]: Commencement: Reg. 10 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
 
-[^key-776738c5524353109829ba6088ab449d]: Commencement: Reg. 11 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)
+[^c-776738c5524353109829ba6088ab449d]: Commencement: Reg. 11 in force at 29.11.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2815/regulation/1)

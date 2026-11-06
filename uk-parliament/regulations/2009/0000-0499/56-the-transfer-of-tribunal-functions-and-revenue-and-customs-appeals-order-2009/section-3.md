@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Transfer of functions, consequential and other amendments[^key-96bfb1173c7ce1a5c8a4d9cb6a61de2d]
+## 3. Transfer of functions, consequential and other amendments[^c-96bfb1173c7ce1a5c8a4d9cb6a61de2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96bfb1173c7ce1a5c8a4d9cb6a61de2d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/56/article/3) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-96bfb1173c7ce1a5c8a4d9cb6a61de2d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/56/article/3) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Compensation for loss or damage caused by interim protection[^key-1a710a29661ff063471aa9037d7ceaef][^key-e8d75900472d994da970a0e0c7a53d59]
+## 80. Compensation for loss or damage caused by interim protection[^c-1a710a29661ff063471aa9037d7ceaef][^c-e8d75900472d994da970a0e0c7a53d59]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a710a29661ff063471aa9037d7ceaef]: Commencement: S. 80 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-1a710a29661ff063471aa9037d7ceaef]: Commencement: S. 80 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-e8d75900472d994da970a0e0c7a53d59]: Commencement: [S. 80](https://www.legislation.gov.uk/asc/2023/3/section/80) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-e8d75900472d994da970a0e0c7a53d59]: Commencement: [S. 80](https://www.legislation.gov.uk/asc/2023/3/section/80) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

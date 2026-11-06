@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Valuation of shootings and deer forests[^key-0757b39b87fee50db9dc79aec7a00cab]
+## 1A. Valuation of shootings and deer forests[^c-0757b39b87fee50db9dc79aec7a00cab]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ that area.
 
 ## Annotations
 
-[^key-0757b39b87fee50db9dc79aec7a00cab]: Textual amendment: S. 1A inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 75(2)](https://www.legislation.gov.uk/asp/2016/18/section/75/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))
+[^c-0757b39b87fee50db9dc79aec7a00cab]: Textual amendment: S. 1A inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 75(2)](https://www.legislation.gov.uk/asp/2016/18/section/75/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))

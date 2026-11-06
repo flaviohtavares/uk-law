@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Abandonment expenditure: former participator reimbursed by defaulter[^key-9807e181c57dc92340cdb7f4e5bd16df]
+## 105. Abandonment expenditure: former participator reimbursed by defaulter[^c-9807e181c57dc92340cdb7f4e5bd16df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9807e181c57dc92340cdb7f4e5bd16df]: Textual amendment: [S. 105](https://www.legislation.gov.uk/ukpga/2008/9/section/105) omitted (17.7.2013) (with effect in accordance with Sch. 31 para. 23 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 12](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/12)
+[^c-9807e181c57dc92340cdb7f4e5bd16df]: Textual amendment: [S. 105](https://www.legislation.gov.uk/ukpga/2008/9/section/105) omitted (17.7.2013) (with effect in accordance with Sch. 31 para. 23 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 12](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/12)

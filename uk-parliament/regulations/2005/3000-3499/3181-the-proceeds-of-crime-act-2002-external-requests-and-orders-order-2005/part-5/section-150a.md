@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150A. Receivers in connection with property freezing orders[^key-58412aa4afafb2373e0e1a242798d8d9]
+## 150A. Receivers in connection with property freezing orders[^c-58412aa4afafb2373e0e1a242798d8d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58412aa4afafb2373e0e1a242798d8d9]: Textual amendment: [Arts. 150A-150C](https://www.legislation.gov.uk/uksi/2005/3181/article/150A) inserted (6.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/302/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2008/302/article/3/1)
+[^c-58412aa4afafb2373e0e1a242798d8d9]: Textual amendment: [Arts. 150A-150C](https://www.legislation.gov.uk/uksi/2005/3181/article/150A) inserted (6.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/302/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2008/302/article/3/1)

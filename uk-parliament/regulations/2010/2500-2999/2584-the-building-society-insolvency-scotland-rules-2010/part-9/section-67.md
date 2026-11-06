@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Resignation[^key-27f6112039afd4c20c11af515ab0517f]
+## 67. Resignation[^c-27f6112039afd4c20c11af515ab0517f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.49 of the 1986 Rules.
 
 ## Annotations
 
-[^key-27f6112039afd4c20c11af515ab0517f]: Commencement: Rule 67 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-27f6112039afd4c20c11af515ab0517f]: Commencement: Rule 67 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

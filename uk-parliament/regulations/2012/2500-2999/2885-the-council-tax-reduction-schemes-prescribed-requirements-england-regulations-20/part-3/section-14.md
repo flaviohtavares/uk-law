@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Provision for pensioners[^key-b6b03337720c838dc344cbbd22050df1]
+## 14. Provision for pensioners[^c-b6b03337720c838dc344cbbd22050df1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6b03337720c838dc344cbbd22050df1]: Commencement: Reg. 14 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-b6b03337720c838dc344cbbd22050df1]: Commencement: Reg. 14 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)

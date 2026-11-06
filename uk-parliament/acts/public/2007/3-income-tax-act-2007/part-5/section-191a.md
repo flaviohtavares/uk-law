@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191A. Meaning of “permanent establishment”[^key-4b601cebb5345e8757fc311bcccb67c2]
+## 191A. Meaning of “permanent establishment”[^c-4b601cebb5345e8757fc311bcccb67c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b601cebb5345e8757fc311bcccb67c2]: Textual amendment: S. 191A inserted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(1), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/1/5); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-4b601cebb5345e8757fc311bcccb67c2]: Textual amendment: S. 191A inserted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(1), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/1/5); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)

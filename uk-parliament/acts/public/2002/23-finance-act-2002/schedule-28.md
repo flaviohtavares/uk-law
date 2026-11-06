@@ -22,7 +22,7 @@ summary: ''
 
 Section 83
 
-### 1. Anti-avoidance: change of accounting period[^key-13884d06d1ef4b39e91ed644856c13ab]
+### 1. Anti-avoidance: change of accounting period[^c-13884d06d1ef4b39e91ed644856c13ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -36,9 +36,9 @@ Section 83
 
 (4) To the extent that amounts have been brought into account in computing, in accordance with Chapter 2 of Part 4 of the Finance Act 1994, the profits or losses accruing to the company from the contract in an old period of the company, they shall not be brought into account again by the company as credits or debits given in respect of that contract for the first new period or any subsequent accounting period of the company by Schedule 26.
 
-(4A)[^key-b0e0e1d93f0d7a62ee48a8d51baaaa05] In relation to a subsequent accounting period ending on or after 1 April 2009, the reference in sub-paragraph (4) to Schedule 26 is to be read as a reference to Part 7 of the Corporation Tax Act 2009.
+(4A)[^c-b0e0e1d93f0d7a62ee48a8d51baaaa05] In relation to a subsequent accounting period ending on or after 1 April 2009, the reference in sub-paragraph (4) to Schedule 26 is to be read as a reference to Part 7 of the Corporation Tax Act 2009.
 
-### 3. Qualifying contracts which become derivative contracts[^key-012878db9462200fe86d652a52a64cc3]
+### 3. Qualifying contracts which become derivative contracts[^c-012878db9462200fe86d652a52a64cc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -64,7 +64,7 @@ Section 83
 
 (7) The company may elect that a debit representing the amount of any allowable loss, which under sub-paragraph (5) is to be brought into account for the accounting period in which it ceases to be a party to the contract, shall be brought into account for that accounting period as if it were a non-trading debit falling to be brought into account for the purposes of Chapter 2 of Part 4 of the Finance Act 1996 (c. 8) in respect of a loan relationship of the company.
 
-(7A)[^key-7a14c5b127d1a4a71ceb73ae24243bb5] In relation to an accounting period ending on or after 1 April 2009, the reference in sub-paragraph (7) to Chapter 2 of Part 4 of the Finance Act 1996 is to be read as a reference to Part 5 of the Corporation Tax Act 2009.
+(7A)[^c-7a14c5b127d1a4a71ceb73ae24243bb5] In relation to an accounting period ending on or after 1 April 2009, the reference in sub-paragraph (7) to Chapter 2 of Part 4 of the Finance Act 1996 is to be read as a reference to Part 5 of the Corporation Tax Act 2009.
 
 (8) An election under sub-paragraph (7) may only be made within the period of two years following the end of the accounting period in which the company ceases to be a party to the contract.
 
@@ -107,7 +107,7 @@ and sub-paragraphs (4) to (6) of that paragraph shall apply to a creditor relati
 
 (9) The company may elect that a debit representing the amount of any allowable loss, which under sub-paragraph (7) is to be brought into account for the accounting period in which it ceases to be a party to the contract, shall be brought into account for that accounting period as if it were a non-trading debit falling to be brought into account for the purposes of Chapter 2 of Part 4 of the Finance Act 1996 (c. 8) in respect of a loan relationship of the company.
 
-(9A)[^key-90b0d66c2f15d3ca7cb8287ac812a17b] In relation to an accounting period ending on or after 1 April 2009, the reference in sub-paragraph (9) to Chapter 2 of Part 4 of the Finance Act 1996 is to be read as a reference to Part 5 of the Corporation Tax Act 2009.
+(9A)[^c-90b0d66c2f15d3ca7cb8287ac812a17b] In relation to an accounting period ending on or after 1 April 2009, the reference in sub-paragraph (9) to Chapter 2 of Part 4 of the Finance Act 1996 is to be read as a reference to Part 5 of the Corporation Tax Act 2009.
 
 (10) An election under sub-paragraph (9) may only be made within the period of two years following the end of the accounting period in which the company ceases to be a party to the contract.
 
@@ -141,7 +141,7 @@ and sub-paragraphs (4) to (6) of that paragraph shall apply to a creditor relati
 
 less the amount of any credits given by Schedule 26 in respect of the contract for those accounting periods.
 
-(8A)[^key-5c11f32884bc1c2e00a78523333fd44d] In relation to an accounting period ending on or after 1 April 2009—
+(8A)[^c-5c11f32884bc1c2e00a78523333fd44d] In relation to an accounting period ending on or after 1 April 2009—
 
 - (a) the reference in sub-paragraph (7) to paragraph 14(3) of Schedule 26 is to be read as a reference to section 574 of the Corporation Tax Act 2009,
 - (b) the reference in that sub-paragraph to Chapter 2 of Part 4 of the Finance Act 1996 is to be read as a reference to Part 5 of the Corporation Tax Act 2009, and
@@ -159,14 +159,14 @@ For the purposes of this Schedule—
 
 [^M_C_80c09850-a086-4883-ac7b-1c314d00b70d]: Modification: Sch. 28 extended (retrospective to 30.9.2002) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 177(6)-(8)(11)](https://www.legislation.gov.uk/ukpga/2003/14/section/177/6)
 
-[^key-13884d06d1ef4b39e91ed644856c13ab]: Textual amendment: [Sch. 28 para. 1](https://www.legislation.gov.uk/ukpga/2002/23/schedule/28/paragraph/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 544(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/544/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-13884d06d1ef4b39e91ed644856c13ab]: Textual amendment: [Sch. 28 para. 1](https://www.legislation.gov.uk/ukpga/2002/23/schedule/28/paragraph/1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 544(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/544/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-b0e0e1d93f0d7a62ee48a8d51baaaa05]: Textual amendment: [Sch. 28 para. 2(4A)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/28/paragraph/2/4A) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 544(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/544/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-b0e0e1d93f0d7a62ee48a8d51baaaa05]: Textual amendment: [Sch. 28 para. 2(4A)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/28/paragraph/2/4A) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 544(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/544/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-012878db9462200fe86d652a52a64cc3]: Textual amendment: [Sch. 28 para. 3](https://www.legislation.gov.uk/ukpga/2002/23/schedule/28/paragraph/3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 544(4)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/544/4), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-012878db9462200fe86d652a52a64cc3]: Textual amendment: [Sch. 28 para. 3](https://www.legislation.gov.uk/ukpga/2002/23/schedule/28/paragraph/3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 544(4)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/544/4), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-7a14c5b127d1a4a71ceb73ae24243bb5]: Textual amendment: [Sch. 28 para. 4(7A)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/28/paragraph/4/7A) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 544(5)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/544/5) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-7a14c5b127d1a4a71ceb73ae24243bb5]: Textual amendment: [Sch. 28 para. 4(7A)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/28/paragraph/4/7A) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 544(5)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/544/5) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-90b0d66c2f15d3ca7cb8287ac812a17b]: Textual amendment: [Sch. 28 para. 5(9A)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/28/paragraph/5/9A) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 544(6)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/544/6) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-90b0d66c2f15d3ca7cb8287ac812a17b]: Textual amendment: [Sch. 28 para. 5(9A)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/28/paragraph/5/9A) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 544(6)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/544/6) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-5c11f32884bc1c2e00a78523333fd44d]: Textual amendment: [Sch. 28 para. 6(8A)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/28/paragraph/6/8A) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 544(7)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/544/7) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-5c11f32884bc1c2e00a78523333fd44d]: Textual amendment: [Sch. 28 para. 6(8A)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/28/paragraph/6/8A) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 544(7)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/544/7) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -38,7 +38,7 @@ In section 11 (rebate on heavy oil), after subsection (5) insert—
 
 .
 
-### 4. Repayment of duty in case of biodiesel used otherwise than as road fuel[^key-879da387baa5cc6dbbfdb49392f84ad9]
+### 4. Repayment of duty in case of biodiesel used otherwise than as road fuel[^c-879da387baa5cc6dbbfdb49392f84ad9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -133,4 +133,4 @@ and
 
 ## Annotations
 
-[^key-879da387baa5cc6dbbfdb49392f84ad9]: Textual amendment: Sch. 2 para. 4 omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(d)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/d/ii), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-879da387baa5cc6dbbfdb49392f84ad9]: Textual amendment: Sch. 2 para. 4 omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 25(d)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/d/ii), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)

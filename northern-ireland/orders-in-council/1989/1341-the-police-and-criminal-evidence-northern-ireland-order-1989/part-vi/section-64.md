@@ -40,7 +40,7 @@ the fingerprints , impressions of footwear or samples may be retained after they
 
 (1BA)[^c20429391][^c21390811][^c20427991] Fingerprints taken from a person by virtue of Article 61(6A) must be destroyed as soon as they have fulfilled the purpose for which they were taken.
 
-(3)[^c20429391][^c21390811][^key-6724d55f9eb60b64c090b7863899cd3e][^key-fee355a479e52986dddf5ffd3b678e2b] If—
+(3)[^c20429391][^c21390811][^c-6724d55f9eb60b64c090b7863899cd3e][^c-fee355a479e52986dddf5ffd3b678e2b] If—
 
 - (a) fingerprints , impressions of footwear[^c20428711] or samples are taken from a person in connection with the investigation of an offence; and
 - (b) that person is not suspected of having committed the offence,
@@ -88,7 +88,7 @@ such a certificate shall be issued to him not later than the end of the period o
 (8) Nothing in this Article—
 
 - (a) affects any power conferred by paragraph 18(2) of Schedule 2 to the Immigration Act 1971[^c17130391] or section 20 of the Immigration and Asylum Act 1999 (c. 33) (disclosure of police information to the Secretary of State for use for immigration purposes);; or
-- (b) applies to a person arrested or detained under the terrorism provisions or under section 27 of the National Security Act 2023[^key-176e7c45254e808972d1a7a84399da26].
+- (b) applies to a person arrested or detained under the terrorism provisions or under section 27 of the National Security Act 2023[^c-176e7c45254e808972d1a7a84399da26].
 
 ## Annotations
 
@@ -106,9 +106,9 @@ such a certificate shall be issued to him not later than the end of the period o
 
 [^c20427991]: Textual amendment: Art. 64(1BA) inserted (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [35(4)](https://www.legislation.gov.uk/nisi/2007/288/article/35/4)
 
-[^key-6724d55f9eb60b64c090b7863899cd3e]: Modification: Art. 64(3) modified (2.4.2020) by [The Coronavirus (Retention of Fingerprints and DNA Profiles in the Interests of National Security) Regulations 2020 (S.I. 2020/391)](https://www.legislation.gov.uk/uksi/2020/391), [regs. 1](https://www.legislation.gov.uk/uksi/2020/391/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/391/regulation/4/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/391/regulation/5))
+[^c-6724d55f9eb60b64c090b7863899cd3e]: Modification: Art. 64(3) modified (2.4.2020) by [The Coronavirus (Retention of Fingerprints and DNA Profiles in the Interests of National Security) Regulations 2020 (S.I. 2020/391)](https://www.legislation.gov.uk/uksi/2020/391), [regs. 1](https://www.legislation.gov.uk/uksi/2020/391/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/391/regulation/4/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/391/regulation/5))
 
-[^key-fee355a479e52986dddf5ffd3b678e2b]: Modification: Art. 64(3) modified (1.10.2020) by [The Coronavirus (Retention of Fingerprints and DNA Profiles in the Interests of National Security) (No. 2) Regulations 2020 (S.I. 2020/973)](https://www.legislation.gov.uk/uksi/2020/973), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/973/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/973/regulation/4/3/b)[(4)](https://www.legislation.gov.uk/uksi/2020/973/regulation/4/4)
+[^c-fee355a479e52986dddf5ffd3b678e2b]: Modification: Art. 64(3) modified (1.10.2020) by [The Coronavirus (Retention of Fingerprints and DNA Profiles in the Interests of National Security) (No. 2) Regulations 2020 (S.I. 2020/973)](https://www.legislation.gov.uk/uksi/2020/973), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/973/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/973/regulation/4/3/b)[(4)](https://www.legislation.gov.uk/uksi/2020/973/regulation/4/4)
 
 [^c20428711]: Textual amendment: Words in art. 64(3) inserted (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [35(5)](https://www.legislation.gov.uk/nisi/2007/288/article/35/5)
 
@@ -142,4 +142,4 @@ such a certificate shall be issued to him not later than the end of the period o
 
 [^c17130391]: Textual amendment: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77)
 
-[^key-176e7c45254e808972d1a7a84399da26]: Textual amendment: Words in [art. 64(8)(b)](https://www.legislation.gov.uk/nisi/1989/1341/article/64/8/b) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 5(9)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/5/9) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
+[^c-176e7c45254e808972d1a7a84399da26]: Textual amendment: Words in [art. 64(8)(b)](https://www.legislation.gov.uk/nisi/1989/1341/article/64/8/b) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 5(9)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/5/9) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)

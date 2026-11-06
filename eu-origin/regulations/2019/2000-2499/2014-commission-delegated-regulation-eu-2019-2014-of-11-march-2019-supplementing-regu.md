@@ -112,7 +112,7 @@ Delegated Regulation (EU) No 1061/2010 and Directive 96/60/EC should be repealed
 
 HAS ADOPTED THIS REGULATION:
 
-## Article 1. Subject matter and scope[^key-1d715802600dde439ed8ddbd51a0f63f]
+## Article 1. Subject matter and scope[^c-1d715802600dde439ed8ddbd51a0f63f]
 
 1. This Regulation establishes requirements for the labelling of, and the provision of supplementary product information on, electric mains-operated household washing machines and electric mains-operated household washer-dryers including those which can also be powered by batteries, and including built-in household washing machines and built-in household washer-dryers.
 
@@ -122,7 +122,7 @@ HAS ADOPTED THIS REGULATION:
 - (b) battery-operated household washing machines and battery-operated household washer-dryers that can be connected to the mains through an AC/DC converter purchased separately;
 - (c) household washing machines with a rated capacity lower than 2 kg and household washer-dryers with a rated washing capacity lower than or equal to 2 kg.
 
-## Article 2. Definitions[^key-0301c4e123118f29be80d99a1fc9950c]
+## Article 2. Definitions[^c-0301c4e123118f29be80d99a1fc9950c]
 
 For the purposes of this Regulation, the following definitions shall apply:
 
@@ -144,22 +144,22 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 For the purposes of the annexes, additional definitions are set out in Annex I.
 
-## Article 3. Obligations of suppliers[^key-c83321ebd26bcde8fbaa7a7c1d58ad1c]
+## Article 3. Obligations of suppliers[^c-c83321ebd26bcde8fbaa7a7c1d58ad1c]
 
 1. Suppliers shall ensure that:
 
 - (a) each household washing machine and household washer-dryer is supplied with a printed label in the format as set out in Annex III and, for a multi-drum household washing machine or a multi-drum household washer-dryer, in accordance with Annex X;
-- (b) the parameters of the product information sheet, as set out in Annex V, are made available for inspection in accordance with Article 4(2) of the Framework Regulation[^key-a66ccf3703f5ab386ce5c3741776c3fe];
-- (c)[^key-4f357c2b6fb3cb4811971327b88f1480] if specifically requested by the dealer of household washing machines and household washer-dryers, the product information sheet shall be made available in printed form;
-- (d)[^key-4f357c2b6fb3cb4811971327b88f1480] the content of the technical documentation, set out in Annex VI, is entered into the product database;
-- (e)[^key-4f357c2b6fb3cb4811971327b88f1480] any visual advertisement for a specific model of household washing machine or household washer-dryer contains the energy efficiency class and the range of energy efficiency classes available on the label in accordance with Annex VII and Annex VIII;
-- (f)[^key-4f357c2b6fb3cb4811971327b88f1480] any technical promotional material concerning a specific model of household washing machine or household washer-dryer, including on the internet, which describes its specific technical parameters includes the energy efficiency class of that model and the range of energy efficiency classes available on the label, in accordance with Annex VII;
-- (g)[^key-4f357c2b6fb3cb4811971327b88f1480] an electronic label in the format and containing the information as set out in Annex III is made available to dealers for each model of household washing machine and of household washer-dryer;
-- (h)[^key-4f357c2b6fb3cb4811971327b88f1480] an electronic product information sheet, as set out in Annex V, is made available to dealers for each model of household washing machine and of household washer-dryer.
+- (b) the parameters of the product information sheet, as set out in Annex V, are made available for inspection in accordance with Article 4(2) of the Framework Regulation[^c-a66ccf3703f5ab386ce5c3741776c3fe];
+- (c)[^c-4f357c2b6fb3cb4811971327b88f1480] if specifically requested by the dealer of household washing machines and household washer-dryers, the product information sheet shall be made available in printed form;
+- (d)[^c-4f357c2b6fb3cb4811971327b88f1480] the content of the technical documentation, set out in Annex VI, is entered into the product database;
+- (e)[^c-4f357c2b6fb3cb4811971327b88f1480] any visual advertisement for a specific model of household washing machine or household washer-dryer contains the energy efficiency class and the range of energy efficiency classes available on the label in accordance with Annex VII and Annex VIII;
+- (f)[^c-4f357c2b6fb3cb4811971327b88f1480] any technical promotional material concerning a specific model of household washing machine or household washer-dryer, including on the internet, which describes its specific technical parameters includes the energy efficiency class of that model and the range of energy efficiency classes available on the label, in accordance with Annex VII;
+- (g)[^c-4f357c2b6fb3cb4811971327b88f1480] an electronic label in the format and containing the information as set out in Annex III is made available to dealers for each model of household washing machine and of household washer-dryer;
+- (h)[^c-4f357c2b6fb3cb4811971327b88f1480] an electronic product information sheet, as set out in Annex V, is made available to dealers for each model of household washing machine and of household washer-dryer.
 
-2.[^key-7aa43c08e79111b7bb284fe89c94ffb8] The energy efficiency class and the acoustic airborne noise emission class are defined in Annex II and shall be calculated in accordance with Annex IV.
+2.[^c-7aa43c08e79111b7bb284fe89c94ffb8] The energy efficiency class and the acoustic airborne noise emission class are defined in Annex II and shall be calculated in accordance with Annex IV.
 
-## Article 4. Obligations of dealers[^key-5e7d2cfbb245adce7ccc7c8621e66315]
+## Article 4. Obligations of dealers[^c-5e7d2cfbb245adce7ccc7c8621e66315]
 
 Dealers shall ensure that:
 
@@ -168,15 +168,15 @@ Dealers shall ensure that:
 - ((c)) any visual advertisement for a specific model of household washing machine or household washer-dryer contains the energy efficiency class of that model and the range of energy efficiency classes available on the label, in accordance with Annex VII;
 - ((d)) any technical promotional material concerning a specific model of household washing machine or household washer-dryer, including on the internet, which describes its specific technical parameters, includes the energy efficiency class of that model and the range of energy efficiency classes available on the label, in accordance with Annex VII.
 
-## Article 5. Obligations of internet hosting platforms[^key-f29923cca1e8a7179fe7b2ea7bc1c083]
+## Article 5. Obligations of internet hosting platforms[^c-f29923cca1e8a7179fe7b2ea7bc1c083]
 
 Where a hosting service provider as referred to in Article 14 of Directive 2000/31/EC allows the direct selling of household washing machines or household washer-dryers through its internet website, the service provider shall enable the showing of the electronic label and electronic product information sheet provided by the dealer on the display mechanism in accordance with the provisions of Annex VIII and shall inform the dealer of the obligation to display them.
 
-## Article 6. Measurement methods[^key-9ffe77c551d0327204bfac4b94056235]
+## Article 6. Measurement methods[^c-9ffe77c551d0327204bfac4b94056235]
 
 The information to be provided pursuant to Articles 3 and 4 shall be obtained by reliable, accurate and reproducible measurement and calculation methods, which take into account the recognised state-of-the-art measurement and calculation methods set out in Annex IV.
 
-## Article 7. Verification procedure for market surveillance purposes[^key-d42a12fcec4dbb89c1212016b4b4f806]
+## Article 7. Verification procedure for market surveillance purposes[^c-d42a12fcec4dbb89c1212016b4b4f806]
 
 Member States shall apply the procedure laid down in Annex IX when performing the market surveillance checks referred to in paragraph 3 of Article 8 of Regulation (EU) 2017/1369.
 
@@ -199,7 +199,7 @@ Directive 96/60/EC is repealed as of 1 March 2021.
 
 ## Article 10. Transitional measures
 
-As from 25 December 2019 until 28 February 2021, the product fiche required under point (b) of Article 3 of Regulation (EU) No 1061/2010 may be made available on a publicly accessible website[^key-faf08fc23af487771550c4eb7e57f660] established by Article 12 of Regulation (EU) 2017/1369 instead of being provided in printed form. In this case the supplier shall ensure that if specifically requested by the dealer, the product fiche shall be made available in printed form.
+As from 25 December 2019 until 28 February 2021, the product fiche required under point (b) of Article 3 of Regulation (EU) No 1061/2010 may be made available on a publicly accessible website[^c-faf08fc23af487771550c4eb7e57f660] established by Article 12 of Regulation (EU) 2017/1369 instead of being provided in printed form. In this case the supplier shall ensure that if specifically requested by the dealer, the product fiche shall be made available in printed form.
 
 As from 25 December 2019 until 28 February 2021, the fiche required under paragraph 3 of Article 2 of Directive 96/60/EC may be made available on a publicly accessible website established by Article 12 of Regulation (EU) 2017/1369 instead of being provided in printed form. In this case the supplier shall ensure that if specifically requested by the dealer, the fiche shall be made available in printed form.
 
@@ -209,13 +209,13 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 1 March 2021. However, Article 10 shall apply from 25 December 2019 and points 1(a) and 1(b) of Article 3 shall apply from 1 November 2020.
 
-[^key-852e08ebc464a5791e042ccb838e9b19]...
+[^c-852e08ebc464a5791e042ccb838e9b19]...
 
-## ANNEX I — Definitions applicable for the annexes[^M_C_89168b76-babb-4c9e-e9e9-97c6c44777fa][^key-f204b272cf3630d506861f41458ae677]
+## ANNEX I — Definitions applicable for the annexes[^M_C_89168b76-babb-4c9e-e9e9-97c6c44777fa][^c-f204b272cf3630d506861f41458ae677]
 
-[^key-f204b272cf3630d506861f41458ae677]The following definitions shall apply:
+[^c-f204b272cf3630d506861f41458ae677]The following definitions shall apply:
 
-[^key-f204b272cf3630d506861f41458ae677]
+[^c-f204b272cf3630d506861f41458ae677]
 
 - ((1)) ‘Energy Efficiency Index’ (EEI) means the ratio of the weighted energy consumption to the standard cycle energy consumption;
 - ((2)) ‘programme’ means a series of operations that are pre-defined and which are declared by the supplier as suitable for washing, drying or continuously washing and drying certain types of textile;
@@ -563,21 +563,21 @@ Whereby:
 
   the number of the regulation shall be 100 % black and in Verdana Regular 6 pt.
 
-## ANNEX IV — Measurement methods and calculations[^M_C_89168b76-babb-4c9e-e9e9-97c6c44777fa][^key-1f2b56c9f5d4c2fe5d361e09275c0b7f]
+## ANNEX IV — Measurement methods and calculations[^M_C_89168b76-babb-4c9e-e9e9-97c6c44777fa][^c-1f2b56c9f5d4c2fe5d361e09275c0b7f]
 
-[^key-1f2b56c9f5d4c2fe5d361e09275c0b7f]For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using harmonised standards the reference numbers of which have been published for this purpose in the *Official Journal of the European Union*, or other reliable, accurate and reproducible methods, which takes into account the generally recognised state-of-the-art, and in line with the following provisions.
+[^c-1f2b56c9f5d4c2fe5d361e09275c0b7f]For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using harmonised standards the reference numbers of which have been published for this purpose in the *Official Journal of the European Union*, or other reliable, accurate and reproducible methods, which takes into account the generally recognised state-of-the-art, and in line with the following provisions.
 
-[^key-1f2b56c9f5d4c2fe5d361e09275c0b7f]The eco 40-60 programme shall be used for the measurement and calculation of the energy consumption, Energy Efficiency Index (EEI<sub>W</sub>), maximum temperature, water consumption, remaining moisture content, programme duration, washing efficiency, rinsing effectiveness, spin-drying efficiency and airborne acoustical noise emissions in the spinning phase for household washing machines and the washing cycle of household washer-dryers. The energy consumption, maximum temperature, water consumption, remaining moisture content, programme duration, washing efficiency and rinsing effectiveness shall be measured concurrently.
+[^c-1f2b56c9f5d4c2fe5d361e09275c0b7f]The eco 40-60 programme shall be used for the measurement and calculation of the energy consumption, Energy Efficiency Index (EEI<sub>W</sub>), maximum temperature, water consumption, remaining moisture content, programme duration, washing efficiency, rinsing effectiveness, spin-drying efficiency and airborne acoustical noise emissions in the spinning phase for household washing machines and the washing cycle of household washer-dryers. The energy consumption, maximum temperature, water consumption, remaining moisture content, programme duration, washing efficiency and rinsing effectiveness shall be measured concurrently.
 
-[^key-1f2b56c9f5d4c2fe5d361e09275c0b7f]The wash and dry cycle shall be used for the measurement and calculation of the energy consumption, Energy Efficiency Index (EEI<sub>WD</sub>), maximum temperature in the washing phase, water consumption, final moisture content, cycle duration, washing efficiency and rinsing effectiveness for household washer-dryers. The energy consumption, maximum temperature, water consumption, final moisture content, cycle duration, washing efficiency and rinsing effectiveness shall be measured concurrently.
+[^c-1f2b56c9f5d4c2fe5d361e09275c0b7f]The wash and dry cycle shall be used for the measurement and calculation of the energy consumption, Energy Efficiency Index (EEI<sub>WD</sub>), maximum temperature in the washing phase, water consumption, final moisture content, cycle duration, washing efficiency and rinsing effectiveness for household washer-dryers. The energy consumption, maximum temperature, water consumption, final moisture content, cycle duration, washing efficiency and rinsing effectiveness shall be measured concurrently.
 
-[^key-1f2b56c9f5d4c2fe5d361e09275c0b7f]When measuring the parameters of this annex for the eco 40-60 programme and for the wash and dry cycle, the highest spin speed option for the eco 40-60 programme shall be used at rated capacity, at half of the rated capacity and, where relevant, at a quarter of the rated capacity.
+[^c-1f2b56c9f5d4c2fe5d361e09275c0b7f]When measuring the parameters of this annex for the eco 40-60 programme and for the wash and dry cycle, the highest spin speed option for the eco 40-60 programme shall be used at rated capacity, at half of the rated capacity and, where relevant, at a quarter of the rated capacity.
 
-[^key-1f2b56c9f5d4c2fe5d361e09275c0b7f]For household washing machines with a rated capacity lower than or equal to 3 kg and for household washer-dryers with a rated washing capacity lower than or equal to 3 kg, the parameters for the eco 40-60 programme and for the wash and dry cycle shall be measured at rated capacity only.
+[^c-1f2b56c9f5d4c2fe5d361e09275c0b7f]For household washing machines with a rated capacity lower than or equal to 3 kg and for household washer-dryers with a rated washing capacity lower than or equal to 3 kg, the parameters for the eco 40-60 programme and for the wash and dry cycle shall be measured at rated capacity only.
 
-[^key-1f2b56c9f5d4c2fe5d361e09275c0b7f]The duration of the eco 40-60 programme (t<sub>W</sub>) at rated washing capacity, at half of the rated washing capacity and at a quarter of the rated washing capacity, and the duration of the wash and dry cycle (t<sub>WD</sub>) at rated capacity and at half of the rated capacity, are expressed in hours and minutes and rounded to the nearest minute.
+[^c-1f2b56c9f5d4c2fe5d361e09275c0b7f]The duration of the eco 40-60 programme (t<sub>W</sub>) at rated washing capacity, at half of the rated washing capacity and at a quarter of the rated washing capacity, and the duration of the wash and dry cycle (t<sub>WD</sub>) at rated capacity and at half of the rated capacity, are expressed in hours and minutes and rounded to the nearest minute.
 
-[^key-1f2b56c9f5d4c2fe5d361e09275c0b7f]Airborne acoustical noise emissions are measured in dB(A) with respect to 1 pW and rounded to the nearest integer.
+[^c-1f2b56c9f5d4c2fe5d361e09275c0b7f]Airborne acoustical noise emissions are measured in dB(A) with respect to 1 pW and rounded to the nearest integer.
 
 1\.
 
@@ -778,7 +778,7 @@ ACOUSTIC AIRBORNE NOISE EMISSION
 
 The acoustic airborne noise emission of the spinning phase of household washing machines and household washer-dryers shall be calculated for the eco 40-60 programme at rated washing capacity, using harmonised standards the reference numbers of which have been published for this purpose in the *Official Journal of the European Union*, or other reliable, accurate and reproducible methods, which take into account the generally recognised state-of-the-art, and rounded to the nearest integer.
 
-## ANNEX V — Product information sheet[^M_C_89168b76-babb-4c9e-e9e9-97c6c44777fa][^key-e6f04040a094835c0707e65fe78e0744]
+## ANNEX V — Product information sheet[^M_C_89168b76-babb-4c9e-e9e9-97c6c44777fa][^c-e6f04040a094835c0707e65fe78e0744]
 
 1\.
 
@@ -890,7 +890,7 @@ The user manual or other literature provided with the product shall clearly indi
 
 [^f00019][^f00018][^f00017][^f00017][^f00017][^f00020][^f00018][^f00018][^f00020][^f00017][^f00017][^f00018][^f00018][^c000001][^f00017][^f00017][^f00017][^f00017][^f00020][^f00020][^f00019][^f00018]
 
-## ANNEX VI — Technical documentation[^key-69dfb448b85cd4560bce1bf0963f1cef]
+## ANNEX VI — Technical documentation[^c-69dfb448b85cd4560bce1bf0963f1cef]
 
 1\.
 
@@ -1063,7 +1063,7 @@ Telemarketing-based distance selling must specifically inform the customer of th
 
 For all the situations mentioned in points 1 to 3 and 5, it must be possible for the customer to obtain, on request, a printed copy of the label and the product information sheet.
 
-## ANNEX VIII — Information to be provided in the case of distance selling through the internet[^M_C_bc0388a9-8a64-45ce-e528-601f2d90911b][^key-80e5ad389055b366922cb5a8077f846f]
+## ANNEX VIII — Information to be provided in the case of distance selling through the internet[^M_C_bc0388a9-8a64-45ce-e528-601f2d90911b][^c-80e5ad389055b366922cb5a8077f846f]
 
 1\.
 
@@ -1097,15 +1097,15 @@ In the case of nested display, the sequence of display of the label shall be as 
 
 The electronic product information sheet made available by suppliers in accordance with point 1(h) of Article 3 shall be shown on the display mechanism in proximity to the price of the product. The size shall be such that the product information sheet is clearly visible and legible. The product information sheet may be displayed using a nested display or by referring to the product database, in which case the link used for accessing the product information sheet shall clearly and legibly indicate ‘Product information sheet’. If a nested display is used, the product information sheet shall appear on the first mouse click, mouse roll-over or tactile screen expansion on the link.
 
-## ANNEX IX — Verification procedure for market surveillance purposes[^M_C_bc0388a9-8a64-45ce-e528-601f2d90911b][^key-84c5eaa43956496a5c194e0b317ffb7c]
+## ANNEX IX — Verification procedure for market surveillance purposes[^M_C_bc0388a9-8a64-45ce-e528-601f2d90911b][^c-84c5eaa43956496a5c194e0b317ffb7c]
 
-[^key-84c5eaa43956496a5c194e0b317ffb7c]The verification tolerances set out in this Annex relate only to the verification of the measured parameters by Member State authorities and shall not be used by the supplier as an allowed tolerance to establish the values in the technical documentation. The values and classes on the label or in the product information sheet shall not be more favourable for the supplier than the values reported in the technical documentation.
+[^c-84c5eaa43956496a5c194e0b317ffb7c]The verification tolerances set out in this Annex relate only to the verification of the measured parameters by Member State authorities and shall not be used by the supplier as an allowed tolerance to establish the values in the technical documentation. The values and classes on the label or in the product information sheet shall not be more favourable for the supplier than the values reported in the technical documentation.
 
-[^key-84c5eaa43956496a5c194e0b317ffb7c]Where a model has been designed to be able to detect it is being tested (e.g. by recognising the test conditions or test cycle), and to react specifically by automatically altering its performance during the test with the objective of reaching a more favourable level for any of the parameters specified in this Regulation or included in the technical documentation or included in any of the documentation provided, the model and all equivalent models shall be considered not compliant.
+[^c-84c5eaa43956496a5c194e0b317ffb7c]Where a model has been designed to be able to detect it is being tested (e.g. by recognising the test conditions or test cycle), and to react specifically by automatically altering its performance during the test with the objective of reaching a more favourable level for any of the parameters specified in this Regulation or included in the technical documentation or included in any of the documentation provided, the model and all equivalent models shall be considered not compliant.
 
-[^key-84c5eaa43956496a5c194e0b317ffb7c]When verifying the compliance of a product model with the requirements laid down in this Regulation, the authorities of Member States shall apply the following procedure:
+[^c-84c5eaa43956496a5c194e0b317ffb7c]When verifying the compliance of a product model with the requirements laid down in this Regulation, the authorities of Member States shall apply the following procedure:
 
-[^key-84c5eaa43956496a5c194e0b317ffb7c]
+[^c-84c5eaa43956496a5c194e0b317ffb7c]
 
 - 1.. The Member State authorities shall verify one single unit of the model.
 - 2.. The model shall be considered to comply with the applicable requirements if:
@@ -1118,9 +1118,9 @@ The electronic product information sheet made available by suppliers in accordan
 - 6.. If the result referred to in point 5 is not achieved, the model and all equivalent models shall be considered not to comply with this Regulation.
 - 7.. The Member State authorities shall provide all relevant information to the authorities of the other Member States and to the Commission without delay after a decision being taken on the non-compliance of the model according to points 3 and 6.
 
-[^key-84c5eaa43956496a5c194e0b317ffb7c]The Member State authorities shall use the measurement and calculation methods set out in Annex IV.
+[^c-84c5eaa43956496a5c194e0b317ffb7c]The Member State authorities shall use the measurement and calculation methods set out in Annex IV.
 
-[^key-84c5eaa43956496a5c194e0b317ffb7c]The Member State authorities shall only apply the verification tolerances that are set out in Table 9 and shall only use the procedure described in points 1 to 7 for the requirements referred to in this Annex. For the parameters in Table 9, no other tolerances, such as those set out in harmonised standards or in any other measurement method, shall be applied.
+[^c-84c5eaa43956496a5c194e0b317ffb7c]The Member State authorities shall only apply the verification tolerances that are set out in Table 9 and shall only use the procedure described in points 1 to 7 for the requirements referred to in this Annex. For the parameters in Table 9, no other tolerances, such as those set out in harmonised standards or in any other measurement method, shall be applied.
 
 *Table 9*
 
@@ -1153,13 +1153,13 @@ The electronic product information sheet made available by suppliers in accordan
 
 [^f00021][^f00021][^f00021][^f00021][^f00021][^f00021][^f00021][^f00021][^f00021][^f00021][^f00021][^f00021][^f00021][^f00021][^f00021][^f00021]
 
-## ANNEX X — Multi-drum household washing machines and multi-drum household washer-dryers[^key-20601c00b5161cdb1e493294475ad11e][^key-25a8f20ab7660b5c476ae4cb9683c119]
+## ANNEX X — Multi-drum household washing machines and multi-drum household washer-dryers[^c-20601c00b5161cdb1e493294475ad11e][^c-25a8f20ab7660b5c476ae4cb9683c119]
 
-[^key-20601c00b5161cdb1e493294475ad11e][^key-25a8f20ab7660b5c476ae4cb9683c119]The provisions of Annexes II and III, following the measurement and calculation methods set out in Annex IV, shall apply to any drum with a rated capacity higher than or equal to 2 kg of multi-drum household washing machines and to any drum with a rated washing capacity higher than or equal to 2 kg of multi-drum household washer-dryers.
+[^c-20601c00b5161cdb1e493294475ad11e][^c-25a8f20ab7660b5c476ae4cb9683c119]The provisions of Annexes II and III, following the measurement and calculation methods set out in Annex IV, shall apply to any drum with a rated capacity higher than or equal to 2 kg of multi-drum household washing machines and to any drum with a rated washing capacity higher than or equal to 2 kg of multi-drum household washer-dryers.
 
-[^key-20601c00b5161cdb1e493294475ad11e][^key-25a8f20ab7660b5c476ae4cb9683c119]The provisions of Annexes II and III shall apply to each of the drums independently, except when the drums are built in the same casing and can, in the eco 40-60 programme or in the wash and dry cycle, only operate simultaneously. In the latter case, these provisions shall apply to the multi-drum household washing machine or to the multi-drum household washer-dryer as a whole, as follows:
+[^c-20601c00b5161cdb1e493294475ad11e][^c-25a8f20ab7660b5c476ae4cb9683c119]The provisions of Annexes II and III shall apply to each of the drums independently, except when the drums are built in the same casing and can, in the eco 40-60 programme or in the wash and dry cycle, only operate simultaneously. In the latter case, these provisions shall apply to the multi-drum household washing machine or to the multi-drum household washer-dryer as a whole, as follows:
 
-[^key-25a8f20ab7660b5c476ae4cb9683c119]
+[^c-25a8f20ab7660b5c476ae4cb9683c119]
 
 - ((a)) the rated washing capacity is the sum of the rated washing capacities of each drum; for multi-drum household washer-dryers, the rated capacity is the sum of the rated capacities of each drum;
 - ((b)) the energy and water consumption of the multi-drum household washing machine and of the washing cycle of the multi-drum household washer-dryer is the sum of the energy consumption, or water consumption, of each drum;
@@ -1170,11 +1170,11 @@ The electronic product information sheet made available by suppliers in accordan
 - ((g)) for household multi-drum washer-dryers, the final moisture content after drying is measured individually for each drum;
 - ((h)) the measurement of low power modes, of the acoustic airborne noise emissions and the acoustic airborne noise emissions class apply to the whole household washing machine.
 
-[^key-20601c00b5161cdb1e493294475ad11e][^key-25a8f20ab7660b5c476ae4cb9683c119]The product information sheet and the technical documentation shall include and present jointly the information required under Annex V and Annex VI, respectively, for all the drums to which the provisions of this annex apply.
+[^c-20601c00b5161cdb1e493294475ad11e][^c-25a8f20ab7660b5c476ae4cb9683c119]The product information sheet and the technical documentation shall include and present jointly the information required under Annex V and Annex VI, respectively, for all the drums to which the provisions of this annex apply.
 
-[^key-20601c00b5161cdb1e493294475ad11e][^key-25a8f20ab7660b5c476ae4cb9683c119]The provisions of Annexes VII and VIII apply to each of the drums to which the provisions of this annex apply.
+[^c-20601c00b5161cdb1e493294475ad11e][^c-25a8f20ab7660b5c476ae4cb9683c119]The provisions of Annexes VII and VIII apply to each of the drums to which the provisions of this annex apply.
 
-[^key-20601c00b5161cdb1e493294475ad11e][^key-25a8f20ab7660b5c476ae4cb9683c119]The verification procedure set out in Annex IX applies to the multi-drum household washing machine and to the multi-drum household washer-dryer as a whole, with the verification tolerances applying to each of the parameters determined in application of this annex.
+[^c-20601c00b5161cdb1e493294475ad11e][^c-25a8f20ab7660b5c476ae4cb9683c119]The verification procedure set out in Annex IX applies to the multi-drum household washing machine and to the multi-drum household washer-dryer as a whole, with the verification tolerances applying to each of the parameters determined in application of this annex.
 
 ## Annotations
 
@@ -1196,43 +1196,43 @@ The electronic product information sheet made available by suppliers in accordan
 
 [^f00009]: Footnote: Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market ([OJ L 178, 17.7.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.178.01.0001.01.ENG)).
 
-[^key-1d715802600dde439ed8ddbd51a0f63f]: Modification: [Art. 1](https://www.legislation.gov.uk/eur/2019/2014/article/1) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
+[^c-1d715802600dde439ed8ddbd51a0f63f]: Modification: [Art. 1](https://www.legislation.gov.uk/eur/2019/2014/article/1) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
 
-[^key-0301c4e123118f29be80d99a1fc9950c]: Modification: [Art. 2](https://www.legislation.gov.uk/eur/2019/2014/article/2) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
+[^c-0301c4e123118f29be80d99a1fc9950c]: Modification: [Art. 2](https://www.legislation.gov.uk/eur/2019/2014/article/2) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
 
 [^f00010]: Footnote: Directive 2014/35/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of electrical equipment designed for use within certain voltage limits ([OJ L 96, 29.3.2014, p. 357](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.096.01.0357.01.ENG)).
 
 [^f00011]: Footnote: Directive 2014/53/EU of the European Parliament and of the Council of 16 April 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of radio equipment and repealing Directive 1999/5/EC ([OJ L 153, 22.5.2014, p. 62](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.153.01.0062.01.ENG)).
 
-[^key-c83321ebd26bcde8fbaa7a7c1d58ad1c]: Modification: Art. 3, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/2)
+[^c-c83321ebd26bcde8fbaa7a7c1d58ad1c]: Modification: Art. 3, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/2)
 
-[^key-a66ccf3703f5ab386ce5c3741776c3fe]: Textual amendment: Words in [Art. 3(1)(b)](https://www.legislation.gov.uk/eur/2019/2014/article/3/1/b) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [24(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/24/2)
+[^c-a66ccf3703f5ab386ce5c3741776c3fe]: Textual amendment: Words in [Art. 3(1)(b)](https://www.legislation.gov.uk/eur/2019/2014/article/3/1/b) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [24(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/24/2)
 
-[^key-4f357c2b6fb3cb4811971327b88f1480]: Modification: [Art. 3(1)(c)-(h)](https://www.legislation.gov.uk/eur/2019/2014/article/3/1/c) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
+[^c-4f357c2b6fb3cb4811971327b88f1480]: Modification: [Art. 3(1)(c)-(h)](https://www.legislation.gov.uk/eur/2019/2014/article/3/1/c) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
 
-[^key-7aa43c08e79111b7bb284fe89c94ffb8]: Modification: [Art. 3(2)](https://www.legislation.gov.uk/eur/2019/2014/article/3/2) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
+[^c-7aa43c08e79111b7bb284fe89c94ffb8]: Modification: [Art. 3(2)](https://www.legislation.gov.uk/eur/2019/2014/article/3/2) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
 
-[^key-5e7d2cfbb245adce7ccc7c8621e66315]: Modification: [Art. 4](https://www.legislation.gov.uk/eur/2019/2014/article/4) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
+[^c-5e7d2cfbb245adce7ccc7c8621e66315]: Modification: [Art. 4](https://www.legislation.gov.uk/eur/2019/2014/article/4) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
 
-[^key-f29923cca1e8a7179fe7b2ea7bc1c083]: Modification: [Art. 5](https://www.legislation.gov.uk/eur/2019/2014/article/5) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
+[^c-f29923cca1e8a7179fe7b2ea7bc1c083]: Modification: [Art. 5](https://www.legislation.gov.uk/eur/2019/2014/article/5) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
 
-[^key-9ffe77c551d0327204bfac4b94056235]: Modification: [Art. 6](https://www.legislation.gov.uk/eur/2019/2014/article/6) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
+[^c-9ffe77c551d0327204bfac4b94056235]: Modification: [Art. 6](https://www.legislation.gov.uk/eur/2019/2014/article/6) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
 
-[^key-d42a12fcec4dbb89c1212016b4b4f806]: Modification: [Art. 7](https://www.legislation.gov.uk/eur/2019/2014/article/7) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
+[^c-d42a12fcec4dbb89c1212016b4b4f806]: Modification: [Art. 7](https://www.legislation.gov.uk/eur/2019/2014/article/7) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
 
-[^key-faf08fc23af487771550c4eb7e57f660]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2019/2014/article/10) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [24(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/24/3)
+[^c-faf08fc23af487771550c4eb7e57f660]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2019/2014/article/10) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [24(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/24/3)
 
-[^key-852e08ebc464a5791e042ccb838e9b19]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/2014/signature) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [24(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/24/4)
+[^c-852e08ebc464a5791e042ccb838e9b19]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/2014/signature) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [24(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/24/4)
 
 [^M_C_89168b76-babb-4c9e-e9e9-97c6c44777fa]: Modification: Annexes 1-5 applied (with modifications) (31.12.2020) by The Ecodesign for Energy-[Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
 
-[^key-f204b272cf3630d506861f41458ae677]: Modification: Annex 1, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/3)
+[^c-f204b272cf3630d506861f41458ae677]: Modification: Annex 1, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/3)
 
 [^f00012]: Footnote: Directive 2014/30/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to electromagnetic compatibility ([OJ L 96, 29.3.2014, p. 79](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.096.01.0079.01.ENG)).
 
-[^key-1f2b56c9f5d4c2fe5d361e09275c0b7f]: Modification: Annex 4, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/4)
+[^c-1f2b56c9f5d4c2fe5d361e09275c0b7f]: Modification: Annex 4, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/4)
 
-[^key-e6f04040a094835c0707e65fe78e0744]: Modification: Annex 5, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/5)
+[^c-e6f04040a094835c0707e65fe78e0744]: Modification: Annex 5, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/5)
 
 [^f00014]: Footnote: changes to these items shall not be considered relevant for the purposes of paragraph 4 of Article 4 of Regulation (EU) 2017/1369.
 
@@ -1252,16 +1252,16 @@ The electronic product information sheet made available by suppliers in accordan
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Commission Delegated Regulation (EU) 2019/2014 of 11 March 2019 supplementing Regulation (EU) 2017/1369 of the European Parliament and of the Council with regard to energy labelling of household washing machines and household washer-dryers and repealing Commission Delegated Regulation (EU) No 1061/2010 and Commission Directive 96/60/EC (Official Journal of the European Union L 315 of 5 December 2019)](https://www.legislation.gov.uk/eur/2019/2014/pdfs/eurcs_20192014_en_001.pdf).
 
-[^key-69dfb448b85cd4560bce1bf0963f1cef]: Modification: Annex 6, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(6)(7)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/6/7)
+[^c-69dfb448b85cd4560bce1bf0963f1cef]: Modification: Annex 6, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(6)(7)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/6/7)
 
 [^M_C_bc0388a9-8a64-45ce-e528-601f2d90911b]: Modification: Annexes 6-9 applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)(2)(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
 
-[^key-80e5ad389055b366922cb5a8077f846f]: Modification: Annex 8, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by The Ecodesign for Energy-[Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/8)
+[^c-80e5ad389055b366922cb5a8077f846f]: Modification: Annex 8, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by The Ecodesign for Energy-[Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/8)
 
-[^key-84c5eaa43956496a5c194e0b317ffb7c]: Modification: Annex 9, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/8)
+[^c-84c5eaa43956496a5c194e0b317ffb7c]: Modification: Annex 9, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/8)
 
 [^f00021]: Footnote: In the case of three additional units tested as prescribed in point 4, the determined value means the arithmetical mean of the values determined for these three additional units.
 
-[^key-20601c00b5161cdb1e493294475ad11e]: Modification: Annex 10 applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
+[^c-20601c00b5161cdb1e493294475ad11e]: Modification: Annex 10 applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [30(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/30/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2)
 
-[^key-25a8f20ab7660b5c476ae4cb9683c119]: Modification: Annex 10, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/10)
+[^c-25a8f20ab7660b5c476ae4cb9683c119]: Modification: Annex 10, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1528/schedule/2), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/5/10)

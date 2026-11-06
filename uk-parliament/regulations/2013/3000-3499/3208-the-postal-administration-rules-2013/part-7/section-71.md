@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Notice of no dividend, or no further dividend[^key-06fb5e0f5e26f10d33ab502b0ce1f038]
+## 71. Notice of no dividend, or no further dividend[^c-06fb5e0f5e26f10d33ab502b0ce1f038]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If the postal administrator gives notice to creditors that the postal administra
 
 ## Annotations
 
-[^key-06fb5e0f5e26f10d33ab502b0ce1f038]: Commencement: [Rule 71](https://www.legislation.gov.uk/uksi/2013/3208/rule/71) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-06fb5e0f5e26f10d33ab502b0ce1f038]: Commencement: [Rule 71](https://www.legislation.gov.uk/uksi/2013/3208/rule/71) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

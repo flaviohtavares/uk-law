@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. The Market Abuse (Amendment) (EU Exit) Regulations 2019[^key-fe81ca5b1eba2424721a0a7d83d985d0]
+## 51. The Market Abuse (Amendment) (EU Exit) Regulations 2019[^c-fe81ca5b1eba2424721a0a7d83d985d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe81ca5b1eba2424721a0a7d83d985d0]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2020/1385/regulation/51) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-fe81ca5b1eba2424721a0a7d83d985d0]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2020/1385/regulation/51) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00031]: Footnote: [S.I. 2019/310](https://www.legislation.gov.uk/uksi/2019/310).

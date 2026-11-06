@@ -89,7 +89,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 28 — Late representations](part-1/section-28.md)
 - [Section 29 — Removal from list](part-1/section-29.md)
 
-#### Appeals and removals: information powers[^key-89ccd5125ecc7f42260e68f253692e7d]
+#### Appeals and removals: information powers[^c-89ccd5125ecc7f42260e68f253692e7d]
 
 - [Section 29A — Appeals and removals: application of sections 18 to 20](part-1/section-29a.md)
 
@@ -101,7 +101,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 32 — Individual not criminally responsible or unfit for trial: order treated as conviction](part-1/section-32.md)
 - [Section 33 — Duty to notify certain changes](part-1/section-33.md)
 
-#### Offences relating to regulated roles[^key-dfd3e73f7a7174c11e3798928ac45a9f]
+#### Offences relating to regulated roles[^c-dfd3e73f7a7174c11e3798928ac45a9f]
 
 - [Section 34 — Barred individuals not to carry out regulated roles](part-1/section-34.md)
 - [Section 35 — Organisations not to use barred individuals for regulated roles](part-1/section-35.md)
@@ -118,7 +118,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 42 — Power to regulate procedure etc.](part-1/section-42.md)
 - [Section 43 — Transfer from 2003 Act list](part-1/section-43.md)
 
-### Part 2 — Vetting and disclosure[^key-d0188832d4d59bb40c21cf2b0aba075d][^key-2c573d169c1d48af0ff2422be30c9b2b]
+### Part 2 — Vetting and disclosure[^c-d0188832d4d59bb40c21cf2b0aba075d][^c-2c573d169c1d48af0ff2422be30c9b2b]
 
 #### The Scheme
 
@@ -173,7 +173,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 63 — Power to use fingerprints to check applicant's identity](part-2/section-63.md)
 - [Section 64 — Power to use personal data to check applicant's identity](part-2/section-64.md)
 
-#### Offences relating to confirmation of scheme membership[^key-767324d3d9d8732764cbbf293d062fe6]
+#### Offences relating to confirmation of scheme membership[^c-767324d3d9d8732764cbbf293d062fe6]
 
 - [Section 65 — Falsification of confirmation of scheme membership](part-2/section-65.md)
 - [Section 66 — Unlawful disclosure of confirmation of scheme membership](part-2/section-66.md)
@@ -244,12 +244,12 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-89ccd5125ecc7f42260e68f253692e7d]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/asp/2007/14/section/29A) and cross-heading inserted (10.12.2021) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 85(3)](https://www.legislation.gov.uk/asp/2020/13/section/85/3), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2021/380/regulation/4))
+[^c-89ccd5125ecc7f42260e68f253692e7d]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/asp/2007/14/section/29A) and cross-heading inserted (10.12.2021) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 85(3)](https://www.legislation.gov.uk/asp/2020/13/section/85/3), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2021/380/regulation/4))
 
-[^key-dfd3e73f7a7174c11e3798928ac45a9f]: Textual amendment: [S. 34 cross-heading](https://www.legislation.gov.uk/asp/2007/14/part/1/crossheading/offences-relating-to-regulated-work) substituted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 10(21)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/10/21) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-dfd3e73f7a7174c11e3798928ac45a9f]: Textual amendment: [S. 34 cross-heading](https://www.legislation.gov.uk/asp/2007/14/part/1/crossheading/offences-relating-to-regulated-work) substituted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 10(21)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/10/21) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-d0188832d4d59bb40c21cf2b0aba075d]: Modification: Pt. 2 modified (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [22](https://www.legislation.gov.uk/uksi/2010/2660/article/22)
+[^c-d0188832d4d59bb40c21cf2b0aba075d]: Modification: Pt. 2 modified (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [22](https://www.legislation.gov.uk/uksi/2010/2660/article/22)
 
-[^key-2c573d169c1d48af0ff2422be30c9b2b]: Modification: Pt. 2 modified (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [21](https://www.legislation.gov.uk/uksi/2010/2660/article/21)
+[^c-2c573d169c1d48af0ff2422be30c9b2b]: Modification: Pt. 2 modified (28.2.2011) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Provisions) Order 2010 (S.I. 2010/2660)](https://www.legislation.gov.uk/uksi/2010/2660), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2660/article/1), [21](https://www.legislation.gov.uk/uksi/2010/2660/article/21)
 
-[^key-767324d3d9d8732764cbbf293d062fe6]: Textual amendment: [S. 65 cross-heading](https://www.legislation.gov.uk/asp/2007/14/part/2/crossheading/offences-relating-to-vetting-information) substituted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 10(35)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/10/35) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-767324d3d9d8732764cbbf293d062fe6]: Textual amendment: [S. 65 cross-heading](https://www.legislation.gov.uk/asp/2007/14/part/2/crossheading/offences-relating-to-vetting-information) substituted (1.4.2025) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [s. 97](https://www.legislation.gov.uk/asp/2020/13/section/97), [sch. 5 para. 10(35)](https://www.legislation.gov.uk/asp/2020/13/schedule/5/paragraph/10/35) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

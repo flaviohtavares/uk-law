@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 182. Community Health Councils[^key-b613649cd3810e3019a5947642394b80]
+## 182. Community Health Councils[^c-b613649cd3810e3019a5947642394b80]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b613649cd3810e3019a5947642394b80]: Textual amendment: [S. 182](https://www.legislation.gov.uk/ukpga/2006/42/section/182) repealed (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [ss. 23(1)](https://www.legislation.gov.uk/asc/2020/1/section/23/1), [29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(q)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/q)
+[^c-b613649cd3810e3019a5947642394b80]: Textual amendment: [S. 182](https://www.legislation.gov.uk/ukpga/2006/42/section/182) repealed (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [ss. 23(1)](https://www.legislation.gov.uk/asc/2020/1/section/23/1), [29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(q)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/q)

@@ -26,7 +26,7 @@ Section 9
 
 **1.** (1) Part 23 of CTA 2010 (company distributions) is amended as follows.
 
-(2)[^key-2d512f5d8d1cfc3df747255382edacc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2d512f5d8d1cfc3df747255382edacc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After section 1027 insert—
 
@@ -133,4 +133,4 @@ Section 9
 
 ## Annotations
 
-[^key-2d512f5d8d1cfc3df747255382edacc6]: Textual amendment: [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/3/paragraph/1/2) omitted (with effect in accordance with s. 33(6) of the commencing Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 33(5)(d)](https://www.legislation.gov.uk/ukpga/2012/14/section/33/5/d)
+[^c-2d512f5d8d1cfc3df747255382edacc6]: Textual amendment: [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/3/paragraph/1/2) omitted (with effect in accordance with s. 33(6) of the commencing Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 33(5)(d)](https://www.legislation.gov.uk/ukpga/2012/14/section/33/5/d)

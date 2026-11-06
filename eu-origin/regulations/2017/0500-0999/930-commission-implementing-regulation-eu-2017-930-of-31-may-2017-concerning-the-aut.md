@@ -35,30 +35,30 @@ concerning the authorisation of a preparation of a microorganism strain DSM 1179
 
 (Text with EEA relevance) (revoked)
 
-[^key-627d8842c04d36609da92d64ce0e0685]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-627d8842c04d36609da92d64ce0e0685]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-627d8842c04d36609da92d64ce0e0685]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Implementing Regulation (EU) No 1016/2013[^key-627d8842c04d36609da92d64ce0e0685]
+## Article 1. Authorisation[^c-627d8842c04d36609da92d64ce0e0685]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-627d8842c04d36609da92d64ce0e0685]
+## Article 2. Amendments to Implementing Regulation (EU) No 1016/2013[^c-627d8842c04d36609da92d64ce0e0685]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-627d8842c04d36609da92d64ce0e0685]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-627d8842c04d36609da92d64ce0e0685]
+## Article 3. Entry into force[^c-627d8842c04d36609da92d64ce0e0685]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-627d8842c04d36609da92d64ce0e0685]
+[^c-627d8842c04d36609da92d64ce0e0685]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-627d8842c04d36609da92d64ce0e0685]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-627d8842c04d36609da92d64ce0e0685]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-627d8842c04d36609da92d64ce0e0685]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 244](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/244) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-627d8842c04d36609da92d64ce0e0685]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 244](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/244) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

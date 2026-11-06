@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Temporary exemption notice[^key-23331bb2f26d695db2d1ec52d495363d]
+## 15. Temporary exemption notice[^c-23331bb2f26d695db2d1ec52d495363d]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ it may issue a notice (a “temporary exemption notice”) in respect of the HMO
 
 ## Annotations
 
-[^key-23331bb2f26d695db2d1ec52d495363d]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/22/section/15) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-23331bb2f26d695db2d1ec52d495363d]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/22/section/15) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

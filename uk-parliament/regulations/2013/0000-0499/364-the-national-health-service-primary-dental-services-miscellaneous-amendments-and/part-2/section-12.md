@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Amendment of regulation 17[^key-2fac677ad19b6a62e4b83dd915547436]
+## 12. Amendment of regulation 17[^c-2fac677ad19b6a62e4b83dd915547436]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 17 (units of dental activity), at the beginning of paragraphs (1) 
 
 ## Annotations
 
-[^key-2fac677ad19b6a62e4b83dd915547436]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/364/regulation/12) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-2fac677ad19b6a62e4b83dd915547436]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2013/364/regulation/12) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

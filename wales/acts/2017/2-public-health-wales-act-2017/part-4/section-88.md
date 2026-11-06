@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Powers of inspection etc.[^key-220a09c5e4713df9d0293c221221dbf6]
+## 88. Powers of inspection etc.[^c-220a09c5e4713df9d0293c221221dbf6]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-220a09c5e4713df9d0293c221221dbf6]: Commencement: [S. 88](https://www.legislation.gov.uk/anaw/2017/2/section/88) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(cc)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/cc) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-220a09c5e4713df9d0293c221221dbf6]: Commencement: [S. 88](https://www.legislation.gov.uk/anaw/2017/2/section/88) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(cc)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/cc) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**229.**[^key-9c2e67e6fa40dc45f54b35c2b99ecbd7] In paragraph 183 of Schedule A1[^f00197] (deprivation of liberty of hospital or care home residents: ordinary residence for the purpose of identifying supervisory authority)—
+**229.**[^c-9c2e67e6fa40dc45f54b35c2b99ecbd7] In paragraph 183 of Schedule A1[^f00197] (deprivation of liberty of hospital or care home residents: ordinary residence for the purpose of identifying supervisory authority)—
 
 - (a) omit sub-paragraphs (1) and (2);
 - (b) after sub-paragraph (2A) insert—
@@ -27,6 +27,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c2e67e6fa40dc45f54b35c2b99ecbd7]: Commencement: Reg. 229 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-9c2e67e6fa40dc45f54b35c2b99ecbd7]: Commencement: Reg. 229 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00197]: Footnote: Schedule A1 was inserted by the Mental Health Act [2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), Schedule 7.

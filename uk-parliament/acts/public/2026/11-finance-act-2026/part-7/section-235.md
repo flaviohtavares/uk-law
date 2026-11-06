@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Financial penalties for prohibited interaction with HMRC: liability of relevant individuals[^M_I_062c767f-9c59-442e-8dfd-fa88dfe3006b][^key-3b879ce4c651274d09522772536747a8][^key-46acfa04c5f54e340abd98acd140b824]
+## 235. Financial penalties for prohibited interaction with HMRC: liability of relevant individuals[^M_I_062c767f-9c59-442e-8dfd-fa88dfe3006b][^c-3b879ce4c651274d09522772536747a8][^c-46acfa04c5f54e340abd98acd140b824]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 [^M_I_062c767f-9c59-442e-8dfd-fa88dfe3006b]: Commencement: S. 235 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-3b879ce4c651274d09522772536747a8]: Commencement: [S. 235](https://www.legislation.gov.uk/ukpga/2026/11/section/235) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-3b879ce4c651274d09522772536747a8]: Commencement: [S. 235](https://www.legislation.gov.uk/ukpga/2026/11/section/235) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-46acfa04c5f54e340abd98acd140b824]: Commencement: [S. 235](https://www.legislation.gov.uk/ukpga/2026/11/section/235) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-46acfa04c5f54e340abd98acd140b824]: Commencement: [S. 235](https://www.legislation.gov.uk/ukpga/2026/11/section/235) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

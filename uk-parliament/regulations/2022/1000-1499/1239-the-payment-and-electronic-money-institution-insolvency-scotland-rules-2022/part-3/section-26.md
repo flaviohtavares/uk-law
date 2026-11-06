@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Initial meeting[^key-d11f62536778ef0d257388bb11ff7919]
+## 26. Initial meeting[^c-d11f62536778ef0d257388bb11ff7919]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d11f62536778ef0d257388bb11ff7919]: Commencement: Rule 26 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-d11f62536778ef0d257388bb11ff7919]: Commencement: Rule 26 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

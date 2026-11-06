@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Extension to supplementary bids round[^key-a8ca3ded82500a22b026047158379ee3]
+## 63. Extension to supplementary bids round[^c-a8ca3ded82500a22b026047158379ee3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the time by which the bidder’s completed supplementary bids form must be recei
 
 ## Annotations
 
-[^key-a8ca3ded82500a22b026047158379ee3]: Commencement: Reg. 63 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-a8ca3ded82500a22b026047158379ee3]: Commencement: Reg. 63 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

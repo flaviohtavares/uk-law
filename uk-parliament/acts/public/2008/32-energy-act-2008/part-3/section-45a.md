@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Costs incurred in considering proposed programmes[^key-71bf5f08923d2723caece71c2dcfabda]
+## 45A. Costs incurred in considering proposed programmes[^c-71bf5f08923d2723caece71c2dcfabda]
 
 *Extent: E+W+NI*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71bf5f08923d2723caece71c2dcfabda]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/ukpga/2008/32/section/45A) inserted (E.W. N.I.) (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 149(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/149/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-71bf5f08923d2723caece71c2dcfabda]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/ukpga/2008/32/section/45A) inserted (E.W. N.I.) (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 149(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/149/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)

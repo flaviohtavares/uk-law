@@ -31,7 +31,7 @@ summary: ''
 
 Town And Country Planning, Wales
 
-The Listed Buildings (Urgent Works) (Interest Rate on Expenses) (Wales) Order 2017 (revoked)[^key-c316388afca6fd6b0f02ce8f747cd7a3]
+The Listed Buildings (Urgent Works) (Interest Rate on Expenses) (Wales) Order 2017 (revoked)[^c-c316388afca6fd6b0f02ce8f747cd7a3]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 31 May 2017
 
-[^key-c316388afca6fd6b0f02ce8f747cd7a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c316388afca6fd6b0f02ce8f747cd7a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-c316388afca6fd6b0f02ce8f747cd7a3]
+## 1. Title, commencement and application[^c-c316388afca6fd6b0f02ce8f747cd7a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Recovery of interest on expenses[^key-c316388afca6fd6b0f02ce8f747cd7a3]
+## 2. Recovery of interest on expenses[^c-c316388afca6fd6b0f02ce8f747cd7a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c316388afca6fd6b0f02ce8f747cd7a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c316388afca6fd6b0f02ce8f747cd7a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c316388afca6fd6b0f02ce8f747cd7a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c316388afca6fd6b0f02ce8f747cd7a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c316388afca6fd6b0f02ce8f747cd7a3]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2017/640) revoked (4.11.2024) by [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/wsi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2), [Sch. 5 para. 1(f)](https://www.legislation.gov.uk/wsi/2024/930/schedule/5/paragraph/1/f)
+[^c-c316388afca6fd6b0f02ce8f747cd7a3]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2017/640) revoked (4.11.2024) by [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/wsi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2), [Sch. 5 para. 1(f)](https://www.legislation.gov.uk/wsi/2024/930/schedule/5/paragraph/1/f)

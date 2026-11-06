@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32A. Responsibility for fixing term and holiday dates in Wales[^key-a34a1bced9c989c634658da23ae3584f]
+## 32A. Responsibility for fixing term and holiday dates in Wales[^c-a34a1bced9c989c634658da23ae3584f]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ to ensure that the term dates determined are the same (or as similar as can be) 
 
 ## Annotations
 
-[^key-a34a1bced9c989c634658da23ae3584f]: Textual amendment: Ss. 32A-32C inserted (12.5.2014 for specified purposes, 14.7.2014 in so far as not already in force) by [Education (Wales) Act 2014 (anaw 5)](https://www.legislation.gov.uk/anaw/2014/5), [ss. 42](https://www.legislation.gov.uk/anaw/2014/5/section/42), [50(2)](https://www.legislation.gov.uk/anaw/2014/5/section/50/2); [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/1605/article/2/a)
+[^c-a34a1bced9c989c634658da23ae3584f]: Textual amendment: Ss. 32A-32C inserted (12.5.2014 for specified purposes, 14.7.2014 in so far as not already in force) by [Education (Wales) Act 2014 (anaw 5)](https://www.legislation.gov.uk/anaw/2014/5), [ss. 42](https://www.legislation.gov.uk/anaw/2014/5/section/42), [50(2)](https://www.legislation.gov.uk/anaw/2014/5/section/50/2); [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/1605/article/2/a)

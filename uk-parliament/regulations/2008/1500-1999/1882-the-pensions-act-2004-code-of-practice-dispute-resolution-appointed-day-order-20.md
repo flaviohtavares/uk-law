@@ -31,28 +31,28 @@ summary: ''
 
 Pensions
 
-The Pensions Act 2004 (Code of Practice) (Dispute Resolution) Appointed Day Order 2008 (revoked)[^key-888ab0dcafa96583423caecc87803040]
+The Pensions Act 2004 (Code of Practice) (Dispute Resolution) Appointed Day Order 2008 (revoked)[^c-888ab0dcafa96583423caecc87803040]
 
 Made
 
 16th July 2008
 
-[^key-888ab0dcafa96583423caecc87803040]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-888ab0dcafa96583423caecc87803040]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-888ab0dcafa96583423caecc87803040]
+## 1. Citation[^c-888ab0dcafa96583423caecc87803040]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-888ab0dcafa96583423caecc87803040]
+## 2. Appointed day[^c-888ab0dcafa96583423caecc87803040]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-888ab0dcafa96583423caecc87803040]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-888ab0dcafa96583423caecc87803040]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-888ab0dcafa96583423caecc87803040]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-888ab0dcafa96583423caecc87803040]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-888ab0dcafa96583423caecc87803040]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1882) revoked (28.3.2024) by [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 4(c)](https://www.legislation.gov.uk/uksi/2024/431/article/4/c)
+[^c-888ab0dcafa96583423caecc87803040]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1882) revoked (28.3.2024) by [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 4(c)](https://www.legislation.gov.uk/uksi/2024/431/article/4/c)

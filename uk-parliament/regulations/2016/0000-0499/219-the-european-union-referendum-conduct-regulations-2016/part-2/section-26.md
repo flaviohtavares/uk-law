@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Admission to polling station[^key-510bb6c9eccfba5f97a3f2541f9d0b0f]
+## 26. Admission to polling station[^c-510bb6c9eccfba5f97a3f2541f9d0b0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-510bb6c9eccfba5f97a3f2541f9d0b0f]: Commencement: Reg. 26 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-510bb6c9eccfba5f97a3f2541f9d0b0f]: Commencement: Reg. 26 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00029]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41). “2000 Act” is defined in section 11(1) of the 2015 Act. Sections 6A to 6D of the 2000 Act were inserted by section 29 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22). There are amendments to sections 6A to 6D which are not relevant to these Regulations.

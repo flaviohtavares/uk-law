@@ -50,7 +50,7 @@ the Secretary of State may by order vary the proportions mentioned in subsection
 
 (9) Any such demand must be issued, or information as to the amount to be subsequently demanded must be given, to a participating authority before 15th February in the year in which the financial year to which the demand relates begins.
 
-(10) No resolution of the Authority relating to the amount to be levied under this section, in respect of any financial year, shall be valid unless at least five[^key-85dc1811778d514cc64929767d961b91] of the members of the Authority who voted in favour of the resolution were appointed as such members by one or other of the participating authorities.
+(10) No resolution of the Authority relating to the amount to be levied under this section, in respect of any financial year, shall be valid unless at least five[^c-85dc1811778d514cc64929767d961b91] of the members of the Authority who voted in favour of the resolution were appointed as such members by one or other of the participating authorities.
 
 (11) The following enactments—
 
@@ -67,7 +67,7 @@ shall apply to a levy made by the Authority, and to the Authority, as they apply
 
 ## Annotations
 
-[^key-85dc1811778d514cc64929767d961b91]: Textual amendment: Word in [s. 14(10)](https://www.legislation.gov.uk/ukpga/1988/4/section/14/10) substituted (1.6.2005) by [Norfolk and Suffolk Broads Act 1988 (Alteration of Constitution of the Broads Authority) Order 2005 (S.I. 2005/1067)](https://www.legislation.gov.uk/uksi/2005/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1067/article/1), [5](https://www.legislation.gov.uk/uksi/2005/1067/article/5)
+[^c-85dc1811778d514cc64929767d961b91]: Textual amendment: Word in [s. 14(10)](https://www.legislation.gov.uk/ukpga/1988/4/section/14/10) substituted (1.6.2005) by [Norfolk and Suffolk Broads Act 1988 (Alteration of Constitution of the Broads Authority) Order 2005 (S.I. 2005/1067)](https://www.legislation.gov.uk/uksi/2005/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2005/1067/article/1), [5](https://www.legislation.gov.uk/uksi/2005/1067/article/5)
 
 [^c10506081]: Marginal citation: [1967 c. 9](https://www.legislation.gov.uk/ukpga/1967/9).
 

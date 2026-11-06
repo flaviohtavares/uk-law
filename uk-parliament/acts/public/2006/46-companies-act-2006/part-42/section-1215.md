@@ -48,10 +48,10 @@ summary: ''
 (6) A person guilty of an offence under subsection (4) or (5) is liable—
 
 - (a) on conviction on indictment, to a fine;
-- (b) on summary conviction, to a fine not exceeding one-tenth of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-41a7eb05d1c83b284743a60a7d90e79c]one-tenth of the greater of £5,000 or the amount corresponding to level 4 on the standard scale for summary offences *(Extent: E+W)* for each day on which the act or the failure continues.
+- (b) on summary conviction, to a fine not exceeding one-tenth of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^c-41a7eb05d1c83b284743a60a7d90e79c]one-tenth of the greater of £5,000 or the amount corresponding to level 4 on the standard scale for summary offences *(Extent: E+W)* for each day on which the act or the failure continues.
 
 (7) In proceedings against a person for an offence under this section it is a defence for him to show that he did not know and had no reason to believe that he was, or had become, prohibited from acting as statutory auditor of the audited person by section 1214(1).
 
 ## Annotations
 
-[^key-41a7eb05d1c83b284743a60a7d90e79c]: Textual amendment: Words in s. 1215(6)(b) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(25)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/25) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-41a7eb05d1c83b284743a60a7d90e79c]: Textual amendment: Words in s. 1215(6)(b) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(25)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/25) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

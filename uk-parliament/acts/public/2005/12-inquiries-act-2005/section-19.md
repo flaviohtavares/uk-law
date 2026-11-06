@@ -32,7 +32,7 @@ summary: ''
 
 (3) A restriction notice or restriction order must specify only such restrictions—
 
-- (a) as are required by any statutory provision, assimilated enforceable[^key-a57d813de79168863c35f079c7f49047][^key-68870359d30583d2783791e7c64338b3] obligation or rule of law, or
+- (a) as are required by any statutory provision, assimilated enforceable[^c-a57d813de79168863c35f079c7f49047][^c-68870359d30583d2783791e7c64338b3] obligation or rule of law, or
 - (b) as the Minister or chairman considers to be conducive to the inquiry fulfilling its terms of reference or to be necessary in the public interest, having regard in particular to the matters mentioned in subsection (4).
 
 (4) Those matters are—
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a57d813de79168863c35f079c7f49047]: Textual amendment: Words in [s. 19(3)(a)](https://www.legislation.gov.uk/ukpga/2005/12/section/19/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 57(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/57/2/a)
+[^c-a57d813de79168863c35f079c7f49047]: Textual amendment: Words in [s. 19(3)(a)](https://www.legislation.gov.uk/ukpga/2005/12/section/19/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 57(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/57/2/a)
 
-[^key-68870359d30583d2783791e7c64338b3]: Textual amendment: Words in s. 19(3)(a) substituted (31.12.2020) by [The Inquiries and Coroners (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1252)](https://www.legislation.gov.uk/uksi/2018/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1252/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/1252/regulation/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68870359d30583d2783791e7c64338b3]: Textual amendment: Words in s. 19(3)(a) substituted (31.12.2020) by [The Inquiries and Coroners (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1252)](https://www.legislation.gov.uk/uksi/2018/1252), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1252/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/1252/regulation/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

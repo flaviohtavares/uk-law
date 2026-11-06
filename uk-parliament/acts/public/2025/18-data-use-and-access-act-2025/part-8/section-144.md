@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Short title[^key-792e43a7ff6034d3fd2947b92fc14429]
+## 144. Short title[^c-792e43a7ff6034d3fd2947b92fc14429]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Data (Use and Access) Act 2025.
 
 ## Annotations
 
-[^key-792e43a7ff6034d3fd2947b92fc14429]: Commencement: S. 144 in force at Royal Assent, see [s. 142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)
+[^c-792e43a7ff6034d3fd2947b92fc14429]: Commencement: S. 144 in force at Royal Assent, see [s. 142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)

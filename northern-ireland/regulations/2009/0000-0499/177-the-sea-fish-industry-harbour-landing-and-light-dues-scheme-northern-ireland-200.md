@@ -31,7 +31,7 @@ summary: ''
 
 Agriculture
 
-The Sea Fish Industry (Harbour, Landing and Light Dues) Scheme (Northern Ireland) 2009 (revoked)[^key-aaebc184f20cc95d32859bc9ea90267a]
+The Sea Fish Industry (Harbour, Landing and Light Dues) Scheme (Northern Ireland) 2009 (revoked)[^c-aaebc184f20cc95d32859bc9ea90267a]
 
 Approved by resolution of the Assembly on 16th June 2009
 
@@ -43,54 +43,54 @@ Coming into operation
 
 28th April 2009
 
-[^key-aaebc184f20cc95d32859bc9ea90267a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aaebc184f20cc95d32859bc9ea90267a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-aaebc184f20cc95d32859bc9ea90267a]
+## 1. Title, commencement and application[^c-aaebc184f20cc95d32859bc9ea90267a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-aaebc184f20cc95d32859bc9ea90267a]
+## 2. Interpretation[^c-aaebc184f20cc95d32859bc9ea90267a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Invitations for applications[^key-aaebc184f20cc95d32859bc9ea90267a]
+## 3. Invitations for applications[^c-aaebc184f20cc95d32859bc9ea90267a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Applications[^key-aaebc184f20cc95d32859bc9ea90267a]
+## 4. Applications[^c-aaebc184f20cc95d32859bc9ea90267a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Payment of grant[^key-aaebc184f20cc95d32859bc9ea90267a]
+## 5. Payment of grant[^c-aaebc184f20cc95d32859bc9ea90267a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. De-minimis aid[^key-aaebc184f20cc95d32859bc9ea90267a]
+## 6. De-minimis aid[^c-aaebc184f20cc95d32859bc9ea90267a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Assistance to authorised officers[^key-aaebc184f20cc95d32859bc9ea90267a]
+## 7. Assistance to authorised officers[^c-aaebc184f20cc95d32859bc9ea90267a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Powers of authorised officers[^key-aaebc184f20cc95d32859bc9ea90267a]
+## 8. Powers of authorised officers[^c-aaebc184f20cc95d32859bc9ea90267a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Witholding and recovery[^key-aaebc184f20cc95d32859bc9ea90267a]
+## 9. Witholding and recovery[^c-aaebc184f20cc95d32859bc9ea90267a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Interest[^key-aaebc184f20cc95d32859bc9ea90267a]
+## 10. Interest[^c-aaebc184f20cc95d32859bc9ea90267a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aaebc184f20cc95d32859bc9ea90267a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aaebc184f20cc95d32859bc9ea90267a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aaebc184f20cc95d32859bc9ea90267a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aaebc184f20cc95d32859bc9ea90267a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aaebc184f20cc95d32859bc9ea90267a]: Textual amendment: Scheme revoked (2.9.2013) by [The Sea Fish Industry (Harbour and Landing Dues) Scheme (Northern Ireland) 2013 (S.R. 2013/215)](https://www.legislation.gov.uk/nisr/2013/215), [art. 10](https://www.legislation.gov.uk/nisr/2013/215/article/10)
+[^c-aaebc184f20cc95d32859bc9ea90267a]: Textual amendment: Scheme revoked (2.9.2013) by [The Sea Fish Industry (Harbour and Landing Dues) Scheme (Northern Ireland) 2013 (S.R. 2013/215)](https://www.legislation.gov.uk/nisr/2013/215), [art. 10](https://www.legislation.gov.uk/nisr/2013/215/article/10)

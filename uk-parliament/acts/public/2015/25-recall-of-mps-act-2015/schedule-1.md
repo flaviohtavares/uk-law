@@ -24,11 +24,11 @@ Section 6
 
 ### Petition officer's general duty
 
-**1.**[^key-952855a1ebc7f6b638647f0c6aab7c4e] It is the petition officer's general duty to do anything necessary for effectually conducting a recall petition in accordance with this Act and regulations made under it.
+**1.**[^c-952855a1ebc7f6b638647f0c6aab7c4e] It is the petition officer's general duty to do anything necessary for effectually conducting a recall petition in accordance with this Act and regulations made under it.
 
 ### Performance of petition officer's functions: delegation, assistance etc
 
-**2.**[^key-e1963f8203d6482e2a97cd2e2de73ef7] (1) Sub-paragraphs (2) and (3) apply in relation to a petition officer for a constituency in England, Wales or Scotland.
+**2.**[^c-e1963f8203d6482e2a97cd2e2de73ef7] (1) Sub-paragraphs (2) and (3) apply in relation to a petition officer for a constituency in England, Wales or Scotland.
 
 (2) The petition officer may appoint one or more deputies to perform any or all of the officer's functions under or by virtue of this Act.
 
@@ -48,7 +48,7 @@ Section 6
 
 ### Expenditure
 
-**3.**[^c22525391][^key-4a7f7accc641f584be676da6cb768f9d] (1) A petition officer may recover from the Minister charges in respect of services rendered, or expenses incurred, by the officer for or in connection with the performance of the officer's functions under or by virtue of this Act if—
+**3.**[^c22525391][^c-4a7f7accc641f584be676da6cb768f9d] (1) A petition officer may recover from the Minister charges in respect of services rendered, or expenses incurred, by the officer for or in connection with the performance of the officer's functions under or by virtue of this Act if—
 
 - (a) the services were necessarily rendered, or the expenses were necessarily incurred, for the efficient and effective performance of those functions, and
 - (b) the total of the officer's charges does not exceed the amount (“the overall maximum recoverable amount”) specified in, or determined in accordance with, regulations made by the Minister, with the consent of the Treasury, for the purposes of this sub-paragraph.
@@ -84,7 +84,7 @@ Section 6
 
 ### Taxation of petition officer's account
 
-**4.**[^key-745834540e0cf50ac67b23cf6d89b06a] (1) An application under paragraph 3(7) for a petition officer's account to be taxed (“a taxation application”) is made—
+**4.**[^c-745834540e0cf50ac67b23cf6d89b06a] (1) An application under paragraph 3(7) for a petition officer's account to be taxed (“a taxation application”) is made—
 
 - (a) in the case of a petition officer for a constituency in England or Wales, to the county court,
 - (b) in the case of a petition officer for a constituency in Scotland, to the Auditor of the Court of Session (“the Auditor”), and
@@ -106,12 +106,12 @@ Section 6
 
 ## Annotations
 
-[^key-952855a1ebc7f6b638647f0c6aab7c4e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/1) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-952855a1ebc7f6b638647f0c6aab7c4e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/1) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-e1963f8203d6482e2a97cd2e2de73ef7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-e1963f8203d6482e2a97cd2e2de73ef7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
 [^c22525391]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/3) partly in force; [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/3) in force at Royal Assent for specified purposes, see [s. 24(2)(a)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/a)
 
-[^key-4a7f7accc641f584be676da6cb768f9d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/3) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-4a7f7accc641f584be676da6cb768f9d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/3) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-745834540e0cf50ac67b23cf6d89b06a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/4) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-745834540e0cf50ac67b23cf6d89b06a]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/1/paragraph/4) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

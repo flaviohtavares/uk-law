@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270BB. Capital expenditure incurred on construction[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+## 270BB. Capital expenditure incurred on construction[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ the capital expenditure is qualifying capital expenditure.
 
 ## Annotations
 
-[^key-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
+[^c-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
 
 [^M_F_7e1e1ecc-60f5-46a0-dcfe-162f4e6b8991]: Textual amendment: Words in s. 270BB(2)(a) substituted (retrospectively) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 5 paras. 5](https://www.legislation.gov.uk/ukpga/2020/14/schedule/5/paragraph/5), [10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/5/paragraph/10)

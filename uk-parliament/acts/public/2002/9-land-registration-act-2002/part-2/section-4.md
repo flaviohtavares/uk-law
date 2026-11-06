@@ -27,7 +27,7 @@ summary: ''
   - (ii) by means of an assent (including a vesting assent); or[^c21159991]
   - (iii) giving effect to a partition of land subject to a trust of land;
 - (aa)[^c21160041] the transfer of a qualifying estate—
-  - (i) by a deed that appoints, or by virtue of section 334 of the Charities Act 2011[^key-78b3e9668090aeca86179ab4fb70610b] has effect as if it appointed, a new trustee or is made in consequence of the appointment of a new trustee, or
+  - (i) by a deed that appoints, or by virtue of section 334 of the Charities Act 2011[^c-78b3e9668090aeca86179ab4fb70610b] has effect as if it appointed, a new trustee or is made in consequence of the appointment of a new trustee, or
   - (ii) by a vesting order under section 44 of the Trustee Act 1925 that is consequential on the appointment of a new trustee;
 - (b) the transfer of an unregistered legal estate in land in circumstances where section 171A of the Housing Act 1985 (c. 68) applies (disposal by landlord which leads to a person no longer being a secure tenant);
 - (c) the grant out of a qualifying estate of an estate in land—
@@ -52,7 +52,7 @@ summary: ''
 
 (5) Subsection (1)(c) does not apply to the grant of an estate to a person as a mortgagee.
 
-(5A)[^key-4b6f1ccc5490bd654602df9a7338abd0] Subsection (1) does not apply to the transfer or grant of a leasehold estate in land under a relevant social housing tenancy.
+(5A)[^c-4b6f1ccc5490bd654602df9a7338abd0] Subsection (1) does not apply to the transfer or grant of a leasehold estate in land under a relevant social housing tenancy.
 
 (6) For the purposes of subsection (1)(a) and (c), if the estate transferred or granted has a negative value, it is to be regarded as transferred or granted for valuable or other consideration.
 
@@ -79,6 +79,6 @@ summary: ''
 
 [^c21160041]: Textual amendment: S. 4(1)(aa) inserted (6.4.2009) by [The Land Registration Act 2002 (Amendment) Order 2008 (S.I. 2008/2872)](https://www.legislation.gov.uk/uksi/2008/2872), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/2872/article/2/3)
 
-[^key-78b3e9668090aeca86179ab4fb70610b]: Textual amendment: Words in s. 4(1)(aa) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 94](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/94) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-78b3e9668090aeca86179ab4fb70610b]: Textual amendment: Words in s. 4(1)(aa) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 94](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/94) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-4b6f1ccc5490bd654602df9a7338abd0]: Textual amendment: [S. 4(5A)](https://www.legislation.gov.uk/ukpga/2002/9/section/4/5A) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 157(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/157/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9,](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11,](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14,](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15,](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-4b6f1ccc5490bd654602df9a7338abd0]: Textual amendment: [S. 4(5A)](https://www.legislation.gov.uk/ukpga/2002/9/section/4/5A) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 157(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/157/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9,](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11,](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14,](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15,](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

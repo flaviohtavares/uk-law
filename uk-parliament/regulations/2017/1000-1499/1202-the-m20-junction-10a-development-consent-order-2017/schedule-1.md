@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-3954fc210cb7c1ec014611ba6b71d7ea]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-3954fc210cb7c1ec014611ba6b71d7ea]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ Articles 2, 5 and 6
 
 ### In the administrative areas of Kent County Council and Ashford Borough Council
 
-[^key-3954fc210cb7c1ec014611ba6b71d7ea]
+[^c-3954fc210cb7c1ec014611ba6b71d7ea]
 
 The authorised development is a nationally significant infrastructure project as defined in sections 14 and 22 of the 2008 Act[^f00064] and associated development within the meaning of section 115(2) of the 2008 Act, comprising—
 
@@ -125,6 +125,6 @@ In connection with the construction of any of those works, further development w
 
 ## Annotations
 
-[^key-3954fc210cb7c1ec014611ba6b71d7ea]: Commencement: Sch. 1 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-3954fc210cb7c1ec014611ba6b71d7ea]: Commencement: Sch. 1 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
 
 [^f00064]: Footnote: Section 22 was substituted by article 3 of [S.I. 2013/1883](https://www.legislation.gov.uk/uksi/2013/1883).

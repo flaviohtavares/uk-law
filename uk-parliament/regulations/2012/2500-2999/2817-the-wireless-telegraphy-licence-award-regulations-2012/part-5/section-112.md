@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Forfeit of deposit and exclusion from award process[^key-49b383d8feb92c0aa029c4e7d99a8a13]
+## 112. Forfeit of deposit and exclusion from award process[^c-49b383d8feb92c0aa029c4e7d99a8a13]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ If, in relation to an applicant which is qualified to bid or a bidder, OFCOM are
 
 ## Annotations
 
-[^key-49b383d8feb92c0aa029c4e7d99a8a13]: Commencement: Reg. 112 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-49b383d8feb92c0aa029c4e7d99a8a13]: Commencement: Reg. 112 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

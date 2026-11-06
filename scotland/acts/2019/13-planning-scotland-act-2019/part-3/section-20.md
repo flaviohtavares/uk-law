@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Regulations about procedure for certain applications[^key-455e123b8cb078033e9bf21bec565b14]
+## 20. Regulations about procedure for certain applications[^c-455e123b8cb078033e9bf21bec565b14]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-455e123b8cb078033e9bf21bec565b14]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2019/13/section/20) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-455e123b8cb078033e9bf21bec565b14]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2019/13/section/20) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)

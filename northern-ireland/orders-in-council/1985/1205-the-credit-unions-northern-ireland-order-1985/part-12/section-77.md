@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-Any costs ordered or directed by the FCA[^key-0632c7e2411e6b65a7d87130d761c2de] to be paid by any person under this Order shall be a debt recoverable summarily by the FCA from that person.
+Any costs ordered or directed by the FCA[^c-0632c7e2411e6b65a7d87130d761c2de] to be paid by any person under this Order shall be a debt recoverable summarily by the FCA from that person.
 
 ## Annotations
 
-[^key-0632c7e2411e6b65a7d87130d761c2de]: Textual amendment: Word in art. 77 substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(w)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/w) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-0632c7e2411e6b65a7d87130d761c2de]: Textual amendment: Word in art. 77 substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(w)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/w) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

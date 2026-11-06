@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-88d68cb378985f87a3d2f35d03ee9b32]
+## 2. Interpretation[^c-88d68cb378985f87a3d2f35d03ee9b32]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ In these Regulations—
 - “**officer**” (“***swyddog***”) has the meaning given in section 206 of the Act (interpretation);
 - “**ophthalmic hospital**” (“***ysbyty offthalmig***”) includes an ophthalmic department of a hospital;
 - “**ophthalmic list**” (“***rhestr offthalmig***”) has the meaning given in regulation 10;
-- “[^key-e65efab0b9120907331f103ae427c46b]**ophthalmic listed appliance**” (“***teclyn rhestredig offthalmig*** ”) means an appliance on the list of preparations approved by the Welsh Ministers which may be ordered by a qualifying optometrist for national health service primary ophthalmic services patients;
+- “[^c-e65efab0b9120907331f103ae427c46b]**ophthalmic listed appliance**” (“***teclyn rhestredig offthalmig*** ”) means an appliance on the list of preparations approved by the Welsh Ministers which may be ordered by a qualifying optometrist for national health service primary ophthalmic services patients;
 - “**ophthalmic listed medicine**” (“***meddyginiaeth restredig offthalmig***”) means an item on the list of preparations approved by the Welsh Ministers which may be ordered by a qualifying optometrist for national health service primary ophthalmic services patients;
 - “**ophthalmic medical practitioner**” (“***ymarferydd meddygol offthalmig***”) means a person recognised under regulation 9 and Schedule 2;
 - “**Ophthalmic Qualifications Committee**” (“***Pwyllgor Cymwysterau Offthalmig***”) means such committee appointed by organisations representative of the medical profession as may be recognised by the Welsh Ministers for the purposes of approving—
@@ -95,7 +95,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-88d68cb378985f87a3d2f35d03ee9b32]: Commencement: Reg. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-88d68cb378985f87a3d2f35d03ee9b32]: Commencement: Reg. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00002]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44); section 9 was amended by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848)., article 10, the Co-operative and Community Benefit Societies Act [2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), Schedule 4, paragraph 44 and the Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) [2016 (c. 16)](https://www.legislation.gov.uk/ukpga/2016/16), Schedule 1, paragraph 37.
 
@@ -119,7 +119,7 @@ In these Regulations—
 
 [^f00012]: Footnote: [S.I. 1995/2800](https://www.legislation.gov.uk/uksi/1995/2800), to which there are amendments not relevant to these Regulations.
 
-[^key-e65efab0b9120907331f103ae427c46b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2023/1053/regulation/2) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/uksi/2024/1196), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/1196/regulation/1/4), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2024/1196/schedule/paragraph/2) (as amended by [S.I. 2025/285](https://www.legislation.gov.uk/uksi/2025/285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/285/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2025/285/regulation/3/4/a))
+[^c-e65efab0b9120907331f103ae427c46b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2023/1053/regulation/2) inserted (1.4.2025) by [The National Health Service (Pharmaceutical Services) (Wales) (Amendment) Regulations 2024 (S.I. 2024/1196)](https://www.legislation.gov.uk/uksi/2024/1196), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/1196/regulation/1/4), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2024/1196/schedule/paragraph/2) (as amended by [S.I. 2025/285](https://www.legislation.gov.uk/uksi/2025/285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/285/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2025/285/regulation/3/4/a))
 
 [^f00013]: Footnote: Section 8A was added by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848), article 9.
 

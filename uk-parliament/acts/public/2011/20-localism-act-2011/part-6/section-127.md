@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Powers in relation to: unauthorised advertisements; defacement of premises[^key-2adfafc17d935a5f57b51012c7c1e9b5]
+## 127. Powers in relation to: unauthorised advertisements; defacement of premises[^c-2adfafc17d935a5f57b51012c7c1e9b5]
 
 *Extent: E+W*
 
@@ -412,4 +412,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2adfafc17d935a5f57b51012c7c1e9b5]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2011/20/section/127) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-2adfafc17d935a5f57b51012c7c1e9b5]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2011/20/section/127) in force at 6.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)

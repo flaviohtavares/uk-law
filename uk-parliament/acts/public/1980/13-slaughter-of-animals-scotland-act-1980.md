@@ -35,7 +35,7 @@ An Act to consolidate certain enactments relating to slaughterhouses, knackers�
 
 ## 1. Power of local authorities to provide public slaughterhouses.
 
-Subject to section 3[^c989664] of this Act, a local authority may provide and, if they think fit, operate a slaughterhouse and may dispose of any slaughterhouse belonging to them by [^key-d08a0e8efc4c340193b3d4f0772bda75]... sale, lease or excambion; and any slaughterhouse so disposed of shall be deemed to be disposed of under Part VI of the [^c989665]Local Government (Scotland) Act 1973.
+Subject to section 3[^c989664] of this Act, a local authority may provide and, if they think fit, operate a slaughterhouse and may dispose of any slaughterhouse belonging to them by [^c-d08a0e8efc4c340193b3d4f0772bda75]... sale, lease or excambion; and any slaughterhouse so disposed of shall be deemed to be disposed of under Part VI of the [^c989665]Local Government (Scotland) Act 1973.
 
 ## 2. Acquisition of land for purposes relating to slaughterhouses.
 
@@ -62,7 +62,7 @@ Subject to section 3[^c989664] of this Act, a local authority may provide and, i
 
 (2) A licence under this section shall expire on such day in every year as the local authority fix and when a licence is first granted shall expire on the day so fixed which secondly occurs after the grant of the licence; and a fee not exceeding twenty-five pence may be charged for the licence or any renewal thereof.
 
-(3)[^key-87d157afc897da74724c191959762c01] On receiving an application for the grant or renewal of a licence under this section, the local authority must publish notice of the application in one or more newspapers circulating in that local authority’s area specifying—
+(3)[^c-87d157afc897da74724c191959762c01] On receiving an application for the grant or renewal of a licence under this section, the local authority must publish notice of the application in one or more newspapers circulating in that local authority’s area specifying—
 
 - (a) the address of the premises to which the application relates;
 - (b) the period, being a period of not less than 21 days beginning with the day on which the notice is published, before the end of which any person may object to the grant or renewal of the licence; and
@@ -96,7 +96,7 @@ authorising the use of those premises for those purposes respectively.
 
 ## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c989685]
 
-## 9. Securing humane conditions in slaughterhouses and knackers’ yards.[^key-e23c36383bd8b87554a7de3fe125c1f3][^c989692]
+## 9. Securing humane conditions in slaughterhouses and knackers’ yards.[^c-e23c36383bd8b87554a7de3fe125c1f3][^c989692]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -110,17 +110,17 @@ authorising the use of those premises for those purposes respectively.
 
 ## 14. Further powers of entry.
 
-(1)[^key-0c096e477827d23d5419e61ac3093166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0c096e477827d23d5419e61ac3093166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-0c096e477827d23d5419e61ac3093166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0c096e477827d23d5419e61ac3093166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-0c096e477827d23d5419e61ac3093166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0c096e477827d23d5419e61ac3093166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The local authority shall have a right to enter any knacker’s yard at any hour between nine o’clock in the morning and six o’clock in the evening, or at any hour when business is in progress or is usually carried on therein, for the purpose of examining whether there is any contravention of—
 
 - (i) section 6 of this Act;
-- (ii)[^key-b8eb205bb61580a5c9da0725a4507733] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (iii)[^key-b8eb205bb61580a5c9da0725a4507733] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-b8eb205bb61580a5c9da0725a4507733] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (iii)[^c-b8eb205bb61580a5c9da0725a4507733] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c989723][^c989724]
 
@@ -134,38 +134,38 @@ Any local authority who have provided or established a slaughterhouse may, if th
 
 ## 19. Enforcement.[^c989744]
 
-(1) It shall be the duty of every local authority to execute and enforce within their area the provisions of—section 7[^key-b78223ae7e721a82c9fe743884ae2c36] of this Act; but this subsection shall not be construed as authorising a local authority to institute proceedings for any offence.
+(1) It shall be the duty of every local authority to execute and enforce within their area the provisions of—section 7[^c-b78223ae7e721a82c9fe743884ae2c36] of this Act; but this subsection shall not be construed as authorising a local authority to institute proceedings for any offence.
 
-(1A)[^key-55c80f4a99d954c7d012e69c60bb6493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-55c80f4a99d954c7d012e69c60bb6493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-55c80f4a99d954c7d012e69c60bb6493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-55c80f4a99d954c7d012e69c60bb6493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) For the purposes of any regulations made under section 16 of the Food Safety Act 1990[^c989747] (regulations as to food hygiene) in respect of any premises to which the provisions mentioned in subsection (1)(i) above apply, the provisions of section 32 of the said Act of 1990 (power to enter premises) shall apply in relation to an authorised officer of the Secretary of State as they apply in relation to an authorised officer of the local authority who are empowered to enforce those regulations so far as they apply to such premises.
 
-## 19A. Codes of practice.[^key-5fa0485ef4543d348f62121bc08d1fc6]
+## 19A. Codes of practice.[^c-5fa0485ef4543d348f62121bc08d1fc6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Regulations.[^key-ef752a55943e2fa2d0525990a7598d41]
+## 20. Regulations.[^c-ef752a55943e2fa2d0525990a7598d41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 21. Defraying of certain expenses.
 
-A local authority owning a slaughterhouse may, if they so determine, defray out of the funds from which such slaughterhouse is maintained any expenses incurred by them in the exercise of their powers under section [^key-8be739979e2728a6ffd8db6523eb2ce3]...[^c989777]. . . 17 of this Act.
+A local authority owning a slaughterhouse may, if they so determine, defray out of the funds from which such slaughterhouse is maintained any expenses incurred by them in the exercise of their powers under section [^c-8be739979e2728a6ffd8db6523eb2ce3]...[^c989777]. . . 17 of this Act.
 
 ## 22. Interpretation.
 
 In this Act, unless the context otherwise requires—
 
 - “**animal**” means any description of cattle, sheep, goat, swine or horse;
-- “**constable**” has the same meaning as in the Police and Fire Reform (Scotland) Act 2012[^key-a1c2984e48be79dd8376ea262c7cf47a];
+- “**constable**” has the same meaning as in the Police and Fire Reform (Scotland) Act 2012[^c-a1c2984e48be79dd8376ea262c7cf47a];
 - “**enactment**” includes an enactment contained in a local Act and any order, regulation or other instrument having effect by virtue of an Act;
 - “**grant**”, in relation to a licence, includes renew or, as the case may be, renewal;
 - “**horse**” includes ass and mule;
 - “[^c989794] **knacker’s yard** ” means any premises used in connection with the business of slaughtering, flaying or cutting up animals the flesh of which is not intended for human consumption; and “ **knacker** ” means a person whose business it is to carry out such slaughtering, flaying or cutting up
 - “**local authority**” means a council constituted under section 2 of the Local Government[^c989795] etc. (Scotland) Act 1994;
-- “**premises**”, except in section 6, means a building or any part thereof and any forecourts, yards and places of storage used in connection therewith; and in section 6 extends to any facilities for moving animals and any stall, pen, covered area or field used by the knacker’s yard in order to confine an animal until it is killed or to give it any necessary attention before it is killed[^key-7e52497d639b22237ee130da3cee2ee8];
+- “**premises**”, except in section 6, means a building or any part thereof and any forecourts, yards and places of storage used in connection therewith; and in section 6 extends to any facilities for moving animals and any stall, pen, covered area or field used by the knacker’s yard in order to confine an animal until it is killed or to give it any necessary attention before it is killed[^c-7e52497d639b22237ee130da3cee2ee8];
 - [^c989798] “[^c989797] **slaughterhouse** ” means a place for slaughtering animals, the flesh of which is intended for sale[^c989799] for human consumption, and includes any place available in connection with such a place for the confinement of animals while awaiting slaughter there or keeping , or subjecting to any treatment or process, products of the slaughtering of animals there; and “ **slaughterman** ” means a person whose business it is to carry out such slaughtering
 
 ## 23. Consequential amendments.[^c989800]
@@ -226,7 +226,7 @@ Section 24(2).
 
 | Chapter | Short Title | Extent of Repeal |
 | --- | --- | --- |
-| [^key-30bd7887bfee1f32041c832400868fe1]... | [^key-30bd7887bfee1f32041c832400868fe1]... | [^key-30bd7887bfee1f32041c832400868fe1]... |
+| [^c-30bd7887bfee1f32041c832400868fe1]... | [^c-30bd7887bfee1f32041c832400868fe1]... | [^c-30bd7887bfee1f32041c832400868fe1]... |
 | 18 & 19 Geo.5. c.29 | The Slaughter of Animals (Scotland) Act 1928. | The whole Act |
 | 1 & 2 Eliz. 2. c.27 | The Slaughter of Animals (Pigs) Act 1953. | The whole Act |
 | 2 & 3 Eliz. 2. c.42 | The Slaughterhouses Act 1954 | The whole Act |
@@ -239,7 +239,7 @@ Section 24(2).
 
 [^c989664]: Textual amendment: Words in s. 1 substituted (11.09.1996) by [S.I. 1996/2235](https://www.legislation.gov.uk/uksi/1996/2235), [art. 9(1)](https://www.legislation.gov.uk/uksi/1996/2235/article/9/1)
 
-[^key-d08a0e8efc4c340193b3d4f0772bda75]: Textual amendment: Word in [s. 1](https://www.legislation.gov.uk/ukpga/1980/13/section/1) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pts. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-d08a0e8efc4c340193b3d4f0772bda75]: Textual amendment: Word in [s. 1](https://www.legislation.gov.uk/ukpga/1980/13/section/1) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pts. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c989665]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
@@ -253,7 +253,7 @@ Section 24(2).
 
 [^c989675]: Textual amendment: Words substituted by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
-[^key-87d157afc897da74724c191959762c01]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/ukpga/1980/13/section/6/3) substituted (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/3/a)
+[^c-87d157afc897da74724c191959762c01]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/ukpga/1980/13/section/6/3) substituted (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/3/a)
 
 [^c989678]: Textual amendment: [S. 7(1)(b)(2)(b)](https://www.legislation.gov.uk/ukpga/1980/13/section/7/1/b/2/b) repealed (11.09.1996) by [S.I. 1996/2235](https://www.legislation.gov.uk/uksi/1996/2235), [art. 11](https://www.legislation.gov.uk/uksi/1996/2235/article/11), [Sch](https://www.legislation.gov.uk/uksi/1996/2235/schedule)
 
@@ -263,7 +263,7 @@ Section 24(2).
 
 [^c989685]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1980/13/section/8) repealed (11.09.1996) by [S.I. 1996/2235](https://www.legislation.gov.uk/uksi/1996/2235), [arts. 7](https://www.legislation.gov.uk/uksi/1996/2235/article/7), [11](https://www.legislation.gov.uk/uksi/1996/2235/article/11), [Sch](https://www.legislation.gov.uk/uksi/1996/2235/schedule)
 
-[^key-e23c36383bd8b87554a7de3fe125c1f3]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1980/13/section/9) repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
+[^c-e23c36383bd8b87554a7de3fe125c1f3]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1980/13/section/9) repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
 
 [^c989692]: Modification: S. 9 power to transfer functions conferred (3.1.1995) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [s. 31](https://www.legislation.gov.uk/ukpga/1994/40/section/31), [Sch. 9](https://www.legislation.gov.uk/ukpga/1994/40/schedule/9), [paras. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1994/40/paragraph/3/1/a), [4](https://www.legislation.gov.uk/ukpga/1994/40/paragraph/4)
 
@@ -277,9 +277,9 @@ Section 24(2).
 
 [^c989706]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1980/13/section/13) repealed (11.09.1996) by [S.I. 1996/2235](https://www.legislation.gov.uk/uksi/1996/2235), [art. 11](https://www.legislation.gov.uk/uksi/1996/2235/article/11), [Sch](https://www.legislation.gov.uk/uksi/1996/2235/schedule)
 
-[^key-0c096e477827d23d5419e61ac3093166]: Textual amendment: [S. 14(1)-(3)](https://www.legislation.gov.uk/ukpga/1980/13/section/14/1) repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
+[^c-0c096e477827d23d5419e61ac3093166]: Textual amendment: [S. 14(1)-(3)](https://www.legislation.gov.uk/ukpga/1980/13/section/14/1) repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
 
-[^key-b8eb205bb61580a5c9da0725a4507733]: Textual amendment: S. 14(4)(ii)(iii) omitted (1.10.2009) by virtue of [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/3/b)
+[^c-b8eb205bb61580a5c9da0725a4507733]: Textual amendment: S. 14(4)(ii)(iii) omitted (1.10.2009) by virtue of [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/3/b)
 
 [^c989723]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/1980/13/section/15) power to tranfer functions conferred (3.1.1995) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [s. 31](https://www.legislation.gov.uk/ukpga/1994/40/section/31), [Sch. 9](https://www.legislation.gov.uk/ukpga/1994/40/schedule/9), [paras. 3(1)(d)](https://www.legislation.gov.uk/ukpga/1994/40/paragraph/3/1/d), [4](https://www.legislation.gov.uk/ukpga/1994/40/paragraph/4)
 
@@ -295,27 +295,27 @@ Section 24(2).
 
 [^c989744]: Modification: S. 19 power to transfer functions conferred (3.1.1995) [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40) , [s. 31](https://www.legislation.gov.uk/ukpga/1994/40/section/31) , [Sch. 9](https://www.legislation.gov.uk/ukpga/1994/40/schedule/9) , [paras. 3(1)(f)](https://www.legislation.gov.uk/ukpga/1994/40/paragraph/3/1/f) , [4](https://www.legislation.gov.uk/ukpga/1994/40/paragraph/4)
 
-[^key-b78223ae7e721a82c9fe743884ae2c36]: Textual amendment: Words in s. 19(1) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321) , [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b) , [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/ssi/2012/321/schedule/4/paragraph/1/a)
+[^c-b78223ae7e721a82c9fe743884ae2c36]: Textual amendment: Words in s. 19(1) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321) , [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b) , [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/ssi/2012/321/schedule/4/paragraph/1/a)
 
-[^key-55c80f4a99d954c7d012e69c60bb6493]: Textual amendment: S. 19(1A)(1B) repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321) , [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b) , [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
+[^c-55c80f4a99d954c7d012e69c60bb6493]: Textual amendment: S. 19(1A)(1B) repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321) , [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b) , [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
 
 [^c989747]: Textual amendment: Words substituted by [Food Safety Act 1990 (c. 16, SIF 53:1, 2)](https://www.legislation.gov.uk/ukpga/1990/16) , [s. 59(1)](https://www.legislation.gov.uk/ukpga/1990/16/section/59/1) , [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/1990/16/schedule/3/paragraph/23)
 
-[^key-5fa0485ef4543d348f62121bc08d1fc6]: Textual amendment: S. 19A repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
+[^c-5fa0485ef4543d348f62121bc08d1fc6]: Textual amendment: S. 19A repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
 
-[^key-ef752a55943e2fa2d0525990a7598d41]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/1980/13/section/20) repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
+[^c-ef752a55943e2fa2d0525990a7598d41]: Textual amendment: [S. 20](https://www.legislation.gov.uk/ukpga/1980/13/section/20) repealed (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1)
 
-[^key-8be739979e2728a6ffd8db6523eb2ce3]: Textual amendment: Word in [s. 21](https://www.legislation.gov.uk/ukpga/1980/13/section/21) omitted (1.1.2013) by virtue of [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/schedule/4/paragraph/1/b)
+[^c-8be739979e2728a6ffd8db6523eb2ce3]: Textual amendment: Word in [s. 21](https://www.legislation.gov.uk/ukpga/1980/13/section/21) omitted (1.1.2013) by virtue of [The Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 (S.S.I. 2012/321)](https://www.legislation.gov.uk/ssi/2012/321), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/1/b), [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/ssi/2012/321/schedule/4/paragraph/1/b)
 
 [^c989777]: Textual amendment: Words in s. 21 repealed (1.4.1995) by [S.I. 1995/731](https://www.legislation.gov.uk/uksi/1995/731), [reg. 28(1)](https://www.legislation.gov.uk/uksi/1995/731/regulation/28/1), [Sch. 13](https://www.legislation.gov.uk/uksi/1995/731/schedule/13)
 
-[^key-a1c2984e48be79dd8376ea262c7cf47a]: Textual amendment: Words in s. 22 substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 4](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/4); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-a1c2984e48be79dd8376ea262c7cf47a]: Textual amendment: Words in s. 22 substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 4](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/4); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c989794]: Textual amendment: Definition substituted by [Food Safety Act 1990 (c. 16, SIF 53:1, 2)](https://www.legislation.gov.uk/ukpga/1990/16), [s. 59(1)](https://www.legislation.gov.uk/ukpga/1990/16/section/59/1), [Sch. 3 para. 24(a)](https://www.legislation.gov.uk/ukpga/1990/16/schedule/3/paragraph/24/a)
 
 [^c989795]: Textual amendment: Words in s. 22 substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13), [para. 117](https://www.legislation.gov.uk/ukpga/1994/39/paragraph/117)(with s. 128(8))
 
-[^key-7e52497d639b22237ee130da3cee2ee8]: Textual amendment: Words in s. 22 substituted (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/3/c)
+[^c-7e52497d639b22237ee130da3cee2ee8]: Textual amendment: Words in s. 22 substituted (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (S.S.I. 2009/319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/ssi/2009/319/schedule/2/paragraph/3/c)
 
 [^c989798]: Textual amendment: In s. 22: definition of "slaughterhouse" applied (25.9.1991) by [Agriculture and Forestry (Financial Provisions) Act 1991 (c. 33, SIF 2:2)](https://www.legislation.gov.uk/ukpga/1991/33), [ss. 2(11)](https://www.legislation.gov.uk/ukpga/1991/33/section/2/11), [5(2)](https://www.legislation.gov.uk/ukpga/1991/33/section/5/2)
 
@@ -337,4 +337,4 @@ Section 24(2).
 
 [^c989806]: Modification: The text of Sch. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-30bd7887bfee1f32041c832400868fe1]: Textual amendment: Words in Sch. 3 repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-30bd7887bfee1f32041c832400868fe1]: Textual amendment: Words in Sch. 3 repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

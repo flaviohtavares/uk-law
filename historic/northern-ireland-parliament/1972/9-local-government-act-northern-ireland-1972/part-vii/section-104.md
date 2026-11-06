@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 104. Agency arrangements[^c20367691][^c20720641][^key-566a400277a41c903789f6b755b07c2c][^key-1f33671e727114086487240be16b7ebb]
+## 104. Agency arrangements[^c20367691][^c20720641][^c-566a400277a41c903789f6b755b07c2c][^c-1f33671e727114086487240be16b7ebb]
 
 *Extent: N.I.*
 
-(1) A council may make arrangements with [^key-af65988e39c1ff28c40b01dce68ef52b]... any public body or government department for the exercise of any functions—
+(1) A council may make arrangements with [^c-af65988e39c1ff28c40b01dce68ef52b]... any public body or government department for the exercise of any functions—
 
-- (a) by the council on behalf of [^key-af65988e39c1ff28c40b01dce68ef52b]..., as the case may be, the public body or department, or
-- (b) by [^key-af65988e39c1ff28c40b01dce68ef52b]..., as the case may be, the public body or department on behalf of the council,
+- (a) by the council on behalf of [^c-af65988e39c1ff28c40b01dce68ef52b]..., as the case may be, the public body or department, or
+- (b) by [^c-af65988e39c1ff28c40b01dce68ef52b]..., as the case may be, the public body or department on behalf of the council,
 
 on such terms as may be provided for by the arrangements.
 
@@ -37,8 +37,8 @@ on such terms as may be provided for by the arrangements.
 
 [^c20720641]: Modification: Ss. 104-106 applied (20.8.2008) by [Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2008 (S.R. 2008/310)](https://www.legislation.gov.uk/nisr/2008/310), [art. 7](https://www.legislation.gov.uk/nisr/2008/310/article/7)
 
-[^key-566a400277a41c903789f6b755b07c2c]: Modification: Ss. 104-106 applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [6](https://www.legislation.gov.uk/nisr/2012/10/article/6)
+[^c-566a400277a41c903789f6b755b07c2c]: Modification: Ss. 104-106 applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [6](https://www.legislation.gov.uk/nisr/2012/10/article/6)
 
-[^key-1f33671e727114086487240be16b7ebb]: Modification: Ss. 104-106 applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [art. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [reg. 6](https://www.legislation.gov.uk/nisr/2015/183/regulation/6)
+[^c-1f33671e727114086487240be16b7ebb]: Modification: Ss. 104-106 applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [art. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [reg. 6](https://www.legislation.gov.uk/nisr/2015/183/regulation/6)
 
-[^key-af65988e39c1ff28c40b01dce68ef52b]: Textual amendment: Words in [s. 104(1)](https://www.legislation.gov.uk/apni/1972/9/section/104/1) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-af65988e39c1ff28c40b01dce68ef52b]: Textual amendment: Words in [s. 104(1)](https://www.legislation.gov.uk/apni/1972/9/section/104/1) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

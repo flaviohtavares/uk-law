@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 92. Commencement of pensions[^key-bdcb16bd9f8ed8bf07910f84376a2918]
+## 92. Commencement of pensions[^c-bdcb16bd9f8ed8bf07910f84376a2918]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdcb16bd9f8ed8bf07910f84376a2918]: Commencement: Reg. 92 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-bdcb16bd9f8ed8bf07910f84376a2918]: Commencement: Reg. 92 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

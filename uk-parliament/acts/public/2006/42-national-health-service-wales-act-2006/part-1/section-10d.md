@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10D. Arrangements with other bodies relating to direct payments[^key-ec7d9b644361c2bc4103db7d05a38b9b]
+## 10D. Arrangements with other bodies relating to direct payments[^c-ec7d9b644361c2bc4103db7d05a38b9b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec7d9b644361c2bc4103db7d05a38b9b]: Textual amendment: Ss. 10B-10D and cross-heading inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 24(2)](https://www.legislation.gov.uk/asc/2025/1/section/24/2), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/a)
+[^c-ec7d9b644361c2bc4103db7d05a38b9b]: Textual amendment: Ss. 10B-10D and cross-heading inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 24(2)](https://www.legislation.gov.uk/asc/2025/1/section/24/2), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/a)

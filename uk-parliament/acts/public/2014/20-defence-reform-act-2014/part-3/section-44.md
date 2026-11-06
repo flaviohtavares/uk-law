@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Renaming of Army Reserve and Territorial Army[^key-433dc1ecc9c1b86e03996149fc949ad5]
+## 44. Renaming of Army Reserve and Territorial Army[^c-433dc1ecc9c1b86e03996149fc949ad5]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-433dc1ecc9c1b86e03996149fc949ad5]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2014/20/section/44) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-433dc1ecc9c1b86e03996149fc949ad5]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2014/20/section/44) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Transitional provision: approved places of inspection[^key-4b71f313e719ab79cbee4f600f30fc57]
+## 13. Transitional provision: approved places of inspection[^c-4b71f313e719ab79cbee4f600f30fc57]
 
 *Extent: N.I.*
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4b71f313e719ab79cbee4f600f30fc57]: Commencement: Reg. 13 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-4b71f313e719ab79cbee4f600f30fc57]: Commencement: Reg. 13 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00031]: Footnote: O.J. No. L 313, 12.10.2004, p. 16.
 

@@ -44,11 +44,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes the following Regulations in exercise of the powers conferred by sections 2(1), (7)(a) and (b) and (13) of the Period Products (Free Provision) Act (Northern Ireland) 2022[^f00002] and after consultation in accordance with section 2(8) of that Act.
 
-## 1. Citation and commencement[^key-ad1aebf813e69852089243679d16a592]
+## 1. Citation and commencement[^c-ad1aebf813e69852089243679d16a592]
 
 These Regulations may be cited as the Period Products (Department for Infrastructure Specified Public Service Bodies) Regulations (Northern Ireland) 2024 and come into operation on 29<sup>th</sup> May 2024.
 
-## 2. Interpretation[^key-8eae3fd5ed0ad1efa630e1b70a37e391]
+## 2. Interpretation[^c-8eae3fd5ed0ad1efa630e1b70a37e391]
 
 In these Regulations—
 
@@ -61,11 +61,11 @@ In these Regulations—
 - “**the Act**” means the Period Products (Free Provision) Act (Northern Ireland) 2022[^f00005]; and
 - “**visitors**” means persons with legitimate reason for being in the premises of a specified public service body, such as attending meetings or events or providing a function or service.
 
-## 3. Specified public service bodies[^key-7c8f2bcea3ec853d4219c00584c8f55b]
+## 3. Specified public service bodies[^c-7c8f2bcea3ec853d4219c00584c8f55b]
 
 The bodies listed in this Schedule are specified as public service bodies to which the duty in section 2(1) of the Act applies.
 
-## 4. Description of premises and persons[^key-ec0e2523b28347fccd749773ee8c96db]
+## 4. Description of premises and persons[^c-ec0e2523b28347fccd749773ee8c96db]
 
 For the purposes of section 2(3) of this Act—
 
@@ -101,15 +101,15 @@ A senior officer of the
 
 Department
 
-## SCHEDULE — Specified Public Service Bodies[^key-8f5c069da120ddf56f2514f007d3cfa0]
+## SCHEDULE — Specified Public Service Bodies[^c-8f5c069da120ddf56f2514f007d3cfa0]
 
 Regulation 3
 
-[^key-8f5c069da120ddf56f2514f007d3cfa0]
+[^c-8f5c069da120ddf56f2514f007d3cfa0]
 
 NITHC[^f00006]; and
 
-[^key-8f5c069da120ddf56f2514f007d3cfa0]
+[^c-8f5c069da120ddf56f2514f007d3cfa0]
 
 NIW[^f00007]
 
@@ -125,9 +125,9 @@ These Regulations are made under section 2(1) of the Period Products (Free Provi
 
 [^f00002]: Footnote: [2022 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2022/25)
 
-[^key-ad1aebf813e69852089243679d16a592]: Commencement: Reg. 1 in operation at 29.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/122/regulation/1)
+[^c-ad1aebf813e69852089243679d16a592]: Commencement: Reg. 1 in operation at 29.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/122/regulation/1)
 
-[^key-8eae3fd5ed0ad1efa630e1b70a37e391]: Commencement: Reg. 2 in operation at 29.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/122/regulation/1)
+[^c-8eae3fd5ed0ad1efa630e1b70a37e391]: Commencement: Reg. 2 in operation at 29.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/122/regulation/1)
 
 [^f00003]: Footnote: [1967 c.37 (N.I.)](https://www.legislation.gov.uk/apni/1967/37)
 
@@ -135,11 +135,11 @@ These Regulations are made under section 2(1) of the Period Products (Free Provi
 
 [^f00005]: Footnote: [2022 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2022/25)
 
-[^key-7c8f2bcea3ec853d4219c00584c8f55b]: Commencement: Reg. 3 in operation at 29.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/122/regulation/1)
+[^c-7c8f2bcea3ec853d4219c00584c8f55b]: Commencement: Reg. 3 in operation at 29.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/122/regulation/1)
 
-[^key-ec0e2523b28347fccd749773ee8c96db]: Commencement: Reg. 4 in operation at 29.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/122/regulation/1)
+[^c-ec0e2523b28347fccd749773ee8c96db]: Commencement: Reg. 4 in operation at 29.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/122/regulation/1)
 
-[^key-8f5c069da120ddf56f2514f007d3cfa0]: Commencement: Sch. in operation at 29.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/122/regulation/1)
+[^c-8f5c069da120ddf56f2514f007d3cfa0]: Commencement: Sch. in operation at 29.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/122/regulation/1)
 
 [^f00006]: Footnote: [1967 c.37 (N.I.)](https://www.legislation.gov.uk/apni/1967/37)
 

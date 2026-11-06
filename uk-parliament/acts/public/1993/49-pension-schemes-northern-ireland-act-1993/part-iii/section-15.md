@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Discharge of liability where guaranteed minimum pensions secured by insurance policies or annuity contracts.[^key-76f0a337ef3a63c8140c64a09dd0859e]
+## 15. Discharge of liability where guaranteed minimum pensions secured by insurance policies or annuity contracts.[^c-76f0a337ef3a63c8140c64a09dd0859e]
 
 *Extent: N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 (4) A policy of insurance or annuity contract is appropriate for the purposes of this section if—
 
 - (a) the insurer[^c11719181] with which it is or was taken out or entered into—
-  - (i) is, or was at the relevant time, carrying on [^c11719191]. . . long-term insurance business in the United Kingdom [^key-cebe07e28874a9fe0dbf66ba4205bef9]...; and
+  - (i) is, or was at the relevant time, carrying on [^c11719191]. . . long-term insurance business in the United Kingdom [^c-cebe07e28874a9fe0dbf66ba4205bef9]...; and
   - (ii) satisfies, or at the relevant time satisfied, prescribed requirements; and
 - (b) it may not be assigned or surrendered except on conditions which satisfy such requirements as may be prescribed; and
 - (c) it contains or is endorsed with terms whose effect is that the amount secured by it may not be commuted except on conditions which satisfy such requirements as may be prescribed; and
@@ -46,7 +46,7 @@ summary: ''
 (5) The requirements referred to in subsection (1) are—
 
 - (a) that the arrangement for securing the amount by means of the policy or contract was made—
-  - (i) at the written request of the earner or, if the earner has died, of the earner’s widow, widower or surviving civil partner[^key-96094afebc7329262339d3579f774d0d]; or
+  - (i) at the written request of the earner or, if the earner has died, of the earner’s widow, widower or surviving civil partner[^c-96094afebc7329262339d3579f774d0d]; or
   - (ii) with the consent of the earner or the widow, widower or surviving civil partner given in writing in a prescribed form;
 - (b) that—
   - (i) the case is one such as is mentioned in section 92(2); and
@@ -61,14 +61,14 @@ summary: ''
 
 ## Annotations
 
-[^key-76f0a337ef3a63c8140c64a09dd0859e]: Modification: S. 15 modified (1.4.2009) by [Local Government Pension Scheme (Administration) Regulations (Northern Ireland) 2009 (S.R. 2009/33)](https://www.legislation.gov.uk/nisr/2009/33), [regs. 1](https://www.legislation.gov.uk/nisr/2009/33/regulation/1), [74(1)](https://www.legislation.gov.uk/nisr/2009/33/regulation/74/1)
+[^c-76f0a337ef3a63c8140c64a09dd0859e]: Modification: S. 15 modified (1.4.2009) by [Local Government Pension Scheme (Administration) Regulations (Northern Ireland) 2009 (S.R. 2009/33)](https://www.legislation.gov.uk/nisr/2009/33), [regs. 1](https://www.legislation.gov.uk/nisr/2009/33/regulation/1), [74(1)](https://www.legislation.gov.uk/nisr/2009/33/regulation/74/1)
 
 [^c11719181]: Textual amendment: Words in s. 15(4)(a) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [129(2)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/129/2/a)
 
 [^c11719191]: Textual amendment: Word in s. 15(4)(a)(i) repealed (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [129(2)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/129/2/b)
 
-[^key-cebe07e28874a9fe0dbf66ba4205bef9]: Textual amendment: Words in s. 15(4)(a)(i) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cebe07e28874a9fe0dbf66ba4205bef9]: Textual amendment: Words in s. 15(4)(a)(i) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/193/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-96094afebc7329262339d3579f774d0d]: Textual amendment: Words in s. 15(5)(a)(i)(ii) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order (Northern Ireland) 2005 (S.R. 2005/433)](https://www.legislation.gov.uk/nisr/2005/433), [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/6)
+[^c-96094afebc7329262339d3579f774d0d]: Textual amendment: Words in s. 15(5)(a)(i)(ii) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order (Northern Ireland) 2005 (S.R. 2005/433)](https://www.legislation.gov.uk/nisr/2005/433), [art. 1(3)](https://www.legislation.gov.uk/nisr/2005/433/article/1/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2005/433/schedule/1/paragraph/6)
 
 [^c11719201]: Textual amendment: S. 15(7) repealed (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [129(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/129/3)

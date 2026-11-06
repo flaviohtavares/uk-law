@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Staffing of maintained schools: suspension of delegated budget[^key-844e12efa07e63e766521eea9b6a61a9]
+## 19. Staffing of maintained schools: suspension of delegated budget[^c-844e12efa07e63e766521eea9b6a61a9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-844e12efa07e63e766521eea9b6a61a9]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2011/21/section/19) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-844e12efa07e63e766521eea9b6a61a9]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2011/21/section/19) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

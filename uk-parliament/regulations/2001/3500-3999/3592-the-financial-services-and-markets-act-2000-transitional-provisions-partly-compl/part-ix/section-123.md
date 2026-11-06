@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Test to be applied by friendly society tribunal[^key-ad0a4e430348872a8aa2cf20c019f1e0]
+## 123. Test to be applied by friendly society tribunal[^c-ad0a4e430348872a8aa2cf20c019f1e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad0a4e430348872a8aa2cf20c019f1e0]: Commencement: Art. 123 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-ad0a4e430348872a8aa2cf20c019f1e0]: Commencement: Art. 123 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

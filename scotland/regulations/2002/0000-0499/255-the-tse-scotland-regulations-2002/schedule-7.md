@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 7 — Offspring Slaughter[^key-277923e7f1e12feba1efa3351dee1ba7]
+## SCHEDULE 7 — Offspring Slaughter[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 *Extent: S*
 
@@ -24,54 +24,54 @@ summary: ''
 
 Regulation 92
 
-### 1. Interpretation[^key-277923e7f1e12feba1efa3351dee1ba7]
+### 1. Interpretation[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Requirements relating to offspring animals[^key-277923e7f1e12feba1efa3351dee1ba7]
+### 2. Requirements relating to offspring animals[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Notice of intended slaughter[^key-277923e7f1e12feba1efa3351dee1ba7]
+### 3. Notice of intended slaughter[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Compensation for slaughtered offspring animals[^key-277923e7f1e12feba1efa3351dee1ba7]
+### 4. Compensation for slaughtered offspring animals[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Forms[^key-277923e7f1e12feba1efa3351dee1ba7]
+### 5. Forms[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-277923e7f1e12feba1efa3351dee1ba7]
+[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-277923e7f1e12feba1efa3351dee1ba7]
+[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-277923e7f1e12feba1efa3351dee1ba7]
+[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-277923e7f1e12feba1efa3351dee1ba7]
+[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-277923e7f1e12feba1efa3351dee1ba7]
+[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Table of compensation[^key-277923e7f1e12feba1efa3351dee1ba7]
+### 6. Table of compensation[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Calculation of indicative market price[^key-277923e7f1e12feba1efa3351dee1ba7]
+### 7. Calculation of indicative market price[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-277923e7f1e12feba1efa3351dee1ba7]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
+[^c-277923e7f1e12feba1efa3351dee1ba7]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)

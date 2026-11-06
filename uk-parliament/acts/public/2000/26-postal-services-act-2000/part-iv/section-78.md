@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Information requirements on certain relevant companies.[^key-253540be49ad59d86474d788f7feaf38]
+## 78. Information requirements on certain relevant companies.[^c-253540be49ad59d86474d788f7feaf38]
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-f3318c0c73a4df67988b8e8b6f7b883c] This section applies to—
+(A1)[^c-f3318c0c73a4df67988b8e8b6f7b883c] This section applies to—
 
 - (a) a relevant company that is wholly owned by the Crown and does not have a parent company, and
 - (b) the original holding company if it is wholly owned by the Crown.
 
-(1) The Treasury may serve notice on a company to which this section applies[^key-7a42432974bcc9267ad5a89b3cb5ee0a]—
+(1) The Treasury may serve notice on a company to which this section applies[^c-7a42432974bcc9267ad5a89b3cb5ee0a]—
 
 - (a) requiring it to supply to the Treasury such information—
   - (i) as the Treasury may reasonably require for the performance of their functions in relation to public sector finance, and
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-253540be49ad59d86474d788f7feaf38]: Textual amendment: Words in s. 78 heading substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 18(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/18/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-253540be49ad59d86474d788f7feaf38]: Textual amendment: Words in s. 78 heading substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 18(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/18/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-f3318c0c73a4df67988b8e8b6f7b883c]: Textual amendment: S. 78(A1) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 18(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/18/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-f3318c0c73a4df67988b8e8b6f7b883c]: Textual amendment: S. 78(A1) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 18(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/18/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-7a42432974bcc9267ad5a89b3cb5ee0a]: Textual amendment: Words in s. 78(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 18(4)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/18/4); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-7a42432974bcc9267ad5a89b3cb5ee0a]: Textual amendment: Words in s. 78(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 18(4)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/18/4); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

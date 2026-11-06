@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 233. Re-enactment[^key-7eb30843ccb000e6d520b6fcee2d137f]
+## 233. Re-enactment[^c-7eb30843ccb000e6d520b6fcee2d137f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 7, derived from Part 2 of schedule 7 of the Bankruptcy (Scotland) Act 1
 
 ## Annotations
 
-[^key-7eb30843ccb000e6d520b6fcee2d137f]: Commencement: [S. 233](https://www.legislation.gov.uk/asp/2016/21/section/233) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-7eb30843ccb000e6d520b6fcee2d137f]: Commencement: [S. 233](https://www.legislation.gov.uk/asp/2016/21/section/233) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

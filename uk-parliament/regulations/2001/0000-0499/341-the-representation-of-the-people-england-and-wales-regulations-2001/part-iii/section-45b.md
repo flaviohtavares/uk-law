@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45B. Duties of registration officer and his staff in relation to record of anonymous entries[^key-a0fd54fca2128991fc18df1f96874651]
+## 45B. Duties of registration officer and his staff in relation to record of anonymous entries[^c-a0fd54fca2128991fc18df1f96874651]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ otherwise than in accordance with an enactment (including these Regulations) or 
 
 ## Annotations
 
-[^key-a0fd54fca2128991fc18df1f96874651]: Textual amendment: [Regs. 45A-45H](https://www.legislation.gov.uk/uksi/2001/341/regulation/45A) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2006/2910/regulation/18)
+[^c-a0fd54fca2128991fc18df1f96874651]: Textual amendment: [Regs. 45A-45H](https://www.legislation.gov.uk/uksi/2001/341/regulation/45A) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2006/2910/regulation/18)
 
 [^f00035]: Footnote: The exercise of the powers in section 52(1) is made subject to section 7(1) of the Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41) and section 52(1A), as inserted by Schedule 21 to that Act, is relevant to those powers.

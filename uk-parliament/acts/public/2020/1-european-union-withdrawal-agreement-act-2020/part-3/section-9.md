@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Restrictions of rights of entry and residence[^key-1efa86faba930ddd22eb2e058b668167]
+## 9. Restrictions of rights of entry and residence[^c-1efa86faba930ddd22eb2e058b668167]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1efa86faba930ddd22eb2e058b668167]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2020/1/section/9) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/c)
+[^c-1efa86faba930ddd22eb2e058b668167]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2020/1/section/9) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/c)

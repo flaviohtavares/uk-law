@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26AA. Disapplication of disallowance under section 26A in insolvency[^key-1c1ca21bfc9785b408959615eb76e58f]
+## 26AA. Disapplication of disallowance under section 26A in insolvency[^c-1c1ca21bfc9785b408959615eb76e58f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 
 (7) For the purposes of subsection (6) the relevant part of the consideration is the part of the consideration referable to the credit for input tax which would (ignoring the effect of this section) be disallowed under section 26A(1).
 
-(8)[^key-0261a49fbc5166520c2d2fe2a70cf27e] For the purposes of this section an insolvency procedure has effect in relation to a person at a time when any of the following apply—
+(8)[^c-0261a49fbc5166520c2d2fe2a70cf27e] For the purposes of this section an insolvency procedure has effect in relation to a person at a time when any of the following apply—
 
 - (a) a bankruptcy order has been made under Chapter 1 of Part 9 of the Insolvency Act 1986 in relation to that person and has not been annulled,
 - (b) a warrant has been granted for a petition for sequestration to be served on that person which has resulted in the sequestration of that person’s estate or an award of sequestration has been made on an application by that person, in both cases under section 22 of the Bankruptcy (Scotland) Act 2016, and in either case the award of sequestration has not been recalled,
@@ -63,7 +63,7 @@ summary: ''
 - (i) a voluntary arrangement has been approved in accordance with Part 1 or Part 8 of the Insolvency Act 1986 or Part 2 or Chapter 2 of Part 8 of the Insolvency (Northern Ireland) Order 1989 in relation to that person and that voluntary arrangement has not come to an end prematurely,
 - (j) a county court administration order has been made under Part 6 of the County Courts Act 1984 or Part 6 of the Judgments Enforcement (Northern Ireland) Order 1981 in relation to that person and has not ceased to take effect,
 - (k) a compromise or arrangement sanctioned by the court and delivered to the registrar in accordance with section 899 of the Companies Act 2006 is in place in relation to that person,
-- (ka)[^key-216e177b693f723fb3f4e2e24adf6ae6] a compromise or arrangement sanctioned by the court and delivered to the registrar or (as the case may be) published in the Gazette in accordance with section 901F of the Companies Act 2006 is in place in relation to that person,
+- (ka)[^c-216e177b693f723fb3f4e2e24adf6ae6] a compromise or arrangement sanctioned by the court and delivered to the registrar or (as the case may be) published in the Gazette in accordance with section 901F of the Companies Act 2006 is in place in relation to that person,
 - (l) that person’s estate is vested in any other person as that person’s trustee under a trust deed and that trust deed has become a protected trust deed,
 - (m) that person has died and an insolvency administration order has been made which has not been discharged in respect of that person’s estate in accordance with an order under section 421 of the Insolvency Act 1986 or article 365 of the Insolvency (Northern Ireland) Order 1989 or that person’s estate has been sequestrated under section 22 of the Bankruptcy (Scotland) Act 2016 and the award of sequestration has not been recalled,
 - (n) a voluntary arrangement has been approved in accordance with Part 1 of the Insolvency Act 1986 as applied by Part 2 of the Insolvent Partnerships Order 1994 or Part 2 of the Insolvency (Northern Ireland) Order 1989 as applied by Part 2 of the Insolvent Partnerships Order (Northern Ireland) 1995 in relation to that person and that voluntary arrangement has not come to an end prematurely,
@@ -89,8 +89,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1c1ca21bfc9785b408959615eb76e58f]: Textual amendment: S. 26AA inserted (with effect in accordance with art. 9 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2017 (S.I. 2017/495)](https://www.legislation.gov.uk/uksi/2017/495), [arts. 1](https://www.legislation.gov.uk/uksi/2017/495/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/495/article/7/3)
+[^c-1c1ca21bfc9785b408959615eb76e58f]: Textual amendment: S. 26AA inserted (with effect in accordance with art. 9 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2017 (S.I. 2017/495)](https://www.legislation.gov.uk/uksi/2017/495), [arts. 1](https://www.legislation.gov.uk/uksi/2017/495/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/495/article/7/3)
 
-[^key-0261a49fbc5166520c2d2fe2a70cf27e]: Modification: S. 26AA(8) modified (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2019/138/regulation/35) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/b))
+[^c-0261a49fbc5166520c2d2fe2a70cf27e]: Modification: S. 26AA(8) modified (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2019/138/regulation/35) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/b))
 
-[^key-216e177b693f723fb3f4e2e24adf6ae6]: Textual amendment: S. 26AA(8)(ka) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/15) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-216e177b693f723fb3f4e2e24adf6ae6]: Textual amendment: S. 26AA(8)(ka) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/15) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

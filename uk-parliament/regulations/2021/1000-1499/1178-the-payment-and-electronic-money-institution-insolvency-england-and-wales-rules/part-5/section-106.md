@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Admission and rejection of relevant funds claim[^key-dfaea62225121c8602aaec54f5a729a8]
+## 106. Admission and rejection of relevant funds claim[^c-dfaea62225121c8602aaec54f5a729a8]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfaea62225121c8602aaec54f5a729a8]: Commencement: Rule 106 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-dfaea62225121c8602aaec54f5a729a8]: Commencement: Rule 106 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

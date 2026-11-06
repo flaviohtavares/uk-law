@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27.[^key-ccb1b255f3d6fbb1baf79eee45b3e9bd]
+## 27.[^c-ccb1b255f3d6fbb1baf79eee45b3e9bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 134 (payments of calls), after “spouse” insert “or civil partne
 
 ## Annotations
 
-[^key-ccb1b255f3d6fbb1baf79eee45b3e9bd]: Commencement: Reg. 27 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-ccb1b255f3d6fbb1baf79eee45b3e9bd]: Commencement: Reg. 27 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

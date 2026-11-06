@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Use and retention of biometric information[^key-3ca9884b5571fd5556ecde21a2d3978e][^key-51d2a97d94d14ee833ce9de4c3c0b984][^M_C_174bd076-3ff0-485e-c4e0-4ee97c4b27ed]
+## 14. Use and retention of biometric information[^c-3ca9884b5571fd5556ecde21a2d3978e][^c-51d2a97d94d14ee833ce9de4c3c0b984][^M_C_174bd076-3ff0-485e-c4e0-4ee97c4b27ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,16 +77,16 @@ summary: ''
 >
 > (3) Regulations made by virtue of subsection (1)(b) must make equivalent provision in relation to biometric information taken by virtue of any provision of regulations under section 144 which is equivalent to section 141(7)(f).
 
-(3)[^key-15ca47edeaba25a8d306e7a0373d9c30] In section 126 of the Nationality, Immigration and Asylum Act 2002 (power to require provision of physical data with certain immigration applications), after subsection (8) insert—
+(3)[^c-15ca47edeaba25a8d306e7a0373d9c30] In section 126 of the Nationality, Immigration and Asylum Act 2002 (power to require provision of physical data with certain immigration applications), after subsection (8) insert—
 
 > (8A) Section 8 of the UK Borders Act 2007 (power to make regulations about use and retention of biometric information) applies to biometric information provided in accordance with regulations under subsection (1) as it applies to biometric information provided in accordance with regulations under section 5(1) of that Act.
 
 ## Annotations
 
-[^key-3ca9884b5571fd5556ecde21a2d3978e]: Commencement: S. 14 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(m)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/m)
+[^c-3ca9884b5571fd5556ecde21a2d3978e]: Commencement: S. 14 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(m)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/m)
 
-[^key-51d2a97d94d14ee833ce9de4c3c0b984]: Modification: S. 14 extended (with modifications) (Jersey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Biometric Registration) (Jersey) Order 2018 (S.I. 2018/619)](https://www.legislation.gov.uk/uksi/2018/619), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/619/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/619/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/619/schedule/2)
+[^c-51d2a97d94d14ee833ce9de4c3c0b984]: Modification: S. 14 extended (with modifications) (Jersey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Biometric Registration) (Jersey) Order 2018 (S.I. 2018/619)](https://www.legislation.gov.uk/uksi/2018/619), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/619/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/619/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/619/schedule/2)
 
 [^M_C_174bd076-3ff0-485e-c4e0-4ee97c4b27ed]: Modification: S. 14 extended (Isle of Man) (with modifications) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 22](https://www.legislation.gov.uk/uksi/2008/680/article/22), [Sch. 9A](https://www.legislation.gov.uk/uksi/2008/680/schedule/9A) (as amended: (14.3.2019) by [S.I. 2019/562](https://www.legislation.gov.uk/uksi/2019/562), [arts. 1](https://www.legislation.gov.uk/uksi/2019/562/article/1), [9](https://www.legislation.gov.uk/uksi/2019/562/article/9), [18](https://www.legislation.gov.uk/uksi/2019/562/article/18); (31.12.2020) by [S.I. 2020/1214](https://www.legislation.gov.uk/uksi/2020/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1214/article/1), [5](https://www.legislation.gov.uk/uksi/2020/1214/article/5), [12](https://www.legislation.gov.uk/uksi/2020/1214/article/12); (11.11.2021) by [S.I. 2021/1277](https://www.legislation.gov.uk/uksi/2021/1277), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1277/article/1/2), [6](https://www.legislation.gov.uk/uksi/2021/1277/article/6))
 
-[^key-15ca47edeaba25a8d306e7a0373d9c30]: Modification: S. 14(3) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Biometric Information) (Jersey) Order 2018 (S.I. 2018/1358)](https://www.legislation.gov.uk/uksi/2018/1358), [art. 4](https://www.legislation.gov.uk/uksi/2018/1358/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/1358/schedule/3)
+[^c-15ca47edeaba25a8d306e7a0373d9c30]: Modification: S. 14(3) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Biometric Information) (Jersey) Order 2018 (S.I. 2018/1358)](https://www.legislation.gov.uk/uksi/2018/1358), [art. 4](https://www.legislation.gov.uk/uksi/2018/1358/article/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/1358/schedule/3)

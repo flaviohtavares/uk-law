@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.225. Scope of this Chapter[^key-ce263d54f31df2820afabd52e7c6dfbe]
+## 6.225. Scope of this Chapter[^c-ce263d54f31df2820afabd52e7c6dfbe]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce263d54f31df2820afabd52e7c6dfbe]: Commencement: [Rule 6.225](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.225) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ce263d54f31df2820afabd52e7c6dfbe]: Commencement: [Rule 6.225](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.225) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

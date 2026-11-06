@@ -46,10 +46,10 @@ summary: ''
 
 (6) Regulations under this section must include provision for ensuring that a person subject to a condition is notified of the condition in writing.
 
-(7) A condition imposed by virtue of this section is in addition to any condition imposed under Schedule 10 to the Immigration Act 2016.[^key-57ac88c3f53b6fa38ebab179bbb5ccc1]
+(7) A condition imposed by virtue of this section is in addition to any condition imposed under Schedule 10 to the Immigration Act 2016.[^c-57ac88c3f53b6fa38ebab179bbb5ccc1]
 
 (8) A reference in this Part to a condition of residence is a reference to a condition imposed by virtue of this section.
 
 ## Annotations
 
-[^key-57ac88c3f53b6fa38ebab179bbb5ccc1]: Textual amendment: Words in s. 30(7) substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 33](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/33); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-57ac88c3f53b6fa38ebab179bbb5ccc1]: Textual amendment: Words in s. 30(7) substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 33](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/33); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)

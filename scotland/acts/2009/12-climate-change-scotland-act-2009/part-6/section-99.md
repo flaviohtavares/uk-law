@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Minor and consequential modifications[^key-68447947461104c41f46c737fdd26ff3]
+## 99. Minor and consequential modifications[^c-68447947461104c41f46c737fdd26ff3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 2 makes minor modifications and modifications consequential on the prov
 
 ## Annotations
 
-[^key-68447947461104c41f46c737fdd26ff3]: Commencement: S. 99 in force at 31.10.2009 for specified purposes by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/b)
+[^c-68447947461104c41f46c737fdd26ff3]: Commencement: S. 99 in force at 31.10.2009 for specified purposes by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/b)

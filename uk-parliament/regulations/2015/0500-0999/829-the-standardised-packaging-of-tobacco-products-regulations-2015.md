@@ -83,7 +83,7 @@ A draft of these Regulations has been laid before and approved by resolution of 
   - (b) a roll of tobacco (or of tobacco and another substance) which is designed to be, by simple non-industrial handling—
     - (i) wrapped in cigarette paper, or
     - (ii) inserted into a cigarette-paper tube;
-- “Commission Implementing Regulation” means—[^key-e87f7bee066fadba243e54e8768be1f8]
+- “Commission Implementing Regulation” means—[^c-e87f7bee066fadba243e54e8768be1f8]
   - (a) the Commission Implementing Regulation (EU) 2018/574 of 15 December 2017 on technical standards for the establishment and operation of a traceability system for tobacco products as it applies in the United Kingdom, and
   - (b) in relation to NI tobacco product, the Commission Implementing Regulation (EU) 2018/574 of 15 December 2017 on technical standards for the establishment and operation of a traceability system for tobacco products as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement;
 - “**consumer**” means an individual who is acting for purposes which are outside the individual's trade, business, craft or profession;
@@ -94,7 +94,7 @@ A draft of these Regulations has been laid before and approved by resolution of 
     - (ii) an aggregation of such unit packets;
 
     and where there is more than one separate layer of such packaging each such layer is to be regarded as a separate container packet for the purposes of these Regulations; but any reference in this definition to packaging does not include a wrapper;
-- “[^key-5ddbf07e8e83a30126c0216376fadf9e]**cross-border distance sale**”, in relation to a tobacco product, means a distance sale to a consumer where, at the time the consumer orders the product from a retailer, the consumer is located in the United Kingdom and the retailer is established in another country;
+- “[^c-5ddbf07e8e83a30126c0216376fadf9e]**cross-border distance sale**”, in relation to a tobacco product, means a distance sale to a consumer where, at the time the consumer orders the product from a retailer, the consumer is located in the United Kingdom and the retailer is established in another country;
 - “**enactment**” means an enactment contained in, or in an instrument made under—
   - (a) an Act of Parliament,
   - (b) an Act of the Scottish Parliament,
@@ -112,7 +112,7 @@ and for the purposes of this definition “**visible**” includes visible throu
   - (a) becomes visible when the flap is opened, but
   - (b) is not the underside surface of the flap or any surface of the inside of the pocket;
 - “**internal packaging**”, in relation to a unit packet or container packet of a tobacco product, means so much of that packet as does not comprise the external packaging of that packet;
-- “NI tobacco product” has the meaning given in regulation 2 of the Tobacco and Related Products Regulations 2016;[^key-ad3db2cbc237750cf5a3530f7d046a19]
+- “NI tobacco product” has the meaning given in regulation 2 of the Tobacco and Related Products Regulations 2016;[^c-ad3db2cbc237750cf5a3530f7d046a19]
 - “**packaging**”, in relation to a tobacco product, has its ordinary meaning and (without limiting that meaning) includes any material that is—
   - (a) an integral part of the packaging of the product,
   - (b) required as part of the packaging process, or
@@ -158,7 +158,7 @@ and “**producer**” is to be construed accordingly.
 - (b) offers or agrees to supply it in those circumstances, or
 - (c) exposes or possesses it for supply in those circumstances.
 
-(7) In the case of a cross-border distance sale of a tobacco product [^key-a5434520ff919c47400b470fa66b46c0]..., the tobacco product is to be treated for the purposes of these Regulations as supplied, and presented for retail sale, in the United Kingdom.
+(7) In the case of a cross-border distance sale of a tobacco product [^c-a5434520ff919c47400b470fa66b46c0]..., the tobacco product is to be treated for the purposes of these Regulations as supplied, and presented for retail sale, in the United Kingdom.
 
 ## PART 2 — Provisions which apply to cigarettes only
 
@@ -175,7 +175,7 @@ and “**producer**” is to be construed accordingly.
 
 but this is subject to paragraph (4), Schedule 1 and paragraph 3(1) of Schedule 2.
 
-(4) Nothing in paragraph (2) or (3) prohibits any warning, statement, text, picture, image, symbol or marking which is required by any enactment (whenever passed or made) other than these Regulations or required by the Commission Implementing Regulation[^key-b959c506acfd0ca05b00486a7277a7aa]; but see paragraph 3 of Schedule 1 which imposes conditions in relation to any text required in accordance with regulation 7(4)(a)(i) of the General Product Safety Regulations 2005 (name and address of producer) [^c22467001].
+(4) Nothing in paragraph (2) or (3) prohibits any warning, statement, text, picture, image, symbol or marking which is required by any enactment (whenever passed or made) other than these Regulations or required by the Commission Implementing Regulation[^c-b959c506acfd0ca05b00486a7277a7aa]; but see paragraph 3 of Schedule 1 which imposes conditions in relation to any text required in accordance with regulation 7(4)(a)(i) of the General Product Safety Regulations 2005 (name and address of producer) [^c22467001].
 
 ### 4. Material, shape, opening and contents of unit packet of cigarettes
 
@@ -235,7 +235,7 @@ No person may produce or supply any cigarettes in breach of any of the provision
 
 but this is subject to paragraph (4), Schedule 3 and paragraph 3(2) of Schedule 4.
 
-(4) Nothing in paragraph (2) or (3) prohibits any warning, statement, text, picture, image, symbol or marking which is required by any enactment (whenever passed or made) other than these Regulations or required by the Commission Implementing Regulation[^key-9ca4b17354ca6a7e70160aab66d767d8]; but see paragraph 3 of Schedule 3 which imposes conditions in relation to any text required in accordance with regulation 7(4)(a)(i) of the General Product Safety Regulations 2005 (name and address of producer).
+(4) Nothing in paragraph (2) or (3) prohibits any warning, statement, text, picture, image, symbol or marking which is required by any enactment (whenever passed or made) other than these Regulations or required by the Commission Implementing Regulation[^c-9ca4b17354ca6a7e70160aab66d767d8]; but see paragraph 3 of Schedule 3 which imposes conditions in relation to any text required in accordance with regulation 7(4)(a)(i) of the General Product Safety Regulations 2005 (name and address of producer).
 
 ### 8. Form of, and weight of tobacco in, unit packet of hand rolling tobacco
 
@@ -311,7 +311,7 @@ that is not normally associated with the packaging of cigarettes or, as the case
 - (e) removable tabs, and
 - (f) fold-out or slide-out panels.
 
-(3)[^key-ac09a1868929217cdc8f8fb831122776] Nothing in this regulation prohibits a feature which is required by any provision of any enactment (whenever passed or made) other than these Regulations.
+(3)[^c-ac09a1868929217cdc8f8fb831122776] Nothing in this regulation prohibits a feature which is required by any provision of any enactment (whenever passed or made) other than these Regulations.
 
 ## PART 5 — Miscellaneous provisions
 
@@ -592,7 +592,7 @@ Regulation 6
 
 (2) Sub-paragraph (1) does not prohibit a barcode in relation to which each of the conditions in paragraph 4(2) of Schedule 1 is met from taking the form of an adhesive label.
 
-(3)[^key-17d7d79b617f107d4c8e54b312d15ca0] Sub-paragraph (1) is subject to—
+(3)[^c-17d7d79b617f107d4c8e54b312d15ca0] Sub-paragraph (1) is subject to—
 
 - (a) any provision to the contrary made by any enactment (whenever passed or made) other than these Regulations, or
 - (b) anything required by the Commission Implementing Regulation.
@@ -836,7 +836,7 @@ provided they are not visible before the packet is opened.
 
 (3) Sub-paragraph (1) does not prohibit a barcode in relation to which each of the conditions in paragraph 5(2) of Schedule 3 is met from taking the form of an adhesive label.
 
-(4)[^key-eeb5f4118ba0c7ff5b7f50386472c87d] Sub-paragraph (1) is subject to—
+(4)[^c-eeb5f4118ba0c7ff5b7f50386472c87d] Sub-paragraph (1) is subject to—
 
 - (a) any provision to the contrary made by any enactment (whenever passed or made) other than these Regulations, or
 - (b) anything required by the Commission Implementing Regulation.
@@ -853,7 +853,7 @@ provided they are not visible before the packet is opened.
 - (b) are of uniform size, and
 - (c) do not form a picture, pattern, image or symbol that is recognisable as anything other than a foil seal.
 
-(4)[^key-a2c1da349ffa0d08c8ebb52a9f902cd0] Sub-paragraph (1) does not prohibit a feature that is required to be carried by a unit packet by any provision of any enactment (whenever passed or made) other than these Regulations from being in the form of a tab.
+(4)[^c-a2c1da349ffa0d08c8ebb52a9f902cd0] Sub-paragraph (1) does not prohibit a feature that is required to be carried by a unit packet by any provision of any enactment (whenever passed or made) other than these Regulations from being in the form of a tab.
 
 ### 4. Wrappers
 
@@ -951,25 +951,25 @@ An Impact Assessment has been prepared for these Regulations and is published wi
 
 [^c22466971]: Marginal citation: [Paragraph 2(2)](https://www.legislation.gov.uk/uksi/2015/829/paragraph/2/2) of Schedule 2 to the European Communities Act 1972 was amended by section 27(2)(a) of the Legislative and Regulatory Reform Act 2006.
 
-[^key-e87f7bee066fadba243e54e8768be1f8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/829/regulation/2) substituted (31.12.2020) by [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/13/2/a)
+[^c-e87f7bee066fadba243e54e8768be1f8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/829/regulation/2) substituted (31.12.2020) by [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/13/2/a)
 
-[^key-5ddbf07e8e83a30126c0216376fadf9e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/829/regulation/2/1) substituted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/41/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ddbf07e8e83a30126c0216376fadf9e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/829/regulation/2/1) substituted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/41/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22466981]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30). The definition of “Northern Ireland legislation” in section 24(5) was amended by paragraph 3 of Schedule 13 to the [Northern Ireland Act 1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-ad3db2cbc237750cf5a3530f7d046a19]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/829/regulation/2) inserted (31.12.2020) by [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/13/2/b)
+[^c-ad3db2cbc237750cf5a3530f7d046a19]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/829/regulation/2) inserted (31.12.2020) by [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/13/2/b)
 
 [^c22466991]: Marginal citation: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26).
 
-[^key-a5434520ff919c47400b470fa66b46c0]: Textual amendment: Words in [reg. 2(7)](https://www.legislation.gov.uk/uksi/2015/829/regulation/2/7) omitted (31.12.2020) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/41/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a5434520ff919c47400b470fa66b46c0]: Textual amendment: Words in [reg. 2(7)](https://www.legislation.gov.uk/uksi/2015/829/regulation/2/7) omitted (31.12.2020) by virtue of [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/41/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b959c506acfd0ca05b00486a7277a7aa]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2015/829/regulation/3/4) inserted (20.5.2019) by [The Tobacco Products (Traceability and Security Features) Regulations 2019 (S.I. 2019/594)](https://www.legislation.gov.uk/uksi/2019/594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/594/regulation/1/1), [25(3)](https://www.legislation.gov.uk/uksi/2019/594/regulation/25/3)
+[^c-b959c506acfd0ca05b00486a7277a7aa]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2015/829/regulation/3/4) inserted (20.5.2019) by [The Tobacco Products (Traceability and Security Features) Regulations 2019 (S.I. 2019/594)](https://www.legislation.gov.uk/uksi/2019/594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/594/regulation/1/1), [25(3)](https://www.legislation.gov.uk/uksi/2019/594/regulation/25/3)
 
 [^c22467001]: Marginal citation: [S.I. 2005/1803](https://www.legislation.gov.uk/uksi/2005/1803).
 
-[^key-9ca4b17354ca6a7e70160aab66d767d8]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2015/829/regulation/7/4) inserted (20.5.2019) by [The Tobacco Products (Traceability and Security Features) Regulations 2019 (S.I. 2019/594)](https://www.legislation.gov.uk/uksi/2019/594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/594/regulation/1/1), [25(3)](https://www.legislation.gov.uk/uksi/2019/594/regulation/25/3)
+[^c-9ca4b17354ca6a7e70160aab66d767d8]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2015/829/regulation/7/4) inserted (20.5.2019) by [The Tobacco Products (Traceability and Security Features) Regulations 2019 (S.I. 2019/594)](https://www.legislation.gov.uk/uksi/2019/594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/594/regulation/1/1), [25(3)](https://www.legislation.gov.uk/uksi/2019/594/regulation/25/3)
 
-[^key-ac09a1868929217cdc8f8fb831122776]: Textual amendment: Reg. 12(3) inserted (20.5.2019) by [The Tobacco Products (Traceability and Security Features) Regulations 2019 (S.I. 2019/594)](https://www.legislation.gov.uk/uksi/2019/594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/594/regulation/1/1), [25(4)](https://www.legislation.gov.uk/uksi/2019/594/regulation/25/4)
+[^c-ac09a1868929217cdc8f8fb831122776]: Textual amendment: Reg. 12(3) inserted (20.5.2019) by [The Tobacco Products (Traceability and Security Features) Regulations 2019 (S.I. 2019/594)](https://www.legislation.gov.uk/uksi/2019/594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/594/regulation/1/1), [25(4)](https://www.legislation.gov.uk/uksi/2019/594/regulation/25/4)
 
 [^c22467011]: Marginal citation: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26).
 
@@ -1001,8 +1001,8 @@ An Impact Assessment has been prepared for these Regulations and is published wi
 
 [^c22467151]: Marginal citation: O.J. L 127 29.4.2014 page 1
 
-[^key-17d7d79b617f107d4c8e54b312d15ca0]: Textual amendment: [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2015/829/schedule/2/paragraph/2/3) inserted (20.5.2019) by [The Tobacco Products (Traceability and Security Features) Regulations 2019 (S.I. 2019/594)](https://www.legislation.gov.uk/uksi/2019/594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/594/regulation/1/1), [25(5)](https://www.legislation.gov.uk/uksi/2019/594/regulation/25/5)
+[^c-17d7d79b617f107d4c8e54b312d15ca0]: Textual amendment: [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2015/829/schedule/2/paragraph/2/3) inserted (20.5.2019) by [The Tobacco Products (Traceability and Security Features) Regulations 2019 (S.I. 2019/594)](https://www.legislation.gov.uk/uksi/2019/594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/594/regulation/1/1), [25(5)](https://www.legislation.gov.uk/uksi/2019/594/regulation/25/5)
 
-[^key-eeb5f4118ba0c7ff5b7f50386472c87d]: Textual amendment: [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/uksi/2015/829/schedule/4/paragraph/2/4) inserted (20.5.2019) by [The Tobacco Products (Traceability and Security Features) Regulations 2019 (S.I. 2019/594)](https://www.legislation.gov.uk/uksi/2019/594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/594/regulation/1/1), [25(6)(a)](https://www.legislation.gov.uk/uksi/2019/594/regulation/25/6/a)
+[^c-eeb5f4118ba0c7ff5b7f50386472c87d]: Textual amendment: [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/uksi/2015/829/schedule/4/paragraph/2/4) inserted (20.5.2019) by [The Tobacco Products (Traceability and Security Features) Regulations 2019 (S.I. 2019/594)](https://www.legislation.gov.uk/uksi/2019/594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/594/regulation/1/1), [25(6)(a)](https://www.legislation.gov.uk/uksi/2019/594/regulation/25/6/a)
 
-[^key-a2c1da349ffa0d08c8ebb52a9f902cd0]: Textual amendment: [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/uksi/2015/829/schedule/4/paragraph/3/4) inserted (20.5.2019) by [The Tobacco Products (Traceability and Security Features) Regulations 2019 (S.I. 2019/594)](https://www.legislation.gov.uk/uksi/2019/594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/594/regulation/1/1), [25(6)(b)](https://www.legislation.gov.uk/uksi/2019/594/regulation/25/6/b)
+[^c-a2c1da349ffa0d08c8ebb52a9f902cd0]: Textual amendment: [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/uksi/2015/829/schedule/4/paragraph/3/4) inserted (20.5.2019) by [The Tobacco Products (Traceability and Security Features) Regulations 2019 (S.I. 2019/594)](https://www.legislation.gov.uk/uksi/2019/594), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/594/regulation/1/1), [25(6)(b)](https://www.legislation.gov.uk/uksi/2019/594/regulation/25/6/b)

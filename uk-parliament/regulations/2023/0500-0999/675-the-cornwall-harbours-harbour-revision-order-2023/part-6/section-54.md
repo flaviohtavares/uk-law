@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Development of land etc.[^key-8564109be28db9de34d364a4489869bc]
+## 54. Development of land etc.[^c-8564109be28db9de34d364a4489869bc]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ provided that it is conducive to the improvement, maintenance, operation or mana
 
 ## Annotations
 
-[^key-8564109be28db9de34d364a4489869bc]: Commencement: Art. 54 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-8564109be28db9de34d364a4489869bc]: Commencement: Art. 54 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

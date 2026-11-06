@@ -33,18 +33,18 @@ of 18 December 2017
 
 on the position to be adopted on behalf of the European Union within the Customs Sub-Committee established by the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Georgia, of the other part, as regards the replacement of Protocol I to that Agreement, concerning the definition of the concept of ‘originating products’ and methods of administrative cooperation, by a new protocol which refers to the Regional Convention on pan-Euro-Mediterranean preferential rules of origin (revoked)
 
-[^key-fb38952d4bf21cfdc1120d83b3140ddb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb38952d4bf21cfdc1120d83b3140ddb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-fb38952d4bf21cfdc1120d83b3140ddb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fb38952d4bf21cfdc1120d83b3140ddb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fb38952d4bf21cfdc1120d83b3140ddb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fb38952d4bf21cfdc1120d83b3140ddb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb38952d4bf21cfdc1120d83b3140ddb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb38952d4bf21cfdc1120d83b3140ddb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-fb38952d4bf21cfdc1120d83b3140ddb]
+## ANNEX[^c-fb38952d4bf21cfdc1120d83b3140ddb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb38952d4bf21cfdc1120d83b3140ddb]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb38952d4bf21cfdc1120d83b3140ddb]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

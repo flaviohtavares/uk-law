@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Transfer value payments made to other schemes or pension arrangements[^key-1e5019dff3a5e172388f15229a7d71ad]
+## 111. Transfer value payments made to other schemes or pension arrangements[^c-1e5019dff3a5e172388f15229a7d71ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e5019dff3a5e172388f15229a7d71ad]: Commencement: Reg. 111 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-1e5019dff3a5e172388f15229a7d71ad]: Commencement: Reg. 111 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00040]: Footnote: Section 95(2A) was inserted by the Pension Schemes Act 2015, section 68(1) and (3).

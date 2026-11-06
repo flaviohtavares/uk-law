@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Meaning of “adoption” in Chapter 3[^key-5a887415b430292c260c6529eb13ad71]
+## 39. Meaning of “adoption” in Chapter 3[^c-5a887415b430292c260c6529eb13ad71]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ and related expressions are to be interpreted accordingly.
 
 ## Annotations
 
-[^key-5a887415b430292c260c6529eb13ad71]: Commencement: S. 39 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-5a887415b430292c260c6529eb13ad71]: Commencement: S. 39 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Disclosure and acknowledgment in circumstances described in regulation 49[^key-551e1eb87c2eb492b203d39fb9ce84f9]
+## 50. Disclosure and acknowledgment in circumstances described in regulation 49[^c-551e1eb87c2eb492b203d39fb9ce84f9]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-551e1eb87c2eb492b203d39fb9ce84f9]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2012/2079/regulation/50) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-551e1eb87c2eb492b203d39fb9ce84f9]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2012/2079/regulation/50) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
 
 [^f00036]: Footnote: The terms of the plan which bind a bill payer are set out in regulation 40.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Public involvement: carers and representatives[^key-a4ebcf6cb769db1a05845d1ba9b309ff][^key-6afa861951b37e05c0943abe912c6577]
+## 10. Public involvement: carers and representatives[^c-a4ebcf6cb769db1a05845d1ba9b309ff][^c-6afa861951b37e05c0943abe912c6577]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In section 13Q of the National Health Service Act 2006 (public involvement and c
 
 ## Annotations
 
-[^key-a4ebcf6cb769db1a05845d1ba9b309ff]: Commencement: S. 10 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-a4ebcf6cb769db1a05845d1ba9b309ff]: Commencement: S. 10 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-6afa861951b37e05c0943abe912c6577]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/31/section/10) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6afa861951b37e05c0943abe912c6577]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/31/section/10) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

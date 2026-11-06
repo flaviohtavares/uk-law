@@ -32,7 +32,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Management of Health and Safety at Work (Amendment) Regulations 2006 (revoked)[^key-3467418344e68c559991f749675fca3b]
+The Management of Health and Safety at Work (Amendment) Regulations 2006 (revoked)[^c-3467418344e68c559991f749675fca3b]
 
 Made
 
@@ -46,7 +46,7 @@ Coming into force
 
 6th April 2006
 
-[^key-3467418344e68c559991f749675fca3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3467418344e68c559991f749675fca3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -58,12 +58,12 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3467418344e68c559991f749675fca3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3467418344e68c559991f749675fca3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3467418344e68c559991f749675fca3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3467418344e68c559991f749675fca3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3467418344e68c559991f749675fca3b]: Textual amendment: Regulations revoked (1.10.2013) by [The Health and Safety at Work etc. Act 1974 (Civil Liability) (Exceptions) Regulations 2013 (S.I. 2013/1667)](https://www.legislation.gov.uk/uksi/2013/1667), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1667/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2013/1667/regulation/4)
+[^c-3467418344e68c559991f749675fca3b]: Textual amendment: Regulations revoked (1.10.2013) by [The Health and Safety at Work etc. Act 1974 (Civil Liability) (Exceptions) Regulations 2013 (S.I. 2013/1667)](https://www.legislation.gov.uk/uksi/2013/1667), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1667/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2013/1667/regulation/4)

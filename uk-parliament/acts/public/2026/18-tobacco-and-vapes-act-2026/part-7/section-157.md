@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Heated tobacco-free places in Wales[^key-f097f3379f1a4a471e95559ff4aa57df]
+## 157. Heated tobacco-free places in Wales[^c-f097f3379f1a4a471e95559ff4aa57df]
 
 *Extent: E+W+S+N.I.*
 
@@ -214,4 +214,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f097f3379f1a4a471e95559ff4aa57df]: Commencement: S. 157 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-f097f3379f1a4a471e95559ff4aa57df]: Commencement: S. 157 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Statement of policy on cost benefit analyses[^key-dc3c584a6d7c953f342a9ba54d3736bc][^key-d97b69f7cfdfe20cbb23537bc8796af4]
+## 44. Statement of policy on cost benefit analyses[^c-dc3c584a6d7c953f342a9ba54d3736bc][^c-d97b69f7cfdfe20cbb23537bc8796af4]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc3c584a6d7c953f342a9ba54d3736bc]: Commencement: S. 44 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-dc3c584a6d7c953f342a9ba54d3736bc]: Commencement: S. 44 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d97b69f7cfdfe20cbb23537bc8796af4]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/29/section/44) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(hh)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/hh)
+[^c-d97b69f7cfdfe20cbb23537bc8796af4]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/29/section/44) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(hh)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/hh)

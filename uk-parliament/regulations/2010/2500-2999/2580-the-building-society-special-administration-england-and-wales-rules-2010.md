@@ -56,19 +56,19 @@ The Lord Chancellor has not consulted the Committee existing for the purposes of
 
 ## PART 1 — Introduction
 
-### 1. Citation[^key-f739e4995c507eb6d42541e7abf6447f]
+### 1. Citation[^c-f739e4995c507eb6d42541e7abf6447f]
 
 These Rules may be cited as the Building Society Special Administration (England and Wales) Rules 2010.
 
-### 2. Commencement[^key-e137615bd82c4da54f4285e3de714455]
+### 2. Commencement[^c-e137615bd82c4da54f4285e3de714455]
 
 These Rules come into force on 15th November 2010.
 
-### 3. Extent[^key-2fbed3801176104aa479e09fdbed31f7]
+### 3. Extent[^c-2fbed3801176104aa479e09fdbed31f7]
 
 These Rules extend to England and Wales only.
 
-### 4. Interpretation[^key-0d96bc67f0ae71918f52a13f5b7b9ee4]
+### 4. Interpretation[^c-0d96bc67f0ae71918f52a13f5b7b9ee4]
 
 (1) In these Rules—
 
@@ -87,7 +87,7 @@ These Rules extend to England and Wales only.
 - (f) “**registered name**”, in relation to a building society, means the name of the society which is for the time being registered with the FCA;
 - (g) “society”, “special administration”, “special administration order” and “special administrator” mean respectively building society, building society special administration, building society special administration order and building society special administrator;
 - (h) the following expressions have the same meaning as in Part 1 or Part 3 of the Banking Act 2009[^f00006]—
-  - (ai)[^key-c1a4244e698ceae81ae9eca46d50585e] “the Bank of England” (s 256B(1)),
+  - (ai)[^c-c1a4244e698ceae81ae9eca46d50585e] “the Bank of England” (s 256B(1)),
   - (i) “**bridge bank**” (s. 136(2)),
   - (ii) “**the court**” (the High Court – s. 166(1)),
   - (iii) “the FCA” (the Financial Conduct Authority[^M_F_d5dc05d8-9c18-49ef-8de3-fe156b5c4f56]—s 166(2)),
@@ -105,7 +105,7 @@ These Rules extend to England and Wales only.
 
 (2) Other expressions used in these Rules, where used in relation to building societies, have the same meaning as in the Building Societies Act 1986.
 
-**5.**[^key-817b9570a038059d9c046c21aede6e03] In these Rules—
+**5.**[^c-817b9570a038059d9c046c21aede6e03] In these Rules—
 
 - (a) “the FSCS” means the scheme manager of the Financial Services Compensation Scheme (established under Part 15 of the Financial Services and Markets Act 2000[^f00011]),
 - (b) “**the Objective 1 Stage**” means the period during which a building society special administration order is in force before the Bank of England gives an Objective 1 Achievement Notice,
@@ -117,11 +117,11 @@ These Rules extend to England and Wales only.
   - (ii) if made by a building society special administrator, stating that the statement is made in that capacity and giving the address at which the special administrator works, and
 - (g) “**the purpose of the special administration**” is a reference to the objectives of building society administration in section 137 of the Banking Act 2009.
 
-### 6. Overview[^key-78ab021855a49a42b7e72407590607aa]
+### 6. Overview[^c-78ab021855a49a42b7e72407590607aa]
 
 The purpose of these Rules is to prescribe a procedure for the appointment of a building society special administrator, and the operation of building society special administration, under Part 3 of the Banking Act 2009 in England and Wales.
 
-### 7. Forms[^key-02f25a5076d1a89c66f33b28a2d29dc5]
+### 7. Forms[^c-02f25a5076d1a89c66f33b28a2d29dc5]
 
 (1) This Rule applies where a provision of these Rules—
 
@@ -132,11 +132,11 @@ The purpose of these Rules is to prescribe a procedure for the appointment of a 
 
 ## PART 2 — Application for Building Society Special Administration Order
 
-### 8. Introduction[^key-8708ac96cd5360552ef697d372a3bca3]
+### 8. Introduction[^c-8708ac96cd5360552ef697d372a3bca3]
 
 This Part makes specific provision for a number of aspects of applications for building society special administration orders; Part 5 applies a number of provisions of the Insolvency Rules 1986 to applications for building society special administration orders (with specified modifications).
 
-### 9. Content of application[^key-e72e6ef72b3be6c9c36632b5657433ba]
+### 9. Content of application[^c-e72e6ef72b3be6c9c36632b5657433ba]
 
 An application by the Bank of England for a building society special administration order in respect of a building society must specify—
 
@@ -147,9 +147,9 @@ An application by the Bank of England for a building society special administrat
 - (e) the address of the Bank of England, and
 - (f) the identity of the person (or persons) nominated for appointment as building society special administrator.
 
-**10.**[^key-0b72373d60ab31c457296bc9eaf1eb34] If the building society has notified the Bank of England of an address for service which is, because of special circumstances, to be used in place of the principal office, that address shall be specified under Rule 9(c).
+**10.**[^c-0b72373d60ab31c457296bc9eaf1eb34] If the building society has notified the Bank of England of an address for service which is, because of special circumstances, to be used in place of the principal office, that address shall be specified under Rule 9(c).
 
-### 11. Statement of proposed building society special administrator[^key-44156389802bbfd8075d28c9e78d5cbf]
+### 11. Statement of proposed building society special administrator[^c-44156389802bbfd8075d28c9e78d5cbf]
 
 An application must be accompanied by a statement by the proposed building society special administrator—
 
@@ -158,7 +158,7 @@ An application must be accompanied by a statement by the proposed building socie
 - (c) giving details of the person’s (or each person’s) qualification to act as an insolvency practitioner, and
 - (d) giving details of any prior professional relationship that the person (or any of them) has had with the building society.
 
-### 12. Bank of England witness statement[^key-fe0037bd30b2abb7b1ec05101297578e]
+### 12. Bank of England witness statement[^c-fe0037bd30b2abb7b1ec05101297578e]
 
 (1) An application for a building society special administration order in respect of a building society must be accompanied by a witness statement made on behalf of the Bank of England—
 
@@ -166,7 +166,7 @@ An application must be accompanied by a statement by the proposed building socie
 - (b) stating the society’s current financial position to the best of the Bank of England’s knowledge and belief (including actual, contingent and prospective assets and liabilities),
 - (c) specifying any security which the Bank of England knows or believes to be held by a creditor of the building society,
 - (d) specifying whether any security confers power to appoint an administrative receiver (and whether an administrative receiver has been appointed),
-- (e) specifying any insolvency proceedings which have been instituted in respect of the society (including any process notified to the FCA[^key-1ee2fc60d4c4d7811af48ee3fd0de46a] and where relevant the PRA under section 90D of the Building Societies Act 1986[^f00013]),
+- (e) specifying any insolvency proceedings which have been instituted in respect of the society (including any process notified to the FCA[^c-1ee2fc60d4c4d7811af48ee3fd0de46a] and where relevant the PRA under section 90D of the Building Societies Act 1986[^f00013]),
 - (f) giving details of the property transfer instrument which the Bank of England has made or intends to make in respect of the society,
 - (g) where the property transfer instrument has not yet been made, explaining what effect it is likely to have on the society’s financial position,
 - (h) specifying how functions are to be apportioned where more than one person is to be appointed as building society special administrator (stating, in particular, whether functions are to be exercisable jointly or concurrently), and
@@ -174,32 +174,32 @@ An application must be accompanied by a statement by the proposed building socie
 
 (2) The statement must identify the person making the statement and must include the capacity in which that person makes the statement and the basis for that person’s knowledge of the matters set out in the statement.
 
-### 13. Filing[^key-ed3df117ba89d1d7678ba4982ee81076]
+### 13. Filing[^c-ed3df117ba89d1d7678ba4982ee81076]
 
 The application, and its accompanying documents, must be filed with the court, together with enough copies of the application and accompanying documents for service under Rule 15.
 
-**14.**[^key-de8f78d21a0669fe5ac0a6f0d995af59] Each filed copy—
+**14.**[^c-de8f78d21a0669fe5ac0a6f0d995af59] Each filed copy—
 
 - (a) shall have the seal of the court applied to it,
 - (b) shall be endorsed with the date and time of filing,
 - (c) shall be endorsed with the venue for the hearing of the application (fixed by the court under Rule 21), and
 - (d) shall be issued to the Bank of England.
 
-### 15. Service[^key-a474bf05c1beee7033f6168b2a4ea8da]
+### 15. Service[^c-a474bf05c1beee7033f6168b2a4ea8da]
 
 The Bank of England shall serve the application—
 
 - (a) on the building society,
 - (b) on the person (or each of the persons) nominated for appointment as building society special administrator,
 - (c) on any person whom the Bank of England knows to be entitled to appoint an administrative receiver,
-- (d) on any person who has given notice to the FCA and, where relevant, the PRA[^key-567c209f0c74f2d5e5ac41a6ff1df8be] in respect of the building society under section 90D of the Building Societies Act 1986 (notice to the FCA and PRA[^key-d574d3b18b2234edb3eee24abd431bf7] of preliminary steps), and
+- (d) on any person who has given notice to the FCA and, where relevant, the PRA[^c-567c209f0c74f2d5e5ac41a6ff1df8be] in respect of the building society under section 90D of the Building Societies Act 1986 (notice to the FCA and PRA[^c-d574d3b18b2234edb3eee24abd431bf7] of preliminary steps), and
 - (e) if the property transfer instrument was made or is to be made under section 11(2)(b) of the Banking Act 2009 (transfer to commercial purchaser), on each transferee.
 
-**16.**[^key-99ada46f36a3c665aa12d458c3250a50] Service under Rule 15 must be service of a sealed and endorsed copy of the application and its accompanying documents issued under Rule 14.
+**16.**[^c-99ada46f36a3c665aa12d458c3250a50] Service under Rule 15 must be service of a sealed and endorsed copy of the application and its accompanying documents issued under Rule 14.
 
-**17.**[^key-d2650970a2c61a31375ba2a2b4941a39] Service must be effected as soon as is reasonably practicable, having regard in particular to the need to give the building society’s representatives a reasonable opportunity to attend the hearing.
+**17.**[^c-d2650970a2c61a31375ba2a2b4941a39] Service must be effected as soon as is reasonably practicable, having regard in particular to the need to give the building society’s representatives a reasonable opportunity to attend the hearing.
 
-**18.**[^key-4624f8c90d38688e653d28369c2f1582] (1) Service must be effected—
+**18.**[^c-4624f8c90d38688e653d28369c2f1582] (1) Service must be effected—
 
 - (a) by personal service to an address that the person has notified to the Bank of England as an address for service,
 - (b) by personal service to the person’s registered office or principal office (where no address for service has been notified),
@@ -208,22 +208,22 @@ The Bank of England shall serve the application—
 
 (2) If the Bank of England knows of an email address that is habitually used for business purposes by a person on whom service is required, the Bank must (in addition to personal service) as soon as is reasonably practicable send by email an electronic copy of a sealed and endorsed copy of the application and its accompanying documents.
 
-**19.**[^key-26864092ba18006931f82fc719562430] (1) Service of the application shall be verified by a witness statement specifying the date on which, and the manner in which, service was effected.
+**19.**[^c-26864092ba18006931f82fc719562430] (1) Service of the application shall be verified by a witness statement specifying the date on which, and the manner in which, service was effected.
 
 (2) The witness statement, with a sealed copy of the application exhibited to it, shall be filed with the court—
 
 - (a) as soon as is reasonably practicable, and
 - (b) in any event, before the hearing of the application.
 
-### 20. Other notification[^key-692cc1aaad0e38fb60112a0798d06da3]
+### 20. Other notification[^c-692cc1aaad0e38fb60112a0798d06da3]
 
 As soon as is reasonably practicable after filing the application the Bank of England must notify—
 
 - (a) any enforcement officer or other officer whom the Bank of England knows to be charged with effecting an execution or other legal process against the building society or its property,
 - (b) any person whom the Bank of England knows to have distrained against the building society or its property, and
-- (c) the FCA[^key-824c9522a90b791577898a5a8981d061] and where relevant the PRA.
+- (c) the FCA[^c-824c9522a90b791577898a5a8981d061] and where relevant the PRA.
 
-### 21. Venue[^key-10245d6027a6813233cdaa9e36982e49]
+### 21. Venue[^c-10245d6027a6813233cdaa9e36982e49]
 
 (1) The court shall fix the venue for the hearing when the application is filed.
 
@@ -232,7 +232,7 @@ As soon as is reasonably practicable after filing the application the Bank of En
 - (a) the desirability of the application being heard as soon as is reasonably practicable, and
 - (b) the need to give the building society a reasonable opportunity to attend.
 
-### 22. Hearing[^key-f38c97c56a234ac9897af60b606d22c8]
+### 22. Hearing[^c-f38c97c56a234ac9897af60b606d22c8]
 
 At the hearing of the application, any of the following may appear or be represented—
 
@@ -241,24 +241,24 @@ At the hearing of the application, any of the following may appear or be represe
 - (c) the building society,
 - (d) a director of the building society,
 - (e) the person (or a person) nominated for appointment as building society special administrator,
-- (f) any person who has given notice to the FCA and, where relevant, the PRA[^key-964e2ec5e8b4b4e806eb5bad3a00b0da] in respect of the building society under section 90D of the Building Societies Act 1986 (notice to the FCA and PRA[^key-dccd17551ae06c6dfa7cdf3a5d759000] of preliminary steps), and
+- (f) any person who has given notice to the FCA and, where relevant, the PRA[^c-964e2ec5e8b4b4e806eb5bad3a00b0da] in respect of the building society under section 90D of the Building Societies Act 1986 (notice to the FCA and PRA[^c-dccd17551ae06c6dfa7cdf3a5d759000] of preliminary steps), and
 - (g) with the permission of the court, any other person who appears to have an interest.
 
-### 23. The order[^key-4ffd6b98ef72d57dcb878d8f12e90787]
+### 23. The order[^c-4ffd6b98ef72d57dcb878d8f12e90787]
 
 A building society special administration order must be in the form specified in Rule 2.12(2) of the Insolvency Rules 1986, with such variations, if any, as the circumstances may require.
 
-### 24. Notice of order[^key-3dd663f4135a68a43ffc4ffd179666ed]
+### 24. Notice of order[^c-3dd663f4135a68a43ffc4ffd179666ed]
 
-If the court makes a building society special administration order, it shall send four or, if the building society is a[^key-93b61839992d7724fbf3db0c88b5e8ee] PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), five sealed copies to the Bank of England.
+If the court makes a building society special administration order, it shall send four or, if the building society is a[^c-93b61839992d7724fbf3db0c88b5e8ee] PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), five sealed copies to the Bank of England.
 
-**25.**[^key-b5ec6db62ad61cab3503f750a50b02c1] The Bank of England shall as soon as is reasonably practicable send—
+**25.**[^c-b5ec6db62ad61cab3503f750a50b02c1] The Bank of England shall as soon as is reasonably practicable send—
 
 - (a) one sealed copy to the building society special administrator,
-- (b) one sealed copy to the FCA[^key-b3c23bdbf2f957a26433280bcb7744f5] and where relevant the PRA, and
+- (b) one sealed copy to the FCA[^c-b3c23bdbf2f957a26433280bcb7744f5] and where relevant the PRA, and
 - (c) one sealed copy to the FSCS.
 
-### 26. Costs[^key-f38d3a9abf36f3cbf554b680a16488e1]
+### 26. Costs[^c-f38d3a9abf36f3cbf554b680a16488e1]
 
 If the court makes a building society special administration order, the following are payable as an expense of the building society special administration—
 
@@ -267,11 +267,11 @@ If the court makes a building society special administration order, the followin
 
 ## PART 3 — Process of Building Society Special Administration
 
-### 27. Introduction[^key-7d5189941c766a5390763c21a4b267e2]
+### 27. Introduction[^c-7d5189941c766a5390763c21a4b267e2]
 
 This Part makes specific provision for a number of aspects of building society special administration; Part 5 applies a number of provisions of the Insolvency Rules 1986 to building society special administration (with specified modifications).
 
-### 28. Building society special administrator’s proposals: Objective 1 Stage[^key-a16a49f8de0cde9f2a55e452e89d24e1]
+### 28. Building society special administrator’s proposals: Objective 1 Stage[^c-a16a49f8de0cde9f2a55e452e89d24e1]
 
 (1) This Rule makes provision about the statement of proposals which the building society special administrator is required to make in the Objective 1 Stage under section 147 of the Banking Act 2009.
 
@@ -311,7 +311,7 @@ This Part makes specific provision for a number of aspects of building society s
 - (a) may exclude information, the disclosure of which could seriously prejudice the commercial interests of the society or of the bridge bank or private sector purchaser, and
 - (b) must include a statement of any exclusion.
 
-### 29. Building society special administrator’s proposals: Objective 2 Stage[^key-aca0c8940ee4a8ad20beacc9eae5b168]
+### 29. Building society special administrator’s proposals: Objective 2 Stage[^c-aca0c8940ee4a8ad20beacc9eae5b168]
 
 (1) This Rule makes provision about the statement of proposals which the special administrator is required to make under paragraph 49 of Schedule B1 to the Insolvency Act 1986[^f00015] as it applies during the Objective 2 Stage (in accordance with Table 1 in section 145(6) of the Banking Act 2009).
 
@@ -360,20 +360,20 @@ This Part makes specific provision for a number of aspects of building society s
 - (a) may exclude information, the disclosure of which could seriously prejudice the commercial interests of the society, and
 - (b) must include a statement of any exclusion.
 
-**30.**[^key-bd4bd8d47cae14f5d5819f2c4c8e9d77] If the special administrator thinks that the statement made under section 147 of the Banking Act 2009 in accordance with Rule 28 contains information required by Rule 29(2), the statement under paragraph 49 of Schedule B1 to the Insolvency Act 1986 (as applied by Table 1 in section 145(6) of the Banking Act 2009) may consist of the statement under section 147, with such additions, modifications and supplemental information as the special administrator thinks necessary—
+**30.**[^c-bd4bd8d47cae14f5d5819f2c4c8e9d77] If the special administrator thinks that the statement made under section 147 of the Banking Act 2009 in accordance with Rule 28 contains information required by Rule 29(2), the statement under paragraph 49 of Schedule B1 to the Insolvency Act 1986 (as applied by Table 1 in section 145(6) of the Banking Act 2009) may consist of the statement under section 147, with such additions, modifications and supplemental information as the special administrator thinks necessary—
 
 - (a) to comply with Rule 29(2), and
 - (b) to bring the statement under section 147 up to date.
 
-**31.**[^key-e497dcded7ee57a767392ada632dd482] Where the statement of proposals is sent to creditors, in accordance with paragraph 49(4)(b) of Schedule B1 (as applied by Table 1 in section 145(6) of the Banking Act 2009), it must be sent to the FCA[^key-e1e83647ce5d74c962547cd54dc0f9e5] and where relevant the PRA and the FSCS at the same time.
+**31.**[^c-e497dcded7ee57a767392ada632dd482] Where the statement of proposals is sent to creditors, in accordance with paragraph 49(4)(b) of Schedule B1 (as applied by Table 1 in section 145(6) of the Banking Act 2009), it must be sent to the FCA[^c-e1e83647ce5d74c962547cd54dc0f9e5] and where relevant the PRA and the FSCS at the same time.
 
-**32.**[^key-7bf041facec73d7a1df565577295a181] Where the court orders an extension of the period of time under paragraph 49(5) of Schedule B1 on an application by the special administrator under paragraph 107 (as applied by Table 1 in section 145(6) of the Banking Act 2009), the special administrator must notify the persons set out in paragraph 49(4) as soon as is reasonably practicable after the making of the order.
+**32.**[^c-7bf041facec73d7a1df565577295a181] Where the court orders an extension of the period of time under paragraph 49(5) of Schedule B1 on an application by the special administrator under paragraph 107 (as applied by Table 1 in section 145(6) of the Banking Act 2009), the special administrator must notify the persons set out in paragraph 49(4) as soon as is reasonably practicable after the making of the order.
 
-**33.**[^key-baddef4e07862e737afd0fa62166f758] Where the special administrator has made a statement under paragraph 52(1) of Schedule B1 (as applied by Table 1 in section 145(6) of the Banking Act 2009) and has not called an initial meeting of creditors, the proposals issued in accordance with Rule 29 above will be deemed to have been approved by the creditors (if no meeting has been requisitioned under paragraph 52(2) within the period set out in Rule 2.37(1) of the Insolvency Rules 1986 – as applied by Rule 60 below).
+**33.**[^c-baddef4e07862e737afd0fa62166f758] Where the special administrator has made a statement under paragraph 52(1) of Schedule B1 (as applied by Table 1 in section 145(6) of the Banking Act 2009) and has not called an initial meeting of creditors, the proposals issued in accordance with Rule 29 above will be deemed to have been approved by the creditors (if no meeting has been requisitioned under paragraph 52(2) within the period set out in Rule 2.37(1) of the Insolvency Rules 1986 – as applied by Rule 60 below).
 
-**34.**[^key-f1fbdab30b4bd27ca7ff848bf7e705f6] Where the special administrator intends to apply to the court under paragraph 79 of Schedule B1 (as applied by the 2009 Order)[^f00017] for the special administration to cease before the statement of proposals is sent to creditors in accordance with paragraph 49 of Schedule B1, the special administrator must, at least 10 days before making the application, send to all known creditors of the society a report containing the information required by Rule 29(2).
+**34.**[^c-f1fbdab30b4bd27ca7ff848bf7e705f6] Where the special administrator intends to apply to the court under paragraph 79 of Schedule B1 (as applied by the 2009 Order)[^f00017] for the special administration to cease before the statement of proposals is sent to creditors in accordance with paragraph 49 of Schedule B1, the special administrator must, at least 10 days before making the application, send to all known creditors of the society a report containing the information required by Rule 29(2).
 
-**35.**[^key-d90355a6e7feafd3ac6b2bb23c67b166] (1) Where the special administrator wishes to publish a notice under paragraph 49(6) of Schedule B1 (as applied by Table 1 in section 145(6) of the Banking Act 2009), the notice shall be advertised in such manner as the special administrator thinks fit.
+**35.**[^c-d90355a6e7feafd3ac6b2bb23c67b166] (1) Where the special administrator wishes to publish a notice under paragraph 49(6) of Schedule B1 (as applied by Table 1 in section 145(6) of the Banking Act 2009), the notice shall be advertised in such manner as the special administrator thinks fit.
 
 (2) The notice must—
 
@@ -384,7 +384,7 @@ This Part makes specific provision for a number of aspects of building society s
 
 (3) The notice must be published as soon as is reasonably practicable after the special administrator sends the statement of proposals to the society’s creditors but no later than 8 weeks (or such other period as may be agreed by the creditors or as the court may order) from the date that the society entered special administration.
 
-### 36. Reports to creditors[^key-23be43789a4f64a565671c5c4e31cc95]
+### 36. Reports to creditors[^c-23be43789a4f64a565671c5c4e31cc95]
 
 (1) “**Progress report**” means a report which includes—
 
@@ -414,18 +414,18 @@ This Part makes specific provision for a number of aspects of building society s
 - (a) may exclude information, the disclosure of which could seriously prejudice the commercial interests of the society or of the bridge bank or private sector purchaser, and
 - (b) must include a statement of any exclusion.
 
-**37.**[^key-c21155f962d33f367997b3432745fa13] A progress report must be produced for—
+**37.**[^c-c21155f962d33f367997b3432745fa13] A progress report must be produced for—
 
 - (a) the first period of 6 months of the special administration,
 - (b) every subsequent period of 6 months, and
 - (c) when the special administrator ceases to act, the period from the date of the previous report (or, if there was none, from the beginning of the special administration) until the administrator ceases to act.
 
-**38.**[^key-79a6c32cdfb75a196f6c51bd85a3af1c] (1) The special administrator must send a copy of each progress report within 28 days of the end of the period covered by the report, to
+**38.**[^c-79a6c32cdfb75a196f6c51bd85a3af1c] (1) The special administrator must send a copy of each progress report within 28 days of the end of the period covered by the report, to
 
 - (a) the creditors and shareholding members,
 - (b) the court,
 - (c) the Bank of England,
-- (d) the FCA[^key-1b2e06d164a8be9d379f169b0b06d12b] and where relevant the PRA, and
+- (d) the FCA[^c-1b2e06d164a8be9d379f169b0b06d12b] and where relevant the PRA, and
 - (e) the FSCS.
 
 (2) Instead of complying with paragraph (1)(a) the special administrator may publish the progress report on its internet website (and take appropriate steps to draw attention to it) and send a copy of it to any creditors and shareholding members on request.
@@ -435,11 +435,11 @@ This Part makes specific provision for a number of aspects of building society s
 - (a) extend the period specified in paragraph (1),
 - (b) make any other order about the content of a progress report.
 
-**39.**[^key-cf0c6a6ed3dc050f4a64dad988a377a9] (1) A special administrator who fails to comply with Rules 37 and 38 is liable to a fine and, for continued contravention, to a daily default fine.
+**39.**[^c-cf0c6a6ed3dc050f4a64dad988a377a9] (1) A special administrator who fails to comply with Rules 37 and 38 is liable to a fine and, for continued contravention, to a daily default fine.
 
 (2) For that purpose, failure to comply with Rules 37 and 38 shall be treated in the same way as failure to comply with Rule 2.47 of the Insolvency Rules 1986.
 
-### 40. Removal of special administrator in Objective 1 Stage[^key-27b8e961408e56e3ce68ece317c4cdb6]
+### 40. Removal of special administrator in Objective 1 Stage[^c-27b8e961408e56e3ce68ece317c4cdb6]
 
 (1) This Rule is about an application for removal of a special administrator made by the Bank of England during the Objective 1 Stage (in accordance with the modifications for the application of paragraph 91 of Schedule B1 to the Insolvency Act 1986 in Table 1 in section 145(6) of the Banking Act 2009).
 
@@ -447,11 +447,11 @@ This Part makes specific provision for a number of aspects of building society s
 
 (3) But both the person proposed to be appointed as a replacement and the existing special administrator are entitled to be served and heard.
 
-### 41. Appointment of provisional special administrator[^key-d2e4cc8cb7ec5ccf61565c051bce3a3a]
+### 41. Appointment of provisional special administrator[^c-d2e4cc8cb7ec5ccf61565c051bce3a3a]
 
 An application to the court for the appointment of a provisional special administrator under section 135 of the Insolvency Act 1986 (as applied by Table 2 in section 145(6) of the Banking Act 2009) may be made by the Bank of England.
 
-**42.**[^key-4faabfcc31b6e57c250e22babf0f4d8d] The application must be supported by a witness statement stating—
+**42.**[^c-4faabfcc31b6e57c250e22babf0f4d8d] The application must be supported by a witness statement stating—
 
 - (a) why the Bank of England thinks that a provisional special administrator should be appointed,
 - (b) that the person to be appointed has consented to act,
@@ -460,17 +460,17 @@ An application to the court for the appointment of a provisional special adminis
 - (e) whether, to the Bank of England’s knowledge, an administrative receiver is acting in respect of the society, and
 - (f) the Bank of England’s estimate of the value of the assets in respect of which the provisional special administrator is to be appointed.
 
-**43.**[^key-cfc1cfbef555f655b3a606b61e22871f] If satisfied that sufficient grounds are shown for the appointment, the court may make it on such terms as it thinks fit.
+**43.**[^c-cfc1cfbef555f655b3a606b61e22871f] If satisfied that sufficient grounds are shown for the appointment, the court may make it on such terms as it thinks fit.
 
-**44.**[^key-230d96ab222c7e998ad42bff7a02a4d9] An order appointing a provisional special administrator must specify the functions to be carried out in relation to the society’s affairs.
+**44.**[^c-230d96ab222c7e998ad42bff7a02a4d9] An order appointing a provisional special administrator must specify the functions to be carried out in relation to the society’s affairs.
 
-**45.**[^key-fe45967ff2255eaede01bcac1757240c] If the court makes an order appointing a provisional special administrator, as soon as reasonably practicable the court shall send four or, if the building society is a[^key-43cd0ac335b4aa24537bdaf2cad63aaa] PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), five sealed copies of the order to the person appointed (and one additional copy by email if possible).
+**45.**[^c-fe45967ff2255eaede01bcac1757240c] If the court makes an order appointing a provisional special administrator, as soon as reasonably practicable the court shall send four or, if the building society is a[^c-43cd0ac335b4aa24537bdaf2cad63aaa] PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), five sealed copies of the order to the person appointed (and one additional copy by email if possible).
 
-**46.**[^key-5df5a5ffe725cf9feac085ae4c338602] (1) As soon as is reasonably practicable after appointment a provisional special administrator must send a copy of the order of appointment to—
+**46.**[^c-5df5a5ffe725cf9feac085ae4c338602] (1) As soon as is reasonably practicable after appointment a provisional special administrator must send a copy of the order of appointment to—
 
 - (a) the society,
 - (b) any administrative receiver of the society,
-- (c) the FCA[^key-7a764368be6462ff69eb9fba607d7726] and where relevant the PRA (together with the form specified in Rule 4.26(3)(ii) of the Insolvency Rules 1986, with such variations, if any, as the circumstances may require), and
+- (c) the FCA[^c-7a764368be6462ff69eb9fba607d7726] and where relevant the PRA (together with the form specified in Rule 4.26(3)(ii) of the Insolvency Rules 1986, with such variations, if any, as the circumstances may require), and
 - (d) the FSCS.
 
 (2) Notice to the society must be given by service in accordance with Rule 18 above.
@@ -480,9 +480,9 @@ An application to the court for the appointment of a provisional special adminis
 - (a) shall be gazetted; and
 - (b) may be advertised in such other manner as the provisional special administrator thinks fit.
 
-**47.**[^key-3321bc64b96c2842309c5be8e5b42bf6] The Bank of England may disclose the fact and terms of an order appointing a provisional special administrator to any person whom the Bank thinks has a sufficient business interest.
+**47.**[^c-3321bc64b96c2842309c5be8e5b42bf6] The Bank of England may disclose the fact and terms of an order appointing a provisional special administrator to any person whom the Bank thinks has a sufficient business interest.
 
-### 48. Additional joint special administrator[^key-f642f4a7e1fe561a1cda56daf8f73996]
+### 48. Additional joint special administrator[^c-f642f4a7e1fe561a1cda56daf8f73996]
 
 (1) The process for the appointment of an additional joint special administrator is the same as for the initial appointment of a special administrator.
 
@@ -495,11 +495,11 @@ An application to the court for the appointment of a provisional special adminis
 
 (4) Rule 60 below applies Rules 2.127 and 2.128 of the Insolvency Rules 1986 (notification and advertisement of appointment of joint administrator).
 
-### 49. Disapplication of set-off for protected deposits[^key-5330339fe625d906c7dcebc3a72ba169]
+### 49. Disapplication of set-off for protected deposits[^c-5330339fe625d906c7dcebc3a72ba169]
 
 (1) This rule applies if—
 
-- (a) the appropriate regulator’s rules[^key-8efd327586bd458d75dc9b58b59b5978] allow the FSCS to make gross payments of compensation in respect of protected deposits; and
+- (a) the appropriate regulator’s rules[^c-8efd327586bd458d75dc9b58b59b5978] allow the FSCS to make gross payments of compensation in respect of protected deposits; and
 - (b) all or part of a creditor’s claim against the building society is in respect of protected deposits.
 
 (2) In respect of protected deposits Rule 2.85 of the Insolvency Rules 1986 (as applied by Rule 60 below) shall apply and, for the purpose of determining the sums due from the building society to an eligible depositor under rule 2.85(3)—
@@ -521,13 +521,13 @@ An application to the court for the appointment of a provisional special adminis
 (6) In this rule—
 
 - “**eligible depositor**” has the meaning given to it by section 93(3) of the Banking Act 2009;
-- “appropriate regulator’s rules” means the rules, as amended from time to time, made under section 213 of the Financial Services and Markets Act 2000 by—[^key-c4025f59eeb52a21aaadd143dd1ebec9]
+- “appropriate regulator’s rules” means the rules, as amended from time to time, made under section 213 of the Financial Services and Markets Act 2000 by—[^c-c4025f59eeb52a21aaadd143dd1ebec9]
   - (a) if the building society is a PRA-authorised person (within the meaning of that Act), the PRA or the FCA;
   - (b) in any other case, the FCA;
 - “**prescribed limit**” means the amount prescribed as the maximum compensation payable in respect of protected deposits under Part 15 of the Financial Services and Markets Act 2000; and
-- “**protected deposit**” means a protected deposit within the meaning given by the the appropriate regulator’s rules[^key-d43309cf73cc74c963ef17b695731f5b] held by the building society at the date of the notice referred to in rule 2.85(1) but does not include a share in the society held by an eligible depositor.
+- “**protected deposit**” means a protected deposit within the meaning given by the the appropriate regulator’s rules[^c-d43309cf73cc74c963ef17b695731f5b] held by the building society at the date of the notice referred to in rule 2.85(1) but does not include a share in the society held by an eligible depositor.
 
-### 50. End of special administration: successful rescue[^key-c1ba45547e1f15eca1336bfe1d9ea4d5]
+### 50. End of special administration: successful rescue[^c-c1ba45547e1f15eca1336bfe1d9ea4d5]
 
 (1) This Rule supplements section 153 of the Banking Act 2009 (successful rescue)[^f00019].
 
@@ -536,7 +536,7 @@ An application to the court for the appointment of a provisional special adminis
 (3) Before making the application the special administrator must send a copy of the application and the progress report referred to in paragraph 2 to—
 
 - (a) the Bank of England,
-- (b) the FCA[^key-42512d181ffda32769007892992fac42] and where relevant the PRA, and
+- (b) the FCA[^c-42512d181ffda32769007892992fac42] and where relevant the PRA, and
 - (c) the FSCS.
 
 (4) Notice under paragraph (3)(b) and (c) must be sent at least 7 days before the hearing of the application.
@@ -552,7 +552,7 @@ An application to the court for the appointment of a provisional special adminis
 - (a) discharge the special administration order, and
 - (b) notify the special administrator, who shall notify the FCA and where relevant the PRA.
 
-### 51. End of special administration: dissolution[^key-de7b3b9d59271901015c22112c6ffbc6]
+### 51. End of special administration: dissolution[^c-de7b3b9d59271901015c22112c6ffbc6]
 
 (1) This Rule supplements section 154(2)(a) of the Banking Act 2009.
 
@@ -565,7 +565,7 @@ An application to the court for the appointment of a provisional special adminis
 
 (4) Before applying for discharge the special administrator must send a copy of the notice referred to in paragraph (2) and the final progress report to—
 
-- (a) the FCA[^key-ece18d6e70f7562e1c505b8a76373d84] and where relevant the PRA, and
+- (a) the FCA[^c-ece18d6e70f7562e1c505b8a76373d84] and where relevant the PRA, and
 - (b) each person who received notice of the special administrator’s appointment.
 
 (5) After the expiry of the period mentioned in paragraph 30(7) of Schedule 1 to the 2009 Order (and subject to extension under paragraph 30(8) of that Schedule) if the court discharges the special administration order—
@@ -577,15 +577,15 @@ An application to the court for the appointment of a provisional special adminis
 
 ## PART 4 — Court Procedure and Practice
 
-### 52. Introduction[^key-38af03a8a40604f16230e5e75264e560]
+### 52. Introduction[^c-38af03a8a40604f16230e5e75264e560]
 
 This Part makes specific provision for a number of aspects of proceedings for building society special administration under Part 3 of the Banking Act 2009; Part 5 of these Rules applies a number of provisions of the Insolvency Rules 1986 to proceedings for building society special administration under the Banking Act 2009 (with specified modifications).
 
-### 53. Title of proceedings[^key-b727ead61894e90f4d8e45716451c743]
+### 53. Title of proceedings[^c-b727ead61894e90f4d8e45716451c743]
 
 Proceedings for building society special administration under Part 3 of the Banking Act 2009 shall be entitled “IN THE MATTER OF … (naming the society to which the proceedings relate) AND IN THE MATTER OF PART 3 OF THE BANKING ACT 2009”.
 
-### 54. Right to inspect file[^key-7acd8af29e44511f5b33fd8894dea098]
+### 54. Right to inspect file[^c-7acd8af29e44511f5b33fd8894dea098]
 
 (1) The court must open and maintain a file for each set of building society special administration proceedings.
 
@@ -601,35 +601,35 @@ Proceedings for building society special administration under Part 3 of the Bank
 - (d) any person stating himself in writing to be a creditor of the society,
 - (e) any person stating himself in writing to be a contributory in respect of the society,
 - (f) the Bank of England,
-- (g) the FCA[^key-6b9e79ff23ec76f022b21f7b0a8603a8] and where relevant the PRA, and
+- (g) the FCA[^c-6b9e79ff23ec76f022b21f7b0a8603a8] and where relevant the PRA, and
 - (h) the FSCS.
 
-**55.**[^key-d42ffe7057ab8f5662389bebda14afbe] A right of inspection may be exercised on a person’s behalf by anyone authorised by that person in writing.
+**55.**[^c-d42ffe7057ab8f5662389bebda14afbe] A right of inspection may be exercised on a person’s behalf by anyone authorised by that person in writing.
 
-**56.**[^key-d218374e97867b00c73703a5488a4eba] Any person may, with permission of the court, inspect the court’s file in respect of special administration proceedings.
+**56.**[^c-d218374e97867b00c73703a5488a4eba] Any person may, with permission of the court, inspect the court’s file in respect of special administration proceedings.
 
-**57.**[^key-55f13a0c795bf411a8c86f8f9e654013] A right of inspection is not exercisable in the case of documents, or parts of documents, as to which the court directs that they are not to be made open to inspection without the court’s permission; and an application for a direction may be made by—
+**57.**[^c-55f13a0c795bf411a8c86f8f9e654013] A right of inspection is not exercisable in the case of documents, or parts of documents, as to which the court directs that they are not to be made open to inspection without the court’s permission; and an application for a direction may be made by—
 
 - (a) the special administrator or provisional special administrator, or
 - (b) any person appearing to the court to have an interest.
 
-**58.**[^key-1283ae703b9270604f49442f41d808eb] Rule 7.28(2) and (3) of the Insolvency Rules 1986 (as applied by Rule 60 below) applies in respect of the court’s file of special administration proceedings as it applies in respect of court records.
+**58.**[^c-1283ae703b9270604f49442f41d808eb] Rule 7.28(2) and (3) of the Insolvency Rules 1986 (as applied by Rule 60 below) applies in respect of the court’s file of special administration proceedings as it applies in respect of court records.
 
-**59.**[^key-76e6c6502c5e820e54f77d8c75d8abde] Proceedings under sections 213 and 214 of the Insolvency Act 1986 (fraudulent and wrongful trading) shall be conducted in accordance with section 215 of that Act subject to the modifications specified in section 145 of the Banking Act 2009.
+**59.**[^c-76e6c6502c5e820e54f77d8c75d8abde] Proceedings under sections 213 and 214 of the Insolvency Act 1986 (fraudulent and wrongful trading) shall be conducted in accordance with section 215 of that Act subject to the modifications specified in section 145 of the Banking Act 2009.
 
 ## PART 5 — Application of Insolvency Rules 1986
 
-### 60. General application[^key-a2bfbb1f469c6ab029203de9aca4c29c]
+### 60. General application[^c-a2bfbb1f469c6ab029203de9aca4c29c]
 
 The provisions of the Insolvency Rules 1986 listed in the Table in Rule 63 apply for the purposes of building society special administration and applications for special administration.
 
-**61.**[^key-059106a9a67a4b11e683f124a160a6a4] For that purpose the rules apply with—
+**61.**[^c-059106a9a67a4b11e683f124a160a6a4] For that purpose the rules apply with—
 
 - (a) the general modifications set out in Rule 62,
 - (b) any specific modification set out in the Table in Rule 63, and
 - (c) any other necessary modification.
 
-### 62. General modifications[^key-a0d0f910c7c767f44a3cb89f1b2da2cc]
+### 62. General modifications[^c-a0d0f910c7c767f44a3cb89f1b2da2cc]
 
 The general modifications are that—
 
@@ -648,12 +648,12 @@ The general modifications are that—
 - (m) a reference to the officers, or to a particular officer, of a company is to be treated as a reference to the officers, or to the corresponding officer, of a building society and as including a person holding himself out as such an officer,
 - (n) a reference to a contributory is to be treated as a reference to a contributory within the meaning of these Rules (see rule 4(1)(d)),
 - (o) a reference to the registered office of the company is to be treated as a reference to the principal office of the building society,
-- (p) a reference to sending or giving a document or notice to, or filing it with, the registrar of companies is to be treated as a reference to sending the document or notice to the FCA[^key-5870a1a79257771456c2f816e2894e58] for placing on the public file of the society,
+- (p) a reference to sending or giving a document or notice to, or filing it with, the registrar of companies is to be treated as a reference to sending the document or notice to the FCA[^c-5870a1a79257771456c2f816e2894e58] for placing on the public file of the society,
 - (q) a reference to a voluntary arrangement under Part 1 of the Insolvency Act 1986 is to be treated as a reference to a voluntary arrangement under that Part as applied in relation to building societies by section 90A of, and Schedule 15A to, the Building Societies Act 1986,
 - (r) a reference in the rules to a paragraph of Schedule B1 to the Insolvency Act 1986 is to be treated as a reference to that paragraph as applied and modified by section 145 of the Banking Act 2009, by section 90C of the Building Societies Act 1986 and by any order made under section 158 of the Banking Act 2009, and
 - (s) a reference to the Insolvency Act 1986 includes a reference to Part 3 of the Banking Act 2009.
 
-### 63. Table of applications and specific modifications[^key-65ead8341ef029f2f17dd2c674f94623]
+### 63. Table of applications and specific modifications[^c-65ead8341ef029f2f17dd2c674f94623]
 
 This Rule contains the Table of applied provisions of the Insolvency Rules 1986.
 
@@ -871,7 +871,7 @@ This Rule contains the Table of applied provisions of the Insolvency Rules 1986.
 </tbody>
 </table>
 
-[^key-a586870973427c7ad201f05ad6b25c15][^f00021][^key-024b85814a89e45791a02b5f3ef415fb]
+[^c-a586870973427c7ad201f05ad6b25c15][^f00021][^c-024b85814a89e45791a02b5f3ef415fb]
 
 Kenneth Clarke, C
 
@@ -927,13 +927,13 @@ An Impact Assessment relating to the rules for building society insolvency and s
 
 [^f00002]: Footnote: [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805).
 
-[^key-f739e4995c507eb6d42541e7abf6447f]: Commencement: Rule 1 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-f739e4995c507eb6d42541e7abf6447f]: Commencement: Rule 1 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-e137615bd82c4da54f4285e3de714455]: Commencement: Rule 2 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-e137615bd82c4da54f4285e3de714455]: Commencement: Rule 2 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-2fbed3801176104aa479e09fdbed31f7]: Commencement: Rule 3 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-2fbed3801176104aa479e09fdbed31f7]: Commencement: Rule 3 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-0d96bc67f0ae71918f52a13f5b7b9ee4]: Commencement: Rule 4 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-0d96bc67f0ae71918f52a13f5b7b9ee4]: Commencement: Rule 4 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
 [^f00003]: Footnote: [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805). [S.I.2009/805](https://www.legislation.gov.uk/uksi/2009/805) was amended by [S.I.2010/1189](https://www.legislation.gov.uk/uksi/2010/1189).
 
@@ -945,7 +945,7 @@ An Impact Assessment relating to the rules for building society insolvency and s
 
 [^f00006]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
-[^key-c1a4244e698ceae81ae9eca46d50585e]: Textual amendment: Rule 4(1)(h)(ai) inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 36](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/36)
+[^c-c1a4244e698ceae81ae9eca46d50585e]: Textual amendment: Rule 4(1)(h)(ai) inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 36](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/36)
 
 [^M_F_d5dc05d8-9c18-49ef-8de3-fe156b5c4f56]: Textual amendment: Words in rule 4(1)(h)(iii) substituted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [7(b)(i)](https://www.legislation.gov.uk/uksi/2013/1765/article/7/b/i)
 
@@ -959,182 +959,182 @@ An Impact Assessment relating to the rules for building society insolvency and s
 
 [^f00010]: Footnote: [S.I. 2009/2472](https://www.legislation.gov.uk/uksi/2009/2472). Later amendments to the Insolvency Rules 1986 were made by [S.I.2010/686](https://www.legislation.gov.uk/uksi/2010/686) and [S.I. 2010/734](https://www.legislation.gov.uk/uksi/2010/734).
 
-[^key-817b9570a038059d9c046c21aede6e03]: Commencement: Rule 5 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-817b9570a038059d9c046c21aede6e03]: Commencement: Rule 5 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
 [^f00011]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^f00012]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).
 
-[^key-78ab021855a49a42b7e72407590607aa]: Commencement: Rule 6 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-78ab021855a49a42b7e72407590607aa]: Commencement: Rule 6 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-02f25a5076d1a89c66f33b28a2d29dc5]: Commencement: Rule 7 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-02f25a5076d1a89c66f33b28a2d29dc5]: Commencement: Rule 7 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-8708ac96cd5360552ef697d372a3bca3]: Commencement: Rule 8 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-8708ac96cd5360552ef697d372a3bca3]: Commencement: Rule 8 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-e72e6ef72b3be6c9c36632b5657433ba]: Commencement: Rule 9 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-e72e6ef72b3be6c9c36632b5657433ba]: Commencement: Rule 9 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-0b72373d60ab31c457296bc9eaf1eb34]: Commencement: Rule 10 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-0b72373d60ab31c457296bc9eaf1eb34]: Commencement: Rule 10 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-44156389802bbfd8075d28c9e78d5cbf]: Commencement: Rule 11 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-44156389802bbfd8075d28c9e78d5cbf]: Commencement: Rule 11 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-fe0037bd30b2abb7b1ec05101297578e]: Commencement: Rule 12 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-fe0037bd30b2abb7b1ec05101297578e]: Commencement: Rule 12 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-1ee2fc60d4c4d7811af48ee3fd0de46a]: Textual amendment: Words in [rule 12](https://www.legislation.gov.uk/uksi/2010/2580/rule/12) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/2)
+[^c-1ee2fc60d4c4d7811af48ee3fd0de46a]: Textual amendment: Words in [rule 12](https://www.legislation.gov.uk/uksi/2010/2580/rule/12) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/2)
 
 [^f00013]: Footnote: Section 90D was inserted by [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805).
 
-[^key-ed3df117ba89d1d7678ba4982ee81076]: Commencement: Rule 13 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-ed3df117ba89d1d7678ba4982ee81076]: Commencement: Rule 13 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-de8f78d21a0669fe5ac0a6f0d995af59]: Commencement: Rule 14 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-de8f78d21a0669fe5ac0a6f0d995af59]: Commencement: Rule 14 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-a474bf05c1beee7033f6168b2a4ea8da]: Commencement: Rule 15 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-a474bf05c1beee7033f6168b2a4ea8da]: Commencement: Rule 15 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-567c209f0c74f2d5e5ac41a6ff1df8be]: Textual amendment: Words in [rule 15(d)](https://www.legislation.gov.uk/uksi/2010/2580/rule/15/d) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 19(3)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/19/3/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-567c209f0c74f2d5e5ac41a6ff1df8be]: Textual amendment: Words in [rule 15(d)](https://www.legislation.gov.uk/uksi/2010/2580/rule/15/d) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 19(3)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/19/3/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-d574d3b18b2234edb3eee24abd431bf7]: Textual amendment: Words in [rule 15(d)](https://www.legislation.gov.uk/uksi/2010/2580/rule/15/d) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 19(3)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/19/3/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-d574d3b18b2234edb3eee24abd431bf7]: Textual amendment: Words in [rule 15(d)](https://www.legislation.gov.uk/uksi/2010/2580/rule/15/d) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 19(3)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/19/3/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-99ada46f36a3c665aa12d458c3250a50]: Commencement: Rule 16 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-99ada46f36a3c665aa12d458c3250a50]: Commencement: Rule 16 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-d2650970a2c61a31375ba2a2b4941a39]: Commencement: Rule 17 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-d2650970a2c61a31375ba2a2b4941a39]: Commencement: Rule 17 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-4624f8c90d38688e653d28369c2f1582]: Commencement: Rule 18 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-4624f8c90d38688e653d28369c2f1582]: Commencement: Rule 18 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-26864092ba18006931f82fc719562430]: Commencement: Rule 19 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-26864092ba18006931f82fc719562430]: Commencement: Rule 19 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-692cc1aaad0e38fb60112a0798d06da3]: Commencement: Rule 20 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-692cc1aaad0e38fb60112a0798d06da3]: Commencement: Rule 20 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-824c9522a90b791577898a5a8981d061]: Textual amendment: Words in [rule 20](https://www.legislation.gov.uk/uksi/2010/2580/rule/20) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(3)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/3)
+[^c-824c9522a90b791577898a5a8981d061]: Textual amendment: Words in [rule 20](https://www.legislation.gov.uk/uksi/2010/2580/rule/20) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(3)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/3)
 
-[^key-10245d6027a6813233cdaa9e36982e49]: Commencement: Rule 21 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-10245d6027a6813233cdaa9e36982e49]: Commencement: Rule 21 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-f38c97c56a234ac9897af60b606d22c8]: Commencement: Rule 22 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-f38c97c56a234ac9897af60b606d22c8]: Commencement: Rule 22 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-964e2ec5e8b4b4e806eb5bad3a00b0da]: Textual amendment: Words in [rule 22(f)](https://www.legislation.gov.uk/uksi/2010/2580/rule/22/f) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 19(4)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/19/4/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-964e2ec5e8b4b4e806eb5bad3a00b0da]: Textual amendment: Words in [rule 22(f)](https://www.legislation.gov.uk/uksi/2010/2580/rule/22/f) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 19(4)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/19/4/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-dccd17551ae06c6dfa7cdf3a5d759000]: Textual amendment: Words in [rule 22(f)](https://www.legislation.gov.uk/uksi/2010/2580/rule/22/f) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 19(4)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/19/4/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-dccd17551ae06c6dfa7cdf3a5d759000]: Textual amendment: Words in [rule 22(f)](https://www.legislation.gov.uk/uksi/2010/2580/rule/22/f) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 19(4)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/19/4/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-4ffd6b98ef72d57dcb878d8f12e90787]: Commencement: Rule 23 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-4ffd6b98ef72d57dcb878d8f12e90787]: Commencement: Rule 23 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-3dd663f4135a68a43ffc4ffd179666ed]: Commencement: Rule 24 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-3dd663f4135a68a43ffc4ffd179666ed]: Commencement: Rule 24 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-93b61839992d7724fbf3db0c88b5e8ee]: Textual amendment: Words in [rule 24](https://www.legislation.gov.uk/uksi/2010/2580/rule/24) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(4)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/4)
+[^c-93b61839992d7724fbf3db0c88b5e8ee]: Textual amendment: Words in [rule 24](https://www.legislation.gov.uk/uksi/2010/2580/rule/24) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(4)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/4)
 
-[^key-b5ec6db62ad61cab3503f750a50b02c1]: Commencement: Rule 25 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-b5ec6db62ad61cab3503f750a50b02c1]: Commencement: Rule 25 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-b3c23bdbf2f957a26433280bcb7744f5]: Textual amendment: Words in [rule 25](https://www.legislation.gov.uk/uksi/2010/2580/rule/25) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(5)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/5)
+[^c-b3c23bdbf2f957a26433280bcb7744f5]: Textual amendment: Words in [rule 25](https://www.legislation.gov.uk/uksi/2010/2580/rule/25) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(5)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/5)
 
-[^key-f38d3a9abf36f3cbf554b680a16488e1]: Commencement: Rule 26 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-f38d3a9abf36f3cbf554b680a16488e1]: Commencement: Rule 26 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-7d5189941c766a5390763c21a4b267e2]: Commencement: Rule 27 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-7d5189941c766a5390763c21a4b267e2]: Commencement: Rule 27 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-a16a49f8de0cde9f2a55e452e89d24e1]: Commencement: Rule 28 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-a16a49f8de0cde9f2a55e452e89d24e1]: Commencement: Rule 28 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
 [^f00014]: Footnote: [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805) modifies the application of section 154.
 
-[^key-aca0c8940ee4a8ad20beacc9eae5b168]: Commencement: Rule 29 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-aca0c8940ee4a8ad20beacc9eae5b168]: Commencement: Rule 29 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
 [^f00015]: Footnote: Paragraph 49 of Schedule B1 was amended by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948).
 
 [^f00016]: Footnote: Section 176A was inserted by section 252 of the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-bd4bd8d47cae14f5d5819f2c4c8e9d77]: Commencement: Rule 30 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-bd4bd8d47cae14f5d5819f2c4c8e9d77]: Commencement: Rule 30 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-e497dcded7ee57a767392ada632dd482]: Commencement: Rule 31 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-e497dcded7ee57a767392ada632dd482]: Commencement: Rule 31 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-e1e83647ce5d74c962547cd54dc0f9e5]: Textual amendment: Words in [rule 31](https://www.legislation.gov.uk/uksi/2010/2580/rule/31) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(6)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/6)
+[^c-e1e83647ce5d74c962547cd54dc0f9e5]: Textual amendment: Words in [rule 31](https://www.legislation.gov.uk/uksi/2010/2580/rule/31) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(6)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/6)
 
-[^key-7bf041facec73d7a1df565577295a181]: Commencement: Rule 32 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-7bf041facec73d7a1df565577295a181]: Commencement: Rule 32 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-baddef4e07862e737afd0fa62166f758]: Commencement: Rule 33 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-baddef4e07862e737afd0fa62166f758]: Commencement: Rule 33 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-f1fbdab30b4bd27ca7ff848bf7e705f6]: Commencement: Rule 34 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-f1fbdab30b4bd27ca7ff848bf7e705f6]: Commencement: Rule 34 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
 [^f00017]: Footnote: [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805), as amended by [S.I .2010/1189](https://www.legislation.gov.uk/uksi/2010/1189), modifies the application of paragraph 79 of Schedule B1.
 
-[^key-d90355a6e7feafd3ac6b2bb23c67b166]: Commencement: Rule 35 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-d90355a6e7feafd3ac6b2bb23c67b166]: Commencement: Rule 35 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-23be43789a4f64a565671c5c4e31cc95]: Commencement: Rule 36 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-23be43789a4f64a565671c5c4e31cc95]: Commencement: Rule 36 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-c21155f962d33f367997b3432745fa13]: Commencement: Rule 37 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-c21155f962d33f367997b3432745fa13]: Commencement: Rule 37 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-79a6c32cdfb75a196f6c51bd85a3af1c]: Commencement: Rule 38 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-79a6c32cdfb75a196f6c51bd85a3af1c]: Commencement: Rule 38 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-1b2e06d164a8be9d379f169b0b06d12b]: Textual amendment: Words in [rule 38](https://www.legislation.gov.uk/uksi/2010/2580/rule/38) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(7)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/7)
+[^c-1b2e06d164a8be9d379f169b0b06d12b]: Textual amendment: Words in [rule 38](https://www.legislation.gov.uk/uksi/2010/2580/rule/38) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(7)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/7)
 
-[^key-cf0c6a6ed3dc050f4a64dad988a377a9]: Commencement: Rule 39 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-cf0c6a6ed3dc050f4a64dad988a377a9]: Commencement: Rule 39 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-27b8e961408e56e3ce68ece317c4cdb6]: Commencement: Rule 40 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-27b8e961408e56e3ce68ece317c4cdb6]: Commencement: Rule 40 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-d2e4cc8cb7ec5ccf61565c051bce3a3a]: Commencement: Rule 41 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-d2e4cc8cb7ec5ccf61565c051bce3a3a]: Commencement: Rule 41 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-4faabfcc31b6e57c250e22babf0f4d8d]: Commencement: Rule 42 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-4faabfcc31b6e57c250e22babf0f4d8d]: Commencement: Rule 42 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-cfc1cfbef555f655b3a606b61e22871f]: Commencement: Rule 43 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-cfc1cfbef555f655b3a606b61e22871f]: Commencement: Rule 43 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-230d96ab222c7e998ad42bff7a02a4d9]: Commencement: Rule 44 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-230d96ab222c7e998ad42bff7a02a4d9]: Commencement: Rule 44 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-fe45967ff2255eaede01bcac1757240c]: Commencement: Rule 45 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-fe45967ff2255eaede01bcac1757240c]: Commencement: Rule 45 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-43cd0ac335b4aa24537bdaf2cad63aaa]: Textual amendment: Words in [rule 45](https://www.legislation.gov.uk/uksi/2010/2580/rule/45) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(8)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/8)
+[^c-43cd0ac335b4aa24537bdaf2cad63aaa]: Textual amendment: Words in [rule 45](https://www.legislation.gov.uk/uksi/2010/2580/rule/45) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(8)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/8)
 
-[^key-5df5a5ffe725cf9feac085ae4c338602]: Commencement: Rule 46 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-5df5a5ffe725cf9feac085ae4c338602]: Commencement: Rule 46 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-7a764368be6462ff69eb9fba607d7726]: Textual amendment: Words in [rule 46](https://www.legislation.gov.uk/uksi/2010/2580/rule/46) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(9)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/9)
+[^c-7a764368be6462ff69eb9fba607d7726]: Textual amendment: Words in [rule 46](https://www.legislation.gov.uk/uksi/2010/2580/rule/46) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(9)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/9)
 
-[^key-3321bc64b96c2842309c5be8e5b42bf6]: Commencement: Rule 47 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-3321bc64b96c2842309c5be8e5b42bf6]: Commencement: Rule 47 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-f642f4a7e1fe561a1cda56daf8f73996]: Commencement: Rule 48 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-f642f4a7e1fe561a1cda56daf8f73996]: Commencement: Rule 48 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-5330339fe625d906c7dcebc3a72ba169]: Commencement: Rule 49 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-5330339fe625d906c7dcebc3a72ba169]: Commencement: Rule 49 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-8efd327586bd458d75dc9b58b59b5978]: Textual amendment: Words in [rule 49(1)(a)](https://www.legislation.gov.uk/uksi/2010/2580/rule/49/1/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(10)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/10/a)
+[^c-8efd327586bd458d75dc9b58b59b5978]: Textual amendment: Words in [rule 49(1)(a)](https://www.legislation.gov.uk/uksi/2010/2580/rule/49/1/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(10)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/10/a)
 
-[^key-c4025f59eeb52a21aaadd143dd1ebec9]: Textual amendment: Words in [rule 49(6)](https://www.legislation.gov.uk/uksi/2010/2580/rule/49/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(10)(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/10/b/i)
+[^c-c4025f59eeb52a21aaadd143dd1ebec9]: Textual amendment: Words in [rule 49(6)](https://www.legislation.gov.uk/uksi/2010/2580/rule/49/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(10)(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/10/b/i)
 
-[^key-d43309cf73cc74c963ef17b695731f5b]: Textual amendment: Words in [rule 49(6)](https://www.legislation.gov.uk/uksi/2010/2580/rule/49/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/10/b/ii)
+[^c-d43309cf73cc74c963ef17b695731f5b]: Textual amendment: Words in [rule 49(6)](https://www.legislation.gov.uk/uksi/2010/2580/rule/49/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/10/b/ii)
 
-[^key-c1ba45547e1f15eca1336bfe1d9ea4d5]: Commencement: Rule 50 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-c1ba45547e1f15eca1336bfe1d9ea4d5]: Commencement: Rule 50 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
 [^f00019]: Footnote: Paragraph 32A of [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805), inserted by [S.I. 2010/1189](https://www.legislation.gov.uk/uksi/2010/1189), modifies the application of section 153 of the Banking Act 2009.
 
 [^f00020]: Footnote: [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805), as amended by [S.I. 2010/1189](https://www.legislation.gov.uk/uksi/2010/1189), modifies the application of paragraph 79 of Schedule B1.
 
-[^key-42512d181ffda32769007892992fac42]: Textual amendment: Words in [rule 50](https://www.legislation.gov.uk/uksi/2010/2580/rule/50) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(11)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/11)
+[^c-42512d181ffda32769007892992fac42]: Textual amendment: Words in [rule 50](https://www.legislation.gov.uk/uksi/2010/2580/rule/50) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(11)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/11)
 
-[^key-de7b3b9d59271901015c22112c6ffbc6]: Commencement: Rule 51 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-de7b3b9d59271901015c22112c6ffbc6]: Commencement: Rule 51 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-ece18d6e70f7562e1c505b8a76373d84]: Textual amendment: Words in [rule 51](https://www.legislation.gov.uk/uksi/2010/2580/rule/51) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(12)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/12)
+[^c-ece18d6e70f7562e1c505b8a76373d84]: Textual amendment: Words in [rule 51](https://www.legislation.gov.uk/uksi/2010/2580/rule/51) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(12)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/12)
 
-[^key-38af03a8a40604f16230e5e75264e560]: Commencement: Rule 52 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-38af03a8a40604f16230e5e75264e560]: Commencement: Rule 52 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-b727ead61894e90f4d8e45716451c743]: Commencement: Rule 53 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-b727ead61894e90f4d8e45716451c743]: Commencement: Rule 53 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-7acd8af29e44511f5b33fd8894dea098]: Commencement: Rule 54 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-7acd8af29e44511f5b33fd8894dea098]: Commencement: Rule 54 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-6b9e79ff23ec76f022b21f7b0a8603a8]: Textual amendment: Words in [rule 54](https://www.legislation.gov.uk/uksi/2010/2580/rule/54) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(13)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/13)
+[^c-6b9e79ff23ec76f022b21f7b0a8603a8]: Textual amendment: Words in [rule 54](https://www.legislation.gov.uk/uksi/2010/2580/rule/54) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(13)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/13)
 
-[^key-d42ffe7057ab8f5662389bebda14afbe]: Commencement: Rule 55 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-d42ffe7057ab8f5662389bebda14afbe]: Commencement: Rule 55 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-d218374e97867b00c73703a5488a4eba]: Commencement: Rule 56 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-d218374e97867b00c73703a5488a4eba]: Commencement: Rule 56 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-55f13a0c795bf411a8c86f8f9e654013]: Commencement: Rule 57 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-55f13a0c795bf411a8c86f8f9e654013]: Commencement: Rule 57 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-1283ae703b9270604f49442f41d808eb]: Commencement: Rule 58 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-1283ae703b9270604f49442f41d808eb]: Commencement: Rule 58 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-76e6c6502c5e820e54f77d8c75d8abde]: Commencement: Rule 59 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-76e6c6502c5e820e54f77d8c75d8abde]: Commencement: Rule 59 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-a2bfbb1f469c6ab029203de9aca4c29c]: Commencement: Rule 60 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-a2bfbb1f469c6ab029203de9aca4c29c]: Commencement: Rule 60 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-059106a9a67a4b11e683f124a160a6a4]: Commencement: Rule 61 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-059106a9a67a4b11e683f124a160a6a4]: Commencement: Rule 61 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-a0d0f910c7c767f44a3cb89f1b2da2cc]: Commencement: Rule 62 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-a0d0f910c7c767f44a3cb89f1b2da2cc]: Commencement: Rule 62 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-5870a1a79257771456c2f816e2894e58]: Textual amendment: Word in [rule 62(p)](https://www.legislation.gov.uk/uksi/2010/2580/rule/62/p) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(14)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/14)
+[^c-5870a1a79257771456c2f816e2894e58]: Textual amendment: Word in [rule 62(p)](https://www.legislation.gov.uk/uksi/2010/2580/rule/62/p) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(14)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/14)
 
-[^key-65ead8341ef029f2f17dd2c674f94623]: Commencement: Rule 63 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
+[^c-65ead8341ef029f2f17dd2c674f94623]: Commencement: Rule 63 in force at 15.11.2010, see [rule 2](https://www.legislation.gov.uk/uksi/2010/2580/rule/2)
 
-[^key-a586870973427c7ad201f05ad6b25c15]: Textual amendment: Words in [rule 63](https://www.legislation.gov.uk/uksi/2010/2580/rule/63) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(15)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/15/b)
+[^c-a586870973427c7ad201f05ad6b25c15]: Textual amendment: Words in [rule 63](https://www.legislation.gov.uk/uksi/2010/2580/rule/63) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(15)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/15/b)
 
 [^f00021]: Footnote: [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805) modifies the application of paragraph 65 of Schedule B1.
 
-[^key-024b85814a89e45791a02b5f3ef415fb]: Textual amendment: Word in [rule 63](https://www.legislation.gov.uk/uksi/2010/2580/rule/63) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(15)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/15/a)
+[^c-024b85814a89e45791a02b5f3ef415fb]: Textual amendment: Word in [rule 63](https://www.legislation.gov.uk/uksi/2010/2580/rule/63) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 190(15)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/190/15/a)

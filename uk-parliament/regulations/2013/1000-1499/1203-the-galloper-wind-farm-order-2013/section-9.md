@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Abatement of works abandoned or decayed[^key-76ad3fda40dd9793d8f528b57191c7e5]
+## 9. Abatement of works abandoned or decayed[^c-76ad3fda40dd9793d8f528b57191c7e5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where Work No. 1 or any part of it, is abandoned or allowed to fall into decay t
 
 ## Annotations
 
-[^key-76ad3fda40dd9793d8f528b57191c7e5]: Commencement: Art. 9 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
+[^c-76ad3fda40dd9793d8f528b57191c7e5]: Commencement: Art. 9 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)

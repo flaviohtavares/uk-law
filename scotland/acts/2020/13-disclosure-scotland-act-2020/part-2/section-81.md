@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Removal of references by court[^key-3dc30ec47f7123c30ddd45930847fb35]
+## 81. Removal of references by court[^c-3dc30ec47f7123c30ddd45930847fb35]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dc30ec47f7123c30ddd45930847fb35]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2020/13/section/81) in force at 12.1.2026 by [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/352/regulation/3))
+[^c-3dc30ec47f7123c30ddd45930847fb35]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2020/13/section/81) in force at 12.1.2026 by [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/352/regulation/3))

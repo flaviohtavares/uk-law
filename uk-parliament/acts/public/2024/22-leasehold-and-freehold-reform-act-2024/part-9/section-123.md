@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Extent[^key-836d9c51ef19eb97cb8437b99a213b04]
+## 123. Extent[^c-836d9c51ef19eb97cb8437b99a213b04]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-836d9c51ef19eb97cb8437b99a213b04]: Commencement: S. 123 in force at Royal Assent, see [s. 124(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/1)
+[^c-836d9c51ef19eb97cb8437b99a213b04]: Commencement: S. 123 in force at Royal Assent, see [s. 124(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/1)

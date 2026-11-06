@@ -31,7 +31,7 @@ summary: ''
 
 (3) The provisions of this Act referred to in subsection (2) are—
 
-- (a)[^key-56767b88cfbe89ca200e3547c53a2405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-56767b88cfbe89ca200e3547c53a2405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) Part 2 (establishment, alteration or discontinuance of schools in England);
 - (c) section 39 (general restriction on selection by ability);
 - (d) Part 4 (schools causing concern: England);
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56767b88cfbe89ca200e3547c53a2405]: Textual amendment: [S. 187(3)(a)](https://www.legislation.gov.uk/ukpga/2006/40/section/187/3/a) omitted (15.11.2011) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/33/2), [82(1)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/1/a)
+[^c-56767b88cfbe89ca200e3547c53a2405]: Textual amendment: [S. 187(3)(a)](https://www.legislation.gov.uk/ukpga/2006/40/section/187/3/a) omitted (15.11.2011) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/33/2), [82(1)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/1/a)

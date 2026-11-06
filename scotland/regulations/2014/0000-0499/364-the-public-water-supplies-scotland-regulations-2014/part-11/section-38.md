@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the Drinking Water Quality Regulator for Scotland;
 - (b) each health board for the area in which the event occurs;
-- (c) Public Health Scotland[^key-0ce7c9644594702b6452a085b8c64256] ;
+- (c) Public Health Scotland[^c-0ce7c9644594702b6452a085b8c64256] ;
 - (d) each local authority for the area in which the event occurs; and
 - (e) the Scottish Ministers.
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ce7c9644594702b6452a085b8c64256]: Textual amendment: Words in [reg. 38(1)(c)](https://www.legislation.gov.uk/ssi/2014/364/regulation/38/1/c) substituted (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 12(2)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/12/2) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-0ce7c9644594702b6452a085b8c64256]: Textual amendment: Words in [reg. 38(1)(c)](https://www.legislation.gov.uk/ssi/2014/364/regulation/38/1/c) substituted (1.4.2020) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(3)(b)](https://www.legislation.gov.uk/ssi/2019/336/article/1/3/b), [sch. 2 para. 12(2)](https://www.legislation.gov.uk/ssi/2019/336/schedule/2/paragraph/12/2) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Increase in maximum fines for certain summary offences under the 1991 Act[^key-9be99d5bb8d9d86986ca631d1bbb6d9c][^key-78258437532697705c26c1545af55638]
+## SCHEDULE 1 — Increase in maximum fines for certain summary offences under the 1991 Act[^c-9be99d5bb8d9d86986ca631d1bbb6d9c][^c-78258437532697705c26c1545af55638]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ Section 40
 
 ## Annotations
 
-[^key-9be99d5bb8d9d86986ca631d1bbb6d9c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2004/18/schedule/1) in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/d/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2380/article/3))
+[^c-9be99d5bb8d9d86986ca631d1bbb6d9c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2004/18/schedule/1) in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/d/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2380/article/3))
 
-[^key-78258437532697705c26c1545af55638]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2004/18/schedule/1) in force at 26.11.2007 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule) (with [art. 4](https://www.legislation.gov.uk/wsi/2007/3174/article/4))
+[^c-78258437532697705c26c1545af55638]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2004/18/schedule/1) in force at 26.11.2007 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule) (with [art. 4](https://www.legislation.gov.uk/wsi/2007/3174/article/4))

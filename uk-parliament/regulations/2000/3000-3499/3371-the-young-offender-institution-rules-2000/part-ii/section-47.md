@@ -22,12 +22,12 @@ summary: ''
 
 (1) A personal record of each inmate shall be prepared and maintained in such manner as the Secretary of State may direct, but no part of the record shall be disclosed to any person not authorised to receive it.
 
-(2) Every inmate may be photographed on reception and subsequently, but no copy of the photograph or any other personal record[^key-765de22b3fec16e2caa45b72ed3611d1] shall be given to any person not authorised to receive it.
+(2) Every inmate may be photographed on reception and subsequently, but no copy of the photograph or any other personal record[^c-765de22b3fec16e2caa45b72ed3611d1] shall be given to any person not authorised to receive it.
 
-(2A)[^key-73c71f10a707abfab6ba2470d8d015ac] In this rule “personal record” may include personal information and biometric records (such as fingerprints or other physical measurements).
+(2A)[^c-73c71f10a707abfab6ba2470d8d015ac] In this rule “personal record” may include personal information and biometric records (such as fingerprints or other physical measurements).
 
 ## Annotations
 
-[^key-765de22b3fec16e2caa45b72ed3611d1]: Textual amendment: Words in [rule 47(2)](https://www.legislation.gov.uk/uksi/2000/3371/rule/47/2) inserted (18.4.2005) by [The Young Offender Institution (Amendment) Rules 2005 (S.I. 2005/897)](https://www.legislation.gov.uk/uksi/2005/897), [rule 1(1)](https://www.legislation.gov.uk/uksi/2005/897/rule/1/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2005/897/schedule/paragraph/2/a)
+[^c-765de22b3fec16e2caa45b72ed3611d1]: Textual amendment: Words in [rule 47(2)](https://www.legislation.gov.uk/uksi/2000/3371/rule/47/2) inserted (18.4.2005) by [The Young Offender Institution (Amendment) Rules 2005 (S.I. 2005/897)](https://www.legislation.gov.uk/uksi/2005/897), [rule 1(1)](https://www.legislation.gov.uk/uksi/2005/897/rule/1/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2005/897/schedule/paragraph/2/a)
 
-[^key-73c71f10a707abfab6ba2470d8d015ac]: Textual amendment: [Rule 47(2A)](https://www.legislation.gov.uk/uksi/2000/3371/rule/47/2A) inserted (18.4.2005) by [The Young Offender Institution (Amendment) Rules 2005 (S.I. 2005/897)](https://www.legislation.gov.uk/uksi/2005/897), [rule 1(1)](https://www.legislation.gov.uk/uksi/2005/897/rule/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2005/897/schedule/paragraph/2/b)
+[^c-73c71f10a707abfab6ba2470d8d015ac]: Textual amendment: [Rule 47(2A)](https://www.legislation.gov.uk/uksi/2000/3371/rule/47/2A) inserted (18.4.2005) by [The Young Offender Institution (Amendment) Rules 2005 (S.I. 2005/897)](https://www.legislation.gov.uk/uksi/2005/897), [rule 1(1)](https://www.legislation.gov.uk/uksi/2005/897/rule/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2005/897/schedule/paragraph/2/b)

@@ -29,7 +29,7 @@ summary: ''
 - (a) section 10 of the 1993 Act (earner's guaranteed minimum); or
 - (b) section 13 [^c22512481]of that Act (minimum pension for surviving spouses and civil partners).
 
-(3A)[^key-9aaf76905a3dc562d4a06e3b3ce4fd59] The pension supervising authority may to the extent that in its discretion it thinks fit restore to the member or apply for the benefit of an eligible child or surviving adult of the member any amount of pension that has been forfeited under this regulation.
+(3A)[^c-9aaf76905a3dc562d4a06e3b3ce4fd59] The pension supervising authority may to the extent that in its discretion it thinks fit restore to the member or apply for the benefit of an eligible child or surviving adult of the member any amount of pension that has been forfeited under this regulation.
 
 (4) In this regulation—
 
@@ -37,7 +37,7 @@ summary: ''
   - (a) has been gravely injurious to the interests of the State; or
   - (b) is liable to lead to serious loss of confidence in the public service; and
 - “**relevant offence**” means—
-  - (a) [^M_F_c4867baf-9c6e-4fb3-fba9-cc52d824cda5]one or more offences under the Official Secrets Acts 1911 to 1989 [^c22512491] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-349a89a5945fffe46104d60ab8835c4c] for which the member has been sentenced on the same occasion to—
+  - (a) [^M_F_c4867baf-9c6e-4fb3-fba9-cc52d824cda5]one or more offences under the Official Secrets Acts 1911 to 1989 [^c22512491] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^c-349a89a5945fffe46104d60ab8835c4c] for which the member has been sentenced on the same occasion to—
     - (i) a term of imprisonment of at least 10 years; or
     - (ii) 2 or more consecutive terms of imprisonment which add up to at least 10 years;
   - (b) [^M_F_c4867baf-9c6e-4fb3-fba9-cc52d824cda5]an offence committed in connection with service as a member of the police service and in respect of which the Department has issued a forfeiture certificate.
@@ -48,10 +48,10 @@ summary: ''
 
     2008 (c.1.(N.I.))
 
-[^key-9aaf76905a3dc562d4a06e3b3ce4fd59]: Textual amendment: [Reg. 209(3A)](https://www.legislation.gov.uk/nisr/2015/113/regulation/209/3A) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [39(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/39/2)
+[^c-9aaf76905a3dc562d4a06e3b3ce4fd59]: Textual amendment: [Reg. 209(3A)](https://www.legislation.gov.uk/nisr/2015/113/regulation/209/3A) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [39(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/39/2)
 
 [^M_F_c4867baf-9c6e-4fb3-fba9-cc52d824cda5]: Textual amendment: Words in [reg. 209(4)](https://www.legislation.gov.uk/nisr/2015/113/regulation/209/4) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [39(3)](https://www.legislation.gov.uk/nisr/2024/38/regulation/39/3)
 
 [^c22512491]: Marginal citation: [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6); see [section 16(2)](https://www.legislation.gov.uk/ukpga/1989/6/section/16/2) for the meaning of “Official Secrets Acts 1911 to 1989”.
 
-[^key-349a89a5945fffe46104d60ab8835c4c]: Textual amendment: Words in [reg. 209(4)](https://www.legislation.gov.uk/nisr/2015/113/regulation/209/4) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 51(2)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/51/2)
+[^c-349a89a5945fffe46104d60ab8835c4c]: Textual amendment: Words in [reg. 209(4)](https://www.legislation.gov.uk/nisr/2015/113/regulation/209/4) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 51(2)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/51/2)

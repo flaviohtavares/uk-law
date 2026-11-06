@@ -127,7 +127,7 @@ Section 40.
 
 **35.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c810098]
 
-**36.**[^key-ead42f67910a2f1ef5673a8000ede926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-ead42f67910a2f1ef5673a8000ede926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Licensing (Scotland) Act 1976 (c. 66)
 
@@ -229,7 +229,7 @@ Section 40.
 
 [^c810098]: Textual amendment: [Ss. 2–4](https://www.legislation.gov.uk/ukpga/1981/23/section/2), [9](https://www.legislation.gov.uk/ukpga/1981/23/section/9), [14](https://www.legislation.gov.uk/ukpga/1981/23/section/14), [15](https://www.legislation.gov.uk/ukpga/1981/23/section/15), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1981/23/schedule/3/paragraph/1), [11](https://www.legislation.gov.uk/ukpga/1981/23/schedule/3/paragraph/11), [25](https://www.legislation.gov.uk/ukpga/1981/23/schedule/3/paragraph/25), [27](https://www.legislation.gov.uk/ukpga/1981/23/schedule/3/paragraph/27), [35](https://www.legislation.gov.uk/ukpga/1981/23/schedule/3/paragraph/35) repealed by [Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1987/47), [s. 34](https://www.legislation.gov.uk/ukpga/1987/47/section/34), [Sch. 6](https://www.legislation.gov.uk/ukpga/1987/47/schedule/6)
 
-[^key-ead42f67910a2f1ef5673a8000ede926]: Textual amendment: [Sch. 3 para. 36](https://www.legislation.gov.uk/ukpga/1981/23/schedule/3/paragraph/36) repealed (1.4.2016) by [Local Government etc. (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), [ss. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [184(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/184/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.S.I. 2016/31](https://www.legislation.gov.uk/ssi/2016/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/31/article/2/b)
+[^c-ead42f67910a2f1ef5673a8000ede926]: Textual amendment: [Sch. 3 para. 36](https://www.legislation.gov.uk/ukpga/1981/23/schedule/3/paragraph/36) repealed (1.4.2016) by [Local Government etc. (Scotland) Act 1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), [ss. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [184(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/184/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.S.I. 2016/31](https://www.legislation.gov.uk/ssi/2016/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/31/article/2/b)
 
 [^c810104]: Modification: The text of ss. 1, 5–8, 11, 12, 16, 24–28, 33, 36, 37(1)(2)(3)(4), 38(1), 40, 41, Sch. 1 (*a*)(*b*)(*c*)(i)(ii)(iii)(*d*)(i)(ii)(*e*), Sch. 2 paras. 1–10, 12–14, 16–25, 27–34, 37–42, Sch. 3 paras. 2–7, 12–20, 22–24, 26, 28, 32, 33, 34, 36, 37, 38, 39 and Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 

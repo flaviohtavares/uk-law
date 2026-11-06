@@ -35,68 +35,68 @@ supplementing Regulation (EU) 2017/2402 of the European Parliament and of the Co
 
 (Text with EEA relevance) (revoked)
 
-[^key-c065389b1d4546f63130e4f61091710b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c065389b1d4546f63130e4f61091710b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Information to be included in the STS notification[^key-c065389b1d4546f63130e4f61091710b]
+## Article 1. Information to be included in the STS notification[^c-c065389b1d4546f63130e4f61091710b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Additional Information[^key-c065389b1d4546f63130e4f61091710b]
+## Article 2. Additional Information[^c-c065389b1d4546f63130e4f61091710b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-c065389b1d4546f63130e4f61091710b]
+## Article 3. Entry into force[^c-c065389b1d4546f63130e4f61091710b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c065389b1d4546f63130e4f61091710b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c065389b1d4546f63130e4f61091710b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-c065389b1d4546f63130e4f61091710b]
+## ANNEX I[^c-c065389b1d4546f63130e4f61091710b]
 
-[^key-c065389b1d4546f63130e4f61091710b]
+[^c-c065389b1d4546f63130e4f61091710b]
 
 Information to be submitted to ESMA pursuant to Articles 19 to 22 of Regulation (EU) 2017/2402 regarding non-ABCP securitisations
 
-[^key-c065389b1d4546f63130e4f61091710b]**General information**
+[^c-c065389b1d4546f63130e4f61091710b]**General information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c065389b1d4546f63130e4f61091710b]**Specific information**
+[^c-c065389b1d4546f63130e4f61091710b]**Specific information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-c065389b1d4546f63130e4f61091710b]
+## ANNEX II[^c-c065389b1d4546f63130e4f61091710b]
 
-[^key-c065389b1d4546f63130e4f61091710b]
+[^c-c065389b1d4546f63130e4f61091710b]
 
 Information to be submitted to ESMA pursuant to Article 24 of Regulation (EU) 2017/2402 regarding ABCP securitisations
 
-[^key-c065389b1d4546f63130e4f61091710b]**General information**
+[^c-c065389b1d4546f63130e4f61091710b]**General information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c065389b1d4546f63130e4f61091710b]**Specific information**
+[^c-c065389b1d4546f63130e4f61091710b]**Specific information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-c065389b1d4546f63130e4f61091710b]
+## ANNEX III[^c-c065389b1d4546f63130e4f61091710b]
 
-[^key-c065389b1d4546f63130e4f61091710b]
+[^c-c065389b1d4546f63130e4f61091710b]
 
 Information to be provided ESMA pursuant to Articles 25 and 26 of the Regulation (EU) 2017/2402 regarding ABCP programmes
 
-[^key-c065389b1d4546f63130e4f61091710b]**General information**
+[^c-c065389b1d4546f63130e4f61091710b]**General information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c065389b1d4546f63130e4f61091710b]**Specific information**
+[^c-c065389b1d4546f63130e4f61091710b]**Specific information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c065389b1d4546f63130e4f61091710b]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(vi)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/vi)
+[^c-c065389b1d4546f63130e4f61091710b]: Textual amendment: Regulation revoked (1.11.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(d)(vi)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/d/vi)

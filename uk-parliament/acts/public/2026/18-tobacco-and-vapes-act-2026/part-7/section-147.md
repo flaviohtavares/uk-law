@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Amendments consequential on sections 142 to 146[^key-28e8aab5d0b3947a65f874c6fb2a53f5]
+## 147. Amendments consequential on sections 142 to 146[^c-28e8aab5d0b3947a65f874c6fb2a53f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 17 contains amendments consequential on sections 142 to 146.
 
 ## Annotations
 
-[^key-28e8aab5d0b3947a65f874c6fb2a53f5]: Commencement: S. 147 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)
+[^c-28e8aab5d0b3947a65f874c6fb2a53f5]: Commencement: S. 147 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)

@@ -45,13 +45,13 @@ In accordance with Article 350N(1) of the Insolvency (Northern Ireland) Order 19
 
 In accordance with Article 350N(3) of the Insolvency (Northern Ireland) Order 1989 the Department published a notice specifying that the Order is to take effect from 5th November 2025 and the reasons for making the Order.
 
-## 1. Citation and commencement and effect[^key-7ecee27948b3621085604030c04f70ab]
+## 1. Citation and commencement and effect[^c-7ecee27948b3621085604030c04f70ab]
 
 (1) This Order may be cited as the Insolvency Practitioners (Recognised Professional Bodies) (Revocation of Recognition) (No. 2) Order (Northern Ireland) 2025 and comes into operation on 5th November 2025.
 
 (2) This Order has effect from 5th November 2025
 
-## 2. Amendment of the Insolvency Practitioners (Recognised Professional Bodies) Order (Northern Ireland) 1991[^key-0fb8f1dda3f1e81ebbb8643f1495c9a6]
+## 2. Amendment of the Insolvency Practitioners (Recognised Professional Bodies) Order (Northern Ireland) 1991[^c-0fb8f1dda3f1e81ebbb8643f1495c9a6]
 
 In the Schedule to the Insolvency Practitioners (Recognised Professional Bodies) Order (Northern Ireland) 1991, omit “The Law Society of Northern Ireland”.
 
@@ -81,6 +81,6 @@ A regulatory impact assessment has not been produced for this instrument as it d
 
 [^f00003]: Footnote: [S.R. 1991 No. 301](https://www.legislation.gov.uk/nisr/1991/301) is treated as made under Article 350(1) and (5) of the Insolvency (Northern Ireland) Order 1989 as substituted by section 14(4) of the Insolvency (Amendment) Act (Northern Ireland) 2016; as amended by [SR 2017/ No.4](https://www.legislation.gov.uk/nisr/2017/4); [SR 2021 No.304](https://www.legislation.gov.uk/nisr/2021/304) (revoked); [SR 2022 No. 2](https://www.legislation.gov.uk/nisr/2022/2); [SR 2022 No.34](https://www.legislation.gov.uk/nisr/2022/34) and [S.R.2025 No. 19](https://www.legislation.gov.uk/nisr/2025/19).
 
-[^key-7ecee27948b3621085604030c04f70ab]: Commencement: Art. 1 in operation at 5.11.2025 with effect in accordance with art. 1(2)
+[^c-7ecee27948b3621085604030c04f70ab]: Commencement: Art. 1 in operation at 5.11.2025 with effect in accordance with art. 1(2)
 
-[^key-0fb8f1dda3f1e81ebbb8643f1495c9a6]: Commencement: Art. 2 in operation at 5.11.2025 with effect in accordance with art. 1(2)
+[^c-0fb8f1dda3f1e81ebbb8643f1495c9a6]: Commencement: Art. 2 in operation at 5.11.2025 with effect in accordance with art. 1(2)

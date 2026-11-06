@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Certification of plans, etc.[^key-5999eb9e20cd5fecfdb34c7c730abed1]
+## 69. Certification of plans, etc.[^c-5999eb9e20cd5fecfdb34c7c730abed1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Company shall, as soon as practicable after the making of this Order, submit
 
 ## Annotations
 
-[^key-5999eb9e20cd5fecfdb34c7c730abed1]: Commencement: Art. 69 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-5999eb9e20cd5fecfdb34c7c730abed1]: Commencement: Art. 69 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

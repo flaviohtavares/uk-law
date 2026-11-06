@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Annual rate of surviving adult’s pensions payable on death of pensioner member[^key-55c59b2c9ce4c607755f073c99912f6c]
+## 108. Annual rate of surviving adult’s pensions payable on death of pensioner member[^c-55c59b2c9ce4c607755f073c99912f6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55c59b2c9ce4c607755f073c99912f6c]: Commencement: [Reg. 108](https://www.legislation.gov.uk/uksi/2014/1964/regulation/108) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-55c59b2c9ce4c607755f073c99912f6c]: Commencement: [Reg. 108](https://www.legislation.gov.uk/uksi/2014/1964/regulation/108) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00064]: Footnote: An active member’s account is closed under regulation 45 when a full retirement pension becomes payable.

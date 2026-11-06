@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 286ZA. The risk-to-capital requirement[^key-735bc388c809c8bcd70d283864beec14]
+## 286ZA. The risk-to-capital requirement[^c-735bc388c809c8bcd70d283864beec14]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-735bc388c809c8bcd70d283864beec14]: Textual amendment: [S. 286ZA](https://www.legislation.gov.uk/ukpga/2007/3/section/286ZA) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/14/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/14/4); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/2/b)
+[^c-735bc388c809c8bcd70d283864beec14]: Textual amendment: [S. 286ZA](https://www.legislation.gov.uk/ukpga/2007/3/section/286ZA) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/14/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/14/4); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/2/b)

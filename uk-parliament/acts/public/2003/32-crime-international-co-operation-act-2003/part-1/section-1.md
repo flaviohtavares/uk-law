@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Service of overseas process[^key-da21047cc7624006ddd775054b8f2bc7]
+## 1. Service of overseas process[^c-da21047cc7624006ddd775054b8f2bc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da21047cc7624006ddd775054b8f2bc7]: Commencement: S. 1 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-da21047cc7624006ddd775054b8f2bc7]: Commencement: S. 1 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

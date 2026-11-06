@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Unlicensed HMOs and houses: offences[^key-f62f211256948b2dc65e5a1233232664][^key-37fef4aca9ba7bd29da9d874bc27edbf]
+## 105. Unlicensed HMOs and houses: offences[^c-f62f211256948b2dc65e5a1233232664][^c-37fef4aca9ba7bd29da9d874bc27edbf]
 
 *Extent: E+W*
 
@@ -94,6 +94,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f62f211256948b2dc65e5a1233232664]: Commencement: S. 105 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-f62f211256948b2dc65e5a1233232664]: Commencement: S. 105 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-37fef4aca9ba7bd29da9d874bc27edbf]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2025/26/section/105) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/l)
+[^c-37fef4aca9ba7bd29da9d874bc27edbf]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2025/26/section/105) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/l)

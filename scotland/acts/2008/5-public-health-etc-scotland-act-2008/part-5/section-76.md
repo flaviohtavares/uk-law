@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Power of local authority to disinfect etc. premises or things[^key-b23437dafe2fda60370106c823888a4f]
+## 76. Power of local authority to disinfect etc. premises or things[^c-b23437dafe2fda60370106c823888a4f]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ the authority must serve a copy of the notice on the owner.
 
 ## Annotations
 
-[^key-b23437dafe2fda60370106c823888a4f]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2008/5/section/76) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-b23437dafe2fda60370106c823888a4f]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2008/5/section/76) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

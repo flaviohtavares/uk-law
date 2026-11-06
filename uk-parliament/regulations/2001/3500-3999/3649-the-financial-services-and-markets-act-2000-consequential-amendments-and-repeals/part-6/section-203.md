@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Miscellaneous amendments[^key-cab7c31c77267cecbdcfa8e401220ece]
+## 203. Miscellaneous amendments[^c-cab7c31c77267cecbdcfa8e401220ece]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cab7c31c77267cecbdcfa8e401220ece]: Commencement: Art. 203 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cab7c31c77267cecbdcfa8e401220ece]: Commencement: Art. 203 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

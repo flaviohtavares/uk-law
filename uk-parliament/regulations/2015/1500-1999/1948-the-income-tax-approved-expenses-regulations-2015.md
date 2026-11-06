@@ -44,9 +44,9 @@ Coming into force
 
 21st December 2015
 
-The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the power conferred by section 289A(6)(a) and (7) of the Income Tax (Earnings and Pensions) Act 2003[^f00001], make the following Regulations:[^key-9e2046583ce0d380341ec8aa45cd7d53]
+The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the power conferred by section 289A(6)(a) and (7) of the Income Tax (Earnings and Pensions) Act 2003[^f00001], make the following Regulations:[^c-9e2046583ce0d380341ec8aa45cd7d53]
 
-## 1. Citation, commencement, interpretation and effect[^key-4012a13f413d406c23b2b52736e6472c]
+## 1. Citation, commencement, interpretation and effect[^c-4012a13f413d406c23b2b52736e6472c]
 
 (1) These Regulations may be cited as the Income Tax (Approved Expenses) Regulations 2015 and come into force on 21st December 2015
 
@@ -54,7 +54,7 @@ The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the po
 
 (3) In these Regulations “qualifying travel” means travel for which a deduction from the employee’s earnings would be allowed under Chapter 2 or 5 of Part 5 of the Income Tax (Earnings and Pensions) Act 2003 (“ITEPA 2003”).
 
-## 2. Approved way of calculating and paying or reimbursing standard meal allowances[^key-352ba8d54ebece34f3c753a58f9a56fe]
+## 2. Approved way of calculating and paying or reimbursing standard meal allowances[^c-352ba8d54ebece34f3c753a58f9a56fe]
 
 (1) For the purposes of section 289A of ITEPA 2003, a sum is calculated and paid or reimbursed in an approved way if it is paid or reimbursed to an employee in respect of meals purchased by the employee in the course of qualifying travel (“a meal allowance”) and falls within paragraph (2) or (3).
 
@@ -66,7 +66,7 @@ The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the po
 
 (3) An additional meal allowance not exceeding £10 per day paid where a meal allowance in sub-paragraph (2)(a) or (b) is paid and the qualifying travel in respect of which that allowance is paid is ongoing at 8pm.
 
-## 3. Expenses in the course of overseas travel[^key-dfc2c067411f44a0e198db15d033085b]
+## 3. Expenses in the course of overseas travel[^c-dfc2c067411f44a0e198db15d033085b]
 
 For the purposes of section 289A(2A)(a) of ITEPA 2003, an amount is calculated and paid or reimbursed in accordance with these regulations if it is paid or reimbursed to an employee in respect of expenses in the course of qualifying travel outside the United Kingdom and does not exceed the relevant rate or rates for such expenses published from time to time by the Commissioners for Her Majesty’s Revenue and Customs.
 
@@ -92,10 +92,10 @@ Tax Information and Impact Notes covering this instrument were published on 10th
 
 [^f00001]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Section 289A was inserted by section 11 of the Finance Act [2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11).
 
-[^key-9e2046583ce0d380341ec8aa45cd7d53]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2015/1948) modified (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 10(10)](https://www.legislation.gov.uk/ukpga/2019/1/section/10/10)
+[^c-9e2046583ce0d380341ec8aa45cd7d53]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2015/1948) modified (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 10(10)](https://www.legislation.gov.uk/ukpga/2019/1/section/10/10)
 
-[^key-4012a13f413d406c23b2b52736e6472c]: Commencement: Reg. 1 in force at 21.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1948/regulation/1/1)
+[^c-4012a13f413d406c23b2b52736e6472c]: Commencement: Reg. 1 in force at 21.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1948/regulation/1/1)
 
-[^key-352ba8d54ebece34f3c753a58f9a56fe]: Commencement: Reg. 2 in force at 21.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1948/regulation/1/1)
+[^c-352ba8d54ebece34f3c753a58f9a56fe]: Commencement: Reg. 2 in force at 21.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1948/regulation/1/1)
 
-[^key-dfc2c067411f44a0e198db15d033085b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1948/regulation/3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Approved Expenses) (Amendment) Regulations 2019 (S.I. 2019/358)](https://www.legislation.gov.uk/uksi/2019/358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/358/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/358/regulation/2/2)
+[^c-dfc2c067411f44a0e198db15d033085b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1948/regulation/3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Approved Expenses) (Amendment) Regulations 2019 (S.I. 2019/358)](https://www.legislation.gov.uk/uksi/2019/358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/358/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/358/regulation/2/2)

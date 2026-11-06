@@ -31,7 +31,7 @@ summary: ''
 
 Landlord And Tenant, Wales
 
-The Business Tenancies (Extension of Protection from Forfeiture etc.) (Wales) (Coronavirus) Regulations 2021 (revoked)[^key-be8295c3c4e0f92478ab3f92b300d9db]
+The Business Tenancies (Extension of Protection from Forfeiture etc.) (Wales) (Coronavirus) Regulations 2021 (revoked)[^c-be8295c3c4e0f92478ab3f92b300d9db]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 31 March 2021
 
-[^key-be8295c3c4e0f92478ab3f92b300d9db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be8295c3c4e0f92478ab3f92b300d9db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-be8295c3c4e0f92478ab3f92b300d9db]
+## 1. Title and commencement[^c-be8295c3c4e0f92478ab3f92b300d9db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of relevant period providing protection from forfeiture etc.[^key-be8295c3c4e0f92478ab3f92b300d9db]
+## 2. Extension of relevant period providing protection from forfeiture etc.[^c-be8295c3c4e0f92478ab3f92b300d9db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-be8295c3c4e0f92478ab3f92b300d9db]
+## 3. Revocation[^c-be8295c3c4e0f92478ab3f92b300d9db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be8295c3c4e0f92478ab3f92b300d9db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be8295c3c4e0f92478ab3f92b300d9db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-be8295c3c4e0f92478ab3f92b300d9db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be8295c3c4e0f92478ab3f92b300d9db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be8295c3c4e0f92478ab3f92b300d9db]: Textual amendment: Regulations revoked (30.6.2021) by [The Business Tenancies (Extension of Protection from Forfeiture etc.) (Wales) (Coronavirus) (No. 2) Regulations 2021 (S.I. 2021/759)](https://www.legislation.gov.uk/uksi/2021/759), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/759/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/759/regulation/3)
+[^c-be8295c3c4e0f92478ab3f92b300d9db]: Textual amendment: Regulations revoked (30.6.2021) by [The Business Tenancies (Extension of Protection from Forfeiture etc.) (Wales) (Coronavirus) (No. 2) Regulations 2021 (S.I. 2021/759)](https://www.legislation.gov.uk/uksi/2021/759), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/759/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/759/regulation/3)

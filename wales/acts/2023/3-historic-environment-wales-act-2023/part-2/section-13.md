@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Authorisation of works by scheduled monument consent[^key-9b6dba774796607f996eb3e0a597dfd9][^key-033bd44c2353f56b8f9a577fefab2a7b]
+## 13. Authorisation of works by scheduled monument consent[^c-9b6dba774796607f996eb3e0a597dfd9][^c-033bd44c2353f56b8f9a577fefab2a7b]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ the works are authorised from the grant of the consent.
 
 ## Annotations
 
-[^key-9b6dba774796607f996eb3e0a597dfd9]: Commencement: S. 13 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-9b6dba774796607f996eb3e0a597dfd9]: Commencement: S. 13 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-033bd44c2353f56b8f9a577fefab2a7b]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2023/3/section/13) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-033bd44c2353f56b8f9a577fefab2a7b]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2023/3/section/13) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

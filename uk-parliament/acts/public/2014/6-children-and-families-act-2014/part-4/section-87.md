@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Discharge of authority's duty to secure free early years provision[^key-9af51d129cf2ed728a9d3607a5cda2d5]
+## 87. Discharge of authority's duty to secure free early years provision[^c-9af51d129cf2ed728a9d3607a5cda2d5]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9af51d129cf2ed728a9d3607a5cda2d5]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2014/6/section/87) in force at 13.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/889/article/5/d)
+[^c-9af51d129cf2ed728a9d3607a5cda2d5]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2014/6/section/87) in force at 13.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/889/article/5/d)

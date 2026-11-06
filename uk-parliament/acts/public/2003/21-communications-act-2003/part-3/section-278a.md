@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278A. Additional quotas for qualifying audiovisual content[^key-dc30f830051e9eeec81f4adae240da3a]
+## 278A. Additional quotas for qualifying audiovisual content[^c-dc30f830051e9eeec81f4adae240da3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc30f830051e9eeec81f4adae240da3a]: Textual amendment: [S. 278A](https://www.legislation.gov.uk/ukpga/2003/21/section/278A) inserted (1.1.2026) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 10](https://www.legislation.gov.uk/ukpga/2024/15/section/10), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/j)
+[^c-dc30f830051e9eeec81f4adae240da3a]: Textual amendment: [S. 278A](https://www.legislation.gov.uk/ukpga/2003/21/section/278A) inserted (1.1.2026) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 10](https://www.legislation.gov.uk/ukpga/2024/15/section/10), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/j)

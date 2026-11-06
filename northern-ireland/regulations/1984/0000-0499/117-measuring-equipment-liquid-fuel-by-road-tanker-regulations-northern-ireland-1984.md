@@ -43,7 +43,7 @@ The Department of Economic Development, in exercise of the powers conferred by A
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and revocation[^key-833dbca8e491484be3cfe2efdf0912cd]
+### 1. Citation, commencement and revocation[^c-833dbca8e491484be3cfe2efdf0912cd]
 
 (1) These Regulations may be cited as the Measuring Equipment (Liquid Fuel by Road Tanker) Regulations (Northern Ireland) 1984 and shall come into operation as follows—
 
@@ -53,7 +53,7 @@ The Department of Economic Development, in exercise of the powers conferred by A
 
 (2) The Measuring Equipment (Liquid Fuel by Road Tanker) Regulations (Northern Ireland) 1980[^f00003] and the Measuring Equipment (Liquid Fuel by Road Tanker) (Amendment) Regulations (Northern Ireland) 1983[^f00004] are hereby revoked.
 
-### 2. Interpretation[^key-eaa82ec45666a170853ad48f678d4734]
+### 2. Interpretation[^c-eaa82ec45666a170853ad48f678d4734]
 
 (1) In these Regulations—
 
@@ -96,7 +96,7 @@ The Department of Economic Development, in exercise of the powers conferred by A
 | square centimetre | cm<sup>2</sup> |
 | degree celsius | °C |
 
-### 3. Application[^key-b1611a68df9fb19f27e6f8f17d5319fa]
+### 3. Application[^c-b1611a68df9fb19f27e6f8f17d5319fa]
 
 (1) Subject to paragraph (2), these Regulations shall apply to all measuring equipment on road tankers for use for trade in the making of any measurement of liquid fuel in a quantity dispensed from the tanker exceeding 20 gallons if the equipment is constructed to measure in imperial units, or 100 litres if it is constructed in metric units.
 
@@ -105,17 +105,17 @@ The Department of Economic Development, in exercise of the powers conferred by A
 - (a) measuring equipment for use only for the delivery of liquefied gas, lubricating oils, or fuels dispensed at other than ambient temperature; or
 - (b) measuring equipment for use only for the fuelling of aircraft, ships or hovercraft.
 
-### 4. Prescription of equipment[^key-d1e9be351e92448c2450bee189fb9e4b]
+### 4. Prescription of equipment[^c-d1e9be351e92448c2450bee189fb9e4b]
 
 Measuring equipment to which these Regulations apply is hereby prescribed for the purposes of Article 9(1) of the Order.
 
-### 5. Use for trade of contents gauging system or meter measuring system[^key-4978bf535aa299d06c4005a403f07c8b]
+### 5. Use for trade of contents gauging system or meter measuring system[^c-4978bf535aa299d06c4005a403f07c8b]
 
 (1) Subject to paragraph (2), a contents gauging system or a meter measuring system shall be used for trade only for the purpose of measuring delivered quantities of liquid fuel of not less than the minimum delivery marked on or adjacent to the indicator of the system.
 
 (2) Paragraph (1) shall not apply where a measurement is made only for the purpose of payments in respect of any customs or excise duty.
 
-### 6. Use for trade of dipstick measuring system[^key-7f34942d78f3b6936e162bea7c678288]
+### 6. Use for trade of dipstick measuring system[^c-7f34942d78f3b6936e162bea7c678288]
 
 (1) Subject to paragraph (2), a dipstick measuring system shall be used for trade only for the purpose of measuring delivered quantities of liquid fuel of not less than 30% of the marked nominal capacity of the compartment with which the dipstick is associated.
 
@@ -123,40 +123,40 @@ Measuring equipment to which these Regulations apply is hereby prescribed for th
 
 ## PART II — PRINCIPLES OF CONSTRUCTION AND MARKING OF MEASURING EQUIPMENT
 
-### 7. Types of measuring equipment[^key-58d253daf2c342ac367ee47d544b03b9]
+### 7. Types of measuring equipment[^c-58d253daf2c342ac367ee47d544b03b9]
 
 Measuring equipment to which these Regulations apply shall consist of a contents gauging system, a dipstick measuring system or a meter measuring system.
 
-### 8. Provisions applicable to contents gauging systems[^key-e7e5c39ba7bebaf47f0343dc0335d586]
+### 8. Provisions applicable to contents gauging systems[^c-e7e5c39ba7bebaf47f0343dc0335d586]
 
 Regulations 9 to 12 shall apply to contents gauging systems.
 
-### 9. Approved patterns of construction and identification marks[^key-ce7f8f9831c75ea12b582840a3c3ae89]
+### 9. Approved patterns of construction and identification marks[^c-ce7f8f9831c75ea12b582840a3c3ae89]
 
 (1) Every contents gauging system shall be made in accordance with a pattern in respect of which a certificate of approval is in force.
 
 (2) Every contents gauging system shall be legibly and durably marked with the number of the certificate of approval, preceded by the words "Certification No.“or ”Cert. No.“or ”DED Certification No.“or ”DED Cert. No." as the case may be.
 
-### 10. Markings for minimum delivery and liquid fuel of use[^key-5b2e704b31b82bf399fbf544541e9d05]
+### 10. Markings for minimum delivery and liquid fuel of use[^c-5b2e704b31b82bf399fbf544541e9d05]
 
 The minimum delivery and the liquid fuel which a contents gauging system is designed to measure shall be marked legibly, permanently and conspicuously in a suitable position on or adjacent to the sales indicator.
 
-### 11. Sales indicators[^key-dc343b0049ddc639c2d7ed1772bca9cd]
+### 11. Sales indicators[^c-dc343b0049ddc639c2d7ed1772bca9cd]
 
 Every contents gauging system shall be fitted with a sales indicator reading in litres or gallons and so arranged that:
 
 - (a) the indicator reading is capable of being set to zero before a delivery commences; and
 - (b) the indicator reading cannot be advanced by any means other than by the discharge of liquid fuel from the system.
 
-### 12. Ticket printing mechanism[^key-ff6dcb643bb45c10ab714f3be44711bc]
+### 12. Ticket printing mechanism[^c-ff6dcb643bb45c10ab714f3be44711bc]
 
 Every contents gauging system shall incorporate a ticket printing mechanism to enable a ticket to be issued indicating the quantity of liquid fuel delivered in each transaction.
 
-### 13. Provisions applicable to meter measuring systems[^key-66ed380c2faa4df7062cdf54e7808b24]
+### 13. Provisions applicable to meter measuring systems[^c-66ed380c2faa4df7062cdf54e7808b24]
 
 Regulations 14 to 17 shall apply to meter measuring systems.
 
-### 14. Approved patterns of construction and identification marks[^key-a240373abf1ea3ba3977f8f706fad11d][^key-36b63b3780d519346d0c0e2d8f2ec400]
+### 14. Approved patterns of construction and identification marks[^c-a240373abf1ea3ba3977f8f706fad11d][^c-36b63b3780d519346d0c0e2d8f2ec400]
 
 (1) Every meter measuring system shall be made in accordance with a pattern in respect of which a certificate of approval is in force.
 
@@ -164,30 +164,30 @@ Regulations 14 to 17 shall apply to meter measuring systems.
 
 (3) Every meter measuring system made in accordance with a pattern as mentioned in paragraph (1) shall be legibly and durably marked with the number of the certificate of approval, preceded by the words "Certification No.“or ”Cert. No.“or ”DED Certification No.“or ”DED Cert. No." as the case may be.
 
-### 15. Markings for minimum delivery, liquid fuel of use and rate of flow[^key-14bd520e6e9a3317348735a74763beae]
+### 15. Markings for minimum delivery, liquid fuel of use and rate of flow[^c-14bd520e6e9a3317348735a74763beae]
 
 The minimum delivery, the liquid fuel which a meter measuring system is designed to measure and the minimum and maximum rates of flow shall be marked legibly, permanently and conspicuously in a suitable position on or adjacent to the meter.
 
-### 16. Sales indicators[^key-385ad67a3ffdde1aeccf554bdc411500]
+### 16. Sales indicators[^c-385ad67a3ffdde1aeccf554bdc411500]
 
 Every meter measuring system shall be fitted with a sales indicator reading in litres or gallons and so arranged that—
 
 - (a) the indicator reading is capable of being set to zero before a delivery commences; and
 - (b) the indicator reading cannot be advanced by any means other than by the discharge of liquid fuel from the system.
 
-### 17. Ticket printing mechanism[^key-d76072771dad54bdebcd83ba5574e958]
+### 17. Ticket printing mechanism[^c-d76072771dad54bdebcd83ba5574e958]
 
 Every meter measuring system shall incorporate a ticket printing mechanism to enable a ticket to be issued indicating either the quantity of liquid fuel delivered in each transaction or two numbers from which the quantity delivered may readily be calculated.
 
-### 18. Provisions applicable to dipstick measuring systems[^key-032a5c66090d137ee49c4d48b2c2b821]
+### 18. Provisions applicable to dipstick measuring systems[^c-032a5c66090d137ee49c4d48b2c2b821]
 
 Regulations 19 to 35 shall apply to dipstick measuring systems.
 
-### 19. Separate dipsticks[^key-abb972835819da91302aa53ec230102f]
+### 19. Separate dipsticks[^c-abb972835819da91302aa53ec230102f]
 
 Every dipstick shall relate to, and be used for measuring the quantity of liquid fuel in, one compartment only.
 
-### 20. Construction of dipsticks[^key-1435c23d19a0c4bce5a9d77d43640b35]
+### 20. Construction of dipsticks[^c-1435c23d19a0c4bce5a9d77d43640b35]
 
 (1) Every dipstick shall consist of a blade and a crosspiece.
 
@@ -207,15 +207,15 @@ Every dipstick shall relate to, and be used for measuring the quantity of liquid
 - (a) the blade shall only have to comply with either the requirements of paragraph (4) or those of paragraph (5);
 - (b) if the blade does not comply with the requirements of both paragraphs (4) and (5), the dipstick measuring system shall not be used for trade after 31st December 1993.
 
-### 21. Cross-sectional area of dipstick[^key-ba54330c2b7fd59b2f351fac3adef649]
+### 21. Cross-sectional area of dipstick[^c-ba54330c2b7fd59b2f351fac3adef649]
 
 The cross-sectional area of a dipstick shall not exceed 5 cm<sup>2</sup>.
 
-### 22. Blades not practicable to stamp[^key-da27ecf0bc97f84905d779ba00b22ba6]
+### 22. Blades not practicable to stamp[^c-da27ecf0bc97f84905d779ba00b22ba6]
 
 Every dipstick blade made from glass-reinforced plastic or other materials which it is not practicable to stamp shall have a metal rivet suitable for receiving the stamp rivetted into the blade adjacent to the line 50 mm below the datum face referred to in Regulation 27.
 
-### 23. Construction of crosspieces[^key-41d561fc504a2482fc359b91662e4275]
+### 23. Construction of crosspieces[^c-41d561fc504a2482fc359b91662e4275]
 
 (1) The crosspiece of every dipstick shall be made of metal or other suitable material and shall be positively located and securely fixed to the blade to withstand fair wear and tear in ordinary use for trade.
 
@@ -223,7 +223,7 @@ Every dipstick blade made from glass-reinforced plastic or other materials which
 
 (3) The datum face shall be flat and at right angles to the axis of the blade.
 
-### 24. Unit of measurement[^key-c77393364d4d388dec43eb16a84301be]
+### 24. Unit of measurement[^c-c77393364d4d388dec43eb16a84301be]
 
 (1) The unit of measurement to be used in marking a dipstick shall be either the litre or the gallon.
 
@@ -231,19 +231,19 @@ Every dipstick blade made from glass-reinforced plastic or other materials which
 
 (3) Where the unit of measurement is the litre, if the number of digits on any marking would exceed four (9999) the marking may read “litres x 10” or “litres x 100”.
 
-### 25. Marking of related compartment numbers[^key-1d5f486196bd83b4af9862be4d2d8dc9]
+### 25. Marking of related compartment numbers[^c-1d5f486196bd83b4af9862be4d2d8dc9]
 
 The related compartment number shall be marked on the graduated face of every dipstick at each end of the blade in figures not less than 10 mm high.
 
-### 26. Marking of related tank numbers[^key-b4679e2c4685db1411517354170dad27]
+### 26. Marking of related tank numbers[^c-b4679e2c4685db1411517354170dad27]
 
 The related tank number shall be marked at the crosspiece end of the blade of every dipstick in figures not less than 6 mm high.
 
-### 27. Line markings[^key-4ed40bbd9b2597b3b469625ecdc53844]
+### 27. Line markings[^c-4ed40bbd9b2597b3b469625ecdc53844]
 
 Every dipstick shall have a line marked on its graduated face, at right angles to the axis of its blade, 50 mm from the datum face measured to the further edge of that line.
 
-### 28. Graduation of dipsticks[^key-23892dcca073ffd28e43aef7b6adb7fe]
+### 28. Graduation of dipsticks[^c-23892dcca073ffd28e43aef7b6adb7fe]
 
 Every dipstick used to measure deliveries of less than a full compartment shall be marked and graduated in accordance with the following provisions of this Regulation:—
 
@@ -258,7 +258,7 @@ Every dipstick used to measure deliveries of less than a full compartment shall 
 - (i) major scale divisions shall be of equal value although for compartments the use of which commenced before 1st January 1981 one additional scale mark may be included to indicate the nominal capacity of the compartment; and
 - (j) the bottom two and top three major scale divisions may be subdivided with subdivisions of equal value.
 
-### 29. Dipstick guide tubes[^key-858b5e59ac8e9c363056ffcd6f9ecc81]
+### 29. Dipstick guide tubes[^c-858b5e59ac8e9c363056ffcd6f9ecc81]
 
 (1) Every compartment shall be fitted with a fixed vertical dipstick guide tube.
 
@@ -266,7 +266,7 @@ Every dipstick used to measure deliveries of less than a full compartment shall 
 
 (3) Paragraph (2) shall not apply in the case of compartments the use of which commenced before 1st July 1983 but if the tube is not so positioned, the dipstick measuring system shall not be used for trade after 31st December 1993.
 
-### 30. Dimensions of dipstick guide tubes[^key-bc1112984a05d60d617d3ba5c6ad65af]
+### 30. Dimensions of dipstick guide tubes[^c-bc1112984a05d60d617d3ba5c6ad65af]
 
 (1) In the case of compartments used for petroleum spirit the dipstick guide tube shall—
 
@@ -275,17 +275,17 @@ Every dipstick used to measure deliveries of less than a full compartment shall 
 
 (2) In the case of compartments used for liquid fuel other than petroleum spirit a dipstick guide tube shorter than the length of the dipstick may be used, but it shall be of such diameter and length that the dipstick is guided sufficiently near to the vertical plane so that any inaccuracy in the indication of quantity cannot exceed the prescribed limits of error.
 
-### 31. Datum surfaces[^key-5150a3b21564ac4ad5af5299a5886611]
+### 31. Datum surfaces[^c-5150a3b21564ac4ad5af5299a5886611]
 
 At the top of every dipstick guide tube there shall be provided a flat surface to create a datum surface, which shall consist of an annulus not less than 5 mm in width.
 
-### 32. Design of, and markings on, dipstick guide tubes[^key-dbc0ca0a40347a61baa0951f0e446a91]
+### 32. Design of, and markings on, dipstick guide tubes[^c-dbc0ca0a40347a61baa0951f0e446a91]
 
 (1) The design of every dipstick guide tube shall be such as to permit the height of the datum surface to be easily and accurately measured from the identified datum point.
 
 (2) The said height in mm, the tank number and the compartment number shall be marked legibly and permanently on the dipstick guide tube, adjacent to the datum surface.
 
-### 33. Markings and notices[^key-7863c838a6737615f41d13417f065790]
+### 33. Markings and notices[^c-7863c838a6737615f41d13417f065790]
 
 (1) Every compartment number shall be marked—
 
@@ -296,11 +296,11 @@ At the top of every dipstick guide tube there shall be provided a flat surface t
 
 (3) A legible, permanent and conspicuous notice shall be positioned on the same side of the tank as the outlet valves stating that dipsticks should be read at scale marks only.
 
-### 34. Separation of compartments[^key-265c34697f3f7881c251f2fcb5069b55]
+### 34. Separation of compartments[^c-265c34697f3f7881c251f2fcb5069b55]
 
 Where more than one compartment discharges through a common outlet manifold, means shall be provided to prevent liquid flowing from one compartment into another compartment.
 
-### 35. Construction of tanks and compartments[^key-f980c90005daef6e59168b124b6f9968]
+### 35. Construction of tanks and compartments[^c-f980c90005daef6e59168b124b6f9968]
 
 (1) Tanks and compartments shall be so constructed that the prescribed limits of error at any scale mark shall not be exceeded whether the adjacent compartments are empty or contain liquid.
 
@@ -315,7 +315,7 @@ Where more than one compartment discharges through a common outlet manifold, mea
 
 ## PART III — MANNER OF USE FOR TRADE
 
-### 36. Manner of use for trade[^key-dc37ca07308b53d83e42f065cb62d7ff]
+### 36. Manner of use for trade[^c-dc37ca07308b53d83e42f065cb62d7ff]
 
 (1) Liquid fuel shall not be transferred from one compartment into another during a delivery.
 
@@ -328,21 +328,21 @@ Where more than one compartment discharges through a common outlet manifold, mea
 
 ## PART IV — TESTING
 
-### 37. Contents gauging systems[^key-0a7de6eb63ddbf0521945d025fa5b266]
+### 37. Contents gauging systems[^c-0a7de6eb63ddbf0521945d025fa5b266]
 
 Regulations 38 to 42 shall apply to contents gauging systems.
 
-### 38. Conditions of test[^key-188e01edcc04d4dff64f33efc9d01c0f]
+### 38. Conditions of test[^c-188e01edcc04d4dff64f33efc9d01c0f]
 
 (1) A contents gauging system shall be tested only if it is installed ready for use and complete with all its parts and ancillary equipment concerned in the operations of measurement and delivery as described in any certificate of approval relating to it and which is in force.
 
 (2) Every contents gauging system shall be tested by an inspector under the approved working conditions, with a liquid fuel which it is designed to deliver, or with a liquid specified in any certificate of approval relating to it and which is in force.
 
-### 39. Power of inspector to request provision of liquids[^key-f7908c79eb84a165b765cf2e9463212e]
+### 39. Power of inspector to request provision of liquids[^c-f7908c79eb84a165b765cf2e9463212e]
 
 For the purposes of the performance by an inspector of his functions under the Order or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of a contents gauging system, a person submitting such a system to an inspector or who an inspector has reasonable cause to believe has possession of such a system for use for trade shall, if requested, make available for the inspector's use such liquids in his possession as the inspector may reasonably require, and such liquids shall be returned to the person in question.
 
-### 40. Types of test[^key-2d1f6e50d674e0fae893c043fd79f61f]
+### 40. Types of test[^c-2d1f6e50d674e0fae893c043fd79f61f]
 
 An inspector shall test a contents gauging system using—
 
@@ -350,35 +350,35 @@ An inspector shall test a contents gauging system using—
 - (b) a reference meter; or
 - (c) other equipment, being measures of capacity forming part of a fixed installation or being mounted on a vehicle or trailer, which has been tested in a manner which the inspector considers suitable, and adjusted, within the last twelve months, so as not to have any apparent error.
 
-### 41. Inspectors' powers to open containers[^key-a7b400946b773ee797e107faa2eb3bc9]
+### 41. Inspectors' powers to open containers[^c-a7b400946b773ee797e107faa2eb3bc9]
 
 (1) An inspector may open any locked or sealed container for the purpose of testing a contents gauging system or for the return of liquid withdrawn during testing, and any liquid so withdrawn shall, upon conclusion of the test, be forthwith returned to the container from which it was withdrawn if the inspector is of the opinion that it is practicable and desirable so to do and the proprietor or person in charge of the equipment does not object; otherwise, it shall be placed in another suitable receptacle reasonably convenient for the purpose and nominated and provided by the proprietor or person in charge of the equipment.
 
 (2) The inspector, if requested, shall give to the proprietor or person in charge of the said equipment a signed and dated statement of the quantity of such liquid withdrawn from the container and returned or placed as aforesaid.
 
-### 42. Duty of inspector to reseal containers[^key-9610756824e2827849ffb84d9335c38a]
+### 42. Duty of inspector to reseal containers[^c-9610756824e2827849ffb84d9335c38a]
 
 An inspector shall securely re-fasten any container opened under Regulation 41(1) immediately after the conclusion of the test and the return of any liquid withdrawn during testing or its placing in another receptacle; and for this purpose he shall replace any seal or link broken by him in opening the said container with a seal upon which he shall affix the stamp.
 
-### 43. Meter measuring systems[^key-430afc712d4959c523db4ab73db574f7]
+### 43. Meter measuring systems[^c-430afc712d4959c523db4ab73db574f7]
 
 Regulations 44 to 50 shall apply to meter measuring systems.
 
-### 44. Conditions of test[^key-caa1710e3230762f23cc43c177d0cd06]
+### 44. Conditions of test[^c-caa1710e3230762f23cc43c177d0cd06]
 
 (1) A meter measuring system shall be tested only if it is installed ready for use and complete with all its parts and ancillary equipment concerned in the operations of measurement and delivery as described in any certificate of approval relating to it and which is in force.
 
 (2) Every meter measuring system shall be tested by an inspector under the approved working conditions, with a liquid fuel which it is designed to deliver, or with a suitable liquid of similar viscosity.
 
-### 45. Power of inspector to request provision of liquid fuel[^key-6dbb483698a195f233e103ba9125e2ee]
+### 45. Power of inspector to request provision of liquid fuel[^c-6dbb483698a195f233e103ba9125e2ee]
 
 For the purpose of the performance by an inspector of his functions under the Order or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of a meter measuring system, a person submitting such a system to an inspector or who an inspector has reasonable cause to believe has possession of such a system for use for trade shall, if requested, make available for the inspector's use such liquid fuel in his possession as the inspector may reasonably require, and such liquid fuel shall be returned to the person in question.
 
-### 46. Rates of flow for test purposes[^key-7182dbb9266ec09ae7e4130a24fb34a0]
+### 46. Rates of flow for test purposes[^c-7182dbb9266ec09ae7e4130a24fb34a0]
 
 A meter measuring system shall be tested at rates of flow which are not more than the approved maximum and not less than the approved minimum, the rate of flow being maintained in as uniform a manner as practicable.
 
-### 47. Types of test[^key-f629e58ff546e6c665a373a891e8a50d]
+### 47. Types of test[^c-f629e58ff546e6c665a373a891e8a50d]
 
 An inspector shall test a meter measuring system using—
 
@@ -386,27 +386,27 @@ An inspector shall test a meter measuring system using—
 - (b) a reference meter; or
 - (c) other equipment, being measures of capacity forming part of a fixed installation or being mounted on a vehicle or trailer, which has been tested in a manner which the inspector considers suitable, and adjusted, within the last twelve months, so as not to have any apparent error.
 
-### 48. Inspectors' powers to open containers[^key-65c87862b832efc8168c4ce679c8fc60]
+### 48. Inspectors' powers to open containers[^c-65c87862b832efc8168c4ce679c8fc60]
 
 (1) An inspector may open any locked or sealed container for the purpose of testing a meter measuring system or for the return of liquid withdrawn during testing, and any liquid so withdrawn shall, upon conclusion of the test, be forthwith returned to the container from which it was withdrawn if the inspector is of the opinion that it is practicable and desirable so to do and the proprietor or person in charge of the equipment does not object; otherwise, it shall be placed in another suitable receptacle reasonably convenient for the purpose and nominated and provided by the proprietor or person in charge of the equipment.
 
 (2) The inspector, if requested, shall give to the proprietor or person in charge of the said equipment a signed and dated statement of the quantity of such liquid withdrawn from the container and returned or placed as aforesaid.
 
-### 49. Duty of inspector to reseal containers[^key-05628b6313849834605594ed4e031fcb]
+### 49. Duty of inspector to reseal containers[^c-05628b6313849834605594ed4e031fcb]
 
 An inspector shall securely re-fasten any container opened under Regulation 48(1) immediately after the conclusion of the test and the return of any liquid withdrawn during testing or its placing in another receptacle; and for this purpose he shall replace any seal or link broken by him in opening the said container with a seal upon which he shall affix the stamp.
 
-### 50. Restriction on testing[^key-0f4dedab50983937ef61e3c645e0d53b]
+### 50. Restriction on testing[^c-0f4dedab50983937ef61e3c645e0d53b]
 
 (1) An inspector shall not test a meter measuring system in accordance with this Part where an occurrence of the type mentioned in Regulation 65 has occurred, unless having tested the operation of the meter and gas separator, he concludes that further testing of the accuracy of the system is necessary.
 
 (2) An inspector shall not test a meter measuring system in accordance with this Part where an occurrence of the type mentioned in Regulation 66 has occurred; in such a case he shall test the system in such way as he considers appropriate to establish the correct operation of its parts affected by the occurrence or, where appropriate, their replacements.
 
-### 51. Dipstick measuring systems[^key-fcba4e7f98440df967a7ba7f67806729]
+### 51. Dipstick measuring systems[^c-fcba4e7f98440df967a7ba7f67806729]
 
 Regulations 52 to 55 shall apply to dipstick measuring systems.
 
-### 52. Testing of dipsticks[^key-0ff90d3394f95b227f8d757f77fcdf22]
+### 52. Testing of dipsticks[^c-0ff90d3394f95b227f8d757f77fcdf22]
 
 (1)
 
@@ -422,11 +422,11 @@ Regulations 52 to 55 shall apply to dipstick measuring systems.
 
 (4) Not more than two dipsticks relating to a compartment forming part of a dipstick measuring system may be passed as fit for use for trade on any one occasion.
 
-### 53. Power of inspector to request provision of liquids[^key-2c01a8a64b6ae32dce9ecabaf982b597]
+### 53. Power of inspector to request provision of liquids[^c-2c01a8a64b6ae32dce9ecabaf982b597]
 
 For the purposes of the performance by an inspector of his functions under the Order or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of a dipstick measuring system, a person submitting such a system to an inspector or who an inspector has reasonable cause to believe has possession of such a system for use for trade shall, if requested, make available for the inspector's use such liquids in his possession as the inspector may reasonably require, and such liquids shall be returned to the person in question.
 
-### 54. Standards of length[^key-69481344e0e536afd8552b862e669de1]
+### 54. Standards of length[^c-69481344e0e536afd8552b862e669de1]
 
 An inspector shall use, in testing any dimensional measurement in a dipstick measuring system—
 
@@ -439,13 +439,13 @@ An inspector shall use, in testing any dimensional measurement in a dipstick mea
   - (ii) has been tested in a manner which the inspector considers suitable within the previous 10 years and found not to have errors in excess or in deficiency of 0.25 mm per whole metre or part of a metre; or
 - (d) other equipment for measuring length of suitable form and durability which has been tested in a manner which the inspector considers suitable and found not to have any error in excess or in deficiency of 0.25 mm per whole metre or part of a metre.
 
-### 55. Cleanliness of tanks[^key-88fc1013ae0dcec491fdab8b08c2ce3e]
+### 55. Cleanliness of tanks[^c-88fc1013ae0dcec491fdab8b08c2ce3e]
 
 Tanks submitted for testing shall be clean.
 
 ## PART V — SUPPLEMENTARY PROVISIONS
 
-### 56. Prescribed limits of error[^key-889474f6fe4534585b0be7a8e5774423]
+### 56. Prescribed limits of error[^c-889474f6fe4534585b0be7a8e5774423]
 
 (1) Subject to paragraphs (2) and (3), the prescribed limits of error relating to a contents gauging system or a meter measuring system shall be 0.5% of the indicated quantity.
 
@@ -460,7 +460,7 @@ Tanks submitted for testing shall be clean.
 - (c) the lower edge of the line referred to in Regulation 27 is within 1 mm of the distance specified; and
 - (d) the height of the datum surface is within 1 mm of the height marked in accordance with Regulation 32.
 
-### 57. Passing as fit for use for trade[^key-4de69eb0a1ded0e5862027e4a887c8c3]
+### 57. Passing as fit for use for trade[^c-4de69eb0a1ded0e5862027e4a887c8c3]
 
 Measuring equipment shall not be passed as fit for use for trade unless—
 
@@ -468,7 +468,7 @@ Measuring equipment shall not be passed as fit for use for trade unless—
 - (b) on testing it falls within the prescribed limits of error; and
 - (c) in the case of a meter measuring system first submitted before 1st July 1984 for testing with a view to passing as fit for use for trade, it is constructed in a manner which does not facilitate fraudulent use.
 
-### 58. Stamping[^key-df5fff422b22dc7887b8f9ca74f95b4b]
+### 58. Stamping[^c-df5fff422b22dc7887b8f9ca74f95b4b]
 
 (1) Every contents gauging system shall be provided with such sealing arrangements as may be specified in the particular pattern in accordance with which the system is made as set out in any certificate of approval relating to it and which is in force.
 
@@ -476,21 +476,21 @@ Measuring equipment shall not be passed as fit for use for trade unless—
 
 (3) The stamp shall be placed on every such plug, seal or sealing device referred to in paragraphs (1) and (2).
 
-### 59. Placing of stamp on dipstick measuring systems[^key-fff337a343d474057485e9d6f894e37f]
+### 59. Placing of stamp on dipstick measuring systems[^c-fff337a343d474057485e9d6f894e37f]
 
 In the case of a dipstick measuring system the stamp shall be placed on the graduated face of the dipstick blade adjacent to the line 50 mm below the datum face referred to in Regulation 27 or, where applicable, on the metal rivet referred to in Regulation 22, and adjacent to the datum surface.
 
-### 60. Restriction on stamping[^key-a7b9ccf4615a46e522fc9d10825a2755]
+### 60. Restriction on stamping[^c-a7b9ccf4615a46e522fc9d10825a2755]
 
 Measuring equipment shall not be stamped in accordance with regulation 58(3) or 59 if it bears any mark which might reasonably be mistaken for the stamp.
 
-### 61. Obliteration of stamps[^key-f107138902fbc758627c92bf079af6fe]
+### 61. Obliteration of stamps[^c-f107138902fbc758627c92bf079af6fe]
 
 Stamps shall be obliterated by an inspector, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration:
 
 [image: see source](https://www.legislation.gov.uk/nisr/1984/117/images/nisr_19840117_en_001)
 
-### 62. Inspectors' powers and duties regarding obliteration of stamps[^key-2b29e28706d5b42558524b03f2771428]
+### 62. Inspectors' powers and duties regarding obliteration of stamps[^c-2b29e28706d5b42558524b03f2771428]
 
 (1) Subject to paragraph (2), an inspector shall obliterate the stamp on any measuring equipment which—
 
@@ -501,11 +501,11 @@ Stamps shall be obliterated by an inspector, in accordance with the requirements
 
 (2) Where any measuring equipment does not fully comply with the requirements of these Regulations, but the nature or degree of the non-compliance is not in the inspector' s opinion such as to require the immediate obliteration of the stamp, he shall give to the proprietor or person in charge of the equipment a notice calling on him to have the equipment corrected within a stated period not exceeding 28 days, and shall obliterate the stamp if the correction has not been made within the stated period.
 
-### 63. Alterations or additions to measuring equipment[^key-520980078a45569e576bbe08cf8a9e96]
+### 63. Alterations or additions to measuring equipment[^c-520980078a45569e576bbe08cf8a9e96]
 
 An inspector shall obliterate the stamp on any measuring equipment which has, since it was last stamped, had any alteration or addition made to it such that it could not be passed as fit for use for trade under Regulation 57.
 
-### 64. Consequences of obliteration of stamps[^key-89ac790452ac8429db8835a1ebde03b3]
+### 64. Consequences of obliteration of stamps[^c-89ac790452ac8429db8835a1ebde03b3]
 
 (1) Subject to paragraphs (2) and (3), for the purposes of these Regulations the obliteration of any one stamp on any measuring equipment shall be deemed to be the obliteration of all other stamps on that equipment except where the stamp has been lawfully obliterated under Regulation 65 or 66.
 
@@ -513,7 +513,7 @@ An inspector shall obliterate the stamp on any measuring equipment which has, si
 
 (3) Where a stamp on that part of a contents gauging system relating to one container only is obliterated, this Regulation shall not apply so as to prevent the system or any other contents gauging system being used for measuring the quantity of liquid fuel in the other containers on the same road tanker.
 
-### 65. Lawful use for trade of meter measuring system where a stamp has been destroyed, obliterated or defaced for purposes of installing a meter and gas separator[^key-efb3d20354759c03e52aceb57a3f5ced]
+### 65. Lawful use for trade of meter measuring system where a stamp has been destroyed, obliterated or defaced for purposes of installing a meter and gas separator[^c-efb3d20354759c03e52aceb57a3f5ced]
 
 (1) It shall be lawful to destroy, obliterate or deface a stamp on a meter measuring system, and it shall not be a contravention of Article 9(2) of the Order to use such equipment for trade during the relevant period by reason only that a stamp on it has been lawfully destroyed, obliterated or defaced (such destruction, obliteration or defacement being in this Regulation referred to as “**the occurrence**”) if—
 
@@ -532,7 +532,7 @@ An inspector shall obliterate the stamp on any measuring equipment which has, si
 
 (3) In paragraph (1) “**relevant period**” means a period of 7 days beginning with the day on which the notification referred to in that paragraph is given in accordance with that paragraph.
 
-### 66. Other circumstances in which a meter measuring system may lawfully be used for trade where a stamp has been destroyed, obliterated or defaced[^key-af1c8c532ee06ad12723004558776377]
+### 66. Other circumstances in which a meter measuring system may lawfully be used for trade where a stamp has been destroyed, obliterated or defaced[^c-af1c8c532ee06ad12723004558776377]
 
 (1) It shall be lawful to destroy, obliterate or deface a stamp on a meter measuring system, and it shall not be a contravention of Article 9(2) of the Order to use such equipment for trade during the relevant period by reason only that a stamp on it has been lawfully destroyed, obliterated or defaced (such destruction, obliteration or defacement being in this Regulation referred to as “**the occurrence**”) if—
 
@@ -585,13 +585,13 @@ Contravention of Regulations 5, 6, 19 and 36 is an offence under Article 13(1) o
 
 [^f00002]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846) Art. 4
 
-[^key-833dbca8e491484be3cfe2efdf0912cd]: Commencement: Reg. 1 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-833dbca8e491484be3cfe2efdf0912cd]: Commencement: Reg. 1 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
 [^f00003]: Footnote: [S.R. 1980 No. 127](https://www.legislation.gov.uk/nisr/1980/127)
 
 [^f00004]: Footnote: [S.R. 1983 No. 138](https://www.legislation.gov.uk/nisr/1983/138)
 
-[^key-eaa82ec45666a170853ad48f678d4734]: Commencement: Reg. 2 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-eaa82ec45666a170853ad48f678d4734]: Commencement: Reg. 2 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
 [^f00005]: Footnote: [S.I. 1980/1058](https://www.legislation.gov.uk/uksi/1980/1058)
 
@@ -603,134 +603,134 @@ Contravention of Regulations 5, 6, 19 and 36 is an offence under Article 13(1) o
 
 [^f00009]: Footnote: [1963 c. 31](https://www.legislation.gov.uk/ukpga/1963/31)
 
-[^key-b1611a68df9fb19f27e6f8f17d5319fa]: Commencement: Reg. 3 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-b1611a68df9fb19f27e6f8f17d5319fa]: Commencement: Reg. 3 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-d1e9be351e92448c2450bee189fb9e4b]: Commencement: Reg. 4 in operation at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/b)
+[^c-d1e9be351e92448c2450bee189fb9e4b]: Commencement: Reg. 4 in operation at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/b)
 
-[^key-4978bf535aa299d06c4005a403f07c8b]: Commencement: Reg. 5 in operation at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/b)
+[^c-4978bf535aa299d06c4005a403f07c8b]: Commencement: Reg. 5 in operation at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/b)
 
-[^key-7f34942d78f3b6936e162bea7c678288]: Commencement: Reg. 6 in operation at 1.7.1987, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/c)
+[^c-7f34942d78f3b6936e162bea7c678288]: Commencement: Reg. 6 in operation at 1.7.1987, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/c)
 
-[^key-58d253daf2c342ac367ee47d544b03b9]: Commencement: Reg. 7 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-58d253daf2c342ac367ee47d544b03b9]: Commencement: Reg. 7 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-e7e5c39ba7bebaf47f0343dc0335d586]: Commencement: Reg. 8 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-e7e5c39ba7bebaf47f0343dc0335d586]: Commencement: Reg. 8 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-ce7f8f9831c75ea12b582840a3c3ae89]: Commencement: Reg. 9 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-ce7f8f9831c75ea12b582840a3c3ae89]: Commencement: Reg. 9 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-5b2e704b31b82bf399fbf544541e9d05]: Commencement: Reg. 10 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-5b2e704b31b82bf399fbf544541e9d05]: Commencement: Reg. 10 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-dc343b0049ddc639c2d7ed1772bca9cd]: Commencement: Reg. 11 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-dc343b0049ddc639c2d7ed1772bca9cd]: Commencement: Reg. 11 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-ff6dcb643bb45c10ab714f3be44711bc]: Commencement: Reg. 12 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-ff6dcb643bb45c10ab714f3be44711bc]: Commencement: Reg. 12 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-66ed380c2faa4df7062cdf54e7808b24]: Commencement: Reg. 13 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-66ed380c2faa4df7062cdf54e7808b24]: Commencement: Reg. 13 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-a240373abf1ea3ba3977f8f706fad11d]: Commencement: Reg. 14(1) in operation at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/b)
+[^c-a240373abf1ea3ba3977f8f706fad11d]: Commencement: Reg. 14(1) in operation at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/b)
 
-[^key-36b63b3780d519346d0c0e2d8f2ec400]: Commencement: Reg. 14(2)(3) in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-36b63b3780d519346d0c0e2d8f2ec400]: Commencement: Reg. 14(2)(3) in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-14bd520e6e9a3317348735a74763beae]: Commencement: Reg. 15 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-14bd520e6e9a3317348735a74763beae]: Commencement: Reg. 15 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-385ad67a3ffdde1aeccf554bdc411500]: Commencement: Reg. 16 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-385ad67a3ffdde1aeccf554bdc411500]: Commencement: Reg. 16 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-d76072771dad54bdebcd83ba5574e958]: Commencement: Reg. 17 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-d76072771dad54bdebcd83ba5574e958]: Commencement: Reg. 17 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-032a5c66090d137ee49c4d48b2c2b821]: Commencement: Reg. 18 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-032a5c66090d137ee49c4d48b2c2b821]: Commencement: Reg. 18 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-abb972835819da91302aa53ec230102f]: Commencement: Reg. 19 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-abb972835819da91302aa53ec230102f]: Commencement: Reg. 19 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-1435c23d19a0c4bce5a9d77d43640b35]: Commencement: Reg. 20 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-1435c23d19a0c4bce5a9d77d43640b35]: Commencement: Reg. 20 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-ba54330c2b7fd59b2f351fac3adef649]: Commencement: Reg. 21 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-ba54330c2b7fd59b2f351fac3adef649]: Commencement: Reg. 21 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-da27ecf0bc97f84905d779ba00b22ba6]: Commencement: Reg. 22 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-da27ecf0bc97f84905d779ba00b22ba6]: Commencement: Reg. 22 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-41d561fc504a2482fc359b91662e4275]: Commencement: Reg. 23 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-41d561fc504a2482fc359b91662e4275]: Commencement: Reg. 23 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-c77393364d4d388dec43eb16a84301be]: Commencement: Reg. 24 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-c77393364d4d388dec43eb16a84301be]: Commencement: Reg. 24 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-1d5f486196bd83b4af9862be4d2d8dc9]: Commencement: Reg. 25 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-1d5f486196bd83b4af9862be4d2d8dc9]: Commencement: Reg. 25 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-b4679e2c4685db1411517354170dad27]: Commencement: Reg. 26 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-b4679e2c4685db1411517354170dad27]: Commencement: Reg. 26 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-4ed40bbd9b2597b3b469625ecdc53844]: Commencement: Reg. 27 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-4ed40bbd9b2597b3b469625ecdc53844]: Commencement: Reg. 27 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-23892dcca073ffd28e43aef7b6adb7fe]: Commencement: Reg. 28 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-23892dcca073ffd28e43aef7b6adb7fe]: Commencement: Reg. 28 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-858b5e59ac8e9c363056ffcd6f9ecc81]: Commencement: Reg. 29 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-858b5e59ac8e9c363056ffcd6f9ecc81]: Commencement: Reg. 29 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-bc1112984a05d60d617d3ba5c6ad65af]: Commencement: Reg. 30 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-bc1112984a05d60d617d3ba5c6ad65af]: Commencement: Reg. 30 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-5150a3b21564ac4ad5af5299a5886611]: Commencement: Reg. 31 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-5150a3b21564ac4ad5af5299a5886611]: Commencement: Reg. 31 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-dbc0ca0a40347a61baa0951f0e446a91]: Commencement: Reg. 32 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-dbc0ca0a40347a61baa0951f0e446a91]: Commencement: Reg. 32 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-7863c838a6737615f41d13417f065790]: Commencement: Reg. 33 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-7863c838a6737615f41d13417f065790]: Commencement: Reg. 33 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-265c34697f3f7881c251f2fcb5069b55]: Commencement: Reg. 34 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-265c34697f3f7881c251f2fcb5069b55]: Commencement: Reg. 34 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-f980c90005daef6e59168b124b6f9968]: Commencement: Reg. 35 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-f980c90005daef6e59168b124b6f9968]: Commencement: Reg. 35 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-dc37ca07308b53d83e42f065cb62d7ff]: Commencement: Reg. 36 in operation at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/b)
+[^c-dc37ca07308b53d83e42f065cb62d7ff]: Commencement: Reg. 36 in operation at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/b)
 
-[^key-0a7de6eb63ddbf0521945d025fa5b266]: Commencement: Reg. 37 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-0a7de6eb63ddbf0521945d025fa5b266]: Commencement: Reg. 37 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-188e01edcc04d4dff64f33efc9d01c0f]: Commencement: Reg. 38 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-188e01edcc04d4dff64f33efc9d01c0f]: Commencement: Reg. 38 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-f7908c79eb84a165b765cf2e9463212e]: Commencement: Reg. 39 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-f7908c79eb84a165b765cf2e9463212e]: Commencement: Reg. 39 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-2d1f6e50d674e0fae893c043fd79f61f]: Commencement: Reg. 40 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-2d1f6e50d674e0fae893c043fd79f61f]: Commencement: Reg. 40 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-a7b400946b773ee797e107faa2eb3bc9]: Commencement: Reg. 41 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-a7b400946b773ee797e107faa2eb3bc9]: Commencement: Reg. 41 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-9610756824e2827849ffb84d9335c38a]: Commencement: Reg. 42 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-9610756824e2827849ffb84d9335c38a]: Commencement: Reg. 42 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-430afc712d4959c523db4ab73db574f7]: Commencement: Reg. 43 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-430afc712d4959c523db4ab73db574f7]: Commencement: Reg. 43 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-caa1710e3230762f23cc43c177d0cd06]: Commencement: Reg. 44 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-caa1710e3230762f23cc43c177d0cd06]: Commencement: Reg. 44 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-6dbb483698a195f233e103ba9125e2ee]: Commencement: Reg. 45 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-6dbb483698a195f233e103ba9125e2ee]: Commencement: Reg. 45 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-7182dbb9266ec09ae7e4130a24fb34a0]: Commencement: Reg. 46 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-7182dbb9266ec09ae7e4130a24fb34a0]: Commencement: Reg. 46 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-f629e58ff546e6c665a373a891e8a50d]: Commencement: Reg. 47 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-f629e58ff546e6c665a373a891e8a50d]: Commencement: Reg. 47 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-65c87862b832efc8168c4ce679c8fc60]: Commencement: Reg. 48 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-65c87862b832efc8168c4ce679c8fc60]: Commencement: Reg. 48 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-05628b6313849834605594ed4e031fcb]: Commencement: Reg. 49 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-05628b6313849834605594ed4e031fcb]: Commencement: Reg. 49 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-0f4dedab50983937ef61e3c645e0d53b]: Commencement: Reg. 50 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-0f4dedab50983937ef61e3c645e0d53b]: Commencement: Reg. 50 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-fcba4e7f98440df967a7ba7f67806729]: Commencement: Reg. 51 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-fcba4e7f98440df967a7ba7f67806729]: Commencement: Reg. 51 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-0ff90d3394f95b227f8d757f77fcdf22]: Commencement: Reg. 52 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-0ff90d3394f95b227f8d757f77fcdf22]: Commencement: Reg. 52 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-2c01a8a64b6ae32dce9ecabaf982b597]: Commencement: Reg. 53 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-2c01a8a64b6ae32dce9ecabaf982b597]: Commencement: Reg. 53 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-69481344e0e536afd8552b862e669de1]: Commencement: Reg. 54 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-69481344e0e536afd8552b862e669de1]: Commencement: Reg. 54 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
 [^f00010]: Footnote: OJ No. L335, 5.12.1973, p. 56, as amended by [Council Directive No. 78/629/EEC](https://www.legislation.gov.uk/ukpga/1978/629) (OJ No. L206, 29.7.1978, p. 8)
 
-[^key-88fc1013ae0dcec491fdab8b08c2ce3e]: Commencement: Reg. 55 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-88fc1013ae0dcec491fdab8b08c2ce3e]: Commencement: Reg. 55 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-889474f6fe4534585b0be7a8e5774423]: Commencement: Reg. 56 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-889474f6fe4534585b0be7a8e5774423]: Commencement: Reg. 56 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-4de69eb0a1ded0e5862027e4a887c8c3]: Commencement: Reg. 57 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-4de69eb0a1ded0e5862027e4a887c8c3]: Commencement: Reg. 57 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-df5fff422b22dc7887b8f9ca74f95b4b]: Commencement: Reg. 58 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-df5fff422b22dc7887b8f9ca74f95b4b]: Commencement: Reg. 58 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-fff337a343d474057485e9d6f894e37f]: Commencement: Reg. 59 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-fff337a343d474057485e9d6f894e37f]: Commencement: Reg. 59 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-a7b9ccf4615a46e522fc9d10825a2755]: Commencement: Reg. 60 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-a7b9ccf4615a46e522fc9d10825a2755]: Commencement: Reg. 60 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-f107138902fbc758627c92bf079af6fe]: Commencement: Reg. 61 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-f107138902fbc758627c92bf079af6fe]: Commencement: Reg. 61 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-2b29e28706d5b42558524b03f2771428]: Commencement: Reg. 62 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-2b29e28706d5b42558524b03f2771428]: Commencement: Reg. 62 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-520980078a45569e576bbe08cf8a9e96]: Commencement: Reg. 63 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-520980078a45569e576bbe08cf8a9e96]: Commencement: Reg. 63 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-89ac790452ac8429db8835a1ebde03b3]: Commencement: Reg. 64 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-89ac790452ac8429db8835a1ebde03b3]: Commencement: Reg. 64 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-efb3d20354759c03e52aceb57a3f5ced]: Commencement: Reg. 65 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-efb3d20354759c03e52aceb57a3f5ced]: Commencement: Reg. 65 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
 
-[^key-af1c8c532ee06ad12723004558776377]: Commencement: Reg. 66 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)
+[^c-af1c8c532ee06ad12723004558776377]: Commencement: Reg. 66 in operation at 7.5.1984, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1984/117/regulation/1/1/a)

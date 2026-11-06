@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Discharge of water[^key-5cfe6a4fca510c23511c2fbfd451fde0]
+## 13. Discharge of water[^c-5cfe6a4fca510c23511c2fbfd451fde0]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5cfe6a4fca510c23511c2fbfd451fde0]: Commencement: Art. 13 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-5cfe6a4fca510c23511c2fbfd451fde0]: Commencement: Art. 13 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
 [^c24507911]: Marginal citation: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by section
 

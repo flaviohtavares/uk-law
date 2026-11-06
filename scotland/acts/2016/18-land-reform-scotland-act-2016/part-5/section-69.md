@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Appeals to sheriff[^key-f62133ee601b5b448489be2fc0278227]
+## 69. Appeals to sheriff[^c-f62133ee601b5b448489be2fc0278227]
 
 *Extent: S*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f62133ee601b5b448489be2fc0278227]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2016/18/section/69) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-f62133ee601b5b448489be2fc0278227]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2016/18/section/69) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127C. Book value[^key-0bea06294a5aea11ce9bbf9e26104ab0]
+## 127C. Book value[^c-0bea06294a5aea11ce9bbf9e26104ab0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bea06294a5aea11ce9bbf9e26104ab0]: Textual amendment: Ch. 8A inserted (1.3.2012) (with effect in accordance with art. 12 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [10](https://www.legislation.gov.uk/uksi/2012/266/article/10)
+[^c-0bea06294a5aea11ce9bbf9e26104ab0]: Textual amendment: Ch. 8A inserted (1.3.2012) (with effect in accordance with art. 12 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [10](https://www.legislation.gov.uk/uksi/2012/266/article/10)

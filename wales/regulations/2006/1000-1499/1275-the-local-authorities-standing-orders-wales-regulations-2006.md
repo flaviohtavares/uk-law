@@ -54,26 +54,26 @@ In these Regulations–
 - “**the 1989 Act**” (“***Deddf 1989***”) means the Local Government and Housing Act 1989;
 - “**the 2000 Act**” (“***Deddf 2000***”) means the Local Government Act 2000 [^c15937451];
 - “**the 1993 Regulations**” (“***Rheoliadau 1993***”) means the Local Authorities (Standing Orders) Regulations 1993 [^c15937461];
-- [^key-31241c3756f3b4a531dbc64054d84434]...
-- “[^key-a1feb8d2253cd638a8ffe598d0f94531]**chief executive**” (“***prif weithredwr***”) means the person appointed as chief executive under section 54 of the Local Government and Elections (Wales) Act 2021;
+- [^c-31241c3756f3b4a531dbc64054d84434]...
+- “[^c-a1feb8d2253cd638a8ffe598d0f94531]**chief executive**” (“***prif weithredwr***”) means the person appointed as chief executive under section 54 of the Local Government and Elections (Wales) Act 2021;
 - “**chief officer**” (“***prif swyddog***”), in relation to a relevant authority, means–
-  - (a) its chief executive;[^key-5be450ad6aa5e8130508710b84276e59]
+  - (a) its chief executive;[^c-5be450ad6aa5e8130508710b84276e59]
   - (b) its monitoring officer;
   - (c) a statutory chief officer mentioned in paragraph (a), (c) or (d) of section 2(6) of the 1989 Act, or
   - (d) a non-statutory chief officer (within the meaning of section 2(7) of the 1989 Act);
 
   and any reference to an appointment or purported appointment of a chief officer includes a reference to the engagement or purported engagement of such an officer under a contract of employment;
 - “**chief finance officer**” (“***prif swyddog cyllid***”) means the officer having responsibility, for the purposes of section 151 of the Local Government Act 1972 [^c15937471] (financial administration) for the administration of the local authority's financial affairs;
-- [^key-a7d7751621d8733a6c70ea0d03af21ec]...
+- [^c-a7d7751621d8733a6c70ea0d03af21ec]...
 - “**disciplinary action**” (“***camau disgyblu***”) in relation to a member of staff of a relevant authority means any action occasioned by alleged misconduct which, if proved, would, according to the usual practice of the authority, be recorded on the member of staff's personal file, and includes any proposal for dismissal of a member of staff for any reason other than redundancy, permanent ill-health or infirmity of mind or body, but does not include failure to renew a contract of employment for a fixed term unless the relevant authority has undertaken to renew such a contract;
 - “**elected mayor**” (“***maer etholedig***”), “**executive**” (“***corff gweithredol***”), “**executive arrangements**” (“***trefniadau gweithredol***”) and “**executive leader**” (“***arweinydd gweithredol***”) have the same meaning as in Part II of the 2000 Act;
-- “head of democratic services” (“[^key-dce5b5e3189f5255b2eb6cd36f80db08]*pennaeth gwasanaethau democrataidd*”) means the officer designated under section 8 of the Local Government (Wales) Measure 2011 (head of democratic services);
-- [^key-9047d4262cd7e762c0744124111f5c96]...
+- “head of democratic services” (“[^c-dce5b5e3189f5255b2eb6cd36f80db08]*pennaeth gwasanaethau democrataidd*”) means the officer designated under section 8 of the Local Government (Wales) Measure 2011 (head of democratic services);
+- [^c-9047d4262cd7e762c0744124111f5c96]...
 - “**member of staff**” (“***aelod o'r staff***”) means a person appointed to or holding a paid office or employment, under a relevant authority;
 - “**monitoring officer**” (“***swyddog monitro***”) means the officer designated under section 5(1) of the 1989 Act [^c15937481] (designation and reports of monitoring officer);
-- “**relevant authority**” (“***awdurdod perthnasol***”) means (subject to regulation 4A)[^key-4e30f227f6e0a25ea2cf2ebb88954212] a county council or county borough council in Wales;
-- “**relevant joint committee**” (“***cydbwyllgor perthnasol***”), in relation to a relevant authority, means a joint committee on which the relevant authority is represented; [^key-5afd5029755b8cf6466f29f344a938e3]...
-- “remuneration” (“[^key-3bce101f2e8a44456aecf235296ac222]*cydnabyddiaeth ariannol*”) has the same meaning as in section 43(3) of the Localism Act 2011;
+- “**relevant authority**” (“***awdurdod perthnasol***”) means (subject to regulation 4A)[^c-4e30f227f6e0a25ea2cf2ebb88954212] a county council or county borough council in Wales;
+- “**relevant joint committee**” (“***cydbwyllgor perthnasol***”), in relation to a relevant authority, means a joint committee on which the relevant authority is represented; [^c-5afd5029755b8cf6466f29f344a938e3]...
+- “remuneration” (“[^c-3bce101f2e8a44456aecf235296ac222]*cydnabyddiaeth ariannol*”) has the same meaning as in section 43(3) of the Localism Act 2011;
 - “**working day**” (“***diwrnod gwaith***”) means any day which is not a Saturday, a Sunday, Christmas Eve, Christmas Day, Maundy Thursday, Good Friday, a bank holiday in Wales or a day appointed for public thanksgiving or mourning (and “**bank holiday**” means a day to be observed as such under section 1 of and Schedule 1 to the Banking and Financial Dealings Act 1971 [^c15937491]).
 
 ## 3. Standing orders relating to chief officers
@@ -100,7 +100,7 @@ and must not thereafter vary standing orders so made or modified other than by w
 - (a) the recording of votes of the relevant authority or any of its committees or sub-committees, or of any relevant joint committee, or sub-committee of such a committee; and
 - (b) the signing of minutes of the relevant authority.
 
-## 4A. Standing orders relating to local planning authorities[^key-f10e6e86c11cfbcfeca1ec8117f0e400]
+## 4A. Standing orders relating to local planning authorities[^c-f10e6e86c11cfbcfeca1ec8117f0e400]
 
 (1) In this regulation—
 
@@ -119,7 +119,7 @@ and must not thereafter vary standing orders so made or modified other than by w
 (3) The matters referred to in paragraph (2) are—
 
 - (a) quorum for a meeting of a committee;
-- (b) membership of a committee *(affected by repeal, see note)*[^key-d81806ed1afb53be78bfa6e988ec0f34].
+- (b) membership of a committee *(affected by repeal, see note)*[^c-d81806ed1afb53be78bfa6e988ec0f34].
 
 ## 5. Executive arrangements- standing orders relating to staff
 
@@ -127,43 +127,43 @@ and must not thereafter vary standing orders so made or modified other than by w
 
 - (a) where a relevant authority's executive takes the form specified in section 11(2) of the 2000 Act (mayor and cabinet executive), incorporate in standing orders relating to its staff [^c15937501] the provisions set out in Part 1 of Schedule 3 or provisions to the like effect;
 - (b) where its executive takes the form specified in section 11(3) of the 2000 Act (leader and cabinet executive), incorporate in standing orders relating to its staff the provisions set out in Part 2 of Schedule 3 or provisions to the like effect;
-- (c)[^key-2610927424536611b326b447b9ad19a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) modify any of its existing standing orders in so far as is necessary to conform with the provisions referred to in sub-paragraphs (a) and (b)[^key-c4bc1c1d7dc639aa8415c40fa8ffc035].
+- (c)[^c-2610927424536611b326b447b9ad19a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) modify any of its existing standing orders in so far as is necessary to conform with the provisions referred to in sub-paragraphs (a) and (b)[^c-c4bc1c1d7dc639aa8415c40fa8ffc035].
 
-(2) A relevant authority which has incorporated provisions in standing orders pursuant to paragraph (1) must, where it proposes to change its executive arrangements so that its executive will take a different form, make variations to its standing orders to the extent necessary to conform with the provisions referred to in sub-paragraph (a), (b) or (d)[^key-d7e67d74d10016ebec288d3ceff11e87] of paragraph (1), as the case may be, on or before the date on which it starts to operate those changed executive arrangements.
+(2) A relevant authority which has incorporated provisions in standing orders pursuant to paragraph (1) must, where it proposes to change its executive arrangements so that its executive will take a different form, make variations to its standing orders to the extent necessary to conform with the provisions referred to in sub-paragraph (a), (b) or (d)[^c-d7e67d74d10016ebec288d3ceff11e87] of paragraph (1), as the case may be, on or before the date on which it starts to operate those changed executive arrangements.
 
-## 6. Alternative arrangements- standing orders relating to staff[^key-4e94520b0b4acdd431392fce86dae19a]
+## 6. Alternative arrangements- standing orders relating to staff[^c-4e94520b0b4acdd431392fce86dae19a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Standing orders relating to staff[^key-8daec58bd0bb02fb328b86ceff252cb9]
+## 7. Standing orders relating to staff[^c-8daec58bd0bb02fb328b86ceff252cb9]
 
 (1) Where a relevant authority has standing orders incorporating the provisions of these Regulations mentioned in paragraph (2), the functions referred to in that paragraph must be exercised by the authority itself and accordingly section 101 of the Local Government Act 1972 (arrangements for discharge of functions by local authorities) does not apply to the exercise of those functions.
 
 (2) The provisions are—
 
-- (a) paragraph 4(1) of Part 1 of Schedule 3 and paragraph 4(1) of Part 2 of Schedule 3 relating to the function of approving the appointment or dismissal of the authority’s chief executive[^key-498eeefadd577314ca25b1eb15cc5b1e]; and
+- (a) paragraph 4(1) of Part 1 of Schedule 3 and paragraph 4(1) of Part 2 of Schedule 3 relating to the function of approving the appointment or dismissal of the authority’s chief executive[^c-498eeefadd577314ca25b1eb15cc5b1e]; and
 - (b) paragraph 6 of Part 1 of Schedule 3 and paragraph 6 of Part 2 of Schedule 3 relating to the function of determining the level, and any change in the level, of remuneration to be paid to a chief officer.
 
 ## 8. Standing orders in respect of disciplinary action
 
-(1)[^key-2d39ebc0d044c34c5fc1f6d82384495c] No later than the first ordinary meeting of the relevant authority falling after the day on which these Regulations come into force, a relevant authority must, in respect of disciplinary action against the authority’s chief executive[^key-b10e0ec87e4c0b069ddab6cf51fc2970], its monitoring officer , its chief finance officer, its head of democratic services or any officer referred to in paragraph (2)[^key-9717e2f203f4db20eed9f54dfaf2eb16]–
+(1)[^c-2d39ebc0d044c34c5fc1f6d82384495c] No later than the first ordinary meeting of the relevant authority falling after the day on which these Regulations come into force, a relevant authority must, in respect of disciplinary action against the authority’s chief executive[^c-b10e0ec87e4c0b069ddab6cf51fc2970], its monitoring officer , its chief finance officer, its head of democratic services or any officer referred to in paragraph (2)[^c-9717e2f203f4db20eed9f54dfaf2eb16]–
 
 - (a) incorporate in standing orders the provisions set out in Schedule 4 or provisions to the like effect; and
 - (b) modify any of its existing standing orders in so far as is necessary to conform with those provisions.
 
-(2)[^key-8919ffb104cc84bd8c5e375e235e817c]  An officer in relation to whom disciplinary action is proposed where—
+(2)[^c-8919ffb104cc84bd8c5e375e235e817c]  An officer in relation to whom disciplinary action is proposed where—
 
 - (a) the officer was, but at the time of the proposed disciplinary action no longer is, an officer referred to in paragraph (1); and
 - (b) the alleged misconduct or, as the case may be, the reason for the proposal for dismissal, occurred during the period when the officer was an officer referred to in paragraph (1).
 
 ## 9. Investigation of alleged misconduct
 
-(1)[^key-071bac67fa5ecb709f8e4ff24e8036b0] Where, after a relevant authority has incorporated provisions in standing orders pursuant to regulation 8, it appears to the relevant authority that an allegation of misconduct which may lead to disciplinary action has been made against a relevant officer, the relevant authority must appoint a committee (“an investigation committee”) to consider the alleged misconduct.
+(1)[^c-071bac67fa5ecb709f8e4ff24e8036b0] Where, after a relevant authority has incorporated provisions in standing orders pursuant to regulation 8, it appears to the relevant authority that an allegation of misconduct which may lead to disciplinary action has been made against a relevant officer, the relevant authority must appoint a committee (“an investigation committee”) to consider the alleged misconduct.
 
 (1A)  For the purposes of this regulation “a relevant officer” (*“swyddog perthnasol”*) is—
 
-- (a)[^key-e8c4ff9af5bba97908a945f83e37de60] the authority’s chief executive;
+- (a)[^c-e8c4ff9af5bba97908a945f83e37de60] the authority’s chief executive;
 - (b) its monitoring officer;
 - (c) its chief finance officer;
 - (d) its head of democratic services; or
@@ -187,7 +187,7 @@ must, within 1 month of its appointment, consider the allegation of misconduct a
 (5) The designated independent person who is appointed–
 
 - (a) must be such person as may be agreed between the relevant authority and the relevant officer within 1 month of the date on which the requirement to appoint the designated independent person arose; or
-- (b) where there is no such agreement, must be such person as is nominated for the purpose by the Welsh Ministers[^key-f1bf54f0ea630f5896037ac0f03b2e93].
+- (b) where there is no such agreement, must be such person as is nominated for the purpose by the Welsh Ministers[^c-f1bf54f0ea630f5896037ac0f03b2e93].
 
 (6) The designated independent person–
 
@@ -211,13 +211,13 @@ must, within 1 month of its appointment, consider the allegation of misconduct a
 
 (10) A relevant authority must pay reasonable remuneration to a designated independent person appointed by the investigation committee and any costs incurred by, or in connection with, the discharge of functions under this regulation.
 
-(11)[^key-c8ed305d14c779bc4de71a6ffe6acbf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-c8ed305d14c779bc4de71a6ffe6acbf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 10. Revocation of the 1993 Regulations
 
 The 1993 Regulations are hereby revoked in relation to Wales save in so far as they apply to National Park Authorities in Wales.
 
-## 11. Transitional and consequential provisions[^key-a294270f461c00920b3530a6f3fd94fd]
+## 11. Transitional and consequential provisions[^c-a294270f461c00920b3530a6f3fd94fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -237,7 +237,7 @@ Regulation 3
 
 > **Appointments**
 >
-> **1.**[^key-bb3c7958002f7729cce291deeedcb11f] (1) A relevant authority must take the steps set out in sub-paragraph (2) where—
+> **1.**[^c-bb3c7958002f7729cce291deeedcb11f] (1) A relevant authority must take the steps set out in sub-paragraph (2) where—
 >
 > - (a) it proposes to appoint a chief officer (within the meaning of the Local Authorities (Standing Orders) (Wales) Regulations 2006); and
 > - (b) the remuneration which it proposes to pay to the chief officer is £100,000 or more per annum.
@@ -273,7 +273,7 @@ Regulation 3
 
 **3.** There may be excluded from the application of paragraph 1 and 2–
 
-- (a)[^key-7c93b9258ac36e776b6142a77350e2cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7c93b9258ac36e776b6142a77350e2cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any appointment in pursuance of section 9 (assistants for political groups) of the Act, and
 - (c) any appointment in pursuance of regulations made under paragraph 6 of Schedule 1 to the Local Government Act 2000 (mayor's assistant).
 
@@ -293,7 +293,7 @@ Regulation 4
 >
 > **2.** Where in relation to any meeting of the relevant authority the next such meeting is a meeting called under paragraph 3 (extraordinary meetings) of Schedule 12 to the Local Government Act 1972, the next following meeting of the relevant authority (being a meeting called otherwise than under that paragraph) must be treated as a suitable meeting for the purposes of paragraph 41(1) and (2) (signing of minutes) of that Schedule [^c15937531].
 
-## SCHEDULE 2A — Standing orders relating to local planning authorities[^key-3c81dee3baaeae08bb5f5739651901f3]
+## SCHEDULE 2A — Standing orders relating to local planning authorities[^c-3c81dee3baaeae08bb5f5739651901f3]
 
 regulation 4A
 
@@ -303,7 +303,7 @@ No business is to be transacted at a meeting of a committee unless at least half
 
 ### 2. Substitute members
 
-A relevant authority is not to appoint another of their members to act as a member of a committee in the absence of the member appointed in accordance with the Size and Composition of Local Planning Authority Committees (Wales) Regulations 2017. *(affected by repeal, see note)*[^key-631cd9aeb8d9cadbc3c3f453df0bf3e8]
+A relevant authority is not to appoint another of their members to act as a member of a committee in the absence of the member appointed in accordance with the Size and Composition of Local Planning Authority Committees (Wales) Regulations 2017. *(affected by repeal, see note)*[^c-631cd9aeb8d9cadbc3c3f453df0bf3e8]
 
 ## SCHEDULE 3 — PROVISIONS TO BE INCORPORATED IN STANDING ORDERS RELATING TO STAFF
 
@@ -322,35 +322,35 @@ Regulation 5(1) and 6
 > - “**member of staff**” (“***aelod o'r staff***”) means a person appointed to or holding a paid office or employment under the authority; and
 > - “**proper officer**” (“***swyddog priodol***”) means an officer appointed by the authority for the purposes of the provisions in this Part.
 >
-> **2.** Subject to paragraphs 3 and 5, the function of appointment and dismissal of, and taking disciplinary action against, a member of staff of the relevant authority must be discharged, on behalf of the relevant authority, by the person appointed as the authority’s chief executive or by an officer nominated by the authority’s chief executive[^key-4fb31b02d3f346703c31956e2e722c28].
+> **2.** Subject to paragraphs 3 and 5, the function of appointment and dismissal of, and taking disciplinary action against, a member of staff of the relevant authority must be discharged, on behalf of the relevant authority, by the person appointed as the authority’s chief executive or by an officer nominated by the authority’s chief executive[^c-4fb31b02d3f346703c31956e2e722c28].
 >
-> **3.** (1)[^key-de36d93589f8681a7b4c5f406134f3b4] Paragraph 2 does not apply to the appointment or dismissal of, or disciplinary action against–
+> **3.** (1)[^c-de36d93589f8681a7b4c5f406134f3b4] Paragraph 2 does not apply to the appointment or dismissal of, or disciplinary action against–
 >
-> - (a)[^key-dbafb39a78ebdc72cf83129d9974d94c] the person appointed as the authority’s chief executive;
+> - (a)[^c-dbafb39a78ebdc72cf83129d9974d94c] the person appointed as the authority’s chief executive;
 > - (b) a statutory chief officer within the meaning of section 2(6) of the 1989 Act [^c15937561] (politically restricted posts);
 > - (c) a non-statutory chief officer within the meaning of section 2(7) of the 1989 Act;
 > - (d) a deputy chief officer within the meaning of section 2(8) of the 1989 Act;
 > - (e) a person appointed in pursuance of section 9 of the 1989 Act [^c15937571] (assistants for political groups);
 > - (f) a person appointed in pursuance of regulations under paragraph 6 of Schedule 1 to the 2000 Act (mayor's assistant); or
-> - (g) a person to whom regulations made under section 35(4) and (5) (provision with respect to the appointment, discipline, suspension and dismissal of teachers and other staff of schools employed by the local authority[^key-d20f9e7439633ca9a40e6228aa8a1dcc]) of the Education Act 2002 [^c15937581] apply;
-> - (h)[^key-9e6c8e1b3a9c9e27d8ad2ccca81d76dc] the officer designated as the authority’s monitoring officer; or
+> - (g) a person to whom regulations made under section 35(4) and (5) (provision with respect to the appointment, discipline, suspension and dismissal of teachers and other staff of schools employed by the local authority[^c-d20f9e7439633ca9a40e6228aa8a1dcc]) of the Education Act 2002 [^c15937581] apply;
+> - (h)[^c-9e6c8e1b3a9c9e27d8ad2ccca81d76dc] the officer designated as the authority’s monitoring officer; or
 > - (i) the officer designated as the authority’s head of democratic services.
 >
-> (2)[^key-278fe428e100082cb7ede910b227f65a] Paragraph 2 does not apply to the dismissal of, or disciplinary action against, an officer in relation to whom disciplinary action is proposed—
+> (2)[^c-278fe428e100082cb7ede910b227f65a] Paragraph 2 does not apply to the dismissal of, or disciplinary action against, an officer in relation to whom disciplinary action is proposed—
 >
 > - (a) who was, but at the time of the proposed disciplinary action no longer is, an officer referred to in paragraph 3(1)(a) to (i); and
 > - (b) where the alleged misconduct, or, as the case may be, the reason for the proposal for dismissal, occurred during the period when the officer was an officer referred to in paragraph 3(1)(a) to (i).
 >
-> **4.** (1) Where a committee, sub-committee or officer is discharging, on behalf of the relevant authority, the function of the appointment or dismissal of a person appointed as the authority’s chief executive[^key-5e30495149be0fe84f967c85d308c59f], the relevant authority must approve that appointment before an offer of appointment is made or, as the case may be, must approve that dismissal before notice of dismissal is given.
+> **4.** (1) Where a committee, sub-committee or officer is discharging, on behalf of the relevant authority, the function of the appointment or dismissal of a person appointed as the authority’s chief executive[^c-5e30495149be0fe84f967c85d308c59f], the relevant authority must approve that appointment before an offer of appointment is made or, as the case may be, must approve that dismissal before notice of dismissal is given.
 >
-> (2) Where a committee or a sub-committee of the relevant authority is discharging, on behalf of the relevant authority, the function of the appointment or dismissal of any officer referred to in sub-paragraphs (a), (b), (c), (d), (h), or (i) of paragraph 3(1) or the function of dismissal of any officer referred to in paragraph 3(2)[^key-372af29f67319049172d2d3d9a7a6611]–
+> (2) Where a committee or a sub-committee of the relevant authority is discharging, on behalf of the relevant authority, the function of the appointment or dismissal of any officer referred to in sub-paragraphs (a), (b), (c), (d), (h), or (i) of paragraph 3(1) or the function of dismissal of any officer referred to in paragraph 3(2)[^c-372af29f67319049172d2d3d9a7a6611]–
 >
 > - (a) at least one member of the executive must be a member of that committee or sub-committee; and
 > - (b) not more than half the members of that committee or sub-committee are to be members of the executive of the relevant authority.
 >
 > **5.** Nothing in paragraph 2 prevents a person from serving as a member of any committee or sub-committee established by the relevant authority to consider an appeal by a member of staff of the relevant authority against any decision relating to the dismissal of, or taking disciplinary action against, that member of staff.
 >
-> **6.**[^key-1e63f77790330e7a72bc641ead33c932] The relevant authority must determine the level, and any change in the level, of the remuneration to be paid to a chief officer.
+> **6.**[^c-1e63f77790330e7a72bc641ead33c932] The relevant authority must determine the level, and any change in the level, of the remuneration to be paid to a chief officer.
 
 ### PART 2 — Authority with Leader and Cabinet Executive
 
@@ -365,27 +365,27 @@ Regulation 5(1) and 6
 > - “**member of staff**” (“***aelod o'r staff***”) means a person appointed to or holding a paid office or employment under the authority; and
 > - “**proper officer**” (“***swyddog priodol***”) means an officer appointed by the authority for the purposes of the provisions in this Part.
 >
-> **2.** Subject to paragraphs 3 and 5, the function of appointment and dismissal of, and taking disciplinary action against, a member of staff of the relevant authority must be discharged, on behalf of the relevant authority, by the person appointed as the authority’s chief executive or by an officer nominated by the authority’s chief executive[^key-7d16eb7d7fa075a1a57b0fbbfc28f119].
+> **2.** Subject to paragraphs 3 and 5, the function of appointment and dismissal of, and taking disciplinary action against, a member of staff of the relevant authority must be discharged, on behalf of the relevant authority, by the person appointed as the authority’s chief executive or by an officer nominated by the authority’s chief executive[^c-7d16eb7d7fa075a1a57b0fbbfc28f119].
 >
-> **3.** (1)[^key-d767051ad538f084e69341b607f85db7] Paragraph 2 does not apply to the appointment or dismissal of, or disciplinary action against–
+> **3.** (1)[^c-d767051ad538f084e69341b607f85db7] Paragraph 2 does not apply to the appointment or dismissal of, or disciplinary action against–
 >
-> - (a)[^key-6b300d2447cb21584c6ee56332451329] the person appointed as the authority’s chief executive;
+> - (a)[^c-6b300d2447cb21584c6ee56332451329] the person appointed as the authority’s chief executive;
 > - (b) a statutory chief officer within the meaning of section 2(6) of the 1989 Act [^c15937611] (politically restricted posts);
 > - (c) a non-statutory chief officer within the meaning of section 2(7) of the 1989 Act;
 > - (d) a deputy chief officer within the meaning of section 2(8) of the 1989 Act;
 > - (e) a person appointed in pursuance of section 9 of the 1989 Act [^c15937621] (assistants for political groups); or
-> - (f) a person to whom regulations made under section 35(4) and (5) (provision with respect to the appointment, discipline, suspension and dismissal of teachers and other staff of schools employed by the local authority[^key-9b967563b46155938b61d881c5b1e12b]) of the Education Act 2002 [^c15937631] apply;
-> - (g)[^key-9d69eca8f84f11d4e4a0710a42d3e4b7] the officer designated as the authority’s monitoring officer;
+> - (f) a person to whom regulations made under section 35(4) and (5) (provision with respect to the appointment, discipline, suspension and dismissal of teachers and other staff of schools employed by the local authority[^c-9b967563b46155938b61d881c5b1e12b]) of the Education Act 2002 [^c15937631] apply;
+> - (g)[^c-9d69eca8f84f11d4e4a0710a42d3e4b7] the officer designated as the authority’s monitoring officer;
 > - (h) the officer designated as the authority’s head of democratic services.
 >
-> (2)[^key-cab4e368e4654f5747a8d04f064b67fd] Paragraph 2 does not apply to dismissal of, or disciplinary action against, an officer in relation to whom disciplinary action is proposed—
+> (2)[^c-cab4e368e4654f5747a8d04f064b67fd] Paragraph 2 does not apply to dismissal of, or disciplinary action against, an officer in relation to whom disciplinary action is proposed—
 >
 > - (a) who was, but at the time of the proposed disciplinary action no longer is, an officer referred to in paragraph 3(1)(a) to (h); and
 > - (b) where the alleged misconduct, or, as the case may be, the reason for the proposal for dismissal, occurred during the period when the officer was an officer referred to in paragraph 3(1)(a) to (h).
 >
-> **4.** (1) Where a committee, sub-committee or officer is discharging, on behalf of the relevant authority, the function of the appointment or dismissal of a person appointed as the authority’s chief executive[^key-4e89f8eecf94c58b01fe6c3a6a01e532], the relevant authority must approve that appointment before an offer of appointment is made or, as the case may be, must approve that dismissal before notice of dismissal is given.
+> **4.** (1) Where a committee, sub-committee or officer is discharging, on behalf of the relevant authority, the function of the appointment or dismissal of a person appointed as the authority’s chief executive[^c-4e89f8eecf94c58b01fe6c3a6a01e532], the relevant authority must approve that appointment before an offer of appointment is made or, as the case may be, must approve that dismissal before notice of dismissal is given.
 >
-> (2) Where a committee or a sub-committee of the relevant authority is discharging, on behalf of the relevant authority, the function of the appointment or dismissal of any officer referred to in sub-paragraph (a), (b), (c), (d), (g), or (h) of paragraph 3(1) or the function of dismissal of any officer referred to in paragraph 3(2)[^key-bb38f9078de1bd646943f844baaacd19]–
+> (2) Where a committee or a sub-committee of the relevant authority is discharging, on behalf of the relevant authority, the function of the appointment or dismissal of any officer referred to in sub-paragraph (a), (b), (c), (d), (g), or (h) of paragraph 3(1) or the function of dismissal of any officer referred to in paragraph 3(2)[^c-bb38f9078de1bd646943f844baaacd19]–
 >
 > - (a) at least one member of the executive must be a member of that committee or sub-committee; and
 > - (b) not more than half of the members of that committee or sub-committee are to be members of the executive of the relevant authority.
@@ -395,21 +395,21 @@ Regulation 5(1) and 6
 > - (a) another person against any decision relating to the appointment of that other person as a member of staff of the relevant authority; or
 > - (b) a member of staff of the relevant authority against any decision relating to the dismissal of, or taking disciplinary action against, that member of staff.
 >
-> **6.**[^key-707d2303e4109210068d1c50cb3f276d] The relevant authority must determine the level, and any change in the level, of the remuneration to be paid to a chief officer.
+> **6.**[^c-707d2303e4109210068d1c50cb3f276d] The relevant authority must determine the level, and any change in the level, of the remuneration to be paid to a chief officer.
 
-### PART 3 — Authority with Mayor and Council Manager Executive[^key-241802fec1adcec606c3b071c044e23a]
+### PART 3 — Authority with Mayor and Council Manager Executive[^c-241802fec1adcec606c3b071c044e23a]
 
 **No longer in force.**
 
-[^key-241802fec1adcec606c3b071c044e23a]
+[^c-241802fec1adcec606c3b071c044e23a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Authority Operating Alternative Arrangements[^key-bead98c6ad0fecf822e6fae763e21f06]
+### PART 4 — Authority Operating Alternative Arrangements[^c-bead98c6ad0fecf822e6fae763e21f06]
 
 **No longer in force.**
 
-[^key-bead98c6ad0fecf822e6fae763e21f06]
+[^c-bead98c6ad0fecf822e6fae763e21f06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -419,11 +419,11 @@ Regulation 8
 
  
 
-> **1.** In paragraph 2, “**chief finance officer**” (“***prif swyddog cyllid***”),[^key-979c11b7fe24bff8d4ab7305a64cf69b]... “**disciplinary action**” (“***camau disgyblu***”), “[^key-13d01eab126925d64d06847eda9aa461]**chief executive**” (“***prif weithredwr***”) , “monitoring officer” (“[^key-c023ce745bbc4121fca788ba2ccbab56]*swyddog monitro*”) and “head of democratic services” (“*pennaeth gwasanaethau democrataidd*”), have the same meaning as in regulation 2 of the Local Authorities (Standing Orders) (Wales) Regulations 2006 and “**designated independent person**” (“***person annibynnol dynodedig***”) has the same meaning as in regulation 9 of those Regulations.
+> **1.** In paragraph 2, “**chief finance officer**” (“***prif swyddog cyllid***”),[^c-979c11b7fe24bff8d4ab7305a64cf69b]... “**disciplinary action**” (“***camau disgyblu***”), “[^c-13d01eab126925d64d06847eda9aa461]**chief executive**” (“***prif weithredwr***”) , “monitoring officer” (“[^c-c023ce745bbc4121fca788ba2ccbab56]*swyddog monitro*”) and “head of democratic services” (“*pennaeth gwasanaethau democrataidd*”), have the same meaning as in regulation 2 of the Local Authorities (Standing Orders) (Wales) Regulations 2006 and “**designated independent person**” (“***person annibynnol dynodedig***”) has the same meaning as in regulation 9 of those Regulations.
 >
-> **2.** (1)[^key-58957761b3c6d1b6320cde2dca587c1e] No disciplinary action (other than action to which paragraph 3 applies) in respect of the authority’s chief executive[^key-04dbe76ba132e921eadbdede16dde5e3] [^key-4bc7db584c496113923e5ffd081f009c]..., its monitoring officer , its chief finance officer, its head of democratic services or any officer referred to in sub-paragraph (2)[^key-709f08da2094d120486a176fc415b14c], may be taken by the relevant authority, or by a committee, a sub-committee, a joint committee on which the relevant authority is represented or any other person acting on behalf of the relevant authority, other than in accordance with a recommendation in a report made by a designated independent person under regulation 9 of the Local Authorities (Standing Orders) (Wales) Regulations 2006 (investigation of alleged misconduct).
+> **2.** (1)[^c-58957761b3c6d1b6320cde2dca587c1e] No disciplinary action (other than action to which paragraph 3 applies) in respect of the authority’s chief executive[^c-04dbe76ba132e921eadbdede16dde5e3] [^c-4bc7db584c496113923e5ffd081f009c]..., its monitoring officer , its chief finance officer, its head of democratic services or any officer referred to in sub-paragraph (2)[^c-709f08da2094d120486a176fc415b14c], may be taken by the relevant authority, or by a committee, a sub-committee, a joint committee on which the relevant authority is represented or any other person acting on behalf of the relevant authority, other than in accordance with a recommendation in a report made by a designated independent person under regulation 9 of the Local Authorities (Standing Orders) (Wales) Regulations 2006 (investigation of alleged misconduct).
 >
-> (2)[^key-921a3b01099dec33630f9253fc8a714d]  An officer in relation to whom disciplinary action is proposed where—
+> (2)[^c-921a3b01099dec33630f9253fc8a714d]  An officer in relation to whom disciplinary action is proposed where—
 >
 > - (a) the officer was, but at the time of the proposed disciplinary action no longer is, an officer referred to in sub-paragraph (1); and
 > - (b) the alleged misconduct or, as the case may be, the reason for the proposal for dismissal, occurred during the period when the officer was an officer referred to in sub-paragraph (1).
@@ -464,154 +464,154 @@ Regulation 11 contains transitional provisions in relation to existing standing 
 
 [^c15937461]: Marginal citation: [S.I. 1993/202](https://www.legislation.gov.uk/uksi/1993/202).
 
-[^key-31241c3756f3b4a531dbc64054d84434]: Textual amendment: Words in reg. 2 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/3/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-31241c3756f3b4a531dbc64054d84434]: Textual amendment: Words in reg. 2 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/3/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-a1feb8d2253cd638a8ffe598d0f94531]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1275/regulation/2) inserted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/2/c) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-a1feb8d2253cd638a8ffe598d0f94531]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1275/regulation/2) inserted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/2/c) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-5be450ad6aa5e8130508710b84276e59]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1275/regulation/2) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/2/a) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-5be450ad6aa5e8130508710b84276e59]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1275/regulation/2) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/2/a) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
 [^c15937471]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-a7d7751621d8733a6c70ea0d03af21ec]: Textual amendment: Words in reg. 2 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/3/b) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-a7d7751621d8733a6c70ea0d03af21ec]: Textual amendment: Words in reg. 2 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/3/b) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-dce5b5e3189f5255b2eb6cd36f80db08]: Textual amendment: Words in reg. 2 inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [3(d)(i)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/3/d/i) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-dce5b5e3189f5255b2eb6cd36f80db08]: Textual amendment: Words in reg. 2 inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [3(d)(i)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/3/d/i) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-9047d4262cd7e762c0744124111f5c96]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1275/regulation/2) omitted (5.5.2022) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/2/b) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-9047d4262cd7e762c0744124111f5c96]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1275/regulation/2) omitted (5.5.2022) by virtue of [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/2/b) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
 [^c15937481]: Marginal citation: Subsection (1) of section 5 (as amended).
 
-[^key-4e30f227f6e0a25ea2cf2ebb88954212]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1275/regulation/2) inserted (5.5.2017) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2017 (S.I. 2017/460)](https://www.legislation.gov.uk/wsi/2017/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/460/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2017/460/regulation/2/2)
+[^c-4e30f227f6e0a25ea2cf2ebb88954212]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1275/regulation/2) inserted (5.5.2017) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2017 (S.I. 2017/460)](https://www.legislation.gov.uk/wsi/2017/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/460/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2017/460/regulation/2/2)
 
-[^key-5afd5029755b8cf6466f29f344a938e3]: Textual amendment: Word in reg. 2 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [3(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/3/c) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-5afd5029755b8cf6466f29f344a938e3]: Textual amendment: Word in reg. 2 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [3(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/3/c) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-3bce101f2e8a44456aecf235296ac222]: Textual amendment: Words in reg. 2 inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [3(d)(ii)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/3/d/ii) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-3bce101f2e8a44456aecf235296ac222]: Textual amendment: Words in reg. 2 inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [3(d)(ii)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/3/d/ii) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
 [^c15937491]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-f10e6e86c11cfbcfeca1ec8117f0e400]: Textual amendment: Reg. 4A inserted (5.5.2017) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2017 (S.I. 2017/460)](https://www.legislation.gov.uk/wsi/2017/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/460/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2017/460/regulation/2/3)
+[^c-f10e6e86c11cfbcfeca1ec8117f0e400]: Textual amendment: Reg. 4A inserted (5.5.2017) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2017 (S.I. 2017/460)](https://www.legislation.gov.uk/wsi/2017/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/460/regulation/1/1), [2(3)](https://www.legislation.gov.uk/wsi/2017/460/regulation/2/3)
 
-[^key-d81806ed1afb53be78bfa6e988ec0f34]: Textual amendment: [Reg. 4A(3)(b)](https://www.legislation.gov.uk/wsi/2006/1275/regulation/4A/3/b) omitted (temp.) (22.4.2020) by virtue of [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [15(a)](https://www.legislation.gov.uk/wsi/2020/442/regulation/15/a)
+[^c-d81806ed1afb53be78bfa6e988ec0f34]: Textual amendment: [Reg. 4A(3)(b)](https://www.legislation.gov.uk/wsi/2006/1275/regulation/4A/3/b) omitted (temp.) (22.4.2020) by virtue of [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [15(a)](https://www.legislation.gov.uk/wsi/2020/442/regulation/15/a)
 
 [^c15937501]: Marginal citation: *See* paragraph 42 of Schedule 12 to the Local Government Act 1972.
 
-[^key-2610927424536611b326b447b9ad19a6]: Textual amendment: Reg. 5(1)(c) omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/4/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-2610927424536611b326b447b9ad19a6]: Textual amendment: Reg. 5(1)(c) omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/4/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-c4bc1c1d7dc639aa8415c40fa8ffc035]: Textual amendment: Words in reg. 5(1)(d) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/4/b) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-c4bc1c1d7dc639aa8415c40fa8ffc035]: Textual amendment: Words in reg. 5(1)(d) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/4/b) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-d7e67d74d10016ebec288d3ceff11e87]: Textual amendment: Words in reg. 5(2) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/4/c) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-d7e67d74d10016ebec288d3ceff11e87]: Textual amendment: Words in reg. 5(2) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/4/c) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-4e94520b0b4acdd431392fce86dae19a]: Textual amendment: Reg. 6 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2014/1514/regulation/5) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-4e94520b0b4acdd431392fce86dae19a]: Textual amendment: Reg. 6 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2014/1514/regulation/5) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-8daec58bd0bb02fb328b86ceff252cb9]: Textual amendment: Reg. 7 substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2014/1514/regulation/6) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-8daec58bd0bb02fb328b86ceff252cb9]: Textual amendment: Reg. 7 substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2014/1514/regulation/6) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-498eeefadd577314ca25b1eb15cc5b1e]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/wsi/2006/1275/regulation/7/2/a) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/3) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-498eeefadd577314ca25b1eb15cc5b1e]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/wsi/2006/1275/regulation/7/2/a) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/3) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-2d39ebc0d044c34c5fc1f6d82384495c]: Textual amendment: Reg. 8 renumbered as reg. 8(1) (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [7(1)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/7/1) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-2d39ebc0d044c34c5fc1f6d82384495c]: Textual amendment: Reg. 8 renumbered as reg. 8(1) (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [7(1)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/7/1) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-b10e0ec87e4c0b069ddab6cf51fc2970]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/wsi/2006/1275/regulation/8/1) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/4) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-b10e0ec87e4c0b069ddab6cf51fc2970]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/wsi/2006/1275/regulation/8/1) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/4) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-9717e2f203f4db20eed9f54dfaf2eb16]: Textual amendment: Words in reg. 8(1) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/7/2) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-9717e2f203f4db20eed9f54dfaf2eb16]: Textual amendment: Words in reg. 8(1) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/7/2) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-8919ffb104cc84bd8c5e375e235e817c]: Textual amendment: Reg. 8(2) inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/7/3) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-8919ffb104cc84bd8c5e375e235e817c]: Textual amendment: Reg. 8(2) inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/7/3) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-071bac67fa5ecb709f8e4ff24e8036b0]: Textual amendment: Reg. 9(1)(1A) substituted for reg. 9(1) (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/8/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-071bac67fa5ecb709f8e4ff24e8036b0]: Textual amendment: Reg. 9(1)(1A) substituted for reg. 9(1) (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/8/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-e8c4ff9af5bba97908a945f83e37de60]: Textual amendment: [Reg. 9(1A)(a)](https://www.legislation.gov.uk/wsi/2006/1275/regulation/9/1A/a) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/5) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-e8c4ff9af5bba97908a945f83e37de60]: Textual amendment: [Reg. 9(1A)(a)](https://www.legislation.gov.uk/wsi/2006/1275/regulation/9/1A/a) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/5) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-f1bf54f0ea630f5896037ac0f03b2e93]: Textual amendment: Words in reg. 9(5)(b) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/8/b) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-f1bf54f0ea630f5896037ac0f03b2e93]: Textual amendment: Words in reg. 9(5)(b) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/8/b) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-c8ed305d14c779bc4de71a6ffe6acbf0]: Textual amendment: Reg. 9(11) omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [8(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/8/c) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-c8ed305d14c779bc4de71a6ffe6acbf0]: Textual amendment: Reg. 9(11) omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [8(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/8/c) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-a294270f461c00920b3530a6f3fd94fd]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/wsi/2006/1275/regulation/11) revoked (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2022/355/regulation/10) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-a294270f461c00920b3530a6f3fd94fd]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/wsi/2006/1275/regulation/11) revoked (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2022/355/regulation/10) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
 [^c15937521]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-bb3c7958002f7729cce291deeedcb11f]: Textual amendment: Sch. 1 Pt. 1 para. 1 substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [9(1)(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/9/1/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-bb3c7958002f7729cce291deeedcb11f]: Textual amendment: Sch. 1 Pt. 1 para. 1 substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [9(1)(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/9/1/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
 [^M_F_4c2445d0-178c-4144-c642-1e72793ea271]: Textual amendment: Word in Sch. 1 Pt. 1 para. 2(1) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [9(1)(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/9/1/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
 [^M_F_fdd4aeff-81e6-4e1a-bfc3-e73058558b91]: Textual amendment: Word in Sch. 1 Pt. 1 para. 2(2) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [9(1)(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/9/1/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-7c93b9258ac36e776b6142a77350e2cc]: Textual amendment: Sch. 1 Pt. 2 para. 3(a) omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/9/2) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-7c93b9258ac36e776b6142a77350e2cc]: Textual amendment: Sch. 1 Pt. 2 para. 3(a) omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/9/2) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
 [^c15937531]: Marginal citation: Paragraph 41 is amended by paragraph 30 of Schedule 11 to the [Local Government and Housing Act 1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-3c81dee3baaeae08bb5f5739651901f3]: Textual amendment: Sch. 2A inserted (5.5.2017) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2017 (S.I. 2017/460)](https://www.legislation.gov.uk/wsi/2017/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/460/regulation/1/1), [2(4)](https://www.legislation.gov.uk/wsi/2017/460/regulation/2/4)
+[^c-3c81dee3baaeae08bb5f5739651901f3]: Textual amendment: Sch. 2A inserted (5.5.2017) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2017 (S.I. 2017/460)](https://www.legislation.gov.uk/wsi/2017/460), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/460/regulation/1/1), [2(4)](https://www.legislation.gov.uk/wsi/2017/460/regulation/2/4)
 
-[^key-631cd9aeb8d9cadbc3c3f453df0bf3e8]: Textual amendment: [Sch. 2A para. 2](https://www.legislation.gov.uk/wsi/2006/1275/schedule/2A/paragraph/2) omitted (temp.) (22.4.2020) by virtue of [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [15(b)](https://www.legislation.gov.uk/wsi/2020/442/regulation/15/b)
+[^c-631cd9aeb8d9cadbc3c3f453df0bf3e8]: Textual amendment: [Sch. 2A para. 2](https://www.legislation.gov.uk/wsi/2006/1275/schedule/2A/paragraph/2) omitted (temp.) (22.4.2020) by virtue of [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [15(b)](https://www.legislation.gov.uk/wsi/2020/442/regulation/15/b)
 
 [^c15937541]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
 [^c15937551]: Marginal citation: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-4fb31b02d3f346703c31956e2e722c28]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2006/1275/schedule/3/part/1) para. 2 substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/6/a) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-4fb31b02d3f346703c31956e2e722c28]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2006/1275/schedule/3/part/1) para. 2 substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/6/a) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-de36d93589f8681a7b4c5f406134f3b4]: Textual amendment: Sch. 3 Pt. 1 para. 3 renumbered as Sch. 3 Pt. 1 para. 3(1) (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(1)(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/1/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-de36d93589f8681a7b4c5f406134f3b4]: Textual amendment: Sch. 3 Pt. 1 para. 3 renumbered as Sch. 3 Pt. 1 para. 3(1) (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(1)(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/1/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-dbafb39a78ebdc72cf83129d9974d94c]: Textual amendment: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2006/1275/schedule/3/part/1) para. 3(1)(a) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/6/b) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-dbafb39a78ebdc72cf83129d9974d94c]: Textual amendment: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2006/1275/schedule/3/part/1) para. 3(1)(a) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/6/b) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
 [^c15937561]: Marginal citation: Section 2(6) was amended by paragraph 95 of Schedule 37 to the [Education Act 1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56), [paragraph 3(a)](https://www.legislation.gov.uk/ukpga/1996/56/paragraph/3/a), (b) and (c) of Schedule 2 to the [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), and Schedule 2 to the [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21).
 
 [^c15937571]: Marginal citation: There are amendments to section 9 which are not relevant to these Regulations.
 
-[^key-d20f9e7439633ca9a40e6228aa8a1dcc]: Textual amendment: Words in Sch. 3 Pt. 1 para. 3(g) substituted (5.5.2010) by [The Local Education Authorities and Childrens Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/uksi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1142/article/1/1), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/uksi/2010/1142/schedule/2/paragraph/18/2)
+[^c-d20f9e7439633ca9a40e6228aa8a1dcc]: Textual amendment: Words in Sch. 3 Pt. 1 para. 3(g) substituted (5.5.2010) by [The Local Education Authorities and Childrens Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/uksi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1142/article/1/1), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/uksi/2010/1142/schedule/2/paragraph/18/2)
 
 [^c15937581]: Marginal citation: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-9e6c8e1b3a9c9e27d8ad2ccca81d76dc]: Textual amendment: Sch. 3 Pt. 1 para. 3(1)(h)(i) inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(1)(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/1/b) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-9e6c8e1b3a9c9e27d8ad2ccca81d76dc]: Textual amendment: Sch. 3 Pt. 1 para. 3(1)(h)(i) inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(1)(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/1/b) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-278fe428e100082cb7ede910b227f65a]: Textual amendment: Sch. 3 Pt. 1 para. 3(2) inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(1)(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/1/c) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-278fe428e100082cb7ede910b227f65a]: Textual amendment: Sch. 3 Pt. 1 para. 3(2) inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(1)(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/1/c) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-5e30495149be0fe84f967c85d308c59f]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2006/1275/schedule/3/part/1) para. 4(1) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/6/c) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-5e30495149be0fe84f967c85d308c59f]: Textual amendment: Words in [Sch. 3 Pt. 1](https://www.legislation.gov.uk/wsi/2006/1275/schedule/3/part/1) para. 4(1) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/6/c) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-372af29f67319049172d2d3d9a7a6611]: Textual amendment: Words in Sch. 3 Pt. 1 para. 4(2) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(1)(d)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/1/d) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-372af29f67319049172d2d3d9a7a6611]: Textual amendment: Words in Sch. 3 Pt. 1 para. 4(2) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(1)(d)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/1/d) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-1e63f77790330e7a72bc641ead33c932]: Textual amendment: Sch. 3 para. 6 inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(1)(e)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/1/e) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-1e63f77790330e7a72bc641ead33c932]: Textual amendment: Sch. 3 para. 6 inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(1)(e)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/1/e) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
 [^c15937591]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
 [^c15937601]: Marginal citation: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-7d16eb7d7fa075a1a57b0fbbfc28f119]: Textual amendment: Words in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/wsi/2006/1275/schedule/3/part/2) para. 2 substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(7)(a)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/7/a) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-7d16eb7d7fa075a1a57b0fbbfc28f119]: Textual amendment: Words in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/wsi/2006/1275/schedule/3/part/2) para. 2 substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(7)(a)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/7/a) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-d767051ad538f084e69341b607f85db7]: Textual amendment: Sch. 3 Pt. 2 para. 3 renumbered as Sch. 3 Pt. 2 para. 3(1) (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/2/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-d767051ad538f084e69341b607f85db7]: Textual amendment: Sch. 3 Pt. 2 para. 3 renumbered as Sch. 3 Pt. 2 para. 3(1) (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(2)(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/2/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-6b300d2447cb21584c6ee56332451329]: Textual amendment: [Words in Sch. 3 Pt. 2](https://www.legislation.gov.uk/wsi/2006/1275/schedule/3/part/2) para. 3(1)(a) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/7/b) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-6b300d2447cb21584c6ee56332451329]: Textual amendment: [Words in Sch. 3 Pt. 2](https://www.legislation.gov.uk/wsi/2006/1275/schedule/3/part/2) para. 3(1)(a) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/7/b) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
 [^c15937611]: Marginal citation: Section 2(6) was amended by paragraph 95 of Schedule 37 to the [Education Act 1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56), [paragraph 3(a)](https://www.legislation.gov.uk/ukpga/1996/56/paragraph/3/a), (b) and (c) of Schedule 2 to the [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), and Schedule 2 to the [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21).
 
 [^c15937621]: Marginal citation: There are amendments to section 9 which are not relevant to these Regulations.
 
-[^key-9b967563b46155938b61d881c5b1e12b]: Textual amendment: Words in Sch. 3 Pt. 2 para. 3(f) substituted (5.5.2010) by [The Local Education Authorities and Childrens Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/uksi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1142/article/1/1), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/uksi/2010/1142/schedule/2/paragraph/18/2)
+[^c-9b967563b46155938b61d881c5b1e12b]: Textual amendment: Words in Sch. 3 Pt. 2 para. 3(f) substituted (5.5.2010) by [The Local Education Authorities and Childrens Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/uksi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1142/article/1/1), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/uksi/2010/1142/schedule/2/paragraph/18/2)
 
 [^c15937631]: Marginal citation: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-9d69eca8f84f11d4e4a0710a42d3e4b7]: Textual amendment: Sch. 3 Pt. 2 para. 3(1)(g)(h) inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/2/b) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-9d69eca8f84f11d4e4a0710a42d3e4b7]: Textual amendment: Sch. 3 Pt. 2 para. 3(1)(g)(h) inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(2)(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/2/b) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-cab4e368e4654f5747a8d04f064b67fd]: Textual amendment: Sch. 3 Pt. 2 para. 3(2) inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(2)(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/2/c) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-cab4e368e4654f5747a8d04f064b67fd]: Textual amendment: Sch. 3 Pt. 2 para. 3(2) inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(2)(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/2/c) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-4e89f8eecf94c58b01fe6c3a6a01e532]: Textual amendment: Words in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/wsi/2006/1275/schedule/3/part/2) para. 4(1) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(7)(c)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/7/c) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-4e89f8eecf94c58b01fe6c3a6a01e532]: Textual amendment: Words in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/wsi/2006/1275/schedule/3/part/2) para. 4(1) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(7)(c)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/7/c) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-bb38f9078de1bd646943f844baaacd19]: Textual amendment: Words in Sch. 3 Pt. 2 para. 4(2) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(2)(d)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/2/d) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-bb38f9078de1bd646943f844baaacd19]: Textual amendment: Words in Sch. 3 Pt. 2 para. 4(2) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(2)(d)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/2/d) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-707d2303e4109210068d1c50cb3f276d]: Textual amendment: Sch. 3 para. 6 inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(2)(e)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/2/e) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-707d2303e4109210068d1c50cb3f276d]: Textual amendment: Sch. 3 para. 6 inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(2)(e)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/2/e) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-241802fec1adcec606c3b071c044e23a]: Textual amendment: Sch. 3 Pt. 3 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/3) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-241802fec1adcec606c3b071c044e23a]: Textual amendment: Sch. 3 Pt. 3 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/3) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-bead98c6ad0fecf822e6fae763e21f06]: Textual amendment: Sch. 3 Pt. 4 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/3) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-bead98c6ad0fecf822e6fae763e21f06]: Textual amendment: Sch. 3 Pt. 4 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/10/3) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-979c11b7fe24bff8d4ab7305a64cf69b]: Textual amendment: Words in Sch. 4 para. 1 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [11(1)(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/11/1/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-979c11b7fe24bff8d4ab7305a64cf69b]: Textual amendment: Words in Sch. 4 para. 1 omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [11(1)(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/11/1/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-13d01eab126925d64d06847eda9aa461]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2006/1275/schedule/4) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/8/a) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-13d01eab126925d64d06847eda9aa461]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2006/1275/schedule/4) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/8/a) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-c023ce745bbc4121fca788ba2ccbab56]: Textual amendment: Words in Sch. 4 para. 1 substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [11(1)(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/11/1/b) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-c023ce745bbc4121fca788ba2ccbab56]: Textual amendment: Words in Sch. 4 para. 1 substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [11(1)(b)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/11/1/b) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-58957761b3c6d1b6320cde2dca587c1e]: Textual amendment: Sch. 4 para. 2 renumbered as Sch. 4 para. 2(1) (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/11/2/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-58957761b3c6d1b6320cde2dca587c1e]: Textual amendment: Sch. 4 para. 2 renumbered as Sch. 4 para. 2(1) (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/11/2/a) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-04dbe76ba132e921eadbdede16dde5e3]: Textual amendment: Words in [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/wsi/2006/1275/schedule/4) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/8/b) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
+[^c-04dbe76ba132e921eadbdede16dde5e3]: Textual amendment: Words in [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/wsi/2006/1275/schedule/4) substituted (5.5.2022) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments and Transitional Provision) (Chief Executives) Regulations 2022 (S.I. 2022/355)](https://www.legislation.gov.uk/wsi/2022/355), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/355/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/wsi/2022/355/regulation/3/8/b) (with [reg. 9](https://www.legislation.gov.uk/wsi/2022/355/regulation/9))
 
-[^key-4bc7db584c496113923e5ffd081f009c]: Textual amendment: Words in Sch. 4 para. 2(1) omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [11(2)(b)(i)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/11/2/b/i) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-4bc7db584c496113923e5ffd081f009c]: Textual amendment: Words in Sch. 4 para. 2(1) omitted (1.7.2014) by virtue of [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [11(2)(b)(i)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/11/2/b/i) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-709f08da2094d120486a176fc415b14c]: Textual amendment: Words in Sch. 4 para. 2(1) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [11(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/11/2/b/ii) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-709f08da2094d120486a176fc415b14c]: Textual amendment: Words in Sch. 4 para. 2(1) substituted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [11(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/11/2/b/ii) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
 
-[^key-921a3b01099dec33630f9253fc8a714d]: Textual amendment: Sch. 4 para. 2(2) inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [11(2)(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/11/2/c) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))
+[^c-921a3b01099dec33630f9253fc8a714d]: Textual amendment: Sch. 4 para. 2(2) inserted (1.7.2014) by [The Local Authorities (Standing Orders) (Wales) (Amendment) Regulations 2014 (S.I. 2014/1514)](https://www.legislation.gov.uk/wsi/2014/1514), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/1/2), [11(2)(c)](https://www.legislation.gov.uk/wsi/2014/1514/regulation/11/2/c) (with [reg. 12](https://www.legislation.gov.uk/wsi/2014/1514/regulation/12))

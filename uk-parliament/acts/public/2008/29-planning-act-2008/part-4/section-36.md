@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Amendments consequential on development consent regime[^key-d521bb93be1cfa8a50fae7e3126e597e]
+## 36. Amendments consequential on development consent regime[^c-d521bb93be1cfa8a50fae7e3126e597e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 2 makes amendments consequential on the development consent regime.
 
 ## Annotations
 
-[^key-d521bb93be1cfa8a50fae7e3126e597e]: Commencement: S. 36 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-d521bb93be1cfa8a50fae7e3126e597e]: Commencement: S. 36 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Amendment of regulation 85[^key-7dce0631ca53753648baacacd2525376]
+## 38. Amendment of regulation 85[^c-7dce0631ca53753648baacacd2525376]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ In regulation 85[^f00056], for paragraph (1) substitute—
 
 ## Annotations
 
-[^key-7dce0631ca53753648baacacd2525376]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2006/2910/regulation/38) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-7dce0631ca53753648baacacd2525376]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2006/2910/regulation/38) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00056]: Footnote: Regulation 85 was amended by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871).
 

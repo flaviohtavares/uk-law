@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Powers to take material in relation to offences[^key-28940fcc12bf3e1bfefca473a47fff87]
+## 2. Powers to take material in relation to offences[^c-28940fcc12bf3e1bfefca473a47fff87]
 
 *Extent: E+W*
 
@@ -123,4 +123,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28940fcc12bf3e1bfefca473a47fff87]: Commencement: S. 2 in force at 7.3.2011 by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
+[^c-28940fcc12bf3e1bfefca473a47fff87]: Commencement: S. 2 in force at 7.3.2011 by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)

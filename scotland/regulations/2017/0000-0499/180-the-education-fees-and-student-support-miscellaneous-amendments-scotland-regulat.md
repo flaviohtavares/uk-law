@@ -46,15 +46,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 49(3), 73(f), 73B and 74(1) of the Education (Scotland) Act 1980[^f00001], section 1 of the Education (Fees and Awards) Act 1983[^f00002] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-ee59b45c9862011bbe5172405664088a]
+## 1. Citation and commencement[^c-ee59b45c9862011bbe5172405664088a]
 
 These Regulations may be cited as the Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2017 and come into force on 1st August 2017.
 
-## 2. Amendment of the Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006[^key-ae9fb7c6f105e806d5893e02811a8a54]
+## 2. Amendment of the Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006[^c-ae9fb7c6f105e806d5893e02811a8a54]
 
 The Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006[^f00003] are amended in accordance with regulations 3 to 6.
 
-**3.**[^key-fe2231650b597382644a261827e1f618] In regulation 2 (interpretation)—
+**3.**[^c-fe2231650b597382644a261827e1f618] In regulation 2 (interpretation)—
 
 - (a) in paragraph (1) omit the definition “child of such a national”;
 - (b) for paragraph (4) substitute—
@@ -90,13 +90,13 @@ The Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006[^f000
 
   .
 
-**4.**[^key-134ae4039f49cc43ec8cea49aaf8552e] For regulation 4(9) (designated courses), substitute—
+**4.**[^c-134ae4039f49cc43ec8cea49aaf8552e] For regulation 4(9) (designated courses), substitute—
 
 > (9) Where a course of education is not designated under paragraph (1), the Scottish Ministers may determine that the course is designated for the purposes of regulation 3(2) by reference to that particular course of education or to a particular category of courses of education.
 
 .
 
-**5.**[^key-af4b60ff922bb4819263a1eadc5638c5] For paragraph 1(c) of schedule 1 (eligible students), substitute—
+**5.**[^c-af4b60ff922bb4819263a1eadc5638c5] For paragraph 1(c) of schedule 1 (eligible students), substitute—
 
 > - (c) is—
 >   - (i) settled in the United Kingdom within the meaning given by section 33(2A)[^f00004] of the Immigration Act 1971 on the first day of the first academic year of the course;
@@ -105,13 +105,13 @@ The Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006[^f000
 
 .
 
-**6.**[^key-8f08ad5b351d9a111dbed8dbd7377ec0] After paragraph 9 of schedule 2 (designated courses) insert—
+**6.**[^c-8f08ad5b351d9a111dbed8dbd7377ec0] After paragraph 9 of schedule 2 (designated courses) insert—
 
 > **10.** A course for the Certificate of Higher Education.
 
 .
 
-## 7. Amendment of the Education Authority Bursaries (Scotland) Regulations 2007[^key-14b3776a94d28e7283acc94723efb0ad]
+## 7. Amendment of the Education Authority Bursaries (Scotland) Regulations 2007[^c-14b3776a94d28e7283acc94723efb0ad]
 
 For paragraph 1(c) of Schedule 1 (persons eligible for bursaries) of the Education Authority Bursaries (Scotland) Regulations 2007[^f00005], substitute—
 
@@ -122,11 +122,11 @@ For paragraph 1(c) of Schedule 1 (persons eligible for bursaries) of the Educati
 
 .
 
-## 8. Amendment of the Nursing and Midwifery Student Allowances (Scotland) Regulations 2007[^key-783c9ba2a97e40a3120e92bde81a0d45]
+## 8. Amendment of the Nursing and Midwifery Student Allowances (Scotland) Regulations 2007[^c-783c9ba2a97e40a3120e92bde81a0d45]
 
 The Nursing and Midwifery Student Allowances (Scotland) Regulations 2007[^f00006] are amended in accordance with regulations 9 to 11.
 
-**9.**[^key-72a1bc2adaca708756f6d15f3683df95] After regulation 3(1)(persons eligible for allowance), insert—
+**9.**[^c-72a1bc2adaca708756f6d15f3683df95] After regulation 3(1)(persons eligible for allowance), insert—
 
 > (1A) In paying an allowance under paragraph (1), the Scottish Ministers may determine to—
 >
@@ -135,15 +135,15 @@ The Nursing and Midwifery Student Allowances (Scotland) Regulations 2007[^f00006
 
 .
 
-**10.**[^key-aed709488b47d96067155764d79b131f] (1) In schedule 1 (persons eligible for allowances)—
+**10.**[^c-aed709488b47d96067155764d79b131f] (1) In schedule 1 (persons eligible for allowances)—
 
 - (a) in paragraphs 1(a), 7(c), 8(1)(b) and 10(c), for “the United Kingdom and Islands”, substitute “Scotland”;
-- (b) in paragraphs 2(1)(c), 3(1)(c), 5(b)[^key-aadb7c8c0d065eb16b98215209bcfae2], 6(a)(iii) and (b)[^key-a125b00bf069d508c3d16151ae8c9419], 6A(a)(iii) and (b), and 6B(a)(iii) and (b), for “the United Kingdom”, substitute “Scotland”; and
+- (b) in paragraphs 2(1)(c), 3(1)(c), 5(b)[^c-aadb7c8c0d065eb16b98215209bcfae2], 6(a)(iii) and (b)[^c-a125b00bf069d508c3d16151ae8c9419], 6A(a)(iii) and (b), and 6B(a)(iii) and (b), for “the United Kingdom”, substitute “Scotland”; and
 - (c) in paragraph 4(1)(b), before “was settled in the United Kingdom” insert “was ordinarily resident in Scotland (and the Scottish Ministers are satisfied that such residence was not in any sense attributable to, or connected with, any period of residence in Scotland within the 3 years immediately preceding in respect of which any part of its purpose was wholly or mainly that of receiving full time education) and”.
 
 (2) In paragraph 1(1) and (2) of schedule 2 (ordinary residence), for “the United Kingdom”, wherever it occurs, substitute “Scotland”.
 
-**11.**[^key-521de76cd45aa35557ebafe4ae4a6dac] For paragraph 1(c) of schedule 1 (persons eligible for allowances), substitute—
+**11.**[^c-521de76cd45aa35557ebafe4ae4a6dac] For paragraph 1(c) of schedule 1 (persons eligible for allowances), substitute—
 
 > - (c) is—
 >   - (i) settled in the United Kingdom within the meaning given by section 33(2A) of the Immigration Act 1971 on the relevant date;
@@ -152,11 +152,11 @@ The Nursing and Midwifery Student Allowances (Scotland) Regulations 2007[^f00006
 
 .
 
-## 12. Amendment of the Students’ Allowances (Scotland) Regulations 2007[^key-d980773a5653e9b35e33304ec8592ad7]
+## 12. Amendment of the Students’ Allowances (Scotland) Regulations 2007[^c-d980773a5653e9b35e33304ec8592ad7]
 
 The Students’ Allowances (Scotland) Regulations 2007[^f00007] are amended in accordance with regulations 13 and 14.
 
-**13.**[^key-96578e05396f745329d74ca42d7f4c91] After regulation 3(1) (persons eligible for allowances), insert—
+**13.**[^c-96578e05396f745329d74ca42d7f4c91] After regulation 3(1) (persons eligible for allowances), insert—
 
 > (1A) In paying an allowance under paragraph (1), the Scottish Ministers may determine to—
 >
@@ -165,7 +165,7 @@ The Students’ Allowances (Scotland) Regulations 2007[^f00007] are amended in a
 
 .
 
-**14.**[^key-5eb571214687a4b3f3135f6ea58cc580] For paragraph 1(c) of schedule 1 (persons eligible for allowances), substitute—
+**14.**[^c-5eb571214687a4b3f3135f6ea58cc580] For paragraph 1(c) of schedule 1 (persons eligible for allowances), substitute—
 
 > - (c) is—
 >   - (i) settled in the United Kingdom within the meaning given by section 33(2A) of the Immigration Act 1971 on the relevant date;
@@ -174,11 +174,11 @@ The Students’ Allowances (Scotland) Regulations 2007[^f00007] are amended in a
 
 .
 
-## 15. Amendment of the Education (Student Loans) (Scotland) Regulations 2007[^key-a929ecc57d1af81b597973491b516ec9]
+## 15. Amendment of the Education (Student Loans) (Scotland) Regulations 2007[^c-a929ecc57d1af81b597973491b516ec9]
 
 The Education (Student Loans) (Scotland) Regulations 2007[^f00008] are amended in accordance with regulations 16 to 20.
 
-**16.**[^key-faaac9fa36e8a505108d7073772f8910] In regulation 2 (interpretation)—
+**16.**[^c-faaac9fa36e8a505108d7073772f8910] In regulation 2 (interpretation)—
 
 - (a) for paragraph (4) substitute—
 
@@ -213,13 +213,13 @@ The Education (Student Loans) (Scotland) Regulations 2007[^f00008] are amended i
 
   .
 
-**17.**[^key-73ec0fd8cc8220f622a616acc1c8ad3c] For regulation 4(9) (designated courses), substitute—
+**17.**[^c-73ec0fd8cc8220f622a616acc1c8ad3c] For regulation 4(9) (designated courses), substitute—
 
 > (9) Where a course of education is not designated under paragraph (1), the Scottish Ministers may determine that the course is designated for the purposes of regulation 3(2) by reference to that particular course of education or to a particular category of courses of education.
 
 .
 
-**18.**[^key-6735420b5ff6f1f7d4c4100baa31fe5e] After regulation 3(2)(d)(ii) (eligible students), insert—
+**18.**[^c-6735420b5ff6f1f7d4c4100baa31fe5e] After regulation 3(2)(d)(ii) (eligible students), insert—
 
 > or
 >
@@ -227,7 +227,7 @@ The Education (Student Loans) (Scotland) Regulations 2007[^f00008] are amended i
 
 .
 
-**19.**[^key-2e721bc19dc0e7e6ae9f186eae249411] For paragraph 1(c) of schedule 1 (eligible students), substitute—
+**19.**[^c-2e721bc19dc0e7e6ae9f186eae249411] For paragraph 1(c) of schedule 1 (eligible students), substitute—
 
 > - (c) is—
 >   - (i) settled in the United Kingdom within the meaning given by section 33(2A) of the Immigration Act 1971 on the first day of the first academic year of the course;
@@ -236,19 +236,19 @@ The Education (Student Loans) (Scotland) Regulations 2007[^f00008] are amended i
 
 .
 
-**20.**[^key-3621119be4d29f297f61d1b486ff8de0] After paragraph 9 of schedule 2 (designated courses) insert—
+**20.**[^c-3621119be4d29f297f61d1b486ff8de0] After paragraph 9 of schedule 2 (designated courses) insert—
 
 > **10.** A course for the Certificate of Higher Education.
 
 .
 
-## 21. Amendment of the Education Maintenance Allowances (Scotland) Regulations 2007[^key-c363317bb58d7af3d60286d74a4cc488]
+## 21. Amendment of the Education Maintenance Allowances (Scotland) Regulations 2007[^c-c363317bb58d7af3d60286d74a4cc488]
 
 The Education Maintenance Allowances (Scotland) Regulations 2007[^f00009] are amended in accordance with regulations 22 and 23.
 
-**22.**[^key-c2ea002f4904435525bb2c1ac2dc2533] In regulation 2(2) and (3)[^key-dd333d88429a2b9d4878472f152de52f] (interpretation) for “paragraphs (1)(a)” substitute “paragraphs 1(a)”.
+**22.**[^c-c2ea002f4904435525bb2c1ac2dc2533] In regulation 2(2) and (3)[^c-dd333d88429a2b9d4878472f152de52f] (interpretation) for “paragraphs (1)(a)” substitute “paragraphs 1(a)”.
 
-**23.**[^key-1193415d71fb0269f7bf9380788f2d1e] For paragraph 1(c) of schedule 1 (persons eligible for education maintenance allowances), substitute—
+**23.**[^c-1193415d71fb0269f7bf9380788f2d1e] For paragraph 1(c) of schedule 1 (persons eligible for education maintenance allowances), substitute—
 
 > - (c) is—
 >   - (i) settled in the United Kingdom within the meaning given by section 33(2A) of the Immigration Act 1971 on the qualifying date;
@@ -257,7 +257,7 @@ The Education Maintenance Allowances (Scotland) Regulations 2007[^f00009] are am
 
 .
 
-## 24. Amendment of the Education (Fees) (Scotland) Regulations 2011[^key-a778942abd980597ad1e1cc5407dedf5]
+## 24. Amendment of the Education (Fees) (Scotland) Regulations 2011[^c-a778942abd980597ad1e1cc5407dedf5]
 
 For regulation 3(c) (relevant connection with Scotland) of the Education (Fees) (Scotland) Regulations 2011[^f00010] substitute—
 
@@ -312,72 +312,72 @@ Regulation 22 corrects a minor error in the EMA Regulations.
 
 [^f00002]: Footnote: [1983 c.40](https://www.legislation.gov.uk/ukpga/1983/40). Section 1 was relevantly amended by the Education Reform Act [1988 (c.40)](https://www.legislation.gov.uk/ukpga/1988/40), section 237(1) and schedule 12, paragraph 91; by the Further and Higher Education Act [1992 (c.13)](https://www.legislation.gov.uk/ukpga/1992/13), section 93(1) and schedule 8, paragraph 19; and by the Further and Higher Education (Scotland) Act [1992 (c.37)](https://www.legislation.gov.uk/ukpga/1992/37), section 62(2) and schedule 9, paragraph 8. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act.
 
-[^key-ee59b45c9862011bbe5172405664088a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-ee59b45c9862011bbe5172405664088a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-ae9fb7c6f105e806d5893e02811a8a54]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/180/regulation/2) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-ae9fb7c6f105e806d5893e02811a8a54]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/180/regulation/2) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 2006/333](https://www.legislation.gov.uk/ssi/2006/333), amended by [S.S.I. 2007/158](https://www.legislation.gov.uk/ssi/2007/158) and [503](https://www.legislation.gov.uk/ssi/2007/503), [2009/188](https://www.legislation.gov.uk/ssi/2009/188), [189](https://www.legislation.gov.uk/ssi/2009/189) and [309](https://www.legislation.gov.uk/ssi/2009/309), [2010/300](https://www.legislation.gov.uk/ssi/2010/300), [2012/72](https://www.legislation.gov.uk/ssi/2012/72), [2013/80](https://www.legislation.gov.uk/ssi/2013/80), [2016/82](https://www.legislation.gov.uk/ssi/2016/82) and [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010).
 
-[^key-fe2231650b597382644a261827e1f618]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/180/regulation/3) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-fe2231650b597382644a261827e1f618]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/180/regulation/3) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-134ae4039f49cc43ec8cea49aaf8552e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/180/regulation/4) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-134ae4039f49cc43ec8cea49aaf8552e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/180/regulation/4) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-af4b60ff922bb4819263a1eadc5638c5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/180/regulation/5) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-af4b60ff922bb4819263a1eadc5638c5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/180/regulation/5) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
 [^f00004]: Footnote: Section 33(2A) was inserted by the British Nationality Act [1981 (c.61)](https://www.legislation.gov.uk/ukpga/1981/61), schedule 4, paragraph 7.
 
-[^key-8f08ad5b351d9a111dbed8dbd7377ec0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/180/regulation/6) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-8f08ad5b351d9a111dbed8dbd7377ec0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/180/regulation/6) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-14b3776a94d28e7283acc94723efb0ad]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2017/180/regulation/7) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-14b3776a94d28e7283acc94723efb0ad]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2017/180/regulation/7) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
 [^f00005]: Footnote: [S.S.I. 2007/149](https://www.legislation.gov.uk/ssi/2007/149), amended by [S.S.I. 2007/503](https://www.legislation.gov.uk/ssi/2007/503), [2009/188](https://www.legislation.gov.uk/ssi/2009/188) and [309](https://www.legislation.gov.uk/ssi/2009/309), [2012/72](https://www.legislation.gov.uk/ssi/2012/72), [2013/80](https://www.legislation.gov.uk/ssi/2013/80) and [2016/82](https://www.legislation.gov.uk/ssi/2016/82).
 
-[^key-783c9ba2a97e40a3120e92bde81a0d45]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/180/regulation/8) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-783c9ba2a97e40a3120e92bde81a0d45]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/180/regulation/8) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
 [^f00006]: Footnote: [S.S.I. 2007/151](https://www.legislation.gov.uk/ssi/2007/151), amended by [S.S.I. 2007/503](https://www.legislation.gov.uk/ssi/2007/503), [2008/206](https://www.legislation.gov.uk/ssi/2008/206), [2009/188](https://www.legislation.gov.uk/ssi/2009/188) and [309](https://www.legislation.gov.uk/ssi/2009/309), [2012/72](https://www.legislation.gov.uk/ssi/2012/72), [2013/80](https://www.legislation.gov.uk/ssi/2013/80) and [2016/82](https://www.legislation.gov.uk/ssi/2016/82).
 
-[^key-72a1bc2adaca708756f6d15f3683df95]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2017/180/regulation/9) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-72a1bc2adaca708756f6d15f3683df95]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2017/180/regulation/9) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-aed709488b47d96067155764d79b131f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2017/180/regulation/10) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-aed709488b47d96067155764d79b131f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2017/180/regulation/10) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-aadb7c8c0d065eb16b98215209bcfae2]: Textual amendment: Word in [reg. 10(1)(b)](https://www.legislation.gov.uk/ssi/2017/180/regulation/10/1/b) substituted (1.8.2018) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/171)](https://www.legislation.gov.uk/ssi/2018/171), [regs. 1](https://www.legislation.gov.uk/ssi/2018/171/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2018/171/regulation/9/2/a)
+[^c-aadb7c8c0d065eb16b98215209bcfae2]: Textual amendment: Word in [reg. 10(1)(b)](https://www.legislation.gov.uk/ssi/2017/180/regulation/10/1/b) substituted (1.8.2018) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/171)](https://www.legislation.gov.uk/ssi/2018/171), [regs. 1](https://www.legislation.gov.uk/ssi/2018/171/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2018/171/regulation/9/2/a)
 
-[^key-a125b00bf069d508c3d16151ae8c9419]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/ssi/2017/180/regulation/10/1/b) substituted (1.8.2018) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/171)](https://www.legislation.gov.uk/ssi/2018/171), [regs. 1](https://www.legislation.gov.uk/ssi/2018/171/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2018/171/regulation/9/2/a)
+[^c-a125b00bf069d508c3d16151ae8c9419]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/ssi/2017/180/regulation/10/1/b) substituted (1.8.2018) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/171)](https://www.legislation.gov.uk/ssi/2018/171), [regs. 1](https://www.legislation.gov.uk/ssi/2018/171/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2018/171/regulation/9/2/a)
 
-[^key-521de76cd45aa35557ebafe4ae4a6dac]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2017/180/regulation/11) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-521de76cd45aa35557ebafe4ae4a6dac]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2017/180/regulation/11) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-d980773a5653e9b35e33304ec8592ad7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2017/180/regulation/12) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-d980773a5653e9b35e33304ec8592ad7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2017/180/regulation/12) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
 [^f00007]: Footnote: [S.S.I. 2007/153](https://www.legislation.gov.uk/ssi/2007/153), amended by [S.S.I. 2007/503](https://www.legislation.gov.uk/ssi/2007/503), [2008/206](https://www.legislation.gov.uk/ssi/2008/206), [2009/188](https://www.legislation.gov.uk/ssi/2009/188) and [309](https://www.legislation.gov.uk/ssi/2009/309), [2012/72](https://www.legislation.gov.uk/ssi/2012/72), [2013/80](https://www.legislation.gov.uk/ssi/2013/80) and [2016/82](https://www.legislation.gov.uk/ssi/2016/82).
 
-[^key-96578e05396f745329d74ca42d7f4c91]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2017/180/regulation/13) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-96578e05396f745329d74ca42d7f4c91]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2017/180/regulation/13) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-5eb571214687a4b3f3135f6ea58cc580]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/180/regulation/14) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-5eb571214687a4b3f3135f6ea58cc580]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/180/regulation/14) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-a929ecc57d1af81b597973491b516ec9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2017/180/regulation/15) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-a929ecc57d1af81b597973491b516ec9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2017/180/regulation/15) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
 [^f00008]: Footnote: [S.S.I. 2007/154](https://www.legislation.gov.uk/ssi/2007/154), amended by [S.S.I. 2007/503](https://www.legislation.gov.uk/ssi/2007/503), [2008/205](https://www.legislation.gov.uk/ssi/2008/205) and [206](https://www.legislation.gov.uk/ssi/2008/206), [2009/188](https://www.legislation.gov.uk/ssi/2009/188), [189](https://www.legislation.gov.uk/ssi/2009/189) and [309](https://www.legislation.gov.uk/ssi/2009/309), [2010/300](https://www.legislation.gov.uk/ssi/2010/300), [2012/72](https://www.legislation.gov.uk/ssi/2012/72), [2013/80](https://www.legislation.gov.uk/ssi/2013/80), [2016/82](https://www.legislation.gov.uk/ssi/2016/82) and [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010).
 
-[^key-faaac9fa36e8a505108d7073772f8910]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/180/regulation/16) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-faaac9fa36e8a505108d7073772f8910]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/180/regulation/16) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-73ec0fd8cc8220f622a616acc1c8ad3c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2017/180/regulation/17) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-73ec0fd8cc8220f622a616acc1c8ad3c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2017/180/regulation/17) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-6735420b5ff6f1f7d4c4100baa31fe5e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2017/180/regulation/18) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-6735420b5ff6f1f7d4c4100baa31fe5e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2017/180/regulation/18) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-2e721bc19dc0e7e6ae9f186eae249411]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2017/180/regulation/19) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-2e721bc19dc0e7e6ae9f186eae249411]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2017/180/regulation/19) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-3621119be4d29f297f61d1b486ff8de0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2017/180/regulation/20) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-3621119be4d29f297f61d1b486ff8de0]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2017/180/regulation/20) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-c363317bb58d7af3d60286d74a4cc488]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2017/180/regulation/21) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-c363317bb58d7af3d60286d74a4cc488]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2017/180/regulation/21) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
 [^f00009]: Footnote: [S.S.I. 2007/156](https://www.legislation.gov.uk/ssi/2007/156), amended by [S.S.I. 2007/503](https://www.legislation.gov.uk/ssi/2007/503), [2009/188](https://www.legislation.gov.uk/ssi/2009/188) and [309](https://www.legislation.gov.uk/ssi/2009/309), [2011/261](https://www.legislation.gov.uk/ssi/2011/261), [2012/72](https://www.legislation.gov.uk/ssi/2012/72), [2013/80](https://www.legislation.gov.uk/ssi/2013/80), [2016/82](https://www.legislation.gov.uk/ssi/2016/82) and [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879).
 
-[^key-c2ea002f4904435525bb2c1ac2dc2533]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2017/180/regulation/22) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-c2ea002f4904435525bb2c1ac2dc2533]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2017/180/regulation/22) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-dd333d88429a2b9d4878472f152de52f]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/ssi/2017/180/regulation/22) substituted (1.8.2018) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/171)](https://www.legislation.gov.uk/ssi/2018/171), [regs. 1](https://www.legislation.gov.uk/ssi/2018/171/regulation/1), [9(3)](https://www.legislation.gov.uk/ssi/2018/171/regulation/9/3)
+[^c-dd333d88429a2b9d4878472f152de52f]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/ssi/2017/180/regulation/22) substituted (1.8.2018) by [The Education (Fees and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2018 (S.S.I. 2018/171)](https://www.legislation.gov.uk/ssi/2018/171), [regs. 1](https://www.legislation.gov.uk/ssi/2018/171/regulation/1), [9(3)](https://www.legislation.gov.uk/ssi/2018/171/regulation/9/3)
 
-[^key-1193415d71fb0269f7bf9380788f2d1e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2017/180/regulation/23) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-1193415d71fb0269f7bf9380788f2d1e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2017/180/regulation/23) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
-[^key-a778942abd980597ad1e1cc5407dedf5]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2017/180/regulation/24) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
+[^c-a778942abd980597ad1e1cc5407dedf5]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2017/180/regulation/24) in force at 1.8.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/180/regulation/1)
 
 [^f00010]: Footnote: [S.S.I. 2011/389](https://www.legislation.gov.uk/ssi/2011/389), amended by [S.S.I. 2012/72](https://www.legislation.gov.uk/ssi/2012/72) and [2013/80](https://www.legislation.gov.uk/ssi/2013/80).

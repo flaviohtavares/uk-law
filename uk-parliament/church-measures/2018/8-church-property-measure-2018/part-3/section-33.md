@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 33. Land no longer required for purpose for which acquired[^key-78c810bd812fcff7f62da03f81de187b]
+## 33. Land no longer required for purpose for which acquired[^c-78c810bd812fcff7f62da03f81de187b]
 
 *Extent: E*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78c810bd812fcff7f62da03f81de187b]: Commencement: [S. 33](https://www.legislation.gov.uk/ukcm/2018/8/section/33) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-78c810bd812fcff7f62da03f81de187b]: Commencement: [S. 33](https://www.legislation.gov.uk/ukcm/2018/8/section/33) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

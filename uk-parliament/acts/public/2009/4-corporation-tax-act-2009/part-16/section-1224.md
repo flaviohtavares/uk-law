@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Sections 1225 to 1227A[^key-f439c913e0298217eff455127a59074b] explain which is the accounting period to which expenses of management are referable.
+(1) Sections 1225 to 1227A[^c-f439c913e0298217eff455127a59074b] explain which is the accounting period to which expenses of management are referable.
 
 (2) But those sections do not affect any provision—
 
@@ -31,4 +31,4 @@ which provides for amounts to be treated as expenses of management referable to 
 
 ## Annotations
 
-[^key-f439c913e0298217eff455127a59074b]: Textual amendment: Word in s. 1224(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/4/4/a), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)
+[^c-f439c913e0298217eff455127a59074b]: Textual amendment: Word in s. 1224(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/4/4/a), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)

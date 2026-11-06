@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — Regulations relating to Biocidal products[^key-f489cf92caeaca01da78cab5e7e6343e]
+## SCHEDULE 2 — Regulations relating to Biocidal products[^c-f489cf92caeaca01da78cab5e7e6343e]
 
 *Extent: N.I.*
 
@@ -47,7 +47,7 @@ The Regulations referred to in regulation 3(1)(*a*) are—
 
 ## Annotations
 
-[^key-f489cf92caeaca01da78cab5e7e6343e]: Commencement: Sch. 2 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-f489cf92caeaca01da78cab5e7e6343e]: Commencement: Sch. 2 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
 
 [^f00026]: Footnote: [S.R. 1987 No. 432](https://www.legislation.gov.uk/nisr/1987/432), as amended by [S.R. 1994 No. 174](https://www.legislation.gov.uk/nisr/1994/174)
 

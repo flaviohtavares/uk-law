@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Employee’s duty to provide Form P45[^key-ff58d159b59566934dcfe9a29c27bc05]
+## 9. Employee’s duty to provide Form P45[^c-ff58d159b59566934dcfe9a29c27bc05]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ In regulation 40 (employee’s duty to provide Form P45)—
 
 ## Annotations
 
-[^key-ff58d159b59566934dcfe9a29c27bc05]: Commencement: Reg. 9 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-ff58d159b59566934dcfe9a29c27bc05]: Commencement: Reg. 9 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

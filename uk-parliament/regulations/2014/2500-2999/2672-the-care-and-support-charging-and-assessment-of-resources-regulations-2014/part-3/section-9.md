@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Financial assessment[^key-eba50dffce06cb38a0c6e370e09754f1]
+## 9. Financial assessment[^c-eba50dffce06cb38a0c6e370e09754f1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A local authority must carry out a financial assessment of the adult under secti
 
 ## Annotations
 
-[^key-eba50dffce06cb38a0c6e370e09754f1]: Commencement: Reg. 9 in force at 1.4.2015 in accordance with reg. 1
+[^c-eba50dffce06cb38a0c6e370e09754f1]: Commencement: Reg. 9 in force at 1.4.2015 in accordance with reg. 1

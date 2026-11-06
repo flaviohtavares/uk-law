@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Flights over any foreign country[^key-294d7bcead012e1566934814117a5e08]
+## 186. Flights over any foreign country[^c-294d7bcead012e1566934814117a5e08]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ unless the lives of persons on board or the safety of the aircraft would be enda
 
 ## Annotations
 
-[^key-294d7bcead012e1566934814117a5e08]: Commencement: [Art. 186](https://www.legislation.gov.uk/uksi/2013/2870/article/186) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-294d7bcead012e1566934814117a5e08]: Commencement: [Art. 186](https://www.legislation.gov.uk/uksi/2013/2870/article/186) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

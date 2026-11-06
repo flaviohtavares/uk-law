@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Proposal by the Regulator to suspend authorisation: determination by the FCA[^key-6aec954b713a479bf5acddf5c0ade3d3][^key-7cda46c9c431a9e2ec3c5a79c0313f89]
+## 47. Proposal by the Regulator to suspend authorisation: determination by the FCA[^c-6aec954b713a479bf5acddf5c0ade3d3][^c-7cda46c9c431a9e2ec3c5a79c0313f89]
 
 *Extent: E+W+S*
 
@@ -36,9 +36,9 @@ summary: ''
 
 ## Annotations
 
-[^key-6aec954b713a479bf5acddf5c0ade3d3]: Commencement: Art. 47 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-6aec954b713a479bf5acddf5c0ade3d3]: Commencement: Art. 47 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-7cda46c9c431a9e2ec3c5a79c0313f89]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2018/1253/article/47) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-7cda46c9c431a9e2ec3c5a79c0313f89]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2018/1253/article/47) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00079]: Footnote: Paragraph (c) of section 207(1) was inserted by the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), sections 24(1) and (2), paragraphs 1 and 18(1) and (3) of Schedule 2.
 

@@ -22,7 +22,7 @@ summary: ''
 
 Article 45
 
-### 1. Interpretation[^key-c047b2057190338d4916665eac4f88a5]
+### 1. Interpretation[^c-c047b2057190338d4916665eac4f88a5]
 
 (1) In this Schedule—
 
@@ -36,11 +36,11 @@ Article 45
 
 (2) References to the 2013 Order, a replacement Dartford-Thurrock Charging Order and the Enforcement Regulations are, for the purposes of this Schedule, to be construed as a reference to those provisions as amended, substituted or replaced, and with such modifications as are required in those circumstances.
 
-### 2. Application of the Enforcement Regulations[^key-66978978b41d0002764dceafb708836e]
+### 2. Application of the Enforcement Regulations[^c-66978978b41d0002764dceafb708836e]
 
 The Enforcement Regulations apply to this Schedule as though it were a charging scheme for the purposes of those regulations.
 
-### 3. Imposition of charges for the tunnel area[^key-16910cd2816982ad2a2f6f971805efce]
+### 3. Imposition of charges for the tunnel area[^c-16910cd2816982ad2a2f6f971805efce]
 
 (1) From the day the tunnel area is open for traffic, the Secretary of State may charge each single use of the tunnel area by a motor vehicle the amount specified in sub-paragraph (2).
 
@@ -58,7 +58,7 @@ The Enforcement Regulations apply to this Schedule as though it were a charging 
 
 (5) For the purposes of sub-paragraph (4), a reference in paragraph 1(6) of Schedule 3 to the 2013 Order or any exemption in any replacement Dartford-Thurrock Charging Order to the Dartford-Thurrock Crossing is to be construed as reference to the tunnel area.
 
-### 4. Payment of charges[^key-6a2c846c03632b317798d0fc75b3a023]
+### 4. Payment of charges[^c-6a2c846c03632b317798d0fc75b3a023]
 
 (1) A road user charge imposed by paragraph 3(1) must be paid in accordance with the provisions of this paragraph.
 
@@ -68,7 +68,7 @@ The Enforcement Regulations apply to this Schedule as though it were a charging 
 
 (4) A road user charge imposed under paragraph 3(1) must be paid by such means as the Secretary of State may specify on its website or the equivalent electronic publication as being acceptable.
 
-### 5. Payments for local residents[^key-a96ec5a3cba687cba862bd164c2edf9d]
+### 5. Payments for local residents[^c-a96ec5a3cba687cba862bd164c2edf9d]
 
 (1) If a road user charge is imposed under paragraph 3(1), the Secretary of State may enter into an agreement with a local resident (a “local resident’s agreement”) under which, on such terms as may be provided by the agreement, charges for a motor vehicle to be used or kept on the tunnel area may be paid.
 
@@ -81,7 +81,7 @@ The Enforcement Regulations apply to this Schedule as though it were a charging 
 
 (4) A local resident’s agreement offered by the Secretary of State under sub-paragraph (1) must be offered on the same terms to all local residents seeking to enter into such an agreement.
 
-### 6. Other payments[^key-39ca7b389e6123ec2ccf0f38701ddc89]
+### 6. Other payments[^c-39ca7b389e6123ec2ccf0f38701ddc89]
 
 (1) If a road user charge is imposed under paragraph 3(1), the Secretary of State may enter into an agreement with persons (a “payment agreement”) under which, on such terms as may be provided by the agreement, charges for a motor vehicle to be used or kept on the tunnel area may be paid.
 
@@ -94,7 +94,7 @@ The Enforcement Regulations apply to this Schedule as though it were a charging 
 
 (4) A payment agreement offered by the Secretary of State under sub-paragraph (1) must be offered on the same terms to all persons seeking to enter into such an agreement.
 
-### 7. Penalty charge for non-payment of road user charge[^key-1a898565f68bc1558a9557cb5c581af4]
+### 7. Penalty charge for non-payment of road user charge[^c-1a898565f68bc1558a9557cb5c581af4]
 
 (1) A penalty charge will be payable where—
 
@@ -109,25 +109,25 @@ The Enforcement Regulations apply to this Schedule as though it were a charging 
 
 (5) The road user charge under paragraph 3(1) will be payable in addition to the charge under sub-paragraph (1) where the 2013 Order or any replacement Dartford-Thurrock Charging Order requires any penalty charge to be payable in addition to a road user charge for use of the Dartford Thurrock Crossing.
 
-### 8. Exercise of powers[^key-0f3b0977490775ac633e285fa4d5b36e]
+### 8. Exercise of powers[^c-0f3b0977490775ac633e285fa4d5b36e]
 
 (1) The Secretary of State may authorise in writing a person to exercise any one or more of the powers in paragraphs 9 to 13 of this Schedule.
 
 (2) Any person authorised by the Secretary of State in accordance with sub-paragraph (1) is an authorised person within the meaning of regulation 21 of the Enforcement Regulations.
 
-### 9. Examination of motor vehicles[^key-3560dfb746128483ba479d62ad539c7c]
+### 9. Examination of motor vehicles[^c-3560dfb746128483ba479d62ad539c7c]
 
 The Secretary of State or a person authorised by the Secretary of State may examine a motor vehicle whilst it is on a road to ascertain if any of the circumstances described in regulation 22 of the Enforcement Regulations exists.
 
-### 10. Entering motor vehicles[^key-f1b13815d73a09bf762de7424c74b6c6]
+### 10. Entering motor vehicles[^c-f1b13815d73a09bf762de7424c74b6c6]
 
 The Secretary of State or a person authorised by the Secretary of State may enter a motor vehicle whilst it is on a road where they have reasonable grounds for suspecting that any of the circumstances described in regulation 23(1) of the Enforcement Regulations exists.
 
-### 11. Seizure[^key-30675f1c8ee79b74a72b9a028dd30e5b]
+### 11. Seizure[^c-30675f1c8ee79b74a72b9a028dd30e5b]
 
 The Secretary of State or a person authorised by the Secretary of State may seize anything (if necessary by detaching it from a motor vehicle) and detain it as evidence of the failure to pay a charge under paragraph 3(1).
 
-### 12. Immobilisation of motor vehicles[^key-986c8c84bcfbd793bc727cb1bf92f34f]
+### 12. Immobilisation of motor vehicles[^c-986c8c84bcfbd793bc727cb1bf92f34f]
 
 (1) Provided that—
 
@@ -143,7 +143,7 @@ the Secretary of State or a person authorised by the Secretary of State may immo
   - (i) if all outstanding charges under paragraph 7 are paid; and
   - (ii) if a penalty charge of the amount specified for the release of an immobilised motor vehicle under article 9(1)(a) of the 2013 Order or any equivalent provision of any replacement Dartford-Thurrock Crossing Charging Order is so paid.
 
-### 13. Removal, storage and disposal of motor vehicles[^key-498fa95a7b9488e8ae7d895798dba5b6]
+### 13. Removal, storage and disposal of motor vehicles[^c-498fa95a7b9488e8ae7d895798dba5b6]
 
 (1) Provided Regulation 27(1)(a) or (b) of the Enforcement Regulations is satisfied, the Secretary of State or a person authorised by the Secretary of State may remove a motor vehicle and deliver it to a custodian for storage.
 
@@ -159,32 +159,32 @@ the Secretary of State or a person authorised by the Secretary of State may immo
 
 ## Annotations
 
-[^key-c047b2057190338d4916665eac4f88a5]: Commencement: Sch. 12 para. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-c047b2057190338d4916665eac4f88a5]: Commencement: Sch. 12 para. 1 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00171]: Footnote: [S.I. 2013/2249](https://www.legislation.gov.uk/uksi/2013/2249).
 
 [^f00172]: Footnote: [S.I. 2013/1783](https://www.legislation.gov.uk/uksi/2013/1783).
 
-[^key-66978978b41d0002764dceafb708836e]: Commencement: Sch. 12 para. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-66978978b41d0002764dceafb708836e]: Commencement: Sch. 12 para. 2 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-16910cd2816982ad2a2f6f971805efce]: Commencement: Sch. 12 para. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-16910cd2816982ad2a2f6f971805efce]: Commencement: Sch. 12 para. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-6a2c846c03632b317798d0fc75b3a023]: Commencement: Sch. 12 para. 4 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-6a2c846c03632b317798d0fc75b3a023]: Commencement: Sch. 12 para. 4 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-a96ec5a3cba687cba862bd164c2edf9d]: Commencement: Sch. 12 para. 5 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-a96ec5a3cba687cba862bd164c2edf9d]: Commencement: Sch. 12 para. 5 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-39ca7b389e6123ec2ccf0f38701ddc89]: Commencement: Sch. 12 para. 6 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-39ca7b389e6123ec2ccf0f38701ddc89]: Commencement: Sch. 12 para. 6 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-1a898565f68bc1558a9557cb5c581af4]: Commencement: Sch. 12 para. 7 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-1a898565f68bc1558a9557cb5c581af4]: Commencement: Sch. 12 para. 7 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-0f3b0977490775ac633e285fa4d5b36e]: Commencement: Sch. 12 para. 8 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-0f3b0977490775ac633e285fa4d5b36e]: Commencement: Sch. 12 para. 8 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-3560dfb746128483ba479d62ad539c7c]: Commencement: Sch. 12 para. 9 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-3560dfb746128483ba479d62ad539c7c]: Commencement: Sch. 12 para. 9 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-f1b13815d73a09bf762de7424c74b6c6]: Commencement: Sch. 12 para. 10 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-f1b13815d73a09bf762de7424c74b6c6]: Commencement: Sch. 12 para. 10 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-30675f1c8ee79b74a72b9a028dd30e5b]: Commencement: Sch. 12 para. 11 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-30675f1c8ee79b74a72b9a028dd30e5b]: Commencement: Sch. 12 para. 11 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-986c8c84bcfbd793bc727cb1bf92f34f]: Commencement: Sch. 12 para. 12 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-986c8c84bcfbd793bc727cb1bf92f34f]: Commencement: Sch. 12 para. 12 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-498fa95a7b9488e8ae7d895798dba5b6]: Commencement: Sch. 12 para. 13 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-498fa95a7b9488e8ae7d895798dba5b6]: Commencement: Sch. 12 para. 13 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

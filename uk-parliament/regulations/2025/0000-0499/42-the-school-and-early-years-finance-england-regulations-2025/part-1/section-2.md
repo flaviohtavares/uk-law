@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Revocation[^key-9fb5b7e70fb15247c8dde2067c052b82]
+## 2. Revocation[^c-9fb5b7e70fb15247c8dde2067c052b82]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The School and Early Years Finance (England) Regulations 2023[^f00048] are revok
 
 ## Annotations
 
-[^key-9fb5b7e70fb15247c8dde2067c052b82]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/42/regulation/2) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-9fb5b7e70fb15247c8dde2067c052b82]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/42/regulation/2) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
 [^f00048]: Footnote: [S.I. 2023/59](https://www.legislation.gov.uk/uksi/2023/59).

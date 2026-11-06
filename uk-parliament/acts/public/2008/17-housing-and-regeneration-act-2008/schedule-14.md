@@ -24,7 +24,7 @@ Section 311
 
 ### Housing Act 1985 (c. 68)
 
-**1.**[^key-1332a730008799e23b6f91788a555838] (1) The Housing Act 1985 is amended as follows.
+**1.**[^c-1332a730008799e23b6f91788a555838] (1) The Housing Act 1985 is amended as follows.
 
 (2) In section 34 (consents in relation to disposals of land held for housing purposes)—
 
@@ -106,7 +106,7 @@ Section 311
 
 ### Housing Act 1988 (c. 50)
 
-**2.**[^key-92326bb61c8b998beb5651833d3a1b3b] In section 133(3) of the Housing Act 1988 (consent required for certain subsequent disposals)—
+**2.**[^c-92326bb61c8b998beb5651833d3a1b3b] In section 133(3) of the Housing Act 1988 (consent required for certain subsequent disposals)—
 
 - (a) in paragraph (a) for “and (3) to (4A)” substitute “ , (3), (4) and (4A)(a) to (c) and (d) ”,
 - (b) in paragraph (b) for “and (3) to (4A)” substitute “ , (3), (4) and (4A)(a) to (c) and (d) ”, and
@@ -114,7 +114,7 @@ Section 311
 
 ### Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
 
-**3.**[^key-bf7b2ea695b2391cc01c6e600e161d6d] (1) The Leasehold Reform, Housing and Urban Development Act 1993 is amended as follows.
+**3.**[^c-bf7b2ea695b2391cc01c6e600e161d6d] (1) The Leasehold Reform, Housing and Urban Development Act 1993 is amended as follows.
 
 (2) Omit section 135 (programmes for disposals of dwelling-houses by local authorities).
 
@@ -143,7 +143,7 @@ Section 311
 
 ### Housing Act 1996 (c. 52)
 
-**4.**[^key-2619bbab7e32f0dd43a54c4ef0cffaac] (1) The Housing Act 1996 is amended as follows.
+**4.**[^c-2619bbab7e32f0dd43a54c4ef0cffaac] (1) The Housing Act 1996 is amended as follows.
 
 (2) In section 51(2)(b) (schemes for investigation of complaints) for “a qualifying disposal” substitute
 
@@ -174,10 +174,10 @@ Section 311
 
 ## Annotations
 
-[^key-1332a730008799e23b6f91788a555838]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/1) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-1332a730008799e23b6f91788a555838]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/1) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-92326bb61c8b998beb5651833d3a1b3b]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/2) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-92326bb61c8b998beb5651833d3a1b3b]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/2) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-bf7b2ea695b2391cc01c6e600e161d6d]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/3) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-bf7b2ea695b2391cc01c6e600e161d6d]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/3) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-2619bbab7e32f0dd43a54c4ef0cffaac]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/4) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-2619bbab7e32f0dd43a54c4ef0cffaac]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/4) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

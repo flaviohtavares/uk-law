@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Power to require persons connected to premises to produce documents[^key-61f51d0298fc261c43b4d316fb7fbf9a]
+## 72. Power to require persons connected to premises to produce documents[^c-61f51d0298fc261c43b4d316fb7fbf9a]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ in relation to information so recorded, any reference to the production of a doc
 
 ## Annotations
 
-[^key-61f51d0298fc261c43b4d316fb7fbf9a]: Commencement: [S. 72](https://www.legislation.gov.uk/nia/2016/22/section/72) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-61f51d0298fc261c43b4d316fb7fbf9a]: Commencement: [S. 72](https://www.legislation.gov.uk/nia/2016/22/section/72) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

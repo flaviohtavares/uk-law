@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Application of Regulations[^key-be179e44a3d2f763552713e2fed769c0]
+## 48. Application of Regulations[^c-be179e44a3d2f763552713e2fed769c0]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations shall not have effect in relation to applications for grant ma
 
 ## Annotations
 
-[^key-be179e44a3d2f763552713e2fed769c0]: Commencement: Reg. 48 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-be179e44a3d2f763552713e2fed769c0]: Commencement: Reg. 48 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-f226c3daaee4e3e1bca664e30730849d] The Commission may assess the extent to which or the manner in which a person has complied with a duty under or by virtue of section 149, 153 or 154 of the Equality Act 2010 (public sector equality duty).
+(1)[^c-f226c3daaee4e3e1bca664e30730849d] The Commission may assess the extent to which or the manner in which a person has complied with a duty under or by virtue of section 149, 153 or 154 of the Equality Act 2010 (public sector equality duty).
 
 (2) Schedule 2 makes supplemental provision about assessments.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f226c3daaee4e3e1bca664e30730849d]: Textual amendment: [S. 31(1)](https://www.legislation.gov.uk/ukpga/2006/3/section/31/1) substituted (5.4.2011) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 73](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/73) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2011/1066](https://www.legislation.gov.uk/uksi/2011/1066), [art. 2(g)(iii)](https://www.legislation.gov.uk/uksi/2011/1066/article/2/g/iii)
+[^c-f226c3daaee4e3e1bca664e30730849d]: Textual amendment: [S. 31(1)](https://www.legislation.gov.uk/ukpga/2006/3/section/31/1) substituted (5.4.2011) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 73](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/73) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2011/1066](https://www.legislation.gov.uk/uksi/2011/1066), [art. 2(g)(iii)](https://www.legislation.gov.uk/uksi/2011/1066/article/2/g/iii)

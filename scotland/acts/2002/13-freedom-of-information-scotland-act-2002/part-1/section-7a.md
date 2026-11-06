@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7A. Reports on section 5 power[^key-e810b4c924450bc7a2c37cf4c0d8fb73]
+## 7A. Reports on section 5 power[^c-e810b4c924450bc7a2c37cf4c0d8fb73]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e810b4c924450bc7a2c37cf4c0d8fb73]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/asp/2002/13/section/7A) inserted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 1(2)](https://www.legislation.gov.uk/asp/2013/2/section/1/2), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
+[^c-e810b4c924450bc7a2c37cf4c0d8fb73]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/asp/2002/13/section/7A) inserted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 1(2)](https://www.legislation.gov.uk/asp/2013/2/section/1/2), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)

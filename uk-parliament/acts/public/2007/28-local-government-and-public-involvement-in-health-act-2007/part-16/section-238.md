@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238. Amendments relating to capital finance and accounting practices[^key-bcd9f817494f915cb55fe6d5d371f0d8]
+## 238. Amendments relating to capital finance and accounting practices[^c-bcd9f817494f915cb55fe6d5d371f0d8]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcd9f817494f915cb55fe6d5d371f0d8]: Commencement: S. 238 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(t)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/t)
+[^c-bcd9f817494f915cb55fe6d5d371f0d8]: Commencement: S. 238 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(t)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/t)

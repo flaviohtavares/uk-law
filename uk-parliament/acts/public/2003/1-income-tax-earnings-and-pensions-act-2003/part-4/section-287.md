@@ -25,7 +25,7 @@ summary: ''
 (2) The value of the exemption is an amount equal to the sum of—
 
 - (a) the section 62 earnings, ...
-- (b) the benefits code earnings (after taking account of section 64(2)(b) where otherwise an amount that falls within paragraph (a) would be included), and[^key-85b85ddf4af42519ddadf55ffd2907e0]
+- (b) the benefits code earnings (after taking account of section 64(2)(b) where otherwise an amount that falls within paragraph (a) would be included), and[^c-85b85ddf4af42519ddadf55ffd2907e0]
 - (c) the Part 7A employment income
 
 (3) In this section “**the section 62 earnings**” means all earnings within section 62 (earnings) in respect of which section 271 would prevent liability to income tax from arising if this section were disregarded.
@@ -45,10 +45,10 @@ CE is the cash equivalent of the accommodation under Chapter 5 of Part 3 (taxabl
 
 D is any amount deductible under section 364 (deductions where living accommodation provided).
 
-(6)[^key-85cc454da680676ad2e56c052bf95215] In this section “**the Part 7A employment income**” means the amount in respect of which section 271 (when read with section 554P) would prevent liability to income tax arising if this section were to be disregarded.
+(6)[^c-85cc454da680676ad2e56c052bf95215] In this section “**the Part 7A employment income**” means the amount in respect of which section 271 (when read with section 554P) would prevent liability to income tax arising if this section were to be disregarded.
 
 ## Annotations
 
-[^key-85b85ddf4af42519ddadf55ffd2907e0]: Textual amendment: S. 287(2)(c) and word inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/13/2/b)
+[^c-85b85ddf4af42519ddadf55ffd2907e0]: Textual amendment: S. 287(2)(c) and word inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 13(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/13/2/b)
 
-[^key-85cc454da680676ad2e56c052bf95215]: Textual amendment: S. 287(6) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/13/3)
+[^c-85cc454da680676ad2e56c052bf95215]: Textual amendment: S. 287(6) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/13/3)

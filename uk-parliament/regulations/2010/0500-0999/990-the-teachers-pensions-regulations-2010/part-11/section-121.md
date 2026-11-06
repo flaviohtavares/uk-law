@@ -23,7 +23,7 @@ summary: ''
 (1) This regulation applies to a benefit payable to a person who is convicted of—
 
 - (a) an offence of treason, or
-- (b) one offence or more under the Official Secrets Acts 1911 to 1989 [^c20237901] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-3dd75bbae76ab3ccace7eebd37cd12b0] for which the person has been sentenced on the same occasion to a term of imprisonment of, or to two or more consecutive terms amounting in the aggregate to, at least 10 years
+- (b) one offence or more under the Official Secrets Acts 1911 to 1989 [^c20237901] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^c-3dd75bbae76ab3ccace7eebd37cd12b0] for which the person has been sentenced on the same occasion to a term of imprisonment of, or to two or more consecutive terms amounting in the aggregate to, at least 10 years
 
 where the offence was committed before the benefit became payable.
 
@@ -39,4 +39,4 @@ where the offence was committed before the benefit became payable.
 
 [^c20237901]: Marginal citation: [1911 c.28](https://www.legislation.gov.uk/ukpga/1911/28), [1920 c.75](https://www.legislation.gov.uk/ukpga/1920/75), [1939 c.121](https://www.legislation.gov.uk/ukpga/1939/121), [1989 c.6](https://www.legislation.gov.uk/ukpga/1989/6).
 
-[^key-3dd75bbae76ab3ccace7eebd37cd12b0]: Textual amendment: Words in [reg. 121(1)(b)](https://www.legislation.gov.uk/uksi/2010/990/regulation/121/1/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/29)
+[^c-3dd75bbae76ab3ccace7eebd37cd12b0]: Textual amendment: Words in [reg. 121(1)(b)](https://www.legislation.gov.uk/uksi/2010/990/regulation/121/1/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/29)

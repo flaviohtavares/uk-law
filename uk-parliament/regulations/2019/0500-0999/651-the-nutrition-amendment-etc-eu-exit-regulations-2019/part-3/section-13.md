@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Amendment of the Addition of Vitamins, Minerals and Other Substances (England) Regulations 2007[^key-007bd04787b102f0b976204c03dae818]
+## 13. Amendment of the Addition of Vitamins, Minerals and Other Substances (England) Regulations 2007[^c-007bd04787b102f0b976204c03dae818]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-007bd04787b102f0b976204c03dae818]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-007bd04787b102f0b976204c03dae818]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668701]: Marginal citation: [S.I. 2007/1631](https://www.legislation.gov.uk/uksi/2007/1631), to which there are amendments not relevant to these regulations.

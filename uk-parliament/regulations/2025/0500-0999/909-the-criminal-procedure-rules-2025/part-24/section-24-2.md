@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.2. General rules[^key-6709b7e1ffdefb9a5e971e7f8ad0a4ea]
+## 24.2. General rules[^c-6709b7e1ffdefb9a5e971e7f8ad0a4ea]
 
 *Extent: E+W*
 
@@ -75,7 +75,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6709b7e1ffdefb9a5e971e7f8ad0a4ea]: Commencement: [Rule 24.2](https://www.legislation.gov.uk/uksi/2025/909/rule/24.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6709b7e1ffdefb9a5e971e7f8ad0a4ea]: Commencement: [Rule 24.2](https://www.legislation.gov.uk/uksi/2025/909/rule/24.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00519]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 29 was amended by paragraph 40 of Schedule 11 and paragraph 22 of Schedule 12 to the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), paragraph 41 of Schedule 10 to the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33) and paragraph 51 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

@@ -27,7 +27,7 @@ summary: ''
 - (a) is made by the court in relation to a relevant provider, and
 - (b) directs that the affairs, business and property of the provider are to be managed by one or more persons appointed by the court.
 
-(2) An application to the court for a health special administration order may be made only by NHS England[^key-c682c3d22691539f1c3f1947d3358b0a].
+(2) An application to the court for a health special administration order may be made only by NHS England[^c-c682c3d22691539f1c3f1947d3358b0a].
 
 (3) A person appointed as mentioned in subsection (1)(b) is referred to in this Chapter as a “health special administrator”.
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c682c3d22691539f1c3f1947d3358b0a]: Textual amendment: Words in [s. 128(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/128/2) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 74](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/74); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c682c3d22691539f1c3f1947d3358b0a]: Textual amendment: Words in [s. 128(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/128/2) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 74](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/74); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

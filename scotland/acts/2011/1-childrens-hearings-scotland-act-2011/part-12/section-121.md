@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Confirmation that child given opportunity to express views before hearing[^key-14df7b7ba29df2b12dd7cae085a6ef57]
+## 121. Confirmation that child given opportunity to express views before hearing[^c-14df7b7ba29df2b12dd7cae085a6ef57]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14df7b7ba29df2b12dd7cae085a6ef57]: Commencement: S. 121 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-14df7b7ba29df2b12dd7cae085a6ef57]: Commencement: S. 121 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

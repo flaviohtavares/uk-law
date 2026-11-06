@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Provision of facilities for the public in connection with monuments of special historic interest[^key-2f647a57ba3d1aa5e1ba1968558e0de9][^key-a7c0a2b64a210db365bab1292d9b71b7]
+## 57. Provision of facilities for the public in connection with monuments of special historic interest[^c-2f647a57ba3d1aa5e1ba1968558e0de9][^c-a7c0a2b64a210db365bab1292d9b71b7]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f647a57ba3d1aa5e1ba1968558e0de9]: Commencement: S. 57 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2f647a57ba3d1aa5e1ba1968558e0de9]: Commencement: S. 57 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-a7c0a2b64a210db365bab1292d9b71b7]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2023/3/section/57) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-a7c0a2b64a210db365bab1292d9b71b7]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2023/3/section/57) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

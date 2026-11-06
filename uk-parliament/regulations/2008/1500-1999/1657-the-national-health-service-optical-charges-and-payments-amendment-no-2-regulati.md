@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Optical Charges and Payments) Amendment (No. 2) Regulations 2008 (revoked)[^key-2db5617efe78f53c3cb62e0f30d65a44]
+The National Health Service (Optical Charges and Payments) Amendment (No. 2) Regulations 2008 (revoked)[^c-2db5617efe78f53c3cb62e0f30d65a44]
 
 Made
 
@@ -46,50 +46,50 @@ Coming into force
 
 1st August 2008
 
-[^key-2db5617efe78f53c3cb62e0f30d65a44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2db5617efe78f53c3cb62e0f30d65a44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-2db5617efe78f53c3cb62e0f30d65a44]
+## 1. Citation, commencement, application and interpretation[^c-2db5617efe78f53c3cb62e0f30d65a44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 1 of the Optical Regulations[^key-2db5617efe78f53c3cb62e0f30d65a44]
+## 2. Amendment of regulation 1 of the Optical Regulations[^c-2db5617efe78f53c3cb62e0f30d65a44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Insertion of regulations 19A to 19C into the Optical Regulations[^key-2db5617efe78f53c3cb62e0f30d65a44]
+## 3. Insertion of regulations 19A to 19C into the Optical Regulations[^c-2db5617efe78f53c3cb62e0f30d65a44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Schedule[^key-2db5617efe78f53c3cb62e0f30d65a44]
+## 4. Schedule[^c-2db5617efe78f53c3cb62e0f30d65a44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2db5617efe78f53c3cb62e0f30d65a44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2db5617efe78f53c3cb62e0f30d65a44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — CONSEQUENTIAL AMENDMENTS[^key-2db5617efe78f53c3cb62e0f30d65a44]
+## SCHEDULE 1 — CONSEQUENTIAL AMENDMENTS[^c-2db5617efe78f53c3cb62e0f30d65a44]
 
 Regulation 4
 
-**1.**[^key-2db5617efe78f53c3cb62e0f30d65a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2db5617efe78f53c3cb62e0f30d65a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2db5617efe78f53c3cb62e0f30d65a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2db5617efe78f53c3cb62e0f30d65a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2db5617efe78f53c3cb62e0f30d65a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2db5617efe78f53c3cb62e0f30d65a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2db5617efe78f53c3cb62e0f30d65a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2db5617efe78f53c3cb62e0f30d65a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2db5617efe78f53c3cb62e0f30d65a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2db5617efe78f53c3cb62e0f30d65a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2db5617efe78f53c3cb62e0f30d65a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2db5617efe78f53c3cb62e0f30d65a44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2db5617efe78f53c3cb62e0f30d65a44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2db5617efe78f53c3cb62e0f30d65a44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2db5617efe78f53c3cb62e0f30d65a44]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1657) revoked (1.4.2013) by [The National Health Service (Optical Charges and Payments) Regulations 2013 (S.I. 2013/461)](https://www.legislation.gov.uk/uksi/2013/461), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/461/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/461/schedule/4)
+[^c-2db5617efe78f53c3cb62e0f30d65a44]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1657) revoked (1.4.2013) by [The National Health Service (Optical Charges and Payments) Regulations 2013 (S.I. 2013/461)](https://www.legislation.gov.uk/uksi/2013/461), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/461/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/461/schedule/4)

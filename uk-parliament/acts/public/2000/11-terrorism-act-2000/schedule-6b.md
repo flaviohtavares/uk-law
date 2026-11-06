@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6B — Searches in specified areas or places: supplementary[^key-5712f83109235b80c98da515d70bd68c]
+## SCHEDULE 6B — Searches in specified areas or places: supplementary[^c-5712f83109235b80c98da515d70bd68c]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,10 +97,10 @@ the written statement must be provided.
 
 - “**driver**” has the meaning given by section 43A(5);
 - “**senior police officer**” means—
-  - (a) in relation to an authorisation where the specified area or place is the whole or part of a police area in England and Wales[^key-0aeaab52dcf5b6992a697861d47645c2] , other than of a police area mentioned in paragraph (b) or (c), a police officer for the area who is of at least the rank of assistant chief constable;
+  - (a) in relation to an authorisation where the specified area or place is the whole or part of a police area in England and Wales[^c-0aeaab52dcf5b6992a697861d47645c2] , other than of a police area mentioned in paragraph (b) or (c), a police officer for the area who is of at least the rank of assistant chief constable;
   - (b) in relation to an authorisation where the specified area or place is the whole or part of the metropolitan police district, a police officer for the district who is of at least the rank of commander of the metropolitan police;
   - (c) in relation to an authorisation where the specified area or place is the whole or part of the City of London, a police officer for the City who is of at least the rank of commander in the City of London police force;
-  - (ca) in relation to an authorisation where the specified area or place is the whole or part of Scotland, a constable of the Police Service of Scotland who is of at least the rank of assistant chief constable;[^key-4776c77303dc6894c9f1328136b08b07]
+  - (ca) in relation to an authorisation where the specified area or place is the whole or part of Scotland, a constable of the Police Service of Scotland who is of at least the rank of assistant chief constable;[^c-4776c77303dc6894c9f1328136b08b07]
   - (d) in relation to an authorisation where the specified area or place is the whole or part of Northern Ireland, a member of the Police Service of Northern Ireland who is of at least the rank of assistant chief constable;
 - “**specified**” means specified in an authorisation.
 
@@ -114,8 +114,8 @@ but such references are not to be read as including a member of the British Tran
 
 ## Annotations
 
-[^key-5712f83109235b80c98da515d70bd68c]: Textual amendment: Sch. 6B inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(g)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/g)
+[^c-5712f83109235b80c98da515d70bd68c]: Textual amendment: Sch. 6B inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(g)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/g)
 
-[^key-0aeaab52dcf5b6992a697861d47645c2]: Textual amendment: Words in Sch. 6B para. 14(1) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 32(4)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/32/4/a)
+[^c-0aeaab52dcf5b6992a697861d47645c2]: Textual amendment: Words in Sch. 6B para. 14(1) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 32(4)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/32/4/a)
 
-[^key-4776c77303dc6894c9f1328136b08b07]: Textual amendment: Words in Sch. 6B para. 14(1) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 32(4)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/32/4/b)
+[^c-4776c77303dc6894c9f1328136b08b07]: Textual amendment: Words in Sch. 6B para. 14(1) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 32(4)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/32/4/b)

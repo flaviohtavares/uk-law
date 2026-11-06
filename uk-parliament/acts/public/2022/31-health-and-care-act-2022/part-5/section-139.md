@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Virginity testing offences in England and Wales: penalties[^key-192a59b47e90c8c851563ee3702b8263][^key-19a9b4f1b1980f75daab00efbf5958d5]
+## 139. Virginity testing offences in England and Wales: penalties[^c-192a59b47e90c8c851563ee3702b8263][^c-19a9b4f1b1980f75daab00efbf5958d5]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-192a59b47e90c8c851563ee3702b8263]: Commencement: S. 139 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-192a59b47e90c8c851563ee3702b8263]: Commencement: S. 139 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-19a9b4f1b1980f75daab00efbf5958d5]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2022/31/section/139) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-19a9b4f1b1980f75daab00efbf5958d5]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2022/31/section/139) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -34,7 +34,7 @@ Exiting The European Union
 
 Plant Health
 
-The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (revoked)[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (revoked)[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 Made
 
@@ -42,11 +42,11 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introductory[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+### PART 1 — Introductory[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -54,7 +54,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 1 — Citation, commencement and extent](part-1/section-1.md)
 
-### PART 2 — Miscellaneous provision[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+### PART 2 — Miscellaneous provision[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -77,7 +77,7 @@ Coming into force in accordance with regulation 1
 - [Section 16 — Revocation of the Plant Health (Phytophthora ramorum) (Scotland) Order 2004](part-2/section-16.md)
 - [Section 17 — Consequential amendment to the Plant Health Fees (Scotland) Regulations 2008](part-2/section-17.md)
 
-### PART 3[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+### PART 3[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -85,7 +85,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 18 — Amendment of the Plant Health (Scotland) Order 2005: exiting the European Union](part-3/section-18.md)
 
-#### CHAPTER 1 — Amendment of Part 1[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+#### CHAPTER 1 — Amendment of Part 1[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -95,7 +95,7 @@ Coming into force in accordance with regulation 1
 - [Section 20](part-3/section-20.md)
 - [Section 21](part-3/section-21.md)
 
-#### CHAPTER 2 — Amendment of Part 2[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+#### CHAPTER 2 — Amendment of Part 2[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -119,7 +119,7 @@ Coming into force in accordance with regulation 1
 - [Section 37](part-3/section-37.md)
 - [Section 38](part-3/section-38.md)
 
-#### CHAPTER 3 — Amendment of Part 3[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+#### CHAPTER 3 — Amendment of Part 3[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -132,7 +132,7 @@ Coming into force in accordance with regulation 1
 - [Section 43](part-3/section-43.md)
 - [Section 44](part-3/section-44.md)
 
-#### CHAPTER 4 — Amendment of Part 4[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+#### CHAPTER 4 — Amendment of Part 4[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -142,7 +142,7 @@ Coming into force in accordance with regulation 1
 - [Section 46](part-3/section-46.md)
 - [Section 47](part-3/section-47.md)
 
-#### CHAPTER 5 — Revocation of Part 5[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+#### CHAPTER 5 — Revocation of Part 5[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -150,7 +150,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 48](part-3/section-48.md)
 
-#### CHAPTER 6 — Amendment of Part 6[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+#### CHAPTER 6 — Amendment of Part 6[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -162,7 +162,7 @@ Coming into force in accordance with regulation 1
 - [Section 52](part-3/section-52.md)
 - [Section 53](part-3/section-53.md)
 
-#### CHAPTER 7 — Amendment of Part 7[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+#### CHAPTER 7 — Amendment of Part 7[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -170,7 +170,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 54](part-3/section-54.md)
 
-#### CHAPTER 8 — Amendment of Part 8[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+#### CHAPTER 8 — Amendment of Part 8[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -179,7 +179,7 @@ Coming into force in accordance with regulation 1
 - [Section 55](part-3/section-55.md)
 - [Section 56](part-3/section-56.md)
 
-#### CHAPTER 9 — Amendment of Part 9[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+#### CHAPTER 9 — Amendment of Part 9[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -190,7 +190,7 @@ Coming into force in accordance with regulation 1
 - [Section 59](part-3/section-59.md)
 - [Section 60](part-3/section-60.md)
 
-#### CHAPTER 10 — Amendment of Part 10[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+#### CHAPTER 10 — Amendment of Part 10[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -198,7 +198,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 61](part-3/section-61.md)
 
-#### CHAPTER 11 — Amendment of Part 11[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+#### CHAPTER 11 — Amendment of Part 11[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -207,13 +207,13 @@ Coming into force in accordance with regulation 1
 - [Section 62](part-3/section-62.md)
 - [Section 63](part-3/section-63.md)
 
-#### CHAPTER 12 — Amendment of the schedules[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+#### CHAPTER 12 — Amendment of the schedules[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
 **No longer in force.**
 
-##### SECTION 1 — The Plant Health Lists[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+##### SECTION 1 — The Plant Health Lists[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -221,7 +221,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 64](part-3/section-64.md)
 
-##### SECTION 2 — Emergency measures[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+##### SECTION 2 — Emergency measures[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -229,7 +229,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 65](part-3/section-65.md)
 
-##### SECTION 3 — UK plant passports[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+##### SECTION 3 — UK plant passports[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -237,7 +237,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 66](part-3/section-66.md)
 
-##### SECTION 4 — Plant health movement document[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+##### SECTION 4 — Plant health movement document[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -245,7 +245,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 67](part-3/section-67.md)
 
-##### SECTION 5 — Potato Cyst Nematode[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+##### SECTION 5 — Potato Cyst Nematode[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -253,7 +253,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 68](part-3/section-68.md)
 
-##### SECTION 6 — Potato Ring Rot[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+##### SECTION 6 — Potato Ring Rot[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -261,7 +261,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 69](part-3/section-69.md)
 
-##### SECTION 7 — Potato Brown Rot[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+##### SECTION 7 — Potato Brown Rot[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -269,7 +269,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 70](part-3/section-70.md)
 
-##### SECTION 8 — Licences for trial or scientific purposes or for work on varietal selection[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+##### SECTION 8 — Licences for trial or scientific purposes or for work on varietal selection[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -277,7 +277,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 71](part-3/section-71.md)
 
-### PART 4 — Fees: EU withdrawal[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+### PART 4 — Fees: EU withdrawal[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -288,7 +288,7 @@ Coming into force in accordance with regulation 1
 - [Section 74 — Amendment of the Plant Health Fees (Scotland) Regulations 2008](part-4/section-74.md)
 - [Section 75 — Savings provision in relation to fees amendments](part-4/section-75.md)
 
-### PART 5[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+### PART 5[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -296,7 +296,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 76 — Revocation of secondary legislation: EU withdrawal](part-5/section-76.md)
 
-### PART 6[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+### PART 6[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -315,14 +315,14 @@ Coming into force in accordance with regulation 1
 
 **No longer in force.**
 
-[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/b), [sch.](https://www.legislation.gov.uk/ssi/2020/466/schedule) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/b), [sch.](https://www.legislation.gov.uk/ssi/2020/466/schedule) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

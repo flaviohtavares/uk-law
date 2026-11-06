@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Interest[^key-658c771843f90634b1be96d7db34cece]
+## 39. Interest[^c-658c771843f90634b1be96d7db34cece]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ until payment, whether or not the applicable day is a non-business day within th
 
 ## Annotations
 
-[^key-658c771843f90634b1be96d7db34cece]: Textual amendment: [Reg. 39](https://www.legislation.gov.uk/uksi/2009/470/regulation/39) substituted (31.10.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2011 (S.I. 2011/784)](https://www.legislation.gov.uk/uksi/2011/784), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/784/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2011/784/regulation/8)
+[^c-658c771843f90634b1be96d7db34cece]: Textual amendment: [Reg. 39](https://www.legislation.gov.uk/uksi/2009/470/regulation/39) substituted (31.10.2011) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2011 (S.I. 2011/784)](https://www.legislation.gov.uk/uksi/2011/784), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/784/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2011/784/regulation/8)

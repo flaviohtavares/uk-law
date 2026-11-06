@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Invalid nominations of individuals[^key-41a848eda20dc5cc9f592c6761d6c27d]
+## 96. Invalid nominations of individuals[^c-41a848eda20dc5cc9f592c6761d6c27d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41a848eda20dc5cc9f592c6761d6c27d]: Commencement: Reg. 96 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-41a848eda20dc5cc9f592c6761d6c27d]: Commencement: Reg. 96 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

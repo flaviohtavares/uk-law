@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 252. Power of Secretary of State or Treasury to regulate certain matters[^key-6b511cb5e91369fe0b1e5d820661d2b0]
+## 252. Power of Secretary of State or Treasury to regulate certain matters[^c-6b511cb5e91369fe0b1e5d820661d2b0]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6b511cb5e91369fe0b1e5d820661d2b0]: Commencement: Rule 252 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-6b511cb5e91369fe0b1e5d820661d2b0]: Commencement: Rule 252 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00091]: Footnote: Schedule 8 was amended by section 125 of the Banking Act.
 

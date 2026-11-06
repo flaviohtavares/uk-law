@@ -54,7 +54,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 The Secretary of State has consulted the Welsh Ministers in accordance with section 4(7) of that Act[^f00002].
 
-## 1. Citation and commencement[^key-08118029bffe16216cca783244ead6f1]
+## 1. Citation and commencement[^c-08118029bffe16216cca783244ead6f1]
 
 (1) This Order may be cited as the Freedom of Information (Additional Public Authorities) Order 2010.
 
@@ -64,13 +64,13 @@ The Secretary of State has consulted the Welsh Ministers in accordance with sect
 
 (4) In this Order, “the Act” means the Freedom of Information Act 2000.
 
-## 2. Additional public authorities[^key-36b4ee855252adf1b098dacc06d83ae6]
+## 2. Additional public authorities[^c-36b4ee855252adf1b098dacc06d83ae6]
 
 In Part 2 of Schedule 1 to the Act (local government) after paragraph 35B insert—
 
 > **35C.** An urban development corporation established under section 135 of the Local Government, Planning and Land Act 1980.
 
-**3.**[^key-47d09951574efe872c1b8111dae24e64] In Part 6 of Schedule 1 to the Act (other public bodies and offices: general) insert, at the appropriate place in each case, the entries listed in the Schedule to this Order.
+**3.**[^c-47d09951574efe872c1b8111dae24e64] In Part 6 of Schedule 1 to the Act (other public bodies and offices: general) insert, at the appropriate place in each case, the entries listed in the Schedule to this Order.
 
 Signed by the authority of the Secretary of State
 
@@ -86,24 +86,24 @@ Ministry of Justice
 
 Article 3
 
-### PART 1 — Entries Inserted with Effect from 1 October 2010[^key-5c5ded5fa495dd5cd3d2a0bfff81f43d]
+### PART 1 — Entries Inserted with Effect from 1 October 2010[^c-5c5ded5fa495dd5cd3d2a0bfff81f43d]
 
 - The Commission on Human Medicines.
 - The Film Industry Training Board for England and Wales.
 - The Herbal Medicines Advisory Committee.
 - The Independent Advisory Committee on Development Impact.
-- [^key-b56e556daf02103f7b1fe48056bbdc87]...
+- [^c-b56e556daf02103f7b1fe48056bbdc87]...
 - The National Consumer Council.
 - The National Non-Food Crops Centre.
 - The Office of the Renewable Fuels Agency.
 - The Personal Accounts Delivery Authority.
-- [^key-26593869d68d530c31344001ed0034c7]...
+- [^c-26593869d68d530c31344001ed0034c7]...
 - The Regulator of Community Interest Companies.
 - The Science Advisory Council.
 
-### PART 2 — Entries Inserted with Effect from 31 December 2011[^key-78ab79dcd5af4e28885c5a9b94bc20f3]
+### PART 2 — Entries Inserted with Effect from 31 December 2011[^c-78ab79dcd5af4e28885c5a9b94bc20f3]
 
-- [^key-34ebd7ec0eaa19b47d73fc6c5002fd7c]...
+- [^c-34ebd7ec0eaa19b47d73fc6c5002fd7c]...
 - The Building Regulations Advisory Committee for Wales.
 
 EXPLANATORY NOTE
@@ -124,18 +124,18 @@ The bodies and offices added to Schedule 1 to the Act by this Order are public b
 
 [^f00002]: Footnote: Section 4(7) was amended by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), Schedule 2, paragraph 8(1)(a), [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), Schedule 2, paragraph 12(1)(a), and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388), Schedule 1, paragraph 78(4).
 
-[^key-08118029bffe16216cca783244ead6f1]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/937/article/1) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/937/article/1/2)
+[^c-08118029bffe16216cca783244ead6f1]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/937/article/1) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/937/article/1/2)
 
-[^key-36b4ee855252adf1b098dacc06d83ae6]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/937/article/2) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/937/article/1/2)
+[^c-36b4ee855252adf1b098dacc06d83ae6]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/937/article/2) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/937/article/1/2)
 
-[^key-47d09951574efe872c1b8111dae24e64]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/937/article/3) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/937/article/1/2)
+[^c-47d09951574efe872c1b8111dae24e64]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/937/article/3) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/937/article/1/2)
 
-[^key-5c5ded5fa495dd5cd3d2a0bfff81f43d]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2010/937/schedule/part/1) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/937/article/1/2)
+[^c-5c5ded5fa495dd5cd3d2a0bfff81f43d]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2010/937/schedule/part/1) in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/937/article/1/2)
 
-[^key-b56e556daf02103f7b1fe48056bbdc87]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2010/937/schedule/part/1) omitted (1.4.2025) by virtue of [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2025/286/regulation/2)
+[^c-b56e556daf02103f7b1fe48056bbdc87]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2010/937/schedule/part/1) omitted (1.4.2025) by virtue of [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2025/286/regulation/2)
 
-[^key-26593869d68d530c31344001ed0034c7]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2010/937/schedule/part/1) omitted (1.4.2013) by virtue of [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [7](https://www.legislation.gov.uk/uksi/2013/64/article/7) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
+[^c-26593869d68d530c31344001ed0034c7]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2010/937/schedule/part/1) omitted (1.4.2013) by virtue of [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/64/article/1/2), [7](https://www.legislation.gov.uk/uksi/2013/64/article/7) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
 
-[^key-78ab79dcd5af4e28885c5a9b94bc20f3]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2010/937/schedule/part/2) in force at 31.12.2011, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/937/article/1/3)
+[^c-78ab79dcd5af4e28885c5a9b94bc20f3]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2010/937/schedule/part/2) in force at 31.12.2011, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/937/article/1/3)
 
-[^key-34ebd7ec0eaa19b47d73fc6c5002fd7c]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2010/937/schedule/part/2) omitted (1.4.2023) by virtue of [The Building Safety Act 2022 (Consequential Amendments and Prescribed Functions) and Architects Act 1997 (Amendment) Regulations 2023 (S.I. 2023/229)](https://www.legislation.gov.uk/uksi/2023/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/229/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/229/regulation/3)
+[^c-34ebd7ec0eaa19b47d73fc6c5002fd7c]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2010/937/schedule/part/2) omitted (1.4.2023) by virtue of [The Building Safety Act 2022 (Consequential Amendments and Prescribed Functions) and Architects Act 1997 (Amendment) Regulations 2023 (S.I. 2023/229)](https://www.legislation.gov.uk/uksi/2023/229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/229/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/229/regulation/3)

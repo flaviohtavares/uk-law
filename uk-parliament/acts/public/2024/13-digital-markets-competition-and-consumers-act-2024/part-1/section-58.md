@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Qualifying status[^key-3fe9a9506dd25aee08a1027a9a8ec530][^key-01069a8c164240baee70b002bf4acbd3]
+## 58. Qualifying status[^c-3fe9a9506dd25aee08a1027a9a8ec530][^c-01069a8c164240baee70b002bf4acbd3]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ and, in the case of a body corporate that does not have general meetings at whic
 
 ## Annotations
 
-[^key-3fe9a9506dd25aee08a1027a9a8ec530]: Commencement: S. 58 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-3fe9a9506dd25aee08a1027a9a8ec530]: Commencement: S. 58 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-01069a8c164240baee70b002bf4acbd3]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2024/13/section/58) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-01069a8c164240baee70b002bf4acbd3]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2024/13/section/58) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

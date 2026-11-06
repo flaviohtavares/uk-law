@@ -24,7 +24,7 @@ summary: ''
 
 Regulations C3(4) and C6(3), Schedule 4 paragraph 8 and Schedule 5 paragraph 6
 
-**1.**[^key-01769b20e2bc15c43aaf9068fbfcc699] (1) Subject to paragraph 2, the maximum length of the period in respect of which an election may be made under regulation C3 or C6 is
+**1.**[^c-01769b20e2bc15c43aaf9068fbfcc699] (1) Subject to paragraph 2, the maximum length of the period in respect of which an election may be made under regulation C3 or C6 is
 
 [formula: see source](https://www.legislation.gov.uk/nisr/1998/333)
 
@@ -56,7 +56,7 @@ TABLE
   - C is his age at the start of his most recent pensionable employment; and
   - D is the total of the time he had then spent in pensionable employment and the length of any reckonable service with which he has been credited on the receipt of a transfer value in respect of comparable service.
 
-**2.**[^key-b316e84bfd6b0d8bab7348ce620e6bf8] (1) This paragraph applies to a person who at the start of his most recent pensionable employment was entitled in respect of a former employment to material benefits, whether or not they had then become payable.
+**2.**[^c-b316e84bfd6b0d8bab7348ce620e6bf8] (1) This paragraph applies to a person who at the start of his most recent pensionable employment was entitled in respect of a former employment to material benefits, whether or not they had then become payable.
 
 (2) Material benefits comprise any benefits by way of pension,allowance, lump sum or gratuity whose actuarial equivalent as an annuity for life from the age of 60 would be more than £260 a year.
 
@@ -78,7 +78,7 @@ where—
 - (a) where the election is made before the person attains the age of 60, are those resulting from the assumptions that he continues in pensionable employment until that age and then becomes entitled to retirement benefits and that the salary scale applicable at the date of the election continues to apply; and
 - (b) where the election is made after the person has attained the age of 60, are those resulting from the assumptions that he ceased to be in pensionable employment on his 60th birthday and then became entitled to retirement benefits.
 
-**3.**[^key-e44b896f97744d5dd0335ac6b5d1570a] (1) This paragraph applies where a person—
+**3.**[^c-e44b896f97744d5dd0335ac6b5d1570a] (1) This paragraph applies where a person—
 
 - (a) has elected to pay additional contributions under regulation C3; or
 - (b) has continued to pay additional contributions by virtue of regulation C5(1) (elections made before 1st December 1982),
@@ -98,8 +98,8 @@ where—
 
 ## Annotations
 
-[^key-01769b20e2bc15c43aaf9068fbfcc699]: Commencement: Sch. 3 para. 1 in operation at 2.11.1998, see reg. A1
+[^c-01769b20e2bc15c43aaf9068fbfcc699]: Commencement: Sch. 3 para. 1 in operation at 2.11.1998, see reg. A1
 
-[^key-b316e84bfd6b0d8bab7348ce620e6bf8]: Commencement: Sch. 3 para. 2 in operation at 2.11.1998, see reg. A1
+[^c-b316e84bfd6b0d8bab7348ce620e6bf8]: Commencement: Sch. 3 para. 2 in operation at 2.11.1998, see reg. A1
 
-[^key-e44b896f97744d5dd0335ac6b5d1570a]: Commencement: Sch. 3 para. 3 in operation at 2.11.1998, see reg. A1
+[^c-e44b896f97744d5dd0335ac6b5d1570a]: Commencement: Sch. 3 para. 3 in operation at 2.11.1998, see reg. A1

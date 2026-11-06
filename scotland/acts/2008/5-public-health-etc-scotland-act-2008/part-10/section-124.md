@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Interpretation[^key-8253eedf615e5def6f61ec70692566fc]
+## 124. Interpretation[^c-8253eedf615e5def6f61ec70692566fc]
 
 *Extent: S*
 
@@ -36,7 +36,7 @@ In this Act, unless the context otherwise requires—
 - “**hospital**” means—
   - (a) any health service hospital (as defined in section 108(1) of the 1978 Act); and
   - (b) any state hospital (being a hospital provided under section 102(1) of that Act);
-- “[^key-67ec74fed100c1bcc2ff418437d76d1a]**hydrolysis**” has the meaning given in section 107 of the Burial and Cremation (Scotland) Act 2016; and “**hydrolysed**” is to be construed accordingly,
+- “[^c-67ec74fed100c1bcc2ff418437d76d1a]**hydrolysis**” has the meaning given in section 107 of the Burial and Cremation (Scotland) Act 2016; and “**hydrolysed**” is to be construed accordingly,
 - “**infectious disease**” has the meaning given by section 1(5);
 - “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);
 - “**local authority competent person**” means a person designated by a local authority under section 5(1);
@@ -53,6 +53,6 @@ In this Act, unless the context otherwise requires—
 
 ## Annotations
 
-[^key-8253eedf615e5def6f61ec70692566fc]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2008/5/section/124) in force at 1.4.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
+[^c-8253eedf615e5def6f61ec70692566fc]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2008/5/section/124) in force at 1.4.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
 
-[^key-67ec74fed100c1bcc2ff418437d76d1a]: Textual amendment: Words in [s. 124](https://www.legislation.gov.uk/asp/2008/5/section/124) inserted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [5(d)](https://www.legislation.gov.uk/ssi/2026/50/regulation/5/d)
+[^c-67ec74fed100c1bcc2ff418437d76d1a]: Textual amendment: Words in [s. 124](https://www.legislation.gov.uk/asp/2008/5/section/124) inserted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [5(d)](https://www.legislation.gov.uk/ssi/2026/50/regulation/5/d)

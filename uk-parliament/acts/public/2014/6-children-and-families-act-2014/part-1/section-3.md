@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Repeal of requirement to give due consideration to ethnicity: England[^key-8c9e2370a3e31d50527117ccf8b9a3e1]
+## 3. Repeal of requirement to give due consideration to ethnicity: England[^c-8c9e2370a3e31d50527117ccf8b9a3e1]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c9e2370a3e31d50527117ccf8b9a3e1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/6/section/3) in force at 25.7.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/889/article/6/b)
+[^c-8c9e2370a3e31d50527117ccf8b9a3e1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/6/section/3) in force at 25.7.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/889/article/6/b)

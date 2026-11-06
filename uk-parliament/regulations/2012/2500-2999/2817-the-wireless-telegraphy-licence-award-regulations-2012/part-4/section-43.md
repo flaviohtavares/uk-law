@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Supplementary bids[^key-7826ac244c132409e49859a3c2ac89e1]
+## 43. Supplementary bids[^c-7826ac244c132409e49859a3c2ac89e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ where—
 
 ## Annotations
 
-[^key-7826ac244c132409e49859a3c2ac89e1]: Commencement: Reg. 43 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-7826ac244c132409e49859a3c2ac89e1]: Commencement: Reg. 43 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Reporting by monitoring body[^key-d2393e9b07679fae0a3b37af8f0ab329]
+## 50. Reporting by monitoring body[^c-d2393e9b07679fae0a3b37af8f0ab329]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2393e9b07679fae0a3b37af8f0ab329]: Commencement: S. 50 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)
+[^c-d2393e9b07679fae0a3b37af8f0ab329]: Commencement: S. 50 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)

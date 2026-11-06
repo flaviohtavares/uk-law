@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Power to appropriate berths, etc.[^key-fa3d55623e854d30f1434d29739db351]
+## 42. Power to appropriate berths, etc.[^c-fa3d55623e854d30f1434d29739db351]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa3d55623e854d30f1434d29739db351]: Commencement: Art. 42 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-fa3d55623e854d30f1434d29739db351]: Commencement: Art. 42 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

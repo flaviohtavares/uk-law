@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Managing connections to the network: strategic plans etc[^key-b2594310cd704b1403f905bc36a3a8cb]
+## 18. Managing connections to the network: strategic plans etc[^c-b2594310cd704b1403f905bc36a3a8cb]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2594310cd704b1403f905bc36a3a8cb]: Commencement: S. 18 in force at Royal Assent, see [s. 118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f)
+[^c-b2594310cd704b1403f905bc36a3a8cb]: Commencement: S. 18 in force at Royal Assent, see [s. 118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f)

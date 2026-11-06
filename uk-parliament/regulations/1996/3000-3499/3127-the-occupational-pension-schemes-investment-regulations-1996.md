@@ -30,7 +30,7 @@ summary: ''
 
 PENSIONS
 
-The Occupational Pension Schemes (Investment) Regulations 1996 (revoked)[^key-bfa57192ff2526f13bae646c8bad0491]
+The Occupational Pension Schemes (Investment) Regulations 1996 (revoked)[^c-bfa57192ff2526f13bae646c8bad0491]
 
 Made
 
@@ -44,85 +44,85 @@ Coming into force
 
 6th April 1997
 
-[^key-bfa57192ff2526f13bae646c8bad0491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfa57192ff2526f13bae646c8bad0491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — GENERAL[^key-bfa57192ff2526f13bae646c8bad0491]
+## PART I — GENERAL[^c-bfa57192ff2526f13bae646c8bad0491]
 
-### 1. Citation, commencement and interpretation[^key-bfa57192ff2526f13bae646c8bad0491]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 1A. Extension of the meaning of “employer”[^key-bfa57192ff2526f13bae646c8bad0491]
+### 1. Citation, commencement and interpretation[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — RESTRICTIONS ON EMPLOYER-RELATED INVESTMENTS[^key-bfa57192ff2526f13bae646c8bad0491]
-
-### 2. Schemes to which regulation 5 applies[^key-bfa57192ff2526f13bae646c8bad0491]
+### 1A. Extension of the meaning of “employer”[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Connected and associated persons[^key-bfa57192ff2526f13bae646c8bad0491]
+## PART II — RESTRICTIONS ON EMPLOYER-RELATED INVESTMENTS[^c-bfa57192ff2526f13bae646c8bad0491]
+
+### 2. Schemes to which regulation 5 applies[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Prescription of investments as employer-related investments[^key-bfa57192ff2526f13bae646c8bad0491]
+### 3. Connected and associated persons[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Restrictions on employer-related investments[^key-bfa57192ff2526f13bae646c8bad0491]
+### 4. Prescription of investments as employer-related investments[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Investments to which restrictions do not apply[^key-bfa57192ff2526f13bae646c8bad0491]
+### 5. Restrictions on employer-related investments[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Transitional provisions[^key-bfa57192ff2526f13bae646c8bad0491]
+### 6. Investments to which restrictions do not apply[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Loans that become employer-related[^key-bfa57192ff2526f13bae646c8bad0491]
+### 7. Transitional provisions[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Multi-employer schemes[^key-bfa57192ff2526f13bae646c8bad0491]
+### 8. Loans that become employer-related[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — ... STATEMENT OF INVESTMENT PRINCIPLES[^key-bfa57192ff2526f13bae646c8bad0491]
-
-### 10. Exemptions from section 35 of the 1995 Act[^key-bfa57192ff2526f13bae646c8bad0491]
+### 9. Multi-employer schemes[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Multi-employer schemes: modification of section 35 of the 1995 Act[^key-bfa57192ff2526f13bae646c8bad0491]
+## PART III — ... STATEMENT OF INVESTMENT PRINCIPLES[^c-bfa57192ff2526f13bae646c8bad0491]
+
+### 10. Exemptions from section 35 of the 1995 Act[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11A. Additional content of statement of investment principles[^key-bfa57192ff2526f13bae646c8bad0491]
+### 11. Multi-employer schemes: modification of section 35 of the 1995 Act[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — AMENDMENTS[^key-bfa57192ff2526f13bae646c8bad0491]
-
-### 12. Amendments of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations 1996[^key-bfa57192ff2526f13bae646c8bad0491]
+### 11A. Additional content of statement of investment principles[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART V — REVOCATIONS[^key-bfa57192ff2526f13bae646c8bad0491]
+## PART IV — AMENDMENTS[^c-bfa57192ff2526f13bae646c8bad0491]
 
-### 13. Revocations[^key-bfa57192ff2526f13bae646c8bad0491]
+### 12. Amendments of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations 1996[^c-bfa57192ff2526f13bae646c8bad0491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfa57192ff2526f13bae646c8bad0491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART V — REVOCATIONS[^c-bfa57192ff2526f13bae646c8bad0491]
+
+### 13. Revocations[^c-bfa57192ff2526f13bae646c8bad0491]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-bfa57192ff2526f13bae646c8bad0491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REVOCATIONS[^key-bfa57192ff2526f13bae646c8bad0491]
+## SCHEDULE — REVOCATIONS[^c-bfa57192ff2526f13bae646c8bad0491]
 
 Regulation 13
 
@@ -130,8 +130,8 @@ Regulation 13
 
 **May not be in force at this date. Check the source.**
 
-[^key-bfa57192ff2526f13bae646c8bad0491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfa57192ff2526f13bae646c8bad0491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bfa57192ff2526f13bae646c8bad0491]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1996/3127) revoked (30.12.2005) by [The Occupational Pension Schemes (Investment) Regulations 2005 (S.I. 2005/3378)](https://www.legislation.gov.uk/uksi/2005/3378), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3378/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3378/schedule)
+[^c-bfa57192ff2526f13bae646c8bad0491]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1996/3127) revoked (30.12.2005) by [The Occupational Pension Schemes (Investment) Regulations 2005 (S.I. 2005/3378)](https://www.legislation.gov.uk/uksi/2005/3378), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3378/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3378/schedule)

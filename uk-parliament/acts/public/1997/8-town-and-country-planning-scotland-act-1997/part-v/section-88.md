@@ -44,7 +44,7 @@ he may, within the prescribed time and in the prescribed manner, serve on the pl
 - (a) that by reason of the order the land is incapable of reasonably beneficial use in its existing state, and
 - (b) that it cannot be rendered capable of reasonably beneficial use by the carrying out of any development for which planning permission has been granted, whether by that order or otherwise.
 
-(5) For the purposes of subsection (1)(a) and any claim arising in the circumstances mentioned in that subsection, the conditions referred to in[^key-6d9b03233b5b5c9cc3c5ecfa586a1f77] sections 58 and 59 shall be disregarded.
+(5) For the purposes of subsection (1)(a) and any claim arising in the circumstances mentioned in that subsection, the conditions referred to in[^c-6d9b03233b5b5c9cc3c5ecfa586a1f77] sections 58 and 59 shall be disregarded.
 
 (6) A person on whom a repairs notice has been served under section 43 of the [^c950102]Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997 shall not be entitled to serve a purchase notice in the circumstances mentioned in subsection (1)(a) in respect of the building in question—
 
@@ -62,7 +62,7 @@ he may, within the prescribed time and in the prescribed manner, serve on the pl
 
 ## Annotations
 
-[^key-6d9b03233b5b5c9cc3c5ecfa586a1f77]: Textual amendment: Words in [s. 88(5)](https://www.legislation.gov.uk/ukpga/1997/8/section/88/5) substituted (1.10.2022) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 6(5)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/6/5); [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/f) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))
+[^c-6d9b03233b5b5c9cc3c5ecfa586a1f77]: Textual amendment: Words in [s. 88(5)](https://www.legislation.gov.uk/ukpga/1997/8/section/88/5) substituted (1.10.2022) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2), [sch. 2 para. 6(5)](https://www.legislation.gov.uk/asp/2019/13/schedule/2/paragraph/6/5); [S.S.I. 2022/275](https://www.legislation.gov.uk/ssi/2022/275), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2022/275/regulation/2/2/f) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/275/regulation/3))
 
 [^c950102]: Marginal citation: [1997 c. 9](https://www.legislation.gov.uk/ukpga/1997/9).
 

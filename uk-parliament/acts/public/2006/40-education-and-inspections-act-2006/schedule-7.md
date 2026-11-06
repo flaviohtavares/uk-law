@@ -24,9 +24,9 @@ Section 71
 
 ### Part 1 — Principal amendments
 
-#### Statement to be prepared by local authority following adverse report on maintained school[^key-81ffb0eb20e62c98df124b83aeaf3944]
+#### Statement to be prepared by local authority following adverse report on maintained school[^c-81ffb0eb20e62c98df124b83aeaf3944]
 
-**1.**[^key-231cf7c4bf8c2b0dcafcba847b3d4952] (1) Section 15 of EA 2005 (measures to be taken by local education authority following inspection report stating that school requires special measures or significant improvement) is amended as follows.
+**1.**[^c-231cf7c4bf8c2b0dcafcba847b3d4952] (1) Section 15 of EA 2005 (measures to be taken by local education authority following inspection report stating that school requires special measures or significant improvement) is amended as follows.
 
 (2) In subsection (1), for “This section” substitute “ Subsection (2) ”.
 
@@ -69,7 +69,7 @@ Section 71
 
 #### Statement to be prepared by proprietor following adverse report on non-maintained school
 
-**2.**[^key-a2025b200a23e245612bdc4f043bd292] (1) Section 17 of EA 2005 (statement to be prepared by proprietor of school other than maintained school) is amended as follows.
+**2.**[^c-a2025b200a23e245612bdc4f043bd292] (1) Section 17 of EA 2005 (statement to be prepared by proprietor of school other than maintained school) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -119,42 +119,42 @@ Section 71
 
 #### School Standards and Framework Act 1998 (c. 31)
 
-**3.**[^key-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-2bcdbd1b250bb8ffd7bb688fd55aea74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-22e9846442e9c88bb5cbfa0ecb366a2c] In section 142 of SSFA 1998 (interpretation), in subsection (4)—
+**15.**[^c-22e9846442e9c88bb5cbfa0ecb366a2c] In section 142 of SSFA 1998 (interpretation), in subsection (4)—
 
 - (a) after “this Act” insert “ (or Part 4 of the Education and Inspections Act 2006) ”, and
 - (b) in paragraph (b), after “section 16(6) or (8)” insert “ or of section 64(4) or (6) of the Education and Inspections Act 2006 ”.
 
-**16.**[^key-066d66c666623fa98f7813db5fcedbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-066d66c666623fa98f7813db5fcedbae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-ef29bfaa3abfafe2995e0accb79f1944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-ef29bfaa3abfafe2995e0accb79f1944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Learning and Skills Act 2000 (c. 21)
 
-**18.**[^key-422cbdaf92839a86d69e97817b5646c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-422cbdaf92839a86d69e97817b5646c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Education Act 2002 (c. 32)
 
@@ -165,9 +165,9 @@ Section 71
   > - (za) Part 4 of the Education and Inspections Act 2006 (schools causing concern: England),
 
   , and
-- (b)[^key-95a5aac633e45af1b3393ee248b98bfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-95a5aac633e45af1b3393ee248b98bfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-ebe88e23250ce7eeb955c3283dfbe412] After section 62 of EA 2002 insert—
+**20.**[^c-ebe88e23250ce7eeb955c3283dfbe412] After section 62 of EA 2002 insert—
 
 > **62A. Power to require local authority in England to obtain advisory services**
 >
@@ -189,9 +189,9 @@ Section 71
 >
 > (5) Any direction given under this section shall be enforceable, on an application made on behalf of the Secretary of State, by a mandatory order.
 
-**21.**[^key-98b046c20bc3cf3b3326dafb52109ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-98b046c20bc3cf3b3326dafb52109ef6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-213a71098691d0126f5feac69a25ae94] (1) Section 64 (provisions supplementary to section 63) is amended as follows.
+**22.**[^c-213a71098691d0126f5feac69a25ae94] (1) Section 64 (provisions supplementary to section 63) is amended as follows.
 
 (2) In subsections (1) and (2), for “section 63” substitute “ section 62A or 63 ”.
 
@@ -204,36 +204,36 @@ Section 71
 
 #### Education Act 2005 (c. 18)
 
-**23.**[^key-f524a6ddbfbf50d340d65f2ad56e9dd5] In section 5 of EA 2005 (duty to inspect schools at prescribed intervals), in subsection (4)(c), for “section 19 or 32 of that Act” substitute “ section 17 or 68 of the Education and Inspections Act 2006 ”.
+**23.**[^c-f524a6ddbfbf50d340d65f2ad56e9dd5] In section 5 of EA 2005 (duty to inspect schools at prescribed intervals), in subsection (4)(c), for “section 19 or 32 of that Act” substitute “ section 17 or 68 of the Education and Inspections Act 2006 ”.
 
-**24.**[^key-5f4340958cf9872aaf175b89a6d691fd] In section 18 of EA 2005 (interpretation of Chapter 2 of Part 1), in paragraph (a) of the definition of “appropriate appointing authority”, omit “, a Church in Wales school”.
+**24.**[^c-5f4340958cf9872aaf175b89a6d691fd] In section 18 of EA 2005 (interpretation of Chapter 2 of Part 1), in paragraph (a) of the definition of “appropriate appointing authority”, omit “, a Church in Wales school”.
 
 ## Annotations
 
-[^key-81ffb0eb20e62c98df124b83aeaf3944]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/3)
+[^c-81ffb0eb20e62c98df124b83aeaf3944]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/3)
 
-[^key-231cf7c4bf8c2b0dcafcba847b3d4952]: Commencement: Sch. 7 para. 1 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
+[^c-231cf7c4bf8c2b0dcafcba847b3d4952]: Commencement: Sch. 7 para. 1 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
 
-[^key-a2025b200a23e245612bdc4f043bd292]: Commencement: Sch. 7 para. 2 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
+[^c-a2025b200a23e245612bdc4f043bd292]: Commencement: Sch. 7 para. 2 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
 
-[^key-2bcdbd1b250bb8ffd7bb688fd55aea74]: Textual amendment: Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-2bcdbd1b250bb8ffd7bb688fd55aea74]: Textual amendment: Sch. 7 paras. 3-14 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-22e9846442e9c88bb5cbfa0ecb366a2c]: Commencement: Sch. 7 para. 15 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
+[^c-22e9846442e9c88bb5cbfa0ecb366a2c]: Commencement: Sch. 7 para. 15 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
 
-[^key-066d66c666623fa98f7813db5fcedbae]: Textual amendment: Sch. 7 para. 16 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-066d66c666623fa98f7813db5fcedbae]: Textual amendment: Sch. 7 para. 16 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-ef29bfaa3abfafe2995e0accb79f1944]: Textual amendment: Sch. 7 para. 17 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-ef29bfaa3abfafe2995e0accb79f1944]: Textual amendment: Sch. 7 para. 17 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-422cbdaf92839a86d69e97817b5646c7]: Textual amendment: Sch. 7 para. 18 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-422cbdaf92839a86d69e97817b5646c7]: Textual amendment: Sch. 7 para. 18 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-95a5aac633e45af1b3393ee248b98bfa]: Textual amendment: Sch. 7 para. 19(b) omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-95a5aac633e45af1b3393ee248b98bfa]: Textual amendment: Sch. 7 para. 19(b) omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-ebe88e23250ce7eeb955c3283dfbe412]: Commencement: Sch. 7 para. 20 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
+[^c-ebe88e23250ce7eeb955c3283dfbe412]: Commencement: Sch. 7 para. 20 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
 
-[^key-98b046c20bc3cf3b3326dafb52109ef6]: Textual amendment: Sch. 7 para. 21 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-98b046c20bc3cf3b3326dafb52109ef6]: Textual amendment: Sch. 7 para. 21 omitted (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9/2); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-213a71098691d0126f5feac69a25ae94]: Commencement: Sch. 7 para. 22 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
+[^c-213a71098691d0126f5feac69a25ae94]: Commencement: Sch. 7 para. 22 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
 
-[^key-f524a6ddbfbf50d340d65f2ad56e9dd5]: Commencement: Sch. 7 para. 23 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
+[^c-f524a6ddbfbf50d340d65f2ad56e9dd5]: Commencement: Sch. 7 para. 23 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
 
-[^key-5f4340958cf9872aaf175b89a6d691fd]: Commencement: Sch. 7 para. 24 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
+[^c-5f4340958cf9872aaf175b89a6d691fd]: Commencement: Sch. 7 para. 24 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)

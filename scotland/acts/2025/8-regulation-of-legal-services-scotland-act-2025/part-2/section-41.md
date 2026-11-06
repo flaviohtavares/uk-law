@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Rules for authorised legal businesses[^key-dc75e36e58e502a773b735145938fd30][^key-f6ac331a71a1501d40b9e330c45133e5][^key-7aad02db879869af1cc1fcd462db2f60]
+## 41. Rules for authorised legal businesses[^c-dc75e36e58e502a773b735145938fd30][^c-f6ac331a71a1501d40b9e330c45133e5][^c-7aad02db879869af1cc1fcd462db2f60]
 
 *Extent: S*
 
@@ -96,8 +96,8 @@ summary: ''
 
 ## Annotations
 
-[^key-dc75e36e58e502a773b735145938fd30]: Commencement: S. 41 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-dc75e36e58e502a773b735145938fd30]: Commencement: S. 41 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-f6ac331a71a1501d40b9e330c45133e5]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2025/8/section/41) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-f6ac331a71a1501d40b9e330c45133e5]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2025/8/section/41) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-7aad02db879869af1cc1fcd462db2f60]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2025/8/section/41) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-7aad02db879869af1cc1fcd462db2f60]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2025/8/section/41) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

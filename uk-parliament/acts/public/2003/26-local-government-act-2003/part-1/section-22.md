@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. “Revenue account”[^key-2196ed4a6f9ffa84a21ef2a4f6ddd43b][^key-dbb856930a1b68ec37d8b2d1e3e7fcbf][^key-42618041b7db4159ba640f8c7a3c0c7a][^key-47b1652efe0b2cb6e9daaf01e412eadf][^key-389ba122a33b60aa5652e4f09d7edf7d]
+## 22. “Revenue account”[^c-2196ed4a6f9ffa84a21ef2a4f6ddd43b][^c-dbb856930a1b68ec37d8b2d1e3e7fcbf][^c-42618041b7db4159ba640f8c7a3c0c7a][^c-47b1652efe0b2cb6e9daaf01e412eadf][^c-389ba122a33b60aa5652e4f09d7edf7d]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 - (b) any enactment passed after or in the same Session as that Act, and
 - (c) any earlier enactment amended by that Act or an enactment falling within paragraph (b).
 
-(3)[^key-5370d16c032d0c57281e3f9d4c38f822] In this section, “**local authority**” includes—
+(3)[^c-5370d16c032d0c57281e3f9d4c38f822] In this section, “**local authority**” includes—
 
 - (a) a parish council,
 - (b) a parish meeting of a parish which does not have a separate parish council,
@@ -55,14 +55,14 @@ summary: ''
 
 ## Annotations
 
-[^key-2196ed4a6f9ffa84a21ef2a4f6ddd43b]: Commencement: S. 22 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/3))
+[^c-2196ed4a6f9ffa84a21ef2a4f6ddd43b]: Commencement: S. 22 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/3))
 
-[^key-dbb856930a1b68ec37d8b2d1e3e7fcbf]: Commencement: S. 22 in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-dbb856930a1b68ec37d8b2d1e3e7fcbf]: Commencement: S. 22 in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-42618041b7db4159ba640f8c7a3c0c7a]: Modification: S. 22 applied by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 2 para. 7A](https://www.legislation.gov.uk/ukpga/2011/13/schedule/2/paragraph/7A) (as inserted (temp.) (31.3.2014) by [S.I. 2013/2319](https://www.legislation.gov.uk/uksi/2013/2319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2319/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2013/2319/article/2/1))
+[^c-42618041b7db4159ba640f8c7a3c0c7a]: Modification: S. 22 applied by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 2 para. 7A](https://www.legislation.gov.uk/ukpga/2011/13/schedule/2/paragraph/7A) (as inserted (temp.) (31.3.2014) by [S.I. 2013/2319](https://www.legislation.gov.uk/uksi/2013/2319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2319/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2013/2319/article/2/1))
 
-[^key-47b1652efe0b2cb6e9daaf01e412eadf]: Modification: S. 22 excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/19)
+[^c-47b1652efe0b2cb6e9daaf01e412eadf]: Modification: S. 22 excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/19)
 
-[^key-389ba122a33b60aa5652e4f09d7edf7d]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/2003/26/section/22) excluded (29.6.2026) by 2011 c. 13, Sch. 10A para. 59 (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
+[^c-389ba122a33b60aa5652e4f09d7edf7d]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/2003/26/section/22) excluded (29.6.2026) by 2011 c. 13, Sch. 10A para. 59 (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
 
-[^key-5370d16c032d0c57281e3f9d4c38f822]: Textual amendment: S. 22(3) substituted (10.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 51](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/51); [S.I. 2015/179](https://www.legislation.gov.uk/uksi/2015/179), [art. 2](https://www.legislation.gov.uk/uksi/2015/179/article/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-5370d16c032d0c57281e3f9d4c38f822]: Textual amendment: S. 22(3) substituted (10.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 51](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/51); [S.I. 2015/179](https://www.legislation.gov.uk/uksi/2015/179), [art. 2](https://www.legislation.gov.uk/uksi/2015/179/article/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

@@ -31,7 +31,7 @@ summary: ''
 
 Land Settlement, Northern Ireland
 
-The Irish Sailors and Soldiers Land Trust Act 1987 (Dissolution) Order 2011 (revoked)[^key-035d91f0650b05bd5d355930c49bf8d3]
+The Irish Sailors and Soldiers Land Trust Act 1987 (Dissolution) Order 2011 (revoked)[^c-035d91f0650b05bd5d355930c49bf8d3]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 27th April 2011
 
-[^key-035d91f0650b05bd5d355930c49bf8d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-035d91f0650b05bd5d355930c49bf8d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-035d91f0650b05bd5d355930c49bf8d3]
+## 1. Citation and Commencement[^c-035d91f0650b05bd5d355930c49bf8d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Dissolution of the Trust[^key-035d91f0650b05bd5d355930c49bf8d3]
+## 2. Dissolution of the Trust[^c-035d91f0650b05bd5d355930c49bf8d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-035d91f0650b05bd5d355930c49bf8d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-035d91f0650b05bd5d355930c49bf8d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-035d91f0650b05bd5d355930c49bf8d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-035d91f0650b05bd5d355930c49bf8d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-035d91f0650b05bd5d355930c49bf8d3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1108) revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)
+[^c-035d91f0650b05bd5d355930c49bf8d3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1108) revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)

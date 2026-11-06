@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Duty to have regard to improvement targets[^key-f7c6dc92e454487784eeb67a85d976a6]
+## 130. Duty to have regard to improvement targets[^c-f7c6dc92e454487784eeb67a85d976a6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7c6dc92e454487784eeb67a85d976a6]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ukpga/2009/20/part/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 102(1)](https://www.legislation.gov.uk/ukpga/2015/20/section/102/1), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
+[^c-f7c6dc92e454487784eeb67a85d976a6]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ukpga/2009/20/part/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 102(1)](https://www.legislation.gov.uk/ukpga/2015/20/section/102/1), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)

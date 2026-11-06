@@ -48,11 +48,11 @@ The Lord Chief Justice, with the agreement of the Lord Chancellor, makes these R
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-597914d8dd32f0af1ba158b2fd1b82f9]
+### 1. Citation and commencement[^c-597914d8dd32f0af1ba158b2fd1b82f9]
 
 These Rules may be cited as the Coroners (Inquests) Rules 2013 and shall come into force on 25th July 2013.
 
-### 2. Interpretation[^key-7c581da2bbb8b772f844fa1e930abe5e]
+### 2. Interpretation[^c-7c581da2bbb8b772f844fa1e930abe5e]
 
 (1) In these Rules—
 
@@ -70,7 +70,7 @@ These Rules may be cited as the Coroners (Inquests) Rules 2013 and shall come in
 
 (3) Any reference to a Form in these Rules is a reference to a Form in the Schedule to these Rules.
 
-### 3. Application to existing inquests[^key-b829e411b50964a8cb2a67e5d1577bde]
+### 3. Application to existing inquests[^c-b829e411b50964a8cb2a67e5d1577bde]
 
 (1) These Rules apply to any inquest which has not been completed before 25th July 2013.
 
@@ -78,27 +78,27 @@ These Rules may be cited as the Coroners (Inquests) Rules 2013 and shall come in
 
 ## PART 2 — Formalities
 
-**4.**[^key-3e3ff79c3c2601ae393d933f4f7f5215] This Part applies where a coroner is under a duty to hold an inquest under section 6.
+**4.**[^c-3e3ff79c3c2601ae393d933f4f7f5215] This Part applies where a coroner is under a duty to hold an inquest under section 6.
 
-### 5. Opening of an inquest[^key-611b9eb9551924eedf4b247776ca875a]
+### 5. Opening of an inquest[^c-611b9eb9551924eedf4b247776ca875a]
 
 (1) An inquest must be opened as soon as reasonably practicable after the date on which the coroner considers that the duty under section 6 applies.
 
 (2) At the opening of the inquest, the coroner must, where possible, set the dates on which any subsequent hearings are scheduled to take place.
 
-### 6. Pre-inquest review hearing[^key-d5e15d14b70042edec37ebcbe2720338]
+### 6. Pre-inquest review hearing[^c-d5e15d14b70042edec37ebcbe2720338]
 
 A coroner may at any time during the course of an investigation and before an inquest hearing hold a pre-inquest review hearing.
 
-### 7. Days on which an inquest may be held[^key-1cfaca708514c7f498b664511b694cce]
+### 7. Days on which an inquest may be held[^c-1cfaca708514c7f498b664511b694cce]
 
 An inquest must be held on a working day, unless the coroner considers that there is an urgent reason for holding it on some other day.
 
-### 8. Timing of an inquest[^key-bb12c722a16366dd1ea90cce6886d524]
+### 8. Timing of an inquest[^c-bb12c722a16366dd1ea90cce6886d524]
 
 A coroner must complete an inquest within six months of the date on which the coroner is made aware of the death, or as soon as is reasonably practicable after that date.
 
-### 9. Notification of inquest hearing arrangements[^key-de7ad80015c7c1dc4a89983fc591155a]
+### 9. Notification of inquest hearing arrangements[^c-de7ad80015c7c1dc4a89983fc591155a]
 
 (1) A coroner must notify the next of kin or personal representative of the deceased of the date, time and place of the inquest hearing within one week of setting the date of the inquest hearing.
 
@@ -106,13 +106,13 @@ A coroner must complete an inquest within six months of the date on which the co
 
 (3) Where an inquest hearing is to be held, the coroner must make details of the date, time and place of the inquest hearing publicly available before the inquest hearing commences.
 
-### 10. Coroner to notify interested persons of any alteration of arrangements for an inquest hearing[^key-4979757c2ca9bea1c9c3774879026da8]
+### 10. Coroner to notify interested persons of any alteration of arrangements for an inquest hearing[^c-4979757c2ca9bea1c9c3774879026da8]
 
 (1) Where the date, time or place of the inquest hearing is altered the coroner must notify the next of kin or personal representative of the deceased, and any other interested persons who have made themselves known to the coroner, of the alteration within one week of the decision to alter.
 
 (2) The coroner must make the details of any alteration made under paragraph (1) publicly available within one week of the decision to alter.
 
-### 11. Inquest hearings to be held in public[^key-e49b01dafbdb3da8d2782cea0c9653bb]
+### 11. Inquest hearings to be held in public[^c-e49b01dafbdb3da8d2782cea0c9653bb]
 
 (1) A coroner must open an inquest in public.
 
@@ -124,11 +124,11 @@ A coroner must complete an inquest within six months of the date on which the co
 
 (5) A coroner may direct that the public be excluded from a pre-inquest review hearing if the coroner considers it would be in the interests of justice or national security to do so.
 
-## PART 3 — Disclosure[^key-1097dd3fcb4e46e2244322d8e2065149]
+## PART 3 — Disclosure[^c-1097dd3fcb4e46e2244322d8e2065149]
 
-**12.**[^key-2bda67f8b4d2af4c7f1be65f7c92b68f] This Part applies to the disclosure of documents by the coroner during or after the course of an investigation, pre-inquest review or inquest.
+**12.**[^c-2bda67f8b4d2af4c7f1be65f7c92b68f] This Part applies to the disclosure of documents by the coroner during or after the course of an investigation, pre-inquest review or inquest.
 
-### 13. Disclosure of documents at the request of an interested person[^key-d5798e7d8552943d1e313d4f94035907]
+### 13. Disclosure of documents at the request of an interested person[^c-d5798e7d8552943d1e313d4f94035907]
 
 (1) Subject to rule 15, where an interested person asks for disclosure of a document held by the coroner, the coroner must provide that document or a copy of that document, or make the document available for inspection by that person as soon as is reasonably practicable.
 
@@ -139,7 +139,7 @@ A coroner must complete an inquest within six months of the date on which the co
 - (c) where available, the recording of any inquest hearing held in public, but not in relation to any part of the hearing from which the public was excluded under rule 11(4) or (5);
 - (d) any other document which the coroner considers relevant to the inquest.
 
-### 14. Managing disclosure[^key-2a430206f421accbacb59538acec9928]
+### 14. Managing disclosure[^c-2a430206f421accbacb59538acec9928]
 
 A coroner may—
 
@@ -147,7 +147,7 @@ A coroner may—
 - (b) disclose a redacted version of all or part of a document; or
 - (c) make a document available for inspection at a particular time and place.
 
-### 15. Restrictions on disclosure[^key-fcbded597f34945cb41bbb107240d544]
+### 15. Restrictions on disclosure[^c-fcbded597f34945cb41bbb107240d544]
 
 A coroner may refuse to provide a document or a copy of a document requested under rule 13 where—
 
@@ -157,13 +157,13 @@ A coroner may refuse to provide a document or a copy of a document requested und
 - (d) the document relates to contemplated or commenced criminal proceedings; or
 - (e) the coroner considers the document irrelevant to the investigation.
 
-### 16. Costs of disclosure[^key-bf3484f8125d4109d7660cf55ce5fab5]
+### 16. Costs of disclosure[^c-bf3484f8125d4109d7660cf55ce5fab5]
 
 A coroner may not charge a fee for any document or copy of any document, disclosed to an interested person before or during an inquest[^f00003].
 
 ## PART 4 — Management of the inquest hearing
 
-### 17. Evidence by video link[^key-188ef5df0b049153a2b977803e4754cd]
+### 17. Evidence by video link[^c-188ef5df0b049153a2b977803e4754cd]
 
 (1) A coroner may direct that a witness may give evidence at an inquest hearing through a live video link.
 
@@ -181,7 +181,7 @@ A coroner may not charge a fee for any document or copy of any document, disclos
 - (b) on an application by an interested person; or
 - (c) on the coroner’s own initiative.
 
-### 18. Evidence given from behind a screen[^key-9dde39abc359803393a65bab2c0cf746]
+### 18. Evidence given from behind a screen[^c-9dde39abc359803393a65bab2c0cf746]
 
 (1) A coroner may direct that a witness may give evidence at an inquest hearing from behind a screen.
 
@@ -199,19 +199,19 @@ A coroner may not charge a fee for any document or copy of any document, disclos
 - (b) on an application of an interested person; or
 - (c) on the coroner’s own initiative.
 
-### 19. Entitlement to examine witnesses[^key-0180acb08a0bb4b86b814bc3f32472d1]
+### 19. Entitlement to examine witnesses[^c-0180acb08a0bb4b86b814bc3f32472d1]
 
 (1) A coroner must allow any interested person who so requests, to examine any witness either in person or by the interested person’s representative.
 
 (2) A coroner must disallow any question put to the witness which the coroner considers irrelevant.
 
-### 20. Evidence given on oath or affirmation[^key-090e4fa88a14a2fec58b821164ce4e96]
+### 20. Evidence given on oath or affirmation[^c-090e4fa88a14a2fec58b821164ce4e96]
 
 (1) A witness providing evidence at an inquest hearing shall be examined by the coroner on oath or affirmation subject to paragraph (2).
 
 (2) A child under the age of 14, or a child aged 14 or over who is considered by the coroner to be unable to understand the nature of an oath or affirmation, may, on promising to tell the truth, be permitted to give unsworn evidence.
 
-### 21. Examination of witnesses[^key-764af5f0e8070b6be166030b07e83862]
+### 21. Examination of witnesses[^c-764af5f0e8070b6be166030b07e83862]
 
 Unless the coroner otherwise determines, a witness at an inquest hearing must be examined in the following order—
 
@@ -219,13 +219,13 @@ Unless the coroner otherwise determines, a witness at an inquest hearing must be
 - (b) then by any interested person who has asked to examine the witness; and
 - (c) if the witness is represented at the inquest, lastly by the witness’s representative.
 
-### 22. Self incrimination[^key-08716446eb0df6ae82ba31c12d37e9a2]
+### 22. Self incrimination[^c-08716446eb0df6ae82ba31c12d37e9a2]
 
 (1) No witness at an inquest is obliged to answer any question tending to incriminate him or her.
 
 (2) Where it appears to the coroner that a witness has been asked such a question, the coroner must inform the witness that he or she may refuse to answer it.
 
-### 23. Written evidence[^key-9b889ec48e5fd4d235204c08acc24275]
+### 23. Written evidence[^c-9b889ec48e5fd4d235204c08acc24275]
 
 (1) Written evidence as to who the deceased was and how, when and where the deceased came by his or her death is not admissible unless the coroner is satisfied that—
 
@@ -245,7 +245,7 @@ Unless the coroner otherwise determines, a witness at an inquest hearing must be
 
 (4) A coroner may direct that all or parts only of any written evidence submitted under this rule may be read aloud at the inquest hearing.
 
-### 24. Inquiry findings[^key-b86f54bb97b83f4a8b98494ba5e3f869]
+### 24. Inquiry findings[^c-b86f54bb97b83f4a8b98494ba5e3f869]
 
 (1) A coroner may admit the findings of an inquiry, including any inquiry under the Inquiries Act 2005[^f00004], if the coroner considers them relevant to the purposes of the inquest.
 
@@ -255,7 +255,7 @@ Unless the coroner otherwise determines, a witness at an inquest hearing must be
 - (b) the title of the inquiry, date of publication and a brief account of the findings; and
 - (c) that any interested person is entitled to see a copy of the inquiry findings if he or she so wishes.
 
-### 25. Adjournment and resumption of an inquest[^key-410c489aa6533407ade9b38e6eee4227]
+### 25. Adjournment and resumption of an inquest[^c-410c489aa6533407ade9b38e6eee4227]
 
 (1) A coroner may adjourn an inquest if the coroner is of the view that it is reasonable to do so.
 
@@ -265,43 +265,43 @@ Unless the coroner otherwise determines, a witness at an inquest hearing must be
 
 (4) A coroner must adjourn an inquest and notify the Director of Public Prosecutions, if during the course of the inquest, it appears to the coroner that the death of the deceased is likely to have been due to a homicide offence and that a person may be charged in relation to the offence.
 
-### 26. Recording inquest hearings[^key-51da7e69ea86cd2d5141c28a40ae929e]
+### 26. Recording inquest hearings[^c-51da7e69ea86cd2d5141c28a40ae929e]
 
 A coroner must keep a recording of every inquest hearing, including any pre-inquest review hearing.
 
-### 27. No address as to facts[^key-a8caba45db2599c8e1672c67e19bae3a]
+### 27. No address as to facts[^c-a8caba45db2599c8e1672c67e19bae3a]
 
 No person may address the coroner or the jury as to the facts of who the deceased was and how, when and where the deceased came by his or her death.
 
 ## PART 5 — Jury inquests
 
-**28.**[^key-9f834729c4e00de70bdf4524e301e21d] This Part applies to inquests heard or to be heard with a jury.
+**28.**[^c-9f834729c4e00de70bdf4524e301e21d] This Part applies to inquests heard or to be heard with a jury.
 
-### 29. Method of summoning jurors[^key-46e1bb58553be267b51870f152ccaf67]
+### 29. Method of summoning jurors[^c-46e1bb58553be267b51870f152ccaf67]
 
 (1) A juror must be summoned using Form 1.
 
 (2) Form 1 must be sent by post with a return envelope, to the juror or delivered by hand at his or her address as shown in the electoral register.
 
-### 30. Summoning in exceptional circumstances[^key-a25a4f8755ac5445a7f54a29e7caecc2]
+### 30. Summoning in exceptional circumstances[^c-a25a4f8755ac5445a7f54a29e7caecc2]
 
 If it appears to the coroner that a jury will be, or probably will be, incomplete, the coroner may require any persons up to the number needed who are in, or in the vicinity of, the place of the inquest hearing to be summoned (without any written notice) for jury service.
 
-### 31. Certificate of attendance[^key-0986e8a409ec3020305a703d948e23f3]
+### 31. Certificate of attendance[^c-0986e8a409ec3020305a703d948e23f3]
 
 A person duly attending an inquest hearing to serve on a jury in compliance with a summons issued under rule 29 or rule 30 is entitled on request to the coroner to a certificate recording that fact.
 
-### 32. Validity of proceedings where jury not present[^key-e473964565b9967b28c076230060a2dd]
+### 32. Validity of proceedings where jury not present[^c-e473964565b9967b28c076230060a2dd]
 
 Where an inquest hearing begins without a jury but a jury is subsequently summoned, the validity of anything done by the coroner before the jury was summoned is still effective.
 
-### 33. Summing up and directions to the jury[^key-641277444e815d0fabf3b8650bd39c65]
+### 33. Summing up and directions to the jury[^c-641277444e815d0fabf3b8650bd39c65]
 
 Where the coroner sits with a jury, the coroner must direct the jury as to the law and provide the jury with a summary of the evidence.
 
 ## PART 6 — Record
 
-### 34. Record of the inquest[^key-2140e20065c322ea6eef870f2168c2a1]
+### 34. Record of the inquest[^c-2140e20065c322ea6eef870f2168c2a1]
 
 A coroner or in the case of an inquest heard with a jury, the jury, must make a determination and any findings required under section 10 using Form 2.
 
@@ -325,7 +325,7 @@ Ministry of Justice
 
 2nd July 2013
 
-## SCHEDULE[^key-bd33ff0b2973917a405895975797325e]
+## SCHEDULE[^c-bd33ff0b2973917a405895975797325e]
 
 Rules 29 and 34
 
@@ -333,7 +333,7 @@ Form 1
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/1616/images/uksi_20131616_en_001)[image: see source](https://www.legislation.gov.uk/uksi/2013/1616/images/uksi_20131616_en_002)[image: see source](https://www.legislation.gov.uk/uksi/2013/1616/images/uksi_20131616_en_003)
 
-[^key-66ac42ba75e92f3db908a8213505f94e]Form 2
+[^c-66ac42ba75e92f3db908a8213505f94e]Form 2
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/1616/images/uksi_20131616_en_004)
 
@@ -351,82 +351,82 @@ These Rules form part of a package of new rules and regulations made under the 2
 
 [^f00001]: Footnote: [2009 c.25](https://www.legislation.gov.uk/ukpga/2009/25).
 
-[^key-597914d8dd32f0af1ba158b2fd1b82f9]: Commencement: Rule 1 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-597914d8dd32f0af1ba158b2fd1b82f9]: Commencement: Rule 1 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-7c581da2bbb8b772f844fa1e930abe5e]: Commencement: Rule 2 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-7c581da2bbb8b772f844fa1e930abe5e]: Commencement: Rule 2 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
 [^f00002]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-b829e411b50964a8cb2a67e5d1577bde]: Commencement: Rule 3 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-b829e411b50964a8cb2a67e5d1577bde]: Commencement: Rule 3 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-3e3ff79c3c2601ae393d933f4f7f5215]: Commencement: Rule 4 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-3e3ff79c3c2601ae393d933f4f7f5215]: Commencement: Rule 4 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-611b9eb9551924eedf4b247776ca875a]: Commencement: Rule 5 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-611b9eb9551924eedf4b247776ca875a]: Commencement: Rule 5 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-d5e15d14b70042edec37ebcbe2720338]: Commencement: Rule 6 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-d5e15d14b70042edec37ebcbe2720338]: Commencement: Rule 6 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-1cfaca708514c7f498b664511b694cce]: Commencement: Rule 7 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-1cfaca708514c7f498b664511b694cce]: Commencement: Rule 7 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-bb12c722a16366dd1ea90cce6886d524]: Commencement: Rule 8 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-bb12c722a16366dd1ea90cce6886d524]: Commencement: Rule 8 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-de7ad80015c7c1dc4a89983fc591155a]: Commencement: Rule 9 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-de7ad80015c7c1dc4a89983fc591155a]: Commencement: Rule 9 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-4979757c2ca9bea1c9c3774879026da8]: Commencement: Rule 10 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-4979757c2ca9bea1c9c3774879026da8]: Commencement: Rule 10 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-e49b01dafbdb3da8d2782cea0c9653bb]: Commencement: Rule 11 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-e49b01dafbdb3da8d2782cea0c9653bb]: Commencement: Rule 11 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-1097dd3fcb4e46e2244322d8e2065149]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1616/part/3) applied (25.7.2013) by [The Coroners (Investigations) Regulations 2013 (S.I. 2013/1629)](https://www.legislation.gov.uk/uksi/2013/1629), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1), [23](https://www.legislation.gov.uk/uksi/2013/1629/regulation/23) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1629/regulation/3))
+[^c-1097dd3fcb4e46e2244322d8e2065149]: Modification: [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1616/part/3) applied (25.7.2013) by [The Coroners (Investigations) Regulations 2013 (S.I. 2013/1629)](https://www.legislation.gov.uk/uksi/2013/1629), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1629/regulation/1), [23](https://www.legislation.gov.uk/uksi/2013/1629/regulation/23) (with [reg. 3](https://www.legislation.gov.uk/uksi/2013/1629/regulation/3))
 
-[^key-2bda67f8b4d2af4c7f1be65f7c92b68f]: Commencement: Rule 12 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-2bda67f8b4d2af4c7f1be65f7c92b68f]: Commencement: Rule 12 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-d5798e7d8552943d1e313d4f94035907]: Commencement: Rule 13 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-d5798e7d8552943d1e313d4f94035907]: Commencement: Rule 13 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-2a430206f421accbacb59538acec9928]: Commencement: Rule 14 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-2a430206f421accbacb59538acec9928]: Commencement: Rule 14 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-fcbded597f34945cb41bbb107240d544]: Commencement: Rule 15 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-fcbded597f34945cb41bbb107240d544]: Commencement: Rule 15 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-bf3484f8125d4109d7660cf55ce5fab5]: Commencement: Rule 16 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-bf3484f8125d4109d7660cf55ce5fab5]: Commencement: Rule 16 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
 [^f00003]: Footnote: Fees may be charged for disclosure after an inquest has been completed in accordance with the Coroners Allowances, Fees and Expenses Regulations 2013 ([S.I. 2013/1615](https://www.legislation.gov.uk/uksi/2013/1615)).
 
-[^key-188ef5df0b049153a2b977803e4754cd]: Commencement: Rule 17 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-188ef5df0b049153a2b977803e4754cd]: Commencement: Rule 17 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-9dde39abc359803393a65bab2c0cf746]: Commencement: Rule 18 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-9dde39abc359803393a65bab2c0cf746]: Commencement: Rule 18 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-0180acb08a0bb4b86b814bc3f32472d1]: Commencement: Rule 19 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-0180acb08a0bb4b86b814bc3f32472d1]: Commencement: Rule 19 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-090e4fa88a14a2fec58b821164ce4e96]: Commencement: Rule 20 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-090e4fa88a14a2fec58b821164ce4e96]: Commencement: Rule 20 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-764af5f0e8070b6be166030b07e83862]: Commencement: Rule 21 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-764af5f0e8070b6be166030b07e83862]: Commencement: Rule 21 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-08716446eb0df6ae82ba31c12d37e9a2]: Commencement: Rule 22 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-08716446eb0df6ae82ba31c12d37e9a2]: Commencement: Rule 22 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-9b889ec48e5fd4d235204c08acc24275]: Commencement: Rule 23 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-9b889ec48e5fd4d235204c08acc24275]: Commencement: Rule 23 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-b86f54bb97b83f4a8b98494ba5e3f869]: Commencement: Rule 24 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-b86f54bb97b83f4a8b98494ba5e3f869]: Commencement: Rule 24 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
 [^f00004]: Footnote: [2005 c.12](https://www.legislation.gov.uk/ukpga/2005/12).
 
-[^key-410c489aa6533407ade9b38e6eee4227]: Commencement: Rule 25 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-410c489aa6533407ade9b38e6eee4227]: Commencement: Rule 25 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-51da7e69ea86cd2d5141c28a40ae929e]: Commencement: Rule 26 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-51da7e69ea86cd2d5141c28a40ae929e]: Commencement: Rule 26 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-a8caba45db2599c8e1672c67e19bae3a]: Commencement: Rule 27 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-a8caba45db2599c8e1672c67e19bae3a]: Commencement: Rule 27 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-9f834729c4e00de70bdf4524e301e21d]: Commencement: Rule 28 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-9f834729c4e00de70bdf4524e301e21d]: Commencement: Rule 28 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-46e1bb58553be267b51870f152ccaf67]: Commencement: Rule 29 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-46e1bb58553be267b51870f152ccaf67]: Commencement: Rule 29 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-a25a4f8755ac5445a7f54a29e7caecc2]: Commencement: Rule 30 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-a25a4f8755ac5445a7f54a29e7caecc2]: Commencement: Rule 30 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-0986e8a409ec3020305a703d948e23f3]: Commencement: Rule 31 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-0986e8a409ec3020305a703d948e23f3]: Commencement: Rule 31 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-e473964565b9967b28c076230060a2dd]: Commencement: Rule 32 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-e473964565b9967b28c076230060a2dd]: Commencement: Rule 32 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-641277444e815d0fabf3b8650bd39c65]: Commencement: Rule 33 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-641277444e815d0fabf3b8650bd39c65]: Commencement: Rule 33 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-2140e20065c322ea6eef870f2168c2a1]: Commencement: Rule 34 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-2140e20065c322ea6eef870f2168c2a1]: Commencement: Rule 34 in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-bd33ff0b2973917a405895975797325e]: Commencement: Sch. in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
+[^c-bd33ff0b2973917a405895975797325e]: Commencement: Sch. in force at 25.7.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/1616/rule/1)
 
-[^key-66ac42ba75e92f3db908a8213505f94e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2013/1616/schedule) Form 2: note (iii) that begins with the words “The standard of proof” is omitted (12.1.2022) by virtue of [The Coroners (Inquests) (Amendment) Rules 2021 (S.I. 2021/1379)](https://www.legislation.gov.uk/uksi/2021/1379), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/1379/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1379/rule/2/2)
+[^c-66ac42ba75e92f3db908a8213505f94e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2013/1616/schedule) Form 2: note (iii) that begins with the words “The standard of proof” is omitted (12.1.2022) by virtue of [The Coroners (Inquests) (Amendment) Rules 2021 (S.I. 2021/1379)](https://www.legislation.gov.uk/uksi/2021/1379), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/1379/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1379/rule/2/2)

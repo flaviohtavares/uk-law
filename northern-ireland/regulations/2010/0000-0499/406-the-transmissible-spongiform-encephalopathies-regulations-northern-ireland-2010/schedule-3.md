@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — CONTROL AND ERADICATION OF TSE IN BOVINE ANIMALS[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+## SCHEDULE 3 — CONTROL AND ERADICATION OF TSE IN BOVINE ANIMALS[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 *Extent: N.I.*
 
@@ -24,70 +24,70 @@ summary: ''
 
 Regulation 5
 
-### 1. Control and eradication of TSE - notification[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 1. Control and eradication of TSE - notification[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Restriction of a notified animal[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 2. Restriction of a notified animal[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Slaughter of a suspect animal[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 3. Slaughter of a suspect animal[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Identification and restriction of offspring and cohorts[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 4. Identification and restriction of offspring and cohorts[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Action following confirmation of TSE[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 5. Action following confirmation of TSE[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Action where TSE is not confirmed[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 6. Action where TSE is not confirmed[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Death while under restriction[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 7. Death while under restriction[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Placing on the market of bovine progeny[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 8. Placing on the market of bovine progeny[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. When compensation is payable[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 9. When compensation is payable[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Compensation for a suspect animal[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 10. Compensation for a suspect animal[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Compensation for a cohort animal[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 11. Compensation for a cohort animal[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Compensation for an offspring animal[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 12. Compensation for an offspring animal[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Compensation for Buffalo and Bison[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 13. Compensation for Buffalo and Bison[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Assessment of market value[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 14. Assessment of market value[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Definitions[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 15. Definitions[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Returns[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 16. Returns[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2dc59261ad8b5acd30925da2b6ce00d3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/406) revoked with savings (3.1.2019) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2018 (S.R. 2018/213)](https://www.legislation.gov.uk/nisr/2018/213), [reg. 22](https://www.legislation.gov.uk/nisr/2018/213/regulation/22) (with [reg. 23](https://www.legislation.gov.uk/nisr/2018/213/regulation/23))
+[^c-2dc59261ad8b5acd30925da2b6ce00d3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/406) revoked with savings (3.1.2019) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2018 (S.R. 2018/213)](https://www.legislation.gov.uk/nisr/2018/213), [reg. 22](https://www.legislation.gov.uk/nisr/2018/213/regulation/22) (with [reg. 23](https://www.legislation.gov.uk/nisr/2018/213/regulation/23))

@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 77 of the Public Services Reform (Scotland) Act 2010[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-07b76bb62dcdc6adce75534e23d81e88]
+## 1. Citation and commencement[^c-07b76bb62dcdc6adce75534e23d81e88]
 
 These Regulations may be cited as the Social Care and Social Work Improvement Scotland (Registration) Regulations 2011 and come into force on 1st April 2011.
 
-## 2. Interpretation[^key-174dd72a0d863f05a682a139e6f2b81a]
+## 2. Interpretation[^c-174dd72a0d863f05a682a139e6f2b81a]
 
 In these Regulations—
 
@@ -60,7 +60,7 @@ In these Regulations—
 - “provider” in relation to a care service means the person registered to provide that service;
 - “SCSWIS” means Social Care and Social Work Improvement Scotland.
 
-## 3. Persons disqualified from applying[^key-675b54100072bbed13ff2fabbe6ac095]
+## 3. Persons disqualified from applying[^c-675b54100072bbed13ff2fabbe6ac095]
 
 (1) A person cannot competently make an application for registration of a care service[^f00002] under Chapter 3 or 4 of Part 5 of the Act unless the person is fit to do so.
 
@@ -82,7 +82,7 @@ In these Regulations—
 - (a) any conviction by or before a court outside the United Kingdom for an offence in respect of conduct which, if it had taken place in any part of the United Kingdom, would not have constituted an offence under the law in force in that part of the United Kingdom must be disregarded; and
 - (b) if the application relates to registration of a child minding service[^f00008] paragraph 2(b) to (h) must be disregarded.
 
-## 4. Records, notifications and returns[^key-f6ff6a9013ffff6cd9eaf3e96c228193][^key-46fd75b81f2a37860ac3b1821c0226dc]
+## 4. Records, notifications and returns[^c-f6ff6a9013ffff6cd9eaf3e96c228193][^c-46fd75b81f2a37860ac3b1821c0226dc]
 
 (1) On granting registration of a care service under Chapter 3 or 4 of Part 5 of the Act, SCSWIS must, in addition to issuing a certificate of registration, notify the provider of the care service of—
 
@@ -92,13 +92,13 @@ In these Regulations—
 
 (2) SCSWIS may, from time to time, make reasonable variations to the information required under paragraph (1).
 
-## 5. Registers[^key-e707d201169d689cb78f92718b60121b][^key-f541d527da344f4a861d2f034af64275]
+## 5. Registers[^c-e707d201169d689cb78f92718b60121b][^c-f541d527da344f4a861d2f034af64275]
 
 (1) SCSWIS must maintain a register of all care services registered under Chapter 3 or 4 of Part 5 of the Act.
 
 (2) The register must contain the information specified in the Schedule.
 
-## 6. Access to register[^key-ce045226cdf4568df94eb1f67f3f101e]
+## 6. Access to register[^c-ce045226cdf4568df94eb1f67f3f101e]
 
 (1) SCSWIS must make available for inspection a copy of the register maintained under regulation 5—
 
@@ -111,7 +111,7 @@ and must provide to any person who makes a request in writing or in person at an
 
 (3) SCSWIS may charge a reasonable fee in respect of any copies of the register or part of it provided under paragraph (1).
 
-## 7. Contents of certificate[^key-8c83721005e060f639b75ddaa6d9a320]
+## 7. Contents of certificate[^c-8c83721005e060f639b75ddaa6d9a320]
 
 A certificate of registration must contain the following information:—
 
@@ -137,19 +137,19 @@ Edinburgh
 
 Regulation 5
 
-**1.**[^key-0cf0e07266c4a66b73e172bbc0943eab] The full name, address, phone and facsimile number (if any) of the place of work of the provider.
+**1.**[^c-0cf0e07266c4a66b73e172bbc0943eab] The full name, address, phone and facsimile number (if any) of the place of work of the provider.
 
-**2.**[^key-877fc611d8a4239fbb2f3cdd815efb2e] The full name of the manager.
+**2.**[^c-877fc611d8a4239fbb2f3cdd815efb2e] The full name of the manager.
 
-**3.**[^key-2b8a953dd9df6a0400266a5856e7b40f] All addresses the care service may have.
+**3.**[^c-2b8a953dd9df6a0400266a5856e7b40f] All addresses the care service may have.
 
-**4.**[^key-f22656ce0f8a89b0908d9035ddcbd18e] The type of care service which is registered in terms of section 47(1) of the Act.
+**4.**[^c-f22656ce0f8a89b0908d9035ddcbd18e] The type of care service which is registered in terms of section 47(1) of the Act.
 
-**5.**[^key-8d8a48b1d8ca919a4b5e20c1d25497b0] Details of any condition to which the registration is subject.
+**5.**[^c-8d8a48b1d8ca919a4b5e20c1d25497b0] Details of any condition to which the registration is subject.
 
-**6.**[^key-026ee578b5d94d13ac9cc8e0599b75a9] The date of registration of the care service.
+**6.**[^c-026ee578b5d94d13ac9cc8e0599b75a9] The date of registration of the care service.
 
-**7.**[^key-1efeda55a7ed8249d393b222f6a7f632] Any other information which SCSWIS considers would assist users or prospective users of a care service.
+**7.**[^c-1efeda55a7ed8249d393b222f6a7f632] Any other information which SCSWIS considers would assist users or prospective users of a care service.
 
 EXPLANATORY NOTE
 
@@ -167,11 +167,11 @@ Regulation 7 sets out the information a certificate of registration must contai
 
 [^f00001]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8) (“the Act”).
 
-[^key-07b76bb62dcdc6adce75534e23d81e88]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-07b76bb62dcdc6adce75534e23d81e88]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
-[^key-174dd72a0d863f05a682a139e6f2b81a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/28/regulation/2) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-174dd72a0d863f05a682a139e6f2b81a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/28/regulation/2) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
-[^key-675b54100072bbed13ff2fabbe6ac095]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/28/regulation/3) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-675b54100072bbed13ff2fabbe6ac095]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/28/regulation/3) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
 [^f00002]: Footnote: Section 47 of the Act defines a care service.
 
@@ -187,28 +187,28 @@ Regulation 7 sets out the information a certificate of registration must contai
 
 [^f00008]: Footnote: Paragraph 12 of Schedule 12 to the Act defines a child minding service.
 
-[^key-f6ff6a9013ffff6cd9eaf3e96c228193]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/28/regulation/4) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-f6ff6a9013ffff6cd9eaf3e96c228193]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/28/regulation/4) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
-[^key-46fd75b81f2a37860ac3b1821c0226dc]: Modification: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/28/regulation/4) excluded (temp.) (19.11.2025 and 20.11.2015 for specified purposes) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2)[(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/3), [3(5)](https://www.legislation.gov.uk/ssi/2025/356/article/3/5)
+[^c-46fd75b81f2a37860ac3b1821c0226dc]: Modification: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/28/regulation/4) excluded (temp.) (19.11.2025 and 20.11.2015 for specified purposes) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2)[(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/3), [3(5)](https://www.legislation.gov.uk/ssi/2025/356/article/3/5)
 
-[^key-e707d201169d689cb78f92718b60121b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/28/regulation/5) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-e707d201169d689cb78f92718b60121b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/28/regulation/5) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
-[^key-f541d527da344f4a861d2f034af64275]: Modification: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/28/regulation/5) excluded (temp.) (19.11.2025 and 20.11.2015 for specified purposes) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2)[(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/3), [3(5)](https://www.legislation.gov.uk/ssi/2025/356/article/3/5)
+[^c-f541d527da344f4a861d2f034af64275]: Modification: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/28/regulation/5) excluded (temp.) (19.11.2025 and 20.11.2015 for specified purposes) by [The Regulation of Care (Child Contact Services) (Scotland) Order 2025 (S.S.I. 2025/356)](https://www.legislation.gov.uk/ssi/2025/356), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/356/article/1/2)[(3)](https://www.legislation.gov.uk/ssi/2025/356/article/1/3), [3(5)](https://www.legislation.gov.uk/ssi/2025/356/article/3/5)
 
-[^key-ce045226cdf4568df94eb1f67f3f101e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/28/regulation/6) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-ce045226cdf4568df94eb1f67f3f101e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/28/regulation/6) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
-[^key-8c83721005e060f639b75ddaa6d9a320]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/28/regulation/7) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-8c83721005e060f639b75ddaa6d9a320]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/28/regulation/7) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
-[^key-0cf0e07266c4a66b73e172bbc0943eab]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/1) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-0cf0e07266c4a66b73e172bbc0943eab]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/1) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
-[^key-877fc611d8a4239fbb2f3cdd815efb2e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/2) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-877fc611d8a4239fbb2f3cdd815efb2e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/2) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
-[^key-2b8a953dd9df6a0400266a5856e7b40f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/3) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-2b8a953dd9df6a0400266a5856e7b40f]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/3) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
-[^key-f22656ce0f8a89b0908d9035ddcbd18e]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/4) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-f22656ce0f8a89b0908d9035ddcbd18e]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/4) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
-[^key-8d8a48b1d8ca919a4b5e20c1d25497b0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/5) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-8d8a48b1d8ca919a4b5e20c1d25497b0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/5) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
-[^key-026ee578b5d94d13ac9cc8e0599b75a9]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/6) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-026ee578b5d94d13ac9cc8e0599b75a9]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/6) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
 
-[^key-1efeda55a7ed8249d393b222f6a7f632]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/7) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)
+[^c-1efeda55a7ed8249d393b222f6a7f632]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2011/28/schedule/paragraph/7) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/28/regulation/1)

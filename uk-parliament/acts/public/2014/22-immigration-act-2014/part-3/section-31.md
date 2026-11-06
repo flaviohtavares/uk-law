@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Enforcement[^key-d5d48e0793baf38a04ce19939abffee6][^key-253b6a72b76a066f752be9d133130591]
+## 31. Enforcement[^c-d5d48e0793baf38a04ce19939abffee6][^c-253b6a72b76a066f752be9d133130591]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5d48e0793baf38a04ce19939abffee6]: Commencement: S. 31 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(l)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/l)
+[^c-d5d48e0793baf38a04ce19939abffee6]: Commencement: S. 31 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(l)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/l)
 
-[^key-253b6a72b76a066f752be9d133130591]: Commencement: S. 31 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(l)](https://www.legislation.gov.uk/uksi/2016/11/article/2/l)
+[^c-253b6a72b76a066f752be9d133130591]: Commencement: S. 31 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(l)](https://www.legislation.gov.uk/uksi/2016/11/article/2/l)

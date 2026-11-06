@@ -50,13 +50,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-88849de1000dd22ef0792b79596f475a]
+### 1. Citation, commencement and extent[^c-88849de1000dd22ef0792b79596f475a]
 
 (1) These Regulations may be cited as the Energy Bills Support Scheme and Energy Price Guarantee Pass-through Requirement (England and Wales and Scotland) Regulations 2022 and come into force on 1st November 2022.
 
 (2) These Regulations extend to England and Wales, and Scotland.
 
-### 2. Interpretation[^key-92192ec431de7082c6640bb5f2ca6d14]
+### 2. Interpretation[^c-92192ec431de7082c6640bb5f2ca6d14]
 
 (1) In these Regulations—
 
@@ -69,11 +69,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “**EBSS support payment**” means a support payment which an EBSS domestic electricity supplier is required to provide each EBSS scheme month pursuant to the EBSS Direction and standard licence condition 25E of such supplier’s electricity supply licence;
 - “**electricity supply licence**” means a licence to supply electricity pursuant to section 6(1)(d) of the Electricity Act 1989[^f00005];
 - “**EPG**” means the Energy Price Guarantee as set out in one or both, as the context requires, of the Energy Price Guarantee for Domestic Electricity Consumers in Great Britain or the Energy Price Guarantee for Domestic Gas Consumers in Great Britain as set out in the EPG scheme documents;
-- “**EPG consumer**” means a “**Consumer**” as defined in [^key-59321c12e4a80ba8e6af9e32692e46e7]... the EPG scheme documents;
+- “**EPG consumer**” means a “**Consumer**” as defined in [^c-59321c12e4a80ba8e6af9e32692e46e7]... the EPG scheme documents;
 - “**EPG scheme benefit**” means an EPG tariff reduction where the amount of the scheme benefit for each relevant intermediary in its capacity as an EPG consumer for an EPG tariff period is the EPG tariff reduction multiplied by the quantity of energy made available to that relevant intermediary in respect of itself and its end users[^f00006];
 - “**EPG scheme documents**” means one or both, as the context requires, of the September 2022 Energy Price Guarantee for Domestic Electricity Consumers in Great Britain Scheme Document and the September 2022 Energy Price Guarantee for Domestic Gas Consumers in Great Britain Scheme Document each as modified from time to time[^f00007];
-- “**EPG tariff period**” means a “**Tariff Period**” as defined in [^key-59321c12e4a80ba8e6af9e32692e46e7]... the EPG scheme documents;
-- “**EPG tariff reduction**” means a “**Tariff Reduction**” as defined in [^key-59321c12e4a80ba8e6af9e32692e46e7]... the EPG scheme documents;
+- “**EPG tariff period**” means a “**Tariff Period**” as defined in [^c-59321c12e4a80ba8e6af9e32692e46e7]... the EPG scheme documents;
+- “**EPG tariff reduction**” means a “**Tariff Reduction**” as defined in [^c-59321c12e4a80ba8e6af9e32692e46e7]... the EPG scheme documents;
 - “**excluded person**” means a person engaged in either or both of the provision of accommodation within the meaning of standard industrial classification divisions 55.1, 55.2, 55.3 (except persons providing mobile homes on protected sites as defined in the Mobile Homes Act 1983[^f00008]) and 55.9 (except persons providing student residences, school dormitories, workers hostels and rooming and boarding houses) and the provision of energy[^f00009] to such accommodation;
 - “**pass-through**” means the act of a relevant intermediary of passing through all or part of a scheme benefit to an end user;
 - “**pass-through amount**” means an amount, being all or part of a scheme benefit, which is passed through to an end user by a relevant intermediary pursuant to these Regulations;
@@ -87,18 +87,18 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (b) an EPG scheme benefit, including that provided in respect of a period before these Regulations came into force; or
   - (c) where the end user is also a relevant intermediary, a pass-through made by virtue of these Regulations where the amount of the scheme benefit is the pass-through amount provided to the end user concerned (as intermediary),
 
-  and the amount of the scheme benefit may be an amount in pounds sterling or in pounds sterling per kWh[^key-61f460cd499a771aff33992fb435ec7a] of energy;
+  and the amount of the scheme benefit may be an amount in pounds sterling or in pounds sterling per kWh[^c-61f460cd499a771aff33992fb435ec7a] of energy;
 - “**standard industrial classification**” means the Office for National Statistics’ “UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007)”[^f00010];
 - “**standard licence condition**” means a condition of the standard conditions of electricity supply licences incorporated by virtue of section 8A(1) of the Electricity Act 1989[^f00011] in electricity supply licences granted or treated as granted under section 6(1)(d) of that Act;
 - “**usage**” means the quantity of energy made available by a relevant intermediary to an end user, that quantity of energy having been supplied to the relevant intermediary, leading to a scheme benefit being provided to the relevant intermediary.
 
 ## PART 2 — Pass-through requirement
 
-### 3. Pass-through requirement[^key-83fca9f4582e46aa36d84f144aee48f9]
+### 3. Pass-through requirement[^c-83fca9f4582e46aa36d84f144aee48f9]
 
 (1) A relevant intermediary must not—
 
-- (a) in its capacity as an EPG consumer reject an EPG tariff reduction offered to it pursuant to section 8.4(b)(i) of [^key-9e0d2071148215b8d9e531ea4471c95c]... the EPG scheme documents, or
+- (a) in its capacity as an EPG consumer reject an EPG tariff reduction offered to it pursuant to section 8.4(b)(i) of [^c-9e0d2071148215b8d9e531ea4471c95c]... the EPG scheme documents, or
 - (b) reject, or fail to take all reasonable steps in accordance with paragraph (10) to secure, a pass-through amount to which it is entitled pursuant to the operation of these Regulations.
 
 (2) A relevant intermediary must ensure that as soon as reasonably practicable after a scheme benefit has been provided to it in respect of a period, it provides to each of its end users in respect of that period a just and reasonable pass-through amount in respect of the scheme benefit provided to that relevant intermediary.
@@ -110,7 +110,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 (5) Unless the circumstances in paragraph (7) apply, a scheme benefit is provided to a relevant intermediary—
 
 - (a) if such scheme benefit is an EBSS scheme benefit, when the EBSS support payment is provided to it by an EBSS domestic electricity supplier pursuant to the provisions of paragraph 9 of the EBSS Direction,
-- (b) if such scheme benefit is an EPG scheme benefit, at the start of an EPG tariff period in which it has been notified of an EPG tariff reduction in its capacity as an EPG consumer pursuant to section 8.2 of [^key-8f0cec80d7029658faa55c6a2e5bcf10]... the EPG scheme documents, or
+- (b) if such scheme benefit is an EPG scheme benefit, at the start of an EPG tariff period in which it has been notified of an EPG tariff reduction in its capacity as an EPG consumer pursuant to section 8.2 of [^c-8f0cec80d7029658faa55c6a2e5bcf10]... the EPG scheme documents, or
 - (c) if the relevant intermediary is also an end user, when a pass-through amount is provided to it by virtue of these Regulations.
 
 (6) A scheme benefit is deemed to have been provided to a relevant intermediary when such relevant intermediary is notified that it has been identified as an end user for the purpose of these Regulations but the pass-through amount set out in such notification is zero.
@@ -123,7 +123,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (10) To give full effect to the pass-through requirement a relevant intermediary must take all such reasonable steps as may be necessary to secure that it is provided with the scheme benefit to which it is entitled so that it may effect a pass-through to its end users.
 
-### 4. Calculation of pass-through amount[^key-efe32969b86e4d0fca1e3d49c6b0b531]
+### 4. Calculation of pass-through amount[^c-efe32969b86e4d0fca1e3d49c6b0b531]
 
 (1) Subject to regulation 3(3), the requirement for a relevant intermediary to provide to end users a pass-through amount that is just and reasonable is treated as having been met in any case where—
 
@@ -151,7 +151,7 @@ a pass-through amount is just and reasonable for the purposes of regulation 3(2)
 
 (7) A relevant intermediary is entitled to include energy used to provide common services to end users as part of its own usage for the purposes of the calculation in paragraphs (2) or (3) to the extent that the cost of such energy is or will not be borne by its end users as part of the arrangements in place when the scheme benefit was provided to the relevant intermediary in accordance with regulation 3(5).
 
-### 5. Provision of information to end users[^key-4a4489ddace86257edfd4acefcc0dcc3]
+### 5. Provision of information to end users[^c-4a4489ddace86257edfd4acefcc0dcc3]
 
 (1) Within the period of 30 days beginning with the later of the day on which these Regulations came into force or the day on which the scheme benefit was provided to it in accordance with regulation 3(5) or was deemed to have been provided to it in accordance with regulation 3(6), the relevant intermediary must take reasonable steps to notify its end users in writing (where possible using the means of communication it customarily uses to communicate with its end users)—
 
@@ -172,13 +172,13 @@ a pass-through amount is just and reasonable for the purposes of regulation 3(2)
   - (i) the tariff adjustment which the relevant intermediary has applied pursuant to these Regulations to effect the pass-through to end users of the scheme benefit which has been provided to it, and
   - (ii) the contact details of the relevant intermediary which can be used should the end user require further information about its entitlements under these Regulations, including the ability to appeal to the relevant intermediary in respect of the basis on which the tariffs have been adjusted to reflect the scheme benefit provided to the relevant intermediary.
 
-### 6. Effecting the pass-through[^key-489531af136b5bfd2c92412457b7ccf4]
+### 6. Effecting the pass-through[^c-489531af136b5bfd2c92412457b7ccf4]
 
 (1) Notwithstanding any provision in the contract between the relevant intermediary and the end user at the time the scheme benefit was provided to the relevant intermediary, the relevant intermediary must effect the pass-through so that the pass-through amount is provided to the end user as soon as reasonably practicable.
 
 (2) Where the relevant intermediary makes energy available through equipment which automatically charges a tariff per unit of energy used, paid by end users at the time that the energy is made available, the relevant intermediary must as soon as reasonably practicable make such adjustments to its tariff as is necessary to effect the pass-through required under regulation 3(2).
 
-(3) Without prejudice to paragraph (1), a pass-through can be effected, in pounds sterling or pounds sterling per kWh[^key-592bef25d74a4f2e31568ba7b1dc7a09] by—
+(3) Without prejudice to paragraph (1), a pass-through can be effected, in pounds sterling or pounds sterling per kWh[^c-592bef25d74a4f2e31568ba7b1dc7a09] by—
 
 - (a) application of a credit in the next invoice, statement of account or other similar document provided by the relevant intermediary to the end user,
 - (b) a payment in cash or by any other means, including a bank transfer,
@@ -196,7 +196,7 @@ or a combination of the methods set out in this paragraph, as appropriate.
 
 ## PART 3 — General
 
-### 7. Enforcement[^key-9a43908daa28bd38486aa92831256a78]
+### 7. Enforcement[^c-9a43908daa28bd38486aa92831256a78]
 
 (1) Where a relevant intermediary fails to effect a pass-through to which an end user is entitled by virtue of these Regulations, that end user may, subject to regulation 6(5), recover the relevant pass-through amount from the relevant intermediary as a civil debt.
 
@@ -235,9 +235,9 @@ An impact assessment of the effect the EBSS and EPG schemes, including the relat
 
 [^f00001]: Footnote: [2022 c. 44](https://www.legislation.gov.uk/ukpga/2022/44).
 
-[^key-88849de1000dd22ef0792b79596f475a]: Commencement: Reg. 1 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
+[^c-88849de1000dd22ef0792b79596f475a]: Commencement: Reg. 1 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
 
-[^key-92192ec431de7082c6640bb5f2ca6d14]: Commencement: Reg. 2 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
+[^c-92192ec431de7082c6640bb5f2ca6d14]: Commencement: Reg. 2 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
 
 [^f00002]: Footnote: A hard copy of the Direction can be obtained from the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London, SW1H 0ET. For an electronic copy, see www.gov.uk/government/publications/energy-bills-support-scheme-ministerial-direction.
 
@@ -247,7 +247,7 @@ An impact assessment of the effect the EBSS and EPG schemes, including the relat
 
 [^f00005]: Footnote: Section 6(1)(d) was amended by [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
 
-[^key-59321c12e4a80ba8e6af9e32692e46e7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/1102/regulation/2) omitted (5.11.2022) by virtue of [The Energy Bill Relief Scheme and Energy Price Guarantee Pass-through Requirement and Miscellaneous Amendments Regulations 2022 (S.I. 2022/1125)](https://www.legislation.gov.uk/uksi/2022/1125), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/10/2)
+[^c-59321c12e4a80ba8e6af9e32692e46e7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/1102/regulation/2) omitted (5.11.2022) by virtue of [The Energy Bill Relief Scheme and Energy Price Guarantee Pass-through Requirement and Miscellaneous Amendments Regulations 2022 (S.I. 2022/1125)](https://www.legislation.gov.uk/uksi/2022/1125), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/10/2)
 
 [^f00006]: Footnote: “End user” is defined in s.19(3) of the Energy Prices Act 2022.
 
@@ -257,26 +257,26 @@ An impact assessment of the effect the EBSS and EPG schemes, including the relat
 
 [^f00009]: Footnote: “Energy” is defined in section 28(4) of the Energy Prices Act 2022.
 
-[^key-61f460cd499a771aff33992fb435ec7a]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2022/1102/regulation/2) substituted (5.11.2022) by [The Energy Bill Relief Scheme and Energy Price Guarantee Pass-through Requirement and Miscellaneous Amendments Regulations 2022 (S.I. 2022/1125)](https://www.legislation.gov.uk/uksi/2022/1125), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/10/3)
+[^c-61f460cd499a771aff33992fb435ec7a]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2022/1102/regulation/2) substituted (5.11.2022) by [The Energy Bill Relief Scheme and Energy Price Guarantee Pass-through Requirement and Miscellaneous Amendments Regulations 2022 (S.I. 2022/1125)](https://www.legislation.gov.uk/uksi/2022/1125), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/10/3)
 
 [^f00010]: Footnote: Published by the Office of National Statistics. For information on how to obtain a hard copy, contact the Office for National Statistics, Classifications and Harmonisation Unit, Government Buildings, Cardiff Road, Newport, South Wales, NP10 8XG. For an electronic copy, see https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007.
 
 [^f00011]: Footnote: Section 8A was inserted by section 33 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-83fca9f4582e46aa36d84f144aee48f9]: Commencement: Reg. 3 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
+[^c-83fca9f4582e46aa36d84f144aee48f9]: Commencement: Reg. 3 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
 
-[^key-9e0d2071148215b8d9e531ea4471c95c]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/3/1/a) omitted (5.11.2022) by virtue of [The Energy Bill Relief Scheme and Energy Price Guarantee Pass-through Requirement and Miscellaneous Amendments Regulations 2022 (S.I. 2022/1125)](https://www.legislation.gov.uk/uksi/2022/1125), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/1/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/10/4/a)
+[^c-9e0d2071148215b8d9e531ea4471c95c]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/3/1/a) omitted (5.11.2022) by virtue of [The Energy Bill Relief Scheme and Energy Price Guarantee Pass-through Requirement and Miscellaneous Amendments Regulations 2022 (S.I. 2022/1125)](https://www.legislation.gov.uk/uksi/2022/1125), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/1/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/10/4/a)
 
-[^key-8f0cec80d7029658faa55c6a2e5bcf10]: Textual amendment: Words in [reg. 3(5)(b)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/3/5/b) omitted (5.11.2022) by virtue of [The Energy Bill Relief Scheme and Energy Price Guarantee Pass-through Requirement and Miscellaneous Amendments Regulations 2022 (S.I. 2022/1125)](https://www.legislation.gov.uk/uksi/2022/1125), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/1/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/10/4/b)
+[^c-8f0cec80d7029658faa55c6a2e5bcf10]: Textual amendment: Words in [reg. 3(5)(b)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/3/5/b) omitted (5.11.2022) by virtue of [The Energy Bill Relief Scheme and Energy Price Guarantee Pass-through Requirement and Miscellaneous Amendments Regulations 2022 (S.I. 2022/1125)](https://www.legislation.gov.uk/uksi/2022/1125), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/1/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/10/4/b)
 
-[^key-efe32969b86e4d0fca1e3d49c6b0b531]: Commencement: Reg. 4 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
+[^c-efe32969b86e4d0fca1e3d49c6b0b531]: Commencement: Reg. 4 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
 
-[^key-4a4489ddace86257edfd4acefcc0dcc3]: Commencement: Reg. 5 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
+[^c-4a4489ddace86257edfd4acefcc0dcc3]: Commencement: Reg. 5 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
 
-[^key-489531af136b5bfd2c92412457b7ccf4]: Commencement: Reg. 6 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
+[^c-489531af136b5bfd2c92412457b7ccf4]: Commencement: Reg. 6 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
 
-[^key-592bef25d74a4f2e31568ba7b1dc7a09]: Textual amendment: Word in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/6/3) substituted (5.11.2022) by [The Energy Bill Relief Scheme and Energy Price Guarantee Pass-through Requirement and Miscellaneous Amendments Regulations 2022 (S.I. 2022/1125)](https://www.legislation.gov.uk/uksi/2022/1125), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/10/3)
+[^c-592bef25d74a4f2e31568ba7b1dc7a09]: Textual amendment: Word in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/6/3) substituted (5.11.2022) by [The Energy Bill Relief Scheme and Energy Price Guarantee Pass-through Requirement and Miscellaneous Amendments Regulations 2022 (S.I. 2022/1125)](https://www.legislation.gov.uk/uksi/2022/1125), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/1125/regulation/10/3)
 
-[^key-9a43908daa28bd38486aa92831256a78]: Commencement: Reg. 7 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
+[^c-9a43908daa28bd38486aa92831256a78]: Commencement: Reg. 7 in force at 1.11.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1102/regulation/1/1)
 
 [^f00012]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).

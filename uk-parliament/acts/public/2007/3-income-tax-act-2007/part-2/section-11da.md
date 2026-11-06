@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11DA. Income charged at the savings basic rate: non-individuals[^key-b3e57b9cc60da277f0988b4f75bd92ce]
+## 11DA. Income charged at the savings basic rate: non-individuals[^c-b3e57b9cc60da277f0988b4f75bd92ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3e57b9cc60da277f0988b4f75bd92ce]: Textual amendment: S. 11DA inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/12)
+[^c-b3e57b9cc60da277f0988b4f75bd92ce]: Textual amendment: S. 11DA inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/12)

@@ -42,11 +42,11 @@ The Secretary of State makes the following Regulations in exercise of the power 
 
 In accordance with sections 22(10)[^f00003] and 161(4) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-b9c5019189f5ea3b0929ebb1762429ba]
+## 1. Citation and commencement[^c-b9c5019189f5ea3b0929ebb1762429ba]
 
 These Regulations may be cited as the Business Impact Target (Relevant Regulators) Regulations 2017 and come into force on the twenty first day after the day on which they are made.
 
-## 2. Relevant regulators[^key-f968bdcc0d7e3ecc0080bfe5581a55e7]
+## 2. Relevant regulators[^c-f968bdcc0d7e3ecc0080bfe5581a55e7]
 
 For the purposes of section 22 of the Small Business, Enterprise and Employment Act 2015 (and of sections 24A[^f00004] and 26[^f00005] of that Act), a “relevant regulator” means a body or other person specified in the Schedule.
 
@@ -58,7 +58,7 @@ Department for Business, Energy and Industrial Strategy
 
 8th March 2017
 
-## SCHEDULE[^key-badb23b2d742d9d5582984afa17f0636]
+## SCHEDULE[^c-badb23b2d742d9d5582984afa17f0636]
 
 Regulation 2
 
@@ -72,7 +72,7 @@ Regulation 2
 - Commissioners of Irish Lights
 - Competition and Markets Authority[^f00014]
 - Comptroller-General of Patents, Designs and Trade Marks[^f00015]
-- [^key-bd21f48f117a382682ab77c33c1acab1]...
+- [^c-bd21f48f117a382682ab77c33c1acab1]...
 - Environment Agency[^f00017]
 - Financial Conduct Authority[^f00018]
 - Financial Reporting Council Limited[^f00019]
@@ -87,7 +87,7 @@ Regulation 2
 - Health and Safety Executive[^f00028]
 - Her Majesty’s Land Registry[^f00029]
 - Her Majesty’s Revenue and Customs[^f00030]
-- [^key-99ced550269b193851614aa8fdfed638]...
+- [^c-99ced550269b193851614aa8fdfed638]...
 - Historic Buildings and Monuments Commission for England[^f00032]
 - Homes and Communities Agency[^f00033]
 - Human Fertilisation and Embryology Authority[^f00034]
@@ -100,7 +100,7 @@ Regulation 2
 - Northern Lighthouse Board
 - Office for Nuclear Regulation[^f00041]
 - Office for Standards in Education, Children’s Services and Skills[^f00042]
-- The Office for Students[^key-820d99dfff5402e833c36d7081d777ff]
+- The Office for Students[^c-820d99dfff5402e833c36d7081d777ff]
 - Office of Communications[^f00043]
 - Office of Qualifications and Examinations Regulation[^f00044]
 - Office of Rail and Road[^f00045]
@@ -134,15 +134,15 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00003]: Footnote: Section 22(10) was inserted by section 14(3) of the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
 
-[^key-b9c5019189f5ea3b0929ebb1762429ba]: Commencement: Reg. 1 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/344/regulation/1)
+[^c-b9c5019189f5ea3b0929ebb1762429ba]: Commencement: Reg. 1 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/344/regulation/1)
 
-[^key-f968bdcc0d7e3ecc0080bfe5581a55e7]: Commencement: Reg. 2 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/344/regulation/1)
+[^c-f968bdcc0d7e3ecc0080bfe5581a55e7]: Commencement: Reg. 2 in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/344/regulation/1)
 
 [^f00004]: Footnote: Section 24A was inserted by section 14(4) of, and paragraph 4 of Schedule 2 to, the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
 
 [^f00005]: Footnote: Section 26 was amended by section 14(4) of, and paragraph 5 of Schedule 2 to, the Enterprise Act [2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12).
 
-[^key-badb23b2d742d9d5582984afa17f0636]: Commencement: Sch. in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/344/regulation/1)
+[^c-badb23b2d742d9d5582984afa17f0636]: Commencement: Sch. in force at 29.3.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/344/regulation/1)
 
 [^f00006]: Footnote: See section 13 of the Hallmarking Act [1973 (c.43)](https://www.legislation.gov.uk/ukpga/1973/43).
 
@@ -164,7 +164,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00015]: Footnote: See section 63 of the Patents and Designs Act [1907 (c.29)](https://www.legislation.gov.uk/ukpga/1907/29).
 
-[^key-bd21f48f117a382682ab77c33c1acab1]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2017/344/schedule) omitted (1.8.2019) by virtue of [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [41(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/41/a)
+[^c-bd21f48f117a382682ab77c33c1acab1]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2017/344/schedule) omitted (1.8.2019) by virtue of [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [41(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/41/a)
 
 [^f00017]: Footnote: See section 1 of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -194,7 +194,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00030]: Footnote: See section 4 of the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11).
 
-[^key-99ced550269b193851614aa8fdfed638]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2017/344/schedule) omitted (1.8.2019) by virtue of [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [41(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/41/b)
+[^c-99ced550269b193851614aa8fdfed638]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2017/344/schedule) omitted (1.8.2019) by virtue of [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [41(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/41/b)
 
 [^f00032]: Footnote: See section 32 of the National Heritage Act [1983 (c.47)](https://www.legislation.gov.uk/ukpga/1983/47).
 
@@ -218,7 +218,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00042]: Footnote: See section 112 of the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-820d99dfff5402e833c36d7081d777ff]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2017/344/schedule) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [41(c)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/41/c)
+[^c-820d99dfff5402e833c36d7081d777ff]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2017/344/schedule) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [41(c)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/41/c)
 
 [^f00043]: Footnote: See section 1 of the Office of Communications Act [2002 (c.11)](https://www.legislation.gov.uk/ukpga/2002/11).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Termination of Accountant in Bankruptcy's functions as interim trustee where not appointed trustee[^key-dca67fc5c8fb803a787ae5bca048f376]
+## 58. Termination of Accountant in Bankruptcy's functions as interim trustee where not appointed trustee[^c-dca67fc5c8fb803a787ae5bca048f376]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ in respect of any act or omission of AiB in exercising the functions of interim 
 
 ## Annotations
 
-[^key-dca67fc5c8fb803a787ae5bca048f376]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2016/21/section/58) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-dca67fc5c8fb803a787ae5bca048f376]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2016/21/section/58) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

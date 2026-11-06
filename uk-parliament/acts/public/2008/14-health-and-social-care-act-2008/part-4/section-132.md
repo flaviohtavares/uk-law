@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Administration: Great Britain[^c1942076][^key-b2544ee100a83d07dedb851565116f66]
+## 132. Administration: Great Britain[^c1942076][^c-b2544ee100a83d07dedb851565116f66]
 
 *Extent: E+W+S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 [^c1942076]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2008/14/section/132) partly in force; [s. 132](https://www.legislation.gov.uk/ukpga/2008/14/section/132) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-b2544ee100a83d07dedb851565116f66]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2008/14/section/132) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-b2544ee100a83d07dedb851565116f66]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2008/14/section/132) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)

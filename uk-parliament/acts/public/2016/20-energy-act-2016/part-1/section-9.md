@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Directions: national security and public interest[^key-63a0213ad59b86c14da77f91f7aed3fb]
+## 9. Directions: national security and public interest[^c-63a0213ad59b86c14da77f91f7aed3fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63a0213ad59b86c14da77f91f7aed3fb]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2016/20/section/9) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-63a0213ad59b86c14da77f91f7aed3fb]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2016/20/section/9) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Register of Inhibitions: electronic signature of documents[^key-14ded17a0d9d56da7c89944d680edacc]
+## 34. Register of Inhibitions: electronic signature of documents[^c-14ded17a0d9d56da7c89944d680edacc]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14ded17a0d9d56da7c89944d680edacc]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2022/8/section/34) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-14ded17a0d9d56da7c89944d680edacc]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2022/8/section/34) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

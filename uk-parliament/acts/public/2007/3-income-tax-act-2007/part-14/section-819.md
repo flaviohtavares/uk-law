@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 819. Investment managers: the 20% rule[^key-122a3fc199e50cec901facf0c7071962]
+## 819. Investment managers: the 20% rule[^c-122a3fc199e50cec901facf0c7071962]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-122a3fc199e50cec901facf0c7071962]: Textual amendment: S. 819 omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 23(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/23/3), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-122a3fc199e50cec901facf0c7071962]: Textual amendment: S. 819 omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 23(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/23/3), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

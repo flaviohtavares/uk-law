@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. New information following age assessment or appeal[^key-2821ff3173c54d0c9347b75953138fb3]
+## 56. New information following age assessment or appeal[^c-2821ff3173c54d0c9347b75953138fb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2821ff3173c54d0c9347b75953138fb3]: Commencement: S. 56 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-2821ff3173c54d0c9347b75953138fb3]: Commencement: S. 56 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

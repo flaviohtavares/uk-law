@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Decisions taken by the Authority giving effect to building society tribunal determinations[^key-03560bd48af60ca55c5931569f264c96]
+## 129. Decisions taken by the Authority giving effect to building society tribunal determinations[^c-03560bd48af60ca55c5931569f264c96]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Article 122 applies (with appropriate modifications) where the Authority gives e
 
 ## Annotations
 
-[^key-03560bd48af60ca55c5931569f264c96]: Commencement: Art. 129 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-03560bd48af60ca55c5931569f264c96]: Commencement: Art. 129 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

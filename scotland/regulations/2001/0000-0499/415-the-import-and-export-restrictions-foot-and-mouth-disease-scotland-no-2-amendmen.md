@@ -33,7 +33,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 2) Amendment (No. 5) Regulations 2001 (revoked)[^key-439da6915d3818a68783907a03422330]
+The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 2) Amendment (No. 5) Regulations 2001 (revoked)[^c-439da6915d3818a68783907a03422330]
 
 Made
 
@@ -47,43 +47,43 @@ Coming into force at 2.00 p.m. on
 
 7th November 2001
 
-[^key-439da6915d3818a68783907a03422330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-439da6915d3818a68783907a03422330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and cessation[^key-439da6915d3818a68783907a03422330]
+## 1. Citation, commencement and cessation[^c-439da6915d3818a68783907a03422330]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 2) Regulations 2001[^key-439da6915d3818a68783907a03422330]
+## 2. Amendment to the Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 2) Regulations 2001[^c-439da6915d3818a68783907a03422330]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential Amendment[^key-439da6915d3818a68783907a03422330]
+## 3. Consequential Amendment[^c-439da6915d3818a68783907a03422330]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-439da6915d3818a68783907a03422330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-439da6915d3818a68783907a03422330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULE AS INSERTED BY THESE REGULATIONS[^key-439da6915d3818a68783907a03422330]
+## SCHEDULE — SCHEDULE AS INSERTED BY THESE REGULATIONS[^c-439da6915d3818a68783907a03422330]
 
 Regulation 2(6)
 
-> **SCHEDULE 2 — PERMITTED AREAS[^key-439da6915d3818a68783907a03422330]**
+> **SCHEDULE 2 — PERMITTED AREAS[^c-439da6915d3818a68783907a03422330]**
 >
 > Regulation 4(2)
 >
-> **Areas in Scotland[^key-439da6915d3818a68783907a03422330]**
+> **Areas in Scotland[^c-439da6915d3818a68783907a03422330]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Areas in England[^key-439da6915d3818a68783907a03422330]**
+> **Areas in England[^c-439da6915d3818a68783907a03422330]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Areas in Wales[^key-439da6915d3818a68783907a03422330]**
+> **Areas in Wales[^c-439da6915d3818a68783907a03422330]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -107,8 +107,8 @@ Regulation 2(6)
 
 **May not be in force at this date. Check the source.**
 
-[^key-439da6915d3818a68783907a03422330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-439da6915d3818a68783907a03422330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-439da6915d3818a68783907a03422330]: Textual amendment: Regulations revoked (20.11.2001 at 1.30 p.m.) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Regulations 2001 (S.S.I. 2001/429)](https://www.legislation.gov.uk/ssi/2001/429), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2001/429/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2001/429/schedule/3) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2001/429/regulation/1/3))
+[^c-439da6915d3818a68783907a03422330]: Textual amendment: Regulations revoked (20.11.2001 at 1.30 p.m.) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Regulations 2001 (S.S.I. 2001/429)](https://www.legislation.gov.uk/ssi/2001/429), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2001/429/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2001/429/schedule/3) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2001/429/regulation/1/3))

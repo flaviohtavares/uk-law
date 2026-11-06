@@ -23,8 +23,8 @@ summary: ''
 (1) The Commission may remove a charity trustee by order made of its own motion if—
 
 - (a) within the last 5 years, the trustee—
-  - (i) having previously been made[^key-aef38d62e55124f120e61888534f9605] bankrupt, has been discharged, or
-  - (ii) having previously made a composition or arrangement with, or granted a trust deed for, creditors, has been discharged in respect of it ; or[^key-081220995679f8c7e920cf06abc8d327]
+  - (i) having previously been made[^c-aef38d62e55124f120e61888534f9605] bankrupt, has been discharged, or
+  - (ii) having previously made a composition or arrangement with, or granted a trust deed for, creditors, has been discharged in respect of it ; or[^c-081220995679f8c7e920cf06abc8d327]
   - (iii) having previously been the subject of a debt relief order, has been discharged from all the qualifying debts under the debt relief order;
 - (b) the trustee is a corporation in liquidation;
 - (c) the trustee is incapable of acting because of mental disorder within the meaning of the Mental Health Act 1983;
@@ -44,14 +44,14 @@ summary: ''
   - (i) is outside England and Wales or cannot be found, or
   - (ii) does not act.
 
-(3) In subsection (1)(a)(i), the reference to the trustee having been made[^key-878bc56050fafda2e15df7db300ece14] bankrupt includes a reference to the trustee's estate having been sequestrated.
+(3) In subsection (1)(a)(i), the reference to the trustee having been made[^c-878bc56050fafda2e15df7db300ece14] bankrupt includes a reference to the trustee's estate having been sequestrated.
 
 (4) This section does not apply in relation to an exempt charity except at a time after the Commission has instituted an inquiry under section 46 with respect to it.
 
 ## Annotations
 
-[^key-aef38d62e55124f120e61888534f9605]: Textual amendment: Word in s. 80(1)(a)(i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/17/2)
+[^c-aef38d62e55124f120e61888534f9605]: Textual amendment: Word in s. 80(1)(a)(i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/17/2)
 
-[^key-081220995679f8c7e920cf06abc8d327]: Textual amendment: S. 80(1)(a)(iii) and preceding word inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 62(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/62/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-081220995679f8c7e920cf06abc8d327]: Textual amendment: S. 80(1)(a)(iii) and preceding word inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 62(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/62/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
-[^key-878bc56050fafda2e15df7db300ece14]: Textual amendment: Word in s. 80(3) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/17/2)
+[^c-878bc56050fafda2e15df7db300ece14]: Textual amendment: Word in s. 80(3) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/17/2)

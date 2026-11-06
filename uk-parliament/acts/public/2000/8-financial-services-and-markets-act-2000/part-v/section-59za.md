@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59ZA. Senior management functions[^key-fa71b87f4d3cb8b261123a2b26d55278]
+## 59ZA. Senior management functions[^c-fa71b87f4d3cb8b261123a2b26d55278]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa71b87f4d3cb8b261123a2b26d55278]: Textual amendment: S. 59ZA inserted (25.7.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 19](https://www.legislation.gov.uk/ukpga/2013/33/section/19), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/1/a)
+[^c-fa71b87f4d3cb8b261123a2b26d55278]: Textual amendment: S. 59ZA inserted (25.7.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 19](https://www.legislation.gov.uk/ukpga/2013/33/section/19), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/1/a)

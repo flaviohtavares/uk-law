@@ -48,13 +48,13 @@ Coming into force
 
 The Lord Chancellor makes the following Order in exercise of the powers conferred upon him by sections 92 and 108(6) of the Courts Act 2003[^f00001] and section 128 of the Finance Act 1990[^f00002]. In accordance with section 92 of the Courts Act 2003, he has consulted the Lord Chief Justice, the Master of the Rolls, the President of the Queen’s Bench Division, the President of the Family Division, the Chancellor of the High Court, the Head of Civil Justice, the Deputy Head of Civil Justice, and the Civil Justice Council.
 
-## 1. Citation, commencement and interpretation[^key-2ee787e41665ef6895ea900fbe44f6cf]
+## 1. Citation, commencement and interpretation[^c-2ee787e41665ef6895ea900fbe44f6cf]
 
 (1) This order may be cited as the Non-Contentious Probate Fees (London Terrorist Bombings) Order 2005 and shall come into force on 29<sup>th</sup> December 2005.
 
 (2) In this Order “the 2004 Order” means the Non-Contentious Probate Fees Order 2004[^f00003].
 
-## 2. Remission of Fees[^key-b1af2e735db21a6907c5c56e14ec6ed3]
+## 2. Remission of Fees[^c-b1af2e735db21a6907c5c56e14ec6ed3]
 
 Notwithstanding the provisions of Article 4 of the 2004 Order, where it appears to the Lord Chancellor that an application for a grant is in respect of —
 
@@ -63,7 +63,7 @@ Notwithstanding the provisions of Article 4 of the 2004 Order, where it appears 
 
 he shall remit any fee prescribed by the 2004 Order.
 
-## 3. Transitional Provision[^key-e5f617431a502e1ca3e130843380bdcd]
+## 3. Transitional Provision[^c-e5f617431a502e1ca3e130843380bdcd]
 
 Where—
 
@@ -98,10 +98,10 @@ This Order provides that fees payable under the Non-Contentious Probate Fees Ord
 
 [^f00002]: Footnote: [1990 c. 29](https://www.legislation.gov.uk/ukpga/1990/29)
 
-[^key-2ee787e41665ef6895ea900fbe44f6cf]: Commencement: Art. 1 in force at 29.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3359/article/1/1)
+[^c-2ee787e41665ef6895ea900fbe44f6cf]: Commencement: Art. 1 in force at 29.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3359/article/1/1)
 
 [^f00003]: Footnote: [SI 2004/3120](https://www.legislation.gov.uk/uksi/2004/3120)
 
-[^key-b1af2e735db21a6907c5c56e14ec6ed3]: Commencement: Art. 2 in force at 29.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3359/article/1/1)
+[^c-b1af2e735db21a6907c5c56e14ec6ed3]: Commencement: Art. 2 in force at 29.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3359/article/1/1)
 
-[^key-e5f617431a502e1ca3e130843380bdcd]: Commencement: Art. 3 in force at 29.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3359/article/1/1)
+[^c-e5f617431a502e1ca3e130843380bdcd]: Commencement: Art. 3 in force at 29.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3359/article/1/1)

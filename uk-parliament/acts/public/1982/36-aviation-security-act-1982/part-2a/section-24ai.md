@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24AI. Objections to proposals by security executive groups[^key-60eb6c2fea269d569f8c613a4608a22d]
+## 24AI. Objections to proposals by security executive groups[^c-60eb6c2fea269d569f8c613a4608a22d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 - (a) any relevant person within section 24AE(4)(c) to (e), other than such a person who is represented on the security executive group by virtue of section 24AG(5),
 - (b) the Commissioners for Her Majesty's Revenue and Customs, unless the Commissioners are represented on the group,
-- (c) the National Crime Agency[^key-76dd0c854db70fc72e4d40dcd17a366b] , unless the Agency is represented on the group,
+- (c) the National Crime Agency[^c-76dd0c854db70fc72e4d40dcd17a366b] , unless the Agency is represented on the group,
 - (d) the Secretary of State, unless the Secretary of State has made a nomination under section 24AG(4).
 
 (3) A person notified under subsection (1) may object to the proposal by informing the group that the person objects.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-60eb6c2fea269d569f8c613a4608a22d]: Textual amendment: Pt. 2A inserted (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [ss. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) , [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(k)](https://www.legislation.gov.uk/uksi/2010/125/article/2/k)
+[^c-60eb6c2fea269d569f8c613a4608a22d]: Textual amendment: Pt. 2A inserted (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [ss. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) , [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(k)](https://www.legislation.gov.uk/uksi/2010/125/article/2/k)
 
-[^key-76dd0c854db70fc72e4d40dcd17a366b]: Textual amendment: Words in s. 24AI(2)(c) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 186](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/186); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-76dd0c854db70fc72e4d40dcd17a366b]: Textual amendment: Words in s. 24AI(2)(c) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 186](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/186); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

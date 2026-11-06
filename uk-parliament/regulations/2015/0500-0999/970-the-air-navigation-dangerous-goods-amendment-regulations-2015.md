@@ -31,7 +31,7 @@ summary: ''
 
 Civil Aviation
 
-The Air Navigation (Dangerous Goods) (Amendment) Regulations 2015 (revoked)[^key-2b80d19ebfb0d5cb3db83cbfe48207db]
+The Air Navigation (Dangerous Goods) (Amendment) Regulations 2015 (revoked)[^c-2b80d19ebfb0d5cb3db83cbfe48207db]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 30th June 2015
 
-[^key-2b80d19ebfb0d5cb3db83cbfe48207db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b80d19ebfb0d5cb3db83cbfe48207db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2b80d19ebfb0d5cb3db83cbfe48207db]
+## 1. Citation and commencement[^c-2b80d19ebfb0d5cb3db83cbfe48207db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-2b80d19ebfb0d5cb3db83cbfe48207db]
+## 2. Amendment of Regulations[^c-2b80d19ebfb0d5cb3db83cbfe48207db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-2b80d19ebfb0d5cb3db83cbfe48207db]
+## 3. Revocation[^c-2b80d19ebfb0d5cb3db83cbfe48207db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b80d19ebfb0d5cb3db83cbfe48207db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b80d19ebfb0d5cb3db83cbfe48207db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2b80d19ebfb0d5cb3db83cbfe48207db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b80d19ebfb0d5cb3db83cbfe48207db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b80d19ebfb0d5cb3db83cbfe48207db]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/970) revoked (31.1.2017) by [The Air Navigation (Dangerous Goods) (Amendment) Regulations 2017 (S.I. 2017/28)](https://www.legislation.gov.uk/uksi/2017/28), [regs. 1](https://www.legislation.gov.uk/uksi/2017/28/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/28/regulation/3)
+[^c-2b80d19ebfb0d5cb3db83cbfe48207db]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/970) revoked (31.1.2017) by [The Air Navigation (Dangerous Goods) (Amendment) Regulations 2017 (S.I. 2017/28)](https://www.legislation.gov.uk/uksi/2017/28), [regs. 1](https://www.legislation.gov.uk/uksi/2017/28/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/28/regulation/3)

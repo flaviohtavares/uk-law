@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.7. Witness lists[^key-3c9683cd827893f712ec4721acd43126]
+## 4.7. Witness lists[^c-3c9683cd827893f712ec4721acd43126]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c9683cd827893f712ec4721acd43126]: Commencement: [Rule 4.7](https://www.legislation.gov.uk/ssi/2017/103/rule/4.7) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-3c9683cd827893f712ec4721acd43126]: Commencement: [Rule 4.7](https://www.legislation.gov.uk/ssi/2017/103/rule/4.7) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

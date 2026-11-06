@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Code of practice[^key-e1189201c677a99f6849769eb191bf41]
+## 55. Code of practice[^c-e1189201c677a99f6849769eb191bf41]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ accredited bodies under this Part.
 
 ## Annotations
 
-[^key-e1189201c677a99f6849769eb191bf41]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2020/13/section/55) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-e1189201c677a99f6849769eb191bf41]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2020/13/section/55) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)

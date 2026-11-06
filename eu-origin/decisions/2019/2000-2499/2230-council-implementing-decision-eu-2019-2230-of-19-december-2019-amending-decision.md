@@ -33,16 +33,16 @@ of 19 December 2019
 
 amending Decision 2007/884/EC authorising the United Kingdom to continue to apply a measure derogating from Articles 26(1)(a), 168 and 169 of Directive 2006/112/EC on the common system of value added tax (revoked)
 
-[^key-95e67479515fc398a2fb58a29ba73ded]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95e67479515fc398a2fb58a29ba73ded]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-95e67479515fc398a2fb58a29ba73ded] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-95e67479515fc398a2fb58a29ba73ded] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-95e67479515fc398a2fb58a29ba73ded] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-95e67479515fc398a2fb58a29ba73ded] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-95e67479515fc398a2fb58a29ba73ded] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-95e67479515fc398a2fb58a29ba73ded] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-95e67479515fc398a2fb58a29ba73ded]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95e67479515fc398a2fb58a29ba73ded]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-95e67479515fc398a2fb58a29ba73ded]: Textual amendment: Decision revoked (31.12.2020) by [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/24/b), [25](https://www.legislation.gov.uk/uksi/2020/1495/regulation/25)
+[^c-95e67479515fc398a2fb58a29ba73ded]: Textual amendment: Decision revoked (31.12.2020) by [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/24/b), [25](https://www.legislation.gov.uk/uksi/2020/1495/regulation/25)

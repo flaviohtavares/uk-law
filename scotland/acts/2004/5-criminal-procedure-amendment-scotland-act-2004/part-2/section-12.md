@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Service etc. on accused through a solicitor[^key-e2e8387d6cc881412faf5dab112bdc93]
+## 12. Service etc. on accused through a solicitor[^c-e2e8387d6cc881412faf5dab112bdc93]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ After section 72F of the 1995 Act (as inserted by section 8 of this Act) insertâ
 
 ## Annotations
 
-[^key-e2e8387d6cc881412faf5dab112bdc93]: Commencement: S. 12 in force at 4.12.2004 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-e2e8387d6cc881412faf5dab112bdc93]: Commencement: S. 12 in force at 4.12.2004 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

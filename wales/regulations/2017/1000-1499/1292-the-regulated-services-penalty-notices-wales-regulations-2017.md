@@ -31,7 +31,7 @@ summary: ''
 
 Social Care, Wales
 
-The Regulated Services (Penalty Notices) (Wales) Regulations 2017 (revoked)[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]
+The Regulated Services (Penalty Notices) (Wales) Regulations 2017 (revoked)[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]
 
 Made
 
@@ -45,55 +45,55 @@ Coming into force
 
 2 April 2018
 
-[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]
+## 1. Title, commencement and application[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]
+## 2. Interpretation[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed offences[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]
+## 3. Prescribed offences[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amount of penalty[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]
+## 4. Amount of penalty[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Period for payment of the penalty[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]
+## 5. Period for payment of the penalty[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Payment of the penalty[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]
+## 6. Payment of the penalty[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Period during which proceedings may not be instituted[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]
+## 7. Period during which proceedings may not be instituted[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Withdrawal of penalty notice[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]
+## 8. Withdrawal of penalty notice[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Content of penalty notice[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]
+## 9. Content of penalty notice[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Records[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]
+## 10. Records[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Prescribed offences[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]
+## SCHEDULE — Prescribed offences[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]
 
 Regulations 3 and 4
 
@@ -101,8 +101,8 @@ Regulations 3 and 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ed31f202d99e0b7ffffebc2e0ac0a1d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2017/1292) revoked (1.7.2019) by [The Regulated Services (Penalty Notices) (Wales) Regulations 2019 (S.I. 2019/887)](https://www.legislation.gov.uk/wsi/2019/887), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2), [16](https://www.legislation.gov.uk/wsi/2019/887/regulation/16)
+[^c-4ed31f202d99e0b7ffffebc2e0ac0a1d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2017/1292) revoked (1.7.2019) by [The Regulated Services (Penalty Notices) (Wales) Regulations 2019 (S.I. 2019/887)](https://www.legislation.gov.uk/wsi/2019/887), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/887/regulation/1/2), [16](https://www.legislation.gov.uk/wsi/2019/887/regulation/16)

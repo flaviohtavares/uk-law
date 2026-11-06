@@ -24,7 +24,7 @@ Articles 18(2), 19(1), (2)(a) and (3), 20(2), 24(3) and 187(1).
 
 ### PART I — GENERAL PROCEDURE
 
-**1.** The Department of Justice[^key-1932396fcf1d891a024c2eca2b714d13] shall, not less than 6 weeks before the renewal date, cause notice of that date and of the provisions of paragraph 5 to be published in 2 newspapers circulating throughout Northern Ireland .
+**1.** The Department of Justice[^c-1932396fcf1d891a024c2eca2b714d13] shall, not less than 6 weeks before the renewal date, cause notice of that date and of the provisions of paragraph 5 to be published in 2 newspapers circulating throughout Northern Ireland .
 
 **2.** A licensed bookmaker who intends to make an application for the renewal of a bookmaking office licence shall, not less than 3 weeks before the renewal date, serve notice of the application upon the clerk of petty sessions and at the same time serve a copy of the notice upon—
 
@@ -67,6 +67,6 @@ and shall specify details of any change in the information specified under heads
 
 ## Annotations
 
-[^key-1932396fcf1d891a024c2eca2b714d13]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/nisi/1985/1204/schedule/4/paragraph/1) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(14)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/14) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-1932396fcf1d891a024c2eca2b714d13]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/nisi/1985/1204/schedule/4/paragraph/1) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(14)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/14) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c17004391]: Textual amendment: [1990 NI 12](https://www.legislation.gov.uk/1990/ni12)

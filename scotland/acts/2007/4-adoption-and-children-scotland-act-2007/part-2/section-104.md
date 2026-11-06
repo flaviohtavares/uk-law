@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Permanence orders: rules of procedure[^key-4e22761a65dfe49501990bcc90958ef8][^key-ef7914f7dce4f4f415dadd208aa3bbca]
+## 104. Permanence orders: rules of procedure[^c-4e22761a65dfe49501990bcc90958ef8][^c-ef7914f7dce4f4f415dadd208aa3bbca]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e22761a65dfe49501990bcc90958ef8]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2007/4/section/104) in force at 20.4.2009 for specified purposes by [S.S.I. 2009/147](https://www.legislation.gov.uk/ssi/2009/147), [art. 2](https://www.legislation.gov.uk/ssi/2009/147/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/147/schedule)
+[^c-4e22761a65dfe49501990bcc90958ef8]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2007/4/section/104) in force at 20.4.2009 for specified purposes by [S.S.I. 2009/147](https://www.legislation.gov.uk/ssi/2009/147), [art. 2](https://www.legislation.gov.uk/ssi/2009/147/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/147/schedule)
 
-[^key-ef7914f7dce4f4f415dadd208aa3bbca]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2007/4/section/104) in force at 28.9.2009 in so far as not already in force by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)
+[^c-ef7914f7dce4f4f415dadd208aa3bbca]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2007/4/section/104) in force at 28.9.2009 in so far as not already in force by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)

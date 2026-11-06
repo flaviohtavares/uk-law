@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 197. Penalties for inaccurate information or documents[^key-40de16bf10e1ce67b1eec2acea8d1bf7]
+## 197. Penalties for inaccurate information or documents[^c-40de16bf10e1ce67b1eec2acea8d1bf7]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40de16bf10e1ce67b1eec2acea8d1bf7]: Commencement: [S. 197](https://www.legislation.gov.uk/asp/2014/16/section/197) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-40de16bf10e1ce67b1eec2acea8d1bf7]: Commencement: [S. 197](https://www.legislation.gov.uk/asp/2014/16/section/197) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

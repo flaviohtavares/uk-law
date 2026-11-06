@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Amendment to Commission Regulation (EU) 2019/2021[^key-6dddf5dbf1699ac2b7ce57259c94f0d5]
+## 20. Amendment to Commission Regulation (EU) 2019/2021[^c-6dddf5dbf1699ac2b7ce57259c94f0d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 11 (entry into force and application) of Commission Regulation (EU
 
 ## Annotations
 
-[^key-6dddf5dbf1699ac2b7ce57259c94f0d5]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-6dddf5dbf1699ac2b7ce57259c94f0d5]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Highway alterations[^key-dc1c98b8a57aeb8129088762055c8840]
+## 15. Highway alterations[^c-dc1c98b8a57aeb8129088762055c8840]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc1c98b8a57aeb8129088762055c8840]: Commencement: Art. 15 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-dc1c98b8a57aeb8129088762055c8840]: Commencement: Art. 15 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)

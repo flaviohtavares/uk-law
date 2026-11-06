@@ -31,56 +31,56 @@ Official Secrets Act 1911 (repealed)
 
 1911 c.28
 
-[^key-60fcfa1e908dae76e5e9ac7c135b0385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60fcfa1e908dae76e5e9ac7c135b0385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Penalties for spying.[^key-60fcfa1e908dae76e5e9ac7c135b0385]
+## 1. Penalties for spying.[^c-60fcfa1e908dae76e5e9ac7c135b0385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-60fcfa1e908dae76e5e9ac7c135b0385]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-60fcfa1e908dae76e5e9ac7c135b0385]
 
-## 3. Definition of prohibited place.[^key-60fcfa1e908dae76e5e9ac7c135b0385]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-60fcfa1e908dae76e5e9ac7c135b0385]
-
-## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-60fcfa1e908dae76e5e9ac7c135b0385]
-
-## 6. Power to arrest.[^key-60fcfa1e908dae76e5e9ac7c135b0385]
+## 3. Definition of prohibited place.[^c-60fcfa1e908dae76e5e9ac7c135b0385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalty for harbouring spies.[^key-60fcfa1e908dae76e5e9ac7c135b0385]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-60fcfa1e908dae76e5e9ac7c135b0385]
+
+## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-60fcfa1e908dae76e5e9ac7c135b0385]
+
+## 6. Power to arrest.[^c-60fcfa1e908dae76e5e9ac7c135b0385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Restriction on prosecution.[^key-60fcfa1e908dae76e5e9ac7c135b0385]
+## 7. Penalty for harbouring spies.[^c-60fcfa1e908dae76e5e9ac7c135b0385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Search Warrants.[^key-60fcfa1e908dae76e5e9ac7c135b0385]
+## 8. Restriction on prosecution.[^c-60fcfa1e908dae76e5e9ac7c135b0385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Extent of Act and place of trial of offence.[^key-60fcfa1e908dae76e5e9ac7c135b0385]
+## 9. Search Warrants.[^c-60fcfa1e908dae76e5e9ac7c135b0385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Saving for laws of British possessions.[^key-60fcfa1e908dae76e5e9ac7c135b0385]
+## 10. Extent of Act and place of trial of offence.[^c-60fcfa1e908dae76e5e9ac7c135b0385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Interpretation.[^key-60fcfa1e908dae76e5e9ac7c135b0385]
+## 11. Saving for laws of British possessions.[^c-60fcfa1e908dae76e5e9ac7c135b0385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. †Short title and repeal.[^key-60fcfa1e908dae76e5e9ac7c135b0385]
+## 12. Interpretation.[^c-60fcfa1e908dae76e5e9ac7c135b0385]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 13. †Short title and repeal.[^c-60fcfa1e908dae76e5e9ac7c135b0385]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60fcfa1e908dae76e5e9ac7c135b0385]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/1-2/28) repealed (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1272/regulation/3))
+[^c-60fcfa1e908dae76e5e9ac7c135b0385]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/1-2/28) repealed (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1272/regulation/3))

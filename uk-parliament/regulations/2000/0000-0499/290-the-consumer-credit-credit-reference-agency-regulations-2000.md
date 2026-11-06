@@ -49,7 +49,7 @@ Whereas the Secretary of State has consulted the Data Protection Commissioner in
 
 Now, therefore, the Secretary of State, in exercise of powers conferred on him by sections 157(1), 158(1) and (2), 159(5) (read with section 160(5)), 160(3) and 182(2) of the Consumer Credit Act 1974[^f00002], and by section 9(3) of the said Act of 1998, makes the following Regulations:—
 
-## 1. Title, commencement, revocation and savings[^key-0b74f67763e0364438011eba624dec91]
+## 1. Title, commencement, revocation and savings[^c-0b74f67763e0364438011eba624dec91]
 
 (1) These Regulations may be cited as the Consumer Credit (Credit Reference Agency) Regulations 2000 and shall come into force on 1st March 2000.
 
@@ -60,7 +60,7 @@ Now, therefore, the Secretary of State, in exercise of powers conferred on him b
 - (a) in any case where a credit reference agency has, on or before 29th February 2000, received a request under section 158(1) of the 1974 Act (other than a request made by reference to the 1998 Act) but does not, until after that date, comply with section 158(1) and (2) of that Act or deal with the request under section 160(3); and
 - (b) in any case where a credit reference agency has received a request under section 158(1) of the 1974 Act and has complied with section 158(1) and (2) of that Act or dealt with the request under section 160(3) before 1st March 2000.
 
-## 2. Interpretation[^key-dc960b37539dfb8dc92fc70695bbc519]
+## 2. Interpretation[^c-dc960b37539dfb8dc92fc70695bbc519]
 
 In these Regulations—
 
@@ -69,19 +69,19 @@ In these Regulations—
 - “agency” means a credit reference agency; and
 - “business consumer” means a consumer[^f00004] carrying on a business who has been given information under section 160 of the 1974 Act.
 
-## 3. Prescribed period for the purposes of sections 157(1), 158(1) and 160(3) of the 1974 Act[^key-105dd8899316aebb7e34ef6e10e0ee02]
+## 3. Prescribed period for the purposes of sections 157(1), 158(1) and 160(3) of the 1974 Act[^c-105dd8899316aebb7e34ef6e10e0ee02]
 
 The period of seven working days is prescribed for the purposes of sections 157(1), 158(1) and 160(3) of the 1974 Act.
 
-## 4. Statement of rights under sections 159 and 160 of the 1974 Act[^key-37967ccc327a5e8dea8a040b5c4e4dd5]
+## 4. Statement of rights under sections 159 and 160 of the 1974 Act[^c-37967ccc327a5e8dea8a040b5c4e4dd5]
 
-(1)[^key-21025b39ef2fc6ff4868dd22dfabc684] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-21025b39ef2fc6ff4868dd22dfabc684] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The form in Schedule 2, completed in accordance with the footnotes, is prescribed for the purposes of section 158(2) of the 1974 Act.
 
 (3) The form in Schedule 3, completed in accordance with the footnotes, is prescribed for the purposes of section 160(3) of the 1974 Act.
 
-## 5. Applications to the relevant authority under section 159(5) of the 1974 Act[^key-b6cf95375cb16a927f6a4c76c376fc8e]
+## 5. Applications to the relevant authority under section 159(5) of the 1974 Act[^c-b6cf95375cb16a927f6a4c76c376fc8e]
 
 (1) This regulation prescribes the manner in which applications under section 159(5) of the 1974 Act by—
 
@@ -111,7 +111,7 @@ Department of Trade and Industry
 
 8th February 2000
 
-## SCHEDULE 1 — CREDIT REFERENCE AGENCY FILES[^key-98a66b05bb34f90069bb8f40ad276128]
+## SCHEDULE 1 — CREDIT REFERENCE AGENCY FILES[^c-98a66b05bb34f90069bb8f40ad276128]
 
 **No longer in force.**
 
@@ -119,19 +119,19 @@ Regulation 4(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CREDIT REFERENCE AGENCY FILES[^key-a68b78d156bf72d422c01629904e3e8b][^key-8fc8bb5429681f72de8fe108727c7324][^key-b542623a7520708da363bb9ec4f54152][^key-cef2233eacc856be9a93985e873fe5c2]
+## SCHEDULE 2 — CREDIT REFERENCE AGENCY FILES[^c-a68b78d156bf72d422c01629904e3e8b][^c-8fc8bb5429681f72de8fe108727c7324][^c-b542623a7520708da363bb9ec4f54152][^c-cef2233eacc856be9a93985e873fe5c2]
 
 Regulation 4(2)
 
-[^key-cef2233eacc856be9a93985e873fe5c2][^key-b542623a7520708da363bb9ec4f54152][^key-8fc8bb5429681f72de8fe108727c7324]PARTNERSHIPS AND OTHER UNINCORPORATED BODIES
+[^c-cef2233eacc856be9a93985e873fe5c2][^c-b542623a7520708da363bb9ec4f54152][^c-8fc8bb5429681f72de8fe108727c7324]PARTNERSHIPS AND OTHER UNINCORPORATED BODIES
 
 [image: see source](https://www.legislation.gov.uk/uksi/2000/290/images/uksi_20000290_en_003) [image: see source](https://www.legislation.gov.uk/uksi/2000/290/images/uksi_20000290_en_004)
 
-## SCHEDULE 3 — CREDIT REFERENCE AGENCY FILES[^key-f7c2a2459b607c444664ef04681677d0][^key-195d0d3895a048aad45a438aead5bfbb][^key-9c17649e9d69962dae2197bd919f9dcf][^key-55b72c4c26f2040fe6e40b0fa836794f]
+## SCHEDULE 3 — CREDIT REFERENCE AGENCY FILES[^c-f7c2a2459b607c444664ef04681677d0][^c-195d0d3895a048aad45a438aead5bfbb][^c-9c17649e9d69962dae2197bd919f9dcf][^c-55b72c4c26f2040fe6e40b0fa836794f]
 
 Regulation 4(3)
 
-[^key-55b72c4c26f2040fe6e40b0fa836794f][^key-9c17649e9d69962dae2197bd919f9dcf][^key-195d0d3895a048aad45a438aead5bfbb]BUSINESS CONSUMERS
+[^c-55b72c4c26f2040fe6e40b0fa836794f][^c-9c17649e9d69962dae2197bd919f9dcf][^c-195d0d3895a048aad45a438aead5bfbb]BUSINESS CONSUMERS
 
 (PARTNERSHIPS AND OTHER UNINCORPORATED BODIES ONLY)
 
@@ -157,40 +157,40 @@ A Regulatory Impact Assessment of the costs and benefits which will result from 
 
 [^f00002]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39); section 189(1) contains a definition of “prescribed”.
 
-[^key-0b74f67763e0364438011eba624dec91]: Commencement: Reg. 1 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
+[^c-0b74f67763e0364438011eba624dec91]: Commencement: Reg. 1 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1977/329](https://www.legislation.gov.uk/uksi/1977/329).
 
-[^key-dc960b37539dfb8dc92fc70695bbc519]: Commencement: Reg. 2 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
+[^c-dc960b37539dfb8dc92fc70695bbc519]: Commencement: Reg. 2 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
 
 [^f00004]: Footnote: “Consumer” is defined in section 158(1) of the Consumer Credit Act 1974, as amended by section 62 of the Data Protection Act 1998.
 
-[^key-105dd8899316aebb7e34ef6e10e0ee02]: Commencement: Reg. 3 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
+[^c-105dd8899316aebb7e34ef6e10e0ee02]: Commencement: Reg. 3 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
 
-[^key-37967ccc327a5e8dea8a040b5c4e4dd5]: Commencement: Reg. 4 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
+[^c-37967ccc327a5e8dea8a040b5c4e4dd5]: Commencement: Reg. 4 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
 
-[^key-21025b39ef2fc6ff4868dd22dfabc684]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/4/1) revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 244](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/244) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-21025b39ef2fc6ff4868dd22dfabc684]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/4/1) revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 244](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/244) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-b6cf95375cb16a927f6a4c76c376fc8e]: Commencement: Reg. 5 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
+[^c-b6cf95375cb16a927f6a4c76c376fc8e]: Commencement: Reg. 5 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
 
 [^f00005]: Footnote: “Objector” is defined in section 159(1) of the Consumer Credit Act 1974, as amended by section 62 of the Data Protection Act 1998.
 
 [^f00006]: Footnote: “Relevant authority” is defined in section 159(8) of the Consumer Credit Act 1974, as amended by section 62 of the Data Protection Act 1998.
 
-[^key-98a66b05bb34f90069bb8f40ad276128]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2000/290/schedule/1) revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 244](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/244) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-98a66b05bb34f90069bb8f40ad276128]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2000/290/schedule/1) revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 244](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/244) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-a68b78d156bf72d422c01629904e3e8b]: Commencement: Sch. 2 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
+[^c-a68b78d156bf72d422c01629904e3e8b]: Commencement: Sch. 2 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
 
-[^key-8fc8bb5429681f72de8fe108727c7324]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/290/schedule/2): words “Financial Conduct Authority” substituted for “Director General of Fair Trading” (14.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3/4), [7(a)](https://www.legislation.gov.uk/uksi/2014/366/article/7/a)
+[^c-8fc8bb5429681f72de8fe108727c7324]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/290/schedule/2): words “Financial Conduct Authority” substituted for “Director General of Fair Trading” (14.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3/4), [7(a)](https://www.legislation.gov.uk/uksi/2014/366/article/7/a)
 
-[^key-b542623a7520708da363bb9ec4f54152]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/290/schedule/2): word "FCA" substituted for “Director General” (other than where it appears in the phrase “Director General of Fair Trading”) (14.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3/4), [7(b)](https://www.legislation.gov.uk/uksi/2014/366/article/7/b)
+[^c-b542623a7520708da363bb9ec4f54152]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/290/schedule/2): word "FCA" substituted for “Director General” (other than where it appears in the phrase “Director General of Fair Trading”) (14.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3/4), [7(b)](https://www.legislation.gov.uk/uksi/2014/366/article/7/b)
 
-[^key-cef2233eacc856be9a93985e873fe5c2]: Textual amendment: Sch. 2: words “25 The North Colonnade Canary Wharf London E14 5HS Telephone no 020 7066 1000 or 0800 111 6768 email: consumer.queries@fca.org.uk” substituted for “Office of Fair Trading Fleetbank House 2/6 Salisbury Square London EC4Y 8JX Telephone no 0171-211 8000 Fax no 0171-211 8800 email: enquiries@oft.gov.uk” (14.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3/4), [7(c)](https://www.legislation.gov.uk/uksi/2014/366/article/7/c)
+[^c-cef2233eacc856be9a93985e873fe5c2]: Textual amendment: Sch. 2: words “25 The North Colonnade Canary Wharf London E14 5HS Telephone no 020 7066 1000 or 0800 111 6768 email: consumer.queries@fca.org.uk” substituted for “Office of Fair Trading Fleetbank House 2/6 Salisbury Square London EC4Y 8JX Telephone no 0171-211 8000 Fax no 0171-211 8800 email: enquiries@oft.gov.uk” (14.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3/4), [7(c)](https://www.legislation.gov.uk/uksi/2014/366/article/7/c)
 
-[^key-f7c2a2459b607c444664ef04681677d0]: Commencement: Sch. 3 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
+[^c-f7c2a2459b607c444664ef04681677d0]: Commencement: Sch. 3 in force at 1.3.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/290/regulation/1/1)
 
-[^key-195d0d3895a048aad45a438aead5bfbb]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2000/290/schedule/3): words “Financial Conduct Authority” substituted for “Director General of Fair Trading” (14.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3/4), [7(a)](https://www.legislation.gov.uk/uksi/2014/366/article/7/a)
+[^c-195d0d3895a048aad45a438aead5bfbb]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2000/290/schedule/3): words “Financial Conduct Authority” substituted for “Director General of Fair Trading” (14.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3/4), [7(a)](https://www.legislation.gov.uk/uksi/2014/366/article/7/a)
 
-[^key-9c17649e9d69962dae2197bd919f9dcf]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2000/290/schedule/3): word "FCA" substituted for “Director General” (other than where it appears in the phrase “Director General of Fair Trading”) (14.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3/4), [7(b)](https://www.legislation.gov.uk/uksi/2014/366/article/7/b)
+[^c-9c17649e9d69962dae2197bd919f9dcf]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2000/290/schedule/3): word "FCA" substituted for “Director General” (other than where it appears in the phrase “Director General of Fair Trading”) (14.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3/4), [7(b)](https://www.legislation.gov.uk/uksi/2014/366/article/7/b)
 
-[^key-55b72c4c26f2040fe6e40b0fa836794f]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2000/290/schedule/3): words “25 The North Colonnade Canary Wharf London E14 5HS Telephone no 020 7066 1000 or 0800 111 6768 email: consumer.queries@fca.org.uk” substituted for “Office of Fair Trading Fleetbank House 2/6 Salisbury Square London EC4Y 8JX Telephone no 0171-211 8000 Fax no 0171-211 8800 email: enquiries@oft.gov.uk” (14.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3/4), [7(c)](https://www.legislation.gov.uk/uksi/2014/366/article/7/c)
+[^c-55b72c4c26f2040fe6e40b0fa836794f]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2000/290/schedule/3): words “25 The North Colonnade Canary Wharf London E14 5HS Telephone no 020 7066 1000 or 0800 111 6768 email: consumer.queries@fca.org.uk” substituted for “Office of Fair Trading Fleetbank House 2/6 Salisbury Square London EC4Y 8JX Telephone no 0171-211 8000 Fax no 0171-211 8800 email: enquiries@oft.gov.uk” (14.2.2014 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3/4), [7(c)](https://www.legislation.gov.uk/uksi/2014/366/article/7/c)

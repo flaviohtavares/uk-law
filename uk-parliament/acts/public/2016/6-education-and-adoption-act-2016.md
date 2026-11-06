@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Maintained schools causing concern: eligibility for intervention
 
-### 1. Coasting schools[^key-2771edc7aa468f4c7c392c38c68f6ccf][^key-a120cc1daed7f486bbf45b2eddb19994]
+### 1. Coasting schools[^c-2771edc7aa468f4c7c392c38c68f6ccf][^c-a120cc1daed7f486bbf45b2eddb19994]
 
 (1) The Education and Inspections Act 2006 is amended as follows.
 
@@ -63,7 +63,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 .
 
-### 2. Performance standards and safety warning notices[^key-4e4a2ff3ce3c53f5aa9bc3573a8a2451]
+### 2. Performance standards and safety warning notices[^c-4e4a2ff3ce3c53f5aa9bc3573a8a2451]
 
 (1) The Education and Inspections Act 2006 is amended as follows.
 
@@ -119,7 +119,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) In section 73 (interpretation), omit the definition of “working day”.
 
-### 3. Other warning notices[^key-257a5a5b7daca2d87d891598b7a925c0]
+### 3. Other warning notices[^c-257a5a5b7daca2d87d891598b7a925c0]
 
 (1) The Education and Inspections Act 2006 is amended as follows.
 
@@ -159,7 +159,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Maintained schools causing concern: intervention powers
 
-### 4. Power to require governing body to enter into arrangements[^key-2855e9d91262beeea1ce08f98a3cc60b]
+### 4. Power to require governing body to enter into arrangements[^c-2855e9d91262beeea1ce08f98a3cc60b]
 
 Before section 67 of the Education and Inspections Act 2006 insert—
 
@@ -182,7 +182,7 @@ Before section 67 of the Education and Inspections Act 2006 insert—
 >
 > (4) A notice under subsection (1)(a) may require the contract or other arrangement to contain specified terms and conditions.
 
-### 5. Appointment of interim executive members[^key-548ccef2698961969295fdebb9b083ca]
+### 5. Appointment of interim executive members[^c-548ccef2698961969295fdebb9b083ca]
 
 In Schedule 6 to the Education and Inspections Act 2006 (governing bodies consisting of interim executive members), after paragraph 5 insert—
 
@@ -195,7 +195,7 @@ In Schedule 6 to the Education and Inspections Act 2006 (governing bodies consis
 > - (c) the terms of appointment of interim executive members;
 > - (d) the termination of any appointment in accordance with provision made under paragraph 5.
 
-### 6. Interaction between intervention powers[^key-9153869f77cc18fedc981a272aefc98c]
+### 6. Interaction between intervention powers[^c-9153869f77cc18fedc981a272aefc98c]
 
 (1) The Education and Inspections Act 2006 is amended as follows.
 
@@ -231,11 +231,11 @@ In Schedule 6 to the Education and Inspections Act 2006 (governing bodies consis
 
 ## Maintained schools causing concern: conversion into Academies
 
-### 7. Duty to make Academy orders[^key-166e15f219fda7e063966505b07305c7]
+### 7. Duty to make Academy orders[^c-166e15f219fda7e063966505b07305c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Consultation about conversion[^key-92dc215c825bbe59e2b266924abe8853]
+### 8. Consultation about conversion[^c-92dc215c825bbe59e2b266924abe8853]
 
 For section 5 of the Academies Act 2010 (consultation on conversion) substitute—
 
@@ -249,11 +249,11 @@ For section 5 of the Academies Act 2010 (consultation on conversion) substitute�
 >
 > (4) In the case of a federated school, the reference in subsection (1) to the governing body includes a reference to any members of the governing body.
 
-### 9. Consultation about identity of Academy sponsor in certain cases[^key-7bf72d1206b4eb96e911fbb23bd49715]
+### 9. Consultation about identity of Academy sponsor in certain cases[^c-7bf72d1206b4eb96e911fbb23bd49715]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Duty to facilitate conversion[^key-8947289d082530fc070ae1398a6a70db]
+### 10. Duty to facilitate conversion[^c-8947289d082530fc070ae1398a6a70db]
 
 After section 5A of the Academies Act 2010 (inserted by section 9 above) insert—
 
@@ -263,7 +263,7 @@ After section 5A of the Academies Act 2010 (inserted by section 9 above) insert�
 >
 > (2) Where the Secretary of State notifies the governing body or local authority that the Secretary of State is minded to enter into Academy arrangements with a specified person, their duty under subsection (1) includes a duty to take all reasonable steps to facilitate the making of Academy arrangements with that person.
 
-### 11. Power to give directions to do with conversion[^key-aafc3b4d370bf62d5ea59b596a006c0c]
+### 11. Power to give directions to do with conversion[^c-aafc3b4d370bf62d5ea59b596a006c0c]
 
 After section 5B of the Academies Act 2010 (inserted by section 10 above) insert—
 
@@ -275,7 +275,7 @@ After section 5B of the Academies Act 2010 (inserted by section 10 above) insert
 >
 > (3) A direction may specify the period within which any steps must be taken.
 
-### 12. Power to revoke Academy orders[^key-91d0de3820f78d7a4dbeb012c86d89c5]
+### 12. Power to revoke Academy orders[^c-91d0de3820f78d7a4dbeb012c86d89c5]
 
 After section 5C of the Academies Act 2010 (inserted by section 11 above) insert—
 
@@ -287,7 +287,7 @@ After section 5C of the Academies Act 2010 (inserted by section 11 above) insert
 >
 > (3) Despite section 568(1) of EA 1996 (orders to be made by statutory instrument) (as applied by section 17(4) of this Act) the power of the Secretary of State to make an order under this section is not required to be exercised by statutory instrument.
 
-### 13. Duty to communicate information about plans to improve school[^key-00fae86d835cd7489beeec7871aa7025]
+### 13. Duty to communicate information about plans to improve school[^c-00fae86d835cd7489beeec7871aa7025]
 
 After section 5D of the Academies Act 2010 (inserted by section 12 above) insert—
 
@@ -302,7 +302,7 @@ After section 5D of the Academies Act 2010 (inserted by section 12 above) insert
 
 ## Academies causing concern: intervention powers
 
-### 14. Academies causing concern[^key-f91616d18df0391c6399bc3b9a89d533]
+### 14. Academies causing concern[^c-f91616d18df0391c6399bc3b9a89d533]
 
 After section 2 of the Academies Act 2010 insert—
 
@@ -368,7 +368,7 @@ After section 2 of the Academies Act 2010 insert—
 
 ## Adoption
 
-### 15. Local authority adoption functions: joint arrangements[^key-ffe70758f7a7875a222dffec31dffca4]
+### 15. Local authority adoption functions: joint arrangements[^c-ffe70758f7a7875a222dffec31dffca4]
 
 (1) The Adoption and Children Act 2002 is amended as follows.
 
@@ -410,7 +410,7 @@ After section 2 of the Academies Act 2010 insert—
 
 ## General
 
-### 16. Consequential repeals[^key-b5a6c2eefd0448d1e961590277bdaa6d][^key-1e6fa9f7537cd0775dc0a955e5a8d374]
+### 16. Consequential repeals[^c-b5a6c2eefd0448d1e961590277bdaa6d][^c-1e6fa9f7537cd0775dc0a955e5a8d374]
 
 In consequence of the amendments made by this Act, omit the following—
 
@@ -450,38 +450,38 @@ This Act may be cited as the Education and Adoption Act 2016.
 
 ## Annotations
 
-[^key-2771edc7aa468f4c7c392c38c68f6ccf]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2016/6/section/1) in force at 5.9.2016 for specified purposes by [S.I. 2016/866](https://www.legislation.gov.uk/uksi/2016/866), [reg. 2](https://www.legislation.gov.uk/uksi/2016/866/regulation/2)
+[^c-2771edc7aa468f4c7c392c38c68f6ccf]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2016/6/section/1) in force at 5.9.2016 for specified purposes by [S.I. 2016/866](https://www.legislation.gov.uk/uksi/2016/866), [reg. 2](https://www.legislation.gov.uk/uksi/2016/866/regulation/2)
 
-[^key-a120cc1daed7f486bbf45b2eddb19994]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2016/6/section/1) in force at 11.1.2017 in so far as not already in force by [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/a)
+[^c-a120cc1daed7f486bbf45b2eddb19994]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2016/6/section/1) in force at 11.1.2017 in so far as not already in force by [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/a)
 
-[^key-4e4a2ff3ce3c53f5aa9bc3573a8a2451]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/6/section/2) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/466/regulation/4/1))
+[^c-4e4a2ff3ce3c53f5aa9bc3573a8a2451]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/6/section/2) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/466/regulation/4/1))
 
-[^key-257a5a5b7daca2d87d891598b7a925c0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/6/section/3) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/466/regulation/4/2))
+[^c-257a5a5b7daca2d87d891598b7a925c0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/6/section/3) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/466/regulation/4/2))
 
-[^key-2855e9d91262beeea1ce08f98a3cc60b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/6/section/4) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
+[^c-2855e9d91262beeea1ce08f98a3cc60b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2016/6/section/4) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
 
-[^key-548ccef2698961969295fdebb9b083ca]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/6/section/5) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
+[^c-548ccef2698961969295fdebb9b083ca]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/6/section/5) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
 
-[^key-9153869f77cc18fedc981a272aefc98c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/6/section/6) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
+[^c-9153869f77cc18fedc981a272aefc98c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/6/section/6) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
 
-[^key-166e15f219fda7e063966505b07305c7]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2016/6/section/7) omitted (29.6.2026) by virtue of [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 58(8)](https://www.legislation.gov.uk/ukpga/2026/21/section/58/8), [78(2)(h)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/h) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2026/21/section/58/9))
+[^c-166e15f219fda7e063966505b07305c7]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2016/6/section/7) omitted (29.6.2026) by virtue of [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 58(8)](https://www.legislation.gov.uk/ukpga/2026/21/section/58/8), [78(2)(h)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/h) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2026/21/section/58/9))
 
-[^key-92dc215c825bbe59e2b266924abe8853]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/6/section/8) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
+[^c-92dc215c825bbe59e2b266924abe8853]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/6/section/8) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
 
-[^key-7bf72d1206b4eb96e911fbb23bd49715]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2016/6/section/9) omitted (29.6.2026) by virtue of [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 58(8)](https://www.legislation.gov.uk/ukpga/2026/21/section/58/8), [78(2)(h)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/h) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2026/21/section/58/9))
+[^c-7bf72d1206b4eb96e911fbb23bd49715]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2016/6/section/9) omitted (29.6.2026) by virtue of [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 58(8)](https://www.legislation.gov.uk/ukpga/2026/21/section/58/8), [78(2)(h)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/h) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2026/21/section/58/9))
 
-[^key-8947289d082530fc070ae1398a6a70db]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/6/section/10) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
+[^c-8947289d082530fc070ae1398a6a70db]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/6/section/10) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
 
-[^key-aafc3b4d370bf62d5ea59b596a006c0c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/6/section/11) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
+[^c-aafc3b4d370bf62d5ea59b596a006c0c]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/6/section/11) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
 
-[^key-91d0de3820f78d7a4dbeb012c86d89c5]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/6/section/12) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
+[^c-91d0de3820f78d7a4dbeb012c86d89c5]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/6/section/12) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
 
-[^key-00fae86d835cd7489beeec7871aa7025]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/6/section/13) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
+[^c-00fae86d835cd7489beeec7871aa7025]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/6/section/13) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
 
-[^key-f91616d18df0391c6399bc3b9a89d533]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2016/6/section/14) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
+[^c-f91616d18df0391c6399bc3b9a89d533]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2016/6/section/14) in force at 18.4.2016 by [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
 
-[^key-ffe70758f7a7875a222dffec31dffca4]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/6/section/15) in force at 7.3.2018 by [S.I. 2018/300](https://www.legislation.gov.uk/uksi/2018/300), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/300/regulation/2/a)
+[^c-ffe70758f7a7875a222dffec31dffca4]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/6/section/15) in force at 7.3.2018 by [S.I. 2018/300](https://www.legislation.gov.uk/uksi/2018/300), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/300/regulation/2/a)
 
-[^key-b5a6c2eefd0448d1e961590277bdaa6d]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2016/6/section/16) in force at 11.1.2017 for specified purposes by [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/b)
+[^c-b5a6c2eefd0448d1e961590277bdaa6d]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2016/6/section/16) in force at 11.1.2017 for specified purposes by [S.I. 2017/6](https://www.legislation.gov.uk/uksi/2017/6), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/6/regulation/2/b)
 
-[^key-1e6fa9f7537cd0775dc0a955e5a8d374]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2016/6/section/16) in force at 7.3.2018 in so far as not already in force by [S.I. 2018/300](https://www.legislation.gov.uk/uksi/2018/300), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/300/regulation/2/b)
+[^c-1e6fa9f7537cd0775dc0a955e5a8d374]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2016/6/section/16) in force at 7.3.2018 in so far as not already in force by [S.I. 2018/300](https://www.legislation.gov.uk/uksi/2018/300), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/300/regulation/2/b)

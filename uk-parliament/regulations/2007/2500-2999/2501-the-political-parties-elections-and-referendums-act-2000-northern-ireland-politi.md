@@ -48,11 +48,11 @@ The Secretary of State is satisfied that the condition in section 71B(2) of the 
 
 Accordingly, the Secretary of State, in exercise of the powers conferred on him by section 15(1) and (2)(a) of the 2006 Act, and sections 71B(1)(a) and (b), 71D(1), 71E(2)(b) and 71E(4)[^f00005] of the 2000 Act and having regard to the definition of “prescribed” in section 71A(4) of the 2000 Act, makes the following Order:
 
-## 1. Citation, commencement and extent[^key-c7f5111d5b686796de486d79bc8abebd]
+## 1. Citation, commencement and extent[^c-c7f5111d5b686796de486d79bc8abebd]
 
 This Order may be cited as the Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2007 and shall come into force on 1st November 2007.
 
-## 2. Interpretation[^key-edede1c4ae6a00864ecf12340d00e2ba]
+## 2. Interpretation[^c-edede1c4ae6a00864ecf12340d00e2ba]
 
 In this Order—
 
@@ -71,7 +71,7 @@ In this Order—
 
 ### Extension of categories of permissible donors in relation to Northern Ireland recipients
 
-#### 3. Donations by Irish citizens[^key-34cb00c3c92f1dcf1961f8cdb94c4ce0]
+#### 3. Donations by Irish citizens[^c-34cb00c3c92f1dcf1961f8cdb94c4ce0]
 
 For the purposes of section 71B(1)(a) of the 2000 Act, the prescribed condition in relation to an Irish citizen is that at the time of making a donation to a Northern Ireland recipient he must be eligible to obtain one of the following documents—
 
@@ -79,7 +79,7 @@ For the purposes of section 71B(1)(a) of the 2000 Act, the prescribed condition 
 - (b) a certificate of nationality; or
 - (c) a certificate of naturalisation.
 
-#### 4. Donations by Irish bodies[^key-26151be155fbf9f931d5d280a88761bc]
+#### 4. Donations by Irish bodies[^c-26151be155fbf9f931d5d280a88761bc]
 
 (1) The description or category of bodies prescribed for the purposes of section 71B(1)(b) of the 2000 Act, are such of the bodies set out in paragraph (2) which keep an office in Ireland or Northern Ireland being an office from which the carrying on of one or more of its principal activities is directed.
 
@@ -101,23 +101,23 @@ For the purposes of section 71B(1)(a) of the 2000 Act, the prescribed condition 
 
 (3) In sub-paragraphs (2)(g) and (h) “permissible donor” means a person who falls within section 71B(1)(a) or (b) of the 2000 Act.
 
-#### 5. Northern Ireland reports[^key-db4368a93bf1123b81b0b4e25c69cfca]
+#### 5. Northern Ireland reports[^c-db4368a93bf1123b81b0b4e25c69cfca]
 
 Schedule 1 (which amends the 2000 Act in connection with the recording of donations made to Northern Ireland recipients) has effect.
 
-#### 6. Minor and consequential amendments[^key-94bb09209ce2d7fadb6fcd945775b16e]
+#### 6. Minor and consequential amendments[^c-94bb09209ce2d7fadb6fcd945775b16e]
 
 Schedule 2 (minor and consequential amendments) has effect.
 
 ## PART 2
 
-### Duty of the Commission in relation to Northern Ireland reports[^key-bd50990f48452624e44c6ac2f6fc0891]
+### Duty of the Commission in relation to Northern Ireland reports[^c-bd50990f48452624e44c6ac2f6fc0891]
 
-#### 7. Steps to be taken by the Commission for the purpose of verifying information given in Northern Ireland reports[^key-2c556025151f81b111fbba244dbcffc4]
+#### 7. Steps to be taken by the Commission for the purpose of verifying information given in Northern Ireland reports[^c-2c556025151f81b111fbba244dbcffc4]
 
-For the purposes of section 71D(1) of the 2000 Act the prescribed steps which the Commission must take for the purpose of verifying the information given in Northern Ireland reports [^key-9118365351a7028049c1c16f74d33e46]... are set out in articles 8 and 9.
+For the purposes of section 71D(1) of the 2000 Act the prescribed steps which the Commission must take for the purpose of verifying the information given in Northern Ireland reports [^c-9118365351a7028049c1c16f74d33e46]... are set out in articles 8 and 9.
 
-#### 8. Selection of Northern Ireland donations[^key-fa94d230f3a464f49e172d4d83e07cf3]
+#### 8. Selection of Northern Ireland donations[^c-fa94d230f3a464f49e172d4d83e07cf3]
 
 (1) In each reporting period, in relation to each Northern Ireland recipient who has provided a Northern Ireland report, the Commission must—
 
@@ -128,7 +128,7 @@ For the purposes of section 71D(1) of the 2000 Act the prescribed steps which th
 
 (3) In the case of a Northern Ireland recipient who has reported only one donation from an individual donor during any reporting period, the Commission must select that donation for verification.
 
-#### 9. Verification of donations to Northern Ireland recipients[^key-2d2854fc1f2f079bf3530361b4d57105]
+#### 9. Verification of donations to Northern Ireland recipients[^c-2d2854fc1f2f079bf3530361b4d57105]
 
 (1) The Commission must take the following steps in relation to each selected Northern Ireland donation.
 
@@ -139,9 +139,9 @@ For the purposes of section 71D(1) of the 2000 Act the prescribed steps which th
 
 (3) The steps taken by the Commission under paragraph (2) may include, but are not limited to, contacting a relevant body set out in article 11.
 
-#### 10. Disclosure of information relating to a donation which was required to be dealt with in accordance with section 56(2) of the 2000 Act[^key-d82cf9f6f1387099dfdc0759bf402c45]
+#### 10. Disclosure of information relating to a donation which was required to be dealt with in accordance with section 56(2) of the 2000 Act[^c-d82cf9f6f1387099dfdc0759bf402c45]
 
-(1)[^key-34285d142154ff5e3d6cf8d22c3400e5] If, after taking the steps prescribed by articles 8 and 9, the Commission believes on reasonable grounds that a donation to which this article applies and which is[^key-3c91421dabbc8b78cbe1d537c3fe42e5] reported in a Northern Ireland report fell to be dealt with under section 56(2) of the 2000 Act, and that it has not been dealt with in this manner, the Commission must—
+(1)[^c-34285d142154ff5e3d6cf8d22c3400e5] If, after taking the steps prescribed by articles 8 and 9, the Commission believes on reasonable grounds that a donation to which this article applies and which is[^c-3c91421dabbc8b78cbe1d537c3fe42e5] reported in a Northern Ireland report fell to be dealt with under section 56(2) of the 2000 Act, and that it has not been dealt with in this manner, the Commission must—
 
 - (a) write to the Northern Ireland recipient who provided the report informing him of the Commission’s intention to publish the information in accordance with paragraph (b); and
 - (b) publish the following information—
@@ -151,9 +151,9 @@ For the purposes of section 71D(1) of the 2000 Act the prescribed steps which th
   - (iv) whether the donation was received from an individual or from a body; and
   - (v) in the case of a donation received from a body, the type of body which made the donation with reference to article 4(2) or section 54(2) of the 2000 Act.
 
-(2)[^key-a30ade31ab49d337440608df890c747f] This article applies to a donation received by a Northern Ireland recipient which is a donation to which section 71E of the 2000 Act applies.
+(2)[^c-a30ade31ab49d337440608df890c747f] This article applies to a donation received by a Northern Ireland recipient which is a donation to which section 71E of the 2000 Act applies.
 
-#### 11. Disclosure of information by the Commission[^key-886038385b3ac2ef2ba6a587e9ec1dae]
+#### 11. Disclosure of information by the Commission[^c-886038385b3ac2ef2ba6a587e9ec1dae]
 
 The following bodies are prescribed for the purposes of section 71E(2)(b) of the 2000 Act—
 
@@ -163,12 +163,12 @@ The following bodies are prescribed for the purposes of section 71E(2)(b) of the
 - (d) the Corporate Officer of the House of Commons;
 - (e) the Corporate Officer of the House of Lords;
 - (f) the office of the Northern Ireland Certification Officer;
-- (g) Companies House (meaning that part of the Department for Business and Trade[^key-38e2a1daec808bb42be0b5b8c1fa89c0] known as the Companies House Executive Agency);
+- (g) Companies House (meaning that part of the Department for Business and Trade[^c-38e2a1daec808bb42be0b5b8c1fa89c0] known as the Companies House Executive Agency);
 - (h) the Department of Enterprise, Trade and Investment[^f00008];
 - (i) the Department of Foreign Affairs of Ireland;
 - (j) the Electoral Office for Northern Ireland;
-- (k) the Financial Conduct Authority[^key-230f7e9fda69b9699a81914e46eab4c0];
-- (ka)[^key-c8fab99f797b6f3357ee68e3cfc8dc6e] the Prudential Regulation Authority;
+- (k) the Financial Conduct Authority[^c-230f7e9fda69b9699a81914e46eab4c0];
+- (ka)[^c-c8fab99f797b6f3357ee68e3cfc8dc6e] the Prudential Regulation Authority;
 - (l) the Northern Ireland Assembly Commission;
 - (m) the office of any electoral registration officer;
 - (n) the Registrar of Companies of Ireland;
@@ -187,11 +187,11 @@ Northern Ireland Office
 
 Article 5
 
-**1.**[^key-33bc9a33dfba8c60813216ab1a3b434e] Schedule 6 to the 2000 Act is amended as follows.
+**1.**[^c-33bc9a33dfba8c60813216ab1a3b434e] Schedule 6 to the 2000 Act is amended as follows.
 
-**2.**[^key-72067a99a215708dd5a28701da91ba3a] In paragraph 2 (quarterly reports), in sub-paragraph (1), after “paragraph” insert “2A,”.
+**2.**[^c-72067a99a215708dd5a28701da91ba3a] In paragraph 2 (quarterly reports), in sub-paragraph (1), after “paragraph” insert “2A,”.
 
-**3.**[^key-e1b9dc4ee996e531e76053339c3bda75] After paragraph 2 insert—
+**3.**[^c-e1b9dc4ee996e531e76053339c3bda75] After paragraph 2 insert—
 
 > **2A.** In relation to each recordable donation that is an Irish donation a quarterly report must comply with the following requirements of this paragraph.
 >
@@ -269,7 +269,7 @@ Article 5
 > - (a) does not require the report to give any information in relation to the person who created the trust apart from his name;
 > - (b) does not require the report to give any information in relation to any other person by whom, or under whose will, property has been transferred into the trust before 1st November 2007.
 
-**4.**[^key-d88984ca6d77bcbb85185029ce888774] (1) In paragraph 3 (identity of donors: weekly reports), at the end add—
+**4.**[^c-d88984ca6d77bcbb85185029ce888774] (1) In paragraph 3 (identity of donors: weekly reports), at the end add—
 
 > (4) This paragraph does not apply in relation to a recordable donation that is an Irish donation (within the meaning given by paragraph 2A(2)).
 
@@ -286,9 +286,9 @@ Article 6
 
 ### Political Parties, Elections and Referendums Act [2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41)
 
-**1.**[^key-84f780be1426c039490d98bf0d2d47c6] The 2000 Act is amended as follows.
+**1.**[^c-84f780be1426c039490d98bf0d2d47c6] The 2000 Act is amended as follows.
 
-**2.**[^key-35ce23d8407eb41807ee670a4e87d010] (1) In the provisions set out in paragraph (2) after “paragraph 2” insert “or 2A”.
+**2.**[^c-35ce23d8407eb41807ee670a4e87d010] (1) In the provisions set out in paragraph (2) after “paragraph 2” insert “or 2A”.
 
 (2) The provisions are—
 
@@ -297,9 +297,9 @@ Article 6
 - (c) section 56(1); and
 - (d) paragraph 6(3)(a) and 6(4) of Schedule 7.
 
-**3.**[^key-7c9273c80d631e3d8afb80708d399c34] In section 69(2)(b) for “paragraph 2, 3, 6 or 7(a) or (c) of Schedule 6” substitute “paragraph 2, 2A, 3, 3A, 6 or 7(a) or (c) of Schedule 6”.
+**3.**[^c-7c9273c80d631e3d8afb80708d399c34] In section 69(2)(b) for “paragraph 2, 3, 6 or 7(a) or (c) of Schedule 6” substitute “paragraph 2, 2A, 3, 3A, 6 or 7(a) or (c) of Schedule 6”.
 
-**4.**[^key-d65666fa9634cf8aec5149895ce75ba7] In paragraph 10(4)(a) and 10(5) of Schedule 7, after “paragraphs 2” insert “, 2A”.
+**4.**[^c-d65666fa9634cf8aec5149895ce75ba7] In paragraph 10(4)(a) and 10(5) of Schedule 7, after “paragraphs 2” insert “, 2A”.
 
 EXPLANATORY NOTE
 
@@ -327,62 +327,62 @@ Section 71E of the 2000 Act, as inserted by section 14 of and Schedule 1 to the 
 
 [^f00005]: Footnote: Section 14 of, and Schedule 1 to, the 2006 Act modify the 2000 Act so as to insert sections 71D and E which have effect for the prescribed period.
 
-[^key-c7f5111d5b686796de486d79bc8abebd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-c7f5111d5b686796de486d79bc8abebd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-edede1c4ae6a00864ecf12340d00e2ba]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2007/2501/article/2) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-edede1c4ae6a00864ecf12340d00e2ba]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2007/2501/article/2) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
 [^f00006]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-34cb00c3c92f1dcf1961f8cdb94c4ce0]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2007/2501/article/3) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-34cb00c3c92f1dcf1961f8cdb94c4ce0]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2007/2501/article/3) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-26151be155fbf9f931d5d280a88761bc]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2007/2501/article/4) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-26151be155fbf9f931d5d280a88761bc]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2007/2501/article/4) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-db4368a93bf1123b81b0b4e25c69cfca]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2007/2501/article/5) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-db4368a93bf1123b81b0b4e25c69cfca]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2007/2501/article/5) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-94bb09209ce2d7fadb6fcd945775b16e]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/2501/article/6) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-94bb09209ce2d7fadb6fcd945775b16e]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2007/2501/article/6) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-bd50990f48452624e44c6ac2f6fc0891]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2007/2501/part/2) title substituted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2018/328/article/10/2)
+[^c-bd50990f48452624e44c6ac2f6fc0891]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2007/2501/part/2) title substituted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2018/328/article/10/2)
 
-[^key-2c556025151f81b111fbba244dbcffc4]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2007/2501/article/7) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-2c556025151f81b111fbba244dbcffc4]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2007/2501/article/7) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-9118365351a7028049c1c16f74d33e46]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2007/2501/article/7) omitted (8.3.2018) by virtue of [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2018/328/article/10/3)
+[^c-9118365351a7028049c1c16f74d33e46]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2007/2501/article/7) omitted (8.3.2018) by virtue of [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2018/328/article/10/3)
 
-[^key-fa94d230f3a464f49e172d4d83e07cf3]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2007/2501/article/8) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-fa94d230f3a464f49e172d4d83e07cf3]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2007/2501/article/8) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-2d2854fc1f2f079bf3530361b4d57105]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2007/2501/article/9) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-2d2854fc1f2f079bf3530361b4d57105]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2007/2501/article/9) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-d82cf9f6f1387099dfdc0759bf402c45]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2007/2501/article/10) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-d82cf9f6f1387099dfdc0759bf402c45]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2007/2501/article/10) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-34285d142154ff5e3d6cf8d22c3400e5]: Textual amendment: Art. 10 renumbered as art. 10(1) (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2018/328/article/10/4/a)
+[^c-34285d142154ff5e3d6cf8d22c3400e5]: Textual amendment: Art. 10 renumbered as art. 10(1) (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2018/328/article/10/4/a)
 
-[^key-3c91421dabbc8b78cbe1d537c3fe42e5]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2007/2501/article/10/1) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2018/328/article/10/4/b)
+[^c-3c91421dabbc8b78cbe1d537c3fe42e5]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2007/2501/article/10/1) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2018/328/article/10/4/b)
 
-[^key-a30ade31ab49d337440608df890c747f]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/uksi/2007/2501/article/10/2) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(4)(c)](https://www.legislation.gov.uk/uksi/2018/328/article/10/4/c)
+[^c-a30ade31ab49d337440608df890c747f]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/uksi/2007/2501/article/10/2) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [10(4)(c)](https://www.legislation.gov.uk/uksi/2018/328/article/10/4/c)
 
-[^key-886038385b3ac2ef2ba6a587e9ec1dae]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2007/2501/article/11) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-886038385b3ac2ef2ba6a587e9ec1dae]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2007/2501/article/11) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
 [^f00007]: Footnote: Paragraph 2A of Schedule 6 is inserted by article 5 of, and Schedule 1 to, this Order.
 
-[^key-38e2a1daec808bb42be0b5b8c1fa89c0]: Textual amendment: Words in [art. 11(g)](https://www.legislation.gov.uk/uksi/2007/2501/article/11/g) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 47](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/47) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-38e2a1daec808bb42be0b5b8c1fa89c0]: Textual amendment: Words in [art. 11(g)](https://www.legislation.gov.uk/uksi/2007/2501/article/11/g) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 47](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/47) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
 [^f00008]: Footnote: The Department was so named by the [Departments (Northern Ireland) Order (1999/283 (N.I.1)](https://www.legislation.gov.uk/nisi/1999/283).
 
-[^key-230f7e9fda69b9699a81914e46eab4c0]: Textual amendment: Words in [art. 11(k)](https://www.legislation.gov.uk/uksi/2007/2501/article/11/k) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 130(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/130/a)
+[^c-230f7e9fda69b9699a81914e46eab4c0]: Textual amendment: Words in [art. 11(k)](https://www.legislation.gov.uk/uksi/2007/2501/article/11/k) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 130(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/130/a)
 
-[^key-c8fab99f797b6f3357ee68e3cfc8dc6e]: Textual amendment: [Art. 11(ka)](https://www.legislation.gov.uk/uksi/2007/2501/article/11/ka) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 130(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/130/b)
+[^c-c8fab99f797b6f3357ee68e3cfc8dc6e]: Textual amendment: [Art. 11(ka)](https://www.legislation.gov.uk/uksi/2007/2501/article/11/ka) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 130(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/130/b)
 
-[^key-33bc9a33dfba8c60813216ab1a3b434e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2007/2501/schedule/1/paragraph/1) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-33bc9a33dfba8c60813216ab1a3b434e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2007/2501/schedule/1/paragraph/1) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-72067a99a215708dd5a28701da91ba3a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2007/2501/schedule/1/paragraph/2) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-72067a99a215708dd5a28701da91ba3a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2007/2501/schedule/1/paragraph/2) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-e1b9dc4ee996e531e76053339c3bda75]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2007/2501/schedule/1/paragraph/3) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-e1b9dc4ee996e531e76053339c3bda75]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2007/2501/schedule/1/paragraph/3) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-d88984ca6d77bcbb85185029ce888774]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2007/2501/schedule/1/paragraph/4) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-d88984ca6d77bcbb85185029ce888774]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2007/2501/schedule/1/paragraph/4) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-84f780be1426c039490d98bf0d2d47c6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2007/2501/schedule/2/paragraph/1) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-84f780be1426c039490d98bf0d2d47c6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2007/2501/schedule/2/paragraph/1) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-35ce23d8407eb41807ee670a4e87d010]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2007/2501/schedule/2/paragraph/2) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-35ce23d8407eb41807ee670a4e87d010]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2007/2501/schedule/2/paragraph/2) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-7c9273c80d631e3d8afb80708d399c34]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2007/2501/schedule/2/paragraph/3) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-7c9273c80d631e3d8afb80708d399c34]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2007/2501/schedule/2/paragraph/3) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
 
-[^key-d65666fa9634cf8aec5149895ce75ba7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2007/2501/schedule/2/paragraph/4) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)
+[^c-d65666fa9634cf8aec5149895ce75ba7]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2007/2501/schedule/2/paragraph/4) in force at 1.11.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2501/article/1)

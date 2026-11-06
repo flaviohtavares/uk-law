@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Additional Deputy Presiding Officer[^key-739d016ef5d2c5cd1e3f70b8f1d31ee0]
+## 4. Additional Deputy Presiding Officer[^c-739d016ef5d2c5cd1e3f70b8f1d31ee0]
 
 *Extent: E+W*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-739d016ef5d2c5cd1e3f70b8f1d31ee0]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2024/4/section/4) in force at 8.5.2026, see [s. 25(4)](https://www.legislation.gov.uk/asc/2024/4/section/25/4)
+[^c-739d016ef5d2c5cd1e3f70b8f1d31ee0]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2024/4/section/4) in force at 8.5.2026, see [s. 25(4)](https://www.legislation.gov.uk/asc/2024/4/section/25/4)

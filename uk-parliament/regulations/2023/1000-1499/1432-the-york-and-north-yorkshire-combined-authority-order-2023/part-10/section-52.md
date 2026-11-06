@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Continuity[^key-b6b567c8434e02978c21ea46572199b8]
+## 52. Continuity[^c-b6b567c8434e02978c21ea46572199b8]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6b567c8434e02978c21ea46572199b8]: Commencement: Art. 52 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-b6b567c8434e02978c21ea46572199b8]: Commencement: Art. 52 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

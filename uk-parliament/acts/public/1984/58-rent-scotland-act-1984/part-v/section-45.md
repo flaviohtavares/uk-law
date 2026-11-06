@@ -27,7 +27,7 @@ summary: ''
 - (a) the prescribed particulars with regard to the tenancy; and
 - (b) a specification of the dwelling-house.
 
-(3) A copy of an entry in the register certified under the hand of the rent officer or any person duly authorised by him shall be receivable in evidence, and shall be sufficient evidence of that entry, in any court or tribunal[^key-c1520894dd2d6294425cc7804e3979ab] and in any proceedings.
+(3) A copy of an entry in the register certified under the hand of the rent officer or any person duly authorised by him shall be receivable in evidence, and shall be sufficient evidence of that entry, in any court or tribunal[^c-c1520894dd2d6294425cc7804e3979ab] and in any proceedings.
 
 (4) A person requiring such a certified copy shall be entitled to obtain it on payment of the prescribed fee.
 
@@ -46,4 +46,4 @@ which relates to a dwelling-house which is situated in a new registration area s
 
 ## Annotations
 
-[^key-c1520894dd2d6294425cc7804e3979ab]: Textual amendment: Words in [s. 45(3)](https://www.legislation.gov.uk/ukpga/1984/58/section/45/3) inserted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 17](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/17); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-c1520894dd2d6294425cc7804e3979ab]: Textual amendment: Words in [s. 45(3)](https://www.legislation.gov.uk/ukpga/1984/58/section/45/3) inserted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 17](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/17); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)

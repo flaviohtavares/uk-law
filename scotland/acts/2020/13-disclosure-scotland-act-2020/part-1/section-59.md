@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Power to use fingerprints to check identity[^key-f49c0d882483be0215bd1dd1b8bd4623][^key-67cbe25f1e2c5d0ea8e67287486806b3]
+## 59. Power to use fingerprints to check identity[^c-f49c0d882483be0215bd1dd1b8bd4623][^c-67cbe25f1e2c5d0ea8e67287486806b3]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f49c0d882483be0215bd1dd1b8bd4623]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2020/13/section/59) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-f49c0d882483be0215bd1dd1b8bd4623]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2020/13/section/59) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-67cbe25f1e2c5d0ea8e67287486806b3]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2020/13/section/59) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-67cbe25f1e2c5d0ea8e67287486806b3]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2020/13/section/59) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

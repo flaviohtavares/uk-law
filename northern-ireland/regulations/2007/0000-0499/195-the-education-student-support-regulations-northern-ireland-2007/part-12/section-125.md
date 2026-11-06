@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 125. Eligible postgraduate students[^key-f77868c7137e95c1d0ba8f5a49abf36c]
+## 125. Eligible postgraduate students[^c-f77868c7137e95c1d0ba8f5a49abf36c]
 
 *Extent: N.I.*
 
@@ -85,15 +85,15 @@ A’s status as an eligible postgraduate student terminates immediately before t
 
 - (a) more than one designated postgraduate course;
 - (b) a designated postgraduate course and a designated course;
-- (bb)[^key-adae59a1dbacf8c68b5791159e177c3a] a designated postgraduate course and a designated distance learning course;
+- (bb)[^c-adae59a1dbacf8c68b5791159e177c3a] a designated postgraduate course and a designated distance learning course;
 - (c) a designated postgraduate course and a designated part-time course.
 
 ## Annotations
 
-[^key-f77868c7137e95c1d0ba8f5a49abf36c]: Commencement: [Reg. 125](https://www.legislation.gov.uk/nisr/2007/195/regulation/125) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-f77868c7137e95c1d0ba8f5a49abf36c]: Commencement: [Reg. 125](https://www.legislation.gov.uk/nisr/2007/195/regulation/125) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00064]: Footnote: [S.I. 1992/580](https://www.legislation.gov.uk/uksi/1992/580), amended by [S.S.I. 2002/423](https://www.legislation.gov.uk/ssi/2002/423), [S.S.I. 2003/401](https://www.legislation.gov.uk/ssi/2003/401) and [S.S.I. 2006/323](https://www.legislation.gov.uk/ssi/2006/323)
 
 [^f00065]: Footnote: [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
 
-[^key-adae59a1dbacf8c68b5791159e177c3a]: Textual amendment: [Reg. 125(15)(bb)](https://www.legislation.gov.uk/nisr/2007/195/regulation/125/15/bb) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [22](https://www.legislation.gov.uk/nisr/2007/363/regulation/22)
+[^c-adae59a1dbacf8c68b5791159e177c3a]: Textual amendment: [Reg. 125(15)(bb)](https://www.legislation.gov.uk/nisr/2007/195/regulation/125/15/bb) inserted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [22](https://www.legislation.gov.uk/nisr/2007/363/regulation/22)

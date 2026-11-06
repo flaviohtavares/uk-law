@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. The approved expense[^key-db258980f2f36255fd0c757565fe1e9a]
+## 76. The approved expense[^c-db258980f2f36255fd0c757565fe1e9a]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ the authority may, on receipt of a further estimate, substitute a higher amount 
 
 ## Annotations
 
-[^key-db258980f2f36255fd0c757565fe1e9a]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2006/1/section/76) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-db258980f2f36255fd0c757565fe1e9a]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2006/1/section/76) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

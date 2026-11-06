@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Excluded generating stations[^key-1ce59a4b8135cbba215d503c460b9c29]
+## 17. Excluded generating stations[^c-1ce59a4b8135cbba215d503c460b9c29]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ NIROCs are not to be issued in respect of any electricity generated outside Nort
 
 ## Annotations
 
-[^key-1ce59a4b8135cbba215d503c460b9c29]: Commencement: Art. 17 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-1ce59a4b8135cbba215d503c460b9c29]: Commencement: Art. 17 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

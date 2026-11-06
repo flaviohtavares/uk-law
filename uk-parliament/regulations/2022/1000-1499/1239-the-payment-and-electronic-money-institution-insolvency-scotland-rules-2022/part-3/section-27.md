@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Notice to officers[^key-9e2271a71db601c1e681343267604bc2]
+## 27. Notice to officers[^c-9e2271a71db601c1e681343267604bc2]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e2271a71db601c1e681343267604bc2]: Commencement: Rule 27 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-9e2271a71db601c1e681343267604bc2]: Commencement: Rule 27 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

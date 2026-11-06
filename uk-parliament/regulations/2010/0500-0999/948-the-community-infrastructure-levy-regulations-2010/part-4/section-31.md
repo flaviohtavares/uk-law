@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Assumption of liability[^key-fd55b4f732754daa90bcbdadace1e0d6]
+## 31. Assumption of liability[^c-fd55b4f732754daa90bcbdadace1e0d6]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd55b4f732754daa90bcbdadace1e0d6]: Commencement: Reg. 31 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-fd55b4f732754daa90bcbdadace1e0d6]: Commencement: Reg. 31 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

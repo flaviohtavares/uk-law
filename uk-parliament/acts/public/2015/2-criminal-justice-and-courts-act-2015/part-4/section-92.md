@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Periods of time for certain legal challenges[^key-2dc3a7636944a1216e685d50c02beaa5]
+## 92. Periods of time for certain legal challenges[^c-2dc3a7636944a1216e685d50c02beaa5]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dc3a7636944a1216e685d50c02beaa5]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2015/2/section/92) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 71](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/71)
+[^c-2dc3a7636944a1216e685d50c02beaa5]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2015/2/section/92) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 71](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/71)

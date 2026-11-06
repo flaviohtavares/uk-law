@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Power of members of staff to search pupils for prohibited items: England[^key-d339d9bdba39df0c1464149066d99e47]
+## 242. Power of members of staff to search pupils for prohibited items: England[^c-d339d9bdba39df0c1464149066d99e47]
 
 *Extent: E+W*
 
@@ -160,4 +160,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d339d9bdba39df0c1464149066d99e47]: Commencement: S. 242 in force at 1.9.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9)) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))
+[^c-d339d9bdba39df0c1464149066d99e47]: Commencement: S. 242 in force at 1.9.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9)) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))

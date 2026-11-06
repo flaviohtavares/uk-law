@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Withdrawal or variation of proof[^key-2e63daf497908633d0d4969637131b63]
+## 66. Withdrawal or variation of proof[^c-2e63daf497908633d0d4969637131b63]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.84 of the 1986 Rules.
 
 ## Annotations
 
-[^key-2e63daf497908633d0d4969637131b63]: Commencement: Rule 66 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-2e63daf497908633d0d4969637131b63]: Commencement: Rule 66 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

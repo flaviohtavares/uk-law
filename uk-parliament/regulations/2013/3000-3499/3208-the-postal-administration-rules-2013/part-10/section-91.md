@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Notification and advertisement of appointment of replacement postal administrator[^key-aaca62176fcd02587b46177d911fec60]
+## 91. Notification and advertisement of appointment of replacement postal administrator[^c-aaca62176fcd02587b46177d911fec60]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a replacement postal administrator is appointed, the same provisions apply
 
 ## Annotations
 
-[^key-aaca62176fcd02587b46177d911fec60]: Commencement: [Rule 91](https://www.legislation.gov.uk/uksi/2013/3208/rule/91) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-aaca62176fcd02587b46177d911fec60]: Commencement: [Rule 91](https://www.legislation.gov.uk/uksi/2013/3208/rule/91) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

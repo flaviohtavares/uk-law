@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59A. Court to which complaint for the enforcement of a maintenance decision to which Section 1 of Chapter IV of the Maintenance Regulation applies must be made[^key-4cbc54d7cf5116e2fce6da23ba7cc7c4]
+## 59A. Court to which complaint for the enforcement of a maintenance decision to which Section 1 of Chapter IV of the Maintenance Regulation applies must be made[^c-4cbc54d7cf5116e2fce6da23ba7cc7c4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cbc54d7cf5116e2fce6da23ba7cc7c4]: Textual amendment: [Rule 59A](https://www.legislation.gov.uk/uksi/1981/552/rule/59A) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [19](https://www.legislation.gov.uk/uksi/2014/879/article/19)
+[^c-4cbc54d7cf5116e2fce6da23ba7cc7c4]: Textual amendment: [Rule 59A](https://www.legislation.gov.uk/uksi/1981/552/rule/59A) omitted (22.4.2014) by virtue of [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [19](https://www.legislation.gov.uk/uksi/2014/879/article/19)

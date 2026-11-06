@@ -25,7 +25,7 @@ summary: ''
 - (a) as to the manner in which he must discharge any of his functions set out in these Rules; or
 - (b) requiring him to provide the GLRO with any information which the CRO has or is entitled to have in accordance with these rules,
 
-[^key-c52cd9b92ccb65c768ad14fc693dbd8a]....
+[^c-c52cd9b92ccb65c768ad14fc693dbd8a]....
 
 (2) It is the duty of each CRO to whom a direction is given under paragraph (1) to discharge his functions in accordance with that direction.
 
@@ -33,7 +33,7 @@ summary: ''
 
 (4) The GLRO may direct the CRO to—
 
-- (a) include alternative information in the appropriate form of postal voting statement, in place of the paragraphs beneath the heading “Instructions for voting by post[^key-cb5fdebf6541bf7425fd6197ab1a0e59]”;
+- (a) include alternative information in the appropriate form of postal voting statement, in place of the paragraphs beneath the heading “Instructions for voting by post[^c-cb5fdebf6541bf7425fd6197ab1a0e59]”;
 - (b) issue additional information to those entitled to vote by post; or
 - (c) exercise his discretion to include additional information in poll cards.
 
@@ -46,7 +46,7 @@ by no later than the date of the notice of election.
 
 (6) Where the CRO does not discharge the functions specified in regulation 5 (functions at combined polls) of the Combination of Polls Regulations, the GLRO may give a direction under paragraph (4) to the returning officer who does discharge those functions.
 
-(7) The alternative or additional information supplied under (5)(a)[^key-34b47f3f6d64eb046c49c5cdc9ba91c4] must—
+(7) The alternative or additional information supplied under (5)(a)[^c-34b47f3f6d64eb046c49c5cdc9ba91c4] must—
 
 - (a) comply with paragraph 4 of the Notices Schedule (as though that information were to be included in a notice);
 - (b) and must relate to—
@@ -63,8 +63,8 @@ mean the documents issued under the relevant rules in the Schedule pertaining to
 
 ## Annotations
 
-[^key-c52cd9b92ccb65c768ad14fc693dbd8a]: Textual amendment: Words in [rule 11(1)](https://www.legislation.gov.uk/uksi/2007/3541/rule/11/1) omitted (8.2.2016) by virtue of [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/3/2)
+[^c-c52cd9b92ccb65c768ad14fc693dbd8a]: Textual amendment: Words in [rule 11(1)](https://www.legislation.gov.uk/uksi/2007/3541/rule/11/1) omitted (8.2.2016) by virtue of [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/3/2)
 
-[^key-cb5fdebf6541bf7425fd6197ab1a0e59]: Textual amendment: Words in [rule 11(4)](https://www.legislation.gov.uk/uksi/2007/3541/rule/11/4) substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2016/24/rule/3/3)
+[^c-cb5fdebf6541bf7425fd6197ab1a0e59]: Textual amendment: Words in [rule 11(4)](https://www.legislation.gov.uk/uksi/2007/3541/rule/11/4) substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2016/24/rule/3/3)
 
-[^key-34b47f3f6d64eb046c49c5cdc9ba91c4]: Textual amendment: Word in [rule 11(7)](https://www.legislation.gov.uk/uksi/2007/3541/rule/11/7) substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2016/24/rule/3/4)
+[^c-34b47f3f6d64eb046c49c5cdc9ba91c4]: Textual amendment: Word in [rule 11(7)](https://www.legislation.gov.uk/uksi/2007/3541/rule/11/7) substituted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2016/24/rule/3/4)

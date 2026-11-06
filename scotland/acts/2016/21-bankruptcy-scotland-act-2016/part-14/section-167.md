@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 167. Statements in and advice regarding trust deed[^key-8d53f77682ea0c427d7b97c30065fdd9]
+## 167. Statements in and advice regarding trust deed[^c-8d53f77682ea0c427d7b97c30065fdd9]
 
 *Extent: S*
 
@@ -42,13 +42,13 @@ summary: ''
   - (v) in the debtor's being required to make contributions from income for the benefit of creditors,
   - (vi) in damage to the debtor's business interests and employment prospects, and
   - (vii) in the fact of the debtor's having granted a trust deed becoming public information,
-- (b)[^key-bdfbf57d8d86e8819230aa3c4a85c5ef] the trustee must provide the debtor with—
+- (b)[^c-bdfbf57d8d86e8819230aa3c4a85c5ef] the trustee must provide the debtor with—
   - (i) a copy of a debt advice and information package, and
   - (ii) a copy of a trust deed information document,
 - (ba) the trustee must give the debtor adequate time to consider the advice and material provided under paragraphs (a) and (b),
 - (c) the trustee and the debtor must both sign a statement to the effect that the trustee has fulfilled the duties referred to in this subsection.
 
-(4)[^key-2e137240d5e489684800fdbd0c432625] For the purposes of subsection (3) a “**trust deed information document**” means a document containing such information (including information regarding the consequences of granting a trust deed), and in such form, as the Scottish Ministers may determine.
+(4)[^c-2e137240d5e489684800fdbd0c432625] For the purposes of subsection (3) a “**trust deed information document**” means a document containing such information (including information regarding the consequences of granting a trust deed), and in such form, as the Scottish Ministers may determine.
 
 (5) The trustee must have regard to any guidance issued by the Scottish Ministers about giving debtors adequate time to consider the advice and material provided under paragraphs (a) and (b) of subsection (3).
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8d53f77682ea0c427d7b97c30065fdd9]: Commencement: S. 167 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-8d53f77682ea0c427d7b97c30065fdd9]: Commencement: S. 167 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-bdfbf57d8d86e8819230aa3c4a85c5ef]: Textual amendment: S. 167(3)(b)(ba) substituted for s. 167(3)(b) (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 10(2)(a)](https://www.legislation.gov.uk/asp/2024/9/section/10/2/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3), [4](https://www.legislation.gov.uk/ssi/2024/373/regulation/4))
+[^c-bdfbf57d8d86e8819230aa3c4a85c5ef]: Textual amendment: S. 167(3)(b)(ba) substituted for s. 167(3)(b) (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 10(2)(a)](https://www.legislation.gov.uk/asp/2024/9/section/10/2/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3), [4](https://www.legislation.gov.uk/ssi/2024/373/regulation/4))
 
-[^key-2e137240d5e489684800fdbd0c432625]: Textual amendment: S. 167(4)-(6) inserted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 10(2)(b)](https://www.legislation.gov.uk/asp/2024/9/section/10/2/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3), [4](https://www.legislation.gov.uk/ssi/2024/373/regulation/4))
+[^c-2e137240d5e489684800fdbd0c432625]: Textual amendment: S. 167(4)-(6) inserted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 10(2)(b)](https://www.legislation.gov.uk/asp/2024/9/section/10/2/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3), [4](https://www.legislation.gov.uk/ssi/2024/373/regulation/4))

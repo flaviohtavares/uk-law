@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1027A. Distributions following reduction of share capital[^key-a4a6f7c33f3e94506209d509c50404a5]
+## 1027A. Distributions following reduction of share capital[^c-a4a6f7c33f3e94506209d509c50404a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4a6f7c33f3e94506209d509c50404a5]: Textual amendment: S. 1027A inserted (with effect in accordance with Sch. 3 paras. 5, 7 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/3/paragraph/1/3)
+[^c-a4a6f7c33f3e94506209d509c50404a5]: Textual amendment: S. 1027A inserted (with effect in accordance with Sch. 3 paras. 5, 7 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 3 para. 1(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/3/paragraph/1/3)

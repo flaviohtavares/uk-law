@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Removal of motor vehicles parked contrary to parking prohibitions[^key-e0957ee7f4cbfaf97fc3d4373ba35289]
+## 61. Removal of motor vehicles parked contrary to parking prohibitions[^c-e0957ee7f4cbfaf97fc3d4373ba35289]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0957ee7f4cbfaf97fc3d4373ba35289]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2019/17/section/61) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-e0957ee7f4cbfaf97fc3d4373ba35289]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2019/17/section/61) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

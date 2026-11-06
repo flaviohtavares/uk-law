@@ -40,95 +40,95 @@ authorising the placing on the market of products containing, consisting of, or 
 
 (Text with EEA relevance) (revoked)
 
-[^key-b0c9954f854a9966ef1cc0dcb93e379c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0c9954f854a9966ef1cc0dcb93e379c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Genetically modified organism and unique identifier[^key-b0c9954f854a9966ef1cc0dcb93e379c]
+## Article 1. Genetically modified organism and unique identifier[^c-b0c9954f854a9966ef1cc0dcb93e379c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Authorisation[^key-b0c9954f854a9966ef1cc0dcb93e379c]
+## Article 2. Authorisation[^c-b0c9954f854a9966ef1cc0dcb93e379c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-b0c9954f854a9966ef1cc0dcb93e379c]
+## Article 3. Labelling[^c-b0c9954f854a9966ef1cc0dcb93e379c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Monitoring for environmental effects[^key-b0c9954f854a9966ef1cc0dcb93e379c]
+## Article 4. Monitoring for environmental effects[^c-b0c9954f854a9966ef1cc0dcb93e379c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Register[^key-b0c9954f854a9966ef1cc0dcb93e379c]
+## Article 5. Register[^c-b0c9954f854a9966ef1cc0dcb93e379c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Authorisation holder[^key-b0c9954f854a9966ef1cc0dcb93e379c]
+## Article 6. Authorisation holder[^c-b0c9954f854a9966ef1cc0dcb93e379c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Validity[^key-b0c9954f854a9966ef1cc0dcb93e379c]
+## Article 7. Validity[^c-b0c9954f854a9966ef1cc0dcb93e379c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Addressee[^key-b0c9954f854a9966ef1cc0dcb93e379c]
+## Article 8. Addressee[^c-b0c9954f854a9966ef1cc0dcb93e379c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-b0c9954f854a9966ef1cc0dcb93e379c]
+## ANNEX[^c-b0c9954f854a9966ef1cc0dcb93e379c]
 
-[^key-b0c9954f854a9966ef1cc0dcb93e379c](a)
+[^c-b0c9954f854a9966ef1cc0dcb93e379c](a)
 
 **Authorisation holder:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0c9954f854a9966ef1cc0dcb93e379c](b)
+[^c-b0c9954f854a9966ef1cc0dcb93e379c](b)
 
 **Designation and specification of the products:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0c9954f854a9966ef1cc0dcb93e379c](c)
+[^c-b0c9954f854a9966ef1cc0dcb93e379c](c)
 
 **Labelling:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0c9954f854a9966ef1cc0dcb93e379c](d)
+[^c-b0c9954f854a9966ef1cc0dcb93e379c](d)
 
 **Method for detection:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0c9954f854a9966ef1cc0dcb93e379c](e)
+[^c-b0c9954f854a9966ef1cc0dcb93e379c](e)
 
 **Unique identifier:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0c9954f854a9966ef1cc0dcb93e379c](f)
+[^c-b0c9954f854a9966ef1cc0dcb93e379c](f)
 
 **Information required under Annex II to the Cartagena Protocol on Biosafety to the Convention on Biological Diversity:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0c9954f854a9966ef1cc0dcb93e379c](g)
+[^c-b0c9954f854a9966ef1cc0dcb93e379c](g)
 
 **Conditions or restrictions on the placing on the market, use or handling of the products:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0c9954f854a9966ef1cc0dcb93e379c](h)
+[^c-b0c9954f854a9966ef1cc0dcb93e379c](h)
 
 **Monitoring plan for environmental effects:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0c9954f854a9966ef1cc0dcb93e379c](i)
+[^c-b0c9954f854a9966ef1cc0dcb93e379c](i)
 
 **Post- market monitoring requirements for the use of the food for human consumption:**
 
@@ -136,4 +136,4 @@ authorising the placing on the market of products containing, consisting of, or 
 
 ## Annotations
 
-[^key-b0c9954f854a9966ef1cc0dcb93e379c]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 47](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/47) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-b0c9954f854a9966ef1cc0dcb93e379c]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 47](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/47) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

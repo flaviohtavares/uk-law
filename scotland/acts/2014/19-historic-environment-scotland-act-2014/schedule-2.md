@@ -24,9 +24,9 @@ summary: ''
 
 ### PART 1 — SCHEDULE OF MONUMENTS
 
-**1.**[^key-f0fd4a45f536c6ef58164a926930571d][^key-9aab757260374f9f359e4505e9f0cfa0][^key-962b7d62ee981f65f057d7378dcb5f68] The 1979 Act is amended as follows.
+**1.**[^c-f0fd4a45f536c6ef58164a926930571d][^c-9aab757260374f9f359e4505e9f0cfa0][^c-962b7d62ee981f65f057d7378dcb5f68] The 1979 Act is amended as follows.
 
-**2.**[^key-ef4cdc654eb1945315f70a3c3ab820e3][^key-23e147349f84dd4e4bb1cb16ac399b91][^key-85aae07cbd5cd3145b43f64b6ce0172d] In section 1 (Schedule of monuments)—
+**2.**[^c-ef4cdc654eb1945315f70a3c3ab820e3][^c-23e147349f84dd4e4bb1cb16ac399b91][^c-85aae07cbd5cd3145b43f64b6ce0172d] In section 1 (Schedule of monuments)—
 
 - (a) in subsection (1)—
   - (i) for “The Secretary of State” substitute “ Historic Environment Scotland ”,
@@ -50,7 +50,7 @@ summary: ''
 - (f) subsections (7) and (8) are repealed,
 - (g) in subsection (10)(b) for “the Secretary of State” substitute “ Historic Environment Scotland ”.
 
-**3.**[^key-9116082b4983b5f19fe93a5cdd5276fd][^key-8c5cea347a4bcc822c3124d60238428e][^key-d8790f6c5036c47b117b49f35e02d082] After section 1A (Commission's functions as to informing and publishing) insert—
+**3.**[^c-9116082b4983b5f19fe93a5cdd5276fd][^c-8c5cea347a4bcc822c3124d60238428e][^c-d8790f6c5036c47b117b49f35e02d082] After section 1A (Commission's functions as to informing and publishing) insert—
 
 > **1B. Publication of the Schedule**
 >
@@ -71,9 +71,9 @@ summary: ''
 
 ### PART 2 — SCHEDULED MONUMENT CONSENT
 
-**4.**[^key-82fc8aa0bf0d3ee2e4cbee5c44c945e9][^key-341eab06c61b49c265c6833b5abad7fb] The 1979 Act is further amended as follows.
+**4.**[^c-82fc8aa0bf0d3ee2e4cbee5c44c945e9][^c-341eab06c61b49c265c6833b5abad7fb] The 1979 Act is further amended as follows.
 
-**5.**[^key-33cd7fc18eb3fb23194b9ff5fdde1e60][^key-6b5b6922a45b6b78b1f500685d49dbf8] In section 2 (control of works affecting scheduled monuments)—
+**5.**[^c-33cd7fc18eb3fb23194b9ff5fdde1e60][^c-6b5b6922a45b6b78b1f500685d49dbf8] In section 2 (control of works affecting scheduled monuments)—
 
 - (a) in subsection (3)(a) after “State” insert “ or Historic Environment Scotland ”,
 - (b) in subsection (3A) for paragraph (b) substitute—
@@ -89,7 +89,7 @@ summary: ''
   ,
 - (e) in subsection (9) for “the Secretary of State” substitute “ Historic Environment Scotland ”.
 
-**6.**[^key-b692c17f3f39c6eec66d8db3f1017eb3][^key-4c1fa671e477ed2068ed04db153016a6] After section 3 (grant of scheduled monument consent by order of the Scottish Ministers) insert—
+**6.**[^c-b692c17f3f39c6eec66d8db3f1017eb3][^c-4c1fa671e477ed2068ed04db153016a6] After section 3 (grant of scheduled monument consent by order of the Scottish Ministers) insert—
 
 > **3A. Application for variation or discharge of conditions**
 >
@@ -104,7 +104,7 @@ summary: ''
 
 .
 
-**7.**[^key-28a5698470b6d8f762696082f7e7e667][^key-33a92d301f3441f95004bb17c76668e7] In section 4 (duration, modification and revocation of scheduled monument consent)—
+**7.**[^c-28a5698470b6d8f762696082f7e7e667][^c-33a92d301f3441f95004bb17c76668e7] In section 4 (duration, modification and revocation of scheduled monument consent)—
 
 - (a) for subsections (3) and (4) substitute—
 
@@ -115,7 +115,7 @@ summary: ''
   ,
 - (b) in subsection (5) for “directions” substitute “ orders ”.
 
-**8.**[^key-478f771472b2db31ce94c04105e8028c][^key-cf51d0e36e35f45616544d4defbfb5c0] After that section insert—
+**8.**[^c-478f771472b2db31ce94c04105e8028c][^c-cf51d0e36e35f45616544d4defbfb5c0] After that section insert—
 
 > **4A. Modification and revocation of scheduled monument consent by Scottish Ministers**
 >
@@ -139,13 +139,13 @@ summary: ''
 
 .
 
-**9.**[^key-30c721b4835dec868d96b34251aae1ee][^key-0858f6d91b298c98bb4e7867ea040e2b] In section 5(1) (execution of works for preservation of a scheduled monument in cases of urgency)—
+**9.**[^c-30c721b4835dec868d96b34251aae1ee][^c-0858f6d91b298c98bb4e7867ea040e2b] In section 5(1) (execution of works for preservation of a scheduled monument in cases of urgency)—
 
 - (a) for “the Secretary of State” substitute “ Historic Environment Scotland ”,
 - (b) for “he” substitute “ it ”,
 - (c) for “his” substitute “ its ”.
 
-**10.**[^key-30991f1af1d0a1a44d01e66eb4691da3][^key-6856005e88020ad3bcb12adf1f8f6afd] In section 6 (powers of entry for inspection of scheduled monuments)—
+**10.**[^c-30991f1af1d0a1a44d01e66eb4691da3][^c-6856005e88020ad3bcb12adf1f8f6afd] In section 6 (powers of entry for inspection of scheduled monuments)—
 
 - (a) in subsection (1) for “the Secretary of State” substitute “ Historic Environment Scotland ”,
 - (b) in subsection (2) after “State” in both places insert “ or Historic Environment Scotland ”,
@@ -154,13 +154,13 @@ summary: ''
 - (e) in subsection (4) after “State” insert “ or Historic Environment Scotland ”,
 - (f) in subsection (5) after “State” in both places insert “ or Historic Environment Scotland ”.
 
-**11.**[^key-e8f70fb64cc3ca671b91357326aa06e0][^key-de1427e4a1d346f7b1a8af649117c5e8] In section 7 (compensation for refusal of scheduled monument consent)—
+**11.**[^c-e8f70fb64cc3ca671b91357326aa06e0][^c-de1427e4a1d346f7b1a8af649117c5e8] In section 7 (compensation for refusal of scheduled monument consent)—
 
 - (a) in subsection (1) for “the Secretary of State” substitute “ Historic Environment Scotland or, where the Scottish Ministers refused the scheduled monument consent or granted it subject to conditions, Ministers ”,
 - (b) in subsection (3) for “the Secretary of State's” substitute “Historic Environment Scotland's or, as the case may be, the Scottish Ministers'”,
 - (c) in subsection (6)(b) for “the Secretary of State” substitute “ Historic Environment Scotland or, as the case may be, the Scottish Ministers ”.
 
-**12.**[^key-39b6b79e91ec8fcac5d0ee1bf945c26a][^key-9ef9040ae33915f11c2383b85e5e7867] In section 8 (recovery of compensation under section 7 on subsequent grant of consent)—
+**12.**[^c-39b6b79e91ec8fcac5d0ee1bf945c26a][^c-9ef9040ae33915f11c2383b85e5e7867] In section 8 (recovery of compensation under section 7 on subsequent grant of consent)—
 
 - (a) in subsection (1) after “State” in both places insert “ or Historic Environment Scotland ”,
 - (b) in subsection (2A)(b) after “State” insert “ or Historic Environment Scotland ”,
@@ -169,9 +169,9 @@ summary: ''
   - (ii) after “his” in both places insert “ or its ”,
 - (d) in subsection (4) after “State” insert “ or Historic Environment Scotland ”.
 
-**13.**[^key-80fa43c07d9362de1bf848632bc87be4][^key-0a924ab56d1f2a95e2eb0de06dee0840] In section 9(1) (compensation where works cease to be authorised) after “State” insert “ or Historic Environment Scotland ”.
+**13.**[^c-80fa43c07d9362de1bf848632bc87be4][^c-0a924ab56d1f2a95e2eb0de06dee0840] In section 9(1) (compensation where works cease to be authorised) after “State” insert “ or Historic Environment Scotland ”.
 
-**14.**[^key-eadd5278e0d9c660f5ac5bd39c928dab][^key-171dfc965b8d6d0e6a969a5f81b0a0bb] (1) Part 1 of schedule 1 (applications for scheduled monument consent) is amended as follows.
+**14.**[^c-eadd5278e0d9c660f5ac5bd39c928dab][^c-171dfc965b8d6d0e6a969a5f81b0a0bb] (1) Part 1 of schedule 1 (applications for scheduled monument consent) is amended as follows.
 
 (2) In paragraph 1(1) for “the Secretary of State” substitute “ Historic Environment Scotland ”.
 
@@ -231,7 +231,7 @@ summary: ''
 
 (7) Paragraph 4 is repealed.
 
-**15.**[^key-0a41e6aa4a3e3ee7218bf377a1f14333][^key-4e4cbb18f912d1c726bca68351ddcac7] In Part 2 of schedule 1 (modification and revocation of scheduled monument consent)—
+**15.**[^c-0a41e6aa4a3e3ee7218bf377a1f14333][^c-4e4cbb18f912d1c726bca68351ddcac7] In Part 2 of schedule 1 (modification and revocation of scheduled monument consent)—
 
 - (a) paragraphs 5 to 9 are repealed,
 - (b) after paragraph 9 insert—
@@ -289,9 +289,9 @@ summary: ''
 
 ### PART 3 — SCHEDULED MONUMENT ENFORCEMENT NOTICES
 
-**16.**[^key-c8989e8bc7db334d14e2aeb090a7de4e][^key-bc9d731ba0a8027c7430d1e40ec19793] The 1979 Act is further amended as follows.
+**16.**[^c-c8989e8bc7db334d14e2aeb090a7de4e][^c-bc9d731ba0a8027c7430d1e40ec19793] The 1979 Act is further amended as follows.
 
-**17.**[^key-fa9140cbd5b4666c102be503d78af5ae][^key-50bff564f116bd9edd340f1517c4e17c] In section 9A (power to issue scheduled monument enforcement notice)—
+**17.**[^c-fa9140cbd5b4666c102be503d78af5ae][^c-50bff564f116bd9edd340f1517c4e17c] In section 9A (power to issue scheduled monument enforcement notice)—
 
 - (a) in subsection (1)—
   - (i) for “the Scottish Ministers” substitute “ Historic Environment Scotland ”,
@@ -303,7 +303,7 @@ summary: ''
   - (iii) for “them” substitute “ it ”,
 - (d) in subsection (4) for “the Scottish Ministers are” substitute “ Historic Environment Scotland is ”.
 
-**18.**[^key-60f04f793e319ce26e94fdd815574f6c][^key-a5c738d0fdccb094b01cf494279f03ff] In section 9B (scheduled monument enforcement notices: further provision)—
+**18.**[^c-60f04f793e319ce26e94fdd815574f6c][^c-a5c738d0fdccb094b01cf494279f03ff] In section 9B (scheduled monument enforcement notices: further provision)—
 
 - (a) in subsection (4)(b) for “the Scottish Ministers” substitute “ Historic Environment Scotland ”,
 - (b) in subsection (5)—
@@ -312,7 +312,7 @@ summary: ''
 - (c) in subsection (6) for “The Scottish Ministers” substitute “ Historic Environment Scotland ”,
 - (d) in subsection (7) for “The Scottish Ministers” substitute “ Historic Environment Scotland ”.
 
-**19.**[^key-b53ae70538e1d1f1e1e6cac02be7f668][^key-ebf665fabd6f6aa79470e6cfd88b4c7b] In section 9C (appeal against scheduled monument enforcement notice)—
+**19.**[^c-b53ae70538e1d1f1e1e6cac02be7f668][^c-ebf665fabd6f6aa79470e6cfd88b4c7b] In section 9C (appeal against scheduled monument enforcement notice)—
 
 - (a) in subsection (1) for “by summary application appeal to the sheriff” substitute “ appeal to the Scottish Ministers ”,
 - (b) in subsection (2)—
@@ -354,7 +354,7 @@ summary: ''
   ,
 - (e) subsections (4) and (5) are repealed.
 
-**20.**[^key-5ecbd4f2c7f957adc6783b8a5550f7e2][^key-3f0685dfb5cc5cd0f1fc4708c04dc29c] After that section insert—
+**20.**[^c-5ecbd4f2c7f957adc6783b8a5550f7e2][^c-3f0685dfb5cc5cd0f1fc4708c04dc29c] After that section insert—
 
 > **9CA. Determination of appeals under section 9C**
 >
@@ -398,7 +398,7 @@ summary: ''
 
 .
 
-**21.**[^key-5b8f747cb79cd6431877099c810cd2d3][^key-929eaec44978deaad8d6d976a19db937] In section 9D (execution of works required by scheduled monument enforcement notice)—
+**21.**[^c-5b8f747cb79cd6431877099c810cd2d3][^c-929eaec44978deaad8d6d976a19db937] In section 9D (execution of works required by scheduled monument enforcement notice)—
 
 - (a) in subsection (1)—
   - (i) for “the Scottish Ministers” substitute “ Historic Environment Scotland ”,
@@ -418,7 +418,7 @@ summary: ''
   - (i) for “the Scottish Ministers have” substitute “ Historic Environment Scotland has ”,
   - (ii) for “they” substitute “ it ”.
 
-**22.**[^key-f051bcb3fd10c4c9b6469257951c5bb3][^key-1c14e8b763d46c59c38f3e7bbb7abe54] After section 9F (effect of scheduled monument consent on scheduled monument enforcement notice) insert—
+**22.**[^c-f051bcb3fd10c4c9b6469257951c5bb3][^c-1c14e8b763d46c59c38f3e7bbb7abe54] After section 9F (effect of scheduled monument consent on scheduled monument enforcement notice) insert—
 
 > **9FA. Enforcement by the Scottish Ministers**
 >
@@ -434,9 +434,9 @@ summary: ''
 
 ### PART 4 — SCHEDULED MONUMENTS: STOP NOTICES
 
-**23.**[^key-5d57289a3e9947f93617aad86af8a10e][^key-4ca7ef2e8df230f82b8b1b5d73a9360a] The 1979 Act is further amended as follows.
+**23.**[^c-5d57289a3e9947f93617aad86af8a10e][^c-4ca7ef2e8df230f82b8b1b5d73a9360a] The 1979 Act is further amended as follows.
 
-**24.**[^key-568e523aa10216fdf81cfc5db2b951d4][^key-27f2510ac74f5408fba3bb844ca25ff5] In section 9G (stop notices)—
+**24.**[^c-568e523aa10216fdf81cfc5db2b951d4][^c-27f2510ac74f5408fba3bb844ca25ff5] In section 9G (stop notices)—
 
 - (a) in subsection (1) for “the Scottish Ministers consider” substitute “ Historic Environment Scotland considers ”,
 - (b) in subsection (2)—
@@ -451,12 +451,12 @@ summary: ''
   - (i) for “The Scottish Ministers” substitute “ Historic Environment Scotland ”,
   - (ii) for “their” substitute “ its ”.
 
-**25.**[^key-2c8866cd920069f3d2402272b65020f5][^key-eb96af4fd55d38fcaad5a478c60a7bf6] In section 9H (stop notices: supplementary provisions)—
+**25.**[^c-2c8866cd920069f3d2402272b65020f5][^c-eb96af4fd55d38fcaad5a478c60a7bf6] In section 9H (stop notices: supplementary provisions)—
 
 - (a) in subsection (3) for “the Scottish Ministers” substitute “ Historic Environment Scotland ”,
 - (b) in subsection (4) for “the Scottish Ministers” substitute “ Historic Environment Scotland ”.
 
-**26.**[^key-0365731e923b9696abb2802348a353c5][^key-f4c65abb73c7e7513b1738a132e2ba92] After that section insert—
+**26.**[^c-0365731e923b9696abb2802348a353c5][^c-f4c65abb73c7e7513b1738a132e2ba92] After that section insert—
 
 > **9HA. Power of the Scottish Ministers to serve stop notice**
 >
@@ -470,7 +470,7 @@ summary: ''
 
 .
 
-**27.**[^key-44207ecb6713ece01211d1a6f022cbb6][^key-07258d8c7125d358d792f7162735b23e] In section 9I (compensation for loss due to stop notice)—
+**27.**[^c-44207ecb6713ece01211d1a6f022cbb6][^c-07258d8c7125d358d792f7162735b23e] In section 9I (compensation for loss due to stop notice)—
 
 - (a) in subsection (1) for “the Scottish Ministers” substitute “ Historic Environment Scotland ”,
 - (b) in subsection (3)(c)—
@@ -478,7 +478,7 @@ summary: ''
   - (ii) for “them” substitute “ it ”,
 - (c) in subsection (5)(b) for “the Scottish Ministers” substitute “ Historic Environment Scotland ”.
 
-**28.**[^key-3a112e78265e85507e13d6d06933f970][^key-fccbb5848b37887af7415aa998ec49cf] In section 9K (temporary stop notices)—
+**28.**[^c-3a112e78265e85507e13d6d06933f970][^c-fccbb5848b37887af7415aa998ec49cf] In section 9K (temporary stop notices)—
 
 - (a) in subsection (1)—
   - (i) for “the Scottish Ministers” substitute “ Historic Environment Scotland ”,
@@ -488,9 +488,9 @@ summary: ''
 - (d) in subsection (4) for “The Scottish Ministers” substitute “ Historic Environment Scotland ”,
 - (e) in subsection (8) for “the Scottish Ministers” substitute “ Historic Environment Scotland ”.
 
-**29.**[^key-4f6b7c08b29a2cfe1eea235c1505e71f][^key-9d2915e791b504ae9751588e18345247] In section 9L(1) (temporary stop notices: restrictions) for “the Scottish Ministers have” substitute “ Historic Environment Scotland has ”.
+**29.**[^c-4f6b7c08b29a2cfe1eea235c1505e71f][^c-9d2915e791b504ae9751588e18345247] In section 9L(1) (temporary stop notices: restrictions) for “the Scottish Ministers have” substitute “ Historic Environment Scotland has ”.
 
-**30.**[^key-cd59c474a1a3686d22472865b8607b68][^key-6584ad251edfba270a669ce957f7cb77] In section 9N (temporary stop notices: compensation)—
+**30.**[^c-cd59c474a1a3686d22472865b8607b68][^c-6584ad251edfba270a669ce957f7cb77] In section 9N (temporary stop notices: compensation)—
 
 - (a) in subsection (1) for “the Scottish Ministers” substitute “ Historic Environment Scotland ”,
 - (b) in subsection (2)(b) for “the Scottish Ministers withdraw” substitute “ Historic Environment Scotland withdraws ”.
@@ -499,11 +499,11 @@ summary: ''
 
 #### CHAPTER 1 — APPEALS FROM HISTORIC ENVIRONMENT SCOTLAND
 
-**31.**[^key-c7b8072301ff12ba870d2ad70041df45][^key-d257d3aa0fe7a1b0fdbb7772f2bfba9a] The 1979 Act is further amended as follows.
+**31.**[^c-c7b8072301ff12ba870d2ad70041df45][^c-d257d3aa0fe7a1b0fdbb7772f2bfba9a] The 1979 Act is further amended as follows.
 
 ##### Appeal against inclusion or amendment of entry in Schedule of monuments
 
-**32.**[^key-a7a912784248b3adbcfc45fb75be9724][^key-faf441c2cb30f6b7960d149e2e73b1f5] After section 1B (publication of the Schedule) (inserted by paragraph 3) insert—
+**32.**[^c-a7a912784248b3adbcfc45fb75be9724][^c-faf441c2cb30f6b7960d149e2e73b1f5] After section 1B (publication of the Schedule) (inserted by paragraph 3) insert—
 
 > **1C. Appeal against inclusion etc. in Schedule of monuments**
 >
@@ -554,7 +554,7 @@ summary: ''
 
 ##### Appeal in relation to scheduled monument consent
 
-**33.**[^key-93949d165143d481b48f34d7c557f37e][^key-fa8c100999b39b8439fb29e34c33789e] After section 4A (inserted by paragraph 8) insert—
+**33.**[^c-93949d165143d481b48f34d7c557f37e][^c-fa8c100999b39b8439fb29e34c33789e] After section 4A (inserted by paragraph 8) insert—
 
 > **4B. Appeal in relation to scheduled monument consent**
 >
@@ -627,7 +627,7 @@ summary: ''
 
 ##### Determination of appeals by appointed person
 
-**34.**[^key-aa835a25aa4fa599a6fc14f166a3bbb9][^key-61cab8c2cca57d1d641f474afa4741dd] After schedule 1 insert—
+**34.**[^c-aa835a25aa4fa599a6fc14f166a3bbb9][^c-61cab8c2cca57d1d641f474afa4741dd] After schedule 1 insert—
 
 > **SCHEDULE 1A — DETERMINATION OF CERTAIN APPEALS BY PERSON APPOINTED BY THE SCOTTISH MINISTERS**
 >
@@ -729,7 +729,7 @@ summary: ''
 
 ##### Referral of certain applications
 
-**35.**[^key-b35f83331a59d78a00261688a0555d51][^key-b73b86ca14f12e16b041c1ceaf48245c] After section 3A (inserted by paragraph 6) insert—
+**35.**[^c-b35f83331a59d78a00261688a0555d51][^c-b73b86ca14f12e16b041c1ceaf48245c] After section 3A (inserted by paragraph 6) insert—
 
 > **3B. Referral of certain applications to the Scottish Ministers**
 >
@@ -768,9 +768,9 @@ summary: ''
 
 ### PART 6 — FUNCTIONS IN RELATION TO GARDENS, LANDSCAPES AND BATTLEFIELDS
 
-**36.**[^key-22deb8b10526f063f4f23c7f5dc0d70c][^key-4eb3e361ff1e4c13a39509f01223113a] Part 1A of the 1979 Act is amended as follows.
+**36.**[^c-22deb8b10526f063f4f23c7f5dc0d70c][^c-4eb3e361ff1e4c13a39509f01223113a] Part 1A of the 1979 Act is amended as follows.
 
-**37.**[^key-e53424d3d05835b51b6bb5dabfe3bfda][^key-7c593d6bd8cbe280a13310a7c9bfe528] In section 32A (inventory of gardens and designed landscapes)—
+**37.**[^c-e53424d3d05835b51b6bb5dabfe3bfda][^c-7c593d6bd8cbe280a13310a7c9bfe528] In section 32A (inventory of gardens and designed landscapes)—
 
 - (a) in subsection (1)—
   - (i) for “The Scottish Ministers” substitute “ Historic Environment Scotland ”,
@@ -784,7 +784,7 @@ summary: ''
   - (i) for “The Scottish Ministers” substitute “ Historic Environment Scotland ”,
   - (ii) for “they think” substitute “ it thinks ”.
 
-**38.**[^key-a6da64300191681fdff5492c0f2cb9f3][^key-363850ab12d58e0c1824bc68bbda219e] In section 32B(1) (inventory of battlefields)—
+**38.**[^c-a6da64300191681fdff5492c0f2cb9f3][^c-363850ab12d58e0c1824bc68bbda219e] In section 32B(1) (inventory of battlefields)—
 
 - (a) for “The Scottish Ministers” substitute “ Historic Environment Scotland ”,
 - (b) for “they think” substitute “ it thinks ”,
@@ -792,11 +792,11 @@ summary: ''
 
 ### PART 7 — OTHER MATTERS IN RELATION TO SCHEDULED MONUMENTS
 
-**39.**[^key-783c7c4cb86238ffc933c7bec0264075][^key-3178f1b525c124cb8de2a4ff3a0bd98f] The 1979 Act is further amended as follows.
+**39.**[^c-783c7c4cb86238ffc933c7bec0264075][^c-3178f1b525c124cb8de2a4ff3a0bd98f] The 1979 Act is further amended as follows.
 
 #### Interdict
 
-**40.**[^key-8837dde4fb8c33a35953eaff8b8c13d7][^key-4e57fc2ca4e831578a9c3d0be7599611] In section 9O (interdicts restraining unauthorised works on scheduled monuments)—
+**40.**[^c-8837dde4fb8c33a35953eaff8b8c13d7][^c-4e57fc2ca4e831578a9c3d0be7599611] In section 9O (interdicts restraining unauthorised works on scheduled monuments)—
 
 - (a) in subsection (1)—
   - (i) for “they have exercised or propose to exercise any of their” substitute “ Historic Environment Scotland has exercised or proposes to exercise any of its ”,
@@ -810,7 +810,7 @@ summary: ''
 
 #### Agreements concerning ancient monuments etc.
 
-**41.**[^key-21eabd9893faa4a0ec3bfc92557ed031][^key-0764ccbf1a2c53379f3214a0fb35380a] In section 17 (agreements concerning ancient monuments etc.)—
+**41.**[^c-21eabd9893faa4a0ec3bfc92557ed031][^c-0764ccbf1a2c53379f3214a0fb35380a] In section 17 (agreements concerning ancient monuments etc.)—
 
 - (a) after subsection (2) insert—
 
@@ -828,7 +828,7 @@ summary: ''
 
 #### Advice and superintendence
 
-**42.**[^key-dea5b74427960be3a590178f560b9a63][^key-c66d89d34c4085fa0d5873e18a61d911] In section 25 (advice and superintendence)—
+**42.**[^c-dea5b74427960be3a590178f560b9a63][^c-c66d89d34c4085fa0d5873e18a61d911] In section 25 (advice and superintendence)—
 
 - (a) in subsection (1) for “The Secretary of State” substitute “ Historic Environment Scotland ”,
 - (b) in subsection (2)—
@@ -840,7 +840,7 @@ summary: ''
 
 #### Power of entry: inspection and recording
 
-**43.**[^key-d62ea6fe5d66d5176004f2f78cfb4e6e][^key-65c73fa3248b5f4268d65b541f42dbf6] In section 26 (power of entry on land believed to contain an ancient monument)—
+**43.**[^c-d62ea6fe5d66d5176004f2f78cfb4e6e][^c-65c73fa3248b5f4268d65b541f42dbf6] In section 26 (power of entry on land believed to contain an ancient monument)—
 
 - (a) in subsection (1) for “the Secretary of State” in both places substitute “ Historic Environment Scotland ”,
 - (b) in subsection (4)(b)—
@@ -849,11 +849,11 @@ summary: ''
 
 #### Power to accept voluntary contributions
 
-**44.**[^key-42d157bc62c6b676606235a42e18651e][^key-0063e5b979c150766bf5dd9079f86060] In section 31 (voluntary contributions towards expenditure under Part 1 of the 1979 Act) after “State” insert “ , Historic Environment Scotland ”.
+**44.**[^c-42d157bc62c6b676606235a42e18651e][^c-0063e5b979c150766bf5dd9079f86060] In section 31 (voluntary contributions towards expenditure under Part 1 of the 1979 Act) after “State” insert “ , Historic Environment Scotland ”.
 
 #### Metal detectors
 
-**45.**[^key-c71e5bf88b23dbc35baa6d26938e075b][^key-b2b21a1d2c9db99eca19515fcefa508b] In section 42 (restrictions on use of metal detectors)—
+**45.**[^c-c71e5bf88b23dbc35baa6d26938e075b][^c-b2b21a1d2c9db99eca19515fcefa508b] In section 42 (restrictions on use of metal detectors)—
 
 - (a) in subsection (1) after “consent” insert “ of Historic Environment Scotland (in the case of a place situated in Scotland), ”,
 - (b) in subsection (2) in the definition of “protected place”, after “State” insert “ , Historic Environment Scotland ”,
@@ -863,15 +863,15 @@ summary: ''
 
 #### Power of entry: survey and valuation
 
-**46.**[^key-736d785050ad16b748e429075c0acba6][^key-c9d37aa1d58aaaf82f6b3476628034cc] In section 43(2) (power of entry for survey and valuation) after “State” insert “ , Historic Environment Scotland ”.
+**46.**[^c-736d785050ad16b748e429075c0acba6][^c-c9d37aa1d58aaaf82f6b3476628034cc] In section 43(2) (power of entry for survey and valuation) after “State” insert “ , Historic Environment Scotland ”.
 
 #### Compensation
 
-**47.**[^key-9d39e2ba837c9627d1ea1eb9b7f05e94][^key-8dbf1bda7e05ddc17557d93c88251415] In section 46(1) (compensation for damage caused by exercise of certain powers) after “from” insert “ Historic Environment Scotland, ”.
+**47.**[^c-9d39e2ba837c9627d1ea1eb9b7f05e94][^c-8dbf1bda7e05ddc17557d93c88251415] In section 46(1) (compensation for damage caused by exercise of certain powers) after “from” insert “ Historic Environment Scotland, ”.
 
 #### Application to Crown land
 
-**48.**[^key-bace69a6ca3a0ba65dbd9f9e37aee80b][^key-94d2246110ad2d5a63a382d0e9aa279b] In section 50 (application of Act to Crown land) after subsection (1) insert—
+**48.**[^c-bace69a6ca3a0ba65dbd9f9e37aee80b][^c-94d2246110ad2d5a63a382d0e9aa279b] In section 50 (application of Act to Crown land) after subsection (1) insert—
 
 > (1A) For the purposes of subsection (1)(b), anything done by Historic Environment Scotland on Crown land, in relation to which it has functions by virtue of a delegation by the Scottish Ministers under section 3 of the Historic Environment Scotland Act 2014 (asp 19), is not to be treated as done by or on behalf of the Crown.
 
@@ -879,11 +879,11 @@ summary: ''
 
 #### Finds
 
-**49.**[^key-5ce087d8a310a6a8874721ab48f84bdb][^key-84161e40ce46b5600a5f7c9292db8754] In section 54(2) (treatment and preservation of finds) after “State” in both places insert “ , Historic Environment Scotland ”.
+**49.**[^c-5ce087d8a310a6a8874721ab48f84bdb][^c-84161e40ce46b5600a5f7c9292db8754] In section 54(2) (treatment and preservation of finds) after “State” in both places insert “ , Historic Environment Scotland ”.
 
 #### Proceedings questioning certain orders
 
-**50.**[^key-bc39edf1d1120a7537384772536adb09][^key-91dcbbb52b68f215a9ba7b74f333a667] In section 55 (proceedings for questioning validity of certain orders)—
+**50.**[^c-bc39edf1d1120a7537384772536adb09][^c-91dcbbb52b68f215a9ba7b74f333a667] In section 55 (proceedings for questioning validity of certain orders)—
 
 - (a) in subsection (1)(b) after “State” insert “ or Historic Environment Scotland ”,
 - (b) in subsection (3)—
@@ -901,224 +901,224 @@ summary: ''
 
 #### Power to require information
 
-**51.**[^key-63b013237d403bf0cc48e74b53770fff][^key-ff7d4afd3c672e42b5a521df8f138465] In section 57(1) (power to require information as to interests in land) after “State” in both places insert “ or Historic Environment Scotland ”.
+**51.**[^c-63b013237d403bf0cc48e74b53770fff][^c-ff7d4afd3c672e42b5a521df8f138465] In section 57(1) (power to require information as to interests in land) after “State” in both places insert “ or Historic Environment Scotland ”.
 
 #### Interpretation
 
-**52.**[^key-c0ae24644d484d81c36fe713ba808734][^key-55ac75423619d287ca7b00bb2e5baeb7] In section 61(9) (meaning of site of monument) after “State” insert “ or Historic Environment Scotland ”.
+**52.**[^c-c0ae24644d484d81c36fe713ba808734][^c-55ac75423619d287ca7b00bb2e5baeb7] In section 61(9) (meaning of site of monument) after “State” insert “ or Historic Environment Scotland ”.
 
 ## Annotations
 
-[^key-f0fd4a45f536c6ef58164a926930571d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/1) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-f0fd4a45f536c6ef58164a926930571d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/1) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-9aab757260374f9f359e4505e9f0cfa0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/1) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-9aab757260374f9f359e4505e9f0cfa0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/1) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-962b7d62ee981f65f057d7378dcb5f68]: Modification: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/1) savings for effects of commencing S.S.I. 2015/196 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [2(1)](https://www.legislation.gov.uk/ssi/2015/239/article/2/1)
+[^c-962b7d62ee981f65f057d7378dcb5f68]: Modification: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/1) savings for effects of commencing S.S.I. 2015/196 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [2(1)](https://www.legislation.gov.uk/ssi/2015/239/article/2/1)
 
-[^key-ef4cdc654eb1945315f70a3c3ab820e3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/2) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-ef4cdc654eb1945315f70a3c3ab820e3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/2) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-23e147349f84dd4e4bb1cb16ac399b91]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/2) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-23e147349f84dd4e4bb1cb16ac399b91]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/2) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-85aae07cbd5cd3145b43f64b6ce0172d]: Modification: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/2) savings for effects of commencing S.S.I. 2015/196 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [2(1)](https://www.legislation.gov.uk/ssi/2015/239/article/2/1)
+[^c-85aae07cbd5cd3145b43f64b6ce0172d]: Modification: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/2) savings for effects of commencing S.S.I. 2015/196 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [2(1)](https://www.legislation.gov.uk/ssi/2015/239/article/2/1)
 
-[^key-9116082b4983b5f19fe93a5cdd5276fd]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/3) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-9116082b4983b5f19fe93a5cdd5276fd]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/3) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-8c5cea347a4bcc822c3124d60238428e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/3) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-8c5cea347a4bcc822c3124d60238428e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/3) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-d8790f6c5036c47b117b49f35e02d082]: Modification: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/3) savings for effects of commencing S.S.I. 2015/196 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [2(1)](https://www.legislation.gov.uk/ssi/2015/239/article/2/1)
+[^c-d8790f6c5036c47b117b49f35e02d082]: Modification: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/3) savings for effects of commencing S.S.I. 2015/196 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [2(1)](https://www.legislation.gov.uk/ssi/2015/239/article/2/1)
 
-[^key-82fc8aa0bf0d3ee2e4cbee5c44c945e9]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/4) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-82fc8aa0bf0d3ee2e4cbee5c44c945e9]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/4) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-341eab06c61b49c265c6833b5abad7fb]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/4) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-341eab06c61b49c265c6833b5abad7fb]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/4) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-33cd7fc18eb3fb23194b9ff5fdde1e60]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/5) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-33cd7fc18eb3fb23194b9ff5fdde1e60]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/5) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-6b5b6922a45b6b78b1f500685d49dbf8]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/5) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-6b5b6922a45b6b78b1f500685d49dbf8]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/5) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-b692c17f3f39c6eec66d8db3f1017eb3]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/6) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-b692c17f3f39c6eec66d8db3f1017eb3]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/6) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-4c1fa671e477ed2068ed04db153016a6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/6) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-4c1fa671e477ed2068ed04db153016a6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/6) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-28a5698470b6d8f762696082f7e7e667]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/7) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-28a5698470b6d8f762696082f7e7e667]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/7) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-33a92d301f3441f95004bb17c76668e7]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/7) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-33a92d301f3441f95004bb17c76668e7]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/7) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-478f771472b2db31ce94c04105e8028c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/8) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-478f771472b2db31ce94c04105e8028c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/8) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-cf51d0e36e35f45616544d4defbfb5c0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/8) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-cf51d0e36e35f45616544d4defbfb5c0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/8) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-30c721b4835dec868d96b34251aae1ee]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/9) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-30c721b4835dec868d96b34251aae1ee]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/9) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-0858f6d91b298c98bb4e7867ea040e2b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/9) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-0858f6d91b298c98bb4e7867ea040e2b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/9) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-30991f1af1d0a1a44d01e66eb4691da3]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/10) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-30991f1af1d0a1a44d01e66eb4691da3]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/10) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-6856005e88020ad3bcb12adf1f8f6afd]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/10) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-6856005e88020ad3bcb12adf1f8f6afd]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/10) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-e8f70fb64cc3ca671b91357326aa06e0]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/11) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-e8f70fb64cc3ca671b91357326aa06e0]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/11) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-de1427e4a1d346f7b1a8af649117c5e8]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/11) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-de1427e4a1d346f7b1a8af649117c5e8]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/11) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-39b6b79e91ec8fcac5d0ee1bf945c26a]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/12) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-39b6b79e91ec8fcac5d0ee1bf945c26a]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/12) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-9ef9040ae33915f11c2383b85e5e7867]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/12) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-9ef9040ae33915f11c2383b85e5e7867]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/12) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-80fa43c07d9362de1bf848632bc87be4]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/13) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-80fa43c07d9362de1bf848632bc87be4]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/13) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-0a924ab56d1f2a95e2eb0de06dee0840]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/13) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-0a924ab56d1f2a95e2eb0de06dee0840]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/13) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-eadd5278e0d9c660f5ac5bd39c928dab]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/14) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-eadd5278e0d9c660f5ac5bd39c928dab]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/14) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-171dfc965b8d6d0e6a969a5f81b0a0bb]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/14) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-171dfc965b8d6d0e6a969a5f81b0a0bb]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/14) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-0a41e6aa4a3e3ee7218bf377a1f14333]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/15) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-0a41e6aa4a3e3ee7218bf377a1f14333]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/15) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-4e4cbb18f912d1c726bca68351ddcac7]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/15) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-4e4cbb18f912d1c726bca68351ddcac7]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/15) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-c8989e8bc7db334d14e2aeb090a7de4e]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/16) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-c8989e8bc7db334d14e2aeb090a7de4e]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/16) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-bc9d731ba0a8027c7430d1e40ec19793]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/16) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-bc9d731ba0a8027c7430d1e40ec19793]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/16) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-fa9140cbd5b4666c102be503d78af5ae]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/17) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-fa9140cbd5b4666c102be503d78af5ae]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/17) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-50bff564f116bd9edd340f1517c4e17c]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/17) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-50bff564f116bd9edd340f1517c4e17c]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/17) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-60f04f793e319ce26e94fdd815574f6c]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/18) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-60f04f793e319ce26e94fdd815574f6c]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/18) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-a5c738d0fdccb094b01cf494279f03ff]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/18) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-a5c738d0fdccb094b01cf494279f03ff]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/18) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-b53ae70538e1d1f1e1e6cac02be7f668]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/19) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-b53ae70538e1d1f1e1e6cac02be7f668]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/19) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-ebf665fabd6f6aa79470e6cfd88b4c7b]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/19) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-ebf665fabd6f6aa79470e6cfd88b4c7b]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/19) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-5ecbd4f2c7f957adc6783b8a5550f7e2]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/20) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-5ecbd4f2c7f957adc6783b8a5550f7e2]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/20) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-3f0685dfb5cc5cd0f1fc4708c04dc29c]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/20) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-3f0685dfb5cc5cd0f1fc4708c04dc29c]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/20) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-5b8f747cb79cd6431877099c810cd2d3]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/21) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-5b8f747cb79cd6431877099c810cd2d3]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/21) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-929eaec44978deaad8d6d976a19db937]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/21) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-929eaec44978deaad8d6d976a19db937]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/21) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-f051bcb3fd10c4c9b6469257951c5bb3]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/22) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-f051bcb3fd10c4c9b6469257951c5bb3]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/22) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-1c14e8b763d46c59c38f3e7bbb7abe54]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/22) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-1c14e8b763d46c59c38f3e7bbb7abe54]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/22) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-5d57289a3e9947f93617aad86af8a10e]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/23) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-5d57289a3e9947f93617aad86af8a10e]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/23) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-4ca7ef2e8df230f82b8b1b5d73a9360a]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/23) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-4ca7ef2e8df230f82b8b1b5d73a9360a]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/23) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-568e523aa10216fdf81cfc5db2b951d4]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/24) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-568e523aa10216fdf81cfc5db2b951d4]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/24) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-27f2510ac74f5408fba3bb844ca25ff5]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/24) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-27f2510ac74f5408fba3bb844ca25ff5]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/24) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-2c8866cd920069f3d2402272b65020f5]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/25) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-2c8866cd920069f3d2402272b65020f5]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/25) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-eb96af4fd55d38fcaad5a478c60a7bf6]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/25) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-eb96af4fd55d38fcaad5a478c60a7bf6]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/25) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-0365731e923b9696abb2802348a353c5]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/26) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-0365731e923b9696abb2802348a353c5]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/26) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-f4c65abb73c7e7513b1738a132e2ba92]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/26) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-f4c65abb73c7e7513b1738a132e2ba92]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/26) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-44207ecb6713ece01211d1a6f022cbb6]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/27) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-44207ecb6713ece01211d1a6f022cbb6]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/27) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-07258d8c7125d358d792f7162735b23e]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/27) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-07258d8c7125d358d792f7162735b23e]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/27) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-3a112e78265e85507e13d6d06933f970]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/28) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-3a112e78265e85507e13d6d06933f970]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/28) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-fccbb5848b37887af7415aa998ec49cf]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/28) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-fccbb5848b37887af7415aa998ec49cf]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/28) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-4f6b7c08b29a2cfe1eea235c1505e71f]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/29) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-4f6b7c08b29a2cfe1eea235c1505e71f]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/29) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-9d2915e791b504ae9751588e18345247]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/29) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-9d2915e791b504ae9751588e18345247]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/29) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-cd59c474a1a3686d22472865b8607b68]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/30) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-cd59c474a1a3686d22472865b8607b68]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/30) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-6584ad251edfba270a669ce957f7cb77]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/30) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-6584ad251edfba270a669ce957f7cb77]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/30) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-c7b8072301ff12ba870d2ad70041df45]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/31) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-c7b8072301ff12ba870d2ad70041df45]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/31) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-d257d3aa0fe7a1b0fdbb7772f2bfba9a]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/31) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-d257d3aa0fe7a1b0fdbb7772f2bfba9a]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/31) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-a7a912784248b3adbcfc45fb75be9724]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/32) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-a7a912784248b3adbcfc45fb75be9724]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/32) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-faf441c2cb30f6b7960d149e2e73b1f5]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/32) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-faf441c2cb30f6b7960d149e2e73b1f5]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/32) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-93949d165143d481b48f34d7c557f37e]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/33) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-93949d165143d481b48f34d7c557f37e]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/33) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-fa8c100999b39b8439fb29e34c33789e]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/33) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-fa8c100999b39b8439fb29e34c33789e]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/33) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-aa835a25aa4fa599a6fc14f166a3bbb9]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/34) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-aa835a25aa4fa599a6fc14f166a3bbb9]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/34) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-61cab8c2cca57d1d641f474afa4741dd]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/34) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-61cab8c2cca57d1d641f474afa4741dd]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/34) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-b35f83331a59d78a00261688a0555d51]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/35) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-b35f83331a59d78a00261688a0555d51]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/35) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-b73b86ca14f12e16b041c1ceaf48245c]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/35) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-b73b86ca14f12e16b041c1ceaf48245c]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/35) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-22deb8b10526f063f4f23c7f5dc0d70c]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/36) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-22deb8b10526f063f4f23c7f5dc0d70c]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/36) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-4eb3e361ff1e4c13a39509f01223113a]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/36) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-4eb3e361ff1e4c13a39509f01223113a]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/36) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-e53424d3d05835b51b6bb5dabfe3bfda]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/37) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-e53424d3d05835b51b6bb5dabfe3bfda]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/37) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-7c593d6bd8cbe280a13310a7c9bfe528]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/37) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-7c593d6bd8cbe280a13310a7c9bfe528]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/37) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-a6da64300191681fdff5492c0f2cb9f3]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/38) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-a6da64300191681fdff5492c0f2cb9f3]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/38) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-363850ab12d58e0c1824bc68bbda219e]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/38) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-363850ab12d58e0c1824bc68bbda219e]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/38) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-783c7c4cb86238ffc933c7bec0264075]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/39) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-783c7c4cb86238ffc933c7bec0264075]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/39) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-3178f1b525c124cb8de2a4ff3a0bd98f]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/39) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-3178f1b525c124cb8de2a4ff3a0bd98f]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/39) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-8837dde4fb8c33a35953eaff8b8c13d7]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/40) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-8837dde4fb8c33a35953eaff8b8c13d7]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/40) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-4e57fc2ca4e831578a9c3d0be7599611]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/40) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-4e57fc2ca4e831578a9c3d0be7599611]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/40) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-21eabd9893faa4a0ec3bfc92557ed031]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/41) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-21eabd9893faa4a0ec3bfc92557ed031]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/41) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-0764ccbf1a2c53379f3214a0fb35380a]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/41) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-0764ccbf1a2c53379f3214a0fb35380a]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/41) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-dea5b74427960be3a590178f560b9a63]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/42) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-dea5b74427960be3a590178f560b9a63]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/42) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-c66d89d34c4085fa0d5873e18a61d911]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/42) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-c66d89d34c4085fa0d5873e18a61d911]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/42) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-d62ea6fe5d66d5176004f2f78cfb4e6e]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/43) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-d62ea6fe5d66d5176004f2f78cfb4e6e]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/43) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-65c73fa3248b5f4268d65b541f42dbf6]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/43) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-65c73fa3248b5f4268d65b541f42dbf6]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/43) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-42d157bc62c6b676606235a42e18651e]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/44) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-42d157bc62c6b676606235a42e18651e]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/44) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-0063e5b979c150766bf5dd9079f86060]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/44) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-0063e5b979c150766bf5dd9079f86060]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/44) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-c71e5bf88b23dbc35baa6d26938e075b]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/45) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-c71e5bf88b23dbc35baa6d26938e075b]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/45) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-b2b21a1d2c9db99eca19515fcefa508b]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/45) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-b2b21a1d2c9db99eca19515fcefa508b]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/45) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-736d785050ad16b748e429075c0acba6]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/46) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-736d785050ad16b748e429075c0acba6]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/46) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-c9d37aa1d58aaaf82f6b3476628034cc]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/46) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-c9d37aa1d58aaaf82f6b3476628034cc]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/46) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-9d39e2ba837c9627d1ea1eb9b7f05e94]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/47) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-9d39e2ba837c9627d1ea1eb9b7f05e94]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/47) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-8dbf1bda7e05ddc17557d93c88251415]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/47) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-8dbf1bda7e05ddc17557d93c88251415]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/47) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-bace69a6ca3a0ba65dbd9f9e37aee80b]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/48) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-bace69a6ca3a0ba65dbd9f9e37aee80b]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/48) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-94d2246110ad2d5a63a382d0e9aa279b]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/48) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-94d2246110ad2d5a63a382d0e9aa279b]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/48) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-5ce087d8a310a6a8874721ab48f84bdb]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/49) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-5ce087d8a310a6a8874721ab48f84bdb]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/49) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-84161e40ce46b5600a5f7c9292db8754]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/49) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-84161e40ce46b5600a5f7c9292db8754]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/49) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-bc39edf1d1120a7537384772536adb09]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/50) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-bc39edf1d1120a7537384772536adb09]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/50) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-91dcbbb52b68f215a9ba7b74f333a667]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/50) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-91dcbbb52b68f215a9ba7b74f333a667]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/50) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-63b013237d403bf0cc48e74b53770fff]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/51) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-63b013237d403bf0cc48e74b53770fff]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/51) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-ff7d4afd3c672e42b5a521df8f138465]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/51) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-ff7d4afd3c672e42b5a521df8f138465]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/51) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
 
-[^key-c0ae24644d484d81c36fe713ba808734]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/52) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-c0ae24644d484d81c36fe713ba808734]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/52) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-55ac75423619d287ca7b00bb2e5baeb7]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/52) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-55ac75423619d287ca7b00bb2e5baeb7]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/asp/2014/19/schedule/2/paragraph/52) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

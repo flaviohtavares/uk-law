@@ -24,16 +24,16 @@ Section 178
 
 ### PART 1 — Amendments to the Housing and Regeneration Act 2008
 
-**1.**[^key-21166358d2cffff49b1409e6ef62ca50] The Housing and Regeneration Act 2008 is amended as follows.
+**1.**[^c-21166358d2cffff49b1409e6ef62ca50] The Housing and Regeneration Act 2008 is amended as follows.
 
-**2.**[^key-f57dc0ba1f2b35d0511b7cdad44a750c] In section 2 (the HCA: objects) after subsection (1) insert—
+**2.**[^c-f57dc0ba1f2b35d0511b7cdad44a750c] In section 2 (the HCA: objects) after subsection (1) insert—
 
 > (1A) It is also an object of the HCA to facilitate the exercise through its Regulation Committee of the functions conferred on the HCA—
 >
 > - (a) as the regulator by virtue of Part 2 (regulation of social housing), or
 > - (b) as the Regulator of Social Housing by virtue of any other enactment or instrument.
 
-**3.**[^key-fb3732129c9cf9bd666124703cf8f4c0] In section 4 (powers of the HCA: general) in subsection (6) for the “and” at the end of paragraph (a) substitute—
+**3.**[^c-fb3732129c9cf9bd666124703cf8f4c0] In section 4 (powers of the HCA: general) in subsection (6) for the “and” at the end of paragraph (a) substitute—
 
 > - (aa) subsections (2) to (5) do not apply to the powers conferred on the HCA—
 >   - (i) as the regulator by virtue of Part 2 (but see section 92I (exercise of functions)), or
@@ -41,7 +41,7 @@ Section 178
 
 .
 
-**4.**[^key-6967139f98449e8a211efc21ca337072] (1) Section 31 (duties in relation to social housing) is amended as follows.
+**4.**[^c-6967139f98449e8a211efc21ca337072] (1) Section 31 (duties in relation to social housing) is amended as follows.
 
 (2) Omit subsections (9) and (10).
 
@@ -52,16 +52,16 @@ Section 178
 
 (4) In subsection (12) omit the definition of “low cost home ownership accommodation”.
 
-**5.**[^key-f3cb27c920643b4ccf6ad3d00a721e53] In section 32 (recovery etc of social housing assistance) omit subsection (11).
+**5.**[^c-f3cb27c920643b4ccf6ad3d00a721e53] In section 32 (recovery etc of social housing assistance) omit subsection (11).
 
-**6.**[^key-3dd7e49a7eb9f353b4c0ed152a547e3a] In section 34(2) (determinations under sections 32 and 33)—
+**6.**[^c-3dd7e49a7eb9f353b4c0ed152a547e3a] In section 34(2) (determinations under sections 32 and 33)—
 
 - (a) omit paragraph (a), and
 - (b) in paragraph (b) omit “other”.
 
-**7.**[^key-282ca920f68032db8545c4c4949ed43d] Omit section 37 (duty to co-operate with Regulator of Social Housing).
+**7.**[^c-282ca920f68032db8545c4c4949ed43d] Omit section 37 (duty to co-operate with Regulator of Social Housing).
 
-**8.**[^key-ba3d37f9fbc08aa131ad1db29d18339f] (1) Section 42 (agency arrangements with UDCs) is amended as follows.
+**8.**[^c-ba3d37f9fbc08aa131ad1db29d18339f] (1) Section 42 (agency arrangements with UDCs) is amended as follows.
 
 (2) In subsection (2)(a) after “Chapter 3” insert “ or the functions to which subsection (2A) applies ”.
 
@@ -72,55 +72,55 @@ Section 178
 > - (a) as the regulator by virtue of Part 2, or
 > - (b) as the Regulator of Social Housing by virtue of any other enactment or instrument.
 
-**9.**[^key-69d049cb0ef3c666340119e65548dbb7] In section 46 (guidance by the Secretary of State) after subsection (7) insert—
+**9.**[^c-69d049cb0ef3c666340119e65548dbb7] In section 46 (guidance by the Secretary of State) after subsection (7) insert—
 
 > (8) This section does not apply to the functions conferred on the HCA—
 >
 > - (a) as the regulator by virtue of Part 2, or
 > - (b) as the Regulator of Social Housing by virtue of any other enactment or instrument.
 
-**10.**[^key-2281d64c1ccf26c6920cfa8a3ec95f0c] In section 47 (directions by the Secretary of State) after subsection (6) insert—
+**10.**[^c-2281d64c1ccf26c6920cfa8a3ec95f0c] In section 47 (directions by the Secretary of State) after subsection (6) insert—
 
 > (7) This section does not apply to the functions conferred on the HCA—
 >
 > - (a) as the regulator by virtue of Part 2, or
 > - (b) as the Regulator of Social Housing by virtue of any other enactment or instrument.
 
-**11.**[^key-b262a210b80b28150b375d2d3068a79f] In the Table in section 58 (Part 1: index of defined expressions) in the entry for “Regulator of Social Housing” for “Section 81(2)(a)” substitute “ Section 92A(2) ”.
+**11.**[^c-b262a210b80b28150b375d2d3068a79f] In the Table in section 58 (Part 1: index of defined expressions) in the entry for “Regulator of Social Housing” for “Section 81(2)(a)” substitute “ Section 92A(2) ”.
 
-**12.**[^key-215ba3d57f90501874f74518fd89ee6b] In the Table in section 60(4) (structural overview of Part 2) for the entry relating to Chapter 2 substitute—
+**12.**[^c-215ba3d57f90501874f74518fd89ee6b] In the Table in section 60(4) (structural overview of Part 2) for the entry relating to Chapter 2 substitute—
 
 > |  |  |  |  |
 > | --- | --- | --- | --- |
 > | 2 | 92A to 109 | The Social Housing Regulator | - (a) The regulator and the Regulation Committee<br>- (b) Fundamental objectives<br>- (c) Powers<br>- (d) Money<br>- (e) Information |
 
-**13.**[^key-344e88bcf156835699a2add0f9e8f5dc] Omit section 78 (the Regulator of Social Housing).
+**13.**[^c-344e88bcf156835699a2add0f9e8f5dc] Omit section 78 (the Regulator of Social Housing).
 
-**14.**[^key-49b1cc8b6a9cf72e55dc82eb398fe111] Omit section 81 (the regulator: establishment).
+**14.**[^c-49b1cc8b6a9cf72e55dc82eb398fe111] Omit section 81 (the regulator: establishment).
 
-**15.**[^key-e745b498c01d0e4365eeb54f6470ad41] Omit section 82 (the regulator: membership).
+**15.**[^c-e745b498c01d0e4365eeb54f6470ad41] Omit section 82 (the regulator: membership).
 
-**16.**[^key-de86ee5fd4aefcb80c17359b95d57b30] Omit section 83 (the regulator: tenure of office of members).
+**16.**[^c-de86ee5fd4aefcb80c17359b95d57b30] Omit section 83 (the regulator: tenure of office of members).
 
-**17.**[^key-1251706b0f602e6d9f48e79739a96c22] Omit section 84 (the regulator: chief executive).
+**17.**[^c-1251706b0f602e6d9f48e79739a96c22] Omit section 84 (the regulator: chief executive).
 
-**18.**[^key-7c966301efd750cb76e606395bf82d94] Omit section 85 (the regulator: other staff).
+**18.**[^c-7c966301efd750cb76e606395bf82d94] Omit section 85 (the regulator: other staff).
 
-**19.**[^key-c9ddf6cc037ee46fa7d6a2e85812e20c] Omit section 86 (the regulator: fundamental objectives).
+**19.**[^c-c9ddf6cc037ee46fa7d6a2e85812e20c] Omit section 86 (the regulator: fundamental objectives).
 
-**20.**[^key-219dec95ad0de05c304d8f673d2e644c] Omit section 87 (the regulator: procedure).
+**20.**[^c-219dec95ad0de05c304d8f673d2e644c] Omit section 87 (the regulator: procedure).
 
-**21.**[^key-37341b93413450353b0eaf72c9256b10] Omit section 88 (the regulator: conflict of interest).
+**21.**[^c-37341b93413450353b0eaf72c9256b10] Omit section 88 (the regulator: conflict of interest).
 
-**22.**[^key-e8adbe82f6b3fc435646425520aa144d] Omit section 89 (the regulator: committees).
+**22.**[^c-e8adbe82f6b3fc435646425520aa144d] Omit section 89 (the regulator: committees).
 
-**23.**[^key-1a77ea5b91070d6ebd12e8291810e1ba] Omit section 90 (the regulator: delegation).
+**23.**[^c-1a77ea5b91070d6ebd12e8291810e1ba] Omit section 90 (the regulator: delegation).
 
-**24.**[^key-c94b87c8dd93190abb543544b644d062] Omit section 91 (the regulator: seal).
+**24.**[^c-c94b87c8dd93190abb543544b644d062] Omit section 91 (the regulator: seal).
 
-**25.**[^key-37e9e850d9993bb4904fe6e338be92d7] Omit section 92 (the regulator: annual report).
+**25.**[^c-37e9e850d9993bb4904fe6e338be92d7] Omit section 92 (the regulator: annual report).
 
-**26.**[^key-d266f0aad9246134476aab769a2fb3f0][^key-1fddb8c6d578f5329be8e533abbfda1b] After that section insert—
+**26.**[^c-d266f0aad9246134476aab769a2fb3f0][^c-1fddb8c6d578f5329be8e533abbfda1b] After that section insert—
 
 > **The regulator and the Regulation Committee**
 >
@@ -312,32 +312,32 @@ Section 178
 > - (a) minimises interference, and
 > - (b) (so far as is possible) is proportionate, consistent, transparent and accountable.
 
-**27.**[^key-14acb9e7ac106fc78521e9cba87a2984] In section 93(1) (the regulator: general functions) for “conferred on it by this Part or another enactment” substitute “ of the regulator ”.
+**27.**[^c-14acb9e7ac106fc78521e9cba87a2984] In section 93(1) (the regulator: general functions) for “conferred on it by this Part or another enactment” substitute “ of the regulator ”.
 
-**28.**[^key-c5d0664c958ad46015c82c9f05b8a14d] Omit section 99 (the regulator: remuneration).
+**28.**[^c-c5d0664c958ad46015c82c9f05b8a14d] Omit section 99 (the regulator: remuneration).
 
-**29.**[^key-e286910a724519c4e68ba515ec143322] In section 100 (charging)—
+**29.**[^c-e286910a724519c4e68ba515ec143322] In section 100 (charging)—
 
 - (a) at the beginning insert “ (1) ”, and
 - (b) at the end of the subsection (1) so formed insert—
 
   > (2) The functions of billing for and receiving the payment of charges under this section are exercisable by the HCA rather than by the HCA acting through its Regulation Committee.
 
-**30.**[^key-cee3c7ef0a5027ee2d301ed01b59be61] Omit section 101 (the regulator: assistance by Secretary of State).
+**30.**[^c-cee3c7ef0a5027ee2d301ed01b59be61] Omit section 101 (the regulator: assistance by Secretary of State).
 
-**31.**[^key-bd225d52a3e1b27acba13f3aaba2e3a6] Omit section 102 (the regulator: borrowing).
+**31.**[^c-bd225d52a3e1b27acba13f3aaba2e3a6] Omit section 102 (the regulator: borrowing).
 
-**32.**[^key-bfddc9205e7f6138673c2409e983abb1] Omit section 103 (the regulator: accounts).
+**32.**[^c-bfddc9205e7f6138673c2409e983abb1] Omit section 103 (the regulator: accounts).
 
-**33.**[^key-345607c9aaa1dadec22aaacb07db67a8] Omit section 104 (the regulator: financial year).
+**33.**[^c-345607c9aaa1dadec22aaacb07db67a8] Omit section 104 (the regulator: financial year).
 
-**34.**[^key-27eef24ae7861f05f723f6250f06f568] Omit section 105 (the regulator: co-operation with the HCA).
+**34.**[^c-27eef24ae7861f05f723f6250f06f568] Omit section 105 (the regulator: co-operation with the HCA).
 
-**35.**[^key-58e44248934068b0042a35cd0fa897a1] Omit section 106 (the regulator: direction to the HCA).
+**35.**[^c-58e44248934068b0042a35cd0fa897a1] Omit section 106 (the regulator: direction to the HCA).
 
-**36.**[^key-65612ba59da9a1cfe26c4b3bf7e0eb37] In section 112(4) (duty to consult before setting criteria for voluntary registration) omit paragraph (a).
+**36.**[^c-65612ba59da9a1cfe26c4b3bf7e0eb37] In section 112(4) (duty to consult before setting criteria for voluntary registration) omit paragraph (a).
 
-**37.**[^key-a36fcf992db76eb0d057240209969b30] (1) Section 117 (the regulator: fees) is amended as follows.
+**37.**[^c-a36fcf992db76eb0d057240209969b30] (1) Section 117 (the regulator: fees) is amended as follows.
 
 (2) In subsection (5)(a) after “the performance of” insert “the regulator's”.
 
@@ -347,9 +347,9 @@ Section 178
 
 > (10) The functions of billing for and receiving the payment of fees under this section are exercisable by the HCA rather than by the HCA acting through its Regulation Committee.
 
-**38.**[^key-2fde262477de8038a906ccea70530ab2] In section 145 (moratorium) omit subsection (4).
+**38.**[^c-2fde262477de8038a906ccea70530ab2] In section 145 (moratorium) omit subsection (4).
 
-**39.**[^key-8851e40121c034dbf5087c967ad3a178] (1) Section 146 (duration of moratorium) is amended as follows.
+**39.**[^c-8851e40121c034dbf5087c967ad3a178] (1) Section 146 (duration of moratorium) is amended as follows.
 
 (2) In subsection (4)—
 
@@ -358,40 +358,32 @@ Section 178
 
 (3) Omit subsection (8).
 
-**40.**[^key-e673387e48059d132300043ec271939c] In section 147(4) (further moratorium)—
+**40.**[^c-e673387e48059d132300043ec271939c] In section 147(4) (further moratorium)—
 
 - (a) at the end of paragraph (a) insert “ and ”, and
 - (b) omit paragraph (c).
 
-**41.**[^key-95f5cc28f82180c5747c289164bef18f] In section 174(5) (procedure for consent to disposal of social housing) omit paragraph (a).
+**41.**[^c-95f5cc28f82180c5747c289164bef18f] In section 174(5) (procedure for consent to disposal of social housing) omit paragraph (a).
 
-**42.**[^key-b8a746f89d55ea59076786fc31c9db44] In section 196(1) (consultation on standards and codes of practice) omit paragraph (f).
+**42.**[^c-b8a746f89d55ea59076786fc31c9db44] In section 196(1) (consultation on standards and codes of practice) omit paragraph (f).
 
-**43.**[^key-123f1bc3a9a551c84e0eac479d6a52d3] In section 197(4) (direction by Secretary of State) omit paragraph (b).
+**43.**[^c-123f1bc3a9a551c84e0eac479d6a52d3] In section 197(4) (direction by Secretary of State) omit paragraph (b).
 
-**44.**[^key-e6d42d3120a7f5d87001d8cd3b9911c2] In section 202 (inspections: supplemental) after subsection (7) insert—
+**44.**[^c-e6d42d3120a7f5d87001d8cd3b9911c2] In section 202 (inspections: supplemental) after subsection (7) insert—
 
 > (8) The functions of billing for and receiving the payment of fees under this section are exercisable by the HCA rather than by the HCA acting through its Regulation Committee.
 
-**45.**[^key-81219841dd0cd9519452a257bcd5e718] In section 216 (consultation on use of intervention powers) omit paragraph (e).
+**45.**[^c-81219841dd0cd9519452a257bcd5e718] In section 216 (consultation on use of intervention powers) omit paragraph (e).
 
-**46.**[^key-83448856b66fae9f93ff6f3eaa407f0b] In section 222 (notification of use of enforcement notice) omit paragraph (a).
+**46.**[^c-83448856b66fae9f93ff6f3eaa407f0b] In section 222 (notification of use of enforcement notice) omit paragraph (a).
 
-**47.**[^key-9e364e2cc2ef9c1d477feb6952312d2a] In section 230(2) (pre-penalty warning) omit paragraph (a).
+**47.**[^c-9e364e2cc2ef9c1d477feb6952312d2a] In section 230(2) (pre-penalty warning) omit paragraph (a).
 
-**48.**[^key-726580b69088269ab9af1e5d39e9fe06] Omit section 232 (duty to notify HCA of penalty notice).
+**48.**[^c-726580b69088269ab9af1e5d39e9fe06] Omit section 232 (duty to notify HCA of penalty notice).
 
-**49.**[^key-8259bed21c380636f59ef0363387d09f] In section 242(3) (pre-compensation warning) omit paragraph (a).
+**49.**[^c-8259bed21c380636f59ef0363387d09f] In section 242(3) (pre-compensation warning) omit paragraph (a).
 
-**50.**[^key-e6df321f3bc358eab888ef84ab5c5828] (1) Section 248 (supplemental provisions about management tenders) is amended as follows.
-
-(2) In subsection (4) omit paragraph (a).
-
-(3) In subsection (7) omit paragraph (c).
-
-(4) In subsection (8) omit paragraph (a).
-
-**51.**[^key-5e829dd710b3f80da8a196f8479efeac] (1) Section 250 (supplemental provisions about management transfers) is amended as follows.
+**50.**[^c-e6df321f3bc358eab888ef84ab5c5828] (1) Section 248 (supplemental provisions about management tenders) is amended as follows.
 
 (2) In subsection (4) omit paragraph (a).
 
@@ -399,23 +391,31 @@ Section 178
 
 (4) In subsection (8) omit paragraph (a).
 
-**52.**[^key-7e4192023c9ac6eb43f0d9987f4841ad] (1) Section 252 (supplemental provisions about appointment of managers) is amended as follows.
+**51.**[^c-5e829dd710b3f80da8a196f8479efeac] (1) Section 250 (supplemental provisions about management transfers) is amended as follows.
+
+(2) In subsection (4) omit paragraph (a).
+
+(3) In subsection (7) omit paragraph (c).
+
+(4) In subsection (8) omit paragraph (a).
+
+**52.**[^c-7e4192023c9ac6eb43f0d9987f4841ad] (1) Section 252 (supplemental provisions about appointment of managers) is amended as follows.
 
 (2) In subsection (4) omit paragraph (a).
 
 (3) Omit subsection (7).
 
-**53.** (1)[^key-931667a04211537d706b6f2c2f9b103d] The Table in section 276 (Part 2: index of defined terms) is amended as follows.
+**53.** (1)[^c-931667a04211537d706b6f2c2f9b103d] The Table in section 276 (Part 2: index of defined terms) is amended as follows.
 
-(2)[^key-931667a04211537d706b6f2c2f9b103d] Omit the entry for “Appointed member”.
+(2)[^c-931667a04211537d706b6f2c2f9b103d] Omit the entry for “Appointed member”.
 
-(3)[^key-931667a04211537d706b6f2c2f9b103d] In the entry for “Fundamental objectives” for “Section 86” substitute “ Section 92K ”.
+(3)[^c-931667a04211537d706b6f2c2f9b103d] In the entry for “Fundamental objectives” for “Section 86” substitute “ Section 92K ”.
 
-(4)[^key-931667a04211537d706b6f2c2f9b103d] In the entry for “The regulator” for “Section 81” substitute “ Section 92A ”.
+(4)[^c-931667a04211537d706b6f2c2f9b103d] In the entry for “The regulator” for “Section 81” substitute “ Section 92A ”.
 
-(5)[^key-931667a04211537d706b6f2c2f9b103d] In the entry for “The Regulator of Social Housing” for “Section 81” substitute “ Section 92A ”.
+(5)[^c-931667a04211537d706b6f2c2f9b103d] In the entry for “The Regulator of Social Housing” for “Section 81” substitute “ Section 92A ”.
 
-(6)[^key-5b5fbc246f2ea2ed52d306550f823394] Insert the following entries at the appropriate place—
+(6)[^c-5b5fbc246f2ea2ed52d306550f823394] Insert the following entries at the appropriate place—
 
 > |  |  |
 > | --- | --- |
@@ -425,7 +425,7 @@ Section 178
 
 .
 
-**54.**[^key-99ae85029e588ebadb5f131e68c0f8fb] (1) Schedule 1 (constitution of the Homes and Communities Agency) is amended as follows.
+**54.**[^c-99ae85029e588ebadb5f131e68c0f8fb] (1) Schedule 1 (constitution of the Homes and Communities Agency) is amended as follows.
 
 (2) In paragraph 1 (appointment of membership) after sub-paragraph (4) insert—
 
@@ -439,37 +439,37 @@ Section 178
 
 #### Public Records Act 1958 (c. 51)
 
-**55.**[^key-9fc23c9896af4242248834b1aee6b567] In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 2 of the Table at the end of paragraph 3 omit the entry for the Office for Tenants and Social Landlords.
+**55.**[^c-9fc23c9896af4242248834b1aee6b567] In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 2 of the Table at the end of paragraph 3 omit the entry for the Office for Tenants and Social Landlords.
 
 #### Parliamentary Commissioner Act 1967 (c. 13)
 
-**56.**[^key-75ae331296eb8908f0880187bb1a85e3] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation) omit the entry for the Office for Tenants and Social Landlords.
+**56.**[^c-75ae331296eb8908f0880187bb1a85e3] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation) omit the entry for the Office for Tenants and Social Landlords.
 
 #### House of Commons Disqualification Act 1975 (c. 24)
 
-**57.**[^key-8b982d0bac3fdc9b4ed5284995cabc7e] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified) omit the entry for the Office for Tenants and Social Landlords.
+**57.**[^c-8b982d0bac3fdc9b4ed5284995cabc7e] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified) omit the entry for the Office for Tenants and Social Landlords.
 
 #### Freedom of Information Act 2000 (c. 36)
 
-**58.**[^key-312baee2c851a5e0b46642b1eefdc2f3] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities) omit the entry for the Office for Tenants and Social Landlords.
+**58.**[^c-312baee2c851a5e0b46642b1eefdc2f3] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities) omit the entry for the Office for Tenants and Social Landlords.
 
 #### Housing (Scotland) Act 2010 (asp 17)
 
-**59.**[^key-95cc5844f7ec11fec3f2b3d043f3695d] The Housing (Scotland) Act 2010 is amended as follows.
+**59.**[^c-95cc5844f7ec11fec3f2b3d043f3695d] The Housing (Scotland) Act 2010 is amended as follows.
 
-**60.**[^key-5c543fc132362ca3fdb627d3cf4742db] In section 18(2) (co-operation with other regulators: definition of “relevant regulators”) in paragraph (a) for “the Office for Tenants and Social Landlords” substitute “ the Regulator of Social Housing ”.
+**60.**[^c-5c543fc132362ca3fdb627d3cf4742db] In section 18(2) (co-operation with other regulators: definition of “relevant regulators”) in paragraph (a) for “the Office for Tenants and Social Landlords” substitute “ the Regulator of Social Housing ”.
 
-**61.**[^key-87b2cc442b8ee8e8ba4795a115f97a59] In section 68(3) (determination of accounting requirements for registered social landlords: consultation with other bodies) in paragraph (c) for “the Office for Tenants and Social Landlords” substitute “ the Regulator of Social Housing ”.
+**61.**[^c-87b2cc442b8ee8e8ba4795a115f97a59] In section 68(3) (determination of accounting requirements for registered social landlords: consultation with other bodies) in paragraph (c) for “the Office for Tenants and Social Landlords” substitute “ the Regulator of Social Housing ”.
 
 #### Equality Act 2010 (c. 15)
 
-**62.**[^key-60ca7e2a28a49d0ac1b9b77fb81618b5] In Schedule 19 to the Equality Act 2010 (public authorities) omit the entry for the Office for Tenants and Social Landlords.
+**62.**[^c-60ca7e2a28a49d0ac1b9b77fb81618b5] In Schedule 19 to the Equality Act 2010 (public authorities) omit the entry for the Office for Tenants and Social Landlords.
 
 ### PART 3 — Transfer of property, rights and liabilities
 
 #### Transfer of property, rights and liabilities
 
-**63.**[^key-02f3520440c7daab570919e33d9e7c61] (1) The property, rights and liabilities to which the Office is entitled or subject immediately before the commencement of this paragraph transfer to and vest in the HCA.
+**63.**[^c-02f3520440c7daab570919e33d9e7c61] (1) The property, rights and liabilities to which the Office is entitled or subject immediately before the commencement of this paragraph transfer to and vest in the HCA.
 
 (2) This paragraph has effect in spite of any provision (of whatever nature) that would otherwise prevent, penalise or restrict the transfer of the property, rights or liabilities.
 
@@ -479,13 +479,13 @@ Section 178
 
 #### Employment contracts: transfer of rights and liabilities
 
-**64.**[^key-c298235978b73501644383ad931ac4d2] (1) The rights and liabilities transferred by paragraph 63 include rights or liabilities under a contract of employment.
+**64.**[^c-c298235978b73501644383ad931ac4d2] (1) The rights and liabilities transferred by paragraph 63 include rights or liabilities under a contract of employment.
 
 (2) The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246) apply to the transfer by virtue of that paragraph of rights or liabilities under a contract of employment (whether or not it is a relevant transfer for the purposes of those regulations).
 
 #### Continuity
 
-**65.**[^key-61bb939f4dfa2a0cc0461dc5d081e0c7] (1) The transfer of property, rights and liabilities by virtue of paragraph 63 does not affect the validity of anything done (or having effect as if done) by or in relation to the Office before the transfer takes effect.
+**65.**[^c-61bb939f4dfa2a0cc0461dc5d081e0c7] (1) The transfer of property, rights and liabilities by virtue of paragraph 63 does not affect the validity of anything done (or having effect as if done) by or in relation to the Office before the transfer takes effect.
 
 (2) Anything that—
 
@@ -508,7 +508,7 @@ is to be treated as done by or in relation to the HCA.
 
 #### Interpretation
 
-**66.**[^key-a9f6dcd9b0e88ded3e236dc995218041] In this Part of this Schedule—
+**66.**[^c-a9f6dcd9b0e88ded3e236dc995218041] In this Part of this Schedule—
 
 - “**the Office**” means the Office for Tenants and Social Landlords constituted by Chapter 2 of Part 2 of the Housing and Regeneration Act 2008 as originally enacted;
 - “**the transfer date**” means the date on which paragraph 63 comes into force.
@@ -517,7 +517,7 @@ is to be treated as done by or in relation to the HCA.
 
 #### Final annual report
 
-**67.**[^key-19b0e4bdeab8c77a0d7d2b21b4e506bb] (1) As soon as is reasonably practicable after the abolition date, the HCA must prepare a report on the performance of the functions of the Office—
+**67.**[^c-19b0e4bdeab8c77a0d7d2b21b4e506bb] (1) As soon as is reasonably practicable after the abolition date, the HCA must prepare a report on the performance of the functions of the Office—
 
 - (a) in the last financial year to end before the abolition date, and
 - (b) in the period (if any) beginning immediately after the end of that financial year and ending immediately before the abolition date.
@@ -535,7 +535,7 @@ is to be treated as done by or in relation to the HCA.
 
 #### Final accounts
 
-**68.**[^key-5580dc0d99bee70c0065847b96c9b694] (1) As soon as is reasonably practicable after the abolition date, the HCA must prepare—
+**68.**[^c-5580dc0d99bee70c0065847b96c9b694] (1) As soon as is reasonably practicable after the abolition date, the HCA must prepare—
 
 - (a) a statement of the accounts of the Office for the last financial year to end before the abolition date, and
 - (b) a statement of the accounts of the Office for the period (if any) beginning immediately after the end of that financial year and ending immediately before the abolition date.
@@ -555,7 +555,7 @@ is to be treated as done by or in relation to the HCA.
 
 #### General transitional and saving provisions
 
-**69.**[^key-f769c1f0ba20134f0ec923613151559b] (1) Section 92A of the Housing and Regeneration Act 2008 does not apply to an enactment or instrument if and to the extent that it makes provision about a time before the commencement of the insertion of that section by paragraph 26.
+**69.**[^c-f769c1f0ba20134f0ec923613151559b] (1) Section 92A of the Housing and Regeneration Act 2008 does not apply to an enactment or instrument if and to the extent that it makes provision about a time before the commencement of the insertion of that section by paragraph 26.
 
 (2) In relation to such a time—
 
@@ -585,7 +585,7 @@ is to be treated as done by or in relation to the HCA.
 
 #### Interpretation
 
-**70.**[^key-68bc734d22797ea4e59c5a6cbd07f840] In this Part of this Schedule—
+**70.**[^c-68bc734d22797ea4e59c5a6cbd07f840] In this Part of this Schedule—
 
 - “**the abolition date**” means the date on which the repeal of section 81 of the Housing and Regeneration Act 2008 by Part 1 of this Schedule comes into force;
 - “**financial year**” means the period of 12 months ending with 31 March in any year;
@@ -593,146 +593,146 @@ is to be treated as done by or in relation to the HCA.
 
 ## Annotations
 
-[^key-21166358d2cffff49b1409e6ef62ca50]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/1) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(t)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/t/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-21166358d2cffff49b1409e6ef62ca50]: Commencement: [Sch. 16 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/1) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(t)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/t/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-f57dc0ba1f2b35d0511b7cdad44a750c]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/2) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-f57dc0ba1f2b35d0511b7cdad44a750c]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/2) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-fb3732129c9cf9bd666124703cf8f4c0]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/3) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-fb3732129c9cf9bd666124703cf8f4c0]: Commencement: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/3) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-6967139f98449e8a211efc21ca337072]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/4) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-6967139f98449e8a211efc21ca337072]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/4) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-f3cb27c920643b4ccf6ad3d00a721e53]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/5) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-f3cb27c920643b4ccf6ad3d00a721e53]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/5) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-3dd7e49a7eb9f353b4c0ed152a547e3a]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/6) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-3dd7e49a7eb9f353b4c0ed152a547e3a]: Commencement: [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/6) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-282ca920f68032db8545c4c4949ed43d]: Commencement: [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/7) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-282ca920f68032db8545c4c4949ed43d]: Commencement: [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/7) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-ba3d37f9fbc08aa131ad1db29d18339f]: Commencement: [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/8) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-ba3d37f9fbc08aa131ad1db29d18339f]: Commencement: [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/8) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-69d049cb0ef3c666340119e65548dbb7]: Commencement: [Sch. 16 para. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/9) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-69d049cb0ef3c666340119e65548dbb7]: Commencement: [Sch. 16 para. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/9) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-2281d64c1ccf26c6920cfa8a3ec95f0c]: Commencement: [Sch. 16 para. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/10) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-2281d64c1ccf26c6920cfa8a3ec95f0c]: Commencement: [Sch. 16 para. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/10) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-b262a210b80b28150b375d2d3068a79f]: Commencement: [Sch. 16 para. 11](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/11) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-b262a210b80b28150b375d2d3068a79f]: Commencement: [Sch. 16 para. 11](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/11) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-215ba3d57f90501874f74518fd89ee6b]: Commencement: [Sch. 16 para. 12](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/12) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-215ba3d57f90501874f74518fd89ee6b]: Commencement: [Sch. 16 para. 12](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/12) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-344e88bcf156835699a2add0f9e8f5dc]: Commencement: [Sch. 16 para. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/13) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-344e88bcf156835699a2add0f9e8f5dc]: Commencement: [Sch. 16 para. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/13) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-49b1cc8b6a9cf72e55dc82eb398fe111]: Commencement: [Sch. 16 para. 14](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/14) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-49b1cc8b6a9cf72e55dc82eb398fe111]: Commencement: [Sch. 16 para. 14](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/14) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-e745b498c01d0e4365eeb54f6470ad41]: Commencement: [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/15) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-e745b498c01d0e4365eeb54f6470ad41]: Commencement: [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/15) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-de86ee5fd4aefcb80c17359b95d57b30]: Commencement: [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/16) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-de86ee5fd4aefcb80c17359b95d57b30]: Commencement: [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/16) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-1251706b0f602e6d9f48e79739a96c22]: Commencement: [Sch. 16 para. 17](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/17) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-1251706b0f602e6d9f48e79739a96c22]: Commencement: [Sch. 16 para. 17](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/17) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-7c966301efd750cb76e606395bf82d94]: Commencement: [Sch. 16 para. 18](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/18) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-7c966301efd750cb76e606395bf82d94]: Commencement: [Sch. 16 para. 18](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/18) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-c9ddf6cc037ee46fa7d6a2e85812e20c]: Commencement: [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/19) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-c9ddf6cc037ee46fa7d6a2e85812e20c]: Commencement: [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/19) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-219dec95ad0de05c304d8f673d2e644c]: Commencement: [Sch. 16 para. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/20) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-219dec95ad0de05c304d8f673d2e644c]: Commencement: [Sch. 16 para. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/20) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-37341b93413450353b0eaf72c9256b10]: Commencement: [Sch. 16 para. 21](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/21) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-37341b93413450353b0eaf72c9256b10]: Commencement: [Sch. 16 para. 21](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/21) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-e8adbe82f6b3fc435646425520aa144d]: Commencement: [Sch. 16 para. 22](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/22) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-e8adbe82f6b3fc435646425520aa144d]: Commencement: [Sch. 16 para. 22](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/22) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-1a77ea5b91070d6ebd12e8291810e1ba]: Commencement: [Sch. 16 para. 23](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/23) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-1a77ea5b91070d6ebd12e8291810e1ba]: Commencement: [Sch. 16 para. 23](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/23) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-c94b87c8dd93190abb543544b644d062]: Commencement: [Sch. 16 para. 24](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/24) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-c94b87c8dd93190abb543544b644d062]: Commencement: [Sch. 16 para. 24](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/24) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-37e9e850d9993bb4904fe6e338be92d7]: Commencement: [Sch. 16 para. 25](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/25) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-37e9e850d9993bb4904fe6e338be92d7]: Commencement: [Sch. 16 para. 25](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/25) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-d266f0aad9246134476aab769a2fb3f0]: Commencement: [Sch. 16 para. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/26) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(t)(ii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/t/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-d266f0aad9246134476aab769a2fb3f0]: Commencement: [Sch. 16 para. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/26) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(t)(ii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/t/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-1fddb8c6d578f5329be8e533abbfda1b]: Commencement: [Sch. 16 para. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/26) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-1fddb8c6d578f5329be8e533abbfda1b]: Commencement: [Sch. 16 para. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/26) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-14acb9e7ac106fc78521e9cba87a2984]: Commencement: [Sch. 16 para. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/27) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-14acb9e7ac106fc78521e9cba87a2984]: Commencement: [Sch. 16 para. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/27) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-c5d0664c958ad46015c82c9f05b8a14d]: Commencement: [Sch. 16 para. 28](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/28) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-c5d0664c958ad46015c82c9f05b8a14d]: Commencement: [Sch. 16 para. 28](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/28) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-e286910a724519c4e68ba515ec143322]: Commencement: [Sch. 16 para. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/29) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-e286910a724519c4e68ba515ec143322]: Commencement: [Sch. 16 para. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/29) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-cee3c7ef0a5027ee2d301ed01b59be61]: Commencement: [Sch. 16 para. 30](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/30) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-cee3c7ef0a5027ee2d301ed01b59be61]: Commencement: [Sch. 16 para. 30](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/30) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-bd225d52a3e1b27acba13f3aaba2e3a6]: Commencement: [Sch. 16 para. 31](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/31) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-bd225d52a3e1b27acba13f3aaba2e3a6]: Commencement: [Sch. 16 para. 31](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/31) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-bfddc9205e7f6138673c2409e983abb1]: Commencement: [Sch. 16 para. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/32) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-bfddc9205e7f6138673c2409e983abb1]: Commencement: [Sch. 16 para. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/32) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-345607c9aaa1dadec22aaacb07db67a8]: Commencement: [Sch. 16 para. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/33) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-345607c9aaa1dadec22aaacb07db67a8]: Commencement: [Sch. 16 para. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/33) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-27eef24ae7861f05f723f6250f06f568]: Commencement: [Sch. 16 para. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/34) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-27eef24ae7861f05f723f6250f06f568]: Commencement: [Sch. 16 para. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/34) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-58e44248934068b0042a35cd0fa897a1]: Commencement: [Sch. 16 para. 35](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/35) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-58e44248934068b0042a35cd0fa897a1]: Commencement: [Sch. 16 para. 35](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/35) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-65612ba59da9a1cfe26c4b3bf7e0eb37]: Commencement: [Sch. 16 para. 36](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/36) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-65612ba59da9a1cfe26c4b3bf7e0eb37]: Commencement: [Sch. 16 para. 36](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/36) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-a36fcf992db76eb0d057240209969b30]: Commencement: [Sch. 16 para. 37](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/37) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-a36fcf992db76eb0d057240209969b30]: Commencement: [Sch. 16 para. 37](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/37) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-2fde262477de8038a906ccea70530ab2]: Commencement: [Sch. 16 para. 38](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/38) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-2fde262477de8038a906ccea70530ab2]: Commencement: [Sch. 16 para. 38](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/38) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-8851e40121c034dbf5087c967ad3a178]: Commencement: [Sch. 16 para. 39](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/39) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-8851e40121c034dbf5087c967ad3a178]: Commencement: [Sch. 16 para. 39](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/39) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-e673387e48059d132300043ec271939c]: Commencement: [Sch. 16 para. 40](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/40) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-e673387e48059d132300043ec271939c]: Commencement: [Sch. 16 para. 40](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/40) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-95f5cc28f82180c5747c289164bef18f]: Commencement: [Sch. 16 para. 41](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/41) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-95f5cc28f82180c5747c289164bef18f]: Commencement: [Sch. 16 para. 41](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/41) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-b8a746f89d55ea59076786fc31c9db44]: Commencement: [Sch. 16 para. 42](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/42) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-b8a746f89d55ea59076786fc31c9db44]: Commencement: [Sch. 16 para. 42](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/42) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-123f1bc3a9a551c84e0eac479d6a52d3]: Commencement: [Sch. 16 para. 43](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/43) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-123f1bc3a9a551c84e0eac479d6a52d3]: Commencement: [Sch. 16 para. 43](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/43) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-e6d42d3120a7f5d87001d8cd3b9911c2]: Commencement: [Sch. 16 para. 44](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/44) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-e6d42d3120a7f5d87001d8cd3b9911c2]: Commencement: [Sch. 16 para. 44](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/44) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-81219841dd0cd9519452a257bcd5e718]: Commencement: [Sch. 16 para. 45](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/45) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-81219841dd0cd9519452a257bcd5e718]: Commencement: [Sch. 16 para. 45](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/45) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-83448856b66fae9f93ff6f3eaa407f0b]: Commencement: [Sch. 16 para. 46](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/46) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-83448856b66fae9f93ff6f3eaa407f0b]: Commencement: [Sch. 16 para. 46](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/46) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-9e364e2cc2ef9c1d477feb6952312d2a]: Commencement: [Sch. 16 para. 47](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/47) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-9e364e2cc2ef9c1d477feb6952312d2a]: Commencement: [Sch. 16 para. 47](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/47) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-726580b69088269ab9af1e5d39e9fe06]: Commencement: [Sch. 16 para. 48](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/48) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-726580b69088269ab9af1e5d39e9fe06]: Commencement: [Sch. 16 para. 48](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/48) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-8259bed21c380636f59ef0363387d09f]: Commencement: [Sch. 16 para. 49](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/49) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-8259bed21c380636f59ef0363387d09f]: Commencement: [Sch. 16 para. 49](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/49) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-e6df321f3bc358eab888ef84ab5c5828]: Commencement: [Sch. 16 para. 50](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/50) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-e6df321f3bc358eab888ef84ab5c5828]: Commencement: [Sch. 16 para. 50](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/50) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-5e829dd710b3f80da8a196f8479efeac]: Commencement: [Sch. 16 para. 51](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/51) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-5e829dd710b3f80da8a196f8479efeac]: Commencement: [Sch. 16 para. 51](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/51) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-7e4192023c9ac6eb43f0d9987f4841ad]: Commencement: [Sch. 16 para. 52](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/52) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-7e4192023c9ac6eb43f0d9987f4841ad]: Commencement: [Sch. 16 para. 52](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/52) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-931667a04211537d706b6f2c2f9b103d]: Commencement: [Sch. 16 para. 53(1)-(5)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/53/1) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-931667a04211537d706b6f2c2f9b103d]: Commencement: [Sch. 16 para. 53(1)-(5)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/53/1) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-5b5fbc246f2ea2ed52d306550f823394]: Commencement: [Sch. 16 para. 53(6)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/53/6) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(t)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/t/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-5b5fbc246f2ea2ed52d306550f823394]: Commencement: [Sch. 16 para. 53(6)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/53/6) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(t)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/t/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-99ae85029e588ebadb5f131e68c0f8fb]: Commencement: [Sch. 16 para. 54](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/54) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(t)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/t/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-99ae85029e588ebadb5f131e68c0f8fb]: Commencement: [Sch. 16 para. 54](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/54) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(t)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/t/iii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-9fc23c9896af4242248834b1aee6b567]: Commencement: [Sch. 16 para. 55](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/55) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-9fc23c9896af4242248834b1aee6b567]: Commencement: [Sch. 16 para. 55](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/55) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-75ae331296eb8908f0880187bb1a85e3]: Commencement: [Sch. 16 para. 56](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/56) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-75ae331296eb8908f0880187bb1a85e3]: Commencement: [Sch. 16 para. 56](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/56) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-8b982d0bac3fdc9b4ed5284995cabc7e]: Commencement: [Sch. 16 para. 57](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/57) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-8b982d0bac3fdc9b4ed5284995cabc7e]: Commencement: [Sch. 16 para. 57](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/57) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-312baee2c851a5e0b46642b1eefdc2f3]: Commencement: [Sch. 16 para. 58](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/58) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-312baee2c851a5e0b46642b1eefdc2f3]: Commencement: [Sch. 16 para. 58](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/58) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-95cc5844f7ec11fec3f2b3d043f3695d]: Commencement: [Sch. 16 para. 59](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/59) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-95cc5844f7ec11fec3f2b3d043f3695d]: Commencement: [Sch. 16 para. 59](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/59) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-5c543fc132362ca3fdb627d3cf4742db]: Commencement: [Sch. 16 para. 60](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/60) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-5c543fc132362ca3fdb627d3cf4742db]: Commencement: [Sch. 16 para. 60](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/60) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-87b2cc442b8ee8e8ba4795a115f97a59]: Commencement: [Sch. 16 para. 61](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/61) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-87b2cc442b8ee8e8ba4795a115f97a59]: Commencement: [Sch. 16 para. 61](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/61) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-60ca7e2a28a49d0ac1b9b77fb81618b5]: Commencement: [Sch. 16 para. 62](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/62) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-60ca7e2a28a49d0ac1b9b77fb81618b5]: Commencement: [Sch. 16 para. 62](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/62) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-02f3520440c7daab570919e33d9e7c61]: Commencement: [Sch. 16 para. 63](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/63) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-02f3520440c7daab570919e33d9e7c61]: Commencement: [Sch. 16 para. 63](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/63) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-c298235978b73501644383ad931ac4d2]: Commencement: [Sch. 16 para. 64](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/64) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-c298235978b73501644383ad931ac4d2]: Commencement: [Sch. 16 para. 64](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/64) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-61bb939f4dfa2a0cc0461dc5d081e0c7]: Commencement: [Sch. 16 para. 65](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/65) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-61bb939f4dfa2a0cc0461dc5d081e0c7]: Commencement: [Sch. 16 para. 65](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/65) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-a9f6dcd9b0e88ded3e236dc995218041]: Commencement: [Sch. 16 para. 66](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/66) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-a9f6dcd9b0e88ded3e236dc995218041]: Commencement: [Sch. 16 para. 66](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/66) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-19b0e4bdeab8c77a0d7d2b21b4e506bb]: Commencement: [Sch. 16 para. 67](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/67) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-19b0e4bdeab8c77a0d7d2b21b4e506bb]: Commencement: [Sch. 16 para. 67](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/67) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-5580dc0d99bee70c0065847b96c9b694]: Commencement: [Sch. 16 para. 68](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/68) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-5580dc0d99bee70c0065847b96c9b694]: Commencement: [Sch. 16 para. 68](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/68) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-f769c1f0ba20134f0ec923613151559b]: Commencement: [Sch. 16 para. 69](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/69) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-f769c1f0ba20134f0ec923613151559b]: Commencement: [Sch. 16 para. 69](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/69) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-68bc734d22797ea4e59c5a6cbd07f840]: Commencement: [Sch. 16 para. 70](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/70) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-68bc734d22797ea4e59c5a6cbd07f840]: Commencement: [Sch. 16 para. 70](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/70) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

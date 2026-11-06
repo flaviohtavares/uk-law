@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Scottish Land Court: remuneration and expenses[^key-5dc2dfced3d01f2af31e60bfde3519b0]
+## 126. Scottish Land Court: remuneration and expenses[^c-5dc2dfced3d01f2af31e60bfde3519b0]
 
 *Extent: S*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dc2dfced3d01f2af31e60bfde3519b0]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2014/18/section/126) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)
+[^c-5dc2dfced3d01f2af31e60bfde3519b0]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2014/18/section/126) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)

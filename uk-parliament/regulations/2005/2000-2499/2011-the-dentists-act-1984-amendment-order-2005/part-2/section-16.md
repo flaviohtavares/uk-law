@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Insertion of section 26A[^key-41f961622f45df3db299ec201481b28f]
+## 16. Insertion of section 26A[^c-41f961622f45df3db299ec201481b28f]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ After section 26 insert—
 
 ## Annotations
 
-[^key-41f961622f45df3db299ec201481b28f]: Commencement: Art. 16 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-41f961622f45df3db299ec201481b28f]: Commencement: Art. 16 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

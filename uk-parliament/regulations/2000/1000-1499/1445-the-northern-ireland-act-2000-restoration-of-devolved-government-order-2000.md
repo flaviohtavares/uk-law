@@ -33,7 +33,7 @@ NORTHERN IRELAND
 
 CONSTITUTIONAL LAW
 
-The Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2000 (revoked)[^key-11ee4bb8d6a2f9706c5c4872154f86a1]
+The Northern Ireland Act 2000 (Restoration of Devolved Government) Order 2000 (revoked)[^c-11ee4bb8d6a2f9706c5c4872154f86a1]
 
 Approved by both Houses of Parliament
 
@@ -49,20 +49,20 @@ Coming into force
 
 30th May 2000
 
-[^key-11ee4bb8d6a2f9706c5c4872154f86a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11ee4bb8d6a2f9706c5c4872154f86a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-11ee4bb8d6a2f9706c5c4872154f86a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-11ee4bb8d6a2f9706c5c4872154f86a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-11ee4bb8d6a2f9706c5c4872154f86a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-11ee4bb8d6a2f9706c5c4872154f86a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11ee4bb8d6a2f9706c5c4872154f86a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11ee4bb8d6a2f9706c5c4872154f86a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-11ee4bb8d6a2f9706c5c4872154f86a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11ee4bb8d6a2f9706c5c4872154f86a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-11ee4bb8d6a2f9706c5c4872154f86a1]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2000/1445) revoked (11.8.2001) by [The Northern Ireland Act 2000 (Suspension of Devolved Government) Order 2001 (S.I. 2001/2884)](https://www.legislation.gov.uk/uksi/2001/2884), [arts. 1](https://www.legislation.gov.uk/uksi/2001/2884/article/1), [2](https://www.legislation.gov.uk/uksi/2001/2884/article/2)
+[^c-11ee4bb8d6a2f9706c5c4872154f86a1]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2000/1445) revoked (11.8.2001) by [The Northern Ireland Act 2000 (Suspension of Devolved Government) Order 2001 (S.I. 2001/2884)](https://www.legislation.gov.uk/uksi/2001/2884), [arts. 1](https://www.legislation.gov.uk/uksi/2001/2884/article/1), [2](https://www.legislation.gov.uk/uksi/2001/2884/article/2)

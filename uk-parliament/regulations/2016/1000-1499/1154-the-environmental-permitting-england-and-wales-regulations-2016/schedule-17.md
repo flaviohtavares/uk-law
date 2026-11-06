@@ -26,7 +26,7 @@ Regulation 35(1)
 
 This Schedule applies in relation to every installation in which titanium dioxide is produced.
 
-### 2. Interpretation[^key-32ff593da40c742215e442484e1ff4cf]
+### 2. Interpretation[^c-32ff593da40c742215e442484e1ff4cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -41,4 +41,4 @@ The regulator must exercise its relevant functions so as to ensure compliance wi
 
 ## Annotations
 
-[^key-32ff593da40c742215e442484e1ff4cf]: Textual amendment: [Sch. 17 para. 2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/17/paragraph/2) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(21)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32ff593da40c742215e442484e1ff4cf]: Textual amendment: [Sch. 17 para. 2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/17/paragraph/2) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(21)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Surcharge for failure to assume liability[^key-1c661871719b5218555e4d795b46c8e4]
+## 80. Surcharge for failure to assume liability[^c-1c661871719b5218555e4d795b46c8e4]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A collecting authority may impose a surcharge of £50 on each person liable to 
 
 ## Annotations
 
-[^key-1c661871719b5218555e4d795b46c8e4]: Commencement: Reg. 80 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-1c661871719b5218555e4d795b46c8e4]: Commencement: Reg. 80 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

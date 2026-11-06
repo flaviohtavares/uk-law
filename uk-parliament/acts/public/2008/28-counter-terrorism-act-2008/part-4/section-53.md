@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Period for which notification requirements apply[^key-37d36338e08920a31415baa5ea1008ef]
+## 53. Period for which notification requirements apply[^c-37d36338e08920a31415baa5ea1008ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
   - (ii) imprisonment for a term of 10 years or more,
   - (iii) an indeterminate custodial sentence under Article 13 of the Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1)),
   - (iv) an extended custodial sentence for a term of 10 years or more under Article 14(5) of that Order (offenders under 21 convicted of certain offences),
-  - (v) detention during the pleasure of the Minister in charge of the Department of Justice[^key-b669dd6f8169731b8ed659c187d7c7c9] under Article 45(1) of the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N.I. 9)).
+  - (v) detention during the pleasure of the Minister in charge of the Department of Justice[^c-b669dd6f8169731b8ed659c187d7c7c9] under Article 45(1) of the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N.I. 9)).
 
 (3) The sentences in respect of which a 15 year period applies are—
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37d36338e08920a31415baa5ea1008ef]: Commencement: S. 53 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-37d36338e08920a31415baa5ea1008ef]: Commencement: S. 53 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
 
-[^key-b669dd6f8169731b8ed659c187d7c7c9]: Textual amendment: Words in s. 53(2)(c)(v) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 91(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/91/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-b669dd6f8169731b8ed659c187d7c7c9]: Textual amendment: Words in s. 53(2)(c)(v) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 91(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/91/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

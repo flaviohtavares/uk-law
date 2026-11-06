@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Duty to publish register of licences[^key-e5a0f69d72b63dac897514f55814f909]
+## 28. Duty to publish register of licences[^c-e5a0f69d72b63dac897514f55814f909]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ in relation to each relevant licence granted by the licensing authority for the 
 
 ## Annotations
 
-[^key-e5a0f69d72b63dac897514f55814f909]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2021/84/regulation/28) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-e5a0f69d72b63dac897514f55814f909]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2021/84/regulation/28) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

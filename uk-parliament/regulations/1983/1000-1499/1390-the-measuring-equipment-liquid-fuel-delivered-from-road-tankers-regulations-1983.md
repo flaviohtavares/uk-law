@@ -59,7 +59,7 @@ The Secretary of State, in exercise of the powers conferred by sections 11(1) an
 
 ### Citation, commencement and revocation
 
-**1.**[^key-b82565b5969a2ca593a80daea8d2ab41] (1) These Regulations may be cited as the Measuring Equipment (Liquid Fuel delivered from Road Tankers) Regulations 1983 and shall come into operation as follows:—
+**1.**[^c-b82565b5969a2ca593a80daea8d2ab41] (1) These Regulations may be cited as the Measuring Equipment (Liquid Fuel delivered from Road Tankers) Regulations 1983 and shall come into operation as follows:—
 
 - (a) all Regulations except Regulations 4, 5, 6, 14(1) and 36, on 14th October 1983;
 - (b) Regulations 4, 5, 14(1) and 36, on 1st July 1984; and
@@ -69,13 +69,13 @@ The Secretary of State, in exercise of the powers conferred by sections 11(1) an
 
 ### Interpretation
 
-**2.**[^key-1cbe211c9b50c9b6aeb5b59fc73a9177] (1) In these Regulations—
+**2.**[^c-1cbe211c9b50c9b6aeb5b59fc73a9177] (1) In these Regulations—
 
-- “**the Act**” means the Weights and Measures Act 1985[^key-15cf80625539fbfd4074460c0c7917ed];
+- “**the Act**” means the Weights and Measures Act 1985[^c-15cf80625539fbfd4074460c0c7917ed];
 - “**approved**” in the expressions “**approved maximum**”, “**approved minimum**” and “**approved working conditions**” means approved in accordance with a pattern in respect of which a certificate of approval is in force or, if the measuring equipment is not made in accordance with such a pattern, approved in accordance with the manufacturer's recommendations;
-- “[^key-2b109430945296e12aa7614762d23bc7]**bottom loaded compartment**” means a compartment which is designed for filling from the bottom and incorporates a dipstick measuring system or a contents gauging system whose calibration includes the volume of pipework between the foot valve and the outlet valve;
+- “[^c-2b109430945296e12aa7614762d23bc7]**bottom loaded compartment**” means a compartment which is designed for filling from the bottom and incorporates a dipstick measuring system or a contents gauging system whose calibration includes the volume of pipework between the foot valve and the outlet valve;
 - “**certificate of approval**” means a certificate of approval of a pattern of measuring equipment granted or renewed by the Secretary of State under section 12 of the Act;
-- “**compartment**” means a single container with which a dipstick forming part of a dipstick measuring system may be associated to measure quantities of liquid fuel or a container associated with a contents gauging system, [^key-3e264e3c56683fb7a0e752f57d74a5c3]... associated pipework between the foot valve and the outlet valve unless specifically stated on a conspicuous notice adjacent to the outlet valve;
+- “**compartment**” means a single container with which a dipstick forming part of a dipstick measuring system may be associated to measure quantities of liquid fuel or a container associated with a contents gauging system, [^c-3e264e3c56683fb7a0e752f57d74a5c3]... associated pipework between the foot valve and the outlet valve unless specifically stated on a conspicuous notice adjacent to the outlet valve;
 - “**compartment number**” means, in the case of a multi-compartment tank, the position of the compartment relative to the front of the vehicle, numbered sequentially from the front of the vehicle;
 - “**contents gauging system**” means any measuring equipment, not being a dipstick measuring system or a meter measuring system, which determines the quantity of liquid fuel delivered from an associated compartment by measuring the height of the free surface of the liquid fuel from a reference point;
 - “**datum face**” means the flat surface of the crosspiece of a dipstick at right angles to the axis of the dipstick formed by the lower face of the crosspiece;
@@ -115,132 +115,132 @@ The Secretary of State, in exercise of the powers conferred by sections 11(1) an
 | Millimetre | mm |
 | Square centimetre | cm<sup>2</sup> |
 | Degree Celsius | °C |
-| Second[^key-731cf247f6a4f971908978a2e5dd1841] | s |
+| Second[^c-731cf247f6a4f971908978a2e5dd1841] | s |
 | Square millimetre | mm<sup>2</sup> |
 
 ### Application
 
-**3.**[^key-921a2f6fcbfb118e65b6aa32f71857f1] (1) Subject to paragraphs (2) and (3) below[^key-aaa9a005829d37dd9e590198b748da49], these Regulations shall apply to all measuring equipment on road tankers for use for trade in the making of any measurement of liquid fuel in a quantity dispensed from the tanker exceeding [^key-0ac53251f31f2f286bba71e75ab070a9]... 100 litres [^key-0ac53251f31f2f286bba71e75ab070a9]....
+**3.**[^c-921a2f6fcbfb118e65b6aa32f71857f1] (1) Subject to paragraphs (2) and (3) below[^c-aaa9a005829d37dd9e590198b748da49], these Regulations shall apply to all measuring equipment on road tankers for use for trade in the making of any measurement of liquid fuel in a quantity dispensed from the tanker exceeding [^c-0ac53251f31f2f286bba71e75ab070a9]... 100 litres [^c-0ac53251f31f2f286bba71e75ab070a9]....
 
 (2) Nothing in these Regulations shall apply to any of the following measuring equipment—
 
-- (a) measuring equipment for use only for the delivery of liquefied gas, lubricating oils, or fuels with a kinematic viscosity exceeding 100 mm[^key-20322e4e4b5ce2195912dbd300e8548b]<sup>2</sup>/s at 15°C; or
+- (a) measuring equipment for use only for the delivery of liquefied gas, lubricating oils, or fuels with a kinematic viscosity exceeding 100 mm[^c-20322e4e4b5ce2195912dbd300e8548b]<sup>2</sup>/s at 15°C; or
 - (b) measuring equipment for use only for the fuelling of aircraft, ships or hovercraft.
 
-(3)[^key-c33d135d0107c6cf6f599a667396e0c5] Except for Regulations 4, 5, 17 and 36 below, these Regulations do not apply to meter measuring systems which bear the mark of EEC initial verification.
+(3)[^c-c33d135d0107c6cf6f599a667396e0c5] Except for Regulations 4, 5, 17 and 36 below, these Regulations do not apply to meter measuring systems which bear the mark of EEC initial verification.
 
 (4) In this Regulation, “mark of EEC initial verification” means the mark described in paragraph 5 of Schedule I to the Measuring Instruments (EEC Requirements) Regulations 1980.
 
-**4.**[^key-0f78c994b7b15b56e746afd9dc5cc715] Measuring equipment to which these Regulations apply is hereby prescribed for the purposes of section 11(1) of the Act.
+**4.**[^c-0f78c994b7b15b56e746afd9dc5cc715] Measuring equipment to which these Regulations apply is hereby prescribed for the purposes of section 11(1) of the Act.
 
 ### Purposes of use for trade
 
-**5.**[^key-ce2380b247ba44b63aa555093894961c] No person shall use for trade a contents gauging system or a meter measuring system except for the purpose of measuring delivered quantities of liquid fuel of not less than the minimum delivery marked on or adjacent to the indicator of the system:
+**5.**[^c-ce2380b247ba44b63aa555093894961c] No person shall use for trade a contents gauging system or a meter measuring system except for the purpose of measuring delivered quantities of liquid fuel of not less than the minimum delivery marked on or adjacent to the indicator of the system:
 
-Provided that this Regulation does not apply where a measurement is made only for the purpose of payments in respect of any customs or excise duty or where a frustrated delivery has taken place and all reasonable precautions have been taken and all due diligence has been exercised to avoid a frustrated delivery[^key-3174a9568426deb0e5cbf9b8aacc48a2].
+Provided that this Regulation does not apply where a measurement is made only for the purpose of payments in respect of any customs or excise duty or where a frustrated delivery has taken place and all reasonable precautions have been taken and all due diligence has been exercised to avoid a frustrated delivery[^c-3174a9568426deb0e5cbf9b8aacc48a2].
 
-**6.**[^key-0a05b63910c4a9a5487c32c686c70509] No person shall use for trade a dipstick measuring system except for the purpose of measuring delivered quantities of liquid fuel of not less than 30% of the nominal capacity marked on the tank of the compartment with which the dipstick is associated:
+**6.**[^c-0a05b63910c4a9a5487c32c686c70509] No person shall use for trade a dipstick measuring system except for the purpose of measuring delivered quantities of liquid fuel of not less than 30% of the nominal capacity marked on the tank of the compartment with which the dipstick is associated:
 
 Provided that this Regulation does not apply where a measurement is made only for the purpose of payments in respect of any customs or excise duty.
 
 ## PART II — PRINCIPLES OF CONSTRUCTION AND MARKING OF MEASURING EQUIPMENT
 
-**7.**[^key-10d57e5f0f3da006d1e1b8a825469022] Measuring equipment to which these Regulations apply shall consist of a contents gauging system, a dipstick measuring system or a meter measuring system.
+**7.**[^c-10d57e5f0f3da006d1e1b8a825469022] Measuring equipment to which these Regulations apply shall consist of a contents gauging system, a dipstick measuring system or a meter measuring system.
 
 ### Contents gauging systems
 
-**8.**[^key-06be6a9eb502baa3dc892094bc21b914] Regulations 9 to 12 below apply to contents gauging systems.
+**8.**[^c-06be6a9eb502baa3dc892094bc21b914] Regulations 9 to 12 below apply to contents gauging systems.
 
-**9.**[^key-1ecc1158a8f21a519e0a1aed6e6564dd] (1) Every contents gauging system shall be made in accordance with a pattern in respect of which a certificate of approval is in force.
+**9.**[^c-1ecc1158a8f21a519e0a1aed6e6564dd] (1) Every contents gauging system shall be made in accordance with a pattern in respect of which a certificate of approval is in force.
 
 (2) Every contents gauging system shall be legibly and durably marked with the number of the certificate of approval, preceded by the words “Certification No.” or “Cert. No.”.
 
-**10.**[^key-2b6c3cd71cbcac18b0ddc3c6428741d4] The minimum delivery and the liquid fuel which a contents gauging system is designed to measure shall be marked legibly, permanently and conspicuously in a suitable position on or adjacent to the sales indicator.
+**10.**[^c-2b6c3cd71cbcac18b0ddc3c6428741d4] The minimum delivery and the liquid fuel which a contents gauging system is designed to measure shall be marked legibly, permanently and conspicuously in a suitable position on or adjacent to the sales indicator.
 
-**11.**[^key-c00d0017772223f491b4aba2ec76b4e1] Every contents gauging system shall be fitted with a sales indicator reading in litres [^key-e7bee9014ab08695f5439b197cb5f0e6]... and so arranged that:
+**11.**[^c-c00d0017772223f491b4aba2ec76b4e1] Every contents gauging system shall be fitted with a sales indicator reading in litres [^c-e7bee9014ab08695f5439b197cb5f0e6]... and so arranged that:
 
 - (a) the indicator reading is capable of being set to zero before a delivery commences; and
 - (b) the indicator reading cannot be advanced by any means other than by the discharge of liquid fuel from the system.
 
-**11A.**[^key-438e7a7102181927ce03f6d1d7a01e21] Any sales indicator reading on a contents gauging system reading in litres may also indicate quantity by means of a supplementary indication [^key-989a5cba3788aeffb806ec01e50c552c]....
+**11A.**[^c-438e7a7102181927ce03f6d1d7a01e21] Any sales indicator reading on a contents gauging system reading in litres may also indicate quantity by means of a supplementary indication [^c-989a5cba3788aeffb806ec01e50c552c]....
 
-**12.**[^key-e44a43fb768c06d037c756c7e4a978d6] Every contents gauging system shall incorporate a ticket printing mechanism to enable a ticket to be issued indicating the quantity of liquid fuel delivered in each transaction.
+**12.**[^c-e44a43fb768c06d037c756c7e4a978d6] Every contents gauging system shall incorporate a ticket printing mechanism to enable a ticket to be issued indicating the quantity of liquid fuel delivered in each transaction.
 
 ### Meter measuring systems
 
-**13.**[^key-59e57ffef31e2387d1af826754ef1aa0] Regulations 14 to 17 below apply to meter measuring systems.
+**13.**[^c-59e57ffef31e2387d1af826754ef1aa0] Regulations 14 to 17 below apply to meter measuring systems.
 
-**14.**[^key-46b4ba79937383d491e78c6795733021][^key-00715e7f0db6afaf32bc4dd67038dcc9] (1)[^key-46b4ba79937383d491e78c6795733021] Every meter measuring system shall be made in accordance with a pattern in respect of which a certificate of approval is in force.
+**14.**[^c-46b4ba79937383d491e78c6795733021][^c-00715e7f0db6afaf32bc4dd67038dcc9] (1)[^c-46b4ba79937383d491e78c6795733021] Every meter measuring system shall be made in accordance with a pattern in respect of which a certificate of approval is in force.
 
-(2)[^key-00715e7f0db6afaf32bc4dd67038dcc9] Notwithstanding paragraph (1) above, a meter measuring system which does not comply with that paragraph at 1st July 1984 may continue to be tested and stamped and used for trade until 1st July 1987 if it has before 1st July 1984 been passed as fit for use for trade in accordance with these Regulations.
+(2)[^c-00715e7f0db6afaf32bc4dd67038dcc9] Notwithstanding paragraph (1) above, a meter measuring system which does not comply with that paragraph at 1st July 1984 may continue to be tested and stamped and used for trade until 1st July 1987 if it has before 1st July 1984 been passed as fit for use for trade in accordance with these Regulations.
 
-(3)[^key-00715e7f0db6afaf32bc4dd67038dcc9] Every meter measuring system made in accordance with a pattern as mentioned in paragraph (1) above shall be legibly and durably marked with the number of the certificate of approval, preceded by the words “Certification No.” or “Cert. No.”.
+(3)[^c-00715e7f0db6afaf32bc4dd67038dcc9] Every meter measuring system made in accordance with a pattern as mentioned in paragraph (1) above shall be legibly and durably marked with the number of the certificate of approval, preceded by the words “Certification No.” or “Cert. No.”.
 
-**15.**[^key-a3ba634af4211894da445eb9a44cbf35] The minimum delivery, the liquid fuel which a meter measuring system is designed to measure and the minimum and maximum rates of flow shall be marked legibly, permanently and conspicuously in a suitable position on or adjacent to the meter.
+**15.**[^c-a3ba634af4211894da445eb9a44cbf35] The minimum delivery, the liquid fuel which a meter measuring system is designed to measure and the minimum and maximum rates of flow shall be marked legibly, permanently and conspicuously in a suitable position on or adjacent to the meter.
 
-**16.**[^key-669522323dde5850d09659c880baddf2] Every meter measuring system shall be fitted with a sales indicator reading in litres [^key-2e5d1aac696faebb14625a046e20c42c]... and so arranged that:
+**16.**[^c-669522323dde5850d09659c880baddf2] Every meter measuring system shall be fitted with a sales indicator reading in litres [^c-2e5d1aac696faebb14625a046e20c42c]... and so arranged that:
 
 - (a) the indicator reading is capable of being set to zero before a delivery commences; and
 - (b) the indicator reading cannot be advanced by any means other than by the discharge of liquid fuel from the system.
 
-**16A.**[^key-fc9538e137f153c83397dae99ded71dd] Any sales indicator reading on a meter measuring system reading in litres may also indicate quantity by means of a supplementary indication [^key-fbc34106d481afc628ed4180ff16bb5a]....
+**16A.**[^c-fc9538e137f153c83397dae99ded71dd] Any sales indicator reading on a meter measuring system reading in litres may also indicate quantity by means of a supplementary indication [^c-fbc34106d481afc628ed4180ff16bb5a]....
 
-**17.**[^key-35687d28c6aab719976a13aee07905de] Every meter measuring system shall incorporate a ticket printing mechanism to enable a ticket to be issued indicating either the quantity of liquid fuel delivered in each transaction or two numbers from which the quantity delivered may readily be calculated.
+**17.**[^c-35687d28c6aab719976a13aee07905de] Every meter measuring system shall incorporate a ticket printing mechanism to enable a ticket to be issued indicating either the quantity of liquid fuel delivered in each transaction or two numbers from which the quantity delivered may readily be calculated.
 
 ### Dipstick measuring systems
 
-**18.**[^key-1a35350cda9b0a1cf69bd41a7cfa1e97] Regulations 19 to 35 below apply to dipstick measuring systems.
+**18.**[^c-1a35350cda9b0a1cf69bd41a7cfa1e97] Regulations 19 to 35 below apply to dipstick measuring systems.
 
-**19.**[^key-93d39c0ca14d9c9f656a18ca8abe59cd] Every dipstick shall relate to, and be used for measuring the quantity of fuel in, one compartment only.
+**19.**[^c-93d39c0ca14d9c9f656a18ca8abe59cd] Every dipstick shall relate to, and be used for measuring the quantity of fuel in, one compartment only.
 
-**19A.**[^key-76de2cf0b65c93e0e53f548a344f489b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19A.**[^c-76de2cf0b65c93e0e53f548a344f489b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-31f237bddf41fd16201c15e1f1e38117] (1) Every dipstick shall consist of a blade and a crosspiece.
+**20.**[^c-31f237bddf41fd16201c15e1f1e38117] (1) Every dipstick shall consist of a blade and a crosspiece.
 
 (2) The blade shall be made of hard wood treated to reduce absorption, glass-reinforced plastic or other material approved by the Secretary of State.
 
 (3) The blade shall be free from flaws and sufficiently straight to be satisfactory for measurement.
 
-(4) Subject to paragraph (6) below, the blade shall extend to within 20 mm of the tank shell[^key-c69d68092855b7aff6bd89093c8d5846] beneath the dipstick but not so as to touch the tank shell:
+(4) Subject to paragraph (6) below, the blade shall extend to within 20 mm of the tank shell[^c-c69d68092855b7aff6bd89093c8d5846] beneath the dipstick but not so as to touch the tank shell:
 
 Provided that for compartments the use of which commenced before 1st July 1980 this paragraph shall have effect as if for “20 mm” there were substituted “25 mm”.
 
-(5) Subject to paragraph (6) below, the blade of a dipstick associated with a top loaded compartment[^key-5aab973a3b3965802c8ef5f2578d6940] shall be sufficiently long so that it will indicate when the compartment contains liquid fuel equal to 0.5% of the nominal capacity of the compartment.
+(5) Subject to paragraph (6) below, the blade of a dipstick associated with a top loaded compartment[^c-5aab973a3b3965802c8ef5f2578d6940] shall be sufficiently long so that it will indicate when the compartment contains liquid fuel equal to 0.5% of the nominal capacity of the compartment.
 
-(6) In the case of top loaded[^key-1644d0b53ad367dd396c5a943fa8c4be] compartments the use of which commenced before 1st July 1983—
+(6) In the case of top loaded[^c-1644d0b53ad367dd396c5a943fa8c4be] compartments the use of which commenced before 1st July 1983—
 
 - (a) the blade shall only have to comply with either the requirements of paragraph (4) above or those of paragraph (5);
 - (b) if the blade does not comply with the requirements of both paragraphs (4) and (5) above, the dipstick measuring system shall not be used for trade after 31st December 1993.
 
-(7)[^key-a04cc743cc4037a46d91afe1b05e5e9f] The blades of all dipsticks associated with bottom loaded compartments shall be sufficiently long so that the total amount of liquid fuel in the tank which cannot be indicated by the dipsticks does not exceed 0.7% of the total nominal capacities of the compartments:
+(7)[^c-a04cc743cc4037a46d91afe1b05e5e9f] The blades of all dipsticks associated with bottom loaded compartments shall be sufficiently long so that the total amount of liquid fuel in the tank which cannot be indicated by the dipsticks does not exceed 0.7% of the total nominal capacities of the compartments:
 
 Provided that for compartments the use of which commenced before 1st January 1986 this paragraph shall have effect as if for “0.7%” there were substituted “1%”.
 
-**21.**[^key-0d1108bafffd5823e29f7c3376c09f82] The cross-sectional area of a dipstick shall not exceed 5 cm>2>.
+**21.**[^c-0d1108bafffd5823e29f7c3376c09f82] The cross-sectional area of a dipstick shall not exceed 5 cm>2>.
 
-**22.**[^key-6f7f7586e8febf35d95d26b9143eb3b6] Every dipstick blade made from glass-reinforced plastic or other materials which it is not practicable to stamp shall have a metal rivet suitable for receiving the stamp rivetted into the blade adjacent to the line 50 mm below the datum face referred to in Regulation 27 below.
+**22.**[^c-6f7f7586e8febf35d95d26b9143eb3b6] Every dipstick blade made from glass-reinforced plastic or other materials which it is not practicable to stamp shall have a metal rivet suitable for receiving the stamp rivetted into the blade adjacent to the line 50 mm below the datum face referred to in Regulation 27 below.
 
-**23.**[^key-9dff871c5a01a0abe8446235fa283cf6] (1) The crosspiece of every dipstick shall be made of metal or other material approved by the Secretary of State and shall be positively located and securely fixed to the blade to withstand fair wear and tear in ordinary use for trade.
+**23.**[^c-9dff871c5a01a0abe8446235fa283cf6] (1) The crosspiece of every dipstick shall be made of metal or other material approved by the Secretary of State and shall be positively located and securely fixed to the blade to withstand fair wear and tear in ordinary use for trade.
 
 (2) If the crosspiece is made in two parts they shall be spigotted together.
 
 (3) The datum face shall be flat and at right angles to the axis of the blade.
 
-**24.**[^key-b7b525ceba6720383fe207a9033ecd30] (1) The unit of measurement to be used in marking a dipstick shall be [^key-7f4a3661aa80e9196e4d6720976b5465]... the litre [^key-7f4a3661aa80e9196e4d6720976b5465]....
+**24.**[^c-b7b525ceba6720383fe207a9033ecd30] (1) The unit of measurement to be used in marking a dipstick shall be [^c-7f4a3661aa80e9196e4d6720976b5465]... the litre [^c-7f4a3661aa80e9196e4d6720976b5465]....
 
 (2) The unit shall be marked on the dipstick at each end of the scale referred to in Regulation 28 below, beneath the crosspiece on the graduated face of the blade in letters and figures not less than 6 mm high.
 
 (3) Where the unit of measurement is the litre, if the number of digits on any marking would exceed four (9999) the marking may read “litres × 10” or “litres × 100”
 
-**25.**[^key-8a96464baa5415448ebab3fe25fb8d0c] The related compartment number shall be marked on the graduated face of every dipstick at each end of the blade in figures not less than 10 mm high.
+**25.**[^c-8a96464baa5415448ebab3fe25fb8d0c] The related compartment number shall be marked on the graduated face of every dipstick at each end of the blade in figures not less than 10 mm high.
 
-**26.**[^key-f1da634407834bc87b39d7bda591a3f1] The related tank number shall be marked at the crosspiece end of the blade of every dipstick in figures and letters[^key-7782dea07fdd01213bbb06f64dd47cbf] not less than 6 mm high.
+**26.**[^c-f1da634407834bc87b39d7bda591a3f1] The related tank number shall be marked at the crosspiece end of the blade of every dipstick in figures and letters[^c-7782dea07fdd01213bbb06f64dd47cbf] not less than 6 mm high.
 
-**26A.**[^key-e0489a66c29ca689c2a39960723fd4ea] Every dipstick associated with a bottom loaded compartment shall be marked with the letters “BLV” before the related tank number and on the graduated face of the dipstick at the other end of the blade.
+**26A.**[^c-e0489a66c29ca689c2a39960723fd4ea] Every dipstick associated with a bottom loaded compartment shall be marked with the letters “BLV” before the related tank number and on the graduated face of the dipstick at the other end of the blade.
 
-**27.**[^key-b7028db353ed8d7bd86e14a2d588bfeb] Every dipstick shall have a line marked on its graduated face, at right angles to the axis of its blade 50 mm from the datum face measured to the further edge of that line.
+**27.**[^c-b7028db353ed8d7bd86e14a2d588bfeb] Every dipstick shall have a line marked on its graduated face, at right angles to the axis of its blade 50 mm from the datum face measured to the further edge of that line.
 
-**28.**[^key-8e4e537ab60ede5745d909d784fc9702] Every dipstick used to measure deliveries of less than a full compartment shall be marked and graduated in accordance with the following provisions of this Regulation:—
+**28.**[^c-8e4e537ab60ede5745d909d784fc9702] Every dipstick used to measure deliveries of less than a full compartment shall be marked and graduated in accordance with the following provisions of this Regulation:—
 
 - (a) the graduation shall be in a reasonable and convenient scale;
 - (b) all scale marks, letters and figures shall be legibly and permanently marked;
@@ -255,7 +255,7 @@ Provided that for compartments the use of which commenced before 1st January 198
   Provided that in the case of compartments the use of which commenced before 1st January 1981 one additional scale mark may be included to indicate the nominal capacity of the compartment; and
 - (j) the bottom two and top three major scale divisions may be subdivided with subdivisions of equal value.
 
-**29.**[^key-33d5d24dd91b855ec43b8dafef2fffa0] (1) Every compartment shall be fitted with a fixed vertical dipstick guide tube.
+**29.**[^c-33d5d24dd91b855ec43b8dafef2fffa0] (1) Every compartment shall be fitted with a fixed vertical dipstick guide tube.
 
 (2) The tube shall be positioned so that the dipstick shall pass as nearly as practicable through the longitudinal and transverse centre lines of the compartment:
 
@@ -264,39 +264,39 @@ Provided that—
 - (a) this paragraph shall not apply in the case of compartments the use of which commenced before 1st July 1983; and
 - (b) if the tube is not so positioned, the dipstick measuring system shall not be used for trade after 31st December 1993.
 
-(3)[^key-4f869763a51e204e8fcfdf89370bdb28] Means shall be provided to prevent a dipstick associated with a bottom loaded compartment being used unless the compartment’s foot valve is open.
+(3)[^c-4f869763a51e204e8fcfdf89370bdb28] Means shall be provided to prevent a dipstick associated with a bottom loaded compartment being used unless the compartment’s foot valve is open.
 
-**30.**[^key-5c495f82c4c825c8cb0b2cf29bb64dfc] (1) The dipstick guide tube throughout its depth of immersion shall—
+**30.**[^c-5c495f82c4c825c8cb0b2cf29bb64dfc] (1) The dipstick guide tube throughout its depth of immersion shall—
 
 - (a) be of not less than 50 mm internal diameter or equivalent cross-sectional area; and
 - (b) have uniform venting of at least 0.01 square metre per metre of length, excluding any gauze covering or retaining clips.
 
 (2) In the case of compartments used for liquid fuel other than petroleum spirit a dipstick guide tube above the level of the liquid may be used, but it shall be of such diameter and length that the dipstick is guided sufficiently near to the vertical plane so that any inaccuracy in the indication of quantity cannot exceed the prescribed limits of error.
 
-**31.**[^key-00a8857ca6dbe5e0a3f594745aa4ac6d] At the top of every dipstick guide tube there shall be provided a flat surface to create a datum surface, which shall consist of an annulus not less than 5 mm in width.
+**31.**[^c-00a8857ca6dbe5e0a3f594745aa4ac6d] At the top of every dipstick guide tube there shall be provided a flat surface to create a datum surface, which shall consist of an annulus not less than 5 mm in width.
 
-**32.**[^key-cb0b8c5fdcb1ade76c8af0208e45eca3] (1) The design of every dipstick guide tube shall be such as to permit the height of the datum surface to be easily and accurately measured from the identified datum point.
+**32.**[^c-cb0b8c5fdcb1ade76c8af0208e45eca3] (1) The design of every dipstick guide tube shall be such as to permit the height of the datum surface to be easily and accurately measured from the identified datum point.
 
 (2) The said height in mm, the tank number and the compartment number shall be marked legibly and permanently on the dipstick guide tube, adjacent to the datum surface.
 
-**33.**[^key-3422f78dc771231c4504c6a56c1d425b] (1) Every compartment number shall be marked—
+**33.**[^c-3422f78dc771231c4504c6a56c1d425b] (1) Every compartment number shall be marked—
 
 - (a) legibly and permanently in line with the dipstick guide tube on the same side of the tank as the outlet valves so that the number is legible from the ground; and
-- (b) legibly, permanently and conspicuously adjacent to the compartment's outlet valve and its foot valve operating mechanism other than any emergency shut down mechanism[^key-20928186a11aaa95f8209c5e573b4e83].
+- (b) legibly, permanently and conspicuously adjacent to the compartment's outlet valve and its foot valve operating mechanism other than any emergency shut down mechanism[^c-20928186a11aaa95f8209c5e573b4e83].
 
 (2) The nominal capacity of each compartment and the minimum quantity of fuel which may be delivered by the use of a dipstick from each compartment shall be marked legibly, permanently and conspicuously on the same side of the tank as the outlet valves with the same unit of measurement as is used for marking the dipstick.
 
 (3) A legible, permanent and conspicuous notice shall be positioned on the same side of the tank as the outlet valves stating that dipsticks should be read at scale marks only.
 
-(4)[^key-0dc88bc11d8d067d574010eceeaf936f] A legible, permanent and conspicuous notice shall be positioned adjacent to the outlet valves on every road tanker which has bottom loaded compartments stating—
+(4)[^c-0dc88bc11d8d067d574010eceeaf936f] A legible, permanent and conspicuous notice shall be positioned adjacent to the outlet valves on every road tanker which has bottom loaded compartments stating—
 
 - (a) that the tanker has bottom loaded compartments;
 - (b) that dipsticks associated with bottom loaded compartments must not be used unless the compartment’s foot valve is open; and
 - (c) the method of indicating whether the foot valve of any bottom loaded compartment is open or closed.
 
-**34.**[^key-ec12d6ea0502c998a021c27944bc20e8] Where more than one compartment discharges through a common outlet manifold means shall be provided to prevent liquid flowing from one compartment into another compartment.
+**34.**[^c-ec12d6ea0502c998a021c27944bc20e8] Where more than one compartment discharges through a common outlet manifold means shall be provided to prevent liquid flowing from one compartment into another compartment.
 
-**35.**[^key-2378c68fd2331e8d6b8e0173da9b506b] (1) Tanks and compartments shall be so constructed that the prescribed limits of error at any scale mark shall not be exceeded whether the adjacent compartments are empty or contain liquid.
+**35.**[^c-2378c68fd2331e8d6b8e0173da9b506b] (1) Tanks and compartments shall be so constructed that the prescribed limits of error at any scale mark shall not be exceeded whether the adjacent compartments are empty or contain liquid.
 
 (2) Every tank shall be made of any metal, alloy or synthetic material that is suitable for the type of liquid contained, and such metal, alloy or synthetic material must possess sufficient strength, durability and stability and a co-efficient of linear expansion not exceeding 25 × 10>−6°>C.
 
@@ -307,16 +307,16 @@ Provided that—
 
 (4) The emptiness of a compartment and its associated discharge pipes shall be easily verifiable.
 
-(5)[^key-7df6ed218567b94df321175a0c71e2be] Means shall be provided to indicate whether the foot valve opening mechanism of a bottom loaded compartment has been activated.
+(5)[^c-7df6ed218567b94df321175a0c71e2be] Means shall be provided to indicate whether the foot valve opening mechanism of a bottom loaded compartment has been activated.
 
 ## PART III — MANNER OF USE FOR TRADE
 
-**36.**[^key-4175b8c659622347cdae934e904fa9bd] (1) Liquid fuel shall not be transferred from one compartment into another during a delivery.
+**36.**[^c-4175b8c659622347cdae934e904fa9bd] (1) Liquid fuel shall not be transferred from one compartment into another during a delivery.
 
 (2) A contents gauging system and a meter measuring system shall be used for trade as follows:—
 
 - (a) the sales indicator shall be set to zero before a delivery commences; and
-- (b)[^key-90cde5d30757f61d1e96d364cace644a] with a ticket printing mechanism which shall be used to provide an individual printed ticket.
+- (b)[^c-90cde5d30757f61d1e96d364cace644a] with a ticket printing mechanism which shall be used to provide an individual printed ticket.
 
 (3) No person shall use for trade a meter measuring system at a rate of flow which is more than its approved maximum or less than its approved minimum rate.
 
@@ -324,59 +324,59 @@ Provided that—
 
 ### Contents gauging systems
 
-**37.**[^key-ac733fe7f14b22eaa84ad29ea12e54b2] Regulations 38 to 42 below apply to contents gauging systems.
+**37.**[^c-ac733fe7f14b22eaa84ad29ea12e54b2] Regulations 38 to 42 below apply to contents gauging systems.
 
-**38.**[^key-c9495820ca79c84f028eb942957eef8a] (1) No contents gauging system shall be tested unless it is installed ready for use and complete with all its parts and ancillary equipment concerned in the operations of measurement and delivery as described in the certificate of approval.
+**38.**[^c-c9495820ca79c84f028eb942957eef8a] (1) No contents gauging system shall be tested unless it is installed ready for use and complete with all its parts and ancillary equipment concerned in the operations of measurement and delivery as described in the certificate of approval.
 
 (2) Every contents gauging system shall be tested by an inspector under the approved working conditions, with a liquid fuel which it is designed to deliver, or with a liquid specified in the certificate of approval.
 
-**39.**[^key-47fe75024ffa14045d01f432e31ac8ca] For the purposes of the performance by an inspector of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of a contents gauging system, a person submitting such a system to an inspector or who an inspector has reasonable cause to believe has possession of such a system for use for trade shall, if requested, provide for the inspector's use such liquids as the inspector may reasonably require, and any liquids so provided shall be returned to the person in question.
+**39.**[^c-47fe75024ffa14045d01f432e31ac8ca] For the purposes of the performance by an inspector of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of a contents gauging system, a person submitting such a system to an inspector or who an inspector has reasonable cause to believe has possession of such a system for use for trade shall, if requested, provide for the inspector's use such liquids as the inspector may reasonably require, and any liquids so provided shall be returned to the person in question.
 
-**40.**[^key-d4257ad3908ba8df795d51bf9965fa5c] An inspector shall test a contents gauging system using—
+**40.**[^c-d4257ad3908ba8df795d51bf9965fa5c] An inspector shall test a contents gauging system using—
 
 - (a) local standards of capacity; or
 - (b) a reference meter; or
 - (c) other equipment, being measures of capacity forming part of a fixed installation or being mounted on a vehicle or trailer, which has been tested in a manner which the inspector considers suitable, and adjusted, within the last twelve months, so as not to have any apparent error.
 
-**41.**[^key-f159ef5e1baaafa53d5729035197460b] (1) An inspector may open any locked or sealed container for the purpose of testing a contents gauging system or for the return of liquid withdrawn during testing, and any liquid so withdrawn shall, upon conclusion of the test, be forthwith returned to the container from which it was withdrawn if the inspector is of the opinion that it is practicable and desirable so to do and the proprietor or person in charge of the equipment does not object; otherwise, it shall be placed in another suitable receptacle reasonably convenient for the purpose and nominated and provided by the proprietor or person in charge of the equipment.
+**41.**[^c-f159ef5e1baaafa53d5729035197460b] (1) An inspector may open any locked or sealed container for the purpose of testing a contents gauging system or for the return of liquid withdrawn during testing, and any liquid so withdrawn shall, upon conclusion of the test, be forthwith returned to the container from which it was withdrawn if the inspector is of the opinion that it is practicable and desirable so to do and the proprietor or person in charge of the equipment does not object; otherwise, it shall be placed in another suitable receptacle reasonably convenient for the purpose and nominated and provided by the proprietor or person in charge of the equipment.
 
 (2) The inspector, if requested, shall give to the proprietor or person in charge of the said equipment a signed and dated statement of the quantity of such liquid withdrawn from the container and returned or placed as aforesaid.
 
-**42.**[^key-0111c647f4a153c4ec7554cd1131203c] An inspector shall securely re-fasten any container opened under Regulation 41(1) above immediately after the conclusion of the test and the return of the liquid withdrawn during testing or its placing in another receptacle; and for this purpose he shall replace any seal or link broken by him in opening the said container with a seal upon which he shall affix the stamp.
+**42.**[^c-0111c647f4a153c4ec7554cd1131203c] An inspector shall securely re-fasten any container opened under Regulation 41(1) above immediately after the conclusion of the test and the return of the liquid withdrawn during testing or its placing in another receptacle; and for this purpose he shall replace any seal or link broken by him in opening the said container with a seal upon which he shall affix the stamp.
 
 ### Meter measuring systems
 
-**43.**[^key-40484b1788c8b2a9468ac78c4d14374c] Regulations 44 to 50 below apply to meter measuring systems.
+**43.**[^c-40484b1788c8b2a9468ac78c4d14374c] Regulations 44 to 50 below apply to meter measuring systems.
 
-**44.**[^key-fa9450501cb0ac912cf8d995d0236a75] (1) No meter measuring system shall be tested unless it is installed ready for use and complete with all its parts and ancillary equipment concerned in the operations of measurement and delivery as described in any certificate of approval.
+**44.**[^c-fa9450501cb0ac912cf8d995d0236a75] (1) No meter measuring system shall be tested unless it is installed ready for use and complete with all its parts and ancillary equipment concerned in the operations of measurement and delivery as described in any certificate of approval.
 
 (2) Every meter measuring system shall be tested by an inspector under the approved working conditions, with a liquid fuel which it is designed to deliver, or with a suitable liquid of similar viscosity.
 
-**45.**[^key-75ef910b30610ab6bc4863f4b600e680] For the purposes of the performance by an inspector of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of a meter measuring system a person submitting such a system to an inspector or who an inspector has reasonable cause to believe has possession of such a system for use for trade shall, if requested, provide for the inspector's use such liquid fuel as the inspector may reasonably require, and any liquid fuel so provided shall be returned to the person in question.
+**45.**[^c-75ef910b30610ab6bc4863f4b600e680] For the purposes of the performance by an inspector of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of a meter measuring system a person submitting such a system to an inspector or who an inspector has reasonable cause to believe has possession of such a system for use for trade shall, if requested, provide for the inspector's use such liquid fuel as the inspector may reasonably require, and any liquid fuel so provided shall be returned to the person in question.
 
-**46.**[^key-2589173159ddc8c00112c4e773141f88] A meter measuring system shall be tested at rates of flow which are not more than the approved maximum and not less than the approved minimum, the rate of flow being maintained as uniform as practicable.
+**46.**[^c-2589173159ddc8c00112c4e773141f88] A meter measuring system shall be tested at rates of flow which are not more than the approved maximum and not less than the approved minimum, the rate of flow being maintained as uniform as practicable.
 
-**47.**[^key-cced25b492f6872b815d76e3aca79a6a] An inspector shall test a meter measuring system using—
+**47.**[^c-cced25b492f6872b815d76e3aca79a6a] An inspector shall test a meter measuring system using—
 
 - (a) local standards of capacity; or
 - (b) a reference meter; or
 - (c) other equipment, being measures of capacity forming part of a fixed installation or being mounted on a vehicle or trailer, which has been tested in a manner which the inspector considers suitable, and adjusted, within the last twelve months, so as not to have any apparent error.
 
-**48.**[^key-8bb8a15d7b7e2835f6427b71c206eec5] (1) An inspector may open any locked or sealed container for the purpose of testing a meter measuring system or for the return of liquid withdrawn during testing, and any liquid so withdrawn shall, upon conclusion of the test, be forthwith returned to the container from which it was withdrawn if the inspector is of the opinion that it is practicable and desirable so to do and the proprietor or person in charge of the equipment does not object; otherwise, it shall be placed in another suitable receptacle reasonably convenient for the purpose and nominated and provided by the proprietor or person in charge of the equipment.
+**48.**[^c-8bb8a15d7b7e2835f6427b71c206eec5] (1) An inspector may open any locked or sealed container for the purpose of testing a meter measuring system or for the return of liquid withdrawn during testing, and any liquid so withdrawn shall, upon conclusion of the test, be forthwith returned to the container from which it was withdrawn if the inspector is of the opinion that it is practicable and desirable so to do and the proprietor or person in charge of the equipment does not object; otherwise, it shall be placed in another suitable receptacle reasonably convenient for the purpose and nominated and provided by the proprietor or person in charge of the equipment.
 
 (2) The inspector, if requested, shall give to the proprietor or person in charge of the said equipment a signed and dated statement of the quantity of such liquid withdrawn from the container and returned or placed as aforesaid.
 
-**49.**[^key-828c72f2bdd4bfac7879810fc39d3b57] An inspector shall securely re-fasten any container opened under Regulation 48(1) above immediately after the conclusion of the test and the return of any liquid withdrawn during testing or its placing in another receptacle; and for this purpose he shall replace any seal or link broken by him in opening the said container with a seal upon which he shall affix the stamp.
+**49.**[^c-828c72f2bdd4bfac7879810fc39d3b57] An inspector shall securely re-fasten any container opened under Regulation 48(1) above immediately after the conclusion of the test and the return of any liquid withdrawn during testing or its placing in another receptacle; and for this purpose he shall replace any seal or link broken by him in opening the said container with a seal upon which he shall affix the stamp.
 
-**50.**[^key-7236282da9c943ddae87342802822391] (1) An inspector shall not test a meter measuring system in accordance with this Part of these Regulations where an occurrence of the type mentioned in Regulation 65 below has occurred, unless having tested the operation of the meter and gas separator, he concludes that further testing of the accuracy of the system is necessary.
+**50.**[^c-7236282da9c943ddae87342802822391] (1) An inspector shall not test a meter measuring system in accordance with this Part of these Regulations where an occurrence of the type mentioned in Regulation 65 below has occurred, unless having tested the operation of the meter and gas separator, he concludes that further testing of the accuracy of the system is necessary.
 
 (2) An inspector shall not test a meter measuring system in accordance with this Part of these Regulations where an occurrence of the type mentioned in Regulation 66 below has occurred; in such a case he shall test the system in such way as he considers appropriate to establish the correct operation of its parts affected by the occurrence or, where appropriate, their replacements.
 
 ### Dipstick measuring systems
 
-**51.**[^key-c64cc2234e4332e90f39c385673c17fa] Regulations 52 to 55 below apply to dipstick measuring systems.
+**51.**[^c-c64cc2234e4332e90f39c385673c17fa] Regulations 52 to 55 below apply to dipstick measuring systems.
 
-**52.**[^key-c90ed644a52a9b1031dcc4227b56e370] (1) —
+**52.**[^c-c90ed644a52a9b1031dcc4227b56e370] (1) —
 
 - (a) Except in the case of a dipstick tested by reference to a calibration chart as mentioned in paragraph (2) below, a dipstick associated with a compartment shall be tested by inserting into, or withdrawing from, the compartment known volumes of liquid and determining the position of the scale mark on the dipstick when the road tanker is on a level surface
 - (b) The known volumes in paragraph (a) above shall be determined using—
@@ -390,9 +390,9 @@ Provided that—
 
 (4) Not more than two dipsticks relating to a compartment forming part of a dipstick measuring system may be passed as fit for use for trade on any one occasion.
 
-**53.**[^key-ade7f6da84df91f90d0901c1a2bdc030] For the purposes of the performance by an inspector of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of a dipstick measuring system a person submitting such a system to an inspector or who an inspector has reasonable cause to believe has possession of such a system for use for trade shall, if requested, provide for the inspector's use such products as the inspector may reasonably require, and any products so provided shall be returned to the person in question.
+**53.**[^c-ade7f6da84df91f90d0901c1a2bdc030] For the purposes of the performance by an inspector of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of a dipstick measuring system a person submitting such a system to an inspector or who an inspector has reasonable cause to believe has possession of such a system for use for trade shall, if requested, provide for the inspector's use such products as the inspector may reasonably require, and any products so provided shall be returned to the person in question.
 
-**54.**[^key-faa5c097b79678f2f6fe181f261277b8] An inspector shall use, in testing any dimensional measurement in a dipstick measuring system—
+**54.**[^c-faa5c097b79678f2f6fe181f261277b8] An inspector shall use, in testing any dimensional measurement in a dipstick measuring system—
 
 - (a) a rigid local standard of length; or
 - (b) a material measure of length to which Council DirectiveNo[73/362/EEC](https://www.legislation.gov.uk/european/directive/1973/0362)[^f00004] applies bearing the mark of EEC initial verification and an indication that it is of accuracy class I which—
@@ -403,20 +403,20 @@ Provided that—
   - (ii) has been tested in a manner which the inspector considers suitable within the previous 10 years and found not to have errors in excess or in deficiency of 0.25 mm per whole metre or part of a metre; or
 - (d) other equipment for measuring length of suitable form and durability which has been tested in a manner which the inspector considers suitable and found not to have any error in excess or in deficiency of 0.25 mm per whole metre or part of a metre.
 
-**55.**[^key-20e04892e0a29b19e6599c39eeffa830] Tanks submitted for testing shall be clean.
+**55.**[^c-20e04892e0a29b19e6599c39eeffa830] Tanks submitted for testing shall be clean.
 
-#### 55A. Measuring equipment imported from a member State or an EEA State[^key-67a0f942609e87754e5012ae6e85da42][^key-5e2f0c817c1bb6bfc768c3c57f5a9ba5]
+#### 55A. Measuring equipment imported from a member State or an EEA State[^c-67a0f942609e87754e5012ae6e85da42][^c-5e2f0c817c1bb6bfc768c3c57f5a9ba5]
 
-(1) In relation to measuring equipment imported into Great Britain from a member State[^key-1a0fc6e3ab61efcc522fcbb7a88c4c53] or from an EEA State, subject to paragraph (4) below, an inspector shall not carry out any test in accordance with the foregoing provisions of this Part of these Regulations if, together with the measuring equipment being imported, he is presented with the requisite documentation.
+(1) In relation to measuring equipment imported into Great Britain from a member State[^c-1a0fc6e3ab61efcc522fcbb7a88c4c53] or from an EEA State, subject to paragraph (4) below, an inspector shall not carry out any test in accordance with the foregoing provisions of this Part of these Regulations if, together with the measuring equipment being imported, he is presented with the requisite documentation.
 
 (2) In this Regulation and in Regulation 57(2) below—
 
 - (a) “requisite documentation” means—
   - (i) the test report of an approved body stating that the measuring equipment which is the subject of that report has been tested in accordance with the tests mentioned in this Part of these Regulations and stating which tests have been applied to that measuring equipment; and
   - (ii) the test results relating to those tests; and
-- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^key-7a4ee8da0aa4fe0aa53f85a2a49a79f2]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
+- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^c-7a4ee8da0aa4fe0aa53f85a2a49a79f2]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
 
-(3)[^key-8fa19b81e6583ed7a528aa106f6b9bb8] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of measuring equipment on road tankers or is a laboratory which has been accredited for the purposes of testing measuring equipment on road tankers in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
+(3)[^c-8fa19b81e6583ed7a528aa106f6b9bb8] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of measuring equipment on road tankers or is a laboratory which has been accredited for the purposes of testing measuring equipment on road tankers in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
 
 (4) Nothing in these Regulations shall prevent an inspector testing in accordance with the foregoing provisions of this Part of these Regulations where he is not satisfied—
 
@@ -427,7 +427,7 @@ Provided that—
 
 ### Prescribed limits of error
 
-**56.**[^key-0e8e6d197c165c06338b0a32a60c7cd6] (1) The prescribed limits of error relating to a contents gauging system or a meter measuring system shall be 0.5% of the indicated quantity:
+**56.**[^c-0e8e6d197c165c06338b0a32a60c7cd6] (1) The prescribed limits of error relating to a contents gauging system or a meter measuring system shall be 0.5% of the indicated quantity:
 
 Provided that
 
@@ -443,7 +443,7 @@ Provided that
 
 ### Passing as fit for use for trade
 
-**57.**[^key-6179d76f80897703d7b0993f8cc51fac] (1) Save in a case of measuring equipment imported from a member State[^key-6d16dcbd1e79b69de289439182d79786] or an EEA State, no measuring equipment shall be passed as fit for use for trade unless—
+**57.**[^c-6179d76f80897703d7b0993f8cc51fac] (1) Save in a case of measuring equipment imported from a member State[^c-6d16dcbd1e79b69de289439182d79786] or an EEA State, no measuring equipment shall be passed as fit for use for trade unless—
 
 - (a) it complies with all the appropriate requirements of these Regulations; and
 - (b) on testing it falls within the prescribed limits of error.
@@ -456,23 +456,23 @@ Provided that
 
 ### Stamping
 
-**58.**[^key-88e7c1a7656f23dfee2e3d4e4dae0fe7] (1) Every contents gauging system shall be provided with such sealing arrangements as may be authorised by the Secretary of State in relation to the pattern in accordance with which the measuring equipment is made as set out in the certificate of approval in force.
+**58.**[^c-88e7c1a7656f23dfee2e3d4e4dae0fe7] (1) Every contents gauging system shall be provided with such sealing arrangements as may be authorised by the Secretary of State in relation to the pattern in accordance with which the measuring equipment is made as set out in the certificate of approval in force.
 
 (2) Every meter measuring system shall be provided with one or more plugs, seals or sealing devices of suitable form and material to protect all stops and other adjustable parts affecting the quantity delivered, or with such alternative sealing arrangements as may be authorised by the Secretary of State in relation to the pattern in accordance with which the measuring equipment is made as set out in any certificate of approval in force.
 
 (3) The stamp shall be placed on every such plug, seal or sealing device referred to in paragraph (2) above and every other sealing device authorised in accordance with paragraph (1) or (2) above.
 
-**59.**[^key-19a3c8a033d7607831b18fa1c9650473] In the case of a dipstick measuring system the stamp shall be placed on the graduated face of the dipstick blade adjacent to the line 50 mm below the datum face referred to in Regulation 27 above or, where applicable, on the metal rivet referred to in Regulation 22 above, and adjacent to the datum surface.
+**59.**[^c-19a3c8a033d7607831b18fa1c9650473] In the case of a dipstick measuring system the stamp shall be placed on the graduated face of the dipstick blade adjacent to the line 50 mm below the datum face referred to in Regulation 27 above or, where applicable, on the metal rivet referred to in Regulation 22 above, and adjacent to the datum surface.
 
-**60.**[^key-1573f56c4838ce64fdc7f4735262ebc8] No measuring equipment shall be stamped in accordance with Regulation 58(3) or 59 above, if it bears any mark which, in the opinion of the inspector, might reasonably be mistaken for the stamp.
+**60.**[^c-1573f56c4838ce64fdc7f4735262ebc8] No measuring equipment shall be stamped in accordance with Regulation 58(3) or 59 above, if it bears any mark which, in the opinion of the inspector, might reasonably be mistaken for the stamp.
 
 ### Obliteration of stamps
 
-**61.**[^key-41ef1147441557fb7d3d6a65baae7409] Stamps shall be obliterated by an inspector, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration:
+**61.**[^c-41ef1147441557fb7d3d6a65baae7409] Stamps shall be obliterated by an inspector, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration:
 
 [image: see source](https://www.legislation.gov.uk/uksi/1983/1390/images/go000057)
 
-**62.**[^key-4838bb41c234fea0eb073239cd234864] An inspector shall obliterate the stamp on any measuring equipment which—
+**62.**[^c-4838bb41c234fea0eb073239cd234864] An inspector shall obliterate the stamp on any measuring equipment which—
 
 - (a) fails upon testing—
   - (i) in the case of a contents gauging system or a meter measuring system, to fall within the prescribed limits of error in deficiency, or within twice the prescribed limits of error in excess, specified in Regulation 56(1) above as appropriate to the case; or
@@ -481,9 +481,9 @@ Provided that
 
   Provided that where any measuring equipment does not fully comply with the requirements of these Regulations, but the nature or degree of the non- compliance is not in the inspector's opinion such as to require the immediate obliteration of the stamp, he shall give to the proprietor or any person in possession of the equipment a notice calling on him to have the equipment corrected within a stated period not exceeding 28 days, and shall obliterate the stamp if the correction has not been made within the stated period.
 
-**63.**[^key-1ce60e8eb23c07805a967714f08156af] An inspector shall obliterate the stamp on any measuring equipment which has, since it was last stamped, had any adjustment, alteration, addition, repair or replacement[^M_F_a9973d86-c765-4889-d69f-68d223f215d7] made to it such that it could not be passed as fit for use for trade under Regulation 57 above.
+**63.**[^c-1ce60e8eb23c07805a967714f08156af] An inspector shall obliterate the stamp on any measuring equipment which has, since it was last stamped, had any adjustment, alteration, addition, repair or replacement[^M_F_a9973d86-c765-4889-d69f-68d223f215d7] made to it such that it could not be passed as fit for use for trade under Regulation 57 above.
 
-**64.**[^key-c97c2888d061df8838c03ceb3257f3f5] (1) Subject to paragraphs (2) and (3) below, for the purposes of these Regulations the obliteration of any one stamp on any measuring equipment shall be deemed to be the obliteration of all other stamps on that equipment except where the stamp has been lawfully obliterated under Regulation 65 or 66 below.
+**64.**[^c-c97c2888d061df8838c03ceb3257f3f5] (1) Subject to paragraphs (2) and (3) below, for the purposes of these Regulations the obliteration of any one stamp on any measuring equipment shall be deemed to be the obliteration of all other stamps on that equipment except where the stamp has been lawfully obliterated under Regulation 65 or 66 below.
 
 (2) Where a stamp is obliterated on a dipstick, this Regulation shall not apply so as to prevent the use of a spare or replacement dipstick for measuring the quantity of fuel in the compartment to which the first- mentioned dipstick relates.
 
@@ -491,7 +491,7 @@ Provided that
 
 ### Lawful use for trade of meter measuring systems where stamps destroyed, obliterated or defaced
 
-**65.**[^key-835bdfbd36e66be3e87ee7e93da32c76] (1) It shall be lawful to destroy, obliterate or deface a stamp on a meter measuring system, and it shall not be a contravention of section 11(2) of the Act to use such equipment for trade during the relevant period by reason only that a stamp on it has been lawfully destroyed, obliterated or defaced (such destruction, obliteration or defacement being in this Regulation referred to as “**the occurrence**”) if—
+**65.**[^c-835bdfbd36e66be3e87ee7e93da32c76] (1) It shall be lawful to destroy, obliterate or deface a stamp on a meter measuring system, and it shall not be a contravention of section 11(2) of the Act to use such equipment for trade during the relevant period by reason only that a stamp on it has been lawfully destroyed, obliterated or defaced (such destruction, obliteration or defacement being in this Regulation referred to as “**the occurrence**”) if—
 
 - (a) the person responsible for the occurrence is, or is the duly authorised agent of, the proprietor of the equipment or a person who is the manufacturer, or is regularly engaged in the repair, of equipment for measuring liquid fuel;
 - (b) the occurrence was confined to the stamp protecting the joint in the vent pipe from the gas separator;
@@ -508,10 +508,10 @@ Provided that
 
 (3) In paragraph (1) above “**relevant period**” means a period of 7 days beginning with the day on which the notification is given in accordance with that paragraph.
 
-**66.**[^key-724fc3721334fed3557ce0a89c016075] (1) It shall be lawful to destroy, obliterate or deface a stamp on a meter measuring system, and it shall not be a contravention of section 11(2) of the Act to use such equipment for trade during the relevant period by reason only that a stamp on it has been lawfully destroyed, obliterated or defaced (such destruction, obliteration or defacement being in this Regulation referred to as “**the occurrence**”) if—
+**66.**[^c-724fc3721334fed3557ce0a89c016075] (1) It shall be lawful to destroy, obliterate or deface a stamp on a meter measuring system, and it shall not be a contravention of section 11(2) of the Act to use such equipment for trade during the relevant period by reason only that a stamp on it has been lawfully destroyed, obliterated or defaced (such destruction, obliteration or defacement being in this Regulation referred to as “**the occurrence**”) if—
 
 - (a) the person responsible for the occurrence is, or is the duly authorised agent of, the proprietor of the equipment or a person who is the manufacturer, or is regularly engaged in the repair, of equipment for measuring liquid fuel;
-- (b)[^key-eb0ddcb1f322c587721fc8ddd1f34a41] the occurrence was confined to the stamp protecting the ticket printing mechanism;
+- (b)[^c-eb0ddcb1f322c587721fc8ddd1f34a41] the occurrence was confined to the stamp protecting the ticket printing mechanism;
 - (c) after the occurrence access cannot be gained to the calibration mechanism of the meter; and
 - (d) notification in writing complying with paragraph (2) below of the occurrence has been given by the proprietor of the equipment or his duly authorised agent before the occurrence to the chief inspector of weights and measures for the area in which the equipment is situated.
 
@@ -555,212 +555,212 @@ The Regulations make the following changes of substance:—
 
 [^f00002]: Footnote: S.I. 1970/1537.
 
-[^key-b82565b5969a2ca593a80daea8d2ab41]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-b82565b5969a2ca593a80daea8d2ab41]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-1cbe211c9b50c9b6aeb5b59fc73a9177]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1390/regulation/2) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-1cbe211c9b50c9b6aeb5b59fc73a9177]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1390/regulation/2) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-15cf80625539fbfd4074460c0c7917ed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/2/1) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/3/a/ii)
+[^c-15cf80625539fbfd4074460c0c7917ed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/2/1) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/3/a/ii)
 
-[^key-2b109430945296e12aa7614762d23bc7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/2/1) inserted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/3/a/i)
+[^c-2b109430945296e12aa7614762d23bc7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/2/1) inserted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/3/a/i)
 
-[^key-3e264e3c56683fb7a0e752f57d74a5c3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/2/1) revoked (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/3/a/iii)
+[^c-3e264e3c56683fb7a0e752f57d74a5c3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/2/1) revoked (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/3/a/iii)
 
 [^f00003]: Footnote: *See* S.I. 1968/1615.
 
-[^key-731cf247f6a4f971908978a2e5dd1841]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/2/3) inserted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/3/b)
+[^c-731cf247f6a4f971908978a2e5dd1841]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/2/3) inserted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/3/b)
 
-[^key-921a2f6fcbfb118e65b6aa32f71857f1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1983/1390/regulation/3) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-921a2f6fcbfb118e65b6aa32f71857f1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1983/1390/regulation/3) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-aaa9a005829d37dd9e590198b748da49]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/3/1) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/4/a)
+[^c-aaa9a005829d37dd9e590198b748da49]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/3/1) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/4/a)
 
-[^key-0ac53251f31f2f286bba71e75ab070a9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/3/1) omitted (1.10.1995) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/II)
+[^c-0ac53251f31f2f286bba71e75ab070a9]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/3/1) omitted (1.10.1995) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/II)
 
-[^key-20322e4e4b5ce2195912dbd300e8548b]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/3/2/a) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/4/b)
+[^c-20322e4e4b5ce2195912dbd300e8548b]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/3/2/a) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/4/b)
 
-[^key-c33d135d0107c6cf6f599a667396e0c5]: Textual amendment: [Reg. 3(3)(4)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/3/3) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/4/c)
+[^c-c33d135d0107c6cf6f599a667396e0c5]: Textual amendment: [Reg. 3(3)(4)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/3/3) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/4/c)
 
-[^key-0f78c994b7b15b56e746afd9dc5cc715]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1983/1390/regulation/4) in force at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/b)
+[^c-0f78c994b7b15b56e746afd9dc5cc715]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1983/1390/regulation/4) in force at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/b)
 
-[^key-ce2380b247ba44b63aa555093894961c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1983/1390/regulation/5) in force at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/b)
+[^c-ce2380b247ba44b63aa555093894961c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1983/1390/regulation/5) in force at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/b)
 
-[^key-3174a9568426deb0e5cbf9b8aacc48a2]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1983/1390/regulation/5) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [5](https://www.legislation.gov.uk/uksi/1986/1210/regulation/5)
+[^c-3174a9568426deb0e5cbf9b8aacc48a2]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1983/1390/regulation/5) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [5](https://www.legislation.gov.uk/uksi/1986/1210/regulation/5)
 
-[^key-0a05b63910c4a9a5487c32c686c70509]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1983/1390/regulation/6) in force at 1.7.1987, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/c)
+[^c-0a05b63910c4a9a5487c32c686c70509]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1983/1390/regulation/6) in force at 1.7.1987, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/c)
 
-[^key-10d57e5f0f3da006d1e1b8a825469022]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1983/1390/regulation/7) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-10d57e5f0f3da006d1e1b8a825469022]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1983/1390/regulation/7) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-06be6a9eb502baa3dc892094bc21b914]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1983/1390/regulation/8) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-06be6a9eb502baa3dc892094bc21b914]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1983/1390/regulation/8) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-1ecc1158a8f21a519e0a1aed6e6564dd]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1983/1390/regulation/9) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-1ecc1158a8f21a519e0a1aed6e6564dd]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1983/1390/regulation/9) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-2b6c3cd71cbcac18b0ddc3c6428741d4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1983/1390/regulation/10) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-2b6c3cd71cbcac18b0ddc3c6428741d4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1983/1390/regulation/10) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-c00d0017772223f491b4aba2ec76b4e1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1983/1390/regulation/11) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-c00d0017772223f491b4aba2ec76b4e1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1983/1390/regulation/11) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-e7bee9014ab08695f5439b197cb5f0e6]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1983/1390/regulation/11) omitted (1.10.1995) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/II)
+[^c-e7bee9014ab08695f5439b197cb5f0e6]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1983/1390/regulation/11) omitted (1.10.1995) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/II)
 
-[^key-438e7a7102181927ce03f6d1d7a01e21]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/11A) inserted (7.11.1994 immediately after S.I. 1994/2867 comes into force) by [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/I)
+[^c-438e7a7102181927ce03f6d1d7a01e21]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/11A) inserted (7.11.1994 immediately after S.I. 1994/2867 comes into force) by [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/I)
 
-[^key-989a5cba3788aeffb806ec01e50c552c]: Textual amendment: Words in [reg. 11A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/11A) omitted (1.1.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 2009 (S.I. 2009/3045)](https://www.legislation.gov.uk/uksi/2009/3045), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3045/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2009/3045/regulation/3/2/a)
+[^c-989a5cba3788aeffb806ec01e50c552c]: Textual amendment: Words in [reg. 11A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/11A) omitted (1.1.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 2009 (S.I. 2009/3045)](https://www.legislation.gov.uk/uksi/2009/3045), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3045/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2009/3045/regulation/3/2/a)
 
-[^key-e44a43fb768c06d037c756c7e4a978d6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1983/1390/regulation/12) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-e44a43fb768c06d037c756c7e4a978d6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1983/1390/regulation/12) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-59e57ffef31e2387d1af826754ef1aa0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1983/1390/regulation/13) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-59e57ffef31e2387d1af826754ef1aa0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1983/1390/regulation/13) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-46b4ba79937383d491e78c6795733021]: Commencement: [Reg. 14(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/14/1) in force at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/b)
+[^c-46b4ba79937383d491e78c6795733021]: Commencement: [Reg. 14(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/14/1) in force at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/b)
 
-[^key-00715e7f0db6afaf32bc4dd67038dcc9]: Commencement: [Reg. 14(2)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/14/2)[(3)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/14/3) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-00715e7f0db6afaf32bc4dd67038dcc9]: Commencement: [Reg. 14(2)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/14/2)[(3)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/14/3) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-a3ba634af4211894da445eb9a44cbf35]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1983/1390/regulation/15) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-a3ba634af4211894da445eb9a44cbf35]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1983/1390/regulation/15) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-669522323dde5850d09659c880baddf2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1983/1390/regulation/16) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-669522323dde5850d09659c880baddf2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1983/1390/regulation/16) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-2e5d1aac696faebb14625a046e20c42c]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/1983/1390/regulation/16) omitted (1.10.1995) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/II)
+[^c-2e5d1aac696faebb14625a046e20c42c]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/1983/1390/regulation/16) omitted (1.10.1995) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/II)
 
-[^key-fc9538e137f153c83397dae99ded71dd]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/16A) inserted (7.11.1994 immediately after S.I. 1994/2867 comes into force) by [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/I)
+[^c-fc9538e137f153c83397dae99ded71dd]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/16A) inserted (7.11.1994 immediately after S.I. 1994/2867 comes into force) by [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/I)
 
-[^key-fbc34106d481afc628ed4180ff16bb5a]: Textual amendment: Words in [reg. 16A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/16A) omitted (1.1.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 2009 (S.I. 2009/3045)](https://www.legislation.gov.uk/uksi/2009/3045), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3045/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2009/3045/regulation/3/2/a)
+[^c-fbc34106d481afc628ed4180ff16bb5a]: Textual amendment: Words in [reg. 16A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/16A) omitted (1.1.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 2009 (S.I. 2009/3045)](https://www.legislation.gov.uk/uksi/2009/3045), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3045/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2009/3045/regulation/3/2/a)
 
-[^key-35687d28c6aab719976a13aee07905de]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1983/1390/regulation/17) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-35687d28c6aab719976a13aee07905de]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1983/1390/regulation/17) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-1a35350cda9b0a1cf69bd41a7cfa1e97]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1983/1390/regulation/18) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-1a35350cda9b0a1cf69bd41a7cfa1e97]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1983/1390/regulation/18) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-93d39c0ca14d9c9f656a18ca8abe59cd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1983/1390/regulation/19) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-93d39c0ca14d9c9f656a18ca8abe59cd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1983/1390/regulation/19) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-76de2cf0b65c93e0e53f548a344f489b]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/19A) omitted (29.12.1995) by virtue of [The Measuring Equipment (Liquid Fuel Delivered from Road Tankers) (Amendment) Regulations 1995 (S.I. 1995/3117)](https://www.legislation.gov.uk/uksi/1995/3117), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3117/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/3117/regulation/2/2)
+[^c-76de2cf0b65c93e0e53f548a344f489b]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/19A) omitted (29.12.1995) by virtue of [The Measuring Equipment (Liquid Fuel Delivered from Road Tankers) (Amendment) Regulations 1995 (S.I. 1995/3117)](https://www.legislation.gov.uk/uksi/1995/3117), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3117/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/3117/regulation/2/2)
 
-[^key-31f237bddf41fd16201c15e1f1e38117]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1983/1390/regulation/20) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-31f237bddf41fd16201c15e1f1e38117]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1983/1390/regulation/20) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-c69d68092855b7aff6bd89093c8d5846]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/20/4) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/7/a)
+[^c-c69d68092855b7aff6bd89093c8d5846]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/20/4) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/7/a)
 
-[^key-5aab973a3b3965802c8ef5f2578d6940]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/20/5) inserted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/7/b)
+[^c-5aab973a3b3965802c8ef5f2578d6940]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/20/5) inserted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/7/b)
 
-[^key-1644d0b53ad367dd396c5a943fa8c4be]: Textual amendment: Words in [reg. 20(6)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/20/6) inserted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/7/c)
+[^c-1644d0b53ad367dd396c5a943fa8c4be]: Textual amendment: Words in [reg. 20(6)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/20/6) inserted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/7/c)
 
-[^key-a04cc743cc4037a46d91afe1b05e5e9f]: Textual amendment: [Reg. 20(7)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/20/7) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/7/d)
+[^c-a04cc743cc4037a46d91afe1b05e5e9f]: Textual amendment: [Reg. 20(7)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/20/7) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/7/d)
 
-[^key-0d1108bafffd5823e29f7c3376c09f82]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1983/1390/regulation/21) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-0d1108bafffd5823e29f7c3376c09f82]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1983/1390/regulation/21) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-6f7f7586e8febf35d95d26b9143eb3b6]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1983/1390/regulation/22) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-6f7f7586e8febf35d95d26b9143eb3b6]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1983/1390/regulation/22) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-9dff871c5a01a0abe8446235fa283cf6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1983/1390/regulation/23) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-9dff871c5a01a0abe8446235fa283cf6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1983/1390/regulation/23) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-b7b525ceba6720383fe207a9033ecd30]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1983/1390/regulation/24) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-b7b525ceba6720383fe207a9033ecd30]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1983/1390/regulation/24) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-7f4a3661aa80e9196e4d6720976b5465]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/24/1) omitted (1.10.1995) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/II)
+[^c-7f4a3661aa80e9196e4d6720976b5465]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/24/1) omitted (1.10.1995) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 1994 (S.I. 1994/1851)](https://www.legislation.gov.uk/uksi/1994/1851), [regs. 1](https://www.legislation.gov.uk/uksi/1994/1851/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1994/1851/regulation/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1851/schedule/part/II)
 
-[^key-8a96464baa5415448ebab3fe25fb8d0c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1983/1390/regulation/25) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-8a96464baa5415448ebab3fe25fb8d0c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1983/1390/regulation/25) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-f1da634407834bc87b39d7bda591a3f1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1983/1390/regulation/26) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-f1da634407834bc87b39d7bda591a3f1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1983/1390/regulation/26) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-7782dea07fdd01213bbb06f64dd47cbf]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/1983/1390/regulation/26) inserted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [8](https://www.legislation.gov.uk/uksi/1986/1210/regulation/8)
+[^c-7782dea07fdd01213bbb06f64dd47cbf]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/1983/1390/regulation/26) inserted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [8](https://www.legislation.gov.uk/uksi/1986/1210/regulation/8)
 
-[^key-e0489a66c29ca689c2a39960723fd4ea]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/26A) inserted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [9](https://www.legislation.gov.uk/uksi/1986/1210/regulation/9)
+[^c-e0489a66c29ca689c2a39960723fd4ea]: Textual amendment: [Reg. 26A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/26A) inserted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [9](https://www.legislation.gov.uk/uksi/1986/1210/regulation/9)
 
-[^key-b7028db353ed8d7bd86e14a2d588bfeb]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1983/1390/regulation/27) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-b7028db353ed8d7bd86e14a2d588bfeb]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1983/1390/regulation/27) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-8e4e537ab60ede5745d909d784fc9702]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1983/1390/regulation/28) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-8e4e537ab60ede5745d909d784fc9702]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1983/1390/regulation/28) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-33d5d24dd91b855ec43b8dafef2fffa0]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1983/1390/regulation/29) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-33d5d24dd91b855ec43b8dafef2fffa0]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1983/1390/regulation/29) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-4f869763a51e204e8fcfdf89370bdb28]: Textual amendment: [Reg. 29(3)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/29/3) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [10](https://www.legislation.gov.uk/uksi/1986/1210/regulation/10)
+[^c-4f869763a51e204e8fcfdf89370bdb28]: Textual amendment: [Reg. 29(3)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/29/3) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [10](https://www.legislation.gov.uk/uksi/1986/1210/regulation/10)
 
-[^key-5c495f82c4c825c8cb0b2cf29bb64dfc]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/1983/1390/regulation/30) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [11](https://www.legislation.gov.uk/uksi/1986/1210/regulation/11)
+[^c-5c495f82c4c825c8cb0b2cf29bb64dfc]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/1983/1390/regulation/30) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [11](https://www.legislation.gov.uk/uksi/1986/1210/regulation/11)
 
-[^key-00a8857ca6dbe5e0a3f594745aa4ac6d]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1983/1390/regulation/31) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-00a8857ca6dbe5e0a3f594745aa4ac6d]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1983/1390/regulation/31) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-cb0b8c5fdcb1ade76c8af0208e45eca3]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1983/1390/regulation/32) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-cb0b8c5fdcb1ade76c8af0208e45eca3]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1983/1390/regulation/32) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-3422f78dc771231c4504c6a56c1d425b]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1983/1390/regulation/33) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-3422f78dc771231c4504c6a56c1d425b]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1983/1390/regulation/33) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-20928186a11aaa95f8209c5e573b4e83]: Textual amendment: Words in [reg. 33(1)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/33/1/b) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/12/a)
+[^c-20928186a11aaa95f8209c5e573b4e83]: Textual amendment: Words in [reg. 33(1)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/33/1/b) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/12/a)
 
-[^key-0dc88bc11d8d067d574010eceeaf936f]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/33/4) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/12/b)
+[^c-0dc88bc11d8d067d574010eceeaf936f]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/33/4) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/1986/1210/regulation/12/b)
 
-[^key-ec12d6ea0502c998a021c27944bc20e8]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1983/1390/regulation/34) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-ec12d6ea0502c998a021c27944bc20e8]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1983/1390/regulation/34) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-2378c68fd2331e8d6b8e0173da9b506b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1983/1390/regulation/35) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-2378c68fd2331e8d6b8e0173da9b506b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1983/1390/regulation/35) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-7df6ed218567b94df321175a0c71e2be]: Textual amendment: [Reg. 35(5)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/35/5) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [13](https://www.legislation.gov.uk/uksi/1986/1210/regulation/13)
+[^c-7df6ed218567b94df321175a0c71e2be]: Textual amendment: [Reg. 35(5)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/35/5) added (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [13](https://www.legislation.gov.uk/uksi/1986/1210/regulation/13)
 
-[^key-4175b8c659622347cdae934e904fa9bd]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1983/1390/regulation/36) in force at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/b)
+[^c-4175b8c659622347cdae934e904fa9bd]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1983/1390/regulation/36) in force at 1.7.1984, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/b)
 
-[^key-90cde5d30757f61d1e96d364cace644a]: Textual amendment: [Reg. 36(2)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/36/2/b) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [14](https://www.legislation.gov.uk/uksi/1986/1210/regulation/14)
+[^c-90cde5d30757f61d1e96d364cace644a]: Textual amendment: [Reg. 36(2)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/36/2/b) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [14](https://www.legislation.gov.uk/uksi/1986/1210/regulation/14)
 
-[^key-ac733fe7f14b22eaa84ad29ea12e54b2]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1983/1390/regulation/37) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-ac733fe7f14b22eaa84ad29ea12e54b2]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1983/1390/regulation/37) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-c9495820ca79c84f028eb942957eef8a]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1983/1390/regulation/38) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-c9495820ca79c84f028eb942957eef8a]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1983/1390/regulation/38) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-47fe75024ffa14045d01f432e31ac8ca]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1983/1390/regulation/39) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-47fe75024ffa14045d01f432e31ac8ca]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1983/1390/regulation/39) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-d4257ad3908ba8df795d51bf9965fa5c]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1983/1390/regulation/40) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-d4257ad3908ba8df795d51bf9965fa5c]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1983/1390/regulation/40) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-f159ef5e1baaafa53d5729035197460b]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1983/1390/regulation/41) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-f159ef5e1baaafa53d5729035197460b]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1983/1390/regulation/41) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-0111c647f4a153c4ec7554cd1131203c]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1983/1390/regulation/42) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-0111c647f4a153c4ec7554cd1131203c]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1983/1390/regulation/42) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-40484b1788c8b2a9468ac78c4d14374c]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1983/1390/regulation/43) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-40484b1788c8b2a9468ac78c4d14374c]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1983/1390/regulation/43) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-fa9450501cb0ac912cf8d995d0236a75]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1983/1390/regulation/44) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-fa9450501cb0ac912cf8d995d0236a75]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1983/1390/regulation/44) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-75ef910b30610ab6bc4863f4b600e680]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1983/1390/regulation/45) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-75ef910b30610ab6bc4863f4b600e680]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1983/1390/regulation/45) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-2589173159ddc8c00112c4e773141f88]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1983/1390/regulation/46) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-2589173159ddc8c00112c4e773141f88]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1983/1390/regulation/46) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-cced25b492f6872b815d76e3aca79a6a]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1983/1390/regulation/47) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-cced25b492f6872b815d76e3aca79a6a]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1983/1390/regulation/47) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-8bb8a15d7b7e2835f6427b71c206eec5]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1983/1390/regulation/48) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-8bb8a15d7b7e2835f6427b71c206eec5]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1983/1390/regulation/48) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-828c72f2bdd4bfac7879810fc39d3b57]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1983/1390/regulation/49) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-828c72f2bdd4bfac7879810fc39d3b57]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1983/1390/regulation/49) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-7236282da9c943ddae87342802822391]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1983/1390/regulation/50) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-7236282da9c943ddae87342802822391]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1983/1390/regulation/50) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-c64cc2234e4332e90f39c385673c17fa]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1983/1390/regulation/51) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-c64cc2234e4332e90f39c385673c17fa]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1983/1390/regulation/51) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-c90ed644a52a9b1031dcc4227b56e370]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1983/1390/regulation/52) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-c90ed644a52a9b1031dcc4227b56e370]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1983/1390/regulation/52) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-ade7f6da84df91f90d0901c1a2bdc030]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1983/1390/regulation/53) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-ade7f6da84df91f90d0901c1a2bdc030]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1983/1390/regulation/53) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-faa5c097b79678f2f6fe181f261277b8]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1983/1390/regulation/54) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-faa5c097b79678f2f6fe181f261277b8]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1983/1390/regulation/54) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
 [^f00004]: Footnote: as amended by Council Directive No. [78/629/EEC](https://www.legislation.gov.uk/european/directive/1978/0629).
 
-[^key-20e04892e0a29b19e6599c39eeffa830]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/1983/1390/regulation/55) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-20e04892e0a29b19e6599c39eeffa830]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/1983/1390/regulation/55) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-67a0f942609e87754e5012ae6e85da42]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/55A) inserted (29.12.1995) by [The Measuring Equipment (Liquid Fuel Delivered from Road Tankers) (Amendment) Regulations 1995 (S.I. 1995/3117)](https://www.legislation.gov.uk/uksi/1995/3117), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3117/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1995/3117/regulation/2/3)
+[^c-67a0f942609e87754e5012ae6e85da42]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/1983/1390/regulation/55A) inserted (29.12.1995) by [The Measuring Equipment (Liquid Fuel Delivered from Road Tankers) (Amendment) Regulations 1995 (S.I. 1995/3117)](https://www.legislation.gov.uk/uksi/1995/3117), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3117/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1995/3117/regulation/2/3)
 
-[^key-5e2f0c817c1bb6bfc768c3c57f5a9ba5]: Textual amendment: Words in [reg. 55A](https://www.legislation.gov.uk/uksi/1983/1390/part/IV/crossheading/dipstick-measuring-systems) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e2f0c817c1bb6bfc768c3c57f5a9ba5]: Textual amendment: Words in [reg. 55A](https://www.legislation.gov.uk/uksi/1983/1390/part/IV/crossheading/dipstick-measuring-systems) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1a0fc6e3ab61efcc522fcbb7a88c4c53]: Textual amendment: Words in [reg. 55A(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/55A/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a0fc6e3ab61efcc522fcbb7a88c4c53]: Textual amendment: Words in [reg. 55A(1)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/55A/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a4ee8da0aa4fe0aa53f85a2a49a79f2]: Textual amendment: Words in [reg. 55A(2)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/55A/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a4ee8da0aa4fe0aa53f85a2a49a79f2]: Textual amendment: Words in [reg. 55A(2)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/55A/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8fa19b81e6583ed7a528aa106f6b9bb8]: Textual amendment: [Reg. 55A(3)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/55A/3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment) Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/1)
+[^c-8fa19b81e6583ed7a528aa106f6b9bb8]: Textual amendment: [Reg. 55A(3)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/55A/3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment) Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/1)
 
-[^key-0e8e6d197c165c06338b0a32a60c7cd6]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1983/1390/regulation/56) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-0e8e6d197c165c06338b0a32a60c7cd6]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1983/1390/regulation/56) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-6179d76f80897703d7b0993f8cc51fac]: Textual amendment: [Reg. 57](https://www.legislation.gov.uk/uksi/1983/1390/regulation/57) substituted (29.12.1995) by [The Measuring Equipment (Liquid Fuel Delivered from Road Tankers) (Amendment) Regulations 1995 (S.I. 1995/3117)](https://www.legislation.gov.uk/uksi/1995/3117), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3117/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1995/3117/regulation/2/4)
+[^c-6179d76f80897703d7b0993f8cc51fac]: Textual amendment: [Reg. 57](https://www.legislation.gov.uk/uksi/1983/1390/regulation/57) substituted (29.12.1995) by [The Measuring Equipment (Liquid Fuel Delivered from Road Tankers) (Amendment) Regulations 1995 (S.I. 1995/3117)](https://www.legislation.gov.uk/uksi/1995/3117), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3117/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1995/3117/regulation/2/4)
 
-[^key-6d16dcbd1e79b69de289439182d79786]: Textual amendment: Words in [reg. 57](https://www.legislation.gov.uk/uksi/1983/1390/regulation/57) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d16dcbd1e79b69de289439182d79786]: Textual amendment: Words in [reg. 57](https://www.legislation.gov.uk/uksi/1983/1390/regulation/57) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-88e7c1a7656f23dfee2e3d4e4dae0fe7]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/1983/1390/regulation/58) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-88e7c1a7656f23dfee2e3d4e4dae0fe7]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/1983/1390/regulation/58) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-19a3c8a033d7607831b18fa1c9650473]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/1983/1390/regulation/59) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-19a3c8a033d7607831b18fa1c9650473]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/1983/1390/regulation/59) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-1573f56c4838ce64fdc7f4735262ebc8]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/1983/1390/regulation/60) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-1573f56c4838ce64fdc7f4735262ebc8]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/1983/1390/regulation/60) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-41ef1147441557fb7d3d6a65baae7409]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/1983/1390/regulation/61) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-41ef1147441557fb7d3d6a65baae7409]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/1983/1390/regulation/61) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-4838bb41c234fea0eb073239cd234864]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/1983/1390/regulation/62) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-4838bb41c234fea0eb073239cd234864]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/1983/1390/regulation/62) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-1ce60e8eb23c07805a967714f08156af]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/1983/1390/regulation/63) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-1ce60e8eb23c07805a967714f08156af]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/1983/1390/regulation/63) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
 [^M_F_a9973d86-c765-4889-d69f-68d223f215d7]: Textual amendment: Words in reg. 63 substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [15](https://www.legislation.gov.uk/uksi/1986/1210/regulation/15)
 
-[^key-c97c2888d061df8838c03ceb3257f3f5]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/1983/1390/regulation/64) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-c97c2888d061df8838c03ceb3257f3f5]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/1983/1390/regulation/64) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-835bdfbd36e66be3e87ee7e93da32c76]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/1983/1390/regulation/65) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-835bdfbd36e66be3e87ee7e93da32c76]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/1983/1390/regulation/65) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-724fc3721334fed3557ce0a89c016075]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/1983/1390/regulation/66) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
+[^c-724fc3721334fed3557ce0a89c016075]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/1983/1390/regulation/66) in force at 14.10.1983, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/1/1/a)
 
-[^key-eb0ddcb1f322c587721fc8ddd1f34a41]: Textual amendment: [Reg. 66(1)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/66/1/b) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [16](https://www.legislation.gov.uk/uksi/1986/1210/regulation/16)
+[^c-eb0ddcb1f322c587721fc8ddd1f34a41]: Textual amendment: [Reg. 66(1)(b)](https://www.legislation.gov.uk/uksi/1983/1390/regulation/66/1/b) substituted (11.8.1986) by [The Measuring Equipment (Liquid Fuel delivered from Road Tankers) (Amendment) Regulations 1986 (S.I. 1986/1210)](https://www.legislation.gov.uk/uksi/1986/1210), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1210/regulation/1), [16](https://www.legislation.gov.uk/uksi/1986/1210/regulation/16)

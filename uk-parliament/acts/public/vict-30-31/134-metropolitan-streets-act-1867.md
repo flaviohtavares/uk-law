@@ -99,11 +99,11 @@ This section shall not apply to the sale of newspapers.
 
 #### 19. As to the licensing shoeblacks and messengers.
 
-[^key-793b4a5fa0a1327efe37301d7010d509]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-793b4a5fa0a1327efe37301d7010d509]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 20. Obstructions at standings prohibited.
 
-[^key-5556a315a4767bd93ad8638ab06b9907]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5556a315a4767bd93ad8638ab06b9907]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 21. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c646973]
 
@@ -181,9 +181,9 @@ This Act, so far as is consistent with the tenor thereof, shall be construed as 
 
 [^c646972]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/Vict/30-31/134/section/18) repealed by [London Government Act 1963 (c. 33)](https://www.legislation.gov.uk/ukpga/1963/33), [Sch. 17 para. 29](https://www.legislation.gov.uk/ukpga/1963/33/schedule/17/paragraph/29)(*b*), Sch. 18 Pt. II
 
-[^key-793b4a5fa0a1327efe37301d7010d509]: Textual amendment: S. 19 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-793b4a5fa0a1327efe37301d7010d509]: Textual amendment: S. 19 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
-[^key-5556a315a4767bd93ad8638ab06b9907]: Textual amendment: S. 20 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-5556a315a4767bd93ad8638ab06b9907]: Textual amendment: S. 20 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c646973]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/Vict/30-31/134/section/21) repealed by [Statute Law Revision Act 1875 (c. 66)](https://www.legislation.gov.uk/ukpga/1875/66)
 

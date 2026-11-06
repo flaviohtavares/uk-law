@@ -37,32 +37,32 @@ laying down the methodology for the calculation of the annual consumption of lig
 
 (Text with EEA relevance) (revoked)
 
-[^key-708908ffe33cb77161cc6e9a79622527]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-708908ffe33cb77161cc6e9a79622527]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Methodology for the calculation and reporting of annual consumption[^key-708908ffe33cb77161cc6e9a79622527]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Methodology for reporting by numbers[^key-708908ffe33cb77161cc6e9a79622527]
+## Article 1. Methodology for the calculation and reporting of annual consumption[^c-708908ffe33cb77161cc6e9a79622527]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Methodology for reporting by weight[^key-708908ffe33cb77161cc6e9a79622527]
+## Article 2. Methodology for reporting by numbers[^c-708908ffe33cb77161cc6e9a79622527]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendments to Decision 2005/270/EC[^key-708908ffe33cb77161cc6e9a79622527]
+## Article 3. Methodology for reporting by weight[^c-708908ffe33cb77161cc6e9a79622527]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-708908ffe33cb77161cc6e9a79622527] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Amendments to Decision 2005/270/EC[^c-708908ffe33cb77161cc6e9a79622527]
 
-[^key-708908ffe33cb77161cc6e9a79622527]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-708908ffe33cb77161cc6e9a79622527]
+**Article 5.**[^c-708908ffe33cb77161cc6e9a79622527] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-708908ffe33cb77161cc6e9a79622527]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-708908ffe33cb77161cc6e9a79622527]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-708908ffe33cb77161cc6e9a79622527]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/2)
+[^c-708908ffe33cb77161cc6e9a79622527]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/2)

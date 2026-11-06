@@ -55,16 +55,16 @@ These Regulations may be cited as the Processed Cereal-based Foods and Baby Food
 
 - “**the Act**” means the Food Safety Act 1990;
 - “**baby foods**” means foods for particular nutritional use fulfilling the particular requirements of infants and young children in good health and intended for use by infants while they are being weaned, and by young children as a supplement to their diet or for their progressive adaptation to ordinary food, but excludes processed cereal-based foods;
-- “the Directive” means Commission Directive[^key-dba2a85852866ba6d763c0368d7717b0] [2006/125/EC](https://www.legislation.gov.uk/eudr/2006/125) on processed cereal-based foods and baby foods for infants and young children;
+- “the Directive” means Commission Directive[^c-dba2a85852866ba6d763c0368d7717b0] [2006/125/EC](https://www.legislation.gov.uk/eudr/2006/125) on processed cereal-based foods and baby foods for infants and young children;
 - “**EEA Agreement**” means the Agreement on the European Economic Area [^c5107701] signed at Oporto on 2nd May 1992 as adjusted by the Protocol [^c5107711] signed at Brussels on 17th March 1993;
 - “**EEA State**” means a State which is a Contracting Party to the EEA Agreement;
 - “**food authority**” does not include—
   - (a) the council of a district of a non-metropolitan county except where the county functions have been transferred to that council pursuant to a structural change; or
   - (b) the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner Temple and the Middle Temple);
 - “**infants**” means children under the age of twelve months;
-- “**pesticide residue**” which has the same meaning as in Article 2 (1) of Regulation[^key-1db38a6fd1654764cd0a4f79ffb2356c] [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414), and “residue” shall be read in accordance with Article 3(1) of that Regulation, including its metabolites and products resulting from its degradation or reaction;
+- “**pesticide residue**” which has the same meaning as in Article 2 (1) of Regulation[^c-1db38a6fd1654764cd0a4f79ffb2356c] [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414), and “residue” shall be read in accordance with Article 3(1) of that Regulation, including its metabolites and products resulting from its degradation or reaction;
 - “**processed cereal-based foods**” means foods for particular nutritional use within the categories specified in Part I of Schedule 1 fulfilling the particular requirements of infants and young children in good health and intended for use by infants while they are being weaned, and by young children as a supplement to their diet or for their progressive adaptation to ordinary food;
-- “**sell**” includes possess for sale and offer, expose or advertise for sale , and “[^key-821eb3dcb3705bedf39f615a717edbcf]**sold**” is to be construed accordingly; and
+- “**sell**” includes possess for sale and offer, expose or advertise for sale , and “[^c-821eb3dcb3705bedf39f615a717edbcf]**sold**” is to be construed accordingly; and
 - “**young children**” means children aged between one and three years.
 
 (2) Other expressions used in these Regulations and in the Directive have the same meaning in these Regulations as they have in the Directive.
@@ -122,7 +122,7 @@ at a level exceeding 0.003 mg/kg.
 
 ## 8. Labelling
 
-(1) Without prejudice to the generality of Regulation ([^key-d74b09fce92e649dcdfdeb7bbb360dd2]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, processed cereal-based foods and baby foods shall be labelled with the following particulars—
+(1) Without prejudice to the generality of Regulation ([^c-d74b09fce92e649dcdfdeb7bbb360dd2]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, processed cereal-based foods and baby foods shall be labelled with the following particulars—
 
 - (a) a statement as to the appropriate age (which shall be not less than four months) from which the food may be used, regard being had to its composition, texture or other particular properties;
 - (b) information as to the presence or absence of gluten if the age stated pursuant to sub-paragraph (a) is less than six months;
@@ -149,7 +149,7 @@ at a level exceeding 0.003 mg/kg.
 
 If any person contravenes regulation 4 he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 10A. Application of the improvement notice provisions of the Act[^key-73e974ae4cab76122f05f215729ded69]
+## 10A. Application of the improvement notice provisions of the Act[^c-73e974ae4cab76122f05f215729ded69]
 
 (1) Section 10(1) and (2) of the Act (improvement notices) applies, with the modification (in the case of section 10(1)) specified in Part 1 of Schedule 9, for the purposes of—
 
@@ -167,7 +167,7 @@ If any person contravenes regulation 4 he shall be guilty of an offence and liab
 
 (5) Section 39 of the Act (appeals against improvement notices) applies, with the modifications (in the case of section 39(1) and (3)) specified in Part 5 of Schedule 9, for the purpose of dealing with appeals against a decision to serve a notice referred to in paragraph (1)(a).
 
-## 11. Defence in relation to exports[^key-32f83aee58519f81144b2557d1d00991]
+## 11. Defence in relation to exports[^c-32f83aee58519f81144b2557d1d00991]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -194,7 +194,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 
 (2) The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Amendment) (England) Regulations 2000 [^c5107771] are revoked.
 
-## 14. Amendment[^key-b60938e1aa1be44a8754dbb6c781e065]
+## 14. Amendment[^c-b60938e1aa1be44a8754dbb6c781e065]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -451,7 +451,7 @@ Dexpanthenol
 
 Folic acid
 
-Calcium-L-methylfolate[^key-e5d92088163c730098419ae4a28ebc89]
+Calcium-L-methylfolate[^c-e5d92088163c730098419ae4a28ebc89]
 
 *Vitamin B*12
 
@@ -613,7 +613,7 @@ Sodium ferric diphosphate
 
 Ferrous carbonate
 
-Ferrous bisglycinate[^key-5f850d84e87d5bf878646f8c850eeff8]
+Ferrous bisglycinate[^c-5f850d84e87d5bf878646f8c850eeff8]
 
 *Copper*
 
@@ -631,7 +631,7 @@ Cupric sulphate
 
 Zinc acetate
 
-Zinc chloride[^key-fd2c2ef1d12c64258c64090b542a653a]
+Zinc chloride[^c-fd2c2ef1d12c64258c64090b542a653a]
 
 Zinc citrate
 
@@ -753,15 +753,15 @@ Regulation 8(3)
 | Selenium | (μg) 10 |
 | Copper | (mg) 0.4 |
 
-## SCHEDULE 9 — Modification of the improvement notice provisions of the Act[^key-0a2a73ac9cd4c5218788b4e5526b0b10]
+## SCHEDULE 9 — Modification of the improvement notice provisions of the Act[^c-0a2a73ac9cd4c5218788b4e5526b0b10]
 
 ### PART 1 — Modification of section 10(1)
 
 **1.** For section 10(1) (improvement notices) substitute—
 
-> (1) If an authorised officer of an enforcement authority [^key-be9eb62af26e9847167d2f97b8985d96]... has reasonable grounds for believing that a person is failing to comply with regulation 4 of the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (England) Regulations 2003, the authorised officer may, by a notice served on that person (in this Act referred to as an “**improvement notice**”)—
+> (1) If an authorised officer of an enforcement authority [^c-be9eb62af26e9847167d2f97b8985d96]... has reasonable grounds for believing that a person is failing to comply with regulation 4 of the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (England) Regulations 2003, the authorised officer may, by a notice served on that person (in this Act referred to as an “**improvement notice**”)—
 >
-> - (a) state the officer's grounds for believing[^key-b59431e117d12d163111897dd4403f5d] that the person is failing to comply or, as the case may be, that the food does not comply with the relevant provision;
+> - (a) state the officer's grounds for believing[^c-b59431e117d12d163111897dd4403f5d] that the person is failing to comply or, as the case may be, that the food does not comply with the relevant provision;
 > - (b) specify the matters which constitute the failure to so comply;
 > - (c) specify the measures which, in the officer's opinion, the person must take in order to secure compliance; and
 > - (d) require the person to take those measures, or such measures that are at least equivalent to them, within such period as may be specified in the notice.
@@ -818,7 +818,7 @@ Regulation 8(3)
 
 **10.** For section 39(1) (appeals against improvement notices) substitute—
 
-> (1) On an appeal against an improvement notice served under section 10(1), as applied and modified by regulation 10A(1) of, and Part 1 of Schedule 9 to, the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (England) Regulations 2003, the First-tier Tribunal may either cancel or affirm the notice[^key-a5f3710e571307163f4c83e07fb95b2c] and, if it affirms it, may do so either in its original form or with such modifications as the First-tier Tribunal may in the circumstances think fit.
+> (1) On an appeal against an improvement notice served under section 10(1), as applied and modified by regulation 10A(1) of, and Part 1 of Schedule 9 to, the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (England) Regulations 2003, the First-tier Tribunal may either cancel or affirm the notice[^c-a5f3710e571307163f4c83e07fb95b2c] and, if it affirms it, may do so either in its original form or with such modifications as the First-tier Tribunal may in the circumstances think fit.
 
 .
 
@@ -852,21 +852,21 @@ Regulation 8(3)
 
 [^c5107651]: Marginal citation: OJ No. L31, 1.2.2002, p.1.
 
-[^key-dba2a85852866ba6d763c0368d7717b0]: Textual amendment: Words in reg. 2(1) substituted (15.10.2007) by [The Food for Particular Nutritional Uses (Miscellaneous Amendments) (England) Regulations 2007 (S.I. 2007/2591)](https://www.legislation.gov.uk/uksi/2007/2591), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2591/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2007/2591/regulation/6/2)
+[^c-dba2a85852866ba6d763c0368d7717b0]: Textual amendment: Words in reg. 2(1) substituted (15.10.2007) by [The Food for Particular Nutritional Uses (Miscellaneous Amendments) (England) Regulations 2007 (S.I. 2007/2591)](https://www.legislation.gov.uk/uksi/2007/2591), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2591/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2007/2591/regulation/6/2)
 
 [^c5107701]: Marginal citation: OJ No. L1, 3.1.94, p.1.
 
 [^c5107711]: Marginal citation: OJ No. L1, 3.1.94, p.571.
 
-[^key-1db38a6fd1654764cd0a4f79ffb2356c]: Textual amendment: Words in reg. 2 substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4) (with [reg. 29](https://www.legislation.gov.uk/uksi/2011/2131/regulation/29))
+[^c-1db38a6fd1654764cd0a4f79ffb2356c]: Textual amendment: Words in reg. 2 substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4) (with [reg. 29](https://www.legislation.gov.uk/uksi/2011/2131/regulation/29))
 
-[^key-821eb3dcb3705bedf39f615a717edbcf]: Textual amendment: Words in reg. 2(1) inserted (20.7.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 (S.I. 2016/688)](https://www.legislation.gov.uk/uksi/2016/688), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/688/regulation/1/3), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/uksi/2016/688/schedule/3/paragraph/3/a)
+[^c-821eb3dcb3705bedf39f615a717edbcf]: Textual amendment: Words in reg. 2(1) inserted (20.7.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 (S.I. 2016/688)](https://www.legislation.gov.uk/uksi/2016/688), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/688/regulation/1/3), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/uksi/2016/688/schedule/3/paragraph/3/a)
 
-[^key-d74b09fce92e649dcdfdeb7bbb360dd2]: Textual amendment: Words in reg. 8(1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), reg. 1(5)-(8), [Sch. 7 para. 39](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/39)
+[^c-d74b09fce92e649dcdfdeb7bbb360dd2]: Textual amendment: Words in reg. 8(1) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), reg. 1(5)-(8), [Sch. 7 para. 39](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/39)
 
-[^key-73e974ae4cab76122f05f215729ded69]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2003/3207/regulation/10A) inserted (20.7.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 (S.I. 2016/688)](https://www.legislation.gov.uk/uksi/2016/688), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/688/regulation/1/3), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/uksi/2016/688/schedule/3/paragraph/3/b)
+[^c-73e974ae4cab76122f05f215729ded69]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2003/3207/regulation/10A) inserted (20.7.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 (S.I. 2016/688)](https://www.legislation.gov.uk/uksi/2016/688), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/688/regulation/1/3), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/uksi/2016/688/schedule/3/paragraph/3/b)
 
-[^key-32f83aee58519f81144b2557d1d00991]: Textual amendment: Reg. 11 revoked (1.1.2006) by [The Official Feed and Food Controls (England) Regulations 2005 (S.I. 2005/2626)](https://www.legislation.gov.uk/uksi/2005/2626), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2626/regulation/1/b), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2626/schedule/6/part/2)
+[^c-32f83aee58519f81144b2557d1d00991]: Textual amendment: Reg. 11 revoked (1.1.2006) by [The Official Feed and Food Controls (England) Regulations 2005 (S.I. 2005/2626)](https://www.legislation.gov.uk/uksi/2005/2626), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2005/2626/regulation/1/b), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2626/schedule/6/part/2)
 
 [^c5107751]: Marginal citation: [S.I. 1997/2042](https://www.legislation.gov.uk/uksi/1997/2042).
 
@@ -874,18 +874,18 @@ Regulation 8(3)
 
 [^c5107771]: Marginal citation: [S.I. 2000/1510](https://www.legislation.gov.uk/uksi/2000/1510).
 
-[^key-b60938e1aa1be44a8754dbb6c781e065]: Textual amendment: Reg. 14 revoked (11.11.2005) by [The Tryptophan in Food (England) Regulations 2005 (S.I. 2005/2630)](https://www.legislation.gov.uk/uksi/2005/2630), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2630/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2005/2630/regulation/10/2)
+[^c-b60938e1aa1be44a8754dbb6c781e065]: Textual amendment: Reg. 14 revoked (11.11.2005) by [The Tryptophan in Food (England) Regulations 2005 (S.I. 2005/2630)](https://www.legislation.gov.uk/uksi/2005/2630), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2630/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2005/2630/regulation/10/2)
 
-[^key-e5d92088163c730098419ae4a28ebc89]: Textual amendment: Word in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2003/3207/schedule/4/paragraph/1) inserted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/28/regulation/2/2/a) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
+[^c-e5d92088163c730098419ae4a28ebc89]: Textual amendment: Word in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2003/3207/schedule/4/paragraph/1) inserted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/28/regulation/2/2/a) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
 
-[^key-5f850d84e87d5bf878646f8c850eeff8]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2003/3207/schedule/4/paragraph/4) inserted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/28/regulation/2/2/b/i) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
+[^c-5f850d84e87d5bf878646f8c850eeff8]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2003/3207/schedule/4/paragraph/4) inserted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/28/regulation/2/2/b/i) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
 
-[^key-fd2c2ef1d12c64258c64090b542a653a]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2003/3207/schedule/4/paragraph/4) inserted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/28/regulation/2/2/b/ii) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
+[^c-fd2c2ef1d12c64258c64090b542a653a]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2003/3207/schedule/4/paragraph/4) inserted (10.2.2023) by [The Food Supplements and Food for Specific Groups (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/28)](https://www.legislation.gov.uk/uksi/2023/28), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/28/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/28/regulation/2/2/b/ii) (as amended by [S.I. 2023/131](https://www.legislation.gov.uk/uksi/2023/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/131/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2023/131/regulation/2))
 
-[^key-0a2a73ac9cd4c5218788b4e5526b0b10]: Textual amendment: Sch. 9 inserted (20.7.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 (S.I. 2016/688)](https://www.legislation.gov.uk/uksi/2016/688), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/688/regulation/1/3), [Sch. 3 para. 3(c)](https://www.legislation.gov.uk/uksi/2016/688/schedule/3/paragraph/3/c) (as amended (1.3.2017) by [The Food for Specific Groups (Information and Compositional Requirements) (England) (Amendment) Regulations 2017 (S.I. 2017/62)](https://www.legislation.gov.uk/uksi/2017/62), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/62/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2017/62/regulation/4))
+[^c-0a2a73ac9cd4c5218788b4e5526b0b10]: Textual amendment: Sch. 9 inserted (20.7.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 (S.I. 2016/688)](https://www.legislation.gov.uk/uksi/2016/688), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/688/regulation/1/3), [Sch. 3 para. 3(c)](https://www.legislation.gov.uk/uksi/2016/688/schedule/3/paragraph/3/c) (as amended (1.3.2017) by [The Food for Specific Groups (Information and Compositional Requirements) (England) (Amendment) Regulations 2017 (S.I. 2017/62)](https://www.legislation.gov.uk/uksi/2017/62), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/62/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2017/62/regulation/4))
 
-[^key-be9eb62af26e9847167d2f97b8985d96]: Textual amendment: Words in [Sch. 9 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2003/3207/schedule/9/part/1/paragraph/1) omitted (22.2.2020) by virtue of [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 5 para. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/43/schedule/5/paragraph/3/2/a/i)
+[^c-be9eb62af26e9847167d2f97b8985d96]: Textual amendment: Words in [Sch. 9 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2003/3207/schedule/9/part/1/paragraph/1) omitted (22.2.2020) by virtue of [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 5 para. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/43/schedule/5/paragraph/3/2/a/i)
 
-[^key-b59431e117d12d163111897dd4403f5d]: Textual amendment: Words in [Sch. 9 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2003/3207/schedule/9/part/1/paragraph/1) substituted (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 5 para. 3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/43/schedule/5/paragraph/3/2/a/ii)
+[^c-b59431e117d12d163111897dd4403f5d]: Textual amendment: Words in [Sch. 9 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2003/3207/schedule/9/part/1/paragraph/1) substituted (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 5 para. 3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/43/schedule/5/paragraph/3/2/a/ii)
 
-[^key-a5f3710e571307163f4c83e07fb95b2c]: Textual amendment: Words in [Sch. 9 Pt. 5 para. 10](https://www.legislation.gov.uk/uksi/2003/3207/schedule/9/part/5/paragraph/10) substituted (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 5 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2020/43/schedule/5/paragraph/3/2/b)
+[^c-a5f3710e571307163f4c83e07fb95b2c]: Textual amendment: Words in [Sch. 9 Pt. 5 para. 10](https://www.legislation.gov.uk/uksi/2003/3207/schedule/9/part/5/paragraph/10) substituted (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 5 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2020/43/schedule/5/paragraph/3/2/b)

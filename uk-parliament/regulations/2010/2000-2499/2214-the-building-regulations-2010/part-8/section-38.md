@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Fire safety information[^M_E_80338db9-c1f0-4d1a-eed2-da88894202ed][^key-ee7360bb5b7794ae245c5a5609716857][^key-ed3b056aa689223df14bf08c82ab1804][^key-9b752d3bfb7d5ab3c6fb492d2e0a1e8f]
+## 38. Fire safety information[^M_E_80338db9-c1f0-4d1a-eed2-da88894202ed][^c-ee7360bb5b7794ae245c5a5609716857][^c-ed3b056aa689223df14bf08c82ab1804][^c-9b752d3bfb7d5ab3c6fb492d2e0a1e8f]
 
 *Extent: E*
 
@@ -27,7 +27,7 @@ summary: ''
 
 and Part B of Schedule 1 imposes a requirement in relation to the work.
 
-(2)[^key-b35f1f4265711860022bb0161e99accb] The person carrying out the work must give fire safety information to the responsible person no later than—
+(2)[^c-b35f1f4265711860022bb0161e99accb] The person carrying out the work must give fire safety information to the responsible person no later than—
 
 - (a) where the building, proposed building or extension to which the building work relates is not occupied during the building work, the date of completion of the work or the date of occupation of the building or the extension, whichever is the earlier;
 - (b) in any other case, the date of completion of the work.
@@ -73,7 +73,7 @@ and Part B of Schedule 1 imposes a requirement in relation to the work.
 
 and Part B of Schedule 1 imposes a requirement in relation to the work.
 
-(2)[^key-1d77b0c332a291590c0a835143a559ca] The person carrying out the work must give fire safety information to the responsible person no later than—
+(2)[^c-1d77b0c332a291590c0a835143a559ca] The person carrying out the work must give fire safety information to the responsible person no later than—
 
 - (a) where the building, proposed building or extension to which the building work relates is not occupied during the building work, the date of completion of the work or the date of occupation of the building or the extension, whichever is the earlier, or
 - (b) in any other case, the date of completion of the work.
@@ -87,8 +87,8 @@ and Part B of Schedule 1 imposes a requirement in relation to the work.
 
 (2C) The notification under paragraph (2B) must be given no later than—
 
-- (a) where regulation 20 (provisions applicable to self-certification schemes) applies to the work, 30 [^key-b06f0a091b8f30e4b48fee181baebda1]... days after the date referred to in paragraph (2);
-- (b) in any other case, 5 [^key-b06f0a091b8f30e4b48fee181baebda1]... days after the date referred to in paragraph (2).
+- (a) where regulation 20 (provisions applicable to self-certification schemes) applies to the work, 30 [^c-b06f0a091b8f30e4b48fee181baebda1]... days after the date referred to in paragraph (2);
+- (b) in any other case, 5 [^c-b06f0a091b8f30e4b48fee181baebda1]... days after the date referred to in paragraph (2).
 
 (3) In this regulation—
 
@@ -101,16 +101,16 @@ and Part B of Schedule 1 imposes a requirement in relation to the work.
 
 [^M_E_80338db9-c1f0-4d1a-eed2-da88894202ed]: Extent: This version of this provision applies to England only; a separate version has been created for Wales only
 
-[^key-ee7360bb5b7794ae245c5a5609716857]: Modification: [Reg. 38](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38) applied (E.) (1.10.2023) by S.I. 2010/2215, Sch. 4 para. 4A (as inserted by [The Building (Approved Inspectors etc. and Review of Decisions) (England) Regulations 2023 (S.I. 2023/906)](https://www.legislation.gov.uk/uksi/2023/906), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/906/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2023/906/regulation/13/3) (with [regs. 20](https://www.legislation.gov.uk/uksi/2023/906/regulation/20), [23-25](https://www.legislation.gov.uk/uksi/2023/906/regulation/23)))
+[^c-ee7360bb5b7794ae245c5a5609716857]: Modification: [Reg. 38](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38) applied (E.) (1.10.2023) by S.I. 2010/2215, Sch. 4 para. 4A (as inserted by [The Building (Approved Inspectors etc. and Review of Decisions) (England) Regulations 2023 (S.I. 2023/906)](https://www.legislation.gov.uk/uksi/2023/906), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/906/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2023/906/regulation/13/3) (with [regs. 20](https://www.legislation.gov.uk/uksi/2023/906/regulation/20), [23-25](https://www.legislation.gov.uk/uksi/2023/906/regulation/23)))
 
-[^key-ed3b056aa689223df14bf08c82ab1804]: Modification: [Reg. 38](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38) applied (with modifications) (E.) (1.10.2023) by S.I. 2010/2215, reg. 20(1)(4A) (as amended by [The Building (Approved Inspectors etc. and Review of Decisions) (England) Regulations 2023 (S.I. 2023/906)](https://www.legislation.gov.uk/uksi/2023/906), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/906/regulation/1/2), [13(1)(a)-(c)](https://www.legislation.gov.uk/uksi/2023/906/regulation/13/1) (with [regs. 20](https://www.legislation.gov.uk/uksi/2023/906/regulation/20), [23-25](https://www.legislation.gov.uk/uksi/2023/906/regulation/23)))
+[^c-ed3b056aa689223df14bf08c82ab1804]: Modification: [Reg. 38](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38) applied (with modifications) (E.) (1.10.2023) by S.I. 2010/2215, reg. 20(1)(4A) (as amended by [The Building (Approved Inspectors etc. and Review of Decisions) (England) Regulations 2023 (S.I. 2023/906)](https://www.legislation.gov.uk/uksi/2023/906), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/906/regulation/1/2), [13(1)(a)-(c)](https://www.legislation.gov.uk/uksi/2023/906/regulation/13/1) (with [regs. 20](https://www.legislation.gov.uk/uksi/2023/906/regulation/20), [23-25](https://www.legislation.gov.uk/uksi/2023/906/regulation/23)))
 
-[^key-9b752d3bfb7d5ab3c6fb492d2e0a1e8f]: Modification: [Reg. 38](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38) modified (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [5(8)](https://www.legislation.gov.uk/uksi/2024/110/regulation/5/8) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+[^c-9b752d3bfb7d5ab3c6fb492d2e0a1e8f]: Modification: [Reg. 38](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38) modified (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [5(8)](https://www.legislation.gov.uk/uksi/2024/110/regulation/5/8) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
 
-[^key-b35f1f4265711860022bb0161e99accb]: Textual amendment: [Reg. 38(2)-(2G)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38/2) substituted for [reg. 38(2)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38/2) (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2023/911/regulation/13/1) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-b35f1f4265711860022bb0161e99accb]: Textual amendment: [Reg. 38(2)-(2G)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38/2) substituted for [reg. 38(2)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38/2) (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2023/911/regulation/13/1) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
 [^M_E_4a1a64fe-b49e-4144-f52d-edade0139121]: Extent: This version of this provision applies to Wales only; a separate version has been created for England only
 
-[^key-1d77b0c332a291590c0a835143a559ca]: Textual amendment: [Reg. 38(2)-(2C)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38/2) substituted for [reg. 38(2)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38/2) (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/10/3) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
+[^c-1d77b0c332a291590c0a835143a559ca]: Textual amendment: [Reg. 38(2)-(2C)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38/2) substituted for [reg. 38(2)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38/2) (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/10/3) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
 
-[^key-b06f0a091b8f30e4b48fee181baebda1]: Textual amendment: Word in [reg. 38(2C)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38/2C) omitted (W.) (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [3(16)](https://www.legislation.gov.uk/wsi/2026/112/regulation/3/16)
+[^c-b06f0a091b8f30e4b48fee181baebda1]: Textual amendment: Word in [reg. 38(2C)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/38/2C) omitted (W.) (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [3(16)](https://www.legislation.gov.uk/wsi/2026/112/regulation/3/16)

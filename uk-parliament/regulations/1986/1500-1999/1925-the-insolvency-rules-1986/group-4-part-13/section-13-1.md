@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.1. Introductory[^key-d32760a925838ea38546c362a74d18c1]
+## 13.1. Introductory[^c-d32760a925838ea38546c362a74d18c1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part of the Rules has effect for their interpretation and application; and 
 
 ## Annotations
 
-[^key-d32760a925838ea38546c362a74d18c1]: Commencement: Rule 13.1 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d32760a925838ea38546c362a74d18c1]: Commencement: Rule 13.1 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

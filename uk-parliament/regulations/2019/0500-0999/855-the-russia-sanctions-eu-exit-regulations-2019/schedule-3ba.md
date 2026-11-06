@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3BA — Metals[^key-d4f4063ce54340066f2aa84dcae087da]
+## SCHEDULE 3BA — Metals[^c-d4f4063ce54340066f2aa84dcae087da]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ Any thing falling within a commodity code mentioned in column 1 of the following
 
 ## Annotations
 
-[^key-d4f4063ce54340066f2aa84dcae087da]: Textual amendment: Sch. 3BA inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1364/schedule/2)
+[^c-d4f4063ce54340066f2aa84dcae087da]: Textual amendment: Sch. 3BA inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1364/schedule/2)

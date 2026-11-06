@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Foyle Area and Carlingford Area (Licensing of Fishing Engines) (Amendment) Regulations 2004 (revoked)[^key-fded560cac4d24525af52bce0235399c]
+Foyle Area and Carlingford Area (Licensing of Fishing Engines) (Amendment) Regulations 2004 (revoked)[^c-fded560cac4d24525af52bce0235399c]
 
 Made
 
@@ -41,46 +41,46 @@ Coming into operation
 
 1st January 2005
 
-[^key-fded560cac4d24525af52bce0235399c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fded560cac4d24525af52bce0235399c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fded560cac4d24525af52bce0235399c]
+## 1. Citation and commencement[^c-fded560cac4d24525af52bce0235399c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Foyle and Carlingford Area (Licensing of Fishing Engines) Regulations 2001[^key-fded560cac4d24525af52bce0235399c]
+## 2. Amendment of the Foyle and Carlingford Area (Licensing of Fishing Engines) Regulations 2001[^c-fded560cac4d24525af52bce0235399c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-fded560cac4d24525af52bce0235399c]
+## 3. Revocation[^c-fded560cac4d24525af52bce0235399c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fded560cac4d24525af52bce0235399c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fded560cac4d24525af52bce0235399c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-fded560cac4d24525af52bce0235399c]
+## SCHEDULE[^c-fded560cac4d24525af52bce0235399c]
 
-> **SCHEDULE — LICENCE FEES[^key-fded560cac4d24525af52bce0235399c]**
+> **SCHEDULE — LICENCE FEES[^c-fded560cac4d24525af52bce0235399c]**
 >
 > Regulations 3, 4, 5, 6, 7 and 8
 >
-> **PART I[^key-fded560cac4d24525af52bce0235399c]**
+> **PART I[^c-fded560cac4d24525af52bce0235399c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II[^key-fded560cac4d24525af52bce0235399c]**
+> **PART II[^c-fded560cac4d24525af52bce0235399c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART III[^key-fded560cac4d24525af52bce0235399c]**
+> **PART III[^c-fded560cac4d24525af52bce0235399c]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fded560cac4d24525af52bce0235399c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fded560cac4d24525af52bce0235399c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fded560cac4d24525af52bce0235399c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/522) revoked (1.1.2006) by [Foyle Area and Carlingford Area (Licensing of Fishing Engines) (Amendment) Regulations 2005 (S.R. 2005/562)](https://www.legislation.gov.uk/nisr/2005/562), [regs. 1](https://www.legislation.gov.uk/nisr/2005/562/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/562/regulation/3)
+[^c-fded560cac4d24525af52bce0235399c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/522) revoked (1.1.2006) by [Foyle Area and Carlingford Area (Licensing of Fishing Engines) (Amendment) Regulations 2005 (S.R. 2005/562)](https://www.legislation.gov.uk/nisr/2005/562), [regs. 1](https://www.legislation.gov.uk/nisr/2005/562/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/562/regulation/3)

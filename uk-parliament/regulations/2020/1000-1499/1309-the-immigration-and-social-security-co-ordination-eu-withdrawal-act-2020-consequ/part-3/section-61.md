@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Amendment of the Tax Credits (Residence) Regulations 2003[^key-4f361f5e1062170170d53687e3e0b727][^M_I_1079bdfe-57b9-4ac3-9b1e-8290e51c1946]
+## 61. Amendment of the Tax Credits (Residence) Regulations 2003[^c-4f361f5e1062170170d53687e3e0b727][^M_I_1079bdfe-57b9-4ac3-9b1e-8290e51c1946]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4f361f5e1062170170d53687e3e0b727]: Commencement: Reg. 61 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-4f361f5e1062170170d53687e3e0b727]: Commencement: Reg. 61 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_1079bdfe-57b9-4ac3-9b1e-8290e51c1946]: Commencement: Reg. 61 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Regulations under provisions inserted by sections 13, 16 and 17[^key-ed81d1ecc9aad41cd43d4f97cdfe05d7]
+## 29. Regulations under provisions inserted by sections 13, 16 and 17[^c-ed81d1ecc9aad41cd43d4f97cdfe05d7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 66(3) of the Children Act 2004 (regulations subject to affirmative pr
 
 ## Annotations
 
-[^key-ed81d1ecc9aad41cd43d4f97cdfe05d7]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/16/section/29) in force at 19.3.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/e)
+[^c-ed81d1ecc9aad41cd43d4f97cdfe05d7]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/16/section/29) in force at 19.3.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. False statements as to candidates[^key-c5a6ed7a97362154019d6b7bd582a9c3]
+## 75. False statements as to candidates[^c-c5a6ed7a97362154019d6b7bd582a9c3]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5a6ed7a97362154019d6b7bd582a9c3]: Commencement: Art. 75 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-c5a6ed7a97362154019d6b7bd582a9c3]: Commencement: Art. 75 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

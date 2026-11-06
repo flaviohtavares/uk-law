@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158B. Requirement to supply information about redirection of post.[^key-ff74333531bb0c5355e00119a522ff85][^c14906331][^c14906341]
+## 158B. Requirement to supply information about redirection of post.[^c-ff74333531bb0c5355e00119a522ff85][^c14906331][^c14906341]
 
 *Extent: N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 (5) Information supplied under subsection (1) or (2) above shall not be supplied by the recipient to any other person or body unless—
 
 - (a) it could be supplied to that person or body under either of those subsections; or
-- (b) it is supplied for the purposes of any civil or criminal proceedings relating to the Contributions and Benefits Act, the [^c14906371]Jobseekers (Northern Ireland) Order 1995 , Part 2 of the Welfare Reform (Northern Ireland) Order 2015[^key-eaff6ab206532454b31b9903a61fa878] , Part 5 of that Order[^key-46825bb78eaa273bf05a90a55121293b] or this Act or to any enactment applying in Great Britain corresponding to any of them.
+- (b) it is supplied for the purposes of any civil or criminal proceedings relating to the Contributions and Benefits Act, the [^c14906371]Jobseekers (Northern Ireland) Order 1995 , Part 2 of the Welfare Reform (Northern Ireland) Order 2015[^c-eaff6ab206532454b31b9903a61fa878] , Part 5 of that Order[^c-46825bb78eaa273bf05a90a55121293b] or this Act or to any enactment applying in Great Britain corresponding to any of them.
 
 (6) But where information supplied under subsection (1) or (2) above has been used (in accordance with paragraph (b) of the subsection concerned) in amending or supplementing other information, it is lawful for it to be—
 
@@ -48,12 +48,12 @@ summary: ''
 
 (8) In this section -[^c14906391]
 
-- “postal operator” has the same meaning as in Part 3 of the Postal Services Act 2011[^key-ef31284ed1e3b14408fb131e741fbb2e] ;
-- “**postal packet**” has the same meaning as in that Part[^key-cd5ee1d121074710c9993ebaa19b55e0] .
+- “postal operator” has the same meaning as in Part 3 of the Postal Services Act 2011[^c-ef31284ed1e3b14408fb131e741fbb2e] ;
+- “**postal packet**” has the same meaning as in that Part[^c-cd5ee1d121074710c9993ebaa19b55e0] .
 
 ## Annotations
 
-[^key-ff74333531bb0c5355e00119a522ff85]: Modification: S. 158B extended (6.4.2003) by [The Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 1(2)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/2), [Sch. 8 para. 32(1)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/1), [(2)(d)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/2/d), [(3)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/3); [S.R. 2003/204](https://www.legislation.gov.uk/nisr/2003/204), [art. 2](https://www.legislation.gov.uk/nisr/2003/204/article/2)
+[^c-ff74333531bb0c5355e00119a522ff85]: Modification: S. 158B extended (6.4.2003) by [The Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 1(2)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/2), [Sch. 8 para. 32(1)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/1), [(2)(d)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/2/d), [(3)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/3); [S.R. 2003/204](https://www.legislation.gov.uk/nisr/2003/204), [art. 2](https://www.legislation.gov.uk/nisr/2003/204/article/2)
 
 [^c14906331]: Textual amendment: S. 158B inserted (5.4.1999) by [1997 c. 47](https://www.legislation.gov.uk/ukpga/1997/47), [s. 21(2)](https://www.legislation.gov.uk/ukpga/1997/47/section/21/2); [S.I. 1999/1046](https://www.legislation.gov.uk/uksi/1999/1046), [art. 2](https://www.legislation.gov.uk/uksi/1999/1046/article/2)
 
@@ -65,12 +65,12 @@ summary: ''
 
 [^c14906371]: Marginal citation: [S.I. 1995/2705 (N.I.15)](https://www.legislation.gov.uk/nisi/1995/2705).
 
-[^key-eaff6ab206532454b31b9903a61fa878]: Textual amendment: Words in [s. 158B(5)(b)](https://www.legislation.gov.uk/ukpga/1992/8/section/158B/5/b) inserted (2.5.2016 for specified purposes, 27.9.2017 in so far as not already in force) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 25](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/25); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(v)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/v)[(dd)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/dd); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(ii)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/ii)
+[^c-eaff6ab206532454b31b9903a61fa878]: Textual amendment: Words in [s. 158B(5)(b)](https://www.legislation.gov.uk/ukpga/1992/8/section/158B/5/b) inserted (2.5.2016 for specified purposes, 27.9.2017 in so far as not already in force) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 25](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/25); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(v)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/v)[(dd)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/dd); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(ii)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/ii)
 
-[^key-46825bb78eaa273bf05a90a55121293b]: Textual amendment: Words in [s. 158B(5)(b)](https://www.legislation.gov.uk/ukpga/1992/8/section/158B/5/b) inserted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 26](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/26); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
+[^c-46825bb78eaa273bf05a90a55121293b]: Textual amendment: Words in [s. 158B(5)(b)](https://www.legislation.gov.uk/ukpga/1992/8/section/158B/5/b) inserted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 26](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/26); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
 
 [^c14906391]: Textual amendment: Words in 158B(8) inserted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. para. 94(3)(d)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/paragraph/94/3/d)
 
-[^key-ef31284ed1e3b14408fb131e741fbb2e]: Textual amendment: Words in s. 158B(8) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 144(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/144/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-ef31284ed1e3b14408fb131e741fbb2e]: Textual amendment: Words in s. 158B(8) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 144(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/144/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-cd5ee1d121074710c9993ebaa19b55e0]: Textual amendment: Words in s. 158B(8) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 144(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/144/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-cd5ee1d121074710c9993ebaa19b55e0]: Textual amendment: Words in s. 158B(8) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 144(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/144/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

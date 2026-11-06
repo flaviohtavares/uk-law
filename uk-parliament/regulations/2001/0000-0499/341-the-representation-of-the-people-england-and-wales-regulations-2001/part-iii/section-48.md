@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Sale of register and list of overseas electors[^key-f5e98eca210599b75787e64d09cd9127][^key-cc1414dfd9167e74e83b4d9a9aee14b3]
+## 48. Sale of register and list of overseas electors[^c-f5e98eca210599b75787e64d09cd9127][^c-cc1414dfd9167e74e83b4d9a9aee14b3]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5e98eca210599b75787e64d09cd9127]: Commencement: Reg. 48 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-f5e98eca210599b75787e64d09cd9127]: Commencement: Reg. 48 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
 
-[^key-cc1414dfd9167e74e83b4d9a9aee14b3]: Modification: [Reg. 48](https://www.legislation.gov.uk/uksi/2001/341/regulation/48) extended (1.3.2003) by [The National Assembly for Wales (Representation of the People) Order 2003 (S.I. 2003/284)](https://www.legislation.gov.uk/uksi/2003/284), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/284/article/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2003/284/schedule/1/paragraph/2)
+[^c-cc1414dfd9167e74e83b4d9a9aee14b3]: Modification: [Reg. 48](https://www.legislation.gov.uk/uksi/2001/341/regulation/48) extended (1.3.2003) by [The National Assembly for Wales (Representation of the People) Order 2003 (S.I. 2003/284)](https://www.legislation.gov.uk/uksi/2003/284), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/284/article/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2003/284/schedule/1/paragraph/2)

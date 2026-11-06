@@ -23,7 +23,7 @@ summary: ''
 (1)[^c18029631] A duty of excise (“**vehicle excise duty**”) shall be charged in respect of every mechanically propelled vehicle that—
 
 - (a) is registered under this Act (see section 21), or
-- (b)[^key-a7363ffa7a4d98857fc62817d259e26e] is not so registered but is used, or kept, on a public road in the United Kingdom.
+- (b)[^c-a7363ffa7a4d98857fc62817d259e26e] is not so registered but is used, or kept, on a public road in the United Kingdom.
 
 (1A) Vehicle excise duty shall also be charged in respect of every thing (whether or not it is a vehicle) that has been, but has ceased to be, a mechanically propelled vehicle and—
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c18029631]: Textual amendment: S. 1(1)-(1D) substituted (30.11.2003) for s. 1(1) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 19](https://www.legislation.gov.uk/ukpga/2002/23/section/19), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2002/23/schedule/5/paragraph/2); [S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/3086/article/2/b)
 
-[^key-a7363ffa7a4d98857fc62817d259e26e]: Modification: S. 1(1)(b) excluded by 1988 c. 52, s. 12E (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
+[^c-a7363ffa7a4d98857fc62817d259e26e]: Modification: S. 1(1)(b) excluded by 1988 c. 52, s. 12E (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))

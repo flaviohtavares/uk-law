@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Adjustments to disposal costs: waste income and determination of net efficient disposal costs[^key-d1bf3a2ad553a8ec77a09ab016e5c4f5]
+## 71. Adjustments to disposal costs: waste income and determination of net efficient disposal costs[^c-d1bf3a2ad553a8ec77a09ab016e5c4f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ where—
 
 ## Annotations
 
-[^key-d1bf3a2ad553a8ec77a09ab016e5c4f5]: Commencement: Reg. 71 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-d1bf3a2ad553a8ec77a09ab016e5c4f5]: Commencement: Reg. 71 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

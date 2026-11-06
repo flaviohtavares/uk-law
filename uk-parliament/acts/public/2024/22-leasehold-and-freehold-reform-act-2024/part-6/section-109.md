@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Guidance for enforcement authorities and scheme administrators[^key-3d55d4272e68c6a5cb4fad96448ecba6]
+## 109. Guidance for enforcement authorities and scheme administrators[^c-3d55d4272e68c6a5cb4fad96448ecba6]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d55d4272e68c6a5cb4fad96448ecba6]: Commencement: S. 109 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-3d55d4272e68c6a5cb4fad96448ecba6]: Commencement: S. 109 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

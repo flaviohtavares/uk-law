@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.18. Content of application for a production order under the Proceeds of Crime Act 2002[^key-922f4438621bf5b96374c6bc9d8c43eb]
+## 47.18. Content of application for a production order under the Proceeds of Crime Act 2002[^c-922f4438621bf5b96374c6bc9d8c43eb]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ As well as complying with rules 47.6 and 47.17, an applicant who wants the court
 
 ## Annotations
 
-[^key-922f4438621bf5b96374c6bc9d8c43eb]: Commencement: Rule 47.18 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-922f4438621bf5b96374c6bc9d8c43eb]: Commencement: Rule 47.18 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01168]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); sections 345 and 346 were amended by section 75 of the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), section 169 of, and paragraphs 1, 6 and 7 of Schedule 19 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) and section 49 of, and paragraphs 1, 4 and 5 of Schedule 19 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22). Section 350 was amended by section 77 of, and paragraphs 1 and 5 of Schedule 10 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), section 169 of, and paragraphs 1 and 8 of Schedule 19 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) and sections 66 and 112 of, and Schedule 8 to, the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26).
 

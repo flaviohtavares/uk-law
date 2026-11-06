@@ -47,7 +47,7 @@ the power of entry conferred by subsection (3) is exercisable in relation to any
 - (a) to the owner of the premises (if known), and
 - (b) to the occupier (if any).
 
-(5A)[^key-44b09c6544b4f5d8a317e7250dcc0b7f] In relation to any qualifying residential premises within the meaning given by section 2B, notice need not be given—
+(5A)[^c-44b09c6544b4f5d8a317e7250dcc0b7f] In relation to any qualifying residential premises within the meaning given by section 2B, notice need not be given—
 
 - (a) to any owner;
 - (b) to any occupier who has waived the requirement to give notice.
@@ -95,4 +95,4 @@ the authorised person or proper officer must give that person notice of the exer
 
 [^c2051500]: Commencement: S. 239 wholly in force at 16.6.2006; s. 239 not in force at Royal Assent see s. 270(4)(5); s. 239 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 239 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-44b09c6544b4f5d8a317e7250dcc0b7f]: Textual amendment: [S. 239(5A)-(5C)](https://www.legislation.gov.uk/ukpga/2004/34/section/239/5A) inserted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 135(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/135/2), [145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))
+[^c-44b09c6544b4f5d8a317e7250dcc0b7f]: Textual amendment: [S. 239(5A)-(5C)](https://www.legislation.gov.uk/ukpga/2004/34/section/239/5A) inserted (27.12.2025) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 135(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/135/2), [145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138))

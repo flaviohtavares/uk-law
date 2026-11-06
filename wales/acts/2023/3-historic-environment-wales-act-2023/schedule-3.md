@@ -35,7 +35,7 @@ TABLE
 | Class 7: Works grant aided by the Welsh Ministers | Works for the preservation, maintenance or management of a scheduled monument where the works are carried out in accordance with the terms of a written agreement under which the Welsh Ministers meet, or contribute towards, the cost of those works. |
 | Class 8: Works undertaken by the Royal Commission on the Ancient and Historical Monuments of Wales | Works consisting of placing survey markers to a depth not exceeding 300 millimetres for the purpose of measured surveying of visible remains, where the works are carried out by the Royal Commission on the Ancient and Historical Monuments of Wales. |
 
-### 1. Power to amend Schedule[^key-2278f650447b9f1dd181467fe438f3de][^key-8dba4d213e436b7cb76cb5185c20871a]
+### 1. Power to amend Schedule[^c-2278f650447b9f1dd181467fe438f3de][^c-8dba4d213e436b7cb76cb5185c20871a]
 
 The Welsh Ministers may by regulations amend this Schedule to—
 
@@ -45,6 +45,6 @@ The Welsh Ministers may by regulations amend this Schedule to—
 
 ## Annotations
 
-[^key-2278f650447b9f1dd181467fe438f3de]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2278f650447b9f1dd181467fe438f3de]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-8dba4d213e436b7cb76cb5185c20871a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2023/3/schedule/3/paragraph/1) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-8dba4d213e436b7cb76cb5185c20871a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2023/3/schedule/3/paragraph/1) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

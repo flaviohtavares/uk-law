@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. “Financial institution”[^M_I_8cee577b-5eca-4045-e3b3-3041aeb10eaa][^key-b4c941cf5755069372aad43b01279595]
+## 230. “Financial institution”[^M_I_8cee577b-5eca-4045-e3b3-3041aeb10eaa][^c-b4c941cf5755069372aad43b01279595]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^M_I_8cee577b-5eca-4045-e3b3-3041aeb10eaa]: Commencement: S. 230 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 5
 
-[^key-b4c941cf5755069372aad43b01279595]: Commencement: S. 230 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/5)
+[^c-b4c941cf5755069372aad43b01279595]: Commencement: S. 230 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/5)

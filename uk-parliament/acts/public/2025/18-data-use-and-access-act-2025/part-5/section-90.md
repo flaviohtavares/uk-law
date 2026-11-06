@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Joint processing: consequential amendments[^key-275f68a1c470bfbc264195732d355a4e][^key-024d5fbcb53dd74c669c532a9a90962d]
+## 90. Joint processing: consequential amendments[^c-275f68a1c470bfbc264195732d355a4e][^c-024d5fbcb53dd74c669c532a9a90962d]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,6 +87,6 @@ summary: ''
 
 ## Annotations
 
-[^key-275f68a1c470bfbc264195732d355a4e]: Commencement: S. 90 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-275f68a1c470bfbc264195732d355a4e]: Commencement: S. 90 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-024d5fbcb53dd74c669c532a9a90962d]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2025/18/section/90) in force at 17.11.2025 by [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/2/b)
+[^c-024d5fbcb53dd74c669c532a9a90962d]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2025/18/section/90) in force at 17.11.2025 by [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/2/b)

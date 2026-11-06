@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Education, in exercise of the powers conferred by sections 14(3), 15A and 66(1) of the Children Act 2004[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-81bd46f6a6dd232319b405a3735384be]
+## 1. Citation, commencement and interpretation[^c-81bd46f6a6dd232319b405a3735384be]
 
 (1) These Regulations may be cited as the Local Safeguarding Children Boards (Review) Regulations 2013 and come into force on 9th October 2013.
 
@@ -70,17 +70,17 @@ The Secretary of State for Education, in exercise of the powers conferred by sec
 - (a) the local authority by which an LSCB is established, or
 - (b) in a case where an LSCB is established by two or more local authorities for their combined area, those authorities acting jointly.
 
-## 2. Specified functions of LSCBs[^key-617b65d62aa6c8e8ece9b453c9b9b311]
+## 2. Specified functions of LSCBs[^c-617b65d62aa6c8e8ece9b453c9b9b311]
 
 The functions in regulations 5 and 6 of the LSCB Regulations are specified for the purposes of section 15A(1) of the Act.
 
-## 3. Review by the Chief Inspector[^key-01f3982e5f44c7f4b3596ee80b3e03a7]
+## 3. Review by the Chief Inspector[^c-01f3982e5f44c7f4b3596ee80b3e03a7]
 
 (1) The Chief Inspector may conduct a review of the performance by an LSCB of any or all of the functions specified in regulation 2.
 
 (2) When requested to do so by the Secretary of State, the Chief Inspector must conduct a review of the performance by an LSCB of any or all of the functions specified in regulation 2 as set out in the request.
 
-## 4. Report on a review[^key-03e52d0d44876676ef3f6eddb685f5c0]
+## 4. Report on a review[^c-03e52d0d44876676ef3f6eddb685f5c0]
 
 (1) Where a review has been completed, the Chief Inspector must make a written report in respect of the review.
 
@@ -102,7 +102,7 @@ The functions in regulations 5 and 6 of the LSCB Regulations are specified for t
 
 (5) In this regulation “working day” means any day other than a Saturday, Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00006].
 
-## 5. Power to require information, etc.[^key-71734cca5739e396ea6095adc38acbce][^key-3b905fbae2ebaea666c65edff4795b59]
+## 5. Power to require information, etc.[^c-71734cca5739e396ea6095adc38acbce][^c-3b905fbae2ebaea666c65edff4795b59]
 
 (1) The Chief Inspector may at any time, for the purposes of a review, require the LSCB Chair or a representative to provide him with any information, documents or other items—
 
@@ -144,7 +144,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2004 c.31](https://www.legislation.gov.uk/ukpga/2004/31). Section 15A is inserted by section 10 of the Children, Schools and Families Act [2010 (c. 26)](https://www.legislation.gov.uk/ukpga/2010/26).
 
-[^key-81bd46f6a6dd232319b405a3735384be]: Commencement: Reg. 1 in force at 9.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2299/regulation/1/1)
+[^c-81bd46f6a6dd232319b405a3735384be]: Commencement: Reg. 1 in force at 9.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2299/regulation/1/1)
 
 [^f00002]: Footnote: Section 13(3) is amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 13(3)(ca) and (cb) is inserted by paragraph 4(1) and (4) of Schedule 3 to the Offender Management Act [2007 (c.21)](https://www.legislation.gov.uk/ukpga/2007/21). Section 13(3)(da) and (db) is inserted by paragraphs 127 and 131(a) and (b) of Schedule 5 to the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”). Section 13(3)(e) is repealed by paragraphs 127 and 131(c) of Schedule 5 to the 2012 Act. Section 13(3)(f) is amended by paragraphs 96 and 98 of Schedule 14 to the 2012 Act. Section 13(3)(g) is amended by paragraphs 82 and 85 of Schedule 1 to the Education and Skills Act [2008 (c.25)](https://www.legislation.gov.uk/ukpga/2008/25).
 
@@ -154,14 +154,14 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00005]: Footnote: Regulation 3A is inserted by [S.I. 2010/622](https://www.legislation.gov.uk/uksi/2010/622).
 
-[^key-617b65d62aa6c8e8ece9b453c9b9b311]: Commencement: Reg. 2 in force at 9.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2299/regulation/1/1)
+[^c-617b65d62aa6c8e8ece9b453c9b9b311]: Commencement: Reg. 2 in force at 9.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2299/regulation/1/1)
 
-[^key-01f3982e5f44c7f4b3596ee80b3e03a7]: Commencement: Reg. 3 in force at 9.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2299/regulation/1/1)
+[^c-01f3982e5f44c7f4b3596ee80b3e03a7]: Commencement: Reg. 3 in force at 9.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2299/regulation/1/1)
 
-[^key-03e52d0d44876676ef3f6eddb685f5c0]: Commencement: Reg. 4 in force at 9.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2299/regulation/1/1)
+[^c-03e52d0d44876676ef3f6eddb685f5c0]: Commencement: Reg. 4 in force at 9.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2299/regulation/1/1)
 
 [^f00006]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-71734cca5739e396ea6095adc38acbce]: Commencement: Reg. 5 in force at 9.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2299/regulation/1/1)
+[^c-71734cca5739e396ea6095adc38acbce]: Commencement: Reg. 5 in force at 9.10.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2299/regulation/1/1)
 
-[^key-3b905fbae2ebaea666c65edff4795b59]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2299/regulation/5) applied (with modifications) (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/9)
+[^c-3b905fbae2ebaea666c65edff4795b59]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2299/regulation/5) applied (with modifications) (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Determination of the winning principal stage bids[^key-df4186390369b4a6d35ff4ee01791e1e]
+## 33. Determination of the winning principal stage bids[^c-df4186390369b4a6d35ff4ee01791e1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df4186390369b4a6d35ff4ee01791e1e]: Commencement: Reg. 33 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-df4186390369b4a6d35ff4ee01791e1e]: Commencement: Reg. 33 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

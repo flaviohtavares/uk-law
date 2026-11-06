@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122B. General power to require information[^key-6fd0432ab398d8bfa3958d489ec58a52]
+## 122B. General power to require information[^c-6fd0432ab398d8bfa3958d489ec58a52]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) to provide specified information or information of a specified description; or
 - (b) to produce specified documents or documents of a specified description.
 
-(2) This section applies only to information and documents that the FCA reasonably requires for the purpose of the exercise by it of functions under the market abuse regulation or under supplementary market abuse legislation[^key-cf7269478571625c1fc81c83d6e874c7].
+(2) This section applies only to information and documents that the FCA reasonably requires for the purpose of the exercise by it of functions under the market abuse regulation or under supplementary market abuse legislation[^c-cf7269478571625c1fc81c83d6e874c7].
 
 (3) Information or documents required under this section must be provided or produced—
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) any information provided, whether in a document or otherwise, to be verified in such manner as it may reasonably require; or
 - (b) any document produced to be authenticated in such manner as it may reasonably require.
 
-(6)[^key-e56006908446b05d75d5c70b7beb9b8c] The FCA may exercise its powers under this section at the request of an overseas regulator where the regulator makes the request in the exercise of its relevant functions.
+(6)[^c-e56006908446b05d75d5c70b7beb9b8c] The FCA may exercise its powers under this section at the request of an overseas regulator where the regulator makes the request in the exercise of its relevant functions.
 
 (6A) In subsection (6)—
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6fd0432ab398d8bfa3958d489ec58a52]: Textual amendment: Ss. 122A-122I and cross-headings inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/4)
+[^c-6fd0432ab398d8bfa3958d489ec58a52]: Textual amendment: Ss. 122A-122I and cross-headings inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/4)
 
-[^key-cf7269478571625c1fc81c83d6e874c7]: Textual amendment: Words in [s. 122B(2)](https://www.legislation.gov.uk/ukpga/2000/8/section/122B/2) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/310/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf7269478571625c1fc81c83d6e874c7]: Textual amendment: Words in [s. 122B(2)](https://www.legislation.gov.uk/ukpga/2000/8/section/122B/2) substituted (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/310/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e56006908446b05d75d5c70b7beb9b8c]: Textual amendment: [S. 122B(6)](https://www.legislation.gov.uk/ukpga/2000/8/section/122B/6)[(6A)](https://www.legislation.gov.uk/ukpga/2000/8/section/122B/6A) substituted for [s. 122B(6)(7)](https://www.legislation.gov.uk/ukpga/2000/8/section/122B/6) (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/310/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e56006908446b05d75d5c70b7beb9b8c]: Textual amendment: [S. 122B(6)](https://www.legislation.gov.uk/ukpga/2000/8/section/122B/6)[(6A)](https://www.legislation.gov.uk/ukpga/2000/8/section/122B/6A) substituted for [s. 122B(6)(7)](https://www.legislation.gov.uk/ukpga/2000/8/section/122B/6) (31.12.2020) by [The Market Abuse (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/310)](https://www.legislation.gov.uk/uksi/2019/310), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/310/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/310/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

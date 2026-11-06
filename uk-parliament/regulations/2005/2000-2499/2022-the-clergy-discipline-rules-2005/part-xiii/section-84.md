@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 84. Death or serious illness or incapacity of the complainant[^key-1529a5761141ae4c2e1821985f187491]
+## 84. Death or serious illness or incapacity of the complainant[^c-1529a5761141ae4c2e1821985f187491]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Rules 55 and 56 shall be read as if the words “the parochial church council”
 
 ## Annotations
 
-[^key-1529a5761141ae4c2e1821985f187491]: Commencement: [Rule 84](https://www.legislation.gov.uk/uksi/2005/2022/rule/84) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-1529a5761141ae4c2e1821985f187491]: Commencement: [Rule 84](https://www.legislation.gov.uk/uksi/2005/2022/rule/84) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

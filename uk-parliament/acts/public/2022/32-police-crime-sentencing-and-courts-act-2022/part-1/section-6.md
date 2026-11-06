@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Meaning of careless driving: constables etc[^key-114833b07bb5e5ccf283bfd6406fa5c9][^key-c4999c9a6c4b7a792a3441c959db53c2]
+## 6. Meaning of careless driving: constables etc[^c-114833b07bb5e5ccf283bfd6406fa5c9][^c-c4999c9a6c4b7a792a3441c959db53c2]
 
 *Extent: E+W+S*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-114833b07bb5e5ccf283bfd6406fa5c9]: Commencement: S. 6 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-114833b07bb5e5ccf283bfd6406fa5c9]: Commencement: S. 6 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-c4999c9a6c4b7a792a3441c959db53c2]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/32/section/6) in force at 26.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/b)
+[^c-c4999c9a6c4b7a792a3441c959db53c2]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/32/section/6) in force at 26.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/b)

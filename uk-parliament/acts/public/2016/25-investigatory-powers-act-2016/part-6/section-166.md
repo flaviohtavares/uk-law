@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Approval of major modifications made in urgent cases[^key-5058352d396d058e782f399041a0d316]
+## 166. Approval of major modifications made in urgent cases[^c-5058352d396d058e782f399041a0d316]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ and section 165(4) does not apply in relation to the refusal to approve the deci
 
 ## Annotations
 
-[^key-5058352d396d058e782f399041a0d316]: Commencement: S. 166 in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)
+[^c-5058352d396d058e782f399041a0d316]: Commencement: S. 166 in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)

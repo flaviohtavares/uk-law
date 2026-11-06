@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Technical specifications[^key-3b61a29528dcb008530843477821e422]
+## 58. Technical specifications[^c-3b61a29528dcb008530843477821e422]
 
 *Extent: S*
 
@@ -66,11 +66,11 @@ summary: ''
 
 (7) Where the subject of the procurement is intended for use by natural persons, whether the general public or staff of the utility, the technical specifications must, except in duly justified cases, be drawn up so as to take into account accessibility criteria for persons with disabilities or design for all users.
 
-(8) Where mandatory accessibility requirements are imposed by[^key-0aff030ea87e0d57550ad53f0dc78247] assimilated[^key-2f11dffea20bedef2e0c1c79133db79a] law, technical specifications must, as far as accessibility criteria for persons with disabilities or design for all users are concerned, be defined by reference thereto.
+(8) Where mandatory accessibility requirements are imposed by[^c-0aff030ea87e0d57550ad53f0dc78247] assimilated[^c-2f11dffea20bedef2e0c1c79133db79a] law, technical specifications must, as far as accessibility criteria for persons with disabilities or design for all users are concerned, be defined by reference thereto.
 
 (9) Technical specifications must afford equal access of economic operators to the procurement and must not have the effect of creating unjustified obstacles to the opening up of procurement to competition.
 
-(10) Without prejudice to mandatory national technical rules, to the extent that they are compatible with assimilated[^key-78db716bdb9531b28c24f50c9b7a173d] law, the technical specifications must be formulated—
+(10) Without prejudice to mandatory national technical rules, to the extent that they are compatible with assimilated[^c-78db716bdb9531b28c24f50c9b7a173d] law, the technical specifications must be formulated—
 
 - (a) in terms of performance or functional requirements, including environmental characteristics, provided that the parameters are sufficiently precise to allow tenderers to determine the subject-matter of the contract and to allow the utility to award the contract;
 - (b) by reference to any of the following technical specifications in the following order of precedence—
@@ -104,10 +104,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3b61a29528dcb008530843477821e422]: Commencement: [Reg. 58](https://www.legislation.gov.uk/ssi/2016/49/regulation/58) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-3b61a29528dcb008530843477821e422]: Commencement: [Reg. 58](https://www.legislation.gov.uk/ssi/2016/49/regulation/58) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-0aff030ea87e0d57550ad53f0dc78247]: Textual amendment: Words in [reg. 58(8)](https://www.legislation.gov.uk/ssi/2016/49/regulation/58/8) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(35)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/35/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-0aff030ea87e0d57550ad53f0dc78247]: Textual amendment: Words in [reg. 58(8)](https://www.legislation.gov.uk/ssi/2016/49/regulation/58/8) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(35)(a)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/35/a) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-2f11dffea20bedef2e0c1c79133db79a]: Textual amendment: Word in [reg. 58(8)](https://www.legislation.gov.uk/ssi/2016/49/regulation/58/8) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 30(2)(a)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/30/2/a)
+[^c-2f11dffea20bedef2e0c1c79133db79a]: Textual amendment: Word in [reg. 58(8)](https://www.legislation.gov.uk/ssi/2016/49/regulation/58/8) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 30(2)(a)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/30/2/a)
 
-[^key-78db716bdb9531b28c24f50c9b7a173d]: Textual amendment: Word in [reg. 58(10)](https://www.legislation.gov.uk/ssi/2016/49/regulation/58/10) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 30(2)(b)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/30/2/b)
+[^c-78db716bdb9531b28c24f50c9b7a173d]: Textual amendment: Word in [reg. 58(10)](https://www.legislation.gov.uk/ssi/2016/49/regulation/58/10) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 30(2)(b)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/30/2/b)

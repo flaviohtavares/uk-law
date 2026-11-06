@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## L5. Allowances for pensioners[^key-f75a4c5183aefdb8d63978d4ee7a82fb]
+## L5. Allowances for pensioners[^c-f75a4c5183aefdb8d63978d4ee7a82fb]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ the relevant body may pay him an allowance under this regulation.
 
 ## Annotations
 
-[^key-f75a4c5183aefdb8d63978d4ee7a82fb]: Commencement: [Reg. L5](https://www.legislation.gov.uk/uksi/1986/24/regulation/L5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-f75a4c5183aefdb8d63978d4ee7a82fb]: Commencement: [Reg. L5](https://www.legislation.gov.uk/uksi/1986/24/regulation/L5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

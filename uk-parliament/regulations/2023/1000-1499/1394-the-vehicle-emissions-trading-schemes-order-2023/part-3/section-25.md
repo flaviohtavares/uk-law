@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Trading CRTS allowances and credits: CRTS participants[^key-551b2e122ab88c534c3f5b40f6104da4]
+## 25. Trading CRTS allowances and credits: CRTS participants[^c-551b2e122ab88c534c3f5b40f6104da4]
 
 *Extent: E+W+S+N.I.*
 
 (1) During a trading window, a CRTS participant may trade any CRTS allowances or CRTS credits with another CRTS participant, but may not trade—
 
 - (a) a CRTS allowance which was borrowed in accordance with article 15; or
-- (b) a CRTS credit which was acquired in accordance with article 23 (conversion of unused CCTS allowances) , article 23A (conversion of unused VRTS allowances), article 23B (conversion of VRTS credits by a SPV van manufacturer), article 57A (trading VRTS allowances with CRTS participants) or article 58A (trading VRTS credits with CRTS participants: SPV van manufacturers)[^key-95850e6a555e51f8f6ba3f1cdc1a9caf].
+- (b) a CRTS credit which was acquired in accordance with article 23 (conversion of unused CCTS allowances) , article 23A (conversion of unused VRTS allowances), article 23B (conversion of VRTS credits by a SPV van manufacturer), article 57A (trading VRTS allowances with CRTS participants) or article 58A (trading VRTS credits with CRTS participants: SPV van manufacturers)[^c-95850e6a555e51f8f6ba3f1cdc1a9caf].
 
 (2) A CRTS participant may trade parts of CRTS allowances or CRTS credits, but may not trade a part smaller than one tenth of a CRTS allowance or CRTS credit.
 
-(3) Each CRTS participant which is party to a trade under this article[^key-6a0693858f63632e51b038517ed80aa3] must, before the end of the trading window, notify the administrator of the trade and each notification must include—
+(3) Each CRTS participant which is party to a trade under this article[^c-6a0693858f63632e51b038517ed80aa3] must, before the end of the trading window, notify the administrator of the trade and each notification must include—
 
 - (a) the name and account number in the registry of the CRTS participant which is the transferor;
 - (b) the name and account number in the registry of the CRTS participant which is the transferee;
-- (ba)[^key-e2c5ae9a47f8871ee44c43c362d9cf1b] a statement of the fact that the trade was carried out under this article;
+- (ba)[^c-e2c5ae9a47f8871ee44c43c362d9cf1b] a statement of the fact that the trade was carried out under this article;
 - (c) the number of CRTS allowances or CRTS credits traded; and
 - (d) the price paid for those CRTS allowances or CRTS credits.
 
@@ -48,10 +48,10 @@ summary: ''
 
 ## Annotations
 
-[^key-551b2e122ab88c534c3f5b40f6104da4]: Commencement: Art. 25 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-551b2e122ab88c534c3f5b40f6104da4]: Commencement: Art. 25 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-95850e6a555e51f8f6ba3f1cdc1a9caf]: Textual amendment: Words in [art. 25(1)(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/25/1/b) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2025/1101/article/11/2)
+[^c-95850e6a555e51f8f6ba3f1cdc1a9caf]: Textual amendment: Words in [art. 25(1)(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/25/1/b) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2025/1101/article/11/2)
 
-[^key-6a0693858f63632e51b038517ed80aa3]: Textual amendment: Words in [art. 25(3)](https://www.legislation.gov.uk/uksi/2023/1394/article/25/3) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2025/1101/article/11/3/a)
+[^c-6a0693858f63632e51b038517ed80aa3]: Textual amendment: Words in [art. 25(3)](https://www.legislation.gov.uk/uksi/2023/1394/article/25/3) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2025/1101/article/11/3/a)
 
-[^key-e2c5ae9a47f8871ee44c43c362d9cf1b]: Textual amendment: [Art. 25(3)(ba)](https://www.legislation.gov.uk/uksi/2023/1394/article/25/3/ba) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2025/1101/article/11/3/b)
+[^c-e2c5ae9a47f8871ee44c43c362d9cf1b]: Textual amendment: [Art. 25(3)(ba)](https://www.legislation.gov.uk/uksi/2023/1394/article/25/3/ba) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2025/1101/article/11/3/b)

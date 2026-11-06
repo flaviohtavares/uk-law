@@ -36,39 +36,39 @@ concerning the dissemination of statistics on the carriage of goods by road
 
 (Text with EEA relevance) (revoked)
 
-[^key-485b46a35379e9794ec58d7b5474302b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-485b46a35379e9794ec58d7b5474302b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-485b46a35379e9794ec58d7b5474302b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-485b46a35379e9794ec58d7b5474302b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-485b46a35379e9794ec58d7b5474302b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-485b46a35379e9794ec58d7b5474302b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-485b46a35379e9794ec58d7b5474302b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-485b46a35379e9794ec58d7b5474302b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-485b46a35379e9794ec58d7b5474302b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-485b46a35379e9794ec58d7b5474302b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-485b46a35379e9794ec58d7b5474302b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-485b46a35379e9794ec58d7b5474302b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — LIST OF TABLES FOR DISSEMINATION[^key-485b46a35379e9794ec58d7b5474302b]
+## ANNEX — LIST OF TABLES FOR DISSEMINATION[^c-485b46a35379e9794ec58d7b5474302b]
 
-[^key-485b46a35379e9794ec58d7b5474302b] A.
+[^c-485b46a35379e9794ec58d7b5474302b] A.
 
 **Continuity of existing tables**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-485b46a35379e9794ec58d7b5474302b] B.
+[^c-485b46a35379e9794ec58d7b5474302b] B.
 
 **Main tables**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-485b46a35379e9794ec58d7b5474302b] C.
+[^c-485b46a35379e9794ec58d7b5474302b] C.
 
 **Tables on cabotage**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-485b46a35379e9794ec58d7b5474302b] D.
+[^c-485b46a35379e9794ec58d7b5474302b] D.
 
 **Tables for national authorities of Member States**
 
@@ -76,4 +76,4 @@ concerning the dissemination of statistics on the carriage of goods by road
 
 ## Annotations
 
-[^key-485b46a35379e9794ec58d7b5474302b]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-485b46a35379e9794ec58d7b5474302b]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

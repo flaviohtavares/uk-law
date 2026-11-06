@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Further provisions about search and seizure warrants[^key-5e80cd280a83c073e93a851b8744ad47]
+## 53. Further provisions about search and seizure warrants[^c-5e80cd280a83c073e93a851b8744ad47]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ If it specifies that it authorises multiple entries, it must also specify whethe
 
 ## Annotations
 
-[^key-5e80cd280a83c073e93a851b8744ad47]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2015/9/section/53) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)
+[^c-5e80cd280a83c073e93a851b8744ad47]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2015/9/section/53) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)

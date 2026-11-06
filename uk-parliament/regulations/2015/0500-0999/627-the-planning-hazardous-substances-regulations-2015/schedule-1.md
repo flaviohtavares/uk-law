@@ -117,7 +117,7 @@ Regulation 3
 </tbody>
 </table>
 
-[^key-5a09cf84eae69ffc0f62b98f6c8a0881]
+[^c-5a09cf84eae69ffc0f62b98f6c8a0881]
 
 ### PART 3 — Substances used in processes
 
@@ -137,7 +137,7 @@ Regulation 3
 
 The quantities to be considered for the application of these Regulations are the maximum quantities which are present or are likely to be present at any one time.
 
-**5.**[^key-74544f0072a2b907f809e3016f460412] (1) In the case of an establishment where two or more below-threshold substances in the same hazard group are present, the rule in paragraph (3) applies to those substances.
+**5.**[^c-74544f0072a2b907f809e3016f460412] (1) In the case of an establishment where two or more below-threshold substances in the same hazard group are present, the rule in paragraph (3) applies to those substances.
 
 (2) In this note—
 
@@ -160,7 +160,7 @@ where—
 
 **6.** In the case of hazardous substances which are not covered by the CLP Regulation, including waste, but which nevertheless are present, or are likely to be present, in an establishment and which possess or are likely to possess, under the conditions found at the establishment, equivalent properties in terms of major accident potential, these must be provisionally assigned to the most analogous category or named hazardous substance falling within the scope of these Regulations.
 
-**7.** In the case of hazardous substances with properties giving rise to more than one classification, for the purposes of these Regulations the lowest controlled quantities apply. However, for the application of the rule in note 5, the lowest controlled quantity for each hazard group under note 5[^key-429e12375efd95fbe2c0cc585217d558] corresponding to the classification concerned must be used.
+**7.** In the case of hazardous substances with properties giving rise to more than one classification, for the purposes of these Regulations the lowest controlled quantities apply. However, for the application of the rule in note 5, the lowest controlled quantity for each hazard group under note 5[^c-429e12375efd95fbe2c0cc585217d558] corresponding to the classification concerned must be used.
 
 **8.** Hazardous substances that fall within Acute Toxic Category 3 via the oral route (H 301) fall under entry H2 ACUTE TOXIC in those cases where neither acute inhalation toxicity classification nor acute dermal toxicity classification can be derived, for example due to lack of conclusive inhalation and dermal toxicity data.
 
@@ -258,11 +258,11 @@ The quantities of polychlorodibenzofurans and polychlorodibenzodioxins are calcu
 
 ## Annotations
 
-[^key-5a09cf84eae69ffc0f62b98f6c8a0881]: Textual amendment: Sch. 1 Pt. 2 symbol added (E.) (10.6.2015) by [The Planning (Hazardous Substances) (Amendment) Regulations 2015 (S.I. 2015/1359)](https://www.legislation.gov.uk/uksi/2015/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1359/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1359/regulation/2/2)
+[^c-5a09cf84eae69ffc0f62b98f6c8a0881]: Textual amendment: Sch. 1 Pt. 2 symbol added (E.) (10.6.2015) by [The Planning (Hazardous Substances) (Amendment) Regulations 2015 (S.I. 2015/1359)](https://www.legislation.gov.uk/uksi/2015/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1359/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1359/regulation/2/2)
 
-[^key-74544f0072a2b907f809e3016f460412]: Textual amendment: Sch. 1 Pt. 4, note 5 substituted (6.4.2017) by [The Planning (Hazardous Substances) (Amendment) Regulations 2017 (S.I. 2017/365)](https://www.legislation.gov.uk/uksi/2017/365), [regs. 1](https://www.legislation.gov.uk/uksi/2017/365/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2017/365/regulation/2/1)
+[^c-74544f0072a2b907f809e3016f460412]: Textual amendment: Sch. 1 Pt. 4, note 5 substituted (6.4.2017) by [The Planning (Hazardous Substances) (Amendment) Regulations 2017 (S.I. 2017/365)](https://www.legislation.gov.uk/uksi/2017/365), [regs. 1](https://www.legislation.gov.uk/uksi/2017/365/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2017/365/regulation/2/1)
 
-[^key-429e12375efd95fbe2c0cc585217d558]: Textual amendment: Words in Sch. 1 Pt. 4, note 7 replaced (6.4.2017) by [The Planning (Hazardous Substances) (Amendment) Regulations 2017 (S.I. 2017/365)](https://www.legislation.gov.uk/uksi/2017/365), [regs. 1](https://www.legislation.gov.uk/uksi/2017/365/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/365/regulation/2/2)
+[^c-429e12375efd95fbe2c0cc585217d558]: Textual amendment: Words in Sch. 1 Pt. 4, note 7 replaced (6.4.2017) by [The Planning (Hazardous Substances) (Amendment) Regulations 2017 (S.I. 2017/365)](https://www.legislation.gov.uk/uksi/2017/365), [regs. 1](https://www.legislation.gov.uk/uksi/2017/365/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/365/regulation/2/2)
 
 [^c22465171]: Marginal citation: More guidance on waiving of the test can be found in the A.14 method description in the Annex to Council Regulation (EC) No 440/2008 of 30 May 2008 laying down test methods pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration Evaluation, Authorisation and Restriction of Chemicals (REACH) (O.J. L 142, 31.5.2008, p. 1).
 

@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Valuation and Rating (Coronavirus) (Scotland) Order 2021 (revoked)[^key-ecb4f3fb73811f45d68940f6b9fe4d7c]
+The Valuation and Rating (Coronavirus) (Scotland) Order 2021 (revoked)[^c-ecb4f3fb73811f45d68940f6b9fe4d7c]
 
 Made
 
@@ -42,30 +42,30 @@ Coming into force
 
 1st December 2021
 
-[^key-ecb4f3fb73811f45d68940f6b9fe4d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecb4f3fb73811f45d68940f6b9fe4d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and date of effect[^key-ecb4f3fb73811f45d68940f6b9fe4d7c]
+## 1. Citation, commencement and date of effect[^c-ecb4f3fb73811f45d68940f6b9fe4d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ecb4f3fb73811f45d68940f6b9fe4d7c]
+## 2. Interpretation[^c-ecb4f3fb73811f45d68940f6b9fe4d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Specified lands and heritages[^key-ecb4f3fb73811f45d68940f6b9fe4d7c]
+## 3. Specified lands and heritages[^c-ecb4f3fb73811f45d68940f6b9fe4d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Rateable values[^key-ecb4f3fb73811f45d68940f6b9fe4d7c]
+## 4. Rateable values[^c-ecb4f3fb73811f45d68940f6b9fe4d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ecb4f3fb73811f45d68940f6b9fe4d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecb4f3fb73811f45d68940f6b9fe4d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ecb4f3fb73811f45d68940f6b9fe4d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecb4f3fb73811f45d68940f6b9fe4d7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ecb4f3fb73811f45d68940f6b9fe4d7c]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2021/445) revoked (29.7.2022) by [Non-Domestic Rates (Coronavirus) (Scotland) Act 2022 (asp 7)](https://www.legislation.gov.uk/asp/2022/7), [ss. 4](https://www.legislation.gov.uk/asp/2022/7/section/4), [5](https://www.legislation.gov.uk/asp/2022/7/section/5)
+[^c-ecb4f3fb73811f45d68940f6b9fe4d7c]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2021/445) revoked (29.7.2022) by [Non-Domestic Rates (Coronavirus) (Scotland) Act 2022 (asp 7)](https://www.legislation.gov.uk/asp/2022/7), [ss. 4](https://www.legislation.gov.uk/asp/2022/7/section/4), [5](https://www.legislation.gov.uk/asp/2022/7/section/5)

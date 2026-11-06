@@ -22,9 +22,9 @@ summary: ''
 
 Section 40
 
-**1.**[^c22726131][^key-235d92c01910aabea40026874250b479][^key-9c5aab9077c8bc42a93027356616b4f5] Schedule 1 to the Anti-terrorism, Crime and Security Act 2001 (forfeiture of terrorist cash) is amended as follows.
+**1.**[^c22726131][^c-235d92c01910aabea40026874250b479][^c-9c5aab9077c8bc42a93027356616b4f5] Schedule 1 to the Anti-terrorism, Crime and Security Act 2001 (forfeiture of terrorist cash) is amended as follows.
 
-**2.**[^c22726141][^key-506b7b4fefc4f2a239d6f313c2478337][^key-c3e4e7fde64900a581a4807cf9007231] After paragraph 10P (inserted by Schedule 3 above) insert—
+**2.**[^c22726141][^c-506b7b4fefc4f2a239d6f313c2478337][^c-c3e4e7fde64900a581a4807cf9007231] After paragraph 10P (inserted by Schedule 3 above) insert—
 
 > **PART 4B — Forfeiture of terrorist money held in bank and building society accounts**
 >
@@ -381,7 +381,7 @@ Section 40
 >   it is to be paid out of the police fund from which the expenses of the police force are met;
 > - (b) in the case of an investigator who was a member of staff of the Police Service of Northern Ireland, it is to be paid out of money provided by the Chief Constable of the Police Service of Northern Ireland.
 
-**3.**[^c22726151][^key-92f3f9db97d28a61610570d29b181504] (1) Paragraph 19 (general interpretation) is amended as follows.
+**3.**[^c22726151][^c-92f3f9db97d28a61610570d29b181504] (1) Paragraph 19 (general interpretation) is amended as follows.
 
 (2) In sub-paragraph (1), at the appropriate places insert—
 
@@ -421,16 +421,16 @@ Section 40
 
 [^c22726131]: Commencement: [Sch. 4 para 1](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/1) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)
 
-[^key-235d92c01910aabea40026874250b479]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/1) in force at 30.1.2018 for specified purposes by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/f)
+[^c-235d92c01910aabea40026874250b479]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/1) in force at 30.1.2018 for specified purposes by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/f)
 
-[^key-9c5aab9077c8bc42a93027356616b4f5]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/1) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(dd)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/dd)
+[^c-9c5aab9077c8bc42a93027356616b4f5]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/1) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(dd)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/dd)
 
 [^c22726141]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/2) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)
 
-[^key-506b7b4fefc4f2a239d6f313c2478337]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/2) in force at 30.1.2018 for specified purposes by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/i)
+[^c-506b7b4fefc4f2a239d6f313c2478337]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/2) in force at 30.1.2018 for specified purposes by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/i)
 
-[^key-c3e4e7fde64900a581a4807cf9007231]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/2) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(dd)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/dd)
+[^c-c3e4e7fde64900a581a4807cf9007231]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/2) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(dd)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/dd)
 
 [^c22726151]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/3) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)
 
-[^key-92f3f9db97d28a61610570d29b181504]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/3) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(dd)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/dd)
+[^c-92f3f9db97d28a61610570d29b181504]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/3) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(dd)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/dd)

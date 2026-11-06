@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Inheritance tax: restriction on power to require information.[^key-d0998d6b401198cc32767478ba1724a2]
+## 124. Inheritance tax: restriction on power to require information.[^c-d0998d6b401198cc32767478ba1724a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0998d6b401198cc32767478ba1724a2]: Textual amendment: [S. 124](https://www.legislation.gov.uk/ukpga/1990/29/section/124) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/16/a)
+[^c-d0998d6b401198cc32767478ba1724a2]: Textual amendment: [S. 124](https://www.legislation.gov.uk/ukpga/1990/29/section/124) omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 16(a)](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/16/a)

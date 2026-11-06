@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**41.**[^key-ed0fc74d3a224f3a77067f7347d89462] In section 14—
+**41.**[^c-ed0fc74d3a224f3a77067f7347d89462] In section 14—
 
 - (a) in subsection (3)—
   - (i) for “Section 97(1), (3) and (4) of the Magistrates’ Courts Act 1980” substitute “Articles 118(1), (3) and (4), 119 and 120 of the Magistrates’ Courts (Northern Ireland) Order 1981”; and
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed0fc74d3a224f3a77067f7347d89462]: Commencement: Art. 41 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-ed0fc74d3a224f3a77067f7347d89462]: Commencement: Art. 41 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

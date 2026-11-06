@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 378. Appeal against decision relating to enforcement notice[^key-14e229c6445099daf2f8e070989a3a07]
+## 378. Appeal against decision relating to enforcement notice[^c-14e229c6445099daf2f8e070989a3a07]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14e229c6445099daf2f8e070989a3a07]: Commencement: S. 378 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-14e229c6445099daf2f8e070989a3a07]: Commencement: S. 378 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

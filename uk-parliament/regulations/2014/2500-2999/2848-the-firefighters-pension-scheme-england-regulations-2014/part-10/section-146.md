@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Requirement for scheme manager to provide a certificate[^key-87fc215b326c46ca1eab06731c3d1ee3]
+## 146. Requirement for scheme manager to provide a certificate[^c-87fc215b326c46ca1eab06731c3d1ee3]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87fc215b326c46ca1eab06731c3d1ee3]: Commencement: [Reg. 146](https://www.legislation.gov.uk/uksi/2014/2848/regulation/146) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-87fc215b326c46ca1eab06731c3d1ee3]: Commencement: [Reg. 146](https://www.legislation.gov.uk/uksi/2014/2848/regulation/146) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

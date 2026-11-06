@@ -855,7 +855,7 @@ Section 43
 
 (3) The amendments made by paragraphs 65 and 66 to sections 279A and 279C of TCGA 1992 (deferred unascertainable consideration: election for treatment of loss) have effect in relation to disposals made on or after 6 April 2025 of rights to which section 279A of that Act applies.
 
-#### 70A. Settlements: transitional protection where available protected income is increased by this Schedule[^key-d8e412a16d7c81b275bfa9b3086758bc]
+#### 70A. Settlements: transitional protection where available protected income is increased by this Schedule[^c-d8e412a16d7c81b275bfa9b3086758bc]
 
 (1) This paragraph applies for the purposes of section 643A of ITTOIA 2005 if an individual’s untaxed benefits total in relation to a settlement for the tax year 2024-25 exceeded the available protected income up to the end of that tax year.
 
@@ -917,4 +917,4 @@ Section 43
 
 ## Annotations
 
-[^key-d8e412a16d7c81b275bfa9b3086758bc]: Textual amendment: [Sch. 12 para. 70A](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70A) inserted (retrospective to 6.4.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 44(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/4)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/6)
+[^c-d8e412a16d7c81b275bfa9b3086758bc]: Textual amendment: [Sch. 12 para. 70A](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70A) inserted (retrospective to 6.4.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 44(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/4)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/6)

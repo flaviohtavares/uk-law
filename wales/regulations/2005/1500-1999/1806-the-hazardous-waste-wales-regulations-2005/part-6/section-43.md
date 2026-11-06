@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This regulation applies to the removal of any consignment following rejection by the consignee [^key-8f393b310992817ea93c63692e9ecc44]....
+(1) This regulation applies to the removal of any consignment following rejection by the consignee [^c-8f393b310992817ea93c63692e9ecc44]....
 
 (2) Before the consignment or part is moved from the original place for delivery, the hazardous waste producer or holder identified in the relevant part of the original consignment note must ensure that a copy of a new consignment note is prepared in respect of the rejected consignment or part for each of the following:
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f393b310992817ea93c63692e9ecc44]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/43/1) omitted (29.3.2011) by virtue of [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 15](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/15)
+[^c-8f393b310992817ea93c63692e9ecc44]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/43/1) omitted (29.3.2011) by virtue of [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 15](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/15)

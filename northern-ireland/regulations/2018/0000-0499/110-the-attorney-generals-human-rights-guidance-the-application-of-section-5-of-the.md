@@ -32,7 +32,7 @@ summary: ''
 
 Human Rights
 
-The Attorney General's Human Rights Guidance (The Application of Section 5 of the Criminal Law Act (Northern Ireland) 1967 to Rape Victims and Those to Whom They Make Disclosures in Connection With a Claim for Social Security, Child Tax Credit or Anonymous Registration on the Electoral Roll) Order (Northern Ireland) 2018 (revoked)[^key-d0db71175322348242babdfd8da0fde5]
+The Attorney General's Human Rights Guidance (The Application of Section 5 of the Criminal Law Act (Northern Ireland) 1967 to Rape Victims and Those to Whom They Make Disclosures in Connection With a Claim for Social Security, Child Tax Credit or Anonymous Registration on the Electoral Roll) Order (Northern Ireland) 2018 (revoked)[^c-d0db71175322348242babdfd8da0fde5]
 
 Made
 
@@ -42,15 +42,15 @@ Coming into operation
 
 29th May 2018
 
-[^key-d0db71175322348242babdfd8da0fde5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0db71175322348242babdfd8da0fde5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-d0db71175322348242babdfd8da0fde5]
+## 1. Citation, commencement and interpretation[^c-d0db71175322348242babdfd8da0fde5]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Coming into operation of the guidance[^key-d0db71175322348242babdfd8da0fde5]
+## 2. Coming into operation of the guidance[^c-d0db71175322348242babdfd8da0fde5]
 
 **No longer in force.**
 
@@ -66,4 +66,4 @@ This Order brings into operation guidance by the Attorney General for Northern I
 
 ## Annotations
 
-[^key-d0db71175322348242babdfd8da0fde5]: Textual amendment: Order revoked (29.6.2020) by [The Attorney Generals Human Rights Guidance (The Application of Section 5 of the Criminal Law Act (Northern Ireland) 1967 to Victims of Serious Sexual Offences and those to whom they make Disclosures) Order (Northern Ireland) 2020 (S.R. 2020/113)](https://www.legislation.gov.uk/nisr/2020/113), [art. 2](https://www.legislation.gov.uk/nisr/2020/113/article/2)
+[^c-d0db71175322348242babdfd8da0fde5]: Textual amendment: Order revoked (29.6.2020) by [The Attorney Generals Human Rights Guidance (The Application of Section 5 of the Criminal Law Act (Northern Ireland) 1967 to Victims of Serious Sexual Offences and those to whom they make Disclosures) Order (Northern Ireland) 2020 (S.R. 2020/113)](https://www.legislation.gov.uk/nisr/2020/113), [art. 2](https://www.legislation.gov.uk/nisr/2020/113/article/2)

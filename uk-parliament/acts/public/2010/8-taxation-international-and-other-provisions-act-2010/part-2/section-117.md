@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If tax would have been chargeable under the law of one or more [^key-2f693910228338fe791ea60531e25398]... member States in respect of the transfer mentioned in section 116(2)(b)(i), (ii) or (iii) but for the Mergers Directive, this Part applies, and any double taxation arrangements apply, as if that tax had been chargeable.
+(1) If tax would have been chargeable under the law of one or more [^c-2f693910228338fe791ea60531e25398]... member States in respect of the transfer mentioned in section 116(2)(b)(i), (ii) or (iii) but for the Mergers Directive, this Part applies, and any double taxation arrangements apply, as if that tax had been chargeable.
 
 (2) In calculating tax notionally chargeable under subsection (1), it is to be assumed—
 
-- (a) that, to the extent permitted by the law of the [^key-53827429b2eb6254228f8d4b0367767a]... member State, losses arising on the transfer mentioned in section 116(2)(b)(i), (ii) or (iii) are set against gains arising on that transfer, and
+- (a) that, to the extent permitted by the law of the [^c-53827429b2eb6254228f8d4b0367767a]... member State, losses arising on the transfer mentioned in section 116(2)(b)(i), (ii) or (iii) are set against gains arising on that transfer, and
 - (b) that any relief due to the transferor under that law is claimed.
 
 (3) Subsection (1) does not apply if—
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f693910228338fe791ea60531e25398]: Textual amendment: Word in [s. 117(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/117/1) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/3) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f693910228338fe791ea60531e25398]: Textual amendment: Word in [s. 117(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/117/1) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/3) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-53827429b2eb6254228f8d4b0367767a]: Textual amendment: Word in [s. 117(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/117/2/a) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/3) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53827429b2eb6254228f8d4b0367767a]: Textual amendment: Word in [s. 117(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/117/2/a) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/3) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

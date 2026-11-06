@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## SCHEDULE 10 — Electronic Communication[^key-12d12d41fc1c28db9100463da7fcd438]
+## SCHEDULE 10 — Electronic Communication[^c-12d12d41fc1c28db9100463da7fcd438]
 
 ### PART 1 — Introduction
 
@@ -97,4 +97,4 @@ If it is necessary to prove, for the purpose of any legal proceedings, the conte
 
 ## Annotations
 
-[^key-12d12d41fc1c28db9100463da7fcd438]: Textual amendment: Sch. 10 inserted (20.12.2006) by [Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [art. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1), [art. 3(5)](https://www.legislation.gov.uk/uksi/2006/2968/article/3/5), [Sch.](https://www.legislation.gov.uk/uksi/2006/2968/schedule)
+[^c-12d12d41fc1c28db9100463da7fcd438]: Textual amendment: Sch. 10 inserted (20.12.2006) by [Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [art. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1), [art. 3(5)](https://www.legislation.gov.uk/uksi/2006/2968/article/3/5), [Sch.](https://www.legislation.gov.uk/uksi/2006/2968/schedule)

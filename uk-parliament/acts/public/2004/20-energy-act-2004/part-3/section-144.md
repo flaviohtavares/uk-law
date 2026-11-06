@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Transition[^key-a0e58bee4845ac2c4db687d0642a7f78]
+## 144. Transition[^c-a0e58bee4845ac2c4db687d0642a7f78]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Secretary of State may by order make in connection with the coming into forc
 
 ## Annotations
 
-[^key-a0e58bee4845ac2c4db687d0642a7f78]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2004/20/section/144) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-a0e58bee4845ac2c4db687d0642a7f78]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2004/20/section/144) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)

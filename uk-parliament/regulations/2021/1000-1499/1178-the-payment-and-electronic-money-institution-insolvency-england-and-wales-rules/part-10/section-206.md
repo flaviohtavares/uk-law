@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 206. Hearing of application[^key-5c7368be89c24bfa52a6a99ae1b3cebc]
+## 206. Hearing of application[^c-5c7368be89c24bfa52a6a99ae1b3cebc]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c7368be89c24bfa52a6a99ae1b3cebc]: Commencement: Rule 206 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-5c7368be89c24bfa52a6a99ae1b3cebc]: Commencement: Rule 206 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

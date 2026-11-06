@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Condition relating to youth – residence or presence[^key-b9fe117ed2b17ff889114371489ff472]
+## 12. Condition relating to youth – residence or presence[^c-b9fe117ed2b17ff889114371489ff472]
 
 *Extent: N.I.*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b9fe117ed2b17ff889114371489ff472]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/219/regulation/12) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-b9fe117ed2b17ff889114371489ff472]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2016/219/regulation/12) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00041]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33)
 

@@ -32,10 +32,10 @@ summary: ''
 
 (6) The exemption under subsection (5) requires a claim.
 
-(7)[^key-dfded76ee3bf8ee4d46cdf9bb0c7168c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-dfded76ee3bf8ee4d46cdf9bb0c7168c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In the case of an eligible body which is a charitable company, this section applies instead of sections 471 and 472.
 
 ## Annotations
 
-[^key-dfded76ee3bf8ee4d46cdf9bb0c7168c]: Textual amendment: S. 475(7) omitted (retrospective to 6.4.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 50(2)(e)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/2/e)[(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/4)
+[^c-dfded76ee3bf8ee4d46cdf9bb0c7168c]: Textual amendment: S. 475(7) omitted (retrospective to 6.4.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 50(2)(e)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/2/e)[(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/4)

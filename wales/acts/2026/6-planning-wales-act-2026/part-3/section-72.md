@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Reference of application to the Welsh Ministers[^key-267c30f42a9d1255e903e78e545a615e]
+## 72. Reference of application to the Welsh Ministers[^c-267c30f42a9d1255e903e78e545a615e]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-267c30f42a9d1255e903e78e545a615e]: Commencement: S. 72 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-267c30f42a9d1255e903e78e545a615e]: Commencement: S. 72 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

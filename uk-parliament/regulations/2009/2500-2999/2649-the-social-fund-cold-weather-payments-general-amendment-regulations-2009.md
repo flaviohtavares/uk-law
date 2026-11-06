@@ -48,7 +48,7 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 The Social Security Advisory Committee has agreed that proposals in respect of these Regulations should not be referred to it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-a88a650822b3482aaf2b2bd0670f3deb]
+## 1. Citation, commencement and interpretation[^c-a88a650822b3482aaf2b2bd0670f3deb]
 
 (1) These Regulations may be cited as the Social Fund Cold Weather Payments (General) Amendment Regulations 2009.
 
@@ -56,7 +56,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
 (3) In these Regulations “the principal Regulations” means the Social Fund Cold Weather Payments (General) Regulations 1988[^f00003].
 
-## 2. Amendment of the principal Regulations[^key-e725b0e072cc40717050b59633dd8553]
+## 2. Amendment of the principal Regulations[^c-e725b0e072cc40717050b59633dd8553]
 
 (1) The principal Regulations are amended as follows.
 
@@ -64,7 +64,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
 (3) For Schedule 2[^f00005] (specified alternative stations), substitute the Schedule set out in Schedule 2 to these Regulations.
 
-## 3. Modification of the principal Regulations in respect of the 2009-10 winter[^key-1dc46cd341f3955857af234fb4543592]
+## 3. Modification of the principal Regulations in respect of the 2009-10 winter[^c-1dc46cd341f3955857af234fb4543592]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -78,11 +78,11 @@ Department for Work and Pensions
 
 2 October 2009
 
-## SCHEDULE 1[^key-4ebdcfec633cf8736632e4e6940e4514]
+## SCHEDULE 1[^c-4ebdcfec633cf8736632e4e6940e4514]
 
 Regulation 2(2)
 
-[^key-4ebdcfec633cf8736632e4e6940e4514]
+[^c-4ebdcfec633cf8736632e4e6940e4514]
 
 The following Schedule is substituted for Schedule 1 to the principal Regulations—
 
@@ -353,11 +353,11 @@ The following Schedule is substituted for Schedule 1 to the principal Regulation
 > |  | TA1-20, TA23. |
 > | **1.** Aberporth | SA35-48, SA64-65. |
 
-## SCHEDULE 2[^key-f0dcf09a31903be4c66a8c1f1ce6bfbb]
+## SCHEDULE 2[^c-f0dcf09a31903be4c66a8c1f1ce6bfbb]
 
 Regulation 2(3)
 
-[^key-f0dcf09a31903be4c66a8c1f1ce6bfbb]
+[^c-f0dcf09a31903be4c66a8c1f1ce6bfbb]
 
 The following Schedule is substituted for Schedule 2 to the principal Regulations—
 
@@ -409,18 +409,18 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00002]: Footnote: *See* sections 170, 172 and 173(1)(b) of the Social Security Administration Act [1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5). Amendments not relevant to these Regulations have been made to section 170.
 
-[^key-a88a650822b3482aaf2b2bd0670f3deb]: Commencement: Reg. 1 in force at 1.11.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2649/regulation/1/2)
+[^c-a88a650822b3482aaf2b2bd0670f3deb]: Commencement: Reg. 1 in force at 1.11.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2649/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 1988/1724](https://www.legislation.gov.uk/uksi/1988/1724).
 
-[^key-e725b0e072cc40717050b59633dd8553]: Commencement: Reg. 2 in force at 1.11.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2649/regulation/1/2)
+[^c-e725b0e072cc40717050b59633dd8553]: Commencement: Reg. 2 in force at 1.11.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2649/regulation/1/2)
 
 [^f00004]: Footnote: Schedule 1 was substituted by [S.I. 2008/2569](https://www.legislation.gov.uk/uksi/2008/2569). (Schedule 1 had previously been substituted by other statutory instruments the most recent being [S.I. 2004/2600](https://www.legislation.gov.uk/uksi/2004/2600), [2005/2724](https://www.legislation.gov.uk/uksi/2005/2724), [2006/2655](https://www.legislation.gov.uk/uksi/2006/2655) and [2007/2912](https://www.legislation.gov.uk/uksi/2007/2912).)
 
 [^f00005]: Footnote: Schedule 2 was substituted by [S.I. 2008/2569](https://www.legislation.gov.uk/uksi/2008/2569). (Schedule 2 had previously been substituted by [S.I.. 2003/2605](https://www.legislation.gov.uk/uksi/2003/2605), [2005/2724](https://www.legislation.gov.uk/uksi/2005/2724), [2006/2655](https://www.legislation.gov.uk/uksi/2006/2655) and [2007/2912](https://www.legislation.gov.uk/uksi/2007/2912).)
 
-[^key-1dc46cd341f3955857af234fb4543592]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/2649/regulation/3) revoked (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Social Fund Cold Weather Payments (General) Amendment (No. 2) Regulations 2010 (S.I. 2010/2591)](https://www.legislation.gov.uk/uksi/2010/2591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2591/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2010/2591/regulation/3/2/c)
+[^c-1dc46cd341f3955857af234fb4543592]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/2649/regulation/3) revoked (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Social Fund Cold Weather Payments (General) Amendment (No. 2) Regulations 2010 (S.I. 2010/2591)](https://www.legislation.gov.uk/uksi/2010/2591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2591/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2010/2591/regulation/3/2/c)
 
-[^key-4ebdcfec633cf8736632e4e6940e4514]: Commencement: Sch. 1 in force at 1.11.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2649/regulation/1/2)
+[^c-4ebdcfec633cf8736632e4e6940e4514]: Commencement: Sch. 1 in force at 1.11.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2649/regulation/1/2)
 
-[^key-f0dcf09a31903be4c66a8c1f1ce6bfbb]: Commencement: Sch. 2 in force at 1.11.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2649/regulation/1/2)
+[^c-f0dcf09a31903be4c66a8c1f1ce6bfbb]: Commencement: Sch. 2 in force at 1.11.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2649/regulation/1/2)

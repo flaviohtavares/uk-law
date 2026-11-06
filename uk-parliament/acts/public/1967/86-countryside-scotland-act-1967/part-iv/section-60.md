@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-3268e8cd0dceba516053b87b0db0619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3268e8cd0dceba516053b87b0db0619b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Secretary of State may make byelaws for regulating the reasonable use by the public of land to which this section applies and facilities made available thereunder, and in relation to any such matter as is described in section 54(2) above.
 
@@ -40,15 +40,15 @@ summary: ''
 - (d) the [^c1423894]Land Settlement (Scotland) Act 1919;
 - (e)(f) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1423895]
 - (g) the [^c1423896]Agriculture (Scotland) Act 1948;
-- (h)[^key-c8721770f363fd6931f1bd289c9e6bb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-c8721770f363fd6931f1bd289c9e6bb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8721770f363fd6931f1bd289c9e6bb3] . . . . . . . . . . . . .
+[^c-c8721770f363fd6931f1bd289c9e6bb3] . . . . . . . . . . . . .
 
-(8)[^key-5f5a36f45fecedad23f9a4b646f4fc4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-5f5a36f45fecedad23f9a4b646f4fc4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3268e8cd0dceba516053b87b0db0619b]: Textual amendment: S. 60(1) repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-3268e8cd0dceba516053b87b0db0619b]: Textual amendment: S. 60(1) repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
 [^c1423889]: Textual amendment: Words in s. 60(4) substituted (01.04.1992) by [Natural Heritage (Scotland) Act 1991 (c. 28, SIF 46:1)](https://www.legislation.gov.uk/ukpga/1991/28), [s. 27(1)](https://www.legislation.gov.uk/ukpga/1991/28/section/27/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/1991/28/schedule/10), [para. 4(5)](https://www.legislation.gov.uk/ukpga/1991/28/paragraph/4/5); [S.I. 1991/2633](https://www.legislation.gov.uk/uksi/1991/2633), [art. 4](https://www.legislation.gov.uk/uksi/1991/2633/article/4).
 
@@ -66,6 +66,6 @@ summary: ''
 
 [^c1423896]: Marginal citation: [1948 c. 45](https://www.legislation.gov.uk/ukpga/1948/45).
 
-[^key-c8721770f363fd6931f1bd289c9e6bb3]: Textual amendment: S. 60(7)(h) and words repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-c8721770f363fd6931f1bd289c9e6bb3]: Textual amendment: S. 60(7)(h) and words repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-5f5a36f45fecedad23f9a4b646f4fc4a]: Textual amendment: S. 60(8) repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-5f5a36f45fecedad23f9a4b646f4fc4a]: Textual amendment: S. 60(8) repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))

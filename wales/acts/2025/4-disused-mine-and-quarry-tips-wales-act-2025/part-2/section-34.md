@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Penalty for obstructing monitoring activities or assessments[^key-64e25bfb192be0b3600713e59c7ddf45]
+## 34. Penalty for obstructing monitoring activities or assessments[^c-64e25bfb192be0b3600713e59c7ddf45]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-64e25bfb192be0b3600713e59c7ddf45]: Commencement: S. 34 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-64e25bfb192be0b3600713e59c7ddf45]: Commencement: S. 34 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

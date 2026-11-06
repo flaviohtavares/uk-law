@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Employments with no normal working hours.[^c16336891][^c20064271][^c20082171][^c20112401][^key-b416ce6cbc824820e498962ec4ee5047]
+## 224. Employments with no normal working hours.[^c16336891][^c20064271][^c20082171][^c20112401][^c-b416ce6cbc824820e498962ec4ee5047]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c20112401]: Modification: Ss. 220-228 applied (6.4.2006 with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2006/246/regulation/16/4) (with [reg. 21(5)](https://www.legislation.gov.uk/uksi/2006/246/regulation/21/5))
 
-[^key-b416ce6cbc824820e498962ec4ee5047]: Modification: [Ss. 221-224](https://www.legislation.gov.uk/ukpga/1996/18/section/221) applied (with modifications) by S.I. 1998/1833, reg. 16 (as amended) (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1378/regulation/10)
+[^c-b416ce6cbc824820e498962ec4ee5047]: Modification: [Ss. 221-224](https://www.legislation.gov.uk/ukpga/1996/18/section/221) applied (with modifications) by S.I. 1998/1833, reg. 16 (as amended) (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1378/regulation/10)

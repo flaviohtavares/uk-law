@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Effect of misdescription.[^c14485811][^c14485821][^c14485831][^c14485841][^c20069021][^c20186441][^M_C_7524495c-4232-4cbc-9834-650e21799e65][^key-c3933f62a0d6fabb176f813bd9a71feb][^c14479931]
+## 50. Effect of misdescription.[^c14485811][^c14485821][^c14485831][^c14485841][^c20069021][^c20186441][^M_C_7524495c-4232-4cbc-9834-650e21799e65][^c-c3933f62a0d6fabb176f813bd9a71feb][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,7 +62,7 @@ affects the full operation of the document with respect to that person or place 
 
 [^M_C_7524495c-4232-4cbc-9834-650e21799e65]: Modification: S. 50 applied (with modifications) (27.3.2007) by [The Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007 (S.I. 2007/1024)](https://www.legislation.gov.uk/uksi/2007/1024), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/1024/schedule/2) Table 1
 
-[^key-c3933f62a0d6fabb176f813bd9a71feb]: Modification: S. 50 applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2016/219/schedule/1/paragraph/8) (with [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2016/219/schedule/1/paragraph/1/3))
+[^c-c3933f62a0d6fabb176f813bd9a71feb]: Modification: S. 50 applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2016/219/schedule/1/paragraph/8) (with [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2016/219/schedule/1/paragraph/1/3))
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 

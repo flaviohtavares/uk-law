@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**309.**[^key-88cd00e960bbee0ad331402065335bb9] In section 134(2)(d) (safeguarding children boards and safeguarding adults boards) for “NHS trust” substitute “NHS Trust”.
+**309.**[^c-88cd00e960bbee0ad331402065335bb9] In section 134(2)(d) (safeguarding children boards and safeguarding adults boards) for “NHS trust” substitute “NHS Trust”.
 
 ## Annotations
 
-[^key-88cd00e960bbee0ad331402065335bb9]: Commencement: Reg. 309 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-88cd00e960bbee0ad331402065335bb9]: Commencement: Reg. 309 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

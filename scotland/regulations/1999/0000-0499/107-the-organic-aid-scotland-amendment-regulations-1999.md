@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-The Organic Aid (Scotland) Amendment Regulations 1999 (revoked)[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
+The Organic Aid (Scotland) Amendment Regulations 1999 (revoked)[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
 
 Made
 
@@ -44,58 +44,58 @@ Coming into force
 
 29th October 1999
 
-[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
+## 1. Citation, commencement and extent[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
+## 2. Interpretation[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
+## 3. Application[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the principal Regulations[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
+## 4. Amendment of the principal Regulations[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
+## 5.[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
+## 6.[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
+## SCHEDULE[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]
 
 Regulation 5
 
-> **SCHEDULE[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]**
+> **SCHEDULE[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]**
 >
 > Regulation 10(1)
 >
-> **1.**[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8].
+[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8].
 
 **May not be in force at this date. Check the source.**
 
-[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c39b6ec1f14a2cadac6c3a0c08fa0bd8]: Textual amendment: Regulations revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
+[^c-c39b6ec1f14a2cadac6c3a0c08fa0bd8]: Textual amendment: Regulations revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)

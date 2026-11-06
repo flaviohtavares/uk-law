@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Amendment to regulation 233[^key-c1946b1c14e10dfc7d7cdc6a14764f56]
+## 104. Amendment to regulation 233[^c-c1946b1c14e10dfc7d7cdc6a14764f56]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 233(7)(a) (exemption for supply etc. under a PGD by person conduct
 
 ## Annotations
 
-[^key-c1946b1c14e10dfc7d7cdc6a14764f56]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/2024/832/regulation/104) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-c1946b1c14e10dfc7d7cdc6a14764f56]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/2024/832/regulation/104) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00112]: Footnote: Paragraph (7)(a) was substituted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488); there is an amendment to the paragraph not relevant to these Regulations.

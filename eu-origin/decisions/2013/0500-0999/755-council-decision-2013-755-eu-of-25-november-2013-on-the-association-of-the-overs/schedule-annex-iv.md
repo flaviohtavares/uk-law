@@ -16,36 +16,36 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX IV — UNION FINANCIAL ASSISTANCE: EIB INVESTMENT FACILITY[^key-c95bff0682d91636b7e74b32bac558c9]
+## ANNEX IV — UNION FINANCIAL ASSISTANCE: EIB INVESTMENT FACILITY[^c-c95bff0682d91636b7e74b32bac558c9]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-### Article 1. Objective[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 1. Objective[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 2. Resources of the Facility[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 2. Resources of the Facility[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Operations of the Facility[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 3. Operations of the Facility[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Conditions for foreign exchange rate risk[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 4. Conditions for foreign exchange rate risk[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Financial controls[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 5. Financial controls[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Privileges and immunities[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 6. Privileges and immunities[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c95bff0682d91636b7e74b32bac558c9]: Textual amendment: Decision revoked (31.12.2020) by [The Overseas Association Decision (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/221)](https://www.legislation.gov.uk/uksi/2019/221), [regs. 1](https://www.legislation.gov.uk/uksi/2019/221/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/221/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c95bff0682d91636b7e74b32bac558c9]: Textual amendment: Decision revoked (31.12.2020) by [The Overseas Association Decision (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/221)](https://www.legislation.gov.uk/uksi/2019/221), [regs. 1](https://www.legislation.gov.uk/uksi/2019/221/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/221/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

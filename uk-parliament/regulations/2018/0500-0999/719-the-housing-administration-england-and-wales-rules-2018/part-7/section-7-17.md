@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.17. Standard contents of notices relating to court proceedings or orders[^key-3a1e4b3393ddf57d5dd68f24ecd2bd4c]
+## 7.17. Standard contents of notices relating to court proceedings or orders[^c-3a1e4b3393ddf57d5dd68f24ecd2bd4c]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A notice relating to court proceedings must also identify those proceedings and 
 
 ## Annotations
 
-[^key-3a1e4b3393ddf57d5dd68f24ecd2bd4c]: Commencement: Rule 7.17 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-3a1e4b3393ddf57d5dd68f24ecd2bd4c]: Commencement: Rule 7.17 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

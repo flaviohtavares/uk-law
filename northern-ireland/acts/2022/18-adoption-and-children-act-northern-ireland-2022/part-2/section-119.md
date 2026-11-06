@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 119. Special guardianship[^key-dffa17a0ea3a3aca82c627abe5f1128b]
+## 119. Special guardianship[^c-dffa17a0ea3a3aca82c627abe5f1128b]
 
 *Extent: N.I.*
 
@@ -264,4 +264,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dffa17a0ea3a3aca82c627abe5f1128b]: Commencement: S. 119 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-dffa17a0ea3a3aca82c627abe5f1128b]: Commencement: S. 119 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

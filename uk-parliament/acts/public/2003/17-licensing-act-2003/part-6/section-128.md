@@ -46,9 +46,9 @@ he must, at his next appearance in court in connection with that offence, notify
 
 (5) For this purpose a “**notifiable event**” in relation to a personal licence means any of the following—
 
-- (a)[^key-dfc53420bb550a16e57902cc71fc5da3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-dfc53420bb550a16e57902cc71fc5da3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the surrender of the licence under section 116;
-- (c)[^key-ef677fd261cae9a42b56f7a515cfe306] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ef677fd261cae9a42b56f7a515cfe306] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the revocation of the licence under section 124.
 
 (6) A person commits an offence if he fails, without reasonable excuse, to comply with this section.
@@ -57,6 +57,6 @@ he must, at his next appearance in court in connection with that offence, notify
 
 ## Annotations
 
-[^key-dfc53420bb550a16e57902cc71fc5da3]: Textual amendment: S. 128(5)(a) omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/10) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)
+[^c-dfc53420bb550a16e57902cc71fc5da3]: Textual amendment: S. 128(5)(a) omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/10) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)
 
-[^key-ef677fd261cae9a42b56f7a515cfe306]: Textual amendment: S. 128(5)(c) omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/10) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)
+[^c-ef677fd261cae9a42b56f7a515cfe306]: Textual amendment: S. 128(5)(c) omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/10) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)

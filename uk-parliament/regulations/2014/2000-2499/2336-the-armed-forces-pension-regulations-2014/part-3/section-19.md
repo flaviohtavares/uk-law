@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Option to leave the scheme[^key-3a342c525bcf637131d0b727d4c38610]
+## 19. Option to leave the scheme[^c-3a342c525bcf637131d0b727d4c38610]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a342c525bcf637131d0b727d4c38610]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/2336/regulation/19) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-3a342c525bcf637131d0b727d4c38610]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/2336/regulation/19) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

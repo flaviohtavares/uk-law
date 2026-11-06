@@ -33,7 +33,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Products of Animal Origin (Third Country Imports) (England) (Amendment No. 2) Regulations 2004 (revoked)[^key-b5ffd9302f73d21a77c93603fdefaca1]
+The Products of Animal Origin (Third Country Imports) (England) (Amendment No. 2) Regulations 2004 (revoked)[^c-b5ffd9302f73d21a77c93603fdefaca1]
 
 Made
 
@@ -47,32 +47,32 @@ Coming into force
 
 10th March 2004
 
-[^key-b5ffd9302f73d21a77c93603fdefaca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5ffd9302f73d21a77c93603fdefaca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-b5ffd9302f73d21a77c93603fdefaca1]
+## 1. Title, extent and commencement[^c-b5ffd9302f73d21a77c93603fdefaca1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Products of Animal Origin (Third Country Imports) (England) Regulations 2003[^key-b5ffd9302f73d21a77c93603fdefaca1]
+## 2. Amendments to the Products of Animal Origin (Third Country Imports) (England) Regulations 2003[^c-b5ffd9302f73d21a77c93603fdefaca1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Substitution of regulation 62[^key-b5ffd9302f73d21a77c93603fdefaca1]
+## 3. Substitution of regulation 62[^c-b5ffd9302f73d21a77c93603fdefaca1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to regulation 65[^key-b5ffd9302f73d21a77c93603fdefaca1]
+## 4. Amendment to regulation 65[^c-b5ffd9302f73d21a77c93603fdefaca1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5ffd9302f73d21a77c93603fdefaca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5ffd9302f73d21a77c93603fdefaca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b5ffd9302f73d21a77c93603fdefaca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5ffd9302f73d21a77c93603fdefaca1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b5ffd9302f73d21a77c93603fdefaca1]: Textual amendment: Regulations revoked (E.) (1.5.2004) by [The Products of Animal Origin (Third Country Imports) (England) Regulations 2004 (S.I. 2004/1214)](https://www.legislation.gov.uk/uksi/2004/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1214/regulation/1), [68(c)](https://www.legislation.gov.uk/uksi/2004/1214/regulation/68/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/1214/regulation/3))
+[^c-b5ffd9302f73d21a77c93603fdefaca1]: Textual amendment: Regulations revoked (E.) (1.5.2004) by [The Products of Animal Origin (Third Country Imports) (England) Regulations 2004 (S.I. 2004/1214)](https://www.legislation.gov.uk/uksi/2004/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1214/regulation/1), [68(c)](https://www.legislation.gov.uk/uksi/2004/1214/regulation/68/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/1214/regulation/3))

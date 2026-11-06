@@ -31,10 +31,10 @@ summary: ''
 
 of 29 November 1995 amending, because of the accession of Austria, Finland and Sweden, Commission Decision No 77/144/EEC laying down the standard code and rules governing the transcription into a machine-readable form of the data of the surveys of plantations of certain species of fruit trees, and laying down the boundaries of the production areas for these surveys (revoked)
 
-[^key-9bf5ed40bb0de603d90a6464095af2d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bf5ed40bb0de603d90a6464095af2d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-9bf5ed40bb0de603d90a6464095af2d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-9bf5ed40bb0de603d90a6464095af2d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bf5ed40bb0de603d90a6464095af2d3]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/12)
+[^c-9bf5ed40bb0de603d90a6464095af2d3]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Power of Welsh Ministers to issue enforcement notice[^key-96fd6b91217448ddc3d5a9c5f55df37c][^key-e07326004b98f8d30d2aab5a4f325dbb]
+## 134. Power of Welsh Ministers to issue enforcement notice[^c-96fd6b91217448ddc3d5a9c5f55df37c][^c-e07326004b98f8d30d2aab5a4f325dbb]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96fd6b91217448ddc3d5a9c5f55df37c]: Commencement: S. 134 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-96fd6b91217448ddc3d5a9c5f55df37c]: Commencement: S. 134 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-e07326004b98f8d30d2aab5a4f325dbb]: Commencement: [S. 134](https://www.legislation.gov.uk/asc/2023/3/section/134) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-e07326004b98f8d30d2aab5a4f325dbb]: Commencement: [S. 134](https://www.legislation.gov.uk/asc/2023/3/section/134) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

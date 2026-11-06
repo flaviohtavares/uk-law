@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — PROVISIONS OF THE EU REGULATION[^key-9ba4eeb65d94dc2b4725b01f09f70f41]
+## SCHEDULE 5 — PROVISIONS OF THE EU REGULATION[^c-9ba4eeb65d94dc2b4725b01f09f70f41]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ Regulation 30(1)(g)
 
 ## Annotations
 
-[^key-9ba4eeb65d94dc2b4725b01f09f70f41]: Commencement: [Sch. 5](https://www.legislation.gov.uk/wsi/2014/951/schedule/5) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-9ba4eeb65d94dc2b4725b01f09f70f41]: Commencement: [Sch. 5](https://www.legislation.gov.uk/wsi/2014/951/schedule/5) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

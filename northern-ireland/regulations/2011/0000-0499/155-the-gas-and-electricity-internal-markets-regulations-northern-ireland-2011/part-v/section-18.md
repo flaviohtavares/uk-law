@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Exemptions from licensing[^key-7193a8db3a6b074cf5221a26bdd03092]
+## 18. Exemptions from licensing[^c-7193a8db3a6b074cf5221a26bdd03092]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ In Article 9 (Exemptions from Article 8) of the Electricity Order—
 
 ## Annotations
 
-[^key-7193a8db3a6b074cf5221a26bdd03092]: Commencement: Reg. 18 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-7193a8db3a6b074cf5221a26bdd03092]: Commencement: Reg. 18 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

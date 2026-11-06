@@ -27,7 +27,7 @@ Sections 55, 107 and 114.
 **1.** The carrying out of—
 
 - (a) the rebuilding, as often as occasion may require, of any building which was in existence on 1st July 1948, or of any building which was in existence before that date but was destroyed or demolished after 7th January 1937, including the making good of war damage sustained by any such building;
-- (b)[^key-80a9282844746f173590213411689543] the rebuilding, as often as occasion may require, of any building erected after 1st July 1948 which was in existence at a material date;
+- (b)[^c-80a9282844746f173590213411689543] the rebuilding, as often as occasion may require, of any building erected after 1st July 1948 which was in existence at a material date;
 - (c) the carrying out for the maintenance, improvement or other alteration of any building, of works which—
   - (i) affect only the interior of the building, or do not materially affect the external appearance of the building, and
   - (ii) are works for making good war damage,
@@ -83,7 +83,7 @@ this Schedule shall not operate except as respects the period specified in that 
 
 ## Annotations
 
-[^key-80a9282844746f173590213411689543]: Modification: Sch. 3 para. 1(b) modified (E.W.S.) (1.10.2011) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 (S.I. 2011/2055)](https://www.legislation.gov.uk/uksi/2011/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2055/regulation/1), [62(2)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/62/2)
+[^c-80a9282844746f173590213411689543]: Modification: Sch. 3 para. 1(b) modified (E.W.S.) (1.10.2011) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 (S.I. 2011/2055)](https://www.legislation.gov.uk/uksi/2011/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2055/regulation/1), [62(2)](https://www.legislation.gov.uk/uksi/2011/2055/regulation/62/2)
 
 [^c14040821]: Textual amendment: Sch. 3 paras 3-8 repealed (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [ss. 31](https://www.legislation.gov.uk/ukpga/1991/34/section/31), [84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 6 para. 40(1)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/40/1), [Sch. 19 Pt.II](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/II) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4))
 

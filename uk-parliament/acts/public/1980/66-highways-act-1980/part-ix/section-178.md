@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Restriction on placing rails, beams etc. over highways.[^c13427841][^key-270f3a8c6a4e4b855a3a11b63e45bb72]
+## 178. Restriction on placing rails, beams etc. over highways.[^c13427841][^c-270f3a8c6a4e4b855a3a11b63e45bb72]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 [^c13427841]: Modification: S. 178: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-270f3a8c6a4e4b855a3a11b63e45bb72]: Modification: [S. 178](https://www.legislation.gov.uk/ukpga/1980/66/section/178) modified (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2016/56/schedule/3/paragraph/1) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [43](https://www.legislation.gov.uk/wsi/2016/56/regulation/43))
+[^c-270f3a8c6a4e4b855a3a11b63e45bb72]: Modification: [S. 178](https://www.legislation.gov.uk/ukpga/1980/66/section/178) modified (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2016/56/schedule/3/paragraph/1) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [43](https://www.legislation.gov.uk/wsi/2016/56/regulation/43))
 
 [^c13427851]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 

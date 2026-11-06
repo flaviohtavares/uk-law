@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Contents
 
-### Part 1 — The Scottish Fire and Rescue Service[^key-1feccfa7f173a16737867f4effec6813]
+### Part 1 — The Scottish Fire and Rescue Service[^c-1feccfa7f173a16737867f4effec6813]
 
 *Extent: S*
 
@@ -149,7 +149,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 *Extent: S*
 
-##### Best value[^key-84bdea8e9f6f90a8945cc582f8b88e6d]
+##### Best value[^c-84bdea8e9f6f90a8945cc582f8b88e6d]
 
 - [Section 39A — Best value](part-2/section-39a.md)
 - [Section 39B — Best value: further provision](part-2/section-39b.md)
@@ -162,11 +162,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 40 — Framework document](part-2/section-40.md)
 - [Section 41 — Adherence](part-2/section-41.md)
 
-#### Chapter 8A — Planning, Reports and Information[^key-2f282d1a187390744c7f87d60a6eed7d]
+#### Chapter 8A — Planning, Reports and Information[^c-2f282d1a187390744c7f87d60a6eed7d]
 
 *Extent: S*
 
-##### Strategic plan[^key-2f282d1a187390744c7f87d60a6eed7d]
+##### Strategic plan[^c-2f282d1a187390744c7f87d60a6eed7d]
 
 *Extent: S*
 
@@ -174,7 +174,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 41B — Review of plan](part-2/section-41b.md)
 - [Section 41C — SFRS's duty to have regard to approved plan](part-2/section-41c.md)
 
-##### Local fire and rescue plans[^key-c84e3323ee4b4e4d724dd896c0b8da91]
+##### Local fire and rescue plans[^c-c84e3323ee4b4e4d724dd896c0b8da91]
 
 *Extent: S*
 
@@ -189,7 +189,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 41M — Provision of information](part-2/section-41m.md)
 - [Section 42 — Reporting](part-2/section-42.md)
 
-##### Directions[^key-8a2476ced03c5a047d6567de2f459580]
+##### Directions[^c-8a2476ced03c5a047d6567de2f459580]
 
 - [Section 42A — Directions](part-2/section-42a.md)
 
@@ -197,11 +197,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 43 — Inspectors of Fire and Rescue Authorities](part-2/section-43.md)
 
-#### Chapter 8B — Inspection[^key-2723f76425f84dbc2925ae76ee6f1202]
+#### Chapter 8B — Inspection[^c-2723f76425f84dbc2925ae76ee6f1202]
 
 *Extent: S*
 
-##### Inspectors of SFRS[^key-2723f76425f84dbc2925ae76ee6f1202]
+##### Inspectors of SFRS[^c-2723f76425f84dbc2925ae76ee6f1202]
 
 - [Section 43A — Inspectors of SFRS](part-2/section-43a.md)
 - [Section 43B — Inquiries by Inspectors](part-2/section-43b.md)
@@ -210,12 +210,12 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 43E — Inquiry reports: duties of SFRS](part-2/section-43e.md)
 - [Section 43F — Chief Inspector's plan](part-2/section-43f.md)
 
-##### Co-operation and information-sharing[^key-2723f76425f84dbc2925ae76ee6f1202]
+##### Co-operation and information-sharing[^c-2723f76425f84dbc2925ae76ee6f1202]
 
 - [Section 43G — Co-operation and information-sharing: Auditor General](part-2/section-43g.md)
 - [Section 44 — Functions of Inspectors of Fire and Rescue Authorities](part-2/section-44.md)
 
-#### Chapter 8C — Equipment, Facilities and Services[^key-e29ec8abc4c3f2e00109f9cbae5d2bc8]
+#### Chapter 8C — Equipment, Facilities and Services[^c-e29ec8abc4c3f2e00109f9cbae5d2bc8]
 
 *Extent: S*
 
@@ -346,16 +346,16 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-1feccfa7f173a16737867f4effec6813]: Textual amendment: Pt. 1 heading substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-1feccfa7f173a16737867f4effec6813]: Textual amendment: Pt. 1 heading substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-84bdea8e9f6f90a8945cc582f8b88e6d]: Textual amendment: Ss. 39A-39C and cross-heading inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 113](https://www.legislation.gov.uk/asp/2012/8/section/113), [129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b)
+[^c-84bdea8e9f6f90a8945cc582f8b88e6d]: Textual amendment: Ss. 39A-39C and cross-heading inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 113](https://www.legislation.gov.uk/asp/2012/8/section/113), [129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b)
 
-[^key-2f282d1a187390744c7f87d60a6eed7d]: Textual amendment: Pt. 2 Ch. 8A heading and ss. 41A-41C inserted (1.10.2012 for the purpose of inserting s. 41A, 1.4.2013 so far as not already in force) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 114](https://www.legislation.gov.uk/asp/2012/8/section/114), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule) (with [art. 8(1)](https://www.legislation.gov.uk/ssi/2012/253/article/8/1)[(2)](https://www.legislation.gov.uk/ssi/2012/253/article/8/2)); S.I. 2013/51, art. 2
+[^c-2f282d1a187390744c7f87d60a6eed7d]: Textual amendment: Pt. 2 Ch. 8A heading and ss. 41A-41C inserted (1.10.2012 for the purpose of inserting s. 41A, 1.4.2013 so far as not already in force) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 114](https://www.legislation.gov.uk/asp/2012/8/section/114), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule) (with [art. 8(1)](https://www.legislation.gov.uk/ssi/2012/253/article/8/1)[(2)](https://www.legislation.gov.uk/ssi/2012/253/article/8/2)); S.I. 2013/51, art. 2
 
-[^key-c84e3323ee4b4e4d724dd896c0b8da91]: Textual amendment: Ss. 41D-41K and cross-heading inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 115](https://www.legislation.gov.uk/asp/2012/8/section/115), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-c84e3323ee4b4e4d724dd896c0b8da91]: Textual amendment: Ss. 41D-41K and cross-heading inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 115](https://www.legislation.gov.uk/asp/2012/8/section/115), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-8a2476ced03c5a047d6567de2f459580]: Textual amendment: S. 42A and cross-heading inserted (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 118](https://www.legislation.gov.uk/asp/2012/8/section/118), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-8a2476ced03c5a047d6567de2f459580]: Textual amendment: S. 42A and cross-heading inserted (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 118](https://www.legislation.gov.uk/asp/2012/8/section/118), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-2723f76425f84dbc2925ae76ee6f1202]: Textual amendment: Pt. 2 Ch. 8B inserted (1.1.2013 for specified purposes, 1.4.2013 so far as not already in force) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 119](https://www.legislation.gov.uk/asp/2012/8/section/119), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2012/333](https://www.legislation.gov.uk/ssi/2012/333), [art. 2](https://www.legislation.gov.uk/ssi/2012/333/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/333/schedule) (with [Sch. 2 paras. 2(11)](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/2/11) [3](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/3)); S.I. 2013/51, art. 2
+[^c-2723f76425f84dbc2925ae76ee6f1202]: Textual amendment: Pt. 2 Ch. 8B inserted (1.1.2013 for specified purposes, 1.4.2013 so far as not already in force) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 119](https://www.legislation.gov.uk/asp/2012/8/section/119), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2012/333](https://www.legislation.gov.uk/ssi/2012/333), [art. 2](https://www.legislation.gov.uk/ssi/2012/333/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/333/schedule) (with [Sch. 2 paras. 2(11)](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/2/11) [3](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/3)); S.I. 2013/51, art. 2
 
-[^key-e29ec8abc4c3f2e00109f9cbae5d2bc8]: Textual amendment: Pt. 2 Ch. 8C heading substituted for cross-heading preceding s. 45 (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(17)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/17); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-e29ec8abc4c3f2e00109f9cbae5d2bc8]: Textual amendment: Pt. 2 Ch. 8C heading substituted for cross-heading preceding s. 45 (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(17)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/17); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

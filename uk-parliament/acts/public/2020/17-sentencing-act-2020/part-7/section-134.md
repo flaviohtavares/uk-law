@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Compensation order: availability[^key-4211a5a730de37658995c79fff043689]
+## 134. Compensation order: availability[^c-4211a5a730de37658995c79fff043689]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ This is subject to section 136 (road accidents).
 
 ## Annotations
 
-[^key-4211a5a730de37658995c79fff043689]: Commencement: S. 134 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4211a5a730de37658995c79fff043689]: Commencement: S. 134 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

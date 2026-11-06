@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Expenses of requisitioned meetings[^key-8d55af63d0e66dbb63d53e923ff3d5b8]
+## 77. Expenses of requisitioned meetings[^c-8d55af63d0e66dbb63d53e923ff3d5b8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d55af63d0e66dbb63d53e923ff3d5b8]: Commencement: [Rule 77](https://www.legislation.gov.uk/uksi/2011/1301/rule/77) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-8d55af63d0e66dbb63d53e923ff3d5b8]: Commencement: [Rule 77](https://www.legislation.gov.uk/uksi/2011/1301/rule/77) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

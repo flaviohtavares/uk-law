@@ -31,10 +31,10 @@ Decision No 1608/2003/EC of the European Parliament and of the Council
 
 of 22 July 2003 concerning the production and development of Community statistics on science and technology (Text with EEA relevance) (revoked)
 
-[^key-acc54a6167630aaf5a661be7b0c2834e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-acc54a6167630aaf5a661be7b0c2834e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-acc54a6167630aaf5a661be7b0c2834e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-acc54a6167630aaf5a661be7b0c2834e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-acc54a6167630aaf5a661be7b0c2834e]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/38); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-acc54a6167630aaf5a661be7b0c2834e]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/38); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

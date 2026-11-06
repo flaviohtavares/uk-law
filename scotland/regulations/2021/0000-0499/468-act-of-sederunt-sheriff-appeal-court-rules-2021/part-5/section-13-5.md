@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13.5. Provision of email addresses to the Clerk[^key-bef45c211915c0b4fcf5020f39367cf0]
+## 13.5. Provision of email addresses to the Clerk[^c-bef45c211915c0b4fcf5020f39367cf0]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bef45c211915c0b4fcf5020f39367cf0]: Commencement: Para. 13.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-bef45c211915c0b4fcf5020f39367cf0]: Commencement: Para. 13.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

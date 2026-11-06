@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 362. Size and composition of committees to exercise functions[^key-a7f314938bcaebe32853afcee005a51e]
+## 362. Size and composition of committees to exercise functions[^c-a7f314938bcaebe32853afcee005a51e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7f314938bcaebe32853afcee005a51e]: Commencement: S. 362 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a7f314938bcaebe32853afcee005a51e]: Commencement: S. 362 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -26,11 +26,11 @@ Section 11
 
 ### Part 1 — New scrutiny regime for CCAs that are established mayoral strategic authorities
 
-#### 1. Introduction[^key-11303e2315e60ec5313725d2bddb7d63]
+#### 1. Introduction[^c-11303e2315e60ec5313725d2bddb7d63]
 
 LURA 2023 is amended in accordance with this Part of this Schedule.
 
-#### 2. The new scrutiny regime[^key-31d86ff4c7adf4333fe120294ef4139c]
+#### 2. The new scrutiny regime[^c-31d86ff4c7adf4333fe120294ef4139c]
 
 After Schedule 1 insert—
 
@@ -423,11 +423,11 @@ After Schedule 1 insert—
 
 ### Part 2 — Amendments consequential on Part 1 of this Schedule
 
-#### 3. Introduction[^key-1ad137d405bc3d4b8389e4c8b6252e6d]
+#### 3. Introduction[^c-1ad137d405bc3d4b8389e4c8b6252e6d]
 
 LURA 2023 is amended in accordance with this Part of this Schedule.
 
-#### 4. Section 15: overview and scrutiny committees[^key-ec0c6e5d6e443909a7c7fce2b671638c]
+#### 4. Section 15: overview and scrutiny committees[^c-ec0c6e5d6e443909a7c7fce2b671638c]
 
 (1) Section 15 is amended in accordance with this paragraph.
 
@@ -443,7 +443,7 @@ LURA 2023 is amended in accordance with this Part of this Schedule.
 
 > (3) In this section and Schedules 1 and 1A “**established mayoral strategic authority**” has the same meaning as in the English Devolution and Community Empowerment Act 2026 (see section 1(6)(b) of that Act).
 
-#### 5. Section 29: deputy mayors[^key-dafa4d2afd21a591a8f2c238d8e6632c]
+#### 5. Section 29: deputy mayors[^c-dafa4d2afd21a591a8f2c238d8e6632c]
 
 In section 29(3)—
 
@@ -454,7 +454,7 @@ In section 29(3)—
   >
   > - (d) the person ceases to be deputy mayor by virtue of paragraph 8 of Schedule 1A.
 
-#### 6. Schedule 1: overview and scrutiny committees[^key-315861e0141d203583ee8718ff2cfc3e]
+#### 6. Schedule 1: overview and scrutiny committees[^c-315861e0141d203583ee8718ff2cfc3e]
 
 (1) Schedule 1 is amended in accordance with this paragraph.
 
@@ -483,7 +483,7 @@ In section 29(3)—
 >
 > (3) The power under section 252(1) to make different provision for different purposes includes power to specify different styles under this paragraph in relation to different descriptions of CCAs.
 
-#### 7. Schedule 2: election of Mayors of CCAs etc[^key-bd10160d9374819be044075506977c1c]
+#### 7. Schedule 2: election of Mayors of CCAs etc[^c-bd10160d9374819be044075506977c1c]
 
 In Schedule 2, after paragraph 11 insert—
 
@@ -491,7 +491,7 @@ In Schedule 2, after paragraph 11 insert—
 >
 > Paragraph 8 of Schedule 1A makes provision for a person’s term of office as mayor to end because of repeated failure to attend meetings of an overview and scrutiny committee.
 
-#### 8. Schedule 2A: commissioners[^key-f572f22246731988c74f89920f0adeee]
+#### 8. Schedule 2A: commissioners[^c-f572f22246731988c74f89920f0adeee]
 
 In Schedule 2A (inserted by Schedule 3 to this Act), in paragraph 9—
 
@@ -504,11 +504,11 @@ In Schedule 2A (inserted by Schedule 3 to this Act), in paragraph 9—
 
 ### Part 3 — Extension of new scrutiny regime to all mayoral CCAs
 
-#### 9. Introduction[^key-9655abe5dd25442461e4e3135d0eb926]
+#### 9. Introduction[^c-9655abe5dd25442461e4e3135d0eb926]
 
 LURA 2023 is amended in accordance with this Part of this Schedule.
 
-#### 10. Amendment of section 15[^key-da4f8572fb16b370de0ce760a4fbbba0]
+#### 10. Amendment of section 15[^c-da4f8572fb16b370de0ce760a4fbbba0]
 
 (1) Section 15 (as amended by paragraph 4 of this Schedule) is amended in accordance with this paragraph.
 
@@ -518,7 +518,7 @@ LURA 2023 is amended in accordance with this Part of this Schedule.
 
 (4) Omit subsection (3).
 
-#### 11. Exclusion of all mayoral CCAs from scrutiny regime in Schedule 1 LURA 2023[^key-e74cb1ef79f3219289be3e71378a213f]
+#### 11. Exclusion of all mayoral CCAs from scrutiny regime in Schedule 1 LURA 2023[^c-e74cb1ef79f3219289be3e71378a213f]
 
 (1) Schedule 1 (as amended by paragraph 6 of this Schedule) is amended in accordance with this paragraph.
 
@@ -546,7 +546,7 @@ LURA 2023 is amended in accordance with this Part of this Schedule.
 
 > (5) For the purposes of sub-paragraph (4)(b) “**appropriate person**” means a person who is not a member of the registered political party which has the most representatives among the members of the constituent councils (or, if there is no such party because two or more parties have the same number of representatives, is not a member of any of those parties).
 
-#### 12. Inclusion of all mayoral CCAs in the new scrutiny regime[^key-7af2dc8d1e993651f45d49167700c48b]
+#### 12. Inclusion of all mayoral CCAs in the new scrutiny regime[^c-7af2dc8d1e993651f45d49167700c48b]
 
 (1) Schedule 1A (as inserted by paragraph 2 of this Schedule) is amended in accordance with this paragraph.
 
@@ -565,26 +565,26 @@ LURA 2023 is amended in accordance with this Part of this Schedule.
 
 ## Annotations
 
-[^key-11303e2315e60ec5313725d2bddb7d63]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-11303e2315e60ec5313725d2bddb7d63]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-31d86ff4c7adf4333fe120294ef4139c]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-31d86ff4c7adf4333fe120294ef4139c]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-1ad137d405bc3d4b8389e4c8b6252e6d]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-1ad137d405bc3d4b8389e4c8b6252e6d]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-ec0c6e5d6e443909a7c7fce2b671638c]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-ec0c6e5d6e443909a7c7fce2b671638c]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-dafa4d2afd21a591a8f2c238d8e6632c]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-dafa4d2afd21a591a8f2c238d8e6632c]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-315861e0141d203583ee8718ff2cfc3e]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-315861e0141d203583ee8718ff2cfc3e]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-bd10160d9374819be044075506977c1c]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-bd10160d9374819be044075506977c1c]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-f572f22246731988c74f89920f0adeee]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-f572f22246731988c74f89920f0adeee]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-9655abe5dd25442461e4e3135d0eb926]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-9655abe5dd25442461e4e3135d0eb926]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-da4f8572fb16b370de0ce760a4fbbba0]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-da4f8572fb16b370de0ce760a4fbbba0]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-e74cb1ef79f3219289be3e71378a213f]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-e74cb1ef79f3219289be3e71378a213f]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-7af2dc8d1e993651f45d49167700c48b]: Commencement: Sch. 4 para. 12 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-7af2dc8d1e993651f45d49167700c48b]: Commencement: Sch. 4 para. 12 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

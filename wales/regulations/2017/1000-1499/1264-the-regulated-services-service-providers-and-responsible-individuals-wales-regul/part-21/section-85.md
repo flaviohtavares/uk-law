@@ -30,10 +30,10 @@ summary: ''
 - (b) an individual being exposed to a significant risk of such harm occurring, or
 - (c) in a case of theft, misuse or misappropriation of money or property, any loss by an individual of the money or property concerned.
 
-(4) The provisions specified for the purposes of paragraph (3) are the provisions of regulations 6, 7(1), 12(5), 14(1), 14(3), 15(1), 15(3), 15(5), 16(1), 16(5), 18(1), 18(6), 18(7), 21(1), 21(2), 22, 26, 33(2)[^key-e3e42d59ef04e304cb2625b3783bab45], 34(1), 34(2) and 34(3).
+(4) The provisions specified for the purposes of paragraph (3) are the provisions of regulations 6, 7(1), 12(5), 14(1), 14(3), 15(1), 15(3), 15(5), 16(1), 16(5), 18(1), 18(6), 18(7), 21(1), 21(2), 22, 26, 33(2)[^c-e3e42d59ef04e304cb2625b3783bab45], 34(1), 34(2) and 34(3).
 
 ## Annotations
 
 [^c23886931]: Marginal citation: For penalties upon conviction for an offence under this regulation, see section 51(1) of the Act.
 
-[^key-e3e42d59ef04e304cb2625b3783bab45]: Textual amendment: Word in reg. 85(4) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [15](https://www.legislation.gov.uk/wsi/2019/757/regulation/15)
+[^c-e3e42d59ef04e304cb2625b3783bab45]: Textual amendment: Word in reg. 85(4) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [15](https://www.legislation.gov.uk/wsi/2019/757/regulation/15)

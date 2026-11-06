@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Appeals[^key-48d634449f5171f8a92bd9b3bd4e93d6]
+## 41. Appeals[^c-48d634449f5171f8a92bd9b3bd4e93d6]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48d634449f5171f8a92bd9b3bd4e93d6]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2014/14/section/41) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-48d634449f5171f8a92bd9b3bd4e93d6]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2014/14/section/41) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

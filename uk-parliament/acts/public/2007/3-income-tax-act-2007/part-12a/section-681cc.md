@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 681CC. Tax deduction not to exceed commercial rent[^key-ff94660a4e61e42e2143a9600cb5178d]
+## 681CC. Tax deduction not to exceed commercial rent[^c-ff94660a4e61e42e2143a9600cb5178d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 - (a) “**relevant period**” means—
   - (i) a period of account of the trade, or
-  - (ii) if no accounts of the trade are drawn up for a period, [^key-e472369ce16f3dc12e587b4a5c78724b]... a tax year, and
+  - (ii) if no accounts of the trade are drawn up for a period, [^c-e472369ce16f3dc12e587b4a5c78724b]... a tax year, and
 - (b) the non-excluded element of a payment is the element of the payment not excluded under section 681CD (long funding finance leases).
 
 (3) The rules are—
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff94660a4e61e42e2143a9600cb5178d]: Textual amendment: Pt. 12A Ch. 3 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2010/8/schedule/4/paragraph/4) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-ff94660a4e61e42e2143a9600cb5178d]: Textual amendment: Pt. 12A Ch. 3 inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2010/8/schedule/4/paragraph/4) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-e472369ce16f3dc12e587b4a5c78724b]: Textual amendment: Words in [s. 681CC(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2007/3/section/681CC/2/a/ii) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 58](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/58), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-e472369ce16f3dc12e587b4a5c78724b]: Textual amendment: Words in [s. 681CC(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2007/3/section/681CC/2/a/ii) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 58](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/58), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

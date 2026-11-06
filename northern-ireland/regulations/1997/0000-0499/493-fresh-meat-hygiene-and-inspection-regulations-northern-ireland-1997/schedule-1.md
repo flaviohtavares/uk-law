@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 4(2)(*a*)(i), (ii), (iii), (iv) and (vi) and (11) and 7(1)(*e*)
 
-**1.**[^key-315e92fb91914342b8ceeeb058168efb] All slaughterhouses, cutting premises, re-packaging centres and cold stores shall have—
+**1.**[^c-315e92fb91914342b8ceeeb058168efb] All slaughterhouses, cutting premises, re-packaging centres and cold stores shall have—
 
 - (a) a clearly defined boundary;
 - (b) at places readily accessible to the work stations and sanitary conveniences, suitable facilities, that is to say—
@@ -53,7 +53,7 @@ Regulations 4(2)(*a*)(i), (ii), (iii), (iv) and (vi) and (11) and 7(1)(*e*)
 - (n) suitable facilities for the storage of detergents, disinfectants and similar substances; and
 - (o) adequate protection against the entry of insects, vermin and birds.
 
-**2.**[^key-894395f752b012e8d18ef230322b8edd] Every room in any slaughterhouse, cutting premises, re-packaging centre or cold store in which fresh meat is produced, worked on, handled or stored and any area in such premises through which fresh meat is transported shall have—
+**2.**[^c-894395f752b012e8d18ef230322b8edd] Every room in any slaughterhouse, cutting premises, re-packaging centre or cold store in which fresh meat is produced, worked on, handled or stored and any area in such premises through which fresh meat is transported shall have—
 
 - (a) floors and floor surfaces of impermeable, rot proof and non-slip material, which shall be so constructed and kept in such good order, repair and condition as to enable them to be thoroughly cleaned and disinfected and, subject to paragraph 3, shall be laid in such a way as to facilitate the drainage of waste water by directing the water towards the drains;
 - (b) interior wall surfaces faced with a smooth, durable, impermeable and washable material (which shall be of a light colour) to the following heights—
@@ -69,20 +69,20 @@ Regulations 4(2)(*a*)(i), (ii), (iii), (iv) and (vi) and (11) and 7(1)(*e*)
 - (g) suitable and sufficient means of ventilation to the external air (except in the case of a humidity-controlled or temperature controlled chamber) including, where necessary, adequate means of steam extraction, (all ventilation systems to be kept at all times in good working order); and
 - (h) adequate artificial lighting throughout the slaughterhall and workrooms; which lighting shall not distort colours and shall be of an overall intensity of not less than 220 lux; save that at places where inspection of fresh meat is normally carried out the overall intensity shall be not less than 540 lux.
 
-**3.**[^key-97265cdbcbbe9338b48c25f22ef3debc] In rooms used for the storage of chilled or frozen fresh meat the directing of water towards drains in accordance with paragraph 2(*a*) is not required.
+**3.**[^c-97265cdbcbbe9338b48c25f22ef3debc] In rooms used for the storage of chilled or frozen fresh meat the directing of water towards drains in accordance with paragraph 2(*a*) is not required.
 
-**4.**[^key-869a8a2461c97e7b10473f65b7bbcdcb] In rooms used for chilling or refrigerating fresh meat a device with which water may easily be removed is sufficient.
+**4.**[^c-869a8a2461c97e7b10473f65b7bbcdcb] In rooms used for chilling or refrigerating fresh meat a device with which water may easily be removed is sufficient.
 
-**5.**[^key-868653c8777a6238f07d403f76661422] In rooms used for freezing fresh meat, waterproof and rot proof flooring is sufficient.
+**5.**[^c-868653c8777a6238f07d403f76661422] In rooms used for freezing fresh meat, waterproof and rot proof flooring is sufficient.
 
 ## Annotations
 
-[^key-315e92fb91914342b8ceeeb058168efb]: Commencement: Sch. 1 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-315e92fb91914342b8ceeeb058168efb]: Commencement: Sch. 1 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-894395f752b012e8d18ef230322b8edd]: Commencement: Sch. 1 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-894395f752b012e8d18ef230322b8edd]: Commencement: Sch. 1 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-97265cdbcbbe9338b48c25f22ef3debc]: Commencement: Sch. 1 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-97265cdbcbbe9338b48c25f22ef3debc]: Commencement: Sch. 1 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-869a8a2461c97e7b10473f65b7bbcdcb]: Commencement: Sch. 1 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-869a8a2461c97e7b10473f65b7bbcdcb]: Commencement: Sch. 1 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-868653c8777a6238f07d403f76661422]: Commencement: Sch. 1 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-868653c8777a6238f07d403f76661422]: Commencement: Sch. 1 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

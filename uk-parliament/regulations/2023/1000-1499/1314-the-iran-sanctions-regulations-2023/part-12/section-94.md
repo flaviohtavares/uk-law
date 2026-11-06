@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Notices[^key-b004a7043ddfb8c047766bcc76bb3ee2]
+## 94. Notices[^c-b004a7043ddfb8c047766bcc76bb3ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,9 +33,9 @@ summary: ''
 - (a) by sending it by post to the proper officer of the body at its principal office, or
 - (b) by addressing it to the proper officer of the body and leaving it at that office.
 
-(3A)[^key-4db0888fb92a5bee0d5d1f81f7280033] The notice may be given to the person by electronic means.
+(3A)[^c-4db0888fb92a5bee0d5d1f81f7280033] The notice may be given to the person by electronic means.
 
-(4) The notice may be given to the person by other means [^key-d61c36b16a536464e4c0ba26d9d624fb]... with the person’s consent.
+(4) The notice may be given to the person by other means [^c-d61c36b16a536464e4c0ba26d9d624fb]... with the person’s consent.
 
 (5) In this regulation, the reference in paragraph (3) to a “principal office”—
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b004a7043ddfb8c047766bcc76bb3ee2]: Commencement: Reg. 94 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-b004a7043ddfb8c047766bcc76bb3ee2]: Commencement: Reg. 94 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-4db0888fb92a5bee0d5d1f81f7280033]: Textual amendment: [Reg. 94(3A)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/94/3A) inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [36(5)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/36/5/a)
+[^c-4db0888fb92a5bee0d5d1f81f7280033]: Textual amendment: [Reg. 94(3A)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/94/3A) inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [36(5)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/36/5/a)
 
-[^key-d61c36b16a536464e4c0ba26d9d624fb]: Textual amendment: Words in [reg. 94(4)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/94/4) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [36(5)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/36/5/b)
+[^c-d61c36b16a536464e4c0ba26d9d624fb]: Textual amendment: Words in [reg. 94(4)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/94/4) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [36(5)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/36/5/b)

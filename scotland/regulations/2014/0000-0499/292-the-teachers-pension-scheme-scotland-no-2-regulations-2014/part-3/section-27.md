@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Opting out of this scheme after automatic enrolment date[^key-24b57e69f0fa3f054b9f41fde52a1672]
+## 27. Opting out of this scheme after automatic enrolment date[^c-24b57e69f0fa3f054b9f41fde52a1672]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24b57e69f0fa3f054b9f41fde52a1672]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2014/292/regulation/27) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-24b57e69f0fa3f054b9f41fde52a1672]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2014/292/regulation/27) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Compliance Officer[^key-a12d77dfb5e0d0b940859f6b3524dd95]
+## 26. Compliance Officer[^c-a12d77dfb5e0d0b940859f6b3524dd95]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a12d77dfb5e0d0b940859f6b3524dd95]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2010/25/section/26) in force at 19.4.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/a)
+[^c-a12d77dfb5e0d0b940859f6b3524dd95]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2010/25/section/26) in force at 19.4.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1277/article/2/a)

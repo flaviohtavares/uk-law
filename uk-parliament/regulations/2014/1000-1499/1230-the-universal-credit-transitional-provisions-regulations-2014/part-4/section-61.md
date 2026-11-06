@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Rounding[^key-90e3de9c82961a5746b71bf6175c0696]
+## 61. Rounding[^c-90e3de9c82961a5746b71bf6175c0696]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 6 of the Universal Credit Regulations (rounding) applies for the purp
 
 ## Annotations
 
-[^key-90e3de9c82961a5746b71bf6175c0696]: Textual amendment: Pt. 4 inserted (24.7.2019) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/1152/regulation/2))
+[^c-90e3de9c82961a5746b71bf6175c0696]: Textual amendment: Pt. 4 inserted (24.7.2019) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/1152/regulation/2))

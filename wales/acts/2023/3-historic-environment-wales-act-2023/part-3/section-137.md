@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Powers to acquire listed building compulsorily for purpose of preservation[^key-c528f89ac14e6d08c5c8bf0b1bf7737b][^key-73d65f5e64646c1fcaf6195b7f504e83]
+## 137. Powers to acquire listed building compulsorily for purpose of preservation[^c-c528f89ac14e6d08c5c8bf0b1bf7737b][^c-73d65f5e64646c1fcaf6195b7f504e83]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c528f89ac14e6d08c5c8bf0b1bf7737b]: Commencement: S. 137 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-c528f89ac14e6d08c5c8bf0b1bf7737b]: Commencement: S. 137 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-73d65f5e64646c1fcaf6195b7f504e83]: Commencement: [S. 137](https://www.legislation.gov.uk/asc/2023/3/section/137) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-73d65f5e64646c1fcaf6195b7f504e83]: Commencement: [S. 137](https://www.legislation.gov.uk/asc/2023/3/section/137) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

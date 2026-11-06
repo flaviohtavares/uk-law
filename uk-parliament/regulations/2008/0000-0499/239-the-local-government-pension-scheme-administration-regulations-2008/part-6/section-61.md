@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Notice of decisions on reconsideration of disagreement[^key-ccdb4ce955b56e19257bc17f01152207]
+## 61. Notice of decisions on reconsideration of disagreement[^c-ccdb4ce955b56e19257bc17f01152207]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ before the expiry of the period of two months beginning with the date the applic
 
 ## Annotations
 
-[^key-ccdb4ce955b56e19257bc17f01152207]: Commencement: Reg. 61 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-ccdb4ce955b56e19257bc17f01152207]: Commencement: Reg. 61 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

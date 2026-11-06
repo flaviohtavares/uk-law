@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 188. Notifications of more than one nature[^key-e8c0a509505d333942e554a0e3b82f60]
+## 188. Notifications of more than one nature[^c-e8c0a509505d333942e554a0e3b82f60]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A notification which includes two or more of the types of notification set out i
 
 ## Annotations
 
-[^key-e8c0a509505d333942e554a0e3b82f60]: Commencement: Rule 188 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-e8c0a509505d333942e554a0e3b82f60]: Commencement: Rule 188 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

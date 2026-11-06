@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251ZC. Public censure of relevant IT providers[^key-e0d6fd2cacb4682f0cc57a1b527fb4a8]
+## 251ZC. Public censure of relevant IT providers[^c-e0d6fd2cacb4682f0cc57a1b527fb4a8]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0d6fd2cacb4682f0cc57a1b527fb4a8]: Textual amendment: [Ss. 251ZB-251ZE](https://www.legislation.gov.uk/ukpga/2012/7/section/251ZB) and cross-heading inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1/2/h), [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/8); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-e0d6fd2cacb4682f0cc57a1b527fb4a8]: Textual amendment: [Ss. 251ZB-251ZE](https://www.legislation.gov.uk/ukpga/2012/7/section/251ZB) and cross-heading inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1/2/h), [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/8); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)

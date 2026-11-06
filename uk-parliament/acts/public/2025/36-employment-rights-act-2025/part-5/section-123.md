@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Power to make LME order on application[^key-be7a05715324d9dcc6bf55a9dff909fd][^key-0a2bb0a38de1c7a6b9ab75ec8eb256b1]
+## 123. Power to make LME order on application[^c-be7a05715324d9dcc6bf55a9dff909fd][^c-0a2bb0a38de1c7a6b9ab75ec8eb256b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be7a05715324d9dcc6bf55a9dff909fd]: Commencement: S. 123 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-be7a05715324d9dcc6bf55a9dff909fd]: Commencement: S. 123 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-0a2bb0a38de1c7a6b9ab75ec8eb256b1]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2025/36/section/123) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(24)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/24)
+[^c-0a2bb0a38de1c7a6b9ab75ec8eb256b1]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2025/36/section/123) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(24)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/24)

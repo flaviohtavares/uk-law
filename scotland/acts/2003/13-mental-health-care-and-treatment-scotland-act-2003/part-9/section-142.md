@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 142. Revocation of compulsion order: responsible medical officer’s duty to keep under review[^key-f020a88c1272870fbae763ba8566b790]
+## 142. Revocation of compulsion order: responsible medical officer’s duty to keep under review[^c-f020a88c1272870fbae763ba8566b790]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ the responsible medical officer shall make a determination revoking the compulsi
 
 ## Annotations
 
-[^key-f020a88c1272870fbae763ba8566b790]: Commencement: S. 142 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-f020a88c1272870fbae763ba8566b790]: Commencement: S. 142 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

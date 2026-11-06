@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-817c67830d469eb4f1951e97a3766c47]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-817c67830d469eb4f1951e97a3766c47]
 
 *Extent: E+W*
 
@@ -24,20 +24,20 @@ Article 2
 
 ### In the administrative area of Luton Borough Council, Central Bedfordshire Council, North Hertfordshire District Council, Hertfordshire County Council and Dacorum Borough Council
 
-[^key-817c67830d469eb4f1951e97a3766c47]
+[^c-817c67830d469eb4f1951e97a3766c47]
 
 A nationally significant infrastructure project as defined in sections 14 (nationally significant infrastructure projects: general) and 23 (airports) of the 2008 Act; and associated development as defined in section 115(2) (development for which development consent may be granted) of the 2008 Act, comprising as follows—
 
 ### Sitewide works to enable development
 
-[^key-817c67830d469eb4f1951e97a3766c47]
+[^c-817c67830d469eb4f1951e97a3766c47]
 
 - **Work No. 1a** — Within the area of land shown on the Works Plans as Work No. 1a, earthworks involving the excavation of natural material and existing made ground and stockpiles to create a new apron at approximately existing apron height as well as a landform platform suitable for the construction of a new terminal, apron, car parks and ancillary airport facilities.
 - **Work No. 1b** — Within the area of land shown on the Works Plans as Work No. 1b, landfill remediation works to the former Eaton Green landfill site including the excavation, processing and re-deposit of material and the piling of foundations to support the new airport buildings and infrastructure.
 
 ### Airfield works
 
-[^key-817c67830d469eb4f1951e97a3766c47]
+[^c-817c67830d469eb4f1951e97a3766c47]
 
 - **Work No. 2a(01)** — Within the area of land shown on the Works Plans as Work No. 2a(01), works to construct up to four new aircraft stands including high mast lighting, linear drainage systems with catch-pits, an oil separator and attenuation storage, the construction of a new taxiway from the east side of existing Taxiway Foxtrot, drainage and aeronautical ground lighting.
 - **Work No. 2a(02)** — Within the area of land shown on the Works Plans as Work No. 2a(02), works to construct a new surface movement radar including the construction of an access road, security fencing and power and communication cable connections.
@@ -105,7 +105,7 @@ A nationally significant infrastructure project as defined in sections 14 (natio
 
 ### Terminal and associated works
 
-[^key-817c67830d469eb4f1951e97a3766c47]
+[^c-817c67830d469eb4f1951e97a3766c47]
 
 - **Work No. 3a(01)** — Within the area of land shown on the Works Plans as Work No. 3a(01), the construction of a new Pier C to Terminal 1 (T1) accessible from existing Pier B to be built on two levels including the construction of an external canopy from the southern end of the new pier.
 - **Work No. 3a(02)** — Within the area of land shown on the Works Plans as Work No. 3a(02), works to extend the existing T1 building to its northern side at ground floor level to increase the size of the immigration area.
@@ -179,7 +179,7 @@ A nationally significant infrastructure project as defined in sections 14 (natio
 
 ### Airport support facilities
 
-[^key-817c67830d469eb4f1951e97a3766c47]
+[^c-817c67830d469eb4f1951e97a3766c47]
 
 - **Work No. 4a** — Within the area of land shown on the Works Plans as Work No. 4a, the construction of a hotel. To include—
   - (a) external vehicle/pedestrian access and circulation work;
@@ -293,7 +293,7 @@ A nationally significant infrastructure project as defined in sections 14 (natio
 
 ### Landscaping and mitigation
 
-[^key-817c67830d469eb4f1951e97a3766c47]
+[^c-817c67830d469eb4f1951e97a3766c47]
 
 - **Work No. 5a** — Terminal Approach and related development. Within the area of land shown on the Works Plans as Work No. 5a, the provision of structural landscaping to include—
   - (a) soft landscaping;
@@ -340,13 +340,13 @@ A nationally significant infrastructure project as defined in sections 14 (natio
   - (b) erection of boundary treatments including fencing;
   - (c) installation of signage; and
   - (d) hard landscape finishes to footpaths and access.
-- **Work No. 5e** — Offsite[^key-2fc354bcea3b67252d5c95eeff7b8746] Hedgerow Restoration and Screening. Within the area of land shown on the Works Plans as Work No. 5e, the provision of structural landscaping. To include—
+- **Work No. 5e** — Offsite[^c-2fc354bcea3b67252d5c95eeff7b8746] Hedgerow Restoration and Screening. Within the area of land shown on the Works Plans as Work No. 5e, the provision of structural landscaping. To include—
   - (a) soft landscaping; and
   - (b) erection of boundary treatments including fencing.
 
 ### Airport Access Road and Offsite Highway Works
 
-[^key-817c67830d469eb4f1951e97a3766c47]
+[^c-817c67830d469eb4f1951e97a3766c47]
 
 Within the area of land shown on the Works Plans as Work No. 6—
 
@@ -408,7 +408,7 @@ Within the area of land shown on the Works Plans as Work No. 6—
 
 ### Ancillary works
 
-[^key-817c67830d469eb4f1951e97a3766c47]
+[^c-817c67830d469eb4f1951e97a3766c47]
 
 In connection with the construction of any of those works, and other development in the Order limits, ancillary or related development consisting of—
 
@@ -429,6 +429,6 @@ In connection with the construction of any of those works, and other development
 
 ## Annotations
 
-[^key-817c67830d469eb4f1951e97a3766c47]: Commencement: Sch. 1 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-817c67830d469eb4f1951e97a3766c47]: Commencement: Sch. 1 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
-[^key-2fc354bcea3b67252d5c95eeff7b8746]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2025/463/schedule/1) substituted (21.3.2026) by [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)
+[^c-2fc354bcea3b67252d5c95eeff7b8746]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2025/463/schedule/1) substituted (21.3.2026) by [The London Luton Airport Expansion Development Consent (Correction) Order 2026 (S.I. 2026/328)](https://www.legislation.gov.uk/uksi/2026/328), [art. 1](https://www.legislation.gov.uk/uksi/2026/328/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/328/schedule)

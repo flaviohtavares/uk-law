@@ -56,10 +56,10 @@ where—
 - (a) employment with an employer in respect of whom a direction has been made under section 7 of the Superannuation (Miscellaneous Provisions) Act 1967[^f00045], and
 - (b) employment with an employer with whom an agreement has been made under section 235 of the 2006 Act.
 
-(8)[^key-a0cbf6022bf446ee1baf6f60935bab6e] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.12.
+(8)[^c-a0cbf6022bf446ee1baf6f60935bab6e] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.12.
 
 ## Annotations
 
 [^f00045]: Footnote: [1967 c.28](https://www.legislation.gov.uk/ukpga/1967/28).
 
-[^key-a0cbf6022bf446ee1baf6f60935bab6e]: Textual amendment: [Reg. 2.D.1(8)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.1/8) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2009/2446/regulation/25)
+[^c-a0cbf6022bf446ee1baf6f60935bab6e]: Textual amendment: [Reg. 2.D.1(8)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.1/8) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2009/2446/regulation/25)

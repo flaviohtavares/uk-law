@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 333. “Debt”; “liability”[^key-b232fe5d05225af19b6e6ff79bc84f7d]
+## 333. “Debt”; “liability”[^c-b232fe5d05225af19b6e6ff79bc84f7d]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b232fe5d05225af19b6e6ff79bc84f7d]: Commencement: [Rule 333](https://www.legislation.gov.uk/uksi/2011/1301/rule/333) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-b232fe5d05225af19b6e6ff79bc84f7d]: Commencement: [Rule 333](https://www.legislation.gov.uk/uksi/2011/1301/rule/333) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Undertakings to public designated enforcers: further proceedings[^key-d3488ba29d9cfe18fff3e94dc86ca17a][^key-bb90e20e56176331fa15ff7f90bf58b5]
+## 167. Undertakings to public designated enforcers: further proceedings[^c-d3488ba29d9cfe18fff3e94dc86ca17a][^c-bb90e20e56176331fa15ff7f90bf58b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ and the preceding provisions of this Chapter apply subject to this subsection.
 
 ## Annotations
 
-[^key-d3488ba29d9cfe18fff3e94dc86ca17a]: Commencement: S. 167 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d3488ba29d9cfe18fff3e94dc86ca17a]: Commencement: S. 167 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-bb90e20e56176331fa15ff7f90bf58b5]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2024/13/section/167) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-bb90e20e56176331fa15ff7f90bf58b5]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2024/13/section/167) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

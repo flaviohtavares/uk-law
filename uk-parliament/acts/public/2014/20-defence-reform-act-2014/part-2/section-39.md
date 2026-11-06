@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Review of Part and regulations under it[^key-99a0d1d84a64f8bac76bfefc3a9e060f]
+## 39. Review of Part and regulations under it[^c-99a0d1d84a64f8bac76bfefc3a9e060f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99a0d1d84a64f8bac76bfefc3a9e060f]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2014/20/section/39) in force at 5.12.2014 by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/d)
+[^c-99a0d1d84a64f8bac76bfefc3a9e060f]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2014/20/section/39) in force at 5.12.2014 by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/d)

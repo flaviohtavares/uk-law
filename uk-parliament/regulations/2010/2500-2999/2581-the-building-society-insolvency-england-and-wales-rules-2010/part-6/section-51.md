@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Resolutions[^key-4088fc2c21c87dc9471ccac120e423b6]
+## 51. Resolutions[^c-4088fc2c21c87dc9471ccac120e423b6]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.63 of the 1986 Rules[^f00021]. In rule 4.63(1) for “the number of
 
 ## Annotations
 
-[^key-4088fc2c21c87dc9471ccac120e423b6]: Commencement: Rule 51 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-4088fc2c21c87dc9471ccac120e423b6]: Commencement: Rule 51 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00021]: Footnote: Rule 4.63 was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

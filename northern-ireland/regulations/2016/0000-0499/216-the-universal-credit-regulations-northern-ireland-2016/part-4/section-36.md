@@ -26,7 +26,7 @@ summary: ''
 - (b) are paid in that assessment period for relevant childcare in respect of a previous assessment period, or
 - (c) were paid in either of the two previous assessment periods for relevant childcare in respect of that assessment period.
 
-(2)[^key-e83d25ee7c5318051f64a05fe2406bcd] For the purposes of paragraph (1)(c), where a claimant pays charges for relevant childcare in advance, the amount which they have paid in respect of any assessment period is to be calculated as follows:
+(2)[^c-e83d25ee7c5318051f64a05fe2406bcd] For the purposes of paragraph (1)(c), where a claimant pays charges for relevant childcare in advance, the amount which they have paid in respect of any assessment period is to be calculated as follows:
 
 *Step 1*
 
@@ -50,4 +50,4 @@ AP is the number of days covered by the payment which also fall within the asses
 
 ## Annotations
 
-[^key-e83d25ee7c5318051f64a05fe2406bcd]: Modification: Sum in reg. 36(2) specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)
+[^c-e83d25ee7c5318051f64a05fe2406bcd]: Modification: Sum in reg. 36(2) specified (24.3.2018) by [The Social Security (2017 Benefits Up-rating) Order (Northern Ireland) 2018 (S.R. 2018/56)](https://www.legislation.gov.uk/nisr/2018/56), [arts. 1](https://www.legislation.gov.uk/nisr/2018/56/article/1), [27(4)](https://www.legislation.gov.uk/nisr/2018/56/article/27), [Sch. 17](https://www.legislation.gov.uk/nisr/2018/56/schedule/17)

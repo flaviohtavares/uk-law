@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Application of sections 9 and 11 in cases of joint ownership etc.[^key-86db59fad15d35df89bddec1452aefe9]
+## 12. Application of sections 9 and 11 in cases of joint ownership etc.[^c-86db59fad15d35df89bddec1452aefe9]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86db59fad15d35df89bddec1452aefe9]: Commencement: S. 12 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-86db59fad15d35df89bddec1452aefe9]: Commencement: S. 12 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

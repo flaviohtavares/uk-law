@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Application of Article 185 to particular Territories[^key-0bc0ec09567def7a24ce46235f4976b2]
+## SCHEDULE 7 — Application of Article 185 to particular Territories[^c-0bc0ec09567def7a24ce46235f4976b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ Article 187(2)
 
 ## Annotations
 
-[^key-0bc0ec09567def7a24ce46235f4976b2]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2013/2870/schedule/7) inserted (5.11.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2015 (S.I. 2015/1769)](https://www.legislation.gov.uk/uksi/2015/1769), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1769/article/1/1), [8](https://www.legislation.gov.uk/uksi/2015/1769/article/8) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1769/article/1/3))
+[^c-0bc0ec09567def7a24ce46235f4976b2]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2013/2870/schedule/7) inserted (5.11.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2015 (S.I. 2015/1769)](https://www.legislation.gov.uk/uksi/2015/1769), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1769/article/1/1), [8](https://www.legislation.gov.uk/uksi/2015/1769/article/8) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/1769/article/1/3))

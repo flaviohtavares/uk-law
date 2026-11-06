@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. The Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^key-68e1b5ab4cd7586b3cfe9bb6344fb178]
+## 35. The Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^c-68e1b5ab4cd7586b3cfe9bb6344fb178]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68e1b5ab4cd7586b3cfe9bb6344fb178]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2020/1388/regulation/35) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-68e1b5ab4cd7586b3cfe9bb6344fb178]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2020/1388/regulation/35) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00070]: Footnote: [S.I. 1974/2211](https://www.legislation.gov.uk/uksi/1974/2211), amended by [S.I. 1977/361](https://www.legislation.gov.uk/uksi/1977/361), [2011/2883](https://www.legislation.gov.uk/uksi/2011/2883), [2014/3158](https://www.legislation.gov.uk/uksi/2014/3158) and [2019/526](https://www.legislation.gov.uk/uksi/2019/526). There are other amending instruments but none is relevant.

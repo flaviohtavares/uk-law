@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Acquisition or extension of ownership interest by Syrian credit or financial institution[^key-6959264089d8a42db023c5a69c9e154f]
+## 18. Acquisition or extension of ownership interest by Syrian credit or financial institution[^c-6959264089d8a42db023c5a69c9e154f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6959264089d8a42db023c5a69c9e154f]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/792/regulation/18) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(c)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/c)
+[^c-6959264089d8a42db023c5a69c9e154f]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/792/regulation/18) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(c)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Welfare requirements[^key-014da54dede4acadf907a05822806f4d]
+## 43. Welfare requirements[^c-014da54dede4acadf907a05822806f4d]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-014da54dede4acadf907a05822806f4d]: Commencement: S. 43 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/c)
+[^c-014da54dede4acadf907a05822806f4d]: Commencement: S. 43 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/c)

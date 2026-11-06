@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Modification of this Chapter under the Enterprise Act 2002[^key-ff23a1d9b6646f3a3f7f5ce17d8aee36]
+## 114. Modification of this Chapter under the Enterprise Act 2002[^c-ff23a1d9b6646f3a3f7f5ce17d8aee36]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff23a1d9b6646f3a3f7f5ce17d8aee36]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2016/22/section/114) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-ff23a1d9b6646f3a3f7f5ce17d8aee36]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2016/22/section/114) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

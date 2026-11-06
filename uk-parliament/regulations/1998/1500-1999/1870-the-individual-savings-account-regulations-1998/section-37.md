@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**37.**[^key-09e4e39d8bf2397a65d8c3433122e936] The Schedule makes further provision for Lifetime ISA.
+**37.**[^c-09e4e39d8bf2397a65d8c3433122e936] The Schedule makes further provision for Lifetime ISA.
 
 ## Annotations
 
-[^key-09e4e39d8bf2397a65d8c3433122e936]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/1998/1870/regulation/37) inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [30](https://www.legislation.gov.uk/uksi/2017/466/regulation/30)
+[^c-09e4e39d8bf2397a65d8c3433122e936]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/1998/1870/regulation/37) inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [30](https://www.legislation.gov.uk/uksi/2017/466/regulation/30)

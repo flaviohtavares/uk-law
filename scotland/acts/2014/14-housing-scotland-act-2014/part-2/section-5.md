@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Factors which may be considered in allocation: ownership of property[^key-547b08832a9cec017316b3201b42e073]
+## 5. Factors which may be considered in allocation: ownership of property[^c-547b08832a9cec017316b3201b42e073]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-547b08832a9cec017316b3201b42e073]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/14/section/5) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-547b08832a9cec017316b3201b42e073]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/14/section/5) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Duty to co-operate[^key-9df46e1c6dbf33442d5d9a4c86e1f67f]
+## 126. Duty to co-operate[^c-9df46e1c6dbf33442d5d9a4c86e1f67f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9df46e1c6dbf33442d5d9a4c86e1f67f]: Commencement: [S. 126](https://www.legislation.gov.uk/anaw/2014/7/section/126) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-9df46e1c6dbf33442d5d9a4c86e1f67f]: Commencement: [S. 126](https://www.legislation.gov.uk/anaw/2014/7/section/126) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

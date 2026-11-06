@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Circumventing etc. prohibitions[^key-dcbaa34ddf875068070e2e9b2cdf6185]
+## 16. Circumventing etc. prohibitions[^c-dcbaa34ddf875068070e2e9b2cdf6185]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcbaa34ddf875068070e2e9b2cdf6185]: Commencement: Reg. 16 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-dcbaa34ddf875068070e2e9b2cdf6185]: Commencement: Reg. 16 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

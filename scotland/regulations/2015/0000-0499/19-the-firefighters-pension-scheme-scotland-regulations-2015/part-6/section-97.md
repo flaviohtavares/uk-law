@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Lump sum payable on death of pensioner member[^key-1fd570345dd3790b7d934b1c37e8f84f]
+## 97. Lump sum payable on death of pensioner member[^c-1fd570345dd3790b7d934b1c37e8f84f]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fd570345dd3790b7d934b1c37e8f84f]: Commencement: [Reg. 97](https://www.legislation.gov.uk/ssi/2015/19/regulation/97) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-1fd570345dd3790b7d934b1c37e8f84f]: Commencement: [Reg. 97](https://www.legislation.gov.uk/ssi/2015/19/regulation/97) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

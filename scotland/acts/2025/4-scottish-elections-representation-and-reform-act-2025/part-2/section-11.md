@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Counting officers[^key-d3f92894c28ec622dcefda8d33d0a59e][^key-d44091cd8dbb0a74b832d9602cb0d67e]
+## 11. Counting officers[^c-d3f92894c28ec622dcefda8d33d0a59e][^c-d44091cd8dbb0a74b832d9602cb0d67e]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3f92894c28ec622dcefda8d33d0a59e]: Commencement: S. 11 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-d3f92894c28ec622dcefda8d33d0a59e]: Commencement: S. 11 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-d44091cd8dbb0a74b832d9602cb0d67e]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2025/4/section/11) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-d44091cd8dbb0a74b832d9602cb0d67e]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2025/4/section/11) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

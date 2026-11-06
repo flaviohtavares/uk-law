@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. How to apply for a licence[^key-953b2fa61ce4b5522af885421fc9f9a5]
+## 18. How to apply for a licence[^c-953b2fa61ce4b5522af885421fc9f9a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-953b2fa61ce4b5522af885421fc9f9a5]: Commencement: Reg. 18 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-953b2fa61ce4b5522af885421fc9f9a5]: Commencement: Reg. 18 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

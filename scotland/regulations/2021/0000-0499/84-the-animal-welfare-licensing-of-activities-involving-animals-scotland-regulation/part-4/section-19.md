@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Reinstatement of a suspended licence by a licensing authority[^key-80f238a391f1707d07ad46c8fd819b7a]
+## 19. Reinstatement of a suspended licence by a licensing authority[^c-80f238a391f1707d07ad46c8fd819b7a]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80f238a391f1707d07ad46c8fd819b7a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2021/84/regulation/19) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-80f238a391f1707d07ad46c8fd819b7a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2021/84/regulation/19) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

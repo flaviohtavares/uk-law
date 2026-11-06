@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Exercise of enforcement powers[^key-2e11e6137b5e5d9721542cb87cb27c5c]
+## 51. Exercise of enforcement powers[^c-2e11e6137b5e5d9721542cb87cb27c5c]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ After section 50A of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-2e11e6137b5e5d9721542cb87cb27c5c]: Commencement: [S. 51](https://www.legislation.gov.uk/mwa/2011/5/section/51) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(h)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/h)
+[^c-2e11e6137b5e5d9721542cb87cb27c5c]: Commencement: [S. 51](https://www.legislation.gov.uk/mwa/2011/5/section/51) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(h)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/h)

@@ -30,7 +30,7 @@ SOCIAL SECURITY
 
 PENSIONS
 
-The Social Security Commissioners (Procedure) (Amendment) Regulations 2005 (revoked)[^key-f29c40b6e1d87e776e1d141de78cf113]
+The Social Security Commissioners (Procedure) (Amendment) Regulations 2005 (revoked)[^c-f29c40b6e1d87e776e1d141de78cf113]
 
 Made
 
@@ -40,48 +40,48 @@ Coming into force
 
 6th April 2005
 
-[^key-f29c40b6e1d87e776e1d141de78cf113]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f29c40b6e1d87e776e1d141de78cf113]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f29c40b6e1d87e776e1d141de78cf113]
+## 1. Citation, commencement and interpretation[^c-f29c40b6e1d87e776e1d141de78cf113]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Social Security Commissioners (Procedure) Regulations 1999[^key-f29c40b6e1d87e776e1d141de78cf113]
+## 2. Amendment to the Social Security Commissioners (Procedure) Regulations 1999[^c-f29c40b6e1d87e776e1d141de78cf113]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-f29c40b6e1d87e776e1d141de78cf113]
+## 3.[^c-f29c40b6e1d87e776e1d141de78cf113]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-f29c40b6e1d87e776e1d141de78cf113]
+## 4.[^c-f29c40b6e1d87e776e1d141de78cf113]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-f29c40b6e1d87e776e1d141de78cf113]
+## 5.[^c-f29c40b6e1d87e776e1d141de78cf113]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-f29c40b6e1d87e776e1d141de78cf113]
+## 6.[^c-f29c40b6e1d87e776e1d141de78cf113]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-f29c40b6e1d87e776e1d141de78cf113]
+## 7.[^c-f29c40b6e1d87e776e1d141de78cf113]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-f29c40b6e1d87e776e1d141de78cf113]
+## 8.[^c-f29c40b6e1d87e776e1d141de78cf113]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f29c40b6e1d87e776e1d141de78cf113]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f29c40b6e1d87e776e1d141de78cf113]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f29c40b6e1d87e776e1d141de78cf113]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f29c40b6e1d87e776e1d141de78cf113]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f29c40b6e1d87e776e1d141de78cf113]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2005/870) revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(h)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/h), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-f29c40b6e1d87e776e1d141de78cf113]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2005/870) revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(h)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/h), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))

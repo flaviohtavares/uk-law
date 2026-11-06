@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90D. Modification of sections 90ZA and 90C in relation to election of London members of the London Assembly.[^key-a74e98e474fb049a86157667748ff177][^c14495581][^c14479931][^c19429861]
+## 90D. Modification of sections 90ZA and 90C in relation to election of London members of the London Assembly.[^c-a74e98e474fb049a86157667748ff177][^c14495581][^c14479931][^c19429861]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
 [^c14495581]: Textual amendment: Ss. 90A-90D inserted (1.7.2001) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [s. 134(1)(2)](https://www.legislation.gov.uk/ukpga/2000/41/section/134/1/2) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6)); [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 4](https://www.legislation.gov.uk/uksi/2001/222/article/4), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/I) (subject to transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/II))
 

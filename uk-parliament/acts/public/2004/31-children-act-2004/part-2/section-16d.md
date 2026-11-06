@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16D. Information[^key-1b38c925d1d0ec31a1b5d04cd43da8af]
+## 16D. Information[^c-1b38c925d1d0ec31a1b5d04cd43da8af]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b38c925d1d0ec31a1b5d04cd43da8af]: Textual amendment: S. 16D inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 15](https://www.legislation.gov.uk/ukpga/2017/16/section/15), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/d)
+[^c-1b38c925d1d0ec31a1b5d04cd43da8af]: Textual amendment: S. 16D inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 15](https://www.legislation.gov.uk/ukpga/2017/16/section/15), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/d)

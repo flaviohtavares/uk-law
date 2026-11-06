@@ -32,7 +32,7 @@ summary: ''
 
 EDUCATION
 
-The Individual Learning Account (Scotland) Amendment Regulations 2009 (revoked)[^key-ff7eedf8286e783568ef78bf87dea1d2]
+The Individual Learning Account (Scotland) Amendment Regulations 2009 (revoked)[^c-ff7eedf8286e783568ef78bf87dea1d2]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 30th June 2009
 
-[^key-ff7eedf8286e783568ef78bf87dea1d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff7eedf8286e783568ef78bf87dea1d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ff7eedf8286e783568ef78bf87dea1d2]
+## 1. Citation and commencement[^c-ff7eedf8286e783568ef78bf87dea1d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Individual Learning Account (Scotland) Regulations 2004[^key-ff7eedf8286e783568ef78bf87dea1d2]
+## 2. Amendment of the Individual Learning Account (Scotland) Regulations 2004[^c-ff7eedf8286e783568ef78bf87dea1d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff7eedf8286e783568ef78bf87dea1d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff7eedf8286e783568ef78bf87dea1d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ff7eedf8286e783568ef78bf87dea1d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff7eedf8286e783568ef78bf87dea1d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff7eedf8286e783568ef78bf87dea1d2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/176) revoked (1.4.2011) by [The Individual Learning Account (Scotland) Regulations 2011 (S.S.I. 2011/107)](https://www.legislation.gov.uk/ssi/2011/107), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2011/107/schedule) (with [reg. 14](https://www.legislation.gov.uk/ssi/2011/107/regulation/14))
+[^c-ff7eedf8286e783568ef78bf87dea1d2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/176) revoked (1.4.2011) by [The Individual Learning Account (Scotland) Regulations 2011 (S.S.I. 2011/107)](https://www.legislation.gov.uk/ssi/2011/107), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/107/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2011/107/schedule) (with [reg. 14](https://www.legislation.gov.uk/ssi/2011/107/regulation/14))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46A. Appointment of a strategic highways company[^key-495ddfd0b591ef591f062caff95672b6]
+## 46A. Appointment of a strategic highways company[^c-495ddfd0b591ef591f062caff95672b6]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-495ddfd0b591ef591f062caff95672b6]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/1988/20/section/46A) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 102](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/102); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-495ddfd0b591ef591f062caff95672b6]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/1988/20/section/46A) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 102](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/102); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

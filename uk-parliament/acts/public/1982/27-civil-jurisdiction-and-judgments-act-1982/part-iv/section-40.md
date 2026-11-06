@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^c15858491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-104f40f1b2549cf6a5c40873771403a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-104f40f1b2549cf6a5c40873771403a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c15858491]: Textual amendment: S. 40(2) repealed (S.) by [Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2)](https://www.legislation.gov.uk/ukpga/1986/47), [ss. 43](https://www.legislation.gov.uk/ukpga/1986/47/section/43), [45](https://www.legislation.gov.uk/ukpga/1986/47/section/45), [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/ukpga/1986/47/schedule/4/paragraph/3/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1986/47/schedule/5)
 
-[^key-104f40f1b2549cf6a5c40873771403a4]: Textual amendment: S. 40(3) repealed (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-104f40f1b2549cf6a5c40873771403a4]: Textual amendment: S. 40(3) repealed (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))

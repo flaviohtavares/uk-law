@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 141. Cancellation of HMO licence[^key-14b9335df5603f2c8ef86f332395c4f6]
+## 141. Cancellation of HMO licence[^c-14b9335df5603f2c8ef86f332395c4f6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The licence holder may cancel the HMO licence at any time by returning it (and a
 
 ## Annotations
 
-[^key-14b9335df5603f2c8ef86f332395c4f6]: Commencement: [S. 141](https://www.legislation.gov.uk/asp/2006/1/section/141) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-14b9335df5603f2c8ef86f332395c4f6]: Commencement: [S. 141](https://www.legislation.gov.uk/asp/2006/1/section/141) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

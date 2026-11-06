@@ -56,7 +56,7 @@ An Act of the National Assembly for Wales to make provision about national, stra
 
 - [Section 3 — Preparing and revising the National Development Framework for Wales](part-3/section-3.md)
 
-#### ...[^key-6b41c1e784baae114cc212cdd6594222]
+#### ...[^c-6b41c1e784baae114cc212cdd6594222]
 
 - [Section 4 — Designating strategic planning areas and establishing strategic planning panels](part-3/section-4.md)
 - [Section 5 — Strategic planning areas: survey](part-3/section-5.md)
@@ -194,4 +194,4 @@ An Act of the National Assembly for Wales to make provision about national, stra
 
 ## Annotations
 
-[^key-6b41c1e784baae114cc212cdd6594222]: Textual amendment: Ss. 4-6 and cross-heading omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 10](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/10)
+[^c-6b41c1e784baae114cc212cdd6594222]: Textual amendment: Ss. 4-6 and cross-heading omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 10](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/10)

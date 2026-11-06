@@ -45,11 +45,11 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-740927cb59874f9b2c716153494f344e]
+## 1. Citation and commencement[^c-740927cb59874f9b2c716153494f344e]
 
 These Regulations may be cited as the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Amendment Regulations 2005 and shall come into force on 16th May 2005.
 
-## 2. Amendment of the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2005[^key-d8b795e35cf7e5c6009f6115199db655]
+## 2. Amendment of the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2005[^c-d8b795e35cf7e5c6009f6115199db655]
 
 (1) The Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2005[^f00002] are amended in accordance with paragraphs (2) to (4).
 
@@ -97,9 +97,9 @@ A full Regulatory Impact Assessment has not been prepared for this instrument as
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The function conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998. For the purposes of implementing Council Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) establishing common rules for direct support under the common agricultural policy and establishing certain support schemes for farmers (O.J. No. L 270, 21.20.2003, p.1) that competence was modified by the Scotland Act 1998 (Modification of Functions) Order 2004 (S.I. [2004/2980](https://www.legislation.gov.uk/uksi/2004/2980)) and the Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 2004 (S.I. [2004/3324](https://www.legislation.gov.uk/uksi/2004/3324)).
 
-[^key-740927cb59874f9b2c716153494f344e]: Commencement: Reg. 1 in force at 16.5.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/257/regulation/1)
+[^c-740927cb59874f9b2c716153494f344e]: Commencement: Reg. 1 in force at 16.5.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/257/regulation/1)
 
-[^key-d8b795e35cf7e5c6009f6115199db655]: Commencement: Reg. 2 in force at 16.5.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/257/regulation/1)
+[^c-d8b795e35cf7e5c6009f6115199db655]: Commencement: Reg. 2 in force at 16.5.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/257/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2005/143](https://www.legislation.gov.uk/ssi/2005/143).
 

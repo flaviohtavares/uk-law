@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Annual reports[^key-cf49d8dbb8ce918c9149995a086daac1]
+## 79. Annual reports[^c-cf49d8dbb8ce918c9149995a086daac1]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf49d8dbb8ce918c9149995a086daac1]: Commencement: S. 79 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-cf49d8dbb8ce918c9149995a086daac1]: Commencement: S. 79 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

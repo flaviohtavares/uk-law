@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 322. Authorisation of the provision of investigative assistance[^key-b073216c063b5e6ab006277de0d9199d][^key-7f44aef9ea3b82777a5a69c68e0830e5]
+## 322. Authorisation of the provision of investigative assistance[^c-b073216c063b5e6ab006277de0d9199d][^c-7f44aef9ea3b82777a5a69c68e0830e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b073216c063b5e6ab006277de0d9199d]: Commencement: S. 322 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-b073216c063b5e6ab006277de0d9199d]: Commencement: S. 322 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-7f44aef9ea3b82777a5a69c68e0830e5]: Commencement: [S. 322](https://www.legislation.gov.uk/ukpga/2024/13/section/322) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/4)
+[^c-7f44aef9ea3b82777a5a69c68e0830e5]: Commencement: [S. 322](https://www.legislation.gov.uk/ukpga/2024/13/section/322) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/4)

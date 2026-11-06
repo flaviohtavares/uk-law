@@ -32,7 +32,7 @@ summary: ''
 
 Copyright
 
-The Copyright and Performances (Application to Other Countries) (Amendment) Order 2009 (revoked)[^key-8c4056cf7f59d8111c2eb54e1a938318]
+The Copyright and Performances (Application to Other Countries) (Amendment) Order 2009 (revoked)[^c-8c4056cf7f59d8111c2eb54e1a938318]
 
 Made
 
@@ -52,24 +52,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-8c4056cf7f59d8111c2eb54e1a938318]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c4056cf7f59d8111c2eb54e1a938318]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-8c4056cf7f59d8111c2eb54e1a938318]
+## 1. Citation and Commencement[^c-8c4056cf7f59d8111c2eb54e1a938318]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-8c4056cf7f59d8111c2eb54e1a938318]
+## 2. Amendment[^c-8c4056cf7f59d8111c2eb54e1a938318]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8c4056cf7f59d8111c2eb54e1a938318]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c4056cf7f59d8111c2eb54e1a938318]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8c4056cf7f59d8111c2eb54e1a938318]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c4056cf7f59d8111c2eb54e1a938318]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8c4056cf7f59d8111c2eb54e1a938318]: Textual amendment: Order revoked (6.4.2012) by [The Copyright and Performances (Application to Other Countries) Order 2012 (S.I. 2012/799)](https://www.legislation.gov.uk/uksi/2012/799), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2012/799/article/1/1/3)
+[^c-8c4056cf7f59d8111c2eb54e1a938318]: Textual amendment: Order revoked (6.4.2012) by [The Copyright and Performances (Application to Other Countries) Order 2012 (S.I. 2012/799)](https://www.legislation.gov.uk/uksi/2012/799), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2012/799/article/1/1/3)

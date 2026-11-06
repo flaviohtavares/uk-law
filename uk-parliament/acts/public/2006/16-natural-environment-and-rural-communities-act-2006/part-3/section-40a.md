@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Biodiversity reports[^key-77ffb29d73e8023875787ecd5c44d077]
+## 40A. Biodiversity reports[^c-77ffb29d73e8023875787ecd5c44d077]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ In this subsection “**specified**” means specified in the regulations.
 
 ## Annotations
 
-[^key-77ffb29d73e8023875787ecd5c44d077]: Textual amendment: [S. 40A](https://www.legislation.gov.uk/ukpga/2006/16/section/40A) inserted (1.1.2023) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 103(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/103/1), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/1266](https://www.legislation.gov.uk/uksi/2022/1266), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/2/b)
+[^c-77ffb29d73e8023875787ecd5c44d077]: Textual amendment: [S. 40A](https://www.legislation.gov.uk/ukpga/2006/16/section/40A) inserted (1.1.2023) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 103(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/103/1), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/1266](https://www.legislation.gov.uk/uksi/2022/1266), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1266/regulation/2/b)

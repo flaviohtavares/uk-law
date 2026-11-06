@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.6.4. Determination of application for forfeiture of cash[^key-e52ec693f2879410f3f9337418b6f383]
+## 3.6.4. Determination of application for forfeiture of cash[^c-e52ec693f2879410f3f9337418b6f383]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e52ec693f2879410f3f9337418b6f383]: Textual amendment: Ch. 3 Pt. 6 revoked (30.12.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 5) (Proceeds of Crime Act 2002) 2002 (S.S.I. 2002/563)](https://www.legislation.gov.uk/ssi/2002/563), [paras. 1(b)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/1/b), [2(3)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/2/3)
+[^c-e52ec693f2879410f3f9337418b6f383]: Textual amendment: Ch. 3 Pt. 6 revoked (30.12.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 5) (Proceeds of Crime Act 2002) 2002 (S.S.I. 2002/563)](https://www.legislation.gov.uk/ssi/2002/563), [paras. 1(b)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/1/b), [2(3)](https://www.legislation.gov.uk/ssi/2002/563/paragraph/2/3)

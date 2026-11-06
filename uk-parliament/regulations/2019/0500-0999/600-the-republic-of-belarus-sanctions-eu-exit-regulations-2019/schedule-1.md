@@ -16,23 +16,23 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Rules for interpretation of regulations 7(2) and 15D(3) and (4)[^key-84adbca04983d04156b4ceefc806cf73]
+## SCHEDULE 1 — Rules for interpretation of regulations 7(2) and 15D(3) and (4)[^c-84adbca04983d04156b4ceefc806cf73]
 
 *Extent: E+W+S+N.I.*
 
-Regulations 7(3) and 15D(5)[^key-5e01477de05273ecb32597353044d760]
+Regulations 7(3) and 15D(5)[^c-5e01477de05273ecb32597353044d760]
 
-### 1. Application of Schedule[^key-3c84ca5e323afbf4b7efeb9bc2ef7dde][^key-e28f2254741dc60f09b55bd331b2083a]
+### 1. Application of Schedule[^c-3c84ca5e323afbf4b7efeb9bc2ef7dde][^c-e28f2254741dc60f09b55bd331b2083a]
 
-(1) The rules set out in the following paragraphs of this Schedule apply for the purpose of interpreting regulations 7(2) and 15D(3) and (4)[^key-ee8f30a6376363828a5cdf06b81fc2c5].
+(1) The rules set out in the following paragraphs of this Schedule apply for the purpose of interpreting regulations 7(2) and 15D(3) and (4)[^c-ee8f30a6376363828a5cdf06b81fc2c5].
 
 (2) They also apply for the purpose of interpreting this Schedule.
 
-### 2. Joint interests[^key-3516147d16d0f82c9a3f7896bd927fbd][^key-e7ddda06b64b12afed6bbe1e63960495]
+### 2. Joint interests[^c-3516147d16d0f82c9a3f7896bd927fbd][^c-e7ddda06b64b12afed6bbe1e63960495]
 
 If two or more persons each hold a share or right jointly, each of them is treated as holding that share or right.
 
-### 3. Joint arrangements[^key-95ffa484e97d2d361a14f40c06632600][^key-914d8a6a0188541c653a872c6cee85ae]
+### 3. Joint arrangements[^c-95ffa484e97d2d361a14f40c06632600][^c-914d8a6a0188541c653a872c6cee85ae]
 
 (1) If shares or rights held by a person and shares or rights held by another person are the subject of a joint arrangement between those persons, each of them is treated as holding the combined shares or rights of both of them.
 
@@ -40,7 +40,7 @@ If two or more persons each hold a share or right jointly, each of them is treat
 
 (3) “**Arrangement**” has the meaning given by paragraph 12.
 
-### 4. Calculating shareholdings[^key-39202c89c197955ee2aaf5edaad4c444][^key-9d39cc5a90cdd5691e6b8486aae965f4]
+### 4. Calculating shareholdings[^c-39202c89c197955ee2aaf5edaad4c444][^c-9d39cc5a90cdd5691e6b8486aae965f4]
 
 (1) In relation to a person who has a share capital, a reference to holding “more than 50% of the shares” in that person is to holding shares comprised in the issued share capital of that person of a nominal value exceeding (in aggregate) 50% of that share capital.
 
@@ -49,7 +49,7 @@ If two or more persons each hold a share or right jointly, each of them is treat
 - (a) a reference to holding shares in that person is to holding a right or rights to share in the capital or, as the case may be, profits of that person;
 - (b) a reference to holding “more than 50% of the shares” in that person is to holding a right or rights to share in more than 50% of the capital or, as the case may be, profits of that person.
 
-### 5. Voting rights[^key-1cb25e80deb2d2da69fa74563ff5ca33][^key-a5a8771b566779f4cf93dc436858cffa]
+### 5. Voting rights[^c-1cb25e80deb2d2da69fa74563ff5ca33][^c-a5a8771b566779f4cf93dc436858cffa]
 
 (1) A reference to the voting rights in a person is to the rights conferred on shareholders in respect of their shares (or, in the case of a person not having a share capital, on members) to vote at general meetings of the person on all or substantially all matters.
 
@@ -58,15 +58,15 @@ If two or more persons each hold a share or right jointly, each of them is treat
 - (a) a reference to holding voting rights in the person is to be read as a reference to holding rights in relation to the person that are equivalent to those of a person entitled to exercise voting rights in a company;
 - (b) a reference to holding “more than 50% of the voting rights” in the person is to be read as a reference to holding the right under the constitution of the person to block changes to the overall policy of the person or to the terms of its constitution.
 
-**6.**[^key-2a838cc21acdb8c7b627fe4b64fb5609][^key-2a42442298f3ac3fe4e2969ac6014e9f] In applying regulation 7(2) and this Schedule, the voting rights in a person are to be reduced by any rights held by the person itself.
+**6.**[^c-2a838cc21acdb8c7b627fe4b64fb5609][^c-2a42442298f3ac3fe4e2969ac6014e9f] In applying regulation 7(2) and this Schedule, the voting rights in a person are to be reduced by any rights held by the person itself.
 
-### 7. Rights to appoint or remove members of the board[^key-14d26aa4d3eca61f96c6f70832641c39][^key-04860ca2d5da52b175d4e13e083895aa]
+### 7. Rights to appoint or remove members of the board[^c-14d26aa4d3eca61f96c6f70832641c39][^c-04860ca2d5da52b175d4e13e083895aa]
 
 A reference to the right to appoint or remove a majority of the board of directors of a person is to the right to appoint or remove directors holding a majority of the voting rights at meetings of the board on all or substantially all matters.
 
-**8.**[^key-2b50e8c8ea782ccdcb0c6c3b09b5e88b][^key-63fdf8d2a1dde412ed7a0e49b219f193] A reference to a board of directors, in the case of a person who does not have such a board, is to be read as a reference to the equivalent management body of that person.
+**8.**[^c-2b50e8c8ea782ccdcb0c6c3b09b5e88b][^c-63fdf8d2a1dde412ed7a0e49b219f193] A reference to a board of directors, in the case of a person who does not have such a board, is to be read as a reference to the equivalent management body of that person.
 
-### 9. Shares or rights held “indirectly”[^key-7033f5bd66d3988c7e92971c3e72fa70][^key-3ecc722224f4e7574e02eac1ac79e1db]
+### 9. Shares or rights held “indirectly”[^c-7033f5bd66d3988c7e92971c3e72fa70][^c-3ecc722224f4e7574e02eac1ac79e1db]
 
 (1) A person holds a share “indirectly” if the person has a majority stake in another person and that other person—
 
@@ -94,11 +94,11 @@ A reference to the right to appoint or remove a majority of the board of directo
 - (a) any person's appointment as director follows necessarily from that person's appointment as director of A, or
 - (b) the directorship is held by A itself.
 
-### 10. Shares held by nominees[^key-49e3bedbbf1c2c16a49b10a40c7d0d94][^key-e5543fa3064dadbd47e6334e2a46f9c4]
+### 10. Shares held by nominees[^c-49e3bedbbf1c2c16a49b10a40c7d0d94][^c-e5543fa3064dadbd47e6334e2a46f9c4]
 
 A share held by a person as nominee for another is to be treated as held by the other (and not by the nominee).
 
-### 11. Rights treated as held by person who controls their exercise[^key-0e7e6b35c7c856c3694a821ce3423274][^key-884578454d3cce87b983b38d10a07a09]
+### 11. Rights treated as held by person who controls their exercise[^c-0e7e6b35c7c856c3694a821ce3423274][^c-884578454d3cce87b983b38d10a07a09]
 
 (1) Where a person controls a right, the right is to be treated as held by that person (and not by the person who in fact holds the right, unless that person also controls it).
 
@@ -108,12 +108,12 @@ A share held by a person as nominee for another is to be treated as held by the 
 - (b) in accordance with that person's directions or instructions, or
 - (c) with that person's consent or concurrence.
 
-**12.**[^key-b024c815740374fa207f4cfb9a211515][^key-b8c65ac9bb2583402072c06ed3ef08e0] “**Arrangement**” includes—
+**12.**[^c-b024c815740374fa207f4cfb9a211515][^c-b8c65ac9bb2583402072c06ed3ef08e0] “**Arrangement**” includes—
 
 - (a) any scheme, agreement or understanding, whether or not it is legally enforceable, and
 - (b) any convention, custom or practice of any kind.
 
-### 13. Rights exercisable only in certain circumstances etc[^key-f656dcd7883ee07673e26d33ae2ab2d9][^key-d394a65cb547d3cce38a8fd6279d4aa4]
+### 13. Rights exercisable only in certain circumstances etc[^c-f656dcd7883ee07673e26d33ae2ab2d9][^c-d394a65cb547d3cce38a8fd6279d4aa4]
 
 (1) Rights that are exercisable only in certain circumstances are to be taken into account only—
 
@@ -130,7 +130,7 @@ A share held by a person as nominee for another is to be treated as held by the 
 
 (4) Rights that are normally exercisable but are temporarily incapable of exercise are to continue to be taken into account.
 
-### 14. Rights attached to shares held by way of security[^key-4180101686d814f92e4603fbac88b2c3][^key-a2a28a0673ce2a4342b34f878b57a1d6]
+### 14. Rights attached to shares held by way of security[^c-4180101686d814f92e4603fbac88b2c3][^c-a2a28a0673ce2a4342b34f878b57a1d6]
 
 Rights attached to shares held by way of security provided by a person are to be treated for the purposes of this Schedule as held by that person—
 
@@ -139,68 +139,68 @@ Rights attached to shares held by way of security provided by a person are to be
 
 ## Annotations
 
-[^key-84adbca04983d04156b4ceefc806cf73]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2019/600/schedule/1) heading substituted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [36(1)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/36/1)
+[^c-84adbca04983d04156b4ceefc806cf73]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2019/600/schedule/1) heading substituted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [36(1)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/36/1)
 
-[^key-5e01477de05273ecb32597353044d760]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2019/600/schedule/1) shoulder note substituted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [36(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/36/2)
+[^c-5e01477de05273ecb32597353044d760]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2019/600/schedule/1) shoulder note substituted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [36(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/36/2)
 
-[^key-3c84ca5e323afbf4b7efeb9bc2ef7dde]: Commencement: Sch. 1 para. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-3c84ca5e323afbf4b7efeb9bc2ef7dde]: Commencement: Sch. 1 para. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-e28f2254741dc60f09b55bd331b2083a]: Commencement: Sch. 1 para. 1 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-e28f2254741dc60f09b55bd331b2083a]: Commencement: Sch. 1 para. 1 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
-[^key-ee8f30a6376363828a5cdf06b81fc2c5]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2019/600/schedule/1/paragraph/1/1) substituted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [36(3)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/36/3)
+[^c-ee8f30a6376363828a5cdf06b81fc2c5]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2019/600/schedule/1/paragraph/1/1) substituted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [36(3)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/36/3)
 
-[^key-3516147d16d0f82c9a3f7896bd927fbd]: Commencement: Sch. 1 para. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-3516147d16d0f82c9a3f7896bd927fbd]: Commencement: Sch. 1 para. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-e7ddda06b64b12afed6bbe1e63960495]: Commencement: Sch. 1 para. 2 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-e7ddda06b64b12afed6bbe1e63960495]: Commencement: Sch. 1 para. 2 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
-[^key-95ffa484e97d2d361a14f40c06632600]: Commencement: Sch. 1 para. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-95ffa484e97d2d361a14f40c06632600]: Commencement: Sch. 1 para. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-914d8a6a0188541c653a872c6cee85ae]: Commencement: Sch. 1 para. 3 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-914d8a6a0188541c653a872c6cee85ae]: Commencement: Sch. 1 para. 3 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
-[^key-39202c89c197955ee2aaf5edaad4c444]: Commencement: Sch. 1 para. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-39202c89c197955ee2aaf5edaad4c444]: Commencement: Sch. 1 para. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-9d39cc5a90cdd5691e6b8486aae965f4]: Commencement: Sch. 1 para. 4 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-9d39cc5a90cdd5691e6b8486aae965f4]: Commencement: Sch. 1 para. 4 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
-[^key-1cb25e80deb2d2da69fa74563ff5ca33]: Commencement: Sch. 1 para. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-1cb25e80deb2d2da69fa74563ff5ca33]: Commencement: Sch. 1 para. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-a5a8771b566779f4cf93dc436858cffa]: Commencement: Sch. 1 para. 5 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-a5a8771b566779f4cf93dc436858cffa]: Commencement: Sch. 1 para. 5 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
-[^key-2a838cc21acdb8c7b627fe4b64fb5609]: Commencement: Sch. 1 para. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-2a838cc21acdb8c7b627fe4b64fb5609]: Commencement: Sch. 1 para. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-2a42442298f3ac3fe4e2969ac6014e9f]: Commencement: Sch. 1 para. 6 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-2a42442298f3ac3fe4e2969ac6014e9f]: Commencement: Sch. 1 para. 6 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
-[^key-14d26aa4d3eca61f96c6f70832641c39]: Commencement: Sch. 1 para. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-14d26aa4d3eca61f96c6f70832641c39]: Commencement: Sch. 1 para. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-04860ca2d5da52b175d4e13e083895aa]: Commencement: Sch. 1 para. 7 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-04860ca2d5da52b175d4e13e083895aa]: Commencement: Sch. 1 para. 7 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
-[^key-2b50e8c8ea782ccdcb0c6c3b09b5e88b]: Commencement: Sch. 1 para. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-2b50e8c8ea782ccdcb0c6c3b09b5e88b]: Commencement: Sch. 1 para. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-63fdf8d2a1dde412ed7a0e49b219f193]: Commencement: Sch. 1 para. 8 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-63fdf8d2a1dde412ed7a0e49b219f193]: Commencement: Sch. 1 para. 8 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
-[^key-7033f5bd66d3988c7e92971c3e72fa70]: Commencement: Sch. 1 para. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-7033f5bd66d3988c7e92971c3e72fa70]: Commencement: Sch. 1 para. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-3ecc722224f4e7574e02eac1ac79e1db]: Commencement: Sch. 1 para. 9 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-3ecc722224f4e7574e02eac1ac79e1db]: Commencement: Sch. 1 para. 9 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
-[^key-49e3bedbbf1c2c16a49b10a40c7d0d94]: Commencement: Sch. 1 para. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-49e3bedbbf1c2c16a49b10a40c7d0d94]: Commencement: Sch. 1 para. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-e5543fa3064dadbd47e6334e2a46f9c4]: Commencement: Sch. 1 para. 10 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-e5543fa3064dadbd47e6334e2a46f9c4]: Commencement: Sch. 1 para. 10 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
-[^key-0e7e6b35c7c856c3694a821ce3423274]: Commencement: Sch. 1 para. 11 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-0e7e6b35c7c856c3694a821ce3423274]: Commencement: Sch. 1 para. 11 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-884578454d3cce87b983b38d10a07a09]: Commencement: Sch. 1 para. 11 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-884578454d3cce87b983b38d10a07a09]: Commencement: Sch. 1 para. 11 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
-[^key-b024c815740374fa207f4cfb9a211515]: Commencement: Sch. 1 para. 12 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-b024c815740374fa207f4cfb9a211515]: Commencement: Sch. 1 para. 12 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-b8c65ac9bb2583402072c06ed3ef08e0]: Commencement: Sch. 1 para. 12 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-b8c65ac9bb2583402072c06ed3ef08e0]: Commencement: Sch. 1 para. 12 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
-[^key-f656dcd7883ee07673e26d33ae2ab2d9]: Commencement: Sch. 1 para. 13 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-f656dcd7883ee07673e26d33ae2ab2d9]: Commencement: Sch. 1 para. 13 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-d394a65cb547d3cce38a8fd6279d4aa4]: Commencement: Sch. 1 para. 13 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-d394a65cb547d3cce38a8fd6279d4aa4]: Commencement: Sch. 1 para. 13 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
 
 [^c23947411]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
 [^c23947421]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
-[^key-4180101686d814f92e4603fbac88b2c3]: Commencement: Sch. 1 para. 14 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-4180101686d814f92e4603fbac88b2c3]: Commencement: Sch. 1 para. 14 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-a2a28a0673ce2a4342b34f878b57a1d6]: Commencement: Sch. 1 para. 14 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)
+[^c-a2a28a0673ce2a4342b34f878b57a1d6]: Commencement: Sch. 1 para. 14 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/1/j)

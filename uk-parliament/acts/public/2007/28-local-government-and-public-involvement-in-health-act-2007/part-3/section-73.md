@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Sections 71 and 72: supplementary[^key-59a06aa25c9f07935a65686bb0d797ee]
+## 73. Sections 71 and 72: supplementary[^c-59a06aa25c9f07935a65686bb0d797ee]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59a06aa25c9f07935a65686bb0d797ee]: Commencement: S. 73 in force at 30.12.2007, see s. 245(2)
+[^c-59a06aa25c9f07935a65686bb0d797ee]: Commencement: S. 73 in force at 30.12.2007, see s. 245(2)

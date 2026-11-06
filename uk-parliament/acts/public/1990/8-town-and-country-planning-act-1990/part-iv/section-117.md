@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. General provisions as to compensation for depreciation under Part IV.[^key-0df25507de98141d3be6c94c21531062][^c14021251]
+## 117. General provisions as to compensation for depreciation under Part IV.[^c-0df25507de98141d3be6c94c21531062][^c14021251]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0df25507de98141d3be6c94c21531062]: Modification: S. 117 applied (1.10.2011) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 (S.I. 2011/2055)](https://www.legislation.gov.uk/uksi/2011/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2055/regulation/1), [65](https://www.legislation.gov.uk/uksi/2011/2055/regulation/65)
+[^c-0df25507de98141d3be6c94c21531062]: Modification: S. 117 applied (1.10.2011) by [The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011 (S.I. 2011/2055)](https://www.legislation.gov.uk/uksi/2011/2055), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2055/regulation/1), [65](https://www.legislation.gov.uk/uksi/2011/2055/regulation/65)
 
 [^c14021251]: Modification: Ss. 117, 118 extended (11.3.1992 so far as to confer on the Secretary of State a power or impose on him a duty to make regulations, or make provision with respect to the exercise of any such power or duty, 1.6.1992 so far not already in force) by [Planning (Hazardous Substances) Act 1990 (c. 10, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/10), [s. 16(5)](https://www.legislation.gov.uk/ukpga/1990/10/section/16/5); [S.I. 1992/725](https://www.legislation.gov.uk/uksi/1992/725), [arts. 2](https://www.legislation.gov.uk/uksi/1992/725/article/2), [3](https://www.legislation.gov.uk/uksi/1992/725/article/3)
 

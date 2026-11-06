@@ -26,11 +26,11 @@ Section 117
 
 ### Part 1 — Amendments to Schedule 1
 
-**1.**[^key-83564fdc2a4ee4ddae4475de1d504772] This Part of this Schedule amends Schedule 1 to the 1995 Order, which sets out modified Articles 14 to 20B of the Insolvency (Northern Ireland) Order 1989 (“the 1989 Order”).
+**1.**[^c-83564fdc2a4ee4ddae4475de1d504772] This Part of this Schedule amends Schedule 1 to the 1995 Order, which sets out modified Articles 14 to 20B of the Insolvency (Northern Ireland) Order 1989 (“the 1989 Order”).
 
 #### Amendments in consequence of repeal of Article 348A by paragraph 15 of Schedule 3 to the Insolvency (Amendment) Act (Northern Ireland) 2016
 
-**2.**[^key-d46315b181feb8a37af657b9c416cb96] In Part 1 of Schedule 1—
+**2.**[^c-d46315b181feb8a37af657b9c416cb96] In Part 1 of Schedule 1—
 
 - (a) in modified Article 14(2), omit “or authorised to act as nominee,”;
 - (b) in modified Article 15(5), omit “, or authorised to act as nominee,”;
@@ -39,16 +39,16 @@ Section 117
 
 #### Other amendments to modified Articles of the 1989 Order
 
-**3.**[^key-f24326473e6db73dbc2c7e3a139f9c82] Paragraphs 4 to 10 make further amendments to the modified Articles of the 1989 Order that are set out in Part 1 of Schedule 1.
+**3.**[^c-f24326473e6db73dbc2c7e3a139f9c82] Paragraphs 4 to 10 make further amendments to the modified Articles of the 1989 Order that are set out in Part 1 of Schedule 1.
 
-**4.**[^key-aa56546046e2c94f3cc9306f0cd36176] In modified Article 15(2), for sub-paragraphs (b) and (c) substitute—
+**4.**[^c-aa56546046e2c94f3cc9306f0cd36176] In modified Article 15(2), for sub-paragraphs (b) and (c) substitute—
 
 > - (b) whether, in his opinion, the proposal should be considered by a meeting of the members of the partnership and by the partnership’s creditors, and
 > - (c) if in his opinion it should, the date on which, and time and place at which, he proposes a meeting should be held.
 
 .
 
-**5.**[^key-c47802312216754f04d79b157b3db9b9] (1) For modified Article 16 substitute—
+**5.**[^c-c47802312216754f04d79b157b3db9b9] (1) For modified Article 16 substitute—
 
 > **16. Summoning of meetings**
 >
@@ -68,7 +68,7 @@ Section 117
 
 .
 
-**6.**[^key-dc2c7072894a55fefb6fba72ac8c27e2] (1) Modified Article 17 is amended as follows.
+**6.**[^c-dc2c7072894a55fefb6fba72ac8c27e2] (1) Modified Article 17 is amended as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -100,7 +100,7 @@ Section 117
 
 (8) For the Article heading substitute “Decisions of the members of the partnership and its creditors.”.
 
-**7.**[^key-71ef0634b9f6463f2f74b484411d478a] (1) Modified Article 17A is amended as follows.
+**7.**[^c-71ef0634b9f6463f2f74b484411d478a] (1) Modified Article 17A is amended as follows.
 
 (2) For paragraph (2) substitute—
 
@@ -132,7 +132,7 @@ Section 117
 
 .
 
-**8.**[^key-89eed9d7ce4d72c7c1e8579baf344711] (1) Modified Article 18 is amended as follows.
+**8.**[^c-89eed9d7ce4d72c7c1e8579baf344711] (1) Modified Article 18 is amended as follows.
 
 (2) In paragraph (2)(a), for “at the creditors’ meeting, and” substitute
 
@@ -162,7 +162,7 @@ Section 117
 
 .
 
-**9.**[^key-92a6b226c8edcafb4c9b143cbe10c453] (1) Modified Article 19 is amended as follows.
+**9.**[^c-92a6b226c8edcafb4c9b143cbe10c453] (1) Modified Article 19 is amended as follows.
 
 (2) In paragraph (1)(b), for “either of the meetings” substitute “the meeting of the members of the partnership, or in relation to the relevant qualifying decision procedure”.
 
@@ -233,15 +233,15 @@ Section 117
 
 .
 
-**10.**[^key-fc05e3b642c8a6df747c74ffc446e8e7] In modified Article 20, in paragraph (2)(a), for “given at one or both of the meetings summoned under” substitute “of the voluntary arrangement by the members of the partnership or its creditors (or both) pursuant to”.
+**10.**[^c-fc05e3b642c8a6df747c74ffc446e8e7] In modified Article 20, in paragraph (2)(a), for “given at one or both of the meetings summoned under” substitute “of the voluntary arrangement by the members of the partnership or its creditors (or both) pursuant to”.
 
 ### Part 2 — Amendments to Schedule 2
 
-**11.**[^key-0d4b6db0e579a6430d817e285d182ae1] (1) This Part of this Schedule amends Schedule 2 to the 1995 Order, which sets out modified provisions of Schedules B1 and 1 to the 1989 Order.
+**11.**[^c-0d4b6db0e579a6430d817e285d182ae1] (1) This Part of this Schedule amends Schedule 2 to the 1995 Order, which sets out modified provisions of Schedules B1 and 1 to the 1989 Order.
 
 (2) References in this Part to a numbered paragraph are to that paragraph of Schedule 2 to the 1995 Order, except where otherwise stated.
 
-**12.**[^key-9279d0b74531ca9d6844b89df4203a8d] (1) For paragraph 1 substitute—
+**12.**[^c-9279d0b74531ca9d6844b89df4203a8d] (1) For paragraph 1 substitute—
 
 > **1.** Paragraphs 2 to 56 set out modified provisions of Schedule B1 to the Order; and paragraph 57 sets out modified Schedule 1 to the Order.
 
@@ -260,11 +260,11 @@ Section 117
 
   .
 
-**13.**[^key-4199b8255645b6179c68496ab811f47e] In modified paragraph 1(1) of Schedule B1 (set out in paragraph 2), omit the definitions of “correspondence” and “creditors’ meeting”.
+**13.**[^c-4199b8255645b6179c68496ab811f47e] In modified paragraph 1(1) of Schedule B1 (set out in paragraph 2), omit the definitions of “correspondence” and “creditors’ meeting”.
 
-**14.**[^key-a05ea371dc31d3b48933d69146988600] In modified paragraph 14(1) of Schedule B1 (set out in paragraph 8), for “applicable” substitute “application”.
+**14.**[^c-a05ea371dc31d3b48933d69146988600] In modified paragraph 14(1) of Schedule B1 (set out in paragraph 8), for “applicable” substitute “application”.
 
-**15.**[^key-b730973e8a286bb5b1b94d5c6bd83771] After paragraph 12 insert—
+**15.**[^c-b730973e8a286bb5b1b94d5c6bd83771] After paragraph 12 insert—
 
 > **12A.** Paragraph 26A is modified to read as follows—
 >
@@ -276,21 +276,21 @@ Section 117
 
 .
 
-**16.**[^key-8527565b76e71635fac2d799e5c373e4] In modified paragraph 41 of Schedule B1 (set out in paragraph 21), omit sub-paragraphs (2) and (3).
+**16.**[^c-8527565b76e71635fac2d799e5c373e4] In modified paragraph 41 of Schedule B1 (set out in paragraph 21), omit sub-paragraphs (2) and (3).
 
-**17.**[^key-a3e9bba0fea81b48744dc6d6b9c01d64] After paragraph 21 insert—
+**17.**[^c-a3e9bba0fea81b48744dc6d6b9c01d64] After paragraph 21 insert—
 
 > **21A.** Omit paragraph 42.
 
 .
 
-**18.**[^key-e4bf172fbb80f4c91b2fa8fa78a665c8] In modified paragraph 43(5)(b) of Schedule B1 (set out in paragraph 22), for “Financial Services Authority” substitute “Financial Conduct Authority or Prudential Regulation Authority”.
+**18.**[^c-e4bf172fbb80f4c91b2fa8fa78a665c8] In modified paragraph 43(5)(b) of Schedule B1 (set out in paragraph 22), for “Financial Services Authority” substitute “Financial Conduct Authority or Prudential Regulation Authority”.
 
-**19.**[^key-898ba7d2f8d35a121f234e4c5a14139b] In modified paragraph 44(5) of Schedule B1 (set out in paragraph 23), after “legal proceedings” insert “, application to enforce judgment”.
+**19.**[^c-898ba7d2f8d35a121f234e4c5a14139b] In modified paragraph 44(5) of Schedule B1 (set out in paragraph 23), after “legal proceedings” insert “, application to enforce judgment”.
 
-**20.**[^key-4b1ccf9ad61ab607b49ed79250cd7bb7] In modified paragraph 50(4)(b) of Schedule B1 (set out in paragraph 27), after “partnership” insert “, other than an opted-out creditor,”.
+**20.**[^c-4b1ccf9ad61ab607b49ed79250cd7bb7] In modified paragraph 50(4)(b) of Schedule B1 (set out in paragraph 27), after “partnership” insert “, other than an opted-out creditor,”.
 
-**21.**[^key-eb7f6041cf9f7391ec1c2329f7da7f72] (1) Modified paragraph 53 of Schedule B1 (set out in paragraph 28) is amended as follows.
+**21.**[^c-eb7f6041cf9f7391ec1c2329f7da7f72] (1) Modified paragraph 53 of Schedule B1 (set out in paragraph 28) is amended as follows.
 
 (2) In sub-paragraph (2), for the words from “summon” to “requested” substitute “seek a decision from the partnership’s creditors as to whether they approve the proposals set out in the statement made under paragraph 50(1) if requested to do so”.
 
@@ -300,7 +300,7 @@ Section 117
 
 .
 
-**22.**[^key-a54595a01ecdfeb13a4ef8216e9f0e05] In modified paragraph 56 of Schedule B1 (set out in paragraph 29), for sub-paragraph (1) substitute—
+**22.**[^c-a54595a01ecdfeb13a4ef8216e9f0e05] In modified paragraph 56 of Schedule B1 (set out in paragraph 29), for sub-paragraph (1) substitute—
 
 > (1) This paragraph applies where an administrator—
 >
@@ -309,7 +309,7 @@ Section 117
 
 .
 
-**23.**[^key-19392ffaf4c87e6d882c6bc6dd6ed92e] (1) Modified paragraph 75 of Schedule B1 (set out in paragraph 36) is amended as follows.
+**23.**[^c-19392ffaf4c87e6d882c6bc6dd6ed92e] (1) Modified paragraph 75 of Schedule B1 (set out in paragraph 36) is amended as follows.
 
 (2) In sub-paragraph (2), for “effectively” substitute “efficiently”.
 
@@ -319,15 +319,15 @@ Section 117
 
 .
 
-**24.**[^key-c0e036e4c761df3b57aa58d78379bcf1] In modified paragraph 81(4) of Schedule B1 (set out in paragraph 37), after “partnership” insert “, other than an opted-out creditor,”.
+**24.**[^c-c0e036e4c761df3b57aa58d78379bcf1] In modified paragraph 81(4) of Schedule B1 (set out in paragraph 37), after “partnership” insert “, other than an opted-out creditor,”.
 
-**25.**[^key-800198725d7dbf2529fa9934f90f725c] In modified paragraph 83(1)(b) of Schedule B1 (set out in paragraph 38), for “Financial Services Authority” substitute “Financial Conduct Authority or Prudential Regulation Authority”.
+**25.**[^c-800198725d7dbf2529fa9934f90f725c] In modified paragraph 83(1)(b) of Schedule B1 (set out in paragraph 38), for “Financial Services Authority” substitute “Financial Conduct Authority or Prudential Regulation Authority”.
 
-**26.**[^key-0a23750ed601347248c4cb561d2d565a] In modified paragraph 85(4) of Schedule B1 (set out in paragraph 40), after “creditor” insert “, other than an opted-out creditor,”.
+**26.**[^c-0a23750ed601347248c4cb561d2d565a] In modified paragraph 85(4) of Schedule B1 (set out in paragraph 40), after “creditor” insert “, other than an opted-out creditor,”.
 
-**27.**[^key-6a6bb2079448d3abded918774b67f1f6] In modified paragraph 88(2)(a) of Schedule B1 (set out in paragraph 41), for “or”, in the first place that it occurs, substitute “to”.
+**27.**[^c-6a6bb2079448d3abded918774b67f1f6] In modified paragraph 88(2)(a) of Schedule B1 (set out in paragraph 41), for “or”, in the first place that it occurs, substitute “to”.
 
-**28.**[^key-8762fff2a363c308abdedda555e27f69] In modified paragraph 98 of Schedule B1 (set out in paragraph 50), for sub-paragraphs (2) and (3) substitute—
+**28.**[^c-8762fff2a363c308abdedda555e27f69] In modified paragraph 98 of Schedule B1 (set out in paragraph 50), for sub-paragraphs (2) and (3) substitute—
 
 > (2) The administrator may be replaced by a decision of the creditors made by a qualifying decision procedure.
 >
@@ -335,7 +335,7 @@ Section 117
 
 .
 
-**29.**[^key-62fb7053387ecf6ab3ff4d2fd06399fb] In modified paragraph 99 of Schedule B1 (set out in paragraph 51), for sub-paragraphs (2) and (3) substitute—
+**29.**[^c-62fb7053387ecf6ab3ff4d2fd06399fb] In modified paragraph 99 of Schedule B1 (set out in paragraph 51), for sub-paragraphs (2) and (3) substitute—
 
 > (1A) The discharge provided by sub-paragraph (1) takes effect in accordance with sub-paragraphs (2) to (2C).
 >
@@ -359,7 +359,7 @@ Section 117
 
 .
 
-**30.**[^key-b388abfc7dbc9a36ce908403fbabc1e7] (1) Modified paragraph 99 of Schedule B1 (as amended by paragraph 29 above) is further amended as follows.
+**30.**[^c-b388abfc7dbc9a36ce908403fbabc1e7] (1) Modified paragraph 99 of Schedule B1 (as amended by paragraph 29 above) is further amended as follows.
 
 (2) In sub-paragraph (2A)(b), for “resolution” substitute “decision”.
 
@@ -369,20 +369,20 @@ Section 117
 
 .
 
-**31.**[^key-7c18cc4265f0fb4530868b02bfad9249] In paragraph 3 of modified Schedule 1 (set out in paragraph 57), at the beginning, insert “Without prejudice to Article 28 or 30 of the Property (Northern Ireland) Order 1997,”.
+**31.**[^c-7c18cc4265f0fb4530868b02bfad9249] In paragraph 3 of modified Schedule 1 (set out in paragraph 57), at the beginning, insert “Without prejudice to Article 28 or 30 of the Property (Northern Ireland) Order 1997,”.
 
 ### Part 3 — Amendments to Schedule 3
 
-**32.**[^key-b58cb584980490b97b80447073469a85] (1) This Part of this Schedule amends Schedule 3 to the 1995 Order, which sets out certain modified provisions of the 1989 Order.
+**32.**[^c-b58cb584980490b97b80447073469a85] (1) This Part of this Schedule amends Schedule 3 to the 1995 Order, which sets out certain modified provisions of the 1989 Order.
 
 (2) References in this Part to a numbered paragraph are to that paragraph of Schedule 3 to the 1995 Order, except where otherwise stated.
 
-**33.**[^key-0b1c396a7ae7bef90c1bc438c82dca90] In paragraph 1—
+**33.**[^c-0b1c396a7ae7bef90c1bc438c82dca90] In paragraph 1—
 
 - (a) after “in Part I,” insert “Articles 116, 117, 142, 143, 146 and 148 are modified in accordance with Part 2,”;
 - (b) after “113”, insert “, 118, 120, 164”.
 
-**34.**[^key-50209dc514122320c86e8c738c334181] (1) Modified Article 185 (set out in paragraph 3) is amended as follows.
+**34.**[^c-50209dc514122320c86e8c738c334181] (1) Modified Article 185 (set out in paragraph 3) is amended as follows.
 
 (2) In paragraph (3A), for “EC Regulation” (in both places) substitute “EU Regulation”.
 
@@ -390,7 +390,7 @@ Section 117
 
 (4) In paragraph (6), for “62” substitute “63”.
 
-**35.**[^key-f2421644e8a75a81a188c88036f4930b] After paragraph 8 insert—
+**35.**[^c-f2421644e8a75a81a188c88036f4930b] After paragraph 8 insert—
 
 > **Article 116: Functions of official receiver in relation to office of responsible insolvency practitioner**
 >
@@ -485,7 +485,7 @@ Section 117
 
 .
 
-**36.**[^key-20a6c8e6ffad66604a5ae5f41a998341] (1) Modified Schedule 2 (set out in paragraph 10) is amended as follows.
+**36.**[^c-20a6c8e6ffad66604a5ae5f41a998341] (1) Modified Schedule 2 (set out in paragraph 10) is amended as follows.
 
 (2) Omit the headings for Parts 1 and 2.
 
@@ -493,11 +493,11 @@ Section 117
 
 ### Part 4 — Amendments to Schedule 4
 
-**37.**[^key-05669796ff4cce4e947484e3d0d2973d] (1) This Part of this Schedule amends Schedule 4 to the 1995 Order, which sets out certain modified provisions of the 1989 Order.
+**37.**[^c-05669796ff4cce4e947484e3d0d2973d] (1) This Part of this Schedule amends Schedule 4 to the 1995 Order, which sets out certain modified provisions of the 1989 Order.
 
 (2) References in this Part to a numbered paragraph are to that paragraph of Schedule 4 to the 1995 Order, except where otherwise stated.
 
-**38.**[^key-5e1106ef5e0b3e9280068d1e83c06b69] (1) Paragraph 1 is amended as follows.
+**38.**[^c-5e1106ef5e0b3e9280068d1e83c06b69] (1) Paragraph 1 is amended as follows.
 
 (2) In sub-paragraph (1), after “in Part I,” insert “Article 142 is modified in accordance with Part 2,”.
 
@@ -507,7 +507,7 @@ Section 117
 - (b) after “198,” insert “208ZE, 208ZF,”;
 - (c) for “and 327” substitute “, 327, 345A and 345B”.
 
-**39.**[^key-ccfb73bf5e54a00ddebde939ef35d481] (1) Modified Article 185 (set out in paragraph 3) is amended as follows.
+**39.**[^c-ccfb73bf5e54a00ddebde939ef35d481] (1) Modified Article 185 (set out in paragraph 3) is amended as follows.
 
 (2) In paragraph (3A), for “EC Regulation” (in both places) substitute “EU Regulation”.
 
@@ -515,15 +515,15 @@ Section 117
 
 (4) In paragraph (6), for “62” substitute “63”.
 
-**40.**[^key-b38610a89b17189604f9bfd40cf99d6b] In modified Article 11(4)(a) (set out in paragraph 5), for “a meeting summoned by the trustee of that estate under Article 124 has been held” substitute “the trustee of that estate has vacated office under Article 146(6)”.
+**40.**[^c-b38610a89b17189604f9bfd40cf99d6b] In modified Article 11(4)(a) (set out in paragraph 5), for “a meeting summoned by the trustee of that estate under Article 124 has been held” substitute “the trustee of that estate has vacated office under Article 146(6)”.
 
-**41.**[^key-f67c76c63ac80dec5602dcbafd1987e3] In modified Article 241(3) (set out in paragraph 6(3)), for “£750” substitute “£5,000”.
+**41.**[^c-f67c76c63ac80dec5602dcbafd1987e3] In modified Article 241(3) (set out in paragraph 6(3)), for “£750” substitute “£5,000”.
 
-**42.**[^key-8b1988b8ae47ab423c17fb2f86c15c0e] (1) In modified Article 104(2) (set out in paragraph 8), omit the words from “a liquidator” to “the EC Regulation) or”.
+**42.**[^c-8b1988b8ae47ab423c17fb2f86c15c0e] (1) In modified Article 104(2) (set out in paragraph 8), omit the words from “a liquidator” to “the EC Regulation) or”.
 
 (2) In consequence of sub-paragraph (1), omit Article 5(2) of the Insolvent Partnerships (Amendment) Order (Northern Ireland) 2003 ([SR 2003/144](https://www.legislation.gov.uk/nisr/2003/144)).
 
-**43.**[^key-3084c925c27ddd89e4a1025f8f5ab4cd] (1) Modified Article 116 (set out in paragraph 12) is amended as follows.
+**43.**[^c-3084c925c27ddd89e4a1025f8f5ab4cd] (1) Modified Article 116 (set out in paragraph 12) is amended as follows.
 
 (2) In paragraph (1), omit “and of Article 116A”.
 
@@ -554,14 +554,14 @@ Section 117
 
 .
 
-**44.**[^key-d29c483c122bd6f4092ed0d909e020ef] Modified Article 116A (set out in paragraph 12) is omitted.
+**44.**[^c-d29c483c122bd6f4092ed0d909e020ef] Modified Article 116A (set out in paragraph 12) is omitted.
 
-**45.**[^key-e5eec4b83f172aad6559a68473210863] In modified Article 117(3) (set out in paragraph 13)—
+**45.**[^c-e5eec4b83f172aad6559a68473210863] In modified Article 117(3) (set out in paragraph 13)—
 
 - (a) for “a meeting is held in pursuance of a decision under Article 116A(1)(a)” substitute “a nomination is sought from the creditors of the partnership and of any insolvent member”;
 - (b) for “as a result of that meeting” substitute “by the creditors”.
 
-**46.**[^key-36dd636c1f9b0e90a5b2e1fa6f714ef6] (1) Modified Article 117A (set out in paragraph 13) is amended as follows.
+**46.**[^c-36dd636c1f9b0e90a5b2e1fa6f714ef6] (1) Modified Article 117A (set out in paragraph 13) is amended as follows.
 
 (2) In paragraph (5), for the words from “shall” to the end substitute “must explain the procedure for establishing a liquidation committee under Article 120.”.
 
@@ -574,7 +574,7 @@ Section 117
 
 .
 
-**47.**[^key-7bed003ddef9221c41fbdd81c7f31976] (1) Modified Article 118 (set out in paragraph 14) is amended as follows.
+**47.**[^c-7bed003ddef9221c41fbdd81c7f31976] (1) Modified Article 118 (set out in paragraph 14) is amended as follows.
 
 (2) For paragraphs (2) to (4) substitute—
 
@@ -592,7 +592,7 @@ Section 117
 
 (3) In the heading to that Article, for “meetings of creditors” substitute “decision-making”.
 
-**48.**[^key-5e2ee3e31f8eb5428e0cc42209fab3c1] (1) Modified Article 119 (set out in paragraph 15) is amended as follows.
+**48.**[^c-5e2ee3e31f8eb5428e0cc42209fab3c1] (1) Modified Article 119 (set out in paragraph 15) is amended as follows.
 
 (2) In paragraph (4), for the words from “he has no duty” to the end substitute “Article 116(5)(a) and (b) do not apply.”.
 
@@ -607,7 +607,7 @@ Section 117
 
 .
 
-**49.**[^key-9d0299b5cb9d1d502320487d589590d6] For modified Article 120 (set out in paragraph 16) substitute—
+**49.**[^c-9d0299b5cb9d1d502320487d589590d6] For modified Article 120 (set out in paragraph 16) substitute—
 
 > **120. Liquidation committee**
 >
@@ -623,13 +623,13 @@ Section 117
 
 .
 
-**50.**[^key-d8c887b71e40ea34c23d61a647e7a757] (1) Modified Article 120A (set out in paragraph 16) is amended as follows.
+**50.**[^c-d8c887b71e40ea34c23d61a647e7a757] (1) Modified Article 120A (set out in paragraph 16) is amended as follows.
 
 (2) In paragraph (3), for “Article 116A(5)” substitute “Article 116(9)”.
 
 (3) In paragraphs (3), (4), (5), (6) and (7), for “creditors’ committee” substitute “liquidation committee”.
 
-**51.**[^key-22946c17cd8d9a9b89943bb7b670a32c] For modified Article 124 (set out in paragraph 18) substitute—
+**51.**[^c-22946c17cd8d9a9b89943bb7b670a32c] For modified Article 124 (set out in paragraph 18) substitute—
 
 > **124. Final account**
 >
@@ -651,7 +651,7 @@ Section 117
 
 .
 
-**52.**[^key-5b7afb063c5e3c2e164f9222c62fa6ec] After paragraph 19 insert—
+**52.**[^c-5b7afb063c5e3c2e164f9222c62fa6ec] After paragraph 19 insert—
 
 > **Article 142: Liquidator’s powers on winding up**
 >
@@ -659,13 +659,13 @@ Section 117
 
 .
 
-**53.**[^key-70c7cb59df2085294e3a26e57d760ebe] For modified Article 143(2) and (3) (set out in paragraph 20) substitute—
+**53.**[^c-70c7cb59df2085294e3a26e57d760ebe] For modified Article 143(2) and (3) (set out in paragraph 20) substitute—
 
 > (2) The responsible insolvency practitioner may seek a decision on any matter from the creditors of the partnership or of any insolvent member; and must seek a decision on a matter if requested to do so by one-tenth in value of the creditors.
 
 .
 
-**54.**[^key-596675dd01fbeb3ebe033245b4a5bf7a] (1) Modified Article 146 (set out in paragraph 21) is amended as follows.
+**54.**[^c-596675dd01fbeb3ebe033245b4a5bf7a] (1) Modified Article 146 (set out in paragraph 21) is amended as follows.
 
 (2) For paragraph (2) substitute—
 
@@ -688,7 +688,7 @@ Section 117
 
 .
 
-**55.**[^key-64ed57e42f42b710604590a7361902ad] (1) Modified Article 148 (set out in paragraph 22) is amended as follows.
+**55.**[^c-64ed57e42f42b710604590a7361902ad] (1) Modified Article 148 (set out in paragraph 22) is amended as follows.
 
 (2) In paragraph (2)(a), for “a combined general meeting of” substitute “the”.
 
@@ -714,9 +714,9 @@ Section 117
 
 .
 
-**56.**[^key-69ccb07de15a3915c603c0204378d989] In modified Article 149(1) (set out in paragraph 23), for “partnerships” (where it appears after the words “an insolvent”) substitute “partnership”.
+**56.**[^c-69ccb07de15a3915c603c0204378d989] In modified Article 149(1) (set out in paragraph 23), for “partnerships” (where it appears after the words “an insolvent”) substitute “partnership”.
 
-**57.**[^key-c53b7ce03858db949d847156213214e7] (1) Modified Article 149A (set out in paragraph 23) is amended as follows.
+**57.**[^c-c53b7ce03858db949d847156213214e7] (1) Modified Article 149A (set out in paragraph 23) is amended as follows.
 
 (2) In paragraph (3), for “interest” substitute “interests”.
 
@@ -724,9 +724,9 @@ Section 117
 
 (4) In paragraph (9), after “referred to in” insert “sub-paragraph (a) of”.
 
-**58.**[^key-13fe153b027ceff71f1b0cc17aef78ba] In modified Article 149C(8) (set out in paragraph 23), for “the Insolvency Regulations (Northern Ireland) 1991 or the Insolvency (Fees) Order (Northern Ireland) 1991” substitute “the Insolvency Regulations (Northern Ireland) 1996 or the Insolvency (Fees) Order (Northern Ireland) 2006”.
+**58.**[^c-13fe153b027ceff71f1b0cc17aef78ba] In modified Article 149C(8) (set out in paragraph 23), for “the Insolvency Regulations (Northern Ireland) 1991 or the Insolvency (Fees) Order (Northern Ireland) 1991” substitute “the Insolvency Regulations (Northern Ireland) 1996 or the Insolvency (Fees) Order (Northern Ireland) 2006”.
 
-**59.**[^key-2c3621cf88d709175dc006d1bc6b0dcd] After paragraph 24 insert—
+**59.**[^c-2c3621cf88d709175dc006d1bc6b0dcd] After paragraph 24 insert—
 
 > **Article 164: High Court’s powers to ascertain wishes of creditors**
 >
@@ -743,13 +743,13 @@ Section 117
 
 .
 
-**60.**[^key-0a430bf78cb6ee5993badee16cd830b1] (1) Modified Article 194 (set out in paragraph 26) is amended as follows.
+**60.**[^c-0a430bf78cb6ee5993badee16cd830b1] (1) Modified Article 194 (set out in paragraph 26) is amended as follows.
 
 (2) In paragraph (1), for “provision” substitute “provisional”.
 
 (3) In paragraph (5), for “anyone” substitute “any one”.
 
-**61.**[^key-f5270afae3451a63ea0e0641d8ab7962] After paragraph 27 insert—
+**61.**[^c-f5270afae3451a63ea0e0641d8ab7962] After paragraph 27 insert—
 
 > **Article 208ZE: Decisions by creditors: general**
 >
@@ -841,9 +841,9 @@ Section 117
 
 .
 
-**62.**[^key-f80776fa5801284a3168dcc9ac9be393] In paragraph 27A (modification of Article 256A), for “356A” substitute “256A”.
+**62.**[^c-f80776fa5801284a3168dcc9ac9be393] In paragraph 27A (modification of Article 256A), for “356A” substitute “256A”.
 
-**63.**[^key-74425d889af9eb1daf43ed76d4409dd6] (1) Modified Schedule 2 (set out in paragraph 29) is amended as follows.
+**63.**[^c-74425d889af9eb1daf43ed76d4409dd6] (1) Modified Schedule 2 (set out in paragraph 29) is amended as follows.
 
 (2) Omit the headings for Parts 1 and 2.
 
@@ -851,9 +851,9 @@ Section 117
 
 ### Part 5 — Amendments to Schedule 5
 
-**64.**[^key-65d5f9135fdcdb345886b84a4fe3dc11] Schedule 5 to the 1995 Order is amended as follows.
+**64.**[^c-65d5f9135fdcdb345886b84a4fe3dc11] Schedule 5 to the 1995 Order is amended as follows.
 
-**65.**[^key-e4ed4871bc166a4f7afc11af494f6166] (1) Modified Article 185 is amended as follows.
+**65.**[^c-e4ed4871bc166a4f7afc11af494f6166] (1) Modified Article 185 is amended as follows.
 
 (2) In paragraph (3A), for “EC Regulation” (in both places) substitute “EU Regulation”.
 
@@ -866,9 +866,9 @@ Section 117
 
 ### Part 6 — Amendments to Schedule 6
 
-**66.**[^key-940c895dfc1ab89683b346cc9bf2fdd5] Schedule 6 to the 1995 Order is amended as follows.
+**66.**[^c-940c895dfc1ab89683b346cc9bf2fdd5] Schedule 6 to the 1995 Order is amended as follows.
 
-**67.**[^key-2758aaae9653df381ddd08e68dd0b112] (1) Modified Article 185 (set out in paragraph 3 of that Schedule) is amended as follows.
+**67.**[^c-2758aaae9653df381ddd08e68dd0b112] (1) Modified Article 185 (set out in paragraph 3 of that Schedule) is amended as follows.
 
 (2) In paragraph (3A), for “EC Regulation” (in both places) substitute “EU Regulation”.
 
@@ -881,19 +881,19 @@ Section 117
 
 ### Part 7 — Amendments to Schedule 7
 
-**68.**[^key-33a6f51472eea39a8646024bcd20d13f] (1) This Part of this Schedule amends Schedule 7 to the 1995 Order, which sets out certain modified provisions of the 1989 Order.
+**68.**[^c-33a6f51472eea39a8646024bcd20d13f] (1) This Part of this Schedule amends Schedule 7 to the 1995 Order, which sets out certain modified provisions of the 1989 Order.
 
 (2) References in this Part to a numbered paragraph are to that paragraph of Schedule 7 to the 1995 Order, except where otherwise stated.
 
-**69.**[^key-7d72216fe8b50557769cb887845c654e] In paragraph 1(2)—
+**69.**[^c-7d72216fe8b50557769cb887845c654e] In paragraph 1(2)—
 
 - (a) before “257” insert “256A,”;
 - (b) for “265 to 274” substitute “265, 269, 271 to 274”;
 - (c) after “285,” insert “286A,”.
 
-**70.**[^key-cc2c18d11fc53e33caceb2eab035e081] In modified Article 11(4)(a) (set out in paragraph 2), for “a meeting summoned by the trustee of that estate under Article 304 has been held” substitute “the trustee of that estate has vacated office under Article 271(6)”.
+**70.**[^c-cc2c18d11fc53e33caceb2eab035e081] In modified Article 11(4)(a) (set out in paragraph 2), for “a meeting summoned by the trustee of that estate under Article 304 has been held” substitute “the trustee of that estate has vacated office under Article 271(6)”.
 
-**71.**[^key-9a17bd2e5e0229184e31af41abc0c930] For modified Article 239 (set out in paragraph 4) substitute—
+**71.**[^c-9a17bd2e5e0229184e31af41abc0c930] For modified Article 239 (set out in paragraph 4) substitute—
 
 > **239.** (1) A joint bankruptcy petition may be presented to the High Court by virtue of Article 11 of the Insolvent Partnerships Order (Northern Ireland) 1995 only if—
 >
@@ -912,7 +912,7 @@ Section 117
 
 .
 
-**72.**[^key-34f6754f6bda3e048e037fa0f4c155a0] (1) Modified Article 265 (set out in paragraph 10) is amended as follows.
+**72.**[^c-34f6754f6bda3e048e037fa0f4c155a0] (1) Modified Article 265 (set out in paragraph 10) is amended as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -924,9 +924,9 @@ Section 117
 
 (4) For the heading to paragraph 10 substitute “Article 265: Appointment of trustees: general provision”.
 
-**73.**[^key-1e8e539e76300465813c97494dba98df] Omit paragraphs 11 and 12 (which set out modified Articles 266 and 268).
+**73.**[^c-1e8e539e76300465813c97494dba98df] Omit paragraphs 11 and 12 (which set out modified Articles 266 and 268).
 
-**74.**[^key-6d9f9407d1356b33c6202651652c4d1d] (1) Modified Article 269 (set out in paragraph 13) is amended as follows.
+**74.**[^c-6d9f9407d1356b33c6202651652c4d1d] (1) Modified Article 269 (set out in paragraph 13) is amended as follows.
 
 (2) In paragraph (3), omit “under Article 268 or”.
 
@@ -936,9 +936,9 @@ Section 117
 
 .
 
-**75.**[^key-cc852fc5b80b5229ff02eae1774aa37c] Omit paragraph 14 (which sets out modified Article 270).
+**75.**[^c-cc852fc5b80b5229ff02eae1774aa37c] Omit paragraph 14 (which sets out modified Article 270).
 
-**76.**[^key-f4bcfec640775834e46523f072f9fda3] (1) Modified Article 271 (set out in paragraph 15) is amended as follows.
+**76.**[^c-f4bcfec640775834e46523f072f9fda3] (1) Modified Article 271 (set out in paragraph 15) is amended as follows.
 
 (2) At the end of paragraph (1), add “or by a decision of the creditors of the members and of the partnership made by a creditors’ decision procedure instigated specially for that purpose in accordance with the rules.”.
 
@@ -962,7 +962,7 @@ Section 117
 
 .
 
-**77.**[^key-d04169955a67bcbda66bd5a9ff5f8582] (1) Modified Article 272 (set out in paragraph 16) is amended as follows.
+**77.**[^c-d04169955a67bcbda66bd5a9ff5f8582] (1) Modified Article 272 (set out in paragraph 16) is amended as follows.
 
 (2) In paragraph (1)(a), for “a combined general meeting of creditors of the members and of the partnership” substitute “the creditors of the members and the partnership”.
 
@@ -988,9 +988,9 @@ Section 117
 
 .
 
-**78.**[^key-ccd0edbf97f0b3b0ec9831f70545e75d] In modified Article 273(5) (set out in paragraph 17), for “holding of a final meeting summoned under Article 304” substitute “vacation of office by the trustee under Article 271(6)”.
+**78.**[^c-ccd0edbf97f0b3b0ec9831f70545e75d] In modified Article 273(5) (set out in paragraph 17), for “holding of a final meeting summoned under Article 304” substitute “vacation of office by the trustee under Article 271(6)”.
 
-**79.**[^key-290fe60d152cddce2a966aae0c958126] (1) Modified Article 274 (set out in paragraph 18) is amended as follows.
+**79.**[^c-290fe60d152cddce2a966aae0c958126] (1) Modified Article 274 (set out in paragraph 18) is amended as follows.
 
 (2) In paragraph (1), for the words from “a combined” to “may” substitute “the creditors of the members and of the partnership may, in accordance with the rules,”.
 
@@ -999,17 +999,17 @@ Section 117
 - (a) omit “A combined general meeting of”;
 - (b) for “an appointment made by that meeting” substitute “the appointment”.
 
-**80.**[^key-ac01ad44ac9481cad6b951258e09c6ab] In modified Article 274A(3) (set out in paragraph 18), omit “266(8) or”.
+**80.**[^c-ac01ad44ac9481cad6b951258e09c6ab] In modified Article 274A(3) (set out in paragraph 18), omit “266(8) or”.
 
-**81.**[^key-3b48a44523b11a65453f59094264bedb] In modified Article 300A(6) (set out in paragraph 21), omit “postponed”.
+**81.**[^c-3b48a44523b11a65453f59094264bedb] In modified Article 300A(6) (set out in paragraph 21), omit “postponed”.
 
-**82.**[^key-732fd148a622066d9c3ae96db5cb1af8] (1) Modified Article 300C (set out in paragraph 21) is amended as follows.
+**82.**[^c-732fd148a622066d9c3ae96db5cb1af8] (1) Modified Article 300C (set out in paragraph 21) is amended as follows.
 
 (2) In paragraph (3), omit “or (as the case may be) in accordance with the Rules”.
 
 (3) In paragraph (8), for “the Insolvency Regulations (Northern Ireland) 1991 or the Insolvency (Fees) Order (Northern Ireland) 1991” substitute “the Insolvency Regulations (Northern Ireland) 1996 or the Insolvency (Fees) Order (Northern Ireland) 2006”.
 
-**83.**[^key-601d0d3b8dc8b02a56c92c89b228b4a4] For paragraph 22 substitute—
+**83.**[^c-601d0d3b8dc8b02a56c92c89b228b4a4] For paragraph 22 substitute—
 
 > **Article 304: Final account**
 >
@@ -1042,9 +1042,9 @@ Section 117
 
 ### Part 8 — Amendments to Schedule 8
 
-**84.**[^key-8b0e891e05eadbc44c28e438fb35a93f] This Part of this Schedule amends Schedule 8 to the 1995 Order, which sets out modified provisions of the Company Directors Disqualification (Northern Ireland) Order 2002 that apply for the purposes of Article 16 of the 1995 Order.
+**84.**[^c-8b0e891e05eadbc44c28e438fb35a93f] This Part of this Schedule amends Schedule 8 to the 1995 Order, which sets out modified provisions of the Company Directors Disqualification (Northern Ireland) Order 2002 that apply for the purposes of Article 16 of the 1995 Order.
 
-**85.**[^key-a7830eaccdb6572b48d528581f92ca54] For modified Article 9 substitute—
+**85.**[^c-a7830eaccdb6572b48d528581f92ca54] For modified Article 9 substitute—
 
 > **Disqualification for unfitness**
 >
@@ -1112,7 +1112,7 @@ Section 117
 
 .
 
-**86.**[^key-69ca24778a2dcb63d6214ef1445293df] For modified Article 10 substitute—
+**86.**[^c-69ca24778a2dcb63d6214ef1445293df] For modified Article 10 substitute—
 
 > **10. Disqualification orders under Article 9: applications and acceptance of undertakings**
 >
@@ -1146,7 +1146,7 @@ Section 117
 
 .
 
-**87.**[^key-95d072d523b2245346f7e32c079e2fdd] After modified Article 10 (substituted by paragraph 86 above) insert—
+**87.**[^c-95d072d523b2245346f7e32c079e2fdd] After modified Article 10 (substituted by paragraph 86 above) insert—
 
 > **10A. Office-holder’s report on conduct of officers of the partnership**
 >
@@ -1187,9 +1187,9 @@ Section 117
 
 .
 
-**88.**[^key-522d78e860bd3f2a0a507a3a99451610] Omit modified Article 11.
+**88.**[^c-522d78e860bd3f2a0a507a3a99451610] Omit modified Article 11.
 
-**89.**[^key-d3a9aea8f0e63a37f26d4a45ecaade06] After modified Article 10A (substituted by paragraph 87 above) insert—
+**89.**[^c-d3a9aea8f0e63a37f26d4a45ecaade06] After modified Article 10A (substituted by paragraph 87 above) insert—
 
 > **Persons instructing unfit officers**
 >
@@ -1263,9 +1263,9 @@ Section 117
 
 .
 
-**90.**[^key-11c158d8a905abf5d9c71eb7c578b8e4] Omit modified Article 13.
+**90.**[^c-11c158d8a905abf5d9c71eb7c578b8e4] Omit modified Article 13.
 
-**91.**[^key-c82bcc96316b12433d682df807dbd305] After modified Article 12 (inserted by paragraph 89 above) insert—
+**91.**[^c-c82bcc96316b12433d682df807dbd305] After modified Article 12 (inserted by paragraph 89 above) insert—
 
 > **14. Participation in wrongful trading**
 >
@@ -1293,7 +1293,7 @@ Section 117
 
 .
 
-**92.**[^key-89897a56f6b6134473da1f70da71895f] After modified Article 19 insert—
+**92.**[^c-89897a56f6b6134473da1f70da71895f] After modified Article 19 insert—
 
 > **Compensation orders and undertakings**
 >
@@ -1358,7 +1358,7 @@ Section 117
 
 .
 
-**93.**[^key-64f9eaf556fa37e634f72a154b110183] After modified Article 21 insert—
+**93.**[^c-64f9eaf556fa37e634f72a154b110183] After modified Article 21 insert—
 
 > **22. Register of disqualification orders and undertakings**
 >
@@ -1415,7 +1415,7 @@ Section 117
 
 .
 
-**94.**[^key-235909c4fa25c6cc5ce90ff645af1718] For modified Schedule 1 substitute—
+**94.**[^c-235909c4fa25c6cc5ce90ff645af1718] For modified Schedule 1 substitute—
 
 > **Schedule 1 — Determining Unfitness etc: Matters To Be Taken Into Account**
 >
@@ -1445,7 +1445,7 @@ Section 117
 
 ### Part 9 — Amendment to Schedule 10
 
-**95.**[^key-7725ae5c0dedadc0a38ca47605404774] (1) Schedule 10 to the 1995 Order (subordinate legislation applied by Article 18 to that Order) is amended as follows.
+**95.**[^c-7725ae5c0dedadc0a38ca47605404774] (1) Schedule 10 to the 1995 Order (subordinate legislation applied by Article 18 to that Order) is amended as follows.
 
 (2) After the entry referring to the Insolvency (Monetary Limits) Order (Northern Ireland) 1991 insert—
 
@@ -1455,192 +1455,192 @@ Section 117
 
 ## Annotations
 
-[^key-83564fdc2a4ee4ddae4475de1d504772]: Commencement: Sch. 4 para. 1 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-83564fdc2a4ee4ddae4475de1d504772]: Commencement: Sch. 4 para. 1 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-d46315b181feb8a37af657b9c416cb96]: Commencement: Sch. 4 para. 2 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-d46315b181feb8a37af657b9c416cb96]: Commencement: Sch. 4 para. 2 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-f24326473e6db73dbc2c7e3a139f9c82]: Commencement: Sch. 4 para. 3 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f24326473e6db73dbc2c7e3a139f9c82]: Commencement: Sch. 4 para. 3 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-aa56546046e2c94f3cc9306f0cd36176]: Commencement: Sch. 4 para. 4 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-aa56546046e2c94f3cc9306f0cd36176]: Commencement: Sch. 4 para. 4 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-c47802312216754f04d79b157b3db9b9]: Commencement: Sch. 4 para. 5 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c47802312216754f04d79b157b3db9b9]: Commencement: Sch. 4 para. 5 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-dc2c7072894a55fefb6fba72ac8c27e2]: Commencement: Sch. 4 para. 6 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-dc2c7072894a55fefb6fba72ac8c27e2]: Commencement: Sch. 4 para. 6 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-71ef0634b9f6463f2f74b484411d478a]: Commencement: Sch. 4 para. 7 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-71ef0634b9f6463f2f74b484411d478a]: Commencement: Sch. 4 para. 7 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-89eed9d7ce4d72c7c1e8579baf344711]: Commencement: Sch. 4 para. 8 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-89eed9d7ce4d72c7c1e8579baf344711]: Commencement: Sch. 4 para. 8 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-92a6b226c8edcafb4c9b143cbe10c453]: Commencement: Sch. 4 para. 9 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-92a6b226c8edcafb4c9b143cbe10c453]: Commencement: Sch. 4 para. 9 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-fc05e3b642c8a6df747c74ffc446e8e7]: Commencement: Sch. 4 para. 10 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-fc05e3b642c8a6df747c74ffc446e8e7]: Commencement: Sch. 4 para. 10 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-0d4b6db0e579a6430d817e285d182ae1]: Commencement: Sch. 4 para. 11 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-0d4b6db0e579a6430d817e285d182ae1]: Commencement: Sch. 4 para. 11 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-9279d0b74531ca9d6844b89df4203a8d]: Commencement: Sch. 4 para. 12 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-9279d0b74531ca9d6844b89df4203a8d]: Commencement: Sch. 4 para. 12 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-4199b8255645b6179c68496ab811f47e]: Commencement: Sch. 4 para. 13 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-4199b8255645b6179c68496ab811f47e]: Commencement: Sch. 4 para. 13 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-a05ea371dc31d3b48933d69146988600]: Commencement: Sch. 4 para. 14 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-a05ea371dc31d3b48933d69146988600]: Commencement: Sch. 4 para. 14 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-b730973e8a286bb5b1b94d5c6bd83771]: Commencement: Sch. 4 para. 15 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-b730973e8a286bb5b1b94d5c6bd83771]: Commencement: Sch. 4 para. 15 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-8527565b76e71635fac2d799e5c373e4]: Commencement: Sch. 4 para. 16 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-8527565b76e71635fac2d799e5c373e4]: Commencement: Sch. 4 para. 16 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-a3e9bba0fea81b48744dc6d6b9c01d64]: Commencement: Sch. 4 para. 17 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-a3e9bba0fea81b48744dc6d6b9c01d64]: Commencement: Sch. 4 para. 17 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-e4bf172fbb80f4c91b2fa8fa78a665c8]: Commencement: Sch. 4 para. 18 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-e4bf172fbb80f4c91b2fa8fa78a665c8]: Commencement: Sch. 4 para. 18 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-898ba7d2f8d35a121f234e4c5a14139b]: Commencement: Sch. 4 para. 19 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-898ba7d2f8d35a121f234e4c5a14139b]: Commencement: Sch. 4 para. 19 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-4b1ccf9ad61ab607b49ed79250cd7bb7]: Commencement: Sch. 4 para. 20 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-4b1ccf9ad61ab607b49ed79250cd7bb7]: Commencement: Sch. 4 para. 20 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-eb7f6041cf9f7391ec1c2329f7da7f72]: Commencement: Sch. 4 para. 21 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-eb7f6041cf9f7391ec1c2329f7da7f72]: Commencement: Sch. 4 para. 21 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-a54595a01ecdfeb13a4ef8216e9f0e05]: Commencement: Sch. 4 para. 22 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-a54595a01ecdfeb13a4ef8216e9f0e05]: Commencement: Sch. 4 para. 22 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-19392ffaf4c87e6d882c6bc6dd6ed92e]: Commencement: Sch. 4 para. 23 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-19392ffaf4c87e6d882c6bc6dd6ed92e]: Commencement: Sch. 4 para. 23 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-c0e036e4c761df3b57aa58d78379bcf1]: Commencement: Sch. 4 para. 24 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c0e036e4c761df3b57aa58d78379bcf1]: Commencement: Sch. 4 para. 24 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-800198725d7dbf2529fa9934f90f725c]: Commencement: Sch. 4 para. 25 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-800198725d7dbf2529fa9934f90f725c]: Commencement: Sch. 4 para. 25 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-0a23750ed601347248c4cb561d2d565a]: Commencement: Sch. 4 para. 26 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-0a23750ed601347248c4cb561d2d565a]: Commencement: Sch. 4 para. 26 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-6a6bb2079448d3abded918774b67f1f6]: Commencement: Sch. 4 para. 27 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-6a6bb2079448d3abded918774b67f1f6]: Commencement: Sch. 4 para. 27 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-8762fff2a363c308abdedda555e27f69]: Commencement: Sch. 4 para. 28 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-8762fff2a363c308abdedda555e27f69]: Commencement: Sch. 4 para. 28 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-62fb7053387ecf6ab3ff4d2fd06399fb]: Commencement: Sch. 4 para. 29 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-62fb7053387ecf6ab3ff4d2fd06399fb]: Commencement: Sch. 4 para. 29 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-b388abfc7dbc9a36ce908403fbabc1e7]: Commencement: Sch. 4 para. 30 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-b388abfc7dbc9a36ce908403fbabc1e7]: Commencement: Sch. 4 para. 30 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-7c18cc4265f0fb4530868b02bfad9249]: Commencement: Sch. 4 para. 31 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-7c18cc4265f0fb4530868b02bfad9249]: Commencement: Sch. 4 para. 31 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-b58cb584980490b97b80447073469a85]: Commencement: Sch. 4 para. 32 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-b58cb584980490b97b80447073469a85]: Commencement: Sch. 4 para. 32 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-0b1c396a7ae7bef90c1bc438c82dca90]: Commencement: Sch. 4 para. 33 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-0b1c396a7ae7bef90c1bc438c82dca90]: Commencement: Sch. 4 para. 33 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-50209dc514122320c86e8c738c334181]: Commencement: Sch. 4 para. 34 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-50209dc514122320c86e8c738c334181]: Commencement: Sch. 4 para. 34 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-f2421644e8a75a81a188c88036f4930b]: Commencement: Sch. 4 para. 35 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f2421644e8a75a81a188c88036f4930b]: Commencement: Sch. 4 para. 35 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-20a6c8e6ffad66604a5ae5f41a998341]: Commencement: Sch. 4 para. 36 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-20a6c8e6ffad66604a5ae5f41a998341]: Commencement: Sch. 4 para. 36 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-05669796ff4cce4e947484e3d0d2973d]: Commencement: Sch. 4 para. 37 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-05669796ff4cce4e947484e3d0d2973d]: Commencement: Sch. 4 para. 37 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-5e1106ef5e0b3e9280068d1e83c06b69]: Commencement: Sch. 4 para. 38 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-5e1106ef5e0b3e9280068d1e83c06b69]: Commencement: Sch. 4 para. 38 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-ccfb73bf5e54a00ddebde939ef35d481]: Commencement: Sch. 4 para. 39 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-ccfb73bf5e54a00ddebde939ef35d481]: Commencement: Sch. 4 para. 39 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-b38610a89b17189604f9bfd40cf99d6b]: Commencement: Sch. 4 para. 40 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-b38610a89b17189604f9bfd40cf99d6b]: Commencement: Sch. 4 para. 40 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-f67c76c63ac80dec5602dcbafd1987e3]: Commencement: Sch. 4 para. 41 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f67c76c63ac80dec5602dcbafd1987e3]: Commencement: Sch. 4 para. 41 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-8b1988b8ae47ab423c17fb2f86c15c0e]: Commencement: Sch. 4 para. 42 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-8b1988b8ae47ab423c17fb2f86c15c0e]: Commencement: Sch. 4 para. 42 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-3084c925c27ddd89e4a1025f8f5ab4cd]: Commencement: Sch. 4 para. 43 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-3084c925c27ddd89e4a1025f8f5ab4cd]: Commencement: Sch. 4 para. 43 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-d29c483c122bd6f4092ed0d909e020ef]: Commencement: Sch. 4 para. 44 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-d29c483c122bd6f4092ed0d909e020ef]: Commencement: Sch. 4 para. 44 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-e5eec4b83f172aad6559a68473210863]: Commencement: Sch. 4 para. 45 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-e5eec4b83f172aad6559a68473210863]: Commencement: Sch. 4 para. 45 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-36dd636c1f9b0e90a5b2e1fa6f714ef6]: Commencement: Sch. 4 para. 46 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-36dd636c1f9b0e90a5b2e1fa6f714ef6]: Commencement: Sch. 4 para. 46 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-7bed003ddef9221c41fbdd81c7f31976]: Commencement: Sch. 4 para. 47 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-7bed003ddef9221c41fbdd81c7f31976]: Commencement: Sch. 4 para. 47 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-5e2ee3e31f8eb5428e0cc42209fab3c1]: Commencement: Sch. 4 para. 48 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-5e2ee3e31f8eb5428e0cc42209fab3c1]: Commencement: Sch. 4 para. 48 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-9d0299b5cb9d1d502320487d589590d6]: Commencement: Sch. 4 para. 49 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-9d0299b5cb9d1d502320487d589590d6]: Commencement: Sch. 4 para. 49 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-d8c887b71e40ea34c23d61a647e7a757]: Commencement: Sch. 4 para. 50 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-d8c887b71e40ea34c23d61a647e7a757]: Commencement: Sch. 4 para. 50 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-22946c17cd8d9a9b89943bb7b670a32c]: Commencement: Sch. 4 para. 51 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-22946c17cd8d9a9b89943bb7b670a32c]: Commencement: Sch. 4 para. 51 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-5b7afb063c5e3c2e164f9222c62fa6ec]: Commencement: Sch. 4 para. 52 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-5b7afb063c5e3c2e164f9222c62fa6ec]: Commencement: Sch. 4 para. 52 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-70c7cb59df2085294e3a26e57d760ebe]: Commencement: Sch. 4 para. 53 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-70c7cb59df2085294e3a26e57d760ebe]: Commencement: Sch. 4 para. 53 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-596675dd01fbeb3ebe033245b4a5bf7a]: Commencement: Sch. 4 para. 54 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-596675dd01fbeb3ebe033245b4a5bf7a]: Commencement: Sch. 4 para. 54 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-64ed57e42f42b710604590a7361902ad]: Commencement: Sch. 4 para. 55 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-64ed57e42f42b710604590a7361902ad]: Commencement: Sch. 4 para. 55 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-69ccb07de15a3915c603c0204378d989]: Commencement: Sch. 4 para. 56 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-69ccb07de15a3915c603c0204378d989]: Commencement: Sch. 4 para. 56 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-c53b7ce03858db949d847156213214e7]: Commencement: Sch. 4 para. 57 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c53b7ce03858db949d847156213214e7]: Commencement: Sch. 4 para. 57 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-13fe153b027ceff71f1b0cc17aef78ba]: Commencement: Sch. 4 para. 58 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-13fe153b027ceff71f1b0cc17aef78ba]: Commencement: Sch. 4 para. 58 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-2c3621cf88d709175dc006d1bc6b0dcd]: Commencement: Sch. 4 para. 59 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2c3621cf88d709175dc006d1bc6b0dcd]: Commencement: Sch. 4 para. 59 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-0a430bf78cb6ee5993badee16cd830b1]: Commencement: Sch. 4 para. 60 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-0a430bf78cb6ee5993badee16cd830b1]: Commencement: Sch. 4 para. 60 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-f5270afae3451a63ea0e0641d8ab7962]: Commencement: Sch. 4 para. 61 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f5270afae3451a63ea0e0641d8ab7962]: Commencement: Sch. 4 para. 61 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-f80776fa5801284a3168dcc9ac9be393]: Commencement: Sch. 4 para. 62 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f80776fa5801284a3168dcc9ac9be393]: Commencement: Sch. 4 para. 62 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-74425d889af9eb1daf43ed76d4409dd6]: Commencement: Sch. 4 para. 63 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-74425d889af9eb1daf43ed76d4409dd6]: Commencement: Sch. 4 para. 63 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-65d5f9135fdcdb345886b84a4fe3dc11]: Commencement: Sch. 4 para. 64 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-65d5f9135fdcdb345886b84a4fe3dc11]: Commencement: Sch. 4 para. 64 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-e4ed4871bc166a4f7afc11af494f6166]: Commencement: Sch. 4 para. 65 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-e4ed4871bc166a4f7afc11af494f6166]: Commencement: Sch. 4 para. 65 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-940c895dfc1ab89683b346cc9bf2fdd5]: Commencement: Sch. 4 para. 66 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-940c895dfc1ab89683b346cc9bf2fdd5]: Commencement: Sch. 4 para. 66 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-2758aaae9653df381ddd08e68dd0b112]: Commencement: Sch. 4 para. 67 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2758aaae9653df381ddd08e68dd0b112]: Commencement: Sch. 4 para. 67 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-33a6f51472eea39a8646024bcd20d13f]: Commencement: Sch. 4 para. 68 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-33a6f51472eea39a8646024bcd20d13f]: Commencement: Sch. 4 para. 68 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-7d72216fe8b50557769cb887845c654e]: Commencement: Sch. 4 para. 69 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-7d72216fe8b50557769cb887845c654e]: Commencement: Sch. 4 para. 69 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-cc2c18d11fc53e33caceb2eab035e081]: Commencement: Sch. 4 para. 70 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-cc2c18d11fc53e33caceb2eab035e081]: Commencement: Sch. 4 para. 70 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-9a17bd2e5e0229184e31af41abc0c930]: Commencement: Sch. 4 para. 71 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-9a17bd2e5e0229184e31af41abc0c930]: Commencement: Sch. 4 para. 71 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-34f6754f6bda3e048e037fa0f4c155a0]: Commencement: Sch. 4 para. 72 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-34f6754f6bda3e048e037fa0f4c155a0]: Commencement: Sch. 4 para. 72 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-1e8e539e76300465813c97494dba98df]: Commencement: Sch. 4 para. 73 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-1e8e539e76300465813c97494dba98df]: Commencement: Sch. 4 para. 73 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-6d9f9407d1356b33c6202651652c4d1d]: Commencement: Sch. 4 para. 74 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-6d9f9407d1356b33c6202651652c4d1d]: Commencement: Sch. 4 para. 74 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-cc852fc5b80b5229ff02eae1774aa37c]: Commencement: Sch. 4 para. 75 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-cc852fc5b80b5229ff02eae1774aa37c]: Commencement: Sch. 4 para. 75 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-f4bcfec640775834e46523f072f9fda3]: Commencement: Sch. 4 para. 76 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f4bcfec640775834e46523f072f9fda3]: Commencement: Sch. 4 para. 76 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-d04169955a67bcbda66bd5a9ff5f8582]: Commencement: Sch. 4 para. 77 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-d04169955a67bcbda66bd5a9ff5f8582]: Commencement: Sch. 4 para. 77 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-ccd0edbf97f0b3b0ec9831f70545e75d]: Commencement: Sch. 4 para. 78 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-ccd0edbf97f0b3b0ec9831f70545e75d]: Commencement: Sch. 4 para. 78 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-290fe60d152cddce2a966aae0c958126]: Commencement: Sch. 4 para. 79 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-290fe60d152cddce2a966aae0c958126]: Commencement: Sch. 4 para. 79 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-ac01ad44ac9481cad6b951258e09c6ab]: Commencement: Sch. 4 para. 80 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-ac01ad44ac9481cad6b951258e09c6ab]: Commencement: Sch. 4 para. 80 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-3b48a44523b11a65453f59094264bedb]: Commencement: Sch. 4 para. 81 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-3b48a44523b11a65453f59094264bedb]: Commencement: Sch. 4 para. 81 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-732fd148a622066d9c3ae96db5cb1af8]: Commencement: Sch. 4 para. 82 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-732fd148a622066d9c3ae96db5cb1af8]: Commencement: Sch. 4 para. 82 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-601d0d3b8dc8b02a56c92c89b228b4a4]: Commencement: Sch. 4 para. 83 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-601d0d3b8dc8b02a56c92c89b228b4a4]: Commencement: Sch. 4 para. 83 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-8b0e891e05eadbc44c28e438fb35a93f]: Commencement: Sch. 4 para. 84 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-8b0e891e05eadbc44c28e438fb35a93f]: Commencement: Sch. 4 para. 84 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-a7830eaccdb6572b48d528581f92ca54]: Commencement: Sch. 4 para. 85 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-a7830eaccdb6572b48d528581f92ca54]: Commencement: Sch. 4 para. 85 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-69ca24778a2dcb63d6214ef1445293df]: Commencement: Sch. 4 para. 86 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-69ca24778a2dcb63d6214ef1445293df]: Commencement: Sch. 4 para. 86 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-95d072d523b2245346f7e32c079e2fdd]: Commencement: Sch. 4 para. 87 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-95d072d523b2245346f7e32c079e2fdd]: Commencement: Sch. 4 para. 87 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-522d78e860bd3f2a0a507a3a99451610]: Commencement: Sch. 4 para. 88 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-522d78e860bd3f2a0a507a3a99451610]: Commencement: Sch. 4 para. 88 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-d3a9aea8f0e63a37f26d4a45ecaade06]: Commencement: Sch. 4 para. 89 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-d3a9aea8f0e63a37f26d4a45ecaade06]: Commencement: Sch. 4 para. 89 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-11c158d8a905abf5d9c71eb7c578b8e4]: Commencement: Sch. 4 para. 90 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-11c158d8a905abf5d9c71eb7c578b8e4]: Commencement: Sch. 4 para. 90 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-c82bcc96316b12433d682df807dbd305]: Commencement: Sch. 4 para. 91 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c82bcc96316b12433d682df807dbd305]: Commencement: Sch. 4 para. 91 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-89897a56f6b6134473da1f70da71895f]: Commencement: Sch. 4 para. 92 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-89897a56f6b6134473da1f70da71895f]: Commencement: Sch. 4 para. 92 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-64f9eaf556fa37e634f72a154b110183]: Commencement: Sch. 4 para. 93 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-64f9eaf556fa37e634f72a154b110183]: Commencement: Sch. 4 para. 93 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-235909c4fa25c6cc5ce90ff645af1718]: Commencement: Sch. 4 para. 94 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-235909c4fa25c6cc5ce90ff645af1718]: Commencement: Sch. 4 para. 94 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-7725ae5c0dedadc0a38ca47605404774]: Commencement: Sch. 4 para. 95 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-7725ae5c0dedadc0a38ca47605404774]: Commencement: Sch. 4 para. 95 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Disqualification orders: aggravation[^key-4348af76c6dbffe607896b8888624af3][^key-98058dc587a3dafd8a48cbb636c9b73a]
+## 17. Disqualification orders: aggravation[^c-4348af76c6dbffe607896b8888624af3][^c-98058dc587a3dafd8a48cbb636c9b73a]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4348af76c6dbffe607896b8888624af3]: Commencement: S. 17 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-4348af76c6dbffe607896b8888624af3]: Commencement: S. 17 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-98058dc587a3dafd8a48cbb636c9b73a]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2025/4/section/17) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-98058dc587a3dafd8a48cbb636c9b73a]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2025/4/section/17) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

@@ -26,7 +26,7 @@ summary: ''
 
 ### PART 1 — PROHIBITION ORDERS
 
-#### 1. Power to make prohibition order[^key-6203062332ff55e1de64a2a0da549921]
+#### 1. Power to make prohibition order[^c-6203062332ff55e1de64a2a0da549921]
 
 (1) A planning authority may make a prohibition order in relation to any land in its area.
 
@@ -55,7 +55,7 @@ summary: ''
 
 (8) Paragraphs 1(3) to (9) and 2 to 5 of Schedule 3 apply in relation to an aftercare condition imposed by a prohibition order as they apply in relation to an aftercare condition imposed by a discontinuance order (see paragraph 3 of Schedule 14).
 
-#### 2. Prohibition order made by planning authority: requirement for confirmation by the Welsh Ministers[^key-90bd44caabafaedaee02ebd54a11dfbb]
+#### 2. Prohibition order made by planning authority: requirement for confirmation by the Welsh Ministers[^c-90bd44caabafaedaee02ebd54a11dfbb]
 
 (1) A prohibition order made by a planning authority does not take effect unless it is confirmed by the Welsh Ministers.
 
@@ -77,7 +77,7 @@ summary: ''
 - (a) every person who was served with notice under sub-paragraph (2), and
 - (b) any other person who falls within sub-paragraph (2)(a) or (b) when the order is confirmed.
 
-#### 3. Prohibition order made by the Welsh Ministers: consultation and notification in connection with making order[^key-349367787c510b0bd3d19a04ff5bae82]
+#### 3. Prohibition order made by the Welsh Ministers: consultation and notification in connection with making order[^c-349367787c510b0bd3d19a04ff5bae82]
 
 (1) The Welsh Ministers must not make a prohibition order without consulting the planning authority in whose area the land to which the order relates is situated.
 
@@ -98,7 +98,7 @@ summary: ''
 - (a) every person who was served with notice under sub-paragraph (2), and
 - (b) any other person who falls within sub-paragraph (2)(b) or (c) when the order is made.
 
-#### 4. Effect of prohibition order on planning permission[^key-4a79f44dd701aba7f13ac89c5132ea0d]
+#### 4. Effect of prohibition order on planning permission[^c-4a79f44dd701aba7f13ac89c5132ea0d]
 
 (1) When a prohibition order takes effect, any planning permission for the mining operations or depositing of mineral waste to which the order relates ceases to have effect.
 
@@ -108,7 +108,7 @@ summary: ''
 
 ### PART 2 — PROTECTION ORDERS
 
-#### 5. Power to make protection order[^key-e4cba3c234f837ac6f091325309639ff]
+#### 5. Power to make protection order[^c-e4cba3c234f837ac6f091325309639ff]
 
 (1) A planning authority may make a protection order in relation to any land in its area.
 
@@ -134,7 +134,7 @@ summary: ''
 
 (7) A protection order must specify a period, beginning with the date on which the order is to take effect, within which any required step for the protection of the environment must be taken, and it may specify different periods for taking different steps.
 
-#### 6. Protection order made by planning authority: requirement for confirmation by the Welsh Ministers[^key-3e1ab29feb4a2cea34b7cc5317e542ce]
+#### 6. Protection order made by planning authority: requirement for confirmation by the Welsh Ministers[^c-3e1ab29feb4a2cea34b7cc5317e542ce]
 
 (1) A protection order made by a planning authority does not take effect unless it is confirmed by the Welsh Ministers.
 
@@ -166,7 +166,7 @@ summary: ''
 - (a) every owner and occupier of the land to which the earlier protection order that is being revoked relates, and
 - (b) any other person the authority thinks will be affected by the revocation of the earlier protection order.
 
-#### 7. Protection order made by the Welsh Ministers: consultation and notification in connection with making order[^key-6efbd27b676a6774ebd059f7d7c59df8]
+#### 7. Protection order made by the Welsh Ministers: consultation and notification in connection with making order[^c-6efbd27b676a6774ebd059f7d7c59df8]
 
 (1) The Welsh Ministers must not make a protection order without consulting the planning authority in whose area the land to which the order relates is situated.
 
@@ -197,11 +197,11 @@ summary: ''
 - (a) the planning authority, and
 - (b) every person who falls within sub-paragraph (2)(b) or (c) when the order is made.
 
-#### 8. Registration of protection order as local land charge[^key-491f3fe1a87071ba3e8f6f8dbe81329a]
+#### 8. Registration of protection order as local land charge[^c-491f3fe1a87071ba3e8f6f8dbe81329a]
 
 A protection order is a local land charge.
 
-#### 9. Review of protection order[^key-9062db3e22970febddc7fcdb112adf81]
+#### 9. Review of protection order[^c-9062db3e22970febddc7fcdb112adf81]
 
 (1) A planning authority must—
 
@@ -217,7 +217,7 @@ A protection order is a local land charge.
 
 (4) If two or more protection orders have effect wholly or partly in relation to the same land, the orders must be reviewed together.
 
-#### 10. Resumption of operations or depositing after protection order takes effect[^key-d03901c88b71113028c9421da048cd7b]
+#### 10. Resumption of operations or depositing after protection order takes effect[^c-d03901c88b71113028c9421da048cd7b]
 
 (1) A protection order does not prevent mining operations or depositing of mineral waste being resumed, in accordance with planning permission, on the land to which the order relates.
 
@@ -250,22 +250,22 @@ A protection order is a local land charge.
 
 ## Annotations
 
-[^key-6203062332ff55e1de64a2a0da549921]: Commencement: Sch. 15 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6203062332ff55e1de64a2a0da549921]: Commencement: Sch. 15 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-90bd44caabafaedaee02ebd54a11dfbb]: Commencement: Sch. 15 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-90bd44caabafaedaee02ebd54a11dfbb]: Commencement: Sch. 15 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-349367787c510b0bd3d19a04ff5bae82]: Commencement: Sch. 15 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-349367787c510b0bd3d19a04ff5bae82]: Commencement: Sch. 15 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-4a79f44dd701aba7f13ac89c5132ea0d]: Commencement: Sch. 15 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4a79f44dd701aba7f13ac89c5132ea0d]: Commencement: Sch. 15 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-e4cba3c234f837ac6f091325309639ff]: Commencement: Sch. 15 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e4cba3c234f837ac6f091325309639ff]: Commencement: Sch. 15 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-3e1ab29feb4a2cea34b7cc5317e542ce]: Commencement: Sch. 15 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3e1ab29feb4a2cea34b7cc5317e542ce]: Commencement: Sch. 15 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-6efbd27b676a6774ebd059f7d7c59df8]: Commencement: Sch. 15 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6efbd27b676a6774ebd059f7d7c59df8]: Commencement: Sch. 15 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-491f3fe1a87071ba3e8f6f8dbe81329a]: Commencement: Sch. 15 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-491f3fe1a87071ba3e8f6f8dbe81329a]: Commencement: Sch. 15 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-9062db3e22970febddc7fcdb112adf81]: Commencement: Sch. 15 para. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9062db3e22970febddc7fcdb112adf81]: Commencement: Sch. 15 para. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-d03901c88b71113028c9421da048cd7b]: Commencement: Sch. 15 para. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d03901c88b71113028c9421da048cd7b]: Commencement: Sch. 15 para. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

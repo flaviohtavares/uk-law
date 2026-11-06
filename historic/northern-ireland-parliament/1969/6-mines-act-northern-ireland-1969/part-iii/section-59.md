@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Prevention of leakage of air between airways.[^key-42d9488f0faf62806d59a98a1abe91ec]
+## 59. Prevention of leakage of air between airways.[^c-42d9488f0faf62806d59a98a1abe91ec]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42d9488f0faf62806d59a98a1abe91ec]: Textual amendment: [Ss. 58-62](https://www.legislation.gov.uk/apni/1969/6/section/58) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-42d9488f0faf62806d59a98a1abe91ec]: Textual amendment: [Ss. 58-62](https://www.legislation.gov.uk/apni/1969/6/section/58) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

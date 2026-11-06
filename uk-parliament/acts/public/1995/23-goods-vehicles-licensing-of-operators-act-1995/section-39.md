@@ -26,10 +26,10 @@ summary: ''
 - (b) obtaining the variation of any such licence;
 - (c) preventing the issue or variation of any such licence;
 - (d) procuring the imposition of a condition or limitation in relation to any such licence; or
-- (e) obtaining the issue to himself or any other person of a certificate of qualification under section 49 or a certificate or diploma such as is mentioned in paragraph 13(1) or (1A)[^key-6236fa196b11654f16f411c21b3ddf70] of Schedule 3.
+- (e) obtaining the issue to himself or any other person of a certificate of qualification under section 49 or a certificate or diploma such as is mentioned in paragraph 13(1) or (1A)[^c-6236fa196b11654f16f411c21b3ddf70] of Schedule 3.
 
 (2) A person guilty of an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
 ## Annotations
 
-[^key-6236fa196b11654f16f411c21b3ddf70]: Textual amendment: Words in [s. 39(1)(e)](https://www.legislation.gov.uk/ukpga/1995/23/section/39/1/e) inserted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/13) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))
+[^c-6236fa196b11654f16f411c21b3ddf70]: Textual amendment: Words in [s. 39(1)(e)](https://www.legislation.gov.uk/ukpga/1995/23/section/39/1/e) inserted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/13) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))

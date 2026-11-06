@@ -94,7 +94,7 @@ The Social Security Administration (Northern Ireland) Act 1992 is amended as fol
 
 **10.** In section 5 (regulations about claims and payments), in subsection (5), before “subsection” insert “ or housing credit (within the meaning of the State Pension Credit Act (Northern Ireland) 2002) ”.
 
-**11.**[^key-119dbdc6eaa3d92cfedaf2dabb1790a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-119dbdc6eaa3d92cfedaf2dabb1790a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 12. The Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)
 
@@ -102,4 +102,4 @@ In section 60 of the Child Support, Pensions and Social Security Act (Northern I
 
 ## Annotations
 
-[^key-119dbdc6eaa3d92cfedaf2dabb1790a5]: Textual amendment: [Sch. 4 para. 11](https://www.legislation.gov.uk/nisi/2015/2006/schedule/4/paragraph/11) repealed (6.4.2018) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(12)(f)(ii)](https://www.legislation.gov.uk/nisi/2016/999/article/15/12/f/ii); [S.R. 2018/66](https://www.legislation.gov.uk/nisr/2018/66), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/66/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/66/article/2/2)[(3)](https://www.legislation.gov.uk/nisr/2018/66/article/2/3))
+[^c-119dbdc6eaa3d92cfedaf2dabb1790a5]: Textual amendment: [Sch. 4 para. 11](https://www.legislation.gov.uk/nisi/2015/2006/schedule/4/paragraph/11) repealed (6.4.2018) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(12)(f)(ii)](https://www.legislation.gov.uk/nisi/2016/999/article/15/12/f/ii); [S.R. 2018/66](https://www.legislation.gov.uk/nisr/2018/66), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/66/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/66/article/2/2)[(3)](https://www.legislation.gov.uk/nisr/2018/66/article/2/3))

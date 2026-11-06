@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) An affected person may apply to the appropriate tribunal[^key-275551e564ee4869fe2a2422abbc3ad7] for an order requiring the local housing authority to manage the whole or part of a house in accordance with the management scheme contained in a final management order made in respect of the house.
+(1) An affected person may apply to the appropriate tribunal[^c-275551e564ee4869fe2a2422abbc3ad7] for an order requiring the local housing authority to manage the whole or part of a house in accordance with the management scheme contained in a final management order made in respect of the house.
 
 (2) On such an application the tribunal may, if it considers it appropriate to do so, make an order—
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c2052584]: Commencement: S. 120 wholly in force at 16.6.2006; s. 120 not in force at Royal Assent see s. 270(4)(5); s. 120 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 120 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-275551e564ee4869fe2a2422abbc3ad7]: Textual amendment: Words in [s. 120(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/120/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 164](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/164) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-275551e564ee4869fe2a2422abbc3ad7]: Textual amendment: Words in [s. 120(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/120/1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 164](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/164) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

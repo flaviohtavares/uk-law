@@ -37,24 +37,24 @@ An Act to make new provision for Scotland as respects the law relating to the qu
 
 ### 1. Qualification of jurors.
 
-(1) Subject [^key-4d508ec8e33d57afcc5481b4ac6aad63]... to section 1A[^c20843131], every person who—
+(1) Subject [^c-4d508ec8e33d57afcc5481b4ac6aad63]... to section 1A[^c20843131], every person who—
 
 - (a) is for the time being registered as a parliamentary or local government elector;
-- (b)[^key-f8c7b92e14cdd3cd65a564a631f429e0] is not less than 18 years of age;
+- (b)[^c-f8c7b92e14cdd3cd65a564a631f429e0] is not less than 18 years of age;
 - (c) has been ordinarily resident in the United Kingdom the Channel Islands or the Isle of Man for any period of at least 5 years since attaining the age of 13 years; and
 - (d) is not among the persons listed in Part I of Schedule 1 to this Act, being persons hereby declared ineligible for, nor among those listed in Part II of that Schedule, being persons hereby declared disqualified from, jury service,
 
 [^c20843051]shall be qualified and liable to serve as a juror in any Scottish court . . . .
 
-(1A)[^key-80ef57b88f538b1cbf82f95386515610][^c20843111] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-80ef57b88f538b1cbf82f95386515610][^c20843111] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-9615efaf54e9faa145a9033057a33724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9615efaf54e9faa145a9033057a33724] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-44bd98d3017819f0bd9fdbf080c2b50d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-44bd98d3017819f0bd9fdbf080c2b50d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The fact that any person serving on the jury chosen for a particular trial (whether before or after the coming into force of this Act) is, under subsection (1) above, ineligible or not qualified for or disqualified from jury service, or was under section 1 of the Jurors (Scotland) Act [^c10856841]1825 not qualified for such service, (as the case may be), shall not in itself affect the validity of any verdict returned by that jury in the trial.
 
-(5) A person cited to attend for jury service and not excused [^key-ff615b4e2221a7979b9bb8f7e7adbd1a]... under section 1A[^c20843201] may, if he shows to the satisfaction of the clerk of the court issuing the citation that there is good reason why he should be excused from attending in compliance with the citation, be excused by that clerk of court from so attending.
+(5) A person cited to attend for jury service and not excused [^c-ff615b4e2221a7979b9bb8f7e7adbd1a]... under section 1A[^c20843201] may, if he shows to the satisfaction of the clerk of the court issuing the citation that there is good reason why he should be excused from attending in compliance with the citation, be excused by that clerk of court from so attending.
 
 (5A)[^c10856851] Where the clerk of court has, under subsection (5) above, excused a person from jury service in any criminal proceedings he shall, unless he considers there to be exceptional circumstances which make it inappropriate to do so, within one year of the date of that excusal cite that person to attend for jury service in criminal proceedings.
 
@@ -67,19 +67,19 @@ An Act to make new provision for Scotland as respects the law relating to the qu
 
 the court before which a person is cited to attend for jury service may excuse that person from that jury service.
 
-### 1A. Excusal of jurors as of right[^c20843281][^key-c57a0d2006e12ce23741c819256e2e53]
+### 1A. Excusal of jurors as of right[^c20843281][^c-c57a0d2006e12ce23741c819256e2e53]
 
-(1) Subject to subsection (3), a person who is qualified under section 1(1) but is among the persons listed in Part III of Schedule 1 to this Act (being persons excusable as of right from jury service) is to be excused from jury service [^key-c83886a7b1ee6000d573aae94469bba4]... on any occasion where the person—
+(1) Subject to subsection (3), a person who is qualified under section 1(1) but is among the persons listed in Part III of Schedule 1 to this Act (being persons excusable as of right from jury service) is to be excused from jury service [^c-c83886a7b1ee6000d573aae94469bba4]... on any occasion where the person—
 
 - (a) has been required to provide information under section 3(2) of the Jurors (Scotland) Act 1825 (c.22); and
 - (b) gives written notice to the sheriff principal that the person wishes to be excused, before the end of the period of 7 days beginning with the day on which the person receives the requirement.
 
-(2) Without prejudice to subsection (1), a person who is qualified under section 1(1) but is among the persons listed in Group C of Part III of Schedule 1 to this Act is to be excused from jury service [^key-46b9c4e92ece4ad4c4d4f969127fc163]... on any occasion where—
+(2) Without prejudice to subsection (1), a person who is qualified under section 1(1) but is among the persons listed in Group C of Part III of Schedule 1 to this Act is to be excused from jury service [^c-46b9c4e92ece4ad4c4d4f969127fc163]... on any occasion where—
 
 - (a) the person has been required to provide information under section 3(2) of the Jurors (Scotland) Act 1825; and
 - (b) the person's commanding officer certifies to the sheriff principal that it would be prejudicial to the efficiency of the force of which the person is a member were the person required to be absent from duty.
 
-(3) Subsection (1) does not apply to a person who is qualified under section 1(1) but is among the persons listed in paragraph (ab)[^key-388103dc0ec9c64226277b1b43264637] of Group F of Part III of Schedule 1 to this Act (persons who have attained the age of 71), but instead such a person is to be excused from jury service [^key-cb0372645e9e24facf1129372c79d32a]... on any occasion where—
+(3) Subsection (1) does not apply to a person who is qualified under section 1(1) but is among the persons listed in paragraph (ab)[^c-388103dc0ec9c64226277b1b43264637] of Group F of Part III of Schedule 1 to this Act (persons who have attained the age of 71), but instead such a person is to be excused from jury service [^c-cb0372645e9e24facf1129372c79d32a]... on any occasion where—
 
 - (a) in the case of a person who has been required to provide information under section 3(2) of the Jurors (Scotland) Act 1825, the person gives written notice to the sheriff principal that the person wishes to be excused; or
 - (b) in the case of a person who has been cited to attend for jury service, the person—
@@ -93,7 +93,7 @@ the court before which a person is cited to attend for jury service may excuse t
 (2) A fine imposed under subsection (1) above may, on application, be remitted—
 
 - (a) by a Lord Ordinary where imposed in the Court of Session;
-- (aa)[^key-2936d6d7d1d3027fbc9aea7931b9064b] by the sheriff where imposed in the sheriff court;
+- (aa)[^c-2936d6d7d1d3027fbc9aea7931b9064b] by the sheriff where imposed in the sheriff court;
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c10856881]
 
 and no court fees or expenses shall be exigible in respect of any such application.
@@ -230,7 +230,7 @@ In the [^c10857051] Sheriff Courts (Scotland) Act 1971—
 
 (1) It shall not be competent to appoint a civil action to be tried before a jury in the sheriff court;. . . [^c10857061]
 
-(1A)[^key-d8a62a32e893cb3f9ae8fd96d42dfb39] Subsection (1) is subject to section 63 (civil jury trials in all-Scotland sheriff courts) of the Courts Reform (Scotland) Act 2014.
+(1A)[^c-d8a62a32e893cb3f9ae8fd96d42dfb39] Subsection (1) is subject to section 63 (civil jury trials in all-Scotland sheriff courts) of the Courts Reform (Scotland) Act 2014.
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c10857071]
 
@@ -358,7 +358,7 @@ Provided that this section shall not affect—
 - (a) any existing enactment or rule of law whereby and in accordance with which a sum so awarded may carry interest ;
 - (b) any case in which the hearing has begun before the coming into force of this section.
 
-### 19. Vexatious litigants.[^key-f7602b4115d88e62e2bca3ed7ae67bb8]
+### 19. Vexatious litigants.[^c-f7602b4115d88e62e2bca3ed7ae67bb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -495,7 +495,7 @@ Section 1.
 - (a)[^c20842921] Justices of the Supreme Court or the President or Deputy President of that Court;
 - (b) Senators of the College of Justice;
 - (c) sheriffs;
-- (ca)[^key-df87e983ce3ee0ee9aca4a0f09c38db8] summary sheriffs;
+- (ca)[^c-df87e983ce3ee0ee9aca4a0f09c38db8] summary sheriffs;
 - (d) Justices of the Peace;
 - (e) stipendiary magistrates;
 - (f) the chairman or president, the vice-chairman or vice-president and the registrar or assistant registrar of any tribunal; and
@@ -511,20 +511,20 @@ Section 1.
 - (d) officers and staff of any court if their work is wholly or mainly concerned with the day-to-day administration of the court;
 - (e) persons employed as shorthand writers in any court;
 - (f) Clerks of the Peace and their deputies;
-- (fa)[^key-3038d3ababf78ddc69c6d4b0863650bb] members and staff of the Scottish Police Authority;
+- (fa)[^c-3038d3ababf78ddc69c6d4b0863650bb] members and staff of the Scottish Police Authority;
 - (g) Inspectors of Constabulary appointed by Her Majesty;
 - (h) assistant inspectors of constabulary appointed by the Secretary of State;
-- (i)[^key-5dc9478ed648eb485d56c15d86715a48] constables of the Police Service of Scotland (including constables engaged on temporary service within the meaning of section 15 of the Police and Fire Reform (Scotland) Act 2012 (asp 8));
+- (i)[^c-5dc9478ed648eb485d56c15d86715a48] constables of the Police Service of Scotland (including constables engaged on temporary service within the meaning of section 15 of the Police and Fire Reform (Scotland) Act 2012 (asp 8));
 - (j) constables of any constabulary maintained under statute;
 - (k) persons employed in any capacity by virtue of which they have the powers and privileges of police constables;
 - (l) special constables;
 - (m) police cadets;
-- (n)[^key-938648bb8561d85f1791e8eeb97b1bfd] persons appointed under section 26(1) of the Police and Fire Reform (Scotland) Act 2012;
+- (n)[^c-938648bb8561d85f1791e8eeb97b1bfd] persons appointed under section 26(1) of the Police and Fire Reform (Scotland) Act 2012;
 - (na)[^c10857741] members of the National Criminal Intelligence Service;
 - (nb) members of the Service Authority for the National Criminal Intelligence Service and persons employed by that Authority under section 13 of the Police Act 1997;
-- (nc)[^key-ea7b546935c10884c22e2cbb13ca696a] National Crime Agency officers;
-- (o) officers of [^key-3eacbb6440fba471df2d27d5e3ff9e7b]... prisons[^key-25d931c194c8ffd88abc0bb144b1d93f]..., detention centres[^key-25d931c194c8ffd88abc0bb144b1d93f]... and young offenders institutions;
-- (oa)[^key-276719e099177dbe6bb45a27e60524c3] prison monitoring co-ordinators appointed under section 7A(2) of the Prisons (Scotland) Act 1989 and independent prison monitors appointed under section 7B(2)(a) of that Act;
+- (nc)[^c-ea7b546935c10884c22e2cbb13ca696a] National Crime Agency officers;
+- (o) officers of [^c-3eacbb6440fba471df2d27d5e3ff9e7b]... prisons[^c-25d931c194c8ffd88abc0bb144b1d93f]..., detention centres[^c-25d931c194c8ffd88abc0bb144b1d93f]... and young offenders institutions;
+- (oa)[^c-276719e099177dbe6bb45a27e60524c3] prison monitoring co-ordinators appointed under section 7A(2) of the Prisons (Scotland) Act 1989 and independent prison monitors appointed under section 7B(2)(a) of that Act;
 - (oo)[^c10857751] prisoner custody officers within the meaning of section 114(1) of the Criminal Justice and Public Order Act 1994;
 - (p) procurators fiscal within the meaning of section 307(1) of the Criminal Procedure (Scotland) Act 1995[^c10857761], and persons employed as clerks and assistants to such procurators fiscal;
 - (q) messengers at arms and sheriff officers;
@@ -534,7 +534,7 @@ Section 1.
 - (u) members of the Parole Board for Scotland;
 - (v)[^c10857781] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (w) persons who, at any time within the 5 years immediately preceding the date at which the eligibility, in terms of section 1 of this Act, for jury service is being considered, have come within any description listed above in this Group.
-- (wza)[^key-e2a29aea53fd957cabad0cd963e56440] persons who, at any time within the 5 years immediately preceding the date at which the eligibility, in terms of section 1 of this Act, for jury service is being considered, were members or employees of the Scottish Police Services Authority;
+- (wza)[^c-e2a29aea53fd957cabad0cd963e56440] persons who, at any time within the 5 years immediately preceding the date at which the eligibility, in terms of section 1 of this Act, for jury service is being considered, were members or employees of the Scottish Police Services Authority;
 - (wa)[^c10857791] members and employees of the Scottish Criminal Cases Review Commission;
 - (wb)[^c20841531] chief officers of community justice authorities established under section 3 of theManagement of Offenders etc. (Scotland) Act 2005.
 
@@ -558,18 +558,18 @@ Section 1.
   - (i) served any part of a sentence of imprisonment detention or youth custody[^c10857881], being a sentence for a term of 3 months or more; or
   - (ii) been detained in a borstal institution,
 
-  and who are not protected[^key-f62c775c8459bbab65c7cf1c0fcc7bf1] persons for the purposes of the Rehabilitation of Offenders Act [^c10857891] 1974.
+  and who are not protected[^c-f62c775c8459bbab65c7cf1c0fcc7bf1] persons for the purposes of the Rehabilitation of Offenders Act [^c10857891] 1974.
 - (bb)[^c20841231] persons who have been convicted of an offence if, in respect of the conviction, one or more of the following orders was made—
   - (i)[^c20843341] a community payback order under section 227A of the Criminal Procedure (Scotland) Act 1995 (c.46);
   - (ii) a drug treatment and testing order under section 234B(2) of that Act;
   - (iii) [^c20843371]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) a restriction of liberty order under section 245A(1) of that Act;
-  - (v)[^c20841321] a community order within the meaning of section 177 of the Criminal Justice Act 2003 or imposed under Chapter 2 of Part 9 of the Sentencing Code[^key-e10d842ca2dcfed6285ef4c3150cc018];
+  - (v)[^c20841321] a community order within the meaning of section 177 of the Criminal Justice Act 2003 or imposed under Chapter 2 of Part 9 of the Sentencing Code[^c-e10d842ca2dcfed6285ef4c3150cc018];
   - (va) a youth community order as defined by section 33 of the Powers of Criminal Courts (Sentencing) Act 2000;
   - (vi) a community order as defined by article 2(2) of the Criminal Justice (Northern Ireland) Order 1996 (SI 1996/3160 (N.I.24));
   - (vii) a drug treatment and testing order under article 8(2) of the Criminal Justice (Northern Ireland) Order 1998 (SI 1998/2839 (N.I.20)),
 
-  except where they are protected[^key-3c06b2f2ca34484d4e04bd7965b0dac6] persons for the purposes of the Rehabilitation of Offenders Act 1974 (c. 53);
+  except where they are protected[^c-3c06b2f2ca34484d4e04bd7965b0dac6] persons for the purposes of the Rehabilitation of Offenders Act 1974 (c. 53);
 - (c)[^c10857901] in respect of jury service in any criminal proceedings, persons who are on bail in or in connection with criminal proceedings in any part of the United Kingdom.
 
 ### Part III — Persons Excusable as of Right
@@ -611,7 +611,7 @@ Members of the National Assembly for Wales.
 
 ##### The Forces
 
-Members of the regular forces within the meaning of the Armed Forces Act 2006 (see section 374 of that Act).[^key-046c0257cf0b22566d8dfa3f5fb5fc04]
+Members of the regular forces within the meaning of the Armed Forces Act 2006 (see section 374 of that Act).[^c-046c0257cf0b22566d8dfa3f5fb5fc04]
 
 #### Group D
 
@@ -644,7 +644,7 @@ In respect of jury service in any criminal proceedings, practising members of re
 
 ##### Others
 
-- (a)[^key-1e9e4e803de31f4da677e1748e924ed5] persons who have served as a juror in the period of 5 years ending with the date on which the person is cited first to attend;
+- (a)[^c-1e9e4e803de31f4da677e1748e924ed5] persons who have served as a juror in the period of 5 years ending with the date on which the person is cited first to attend;
 - (aa) persons who have attended for jury service, but have not served as a juror, in the period of 2 years ending with the date on which the person is cited first to attend;
 - (ab) persons who have attained the age of 71;
 - (b) persons excused by the direction of any court from jury service during a period which has not terminated.
@@ -713,25 +713,25 @@ Section 28(1).
 
 [^c10856761]: Commencement: Act partly in force at Royal Assent see [s. 29(2)](https://www.legislation.gov.uk/ukpga/1980/55/section/29/2); Act wholly in force at 22.12.1980.
 
-[^key-4d508ec8e33d57afcc5481b4ac6aad63]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1980/55/section/1/1) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(2)(a)(i)](https://www.legislation.gov.uk/asp/2014/18/section/99/2/a/i), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-4d508ec8e33d57afcc5481b4ac6aad63]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1980/55/section/1/1) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(2)(a)(i)](https://www.legislation.gov.uk/asp/2014/18/section/99/2/a/i), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
 [^c20843131]: Textual amendment: Words in s. 1(1) inserted (10.1.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 95(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/95/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/413/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-f8c7b92e14cdd3cd65a564a631f429e0]: Textual amendment: [S. 1(1)(b)](https://www.legislation.gov.uk/ukpga/1980/55/section/1/1/b) substituted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(2)(a)(ii)](https://www.legislation.gov.uk/asp/2014/18/section/99/2/a/ii), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-f8c7b92e14cdd3cd65a564a631f429e0]: Textual amendment: [S. 1(1)(b)](https://www.legislation.gov.uk/ukpga/1980/55/section/1/1/b) substituted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(2)(a)(ii)](https://www.legislation.gov.uk/asp/2014/18/section/99/2/a/ii), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
 [^c20843051]: Textual amendment: Words in s. 1(1) repealed (10.1.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 94(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/94/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/413/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-80ef57b88f538b1cbf82f95386515610]: Textual amendment: [S. 1(1A)](https://www.legislation.gov.uk/ukpga/1980/55/section/1/1A) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(2)(b)](https://www.legislation.gov.uk/asp/2014/18/section/99/2/b), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-80ef57b88f538b1cbf82f95386515610]: Textual amendment: [S. 1(1A)](https://www.legislation.gov.uk/ukpga/1980/55/section/1/1A) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(2)(b)](https://www.legislation.gov.uk/asp/2014/18/section/99/2/b), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
 [^c20843111]: Textual amendment: S. 1(1A) inserted (10.1.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 94(3)](https://www.legislation.gov.uk/asp/2010/13/section/94/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/413/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-9615efaf54e9faa145a9033057a33724]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/1980/55/section/1/2) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(2)(b)](https://www.legislation.gov.uk/asp/2014/18/section/99/2/b), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-9615efaf54e9faa145a9033057a33724]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/1980/55/section/1/2) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(2)(b)](https://www.legislation.gov.uk/asp/2014/18/section/99/2/b), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-44bd98d3017819f0bd9fdbf080c2b50d]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1980/55/section/1/3) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(2)(b)](https://www.legislation.gov.uk/asp/2014/18/section/99/2/b), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-44bd98d3017819f0bd9fdbf080c2b50d]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1980/55/section/1/3) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(2)(b)](https://www.legislation.gov.uk/asp/2014/18/section/99/2/b), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
 [^c10856841]: Marginal citation: [1825 c. 22](https://www.legislation.gov.uk/ukpga/1825/22).
 
-[^key-ff615b4e2221a7979b9bb8f7e7adbd1a]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/ukpga/1980/55/section/1/5) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(2)(c)](https://www.legislation.gov.uk/asp/2014/18/section/99/2/c), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-ff615b4e2221a7979b9bb8f7e7adbd1a]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/ukpga/1980/55/section/1/5) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(2)(c)](https://www.legislation.gov.uk/asp/2014/18/section/99/2/c), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
 [^c20843201]: Textual amendment: Words in s. 1(5) inserted (10.1.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 95(2)(d)](https://www.legislation.gov.uk/asp/2010/13/section/95/2/d), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/413/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
@@ -745,17 +745,17 @@ Section 28(1).
 
 [^c20843281]: Textual amendment: S. 1A inserted (10.1.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 95(3)](https://www.legislation.gov.uk/asp/2010/13/section/95/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/413/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-c57a0d2006e12ce23741c819256e2e53]: Textual amendment: S. 1A title substituted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(3)(c)](https://www.legislation.gov.uk/asp/2014/18/section/99/3/c), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-c57a0d2006e12ce23741c819256e2e53]: Textual amendment: S. 1A title substituted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(3)(c)](https://www.legislation.gov.uk/asp/2014/18/section/99/3/c), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-c83886a7b1ee6000d573aae94469bba4]: Textual amendment: Words in s. 1A(1) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(3)(a)](https://www.legislation.gov.uk/asp/2014/18/section/99/3/a), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-c83886a7b1ee6000d573aae94469bba4]: Textual amendment: Words in s. 1A(1) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(3)(a)](https://www.legislation.gov.uk/asp/2014/18/section/99/3/a), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-46b9c4e92ece4ad4c4d4f969127fc163]: Textual amendment: Words in s. 1A(2) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(3)(a)](https://www.legislation.gov.uk/asp/2014/18/section/99/3/a), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-46b9c4e92ece4ad4c4d4f969127fc163]: Textual amendment: Words in s. 1A(2) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(3)(a)](https://www.legislation.gov.uk/asp/2014/18/section/99/3/a), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-388103dc0ec9c64226277b1b43264637]: Textual amendment: Word in s. 1A(3) substituted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(3)(b)](https://www.legislation.gov.uk/asp/2014/18/section/99/3/b), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-388103dc0ec9c64226277b1b43264637]: Textual amendment: Word in s. 1A(3) substituted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(3)(b)](https://www.legislation.gov.uk/asp/2014/18/section/99/3/b), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-cb0372645e9e24facf1129372c79d32a]: Textual amendment: Words in s. 1A(3) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(3)(a)](https://www.legislation.gov.uk/asp/2014/18/section/99/3/a), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-cb0372645e9e24facf1129372c79d32a]: Textual amendment: Words in s. 1A(3) repealed (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(3)(a)](https://www.legislation.gov.uk/asp/2014/18/section/99/3/a), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-2936d6d7d1d3027fbc9aea7931b9064b]: Textual amendment: [S. 2(2)(aa)](https://www.legislation.gov.uk/ukpga/1980/55/section/2/2/aa) inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 19(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/19/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-2936d6d7d1d3027fbc9aea7931b9064b]: Textual amendment: [S. 2(2)(aa)](https://www.legislation.gov.uk/ukpga/1980/55/section/2/2/aa) inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 19(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/19/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
 [^c10856881]: Textual amendment: S. 2(2)(*b*) repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/I) Group 4
 
@@ -791,7 +791,7 @@ Section 28(1).
 
 [^c10857061]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. Pt. I](https://www.legislation.gov.uk/ukpga/1989/43/schedule/part/I) Gp. 3
 
-[^key-d8a62a32e893cb3f9ae8fd96d42dfb39]: Textual amendment: [S. 11(1A)](https://www.legislation.gov.uk/ukpga/1980/55/section/11/1A) inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 19(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/19/3); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-d8a62a32e893cb3f9ae8fd96d42dfb39]: Textual amendment: [S. 11(1A)](https://www.legislation.gov.uk/ukpga/1980/55/section/11/1A) inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 5 para. 19(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/19/3); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
 [^c10857071]: Textual amendment: Ss. 11(2), 28(2), Sch. 3 repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/I) Gp. 3
 
@@ -825,7 +825,7 @@ Section 28(1).
 
 [^c10857271]: Marginal citation: [S.I](https://www.legislation.gov.uk/ukpga/1980/55/section/I). [1965 No. 321](https://www.legislation.gov.uk/ukcm/1965/321).
 
-[^key-f7602b4115d88e62e2bca3ed7ae67bb8]: Textual amendment: S. 19 repealed (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2016/387/schedule/2/paragraph/1)
+[^c-f7602b4115d88e62e2bca3ed7ae67bb8]: Textual amendment: S. 19 repealed (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2016/387/schedule/2/paragraph/1)
 
 [^c20842861]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/1980/55/section/21) repealed (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [ss. 149](https://www.legislation.gov.uk/asp/2005/16/section/149), [150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
@@ -859,23 +859,23 @@ Section 28(1).
 
 [^c20842921]: Textual amendment: Sch. 1 Pt. I Group A para. (a) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/40/4), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 34](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/34); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-df87e983ce3ee0ee9aca4a0f09c38db8]: Textual amendment: Sch. 1 Pt. I Group A para. (ca) inserted (1.4.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.S.I. 2016/142)](https://www.legislation.gov.uk/ssi/2016/142), [art. 1](https://www.legislation.gov.uk/ssi/2016/142/article/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2016/142/schedule/paragraph/1)
+[^c-df87e983ce3ee0ee9aca4a0f09c38db8]: Textual amendment: Sch. 1 Pt. I Group A para. (ca) inserted (1.4.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions) Order 2016 (S.S.I. 2016/142)](https://www.legislation.gov.uk/ssi/2016/142), [art. 1](https://www.legislation.gov.uk/ssi/2016/142/article/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2016/142/schedule/paragraph/1)
 
-[^key-3038d3ababf78ddc69c6d4b0863650bb]: Textual amendment: Sch. 1 Pt. I Group B para. (fa) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 5(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/5/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-3038d3ababf78ddc69c6d4b0863650bb]: Textual amendment: Sch. 1 Pt. I Group B para. (fa) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 5(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/5/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-5dc9478ed648eb485d56c15d86715a48]: Textual amendment: Sch. 1 Pt. I Group B para. (i) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 5(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/5/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-5dc9478ed648eb485d56c15d86715a48]: Textual amendment: Sch. 1 Pt. I Group B para. (i) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 5(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/5/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-938648bb8561d85f1791e8eeb97b1bfd]: Textual amendment: Sch. 1 Pt. I Group B para. (n) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 5(c)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/5/c); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-938648bb8561d85f1791e8eeb97b1bfd]: Textual amendment: Sch. 1 Pt. I Group B para. (n) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 5(c)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/5/c); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c10857741]: Textual amendment: Sch. 1 Pt. I Group B paras. (na)(nb) inserted (23.7.1999 for specified purposes and otherwise 1.4.1998) by [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50), [s. 134(1)](https://www.legislation.gov.uk/ukpga/1997/50/section/134/1), [Sch. 9 para. 41](https://www.legislation.gov.uk/ukpga/1997/50/schedule/9/paragraph/41); [S.I. 1997/1377](https://www.legislation.gov.uk/uksi/1997/1377), [art. 4(2)(p)](https://www.legislation.gov.uk/uksi/1997/1377/article/4/2/p); [S.I. 1998/354](https://www.legislation.gov.uk/uksi/1998/354), [art. 2(ay)(bb)](https://www.legislation.gov.uk/uksi/1998/354/article/2/ay/bb)
 
-[^key-ea7b546935c10884c22e2cbb13ca696a]: Textual amendment: Sch. 1 Pt. I Group B para. (nc) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 27](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/27); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-ea7b546935c10884c22e2cbb13ca696a]: Textual amendment: Sch. 1 Pt. I Group B para. (nc) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 27](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/27); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-3eacbb6440fba471df2d27d5e3ff9e7b]: Textual amendment: Words in Sch. 1 Pt. I Group B para. (o) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/1/a)
+[^c-3eacbb6440fba471df2d27d5e3ff9e7b]: Textual amendment: Words in Sch. 1 Pt. I Group B para. (o) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/1/a)
 
-[^key-25d931c194c8ffd88abc0bb144b1d93f]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1980/55/schedule/1/part/I) repealed (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 13(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/13/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-25d931c194c8ffd88abc0bb144b1d93f]: Textual amendment: Words in [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1980/55/schedule/1/part/I) repealed (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 13(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/13/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
 
-[^key-276719e099177dbe6bb45a27e60524c3]: Textual amendment: Sch. 1. Pt. I Group B para. (oa) inserted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/1/b)
+[^c-276719e099177dbe6bb45a27e60524c3]: Textual amendment: Sch. 1. Pt. I Group B para. (oa) inserted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/1/b)
 
 [^c10857751]: Textual amendment: Sch. 1 Pt. I Group B para. (oo) inserted (3.2.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(2)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/2), [Sch. 10 para. 45](https://www.legislation.gov.uk/ukpga/1994/33/schedule/10/paragraph/45); [S.I. 1995/127](https://www.legislation.gov.uk/uksi/1995/127), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/127/article/2/1) Appendix B
 
@@ -885,7 +885,7 @@ Section 28(1).
 
 [^c10857781]: Textual amendment: Sch. 1 Pt. I Group B para. (v) repealed (1.10.1993) by [1993 c. 9](https://www.legislation.gov.uk/ukpga/1993/9), [s. 47(3)](https://www.legislation.gov.uk/ukpga/1993/9/section/47/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1993/9/schedule/7/part/I); [S.I. 1993/2050](https://www.legislation.gov.uk/uksi/1993/2050), [art. 3(4)](https://www.legislation.gov.uk/uksi/1993/2050/article/3/4).
 
-[^key-e2a29aea53fd957cabad0cd963e56440]: Textual amendment: Sch. 1 Pt. I Group B para. (wza) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 5(d)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/5/d); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-e2a29aea53fd957cabad0cd963e56440]: Textual amendment: Sch. 1 Pt. I Group B para. (wza) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 5(d)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/5/d); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c10857791]: Textual amendment: Sch. 1 Pt. I Group B para. (wa) inserted (1.1.1998) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 62(1)](https://www.legislation.gov.uk/ukpga/1997/48/section/62/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/7); [S.I. 1997/3004](https://www.legislation.gov.uk/uksi/1997/3004), [art. 2](https://www.legislation.gov.uk/uksi/1997/3004/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/3004/schedule)
 
@@ -901,7 +901,7 @@ Section 28(1).
 
 [^c10857881]: Textual amendment: Words substituted by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [ss. 123(6)](https://www.legislation.gov.uk/ukpga/1988/33/section/123/6), [124](https://www.legislation.gov.uk/ukpga/1988/33/section/124), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/1988/33/schedule/9/paragraph/4)
 
-[^key-f62c775c8459bbab65c7cf1c0fcc7bf1]: Textual amendment: Word in Sch. 1 Pt. 2 para. (b) substituted (30.11.2020) by [The Management of Offenders (Scotland) Act 2019 (Consequential Amendments) Regulations 2020 (S.S.I. 2020/311)](https://www.legislation.gov.uk/ssi/2020/311), [regs. 1](https://www.legislation.gov.uk/ssi/2020/311/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/311/regulation/2/2)
+[^c-f62c775c8459bbab65c7cf1c0fcc7bf1]: Textual amendment: Word in Sch. 1 Pt. 2 para. (b) substituted (30.11.2020) by [The Management of Offenders (Scotland) Act 2019 (Consequential Amendments) Regulations 2020 (S.S.I. 2020/311)](https://www.legislation.gov.uk/ssi/2020/311), [regs. 1](https://www.legislation.gov.uk/ssi/2020/311/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/311/regulation/2/2)
 
 [^c10857891]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
@@ -913,9 +913,9 @@ Section 28(1).
 
 [^c20841321]: Textual amendment: Sch. 1 Pt. 2 para. (bb)(v)(va) substituted for para. (bb)(v) (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 304](https://www.legislation.gov.uk/ukpga/2003/44/section/304), [336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3), [Sch. 32 para. 31](https://www.legislation.gov.uk/ukpga/2003/44/schedule/32/paragraph/31); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(15)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/15) (with Sch. 2 (as explained by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122) and amended by [S.I. 2007/391](https://www.legislation.gov.uk/uksi/2007/391), [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), [Sch. 26 para. 78](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/78), [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2) , [S.I. 2009/616](https://www.legislation.gov.uk/uksi/2009/616), and [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111)))
 
-[^key-e10d842ca2dcfed6285ef4c3150cc018]: Textual amendment: Words in Sch. 1 Pt. II inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 61](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/61) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e10d842ca2dcfed6285ef4c3150cc018]: Textual amendment: Words in Sch. 1 Pt. II inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 61](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/61) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3c06b2f2ca34484d4e04bd7965b0dac6]: Textual amendment: Word in Sch. 1 Pt. 2 para. (bb) substituted (30.11.2020) by [The Management of Offenders (Scotland) Act 2019 (Consequential Amendments) Regulations 2020 (S.S.I. 2020/311)](https://www.legislation.gov.uk/ssi/2020/311), [regs. 1](https://www.legislation.gov.uk/ssi/2020/311/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/311/regulation/2/3)
+[^c-3c06b2f2ca34484d4e04bd7965b0dac6]: Textual amendment: Word in Sch. 1 Pt. 2 para. (bb) substituted (30.11.2020) by [The Management of Offenders (Scotland) Act 2019 (Consequential Amendments) Regulations 2020 (S.S.I. 2020/311)](https://www.legislation.gov.uk/ssi/2020/311), [regs. 1](https://www.legislation.gov.uk/ssi/2020/311/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/311/regulation/2/3)
 
 [^c10857901]: Textual amendment: Sch. 1 Pt. 2 para. (c) inserted (1.4.1996) by [1996 c. 40](https://www.legislation.gov.uk/ukpga/1996/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1996/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1996/40/section/7/2), [Sch. 4 para. 32(4)(b)](https://www.legislation.gov.uk/ukpga/1996/40/schedule/4/paragraph/32/4/b)
 
@@ -933,13 +933,13 @@ Section 28(1).
 
 [^c10857981]: Textual amendment: Sch. 1 Pt. III Group BB inserted (6.5.1999) by [S.I. 1999/1042](https://www.legislation.gov.uk/uksi/1999/1042), [art. 3](https://www.legislation.gov.uk/uksi/1999/1042/article/3), [Sch. 1 Pt. I para. 9](https://www.legislation.gov.uk/uksi/1999/1042/schedule/1/part/I/paragraph/9)
 
-[^key-046c0257cf0b22566d8dfa3f5fb5fc04]: Textual amendment: Words in Sch. 1 Pt. III substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(5)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/5), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
+[^c-046c0257cf0b22566d8dfa3f5fb5fc04]: Textual amendment: Words in Sch. 1 Pt. III substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 2(5)](https://www.legislation.gov.uk/ukpga/2018/2/section/2/5), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
 
 [^c10858001]: Textual amendment: Sch. 1 Pt. III Group DD inserted (1.4.1996) by [1996 c. 40](https://www.legislation.gov.uk/ukpga/1996/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1996/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1996/40/section/7/2) Sch. 4 para. 32(4)(c)
 
 [^c10858021]: Textual amendment: Sch. 1 Pt. III Group DD inserted (1.4.1996) by [1996 c. 40](https://www.legislation.gov.uk/ukpga/1996/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1996/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1996/40/section/7/2), [Sch. 4 para. 32(4)(c)](https://www.legislation.gov.uk/ukpga/1996/40/schedule/4/paragraph/32/4/c)
 
-[^key-1e9e4e803de31f4da677e1748e924ed5]: Textual amendment: Words in Sch. 1 Pt. III substituted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(4)](https://www.legislation.gov.uk/asp/2014/18/section/99/4), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-1e9e4e803de31f4da677e1748e924ed5]: Textual amendment: Words in Sch. 1 Pt. III substituted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 99(4)](https://www.legislation.gov.uk/asp/2014/18/section/99/4), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
 [^c10858031]: Modification: The text of ss. 2(3), 4, 5, 7–10, 13–16, 17(4), 19, 21, 22(1)(a)(b)(d), 24, Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

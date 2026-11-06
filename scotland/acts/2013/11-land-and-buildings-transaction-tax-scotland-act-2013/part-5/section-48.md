@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Joint buyers[^key-52d8a268da1d7dad8021cdaa0db4c043]
+## 48. Joint buyers[^c-52d8a268da1d7dad8021cdaa0db4c043]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 - (a) if a return is required in relation to the transaction, a single return must be made,
 - (b) the declaration required by section 36(1) or (2)(a) (declaration that return is complete and correct) must be made by all the buyers.
 
-(3A)[^key-ab248cfbf83011f2dad07a59492c66e3] See also section 247 of the Revenue Scotland and Tax Powers Act 2014 (asp 16) (reviews, appeals etc. where joint buyers).
+(3A)[^c-ab248cfbf83011f2dad07a59492c66e3] See also section 247 of the Revenue Scotland and Tax Powers Act 2014 (asp 16) (reviews, appeals etc. where joint buyers).
 
 (4) This section has effect subject to—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52d8a268da1d7dad8021cdaa0db4c043]: Commencement: S. 48 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-52d8a268da1d7dad8021cdaa0db4c043]: Commencement: S. 48 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-ab248cfbf83011f2dad07a59492c66e3]: Textual amendment: [S. 48(3A)](https://www.legislation.gov.uk/asp/2013/11/section/48/3A) inserted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(10)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/10) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-ab248cfbf83011f2dad07a59492c66e3]: Textual amendment: [S. 48(3A)](https://www.legislation.gov.uk/asp/2013/11/section/48/3A) inserted (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(10)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/10) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

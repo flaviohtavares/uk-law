@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3AAB. Conditions for the imposition of electronic monitoring requirements: certain adults released on bail where real prospect of suspended sentence[^key-15fef29746f0a10976692b09b3032df5]
+## 3AAB. Conditions for the imposition of electronic monitoring requirements: certain adults released on bail where real prospect of suspended sentence[^c-15fef29746f0a10976692b09b3032df5]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ is, for the purposes of this section, to be regarded as a summary offence.
 
 ## Annotations
 
-[^key-15fef29746f0a10976692b09b3032df5]: Textual amendment: [S. 3AAB](https://www.legislation.gov.uk/ukpga/1976/63/section/3AAB) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/44/4), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [reg. 2](https://www.legislation.gov.uk/uksi/2026/86/regulation/2)
+[^c-15fef29746f0a10976692b09b3032df5]: Textual amendment: [S. 3AAB](https://www.legislation.gov.uk/ukpga/1976/63/section/3AAB) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/44/4), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [reg. 2](https://www.legislation.gov.uk/uksi/2026/86/regulation/2)

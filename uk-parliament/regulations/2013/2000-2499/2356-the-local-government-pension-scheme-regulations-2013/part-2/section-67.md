@@ -31,8 +31,8 @@ summary: ''
 
 (4) An employer's contribution for any year is the primary percentage for that year of—
 
-- (a) the pensionable pay on which contributions have been paid into the fund by active members in accordance with regulations 9 to 12 and 14 (contributions), except where sub-paragraph (b) or (c) applies[^key-90a81a707dfd769ce0e5bd9d6d360d26]
-- (b) the assumed pensionable pay in respect of members on leave due to sickness or injury on reduced contractual pay or no pay or on child-related leave, and[^key-f53acfd529a3fbb2fa970bd15920772c]
+- (a) the pensionable pay on which contributions have been paid into the fund by active members in accordance with regulations 9 to 12 and 14 (contributions), except where sub-paragraph (b) or (c) applies[^c-90a81a707dfd769ce0e5bd9d6d360d26]
+- (b) the assumed pensionable pay in respect of members on leave due to sickness or injury on reduced contractual pay or no pay or on child-related leave, and[^c-f53acfd529a3fbb2fa970bd15920772c]
 - (c) the lost pensionable pay in respect of members on unpaid leave to which regulation 11(5) applies,
 
 increased or reduced by any secondary rate adjustments specified for that employer for that year in the rates and adjustments certificate.
@@ -43,6 +43,6 @@ increased or reduced by any secondary rate adjustments specified for that employ
 
 ## Annotations
 
-[^key-90a81a707dfd769ce0e5bd9d6d360d26]: Textual amendment: Words in [reg. 67(4)(a)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/67/4/a) substituted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [27(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/27/a)
+[^c-90a81a707dfd769ce0e5bd9d6d360d26]: Textual amendment: Words in [reg. 67(4)(a)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/67/4/a) substituted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [27(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/27/a)
 
-[^key-f53acfd529a3fbb2fa970bd15920772c]: Textual amendment: [Reg. 67(4)(c)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/67/4/c) and word inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [27(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/27/b)
+[^c-f53acfd529a3fbb2fa970bd15920772c]: Textual amendment: [Reg. 67(4)(c)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/67/4/c) and word inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [27(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/27/b)

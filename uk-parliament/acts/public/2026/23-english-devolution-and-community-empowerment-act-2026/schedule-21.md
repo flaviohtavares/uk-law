@@ -22,7 +22,7 @@ summary: ''
 
 Section 40
 
-**1.**[^key-6dc3fc4d1a3cd00b055f2bbb7879fc0b] (1) Part 4 of LDEDCA 2009 (local authority economic assessments) is amended in accordance with this Schedule.
+**1.**[^c-6dc3fc4d1a3cd00b055f2bbb7879fc0b] (1) Part 4 of LDEDCA 2009 (local authority economic assessments) is amended in accordance with this Schedule.
 
 (2) In the heading of Part 4, after “local authority” insert “and strategic authority”.
 
@@ -80,4 +80,4 @@ Section 40
 
 ## Annotations
 
-[^key-6dc3fc4d1a3cd00b055f2bbb7879fc0b]: Commencement: Sch. 21 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-6dc3fc4d1a3cd00b055f2bbb7879fc0b]: Commencement: Sch. 21 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

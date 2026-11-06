@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Two-person Panels[^key-ab4e510347f65c497a9315d98ab87cdd]
+## 27. Two-person Panels[^c-ab4e510347f65c497a9315d98ab87cdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab4e510347f65c497a9315d98ab87cdd]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2015/7/section/27) in force at 5.4.2017 by [S.I. 2017/315](https://www.legislation.gov.uk/uksi/2017/315), [reg. 2](https://www.legislation.gov.uk/uksi/2017/315/regulation/2)
+[^c-ab4e510347f65c497a9315d98ab87cdd]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2015/7/section/27) in force at 5.4.2017 by [S.I. 2017/315](https://www.legislation.gov.uk/uksi/2017/315), [reg. 2](https://www.legislation.gov.uk/uksi/2017/315/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15B. Loans and credit arrangements[^key-259b078ee073881bbd9447845e718ca6]
+## 15B. Loans and credit arrangements[^c-259b078ee073881bbd9447845e718ca6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) A person who contravenes a prohibition in paragraph (1) or (2) commits an offence.
 
-(5)[^key-951c3c752547815a5ca83cd14697620d] In this regulation—
+(5)[^c-951c3c752547815a5ca83cd14697620d] In this regulation—
 
 - “**category A loan**” means a loan or credit which—
   - (a) has a maturity exceeding 90 days,
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-259b078ee073881bbd9447845e718ca6]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/2) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2021/1146/regulation/8)
+[^c-259b078ee073881bbd9447845e718ca6]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/2) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2021/1146/regulation/8)
 
-[^key-951c3c752547815a5ca83cd14697620d]: Textual amendment: [Reg. 15B(5)](https://www.legislation.gov.uk/uksi/2019/600/regulation/15B/5) substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/748/regulation/12)
+[^c-951c3c752547815a5ca83cd14697620d]: Textual amendment: [Reg. 15B(5)](https://www.legislation.gov.uk/uksi/2019/600/regulation/15B/5) substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/748/regulation/12)

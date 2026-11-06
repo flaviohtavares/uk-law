@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An individual is guilty of an offence if he [^key-ab34774c1ce0bc69aa113267892e0ab9]... agrees with one or more other persons to make or implement, or to cause to be made or implemented, arrangements of the following kind relating to at least two undertakings (A and B).
+(1) An individual is guilty of an offence if he [^c-ab34774c1ce0bc69aa113267892e0ab9]... agrees with one or more other persons to make or implement, or to cause to be made or implemented, arrangements of the following kind relating to at least two undertakings (A and B).
 
 (2) The arrangements must be ones which, if operating as the parties to the agreement intend, would—
 
@@ -44,16 +44,16 @@ summary: ''
 - (a) A but not B may make a bid, or
 - (b) A and B may each make a bid but, in one case or both, only a bid arrived at in accordance with the arrangements.
 
-(6)[^key-5a353373a60de244a4a71f4f8c398a2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-5a353373a60de244a4a71f4f8c398a2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) “**Undertaking**” has the same meaning as in Part 1 of the 1998 Act.
 
-(8)[^key-25ad0d59ec804597eaaefe7473ae4cf3] This section is subject to section 188A.
+(8)[^c-25ad0d59ec804597eaaefe7473ae4cf3] This section is subject to section 188A.
 
 ## Annotations
 
-[^key-ab34774c1ce0bc69aa113267892e0ab9]: Textual amendment: Word in s. 188(1) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 47(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/2), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 47(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/8)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-ab34774c1ce0bc69aa113267892e0ab9]: Textual amendment: Word in s. 188(1) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 47(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/2), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 47(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/8)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-5a353373a60de244a4a71f4f8c398a2f]: Textual amendment: S. 188(6) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 47(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/3), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 47(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/8)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-5a353373a60de244a4a71f4f8c398a2f]: Textual amendment: S. 188(6) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 47(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/3), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 47(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/8)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-25ad0d59ec804597eaaefe7473ae4cf3]: Textual amendment: S. 188(8) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 47(4)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/4), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 47(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/8)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-25ad0d59ec804597eaaefe7473ae4cf3]: Textual amendment: S. 188(8) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 47(4)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/4), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 47(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/8)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

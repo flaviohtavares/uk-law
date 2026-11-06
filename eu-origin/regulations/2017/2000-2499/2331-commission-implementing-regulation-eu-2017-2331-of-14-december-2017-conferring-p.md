@@ -33,14 +33,14 @@ of 14 December 2017
 
 conferring protection under Article 99 of Regulation (EU) No 1308/2013 of the European Parliament and of the Council on the name ‘La Clape’ (PDO) (revoked)
 
-[^key-0317f8a773a5b96cb350d746f14e61b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0317f8a773a5b96cb350d746f14e61b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-0317f8a773a5b96cb350d746f14e61b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0317f8a773a5b96cb350d746f14e61b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0317f8a773a5b96cb350d746f14e61b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0317f8a773a5b96cb350d746f14e61b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0317f8a773a5b96cb350d746f14e61b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0317f8a773a5b96cb350d746f14e61b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0317f8a773a5b96cb350d746f14e61b0]: Textual amendment: Regulation revoked (31.12.2020) by The Common Organisation of the Markets in [Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [116(e)](https://www.legislation.gov.uk/uksi/2019/821/regulation/116/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0317f8a773a5b96cb350d746f14e61b0]: Textual amendment: Regulation revoked (31.12.2020) by The Common Organisation of the Markets in [Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [116(e)](https://www.legislation.gov.uk/uksi/2019/821/regulation/116/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

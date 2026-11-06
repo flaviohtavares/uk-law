@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159A. Play using the results of successful freeplay[^key-16c31df363c4b62c0f45b18c2adcac19]
+## 159A. Play using the results of successful freeplay[^c-16c31df363c4b62c0f45b18c2adcac19]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16c31df363c4b62c0f45b18c2adcac19]: Textual amendment: [S. 159A](https://www.legislation.gov.uk/ukpga/2014/26/section/159A) inserted (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/3)
+[^c-16c31df363c4b62c0f45b18c2adcac19]: Textual amendment: [S. 159A](https://www.legislation.gov.uk/ukpga/2014/26/section/159A) inserted (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/3)

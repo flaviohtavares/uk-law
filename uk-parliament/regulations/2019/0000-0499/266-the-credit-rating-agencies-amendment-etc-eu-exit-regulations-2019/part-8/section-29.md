@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Application of regulation 28[^key-bbb0d51989541a64deb8231de2d1612c]
+## 29. Application of regulation 28[^c-bbb0d51989541a64deb8231de2d1612c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 28 applies to a person—
 
 ## Annotations
 
-[^key-bbb0d51989541a64deb8231de2d1612c]: Commencement: Reg. 29 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-bbb0d51989541a64deb8231de2d1612c]: Commencement: Reg. 29 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)

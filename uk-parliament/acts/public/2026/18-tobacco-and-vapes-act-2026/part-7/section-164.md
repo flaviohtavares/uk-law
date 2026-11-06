@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Power to prohibit vaping etc on ships[^key-03c345baa13df891b1cc80e896c287bd]
+## 164. Power to prohibit vaping etc on ships[^c-03c345baa13df891b1cc80e896c287bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03c345baa13df891b1cc80e896c287bd]: Commencement: S. 164 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)
+[^c-03c345baa13df891b1cc80e896c287bd]: Commencement: S. 164 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)

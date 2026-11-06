@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Transfer of functions etc.[^key-abf6ccaa50b4f661049fce1863157091]
+## 41. Transfer of functions etc.[^c-abf6ccaa50b4f661049fce1863157091]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abf6ccaa50b4f661049fce1863157091]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2002/26/section/41) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 12](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/12)
+[^c-abf6ccaa50b4f661049fce1863157091]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2002/26/section/41) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 12](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/12)
 
 [^c20690171]: Modification: [S. 41(2)](https://www.legislation.gov.uk/ukpga/2002/26/section/41/2) extended (20.11.2003) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 334(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/334/4), [336(1)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/1)

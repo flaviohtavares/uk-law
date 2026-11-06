@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 204. Hearings without notice[^key-676f4e3ac24f82c97c69e5dd992a09bb]
+## 204. Hearings without notice[^c-676f4e3ac24f82c97c69e5dd992a09bb]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ but nothing in those provisions is to be taken as prohibiting the applicant from
 
 ## Annotations
 
-[^key-676f4e3ac24f82c97c69e5dd992a09bb]: Commencement: [Rule 204](https://www.legislation.gov.uk/nisr/2026/11/rule/204) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-676f4e3ac24f82c97c69e5dd992a09bb]: Commencement: [Rule 204](https://www.legislation.gov.uk/nisr/2026/11/rule/204) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -33,7 +33,7 @@ summary: ''
 
 (3) The Secretary of State shall not exercise his powers under subsection (2) above in the case of any patient except with the approval of the appropriate tribunal[^c20395341] or, as the case may be, of the Mental Health Review Tribunal for Northern Ireland.
 
-(4)[^c19865611] In relation to a patient receiving treatment in a hospital within the meaning of the Mental Health (Northern Ireland) Order 1986, the reference in subsection (1) above to mental disorder shall be construed in accordance with that Order and any reference in subsection (2) or (3) to the Secretary of State shall be construed as a reference to the Department of Justice in Northern Ireland[^key-2cd68b6366e0a9823ba804d4d924013d].
+(4)[^c19865611] In relation to a patient receiving treatment in a hospital within the meaning of the Mental Health (Northern Ireland) Order 1986, the reference in subsection (1) above to mental disorder shall be construed in accordance with that Order and any reference in subsection (2) or (3) to the Secretary of State shall be construed as a reference to the Department of Justice in Northern Ireland[^c-2cd68b6366e0a9823ba804d4d924013d].
 
 ## Annotations
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c19865611]: Textual amendment: S. 86(4) inserted (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 1](https://www.legislation.gov.uk/ukpga/2007/12/section/1), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/ukpga/2007/12/schedule/1/paragraph/15/3) (with [Sch. 10](https://www.legislation.gov.uk/ukpga/2007/12/schedule/10)); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/a), (with art. 3, Sch.)
 
-[^key-2cd68b6366e0a9823ba804d4d924013d]: Textual amendment: Words in [s. 86(4)](https://www.legislation.gov.uk/ukpga/1983/20/section/86/4) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 28(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/28/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-2cd68b6366e0a9823ba804d4d924013d]: Textual amendment: Words in [s. 86(4)](https://www.legislation.gov.uk/ukpga/1983/20/section/86/4) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 28(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/28/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

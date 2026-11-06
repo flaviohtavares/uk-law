@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Education (Fees and Awards) (Scotland) Amendment Regulations 2010 (revoked)[^key-7542b5f178e79564b63c30ed6e4ba4f6]
+The Education (Fees and Awards) (Scotland) Amendment Regulations 2010 (revoked)[^c-7542b5f178e79564b63c30ed6e4ba4f6]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 7th October 2010
 
-[^key-7542b5f178e79564b63c30ed6e4ba4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7542b5f178e79564b63c30ed6e4ba4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7542b5f178e79564b63c30ed6e4ba4f6]
+## 1. Citation and commencement[^c-7542b5f178e79564b63c30ed6e4ba4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Fees and Awards) (Scotland) Regulations 2007[^key-7542b5f178e79564b63c30ed6e4ba4f6]
+## 2. Amendment of the Education (Fees and Awards) (Scotland) Regulations 2007[^c-7542b5f178e79564b63c30ed6e4ba4f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7542b5f178e79564b63c30ed6e4ba4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7542b5f178e79564b63c30ed6e4ba4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7542b5f178e79564b63c30ed6e4ba4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7542b5f178e79564b63c30ed6e4ba4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7542b5f178e79564b63c30ed6e4ba4f6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/325) revoked (1.8.2025) by [The Education (Fees and Student Support) (Miscellaneous Amendment and Revocation) (Scotland) Regulations 2025 (S.S.I. 2025/136)](https://www.legislation.gov.uk/ssi/2025/136), [reg. 1](https://www.legislation.gov.uk/ssi/2025/136/regulation/1), [sch. para. 5](https://www.legislation.gov.uk/ssi/2025/136/schedule/paragraph/5)
+[^c-7542b5f178e79564b63c30ed6e4ba4f6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/325) revoked (1.8.2025) by [The Education (Fees and Student Support) (Miscellaneous Amendment and Revocation) (Scotland) Regulations 2025 (S.S.I. 2025/136)](https://www.legislation.gov.uk/ssi/2025/136), [reg. 1](https://www.legislation.gov.uk/ssi/2025/136/regulation/1), [sch. para. 5](https://www.legislation.gov.uk/ssi/2025/136/schedule/paragraph/5)

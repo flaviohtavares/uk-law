@@ -26,9 +26,9 @@ summary: ''
 - (b) the Welsh Ministers, where the regulations are made by the Welsh Ministers;
 - (c) the Scottish Ministers, where the regulations are made by the Scottish Ministers.
 
-(2) Regulations under section 153 or 154 may impose duties on a public authority that is a contracting authority within the meaning of the public procurement legislation[^key-9c0eade4ca39f46368c536cc46bb9600] in connection with its public procurement functions.
+(2) Regulations under section 153 or 154 may impose duties on a public authority that is a contracting authority within the meaning of the public procurement legislation[^c-9c0eade4ca39f46368c536cc46bb9600] in connection with its public procurement functions.
 
-(3)[^key-7f144b1a553fcac1210b8017345f241f] In this section—
+(3)[^c-7f144b1a553fcac1210b8017345f241f] In this section—
 
 - “**concession contract**” has the same meaning as in the Procurement Act 2023 (see section 8 of that Act);
 - “**covered procurement**” has the same meaning as in the Procurement Act 2023 (see section 1 of that Act);
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c0eade4ca39f46368c536cc46bb9600]: Textual amendment: Words in [s. 155(2)](https://www.legislation.gov.uk/ukpga/2010/15/section/155/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/6/2/a)
+[^c-9c0eade4ca39f46368c536cc46bb9600]: Textual amendment: Words in [s. 155(2)](https://www.legislation.gov.uk/ukpga/2010/15/section/155/2) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/6/2/a)
 
-[^key-7f144b1a553fcac1210b8017345f241f]: Textual amendment: [S. 155(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/155/3) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/6/2/b)
+[^c-7f144b1a553fcac1210b8017345f241f]: Textual amendment: [S. 155(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/155/3) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/6/2/b)

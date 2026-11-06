@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 162. Role of IQMP in determinations by the scheme manager[^key-992c9b87828e0e5f689f1601fe276903]
+## 162. Role of IQMP in determinations by the scheme manager[^c-992c9b87828e0e5f689f1601fe276903]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) The scheme manager must request an IQMP to provide an opinion on the following issues for the purpose of determining any question arising under this scheme—
 
 - (a) whether a person is incapable of performing any duties of the role in which that person was last employed because of incapacity of mind or body;
-- (b) whether the incapacity in sub-paragraph (a) above is likely to continue until normal pension age , deferred pension age or where regulation 74(2B) (entitlement to lower tier ill-health pension and higher tier ill-health pension) applies such other age as specified by the scheme manager,[^key-81045ac8b014ecfd56193eb167ecd5d7] as the case may be;
+- (b) whether the incapacity in sub-paragraph (a) above is likely to continue until normal pension age , deferred pension age or where regulation 74(2B) (entitlement to lower tier ill-health pension and higher tier ill-health pension) applies such other age as specified by the scheme manager,[^c-81045ac8b014ecfd56193eb167ecd5d7] as the case may be;
 - (c) whether a person has become capable of performing any duties of the role from which that person retired on grounds of ill-health;
 - (d) whether a person is or has become capable of undertaking regular employment; or
 - (e) any other issue wholly or partly of a medical nature.
@@ -55,6 +55,6 @@ the scheme manager may make a determination on the issue on such other medical e
 
 ## Annotations
 
-[^key-992c9b87828e0e5f689f1601fe276903]: Commencement: Reg. 162 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-992c9b87828e0e5f689f1601fe276903]: Commencement: Reg. 162 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-81045ac8b014ecfd56193eb167ecd5d7]: Textual amendment: Words in [reg. 162(2)(b)](https://www.legislation.gov.uk/wsi/2015/622/regulation/162/2/b) substituted (30.3.2022) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2022 (S.I. 2022/343)](https://www.legislation.gov.uk/wsi/2022/343), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/343/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2022/343/regulation/5/2)
+[^c-81045ac8b014ecfd56193eb167ecd5d7]: Textual amendment: Words in [reg. 162(2)(b)](https://www.legislation.gov.uk/wsi/2015/622/regulation/162/2/b) substituted (30.3.2022) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2022 (S.I. 2022/343)](https://www.legislation.gov.uk/wsi/2022/343), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/343/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2022/343/regulation/5/2)

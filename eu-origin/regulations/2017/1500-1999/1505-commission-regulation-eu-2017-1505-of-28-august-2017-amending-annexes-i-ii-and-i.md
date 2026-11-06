@@ -35,20 +35,20 @@ amending Annexes I, II and III to Regulation (EC) No 1221/2009 of the European P
 
 (Text with EEA relevance) (revoked)
 
-[^key-d8c19efc6e2deccbb59b8d49a62429ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8c19efc6e2deccbb59b8d49a62429ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d8c19efc6e2deccbb59b8d49a62429ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d8c19efc6e2deccbb59b8d49a62429ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d8c19efc6e2deccbb59b8d49a62429ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d8c19efc6e2deccbb59b8d49a62429ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d8c19efc6e2deccbb59b8d49a62429ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d8c19efc6e2deccbb59b8d49a62429ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d8c19efc6e2deccbb59b8d49a62429ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d8c19efc6e2deccbb59b8d49a62429ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-d8c19efc6e2deccbb59b8d49a62429ac]
+## ANNEX[^c-d8c19efc6e2deccbb59b8d49a62429ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d8c19efc6e2deccbb59b8d49a62429ac]: Textual amendment: Regulation revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8c19efc6e2deccbb59b8d49a62429ac]: Textual amendment: Regulation revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

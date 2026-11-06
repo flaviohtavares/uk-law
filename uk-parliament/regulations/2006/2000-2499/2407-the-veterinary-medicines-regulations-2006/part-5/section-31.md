@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Time limits[^key-2155a94271f3b292439fa43fd7c76dcd]
+## 31. Time limits[^c-2155a94271f3b292439fa43fd7c76dcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2155a94271f3b292439fa43fd7c76dcd]: Commencement: Reg. 31 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-2155a94271f3b292439fa43fd7c76dcd]: Commencement: Reg. 31 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

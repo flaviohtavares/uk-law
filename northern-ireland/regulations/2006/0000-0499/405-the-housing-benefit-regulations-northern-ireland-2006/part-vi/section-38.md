@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Capital treated as income[^key-1b67dad293ecd9dc416226883e7fbfff]
+## 38. Capital treated as income[^c-1b67dad293ecd9dc416226883e7fbfff]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b67dad293ecd9dc416226883e7fbfff]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2006/405/regulation/38) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-1b67dad293ecd9dc416226883e7fbfff]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2006/405/regulation/38) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

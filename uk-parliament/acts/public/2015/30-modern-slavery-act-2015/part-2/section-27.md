@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Variation, renewal and discharge[^key-bca23290a9aeea91f893e4b286a7a4ec]
+## 27. Variation, renewal and discharge[^c-bca23290a9aeea91f893e4b286a7a4ec]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 - (d) where the order was made on an application by a chief officer of police, that officer;
 - (e) where the order was made on an application by an immigration officer, an immigration officer;
 - (f) where the order was made on an application by the Director General of the National Crime Agency (“the Director General”), the Director General;
-- (g)[^key-5d29edc0fca2f4c783b88f8300a10746] where the order was made on an application by the Secretary of State, the Secretary of State[^key-f84a695f736301ce278c8735f6f3c1cc].
+- (g)[^c-5d29edc0fca2f4c783b88f8300a10746] where the order was made on an application by the Secretary of State, the Secretary of State[^c-f84a695f736301ce278c8735f6f3c1cc].
 
 (3) On the application the court, after hearing—
 
@@ -54,7 +54,7 @@ may make any order varying, renewing or discharging the slavery and trafficking 
 - (a) the defendant and the chief officer of police for the area in which the defendant lives, or
 - (b) where the application is made by a chief officer of police, the defendant and that chief officer.
 
-(7) Where an immigration officer , the Director General or the[^key-6aed968a5c5a4b1a79a1285765cd9352] Secretary of State[^key-945ca601deecfc8ca57d0bb1a76c88e3] makes an application under this section, the officer , the Director General or[^key-a18747fc85433b440505129f9a9b8e06] the Secretary of State[^key-68ad45e2739c315d9570ef1adc69e0bb] must give notice of the application to the chief officer of police for—
+(7) Where an immigration officer , the Director General or the[^c-6aed968a5c5a4b1a79a1285765cd9352] Secretary of State[^c-945ca601deecfc8ca57d0bb1a76c88e3] makes an application under this section, the officer , the Director General or[^c-a18747fc85433b440505129f9a9b8e06] the Secretary of State[^c-68ad45e2739c315d9570ef1adc69e0bb] must give notice of the application to the chief officer of police for—
 
 - (a) the police area where the defendant lives, or
 - (b) a police area which the immigration officer , the Director General or the Secretary of State believes the defendant is in or is intending to come to.
@@ -75,16 +75,16 @@ may make any order varying, renewing or discharging the slavery and trafficking 
 
 ## Annotations
 
-[^key-bca23290a9aeea91f893e4b286a7a4ec]: Commencement: S. 27 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)
+[^c-bca23290a9aeea91f893e4b286a7a4ec]: Commencement: S. 27 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)
 
-[^key-5d29edc0fca2f4c783b88f8300a10746]: Textual amendment: S. 27(2)(g) inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/2/paragraph/15/2); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/t)
+[^c-5d29edc0fca2f4c783b88f8300a10746]: Textual amendment: S. 27(2)(g) inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/2/paragraph/15/2); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/t)
 
-[^key-f84a695f736301ce278c8735f6f3c1cc]: Textual amendment: Words in [s. 27(2)(g)](https://www.legislation.gov.uk/ukpga/2015/30/section/27/2/g) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 53(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/53/2) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-f84a695f736301ce278c8735f6f3c1cc]: Textual amendment: Words in [s. 27(2)(g)](https://www.legislation.gov.uk/ukpga/2015/30/section/27/2/g) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 53(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/53/2) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
 
-[^key-6aed968a5c5a4b1a79a1285765cd9352]: Textual amendment: Words in s. 27(7) substituted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 2 para. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/2/paragraph/15/3/a); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/t)
+[^c-6aed968a5c5a4b1a79a1285765cd9352]: Textual amendment: Words in s. 27(7) substituted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 2 para. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/2/paragraph/15/3/a); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/t)
 
-[^key-945ca601deecfc8ca57d0bb1a76c88e3]: Textual amendment: Words in [s. 27(7)](https://www.legislation.gov.uk/ukpga/2015/30/section/27/7) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 53(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/53/3/a) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-945ca601deecfc8ca57d0bb1a76c88e3]: Textual amendment: Words in [s. 27(7)](https://www.legislation.gov.uk/ukpga/2015/30/section/27/7) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 53(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/53/3/a) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
 
-[^key-a18747fc85433b440505129f9a9b8e06]: Textual amendment: Words in s. 27(7) substituted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 2 para. 15(3)(b)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/2/paragraph/15/3/b); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/t)
+[^c-a18747fc85433b440505129f9a9b8e06]: Textual amendment: Words in s. 27(7) substituted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 2 para. 15(3)(b)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/2/paragraph/15/3/b); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(t)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/t)
 
-[^key-68ad45e2739c315d9570ef1adc69e0bb]: Textual amendment: Words in [s. 27(7)](https://www.legislation.gov.uk/ukpga/2015/30/section/27/7) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 53(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/53/3/b) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-68ad45e2739c315d9570ef1adc69e0bb]: Textual amendment: Words in [s. 27(7)](https://www.legislation.gov.uk/ukpga/2015/30/section/27/7) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 53(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/53/3/b) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)

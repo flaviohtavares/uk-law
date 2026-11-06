@@ -24,7 +24,7 @@ summary: ''
 
 FISHING VESSEL DETAILS [^f00035]
 
-United Kingdom[^key-548020aad702b139062502cc324948cd] fleet register number[^f00036]
+United Kingdom[^c-548020aad702b139062502cc324948cd] fleet register number[^f00036]
 
 Name of fishing vessel[^f00037]
 
@@ -62,7 +62,7 @@ OTHER NATIONAL MEASURES AS APPLICABLE
 
 [^f00035]: Footnote: This information shall be indicated on the fishing licence only at the moment when the vessel is registered in the Union fishing fleet register in accordance with the provisions of Commission Regulation (EC) No 26/2004 ([OJ L 5, 9.1.2004, p. 25](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.005.01.0025.01.ENG)).
 
-[^key-548020aad702b139062502cc324948cd]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2011/404/annex/II) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(104)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/104); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-548020aad702b139062502cc324948cd]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2011/404/annex/II) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(104)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/104); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00036]: Footnote: In accordance with Regulation (EC) No 26/2004.
 

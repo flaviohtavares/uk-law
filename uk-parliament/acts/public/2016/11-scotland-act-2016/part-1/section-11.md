@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Super-majority requirement for certain legislation[^key-ee4a9bfeb78dbc04a2773756a263c361]
+## 11. Super-majority requirement for certain legislation[^c-ee4a9bfeb78dbc04a2773756a263c361]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,4 +109,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee4a9bfeb78dbc04a2773756a263c361]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/11/section/11) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/i)
+[^c-ee4a9bfeb78dbc04a2773756a263c361]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/11/section/11) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/i)

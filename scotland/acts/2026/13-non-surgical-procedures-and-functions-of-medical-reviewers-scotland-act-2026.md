@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Meaning of “non-surgical procedure”
 
-#### 1. Meaning of “non-surgical procedure”[^key-6dcbcdef61dcc27ce6f0a13417653b16][^key-b97385a806150d2a956ce0cfeb060aec]
+#### 1. Meaning of “non-surgical procedure”[^c-6dcbcdef61dcc27ce6f0a13417653b16][^c-b97385a806150d2a956ce0cfeb060aec]
 
 (1) In this Part (other than in section 14(5)), a “non-surgical procedure”—
 
@@ -78,7 +78,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Offence of providing a non-surgical procedure to person under 18
 
-#### 2. Offence of providing a non-surgical procedure to person under 18[^key-7ae4b336d05e465b7ea4085bdf98443d]
+#### 2. Offence of providing a non-surgical procedure to person under 18[^c-7ae4b336d05e465b7ea4085bdf98443d]
 
 (1) It is an offence for a person to provide a non-surgical procedure to another person (“**the client**”) who is under the age of 18.
 
@@ -87,7 +87,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) had taken reasonable steps to establish the client’s age before providing the non-surgical procedure, and
 - (b) reasonably believed that the client was aged 18 or over at the time of providing the non-surgical procedure.
 
-(3)[^key-dc0f9021bc0c62165bf71cce276148df] Without limiting the generality of subsection (2)(a), the accused is to be regarded as having taken reasonable steps to establish the client’s age before providing the non-surgical procedure if the accused had taken such steps to establish the client’s age as the Scottish Ministers may by regulations specify.
+(3)[^c-dc0f9021bc0c62165bf71cce276148df] Without limiting the generality of subsection (2)(a), the accused is to be regarded as having taken reasonable steps to establish the client’s age before providing the non-surgical procedure if the accused had taken such steps to establish the client’s age as the Scottish Ministers may by regulations specify.
 
 (4) It is to be regarded as shown that the accused took the reasonable steps mentioned in paragraph (a) of subsection (2), or had the reasonable belief mentioned in paragraph (b) of that subsection, if—
 
@@ -96,7 +96,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Offence of providing a non-surgical procedure outwith permitted premises
 
-#### 3. Offence of providing a non-surgical procedure outwith permitted premises[^key-26593b69e8f14e32794e2d353be18267]
+#### 3. Offence of providing a non-surgical procedure outwith permitted premises[^c-26593b69e8f14e32794e2d353be18267]
 
 **Not yet in force.**
 
@@ -109,7 +109,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) enough evidence is adduced to raise an issue as to whether that is the case, and
 - (b) the prosecution does not prove beyond reasonable doubt that is not the case.
 
-#### 4. Meaning of “permitted premises”[^key-2fec4c90dc4b8c3bb31e82b7a8f21e47]
+#### 4. Meaning of “permitted premises”[^c-2fec4c90dc4b8c3bb31e82b7a8f21e47]
 
 (1) In section 3, “**permitted premises**” means—
 
@@ -130,7 +130,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (d) a registered midwife who is noted in the Nursing and Midwifery Register as being qualified to order drugs, medicines and appliances as a nurse independent prescriber,
 - (e) a pharmacist independent prescriber.
 
-(3)[^key-f281fb80edeabf8c37772a2210f48a22] The Scottish Ministers may by regulations modify this section.
+(3)[^c-f281fb80edeabf8c37772a2210f48a22] The Scottish Ministers may by regulations modify this section.
 
 (4) In this section—
 
@@ -152,7 +152,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Power to make further provision about non-surgical procedures
 
-#### 5. Power to make further provision about non-surgical procedures[^key-a0ada60abeeebd34802aadffc99cebf1][^key-333fe8396720b71da5b0d757311c6c95]
+#### 5. Power to make further provision about non-surgical procedures[^c-a0ada60abeeebd34802aadffc99cebf1][^c-333fe8396720b71da5b0d757311c6c95]
 
 (1) The Scottish Ministers may by regulations impose further restrictions and requirements in relation to the provision of non-surgical procedures.
 
@@ -193,13 +193,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-#### 6. Meaning of “authorised person”[^key-578c4fdb3dff794ec36e374b34114c5c]
+#### 6. Meaning of “authorised person”[^c-578c4fdb3dff794ec36e374b34114c5c]
 
 (1) In this Part, an “authorised person” is a person authorised by HIS to exercise functions conferred on an authorised person by this Part.
 
 (2) An authorised person must, on request, produce a document from HIS which confirms the person is authorised under subsection (1).
 
-#### 7. Powers of entry, search and seizure[^key-b94faf50bce8399af3ded7844130fd11]
+#### 7. Powers of entry, search and seizure[^c-b94faf50bce8399af3ded7844130fd11]
 
 (1) An authorised person may, subject to subsection (8), enter and search any premises for the purpose of ascertaining whether or not an offence under section 2 or 3 has been or is being committed if condition A and condition B are satisfied.
 
@@ -236,7 +236,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (b) vehicle, vessel, trailer, aircraft or hovercraft,
 - (c) tent or other moveable structure.
 
-#### 8. Restrictions on powers of entry, search and seizure[^key-eda669367ce3873465a9f5af6d3e8838]
+#### 8. Restrictions on powers of entry, search and seizure[^c-eda669367ce3873465a9f5af6d3e8838]
 
 (1) A power under section 7(1) may be exercised by an authorised person only at a reasonable time unless it appears to the person that the purpose of exercising the power would be frustrated by exercising it at such a time.
 
@@ -249,7 +249,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Subsection (3) does not apply to perishable things which no longer have any commercial value.
 
-#### 9. Conditions for issue of warrant[^key-acdb1ba58be892c73df3240cb6f4e7db]
+#### 9. Conditions for issue of warrant[^c-acdb1ba58be892c73df3240cb6f4e7db]
 
 (1) A sheriff or justice of the peace may grant a warrant under this section in relation to premises if satisfied—
 
@@ -268,11 +268,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) that the premises are unoccupied, or
 - (b) that the occupier of the premises is temporarily absent.
 
-#### 10. Expiry of warrant[^key-fd7b23479487348915b929efed7a284d]
+#### 10. Expiry of warrant[^c-fd7b23479487348915b929efed7a284d]
 
 A warrant granted under section 9 remains in force until it is no longer required for the purpose for which it is granted.
 
-#### 11. Offence of obstructing an authorised person[^key-b0ae340c6c2390580210105bd0c057c7]
+#### 11. Offence of obstructing an authorised person[^c-b0ae340c6c2390580210105bd0c057c7]
 
 A person commits an offence if the person—
 
@@ -283,14 +283,14 @@ A person commits an offence if the person—
 
 **Not yet in force.**
 
-#### 12. Penalties[^key-73954b0741384ae50b9abee817bd237d]
+#### 12. Penalties[^c-73954b0741384ae50b9abee817bd237d]
 
 A person who commits an offence under section 2, 3 or 11 is liable—
 
 - (a) on summary conviction, to a fine not exceeding £20,000,
 - (b) on conviction on indictment, to a fine.
 
-#### 13. Individual culpability where organisation commits an offence[^key-0aba0f8006680a738a42319f3f03694b]
+#### 13. Individual culpability where organisation commits an offence[^c-0aba0f8006680a738a42319f3f03694b]
 
 (1) This section applies where—
 
@@ -319,7 +319,7 @@ A person who commits an offence under section 2, 3 or 11 is liable—
 
 ### UK internal market: power to establish individual assessment process
 
-#### 14. UK internal market: power to establish individual assessment process[^key-cec9c0198d849d340015ce433147bc98][^key-f4a9dd96e67107623841ead9abe0c3c7]
+#### 14. UK internal market: power to establish individual assessment process[^c-cec9c0198d849d340015ce433147bc98][^c-f4a9dd96e67107623841ead9abe0c3c7]
 
 (1) The Scottish Ministers may by regulations make provision for or in connection with the establishment and administration of one or more processes to which section 26 of the 2020 Act applies under which individuals may apply for approval to provide, or supervise the provision of, in Scotland—
 
@@ -354,13 +354,13 @@ A person who commits an offence under section 2, 3 or 11 is liable—
 
 ### Minor and consequential modifications of the 1978 Act
 
-#### 15. Modifications of the 1978 Act[^key-6d59cc01aff3ed0c473445ce029bb08b][^key-e35e34781cabd553f35fa0ba03400049]
+#### 15. Modifications of the 1978 Act[^c-6d59cc01aff3ed0c473445ce029bb08b][^c-e35e34781cabd553f35fa0ba03400049]
 
 Schedule 2 makes minor and consequential modifications of the 1978 Act in relation to the provision of non-surgical procedures.
 
 ### Interpretation of Part 1
 
-#### 16. Interpretation of Part 1[^key-4aa0442740a4b1b6262cd6eb1a85b8e0]
+#### 16. Interpretation of Part 1[^c-4aa0442740a4b1b6262cd6eb1a85b8e0]
 
 In this Part—
 
@@ -373,7 +373,7 @@ In this Part—
 
 ### Guidance
 
-#### 17. Guidance about the provision of non-surgical procedures[^key-40f388dddb7873109c7ed4455cf5a577][^key-0cbd5c6e4c783deca667d57a8440d406]
+#### 17. Guidance about the provision of non-surgical procedures[^c-40f388dddb7873109c7ed4455cf5a577][^c-0cbd5c6e4c783deca667d57a8440d406]
 
 (1) The Scottish Ministers must issue guidance about the provision of non-surgical procedures.
 
@@ -394,7 +394,7 @@ In this Part—
 
 **Not yet in force.**
 
-#### 18. Review of Part 1[^key-368a57b62aa4487b97375f2bdd804476]
+#### 18. Review of Part 1[^c-368a57b62aa4487b97375f2bdd804476]
 
 (1) The Scottish Ministers must, within the period of 5 years beginning with the day on which section 3 comes into force—
 
@@ -426,7 +426,7 @@ In this Part—
 
 ### Certification of death
 
-#### 19. Application for review of medical certificate of cause of death[^key-c6988ca86bc0d4729f87d6c3c78b8e43][^key-f2b7a268f691d78d2d0da17a1066fa92]
+#### 19. Application for review of medical certificate of cause of death[^c-c6988ca86bc0d4729f87d6c3c78b8e43][^c-f2b7a268f691d78d2d0da17a1066fa92]
 
 (1) The [Certification of Death (Scotland) Act 2011](https://www.legislation.gov.uk/asp/2011/11/contents) is amended as follows.
 
@@ -452,7 +452,7 @@ In this Part—
 
 ### Authorisation of cremation or hydrolysis
 
-#### 20. Deaths outwith the United Kingdom: authorisation of cremation or hydrolysis by medical reviewer[^key-0acecc9ff2c2f42f63251184db4d62b9][^key-d741c0769f72767f0da17fb4b4187754]
+#### 20. Deaths outwith the United Kingdom: authorisation of cremation or hydrolysis by medical reviewer[^c-0acecc9ff2c2f42f63251184db4d62b9][^c-d741c0769f72767f0da17fb4b4187754]
 
 (1) The [Certification of Death (Scotland) Act 2011](https://www.legislation.gov.uk/asp/2011/11/contents) is amended as follows.
 
@@ -464,13 +464,13 @@ In this Part—
 
 ## Part 3 — Final provisions
 
-### 21. Ancillary provision[^key-ba5632f408509dada100956ccee20671]
+### 21. Ancillary provision[^c-ba5632f408509dada100956ccee20671]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
 
 (2) Regulations under this section may modify any enactment (including this Act).
 
-### 22. Regulation-making powers[^key-3cb018762b5652ec3b3fd22d76b32172]
+### 22. Regulation-making powers[^c-3cb018762b5652ec3b3fd22d76b32172]
 
 (1) Any power of the Scottish Ministers to make regulations conferred by this Act includes the power to make different provision for different purposes or areas.
 
@@ -488,7 +488,7 @@ In this Part—
 - (a) the affirmative procedure for the first regulations under that subsection,
 - (b) the negative procedure for subsequent regulations under that subsection.
 
-### 23. Regulations subject to the affirmative procedure: consultation[^key-948de74d4f4dea8f54dd4ff8dec5c631][^key-506f04eab6bb325508fc8257e60c019a]
+### 23. Regulations subject to the affirmative procedure: consultation[^c-948de74d4f4dea8f54dd4ff8dec5c631][^c-506f04eab6bb325508fc8257e60c019a]
 
 The Scottish Ministers must consult such persons, or groups of persons, as they consider appropriate before laying a draft of a Scottish statutory instrument containing—
 
@@ -498,7 +498,7 @@ The Scottish Ministers must consult such persons, or groups of persons, as they 
 - (d) the first regulations under section 14(1),
 - (e) regulations under section 21 which add to, replace or omit any part of the text of an Act.
 
-### 24. Commencement[^key-7afc080e21ec7cea1b507ce43fb880e4]
+### 24. Commencement[^c-7afc080e21ec7cea1b507ce43fb880e4]
 
 (1) This section and sections 16, 21, 22 and 25 come into force on the day after Royal Assent.
 
@@ -508,7 +508,7 @@ The Scottish Ministers must consult such persons, or groups of persons, as they 
 
 (4) Regulations under subsection (2) may not appoint a day that is earlier than 6 September 2027 for the coming into force of section 3.
 
-### 25. Short title[^key-f13e1b81690028fd1a65311c6486797c]
+### 25. Short title[^c-f13e1b81690028fd1a65311c6486797c]
 
 The short title of this Act is the Non-surgical Procedures and Functions of Medical Reviewers (Scotland) Act 2026.
 
@@ -516,66 +516,66 @@ The short title of this Act is the Non-surgical Procedures and Functions of Medi
 
 (introduced by section 1(1)(a)(ii))
 
-### 1. Ablative laser treatment[^key-becd60354233be2d773eac49bb562cb6][^key-45c3ff8e60243ca06d36b42ae36948f3]
+### 1. Ablative laser treatment[^c-becd60354233be2d773eac49bb562cb6][^c-45c3ff8e60243ca06d36b42ae36948f3]
 
 A procedure in which a laser is used to remove one or more layers of skin.
 
-### 2. Chemical peel[^key-8ea6b5c14cb2a19e332a78bb28c9c2f1][^key-620337ebce3bc7a41ac9e7347edce148]
+### 2. Chemical peel[^c-8ea6b5c14cb2a19e332a78bb28c9c2f1][^c-620337ebce3bc7a41ac9e7347edce148]
 
 A procedure—
 
 - (a) in which a chemical is used to remove skins cells in the area of treatment, and
 - (b) which penetrates deeper than the epidermis.
 
-### 3. Dermal microcoring[^key-38a67e1e3b81e17bf6e80823eeaed5bc][^key-3c0caa26ebf2dd15208ce73265596adc]
+### 3. Dermal microcoring[^c-38a67e1e3b81e17bf6e80823eeaed5bc][^c-3c0caa26ebf2dd15208ce73265596adc]
 
 A procedure in which a needle is inserted into skin and is used to remove a small core of skin tissue.
 
-### 4. Injectable procedure[^key-766601f4b353936f8a7a274b5ef910f9][^key-1bf851203f65712c091007a40805dc8c]
+### 4. Injectable procedure[^c-766601f4b353936f8a7a274b5ef910f9][^c-1bf851203f65712c091007a40805dc8c]
 
 A procedure other than tattooing in which a substance is injected (including by means of a microneedle) into or under skin for a cosmetic or wellbeing purpose (or both).
 
-### 5. Intravenous procedure[^key-624f61fe681d98430a998b30c3900630][^key-5548edc4aa93e58084f82e4ea6c4d94a]
+### 5. Intravenous procedure[^c-624f61fe681d98430a998b30c3900630][^c-5548edc4aa93e58084f82e4ea6c4d94a]
 
 A procedure in which a substance is administered intravenously (including by insertion of a microneedle) for a cosmetic or wellbeing purpose (or both).
 
-### 6. Licensed procedure carried out with prescribed anaesthetic[^key-5fc231ae06b087a14bf53afce0ffb2db][^key-6258c3becca5c2b41501cc4c555abe02]
+### 6. Licensed procedure carried out with prescribed anaesthetic[^c-5fc231ae06b087a14bf53afce0ffb2db][^c-6258c3becca5c2b41501cc4c555abe02]
 
 A procedure—
 
 - (a) that is of a kind specified in schedule 1 of the Civic Government (Scotland) Act 1982 (Licensing of Non-surgical Procedures) Order 2026 ([S.S.I. 2026/87](https://www.legislation.gov.uk/ssi/2026/87)), and
 - (b) for which a prescribed anaesthetic is used.
 
-### 7. Licensed procedure carried out on an intimate area (other than non-ablative laser treatment for hair removal)[^key-a33071f5c391cfa3e5ef34444cabd9f4][^key-99c0c0457525f8021854dcc31e3a0fb0]
+### 7. Licensed procedure carried out on an intimate area (other than non-ablative laser treatment for hair removal)[^c-a33071f5c391cfa3e5ef34444cabd9f4][^c-99c0c0457525f8021854dcc31e3a0fb0]
 
 A procedure, other than non-ablative laser treatment for hair removal, that—
 
 - (a) is of a kind specified in schedule 1 of the Civic Government (Scotland) Act 1982 (Licensing of Non-surgical Procedures) Order 2026 ([S.S.I. 2026/87](https://www.legislation.gov.uk/ssi/2026/87)), and
 - (b) is carried out on an intimate area.
 
-### 8. Microneedling[^key-3ce054d0c2b9cb7c200b5a36086857e4][^key-7bc69b87ac675f969d226ca7e44d93a4]
+### 8. Microneedling[^c-3ce054d0c2b9cb7c200b5a36086857e4][^c-7bc69b87ac675f969d226ca7e44d93a4]
 
 A procedure in which one or more microneedles are used to puncture skin multiple times on a single occasion—
 
 - (a) to any depth if one or more microneedles are used to deliver radio frequency electromagnetic radiation, or
 - (b) to a depth of 1.5 millimetres or more in any other case.
 
-**9.**[^key-d76b9efbba0f76c634de399f734b845d][^key-eeb981b9f656be7503ed4e96b0a199b5] But paragraph 8 does not include—
+**9.**[^c-d76b9efbba0f76c634de399f734b845d][^c-eeb981b9f656be7503ed4e96b0a199b5] But paragraph 8 does not include—
 
 - (a) acupuncture, cosmetic body piercing, electrolysis or tattooing, or
 - (b) the use of a microneedle to—
   - (i) inject a substance into or under skin, or
   - (ii) administer a substance intravenously.
 
-### 10. Subcision[^key-e05e43e5fbe5429bf7622ee8b9510068][^key-293cd882b59843fd758d2de409e94d0c]
+### 10. Subcision[^c-e05e43e5fbe5429bf7622ee8b9510068][^c-293cd882b59843fd758d2de409e94d0c]
 
 A procedure in which a needle is used to cut fibrous bands that connect skin to underlying tissue.
 
-### 11. Thread lift[^key-89ce13d5d2b847e453810d7a9f297e11][^key-0c15e1e48809e822a91f76b51aa86ba1]
+### 11. Thread lift[^c-89ce13d5d2b847e453810d7a9f297e11][^c-0c15e1e48809e822a91f76b51aa86ba1]
 
 A procedure in which threads (whether smooth or textured) are inserted under skin.
 
-### 12. Interpretation[^key-5c0c0238c4a418ee10546cdbbdec46b2][^key-e822d1f1612e7fc2d3972687528ace55]
+### 12. Interpretation[^c-5c0c0238c4a418ee10546cdbbdec46b2][^c-e822d1f1612e7fc2d3972687528ace55]
 
 In this schedule—
 
@@ -589,14 +589,14 @@ In this schedule—
     - (i) a controlled drug (within the meaning of section 2 of the Misuse of Drugs Act 1971), or
     - (ii) a psychoactive substance (within the meaning of section 2 of the Psychoactive Substances Act 2016).
 
-**13.**[^key-afdcf540c0939a5c103f0e11caea3a19][^key-6510c4b538f5bc50307a8e632deb9b3c] In this schedule, the following terms have the same meaning as they have in the Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Order 2006 ([S.S.I. 2006/43](https://www.legislation.gov.uk/ssi/2006/43))—
+**13.**[^c-afdcf540c0939a5c103f0e11caea3a19][^c-6510c4b538f5bc50307a8e632deb9b3c] In this schedule, the following terms have the same meaning as they have in the Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Order 2006 ([S.S.I. 2006/43](https://www.legislation.gov.uk/ssi/2006/43))—
 
 - “**acupuncture**”,
 - “**cosmetic body piercing**”,
 - “**electrolysis**”,
 - “**tattooing**”.
 
-**14.**[^key-b60827a90bb3cdc60409aff4aa4dcc45][^key-e23a1b60ac5da3cb0c8396e2dcf8acfc] For the purposes of paragraph 4 or 5, a substance is to be treated as being injected into, or administered to, a person for a wellbeing purpose if it is injected or administered for the purpose of achieving an actual or perceived improvement in the person’s—
+**14.**[^c-b60827a90bb3cdc60409aff4aa4dcc45][^c-e23a1b60ac5da3cb0c8396e2dcf8acfc] For the purposes of paragraph 4 or 5, a substance is to be treated as being injected into, or administered to, a person for a wellbeing purpose if it is injected or administered for the purpose of achieving an actual or perceived improvement in the person’s—
 
 - (a) physical, mental or emotional wellbeing,
 - (b) physical strength or stamina,
@@ -607,9 +607,9 @@ In this schedule—
 
 (introduced by section 15)
 
-**1.**[^key-e2fdc94c04ffe925222d9b4d2f0b463c][^key-40e045654b2055c9f0c8f6d61305bd71] The 1978 Act is amended as follows.
+**1.**[^c-e2fdc94c04ffe925222d9b4d2f0b463c][^c-40e045654b2055c9f0c8f6d61305bd71] The 1978 Act is amended as follows.
 
-**2.**[^key-45ac62facd62d2c35aff1d34fb6be2d8][^key-d557392ab659a288b0a74f6d5e95108c] In section 10A (Healthcare Improvement Scotland), in subsection (1)—
+**2.**[^c-45ac62facd62d2c35aff1d34fb6be2d8][^c-d557392ab659a288b0a74f6d5e95108c] In section 10A (Healthcare Improvement Scotland), in subsection (1)—
 
 - (a) in paragraph (a), after “2021 Act” insert “, the Non-surgical Procedures and Functions of Medical Reviewers (Scotland) Act 2026 and regulations made under section 5 of that Act”,
 - (b) in paragraph (b), for the words from “health care” to the end of the paragraph substitute “—
@@ -620,7 +620,7 @@ In this schedule—
 
   .
 
-**3.**[^key-759a609fd8c26900e84f4eb5101df902][^key-3ef7bccc32aefad8a610f0bbebcb6ff2] In section 10S (cancellation of registration), in subsection (2)(b)—
+**3.**[^c-759a609fd8c26900e84f4eb5101df902][^c-3ef7bccc32aefad8a610f0bbebcb6ff2] In section 10S (cancellation of registration), in subsection (2)(b)—
 
 - (a) the “or” immediately following sub-paragraph (i) is repealed,
 - (b) after sub-paragraph (ii) insert “, or
@@ -629,154 +629,154 @@ In this schedule—
 
   .
 
-**4.**[^key-b93559655dfd09344be4f0f69abd6400][^key-0aa507d44c9ea0f0a58ed94b6897bc6b] In section 76 (inquiries), in subsection (1), for “or under the 2021 Act” substitute “, the 2021 Act or Part 1 of the Non-surgical Procedures and Functions of Medical Reviewers (Scotland) Act 2026”.
+**4.**[^c-b93559655dfd09344be4f0f69abd6400][^c-0aa507d44c9ea0f0a58ed94b6897bc6b] In section 76 (inquiries), in subsection (1), for “or under the 2021 Act” substitute “, the 2021 Act or Part 1 of the Non-surgical Procedures and Functions of Medical Reviewers (Scotland) Act 2026”.
 
-**5.**[^key-5a73968eb87423317eaf15be3f0b8c7c][^key-507ae1ed7b063e199da24edf60811c71] In section 77 (default powers), in subsection (1), for “or by or under the 2021 Act” substitute “, the 2021 Act or Part 1 of the Non-surgical Procedures and Functions of Medical Reviewers (Scotland) Act 2026”.
+**5.**[^c-5a73968eb87423317eaf15be3f0b8c7c][^c-507ae1ed7b063e199da24edf60811c71] In section 77 (default powers), in subsection (1), for “or by or under the 2021 Act” substitute “, the 2021 Act or Part 1 of the Non-surgical Procedures and Functions of Medical Reviewers (Scotland) Act 2026”.
 
 ## Annotations
 
-[^key-6dcbcdef61dcc27ce6f0a13417653b16]: Commencement: S. 1 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-6dcbcdef61dcc27ce6f0a13417653b16]: Commencement: S. 1 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-b97385a806150d2a956ce0cfeb060aec]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2026/13/section/1) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-b97385a806150d2a956ce0cfeb060aec]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2026/13/section/1) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-7ae4b336d05e465b7ea4085bdf98443d]: Commencement: S. 2 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-7ae4b336d05e465b7ea4085bdf98443d]: Commencement: S. 2 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-dc0f9021bc0c62165bf71cce276148df]: Commencement: [S. 2(3)](https://www.legislation.gov.uk/asp/2026/13/section/2/3) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-dc0f9021bc0c62165bf71cce276148df]: Commencement: [S. 2(3)](https://www.legislation.gov.uk/asp/2026/13/section/2/3) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-26593b69e8f14e32794e2d353be18267]: Commencement: S. 3 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-26593b69e8f14e32794e2d353be18267]: Commencement: S. 3 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-2fec4c90dc4b8c3bb31e82b7a8f21e47]: Commencement: S. 4 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-2fec4c90dc4b8c3bb31e82b7a8f21e47]: Commencement: S. 4 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-f281fb80edeabf8c37772a2210f48a22]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/asp/2026/13/section/4/3) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-f281fb80edeabf8c37772a2210f48a22]: Commencement: [S. 4(3)](https://www.legislation.gov.uk/asp/2026/13/section/4/3) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-a0ada60abeeebd34802aadffc99cebf1]: Commencement: S. 5 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-a0ada60abeeebd34802aadffc99cebf1]: Commencement: S. 5 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-333fe8396720b71da5b0d757311c6c95]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2026/13/section/5) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-333fe8396720b71da5b0d757311c6c95]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2026/13/section/5) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-578c4fdb3dff794ec36e374b34114c5c]: Commencement: S. 6 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-578c4fdb3dff794ec36e374b34114c5c]: Commencement: S. 6 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-b94faf50bce8399af3ded7844130fd11]: Commencement: S. 7 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-b94faf50bce8399af3ded7844130fd11]: Commencement: S. 7 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-eda669367ce3873465a9f5af6d3e8838]: Commencement: S. 8 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-eda669367ce3873465a9f5af6d3e8838]: Commencement: S. 8 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-acdb1ba58be892c73df3240cb6f4e7db]: Commencement: S. 9 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-acdb1ba58be892c73df3240cb6f4e7db]: Commencement: S. 9 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-fd7b23479487348915b929efed7a284d]: Commencement: S. 10 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-fd7b23479487348915b929efed7a284d]: Commencement: S. 10 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-b0ae340c6c2390580210105bd0c057c7]: Commencement: S. 11 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-b0ae340c6c2390580210105bd0c057c7]: Commencement: S. 11 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-73954b0741384ae50b9abee817bd237d]: Commencement: S. 12 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-73954b0741384ae50b9abee817bd237d]: Commencement: S. 12 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-0aba0f8006680a738a42319f3f03694b]: Commencement: S. 13 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-0aba0f8006680a738a42319f3f03694b]: Commencement: S. 13 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-cec9c0198d849d340015ce433147bc98]: Commencement: S. 14 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-cec9c0198d849d340015ce433147bc98]: Commencement: S. 14 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-f4a9dd96e67107623841ead9abe0c3c7]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2026/13/section/14) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-f4a9dd96e67107623841ead9abe0c3c7]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2026/13/section/14) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-6d59cc01aff3ed0c473445ce029bb08b]: Commencement: S. 15 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-6d59cc01aff3ed0c473445ce029bb08b]: Commencement: S. 15 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-e35e34781cabd553f35fa0ba03400049]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2026/13/section/15) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-e35e34781cabd553f35fa0ba03400049]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2026/13/section/15) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-4aa0442740a4b1b6262cd6eb1a85b8e0]: Commencement: S. 16 in force at 13.5.2026, see [s. 24(1)](https://www.legislation.gov.uk/asp/2026/13/section/24/1)
+[^c-4aa0442740a4b1b6262cd6eb1a85b8e0]: Commencement: S. 16 in force at 13.5.2026, see [s. 24(1)](https://www.legislation.gov.uk/asp/2026/13/section/24/1)
 
-[^key-40f388dddb7873109c7ed4455cf5a577]: Commencement: S. 17 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-40f388dddb7873109c7ed4455cf5a577]: Commencement: S. 17 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-0cbd5c6e4c783deca667d57a8440d406]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2026/13/section/17) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-0cbd5c6e4c783deca667d57a8440d406]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2026/13/section/17) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-368a57b62aa4487b97375f2bdd804476]: Commencement: S. 18 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-368a57b62aa4487b97375f2bdd804476]: Commencement: S. 18 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-c6988ca86bc0d4729f87d6c3c78b8e43]: Commencement: S. 19 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-c6988ca86bc0d4729f87d6c3c78b8e43]: Commencement: S. 19 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-f2b7a268f691d78d2d0da17a1066fa92]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2026/13/section/19) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/206/regulation/3))
+[^c-f2b7a268f691d78d2d0da17a1066fa92]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2026/13/section/19) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/206/regulation/3))
 
-[^key-0acecc9ff2c2f42f63251184db4d62b9]: Commencement: S. 20 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-0acecc9ff2c2f42f63251184db4d62b9]: Commencement: S. 20 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-d741c0769f72767f0da17fb4b4187754]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2026/13/section/20) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-d741c0769f72767f0da17fb4b4187754]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2026/13/section/20) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-ba5632f408509dada100956ccee20671]: Commencement: S. 21 in force at 13.5.2026, see [s. 24(1)](https://www.legislation.gov.uk/asp/2026/13/section/24/1)
+[^c-ba5632f408509dada100956ccee20671]: Commencement: S. 21 in force at 13.5.2026, see [s. 24(1)](https://www.legislation.gov.uk/asp/2026/13/section/24/1)
 
-[^key-3cb018762b5652ec3b3fd22d76b32172]: Commencement: S. 22 in force at 13.5.2026, see [s. 24(1)](https://www.legislation.gov.uk/asp/2026/13/section/24/1)
+[^c-3cb018762b5652ec3b3fd22d76b32172]: Commencement: S. 22 in force at 13.5.2026, see [s. 24(1)](https://www.legislation.gov.uk/asp/2026/13/section/24/1)
 
-[^key-948de74d4f4dea8f54dd4ff8dec5c631]: Commencement: S. 23 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-948de74d4f4dea8f54dd4ff8dec5c631]: Commencement: S. 23 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-506f04eab6bb325508fc8257e60c019a]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2026/13/section/23) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-506f04eab6bb325508fc8257e60c019a]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2026/13/section/23) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-7afc080e21ec7cea1b507ce43fb880e4]: Commencement: S. 24 in force at 13.5.2026, see [s. 24(1)](https://www.legislation.gov.uk/asp/2026/13/section/24/1)
+[^c-7afc080e21ec7cea1b507ce43fb880e4]: Commencement: S. 24 in force at 13.5.2026, see [s. 24(1)](https://www.legislation.gov.uk/asp/2026/13/section/24/1)
 
-[^key-f13e1b81690028fd1a65311c6486797c]: Commencement: S. 25 in force at 13.5.2026, see [s. 24(1)](https://www.legislation.gov.uk/asp/2026/13/section/24/1)
+[^c-f13e1b81690028fd1a65311c6486797c]: Commencement: S. 25 in force at 13.5.2026, see [s. 24(1)](https://www.legislation.gov.uk/asp/2026/13/section/24/1)
 
-[^key-becd60354233be2d773eac49bb562cb6]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-becd60354233be2d773eac49bb562cb6]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-45c3ff8e60243ca06d36b42ae36948f3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/1) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-45c3ff8e60243ca06d36b42ae36948f3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/1) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-8ea6b5c14cb2a19e332a78bb28c9c2f1]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-8ea6b5c14cb2a19e332a78bb28c9c2f1]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-620337ebce3bc7a41ac9e7347edce148]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/2) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-620337ebce3bc7a41ac9e7347edce148]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/2) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-38a67e1e3b81e17bf6e80823eeaed5bc]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-38a67e1e3b81e17bf6e80823eeaed5bc]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-3c0caa26ebf2dd15208ce73265596adc]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/3) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-3c0caa26ebf2dd15208ce73265596adc]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/3) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-766601f4b353936f8a7a274b5ef910f9]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-766601f4b353936f8a7a274b5ef910f9]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-1bf851203f65712c091007a40805dc8c]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/4) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-1bf851203f65712c091007a40805dc8c]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/4) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-624f61fe681d98430a998b30c3900630]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-624f61fe681d98430a998b30c3900630]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-5548edc4aa93e58084f82e4ea6c4d94a]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/5) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-5548edc4aa93e58084f82e4ea6c4d94a]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/5) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-5fc231ae06b087a14bf53afce0ffb2db]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-5fc231ae06b087a14bf53afce0ffb2db]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-6258c3becca5c2b41501cc4c555abe02]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/6) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-6258c3becca5c2b41501cc4c555abe02]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/6) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-a33071f5c391cfa3e5ef34444cabd9f4]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-a33071f5c391cfa3e5ef34444cabd9f4]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-99c0c0457525f8021854dcc31e3a0fb0]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/7) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-99c0c0457525f8021854dcc31e3a0fb0]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/7) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-3ce054d0c2b9cb7c200b5a36086857e4]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-3ce054d0c2b9cb7c200b5a36086857e4]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-7bc69b87ac675f969d226ca7e44d93a4]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/8) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-7bc69b87ac675f969d226ca7e44d93a4]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/8) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-d76b9efbba0f76c634de399f734b845d]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-d76b9efbba0f76c634de399f734b845d]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-eeb981b9f656be7503ed4e96b0a199b5]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/9) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-eeb981b9f656be7503ed4e96b0a199b5]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/9) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-e05e43e5fbe5429bf7622ee8b9510068]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-e05e43e5fbe5429bf7622ee8b9510068]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-293cd882b59843fd758d2de409e94d0c]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/10) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-293cd882b59843fd758d2de409e94d0c]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/10) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-89ce13d5d2b847e453810d7a9f297e11]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-89ce13d5d2b847e453810d7a9f297e11]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-0c15e1e48809e822a91f76b51aa86ba1]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/11) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-0c15e1e48809e822a91f76b51aa86ba1]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/11) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-5c0c0238c4a418ee10546cdbbdec46b2]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-5c0c0238c4a418ee10546cdbbdec46b2]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-e822d1f1612e7fc2d3972687528ace55]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/12) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-e822d1f1612e7fc2d3972687528ace55]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/12) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-afdcf540c0939a5c103f0e11caea3a19]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-afdcf540c0939a5c103f0e11caea3a19]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-6510c4b538f5bc50307a8e632deb9b3c]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/13) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-6510c4b538f5bc50307a8e632deb9b3c]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/13) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-b60827a90bb3cdc60409aff4aa4dcc45]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-b60827a90bb3cdc60409aff4aa4dcc45]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-e23a1b60ac5da3cb0c8396e2dcf8acfc]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/14) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-e23a1b60ac5da3cb0c8396e2dcf8acfc]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2026/13/schedule/1/paragraph/14) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-e2fdc94c04ffe925222d9b4d2f0b463c]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-e2fdc94c04ffe925222d9b4d2f0b463c]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-40e045654b2055c9f0c8f6d61305bd71]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2026/13/schedule/2/paragraph/1) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-40e045654b2055c9f0c8f6d61305bd71]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2026/13/schedule/2/paragraph/1) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-45ac62facd62d2c35aff1d34fb6be2d8]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-45ac62facd62d2c35aff1d34fb6be2d8]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-d557392ab659a288b0a74f6d5e95108c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2026/13/schedule/2/paragraph/2) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-d557392ab659a288b0a74f6d5e95108c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2026/13/schedule/2/paragraph/2) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-759a609fd8c26900e84f4eb5101df902]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-759a609fd8c26900e84f4eb5101df902]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-3ef7bccc32aefad8a610f0bbebcb6ff2]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2026/13/schedule/2/paragraph/3) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-3ef7bccc32aefad8a610f0bbebcb6ff2]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2026/13/schedule/2/paragraph/3) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-b93559655dfd09344be4f0f69abd6400]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-b93559655dfd09344be4f0f69abd6400]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-0aa507d44c9ea0f0a58ed94b6897bc6b]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2026/13/schedule/2/paragraph/4) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-0aa507d44c9ea0f0a58ed94b6897bc6b]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2026/13/schedule/2/paragraph/4) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
 
-[^key-5a73968eb87423317eaf15be3f0b8c7c]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
+[^c-5a73968eb87423317eaf15be3f0b8c7c]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 24(2)](https://www.legislation.gov.uk/asp/2026/13/section/24/2)
 
-[^key-507ae1ed7b063e199da24edf60811c71]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2026/13/schedule/2/paragraph/5) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)
+[^c-507ae1ed7b063e199da24edf60811c71]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2026/13/schedule/2/paragraph/5) in force at 22.7.2026 by [S.S.I. 2026/206](https://www.legislation.gov.uk/ssi/2026/206), [reg. 2](https://www.legislation.gov.uk/ssi/2026/206/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/206/schedule)

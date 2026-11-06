@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Variation of a plan[^key-b49a48476d87bb3f0c3658b487107e7a]
+## 33. Variation of a plan[^c-b49a48476d87bb3f0c3658b487107e7a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b49a48476d87bb3f0c3658b487107e7a]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/29/section/33) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)
+[^c-b49a48476d87bb3f0c3658b487107e7a]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/29/section/33) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)

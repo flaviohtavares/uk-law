@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-e9ffaae97e849b7567dd3ee52db54dd1]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-e9ffaae97e849b7567dd3ee52db54dd1]
 
 *Extent: E+W+S*
 
 Article 2
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]In the administrative area of Thurrock Borough Council
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]In the administrative area of Thurrock Borough Council
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]The construction, operation and maintenance of a nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act, comprising—
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]The construction, operation and maintenance of a nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act, comprising—
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 1 – An electricity generating station and battery storage facility comprising—
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 1 – An electricity generating station and battery storage facility comprising—
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]1A – Gas fired electricity generating station with a gross rated electrical output of up to 620 MW consisting of—
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]1A – Gas fired electricity generating station with a gross rated electrical output of up to 620 MW consisting of—
 
 - (a) engine house building(s);
-- (b) up to 96 gas reciprocating engines[^key-ecc93807add27727cd62bab84080b5cf];
+- (b) up to 96 gas reciprocating engines[^c-ecc93807add27727cd62bab84080b5cf];
 - (c) up to 48 exhaust stacks;
 - (d) up to 48 gas engine exhaust energy recovery systems;
 - (e) cooling system;
@@ -39,7 +39,7 @@ Article 2
 - (g) lubricating oil and air pollutant control system reagent storage;
 - (h) a gas pre-heat, metering and pressure reduction compound; and
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]1B – Battery storage facility having a combination of net rated electrical output and duration that delivers an electrical capacity of up to 600MWh, which may comprise—[^key-93c09792fba750551aecde4e42124be1]
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]1B – Battery storage facility having a combination of net rated electrical output and duration that delivers an electrical capacity of up to 600MWh, which may comprise—[^c-93c09792fba750551aecde4e42124be1]
 
 - (i) a net rated electrical output of 150MW for up to 4 hours
 - (ii) a net rated electrical output of 240MW for up to 2 hours and 30 minutes;
@@ -50,7 +50,7 @@ Article 2
 - (b) storage inverter containers;
 - (c) cooling system; and
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]1C – Facilities to serve both 1A and 1B consisting of—
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]1C – Facilities to serve both 1A and 1B consisting of—
 
 - (a) electrical equipment comprising 132 kV and 275 kV substations and electrical cables, switch houses and switch rooms, and auxiliary transformers;
 - (b) fire suppression system and firewater tank;
@@ -64,13 +64,13 @@ Article 2
 
 Together with associated development within the meaning of section 115(2) of the 2008 Act—
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 2 – Creation and enhancement of onshore wildlife habitat including topsoil strip, planting, construction of ditches, mounds and banks, and enhancement of retained ditches for ecological benefit; and connection of retained ditches to Work no. 1C(r) surface water drainage.
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 2 – Creation and enhancement of onshore wildlife habitat including topsoil strip, planting, construction of ditches, mounds and banks, and enhancement of retained ditches for ecological benefit; and connection of retained ditches to Work no. 1C(r) surface water drainage.
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 3 – An electrical connection to Tilbury Substation comprising—
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 3 – An electrical connection to Tilbury Substation comprising—
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]3A – 275 kV high-voltage underground cables for electricity export and lower voltage underground cables for auxiliary power supply; and
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]3A – 275 kV high-voltage underground cables for electricity export and lower voltage underground cables for auxiliary power supply; and
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]3B – Connection equipment in Tilbury Substation consisting of—
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]3B – Connection equipment in Tilbury Substation consisting of—
 
 - (a) civil works – equipment bases, cable trenching, fencing;
 - (b) electrical equipment installation – current transformers, voltage transformers, high accuracy metering equipment, circuit breakers, disconnectors and emergency shutoff;
@@ -78,49 +78,49 @@ Together with associated development within the meaning of section 115(2) of the
 - (d) blockhouse (switch room); and
 - (e) control and protection modifications for the re-equipped bay and integration to the site wide systems, including busbar protection.
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 4 – An underground high-pressure gas pipeline between Work no. 1 and Work no. 5A and gas pipeline(s) within Work no. 1.
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 4 – An underground high-pressure gas pipeline between Work no. 1 and Work no. 5A and gas pipeline(s) within Work no. 1.
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 5 – A connection point to the gas National Transmission System comprising—
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 5 – A connection point to the gas National Transmission System comprising—
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]5A – A gas connection compound with landscaping consisting of—
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]5A – A gas connection compound with landscaping consisting of—
 
 - (a) a National Grid Minimum Offtake Connection facility containing remotely operable valve, control and instrumentation kiosk, and electrical supply kiosk;
 - (b) a Pipeline Inspection Gauge Trap Facility containing pipeline inspection gauge launching facility, emergency control valve, isolation valve, control and instrumentation kiosk, and electrical supply kiosk; and
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]5B – If required by the siting of Work no. 5A, a high-pressure underground gas pipeline between Work no. 5A(a) and the gas National Transmission System; and
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]5B – If required by the siting of Work no. 5A, a high-pressure underground gas pipeline between Work no. 5A(a) and the gas National Transmission System; and
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]5C – An access track and junction from Station Road with drainage and landscaping.
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]5C – An access track and junction from Station Road with drainage and landscaping.
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 6 – An access road and junction from Station Road with drainage and landscaping.
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 6 – An access road and junction from Station Road with drainage and landscaping.
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 7 – A water supply connection to the water main at Station Road.
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 7 – A water supply connection to the water main at Station Road.
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 8 – Construction compound(s) and laydown area(s) south of Tilbury Loop railway.
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 8 – Construction compound(s) and laydown area(s) south of Tilbury Loop railway.
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 9 – *Not used.*
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 9 – *Not used.*
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 10 – *Not used*
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 10 – *Not used*
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 11 – *Not used.*
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 11 – *Not used.*
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 12 – An access road from the A1089 St Andrew’s Road comprising—
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 12 – An access road from the A1089 St Andrew’s Road comprising—
 
 - (a) improvements, repairs, widening, realignment and surfacing of existing private roads, verges and hardstanding areas, to make the route suitable for use by heavy goods vehicles;
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]and connecting to 12(a)—
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]and connecting to 12(a)—
 
 - (b) *not used*;
 - (c) engineering works and construction of new road sections with drainage and landscaping;
 - (d) engineering works and construction of new road sections with drainage and landscaping; and
 - (e) engineering works and construction of new road section with alterations to ditch and electrical service boxes.
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 13 – A footbridge, ground works and fencing for a permissive path between Fort Road and Work no. 14.
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 13 – A footbridge, ground works and fencing for a permissive path between Fort Road and Work no. 14.
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 14 – Creation of approximately 115,775m<sup>2</sup> of common land with planting and landscaping.
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 14 – Creation of approximately 115,775m<sup>2</sup> of common land with planting and landscaping.
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 15 - An access road and junction from Fort Road to the Port of Tilbury access road, comprising engineering works and construction of new road with gates, fencing and alterations to drainage, landscape planting and alteration of services.
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]Work no. 15 - An access road and junction from Fort Road to the Port of Tilbury access road, comprising engineering works and construction of new road with gates, fencing and alterations to drainage, landscape planting and alteration of services.
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]In connection with the construction of any of those works comprising the Nationally Significant Infrastructure Project or associated development to the extent that they do not otherwise form part of any such work, further development within the Order limits consisting of—
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]In connection with the construction of any of those works comprising the Nationally Significant Infrastructure Project or associated development to the extent that they do not otherwise form part of any such work, further development within the Order limits consisting of—
 
 - (a) retaining walls, embankments, barriers, parapets, drainage, fencing, culverts and lighting;
 - (b) site clearance (including fencing and demolition of existing structures), earthworks (including soil stripping and storage, site levelling) and remediation of contamination if present;
@@ -133,8 +133,8 @@ Together with associated development within the meaning of section 115(2) of the
 
 ## Annotations
 
-[^key-e9ffaae97e849b7567dd3ee52db54dd1]: Commencement: Sch. 1 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-e9ffaae97e849b7567dd3ee52db54dd1]: Commencement: Sch. 1 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
 
-[^key-ecc93807add27727cd62bab84080b5cf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/157/schedule/1) substituted (13.9.2024) by [The Thurrock Flexible Generation Plant Consent (Amendment No. 2) Order 2024 (S.I. 2024/955)](https://www.legislation.gov.uk/uksi/2024/955), [arts. 1](https://www.legislation.gov.uk/uksi/2024/955/article/1), [3](https://www.legislation.gov.uk/uksi/2024/955/article/3)
+[^c-ecc93807add27727cd62bab84080b5cf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/157/schedule/1) substituted (13.9.2024) by [The Thurrock Flexible Generation Plant Consent (Amendment No. 2) Order 2024 (S.I. 2024/955)](https://www.legislation.gov.uk/uksi/2024/955), [arts. 1](https://www.legislation.gov.uk/uksi/2024/955/article/1), [3](https://www.legislation.gov.uk/uksi/2024/955/article/3)
 
-[^key-93c09792fba750551aecde4e42124be1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/157/schedule/1) substituted (8.3.2023) by [The Thurrock Flexible Generation Plant Consent (Amendment) Order 2023 (S.I. 2023/289)](https://www.legislation.gov.uk/uksi/2023/289), [arts. 1](https://www.legislation.gov.uk/uksi/2023/289/article/1), [3](https://www.legislation.gov.uk/uksi/2023/289/article/3)
+[^c-93c09792fba750551aecde4e42124be1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/157/schedule/1) substituted (8.3.2023) by [The Thurrock Flexible Generation Plant Consent (Amendment) Order 2023 (S.I. 2023/289)](https://www.legislation.gov.uk/uksi/2023/289), [arts. 1](https://www.legislation.gov.uk/uksi/2023/289/article/1), [3](https://www.legislation.gov.uk/uksi/2023/289/article/3)

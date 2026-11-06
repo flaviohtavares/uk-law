@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. International co-operation[^key-6efb095b5afe3910a5b23ffbb9b22cd9]
+## 108. International co-operation[^c-6efb095b5afe3910a5b23ffbb9b22cd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6efb095b5afe3910a5b23ffbb9b22cd9]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2005/15/section/108) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/d)
+[^c-6efb095b5afe3910a5b23ffbb9b22cd9]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2005/15/section/108) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/d)

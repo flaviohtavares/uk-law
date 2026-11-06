@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 9) Regulations 2020 (revoked)[^key-f260fb84b7b4487bcc6e11554a581a8e]
+The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 9) Regulations 2020 (revoked)[^c-f260fb84b7b4487bcc6e11554a581a8e]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 at 4.00 a.m. on 22nd August 2020
 
-[^key-f260fb84b7b4487bcc6e11554a581a8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f260fb84b7b4487bcc6e11554a581a8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Citation, commencement and interpretation[^key-f260fb84b7b4487bcc6e11554a581a8e]
+## Citation, commencement and interpretation[^c-f260fb84b7b4487bcc6e11554a581a8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Amendment of the principal Regulations[^key-f260fb84b7b4487bcc6e11554a581a8e]
+## Amendment of the principal Regulations[^c-f260fb84b7b4487bcc6e11554a581a8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Transitional and saving provision[^key-f260fb84b7b4487bcc6e11554a581a8e]
+## Transitional and saving provision[^c-f260fb84b7b4487bcc6e11554a581a8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f260fb84b7b4487bcc6e11554a581a8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f260fb84b7b4487bcc6e11554a581a8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -70,4 +70,4 @@ at 4.00 a.m. on 22nd August 2020
 
 ## Annotations
 
-[^key-f260fb84b7b4487bcc6e11554a581a8e]: Textual amendment: Regulations revoked (22.8.2020 at 3.59 a.m.) by [The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 10) Regulations 2020 (S.I. 2020/890)](https://www.legislation.gov.uk/uksi/2020/890), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/890/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/890/regulation/4)
+[^c-f260fb84b7b4487bcc6e11554a581a8e]: Textual amendment: Regulations revoked (22.8.2020 at 3.59 a.m.) by [The Health Protection (Coronavirus, International Travel) (England) (Amendment) (No. 10) Regulations 2020 (S.I. 2020/890)](https://www.legislation.gov.uk/uksi/2020/890), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/890/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/890/regulation/4)

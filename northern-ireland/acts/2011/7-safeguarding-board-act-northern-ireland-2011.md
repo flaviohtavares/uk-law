@@ -36,7 +36,7 @@ An Act to make provision to establish the Safeguarding Board for Northern Irelan
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Safeguarding Board for Northern Ireland[^key-4b7f8504b2ca75f36fbdaedce7745006]
+## 1. Safeguarding Board for Northern Ireland[^c-4b7f8504b2ca75f36fbdaedce7745006]
 
 (1) The Department shall establish in accordance with this section a Safeguarding Board for Northern Ireland (in this Act referred to as “**the Safeguarding Board**”).
 
@@ -48,18 +48,18 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) The persons or bodies referred to in subsection (2) are—
 
-- (a)[^key-346a7da89c3b48525b9d827a2d07b61c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-346a7da89c3b48525b9d827a2d07b61c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Regional Agency for Public Health and Social Well-being;
 - (c) Health and Social Care trusts;
 - (d) the Police Service of Northern Ireland;
 - (e) the Probation Board for Northern Ireland;
 - (f) the Youth Justice Agency;
-- (g) the Education Authority[^key-23155019f1b2dbb575272f10e25165c8];
+- (g) the Education Authority[^c-23155019f1b2dbb575272f10e25165c8];
 - (h) district councils;
 - (i) the National Society for the Prevention of Cruelty to Children;
 - (j) such other relevant persons or bodies as may be prescribed.
 
-(3A)[^key-80af8d70a716e5093dc37a41c466028c] The persons who may be prescribed under subsection (2)(b)include any individual employed in a role the normal duties of which consist wholly or mainly of the direction or oversight of the exercise of the functions of the Department that are mentioned in subsection (3B) (and for that purpose the employer of such an individual may be prescribed under subsection (3)(j)).
+(3A)[^c-80af8d70a716e5093dc37a41c466028c] The persons who may be prescribed under subsection (2)(b)include any individual employed in a role the normal duties of which consist wholly or mainly of the direction or oversight of the exercise of the functions of the Department that are mentioned in subsection (3B) (and for that purpose the employer of such an individual may be prescribed under subsection (3)(j)).
 
 (3B) Those functions are the functions of the Department that relate to,or are exercised in connection with, the social care and children functions of Health and Social Care trusts (within the meaning given by Article 10A of the Health and Personal Social Services (Northern Ireland) Order 1991).
 
@@ -75,7 +75,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (7) Proceedings of the Safeguarding Board are not invalidated by any vacancy in membership or by any defect in a member's appointment or qualifications.
 
-## 2. Objective of the Safeguarding Board[^key-afb0af372712a9cb96a00396218e2252]
+## 2. Objective of the Safeguarding Board[^c-afb0af372712a9cb96a00396218e2252]
 
 (1) The objective of the Safeguarding Board is to co-ordinate and ensure the effectiveness of what is done by each person or body represented on the Board (by virtue of section 1(2)(b) and (4)) for the purposes of safeguarding and promoting the welfare of children.
 
@@ -83,34 +83,34 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## 3. Functions of the Safeguarding Board
 
-(1)[^key-8d4e66d017715b07d9408d9ce219d39a] The Safeguarding Board must develop policies and procedures for safeguarding and promoting the welfare of children.
+(1)[^c-8d4e66d017715b07d9408d9ce219d39a] The Safeguarding Board must develop policies and procedures for safeguarding and promoting the welfare of children.
 
-(2)[^key-8d4e66d017715b07d9408d9ce219d39a] The Safeguarding Board must promote an awareness of the need to safeguard and promote the welfare of children.
+(2)[^c-8d4e66d017715b07d9408d9ce219d39a] The Safeguarding Board must promote an awareness of the need to safeguard and promote the welfare of children.
 
-(3)[^key-8d4e66d017715b07d9408d9ce219d39a] The Safeguarding Board must keep under review the effectiveness of what is done by each person or body represented on the Board (by virtue of section 1(2)(b) and (4)) to safeguard and promote the welfare of children.
+(3)[^c-8d4e66d017715b07d9408d9ce219d39a] The Safeguarding Board must keep under review the effectiveness of what is done by each person or body represented on the Board (by virtue of section 1(2)(b) and (4)) to safeguard and promote the welfare of children.
 
-(4)[^key-8d4e66d017715b07d9408d9ce219d39a] The Safeguarding Board must undertake such case management reviews as may be prescribed in such circumstances as may be prescribed.
+(4)[^c-8d4e66d017715b07d9408d9ce219d39a] The Safeguarding Board must undertake such case management reviews as may be prescribed in such circumstances as may be prescribed.
 
 (5) The Safeguarding Board must review such information as may be prescribed in relation to deaths of children in Northern Ireland in such circumstances as may be prescribed.
 
-(6)[^key-6602b7876d2b2747b734732a084c8ecf] The Safeguarding Board must advise the Department[^key-2bf18e6803d252c2a26deca335b86a53] [^key-4380ca07cb5cfe81d7e8640129fe9e28]... in relation to safeguarding and promoting the welfare of children—
+(6)[^c-6602b7876d2b2747b734732a084c8ecf] The Safeguarding Board must advise the Department[^c-2bf18e6803d252c2a26deca335b86a53] [^c-4380ca07cb5cfe81d7e8640129fe9e28]... in relation to safeguarding and promoting the welfare of children—
 
 - (a) as soon as reasonably practicable after receipt of a request for advice; and
 - (b) on such other occasions as the Safeguarding Board thinks appropriate.
 
-(7)[^key-6602b7876d2b2747b734732a084c8ecf] The Safeguarding Board must promote communication between the Board and children and young persons.
+(7)[^c-6602b7876d2b2747b734732a084c8ecf] The Safeguarding Board must promote communication between the Board and children and young persons.
 
-(8)[^key-6602b7876d2b2747b734732a084c8ecf] The Safeguarding Board must make arrangements for consultation and discussion in relation to safeguarding and promoting the welfare of children.
+(8)[^c-6602b7876d2b2747b734732a084c8ecf] The Safeguarding Board must make arrangements for consultation and discussion in relation to safeguarding and promoting the welfare of children.
 
-(9)[^key-6602b7876d2b2747b734732a084c8ecf] The Safeguarding Board may—
+(9)[^c-6602b7876d2b2747b734732a084c8ecf] The Safeguarding Board may—
 
 - (a) compile and analyse information concerning safeguarding and promoting the welfare of children;
 - (b) provide advice or information on any matter concerning safeguarding and promoting the welfare of children;
 - (c) subject to consultation with the Department, publish any matter concerning safeguarding and promoting the welfare of children.
 
-(10)[^key-6602b7876d2b2747b734732a084c8ecf] The Safeguarding Board may also engage in any other activity that facilitates, or is conducive to, the achievement of its objective.
+(10)[^c-6602b7876d2b2747b734732a084c8ecf] The Safeguarding Board may also engage in any other activity that facilitates, or is conducive to, the achievement of its objective.
 
-## 4. Directions to the Safeguarding Board[^key-9992c6c03a8cbddd4dd15ffc51db6a09]
+## 4. Directions to the Safeguarding Board[^c-9992c6c03a8cbddd4dd15ffc51db6a09]
 
 (1) The Department may give directions of a general or specific nature to the Safeguarding Board as to the exercise by the Board of any of its functions.
 
@@ -125,13 +125,13 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) Any directions given to the Safeguarding Board by the Department under subsection (1) may be varied or revoked by any subsequent directions so given.
 
-## 5. Functions of Safeguarding Board - general[^key-dd7430645372ab5f9891c33fbadd429c]
+## 5. Functions of Safeguarding Board - general[^c-dd7430645372ab5f9891c33fbadd429c]
 
 (1) Regulations may make provision as to the exercise by the Safeguarding Board of any of its functions (including provision as to further duties to be imposed, procedures to be followed and the manner in which the Board is to exercise its functions).
 
 (2) The Safeguarding Board must, in exercising its functions, have due regard to any guidance given to it for the purpose by the Department.
 
-## 6. Annual report of Safeguarding Board[^key-6433a1fa3f8fe88c709643e69c1b7c02]
+## 6. Annual report of Safeguarding Board[^c-6433a1fa3f8fe88c709643e69c1b7c02]
 
 (1) The Safeguarding Board must, within such period after the end of each financial year as the Department may direct, prepare and send to the Department a report in such form, and containing such information, as may be prescribed.
 
@@ -141,33 +141,33 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (1) The Safeguarding Board shall establish in accordance with this section—
 
-- (a)[^key-54ca4c6b179ac006ae43ba27adddb64d] a prescribed number of committees to be called “Safeguarding Panels”;
+- (a)[^c-54ca4c6b179ac006ae43ba27adddb64d] a prescribed number of committees to be called “Safeguarding Panels”;
 - (b) a committee to be called “the Child Death Overview Panel”;
-- (c)[^key-608f71b6b1971294e7c4077970521a44] a committee to be called “the Case Management Review Panel”.
+- (c)[^c-608f71b6b1971294e7c4077970521a44] a committee to be called “the Case Management Review Panel”.
 
-(2)[^key-b29fa9ca62260fecf0dcc5fbfbc4bf4c] Without prejudice to subsection (1), the Safeguarding Board may establish in accordance with this section one or more other committees.
+(2)[^c-b29fa9ca62260fecf0dcc5fbfbc4bf4c] Without prejudice to subsection (1), the Safeguarding Board may establish in accordance with this section one or more other committees.
 
-(3)[^key-b29fa9ca62260fecf0dcc5fbfbc4bf4c] The Safeguarding Board or a committee may establish in accordance with this section one or more sub-committees.
+(3)[^c-b29fa9ca62260fecf0dcc5fbfbc4bf4c] The Safeguarding Board or a committee may establish in accordance with this section one or more sub-committees.
 
-(4)[^key-b29fa9ca62260fecf0dcc5fbfbc4bf4c] Regulations may make provision as to—
+(4)[^c-b29fa9ca62260fecf0dcc5fbfbc4bf4c] Regulations may make provision as to—
 
 - (a) the appointment, tenure and vacation of office of Chairs and members of committees and sub-committees (including the circumstances in which they cease to hold office or may be removed or suspended from office);
 - (b) the procedure of committees and sub-committees;
 - (c) the functions of committees and sub-committees; and
 - (d) the staff, premises and expenses of committees and sub-committees (including provision as to which person or body provides the staff, premises or expenses).
 
-(5)[^key-b29fa9ca62260fecf0dcc5fbfbc4bf4c] Regulations may provide that committees and sub-committees must include such representatives of such relevant persons or bodies as may be prescribed or such other persons as may be prescribed.
+(5)[^c-b29fa9ca62260fecf0dcc5fbfbc4bf4c] Regulations may provide that committees and sub-committees must include such representatives of such relevant persons or bodies as may be prescribed or such other persons as may be prescribed.
 
-(6)[^key-b29fa9ca62260fecf0dcc5fbfbc4bf4c] The Department may pay the Chairs of committees and sub-committees such remuneration and allowances as the Department may, with the approval of the Department of Finance and Personnel, determine.
+(6)[^c-b29fa9ca62260fecf0dcc5fbfbc4bf4c] The Department may pay the Chairs of committees and sub-committees such remuneration and allowances as the Department may, with the approval of the Department of Finance and Personnel, determine.
 
-(7)[^key-b29fa9ca62260fecf0dcc5fbfbc4bf4c] Members of—
+(7)[^c-b29fa9ca62260fecf0dcc5fbfbc4bf4c] Members of—
 
 - (a) committees may be persons who are not members of the Safeguarding Board;
 - (b) sub-committees may be persons who are not members of the Safeguarding Board or of a committee which established the sub-committee.
 
-(8)[^key-b29fa9ca62260fecf0dcc5fbfbc4bf4c] Proceedings of committees or of sub-committees are not invalidated by any vacancy in membership or by any defect in a member's qualifications or appointment.
+(8)[^c-b29fa9ca62260fecf0dcc5fbfbc4bf4c] Proceedings of committees or of sub-committees are not invalidated by any vacancy in membership or by any defect in a member's qualifications or appointment.
 
-## 8. Functions of committees and sub-committees[^key-68c3ac48a1862858e02794780043e413]
+## 8. Functions of committees and sub-committees[^c-68c3ac48a1862858e02794780043e413]
 
 (1) Each Safeguarding Panel is to exercise its functions as regards such area of Northern Ireland as may be prescribed.
 
@@ -175,11 +175,11 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) Each committee and sub-committee must, in exercising its functions, have due regard to any guidance given to it for the purpose by the Department or the Safeguarding Board.
 
-## 9. Annual report of committees[^key-c683d3d470dae83a16420ec162e85af2]
+## 9. Annual report of committees[^c-c683d3d470dae83a16420ec162e85af2]
 
 Each committee must, within such period after the end of each financial year as the Safeguarding Board may direct, prepare and send to the Safeguarding Board a report in such form, and containing such information, as may be prescribed.
 
-## 10. Duty to co-operate[^key-65f58218ec1cf6122d2379c3138665f9]
+## 10. Duty to co-operate[^c-65f58218ec1cf6122d2379c3138665f9]
 
 (1) The Safeguarding Board and each committee and sub-committee must co-operate with the persons or bodies specified in section 1(3) and with any persons or bodies referred to in section 1(4) in the exercise by the Board or a committee or sub-committee of its functions.
 
@@ -188,11 +188,11 @@ Each committee must, within such period after the end of each financial year as 
 - (a) in the exercise by the Board or a committee or sub-committee of its functions; and
 - (b) in the exercise by the person or body concerned of any of its functions relating to safeguarding or promoting the welfare of children.
 
-(3) The disclosure of information to or by the Safeguarding Board or a committee or sub-committee in pursuance of a duty of co-operation under subsection (1) or (2) does not breach any restriction on the disclosure of information (however imposed); but this subsection does not authorise a disclosure of information which contravenes the data protection legislation[^key-68395c5e7ce956dff8d0762b94e29acf] .
+(3) The disclosure of information to or by the Safeguarding Board or a committee or sub-committee in pursuance of a duty of co-operation under subsection (1) or (2) does not breach any restriction on the disclosure of information (however imposed); but this subsection does not authorise a disclosure of information which contravenes the data protection legislation[^c-68395c5e7ce956dff8d0762b94e29acf] .
 
-(4)[^key-38e5ec695c14d78f129b670c27d98c73] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(4)[^c-38e5ec695c14d78f129b670c27d98c73] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
-## 11. Supply of information requested by Safeguarding Board[^key-6bd4cc8b77a18546f172c6c8b24f65a4]
+## 11. Supply of information requested by Safeguarding Board[^c-6bd4cc8b77a18546f172c6c8b24f65a4]
 
 (1) If the Safeguarding Board requests a person or body to supply information specified in the request to—
 
@@ -218,17 +218,17 @@ the request must be complied with as soon as reasonably practicable after receip
 
 (6) The information may be used by the Safeguarding Board or a committee or sub-committee, or other person or body to whom it is supplied under subsection (1), only for the purpose of enabling or assisting the Board or a committee or sub-committee to exercise its functions.
 
-## 12. Arrangements to safeguard and promote welfare of children[^key-f7ba83b792cee9ef38b7c604a5bc708d]
+## 12. Arrangements to safeguard and promote welfare of children[^c-f7ba83b792cee9ef38b7c604a5bc708d]
 
 (1) This section applies to each of the following—
 
-- (a)[^key-8915817d3cdf75e97b946e05be093d49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8915817d3cdf75e97b946e05be093d49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Regional Agency for Public Health and Social Well-being;
 - (c) Health and Social Care trusts;
 - (d) the Police Service of Northern Ireland;
 - (e) the Probation Board for Northern Ireland;
 - (f) the Youth Justice Agency;
-- (g) the Education Authority[^key-d61d55747f844382797e277635ad4c90];
+- (g) the Education Authority[^c-d61d55747f844382797e277635ad4c90];
 - (h) district councils;
 - (i) the National Society for the Prevention of Cruelty to Children;
 - (j) such other relevant persons or bodies as may be prescribed.
@@ -240,15 +240,15 @@ the request must be complied with as soon as reasonably practicable after receip
 
 (3) Each person and body to whom this section applies must, in exercising their duty under this section, have due regard to any guidance given to them for the purpose by the Department.
 
-## 13. Minor or consequential amendments[^key-f57fd45672f91d219190dca99e571b23]
+## 13. Minor or consequential amendments[^c-f57fd45672f91d219190dca99e571b23]
 
 (1) In Part 3 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (offices disqualifying for membership of the Assembly), insert at the appropriate place— “ Chair of the Safeguarding Board for Northern Ireland. ”.
 
-(2)[^key-ef6b30357e107166f4545d651e05383b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ef6b30357e107166f4545d651e05383b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (offices and bodies which are public authorities for the purposes of the Act), insert at the appropriate place— “ The Safeguarding Board for Northern Ireland ”.
 
-## 14. Ancillary and transitional provisions etc.[^key-d95038ca3350513651f283e34471ee39]
+## 14. Ancillary and transitional provisions etc.[^c-d95038ca3350513651f283e34471ee39]
 
 (1) The Department may by order make such incidental, consequential, transitional or saving provisions as appear to the Department to be necessary or expedient for the purposes of, in consequence of or for giving full effect to this Act or any provision of it, or in connection with the coming into operation of any provision of this Act.
 
@@ -291,56 +291,56 @@ This Act may be cited as the Safeguarding Board Act (Northern Ireland) 2011.
 
 ## Annotations
 
-[^key-4b7f8504b2ca75f36fbdaedce7745006]: Commencement: S. 1 in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-4b7f8504b2ca75f36fbdaedce7745006]: Commencement: S. 1 in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-346a7da89c3b48525b9d827a2d07b61c]: Textual amendment: [S. 1(3)(a)](https://www.legislation.gov.uk/nia/2011/7/section/1/3/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 244(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/244/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-346a7da89c3b48525b9d827a2d07b61c]: Textual amendment: [S. 1(3)(a)](https://www.legislation.gov.uk/nia/2011/7/section/1/3/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 244(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/244/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-23155019f1b2dbb575272f10e25165c8]: Textual amendment: Words in [s. 1(3)(g)](https://www.legislation.gov.uk/nia/2011/7/section/1/3/g) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 27(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/27/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-23155019f1b2dbb575272f10e25165c8]: Textual amendment: Words in [s. 1(3)(g)](https://www.legislation.gov.uk/nia/2011/7/section/1/3/g) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 27(1)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/27/1) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-80af8d70a716e5093dc37a41c466028c]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/nia/2011/7/section/1/3A)[(3B)](https://www.legislation.gov.uk/nia/2011/7/section/1/3B) inserted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 244(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/244/2/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-80af8d70a716e5093dc37a41c466028c]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/nia/2011/7/section/1/3A)[(3B)](https://www.legislation.gov.uk/nia/2011/7/section/1/3B) inserted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 244(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/244/2/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-afb0af372712a9cb96a00396218e2252]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/7/section/2) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-afb0af372712a9cb96a00396218e2252]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/7/section/2) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-8d4e66d017715b07d9408d9ce219d39a]: Commencement: [S. 3(1)-(4)](https://www.legislation.gov.uk/nia/2011/7/section/3/1) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-8d4e66d017715b07d9408d9ce219d39a]: Commencement: [S. 3(1)-(4)](https://www.legislation.gov.uk/nia/2011/7/section/3/1) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-6602b7876d2b2747b734732a084c8ecf]: Commencement: [S. 3(6)-(10)](https://www.legislation.gov.uk/nia/2011/7/section/3/6) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-6602b7876d2b2747b734732a084c8ecf]: Commencement: [S. 3(6)-(10)](https://www.legislation.gov.uk/nia/2011/7/section/3/6) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-2bf18e6803d252c2a26deca335b86a53]: Textual amendment: Words in [s. 3(6)](https://www.legislation.gov.uk/nia/2011/7/section/3/6) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 244(3)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/244/3/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-2bf18e6803d252c2a26deca335b86a53]: Textual amendment: Words in [s. 3(6)](https://www.legislation.gov.uk/nia/2011/7/section/3/6) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 244(3)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/244/3/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-4380ca07cb5cfe81d7e8640129fe9e28]: Textual amendment: Words in [s. 3(6)](https://www.legislation.gov.uk/nia/2011/7/section/3/6) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 244(3)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/244/3/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-4380ca07cb5cfe81d7e8640129fe9e28]: Textual amendment: Words in [s. 3(6)](https://www.legislation.gov.uk/nia/2011/7/section/3/6) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 244(3)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/244/3/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-9992c6c03a8cbddd4dd15ffc51db6a09]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/7/section/4) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-9992c6c03a8cbddd4dd15ffc51db6a09]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/7/section/4) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-dd7430645372ab5f9891c33fbadd429c]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/7/section/5) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-dd7430645372ab5f9891c33fbadd429c]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/7/section/5) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-6433a1fa3f8fe88c709643e69c1b7c02]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2011/7/section/6) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-6433a1fa3f8fe88c709643e69c1b7c02]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2011/7/section/6) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-54ca4c6b179ac006ae43ba27adddb64d]: Commencement: [S. 7(1)(a)](https://www.legislation.gov.uk/nia/2011/7/section/7/1/a) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-54ca4c6b179ac006ae43ba27adddb64d]: Commencement: [S. 7(1)(a)](https://www.legislation.gov.uk/nia/2011/7/section/7/1/a) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-608f71b6b1971294e7c4077970521a44]: Commencement: [S. 7(1)(c)](https://www.legislation.gov.uk/nia/2011/7/section/7/1/c) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-608f71b6b1971294e7c4077970521a44]: Commencement: [S. 7(1)(c)](https://www.legislation.gov.uk/nia/2011/7/section/7/1/c) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-b29fa9ca62260fecf0dcc5fbfbc4bf4c]: Commencement: [S. 7(2)-(8)](https://www.legislation.gov.uk/nia/2011/7/section/7/2) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-b29fa9ca62260fecf0dcc5fbfbc4bf4c]: Commencement: [S. 7(2)-(8)](https://www.legislation.gov.uk/nia/2011/7/section/7/2) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-68c3ac48a1862858e02794780043e413]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/7/section/8) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-68c3ac48a1862858e02794780043e413]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/7/section/8) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-c683d3d470dae83a16420ec162e85af2]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/7/section/9) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-c683d3d470dae83a16420ec162e85af2]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/7/section/9) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-65f58218ec1cf6122d2379c3138665f9]: Commencement: S. 10 in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-65f58218ec1cf6122d2379c3138665f9]: Commencement: S. 10 in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-68395c5e7ce956dff8d0762b94e29acf]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/nia/2011/7/section/10/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 170(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/170/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-68395c5e7ce956dff8d0762b94e29acf]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/nia/2011/7/section/10/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 170(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/170/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-38e5ec695c14d78f129b670c27d98c73]: Textual amendment: [S. 10(4)](https://www.legislation.gov.uk/nia/2011/7/section/10/4) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 170(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/170/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-38e5ec695c14d78f129b670c27d98c73]: Textual amendment: [S. 10(4)](https://www.legislation.gov.uk/nia/2011/7/section/10/4) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 170(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/170/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-6bd4cc8b77a18546f172c6c8b24f65a4]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/7/section/11) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-6bd4cc8b77a18546f172c6c8b24f65a4]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/7/section/11) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-f7ba83b792cee9ef38b7c604a5bc708d]: Commencement: S. 12 in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-f7ba83b792cee9ef38b7c604a5bc708d]: Commencement: S. 12 in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-8915817d3cdf75e97b946e05be093d49]: Textual amendment: [S. 12(1)(a)](https://www.legislation.gov.uk/nia/2011/7/section/12/1/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 244(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/244/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8915817d3cdf75e97b946e05be093d49]: Textual amendment: [S. 12(1)(a)](https://www.legislation.gov.uk/nia/2011/7/section/12/1/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 244(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/244/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-d61d55747f844382797e277635ad4c90]: Textual amendment: Words in [s. 12(1)(g)](https://www.legislation.gov.uk/nia/2011/7/section/12/1/g) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 27(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/27/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-d61d55747f844382797e277635ad4c90]: Textual amendment: Words in [s. 12(1)(g)](https://www.legislation.gov.uk/nia/2011/7/section/12/1/g) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 27(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/27/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-f57fd45672f91d219190dca99e571b23]: Commencement: S. 13 in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-f57fd45672f91d219190dca99e571b23]: Commencement: S. 13 in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
 
-[^key-ef6b30357e107166f4545d651e05383b]: Textual amendment: [S. 13(2)](https://www.legislation.gov.uk/nia/2011/7/section/13/2) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-ef6b30357e107166f4545d651e05383b]: Textual amendment: [S. 13(2)](https://www.legislation.gov.uk/nia/2011/7/section/13/2) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
 
-[^key-d95038ca3350513651f283e34471ee39]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/7/section/14) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)
+[^c-d95038ca3350513651f283e34471ee39]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/7/section/14) in operation at 14.9.2012 by [S.R. 2012/338](https://www.legislation.gov.uk/nisr/2012/338), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/338/article/2/1)

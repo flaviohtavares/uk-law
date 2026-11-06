@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — THOSE PARTS OF THE ACCESSES TO BE MAINTAINED BY THE HIGHWAY AUTHORITY[^key-6ab2a5849982ce48bfd3c20e2825d897]
+### PART 1 — THOSE PARTS OF THE ACCESSES TO BE MAINTAINED BY THE HIGHWAY AUTHORITY[^c-6ab2a5849982ce48bfd3c20e2825d897]
 
 Table 2
 
@@ -40,7 +40,7 @@ Table 2
 | In the District of Stockton-on-Tees | Nelson Avenue / unnamed private track | That part of the access in the area cross hatched in blue at the point marked I on sheet 7 of the access and rights of way plans |
 | In the District of Stockton-on-Tees | B1275 / unnamed private track | That part of the access cross-hatched in blue at the point marked E on sheet 7 of the access and rights of way plans |
 
-### PART 2 — THOSE PARTS OF THE ACCESSES TO BE MAINTAINED BY THE STREET AUTHORITY[^key-f94788c1fbdf423863ef1dbec31ea0ba]
+### PART 2 — THOSE PARTS OF THE ACCESSES TO BE MAINTAINED BY THE STREET AUTHORITY[^c-f94788c1fbdf423863ef1dbec31ea0ba]
 
 Table 3
 
@@ -61,6 +61,6 @@ Table 3
 
 ## Annotations
 
-[^key-6ab2a5849982ce48bfd3c20e2825d897]: Commencement: Sch. 5 Pt. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-6ab2a5849982ce48bfd3c20e2825d897]: Commencement: Sch. 5 Pt. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-f94788c1fbdf423863ef1dbec31ea0ba]: Commencement: Sch. 5 Pt. 2 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-f94788c1fbdf423863ef1dbec31ea0ba]: Commencement: Sch. 5 Pt. 2 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

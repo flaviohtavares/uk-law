@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Power to make sanctions regulations[^key-d2d5cfdece7db84410de670813af6c23]
+## 1. Power to make sanctions regulations[^c-d2d5cfdece7db84410de670813af6c23]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,12 +45,12 @@ summary: ''
 - (a) compliance with a UN obligation, or other international obligation, specified in the regulations, or
 - (b) a particular purpose that is within subsection (2).
 
-(4)[^key-8318e0218bdfefab78290163cdc2da03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8318e0218bdfefab78290163cdc2da03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this section “**sanctions regulations**” means regulations which do one or more of the following—
 
 - (a) impose financial sanctions (see section 3);
-- (aa)[^key-18c7c868dc77ce8cbcca586dfd301398] impose director disqualification sanctions (see section 3A);
+- (aa)[^c-18c7c868dc77ce8cbcca586dfd301398] impose director disqualification sanctions (see section 3A);
 - (b) impose immigration sanctions (see section 4);
 - (c) impose trade sanctions (see section 5 and Schedule 1);
 - (d) impose aircraft sanctions (see section 6);
@@ -82,8 +82,8 @@ the commission of a gross human rights abuse or violation; and whether conduct c
 
 ## Annotations
 
-[^key-d2d5cfdece7db84410de670813af6c23]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/13/section/1) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-d2d5cfdece7db84410de670813af6c23]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/13/section/1) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
 
-[^key-8318e0218bdfefab78290163cdc2da03]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/2018/13/section/1/4) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2022/10/section/57/2), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-8318e0218bdfefab78290163cdc2da03]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/2018/13/section/1/4) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2022/10/section/57/2), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
 
-[^key-18c7c868dc77ce8cbcca586dfd301398]: Textual amendment: [S. 1(5)(aa)](https://www.legislation.gov.uk/ukpga/2018/13/section/1/5/aa) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/35/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/y)
+[^c-18c7c868dc77ce8cbcca586dfd301398]: Textual amendment: [S. 1(5)(aa)](https://www.legislation.gov.uk/ukpga/2018/13/section/1/5/aa) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/35/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/y)

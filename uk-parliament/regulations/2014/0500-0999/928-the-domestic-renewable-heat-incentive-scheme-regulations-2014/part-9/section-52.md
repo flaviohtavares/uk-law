@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Registration[^key-3a675b8970f7c8fbadf54f7a5e50f403]
+## 52. Registration[^c-3a675b8970f7c8fbadf54f7a5e50f403]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a675b8970f7c8fbadf54f7a5e50f403]: Commencement: Reg. 52 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-3a675b8970f7c8fbadf54f7a5e50f403]: Commencement: Reg. 52 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

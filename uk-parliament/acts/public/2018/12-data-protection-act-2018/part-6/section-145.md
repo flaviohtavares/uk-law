@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Information orders[^key-9702e78daee1441e8db8fb0bd641a1d1]
+## 145. Information orders[^c-9702e78daee1441e8db8fb0bd641a1d1]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if, on an application by the Commission[^key-1c2bb0ca6c03fb49b003b58c76789698], a court is satisfied that a person has failed to comply with a requirement of an information notice.
+(1) This section applies if, on an application by the Commission[^c-1c2bb0ca6c03fb49b003b58c76789698], a court is satisfied that a person has failed to comply with a requirement of an information notice.
 
 (2) The court may make an order requiring the person to provide to the Commission some or all of the following—
 
@@ -35,9 +35,9 @@ summary: ''
 
 ## Annotations
 
-[^key-9702e78daee1441e8db8fb0bd641a1d1]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2018/12/section/145) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
+[^c-9702e78daee1441e8db8fb0bd641a1d1]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2018/12/section/145) in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
 
-[^key-1c2bb0ca6c03fb49b003b58c76789698]: Textual amendment: Word in s. 145(1)(2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-1c2bb0ca6c03fb49b003b58c76789698]: Textual amendment: Word in s. 145(1)(2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^M_F_2c5847ba-4fc3-4d86-9631-30fb0ddb34a8]: Textual amendment: Words in s. 145(2)(a) inserted (19.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 97(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/18/section/97/4), [142(3)(d)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/d)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Administration of UK gilts[^key-fa5dca2ddc7f7a361001798e325b0d2d]
+## 140. Administration of UK gilts[^c-fa5dca2ddc7f7a361001798e325b0d2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa5dca2ddc7f7a361001798e325b0d2d]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2002/23/section/140) in force at 11.3.2004 by [S.I. 2004/689](https://www.legislation.gov.uk/uksi/2004/689), [art. 2](https://www.legislation.gov.uk/uksi/2004/689/article/2)
+[^c-fa5dca2ddc7f7a361001798e325b0d2d]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2002/23/section/140) in force at 11.3.2004 by [S.I. 2004/689](https://www.legislation.gov.uk/uksi/2004/689), [art. 2](https://www.legislation.gov.uk/uksi/2004/689/article/2)

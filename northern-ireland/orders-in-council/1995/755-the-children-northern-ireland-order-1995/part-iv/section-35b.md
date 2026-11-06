@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35B. Employment, education and training[^key-366cc21103a4a2596b59550ec22361ad]
+## 35B. Employment, education and training[^c-366cc21103a4a2596b59550ec22361ad]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-366cc21103a4a2596b59550ec22361ad]: Modification: [Art. 35B](https://www.legislation.gov.uk/nisi/1995/755/article/35B) applied (10.12.2015) by [Children’s Services Co-operation Act (Northern Ireland) 2015 (c. 10)](https://www.legislation.gov.uk/nia/2015/10), [ss. 9(2)(a)](https://www.legislation.gov.uk/nia/2015/10/section/9/2/a), [10(1)](https://www.legislation.gov.uk/nia/2015/10/section/10/1)
+[^c-366cc21103a4a2596b59550ec22361ad]: Modification: [Art. 35B](https://www.legislation.gov.uk/nisi/1995/755/article/35B) applied (10.12.2015) by [Children’s Services Co-operation Act (Northern Ireland) 2015 (c. 10)](https://www.legislation.gov.uk/nia/2015/10), [ss. 9(2)(a)](https://www.legislation.gov.uk/nia/2015/10/section/9/2/a), [10(1)](https://www.legislation.gov.uk/nia/2015/10/section/10/1)

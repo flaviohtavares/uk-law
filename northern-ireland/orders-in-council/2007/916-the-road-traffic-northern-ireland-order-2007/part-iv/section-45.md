@@ -39,7 +39,7 @@ After Article 8 of the Order of 1981 insert–
 > - (b) for the payment in respect of applications for approval, or in connection with approvals, of fees of a prescribed amount;
 > - (c) in relation to the period for which an approval is to have effect and withdrawing approval;
 > - (d) authorising the imposition of conditions on an approval;
-> - (e) for an appeal to lie to a court of summary jurisdiction [^key-27402670c0fb5beeb6ccd4199357f00b]... against a refusal of an application for approval, the imposition of conditions on an approval or the withdrawal of approval;
+> - (e) for an appeal to lie to a court of summary jurisdiction [^c-27402670c0fb5beeb6ccd4199357f00b]... against a refusal of an application for approval, the imposition of conditions on an approval or the withdrawal of approval;
 > - (f) prescribing circumstances in which an approved test assistant may not act as such;
 > - (g) as to the evidencing by persons of their status as approved test assistants;
 > - (h) authorising the Department to make available (with or without charge) information about approved test assistants.
@@ -54,4 +54,4 @@ After Article 8 of the Order of 1981 insert–
 
 ## Annotations
 
-[^key-27402670c0fb5beeb6ccd4199357f00b]: Textual amendment: Words in [art. 45](https://www.legislation.gov.uk/nisi/2007/916/article/45) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 132(7)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/132/7), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-27402670c0fb5beeb6ccd4199357f00b]: Textual amendment: Words in [art. 45](https://www.legislation.gov.uk/nisi/2007/916/article/45) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 132(7)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/132/7), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

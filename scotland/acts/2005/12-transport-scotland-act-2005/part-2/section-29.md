@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Notices requiring remedial works relating to reinstatements[^key-37a52983b8c44936e214e90510e60be9]
+## 29. Notices requiring remedial works relating to reinstatements[^c-37a52983b8c44936e214e90510e60be9]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37a52983b8c44936e214e90510e60be9]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2005/12/section/29) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-37a52983b8c44936e214e90510e60be9]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2005/12/section/29) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

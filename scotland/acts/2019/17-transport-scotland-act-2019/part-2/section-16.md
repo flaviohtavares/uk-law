@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Grace periods: further provision[^key-b6b94dbb9508133ddf4b2f42137f8245]
+## 16. Grace periods: further provision[^c-b6b94dbb9508133ddf4b2f42137f8245]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ subsection (7) applies.
 
 ## Annotations
 
-[^key-b6b94dbb9508133ddf4b2f42137f8245]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2019/17/section/16) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-b6b94dbb9508133ddf4b2f42137f8245]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2019/17/section/16) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Notification of abandonment, cesser of use and resumption of use of pipe-lines or lengths thereof.[^c7379551][^key-46d89d09ab5f783f502e857d7d6b9a7c]
+## 36. Notification of abandonment, cesser of use and resumption of use of pipe-lines or lengths thereof.[^c7379551][^c-46d89d09ab5f783f502e857d7d6b9a7c]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ the owner of the line shall, within two weeks after the happening of the event, 
 
     S. 36: certain functions exercisable (30.6.1999) by [S.I. 1999/1756](https://www.legislation.gov.uk/uksi/1999/1756), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1756/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1756/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/1) (with [art. 8](https://www.legislation.gov.uk/uksi/1999/1756/article/8))
 
-[^key-46d89d09ab5f783f502e857d7d6b9a7c]: Modification: S. 36 applied (30.4.2015) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 126(3)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/126/3/b), [156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1) (with [s. 130](https://www.legislation.gov.uk/ukpga/2013/32/section/130)); [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
+[^c-46d89d09ab5f783f502e857d7d6b9a7c]: Modification: S. 36 applied (30.4.2015) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 126(3)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/126/3/b), [156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1) (with [s. 130](https://www.legislation.gov.uk/ukpga/2013/32/section/130)); [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
 
 [^c7379561]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 

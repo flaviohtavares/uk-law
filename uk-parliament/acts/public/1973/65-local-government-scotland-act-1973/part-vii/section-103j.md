@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103J. Appeals from Commission[^key-ea5a94ddd72127be467ca373f64dbee2][^c9677901]
+## 103J. Appeals from Commission[^c-ea5a94ddd72127be467ca373f64dbee2][^c9677901]
 
 *Extent: S*
 
@@ -60,7 +60,7 @@ may appeal to the sheriff principal of the sheriffdom in which the authority has
 - (c) in an appeal under subsection (1)(c) above, quash the suspension;
 - (d) award expenses.
 
-(6) The decision of the sheriff principal under subsection (1) above is a final judgment for the purposes of section 114(1) (appeal from the sheriff principal to the Court of Session) of the Courts Reform (Scotland) Act 2014[^key-6865a0b4cf24c10fe1589f6d8b2b7731] .
+(6) The decision of the sheriff principal under subsection (1) above is a final judgment for the purposes of section 114(1) (appeal from the sheriff principal to the Court of Session) of the Courts Reform (Scotland) Act 2014[^c-6865a0b4cf24c10fe1589f6d8b2b7731] .
 
 (7) In an appeal from the sheriff principal by virtue of subsection (6) above, the Court of Session has the powers specified in subsection (5) above.
 
@@ -68,8 +68,8 @@ may appeal to the sheriff principal of the sheriffdom in which the authority has
 
 ## Annotations
 
-[^key-ea5a94ddd72127be467ca373f64dbee2]: Modification: Ss. 103A-103J modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-ea5a94ddd72127be467ca373f64dbee2]: Modification: Ss. 103A-103J modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
 [^c9677901]: Textual amendment: Ss. 103(A)-(J) inserted (1.1.2002) by [2000 asp 7](https://www.legislation.gov.uk/asp/2000/7), [s. 33(3)](https://www.legislation.gov.uk/asp/2000/7/section/33/3); S.S.I 2001/474 art. 3 (subject to transitional provisions in art. 4)
 
-[^key-6865a0b4cf24c10fe1589f6d8b2b7731]: Textual amendment: Words in [s. 103J(6)](https://www.legislation.gov.uk/ukpga/1973/65/section/103J/6) substituted (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402)](https://www.legislation.gov.uk/ssi/2015/402), [art. 1](https://www.legislation.gov.uk/ssi/2015/402/article/1), [sch. para. 2](https://www.legislation.gov.uk/ssi/2015/402/schedule/paragraph/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/402/article/5))
+[^c-6865a0b4cf24c10fe1589f6d8b2b7731]: Textual amendment: Words in [s. 103J(6)](https://www.legislation.gov.uk/ukpga/1973/65/section/103J/6) substituted (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402)](https://www.legislation.gov.uk/ssi/2015/402), [art. 1](https://www.legislation.gov.uk/ssi/2015/402/article/1), [sch. para. 2](https://www.legislation.gov.uk/ssi/2015/402/schedule/paragraph/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/402/article/5))

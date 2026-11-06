@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Bodies corporate and Scottish partnerships[^key-e0c5ebd3f6cd9e927d95b0f691e30e26]
+## 13. Bodies corporate and Scottish partnerships[^c-e0c5ebd3f6cd9e927d95b0f691e30e26]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the individual as well as the partnership is guilty of the offence and is liable
 
 ## Annotations
 
-[^key-e0c5ebd3f6cd9e927d95b0f691e30e26]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/4/section/13) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-e0c5ebd3f6cd9e927d95b0f691e30e26]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/4/section/13) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

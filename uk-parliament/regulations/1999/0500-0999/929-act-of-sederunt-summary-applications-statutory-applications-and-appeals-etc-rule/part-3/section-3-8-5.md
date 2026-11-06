@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.8.5. Appointment of curator ad litem[^key-335b627eb6ff9c4b3991d00a8920d118]
+## 3.8.5. Appointment of curator ad litem[^c-335b627eb6ff9c4b3991d00a8920d118]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-335b627eb6ff9c4b3991d00a8920d118]: Commencement: Rule 3.8.5 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-335b627eb6ff9c4b3991d00a8920d118]: Commencement: Rule 3.8.5 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

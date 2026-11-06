@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-73918fa0f40ad4c6915af3bd62fd474d]
+## 1. Citation and commencement[^c-73918fa0f40ad4c6915af3bd62fd474d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Longfield Solar Farm Order 2023 and comes into fo
 
 ## Annotations
 
-[^key-73918fa0f40ad4c6915af3bd62fd474d]: Commencement: Art. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-73918fa0f40ad4c6915af3bd62fd474d]: Commencement: Art. 1 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

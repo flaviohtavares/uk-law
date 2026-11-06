@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Special procedure for appointment of priest in charge as incumbent[^key-c224391c6561f4ebebaccb9e7ded2e70]
+## 16A. Special procedure for appointment of priest in charge as incumbent[^c-c224391c6561f4ebebaccb9e7ded2e70]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ the provisions of this Measure mentioned in subsection (8) below and section 88(
 
 ## Annotations
 
-[^key-c224391c6561f4ebebaccb9e7ded2e70]: Textual amendment: S. 16A inserted (1.1.2015) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 12(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/12/2), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/2077](https://www.legislation.gov.uk/uksi/2014/2077), [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2077/article/2/2) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/2077/schedule/paragraph/4))
+[^c-c224391c6561f4ebebaccb9e7ded2e70]: Textual amendment: S. 16A inserted (1.1.2015) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 12(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/12/2), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/2077](https://www.legislation.gov.uk/uksi/2014/2077), [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/2077/article/2/2) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2014/2077/schedule/paragraph/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Statement by owner to end use of land as of right[^c22543081][^key-3ae43c32a3f35655bd0118d4c0e7f731]
+## 52. Statement by owner to end use of land as of right[^c22543081][^c-3ae43c32a3f35655bd0118d4c0e7f731]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c22543081]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2015/4/section/52) partly in force; [s. 52](https://www.legislation.gov.uk/anaw/2015/4/section/52) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-3ae43c32a3f35655bd0118d4c0e7f731]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2015/4/section/52) in force at 22.10.2018 in so far as not already in force by [S.I. 2018/1022](https://www.legislation.gov.uk/wsi/2018/1022), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1022/article/2/a)
+[^c-3ae43c32a3f35655bd0118d4c0e7f731]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2015/4/section/52) in force at 22.10.2018 in so far as not already in force by [S.I. 2018/1022](https://www.legislation.gov.uk/wsi/2018/1022), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1022/article/2/a)

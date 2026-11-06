@@ -32,14 +32,14 @@ summary: ''
 - (a) a transfer between two companies of business consisting of the effecting or carrying out of contracts of long-term insurance which has effect under an insurance business transfer scheme, and
 - (b) any transfer between two companies which is a qualifying overseas transfer.
 
-(3A)[^key-b6e525ac473e3fa45e93bff6a56d53ef] In subsection (3)(b) “**qualifying overseas transfer**” means so much of a transfer of the whole or any part of the business of an overseas life insurance company carried on through a permanent establishment in the United Kingdom as takes place in accordance with an authorisation granted outside the United Kingdom for the purposes of Article 39 of Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II)[^key-36cd789790f45a6d53e557d8817928e9].
+(3A)[^c-b6e525ac473e3fa45e93bff6a56d53ef] In subsection (3)(b) “**qualifying overseas transfer**” means so much of a transfer of the whole or any part of the business of an overseas life insurance company carried on through a permanent establishment in the United Kingdom as takes place in accordance with an authorisation granted outside the United Kingdom for the purposes of Article 39 of Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II)[^c-36cd789790f45a6d53e557d8817928e9].
 
 (4) Subsection (3) does not apply to a transfer of an asset, or of rights under or an interest in an asset, if the asset—
 
-- (a) was within one of the applicable categories[^key-e7d55a2103ce0dbb5ab882261581f545] immediately before the transfer, and
+- (a) was within one of the applicable categories[^c-e7d55a2103ce0dbb5ab882261581f545] immediately before the transfer, and
 - (b) is not within that category immediately after it.
 
-(4A)[^key-1462237c79fd774c8fdb94b3c6f1edb6] For the purposes of subsection (4)(a) “**the applicable categories**” means—
+(4A)[^c-1462237c79fd774c8fdb94b3c6f1edb6] For the purposes of subsection (4)(a) “**the applicable categories**” means—
 
 - (a) in the case of a UK life insurance company, the long-term business categories or a category of assets which are not held for the purposes of its long-term business, and
 - (b) in the case of an overseas life insurance company, the UK long-term business categories, a category of UK assets which are not held for the purposes of its long-term business or a category of assets which are held by it but which are not UK assets.
@@ -61,10 +61,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b6e525ac473e3fa45e93bff6a56d53ef]: Textual amendment: S. 337(3A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 149(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/149/2)
+[^c-b6e525ac473e3fa45e93bff6a56d53ef]: Textual amendment: S. 337(3A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 149(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/149/2)
 
-[^key-36cd789790f45a6d53e557d8817928e9]: Textual amendment: Words in s. 337(3A) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 1 para. 26(2)](https://www.legislation.gov.uk/uksi/2015/575/schedule/1/paragraph/26/2)
+[^c-36cd789790f45a6d53e557d8817928e9]: Textual amendment: Words in s. 337(3A) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 1 para. 26(2)](https://www.legislation.gov.uk/uksi/2015/575/schedule/1/paragraph/26/2)
 
-[^key-e7d55a2103ce0dbb5ab882261581f545]: Textual amendment: Words in s. 337(4)(a) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 149(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/149/3)
+[^c-e7d55a2103ce0dbb5ab882261581f545]: Textual amendment: Words in s. 337(4)(a) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 149(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/149/3)
 
-[^key-1462237c79fd774c8fdb94b3c6f1edb6]: Textual amendment: S. 337(4A)(4B) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 149(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/149/4)
+[^c-1462237c79fd774c8fdb94b3c6f1edb6]: Textual amendment: S. 337(4A)(4B) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 149(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/149/4)

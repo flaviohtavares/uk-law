@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257CD. The no pre-arranged exits requirement[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+## 257CD. The no pre-arranged exits requirement[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) arrangements for the disposal of, or of a substantial amount (in terms of value) of, the assets of the issuing company or of a person connected with that company, or
 - (d) arrangements the main purpose of which, or one of the main purposes of which, is (by means of any insurance, indemnity or guarantee or otherwise) to provide partial or complete protection for persons investing in shares in the issuing company against what would otherwise be the risks attached to making the investment.
 
-(2)[^key-c67e77f85c7b4d71b218878167171202] The arrangements referred to in subsection (1)(a) do not include—
+(2)[^c-c67e77f85c7b4d71b218878167171202] The arrangements referred to in subsection (1)(a) do not include—
 
 - (a) any arrangements with a view to such an exchange of shares, or shares and securities, as is mentioned in section 257HB(1), or
 - (b) any arrangements with a view to any shares in the issuing company being exchanged for, or converted into, shares in that company of a different class.
@@ -54,6 +54,6 @@ of any such protection against risks arising in the course of carrying on its bu
 
 ## Annotations
 
-[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
+[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
 
-[^key-c67e77f85c7b4d71b218878167171202]: Textual amendment: [S. 257CD(2)](https://www.legislation.gov.uk/ukpga/2007/3/section/257CD/2) substituted (with effect in accordance with s. 11(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 11(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/11/3)
+[^c-c67e77f85c7b4d71b218878167171202]: Textual amendment: [S. 257CD(2)](https://www.legislation.gov.uk/ukpga/2007/3/section/257CD/2) substituted (with effect in accordance with s. 11(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 11(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/11/3)

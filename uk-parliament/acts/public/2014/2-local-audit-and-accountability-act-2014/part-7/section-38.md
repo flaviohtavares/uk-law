@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Duty of smaller authorities to publish information[^key-486cc89f22b09c11c6a2700915a8e915]
+## 38. Duty of smaller authorities to publish information[^c-486cc89f22b09c11c6a2700915a8e915]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ In section 2 of the Local Government, Planning and Land Act 1980 (duty of author
 
 ## Annotations
 
-[^key-486cc89f22b09c11c6a2700915a8e915]: Commencement: S. 38 in force at 18.6.2014 by [S.I. 2014/1596](https://www.legislation.gov.uk/uksi/2014/1596), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1596/article/2/b)
+[^c-486cc89f22b09c11c6a2700915a8e915]: Commencement: S. 38 in force at 18.6.2014 by [S.I. 2014/1596](https://www.legislation.gov.uk/uksi/2014/1596), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1596/article/2/b)

@@ -31,12 +31,12 @@ Section 65.
 
 shall have effect as if, for the purposes of those provisions, a National Park authority were a principal council and the relevant Park were the authority’s area.
 
-(1A)[^key-b896ab9e24ec28998a43747d9d949b55] The reference in sub-paragraph (1) to section 123 of the 1972 Act is to be interpreted as a reference to that section as amended by section 2 of the Playing Fields (Community Involvement in Disposal Decisions) (Wales) Measure 2010 in so far as that sub-paragraph applies to a National Park authority for a National Park in Wales.
+(1A)[^c-b896ab9e24ec28998a43747d9d949b55] The reference in sub-paragraph (1) to section 123 of the 1972 Act is to be interpreted as a reference to that section as amended by section 2 of the Playing Fields (Community Involvement in Disposal Decisions) (Wales) Measure 2010 in so far as that sub-paragraph applies to a National Park authority for a National Park in Wales.
 
 (2) The following provisions of the [^c14543951]Local Government (Miscellaneous Provisions) Act 1976, that is to say—
 
 - (a) section 13 (compulsory acquisition of rights over land),
-- (b)[^key-487efab499743638211d97e23c0acf40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-487efab499743638211d97e23c0acf40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 16 (obtaining information about land), and
 - (d) section 29 (repayment of unclaimed compensation),
 
@@ -60,9 +60,9 @@ shall apply in relation to a National Park authority as if the authority were a 
 
 (3) The following provisions of that Act, that is to say—
 
-- (a) sections 251(1), 258(1), 260(1), 261, 271, 272 and 274 (extinguishing rights of way and other rights), and[^key-8302bb16b598510c7b3a3f05c2b76653]
-- (b) sections 275 and 276 (extension and modification of functions of statutory undertakers), [^key-581cb87e311fbd7e409f7ce3cc87a3d7]...
-- (c)[^key-581cb87e311fbd7e409f7ce3cc87a3d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) sections 251(1), 258(1), 260(1), 261, 271, 272 and 274 (extinguishing rights of way and other rights), and[^c-8302bb16b598510c7b3a3f05c2b76653]
+- (b) sections 275 and 276 (extension and modification of functions of statutory undertakers), [^c-581cb87e311fbd7e409f7ce3cc87a3d7]...
+- (c)[^c-581cb87e311fbd7e409f7ce3cc87a3d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 shall have effect as if a National Park authority were a local authority for the purposes of that Act.
 
@@ -80,7 +80,7 @@ shall have effect as if a National Park authority were a local authority for the
 - (f) section 143 (subscriptions to local government associations); and
 - (g) sections 222 and 223 (conduct of prosecutions and participation in other legal proceedings).
 
-(1A)[^key-372b994375dc96ab551e1b8fde411e2e] Sections 138A and 138B of the 1972 Act (powers in connection with belief-related observances) have effect as if a National Park authority were a local authority for the purposes of those sections.
+(1A)[^c-372b994375dc96ab551e1b8fde411e2e] Sections 138A and 138B of the 1972 Act (powers in connection with belief-related observances) have effect as if a National Park authority were a local authority for the purposes of those sections.
 
 (2) Section 38 of the [^c14544001]Local Government (Miscellaneous Provisions) Act 1976 (use of spare capacity of local authority computers) shall have effect as if a National Park authority were a local authority for the purposes of that Act.
 
@@ -112,8 +112,8 @@ shall have effect as if a National Park authority were a local authority for the
 
 (3) In sub-paragraph (2) above—
 
-- “**electoral arrangements**” means any electoral arrangements within the meaning of Part 3 of the Local Democracy, Economic Development and Construction Act 2009[^key-35c540467ebea7b53d5044a4d53df57a] or any corresponding arrangements in relation to any area in Wales; and
-- “**local government area**” means the area of any principal council (within the meaning of that Part) or parish council[^key-0aa096b3be43f06cb6b7d3de550c776e] or any area in Wales for which any council carries out functions of local government.
+- “**electoral arrangements**” means any electoral arrangements within the meaning of Part 3 of the Local Democracy, Economic Development and Construction Act 2009[^c-35c540467ebea7b53d5044a4d53df57a] or any corresponding arrangements in relation to any area in Wales; and
+- “**local government area**” means the area of any principal council (within the meaning of that Part) or parish council[^c-0aa096b3be43f06cb6b7d3de550c776e] or any area in Wales for which any council carries out functions of local government.
 
 ### Competitive tendering etc.
 
@@ -129,7 +129,7 @@ shall have effect as if a National Park authority were a local authority for the
 
 (4)[^c14544101] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-07e3448ea11a263783aed33bff437b2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-07e3448ea11a263783aed33bff437b2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) References in sections 8 to 10 of the [^c14544111]Local Government Act 1992 (competition) to any provisions of that Act of 1980 or of that Act of 1988 shall include references to those provisions as they have effect by virtue of this paragraph.
 
@@ -159,29 +159,29 @@ and section 151 of that Act (power to amend existing provisions as to charges) s
 
 ### Contracting out
 
-**13.**[^key-5722f682a585e46dcfab55e3d24a3d37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-5722f682a585e46dcfab55e3d24a3d37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b896ab9e24ec28998a43747d9d949b55]: Textual amendment: Sch. 8 para. 1(1A) inserted (W.) (15.12.2010) by [Playing Fields (Community Involvement in Disposal Decisions) (Wales) Measure 2010 (nawm 6)](https://www.legislation.gov.uk/mwa/2010/6), [ss. 3(2)](https://www.legislation.gov.uk/mwa/2010/6/section/3/2), [5(2)](https://www.legislation.gov.uk/mwa/2010/6/section/5/2)
+[^c-b896ab9e24ec28998a43747d9d949b55]: Textual amendment: Sch. 8 para. 1(1A) inserted (W.) (15.12.2010) by [Playing Fields (Community Involvement in Disposal Decisions) (Wales) Measure 2010 (nawm 6)](https://www.legislation.gov.uk/mwa/2010/6), [ss. 3(2)](https://www.legislation.gov.uk/mwa/2010/6/section/3/2), [5(2)](https://www.legislation.gov.uk/mwa/2010/6/section/5/2)
 
 [^c14543951]: Marginal citation: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).
 
-[^key-487efab499743638211d97e23c0acf40]: Textual amendment: [Sch. 8 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/1/2/b) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 24(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/24/2); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
+[^c-487efab499743638211d97e23c0acf40]: Textual amendment: [Sch. 8 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/1/2/b) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 24(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/24/2); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
 
 [^c14543961]: Marginal citation: [1982 c. 30](https://www.legislation.gov.uk/ukpga/1982/30).
 
 [^c14543971]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-8302bb16b598510c7b3a3f05c2b76653]: Textual amendment: Word in [Sch. 8 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/2/3/a) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 24(3)(a)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/24/3/a); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
+[^c-8302bb16b598510c7b3a3f05c2b76653]: Textual amendment: Word in [Sch. 8 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/2/3/a) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 24(3)(a)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/24/3/a); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
 
-[^key-581cb87e311fbd7e409f7ce3cc87a3d7]: Textual amendment: [Sch. 8 para. 2(3)(c)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/2/3/c) and preceding word omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 24(3)(b)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/24/3/b); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
+[^c-581cb87e311fbd7e409f7ce3cc87a3d7]: Textual amendment: [Sch. 8 para. 2(3)(c)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/2/3/c) and preceding word omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 24(3)(b)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/24/3/b); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
 
 [^c14543981]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
 [^c14543991]: Marginal citation: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9).
 
-[^key-372b994375dc96ab551e1b8fde411e2e]: Textual amendment: [Sch. 8 para. 3(1A)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/3/1A) inserted (26.5.2015) by [Local Government (Religious etc. Observances) Act 2015 (c. 27)](https://www.legislation.gov.uk/ukpga/2015/27), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2015/27/section/2/3), [3(2)](https://www.legislation.gov.uk/ukpga/2015/27/section/3/2)
+[^c-372b994375dc96ab551e1b8fde411e2e]: Textual amendment: [Sch. 8 para. 3(1A)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/3/1A) inserted (26.5.2015) by [Local Government (Religious etc. Observances) Act 2015 (c. 27)](https://www.legislation.gov.uk/ukpga/2015/27), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2015/27/section/2/3), [3(2)](https://www.legislation.gov.uk/ukpga/2015/27/section/3/2)
 
 [^c14544001]: Marginal citation: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).
 
@@ -191,9 +191,9 @@ and section 151 of that Act (power to amend existing provisions as to charges) s
 
 [^c14544031]: Marginal citation: [1970 c. 39](https://www.legislation.gov.uk/ukpga/1970/39).
 
-[^key-35c540467ebea7b53d5044a4d53df57a]: Textual amendment: Words in Sch. 8 para. 7(3) substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/7/2/a); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
+[^c-35c540467ebea7b53d5044a4d53df57a]: Textual amendment: Words in Sch. 8 para. 7(3) substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/7/2/a); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
 
-[^key-0aa096b3be43f06cb6b7d3de550c776e]: Textual amendment: Words in Sch. 8 para. 7(3) substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/7/2/b); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
+[^c-0aa096b3be43f06cb6b7d3de550c776e]: Textual amendment: Words in Sch. 8 para. 7(3) substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/7/2/b); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
 
 [^c14544081]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
@@ -201,7 +201,7 @@ and section 151 of that Act (power to amend existing provisions as to charges) s
 
 [^c14544101]: Textual amendment: Sch. 8 para. 8(4) repealed (2.4.2001) by [2000 c. 34](https://www.legislation.gov.uk/ukpga/2000/34), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2000/34/section/9/2), [Sch. 3 para. 10(5)](https://www.legislation.gov.uk/ukpga/2000/34/schedule/3/paragraph/10/5); [S.I. 2001/566](https://www.legislation.gov.uk/uksi/2001/566), [art. 2](https://www.legislation.gov.uk/uksi/2001/566/article/2) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/566/article/2/2))
 
-[^key-07e3448ea11a263783aed33bff437b2d]: Textual amendment: Sch. 8 para. 8(5) repealed (18.11.2003 for E., 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/i/vi) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-07e3448ea11a263783aed33bff437b2d]: Textual amendment: Sch. 8 para. 8(5) repealed (18.11.2003 for E., 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/i/vi) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
 [^c14544111]: Marginal citation: [1992 c. 19](https://www.legislation.gov.uk/ukpga/1992/19).
 
@@ -211,4 +211,4 @@ and section 151 of that Act (power to amend existing provisions as to charges) s
 
 [^c14544141]: Marginal citation: [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19).
 
-[^key-5722f682a585e46dcfab55e3d24a3d37]: Textual amendment: Sch. 8 para. 13 repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 239(4)](https://www.legislation.gov.uk/ukpga/2007/28/section/239/4), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 19](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/19); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/u) (with [art. 6(6)](https://www.legislation.gov.uk/uksi/2008/917/article/6/6))
+[^c-5722f682a585e46dcfab55e3d24a3d37]: Textual amendment: Sch. 8 para. 13 repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 239(4)](https://www.legislation.gov.uk/ukpga/2007/28/section/239/4), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 19](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/19); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/u) (with [art. 6(6)](https://www.legislation.gov.uk/uksi/2008/917/article/6/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30C. Relief under sections 30A and 30B: supplementary[^key-8e8fb911868fc19ba5caa4e8ec3ce66d]
+## 30C. Relief under sections 30A and 30B: supplementary[^c-8e8fb911868fc19ba5caa4e8ec3ce66d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e8fb911868fc19ba5caa4e8ec3ce66d]: Textual amendment: [S. 30C](https://www.legislation.gov.uk/ukpga/2008/32/section/30C) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/98/1), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-8e8fb911868fc19ba5caa4e8ec3ce66d]: Textual amendment: [S. 30C](https://www.legislation.gov.uk/ukpga/2008/32/section/30C) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/98/1), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

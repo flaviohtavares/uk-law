@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**41.**[^key-b7657bef0c9cea8d0bf95fc099b00c38] (1) In section 10 (resident magistrates serving again after retirement), paragraph (a) is amended as follows.
+**41.**[^c-b7657bef0c9cea8d0bf95fc099b00c38] (1) In section 10 (resident magistrates serving again after retirement), paragraph (a) is amended as follows.
 
 (2) After “marrying” insert “or forming a civil partnership”.
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7657bef0c9cea8d0bf95fc099b00c38]: Commencement: Art. 41 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-b7657bef0c9cea8d0bf95fc099b00c38]: Commencement: Art. 41 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

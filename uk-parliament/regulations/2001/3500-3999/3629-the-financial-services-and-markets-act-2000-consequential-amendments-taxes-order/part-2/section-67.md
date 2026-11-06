@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Spreading of gains and losses accruing as a result of deemed disposal under section 212[^key-e2aebe3c00b6b21012872c8d4fe9ef01]
+## 67. Spreading of gains and losses accruing as a result of deemed disposal under section 212[^c-e2aebe3c00b6b21012872c8d4fe9ef01]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e2aebe3c00b6b21012872c8d4fe9ef01]: Commencement: Art. 67 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-e2aebe3c00b6b21012872c8d4fe9ef01]: Commencement: Art. 67 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00087]: Footnote: Section 213(5) was amended by paragraphs 1(2)(d) and 4 of Schedule 9 to the Finance Act 1995.

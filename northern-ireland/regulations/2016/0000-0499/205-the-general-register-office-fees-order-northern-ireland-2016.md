@@ -173,7 +173,7 @@ FEES PAYABLE
 </tbody>
 </table>
 
-[^key-69e10e5492062c1e86f097ff0ed067fd][^key-f385b7530a9ffde6b03390f5c4da195e][^key-74823af47aae7f6b3a4b12e2ff2cb3d2]
+[^c-69e10e5492062c1e86f097ff0ed067fd][^c-f385b7530a9ffde6b03390f5c4da195e][^c-74823af47aae7f6b3a4b12e2ff2cb3d2]
 
 *(This note is not part of the Order)*
 
@@ -193,8 +193,8 @@ This Order revokes and replaces the General Register Office (Fees) Order (Northe
 
     S.R. [2014 No. 71](https://www.legislation.gov.uk/ukcm/2014/71)
 
-[^key-69e10e5492062c1e86f097ff0ed067fd]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2016/205/schedule) Footnote substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [167(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/167/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-69e10e5492062c1e86f097ff0ed067fd]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2016/205/schedule) Footnote substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [167(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/167/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-f385b7530a9ffde6b03390f5c4da195e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2016/205/schedule) Footnote substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [167(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/167/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-f385b7530a9ffde6b03390f5c4da195e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2016/205/schedule) Footnote substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [167(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/167/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-74823af47aae7f6b3a4b12e2ff2cb3d2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2016/205/schedule) Table inserted (7.12.2021) by [The General Register Office (Fees) Amendment Order (Northern Ireland) 2021 (S.R. 2021/299)](https://www.legislation.gov.uk/nisr/2021/299), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2021/299/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2021/299/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/nisr/2021/299/article/2/3))
+[^c-74823af47aae7f6b3a4b12e2ff2cb3d2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2016/205/schedule) Table inserted (7.12.2021) by [The General Register Office (Fees) Amendment Order (Northern Ireland) 2021 (S.R. 2021/299)](https://www.legislation.gov.uk/nisr/2021/299), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2021/299/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2021/299/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/nisr/2021/299/article/2/3))

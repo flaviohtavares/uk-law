@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Statement of remedial work[^key-a17c7ced0d626e9dbd5ff96e7401ceb2]
+## 53. Statement of remedial work[^c-a17c7ced0d626e9dbd5ff96e7401ceb2]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a17c7ced0d626e9dbd5ff96e7401ceb2]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2016/22/section/53) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-a17c7ced0d626e9dbd5ff96e7401ceb2]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2016/22/section/53) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

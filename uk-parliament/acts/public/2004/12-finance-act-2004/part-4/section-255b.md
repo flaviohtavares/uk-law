@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255B. Payments to be cleared payments[^key-8002110412e1da74997788d8467485fb]
+## 255B. Payments to be cleared payments[^c-8002110412e1da74997788d8467485fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8002110412e1da74997788d8467485fb]: Textual amendment: Ss. 255A, 255B and cross-heading inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 48](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/48), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
+[^c-8002110412e1da74997788d8467485fb]: Textual amendment: Ss. 255A, 255B and cross-heading inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 48](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/48), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)

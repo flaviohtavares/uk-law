@@ -101,10 +101,10 @@ the officer as well as the body corporate is guilty of the offence and liable to
 
 In this Act—
 
-- “[^key-015fcccda7085d6bde0e93d3c7c9b16f]**the BBC**” means the British Broadcasting Corporation;
+- “[^c-015fcccda7085d6bde0e93d3c7c9b16f]**the BBC**” means the British Broadcasting Corporation;
 - “**the Northern Ireland department**” means the Department for Social Development;
 - “**prescribed**” means prescribed by order made by the Secretary of State;
-- “[^key-e8bf49bced46fccde294f51402496a06]**television licence**” means a licence for the purposes of section 363 of the Communications Act 2003;
+- “[^c-e8bf49bced46fccde294f51402496a06]**television licence**” means a licence for the purposes of section 363 of the Communications Act 2003;
 - “**war pensions**” has the same meaning as in section 25 of the [^c879664]Social Security Act 1989.
 
 ## 6. Orders.
@@ -125,8 +125,8 @@ In this Act—
 
 [^c879662]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/2000/15/section/1) applied (1.8.2000) by [S.I. 2000/1955](https://www.legislation.gov.uk/uksi/2000/1955), [art. 2](https://www.legislation.gov.uk/uksi/2000/1955/article/2)
 
-[^key-015fcccda7085d6bde0e93d3c7c9b16f]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/2000/15/section/5) substituted (1.4.2004) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 159(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/159/a) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-015fcccda7085d6bde0e93d3c7c9b16f]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/2000/15/section/5) substituted (1.4.2004) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 159(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/159/a) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e8bf49bced46fccde294f51402496a06]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/2000/15/section/5) inserted (1.4.2004) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 159(b)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/159/b) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e8bf49bced46fccde294f51402496a06]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/2000/15/section/5) inserted (1.4.2004) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 159(b)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/159/b) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c879664]: Marginal citation: [1989 c. 24](https://www.legislation.gov.uk/ukpga/1989/24).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Family and personal relationships[^key-3716e86623ed9ab714c082907872b19d][^key-1499626111106c0df665021f2d889957]
+## 58. Family and personal relationships[^c-3716e86623ed9ab714c082907872b19d][^c-1499626111106c0df665021f2d889957]
 
 *Extent: E+W*
 
@@ -36,15 +36,15 @@ summary: ''
 
 (5) A friend of a person (A) includes a person who is a friend of a member of A's family.
 
-(6)[^key-02d0843fba7fe9965e1e6a518e510c09] The Secretary of State may by order provide that an activity carried out in specified circumstances either is or is not—
+(6)[^c-02d0843fba7fe9965e1e6a518e510c09] The Secretary of State may by order provide that an activity carried out in specified circumstances either is or is not—
 
 - (a) carried out in the course of a family relationship;
 - (b) carried out in the course of a personal relationship.
 
 ## Annotations
 
-[^key-3716e86623ed9ab714c082907872b19d]: Commencement: S. 58 in force at 11.2.2008 for specified purposes by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 4(n)](https://www.legislation.gov.uk/uksi/2007/3545/article/4/n)
+[^c-3716e86623ed9ab714c082907872b19d]: Commencement: S. 58 in force at 11.2.2008 for specified purposes by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 4(n)](https://www.legislation.gov.uk/uksi/2007/3545/article/4/n)
 
-[^key-1499626111106c0df665021f2d889957]: Commencement: S. 58 in force at 12.10.2009 in so far as not already in force by [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule)
+[^c-1499626111106c0df665021f2d889957]: Commencement: S. 58 in force at 12.10.2009 in so far as not already in force by [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611), [art. 2](https://www.legislation.gov.uk/uksi/2009/2611/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/2611/schedule)
 
-[^key-02d0843fba7fe9965e1e6a518e510c09]: Commencement: S. 58(6) in force at 19.5.2008 for specified purposes by [S.I. 2008/1320](https://www.legislation.gov.uk/uksi/2008/1320), [art. 5(n)](https://www.legislation.gov.uk/uksi/2008/1320/article/5/n)
+[^c-02d0843fba7fe9965e1e6a518e510c09]: Commencement: S. 58(6) in force at 19.5.2008 for specified purposes by [S.I. 2008/1320](https://www.legislation.gov.uk/uksi/2008/1320), [art. 5(n)](https://www.legislation.gov.uk/uksi/2008/1320/article/5/n)

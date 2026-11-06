@@ -32,7 +32,7 @@ summary: ''
 
 Procedure
 
-The Penalty Notices (Justice Act (Northern Ireland) 2011) (Enforcement of Fines) Regulations (Northern Ireland) 2012 (revoked)[^key-5c140c99d76ac78005e67a51a4282185]
+The Penalty Notices (Justice Act (Northern Ireland) 2011) (Enforcement of Fines) Regulations (Northern Ireland) 2012 (revoked)[^c-5c140c99d76ac78005e67a51a4282185]
 
 Made
 
@@ -40,78 +40,78 @@ Made
 
 Coming into operation in accordance with Rule 1
 
-[^key-5c140c99d76ac78005e67a51a4282185]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c140c99d76ac78005e67a51a4282185]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5c140c99d76ac78005e67a51a4282185]
+## 1. Citation and commencement[^c-5c140c99d76ac78005e67a51a4282185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5c140c99d76ac78005e67a51a4282185]
+## 2. Interpretation[^c-5c140c99d76ac78005e67a51a4282185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Procedure on registration of a sum payable in default[^key-5c140c99d76ac78005e67a51a4282185]
+## 3. Procedure on registration of a sum payable in default[^c-5c140c99d76ac78005e67a51a4282185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement where defaulter appears to reside in Northern Ireland and fails to pay by due date[^key-5c140c99d76ac78005e67a51a4282185]
+## 4. Enforcement where defaulter appears to reside in Northern Ireland and fails to pay by due date[^c-5c140c99d76ac78005e67a51a4282185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement where defaulter appears to reside in England, Wales or Scotland and fails to pay by due date[^key-5c140c99d76ac78005e67a51a4282185]
+## 5. Enforcement where defaulter appears to reside in England, Wales or Scotland and fails to pay by due date[^c-5c140c99d76ac78005e67a51a4282185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Procedure where warrant issued[^key-5c140c99d76ac78005e67a51a4282185]
+## 6. Procedure where warrant issued[^c-5c140c99d76ac78005e67a51a4282185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Procedure at hearing[^key-5c140c99d76ac78005e67a51a4282185]
+## 7. Procedure at hearing[^c-5c140c99d76ac78005e67a51a4282185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Modification of the Magistrates' Courts (Northern Ireland) Order 1981 in respect of proceedings against defendants[^key-5c140c99d76ac78005e67a51a4282185]
+## 8. Modification of the Magistrates' Courts (Northern Ireland) Order 1981 in respect of proceedings against defendants[^c-5c140c99d76ac78005e67a51a4282185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Remittal of sums payable in default[^key-5c140c99d76ac78005e67a51a4282185]
+## 9. Remittal of sums payable in default[^c-5c140c99d76ac78005e67a51a4282185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Right of appeal[^key-5c140c99d76ac78005e67a51a4282185]
+## 10. Right of appeal[^c-5c140c99d76ac78005e67a51a4282185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Service of document[^key-5c140c99d76ac78005e67a51a4282185]
+## 11. Service of document[^c-5c140c99d76ac78005e67a51a4282185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Conduct of proceedings[^key-5c140c99d76ac78005e67a51a4282185]
+## 12. Conduct of proceedings[^c-5c140c99d76ac78005e67a51a4282185]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5c140c99d76ac78005e67a51a4282185]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c140c99d76ac78005e67a51a4282185]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-5c140c99d76ac78005e67a51a4282185]
+## SCHEDULE 1[^c-5c140c99d76ac78005e67a51a4282185]
 
 Regulation 3(3)
 
-[^key-5c140c99d76ac78005e67a51a4282185]
+[^c-5c140c99d76ac78005e67a51a4282185]
 
 [image: see source](https://www.legislation.gov.uk/nisr/2012/188/images/nisr_20120188_en_sld_001)
 
-[^key-5c140c99d76ac78005e67a51a4282185]
+[^c-5c140c99d76ac78005e67a51a4282185]
 
 [image: see source](https://www.legislation.gov.uk/nisr/2012/188/images/nisr_20120188_en_sld_002)
 
 **May not be in force at this date. Check the source.**
 
-[^key-5c140c99d76ac78005e67a51a4282185]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c140c99d76ac78005e67a51a4282185]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c140c99d76ac78005e67a51a4282185]: Textual amendment: Regulations revoked (1.6.2018) by [The Enforcement of Fines and Other Penalties (Revocations) Order (Northern Ireland) 2018 (S.R. 2018/100)](https://www.legislation.gov.uk/nisr/2018/100), [arts. 1](https://www.legislation.gov.uk/nisr/2018/100/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2018/100/article/2/b)
+[^c-5c140c99d76ac78005e67a51a4282185]: Textual amendment: Regulations revoked (1.6.2018) by [The Enforcement of Fines and Other Penalties (Revocations) Order (Northern Ireland) 2018 (S.R. 2018/100)](https://www.legislation.gov.uk/nisr/2018/100), [arts. 1](https://www.legislation.gov.uk/nisr/2018/100/article/1), [2(b)](https://www.legislation.gov.uk/nisr/2018/100/article/2/b)

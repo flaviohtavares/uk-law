@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Installations: failure to submit information under article 27A[^key-5e2cebcdbdf3071afc0c6feb7f8a636f]
+## 60A. Installations: failure to submit information under article 27A[^c-5e2cebcdbdf3071afc0c6feb7f8a636f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e2cebcdbdf3071afc0c6feb7f8a636f]: Textual amendment: Art. 60A inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [24](https://www.legislation.gov.uk/uksi/2024/1366/article/24)
+[^c-5e2cebcdbdf3071afc0c6feb7f8a636f]: Textual amendment: Art. 60A inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [24](https://www.legislation.gov.uk/uksi/2024/1366/article/24)

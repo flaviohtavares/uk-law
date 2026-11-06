@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Execution of deeds or other documents by attorney[^key-b54fc6b836aa9f035521c3204fa70185]
+## 22. Execution of deeds or other documents by attorney[^c-b54fc6b836aa9f035521c3204fa70185]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b54fc6b836aa9f035521c3204fa70185]: Commencement: Reg. 22 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-b54fc6b836aa9f035521c3204fa70185]: Commencement: Reg. 22 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

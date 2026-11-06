@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 285A. Restriction on hire etc of relevant assets to be brought into account[^key-56dcae8260c837a90f7b62d6f02b66fb]
+## 285A. Restriction on hire etc of relevant assets to be brought into account[^c-56dcae8260c837a90f7b62d6f02b66fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ but this is subject to subsection (7).
 
 ## Annotations
 
-[^key-56dcae8260c837a90f7b62d6f02b66fb]: Textual amendment: S. 285A and cross-heading inserted (retrospective to 1.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 16 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/16/paragraph/3), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/16/paragraph/6)
+[^c-56dcae8260c837a90f7b62d6f02b66fb]: Textual amendment: S. 285A and cross-heading inserted (retrospective to 1.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 16 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/16/paragraph/3), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/16/paragraph/6)

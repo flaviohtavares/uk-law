@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Increase in time limits for making claims[^key-a6e63e342d63aeae8cbf9b8b4b457ce3][^key-4696ae7f5def917280120a40b23ead02]
+## 152. Increase in time limits for making claims[^c-a6e63e342d63aeae8cbf9b8b4b457ce3][^c-4696ae7f5def917280120a40b23ead02]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 12 makes amendments for the purpose of increasing time limits for makin
 
 ## Annotations
 
-[^key-a6e63e342d63aeae8cbf9b8b4b457ce3]: Commencement: S. 152 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-a6e63e342d63aeae8cbf9b8b4b457ce3]: Commencement: S. 152 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-4696ae7f5def917280120a40b23ead02]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2025/36/section/152) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-4696ae7f5def917280120a40b23ead02]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2025/36/section/152) in force at 1.10.2026 by [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))

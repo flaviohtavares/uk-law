@@ -50,8 +50,8 @@ summary: ''
 
 (8) Paragraph (7) overrides anything to the contrary in these Regulations.
 
-(9)[^key-dc9147d7ae0b18d2a20f21f7594b9101] This regulation is subject to regulation 10(6) of the Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (transfer payments out of the fund before 1 October 2023).
+(9)[^c-dc9147d7ae0b18d2a20f21f7594b9101] This regulation is subject to regulation 10(6) of the Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (transfer payments out of the fund before 1 October 2023).
 
 ## Annotations
 
-[^key-dc9147d7ae0b18d2a20f21f7594b9101]: Textual amendment: [Reg. 93(9)](https://www.legislation.gov.uk/ssi/2018/141/regulation/93/9) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(15)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/15)
+[^c-dc9147d7ae0b18d2a20f21f7594b9101]: Textual amendment: [Reg. 93(9)](https://www.legislation.gov.uk/ssi/2018/141/regulation/93/9) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(15)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/15)

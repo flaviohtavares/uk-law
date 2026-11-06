@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Transfer of discharge consents[^key-7c6a7b093edcb3aa8828ee228136e379]
+## 87. Transfer of discharge consents[^c-7c6a7b093edcb3aa8828ee228136e379]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c6a7b093edcb3aa8828ee228136e379]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2003/37/section/87) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(r)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/r) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/6)[8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-7c6a7b093edcb3aa8828ee228136e379]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2003/37/section/87) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(r)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/r) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/6)[8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))

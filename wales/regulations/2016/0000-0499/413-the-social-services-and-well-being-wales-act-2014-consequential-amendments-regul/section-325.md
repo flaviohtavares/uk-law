@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 325. Transitional and saving provisions[^key-972fedebf0008293053eba61ef8fb51a]
+## 325. Transitional and saving provisions[^c-972fedebf0008293053eba61ef8fb51a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Schedule (which contains transitional and saving provisions) has effect.
 
 ## Annotations
 
-[^key-972fedebf0008293053eba61ef8fb51a]: Commencement: Reg. 325 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-972fedebf0008293053eba61ef8fb51a]: Commencement: Reg. 325 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

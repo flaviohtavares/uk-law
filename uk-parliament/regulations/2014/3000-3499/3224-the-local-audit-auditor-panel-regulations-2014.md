@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 10(8) of, and paragraphs 4 and 5(1)(b) of Schedule 4 to, the Local Audit and Accountability Act 2014[^f00001]:
 
-## 1. Citation, commencement, interpretation and application[^key-9c3dd98634353069eec11d08b95a4472]
+## 1. Citation, commencement, interpretation and application[^c-9c3dd98634353069eec11d08b95a4472]
 
 (1) These Regulations may be cited as the Local Audit (Auditor Panel) Regulations 2014 and come into force on 1st April 2015.
 
@@ -58,7 +58,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) These Regulations apply to relevant authorities other than health service bodies[^f00004].
 
-## 2. Members of auditor panels[^key-7de924fd11f8b7eed3b0e88d6b1a5622]
+## 2. Members of auditor panels[^c-7de924fd11f8b7eed3b0e88d6b1a5622]
 
 (1) An auditor panel of a relevant authority must have three or more members.
 
@@ -75,22 +75,22 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (6) If the relevant authority is a parish meeting, the function of appointing members of an auditor panel to fill casual vacancies must be exercised by the parish meeting itself (and not by its chairman on behalf of the parish meeting).
 
-## 3. Term of office of panel members[^key-2c121f880711d03f7b3f9270ba22e97b]
+## 3. Term of office of panel members[^c-2c121f880711d03f7b3f9270ba22e97b]
 
 The term of office of a member of an auditor panel is to be determined by the relevant authority which appoints that panel member.
 
-## 4. Removal of panel members on disqualification[^key-3449d4fbc4e073fc353fb60a3894a226]
+## 4. Removal of panel members on disqualification[^c-3449d4fbc4e073fc353fb60a3894a226]
 
 Where a member of an auditor panel, or its chair, becomes disqualified from being a member of an auditor panel by virtue of regulation 8, the relevant authority which appointed that member must—
 
 - (a) remove the disqualified member or chair from the auditor panel where that member has not already resigned or agreed to resign; and
 - (b) appoint a person to fill the vacancy.
 
-## 5. Allowances of panel members[^key-442e40f795668a4f4343e41d506239ff]
+## 5. Allowances of panel members[^c-442e40f795668a4f4343e41d506239ff]
 
 A relevant authority may pay the members of its auditor panel such allowances as the authority may determine.
 
-## 6. Proceedings and validity of proceedings of auditor panels[^key-c4158d3674b0420c02f23694b2203549]
+## 6. Proceedings and validity of proceedings of auditor panels[^c-c4158d3674b0420c02f23694b2203549]
 
 (1) Subject to paragraph (2), an auditor panel may determine its own proceedings[^f00006].
 
@@ -99,7 +99,7 @@ A relevant authority may pay the members of its auditor panel such allowances as
 - (a) the quorum is three, and
 - (b) the proceedings of the panel are valid if the majority of members present at the meeting are independent members of the panel.
 
-## 7. Functions of auditor panels: further details[^key-be67b6d2329a7d45455fa742397423ec]
+## 7. Functions of auditor panels: further details[^c-be67b6d2329a7d45455fa742397423ec]
 
 (1) In complying with its duties under section 10(1) to (3) of the Act a relevant authority’s auditor panel must advise the authority on—
 
@@ -110,7 +110,7 @@ A relevant authority may pay the members of its auditor panel such allowances as
 
 (2) In this regulation “non-audit services” in relation to a relevant authority means services provided by the authority’s local auditor to the authority other than in the exercise of the functions of the local auditor under the Act[^f00007].
 
-## 8. Application of local authority enactments to auditor panels: disqualification[^key-1ffc81c5acdd138320700fbd6e6993a4]
+## 8. Application of local authority enactments to auditor panels: disqualification[^c-1ffc81c5acdd138320700fbd6e6993a4]
 
 (1) This regulation applies where a relevant authority to which this regulation applies has an auditor panel which is—
 
@@ -128,8 +128,8 @@ A relevant authority may pay the members of its auditor panel such allowances as
 - (b) district councils;
 - (c) London borough councils;
 - (d) parish councils;
-- (e)[^key-cbc668cd446a4d32b7e8a286668e6418] joint authorities under Part 4 of the Local Government Act 1985;
-- (f)[^key-c6fc3b3c28db018a3660163620e026fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-cbc668cd446a4d32b7e8a286668e6418] joint authorities under Part 4 of the Local Government Act 1985;
+- (f)[^c-c6fc3b3c28db018a3660163620e026fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the London Waste and Recycling Board;
 - (h) the Common Council;
 - (i) the Council of the Isles of Scilly;
@@ -139,11 +139,11 @@ A relevant authority may pay the members of its auditor panel such allowances as
 - (m) conservation boards;
 - (n) joint waste authorities;
 - (o) internal drainage boards in England;
-- (p) economic prosperity boards; [^key-73061dfe9ed65bdb014913c41f429b05]...
-- (q) combined authorities , and[^key-f9e6d413ab29d378df69d9ab8f6c33f7]
+- (p) economic prosperity boards; [^c-73061dfe9ed65bdb014913c41f429b05]...
+- (q) combined authorities , and[^c-f9e6d413ab29d378df69d9ab8f6c33f7]
 - (r) combined county authorities.
 
-## 9. Application of local authority enactments to auditor panels: access to meetings and documents[^key-63080525d1f120bb57bb8a0653ed5fdb]
+## 9. Application of local authority enactments to auditor panels: access to meetings and documents[^c-63080525d1f120bb57bb8a0653ed5fdb]
 
 (1) This regulation applies to an auditor panel of a relevant authority which is—
 
@@ -167,7 +167,7 @@ A relevant authority may pay the members of its auditor panel such allowances as
 
 (4) In this regulation “principal council” has the same meaning as in the 1972 Act[^f00010].
 
-## 10. Application of local authority enactments to auditor panels: political balance[^key-8f9529ae118a66c70dbeba219abc87a3]
+## 10. Application of local authority enactments to auditor panels: political balance[^c-8f9529ae118a66c70dbeba219abc87a3]
 
 (1) This regulation applies to a political balance authority which appoints three or more members of the authority to be members of an auditor panel.
 
@@ -180,7 +180,7 @@ the political balance enactments apply to the auditor panel as if the auditor pa
 
 (3) In relation to a political balance authority to which this regulation applies whose auditor panel is appointed by that authority and one or more other relevant authorities, the political balance enactments apply to the appointments to the auditor panel as if the auditor panel were a body falling within paragraph 2 of Schedule 1 to the 1989 Act[^f00011].
 
-(4)[^key-f940ea7608248f0e97aaa47b46cd39da] In this regulation—
+(4)[^c-f940ea7608248f0e97aaa47b46cd39da] In this regulation—
 
 - “ordinary committee” has the same meaning as in Schedule 1 to the 1989 Act[^f00012];
 - “political balance authority” means—
@@ -188,10 +188,10 @@ the political balance enactments apply to the auditor panel as if the auditor pa
   - (b) a district council;
   - (c) a London borough council;
   - (d) a joint authority under Part 4 of the Local Government Act 1985;
-  - (e) [^key-f7ea26338e78aa7950fade555eed5aa8]...
+  - (e) [^c-f7ea26338e78aa7950fade555eed5aa8]...
   - (f) a fire and rescue authority in England constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
-  - (g) an economic prosperity board; [^key-1a1b4849fa101b110b8f6f4b5799b6da]...
-  - (h) a combined authority; , and[^key-481c67e634ad9f59be3a86552f54a351]
+  - (g) an economic prosperity board; [^c-1a1b4849fa101b110b8f6f4b5799b6da]...
+  - (h) a combined authority; , and[^c-481c67e634ad9f59be3a86552f54a351]
   - ((i)) a combined county authority.
 - “political balance enactments” means—
   - (a) sections 15 to 17 and 21 of, and Schedule 1 to, the 1989 Act; and
@@ -221,7 +221,7 @@ An impact assessment of the effect that the Local Audit and Accountability Act 2
 
 [^f00001]: Footnote: [2014 c.2](https://www.legislation.gov.uk/ukpga/2014/2).
 
-[^key-9c3dd98634353069eec11d08b95a4472]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+[^c-9c3dd98634353069eec11d08b95a4472]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
 
 [^f00002]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -229,54 +229,54 @@ An impact assessment of the effect that the Local Audit and Accountability Act 2
 
 [^f00004]: Footnote: See section 2 of, and Schedule 2 to, the Local Audit and Accountability Act 2014 (“the 2014 Act”) in relation to relevant authorities and section 3(9) of that Act for the definition of “health service body”.
 
-[^key-7de924fd11f8b7eed3b0e88d6b1a5622]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/3224/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+[^c-7de924fd11f8b7eed3b0e88d6b1a5622]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/3224/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
 
 [^f00005]: Footnote: See Part 1A of the Local Government Act [2000 (c.22)](https://www.legislation.gov.uk/ukpga/2000/22), inserted by Schedule 2 to the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-2c121f880711d03f7b3f9270ba22e97b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/3224/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+[^c-2c121f880711d03f7b3f9270ba22e97b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/3224/regulation/3) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
 
-[^key-3449d4fbc4e073fc353fb60a3894a226]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/3224/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+[^c-3449d4fbc4e073fc353fb60a3894a226]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/3224/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
 
-[^key-442e40f795668a4f4343e41d506239ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/3224/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+[^c-442e40f795668a4f4343e41d506239ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/3224/regulation/5) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
 
-[^key-c4158d3674b0420c02f23694b2203549]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/3224/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+[^c-c4158d3674b0420c02f23694b2203549]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/3224/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
 
 [^f00006]: Footnote: See also paragraph 2(1) of Schedule 4 to the 2014 Act.
 
-[^key-be67b6d2329a7d45455fa742397423ec]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/3224/regulation/7) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+[^c-be67b6d2329a7d45455fa742397423ec]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/3224/regulation/7) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
 
 [^f00007]: Footnote: See, in particular, Part 5 of the 2014 Act (conduct of local audit).
 
-[^key-1ffc81c5acdd138320700fbd6e6993a4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+[^c-1ffc81c5acdd138320700fbd6e6993a4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
 
 [^f00008]: Footnote: Section 104 is applied, with modifications, by section 104(4) and (5) of the Local Government Act 1972; section 265A of that Act; the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 7, paragraph 13(1) and [S.I. 1978/1844](https://www.legislation.gov.uk/uksi/1978/1844).
 
-[^key-cbc668cd446a4d32b7e8a286668e6418]: Modification: [Reg. 8(4)(e)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8/4/e) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(z)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/z) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+[^c-cbc668cd446a4d32b7e8a286668e6418]: Modification: [Reg. 8(4)(e)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8/4/e) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(z)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/z) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
-[^key-c6fc3b3c28db018a3660163620e026fa]: Textual amendment: [Reg. 8(4)(f)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8/4/f) omitted (1.4.2018) by virtue of [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 17(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/17/2)
+[^c-c6fc3b3c28db018a3660163620e026fa]: Textual amendment: [Reg. 8(4)(f)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8/4/f) omitted (1.4.2018) by virtue of [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 17(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/17/2)
 
-[^key-73061dfe9ed65bdb014913c41f429b05]: Textual amendment: Word in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8/4) omitted (17.4.2024) by virtue of [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/418/regulation/3/2/a)
+[^c-73061dfe9ed65bdb014913c41f429b05]: Textual amendment: Word in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8/4) omitted (17.4.2024) by virtue of [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/418/regulation/3/2/a)
 
-[^key-f9e6d413ab29d378df69d9ab8f6c33f7]: Textual amendment: [Reg. 8(4)(r)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8/4/r) and word inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/418/regulation/3/2/b)
+[^c-f9e6d413ab29d378df69d9ab8f6c33f7]: Textual amendment: [Reg. 8(4)(r)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/8/4/r) and word inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/418/regulation/3/2/b)
 
-[^key-63080525d1f120bb57bb8a0653ed5fdb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/3224/regulation/9) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+[^c-63080525d1f120bb57bb8a0653ed5fdb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/3224/regulation/9) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
 
 [^f00009]: Footnote: Part 5A (sections 100A to 100K and Schedule 12A) of the Local Government Act 1972 was inserted by Schedule 1 to the Local Government (Access to Information) Act [1985 (c.43)](https://www.legislation.gov.uk/ukpga/1985/43). Section 110A was amended by [S.I. 2002/715](https://www.legislation.gov.uk/uksi/2002/715) and [S.I. 2014/2095](https://www.legislation.gov.uk/uksi/2014/2095); section 100B was amended by [S.I. 2002/715](https://www.legislation.gov.uk/uksi/2002/715); Schedule 12A was substituted by [S.I. 2006/88](https://www.legislation.gov.uk/uksi/2006/88).
 
 [^f00010]: Footnote: See section 270(1) of the Local Government Act 1972.
 
-[^key-8f9529ae118a66c70dbeba219abc87a3]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
+[^c-8f9529ae118a66c70dbeba219abc87a3]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3224/regulation/1/1)
 
 [^f00011]: Footnote: Paragraph 2 was amended by paragraph 44 of Schedule 4 to the Police and Magistrates’ Courts Act [1994 (c.29)](https://www.legislation.gov.uk/ukpga/1994/29); paragraph 2(8) of Schedule 10, paragraph 31(5) of Schedule 10 and Schedule 24 to the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25); paragraph 4(7) of Schedule 13 to the Countryside and Rights of Way Act [2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37); paragraph 81 of Schedule 6 to the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20); Schedule 22 to the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-f940ea7608248f0e97aaa47b46cd39da]: Modification: Reg. 10(4)(d) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(z)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/z) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+[^c-f940ea7608248f0e97aaa47b46cd39da]: Modification: Reg. 10(4)(d) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(z)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/z) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
 [^f00012]: Footnote: See paragraph 4 of Schedule 1 to the Local Government and Housing Act 1989.
 
-[^key-f7ea26338e78aa7950fade555eed5aa8]: Textual amendment: Words in reg. 10(4) omitted (1.4.2018) by virtue of [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 17(3)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/17/3)
+[^c-f7ea26338e78aa7950fade555eed5aa8]: Textual amendment: Words in reg. 10(4) omitted (1.4.2018) by virtue of [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 17(3)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/17/3)
 
-[^key-1a1b4849fa101b110b8f6f4b5799b6da]: Textual amendment: Word in reg. 10(4) omitted (17.4.2024) by virtue of [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2024/418/regulation/3/3/a)
+[^c-1a1b4849fa101b110b8f6f4b5799b6da]: Textual amendment: Word in reg. 10(4) omitted (17.4.2024) by virtue of [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2024/418/regulation/3/3/a)
 
-[^key-481c67e634ad9f59be3a86552f54a351]: Textual amendment: Words in reg. 10(4) inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2024/418/regulation/3/3/b)
+[^c-481c67e634ad9f59be3a86552f54a351]: Textual amendment: Words in reg. 10(4) inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2024/418/regulation/3/3/b)
 
 [^f00013]: Footnote: [S.I. 1990/1553](https://www.legislation.gov.uk/uksi/1990/1553), relevant amending instruments are [S.I. 1991/1398](https://www.legislation.gov.uk/uksi/1991/1398), [1993/1339](https://www.legislation.gov.uk/uksi/1993/1339), [1998/1918](https://www.legislation.gov.uk/uksi/1998/1918), [1999/500](https://www.legislation.gov.uk/uksi/1999/500), [2010/1142](https://www.legislation.gov.uk/uksi/2010/1142).

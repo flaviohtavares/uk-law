@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Insertion of regulation 148A (urgent safety restrictions)[^key-3ef1f0d0a062b1d0babea3b61b54f246]
+## 130. Insertion of regulation 148A (urgent safety restrictions)[^c-3ef1f0d0a062b1d0babea3b61b54f246]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ After regulation 148 (obligation to ensure appropriate and continued supplies) i
 
 ## Annotations
 
-[^key-3ef1f0d0a062b1d0babea3b61b54f246]: Commencement: Reg. 130 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3ef1f0d0a062b1d0babea3b61b54f246]: Commencement: Reg. 130 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

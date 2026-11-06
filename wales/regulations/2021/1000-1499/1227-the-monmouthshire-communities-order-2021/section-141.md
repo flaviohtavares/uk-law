@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Llanover — change of community name[^key-8068218be4b35b3f22b75f76c24c8d5a][^key-00fc69fb4fc2b9d29cf37e8e3932afef]
+## 141. Llanover — change of community name[^c-8068218be4b35b3f22b75f76c24c8d5a][^c-00fc69fb4fc2b9d29cf37e8e3932afef]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The existing community of Llanover as changed by this Order and shown hatched on
 
 ## Annotations
 
-[^key-8068218be4b35b3f22b75f76c24c8d5a]: Commencement: Art. 141 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-8068218be4b35b3f22b75f76c24c8d5a]: Commencement: Art. 141 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-00fc69fb4fc2b9d29cf37e8e3932afef]: Commencement: [Art. 141](https://www.legislation.gov.uk/wsi/2021/1227/article/141) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-00fc69fb4fc2b9d29cf37e8e3932afef]: Commencement: [Art. 141](https://www.legislation.gov.uk/wsi/2021/1227/article/141) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32V. Application of section 10A to assignation under this Part[^key-10200743c7f96507aabfc73cace37c9a]
+## 32V. Application of section 10A to assignation under this Part[^c-10200743c7f96507aabfc73cace37c9a]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ Section 10A has effect in relation to an assignation by virtue of section 32U(2)
 
 ## Annotations
 
-[^key-10200743c7f96507aabfc73cace37c9a]: Textual amendment: Pt. 3A inserted (23.12.2016 for specified purposes, 28.2.2021 in so far as not already in force) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 110(2)](https://www.legislation.gov.uk/asp/2016/18/section/110/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2); [S.S.I. 2020/428](https://www.legislation.gov.uk/ssi/2020/428), [reg. 2](https://www.legislation.gov.uk/ssi/2020/428/regulation/2)
+[^c-10200743c7f96507aabfc73cace37c9a]: Textual amendment: Pt. 3A inserted (23.12.2016 for specified purposes, 28.2.2021 in so far as not already in force) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 110(2)](https://www.legislation.gov.uk/asp/2016/18/section/110/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2); [S.S.I. 2020/428](https://www.legislation.gov.uk/ssi/2020/428), [reg. 2](https://www.legislation.gov.uk/ssi/2020/428/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40G. Bringing of appeals[^key-2e29a75910f79b42356cc230381825e7]
+## 40G. Bringing of appeals[^c-2e29a75910f79b42356cc230381825e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - (a) an appeal may not be made until the conclusion date, and
 - (b) any appeal is to be made within the period of 30 days beginning with the conclusion date.
 
-(4)[^key-ca484299113c838a711b8baaef13e224] In a case where HMRC are requested to undertake a review by virtue of section 40E—
+(4)[^c-ca484299113c838a711b8baaef13e224] In a case where HMRC are requested to undertake a review by virtue of section 40E—
 
 - (a) an appeal may not be made to an appeal tribunal—
   - (i) unless HMRC have notified P, or the other person, as to whether or not a review will be undertaken, and
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e29a75910f79b42356cc230381825e7]: Textual amendment: Ss. 40A-40G inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 304](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/304) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-2e29a75910f79b42356cc230381825e7]: Textual amendment: Ss. 40A-40G inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 304](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/304) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-ca484299113c838a711b8baaef13e224]: Textual amendment: [S. 40G(4)](https://www.legislation.gov.uk/ukpga/2001/9/section/40G/4) substituted (1.6.2014) by [The Revenue and Customs (Amendment of Appeal Provisions for Out of Time Reviews) Order 2014 (S.I. 2014/1264)](https://www.legislation.gov.uk/uksi/2014/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/2), [7](https://www.legislation.gov.uk/uksi/2014/1264/article/7) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/3))
+[^c-ca484299113c838a711b8baaef13e224]: Textual amendment: [S. 40G(4)](https://www.legislation.gov.uk/ukpga/2001/9/section/40G/4) substituted (1.6.2014) by [The Revenue and Customs (Amendment of Appeal Provisions for Out of Time Reviews) Order 2014 (S.I. 2014/1264)](https://www.legislation.gov.uk/uksi/2014/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/2), [7](https://www.legislation.gov.uk/uksi/2014/1264/article/7) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/3))

@@ -44,7 +44,7 @@ Coming into force
 
 14th August 2012
 
-The Secretary of State and the Minister for Health, Social Services and Public Safety make the following Regulations. They do so in exercise of the powers conferred by section 2(2) and (5) of the European Communities Act 1972[^c21327901], having been designated for the purposes of section 2(2) of that Act in relation to medicinal products[^c21327911] and to measures in the veterinary and phytosanitary fields for the protection of public health[^c21327921]. They do so in exercise also of the powers conferred by sections 87(1), 88(1) and (2), 91(2), and 129(1), (2) and (5) of the Medicines Act 1968[^c21327931], having consulted such organisations as appear to them to be representative of interests likely to be substantially affected by these Regulations in accordance with section 129(6) of that Act.[^key-75d048328ef4fc60835ea95ccf919251]
+The Secretary of State and the Minister for Health, Social Services and Public Safety make the following Regulations. They do so in exercise of the powers conferred by section 2(2) and (5) of the European Communities Act 1972[^c21327901], having been designated for the purposes of section 2(2) of that Act in relation to medicinal products[^c21327911] and to measures in the veterinary and phytosanitary fields for the protection of public health[^c21327921]. They do so in exercise also of the powers conferred by sections 87(1), 88(1) and (2), 91(2), and 129(1), (2) and (5) of the Medicines Act 1968[^c21327931], having consulted such organisations as appear to them to be representative of interests likely to be substantially affected by these Regulations in accordance with section 129(6) of that Act.[^c-75d048328ef4fc60835ea95ccf919251]
 
 ## Contents
 
@@ -74,20 +74,20 @@ The Secretary of State and the Minister for Health, Social Services and Public S
 - [Section 15 — Delegation of functions to expert advisory groups](part-2/section-15.md)
 - [Section 16 — Further provision about advisory bodies and expert advisory groups etc](part-2/section-16.md)
 
-### PART 3 — Manufacture and distribution of medicinal products and active substances[^key-86bf88b35894eebb76eb7f1dfbf9dbd5]
+### PART 3 — Manufacture and distribution of medicinal products and active substances[^c-86bf88b35894eebb76eb7f1dfbf9dbd5]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Interpretation[^key-86bf88b35894eebb76eb7f1dfbf9dbd5]
+#### CHAPTER 1 — Interpretation[^c-86bf88b35894eebb76eb7f1dfbf9dbd5]
 
 - [Section A17 — Interpretation](part-3/section-a17.md)
 
-#### Chapter 1A — Good manufacturing practice and good distribution practice[^key-f862c506277b82b3ab2e4f7e97dae359]
+#### Chapter 1A — Good manufacturing practice and good distribution practice[^c-f862c506277b82b3ab2e4f7e97dae359]
 
 - [Section B17 — Regulations on good manufacturing practice](part-3/section-b17.md)
 - [Section C17 — Guidelines on good manufacturing practice and good distribution practice](part-3/section-c17.md)
 
-#### CHAPTER 2 — Manufacturing and wholesale dealing[^key-dffcd5e5652717f7fdce32cc9e8ef8ea]
+#### CHAPTER 2 — Manufacturing and wholesale dealing[^c-dffcd5e5652717f7fdce32cc9e8ef8ea]
 
 ##### Grant etc of licences
 
@@ -146,7 +146,7 @@ The Secretary of State and the Minister for Health, Social Services and Public S
 - [Section 45AA — Requirement as to responsible persons where licence holder imports from an approved country for import](part-3/section-45aa.md)
 - [Section 45AB — Register for responsible persons (import)](part-3/section-45ab.md)
 
-#### CHAPTER 3 — Brokering[^key-31ae2902cc1b5a0d21f7d2c465d40556]
+#### CHAPTER 3 — Brokering[^c-31ae2902cc1b5a0d21f7d2c465d40556]
 
 - [Section 45A — Brokering in medicinal products](part-3/section-45a.md)
 - [Section 45B — Application for brokering registration](part-3/section-45b.md)
@@ -161,7 +161,7 @@ The Secretary of State and the Minister for Health, Social Services and Public S
 - [Section 45K — Offences: breach of regulations and false information](part-3/section-45k.md)
 - [Section 45L — Penalties](part-3/section-45l.md)
 
-#### CHAPTER 4 — Importation, manufacture and distribution of active substances[^key-31ae2902cc1b5a0d21f7d2c465d40556]
+#### CHAPTER 4 — Importation, manufacture and distribution of active substances[^c-31ae2902cc1b5a0d21f7d2c465d40556]
 
 - [Section 45M — Criteria for importation, manufacture or distribution of active substances](part-3/section-45m.md)
 - [Section 45N — Registration in relation to active substances](part-3/section-45n.md)
@@ -297,7 +297,7 @@ The Secretary of State and the Minister for Health, Social Services and Public S
 - [Section 93 — Failure to notify results of paediatric study](part-5/section-93.md)
 - [Section 94 — Failure to submit report to EMA](part-5/section-94.md)
 
-#### Offences relating to the safety features appearing on the packaging of medicinal products[^key-8d718c901be495e0e1992d0984e04464]
+#### Offences relating to the safety features appearing on the packaging of medicinal products[^c-8d718c901be495e0e1992d0984e04464]
 
 *Extent: E+W+S+N.I.*
 
@@ -358,14 +358,14 @@ The Secretary of State and the Minister for Health, Social Services and Public S
 
 ### PART 7 — Traditional herbal registrations
 
-#### Interpretation and application of Part[^key-69f32596cbc631bf6c8ab7cddc09e3a9]
+#### Interpretation and application of Part[^c-69f32596cbc631bf6c8ab7cddc09e3a9]
 
 - [Section 124A — Interpretation of this Part](part-7/section-124a.md)
 - [Section 125 — Traditional herbal medicinal products](part-7/section-125.md)
 - [Section 125A — List of approved countries for traditional use of a herbal medicinal product](part-7/section-125a.md)
 - [Section 126 — Addition of vitamins or minerals](part-7/section-126.md)
 
-#### List of herbal substances, preparations and combinations for use in traditional herbal medicinal products[^key-61894fe5078e1bf81579bcff06aede44]
+#### List of herbal substances, preparations and combinations for use in traditional herbal medicinal products[^c-61894fe5078e1bf81579bcff06aede44]
 
 - [Section 126A — Licensing authority list as to herbal substances, preparations and combinations for use in traditional herbal medicinal products](part-7/section-126a.md)
 
@@ -508,7 +508,7 @@ The Secretary of State and the Minister for Health, Social Services and Public S
 - [Section 194 — Responding to a single assessment of PSUR under Article 107e of the 2001 Directive](part-11/section-194.md)
 - [Section 195 — Obligation on licensing authority to assess PSURs ...](part-11/section-195.md)
 
-#### Urgent action and major safety review[^key-7a3b00e52b02a782fa72160f409c999d]
+#### Urgent action and major safety review[^c-7a3b00e52b02a782fa72160f409c999d]
 
 - [Section 196 — Urgent action](part-11/section-196.md)
 - [Section 196A — Major safety review by the licensing authority](part-11/section-196a.md)
@@ -522,7 +522,7 @@ The Secretary of State and the Minister for Health, Social Services and Public S
 - [Section 201 — Submission and evaluation of final study reports for required studies](part-11/section-201.md)
 - [Section 202 — Follow-up of final study reports](part-11/section-202.md)
 
-#### Medicinal products subject to additional monitoring[^key-b1cc0d401f9fa1ee395cacaea2143ef8]
+#### Medicinal products subject to additional monitoring[^c-b1cc0d401f9fa1ee395cacaea2143ef8]
 
 - [Section 202A — Licensing authority power in relation to medicinal products subject to additional monitoring](part-11/section-202a.md)
 
@@ -532,11 +532,11 @@ The Secretary of State and the Minister for Health, Social Services and Public S
 - [Section 204 — Obligation on licensing authority in relation to public announcements](part-11/section-204.md)
 - [Section 205 — Obligations on holders in relation to public announcements](part-11/section-205.md)
 
-#### Further obligations in respect of pharmacovigilance activities[^key-bac233fc9456b036b29976f6ca718d1d]
+#### Further obligations in respect of pharmacovigilance activities[^c-bac233fc9456b036b29976f6ca718d1d]
 
 - [Section 205A — Further obligations in respect of pharmacovigilance activities](part-11/section-205a.md)
 
-#### Guidance in respect of pharmacovigilance[^key-1e0d7c4a47ccd5677c952111071c9922]
+#### Guidance in respect of pharmacovigilance[^c-1e0d7c4a47ccd5677c952111071c9922]
 
 - [Section 205B — Guidance in respect of good pharmacovigilance practice and post authorisation efficacy studies](part-11/section-205b.md)
 
@@ -556,7 +556,7 @@ The Secretary of State and the Minister for Health, Social Services and Public S
 
 - [Section 212 — Transitional arrangements](part-11/section-212.md)
 
-### PART 12 — Dealings with medicinal products[^key-50d3c7b3cb5b7876a48829835a42abc0]
+### PART 12 — Dealings with medicinal products[^c-50d3c7b3cb5b7876a48829835a42abc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -661,7 +661,7 @@ The Secretary of State and the Minister for Health, Social Services and Public S
 
 - [Section 256 — Disqualification on conviction](part-12/section-256.md)
 
-### PART 12A — Sale of medicines to the public at a distance[^key-935f6544e55359fa0989b19ff0c80cd3]
+### PART 12A — Sale of medicines to the public at a distance[^c-935f6544e55359fa0989b19ff0c80cd3]
 
 - [Section 256ZA — Application of Part](part-12a/section-256za.md)
 - [Section 256A — Interpretation](part-12a/section-256a.md)
@@ -1000,30 +1000,30 @@ Impact assessments for these Regulations have been prepared and are available fr
 
 [^c21327931]: Marginal citation: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-75d048328ef4fc60835ea95ccf919251]: Modification: Instrument modified (10.5.2013) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (S.I. 2013/898)](https://www.legislation.gov.uk/wsi/2013/898), [reg. 2(5)](https://www.legislation.gov.uk/wsi/2013/898/regulation/2/5)
+[^c-75d048328ef4fc60835ea95ccf919251]: Modification: Instrument modified (10.5.2013) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (S.I. 2013/898)](https://www.legislation.gov.uk/wsi/2013/898), [reg. 2(5)](https://www.legislation.gov.uk/wsi/2013/898/regulation/2/5)
 
-[^key-86bf88b35894eebb76eb7f1dfbf9dbd5]: Textual amendment: Pt. 3 heading and Pt. 3 Ch. 1 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1855/regulation/4)
+[^c-86bf88b35894eebb76eb7f1dfbf9dbd5]: Textual amendment: Pt. 3 heading and Pt. 3 Ch. 1 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1855/regulation/4)
 
-[^key-f862c506277b82b3ab2e4f7e97dae359]: Textual amendment: Pt. 3 Ch. 1A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/775/regulation/13) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f862c506277b82b3ab2e4f7e97dae359]: Textual amendment: Pt. 3 Ch. 1A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/775/regulation/13) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dffcd5e5652717f7fdce32cc9e8ef8ea]: Textual amendment: Pt. 3 Ch. 2 heading inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1855/regulation/4)
+[^c-dffcd5e5652717f7fdce32cc9e8ef8ea]: Textual amendment: Pt. 3 Ch. 2 heading inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1855/regulation/4)
 
-[^key-31ae2902cc1b5a0d21f7d2c465d40556]: Textual amendment: Pt. 3 Chs. 3, 4 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/1855/regulation/16)
+[^c-31ae2902cc1b5a0d21f7d2c465d40556]: Textual amendment: Pt. 3 Chs. 3, 4 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/1855/regulation/16)
 
-[^key-8d718c901be495e0e1992d0984e04464]: Textual amendment: Reg. 94A and cross-heading inserted (9.2.2019) by [The Human Medicines (Amendment) Regulations 2019 (S.I. 2019/62)](https://www.legislation.gov.uk/uksi/2019/62), [regs. 1](https://www.legislation.gov.uk/uksi/2019/62/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/62/regulation/8) and reg. 94A and cross-heading inserted (N.I.) (9.2.2019) by [The Human Medicines (Amendment) Regulations 2019 (S.R. 2019/10)](https://www.legislation.gov.uk/nisr/2019/10), [regs. 1](https://www.legislation.gov.uk/nisr/2019/10/regulation/1), [8](https://www.legislation.gov.uk/nisr/2019/10/regulation/8)
+[^c-8d718c901be495e0e1992d0984e04464]: Textual amendment: Reg. 94A and cross-heading inserted (9.2.2019) by [The Human Medicines (Amendment) Regulations 2019 (S.I. 2019/62)](https://www.legislation.gov.uk/uksi/2019/62), [regs. 1](https://www.legislation.gov.uk/uksi/2019/62/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/62/regulation/8) and reg. 94A and cross-heading inserted (N.I.) (9.2.2019) by [The Human Medicines (Amendment) Regulations 2019 (S.R. 2019/10)](https://www.legislation.gov.uk/nisr/2019/10), [regs. 1](https://www.legislation.gov.uk/nisr/2019/10/regulation/1), [8](https://www.legislation.gov.uk/nisr/2019/10/regulation/8)
 
-[^key-69f32596cbc631bf6c8ab7cddc09e3a9]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2012/1916/part/7) cross-heading substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [108](https://www.legislation.gov.uk/uksi/2019/775/regulation/108); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-69f32596cbc631bf6c8ab7cddc09e3a9]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2012/1916/part/7) cross-heading substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [108](https://www.legislation.gov.uk/uksi/2019/775/regulation/108); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-61894fe5078e1bf81579bcff06aede44]: Textual amendment: Reg. 126A and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [112](https://www.legislation.gov.uk/uksi/2019/775/regulation/112) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 83](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/83)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61894fe5078e1bf81579bcff06aede44]: Textual amendment: Reg. 126A and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [112](https://www.legislation.gov.uk/uksi/2019/775/regulation/112) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 83](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/83)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a3b00e52b02a782fa72160f409c999d]: Textual amendment: Words in reg. 196 cross-heading inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 156(ZA)(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/156/ZA/a) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/123))
+[^c-7a3b00e52b02a782fa72160f409c999d]: Textual amendment: Words in reg. 196 cross-heading inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 156(ZA)(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/156/ZA/a) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/123))
 
-[^key-b1cc0d401f9fa1ee395cacaea2143ef8]: Textual amendment: [Reg. 202A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/202A) and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [163](https://www.legislation.gov.uk/uksi/2019/775/regulation/163); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b1cc0d401f9fa1ee395cacaea2143ef8]: Textual amendment: [Reg. 202A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/202A) and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [163](https://www.legislation.gov.uk/uksi/2019/775/regulation/163); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bac233fc9456b036b29976f6ca718d1d]: Textual amendment: Reg. 205A and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [167](https://www.legislation.gov.uk/uksi/2019/775/regulation/167) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 134](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/134)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bac233fc9456b036b29976f6ca718d1d]: Textual amendment: Reg. 205A and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [167](https://www.legislation.gov.uk/uksi/2019/775/regulation/167) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 134](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/134)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e0d7c4a47ccd5677c952111071c9922]: Textual amendment: [Reg. 205B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/205B) and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [169](https://www.legislation.gov.uk/uksi/2019/775/regulation/169); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e0d7c4a47ccd5677c952111071c9922]: Textual amendment: [Reg. 205B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/205B) and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [169](https://www.legislation.gov.uk/uksi/2019/775/regulation/169); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-50d3c7b3cb5b7876a48829835a42abc0]: Modification: Pt. 12 modified (E.W.) (1.10.2015) by [The Nicotine Inhaling Products (Age of Sale and Proxy Purchasing) Regulations 2015 (S.I. 2015/895)](https://www.legislation.gov.uk/uksi/2015/895), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/895/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2015/895/regulation/4/2)
+[^c-50d3c7b3cb5b7876a48829835a42abc0]: Modification: Pt. 12 modified (E.W.) (1.10.2015) by [The Nicotine Inhaling Products (Age of Sale and Proxy Purchasing) Regulations 2015 (S.I. 2015/895)](https://www.legislation.gov.uk/uksi/2015/895), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/895/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2015/895/regulation/4/2)
 
-[^key-935f6544e55359fa0989b19ff0c80cd3]: Textual amendment: Pt. 12A inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2013/1855/regulation/28)
+[^c-935f6544e55359fa0989b19ff0c80cd3]: Textual amendment: Pt. 12A inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2013/1855/regulation/28)

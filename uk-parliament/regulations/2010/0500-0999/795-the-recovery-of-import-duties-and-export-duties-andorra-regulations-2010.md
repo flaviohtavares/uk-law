@@ -50,11 +50,11 @@ The Treasury, in exercise of the powers conferred by section 134(6) of the Finan
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-c269579bc16a43509c6144d589507cbe]
+### 1. Citation and commencement[^c-c269579bc16a43509c6144d589507cbe]
 
 These Regulations may be cited as the Recovery of Import Duties and Export Duties (Andorra) Regulations 2010 and come into force on 6th April 2010.
 
-### 2. Interpretation[^key-98d29e95eab377a24e5d30ba1e63c945]
+### 2. Interpretation[^c-98d29e95eab377a24e5d30ba1e63c945]
 
 In these Regulations—
 
@@ -80,7 +80,7 @@ In these Regulations—
 
 ## PART 2 — Requests for Assistance
 
-### 3. Requests for Information – making the request[^key-3d1e6d87045f709eb49223ba6ff92010]
+### 3. Requests for Information – making the request[^c-3d1e6d87045f709eb49223ba6ff92010]
 
 (1) A request for information shall—
 
@@ -94,7 +94,7 @@ In these Regulations—
 - (b) a person liable for settlement of a claim under the law in force in the Principality of Andorra; or
 - (c) a third party holding assets belonging to a person mentioned in sub-paragraph (a) or (b).
 
-### 4. Requests for Information – procedure following receipt of the request[^key-eaf122f2845667b895fd4dfb4978d5e2]
+### 4. Requests for Information – procedure following receipt of the request[^c-eaf122f2845667b895fd4dfb4978d5e2]
 
 (1) The Commissioners shall—
 
@@ -111,7 +111,7 @@ In these Regulations—
 
 (5) The Commissioners shall be under no obligation to execute a request for information until the applicant authority has complied, so far as it is able, with any request made of it under paragraph (4).
 
-### 5. Refusal of Requests for Information[^key-d7056cecd4aa862d2aa4fac5f2d80d7e]
+### 5. Refusal of Requests for Information[^c-d7056cecd4aa862d2aa4fac5f2d80d7e]
 
 The Commissioners shall not be obliged to supply information where—
 
@@ -120,7 +120,7 @@ The Commissioners shall not be obliged to supply information where—
 - (c) the supply of the requested information would disclose any commercial, industrial or professional secret; or
 - (d) disclosure of the information would be liable to prejudice the security or public order of the United Kingdom.
 
-### 6. Requests for Notification – making the request[^key-ca535f95487143add7557f2fb30dc09f]
+### 6. Requests for Notification – making the request[^c-ca535f95487143add7557f2fb30dc09f]
 
 (1) A request for notification shall—
 
@@ -131,7 +131,7 @@ The Commissioners shall not be obliged to supply information where—
 
 (2) A request for notification shall relate to a natural or legal person who, in accordance with the laws in force in the Principality of Andorra, is entitled to be informed of any instrument or decision which concerns that person.
 
-### 7. Requests for Notification – procedure following receipt of the request[^key-f59013ebfd43937564220f104b863ceb]
+### 7. Requests for Notification – procedure following receipt of the request[^c-f59013ebfd43937564220f104b863ceb]
 
 (1) The Commissioners shall—
 
@@ -144,7 +144,7 @@ The Commissioners shall not be obliged to supply information where—
 
 (3) For the purposes of this regulation, “**instrument**” means any document or decision, including those of a judicial nature, which emanates from the Principality of Andorra and which relates to a claim which forms the subject of a request for recovery.
 
-### 8. Requests for recovery or for the taking of precautionary measures – making the request[^key-a8cb01c7f150fbe8fbb0e6d60af7c017]
+### 8. Requests for recovery or for the taking of precautionary measures – making the request[^c-a8cb01c7f150fbe8fbb0e6d60af7c017]
 
 (1) A request for recovery or a request for the taking of precautionary measures shall—
 
@@ -165,7 +165,7 @@ The Commissioners shall not be obliged to supply information where—
 
 (5) For the purposes of these Regulations, where the instrument permitting enforcement concerns more than one claim against a person, the claims in question shall be treated as a single claim.
 
-### 9. Requests for recovery or for the taking of precautionary measures – initial procedure following receipt of the request[^key-e49dd67192e2d39f44487e0f4c8efc29]
+### 9. Requests for recovery or for the taking of precautionary measures – initial procedure following receipt of the request[^c-e49dd67192e2d39f44487e0f4c8efc29]
 
 (1) The Commissioners shall, not later than seven days after the date of receipt of a request for recovery or for the taking of precautionary measures—
 
@@ -182,7 +182,7 @@ The Commissioners shall not be obliged to supply information where—
 
 (6) The Commissioners shall inform the applicant authority immediately of the action that they have taken on any request for recovery or for the taking of precautionary measures.
 
-### 10. Requests for recovery or for the taking of precautionary measures – subsequent procedure following receipt of the request[^key-e146cabb68cd0b7c816be94d5bd49330]
+### 10. Requests for recovery or for the taking of precautionary measures – subsequent procedure following receipt of the request[^c-e146cabb68cd0b7c816be94d5bd49330]
 
 (1) Where the Commissioners do not, within three months of the date of receipt of a request made in accordance with regulation 8, take the recovery action or precautionary measures requested, they shall, not later than seven days from the end of that period, inform the applicant authority in writing of the reasons for their failure to comply with the time-limit.
 
@@ -200,18 +200,18 @@ The Commissioners shall not be obliged to supply information where—
 - (b) must be made within two months of the date of any notification given in accordance with paragraphs (1) to (3); and
 - (c) is subject to the provisions of these Regulations which applied to the initial request.
 
-### 11. Refusal of Requests for recovery or for the taking of precautionary measures[^key-4d350fb05dd91fb228996ce1e9146768]
+### 11. Refusal of Requests for recovery or for the taking of precautionary measures[^c-4d350fb05dd91fb228996ce1e9146768]
 
 The Commissioners shall not be obliged to comply with a request for recovery or for the taking of precautionary measures if to do so would, because of the situation of the debtor, create serious economic or social difficulties in the United Kingdom, except insofar as the laws, regulations or administrative practices in force in the United Kingdom allow such action for corresponding UK claims.
 
-### 12. Time to pay and payment by instalments[^key-435f958f5f055a5f98683d20dce8eb3b]
+### 12. Time to pay and payment by instalments[^c-435f958f5f055a5f98683d20dce8eb3b]
 
 The Commissioners may, after consultation with the applicant authority—
 
 - (a) allow the debtor time to pay, or
 - (b) authorise payment by instalments.
 
-### 13. Transfer of sums recovered[^key-df66473159de795460065bde776c6ba1]
+### 13. Transfer of sums recovered[^c-df66473159de795460065bde776c6ba1]
 
 (1) Claims shall be recovered in UK sterling.
 
@@ -226,7 +226,7 @@ The Commissioners may, after consultation with the applicant authority—
 - (a) any amounts collected by the Commissioners in accordance with article 12(2) of the Decision shall be disregarded; and
 - (b) any sums recovered shall be converted into UK sterling at the rate prescribed in regulation 18(2).
 
-### 14. Contested recovery[^key-0bf3c89bed3364bb3cbd628be894dcc5]
+### 14. Contested recovery[^c-0bf3c89bed3364bb3cbd628be894dcc5]
 
 (1) Any action contesting the claim or the instrument permitting its enforcement, which is issued in the Principality of Andorra, shall be notified to the Commissioners in writing by the applicant authority immediately after it has been informed of such action.
 
@@ -244,7 +244,7 @@ The Commissioners may, after consultation with the applicant authority—
 
 (8) For the purposes of paragraphs (5) to (7), any step or action taken by the Commissioners in recovery of a claim in pursuance of a request for assistance shall be deemed to have been taken in the Principality of Andorra, where that step or action would, if it had been taken by the applicant authority, have had the effect of suspending or interrupting the period of limitation or prescription in accordance with the laws in force in the Principality of Andorra.
 
-### 15. Costs of Recovery[^key-e21d99e34f5cdc9566d0f8eba39a99ce]
+### 15. Costs of Recovery[^c-e21d99e34f5cdc9566d0f8eba39a99ce]
 
 (1) The Commissioners shall be entitled to recover from the person against whom they recover a claim, and retain, any costs linked to recovery which they incur, in accordance with the law of the United Kingdom applying to corresponding UK claims.
 
@@ -258,13 +258,13 @@ the applicant authority and the Commissioners may agree reimbursement arrangemen
 
 (3) The Principality of Andorra shall remain liable to the United Kingdom for any costs and losses incurred as a result of actions held to be unfounded, as far as either the substance of the claim or the validity of the instrument issued by the applicant authority are concerned.
 
-### 16. Notice of cancellation or payment of a claim[^key-abeed91b6c61adb9c67fb05d38795e1c]
+### 16. Notice of cancellation or payment of a claim[^c-abeed91b6c61adb9c67fb05d38795e1c]
 
 (1) The applicant authority shall immediately notify the Commissioners in writing if payment is made in satisfaction of a claim or if a request is cancelled for any reason.
 
 (2) Upon receipt of such notification, the Commissioners shall cease any recovery action or precautionary measures in relation to that claim.
 
-### 17. Adjustment of a claim[^key-9e36ed06ff761dc902f1837604dc3d16]
+### 17. Adjustment of a claim[^c-9e36ed06ff761dc902f1837604dc3d16]
 
 (1) Where the amount of a claim which is the subject of a request for recovery or for precautionary measures is amended for any reason, the applicant authority shall immediately so inform the Commissioners, and, if necessary, issue a new instrument.
 
@@ -280,13 +280,13 @@ the applicant authority and the Commissioners may agree reimbursement arrangemen
 
 (5) In order to convert the amended amount of the claim into UK sterling, the applicant authority shall use the exchange rate used in its original request.
 
-### 18. Minimum amount on requests for assistance[^key-37a76818c004e84282ebbc25bf0961c1]
+### 18. Minimum amount on requests for assistance[^c-37a76818c004e84282ebbc25bf0961c1]
 
 (1) A request for assistance shall not be entertained if the claim is 1500 Euros or less or the UK sterling equivalent at the time of request.
 
 (2) For the purposes of these Regulations, the rate of exchange shall be the latest selling rate recorded on the most representative exchange market or markets of the Principality of Andorra, on the date on which the request for assistance is signed.
 
-### 19. Limitation on requests for assistance[^key-f1b6518e5f1c0ed3f9fcabf8bc31de71]
+### 19. Limitation on requests for assistance[^c-f1b6518e5f1c0ed3f9fcabf8bc31de71]
 
 (1) The Commissioners shall not be obliged to grant a request for assistance of any kind if the initial request for information, recovery or precautionary measures concerns claims more than five years old.
 
@@ -295,7 +295,7 @@ the applicant authority and the Commissioners may agree reimbursement arrangemen
 - (a) where the claim and instrument are not contested, on the date the instrument permitting the enforcement was established in accordance with the laws, regulations or administrative practices in force in the Principality of Andorra;
 - (b) where the claim or the instrument is contested, on the date upon which it is established that the claim or the instrument may no longer be contested.
 
-### 20. Communication of documents and information[^key-b2c607244ea585b3d7d985bc2a958908]
+### 20. Communication of documents and information[^c-b2c607244ea585b3d7d985bc2a958908]
 
 (1) Documents and information sent to the Commissioners pursuant to the Decision shall only be communicated by them to—
 
@@ -307,13 +307,13 @@ the applicant authority and the Commissioners may agree reimbursement arrangemen
 
 (3) The Commissioners shall not provide information of a personal nature unless the applicant authority undertakes to provide equivalent safeguards to those that would be applicable to that information in the United Kingdom.
 
-### 21. Language requirements[^key-83b451e7db7cca90503f6b60262b6391]
+### 21. Language requirements[^c-83b451e7db7cca90503f6b60262b6391]
 
 (1) Save where the Commissioners agree otherwise, requests for assistance, the instrument permitting enforcement, and any other relevant documents shall be accompanied by a translation into English.
 
 (2) All information and particulars communicated to an applicant authority by the Commissioners in accordance with the Decision shall be conveyed in English or in such other language as is agreed between the Commissioners and the applicant authority.
 
-### 22. Notice of refusal of requests for assistance[^key-2641325e3a43316b66ec44a49054d9ec]
+### 22. Notice of refusal of requests for assistance[^c-2641325e3a43316b66ec44a49054d9ec]
 
 (1) Where the Commissioners refuse a request for assistance, they shall give written notification to the applicant authority of the reasons for their refusal, as soon as the decision is taken and in any event within three months from the date of the acknowledgement of the receipt of the request.
 
@@ -321,15 +321,15 @@ the applicant authority and the Commissioners may agree reimbursement arrangemen
 
 (3) Such notification shall also be given to the Commission of the European Communities.
 
-### 23. Withdrawal of requests[^key-e521fc48abd88fe379535034cb01ee92]
+### 23. Withdrawal of requests[^c-e521fc48abd88fe379535034cb01ee92]
 
 An applicant authority may in writing at any time withdraw a request made under these Regulations.
 
 ## PART 3 — Interest
 
-### 24. Interest[^key-9a774f60fcf2fcecaeb83839dfd5412e]
+### 24. Interest[^c-9a774f60fcf2fcecaeb83839dfd5412e]
 
-(1)[^key-587570b927fa8ec0d2c3978c7f89f7a0] A claim shall carry interest in respect of the principal and any penalty claimed, at the rate applicable to a corresponding UK claim under section 197 of the Finance Act 1996, from the earlier of—
+(1)[^c-587570b927fa8ec0d2c3978c7f89f7a0] A claim shall carry interest in respect of the principal and any penalty claimed, at the rate applicable to a corresponding UK claim under section 197 of the Finance Act 1996, from the earlier of—
 
 - (a) the day following the expiry of three months from the date of receipt by the Commissioners of the request for recovery; and
 - (b) the date on which the instrument permitting enforcement of the claim is recognised by the Commissioners as an instrument authorising enforcement of the claim in the United Kingdom,
@@ -349,7 +349,7 @@ the payment shall be treated as made on the day on which the cheque was received
 
 ## PART 4 — Evidence
 
-### 25. Evidence[^key-669ff729ffe26afc9b77540e62aaded7]
+### 25. Evidence[^c-669ff729ffe26afc9b77540e62aaded7]
 
 (1) An instrument permitting enforcement of a claim recognised by the Commissioners as an instrument authorising enforcement of the claim in the United Kingdom, together with a certificate of an officer of Revenue and Customs that payment of the claim has not been made to that officer, or, to the best of that officer’s knowledge and belief, to any other such officer, or to any person acting on that officer’s behalf or on behalf of another officer, or to the applicant authority, is sufficient evidence that the sum mentioned in the instrument is unpaid and is due to that authority.
 
@@ -367,7 +367,7 @@ the payment shall be treated as made on the day on which the cheque was received
 
 ## PART 5 — Enforcement in Scotland
 
-### 26. Enforcement in Scotland[^key-a77f6af8411c51978f584fc6419b17a4]
+### 26. Enforcement in Scotland[^c-a77f6af8411c51978f584fc6419b17a4]
 
 (1) For the purposes of enforcement in Scotland, an original, official or certified copy of a decision on a claim by a court, tribunal or other competent body of the Principality of Andorra shall be of the same force and effect as an extract of a decree of the Court of Session for the payment of money bearing a warrant for execution.
 
@@ -453,60 +453,60 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00003]: Footnote: Paragraph 3(4) of Schedule 39 to the Finance Act 2002 provides that the power to make regulations under that paragraph shall be exercisable by “the relevant UK authority”. Paragraph 2(2) of that Schedule provides that “**the relevant UK authority**” means, in relation to matters corresponding to those within the care and management of the Commissioners of Customs and Excise, the Commissioners of Customs and Excise. The functions of the Commissioners of Customs and Excise were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(2) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that a reference to the Commissioners of Customs and Excise shall be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
 
-[^key-c269579bc16a43509c6144d589507cbe]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-c269579bc16a43509c6144d589507cbe]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-98d29e95eab377a24e5d30ba1e63c945]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-98d29e95eab377a24e5d30ba1e63c945]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
 [^f00004]: Footnote: OJ No L 253, 07.10.2003, p3.
 
 [^f00005]: Footnote: OJ No L 319, 29.11.2008, p21.
 
-[^key-3d1e6d87045f709eb49223ba6ff92010]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-3d1e6d87045f709eb49223ba6ff92010]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-eaf122f2845667b895fd4dfb4978d5e2]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-eaf122f2845667b895fd4dfb4978d5e2]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-d7056cecd4aa862d2aa4fac5f2d80d7e]: Commencement: Reg. 5 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-d7056cecd4aa862d2aa4fac5f2d80d7e]: Commencement: Reg. 5 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-ca535f95487143add7557f2fb30dc09f]: Commencement: Reg. 6 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-ca535f95487143add7557f2fb30dc09f]: Commencement: Reg. 6 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-f59013ebfd43937564220f104b863ceb]: Commencement: Reg. 7 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-f59013ebfd43937564220f104b863ceb]: Commencement: Reg. 7 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-a8cb01c7f150fbe8fbb0e6d60af7c017]: Commencement: Reg. 8 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-a8cb01c7f150fbe8fbb0e6d60af7c017]: Commencement: Reg. 8 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-e49dd67192e2d39f44487e0f4c8efc29]: Commencement: Reg. 9 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-e49dd67192e2d39f44487e0f4c8efc29]: Commencement: Reg. 9 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-e146cabb68cd0b7c816be94d5bd49330]: Commencement: Reg. 10 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-e146cabb68cd0b7c816be94d5bd49330]: Commencement: Reg. 10 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-4d350fb05dd91fb228996ce1e9146768]: Commencement: Reg. 11 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-4d350fb05dd91fb228996ce1e9146768]: Commencement: Reg. 11 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-435f958f5f055a5f98683d20dce8eb3b]: Commencement: Reg. 12 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-435f958f5f055a5f98683d20dce8eb3b]: Commencement: Reg. 12 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-df66473159de795460065bde776c6ba1]: Commencement: Reg. 13 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-df66473159de795460065bde776c6ba1]: Commencement: Reg. 13 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-0bf3c89bed3364bb3cbd628be894dcc5]: Commencement: Reg. 14 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-0bf3c89bed3364bb3cbd628be894dcc5]: Commencement: Reg. 14 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-e21d99e34f5cdc9566d0f8eba39a99ce]: Commencement: Reg. 15 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-e21d99e34f5cdc9566d0f8eba39a99ce]: Commencement: Reg. 15 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-abeed91b6c61adb9c67fb05d38795e1c]: Commencement: Reg. 16 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-abeed91b6c61adb9c67fb05d38795e1c]: Commencement: Reg. 16 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-9e36ed06ff761dc902f1837604dc3d16]: Commencement: Reg. 17 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-9e36ed06ff761dc902f1837604dc3d16]: Commencement: Reg. 17 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-37a76818c004e84282ebbc25bf0961c1]: Commencement: Reg. 18 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-37a76818c004e84282ebbc25bf0961c1]: Commencement: Reg. 18 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-f1b6518e5f1c0ed3f9fcabf8bc31de71]: Commencement: Reg. 19 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-f1b6518e5f1c0ed3f9fcabf8bc31de71]: Commencement: Reg. 19 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-b2c607244ea585b3d7d985bc2a958908]: Commencement: Reg. 20 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-b2c607244ea585b3d7d985bc2a958908]: Commencement: Reg. 20 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-83b451e7db7cca90503f6b60262b6391]: Commencement: Reg. 21 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-83b451e7db7cca90503f6b60262b6391]: Commencement: Reg. 21 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-2641325e3a43316b66ec44a49054d9ec]: Commencement: Reg. 22 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-2641325e3a43316b66ec44a49054d9ec]: Commencement: Reg. 22 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-e521fc48abd88fe379535034cb01ee92]: Commencement: Reg. 23 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-e521fc48abd88fe379535034cb01ee92]: Commencement: Reg. 23 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-9a774f60fcf2fcecaeb83839dfd5412e]: Commencement: Reg. 24 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-9a774f60fcf2fcecaeb83839dfd5412e]: Commencement: Reg. 24 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-587570b927fa8ec0d2c3978c7f89f7a0]: Textual amendment: [Reg. 24(1)](https://www.legislation.gov.uk/uksi/2010/795/regulation/24/1) substituted for reg. 24(1)(2) (22.7.2011) by [The Recovery of Import Duties and Export Duties (Andorra) (Amendment) Regulations 2011 (S.I. 2011/1608)](https://www.legislation.gov.uk/uksi/2011/1608), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1608/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/1608/regulation/2)
+[^c-587570b927fa8ec0d2c3978c7f89f7a0]: Textual amendment: [Reg. 24(1)](https://www.legislation.gov.uk/uksi/2010/795/regulation/24/1) substituted for reg. 24(1)(2) (22.7.2011) by [The Recovery of Import Duties and Export Duties (Andorra) (Amendment) Regulations 2011 (S.I. 2011/1608)](https://www.legislation.gov.uk/uksi/2011/1608), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1608/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/1608/regulation/2)
 
-[^key-669ff729ffe26afc9b77540e62aaded7]: Commencement: Reg. 25 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-669ff729ffe26afc9b77540e62aaded7]: Commencement: Reg. 25 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
 
-[^key-a77f6af8411c51978f584fc6419b17a4]: Commencement: Reg. 26 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)
+[^c-a77f6af8411c51978f584fc6419b17a4]: Commencement: Reg. 26 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/795/regulation/1)

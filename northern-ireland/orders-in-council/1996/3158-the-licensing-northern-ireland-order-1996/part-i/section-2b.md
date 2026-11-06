@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2B. Application to limited liability partnerships[^key-bb2059f4c6de79d44b2917ab08680b19]
+## 2B. Application to limited liability partnerships[^c-bb2059f4c6de79d44b2917ab08680b19]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ In its application to a limited liability partnership, this Order shall have eff
 
 ## Annotations
 
-[^key-bb2059f4c6de79d44b2917ab08680b19]: Textual amendment: Art. 2B inserted (1.5.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 6](https://www.legislation.gov.uk/nia/2011/18/section/6), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
+[^c-bb2059f4c6de79d44b2917ab08680b19]: Textual amendment: Art. 2B inserted (1.5.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 6](https://www.legislation.gov.uk/nia/2011/18/section/6), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)

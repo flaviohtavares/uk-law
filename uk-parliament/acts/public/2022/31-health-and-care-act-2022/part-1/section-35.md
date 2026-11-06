@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Modification of standard licence conditions[^key-0eb6350968ae4d8f28bf8b4aee70527d][^key-8fb1a84ad277152f7b0a9499333d4764]
+## 35. Modification of standard licence conditions[^c-0eb6350968ae4d8f28bf8b4aee70527d][^c-8fb1a84ad277152f7b0a9499333d4764]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0eb6350968ae4d8f28bf8b4aee70527d]: Commencement: S. 35 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-0eb6350968ae4d8f28bf8b4aee70527d]: Commencement: S. 35 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-8fb1a84ad277152f7b0a9499333d4764]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/31/section/35) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-8fb1a84ad277152f7b0a9499333d4764]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2022/31/section/35) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

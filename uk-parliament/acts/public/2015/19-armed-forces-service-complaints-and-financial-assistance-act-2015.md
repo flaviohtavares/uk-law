@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Service complaints
 
-### 1. Creation of office of Service Complaints Ombudsman[^key-4fd7e31e5602d596c5fda7f57a20e486]
+### 1. Creation of office of Service Complaints Ombudsman[^c-4fd7e31e5602d596c5fda7f57a20e486]
 
 (1) After section 365A of the Armed Forces Act 2006 insert—
 
@@ -68,7 +68,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) Accordingly, in the Armed Forces Act 2006, omit section 366 and the italic cross-heading immediately preceding it.
 
-### 2. Reform of system for redress of individual grievances[^key-44bbd5d6901bc3e8738e16426f56e4a8]
+### 2. Reform of system for redress of individual grievances[^c-44bbd5d6901bc3e8738e16426f56e4a8]
 
 (1) After section 340 of the Armed Forces Act 2006 insert—
 
@@ -479,7 +479,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) In consequence of subsection (1), in the Armed Forces Act 2006, omit sections 334 to 339.
 
-### 3. Consequential amendments[^key-aa69da2e66932879d474372b6981ff30]
+### 3. Consequential amendments[^c-aa69da2e66932879d474372b6981ff30]
 
 The Schedule contains amendments that are consequential on sections 1 and 2.
 
@@ -530,7 +530,7 @@ whether in the British Islands or elsewhere.
 
 (2) An amendment or repeal made by this Act has the same extent as the provision amended or repealed (ignoring extent by virtue of an Order in Council).
 
-(3)[^key-dc647166bb840c7849d224851555ef17] Her Majesty may by Order in Council provide for sections 1 and 2 and the Schedule to extend, with or without modifications, to a territory mentioned in subsection (4).
+(3)[^c-dc647166bb840c7849d224851555ef17] Her Majesty may by Order in Council provide for sections 1 and 2 and the Schedule to extend, with or without modifications, to a territory mentioned in subsection (4).
 
 (4) Those territories are—
 
@@ -582,9 +582,9 @@ Section 3
 
 ### Equal Pay Act (Northern Ireland) 1970 (c. 32 (N.I.))
 
-**1.**[^key-16c197a67dee6b9b883afe70251caacb] The Equal Pay Act (Northern Ireland) 1970 is amended as follows.
+**1.**[^c-16c197a67dee6b9b883afe70251caacb] The Equal Pay Act (Northern Ireland) 1970 is amended as follows.
 
-**2.**[^key-2226758f443e0127efef7c7c24711a8d] (1) Section 6A (service pay and conditions) is amended as follows.
+**2.**[^c-2226758f443e0127efef7c7c24711a8d] (1) Section 6A (service pay and conditions) is amended as follows.
 
 (2) In subsection (5), for paragraph (b) substitute—
 
@@ -625,22 +625,22 @@ Section 3
   , and
 - (c) omit the definition “the service complaint procedures”.
 
-**3.**[^key-82de936708d10ab05cfac607dc3bdbe4] In section 6AB (“arrears date” in proceedings under section 6A(9)), in subsection (5), for “in accordance with regulations made under section 6A(6)” substitute “ by virtue of section 6A(6A) ”.
+**3.**[^c-82de936708d10ab05cfac607dc3bdbe4] In section 6AB (“arrears date” in proceedings under section 6A(9)), in subsection (5), for “in accordance with regulations made under section 6A(6)” substitute “ by virtue of section 6A(6A) ”.
 
 ### House of Commons Disqualification Act 1975 (c. 24)
 
-**4.**[^key-812eef52c677ca52310c0fd53260ffba] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (disqualifying offices)—
+**4.**[^c-812eef52c677ca52310c0fd53260ffba] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (disqualifying offices)—
 
 - (a) omit the entry relating to the Service Complaints Commissioner, and
 - (b) at the appropriate place insert— “ Service Complaints Ombudsman. ”
 
 ### Sex Discrimination (Northern Ireland) Order 1976 (S.I. 1976/1042 (N.I. 15))
 
-**5.**[^key-d77287f7247b9c42b15b237d186fbc60] The Sex Discrimination (Northern Ireland) Order 1976 is amended as follows.
+**5.**[^c-d77287f7247b9c42b15b237d186fbc60] The Sex Discrimination (Northern Ireland) Order 1976 is amended as follows.
 
-**6.**[^key-dbe6c8ca0d22fbb8d43f7d25f6c8e56c] In Article 80 (orders and regulations), in paragraph (1), omit “(except Article 82(9C))”.
+**6.**[^c-dbe6c8ca0d22fbb8d43f7d25f6c8e56c] In Article 80 (orders and regulations), in paragraph (1), omit “(except Article 82(9C))”.
 
-**7.**[^key-8918af13b62d51bcbbcb6e7519014a84] (1) Article 82 (application to Crown etc) is amended as follows.
+**7.**[^c-8918af13b62d51bcbbcb6e7519014a84] (1) Article 82 (application to Crown etc) is amended as follows.
 
 (2) In paragraph (9B), for sub-paragraph (b) substitute—
 
@@ -675,7 +675,7 @@ Section 3
 
 ### Race Relations (Northern Ireland) Order 1997 (S.I. 1997/869 (N.I. 6))
 
-**8.**[^key-24b42dc5137186c336fd9d79de637f8a] (1) Article 71 of the Race Relations (Northern Ireland) Order 1997 (application to Crown etc) is amended as follows.
+**8.**[^c-24b42dc5137186c336fd9d79de637f8a] (1) Article 71 of the Race Relations (Northern Ireland) Order 1997 (application to Crown etc) is amended as follows.
 
 (2) In paragraph (8), for sub-paragraph (b) substitute—
 
@@ -710,14 +710,14 @@ Section 3
 
 ### Armed Forces Act 2006 (c. 52)
 
-**9.**[^key-8f72fa18c00ca5f71cc801b158018104] The Armed Forces Act 2006 is amended as follows.
+**9.**[^c-8f72fa18c00ca5f71cc801b158018104] The Armed Forces Act 2006 is amended as follows.
 
-**10.**[^key-f976b4ff7516ad4bb092c651552a37ff] In section 373 (orders, regulations and rules under that Act)—
+**10.**[^c-f976b4ff7516ad4bb092c651552a37ff] In section 373 (orders, regulations and rules under that Act)—
 
 - (a) in subsection (2), for “and 340” substitute “ , 340 and 340B ”, and
 - (b) in subsection (3)(d) (regulations subject to affirmative procedure), for the words from “334(2)” to the end substitute “ 340A(4), 340E(1) or 340N ”.
 
-**11.**[^key-a6d60d65a6b3fef5c5fc64bfad7da03e] In section 374 (definitions applying for purposes of Act)—
+**11.**[^c-a6d60d65a6b3fef5c5fc64bfad7da03e] In section 374 (definitions applying for purposes of Act)—
 
 - (a) omit the definition relating to the Service Complaints Commissioner, and
 - (b) at the appropriate place insert—
@@ -728,9 +728,9 @@ Section 3
 
 ### Equality Act 2010 (c. 15)
 
-**12.**[^key-a774859f4aa734a52f14a80e7a1a3e5d] Part 9 of the Equality Act 2010 (enforcement) is amended as follows.
+**12.**[^c-a774859f4aa734a52f14a80e7a1a3e5d] Part 9 of the Equality Act 2010 (enforcement) is amended as follows.
 
-**13.**[^key-cd5a2d0baa619b0d8dd059fd385cdee4] (1) Section 121 (armed forces cases in relation to which employment tribunal has jurisdiction) is amended as follows.
+**13.**[^c-cd5a2d0baa619b0d8dd059fd385cdee4] (1) Section 121 (armed forces cases in relation to which employment tribunal has jurisdiction) is amended as follows.
 
 (2) For subsection (2) substitute—
 
@@ -752,19 +752,19 @@ Section 3
 > - “**the 2006 Act**” means the Armed Forces Act 2006;
 > - “**service complaints regulations**” means regulations made under section 340B(1) of the 2006 Act.
 
-**14.**[^key-f7a2d14b1a86cac87e9b4bdde8138f57] In section 127 (jurisdiction), in subsection (7), for “Subsections (2) to (5)” substitute “ Subsections (2) to (6) ”.
+**14.**[^c-f7a2d14b1a86cac87e9b4bdde8138f57] In section 127 (jurisdiction), in subsection (7), for “Subsections (2) to (5)” substitute “ Subsections (2) to (6) ”.
 
-**15.**[^key-c37f1e6073cd206b590558ff5de24b4f] In section 141 (interpretation), for subsection (8) substitute—
+**15.**[^c-c37f1e6073cd206b590558ff5de24b4f] In section 141 (interpretation), for subsection (8) substitute—
 
 > (8) Service complaint” means a complaint made under section 340A(1) or (2) of the Armed Forces Act 2006.
 
 ### Armed Forces Act 2011 (c. 18)
 
-**16.**[^key-84433fac1c0676f94b9646a9f20d85c1] Omit section 20 of the Armed Forces Act 2011 (service complaint panels).
+**16.**[^c-84433fac1c0676f94b9646a9f20d85c1] Omit section 20 of the Armed Forces Act 2011 (service complaint panels).
 
 ### Consequential revocations
 
-**17.**[^key-0db09435fdcd35c4590d8d29fa5ef22c] The following instruments are revoked—
+**17.**[^c-0db09435fdcd35c4590d8d29fa5ef22c] The following instruments are revoked—
 
 - the Race Relations (Complaints to Industrial Tribunals) (Armed Forces) Regulations 1998 (S.R. (N.I.) 1998/104);
 - the Equal Pay (Complaints to Industrial Tribunals) (Armed Forces) Regulations 1998 (S.R. (N.I.) 1998/105);
@@ -772,44 +772,44 @@ Section 3
 
 ## Annotations
 
-[^key-4fd7e31e5602d596c5fda7f57a20e486]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/19/section/1) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-4fd7e31e5602d596c5fda7f57a20e486]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/19/section/1) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-44bbd5d6901bc3e8738e16426f56e4a8]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2015/19/section/2) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-44bbd5d6901bc3e8738e16426f56e4a8]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2015/19/section/2) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-aa69da2e66932879d474372b6981ff30]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2015/19/section/3) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-aa69da2e66932879d474372b6981ff30]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2015/19/section/3) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-dc647166bb840c7849d224851555ef17]: Modification: [S. 5(3)](https://www.legislation.gov.uk/ukpga/2015/19/section/5/3) restricted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 4(d)](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/4/d) (with [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/5))
+[^c-dc647166bb840c7849d224851555ef17]: Modification: [S. 5(3)](https://www.legislation.gov.uk/ukpga/2015/19/section/5/3) restricted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 4(d)](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/4/d) (with [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/5))
 
-[^key-16c197a67dee6b9b883afe70251caacb]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/1) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-16c197a67dee6b9b883afe70251caacb]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/1) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-2226758f443e0127efef7c7c24711a8d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-2226758f443e0127efef7c7c24711a8d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-82de936708d10ab05cfac607dc3bdbe4]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/3) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-82de936708d10ab05cfac607dc3bdbe4]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/3) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-812eef52c677ca52310c0fd53260ffba]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/4) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-812eef52c677ca52310c0fd53260ffba]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/4) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-d77287f7247b9c42b15b237d186fbc60]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/5) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-d77287f7247b9c42b15b237d186fbc60]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/5) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-dbe6c8ca0d22fbb8d43f7d25f6c8e56c]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/6) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-dbe6c8ca0d22fbb8d43f7d25f6c8e56c]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/6) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-8918af13b62d51bcbbcb6e7519014a84]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/7) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-8918af13b62d51bcbbcb6e7519014a84]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/7) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-24b42dc5137186c336fd9d79de637f8a]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-24b42dc5137186c336fd9d79de637f8a]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/8) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-8f72fa18c00ca5f71cc801b158018104]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/9) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-8f72fa18c00ca5f71cc801b158018104]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/9) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-f976b4ff7516ad4bb092c651552a37ff]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/10) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-f976b4ff7516ad4bb092c651552a37ff]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/10) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-a6d60d65a6b3fef5c5fc64bfad7da03e]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/11) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-a6d60d65a6b3fef5c5fc64bfad7da03e]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/11) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-a774859f4aa734a52f14a80e7a1a3e5d]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/12) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-a774859f4aa734a52f14a80e7a1a3e5d]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/12) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-cd5a2d0baa619b0d8dd059fd385cdee4]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/13) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-cd5a2d0baa619b0d8dd059fd385cdee4]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/13) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-f7a2d14b1a86cac87e9b4bdde8138f57]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/14) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-f7a2d14b1a86cac87e9b4bdde8138f57]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/14) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-c37f1e6073cd206b590558ff5de24b4f]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/15) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-c37f1e6073cd206b590558ff5de24b4f]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/15) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-84433fac1c0676f94b9646a9f20d85c1]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/16) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-84433fac1c0676f94b9646a9f20d85c1]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/16) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
 
-[^key-0db09435fdcd35c4590d8d29fa5ef22c]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/17) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)
+[^c-0db09435fdcd35c4590d8d29fa5ef22c]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/17) in force at 1.1.2016 by [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in S.I. 2015/1969)

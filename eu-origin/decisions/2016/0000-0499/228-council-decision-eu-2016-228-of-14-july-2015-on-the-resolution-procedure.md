@@ -33,14 +33,14 @@ of 14 July 2015
 
 on the resolution procedure (revoked)
 
-[^key-c83934bfa80b65e55acaf7e5484de491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c83934bfa80b65e55acaf7e5484de491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c83934bfa80b65e55acaf7e5484de491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c83934bfa80b65e55acaf7e5484de491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c83934bfa80b65e55acaf7e5484de491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c83934bfa80b65e55acaf7e5484de491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c83934bfa80b65e55acaf7e5484de491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c83934bfa80b65e55acaf7e5484de491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c83934bfa80b65e55acaf7e5484de491]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(f)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c83934bfa80b65e55acaf7e5484de491]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(f)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

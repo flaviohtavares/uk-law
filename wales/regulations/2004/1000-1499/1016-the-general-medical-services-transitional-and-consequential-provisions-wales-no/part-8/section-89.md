@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Saving of sections 2A and 6(5) of the Health Service Commissioners Act 1993[^key-94fbd922870f5e967341678df8137973]
+## 89. Saving of sections 2A and 6(5) of the Health Service Commissioners Act 1993[^c-94fbd922870f5e967341678df8137973]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Notwithstanding the coming into force of the amendments to sections 2A and 6(5) 
 
 ## Annotations
 
-[^key-94fbd922870f5e967341678df8137973]: Commencement: Art. 89 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-94fbd922870f5e967341678df8137973]: Commencement: Art. 89 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00075]: Footnote: [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46). Section 2A was inserted by the Health Service Commissioners (Amendment) Act [1996 (c. 5)](https://www.legislation.gov.uk/ukpga/1996/5), section 1 and amended by the National Health Service (Primary Care) Act 1997, Schedule 2, paragraph 68, the Health Service Commissioners (Amendment) Act [2000 (c. 28)](https://www.legislation.gov.uk/ukpga/2000/28), section 1, the Scottish Public Services Ombudsman Act 2002, Schedule 6, paragraph 14 and the 2003 Act, Schedule 11, paragraph 62; section 6(5) was inserted by the Health Service Commissioners (Amendment) Act [1996 (c. 5)](https://www.legislation.gov.uk/ukpga/1996/5), section 7(3) and amended by the National Health Service Reform and Health Care Professions Act [2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), Schedule 2, paragraph 61 and the 2003 Act, Schedule 11, paragraph 63.
 

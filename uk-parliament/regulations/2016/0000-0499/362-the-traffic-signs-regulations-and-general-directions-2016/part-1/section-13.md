@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Revocations[^key-6cb30e914cfeee908dfe4f9bb462b951]
+## 13. Revocations[^c-6cb30e914cfeee908dfe4f9bb462b951]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Regulations specified in the table in Part 1 of Schedule 19 are revoked.
 
 ## Annotations
 
-[^key-6cb30e914cfeee908dfe4f9bb462b951]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/13) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-6cb30e914cfeee908dfe4f9bb462b951]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/13) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

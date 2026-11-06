@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Status conferred by adoption[^key-29207aa7682f00ad7418d186ffc19ea3]
+## 66. Status conferred by adoption[^c-29207aa7682f00ad7418d186ffc19ea3]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ but this subsection does not affect any reference in this Act to a person’s na
 
 ## Annotations
 
-[^key-29207aa7682f00ad7418d186ffc19ea3]: Commencement: S. 66 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-29207aa7682f00ad7418d186ffc19ea3]: Commencement: S. 66 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

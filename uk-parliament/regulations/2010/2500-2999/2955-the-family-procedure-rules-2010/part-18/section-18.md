@@ -33,7 +33,7 @@ summary: ''
 - (a) to applications where any other rule in any other Part of these rules sets out the procedure for that type of application;
 - (b) if a practice direction provides that the Part 18 procedure may not be used in relation to the type of application in question.
 
-(4)[^key-de49729dd3a3ff74f2b8c421cd64d8f4] This Part is subject to any provision made by or pursuant to Part 41 (proceeding by electronic means).
+(4)[^c-de49729dd3a3ff74f2b8c421cd64d8f4] This Part is subject to any provision made by or pursuant to Part 41 (proceeding by electronic means).
 
 ## 18.2. Applications for permission to start proceedings
 
@@ -41,7 +41,7 @@ summary: ''
 
 An application for permission to start proceedings must be made to the court where the proceedings will be started if permission is granted.
 
-(Rule 5.4 makes general provision in relation to the court in which proceedings should be started.)[^key-93d737b63d7317b49e0cd0a26640a6af]
+(Rule 5.4 makes general provision in relation to the court in which proceedings should be started.)[^c-93d737b63d7317b49e0cd0a26640a6af]
 
 ## 18.3. Respondents to applications under this Part
 
@@ -111,7 +111,7 @@ When an application must be made within a specified time, it is so made if the c
 
 - (a) as soon as practicable after it is filed; and
 - (b) in any event—
-  - (i) where the application is for an [^key-99dcf4130db4fe543f5c1e10eabd01c8]... order under rule 9.7 at least 14 days; and
+  - (i) where the application is for an [^c-99dcf4130db4fe543f5c1e10eabd01c8]... order under rule 9.7 at least 14 days; and
   - (ii) in any other case, at least 7 days;
 
   before the court is to deal with the application.
@@ -152,7 +152,7 @@ the court may direct that, in the circumstances of the case, sufficient notice h
 
 the court must, at the request of the applicant, re-list the application and fix a date for a hearing.
 
-(3)[^key-e3988be8995eee88e507408ebe39386e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e3988be8995eee88e507408ebe39386e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 18.10. Service of application notice following court order where application made without notice
 
@@ -188,27 +188,27 @@ the court must, at the request of the applicant, re-list the application and fix
 
 the court may, on application or of its own initiative, re-list the application.
 
-(3)[^key-225303620ef7e793768cecb0a9edcb63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-225303620ef7e793768cecb0a9edcb63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 18.13. Dismissal of totally without merit applications
 
 *Extent: E+W*
 
-If the [^key-3558d67f91169fa8d88b76589e558efe]... court dismisses an application (including an application for permission to appeal) and it considers that the application is totally without merit—
+If the [^c-3558d67f91169fa8d88b76589e558efe]... court dismisses an application (including an application for permission to appeal) and it considers that the application is totally without merit—
 
 - (a) the court's order must record that fact; and
 - (b) the court must at the same time consider whether it is appropriate to make a civil restraint order.
 
 ## Annotations
 
-[^key-de49729dd3a3ff74f2b8c421cd64d8f4]: Textual amendment: [Rule 18.1(4)](https://www.legislation.gov.uk/uksi/2010/2955/rule/18.1/4) inserted (6.4.2020) by [The Family Procedure (Amendment) Rules 2020 (S.I. 2020/135)](https://www.legislation.gov.uk/uksi/2020/135), [rules 1](https://www.legislation.gov.uk/uksi/2020/135/rule/1), [22](https://www.legislation.gov.uk/uksi/2020/135/rule/22)
+[^c-de49729dd3a3ff74f2b8c421cd64d8f4]: Textual amendment: [Rule 18.1(4)](https://www.legislation.gov.uk/uksi/2010/2955/rule/18.1/4) inserted (6.4.2020) by [The Family Procedure (Amendment) Rules 2020 (S.I. 2020/135)](https://www.legislation.gov.uk/uksi/2020/135), [rules 1](https://www.legislation.gov.uk/uksi/2020/135/rule/1), [22](https://www.legislation.gov.uk/uksi/2020/135/rule/22)
 
-[^key-93d737b63d7317b49e0cd0a26640a6af]: Textual amendment: Words in rule 18.2 inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [64](https://www.legislation.gov.uk/uksi/2013/3204/rule/64) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-93d737b63d7317b49e0cd0a26640a6af]: Textual amendment: Words in rule 18.2 inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [64](https://www.legislation.gov.uk/uksi/2013/3204/rule/64) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-99dcf4130db4fe543f5c1e10eabd01c8]: Textual amendment: Word in [rule 18.8(1)(b)(i)](https://www.legislation.gov.uk/uksi/2010/2955/rule/18.8/1/b/i) omitted (8.7.2013) by virtue of [The Family Procedure (Amendment No. 2) Rules 2013 (S.I. 2013/1472)](https://www.legislation.gov.uk/uksi/2013/1472), [rules 1](https://www.legislation.gov.uk/uksi/2013/1472/article/1), [5](https://www.legislation.gov.uk/uksi/2013/1472/rule/5)
+[^c-99dcf4130db4fe543f5c1e10eabd01c8]: Textual amendment: Word in [rule 18.8(1)(b)(i)](https://www.legislation.gov.uk/uksi/2010/2955/rule/18.8/1/b/i) omitted (8.7.2013) by virtue of [The Family Procedure (Amendment No. 2) Rules 2013 (S.I. 2013/1472)](https://www.legislation.gov.uk/uksi/2013/1472), [rules 1](https://www.legislation.gov.uk/uksi/2013/1472/article/1), [5](https://www.legislation.gov.uk/uksi/2013/1472/rule/5)
 
-[^key-e3988be8995eee88e507408ebe39386e]: Textual amendment: Rule 18.9(3) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [65](https://www.legislation.gov.uk/uksi/2013/3204/rule/65) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-e3988be8995eee88e507408ebe39386e]: Textual amendment: Rule 18.9(3) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [65](https://www.legislation.gov.uk/uksi/2013/3204/rule/65) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-225303620ef7e793768cecb0a9edcb63]: Textual amendment: Rule 18.12(3) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [65](https://www.legislation.gov.uk/uksi/2013/3204/rule/65) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-225303620ef7e793768cecb0a9edcb63]: Textual amendment: Rule 18.12(3) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [65](https://www.legislation.gov.uk/uksi/2013/3204/rule/65) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-3558d67f91169fa8d88b76589e558efe]: Textual amendment: Words in rule 18.13 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [66](https://www.legislation.gov.uk/uksi/2013/3204/rule/66) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-3558d67f91169fa8d88b76589e558efe]: Textual amendment: Words in rule 18.13 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [66](https://www.legislation.gov.uk/uksi/2013/3204/rule/66) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

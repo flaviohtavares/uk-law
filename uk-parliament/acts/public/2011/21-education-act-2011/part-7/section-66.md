@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Abolition of the Young People's Learning Agency for England[^key-86fd77c7094881df9f3771e2b93a05cb]
+## 66. Abolition of the Young People's Learning Agency for England[^c-86fd77c7094881df9f3771e2b93a05cb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Sections 60 to 80 of, and Schedule 3 to, ASCLA 2009 (the Young People's Learning
 
 ## Annotations
 
-[^key-86fd77c7094881df9f3771e2b93a05cb]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2011/21/section/66) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-86fd77c7094881df9f3771e2b93a05cb]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2011/21/section/66) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

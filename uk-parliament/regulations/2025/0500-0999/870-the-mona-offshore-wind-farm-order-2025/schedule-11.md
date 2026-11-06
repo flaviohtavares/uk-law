@@ -22,7 +22,7 @@ summary: ''
 
 Article 34, 35
 
-### PART 1 — Removal of hedgerows[^key-fa3409245058ec9a66f3ee1cd63afd16]
+### PART 1 — Removal of hedgerows[^c-fa3409245058ec9a66f3ee1cd63afd16]
 
 In the County of Conwy:
 
@@ -178,7 +178,7 @@ In the County of Denbighshire:
 </tbody>
 </table>
 
-### PART 2 — Removal of important hedgerows[^key-e7fcc2d13be3c0a0126b19abf6057c0a]
+### PART 2 — Removal of important hedgerows[^c-e7fcc2d13be3c0a0126b19abf6057c0a]
 
 In the County of Conwy:
 
@@ -282,7 +282,7 @@ In the County of Denbighshire:
 </tbody>
 </table>
 
-### PART 3 — Trees subject to tree preservation orders[^key-88a7e19684f4508d52fd269ee6780cab]
+### PART 3 — Trees subject to tree preservation orders[^c-88a7e19684f4508d52fd269ee6780cab]
 
 | (1) Tree preservation order reference | (2) Type of tree | (3) Work to be carried out | (4) Relevant part of the authorised project |
 | --- | --- | --- | --- |
@@ -290,8 +290,8 @@ In the County of Denbighshire:
 
 ## Annotations
 
-[^key-fa3409245058ec9a66f3ee1cd63afd16]: Commencement: Sch. 11 Pt. 1 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-fa3409245058ec9a66f3ee1cd63afd16]: Commencement: Sch. 11 Pt. 1 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-e7fcc2d13be3c0a0126b19abf6057c0a]: Commencement: Sch. 11 Pt. 2 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-e7fcc2d13be3c0a0126b19abf6057c0a]: Commencement: Sch. 11 Pt. 2 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-88a7e19684f4508d52fd269ee6780cab]: Commencement: Sch. 11 Pt. 3 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-88a7e19684f4508d52fd269ee6780cab]: Commencement: Sch. 11 Pt. 3 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

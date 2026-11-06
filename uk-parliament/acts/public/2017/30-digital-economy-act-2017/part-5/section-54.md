@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Regulations under this Chapter[^key-cfc9bdb80962c7ec2221911f82a9c2fe][^key-3536aea5b2ed47509f467dc653efe79a][^key-bf6150c7c3a990ce533127af941e937f]
+## 54. Regulations under this Chapter[^c-cfc9bdb80962c7ec2221911f82a9c2fe][^c-3536aea5b2ed47509f467dc653efe79a][^c-bf6150c7c3a990ce533127af941e937f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cfc9bdb80962c7ec2221911f82a9c2fe]: Commencement: S. 54 in force at 1.10.2017 for specified purposes by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/i)
+[^c-cfc9bdb80962c7ec2221911f82a9c2fe]: Commencement: S. 54 in force at 1.10.2017 for specified purposes by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/i)
 
-[^key-3536aea5b2ed47509f467dc653efe79a]: Commencement: S. 54 in force at 1.5.2018 for E.W.S. in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/r)
+[^c-3536aea5b2ed47509f467dc653efe79a]: Commencement: S. 54 in force at 1.5.2018 for E.W.S. in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/r)
 
-[^key-bf6150c7c3a990ce533127af941e937f]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2017/30/section/54) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/m)
+[^c-bf6150c7c3a990ce533127af941e937f]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2017/30/section/54) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/m)

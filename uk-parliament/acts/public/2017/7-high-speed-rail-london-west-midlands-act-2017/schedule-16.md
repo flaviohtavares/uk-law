@@ -109,7 +109,7 @@ Section 15
 
 (9) In this paragraph—
 
-- “**"appropriate Ministers”**” means the Secretary of State for Housing, Communities and Local Government[^key-183314510a2485c7936fb6d1d13744d0] and the Secretary of State for Transport and, in relation to the carrying out of any function, means those Ministers acting jointly;
+- “**"appropriate Ministers”**” means the Secretary of State for Housing, Communities and Local Government[^c-183314510a2485c7936fb6d1d13744d0] and the Secretary of State for Transport and, in relation to the carrying out of any function, means those Ministers acting jointly;
 - “**"relevant planning authority”**” means the unitary authority or, in a non-unitary area, the district council in whose area the land is situated.
 
 (10) But where—
@@ -398,4 +398,4 @@ the relevant planning authority is the Mayoral development corporation instead o
 
 ## Annotations
 
-[^key-183314510a2485c7936fb6d1d13744d0]: Textual amendment: Words in [Sch. 16 para. 5(9)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/16/paragraph/5/9) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 12(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/12/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-183314510a2485c7936fb6d1d13744d0]: Textual amendment: Words in [Sch. 16 para. 5(9)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/16/paragraph/5/9) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 12(b)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/12/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))

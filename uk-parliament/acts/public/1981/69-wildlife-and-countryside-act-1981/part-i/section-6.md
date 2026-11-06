@@ -71,7 +71,7 @@ he shall be guilty of an offence.
 
 (1) Subject to the provisions of this Part, if any person—
 
-- (a) sells, offers or exposes for sale, or has in his possession or transports for the purpose of sale, any live wild bird [^key-8385057075cba79fc3dcbe16426db7f8]..., or an egg of a wild bird or any part of such an egg other than—[^key-aa63c037d4370e8640990eee92d764cf]
+- (a) sells, offers or exposes for sale, or has in his possession or transports for the purpose of sale, any live wild bird [^c-8385057075cba79fc3dcbe16426db7f8]..., or an egg of a wild bird or any part of such an egg other than—[^c-aa63c037d4370e8640990eee92d764cf]
   - (i) a bird included in Part I of Schedule 3 (see also subsection (5));
   - (ii) a bird included in Part 1A of that Schedule to which subsection (1A) applies; or
   - (iii) an egg to which subsection (1B) applies or any part of such an egg; or
@@ -79,7 +79,7 @@ he shall be guilty of an offence.
 
 he shall be guilty of an offence.
 
-(1A)[^key-84d6f7bfb888a21e0cc72b35d6f3c523] This subsection applies to a bird which—
+(1A)[^c-84d6f7bfb888a21e0cc72b35d6f3c523] This subsection applies to a bird which—
 
 - (a) was bred in captivity and remained in captivity or a place where it was reared;
 - (b) was a wild bird for the purposes of section 1 (see section 1(6)) and was taken by a person who had a legal right to take such a bird or a person with permission, from a person who had a right to give permission, to take such a bird outside the close season for the bird; or
@@ -96,12 +96,12 @@ he shall be guilty of an offence.
 
 (2) Subject to the provisions of this Part, if any person who is not for the time being registered in accordance with regulations made by the Secretary of State—
 
-- (a) sells, offers or exposes for sale, or has in his possession or transports for the purpose of sale, any dead wild bird other than a bird included in Part II , IIA[^key-e9474cae012fc6bae31677cc50173084] or III of Schedule 3 (see also subsections (5B) and (6))[^key-6c8342ae4bfb5c5225c5e40ae0f259bc], or any part of, or anything derived from, such a wild bird; or
+- (a) sells, offers or exposes for sale, or has in his possession or transports for the purpose of sale, any dead wild bird other than a bird included in Part II , IIA[^c-e9474cae012fc6bae31677cc50173084] or III of Schedule 3 (see also subsections (5B) and (6))[^c-6c8342ae4bfb5c5225c5e40ae0f259bc], or any part of, or anything derived from, such a wild bird; or
 - (b) publishes or causes to be published any advertisement likely to be understood as conveying that he buys or sells, or intends to buy or sell, any of those things,
 
 he shall be guilty of an offence.
 
-(2A)[^key-c6862369ac6135ada1ea243e9c3677c8] Subject to the provisions of this Part, any person who knowingly causes or permits to be done an act which is made unlawful by any of the foregoing provisions of this section (other than subsections (1)(b) and (2)(b)) shall be guilty of an offence.
+(2A)[^c-c6862369ac6135ada1ea243e9c3677c8] Subject to the provisions of this Part, any person who knowingly causes or permits to be done an act which is made unlawful by any of the foregoing provisions of this section (other than subsections (1)(b) and (2)(b)) shall be guilty of an offence.
 
 (3) Subject to the provisions of this Part, if any person shows or causes or permits to be shown for the purposes of any competition or in any premises in which a competition is being held—
 
@@ -112,7 +112,7 @@ he shall be guilty of an offence.
 
 (4) [^c19390961]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ad76b2a8878bf19d7813fd998dc70b53] Any reference in this section to any bird included in Part I of Schedule 3 is a reference to any bird included in that Part which—
+(5)[^c-ad76b2a8878bf19d7813fd998dc70b53] Any reference in this section to any bird included in Part I of Schedule 3 is a reference to any bird included in that Part which—
 
 - (a) was bred in captivity;
 - (b) has been ringed or marked in accordance with regulations made by the Scottish Ministers; and
@@ -120,9 +120,9 @@ he shall be guilty of an offence.
 
 (5A) Regulations made for the purposes of subsection (5)(b) may make different provision for different birds or different provisions of this section.
 
-(5B)[^key-3dbc8761fe6b366aff02cdb7504fa97a] Any reference in this section to any bird included in Part IIA of Schedule 3 is a reference to any bird included in that Part which was killed outside the close season for the bird by a person who had a legal right to kill such a bird or permission, from a person who had a right to give permission, to kill such a bird.
+(5B)[^c-3dbc8761fe6b366aff02cdb7504fa97a] Any reference in this section to any bird included in Part IIA of Schedule 3 is a reference to any bird included in that Part which was killed outside the close season for the bird by a person who had a legal right to kill such a bird or permission, from a person who had a right to give permission, to kill such a bird.
 
-(6)[^key-ed36b9853885ea07f827ca815077fc1c] Any reference in this section to any bird included in Part III of Schedule 3 is a reference, during the period commencing with 1st September in any year and ending with 28th February of the following year, to any bird included in that Part.
+(6)[^c-ed36b9853885ea07f827ca815077fc1c] Any reference in this section to any bird included in Part III of Schedule 3 is a reference, during the period commencing with 1st September in any year and ending with 28th February of the following year, to any bird included in that Part.
 
 (7) The power of the Secretary of State to make regulations under subsection (2) shall include power—
 
@@ -138,9 +138,9 @@ no account being taken for this purpose of a conviction which has become spent b
 
 (8A) The Secretary of State may charge such reasonable sum (if any) as he may determine in respect of any registration effected in accordance with regulations under subsection (2).
 
-(9)[^key-c3d8a407f2551efa43fe3917203e624d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-c3d8a407f2551efa43fe3917203e624d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-c3d8a407f2551efa43fe3917203e624d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-c3d8a407f2551efa43fe3917203e624d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -158,26 +158,26 @@ no account being taken for this purpose of a conviction which has become spent b
 
 [^c19396351]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only.
 
-[^key-8385057075cba79fc3dcbe16426db7f8]: Textual amendment: Words in s. 6(1)(a) repealed (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(a)(i)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/a/i), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
+[^c-8385057075cba79fc3dcbe16426db7f8]: Textual amendment: Words in s. 6(1)(a) repealed (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(a)(i)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/a/i), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
 
-[^key-aa63c037d4370e8640990eee92d764cf]: Textual amendment: Words in s. 6(1)(a) inserted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(a)(ii)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/a/ii), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
+[^c-aa63c037d4370e8640990eee92d764cf]: Textual amendment: Words in s. 6(1)(a) inserted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(a)(ii)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/a/ii), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
 
-[^key-84d6f7bfb888a21e0cc72b35d6f3c523]: Textual amendment: S. 6(1A)(1B) inserted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(b)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
+[^c-84d6f7bfb888a21e0cc72b35d6f3c523]: Textual amendment: S. 6(1A)(1B) inserted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(b)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
 
-[^key-e9474cae012fc6bae31677cc50173084]: Textual amendment: Word in s. 6(2)(a) inserted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(c)(i)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/c/i), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
+[^c-e9474cae012fc6bae31677cc50173084]: Textual amendment: Word in s. 6(2)(a) inserted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(c)(i)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/c/i), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
 
-[^key-6c8342ae4bfb5c5225c5e40ae0f259bc]: Textual amendment: Words in s. 6(2)(a) inserted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(c)(ii)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/c/ii), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
+[^c-6c8342ae4bfb5c5225c5e40ae0f259bc]: Textual amendment: Words in s. 6(2)(a) inserted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(c)(ii)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/c/ii), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
 
-[^key-c6862369ac6135ada1ea243e9c3677c8]: Textual amendment: S. 6(2A) inserted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 21(2)](https://www.legislation.gov.uk/asp/2011/6/section/21/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
+[^c-c6862369ac6135ada1ea243e9c3677c8]: Textual amendment: S. 6(2A) inserted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 21(2)](https://www.legislation.gov.uk/asp/2011/6/section/21/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
 
-[^key-ad76b2a8878bf19d7813fd998dc70b53]: Textual amendment: S. 6(5)(5A) substituted for s. 6(5) (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(d)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/d), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
+[^c-ad76b2a8878bf19d7813fd998dc70b53]: Textual amendment: S. 6(5)(5A) substituted for s. 6(5) (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(d)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/d), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
 
-[^key-3dbc8761fe6b366aff02cdb7504fa97a]: Textual amendment: S. 6(5B) inserted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(e)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/e), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
+[^c-3dbc8761fe6b366aff02cdb7504fa97a]: Textual amendment: S. 6(5B) inserted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(e)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/e), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
 
-[^key-ed36b9853885ea07f827ca815077fc1c]: Textual amendment: S. 6(6) substituted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(f)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/f), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
+[^c-ed36b9853885ea07f827ca815077fc1c]: Textual amendment: S. 6(6) substituted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 5(3)(f)](https://www.legislation.gov.uk/asp/2011/6/section/5/3/f), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/c)
 
 [^c19395981]: Textual amendment: S. 6(8): paras. (a)(b) and preceding words substituted (S.) (26.3.2003) for paras. (a)(b) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 77](https://www.legislation.gov.uk/asp/2003/7/section/77), [89(2)(b)](https://www.legislation.gov.uk/asp/2003/7/section/89/2/b), [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2003/7/schedule/3/paragraph/2)
 
 [^c4939271]: Marginal citation: 1974\. c. 53.
 
-[^key-c3d8a407f2551efa43fe3917203e624d]: Textual amendment: S. 6(9)(10) repealed (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 22(2)](https://www.legislation.gov.uk/asp/2011/6/section/22/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/d)
+[^c-c3d8a407f2551efa43fe3917203e624d]: Textual amendment: S. 6(9)(10) repealed (S.) (2.7.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 22(2)](https://www.legislation.gov.uk/asp/2011/6/section/22/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/d)

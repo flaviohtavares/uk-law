@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Notice of starting and carrying out development[^key-82b55fca80d594048f5e1a422862eb52]
+## 97. Notice of starting and carrying out development[^c-82b55fca80d594048f5e1a422862eb52]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82b55fca80d594048f5e1a422862eb52]: Commencement: S. 97 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-82b55fca80d594048f5e1a422862eb52]: Commencement: S. 97 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

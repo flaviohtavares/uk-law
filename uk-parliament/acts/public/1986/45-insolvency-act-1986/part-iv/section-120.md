@@ -36,7 +36,7 @@ summary: ''
 
 (5) The money sum for the time being specified in subsection (3) is subject to increase or reduction by order under section 416 in Part XV.
 
-(6)[^key-3a3a88ec3a7e85880f60c031628f1c2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3a3a88ec3a7e85880f60c031628f1c2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c15572121]: Textual amendment: Words repealed (S.) by [Court of Session Act 1988 (c. 36, SIF 36:1)](https://www.legislation.gov.uk/ukpga/1988/36), [s. 52(2)](https://www.legislation.gov.uk/ukpga/1988/36/section/52/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1988/36/schedule/2)
 
-[^key-3a3a88ec3a7e85880f60c031628f1c2e]: Textual amendment: S. 120(6) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/20) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a3a88ec3a7e85880f60c031628f1c2e]: Textual amendment: S. 120(6) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/20) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

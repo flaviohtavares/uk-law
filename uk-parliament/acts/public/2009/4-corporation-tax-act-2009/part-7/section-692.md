@@ -46,7 +46,7 @@ Deduct from the result of Step 1 any amount which was brought into account in ac
 
 *Step 3*
 
-Add together so much[^key-b8b0f4c3a2a327a24d57a634d82d1c3d] of any credits (other than exchange credits) arising in respect of the contract for that accounting period or any earlier accounting period as are referable to the unallowable purpose mentioned in subsection (1)(a) on a just and reasonable apportionment[^key-8e9751dbbcfae6342547e47d88ed29c1].
+Add together so much[^c-b8b0f4c3a2a327a24d57a634d82d1c3d] of any credits (other than exchange credits) arising in respect of the contract for that accounting period or any earlier accounting period as are referable to the unallowable purpose mentioned in subsection (1)(a) on a just and reasonable apportionment[^c-8e9751dbbcfae6342547e47d88ed29c1].
 
 *Step 4*
 
@@ -63,6 +63,6 @@ The amount of the excess accumulated net losses for the period is the lower of t
 
 ## Annotations
 
-[^key-b8b0f4c3a2a327a24d57a634d82d1c3d]: Textual amendment: Words in s. 692(5) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 92(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/92/a)
+[^c-b8b0f4c3a2a327a24d57a634d82d1c3d]: Textual amendment: Words in s. 692(5) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 92(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/92/a)
 
-[^key-8e9751dbbcfae6342547e47d88ed29c1]: Textual amendment: Words in s. 692(5) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 92(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/92/b)
+[^c-8e9751dbbcfae6342547e47d88ed29c1]: Textual amendment: Words in s. 692(5) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 92(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/92/b)

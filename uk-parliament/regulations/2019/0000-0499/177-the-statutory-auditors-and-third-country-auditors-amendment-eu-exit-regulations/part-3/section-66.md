@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66.[^key-7a1b517725d6d3767bc87fe21e36cae3]
+## 66.[^c-7a1b517725d6d3767bc87fe21e36cae3]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ In regulation 2 (interpretation)—
   - (ii) in paragraph (b), for “other than one listed in Article 2 of Directive 2013/36/EU of the European Parliament and of the Council on access to the activity of credit institutions and investment firms” substitute “ which is a CRR firm within the meaning of Article 4(1)(2A) of that Regulation [^c23587131] ”;
   - (iii) for paragraph (c), substitute—
 
-    > - (c) a person who would be an insurance undertaking as defined in Article 2(1) of Council Directive [91/674/EEC](https://www.legislation.gov.uk/eudr/1991/674) of 19 December 1991 of the European Parliament and of the Council on the annual accounts of insurance undertakings [^c23587141] as that Article had effect immediately before IP completion day[^key-8a840f19694a1ba2a5fb42d27ec5f54f], were the United Kingdom a member State;
+    > - (c) a person who would be an insurance undertaking as defined in Article 2(1) of Council Directive [91/674/EEC](https://www.legislation.gov.uk/eudr/1991/674) of 19 December 1991 of the European Parliament and of the Council on the annual accounts of insurance undertakings [^c23587141] as that Article had effect immediately before IP completion day[^c-8a840f19694a1ba2a5fb42d27ec5f54f], were the United Kingdom a member State;
 
     ;
 - (e) in the definition of “issuer”—
@@ -55,7 +55,7 @@ In regulation 2 (interpretation)—
 
 ## Annotations
 
-[^key-7a1b517725d6d3767bc87fe21e36cae3]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-7a1b517725d6d3767bc87fe21e36cae3]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23587081]: Marginal citation: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40). Section 78A was inserted by paragraph 3 of the Schedule to [S.I. 2005/2211](https://www.legislation.gov.uk/uksi/2005/2211). Subsection (3) was inserted by paragraph 15(3) of Schedule 1 to [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), substituted by regulation 9 of [S.I. 2017/516](https://www.legislation.gov.uk/uksi/2017/516) and amended regulation 7(b) of [S.I. 2018/1039](https://www.legislation.gov.uk/uksi/2018/1039).
 
@@ -75,4 +75,4 @@ In regulation 2 (interpretation)—
 
 [^c23587141]: Marginal citation: OJ No. L 374, 31.12.1991, p. 7.
 
-[^key-8a840f19694a1ba2a5fb42d27ec5f54f]: Textual amendment: Words in reg. 66(d)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2020/523/regulation/15/c)
+[^c-8a840f19694a1ba2a5fb42d27ec5f54f]: Textual amendment: Words in reg. 66(d)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2020/523/regulation/15/c)

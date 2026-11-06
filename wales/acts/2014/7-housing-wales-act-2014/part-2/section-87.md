@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Effect of a decision on review or appeal that reasonable steps were not taken[^key-cb436b2c7e6b180f37371fc42dbdcfcf]
+## 87. Effect of a decision on review or appeal that reasonable steps were not taken[^c-cb436b2c7e6b180f37371fc42dbdcfcf]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb436b2c7e6b180f37371fc42dbdcfcf]: Commencement: [S. 87](https://www.legislation.gov.uk/anaw/2014/7/section/87) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 38](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/38)
+[^c-cb436b2c7e6b180f37371fc42dbdcfcf]: Commencement: [S. 87](https://www.legislation.gov.uk/anaw/2014/7/section/87) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 38](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/38)

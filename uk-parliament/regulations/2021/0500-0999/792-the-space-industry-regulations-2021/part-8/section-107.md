@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Information about the flight[^key-01bbfe5c799506e67ee47c0ee45ea6cb]
+## 107. Information about the flight[^c-01bbfe5c799506e67ee47c0ee45ea6cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01bbfe5c799506e67ee47c0ee45ea6cb]: Commencement: Reg. 107 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-01bbfe5c799506e67ee47c0ee45ea6cb]: Commencement: Reg. 107 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

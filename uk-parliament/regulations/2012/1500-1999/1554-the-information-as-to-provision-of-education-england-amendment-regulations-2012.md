@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Information as to Provision of Education (England) (Amendment) Regulations 2012 (revoked)[^key-60e4ad7bdcb8586669a7198210bbeea0]
+The Information as to Provision of Education (England) (Amendment) Regulations 2012 (revoked)[^c-60e4ad7bdcb8586669a7198210bbeea0]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 16th July 2012
 
-[^key-60e4ad7bdcb8586669a7198210bbeea0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60e4ad7bdcb8586669a7198210bbeea0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-60e4ad7bdcb8586669a7198210bbeea0]
+## 1. Citation and commencement[^c-60e4ad7bdcb8586669a7198210bbeea0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Information as to Provision of Education (England) Regulations 2008[^key-60e4ad7bdcb8586669a7198210bbeea0]
+## 2. Amendment of the Information as to Provision of Education (England) Regulations 2008[^c-60e4ad7bdcb8586669a7198210bbeea0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60e4ad7bdcb8586669a7198210bbeea0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60e4ad7bdcb8586669a7198210bbeea0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-60e4ad7bdcb8586669a7198210bbeea0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60e4ad7bdcb8586669a7198210bbeea0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60e4ad7bdcb8586669a7198210bbeea0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1554) revoked (31.5.2016) by [The Information as to Provision of Education (England) Regulations 2016 (S.I. 2016/555)](https://www.legislation.gov.uk/uksi/2016/555), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2016/555/schedule/3)
+[^c-60e4ad7bdcb8586669a7198210bbeea0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1554) revoked (31.5.2016) by [The Information as to Provision of Education (England) Regulations 2016 (S.I. 2016/555)](https://www.legislation.gov.uk/uksi/2016/555), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/555/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2016/555/schedule/3)

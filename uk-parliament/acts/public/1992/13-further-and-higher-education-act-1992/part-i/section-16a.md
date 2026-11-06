@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Publication of proposals[^key-8ae4d362b27889caa7f71aad2dd4ae54]
+## 16A. Publication of proposals[^c-8ae4d362b27889caa7f71aad2dd4ae54]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ae4d362b27889caa7f71aad2dd4ae54]: Textual amendment: S. 16A inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/2); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-8ae4d362b27889caa7f71aad2dd4ae54]: Textual amendment: S. 16A inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/2); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

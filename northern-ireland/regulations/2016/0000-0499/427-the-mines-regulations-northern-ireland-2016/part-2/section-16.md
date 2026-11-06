@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Record of persons below ground[^key-33ea7d166a74e7d9cbe985d4cd0531d3]
+## 16. Record of persons below ground[^c-33ea7d166a74e7d9cbe985d4cd0531d3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The mine operator shall ensure that a record is kept of every person below groun
 
 ## Annotations
 
-[^key-33ea7d166a74e7d9cbe985d4cd0531d3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/427/regulation/16) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-33ea7d166a74e7d9cbe985d4cd0531d3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/427/regulation/16) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

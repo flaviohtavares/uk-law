@@ -25,7 +25,7 @@ Regulation 86
 **1.** The provisions of this Schedule—
 
 - (a) apply to a document, which includes an application, notice, invoice or credit note; and
-- (b) are subject to any specific provisions in these Regulations , the[^key-aa8625d15b647206e5e59162e5be06d1] Supplier Payment Regulations or capacity market rules about—
+- (b) are subject to any specific provisions in these Regulations , the[^c-aa8625d15b647206e5e59162e5be06d1] Supplier Payment Regulations or capacity market rules about—
   - (i) a particular kind of document; or
   - (ii) the provision of documents by or to a particular person or class of persons.
 
@@ -73,4 +73,4 @@ Regulation 86
 
 ## Annotations
 
-[^key-aa8625d15b647206e5e59162e5be06d1]: Textual amendment: Words in [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2014/2043/schedule/2/paragraph/1/b) inserted (18.12.2014) by [The Electricity Capacity (Supplier Payment etc.) Regulations 2014 (S.I. 2014/3354)](https://www.legislation.gov.uk/uksi/2014/3354), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2014/3354/schedule/2/paragraph/14)
+[^c-aa8625d15b647206e5e59162e5be06d1]: Textual amendment: Words in [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2014/2043/schedule/2/paragraph/1/b) inserted (18.12.2014) by [The Electricity Capacity (Supplier Payment etc.) Regulations 2014 (S.I. 2014/3354)](https://www.legislation.gov.uk/uksi/2014/3354), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2014/3354/schedule/2/paragraph/14)

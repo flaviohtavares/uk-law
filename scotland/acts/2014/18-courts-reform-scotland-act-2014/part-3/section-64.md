@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Selection of the jury[^key-4041a3bafd5ae2a2c6a09d4e32a7445c]
+## 64. Selection of the jury[^c-4041a3bafd5ae2a2c6a09d4e32a7445c]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4041a3bafd5ae2a2c6a09d4e32a7445c]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/18/section/64) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-4041a3bafd5ae2a2c6a09d4e32a7445c]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/18/section/64) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

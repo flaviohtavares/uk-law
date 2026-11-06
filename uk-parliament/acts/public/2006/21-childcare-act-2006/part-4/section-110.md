@@ -33,7 +33,7 @@ summary: ''
 
 (5) In relation to section 103(1) and Schedule 2, the appropriate authority is—
 
-- (a) for paragraphs 18(5)(b) and (c), 20 to 22, 24[^key-f63e71e7f1e799263f8bebdf9f5985c5], 27, 31, 32(4) and 34 of that Schedule (and section 103(1) so far as relating to those provisions)—
+- (a) for paragraphs 18(5)(b) and (c), 20 to 22, 24[^c-f63e71e7f1e799263f8bebdf9f5985c5], 27, 31, 32(4) and 34 of that Schedule (and section 103(1) so far as relating to those provisions)—
   - (i) in relation to England, the Secretary of State, and
   - (ii) in relation to Wales, the Assembly,
 - (b) for paragraph 28 of that Schedule (and section 103(1) so far as relating to that paragraph), the Assembly, and
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f63e71e7f1e799263f8bebdf9f5985c5]: Textual amendment: Words in s. 110(5)(a) substituted (1.9.2009) by [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2), [s. 28(2)](https://www.legislation.gov.uk/mwa/2008/2/section/28/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/mwa/2008/2/schedule/1/paragraph/5); [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/371/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)
+[^c-f63e71e7f1e799263f8bebdf9f5985c5]: Textual amendment: Words in s. 110(5)(a) substituted (1.9.2009) by [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2), [s. 28(2)](https://www.legislation.gov.uk/mwa/2008/2/section/28/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/mwa/2008/2/schedule/1/paragraph/5); [S.I. 2009/371](https://www.legislation.gov.uk/uksi/2009/371), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/371/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2009/371/schedule/part/2)

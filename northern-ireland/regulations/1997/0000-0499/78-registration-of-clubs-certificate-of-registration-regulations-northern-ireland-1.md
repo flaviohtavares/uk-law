@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 6(1) of the Registration of Clubs (Northern Ireland) Order 1996[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-8f36250a8d44c04ddf6647e2974b2838]
+## 1. Citation and commencement[^c-8f36250a8d44c04ddf6647e2974b2838]
 
 These Regulations may be cited as the Registration of Clubs (Certificate of Registration) Regulations (Northern Ireland) 1997 and shall come into operation on 25th March 1997.
 
-## 2. Form of Certificate of Registration[^key-9e20121dd5f9e7aacc2fd419d6808d6f]
+## 2. Form of Certificate of Registration[^c-9e20121dd5f9e7aacc2fd419d6808d6f]
 
 A certificate of registration shall be in the form set out in the Schedule and shall in addition to the matters specified in Article 6(1)(*a*) to (*d*) of the Registration of Clubs (Northern Ireland) Order 1996 also specify the matters prescribed in Parts IV to VI of that Schedule.
 
-## 3. Revocation[^key-cce7481f11ac570a9b09b0202fe63083]
+## 3. Revocation[^c-cce7481f11ac570a9b09b0202fe63083]
 
 The Registration of Clubs (Certificate of Registration) Regulations (Northern Ireland) 1988[^f00002] are hereby revoked.
 
@@ -62,7 +62,7 @@ Under Secretary
 
 21st February 1997.
 
-## SCHEDULE[^key-e45172536f648f39607bac000ed7974c]
+## SCHEDULE[^c-e45172536f648f39607bac000ed7974c]
 
 Regulation 2
 
@@ -85,12 +85,12 @@ The regulations revoke the Registration of Clubs (Certificate of Registration) R
 
 [^f00001]: Footnote: S.I. [1996/3159 (N.I. 23)](https://www.legislation.gov.uk/nisi/1996/3159)
 
-[^key-8f36250a8d44c04ddf6647e2974b2838]: Commencement: Reg. 1 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/78/regulation/1)
+[^c-8f36250a8d44c04ddf6647e2974b2838]: Commencement: Reg. 1 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/78/regulation/1)
 
-[^key-9e20121dd5f9e7aacc2fd419d6808d6f]: Commencement: Reg. 2 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/78/regulation/1)
+[^c-9e20121dd5f9e7aacc2fd419d6808d6f]: Commencement: Reg. 2 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/78/regulation/1)
 
-[^key-cce7481f11ac570a9b09b0202fe63083]: Commencement: Reg. 3 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/78/regulation/1)
+[^c-cce7481f11ac570a9b09b0202fe63083]: Commencement: Reg. 3 in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/78/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1988 No. 25](https://www.legislation.gov.uk/nisr/1988/25)
 
-[^key-e45172536f648f39607bac000ed7974c]: Commencement: Sch. in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/78/regulation/1)
+[^c-e45172536f648f39607bac000ed7974c]: Commencement: Sch. in operation at 25.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/78/regulation/1)

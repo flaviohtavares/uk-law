@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Use of nicotine vapour products[^key-fa870f9a2d5869eef9a2093a69116a3d]
+## 36. Use of nicotine vapour products[^c-fa870f9a2d5869eef9a2093a69116a3d]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa870f9a2d5869eef9a2093a69116a3d]: Textual amendment: Rule 36 substituted (30.11.2018) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2018 (S.S.I. 2018/293)](https://www.legislation.gov.uk/ssi/2018/293), [rules 1](https://www.legislation.gov.uk/ssi/2018/293/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2018/293/rule/2/3)
+[^c-fa870f9a2d5869eef9a2093a69116a3d]: Textual amendment: Rule 36 substituted (30.11.2018) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2018 (S.S.I. 2018/293)](https://www.legislation.gov.uk/ssi/2018/293), [rules 1](https://www.legislation.gov.uk/ssi/2018/293/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2018/293/rule/2/3)

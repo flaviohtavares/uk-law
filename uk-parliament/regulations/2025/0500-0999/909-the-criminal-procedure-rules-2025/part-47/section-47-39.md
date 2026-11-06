@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.39. Application containing information withheld from another party[^key-816afe266e02294d41f8a6676c1733e0]
+## 47.39. Application containing information withheld from another party[^c-816afe266e02294d41f8a6676c1733e0]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-816afe266e02294d41f8a6676c1733e0]: Commencement: Rule 47.39 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-816afe266e02294d41f8a6676c1733e0]: Commencement: Rule 47.39 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

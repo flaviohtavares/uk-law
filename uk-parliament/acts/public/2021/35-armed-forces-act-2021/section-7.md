@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Concurrent jurisdiction[^key-bff84930bbf96f63f7dfbbd8ff72b12f][^key-bf4393526dfb7ca604ad0afe54bea3b4][^key-e7c5b47ab4501bf22851264d2502c218]
+## 7. Concurrent jurisdiction[^c-bff84930bbf96f63f7dfbbd8ff72b12f][^c-bf4393526dfb7ca604ad0afe54bea3b4][^c-e7c5b47ab4501bf22851264d2502c218]
 
 *Extent: E+W+S+N.I.*
 
@@ -178,8 +178,8 @@ In Part 13 of AFA 2006, after Chapter 3 insert—
 
 ## Annotations
 
-[^key-bff84930bbf96f63f7dfbbd8ff72b12f]: Commencement: S. 7 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-bff84930bbf96f63f7dfbbd8ff72b12f]: Commencement: S. 7 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-bf4393526dfb7ca604ad0afe54bea3b4]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/35/section/7) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/4/b)
+[^c-bf4393526dfb7ca604ad0afe54bea3b4]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/35/section/7) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/4/b)
 
-[^key-e7c5b47ab4501bf22851264d2502c218]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/35/section/7) in force at 13.11.2023 in so far as not already in force by [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)
+[^c-e7c5b47ab4501bf22851264d2502c218]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/35/section/7) in force at 13.11.2023 in so far as not already in force by [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)

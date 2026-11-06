@@ -29,12 +29,12 @@ In this Chapter—
   - (c) land exceeding one tenth of a hectare used for the purpose of poultry farming, market gardens, nursery grounds, orchards or allotments, including allotment gardens within the meaning of the [^c18736441]Allotments Act 1922,
 
   but does not include land occupied together with a house as a park, gardens (other than as aforesaid) or pleasure grounds, land kept or preserved mainly or exclusively for purposes of sport or recreation or land used as a racecourse;
-- “**chargeable land**” means the agricultural land and agricultural buildings in so much of a flood risk management region[^key-99b1b9d6da069d0e10eccd443a6f023f] as does not fall within an internal drainage district, excluding rough grazing land and woodlands other than commercial woodlands;
+- “**chargeable land**” means the agricultural land and agricultural buildings in so much of a flood risk management region[^c-99b1b9d6da069d0e10eccd443a6f023f] as does not fall within an internal drainage district, excluding rough grazing land and woodlands other than commercial woodlands;
 - “**commercial woodlands**” means woodlands managed on a commercial basis with a view to the realisation of profits;
 - “**drainage**” has the same meaning as in Part IV above;
 - “**drainage charge**” means general drainage charge or special drainage charge;
-- “[^key-b5ed367ac592fee54a9ff6b27dd3b107]**flood risk management region**” —[^key-678e0975d907ad1eb688089bf3d0fbc2]
-  - (a) in relation to the Agency, means the region of a Regional Flood and Coastal Committee, within the meaning of section 22 of the Flood and Water Management Act 2010 , and[^key-718ad084d836aefcea707f99f28747cf]
+- “[^c-b5ed367ac592fee54a9ff6b27dd3b107]**flood risk management region**” —[^c-678e0975d907ad1eb688089bf3d0fbc2]
+  - (a) in relation to the Agency, means the region of a Regional Flood and Coastal Committee, within the meaning of section 22 of the Flood and Water Management Act 2010 , and[^c-718ad084d836aefcea707f99f28747cf]
   - (b) in relation to the NRBW, means Wales, within the meaning of section 158 of the Government of Wales Act 2006.
 - “**rough grazing land**” means land of either of the following descriptions, that is to say—
 - (a) land used as pasture ground on which the vegetation consists solely or mainly of one or more of the following, that is to say, bracken, gorse, heather, rushes and sedge; and
@@ -50,10 +50,10 @@ In this Chapter—
 
 [^c18736441]: Marginal citation: [1922 c. 51](https://www.legislation.gov.uk/ukpga/1922/51).
 
-[^key-99b1b9d6da069d0e10eccd443a6f023f]: Textual amendment: Words in s. 145 substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/11/2)
+[^c-99b1b9d6da069d0e10eccd443a6f023f]: Textual amendment: Words in s. 145 substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/11/2)
 
-[^key-b5ed367ac592fee54a9ff6b27dd3b107]: Textual amendment: Words in s. 145 inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 11(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/11/3)
+[^c-b5ed367ac592fee54a9ff6b27dd3b107]: Textual amendment: Words in s. 145 inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 11(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/11/3)
 
-[^key-678e0975d907ad1eb688089bf3d0fbc2]: Textual amendment: Words in s. 145 inserted (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 20(5)(a)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/20/5/a); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-678e0975d907ad1eb688089bf3d0fbc2]: Textual amendment: Words in s. 145 inserted (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 20(5)(a)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/20/5/a); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
 
-[^key-718ad084d836aefcea707f99f28747cf]: Textual amendment: Words in s. 145 inserted (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 20(5)(b)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/20/5/b); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-718ad084d836aefcea707f99f28747cf]: Textual amendment: Words in s. 145 inserted (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 20(5)(b)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/20/5/b); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)

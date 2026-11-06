@@ -44,7 +44,7 @@ Regulations 12 and 13 are made with the consent of the Department of Finance and
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulations 12 and 13 should not be referred to it[^f00008].
 
-## 1. Citation, commencement and interpretation[^key-3b8b15be89e29100759a0f6632d6e5c1][^key-29dd50108124d23463b269673d921561][^key-3b8b15be89e29100759a0f6632d6e5c1][^key-29dd50108124d23463b269673d921561]
+## 1. Citation, commencement and interpretation[^c-3b8b15be89e29100759a0f6632d6e5c1][^c-29dd50108124d23463b269673d921561][^c-3b8b15be89e29100759a0f6632d6e5c1][^c-29dd50108124d23463b269673d921561]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 and, subject to paragraphs (2) and (3), shall come into operation on 11th April 2011.
 
@@ -60,7 +60,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00012] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (General Benefit) Regulations[^key-3e37a4baad40ff43fe10728a1add88fa][^key-3e37a4baad40ff43fe10728a1add88fa]
+## 2. Amendment of the Social Security (General Benefit) Regulations[^c-3e37a4baad40ff43fe10728a1add88fa][^c-3e37a4baad40ff43fe10728a1add88fa]
 
 For regulation 14 of the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00013] (earnings level for the purpose of unemployability supplement under section 58) substitute—
 
@@ -78,7 +78,7 @@ For regulation 14 of the Social Security (General Benefit) Regulations (Northern
 
 .
 
-## 3. Amendment of the Income Support (General) Regulations[^key-92fc268d2708aafd3688c5d52b00f7ee][^key-1541dfa4af91cbe2dec79793bc0929d0][^key-b1c945d672992114c48436ff30f2d000]
+## 3. Amendment of the Income Support (General) Regulations[^c-92fc268d2708aafd3688c5d52b00f7ee][^c-1541dfa4af91cbe2dec79793bc0929d0][^c-b1c945d672992114c48436ff30f2d000]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987 are amended in accordance with paragraphs (2) to (7).
 
@@ -93,7 +93,7 @@ For regulation 14 of the Social Security (General Benefit) Regulations (Northern
 
 (5) In regulation 54 (interpretation) in head (ii) of paragraph (e) of the definition of “payment”[^f00020] after “rent” insert “or rates”.
 
-(6)[^key-92fc268d2708aafd3688c5d52b00f7ee] In Schedule 2 (applicable amounts)—
+(6)[^c-92fc268d2708aafd3688c5d52b00f7ee] In Schedule 2 (applicable amounts)—
 
 - (a) in paragraph 13A[^f00021] (enhanced disability premium) after sub-paragraph (1) insert—
 
@@ -113,12 +113,12 @@ For regulation 14 of the Social Security (General Benefit) Regulations (Northern
 
 (7) In Schedule 3 (housing costs)—
 
-- (a)[^key-1541dfa4af91cbe2dec79793bc0929d0] in paragraphs 4(4A)(b)[^f00024] (housing costs not met), 14(4)(b) and (12)(c)[^f00025] (linking rule) after “income” insert “equal to or”; and
+- (a)[^c-1541dfa4af91cbe2dec79793bc0929d0] in paragraphs 4(4A)(b)[^f00024] (housing costs not met), 14(4)(b) and (12)(c)[^f00025] (linking rule) after “income” insert “equal to or”; and
 - (b) in paragraph 14—
   - (i) in sub-paragraph (1)[^f00026] omit “Subject to sub-paragraph (2),”, and
   - (ii) omit sub-paragraph (2)[^f00027].
 
-## 4. Amendment of the Social Security (Claims and Payments) Regulations[^key-cde23a091e7deb317f583d4b706b28b2]
+## 4. Amendment of the Social Security (Claims and Payments) Regulations[^c-cde23a091e7deb317f583d4b706b28b2]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00028] are amended in accordance with paragraphs (2) and (3).
 
@@ -126,7 +126,7 @@ For regulation 14 of the Social Security (General Benefit) Regulations (Northern
 
 (3) In the definition of “relevant benefits”[^f00031] in paragraph 1 of Schedule 8B[^f00032] (deductions of mortgage interest from benefit and payment to qualifying lenders) omit “but does not include any sum payable by way of child maintenance bonus in accordance with Article 4 of the Child Support (Northern Ireland) Order 1995 and the Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996;”.
 
-## 5. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-cebaa78e3e344873abd55bcb7ecc0ea4]
+## 5. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-cebaa78e3e344873abd55bcb7ecc0ea4]
 
 For regulation 7 of the Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00033] (limit of earnings from councillor’s allowance) substitute—
 
@@ -143,7 +143,7 @@ For regulation 7 of the Social Security (Incapacity Benefit) Regulations (Northe
 
 .
 
-## 6. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-cc1eceb0f0a981baacc3ebb9f636cf65]
+## 6. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-cc1eceb0f0a981baacc3ebb9f636cf65]
 
 (1) The Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00034] are amended in accordance with paragraphs (2) to (4).
 
@@ -176,7 +176,7 @@ For regulation 7 of the Social Security (Incapacity Benefit) Regulations (Northe
 
   .
 
-## 7. Amendment of the Jobseeker’s Allowance Regulations[^key-b7cfb5d70e57c3bbed2b6ae775722778][^key-c4ec3600bfcc6f68279cbccf81efb170][^key-8a34888bef459463ebb8e5bb28e6ecdc]
+## 7. Amendment of the Jobseeker’s Allowance Regulations[^c-b7cfb5d70e57c3bbed2b6ae775722778][^c-c4ec3600bfcc6f68279cbccf81efb170][^c-8a34888bef459463ebb8e5bb28e6ecdc]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996 are amended in accordance with paragraphs (2) to (8).
 
@@ -191,9 +191,9 @@ For regulation 7 of the Social Security (Incapacity Benefit) Regulations (Northe
 
 (5) In regulation 103(1)[^f00045] (calculation of income other than earnings) omit “and regulation 96(3) and (4) (date on which income is treated as paid)”.
 
-(6)[^key-3c1fba448bc290e789be6976f12ebe55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3c1fba448bc290e789be6976f12ebe55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-b7cfb5d70e57c3bbed2b6ae775722778] In Schedule 1 (applicable amounts)—
+(7)[^c-b7cfb5d70e57c3bbed2b6ae775722778] In Schedule 1 (applicable amounts)—
 
 - (a) in paragraph 15A[^f00047] (enhanced disability premium) after sub-paragraph (1) insert—
 
@@ -215,9 +215,9 @@ For regulation 7 of the Social Security (Incapacity Benefit) Regulations (Northe
 
 - (a) in paragraph 13(1)[^f00049] (linking rule) for “sub-paragraphs (2) and (2A)” substitute “sub-paragraph (2A)”;
 - (b) omit paragraph 13(2)[^f00050]; and
-- (c)[^key-c4ec3600bfcc6f68279cbccf81efb170] in paragraph 13(5)(b) after “income” insert “equal to or”.
+- (c)[^c-c4ec3600bfcc6f68279cbccf81efb170] in paragraph 13(5)(b) after “income” insert “equal to or”.
 
-## 8. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-be72403e7227233b0ef2c8df83d70d86]
+## 8. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-be72403e7227233b0ef2c8df83d70d86]
 
 In Schedule 2B to the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00051] (date on which change of circumstances takes effect where a claimant is entitled to state pension credit)—
 
@@ -228,12 +228,12 @@ In Schedule 2B to the Social Security and Child Support (Decisions and Appeals) 
   >   - (ii) where state pension credit is paid in arrears, from the first day of the benefit week in which that change occurs or is expected to occur.
 
   ;
-- (b)[^key-5ae383150c3aa8642952f373dd009afb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5ae383150c3aa8642952f373dd009afb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph 7[^f00052], for “paragraphs 9 and 10” substitute “paragraph 10”;
 - (d) omit paragraph 9[^f00053]; and
 - (e) in paragraph 10 omit “state pension is paid in advance and”.
 
-## 9. Amendment of Social Security (Work-focused Interviews for Lone Parents) Regulations[^key-961b4f5aa4eb902ae3e0e6a274bc85fc]
+## 9. Amendment of Social Security (Work-focused Interviews for Lone Parents) Regulations[^c-961b4f5aa4eb902ae3e0e6a274bc85fc]
 
 In regulation 2 of the Social Security (Work-focused Interviews for Lone Parents) Regulations (Northern Ireland) 2001[^f00054] (general requirement for lone parents claiming or entitled to income support to take part in an interview) for paragraph (8) substitute—
 
@@ -241,7 +241,7 @@ In regulation 2 of the Social Security (Work-focused Interviews for Lone Parents
 
 .
 
-## 10. Amendment of to the Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) Regulations[^key-ac637a903d085bf9b1de4b617901de1e][^key-6d97c40d40a3d7bf8e4567da167c6a39]
+## 10. Amendment of to the Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) Regulations[^c-ac637a903d085bf9b1de4b617901de1e][^c-6d97c40d40a3d7bf8e4567da167c6a39]
 
 (1) The Social Security (Working Tax Credit and Child Tax Credit) Consequential Amendments) Regulations (Northern Ireland) 2003[^f00055] are amended in accordance with paragraphs (2) and (3).
 
@@ -249,7 +249,7 @@ In regulation 2 of the Social Security (Work-focused Interviews for Lone Parents
 
 (3) In regulation 7 (jobseeker’s allowance-transitional arrangements) omit paragraphs (5) and (6)[^f00057].
 
-## 11. Amendment of Social Security (Work-Focused Interviews) Regulations[^key-fd8dc3ab08e67df138d79483c5d42aef]
+## 11. Amendment of Social Security (Work-Focused Interviews) Regulations[^c-fd8dc3ab08e67df138d79483c5d42aef]
 
 In regulation 3 of the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2003[^f00058] (continuing entitlement to a specified benefit dependent on an interview) for paragraph (5A)[^f00059] substitute—
 
@@ -257,7 +257,7 @@ In regulation 3 of the Social Security (Work-focused Interviews) Regulations (No
 
 .
 
-## 12. Amendment of the Housing Benefit Regulations[^key-1fba68facabdbee36189941525bb1639][^key-7be7e3287dd028d0ee1d0815f0f20e0b][^key-1fba68facabdbee36189941525bb1639][^key-7be7e3287dd028d0ee1d0815f0f20e0b]
+## 12. Amendment of the Housing Benefit Regulations[^c-1fba68facabdbee36189941525bb1639][^c-7be7e3287dd028d0ee1d0815f0f20e0b][^c-1fba68facabdbee36189941525bb1639][^c-7be7e3287dd028d0ee1d0815f0f20e0b]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00060] are amended in accordance with paragraphs (2) and (3).
 
@@ -278,7 +278,7 @@ In regulation 3 of the Social Security (Work-focused Interviews) Regulations (No
 
 (3) In Schedule 7 (capital to be disregarded) omit paragraph 47 (child maintenance bonus).
 
-## 13. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-06c902aae31b0c5a68638d90835d330e][^key-49805aaa5c201c4da55ae98b7a86e143][^key-06c902aae31b0c5a68638d90835d330e][^key-49805aaa5c201c4da55ae98b7a86e143]
+## 13. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-06c902aae31b0c5a68638d90835d330e][^c-49805aaa5c201c4da55ae98b7a86e143][^c-06c902aae31b0c5a68638d90835d330e][^c-49805aaa5c201c4da55ae98b7a86e143]
 
 In Schedule 4 to the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00063]—
 
@@ -296,7 +296,7 @@ In Schedule 4 to the Housing Benefit (Persons who have attained the qualifying a
 
   .
 
-## 14. Amendment of the Employment and Support Allowance Regulations[^key-8c4a00172a77158b8b08e0facbd5c6a5][^key-21d90d8c8dfc7263cf6db2b810c39062][^key-1903637ad9ddf6a4e312bbe82bb252f1][^key-475406ab7ea861414396bdac9f459d14]
+## 14. Amendment of the Employment and Support Allowance Regulations[^c-8c4a00172a77158b8b08e0facbd5c6a5][^c-21d90d8c8dfc7263cf6db2b810c39062][^c-1903637ad9ddf6a4e312bbe82bb252f1][^c-475406ab7ea861414396bdac9f459d14]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00064] are amended in accordance with paragraphs (2) to (12).
 
@@ -355,7 +355,7 @@ In Schedule 4 to the Housing Benefit (Persons who have attained the qualifying a
 
 (10) In Schedule 6 (housing costs)—
 
-- (a)[^key-8c4a00172a77158b8b08e0facbd5c6a5] in paragraph 6(5)(b) (housing costs not met) after “income” insert “equal to or”;
+- (a)[^c-8c4a00172a77158b8b08e0facbd5c6a5] in paragraph 6(5)(b) (housing costs not met) after “income” insert “equal to or”;
 - (b) in paragraph 15(1) (linking rules) omit “Subject to sub-paragraph (2),”;
 - (c) omit paragraph 15(2); and
 - (d) in paragraph 15(8)—
@@ -366,15 +366,15 @@ In Schedule 4 to the Housing Benefit (Persons who have attained the qualifying a
 
     .
 
-(11)[^key-21d90d8c8dfc7263cf6db2b810c39062] In paragraphs 5, 6 and 7(3)(b) of Schedule 7[^f00072] (sums to be disregarded in the calculation of earnings) for “£95.00”, in each place where it occurs, substitute “16 times the national minimum wage”.
+(11)[^c-21d90d8c8dfc7263cf6db2b810c39062] In paragraphs 5, 6 and 7(3)(b) of Schedule 7[^f00072] (sums to be disregarded in the calculation of earnings) for “£95.00”, in each place where it occurs, substitute “16 times the national minimum wage”.
 
-(12)[^key-1903637ad9ddf6a4e312bbe82bb252f1] In Schedule 8 (sums to be disregarded in the calculation of income other than earnings) in paragraph 7 for sub-paragraph (3)[^f00073] substitute—
+(12)[^c-1903637ad9ddf6a4e312bbe82bb252f1] In Schedule 8 (sums to be disregarded in the calculation of income other than earnings) in paragraph 7 for sub-paragraph (3)[^f00073] substitute—
 
 > (3) Any increase in respect of a dependent child or dependent young person under section 80 or 90 of the Contributions and Benefits Act.
 
 .
 
-## 15. Revocations[^key-4bb37b12e68fbd1a440259ad318086b3]
+## 15. Revocations[^c-4bb37b12e68fbd1a440259ad318086b3]
 
 The provisions specified in column (1) of the Schedule are revoked to the extent specified in column (3).
 
@@ -396,7 +396,7 @@ Adrian Arbuthnot
 
 A senior officer of the Department of Finance and Personnel
 
-## SCHEDULE — Revocations[^key-76454f1b5feae194bbdbf0554591b053]
+## SCHEDULE — Revocations[^c-76454f1b5feae194bbdbf0554591b053]
 
 Regulation 15
 
@@ -489,9 +489,9 @@ In so far as these Regulations are required, for the purposes of regulations 12 
 
 [^f00008]: Footnote: S*ee* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-3b8b15be89e29100759a0f6632d6e5c1]: Commencement: Reg. 1 in operation at 1.4.2011 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/2)
+[^c-3b8b15be89e29100759a0f6632d6e5c1]: Commencement: Reg. 1 in operation at 1.4.2011 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/2)
 
-[^key-29dd50108124d23463b269673d921561]: Commencement: Reg. 1 in operation at 4.4.2011 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/2)
+[^c-29dd50108124d23463b269673d921561]: Commencement: Reg. 1 in operation at 4.4.2011 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/2)
 
 [^f00009]: Footnote: [S.R 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Rules are [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146) and [431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365), [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), [S.R. 2000 No. 367](https://www.legislation.gov.uk/nisr/2000/367), [S.R. 2001 No. 29](https://www.legislation.gov.uk/nisr/2001/29), [S.R. 2003 Nos. 195](https://www.legislation.gov.uk/nisr/2003/195) and [338](https://www.legislation.gov.uk/nisr/2003/338), [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536), [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154), [S.R. 2008 Nos. 112](https://www.legislation.gov.uk/nisr/2008/112), [406](https://www.legislation.gov.uk/nisr/2008/406), [428](https://www.legislation.gov.uk/nisr/2008/428) and [503](https://www.legislation.gov.uk/nisr/2008/503), and [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338)
 
@@ -501,17 +501,17 @@ In so far as these Regulations are required, for the purposes of regulations 12 
 
 [^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3e37a4baad40ff43fe10728a1add88fa]: Commencement: Reg. 2 in operation at 4.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/2)
+[^c-3e37a4baad40ff43fe10728a1add88fa]: Commencement: Reg. 2 in operation at 4.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/2)
 
 [^f00013]: Footnote: [S. R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); regulation 14 was amended by regulation 2 of [S.R. 2010 No. 311](https://www.legislation.gov.uk/nisr/2010/311)
 
 [^f00014]: Footnote: [S.I. 1999/584](https://www.legislation.gov.uk/uksi/1999/584); regulation 11 was amended by regulation 3 of [S.I. 2010/1901](https://www.legislation.gov.uk/uksi/2010/1901)
 
-[^key-92fc268d2708aafd3688c5d52b00f7ee]: Commencement: Reg. 3(6) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
+[^c-92fc268d2708aafd3688c5d52b00f7ee]: Commencement: Reg. 3(6) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
 
-[^key-1541dfa4af91cbe2dec79793bc0929d0]: Commencement: Reg. 3(7)(a) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
+[^c-1541dfa4af91cbe2dec79793bc0929d0]: Commencement: Reg. 3(7)(a) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
 
-[^key-b1c945d672992114c48436ff30f2d000]: Commencement: Reg. 3 in operation at 11.4.2011 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
+[^c-b1c945d672992114c48436ff30f2d000]: Commencement: Reg. 3 in operation at 11.4.2011 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
 
 [^f00015]: Footnote: Paragraph (1) was amended by regulation 2(3)(a) of [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428)
 
@@ -539,7 +539,7 @@ In so far as these Regulations are required, for the purposes of regulations 12 
 
 [^f00027]: Footnote: Paragraph 14(2) was amended by Article 7(11)(b)(iii) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472), regulation 3(3) of [S.R. 2001 No. 29](https://www.legislation.gov.uk/nisr/2001/29), modified in relation to certain cases by regulation 9(h)(i) of [S.R. 2008 No. 503](https://www.legislation.gov.uk/nisr/2008/503) and further amended by regulation 2(14)(b) of [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338)
 
-[^key-cde23a091e7deb317f583d4b706b28b2]: Commencement: Reg. 4 in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
+[^c-cde23a091e7deb317f583d4b706b28b2]: Commencement: Reg. 4 in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
 
 [^f00028]: Footnote: [S.R. 1987 No.465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67), [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271), [S.R. 1996 Nos. 354](https://www.legislation.gov.uk/nisr/1996/354) and [622](https://www.legislation.gov.uk/nisr/1996/622), [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), [S.R. 2007 Nos. 206](https://www.legislation.gov.uk/nisr/2007/206) and [330](https://www.legislation.gov.uk/nisr/2007/330), [S.R. 2008 Nos. 286](https://www.legislation.gov.uk/nisr/2008/286) and [413](https://www.legislation.gov.uk/nisr/2008/413) and [S.R. 2010 No. 345](https://www.legislation.gov.uk/nisr/2010/345)
 
@@ -551,11 +551,11 @@ In so far as these Regulations are required, for the purposes of regulations 12 
 
 [^f00032]: Footnote: Schedule 8B was inserted by regulation 5 of [S.R 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271)
 
-[^key-cebaa78e3e344873abd55bcb7ecc0ea4]: Commencement: Reg. 5 in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
+[^c-cebaa78e3e344873abd55bcb7ecc0ea4]: Commencement: Reg. 5 in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
 
 [^f00033]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); Regulation 7 was amended by regulation 3 of [S.R. 2010 No. 311](https://www.legislation.gov.uk/nisr/2010/311)
 
-[^key-cc1eceb0f0a981baacc3ebb9f636cf65]: Commencement: Reg. 6 in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
+[^c-cc1eceb0f0a981baacc3ebb9f636cf65]: Commencement: Reg. 6 in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
 
 [^f00034]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); relevant amending Regulations are [S.R. 1996 No. 601](https://www.legislation.gov.uk/nisr/1996/601), [S.R. 2006 No. 150](https://www.legislation.gov.uk/nisr/2006/150) and [S.R. 2010 Nos. 200](https://www.legislation.gov.uk/nisr/2010/200) and [311](https://www.legislation.gov.uk/nisr/2010/311)
 
@@ -569,11 +569,11 @@ In so far as these Regulations are required, for the purposes of regulations 12 
 
 [^f00039]: Footnote: Paragraph (9) was added by regulation 6(4)(c) of [S.R. 2010 No. 200](https://www.legislation.gov.uk/nisr/2010/200)
 
-[^key-b7cfb5d70e57c3bbed2b6ae775722778]: Commencement: Reg. 7(7) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
+[^c-b7cfb5d70e57c3bbed2b6ae775722778]: Commencement: Reg. 7(7) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
 
-[^key-c4ec3600bfcc6f68279cbccf81efb170]: Commencement: Reg. 7(8)(c) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
+[^c-c4ec3600bfcc6f68279cbccf81efb170]: Commencement: Reg. 7(8)(c) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
 
-[^key-8a34888bef459463ebb8e5bb28e6ecdc]: Commencement: Reg. 7 in operation at 11.4.2011 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
+[^c-8a34888bef459463ebb8e5bb28e6ecdc]: Commencement: Reg. 7 in operation at 11.4.2011 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
 
 [^f00040]: Footnote: Regulation 55(4) was amended by regulation 19(9)(b) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and regulation 4(2) of [S.R. 2010 No. 347](https://www.legislation.gov.uk/nisr/2010/347)
 
@@ -587,7 +587,7 @@ In so far as these Regulations are required, for the purposes of regulations 12 
 
 [^f00045]: Footnote: Paragraph (1) was amended by regulation 9(2)(a) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), paragraph 8(a) of Schedule 2 to [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) and regulation 4(7) of [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338)
 
-[^key-3c1fba448bc290e789be6976f12ebe55]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/nisr/2011/135/regulation/7/6) revoked (2.4.2013) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/67)](https://www.legislation.gov.uk/nisr/2013/67), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/67/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2013/67/regulation/9)
+[^c-3c1fba448bc290e789be6976f12ebe55]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/nisr/2011/135/regulation/7/6) revoked (2.4.2013) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/67)](https://www.legislation.gov.uk/nisr/2013/67), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/67/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2013/67/regulation/9)
 
 [^f00047]: Footnote: Paragraph 15A was inserted by regulation 4(c)(ii) of [S.R. 2000 No. 367](https://www.legislation.gov.uk/nisr/2000/367) and paragraph (1) was amended by paragraph 20(c)(i) of Schedule 2 to [S.R. 2003 No.195](https://www.legislation.gov.uk/nisr/2003/195) and regulation 5(5)(d) of [S.R. 2010 No. 103](https://www.legislation.gov.uk/nisr/2010/103)
 
@@ -597,23 +597,23 @@ In so far as these Regulations are required, for the purposes of regulations 12 
 
 [^f00050]: Footnote: Paragraph 13(2) was amended by Article 9(8)(e) of [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428), regulation 4(3) of [S.R. 2001 No. 29](https://www.legislation.gov.uk/nisr/2001/29) and modified in relation to certain cases by regulation 10(i)(i) of [S.R. 2008 No. 503](https://www.legislation.gov.uk/nisr/2008/503) and regulation 4(13) of [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338)
 
-[^key-be72403e7227233b0ef2c8df83d70d86]: Commencement: Reg. 8 in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
+[^c-be72403e7227233b0ef2c8df83d70d86]: Commencement: Reg. 8 in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
 
 [^f00051]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); Schedule 2B was inserted by regulation 22 of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), relevant amending Regulations are [S.R. 2006 No. 168](https://www.legislation.gov.uk/nisr/2006/168) and [S.R. 2010 No. 81](https://www.legislation.gov.uk/nisr/2010/81)
 
-[^key-5ae383150c3aa8642952f373dd009afb]: Textual amendment: [Reg. 8(b)](https://www.legislation.gov.uk/nisr/2011/135/regulation/8/b) revoked (2.4.2013) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/67)](https://www.legislation.gov.uk/nisr/2013/67), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/67/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2013/67/regulation/9)
+[^c-5ae383150c3aa8642952f373dd009afb]: Textual amendment: [Reg. 8(b)](https://www.legislation.gov.uk/nisr/2011/135/regulation/8/b) revoked (2.4.2013) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/67)](https://www.legislation.gov.uk/nisr/2013/67), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/67/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2013/67/regulation/9)
 
 [^f00052]: Footnote: Paragraph 7 was inserted by regulation 4(5) of [S.R. 2006 No.168](https://www.legislation.gov.uk/nisr/2006/168) and amended by regulation 4(4)(a) of [S.R. 2010 No. 81](https://www.legislation.gov.uk/nisr/2010/81)
 
 [^f00053]: Footnote: Paragraphs 9 to 11 were added by regulation 4(4)(b) of [S.R. 2010 No. 81](https://www.legislation.gov.uk/nisr/2010/81)
 
-[^key-961b4f5aa4eb902ae3e0e6a274bc85fc]: Commencement: Reg. 9 in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
+[^c-961b4f5aa4eb902ae3e0e6a274bc85fc]: Commencement: Reg. 9 in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
 
 [^f00054]: Footnote: [S.R. 2001 No. 152](https://www.legislation.gov.uk/nisr/2001/152)
 
-[^key-ac637a903d085bf9b1de4b617901de1e]: Commencement: Reg. 10 in operation at 11.4.2011 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
+[^c-ac637a903d085bf9b1de4b617901de1e]: Commencement: Reg. 10 in operation at 11.4.2011 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
 
-[^key-6d97c40d40a3d7bf8e4567da167c6a39]: Commencement: Reg. 10 in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
+[^c-6d97c40d40a3d7bf8e4567da167c6a39]: Commencement: Reg. 10 in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
 
 [^f00055]: Footnote: [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195)
 
@@ -621,15 +621,15 @@ In so far as these Regulations are required, for the purposes of regulations 12 
 
 [^f00057]: Footnote: Paragraph (5) was amended by regulation 9 of [S.R. 2004 No. 143](https://www.legislation.gov.uk/nisr/2004/143) and paragraph 6 was amended by regulation 6(3)(b) of [S.R. 2003 No. 338](https://www.legislation.gov.uk/nisr/2003/338)
 
-[^key-fd8dc3ab08e67df138d79483c5d42aef]: Commencement: Reg. 11 in operation at 11.4.2011, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
+[^c-fd8dc3ab08e67df138d79483c5d42aef]: Commencement: Reg. 11 in operation at 11.4.2011, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
 
 [^f00058]: Footnote: [S.R. 2003 No. 274](https://www.legislation.gov.uk/nisr/2003/274)
 
 [^f00059]: Footnote: Paragraph (5A) was inserted by regulation 3(2)(c) of [S.R. 2007 No. 219](https://www.legislation.gov.uk/nisr/2007/219)
 
-[^key-1fba68facabdbee36189941525bb1639]: Commencement: Reg. 12 in operation at 4.4.2011 for specified purposes, see [reg. 1(2)(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/2/3)
+[^c-1fba68facabdbee36189941525bb1639]: Commencement: Reg. 12 in operation at 4.4.2011 for specified purposes, see [reg. 1(2)(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/2/3)
 
-[^key-7be7e3287dd028d0ee1d0815f0f20e0b]: Commencement: Reg. 12 in operation at 4.4.2011 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/2)
+[^c-7be7e3287dd028d0ee1d0815f0f20e0b]: Commencement: Reg. 12 in operation at 4.4.2011 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/2)
 
 [^f00060]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Regulations are [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378) and [S.R. 2010 No. 103](https://www.legislation.gov.uk/nisr/2010/103)
 
@@ -637,19 +637,19 @@ In so far as these Regulations are required, for the purposes of regulations 12 
 
 [^f00062]: Footnote: Section 141A was inserted by section 55 of the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21)) and amended by paragraph 101(2) to (4) of Schedule 24 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and paragraph 38 of Schedule 1 to the Child Benefit Act [2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6)
 
-[^key-06c902aae31b0c5a68638d90835d330e]: Commencement: Reg. 13 in operation at 4.4.2011 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/2)
+[^c-06c902aae31b0c5a68638d90835d330e]: Commencement: Reg. 13 in operation at 4.4.2011 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/2)
 
-[^key-49805aaa5c201c4da55ae98b7a86e143]: Commencement: Reg. 13 in operation at 4.4.2011 in so far as not already in force, see reg. (1)(2)
+[^c-49805aaa5c201c4da55ae98b7a86e143]: Commencement: Reg. 13 in operation at 4.4.2011 in so far as not already in force, see reg. (1)(2)
 
 [^f00063]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406)
 
-[^key-8c4a00172a77158b8b08e0facbd5c6a5]: Commencement: Reg. 14(10)(a) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
+[^c-8c4a00172a77158b8b08e0facbd5c6a5]: Commencement: Reg. 14(10)(a) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
 
-[^key-21d90d8c8dfc7263cf6db2b810c39062]: Commencement: Reg. 14(11) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
+[^c-21d90d8c8dfc7263cf6db2b810c39062]: Commencement: Reg. 14(11) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
 
-[^key-1903637ad9ddf6a4e312bbe82bb252f1]: Commencement: Reg. 14(12) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
+[^c-1903637ad9ddf6a4e312bbe82bb252f1]: Commencement: Reg. 14(12) in operation at 11.4.2011 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/3)
 
-[^key-475406ab7ea861414396bdac9f459d14]: Commencement: Reg. 14 in operation at 11.4.2011 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
+[^c-475406ab7ea861414396bdac9f459d14]: Commencement: Reg. 14 in operation at 11.4.2011 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
 
 [^f00064]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
 
@@ -671,6 +671,6 @@ In so far as these Regulations are required, for the purposes of regulations 12 
 
 [^f00073]: Footnote: Sub-paragraph (3) was inserted by regulation 9(20)(a) of [S.R. 2010 No. 200](https://www.legislation.gov.uk/nisr/2010/200)
 
-[^key-4bb37b12e68fbd1a440259ad318086b3]: Commencement: Reg. 15 in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
+[^c-4bb37b12e68fbd1a440259ad318086b3]: Commencement: Reg. 15 in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
 
-[^key-76454f1b5feae194bbdbf0554591b053]: Commencement: Sch. in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)
+[^c-76454f1b5feae194bbdbf0554591b053]: Commencement: Sch. in operation at 11.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1)

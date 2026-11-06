@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Notice of termination: sublease by local authority[^key-ba7355edd2d297f7a933d2bc402606ed]
+## 128. Notice of termination: sublease by local authority[^c-ba7355edd2d297f7a933d2bc402606ed]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba7355edd2d297f7a933d2bc402606ed]: Commencement: [S. 128](https://www.legislation.gov.uk/asp/2015/6/section/128) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 20](https://www.legislation.gov.uk/ssi/2017/458/article/20))
+[^c-ba7355edd2d297f7a933d2bc402606ed]: Commencement: [S. 128](https://www.legislation.gov.uk/asp/2015/6/section/128) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 20](https://www.legislation.gov.uk/ssi/2017/458/article/20))

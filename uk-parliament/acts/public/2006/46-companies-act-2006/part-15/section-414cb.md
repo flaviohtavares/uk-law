@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 414CB. Contents of non-financial and sustainability information statement[^key-3302750bdb660689f19f37236a183daf][^key-dad63577b1944f4e84da593288ed18df][^key-7290d538bca5189eb23efea502778dca]
+## 414CB. Contents of non-financial and sustainability information statement[^c-3302750bdb660689f19f37236a183daf][^c-dad63577b1944f4e84da593288ed18df][^c-7290d538bca5189eb23efea502778dca]
 
 *Extent: E+W+S+N.I.*
 
-[^key-bc472f1eab209e28ccdd03d205cc9047]
+[^c-bc472f1eab209e28ccdd03d205cc9047]
 
-(A1)[^key-43c884f413688d678a16bfd2449cde47] The non-financial and sustainability information statement must contain the climate-related financial disclosures of the company.
+(A1)[^c-43c884f413688d678a16bfd2449cde47] The non-financial and sustainability information statement must contain the climate-related financial disclosures of the company.
 
-(1) If the company is of a kind described in section 414CA(1)(a), (b), (c) or (d), the non-financial and sustainability information statement must[^key-12a2bf057dd30bae60576bf7a9c592c8] contain information, to the extent necessary for an understanding of the company’s development, performance and position and the impact of its activity, relating to, as a minimum—
+(1) If the company is of a kind described in section 414CA(1)(a), (b), (c) or (d), the non-financial and sustainability information statement must[^c-12a2bf057dd30bae60576bf7a9c592c8] contain information, to the extent necessary for an understanding of the company’s development, performance and position and the impact of its activity, relating to, as a minimum—
 
 - (a) environmental matters (including the impact of the company’s business on the environment),
 - (b) the company’s employees,
@@ -32,7 +32,7 @@ summary: ''
 - (d) respect for human rights, and
 - (e) anti-corruption and anti-bribery matters.
 
-(2) The information required by subsection (1)[^key-d0de5e25eccfa2a3ceeb15c4bbef57f5] must include—
+(2) The information required by subsection (1)[^c-d0de5e25eccfa2a3ceeb15c4bbef57f5] must include—
 
 - (a) a brief description of the company’s business model,
 - (b) a description of the policies pursued by the company in relation to the matters mentioned in subsection (1)(a) to (e) and any due diligence processes implemented by the company in pursuance of those policies,
@@ -42,7 +42,7 @@ summary: ''
   - (ii) a description of how it manages the principal risks, and
 - (e) a description of the non-financial key performance indicators relevant to the company’s business.
 
-(2A)[^key-4daefd3c9446188f917ab3cb40a4893e] In this section, “climate-related financial disclosures” mean—
+(2A)[^c-4daefd3c9446188f917ab3cb40a4893e] In this section, “climate-related financial disclosures” mean—
 
 - (a) a description of the company’s governance arrangements in relation to assessing and managing climate-related risks and opportunities;
 - (b) a description of how the company identifies, assesses, and manages climate-related risks and opportunities;
@@ -59,7 +59,7 @@ summary: ''
 
 (4) If the company does not pursue policies in relation to one or more of the matters mentioned in subsection (1)(a) to (e), the statement must provide a clear and reasoned explanation for the company’s not doing so.
 
-(4A)[^key-0dcc20690c05c01d97967b448d721db1] Where the directors of a company reasonably believe that, having regard to the nature of the company’s business, and the manner in which it is carried on, the whole or a part of a climate-related financial disclosure required by subsection (2A)(e), (f), (g) or (h) is not necessary for an understanding of the company’s business, the directors may omit the whole or (as the case requires) the relevant part of that climate-related financial disclosure.
+(4A)[^c-0dcc20690c05c01d97967b448d721db1] Where the directors of a company reasonably believe that, having regard to the nature of the company’s business, and the manner in which it is carried on, the whole or a part of a climate-related financial disclosure required by subsection (2A)(e), (f), (g) or (h) is not necessary for an understanding of the company’s business, the directors may omit the whole or (as the case requires) the relevant part of that climate-related financial disclosure.
 
 (4B) Where the directors omit the whole or part of a climate-related financial disclosure in reliance on subsection (4A) the non-financial and sustainability information statement must provide a clear and reasoned explanation of the directors’ reasonable belief mentioned in that subsection.
 
@@ -67,41 +67,41 @@ summary: ''
 
 (6) If information required by subsections (1) to (5) to be included in the statement is published by the company by means of a national, EU-based or international reporting framework, the statement must specify the framework or frameworks used, instead of including that information.
 
-(7) If a non-financial and sustainability[^key-010608d2c3a0b9a5d76f4549624cdc96] information statement complies with subsections (1) to (6), the strategic report of which it is part is to be treated as complying with the requirements in—
+(7) If a non-financial and sustainability[^c-010608d2c3a0b9a5d76f4549624cdc96] information statement complies with subsections (1) to (6), the strategic report of which it is part is to be treated as complying with the requirements in—
 
 - (a) section 414C(4)(b),
 - (b) section 414C(7), except as it relates to community issues,
 - (c) section 414C(8)(b), and
 - (d) section 414C(12), so far as relating to the provisions mentioned in paragraphs (a) to (c).
 
-(8) In relation to a group non-financial and sustainability[^key-9adede9bb53ed29ba5a75de824b4275c] information statement, this section has effect as if the references to the company were references to the undertakings included in the consolidation.
+(8) In relation to a group non-financial and sustainability[^c-9adede9bb53ed29ba5a75de824b4275c] information statement, this section has effect as if the references to the company were references to the undertakings included in the consolidation.
 
 (9) Nothing in this section requires the disclosure of information about impending developments or matters in the course of negotiation if the disclosure would, in the opinion of the directors, be seriously prejudicial to the commercial interests of the company, provided that the non-disclosure does not prevent a fair and balanced understanding of the company’s development, performance or position or the impact of the company’s activity.
 
-(10)[^key-04da676375867f00ba9dcada0c105e54] The Secretary of State may issue guidance on the climate-related financial disclosures, which are described in subsection (2A), and otherwise in connection with the requirements of this section and section 414CA.
+(10)[^c-04da676375867f00ba9dcada0c105e54] The Secretary of State may issue guidance on the climate-related financial disclosures, which are described in subsection (2A), and otherwise in connection with the requirements of this section and section 414CA.
 
 ## Annotations
 
-[^key-3302750bdb660689f19f37236a183daf]: Textual amendment: Ss. 414CA, 414CB inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Non-Financial Reporting) Regulations 2016 (S.I. 2016/1245)](https://www.legislation.gov.uk/uksi/2016/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1245/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/1245/regulation/4)
+[^c-3302750bdb660689f19f37236a183daf]: Textual amendment: Ss. 414CA, 414CB inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Non-Financial Reporting) Regulations 2016 (S.I. 2016/1245)](https://www.legislation.gov.uk/uksi/2016/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1245/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/1245/regulation/4)
 
-[^key-dad63577b1944f4e84da593288ed18df]: Textual amendment: Pt. 15 Ch. 4A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3),[3](https://www.legislation.gov.uk/uksi/2013/1970/regulation/3)
+[^c-dad63577b1944f4e84da593288ed18df]: Textual amendment: Pt. 15 Ch. 4A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3),[3](https://www.legislation.gov.uk/uksi/2013/1970/regulation/3)
 
-[^key-7290d538bca5189eb23efea502778dca]: Textual amendment: Words in [s. 414CB](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB) heading inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/a)
+[^c-7290d538bca5189eb23efea502778dca]: Textual amendment: Words in [s. 414CB](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB) heading inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/a)
 
-[^key-bc472f1eab209e28ccdd03d205cc9047]: Modification: Pt. 15 Ch. 4A applied in part (with modifications) by [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565), [reg. 3](https://www.legislation.gov.uk/uksi/2008/565/regulation/3) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3) (with [reg. 2(6)(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6/7)))
+[^c-bc472f1eab209e28ccdd03d205cc9047]: Modification: Pt. 15 Ch. 4A applied in part (with modifications) by [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565), [reg. 3](https://www.legislation.gov.uk/uksi/2008/565/regulation/3) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3) (with [reg. 2(6)(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6/7)))
 
-[^key-43c884f413688d678a16bfd2449cde47]: Textual amendment: [S. 414CB(A1)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/A1) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/b)
+[^c-43c884f413688d678a16bfd2449cde47]: Textual amendment: [S. 414CB(A1)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/A1) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/b)
 
-[^key-12a2bf057dd30bae60576bf7a9c592c8]: Textual amendment: Words in [s. 414CB(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/1) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/c)
+[^c-12a2bf057dd30bae60576bf7a9c592c8]: Textual amendment: Words in [s. 414CB(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/1) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/c)
 
-[^key-d0de5e25eccfa2a3ceeb15c4bbef57f5]: Textual amendment: Words in [s. 414CB(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/2) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/d)
+[^c-d0de5e25eccfa2a3ceeb15c4bbef57f5]: Textual amendment: Words in [s. 414CB(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/2) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/d)
 
-[^key-4daefd3c9446188f917ab3cb40a4893e]: Textual amendment: [S. 414CB(2A)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/2A) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(e)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/e)
+[^c-4daefd3c9446188f917ab3cb40a4893e]: Textual amendment: [S. 414CB(2A)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/2A) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(e)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/e)
 
-[^key-0dcc20690c05c01d97967b448d721db1]: Textual amendment: [S. 414CB(4A)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/4A)[(4B)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/4B) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(f)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/f)
+[^c-0dcc20690c05c01d97967b448d721db1]: Textual amendment: [S. 414CB(4A)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/4A)[(4B)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/4B) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(f)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/f)
 
-[^key-010608d2c3a0b9a5d76f4549624cdc96]: Textual amendment: Words in [s. 414CB(7)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/7) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(g)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/g)
+[^c-010608d2c3a0b9a5d76f4549624cdc96]: Textual amendment: Words in [s. 414CB(7)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/7) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(g)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/g)
 
-[^key-9adede9bb53ed29ba5a75de824b4275c]: Textual amendment: Words in [s. 414CB(8)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/8) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(h)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/h)
+[^c-9adede9bb53ed29ba5a75de824b4275c]: Textual amendment: Words in [s. 414CB(8)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/8) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(h)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/h)
 
-[^key-04da676375867f00ba9dcada0c105e54]: Textual amendment: [S. 414CB(10)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/10) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(i)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/i)
+[^c-04da676375867f00ba9dcada0c105e54]: Textual amendment: [S. 414CB(10)](https://www.legislation.gov.uk/ukpga/2006/46/section/414CB/10) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [4(i)](https://www.legislation.gov.uk/uksi/2022/31/regulation/4/i)

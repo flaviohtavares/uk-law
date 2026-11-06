@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 12 — FOR THE PROTECTION OF NET ZERO TEESSIDE POWER LIMITED AND NET ZERO NORTH SEA STORAGE LIMITED[^key-1210f69cbb978de25d37ebbd8a0dc027]
+## SCHEDULE 12 — FOR THE PROTECTION OF NET ZERO TEESSIDE POWER LIMITED AND NET ZERO NORTH SEA STORAGE LIMITED[^c-1210f69cbb978de25d37ebbd8a0dc027]
 
 *Extent: E+W*
 
@@ -247,4 +247,4 @@ Insofar as the NZT Specified Works are or may be undertaken concurrently with th
 
 ## Annotations
 
-[^key-1210f69cbb978de25d37ebbd8a0dc027]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/uksi/2016/772/schedule/12) inserted (11.3.2024) by [The Net Zero Teesside Order 2024 (S.I. 2024/174)](https://www.legislation.gov.uk/uksi/2024/174), [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2024/174/schedule/3/paragraph/3) (with [arts. 42](https://www.legislation.gov.uk/uksi/2024/174/article/42), [43](https://www.legislation.gov.uk/uksi/2024/174/article/43), [Sch. 12](https://www.legislation.gov.uk/uksi/2024/174/schedule/12))
+[^c-1210f69cbb978de25d37ebbd8a0dc027]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/uksi/2016/772/schedule/12) inserted (11.3.2024) by [The Net Zero Teesside Order 2024 (S.I. 2024/174)](https://www.legislation.gov.uk/uksi/2024/174), [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2024/174/schedule/3/paragraph/3) (with [arts. 42](https://www.legislation.gov.uk/uksi/2024/174/article/42), [43](https://www.legislation.gov.uk/uksi/2024/174/article/43), [Sch. 12](https://www.legislation.gov.uk/uksi/2024/174/schedule/12))

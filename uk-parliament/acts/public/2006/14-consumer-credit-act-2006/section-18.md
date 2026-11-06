@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Definition of “default sum”[^key-6b1998f70467eb100c27daa7795b8812]
+## 18. Definition of “default sum”[^c-6b1998f70467eb100c27daa7795b8812]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b1998f70467eb100c27daa7795b8812]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2006/14/section/18) in force at 16.6.2006 by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
+[^c-6b1998f70467eb100c27daa7795b8812]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2006/14/section/18) in force at 16.6.2006 by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)

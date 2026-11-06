@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Right of inspection[^key-c12c063d3e1b6eacb7d3086ce3cb2760]
+## 144. Right of inspection[^c-c12c063d3e1b6eacb7d3086ce3cb2760]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c12c063d3e1b6eacb7d3086ce3cb2760]: Commencement: Rule 144 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-c12c063d3e1b6eacb7d3086ce3cb2760]: Commencement: Rule 144 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

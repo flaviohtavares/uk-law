@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Implementing regulations: the general scheme.[^key-04e5b59ab8798c869a3bf58fd1de9d67]
+## 2. Implementing regulations: the general scheme.[^c-04e5b59ab8798c869a3bf58fd1de9d67]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04e5b59ab8798c869a3bf58fd1de9d67]: Textual amendment: S. 2 repealed (18.10.2008) by [Merchant Shipping (Liner Conferences) Act 1982 (Repeal) Regulations 2008 (S.I. 2008/163)](https://www.legislation.gov.uk/uksi/2008/163), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2008/163/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/2) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/4))
+[^c-04e5b59ab8798c869a3bf58fd1de9d67]: Textual amendment: S. 2 repealed (18.10.2008) by [Merchant Shipping (Liner Conferences) Act 1982 (Repeal) Regulations 2008 (S.I. 2008/163)](https://www.legislation.gov.uk/uksi/2008/163), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2008/163/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/2) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. When a decision to withdraw authorisation becomes final[^c24459121][^key-bd7aefe5851baf21e22de7f85a167ebe]
+## 35. When a decision to withdraw authorisation becomes final[^c24459121][^c-bd7aefe5851baf21e22de7f85a167ebe]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c24459121]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2021/1/section/35) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-bd7aefe5851baf21e22de7f85a167ebe]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2021/1/section/35) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-bd7aefe5851baf21e22de7f85a167ebe]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2021/1/section/35) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

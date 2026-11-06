@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Neglect: income tax and capital gains tax.[^M_F_621607e1-457a-402b-8863-44399d3cb9f7][^key-d0fddfb7eadd90c6e9d9364a7c371fb3]
+## 37. Neglect: income tax and capital gains tax.[^M_F_621607e1-457a-402b-8863-44399d3cb9f7][^c-d0fddfb7eadd90c6e9d9364a7c371fb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 [^M_F_621607e1-457a-402b-8863-44399d3cb9f7]: Textual amendment: Ss 37, 38, 39 repealed by [Finance Act 1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), [ss. 149(2)](https://www.legislation.gov.uk/ukpga/1989/26/section/149/2), [187](https://www.legislation.gov.uk/ukpga/1989/26/section/187), [Sch. 17 Pt. VIII](https://www.legislation.gov.uk/ukpga/1989/26/schedule/17/part/VIII) (but not to affect the making of assessments before 1983-84 or for accounting periods ending before 1 April 1983)
 
-[^key-d0fddfb7eadd90c6e9d9364a7c371fb3]: Modification: Pts. 4-6 applied (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 9(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/9/3)
+[^c-d0fddfb7eadd90c6e9d9364a7c371fb3]: Modification: Pts. 4-6 applied (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 9(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/9/3)

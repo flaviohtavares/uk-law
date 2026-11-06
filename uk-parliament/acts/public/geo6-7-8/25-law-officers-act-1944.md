@@ -47,7 +47,7 @@ An Act to enable the functions of the Attorney General, of the Lord Advocate and
 
 (3) In this section the expression “**enactment**” includes any enactment passed before the commencement of this Act, and, unless the contrary intention appears, any enactment passed thereafter:
 
-Provided that nothing in this section shall derogate from or prejudice the provisions of section three of the Criminal Procedure (Scotland) Act 1887 *(Extent: S)* *(affected by repeal, see note)*[^key-dc8456e64c693fca1e62583301e4598c] or section 42 of the Criminal Procedure (Scotland) Act 1975[^c591645] *(Extent: S)* *(affected by repeal, see note)*[^key-dc8456e64c693fca1e62583301e4598c]. *(Extent: S)* *(affected by repeal, see note)*[^key-dc8456e64c693fca1e62583301e4598c]287 of the Criminal Procedure (Scotland) Act 1995 (c.46) *(Extent: S)*
+Provided that nothing in this section shall derogate from or prejudice the provisions of section three of the Criminal Procedure (Scotland) Act 1887 *(Extent: S)* *(affected by repeal, see note)*[^c-dc8456e64c693fca1e62583301e4598c] or section 42 of the Criminal Procedure (Scotland) Act 1975[^c591645] *(Extent: S)* *(affected by repeal, see note)*[^c-dc8456e64c693fca1e62583301e4598c]. *(Extent: S)* *(affected by repeal, see note)*[^c-dc8456e64c693fca1e62583301e4598c]287 of the Criminal Procedure (Scotland) Act 1995 (c.46) *(Extent: S)*
 
 ## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c591647]
 
@@ -59,7 +59,7 @@ This Act may be cited as the Law Officers Act 1944.
 
 [^c591643]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Geo6/7-8/25/section/1) repealed (30.9.1997) by [1997 c.60](https://www.legislation.gov.uk/ukpga/1997/60), [s. 3(2)(3)](https://www.legislation.gov.uk/ukpga/1997/60/section/3/2/3), [Sch.](https://www.legislation.gov.uk/ukpga/1997/60/schedule)
 
-[^key-dc8456e64c693fca1e62583301e4598c]: Textual amendment: Words in s. 2(3) substituted (S.) (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/5); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-dc8456e64c693fca1e62583301e4598c]: Textual amendment: Words in s. 2(3) substituted (S.) (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/5); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
 [^c591645]: Textual amendment: Words added by [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/1975/21/schedule/9/paragraph/13)
 

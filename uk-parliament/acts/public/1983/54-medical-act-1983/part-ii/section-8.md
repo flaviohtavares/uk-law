@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Power to add further qualifying examinations.[^key-4fad5610e046f4d59a61e6ce31e41448]
+## 8. Power to add further qualifying examinations.[^c-4fad5610e046f4d59a61e6ce31e41448]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fad5610e046f4d59a61e6ce31e41448]: Textual amendment: S. 8 omitted (3.11.2008) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(5)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/5), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2008/1774/schedule/1/paragraph/7); [S.I. 2008/2556](https://www.legislation.gov.uk/uksi/2008/2556), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/2556/article/2/1/a)
+[^c-4fad5610e046f4d59a61e6ce31e41448]: Textual amendment: S. 8 omitted (3.11.2008) by virtue of [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(5)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/5), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2008/1774/schedule/1/paragraph/7); [S.I. 2008/2556](https://www.legislation.gov.uk/uksi/2008/2556), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/2556/article/2/1/a)

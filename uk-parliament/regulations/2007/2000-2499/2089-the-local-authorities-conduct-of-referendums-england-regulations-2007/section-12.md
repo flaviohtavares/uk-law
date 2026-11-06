@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Combination of referendum and election polls: supplementary provisions relating to elections[^key-08244686b0ee0053bb1a0722426fca27]
+## 12. Combination of referendum and election polls: supplementary provisions relating to elections[^c-08244686b0ee0053bb1a0722426fca27]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08244686b0ee0053bb1a0722426fca27]: Commencement: Reg. 12 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-08244686b0ee0053bb1a0722426fca27]: Commencement: Reg. 12 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)

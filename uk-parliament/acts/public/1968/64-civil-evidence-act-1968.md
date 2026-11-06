@@ -255,7 +255,7 @@ and any reference to a copy of the material part of a document shall be construe
 
 ### Convictions, etc. as evidence in civil proceedings
 
-#### 11. Convictions as evidence in civil proceedings.[^c749660][^c2087513][^key-70f9ee8d12defb0e41e274e98744d38d][^c749659]
+#### 11. Convictions as evidence in civil proceedings.[^c749660][^c2087513][^c-70f9ee8d12defb0e41e274e98744d38d][^c749659]
 
 (1) In any civil proceedings the fact that a person has been convicted of an offence by or before any court in the United Kingdom or of a service offence (anywhere)[^c2087482] shall (subject to subsection (3) below) be admissible in evidence for the purpose of proving, where to do so is relevant to any issue in those proceedings, that he committed that offence, whether he was so convicted upon a plea of guilty or otherwise and whether or not he is a party to the civil proceedings; but no conviction other than a subsisting one shall be admissible in evidence by virtue of this section.
 
@@ -270,7 +270,7 @@ and any reference to a copy of the material part of a document shall be construe
 
 (5) Nothing in any of the following enactments, that is to say—
 
-- (a) section 82 of the Sentencing Code[^key-82d46fbee721edeb4e948d6e020e30d5] (under which a conviction leading to [^c749662]. . . discharge is to be disregarded except as therein mentioned);
+- (a) section 82 of the Sentencing Code[^c-82d46fbee721edeb4e948d6e020e30d5] (under which a conviction leading to [^c749662]. . . discharge is to be disregarded except as therein mentioned);
 - (aa)[^c2087524][^c2087487] section 187 of the Armed Forces Act 2006 (which makes similar provision in respect of service convictions);
 - (b) section 191 of the[^c749663] [^c749664]Criminal Procedure (Scotland) Act 1975 (which makes similar provision in respect of convictions on indictment in Scotland); and
 - (c) section 8 of the [^c749665]Probation Act (Northern Ireland) 1950 (which corresponds to the said section 12) or any corresponding enactment of the Parliament of Northern Ireland for the time being in force,
@@ -302,9 +302,9 @@ shall (subject to subsection (3) below) be admissible in evidence for the purpos
 
 (5) In this section—
 
-- “**matrimonial proceedings** ” means any matrimonial cause in the High Court or family[^key-b73baa22e331863b3c22c5c644dcdaeb] court in England and Wales or in the High Court in Northern Ireland, any consistorial action in Scotland, or any appeal arising out of any such cause or action;
+- “**matrimonial proceedings** ” means any matrimonial cause in the High Court or family[^c-b73baa22e331863b3c22c5c644dcdaeb] court in England and Wales or in the High Court in Northern Ireland, any consistorial action in Scotland, or any appeal arising out of any such cause or action;
 - “[^c749712] **relevant proceedings** ” means—
-- (a)[^key-9d92d7b54f746743b1ea003c048497a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9d92d7b54f746743b1ea003c048497a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) proceedings under the Children Act 1989;
 - (c) proceedings which would have been relevant proceedings for the purposes of this section in the form in which it was in force before the passing of the Children Act 1989.
 - (d)[^c749713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -500,7 +500,7 @@ Section 17.
 
 [^c2087513]: Modification: S. 11 modified (24.4.2009 for certain purposes and otherwise 31.10.2009) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/2/3), [205](https://www.legislation.gov.uk/uksi/2009/1059/article/205), [Sch. 1 para. 11(1)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/11/1)
 
-[^key-70f9ee8d12defb0e41e274e98744d38d]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1968/64/section/11) extended (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 175(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/175/1), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [s. 179 Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/section/179/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-70f9ee8d12defb0e41e274e98744d38d]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1968/64/section/11) extended (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 175(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/175/1), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [s. 179 Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/section/179/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
 
 [^c749659]: Modification: S. 11 extended by [S.R. 1983/153](https://www.legislation.gov.uk/nisr/1983/153), [art. 18](https://www.legislation.gov.uk/nisr/1983/153/article/18) and [S.I. 1983/887](https://www.legislation.gov.uk/uksi/1983/887), [art. 18](https://www.legislation.gov.uk/uksi/1983/887/article/18)
 
@@ -508,7 +508,7 @@ Section 17.
 
 [^c2087485]: Textual amendment: Words in s. 11(2) substituted (28.3.2009 for certain purposes and otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 51(3)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/51/3); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-82d46fbee721edeb4e948d6e020e30d5]: Textual amendment: Words in s. 11(5)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 20](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/20) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-82d46fbee721edeb4e948d6e020e30d5]: Textual amendment: Words in s. 11(5)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 20](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/20) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c749662]: Textual amendment: Words in s. 11(5)(a) repealed (1.10.1992) by [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [ss. 100](https://www.legislation.gov.uk/ukpga/1991/53/section/100), [101(2)](https://www.legislation.gov.uk/ukpga/1991/53/section/101/2), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/1991/53/schedule/11/paragraph/5), [Sch. 13](https://www.legislation.gov.uk/ukpga/1991/53/schedule/13); [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2)
 
@@ -530,11 +530,11 @@ Section 17.
 
 [^c749710]: Textual amendment: Words substituted by [Family Law Reform Act 1987 (c. 42, SIF 49:7)](https://www.legislation.gov.uk/ukpga/1987/42), [ss. 29(3)](https://www.legislation.gov.uk/ukpga/1987/42/section/29/3), [33(2)](https://www.legislation.gov.uk/ukpga/1987/42/section/33/2), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1987/42/schedule/3/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/1987/42/schedule/3/paragraph/6)
 
-[^key-b73baa22e331863b3c22c5c644dcdaeb]: Textual amendment: Word in s. 12(5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 17](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/17); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-b73baa22e331863b3c22c5c644dcdaeb]: Textual amendment: Word in s. 12(5) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 17](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/17); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c749712]: Textual amendment: Definition of “relevant proceedings” substituted (14.10.1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 116](https://www.legislation.gov.uk/ukpga/1990/41/section/116), [Sch. 16 para. 2(1)](https://www.legislation.gov.uk/ukpga/1990/41/schedule/16/paragraph/2/1); [S.I. 1992/1883](https://www.legislation.gov.uk/uksi/1992/1883), [art. 3](https://www.legislation.gov.uk/uksi/1992/1883/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1992/1883/schedule)
 
-[^key-9d92d7b54f746743b1ea003c048497a6]: Textual amendment: Words in [s. 12(5)](https://www.legislation.gov.uk/ukpga/1968/64/section/12/5) omitted (1.4.2015) by virtue of [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/15) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+[^c-9d92d7b54f746743b1ea003c048497a6]: Textual amendment: Words in [s. 12(5)](https://www.legislation.gov.uk/ukpga/1968/64/section/12/5) omitted (1.4.2015) by virtue of [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/15) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
 
 [^c749713]: Textual amendment: S. 12(5)(d) repealed (1.4.2001) by [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19), [s. 85](https://www.legislation.gov.uk/ukpga/2000/19/section/85), [Sch. 9 Pt. IX](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/IX) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2001/774](https://www.legislation.gov.uk/uksi/2001/774), [art. 2](https://www.legislation.gov.uk/uksi/2001/774/article/2)
 

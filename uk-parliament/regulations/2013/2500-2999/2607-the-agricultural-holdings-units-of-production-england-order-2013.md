@@ -32,7 +32,7 @@ summary: ''
 
 Landlord And Tenant, England
 
-The Agricultural Holdings (Units of Production) (England) Order 2013 (revoked)[^key-1b13cd68efd4963b96ee7c7b898de766]
+The Agricultural Holdings (Units of Production) (England) Order 2013 (revoked)[^c-1b13cd68efd4963b96ee7c7b898de766]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 7th November 2013
 
-[^key-1b13cd68efd4963b96ee7c7b898de766]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b13cd68efd4963b96ee7c7b898de766]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, application, commencement and interpretation[^key-1b13cd68efd4963b96ee7c7b898de766]
+## 1. Citation, application, commencement and interpretation[^c-1b13cd68efd4963b96ee7c7b898de766]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Assessment of productive capacity of land[^key-1b13cd68efd4963b96ee7c7b898de766]
+## 2. Assessment of productive capacity of land[^c-1b13cd68efd4963b96ee7c7b898de766]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-1b13cd68efd4963b96ee7c7b898de766]
+## 3. Revocation[^c-1b13cd68efd4963b96ee7c7b898de766]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b13cd68efd4963b96ee7c7b898de766]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b13cd68efd4963b96ee7c7b898de766]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PRESCRIBED UNITS OF PRODUCTION AND DETERMINATION OF NET ANNUAL INCOME[^key-1b13cd68efd4963b96ee7c7b898de766]
+## SCHEDULE — PRESCRIBED UNITS OF PRODUCTION AND DETERMINATION OF NET ANNUAL INCOME[^c-1b13cd68efd4963b96ee7c7b898de766]
 
 Article 2
 
@@ -74,7 +74,7 @@ Article 2
 
 **No longer in force.**
 
-[^key-1b13cd68efd4963b96ee7c7b898de766]EXPLANATORY NOTE
+[^c-1b13cd68efd4963b96ee7c7b898de766]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -88,4 +88,4 @@ An impact assessment has not been produced for this instrument as no impact on b
 
 ## Annotations
 
-[^key-1b13cd68efd4963b96ee7c7b898de766]: Textual amendment: Order revoked (7.11.2014) by [The Agricultural Holdings (Units of Production) (England) Order 2014 (S.I. 2014/2712)](https://www.legislation.gov.uk/uksi/2014/2712), arts. 1(1), [3](https://www.legislation.gov.uk/uksi/2014/2712/article/3)
+[^c-1b13cd68efd4963b96ee7c7b898de766]: Textual amendment: Order revoked (7.11.2014) by [The Agricultural Holdings (Units of Production) (England) Order 2014 (S.I. 2014/2712)](https://www.legislation.gov.uk/uksi/2014/2712), arts. 1(1), [3](https://www.legislation.gov.uk/uksi/2014/2712/article/3)

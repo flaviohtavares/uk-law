@@ -100,7 +100,7 @@ Delivery contracts shall provide for the gross weight, tare and sugar content to
 
 - ((a)) jointly, by the sugar undertaking and the beet growers' trade organisation, if an agreement within the trade so provides;
 - ((b)) by the sugar undertaking, under the supervision of the beet growers' trade organisation;
-- ((c)) by the sugar undertaking, under the supervision of an expert recognised by the Secretary of State[^key-c6c8c3573192782829ac3c4fd31c2078], provided the beet seller defrays the costs thereof.
+- ((c)) by the sugar undertaking, under the supervision of an expert recognised by the Secretary of State[^c-c6c8c3573192782829ac3c4fd31c2078], provided the beet seller defrays the costs thereof.
 
 POINT VIII
 
@@ -137,11 +137,11 @@ Agreements within the trade as described in point 6 of Section A of Part II of A
 
 2\.
 
-Agreements within the trade may lay down a standard template for delivery contracts compatible with this Regulation and any applicable legislation[^key-3bdfcc60801bc462ecd2f2355ed2675a].
+Agreements within the trade may lay down a standard template for delivery contracts compatible with this Regulation and any applicable legislation[^c-3bdfcc60801bc462ecd2f2355ed2675a].
 
 3\.
 
-Where agreements within the trade at national[^key-39e14443899d73c6bd810a656aa7ea77], regional or local level lay down rules covering matters which are dealt with in this Regulation, or where they contain provisions governing other matters, their provisions and effects shall not conflict with this Annex.
+Where agreements within the trade at national[^c-39e14443899d73c6bd810a656aa7ea77], regional or local level lay down rules covering matters which are dealt with in this Regulation, or where they contain provisions governing other matters, their provisions and effects shall not conflict with this Annex.
 
 4\.
 
@@ -163,10 +163,10 @@ A sugar undertaking and the beet sellers concerned may agree on value sharing cl
 
 ## Annotations
 
-[^key-c6c8c3573192782829ac3c4fd31c2078]: Textual amendment: Words in [Annex 10](https://www.legislation.gov.uk/eur/2013/1308/annex/X) Point 7(c) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [5(17)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c6c8c3573192782829ac3c4fd31c2078]: Textual amendment: Words in [Annex 10](https://www.legislation.gov.uk/eur/2013/1308/annex/X) Point 7(c) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [5(17)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/5/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3bdfcc60801bc462ecd2f2355ed2675a]: Textual amendment: Words in [Annex 10](https://www.legislation.gov.uk/eur/2013/1308/annex/X) Point 11 paragraph 2 substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [84(b)(i)](https://www.legislation.gov.uk/uksi/2019/821/regulation/84/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3bdfcc60801bc462ecd2f2355ed2675a]: Textual amendment: Words in [Annex 10](https://www.legislation.gov.uk/eur/2013/1308/annex/X) Point 11 paragraph 2 substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [84(b)(i)](https://www.legislation.gov.uk/uksi/2019/821/regulation/84/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-39e14443899d73c6bd810a656aa7ea77]: Textual amendment: Word in [Annex 10](https://www.legislation.gov.uk/eur/2013/1308/annex/X) Point 11 paragraph 3 substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [84(b)(ii)](https://www.legislation.gov.uk/uksi/2019/821/regulation/84/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39e14443899d73c6bd810a656aa7ea77]: Textual amendment: Word in [Annex 10](https://www.legislation.gov.uk/eur/2013/1308/annex/X) Point 11 paragraph 3 substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [84(b)(ii)](https://www.legislation.gov.uk/uksi/2019/821/regulation/84/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000013]: Textual amendment: Inserted by [Commission Delegated Regulation (EU) 2016/1166 of 17 May 2016 amending Annex X to Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards purchase terms for beet in the sugar sector as from 1 October 2017](https://www.legislation.gov.uk/eur/2016/1166).

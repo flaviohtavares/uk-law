@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Communication during the operator’s spaceflight activities[^key-51434ce19eba0525d26d8aa9eb519744]
+## 96. Communication during the operator’s spaceflight activities[^c-51434ce19eba0525d26d8aa9eb519744]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51434ce19eba0525d26d8aa9eb519744]: Commencement: Reg. 96 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-51434ce19eba0525d26d8aa9eb519744]: Commencement: Reg. 96 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

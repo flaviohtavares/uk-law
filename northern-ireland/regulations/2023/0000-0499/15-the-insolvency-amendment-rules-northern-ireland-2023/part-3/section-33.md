@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Amendment of Part 7[^key-963273bb7efa6b686a3b2018eef7b5ec]
+## 33. Amendment of Part 7[^c-963273bb7efa6b686a3b2018eef7b5ec]
 
 *Extent: N.I.*
 
 In Rule 7.01 (Heading and title of proceedings) in paragraph (1) for “Parts II to VII” substitute “Parts A1 to VII”.
 
-**34.**[^key-69a2b9029bf2d721f17d9e127cf70fed] In Rule 7.07 (Form and contents of application)—
+**34.**[^c-69a2b9029bf2d721f17d9e127cf70fed] In Rule 7.07 (Form and contents of application)—
 
 (1) At the end of paragraph (1)(a) insert “or these Rules (as applicable)”.
 
@@ -32,7 +32,7 @@ In Rule 7.01 (Heading and title of proceedings) in paragraph (1) for “Parts II
 
 .
 
-**35.**[^key-5e32393318f35e4d2e38711a93126444] In Rule 7.08 (Filing and service of application) for paragraph (3) substitute—
+**35.**[^c-5e32393318f35e4d2e38711a93126444] In Rule 7.08 (Filing and service of application) for paragraph (3) substitute—
 
 > (3) The applicant must serve a sealed copy of the application, endorsed with the date for the hearing on—
 >
@@ -43,7 +43,7 @@ In Rule 7.01 (Heading and title of proceedings) in paragraph (1) for “Parts II
 
 .
 
-**36.**[^key-a96773019b8ff1e0330ea2dae912ef20] In Rule 7.12 (Use of reports), paragraph (1)(b)—
+**36.**[^c-a96773019b8ff1e0330ea2dae912ef20] In Rule 7.12 (Use of reports), paragraph (1)(b)—
 
 (1) omit “, or” and substitute “,” at the end of head (iv);
 
@@ -55,7 +55,7 @@ In Rule 7.01 (Heading and title of proceedings) in paragraph (1) for “Parts II
 
 .
 
-**37.**[^key-d7ab104210be36814edf072b05b3af8c] In Rule 7.13B (Power to make a block transfer order), paragraph (2)—
+**37.**[^c-d7ab104210be36814edf072b05b3af8c] In Rule 7.13B (Power to make a block transfer order), paragraph (2)—
 
 (1) omit “, or” at the end of sub-paragraph (c) and substitute “,”;
 
@@ -67,7 +67,7 @@ In Rule 7.01 (Heading and title of proceedings) in paragraph (1) for “Parts II
 
 .
 
-**38.**[^key-7dc81feca76ea828973d8be1f568dcde] In Rule 7.13C (Application for a block transfer order), paragraph (2)—
+**38.**[^c-7dc81feca76ea828973d8be1f568dcde] In Rule 7.13C (Application for a block transfer order), paragraph (2)—
 
 (1) before sub-paragraph (a) insert—
 
@@ -94,7 +94,7 @@ In Rule 7.01 (Heading and title of proceedings) in paragraph (1) for “Parts II
 
   .
 
-**39.**[^key-4bf19a39341c74c77fe3d089852c6926] In Rule 7.20 (Orders enforcing compliance with the Order)—
+**39.**[^c-4bf19a39341c74c77fe3d089852c6926] In Rule 7.20 (Orders enforcing compliance with the Order)—
 
 (1) In paragraph (1), before sub-paragraph (a) insert—
 
@@ -108,9 +108,9 @@ In Rule 7.01 (Heading and title of proceedings) in paragraph (1) for “Parts II
 
 .
 
-**40.**[^key-4fc57cb08908d68b6bbb86025d4ef58e] In Rule 7.27 (Right to inspect the file) in paragraph (2)(a), for “Parts II to VII” substitute “Parts A1 to VII”.
+**40.**[^c-4fc57cb08908d68b6bbb86025d4ef58e] In Rule 7.27 (Right to inspect the file) in paragraph (2)(a), for “Parts II to VII” substitute “Parts A1 to VII”.
 
-**41.**[^key-398d12b8942e01f4ea2fc78181e11124] In Rule 7.36 (Applications for costs) in paragraph (2), for sub-paragraph (a) substitute—
+**41.**[^c-398d12b8942e01f4ea2fc78181e11124] In Rule 7.36 (Applications for costs) in paragraph (2), for sub-paragraph (a) substitute—
 
 > - (a) in proceedings other than those relating to a debt relief order, on the responsible insolvency practitioner and—
 >   - (i) in a winding up by the court or bankruptcy, on the official receiver; or
@@ -120,20 +120,20 @@ In Rule 7.01 (Heading and title of proceedings) in paragraph (1) for “Parts II
 
 ## Annotations
 
-[^key-963273bb7efa6b686a3b2018eef7b5ec]: Commencement: Rule 33 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-963273bb7efa6b686a3b2018eef7b5ec]: Commencement: Rule 33 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-69a2b9029bf2d721f17d9e127cf70fed]: Commencement: Rule 34 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-69a2b9029bf2d721f17d9e127cf70fed]: Commencement: Rule 34 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-5e32393318f35e4d2e38711a93126444]: Commencement: Rule 35 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-5e32393318f35e4d2e38711a93126444]: Commencement: Rule 35 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-a96773019b8ff1e0330ea2dae912ef20]: Commencement: Rule 36 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-a96773019b8ff1e0330ea2dae912ef20]: Commencement: Rule 36 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-d7ab104210be36814edf072b05b3af8c]: Commencement: Rule 37 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-d7ab104210be36814edf072b05b3af8c]: Commencement: Rule 37 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-7dc81feca76ea828973d8be1f568dcde]: Commencement: Rule 38 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-7dc81feca76ea828973d8be1f568dcde]: Commencement: Rule 38 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-4bf19a39341c74c77fe3d089852c6926]: Commencement: Rule 39 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-4bf19a39341c74c77fe3d089852c6926]: Commencement: Rule 39 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-4fc57cb08908d68b6bbb86025d4ef58e]: Commencement: Rule 40 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-4fc57cb08908d68b6bbb86025d4ef58e]: Commencement: Rule 40 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-398d12b8942e01f4ea2fc78181e11124]: Commencement: Rule 41 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-398d12b8942e01f4ea2fc78181e11124]: Commencement: Rule 41 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)

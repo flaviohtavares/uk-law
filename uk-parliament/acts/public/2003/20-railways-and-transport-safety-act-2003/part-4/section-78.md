@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Professional staff on duty[^key-181d881d9b0f6d2c771bbc4eb1a129c9]
+## 78. Professional staff on duty[^c-181d881d9b0f6d2c771bbc4eb1a129c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-181d881d9b0f6d2c771bbc4eb1a129c9]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2003/20/section/78) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/827/article/3/a)
+[^c-181d881d9b0f6d2c771bbc4eb1a129c9]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2003/20/section/78) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/827/article/3/a)

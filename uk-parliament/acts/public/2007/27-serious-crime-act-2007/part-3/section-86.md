@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Use of force in executing search warrants: Scotland[^key-9243c1a498b5e91bad31940fd1316bb0]
+## 86. Use of force in executing search warrants: Scotland[^c-9243c1a498b5e91bad31940fd1316bb0]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ In section 387 of the Proceeds of Crime Act 2002 (c. 29) (issue of search warran
 
 ## Annotations
 
-[^key-9243c1a498b5e91bad31940fd1316bb0]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2007/27/section/86) in force at 28.4.2008 by [S.S.I. 2008/152](https://www.legislation.gov.uk/ssi/2008/152), [art. 2](https://www.legislation.gov.uk/ssi/2008/152/article/2)
+[^c-9243c1a498b5e91bad31940fd1316bb0]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2007/27/section/86) in force at 28.4.2008 by [S.S.I. 2008/152](https://www.legislation.gov.uk/ssi/2008/152), [art. 2](https://www.legislation.gov.uk/ssi/2008/152/article/2)

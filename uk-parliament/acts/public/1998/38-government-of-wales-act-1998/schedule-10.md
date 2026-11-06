@@ -32,7 +32,7 @@ Section 112.
 
 (3) In subsection (5)(b) (Special Health Authorities which are subject to investigation by Health Service Commissioner), omit “by Order in Council”.
 
-(4)[^key-a97e5f5aa94fe4a0ed904581a9d0482b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a97e5f5aa94fe4a0ed904581a9d0482b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** [^c20188011]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -52,17 +52,17 @@ Section 112.
 - (a) after “Payments” insert “ made by the Health Service Commissioner for England or the Health Service Commissioner for Scotland ”, and
 - (b) [^c20188471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-fa57e98ce3f802e96ef706013547db4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-fa57e98ce3f802e96ef706013547db4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** [^c20188731]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** [^c20188851]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-10853b4672ae0640e59671e15d0ebd9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-10853b4672ae0640e59671e15d0ebd9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.** (1) Section 18 (consultation with other Commissioners) is amended as follows.
 
-(2) In subsection (1) (duty to consult), [^key-cb2b54ffda0a7cfe6867f822d8cba8ac]... after “Commissioner”, in both places where it appears in the words following paragraph (d), insert “ or the Ombudsman ”.
+(2) In subsection (1) (duty to consult), [^c-cb2b54ffda0a7cfe6867f822d8cba8ac]... after “Commissioner”, in both places where it appears in the words following paragraph (d), insert “ or the Ombudsman ”.
 
 (3) In subsection (2) (matters which may be covered by consultation), after “another Commissioner” insert “ or the Welsh Administration Ombudsman ”.
 
@@ -88,13 +88,13 @@ Section 112.
 
 (4) In paragraph 2(1) (acting Commissioners), for “Where any” substitute “ Where either ”.
 
-(5)[^key-a6c0a60205643dd6cfd712fe5c609168] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a6c0a60205643dd6cfd712fe5c609168] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-44a8d5127ea5b185423436c97abca370] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-44a8d5127ea5b185423436c97abca370] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Omit paragraph 11(2) (staff of Welsh Commissioner).
 
-(8)[^key-56e1824a5c94b057d5ad90a28bbf46b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-56e1824a5c94b057d5ad90a28bbf46b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **17.** [^c20189081]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -108,7 +108,7 @@ Section 112.
 
 [^c20188001]: Textual amendment: [Sch. 10 para. 3(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/3/2) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1)
 
-[^key-a97e5f5aa94fe4a0ed904581a9d0482b]: Textual amendment: [Sch. 10 para. 3(4)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/3/4) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/a)
+[^c-a97e5f5aa94fe4a0ed904581a9d0482b]: Textual amendment: [Sch. 10 para. 3(4)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/3/4) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/a)
 
 [^c20188011]: Textual amendment: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/4) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1)
 
@@ -120,15 +120,15 @@ Section 112.
 
 [^c20188471]: Textual amendment: [Sch. 10 para. 9(b)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/9/b) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1)
 
-[^key-fa57e98ce3f802e96ef706013547db4d]: Textual amendment: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/10) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/b)
+[^c-fa57e98ce3f802e96ef706013547db4d]: Textual amendment: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/10) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/b)
 
 [^c20188731]: Textual amendment: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/11) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1)
 
 [^c20188851]: Textual amendment: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/12) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1)
 
-[^key-10853b4672ae0640e59671e15d0ebd9a]: Textual amendment: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/13) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/c)
+[^c-10853b4672ae0640e59671e15d0ebd9a]: Textual amendment: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/13) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/c)
 
-[^key-cb2b54ffda0a7cfe6867f822d8cba8ac]: Textual amendment: Words in [Sch. 10 para. 14(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/14/2) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/d)
+[^c-cb2b54ffda0a7cfe6867f822d8cba8ac]: Textual amendment: Words in [Sch. 10 para. 14(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/14/2) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/d)
 
 [^c12405261]: Commencement: [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/15) partly in force; [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/15) not in force at Royal Assent see [s. 158](https://www.legislation.gov.uk/ukpga/1998/38/section/158); [Sch. 10 para. 15(3)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/15/3) in force at 1.7.1999 by [S.I. 1999/1290](https://www.legislation.gov.uk/uksi/1999/1290), [art. 4](https://www.legislation.gov.uk/uksi/1999/1290/article/4)
 
@@ -136,10 +136,10 @@ Section 112.
 
 [^c20189071]: Textual amendment: [Sch. 10 para. 16(3)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/16/3) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1)
 
-[^key-a6c0a60205643dd6cfd712fe5c609168]: Textual amendment: [Sch. 10 para. 16(5)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/16/5) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/e)
+[^c-a6c0a60205643dd6cfd712fe5c609168]: Textual amendment: [Sch. 10 para. 16(5)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/16/5) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/e)
 
-[^key-44a8d5127ea5b185423436c97abca370]: Textual amendment: [Sch. 10 para. 16(6)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/16/6) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/e)
+[^c-44a8d5127ea5b185423436c97abca370]: Textual amendment: [Sch. 10 para. 16(6)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/16/6) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/e)
 
-[^key-56e1824a5c94b057d5ad90a28bbf46b6]: Textual amendment: [Sch. 10 para. 16(8)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/16/8) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/e)
+[^c-56e1824a5c94b057d5ad90a28bbf46b6]: Textual amendment: [Sch. 10 para. 16(8)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/16/8) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 56(4)(e)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/56/4/e)
 
 [^c20189081]: Textual amendment: [Sch. 10 para. 17](https://www.legislation.gov.uk/ukpga/1998/38/schedule/10/paragraph/17) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39](https://www.legislation.gov.uk/ukpga/2005/10/section/39), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1)

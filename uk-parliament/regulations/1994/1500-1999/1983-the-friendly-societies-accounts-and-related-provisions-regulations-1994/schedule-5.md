@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5[^key-fe0835397bdb86468337bc3c9c08fd35]
+## SCHEDULE 5[^c-fe0835397bdb86468337bc3c9c08fd35]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,4 +102,4 @@ Regulation 9
 
 ## Annotations
 
-[^key-fe0835397bdb86468337bc3c9c08fd35]: Textual amendment: Sch. 5 omitted (29.6.2008 with effect in relation to financial years beginning on or after that date) by virtue of [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2008/1144/regulation/6)
+[^c-fe0835397bdb86468337bc3c9c08fd35]: Textual amendment: Sch. 5 omitted (29.6.2008 with effect in relation to financial years beginning on or after that date) by virtue of [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2008/1144/regulation/6)

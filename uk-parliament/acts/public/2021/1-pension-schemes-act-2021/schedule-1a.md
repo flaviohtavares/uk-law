@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 1A — Unconnected Multiple Employer Schemes: Business Strategy[^key-80e4bf78f6eec01b45fa27095eba30c4]
+## Schedule 1A — Unconnected Multiple Employer Schemes: Business Strategy[^c-80e4bf78f6eec01b45fa27095eba30c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ Section 14(3C)(a)(ii) and (b)
 
 ## Annotations
 
-[^key-80e4bf78f6eec01b45fa27095eba30c4]: Textual amendment: [Schs. 1A-1C](https://www.legislation.gov.uk/ukpga/2021/1/schedule/1A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [23](https://www.legislation.gov.uk/uksi/2025/1313/regulation/23)
+[^c-80e4bf78f6eec01b45fa27095eba30c4]: Textual amendment: [Schs. 1A-1C](https://www.legislation.gov.uk/ukpga/2021/1/schedule/1A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [23](https://www.legislation.gov.uk/uksi/2025/1313/regulation/23)

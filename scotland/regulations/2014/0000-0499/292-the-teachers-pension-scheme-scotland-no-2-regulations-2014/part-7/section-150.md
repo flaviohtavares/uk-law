@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 150. Interpretation of Part[^key-55e0bf94f7f5a95a1523104e99cecff6]
+## 150. Interpretation of Part[^c-55e0bf94f7f5a95a1523104e99cecff6]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In this Part—
 
 ## Annotations
 
-[^key-55e0bf94f7f5a95a1523104e99cecff6]: Commencement: [Reg. 150](https://www.legislation.gov.uk/ssi/2014/292/regulation/150) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-55e0bf94f7f5a95a1523104e99cecff6]: Commencement: [Reg. 150](https://www.legislation.gov.uk/ssi/2014/292/regulation/150) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

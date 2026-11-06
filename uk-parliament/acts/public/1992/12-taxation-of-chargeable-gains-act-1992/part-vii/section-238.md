@@ -24,7 +24,7 @@ summary: ''
 
 (2) For the purposes of capital gains tax—
 
-- (a) no deduction shall be made from the consideration for the disposal of any shares by reason only that an amount determined under section 186 or 187 of or Schedule 9 or 10 to the Taxes Act counts as employment income (or was chargeable to income tax for the year 2002-03 or an earlier year of assessment[^key-8d49e2acc095020bcabec29d93debf6a] under section 186(3) or (4) of that Act;
+- (a) no deduction shall be made from the consideration for the disposal of any shares by reason only that an amount determined under section 186 or 187 of or Schedule 9 or 10 to the Taxes Act counts as employment income (or was chargeable to income tax for the year 2002-03 or an earlier year of assessment[^c-8d49e2acc095020bcabec29d93debf6a] under section 186(3) or (4) of that Act;
 - (b) any charge to income tax by virtue of section 186(3) of that Act shall be disregarded in determining whether a distribution is a capital distribution within the meaning of section 122(5)(b);
 - (c) nothing in any provision of section 186 or 187 of or Schedule 9 or 10 to that Act with respect to—
   - (i) the order in which any of a participant’s shares are to be treated as disposed of for the purposes of those provisions as they have effect in relation to profit sharing schemes, or
@@ -35,10 +35,10 @@ summary: ''
 
 (3) In this section “**participant**” and “**the trust instrument**” have the meanings given by section 187 of the Taxes Act.
 
-(4)[^key-da2d71b200be2747d98d70677fb7d953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-da2d71b200be2747d98d70677fb7d953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d49e2acc095020bcabec29d93debf6a]: Textual amendment: Words in s. 238(2)(a) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 215](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/215) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-8d49e2acc095020bcabec29d93debf6a]: Textual amendment: Words in s. 238(2)(a) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 215](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/215) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-da2d71b200be2747d98d70677fb7d953]: Textual amendment: S. 238(4) repealed (with effect in accordance with [s. 112(2)(3)](https://www.legislation.gov.uk/ukpga/1996/8/section/112/2/3) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 112(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/112/2), [Sch. 41 Pt. V(5)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/5)
+[^c-da2d71b200be2747d98d70677fb7d953]: Textual amendment: S. 238(4) repealed (with effect in accordance with [s. 112(2)(3)](https://www.legislation.gov.uk/ukpga/1996/8/section/112/2/3) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 112(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/112/2), [Sch. 41 Pt. V(5)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/5)

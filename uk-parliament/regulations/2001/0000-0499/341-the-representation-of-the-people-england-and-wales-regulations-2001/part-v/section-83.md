@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Opening of postal voters' ballot box[^key-408bd39ddcc023117a2f256446b1935d][^key-ea519264837d07cc82e10d26287c125d][^key-2c58f7a76809f03ecdc4a8279fe8847e][^key-dcca86faa2870f98d36fd1c39e8f4ad4][^key-be75c4e66a2f0b19d0e68fca2fc6e07d]
+## 83. Opening of postal voters' ballot box[^c-408bd39ddcc023117a2f256446b1935d][^c-ea519264837d07cc82e10d26287c125d][^c-2c58f7a76809f03ecdc4a8279fe8847e][^c-dcca86faa2870f98d36fd1c39e8f4ad4][^c-be75c4e66a2f0b19d0e68fca2fc6e07d]
 
 *Extent: E+W*
 
@@ -28,12 +28,12 @@ summary: ''
 
 ## Annotations
 
-[^key-408bd39ddcc023117a2f256446b1935d]: Commencement: Reg. 83 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-408bd39ddcc023117a2f256446b1935d]: Commencement: Reg. 83 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
 
-[^key-ea519264837d07cc82e10d26287c125d]: Modification: [Reg. 83](https://www.legislation.gov.uk/uksi/2001/341/regulation/83) applied (with modifications) (E.) (9.2.2012) by [The Local Authorities (Conduct of Referendums)(England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1) Table 6
+[^c-ea519264837d07cc82e10d26287c125d]: Modification: [Reg. 83](https://www.legislation.gov.uk/uksi/2001/341/regulation/83) applied (with modifications) (E.) (9.2.2012) by [The Local Authorities (Conduct of Referendums)(England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1) Table 6
 
-[^key-2c58f7a76809f03ecdc4a8279fe8847e]: Modification: [Reg. 83](https://www.legislation.gov.uk/uksi/2001/341/regulation/83) applied (with modifications) (E.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) Table 6 (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
+[^c-2c58f7a76809f03ecdc4a8279fe8847e]: Modification: [Reg. 83](https://www.legislation.gov.uk/uksi/2001/341/regulation/83) applied (with modifications) (E.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) Table 6 (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
 
-[^key-dcca86faa2870f98d36fd1c39e8f4ad4]: Modification: [Reg. 83](https://www.legislation.gov.uk/uksi/2001/341/regulation/83) applied (with modifications) (E.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1) Table 6
+[^c-dcca86faa2870f98d36fd1c39e8f4ad4]: Modification: [Reg. 83](https://www.legislation.gov.uk/uksi/2001/341/regulation/83) applied (with modifications) (E.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1) Table 6
 
-[^key-be75c4e66a2f0b19d0e68fca2fc6e07d]: Modification: [Reg. 83](https://www.legislation.gov.uk/uksi/2001/341/regulation/83) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 39](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/39)
+[^c-be75c4e66a2f0b19d0e68fca2fc6e07d]: Modification: [Reg. 83](https://www.legislation.gov.uk/uksi/2001/341/regulation/83) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 39](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/39)

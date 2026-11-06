@@ -46,13 +46,13 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by section 22(1) and (5) of, and paragraph 25 of Schedule 2 to, the Financial Services and Markets Act 2000[^f00001]:
 
-## 1. Citation and commencement[^key-044576cce3f7d79691b3fa12c575961e]
+## 1. Citation and commencement[^c-044576cce3f7d79691b3fa12c575961e]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2014.
 
 (2) This Order comes into force on 27th June 2014.
 
-## 2. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-73c412b430305d9ae62de73c4baa626e]
+## 2. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-73c412b430305d9ae62de73c4baa626e]
 
 In article 36A (credit broking) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00002], at the end of paragraph (4)(c), insert “, except for paragraph (5) of that article”.
 
@@ -76,8 +76,8 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Paragraph 25 of Schedule 2 was amended by the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), section 8.
 
-[^key-044576cce3f7d79691b3fa12c575961e]: Commencement: Art. 1 in force at 27.6.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1448/article/1/2)
+[^c-044576cce3f7d79691b3fa12c575961e]: Commencement: Art. 1 in force at 27.6.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1448/article/1/2)
 
-[^key-73c412b430305d9ae62de73c4baa626e]: Commencement: Art. 2 in force at 27.6.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1448/article/1/2)
+[^c-73c412b430305d9ae62de73c4baa626e]: Commencement: Art. 2 in force at 27.6.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1448/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); article 36A was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).

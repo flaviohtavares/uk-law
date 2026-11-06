@@ -22,9 +22,9 @@ summary: ''
 
 Section 26
 
-**1.**[^key-b196b66f062fcf6741f5bee6d83f363b] The Housing Act 2004 is amended as follows.
+**1.**[^c-b196b66f062fcf6741f5bee6d83f363b] The Housing Act 2004 is amended as follows.
 
-**2.**[^key-e529645304686faeb3a41b4828257b31] (1) Section 101 (interim and final management orders) is amended as follows.
+**2.**[^c-e529645304686faeb3a41b4828257b31] (1) Section 101 (interim and final management orders) is amended as follows.
 
 (2) In subsection (1), at the end insert “ or property let in breach of a banning order under section 16 of the Housing and Planning Act 2016 ”.
 
@@ -40,7 +40,7 @@ Section 26
 >
 > (6C) When determining for the purposes of this Chapter whether property is let in breach of a banning order disregard any exception included in the banning order in reliance on section 17 of the Housing and Planning Act 2016.
 
-**3.**[^key-0c8525bf8858d7b996083bdb76eb3556] (1) Section 102 (making of interim management orders) is amended as follows.
+**3.**[^c-0c8525bf8858d7b996083bdb76eb3556] (1) Section 102 (making of interim management orders) is amended as follows.
 
 (2) In subsection (1)(b), for “or (7)” substitute “ , (7) or (7A) ”.
 
@@ -50,7 +50,7 @@ Section 26
 
 (4) In subsection (9), after “the making of an interim management order” insert “ under subsection (2), (3), (4) or (7) ”.
 
-**4.**[^key-e50d681a573dbcd0f090112b8c6f5f0e] (1) Section 105 (operation of interim management orders) is amended as follows.
+**4.**[^c-e50d681a573dbcd0f090112b8c6f5f0e] (1) Section 105 (operation of interim management orders) is amended as follows.
 
 (2) After subsection (7) insert—
 
@@ -69,17 +69,17 @@ Section 26
 >
 > the IMO continues in force until that later date.
 
-**5.** (1)[^key-b55f2609ba82deb29208c829936dcbcc] Section 110 (financial arrangements while order is in force) is amended as follows.
+**5.** (1)[^c-b55f2609ba82deb29208c829936dcbcc] Section 110 (financial arrangements while order is in force) is amended as follows.
 
-(2)[^key-b55f2609ba82deb29208c829936dcbcc] In subsection (4), at the beginning insert “ If the interim management order is not made under section 102(7A), ”.
+(2)[^c-b55f2609ba82deb29208c829936dcbcc] In subsection (4), at the beginning insert “ If the interim management order is not made under section 102(7A), ”.
 
-(3)[^key-ad05746401f4769c2dbd89d001ded19b] After subsection (5) insert—
+(3)[^c-ad05746401f4769c2dbd89d001ded19b] After subsection (5) insert—
 
 > (5A) The Secretary of State may by regulations make provision about how local authorities are to deal with any surplus in a case where the interim management order was made under section 102(7A).
 >
 > (5B) In subsection (5A) “**surplus**” means any amount of rent or other payments collected or recovered as mentioned in subsection (3) that remains after deductions to meet relevant expenditure and any amounts of compensation payable as mentioned in that subsection.
 
-**6.**[^key-a5a8ea88d726650866832471ca616e38] In section 112 (revocation of interim management orders), after subsection (2) insert—
+**6.**[^c-a5a8ea88d726650866832471ca616e38] In section 112 (revocation of interim management orders), after subsection (2) insert—
 
 > (2A) An interim management order may not be revoked under this section if—
 >
@@ -87,7 +87,7 @@ Section 26
 > - (b) there is in force an agreement which, under section 108, has effect as a lease or licence granted by the authority, and
 > - (c) revoking the interim management order would cause the immediate landlord to breach the banning order because of the effect of section 130(2)(b).
 
-**7.**[^key-fc0c22be7dba24e6f4c415cbeebed066] (1) Section 113 (making of final management orders) is amended as follows.
+**7.**[^c-fc0c22be7dba24e6f4c415cbeebed066] (1) Section 113 (making of final management orders) is amended as follows.
 
 (2) In subsection (1), for “section 102” substitute “ any provision of section 102 other than subsection (7A) of that section ”.
 
@@ -101,7 +101,7 @@ Section 26
 
 > (6A) A local housing authority who have made a final management order in respect of a house under subsection (3A) or this subsection (“**the existing order**”) may make a new final management order so as to replace the existing order as from its expiry date if the authority consider that making the new order is necessary for the purpose of protecting, on a long-term basis, the health, safety or welfare of persons occupying the house, or persons occupying or having an estate or interest in any premises in the vicinity.
 
-**8.**[^key-3163d48d8855c4ca2eea8c74eee6f393] (1) Section 114 (operation of final management orders) is amended as follows.
+**8.**[^c-3163d48d8855c4ca2eea8c74eee6f393] (1) Section 114 (operation of final management orders) is amended as follows.
 
 (2) After subsection (4) insert—
 
@@ -120,7 +120,7 @@ Section 26
 >
 > the existing order continues in force until that later date.
 
-**9.**[^key-bf975d9a3e0d060077e253e68e77ff2a] In section 119 (management schemes and accounts), after subsection (4) insert—
+**9.**[^c-bf975d9a3e0d060077e253e68e77ff2a] In section 119 (management schemes and accounts), after subsection (4) insert—
 
 > (4A) Subsection (4)(f) and (g) does not apply in a case where the final management order was made under section 113(3A) or (6A).
 >
@@ -128,7 +128,7 @@ Section 26
 >
 > (4C) In subsection (4B) “**surplus**” means any amount of rent or other payments that the authority have collected or recovered, by virtue of this Chapter, that remains after deductions to meet relevant expenditure and any amounts of compensation payable as mentioned in subsection (2)(d).
 
-**10.**[^key-4800cfc52a26a15c1532a7fa20abdca9] In section 122 (revocation of final management orders), after subsection (2) insert—
+**10.**[^c-4800cfc52a26a15c1532a7fa20abdca9] In section 122 (revocation of final management orders), after subsection (2) insert—
 
 > (2A) A final management order may not be revoked under this section at a time when—
 >
@@ -136,9 +136,9 @@ Section 26
 > - (b) there is in force an agreement which, under section 117, has effect as a lease or licence granted by the authority, and
 > - (c) revoking the final management order would cause the immediate landlord to breach the banning order because of the effect of section 130(2)(b).
 
-**11.**[^key-ebf7094bbde832f2908d95ec706a2196] In section 129 (termination of management orders: financial arrangements), in subsection (2), after “order” insert “ that is not made under section 102(7A) ”.
+**11.**[^c-ebf7094bbde832f2908d95ec706a2196] In section 129 (termination of management orders: financial arrangements), in subsection (2), after “order” insert “ that is not made under section 102(7A) ”.
 
-**12.**[^key-d054ca3870b29f3800956747a4d39e76] (1) Schedule 6 (management orders: procedure and appeals) is amended as follows.
+**12.**[^c-d054ca3870b29f3800956747a4d39e76] (1) Schedule 6 (management orders: procedure and appeals) is amended as follows.
 
 (2) In paragraph 7(4)(c), for “section 105(4) and (5) or 114(3) and (4)” substitute “ section 105(4), (5) or (7A) or 114(3), (4) or (4A) ”.
 
@@ -158,28 +158,28 @@ Section 26
 
 ## Annotations
 
-[^key-b196b66f062fcf6741f5bee6d83f363b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/1) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-b196b66f062fcf6741f5bee6d83f363b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/1) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-e529645304686faeb3a41b4828257b31]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/2) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-e529645304686faeb3a41b4828257b31]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/2) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-0c8525bf8858d7b996083bdb76eb3556]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/3) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-0c8525bf8858d7b996083bdb76eb3556]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/3) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-e50d681a573dbcd0f090112b8c6f5f0e]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/4) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-e50d681a573dbcd0f090112b8c6f5f0e]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/4) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-b55f2609ba82deb29208c829936dcbcc]: Commencement: [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/5/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/5/2) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-b55f2609ba82deb29208c829936dcbcc]: Commencement: [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/5/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/5/2) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-ad05746401f4769c2dbd89d001ded19b]: Commencement: [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/5/3) in force at 3.11.2017 by [S.I. 2017/1052](https://www.legislation.gov.uk/uksi/2017/1052), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1052/regulation/2/d)
+[^c-ad05746401f4769c2dbd89d001ded19b]: Commencement: [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/5/3) in force at 3.11.2017 by [S.I. 2017/1052](https://www.legislation.gov.uk/uksi/2017/1052), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1052/regulation/2/d)
 
-[^key-a5a8ea88d726650866832471ca616e38]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/6) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-a5a8ea88d726650866832471ca616e38]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/6) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-fc0c22be7dba24e6f4c415cbeebed066]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/7) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-fc0c22be7dba24e6f4c415cbeebed066]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/7) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-3163d48d8855c4ca2eea8c74eee6f393]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/8) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-3163d48d8855c4ca2eea8c74eee6f393]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/8) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-bf975d9a3e0d060077e253e68e77ff2a]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/9) in force at 3.11.2017 by [S.I. 2017/1052](https://www.legislation.gov.uk/uksi/2017/1052), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/1052/regulation/2/e)
+[^c-bf975d9a3e0d060077e253e68e77ff2a]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/9) in force at 3.11.2017 by [S.I. 2017/1052](https://www.legislation.gov.uk/uksi/2017/1052), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/1052/regulation/2/e)
 
-[^key-4800cfc52a26a15c1532a7fa20abdca9]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/10) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-4800cfc52a26a15c1532a7fa20abdca9]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/10) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-ebf7094bbde832f2908d95ec706a2196]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/11) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-ebf7094bbde832f2908d95ec706a2196]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/11) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
 
-[^key-d054ca3870b29f3800956747a4d39e76]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/12) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-d054ca3870b29f3800956747a4d39e76]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/12) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)

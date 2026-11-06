@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — ENVIRONMENTAL STATEMENT DOCUMENTS TO BE CERTIFIED[^key-7b69a5913c3a3c614cc06e89ab411b5f]
+## SCHEDULE 10 — ENVIRONMENTAL STATEMENT DOCUMENTS TO BE CERTIFIED[^c-7b69a5913c3a3c614cc06e89ab411b5f]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Article 44
 
 ## Annotations
 
-[^key-7b69a5913c3a3c614cc06e89ab411b5f]: Commencement: Sch. 10 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-7b69a5913c3a3c614cc06e89ab411b5f]: Commencement: Sch. 10 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)

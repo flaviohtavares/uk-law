@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 556. Meaning of securities and similar securities[^key-27db1fffd883432b56c48941bf550617][^key-807572e11e4dff78de3d3ed7a5de20f5][^key-274c46b690f8c20b725c8a932546da55][^key-f87f80e10ad34e63d906d92b2c410020][^key-4da0249c84e5eff5e40aa019d5d0069e][^key-eab5e4688a71a560da7dd252151d8554][^key-63be661355ec88f05484c56fd6e723fb][^key-8f7937740c7e74de8d5f8f5e344570cc]
+## 556. Meaning of securities and similar securities[^c-27db1fffd883432b56c48941bf550617][^c-807572e11e4dff78de3d3ed7a5de20f5][^c-274c46b690f8c20b725c8a932546da55][^c-f87f80e10ad34e63d906d92b2c410020][^c-4da0249c84e5eff5e40aa019d5d0069e][^c-eab5e4688a71a560da7dd252151d8554][^c-63be661355ec88f05484c56fd6e723fb][^c-8f7937740c7e74de8d5f8f5e344570cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,18 +43,18 @@ is ignored.
 
 ## Annotations
 
-[^key-27db1fffd883432b56c48941bf550617]: Modification: S. 556 applied (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 18(11)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/18/11)
+[^c-27db1fffd883432b56c48941bf550617]: Modification: S. 556 applied (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 18(11)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/18/11)
 
-[^key-807572e11e4dff78de3d3ed7a5de20f5]: Modification: S. 556 applied (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 20(11)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/20/11)
+[^c-807572e11e4dff78de3d3ed7a5de20f5]: Modification: S. 556 applied (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 20(11)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/20/11)
 
-[^key-274c46b690f8c20b725c8a932546da55]: Modification: S. 556 applied (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 25(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/25/4)
+[^c-274c46b690f8c20b725c8a932546da55]: Modification: S. 556 applied (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 25(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/25/4)
 
-[^key-f87f80e10ad34e63d906d92b2c410020]: Modification: S. 556 applied (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 31(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/31/3)
+[^c-f87f80e10ad34e63d906d92b2c410020]: Modification: S. 556 applied (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 31(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/31/3)
 
-[^key-4da0249c84e5eff5e40aa019d5d0069e]: Modification: S. 556 applied (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 22(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/22/3)
+[^c-4da0249c84e5eff5e40aa019d5d0069e]: Modification: S. 556 applied (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 22(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/22/3)
 
-[^key-eab5e4688a71a560da7dd252151d8554]: Modification: S. 556 applied by [2011 c. 11](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 15S(7)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/15S/7) (as inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/2))
+[^c-eab5e4688a71a560da7dd252151d8554]: Modification: S. 556 applied by [2011 c. 11](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 15S(7)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/15S/7) (as inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/2))
 
-[^key-63be661355ec88f05484c56fd6e723fb]: Modification: S. 556 applied by [2011 c. 11](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 27C](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/27C) (as inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/7))
+[^c-63be661355ec88f05484c56fd6e723fb]: Modification: S. 556 applied by [2011 c. 11](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 27C](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/27C) (as inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/7))
 
-[^key-8f7937740c7e74de8d5f8f5e344570cc]: Modification: S. 556 applied by [2011 c. 11](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 15Z3(7)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/15Z3/7) (as inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/2))
+[^c-8f7937740c7e74de8d5f8f5e344570cc]: Modification: S. 556 applied by [2011 c. 11](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 19 para. 15Z3(7)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/15Z3/7) (as inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/2))

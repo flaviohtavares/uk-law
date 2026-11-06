@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Duties of the Commissioner on references under regulation 13[^key-5ac9768aef99d835b3d0a2d536f03bfe]
+## 16. Duties of the Commissioner on references under regulation 13[^c-5ac9768aef99d835b3d0a2d536f03bfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ac9768aef99d835b3d0a2d536f03bfe]: Commencement: Reg. 16 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-5ac9768aef99d835b3d0a2d536f03bfe]: Commencement: Reg. 16 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

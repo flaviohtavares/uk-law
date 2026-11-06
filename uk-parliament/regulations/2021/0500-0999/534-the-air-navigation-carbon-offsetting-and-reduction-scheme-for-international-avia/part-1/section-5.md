@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Meaning of aeroplane operator[^key-cdf6ff40781aa0837b942956227a108c]
+## 5. Meaning of aeroplane operator[^c-cdf6ff40781aa0837b942956227a108c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Order, a person is an “aeroplane operator” where that person is an o
 
 ## Annotations
 
-[^key-cdf6ff40781aa0837b942956227a108c]: Commencement: Art. 5 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-cdf6ff40781aa0837b942956227a108c]: Commencement: Art. 5 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

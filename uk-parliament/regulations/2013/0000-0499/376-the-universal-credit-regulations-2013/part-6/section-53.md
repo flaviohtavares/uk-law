@@ -39,12 +39,12 @@ summary: ''
   - (ii) a body which conducts research or undertakes monitoring for the purpose of planning or improving such services,
 
   in their capacity as a user, potential user, carer of a user or person otherwise affected by the provision of those services; or
-- (ab)[^key-bb20e9798cd842e1f0ef4af2ef2700b8] a person who is being consulted by or on behalf of—
+- (ab)[^c-bb20e9798cd842e1f0ef4af2ef2700b8] a person who is being consulted by or on behalf of—
   - (i) the Secretary of State in relation to any of the Secretary of State’s functions in the field of social security or child support or under section 2 of the Employment and Training Act 1973; or
   - (ii) a body which conducts research or undertakes monitoring for the purpose of planning or improving such functions,
 
   in their capacity as a person affected or potentially affected by the exercise of those functions or the carer of such a person;
-- (b) the carer of a person consulted under sub-paragraphs (a) or (ab)[^key-38c7e6b970423a24282eb321f9a93954].
+- (b) the carer of a person consulted under sub-paragraphs (a) or (ab)[^c-38c7e6b970423a24282eb321f9a93954].
 
 ## Annotations
 
@@ -54,6 +54,6 @@ summary: ''
 
 [^c2165946]: Marginal citation: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-bb20e9798cd842e1f0ef4af2ef2700b8]: Textual amendment: Reg. 53(2)(ab) inserted (23.2.2015) by [The Social Security (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/67)](https://www.legislation.gov.uk/uksi/2015/67), [regs. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/2/a)
+[^c-bb20e9798cd842e1f0ef4af2ef2700b8]: Textual amendment: Reg. 53(2)(ab) inserted (23.2.2015) by [The Social Security (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/67)](https://www.legislation.gov.uk/uksi/2015/67), [regs. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/2/a)
 
-[^key-38c7e6b970423a24282eb321f9a93954]: Textual amendment: Words in reg. 53(2)(b) substituted (23.2.2015) by [The Social Security (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/67)](https://www.legislation.gov.uk/uksi/2015/67), [regs. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/2/b)
+[^c-38c7e6b970423a24282eb321f9a93954]: Textual amendment: Words in reg. 53(2)(b) substituted (23.2.2015) by [The Social Security (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/67)](https://www.legislation.gov.uk/uksi/2015/67), [regs. 1](https://www.legislation.gov.uk/uksi/2015/67/regulation/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2015/67/regulation/2/2/b)

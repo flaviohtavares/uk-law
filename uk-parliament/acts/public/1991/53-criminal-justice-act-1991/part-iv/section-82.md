@@ -42,7 +42,7 @@ and the Secretary of State may make rules with respect to the performance by pri
 - (a) in the case of the Crown Court, under section 142 of the Powers of Criminal Courts (Sentencing) Act 2000[^c13775541] (power of Court to order search of persons before it); or
 - (b) in the case of a magistrates’ court, under section 80 of the 1980 Act (application of money found on defaulter).
 
-(4A)[^key-c99e8bb83e56afe52a80f7f3710844f1] Subsections (4B) and (4C) apply if a prisoner custody officer acting in pursuance of prisoner escort arrangements is at a police station for the purposes of exercising functions under section 80(1)(ba) (custody of prisoners in relation to live link proceedings) in relation to a prisoner.
+(4A)[^c-c99e8bb83e56afe52a80f7f3710844f1] Subsections (4B) and (4C) apply if a prisoner custody officer acting in pursuance of prisoner escort arrangements is at a police station for the purposes of exercising functions under section 80(1)(ba) (custody of prisoners in relation to live link proceedings) in relation to a prisoner.
 
 (4B) It is the prisoner custody officer’s duty to give effect to—
 
@@ -51,7 +51,7 @@ and the Secretary of State may make rules with respect to the performance by pri
 
 (4C) The fact that the prisoner custody officer is exercising, or may exercise, functions under section 80(1)(ba) in relation to the prisoner does not prevent a constable from exercising any powers in relation to the prisoner that are otherwise available to the constable.
 
-(5) The powers conferred by subsection (1) above, and the powers arising by virtue of subsections (3) , (4) and (4B)[^key-841b76ca74c647a922b3102a59997841] above, shall include power to use reasonable force where necessary.
+(5) The powers conferred by subsection (1) above, and the powers arising by virtue of subsections (3) , (4) and (4B)[^c-841b76ca74c647a922b3102a59997841] above, shall include power to use reasonable force where necessary.
 
 (6) The power to make rules under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -63,6 +63,6 @@ and the Secretary of State may make rules with respect to the performance by pri
 
 [^c13775541]: Textual amendment: Words in [s. 82(4)](https://www.legislation.gov.uk/ukpga/1991/53/section/82/4) substituted (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165](https://www.legislation.gov.uk/ukpga/2000/6/section/165), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 9 para. 146](https://www.legislation.gov.uk/ukpga/2000/6/schedule/9/paragraph/146)
 
-[^key-c99e8bb83e56afe52a80f7f3710844f1]: Textual amendment: [S. 82(4A)-(4C)](https://www.legislation.gov.uk/ukpga/1991/53/section/82/4A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/58/7), [208(5)(g)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/g)
+[^c-c99e8bb83e56afe52a80f7f3710844f1]: Textual amendment: [S. 82(4A)-(4C)](https://www.legislation.gov.uk/ukpga/1991/53/section/82/4A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/58/7), [208(5)(g)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/g)
 
-[^key-841b76ca74c647a922b3102a59997841]: Textual amendment: Words in [s. 82(5)](https://www.legislation.gov.uk/ukpga/1991/53/section/82/5) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 58(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/58/8), [208(5)(g)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/g)
+[^c-841b76ca74c647a922b3102a59997841]: Textual amendment: Words in [s. 82(5)](https://www.legislation.gov.uk/ukpga/1991/53/section/82/5) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 58(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/58/8), [208(5)(g)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/g)

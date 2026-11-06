@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Designated courses[^key-0ffc3c17fc245c88a832fa393c99e7ef]
+## 5. Designated courses[^c-0ffc3c17fc245c88a832fa393c99e7ef]
 
 *Extent: E+W*
 
@@ -26,11 +26,11 @@ summary: ''
 - (b) one of the following—
   - (i) a full-time course;
   - (ii) a sandwich course; or
-  - (iii) a distance learning course [^key-050338e417e468974fdc7e83405bc259]...;
-- (c)[^key-51fb4de6523c47a1150fdcfaee7877d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) a distance learning course [^c-050338e417e468974fdc7e83405bc259]...;
+- (c)[^c-51fb4de6523c47a1150fdcfaee7877d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) of at least one academic year’s duration;
-- (e)[^key-b92402dc144000b63e758f72d7aff28f] for a course beginning before 1 September 2017, provided by an institution that was before that date a publicly funded institution (whether alone or in conjunction with an institution situated outside the United Kingdom);
-- (ea)[^key-ebc4b02b11c6c8324a683d0e462facaa] for a course beginning on or after 1 September 2017, provided by—
+- (e)[^c-b92402dc144000b63e758f72d7aff28f] for a course beginning before 1 September 2017, provided by an institution that was before that date a publicly funded institution (whether alone or in conjunction with an institution situated outside the United Kingdom);
+- (ea)[^c-ebc4b02b11c6c8324a683d0e462facaa] for a course beginning on or after 1 September 2017, provided by—
   - (i) a recognised educational institution (whether alone or in conjunction with an institution situated outside the United Kingdom);
   - (ii) a charity within the meaning given by section 1 of the Charities Act 2011 on behalf of a Welsh regulated institution;
   - (iii) an institution that was publicly funded before 1 August 2019 on behalf of a protected English provider.
@@ -50,7 +50,7 @@ summary: ''
 
 - (a) a course is provided by an institution if it provides the teaching and supervision which comprise the course, whether or not the institution has entered into an agreement with the student to provide the course;
 - (b) a university and any constituent college or institution in the nature of a college of a university is regarded as a recognised educational institution if either the university or the constituent college or institution is a recognised educational institution;
-- (c)[^key-5b7e3dd5999d003fb77e948582caeca0] an institution is not to be regarded as having been publicly funded before 1 August 2019 by reason only that it received public funds before that date from the governing body of a higher education institution in accordance with section 65(3A) of the Further and Higher Education Act 1992;
+- (c)[^c-5b7e3dd5999d003fb77e948582caeca0] an institution is not to be regarded as having been publicly funded before 1 August 2019 by reason only that it received public funds before that date from the governing body of a higher education institution in accordance with section 65(3A) of the Further and Higher Education Act 1992;
 - (d) a course is substantially provided in the United Kingdom where at least half of the teaching and supervision which comprise the course is provided in the United Kingdom.
 
 (6) A course to which this paragraph applies is considered to be a single course for a first degree or for an equivalent qualification even if—
@@ -66,16 +66,16 @@ summary: ''
 
 ## Annotations
 
-[^key-0ffc3c17fc245c88a832fa393c99e7ef]: Commencement: Reg. 5 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-0ffc3c17fc245c88a832fa393c99e7ef]: Commencement: Reg. 5 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
-[^key-050338e417e468974fdc7e83405bc259]: Textual amendment: Words in [reg. 5(1)(b)(iii)](https://www.legislation.gov.uk/wsi/2017/47/regulation/5/1/b/iii) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [54(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/54/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+[^c-050338e417e468974fdc7e83405bc259]: Textual amendment: Words in [reg. 5(1)(b)(iii)](https://www.legislation.gov.uk/wsi/2017/47/regulation/5/1/b/iii) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [54(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/54/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
 
-[^key-51fb4de6523c47a1150fdcfaee7877d8]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/wsi/2017/47/regulation/5/1/c) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [54(b)](https://www.legislation.gov.uk/wsi/2021/481/regulation/54/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+[^c-51fb4de6523c47a1150fdcfaee7877d8]: Textual amendment: [Reg. 5(1)(c)](https://www.legislation.gov.uk/wsi/2017/47/regulation/5/1/c) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [54(b)](https://www.legislation.gov.uk/wsi/2021/481/regulation/54/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
 
-[^key-b92402dc144000b63e758f72d7aff28f]: Textual amendment: [Reg. 5(1)(e)](https://www.legislation.gov.uk/wsi/2017/47/regulation/5/1/e) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [17(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/17/a)
+[^c-b92402dc144000b63e758f72d7aff28f]: Textual amendment: [Reg. 5(1)(e)](https://www.legislation.gov.uk/wsi/2017/47/regulation/5/1/e) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [17(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/17/a)
 
-[^key-ebc4b02b11c6c8324a683d0e462facaa]: Textual amendment: [Reg. 5(1)(ea)](https://www.legislation.gov.uk/wsi/2017/47/regulation/5/1/ea) inserted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [17(b)](https://www.legislation.gov.uk/wsi/2019/235/regulation/17/b)
+[^c-ebc4b02b11c6c8324a683d0e462facaa]: Textual amendment: [Reg. 5(1)(ea)](https://www.legislation.gov.uk/wsi/2017/47/regulation/5/1/ea) inserted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [17(b)](https://www.legislation.gov.uk/wsi/2019/235/regulation/17/b)
 
 [^f00047]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40); section 214(2) was amended by the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), section 93 and Schedule 8.
 
-[^key-5b7e3dd5999d003fb77e948582caeca0]: Textual amendment: [Reg. 5(5)(c)](https://www.legislation.gov.uk/wsi/2017/47/regulation/5/5/c) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [17(c)](https://www.legislation.gov.uk/wsi/2019/235/regulation/17/c)
+[^c-5b7e3dd5999d003fb77e948582caeca0]: Textual amendment: [Reg. 5(5)(c)](https://www.legislation.gov.uk/wsi/2017/47/regulation/5/5/c) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [17(c)](https://www.legislation.gov.uk/wsi/2019/235/regulation/17/c)

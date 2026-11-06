@@ -24,11 +24,11 @@ summary: ''
 
 (2) A person to whom this regulation applies is guilty of an offence if—
 
-- (a) a package or package leaflet relating to the product does not comply with the applicable requirements of this Part [^key-9ba2606d5b55b3098ab26922a73c2272]... or Article 28 or 32 of the Paediatric Regulation; or
+- (a) a package or package leaflet relating to the product does not comply with the applicable requirements of this Part [^c-9ba2606d5b55b3098ab26922a73c2272]... or Article 28 or 32 of the Paediatric Regulation; or
 - (b) the product is not accompanied by a package leaflet when one is required by virtue of this Part.
 
 ## Annotations
 
 [^M_F_c04d7ebc-ac9a-4b88-9f2e-c2eea188e918]: Textual amendment: Reg. 268A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [207A](https://www.legislation.gov.uk/uksi/2019/775/regulation/207A) (as inserted by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 162](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/162)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ba2606d5b55b3098ab26922a73c2272]: Textual amendment: Words in [reg. 268A(2)(a)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/268A/2/a) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [118](https://www.legislation.gov.uk/uksi/2024/832/regulation/118)
+[^c-9ba2606d5b55b3098ab26922a73c2272]: Textual amendment: Words in [reg. 268A(2)(a)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/268A/2/a) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [118](https://www.legislation.gov.uk/uksi/2024/832/regulation/118)

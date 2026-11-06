@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 21A. Training requirements for ecclesiastical judges[^key-9dd90a07dbb4324d67ad5928e65adee5]
+## 21A. Training requirements for ecclesiastical judges[^c-9dd90a07dbb4324d67ad5928e65adee5]
 
 *Extent: E*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dd90a07dbb4324d67ad5928e65adee5]: Textual amendment: [S. 21A](https://www.legislation.gov.uk/ukcm/2018/3/section/21A) inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 10(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/10/1), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-9dd90a07dbb4324d67ad5928e65adee5]: Textual amendment: [S. 21A](https://www.legislation.gov.uk/ukcm/2018/3/section/21A) inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 10(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/10/1), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)

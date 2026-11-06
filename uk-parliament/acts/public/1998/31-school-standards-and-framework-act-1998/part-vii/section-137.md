@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Education Transfer Council: alteration of functions and provision for dissolution.[^key-f9673eace9dced37d354ce2f7cacf11e]
+## 137. Education Transfer Council: alteration of functions and provision for dissolution.[^c-f9673eace9dced37d354ce2f7cacf11e]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f9673eace9dced37d354ce2f7cacf11e]: Modification: [S. 137](https://www.legislation.gov.uk/ukpga/1998/31/section/137): functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [35](https://www.legislation.gov.uk/uksi/2018/644/article/35)
+[^c-f9673eace9dced37d354ce2f7cacf11e]: Modification: [S. 137](https://www.legislation.gov.uk/ukpga/1998/31/section/137): functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [35](https://www.legislation.gov.uk/uksi/2018/644/article/35)
 
 [^c14010841]: Marginal citation: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 

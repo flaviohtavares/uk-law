@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62Q. Consideration of an overseas production order[^key-4ab2c78521b9219a082b7e94b7304520]
+## 62Q. Consideration of an overseas production order[^c-4ab2c78521b9219a082b7e94b7304520]
 
 *Extent: N.I.*
 
@@ -41,9 +41,9 @@ summary: ''
 - (b) the Court is satisfied that—
   - (i) the applicant cannot identify or contact the absentee;
   - (ii) it would prejudice the investigation if the absentee were present;
-  - (iii) where journalistic data is sought, it would prejudice the investigation of another indictable offence or another terrorist investigation if the absentee were present; [^key-9ccd6563ffd76be91c3c15f27e2457ad]...
-  - (iv)[^key-f44e8ca8be3ab112ed20f0540f07a467] it would prejudice the investigation to adjourn or postpone the application so as to allow the absentee to attend; or
-  - (v)[^key-7db2beab2db6d7df86fd8ba2c3233164] the absentee has waived the opportunity to attend.
+  - (iii) where journalistic data is sought, it would prejudice the investigation of another indictable offence or another terrorist investigation if the absentee were present; [^c-9ccd6563ffd76be91c3c15f27e2457ad]...
+  - (iv)[^c-f44e8ca8be3ab112ed20f0540f07a467] it would prejudice the investigation to adjourn or postpone the application so as to allow the absentee to attend; or
+  - (v)[^c-7db2beab2db6d7df86fd8ba2c3233164] the absentee has waived the opportunity to attend.
 
 (4) The Court shall not determine such an application in the absence of any respondent who, if the order sought by the applicant were made, would be required to produce or give access to journalistic data, unless that respondent has waived the opportunity to attend.
 
@@ -65,10 +65,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4ab2c78521b9219a082b7e94b7304520]: Textual amendment: [Pt. 8B](https://www.legislation.gov.uk/nisr/1979/90/part/8B) inserted (22.2.2021) by [The Crown Court (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/16)](https://www.legislation.gov.uk/nisr/2021/16), [rule 1(3)](https://www.legislation.gov.uk/nisr/2021/16/rule/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2021/16/schedule)
+[^c-4ab2c78521b9219a082b7e94b7304520]: Textual amendment: [Pt. 8B](https://www.legislation.gov.uk/nisr/1979/90/part/8B) inserted (22.2.2021) by [The Crown Court (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/16)](https://www.legislation.gov.uk/nisr/2021/16), [rule 1(3)](https://www.legislation.gov.uk/nisr/2021/16/rule/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2021/16/schedule)
 
-[^key-9ccd6563ffd76be91c3c15f27e2457ad]: Textual amendment: Word in [rule 62Q(3)(b)(iii)](https://www.legislation.gov.uk/nisr/1979/90/rule/62Q/3/b/iii) omitted (17.5.2023) by virtue of [The Crown Court (Amendment) Rules (Northern Ireland) 2023 (S.R. 2023/68)](https://www.legislation.gov.uk/nisr/2023/68), [rules 1](https://www.legislation.gov.uk/nisr/2023/68/rule/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2023/68/rule/2/3/a)
+[^c-9ccd6563ffd76be91c3c15f27e2457ad]: Textual amendment: Word in [rule 62Q(3)(b)(iii)](https://www.legislation.gov.uk/nisr/1979/90/rule/62Q/3/b/iii) omitted (17.5.2023) by virtue of [The Crown Court (Amendment) Rules (Northern Ireland) 2023 (S.R. 2023/68)](https://www.legislation.gov.uk/nisr/2023/68), [rules 1](https://www.legislation.gov.uk/nisr/2023/68/rule/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2023/68/rule/2/3/a)
 
-[^key-f44e8ca8be3ab112ed20f0540f07a467]: Textual amendment: Words in [rule 62Q(3)(b)(iv)](https://www.legislation.gov.uk/nisr/1979/90/rule/62Q/3/b/iv) substituted (17.5.2023) by [The Crown Court (Amendment) Rules (Northern Ireland) 2023 (S.R. 2023/68)](https://www.legislation.gov.uk/nisr/2023/68), [rules 1](https://www.legislation.gov.uk/nisr/2023/68/rule/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2023/68/rule/2/3/b)
+[^c-f44e8ca8be3ab112ed20f0540f07a467]: Textual amendment: Words in [rule 62Q(3)(b)(iv)](https://www.legislation.gov.uk/nisr/1979/90/rule/62Q/3/b/iv) substituted (17.5.2023) by [The Crown Court (Amendment) Rules (Northern Ireland) 2023 (S.R. 2023/68)](https://www.legislation.gov.uk/nisr/2023/68), [rules 1](https://www.legislation.gov.uk/nisr/2023/68/rule/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2023/68/rule/2/3/b)
 
-[^key-7db2beab2db6d7df86fd8ba2c3233164]: Textual amendment: [Rule 62Q(3)(b)(v)](https://www.legislation.gov.uk/nisr/1979/90/rule/62Q/3/b/v) inserted (17.5.2023) by [The Crown Court (Amendment) Rules (Northern Ireland) 2023 (S.R. 2023/68)](https://www.legislation.gov.uk/nisr/2023/68), [rules 1](https://www.legislation.gov.uk/nisr/2023/68/rule/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2023/68/rule/2/3/c)
+[^c-7db2beab2db6d7df86fd8ba2c3233164]: Textual amendment: [Rule 62Q(3)(b)(v)](https://www.legislation.gov.uk/nisr/1979/90/rule/62Q/3/b/v) inserted (17.5.2023) by [The Crown Court (Amendment) Rules (Northern Ireland) 2023 (S.R. 2023/68)](https://www.legislation.gov.uk/nisr/2023/68), [rules 1](https://www.legislation.gov.uk/nisr/2023/68/rule/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2023/68/rule/2/3/c)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Member contributions[^key-1ecc158b61287c04b9da5a5302e02960]
+## 119. Member contributions[^c-1ecc158b61287c04b9da5a5302e02960]
 
 *Extent: E+W*
 
 (1) Subject to regulations 120 to 122 (contributions during absences), an active member of this scheme must pay contributions to the scheme in respect of a scheme employment at the contribution rate applicable to the annual pensionable pay which that member is receiving in the pay period in which 1 April falls for that employment (or, in the case of an active member whose membership commences after 1 April in any year, to the annual pensionable pay the member receives at the commencement of that membership).
 
-(2) The contribution rate applicable to a scheme employment is as specified in the following table, with the contribution rate specified in the second column for the period stated[^key-1d9d55cb66b1a08b2a5833d841ab6581] to be considered applicable to the range of pensionable pay specified in the first column into which the active member’s annual pensionable pay, rounded down to the nearest whole pound, falls:
+(2) The contribution rate applicable to a scheme employment is as specified in the following table, with the contribution rate specified in the second column for the period stated[^c-1d9d55cb66b1a08b2a5833d841ab6581] to be considered applicable to the range of pensionable pay specified in the first column into which the active member’s annual pensionable pay, rounded down to the nearest whole pound, falls:
 
 | Pensionable pay range for an employment | Contribution rate 1 April 2015-31 March 2016 |
 | --- | --- |
@@ -45,7 +45,7 @@ summary: ''
 | £51,006 to £142,500 | 13.5% |
 | £142,501 or more | 14.5% |
 
-| Pensionable pay range for an employment | Contribution rate [^key-1ebafc2d62c4441f365dbcc83854941d]... 1 April 2018 - 31 August 2025[^key-fa4d82fdac5eddf39d4e1ca43fe12207] |
+| Pensionable pay range for an employment | Contribution rate [^c-1ebafc2d62c4441f365dbcc83854941d]... 1 April 2018 - 31 August 2025[^c-fa4d82fdac5eddf39d4e1ca43fe12207] |
 | --- | --- |
 | Up to £27,818 | 11.0% |
 | £27,819 to £51,515 | 12.9% |
@@ -71,16 +71,16 @@ summary: ''
 - (g) absence due to a trade dispute; or
 - (h) circumstances specified by the scheme manager in a particular case.
 
-(8) In these Regulations, “member contributions” (“*cyfraniadau aelod*”) means contributions which an active member pays under this regulation, regulation 119A (member contributions from 1 September 2025)[^key-30382a5f5f23300a877af2459bc8ed79] and regulations 120 to 122 (contributions during absences from work).
+(8) In these Regulations, “member contributions” (“*cyfraniadau aelod*”) means contributions which an active member pays under this regulation, regulation 119A (member contributions from 1 September 2025)[^c-30382a5f5f23300a877af2459bc8ed79] and regulations 120 to 122 (contributions during absences from work).
 
 ## Annotations
 
-[^key-1ecc158b61287c04b9da5a5302e02960]: Commencement: Reg. 119 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-1ecc158b61287c04b9da5a5302e02960]: Commencement: Reg. 119 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-1d9d55cb66b1a08b2a5833d841ab6581]: Textual amendment: Words in [reg. 119(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/119/2) substituted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/wsi/2025/930/regulation/5/a/i)
+[^c-1d9d55cb66b1a08b2a5833d841ab6581]: Textual amendment: Words in [reg. 119(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/119/2) substituted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/wsi/2025/930/regulation/5/a/i)
 
-[^key-1ebafc2d62c4441f365dbcc83854941d]: Textual amendment: Word in [reg. 119(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/119/2) omitted (1.9.2025) by virtue of [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [5(a)(ii)(aa)](https://www.legislation.gov.uk/wsi/2025/930/regulation/5/a/ii/aa)
+[^c-1ebafc2d62c4441f365dbcc83854941d]: Textual amendment: Word in [reg. 119(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/119/2) omitted (1.9.2025) by virtue of [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [5(a)(ii)(aa)](https://www.legislation.gov.uk/wsi/2025/930/regulation/5/a/ii/aa)
 
-[^key-fa4d82fdac5eddf39d4e1ca43fe12207]: Textual amendment: Words in [reg. 119(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/119/2) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [5(a)(ii)(bb)](https://www.legislation.gov.uk/wsi/2025/930/regulation/5/a/ii/bb)
+[^c-fa4d82fdac5eddf39d4e1ca43fe12207]: Textual amendment: Words in [reg. 119(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/119/2) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [5(a)(ii)(bb)](https://www.legislation.gov.uk/wsi/2025/930/regulation/5/a/ii/bb)
 
-[^key-30382a5f5f23300a877af2459bc8ed79]: Textual amendment: Words in [reg. 119(8)](https://www.legislation.gov.uk/wsi/2015/622/regulation/119/8) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2025/930/regulation/5/b)
+[^c-30382a5f5f23300a877af2459bc8ed79]: Textual amendment: Words in [reg. 119(8)](https://www.legislation.gov.uk/wsi/2015/622/regulation/119/8) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2025/930/regulation/5/b)

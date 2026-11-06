@@ -38,8 +38,8 @@ The frequency of the periodic review referred to in the first subparagraph shall
 
 3. The AIFM shall update the risk management systems on the basis of the outcome of the review referred to in paragraphs 1 and 2.
 
-4. The AIFM shall notify the FCA[^key-b85eb91e475fa71f67ce49e4eaa5b128] of any material changes to the risk management policy and of the arrangements, processes and techniques referred to in Article 45.
+4. The AIFM shall notify the FCA[^c-b85eb91e475fa71f67ce49e4eaa5b128] of any material changes to the risk management policy and of the arrangements, processes and techniques referred to in Article 45.
 
 ## Annotations
 
-[^key-b85eb91e475fa71f67ce49e4eaa5b128]: Textual amendment: Word in Art. 41(4) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [26(4)](https://www.legislation.gov.uk/uksi/2019/328/regulation/26) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b85eb91e475fa71f67ce49e4eaa5b128]: Textual amendment: Word in Art. 41(4) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [26(4)](https://www.legislation.gov.uk/uksi/2019/328/regulation/26) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

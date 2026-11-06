@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Local authorities to prepare maps of bodies of water etc.[^key-06b20cd818121d519da1cc145d9827cc]
+## 17. Local authorities to prepare maps of bodies of water etc.[^c-06b20cd818121d519da1cc145d9827cc]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06b20cd818121d519da1cc145d9827cc]: Commencement: S. 17 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-06b20cd818121d519da1cc145d9827cc]: Commencement: S. 17 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

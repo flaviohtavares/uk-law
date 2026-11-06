@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Amendment of the Borders, Citizenship and Immigration Act 2009[^key-97822f2496617609f92defe4ecc41914][^M_I_9866bf0c-97c8-4929-cf84-1771bc24387c]
+## 79. Amendment of the Borders, Citizenship and Immigration Act 2009[^c-97822f2496617609f92defe4ecc41914][^M_I_9866bf0c-97c8-4929-cf84-1771bc24387c]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-97822f2496617609f92defe4ecc41914]: Commencement: Reg. 79 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-97822f2496617609f92defe4ecc41914]: Commencement: Reg. 79 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_9866bf0c-97c8-4929-cf84-1771bc24387c]: Commencement: Reg. 79 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

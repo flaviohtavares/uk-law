@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 242A. Urgent Crown development: application[^key-ac30da030dcf554c565aa750c11f99c7]
+## 242A. Urgent Crown development: application[^c-ac30da030dcf554c565aa750c11f99c7]
 
 *Extent: S*
 
@@ -54,10 +54,10 @@ about the application.
 
 (10) Subsection (7) above does not apply to the extent that the document or other matter is subject to any direction given under section 265A(3) of this Act.
 
-(11) Subsections (4) and[^key-13273098c68a1079348af400b7ba827d] (7) of section 46 apply to an application under this section as they apply to an application in respect of which a direction under section 46 has effect.
+(11) Subsections (4) and[^c-13273098c68a1079348af400b7ba827d] (7) of section 46 apply to an application under this section as they apply to an application in respect of which a direction under section 46 has effect.
 
 ## Annotations
 
-[^key-ac30da030dcf554c565aa750c11f99c7]: Textual amendment: S. 242A inserted (20.3.2006 for specified purposes, 11.5.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 92(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/92/1), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243), [art. 3](https://www.legislation.gov.uk/ssi/2006/243/article/3)
+[^c-ac30da030dcf554c565aa750c11f99c7]: Textual amendment: S. 242A inserted (20.3.2006 for specified purposes, 11.5.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 92(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/92/1), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/243](https://www.legislation.gov.uk/ssi/2006/243), [art. 3](https://www.legislation.gov.uk/ssi/2006/243/article/3)
 
-[^key-13273098c68a1079348af400b7ba827d]: Textual amendment: Word in s. 242A(11) substituted (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(13)](https://www.legislation.gov.uk/asp/2006/17/section/54/13), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 13](https://www.legislation.gov.uk/ssi/2009/222/article/13); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-13273098c68a1079348af400b7ba827d]: Textual amendment: Word in s. 242A(11) substituted (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(13)](https://www.legislation.gov.uk/asp/2006/17/section/54/13), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 13](https://www.legislation.gov.uk/ssi/2009/222/article/13); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

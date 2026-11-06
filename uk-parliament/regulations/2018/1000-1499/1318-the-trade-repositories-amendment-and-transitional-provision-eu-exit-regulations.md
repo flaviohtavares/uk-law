@@ -42,7 +42,7 @@ Coming into force in accordance with regulation 1(2) and (3)
 
 [^c2347412]The Treasury make the following Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 .
 
-In accordance with paragraph 1(1) and (2) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.[^key-acd7473f717ffdb6cdc8b685405912c1][^key-a0fff6ad7ce24fcdfc1c5eb9d6b3e94f]
+In accordance with paragraph 1(1) and (2) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.[^c-acd7473f717ffdb6cdc8b685405912c1][^c-a0fff6ad7ce24fcdfc1c5eb9d6b3e94f]
 
 ## PART 1 — General provision
 
@@ -56,7 +56,7 @@ In accordance with paragraph 1(1) and (2) of Schedule 7 to the European Union (W
 
 ## PART 2 — Amendment of retained direct EU legislation: the European Markets Infrastructure Regulation
 
-### 2. Amendment of provision in respect of registration of a trade repository[^key-a11f5f0bf3e5f106e017f556f775715d]
+### 2. Amendment of provision in respect of registration of a trade repository[^c-a11f5f0bf3e5f106e017f556f775715d]
 
 (1) Chapter 1 of Title 6 of the European Markets Infrastructure Regulation (conditions and procedures for registration of a trade repository) is amended as follows.
 
@@ -91,11 +91,11 @@ In accordance with paragraph 1(1) and (2) of Schedule 7 to the European Union (W
 
 (6) Omit Article 59 (notification of ESMA decisions relating to registration).
 
-### 3. Amendment of provision in respect of the requirements for trade repositories[^key-8e25831b581f5418406defca96be754c]
+### 3. Amendment of provision in respect of the requirements for trade repositories[^c-8e25831b581f5418406defca96be754c]
 
 In Title 7 of the European Markets Infrastructure Regulation (requirements for trade repositories), in Article 81 (transparency and data availability)—
 
-- (a) in paragraph 3, for points (a) to (q)[^key-6bf84de5f809e4da1c24ef35d1e63985] substitute—
+- (a) in paragraph 3, for points (a) to (q)[^c-6bf84de5f809e4da1c24ef35d1e63985] substitute—
 
   > - (a) the FCA;
   > - (b) the Bank of England;
@@ -103,11 +103,11 @@ In Title 7 of the European Markets Infrastructure Regulation (requirements for t
 
   ;
 - (b) omit paragraph 4;
-- (c)[^key-fc565ae836129ff1e0d6293bc56bd258] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-fc565ae836129ff1e0d6293bc56bd258] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Interpretation[^key-6a6b99fa133e6c054849de873e81981c]
+### 4. Interpretation[^c-6a6b99fa133e6c054849de873e81981c]
 
-In this Part, a reference to the European Markets Infrastructure Regulation is to Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4th July 2012 on OTC derivatives, central counterparties and trade repositories as[^key-8c6add68d7530f95a0fb927f11da69ab] it forms part of retained EU law[^key-716933ac27bdab978aa7993a03eea63e] .
+In this Part, a reference to the European Markets Infrastructure Regulation is to Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4th July 2012 on OTC derivatives, central counterparties and trade repositories as[^c-8c6add68d7530f95a0fb927f11da69ab] it forms part of retained EU law[^c-716933ac27bdab978aa7993a03eea63e] .
 
 ## PART 3 — Transitional and saving provision
 
@@ -140,7 +140,7 @@ The FCA must, before the end of a period of 20 working days beginning with the d
 (2) The first step is that the FCA must consider the application based on compliance with—
 
 - (a) Articles 78 to 80 of the European Markets Infrastructure Regulation, and
-- (b) Article 81 of the European Markets Infrastructure Regulation, as that Article has effect on IP completion day[^key-557ad6880918eb622c11f4e5ec298ca1][^c2347413].
+- (b) Article 81 of the European Markets Infrastructure Regulation, as that Article has effect on IP completion day[^c-557ad6880918eb622c11f4e5ec298ca1][^c2347413].
 
 (3) The second step is that the FCA must decide whether the applicant should be registered as a trade repository or whether the application for registration should be rejected.
 
@@ -151,7 +151,7 @@ The FCA must, before the end of a period of 20 working days beginning with the d
 A decision in respect of an advance application under regulation 7(3) has effect from—
 
 - (a) the day of notification, or
-- (b) IP completion day[^key-d7b54e56ee68a1f4a26a79a065967060],
+- (b) IP completion day[^c-d7b54e56ee68a1f4a26a79a065967060],
 
 whichever is later, as if it were a decision to register or refuse registration adopted in accordance with Article 58 of the European Markets Infrastructure Regulation (notwithstanding provision in Chapter 1 of Title 6 of that Regulation in respect of when a decision has effect).
 
@@ -174,7 +174,7 @@ Regulation 9 applies to a person—
 
 The conditions are—
 
-- (a) the person is a body corporate which, immediately before IP completion day[^key-db783a9edc1f2e0db305a66d555a201c], is—
+- (a) the person is a body corporate which, immediately before IP completion day[^c-db783a9edc1f2e0db305a66d555a201c], is—
   - (i) incorporated under the law of any part of the United Kingdom, and
   - (ii) included within a group of undertakings which comprises a trade repository registered under the European Markets Infrastructure Regulation;
 - (b) the person has—
@@ -183,7 +183,7 @@ The conditions are—
 
 #### 12. Period during which regulation 9 is to apply
 
-(1) For the purposes of regulation 10(b), the period is one that begins with IP completion day[^key-5c8aa74fdd04f859f3e7cfc2220b0b1f] and ends with a day determined in accordance with paragraph (2).
+(1) For the purposes of regulation 10(b), the period is one that begins with IP completion day[^c-5c8aa74fdd04f859f3e7cfc2220b0b1f] and ends with a day determined in accordance with paragraph (2).
 
 (2) The period ends—
 
@@ -207,7 +207,7 @@ The conditions are—
 
 (3) Paragraph (1) is subject to Article 71 (withdrawal of registration) of the European Markets Infrastructure Regulation.
 
-### CHAPTER 2A — Temporary registration for run-off period[^key-a1e862a97be5b58017cce0fb9c17adf6]
+### CHAPTER 2A — Temporary registration for run-off period[^c-a1e862a97be5b58017cce0fb9c17adf6]
 
 #### 13A. Temporary deemed registration under the European Markets Infrastructure Regulation for run-off period
 
@@ -320,7 +320,7 @@ P (within the meaning of regulation 13F) may refer to the Tribunal the FCA’s d
 
 #### 14. Registration under the European Markets Infrastructure Regulation
 
-(1) Notwithstanding Articles 55 to 58 of the European Markets Infrastructure Regulation, a person to whom this regulation applies is, on and after IP completion day[^key-e226d307be97469ccaafc3f2af713930], registered as a trade repository under Chapter 1 of Title 6 of that Regulation.
+(1) Notwithstanding Articles 55 to 58 of the European Markets Infrastructure Regulation, a person to whom this regulation applies is, on and after IP completion day[^c-e226d307be97469ccaafc3f2af713930], registered as a trade repository under Chapter 1 of Title 6 of that Regulation.
 
 (2) Reference in an enactment to a person registered under that Chapter, however expressed, includes a person registered by virtue of this regulation.
 
@@ -333,7 +333,7 @@ Regulation 14 applies to a person who—
 
 #### 16. Conditions to be satisfied for regulation 14 to apply
 
-The conditions are that the person is a body corporate which, immediately before IP completion day[^key-a843a07b3448d05ac7476404e0b7f51f], is—
+The conditions are that the person is a body corporate which, immediately before IP completion day[^c-a843a07b3448d05ac7476404e0b7f51f], is—
 
 - (a) incorporated under the law of any part of the United Kingdom, and
 - (b) registered as a trade repository under the European Markets Infrastructure Regulation.
@@ -351,7 +351,7 @@ as the FCA may direct.
 
 (3) For the purposes of paragraph (1), the final day is—
 
-- (a) the day before the day on which IP completion day[^key-a3194c9635e617fd1eff914438d1faa3] occurs, or
+- (a) the day before the day on which IP completion day[^c-a3194c9635e617fd1eff914438d1faa3] occurs, or
 - (b) such earlier day as the FCA may direct.
 
 #### 18. Acknowledgement of receipt
@@ -369,7 +369,7 @@ The FCA must, before the end of a period of 20 working days beginning with the d
 
 ### CHAPTER 4 — General provisions
 
-#### 20. Misleading the FCA: criminal offence[^key-159edd6ef582cdb5ac7c56d81ccceb66]
+#### 20. Misleading the FCA: criminal offence[^c-159edd6ef582cdb5ac7c56d81ccceb66]
 
 Section 398 of the Financial Services and Markets Act 2000 (misleading the FCA or PRA: residual cases) applies to a requirement to provide information in accordance with—
 
@@ -379,7 +379,7 @@ Section 398 of the Financial Services and Markets Act 2000 (misleading the FCA o
 
 as it applies to a requirement falling within subsection (1A) of that section.
 
-#### 20A. Further information to be supplied[^key-ae09bf3f5f973929629b148e8df7e3be]
+#### 20A. Further information to be supplied[^c-ae09bf3f5f973929629b148e8df7e3be]
 
 Subject to regulation 21A(7), regulations 21 and 21A apply to a person who, before IP completion day—
 
@@ -387,7 +387,7 @@ Subject to regulation 21A(7), regulations 21 and 21A apply to a person who, befo
 - (b) has notified the FCA in accordance with regulation 17, and has not received a response from the FCA in accordance with regulation 19; or
 - (c) has been notified by the FCA of a decision to register in accordance with regulation 7 or a decision to confirm the notification in accordance with regulation 19.
 
-#### 21. Duty to disclose information[^key-20f20ca32d757a0e341c71af7fb75799]
+#### 21. Duty to disclose information[^c-20f20ca32d757a0e341c71af7fb75799]
 
 A person to whom this regulation applies must notify the FCA without delay if—
 
@@ -453,7 +453,7 @@ as it may reasonably require.
 
 - “**advance application**” means an application submitted during the period—
   - (a) beginning with the day on which this Part comes into force, and
-  - (b) ending immediately before IP completion day[^key-0e2390e53dd2150b4fcc6619e426f489];
+  - (b) ending immediately before IP completion day[^c-0e2390e53dd2150b4fcc6619e426f489];
 - “**the European Markets Infrastructure Regulation**” means Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4th July 2012 on OTC derivatives, central counterparties and trade repositories, as amended from time to time (unless the contrary intention appears);
 - “**the FCA**” means the Financial Conduct Authority;
 - “**trade repository**” has the same meaning as in Article 2(2) of the European Markets Infrastructure Regulation;
@@ -497,48 +497,48 @@ An impact assessment of the effect that this instrument, and certain other instr
 
 [^c2347412]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-acd7473f717ffdb6cdc8b685405912c1]: Modification: Regulations modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)(4)(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-acd7473f717ffdb6cdc8b685405912c1]: Modification: Regulations modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)(4)(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a0fff6ad7ce24fcdfc1c5eb9d6b3e94f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1318): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-a0fff6ad7ce24fcdfc1c5eb9d6b3e94f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1318): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-a11f5f0bf3e5f106e017f556f775715d]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-a11f5f0bf3e5f106e017f556f775715d]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-8e25831b581f5418406defca96be754c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-8e25831b581f5418406defca96be754c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-6bf84de5f809e4da1c24ef35d1e63985]: Textual amendment: Words in reg. 3(a) substituted (30.10.2019) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1416)](https://www.legislation.gov.uk/uksi/2019/1416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/8/a)
+[^c-6bf84de5f809e4da1c24ef35d1e63985]: Textual amendment: Words in reg. 3(a) substituted (30.10.2019) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1416)](https://www.legislation.gov.uk/uksi/2019/1416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/8/a)
 
-[^key-fc565ae836129ff1e0d6293bc56bd258]: Textual amendment: Reg. 3(c) omitted (30.10.2019) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1416)](https://www.legislation.gov.uk/uksi/2019/1416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/8/b)
+[^c-fc565ae836129ff1e0d6293bc56bd258]: Textual amendment: Reg. 3(c) omitted (30.10.2019) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1416)](https://www.legislation.gov.uk/uksi/2019/1416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/8/b)
 
-[^key-6a6b99fa133e6c054849de873e81981c]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
+[^c-6a6b99fa133e6c054849de873e81981c]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(3)
 
-[^key-8c6add68d7530f95a0fb927f11da69ab]: Textual amendment: Words in reg. 4 substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2020/646/regulation/5)
+[^c-8c6add68d7530f95a0fb927f11da69ab]: Textual amendment: Words in reg. 4 substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2020/646/regulation/5)
 
-[^key-716933ac27bdab978aa7993a03eea63e]: Textual amendment: Words in reg. 4 substituted (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [47(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/47/2)
+[^c-716933ac27bdab978aa7993a03eea63e]: Textual amendment: Words in reg. 4 substituted (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [47(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/47/2)
 
-[^key-557ad6880918eb622c11f4e5ec298ca1]: Textual amendment: Words in reg. 7 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/a)
+[^c-557ad6880918eb622c11f4e5ec298ca1]: Textual amendment: Words in reg. 7 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/a)
 
 [^c2347413]: Marginal citation: Article 81 of the European Markets Infrastructure Regulation is amended, with effect from IP completion day, by regulation 3.
 
-[^key-d7b54e56ee68a1f4a26a79a065967060]: Textual amendment: Words in reg. 8 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/b)
+[^c-d7b54e56ee68a1f4a26a79a065967060]: Textual amendment: Words in reg. 8 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/b)
 
-[^key-db783a9edc1f2e0db305a66d555a201c]: Textual amendment: Words in reg. 11 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/c)
+[^c-db783a9edc1f2e0db305a66d555a201c]: Textual amendment: Words in reg. 11 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/c)
 
-[^key-5c8aa74fdd04f859f3e7cfc2220b0b1f]: Textual amendment: Words in reg. 12 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(d)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/d)
+[^c-5c8aa74fdd04f859f3e7cfc2220b0b1f]: Textual amendment: Words in reg. 12 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(d)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/d)
 
-[^key-a1e862a97be5b58017cce0fb9c17adf6]: Textual amendment: Pt. 3 Ch. 2A inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/405/regulation/11)
+[^c-a1e862a97be5b58017cce0fb9c17adf6]: Textual amendment: Pt. 3 Ch. 2A inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/405/regulation/11)
 
-[^key-e226d307be97469ccaafc3f2af713930]: Textual amendment: Words in reg. 14 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(e)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/e)
+[^c-e226d307be97469ccaafc3f2af713930]: Textual amendment: Words in reg. 14 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(e)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/e)
 
-[^key-a843a07b3448d05ac7476404e0b7f51f]: Textual amendment: Words in reg. 16 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(f)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/f)
+[^c-a843a07b3448d05ac7476404e0b7f51f]: Textual amendment: Words in reg. 16 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(f)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/f)
 
-[^key-a3194c9635e617fd1eff914438d1faa3]: Textual amendment: Words in reg. 17 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(g)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/g)
+[^c-a3194c9635e617fd1eff914438d1faa3]: Textual amendment: Words in reg. 17 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(g)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/g)
 
-[^key-159edd6ef582cdb5ac7c56d81ccceb66]: Textual amendment: Reg. 20 substituted (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [47(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/47/3)
+[^c-159edd6ef582cdb5ac7c56d81ccceb66]: Textual amendment: Reg. 20 substituted (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [47(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/47/3)
 
-[^key-ae09bf3f5f973929629b148e8df7e3be]: Textual amendment: Reg. 20A inserted (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [47(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/47/4)
+[^c-ae09bf3f5f973929629b148e8df7e3be]: Textual amendment: Reg. 20A inserted (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [47(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/47/4)
 
-[^key-20f20ca32d757a0e341c71af7fb75799]: Textual amendment: Regs. 21, 21A substituted for reg. 21 (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [47(5)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/47/5)
+[^c-20f20ca32d757a0e341c71af7fb75799]: Textual amendment: Regs. 21, 21A substituted for reg. 21 (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [47(5)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/47/5)
 
-[^key-0e2390e53dd2150b4fcc6619e426f489]: Textual amendment: Words in reg. 23 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(h)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/h)
+[^c-0e2390e53dd2150b4fcc6619e426f489]: Textual amendment: Words in reg. 23 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [9(h)](https://www.legislation.gov.uk/uksi/2020/56/regulation/9/h)
 
 [^c2347415]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80); amended by section 1 of the [St Andrew's Day Bank Holiday (Scotland) Act 2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).

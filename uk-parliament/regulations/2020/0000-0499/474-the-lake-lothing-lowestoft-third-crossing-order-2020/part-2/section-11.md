@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Temporary stopping up and restriction of use of streets[^key-7f9380e850d726cce20f9ede3e4037f2]
+## 11. Temporary stopping up and restriction of use of streets[^c-7f9380e850d726cce20f9ede3e4037f2]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f9380e850d726cce20f9ede3e4037f2]: Commencement: Art. 11 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-7f9380e850d726cce20f9ede3e4037f2]: Commencement: Art. 11 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

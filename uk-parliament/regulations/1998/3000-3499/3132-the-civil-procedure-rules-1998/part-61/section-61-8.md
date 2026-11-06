@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61.8. Release and cautions against release[^key-15c3c276e68ba8db6c1696646926b71b]
+## 61.8. Release and cautions against release[^c-15c3c276e68ba8db6c1696646926b71b]
 
 *Extent: E+W*
 
@@ -30,11 +30,11 @@ summary: ''
 - (a) claims to have an in rem right against any property under arrest; and
 - (b) wishes to be given notice of any application in respect of that property or its proceeds of sale,
 
-may file a request for a caution against release in the form set out in Practice Direction 61[^key-86fa71045a19f25e54e1f9bb86b24309].
+may file a request for a caution against release in the form set out in Practice Direction 61[^c-86fa71045a19f25e54e1f9bb86b24309].
 
 (3) When a request under paragraph (2) is filed, a caution against release will be entered in the Register.
 
-(3A)[^key-415cfc7d496c625d33e7b3323e132d66] A caution against release—
+(3A)[^c-415cfc7d496c625d33e7b3323e132d66] A caution against release—
 
 - (a) is valid for 12 months after the date it is entered in the Register; and
 - (b) may be renewed for a further 12 months by filing a further request.
@@ -47,9 +47,9 @@ may file a request for a caution against release in the form set out in Practice
   - (i) the arresting party; and
   - (ii) all persons who have entered cautions against release
 
-  file a request for release in the form set out in Practice Direction 61[^key-72bdfea10ab63bf5897367cc1dc88e8d]; or
+  file a request for release in the form set out in Practice Direction 61[^c-72bdfea10ab63bf5897367cc1dc88e8d]; or
 - (d) any party files—
-  - (i) a request for release in the form set out in Practice Direction 61[^key-db13133aaec0092d3169654a7c609cb2] (containing an undertaking); and
+  - (i) a request for release in the form set out in Practice Direction 61[^c-db13133aaec0092d3169654a7c609cb2] (containing an undertaking); and
   - (ii) consents to the release of the arresting party and all persons who have entered cautions against release.
 
 (5) Where the release of any property is delayed by the entry of a caution against release under this rule any person who has an interest in the property may apply for an order that the person who entered the caution pay damages for losses suffered by the applicant because of the delay.
@@ -99,12 +99,12 @@ the Marshal will apply to the court for an order to permit the discharge of the 
 
 ## Annotations
 
-[^key-15c3c276e68ba8db6c1696646926b71b]: Textual amendment: Pt. 61 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/4015/schedule/5)
+[^c-15c3c276e68ba8db6c1696646926b71b]: Textual amendment: Pt. 61 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/4015/schedule/5)
 
-[^key-86fa71045a19f25e54e1f9bb86b24309]: Textual amendment: Words in [rule 61.8(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.8/2) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/36/a)
+[^c-86fa71045a19f25e54e1f9bb86b24309]: Textual amendment: Words in [rule 61.8(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.8/2) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/36/a)
 
-[^key-415cfc7d496c625d33e7b3323e132d66]: Textual amendment: [Rule 61.8(3A)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.8/3A) inserted (6.4.2019) by [The Civil Procedure (Amendment) Rules 2019 (S.I. 2019/342)](https://www.legislation.gov.uk/uksi/2019/342), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/342/rule/1/1), [14](https://www.legislation.gov.uk/uksi/2019/342/rule/14)
+[^c-415cfc7d496c625d33e7b3323e132d66]: Textual amendment: [Rule 61.8(3A)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.8/3A) inserted (6.4.2019) by [The Civil Procedure (Amendment) Rules 2019 (S.I. 2019/342)](https://www.legislation.gov.uk/uksi/2019/342), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/342/rule/1/1), [14](https://www.legislation.gov.uk/uksi/2019/342/rule/14)
 
-[^key-72bdfea10ab63bf5897367cc1dc88e8d]: Textual amendment: Words in [rule 61.8(4)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.8/4/c) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/36/a)
+[^c-72bdfea10ab63bf5897367cc1dc88e8d]: Textual amendment: Words in [rule 61.8(4)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.8/4/c) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/36/a)
 
-[^key-db13133aaec0092d3169654a7c609cb2]: Textual amendment: Words in [rule 61.8(4)(d)(i)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.8/4/d/i) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/36/a)
+[^c-db13133aaec0092d3169654a7c609cb2]: Textual amendment: Words in [rule 61.8(4)(d)(i)](https://www.legislation.gov.uk/uksi/1998/3132/rule/61.8/4/d/i) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2009/3390/rule/36/a)

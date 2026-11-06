@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Creation of the new community ward of Llanmadog[^key-af8a38449f6c541747e47770aed59d1f]
+## 29. Creation of the new community ward of Llanmadog[^c-af8a38449f6c541747e47770aed59d1f]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A new community ward is created in the community of Gower North which is to be k
 
 ## Annotations
 
-[^key-af8a38449f6c541747e47770aed59d1f]: Commencement: [Art. 29](https://www.legislation.gov.uk/wsi/2026/95/article/29) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-af8a38449f6c541747e47770aed59d1f]: Commencement: [Art. 29](https://www.legislation.gov.uk/wsi/2026/95/article/29) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

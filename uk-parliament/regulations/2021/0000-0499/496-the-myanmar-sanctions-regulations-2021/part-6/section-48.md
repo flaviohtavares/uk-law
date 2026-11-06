@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Trade: licensing offences[^key-212935cd99b3df7953d383d1c8312f06]
+## 48. Trade: licensing offences[^c-212935cd99b3df7953d383d1c8312f06]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining a trade licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-212935cd99b3df7953d383d1c8312f06]: Commencement: Reg. 48 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-212935cd99b3df7953d383d1c8312f06]: Commencement: Reg. 48 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

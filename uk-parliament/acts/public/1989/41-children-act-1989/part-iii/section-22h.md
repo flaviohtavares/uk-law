@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22H. Kinship care: information[^key-a302fed6e903083c6fad4133b675b48b]
+## 22H. Kinship care: information[^c-a302fed6e903083c6fad4133b675b48b]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a302fed6e903083c6fad4133b675b48b]: Textual amendment: [Ss. 22H](https://www.legislation.gov.uk/ukpga/1989/41/section/22H), [22I](https://www.legislation.gov.uk/ukpga/1989/41/section/22I) and cross-heading inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 5](https://www.legislation.gov.uk/ukpga/2026/21/section/5), [78(2)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/a)
+[^c-a302fed6e903083c6fad4133b675b48b]: Textual amendment: [Ss. 22H](https://www.legislation.gov.uk/ukpga/1989/41/section/22H), [22I](https://www.legislation.gov.uk/ukpga/1989/41/section/22I) and cross-heading inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 5](https://www.legislation.gov.uk/ukpga/2026/21/section/5), [78(2)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/a)

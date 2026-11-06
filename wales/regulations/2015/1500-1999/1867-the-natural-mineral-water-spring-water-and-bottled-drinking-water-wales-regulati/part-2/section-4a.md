@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4A. Transitional provision: withdrawal from the EEA and the EU[^key-46be58efa2297552013ec70bf166b8f8]
+## 4A. Transitional provision: withdrawal from the EEA and the EU[^c-46be58efa2297552013ec70bf166b8f8]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46be58efa2297552013ec70bf166b8f8]: Textual amendment: Reg. 4A inserted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/uksi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1046/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2019/1046/regulation/8/5) (as amended by [S.I. 2020/1581](https://www.legislation.gov.uk/uksi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1581/regulation/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2020/1581/regulation/4/4/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46be58efa2297552013ec70bf166b8f8]: Textual amendment: Reg. 4A inserted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/uksi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1046/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2019/1046/regulation/8/5) (as amended by [S.I. 2020/1581](https://www.legislation.gov.uk/uksi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1581/regulation/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2020/1581/regulation/4/4/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

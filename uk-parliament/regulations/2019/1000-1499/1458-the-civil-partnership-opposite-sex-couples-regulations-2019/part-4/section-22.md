@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Status of male civil partners as fathers for purposes of nationality law[^key-9b73bbde4edb062d82ce1a5216bcb1ad]
+## 22. Status of male civil partners as fathers for purposes of nationality law[^c-9b73bbde4edb062d82ce1a5216bcb1ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 50(9A)(a) of the British Nationality Act 1981[^f00044], after “husb
 
 ## Annotations
 
-[^key-9b73bbde4edb062d82ce1a5216bcb1ad]: Commencement: Reg. 22 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-9b73bbde4edb062d82ce1a5216bcb1ad]: Commencement: Reg. 22 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00044]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61). Section 50(9)-(9C) was substituted by the Nationality, Immigration and Asylum Act [2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), section 9(1).

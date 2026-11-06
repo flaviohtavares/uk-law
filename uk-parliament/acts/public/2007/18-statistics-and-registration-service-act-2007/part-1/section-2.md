@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Status[^key-d55e1058d2fc3dfd3a7a0bcce786250e]
+## 2. Status[^c-d55e1058d2fc3dfd3a7a0bcce786250e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d55e1058d2fc3dfd3a7a0bcce786250e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/18/section/2) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/a)
+[^c-d55e1058d2fc3dfd3a7a0bcce786250e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/18/section/2) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Adjustment, reduction or refund of periodic fees[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+## SCHEDULE 8 — Adjustment, reduction or refund of periodic fees[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Regulation 55(2)
 
-### 1. Refund on surrender or revocation of authorisation, registration or licence[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+### 1. Refund on surrender or revocation of authorisation, registration or licence[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Adjustment and refund: licences relating to imported special medicinal products[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+### 2. Adjustment and refund: licences relating to imported special medicinal products[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Refunds: treated as having been paid on account[^key-6b65471f042cbeb2b5a8c5a033f347d4]
+### 3. Refunds: treated as having been paid on account[^c-6b65471f042cbeb2b5a8c5a033f347d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b65471f042cbeb2b5a8c5a033f347d4]: Textual amendment: Regulations revoked (1.4.2016) by [The Medicines (Products for Human Use) (Fees) Regulations 2016 (S.I. 2016/190)](https://www.legislation.gov.uk/uksi/2016/190), [reg. 63(1)](https://www.legislation.gov.uk/uksi/2016/190/regulation/63/1) (with [reg. 63(2)-(4)](https://www.legislation.gov.uk/uksi/2016/190/regulation/63/2))
+[^c-6b65471f042cbeb2b5a8c5a033f347d4]: Textual amendment: Regulations revoked (1.4.2016) by [The Medicines (Products for Human Use) (Fees) Regulations 2016 (S.I. 2016/190)](https://www.legislation.gov.uk/uksi/2016/190), [reg. 63(1)](https://www.legislation.gov.uk/uksi/2016/190/regulation/63/1) (with [reg. 63(2)-(4)](https://www.legislation.gov.uk/uksi/2016/190/regulation/63/2))

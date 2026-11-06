@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 105(5), 109(4)(a), 110(5), 113(1)(b), (1A)(b), (3)(b) and (8) and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-7aa26d564864f292121d097ba38fa7f7]
+## 1. Citation and commencement[^c-7aa26d564864f292121d097ba38fa7f7]
 
 These Regulations may be cited as the Pension Protection Fund (Entry Rules) (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 24th August 2005.
 
-## 2. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^key-057a6061ffc17ad43d594b4284c8680b]
+## 2. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^c-057a6061ffc17ad43d594b4284c8680b]
 
 (1) The Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005[^f00002] shall be amended in accordance with paragraphs (2) to (9).
 
@@ -80,7 +80,7 @@ These Regulations may be cited as the Pension Protection Fund (Entry Rules) (Ame
 
 .
 
-(5)[^key-81b17408c99466d454abae59349b1163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-81b17408c99466d454abae59349b1163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) After regulation 7 there shall be inserted the following regulation—
 
@@ -212,9 +212,9 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Part III is modified in its application to partially guaranteed schemes, hybrid schemes and multi-employer schemes by, respectively, [S.R. 2005 Nos. 55](https://www.legislation.gov.uk/nisr/2005/55), [84](https://www.legislation.gov.uk/nisr/2005/84) and [91](https://www.legislation.gov.uk/nisr/2005/91); Article 113(1A) was inserted by the modifications in Parts III and VI of [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91) as substituted by regulation 3(3) and (4) of [S.R. 2005 No. 357](https://www.legislation.gov.uk/nisr/2005/357)
 
-[^key-7aa26d564864f292121d097ba38fa7f7]: Commencement: Reg. 1 in operation at 24.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1)
+[^c-7aa26d564864f292121d097ba38fa7f7]: Commencement: Reg. 1 in operation at 24.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1)
 
-[^key-057a6061ffc17ad43d594b4284c8680b]: Commencement: Reg. 2 in operation at 24.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1)
+[^c-057a6061ffc17ad43d594b4284c8680b]: Commencement: Reg. 2 in operation at 24.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/364/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2005 No. 126](https://www.legislation.gov.uk/nisr/2005/126); relevant amending regulations are [S.R. 2005 No. 194](https://www.legislation.gov.uk/nisr/2005/194)
 
@@ -224,7 +224,7 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00005]: Footnote: Article 364 was amended by regulation 4(3) of [S.R 2002 No. 223](https://www.legislation.gov.uk/nisr/2002/223)
 
-[^key-81b17408c99466d454abae59349b1163]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/5) revoked (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [11(a)](https://www.legislation.gov.uk/nisr/2016/165/regulation/11/a)
+[^c-81b17408c99466d454abae59349b1163]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2005/364/regulation/2/5) revoked (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [11(a)](https://www.legislation.gov.uk/nisr/2016/165/regulation/11/a)
 
 [^f00007]: Footnote: Part III was substituted by regulation 3(3) of [S.R. 2005 No. 357](https://www.legislation.gov.uk/nisr/2005/357)
 

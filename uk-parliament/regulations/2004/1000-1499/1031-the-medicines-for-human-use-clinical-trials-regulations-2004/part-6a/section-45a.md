@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Non-investigational medicinal and non-medicinal products[^key-1d5dacc21fa7faa48547470d855edd13]
+## 45A. Non-investigational medicinal and non-medicinal products[^c-1d5dacc21fa7faa48547470d855edd13]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d5dacc21fa7faa48547470d855edd13]: Textual amendment: Pt. 6A inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2025/538/regulation/31)
+[^c-1d5dacc21fa7faa48547470d855edd13]: Textual amendment: Pt. 6A inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2025/538/regulation/31)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Dissolution of other funding bodies[^key-afdd960da83f8af2972bb20239b6420a]
+## 2. Dissolution of other funding bodies[^c-afdd960da83f8af2972bb20239b6420a]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The following bodies are dissolved on such date as the Scottish Ministers may by
 
 ## Annotations
 
-[^key-afdd960da83f8af2972bb20239b6420a]: Commencement: S. 2 in force at 8.9.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/419/article/2/2)
+[^c-afdd960da83f8af2972bb20239b6420a]: Commencement: S. 2 in force at 8.9.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(2)](https://www.legislation.gov.uk/ssi/2005/419/article/2/2)

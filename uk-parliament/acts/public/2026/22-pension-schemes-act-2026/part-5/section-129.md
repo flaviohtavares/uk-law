@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Amendments of Pensions Act 2004[^key-0a29b027cc58578ecd5beaaf6cf86858]
+## 129. Amendments of Pensions Act 2004[^c-0a29b027cc58578ecd5beaaf6cf86858]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Schedule amends the Pensions Act 2004 in consequence of or in connection wit
 
 ## Annotations
 
-[^key-0a29b027cc58578ecd5beaaf6cf86858]: Commencement: S. 129 in force at Royal Assent, see [s. 133(12)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/12/a)
+[^c-0a29b027cc58578ecd5beaaf6cf86858]: Commencement: S. 129 in force at Royal Assent, see [s. 133(12)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/12/a)

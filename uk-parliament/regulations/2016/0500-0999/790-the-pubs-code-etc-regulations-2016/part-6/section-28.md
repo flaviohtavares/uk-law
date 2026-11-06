@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Arrangements during the MRO procedure: rent etc[^key-c7fa7f9e950dbe1136d3a9da7d2b680e]
+## 28. Arrangements during the MRO procedure: rent etc[^c-c7fa7f9e950dbe1136d3a9da7d2b680e]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7fa7f9e950dbe1136d3a9da7d2b680e]: Commencement: Reg. 28 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-c7fa7f9e950dbe1136d3a9da7d2b680e]: Commencement: Reg. 28 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

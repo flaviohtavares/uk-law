@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 326. General[^key-ccd93b04ceabb8544759d03181d3880f]
+## 326. General[^c-ccd93b04ceabb8544759d03181d3880f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ These Regulations do not affect the operation of article 3(1) or (3) of the Care
 
 ## Annotations
 
-[^key-ccd93b04ceabb8544759d03181d3880f]: Commencement: Reg. 326 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-ccd93b04ceabb8544759d03181d3880f]: Commencement: Reg. 326 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00210]: Footnote: [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914).

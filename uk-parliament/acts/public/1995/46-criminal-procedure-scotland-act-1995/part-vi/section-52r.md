@@ -22,12 +22,12 @@ summary: ''
 
 (1) This section applies—
 
-- (a) where, in the case of a person who, when the treatment order is made, has not been removed to the hospital specified in the order, the relevant period given by subsection (1A) below[^key-a682c570e1af9a2744560d3004b9d3cd] has not expired; or
+- (a) where, in the case of a person who, when the treatment order is made, has not been removed to the hospital specified in the order, the relevant period given by subsection (1A) below[^c-a682c570e1af9a2744560d3004b9d3cd] has not expired; or
 - (b) in the case of a person—
   - (i) who, when the treatment order is made, has been admitted to the hospital specified in the order; or
   - (ii) who has been removed under paragraph (a) of subsection (6) of section 52M of this Act to the hospital so specified.
 
-(1A)[^key-b82e74dbc89c472fb2ffbdc6df2c2a8f] For the purpose of subsection (1)(a) above, the relevant period is the period—
+(1A)[^c-b82e74dbc89c472fb2ffbdc6df2c2a8f] For the purpose of subsection (1)(a) above, the relevant period is the period—
 
 - (a) beginning with the day on which the order is made,
 - (b) expiring at the end of the 7 days following that day.
@@ -59,9 +59,9 @@ summary: ''
 
 [^c18911291]: Textual amendment: [Ss. 52A-52U](https://www.legislation.gov.uk/ukpga/1995/46/section/52A) inserted (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 130](https://www.legislation.gov.uk/asp/2003/13/section/130), [333(1)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as amended (27.9.2005) by [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465), [art. 2](https://www.legislation.gov.uk/ssi/2005/465/article/2), [sch. 1 para. 32(13)(a)(i)(ii)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/a/i/ii), [sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2))
 
-[^key-a682c570e1af9a2744560d3004b9d3cd]: Textual amendment: Words in [s. 52R(1)(a)](https://www.legislation.gov.uk/ukpga/1995/46/section/52R/1/a) substituted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 41(4)(a)](https://www.legislation.gov.uk/asp/2015/9/section/41/4/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 20(b)](https://www.legislation.gov.uk/ssi/2017/197/article/20/b))
+[^c-a682c570e1af9a2744560d3004b9d3cd]: Textual amendment: Words in [s. 52R(1)(a)](https://www.legislation.gov.uk/ukpga/1995/46/section/52R/1/a) substituted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 41(4)(a)](https://www.legislation.gov.uk/asp/2015/9/section/41/4/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 20(b)](https://www.legislation.gov.uk/ssi/2017/197/article/20/b))
 
-[^key-b82e74dbc89c472fb2ffbdc6df2c2a8f]: Textual amendment: [S. 52R(1A)](https://www.legislation.gov.uk/ukpga/1995/46/section/52R/1A) inserted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 41(4)(b)](https://www.legislation.gov.uk/asp/2015/9/section/41/4/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 20(b)](https://www.legislation.gov.uk/ssi/2017/197/article/20/b))
+[^c-b82e74dbc89c472fb2ffbdc6df2c2a8f]: Textual amendment: [S. 52R(1A)](https://www.legislation.gov.uk/ukpga/1995/46/section/52R/1A) inserted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 41(4)(b)](https://www.legislation.gov.uk/asp/2015/9/section/41/4/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 20(b)](https://www.legislation.gov.uk/ssi/2017/197/article/20/b))
 
 [^c20909091]: Textual amendment: Word in s. 52R(3) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 14(2)](https://www.legislation.gov.uk/asp/2010/13/section/14/2), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/3/a); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/413/article/3))
 

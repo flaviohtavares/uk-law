@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57A. Procedural steps where petition remitted[^key-304fcf07bf192bec7cec5dfa088ebbc7]
+## 57A. Procedural steps where petition remitted[^c-304fcf07bf192bec7cec5dfa088ebbc7]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-304fcf07bf192bec7cec5dfa088ebbc7]: Textual amendment: [S. 57A](https://www.legislation.gov.uk/asp/2014/10/section/57A) inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 24](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/24); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-304fcf07bf192bec7cec5dfa088ebbc7]: Textual amendment: [S. 57A](https://www.legislation.gov.uk/asp/2014/10/section/57A) inserted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 24](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/24); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

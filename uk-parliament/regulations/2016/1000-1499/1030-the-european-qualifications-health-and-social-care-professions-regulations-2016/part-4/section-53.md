@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Amendment of Schedule 4[^key-bdbe5adf48da81fa258aeefc96e751ba]
+## 53. Amendment of Schedule 4[^c-bdbe5adf48da81fa258aeefc96e751ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdbe5adf48da81fa258aeefc96e751ba]: Commencement: Reg. 53 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-bdbe5adf48da81fa258aeefc96e751ba]: Commencement: Reg. 53 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00038]: Footnote: Schedule 4 was substituted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

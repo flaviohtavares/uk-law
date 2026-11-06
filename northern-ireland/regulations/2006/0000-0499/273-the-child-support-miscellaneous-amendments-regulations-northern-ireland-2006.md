@@ -41,21 +41,21 @@ Coming into operation in accordance with regulation 1
 
 The Department for Social Development makes the following Regulations in exercise of powers conferred by Articles 16(1), 18(4), 29(2) and (3), 32, 34, 37A(3) and 48(4) of, and paragraph 11 of Schedule 1 to, the Child Support (Northern Ireland) Order 1991[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and Commencement[^key-4bb8fa822ac0e92d202ced85d54065dc]
+## 1. Citation and Commencement[^c-4bb8fa822ac0e92d202ced85d54065dc]
 
 (1) These Regulations may be cited as the Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 and, subject to paragraph (2), come into operation on 12th July 2006.
 
 (2) Where, in relation to a particular case, paragraph 24 of Schedule 3 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00003] has not come into operation before 12th July 2006, regulation 3(3) shall come into operation for the purposes of that case on the day on which that paragraph comes into operation.
 
-## 2. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^key-b93452946b62a029b4ef641af7225b19]
+## 2. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^c-b93452946b62a029b4ef641af7225b19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Child Support (Collection and Enforcement) Regulations[^key-66e78bbd716ba5cee00e8ef85eaca651]
+## 3. Amendment of the Child Support (Collection and Enforcement) Regulations[^c-66e78bbd716ba5cee00e8ef85eaca651]
 
-(1)[^key-66e78bbd716ba5cee00e8ef85eaca651] The Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^f00007] are amended as follows.
+(1)[^c-66e78bbd716ba5cee00e8ef85eaca651] The Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^f00007] are amended as follows.
 
-(2)[^key-66e78bbd716ba5cee00e8ef85eaca651] In regulation 3[^f00008] (method of payment):—
+(2)[^c-66e78bbd716ba5cee00e8ef85eaca651] In regulation 3[^f00008] (method of payment):—
 
 - (a) after paragraph (1)(f) add:—
 
@@ -73,9 +73,9 @@ The Department for Social Development makes the following Regulations in exercis
 
   .
 
-(3)[^key-8e832b88c8bf5ff7e7bc289e0557346c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8e832b88c8bf5ff7e7bc289e0557346c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-66e78bbd716ba5cee00e8ef85eaca651] In regulation 27 (application for a liability order) for paragraph (2) substitute the following paragraphs:—
+(4)[^c-66e78bbd716ba5cee00e8ef85eaca651] In regulation 27 (application for a liability order) for paragraph (2) substitute the following paragraphs:—
 
 > (2) Subject to paragraph (3), there is no period of limitation in relation to an application under paragraph (1).
 >
@@ -83,11 +83,11 @@ The Department for Social Development makes the following Regulations in exercis
 
 .
 
-## 4. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-c78cab405e0695c11176216c82694d19]
+## 4. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-c78cab405e0695c11176216c82694d19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Child Support (Collection and Enforcement and Miscellaneous Amendments) Regulations[^key-63e764760d64cf6eaf1a1ad59d3716f6]
+## 5. Amendment of the Child Support (Collection and Enforcement and Miscellaneous Amendments) Regulations[^c-63e764760d64cf6eaf1a1ad59d3716f6]
 
 (1) The Child Support (Collection and Enforcement and Miscellaneous Amendments) Regulations (Northern Ireland) 2001[^f00012] are amended as follows.
 
@@ -99,11 +99,11 @@ The Department for Social Development makes the following Regulations in exercis
 - (b) at the end of sub-paragraph (b) and head (ii) omit “or”; and
 - (c) omit sub-paragraph (c) and head (iii).
 
-## 6. Amendment of the Child Support (Maintenance Calculation Procedure) Regulations[^key-d2655ab70eabecc37758b56d4b2c9107]
+## 6. Amendment of the Child Support (Maintenance Calculation Procedure) Regulations[^c-d2655ab70eabecc37758b56d4b2c9107]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-63c5563d5fe81bf6f48965d0b255ef36]
+## 7. Revocation[^c-63c5563d5fe81bf6f48965d0b255ef36]
 
 Regulation 3(4)(b) of the Child Support (Collection and Enforcement and Miscellaneous Amendments) Regulations (Northern Ireland) 2001 is revoked.
 
@@ -143,13 +143,13 @@ A regulatory impact assessment has not been produced for this rule as it has no 
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-4bb8fa822ac0e92d202ced85d54065dc]: Commencement: Reg. 1 in operation at 12.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/273/regulation/1/1)
+[^c-4bb8fa822ac0e92d202ced85d54065dc]: Commencement: Reg. 1 in operation at 12.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/273/regulation/1/1)
 
 [^f00003]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4); *see* Article 3 of [S.R. 2003 No. 53 (C. 4)](https://www.legislation.gov.uk/nisr/2003/53) for the commencement of paragraph 24 of Schedule 3 to that Act
 
-[^key-b93452946b62a029b4ef641af7225b19]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/273/regulation/2) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
+[^c-b93452946b62a029b4ef641af7225b19]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/273/regulation/2) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
 
-[^key-66e78bbd716ba5cee00e8ef85eaca651]: Commencement: Reg. 3(1)(2)(4) in operation at 12.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/273/regulation/1/1)
+[^c-66e78bbd716ba5cee00e8ef85eaca651]: Commencement: Reg. 3(1)(2)(4) in operation at 12.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/273/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390)
 
@@ -157,11 +157,11 @@ A regulatory impact assessment has not been produced for this rule as it has no 
 
 [^f00009]: Footnote: Paragraph (1A) was inserted by regulation 3(4)(b) of [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15)
 
-[^key-8e832b88c8bf5ff7e7bc289e0557346c]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2006/273/regulation/3/3) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-8e832b88c8bf5ff7e7bc289e0557346c]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2006/273/regulation/3/3) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
-[^key-c78cab405e0695c11176216c82694d19]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/273/regulation/4) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-c78cab405e0695c11176216c82694d19]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/273/regulation/4) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
-[^key-63e764760d64cf6eaf1a1ad59d3716f6]: Commencement: Reg. 5 in operation at 12.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/273/regulation/1/1)
+[^c-63e764760d64cf6eaf1a1ad59d3716f6]: Commencement: Reg. 5 in operation at 12.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/273/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 2001 No. 15](https://www.legislation.gov.uk/nisr/2001/15)
 
@@ -169,6 +169,6 @@ A regulatory impact assessment has not been produced for this rule as it has no 
 
 [^f00014]: Footnote: Regulation 5 was amended by regulation 2(5) of [S.R. 2003 No. 91](https://www.legislation.gov.uk/nisr/2003/91)
 
-[^key-d2655ab70eabecc37758b56d4b2c9107]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/273/regulation/6) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-d2655ab70eabecc37758b56d4b2c9107]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/273/regulation/6) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
-[^key-63c5563d5fe81bf6f48965d0b255ef36]: Commencement: Reg. 7 in operation at 12.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/273/regulation/1/1)
+[^c-63c5563d5fe81bf6f48965d0b255ef36]: Commencement: Reg. 7 in operation at 12.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/273/regulation/1/1)

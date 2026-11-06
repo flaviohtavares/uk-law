@@ -35,38 +35,38 @@ amending Implementing Regulations (EU) No 22/2013 and (EU) No 540/2011 as regard
 
 (Text with EEA relevance) (revoked)
 
-[^key-feea9bd9ee59fa7329d91f8ab76b338b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-feea9bd9ee59fa7329d91f8ab76b338b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendment to Implementing Regulation (EU) No 22/2013[^key-feea9bd9ee59fa7329d91f8ab76b338b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendment to Implementing Regulation (EU) No 540/2011[^key-feea9bd9ee59fa7329d91f8ab76b338b]
+## Article 1. Amendment to Implementing Regulation (EU) No 22/2013[^c-feea9bd9ee59fa7329d91f8ab76b338b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional measures[^key-feea9bd9ee59fa7329d91f8ab76b338b]
+## Article 2. Amendment to Implementing Regulation (EU) No 540/2011[^c-feea9bd9ee59fa7329d91f8ab76b338b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Grace period[^key-feea9bd9ee59fa7329d91f8ab76b338b]
+## Article 3. Transitional measures[^c-feea9bd9ee59fa7329d91f8ab76b338b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-feea9bd9ee59fa7329d91f8ab76b338b]
+## Article 4. Grace period[^c-feea9bd9ee59fa7329d91f8ab76b338b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-feea9bd9ee59fa7329d91f8ab76b338b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-feea9bd9ee59fa7329d91f8ab76b338b]
+## Article 5. Entry into force[^c-feea9bd9ee59fa7329d91f8ab76b338b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-feea9bd9ee59fa7329d91f8ab76b338b]
+[^c-feea9bd9ee59fa7329d91f8ab76b338b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-feea9bd9ee59fa7329d91f8ab76b338b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-feea9bd9ee59fa7329d91f8ab76b338b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-feea9bd9ee59fa7329d91f8ab76b338b]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/3), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2019/1410/schedule/paragraph/29) (with [reg. 4(2)-(6)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/4/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-feea9bd9ee59fa7329d91f8ab76b338b]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/3), [Sch. para. 29](https://www.legislation.gov.uk/uksi/2019/1410/schedule/paragraph/29) (with [reg. 4(2)-(6)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/4/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

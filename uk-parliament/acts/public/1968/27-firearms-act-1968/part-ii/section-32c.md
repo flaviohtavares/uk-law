@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32C. Variation, endorsement etc. of European documents.[^key-b5f6c0bb977cc618b685d0ba0dcd0618]
+## 32C. Variation, endorsement etc. of European documents.[^c-b5f6c0bb977cc618b685d0ba0dcd0618]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5f6c0bb977cc618b685d0ba0dcd0618]: Textual amendment: [S. 32C](https://www.legislation.gov.uk/ukpga/1968/27/section/32C) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [59(8)](https://www.legislation.gov.uk/uksi/2019/742/regulation/59/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5f6c0bb977cc618b685d0ba0dcd0618]: Textual amendment: [S. 32C](https://www.legislation.gov.uk/ukpga/1968/27/section/32C) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [59(8)](https://www.legislation.gov.uk/uksi/2019/742/regulation/59/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

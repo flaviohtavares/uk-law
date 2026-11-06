@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Temporary public ownership[^M_I_b387d6d6-85dc-4249-fa63-2c4e07146242][^key-cf13655e05fca41676756f0a72a276e9]
+## 13. Temporary public ownership[^M_I_b387d6d6-85dc-4249-fa63-2c4e07146242][^c-cf13655e05fca41676756f0a72a276e9]
 
 *Extent: E+W+S+N.I.*
 
-(1) The fifth[^key-3e21dc877051d5faf852f64f7d374745] stabilisation option is to take the bank into temporary public ownership.
+(1) The fifth[^c-3e21dc877051d5faf852f64f7d374745] stabilisation option is to take the bank into temporary public ownership.
 
 (2) For that purpose the Treasury may make one or more share transfer orders in which the transferee is—
 
@@ -33,6 +33,6 @@ summary: ''
 
 [^M_I_b387d6d6-85dc-4249-fa63-2c4e07146242]: Commencement: S. 13 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-cf13655e05fca41676756f0a72a276e9]: Commencement: S. 13 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-cf13655e05fca41676756f0a72a276e9]: Commencement: S. 13 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-3e21dc877051d5faf852f64f7d374745]: Textual amendment: Word in s. 13(1) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [23](https://www.legislation.gov.uk/uksi/2014/3329/article/23)
+[^c-3e21dc877051d5faf852f64f7d374745]: Textual amendment: Word in s. 13(1) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [23](https://www.legislation.gov.uk/uksi/2014/3329/article/23)

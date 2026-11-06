@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Exempt persons[^key-369dd95ea4a1074dca2bb7642b9e9157][^key-b399312a449af4c990ca02c36eda792d][^key-e6ee185ede69c7746a10b07bdb7cfcce][^key-b92fde67c236487ec737d7a8bab74591][^key-a94048eca7657f35a4c407157afbe521][^key-b9907a79c3f826dd9da81365f4aab8a9]
+## 49. Exempt persons[^c-369dd95ea4a1074dca2bb7642b9e9157][^c-b399312a449af4c990ca02c36eda792d][^c-e6ee185ede69c7746a10b07bdb7cfcce][^c-b92fde67c236487ec737d7a8bab74591][^c-a94048eca7657f35a4c407157afbe521][^c-b9907a79c3f826dd9da81365f4aab8a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,11 +28,11 @@ summary: ''
 
 (2) A person has the appropriate immigration status if the person—
 
-- (a)[^key-354b767b89689278012693ed7c0ff6dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-354b767b89689278012693ed7c0ff6dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) is exempt from immigration control; or
 - (c) is settled in the United Kingdom (within the meaning of the Immigration Act 1971 — see section 33(2A) of that Act).
 
-(2A)[^key-cbf349cf93866a5e12893dfe770f6ca5] “**Retained enforceable EU right**” means a right that—
+(2A)[^c-cbf349cf93866a5e12893dfe770f6ca5] “**Retained enforceable EU right**” means a right that—
 
 - (a) was created or arose by or under the EU Treaties before the coming into force of this subsection, and
 - (b) forms part of retained EU law by virtue of section 3 or 4 of the European Union (Withdrawal) Act 2018,
@@ -47,18 +47,18 @@ as that right is modified from time to time.
 
 ## Annotations
 
-[^key-369dd95ea4a1074dca2bb7642b9e9157]: Commencement: S. 49 in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/a)
+[^c-369dd95ea4a1074dca2bb7642b9e9157]: Commencement: S. 49 in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/a)
 
-[^key-b399312a449af4c990ca02c36eda792d]: Commencement: S. 49 in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/b)
+[^c-b399312a449af4c990ca02c36eda792d]: Commencement: S. 49 in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/b)
 
-[^key-e6ee185ede69c7746a10b07bdb7cfcce]: Modification: S. 49 applied by 2004 c. 33, s. 139A(9) (as inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3)))
+[^c-e6ee185ede69c7746a10b07bdb7cfcce]: Modification: S. 49 applied by 2004 c. 33, s. 139A(9) (as inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3)))
 
-[^key-b92fde67c236487ec737d7a8bab74591]: Modification: S. 49 applied by 1977 c. 35, s. 3A(10) (as inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2015/396/schedule/1/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/396/article/1/3)))
+[^c-b92fde67c236487ec737d7a8bab74591]: Modification: S. 49 applied by 1977 c. 35, s. 3A(10) (as inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2015/396/schedule/1/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/396/article/1/3)))
 
-[^key-a94048eca7657f35a4c407157afbe521]: Modification: S. 49 applied by 2004 c. 33, s. 88A(9) (as inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/396/schedule/3/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/396/article/1/3)))
+[^c-a94048eca7657f35a4c407157afbe521]: Modification: S. 49 applied by 2004 c. 33, s. 88A(9) (as inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/396/schedule/3/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/396/article/1/3)))
 
-[^key-b9907a79c3f826dd9da81365f4aab8a9]: Modification: S. 49 applied by S.I. 2003/413 (N.I. 3), Sch. 1 para. 3A(9) (as inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3)))
+[^c-b9907a79c3f826dd9da81365f4aab8a9]: Modification: S. 49 applied by S.I. 2003/413 (N.I. 3), Sch. 1 para. 3A(9) (as inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/395/schedule/1/paragraph/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3)))
 
-[^key-354b767b89689278012693ed7c0ff6dd]: Textual amendment: [S. 49(2)(a)](https://www.legislation.gov.uk/ukpga/2014/22/section/49/2/a) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [20(5)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/20/5)
+[^c-354b767b89689278012693ed7c0ff6dd]: Textual amendment: [S. 49(2)(a)](https://www.legislation.gov.uk/ukpga/2014/22/section/49/2/a) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [20(5)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/20/5)
 
-[^key-cbf349cf93866a5e12893dfe770f6ca5]: Textual amendment: S. 49(2A) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [21(5)(b)](https://www.legislation.gov.uk/uksi/2019/745/regulation/21/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cbf349cf93866a5e12893dfe770f6ca5]: Textual amendment: S. 49(2A) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [21(5)(b)](https://www.legislation.gov.uk/uksi/2019/745/regulation/21/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

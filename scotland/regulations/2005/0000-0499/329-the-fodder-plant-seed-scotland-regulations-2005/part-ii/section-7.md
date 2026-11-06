@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Marketing of seed of a Higher Voluntary Standard[^key-a25ccbd082761d90bcfba1eacca9b12b]
+## 7. Marketing of seed of a Higher Voluntary Standard[^c-a25ccbd082761d90bcfba1eacca9b12b]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a25ccbd082761d90bcfba1eacca9b12b]: Commencement: Reg. 7 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-a25ccbd082761d90bcfba1eacca9b12b]: Commencement: Reg. 7 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)

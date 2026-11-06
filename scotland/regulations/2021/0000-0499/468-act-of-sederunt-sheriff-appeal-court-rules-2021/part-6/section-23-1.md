@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23.1. Interpretation of this Chapter[^key-8787d703f9ceba3f193c7654fae51fa5]
+## 23.1. Interpretation of this Chapter[^c-8787d703f9ceba3f193c7654fae51fa5]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ In this Chapter, “**reference**” means a reference to the European Court for
 
 ## Annotations
 
-[^key-8787d703f9ceba3f193c7654fae51fa5]: Commencement: Para. 23.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-8787d703f9ceba3f193c7654fae51fa5]: Commencement: Para. 23.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00028]: Footnote: OJ C 384, 12.11.2019, p. 81.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55A. Noise limits—certain vehicles first used on or after 1st October 1996—general[^key-cb2bfb4bb65892292dc4cb496d133b80]
+## 55A. Noise limits—certain vehicles first used on or after 1st October 1996—general[^c-cb2bfb4bb65892292dc4cb496d133b80]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ THE TABLE
 
 ## Annotations
 
-[^key-cb2bfb4bb65892292dc4cb496d133b80]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/55A) inserted (1.10.1996) by [The Road Vehicles (Construction and Use) (Amendment) (No. 5) Regulations 1996 (S.I. 1996/2329)](https://www.legislation.gov.uk/uksi/1996/2329), [regs. 1](https://www.legislation.gov.uk/uksi/1996/2329/regulation/1), [6](https://www.legislation.gov.uk/uksi/1996/2329/regulation/6)
+[^c-cb2bfb4bb65892292dc4cb496d133b80]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/55A) inserted (1.10.1996) by [The Road Vehicles (Construction and Use) (Amendment) (No. 5) Regulations 1996 (S.I. 1996/2329)](https://www.legislation.gov.uk/uksi/1996/2329), [regs. 1](https://www.legislation.gov.uk/uksi/1996/2329/regulation/1), [6](https://www.legislation.gov.uk/uksi/1996/2329/regulation/6)

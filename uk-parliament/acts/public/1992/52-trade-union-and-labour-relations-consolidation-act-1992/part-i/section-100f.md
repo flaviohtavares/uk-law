@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100F. Small accidental failures in relation to electronic voting to be disregarded[^key-53fb3821f259a0bb607e3b6c0c729647]
+## 100F. Small accidental failures in relation to electronic voting to be disregarded[^c-53fb3821f259a0bb607e3b6c0c729647]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ the failure (or failures), in so far as they relate to electronic voting, are to
 
 ## Annotations
 
-[^key-53fb3821f259a0bb607e3b6c0c729647]: Textual amendment: S. 100F inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(12)](https://www.legislation.gov.uk/uksi/2026/881/article/5/12) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-53fb3821f259a0bb607e3b6c0c729647]: Textual amendment: S. 100F inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(12)](https://www.legislation.gov.uk/uksi/2026/881/article/5/12) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

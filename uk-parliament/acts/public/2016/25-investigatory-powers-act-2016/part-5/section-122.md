@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Approval of modifications under section 118 made in urgent cases[^key-29c40768981473f410275fb6f57c594b]
+## 122. Approval of modifications under section 118 made in urgent cases[^c-29c40768981473f410275fb6f57c594b]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ and, in a case falling within subsection (2) above, section 108(5) does not appl
 
 ## Annotations
 
-[^key-29c40768981473f410275fb6f57c594b]: Commencement: S. 122 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(l)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/l)
+[^c-29c40768981473f410275fb6f57c594b]: Commencement: S. 122 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(l)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/l)

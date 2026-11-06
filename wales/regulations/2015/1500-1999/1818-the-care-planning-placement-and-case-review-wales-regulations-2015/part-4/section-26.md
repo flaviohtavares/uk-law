@@ -25,7 +25,7 @@ summary: ''
 - (a) the most appropriate placement for C is with a connected person, notwithstanding that the connected person is not approved as a local authority foster parent, and
 - (b) it is necessary for C to be placed with the connected person before the connected person's suitability to be a local authority foster parent has been assessed in accordance with the Fostering Regulations or the Fostering Services (England) Regulations 2011,
 
-it may approve that person as a local authority foster parent for a temporary period not exceeding 24 weeks[^key-b05c99b1ca9e54dd0d9d94bbe841926d] (“temporary approval”) provided that it first complies with the requirements of paragraph (2).
+it may approve that person as a local authority foster parent for a temporary period not exceeding 24 weeks[^c-b05c99b1ca9e54dd0d9d94bbe841926d] (“temporary approval”) provided that it first complies with the requirements of paragraph (2).
 
 (2) Before making a placement under paragraph (1), the responsible authority must—
 
@@ -47,4 +47,4 @@ it may approve that person as a local authority foster parent for a temporary pe
 
 ## Annotations
 
-[^key-b05c99b1ca9e54dd0d9d94bbe841926d]: Textual amendment: Words in reg. 26(1) substituted (temp.) (1.11.2020) by virtue of [The Adoption and Fostering (Wales) (Miscellaneous Amendments) (Coronavirus) Regulations 2020 (S.I. 2020/1082)](https://www.legislation.gov.uk/wsi/2020/1082), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1082/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2020/1082/regulation/8) (with [reg. 9](https://www.legislation.gov.uk/wsi/2020/1082/regulation/9)) (as amended (30.3.2021) by [The Adoption and Fostering (Wales) (Miscellaneous Amendments) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/251)](https://www.legislation.gov.uk/wsi/2021/251), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/251/regulation/1/2), [2(2))](https://www.legislation.gov.uk/wsi/2021/251/regulation/2/2)
+[^c-b05c99b1ca9e54dd0d9d94bbe841926d]: Textual amendment: Words in reg. 26(1) substituted (temp.) (1.11.2020) by virtue of [The Adoption and Fostering (Wales) (Miscellaneous Amendments) (Coronavirus) Regulations 2020 (S.I. 2020/1082)](https://www.legislation.gov.uk/wsi/2020/1082), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1082/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2020/1082/regulation/8) (with [reg. 9](https://www.legislation.gov.uk/wsi/2020/1082/regulation/9)) (as amended (30.3.2021) by [The Adoption and Fostering (Wales) (Miscellaneous Amendments) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/251)](https://www.legislation.gov.uk/wsi/2021/251), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/251/regulation/1/2), [2(2))](https://www.legislation.gov.uk/wsi/2021/251/regulation/2/2)

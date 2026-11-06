@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Notices of revocation and variation upon reinstatement[^key-c20f4e0ca4df17e58971d7641c2b5893]
+## 21. Notices of revocation and variation upon reinstatement[^c-c20f4e0ca4df17e58971d7641c2b5893]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ must comply with paragraph (2).
 
 ## Annotations
 
-[^key-c20f4e0ca4df17e58971d7641c2b5893]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2021/84/regulation/21) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-c20f4e0ca4df17e58971d7641c2b5893]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2021/84/regulation/21) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

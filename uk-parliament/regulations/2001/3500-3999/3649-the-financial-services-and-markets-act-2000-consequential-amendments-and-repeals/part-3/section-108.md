@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Authorised providers in relation to superannuation schemes for persons engaged in health services, etc.[^key-2d2d4dca89b1591c6a15e73eb55c5dd9]
+## 108. Authorised providers in relation to superannuation schemes for persons engaged in health services, etc.[^c-2d2d4dca89b1591c6a15e73eb55c5dd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 10(6) of the Superannuation Act 1972 (superannuation schemes as respe
 
 ## Annotations
 
-[^key-2d2d4dca89b1591c6a15e73eb55c5dd9]: Commencement: Art. 108 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2d2d4dca89b1591c6a15e73eb55c5dd9]: Commencement: Art. 108 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00101]: Footnote: The definition of “authorised provider” in section 10(6) was inserted by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7) s. 8(6).

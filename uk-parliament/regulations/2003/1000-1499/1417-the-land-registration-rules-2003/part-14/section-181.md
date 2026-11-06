@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 181. Registration of companies and limited liability partnerships[^key-432980a99cabcbc6cf71abaf31205055]
+## 181. Registration of companies and limited liability partnerships[^c-432980a99cabcbc6cf71abaf31205055]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-432980a99cabcbc6cf71abaf31205055]: Textual amendment: Rule 181 revoked (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/54) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-432980a99cabcbc6cf71abaf31205055]: Textual amendment: Rule 181 revoked (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/54) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

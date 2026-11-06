@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205A. Employee shareholders[^key-306993471679c149e379059c61df0584]
+## 205A. Employee shareholders[^c-306993471679c149e379059c61df0584]
 
 *Extent: E+W+S*
 
@@ -78,7 +78,7 @@ summary: ''
 
 - “ **company** ” means—
   - (a) a company or overseas company (within the meaning, in each case, of the Companies Act 2006) which has a share capital, or
-  - (b) a United Kingdom Societas (or UK Societas) within the meaning of Council Regulation 2157/2001/EC of 8 October 2001 on the Statute for a European company;[^key-f5c7836dc6af93165f7d51fbb3e5adc2]
+  - (b) a United Kingdom Societas (or UK Societas) within the meaning of Council Regulation 2157/2001/EC of 8 October 2001 on the Statute for a European company;[^c-f5c7836dc6af93165f7d51fbb3e5adc2]
 - “ **drag-along rights** ”, in relation to shares in a company, means the right of the holders of a majority of the shares, where they are selling their shares, to require the holders of the minority to sell theirs;
 - “ **parent undertaking** ” has the same meaning as in the Companies Act 2006;
 - “ **relevant independent adviser** ” has the meaning that it has for the purposes of section 203(3)(c);
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-306993471679c149e379059c61df0584]: Textual amendment: S. 205A and cross-heading inserted (1.9.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 31(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/31/1), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 2](https://www.legislation.gov.uk/uksi/2013/1766/article/2)
+[^c-306993471679c149e379059c61df0584]: Textual amendment: S. 205A and cross-heading inserted (1.9.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 31(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/31/1), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 2](https://www.legislation.gov.uk/uksi/2013/1766/article/2)
 
-[^key-f5c7836dc6af93165f7d51fbb3e5adc2]: Textual amendment: Words in [s. 205A(13)](https://www.legislation.gov.uk/ukpga/1996/18/section/205A/13) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f5c7836dc6af93165f7d51fbb3e5adc2]: Textual amendment: Words in [s. 205A(13)](https://www.legislation.gov.uk/ukpga/1996/18/section/205A/13) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

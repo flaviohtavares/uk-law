@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. The Chief Executive of Skills Funding[^key-bb38d79e78039e09b371d4c818d088a2]
+## 81. The Chief Executive of Skills Funding[^c-bb38d79e78039e09b371d4c818d088a2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb38d79e78039e09b371d4c818d088a2]: Textual amendment: S. 81 and preceding crossheading omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/2)
+[^c-bb38d79e78039e09b371d4c818d088a2]: Textual amendment: S. 81 and preceding crossheading omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Transitional provisions: general[^key-3bc2756b3df971116c42be2436a156f9]
+## 71. Transitional provisions: general[^c-3bc2756b3df971116c42be2436a156f9]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ Table 1
 
 ## Annotations
 
-[^key-3bc2756b3df971116c42be2436a156f9]: Commencement: [Reg. 71](https://www.legislation.gov.uk/nisr/2016/427/regulation/71) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-3bc2756b3df971116c42be2436a156f9]: Commencement: [Reg. 71](https://www.legislation.gov.uk/nisr/2016/427/regulation/71) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00018]: Footnote: [S.R. 1995 No.379](https://www.legislation.gov.uk/nisr/1995/379). Regulation 4(5) was inserted by [S.R. 2000 No. 388](https://www.legislation.gov.uk/nisr/2000/388)

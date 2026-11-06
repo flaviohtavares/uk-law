@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Additional community governors[^key-966fd0f100a59a0f314691567e32811e]
+## 19. Additional community governors[^c-966fd0f100a59a0f314691567e32811e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In these Regulations “additional community governor” (“*llywodraethwr cymu
 
 ## Annotations
 
-[^key-966fd0f100a59a0f314691567e32811e]: Commencement: Reg. 19 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-966fd0f100a59a0f314691567e32811e]: Commencement: Reg. 19 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

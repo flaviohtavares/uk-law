@@ -55,7 +55,7 @@ summary: ''
 
 (8) Any person who contravenes a provision of regulations under this section, a contravention of which is declared by the regulations to be an offence, is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(9) No regulations shall be made under section 1(2)(d), 12E[^key-6099d4e08f662ff4b5b8775e6a3f67a3] or 27(3) unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
+(9) No regulations shall be made under section 1(2)(d), 12E[^c-6099d4e08f662ff4b5b8775e6a3f67a3] or 27(3) unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
 (10) Any other regulations under this Act shall be subject to negative resolution.
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6099d4e08f662ff4b5b8775e6a3f67a3]: Textual amendment: Words in [s. 57(9)](https://www.legislation.gov.uk/nia/2010/2/section/57/9) substituted (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(15)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/15)
+[^c-6099d4e08f662ff4b5b8775e6a3f67a3]: Textual amendment: Words in [s. 57(9)](https://www.legislation.gov.uk/nia/2010/2/section/57/9) substituted (1.7.2012) by [The Goods Vehicles (Qualifications of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/257)](https://www.legislation.gov.uk/nisr/2012/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/257/regulation/1/1), [17(15)](https://www.legislation.gov.uk/nisr/2012/257/regulation/17/15)

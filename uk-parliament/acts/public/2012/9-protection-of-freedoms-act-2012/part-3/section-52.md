@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Sections 47 to 51: interpretation[^key-196b0b21db173bf5e1d7560fd04fb338]
+## 52. Sections 47 to 51: interpretation[^c-196b0b21db173bf5e1d7560fd04fb338]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In sections 47 to 51—
 
 ## Annotations
 
-[^key-196b0b21db173bf5e1d7560fd04fb338]: Commencement: S. 52 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(v)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/v)
+[^c-196b0b21db173bf5e1d7560fd04fb338]: Commencement: S. 52 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(v)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/v)

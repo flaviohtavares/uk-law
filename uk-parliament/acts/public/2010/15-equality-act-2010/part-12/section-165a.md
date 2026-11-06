@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165A. Disabled passengers: assistance to identify and find vehicle[^key-a72dafc6f97556a0f8584c8704e13cf2]
+## 165A. Disabled passengers: assistance to identify and find vehicle[^c-a72dafc6f97556a0f8584c8704e13cf2]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a72dafc6f97556a0f8584c8704e13cf2]: Textual amendment: [S. 165A](https://www.legislation.gov.uk/ukpga/2010/15/section/165A) inserted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2022/29/section/1/4), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-a72dafc6f97556a0f8584c8704e13cf2]: Textual amendment: [S. 165A](https://www.legislation.gov.uk/ukpga/2010/15/section/165A) inserted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2022/29/section/1/4), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)

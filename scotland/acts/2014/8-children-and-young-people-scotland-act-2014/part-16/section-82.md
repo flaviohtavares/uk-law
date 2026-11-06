@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Safeguarders: exceptions to duty to prepare report on appointment[^key-0ef2dde147cc33ffff24913784017c6b]
+## 82. Safeguarders: exceptions to duty to prepare report on appointment[^c-0ef2dde147cc33ffff24913784017c6b]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In section 33 of the 2011 Act—
 
 ## Annotations
 
-[^key-0ef2dde147cc33ffff24913784017c6b]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2014/8/section/82) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-0ef2dde147cc33ffff24913784017c6b]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2014/8/section/82) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)

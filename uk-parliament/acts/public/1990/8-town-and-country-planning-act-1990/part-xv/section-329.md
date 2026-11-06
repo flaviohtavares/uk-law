@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 329. Service of notices.[^c14031931][^c19900101][^key-1ea8ac10e09ceb613bca84e1ab9aba35][^c14031921]
+## 329. Service of notices.[^c14031931][^c19900101][^c-1ea8ac10e09ceb613bca84e1ab9aba35][^c14031921]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ and for this purpose “**legible in all material respects**” means that the i
 - (f) service of a stop notice, or of notice of withdrawal of a stop notice, by a local planning authority;
 - (g) service of a stop notice by the Secretary of State;
 - (h) service of a breach of condition notice or of notice of withdrawal of a breach of condition notice;
-- (i) giving of notice of the making of a tree preservation order, or service of a copy of such an order, in accordance with regulations under section 199 *(affected by repeal, see note)*[^key-83d896c658161f33ff8405dd5535313f] tree preservation regulations ;
+- (i) giving of notice of the making of a tree preservation order, or service of a copy of such an order, in accordance with regulations under section 199 *(affected by repeal, see note)*[^c-83d896c658161f33ff8405dd5535313f] tree preservation regulations ;
 - (j) service of a notice under section 215 requiring steps to be taken to remedy the condition of any land;
 - (k) service of a notice under section 330 requiring information as to interests in land.
 
@@ -72,7 +72,7 @@ and for this purpose “**legible in all material respects**” means that the i
 
 [^c19900101]: Modification: S. 329 applied (30.10.1994) by [The Conservation (Natural Habitats, &c.) Regulations 1994 (S.I. 1994/2716)](https://www.legislation.gov.uk/uksi/1994/2716), [reg. 108](https://www.legislation.gov.uk/uksi/1994/2716/regulation/108)
 
-[^key-1ea8ac10e09ceb613bca84e1ab9aba35]: Modification: S. 329 applied (E.) (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [65](https://www.legislation.gov.uk/uksi/2017/571/regulation/65) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-1ea8ac10e09ceb613bca84e1ab9aba35]: Modification: S. 329 applied (E.) (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [65](https://www.legislation.gov.uk/uksi/2017/571/regulation/65) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
 [^c14031921]: Modification: S. 329 applied by [Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/9), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1990/9/section/89/1); applied (11.3.1992 so far as to confer on the Secretary of State a power to impose on him a duty to make regulations, or make provision with respect to the exercise of any such power or duty, 1.6.1992 so far as not already in force) by [Planning (Hazardous Substances) Act 1990 (c. 10, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/10), [s. 37(2)](https://www.legislation.gov.uk/ukpga/1990/10/section/37/2); [S.I. 1992/725](https://www.legislation.gov.uk/uksi/1992/725), [arts. 2](https://www.legislation.gov.uk/uksi/1992/725/article/2), [3](https://www.legislation.gov.uk/uksi/1992/725/article/3)
 
@@ -86,7 +86,7 @@ and for this purpose “**legible in all material respects**” means that the i
 
 [^c18843631]: Textual amendment: S. 329(3A)(3B) inserted (E.) (31.3.2003) by [The Town and Country Planning (Electronic Communications) (England) Order 2003 (S.I. 2003/956)](https://www.legislation.gov.uk/uksi/2003/956), [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/956/article/4/3), (W.) (1.1.2005) by [The Town and Country Planning (Electronic Communications) (Wales) Order 2004 (S.I. 2004/3156)](https://www.legislation.gov.uk/uksi/2004/3156), [art. 4(3)](https://www.legislation.gov.uk/uksi/2004/3156/article/4/3) (with [art. 14](https://www.legislation.gov.uk/uksi/2004/3156/article/14))
 
-[^key-83d896c658161f33ff8405dd5535313f]: Textual amendment: Words in s. 329(3B)(i) substituted (6.4.2012 for E.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/4), [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2008/29/schedule/8/paragraph/18) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2012/601](https://www.legislation.gov.uk/uksi/2012/601), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/601/article/2/a)
+[^c-83d896c658161f33ff8405dd5535313f]: Textual amendment: Words in s. 329(3B)(i) substituted (6.4.2012 for E.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/4), [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2008/29/schedule/8/paragraph/18) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2012/601](https://www.legislation.gov.uk/uksi/2012/601), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/601/article/2/a)
 
 [^c14031971]: Textual amendment: S. 329(4) inserted (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 32](https://www.legislation.gov.uk/ukpga/1991/34/section/32), [Sch. 7 para.51](https://www.legislation.gov.uk/ukpga/1991/34/schedule/7/paragraph/51) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4))
 

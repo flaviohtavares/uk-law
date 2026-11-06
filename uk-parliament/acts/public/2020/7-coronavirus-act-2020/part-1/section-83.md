@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Business tenancies in Northern Ireland: protection from forfeiture etc[^key-dc277246f7e66d78f873c788d61d37ef]
+## 83. Business tenancies in Northern Ireland: protection from forfeiture etc[^c-dc277246f7e66d78f873c788d61d37ef]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc277246f7e66d78f873c788d61d37ef]: Textual amendment: [S. 83](https://www.legislation.gov.uk/ukpga/2020/7/section/83) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-dc277246f7e66d78f873c788d61d37ef]: Textual amendment: [S. 83](https://www.legislation.gov.uk/ukpga/2020/7/section/83) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

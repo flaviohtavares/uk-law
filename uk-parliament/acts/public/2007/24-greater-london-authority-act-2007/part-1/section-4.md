@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Confirmation hearings etc for certain appointments by the Mayor[^key-04d86b78258233bbe84f6056d796b59b]
+## 4. Confirmation hearings etc for certain appointments by the Mayor[^c-04d86b78258233bbe84f6056d796b59b]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04d86b78258233bbe84f6056d796b59b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2007/24/section/4) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-04d86b78258233bbe84f6056d796b59b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2007/24/section/4) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)

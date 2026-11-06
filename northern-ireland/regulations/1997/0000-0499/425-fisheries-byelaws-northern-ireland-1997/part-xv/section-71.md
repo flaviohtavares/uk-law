@@ -20,7 +20,7 @@ summary: ''
 
 **Not yet in force.**
 
-**71.**[^key-6425e0a8a1e6c3e40b27def7953a8647] Where any person, whilst angling takes—
+**71.**[^c-6425e0a8a1e6c3e40b27def7953a8647] Where any person, whilst angling takes—
 
 - (a) any pike in excess of 2 on any day; or
 - (b) any pike weighing 4 kilogrammes or over,
@@ -29,4 +29,4 @@ then he shall, without avoidable injury cause such pike to be returned immediate
 
 ## Annotations
 
-[^key-6425e0a8a1e6c3e40b27def7953a8647]: Commencement: S. 71 in operation at 1.11.1997, see byelaw 1
+[^c-6425e0a8a1e6c3e40b27def7953a8647]: Commencement: S. 71 in operation at 1.11.1997, see byelaw 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Risk-mitigation techniques for OTC derivative contracts not cleared by a CCP[^key-fd33939be9d136a849f49f44016f9802]
+## 21. Risk-mitigation techniques for OTC derivative contracts not cleared by a CCP[^c-fd33939be9d136a849f49f44016f9802]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ summary: ''
 
 > **15.**
 >
-> The PRA may make technical standards for financial counterparties that are PRA-authorised persons and the FCA may make technical standards for all other cases, specifying the risk-management procedures, including the levels and type of collateral and segregation arrangements, referred to in paragraph 3, and the supervisory procedures to ensure initial and ongoing validation of those risk-management procedures.[^key-dfd7f818b7c5c9b631751d315691557c]
+> The PRA may make technical standards for financial counterparties that are PRA-authorised persons and the FCA may make technical standards for all other cases, specifying the risk-management procedures, including the levels and type of collateral and segregation arrangements, referred to in paragraph 3, and the supervisory procedures to ensure initial and ongoing validation of those risk-management procedures.[^c-dfd7f818b7c5c9b631751d315691557c]
 
 .
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd33939be9d136a849f49f44016f9802]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-fd33939be9d136a849f49f44016f9802]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-dfd7f818b7c5c9b631751d315691557c]: Textual amendment: Words in reg. 21(12) substituted (30.10.2019) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1416)](https://www.legislation.gov.uk/uksi/2019/1416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/1416/regulation/18)
+[^c-dfd7f818b7c5c9b631751d315691557c]: Textual amendment: Words in reg. 21(12) substituted (30.10.2019) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1416)](https://www.legislation.gov.uk/uksi/2019/1416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/1416/regulation/18)

@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Effect of notice given while tax enquiry is in progress: accelerated payment[^key-1933407a3d0edebbdcba533b6025c34a]
+## 223. Effect of notice given while tax enquiry is in progress: accelerated payment[^c-1933407a3d0edebbdcba533b6025c34a]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-773dc49d4f1b66ab0c4381fc7aff3b9a] This section applies where—
+(1)[^c-773dc49d4f1b66ab0c4381fc7aff3b9a] This section applies where—
 
 - (a) an accelerated payment notice is given by virtue of section 219(2)(a) (notice given while a tax enquiry is in progress) (and not withdrawn), and
 - (b) an amount is stated in the notice in accordance with section 220(2)(b).
 
-(2) P must make a payment (“the accelerated payment”) to HMRC of that amount[^key-ae60a5af31f977131e977556e254854e].
+(2) P must make a payment (“the accelerated payment”) to HMRC of that amount[^c-ae60a5af31f977131e977556e254854e].
 
 (3) The accelerated payment is to be treated as a payment on account of the understated tax (see section 220).
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1933407a3d0edebbdcba533b6025c34a]: Textual amendment: Words in s. 223 heading inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 6(4)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/6/4)
+[^c-1933407a3d0edebbdcba533b6025c34a]: Textual amendment: Words in s. 223 heading inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 6(4)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/6/4)
 
-[^key-773dc49d4f1b66ab0c4381fc7aff3b9a]: Textual amendment: S. 223(1) substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 6(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/6/2)
+[^c-773dc49d4f1b66ab0c4381fc7aff3b9a]: Textual amendment: S. 223(1) substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 6(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/6/2)
 
-[^key-ae60a5af31f977131e977556e254854e]: Textual amendment: Words in s. 223(2) substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 6(3)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/6/3)
+[^c-ae60a5af31f977131e977556e254854e]: Textual amendment: Words in s. 223(2) substituted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 6(3)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/6/3)

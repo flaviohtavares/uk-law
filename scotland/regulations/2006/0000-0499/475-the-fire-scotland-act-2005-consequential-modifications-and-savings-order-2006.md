@@ -40,24 +40,24 @@ Coming into force in accordance with article 1
 
 The Scottish Ministers in exercise of the powers conferred by sections 87 and 88(2) of the Fire (Scotland) Act 2005[^f00001], and of all other powers enabling them in that behalf, hereby make the following Order a draft of which has, in accordance with section 88(4) of that Act, been laid before and approved by resolution of the Scottish Parliament:
 
-## 1. Citation and commencement[^key-b6aeb08fe0805782572db1a0d0c63d4e]
+## 1. Citation and commencement[^c-b6aeb08fe0805782572db1a0d0c63d4e]
 
 This Order may be cited as the Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 and shall come into force on 1st October 2006 or, if this Order has not been made by 30th September 2006, on the day after the day on which it is made.
 
-## 2. Consequential amendments and repeals[^key-d9579f88d691816a3819474d3cebe1c3]
+## 2. Consequential amendments and repeals[^c-d9579f88d691816a3819474d3cebe1c3]
 
 (1) The enactments referred to in Schedule 1 are amended in accordance with that Schedule.
 
 (2) Subject to articles 3 and 4, the enactments specified in column 1 of the table in Schedule 2 are repealed to the extent specified in the corresponding entry in column 2 of that table.
 
-## 3. Saving for prohibition notices under section 10 of the Fire Precautions Act 1971[^key-4eec90ffef9db9b364547c4f63200c50]
+## 3. Saving for prohibition notices under section 10 of the Fire Precautions Act 1971[^c-4eec90ffef9db9b364547c4f63200c50]
 
 Notwithstanding the repeal by this Order of section 10 of the Fire Precautions Act 1971[^f00002], a prohibition notice served under subsection (2) of that section shall–
 
 - (a) remain in effect, and
 - (b) be deemed to be, and treated as if it were, a prohibition notice (as defined in subsection (4) of section 63 of the Fire (Scotland) Act 2005) served under that section.
 
-## 4. Saving for regulations under section 12 of the Fire Precautions Act 1971[^key-b001b6be710ea3af94fdb8658a632392]
+## 4. Saving for regulations under section 12 of the Fire Precautions Act 1971[^c-b001b6be710ea3af94fdb8658a632392]
 
 Notwithstanding the repeal by this Order of section 12 of the Fire Precautions Act 1971, the Fire Precautions (Sub-surface Railway Stations) Regulations 1989[^f00003]shall remain in force and shall have effect as if made under section 58 of the Fire (Scotland) Act 2005.
 
@@ -77,15 +77,15 @@ Article 2(1)
 
 ### The Celluloid and Cinematograph Film Act [1922 (c. 35)](https://www.legislation.gov.uk/ukpga/1922/35)
 
-**1.**[^key-1293b910d9d4175670db535021682a9e] In section 2[^f00004] of the Celluloid and Cinematograph Film Act 1922 (purposes to which the Act applies), in paragraph (iv) of the proviso, for the words “the Fire Precautions (Workplace) Regulations 1997” substitute “Part 3 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5)”.
+**1.**[^c-1293b910d9d4175670db535021682a9e] In section 2[^f00004] of the Celluloid and Cinematograph Film Act 1922 (purposes to which the Act applies), in paragraph (iv) of the proviso, for the words “the Fire Precautions (Workplace) Regulations 1997” substitute “Part 3 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5)”.
 
 ### The Pet Animals Act [1951 (c. 35)](https://www.legislation.gov.uk/ukpga/1951/35)
 
-**2.**[^key-04cd75abeeedcf66d77e307e094e3e4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-04cd75abeeedcf66d77e307e094e3e4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Caravan Sites and Control of Development Act [1960 (c. 62)](https://www.legislation.gov.uk/ukpga/1960/62)
 
-**3.**[^key-22533076422070d1cf2f77bf55f96a93] (1) The Caravan Sites and Control of Development Act 1960 is amended as follows.
+**3.**[^c-22533076422070d1cf2f77bf55f96a93] (1) The Caravan Sites and Control of Development Act 1960 is amended as follows.
 
 (2) In section 5 (power of local authority to attach conditions to site licences)–
 
@@ -108,7 +108,7 @@ Article 2(1)
 
 ### The Theatres Act [1968 (c. 54)](https://www.legislation.gov.uk/ukpga/1968/54)
 
-**4.**[^key-659eff706be5d0b815b5acae32412f43] (1) The Theatres Act 1968 is amended as follows.
+**4.**[^c-659eff706be5d0b815b5acae32412f43] (1) The Theatres Act 1968 is amended as follows.
 
 (2) In section 12 (licensing of premises for public performance of plays), after subsection (3) insert–
 
@@ -120,7 +120,7 @@ Article 2(1)
 
 ### The Gaming Act [1968 (c. 65)](https://www.legislation.gov.uk/ukpga/1968/65)
 
-**5.**[^key-36e09e611e21fb89140dec7167f15c08] (1) The Gaming Act 1968 is amended as follows.
+**5.**[^c-36e09e611e21fb89140dec7167f15c08] (1) The Gaming Act 1968 is amended as follows.
 
 (2) In section 43 (rights of entry and related rights), in subsection (9)[^f00006] for the words from “relevant authority” to “(asp 5))” substitute “appropriate fire and rescue authority”.
 
@@ -148,7 +148,7 @@ Article 2(1)
 
 ### The Health and Safety at Work etc. Act [1974 (c. 37)](https://www.legislation.gov.uk/ukpga/1974/37)
 
-**6.**[^key-9b48aab55a9376704b8a2f4df7586ea4] In section 23 of the Health and Safety at Work etc. Act 1974 (supplementary provisions about notices), in subsection (4)[^f00007], for the words from “the authority” to the end of that subsection substitute the following–
+**6.**[^c-9b48aab55a9376704b8a2f4df7586ea4] In section 23 of the Health and Safety at Work etc. Act 1974 (supplementary provisions about notices), in subsection (4)[^f00007], for the words from “the authority” to the end of that subsection substitute the following–
 
 > - (a) where Part 3 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) applies in relation to the premises, the enforcing authority (as defined in section 61(9) of that Act);
 > - (b) in any other case, the relevant authority (as defined in section 6 of that Act) for the area where the premises are (or are to be) situated.
@@ -157,7 +157,7 @@ Article 2(1)
 
 ### The Safety of Sports Grounds Act [1975 (c. 52)](https://www.legislation.gov.uk/ukpga/1975/52)
 
-**7.**[^key-fa1a230036b17809531d13e1c7846cbb] (1) The Safety of Sports Grounds Act 1975 is amended as follows.
+**7.**[^c-fa1a230036b17809531d13e1c7846cbb] (1) The Safety of Sports Grounds Act 1975 is amended as follows.
 
 (2) In section 2 (contents of safety certificates), after subsection (2A)[^f00008] insert–
 
@@ -186,7 +186,7 @@ Article 2(1)
 
 ### The Licensing (Scotland) Act [1976 (c. 66)](https://www.legislation.gov.uk/ukpga/1976/66)
 
-**8.**[^key-1aee83d1844574234ccb13f4cba219cf] (1) The Licensing (Scotland) Act 1976 is amended as follows.
+**8.**[^c-1aee83d1844574234ccb13f4cba219cf] (1) The Licensing (Scotland) Act 1976 is amended as follows.
 
 (2) In subsection (1) of section 16 (objections in relation to applications), in paragraph (e)[^f00009] at the beginning insert “where Part 3 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) applies to the premises, the enforcing authority or, in any other case,”.
 
@@ -226,7 +226,7 @@ Article 2(1)
 
 ### The Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65)
 
-**9.**[^key-038fc415698ac60809240fdab3e14afd] In subsection (1) of section 152 of the Local Government, Planning and Land Act 1980 (fire precautions and home insulation), for paragraph (a)[^f00013] substitute–
+**9.**[^c-038fc415698ac60809240fdab3e14afd] In subsection (1) of section 152 of the Local Government, Planning and Land Act 1980 (fire precautions and home insulation), for paragraph (a)[^f00013] substitute–
 
 > - (a) the functions under Part 3 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) of an enforcing authority (as defined in section 61(9) of that Act);
 
@@ -234,7 +234,7 @@ Article 2(1)
 
 ### The Zoo Licensing Act [1981 (c. 37)](https://www.legislation.gov.uk/ukpga/1981/37)
 
-**10.**[^key-b8a45ed9fdd78c5f57bf0f43e1fedef4] (1) Section 3 of the Zoo Licensing Act 1981 (consideration of application for licence) is amended as follows.
+**10.**[^c-b8a45ed9fdd78c5f57bf0f43e1fedef4] (1) Section 3 of the Zoo Licensing Act 1981 (consideration of application for licence) is amended as follows.
 
 (2) In subsection (2), for paragraph (c)[^f00014] substitute–
 
@@ -255,7 +255,7 @@ Article 2(1)
 
 ### The Civic Government (Scotland) Act [1982 (c. 45)](https://www.legislation.gov.uk/ukpga/1982/45)
 
-**11.**[^key-db12ed3d836c3046bc44b364929986f9] (1) The Civic Government (Scotland) Act 1982 is amended as follows.
+**11.**[^c-db12ed3d836c3046bc44b364929986f9] (1) The Civic Government (Scotland) Act 1982 is amended as follows.
 
 (2) In section 89 (safety of platforms etc.), for subsection (4)[^f00015] substitute–
 
@@ -439,7 +439,7 @@ Article 2(1)
 
 ### The Cinemas Act [1985 (c. 13)](https://www.legislation.gov.uk/ukpga/1985/13)
 
-**12.**[^key-6c6cdc844eb22bf457de7774a0006e2d] (1) The Cinemas Act 1985 is amended as follows.
+**12.**[^c-6c6cdc844eb22bf457de7774a0006e2d] (1) The Cinemas Act 1985 is amended as follows.
 
 (2) In section 1 (licence required for exhibitions)–
 
@@ -493,7 +493,7 @@ Article 2(1)
 
 ### The Fire Safety and Safety of Places of Sport Act [1987 (c. 27)](https://www.legislation.gov.uk/ukpga/1987/27)
 
-**13.**[^key-20b5bf2ec3b31059b0d61993ff538664] (1) The Fire Safety and Safety of Places of Sport Act 1987 is amended as follows.
+**13.**[^c-20b5bf2ec3b31059b0d61993ff538664] (1) The Fire Safety and Safety of Places of Sport Act 1987 is amended as follows.
 
 (2) In section 27 (contents of safety certificates), after subsection (3) insert–
 
@@ -518,7 +518,7 @@ Article 2(1)
 
 ### The Environment and Safety Information Act [1988 (c. 30)](https://www.legislation.gov.uk/ukpga/1988/30)
 
-**14.**[^key-9c9bd68166c42aec773894c9bea03bb7] In the Schedule[^f00027] to the Environment and Safety Information Act 1988 (authorities and statutory provisions), after the entry for the Food and Environment Protection Act 1985 insert the following entry–
+**14.**[^c-9c9bd68166c42aec773894c9bea03bb7] In the Schedule[^f00027] to the Environment and Safety Information Act 1988 (authorities and statutory provisions), after the entry for the Food and Environment Protection Act 1985 insert the following entry–
 
 |  |  |  |  |
 | --- | --- | --- | --- |
@@ -526,7 +526,7 @@ Article 2(1)
 
 ### The Capital Allowances Act [2001 (c. 2)](https://www.legislation.gov.uk/ukpga/2001/2)
 
-**15.**[^key-ec8065a3ba903d5a3ff3bd744460c7a4] In section 29 of the Capital Allowances Act 2001 (allowances for fire safety), after subsection (4) insert–
+**15.**[^c-ec8065a3ba903d5a3ff3bd744460c7a4] In section 29 of the Capital Allowances Act 2001 (allowances for fire safety), after subsection (4) insert–
 
 > (4A) A person takes required fire precautions in respect of premises if–
 >
@@ -537,7 +537,7 @@ Article 2(1)
 
 ### The Gambling Act [2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19)
 
-**16.**[^key-e2ceb9b17179c873bf4671e1513da682] (1) The Gambling Act 2005 is amended as follows.
+**16.**[^c-e2ceb9b17179c873bf4671e1513da682] (1) The Gambling Act 2005 is amended as follows.
 
 (2) In section 157 (responsible authorities) in paragraph (f), for the words from “council” to “(c.39)” substitute “relevant authority as defined in section 6 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5)”.
 
@@ -553,7 +553,7 @@ Article 2(1)
 
 ### The [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1)
 
-**17.**[^key-09c28a64df42cc52909014f3b26536c2] (1) The Housing (Scotland) Act 2006 is amended as follows.
+**17.**[^c-09c28a64df42cc52909014f3b26536c2] (1) The Housing (Scotland) Act 2006 is amended as follows.
 
 (2) In the provisions mentioned in sub-paragraph (3), for the words from “chief” to “rescue” (in each place) substitute “enforcing”.
 
@@ -573,7 +573,7 @@ Article 2(1)
 
 .
 
-## SCHEDULE 2 — REPEALS[^key-8cc4626399e38b8b692787de27d7d621]
+## SCHEDULE 2 — REPEALS[^c-8cc4626399e38b8b692787de27d7d621]
 
 Article 2(2)
 
@@ -618,41 +618,41 @@ Article 4 saves the Fire Precautions (Sub-surface Railway Stations) Regulations 
 
 [^f00001]: Footnote: [2005 asp 5](https://www.legislation.gov.uk/asp/2005/5).
 
-[^key-b6aeb08fe0805782572db1a0d0c63d4e]: Commencement: Art. 1 in force at 1.10.2006 in accordance with art. 1
+[^c-b6aeb08fe0805782572db1a0d0c63d4e]: Commencement: Art. 1 in force at 1.10.2006 in accordance with art. 1
 
-[^key-d9579f88d691816a3819474d3cebe1c3]: Commencement: Art. 2 in force at 1.10.2006 in accordance with art. 1
+[^c-d9579f88d691816a3819474d3cebe1c3]: Commencement: Art. 2 in force at 1.10.2006 in accordance with art. 1
 
-[^key-4eec90ffef9db9b364547c4f63200c50]: Commencement: Art. 3 in force at 1.10.2006 in accordance with art. 1
+[^c-4eec90ffef9db9b364547c4f63200c50]: Commencement: Art. 3 in force at 1.10.2006 in accordance with art. 1
 
 [^f00002]: Footnote: [1971 c. 40](https://www.legislation.gov.uk/ukpga/1971/40).
 
-[^key-b001b6be710ea3af94fdb8658a632392]: Commencement: Art. 4 in force at 1.10.2006 in accordance with art. 1
+[^c-b001b6be710ea3af94fdb8658a632392]: Commencement: Art. 4 in force at 1.10.2006 in accordance with art. 1
 
 [^f00003]: Footnote: S.I. [1989/1401](https://www.legislation.gov.uk/uksi/1989/1401) amended by S.I. [1991/259](https://www.legislation.gov.uk/uksi/1991/259) and [1994/2184](https://www.legislation.gov.uk/uksi/1994/2184).
 
-[^key-1293b910d9d4175670db535021682a9e]: Commencement: Sch. 1 para. 1 in force at 1.10.2006 in accordance with art. 1
+[^c-1293b910d9d4175670db535021682a9e]: Commencement: Sch. 1 para. 1 in force at 1.10.2006 in accordance with art. 1
 
 [^f00004]: Footnote: Section 2 was amended by the Factories Act [1961 (c. 34)](https://www.legislation.gov.uk/ukpga/1961/34), Schedule 6, by the Cinemas Act [1985 (c. 13)](https://www.legislation.gov.uk/ukpga/1985/13), section 24 and Schedule 2, by S.I. [1992/1811](https://www.legislation.gov.uk/uksi/1992/1811) and [2002/2776](https://www.legislation.gov.uk/uksi/2002/2776).
 
-[^key-04cd75abeeedcf66d77e307e094e3e4f]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/2) revoked (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/2)
+[^c-04cd75abeeedcf66d77e307e094e3e4f]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/2) revoked (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/2)
 
-[^key-22533076422070d1cf2f77bf55f96a93]: Commencement: Sch. 1 para. 3 in force at 1.10.2006 in accordance with art. 1
+[^c-22533076422070d1cf2f77bf55f96a93]: Commencement: Sch. 1 para. 3 in force at 1.10.2006 in accordance with art. 1
 
-[^key-659eff706be5d0b815b5acae32412f43]: Commencement: Sch. 1 para. 4 in force at 1.10.2006 in accordance with art. 1
+[^c-659eff706be5d0b815b5acae32412f43]: Commencement: Sch. 1 para. 4 in force at 1.10.2006 in accordance with art. 1
 
-[^key-36e09e611e21fb89140dec7167f15c08]: Commencement: Sch. 1 para. 5 in force at 1.10.2006 in accordance with art. 1
+[^c-36e09e611e21fb89140dec7167f15c08]: Commencement: Sch. 1 para. 5 in force at 1.10.2006 in accordance with art. 1
 
 [^f00006]: Footnote: Subsection (9) was amended by the Gaming (Amendment) Act [1990 (c. 26)](https://www.legislation.gov.uk/ukpga/1990/26), section 1 and the Schedule by [S.S.I. 2005/383](https://www.legislation.gov.uk/ssi/2005/383).
 
-[^key-9b48aab55a9376704b8a2f4df7586ea4]: Commencement: Sch. 1 para. 6 in force at 1.10.2006 in accordance with art. 1
+[^c-9b48aab55a9376704b8a2f4df7586ea4]: Commencement: Sch. 1 para. 6 in force at 1.10.2006 in accordance with art. 1
 
 [^f00007]: Footnote: Subsection (4) was amended by [S.S.I. 2005/383](https://www.legislation.gov.uk/ssi/2005/383).
 
-[^key-fa1a230036b17809531d13e1c7846cbb]: Commencement: Sch. 1 para. 7 in force at 1.10.2006 in accordance with art. 1
+[^c-fa1a230036b17809531d13e1c7846cbb]: Commencement: Sch. 1 para. 7 in force at 1.10.2006 in accordance with art. 1
 
 [^f00008]: Footnote: Subsection (2A) was inserted by the Fire Safety and Safety of Places of Sport Act [1987 (c. 27)](https://www.legislation.gov.uk/ukpga/1987/27), section 21.
 
-[^key-1aee83d1844574234ccb13f4cba219cf]: Commencement: Sch. 1 para. 8 in force at 1.10.2006 in accordance with art. 1
+[^c-1aee83d1844574234ccb13f4cba219cf]: Commencement: Sch. 1 para. 8 in force at 1.10.2006 in accordance with art. 1
 
 [^f00009]: Footnote: Paragraph (e) of section 16(1) was inserted by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c. 40)](https://www.legislation.gov.uk/ukpga/1990/40) Schedule 8, and amended by the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) schedule 3.
 
@@ -662,15 +662,15 @@ Article 4 saves the Fire Precautions (Sub-surface Railway Stations) Regulations 
 
 [^f00012]: Footnote: Subsection (1) of section 24 was amended by the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) schedule 3.
 
-[^key-038fc415698ac60809240fdab3e14afd]: Commencement: Sch. 1 para. 9 in force at 1.10.2006 in accordance with art. 1
+[^c-038fc415698ac60809240fdab3e14afd]: Commencement: Sch. 1 para. 9 in force at 1.10.2006 in accordance with art. 1
 
 [^f00013]: Footnote: Paragraph (a) of section 152(1) was amended by [S.S.I. 2005/383](https://www.legislation.gov.uk/ssi/2005/383).
 
-[^key-b8a45ed9fdd78c5f57bf0f43e1fedef4]: Commencement: Sch. 1 para. 10 in force at 1.10.2006 in accordance with art. 1
+[^c-b8a45ed9fdd78c5f57bf0f43e1fedef4]: Commencement: Sch. 1 para. 10 in force at 1.10.2006 in accordance with art. 1
 
 [^f00014]: Footnote: Paragraph (c) of section 3(2) was amended by [S.S.I. 2005/383](https://www.legislation.gov.uk/ssi/2005/383).
 
-[^key-db12ed3d836c3046bc44b364929986f9]: Commencement: Sch. 1 para. 11 in force at 1.10.2006 in accordance with art. 1
+[^c-db12ed3d836c3046bc44b364929986f9]: Commencement: Sch. 1 para. 11 in force at 1.10.2006 in accordance with art. 1
 
 [^f00015]: Footnote: Subsection (4) was amended by [S.S.I. 2005/383](https://www.legislation.gov.uk/ssi/2005/383).
 
@@ -682,7 +682,7 @@ Article 4 saves the Fire Precautions (Sub-surface Railway Stations) Regulations 
 
 [^f00019]: Footnote: Schedule 2 was amended by the Local Government etc. (Scotland) Act [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), schedule 1, paragraph 129(22) and by [S.S.I. 2005/383](https://www.legislation.gov.uk/ssi/2005/383).
 
-[^key-6c6cdc844eb22bf457de7774a0006e2d]: Commencement: Sch. 1 para. 12 in force at 1.10.2006 in accordance with art. 1
+[^c-6c6cdc844eb22bf457de7774a0006e2d]: Commencement: Sch. 1 para. 12 in force at 1.10.2006 in accordance with art. 1
 
 [^f00020]: Footnote: Subsections (1)(b), (2) and (3) of section 3 were amended by [S.S.I. 2005/383](https://www.legislation.gov.uk/ssi/2005/383).
 
@@ -698,16 +698,16 @@ Article 4 saves the Fire Precautions (Sub-surface Railway Stations) Regulations 
 
 [^f00026]: Footnote: Subsection (1) of section 21 was amended by [S.S.I. 2005/383](https://www.legislation.gov.uk/ssi/2005/383).
 
-[^key-20b5bf2ec3b31059b0d61993ff538664]: Commencement: Sch. 1 para. 13 in force at 1.10.2006 in accordance with art. 1
+[^c-20b5bf2ec3b31059b0d61993ff538664]: Commencement: Sch. 1 para. 13 in force at 1.10.2006 in accordance with art. 1
 
-[^key-9c9bd68166c42aec773894c9bea03bb7]: Commencement: Sch. 1 para. 14 in force at 1.10.2006 in accordance with art. 1
+[^c-9c9bd68166c42aec773894c9bea03bb7]: Commencement: Sch. 1 para. 14 in force at 1.10.2006 in accordance with art. 1
 
 [^f00027]: Footnote: The schedule was amended by [S.S.I. 2005/383](https://www.legislation.gov.uk/ssi/2005/383).
 
-[^key-ec8065a3ba903d5a3ff3bd744460c7a4]: Commencement: Sch. 1 para. 15 in force at 1.10.2006 in accordance with art. 1
+[^c-ec8065a3ba903d5a3ff3bd744460c7a4]: Commencement: Sch. 1 para. 15 in force at 1.10.2006 in accordance with art. 1
 
-[^key-e2ceb9b17179c873bf4671e1513da682]: Commencement: Sch. 1 para. 16 in force at 1.10.2006 in accordance with art. 1
+[^c-e2ceb9b17179c873bf4671e1513da682]: Commencement: Sch. 1 para. 16 in force at 1.10.2006 in accordance with art. 1
 
-[^key-09c28a64df42cc52909014f3b26536c2]: Commencement: Sch. 1 para. 17 in force at 1.10.2006 in accordance with art. 1
+[^c-09c28a64df42cc52909014f3b26536c2]: Commencement: Sch. 1 para. 17 in force at 1.10.2006 in accordance with art. 1
 
-[^key-8cc4626399e38b8b692787de27d7d621]: Commencement: Sch. 2 in force at 1.10.2006 in accordance with art. 1
+[^c-8cc4626399e38b8b692787de27d7d621]: Commencement: Sch. 2 in force at 1.10.2006 in accordance with art. 1

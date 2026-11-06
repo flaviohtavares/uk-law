@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.5. Hearing of application to set aside[^key-e94b22db572d1494405c4afe6d3358c5]
+## 6.5. Hearing of application to set aside[^c-e94b22db572d1494405c4afe6d3358c5]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ A copy of the order shall be sent by the court forthwith to the creditor.
 
 ## Annotations
 
-[^key-e94b22db572d1494405c4afe6d3358c5]: Commencement: [Rule 6.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e94b22db572d1494405c4afe6d3358c5]: Commencement: [Rule 6.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00124]: Marginal citation: \[FORM 6.6\]

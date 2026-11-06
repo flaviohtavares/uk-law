@@ -24,7 +24,7 @@ Article 2
 
 ### General
 
-**1.**[^key-b71310e767cd52fbfcfc6a95bc356d13] In this Schedule–
+**1.**[^c-b71310e767cd52fbfcfc6a95bc356d13] In this Schedule–
 
 - “the Organisation” means the International Mobile Satellite Organisation established by the Convention;
 - “the Convention” means the Convention on the International Mobile Satellite Organisation[^f00009];
@@ -33,9 +33,9 @@ Article 2
 
 ### The Organisation
 
-**2.**[^key-dfc37d05e89c1b404685eccc474c22c1] The Organisation shall have the like inviolability of official archives as, in accordance with the 1961 Convention Articles, is accorded in respect of the official archives of a diplomatic mission.
+**2.**[^c-dfc37d05e89c1b404685eccc474c22c1] The Organisation shall have the like inviolability of official archives as, in accordance with the 1961 Convention Articles, is accorded in respect of the official archives of a diplomatic mission.
 
-**3.**[^key-7d5440e679c0f7c5a25ce03afbc603fb] (1) Within the scope of its official activities the Organisation shall have immunity from suit and legal process except–
+**3.**[^c-7d5440e679c0f7c5a25ce03afbc603fb] (1) Within the scope of its official activities the Organisation shall have immunity from suit and legal process except–
 
 - (a) to the extent that it has waived such immunity in a particular case;
 - (b) in respect of a civil action by a third party for damage arising from an accident caused by a motor vehicle belonging to, or operated on behalf of, the Organisation or in respect of a motor traffic offence involving such a vehicle;
@@ -44,15 +44,15 @@ Article 2
 
 (2) Sub paragraph (1) shall not prevent the taking of such measures as may be permitted by law in relation to the property and assets of the Organisation in so far as they may be temporarily necessary in connection with the prevention and investigation of accidents involving motor vehicles belonging to, or operated on behalf of, the Organisation.
 
-**4.**[^key-f3a1841fbd8318e3e393f530d1d34a98] The Organisation shall have the like relief from non domestic rates on its official premises as, in accordance with Article 23 of the 1961 Convention Articles, is accorded in respect of the premises of a diplomatic mission.
+**4.**[^c-f3a1841fbd8318e3e393f530d1d34a98] The Organisation shall have the like relief from non domestic rates on its official premises as, in accordance with Article 23 of the 1961 Convention Articles, is accorded in respect of the premises of a diplomatic mission.
 
-**5.**[^key-777c544db5a571720cc677be9fa95c31] (1) The Organisation shall have exemption from prohibitions and restrictions on importation or exportation in the case of goods imported or exported by or on behalf of the Organisation and necessary for the exercise of its official activities, and in the case of any publications of the Organisation imported or exported by it within the scope of its official activities.
+**5.**[^c-777c544db5a571720cc677be9fa95c31] (1) The Organisation shall have exemption from prohibitions and restrictions on importation or exportation in the case of goods imported or exported by or on behalf of the Organisation and necessary for the exercise of its official activities, and in the case of any publications of the Organisation imported or exported by it within the scope of its official activities.
 
 (2) Sub-paragraph (1) shall not apply as respects the matters reserved by virtue of Section C5 (import and export control) of Part II of Schedule 5 to the Scotland Act 1998[^f00011].
 
 ### Representatives
 
-**6.**[^key-69248eac5a9a411299af2ea2a387a711] (1) Except in so far as in any particular case such immunity or privilege is waived by the Government of the Member State which they represent, representatives of a Member State of the Organisation shall enjoy–
+**6.**[^c-69248eac5a9a411299af2ea2a387a711] (1) Except in so far as in any particular case such immunity or privilege is waived by the Government of the Member State which they represent, representatives of a Member State of the Organisation shall enjoy–
 
 - (a) immunity from suit and legal process (even after the termination of their mission) in respect of acts, including words written or spoken, done by them in the exercise of their functions;
 - (b) while exercising their functions (and during their journeys to and from the place of meeting), the like inviolability for all their official papers and documents as is accorded to a diplomatic agent; and
@@ -73,7 +73,7 @@ Article 2
 
 ### Director and other officers
 
-**7.**[^key-76c5e24a8e214e322454d2e8bf033b50] (1) Except in so far as in any particular case such immunity is waived by the Assembly of the Organisation, the Director of the Organisation shall enjoy–
+**7.**[^c-76c5e24a8e214e322454d2e8bf033b50] (1) Except in so far as in any particular case such immunity is waived by the Assembly of the Organisation, the Director of the Organisation shall enjoy–
 
 - (a) the like immunity from personal arrest or detention as is accorded to a diplomatic agent; and
 - (b) the like immunity from suit and legal process as is accorded to a diplomatic agent.
@@ -84,7 +84,7 @@ Article 2
 
 (4) Part IV of Schedule 1 to the 1968 Act shall not operate so as to confer any immunity or privilege on the family of the Director.
 
-**8.**[^key-9cb20d2265596060373a58c392d75b25] (1) Except in so far as in any particular case such immunity is waived by the Director of the Organisation or (in the case of the Director) by the Assembly of the Organisation, all officers of the Organisation appointed or recruited for employment with the Organisation and subject to its staff regulations (excluding persons recruited locally and assigned to hourly rates of pay), as well as the Director, shall enjoy the immunity mentioned in sub paragraph (2).
+**8.**[^c-9cb20d2265596060373a58c392d75b25] (1) Except in so far as in any particular case such immunity is waived by the Director of the Organisation or (in the case of the Director) by the Assembly of the Organisation, all officers of the Organisation appointed or recruited for employment with the Organisation and subject to its staff regulations (excluding persons recruited locally and assigned to hourly rates of pay), as well as the Director, shall enjoy the immunity mentioned in sub paragraph (2).
 
 (2) That immunity is immunity from suit and legal process (even after they have left the service of the Organisation) in respect of acts, including words written or spoken, done by them in the exercise of their functions.
 
@@ -92,7 +92,7 @@ Article 2
 
 ### Experts
 
-**9.**[^key-edcb3741d1682eb7f159135f39e2e83f] (1) Except in so far as in any particular case such immunity or privilege is waived by the Director, experts (other than officers of the Organisation) shall, so far as is necessary for the carrying out of their functions (including during journeys made in carrying out their functions and in the course of their missions for the Organisation) enjoy–
+**9.**[^c-edcb3741d1682eb7f159135f39e2e83f] (1) Except in so far as in any particular case such immunity or privilege is waived by the Director, experts (other than officers of the Organisation) shall, so far as is necessary for the carrying out of their functions (including during journeys made in carrying out their functions and in the course of their missions for the Organisation) enjoy–
 
 - (a) immunity from suit and legal process in respect of acts, including words written or spoken, done by them in the exercise of their functions; and
 - (b) while exercising their functions in connection with the Organisation or in carrying out missions for the Organisation, the like inviolability for all their official papers and documents as is accorded to a diplomatic agent.
@@ -101,26 +101,26 @@ Article 2
 
 ## Annotations
 
-[^key-b71310e767cd52fbfcfc6a95bc356d13]: Commencement: Sch. 1 para. 1 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-b71310e767cd52fbfcfc6a95bc356d13]: Commencement: Sch. 1 para. 1 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
 [^f00009]: Footnote: Cmnd. 7722 (as amended by Cm. 3995).
 
 [^f00010]: Footnote: [1964 c. 81](https://www.legislation.gov.uk/ukpga/1964/81).
 
-[^key-dfc37d05e89c1b404685eccc474c22c1]: Commencement: Sch. 1 para. 2 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-dfc37d05e89c1b404685eccc474c22c1]: Commencement: Sch. 1 para. 2 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-7d5440e679c0f7c5a25ce03afbc603fb]: Commencement: Sch. 1 para. 3 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-7d5440e679c0f7c5a25ce03afbc603fb]: Commencement: Sch. 1 para. 3 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-f3a1841fbd8318e3e393f530d1d34a98]: Commencement: Sch. 1 para. 4 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-f3a1841fbd8318e3e393f530d1d34a98]: Commencement: Sch. 1 para. 4 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-777c544db5a571720cc677be9fa95c31]: Commencement: Sch. 1 para. 5 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-777c544db5a571720cc677be9fa95c31]: Commencement: Sch. 1 para. 5 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
 [^f00011]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-69248eac5a9a411299af2ea2a387a711]: Commencement: Sch. 1 para. 6 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-69248eac5a9a411299af2ea2a387a711]: Commencement: Sch. 1 para. 6 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-76c5e24a8e214e322454d2e8bf033b50]: Commencement: Sch. 1 para. 7 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-76c5e24a8e214e322454d2e8bf033b50]: Commencement: Sch. 1 para. 7 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-9cb20d2265596060373a58c392d75b25]: Commencement: Sch. 1 para. 8 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-9cb20d2265596060373a58c392d75b25]: Commencement: Sch. 1 para. 8 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
 
-[^key-edcb3741d1682eb7f159135f39e2e83f]: Commencement: Sch. 1 para. 9 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)
+[^c-edcb3741d1682eb7f159135f39e2e83f]: Commencement: Sch. 1 para. 9 in force at 12.2.2009, see [art. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1)

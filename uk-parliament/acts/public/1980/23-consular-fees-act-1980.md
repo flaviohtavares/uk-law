@@ -33,7 +33,7 @@ An Act to re-enact with amendments so much of the Consular Salaries and Fees Act
 
 \[1st May 1980\][^c737270]
 
-## 1. Fees for doing consular and similar acts.[^c737293][^key-4096750c0dd0211991e598c80c31f10d]
+## 1. Fees for doing consular and similar acts.[^c737293][^c-4096750c0dd0211991e598c80c31f10d]
 
 (1)[^c737294] Her Majesty may, by Order in Council, prescribe the fees to be levied by persons authorised by the Secretary of State to exercise consular functions, or functions in the United Kingdom which correspond with consuler functions, for doing anything in the exercise of such functions.
 
@@ -43,7 +43,7 @@ An Act to re-enact with amendments so much of the Consular Salaries and Fees Act
 
 (4) Copies of or extracts from the table of fees so prescribed shall be exhibited in every office where such fees are levied.
 
-(4A)[^key-6f59f5c781d419ef5e6801cc1e60b7b7] In prescribing a fee under subsection (1) for the doing of a particular thing, Her Majesty in Council may take into account—
+(4A)[^c-6f59f5c781d419ef5e6801cc1e60b7b7] In prescribing a fee under subsection (1) for the doing of a particular thing, Her Majesty in Council may take into account—
 
 - (a) the expenses that will be or have been incurred in doing that thing, both in the circumstances in relation to which the fee is prescribed and in other circumstances;
 - (b) the expenses that will be or have been incurred in doing such other things in the exercise of functions mentioned in that subsection as She thinks fit;
@@ -76,7 +76,7 @@ This Act may be cited as the Consular Fees Act 1980.
 
 [^c737293]: Subordinate legislation: S. 1: for previous exercises of power see Index to Government Orders
 
-[^key-4096750c0dd0211991e598c80c31f10d]: Modification: S. 1 continued (with modifications) (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [ss. 1(3), 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/2)
+[^c-4096750c0dd0211991e598c80c31f10d]: Modification: S. 1 continued (with modifications) (21.1.2011) by [Identity Documents Act 2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40), [ss. 1(3), 14(2)](https://www.legislation.gov.uk/ukpga/2010/40/section/14/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2010/40/schedule/paragraph/2)
 
 [^c737294]: Subordinate legislation: S. 1: s. 1(1) power exercised by [S.I. 1991/996](https://www.legislation.gov.uk/uksi/1991/996)
 
@@ -86,7 +86,7 @@ This Act may be cited as the Consular Fees Act 1980.
 
 [^c737295]: Marginal citation: [1968 c. 18](https://www.legislation.gov.uk/ukpga/1968/18).
 
-[^key-6f59f5c781d419ef5e6801cc1e60b7b7]: Textual amendment: S. 1(4A) - (4C) inserted (30.5.2006) by [Identity Cards Act 2006 (c. 15)](https://www.legislation.gov.uk/ukpga/2006/15), [ss. 36](https://www.legislation.gov.uk/ukpga/2006/15/section/36), [44(5)](https://www.legislation.gov.uk/ukpga/2006/15/section/44/5)
+[^c-6f59f5c781d419ef5e6801cc1e60b7b7]: Textual amendment: S. 1(4A) - (4C) inserted (30.5.2006) by [Identity Cards Act 2006 (c. 15)](https://www.legislation.gov.uk/ukpga/2006/15), [ss. 36](https://www.legislation.gov.uk/ukpga/2006/15/section/36), [44(5)](https://www.legislation.gov.uk/ukpga/2006/15/section/44/5)
 
 [^c737296]: Modification: The text of s. 1(5) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

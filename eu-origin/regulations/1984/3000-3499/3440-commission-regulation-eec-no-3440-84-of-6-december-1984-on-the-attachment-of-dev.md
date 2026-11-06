@@ -223,9 +223,9 @@ It may be attached to the trawl at all edges.
 
 Meshes may be laced together in order to build a trouser codend, by joining lengthwise the upper and lower halves of a codend.
 
-**Article 16.**[^key-b76480ca3cd6f0020b8f46caf7002b51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.**[^c-b76480ca3cd6f0020b8f46caf7002b51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b76480ca3cd6f0020b8f46caf7002b51]...
+[^c-b76480ca3cd6f0020b8f46caf7002b51]...
 
 ## ANNEX — Definitions of certain technical terms, devices or constructions which may normally form an integral part of, or be used in conjunction with, a trawl
 
@@ -277,4 +277,4 @@ Devices such as transducers which are used to provide information about the posi
 
 [^c000004]: Textual amendment: Inserted by [Commission Regulation (EC) No 146/2007 of 15 February 2007 amending Regulation (EEC) No 3440/84 as regards conditions for certain trawls for vessels operating pump aboard systems](https://www.legislation.gov.uk/eur/2007/146).
 
-[^key-b76480ca3cd6f0020b8f46caf7002b51]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/eur/1984/3440/article/16) and following words in Signature omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b76480ca3cd6f0020b8f46caf7002b51]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/eur/1984/3440/article/16) and following words in Signature omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Variation of notices under sections 82 and 84[^key-78600fce772187e6132e66a801f44bd8]
+## 85. Variation of notices under sections 82 and 84[^c-78600fce772187e6132e66a801f44bd8]
 
 *Extent: E+W+S*
 
 (1) The persons to whom a notice is given under subsection (11) of section 82 or subsection (2) of section 84 may agree to vary or set aside the notice.
 
-(2) The OGA[^key-0f1d55b2ca6e081c08380a764c9104ff] may vary a notice under subsection (11) of section 82 or subsection (2) of section 84 on the application of one of the persons to whom the notice was given.
+(2) The OGA[^c-0f1d55b2ca6e081c08380a764c9104ff] may vary a notice under subsection (11) of section 82 or subsection (2) of section 84 on the application of one of the persons to whom the notice was given.
 
 (3) But the OGA may do so only if satisfied that the variation is necessary to resolve a dispute that has arisen in connection with the notice between the persons to whom it was given.
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78600fce772187e6132e66a801f44bd8]: Commencement: S. 85 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
+[^c-78600fce772187e6132e66a801f44bd8]: Commencement: S. 85 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
 
-[^key-0f1d55b2ca6e081c08380a764c9104ff]: Textual amendment: Words in s. 85 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 67](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/67); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-0f1d55b2ca6e081c08380a764c9104ff]: Textual amendment: Words in s. 85 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 67](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/67); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

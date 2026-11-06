@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 245. Exercise of powers in relation to Crown land.[^key-ae782f99e07a4b02d782058a30b764e2]
+## 245. Exercise of powers in relation to Crown land.[^c-ae782f99e07a4b02d782058a30b764e2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae782f99e07a4b02d782058a30b764e2]: Textual amendment: S. 245 repealed (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 94(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/94/1), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)(e)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b/e)
+[^c-ae782f99e07a4b02d782058a30b764e2]: Textual amendment: S. 245 repealed (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 94(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/94/1), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)(e)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b/e)

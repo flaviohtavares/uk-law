@@ -29,7 +29,7 @@ summary: ''
 - (c) Part V,
 - (d) Part VI, apart from sections 58 to 60,
 - (e) Parts VII and VIII,
-- (ea)[^key-167172e10583989b6dd37a35f357fbc8] Part 8B,
+- (ea)[^c-167172e10583989b6dd37a35f357fbc8] Part 8B,
 - (f) in Part IX, sections 92 and 93, and
 - (g) Parts X to XII.
 
@@ -59,7 +59,7 @@ as the Secretary of State may by regulations provide.
 
 ## Annotations
 
-[^key-167172e10583989b6dd37a35f357fbc8]: Textual amendment: S. 206(2)(ea) inserted (4.12.2023) by [Carer’s Leave Act 2023 (c. 18)](https://www.legislation.gov.uk/ukpga/2023/18), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/18/section/3/3), [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2023/18/schedule/paragraph/16); [S.I. 2023/1283](https://www.legislation.gov.uk/uksi/2023/1283), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1283/regulation/2)
+[^c-167172e10583989b6dd37a35f357fbc8]: Textual amendment: S. 206(2)(ea) inserted (4.12.2023) by [Carer’s Leave Act 2023 (c. 18)](https://www.legislation.gov.uk/ukpga/2023/18), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/18/section/3/3), [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2023/18/schedule/paragraph/16); [S.I. 2023/1283](https://www.legislation.gov.uk/uksi/2023/1283), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1283/regulation/2)
 
 [^c16336311]: Textual amendment: Words in s. 206(4)(6) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 

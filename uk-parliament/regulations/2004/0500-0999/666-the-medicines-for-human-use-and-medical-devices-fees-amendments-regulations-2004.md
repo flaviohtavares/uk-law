@@ -97,51 +97,51 @@ In regulation 3 of the Devices Regulations [^c5310381] (fees)—
 - (i) in paragraph (5)(a), for “£36,126” substitute “ £36,560 ”; and
 - (j) in paragraph (5)(b), for “£8,969” substitute “ £9,077 ”.
 
-## 4. Amendment of regulation 2 of the General Fees Regulations[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]
+## 4. Amendment of regulation 2 of the General Fees Regulations[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Part IA of the General Fees Regulations[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]
+## 5. Amendment of Part IA of the General Fees Regulations[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 4 of the General Fees Regulations[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]
+## 6. Amendment of regulation 4 of the General Fees Regulations[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 5 of the General Fees Regulations[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]
+## 7. Amendment of regulation 5 of the General Fees Regulations[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 7 of the General Fees Regulations[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]
+## 8. Amendment of regulation 7 of the General Fees Regulations[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 8 of the General Fees Regulations[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]
+## 9. Amendment of regulation 8 of the General Fees Regulations[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 13 of the General Fees Regulations[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]
+## 10. Amendment of regulation 13 of the General Fees Regulations[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of Part VII of the General Fees Regulations[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]
+## 11. Amendment of Part VII of the General Fees Regulations[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of Part I of Schedule 1 to the General Fees Regulations[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]
+## 12. Amendment of Part I of Schedule 1 to the General Fees Regulations[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of Schedule 2 to the General Fees Regulations[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]
+## 13. Amendment of Schedule 2 to the General Fees Regulations[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of Schedule 5 to the General Fees Regulations[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]
+## 14. Amendment of Schedule 5 to the General Fees Regulations[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Amendment of the General Fees Regulations[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]
+## 15. Amendment of the General Fees Regulations[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -177,11 +177,11 @@ Nick Ainger
 
 Two of the Lords Commissioners of Her Majesty’s Treasury
 
-## SCHEDULE[^key-42bec038b3358b21fd23926328589f8e]
+## SCHEDULE[^c-42bec038b3358b21fd23926328589f8e]
 
 Regulation 15
 
-[^key-42bec038b3358b21fd23926328589f8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42bec038b3358b21fd23926328589f8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -233,6 +233,6 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^c5310381]: Marginal citation: As amended by regulation 3 of [S.I. 2003/625](https://www.legislation.gov.uk/uksi/2003/625).
 
-[^key-7d6b0b4bf3c6cecc0d484fcae798f3d3]: Textual amendment: Regs. 4-15 revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
+[^c-7d6b0b4bf3c6cecc0d484fcae798f3d3]: Textual amendment: Regs. 4-15 revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
 
-[^key-42bec038b3358b21fd23926328589f8e]: Textual amendment: Sch. revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
+[^c-42bec038b3358b21fd23926328589f8e]: Textual amendment: Sch. revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))

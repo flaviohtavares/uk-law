@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25DA. Operating an organised trading facility[^key-3386a24eb5a02ce48119dad9c76f3944]
+## 25DA. Operating an organised trading facility[^c-3386a24eb5a02ce48119dad9c76f3944]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ that is a bond, a structured finance product (within the meaning of Article 2.1.
 
 ## Annotations
 
-[^key-3386a24eb5a02ce48119dad9c76f3944]: Textual amendment: Art. 25DA inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [3](https://www.legislation.gov.uk/uksi/2017/488/article/3)
+[^c-3386a24eb5a02ce48119dad9c76f3944]: Textual amendment: Art. 25DA inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [3](https://www.legislation.gov.uk/uksi/2017/488/article/3)
 
 [^M_F_f779a2d6-191d-4904-da1e-db795fc1467d]: Textual amendment: [Art. 25DA(1A)](https://www.legislation.gov.uk/uksi/2001/544/article/25DA/1A) inserted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [46(4)](https://www.legislation.gov.uk/uksi/2024/105/regulation/46/4) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))

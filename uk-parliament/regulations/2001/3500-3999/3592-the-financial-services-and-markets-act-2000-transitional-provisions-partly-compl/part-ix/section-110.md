@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Decisions taken by the Authority giving effect to Financial Services Tribunal recommendations[^key-40f49395387af61dd2d833ca47575989]
+## 110. Decisions taken by the Authority giving effect to Financial Services Tribunal recommendations[^c-40f49395387af61dd2d833ca47575989]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40f49395387af61dd2d833ca47575989]: Commencement: Art. 110 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-40f49395387af61dd2d833ca47575989]: Commencement: Art. 110 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Inquiries by registration officer[^key-8605683d63b4050a2fe1c6ab30d8d24e]
+## 79. Inquiries by registration officer[^c-8605683d63b4050a2fe1c6ab30d8d24e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the registration officer must make the inquiries referred to not later than thre
 
 ## Annotations
 
-[^key-8605683d63b4050a2fe1c6ab30d8d24e]: Commencement: Reg. 79 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-8605683d63b4050a2fe1c6ab30d8d24e]: Commencement: Reg. 79 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

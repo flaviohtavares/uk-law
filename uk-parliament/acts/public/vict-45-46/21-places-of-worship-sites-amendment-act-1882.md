@@ -40,7 +40,7 @@ The [^c570245]Places of Worship Sites Act 1873 shall be construed as extending t
 - (a) An Ecclesiastical corporation sole, being below the dignity of a Bishop, shall not make any such grant without the consent in writing of the Bishop of the diocese to whose jurisdiction he is subject:
 - (b) A municipal corporation shall not make any such grant without the consent in writing of the Secretary of State[^c570246]:
 - (c) Parochial property shall not be so granted without the consent of [^c570247]. . . the Secretary of State[^c570248] [^c570247]. . . :
-- (d) Property held on trust for charitable purposes shall not be so granted except with the consent of the Charity Commission or in accordance with such provisions of sections 117(2) and 119 to 121 of the Charities Act 2011 as are applicable[^key-b073163fd8d2ffcdd87c298ec3ab171f].
+- (d) Property held on trust for charitable purposes shall not be so granted except with the consent of the Charity Commission or in accordance with such provisions of sections 117(2) and 119 to 121 of the Charities Act 2011 as are applicable[^c-b073163fd8d2ffcdd87c298ec3ab171f].
 
 ## 2. Power for limited owner in case of unborn or unascertained remainderman to convey, &c.
 
@@ -64,4 +64,4 @@ This Act may be cited as the Places of Worship Sites Amendment Act 1882.
 
 [^c570248]: Textual amendment: Words substituted by virtue of [S.I. 1965/319](https://www.legislation.gov.uk/uksi/1965/319), [art 2(1)](https://www.legislation.gov.uk/uksi/1965/319/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1965/319/schedule/1/part/I) and 1970/1681, art. 2
 
-[^key-b073163fd8d2ffcdd87c298ec3ab171f]: Textual amendment: Words in s. 1(d) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/6) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-b073163fd8d2ffcdd87c298ec3ab171f]: Textual amendment: Words in s. 1(d) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/6) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

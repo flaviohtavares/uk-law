@@ -112,7 +112,7 @@ Schedule 4 contains provision about expenses and allowances paid to members of t
 
 Schedule 5 contains amendments of sections 311, 312 and 599A of CTA 2009 (loan relationships and derivative contracts: treatment of amounts not fully recognised for accounting purposes).
 
-#### 9. Insurance companies: business transfers involving excess assets[^key-bd10580730792ce3cf8d6539442a3750]
+#### 9. Insurance companies: business transfers involving excess assets[^c-bd10580730792ce3cf8d6539442a3750]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -831,7 +831,7 @@ Section 8
 
 [^c2123956]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2010/31/section/6) omitted (with effect as mentioned in Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 65](https://www.legislation.gov.uk/ukpga/2011/11/section/65), [Sch. 16 para. 84(e)(i)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/e/i)
 
-[^key-bd10580730792ce3cf8d6539442a3750]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2010/31/section/9) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(v)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/v)
+[^c-bd10580730792ce3cf8d6539442a3750]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2010/31/section/9) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(v)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/v)
 
 [^c2124023]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/2010/31/schedule/3) omitted (with effect as mentioned in Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 65](https://www.legislation.gov.uk/ukpga/2011/11/section/65), [Sch. 16 para. 84(e)(ii)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/e/ii)
 

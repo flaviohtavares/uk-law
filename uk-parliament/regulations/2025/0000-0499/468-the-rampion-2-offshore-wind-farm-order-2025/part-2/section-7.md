@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Interaction with the Rampion Offshore Wind Farm Order 2014[^key-f4a687c28814b9fa1069473cf2860cc3]
+## 7. Interaction with the Rampion Offshore Wind Farm Order 2014[^c-f4a687c28814b9fa1069473cf2860cc3]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4a687c28814b9fa1069473cf2860cc3]: Commencement: Art. 7 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-f4a687c28814b9fa1069473cf2860cc3]: Commencement: Art. 7 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
 [^f00032]: Footnote: [S.I. 2014/1873](https://www.legislation.gov.uk/uksi/2014/1873).

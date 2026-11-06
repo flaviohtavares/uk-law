@@ -22,7 +22,7 @@ summary: ''
 
 Section 229
 
-### 1. Introductory[^key-043d575bf2f596905ee8d9d4e6ebb5a5][^key-36aaed89745338e31bdd9ab7ac5ee5cc]
+### 1. Introductory[^c-043d575bf2f596905ee8d9d4e6ebb5a5][^c-36aaed89745338e31bdd9ab7ac5ee5cc]
 
 In this Schedule—
 
@@ -30,13 +30,13 @@ In this Schedule—
 - (b) “**the commencement date**” means the date on which this Schedule comes into force;
 - (c) “**pavement licence**” means a licence under section 1 of the 2020 Act.
 
-### 2. Making pavement licence provisions permanent[^key-fcd0f730d934e241e72b1c0f4fe34667][^key-ddaeef308caee4ef59c4d59ada933339]
+### 2. Making pavement licence provisions permanent[^c-fcd0f730d934e241e72b1c0f4fe34667][^c-ddaeef308caee4ef59c4d59ada933339]
 
 (1) Omit section 10 of the 2020 Act (expiry).
 
 (2) In section 23 of the 2020 Act (regulations), in subsection (4), omit “10,”.
 
-### 3. Applications: fees[^key-5772352e9f3b7f1c95eff87dbf1f104b][^key-859763aab5adfafa97e63de14e2504ba]
+### 3. Applications: fees[^c-5772352e9f3b7f1c95eff87dbf1f104b][^c-859763aab5adfafa97e63de14e2504ba]
 
 (1) Section 2 of the 2020 Act (applications) is amended as follows.
 
@@ -53,9 +53,9 @@ In this Schedule—
 >
 > (1B) The Secretary of State may by regulations amend subsection (1A)(a) or (b) so as to substitute a different amount for the amount for the time being specified there.
 
-**4.**[^key-0e70af6c3296c90f6135da91b7082b1c][^key-4a35dc85a26d0764c3c54455ccf27f92] In section 23 of the 2020 Act (regulations), in subsection (3), after “section” insert “2(1B) or”.
+**4.**[^c-0e70af6c3296c90f6135da91b7082b1c][^c-4a35dc85a26d0764c3c54455ccf27f92] In section 23 of the 2020 Act (regulations), in subsection (3), after “section” insert “2(1B) or”.
 
-### 5. Applications: procedure on renewals[^key-a401b4aecf7bae4d0db654e7e820eb23][^key-48af0dbfc900d8c2690fd313f43fb9d4]
+### 5. Applications: procedure on renewals[^c-a401b4aecf7bae4d0db654e7e820eb23][^c-48af0dbfc900d8c2690fd313f43fb9d4]
 
 (1) Section 2 of the 2020 Act (applications) is amended as follows.
 
@@ -74,13 +74,13 @@ In this Schedule—
 > - (b) it is in respect of the premises to which the existing licence relates, and
 > - (c) it is for a licence to begin on the expiry of the existing licence and on the same terms.
 
-### 6. Applications: periods for consultation and determination[^key-a4be4994d9d6ff4c7212c2f0ce6cc33a][^key-f9f15849f0ac35b73d815f4018ac98ff]
+### 6. Applications: periods for consultation and determination[^c-a4be4994d9d6ff4c7212c2f0ce6cc33a][^c-f9f15849f0ac35b73d815f4018ac98ff]
 
 In section 2 of the 2020 Act (applications), in subsection (4), for “7” substitute “14”.
 
-**7.**[^key-a72fd10134a9e7eee08c30554f51787a][^key-b1ad57eade34506a585a6a8e52375b21] In section 3 of the 2020 Act (determination), in subsection (10), for “7” substitute “14”.
+**7.**[^c-a72fd10134a9e7eee08c30554f51787a][^c-b1ad57eade34506a585a6a8e52375b21] In section 3 of the 2020 Act (determination), in subsection (10), for “7” substitute “14”.
 
-### 8. Duration of licences[^key-ce5452db1743b063b4f2d564d2841476][^key-bff442e0359a5821500f929af5721d3f]
+### 8. Duration of licences[^c-ce5452db1743b063b4f2d564d2841476][^c-bff442e0359a5821500f929af5721d3f]
 
 (1) Section 4 of the 2020 Act (duration) is amended as follows.
 
@@ -97,7 +97,7 @@ In section 2 of the 2020 Act (applications), in subsection (4), for “7” subs
 
 (4) Omit subsection (4).
 
-### 9. Enforcement of licences[^key-c11916dce16b4689eb4a16e3ee9345e5][^key-cdb5eb01d7e2b7fa40a4ab38b5fc9bb8]
+### 9. Enforcement of licences[^c-c11916dce16b4689eb4a16e3ee9345e5][^c-cdb5eb01d7e2b7fa40a4ab38b5fc9bb8]
 
 In section 6 of the 2020 Act (enforcement and revocation), after subsection (3) insert—
 
@@ -106,14 +106,14 @@ In section 6 of the 2020 Act (enforcement and revocation), after subsection (3) 
 > - (a) the condition in subsection (3)(a) or (b) is met, or
 > - (b) a no-obstruction condition of the licence is not being complied with.
 
-### 10. Effect of licences[^key-579f67e263b7e1c2597cdb2c8e43520d][^key-ae1b84b39eba2ca980ebd18b71a833e7]
+### 10. Effect of licences[^c-579f67e263b7e1c2597cdb2c8e43520d][^c-ae1b84b39eba2ca980ebd18b71a833e7]
 
 In section 7 of the 2020 Act (effects), omit—
 
 - (a) subsections (4) to (6);
 - (b) subsections (8) to (10).
 
-**11.**[^key-e0b1c1c155696a0dfc67782794068d4a][^key-195debd4db8d7a2dbef187d79cd6b855] (1) Section 115E of the Highways Act 1980 (execution of works etc by persons other than councils) is amended as follows.
+**11.**[^c-e0b1c1c155696a0dfc67782794068d4a][^c-195debd4db8d7a2dbef187d79cd6b855] (1) Section 115E of the Highways Act 1980 (execution of works etc by persons other than councils) is amended as follows.
 
 (2) In subsection (1), for “(4)” substitute “(5)”.
 
@@ -121,9 +121,9 @@ In section 7 of the 2020 Act (effects), omit—
 
 > (5) A council may not under this section grant a person permission to do anything which is capable of being authorised by a pavement licence under section 1 of the Business and Planning Act 2020.
 
-**12.**[^key-e6bc8f4af472e92f2912b33191fea693][^key-082c14d3a30c9a9e9b507192890fe20c] In section 249 of the Town and Country Planning Act 1990 (order extinguishing right to use vehicles on highway), in subsection (7), at the end insert “or sections 1 to 9 of the Business and Planning Act 2020”.
+**12.**[^c-e6bc8f4af472e92f2912b33191fea693][^c-082c14d3a30c9a9e9b507192890fe20c] In section 249 of the Town and Country Planning Act 1990 (order extinguishing right to use vehicles on highway), in subsection (7), at the end insert “or sections 1 to 9 of the Business and Planning Act 2020”.
 
-### 13. Enforcement[^key-a2f3d18bab6be75d3ce29c144ccb7c61][^key-2370ae9ec4a3d7411a0788e4cef58879]
+### 13. Enforcement[^c-a2f3d18bab6be75d3ce29c144ccb7c61][^c-2370ae9ec4a3d7411a0788e4cef58879]
 
 After section 7 of the 2020 Act insert—
 
@@ -161,11 +161,11 @@ After section 7 of the 2020 Act insert—
 > - (b) permission under Part 7A of the Highways Act 1980, or
 > - (c) permission granted under any other enactment.
 
-### 14. Local authority functions[^key-6cafdd2c411878e462f22b78b6fe6a04][^key-a871b0c36b53eeade7dd6bea42e52af0]
+### 14. Local authority functions[^c-6cafdd2c411878e462f22b78b6fe6a04][^c-a871b0c36b53eeade7dd6bea42e52af0]
 
 In section 8 of the 2020 Act, omit subsection (2).
 
-**15.**[^key-f06cbdae70d31966a8b50384788442a6][^key-dce7828297e90eca18406d56dc8d558c] In Schedule 1 to the Local Authorities (Functions and Responsibilities) (England) Regulations 2000 ([S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853)) (functions which are not to be the responsibility of an authority’s executive), in paragraph B, after item 72 insert—
+**15.**[^c-f06cbdae70d31966a8b50384788442a6][^c-dce7828297e90eca18406d56dc8d558c] In Schedule 1 to the Local Authorities (Functions and Responsibilities) (England) Regulations 2000 ([S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853)) (functions which are not to be the responsibility of an authority’s executive), in paragraph B, after item 72 insert—
 
 > |  |  |
 > | --- | --- |
@@ -173,13 +173,13 @@ In section 8 of the 2020 Act, omit subsection (2).
 
 .
 
-### 16. Other amendments[^key-4898dd01a489126d0dd7b4332bd50502][^key-a53a94ac74a1a486770530248e199e3c]
+### 16. Other amendments[^c-4898dd01a489126d0dd7b4332bd50502][^c-a53a94ac74a1a486770530248e199e3c]
 
 In section 9 of the 2020 Act (interpretation), omit subsections (2) and (3) (which are spent).
 
-**17.**[^key-ae7c09e3a7466c931b0b311222165733][^key-50746f2b38547513c212a421b2aee220] In section 62 of the Anti-social Behaviour, Crime and Policing Act 2014 (premises etc to which alcohol prohibition in a public spaces protection order does not apply), in subsection (1)(e), at the end insert “or by virtue of a pavement licence under section 1 of the Business and Planning Act 2020”.
+**17.**[^c-ae7c09e3a7466c931b0b311222165733][^c-50746f2b38547513c212a421b2aee220] In section 62 of the Anti-social Behaviour, Crime and Policing Act 2014 (premises etc to which alcohol prohibition in a public spaces protection order does not apply), in subsection (1)(e), at the end insert “or by virtue of a pavement licence under section 1 of the Business and Planning Act 2020”.
 
-### 18. Transitional provision[^key-5df413caab9093230f4feb7265cfc874][^key-f2e904d604e5d8787b4652bb0e18caa3]
+### 18. Transitional provision[^c-5df413caab9093230f4feb7265cfc874][^c-f2e904d604e5d8787b4652bb0e18caa3]
 
 (1) This paragraph applies in relation to a pavement licence which is in force immediately before the commencement date and which—
 
@@ -188,82 +188,82 @@ In section 9 of the 2020 Act (interpretation), omit subsections (2) and (3) (whi
 
 (2) A pavement licence to which this paragraph applies expires at the end of the period of two years beginning with the commencement date.
 
-**19.**[^key-2a255ba2afadc36e251791da560b5c99][^key-556cbca634843f3f41c5ffc8611ef3e6] The amendments made by paragraph 11 do not affect any permission granted by a council under section 115E of the Highways Act 1980 before the commencement date.
+**19.**[^c-2a255ba2afadc36e251791da560b5c99][^c-556cbca634843f3f41c5ffc8611ef3e6] The amendments made by paragraph 11 do not affect any permission granted by a council under section 115E of the Highways Act 1980 before the commencement date.
 
 ## Annotations
 
-[^key-043d575bf2f596905ee8d9d4e6ebb5a5]: Commencement: Sch. 22 para. 1 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-043d575bf2f596905ee8d9d4e6ebb5a5]: Commencement: Sch. 22 para. 1 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-36aaed89745338e31bdd9ab7ac5ee5cc]: Commencement: [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/1) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-36aaed89745338e31bdd9ab7ac5ee5cc]: Commencement: [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/1) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-fcd0f730d934e241e72b1c0f4fe34667]: Commencement: Sch. 22 para. 2 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-fcd0f730d934e241e72b1c0f4fe34667]: Commencement: Sch. 22 para. 2 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-ddaeef308caee4ef59c4d59ada933339]: Commencement: [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/2) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-ddaeef308caee4ef59c4d59ada933339]: Commencement: [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/2) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-5772352e9f3b7f1c95eff87dbf1f104b]: Commencement: Sch. 22 para. 3 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-5772352e9f3b7f1c95eff87dbf1f104b]: Commencement: Sch. 22 para. 3 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-859763aab5adfafa97e63de14e2504ba]: Commencement: [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/3) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
+[^c-859763aab5adfafa97e63de14e2504ba]: Commencement: [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/3) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
 
-[^key-0e70af6c3296c90f6135da91b7082b1c]: Commencement: Sch. 22 para. 4 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-0e70af6c3296c90f6135da91b7082b1c]: Commencement: Sch. 22 para. 4 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-4a35dc85a26d0764c3c54455ccf27f92]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/4) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-4a35dc85a26d0764c3c54455ccf27f92]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/4) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-a401b4aecf7bae4d0db654e7e820eb23]: Commencement: Sch. 22 para. 5 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-a401b4aecf7bae4d0db654e7e820eb23]: Commencement: Sch. 22 para. 5 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-48af0dbfc900d8c2690fd313f43fb9d4]: Commencement: [Sch. 22 para. 5](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/5) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-48af0dbfc900d8c2690fd313f43fb9d4]: Commencement: [Sch. 22 para. 5](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/5) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-a4be4994d9d6ff4c7212c2f0ce6cc33a]: Commencement: Sch. 22 para. 6 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-a4be4994d9d6ff4c7212c2f0ce6cc33a]: Commencement: Sch. 22 para. 6 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-f9f15849f0ac35b73d815f4018ac98ff]: Commencement: [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/6) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
+[^c-f9f15849f0ac35b73d815f4018ac98ff]: Commencement: [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/6) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
 
-[^key-a72fd10134a9e7eee08c30554f51787a]: Commencement: Sch. 22 para. 7 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-a72fd10134a9e7eee08c30554f51787a]: Commencement: Sch. 22 para. 7 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-b1ad57eade34506a585a6a8e52375b21]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/7) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
+[^c-b1ad57eade34506a585a6a8e52375b21]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/7) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/1))
 
-[^key-ce5452db1743b063b4f2d564d2841476]: Commencement: Sch. 22 para. 8 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-ce5452db1743b063b4f2d564d2841476]: Commencement: Sch. 22 para. 8 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-bff442e0359a5821500f929af5721d3f]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/8) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-bff442e0359a5821500f929af5721d3f]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/8) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-c11916dce16b4689eb4a16e3ee9345e5]: Commencement: Sch. 22 para. 9 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-c11916dce16b4689eb4a16e3ee9345e5]: Commencement: Sch. 22 para. 9 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-cdb5eb01d7e2b7fa40a4ab38b5fc9bb8]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/9) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-cdb5eb01d7e2b7fa40a4ab38b5fc9bb8]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/9) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-579f67e263b7e1c2597cdb2c8e43520d]: Commencement: Sch. 22 para. 10 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-579f67e263b7e1c2597cdb2c8e43520d]: Commencement: Sch. 22 para. 10 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-ae1b84b39eba2ca980ebd18b71a833e7]: Commencement: [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/10) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/2))
+[^c-ae1b84b39eba2ca980ebd18b71a833e7]: Commencement: [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/10) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2024/389/regulation/5/2))
 
-[^key-e0b1c1c155696a0dfc67782794068d4a]: Commencement: Sch. 22 para. 11 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-e0b1c1c155696a0dfc67782794068d4a]: Commencement: Sch. 22 para. 11 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-195debd4db8d7a2dbef187d79cd6b855]: Commencement: [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/11) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-195debd4db8d7a2dbef187d79cd6b855]: Commencement: [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/11) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-e6bc8f4af472e92f2912b33191fea693]: Commencement: Sch. 22 para. 12 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-e6bc8f4af472e92f2912b33191fea693]: Commencement: Sch. 22 para. 12 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-082c14d3a30c9a9e9b507192890fe20c]: Commencement: [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/12) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-082c14d3a30c9a9e9b507192890fe20c]: Commencement: [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/12) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-a2f3d18bab6be75d3ce29c144ccb7c61]: Commencement: Sch. 22 para. 13 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-a2f3d18bab6be75d3ce29c144ccb7c61]: Commencement: Sch. 22 para. 13 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-2370ae9ec4a3d7411a0788e4cef58879]: Commencement: [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/13) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-2370ae9ec4a3d7411a0788e4cef58879]: Commencement: [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/13) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-6cafdd2c411878e462f22b78b6fe6a04]: Commencement: Sch. 22 para. 14 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-6cafdd2c411878e462f22b78b6fe6a04]: Commencement: Sch. 22 para. 14 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-a871b0c36b53eeade7dd6bea42e52af0]: Commencement: [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/14) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-a871b0c36b53eeade7dd6bea42e52af0]: Commencement: [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/14) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-f06cbdae70d31966a8b50384788442a6]: Commencement: Sch. 22 para. 15 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-f06cbdae70d31966a8b50384788442a6]: Commencement: Sch. 22 para. 15 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-dce7828297e90eca18406d56dc8d558c]: Commencement: [Sch. 22 para. 15](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/15) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-dce7828297e90eca18406d56dc8d558c]: Commencement: [Sch. 22 para. 15](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/15) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-4898dd01a489126d0dd7b4332bd50502]: Commencement: Sch. 22 para. 16 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-4898dd01a489126d0dd7b4332bd50502]: Commencement: Sch. 22 para. 16 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-a53a94ac74a1a486770530248e199e3c]: Commencement: [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/16) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-a53a94ac74a1a486770530248e199e3c]: Commencement: [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/16) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-ae7c09e3a7466c931b0b311222165733]: Commencement: Sch. 22 para. 17 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-ae7c09e3a7466c931b0b311222165733]: Commencement: Sch. 22 para. 17 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-50746f2b38547513c212a421b2aee220]: Commencement: [Sch. 22 para. 17](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/17) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-50746f2b38547513c212a421b2aee220]: Commencement: [Sch. 22 para. 17](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/17) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-5df413caab9093230f4feb7265cfc874]: Commencement: Sch. 22 para. 18 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-5df413caab9093230f4feb7265cfc874]: Commencement: Sch. 22 para. 18 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-f2e904d604e5d8787b4652bb0e18caa3]: Commencement: [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/18) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-f2e904d604e5d8787b4652bb0e18caa3]: Commencement: [Sch. 22 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/18) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
 
-[^key-2a255ba2afadc36e251791da560b5c99]: Commencement: Sch. 22 para. 19 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-2a255ba2afadc36e251791da560b5c99]: Commencement: Sch. 22 para. 19 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-556cbca634843f3f41c5ffc8611ef3e6]: Commencement: [Sch. 22 para. 19](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/19) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)
+[^c-556cbca634843f3f41c5ffc8611ef3e6]: Commencement: [Sch. 22 para. 19](https://www.legislation.gov.uk/ukpga/2023/55/schedule/22/paragraph/19) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/u)

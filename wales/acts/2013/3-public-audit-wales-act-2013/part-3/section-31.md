@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Directions[^key-f2acd207cbeabfc85e338ef094903b7d]
+## 31. Directions[^c-f2acd207cbeabfc85e338ef094903b7d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2acd207cbeabfc85e338ef094903b7d]: Commencement: S. 31 in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(r)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/r)
+[^c-f2acd207cbeabfc85e338ef094903b7d]: Commencement: S. 31 in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(r)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/r)

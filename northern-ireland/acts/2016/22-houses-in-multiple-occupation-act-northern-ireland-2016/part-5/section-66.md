@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Fixed penalty: power to alter amounts[^key-c1195e5d47859349ad3d26197595ea93]
+## 66. Fixed penalty: power to alter amounts[^c-c1195e5d47859349ad3d26197595ea93]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1195e5d47859349ad3d26197595ea93]: Commencement: [S. 66](https://www.legislation.gov.uk/nia/2016/22/section/66) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-c1195e5d47859349ad3d26197595ea93]: Commencement: [S. 66](https://www.legislation.gov.uk/nia/2016/22/section/66) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

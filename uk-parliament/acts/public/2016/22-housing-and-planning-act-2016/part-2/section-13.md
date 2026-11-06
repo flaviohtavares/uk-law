@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Introduction to this Part[^key-105d5e8302ad3c1845b1e9e1471d93e2]
+## 13. Introduction to this Part[^c-105d5e8302ad3c1845b1e9e1471d93e2]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-105d5e8302ad3c1845b1e9e1471d93e2]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/22/section/13) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-105d5e8302ad3c1845b1e9e1471d93e2]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/22/section/13) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

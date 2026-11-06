@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Identifying key heat network assets[^key-4d174c1701a19a54dd3d9b6f75da6297]
+## 84. Identifying key heat network assets[^c-4d174c1701a19a54dd3d9b6f75da6297]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d174c1701a19a54dd3d9b6f75da6297]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2021/9/section/84) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-4d174c1701a19a54dd3d9b6f75da6297]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2021/9/section/84) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

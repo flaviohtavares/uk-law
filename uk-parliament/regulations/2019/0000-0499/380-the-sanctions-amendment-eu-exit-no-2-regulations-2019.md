@@ -51,13 +51,13 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation and commencement[^key-7ca5775a7596c609036bda39f7ce84ca]
+## 1. Citation and commencement[^c-7ca5775a7596c609036bda39f7ce84ca]
 
 These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Regulations 2019 and come into force on exit day.
 
 ## PART 1 — Amendment of EU-derived domestic legislation
 
-### 2. Amendment of the Somalia (Asset-Freezing) Regulations 2010[^key-9d2de156b978e7d807b608fc668da752]
+### 2. Amendment of the Somalia (Asset-Freezing) Regulations 2010[^c-9d2de156b978e7d807b608fc668da752]
 
 (1) The Somalia (Asset-Freezing) Regulations 2010 [^c23609431] are amended as follows.
 
@@ -73,7 +73,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 .
 
-### 3. Amendment of the Egypt (Asset-Freezing) Regulations 2011[^key-0b7e419141bd15028733857fb25072c6]
+### 3. Amendment of the Egypt (Asset-Freezing) Regulations 2011[^c-0b7e419141bd15028733857fb25072c6]
 
 (1) The Egypt (Asset-Freezing) Regulations 2011 [^c23609441] are amended as follows.
 
@@ -89,7 +89,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 .
 
-### 4. Amendment of the Tunisia (Asset-Freezing) Regulations 2011[^key-6ed667f832a8ac5c5c6c018bd2879a41]
+### 4. Amendment of the Tunisia (Asset-Freezing) Regulations 2011[^c-6ed667f832a8ac5c5c6c018bd2879a41]
 
 (1) The Tunisia (Asset-Freezing) Regulations 2011 [^c23609451] are amended as follows.
 
@@ -105,7 +105,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 .
 
-### 5. Amendment of the Afghanistan (Asset-Freezing) Regulations 2011[^key-5c10920126272d378371c3c2d0850a98]
+### 5. Amendment of the Afghanistan (Asset-Freezing) Regulations 2011[^c-5c10920126272d378371c3c2d0850a98]
 
 (1) The Afghanistan (Asset-Freezing) Regulations 2011 [^c23609461] are amended as follows.
 
@@ -121,7 +121,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 .
 
-### 6. Amendment of the Iraq (Asset-Freezing) Regulations 2012[^key-d98764ec363641e786a19561762b697f]
+### 6. Amendment of the Iraq (Asset-Freezing) Regulations 2012[^c-d98764ec363641e786a19561762b697f]
 
 (1) The Iraq (Asset-Freezing) Regulations 2012 [^c23609471] are amended as follows.
 
@@ -137,11 +137,11 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 .
 
-### 7. Amendment of the Republic of Guinea (Asset-Freezing) Regulations 2012[^key-14b2feaa509972661d4c62e85d7f29ee]
+### 7. Amendment of the Republic of Guinea (Asset-Freezing) Regulations 2012[^c-14b2feaa509972661d4c62e85d7f29ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of the Lebanon and Syria (Asset-Freezing) Regulations 2012[^key-6224b26e7d240ed42b3254bd02e57dd4]
+### 8. Amendment of the Lebanon and Syria (Asset-Freezing) Regulations 2012[^c-6224b26e7d240ed42b3254bd02e57dd4]
 
 (1) The Lebanon and Syria (Asset-Freezing) Regulations 2012 [^c23609491] are amended as follows.
 
@@ -157,7 +157,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 .
 
-### 9. Amendment of the Ukraine (European Union Financial Sanctions) Regulations 2014[^key-552fa0ec7c8e849f0e6e20609a9b3d04]
+### 9. Amendment of the Ukraine (European Union Financial Sanctions) Regulations 2014[^c-552fa0ec7c8e849f0e6e20609a9b3d04]
 
 (1) The Ukraine (European Union Financial Sanctions) Regulations 2014 [^c23609501] are amended as follows.
 
@@ -171,7 +171,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 - (b) in sub-paragraph (3)(b), for “, pursuant to the Council Regulation” substitute “ to facilitate the exercise by an authority outside the United Kingdom or by an international organisation of functions which correspond to functions under these Regulations ”;
 - (c) in sub-paragraph (6), omit “other”.
 
-### 10. Amendment of the Central African Republic (European Union Financial Sanctions) Regulations 2014[^key-bf34d0bfe2b29246f6fec73e00595f26]
+### 10. Amendment of the Central African Republic (European Union Financial Sanctions) Regulations 2014[^c-bf34d0bfe2b29246f6fec73e00595f26]
 
 (1) The Central African Republic (European Union Financial Sanctions) Regulations 2014 [^c23609511] are amended as follows.
 
@@ -184,7 +184,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 - (a) in sub-paragraph (2)(f), for “other Member” substitute “ Member ”;
 - (b) in sub-paragraph (3)(b), for “, pursuant to the Council Regulation” substitute “ to facilitate the exercise by an authority outside the United Kingdom or by an international organisation of functions which correspond to functions under these Regulations ”.
 
-### 11. Amendment of the Sudan (European Union Financial Sanctions) Regulations 2014[^key-2472058e6ab1668ea80ef5bdbb06118d]
+### 11. Amendment of the Sudan (European Union Financial Sanctions) Regulations 2014[^c-2472058e6ab1668ea80ef5bdbb06118d]
 
 (1) The Sudan (European Union Financial Sanctions) Regulations 2014 [^c23609521] are amended as follows.
 
@@ -197,7 +197,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 - (a) in sub-paragraph (2)(f), for “other Member” substitute “ Member ”;
 - (b) in sub-paragraph (3)(b), for “, pursuant to the Council Regulation” substitute “ to facilitate the exercise by an authority outside the United Kingdom or by an international organisation of functions which correspond to functions under these Regulations ”.
 
-### 12. Amendment of the Yemen (European Union Financial Sanctions) Regulations 2014[^key-aa900265ae6b3f3bd5f82538968e1b5c]
+### 12. Amendment of the Yemen (European Union Financial Sanctions) Regulations 2014[^c-aa900265ae6b3f3bd5f82538968e1b5c]
 
 (1) The Yemen (European Union Financial Sanctions) Regulations 2014 [^c23609531] are amended as follows.
 
@@ -210,11 +210,11 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 - (a) in sub-paragraph (2)(f), for “other Member” substitute “ Member ”;
 - (b) in sub-paragraph (3)(b), for “, pursuant to the Council Regulation” substitute “ to facilitate the exercise by an authority outside the United Kingdom or by an international organisation of functions which correspond to functions under these Regulations ”.
 
-### 13. Amendment of the Burundi (European Union Financial Sanctions) Regulations 2015[^key-e3db2146c453ed9aa5c77b0d83bc0a47]
+### 13. Amendment of the Burundi (European Union Financial Sanctions) Regulations 2015[^c-e3db2146c453ed9aa5c77b0d83bc0a47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Amendment of the Republic of Mali (European Union Financial Sanctions) Regulations 2017[^key-6c0ecaef578fa36290822081c7f56913]
+### 14. Amendment of the Republic of Mali (European Union Financial Sanctions) Regulations 2017[^c-6c0ecaef578fa36290822081c7f56913]
 
 (1) The Republic of Mali (European Union Financial Sanctions) Regulations 2017 [^c23609551] are amended as follows.
 
@@ -222,7 +222,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 (3) In the Schedule, in paragraph 5(3)(b) (general power to disclose information), for “, pursuant to the Council Regulation” substitute “ to facilitate the exercise by an authority outside the United Kingdom or by an international organisation of functions which correspond to functions under these Regulations ”.
 
-### 15. Amendment of the Republic of Maldives (Asset-Freezing) Regulations 2018[^key-7861b92e758cbfaca28b3c9733b2da63]
+### 15. Amendment of the Republic of Maldives (Asset-Freezing) Regulations 2018[^c-7861b92e758cbfaca28b3c9733b2da63]
 
 (1) The Republic of Maldives (Asset-Freezing) Regulations 2018 [^c23609561] are amended as follows.
 
@@ -232,7 +232,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 ## PART 2 — Amendment of subordinate legislation
 
-### 16. Amendment of the Sanctions (Amendment) (EU Exit) Regulations 2019[^key-c9e722f9afc010f6bc1f6b0bbff79092]
+### 16. Amendment of the Sanctions (Amendment) (EU Exit) Regulations 2019[^c-c9e722f9afc010f6bc1f6b0bbff79092]
 
 (1) The Sanctions (Amendment) (EU Exit) Regulations 2019 [^c23609571] are amended as follows.
 
@@ -264,7 +264,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 ## PART 3 — Amendment of direct EU legislation
 
-### 17. Amendment of Council Regulation [(EC) No 1210/2003](https://www.legislation.gov.uk/eur/2003/1210) (Iraq)[^key-e95b73d3163ceaaea6ad02e110f0ae91]
+### 17. Amendment of Council Regulation [(EC) No 1210/2003](https://www.legislation.gov.uk/eur/2003/1210) (Iraq)[^c-e95b73d3163ceaaea6ad02e110f0ae91]
 
 (1) Council Regulation [(EC) No 1210/2003](https://www.legislation.gov.uk/eur/2003/1210), concerning certain specific restrictions on economic and financial relations with Iraq and repealing Regulation [(EC) No 2465/96](https://www.legislation.gov.uk/eur/1996/2465), is amended as follows.
 
@@ -307,7 +307,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 (11) Omit Annex V.
 
-### 18. Amendment of Council Regulation [(EC) No 305/2006](https://www.legislation.gov.uk/eur/2006/305) (Lebanon)[^key-a7a47bbe21e87d8a94e1173643f517bd]
+### 18. Amendment of Council Regulation [(EC) No 305/2006](https://www.legislation.gov.uk/eur/2006/305) (Lebanon)[^c-a7a47bbe21e87d8a94e1173643f517bd]
 
 (1) Council Regulation [(EC) No 305/2006](https://www.legislation.gov.uk/eur/2006/305), imposing specific restrictive measures against certain persons suspected of involvement in the assassination of former Lebanese Prime Minister Rafiq Hariri, is amended as follows.
 
@@ -340,11 +340,11 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 (9) Omit Annex II.
 
-### 19. Amendment of Council Regulation (EU) No 1284/2009 (Republic of Guinea)[^key-9df33facfc64e85a5b3eb0e0ab061cfb]
+### 19. Amendment of Council Regulation (EU) No 1284/2009 (Republic of Guinea)[^c-9df33facfc64e85a5b3eb0e0ab061cfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Amendment of Council Regulation (EU) No. 356/2010 (Somalia)[^key-f0ae17645c9750a36812e829f7edf834]
+### 20. Amendment of Council Regulation (EU) No. 356/2010 (Somalia)[^c-f0ae17645c9750a36812e829f7edf834]
 
 (1) Council Regulation (EU) No 356/2010, imposing certain specific restrictive measures directed against certain natural or legal persons, entities or bodies, in view of the situation in Somalia, is amended as follows.
 
@@ -380,7 +380,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 - (a) after “this Regulation” insert “ or the Somalia (Asset-Freezing) Regulations 2010 ”;
 - (b) omit “in accordance with Article 2”.
 
-### 21. Amendment of Council Regulation (EU) No 270/2011 (Egypt)[^key-dec9d74c0208ce834184445eb12454bd]
+### 21. Amendment of Council Regulation (EU) No 270/2011 (Egypt)[^c-dec9d74c0208ce834184445eb12454bd]
 
 (1) Council Regulation (EU) No 270/2011, concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Egypt, is amended as follows.
 
@@ -441,7 +441,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 (12) Omit Annex II.
 
-### 22. Amendment of Council Regulation (EU) No 753/2011 (Afghanistan)[^key-f22e742b981df3fbc76c5f7efb02226c]
+### 22. Amendment of Council Regulation (EU) No 753/2011 (Afghanistan)[^c-f22e742b981df3fbc76c5f7efb02226c]
 
 (1) Council Regulation (EU) No 753/2011, concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan, is amended as follows.
 
@@ -472,7 +472,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 (4) In Article 8, omit “in accordance with Article 3”.
 
-### 23. Amendment of Council Regulation (EU) No 101/2011 (Tunisia)[^key-4e4039a98cef8dd18da0fe341e3f3c15]
+### 23. Amendment of Council Regulation (EU) No 101/2011 (Tunisia)[^c-4e4039a98cef8dd18da0fe341e3f3c15]
 
 (1) Council Regulation (EU) No 101/2011, concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Tunisia, is amended as follows.
 
@@ -533,7 +533,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 (12) Omit Annex II.
 
-### 24. Amendment of Council Regulation (EU) No 36/2012 (Syria)[^key-c0474fa9a9ed18863ace502f10bdbe9d]
+### 24. Amendment of Council Regulation (EU) No 36/2012 (Syria)[^c-c0474fa9a9ed18863ace502f10bdbe9d]
 
 (1) In Article 29(1)—
 
@@ -548,7 +548,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 (5) Omit Annex ⅠⅠ.
 
-### 25. Amendment of Council Regulation (EU) No 208/2014 (Ukraine)[^key-6caaf05007af1a8aa8d3b003b192a79b]
+### 25. Amendment of Council Regulation (EU) No 208/2014 (Ukraine)[^c-6caaf05007af1a8aa8d3b003b192a79b]
 
 (1) Council Regulation (EU) No 208/2014, concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Ukraine, is amended as follows.
 
@@ -616,7 +616,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 (13) Omit Annex II.
 
-### 26. Amendment of Council Regulation (EU) No 224/2014 (Central African Republic)[^key-dec1bd5d88851fe921c749c184305e32]
+### 26. Amendment of Council Regulation (EU) No 224/2014 (Central African Republic)[^c-dec1bd5d88851fe921c749c184305e32]
 
 (1) Council Regulation (EU) No 224/2014, concerning restrictive measures in view of the situation in the Central African Republic, is amended as follows.
 
@@ -670,7 +670,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
   - (i) for “judicial review of” substitute “ challenge ”;
   - (ii) omit “in accordance with this Regulation”.
 
-### 27. Amendment of Council Regulation (EU) No 747/2014 (Sudan)[^key-1f77bf710bb41ee67e50e0a04f7bf08b]
+### 27. Amendment of Council Regulation (EU) No 747/2014 (Sudan)[^c-1f77bf710bb41ee67e50e0a04f7bf08b]
 
 (1) Council Regulation (EU) No 747/2014, concerning restrictive measures in view of the situation in Sudan and repealing Regulations [(EC) No 131/2004](https://www.legislation.gov.uk/eur/2004/131) and [(EC) No 1184/2005](https://www.legislation.gov.uk/eur/2005/1184), is amended as follows.
 
@@ -714,7 +714,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
   - (i) for “judicial review of” substitute “ challenge ”;
   - (ii) omit “in accordance with this Regulation”.
 
-### 28. Amendment of Council Regulation (EU) No 1352/2014 (Yemen)[^key-cd6b437f734a71fb84bd17f155a1e493]
+### 28. Amendment of Council Regulation (EU) No 1352/2014 (Yemen)[^c-cd6b437f734a71fb84bd17f155a1e493]
 
 (1) Council Regulation (EU) No 1352/2014, concerning restrictive measures in view of the situation in Yemen, is amended as follows.
 
@@ -780,11 +780,11 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 (14) Omit Annex II.
 
-### 29. Amendment of Council Regulation (EU) No 2015/1755 (Burundi)[^key-74c61ff0635c5ba631f06fb78e3758ba]
+### 29. Amendment of Council Regulation (EU) No 2015/1755 (Burundi)[^c-74c61ff0635c5ba631f06fb78e3758ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Amendment of Council Regulation (EU) No 2017/1770 (Mali)[^key-665d2b54fc2b801353ff94817d885205]
+### 30. Amendment of Council Regulation (EU) No 2017/1770 (Mali)[^c-665d2b54fc2b801353ff94817d885205]
 
 (1) Council Regulation (EU) No 2017/1770, concerning restrictive measures in view of the situation in Mali is amended as follows.
 
@@ -852,7 +852,7 @@ These Regulations may be cited as the Sanctions (Amendment) (EU Exit) (No 2) Reg
 
 (13) Omit Annex II.
 
-### 31. Amendment of Council Regulation (EU) No 2018/1001 (Republic of Maldives)[^key-89c9c813e17387764e26ac168370590d]
+### 31. Amendment of Council Regulation (EU) No 2018/1001 (Republic of Maldives)[^c-89c9c813e17387764e26ac168370590d]
 
 (1) Council Regulation (EU) No 2018/1001, concerning restrictive measures in view of the situation in the Republic of Maldives, is amended as follows.
 
@@ -935,92 +935,92 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23609421]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-7ca5775a7596c609036bda39f7ce84ca]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7ca5775a7596c609036bda39f7ce84ca]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9d2de156b978e7d807b608fc668da752]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9d2de156b978e7d807b608fc668da752]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609431]: Marginal citation: [S.I. 2010/2956](https://www.legislation.gov.uk/uksi/2010/2956); amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), 2013/534, 2017/560, 2017/754, 2018/682 and 2018/1149.
 
-[^key-0b7e419141bd15028733857fb25072c6]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0b7e419141bd15028733857fb25072c6]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609441]: Marginal citation: [S.I. 2011/887](https://www.legislation.gov.uk/uksi/2011/887); amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), 2013/534, 2017/560, 2017/754, 2018/682 and 2018/1149.
 
-[^key-6ed667f832a8ac5c5c6c018bd2879a41]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6ed667f832a8ac5c5c6c018bd2879a41]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609451]: Marginal citation: [S.I. 2011/888](https://www.legislation.gov.uk/uksi/2011/888): amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), 2013/534, 2017/560, 2017/754, 2018/682 and 2018/1149.
 
-[^key-5c10920126272d378371c3c2d0850a98]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5c10920126272d378371c3c2d0850a98]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609461]: Marginal citation: [S.I. 2011/1893](https://www.legislation.gov.uk/uksi/2011/1893); amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), 2013/534. 2017/560, 2017/754, 2018/682 and 2018/1149.
 
-[^key-d98764ec363641e786a19561762b697f]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d98764ec363641e786a19561762b697f]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609471]: Marginal citation: [S.I. 2012/1489](https://www.legislation.gov.uk/uksi/2012/1489); amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), 2013/534, 2017/560, 2017/754, 2018/682 and 2018/1149.
 
-[^key-14b2feaa509972661d4c62e85d7f29ee]: Textual amendment: Reg. 7 omitted (31.12.2020) by virtue of [The Guinea (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/1145)](https://www.legislation.gov.uk/uksi/2019/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1145/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2019/1145/regulation/39); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/3/2)
+[^c-14b2feaa509972661d4c62e85d7f29ee]: Textual amendment: Reg. 7 omitted (31.12.2020) by virtue of [The Guinea (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/1145)](https://www.legislation.gov.uk/uksi/2019/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1145/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2019/1145/regulation/39); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/3/2)
 
-[^key-6224b26e7d240ed42b3254bd02e57dd4]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6224b26e7d240ed42b3254bd02e57dd4]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609491]: Marginal citation: [S.I. 2012/1517](https://www.legislation.gov.uk/uksi/2012/1517); amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), 2013/534, 2017/560, 2017/754, 2018/682 and 2018/1149.
 
-[^key-552fa0ec7c8e849f0e6e20609a9b3d04]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-552fa0ec7c8e849f0e6e20609a9b3d04]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609501]: Marginal citation: [S.I. 2014/507](https://www.legislation.gov.uk/uksi/2014/507); amended by [S.I. 2017/560](https://www.legislation.gov.uk/uksi/2017/560), 2017/754, 2018/682 and 2018/1149.
 
-[^key-bf34d0bfe2b29246f6fec73e00595f26]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-bf34d0bfe2b29246f6fec73e00595f26]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609511]: Marginal citation: [S.I. 2014/587](https://www.legislation.gov.uk/uksi/2014/587); amended by [S.I. 2017/560](https://www.legislation.gov.uk/uksi/2017/560), 2017/754, 2018/682 and 2018/1149.
 
-[^key-2472058e6ab1668ea80ef5bdbb06118d]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2472058e6ab1668ea80ef5bdbb06118d]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609521]: Marginal citation: [S.I. 2014/1826](https://www.legislation.gov.uk/uksi/2014/1826); amended by [S.I. 2017/560](https://www.legislation.gov.uk/uksi/2017/560), 2017/754, 2018/682 and 2018/1149.
 
-[^key-aa900265ae6b3f3bd5f82538968e1b5c]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-aa900265ae6b3f3bd5f82538968e1b5c]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609531]: Marginal citation: [S.I. 2014/3349](https://www.legislation.gov.uk/uksi/2014/3349); amended by [S.I. 2017/560](https://www.legislation.gov.uk/uksi/2017/560), 2017/754, 2018/682 and 2018/1149.
 
-[^key-e3db2146c453ed9aa5c77b0d83bc0a47]: Textual amendment: Reg. 13 omitted (31.12.2020) by virtue of [The Burundi (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/1142)](https://www.legislation.gov.uk/uksi/2019/1142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1142/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2019/1142/regulation/39); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/2/2)
+[^c-e3db2146c453ed9aa5c77b0d83bc0a47]: Textual amendment: Reg. 13 omitted (31.12.2020) by virtue of [The Burundi (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/1142)](https://www.legislation.gov.uk/uksi/2019/1142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1142/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2019/1142/regulation/39); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/2/2)
 
-[^key-6c0ecaef578fa36290822081c7f56913]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6c0ecaef578fa36290822081c7f56913]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609551]: Marginal citation: [S.I. 2017/972](https://www.legislation.gov.uk/uksi/2017/972); amended by [S.I. 2018/682](https://www.legislation.gov.uk/uksi/2018/682) and 2018/1149.
 
-[^key-7861b92e758cbfaca28b3c9733b2da63]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7861b92e758cbfaca28b3c9733b2da63]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609561]: Marginal citation: [S.I. 2018/861](https://www.legislation.gov.uk/uksi/2018/861); amended by [S.I. 2017/754](https://www.legislation.gov.uk/uksi/2017/754), 2018/682 and 2018/1149.
 
-[^key-c9e722f9afc010f6bc1f6b0bbff79092]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c9e722f9afc010f6bc1f6b0bbff79092]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609571]: Marginal citation: [S.I. 2019/26](https://www.legislation.gov.uk/uksi/2019/26).
 
-[^key-e95b73d3163ceaaea6ad02e110f0ae91]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e95b73d3163ceaaea6ad02e110f0ae91]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a7a47bbe21e87d8a94e1173643f517bd]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a7a47bbe21e87d8a94e1173643f517bd]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9df33facfc64e85a5b3eb0e0ab061cfb]: Textual amendment: Reg. 19 omitted (31.12.2020) by virtue of [The Guinea (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/1145)](https://www.legislation.gov.uk/uksi/2019/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1145/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2019/1145/regulation/39); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/3/2)
+[^c-9df33facfc64e85a5b3eb0e0ab061cfb]: Textual amendment: Reg. 19 omitted (31.12.2020) by virtue of [The Guinea (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/1145)](https://www.legislation.gov.uk/uksi/2019/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1145/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2019/1145/regulation/39); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/3/2)
 
-[^key-f0ae17645c9750a36812e829f7edf834]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f0ae17645c9750a36812e829f7edf834]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-dec9d74c0208ce834184445eb12454bd]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dec9d74c0208ce834184445eb12454bd]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f22e742b981df3fbc76c5f7efb02226c]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f22e742b981df3fbc76c5f7efb02226c]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-4e4039a98cef8dd18da0fe341e3f3c15]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4e4039a98cef8dd18da0fe341e3f3c15]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c0474fa9a9ed18863ace502f10bdbe9d]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c0474fa9a9ed18863ace502f10bdbe9d]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6caaf05007af1a8aa8d3b003b192a79b]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6caaf05007af1a8aa8d3b003b192a79b]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23609581]: Marginal citation: [S.I. 2014/507](https://www.legislation.gov.uk/uksi/2014/507).
 
-[^key-dec1bd5d88851fe921c749c184305e32]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dec1bd5d88851fe921c749c184305e32]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1f77bf710bb41ee67e50e0a04f7bf08b]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1f77bf710bb41ee67e50e0a04f7bf08b]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-cd6b437f734a71fb84bd17f155a1e493]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-cd6b437f734a71fb84bd17f155a1e493]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-74c61ff0635c5ba631f06fb78e3758ba]: Textual amendment: Reg. 29 omitted (31.12.2020) by virtue of [The Burundi (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/1142)](https://www.legislation.gov.uk/uksi/2019/1142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1142/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2019/1142/regulation/39); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/2/2)
+[^c-74c61ff0635c5ba631f06fb78e3758ba]: Textual amendment: Reg. 29 omitted (31.12.2020) by virtue of [The Burundi (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/1142)](https://www.legislation.gov.uk/uksi/2019/1142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1142/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2019/1142/regulation/39); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/2/2)
 
-[^key-665d2b54fc2b801353ff94817d885205]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-665d2b54fc2b801353ff94817d885205]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-89c9c813e17387764e26ac168370590d]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-89c9c813e17387764e26ac168370590d]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

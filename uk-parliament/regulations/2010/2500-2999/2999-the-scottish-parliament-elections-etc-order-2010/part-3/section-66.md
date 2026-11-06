@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Schools and rooms for Scottish parliamentary election meetings: candidates for return as constituency members[^key-22b6721036d228e92cd6aa3777d43735]
+## 66. Schools and rooms for Scottish parliamentary election meetings: candidates for return as constituency members[^c-22b6721036d228e92cd6aa3777d43735]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22b6721036d228e92cd6aa3777d43735]: Commencement: Art. 66 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-22b6721036d228e92cd6aa3777d43735]: Commencement: Art. 66 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00048]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44). The definition of “independent school” in section 135 was amended by the School Education (Ministerial Powers and Independent Schools) (Scotland) Act [2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), section 3 and the Standards in Scotland’s Schools etc. Act [2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), schedule 2, paragraph 3(9).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Exercise of public health functions of the Secretary of State[^key-869f06b715e16e4ac15925f4d9a9f6dc][^key-8a1ee199c7f6d8a617bf89ce38636aea]
+## 22. Exercise of public health functions of the Secretary of State[^c-869f06b715e16e4ac15925f4d9a9f6dc][^c-8a1ee199c7f6d8a617bf89ce38636aea]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ After section 7 of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-869f06b715e16e4ac15925f4d9a9f6dc]: Commencement: S. 22 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-869f06b715e16e4ac15925f4d9a9f6dc]: Commencement: S. 22 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-8a1ee199c7f6d8a617bf89ce38636aea]: Commencement: S. 22 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8a1ee199c7f6d8a617bf89ce38636aea]: Commencement: S. 22 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

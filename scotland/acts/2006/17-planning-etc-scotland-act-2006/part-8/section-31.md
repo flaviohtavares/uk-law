@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Fees and charges[^key-81c09e01a8e795e7fadc766c1ae33415]
+## 31. Fees and charges[^c-81c09e01a8e795e7fadc766c1ae33415]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ In section 252 of the principal Act (fees for planning applications etc.)—
 
 ## Annotations
 
-[^key-81c09e01a8e795e7fadc766c1ae33415]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2006/17/section/31) in force at 14.5.2009 by [S.S.I. 2009/179](https://www.legislation.gov.uk/ssi/2009/179), [art. 2](https://www.legislation.gov.uk/ssi/2009/179/article/2)
+[^c-81c09e01a8e795e7fadc766c1ae33415]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2006/17/section/31) in force at 14.5.2009 by [S.S.I. 2009/179](https://www.legislation.gov.uk/ssi/2009/179), [art. 2](https://www.legislation.gov.uk/ssi/2009/179/article/2)

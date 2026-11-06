@@ -22,7 +22,7 @@ summary: ''
 
 (1) The General Council shall make regulations under section 29A above for and in connection with authorising or requiring a licensing authority, in such cases or circumstances as may be prescribed, to restore a licence to practise to a medical practitioner whose licence to practise has been withdrawn.
 
-(1A)[^key-f867017962670c8cdf308379479cdca9] Regulations by virtue of subsection (1) above may not include provision as to licences to practise that are withdrawn by virtue of section 41C below.
+(1A)[^c-f867017962670c8cdf308379479cdca9] Regulations by virtue of subsection (1) above may not include provision as to licences to practise that are withdrawn by virtue of section 41C below.
 
 (2) Regulations by virtue of subsection (1) above shall make provision as to the procedure to be followed in connection with the restoration, or the refusal of the restoration, of a licence to practise by a licensing authority.
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f867017962670c8cdf308379479cdca9]: Textual amendment: S. 29D(1A) inserted (9.9.2009) by [The Medical Profession (Miscellaneous Amendments) Order 2008 (S.I. 2008/3131)](https://www.legislation.gov.uk/uksi/2008/3131), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/11); [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200), [art. 2](https://www.legislation.gov.uk/uksi/2009/2200/article/2)
+[^c-f867017962670c8cdf308379479cdca9]: Textual amendment: S. 29D(1A) inserted (9.9.2009) by [The Medical Profession (Miscellaneous Amendments) Order 2008 (S.I. 2008/3131)](https://www.legislation.gov.uk/uksi/2008/3131), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/11); [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200), [art. 2](https://www.legislation.gov.uk/uksi/2009/2200/article/2)

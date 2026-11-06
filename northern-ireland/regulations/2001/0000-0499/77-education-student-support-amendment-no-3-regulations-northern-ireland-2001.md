@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-Education (Student Support) (Amendment No. 3) Regulations (Northern Ireland) 2001 (revoked)[^key-b8b83038200b3f1898bbf743bda18177]
+Education (Student Support) (Amendment No. 3) Regulations (Northern Ireland) 2001 (revoked)[^c-b8b83038200b3f1898bbf743bda18177]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 2nd April 2001
 
-[^key-b8b83038200b3f1898bbf743bda18177]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8b83038200b3f1898bbf743bda18177]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b8b83038200b3f1898bbf743bda18177]
+## 1. Citation and commencement[^c-b8b83038200b3f1898bbf743bda18177]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Student Support) Regulations (Northern Ireland) 2000[^key-b8b83038200b3f1898bbf743bda18177]
+## 2. Amendment of the Education (Student Support) Regulations (Northern Ireland) 2000[^c-b8b83038200b3f1898bbf743bda18177]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b8b83038200b3f1898bbf743bda18177]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8b83038200b3f1898bbf743bda18177]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b8b83038200b3f1898bbf743bda18177]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8b83038200b3f1898bbf743bda18177]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b8b83038200b3f1898bbf743bda18177]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/77) revoked (2.8.2001) by [Education (Student Support) Regulations (Northern Ireland) 2001 (S.R. 2001/277)](https://www.legislation.gov.uk/nisr/2001/277), [regs. 1](https://www.legislation.gov.uk/nisr/2001/277/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2001/277/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2001/277/regulation/3/2)[(3)](https://www.legislation.gov.uk/nisr/2001/277/regulation/3/3))
+[^c-b8b83038200b3f1898bbf743bda18177]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/77) revoked (2.8.2001) by [Education (Student Support) Regulations (Northern Ireland) 2001 (S.R. 2001/277)](https://www.legislation.gov.uk/nisr/2001/277), [regs. 1](https://www.legislation.gov.uk/nisr/2001/277/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2001/277/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2001/277/regulation/3/2)[(3)](https://www.legislation.gov.uk/nisr/2001/277/regulation/3/3))

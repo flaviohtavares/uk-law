@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2B. Prohibition of unlicensed undertakings[^key-235fc56498efb44172b600a2a4c60a7d]
+## 2B. Prohibition of unlicensed undertakings[^c-235fc56498efb44172b600a2a4c60a7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-235fc56498efb44172b600a2a4c60a7d]: Textual amendment: Ss. 2B, 2C and cross-heading inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2012/3039/regulation/6) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-235fc56498efb44172b600a2a4c60a7d]: Textual amendment: Ss. 2B, 2C and cross-heading inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2012/3039/regulation/6) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

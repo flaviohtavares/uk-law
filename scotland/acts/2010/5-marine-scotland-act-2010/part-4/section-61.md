@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Appeals against notices[^key-9ccc25ca206b83ee0e98ebfa619acd37]
+## 61. Appeals against notices[^c-9ccc25ca206b83ee0e98ebfa619acd37]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ccc25ca206b83ee0e98ebfa619acd37]: Commencement: S. 61 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-9ccc25ca206b83ee0e98ebfa619acd37]: Commencement: S. 61 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

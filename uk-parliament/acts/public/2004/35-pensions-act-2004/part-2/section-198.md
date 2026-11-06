@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Disclosure for facilitating exercise of functions by the Board[^key-8cb81cad436d82314f4cedff7d66e5ea][^key-a7ed8489e179b987a8f0f27af89fb104][^key-8ae4f61b00045ebee33fee3b22100c82][^key-9f7630100fb0bee3a3dbda1545f54369][^key-d0eb076448f3062a434041907f2f617e][^key-a7ed8489e179b987a8f0f27af89fb104][^key-8ae4f61b00045ebee33fee3b22100c82][^key-9f7630100fb0bee3a3dbda1545f54369]
+## 198. Disclosure for facilitating exercise of functions by the Board[^c-8cb81cad436d82314f4cedff7d66e5ea][^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82][^c-9f7630100fb0bee3a3dbda1545f54369][^c-d0eb076448f3062a434041907f2f617e][^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82][^c-9f7630100fb0bee3a3dbda1545f54369]
 
 *Extent: E+W+S*
 
@@ -28,12 +28,12 @@ summary: ''
 
 ## Annotations
 
-[^key-8cb81cad436d82314f4cedff7d66e5ea]: Commencement: S. 198 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-8cb81cad436d82314f4cedff7d66e5ea]: Commencement: S. 198 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-a7ed8489e179b987a8f0f27af89fb104]: Modification: Pt. 2 modified (8.3.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (S.I. 2005/277)](https://www.legislation.gov.uk/uksi/2005/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/1/1), [2-11](https://www.legislation.gov.uk/uksi/2005/277/regulation/2)
+[^c-a7ed8489e179b987a8f0f27af89fb104]: Modification: Pt. 2 modified (8.3.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (S.I. 2005/277)](https://www.legislation.gov.uk/uksi/2005/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/1/1), [2-11](https://www.legislation.gov.uk/uksi/2005/277/regulation/2)
 
-[^key-8ae4f61b00045ebee33fee3b22100c82]: Modification: Pt. 2 modified in part (9.3.2005 for specified purposes, 1.4.2005 for specified purposes, 6.4.2005 in so far as not already in force (except ch. 4)) by [The Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441)](https://www.legislation.gov.uk/uksi/2005/441), [regs. 1](https://www.legislation.gov.uk/uksi/2005/441/regulation/1), [2-60](https://www.legislation.gov.uk/uksi/2005/441/regulation/2), [71](https://www.legislation.gov.uk/uksi/2005/441/regulation/71), [72](https://www.legislation.gov.uk/uksi/2005/441/regulation/72)
+[^c-8ae4f61b00045ebee33fee3b22100c82]: Modification: Pt. 2 modified in part (9.3.2005 for specified purposes, 1.4.2005 for specified purposes, 6.4.2005 in so far as not already in force (except ch. 4)) by [The Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441)](https://www.legislation.gov.uk/uksi/2005/441), [regs. 1](https://www.legislation.gov.uk/uksi/2005/441/regulation/1), [2-60](https://www.legislation.gov.uk/uksi/2005/441/regulation/2), [71](https://www.legislation.gov.uk/uksi/2005/441/regulation/71), [72](https://www.legislation.gov.uk/uksi/2005/441/regulation/72)
 
-[^key-9f7630100fb0bee3a3dbda1545f54369]: Modification: Pt. 2 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
+[^c-9f7630100fb0bee3a3dbda1545f54369]: Modification: Pt. 2 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
 
-[^key-d0eb076448f3062a434041907f2f617e]: Modification: Ss. 197-201 extended (1.9.2005) by [The Pensions Act 2004 (Commencement No. 6, Transitional Provisions and Savings) Order 2005 (S.I. 2005/1720)](https://www.legislation.gov.uk/uksi/2005/1720), [art. 4(9)](https://www.legislation.gov.uk/uksi/2005/1720/article/4/9)
+[^c-d0eb076448f3062a434041907f2f617e]: Modification: Ss. 197-201 extended (1.9.2005) by [The Pensions Act 2004 (Commencement No. 6, Transitional Provisions and Savings) Order 2005 (S.I. 2005/1720)](https://www.legislation.gov.uk/uksi/2005/1720), [art. 4(9)](https://www.legislation.gov.uk/uksi/2005/1720/article/4/9)

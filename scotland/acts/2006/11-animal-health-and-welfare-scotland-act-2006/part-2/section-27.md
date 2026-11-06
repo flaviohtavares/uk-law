@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Licensing etc. of activities involving animals[^key-7bb21c25f8c5d108c7066b15a68fdaaa]
+## 27. Licensing etc. of activities involving animals[^c-7bb21c25f8c5d108c7066b15a68fdaaa]
 
 *Extent: S*
 
@@ -82,4 +82,4 @@ as they consider appropriate.
 
 ## Annotations
 
-[^key-7bb21c25f8c5d108c7066b15a68fdaaa]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2006/11/section/27) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-7bb21c25f8c5d108c7066b15a68fdaaa]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2006/11/section/27) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

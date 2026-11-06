@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. References to second class post[^key-6ff396bd8245010acf5cdb2db050b3a7]
+## 2. References to second class post[^c-6ff396bd8245010acf5cdb2db050b3a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ff396bd8245010acf5cdb2db050b3a7]: Commencement: Art. 2 in force at 26.3.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2)
+[^c-6ff396bd8245010acf5cdb2db050b3a7]: Commencement: Art. 2 in force at 26.3.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2)

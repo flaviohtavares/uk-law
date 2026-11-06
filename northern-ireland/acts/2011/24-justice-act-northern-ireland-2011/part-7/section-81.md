@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Order to recover costs of legal aid[^key-c69e8f29ae903cc91b8040068ce82716]
+## 81. Order to recover costs of legal aid[^c-c69e8f29ae903cc91b8040068ce82716]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c69e8f29ae903cc91b8040068ce82716]: Commencement: [S. 81](https://www.legislation.gov.uk/nia/2011/24/section/81) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/142/article/2/b)
+[^c-c69e8f29ae903cc91b8040068ce82716]: Commencement: [S. 81](https://www.legislation.gov.uk/nia/2011/24/section/81) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/142/article/2/b)

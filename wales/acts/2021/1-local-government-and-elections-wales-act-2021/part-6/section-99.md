@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Auditor General's powers of entry and inspection etc.: notice and evidence of identity[^key-765b7b68b09a0502e229438d3aced6e7]
+## 99. Auditor General's powers of entry and inspection etc.: notice and evidence of identity[^c-765b7b68b09a0502e229438d3aced6e7]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-765b7b68b09a0502e229438d3aced6e7]: Commencement: S. 99 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-765b7b68b09a0502e229438d3aced6e7]: Commencement: S. 99 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

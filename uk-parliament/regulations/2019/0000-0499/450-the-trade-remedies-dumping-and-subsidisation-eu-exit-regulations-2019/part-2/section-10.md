@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Appropriate third country or territory and representative price[^key-cbcb0e574127d5b08aa4b58f3f4caa4f]
+## 10. Appropriate third country or territory and representative price[^c-cbcb0e574127d5b08aa4b58f3f4caa4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ For the purpose of making a determination under regulation 8(1)(b), the TRA may 
 
 ## Annotations
 
-[^key-cbcb0e574127d5b08aa4b58f3f4caa4f]: Commencement: Reg. 10 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-cbcb0e574127d5b08aa4b58f3f4caa4f]: Commencement: Reg. 10 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

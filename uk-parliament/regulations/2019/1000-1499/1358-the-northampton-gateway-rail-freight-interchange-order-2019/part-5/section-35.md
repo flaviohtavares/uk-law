@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Temporary use of land for maintaining the authorised development[^key-30a2a3990f8ab6dea30e6e112a7e7e9d]
+## 35. Temporary use of land for maintaining the authorised development[^c-30a2a3990f8ab6dea30e6e112a7e7e9d]
 
 *Extent: E+W+S*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-30a2a3990f8ab6dea30e6e112a7e7e9d]: Commencement: Art. 35 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-30a2a3990f8ab6dea30e6e112a7e7e9d]: Commencement: Art. 35 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00057]: Footnote: Section 13 was amended by section 139(4) to (9) and section 62(3) of, paragraphs 27 and 28(1) to (3) of Schedule 13 to, and Part 3 of Schedule 28 to, the Tribunal, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 

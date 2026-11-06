@@ -56,7 +56,7 @@ Accordingly the Department for Communities makes the following Order:
 
 In section 13(1)(a) [^c24047831] (qualifying earnings) for “£6,136” substitute “ £6,240 ”.
 
-## 3. Rounded figures[^key-1002e1771d6ff279e52fa06eea6a3235]
+## 3. Rounded figures[^c-1002e1771d6ff279e52fa06eea6a3235]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -96,6 +96,6 @@ Article 4 of this Order makes revocations.
 
 [^c24047831]: Marginal citation: Paragraph (a) was amended by Article 2(a) of S.R. [2019 No. 30](https://www.legislation.gov.uk/ukcm/2019/30)
 
-[^key-1002e1771d6ff279e52fa06eea6a3235]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2020/51/article/3) revoked (6.4.2021) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2021 (S.R. 2021/66)](https://www.legislation.gov.uk/nisr/2021/66), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2021/66/article/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2021/66/article/4/b)
+[^c-1002e1771d6ff279e52fa06eea6a3235]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2020/51/article/3) revoked (6.4.2021) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2021 (S.R. 2021/66)](https://www.legislation.gov.uk/nisr/2021/66), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2021/66/article/1/1), [4(b)](https://www.legislation.gov.uk/nisr/2021/66/article/4/b)
 
 [^c24047861]: Marginal citation: S.R. [2019 No. 30](https://www.legislation.gov.uk/ukcm/2019/30)

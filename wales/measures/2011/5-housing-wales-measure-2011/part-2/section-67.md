@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Impact[^key-fcba41198df3524a60d1579b3465bf1a]
+## 67. Impact[^c-fcba41198df3524a60d1579b3465bf1a]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ After section 50Q of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-fcba41198df3524a60d1579b3465bf1a]: Commencement: [S. 67](https://www.legislation.gov.uk/mwa/2011/5/section/67) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)
+[^c-fcba41198df3524a60d1579b3465bf1a]: Commencement: [S. 67](https://www.legislation.gov.uk/mwa/2011/5/section/67) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)

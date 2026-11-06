@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Calculation of income other than earnings[^key-2d4a7549395e79377a469a5c9f634e70]
+## 27. Calculation of income other than earnings[^c-2d4a7549395e79377a469a5c9f634e70]
 
 *Extent: E+W+S*
 
-(1) For the purposes of regulation 18 (normal weekly income other than earnings), the income of a claimant which does not consist of earnings to be taken into account shall, subject to paragraphs (2) to (5), be his gross income and any capital treated as income under regulations 28 and 30 (capital treated as income and modifications in respect of children and young persons).[^key-8aa7e6724e12f3b89d610b0c1309edd5]
+(1) For the purposes of regulation 18 (normal weekly income other than earnings), the income of a claimant which does not consist of earnings to be taken into account shall, subject to paragraphs (2) to (5), be his gross income and any capital treated as income under regulations 28 and 30 (capital treated as income and modifications in respect of children and young persons).[^c-8aa7e6724e12f3b89d610b0c1309edd5]
 
 (2) There shall be disregarded from the calculation of a claimant’s gross income under paragraph (1) any sum, where applicable, specified in Schedule 3.
 
@@ -32,9 +32,9 @@ summary: ''
 
 ## Annotations
 
-[^key-2d4a7549395e79377a469a5c9f634e70]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1991/2887/regulation/27) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-2d4a7549395e79377a469a5c9f634e70]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1991/2887/regulation/27) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-8aa7e6724e12f3b89d610b0c1309edd5]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/27/1) substituted (5.10.1993) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 4) Regulations 1993 (S.I. 1993/2119)](https://www.legislation.gov.uk/uksi/1993/2119), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b), [41](https://www.legislation.gov.uk/uksi/1993/2119/regulation/41) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/3))
+[^c-8aa7e6724e12f3b89d610b0c1309edd5]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/27/1) substituted (5.10.1993) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 4) Regulations 1993 (S.I. 1993/2119)](https://www.legislation.gov.uk/uksi/1993/2119), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b), [41](https://www.legislation.gov.uk/uksi/1993/2119/regulation/41) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/3))
 
 [^f00059]: Footnote: The benefit Acts are specified in section 84(1) of the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50).
 

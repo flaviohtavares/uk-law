@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Minor and consequential amendments in connection with Chapter 2[^key-c26381880cb1968d1e2dea004343c7f2][^key-f7140a5ad5c85c18b5b94ddb5a5f7db5]
+## 101. Minor and consequential amendments in connection with Chapter 2[^c-c26381880cb1968d1e2dea004343c7f2][^c-f7140a5ad5c85c18b5b94ddb5a5f7db5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 8 contains minor and consequential amendments in connection with Chapte
 
 ## Annotations
 
-[^key-c26381880cb1968d1e2dea004343c7f2]: Commencement: S. 101 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-c26381880cb1968d1e2dea004343c7f2]: Commencement: S. 101 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-f7140a5ad5c85c18b5b94ddb5a5f7db5]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2023/55/section/101) in force at 25.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))
+[^c-f7140a5ad5c85c18b5b94ddb5a5f7db5]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2023/55/section/101) in force at 25.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))

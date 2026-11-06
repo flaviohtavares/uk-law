@@ -47,8 +47,8 @@ summary: ''
 - (c) in the case of conduct causing the complainant not to avail himself of a service or to cease to avail himself of it, the date of that conduct;
 - (d) in the case of failure to provide the same service, on the same terms, as is provided to others, the date or last date on which the service in fact provided was provided.
 
-(5)[^key-0c9b435a67f3cf7cc313986782c98931] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
+(5)[^c-0c9b435a67f3cf7cc313986782c98931] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 ## Annotations
 
-[^key-0c9b435a67f3cf7cc313986782c98931]: Textual amendment: [Art. 28(5)](https://www.legislation.gov.uk/nisi/1996/1919/article/28/5) added (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/12); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-0c9b435a67f3cf7cc313986782c98931]: Textual amendment: [Art. 28(5)](https://www.legislation.gov.uk/nisi/1996/1919/article/28/5) added (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/12); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Duty in relation to the waste hierarchy (coming into operation 8 October 2011)[^key-b9918ebb60205ff17d28543d9f99bff1]
+## 17. Duty in relation to the waste hierarchy (coming into operation 8 October 2011)[^c-b9918ebb60205ff17d28543d9f99bff1]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9918ebb60205ff17d28543d9f99bff1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2011/127/regulation/17) in operation at 8.10.2011, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/2)
+[^c-b9918ebb60205ff17d28543d9f99bff1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2011/127/regulation/17) in operation at 8.10.2011, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/2)

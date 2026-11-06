@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Code of practice[^key-a2bd69081227c612f3a58ed4de199379][^key-4b233be47307a187c2c4969b23cc6894]
+## 40. Code of practice[^c-a2bd69081227c612f3a58ed4de199379][^c-4b233be47307a187c2c4969b23cc6894]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ on a draft of the code or a draft of an amended code (“the proposed code”).
 
 ## Annotations
 
-[^key-a2bd69081227c612f3a58ed4de199379]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2014/7/section/40) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/3)
+[^c-a2bd69081227c612f3a58ed4de199379]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2014/7/section/40) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/3)
 
-[^key-4b233be47307a187c2c4969b23cc6894]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2014/7/section/40) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-4b233be47307a187c2c4969b23cc6894]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2014/7/section/40) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

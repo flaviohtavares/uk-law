@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Indemnities where education administration order is made[^key-42e3c36686c00b30b8d31bf9667fc165]
+## 28. Indemnities where education administration order is made[^c-42e3c36686c00b30b8d31bf9667fc165]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42e3c36686c00b30b8d31bf9667fc165]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/19/section/28) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-42e3c36686c00b30b8d31bf9667fc165]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/19/section/28) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

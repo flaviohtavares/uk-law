@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 156. Use of amounts set aside—expenditure for capital purposes[^key-bdba295aa21b760525da83f376b8b51c]
+## 156. Use of amounts set aside—expenditure for capital purposes[^c-bdba295aa21b760525da83f376b8b51c]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bdba295aa21b760525da83f376b8b51c]: Commencement: Reg. 156 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-bdba295aa21b760525da83f376b8b51c]: Commencement: Reg. 156 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00118]: Footnote: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 

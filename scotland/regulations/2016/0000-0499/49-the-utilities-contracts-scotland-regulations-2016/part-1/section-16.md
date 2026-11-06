@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Estimating value[^key-12e93c3b9f2a2d76da0bd104a0d7f7dc][^key-abe8e898a52fba3618aef79203759c1c]
+## 16. Estimating value[^c-12e93c3b9f2a2d76da0bd104a0d7f7dc][^c-abe8e898a52fba3618aef79203759c1c]
 
 *Extent: S*
 
 (1) A utility must
 
-- (a)[^key-10f27c5e81af981e4a4eb081652db5ce] calculate in accordance with the following paragraphs[^key-e4bf304176ef367f6abbd250cd175782] the estimated value of a contract by reference to the total amount payable under it (regardless of the form of such payment), inclusive of VAT, where appropriate[^key-d5f6d1cad2d8a806f4f696db2f18dc61] ; or[^key-e078c5dfe2a5647cb93fa645cf5daae3]
+- (a)[^c-10f27c5e81af981e4a4eb081652db5ce] calculate in accordance with the following paragraphs[^c-e4bf304176ef367f6abbd250cd175782] the estimated value of a contract by reference to the total amount payable under it (regardless of the form of such payment), inclusive of VAT, where appropriate[^c-d5f6d1cad2d8a806f4f696db2f18dc61] ; or[^c-e078c5dfe2a5647cb93fa645cf5daae3]
 - (b) if it is not possible to calculate the estimated value of a contract, take its estimated value to be equal to the relevant threshold mentioned in regulation 15
 
 (2) The total amount payable includes the amount payable as a result of the exercise of any form of option and any renewal of the contract as explicitly set out in the procurement documents.
@@ -74,14 +74,14 @@ summary: ''
 
 ## Annotations
 
-[^key-12e93c3b9f2a2d76da0bd104a0d7f7dc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/49/regulation/16) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-12e93c3b9f2a2d76da0bd104a0d7f7dc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/49/regulation/16) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-abe8e898a52fba3618aef79203759c1c]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/49/regulation/16) heading substituted (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(4)(b)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/4/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-abe8e898a52fba3618aef79203759c1c]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/49/regulation/16) heading substituted (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(4)(b)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/4/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
 
-[^key-10f27c5e81af981e4a4eb081652db5ce]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/ssi/2016/49/regulation/16/1) renumbered as reg. 16(1)(a) (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(4)(a)(i)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/4/a/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-10f27c5e81af981e4a4eb081652db5ce]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/ssi/2016/49/regulation/16/1) renumbered as reg. 16(1)(a) (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(4)(a)(i)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/4/a/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
 
-[^key-e4bf304176ef367f6abbd250cd175782]: Textual amendment: Words in [reg. 16(1)(a)](https://www.legislation.gov.uk/ssi/2016/49/regulation/16/1/a) inserted (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/4/a/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-e4bf304176ef367f6abbd250cd175782]: Textual amendment: Words in [reg. 16(1)(a)](https://www.legislation.gov.uk/ssi/2016/49/regulation/16/1/a) inserted (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/4/a/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
 
-[^key-d5f6d1cad2d8a806f4f696db2f18dc61]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/ssi/2016/49/regulation/16/1) substituted (1.1.2022) by [The Public Procurement (Agreement on Government Procurement) (Thresholds etc.) (Amendment) (Scotland) Regulations 2021 (S.S.I. 2021/378)](https://www.legislation.gov.uk/ssi/2021/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2021/378/regulation/4/3) (with [reg. 6](https://www.legislation.gov.uk/ssi/2021/378/regulation/6))
+[^c-d5f6d1cad2d8a806f4f696db2f18dc61]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/ssi/2016/49/regulation/16/1) substituted (1.1.2022) by [The Public Procurement (Agreement on Government Procurement) (Thresholds etc.) (Amendment) (Scotland) Regulations 2021 (S.S.I. 2021/378)](https://www.legislation.gov.uk/ssi/2021/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2021/378/regulation/4/3) (with [reg. 6](https://www.legislation.gov.uk/ssi/2021/378/regulation/6))
 
-[^key-e078c5dfe2a5647cb93fa645cf5daae3]: Textual amendment: [Reg. 16(1)(b)](https://www.legislation.gov.uk/ssi/2016/49/regulation/16/1/b) and word inserted (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(4)(a)(iii)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/4/a/iii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-e078c5dfe2a5647cb93fa645cf5daae3]: Textual amendment: [Reg. 16(1)(b)](https://www.legislation.gov.uk/ssi/2016/49/regulation/16/1/b) and word inserted (30.5.2023) by [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(4)(a)(iii)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/4/a/iii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Approval functions[^key-04acb557fe6649b95253201f51d26a26]
+## 38. Approval functions[^c-04acb557fe6649b95253201f51d26a26]
 
 *Extent: E+W*
 
@@ -114,12 +114,12 @@ summary: ''
 - (a) in section 8(2) of the Criminal Procedure (Insanity) Act 1964 (interpretation), in the definition of “duly approved”,
 - (b) in section 51(1) of the Criminal Appeal Act 1968 (interpretation), in the definition of “duly approved”,
 - (c) in section 6(1) of the Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (interpretation), in the definition of “duly approved”,
-- (d)[^key-8b41563945fb6f1433bd73111bb87ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-8b41563945fb6f1433bd73111bb87ced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in section 172(1) of the Armed Forces Act 2006 (fitness to stand trial etc: definition of “duly approved”), and
 - (f) in section 258(5) of that Act (mentally disordered offenders), in the definition of “medical report”.
 
 ## Annotations
 
-[^key-04acb557fe6649b95253201f51d26a26]: Commencement: S. 38 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-04acb557fe6649b95253201f51d26a26]: Commencement: S. 38 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-8b41563945fb6f1433bd73111bb87ced]: Textual amendment: [S. 38(5)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/5/d) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8b41563945fb6f1433bd73111bb87ced]: Textual amendment: [S. 38(5)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/5/d) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 509. Miscellaneous and Supplementary[^key-01595c818171d3c9771429273f7948a9]
+## 509. Miscellaneous and Supplementary[^c-01595c818171d3c9771429273f7948a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ In regulation 23 of the Public Offers of Securities Regulations 1995—
 
 ## Annotations
 
-[^key-01595c818171d3c9771429273f7948a9]: Commencement: Art. 509 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-01595c818171d3c9771429273f7948a9]: Commencement: Art. 509 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

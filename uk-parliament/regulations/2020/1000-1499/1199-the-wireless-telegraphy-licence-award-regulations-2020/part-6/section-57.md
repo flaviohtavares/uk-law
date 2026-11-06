@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Assignment stage process[^key-60853769977bd873ed5a0f04721ee4a5]
+## 57. Assignment stage process[^c-60853769977bd873ed5a0f04721ee4a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where there is one winning bidder, or more than one winning bidder, following co
 
 ## Annotations
 
-[^key-60853769977bd873ed5a0f04721ee4a5]: Commencement: Reg. 57 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-60853769977bd873ed5a0f04721ee4a5]: Commencement: Reg. 57 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

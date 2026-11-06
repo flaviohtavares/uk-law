@@ -26,32 +26,32 @@ summary: ''
 
 ### Part 1 — Crimes at common law
 
-#### 1. Crimes at common law[^key-df9724c5ebe0ff9f3029d3cf8b1dfeae]
+#### 1. Crimes at common law[^c-df9724c5ebe0ff9f3029d3cf8b1dfeae]
 
 Rape.
 
-**2.**[^key-83f813335a41c433e7fbc84f01fb62c8] Clandestine injury to woman.
+**2.**[^c-83f813335a41c433e7fbc84f01fb62c8] Clandestine injury to woman.
 
-**3.**[^key-14fe27d2f4f532ee4e08d05e749c3fae] Abduction of woman or girl with intent to rape.
+**3.**[^c-14fe27d2f4f532ee4e08d05e749c3fae] Abduction of woman or girl with intent to rape.
 
-**4.**[^key-674a860f72e713f6a3e1c126b5ffc9db] Assault with intent to rape or ravish.
+**4.**[^c-674a860f72e713f6a3e1c126b5ffc9db] Assault with intent to rape or ravish.
 
-**5.**[^key-2a1ee22e43aa603d1f107af7d59f5b58] Indecent assault.
+**5.**[^c-2a1ee22e43aa603d1f107af7d59f5b58] Indecent assault.
 
-**6.**[^key-2a248d8a37c645fc313901ab3ecc72f8] Lewd, indecent or libidinous behaviour or practices.
+**6.**[^c-2a248d8a37c645fc313901ab3ecc72f8] Lewd, indecent or libidinous behaviour or practices.
 
-**7.**[^key-5d1357419ad10fcccaeb25c908c25063] Sodomy, unless every person involved in the offence was 16 or over and was a willing participant.
+**7.**[^c-5d1357419ad10fcccaeb25c908c25063] Sodomy, unless every person involved in the offence was 16 or over and was a willing participant.
 
 ### Part 2 — Statutory offences
 
-#### 8. Offences under the Mental Health (Scotland) Act 1984[^key-423f8702a78ba838749aedd0329aac13]
+#### 8. Offences under the Mental Health (Scotland) Act 1984[^c-423f8702a78ba838749aedd0329aac13]
 
 An offence under any of the following provisions of the Mental Health (Scotland) Act 1984—
 
 - (a) section 106 (protection of mentally handicapped females),
 - (b) section 107 (protection of patients).
 
-#### 9. Offences under the Criminal Law (Consolidation) (Scotland) Act 1995[^key-736108bb66e423398ce27563c885deba]
+#### 9. Offences under the Criminal Law (Consolidation) (Scotland) Act 1995[^c-736108bb66e423398ce27563c885deba]
 
 An offence under any of the following provisions of the Criminal Law (Consolidation) (Scotland) Act 1995—
 
@@ -63,22 +63,22 @@ An offence under any of the following provisions of the Criminal Law (Consolidat
 - (f) section 8 (abduction of girl under 18 for purposes of unlawful intercourse),
 - (g) section 10 (person having parental responsibilities causing or encouraging sexual activity in relation to a girl under 16).
 
-#### 10. Offence under the Sexual Offences (Amendment) Act 2000[^key-ad58c262c513682416fc459282b9f965]
+#### 10. Offence under the Sexual Offences (Amendment) Act 2000[^c-ad58c262c513682416fc459282b9f965]
 
 An offence under section 3 of the Sexual Offences (Amendment) Act 2000 (abuse of position of trust).
 
-#### 11. Offences under the Mental Health (Care and Treatment) (Scotland) Act 2003[^key-2074103c531cb872f6c0b8e353758b34]
+#### 11. Offences under the Mental Health (Care and Treatment) (Scotland) Act 2003[^c-2074103c531cb872f6c0b8e353758b34]
 
 An offence under any of the following provisions of the Mental Health (Care and Treatment) (Scotland) Act 2003—
 
 - (a) section 311(1) (non-consensual sexual acts),
 - (b) section 311(3) (persons providing care services: sexual offences).
 
-#### 12. Offence under the Prohibition of Female Genital Mutilation (Scotland) Act 2005[^key-8e3b08c33cf9a0181d206540524e85d1]
+#### 12. Offence under the Prohibition of Female Genital Mutilation (Scotland) Act 2005[^c-8e3b08c33cf9a0181d206540524e85d1]
 
 An offence under section 1 of the Prohibition of Female Genital Mutilation (Scotland) Act 2005 (female genital mutilation).
 
-#### 13. Offences under the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005[^key-6641abbc936d2a3ae68eb0ade365d931]
+#### 13. Offences under the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005[^c-6641abbc936d2a3ae68eb0ade365d931]
 
 An offence under any of the following provisions of the Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005—
 
@@ -88,7 +88,7 @@ An offence under any of the following provisions of the Protection of Children a
 - (d) section 11 (controlling a child providing sexual services or involved in pornography),
 - (e) section 12 (arranging or facilitating provision by child of sexual services or child pornography).
 
-#### 14. Offences under the Sexual Offences (Scotland) Act 2009[^key-01903c0a67cc0a688ccad42e65190284]
+#### 14. Offences under the Sexual Offences (Scotland) Act 2009[^c-01903c0a67cc0a688ccad42e65190284]
 
 (1) An offence under any of the following provisions of Part 1 of the Sexual Offences (Scotland) Act 2009 (rape etc.)—
 
@@ -141,15 +141,15 @@ An offence under any of the following provisions of the Protection of Children a
 - (c) assault with intent to commit rape under section 1 (rape),
 - (d) assault with intent to commit rape under section 18 (rape of a young child).
 
-#### 15. Offence under the Abusive Behaviour and Sexual Harm (Scotland) Act 2016[^key-7acdd28f48f0b51cb17cbcc289fee346]
+#### 15. Offence under the Abusive Behaviour and Sexual Harm (Scotland) Act 2016[^c-7acdd28f48f0b51cb17cbcc289fee346]
 
 An offence under section 2 of the Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (disclosing, or threatening to disclose, an intimate photograph or film).
 
-#### 16. Offence under the Domestic Abuse (Scotland) Act 2018[^key-5d919b6f435cad659dfe3c061a249857]
+#### 16. Offence under the Domestic Abuse (Scotland) Act 2018[^c-5d919b6f435cad659dfe3c061a249857]
 
 An offence under section 1(1) of the Domestic Abuse (Scotland) Act 2018 (abusive behaviour towards partner or ex-partner), where it is apparent from the offence as charged in the indictment that there was a substantial sexual element present in the alleged commission of the offence.
 
-#### 17. Offences under the Health and Care Act 2022[^key-672b276c56ec836117319050d974ab98]
+#### 17. Offences under the Health and Care Act 2022[^c-672b276c56ec836117319050d974ab98]
 
 An offence under any of the following provisions of the Health and Care Act 2022—
 
@@ -162,36 +162,36 @@ An offence under any of the following provisions of the Health and Care Act 2022
 
 ## Annotations
 
-[^key-df9724c5ebe0ff9f3029d3cf8b1dfeae]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-df9724c5ebe0ff9f3029d3cf8b1dfeae]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-83f813335a41c433e7fbc84f01fb62c8]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-83f813335a41c433e7fbc84f01fb62c8]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-14fe27d2f4f532ee4e08d05e749c3fae]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-14fe27d2f4f532ee4e08d05e749c3fae]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-674a860f72e713f6a3e1c126b5ffc9db]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-674a860f72e713f6a3e1c126b5ffc9db]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-2a1ee22e43aa603d1f107af7d59f5b58]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-2a1ee22e43aa603d1f107af7d59f5b58]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-2a248d8a37c645fc313901ab3ecc72f8]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-2a248d8a37c645fc313901ab3ecc72f8]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-5d1357419ad10fcccaeb25c908c25063]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-5d1357419ad10fcccaeb25c908c25063]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-423f8702a78ba838749aedd0329aac13]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-423f8702a78ba838749aedd0329aac13]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-736108bb66e423398ce27563c885deba]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-736108bb66e423398ce27563c885deba]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-ad58c262c513682416fc459282b9f965]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-ad58c262c513682416fc459282b9f965]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-2074103c531cb872f6c0b8e353758b34]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-2074103c531cb872f6c0b8e353758b34]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-8e3b08c33cf9a0181d206540524e85d1]: Commencement: Sch. 4 para. 12 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-8e3b08c33cf9a0181d206540524e85d1]: Commencement: Sch. 4 para. 12 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-6641abbc936d2a3ae68eb0ade365d931]: Commencement: Sch. 4 para. 13 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-6641abbc936d2a3ae68eb0ade365d931]: Commencement: Sch. 4 para. 13 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-01903c0a67cc0a688ccad42e65190284]: Commencement: Sch. 4 para. 14 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-01903c0a67cc0a688ccad42e65190284]: Commencement: Sch. 4 para. 14 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-7acdd28f48f0b51cb17cbcc289fee346]: Commencement: Sch. 4 para. 15 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-7acdd28f48f0b51cb17cbcc289fee346]: Commencement: Sch. 4 para. 15 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-5d919b6f435cad659dfe3c061a249857]: Commencement: Sch. 4 para. 16 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-5d919b6f435cad659dfe3c061a249857]: Commencement: Sch. 4 para. 16 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-672b276c56ec836117319050d974ab98]: Commencement: Sch. 4 para. 17 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-672b276c56ec836117319050d974ab98]: Commencement: Sch. 4 para. 17 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

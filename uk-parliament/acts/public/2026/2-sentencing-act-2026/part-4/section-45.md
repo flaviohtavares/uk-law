@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Deportation of foreign criminals[^key-a333c35cd463fccc7d03e4dfe4cd41f2][^key-93b2bbcbf4458f0fbde03772f5f703cf]
+## 45. Deportation of foreign criminals[^c-a333c35cd463fccc7d03e4dfe4cd41f2][^c-93b2bbcbf4458f0fbde03772f5f703cf]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a333c35cd463fccc7d03e4dfe4cd41f2]: Commencement: S. 45 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-a333c35cd463fccc7d03e4dfe4cd41f2]: Commencement: S. 45 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-93b2bbcbf4458f0fbde03772f5f703cf]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2026/2/section/45) in force at 22.3.2026 by [S.I. 2026/217](https://www.legislation.gov.uk/uksi/2026/217), [reg. 2](https://www.legislation.gov.uk/uksi/2026/217/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/217/regulation/3))
+[^c-93b2bbcbf4458f0fbde03772f5f703cf]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2026/2/section/45) in force at 22.3.2026 by [S.I. 2026/217](https://www.legislation.gov.uk/uksi/2026/217), [reg. 2](https://www.legislation.gov.uk/uksi/2026/217/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/217/regulation/3))

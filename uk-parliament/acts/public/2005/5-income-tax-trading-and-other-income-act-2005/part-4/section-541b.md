@@ -38,7 +38,7 @@ summary: ''
 (7) A policy or contract is a person's policy or contract if a gain arising in connection with it would be—
 
 - (a) a gain for which the person, or (if the person is an individual) the person's spouse or civil partner, would be liable to tax under this Chapter, or
-- (b)[^key-2ed26011de8cb2e43f1174636099c7d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2ed26011de8cb2e43f1174636099c7d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Any necessary apportionment is to be made (on a just and reasonable basis) as regards—
 
@@ -58,4 +58,4 @@ summary: ''
 
 [^c19864931]: Textual amendment: Ss. 541A, 541B and cross-heading inserted (19.7.2007 with effect as stated in [s. 29(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/29/4) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 29(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/29/3)
 
-[^key-2ed26011de8cb2e43f1174636099c7d9]: Textual amendment: S. 541B(7)(b) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/15)
+[^c-2ed26011de8cb2e43f1174636099c7d9]: Textual amendment: S. 541B(7)(b) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/15)

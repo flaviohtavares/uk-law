@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — Revocations[^key-6cb6df3451e952e989744be43463c4a8]
+## SCHEDULE 7 — Revocations[^c-6cb6df3451e952e989744be43463c4a8]
 
 *Extent: E+W*
 
 Regulation 41
 
-[^key-6cb6df3451e952e989744be43463c4a8]
+[^c-6cb6df3451e952e989744be43463c4a8]
 
 The following provisions are revoked to the extent specified.
 
@@ -45,4 +45,4 @@ The following provisions are revoked to the extent specified.
 
 ## Annotations
 
-[^key-6cb6df3451e952e989744be43463c4a8]: Commencement: Sch. 7 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-6cb6df3451e952e989744be43463c4a8]: Commencement: Sch. 7 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

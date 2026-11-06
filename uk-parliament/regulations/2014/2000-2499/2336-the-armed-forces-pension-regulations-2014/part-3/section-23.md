@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Pensionable earnings[^key-99337e6591938b1fae6dc6f6baf8e9ff]
+## 23. Pensionable earnings[^c-99337e6591938b1fae6dc6f6baf8e9ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ This is subject to paragraph (3).
 
 ## Annotations
 
-[^key-99337e6591938b1fae6dc6f6baf8e9ff]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/2336/regulation/23) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-99337e6591938b1fae6dc6f6baf8e9ff]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/2336/regulation/23) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

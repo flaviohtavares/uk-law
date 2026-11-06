@@ -67,7 +67,7 @@ These Regulations may be cited as the Control of Trade in Endangered Species (Fe
 - “the Commission Regulation” means Commission Regulation [(EC) No 865/2006](https://www.legislation.gov.uk/european/regulation/2006/0865) laying down detailed rules concerning the implementation of Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein;
 - “the Council Regulation” means Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/european/regulation/1997/0338) on the protection of species of wild fauna and flora by regulating trade therein;
 - “export permit” means an export permit referred to in Article 5(1), (2) and (4) of the Council Regulation;
-- “import permit” means an import permit referred to in Article 4(1) and (2) of the Council Regulation (but see regulation 6(5)(c) and (7)(b)(iii))[^key-97b4904ebbad37e5da3b120937a0761e];
+- “import permit” means an import permit referred to in Article 4(1) and (2) of the Council Regulation (but see regulation 6(5)(c) and (7)(b)(iii))[^c-97b4904ebbad37e5da3b120937a0761e];
 - “movement certificate” means a certificate referred to in Articles 9(2)(b) and 10 of the Council Regulation;
 - “purpose code” means a code indicating the purpose of a transaction, referred to in Article 5(5) of the Commission Regulation and listed in Annex IX(1) to that Regulation;
 - “re-export certificate” means a re-export certificate referred to in Article 5(1), (3) and (4) of the Council Regulation;
@@ -86,17 +86,17 @@ These Regulations may be cited as the Control of Trade in Endangered Species (Fe
 
 ## 3. Fees
 
-(1)[^key-fb2b8aaf3165f283a4b289c2fa304a8b] Except where regulation 4 applies, a person who wishes to obtain a permit, certificate or registration specified in an entry in column 1 of the Schedule must pay the fee specified corresponding to that entry in column 2 (for animals) or column 3 (for plants) as the case may be.
+(1)[^c-fb2b8aaf3165f283a4b289c2fa304a8b] Except where regulation 4 applies, a person who wishes to obtain a permit, certificate or registration specified in an entry in column 1 of the Schedule must pay the fee specified corresponding to that entry in column 2 (for animals) or column 3 (for plants) as the case may be.
 
-(2) A fee which is payable by virtue of paragraph (1) or regulation 4[^key-91a68a7c9cb56ca330430dd6630fc1b1] must be paid—
+(2) A fee which is payable by virtue of paragraph (1) or regulation 4[^c-91a68a7c9cb56ca330430dd6630fc1b1] must be paid—
 
 - (a) in relation to each application,
 - (b) to the Secretary of State, and
 - (c) when the application is made.
 
-(3)[^key-43944c2245b896bfaabe1c706ed57263] If any application for which a fee is payable under these Regulations is withdrawn before consideration of the application, the Secretary of State must refund to the applicant such proportion of any fee paid in respect of that application as the Secretary of State thinks fit, having regard to any reasonable costs incurred by the Secretary of State in connection with the application.
+(3)[^c-43944c2245b896bfaabe1c706ed57263] If any application for which a fee is payable under these Regulations is withdrawn before consideration of the application, the Secretary of State must refund to the applicant such proportion of any fee paid in respect of that application as the Secretary of State thinks fit, having regard to any reasonable costs incurred by the Secretary of State in connection with the application.
 
-## 4. Fee for the issue of additional permits or certificates[^key-71f17e2c66cf7370f196c648ac035b9f]
+## 4. Fee for the issue of additional permits or certificates[^c-71f17e2c66cf7370f196c648ac035b9f]
 
 Where a single application covers more than one specimen and the issue of more than one permit or certificate is required, a fee of £1.50 is payable by the applicant for each additional permit or certificate issued.
 
@@ -110,7 +110,7 @@ Where a single application covers more than one specimen and the issue of more t
 (2) In paragraph (1)—
 
 - (a) “permit or certificate” means any permit or certificate specified in column 1 of the Schedule, and
-- (b) “fee” means the fee which would otherwise be payable by virtue of regulation 3(1) or 4[^key-ec14a4e79b1ff94ce0015fb71c1c04a4] .
+- (b) “fee” means the fee which would otherwise be payable by virtue of regulation 3(1) or 4[^c-ec14a4e79b1ff94ce0015fb71c1c04a4] .
 
 ## 6. Applications
 
@@ -142,7 +142,7 @@ Where a single application covers more than one specimen and the issue of more t
 
 - (a) are of the same species (in the case of animals other than corals) or genus (in the case of plants and corals),
 - (b) are included together on a single previously issued commercial use certificate,
-- (c)[^key-91b45678b6af61ed7f59b47042f85c99] were imported—
+- (c)[^c-91b45678b6af61ed7f59b47042f85c99] were imported—
   - (i) on a single import permit; or
   - (ii) into a member State on a single import permit referred to in Article 4(1) and (2) of the Council Regulation as it had effect immediately before IP completion day;
 - (d) have been bred from the same parents in the same breeding season.
@@ -160,11 +160,11 @@ Where a single application covers more than one specimen and the issue of more t
 - (b) the specimens—
   - (i) have the same source code and the same country of origin,
   - (ii) are included together on a single previously issued commercial use certificate, or
-  - (iii)[^key-9de5e6aaf43036ab53674e33efc1fd07] were imported—
+  - (iii)[^c-9de5e6aaf43036ab53674e33efc1fd07] were imported—
     - (aa) on a single import permit; or
     - (bb) into a member State on a single import permit referred to in Article 4(1) and (2) of the Council Regulation as it had effect immediately before IP completion day;
 
-(8) For the purposes of obtaining a pre-issued permit or certificate as described in Article 18, 19 or 29[^key-16ecfde05cd89d8689b01ee3a073a130] of the Commission Regulation, two or more specimens may be the subject of one application provided that—
+(8) For the purposes of obtaining a pre-issued permit or certificate as described in Article 18, 19 or 29[^c-16ecfde05cd89d8689b01ee3a073a130] of the Commission Regulation, two or more specimens may be the subject of one application provided that—
 
 - (a) the specimens are of the same species (in the case of animals other than corals) or genus (in the case of plants and corals), and
 - (b) the information which is specified by the Secretary of State on each of the pre-issued permits or certificates in question relating to those specimens is the same.
@@ -196,7 +196,7 @@ Tony Cunningham
 
 Two of the Lords Commissioners of Her Majesty’s Treasury
 
-## SCHEDULE — FEES[^key-b28b3193b8d7fde8c896df6264d94f8a]
+## SCHEDULE — FEES[^c-b28b3193b8d7fde8c896df6264d94f8a]
 
 Regulation 3
 
@@ -247,26 +247,26 @@ An impact assessment in relation to this instrument is available on the Defra we
 
 [^f00005]: Footnote: The Convention was ratified by the United Kingdom on 2nd August 1976; the text can be found at www.cites.org.
 
-[^key-97b4904ebbad37e5da3b120937a0761e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/496/regulation/2/1) inserted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/2/2)
+[^c-97b4904ebbad37e5da3b120937a0761e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/496/regulation/2/1) inserted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/2/2)
 
 [^f00006]: Footnote: Article 44a was inserted by Commission Regulation [(EC) No 100/2008](https://www.legislation.gov.uk/european/regulation/2008/0100).
 
-[^key-fb2b8aaf3165f283a4b289c2fa304a8b]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/496/regulation/3/1) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/2/a)
+[^c-fb2b8aaf3165f283a4b289c2fa304a8b]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/496/regulation/3/1) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/2/a)
 
-[^key-91a68a7c9cb56ca330430dd6630fc1b1]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/496/regulation/3/2) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/2/b)
+[^c-91a68a7c9cb56ca330430dd6630fc1b1]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/496/regulation/3/2) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/2/b)
 
-[^key-43944c2245b896bfaabe1c706ed57263]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2009/496/regulation/3/3) inserted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(2)(c)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/2/c)
+[^c-43944c2245b896bfaabe1c706ed57263]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2009/496/regulation/3/3) inserted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(2)(c)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/2/c)
 
-[^key-71f17e2c66cf7370f196c648ac035b9f]: Textual amendment: Reg. 4 substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/3)
+[^c-71f17e2c66cf7370f196c648ac035b9f]: Textual amendment: Reg. 4 substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/3)
 
-[^key-ec14a4e79b1ff94ce0015fb71c1c04a4]: Textual amendment: Word in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2009/496/regulation/5/2/b) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/4)
+[^c-ec14a4e79b1ff94ce0015fb71c1c04a4]: Textual amendment: Word in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2009/496/regulation/5/2/b) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/4)
 
-[^key-91b45678b6af61ed7f59b47042f85c99]: Textual amendment: [Reg. 6(5)(c)](https://www.legislation.gov.uk/uksi/2009/496/regulation/6/5/c) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/2/3/a)
+[^c-91b45678b6af61ed7f59b47042f85c99]: Textual amendment: [Reg. 6(5)(c)](https://www.legislation.gov.uk/uksi/2009/496/regulation/6/5/c) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/2/3/a)
 
-[^key-9de5e6aaf43036ab53674e33efc1fd07]: Textual amendment: [Reg. 6(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2009/496/regulation/6/7/b/iii) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/2/3/b)
+[^c-9de5e6aaf43036ab53674e33efc1fd07]: Textual amendment: [Reg. 6(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2009/496/regulation/6/7/b/iii) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/2/3/b)
 
-[^key-16ecfde05cd89d8689b01ee3a073a130]: Textual amendment: Words in [reg. 6(8)](https://www.legislation.gov.uk/uksi/2009/496/regulation/6/8) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(5)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/5)
+[^c-16ecfde05cd89d8689b01ee3a073a130]: Textual amendment: Words in [reg. 6(8)](https://www.legislation.gov.uk/uksi/2009/496/regulation/6/8) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(5)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/5)
 
 [^f00007]: Footnote: [S.I. 1997/1421](https://www.legislation.gov.uk/uksi/1997/1421).
 
-[^key-b28b3193b8d7fde8c896df6264d94f8a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2009/496/schedule) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(6)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/6), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1240/schedule/1)
+[^c-b28b3193b8d7fde8c896df6264d94f8a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2009/496/schedule) substituted (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/1/4), [4(6)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/4/6), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1240/schedule/1)

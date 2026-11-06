@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29.4. Statutory declaration to avoid fine after fixed penalty notice[^key-6fad3ba16ae55e0a633fd120fea93148]
+## 29.4. Statutory declaration to avoid fine after fixed penalty notice[^c-6fad3ba16ae55e0a633fd120fea93148]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 - (b) cancel any endorsement on the defendant’s driving record (and on any counterpart licence, if other legislation requires); and
 - (c) notify the Secretary of State of any such cancellation.
 
-*\[Note. See sections 72(1), [^key-29fac9ef13b11de4ef69a7baba244a24]... (6A), 73(1) and 74(2) of the Road Traffic Offenders Act 1988*[^f00711].
+*\[Note. See sections 72(1), [^c-29fac9ef13b11de4ef69a7baba244a24]... (6A), 73(1) and 74(2) of the Road Traffic Offenders Act 1988*[^f00711].
 
 *For the circumstances in which*—
 
@@ -47,9 +47,9 @@ summary: ''
 
 ## Annotations
 
-[^key-6fad3ba16ae55e0a633fd120fea93148]: Commencement: [Rule 29.4](https://www.legislation.gov.uk/uksi/2025/909/rule/29.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6fad3ba16ae55e0a633fd120fea93148]: Commencement: [Rule 29.4](https://www.legislation.gov.uk/uksi/2025/909/rule/29.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
-[^key-29fac9ef13b11de4ef69a7baba244a24]: Textual amendment: Word in rule 29.4 Note omitted (23.2.2026) by virtue of [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/9)
+[^c-29fac9ef13b11de4ef69a7baba244a24]: Textual amendment: Word in rule 29.4 Note omitted (23.2.2026) by virtue of [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/9)
 
 [^f00711]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53); section 72(1) was amended by paragraphs 140 and 151 of Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22).
 

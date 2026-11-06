@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Effect of application for assessment[^key-6b3151dce25d7593a2f9699cb07c4ec1][^key-16d8584bda318e60b7f3fa14b2593e3b][^key-42056f7475fc7e2edadb439c11c20616]
+## 8. Effect of application for assessment[^c-6b3151dce25d7593a2f9699cb07c4ec1][^c-16d8584bda318e60b7f3fa14b2593e3b][^c-42056f7475fc7e2edadb439c11c20616]
 
 *Extent: N.I.*
 
@@ -35,20 +35,20 @@ to take the patient and convey him to the hospital specified in the application 
 - (a) the application shall be sufficient authority for the responsible authority to detain the patient in the hospital in accordance with Article 9; and
 - (b) the responsible authority shall immediately forward to RQIA a copy of the application for assessment and of the medical recommendation on which it is founded.
 
-(3) Where a patient who is subject under this Order to the guardianship of a person other than [^key-8aa4ad013a7a4546b579004f3768a024]... an authorised HSC[^c21355271] trust is admitted to hospital for assessment, it shall be the duty of the responsible authority to inform the guardian of the patient to that effect as soon as may be practicable.
+(3) Where a patient who is subject under this Order to the guardianship of a person other than [^c-8aa4ad013a7a4546b579004f3768a024]... an authorised HSC[^c21355271] trust is admitted to hospital for assessment, it shall be the duty of the responsible authority to inform the guardian of the patient to that effect as soon as may be practicable.
 
 ## Annotations
 
-[^key-6b3151dce25d7593a2f9699cb07c4ec1]: Modification: [Art. 8](https://www.legislation.gov.uk/nisi/1986/595/article/8) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(e)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/e), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-6b3151dce25d7593a2f9699cb07c4ec1]: Modification: [Art. 8](https://www.legislation.gov.uk/nisi/1986/595/article/8) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(e)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/e), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-16d8584bda318e60b7f3fa14b2593e3b]: Modification: [Art. 8](https://www.legislation.gov.uk/nisi/1986/595/article/8) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(e)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/e), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-16d8584bda318e60b7f3fa14b2593e3b]: Modification: [Art. 8](https://www.legislation.gov.uk/nisi/1986/595/article/8) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(e)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/e), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
 [^c17122051]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 
 [^c21356281]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 8(1)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/8/1) (subject to [Sch. 6 para. 8(2)-(4)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/8/2)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-8aa4ad013a7a4546b579004f3768a024]: Textual amendment: Words in [art. 8(3)](https://www.legislation.gov.uk/nisi/1986/595/article/8/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 69](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/69); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-8aa4ad013a7a4546b579004f3768a024]: Textual amendment: Words in [art. 8(3)](https://www.legislation.gov.uk/nisi/1986/595/article/8/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 69](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/69); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c21355271]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)

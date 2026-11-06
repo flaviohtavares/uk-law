@@ -42,7 +42,7 @@ summary: ''
 
 (3) A Health Board may only enter into a general medical services contract if the Board is satisfied that the contractor has sufficient involvement in patient care.
 
-(4)[^key-33d0efd59fa16ac1e66e1eff40873346] The contractor has sufficient involvement in patient care if—
+(4)[^c-33d0efd59fa16ac1e66e1eff40873346] The contractor has sufficient involvement in patient care if—
 
 - (a) where the contractor is a medical practitioner or other health care professional prescribed under subsection (1)(b), the contractor, or
 - (b) where the contractor is a partnership, limited liability partnership or a company, each partner or, as the case may be, member of the contractor,
@@ -52,7 +52,7 @@ regularly performs, or is engaged in the day to day provision of, primary medica
 (5) Regulations may—
 
 - (a) make provision as to what constitutes the regular performance of, or being engaged in the day to day provision of, primary medical services for the purposes of subsection (4),
-- (b)[^key-a9a39362f769e0183ed31062487193dc] provide that references in subsection (4) to a person who is performing or is engaged in the provision of services include a person who has performed or been engaged in providing the services within such period as may be prescribed.
+- (b)[^c-a9a39362f769e0183ed31062487193dc] provide that references in subsection (4) to a person who is performing or is engaged in the provision of services include a person who has performed or been engaged in providing the services within such period as may be prescribed.
 
 (6) Regulations under subsection (5)(a) may, in particular, provide that a period of time in which a person is not performing or is not engaged in the provision of primary medical services is, in prescribed circumstances, to be disregarded for the purposes of determining whether the person regularly performs or is engaged in the day to day provision of those services.
 
@@ -66,6 +66,6 @@ regularly performs, or is engaged in the day to day provision of, primary medica
 
 [^c20947511]: Textual amendment: Ss. 17J-17O and cross-heading inserted (13.2.2004 for certain purposes otherwise 1.4.2004) by [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [ss. 4](https://www.legislation.gov.uk/asp/2004/1/section/4), [9(1)](https://www.legislation.gov.uk/asp/2004/1/section/9/1); [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(1)(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/1/3), [Sch.](https://www.legislation.gov.uk/ssi/2004/58/schedule)
 
-[^key-33d0efd59fa16ac1e66e1eff40873346]: Modification: [S. 17L(4)](https://www.legislation.gov.uk/ukpga/1978/29/section/17L/4) modified (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [regs. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [7(1)](https://www.legislation.gov.uk/ssi/2018/66/regulation/7/1) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-33d0efd59fa16ac1e66e1eff40873346]: Modification: [S. 17L(4)](https://www.legislation.gov.uk/ukpga/1978/29/section/17L/4) modified (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [regs. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [7(1)](https://www.legislation.gov.uk/ssi/2018/66/regulation/7/1) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
 
-[^key-a9a39362f769e0183ed31062487193dc]: Modification: [S. 17L(5)(b)](https://www.legislation.gov.uk/ukpga/1978/29/section/17L/5/b) modified (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [regs. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2018/66/regulation/7/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-a9a39362f769e0183ed31062487193dc]: Modification: [S. 17L(5)(b)](https://www.legislation.gov.uk/ukpga/1978/29/section/17L/5/b) modified (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [regs. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2018/66/regulation/7/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))

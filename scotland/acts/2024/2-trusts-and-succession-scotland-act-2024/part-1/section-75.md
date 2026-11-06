@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Superintendence order as to investment and distribution of trust property[^key-588f988dc010b7a944c3aa0fa1cf42f0]
+## 75. Superintendence order as to investment and distribution of trust property[^c-588f988dc010b7a944c3aa0fa1cf42f0]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-588f988dc010b7a944c3aa0fa1cf42f0]: Commencement: S. 75 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-588f988dc010b7a944c3aa0fa1cf42f0]: Commencement: S. 75 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

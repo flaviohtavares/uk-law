@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Minutes[^key-cc7c4986f5c0293d8db923cfb30ebb99]
+## 32. Minutes[^c-cc7c4986f5c0293d8db923cfb30ebb99]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc7c4986f5c0293d8db923cfb30ebb99]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2013/3208/rule/32) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-cc7c4986f5c0293d8db923cfb30ebb99]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2013/3208/rule/32) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

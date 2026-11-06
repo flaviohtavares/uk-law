@@ -34,7 +34,7 @@ Dangerous Drugs, England And Wales
 
 Dangerous Drugs, Scotland
 
-The Misuse of Drugs (Designation) (Amendment) (No. 2) (England, Wales and Scotland) Order 2014 (revoked)[^key-59bf8ae4c1af704d4e416fdba2c13d76]
+The Misuse of Drugs (Designation) (Amendment) (No. 2) (England, Wales and Scotland) Order 2014 (revoked)[^c-59bf8ae4c1af704d4e416fdba2c13d76]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 24th June 2014
 
-[^key-59bf8ae4c1af704d4e416fdba2c13d76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59bf8ae4c1af704d4e416fdba2c13d76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-59bf8ae4c1af704d4e416fdba2c13d76]
+## 1. Citation, commencement and extent[^c-59bf8ae4c1af704d4e416fdba2c13d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Misuse of Drugs (Designation) Order 2001[^key-59bf8ae4c1af704d4e416fdba2c13d76]
+## 2. Amendment to the Misuse of Drugs (Designation) Order 2001[^c-59bf8ae4c1af704d4e416fdba2c13d76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-59bf8ae4c1af704d4e416fdba2c13d76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59bf8ae4c1af704d4e416fdba2c13d76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-59bf8ae4c1af704d4e416fdba2c13d76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59bf8ae4c1af704d4e416fdba2c13d76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-59bf8ae4c1af704d4e416fdba2c13d76]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1376) revoked (31.5.2015) by [The Misuse of Drugs (Designation) (England, Wales and Scotland) Order 2015 (S.I. 2015/704)](https://www.legislation.gov.uk/uksi/2015/704), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/704/schedule/2)
+[^c-59bf8ae4c1af704d4e416fdba2c13d76]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1376) revoked (31.5.2015) by [The Misuse of Drugs (Designation) (England, Wales and Scotland) Order 2015 (S.I. 2015/704)](https://www.legislation.gov.uk/uksi/2015/704), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/704/schedule/2)

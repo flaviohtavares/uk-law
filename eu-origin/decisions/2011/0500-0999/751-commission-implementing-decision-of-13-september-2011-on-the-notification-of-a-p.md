@@ -35,41 +35,41 @@ on the notification of a proposal for amendment to the Annexes to the EC-US Agre
 
 (2011/751/EU) (revoked)
 
-[^key-7a25e9b1997b9a30347e0e62aa215bff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a25e9b1997b9a30347e0e62aa215bff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-7a25e9b1997b9a30347e0e62aa215bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7a25e9b1997b9a30347e0e62aa215bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7a25e9b1997b9a30347e0e62aa215bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7a25e9b1997b9a30347e0e62aa215bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a25e9b1997b9a30347e0e62aa215bff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a25e9b1997b9a30347e0e62aa215bff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Proposal for amendment to the Annexes to the Agreement between the European Community and the United States of America on trade in wine[^key-7a25e9b1997b9a30347e0e62aa215bff]
+## ANNEX — Proposal for amendment to the Annexes to the Agreement between the European Community and the United States of America on trade in wine[^c-7a25e9b1997b9a30347e0e62aa215bff]
 
-[^key-7a25e9b1997b9a30347e0e62aa215bff](1)
+[^c-7a25e9b1997b9a30347e0e62aa215bff](1)
 
 Annex I point (b) is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a25e9b1997b9a30347e0e62aa215bff](2)
+[^c-7a25e9b1997b9a30347e0e62aa215bff](2)
 
 Annex III is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a25e9b1997b9a30347e0e62aa215bff](3)
+[^c-7a25e9b1997b9a30347e0e62aa215bff](3)
 
 Annex IV is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a25e9b1997b9a30347e0e62aa215bff](4)
+[^c-7a25e9b1997b9a30347e0e62aa215bff](4)
 
 Annex V is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a25e9b1997b9a30347e0e62aa215bff](5)
+[^c-7a25e9b1997b9a30347e0e62aa215bff](5)
 
 Annex VI is replaced by the following:
 
@@ -77,4 +77,4 @@ Annex VI is replaced by the following:
 
 ## Annotations
 
-[^key-7a25e9b1997b9a30347e0e62aa215bff]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 31](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a25e9b1997b9a30347e0e62aa215bff]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 31](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

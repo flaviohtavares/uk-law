@@ -22,7 +22,7 @@ summary: ''
 
 Article 12(1)
 
-### 1. Meaning of “old public company”[^key-35e562bbcb95119b54293bd8a17ad858]
+### 1. Meaning of “old public company”[^c-35e562bbcb95119b54293bd8a17ad858]
 
 For the purposes of this Schedule an “old public company” is a company limited by shares, or a company limited by guarantee and having a share capital, in respect of which the following conditions are met—
 
@@ -110,12 +110,12 @@ the registrar of companies shall issue the company with a certificate stating th
 
 (3) In the case of a company that—
 
-- (a) after 30th September 1984[^key-2f15bbfd973aff002610da02e5c0c633] remained an old public company, and
+- (a) after 30th September 1984[^c-2f15bbfd973aff002610da02e5c0c633] remained an old public company, and
 - (b) did not before that date apply to be re-registered as a public company,
 
 any charge on its own shares which was in existence on or immediately before that date is a permitted charge and not void under section 670 of the Companies Act 2006.
 
-(4)[^key-86a9fabca39370507918361a896a176c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-86a9fabca39370507918361a896a176c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. Old public companies: trading under misleading name
 
@@ -131,8 +131,8 @@ Sections 584 to 587 of the Companies Act 2006 (payment for shares: additional ru
 
 ## Annotations
 
-[^key-35e562bbcb95119b54293bd8a17ad858]: Textual amendment: Sch. 3 para. 1 substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/4/3/a)
+[^c-35e562bbcb95119b54293bd8a17ad858]: Textual amendment: Sch. 3 para. 1 substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/4/3/a)
 
-[^key-2f15bbfd973aff002610da02e5c0c633]: Textual amendment: Words in [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/3/paragraph/7/3) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2011/1265/article/4/3/b/i)
+[^c-2f15bbfd973aff002610da02e5c0c633]: Textual amendment: Words in [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/3/paragraph/7/3) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2011/1265/article/4/3/b/i)
 
-[^key-86a9fabca39370507918361a896a176c]: Textual amendment: [Sch. 3 para. 7(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/3/paragraph/7/4) omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1265/article/4/3/b/ii)
+[^c-86a9fabca39370507918361a896a176c]: Textual amendment: [Sch. 3 para. 7(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/3/paragraph/7/4) omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1265/article/4/3/b/ii)

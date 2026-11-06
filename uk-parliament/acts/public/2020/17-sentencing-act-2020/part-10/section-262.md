@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262. Detention in a young offender institution for offender at least 18 but under 21[^key-88439e4e622425f298caf271deaee1e9]
+## 262. Detention in a young offender institution for offender at least 18 but under 21[^c-88439e4e622425f298caf271deaee1e9]
 
 *Extent: E+W*
 
@@ -35,13 +35,13 @@ summary: ''
 
 the power of the court to impose such a sentence is subject (in particular) to section 230 (threshold for imposing discretionary custodial sentence).
 
-(3) For circumstances in which a court is required to impose a sentence of detention in a young offender institution, see the provisions mentioned in—[^key-906c0a08b6d7aaf6b3963ce29dcf6405]
+(3) For circumstances in which a court is required to impose a sentence of detention in a young offender institution, see the provisions mentioned in—[^c-906c0a08b6d7aaf6b3963ce29dcf6405]
 
 - (a) section 399(ba) (serious terrorism sentences);
 - (b) section 399(c) (mandatory minimum sentences).
 
 ## Annotations
 
-[^key-88439e4e622425f298caf271deaee1e9]: Commencement: S. 262 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-88439e4e622425f298caf271deaee1e9]: Commencement: S. 262 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-906c0a08b6d7aaf6b3963ce29dcf6405]: Textual amendment: Words in s. 262(3) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 11(9)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/11/9)
+[^c-906c0a08b6d7aaf6b3963ce29dcf6405]: Textual amendment: Words in s. 262(3) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 11(9)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/11/9)

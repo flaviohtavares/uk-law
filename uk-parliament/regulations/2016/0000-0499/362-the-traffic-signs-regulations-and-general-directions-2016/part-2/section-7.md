@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Studs that provide illumination[^key-589f115eb67f83bdd7e49c4bb3d42412]
+## 7. Studs that provide illumination[^c-589f115eb67f83bdd7e49c4bb3d42412]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-589f115eb67f83bdd7e49c4bb3d42412]: Commencement: [Dir. 7](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/7) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
+[^c-589f115eb67f83bdd7e49c4bb3d42412]: Commencement: [Dir. 7](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/7) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)

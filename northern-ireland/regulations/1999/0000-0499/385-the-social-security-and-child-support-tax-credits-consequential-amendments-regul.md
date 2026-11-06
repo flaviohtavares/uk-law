@@ -44,13 +44,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by the provisions set out in Schedule 1 and of all other powers enabling it in that behalf, by this statutory rule, which contains only regulations consequential upon the Tax Credits Act 1999[^f00001] and which is made before the end of a period of six months from the commencement of those provisions, with the consent of the Department of the Environment for Northern Ireland[^f00002] in so far as regulations 2 and 3 are concerned, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-d3986c2c67c7c5b1d807991e6333b856]
+## 1. Citation, commencement and interpretation[^c-d3986c2c67c7c5b1d807991e6333b856]
 
 (1) These Regulations may be cited as the Social Security and Child Support (Tax Credits Consequential Amendments) Regulations (Northern Ireland) 1999 and shall come into operation on 5th October 1999.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendments consequential on the renaming of family credit as working families' tax credit and of disability working allowance as disabled person’s tax credit[^key-6d730a6d496a4811f84aea3ac8144aab]
+## 2. Amendments consequential on the renaming of family credit as working families' tax credit and of disability working allowance as disabled person’s tax credit[^c-6d730a6d496a4811f84aea3ac8144aab]
 
 (1) Subject to paragraph (3), in the provisions mentioned in Part I of Schedule 2, for the words “family credit” wherever they occur, except where they appear in a reference to the title of the Family Credit (General) Regulations (Northern Ireland) 1987[^f00004], there shall be substituted “working families' tax credit”.
 
@@ -69,15 +69,15 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
   .
 
-## 3. Amendment of the Housing Benefit (General) Regulations[^key-6631b07a655cb8820209e1b0165a21af]
+## 3. Amendment of the Housing Benefit (General) Regulations[^c-6631b07a655cb8820209e1b0165a21af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Schedule 8 to the Social Security (Claims and Payments) Regulations[^key-45a225a3ee3e536931716b68c1487ef9][^key-5e4b21da54780104bfc9730e9b0a0568]
+## 4. Amendment of Schedule 8 to the Social Security (Claims and Payments) Regulations[^c-45a225a3ee3e536931716b68c1487ef9][^c-5e4b21da54780104bfc9730e9b0a0568]
 
 In paragraph 2(b) of Schedule 8 to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00011] (election to have child benefit paid weekly) for “family credit or disability working allowance” there shall be substituted “or payment in accordance with an award of family credit or disability working allowance which was awarded with effect from a date falling before 5th October 1999”.
 
-## 5. Amendment of regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regulations[^key-b63a9e3492e2bc7a13ab4242655d6ecf]
+## 5. Amendment of regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regulations[^c-b63a9e3492e2bc7a13ab4242655d6ecf]
 
 In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regulations (Northern Ireland) 1988[^f00012] (benefits from which an award may be recovered)—
 
@@ -92,11 +92,11 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
   .
 
-## 6. Amendment of regulation 1 of the Child Support (Maintenance Assessment Procedure) Regulations[^key-a1fee5a1e524b7c3dbf1def7133f96b6]
+## 6. Amendment of regulation 1 of the Child Support (Maintenance Assessment Procedure) Regulations[^c-a1fee5a1e524b7c3dbf1def7133f96b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation and Saving of the Child Support (Compensation for Recipients of Family Credit and Disability Working Allowance) Regulations[^key-ec3efd2e96f3b432d93f02365e3d8caa]
+## 7. Revocation and Saving of the Child Support (Compensation for Recipients of Family Credit and Disability Working Allowance) Regulations[^c-ec3efd2e96f3b432d93f02365e3d8caa]
 
 The Child Support (Compensation for Recipients of Family Credit and Disability Working Allowance) Regulations (Northern Ireland) 1995[^f00016] are revoked except that they shall continue to have effect in the case of an award of family credit or disability working allowance awarded with effect from a date falling before 5th October 1999.
 
@@ -118,7 +118,7 @@ Assistant Secretary
 
 15th September 1999.
 
-## SCHEDULE 1 — Provisions conferring powers exercised in making these Regulations[^key-9a3985ddc6fd3048922529d5cf46dc29]
+## SCHEDULE 1 — Provisions conferring powers exercised in making these Regulations[^c-9a3985ddc6fd3048922529d5cf46dc29]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -153,7 +153,7 @@ Assistant Secretary
 
 Regulation 2(1)
 
-### Part I — Provisions in which the words “family credit” are substituted by “working families' tax credit”[^key-945c60b12f7bd58b28092d15544af36a]
+### Part I — Provisions in which the words “family credit” are substituted by “working families' tax credit”[^c-945c60b12f7bd58b28092d15544af36a]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -162,14 +162,14 @@ Regulation 2(1)
 |  | regulation 5(b)[^f00027] |
 |  | regulation 6(1)(a)[^f00028] |
 | The Income Support (General) Regulations (Northern Ireland) 1987[^f00029] | regulation 42(2)(e)[^f00030] |
-| [^key-b6d0e1f3bea04fa51c568fd64c22a660]. . . | [^key-b6d0e1f3bea04fa51c568fd64c22a660]. . . |
+| [^c-b6d0e1f3bea04fa51c568fd64c22a660]. . . | [^c-b6d0e1f3bea04fa51c568fd64c22a660]. . . |
 |  | Schedule 4, paragraph 61[^f00032] |
-| [^key-8de05ed8723314ca55fe26ead175e004]. . . | [^key-8de05ed8723314ca55fe26ead175e004]. . . |
-|  | [^key-8de05ed8723314ca55fe26ead175e004]...[^f00035], |
-|  | [^key-8de05ed8723314ca55fe26ead175e004]. . . |
+| [^c-8de05ed8723314ca55fe26ead175e004]. . . | [^c-8de05ed8723314ca55fe26ead175e004]. . . |
+|  | [^c-8de05ed8723314ca55fe26ead175e004]...[^f00035], |
+|  | [^c-8de05ed8723314ca55fe26ead175e004]. . . |
 | The Social Security (Effect of Family Credit on Earnings Factors) Regulations (Northern Ireland) 1995[^f00038] | regulation 2 |
 | The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00039] | regulation 105(2)(d) |
-| [^key-8de05ed8723314ca55fe26ead175e004]. . . | [^key-8de05ed8723314ca55fe26ead175e004]. . . |
+| [^c-8de05ed8723314ca55fe26ead175e004]. . . | [^c-8de05ed8723314ca55fe26ead175e004]. . . |
 | The Social Security (Back to Work Bonus) (No. 2) Regulations (Northern Ireland) 1996[^f00041] | regulation 21(b) |
 | The Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996[^f00042] | regulation 14(b) |
 
@@ -177,7 +177,7 @@ Regulation 2(1)
 
 Regulation 2(2)
 
-### Part II — Provisions in which the words “disability working allowance” are substituted by “disabled person’s tax credit”[^key-25c8b422c38065913f632a6d7dfc7a5e]
+### Part II — Provisions in which the words “disability working allowance” are substituted by “disabled person’s tax credit”[^c-25c8b422c38065913f632a6d7dfc7a5e]
 
 | Column 1 | Column 2 |
 | --- | --- |
@@ -188,16 +188,16 @@ Regulation 2(2)
 |  | regulation 6(1)(a) |
 | The Income Support (General) Regulations (Northern Ireland) 1987 | regulation 42(2)(f)[^f00045] |
 |  | Schedule 2, paragraph 12(1)(a)(i)[^f00046] |
-| [^key-b6d0e1f3bea04fa51c568fd64c22a660]. . . | [^key-b6d0e1f3bea04fa51c568fd64c22a660]. . . |
-|  | [^key-b6d0e1f3bea04fa51c568fd64c22a660]. . . |
-|  | [^key-b6d0e1f3bea04fa51c568fd64c22a660]. . . |
-| [^key-8de05ed8723314ca55fe26ead175e004]. . . | [^key-8de05ed8723314ca55fe26ead175e004]. . . |
-|  | [^key-8de05ed8723314ca55fe26ead175e004]. . . |
-|  | [^key-8de05ed8723314ca55fe26ead175e004]. . . |
+| [^c-b6d0e1f3bea04fa51c568fd64c22a660]. . . | [^c-b6d0e1f3bea04fa51c568fd64c22a660]. . . |
+|  | [^c-b6d0e1f3bea04fa51c568fd64c22a660]. . . |
+|  | [^c-b6d0e1f3bea04fa51c568fd64c22a660]. . . |
+| [^c-8de05ed8723314ca55fe26ead175e004]. . . | [^c-8de05ed8723314ca55fe26ead175e004]. . . |
+|  | [^c-8de05ed8723314ca55fe26ead175e004]. . . |
+|  | [^c-8de05ed8723314ca55fe26ead175e004]. . . |
 | The Social Security (Effect of Family Credit on Earnings Factors) Regulations (Northern Ireland) 1995 | regulation 2 |
 | The Jobseeker’s Allowance Regulations (Northern Ireland) 1996 | regulation 105(2)(d) |
 |  | Schedule 1, paragraph 14(1)(a) |
-| [^key-8de05ed8723314ca55fe26ead175e004]. . . | [^key-8de05ed8723314ca55fe26ead175e004]. . . |
+| [^c-8de05ed8723314ca55fe26ead175e004]. . . | [^c-8de05ed8723314ca55fe26ead175e004]. . . |
 | The Social Security (Back to Work Bonus) (No. 2) Regulations (Northern Ireland) 1996 | regulation 21(c) |
 | The Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996 | regulation 14(a) |
 
@@ -205,14 +205,14 @@ Regulation 2(2)
 
 Regulation 2(3)
 
-### Part III — Provisions in which the definitions of “working families' tax credit” and “disabled person’s tax credit” are substituted or inserted[^key-f19aeb7d3630f915145df17900a3045e]
+### Part III — Provisions in which the definitions of “working families' tax credit” and “disabled person’s tax credit” are substituted or inserted[^c-f19aeb7d3630f915145df17900a3045e]
 
 | Column 1 | Column 2 |
 | --- | --- |
 | The Social Security (Credits) Regulations (Northern Ireland) 1975 | regulations 2(1)[^f00051] |
 | The Income Support (General) Regulations (Northern Ireland) 1987 | regulation 2(1)[^f00052] |
-| [^key-b6d0e1f3bea04fa51c568fd64c22a660]. . . | [^key-b6d0e1f3bea04fa51c568fd64c22a660]. . . |
-| [^key-8de05ed8723314ca55fe26ead175e004]. . . | [^key-8de05ed8723314ca55fe26ead175e004]. . . |
+| [^c-b6d0e1f3bea04fa51c568fd64c22a660]. . . | [^c-b6d0e1f3bea04fa51c568fd64c22a660]. . . |
+| [^c-8de05ed8723314ca55fe26ead175e004]. . . | [^c-8de05ed8723314ca55fe26ead175e004]. . . |
 | The Jobseeker’s Allowance Regulations (Northern Ireland) 1996 | regulation 1(2) |
 
 (This note is not part of the Regulations.)
@@ -233,11 +233,11 @@ Since these Regulations are made before the end of a period of 6 months from the
 
 [^f00002]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 (S.I. [1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579))
 
-[^key-d3986c2c67c7c5b1d807991e6333b856]: Commencement: Reg. 1 in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
+[^c-d3986c2c67c7c5b1d807991e6333b856]: Commencement: Reg. 1 in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-6d730a6d496a4811f84aea3ac8144aab]: Commencement: Reg. 2 in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
+[^c-6d730a6d496a4811f84aea3ac8144aab]: Commencement: Reg. 2 in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463)
 
@@ -247,27 +247,27 @@ Since these Regulations are made before the end of a period of 6 months from the
 
 [^f00007]: Footnote: Section 127 was amended by section 1(2) of, and paragraph 4(g) of Schedule 1 to the Tax Credits Act 1999
 
-[^key-6631b07a655cb8820209e1b0165a21af]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/385/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-6631b07a655cb8820209e1b0165a21af]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/385/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-45a225a3ee3e536931716b68c1487ef9]: Commencement: Reg. 4 in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
+[^c-45a225a3ee3e536931716b68c1487ef9]: Commencement: Reg. 4 in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
 
-[^key-5e4b21da54780104bfc9730e9b0a0568]: Modification: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/385/regulation/4) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-5e4b21da54780104bfc9730e9b0a0568]: Modification: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/385/regulation/4) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00011]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); paragraph 2(b) was amended by regulation 28 of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7) and regulation 2(25) of S.R [1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354)
 
-[^key-b63a9e3492e2bc7a13ab4242655d6ecf]: Commencement: Reg. 5 in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
+[^c-b63a9e3492e2bc7a13ab4242655d6ecf]: Commencement: Reg. 5 in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 1988 No. 21](https://www.legislation.gov.uk/nisr/1988/21); relevant amending Regulations are [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
 [^f00013]: Footnote: Paragraph (ba) was inserted by regulation 13 of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
-[^key-a1fee5a1e524b7c3dbf1def7133f96b6]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/385/regulation/6) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-a1fee5a1e524b7c3dbf1def7133f96b6]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/385/regulation/6) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
-[^key-ec3efd2e96f3b432d93f02365e3d8caa]: Commencement: Reg. 7 in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
+[^c-ec3efd2e96f3b432d93f02365e3d8caa]: Commencement: Reg. 7 in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 1995 No. 476](https://www.legislation.gov.uk/nisr/1995/476)
 
-[^key-9a3985ddc6fd3048922529d5cf46dc29]: Commencement: Sch. 1 in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
+[^c-9a3985ddc6fd3048922529d5cf46dc29]: Commencement: Sch. 1 in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
 
 [^f00017]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 28E(5) and Schedule 4B were inserted by Article 3(1) and (3) of the Child Support (Northern Ireland) Order 1995 (S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702); Articles 40 and 47 were amended by paragraphs 25 and 31(a) of Schedule 6 to the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)) and Article 48 was amended by paragraph 13 of Schedule 3 to the Child Support (Northern Ireland) Order 1995
 
@@ -281,7 +281,7 @@ Since these Regulations are made before the end of a period of 6 months from the
 
 [^f00022]: Footnote: S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702)
 
-[^key-945c60b12f7bd58b28092d15544af36a]: Commencement: Sch. 2 Pt. I in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
+[^c-945c60b12f7bd58b28092d15544af36a]: Commencement: Sch. 2 Pt. I in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); relevant amending Regulations are [S.R. 1991 No. 528](https://www.legislation.gov.uk/nisr/1991/528), [S.R. 1995 No. 479](https://www.legislation.gov.uk/nisr/1995/479) and [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
@@ -299,11 +299,11 @@ Since these Regulations are made before the end of a period of 6 months from the
 
 [^f00030]: Footnote: Regulation 42(2)(e) was inserted by regulation 5(c) of [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147)
 
-[^key-b6d0e1f3bea04fa51c568fd64c22a660]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/1999/385/schedule/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-b6d0e1f3bea04fa51c568fd64c22a660]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/1999/385/schedule/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00032]: Footnote: Paragraph 61 was substituted by regulation 4 of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
 
-[^key-8de05ed8723314ca55fe26ead175e004]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/1999/385/schedule/2) revoked (6.4.2003) by [The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/84)](https://www.legislation.gov.uk/nisr/2003/84), [regs. 1(d)](https://www.legislation.gov.uk/nisr/2003/84/regulation/1/d), [12(a)](https://www.legislation.gov.uk/nisr/2003/84/regulation/12/a)
+[^c-8de05ed8723314ca55fe26ead175e004]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/1999/385/schedule/2) revoked (6.4.2003) by [The Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/84)](https://www.legislation.gov.uk/nisr/2003/84), [regs. 1(d)](https://www.legislation.gov.uk/nisr/2003/84/regulation/1/d), [12(a)](https://www.legislation.gov.uk/nisr/2003/84/regulation/12/a)
 
 [^f00035]: Footnote: Paragraph 2(1A) was inserted by regulation 3(7)(b)(ii) of [S.R. 1996 No. 590](https://www.legislation.gov.uk/nisr/1996/590) and amended by Article 9(9)(b)(i) of [S.R. 1999 No. 246 (C. 20)](https://www.legislation.gov.uk/nisr/1999/246)
 
@@ -315,7 +315,7 @@ Since these Regulations are made before the end of a period of 6 months from the
 
 [^f00042]: Footnote: [S.R. 1996 No. 622](https://www.legislation.gov.uk/nisr/1996/622); to which there are amendments not relevant to these Regulations
 
-[^key-25c8b422c38065913f632a6d7dfc7a5e]: Commencement: Sch. 2 Pt. II in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
+[^c-25c8b422c38065913f632a6d7dfc7a5e]: Commencement: Sch. 2 Pt. II in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
 
 [^f00043]: Footnote: Regulation 7B was inserted by regulation 3 of [S.R. 1991 No. 528](https://www.legislation.gov.uk/nisr/1991/528) and amended by regulation 2(4) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430)
 
@@ -325,7 +325,7 @@ Since these Regulations are made before the end of a period of 6 months from the
 
 [^f00046]: Footnote: Paragraph 12(1)(a)(i) was amended by regulation 30(c)(i) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), regulation 10(4)(b)(i) of [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), regulation 2(9)(a)(i) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327) and regulation 2(12)(a)(i) of [S.R. 1995 No. 67](https://www.legislation.gov.uk/nisr/1995/67)
 
-[^key-f19aeb7d3630f915145df17900a3045e]: Commencement: Sch. 2 Pt. III in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
+[^c-f19aeb7d3630f915145df17900a3045e]: Commencement: Sch. 2 Pt. III in operation at 5.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/385/regulation/1/1)
 
 [^f00051]: Footnote: Definition of “disability working allowance” was inserted by regulation 2 of [S.R. 1991 No. 528](https://www.legislation.gov.uk/nisr/1991/528)
 

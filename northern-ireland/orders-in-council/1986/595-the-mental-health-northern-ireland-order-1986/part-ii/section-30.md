@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Special provisions as to patients absent without leave[^key-12e476aee703d77995983b5e837ef001][^key-e85c1fb799b4a4e3f8fdb3a3c51eb649]
+## 30. Special provisions as to patients absent without leave[^c-12e476aee703d77995983b5e837ef001][^c-e85c1fb799b4a4e3f8fdb3a3c51eb649]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12e476aee703d77995983b5e837ef001]: Modification: [Art. 30](https://www.legislation.gov.uk/nisi/1986/595/article/30) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(aa)(i)-(iv)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/aa/i), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-12e476aee703d77995983b5e837ef001]: Modification: [Art. 30](https://www.legislation.gov.uk/nisi/1986/595/article/30) applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(aa)(i)-(iv)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/aa/i), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-e85c1fb799b4a4e3f8fdb3a3c51eb649]: Modification: [Art. 30](https://www.legislation.gov.uk/nisi/1986/595/article/30) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(r)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/r), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-e85c1fb799b4a4e3f8fdb3a3c51eb649]: Modification: [Art. 30](https://www.legislation.gov.uk/nisi/1986/595/article/30) applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(r)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/r), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)

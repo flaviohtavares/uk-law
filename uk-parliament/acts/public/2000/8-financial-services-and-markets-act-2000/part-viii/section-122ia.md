@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122IA. Power to suspend auctioning of auctioned products on a recognised auction platform[^key-7dec33900eba2047e1d1bb3ad3793db0]
+## 122IA. Power to suspend auctioning of auctioned products on a recognised auction platform[^c-7dec33900eba2047e1d1bb3ad3793db0]
 
 *Extent: E+W+S+N.I.*
 
-(1) The FCA may suspend the auctioning of a relevant auctioned product at an auction conducted by a recognised auction platform where it considers it necessary for the purpose of the exercise by it of functions under the market abuse regulation or any supplementary market abuse legislation[^key-875f8af716ea105fa0ac9ff45c649e32].
+(1) The FCA may suspend the auctioning of a relevant auctioned product at an auction conducted by a recognised auction platform where it considers it necessary for the purpose of the exercise by it of functions under the market abuse regulation or any supplementary market abuse legislation[^c-875f8af716ea105fa0ac9ff45c649e32].
 
 (2) If the FCA does so the recognised auction platform may refer the matter to the Tribunal.
 
@@ -53,12 +53,12 @@ apply, with the modifications set out in subsection (6), to a suspension of the 
 - (e) the omission of section 313BB(6)(b); and
 - (f) the omission of section 313BC(3)(b) and (6)(b).
 
-(7) In this section “relevant auctioned product” means an auctioned product , within the meaning of regulation 4 of the Greenhouse Gas Emissions Trading Scheme Auctioning Regulations 2021[^key-150c6380df9a89026d13edc8363a50ff].
+(7) In this section “relevant auctioned product” means an auctioned product , within the meaning of regulation 4 of the Greenhouse Gas Emissions Trading Scheme Auctioning Regulations 2021[^c-150c6380df9a89026d13edc8363a50ff].
 
 ## Annotations
 
-[^key-7dec33900eba2047e1d1bb3ad3793db0]: Textual amendment: S. 122IA inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2017/701/schedule/2/paragraph/11) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+[^c-7dec33900eba2047e1d1bb3ad3793db0]: Textual amendment: S. 122IA inserted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2017/701/schedule/2/paragraph/11) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
 
-[^key-875f8af716ea105fa0ac9ff45c649e32]: Textual amendment: Words in [s. 122IA(1)](https://www.legislation.gov.uk/ukpga/2000/8/section/122IA/1) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/494/regulation/2/2/a)
+[^c-875f8af716ea105fa0ac9ff45c649e32]: Textual amendment: Words in [s. 122IA(1)](https://www.legislation.gov.uk/ukpga/2000/8/section/122IA/1) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/494/regulation/2/2/a)
 
-[^key-150c6380df9a89026d13edc8363a50ff]: Textual amendment: Words in [s. 122IA(7)](https://www.legislation.gov.uk/ukpga/2000/8/section/122IA/7) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/494/regulation/2/2/b)
+[^c-150c6380df9a89026d13edc8363a50ff]: Textual amendment: Words in [s. 122IA(7)](https://www.legislation.gov.uk/ukpga/2000/8/section/122IA/7) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/494/regulation/2/2/b)

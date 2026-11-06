@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Licensing authority[^key-f9dabfeece6f3531f5098d6babd937f1][^key-43ec473d978f962e8ae291dda4935992]
+## 3. Licensing authority[^c-f9dabfeece6f3531f5098d6babd937f1][^c-43ec473d978f962e8ae291dda4935992]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f9dabfeece6f3531f5098d6babd937f1]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2014/7/section/3) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-f9dabfeece6f3531f5098d6babd937f1]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2014/7/section/3) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-43ec473d978f962e8ae291dda4935992]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2014/7/section/3) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/c)
+[^c-43ec473d978f962e8ae291dda4935992]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2014/7/section/3) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/c)

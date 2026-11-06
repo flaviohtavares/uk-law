@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Amendment of the Companies (Bodies Concerned with Auditing Standards etc.) (Exemption from Liability) Regulations 2016[^key-b56af552a667e09671bef212c6bf09d7]
+## 63. Amendment of the Companies (Bodies Concerned with Auditing Standards etc.) (Exemption from Liability) Regulations 2016[^c-b56af552a667e09671bef212c6bf09d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Companies (Bodies Concerned with Auditing Standards etc.) (Exemption from Li
 
 ## Annotations
 
-[^key-b56af552a667e09671bef212c6bf09d7]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-b56af552a667e09671bef212c6bf09d7]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23587051]: Marginal citation: [S.I. 2016/571](https://www.legislation.gov.uk/uksi/2016/571).

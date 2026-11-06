@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Modification of Part 1 of the Compulsory Purchase Act 1965[^key-eb6b01f51cbd40d6c6d4f55b4151c2f9]
+## 25. Modification of Part 1 of the Compulsory Purchase Act 1965[^c-eb6b01f51cbd40d6c6d4f55b4151c2f9]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ for “section 23 of the Acquisition of Land Act 1981 (application to High Court
 
 (4) In section 22(2) (expiry of time limit for exercise of compulsory purchase power not to affect acquisition of interests omitted from purchase), for “section 4 of this Act” substitute “article 19 (time limit for exercise of authority to acquire land compulsorily) of the Longfield Solar Farm Order 2023”.
 
-(5)[^key-99fba8451bf2e4363449ca7cdad6846c] In Schedule 2A (counter-notice requiring purchase of land not in notice to treat) after paragraph 29 insert—
+(5)[^c-99fba8451bf2e4363449ca7cdad6846c] In Schedule 2A (counter-notice requiring purchase of land not in notice to treat) after paragraph 29 insert—
 
 > **PART 4 — INTERPRETATION**
 >
@@ -43,6 +43,6 @@ for “section 23 of the Acquisition of Land Act 1981 (application to High Court
 
 ## Annotations
 
-[^key-eb6b01f51cbd40d6c6d4f55b4151c2f9]: Commencement: Art. 25 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-eb6b01f51cbd40d6c6d4f55b4151c2f9]: Commencement: Art. 25 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
-[^key-99fba8451bf2e4363449ca7cdad6846c]: Textual amendment: [Art. 25(5)](https://www.legislation.gov.uk/uksi/2023/734/article/25/5) inserted (21.11.2023) by [The Longfield Solar Farm (Correction) Order 2023 (S.I. 2023/1241)](https://www.legislation.gov.uk/uksi/2023/1241), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1241/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1241/schedule)
+[^c-99fba8451bf2e4363449ca7cdad6846c]: Textual amendment: [Art. 25(5)](https://www.legislation.gov.uk/uksi/2023/734/article/25/5) inserted (21.11.2023) by [The Longfield Solar Farm (Correction) Order 2023 (S.I. 2023/1241)](https://www.legislation.gov.uk/uksi/2023/1241), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1241/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1241/schedule)

@@ -73,7 +73,7 @@ In this Order, unless the context otherwise requires—
 - “representation” (higher courts) and representation (lower courts) have the respective meanings given by regulation 2 of the General Regulations;
 - “**representative**” means a solicitor or counsel.
 
-## 3. Application[^key-528d9bb052208eb63c4ad2381894de7e]
+## 3. Application[^c-528d9bb052208eb63c4ad2381894de7e]
 
 (1) Subject to paragraph (2) this Order shall apply for the determination of the remuneration payable to representatives in respect of providing civil legal services—
 
@@ -116,10 +116,10 @@ In this Order, unless the context otherwise requires—
 (3) A claim for payment may be made where—
 
 - (a) the disbursement falls within any guidance issued by the Department in respect of advice and assistance or representation (lower courts), or the solicitor has obtained prior authority from the Director under the General Regulations to incur the expenditure;
-- (b)[^key-b48ffe871e991d0bb029a0443e7f1efc] subject to paragraph (3A), the total liability for such disbursement exceeds £500; and
-- (c) the solicitor has incurred[^key-45b21e832de900077856dd0a0f9bb211] such liability.
+- (b)[^c-b48ffe871e991d0bb029a0443e7f1efc] subject to paragraph (3A), the total liability for such disbursement exceeds £500; and
+- (c) the solicitor has incurred[^c-45b21e832de900077856dd0a0f9bb211] such liability.
 
-(3A)[^key-3d335d0a76fb5c7b93d3f938966279f8] For the purposes of this Article, where a liability has been incurred as a result of the joint instruction of an expert, sub-paragraph (3)(b) shall be deemed to be satisfied provided that the total cost as between those jointly instructing that expert exceeds £500.
+(3A)[^c-3d335d0a76fb5c7b93d3f938966279f8] For the purposes of this Article, where a liability has been incurred as a result of the joint instruction of an expert, sub-paragraph (3)(b) shall be deemed to be satisfied provided that the total cost as between those jointly instructing that expert exceeds £500.
 
 (4) Without prejudice to Article 10(4), a claim under paragraph (2) shall not exceed £2,500 or the maximum fee authorised under the prior authority, whichever is the greater.
 
@@ -133,9 +133,9 @@ In this Order, unless the context otherwise requires—
 
 (9) Paragraphs (10) and (11) of this Article apply only to a case which is being funded by way of representation (higher courts).
 
-(10) A representative[^key-42bdc3edae9911f98eefcc6ba624d323] acting for an assisted person may apply to the Department for the payment of a sum on account of costs incurred or to be incurred in connection with the proceedings to which the certificate relates.
+(10) A representative[^c-42bdc3edae9911f98eefcc6ba624d323] acting for an assisted person may apply to the Department for the payment of a sum on account of costs incurred or to be incurred in connection with the proceedings to which the certificate relates.
 
-(11) On considering the application, the Department may authorise an interim payment to the representative[^key-00c6e2c23105dca296cf664bf2c23e60] of the amount applied for or of such other sum as the Department considers appropriate in the circumstances pending the assessment by the Department or, as the case may be, the taxation of such costs.
+(11) On considering the application, the Department may authorise an interim payment to the representative[^c-00c6e2c23105dca296cf664bf2c23e60] of the amount applied for or of such other sum as the Department considers appropriate in the circumstances pending the assessment by the Department or, as the case may be, the taxation of such costs.
 
 (12) Articles 13 to 15 (redetermination etc.) shall not apply to a payment under this Article.
 
@@ -151,9 +151,9 @@ In this Order, unless the context otherwise requires—
 
 (2) Claims for disbursements by solicitors shall be made and determined in accordance with the provisions of Article 10.
 
-(3)[^key-35de68f6e6cb6d38c2c49f6b71796fcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-35de68f6e6cb6d38c2c49f6b71796fcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Subject to Article 17, no claim by a representative[^key-d6db8e69d5fd3dd87dba71946b11900f] for costs in respect of work provided by way of civil legal services shall be entertained unless it is submitted within three months from the date on which the advice and assistance was given or, as applicable, the conclusion of the proceedings to which the certificate relates.
+(4) Subject to Article 17, no claim by a representative[^c-d6db8e69d5fd3dd87dba71946b11900f] for costs in respect of work provided by way of civil legal services shall be entertained unless it is submitted within three months from the date on which the advice and assistance was given or, as applicable, the conclusion of the proceedings to which the certificate relates.
 
 (5) Subject to paragraph (6), a claim for costs shall be submitted to the Department in such form and manner as it may direct and shall be accompanied by any receipts or other documents in support of any disbursement claimed.
 
@@ -165,13 +165,13 @@ In this Order, unless the context otherwise requires—
 - (d) give particulars of any work done in relation to more than one claim or set of proceedings; and
 - (e) specify any disbursements claimed, the circumstances in which they were incurred and the amounts claimed in respect of them.
 
-(7) Where there are any special circumstances which should be drawn to the attention of the Department, the representative[^key-87e1ea7ac009fc8e09342ad2a2cefec7] shall specify them.
+(7) Where there are any special circumstances which should be drawn to the attention of the Department, the representative[^c-87e1ea7ac009fc8e09342ad2a2cefec7] shall specify them.
 
-(8) The representative[^key-de7dc6dee906703331d2ad3d096646b0] shall supply such further particulars, information and documents as the Department may require.
+(8) The representative[^c-de7dc6dee906703331d2ad3d096646b0] shall supply such further particulars, information and documents as the Department may require.
 
 ## 9. Determination of representatives' remuneration
 
-(1) The Department shall consider the claim, any further particulars, information or documents submitted by the representative[^key-b689ef71d4ce2bc9f23826f75b850dfc] under Article 8 and any other relevant information and shall allow such work as appears to it to have been reasonably undertaken and properly done.
+(1) The Department shall consider the claim, any further particulars, information or documents submitted by the representative[^c-b689ef71d4ce2bc9f23826f75b850dfc] under Article 8 and any other relevant information and shall allow such work as appears to it to have been reasonably undertaken and properly done.
 
 (2) The Department shall allow remuneration for work allowed by it under this Article in accordance with the provisions of Schedule 2 to 5 to this Order, as applicable.
 
@@ -366,11 +366,11 @@ Article 9
 
 (2) In this paragraph “**assessed deficiency**” means the amount by which the sum allowed to the solicitor by the Department in assessing the claim under sub-paragraph (1) exceeds any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order.
 
-(3)[^key-2c6fe9c39fcae900bd31ab9ccb1c03d4] In respect of any claims for costs made for work done under Tables 2 and 3 of Part 2 of this Schedule, a solicitor may claim for mileage only at the rate of 35.7p per mile. No claim shall be entertained for travel and waiting time.
+(3)[^c-2c6fe9c39fcae900bd31ab9ccb1c03d4] In respect of any claims for costs made for work done under Tables 2 and 3 of Part 2 of this Schedule, a solicitor may claim for mileage only at the rate of 35.7p per mile. No claim shall be entertained for travel and waiting time.
 
 (4) Unless otherwise prescribed by this Schedule, travel and waiting time may be claimed at the rate of £24.25 per hour and mileage may be claimed at the rate of 35.7p per mile for matters falling within this Schedule.
 
-### PART 2 — Matters other than those relating to PACE, Schedule 7 to the Terrorism Act 2000 or Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^key-a1322fc5733de3edc995ffe5e2def26a]
+### PART 2 — Matters other than those relating to PACE, Schedule 7 to the Terrorism Act 2000 or Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^c-a1322fc5733de3edc995ffe5e2def26a]
 
 Table 1:
 
@@ -379,9 +379,9 @@ Solicitor – Hourly Rates
 | ***Work Type*** | ***Rate*** |
 | --- | --- |
 | Advice | £43.25 per hour |
-| Letters/Emails/Telephone Calls[^key-510e398af583ae969165f70383436e04] | £3.35 per item / call[^key-35e37013bae98f579827237240b7e6e0] |
-| [^key-53e6d9b2f8b0c45c29f1e1262df604ad]. . . | [^key-53e6d9b2f8b0c45c29f1e1262df604ad]. . . |
-| [^key-52e81d5a922988d8b3b9ac8a95e2508b]. . . | [^key-52e81d5a922988d8b3b9ac8a95e2508b]. . . |
+| Letters/Emails/Telephone Calls[^c-510e398af583ae969165f70383436e04] | £3.35 per item / call[^c-35e37013bae98f579827237240b7e6e0] |
+| [^c-53e6d9b2f8b0c45c29f1e1262df604ad]. . . | [^c-53e6d9b2f8b0c45c29f1e1262df604ad]. . . |
+| [^c-52e81d5a922988d8b3b9ac8a95e2508b]. . . | [^c-52e81d5a922988d8b3b9ac8a95e2508b]. . . |
 
 **Guide to Case Management in Public Law Children Order Proceedings (Article 50)**
 
@@ -409,7 +409,7 @@ Solicitor – Standard Fees
 | Prisoner serving an Indeterminate Custodial |  |
 | Sentence (ICS) | £700 |
 
-### PART 3 — Police and Criminal Evidence (PACE) matters, Schedule 7 to the Terrorism Act 2000 matters or Schedule 3 to the Counter-Terrorism and Border Security Act 2019 matters[^key-564d3bdcd65979102f0355a8cde6017d]
+### PART 3 — Police and Criminal Evidence (PACE) matters, Schedule 7 to the Terrorism Act 2000 matters or Schedule 3 to the Counter-Terrorism and Border Security Act 2019 matters[^c-564d3bdcd65979102f0355a8cde6017d]
 
 Table 1:
 
@@ -437,7 +437,7 @@ Solicitor – Hourly Rates
 </tbody>
 </table>
 
-[^key-ab6713c31fd4e8d79d960d71879f1000]
+[^c-ab6713c31fd4e8d79d960d71879f1000]
 
 ## SCHEDULE 3 — REPRESENTATION (LOWER COURTS)
 
@@ -447,13 +447,13 @@ Article 9
 
 **1.** This Schedule applies to the determination of the remuneration payable to representatives for providing representation (lower courts).
 
-**2.** Where the remuneration or fees properly chargeable for the representation including charges for disbursements exceed any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order, the representative shall submit a claim[^key-175b2d554e3922fc7d3c36f94d058e84] to the Department requesting payment of the deficiency.
+**2.** Where the remuneration or fees properly chargeable for the representation including charges for disbursements exceed any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order, the representative shall submit a claim[^c-175b2d554e3922fc7d3c36f94d058e84] to the Department requesting payment of the deficiency.
 
-**3.** (1) The Department shall determine the claim submitted under Article 8 in accordance with the rates or fees set out in the relevant Table in Part 2 or 3 of this Schedule, as applicable, and pay the assessed deficiency, if any, to the representative[^key-7b1f3ae7ea8174a2b36730930e091a64] .
+**3.** (1) The Department shall determine the claim submitted under Article 8 in accordance with the rates or fees set out in the relevant Table in Part 2 or 3 of this Schedule, as applicable, and pay the assessed deficiency, if any, to the representative[^c-7b1f3ae7ea8174a2b36730930e091a64] .
 
 (2) In this paragraph “**assessed deficiency**” means the amount by which the sum allowed to the representatives by the Department in assessing the claim under sub-paragraph (1) exceeds any contribution payable by the client to the solicitor under Part 3 of the Financial Regulations together with the value of any charge arising under Article 17(7) of the 2003 Order.
 
-**4.**[^key-48b1f8d96e47c3e5bb8b9ecaf40a1b33] In this Schedule, any reference to “Letters” or “letters” shall be taken to include reference to emails.
+**4.**[^c-48b1f8d96e47c3e5bb8b9ecaf40a1b33] In this Schedule, any reference to “Letters” or “letters” shall be taken to include reference to emails.
 
 **5.** In respect of claims for costs made under Table 2 of Part 2 of this Schedule, a solicitor may claim for mileage only at the rate of 35.7p per mile. No claim shall be entertained for travel and waiting time.
 
@@ -477,7 +477,7 @@ Article 9
 
 ### PART 2 — Family and Children Order Proceedings
 
-#### Children (Northern Ireland) Order 1995 or Article 31B of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989[^c22509991][^key-7ed4eb673dde8de6387d9f6885b2051c]
+#### Children (Northern Ireland) Order 1995 or Article 31B of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989[^c22509991][^c-7ed4eb673dde8de6387d9f6885b2051c]
 
 Solicitor's remuneration can be claimed on the basis of either Hourly Rates (Table 1) or Composite Fees (Table 2), at the election of the solicitor
 
@@ -487,7 +487,7 @@ Solicitor – Hourly Rates
 
 | ***Work Type*** | ***Rate*** |
 | --- | --- |
-| Consultation (other than with Counsel) and Preparation[^key-d361c74e395e1f1faf3e1df88811c260] | £58 per hour |
+| Consultation (other than with Counsel) and Preparation[^c-d361c74e395e1f1faf3e1df88811c260] | £58 per hour |
 | Letters Written | £3.65 per item |
 | Letters Received | £1.85 per item |
 | Telephone Calls | £3.65 per call |
@@ -516,7 +516,7 @@ Counsel – Composite Fees
 | \-Where the hearing lasts for up to half a day | Standard £140<br>Maximum £268 |
 | \- Full Day | Standard £317.75<br>Maximum £508.50 |
 | \-Refresher | £140 for each additional day |
-| Consultation and Preparation[^key-4ff94392830e171da714b1cbe1a1261f] | £35.50 per hour |
+| Consultation and Preparation[^c-4ff94392830e171da714b1cbe1a1261f] | £35.50 per hour |
 | Complex items of work (opinion, affidavits) | £82.75 per item |
 | All other written work | £50.25 per item |
 
@@ -530,7 +530,7 @@ Solicitor – Hourly Rates
 
 | ***Work Type*** | ***Rate*** |
 | --- | --- |
-| Consultation (other than with Counsel) and Preparation[^key-9b96c4bf8197e1e5db07a9fca5d89261] | £58 per hour |
+| Consultation (other than with Counsel) and Preparation[^c-9b96c4bf8197e1e5db07a9fca5d89261] | £58 per hour |
 | Letters Written | £3.65 per item |
 | Letters Received | £1.85 per item |
 | Telephone Calls | £3.65 per call |
@@ -573,7 +573,7 @@ Counsel – Composite Fees
 | \- Where the hearing lasts for up to half a day | Standard £140<br>Maximum £268 |
 | \- Full Day | Standard £317.75<br>Maximum £508.50 |
 | \- Refresher | £140 for each additional day |
-| Consultation and Preparation[^key-c6a947b3a928c08dd776b080144b8f82] | £35.50 per hour |
+| Consultation and Preparation[^c-c6a947b3a928c08dd776b080144b8f82] | £35.50 per hour |
 | Complex items of work (opinion, affidavits) | £82.75 per item |
 | All other written work | £50.25 per item |
 
@@ -611,7 +611,7 @@ Counsel – Composite Fees
 | \- Where the hearing lasts for up to half a day | Standard £140<br>Maximum £268 |
 | \- Full Day | Standard £317.75<br>Maximum £508.50 |
 | \- Refresher | £140 for each additional day |
-| Consultation and Preparation[^key-577758411e86ca1d061b25b06a7a026c] | £35.50 per hour |
+| Consultation and Preparation[^c-577758411e86ca1d061b25b06a7a026c] | £35.50 per hour |
 | Complex items of work (opinions, affidavits) | £82.50 per hour |
 | All other written work | £50.25 per item |
 
@@ -719,7 +719,7 @@ Solicitor – Composite Fees
 </tbody>
 </table>
 
-[^key-277e465c893d163b5bdf43a6ed44528e]
+[^c-277e465c893d163b5bdf43a6ed44528e]
 
 Table 9:
 
@@ -733,11 +733,11 @@ Counsel – Composite Fees
 | Part Hearing (standard) | £76.25 |
 | Part Hearing (maximum) | £127 |
 | Refresher | £140 for each additional day |
-| Consultation and Preparation[^key-54e09926835469453a7c3dafd6d831a8] | £35.50 per hour |
+| Consultation and Preparation[^c-54e09926835469453a7c3dafd6d831a8] | £35.50 per hour |
 | Complex items of work (opinions, affidavit) | £82.75 per item |
 | All other written work | £50.25 per item |
 
-**Proceedings regarding an order under sections 89, 90, 97, 100, 104, 108, 109, 114, 118, 123, 125 or 126 of the Sexual Offences Act 2003****[^c22510061] and Proceedings under Articles 3 and 4 of the Anti-social Behaviour (Northern Ireland) Order 2004****Proceedings before the Care Tribunal under Article 11, 12, 42 or 43 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^key-8dbf9c2acb83e951103ef3141cd598e9]** **or regulation 10 of the Education (Prohibition from Teaching or Working with Children) Regulations (Northern Ireland) 2007** **Proceedings under Part 13A of the Prison and Young Offenders Centre Rules (Northern Ireland) 1995****Proceedings under paragraph 2, 6 or 7 of Schedule 3 to the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015[^key-4cf4150209481d715ff4017f96056691]** **Proceedings under section 57, 60 or 61 of the Justice Act (Northern Ireland) 2015**
+**Proceedings regarding an order under sections 89, 90, 97, 100, 104, 108, 109, 114, 118, 123, 125 or 126 of the Sexual Offences Act 2003****[^c22510061] and Proceedings under Articles 3 and 4 of the Anti-social Behaviour (Northern Ireland) Order 2004****Proceedings before the Care Tribunal under Article 11, 12, 42 or 43 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^c-8dbf9c2acb83e951103ef3141cd598e9]** **or regulation 10 of the Education (Prohibition from Teaching or Working with Children) Regulations (Northern Ireland) 2007** **Proceedings under Part 13A of the Prison and Young Offenders Centre Rules (Northern Ireland) 1995****Proceedings under paragraph 2, 6 or 7 of Schedule 3 to the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015[^c-4cf4150209481d715ff4017f96056691]** **Proceedings under section 57, 60 or 61 of the Justice Act (Northern Ireland) 2015**
 
 [^c22510071]Table 10:
 
@@ -755,7 +755,7 @@ Article 9
 
 **1.** This Schedule applies to the determination of the remuneration payable to representatives for providing representation (higher courts).
 
-**2.** The Department shall determine the claim submitted under Article 8 in accordance with the rates or fees set out in the relevant Table in Parts 2 to 6 of this Schedule, as applicable, and pay the assessed remuneration to the representative[^key-3983cca63f663aa4aa89ef5f60a53617] .
+**2.** The Department shall determine the claim submitted under Article 8 in accordance with the rates or fees set out in the relevant Table in Parts 2 to 6 of this Schedule, as applicable, and pay the assessed remuneration to the representative[^c-3983cca63f663aa4aa89ef5f60a53617] .
 
 **3.** For proceedings listed within Part 2 of this Schedule, where a representative considers that the sum allowable under Table 1 or Table 2, as applicable, would not provide reasonable remuneration according to the work reasonably undertaken and properly done, the representative may apply to the judge before whom the proceedings took place for a certificate that for any reason including the exceptional length, difficulty or complexity of the proceedings the limitation on the sums allowable under Table 1 or Table 2, as applicable, shall not apply and where such certificate is granted the Department shall allow remuneration under Table 3 to 19, as applicable.
 
@@ -765,7 +765,7 @@ Article 9
 
 **6.** For proceedings listed within Parts 4, 5 and 6 of this Schedule, the sums allowed to representatives in any proceedings shall, subject to Article 5(2)(a) and (b), be assessed by the Department in accordance with the Tables set out in the relevant Part, as applicable to the nature of the proceedings and the items of work in question.
 
-**7.**[^key-2cd5e7d00baf7ad93d67dc98969e7c30] In this Schedule, any reference to “Letters” or “letters” shall be taken to include reference to emails.
+**7.**[^c-2cd5e7d00baf7ad93d67dc98969e7c30] In this Schedule, any reference to “Letters” or “letters” shall be taken to include reference to emails.
 
 **8.** For the proceedings listed in Part 2 of this Schedule, any claim by a solicitor for travelling and mileage to attend Court shall be from the solicitor’s office to which the certificate relates. Any claim by Counsel for travelling and mileage to attend Court shall be from the Bar Library, 91 Chichester Street Belfast BT1 3JQ.
 
@@ -800,7 +800,7 @@ Article 9
 
 ### PART 2 — Family and Children Order Proceedings – Family Care Centre
 
-**All proceedings including appeals from the Family Proceedings Court and Domestic Proceedings Court[^key-5d329236aed1b29ad9800d463167105d]**
+**All proceedings including appeals from the Family Proceedings Court and Domestic Proceedings Court[^c-5d329236aed1b29ad9800d463167105d]**
 
 Table 1:
 
@@ -828,7 +828,7 @@ Counsel – Composite Fees
 | \- Where the hearing lasts for up to half a day | Standard £140<br>Maximum £268 |
 | \- Full Day | Standard £317.75<br>Maximum £508.50 |
 | \- Refresher | £140 for each additional day |
-| Consultation and Preparation[^key-d1b289c6cbc52959c1401f0f35f766bb] | £35.50 per hour |
+| Consultation and Preparation[^c-d1b289c6cbc52959c1401f0f35f766bb] | £35.50 per hour |
 | Complex items of work (opinions, affidavits) | £82.75 per item |
 | All other written work | £50.25 per item |
 
@@ -842,8 +842,8 @@ Children Order – Proceedings under Articles 44 and 50
 | Additional Full Day | £400 |
 | Additional Half Day | £200 |
 | Judgment Fee | £150 |
-| 35% of Composite Fee – Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set)[^key-22da49bbea020b8c95bc1f1fc40b785f] | £1,225 |
-| 20% of Composite Fee – Case Withdrawn or Transferred (at first directions hearing)[^key-1e8d809f76ca5d68e2ecebb917a2a521] | £700 |
+| 35% of Composite Fee – Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set)[^c-22da49bbea020b8c95bc1f1fc40b785f] | £1,225 |
+| 20% of Composite Fee – Case Withdrawn or Transferred (at first directions hearing)[^c-1e8d809f76ca5d68e2ecebb917a2a521] | £700 |
 
 Table 4:
 
@@ -873,7 +873,7 @@ Children Order – Appeals from the Family Proceedings Court – Proceedings und
 
 Table 6:
 
-Appeals from the Family Proceedings Court and Domestic Proceedings Court – Re Other Proceedings[^key-b4775c5e7f0fd01aef5479f1e73a5d48]
+Appeals from the Family Proceedings Court and Domestic Proceedings Court – Re Other Proceedings[^c-b4775c5e7f0fd01aef5479f1e73a5d48]
 
 | ***Work Type*** | ***Solicitor's Composite Fee*** |
 | --- | --- |
@@ -960,12 +960,12 @@ Children Order – All Proceedings
 | Refresher – Full Day | £400 | £600 |
 | Refresher – Half Day | £200 | £300 |
 | Judgment Fee | £150 | £225 |
-| 35% Brief Fee ─ Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set)[^key-94230be43c101425aef7a113f02e40c9] | £700 | £1,050 |
-| 20% Brief Fee ─ Case Withdrawn or Transferred ( at first directions hearing)[^key-e0255b75d2265e4badeb6c460dbb5564] | £400 | £600 |
+| 35% Brief Fee ─ Case Withdrawn or Transferred (following first directions hearing but before a final hearing date is set)[^c-94230be43c101425aef7a113f02e40c9] | £700 | £1,050 |
+| 20% Brief Fee ─ Case Withdrawn or Transferred ( at first directions hearing)[^c-e0255b75d2265e4badeb6c460dbb5564] | £400 | £600 |
 
 Table 13:
 
-Appeals from the Family Proceedings Court and Domestic Proceedings Court – No New Evidence[^key-71208f5a16e1cab3bc0b0d614f1b9cd0]
+Appeals from the Family Proceedings Court and Domestic Proceedings Court – No New Evidence[^c-71208f5a16e1cab3bc0b0d614f1b9cd0]
 
 | ***Item of Work*** | ***Junior Counsel*** | ***Senior Counsel*** |
 | --- | --- | --- |
@@ -979,7 +979,7 @@ Appeals from the Family Proceedings Court and Domestic Proceedings Court – No 
 
 Table 14:
 
-Appeals from the Family Proceedings Court and Domestic Proceedings Court – New Evidence[^key-26fc78d310541d15659bbc5f4da27ef1]
+Appeals from the Family Proceedings Court and Domestic Proceedings Court – New Evidence[^c-26fc78d310541d15659bbc5f4da27ef1]
 
 | ***Item of Work*** | ***Junior Counsel*** | ***Senior Counsel*** |
 | --- | --- | --- |
@@ -1063,7 +1063,7 @@ Proceedings under Family Homes and Domestic Violence (Northern Ireland) Order 19
 
 ### PART 3 — Divorce and other Family Proceedings in the County Court
 
-Table 1:[^key-18fa61fdb468d70afac62c913d628b92]
+Table 1:[^c-18fa61fdb468d70afac62c913d628b92]
 
 Divorce, Nullity and other Matrimonial Suits – Matrimonial Causes (Northern Ireland) Order 1978 (Withdrawn/Abandoned/ Discontinued Proceedings) – Solicitor
 
@@ -1090,7 +1090,7 @@ Committal Proceedings
 </tbody>
 </table>
 
-[^key-f64fb778ed132a3ed450337c61b58c90]
+[^c-f64fb778ed132a3ed450337c61b58c90]
 
 Table 3:
 
@@ -1275,7 +1275,7 @@ Limited Certificates
 | Stamp Duty with other limitation | £100 | N/A |
 | Discovery | £50 | N/A |
 
-Table 9:[^key-72bce890f459501ff1ad8fa45e99afc3]
+Table 9:[^c-72bce890f459501ff1ad8fa45e99afc3]
 
 Proceedings which have been withdrawn, abandoned or discontinued -Full certificates Solicitor
 
@@ -1288,11 +1288,11 @@ Proceedings which have been withdrawn, abandoned or discontinued -Full certifica
 
 ### PART 5 — High Court Proceedings
 
-**[^key-a8de8d183351fc167586da370ae3807f]...**
+**[^c-a8de8d183351fc167586da370ae3807f]...**
 
 Table 1:
 
-High Court Bail Applications and Variation Applications – Standard Fees[^key-544a3215d2676d8c5a45bf8a642814b7]
+High Court Bail Applications and Variation Applications – Standard Fees[^c-544a3215d2676d8c5a45bf8a642814b7]
 
 | ***Solicitor*** | ***Counsel*** |
 | --- | --- |
@@ -1327,7 +1327,7 @@ Solicitor – Composite Fees
 | £90,000 – £94,999 | £7,130 | £7,795 | £9,770 | £10,560 | £11,615 |
 | £95,000 – £99,999 | £7,395 | £8,050 | £10,165 | £10,960 | £12,010 |
 
-Table 3:[^key-5653bdc356cc98dd1acc3d1bc6a9c909]
+Table 3:[^c-5653bdc356cc98dd1acc3d1bc6a9c909]
 
 Solicitor – Hourly Rates
 
@@ -1500,7 +1500,7 @@ Article 9
 
 **1.** This Schedule applies to the determination of the remuneration payable to representatives for providing civil legal services in relation to inquests funded under Article 12A of the 2003 Order.
 
-**2.** The Department shall determine the claim submitted under Article 8 in accordance with the rates set out in the relevant Table in Part 2 of this Schedule and pay the assessed remuneration to the representative[^key-b266105ca6eb720ad05eb537071ea027] .
+**2.** The Department shall determine the claim submitted under Article 8 in accordance with the rates set out in the relevant Table in Part 2 of this Schedule and pay the assessed remuneration to the representative[^c-b266105ca6eb720ad05eb537071ea027] .
 
 ### PART 2 — Remuneration payable in Inquest cases
 
@@ -1567,69 +1567,69 @@ This Order comes into operation on 1st April 2015.
 
 [^c22509971]: Marginal citation: 2015 S.R. No. 195
 
-[^key-528d9bb052208eb63c4ad2381894de7e]: Textual amendment: Art. 3 substituted (7.1.2026) by [The Civil Legal Services (Remuneration) Order (Northern Ireland) 2025 (S.R. 2025/198)](https://www.legislation.gov.uk/nisr/2025/198), [arts. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1), [5](https://www.legislation.gov.uk/nisr/2025/198/article/5) (with [arts. 3](https://www.legislation.gov.uk/nisr/2025/198/article/3), [4](https://www.legislation.gov.uk/nisr/2025/198/article/4), [20](https://www.legislation.gov.uk/nisr/2025/198/article/20), [21](https://www.legislation.gov.uk/nisr/2025/198/article/21))
+[^c-528d9bb052208eb63c4ad2381894de7e]: Textual amendment: Art. 3 substituted (7.1.2026) by [The Civil Legal Services (Remuneration) Order (Northern Ireland) 2025 (S.R. 2025/198)](https://www.legislation.gov.uk/nisr/2025/198), [arts. 1](https://www.legislation.gov.uk/nisr/2025/198/article/1), [5](https://www.legislation.gov.uk/nisr/2025/198/article/5) (with [arts. 3](https://www.legislation.gov.uk/nisr/2025/198/article/3), [4](https://www.legislation.gov.uk/nisr/2025/198/article/4), [20](https://www.legislation.gov.uk/nisr/2025/198/article/20), [21](https://www.legislation.gov.uk/nisr/2025/198/article/21))
 
-[^key-b48ffe871e991d0bb029a0443e7f1efc]: Textual amendment: [Art. 6(3)(b)](https://www.legislation.gov.uk/nisr/2015/201/article/6/3/b) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(1)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/3/1/a)
+[^c-b48ffe871e991d0bb029a0443e7f1efc]: Textual amendment: [Art. 6(3)(b)](https://www.legislation.gov.uk/nisr/2015/201/article/6/3/b) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(1)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/3/1/a)
 
-[^key-45b21e832de900077856dd0a0f9bb211]: Textual amendment: Word in [art. 6(3)(c)](https://www.legislation.gov.uk/nisr/2015/201/article/6/3/c) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(1)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/3/1/b)
+[^c-45b21e832de900077856dd0a0f9bb211]: Textual amendment: Word in [art. 6(3)(c)](https://www.legislation.gov.uk/nisr/2015/201/article/6/3/c) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(1)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/3/1/b)
 
-[^key-3d335d0a76fb5c7b93d3f938966279f8]: Textual amendment: [Art. 6(3A)](https://www.legislation.gov.uk/nisr/2015/201/article/6/3A) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(2)](https://www.legislation.gov.uk/nisr/2019/119/article/3/2)
+[^c-3d335d0a76fb5c7b93d3f938966279f8]: Textual amendment: [Art. 6(3A)](https://www.legislation.gov.uk/nisr/2015/201/article/6/3A) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(2)](https://www.legislation.gov.uk/nisr/2019/119/article/3/2)
 
-[^key-42bdc3edae9911f98eefcc6ba624d323]: Textual amendment: Word in [art. 6(10)](https://www.legislation.gov.uk/nisr/2015/201/article/6/10) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(3)](https://www.legislation.gov.uk/nisr/2019/119/article/3/3)
+[^c-42bdc3edae9911f98eefcc6ba624d323]: Textual amendment: Word in [art. 6(10)](https://www.legislation.gov.uk/nisr/2015/201/article/6/10) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(3)](https://www.legislation.gov.uk/nisr/2019/119/article/3/3)
 
-[^key-00c6e2c23105dca296cf664bf2c23e60]: Textual amendment: Word in [art. 6(11)](https://www.legislation.gov.uk/nisr/2015/201/article/6/11) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(3)](https://www.legislation.gov.uk/nisr/2019/119/article/3/3)
+[^c-00c6e2c23105dca296cf664bf2c23e60]: Textual amendment: Word in [art. 6(11)](https://www.legislation.gov.uk/nisr/2015/201/article/6/11) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [3(3)](https://www.legislation.gov.uk/nisr/2019/119/article/3/3)
 
-[^key-35de68f6e6cb6d38c2c49f6b71796fcc]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/nisr/2015/201/article/8/3) omitted (1.7.2019) by virtue of [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [4(1)](https://www.legislation.gov.uk/nisr/2019/119/article/4/1)
+[^c-35de68f6e6cb6d38c2c49f6b71796fcc]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/nisr/2015/201/article/8/3) omitted (1.7.2019) by virtue of [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [4(1)](https://www.legislation.gov.uk/nisr/2019/119/article/4/1)
 
-[^key-d6db8e69d5fd3dd87dba71946b11900f]: Textual amendment: Word in [art. 8(4)](https://www.legislation.gov.uk/nisr/2015/201/article/8/4) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2019/119/article/4/2)
+[^c-d6db8e69d5fd3dd87dba71946b11900f]: Textual amendment: Word in [art. 8(4)](https://www.legislation.gov.uk/nisr/2015/201/article/8/4) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2019/119/article/4/2)
 
-[^key-87e1ea7ac009fc8e09342ad2a2cefec7]: Textual amendment: Word in [art. 8(7)](https://www.legislation.gov.uk/nisr/2015/201/article/8/7) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2019/119/article/4/2)
+[^c-87e1ea7ac009fc8e09342ad2a2cefec7]: Textual amendment: Word in [art. 8(7)](https://www.legislation.gov.uk/nisr/2015/201/article/8/7) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2019/119/article/4/2)
 
-[^key-de7dc6dee906703331d2ad3d096646b0]: Textual amendment: Word in [art. 8(8)](https://www.legislation.gov.uk/nisr/2015/201/article/8/8) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2019/119/article/4/2)
+[^c-de7dc6dee906703331d2ad3d096646b0]: Textual amendment: Word in [art. 8(8)](https://www.legislation.gov.uk/nisr/2015/201/article/8/8) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2019/119/article/4/2)
 
-[^key-b689ef71d4ce2bc9f23826f75b850dfc]: Textual amendment: Word in [art. 9(1)](https://www.legislation.gov.uk/nisr/2015/201/article/9/1) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [5](https://www.legislation.gov.uk/nisr/2019/119/article/5)
+[^c-b689ef71d4ce2bc9f23826f75b850dfc]: Textual amendment: Word in [art. 9(1)](https://www.legislation.gov.uk/nisr/2015/201/article/9/1) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [5](https://www.legislation.gov.uk/nisr/2019/119/article/5)
 
-[^key-2c6fe9c39fcae900bd31ab9ccb1c03d4]: Textual amendment: Sch. 2 Pt. 1 para. 3(3), (4) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(1)](https://www.legislation.gov.uk/nisr/2019/119/article/6/1)
+[^c-2c6fe9c39fcae900bd31ab9ccb1c03d4]: Textual amendment: Sch. 2 Pt. 1 para. 3(3), (4) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(1)](https://www.legislation.gov.uk/nisr/2019/119/article/6/1)
 
-[^key-a1322fc5733de3edc995ffe5e2def26a]: Textual amendment: Sch. 2 Pt. 2 title substituted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 32(1)(a)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/1) (with [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-a1322fc5733de3edc995ffe5e2def26a]: Textual amendment: Sch. 2 Pt. 2 title substituted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 32(1)(a)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/1) (with [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-510e398af583ae969165f70383436e04]: Textual amendment: Words in Sch. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(2)](https://www.legislation.gov.uk/nisr/2019/119/article/6/2)
+[^c-510e398af583ae969165f70383436e04]: Textual amendment: Words in Sch. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(2)](https://www.legislation.gov.uk/nisr/2019/119/article/6/2)
 
-[^key-35e37013bae98f579827237240b7e6e0]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(3)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/6/3/a)
+[^c-35e37013bae98f579827237240b7e6e0]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(3)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/6/3/a)
 
-[^key-53e6d9b2f8b0c45c29f1e1262df604ad]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (1.7.2019) by virtue of [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/6/3/b)
+[^c-53e6d9b2f8b0c45c29f1e1262df604ad]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (1.7.2019) by virtue of [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(3)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/6/3/b)
 
-[^key-52e81d5a922988d8b3b9ac8a95e2508b]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (1.7.2019) by virtue of [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(3)(c)](https://www.legislation.gov.uk/nisr/2019/119/article/6/3/c)
+[^c-52e81d5a922988d8b3b9ac8a95e2508b]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (1.7.2019) by virtue of [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [6(3)(c)](https://www.legislation.gov.uk/nisr/2019/119/article/6/3/c)
 
 [^c22509981]: Marginal citation: [S.I. 2008/1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216)
 
-[^key-564d3bdcd65979102f0355a8cde6017d]: Textual amendment: Words in Sch. 2 Pt. 3 title inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 32(1)(b)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/1) (with [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-564d3bdcd65979102f0355a8cde6017d]: Textual amendment: Words in Sch. 2 Pt. 3 title inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 32(1)(b)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/1) (with [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-ab6713c31fd4e8d79d960d71879f1000]: Textual amendment: Words in Sch. 2 Pt. 3 Table 1 Note 1 inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 32(1)(c)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/1) (with [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-ab6713c31fd4e8d79d960d71879f1000]: Textual amendment: Words in Sch. 2 Pt. 3 Table 1 Note 1 inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 32(1)(c)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/1) (with [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/32/2)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
-[^key-175b2d554e3922fc7d3c36f94d058e84]: Textual amendment: Words in Sch. 3 para. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(1)](https://www.legislation.gov.uk/nisr/2019/119/article/7/1)
+[^c-175b2d554e3922fc7d3c36f94d058e84]: Textual amendment: Words in Sch. 3 para. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(1)](https://www.legislation.gov.uk/nisr/2019/119/article/7/1)
 
-[^key-7b1f3ae7ea8174a2b36730930e091a64]: Textual amendment: Word in Sch. 3 para. 3(1) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(2)](https://www.legislation.gov.uk/nisr/2019/119/article/7/2)
+[^c-7b1f3ae7ea8174a2b36730930e091a64]: Textual amendment: Word in Sch. 3 para. 3(1) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(2)](https://www.legislation.gov.uk/nisr/2019/119/article/7/2)
 
-[^key-48b1f8d96e47c3e5bb8b9ecaf40a1b33]: Textual amendment: [Sch. 3 paras. 4-14](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/paragraph/4) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(3)](https://www.legislation.gov.uk/nisr/2019/119/article/7/3)
+[^c-48b1f8d96e47c3e5bb8b9ecaf40a1b33]: Textual amendment: [Sch. 3 paras. 4-14](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/paragraph/4) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(3)](https://www.legislation.gov.uk/nisr/2019/119/article/7/3)
 
 [^c22509991]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-7ed4eb673dde8de6387d9f6885b2051c]: Textual amendment: Words in Sch. 3 Pt. 2 inserted (11.10.2016) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/336)](https://www.legislation.gov.uk/nisr/2016/336), [arts. 1](https://www.legislation.gov.uk/nisr/2016/336/article/1), [3](https://www.legislation.gov.uk/nisr/2016/336/article/3)
+[^c-7ed4eb673dde8de6387d9f6885b2051c]: Textual amendment: Words in Sch. 3 Pt. 2 inserted (11.10.2016) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/336)](https://www.legislation.gov.uk/nisr/2016/336), [arts. 1](https://www.legislation.gov.uk/nisr/2016/336/article/1), [3](https://www.legislation.gov.uk/nisr/2016/336/article/3)
 
-[^key-d361c74e395e1f1faf3e1df88811c260]: Textual amendment: Words in [Sch. 3 Pt. 2 Table 1](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/part/2) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(5)](https://www.legislation.gov.uk/nisr/2019/119/article/7/5)
+[^c-d361c74e395e1f1faf3e1df88811c260]: Textual amendment: Words in [Sch. 3 Pt. 2 Table 1](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/part/2) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(5)](https://www.legislation.gov.uk/nisr/2019/119/article/7/5)
 
-[^key-4ff94392830e171da714b1cbe1a1261f]: Textual amendment: Words in Sch. 3 Pt. 2 Table 3 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(4)](https://www.legislation.gov.uk/nisr/2019/119/article/7/4)
+[^c-4ff94392830e171da714b1cbe1a1261f]: Textual amendment: Words in Sch. 3 Pt. 2 Table 3 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(4)](https://www.legislation.gov.uk/nisr/2019/119/article/7/4)
 
 [^c22510001]: Marginal citation: [S.I. 1998/1071 (N.I. 6)](https://www.legislation.gov.uk/nisi/1998/1071)
 
-[^key-9b96c4bf8197e1e5db07a9fca5d89261]: Textual amendment: Words in [Sch. 3 Pt. 2 Table 4](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/part/2) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(5)](https://www.legislation.gov.uk/nisr/2019/119/article/7/5)
+[^c-9b96c4bf8197e1e5db07a9fca5d89261]: Textual amendment: Words in [Sch. 3 Pt. 2 Table 4](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/part/2) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(5)](https://www.legislation.gov.uk/nisr/2019/119/article/7/5)
 
-[^key-c6a947b3a928c08dd776b080144b8f82]: Textual amendment: Words in Sch. 3 Pt. 2 Table 6 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(4)](https://www.legislation.gov.uk/nisr/2019/119/article/7/4)
+[^c-c6a947b3a928c08dd776b080144b8f82]: Textual amendment: Words in Sch. 3 Pt. 2 Table 6 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(4)](https://www.legislation.gov.uk/nisr/2019/119/article/7/4)
 
 [^c22510011]: Marginal citation: [S.I. 1980/563 (N.I. 5)](https://www.legislation.gov.uk/nisi/1980/563)
 
-[^key-577758411e86ca1d061b25b06a7a026c]: Textual amendment: Words in Sch. 3 Pt. 2 Table 8 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(4)](https://www.legislation.gov.uk/nisr/2019/119/article/7/4)
+[^c-577758411e86ca1d061b25b06a7a026c]: Textual amendment: Words in Sch. 3 Pt. 2 Table 8 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(4)](https://www.legislation.gov.uk/nisr/2019/119/article/7/4)
 
 [^c22510021]: Marginal citation: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341)
 
@@ -1639,58 +1639,58 @@ This Order comes into operation on 1st April 2015.
 
 [^c22510051]: Marginal citation: [S.I. 2008/1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216)
 
-[^key-277e465c893d163b5bdf43a6ed44528e]: Textual amendment: Words in [Sch. 3 Pt. 3 Table 8](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/part/3) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(6)](https://www.legislation.gov.uk/nisr/2019/119/article/7/6)
+[^c-277e465c893d163b5bdf43a6ed44528e]: Textual amendment: Words in [Sch. 3 Pt. 3 Table 8](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/part/3) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(6)](https://www.legislation.gov.uk/nisr/2019/119/article/7/6)
 
-[^key-54e09926835469453a7c3dafd6d831a8]: Textual amendment: Words in [Sch. 3 Pt. 3 Table 9](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/part/3) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(7)](https://www.legislation.gov.uk/nisr/2019/119/article/7/7)
+[^c-54e09926835469453a7c3dafd6d831a8]: Textual amendment: Words in [Sch. 3 Pt. 3 Table 9](https://www.legislation.gov.uk/nisr/2015/201/schedule/3/part/3) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [7(7)](https://www.legislation.gov.uk/nisr/2019/119/article/7/7)
 
 [^c22510061]: Marginal citation: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42)
 
-[^key-8dbf9c2acb83e951103ef3141cd598e9]: Textual amendment: Words in Sch. 3 Pt. 3 inserted (11.10.2016) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/336)](https://www.legislation.gov.uk/nisr/2016/336), [arts. 1](https://www.legislation.gov.uk/nisr/2016/336/article/1), [4](https://www.legislation.gov.uk/nisr/2016/336/article/4)
+[^c-8dbf9c2acb83e951103ef3141cd598e9]: Textual amendment: Words in Sch. 3 Pt. 3 inserted (11.10.2016) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/336)](https://www.legislation.gov.uk/nisr/2016/336), [arts. 1](https://www.legislation.gov.uk/nisr/2016/336/article/1), [4](https://www.legislation.gov.uk/nisr/2016/336/article/4)
 
-[^key-4cf4150209481d715ff4017f96056691]: Textual amendment: Words in Sch. 3 Pt. 3 inserted (1.12.2016) by [The Civil Legal Services (Remuneration) (Amendment) (No. 2) Order (Northern Ireland) 2016 (S.R. 2016/396)](https://www.legislation.gov.uk/nisr/2016/396), [arts. 1](https://www.legislation.gov.uk/nisr/2016/396/article/1), [3](https://www.legislation.gov.uk/nisr/2016/396/article/3)
+[^c-4cf4150209481d715ff4017f96056691]: Textual amendment: Words in Sch. 3 Pt. 3 inserted (1.12.2016) by [The Civil Legal Services (Remuneration) (Amendment) (No. 2) Order (Northern Ireland) 2016 (S.R. 2016/396)](https://www.legislation.gov.uk/nisr/2016/396), [arts. 1](https://www.legislation.gov.uk/nisr/2016/396/article/1), [3](https://www.legislation.gov.uk/nisr/2016/396/article/3)
 
 [^c22510071]: Marginal citation: [S.I. 2004/1988 (N.I. 12)](https://www.legislation.gov.uk/nisi/2004/1988)
 
-[^key-3983cca63f663aa4aa89ef5f60a53617]: Textual amendment: Word in Sch. 4 para. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(1)](https://www.legislation.gov.uk/nisr/2019/119/article/8/1)
+[^c-3983cca63f663aa4aa89ef5f60a53617]: Textual amendment: Word in Sch. 4 para. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(1)](https://www.legislation.gov.uk/nisr/2019/119/article/8/1)
 
-[^key-2cd5e7d00baf7ad93d67dc98969e7c30]: Textual amendment: [Sch. 4 paras. 7-18](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/paragraph/7) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(2)](https://www.legislation.gov.uk/nisr/2019/119/article/8/2)
+[^c-2cd5e7d00baf7ad93d67dc98969e7c30]: Textual amendment: [Sch. 4 paras. 7-18](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/paragraph/7) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(2)](https://www.legislation.gov.uk/nisr/2019/119/article/8/2)
 
-[^key-5d329236aed1b29ad9800d463167105d]: Textual amendment: Words in Sch. 4 Pt. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/a)
+[^c-5d329236aed1b29ad9800d463167105d]: Textual amendment: Words in Sch. 4 Pt. 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/a)
 
-[^key-d1b289c6cbc52959c1401f0f35f766bb]: Textual amendment: Words in Sch. 4 Pt. 2 Table 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/b)
+[^c-d1b289c6cbc52959c1401f0f35f766bb]: Textual amendment: Words in Sch. 4 Pt. 2 Table 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/b)
 
-[^key-22da49bbea020b8c95bc1f1fc40b785f]: Textual amendment: Words in Sch. 4 Pt. 2 Table 3-11 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(c)(i)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/c/i)
+[^c-22da49bbea020b8c95bc1f1fc40b785f]: Textual amendment: Words in Sch. 4 Pt. 2 Table 3-11 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(c)(i)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/c/i)
 
-[^key-1e8d809f76ca5d68e2ecebb917a2a521]: Textual amendment: Words in Sch. 4 Pt. 2 Table 3-11 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/c/ii)
+[^c-1e8d809f76ca5d68e2ecebb917a2a521]: Textual amendment: Words in Sch. 4 Pt. 2 Table 3-11 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/c/ii)
 
-[^key-b4775c5e7f0fd01aef5479f1e73a5d48]: Textual amendment: Words in Sch. 4 Pt. 2 Table 6 heading substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(e)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/e)
+[^c-b4775c5e7f0fd01aef5479f1e73a5d48]: Textual amendment: Words in Sch. 4 Pt. 2 Table 6 heading substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(e)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/e)
 
 [^c22510091]: Marginal citation: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)
 
 [^c22510101]: Marginal citation: [S.I. 1998/1071 (N.I. 6)](https://www.legislation.gov.uk/nisi/1998/1071)
 
-[^key-94230be43c101425aef7a113f02e40c9]: Textual amendment: Words in Sch. 4 Pt. 2 Table 12-19 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(d)(i)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/d/i)
+[^c-94230be43c101425aef7a113f02e40c9]: Textual amendment: Words in Sch. 4 Pt. 2 Table 12-19 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(d)(i)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/d/i)
 
-[^key-e0255b75d2265e4badeb6c460dbb5564]: Textual amendment: Words in Sch. 4 Pt. 2 Table 12-19 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(d)(ii)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/d/ii)
+[^c-e0255b75d2265e4badeb6c460dbb5564]: Textual amendment: Words in Sch. 4 Pt. 2 Table 12-19 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(d)(ii)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/d/ii)
 
-[^key-71208f5a16e1cab3bc0b0d614f1b9cd0]: Textual amendment: Words in Sch. 4 Pt. 2 Table 13 heading substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(f)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/f)
+[^c-71208f5a16e1cab3bc0b0d614f1b9cd0]: Textual amendment: Words in Sch. 4 Pt. 2 Table 13 heading substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(f)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/f)
 
-[^key-26fc78d310541d15659bbc5f4da27ef1]: Textual amendment: Words in [Sch. 4 Pt. 2 Table 14](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/part/2) heading substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(g)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/g)
+[^c-26fc78d310541d15659bbc5f4da27ef1]: Textual amendment: Words in [Sch. 4 Pt. 2 Table 14](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/part/2) heading substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(3)(g)](https://www.legislation.gov.uk/nisr/2019/119/article/8/3/g)
 
 [^c22510111]: Marginal citation: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)
 
 [^c22510121]: Marginal citation: [S.I. 1998/1071 (N.I. 6)](https://www.legislation.gov.uk/nisi/1998/1071)
 
-[^key-18fa61fdb468d70afac62c913d628b92]: Textual amendment: [Sch. 4 Pt. 3 Table 1](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/part/3) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(4)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/8/4/a)
+[^c-18fa61fdb468d70afac62c913d628b92]: Textual amendment: [Sch. 4 Pt. 3 Table 1](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/part/3) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(4)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/8/4/a)
 
-[^key-f64fb778ed132a3ed450337c61b58c90]: Textual amendment: Words in Sch. 4 Pt. 3 Table 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(4)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/8/4/b)
+[^c-f64fb778ed132a3ed450337c61b58c90]: Textual amendment: Words in Sch. 4 Pt. 3 Table 2 substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(4)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/8/4/b)
 
-[^key-72bce890f459501ff1ad8fa45e99afc3]: Textual amendment: [Sch. 4 Pt. 4 Table 9](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/part/4) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(5)](https://www.legislation.gov.uk/nisr/2019/119/article/8/5)
+[^c-72bce890f459501ff1ad8fa45e99afc3]: Textual amendment: [Sch. 4 Pt. 4 Table 9](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/part/4) inserted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(5)](https://www.legislation.gov.uk/nisr/2019/119/article/8/5)
 
-[^key-a8de8d183351fc167586da370ae3807f]: Textual amendment: Words in Sch. 4 Pt. 5 omitted (1.7.2019) by virtue of [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(6)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/8/6/a)
+[^c-a8de8d183351fc167586da370ae3807f]: Textual amendment: Words in Sch. 4 Pt. 5 omitted (1.7.2019) by virtue of [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(6)(a)](https://www.legislation.gov.uk/nisr/2019/119/article/8/6/a)
 
-[^key-544a3215d2676d8c5a45bf8a642814b7]: Textual amendment: Sch. 4 Pt. 5 Table 1 heading substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(6)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/8/6/b)
+[^c-544a3215d2676d8c5a45bf8a642814b7]: Textual amendment: Sch. 4 Pt. 5 Table 1 heading substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(6)(b)](https://www.legislation.gov.uk/nisr/2019/119/article/8/6/b)
 
-[^key-5653bdc356cc98dd1acc3d1bc6a9c909]: Textual amendment: [Sch. 4 Pt. 5 Table 3](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/part/5) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(6)(c)](https://www.legislation.gov.uk/nisr/2019/119/article/8/6/c)
+[^c-5653bdc356cc98dd1acc3d1bc6a9c909]: Textual amendment: [Sch. 4 Pt. 5 Table 3](https://www.legislation.gov.uk/nisr/2015/201/schedule/4/part/5) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [8(6)(c)](https://www.legislation.gov.uk/nisr/2019/119/article/8/6/c)
 
-[^key-b266105ca6eb720ad05eb537071ea027]: Textual amendment: Word in [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2015/201/schedule/5/paragraph/2) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [9](https://www.legislation.gov.uk/nisr/2019/119/article/9)
+[^c-b266105ca6eb720ad05eb537071ea027]: Textual amendment: Word in [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2015/201/schedule/5/paragraph/2) substituted (1.7.2019) by [The Civil Legal Services (Remuneration) (Amendment) Order (Northern Ireland) 2019 (S.R. 2019/119)](https://www.legislation.gov.uk/nisr/2019/119), [arts. 1](https://www.legislation.gov.uk/nisr/2019/119/article/1), [9](https://www.legislation.gov.uk/nisr/2019/119/article/9)

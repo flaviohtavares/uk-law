@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 105B, 105D and 402(3) of the Communications Act 2003[^f00001].
 
-## 1. Citation, commencement and extent[^key-68f0aa8e278c55b15fa570f0ef88b92c]
+## 1. Citation, commencement and extent[^c-68f0aa8e278c55b15fa570f0ef88b92c]
 
 (1) These Regulations may be cited as the Electronic Communications (Security Measures) Regulations 2022.
 
@@ -54,7 +54,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-319010fae165e1a1a4bc0c2cf5810aa5]
+## 2. Interpretation[^c-319010fae165e1a1a4bc0c2cf5810aa5]
 
 In these Regulations—
 
@@ -74,7 +74,7 @@ In these Regulations—
 - “**service provider**” means a person who provides a public electronic communications service;
 - “**signal**” has the same meaning as in section 32 of the Act.
 
-## 3. Network architecture[^key-7038ad8a899ce893bc563fb01e987fc7]
+## 3. Network architecture[^c-7038ad8a899ce893bc563fb01e987fc7]
 
 (1) A network provider must take such measures as are appropriate and proportionate to ensure—
 
@@ -104,7 +104,7 @@ In these Regulations—
 
 (5) A network provider or service provider must take such measures as are appropriate and proportionate to ensure that the public electronic communications network or public electronic communications service is designed in such a way that the occurrence of a security compromise in relation to part of the network or service does not affect other parts of the network or service.
 
-## 4. Protection of data and network functions[^key-57748c3349a9faef31874e0851af315a]
+## 4. Protection of data and network functions[^c-57748c3349a9faef31874e0851af315a]
 
 (1) A network provider must use such technical means as are appropriate and proportionate—
 
@@ -136,7 +136,7 @@ In these Regulations—
 
 (7) In paragraph (6), “**SIM card**” means a subscriber identity module or other hardware storage device intended to store an International Mobile Subscriber Identity (IMSI) and associated cryptographic material, and the reference to replacing a SIM card includes a reference to the application to a SIM card of any process which permanently replaces one IMSI and associated cryptographic material with another.
 
-## 5. Protection of certain tools enabling monitoring or analysis[^key-76c9e6c88ac69bc134370e24f95277d9]
+## 5. Protection of certain tools enabling monitoring or analysis[^c-76c9e6c88ac69bc134370e24f95277d9]
 
 (1) This regulation applies in relation to a public electronic communications network or public electronic communications service if the network or service includes tools that enable—
 
@@ -150,7 +150,7 @@ In these Regulations—
 - (a) are not capable of being accessed from a country listed in the Schedule, and
 - (b) are not stored on equipment located in a country so listed.
 
-## 6. Monitoring and analysis[^key-8d586eb34aa525b922281b647064064d]
+## 6. Monitoring and analysis[^c-8d586eb34aa525b922281b647064064d]
 
 (1) A network provider must take such measures as are appropriate and proportionate to monitor and analyse access to security critical functions of the public electronic communications network for the purpose of identifying anomalous activity that may involve a risk of a security compromise occurring.
 
@@ -170,7 +170,7 @@ In these Regulations—
 
 (4) A network provider or service provider must record the type, location, software and hardware information and identifying information of equipment supplied by the network provider or service provider which is used or intended to be used as part of the public electronic communications network or public electronic communications service.
 
-## 7. Supply chain[^key-dfb68416208163fdbd3c16d076940c0a]
+## 7. Supply chain[^c-dfb68416208163fdbd3c16d076940c0a]
 
 (1) A network provider or service provider must take such measures as are appropriate and proportionate to identify and reduce the risks of security compromises occurring in relation to the public electronic communications network or public electronic communications service as a result of things done or omitted by third party suppliers.
 
@@ -196,7 +196,7 @@ In these Regulations—
 - (a) ensure that there is in place at all times a written plan to maintain the normal operation of the public electronic communications network in the event that the supply, provision or making available of goods, services or facilities by a third party supplier is interrupted, and
 - (b) review that plan on a regular basis.
 
-## 8. Prevention of unauthorised access or interference[^key-017416376a4dc2ba8e6fe606b180b404]
+## 8. Prevention of unauthorised access or interference[^c-017416376a4dc2ba8e6fe606b180b404]
 
 (1) A network provider or service provider must take such measures as are appropriate and proportionate to reduce the risks of the occurrence of security compromises that consist of unauthorised access to the public electronic communications network or public electronic communications service.
 
@@ -231,7 +231,7 @@ In these Regulations—
 - (a) that no security permission is given to a person while the person is in a country listed in the Schedule, and
 - (b) that any security permission cannot be exercised while the person to whom it is given is in a country so listed.
 
-## 9. Preparing for remediation and recovery[^key-ad8a0f052fc8444f679ada44cabc446c]
+## 9. Preparing for remediation and recovery[^c-ad8a0f052fc8444f679ada44cabc446c]
 
 (1) A network provider or service provider must take such measures as are appropriate and proportionate to prepare for the occurrence of security compromises with a view to limiting the adverse effects of security compromises and enabling the provider to recover from security compromises.
 
@@ -255,7 +255,7 @@ In these Regulations—
 - (a) an “online copy” is a copy that is held on the public electronic communications network or public electronic communications service in question, and
 - (b) an “offline copy” is a copy that is stored in such a way that it is not exposed to signals conveyed by means of the network or service in question.
 
-## 10. Governance[^key-67e8bbb0e51de7b8898437607b39fc49]
+## 10. Governance[^c-67e8bbb0e51de7b8898437607b39fc49]
 
 (1) A network provider or service provider must ensure appropriate and proportionate management of persons given responsibility for the taking of measures on behalf of the provider for the purposes mentioned in section 105A(1) of the Act.
 
@@ -277,7 +277,7 @@ In these Regulations—
 
 (4) A network provider or service provider must take such measures as are appropriate and proportionate to identify and reduce the risks of security compromises occurring as a result of unauthorised conduct by persons involved in the provision of the public electronic communications network or public electronic communications service.
 
-## 11. Reviews[^key-baaf12e030bd3476197e0852867442f0]
+## 11. Reviews[^c-baaf12e030bd3476197e0852867442f0]
 
 A network provider or service provider must—
 
@@ -292,7 +292,7 @@ A network provider or service provider must—
   - (vii) the results of tests carried out in accordance with regulation 14, and
   - (viii) any other relevant information.
 
-## 12. Patches and updates[^key-0ce323801e5b137a81b43e3cdfc2bfa3]
+## 12. Patches and updates[^c-0ce323801e5b137a81b43e3cdfc2bfa3]
 
 A network provider or service provider must—
 
@@ -304,7 +304,7 @@ A network provider or service provider must—
 
   to be taken at an appropriate governance level and recorded in writing.
 
-## 13. Competency[^key-e9863945072374693970906b7e9c9e6b]
+## 13. Competency[^c-e9863945072374693970906b7e9c9e6b]
 
 (1) A network provider or service provider must take such measures as are appropriate and proportionate to ensure that persons given responsibility for the taking of measures on behalf of the provider for the purposes mentioned in section 105A(1) of the Act (“the responsible persons”)—
 
@@ -324,7 +324,7 @@ A network provider or service provider must—
 
 (3) In paragraph (2)(c) and (d) “**third party supplier**” has the meaning given by regulation 7(2).
 
-## 14. Testing[^key-779a0a171ce88d6be8c5dbd3a2001381]
+## 14. Testing[^c-779a0a171ce88d6be8c5dbd3a2001381]
 
 (1) A network provider or service provider must at appropriate intervals carry out, or arrange for a suitable person to carry out, such tests in relation to the network or service as are appropriate and proportionate for the purpose of identifying the risks of security compromises occurring in relation to the public electronic communications network or public electronic communications service.
 
@@ -340,7 +340,7 @@ A network provider or service provider must—
 - (a) the competence and skills of persons involved in the provision of the network or service, and
 - (b) the possibility of unauthorised access to places where the network provider or service provider keeps equipment used for the purposes of the network or service.
 
-## 15. Assistance[^key-b0ce4a761f4e6d518136c5e8a7a84f04]
+## 15. Assistance[^c-b0ce4a761f4e6d518136c5e8a7a84f04]
 
 (1) Where—
 
@@ -368,7 +368,7 @@ the relevant person must, so far as is appropriate and proportionate, provide in
 
 (5) A network provider or service provider must, where necessary to reduce the risk of security compromises occurring in relation to the provider’s public electronic communications network or public electronic communications service, request another person to give any assistance which paragraph (3) or (4) will require the other person to give.
 
-## 16. Exemption for micro-entities[^key-6e2c823a6722c0fa00ba2f4a1f4652b4]
+## 16. Exemption for micro-entities[^c-6e2c823a6722c0fa00ba2f4a1f4652b4]
 
 (1) Nothing in regulations 3 to 15 applies in relation to a network provider or service provider that is a micro-entity.
 
@@ -397,17 +397,17 @@ Minister of State
 
 Department for Digital, Culture, Media and Sport
 
-## SCHEDULE — Countries listed for purposes of regulations 5(3) and 8(6)[^key-2fd9f4ba40402b4516f5b9edfd61d8cd]
+## SCHEDULE — Countries listed for purposes of regulations 5(3) and 8(6)[^c-2fd9f4ba40402b4516f5b9edfd61d8cd]
 
 Regulations 5(3)and 8(6)
 
-[^key-2fd9f4ba40402b4516f5b9edfd61d8cd]Iran (Islamic Republic of Iran).
+[^c-2fd9f4ba40402b4516f5b9edfd61d8cd]Iran (Islamic Republic of Iran).
 
-[^key-2fd9f4ba40402b4516f5b9edfd61d8cd]North Korea.
+[^c-2fd9f4ba40402b4516f5b9edfd61d8cd]North Korea.
 
-[^key-2fd9f4ba40402b4516f5b9edfd61d8cd]People’s Republic of China.
+[^c-2fd9f4ba40402b4516f5b9edfd61d8cd]People’s Republic of China.
 
-[^key-2fd9f4ba40402b4516f5b9edfd61d8cd]Russia (Russian Federation).
+[^c-2fd9f4ba40402b4516f5b9edfd61d8cd]Russia (Russian Federation).
 
 EXPLANATORY NOTE
 
@@ -427,44 +427,44 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 105B was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and substituted by section 1 of the Telecommunications (Security) Act [2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31); section 105D was inserted by section 2 of that Act.
 
-[^key-68f0aa8e278c55b15fa570f0ef88b92c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/933/regulation/1) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-68f0aa8e278c55b15fa570f0ef88b92c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/933/regulation/1) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-319010fae165e1a1a4bc0c2cf5810aa5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/933/regulation/2) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-319010fae165e1a1a4bc0c2cf5810aa5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/933/regulation/2) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
 [^f00002]: Footnote: Section 105A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and substituted by section 1 of the Telecommunications (Security) Act 2021.
 
 [^f00003]: Footnote: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25).
 
-[^key-7038ad8a899ce893bc563fb01e987fc7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/933/regulation/3) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-7038ad8a899ce893bc563fb01e987fc7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/933/regulation/3) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-57748c3349a9faef31874e0851af315a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/933/regulation/4) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-57748c3349a9faef31874e0851af315a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/933/regulation/4) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-76c9e6c88ac69bc134370e24f95277d9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/933/regulation/5) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-76c9e6c88ac69bc134370e24f95277d9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/933/regulation/5) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-8d586eb34aa525b922281b647064064d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/933/regulation/6) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-8d586eb34aa525b922281b647064064d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/933/regulation/6) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-dfb68416208163fdbd3c16d076940c0a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/933/regulation/7) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-dfb68416208163fdbd3c16d076940c0a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/933/regulation/7) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-017416376a4dc2ba8e6fe606b180b404]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/933/regulation/8) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-017416376a4dc2ba8e6fe606b180b404]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/933/regulation/8) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-ad8a0f052fc8444f679ada44cabc446c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/933/regulation/9) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-ad8a0f052fc8444f679ada44cabc446c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/933/regulation/9) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-67e8bbb0e51de7b8898437607b39fc49]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/933/regulation/10) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-67e8bbb0e51de7b8898437607b39fc49]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/933/regulation/10) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-baaf12e030bd3476197e0852867442f0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/933/regulation/11) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-baaf12e030bd3476197e0852867442f0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/933/regulation/11) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-0ce323801e5b137a81b43e3cdfc2bfa3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/933/regulation/12) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-0ce323801e5b137a81b43e3cdfc2bfa3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/933/regulation/12) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-e9863945072374693970906b7e9c9e6b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/933/regulation/13) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-e9863945072374693970906b7e9c9e6b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/933/regulation/13) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-779a0a171ce88d6be8c5dbd3a2001381]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/933/regulation/14) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-779a0a171ce88d6be8c5dbd3a2001381]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/933/regulation/14) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-b0ce4a761f4e6d518136c5e8a7a84f04]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2022/933/regulation/15) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-b0ce4a761f4e6d518136c5e8a7a84f04]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2022/933/regulation/15) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
-[^key-6e2c823a6722c0fa00ba2f4a1f4652b4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2022/933/regulation/16) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-6e2c823a6722c0fa00ba2f4a1f4652b4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2022/933/regulation/16) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
 
 [^f00004]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46); section 384A was inserted by [S.I. 2013/3008](https://www.legislation.gov.uk/uksi/2013/3008).
 
 [^f00005]: Footnote: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911); regulation 5A was inserted by [S.I. 2016/575](https://www.legislation.gov.uk/uksi/2016/575).
 
-[^key-2fd9f4ba40402b4516f5b9edfd61d8cd]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2022/933/schedule) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)
+[^c-2fd9f4ba40402b4516f5b9edfd61d8cd]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2022/933/schedule) in force at 1.10.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/933/regulation/1/2)

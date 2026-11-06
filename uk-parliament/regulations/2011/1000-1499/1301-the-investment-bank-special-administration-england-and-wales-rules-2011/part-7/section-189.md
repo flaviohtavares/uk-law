@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 189. Communication of disclaimer to persons interested[^key-a4cc1716cfa06547bbfa008b2451ace8]
+## 189. Communication of disclaimer to persons interested[^c-a4cc1716cfa06547bbfa008b2451ace8]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4cc1716cfa06547bbfa008b2451ace8]: Commencement: [Rule 189](https://www.legislation.gov.uk/uksi/2011/1301/rule/189) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a4cc1716cfa06547bbfa008b2451ace8]: Commencement: [Rule 189](https://www.legislation.gov.uk/uksi/2011/1301/rule/189) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Any power to make orders or regulations conferred by this Act on the Secretary of State is exercisable by statutory instrument.
 
-(2) A statutory instrument containing an order or regulations under section 21, 22A,[^key-46997896e5a824d5c8f974dcee8eb0f8] any of sections 83 to 86[^c20914311] , section 130 or section 136Q(1)[^c20931791] may not be made unless a draft of the instrument has been laid before, and approved by resolution of, each House of Parliament.
+(2) A statutory instrument containing an order or regulations under section 21, 22A,[^c-46997896e5a824d5c8f974dcee8eb0f8] any of sections 83 to 86[^c20914311] , section 130 or section 136Q(1)[^c20931791] may not be made unless a draft of the instrument has been laid before, and approved by resolution of, each House of Parliament.
 
 (3) Any other statutory instrument, except one containing an order under section 141, is to be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -63,7 +63,7 @@ summary: ''
 
 [^c20931781]: Extent: This version of this provision extends to England, Wales and Northern Ireland only; a separate version has been created for Scotland only
 
-[^key-46997896e5a824d5c8f974dcee8eb0f8]: Textual amendment: Word in [s. 138(2)](https://www.legislation.gov.uk/ukpga/2003/42/section/138/2) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 47(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/47/3), [208(5)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/c)
+[^c-46997896e5a824d5c8f974dcee8eb0f8]: Textual amendment: Word in [s. 138(2)](https://www.legislation.gov.uk/ukpga/2003/42/section/138/2) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 47(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/47/3), [208(5)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/c)
 
 [^c20914311]: Textual amendment: Words in [s. 138(2)](https://www.legislation.gov.uk/ukpga/2003/42/section/138/2) substituted (E.W.N.I.) (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 142(10)](https://www.legislation.gov.uk/ukpga/2008/4/section/142/10), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2](https://www.legislation.gov.uk/uksi/2008/1586/article/2), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/45) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1586/schedule/2))
 

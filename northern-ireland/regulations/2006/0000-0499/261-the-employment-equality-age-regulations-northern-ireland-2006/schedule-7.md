@@ -24,7 +24,7 @@ Regulation 53(1)
 
 ### Part 1 — Primary legislation
 
-#### 1. The Social Security Contributions and Benefits (Northern Ireland) Act 1992[^key-9db1cf2ed30967c29985d8137044db42]
+#### 1. The Social Security Contributions and Benefits (Northern Ireland) Act 1992[^c-9db1cf2ed30967c29985d8137044db42]
 
 (1) The Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00057] shall be amended in accordance with sub-paragraphs (2) to (10).
 
@@ -103,13 +103,13 @@ Regulation 53(1)
 
 (11) But in a case falling within sub-paragraph (10)(b), sub-paragraph (9) does not affect the application of paragraph 1 of Schedule 11 to the Social Security Contributions and Benefits (Northern Ireland) Act 1992 in relation to the part of the period of incapacity for work that falls before 1st October 2006.
 
-#### 2. The Statutory Sick Pay (Northern Ireland) Order 1994[^key-f7b012bfbc0909b9ab9011cd0e2b432c]
+#### 2. The Statutory Sick Pay (Northern Ireland) Order 1994[^c-f7b012bfbc0909b9ab9011cd0e2b432c]
 
 (1) The Statutory Sick Pay (Northern Ireland) Order 1994[^f00063] shall be amended in accordance with this paragraph.
 
 (2) In Article 3(2) (restriction of employers' right of recovery) omit the words after sub-paragraph (b).
 
-#### 3. The Employment Rights (Northern Ireland) Order 1996[^key-90b44529e1b976187d074e083f8b0035]
+#### 3. The Employment Rights (Northern Ireland) Order 1996[^c-90b44529e1b976187d074e083f8b0035]
 
 (1) The 1996 Order[^f00064] shall be amended in accordance with sub-paragraphs (2) to (15).
 
@@ -336,7 +336,7 @@ Regulation 53(1)
 
 (15) In Article 250(2) (powers to amend Order) omit “141(1)”.
 
-#### 4. The Industrial Tribunals (Northern Ireland) Order 1996[^key-905fbacdee5b6e67b938d63b8e8a8964]
+#### 4. The Industrial Tribunals (Northern Ireland) Order 1996[^c-905fbacdee5b6e67b938d63b8e8a8964]
 
 Article 20(1)(a) of the Industrial Tribunals (Northern Ireland) Order 1996[^f00071] (cases where conciliation provisions apply) shall be amended as follows—
 
@@ -349,7 +349,7 @@ Article 20(1)(a) of the Industrial Tribunals (Northern Ireland) Order 1996[^f000
 
   .
 
-#### 5. The Fair Employment and Treatment (Northern Ireland) Order 1998[^key-87743c5e6364bffd10246999f64d255d]
+#### 5. The Fair Employment and Treatment (Northern Ireland) Order 1998[^c-87743c5e6364bffd10246999f64d255d]
 
 (1) The Fair Employment and Treatment (Northern Ireland) Order 1998[^f00072] shall be amended in accordance with sub-paragraphs (2) to (4).
 
@@ -375,7 +375,7 @@ Article 20(1)(a) of the Industrial Tribunals (Northern Ireland) Order 1996[^f000
   - (ii) in the definition of “occupational pension scheme”, omit the words “as at 10th December 2003”; and
 - (b) in paragraph 1(2), omit the words “as at 10th December 2003”.
 
-#### 6. The Employment (Northern Ireland) Order 2003[^key-94dc58789f66e7289c9c47d9847dac98]
+#### 6. The Employment (Northern Ireland) Order 2003[^c-94dc58789f66e7289c9c47d9847dac98]
 
 In the Employment (Northern Ireland) Order 2003[^f00077] at the end of each of the following Schedules—
 
@@ -391,7 +391,7 @@ insert—
 
 ### PART 2 — Subordinate legislation
 
-#### 7. The Riding Establishments Regulations (Northern Ireland) 1980[^key-4f0e9c741e5a5b5a3a00563ea20039ba]
+#### 7. The Riding Establishments Regulations (Northern Ireland) 1980[^c-4f0e9c741e5a5b5a3a00563ea20039ba]
 
 In regulation 4 of the Riding Establishments Regulations (Northern Ireland) 1980[^f00078] (management and supervision requirements), for paragraph (1) substitute—
 
@@ -399,7 +399,7 @@ In regulation 4 of the Riding Establishments Regulations (Northern Ireland) 1980
 
 .
 
-#### 8. The Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^key-7ae435790e5b6c087cd252477ca83ea6]
+#### 8. The Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^c-7ae435790e5b6c087cd252477ca83ea6]
 
 (1) The Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00079] shall be amended in accordance with sub-paragraphs (2) and (3).
 
@@ -419,7 +419,7 @@ In regulation 4 of the Riding Establishments Regulations (Northern Ireland) 1980
 - (a) at the end of sub-paragraph (a), insert “(or would have been so excluded had he not been under the age of 16)”; and
 - (b) at the end of sub-paragraph (b), insert “(or where such a payment or amount would have been so excluded and in consequence he would not have been entitled to statutory sick pay had he not been under the age of 16)”.
 
-#### 9. The Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987[^key-352a7dc2da40ae005b5b715a4a27eb60]
+#### 9. The Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987[^c-352a7dc2da40ae005b5b715a4a27eb60]
 
 (1) The Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987[^f00080] shall be amended in accordance with sub-paragraphs (2) to (4).
 
@@ -441,7 +441,7 @@ In regulation 4 of the Riding Establishments Regulations (Northern Ireland) 1980
 
 (4) Sub-paragraph (3) applies in relation to any case where the expected week of confinement begins on or after 14th January 2007.
 
-#### 10. The Employment Protection (Continuity of Employment) Regulations (Northern Ireland) 1996[^key-d3a4bf65ba716a9ae75e64adbf099362]
+#### 10. The Employment Protection (Continuity of Employment) Regulations (Northern Ireland) 1996[^c-d3a4bf65ba716a9ae75e64adbf099362]
 
 Regulation 3 of the Employment Protection (Continuity of Employment) Regulations (Northern Ireland) 1996[^f00081] shall be amended as follows—
 
@@ -454,7 +454,7 @@ Regulation 3 of the Employment Protection (Continuity of Employment) Regulations
 
   .
 
-#### 11. The Petshops Regulations (Northern Ireland) 2000[^key-d369c255f52d00fc0e6de4526855a86a]
+#### 11. The Petshops Regulations (Northern Ireland) 2000[^c-d369c255f52d00fc0e6de4526855a86a]
 
 In the Schedule to the Petshops Regulations (Northern Ireland) 2000[^f00082] (conditions for keeping petshops)—
 
@@ -465,7 +465,7 @@ In the Schedule to the Petshops Regulations (Northern Ireland) 2000[^f00082] (co
 
   .
 
-#### 12. The Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations (Northern Ireland) 2002[^key-c9a9dc854284473dbe09678ecf40c0bd]
+#### 12. The Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations (Northern Ireland) 2002[^c-c9a9dc854284473dbe09678ecf40c0bd]
 
 (1) The Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations (Northern Ireland) 2002[^f00083] shall be amended in accordance with sub-paragraphs (2) and (3).
 
@@ -485,7 +485,7 @@ In the Schedule to the Petshops Regulations (Northern Ireland) 2000[^f00082] (co
 - (a) at the end of sub-paragraph (a), insert “(or would have been so excluded had he not been under the age of 16)”; and
 - (b) at the end of sub-paragraph (b), insert “(or where such a payment or amount would have been so excluded and in consequence he would not have been entitled to statutory paternity pay or, as the case may be, statutory adoption pay had he not been under the age of 16)”.
 
-#### 13. The Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003[^key-53ad4ae4cf3f0939817314cc1291a07f]
+#### 13. The Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003[^c-53ad4ae4cf3f0939817314cc1291a07f]
 
 (1) Schedule 1 to the Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003[^f00084] shall be amended in accordance with sub-paragraphs (2) and (3).
 
@@ -496,7 +496,7 @@ In the Schedule to the Petshops Regulations (Northern Ireland) 2000[^f00082] (co
 
 (3) In paragraph 1(2), omit the words “as at 2nd December 2003”.
 
-#### 14. The Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004[^key-5ce69e488ae7b7a7d5c54d40e4e63b89]
+#### 14. The Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004[^c-5ce69e488ae7b7a7d5c54d40e4e63b89]
 
 (1) The Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004[^f00085] shall be amended in accordance with sub-paragraphs (2) to (4).
 
@@ -523,7 +523,7 @@ In the Schedule to the Petshops Regulations (Northern Ireland) 2000[^f00082] (co
 
 .
 
-#### 15. The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005[^key-7cd8c2a1a320c3454023b11b94383282]
+#### 15. The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005[^c-7cd8c2a1a320c3454023b11b94383282]
 
 (1) The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005[^f00086] shall be amended in accordance with sub-paragraphs (2) to (4).
 
@@ -546,7 +546,7 @@ In the Schedule to the Petshops Regulations (Northern Ireland) 2000[^f00082] (co
 
 ## Annotations
 
-[^key-9db1cf2ed30967c29985d8137044db42]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-9db1cf2ed30967c29985d8137044db42]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/1) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00057]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
@@ -560,11 +560,11 @@ In the Schedule to the Petshops Regulations (Northern Ireland) 2000[^f00082] (co
 
 [^f00062]: Footnote: Paragraph 2(a) was amended by Article 3(2) of the Statutory Sick Pay (Northern Ireland) Order 1994 (S.I. [1994/766 (N.I. 5)](https://www.legislation.gov.uk/nisi/1994/766))
 
-[^key-f7b012bfbc0909b9ab9011cd0e2b432c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/2) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-f7b012bfbc0909b9ab9011cd0e2b432c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/2) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00063]: Footnote: S.I. [1994/766 (N.I. 5)](https://www.legislation.gov.uk/nisi/1994/766)
 
-[^key-90b44529e1b976187d074e083f8b0035]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/3) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-90b44529e1b976187d074e083f8b0035]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/3) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00064]: Footnote: S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
@@ -580,11 +580,11 @@ In the Schedule to the Petshops Regulations (Northern Ireland) 2000[^f00082] (co
 
 [^f00070]: Footnote: Article 160(1)(b) was substituted by Article 15(3) of the Employment Rights (Dispute Resolution) (Northern Ireland) Order 1998 (S.I. [1998/1265 (N.I. 8)](https://www.legislation.gov.uk/nisi/1998/1265)), and has been amended since, but the amendments are not relevant for the purposes of these Regulations
 
-[^key-905fbacdee5b6e67b938d63b8e8a8964]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/4) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-905fbacdee5b6e67b938d63b8e8a8964]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/4) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00071]: Footnote: [S.I.1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921); Article 20(1)(a)(iv) was inserted by paragraph 10 of Schedule 2 to the Race Relations (Northern Ireland) Order 1997 (S.I. [1997/869 (N.I. 6)](https://www.legislation.gov.uk/nisi/1997/869)) and Article 20(1)(a)(v) was inserted by paragraph 1 of Schedule 5 to [S.R. 2003 No. 497](https://www.legislation.gov.uk/nisr/2003/497)
 
-[^key-87743c5e6364bffd10246999f64d255d]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/5) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-87743c5e6364bffd10246999f64d255d]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/5) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00072]: Footnote: [S.I.1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162)
 
@@ -596,42 +596,42 @@ In the Schedule to the Petshops Regulations (Northern Ireland) 2000[^f00082] (co
 
 [^f00076]: Footnote: Schedule 2A was inserted by regulation 18(4) of [S.R. 2003 No. 520](https://www.legislation.gov.uk/nisr/2003/520)
 
-[^key-94dc58789f66e7289c9c47d9847dac98]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/6) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-94dc58789f66e7289c9c47d9847dac98]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/6) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00077]: Footnote: S.I. [2003/2902 (N.I. 15)](https://www.legislation.gov.uk/nisi/2003/2902)
 
-[^key-4f0e9c741e5a5b5a3a00563ea20039ba]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/7) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-4f0e9c741e5a5b5a3a00563ea20039ba]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/7) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00078]: Footnote: [S.R. 1980 No. 121](https://www.legislation.gov.uk/nisr/1980/121)
 
-[^key-7ae435790e5b6c087cd252477ca83ea6]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/8) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-7ae435790e5b6c087cd252477ca83ea6]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/8) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00079]: Footnote: [S.R. 1982 No. 263](https://www.legislation.gov.uk/nisr/1982/263); relevant amending Regulations are [S.R. 1983 No. 54](https://www.legislation.gov.uk/nisr/1983/54) and [S.R. 1999 No. 117](https://www.legislation.gov.uk/nisr/1999/117)
 
-[^key-352a7dc2da40ae005b5b715a4a27eb60]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/9) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-352a7dc2da40ae005b5b715a4a27eb60]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/9) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00080]: Footnote: [S.R. 1987 No. 30](https://www.legislation.gov.uk/nisr/1987/30); relevant amending Regulations are [S.R. 1999 No. 117](https://www.legislation.gov.uk/nisr/1999/117)
 
-[^key-d3a4bf65ba716a9ae75e64adbf099362]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/10) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-d3a4bf65ba716a9ae75e64adbf099362]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/10) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00081]: Footnote: [S.R. 1996 No. 604](https://www.legislation.gov.uk/nisr/1996/604); regulation 3(e) was inserted by regulation 17(c) of [S.R. 2004 No. 521](https://www.legislation.gov.uk/nisr/2004/521)
 
-[^key-d369c255f52d00fc0e6de4526855a86a]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/11) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-d369c255f52d00fc0e6de4526855a86a]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/11) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00082]: Footnote: [S.R. 2000 No. 405](https://www.legislation.gov.uk/nisr/2000/405)
 
-[^key-c9a9dc854284473dbe09678ecf40c0bd]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/12) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-c9a9dc854284473dbe09678ecf40c0bd]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/12) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00083]: Footnote: [S.R. 2002 No. 378](https://www.legislation.gov.uk/nisr/2002/378)
 
-[^key-53ad4ae4cf3f0939817314cc1291a07f]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/13) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-53ad4ae4cf3f0939817314cc1291a07f]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/13) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00084]: Footnote: [S.R. 2003 No. 497](https://www.legislation.gov.uk/nisr/2003/497)
 
-[^key-5ce69e488ae7b7a7d5c54d40e4e63b89]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/14) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-5ce69e488ae7b7a7d5c54d40e4e63b89]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/14) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00085]: Footnote: [S.R. 2004 No. 521](https://www.legislation.gov.uk/nisr/2004/521)
 
-[^key-7cd8c2a1a320c3454023b11b94383282]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/15) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-7cd8c2a1a320c3454023b11b94383282]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/nisr/2006/261/schedule/7/paragraph/15) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00086]: Footnote: [S.R. 2005 No. 150](https://www.legislation.gov.uk/nisr/2005/150)

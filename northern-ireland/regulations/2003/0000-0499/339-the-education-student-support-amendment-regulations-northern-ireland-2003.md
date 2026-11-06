@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-537256e6f950d8a30e13a46fb43337dd]
+The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-537256e6f950d8a30e13a46fb43337dd]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 11th August 2003
 
-[^key-537256e6f950d8a30e13a46fb43337dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-537256e6f950d8a30e13a46fb43337dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-537256e6f950d8a30e13a46fb43337dd]
+## 1. Citation and commencement[^c-537256e6f950d8a30e13a46fb43337dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-537256e6f950d8a30e13a46fb43337dd]
+## 2. Amendments[^c-537256e6f950d8a30e13a46fb43337dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-537256e6f950d8a30e13a46fb43337dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-537256e6f950d8a30e13a46fb43337dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-537256e6f950d8a30e13a46fb43337dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-537256e6f950d8a30e13a46fb43337dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-537256e6f950d8a30e13a46fb43337dd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/339) revoked (1.9.2005) by [The Education (Student Support) Regulations (Northern Ireland) 2005 (S.R. 2005/340)](https://www.legislation.gov.uk/nisr/2005/340), [regs. 1](https://www.legislation.gov.uk/nisr/2005/340/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2005/340/regulation/3/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/340/schedule/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2005/340/regulation/3/2))
+[^c-537256e6f950d8a30e13a46fb43337dd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/339) revoked (1.9.2005) by [The Education (Student Support) Regulations (Northern Ireland) 2005 (S.R. 2005/340)](https://www.legislation.gov.uk/nisr/2005/340), [regs. 1](https://www.legislation.gov.uk/nisr/2005/340/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2005/340/regulation/3/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/340/schedule/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2005/340/regulation/3/2))

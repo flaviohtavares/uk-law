@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Loan of equipment for Senedd elections[^key-7314b815898df10ff8d770e01836ebf2]
+## 25. Loan of equipment for Senedd elections[^c-7314b815898df10ff8d770e01836ebf2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any ballot boxes, fittings and compartments provided by or belonging to a local 
 
 ## Annotations
 
-[^key-7314b815898df10ff8d770e01836ebf2]: Commencement: Art. 25 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-7314b815898df10ff8d770e01836ebf2]: Commencement: Art. 25 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

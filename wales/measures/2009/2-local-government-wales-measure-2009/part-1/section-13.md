@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Collection of information related to performance[^key-28b24afdb2cd1d1bf445e79bd4d4cec8]
+## 13. Collection of information related to performance[^c-28b24afdb2cd1d1bf445e79bd4d4cec8]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28b24afdb2cd1d1bf445e79bd4d4cec8]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2009/2/section/13) in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2009/3272/schedule/2)
+[^c-28b24afdb2cd1d1bf445e79bd4d4cec8]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2009/2/section/13) in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2009/3272/schedule/2)

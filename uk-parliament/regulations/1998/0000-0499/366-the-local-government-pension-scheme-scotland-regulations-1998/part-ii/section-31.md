@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Re-employed and rejoining deferred members[^key-90a088c2cbbb2037b20685b224940b54]
+## 31. Re-employed and rejoining deferred members[^c-90a088c2cbbb2037b20685b224940b54]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90a088c2cbbb2037b20685b224940b54]: Commencement: Reg. 31 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-90a088c2cbbb2037b20685b224940b54]: Commencement: Reg. 31 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

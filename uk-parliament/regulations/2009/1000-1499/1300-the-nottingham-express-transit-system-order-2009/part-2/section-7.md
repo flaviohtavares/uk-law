@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Designation of works[^key-e0659e8f665e4c86a49e8b3c5925bcac]
+## 7. Designation of works[^c-e0659e8f665e4c86a49e8b3c5925bcac]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0659e8f665e4c86a49e8b3c5925bcac]: Commencement: Art. 7 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-e0659e8f665e4c86a49e8b3c5925bcac]: Commencement: Art. 7 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

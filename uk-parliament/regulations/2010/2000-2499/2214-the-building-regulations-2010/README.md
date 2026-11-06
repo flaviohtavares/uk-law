@@ -48,7 +48,7 @@ The Secretary of State is a Minister designated[^c20435131] for the purposes of 
 
 In accordance with section 14(3) of the Building Act 1984[^c20435151] he has consulted the Building Regulations Advisory Committee and such other bodies as appeared to him to be representative of the interests concerned.
 
-The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and by sections 1(1), 2A, 3, 5, 8(2) and (6), 34, 35, 47(1) and 126 of, and paragraphs 1, 2, 3, 4, 4A, 7, 8, 9, 10 and 11 of Schedule 1 to, the Building Act 1984:[^key-590d2469b1b37fdbc3f367684738cade][^key-cc82de04eb88d07a82e61e656fa16a8a][^M_C_ea5e661b-f707-43af-db64-36ff2fa663f0][^key-84512ad039103d31c2dace38aba11eec][^key-44dc26963a2eb946a71b5c0abd218cb1][^key-c276c13fa6466992286c74df62a6c133][^key-72ae8b18fce4e8e6199804cc7fb4f942]
+The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and by sections 1(1), 2A, 3, 5, 8(2) and (6), 34, 35, 47(1) and 126 of, and paragraphs 1, 2, 3, 4, 4A, 7, 8, 9, 10 and 11 of Schedule 1 to, the Building Act 1984:[^c-590d2469b1b37fdbc3f367684738cade][^c-cc82de04eb88d07a82e61e656fa16a8a][^M_C_ea5e661b-f707-43af-db64-36ff2fa663f0][^c-84512ad039103d31c2dace38aba11eec][^c-44dc26963a2eb946a71b5c0abd218cb1][^c-c276c13fa6466992286c74df62a6c133][^c-72ae8b18fce4e8e6199804cc7fb4f942]
 
 ## Contents
 
@@ -75,33 +75,33 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - [Section 10 — Exemption of the Mayor’s Office for Policing and Crime from procedural requirements](part-2/section-10.md)
 - [Section 11 — Power to dispense with or relax requirements](part-2/section-11.md)
 
-### PART 2A — Dutyholders and competence[^key-ae1741cfc504b806ada35e057a73b124]
+### PART 2A — Dutyholders and competence[^c-ae1741cfc504b806ada35e057a73b124]
 
-#### CHAPTER 1 — Client[^key-ae1741cfc504b806ada35e057a73b124]
+#### CHAPTER 1 — Client[^c-ae1741cfc504b806ada35e057a73b124]
 
 - [Section 11A — Suitable arrangements to ensure compliance with requirements etc](part-2a/section-11a.md)
 - [Section 11B — Arrangements as to information: higher-risk building work](part-2a/section-11b.md)
 - [Section 11C — Domestic clients](part-2a/section-11c.md)
 
-#### CHAPTER 2[^key-ae1741cfc504b806ada35e057a73b124]
+#### CHAPTER 2[^c-ae1741cfc504b806ada35e057a73b124]
 
-##### Appointment of principal designer and principal contractor etc[^key-ae1741cfc504b806ada35e057a73b124]
+##### Appointment of principal designer and principal contractor etc[^c-ae1741cfc504b806ada35e057a73b124]
 
 - [Section 11D — Principal designer and principal contractor](part-2a/section-11d.md)
 - [Section 11E — Considerations before a person carries out work](part-2a/section-11e.md)
 
-#### CHAPTER 3[^key-ae1741cfc504b806ada35e057a73b124]
+#### CHAPTER 3[^c-ae1741cfc504b806ada35e057a73b124]
 
-##### Competence[^key-ae1741cfc504b806ada35e057a73b124]
+##### Competence[^c-ae1741cfc504b806ada35e057a73b124]
 
 - [Section 11F — Competence: general requirement](part-2a/section-11f.md)
 - [Section 11G — Competence: principal designer](part-2a/section-11g.md)
 - [Section 11H — Competence: principal contractor](part-2a/section-11h.md)
 - [Section 11I — Ceasing to be competent: notification](part-2a/section-11i.md)
 
-#### CHAPTER 4[^key-ae1741cfc504b806ada35e057a73b124]
+#### CHAPTER 4[^c-ae1741cfc504b806ada35e057a73b124]
 
-##### Duties of dutyholders[^key-ae1741cfc504b806ada35e057a73b124]
+##### Duties of dutyholders[^c-ae1741cfc504b806ada35e057a73b124]
 
 - [Section 11J — General duty](part-2a/section-11j.md)
 - [Section 11K — Additional duties of designers](part-2a/section-11k.md)
@@ -110,32 +110,32 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - [Section 11N — Additional duties of a principal contractor](part-2a/section-11n.md)
 - [Section 11O — Notification of change of dutyholder](part-2a/section-11o.md)
 
-#### CHAPTER 5 — General[^key-ae1741cfc504b806ada35e057a73b124]
+#### CHAPTER 5 — General[^c-ae1741cfc504b806ada35e057a73b124]
 
 - [Section 11P — Minor work](part-2a/section-11p.md)
 - [Section 11Q — Interpretation of this Part](part-2a/section-11q.md)
 
-### PART 2B - WALES — Dutyholders and competence[^key-c11d774deacad6db46aea43624c4bf0a]
+### PART 2B - WALES — Dutyholders and competence[^c-c11d774deacad6db46aea43624c4bf0a]
 
-#### CHAPTER 1 — Client[^key-c11d774deacad6db46aea43624c4bf0a]
+#### CHAPTER 1 — Client[^c-c11d774deacad6db46aea43624c4bf0a]
 
 - [Section 11R — Suitable arrangements to ensure compliance with requirements etc.: Wales](part-4n1/section-11r.md)
 - [Section 11S — Arrangements as to information: higher-risk building work: Wales](part-4n1/section-11s.md)
 - [Section 11T — Domestic clients: Wales](part-4n1/section-11t.md)
 
-#### CHAPTER 2 — Appointment of principal designer and principal contractor etc.[^key-c11d774deacad6db46aea43624c4bf0a]
+#### CHAPTER 2 — Appointment of principal designer and principal contractor etc.[^c-c11d774deacad6db46aea43624c4bf0a]
 
 - [Section 11U — Principal designer and principal contractor: Wales](part-4n1/section-11u.md)
 - [Section 11V — Considerations before a person carries out work: Wales](part-4n1/section-11v.md)
 
-#### CHAPTER 3 — Competence: Wales[^key-c11d774deacad6db46aea43624c4bf0a]
+#### CHAPTER 3 — Competence: Wales[^c-c11d774deacad6db46aea43624c4bf0a]
 
 - [Section 11W — Competence: general requirement: Wales](part-4n1/section-11w.md)
 - [Section 11X — Competence: principal designer: Wales](part-4n1/section-11x.md)
 - [Section 11Y — Competence: principal contractor: Wales](part-4n1/section-11y.md)
 - [Section 11Z — Ceasing to be competent: notification: Wales](part-4n1/section-11z.md)
 
-#### CHAPTER 4 — Duties of dutyholders[^key-c11d774deacad6db46aea43624c4bf0a]
+#### CHAPTER 4 — Duties of dutyholders[^c-c11d774deacad6db46aea43624c4bf0a]
 
 - [Section 11Z1 — General duty: Wales](part-4n1/section-11z1.md)
 - [Section 11Z2 — Additional duties of designers: Wales](part-4n1/section-11z2.md)
@@ -144,7 +144,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - [Section 11Z5 — Additional duties of a principal contractor: Wales](part-4n1/section-11z5.md)
 - [Section 11Z6 — Notification of change of dutyholder: Wales](part-4n1/section-11z6.md)
 
-#### CHAPTER 5 — General: Wales[^key-c11d774deacad6db46aea43624c4bf0a]
+#### CHAPTER 5 — General: Wales[^c-c11d774deacad6db46aea43624c4bf0a]
 
 - [Section 11Z7 — Minor work: Wales](part-4n1/section-11z7.md)
 - [Section 11Z8 — Interpretation of this Part: Wales](part-4n1/section-11z8.md)
@@ -190,7 +190,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - [Section 19E — Regulator’s notices: direction](part-4/section-19e.md)
 - [Section 19F — Regulator’s notices: local land charges](part-4/section-19f.md)
 
-### PART 5 — Self-certification schemes and third party certification schemes (affected by repeal, see note)[^key-892f6c99d5d4e0add9e68e96ce45087c][^key-0fb8ae8ceb577261af6c203b09a98409]
+### PART 5 — Self-certification schemes and third party certification schemes (affected by repeal, see note)[^c-892f6c99d5d4e0add9e68e96ce45087c][^c-0fb8ae8ceb577261af6c203b09a98409]
 
 *Extent: E+W*
 
@@ -233,7 +233,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - [Section 36 — Water efficiency of new dwellings](part-7/section-36.md)
 - [Section 37 — Wholesome water consumption calculation](part-7/section-37.md)
 
-### PART 7A — Automatic fire suppression systems[^key-74d6d6ae618c90d12be857df61dd8617][^key-b5cdf5244def03c8ee39fa2941719fe6]
+### PART 7A — Automatic fire suppression systems[^c-74d6d6ae618c90d12be857df61dd8617][^c-b5cdf5244def03c8ee39fa2941719fe6]
 
 - [Section 37A — Provision of automatic fire suppression systems](part-7a/section-37a.md)
 - [Section 37B — Requirements of automatic fire suppression systems](part-7a/section-37b.md)
@@ -254,7 +254,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - [Section 44 — Commissioning](part-9/section-44.md)
 - [Section 44ZA — Commissioning in respect of a system for on-site electricity generation](part-9/section-44za.md)
 
-### PART 9A — Infrastructure for electronic communications[^key-87f45f7be8636e859de45b2554aed03b][^key-2766d8f94a11b1ba983254dda3add6df][^key-ce01d34c877428ed409d7fa90db5e1cb][^key-0faf52aee3db4d34170306d3c18d1206]
+### PART 9A — Infrastructure for electronic communications[^c-87f45f7be8636e859de45b2554aed03b][^c-2766d8f94a11b1ba983254dda3add6df][^c-ce01d34c877428ed409d7fa90db5e1cb][^c-0faf52aee3db4d34170306d3c18d1206]
 
 - [Section 44ZB — Exemptions from paragraphs RA1 and RA2 of Schedule 1](part-9a/section-44zb.md)
 - [Section 44ZC — Cases in which paragraph RA2 of Schedule 1 modified or excluded](part-9a/section-44zc.md)
@@ -263,7 +263,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - [Section 44B — Exemptions from paragraph R1 of Schedule 1](part-9a/section-44b.md)
 - [Section 44C — Interpretation of Part 9A and of Part R of Schedule 1](part-9a/section-44c.md)
 
-### PART 9B (Extent: E) — Infrastructure for the charging of electric vehicles (Extent: E)[^key-a7aee3d2dff622cef3a5c06fa3d93d82]
+### PART 9B (Extent: E) — Infrastructure for the charging of electric vehicles (Extent: E)[^c-a7aee3d2dff622cef3a5c06fa3d93d82]
 
 *Extent: E+W*
 
@@ -399,38 +399,38 @@ Impact assessments of the effects that changes to Schedule 3 (self-certification
 
 [^c20435151]: Marginal citation: [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55); section 126 is cited for the definition of “prescribed”. Section 1 was amended by section 1 of the [Sustainable and Secure Buildings Act 2004 (c.22)](https://www.legislation.gov.uk/ukpga/2004/22) and section 2A was inserted by section 4 of that Act; section 47(1) was amended by section 8 of that Act and [S.I. 1996/1905](https://www.legislation.gov.uk/uksi/1996/1905); paragraph 4A of Schedule 1 was inserted by section 8 of that Act; paragraph 7 of Schedule 1 was amended by section 3 of that Act and by section 11 of the [Climate Change and Sustainable Energy Act 2006 (c.19)](https://www.legislation.gov.uk/ukpga/2006/19); paragraph 8 of Schedule 1 was amended by section 3 of the Sustainable and Secure Buildings Act 2004 and by section 40 of the [Flood and Water Management Act 2010 (c.29)](https://www.legislation.gov.uk/ukpga/2010/29); paragraph 11(1)(a) of Schedule 1 was amended by [S.I. 1986/452](https://www.legislation.gov.uk/uksi/1986/452). Certain functions of a Minister of the Crown under the Building Act 1984 were transferred to the National Assembly for Wales constituted by the [Government of Wales Act 1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38) by article 2 of, and Schedule 1 to, the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) as varied by article 4 of, and Schedule 3 to, the [National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. 2000/253)](https://www.legislation.gov.uk/uksi/2000/253) and have been transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32). Subject to certain exceptions and reservations, the remaining functions conferred on the Secretary of State by the Building Act 1984 are transferred to the Welsh Ministers, as far as they are exercisable in relation to Wales, by the [Welsh Ministers (Transfer of Functions) (No.2) Order 2009 (S.I. 2009/3019)](https://www.legislation.gov.uk/uksi/2009/3019) with effect from 31st December 2011.
 
-[^key-590d2469b1b37fdbc3f367684738cade]: Modification: Regulations: power to amend conferred (21.3.2012 for specified purposes, 28.1.2013 in so far as not already in force) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/9/2), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1) (with [ss. 40](https://www.legislation.gov.uk/ukpga/2011/16/section/40), [41](https://www.legislation.gov.uk/ukpga/2011/16/section/41)); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(b)(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/b/2); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/125/article/2/b)
+[^c-590d2469b1b37fdbc3f367684738cade]: Modification: Regulations: power to amend conferred (21.3.2012 for specified purposes, 28.1.2013 in so far as not already in force) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 9(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/9/2), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1) (with [ss. 40](https://www.legislation.gov.uk/ukpga/2011/16/section/40), [41](https://www.legislation.gov.uk/ukpga/2011/16/section/41)); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(b)(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/b/2); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/125/article/2/b)
 
-[^key-cc82de04eb88d07a82e61e656fa16a8a]: Modification: Regulations continued (W.) (5.9.2023) by [The Building Safety Act 2022 (Commencement No. 3, Transitional and Saving Provisions) (Wales) Regulations 2023 (S.I. 2023/914)](https://www.legislation.gov.uk/uksi/2023/914), [regs. 9](https://www.legislation.gov.uk/uksi/2023/914/regulation/9), [10](https://www.legislation.gov.uk/uksi/2023/914/regulation/10)
+[^c-cc82de04eb88d07a82e61e656fa16a8a]: Modification: Regulations continued (W.) (5.9.2023) by [The Building Safety Act 2022 (Commencement No. 3, Transitional and Saving Provisions) (Wales) Regulations 2023 (S.I. 2023/914)](https://www.legislation.gov.uk/uksi/2023/914), [regs. 9](https://www.legislation.gov.uk/uksi/2023/914/regulation/9), [10](https://www.legislation.gov.uk/uksi/2023/914/regulation/10)
 
 [^M_C_ea5e661b-f707-43af-db64-36ff2fa663f0]: Modification: Regulations continued (E.) (1.10.2023) by [The Building Safety Act 2022 (Commencement No. 5 and Transitional Provisions) Regulations 2023 (S.I. 2023/993)](https://www.legislation.gov.uk/uksi/2023/993), [reg. 9](https://www.legislation.gov.uk/uksi/2023/993/regulation/9)
 
-[^key-84512ad039103d31c2dace38aba11eec]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/2214) applied (with modifications) (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2024/110/regulation/5) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+[^c-84512ad039103d31c2dace38aba11eec]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/2214) applied (with modifications) (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2024/110/regulation/5) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
 
-[^key-44dc26963a2eb946a71b5c0abd218cb1]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/2214) continued (W.) (6.4.2024) by [The Building Safety Act 2022 (Commencement No. 4, Transitional and Saving Provisions) (Wales) Regulations 2024 (S.I. 2024/207)](https://www.legislation.gov.uk/wsi/2024/207), [reg. 14](https://www.legislation.gov.uk/wsi/2024/207/regulation/14)
+[^c-44dc26963a2eb946a71b5c0abd218cb1]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/2214) continued (W.) (6.4.2024) by [The Building Safety Act 2022 (Commencement No. 4, Transitional and Saving Provisions) (Wales) Regulations 2024 (S.I. 2024/207)](https://www.legislation.gov.uk/wsi/2024/207), [reg. 14](https://www.legislation.gov.uk/wsi/2024/207/regulation/14)
 
-[^key-c276c13fa6466992286c74df62a6c133]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/2214) applied (with modifications) (W.) (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [5(1)-(11)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/5/1)
+[^c-c276c13fa6466992286c74df62a6c133]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/2214) applied (with modifications) (W.) (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [5(1)-(11)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/5/1)
 
-[^key-72ae8b18fce4e8e6199804cc7fb4f942]: Modification: Regulations continued (W.) (1.7.2026) by [The Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025 (S.I. 2025/1321)](https://www.legislation.gov.uk/uksi/2025/1321), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1321/regulation/1/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2025/1321/schedule/3/paragraph/1/2)
+[^c-72ae8b18fce4e8e6199804cc7fb4f942]: Modification: Regulations continued (W.) (1.7.2026) by [The Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025 (S.I. 2025/1321)](https://www.legislation.gov.uk/uksi/2025/1321), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1321/regulation/1/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/uksi/2025/1321/schedule/3/paragraph/1/2)
 
-[^key-ae1741cfc504b806ada35e057a73b124]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2010/2214/part/2A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2023/911/regulation/6/1) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-ae1741cfc504b806ada35e057a73b124]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2010/2214/part/2A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2023/911/regulation/6/1) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-c11d774deacad6db46aea43624c4bf0a]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/uksi/2010/2214/part/2B) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2025/1320/regulation/5) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
+[^c-c11d774deacad6db46aea43624c4bf0a]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/uksi/2010/2214/part/2B) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2025/1320/regulation/5) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
 
-[^key-892f6c99d5d4e0add9e68e96ce45087c]: Textual amendment: Pt. 5 heading substituted (E., but only in relation to excepted energy buildings in W.) (6.4.2014) by [The Building Regulations &c. (Amendment) Regulations 2014 (S.I. 2014/579)](https://www.legislation.gov.uk/uksi/2014/579), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/4), [2(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/2/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/3))
+[^c-892f6c99d5d4e0add9e68e96ce45087c]: Textual amendment: Pt. 5 heading substituted (E., but only in relation to excepted energy buildings in W.) (6.4.2014) by [The Building Regulations &c. (Amendment) Regulations 2014 (S.I. 2014/579)](https://www.legislation.gov.uk/uksi/2014/579), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/4), [2(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/2/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/3))
 
-[^key-0fb8ae8ceb577261af6c203b09a98409]: Textual amendment: Words in Pt. 5 heading omitted (W. in relation to excepted energy buildings) (8.6.2018) by virtue of [The Building Regulations &c. (Amendment) (Excepted Energy Buildings) (Wales) Regulations 2018 (S.I. 2018/558)](https://www.legislation.gov.uk/wsi/2018/558), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2), [6(1)](https://www.legislation.gov.uk/wsi/2018/558/regulation/6/1) (with [reg. 29](https://www.legislation.gov.uk/wsi/2018/558/regulation/29))
+[^c-0fb8ae8ceb577261af6c203b09a98409]: Textual amendment: Words in Pt. 5 heading omitted (W. in relation to excepted energy buildings) (8.6.2018) by virtue of [The Building Regulations &c. (Amendment) (Excepted Energy Buildings) (Wales) Regulations 2018 (S.I. 2018/558)](https://www.legislation.gov.uk/wsi/2018/558), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2), [6(1)](https://www.legislation.gov.uk/wsi/2018/558/regulation/6/1) (with [reg. 29](https://www.legislation.gov.uk/wsi/2018/558/regulation/29))
 
-[^key-74d6d6ae618c90d12be857df61dd8617]: Textual amendment: Pt. 7A inserted (with minor changes to the text of reg. 37A(1)(a) and matching text for substituted reg. 37A(1)(b)(i)) (W. for remaining purposes) (8.6.2018) by [The Building Regulations &c. (Amendment) (Excepted Energy Buildings) (Wales) Regulations 2018 (S.I. 2018/558)](https://www.legislation.gov.uk/wsi/2018/558), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2018/558/regulation/9) (with [reg. 29](https://www.legislation.gov.uk/wsi/2018/558/regulation/29))
+[^c-74d6d6ae618c90d12be857df61dd8617]: Textual amendment: Pt. 7A inserted (with minor changes to the text of reg. 37A(1)(a) and matching text for substituted reg. 37A(1)(b)(i)) (W. for remaining purposes) (8.6.2018) by [The Building Regulations &c. (Amendment) (Excepted Energy Buildings) (Wales) Regulations 2018 (S.I. 2018/558)](https://www.legislation.gov.uk/wsi/2018/558), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2018/558/regulation/9) (with [reg. 29](https://www.legislation.gov.uk/wsi/2018/558/regulation/29))
 
-[^key-b5cdf5244def03c8ee39fa2941719fe6]: Textual amendment: Pt. 7A inserted (W., but not in relation to excepted energy buildings) (30.4.2014 for specified purposes, 1.1.2016 in so far as not already in force) by [The Building Regulations &c. (Amendment No. 3) and Domestic Fire Safety (Wales) Regulations 2013 (S.I. 2013/2730)](https://www.legislation.gov.uk/wsi/2013/2730), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2730/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2013/2730/regulation/4/2) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/2730/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2013/2730/regulation/6))
+[^c-b5cdf5244def03c8ee39fa2941719fe6]: Textual amendment: Pt. 7A inserted (W., but not in relation to excepted energy buildings) (30.4.2014 for specified purposes, 1.1.2016 in so far as not already in force) by [The Building Regulations &c. (Amendment No. 3) and Domestic Fire Safety (Wales) Regulations 2013 (S.I. 2013/2730)](https://www.legislation.gov.uk/wsi/2013/2730), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2730/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2013/2730/regulation/4/2) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2013/2730/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2013/2730/regulation/6))
 
-[^key-87f45f7be8636e859de45b2554aed03b]: Textual amendment: Pt. 9A inserted (with s. 44A(1)(2) and without s. 44B(a)(iii) and word) (E., but only in relation to excepted energy buildings in W.) (9.5.2016) by [The Building (Amendment) Regulations 2016 (S.I. 2016/490)](https://www.legislation.gov.uk/uksi/2016/490), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/4), [2(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/2/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2016/490/regulation/3)) \[Editorial note: This amendment no longer applies at all in relation to W. from 8.6.2018\]
+[^c-87f45f7be8636e859de45b2554aed03b]: Textual amendment: Pt. 9A inserted (with s. 44A(1)(2) and without s. 44B(a)(iii) and word) (E., but only in relation to excepted energy buildings in W.) (9.5.2016) by [The Building (Amendment) Regulations 2016 (S.I. 2016/490)](https://www.legislation.gov.uk/uksi/2016/490), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/4), [2(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/2/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2016/490/regulation/3)) \[Editorial note: This amendment no longer applies at all in relation to W. from 8.6.2018\]
 
-[^key-2766d8f94a11b1ba983254dda3add6df]: Textual amendment: Pt. 9A inserted (W. but not in relation to excepted energy buildings) (8.4.2016) by [The Building (Amendment) (Wales) Regulations 2016 (S.I. 2016/361)](https://www.legislation.gov.uk/wsi/2016/361), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2016/361/regulation/1/4), [2(4)](https://www.legislation.gov.uk/wsi/2016/361/regulation/2/4) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/361/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2016/361/regulation/3))
+[^c-2766d8f94a11b1ba983254dda3add6df]: Textual amendment: Pt. 9A inserted (W. but not in relation to excepted energy buildings) (8.4.2016) by [The Building (Amendment) (Wales) Regulations 2016 (S.I. 2016/361)](https://www.legislation.gov.uk/wsi/2016/361), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2016/361/regulation/1/4), [2(4)](https://www.legislation.gov.uk/wsi/2016/361/regulation/2/4) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/361/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2016/361/regulation/3))
 
-[^key-ce01d34c877428ed409d7fa90db5e1cb]: Textual amendment: [Pt. 9A](https://www.legislation.gov.uk/uksi/2010/2214/part/9A) heading substituted (E.) (26.12.2022) by [The Building etc. (Amendment) (England) (No. 2) Regulations 2022 (S.I. 2022/984)](https://www.legislation.gov.uk/uksi/2022/984), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/984/regulation/3))
+[^c-ce01d34c877428ed409d7fa90db5e1cb]: Textual amendment: [Pt. 9A](https://www.legislation.gov.uk/uksi/2010/2214/part/9A) heading substituted (E.) (26.12.2022) by [The Building etc. (Amendment) (England) (No. 2) Regulations 2022 (S.I. 2022/984)](https://www.legislation.gov.uk/uksi/2022/984), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/984/regulation/1/4), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/984/schedule/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/984/regulation/3))
 
-[^key-0faf52aee3db4d34170306d3c18d1206]: Textual amendment: [Pt. 9A](https://www.legislation.gov.uk/uksi/2010/2214/part/9A) heading substituted (W.) (1.7.2025) by [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/wsi/2025/377/regulation/4/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))
+[^c-0faf52aee3db4d34170306d3c18d1206]: Textual amendment: [Pt. 9A](https://www.legislation.gov.uk/uksi/2010/2214/part/9A) heading substituted (W.) (1.7.2025) by [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/wsi/2025/377/regulation/4/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))
 
-[^key-a7aee3d2dff622cef3a5c06fa3d93d82]: Textual amendment: [Pt. 9B](https://www.legislation.gov.uk/uksi/2010/2214/part/9B) inserted (E.) (15.6.2022) by [The Building Regulations etc. (Amendment) (England) (No. 2) Regulations 2021 (S.I. 2021/1392)](https://www.legislation.gov.uk/uksi/2021/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/2/3) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2021/1392/regulation/4))
+[^c-a7aee3d2dff622cef3a5c06fa3d93d82]: Textual amendment: [Pt. 9B](https://www.legislation.gov.uk/uksi/2010/2214/part/9B) inserted (E.) (15.6.2022) by [The Building Regulations etc. (Amendment) (England) (No. 2) Regulations 2021 (S.I. 2021/1392)](https://www.legislation.gov.uk/uksi/2021/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/2/3) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1392/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2021/1392/regulation/4))

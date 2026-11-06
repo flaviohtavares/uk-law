@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Spent alternatives to prosecution: Rehabilitation of Offenders Act 1974[^key-ae32e8f16f39ebd4c7d59e9cd2d8aa58]
+## 109. Spent alternatives to prosecution: Rehabilitation of Offenders Act 1974[^c-ae32e8f16f39ebd4c7d59e9cd2d8aa58]
 
 *Extent: S*
 
@@ -188,4 +188,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae32e8f16f39ebd4c7d59e9cd2d8aa58]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2010/13/section/109) in force at 1.11.2011 by [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule))
+[^c-ae32e8f16f39ebd4c7d59e9cd2d8aa58]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2010/13/section/109) in force at 1.11.2011 by [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule))

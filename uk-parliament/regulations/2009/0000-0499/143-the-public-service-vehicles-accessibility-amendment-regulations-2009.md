@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State for Transport makes the following Regulations in exercise of the powers conferred by sections 40(1), (2) and (6) and 41(2) of the Disability Discrimination Act 1995[^f00001].
 
-In accordance with section 40(7) of that Act he has consulted the Disabled Persons Transport Advisory Committee and such other representative organisations as he thinks fit.[^key-491c03bda1b0a5f561f1a272e50a11dd]
+In accordance with section 40(7) of that Act he has consulted the Disabled Persons Transport Advisory Committee and such other representative organisations as he thinks fit.[^c-491c03bda1b0a5f561f1a272e50a11dd]
 
-## 1. Citation and commencement[^key-c7bc365ec4ed6d2566b18b3833662994]
+## 1. Citation and commencement[^c-c7bc365ec4ed6d2566b18b3833662994]
 
 These Regulations may be cited as the Public Service Vehicles Accessibility (Amendment) Regulations 2009 and shall come into force on 3rd March 2009.
 
-## 2. Amendment of the Public Service Vehicles Accessibility Regulations 2000[^key-e62e0b844b79a0a815636dd66e6b1e4c]
+## 2. Amendment of the Public Service Vehicles Accessibility Regulations 2000[^c-e62e0b844b79a0a815636dd66e6b1e4c]
 
 (1) Regulation 5 of the Public Service Vehicles Accessibility Regulations 2000[^f00002] is amended as follows.
 
@@ -123,10 +123,10 @@ Copies of ECE Regulations referred to in these Regulations can be obtained from 
 
 [^f00001]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50).
 
-[^key-491c03bda1b0a5f561f1a272e50a11dd]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/143) continued under new enabling powers in 2010 c. 15 (1.10.2010 immediately after the commencement of S.I. 2010/2279) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [21](https://www.legislation.gov.uk/uksi/2010/2317/article/21), [Sch. 7](https://www.legislation.gov.uk/uksi/2010/2317/schedule/7)
+[^c-491c03bda1b0a5f561f1a272e50a11dd]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/143) continued under new enabling powers in 2010 c. 15 (1.10.2010 immediately after the commencement of S.I. 2010/2279) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (S.I. 2010/2317)](https://www.legislation.gov.uk/uksi/2010/2317), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2), [21](https://www.legislation.gov.uk/uksi/2010/2317/article/21), [Sch. 7](https://www.legislation.gov.uk/uksi/2010/2317/schedule/7)
 
-[^key-c7bc365ec4ed6d2566b18b3833662994]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1) in force at 3.3.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1)
+[^c-c7bc365ec4ed6d2566b18b3833662994]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1) in force at 3.3.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1)
 
-[^key-e62e0b844b79a0a815636dd66e6b1e4c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/143/regulation/2) in force at 3.3.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1)
+[^c-e62e0b844b79a0a815636dd66e6b1e4c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/143/regulation/2) in force at 3.3.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/143/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2000/1970](https://www.legislation.gov.uk/uksi/2000/1970); relevant amending instruments are [S.I. 2000/3318](https://www.legislation.gov.uk/uksi/2000/3318), [2002/2981](https://www.legislation.gov.uk/uksi/2002/2981) and [2005/2988](https://www.legislation.gov.uk/uksi/2005/2988).

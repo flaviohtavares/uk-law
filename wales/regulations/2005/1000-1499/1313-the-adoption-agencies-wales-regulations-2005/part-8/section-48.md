@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Revocation[^key-7a2535e51bf9c559f0b29c08a23cdc7b]
+## 48. Revocation[^c-7a2535e51bf9c559f0b29c08a23cdc7b]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ The Adoption of Children from Overseas (Wales) Regulations 2001[^f00016], the Ad
 
 ## Annotations
 
-[^key-7a2535e51bf9c559f0b29c08a23cdc7b]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2005/1313/regulation/48) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-7a2535e51bf9c559f0b29c08a23cdc7b]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2005/1313/regulation/48) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
 
 [^f00016]: Footnote: [SI 2001/1272 (W.71)](https://www.legislation.gov.uk/wsi/2001/1272)
 

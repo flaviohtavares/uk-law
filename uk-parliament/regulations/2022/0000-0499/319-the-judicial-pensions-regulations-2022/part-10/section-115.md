@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Calculating the amount of a transfer value[^key-f26b45e2c12f6c0ff786b15ef5e91759]
+## 115. Calculating the amount of a transfer value[^c-f26b45e2c12f6c0ff786b15ef5e91759]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f26b45e2c12f6c0ff786b15ef5e91759]: Commencement: Reg. 115 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-f26b45e2c12f6c0ff786b15ef5e91759]: Commencement: Reg. 115 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

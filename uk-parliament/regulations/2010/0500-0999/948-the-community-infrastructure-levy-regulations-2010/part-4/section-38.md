@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Interests held on trust[^key-11fb29e44d2cc6213951045db96fc1bd]
+## 38. Interests held on trust[^c-11fb29e44d2cc6213951045db96fc1bd]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11fb29e44d2cc6213951045db96fc1bd]: Commencement: Reg. 38 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-11fb29e44d2cc6213951045db96fc1bd]: Commencement: Reg. 38 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

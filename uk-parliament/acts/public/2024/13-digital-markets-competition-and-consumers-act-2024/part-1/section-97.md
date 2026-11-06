@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Offences: limits on extra-territorial jurisdiction[^key-ab98ae276f5529053f65c7f427d9176b][^key-2e5363ccc85c1ee0d2112703a06fb88f]
+## 97. Offences: limits on extra-territorial jurisdiction[^c-ab98ae276f5529053f65c7f427d9176b][^c-2e5363ccc85c1ee0d2112703a06fb88f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ A person does not commit an offence under section 93, 94 or 95 (including as tho
 
 ## Annotations
 
-[^key-ab98ae276f5529053f65c7f427d9176b]: Commencement: S. 97 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ab98ae276f5529053f65c7f427d9176b]: Commencement: S. 97 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-2e5363ccc85c1ee0d2112703a06fb88f]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2024/13/section/97) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-2e5363ccc85c1ee0d2112703a06fb88f]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2024/13/section/97) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

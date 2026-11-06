@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2B. The target-setting criteria[^key-6df2a135a63edbeab827ac3a354968ce]
+## 2B. The target-setting criteria[^c-6df2a135a63edbeab827ac3a354968ce]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6df2a135a63edbeab827ac3a354968ce]: Textual amendment: S. 2B and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 5](https://www.legislation.gov.uk/asp/2019/15/section/5), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-6df2a135a63edbeab827ac3a354968ce]: Textual amendment: S. 2B and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 5](https://www.legislation.gov.uk/asp/2019/15/section/5), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23.[^key-fb3bee1587910ddf7e3b817560130319]
+## 23.[^c-fb3bee1587910ddf7e3b817560130319]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must ensure that at all times a sufficient number of suitab
 
 ## Annotations
 
-[^key-fb3bee1587910ddf7e3b817560130319]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2019/165/regulation/23) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-fb3bee1587910ddf7e3b817560130319]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2019/165/regulation/23) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

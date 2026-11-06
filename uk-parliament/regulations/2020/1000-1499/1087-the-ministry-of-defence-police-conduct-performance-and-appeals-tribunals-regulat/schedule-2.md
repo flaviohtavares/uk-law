@@ -22,11 +22,11 @@ summary: ''
 
 Regulation 3(2)
 
-### 1. Interpretation[^key-bff2c0fa27556bcb22b728456e127f6a]
+### 1. Interpretation[^c-bff2c0fa27556bcb22b728456e127f6a]
 
 Any reference in this Schedule to a numbered regulation is to the regulation of the Conduct Regulations set out in the paragraph so numbered in Schedule 1.
 
-### 2. Modification to regulation 2 (interpretation and delegation)[^key-b4ab88e05e19498ef14f24bd9e46863b]
+### 2. Modification to regulation 2 (interpretation and delegation)[^c-b4ab88e05e19498ef14f24bd9e46863b]
 
 Regulation 2 is to be read as if—
 
@@ -52,8 +52,8 @@ Regulation 2 is to be read as if—
     > - “relevant time” means the time immediately before the officer concerned ceased to be a member of the MDP;
 
     ;
-  - (ii) the definitions of “appeal meeting”, “disciplinary action”, “extended special unpaid leave”[^key-30e7189671efa77e571ad750be431a5e], “misconduct meeting”, “practice requiring improvement” and “reflective practice review process” were omitted;
-  - (iia)[^key-652e2a311d43c52c5e8e149f880b1a5d] for the definition of “accelerated misconduct hearing”, there were substituted—
+  - (ii) the definitions of “appeal meeting”, “disciplinary action”, “extended special unpaid leave”[^c-30e7189671efa77e571ad750be431a5e], “misconduct meeting”, “practice requiring improvement” and “reflective practice review process” were omitted;
+  - (iia)[^c-652e2a311d43c52c5e8e149f880b1a5d] for the definition of “accelerated misconduct hearing”, there were substituted—
 
     > - “**accelerated misconduct hearing**” means a hearing to which an officer may be referred under regulation 20D(7) or 49(4) to determine whether the conduct of the officer amounts to gross misconduct and, if so, what disciplinary action should be imposed;
 
@@ -61,7 +61,7 @@ Regulation 2 is to be read as if—
   - (iii) in the definition of “allegation”, for “, conduct matter or practice requiring improvement” there were substituted “or conduct matter”;
   - (iv) in the definition of “gross misconduct”, for “as to justify dismissal” there were substituted “that the officer concerned would have been dismissed if the officer had not ceased to be a member of the MDP”;
   - (v) in the definition of “misconduct”, for “so serious as to justify disciplinary action” there were substituted “not so serious that the officer concerned would have been dismissed if the officer had not ceased to be a member of the MDP”;
-  - (vi) for the definition of “misconduct hearing”, except in its application to regulation 20A(1)(d), there were substituted—[^key-b8cc7681d7fcac58671621b857b28aef]
+  - (vi) for the definition of “misconduct hearing”, except in its application to regulation 20A(1)(d), there were substituted—[^c-b8cc7681d7fcac58671621b857b28aef]
 
     > - “**misconduct hearing**” means a hearing to which an officer may be referred under regulation 20D(3) or (6), 20E(5)(a) or 23(8)(a) to determine whether the conduct of the officer amounts to gross misconduct and, if so, what disciplinary action should be imposed;
 
@@ -85,9 +85,9 @@ Regulation 2 is to be read as if—
 
   .
 
-### 3. Modification: insertion of Part 1A[^key-34690a754040bf42c1a8bcbbea9ed3d0]
+### 3. Modification: insertion of Part 1A[^c-34690a754040bf42c1a8bcbbea9ed3d0]
 
-The Conduct Regulations apply as if after regulation 5[^key-9ef9b9ec3f342530367c2c1f49f0949f], there were inserted—
+The Conduct Regulations apply as if after regulation 5[^c-9ef9b9ec3f342530367c2c1f49f0949f], there were inserted—
 
 > **PART 1A — Condition C special determination**
 >
@@ -108,7 +108,7 @@ The Conduct Regulations apply as if after regulation 5[^key-9ef9b9ec3f342530367c
 > (4) A “Condition C special determination” is a determination by the Director General as to whether the taking of disciplinary proceedings against the officer concerned in respect of alleged gross misconduct would be reasonable and proportionate having regard to—
 >
 > - (a) the seriousness of the alleged gross misconduct,
-> - (b) the impact of the allegation on public confidence in the police[^key-9a15268bc9df3c721838a2e687c8aaae], and
+> - (b) the impact of the allegation on public confidence in the police[^c-9a15268bc9df3c721838a2e687c8aaae], and
 > - (c) the public interest.
 >
 > (5) When assessing the seriousness of the alleged gross misconduct for the purposes of paragraph (4)(a), the matters which the Director General must take into account are—
@@ -126,16 +126,16 @@ The Conduct Regulations apply as if after regulation 5[^key-9ef9b9ec3f342530367c
 > - (k) whether it appears that there are mitigating circumstances arising out of the health (whether physical or mental) of the officer concerned at the time of the alleged gross misconduct, and
 > - (l) any other matters that the Director General considers relevant.
 >
-> (6) When assessing the impact of the allegation on public confidence in the police[^key-aa7e0c8a6d92bfc89757e99b5d6aee43] for the purposes of paragraph (4)(b), the matters which the Director General must take into account are—
+> (6) When assessing the impact of the allegation on public confidence in the police[^c-aa7e0c8a6d92bfc89757e99b5d6aee43] for the purposes of paragraph (4)(b), the matters which the Director General must take into account are—
 >
 > - (a) whether it appears that the alleged gross misconduct has had an effect on relations between the public and the MDP,
-> - (b) the extent of any apparent harm to public confidence in the police, and in particular the MDP[^key-1fd04003b0309328c9d85a7d94fcbf7c],
-> - (c) the effect that a decision not to take disciplinary proceedings might have on public confidence in the police[^key-99882cbf6661a5d4550f14bd63c74a60], and
+> - (b) the extent of any apparent harm to public confidence in the police, and in particular the MDP[^c-1fd04003b0309328c9d85a7d94fcbf7c],
+> - (c) the effect that a decision not to take disciplinary proceedings might have on public confidence in the police[^c-99882cbf6661a5d4550f14bd63c74a60], and
 > - (d) any other matters that the Director General considers relevant.
 >
 > (7) When assessing the public interest for the purposes of paragraph (4)(c), the matters which the Director General must take into account are—
 >
-> - (a) whether it appears that the officer concerned should be prevented from future employment or appointment by a law enforcement employer[^key-72b3a2d28d57b7d44f3c274d14df1367],
+> - (a) whether it appears that the officer concerned should be prevented from future employment or appointment by a law enforcement employer[^c-72b3a2d28d57b7d44f3c274d14df1367],
 > - (b) where it appears that the officer concerned should be so prevented, whether disciplinary proceedings are necessary for this purpose,
 > - (c) the length of time since the alleged gross misconduct occurred,
 > - (d) whether it appears that the officer concerned will be held to account in respect of the alleged gross misconduct through other means, such as criminal or other proceedings,
@@ -148,7 +148,7 @@ The Conduct Regulations apply as if after regulation 5[^key-9ef9b9ec3f342530367c
 > - (a) take care of themselves, or
 > - (b) protect themselves against harm or exploitation.
 >
-> (9)[^key-a26312669ccd82dd4694c862e753d2e4] In paragraph (7)(a) “**law enforcement employer**” has the meaning given in section 206(1) of the Crime and Policing Act 2026.
+> (9)[^c-a26312669ccd82dd4694c862e753d2e4] In paragraph (7)(a) “**law enforcement employer**” has the meaning given in section 206(1) of the Crime and Policing Act 2026.
 >
 > **5B. Condition C special determination: procedure**
 >
@@ -167,7 +167,7 @@ The Conduct Regulations apply as if after regulation 5[^key-9ef9b9ec3f342530367c
 >
 > - (a) state that the Director General is to make a Condition C special determination and the consequences of such a determination;
 > - (b) explain the effect of regulation 5A;
-> - (c)[^key-f4fc2c9a3a4df74ec93ee2b8f2cebc67] explain that—
+> - (c)[^c-f4fc2c9a3a4df74ec93ee2b8f2cebc67] explain that—
 >   - (i) if disciplinary proceedings are taken and the allegation of gross misconduct is proved, the officer concerned may be subject to a finding that the officer would have been dismissed if the officer had not ceased to be a member of the MDP, and
 >   - (ii) if the officer concerned is subject to such a finding, the officer will be included in the MDP barred list;
 > - (d) subject to the harm test, set out any findings relating to the conduct to which the investigation relates in any investigation report sent to the Director General under regulation 5A(2);
@@ -192,7 +192,7 @@ The Conduct Regulations apply as if after regulation 5[^key-9ef9b9ec3f342530367c
 
 .
 
-### 4. Modification to regulation 6 (police friend)[^key-3b04a70136f8c6b40943bbc5ae27ef41]
+### 4. Modification to regulation 6 (police friend)[^c-3b04a70136f8c6b40943bbc5ae27ef41]
 
 Regulation 6 is to be read as if—
 
@@ -206,16 +206,16 @@ Regulation 6 is to be read as if—
   - (ii) in sub-paragraph (b), “or appeal meeting” were omitted,
   - (iii) in sub-paragraph (d), “, meeting” were omitted.
 
-### 5. Modification to regulation 7 (legal and other representation)[^key-fe741485e0bae75de4e8d7177620fb8b]
+### 5. Modification to regulation 7 (legal and other representation)[^c-fe741485e0bae75de4e8d7177620fb8b]
 
 Regulation 7 is to be read as if—
 
 - (a) in paragraph (3), for the words “the officer may be dismissed” to the end, there were substituted “disciplinary action for gross misconduct may be imposed in relation to the officer without the officer being so represented”;
-- (b) in paragraph (4), for the words “misconduct proceedings” to the end, there were substituted “misconduct proceedings or an accelerated misconduct hearing by a police friend ”[^key-0095d353650d63fabd5fd79f31c320c3];
+- (b) in paragraph (4), for the words “misconduct proceedings” to the end, there were substituted “misconduct proceedings or an accelerated misconduct hearing by a police friend ”[^c-0095d353650d63fabd5fd79f31c320c3];
 - (c) in paragraph (5)—
   - (i) in the opening words, “or an appeal meeting” were omitted,
   - (ii) in sub-paragraph (b), the words from the beginning to “only,” were omitted;
-- (d) paragraph (6) were omitted[^key-4c10220366a616e632067bfba7721a78];
+- (d) paragraph (6) were omitted[^c-4c10220366a616e632067bfba7721a78];
 - (e) paragraph (7) were omitted;
 - (f) in paragraph (8)—
   - (i) in the opening words, “or the Ombudsman, as the case may be,” were omitted;
@@ -223,23 +223,23 @@ Regulation 7 is to be read as if—
   - (iii) sub-paragraph (b) were omitted;
 - (g) in paragraph (9), “or the Ombudsman, as the case may be,” were omitted.
 
-### 6. Modification to regulation 8 (provision of notices or documents)[^key-fca2eb25541639d15561987e339cad91]
+### 6. Modification to regulation 8 (provision of notices or documents)[^c-fca2eb25541639d15561987e339cad91]
 
 Regulation 8 is to be read as if after paragraph (1), there were inserted—
 
-> (1A) The relevant authority must make reasonable enquiries in order to determine the last known address of the officer concerned for the purposes of paragraph (2)[^key-384e0e1b64314875579c225795a81b7c].
+> (1A) The relevant authority must make reasonable enquiries in order to determine the last known address of the officer concerned for the purposes of paragraph (2)[^c-384e0e1b64314875579c225795a81b7c].
 
 .
 
-### 7. Modification: omission of regulation 10 (suspension)[^key-a4f80496123b0130da5227f26bfcaf6c]
+### 7. Modification: omission of regulation 10 (suspension)[^c-a4f80496123b0130da5227f26bfcaf6c]
 
 The Conduct Regulations are to be read as if regulation 10 were omitted.
 
-### 8. Modification to regulation 11 (record of disciplinary proceedings)[^key-532a52355c1000de1d0b195ddb7e62e7]
+### 8. Modification to regulation 11 (record of disciplinary proceedings)[^c-532a52355c1000de1d0b195ddb7e62e7]
 
 Regulation 11 is to be read as if for “and decision on disciplinary action”, there were substituted “, any decision on disciplinary action for gross misconduct”.
 
-### 9. Modification to regulation 13 (severity assessment)[^key-0ba427522b216d268365ddfaa4361f09]
+### 9. Modification to regulation 13 (severity assessment)[^c-0ba427522b216d268365ddfaa4361f09]
 
 Regulation 13 is to be read as if—
 
@@ -262,7 +262,7 @@ Regulation 13 is to be read as if—
   ;
 - (g) in paragraph (7), for the words beginning with “or to refer” to the end, there were substituted “or is required under paragraph (6A)(a) to take no action or no further action, it must so notify the officer concerned in writing as soon as practicable.”.
 
-### 10. Modification to regulation 14 (appointment of investigator)[^key-5697ed3cc8ca3cb5c2c16ab90354a3de]
+### 10. Modification to regulation 14 (appointment of investigator)[^c-5697ed3cc8ca3cb5c2c16ab90354a3de]
 
 Regulation 14 is to be read as if in paragraph (3), for sub-paragraph (b), there were substituted—
 
@@ -270,11 +270,11 @@ Regulation 14 is to be read as if in paragraph (3), for sub-paragraph (b), there
 
 .
 
-### 11. Modification to regulation 15 (investigation)[^key-d33675a1bc2c3b896f0f3988b200a11d]
+### 11. Modification to regulation 15 (investigation)[^c-d33675a1bc2c3b896f0f3988b200a11d]
 
 Regulation 15 is to be read as if, in paragraph (1), “misconduct or”, in both places where those words appear, were omitted.
 
-### 12. Modification to regulation 16 (written notices)[^key-c61da284ade7f6d81113d6b491b8d8ee]
+### 12. Modification to regulation 16 (written notices)[^c-c61da284ade7f6d81113d6b491b8d8ee]
 
 Regulation 16 is to be read as if in paragraph (1)—
 
@@ -283,21 +283,21 @@ Regulation 16 is to be read as if in paragraph (1)—
   > - (d) that if the allegation of gross misconduct is proved, the officer may be subject to a finding that the officer would have been dismissed if the officer had not ceased to be a member of the MDP,
 
   ;
-- (ab)[^key-71ed3a0162f96c0d2912f77fc95d7ed6] for sub-paragraph (da) there were substituted—
+- (ab)[^c-71ed3a0162f96c0d2912f77fc95d7ed6] for sub-paragraph (da) there were substituted—
 
   > - (da) that if the officer is subject to such a finding, information including the officer’s full name and a description of the conduct which would have led to the officer's dismissal will be added to the MDP barred list and may be subject to publication for a period of up to 5 years,
 
   ;
 - (b) in sub-paragraph (h), after “17(1)”, there were inserted “, 19A(2)”.
 
-### 13. Modification to regulation 19 (interviews during investigation)[^key-82c84f0dd4a9fa1b7109a9b96bfa9225]
+### 13. Modification to regulation 19 (interviews during investigation)[^c-82c84f0dd4a9fa1b7109a9b96bfa9225]
 
 Regulation 19 is to be read as if—
 
 - (a) in paragraph (1), after “practicable” there were inserted “and subject to regulation 19A”;
 - (b) in paragraph (5), for the words beginning with “must” to the end there were substituted “must be reasonable.”.
 
-### 14. Modification: insertion of regulation 19A[^key-5f60d2bb5ca90d75c27c6fc1cef657e9]
+### 14. Modification: insertion of regulation 19A[^c-5f60d2bb5ca90d75c27c6fc1cef657e9]
 
 The Conduct Regulations are to be read as if after regulation 19 there were inserted—
 
@@ -314,7 +314,7 @@ The Conduct Regulations are to be read as if after regulation 19 there were inse
 
 .
 
-### 15. Modification to regulation 20 (report of investigation)[^key-39f1790707e216eed427e5d0ed38ad64]
+### 15. Modification to regulation 20 (report of investigation)[^c-39f1790707e216eed427e5d0ed38ad64]
 
 Regulation 20 is to be read as if—
 
@@ -333,7 +333,7 @@ Regulation 20 is to be read as if—
   - (iii) sub-paragraph (c), and the “and” before it were omitted;
 - (c) in paragraphs (6) and (7), “misconduct or” were omitted.
 
-### 15A. Modification: insertion of Part 3A[^key-09ce70864a79579b01bda0a20ac99053]
+### 15A. Modification: insertion of Part 3A[^c-09ce70864a79579b01bda0a20ac99053]
 
 The Conduct Regulations are to be read as if after regulation 20 there were inserted—
 
@@ -468,19 +468,19 @@ The Conduct Regulations are to be read as if before regulation 21 and after the 
 
 .
 
-### 16. Modification to regulation 21 (general)[^key-3df6c9f668a66af2874e9075c826e9e3]
+### 16. Modification to regulation 21 (general)[^c-3df6c9f668a66af2874e9075c826e9e3]
 
 Regulation 21 is to be read as if—
 
-- (a)[^key-41d4281c1a753259cd9e69249842ca0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-397211dabf6a929f2e7a7d61145c3803] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-41d4281c1a753259cd9e69249842ca0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-397211dabf6a929f2e7a7d61145c3803] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) “conducting or” were omitted.
 
-### 17. Modification to regulation 22 (national security: power to give directions in relation to misconduct hearings)[^key-8a67fb48daa8e998f6b3d6cacb97dece]
+### 17. Modification to regulation 22 (national security: power to give directions in relation to misconduct hearings)[^c-8a67fb48daa8e998f6b3d6cacb97dece]
 
 Regulation 22(3) and (4) is to be read as if “conducting or” were omitted.
 
-### 18. Modification to regulation 23 (referral of case to misconduct proceedings)[^key-f8fc2312b169c696a0dfff9c97c7b0e0][^key-f86f903e8299bdcfe8d0f6141fe5e0be]
+### 18. Modification to regulation 23 (referral of case to misconduct proceedings)[^c-f8fc2312b169c696a0dfff9c97c7b0e0][^c-f86f903e8299bdcfe8d0f6141fe5e0be]
 
 Regulation 23 is to be read as if—
 
@@ -490,7 +490,7 @@ Regulation 23 is to be read as if—
   - (ii) sub-paragraph (d) and the “or” immediately preceding it were omitted;
 - (c) paragraphs (9) to (11) were omitted.
 
-### 19. Modifications to regulation 24 (presenting of case by the Director General or the Ombudsman)[^key-98c79cda84e3e4c6bfc79626866ebf41]
+### 19. Modifications to regulation 24 (presenting of case by the Director General or the Ombudsman)[^c-98c79cda84e3e4c6bfc79626866ebf41]
 
 Regulation 24 is to be read as if—
 
@@ -498,7 +498,7 @@ Regulation 24 is to be read as if—
 - (b) paragraph (6) were omitted;
 - (c) in paragraph (7), “or the Ombudsman” both times it occurs, were omitted
 
-### 20. Modification to regulation 25 (joint misconduct proceedings)[^key-a484c5e1c5e78e9dcc92d47d8b6f13c1]
+### 20. Modification to regulation 25 (joint misconduct proceedings)[^c-a484c5e1c5e78e9dcc92d47d8b6f13c1]
 
 Regulation 25 is to be read as if—
 
@@ -507,7 +507,7 @@ Regulation 25 is to be read as if—
 - (c) in paragraph (6), for “are senior officers” there were substituted “were senior officers at the relevant time”;
 - (d) paragraph (9) were omitted.
 
-### 21. Modification to regulation 26 (withdrawal of misconduct proceedings)[^key-4f035dcc9d51d90f7419599ecad1365d]
+### 21. Modification to regulation 26 (withdrawal of misconduct proceedings)[^c-4f035dcc9d51d90f7419599ecad1365d]
 
 Regulation 26 is to be read as if—
 
@@ -525,33 +525,33 @@ Regulation 26 is to be read as if—
 
   .
 
-### 22. Modification to regulation 27 (persons conducting misconduct proceedings)[^key-18ee99ea9994fc0b7b08d12117212fa6]
+### 22. Modification to regulation 27 (persons conducting misconduct proceedings)[^c-18ee99ea9994fc0b7b08d12117212fa6]
 
 Regulation 27 is to be read as if—
 
 - (a) paragraphs (1) to (3) were omitted;
-- (b)[^key-03ce2a1cdf843f991c8ba8c466160c67] in paragraph (4) for “The panel must comprise” there were substituted “Subject to paragraphs (5) and (5A), where the case is referred to a misconduct hearing, that hearing must be conducted by a panel of three persons, comprising”;
-- (c)[^key-3edd8f757a0a844e8912f1d5191ec141] [^key-6919c866527bd7770aca2235cc73aaba]... in paragraph (5), for “where the officer concerned is a senior officer the panel must comprise” there were substituted “where the case is referred to a misconduct hearing and the officer concerned was a senior officer at the relevant time, that hearing must be conducted by a panel of three persons comprising”;
-- (d)[^key-29d149c1d14c29ef97c819a2b59a96ba] in paragraph (5A) for “is the chief constable” there were substituted “was the chief constable at the relevant time [^key-ff1f4e37df8b0e53c6ed7ad7482872e2]... ”;
+- (b)[^c-03ce2a1cdf843f991c8ba8c466160c67] in paragraph (4) for “The panel must comprise” there were substituted “Subject to paragraphs (5) and (5A), where the case is referred to a misconduct hearing, that hearing must be conducted by a panel of three persons, comprising”;
+- (c)[^c-3edd8f757a0a844e8912f1d5191ec141] [^c-6919c866527bd7770aca2235cc73aaba]... in paragraph (5), for “where the officer concerned is a senior officer the panel must comprise” there were substituted “where the case is referred to a misconduct hearing and the officer concerned was a senior officer at the relevant time, that hearing must be conducted by a panel of three persons comprising”;
+- (d)[^c-29d149c1d14c29ef97c819a2b59a96ba] in paragraph (5A) for “is the chief constable” there were substituted “was the chief constable at the relevant time [^c-ff1f4e37df8b0e53c6ed7ad7482872e2]... ”;
 - (e) in paragraph (5E)—
   - (i) for “is not a senior officer” there were substituted “was not a senior officer at the relevant time”;
-  - (ii)[^key-9fad624ebb6956bcf2f7ace410d975f4] sub-paragraph (b) and the “or” immediately preceding it were omitted;
+  - (ii)[^c-9fad624ebb6956bcf2f7ace410d975f4] sub-paragraph (b) and the “or” immediately preceding it were omitted;
 - (f) in paragraph (5F)—
   - (i) “or Ombudsman, as the case may be,” were omitted;
-  - (ii)[^key-83d696cf060f5e7ed9f08b21b000423d] sub-paragraph (b) and the “or” immediately preceding it were omitted.
+  - (ii)[^c-83d696cf060f5e7ed9f08b21b000423d] sub-paragraph (b) and the “or” immediately preceding it were omitted.
 
-### 23. Modification to regulation 28 (role of chair of misconduct hearing)[^key-3848dc9e25de60dfd4ec4867f2cbc497]
+### 23. Modification to regulation 28 (role of chair of misconduct hearing)[^c-3848dc9e25de60dfd4ec4867f2cbc497]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Modification to regulation 29 (notice of referral to misconduct proceedings)[^key-a0725967bd21985163bb0f7b5abedd86]
+### 24. Modification to regulation 29 (notice of referral to misconduct proceedings)[^c-a0725967bd21985163bb0f7b5abedd86]
 
 Regulation 29 is to be read as if—
 
 - (a) in paragraph (1)—
   - (i) in sub-paragraph (a)—
     - (aa) in paragraph (ii), “misconduct or” and “, as the case may be” were omitted;
-    - (bb)[^key-bcfe08ddaa7a498b19e75ad460315c35] in paragraph (iii), for the words from “conduct” to the end, there were substituted “chair the misconduct proceedings,”;
+    - (bb)[^c-bcfe08ddaa7a498b19e75ad460315c35] in paragraph (iii), for the words from “conduct” to the end, there were substituted “chair the misconduct proceedings,”;
     - (cc) in paragraph (v), “in relation to the form of misconduct proceedings to which the case is being referred” were omitted;
     - (dd) in paragraph (vi), sub-paragraph (bb), and the “or” preceding it, were omitted;
     - (ee) after paragraph (vi), “and” were omitted;
@@ -566,14 +566,14 @@ Regulation 29 is to be read as if—
     > - (ia) in the case of a Condition C person, any written statement or document provided to the Director General under regulation 5B(3) and any response to a consultation carried out under regulation 5B(1)(c), and
 
     ;
-- (b) paragraph (2) were omitted[^key-87e726bddf3aae51607b45a6e10b19f0];
+- (b) paragraph (2) were omitted[^c-87e726bddf3aae51607b45a6e10b19f0];
 - (c) in paragraph (3)—
   - (i) in sub-paragraph (a), for “conduct or, as the case may be, chair”, there were substituted “chair”;
-  - (ii) sub-paragraph (b) were omitted[^key-68f22186e746fb7b861756e16d55b9b5];
+  - (ii) sub-paragraph (b) were omitted[^c-68f22186e746fb7b861756e16d55b9b5];
 - (d) in paragraph (5)—
-  - (i) “conducting[^key-b76611a1a73c7a2ab927b4aebcf1f155] or, as the case may be,” were omitted;
-  - (ii) “or to any person appointed under regulation 7(6) to advise the person conducting or chairing the misconduct meeting” were omitted[^key-a3c805e620176cd04edf8bb290ab0723];
-- (e) in paragraph (6), “, regulation 7(6)[^key-73ef76e2359a758320be3c69b288a942] and (7)[^key-431e0198a265474498b2edf26bbf036f]” were omitted;
+  - (i) “conducting[^c-b76611a1a73c7a2ab927b4aebcf1f155] or, as the case may be,” were omitted;
+  - (ii) “or to any person appointed under regulation 7(6) to advise the person conducting or chairing the misconduct meeting” were omitted[^c-a3c805e620176cd04edf8bb290ab0723];
+- (e) in paragraph (6), “, regulation 7(6)[^c-73ef76e2359a758320be3c69b288a942] and (7)[^c-431e0198a265474498b2edf26bbf036f]” were omitted;
 - (f) in paragraph (7)—
   - (i) “conduct or, as the case may be,” were omitted;
   - (ii) “conducting or” were omitted;
@@ -582,7 +582,7 @@ Regulation 29 is to be read as if—
   - (ii) in sub-paragraph (a), “, or the Ombudsman,” were omitted;
   - (iii) in sub-paragraphs (b) and (c), “or the Ombudsman” were omitted both times it occurs.
 
-### 25. Modification to regulation 30 (procedure on receipt of notice)[^key-581fc3e0ff574c2f7d9bb657b2a2ad54]
+### 25. Modification to regulation 30 (procedure on receipt of notice)[^c-581fc3e0ff574c2f7d9bb657b2a2ad54]
 
 Regulation 30 is to be read as if—
 
@@ -594,7 +594,7 @@ Regulation 30 is to be read as if—
   - (ii) in sub-paragraph (a), “or the Ombudsman, as appropriate,” were omitted;
   - (iii) in sub-paragraph (b), “or the Ombudsman,” were omitted.
 
-### 26. Modification to regulation 31 (witnesses and documents to be supplied)[^key-1b53519f6a1d849cac3290046d1901e8]
+### 26. Modification to regulation 31 (witnesses and documents to be supplied)[^c-1b53519f6a1d849cac3290046d1901e8]
 
 Regulation 31 is to be read as if—
 
@@ -605,7 +605,7 @@ Regulation 31 is to be read as if—
   - (ii) in sub-paragraphs (a), (b) and (d), “or the Ombudsman” were omitted each time it occurs;
   - (iii) in sub-paragraph (c), “or, as the case may be “of the Ombudsman”” were omitted.
 
-### 27. Modification to regulation 32 (misconduct pre-hearing)[^key-045068a020308a495a4c9eaad41c3da4]
+### 27. Modification to regulation 32 (misconduct pre-hearing)[^c-045068a020308a495a4c9eaad41c3da4]
 
 Regulation 32 is to be read as if—
 
@@ -613,13 +613,13 @@ Regulation 32 is to be read as if—
 - (b) in paragraph (6)(e)—
   - (i) “or, as the case may be, the Ombudsman’s” were omitted;
   - (ii) “or the Ombudsman” were omitted;
-- (c)[^key-545ddab2f7a3e9115f22e5c550a10ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-545ddab2f7a3e9115f22e5c550a10ff3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Modification: omission of regulation 33 (timing of misconduct meeting)[^key-3b3caed189b8d72dac6c5b49df9d48de]
+### 28. Modification: omission of regulation 33 (timing of misconduct meeting)[^c-3b3caed189b8d72dac6c5b49df9d48de]
 
 The Conduct Regulations are to be read as if regulation 33 were omitted.
 
-### 29. Modification to regulation 34 (notice of misconduct proceedings and panel)[^key-f52f2e556bd4dc107e899f76c51dc70d]
+### 29. Modification to regulation 34 (notice of misconduct proceedings and panel)[^c-f52f2e556bd4dc107e899f76c51dc70d]
 
 Regulation 34 is to be read as if—
 
@@ -631,7 +631,7 @@ Regulation 34 is to be read as if—
   - (ii) “or, as the case may be, the Ombudsman,” were omitted;
 - (c) paragraph (12) were omitted.
 
-### 30. Modification to regulation 35 (public notification of misconduct hearings)[^key-afbd0ed811a88a93242077d5c9b2a890]
+### 30. Modification to regulation 35 (public notification of misconduct hearings)[^c-afbd0ed811a88a93242077d5c9b2a890]
 
 Regulation 35 is to be read as if—
 
@@ -648,14 +648,14 @@ Regulation 35 is to be read as if—
 - (b) in paragraph (3)(d)(ii), for “(e)” there were substituted “(f)”;
 - (c) in paragraph (4)(f), “or the Ombudsman” were omitted.
 
-### 31. Modification to regulation 36 (attendance of officer concerned at misconduct proceedings)[^key-7e21b36793e049f09e0ecadee7f15062]
+### 31. Modification to regulation 36 (attendance of officer concerned at misconduct proceedings)[^c-7e21b36793e049f09e0ecadee7f15062]
 
 Regulation 36 is to be read as if—
 
 - (a) in paragraph (2), in both places where the words appear, “conducting or” were omitted;
 - (b) in paragraph (3)(a)(ii), “in the case of a misconduct hearing,” were omitted.
 
-### 32. Modification to regulation 37 (participation of the Director General, Ombudsman and investigator at misconduct proceedings)[^key-0dba3ac906a42f08024dd915631edb09]
+### 32. Modification to regulation 37 (participation of the Director General, Ombudsman and investigator at misconduct proceedings)[^c-0dba3ac906a42f08024dd915631edb09]
 
 Regulation 37 is to be read as if—
 
@@ -670,29 +670,29 @@ Regulation 37 is to be read as if—
   - (i) “or Ombudsman” were omitted, each time it occurs;
   - (ii) in sub-paragraph (a), “if it is a misconduct hearing” were omitted;
 - (d) in paragraphs (2)(c), (3) and (4), “conducting or” were omitted;
-- (da)[^key-45a028c16eb75ab022d21daaf3ffe9d6] in paragraph (4), after sub-paragraph (a), “or” were inserted;
+- (da)[^c-45a028c16eb75ab022d21daaf3ffe9d6] in paragraph (4), after sub-paragraph (a), “or” were inserted;
 - (e) in paragraph (4), sub-paragraph (c), and the immediately preceding “or”, were omitted;
 - (f) in paragraph (5), “or the Ombudsman, as the case may be,” were omitted;
 - (g) in paragraph (6) sub-paragraph (b), and the immediately preceding “or” were omitted.
 
-### 33. Modification to regulation 38 (reporting restrictions, participation and exclusions from proceedings)[^key-4daa5fdda52ccb3e5d271f83574c15ec]
+### 33. Modification to regulation 38 (reporting restrictions, participation and exclusions from proceedings)[^c-4daa5fdda52ccb3e5d271f83574c15ec]
 
 Regulation 38 is to be read as if—
 
 - (a) paragraphs (2), (3), (4) and (5) were omitted;
 - (b) in paragraph (6)—
   - (i) “conducting or” were omitted both times it appears;
-  - (ii)[^key-d6ae3a189c0b5e5bf9cba92fc0ab7ab7] omit from “in the case” to “misconduct hearing”;
+  - (ii)[^c-d6ae3a189c0b5e5bf9cba92fc0ab7ab7] omit from “in the case” to “misconduct hearing”;
 - (c) in paragraphs (8) and (9), “conducting or” were omitted.
 
-### 34. Modification to regulation 39 (attendance of complainant, interested persons and others at misconduct proceedings)[^key-39a822d0b03f0d81fb886989207c0746]
+### 34. Modification to regulation 39 (attendance of complainant, interested persons and others at misconduct proceedings)[^c-39a822d0b03f0d81fb886989207c0746]
 
 Regulation 39 is to be read as if—
 
 - (a) paragraphs (3), (4) and (6) were omitted;
 - (b) in paragraph (5), “conducting or” were omitted.
 
-### 35. Modification to regulation 40 (procedure at misconduct proceedings)[^key-d99f5a174d1e14954f20bbec7b505c93]
+### 35. Modification to regulation 40 (procedure at misconduct proceedings)[^c-d99f5a174d1e14954f20bbec7b505c93]
 
 Regulation 40 is to be read as if—
 
@@ -715,7 +715,7 @@ Regulation 40 is to be read as if—
 - (i) in paragraph (17), “At misconduct proceedings conducted by a panel,” were omitted;
 - (j) paragraph (19) were omitted.
 
-### 36. Modification to regulation 41 (outcome of misconduct proceedings)[^key-c51461c40b8df67310c5611bc7b97c52]
+### 36. Modification to regulation 41 (outcome of misconduct proceedings)[^c-c51461c40b8df67310c5611bc7b97c52]
 
 The Conduct Regulations are to be read as if for regulation 41 there were substituted—
 
@@ -744,13 +744,13 @@ The Conduct Regulations are to be read as if for regulation 41 there were substi
 >   - (i) must consider whether those circumstances have been mentioned at an earlier stage in the proceedings and, if they have not been so mentioned, whether the officer concerned could reasonably have been expected to so mention them, and
 >   - (ii) in the light of their conclusions under paragraph (i), may determine that it is appropriate to place less weight on those circumstances.
 >
-> (3)[^key-ad7be7bbac556ca79fe7b7c88a1fc7f5] Paragraph (4) applies where disciplinary action for gross misconduct is imposed.
+> (3)[^c-ad7be7bbac556ca79fe7b7c88a1fc7f5] Paragraph (4) applies where disciplinary action for gross misconduct is imposed.
 >
 > (4) The person chairing a misconduct hearing must provide to the Secretary of State any information they consider would assist the Secretary of State in determining whether regulation 8(4) of the Barred List and Advisory List Regulations 2026 applies (requirement not to publish information relating to the officer concerned).
 
 .
 
-### 37. Modification to regulation 42 (notification of outcome)[^key-8d51800a79fc224ab10c9bffbbfa1e7b]
+### 37. Modification to regulation 42 (notification of outcome)[^c-8d51800a79fc224ab10c9bffbbfa1e7b]
 
 Regulation 42 is to be read as if——
 
@@ -762,17 +762,17 @@ Regulation 42 is to be read as if——
     > - (c) whether disciplinary action for gross misconduct was imposed.
 
     ;
-  - (iv)[^key-4c752243ccf533aa506b6e96912eb338] in para (e) for “but the disciplinary action imposed was not dismissal without notice” there were substituted “but disciplinary action for gross misconduct was not imposed”;
+  - (iv)[^c-4c752243ccf533aa506b6e96912eb338] in para (e) for “but the disciplinary action imposed was not dismissal without notice” there were substituted “but disciplinary action for gross misconduct was not imposed”;
 - (b) in paragraph (2)(b)—
   - (i) “misconduct or” were omitted, and
   - (ii) for “in accordance with paragraph (3)”, there were substituted “under the Appeals Tribunal Regulations”;
 - (c) paragraph (3) were omitted;
 - (d) in paragraph (4), “In all cases referred to in paragraph (3)” were omitted;
-- (e)[^key-4e0f9b7abfa91234e523331a0b140e88] in paragraph (5)—
+- (e)[^c-4e0f9b7abfa91234e523331a0b140e88] in paragraph (5)—
   - (i) sub-paragraph (b) were omitted,
   - (ii) in sub-paragraph (d) for “the disciplinary action imposed was not dismissal without notice” there were substituted “disciplinary action for gross misconduct was not imposed”.
 
-### 38. Modification to regulation 43 (record of misconduct proceedings)[^key-f39f3a462f0e6bb34b7eccd8eee1259d]
+### 38. Modification to regulation 43 (record of misconduct proceedings)[^c-f39f3a462f0e6bb34b7eccd8eee1259d]
 
 Regulation 43 is to be read as if, for paragraph (1), there were substituted—
 
@@ -780,11 +780,11 @@ Regulation 43 is to be read as if, for paragraph (1), there were substituted—
 
 .
 
-### 39. Modification: omission of regulations 44 to 46 (appeals)[^key-5196750db615fc805e7cde9ffd64bb6a]
+### 39. Modification: omission of regulations 44 to 46 (appeals)[^c-5196750db615fc805e7cde9ffd64bb6a]
 
 The Conduct Regulations are to be read as if regulations 44 to 46 were omitted.
 
-### 39A. Modification: insertion of regulation 46A (application of Part 5)[^key-f2b90c0d21ad6b8e9256e2dbc86fe9ee]
+### 39A. Modification: insertion of regulation 46A (application of Part 5)[^c-f2b90c0d21ad6b8e9256e2dbc86fe9ee]
 
 The Conduct Regulations are to be read as if before regulation 47 and after the heading to Part 5 there were inserted—
 
@@ -798,11 +798,11 @@ The Conduct Regulations are to be read as if before regulation 47 and after the 
 
 .
 
-### 40. Modification to regulation 47 (general)[^key-13c31c7927e4918f47457dd05c1ff826]
+### 40. Modification to regulation 47 (general)[^c-13c31c7927e4918f47457dd05c1ff826]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 41. Modification to regulation 49 (referral of case to accelerated misconduct hearing)[^key-0570d9bbd940ff8ae2af43738b2ca575]
+### 41. Modification to regulation 49 (referral of case to accelerated misconduct hearing)[^c-0570d9bbd940ff8ae2af43738b2ca575]
 
 Regulation 49 is to be read as if—
 
@@ -812,7 +812,7 @@ Regulation 49 is to be read as if—
 - (d) in paragraph (5), in the closing words, for “Part 4” there were substituted “Part 3A”;
 - (e) paragraph (6) were omitted.
 
-### 42. Modification to regulation 50 (remission of case)[^key-ff79431be2b33bb9a397e46b36d88131][^key-333b5e3d34ef305b949cd01a5d86edf2]
+### 42. Modification to regulation 50 (remission of case)[^c-ff79431be2b33bb9a397e46b36d88131][^c-333b5e3d34ef305b949cd01a5d86edf2]
 
 Regulation 50 is to be read as if—
 
@@ -823,81 +823,81 @@ Regulation 50 is to be read as if—
 - (c) paragraph (3) were omitted;
 - (d) paragraph (4)(b) were omitted.
 
-### 43. Modification to regulation 51 (notice of referral to accelerated misconduct hearing)[^key-1642b46678f5ff23b8e1362191761d90]
+### 43. Modification to regulation 51 (notice of referral to accelerated misconduct hearing)[^c-1642b46678f5ff23b8e1362191761d90]
 
 Regulation 51 is to be read as if—
 
-- (za)[^key-7668efcdeb1240c50cd08e6b6b0b81a9] in paragraph (1)(c)—
+- (za)[^c-7668efcdeb1240c50cd08e6b6b0b81a9] in paragraph (1)(c)—
   - (i) the “and” after sub-paragraph (i) were omitted;
   - (ii) after sub-paragraph (i) there were inserted—
 
     > - (ia) in the case of a Condition C person, any written statement or document provided to the Director General under regulation 4B(3) and any response to a consultation carried out under regulation 4B(4), and
 
     ;
-- (zb)[^key-69c7b6060a6935d176e34ea67883b94d] after paragraph (1) there were inserted—
+- (zb)[^c-69c7b6060a6935d176e34ea67883b94d] after paragraph (1) there were inserted—
 
   > (1A) Where a case is referred to an accelerated misconduct hearing under regulation 20D(7), the relevant authority must as soon as practicable give the officer concerned written notice of these matters and supply the officer with a copy of the items referred to in paragraph (1)(b) and (c).
 
   ;
-- (a)[^key-45b9613d259d4a47379a9d029f09f395] in paragraph (2)—
-  - (zi)[^key-ffd76eb10b4b94f4693d79b21a8bc3d1] in the opening words, after “paragraph (1)” there were inserted “or (1A)”;
+- (a)[^c-45b9613d259d4a47379a9d029f09f395] in paragraph (2)—
+  - (zi)[^c-ffd76eb10b4b94f4693d79b21a8bc3d1] in the opening words, after “paragraph (1)” there were inserted “or (1A)”;
   - (i) in sub-paragraph (b), paragraph (ii) and the “or” immediately preceding it were omitted;
-  - (ii) the “and” after paragraph (c)[^key-7609a4e59774f376561bc29bf1756ed2] were omitted;
+  - (ii) the “and” after paragraph (c)[^c-7609a4e59774f376561bc29bf1756ed2] were omitted;
   - (iii) after paragraph (d) there were inserted—
 
     > - (da) set out the fact that the officer will be subject to disciplinary proceedings under these Regulations, and
-    > - (db) set out the fact that, if the allegation of gross misconduct is proved, the officer may be subject to a finding that the officer would have been dismissed if the officer had not ceased to be a member of the MDP .[^key-6db5f4dab58624b3929b0ffec9365c1e]
+    > - (db) set out the fact that, if the allegation of gross misconduct is proved, the officer may be subject to a finding that the officer would have been dismissed if the officer had not ceased to be a member of the MDP .[^c-6db5f4dab58624b3929b0ffec9365c1e]
 
-    ;[^key-d79905cbc05a490edb86269f4abc834b]
+    ;[^c-d79905cbc05a490edb86269f4abc834b]
 - (b) in paragraph (3), “or the Ombudsman, as appropriate” were omitted, each time it occurs.
 
-### 44. Modification to regulation 52 (notice of accelerated misconduct hearing)[^key-d478e86350d8a6132bc92d3b9e877ab5][^key-b80cf36b6632c713c890031dcc7e7ffc]
+### 44. Modification to regulation 52 (notice of accelerated misconduct hearing)[^c-d478e86350d8a6132bc92d3b9e877ab5][^c-b80cf36b6632c713c890031dcc7e7ffc]
 
 Regulation 52 is to be read as if—
 
 - (a) in paragraph (1), in the opening words, after “regulation 51(1)” there were inserted “or (1A)”;
 - (b) paragraph (3) were omitted.
 
-### 45. Modification to regulation 53 (public notification of accelerated misconduct hearing)[^key-30218339eb3aa1a998ba66c6011cb355]
+### 45. Modification to regulation 53 (public notification of accelerated misconduct hearing)[^c-30218339eb3aa1a998ba66c6011cb355]
 
 Regulation 53 is to be read as if paragraph (4)(f), and the immediately preceding “and”, were omitted.
 
-### 46. Modification to regulation 54 (procedure on receipt of notice)[^key-e6fafb360a55b7596fc6ba1e6b95ebe0][^key-e6f75daaa9299a37ce92b9971f50fd15]
+### 46. Modification to regulation 54 (procedure on receipt of notice)[^c-e6fafb360a55b7596fc6ba1e6b95ebe0][^c-e6f75daaa9299a37ce92b9971f50fd15]
 
 Regulation 54 is to be read as if—
 
 - (a) in paragraph (1), in the opening words, after “regulation 51(1)” there were inserted “or (1A)”;
 - (b) paragraph (3) were omitted.
 
-### 47. Modification to regulation 55 (persons conducting accelerated misconduct hearing)[^key-87db38c6bff429770c832ca0200c3322]
+### 47. Modification to regulation 55 (persons conducting accelerated misconduct hearing)[^c-87db38c6bff429770c832ca0200c3322]
 
 Regulation 55 is to be read as if—
 
 - (a) in paragraph (1), for “is not a senior officer” there were substituted “was not a senior officer at the relevant time”;
 - (b) in paragraph (3), for “is a senior officer” there were substituted “was a senior officer at the relevant time”;
-- (ba)[^key-ae05497c235252ac475ddf33465a6c0a] in paragraph (4)(a)(i), for “is the chief constable”, there were substituted “was the chief constable at the relevant time”;
-- (c)[^key-37b2c3430437be98ad8d7c703a10c43c] in paragraph (4)(a)(ii) after “officer[^key-b9d5b4448e007dc98a911bfb4aa4ba2a] concerned” there were inserted “was at the relevant time”;
+- (ba)[^c-ae05497c235252ac475ddf33465a6c0a] in paragraph (4)(a)(i), for “is the chief constable”, there were substituted “was the chief constable at the relevant time”;
+- (c)[^c-37b2c3430437be98ad8d7c703a10c43c] in paragraph (4)(a)(ii) after “officer[^c-b9d5b4448e007dc98a911bfb4aa4ba2a] concerned” there were inserted “was at the relevant time”;
 - (d) in paragraph (8)—
   - (i) for “is not a senior officer” there were substituted “was not a senior officer at the relevant time”;
-  - (ii)[^key-554fe8e715ecf4f786cb5ffc60478887] sub-paragraph (b) and the “or” immediately preceding it were omitted;
+  - (ii)[^c-554fe8e715ecf4f786cb5ffc60478887] sub-paragraph (b) and the “or” immediately preceding it were omitted;
 - (e) in paragraph (9)—
   - (i) “or Ombudsman, as the case may be,” were omitted;
-  - (ii)[^key-7eadf09281db0e8b71218d9377d61eda] sub-paragraph (b) and the “or” immediately preceding it were omitted.
+  - (ii)[^c-7eadf09281db0e8b71218d9377d61eda] sub-paragraph (b) and the “or” immediately preceding it were omitted.
 
-### 48. Modification to regulation 56 (documents to be supplied)[^key-2eabaa77f5eb485bfae6b5bf82cc8a12][^key-b7cc4288d2c1ac4a214566d2a5a47208]
+### 48. Modification to regulation 56 (documents to be supplied)[^c-2eabaa77f5eb485bfae6b5bf82cc8a12][^c-b7cc4288d2c1ac4a214566d2a5a47208]
 
 Regulation 56 is to be read as if—
 
 - (a) in paragraph (1), in each of sub-paragraphs (a) and (b), after “under regulation 51(1)” there were inserted “or (1A)”;
 - (b) paragraph (5) were omitted.
 
-### 49. Modification to regulation 58 (participation of Director General, Ombudsman and investigator at accelerated misconduct hearing)[^key-2ecf4a827eb73c16e28826a69f718886]
+### 49. Modification to regulation 58 (participation of Director General, Ombudsman and investigator at accelerated misconduct hearing)[^c-2ecf4a827eb73c16e28826a69f718886]
 
 Regulation 58 is to be read as if—
 
 - (a) in the heading, “, Ombudsman” were omitted;
 - (b) in paragraph (1)—
-  - (zi)[^key-8bf696667132eb65a154a84f8fc42617] in the opening words, omit “or, as the case may be, Ombudsman,”;
+  - (zi)[^c-8bf696667132eb65a154a84f8fc42617] in the opening words, omit “or, as the case may be, Ombudsman,”;
   - (i) in sub-paragraph (a), the words from “or section 54(2)” to the end were omitted;
   - (ii) in sub-paragraph (c)—
     - (aa) in the opening words, “or section 57 of the 1998 Act” were omitted;
@@ -906,7 +906,7 @@ Regulation 58 is to be read as if—
 - (d) in paragraph (4), sub-paragraph (c), and the immediately preceding “or”, were omitted;
 - (e) in paragraph (5), sub-paragraph (b), and the immediately preceding “or”, were omitted.
 
-### 50. Modification to regulation 61 (procedure at accelerated misconduct hearing)[^key-b8eea54530ce7fdd4652393405c8f678]
+### 50. Modification to regulation 61 (procedure at accelerated misconduct hearing)[^c-b8eea54530ce7fdd4652393405c8f678]
 
 Regulation 61 is to be read as if—
 
@@ -915,11 +915,11 @@ Regulation 61 is to be read as if—
   > (10A) Where evidence is given or considered at the misconduct hearing that the officer concerned was given written notice of an interview under regulation 19(6) (interviews during investigation) or under external procedures and failed to attend the interview, paragraph (13) applies.
 
   ;
-- (aa)[^key-cb9138983284ac796840a0abe0fc350b] in paragraph (11)(b), after “regulation 51(1)” there were inserted “or (1A)”;
+- (aa)[^c-cb9138983284ac796840a0abe0fc350b] in paragraph (11)(b), after “regulation 51(1)” there were inserted “or (1A)”;
 - (b) in paragraph (12)(b) after “regulation 17(1) there were inserted “, 19A(2)”;
 - (c) paragraph (19) were omitted.
 
-### 51. Modification to regulation 62 (outcome of accelerated misconduct hearing)[^key-c6e0574b6d383d047394ddc9fbb4531d]
+### 51. Modification to regulation 62 (outcome of accelerated misconduct hearing)[^c-c6e0574b6d383d047394ddc9fbb4531d]
 
 The Conduct Regulations are to be read as if for regulation 62, there were substituted—
 
@@ -951,7 +951,7 @@ The Conduct Regulations are to be read as if for regulation 62, there were subst
 
 .
 
-### 52. Modification to regulation 63 (notification of outcome)[^key-a9b376827e2ee9fcc2e35b2c7cb83733][^key-70254d4983b222f12f28e57373cd4409]
+### 52. Modification to regulation 63 (notification of outcome)[^c-a9b376827e2ee9fcc2e35b2c7cb83733][^c-70254d4983b222f12f28e57373cd4409]
 
 Regulation 63 is to be read as if—
 
@@ -965,234 +965,234 @@ Regulation 63 is to be read as if—
 - (b) in paragraph (4)(a) “or the Ombudsman” were omitted both times it occurs;
 - (c) in paragraph (4)(c) for “the disciplinary action imposed was not dismissal without notice” there were substituted “no disciplinary action for gross misconduct was imposed”.
 
-### 53. Modification: omission of Part 6 (reflective practice review process)[^key-7e24b8fa7511fa0004b23eeb21c3a12d]
+### 53. Modification: omission of Part 6 (reflective practice review process)[^c-7e24b8fa7511fa0004b23eeb21c3a12d]
 
 The Conduct Regulations are to be read as if Part 6 were omitted.
 
 ## Annotations
 
-[^key-bff2c0fa27556bcb22b728456e127f6a]: Commencement: Sch. 2 para. 1 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-bff2c0fa27556bcb22b728456e127f6a]: Commencement: Sch. 2 para. 1 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-b4ab88e05e19498ef14f24bd9e46863b]: Commencement: Sch. 2 para. 2 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-b4ab88e05e19498ef14f24bd9e46863b]: Commencement: Sch. 2 para. 2 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-30e7189671efa77e571ad750be431a5e]: Textual amendment: Words in [Sch. 2 para. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/2/a/ii) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/16/a) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-30e7189671efa77e571ad750be431a5e]: Textual amendment: Words in [Sch. 2 para. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/2/a/ii) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/16/a) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-652e2a311d43c52c5e8e149f880b1a5d]: Textual amendment: [Sch. 2 para. 2(a)(iia)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/2/a/iia) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/16/b) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-652e2a311d43c52c5e8e149f880b1a5d]: Textual amendment: [Sch. 2 para. 2(a)(iia)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/2/a/iia) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/16/b) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-b8cc7681d7fcac58671621b857b28aef]: Textual amendment: [Sch. 2 para. 2(a)(vi)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/2/a/vi) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [16(c)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/16/c) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-b8cc7681d7fcac58671621b857b28aef]: Textual amendment: [Sch. 2 para. 2(a)(vi)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/2/a/vi) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [16(c)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/16/c) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-34690a754040bf42c1a8bcbbea9ed3d0]: Commencement: Sch. 2 para. 3 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-34690a754040bf42c1a8bcbbea9ed3d0]: Commencement: Sch. 2 para. 3 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-9ef9b9ec3f342530367c2c1f49f0949f]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/17/a) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-9ef9b9ec3f342530367c2c1f49f0949f]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/17/a) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-9a15268bc9df3c721838a2e687c8aaae]: Textual amendment: Word in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [17(b)(i)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/17/b/i) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-9a15268bc9df3c721838a2e687c8aaae]: Textual amendment: Word in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [17(b)(i)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/17/b/i) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-aa7e0c8a6d92bfc89757e99b5d6aee43]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [17(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/17/b/ii/aa) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-aa7e0c8a6d92bfc89757e99b5d6aee43]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [17(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/17/b/ii/aa) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-1fd04003b0309328c9d85a7d94fcbf7c]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [17(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/17/b/ii/bb) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-1fd04003b0309328c9d85a7d94fcbf7c]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [17(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/17/b/ii/bb) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-99882cbf6661a5d4550f14bd63c74a60]: Textual amendment: Word in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [17(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/17/b/ii/cc) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-99882cbf6661a5d4550f14bd63c74a60]: Textual amendment: Word in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [17(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/17/b/ii/cc) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-72b3a2d28d57b7d44f3c274d14df1367]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [16(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/769/regulation/16/2/a/i)
+[^c-72b3a2d28d57b7d44f3c274d14df1367]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [16(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/769/regulation/16/2/a/i)
 
-[^key-a26312669ccd82dd4694c862e753d2e4]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) inserted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [16(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/769/regulation/16/2/a/ii)
+[^c-a26312669ccd82dd4694c862e753d2e4]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) inserted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [16(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/769/regulation/16/2/a/ii)
 
-[^key-f4fc2c9a3a4df74ec93ee2b8f2cebc67]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2026/769/regulation/16/2/b)
+[^c-f4fc2c9a3a4df74ec93ee2b8f2cebc67]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/3) substituted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2026/769/regulation/16/2/b)
 
-[^key-3b04a70136f8c6b40943bbc5ae27ef41]: Commencement: Sch. 2 para. 4 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-3b04a70136f8c6b40943bbc5ae27ef41]: Commencement: Sch. 2 para. 4 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-fe741485e0bae75de4e8d7177620fb8b]: Commencement: Sch. 2 para. 5 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-fe741485e0bae75de4e8d7177620fb8b]: Commencement: Sch. 2 para. 5 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-0095d353650d63fabd5fd79f31c320c3]: Textual amendment: [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/5/b) punctuation inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2026/1021/regulation/18) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-0095d353650d63fabd5fd79f31c320c3]: Textual amendment: [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/5/b) punctuation inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2026/1021/regulation/18) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-4c10220366a616e632067bfba7721a78]: Textual amendment: [Sch. 2 para. 5(d)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/5/d) substituted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-4c10220366a616e632067bfba7721a78]: Textual amendment: [Sch. 2 para. 5(d)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/5/d) substituted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-fca2eb25541639d15561987e339cad91]: Commencement: Sch. 2 para. 6 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-fca2eb25541639d15561987e339cad91]: Commencement: Sch. 2 para. 6 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-384e0e1b64314875579c225795a81b7c]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/6) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2026/1021/regulation/19) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-384e0e1b64314875579c225795a81b7c]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/6) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2026/1021/regulation/19) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-a4f80496123b0130da5227f26bfcaf6c]: Commencement: Sch. 2 para. 7 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-a4f80496123b0130da5227f26bfcaf6c]: Commencement: Sch. 2 para. 7 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-532a52355c1000de1d0b195ddb7e62e7]: Commencement: Sch. 2 para. 8 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-532a52355c1000de1d0b195ddb7e62e7]: Commencement: Sch. 2 para. 8 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-0ba427522b216d268365ddfaa4361f09]: Commencement: Sch. 2 para. 9 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-0ba427522b216d268365ddfaa4361f09]: Commencement: Sch. 2 para. 9 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-5697ed3cc8ca3cb5c2c16ab90354a3de]: Commencement: Sch. 2 para. 10 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-5697ed3cc8ca3cb5c2c16ab90354a3de]: Commencement: Sch. 2 para. 10 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-d33675a1bc2c3b896f0f3988b200a11d]: Commencement: Sch. 2 para. 11 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-d33675a1bc2c3b896f0f3988b200a11d]: Commencement: Sch. 2 para. 11 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-c61da284ade7f6d81113d6b491b8d8ee]: Commencement: Sch. 2 para. 12 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-c61da284ade7f6d81113d6b491b8d8ee]: Commencement: Sch. 2 para. 12 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-71ed3a0162f96c0d2912f77fc95d7ed6]: Textual amendment: [Sch. 2 para. 12(ab)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/12/ab) inserted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2026/769/regulation/16/3)
+[^c-71ed3a0162f96c0d2912f77fc95d7ed6]: Textual amendment: [Sch. 2 para. 12(ab)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/12/ab) inserted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2026/769/regulation/16/3)
 
-[^key-82c84f0dd4a9fa1b7109a9b96bfa9225]: Commencement: Sch. 2 para. 13 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-82c84f0dd4a9fa1b7109a9b96bfa9225]: Commencement: Sch. 2 para. 13 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-5f60d2bb5ca90d75c27c6fc1cef657e9]: Commencement: Sch. 2 para. 14 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-5f60d2bb5ca90d75c27c6fc1cef657e9]: Commencement: Sch. 2 para. 14 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-39f1790707e216eed427e5d0ed38ad64]: Commencement: Sch. 2 para. 15 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-39f1790707e216eed427e5d0ed38ad64]: Commencement: Sch. 2 para. 15 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-09ce70864a79579b01bda0a20ac99053]: Textual amendment: [Sch. 2 paras. 15A](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/15A), [15B](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/15B) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2026/1021/regulation/20) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-09ce70864a79579b01bda0a20ac99053]: Textual amendment: [Sch. 2 paras. 15A](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/15A), [15B](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/15B) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2026/1021/regulation/20) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-3df6c9f668a66af2874e9075c826e9e3]: Commencement: Sch. 2 para. 16 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-3df6c9f668a66af2874e9075c826e9e3]: Commencement: Sch. 2 para. 16 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-41d4281c1a753259cd9e69249842ca0f]: Textual amendment: [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/16/a) omitted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-41d4281c1a753259cd9e69249842ca0f]: Textual amendment: [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/16/a) omitted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-397211dabf6a929f2e7a7d61145c3803]: Textual amendment: [Sch. 2 para. 16(b)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/16/b) omitted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-397211dabf6a929f2e7a7d61145c3803]: Textual amendment: [Sch. 2 para. 16(b)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/16/b) omitted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-8a67fb48daa8e998f6b3d6cacb97dece]: Commencement: Sch. 2 para. 17 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-8a67fb48daa8e998f6b3d6cacb97dece]: Commencement: Sch. 2 para. 17 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-f8fc2312b169c696a0dfff9c97c7b0e0]: Commencement: Sch. 2 para. 18 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-f8fc2312b169c696a0dfff9c97c7b0e0]: Commencement: Sch. 2 para. 18 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-f86f903e8299bdcfe8d0f6141fe5e0be]: Textual amendment: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/18) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2026/1021/regulation/21) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-f86f903e8299bdcfe8d0f6141fe5e0be]: Textual amendment: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/18) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2026/1021/regulation/21) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-98c79cda84e3e4c6bfc79626866ebf41]: Commencement: Sch. 2 para. 19 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-98c79cda84e3e4c6bfc79626866ebf41]: Commencement: Sch. 2 para. 19 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-a484c5e1c5e78e9dcc92d47d8b6f13c1]: Commencement: Sch. 2 para. 20 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-a484c5e1c5e78e9dcc92d47d8b6f13c1]: Commencement: Sch. 2 para. 20 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-4f035dcc9d51d90f7419599ecad1365d]: Commencement: Sch. 2 para. 21 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-4f035dcc9d51d90f7419599ecad1365d]: Commencement: Sch. 2 para. 21 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-18ee99ea9994fc0b7b08d12117212fa6]: Commencement: Sch. 2 para. 22 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-18ee99ea9994fc0b7b08d12117212fa6]: Commencement: Sch. 2 para. 22 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-03ce2a1cdf843f991c8ba8c466160c67]: Textual amendment: [Sch. 2 para. 22(b)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/22/b) substituted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/4/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-03ce2a1cdf843f991c8ba8c466160c67]: Textual amendment: [Sch. 2 para. 22(b)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/22/b) substituted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/4/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-3edd8f757a0a844e8912f1d5191ec141]: Textual amendment: [Sch. 2 para. 22(c)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/22/c) substituted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/4/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-3edd8f757a0a844e8912f1d5191ec141]: Textual amendment: [Sch. 2 para. 22(c)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/22/c) substituted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/4/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-6919c866527bd7770aca2235cc73aaba]: Textual amendment: [Sch. 2 para. 22(c)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/22/c) punctuation omitted (6.10.2026) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [22(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/22/a) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-6919c866527bd7770aca2235cc73aaba]: Textual amendment: [Sch. 2 para. 22(c)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/22/c) punctuation omitted (6.10.2026) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [22(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/22/a) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-29d149c1d14c29ef97c819a2b59a96ba]: Textual amendment: Sch. 2 paras. 22(d)-(f) inserted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/4/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-29d149c1d14c29ef97c819a2b59a96ba]: Textual amendment: Sch. 2 paras. 22(d)-(f) inserted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/4/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-ff1f4e37df8b0e53c6ed7ad7482872e2]: Textual amendment: [Sch. 2 para. 22(d)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/22/d) semicolon omitted (6.10.2026) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [22(b)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/22/b) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-ff1f4e37df8b0e53c6ed7ad7482872e2]: Textual amendment: [Sch. 2 para. 22(d)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/22/d) semicolon omitted (6.10.2026) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [22(b)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/22/b) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-9fad624ebb6956bcf2f7ace410d975f4]: Textual amendment: [Sch. 2 para. 22(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/22/e/ii) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [22(c)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/22/c) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-9fad624ebb6956bcf2f7ace410d975f4]: Textual amendment: [Sch. 2 para. 22(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/22/e/ii) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [22(c)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/22/c) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-83d696cf060f5e7ed9f08b21b000423d]: Textual amendment: [Sch. 2 para. 22(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/22/f/ii) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [22(d)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/22/d) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-83d696cf060f5e7ed9f08b21b000423d]: Textual amendment: [Sch. 2 para. 22(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/22/f/ii) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [22(d)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/22/d) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-3848dc9e25de60dfd4ec4867f2cbc497]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/23) omitted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-3848dc9e25de60dfd4ec4867f2cbc497]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/23) omitted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-a0725967bd21985163bb0f7b5abedd86]: Commencement: Sch. 2 para. 24 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-a0725967bd21985163bb0f7b5abedd86]: Commencement: Sch. 2 para. 24 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-bcfe08ddaa7a498b19e75ad460315c35]: Textual amendment: [Sch. 2 para. 24(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24/a/i/bb) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/23/a) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-bcfe08ddaa7a498b19e75ad460315c35]: Textual amendment: [Sch. 2 para. 24(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24/a/i/bb) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/23/a) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-87e726bddf3aae51607b45a6e10b19f0]: Textual amendment: [Sch. 2 para. 24(b)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24) substituted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-87e726bddf3aae51607b45a6e10b19f0]: Textual amendment: [Sch. 2 para. 24(b)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24) substituted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-68f22186e746fb7b861756e16d55b9b5]: Textual amendment: [Sch. 2 para. 24(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24/c) substituted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/6/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-68f22186e746fb7b861756e16d55b9b5]: Textual amendment: [Sch. 2 para. 24(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24/c) substituted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/6/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-b76611a1a73c7a2ab927b4aebcf1f155]: Textual amendment: Word in [Sch. 2 para. 24(d)(i)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24/d/i) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/23/b) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-b76611a1a73c7a2ab927b4aebcf1f155]: Textual amendment: Word in [Sch. 2 para. 24(d)(i)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24/d/i) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/23/b) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-a3c805e620176cd04edf8bb290ab0723]: Textual amendment: [Sch. 2 para. 24(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24/d) substituted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/6/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-a3c805e620176cd04edf8bb290ab0723]: Textual amendment: [Sch. 2 para. 24(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24/d) substituted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(6)(c)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/6/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-73ef76e2359a758320be3c69b288a942]: Textual amendment: Words in [Sch. 2 para. 24(e)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24/e) substituted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(6)(d)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/6/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-73ef76e2359a758320be3c69b288a942]: Textual amendment: Words in [Sch. 2 para. 24(e)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24/e) substituted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(6)(d)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/6/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-431e0198a265474498b2edf26bbf036f]: Textual amendment: Words in [Sch. 2 para. 24(e)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24/e) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [23(c)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/23/c) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-431e0198a265474498b2edf26bbf036f]: Textual amendment: Words in [Sch. 2 para. 24(e)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/24/e) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [23(c)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/23/c) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-581fc3e0ff574c2f7d9bb657b2a2ad54]: Commencement: Sch. 2 para. 25 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-581fc3e0ff574c2f7d9bb657b2a2ad54]: Commencement: Sch. 2 para. 25 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-1b53519f6a1d849cac3290046d1901e8]: Commencement: Sch. 2 para. 26 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-1b53519f6a1d849cac3290046d1901e8]: Commencement: Sch. 2 para. 26 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-045068a020308a495a4c9eaad41c3da4]: Commencement: Sch. 2 para. 27 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-045068a020308a495a4c9eaad41c3da4]: Commencement: Sch. 2 para. 27 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-545ddab2f7a3e9115f22e5c550a10ff3]: Textual amendment: [Sch. 2 para. 27(c)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/27/c) omitted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/7) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-545ddab2f7a3e9115f22e5c550a10ff3]: Textual amendment: [Sch. 2 para. 27(c)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/27/c) omitted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/7) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-3b3caed189b8d72dac6c5b49df9d48de]: Commencement: Sch. 2 para. 28 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-3b3caed189b8d72dac6c5b49df9d48de]: Commencement: Sch. 2 para. 28 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-f52f2e556bd4dc107e899f76c51dc70d]: Commencement: Sch. 2 para. 29 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-f52f2e556bd4dc107e899f76c51dc70d]: Commencement: Sch. 2 para. 29 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-afbd0ed811a88a93242077d5c9b2a890]: Commencement: Sch. 2 para. 30 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-afbd0ed811a88a93242077d5c9b2a890]: Commencement: Sch. 2 para. 30 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-7e21b36793e049f09e0ecadee7f15062]: Commencement: Sch. 2 para. 31 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-7e21b36793e049f09e0ecadee7f15062]: Commencement: Sch. 2 para. 31 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-0dba3ac906a42f08024dd915631edb09]: Commencement: Sch. 2 para. 32 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-0dba3ac906a42f08024dd915631edb09]: Commencement: Sch. 2 para. 32 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-45a028c16eb75ab022d21daaf3ffe9d6]: Textual amendment: [Sch. 2 para. 32(da)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/32/da) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2026/1021/regulation/24) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-45a028c16eb75ab022d21daaf3ffe9d6]: Textual amendment: [Sch. 2 para. 32(da)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/32/da) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2026/1021/regulation/24) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-4daa5fdda52ccb3e5d271f83574c15ec]: Commencement: Sch. 2 para. 33 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-4daa5fdda52ccb3e5d271f83574c15ec]: Commencement: Sch. 2 para. 33 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-d6ae3a189c0b5e5bf9cba92fc0ab7ab7]: Textual amendment: [Sch. 2 para. 33(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/33/b/ii) substituted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-d6ae3a189c0b5e5bf9cba92fc0ab7ab7]: Textual amendment: [Sch. 2 para. 33(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/33/b/ii) substituted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-39a822d0b03f0d81fb886989207c0746]: Commencement: Sch. 2 para. 34 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-39a822d0b03f0d81fb886989207c0746]: Commencement: Sch. 2 para. 34 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-d99f5a174d1e14954f20bbec7b505c93]: Commencement: Sch. 2 para. 35 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-d99f5a174d1e14954f20bbec7b505c93]: Commencement: Sch. 2 para. 35 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-c51461c40b8df67310c5611bc7b97c52]: Commencement: Sch. 2 para. 36 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-c51461c40b8df67310c5611bc7b97c52]: Commencement: Sch. 2 para. 36 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-ad7be7bbac556ca79fe7b7c88a1fc7f5]: Textual amendment: Words in [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/36) inserted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2026/769/regulation/16/4)
+[^c-ad7be7bbac556ca79fe7b7c88a1fc7f5]: Textual amendment: Words in [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/36) inserted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2026/769/regulation/16/4)
 
-[^key-8d51800a79fc224ab10c9bffbbfa1e7b]: Commencement: Sch. 2 para. 37 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-8d51800a79fc224ab10c9bffbbfa1e7b]: Commencement: Sch. 2 para. 37 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-4c752243ccf533aa506b6e96912eb338]: Textual amendment: Sch. 2 para. 37(a)(iv) inserted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(9)(a)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/9/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-4c752243ccf533aa506b6e96912eb338]: Textual amendment: Sch. 2 para. 37(a)(iv) inserted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(9)(a)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/9/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-4e0f9b7abfa91234e523331a0b140e88]: Textual amendment: [Sch. 2 para. 37(e)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/37/e) substituted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(9)(b)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/9/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-4e0f9b7abfa91234e523331a0b140e88]: Textual amendment: [Sch. 2 para. 37(e)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/37/e) substituted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(9)(b)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/9/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-f39f3a462f0e6bb34b7eccd8eee1259d]: Commencement: Sch. 2 para. 38 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-f39f3a462f0e6bb34b7eccd8eee1259d]: Commencement: Sch. 2 para. 38 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-5196750db615fc805e7cde9ffd64bb6a]: Commencement: Sch. 2 para. 39 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-5196750db615fc805e7cde9ffd64bb6a]: Commencement: Sch. 2 para. 39 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-f2b90c0d21ad6b8e9256e2dbc86fe9ee]: Textual amendment: [Sch. 2 para. 39A](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/39A) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2026/1021/regulation/25) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-f2b90c0d21ad6b8e9256e2dbc86fe9ee]: Textual amendment: [Sch. 2 para. 39A](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/39A) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2026/1021/regulation/25) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-13c31c7927e4918f47457dd05c1ff826]: Textual amendment: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/40) omitted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-13c31c7927e4918f47457dd05c1ff826]: Textual amendment: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/40) omitted (31.5.2024) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-0570d9bbd940ff8ae2af43738b2ca575]: Textual amendment: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/41) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2026/1021/regulation/26) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-0570d9bbd940ff8ae2af43738b2ca575]: Textual amendment: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/41) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2026/1021/regulation/26) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-ff79431be2b33bb9a397e46b36d88131]: Commencement: Sch. 2 para. 42 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-ff79431be2b33bb9a397e46b36d88131]: Commencement: Sch. 2 para. 42 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-333b5e3d34ef305b949cd01a5d86edf2]: Textual amendment: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/42) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2026/1021/regulation/27) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-333b5e3d34ef305b949cd01a5d86edf2]: Textual amendment: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/42) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2026/1021/regulation/27) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-1642b46678f5ff23b8e1362191761d90]: Commencement: Sch. 2 para. 43 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-1642b46678f5ff23b8e1362191761d90]: Commencement: Sch. 2 para. 43 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-7668efcdeb1240c50cd08e6b6b0b81a9]: Textual amendment: Sch. 2 para. 43(za) inserted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/11/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-7668efcdeb1240c50cd08e6b6b0b81a9]: Textual amendment: Sch. 2 para. 43(za) inserted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/11/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-69c7b6060a6935d176e34ea67883b94d]: Textual amendment: [Sch. 2 para. 43(zb)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/43/zb) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [28(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/28/a) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-69c7b6060a6935d176e34ea67883b94d]: Textual amendment: [Sch. 2 para. 43(zb)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/43/zb) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [28(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/28/a) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-45b9613d259d4a47379a9d029f09f395]: Textual amendment: [Sch. 2 para. 43(a)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/43/a) substituted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(11)(b)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/11/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-45b9613d259d4a47379a9d029f09f395]: Textual amendment: [Sch. 2 para. 43(a)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/43/a) substituted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(11)(b)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/11/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-ffd76eb10b4b94f4693d79b21a8bc3d1]: Textual amendment: [Sch. 2 para. 43(a)(zi)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/43/a/zi) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [28(b)(i)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/28/b/i) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-ffd76eb10b4b94f4693d79b21a8bc3d1]: Textual amendment: [Sch. 2 para. 43(a)(zi)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/43/a/zi) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [28(b)(i)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/28/b/i) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-7609a4e59774f376561bc29bf1756ed2]: Textual amendment: Word in [Sch. 2 para. 43(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/43/a/ii) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [28(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/28/b/ii) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-7609a4e59774f376561bc29bf1756ed2]: Textual amendment: Word in [Sch. 2 para. 43(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/43/a/ii) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [28(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/28/b/ii) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-6db5f4dab58624b3929b0ffec9365c1e]: Textual amendment: [Sch. 2 para. 43(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/43/a/iii): full stop substituted for comma (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [28(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/28/b/iii/aa) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-6db5f4dab58624b3929b0ffec9365c1e]: Textual amendment: [Sch. 2 para. 43(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/43/a/iii): full stop substituted for comma (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [28(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/28/b/iii/aa) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-d79905cbc05a490edb86269f4abc834b]: Textual amendment: [Sch. 2 para. 43(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/43/a/iii): semicolon substituted for comma (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [28(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/28/b/iii/bb) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-d79905cbc05a490edb86269f4abc834b]: Textual amendment: [Sch. 2 para. 43(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/43/a/iii): semicolon substituted for comma (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [28(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/28/b/iii/bb) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-d478e86350d8a6132bc92d3b9e877ab5]: Commencement: Sch. 2 para. 44 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-d478e86350d8a6132bc92d3b9e877ab5]: Commencement: Sch. 2 para. 44 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-b80cf36b6632c713c890031dcc7e7ffc]: Textual amendment: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/44) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2026/1021/regulation/29) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-b80cf36b6632c713c890031dcc7e7ffc]: Textual amendment: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/44) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2026/1021/regulation/29) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-30218339eb3aa1a998ba66c6011cb355]: Commencement: Sch. 2 para. 45 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-30218339eb3aa1a998ba66c6011cb355]: Commencement: Sch. 2 para. 45 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-e6fafb360a55b7596fc6ba1e6b95ebe0]: Commencement: Sch. 2 para. 46 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-e6fafb360a55b7596fc6ba1e6b95ebe0]: Commencement: Sch. 2 para. 46 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-e6f75daaa9299a37ce92b9971f50fd15]: Textual amendment: [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/46) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2026/1021/regulation/30) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-e6f75daaa9299a37ce92b9971f50fd15]: Textual amendment: [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/46) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2026/1021/regulation/30) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-87db38c6bff429770c832ca0200c3322]: Commencement: Sch. 2 para. 47 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-87db38c6bff429770c832ca0200c3322]: Commencement: Sch. 2 para. 47 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-ae05497c235252ac475ddf33465a6c0a]: Textual amendment: [Sch. 2 para. 47(ba)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/47/ba) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [31(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/31/a) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-ae05497c235252ac475ddf33465a6c0a]: Textual amendment: [Sch. 2 para. 47(ba)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/47/ba) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [31(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/31/a) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-37b2c3430437be98ad8d7c703a10c43c]: Textual amendment: [Sch. 2 para. 47(c)-(e)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/47/c) inserted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/12) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-37b2c3430437be98ad8d7c703a10c43c]: Textual amendment: [Sch. 2 para. 47(c)-(e)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/47/c) inserted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/12) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-b9d5b4448e007dc98a911bfb4aa4ba2a]: Textual amendment: Word in [Sch. 2 para. 47(c)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/47/c) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [31(b)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/31/b) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-b9d5b4448e007dc98a911bfb4aa4ba2a]: Textual amendment: Word in [Sch. 2 para. 47(c)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/47/c) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [31(b)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/31/b) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-554fe8e715ecf4f786cb5ffc60478887]: Textual amendment: [Sch. 2 para. 47(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/47/d/ii) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [31(c)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/31/c) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-554fe8e715ecf4f786cb5ffc60478887]: Textual amendment: [Sch. 2 para. 47(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/47/d/ii) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [31(c)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/31/c) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-7eadf09281db0e8b71218d9377d61eda]: Textual amendment: [Sch. 2 para. 47(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/47/e/ii) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [31(d)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/31/d) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-7eadf09281db0e8b71218d9377d61eda]: Textual amendment: [Sch. 2 para. 47(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/47/e/ii) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [31(d)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/31/d) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-2eabaa77f5eb485bfae6b5bf82cc8a12]: Commencement: Sch. 2 para. 48 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-2eabaa77f5eb485bfae6b5bf82cc8a12]: Commencement: Sch. 2 para. 48 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-b7cc4288d2c1ac4a214566d2a5a47208]: Textual amendment: [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/48) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2026/1021/regulation/32) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-b7cc4288d2c1ac4a214566d2a5a47208]: Textual amendment: [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/48) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2026/1021/regulation/32) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-2ecf4a827eb73c16e28826a69f718886]: Commencement: Sch. 2 para. 49 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-2ecf4a827eb73c16e28826a69f718886]: Commencement: Sch. 2 para. 49 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-8bf696667132eb65a154a84f8fc42617]: Textual amendment: [Sch. 2 para. 49(b)(zi)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/49/b/zi) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2026/1021/regulation/33) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-8bf696667132eb65a154a84f8fc42617]: Textual amendment: [Sch. 2 para. 49(b)(zi)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/49/b/zi) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2026/1021/regulation/33) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-b8eea54530ce7fdd4652393405c8f678]: Commencement: Sch. 2 para. 50 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-b8eea54530ce7fdd4652393405c8f678]: Commencement: Sch. 2 para. 50 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-cb9138983284ac796840a0abe0fc350b]: Textual amendment: [Sch. 2 para. 50(aa)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/50/aa) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2026/1021/regulation/34) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
+[^c-cb9138983284ac796840a0abe0fc350b]: Textual amendment: [Sch. 2 para. 50(aa)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/50/aa) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2026/1021/regulation/34) (with [reg. 77](https://www.legislation.gov.uk/uksi/2026/1021/regulation/77))
 
-[^key-c6e0574b6d383d047394ddc9fbb4531d]: Commencement: Sch. 2 para. 51 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-c6e0574b6d383d047394ddc9fbb4531d]: Commencement: Sch. 2 para. 51 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
 [^M_F_c6e294ca-fa12-4d6b-d049-fa3e40895f58]: Textual amendment: Words in Sch. 2 para. 51 inserted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [16(6)](https://www.legislation.gov.uk/uksi/2026/769/regulation/16/6)
 
-[^key-a9b376827e2ee9fcc2e35b2c7cb83733]: Commencement: Sch. 2 para. 52 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-a9b376827e2ee9fcc2e35b2c7cb83733]: Commencement: Sch. 2 para. 52 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-70254d4983b222f12f28e57373cd4409]: Textual amendment: [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/52) substituted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(13)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
+[^c-70254d4983b222f12f28e57373cd4409]: Textual amendment: [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2020/1087/schedule/2/paragraph/52) substituted (31.5.2024) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2024 (S.I. 2024/603)](https://www.legislation.gov.uk/uksi/2024/603), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/603/regulation/1/1), [3(13)](https://www.legislation.gov.uk/uksi/2024/603/regulation/3/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/603/regulation/4))
 
-[^key-7e24b8fa7511fa0004b23eeb21c3a12d]: Commencement: Sch. 2 para. 53 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-7e24b8fa7511fa0004b23eeb21c3a12d]: Commencement: Sch. 2 para. 53 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)

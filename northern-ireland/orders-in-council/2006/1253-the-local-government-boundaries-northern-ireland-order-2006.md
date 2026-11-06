@@ -46,7 +46,7 @@ The Queen's Most Excellent Majesty in Council
 
 Whereas a draft of this Order in Council has been approved by resolution of each House of Parliament:
 
-Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(1) of the Schedule to the Northern Ireland Act 2000 (c. 1) and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:–[^key-1c264b790093b4d2265d96dd4047a1e2]
+Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(1) of the Schedule to the Northern Ireland Act 2000 (c. 1) and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:–[^c-1c264b790093b4d2265d96dd4047a1e2]
 
 ## 1. Title and commencement
 
@@ -389,7 +389,7 @@ This Order provides for there to be 7 local government districts in Northern Ire
 
 ## Annotations
 
-[^key-1c264b790093b4d2265d96dd4047a1e2]: Modification: [Order](https://www.legislation.gov.uk/nisi/2006/1253): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-1c264b790093b4d2265d96dd4047a1e2]: Modification: [Order](https://www.legislation.gov.uk/nisi/2006/1253): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c21180791]: Textual amendment: [Art. 1(3)-(5)](https://www.legislation.gov.uk/nisi/2006/1253/article/1/3) repealed (23.5.2008) by [Local Government (Boundaries) Act (Northern Ireland) 2008 (c. 7)](https://www.legislation.gov.uk/nia/2008/7), [ss. 3(2)](https://www.legislation.gov.uk/nia/2008/7/section/3/2), [5(1)](https://www.legislation.gov.uk/nia/2008/7/section/5/1), [Sch.](https://www.legislation.gov.uk/nia/2008/7/schedule)
 

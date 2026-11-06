@@ -52,7 +52,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 ## PART 1 — Introductory provision
 
-### 1. Citation and commencement[^key-5ed1911c2784fdad059e65afe6c5e5b0]
+### 1. Citation and commencement[^c-5ed1911c2784fdad059e65afe6c5e5b0]
 
 (1) These Regulations may be cited as the Customs (Import Duty, Transit and Miscellaneous Amendments) (EU Exit) Regulations 2019.
 
@@ -70,7 +70,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 ## PART 2 — Miscellaneous Amendments
 
-### 2. Amendment of the Ship's Report, Importation and Exportation by Sea Regulations 1981[^key-ce2479c2dbdaa02b78273ec7346b8125][^key-152b02922e9719dedf76f2c0f6560c3a]
+### 2. Amendment of the Ship's Report, Importation and Exportation by Sea Regulations 1981[^c-ce2479c2dbdaa02b78273ec7346b8125][^c-152b02922e9719dedf76f2c0f6560c3a]
 
 (1) The Ship's Report, Importation and Exportation by Sea Regulations 1981 [^c23604181] are amended as follows.
 
@@ -87,7 +87,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
   .
 
-### 3. Amendment of the Customs and Excise (Transit) Regulations 1993[^key-2aaf457999aab90cbd8af6098551592a][^key-a2d3a60bdfdaff00449c0fbc1ec14d9d]
+### 3. Amendment of the Customs and Excise (Transit) Regulations 1993[^c-2aaf457999aab90cbd8af6098551592a][^c-a2d3a60bdfdaff00449c0fbc1ec14d9d]
 
 (1) The Customs and Excise (Transit) Regulations 1993 [^c23604191] are amended as follows.
 
@@ -97,7 +97,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 > | --- | --- |
 > | Paragraphs 2(A1) and (4) and 27(A1) and (3) of Schedule 1 | Requirement to provide, in specified cases, the MRN of the declaration of goods to be brought into the United Kingdom, any transit accompanying document and vehicle registration number of any vehicle in which the goods are carried before the goods enter, or re-enter, the United Kingdom. |
 
-### 4. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^key-d2a491376c83ef838323f83bbda804b3][^key-8d4f65a48f9097d3809ef9aa2e5912f7]
+### 4. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^c-d2a491376c83ef838323f83bbda804b3][^c-8d4f65a48f9097d3809ef9aa2e5912f7]
 
 (1) The Customs (Contravention of a Relevant Rule) Regulations 2003 [^c23604201] are amended as follows.
 
@@ -117,7 +117,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
     - (bb) after “27(1)” insert “ and (3) ”;
   - (ii) after “declaration” insert “ and any transit accompanying document ”.
 
-### 5. Amendment of the Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018[^key-7e51905d9087b71a97a42882ace22065][^key-ae6654af2153352ea36ca371e04d7dc8]
+### 5. Amendment of the Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018[^c-7e51905d9087b71a97a42882ace22065][^c-ae6654af2153352ea36ca371e04d7dc8]
 
 (1) The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 [^c23604211] are amended as follows.
 
@@ -141,29 +141,29 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
   >
   > In this Schedule—
   >
-  > - “[^key-9c33eb321fdf0d78a29727ee0a69ca8a]**Customs obligation**” has the same meaning as in regulation 2 of the Customs (Import Duty) (EU Exit) Regulations 2018;
+  > - “[^c-9c33eb321fdf0d78a29727ee0a69ca8a]**Customs obligation**” has the same meaning as in regulation 2 of the Customs (Import Duty) (EU Exit) Regulations 2018;
   > - “**EUCL**” means the direct EU legislation referred to in paragraph 1(1) of Schedule 7 to the Act;
   > - “**EU Customs Code**” means—
   >   - (a) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code;
-  >   - (b) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning provisions of the Union Customs Code; [^key-211e240108547b656f40fa37b02db7ba]...
-  >   - (c) Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code; and[^key-32f3b0d79c2dbf87732205d2f85936aa]
-  >   - (d) Commission Delegated Regulation (EU) 2016/341 of 17 December 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards transitional rules for certain provisions of the Union Customs Code where the relevant electronic systems are not yet operational and amending Delegated Regulation (EU) 2015/2446;[^key-d01be371f9189c95d851948d167b31fe]
+  >   - (b) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning provisions of the Union Customs Code; [^c-211e240108547b656f40fa37b02db7ba]...
+  >   - (c) Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code; and[^c-32f3b0d79c2dbf87732205d2f85936aa]
+  >   - (d) Commission Delegated Regulation (EU) 2016/341 of 17 December 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards transitional rules for certain provisions of the Union Customs Code where the relevant electronic systems are not yet operational and amending Delegated Regulation (EU) 2015/2446;[^c-d01be371f9189c95d851948d167b31fe]
 
   .
 
-(3)[^key-ca3c37c366b905808734fe3ef55791e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ca3c37c366b905808734fe3ef55791e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018
 
-### 6. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^key-da85f8b0c7898917602f18e8c12119a4][^key-09a5087d30922e8ea7961bdf1b471ac0]
+### 6. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^c-da85f8b0c7898917602f18e8c12119a4][^c-09a5087d30922e8ea7961bdf1b471ac0]
 
 The Customs (Import Duty) (EU Exit) Regulations 2018 are amended in accordance with this Part.
 
-### 7. Amendment of Table of Contents[^key-eaaf399f5ade97fd3e75f9305d458c2f][^key-0b5a0ea18480169f3592509b982cc376]
+### 7. Amendment of Table of Contents[^c-eaaf399f5ade97fd3e75f9305d458c2f][^c-0b5a0ea18480169f3592509b982cc376]
 
 In the Table of Contents, after the entry for regulation 37 insert— “ SECTION 3 Simplified Customs declarations – transitional provisions 37A Persons authorised to use the simplified Customs declaration process and EIDR procedure – transitional authorisations ”.
 
-### 8. Amendment of Part 2[^key-e03f79ab8dda82c16b53d16f15737aeb][^key-7bd09b90d0142c71e73bfe24ef27631e]
+### 8. Amendment of Part 2[^c-e03f79ab8dda82c16b53d16f15737aeb][^c-7bd09b90d0142c71e73bfe24ef27631e]
 
 In regulation 4 (notification of importation)—
 
@@ -196,11 +196,11 @@ In regulation 4 (notification of importation)—
 
   .
 
-### 9. Amendment of Part 4[^key-7a75757dc06866ea3c861f88d860fd89][^key-e2bb658e9393e46f4271211d4926918a]
+### 9. Amendment of Part 4[^c-7a75757dc06866ea3c861f88d860fd89][^c-e2bb658e9393e46f4271211d4926918a]
 
-(1)[^key-b4a18dbf10ee58ea1615f208e412a972][^key-7a75757dc06866ea3c861f88d860fd89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-b4a18dbf10ee58ea1615f208e412a972][^c-7a75757dc06866ea3c861f88d860fd89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-7a75757dc06866ea3c861f88d860fd89][^key-39c5a4ee62e0ff338ce0fe9ae722ae55] In regulation 31 (persons authorised to use the simplified Customs declaration process)—
+(2)[^c-7a75757dc06866ea3c861f88d860fd89][^c-39c5a4ee62e0ff338ce0fe9ae722ae55] In regulation 31 (persons authorised to use the simplified Customs declaration process)—
 
 - (a) in paragraph (2)—
   - (i) for “paragraph (4)” substitute “ paragraphs (4) and (4A) and regulation 37A ”;
@@ -216,20 +216,20 @@ In regulation 4 (notification of importation)—
   > (4A) A person may be authorised as an authorised declarant on or before 30th June 2019 even if the person does not meet the eligibility criterion in paragraph (2)(c).
 
   ;
-- (c)[^key-d25c3ed1f8f5f239afaa98d7ae4d73fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-d25c3ed1f8f5f239afaa98d7ae4d73fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) after paragraph (7) insert—
 
   > (8) A Customs agent may use the simplified Customs declaration process if—
   >
-  > - (a) the agent is an authorised declarant; [^key-dd248b8c9bd08fd53bc96bb6f62f6beb]...
-  > - (b) the agent intends to act as a direct agent on behalf of the principal of the agent in making the Customs declaration ; and[^key-374051a549210dabc44ed7da3f62aeba]
-  > - (c)[^key-9c073e879a87cf320a1f070077221fc8] the principal is established in the United Kingdom.
+  > - (a) the agent is an authorised declarant; [^c-dd248b8c9bd08fd53bc96bb6f62f6beb]...
+  > - (b) the agent intends to act as a direct agent on behalf of the principal of the agent in making the Customs declaration ; and[^c-374051a549210dabc44ed7da3f62aeba]
+  > - (c)[^c-9c073e879a87cf320a1f070077221fc8] the principal is established in the United Kingdom.
 
   .
 
-(3)[^key-481b39e3fb07ad15755ce191e77221e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-481b39e3fb07ad15755ce191e77221e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7a75757dc06866ea3c861f88d860fd89][^key-39c5a4ee62e0ff338ce0fe9ae722ae55] In regulation 37 (persons authorised to use the EIDR procedure)—
+(4)[^c-7a75757dc06866ea3c861f88d860fd89][^c-39c5a4ee62e0ff338ce0fe9ae722ae55] In regulation 37 (persons authorised to use the EIDR procedure)—
 
 - (a) in paragraph (1)—
   - (i) after “a person” insert “ (“an authorised EIDR declarant”) ”;
@@ -253,21 +253,21 @@ In regulation 4 (notification of importation)—
 
   > (7) A Customs agent may use the EIDR procedure if—
   >
-  > - (a) the agent is an authorised EIDR declarant; [^key-11fcedb941058cf62346c43ae966c82b]...
-  > - (b) the agent intends to act as a direct agent on behalf of the principal of the agent in making the Customs declaration ; and[^key-eed833b18a309d79a5c654e3958704c7]
-  > - (c)[^key-8899f6b969e2b1ce27ccf66e3cd140d0] the principal is established in the United Kingdom.
+  > - (a) the agent is an authorised EIDR declarant; [^c-11fcedb941058cf62346c43ae966c82b]...
+  > - (b) the agent intends to act as a direct agent on behalf of the principal of the agent in making the Customs declaration ; and[^c-eed833b18a309d79a5c654e3958704c7]
+  > - (c)[^c-8899f6b969e2b1ce27ccf66e3cd140d0] the principal is established in the United Kingdom.
 
   .
 
-(5)[^key-3c0195b9f7e4e098f035cb1bff24bdfd][^key-7a75757dc06866ea3c861f88d860fd89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3c0195b9f7e4e098f035cb1bff24bdfd][^c-7a75757dc06866ea3c861f88d860fd89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of Part 5[^key-429ca15ffec05771440f3b07c2b4c295]
+### 10. Amendment of Part 5[^c-429ca15ffec05771440f3b07c2b4c295]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment of Part 6[^key-4b655bccfb7ba7b742b544ac2187ecae]
+### 11. Amendment of Part 6[^c-4b655bccfb7ba7b742b544ac2187ecae]
 
 **Not yet in force.**
 
@@ -290,7 +290,7 @@ In regulation 4 (notification of importation)—
 >
 > - (a) a person who is liable to pay import duty is approved by HMRC to defer payment of any liability to import duty; and
 > - (b) either—
->   - (i) paragraph (2) does not apply and the approval was given before the end of the period of six months beginning with exit day[^key-a668034cfc631ffa392d926d7c346308]; or
+>   - (i) paragraph (2) does not apply and the approval was given before the end of the period of six months beginning with exit day[^c-a668034cfc631ffa392d926d7c346308]; or
 >   - (ii) a comprehensive guarantee is given in relation to the payment of the liability to import duty,
 >
 > the person must pay the duty for which the person is liable before the end of the period of 15 days beginning with the date following the date on which the person is notified of the liability.
@@ -303,7 +303,7 @@ In regulation 4 (notification of importation)—
 
 .
 
-### 12. Amendment of Part 10[^key-028be5b8858fd7f5bb6252a73ac021de][^key-2c1653d35fcc6f1fcc4e48f6e2d289b4]
+### 12. Amendment of Part 10[^c-028be5b8858fd7f5bb6252a73ac021de][^c-2c1653d35fcc6f1fcc4e48f6e2d289b4]
 
 (1) In regulation 97 (single and comprehensive guarantees)—
 
@@ -324,8 +324,8 @@ In regulation 4 (notification of importation)—
   > (2A) If the amount of the liability or potential liability to import duty exceeds the specified amount of the guarantee before 1 July 2019 the person liable or potentially liable to that import duty must notify HMRC on 1 July 2019 or as soon as practicable after that date.
 
   ;
-- (c)[^key-b6020dcffbb11e7922a63fb55b00e0ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-2f98dba9e2a825fb3b183a8df02752c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b6020dcffbb11e7922a63fb55b00e0ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2f98dba9e2a825fb3b183a8df02752c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 99 (specified amount: reduced amounts and waivers in relation to comprehensive guarantees)—
 
@@ -362,7 +362,7 @@ In regulation 4 (notification of importation)—
   >   - (ii) paragraph (1A);
 - (e) in paragraph (4) for “paragraphs (2) and (3)” substitute “ paragraphs (2)(a)(i) and (b) and (3)(a)(i) and (b) to (f) ”.
 
-### 13. Amendment of Part 13[^key-ff72b7c31aae26972075a6e30af9fbe6][^key-b5ac87fa956a61d2d0e928f7a17fdaf6]
+### 13. Amendment of Part 13[^c-ff72b7c31aae26972075a6e30af9fbe6][^c-b5ac87fa956a61d2d0e928f7a17fdaf6]
 
 In regulation 131 (chargeable goods carried by RoRo vehicles destined for RoRo listed locations: making of declarations)—
 
@@ -378,35 +378,35 @@ In regulation 131 (chargeable goods carried by RoRo vehicles destined for RoRo l
 
 ## PART 4 — Special procedures, outward processing and transit
 
-### 14. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^key-ffadbcab3ddfada5903e189ccfd10dd9][^key-483f19499f610027860fcf83ff82cead]
+### 14. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^c-ffadbcab3ddfada5903e189ccfd10dd9][^c-483f19499f610027860fcf83ff82cead]
 
-(1)[^key-ffadbcab3ddfada5903e189ccfd10dd9] The Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018 [^c23604231] are amended as follows.
+(1)[^c-ffadbcab3ddfada5903e189ccfd10dd9] The Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018 [^c23604231] are amended as follows.
 
-(2)[^key-ffadbcab3ddfada5903e189ccfd10dd9] In regulation 9(1) (eligibility for authorisation or approval) omit sub-paragraph (b).
+(2)[^c-ffadbcab3ddfada5903e189ccfd10dd9] In regulation 9(1) (eligibility for authorisation or approval) omit sub-paragraph (b).
 
 (3) In regulation 29(7) (standard exchange system)—
 
-- (a)[^key-ba83dcb652dde6750fbf9bc30ad5a660] in sub-paragraph (a) after the semi-colon insert “ and ”;
-- (b)[^key-ba83dcb652dde6750fbf9bc30ad5a660] in sub-paragraph (b)(ii) omit “and”;
-- (c)[^key-ffadbcab3ddfada5903e189ccfd10dd9] omit sub-paragraph (c).
+- (a)[^c-ba83dcb652dde6750fbf9bc30ad5a660] in sub-paragraph (a) after the semi-colon insert “ and ”;
+- (b)[^c-ba83dcb652dde6750fbf9bc30ad5a660] in sub-paragraph (b)(ii) omit “and”;
+- (c)[^c-ffadbcab3ddfada5903e189ccfd10dd9] omit sub-paragraph (c).
 
-### 15. Amendment of the Customs Transit Procedures (EU Exit) Regulations 2018[^key-680ce9ba851ea1b3c0719a66759e6730][^key-7d5b6299b8de4a72645504407ac27df9]
+### 15. Amendment of the Customs Transit Procedures (EU Exit) Regulations 2018[^c-680ce9ba851ea1b3c0719a66759e6730][^c-7d5b6299b8de4a72645504407ac27df9]
 
 (1) The Customs Transit Procedures (EU Exit) Regulations 2018 [^c23604241] are amended as follows.
 
 (2) In paragraph 2 of Schedule 1—
 
-- (a)[^key-3677fb2ca0f5b55fee316dee23c4e309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3677fb2ca0f5b55fee316dee23c4e309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (1) before “The goods in paragraph 1(1)” insert “ Where sub-paragraph (A1) does not apply, ”;
 - (c) in paragraph (4) after “sub-paragraph (1)” insert “ or provided under sub-paragraph (A1) ”.
 
 (3) In paragraph 27 of Schedule 1—
 
-- (a)[^key-7d0f984d6c75f6e22a331ae4020d6653] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d0f984d6c75f6e22a331ae4020d6653] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (1) before “The goods” insert “ Where sub-paragraph (A1) does not apply, ”;
 - (c) in paragraph (3) after “sub-paragraph (1)” insert “ or provided under sub-paragraph (A1) ”.
 
-(4)[^key-7145f0f5b4b0239e652151a7b8a9d215] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7145f0f5b4b0239e652151a7b8a9d215] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Paul Maynard
 
@@ -446,118 +446,118 @@ This instrument will be covered by an overarching HMRC impact assessment (third 
 
 [^c23604161]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). The Treasury is the appropriate minister for the purposes of section 51(1) by virtue of subsection (4) of that section and for the purposes section 56(1) by virtue of subsection (5) of that section.
 
-[^key-5ed1911c2784fdad059e65afe6c5e5b0]: Commencement: Reg. 1 in force at 21.3.2019, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/3/a)
+[^c-5ed1911c2784fdad059e65afe6c5e5b0]: Commencement: Reg. 1 in force at 21.3.2019, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/3/a)
 
 [^c23604171]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248). There is an amending instrument, but it is not relevant.
 
-[^key-ce2479c2dbdaa02b78273ec7346b8125]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
+[^c-ce2479c2dbdaa02b78273ec7346b8125]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
 
-[^key-152b02922e9719dedf76f2c0f6560c3a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/326/regulation/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-152b02922e9719dedf76f2c0f6560c3a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/326/regulation/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23604181]: Marginal citation: [S.I. 1981/1260](https://www.legislation.gov.uk/uksi/1981/1260); amended by [S.I. 1986/1819](https://www.legislation.gov.uk/uksi/1986/1819) and 2018/1247. There are other amending instruments, but none is relevant.
 
-[^key-2aaf457999aab90cbd8af6098551592a]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
+[^c-2aaf457999aab90cbd8af6098551592a]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
 
-[^key-a2d3a60bdfdaff00449c0fbc1ec14d9d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/326/regulation/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a2d3a60bdfdaff00449c0fbc1ec14d9d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/326/regulation/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23604191]: Marginal citation: [S.I. 1993/1353](https://www.legislation.gov.uk/uksi/1993/1353); the schedule was substituted by [S.I. 2019/140](https://www.legislation.gov.uk/uksi/2019/140). There are other amending instruments, but none is relevant.
 
-[^key-d2a491376c83ef838323f83bbda804b3]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
+[^c-d2a491376c83ef838323f83bbda804b3]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
 
-[^key-8d4f65a48f9097d3809ef9aa2e5912f7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/326/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-8d4f65a48f9097d3809ef9aa2e5912f7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/326/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23604201]: Marginal citation: [S.I. 2003/3113](https://www.legislation.gov.uk/uksi/2003/3113), amended by [S.I. 2018/1260](https://www.legislation.gov.uk/uksi/2018/1260). There are other amending instruments, but none is relevant.
 
-[^key-7e51905d9087b71a97a42882ace22065]: Commencement: Reg. 5 not in force at made date, see reg. 1(2)
+[^c-7e51905d9087b71a97a42882ace22065]: Commencement: Reg. 5 not in force at made date, see reg. 1(2)
 
-[^key-ae6654af2153352ea36ca371e04d7dc8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/326/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-ae6654af2153352ea36ca371e04d7dc8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/326/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23604211]: Marginal citation: [S.I. 2018/1247](https://www.legislation.gov.uk/uksi/2018/1247).
 
-[^key-9c33eb321fdf0d78a29727ee0a69ca8a]: Textual amendment: Words in reg. 5(2)(b) substituted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [14(2)(a)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/14/2/a)
+[^c-9c33eb321fdf0d78a29727ee0a69ca8a]: Textual amendment: Words in reg. 5(2)(b) substituted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [14(2)(a)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/14/2/a)
 
-[^key-211e240108547b656f40fa37b02db7ba]: Textual amendment: Word in reg. 5(2)(b) omitted (30.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [14(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/14/2/b/i)
+[^c-211e240108547b656f40fa37b02db7ba]: Textual amendment: Word in reg. 5(2)(b) omitted (30.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [14(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/14/2/b/i)
 
-[^key-32f3b0d79c2dbf87732205d2f85936aa]: Textual amendment: Word in reg. 5(2)(b) inserted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [14(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/14/2/b/ii)
+[^c-32f3b0d79c2dbf87732205d2f85936aa]: Textual amendment: Word in reg. 5(2)(b) inserted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [14(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/14/2/b/ii)
 
-[^key-d01be371f9189c95d851948d167b31fe]: Textual amendment: Words in reg. 5(2)(b) inserted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [14(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/14/2/b/iii)
+[^c-d01be371f9189c95d851948d167b31fe]: Textual amendment: Words in reg. 5(2)(b) inserted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [14(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/14/2/b/iii)
 
-[^key-ca3c37c366b905808734fe3ef55791e7]: Textual amendment: Reg. 5(3) omitted (3.10.2019) by virtue of [The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1215)](https://www.legislation.gov.uk/uksi/2019/1215), [regs. 1(3)(e)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/3/e), [15(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/15/2)
+[^c-ca3c37c366b905808734fe3ef55791e7]: Textual amendment: Reg. 5(3) omitted (3.10.2019) by virtue of [The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1215)](https://www.legislation.gov.uk/uksi/2019/1215), [regs. 1(3)(e)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/3/e), [15(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/15/2)
 
-[^key-da85f8b0c7898917602f18e8c12119a4]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
+[^c-da85f8b0c7898917602f18e8c12119a4]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
 
-[^key-09a5087d30922e8ea7961bdf1b471ac0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/326/regulation/6) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-09a5087d30922e8ea7961bdf1b471ac0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/326/regulation/6) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-eaaf399f5ade97fd3e75f9305d458c2f]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
+[^c-eaaf399f5ade97fd3e75f9305d458c2f]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
 
-[^key-0b5a0ea18480169f3592509b982cc376]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/326/regulation/7) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-0b5a0ea18480169f3592509b982cc376]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/326/regulation/7) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-e03f79ab8dda82c16b53d16f15737aeb]: Commencement: Reg. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
+[^c-e03f79ab8dda82c16b53d16f15737aeb]: Commencement: Reg. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
 
-[^key-7bd09b90d0142c71e73bfe24ef27631e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/326/regulation/8) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-7bd09b90d0142c71e73bfe24ef27631e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/326/regulation/8) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23604221]: Marginal citation: “CEMA 1979” is defined in section 37(1) of the Act as the [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-7a75757dc06866ea3c861f88d860fd89]: Commencement: Reg. 9(1)(2)(4)(5) in force at 21.3.2019 for specified purposes, see reg. 1(4)(a)
+[^c-7a75757dc06866ea3c861f88d860fd89]: Commencement: Reg. 9(1)(2)(4)(5) in force at 21.3.2019 for specified purposes, see reg. 1(4)(a)
 
-[^key-e2bb658e9393e46f4271211d4926918a]: Commencement: Reg. 9(3) not in force at made date, see reg. 1(2)
+[^c-e2bb658e9393e46f4271211d4926918a]: Commencement: Reg. 9(3) not in force at made date, see reg. 1(2)
 
-[^key-b4a18dbf10ee58ea1615f208e412a972]: Textual amendment: Reg. 9(1) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/a)
+[^c-b4a18dbf10ee58ea1615f208e412a972]: Textual amendment: Reg. 9(1) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/a)
 
-[^key-39c5a4ee62e0ff338ce0fe9ae722ae55]: Commencement: Reg. 9(2)(4) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-39c5a4ee62e0ff338ce0fe9ae722ae55]: Commencement: Reg. 9(2)(4) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-d25c3ed1f8f5f239afaa98d7ae4d73fe]: Textual amendment: Reg. 9(2)(c) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/b)
+[^c-d25c3ed1f8f5f239afaa98d7ae4d73fe]: Textual amendment: Reg. 9(2)(c) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/b)
 
-[^key-dd248b8c9bd08fd53bc96bb6f62f6beb]: Textual amendment: Word in reg. 9(2)(d) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/c/i)
+[^c-dd248b8c9bd08fd53bc96bb6f62f6beb]: Textual amendment: Word in reg. 9(2)(d) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/c/i)
 
-[^key-374051a549210dabc44ed7da3f62aeba]: Textual amendment: Word in reg. 9(2)(d) inserted (29.10.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/c/ii)
+[^c-374051a549210dabc44ed7da3f62aeba]: Textual amendment: Word in reg. 9(2)(d) inserted (29.10.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/c/ii)
 
-[^key-9c073e879a87cf320a1f070077221fc8]: Textual amendment: Words in reg. 9(2)(d) inserted (29.10.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/c/iii)
+[^c-9c073e879a87cf320a1f070077221fc8]: Textual amendment: Words in reg. 9(2)(d) inserted (29.10.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/c/iii)
 
-[^key-481b39e3fb07ad15755ce191e77221e4]: Textual amendment: Reg. 9(3) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(d)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/d)
+[^c-481b39e3fb07ad15755ce191e77221e4]: Textual amendment: Reg. 9(3) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(d)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/d)
 
-[^key-11fcedb941058cf62346c43ae966c82b]: Textual amendment: Word in reg. 9(4)(e) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/e/i)
+[^c-11fcedb941058cf62346c43ae966c82b]: Textual amendment: Word in reg. 9(4)(e) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/e/i)
 
-[^key-eed833b18a309d79a5c654e3958704c7]: Textual amendment: Word in reg. 9(4)(e) inserted (29.10.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/e/ii)
+[^c-eed833b18a309d79a5c654e3958704c7]: Textual amendment: Word in reg. 9(4)(e) inserted (29.10.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/e/ii)
 
-[^key-8899f6b969e2b1ce27ccf66e3cd140d0]: Textual amendment: Words in reg. 9(4)(e) inserted (29.10.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/e/iii)
+[^c-8899f6b969e2b1ce27ccf66e3cd140d0]: Textual amendment: Words in reg. 9(4)(e) inserted (29.10.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/e/iii)
 
-[^key-3c0195b9f7e4e098f035cb1bff24bdfd]: Textual amendment: Reg. 9(5) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(f)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/f)
+[^c-3c0195b9f7e4e098f035cb1bff24bdfd]: Textual amendment: Reg. 9(5) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(2)(f)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/2/f)
 
-[^key-429ca15ffec05771440f3b07c2b4c295]: Textual amendment: Reg. 10 omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/3)
+[^c-429ca15ffec05771440f3b07c2b4c295]: Textual amendment: Reg. 10 omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/3)
 
-[^key-4b655bccfb7ba7b742b544ac2187ecae]: Commencement: Reg. 11 not in force at made date, see reg. 1(2)
+[^c-4b655bccfb7ba7b742b544ac2187ecae]: Commencement: Reg. 11 not in force at made date, see reg. 1(2)
 
-[^key-a668034cfc631ffa392d926d7c346308]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2019/326/regulation/11/3) substituted (3.10.2019) by [The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1215)](https://www.legislation.gov.uk/uksi/2019/1215), [regs. 1(3)(e)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/3/e), [15(4)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/15/4)
+[^c-a668034cfc631ffa392d926d7c346308]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2019/326/regulation/11/3) substituted (3.10.2019) by [The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1215)](https://www.legislation.gov.uk/uksi/2019/1215), [regs. 1(3)(e)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/3/e), [15(4)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/15/4)
 
-[^key-028be5b8858fd7f5bb6252a73ac021de]: Commencement: Reg. 12 in force at 21.3.2019 for specified purposes, see reg. 1(4)(b)
+[^c-028be5b8858fd7f5bb6252a73ac021de]: Commencement: Reg. 12 in force at 21.3.2019 for specified purposes, see reg. 1(4)(b)
 
-[^key-2c1653d35fcc6f1fcc4e48f6e2d289b4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/326/regulation/12) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2c1653d35fcc6f1fcc4e48f6e2d289b4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/326/regulation/12) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-b6020dcffbb11e7922a63fb55b00e0ad]: Textual amendment: Reg. 12(2)(c) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/4/a)
+[^c-b6020dcffbb11e7922a63fb55b00e0ad]: Textual amendment: Reg. 12(2)(c) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/4/a)
 
-[^key-2f98dba9e2a825fb3b183a8df02752c1]: Textual amendment: Reg. 12(2)(d) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/4/b)
+[^c-2f98dba9e2a825fb3b183a8df02752c1]: Textual amendment: Reg. 12(2)(d) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/6/4/b)
 
-[^key-ff72b7c31aae26972075a6e30af9fbe6]: Commencement: Reg. 13 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
+[^c-ff72b7c31aae26972075a6e30af9fbe6]: Commencement: Reg. 13 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
 
-[^key-b5ac87fa956a61d2d0e928f7a17fdaf6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/326/regulation/13) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b5ac87fa956a61d2d0e928f7a17fdaf6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/326/regulation/13) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-ffadbcab3ddfada5903e189ccfd10dd9]: Commencement: Reg. 14(1)(2)(3)(c) in force at 21.3.2019, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/3/b)
+[^c-ffadbcab3ddfada5903e189ccfd10dd9]: Commencement: Reg. 14(1)(2)(3)(c) in force at 21.3.2019, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/3/b)
 
-[^key-483f19499f610027860fcf83ff82cead]: Commencement: Reg. 14(3)(a)(b) not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
+[^c-483f19499f610027860fcf83ff82cead]: Commencement: Reg. 14(3)(a)(b) not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/326/regulation/1/2)
 
 [^c23604231]: Marginal citation: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249). There is an amending instrument, but it is not relevant.
 
-[^key-ba83dcb652dde6750fbf9bc30ad5a660]: Commencement: [Reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/2019/326/regulation/14/3/a)[(b)](https://www.legislation.gov.uk/uksi/2019/326/regulation/14/3/b) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-ba83dcb652dde6750fbf9bc30ad5a660]: Commencement: [Reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/2019/326/regulation/14/3/a)[(b)](https://www.legislation.gov.uk/uksi/2019/326/regulation/14/3/b) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-680ce9ba851ea1b3c0719a66759e6730]: Commencement: Reg. 15 not in force at made date, see reg. 1(2)
+[^c-680ce9ba851ea1b3c0719a66759e6730]: Commencement: Reg. 15 not in force at made date, see reg. 1(2)
 
-[^key-7d5b6299b8de4a72645504407ac27df9]: Commencement: Reg. 15 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-7d5b6299b8de4a72645504407ac27df9]: Commencement: Reg. 15 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23604241]: Marginal citation: [S.I. 2018/1258](https://www.legislation.gov.uk/uksi/2018/1258).
 
-[^key-3677fb2ca0f5b55fee316dee23c4e309]: Textual amendment: [Reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2019/326/regulation/15/2/a) omitted (31.12.2020) by virtue of [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1491/regulation/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3677fb2ca0f5b55fee316dee23c4e309]: Textual amendment: [Reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2019/326/regulation/15/2/a) omitted (31.12.2020) by virtue of [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1491/regulation/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-7d0f984d6c75f6e22a331ae4020d6653]: Textual amendment: [Reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2019/326/regulation/15/3/a) omitted (31.12.2020) by virtue of [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1491/regulation/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-7d0f984d6c75f6e22a331ae4020d6653]: Textual amendment: [Reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2019/326/regulation/15/3/a) omitted (31.12.2020) by virtue of [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1491/regulation/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-7145f0f5b4b0239e652151a7b8a9d215]: Textual amendment: Reg. 15(4) omitted (3.10.2019) by virtue of [The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1215)](https://www.legislation.gov.uk/uksi/2019/1215), [regs. 1(3)(e)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/3/e), [15(5)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/15/5)
+[^c-7145f0f5b4b0239e652151a7b8a9d215]: Textual amendment: Reg. 15(4) omitted (3.10.2019) by virtue of [The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1215)](https://www.legislation.gov.uk/uksi/2019/1215), [regs. 1(3)(e)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/3/e), [15(5)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/15/5)

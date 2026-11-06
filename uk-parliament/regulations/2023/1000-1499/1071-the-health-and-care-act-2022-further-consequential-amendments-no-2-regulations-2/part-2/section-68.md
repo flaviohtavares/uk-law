@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Amendment of the National Health Service (Procurement, Patient Choice and Competition) (No.2) Regulations 2013[^key-d4e1306957e4328ba21e6f2fd571db33]
+## 68. Amendment of the National Health Service (Procurement, Patient Choice and Competition) (No.2) Regulations 2013[^c-d4e1306957e4328ba21e6f2fd571db33]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4e1306957e4328ba21e6f2fd571db33]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2023/1071/regulation/68) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-d4e1306957e4328ba21e6f2fd571db33]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2023/1071/regulation/68) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00057]: Footnote: [S.I. 2013/500](https://www.legislation.gov.uk/uksi/2013/500), to which there are amendments not relevant to these Regulations.

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The appropriate agency[^key-21423ce0d47eaa650fb851bfceea3f8e] may, on the application of any person who is liable to pay charges to the appropriate agency for the abstraction of water under a licence under Chapter II of Part II of this Act, make an agreement with him either exempting him from the payment of charges or providing for charges to be levied on him at reduced rates specified in the agreement.
+(1) The appropriate agency[^c-21423ce0d47eaa650fb851bfceea3f8e] may, on the application of any person who is liable to pay charges to the appropriate agency for the abstraction of water under a licence under Chapter II of Part II of this Act, make an agreement with him either exempting him from the payment of charges or providing for charges to be levied on him at reduced rates specified in the agreement.
 
 (2) In the exercise of its powers under subsection (1) above in relation to any person, the appropriate agency shall have regard to—
 
@@ -48,6 +48,6 @@ the applicant or the appropriate agency may refer the question in dispute to the
 
 ## Annotations
 
-[^key-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18735491]: Textual amendment: S. 126(6) repealed (21.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1/3), [Sch. 22 para. 153](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/153), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3)

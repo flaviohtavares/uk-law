@@ -22,7 +22,7 @@ summary: ''
 
 (1) The principal objective of the Department and the Authority in carrying out their respective electricity functions is to protect the interests of consumers of electricity supplied by authorised suppliers, wherever appropriate by promoting effective competition between persons engaged in, or in commercial activities connected with, the generation, transmission , distribution[^c21264531] or supply of electricity.
 
-(1A)[^c21264561] The interests of consumers include their interests in the fulfilment by the Authority, when carrying out its functions as designated regulatory authority for Northern Ireland, of the objectives set out in Article 58(a) to (c), (d) (except insofar as it relates to heat) and (e) to (h)[^key-5c53c94708024128dae0ae39612ad26d] of the Electricity Directive.
+(1A)[^c21264561] The interests of consumers include their interests in the fulfilment by the Authority, when carrying out its functions as designated regulatory authority for Northern Ireland, of the objectives set out in Article 58(a) to (c), (d) (except insofar as it relates to heat) and (e) to (h)[^c-5c53c94708024128dae0ae39612ad26d] of the Electricity Directive.
 
 (2) The Department and the Authority shall carry out those functions in the manner which it considers is best calculated to further the principal objective, having regard to—
 
@@ -53,8 +53,8 @@ and shall have regard, in carrying out those functions, to the effect on the env
 
 (5A)[^c22552971] The duties under paragraph (5) shall, in particular, include—
 
-- (a) ensuring the provision of the incentives referred to in Article 15(1) of the Energy Efficiency Directive, where appropriate and having taken into account the costs and benefits, and ensuring that no incentives are provided contrary to Article 15(4) of that Directive; [^key-4507d3ac746e97d70cae52e8bd199ab5]...
-- (b)[^key-4507d3ac746e97d70cae52e8bd199ab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) ensuring the provision of the incentives referred to in Article 15(1) of the Energy Efficiency Directive, where appropriate and having taken into account the costs and benefits, and ensuring that no incentives are provided contrary to Article 15(4) of that Directive; [^c-4507d3ac746e97d70cae52e8bd199ab5]...
+- (b)[^c-4507d3ac746e97d70cae52e8bd199ab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5B) Before 30 June 2015, the Authority shall deliver to the Department—
 
@@ -67,8 +67,8 @@ and shall have regard, in carrying out those functions, to the effect on the env
 
 (7) In this Article—
 
-- “electricity functions” means—[^key-ed6c004d93babb1c95badb3ac03c6598]
-  - (a) functions under Part II of the Electricity Order and functions under this Order relating to electricity ;[^key-2eaea6805508115aef4fbf654ca06614]
+- “electricity functions” means—[^c-ed6c004d93babb1c95badb3ac03c6598]
+  - (a) functions under Part II of the Electricity Order and functions under this Order relating to electricity ;[^c-2eaea6805508115aef4fbf654ca06614]
   - (b) the functions which the Department has under section 5 (so far as relating to electricity) and section 6 of the Energy Prices Act 2022 (see Schedule 5 to that Act);
   - (c) the Authority’s function of giving directions under section 6(3) of the Energy Prices Act 2022;
   - (d) functions under regulations made under section 11(1) of the Energy Prices Act 2022;
@@ -83,7 +83,7 @@ and shall have regard, in carrying out those functions, to the effect on the env
 
 [^c21264561]: Textual amendment: Art. 12(1A) inserted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 39](https://www.legislation.gov.uk/nisr/2011/155/regulation/39)
 
-[^key-5c53c94708024128dae0ae39612ad26d]: Textual amendment: Words in [art. 12(1A)](https://www.legislation.gov.uk/nisi/2003/419/article/12/1A) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [25(a)](https://www.legislation.gov.uk/nisr/2020/307/regulation/25/a)
+[^c-5c53c94708024128dae0ae39612ad26d]: Textual amendment: Words in [art. 12(1A)](https://www.legislation.gov.uk/nisi/2003/419/article/12/1A) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [25(a)](https://www.legislation.gov.uk/nisr/2020/307/regulation/25/a)
 
 [^c20601871]: Textual amendment: Words in art. 12(2)(a) inserted (20.6.2007) by [Electricity (Single Wholesale Market) (Northern Ireland) Order 2007 (S.I. 2007/913 (N.I. 7))](https://www.legislation.gov.uk/nisi/2007/913), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/913/article/1/3), [12](https://www.legislation.gov.uk/nisi/2007/913/article/12), [Sch. 4 para. 9](https://www.legislation.gov.uk/nisi/2007/913/schedule/4/paragraph/9); [S.R. 2007/303](https://www.legislation.gov.uk/nisr/2007/303), [art. 2](https://www.legislation.gov.uk/nisr/2007/303/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/303/schedule)
 
@@ -109,10 +109,10 @@ and shall have regard, in carrying out those functions, to the effect on the env
 
 [^c22552971]: Textual amendment: Art. 12(5A)-(5C) inserted (25.7.2014) by [Energy Efficiency Regulations (Northern Ireland) 2014 (S.R. 2014/198)](https://www.legislation.gov.uk/nisr/2014/198), [reg. 4(b)](https://www.legislation.gov.uk/nisr/2014/198/regulation/4/b)
 
-[^key-4507d3ac746e97d70cae52e8bd199ab5]: Textual amendment: [Art. 12(5A)(b)](https://www.legislation.gov.uk/nisi/2003/419/article/12/5A/b) and word omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [25(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/25/b)
+[^c-4507d3ac746e97d70cae52e8bd199ab5]: Textual amendment: [Art. 12(5A)(b)](https://www.legislation.gov.uk/nisi/2003/419/article/12/5A/b) and word omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [25(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/25/b)
 
 [^c21264671]: Textual amendment: Words in art. 12(6) inserted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 34(b)(iii)](https://www.legislation.gov.uk/nisr/2011/155/regulation/34/b/iii)
 
-[^key-ed6c004d93babb1c95badb3ac03c6598]: Textual amendment: Words in [art. 12(7)](https://www.legislation.gov.uk/nisi/2003/419/article/12/7) substituted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 8(a)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/8/a) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-ed6c004d93babb1c95badb3ac03c6598]: Textual amendment: Words in [art. 12(7)](https://www.legislation.gov.uk/nisi/2003/419/article/12/7) substituted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 8(a)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/8/a) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-2eaea6805508115aef4fbf654ca06614]: Textual amendment: Words in [art. 12(7)](https://www.legislation.gov.uk/nisi/2003/419/article/12/7) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 8(b)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/8/b) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-2eaea6805508115aef4fbf654ca06614]: Textual amendment: Words in [art. 12(7)](https://www.legislation.gov.uk/nisi/2003/419/article/12/7) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 8(b)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/8/b) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))

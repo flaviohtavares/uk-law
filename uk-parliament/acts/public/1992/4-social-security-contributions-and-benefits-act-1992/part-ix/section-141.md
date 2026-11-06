@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S*
 
-A person who is responsible for one or more children or qualifying young persons[^key-284c313535036788150d13c3baa49271] in any week shall be entitled, subject to the provisions of this Part of this Act, to a benefit (to be known as “child benefit") for that week in respect of the child or qualifying young person, or each of the children or qualifying young persons,[^key-acfa6bde5eb64ba4597c6119c0df328e] for whom he is responsible.
+A person who is responsible for one or more children or qualifying young persons[^c-284c313535036788150d13c3baa49271] in any week shall be entitled, subject to the provisions of this Part of this Act, to a benefit (to be known as “child benefit") for that week in respect of the child or qualifying young person, or each of the children or qualifying young persons,[^c-acfa6bde5eb64ba4597c6119c0df328e] for whom he is responsible.
 
 ## Annotations
 
-[^key-284c313535036788150d13c3baa49271]: Textual amendment: Words in s. 141 inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [ss. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2005/6/section/1/1/a), [6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2)
+[^c-284c313535036788150d13c3baa49271]: Textual amendment: Words in s. 141 inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [ss. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2005/6/section/1/1/a), [6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2)
 
-[^key-acfa6bde5eb64ba4597c6119c0df328e]: Textual amendment: Words in s. 141 substituted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [ss. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2005/6/section/1/1/b), [6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2)
+[^c-acfa6bde5eb64ba4597c6119c0df328e]: Textual amendment: Words in s. 141 substituted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [ss. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2005/6/section/1/1/b), [6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2)

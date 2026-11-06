@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264. Schemes constituted in other EEA States.[^key-dd263a727e2a07d895442be95052b082]
+## 264. Schemes constituted in other EEA States.[^c-dd263a727e2a07d895442be95052b082]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd263a727e2a07d895442be95052b082]: Textual amendment: Ss. 264-269 omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2019/325/regulation/25) (with [regs. 69](https://www.legislation.gov.uk/uksi/2019/325/regulation/69), [70](https://www.legislation.gov.uk/uksi/2019/325/regulation/70)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd263a727e2a07d895442be95052b082]: Textual amendment: Ss. 264-269 omitted (31.12.2020) by virtue of [The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2019/325/regulation/25) (with [regs. 69](https://www.legislation.gov.uk/uksi/2019/325/regulation/69), [70](https://www.legislation.gov.uk/uksi/2019/325/regulation/70)) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

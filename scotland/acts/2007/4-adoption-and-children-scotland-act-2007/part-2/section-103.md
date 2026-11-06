@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Restriction on making of orders under section 11 of 1995 Act[^key-f0e12827197b644a6ea2e398cfabcb5d]
+## 103. Restriction on making of orders under section 11 of 1995 Act[^c-f0e12827197b644a6ea2e398cfabcb5d]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ After section 11 of the 1995 Act insert the following section—
 
 ## Annotations
 
-[^key-f0e12827197b644a6ea2e398cfabcb5d]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2007/4/section/103) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)
+[^c-f0e12827197b644a6ea2e398cfabcb5d]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2007/4/section/103) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)

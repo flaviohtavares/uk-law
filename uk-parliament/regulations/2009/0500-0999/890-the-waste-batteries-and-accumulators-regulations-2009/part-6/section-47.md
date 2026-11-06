@@ -34,9 +34,9 @@ summary: ''
 (5) An application for approval of a proposed scheme must—
 
 - (a) be in writing and signed by the appropriate person;
-- (b)[^key-3dd59314433e1435f97857f714629ef9] include the information set out in Part 1 of Schedule 3, which must be submitted in the format published by the appropriate authority under regulation 79;
+- (b)[^c-3dd59314433e1435f97857f714629ef9] include the information set out in Part 1 of Schedule 3, which must be submitted in the format published by the appropriate authority under regulation 79;
 - (c) be accompanied by the scheme application charge.
 
 ## Annotations
 
-[^key-3dd59314433e1435f97857f714629ef9]: Textual amendment: [Reg. 47(5)(b)](https://www.legislation.gov.uk/uksi/2009/890/regulation/47/5/b) substituted (1.1.2016) by [The Waste Batteries and Accumulators (Amendment) Regulations 2015 (S.I. 2015/1935)](https://www.legislation.gov.uk/uksi/2015/1935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2015/1935/regulation/4)
+[^c-3dd59314433e1435f97857f714629ef9]: Textual amendment: [Reg. 47(5)(b)](https://www.legislation.gov.uk/uksi/2009/890/regulation/47/5/b) substituted (1.1.2016) by [The Waste Batteries and Accumulators (Amendment) Regulations 2015 (S.I. 2015/1935)](https://www.legislation.gov.uk/uksi/2015/1935), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2015/1935/regulation/4)

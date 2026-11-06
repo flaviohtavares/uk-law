@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Payments to persons who lack capacity[^key-6c7094a46c82a1de3b3ccb6c015a2efb]
+## 49. Payments to persons who lack capacity[^c-6c7094a46c82a1de3b3ccb6c015a2efb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c7094a46c82a1de3b3ccb6c015a2efb]: Commencement: Reg. 49 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-6c7094a46c82a1de3b3ccb6c015a2efb]: Commencement: Reg. 49 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

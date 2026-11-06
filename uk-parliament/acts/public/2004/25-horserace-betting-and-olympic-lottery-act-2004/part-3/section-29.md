@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. The Olympic Lottery Distributor[^key-4d60bb3758fe29519a740f35ff59e7f6]
+## 29. The Olympic Lottery Distributor[^c-4d60bb3758fe29519a740f35ff59e7f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d60bb3758fe29519a740f35ff59e7f6]: Commencement: S. 29 in force at 8.7.2005 by [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)
+[^c-4d60bb3758fe29519a740f35ff59e7f6]: Commencement: S. 29 in force at 8.7.2005 by [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)

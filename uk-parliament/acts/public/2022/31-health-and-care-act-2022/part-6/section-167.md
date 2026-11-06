@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Provision of social care services: financial assistance[^key-46215ee986a6a2a37aef94137a471c3a][^key-46a55297601e7b403af629af48ff9ca3]
+## 167. Provision of social care services: financial assistance[^c-46215ee986a6a2a37aef94137a471c3a][^c-46a55297601e7b403af629af48ff9ca3]
 
 *Extent: E+W*
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-46215ee986a6a2a37aef94137a471c3a]: Commencement: S. 167 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-46215ee986a6a2a37aef94137a471c3a]: Commencement: S. 167 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-46a55297601e7b403af629af48ff9ca3]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2022/31/section/167) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-46a55297601e7b403af629af48ff9ca3]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2022/31/section/167) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

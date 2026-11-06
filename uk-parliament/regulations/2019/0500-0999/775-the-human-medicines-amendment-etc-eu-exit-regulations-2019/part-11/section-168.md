@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Insertion of new Schedule 12A (further provision as to performance of pharmacovigilance activities)[^key-d2faab198f342cb39138401e02767e1d]
+## 168. Insertion of new Schedule 12A (further provision as to performance of pharmacovigilance activities)[^c-d2faab198f342cb39138401e02767e1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 inserts a new Schedule 12A after Schedule 12 to the 2012 Regulations.
 
 ## Annotations
 
-[^key-d2faab198f342cb39138401e02767e1d]: Commencement: Reg. 168 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d2faab198f342cb39138401e02767e1d]: Commencement: Reg. 168 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

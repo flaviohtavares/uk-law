@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Special relationships[^key-5b0fccbaf7af9f8d0c6defea210be8fc][^key-9777571b3567c9522563e811fdbed3d8]
+## 220. Special relationships[^c-5b0fccbaf7af9f8d0c6defea210be8fc][^c-9777571b3567c9522563e811fdbed3d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b0fccbaf7af9f8d0c6defea210be8fc]: Commencement: S. 220 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5b0fccbaf7af9f8d0c6defea210be8fc]: Commencement: S. 220 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-9777571b3567c9522563e811fdbed3d8]: Commencement: [S. 220](https://www.legislation.gov.uk/ukpga/2024/13/section/220) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-9777571b3567c9522563e811fdbed3d8]: Commencement: [S. 220](https://www.legislation.gov.uk/ukpga/2024/13/section/220) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

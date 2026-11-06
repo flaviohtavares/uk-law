@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Offences in relation to interim preservation of estate[^key-3e6abc5e086ceec3672dea4dc9032859]
+## 40. Offences in relation to interim preservation of estate[^c-3e6abc5e086ceec3672dea4dc9032859]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ then the debtor commits an offence.
 
 ## Annotations
 
-[^key-3e6abc5e086ceec3672dea4dc9032859]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2016/21/section/40) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-3e6abc5e086ceec3672dea4dc9032859]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2016/21/section/40) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

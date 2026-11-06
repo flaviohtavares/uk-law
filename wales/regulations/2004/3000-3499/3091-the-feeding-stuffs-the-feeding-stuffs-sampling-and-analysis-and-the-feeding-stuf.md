@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Feeding Stuffs, the Feeding Stuffs (Sampling and Analysis) and the Feeding Stuffs (Enforcement) (Amendment) (Wales) (No. 2) Regulations 2004 (revoked)[^key-9d39109e3525a3011e53cf9da86c934d]
+The Feeding Stuffs, the Feeding Stuffs (Sampling and Analysis) and the Feeding Stuffs (Enforcement) (Amendment) (Wales) (No. 2) Regulations 2004 (revoked)[^c-9d39109e3525a3011e53cf9da86c934d]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into force
 
 24 November 2004
 
-[^key-9d39109e3525a3011e53cf9da86c934d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d39109e3525a3011e53cf9da86c934d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-9d39109e3525a3011e53cf9da86c934d]
+## 1. Title, application and commencement[^c-9d39109e3525a3011e53cf9da86c934d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Feeding Stuffs (Wales) Regulations 2001[^key-9d39109e3525a3011e53cf9da86c934d]
+## 2. Amendments to the Feeding Stuffs (Wales) Regulations 2001[^c-9d39109e3525a3011e53cf9da86c934d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendments to the Feeding Stuffs (Wales) Regulations 2001[^key-9d39109e3525a3011e53cf9da86c934d]
+## 3. Consequential amendments to the Feeding Stuffs (Wales) Regulations 2001[^c-9d39109e3525a3011e53cf9da86c934d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential amendments to the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^key-9d39109e3525a3011e53cf9da86c934d]
+## 4. Consequential amendments to the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^c-9d39109e3525a3011e53cf9da86c934d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential amendments to the Feeding Stuffs (Enforcement) Regulations 1999[^key-9d39109e3525a3011e53cf9da86c934d]
+## 5. Consequential amendments to the Feeding Stuffs (Enforcement) Regulations 1999[^c-9d39109e3525a3011e53cf9da86c934d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d39109e3525a3011e53cf9da86c934d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d39109e3525a3011e53cf9da86c934d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — ENTRIES TO BE SUBSTITUTED IN PART I OF SCHEDULE 7 TO THE FEEDING STUFFS (WALES) REGULATIONS 2001[^key-9d39109e3525a3011e53cf9da86c934d]
+## SCHEDULE — ENTRIES TO BE SUBSTITUTED IN PART I OF SCHEDULE 7 TO THE FEEDING STUFFS (WALES) REGULATIONS 2001[^c-9d39109e3525a3011e53cf9da86c934d]
 
 Regulation 2(4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d39109e3525a3011e53cf9da86c934d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d39109e3525a3011e53cf9da86c934d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d39109e3525a3011e53cf9da86c934d]: Textual amendment: Regulations revoked in part (25.1.2006) by [The Feeding Stuffs (Wales) Regulations 2006 (S.I. 2006/116)](https://www.legislation.gov.uk/uksi/2006/116), [reg. 1](https://www.legislation.gov.uk/uksi/2006/116/regulation/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/116/schedule/9)
+[^c-9d39109e3525a3011e53cf9da86c934d]: Textual amendment: Regulations revoked in part (25.1.2006) by [The Feeding Stuffs (Wales) Regulations 2006 (S.I. 2006/116)](https://www.legislation.gov.uk/uksi/2006/116), [reg. 1](https://www.legislation.gov.uk/uksi/2006/116/regulation/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/116/schedule/9)
 
     Regs. 4, 5 revoked (1.1.2006) by [The Feed (Hygiene and Enforcement) (Wales) Regulations 2005 (S.I. 2005/3368)](https://www.legislation.gov.uk/uksi/2005/3368), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3368/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3368/schedule/2)

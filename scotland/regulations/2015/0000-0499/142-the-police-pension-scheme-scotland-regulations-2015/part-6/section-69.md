@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Application of Chapter[^key-9539e27f6328ac87ecca81698e56995f]
+## 69. Application of Chapter[^c-9539e27f6328ac87ecca81698e56995f]
 
 *Extent: S*
 
@@ -27,6 +27,6 @@ This Chapter applies in relation to a member of the police force (â€œthe memberâ
 
 ## Annotations
 
-[^key-9539e27f6328ac87ecca81698e56995f]: Commencement: Reg. 69 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-9539e27f6328ac87ecca81698e56995f]: Commencement: Reg. 69 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00043]: Footnote: See Chapter 1 of Part 4 (active membership) for when a member of the police force is taken to be an active member of this scheme.

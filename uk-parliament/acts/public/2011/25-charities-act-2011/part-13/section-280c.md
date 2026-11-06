@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 280C. Power to amend Royal charter[^key-e2145f8f55028513eba2e25e7db915cb]
+## 280C. Power to amend Royal charter[^c-e2145f8f55028513eba2e25e7db915cb]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2145f8f55028513eba2e25e7db915cb]: Textual amendment: S. 280C and cross-heading inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 4](https://www.legislation.gov.uk/ukpga/2022/6/section/4), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/1)
+[^c-e2145f8f55028513eba2e25e7db915cb]: Textual amendment: S. 280C and cross-heading inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 4](https://www.legislation.gov.uk/ukpga/2022/6/section/4), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/1)

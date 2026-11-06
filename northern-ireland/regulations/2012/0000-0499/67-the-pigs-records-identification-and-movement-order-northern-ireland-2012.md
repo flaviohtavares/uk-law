@@ -44,11 +44,11 @@ The Department of Agriculture and Rural Development[^f00001], makes the followin
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation and commencement[^key-9d03d0972e7aff9b0a40f7644308b039]
+### 1. Citation and commencement[^c-9d03d0972e7aff9b0a40f7644308b039]
 
 This Order may be cited as the Pigs (Records, Identification and Movement) Order (Northern Ireland) 2012 and shall come into operation 19th March 2012.
 
-### 2. Interpretation[^key-479200ae7117b4f9ec7893289217f1fa]
+### 2. Interpretation[^c-479200ae7117b4f9ec7893289217f1fa]
 
 (1) In this Order—
 
@@ -76,7 +76,7 @@ This Order may be cited as the Pigs (Records, Identification and Movement) Order
 
 (2) Any other expressions defined in the Directive have the same meaning in this Order.
 
-### 3. Authorisations[^key-614a44dabfd62dd055f898399ac82cd4]
+### 3. Authorisations[^c-614a44dabfd62dd055f898399ac82cd4]
 
 (1) An authorisation, licence, notice, approval or registration under this Order or the Directive—
 
@@ -86,7 +86,7 @@ This Order may be cited as the Pigs (Records, Identification and Movement) Order
 
 (2) A person to whom any document specified in paragraph (1) is issued shall comply with its requirements.
 
-### 4. Notification of holdings[^key-a7a5d84b423b49045282f745e787b5b8]
+### 4. Notification of holdings[^c-a7a5d84b423b49045282f745e787b5b8]
 
 (1) A person who intends to keep a pig on a holding shall inform the Department in writing beforehand, giving details of—
 
@@ -108,7 +108,7 @@ This Order may be cited as the Pigs (Records, Identification and Movement) Order
 
 ## PART 2 — HOLDING REGISTERS
 
-### 5. Holding register[^key-23448626d50023df398034256417ab96]
+### 5. Holding register[^c-23448626d50023df398034256417ab96]
 
 (1) A keeper shall maintain a holding register in which the following information shall be recorded in chronological order—
 
@@ -120,13 +120,13 @@ This Order may be cited as the Pigs (Records, Identification and Movement) Order
 
 (2) A keeper shall keep the holding register for 3 years from the last date of entry.
 
-### 6. Notification of pigs on a holding[^key-780932732740c9bcbe136ee202a008d1]
+### 6. Notification of pigs on a holding[^c-780932732740c9bcbe136ee202a008d1]
 
 A keeper shall notify the Department of the total number of pigs on the holding by such a date as the Department may from time to time determine and in such form and in such manner as the Department may specify.
 
 ## PART 3 — IDENTIFICATION
 
-### 7. Ear tags and tattoos[^key-fcaa7ba5508d0dcbfe974f769ccd3d6e]
+### 7. Ear tags and tattoos[^c-fcaa7ba5508d0dcbfe974f769ccd3d6e]
 
 (1) An ear tag shall be—
 
@@ -147,7 +147,7 @@ A keeper shall notify the Department of the total number of pigs on the holding 
 
 (6) A tattoo shall bear a holding code or in the case of a pig being moved direct to slaughter, a tattoo may bear a holding code or curer mark.
 
-### 8. Identification of pigs[^key-6feea4550728fcfa087f1f00e7ab257d]
+### 8. Identification of pigs[^c-6feea4550728fcfa087f1f00e7ab257d]
 
 (1) Subject to paragraph (6), a person shall not move a pig off a holding unless it is identified in accordance with this article.
 
@@ -161,13 +161,13 @@ A keeper shall notify the Department of the total number of pigs on the holding 
 
 (6) Paragraphs (2) to (5) do not apply to a pig which was identified in accordance with the Aujeszky’s Disease Order (Northern Ireland) 1994.
 
-### 9. Removing or defacing an identification mark[^key-943e6ef4a08b0a5772ee33505bc59317]
+### 9. Removing or defacing an identification mark[^c-943e6ef4a08b0a5772ee33505bc59317]
 
 (1) Subject to paragraph (2), a person shall not remove or deface an identification mark except in accordance with the conditions of a licence issued by the Department.
 
 (2) A person may remove an ear tag if the welfare of the pig requires urgent removal.
 
-### 10. Replacement of an identification mark[^key-f0b6a7c5b09795d0eae0160aff50e366]
+### 10. Replacement of an identification mark[^c-f0b6a7c5b09795d0eae0160aff50e366]
 
 (1) Subject to paragraph (2), a person shall not replace an identification mark applied under this Order or the Aujeszky’s Disease Order (Northern Ireland) 1994 except under the conditions of a licence issued by the Department.
 
@@ -182,11 +182,11 @@ A keeper shall notify the Department of the total number of pigs on the holding 
 - (a) apply a new identification mark and cross-refer that new identification mark with the original identification mark (if known) in the register kept in accordance with article 5; or
 - (b) if the original identification mark was applied on the holding, the keeper may apply an identical identification mark.
 
-### 11. Additional requirements for export[^key-39cf73473c57e8149a874e121e902cdf]
+### 11. Additional requirements for export[^c-39cf73473c57e8149a874e121e902cdf]
 
-A keeper shall not move a pig off a holding for the purposes of trade with the EU[^key-709aef13ac9bb61d62032300c661f29f] or export unless it has been identified with an eartag bearing a holding code and individual identification number, except in accordance with the conditions of a licence issued by the Department.
+A keeper shall not move a pig off a holding for the purposes of trade with the EU[^c-709aef13ac9bb61d62032300c661f29f] or export unless it has been identified with an eartag bearing a holding code and individual identification number, except in accordance with the conditions of a licence issued by the Department.
 
-### 12. Additional requirements for movements of pigs to a show[^key-1eb8fdcb8eaa62981a2d059c9b1d55ff]
+### 12. Additional requirements for movements of pigs to a show[^c-1eb8fdcb8eaa62981a2d059c9b1d55ff]
 
 A person shall not move a pig off a holding—
 
@@ -195,7 +195,7 @@ A person shall not move a pig off a holding—
 
 unless it is identified with an eartag bearing a holding code and individual identification number.
 
-### 13. Identification of pigs moved onto a holding from outside the European Union[^key-deed20b4409b039e224dd76bb7f0a7db]
+### 13. Identification of pigs moved onto a holding from outside the European Union[^c-deed20b4409b039e224dd76bb7f0a7db]
 
 (1) Subject to paragraph (3) a keeper importing a pig from outside the European Union shall apply an ear tag to the pig containing the following information, in the following order—
 
@@ -212,7 +212,7 @@ unless it is identified with an eartag bearing a holding code and individual ide
 
 ## PART 4 — MOVEMENTS
 
-### 14. Movement of pigs[^key-487fe7468b08dc3fecffaeb5f8118e86]
+### 14. Movement of pigs[^c-487fe7468b08dc3fecffaeb5f8118e86]
 
 (1) A person transporting pigs off a holding shall carry a movement document signed by the keeper which specifies—
 
@@ -243,7 +243,7 @@ unless it is identified with an eartag bearing a holding code and individual ide
 
 ## PART 5 — MARKETS, SLAUGHTERHOUSES & SHOWS
 
-### 15. Market operator[^key-007f086522f3e71750d42b602d75744d]
+### 15. Market operator[^c-007f086522f3e71750d42b602d75744d]
 
 A market operator shall—
 
@@ -256,7 +256,7 @@ A market operator shall—
   - (ii) the lot number is recorded in the holding register at the market, and
   - (iii) the lot number is recorded on the movement document which accompanied the pigs into the market.
 
-### 16. Slaughterhouse operator[^key-bdc5dc1d7b37d7fb5551cb056e4f4224]
+### 16. Slaughterhouse operator[^c-bdc5dc1d7b37d7fb5551cb056e4f4224]
 
 A slaughterhouse operator shall—
 
@@ -266,7 +266,7 @@ A slaughterhouse operator shall—
 - (d) ensure that a pig is not accepted for slaughter unless it is accompanied by a movement document in accordance with article 14(1);
 - (e) complete the movement document with the kill number.
 
-### 17. Show operator[^key-fdc240c3d67769ad7ab3c6e8ab45ba44]
+### 17. Show operator[^c-fdc240c3d67769ad7ab3c6e8ab45ba44]
 
 A show operator shall—
 
@@ -275,23 +275,23 @@ A show operator shall—
 
 ## PART 6 — MISCELLANEOUS
 
-### 18. Walking licences for pet pigs[^key-5cc46ad56b403d746833957d6cb97e3e]
+### 18. Walking licences for pet pigs[^c-5cc46ad56b403d746833957d6cb97e3e]
 
 The Department may issue a walking licence to a keeper of a pet pig allowing a person to take the pig for a walk off the holding without complying with articles 5(1)(c) or 14 but the person walking the pig shall carry a copy of the licence throughout the walk.
 
-### 19. Movement restriction[^key-03938ab181026b719fe79800afc9648c]
+### 19. Movement restriction[^c-03938ab181026b719fe79800afc9648c]
 
 (1) An inspector may, serve a notice on a keeper of a holding, prohibiting the movement of pigs onto or off the holding specified in the notice, except in accordance with the conditions of a licence issued by the Department, if the inspector is satisfied that the prohibition is necessary for the proper enforcement of this Order in relation to that holding.
 
 (2) An inspector may, serve a notice on a keeper of a pig, prohibiting the movement of that pig off the holding specified in the notice, except in accordance with the conditions of a licence issued by the Department, if the inspector is satisfied that the prohibition is necessary for the proper enforcement of this Order in relation to that pig.
 
-### 20. Transitional and saving provisions[^key-05bd8d5dac66ba0a9d3a97714bb3696c]
+### 20. Transitional and saving provisions[^c-05bd8d5dac66ba0a9d3a97714bb3696c]
 
 (1) Any record in respect of pigs required to be kept by any person under the provisions of the Animals (Records) Order (Northern Ireland) 1997[^f00006] as in operation immediately before the commencement of this Order shall be retained by the keeper for a period of 3 years from the end of the month in which the last entry in the record was made.
 
 (2) Any record kept in accordance with the provisions of Article 5 of the Aujeszky’s Disease Order (Northern Ireland) 1994 shall be retained by the keeper for a period of 1 year.
 
-### 21. Amendment and revocations[^key-6edf408046836fcc254f944b3c8fd784]
+### 21. Amendment and revocations[^c-6edf408046836fcc254f944b3c8fd784]
 
 (1) The Animals (Records) Order (Northern Ireland) 1997 and the Animals (Records) (Amendment) Order (Northern Ireland) 2000[^f00007] are revoked.
 
@@ -335,57 +335,57 @@ Part 6 of the Order contains miscellaneous provisions including article 18 which
 
 [^f00002]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Article 17, [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Articles 19, 22 to 24 and Schedule, [S.R. 2002 No. 225](https://www.legislation.gov.uk/nisr/2002/225) and [S.R. 2006 No.41](https://www.legislation.gov.uk/nisr/2006/41), the [Diseases of Animals Act (NI) 2010 ch.1](https://www.legislation.gov.uk/nia/2010/1)
 
-[^key-9d03d0972e7aff9b0a40f7644308b039]: Commencement: Art. 1 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-9d03d0972e7aff9b0a40f7644308b039]: Commencement: Art. 1 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-479200ae7117b4f9ec7893289217f1fa]: Commencement: Art. 2 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-479200ae7117b4f9ec7893289217f1fa]: Commencement: Art. 2 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
 [^f00003]: Footnote: O. J. No. L 213, 8.08.2008, p.31
 
 [^f00004]: Footnote: [S.R. 1994 No.198](https://www.legislation.gov.uk/nisr/1994/198)
 
-[^key-614a44dabfd62dd055f898399ac82cd4]: Commencement: Art. 3 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-614a44dabfd62dd055f898399ac82cd4]: Commencement: Art. 3 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-a7a5d84b423b49045282f745e787b5b8]: Commencement: Art. 4 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-a7a5d84b423b49045282f745e787b5b8]: Commencement: Art. 4 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
 [^f00005]: Footnote: [S.R. 1994 No.199](https://www.legislation.gov.uk/nisr/1994/199)
 
-[^key-23448626d50023df398034256417ab96]: Commencement: Art. 5 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-23448626d50023df398034256417ab96]: Commencement: Art. 5 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-780932732740c9bcbe136ee202a008d1]: Commencement: Art. 6 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-780932732740c9bcbe136ee202a008d1]: Commencement: Art. 6 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-fcaa7ba5508d0dcbfe974f769ccd3d6e]: Commencement: Art. 7 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-fcaa7ba5508d0dcbfe974f769ccd3d6e]: Commencement: Art. 7 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-6feea4550728fcfa087f1f00e7ab257d]: Commencement: Art. 8 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-6feea4550728fcfa087f1f00e7ab257d]: Commencement: Art. 8 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-943e6ef4a08b0a5772ee33505bc59317]: Commencement: Art. 9 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-943e6ef4a08b0a5772ee33505bc59317]: Commencement: Art. 9 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-f0b6a7c5b09795d0eae0160aff50e366]: Commencement: Art. 10 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-f0b6a7c5b09795d0eae0160aff50e366]: Commencement: Art. 10 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-39cf73473c57e8149a874e121e902cdf]: Commencement: Art. 11 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-39cf73473c57e8149a874e121e902cdf]: Commencement: Art. 11 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-709aef13ac9bb61d62032300c661f29f]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/nisr/2012/67/article/11) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [17](https://www.legislation.gov.uk/nisr/2020/324/regulation/17)
+[^c-709aef13ac9bb61d62032300c661f29f]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/nisr/2012/67/article/11) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [17](https://www.legislation.gov.uk/nisr/2020/324/regulation/17)
 
-[^key-1eb8fdcb8eaa62981a2d059c9b1d55ff]: Commencement: Art. 12 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-1eb8fdcb8eaa62981a2d059c9b1d55ff]: Commencement: Art. 12 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-deed20b4409b039e224dd76bb7f0a7db]: Commencement: Art. 13 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-deed20b4409b039e224dd76bb7f0a7db]: Commencement: Art. 13 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-487fe7468b08dc3fecffaeb5f8118e86]: Commencement: Art. 14 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-487fe7468b08dc3fecffaeb5f8118e86]: Commencement: Art. 14 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-007f086522f3e71750d42b602d75744d]: Commencement: Art. 15 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-007f086522f3e71750d42b602d75744d]: Commencement: Art. 15 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-bdc5dc1d7b37d7fb5551cb056e4f4224]: Commencement: Art. 16 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-bdc5dc1d7b37d7fb5551cb056e4f4224]: Commencement: Art. 16 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-fdc240c3d67769ad7ab3c6e8ab45ba44]: Commencement: Art. 17 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-fdc240c3d67769ad7ab3c6e8ab45ba44]: Commencement: Art. 17 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-5cc46ad56b403d746833957d6cb97e3e]: Commencement: Art. 18 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-5cc46ad56b403d746833957d6cb97e3e]: Commencement: Art. 18 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-03938ab181026b719fe79800afc9648c]: Commencement: Art. 19 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-03938ab181026b719fe79800afc9648c]: Commencement: Art. 19 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
-[^key-05bd8d5dac66ba0a9d3a97714bb3696c]: Commencement: Art. 20 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-05bd8d5dac66ba0a9d3a97714bb3696c]: Commencement: Art. 20 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
 [^f00006]: Footnote: [S.R. 1997 No.172](https://www.legislation.gov.uk/nisr/1997/172)
 
-[^key-6edf408046836fcc254f944b3c8fd784]: Commencement: Art. 21 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
+[^c-6edf408046836fcc254f944b3c8fd784]: Commencement: Art. 21 in operation at 19.3.2012, see [art. 1](https://www.legislation.gov.uk/nisr/2012/67/article/1)
 
 [^f00007]: Footnote: [S.R. 2000 No.344](https://www.legislation.gov.uk/nisr/2000/344)
 

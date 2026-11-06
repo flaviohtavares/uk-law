@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Transfer schemes in connection with regulations[^key-6adbd2762d5efcbda9b1c110d14a01a5][^key-52eca9b66300414c4f404da0613eb427]
+## 106. Transfer schemes in connection with regulations[^c-6adbd2762d5efcbda9b1c110d14a01a5][^c-52eca9b66300414c4f404da0613eb427]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6adbd2762d5efcbda9b1c110d14a01a5]: Commencement: S. 106 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-6adbd2762d5efcbda9b1c110d14a01a5]: Commencement: S. 106 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-52eca9b66300414c4f404da0613eb427]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2022/31/section/106) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-52eca9b66300414c4f404da0613eb427]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2022/31/section/106) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

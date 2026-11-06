@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Amalgamation: supplementary[^key-3f76d2dafed24984e68998c8c7ed1a6b]
+## 60. Amalgamation: supplementary[^c-3f76d2dafed24984e68998c8c7ed1a6b]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f76d2dafed24984e68998c8c7ed1a6b]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2005/10/section/60) in force at 1.1.2012 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(4)(e)](https://www.legislation.gov.uk/ssi/2011/20/article/2/4/e)
+[^c-3f76d2dafed24984e68998c8c7ed1a6b]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2005/10/section/60) in force at 1.1.2012 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(4)(e)](https://www.legislation.gov.uk/ssi/2011/20/article/2/4/e)

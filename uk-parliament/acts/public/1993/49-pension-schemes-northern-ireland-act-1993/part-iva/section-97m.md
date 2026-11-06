@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-Compliance with a transfer notice shall have effect to discharge the trustees or managers of a qualifying scheme from any obligation to provide the benefits to which the transfer notice relates[^key-4aea3e6466b100cd3faf979324b55fd4].
+Compliance with a transfer notice shall have effect to discharge the trustees or managers of a qualifying scheme from any obligation to provide the benefits to which the transfer notice relates[^c-4aea3e6466b100cd3faf979324b55fd4].
 
 ## Annotations
 
-[^key-4aea3e6466b100cd3faf979324b55fd4]: Textual amendment: Words in s. 97M substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 65](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/65) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-4aea3e6466b100cd3faf979324b55fd4]: Textual amendment: Words in s. 97M substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 65](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/65) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

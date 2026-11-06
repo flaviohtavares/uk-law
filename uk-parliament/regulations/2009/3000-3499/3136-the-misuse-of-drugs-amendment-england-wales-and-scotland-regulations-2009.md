@@ -50,7 +50,7 @@ The Secretary of State makes the following regulations in exercise of the powers
 
 In accordance with section 31(3) of that Act the Secretary of State has consulted with the Advisory Council on the Misuse of Drugs.
 
-## 1. Citation, commencement, interpretation and extent[^key-058e4bee1c3321433a18863b200e1afe]
+## 1. Citation, commencement, interpretation and extent[^c-058e4bee1c3321433a18863b200e1afe]
 
 (1) These Regulations may be cited as the Misuse of Drugs (Amendment) (England, Wales and Scotland) Regulations 2009 and shall come into force on 23rd December 2009.
 
@@ -58,15 +58,15 @@ In accordance with section 31(3) of that Act the Secretary of State has consulte
 
 (3) These Regulations extend to England, Wales and Scotland.
 
-## 2. Amendment to the 2001 Regulations[^key-804b68a5cb1f34a63dea76bdb50c7b80]
+## 2. Amendment to the 2001 Regulations[^c-804b68a5cb1f34a63dea76bdb50c7b80]
 
 The 2001 Regulations shall be amended as follows.
 
-## 3.[^key-2a03ec9f8f05efc6dc1ec2d5035b0bbc]
+## 3.[^c-2a03ec9f8f05efc6dc1ec2d5035b0bbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-f6d4d34550e4e45ba3f495671f8ea96b]
+## 4.[^c-f6d4d34550e4e45ba3f495671f8ea96b]
 
 (1) In Schedule 1 (which specifies controlled drugs subject to the requirements of regulations 14, 15, 16, 18, 19, 20, 23, 26 and 27)—
 
@@ -172,12 +172,12 @@ Gamma–butyrolactone (GBL) and 1,4–butanediol (1,4–BD) are not inserted int
 
 [^f00001]: Footnote: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38) as modified by the Northern Ireland Act [1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-058e4bee1c3321433a18863b200e1afe]: Commencement: Reg. 1 in force at 23.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3136/regulation/1/1)
+[^c-058e4bee1c3321433a18863b200e1afe]: Commencement: Reg. 1 in force at 23.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3136/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998). Relevant amending instruments are [S.I. 2003/1432](https://www.legislation.gov.uk/uksi/2003/1432), [S.I. 2003/1653](https://www.legislation.gov.uk/uksi/2003/1653), [S.I. 2003/2429](https://www.legislation.gov.uk/uksi/2003/2429), [S.I. 2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [S.I. 2005/271](https://www.legislation.gov.uk/uksi/2005/271), [S.I. 2005/1653](https://www.legislation.gov.uk/uksi/2005/1653), [S.I. 2005/2864](https://www.legislation.gov.uk/uksi/2005/2864), [S.I. 2005/3372](https://www.legislation.gov.uk/uksi/2005/3372), [S.I. 2006/986](https://www.legislation.gov.uk/uksi/2006/986), [2006/1450](https://www.legislation.gov.uk/uksi/2006/1450), [S.I. 2006/2178](https://www.legislation.gov.uk/uksi/2006/2178) and [S.I. 2007/2154](https://www.legislation.gov.uk/uksi/2007/2154).
 
-[^key-804b68a5cb1f34a63dea76bdb50c7b80]: Commencement: Reg. 2 in force at 23.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3136/regulation/1/1)
+[^c-804b68a5cb1f34a63dea76bdb50c7b80]: Commencement: Reg. 2 in force at 23.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3136/regulation/1/1)
 
-[^key-2a03ec9f8f05efc6dc1ec2d5035b0bbc]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/3136/regulation/3) revoked (28.3.2011) by [The Misuse of Drugs (Amendment) (England, Wales and Scotland) Regulations 2011 (S.I. 2011/448)](https://www.legislation.gov.uk/uksi/2011/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/448/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2011/448/regulation/6)
+[^c-2a03ec9f8f05efc6dc1ec2d5035b0bbc]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/3136/regulation/3) revoked (28.3.2011) by [The Misuse of Drugs (Amendment) (England, Wales and Scotland) Regulations 2011 (S.I. 2011/448)](https://www.legislation.gov.uk/uksi/2011/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/448/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2011/448/regulation/6)
 
-[^key-f6d4d34550e4e45ba3f495671f8ea96b]: Commencement: Reg. 4 in force at 23.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3136/regulation/1/1)
+[^c-f6d4d34550e4e45ba3f495671f8ea96b]: Commencement: Reg. 4 in force at 23.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3136/regulation/1/1)

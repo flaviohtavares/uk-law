@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237A. Variation and replacement of section 33 consents: transitional provision[^key-a4d438dc2fb69cc1c948836b46040d2c]
+## 237A. Variation and replacement of section 33 consents: transitional provision[^c-a4d438dc2fb69cc1c948836b46040d2c]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4d438dc2fb69cc1c948836b46040d2c]: Textual amendment: S. 237A inserted (1.3.2010 retrospectively) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/22/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/22/2), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/a) (see S.I. 2010/101, arts. 2, 3)
+[^c-a4d438dc2fb69cc1c948836b46040d2c]: Textual amendment: S. 237A inserted (1.3.2010 retrospectively) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/22/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/22/2), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(a)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/a) (see S.I. 2010/101, arts. 2, 3)

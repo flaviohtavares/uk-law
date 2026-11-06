@@ -34,7 +34,7 @@ animals, england
 
 animal health
 
-The Animals and Animal Products (Import and Export) (England) (Imports of Captive Birds) Regulations 2007 (revoked)[^key-f8688c31535d8fe5e3eba6579a9dd2a7]
+The Animals and Animal Products (Import and Export) (England) (Imports of Captive Birds) Regulations 2007 (revoked)[^c-f8688c31535d8fe5e3eba6579a9dd2a7]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 31st March 2007
 
-[^key-f8688c31535d8fe5e3eba6579a9dd2a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8688c31535d8fe5e3eba6579a9dd2a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-f8688c31535d8fe5e3eba6579a9dd2a7]
+## 1.[^c-f8688c31535d8fe5e3eba6579a9dd2a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-f8688c31535d8fe5e3eba6579a9dd2a7]
+## 2.[^c-f8688c31535d8fe5e3eba6579a9dd2a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-f8688c31535d8fe5e3eba6579a9dd2a7]
+## 3.[^c-f8688c31535d8fe5e3eba6579a9dd2a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f8688c31535d8fe5e3eba6579a9dd2a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8688c31535d8fe5e3eba6579a9dd2a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f8688c31535d8fe5e3eba6579a9dd2a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8688c31535d8fe5e3eba6579a9dd2a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f8688c31535d8fe5e3eba6579a9dd2a7]: Textual amendment: Regulations revoked (1.7.2007) by [The Animals and Animal Products (Import and Export) (England) (Laboratories, Circuses and Avian Quarantine) Regulations 2007 (S.I. 2007/1621)](https://www.legislation.gov.uk/uksi/2007/1621), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1621/regulation/1), [18](https://www.legislation.gov.uk/uksi/2007/1621/regulation/18)
+[^c-f8688c31535d8fe5e3eba6579a9dd2a7]: Textual amendment: Regulations revoked (1.7.2007) by [The Animals and Animal Products (Import and Export) (England) (Laboratories, Circuses and Avian Quarantine) Regulations 2007 (S.I. 2007/1621)](https://www.legislation.gov.uk/uksi/2007/1621), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1621/regulation/1), [18](https://www.legislation.gov.uk/uksi/2007/1621/regulation/18)

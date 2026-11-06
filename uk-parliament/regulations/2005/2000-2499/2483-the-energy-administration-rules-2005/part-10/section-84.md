@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Application to court to remove energy administrator from office[^key-f0da0d6c2f83fa1be55953df20edc526]
+## 84. Application to court to remove energy administrator from office[^c-f0da0d6c2f83fa1be55953df20edc526]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0da0d6c2f83fa1be55953df20edc526]: Commencement: Rule 84 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-f0da0d6c2f83fa1be55953df20edc526]: Commencement: Rule 84 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

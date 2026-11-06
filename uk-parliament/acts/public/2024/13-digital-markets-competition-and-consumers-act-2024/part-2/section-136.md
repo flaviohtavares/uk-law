@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Scope of market investigations[^key-a71962cffdf67573dc03781be7a64222][^key-68ee2825144f4c29658fe144b661c2a2]
+## 136. Scope of market investigations[^c-a71962cffdf67573dc03781be7a64222][^c-68ee2825144f4c29658fe144b661c2a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a71962cffdf67573dc03781be7a64222]: Commencement: S. 136 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a71962cffdf67573dc03781be7a64222]: Commencement: S. 136 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-68ee2825144f4c29658fe144b661c2a2]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2024/13/section/136) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 8](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/8), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-68ee2825144f4c29658fe144b661c2a2]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2024/13/section/136) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 8](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/8), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

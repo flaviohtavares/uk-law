@@ -91,7 +91,7 @@ authorises them to be taken.
 (9) Nothing in this Article—
 
 - (a) affects any power conferred by paragraph 18(2) of Schedule 2 to the Immigration Act 1971, section 141 of the Immigration and Asylum Act 1999 or regulations made under section 144 of that Act[^c17129741]; or
-- (b)[^c17129761] applies to a person arrested or detained under the terrorism provisions or under section 27 of the National Security Act 2023,[^key-b1128cddb3b8296c13967b1de791268d] or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^key-f35505ffda746a6372375f943e8d1103]
+- (b)[^c17129761] applies to a person arrested or detained under the terrorism provisions or under section 27 of the National Security Act 2023,[^c-b1128cddb3b8296c13967b1de791268d] or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^c-f35505ffda746a6372375f943e8d1103]
 
 (10)[^c17129781] Nothing in this Article applies to a person arrested under an extradition arrest power.
 
@@ -123,8 +123,8 @@ authorises them to be taken.
 
 [^c17129761]: Textual amendment: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11)
 
-[^key-b1128cddb3b8296c13967b1de791268d]: Textual amendment: Words in [art. 61(9)(b)](https://www.legislation.gov.uk/nisi/1989/1341/article/61/9/b) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 5(5)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/5/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
+[^c-b1128cddb3b8296c13967b1de791268d]: Textual amendment: Words in [art. 61(9)(b)](https://www.legislation.gov.uk/nisi/1989/1341/article/61/9/b) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 5(5)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/5/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
 
-[^key-f35505ffda746a6372375f943e8d1103]: Textual amendment: Words in art. 61(9)(b) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 20(5)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/20/5); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-f35505ffda746a6372375f943e8d1103]: Textual amendment: Words in art. 61(9)(b) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 20(5)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/20/5); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
 
 [^c17129781]: Textual amendment: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41)

@@ -61,7 +61,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 8 — Sufficient relevant training or education](part-1/section-8.md)
 - [Section 9 — Assignment of numbers of hours of guided learning to external qualifications](part-1/section-9.md)
 
-#### Chapter 2 — local authorities and educational institutions etc[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]
+#### Chapter 2 — local authorities and educational institutions etc[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]
 
 *Extent: E+W*
 
@@ -244,7 +244,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 85 — Co-operation as regards provision of 14-19 education and training](part-2/section-85.md)
 
-### Part 3 — Assessments of effectiveness of education and training etc[^key-881bd5e7f7f44539adb28aa1e94d0ab4]
+### Part 3 — Assessments of effectiveness of education and training etc[^c-881bd5e7f7f44539adb28aa1e94d0ab4]
 
 *Extent: E+W+S*
 
@@ -254,7 +254,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 86 — Learning aims for persons aged 19 and over](part-3/section-86.md)
 
-#### ...[^key-a171ea0c500dad7b080ec085cc1bb870]
+#### ...[^c-a171ea0c500dad7b080ec085cc1bb870]
 
 - [Section 87 — Benefit and training information](part-3/section-87.md)
 - [Section 88 — Revenue and Customs information](part-3/section-88.md)
@@ -266,7 +266,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W*
 
-#### Chapter 1 — Independent educational institutions in England[^key-cc5afe737bb55779aaf5a52cfaf413a5][^key-8a59da04cbe020554999bbb7c85b4709][^key-1b5d4c100a03f1fa5a623200d7c54735]
+#### Chapter 1 — Independent educational institutions in England[^c-cc5afe737bb55779aaf5a52cfaf413a5][^c-8a59da04cbe020554999bbb7c85b4709][^c-1b5d4c100a03f1fa5a623200d7c54735]
 
 *Extent: E+W*
 
@@ -465,14 +465,14 @@ SCHEDULES
 
 ## Annotations
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
 
-[^key-881bd5e7f7f44539adb28aa1e94d0ab4]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2008/25/part/3) heading substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 78(4)(a)](https://www.legislation.gov.uk/ukpga/2015/26/section/78/4/a), [164(3)(f)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/f)
+[^c-881bd5e7f7f44539adb28aa1e94d0ab4]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2008/25/part/3) heading substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 78(4)(a)](https://www.legislation.gov.uk/ukpga/2015/26/section/78/4/a), [164(3)(f)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/f)
 
-[^key-a171ea0c500dad7b080ec085cc1bb870]: Textual amendment: [S. 87 crossheading](https://www.legislation.gov.uk/ukpga/2008/25/part/3/crossheading/assessments-of-effectiveness-of-education-or-training) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 78(4)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/78/4/b), [164(3)(f)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/f)
+[^c-a171ea0c500dad7b080ec085cc1bb870]: Textual amendment: [S. 87 crossheading](https://www.legislation.gov.uk/ukpga/2008/25/part/3/crossheading/assessments-of-effectiveness-of-education-or-training) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 78(4)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/78/4/b), [164(3)(f)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/f)
 
-[^key-cc5afe737bb55779aaf5a52cfaf413a5]: Modification: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/25/part/4/chapter/1) modified (22.12.2014) by [The Education and Skills Act 2008 (Commencement No. 11 and Saving and Transitory Provisions) Order 2014 (S.I. 2014/3364)](https://www.legislation.gov.uk/uksi/2014/3364), [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/3364/article/3/2)
+[^c-cc5afe737bb55779aaf5a52cfaf413a5]: Modification: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/25/part/4/chapter/1) modified (22.12.2014) by [The Education and Skills Act 2008 (Commencement No. 11 and Saving and Transitory Provisions) Order 2014 (S.I. 2014/3364)](https://www.legislation.gov.uk/uksi/2014/3364), [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/3364/article/3/2)
 
-[^key-8a59da04cbe020554999bbb7c85b4709]: Modification: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/25/part/4/chapter/1): power to amend conferred (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 35(4)(e)](https://www.legislation.gov.uk/ukpga/2017/16/section/35/4/e), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/f)
+[^c-8a59da04cbe020554999bbb7c85b4709]: Modification: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/25/part/4/chapter/1): power to amend conferred (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 35(4)(e)](https://www.legislation.gov.uk/ukpga/2017/16/section/35/4/e), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/f)
 
-[^key-1b5d4c100a03f1fa5a623200d7c54735]: Modification: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/25/part/4/chapter/1): power to amend conferred (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 34(6)(e)](https://www.legislation.gov.uk/ukpga/2017/16/section/34/6/e), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/e)
+[^c-1b5d4c100a03f1fa5a623200d7c54735]: Modification: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/ukpga/2008/25/part/4/chapter/1): power to amend conferred (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 34(6)(e)](https://www.legislation.gov.uk/ukpga/2017/16/section/34/6/e), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/e)

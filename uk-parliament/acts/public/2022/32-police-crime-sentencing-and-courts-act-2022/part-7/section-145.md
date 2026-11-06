@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Application of release provisions to repatriated prisoners[^key-c83530a2b414c3c1fdac1a86b3982e45]
+## 145. Application of release provisions to repatriated prisoners[^c-c83530a2b414c3c1fdac1a86b3982e45]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c83530a2b414c3c1fdac1a86b3982e45]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2022/32/section/145) in force at 28.6.2022, see [s. 208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-c83530a2b414c3c1fdac1a86b3982e45]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2022/32/section/145) in force at 28.6.2022, see [s. 208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)

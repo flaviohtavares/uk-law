@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Private rights over land[^key-15c97899b807a480dc9daa360bfc68a6]
+## 26. Private rights over land[^c-15c97899b807a480dc9daa360bfc68a6]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-15c97899b807a480dc9daa360bfc68a6]: Commencement: Art. 26 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-15c97899b807a480dc9daa360bfc68a6]: Commencement: Art. 26 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)

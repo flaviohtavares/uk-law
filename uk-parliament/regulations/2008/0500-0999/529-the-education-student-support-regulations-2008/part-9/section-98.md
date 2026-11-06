@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Application of contribution – old system students[^key-f67d9b2366c1fb80d162a6c977f3ec45]
+## 98. Application of contribution – old system students[^c-f67d9b2366c1fb80d162a6c977f3ec45]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f67d9b2366c1fb80d162a6c977f3ec45]: Commencement: Reg. 98 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-f67d9b2366c1fb80d162a6c977f3ec45]: Commencement: Reg. 98 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

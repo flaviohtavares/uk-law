@@ -35,42 +35,42 @@ concerning the authorisation of a preparation of *Enterococcus faecium* CECT 451
 
 (Text with EEA relevance) (revoked)
 
-[^key-a3715b20a159a411598fceb6326e5f18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3715b20a159a411598fceb6326e5f18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Authorisation[^key-a3715b20a159a411598fceb6326e5f18]
+## Article 1. Authorisation[^c-a3715b20a159a411598fceb6326e5f18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendment to Regulation (EC) No 2036/2005[^key-a3715b20a159a411598fceb6326e5f18]
+## Article 2. Amendment to Regulation (EC) No 2036/2005[^c-a3715b20a159a411598fceb6326e5f18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Regulation (EU) No 887/2011[^key-a3715b20a159a411598fceb6326e5f18]
+## Article 3. Amendment to Regulation (EU) No 887/2011[^c-a3715b20a159a411598fceb6326e5f18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transitional measures[^key-a3715b20a159a411598fceb6326e5f18]
+## Article 4. Transitional measures[^c-a3715b20a159a411598fceb6326e5f18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-a3715b20a159a411598fceb6326e5f18]
+## Article 5. Entry into force[^c-a3715b20a159a411598fceb6326e5f18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3715b20a159a411598fceb6326e5f18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3715b20a159a411598fceb6326e5f18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-a3715b20a159a411598fceb6326e5f18]
+## ANNEX I[^c-a3715b20a159a411598fceb6326e5f18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-a3715b20a159a411598fceb6326e5f18]
+## ANNEX II[^c-a3715b20a159a411598fceb6326e5f18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a3715b20a159a411598fceb6326e5f18]: Textual amendment: Regulation revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 5 para. 246](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/246) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a3715b20a159a411598fceb6326e5f18]: Textual amendment: Regulation revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 5 para. 246](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/246) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

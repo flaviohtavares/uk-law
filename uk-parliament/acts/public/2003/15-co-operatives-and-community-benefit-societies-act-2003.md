@@ -30,57 +30,57 @@ Co-operatives and Community Benefit Societies Act 2003 (repealed)
 
 2003 c. 15
 
-[^key-93011c3c6d96352554f05298da149601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93011c3c6d96352554f05298da149601]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Community benefit societies: power to restrict use of assets[^key-93011c3c6d96352554f05298da149601]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Status of charitable societies to appear on correspondence etc[^key-93011c3c6d96352554f05298da149601]
+## 1. Community benefit societies: power to restrict use of assets[^c-93011c3c6d96352554f05298da149601]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Capacity of society and power of committee to bind it[^key-93011c3c6d96352554f05298da149601]
+## 2. Status of charitable societies to appear on correspondence etc[^c-93011c3c6d96352554f05298da149601]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Purported contracts, deeds and obligations[^key-93011c3c6d96352554f05298da149601]
+## 3. Capacity of society and power of committee to bind it[^c-93011c3c6d96352554f05298da149601]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Execution of deeds and other documents[^key-93011c3c6d96352554f05298da149601]
+## 4. Purported contracts, deeds and obligations[^c-93011c3c6d96352554f05298da149601]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Interpretation[^key-93011c3c6d96352554f05298da149601]
+## 5. Execution of deeds and other documents[^c-93011c3c6d96352554f05298da149601]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Commencement[^key-93011c3c6d96352554f05298da149601]
+## 6. Interpretation[^c-93011c3c6d96352554f05298da149601]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Channel Islands[^key-93011c3c6d96352554f05298da149601]
+## 7. Commencement[^c-93011c3c6d96352554f05298da149601]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Short title and extent[^key-93011c3c6d96352554f05298da149601]
+## 8. Channel Islands[^c-93011c3c6d96352554f05298da149601]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Short title and extent[^c-93011c3c6d96352554f05298da149601]
 
 **No longer in force.**
 
@@ -88,7 +88,7 @@ Co-operatives and Community Benefit Societies Act 2003 (repealed)
 
 **Not yet in force.**
 
-## SCHEDULE — Repeals[^key-93011c3c6d96352554f05298da149601]
+## SCHEDULE — Repeals[^c-93011c3c6d96352554f05298da149601]
 
 Section 5(9)
 
@@ -96,4 +96,4 @@ Section 5(9)
 
 ## Annotations
 
-[^key-93011c3c6d96352554f05298da149601]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2003/15) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-93011c3c6d96352554f05298da149601]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2003/15) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

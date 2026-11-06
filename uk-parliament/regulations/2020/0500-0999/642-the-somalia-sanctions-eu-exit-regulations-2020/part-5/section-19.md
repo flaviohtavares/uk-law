@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Definitions relating to goods and technology prohibited under Part 5[^key-23c8bd5ce46f5eee0db624edf54b3bb7]
+## 19. Definitions relating to goods and technology prohibited under Part 5[^c-23c8bd5ce46f5eee0db624edf54b3bb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-23c8bd5ce46f5eee0db624edf54b3bb7]: Commencement: Reg. 19 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/1)
+[^c-23c8bd5ce46f5eee0db624edf54b3bb7]: Commencement: Reg. 19 in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/1)
 
 [^c24171371]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231). Schedule 2 was substituted by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85) and subsequently amended by [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697); [S.I. 2018/165](https://www.legislation.gov.uk/uksi/2018/165); [S.I. 2018/939](https://www.legislation.gov.uk/uksi/2018/939); [S.I. 2019/137](https://www.legislation.gov.uk/uksi/2019/137); and [S.I. 2019/989](https://www.legislation.gov.uk/uksi/2019/989). There are other instruments which amend other parts of the Order, which are not relevant to these Regulations.

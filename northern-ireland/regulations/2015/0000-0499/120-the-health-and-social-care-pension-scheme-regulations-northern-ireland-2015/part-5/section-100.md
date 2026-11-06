@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-99769523c4d037d0712707f08656124a] This Chapter applies if—
+(1)[^c-99769523c4d037d0712707f08656124a] This Chapter applies if—
 
 - (a) a person who is a pensioner member of this scheme is employed in HSC employment;
 - (b) the pensioner member's employment is not employment to which the pensioner member was transferred as a result of a transfer of an undertaking to the pensioner member's employer;
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99769523c4d037d0712707f08656124a]: Modification: Reg. 100(1) modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [36(1)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/36/1/a), 37(1)(a)
+[^c-99769523c4d037d0712707f08656124a]: Modification: Reg. 100(1) modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [36(1)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/36/1/a), 37(1)(a)

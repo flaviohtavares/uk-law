@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Admission to the obstetric list[^key-9da2f8c576f4d6926721f2c456f3f9fe]
+## 31. Admission to the obstetric list[^c-9da2f8c576f4d6926721f2c456f3f9fe]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9da2f8c576f4d6926721f2c456f3f9fe]: Commencement: Reg. 31 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-9da2f8c576f4d6926721f2c456f3f9fe]: Commencement: Reg. 31 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

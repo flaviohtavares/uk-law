@@ -46,13 +46,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-4ee691d9636c67b9f393a3c885d2846a]
+### 1. Citation, commencement and extent[^c-4ee691d9636c67b9f393a3c885d2846a]
 
 (1) These Regulations may be cited as the Register of Overseas Entities (Verification and Provision of Information) Regulations 2022 and come into force on the day section 3 of the ECTEA comes into force.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-3aacb027faa9d790b2b08cc32e47b08c]
+### 2. Interpretation[^c-3aacb027faa9d790b2b08cc32e47b08c]
 
 In these Regulations—
 
@@ -63,7 +63,7 @@ In these Regulations—
 - “relevant person” has the meaning given in regulation 3;
 - “section 42(1)(c) information” is information delivered to the registrar under section 42(1)(c) of the ECTEA (requirement for certain unregistered overseas entities to provide information).
 
-### 3. Meaning of “relevant person”[^key-33b3213ec12e0c454a18879943240f19]
+### 3. Meaning of “relevant person”[^c-33b3213ec12e0c454a18879943240f19]
 
 (1) Subject to paragraph (2), a “relevant person” is a person who is a relevant person for the purposes of the Money Laundering Regulations[^f00003].
 
@@ -81,7 +81,7 @@ In these Regulations—
   - (i) in Great Britain under regulation 86, 87 or 88 of the Money Laundering Regulations, and that conviction has not yet become spent within the meaning of the Rehabilitation of Offenders Act 1974; or
   - (ii) in Northern Ireland under regulation 86, 87 or 88 of the Money Laundering Regulations, and that conviction has not yet become spent within the meaning of the Rehabilitation of Offenders (Northern Ireland) Order 1978.
 
-### 4. Meaning of “relevant activity”[^key-8b509e13ddcc879817a50061f8aadd96]
+### 4. Meaning of “relevant activity”[^c-8b509e13ddcc879817a50061f8aadd96]
 
 (1) A “relevant activity” is an activity described in paragraph (2) that is to be undertaken by an overseas entity[^f00006].
 
@@ -91,13 +91,13 @@ In these Regulations—
 - (b) complying with section 7 of that Act (updating duty);
 - (c) making an application under section 9 of that Act (application for removal);
 - (d) complying with a notice under section 27 of that Act (resolving inconsistencies in the register), but only in so far as it relates to any of paragraphs (a), (b) or (c);
-- (e) making an application under any regulations made under section 29 of that Act (application to rectify register), but only in so far as it relates to any of paragraphs (a), (b), or (c); [^key-421673b2e16faa619c13b31c201f91a4]...
-- (f) complying with section 42(1)(c) of that Act (requirement for certain unregistered overseas entities to provide information) ; and[^key-2a919f3bcede90467242689294663fd6]
-- (g)[^key-5b8b32f4073fe3ecc537c21bf094d4f3] complying with any duty in Schedule 6 of that Act.
+- (e) making an application under any regulations made under section 29 of that Act (application to rectify register), but only in so far as it relates to any of paragraphs (a), (b), or (c); [^c-421673b2e16faa619c13b31c201f91a4]...
+- (f) complying with section 42(1)(c) of that Act (requirement for certain unregistered overseas entities to provide information) ; and[^c-2a919f3bcede90467242689294663fd6]
+- (g)[^c-5b8b32f4073fe3ecc537c21bf094d4f3] complying with any duty in Schedule 6 of that Act.
 
-### 5. Meaning of “relevant information”[^key-fbe6120212afe940fb83b96d67a48cbb]
+### 5. Meaning of “relevant information”[^c-fbe6120212afe940fb83b96d67a48cbb]
 
-(1)[^key-51c9f1094228ef7be6352faa687663c6] “Relevant information” is information described in any of paragraphs (2), (3), (4), (5), (6), (7) or (8)[^key-d344e4de0240a603def960e459d73452] unless the information—
+(1)[^c-51c9f1094228ef7be6352faa687663c6] “Relevant information” is information described in any of paragraphs (2), (3), (4), (5), (6), (7) or (8)[^c-d344e4de0240a603def960e459d73452] unless the information—
 
 - (a) is the required information in sub-paragraphs 4(a) to (e) of Schedule 1 to the ECTEA;
 - (b) relates to the beneficiaries of a pension scheme trust as defined by paragraph 3 of Schedule 3A (Excluded Trusts) to the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017;
@@ -130,11 +130,11 @@ In these Regulations—
 
 (7) Where an overseas entity seeks to undertake a relevant activity within regulation 4(2)(f) (requirement for certain unregistered overseas entities to provide information), the information is the information mentioned in section 42(1)(c) of the ECTEA.
 
-(8)[^key-154ac6af4dd1a3b6f74377d2c8f6178b] Where an overseas entity seeks to undertake a relevant activity within regulation 4(2)(g), the information is any statement or information mentioned in paragraph 2(1) of Schedule 6 to the ECTEA.
+(8)[^c-154ac6af4dd1a3b6f74377d2c8f6178b] Where an overseas entity seeks to undertake a relevant activity within regulation 4(2)(g), the information is any statement or information mentioned in paragraph 2(1) of Schedule 6 to the ECTEA.
 
 ## PART 2 — Verification
 
-### 6. Verification: general[^key-adeab27c4a19a6890d7e24bacd2aa1d8]
+### 6. Verification: general[^c-adeab27c4a19a6890d7e24bacd2aa1d8]
 
 (1) An overseas entity may only undertake a relevant activity after a relevant person has verified the relevant information.
 
@@ -170,13 +170,13 @@ they must deliver the statement referred to in paragraph (5) to the registrar wi
 (6) For the purposes of this regulation—
 
 - (a) “supervisory authority” in relation to any relevant person, means the supervisory authority specified for such a person by regulation 7 of the Money Laundering Regulations;
-- (b) subject to sub-paragraph (ba),[^key-597770f4fd9c7857afd558faad283b98] “verify” means verify on the basis of documents or information in either case obtained from a reliable source which is independent of the person whose identity is being verified, and “verified” and “verification” are to be interpreted accordingly;
-- (ba)[^key-27e86d55819fc951673b56946f37b9c0] a relevant person may verify the following on the basis of documents or information in either case obtained from a reliable source which is not independent of the person whose identity is being verified—
+- (b) subject to sub-paragraph (ba),[^c-597770f4fd9c7857afd558faad283b98] “verify” means verify on the basis of documents or information in either case obtained from a reliable source which is independent of the person whose identity is being verified, and “verified” and “verification” are to be interpreted accordingly;
+- (ba)[^c-27e86d55819fc951673b56946f37b9c0] a relevant person may verify the following on the basis of documents or information in either case obtained from a reliable source which is not independent of the person whose identity is being verified—
   - (i) which of the conditions in paragraph 6 of Schedule 2 to the ECTEA is met in relation to a registrable beneficial owner;
   - (ii) the required information in paragraphs 3(1)(d) and 5(1)(f) of Schedule 1 to the ECTEA;
 - (c) documents issued or made available by an official body are to be regarded as being independent of a person even if they are provided or made available to the relevant person by or on behalf of that person.
 
-### 7. Verification: individuals[^key-5788f554a017e00796ed99271cfcad64]
+### 7. Verification: individuals[^c-5788f554a017e00796ed99271cfcad64]
 
 (1) This regulation applies where a relevant person seeks to verify relevant information relating to an individual.
 
@@ -199,31 +199,31 @@ they must deliver the statement referred to in paragraph (5) to the registrar wi
 
 (4) A known close associate of an individual means—
 
-- (a) an individual known to have joint beneficial ownership of a legal entity or a legal arrangement [^key-a7f6236dba05bd738866d9cf29798f04]... with the individual;
-- (aa)[^key-ab964941eda236ae3acdb02abf1f2b90] an individual who is an officer of a legal entity or legal arrangement of which the person whose identity is being verified is also an officer or who is engaged in a joint venture with that person;
+- (a) an individual known to have joint beneficial ownership of a legal entity or a legal arrangement [^c-a7f6236dba05bd738866d9cf29798f04]... with the individual;
+- (aa)[^c-ab964941eda236ae3acdb02abf1f2b90] an individual who is an officer of a legal entity or legal arrangement of which the person whose identity is being verified is also an officer or who is engaged in a joint venture with that person;
 - (b) an individual who has sole beneficial ownership of a legal entity or a legal arrangement which is known to have been set up for the benefit of the individual.
 
-### 8. Retention of information[^key-df96187864a615e1fa08934fa427cdb0]
+### 8. Retention of information[^c-df96187864a615e1fa08934fa427cdb0]
 
-(1) This regulation applies in respect of any material obtained or received by a relevant person[^key-c665fc2e11c59db8c133e76f46b72050] for the purpose of verifying relevant information.
+(1) This regulation applies in respect of any material obtained or received by a relevant person[^c-c665fc2e11c59db8c133e76f46b72050] for the purpose of verifying relevant information.
 
 (2) The relevant person must keep copies of the material mentioned in paragraph (1) for the period of five years beginning with the day on which that person verifies the information.
 
 ## PART 3 — Information provided under section 42(1)(c) of the ECTEA
 
-### 9. Provision of information under section 42(1)(c)[^key-987ff7e720cd140e0d6bd58a9d7e7b18]
+### 9. Provision of information under section 42(1)(c)[^c-987ff7e720cd140e0d6bd58a9d7e7b18]
 
 (1) Subject to paragraph (2), a person who delivers section 42(1)(c) information to the registrar must do so by email.
 
 (2) Paragraph (1) does not apply in respect of information to which the exception in regulation 4 of the Register of Overseas Entities (Delivery, Protection and Trust Services) Regulations 2022 applies.
 
-### 10. Publication of section 42(1)(c) information[^key-abf2046dd51bed4a8b81ced156ba2d93]
+### 10. Publication of section 42(1)(c) information[^c-abf2046dd51bed4a8b81ced156ba2d93]
 
 (1) Subject to paragraph (2), section 4(2)(1)(c) information must be made available for public inspection for a period of no less than two years, following which the registrar may transfer any such information to the Public Record Office.
 
 (2) The registrar must not make any section 42(1)(c) information available for public inspection where that information comprises material of a type described in section 22 of the ECTEA (material unavailable for inspection).
 
-### 11. Modification of section 20 of the ECTEA[^key-7b231a1dbfa5f780bcece5062b71099e]
+### 11. Modification of section 20 of the ECTEA[^c-7b231a1dbfa5f780bcece5062b71099e]
 
 Section 20 of the ECTEA (annotation of the register) applies in respect of section 42(1)(c) information as if—
 
@@ -251,7 +251,7 @@ Section 20 of the ECTEA (annotation of the register) applies in respect of secti
 
   .
 
-### 12. Modification of section 28 of the ECTEA[^key-e45730dcfc3ada542adef4badb83f992]
+### 12. Modification of section 28 of the ECTEA[^c-e45730dcfc3ada542adef4badb83f992]
 
 Section 28 of the ECTEA (administrative removal of material from register) applies in respect of section 42(1)(c) information provided to the registrar as if—
 
@@ -261,7 +261,7 @@ Section 28 of the ECTEA (administrative removal of material from register) appli
   - (i) at the end of paragraph (a) there were inserted “or”;
   - (ii) paragraph (c) were omitted.
 
-### 13. Modification of section 30 of the ECTEA[^key-47f7aa7a452507d787d3994e66c89607]
+### 13. Modification of section 30 of the ECTEA[^c-47f7aa7a452507d787d3994e66c89607]
 
 Section 30 of the ECTEA (court order to rectify register) applies in respect of section 42(1)(c) information as if—
 
@@ -295,13 +295,13 @@ A full regulatory impact assessment of the effect that the overseas entities reg
 
 [^f00001]: Footnote: [2022 c. 10](https://www.legislation.gov.uk/ukpga/2022/10) (“the ECTEA”).
 
-[^key-4ee691d9636c67b9f393a3c885d2846a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/725/regulation/1) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-4ee691d9636c67b9f393a3c885d2846a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/725/regulation/1) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
 
-[^key-3aacb027faa9d790b2b08cc32e47b08c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/725/regulation/2) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-3aacb027faa9d790b2b08cc32e47b08c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/725/regulation/2) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692), as amended by [S.I. 2019/253](https://www.legislation.gov.uk/uksi/2019/253), [680](https://www.legislation.gov.uk/uksi/2019/680), [1511](https://www.legislation.gov.uk/uksi/2019/1511), [2021/494](https://www.legislation.gov.uk/uksi/2021/494), there are other amendments but none is relevant.
 
-[^key-33b3213ec12e0c454a18879943240f19]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/725/regulation/3) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-33b3213ec12e0c454a18879943240f19]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/725/regulation/3) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
 
 [^f00003]: Footnote: See in particular regulations 3 and 8 of those Regulations.
 
@@ -309,52 +309,52 @@ A full regulatory impact assessment of the effect that the overseas entities reg
 
 [^f00005]: Footnote: [1978 No. 1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908).
 
-[^key-8b509e13ddcc879817a50061f8aadd96]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/725/regulation/4) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-8b509e13ddcc879817a50061f8aadd96]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/725/regulation/4) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
 
 [^f00006]: Footnote: “Overseas entity” has the meaning given by section 2 of the ECTEA.
 
-[^key-421673b2e16faa619c13b31c201f91a4]: Textual amendment: Word in [reg. 4(2)(e)](https://www.legislation.gov.uk/uksi/2022/725/regulation/4/2/e) omitted (15.1.2024) by virtue of [The Register of Overseas Entities (Verification and Exceptions) (Amendment) Regulations 2023 (S.I. 2023/1416)](https://www.legislation.gov.uk/uksi/2023/1416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/5/a)
+[^c-421673b2e16faa619c13b31c201f91a4]: Textual amendment: Word in [reg. 4(2)(e)](https://www.legislation.gov.uk/uksi/2022/725/regulation/4/2/e) omitted (15.1.2024) by virtue of [The Register of Overseas Entities (Verification and Exceptions) (Amendment) Regulations 2023 (S.I. 2023/1416)](https://www.legislation.gov.uk/uksi/2023/1416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/5/a)
 
-[^key-2a919f3bcede90467242689294663fd6]: Textual amendment: Word in [reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2022/725/regulation/4/2/f) substituted (15.1.2024) by [The Register of Overseas Entities (Verification and Exceptions) (Amendment) Regulations 2023 (S.I. 2023/1416)](https://www.legislation.gov.uk/uksi/2023/1416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/5/b)
+[^c-2a919f3bcede90467242689294663fd6]: Textual amendment: Word in [reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2022/725/regulation/4/2/f) substituted (15.1.2024) by [The Register of Overseas Entities (Verification and Exceptions) (Amendment) Regulations 2023 (S.I. 2023/1416)](https://www.legislation.gov.uk/uksi/2023/1416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/5/b)
 
-[^key-5b8b32f4073fe3ecc537c21bf094d4f3]: Textual amendment: [Reg. 4(2)(g)](https://www.legislation.gov.uk/uksi/2022/725/regulation/4/2/g) inserted (15.1.2024) by [The Register of Overseas Entities (Verification and Exceptions) (Amendment) Regulations 2023 (S.I. 2023/1416)](https://www.legislation.gov.uk/uksi/2023/1416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/5/c)
+[^c-5b8b32f4073fe3ecc537c21bf094d4f3]: Textual amendment: [Reg. 4(2)(g)](https://www.legislation.gov.uk/uksi/2022/725/regulation/4/2/g) inserted (15.1.2024) by [The Register of Overseas Entities (Verification and Exceptions) (Amendment) Regulations 2023 (S.I. 2023/1416)](https://www.legislation.gov.uk/uksi/2023/1416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/5/c)
 
-[^key-fbe6120212afe940fb83b96d67a48cbb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/725/regulation/5) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-fbe6120212afe940fb83b96d67a48cbb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/725/regulation/5) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
 
-[^key-51c9f1094228ef7be6352faa687663c6]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/5/1) substituted (12.1.2023) by [The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 (S.I. 2022/1389)](https://www.legislation.gov.uk/uksi/2022/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/2/2)
+[^c-51c9f1094228ef7be6352faa687663c6]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/5/1) substituted (12.1.2023) by [The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 (S.I. 2022/1389)](https://www.legislation.gov.uk/uksi/2022/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/2/2)
 
-[^key-d344e4de0240a603def960e459d73452]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/5/1) substituted (15.1.2024) by [The Register of Overseas Entities (Verification and Exceptions) (Amendment) Regulations 2023 (S.I. 2023/1416)](https://www.legislation.gov.uk/uksi/2023/1416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/6/a)
+[^c-d344e4de0240a603def960e459d73452]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/5/1) substituted (15.1.2024) by [The Register of Overseas Entities (Verification and Exceptions) (Amendment) Regulations 2023 (S.I. 2023/1416)](https://www.legislation.gov.uk/uksi/2023/1416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/6/a)
 
 [^f00007]: Footnote: “Registrar” has the meaning given in section 3 of the ECTEA.
 
-[^key-154ac6af4dd1a3b6f74377d2c8f6178b]: Textual amendment: [Reg. 5(8)](https://www.legislation.gov.uk/uksi/2022/725/regulation/5/8) inserted (15.1.2024) by [The Register of Overseas Entities (Verification and Exceptions) (Amendment) Regulations 2023 (S.I. 2023/1416)](https://www.legislation.gov.uk/uksi/2023/1416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/6/b)
+[^c-154ac6af4dd1a3b6f74377d2c8f6178b]: Textual amendment: [Reg. 5(8)](https://www.legislation.gov.uk/uksi/2022/725/regulation/5/8) inserted (15.1.2024) by [The Register of Overseas Entities (Verification and Exceptions) (Amendment) Regulations 2023 (S.I. 2023/1416)](https://www.legislation.gov.uk/uksi/2023/1416), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2023/1416/regulation/6/b)
 
-[^key-adeab27c4a19a6890d7e24bacd2aa1d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/725/regulation/6) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-adeab27c4a19a6890d7e24bacd2aa1d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/725/regulation/6) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
 
 [^f00008]: Footnote: “Registrable beneficial owner” has the meaning given in Schedule 2 to the ECTEA.
 
 [^f00009]: Footnote: “Managing officer” has the meaning give in section 44(1) of the ECTEA.
 
-[^key-597770f4fd9c7857afd558faad283b98]: Textual amendment: Words in [reg. 6(6)(b)](https://www.legislation.gov.uk/uksi/2022/725/regulation/6/6/b) inserted (12.1.2023) by [The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 (S.I. 2022/1389)](https://www.legislation.gov.uk/uksi/2022/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/2/3)
+[^c-597770f4fd9c7857afd558faad283b98]: Textual amendment: Words in [reg. 6(6)(b)](https://www.legislation.gov.uk/uksi/2022/725/regulation/6/6/b) inserted (12.1.2023) by [The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 (S.I. 2022/1389)](https://www.legislation.gov.uk/uksi/2022/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/2/3)
 
-[^key-27e86d55819fc951673b56946f37b9c0]: Textual amendment: [Reg. 6(6)(ba)](https://www.legislation.gov.uk/uksi/2022/725/regulation/6/6/ba) inserted (12.1.2023) by [The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 (S.I. 2022/1389)](https://www.legislation.gov.uk/uksi/2022/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/2/4)
+[^c-27e86d55819fc951673b56946f37b9c0]: Textual amendment: [Reg. 6(6)(ba)](https://www.legislation.gov.uk/uksi/2022/725/regulation/6/6/ba) inserted (12.1.2023) by [The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 (S.I. 2022/1389)](https://www.legislation.gov.uk/uksi/2022/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/2/4)
 
-[^key-5788f554a017e00796ed99271cfcad64]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/725/regulation/7) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-5788f554a017e00796ed99271cfcad64]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/725/regulation/7) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
 
-[^key-a7f6236dba05bd738866d9cf29798f04]: Textual amendment: Words in [reg. 7(4)(a)](https://www.legislation.gov.uk/uksi/2022/725/regulation/7/4/a) omitted (12.1.2023) by virtue of [The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 (S.I. 2022/1389)](https://www.legislation.gov.uk/uksi/2022/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/2/5)
+[^c-a7f6236dba05bd738866d9cf29798f04]: Textual amendment: Words in [reg. 7(4)(a)](https://www.legislation.gov.uk/uksi/2022/725/regulation/7/4/a) omitted (12.1.2023) by virtue of [The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 (S.I. 2022/1389)](https://www.legislation.gov.uk/uksi/2022/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/2/5)
 
-[^key-ab964941eda236ae3acdb02abf1f2b90]: Textual amendment: [Reg. 7(4)(aa)](https://www.legislation.gov.uk/uksi/2022/725/regulation/7/4/aa) inserted (12.1.2023) by [The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 (S.I. 2022/1389)](https://www.legislation.gov.uk/uksi/2022/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/2/5)
+[^c-ab964941eda236ae3acdb02abf1f2b90]: Textual amendment: [Reg. 7(4)(aa)](https://www.legislation.gov.uk/uksi/2022/725/regulation/7/4/aa) inserted (12.1.2023) by [The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 (S.I. 2022/1389)](https://www.legislation.gov.uk/uksi/2022/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/2/5)
 
-[^key-df96187864a615e1fa08934fa427cdb0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/725/regulation/8) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-df96187864a615e1fa08934fa427cdb0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/725/regulation/8) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
 
-[^key-c665fc2e11c59db8c133e76f46b72050]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/8/1) substituted (12.1.2023) by [The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 (S.I. 2022/1389)](https://www.legislation.gov.uk/uksi/2022/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/2/6)
+[^c-c665fc2e11c59db8c133e76f46b72050]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/8/1) substituted (12.1.2023) by [The Register of Overseas Entities (Verification and Provision of Information) (Amendment) Regulations 2022 (S.I. 2022/1389)](https://www.legislation.gov.uk/uksi/2022/1389), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/1389/regulation/2/6)
 
-[^key-987ff7e720cd140e0d6bd58a9d7e7b18]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/725/regulation/9) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-987ff7e720cd140e0d6bd58a9d7e7b18]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/725/regulation/9) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
 
-[^key-abf2046dd51bed4a8b81ced156ba2d93]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/725/regulation/10) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-abf2046dd51bed4a8b81ced156ba2d93]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/725/regulation/10) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
 
-[^key-7b231a1dbfa5f780bcece5062b71099e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/725/regulation/11) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-7b231a1dbfa5f780bcece5062b71099e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/725/regulation/11) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
 
-[^key-e45730dcfc3ada542adef4badb83f992]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/725/regulation/12) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-e45730dcfc3ada542adef4badb83f992]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/725/regulation/12) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
 
-[^key-47f7aa7a452507d787d3994e66c89607]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/725/regulation/13) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)
+[^c-47f7aa7a452507d787d3994e66c89607]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/725/regulation/13) comes into force in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1)

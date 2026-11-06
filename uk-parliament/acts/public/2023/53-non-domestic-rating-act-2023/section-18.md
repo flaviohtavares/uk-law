@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 18. Extent[^key-03282279418fa37eb1f6c130cd93f15f]
+## 18. Extent[^c-03282279418fa37eb1f6c130cd93f15f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03282279418fa37eb1f6c130cd93f15f]: Commencement: S. 18 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-03282279418fa37eb1f6c130cd93f15f]: Commencement: S. 18 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)

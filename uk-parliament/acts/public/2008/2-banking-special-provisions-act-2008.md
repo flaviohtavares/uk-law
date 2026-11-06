@@ -34,7 +34,7 @@ An Act to make provision to enable the Treasury in certain circumstances to make
 
 \[21st February 2008\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-6d399d42c860af520ba252bd6e721b0f]Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-6d399d42c860af520ba252bd6e721b0f][^key-8cd519fae049f21b859a457e05c862c1]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-6d399d42c860af520ba252bd6e721b0f]Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-6d399d42c860af520ba252bd6e721b0f][^c-8cd519fae049f21b859a457e05c862c1]
 
 ## Introduction
 
@@ -253,7 +253,7 @@ This is subject to subsection (7).
 
 ## Supplementary
 
-### 9. Supplementary provision about compensation schemes etc.[^key-6fc2de0ddc81c041b4365c62b59f7dec]
+### 9. Supplementary provision about compensation schemes etc.[^c-6fc2de0ddc81c041b4365c62b59f7dec]
 
 (1) An order under section 5, 7 or 8(6) may in particular make provision—
 
@@ -261,9 +261,9 @@ This is subject to subsection (7).
 - (b) for the assessment to be made by an independent valuer appointed by the Treasury;
 - (c) as to the procedure in relation to the assessment of any compensation or consideration, including provision enabling any such valuer to make rules as to that procedure;
 - (d) for decisions relating to the assessment of any compensation or consideration to be reconsidered by the person who made those decisions (including any such provision as to procedure as is mentioned in paragraph (c));
-- (e) for enabling persons to apply for decisions relating to the assessment of any compensation or consideration to be reviewed by the Upper Tribunal[^key-896cd62811ffed5d58a9ea665aa566e5] or a tribunal appointed by the Treasury for the purposes of the order;
-- (f) as to the powers of a relevant tribunal (that is to say, the Upper Tribunal[^key-77c83fd84914d4269e752dc6c07224a3] or a tribunal appointed by the Treasury for the purposes of the order);
-- (g) as to the procedure for applying for any review to a tribunal appointed by the Treasury for the purposes of the order[^key-473ad830425fdafba4da6e308bd4dc06], including provision enabling the tribunal to make rules as to that procedure;
+- (e) for enabling persons to apply for decisions relating to the assessment of any compensation or consideration to be reviewed by the Upper Tribunal[^c-896cd62811ffed5d58a9ea665aa566e5] or a tribunal appointed by the Treasury for the purposes of the order;
+- (f) as to the powers of a relevant tribunal (that is to say, the Upper Tribunal[^c-77c83fd84914d4269e752dc6c07224a3] or a tribunal appointed by the Treasury for the purposes of the order);
+- (g) as to the procedure for applying for any review to a tribunal appointed by the Treasury for the purposes of the order[^c-473ad830425fdafba4da6e308bd4dc06], including provision enabling the tribunal to make rules as to that procedure;
 - (h) as to remuneration and expenses of any independent valuer, or of any tribunal, appointed by the Treasury for the purposes of the order;
 - (i) as to the appointment of any staff of any such valuer (including provision as to their terms and conditions of employment and as to their pensions, allowances or gratuities).
 
@@ -335,7 +335,7 @@ This is subject to subsection (7).
 
 - (a) sections 5, 6 and 7 of, and Schedule 2 to, the Building Societies Act 1986 (c. 53) (establishment, constitution and powers, the lending limit and the funding limit);
 - (b) any other provision of that Act which might otherwise prevent any relevant financial assistance from being provided by the Bank of England to building societies or affect the amount of any such assistance;
-- (c)[^key-65f65ea463ab83ebdcf0ef976a7d5145] sections 8 and 9A of the Building Societies Act 1986 (restrictions on raising funds and borrowing and on transactions involving derivative instruments etc);
+- (c)[^c-65f65ea463ab83ebdcf0ef976a7d5145] sections 8 and 9A of the Building Societies Act 1986 (restrictions on raising funds and borrowing and on transactions involving derivative instruments etc);
 - (d) any other provision of that Act which might otherwise prevent building societies from entering into any transaction in connection with the provision of financial assistance by the Bank of England to building societies;
 - (e) sections 90 and 90A of, and Schedules 15 and 15A to, that Act (application of companies winding up legislation and other companies insolvency legislation to building societies).
 
@@ -442,7 +442,7 @@ as they consider appropriate for the general purposes, or any particular purpose
   - (c) on having reached a particular age,
   - (d) on the onset of any serious ill-health or incapacity, or
   - (e) in similar circumstances;
-- “[^key-9eb2a0881f1899cfde96d73ea1d4f169]**PRA Rulebook**” means the rulebook published by the Prudential Regulation Authority containing rules made by that Authority under FSMA 2000 as that rulebook has effect on 1 January 2022;
+- “[^c-9eb2a0881f1899cfde96d73ea1d4f169]**PRA Rulebook**” means the rulebook published by the Prudential Regulation Authority containing rules made by that Authority under FSMA 2000 as that rulebook has effect on 1 January 2022;
 - “**relevant guarantee arrangements**”, in relation to any authorised UK deposit-taker, has the meaning given by section 2(6);
 - “**securities**” includes—
   - (a) shares and stock,
@@ -458,11 +458,11 @@ as they consider appropriate for the general purposes, or any particular purpose
 - “**wholly owned**”, in relation to the Bank of England or the Treasury, is to be construed in accordance with subsection (6);
 - “**wholly-owned subsidiary**” has the meaning given by section 1159 of the Companies Act 2006.
 
-(2) In this Act any reference (however expressed) to securities issued by any authorised UK deposit-taker includes a reference to rights granted by the deposit-taker which form part of its own funds for the purposes of Title 1 of Part Two of[^key-8195f8e705ef276ada35c9658b66abce] [Regulation (EU) No. 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and the Own Funds and Eligible Liabilities (CRR) Part of the PRA Rulebook (and which would not otherwise be securities by virtue of subsection (1)).
+(2) In this Act any reference (however expressed) to securities issued by any authorised UK deposit-taker includes a reference to rights granted by the deposit-taker which form part of its own funds for the purposes of Title 1 of Part Two of[^c-8195f8e705ef276ada35c9658b66abce] [Regulation (EU) No. 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and the Own Funds and Eligible Liabilities (CRR) Part of the PRA Rulebook (and which would not otherwise be securities by virtue of subsection (1)).
 
-(3)[^key-4af45c3db912599c2d168dcdbf852af9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4af45c3db912599c2d168dcdbf852af9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c01786c12f2c01c4858e8c9505aa2f9b] For the purposes of this Act any undertaking that was an authorised UK deposit-taker immediately before the making of the first order under section 3 or 6 in relation to the undertaking is to be regarded as continuing to be an authorised UK deposit-taker, whether or not it would be one apart from this subsection.
+(4)[^c-c01786c12f2c01c4858e8c9505aa2f9b] For the purposes of this Act any undertaking that was an authorised UK deposit-taker immediately before the making of the first order under section 3 or 6 in relation to the undertaking is to be regarded as continuing to be an authorised UK deposit-taker, whether or not it would be one apart from this subsection.
 
 (5) For the purposes of this Act any reference (however expressed) to an undertaking which is—
 
@@ -486,7 +486,7 @@ includes, in relation to any time after the making of the first order under sect
 - (b) in relation to any time before the commencement of section 1159 of the 2006 Act, “ **wholly-owned subsidiary** ” has the meaning given by section 736 of the 1985 Act or Article 4 of the 1986 Order;
 - (c) in relation to any time before the commencement of sections 1161 and 1162 of the 2006 Act, “ **group undertaking** ”, “ **subsidiary undertaking** ” and “ **undertaking** ” have the meanings given by sections 258 and 259 of the 1985 Act or Articles 266 and 267 of the 1986 Order.
 
-### 16. Financial provision[^key-6bf6650efe794707b1c0dcc88c4f7cb6]
+### 16. Financial provision[^c-6bf6650efe794707b1c0dcc88c4f7cb6]
 
 (1) There is to be paid out of money provided by Parliament—
 
@@ -662,7 +662,7 @@ Section 6
 - (c) rights and liabilities arising on or after the transfer date in respect of matters occurring before that date;
 - (d) rights and liabilities under any pension scheme or under any other arrangement for the payment of pensions, allowances and gratuities;
 - (e) property situated outside the United Kingdom and rights and liabilities under the law of a place outside the United Kingdom;
-- (f) rights and liabilities under an enactment or EU[^key-599e6d4eaa446f5369bf417f2ddd60dd] instrument.
+- (f) rights and liabilities under an enactment or EU[^c-599e6d4eaa446f5369bf417f2ddd60dd] instrument.
 
 ### Provisions relating to property, rights and liabilities transferred
 
@@ -791,28 +791,28 @@ Section 6
 
 ## Annotations
 
-[^key-6d399d42c860af520ba252bd6e721b0f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/2) power to repeal conferred (17.2.2009 for specified purposes, 21.2.2009 in so far as not already in force) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 262](https://www.legislation.gov.uk/ukpga/2009/1/section/262), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. paras. 17](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/17)
+[^c-6d399d42c860af520ba252bd6e721b0f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/2) power to repeal conferred (17.2.2009 for specified purposes, 21.2.2009 in so far as not already in force) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 262](https://www.legislation.gov.uk/ukpga/2009/1/section/262), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. paras. 17](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/17)
 
-[^key-8cd519fae049f21b859a457e05c862c1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/2) excluded (21.2.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 229(5)](https://www.legislation.gov.uk/ukpga/2009/1/section/229/5), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/5)
+[^c-8cd519fae049f21b859a457e05c862c1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2008/2) excluded (21.2.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 229(5)](https://www.legislation.gov.uk/ukpga/2009/1/section/229/5), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/5)
 
-[^key-6fc2de0ddc81c041b4365c62b59f7dec]: Modification: S. 9 modified (21.2.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 237](https://www.legislation.gov.uk/ukpga/2009/1/section/237), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/7)
+[^c-6fc2de0ddc81c041b4365c62b59f7dec]: Modification: S. 9 modified (21.2.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 237](https://www.legislation.gov.uk/ukpga/2009/1/section/237), [263(1)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/7)
 
-[^key-896cd62811ffed5d58a9ea665aa566e5]: Textual amendment: Words in s. 9(1)(e) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 144(a)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/144/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-896cd62811ffed5d58a9ea665aa566e5]: Textual amendment: Words in s. 9(1)(e) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 144(a)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/144/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
 
-[^key-77c83fd84914d4269e752dc6c07224a3]: Textual amendment: Words in s. 9(1)(f) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 144(a)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/144/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-77c83fd84914d4269e752dc6c07224a3]: Textual amendment: Words in s. 9(1)(f) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 144(a)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/144/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
 
-[^key-473ad830425fdafba4da6e308bd4dc06]: Textual amendment: Words in s. 9(1)(g) inserted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 144(b)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/144/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-473ad830425fdafba4da6e308bd4dc06]: Textual amendment: Words in s. 9(1)(g) inserted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 144(b)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/144/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
 
-[^key-65f65ea463ab83ebdcf0ef976a7d5145]: Textual amendment: [S. 11(3)(c)](https://www.legislation.gov.uk/ukpga/2008/2/section/11/3/c) substituted (26.3.2015) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 9 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/4/3/c); [S.I. 2015/428](https://www.legislation.gov.uk/uksi/2015/428), [art. 2](https://www.legislation.gov.uk/uksi/2015/428/article/2)
+[^c-65f65ea463ab83ebdcf0ef976a7d5145]: Textual amendment: [S. 11(3)(c)](https://www.legislation.gov.uk/ukpga/2008/2/section/11/3/c) substituted (26.3.2015) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 9 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/4/3/c); [S.I. 2015/428](https://www.legislation.gov.uk/uksi/2015/428), [art. 2](https://www.legislation.gov.uk/uksi/2015/428/article/2)
 
-[^key-9eb2a0881f1899cfde96d73ea1d4f169]: Textual amendment: Words in [s. 15(1)](https://www.legislation.gov.uk/ukpga/2008/2/section/15/1) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/7/2)
+[^c-9eb2a0881f1899cfde96d73ea1d4f169]: Textual amendment: Words in [s. 15(1)](https://www.legislation.gov.uk/ukpga/2008/2/section/15/1) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/7/2)
 
-[^key-8195f8e705ef276ada35c9658b66abce]: Textual amendment: Words in [s. 15(2)](https://www.legislation.gov.uk/ukpga/2008/2/section/15/2) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/7/3)
+[^c-8195f8e705ef276ada35c9658b66abce]: Textual amendment: Words in [s. 15(2)](https://www.legislation.gov.uk/ukpga/2008/2/section/15/2) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/7/3)
 
-[^key-4af45c3db912599c2d168dcdbf852af9]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/ukpga/2008/2/section/15/3) omitted (1.1.2014) by virtue of [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 43(3)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/43/3)
+[^c-4af45c3db912599c2d168dcdbf852af9]: Textual amendment: [S. 15(3)](https://www.legislation.gov.uk/ukpga/2008/2/section/15/3) omitted (1.1.2014) by virtue of [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 43(3)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/43/3)
 
-[^key-c01786c12f2c01c4858e8c9505aa2f9b]: Textual amendment: Words in s. 15(3) inserted (31.12.2010) by [The Capital Requirements (Amendment) Regulations 2010 (S.I. 2010/2628)](https://www.legislation.gov.uk/uksi/2010/2628) , [reg. 1](https://www.legislation.gov.uk/uksi/2010/2628/regulation/1) , [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/2628/schedule/1/paragraph/3)
+[^c-c01786c12f2c01c4858e8c9505aa2f9b]: Textual amendment: Words in s. 15(3) inserted (31.12.2010) by [The Capital Requirements (Amendment) Regulations 2010 (S.I. 2010/2628)](https://www.legislation.gov.uk/uksi/2010/2628) , [reg. 1](https://www.legislation.gov.uk/uksi/2010/2628/regulation/1) , [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/2628/schedule/1/paragraph/3)
 
-[^key-6bf6650efe794707b1c0dcc88c4f7cb6]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/2008/2/section/16) excluded (31.12.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 158(5)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/158/5); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-6bf6650efe794707b1c0dcc88c4f7cb6]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/2008/2/section/16) excluded (31.12.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 158(5)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/158/5); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-599e6d4eaa446f5369bf417f2ddd60dd]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-599e6d4eaa446f5369bf417f2ddd60dd]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

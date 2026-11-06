@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Rights of entry: supplementary provisions[^key-85e4dad124df66c4c75fb3bd98249907][^key-b07e2d3984b1a3fe4beca9c3c5a664cc]
+## 108. Rights of entry: supplementary provisions[^c-85e4dad124df66c4c75fb3bd98249907][^c-b07e2d3984b1a3fe4beca9c3c5a664cc]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85e4dad124df66c4c75fb3bd98249907]: Commencement: S. 108 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-85e4dad124df66c4c75fb3bd98249907]: Commencement: S. 108 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-b07e2d3984b1a3fe4beca9c3c5a664cc]: Commencement: [S. 108](https://www.legislation.gov.uk/asc/2024/3/section/108) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-b07e2d3984b1a3fe4beca9c3c5a664cc]: Commencement: [S. 108](https://www.legislation.gov.uk/asc/2024/3/section/108) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

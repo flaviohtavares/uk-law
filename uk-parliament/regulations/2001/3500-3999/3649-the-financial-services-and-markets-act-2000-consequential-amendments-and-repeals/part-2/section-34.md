@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Form and content of company accounts: small companies[^key-435e7496dc7b4c5b5d9b4b3828962674]
+## 34. Form and content of company accounts: small companies[^c-435e7496dc7b4c5b5d9b4b3828962674]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ For paragraph 54 of Schedule 8 to the 1985 Act (form and content of company acco
 
 ## Annotations
 
-[^key-435e7496dc7b4c5b5d9b4b3828962674]: Commencement: Art. 34 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-435e7496dc7b4c5b5d9b4b3828962674]: Commencement: Art. 34 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00037]: Footnote: Substituted by [S.I. 1997/220](https://www.legislation.gov.uk/uksi/1997/220), Schedule 1.

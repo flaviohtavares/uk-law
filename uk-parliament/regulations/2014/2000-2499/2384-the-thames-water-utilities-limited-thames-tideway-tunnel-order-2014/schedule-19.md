@@ -24,11 +24,11 @@ Articles 56 and 57
 
 ### PART 1 — PUBLIC GENERAL LEGISLATION
 
-#### 1. Introduction[^key-dabd77ba825edbefde25379cd9b90501]
+#### 1. Introduction[^c-dabd77ba825edbefde25379cd9b90501]
 
 This Part 1 of this Schedule applies, modifies and excludes statutory provisions which relate to matters for which provision may be made in this Order.
 
-#### 2. Highways Act 1980[^key-23b4e54d152de786c21d3ec2bfbc7732]
+#### 2. Highways Act 1980[^c-23b4e54d152de786c21d3ec2bfbc7732]
 
 (1) Section 141 of the Highways Act 1980 (restriction on planting trees etc. in or near carriageway) shall not apply to any tree or shrub planted in the course of the authorised project before completion of construction.
 
@@ -39,11 +39,11 @@ This Part 1 of this Schedule applies, modifies and excludes statutory provisions
 
 (3) Sections 169(1), 172 and 173 of that Act (control of scaffolding on highways, hoardings to be set up during building etc, and hoardings to be securely erected) shall not apply to anything done in the course of the authorised project before completion of construction.
 
-#### 3. Building Act 1984[^key-aa240734085c164a789413e62f6c33f8]
+#### 3. Building Act 1984[^c-aa240734085c164a789413e62f6c33f8]
 
 Nothing in Part 1 of the Building Act 1984 with respect to building regulations, and nothing in any building regulations, shall apply in relation to a building used, or intended for use, by the undertaker for the purposes of the authorised project before completion of construction.
 
-#### 4. New Roads and Street Works Act 1991[^key-b7768af373582e8ed771bebe656b50d2]
+#### 4. New Roads and Street Works Act 1991[^c-b7768af373582e8ed771bebe656b50d2]
 
 (1) The powers conferred by section 56(1) and (1A) of the New Roads and Street Works Act 1991 (powers to give directions as to the timing of proposed and subsisting street works) shall not apply in relation to the authorised project.
 
@@ -73,11 +73,11 @@ Nothing in Part 1 of the Building Act 1984 with respect to building regulations,
 
 (14) Paragraph 5(1) of that Schedule (*effect of direction under paragraph 4 restricting further works*) shall not apply in relation to the execution of works in the course of the authorised project.
 
-#### 5. Water Industry Act 1991[^key-68d458dc4a76ebdea0ae9e0431b7d68a]
+#### 5. Water Industry Act 1991[^c-68d458dc4a76ebdea0ae9e0431b7d68a]
 
 Section 106(8) of the Water Industry Act 1991 (which qualifies the general right to communicate with the public sewers of a sewerage undertaker) shall not apply in relation to the authorised project.
 
-#### 6. Party  Wall etc. Act 1996[^key-bb4a40242b6cb7ca8ffb7235d167f73c]
+#### 6. Party  Wall etc. Act 1996[^c-bb4a40242b6cb7ca8ffb7235d167f73c]
 
 (1) No notice under section 1(2) or (5) of the Party Wall etc. Act 1996 (notice before building on line of junction with adjoining land) shall be required before the building of any wall in the course of the authorised project before completion of construction.
 
@@ -88,18 +88,18 @@ Section 106(8) of the Water Industry Act 1991 (which qualifies the general right
 
 (3) Section 6 of the Party Wall etc. Act 1996 (underpinning of adjoining buildings) shall not apply in relation to a proposal to excavate, or excavate for and erect anything, in the course of the authorised project before completion of construction.
 
-#### 7. Planning Act 2008 - Application of the 2010 Regulations (Community Infrastructure Levy)[^key-609083d2f63a4c6716bc67a0d9236e6b]
+#### 7. Planning Act 2008 - Application of the 2010 Regulations (Community Infrastructure Levy)[^c-609083d2f63a4c6716bc67a0d9236e6b]
 
 Notwithstanding the provisions of section 208 of the 2008 Act, for the purposes of regulation 6 of the Community Infrastructure Levy Regulations 2010 any building comprised in the authorised development shall be deemed to be
 
 - (a) a building into which people do not normally go; or
 - (b) a building into which people go only intermittently for the purpose of inspecting or maintaining fixed plant or machinery.
 
-#### 8. Local Government (Miscellaneous Provisions) Act 1976[^key-bd950166aa2f5d43c540c38fc26d75b3]
+#### 8. Local Government (Miscellaneous Provisions) Act 1976[^c-bd950166aa2f5d43c540c38fc26d75b3]
 
 Section 42 of The Local Government (Miscellaneous Provisions) Act 1976 (certain future local Acts, etc., to be subject to the planning enactments, etc., except as otherwise provided) shall not apply to the extent that it would make provisions of this Order authorising the authorised project subject to other provisions.
 
-#### 9. Town and Country Planning Act 1990[^key-3f471395cb0899a6af0633401acf6372]
+#### 9. Town and Country Planning Act 1990[^c-3f471395cb0899a6af0633401acf6372]
 
 (1) No order, notice or regulation under the Town and Country Planning Act 1990 in relation to the preservation of trees, shall have effect in relation to the authorised project.
 
@@ -110,7 +110,7 @@ Section 42 of The Local Government (Miscellaneous Provisions) Act 1976 (certain 
 
 (3) For the purposes only of Section 106 (1) of that Act the undertaker shall be deemed to be a person interested in the Order Land or any part of it and for the avoidance of doubt Section 106(3)(a) shall include any transferee under Article 9 of this Order.
 
-#### 10. Coast Protection Act 1949[^key-8e4ee459672aa1f4705f1786d150d98f]
+#### 10. Coast Protection Act 1949[^c-8e4ee459672aa1f4705f1786d150d98f]
 
 (1) The following provisions of the Coast Protection Act 1949 shall not apply to the authorised project.
 
@@ -119,23 +119,23 @@ Section 42 of The Local Government (Miscellaneous Provisions) Act 1976 (certain 
 - (a) section 16(1) (consent of coast protection authority required for carrying out coast protection work), and
 - (b) section 18(1) (prohibition of excavation or removal of materials from seashore).
 
-#### 11. Flood and Water Management Act 2010[^key-4e9aedf5b12b6802fa7d1beb5ae02067]
+#### 11. Flood and Water Management Act 2010[^c-4e9aedf5b12b6802fa7d1beb5ae02067]
 
 Section 30 and Schedule 1 of the Flood and Water Management Act 2010 shall not apply in relation to the authorised project.
 
-#### 12. National Parks and Access to Countryside Act 1949[^key-824fd8068d6a0f0b525cbca16b63d839]
+#### 12. National Parks and Access to Countryside Act 1949[^c-824fd8068d6a0f0b525cbca16b63d839]
 
 Sections 51, 52 and 55 (general provisions as to long-distance routes, approval of proposals relating to long-distance routes, variation of approved proposals) of the National Parks and Access to Countryside Act 1949 shall not apply in relation to the authorised project.
 
-#### 13. Control of Pollution Act 1974[^key-c99cf22222208c398e1b32991fc4b229]
+#### 13. Control of Pollution Act 1974[^c-c99cf22222208c398e1b32991fc4b229]
 
-(1) Where a local authority is acting further to Section 60(4) of the Control of Pollution Act 1974 in relation to the construction of the authorised project and works before completion of construction then that local authority shall also have regard to the noise levels referred to in the environmental statement[^key-761928d34ac76eed5bbe965e74ca766c] for each construction site and the principles of the Code of Construction Practice.
+(1) Where a local authority is acting further to Section 60(4) of the Control of Pollution Act 1974 in relation to the construction of the authorised project and works before completion of construction then that local authority shall also have regard to the noise levels referred to in the environmental statement[^c-761928d34ac76eed5bbe965e74ca766c] for each construction site and the principles of the Code of Construction Practice.
 
 (2) Sections 60(7) and 61(7) of the Control of Pollution Act 1974 shall not apply in relation to the authorised project.
 
 (3) Underground tunnelling works shall be regulated by Sections 60 and 61 of the Control of Pollution Act 1974.
 
-### PART 2 — LOCAL LEGISLATION[^key-a285986afd9d776ce86eef1c7b1bdef4]
+### PART 2 — LOCAL LEGISLATION[^c-a285986afd9d776ce86eef1c7b1bdef4]
 
 | Year | Chapter | Short Title |
 | --- | --- | --- |
@@ -199,32 +199,32 @@ Sections 51, 52 and 55 (general provisions as to long-distance routes, approval 
 
 ## Annotations
 
-[^key-dabd77ba825edbefde25379cd9b90501]: Commencement: Sch. 19 para. 1 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-dabd77ba825edbefde25379cd9b90501]: Commencement: Sch. 19 para. 1 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-23b4e54d152de786c21d3ec2bfbc7732]: Commencement: Sch. 19 para. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-23b4e54d152de786c21d3ec2bfbc7732]: Commencement: Sch. 19 para. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-aa240734085c164a789413e62f6c33f8]: Commencement: Sch. 19 para. 3 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-aa240734085c164a789413e62f6c33f8]: Commencement: Sch. 19 para. 3 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-b7768af373582e8ed771bebe656b50d2]: Commencement: Sch. 19 para. 4 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-b7768af373582e8ed771bebe656b50d2]: Commencement: Sch. 19 para. 4 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-68d458dc4a76ebdea0ae9e0431b7d68a]: Commencement: Sch. 19 para. 5 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-68d458dc4a76ebdea0ae9e0431b7d68a]: Commencement: Sch. 19 para. 5 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-bb4a40242b6cb7ca8ffb7235d167f73c]: Commencement: Sch. 19 para. 6 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-bb4a40242b6cb7ca8ffb7235d167f73c]: Commencement: Sch. 19 para. 6 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-609083d2f63a4c6716bc67a0d9236e6b]: Commencement: Sch. 19 para. 7 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-609083d2f63a4c6716bc67a0d9236e6b]: Commencement: Sch. 19 para. 7 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-bd950166aa2f5d43c540c38fc26d75b3]: Commencement: Sch. 19 para. 8 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-bd950166aa2f5d43c540c38fc26d75b3]: Commencement: Sch. 19 para. 8 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-3f471395cb0899a6af0633401acf6372]: Commencement: Sch. 19 para. 9 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-3f471395cb0899a6af0633401acf6372]: Commencement: Sch. 19 para. 9 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-8e4ee459672aa1f4705f1786d150d98f]: Commencement: Sch. 19 para. 10 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-8e4ee459672aa1f4705f1786d150d98f]: Commencement: Sch. 19 para. 10 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-4e9aedf5b12b6802fa7d1beb5ae02067]: Commencement: Sch. 19 para. 11 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-4e9aedf5b12b6802fa7d1beb5ae02067]: Commencement: Sch. 19 para. 11 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-824fd8068d6a0f0b525cbca16b63d839]: Commencement: Sch. 19 para. 12 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-824fd8068d6a0f0b525cbca16b63d839]: Commencement: Sch. 19 para. 12 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-c99cf22222208c398e1b32991fc4b229]: Commencement: Sch. 19 para. 13 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-c99cf22222208c398e1b32991fc4b229]: Commencement: Sch. 19 para. 13 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-761928d34ac76eed5bbe965e74ca766c]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/uksi/2014/2384) substituted (17.3.2015) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Correction) Order 2015 (S.I. 2015/723)](https://www.legislation.gov.uk/uksi/2015/723), [art. 1](https://www.legislation.gov.uk/uksi/2015/723/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/723/schedule) Table 1
+[^c-761928d34ac76eed5bbe965e74ca766c]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/uksi/2014/2384) substituted (17.3.2015) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Correction) Order 2015 (S.I. 2015/723)](https://www.legislation.gov.uk/uksi/2015/723), [art. 1](https://www.legislation.gov.uk/uksi/2015/723/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/723/schedule) Table 1
 
-[^key-a285986afd9d776ce86eef1c7b1bdef4]: Commencement: Sch. 19 Pt. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-a285986afd9d776ce86eef1c7b1bdef4]: Commencement: Sch. 19 Pt. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

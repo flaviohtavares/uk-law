@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 9.4. Graves and memorials maintained by the Commonwealth War Graves Commission[^key-6c6bd8abd9167d528670366a7abf4da7]
+## 9.4. Graves and memorials maintained by the Commonwealth War Graves Commission[^c-6c6bd8abd9167d528670366a7abf4da7]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ If it appears that the works or proposals to which a petition relates will or ma
 
 ## Annotations
 
-[^key-6c6bd8abd9167d528670366a7abf4da7]: Commencement: [Rule 9.4](https://www.legislation.gov.uk/uksi/2015/1568/article/9.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-6c6bd8abd9167d528670366a7abf4da7]: Commencement: [Rule 9.4](https://www.legislation.gov.uk/uksi/2015/1568/article/9.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

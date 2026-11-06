@@ -31,7 +31,7 @@ summary: ''
 
 Agriculture
 
-The Feed (Specified Undesirable Substances) Regulations (Northern Ireland) 2007 (revoked)[^key-bc870d3f2ec51428857268ee009f2773]
+The Feed (Specified Undesirable Substances) Regulations (Northern Ireland) 2007 (revoked)[^c-bc870d3f2ec51428857268ee009f2773]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into operation
 
 30th November 2007
 
-[^key-bc870d3f2ec51428857268ee009f2773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc870d3f2ec51428857268ee009f2773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-bc870d3f2ec51428857268ee009f2773]
+## 1. Citation, commencement and interpretation[^c-bc870d3f2ec51428857268ee009f2773]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Feeding Stuffs Regulations (Northern Ireland) 2005[^key-bc870d3f2ec51428857268ee009f2773]
+## 2. Amendments to the Feeding Stuffs Regulations (Northern Ireland) 2005[^c-bc870d3f2ec51428857268ee009f2773]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bc870d3f2ec51428857268ee009f2773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc870d3f2ec51428857268ee009f2773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Entries to comprise Chapter D of Schedule 5 to the Feeding Stuffs Regulations (Northern Ireland) 2005[^key-bc870d3f2ec51428857268ee009f2773]
+## SCHEDULE 1 — Entries to comprise Chapter D of Schedule 5 to the Feeding Stuffs Regulations (Northern Ireland) 2005[^c-bc870d3f2ec51428857268ee009f2773]
 
 Regulation 2(3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-bc870d3f2ec51428857268ee009f2773]
+## SCHEDULE 2[^c-bc870d3f2ec51428857268ee009f2773]
 
 Regulation 2(4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bc870d3f2ec51428857268ee009f2773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc870d3f2ec51428857268ee009f2773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bc870d3f2ec51428857268ee009f2773]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/450) revoked (23.11.2010) by [The Animal Feed Regulations (Northern Ireland) 2010 (S.R. 2010/355)](https://www.legislation.gov.uk/nisr/2010/355), [reg. 1](https://www.legislation.gov.uk/nisr/2010/355/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/355/schedule/2)
+[^c-bc870d3f2ec51428857268ee009f2773]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/450) revoked (23.11.2010) by [The Animal Feed Regulations (Northern Ireland) 2010 (S.R. 2010/355)](https://www.legislation.gov.uk/nisr/2010/355), [reg. 1](https://www.legislation.gov.uk/nisr/2010/355/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/355/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.57. Non-compliance by receiver[^key-cb189deca107966903981ec78aa8ba4a]
+## 33.57. Non-compliance by receiver[^c-cb189deca107966903981ec78aa8ba4a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb189deca107966903981ec78aa8ba4a]: Commencement: [Rule 33.57](https://www.legislation.gov.uk/uksi/2025/909/rule/33.57) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-cb189deca107966903981ec78aa8ba4a]: Commencement: [Rule 33.57](https://www.legislation.gov.uk/uksi/2025/909/rule/33.57) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

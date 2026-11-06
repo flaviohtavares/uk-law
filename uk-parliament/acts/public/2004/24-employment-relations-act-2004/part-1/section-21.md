@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Information required by ACAS for ballots and ascertaining union membership[^key-b23a5648f0b94306759bbb428569d1af]
+## 21. Information required by ACAS for ballots and ascertaining union membership[^c-b23a5648f0b94306759bbb428569d1af]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ After section 210 of the 1992 Act insert—
 
 ## Annotations
 
-[^key-b23a5648f0b94306759bbb428569d1af]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2004/24/section/21) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)
+[^c-b23a5648f0b94306759bbb428569d1af]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2004/24/section/21) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65A. Duty to report late payment of employer contributions[^key-6e0254a5de1b0797cab3bd8769dc18ca]
+## 65A. Duty to report late payment of employer contributions[^c-6e0254a5de1b0797cab3bd8769dc18ca]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ the scheme manager must give a written report of the matter to the Regulator as 
 
 ## Annotations
 
-[^key-6e0254a5de1b0797cab3bd8769dc18ca]: Textual amendment: Art. 65A and cross-heading inserted (1.4.2015) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/7); [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-6e0254a5de1b0797cab3bd8769dc18ca]: Textual amendment: Art. 65A and cross-heading inserted (1.4.2015) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/7); [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))

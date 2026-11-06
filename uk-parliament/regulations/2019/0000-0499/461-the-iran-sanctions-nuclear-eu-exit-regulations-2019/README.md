@@ -44,7 +44,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-The Secretary of State [^c23621801], in exercise of the powers conferred by sections 1(1)(a) and (c) and (3), 3(1)(a), (b)(i) and (ii), (d)(i) and (ii) and (2)(b) and (c), 4, 5, 9(2)(a), 10(2)(a) and (c), (3) and (4), 11(2) to (9), 13, 15(2)(a) and (b), (3), (4)(b), (5) and (6), 16, 17(2) to (9), 19, 20, 21(1), 54(1)(a) and (2)(a), 56(1) and 62(4) to (6) of, and paragraphs 2(b), 3(a) and (b), 4(b) and (c), 5(a)(ii), (b), (c) and (d), 6(a)(ii), (b), 7(b), 11(a), 13(b), (h), (k), (l), (m), (n) and (w), 14(a), (f) and (k), 17, 19 to 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c23621811], and having decided, upon consideration of the matters set out in section 2(2) and 56(1) of that Act, that it is appropriate to do so, makes the following Regulations:[^key-2af9b41396e226d06d5ef3f2813ca991]
+The Secretary of State [^c23621801], in exercise of the powers conferred by sections 1(1)(a) and (c) and (3), 3(1)(a), (b)(i) and (ii), (d)(i) and (ii) and (2)(b) and (c), 4, 5, 9(2)(a), 10(2)(a) and (c), (3) and (4), 11(2) to (9), 13, 15(2)(a) and (b), (3), (4)(b), (5) and (6), 16, 17(2) to (9), 19, 20, 21(1), 54(1)(a) and (2)(a), 56(1) and 62(4) to (6) of, and paragraphs 2(b), 3(a) and (b), 4(b) and (c), 5(a)(ii), (b), (c) and (d), 6(a)(ii), (b), 7(b), 11(a), 13(b), (h), (k), (l), (m), (n) and (w), 14(a), (f) and (k), 17, 19 to 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c23621811], and having decided, upon consideration of the matters set out in section 2(2) and 56(1) of that Act, that it is appropriate to do so, makes the following Regulations:[^c-2af9b41396e226d06d5ef3f2813ca991]
 
 ## Contents
 
@@ -76,7 +76,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Asset-freeze etc.[^key-0e310595f05937b9828a2d39e271ac3b]
+#### Chapter 1 — Asset-freeze etc.[^c-0e310595f05937b9828a2d39e271ac3b]
 
 - [Section 11 — Meaning of “designated person” in Part 3](part-3/section-11.md)
 - [Section 12 — Asset-freeze in relation to designated persons](part-3/section-12.md)
@@ -85,7 +85,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 - [Section 15 — Making economic resources available to designated person](part-3/section-15.md)
 - [Section 16 — Making economic resources available for benefit of designated person](part-3/section-16.md)
 
-#### Chapter 2 — Investment, financial services and financial markets[^key-0441bb24dc89bb2f56eeb3a4c7f6412a]
+#### Chapter 2 — Investment, financial services and financial markets[^c-0441bb24dc89bb2f56eeb3a4c7f6412a]
 
 - [Section 17 — Financial messaging services](part-3/section-17.md)
 - [Section 17A — Investments in relation to Iran](part-3/section-17a.md)
@@ -93,11 +93,11 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 - [Section 17C — Insurance and reinsurance services](part-3/section-17c.md)
 - [Section 17D — Sale or purchase of bonds](part-3/section-17d.md)
 
-#### Chapter 3 — Further Provision[^key-601c11edb6009968a89e9d78b6a7c6c2]
+#### Chapter 3 — Further Provision[^c-601c11edb6009968a89e9d78b6a7c6c2]
 
 - [Section 18 — Circumventing etc prohibitions](part-3/section-18.md)
 
-### PART 3A — Director disqualification sanctions[^key-b0facd111cb7ee691bcefc833f1b75c8]
+### PART 3A — Director disqualification sanctions[^c-b0facd111cb7ee691bcefc833f1b75c8]
 
 - [Section 18A — Director disqualification sanctions](part-3a/section-18a.md)
 
@@ -111,7 +111,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Exports and related activities: restricted goods and restricted technology[^key-6fa2a7d7997b9b4c6b7852ed4f6018f6]
+#### CHAPTER 1 — Exports and related activities: restricted goods and restricted technology[^c-6fa2a7d7997b9b4c6b7852ed4f6018f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -124,7 +124,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 - [Section 26 — Financial services and funds relating to restricted goods and restricted technology](part-5/section-26.md)
 - [Section 27 — Brokering services: non-UK activity relating to restricted goods and restricted technology](part-5/section-27.md)
 
-#### Chapter 1A — Exports and related activities: gold, precious metals and diamonds[^key-29bf5c8659ab2e2f015214b7c9ad1095]
+#### Chapter 1A — Exports and related activities: gold, precious metals and diamonds[^c-29bf5c8659ab2e2f015214b7c9ad1095]
 
 - [Section 27A — Export of gold, precious metals and diamonds to Iran](part-5/section-27a.md)
 - [Section 27B — Supply and delivery of gold, precious metals and diamonds to Iran](part-5/section-27b.md)
@@ -133,7 +133,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 - [Section 27E — Financial services and funds relating to gold, precious metals and diamonds](part-5/section-27e.md)
 - [Section 27F — Brokering services relating to gold, precious metals and diamonds](part-5/section-27f.md)
 
-#### Chapter 1B — Exports and related activities: energy-related goods and energy-related technology[^key-29bf5c8659ab2e2f015214b7c9ad1095]
+#### Chapter 1B — Exports and related activities: energy-related goods and energy-related technology[^c-29bf5c8659ab2e2f015214b7c9ad1095]
 
 - [Section 27G — Interpretation](part-5/section-27g.md)
 - [Section 27H — Export of energy-related goods](part-5/section-27h.md)
@@ -145,7 +145,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 - [Section 27N — Brokering services: non-UK activity relating to energy-related goods and energy-related technology.](part-5/section-27n.md)
 - [Section 27O — Prohibition on providing relevant energy-related services](part-5/section-27o.md)
 
-#### Chapter 1C — Sectoral software goods and sectoral software and technology[^key-29bf5c8659ab2e2f015214b7c9ad1095]
+#### Chapter 1C — Sectoral software goods and sectoral software and technology[^c-29bf5c8659ab2e2f015214b7c9ad1095]
 
 - [Section 27P — Export of sectoral software goods](part-5/section-27p.md)
 - [Section 27Q — Supply and delivery of sectoral software goods](part-5/section-27q.md)
@@ -155,7 +155,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 - [Section 27U — Financial services and funds relating to sectoral software goods and sectoral software and technology](part-5/section-27u.md)
 - [Section 27V — Brokering services: non-UK activity relating to sectoral software goods and sectoral software and technology](part-5/section-27v.md)
 
-#### CHAPTER 2 — Imports and related activities: certain goods and technology[^key-907b2194cff66c50aa5353a335d7ba85]
+#### CHAPTER 2 — Imports and related activities: certain goods and technology[^c-907b2194cff66c50aa5353a335d7ba85]
 
 *Extent: E+W+S+N.I.*
 
@@ -168,7 +168,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 - [Section 31B — Financial services and funds relating to relevant goods and technology](part-5/section-31b.md)
 - [Section 31C — Brokering services relating to relevant goods and technology](part-5/section-31c.md)
 
-#### Chapter 2A — Imports and related activities: gold, precious metals and diamonds[^key-4ad1f2c796308dd4c656dc2768c0e8b2]
+#### Chapter 2A — Imports and related activities: gold, precious metals and diamonds[^c-4ad1f2c796308dd4c656dc2768c0e8b2]
 
 - [Section 31D — Import of gold, precious metals and diamonds](part-5/section-31d.md)
 - [Section 31E — Acquisition of gold, precious metals and diamonds](part-5/section-31e.md)
@@ -177,7 +177,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 - [Section 31H — Financial services and funds relating to gold, precious metals and diamonds](part-5/section-31h.md)
 - [Section 31I — Brokering services relating to gold, precious metals and diamonds](part-5/section-31i.md)
 
-#### Chapter 2B — Imports and related activities: oil and petroleum products[^key-4ad1f2c796308dd4c656dc2768c0e8b2]
+#### Chapter 2B — Imports and related activities: oil and petroleum products[^c-4ad1f2c796308dd4c656dc2768c0e8b2]
 
 - [Section 31J — Import of oil and petroleum products](part-5/section-31j.md)
 - [Section 31K — Acquisition of oil and petroleum products](part-5/section-31k.md)
@@ -186,7 +186,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 - [Section 31N — Financial services and funds relating to oil and petroleum products](part-5/section-31n.md)
 - [Section 31O — Brokering services relating to oil and petroleum products](part-5/section-31o.md)
 
-#### Chapter 2C — Imports and related activities: petrochemicals[^key-4ad1f2c796308dd4c656dc2768c0e8b2]
+#### Chapter 2C — Imports and related activities: petrochemicals[^c-4ad1f2c796308dd4c656dc2768c0e8b2]
 
 - [Section 31P — Import of petrochemicals](part-5/section-31p.md)
 - [Section 31Q — Acquisition of petrochemicals](part-5/section-31q.md)
@@ -195,7 +195,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 - [Section 31T — Financial services and funds relating to petrochemicals](part-5/section-31t.md)
 - [Section 31U — Brokering services relating to petrochemicals](part-5/section-31u.md)
 
-#### Chapter 2D — Imports and related activities: natural gas[^key-4ad1f2c796308dd4c656dc2768c0e8b2]
+#### Chapter 2D — Imports and related activities: natural gas[^c-4ad1f2c796308dd4c656dc2768c0e8b2]
 
 - [Section 31V — Import of natural gas](part-5/section-31v.md)
 - [Section 31W — Acquisition of natural gas](part-5/section-31w.md)
@@ -226,7 +226,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 - [Section 35A — Trade: end-use control](part-5/section-35a.md)
 - [Section 36 — Defences](part-5/section-36.md)
 
-### Part 5A — Aircraft[^key-5bd0749f2d2e767bee5d86d7ac3dabe0]
+### Part 5A — Aircraft[^c-5bd0749f2d2e767bee5d86d7ac3dabe0]
 
 - [Section 36A — Movement of aircraft](part-5a/section-36a.md)
 - [Section 36B — Directions under regulation 36A](part-5a/section-36b.md)
@@ -234,7 +234,7 @@ The Secretary of State [^c23621801], in exercise of the powers conferred by sect
 - [Section 36D — Aircraft offences](part-5a/section-36d.md)
 - [Section 36E — Interpretation of Part 5A](part-5a/section-36e.md)
 
-### Part 5B — Ships[^key-5bd0749f2d2e767bee5d86d7ac3dabe0]
+### Part 5B — Ships[^c-5bd0749f2d2e767bee5d86d7ac3dabe0]
 
 - [Section 36F — Prohibition on chartering or operating specified ships](part-5b/section-36f.md)
 - [Section 36G — Prohibition on port entry](part-5b/section-36g.md)
@@ -392,22 +392,22 @@ An Impact Assessment has not been produced for these Regulations, as they are in
 
 [^c23621811]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-2af9b41396e226d06d5ef3f2813ca991]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after both [S.I. 2020/591](https://www.legislation.gov.uk/uksi/2020/591) and [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) have come into force) by [The Iran (Sanctions) (Nuclear) (Overseas Territories) Order 2020 (S.I. 2020/1563)](https://www.legislation.gov.uk/uksi/2020/1563), [art. 2](https://www.legislation.gov.uk/uksi/2020/1563/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1563/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1563/schedule/2) (as amended (11.12.2025) by [S.I. 2025/1307](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2025/1307/schedule/6)); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5), [17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-2af9b41396e226d06d5ef3f2813ca991]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after both [S.I. 2020/591](https://www.legislation.gov.uk/uksi/2020/591) and [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) have come into force) by [The Iran (Sanctions) (Nuclear) (Overseas Territories) Order 2020 (S.I. 2020/1563)](https://www.legislation.gov.uk/uksi/2020/1563), [art. 2](https://www.legislation.gov.uk/uksi/2020/1563/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1563/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1563/schedule/2) (as amended (11.12.2025) by [S.I. 2025/1307](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2025/1307/schedule/6)); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5), [17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
-[^key-0e310595f05937b9828a2d39e271ac3b]: Textual amendment: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/461/part/3/chapter/1) heading inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2026/983/regulation/6/a)
+[^c-0e310595f05937b9828a2d39e271ac3b]: Textual amendment: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2019/461/part/3/chapter/1) heading inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2026/983/regulation/6/a)
 
-[^key-0441bb24dc89bb2f56eeb3a4c7f6412a]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/461/part/3/chapter/2) heading inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2026/983/regulation/6/b)
+[^c-0441bb24dc89bb2f56eeb3a4c7f6412a]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/461/part/3/chapter/2) heading inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2026/983/regulation/6/b)
 
-[^key-601c11edb6009968a89e9d78b6a7c6c2]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2019/461/part/3/chapter/3) heading inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [6(d)](https://www.legislation.gov.uk/uksi/2026/983/regulation/6/d)
+[^c-601c11edb6009968a89e9d78b6a7c6c2]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/uksi/2019/461/part/3/chapter/3) heading inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [6(d)](https://www.legislation.gov.uk/uksi/2026/983/regulation/6/d)
 
-[^key-b0facd111cb7ee691bcefc833f1b75c8]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2019/461/part/3A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2024/644/regulation/5/4)
+[^c-b0facd111cb7ee691bcefc833f1b75c8]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2019/461/part/3A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2024/644/regulation/5/4)
 
-[^key-6fa2a7d7997b9b4c6b7852ed4f6018f6]: Textual amendment: [Pt. 5 Ch. 1](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/1) heading substituted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/a)
+[^c-6fa2a7d7997b9b4c6b7852ed4f6018f6]: Textual amendment: [Pt. 5 Ch. 1](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/1) heading substituted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/a)
 
-[^key-29bf5c8659ab2e2f015214b7c9ad1095]: Textual amendment: [Pt. 5 Chs. 1A-1C](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/1A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(e)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/e)
+[^c-29bf5c8659ab2e2f015214b7c9ad1095]: Textual amendment: [Pt. 5 Chs. 1A-1C](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/1A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(e)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/e)
 
-[^key-907b2194cff66c50aa5353a335d7ba85]: Textual amendment: [Pt. 5 Ch. 2](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/2) heading substituted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(f)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/f)
+[^c-907b2194cff66c50aa5353a335d7ba85]: Textual amendment: [Pt. 5 Ch. 2](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/2) heading substituted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(f)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/f)
 
-[^key-4ad1f2c796308dd4c656dc2768c0e8b2]: Textual amendment: [Pt. 5 Chs. 2A-2D](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/2A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(m)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/m)
+[^c-4ad1f2c796308dd4c656dc2768c0e8b2]: Textual amendment: [Pt. 5 Chs. 2A-2D](https://www.legislation.gov.uk/uksi/2019/461/part/5/chapter/2A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(m)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/m)
 
-[^key-5bd0749f2d2e767bee5d86d7ac3dabe0]: Textual amendment: [Pts. 5A](https://www.legislation.gov.uk/uksi/2019/461/part/5A), [5B](https://www.legislation.gov.uk/uksi/2019/461/part/5B) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/983/regulation/8)
+[^c-5bd0749f2d2e767bee5d86d7ac3dabe0]: Textual amendment: [Pts. 5A](https://www.legislation.gov.uk/uksi/2019/461/part/5A), [5B](https://www.legislation.gov.uk/uksi/2019/461/part/5B) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/983/regulation/8)

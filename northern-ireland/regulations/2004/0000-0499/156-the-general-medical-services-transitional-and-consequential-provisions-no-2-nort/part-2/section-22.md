@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Investigation of outstanding complaints[^key-b99966975ed34f1f8af8191a3d010513]
+## 22. Investigation of outstanding complaints[^c-b99966975ed34f1f8af8191a3d010513]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ that complaint must be investigated by one of the persons specified in paragraph
 
 ## Annotations
 
-[^key-b99966975ed34f1f8af8191a3d010513]: Commencement: Art. 22 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-b99966975ed34f1f8af8191a3d010513]: Commencement: Art. 22 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

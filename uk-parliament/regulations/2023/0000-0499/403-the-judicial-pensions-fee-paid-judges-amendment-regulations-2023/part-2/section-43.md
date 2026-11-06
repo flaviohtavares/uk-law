@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Commutation of small pensions[^key-7b4cb3c3134b3b7f9ce52efcc5febc5b]
+## 43. Commutation of small pensions[^c-7b4cb3c3134b3b7f9ce52efcc5febc5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,7 +63,7 @@ After regulation 69 insert—
 
 ## Annotations
 
-[^key-7b4cb3c3134b3b7f9ce52efcc5febc5b]: Commencement: Reg. 43 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-7b4cb3c3134b3b7f9ce52efcc5febc5b]: Commencement: Reg. 43 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
 
 [^f00020]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); paragraph 7 was amended by Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), Schedule 16 paragraphs 23 and 29 and Schedule 18 paragraphs 1, 3 and 4, the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26) section 42(1), the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30) Schedule 1, Part 5, paragraph 71(1)(a), (b) and (c), the Finance Act [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24) Schedule 5, paragraph 7(1), (2) and (3),the Finance Act [2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26) Schedule 5, paragraph 21(1) and (6) and [S.I. 2006/572](https://www.legislation.gov.uk/uksi/2006/572) (as amended by [S.I. 2009/1172](https://www.legislation.gov.uk/uksi/2009/1172)).
 

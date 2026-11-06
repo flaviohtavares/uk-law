@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Proceedings in connection with the general anti-avoidance rule[^key-aae1b0741c5d37b024a5e0235751c744]
+## 67. Proceedings in connection with the general anti-avoidance rule[^c-aae1b0741c5d37b024a5e0235751c744]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aae1b0741c5d37b024a5e0235751c744]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2014/16/section/67) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-aae1b0741c5d37b024a5e0235751c744]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2014/16/section/67) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

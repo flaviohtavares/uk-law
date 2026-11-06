@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Form and content of company accounts: small companies[^key-38b3531cb1e319511615fcc6af6bca39]
+## 70. Form and content of company accounts: small companies[^c-38b3531cb1e319511615fcc6af6bca39]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ For paragraph 54 of Schedule 8[^f00073] to the 1986 Order (form and content of c
 
 ## Annotations
 
-[^key-38b3531cb1e319511615fcc6af6bca39]: Commencement: Art. 70 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-38b3531cb1e319511615fcc6af6bca39]: Commencement: Art. 70 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00073]: Footnote: Schedule 8 was substituted by [SR (NI) 1997/436](https://www.legislation.gov.uk/nisr/1997/436).

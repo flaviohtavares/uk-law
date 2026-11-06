@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Pension scheme for fee-paid judges[^key-8cb76f85972a5da19b379653f5771d46]
+## 18A. Pension scheme for fee-paid judges[^c-8cb76f85972a5da19b379653f5771d46]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,9 +31,9 @@ summary: ''
 - (a) section 1 of the Public Service Pensions Act 2013, or
 - (b) section 1 of the Public Service Pensions Act (Northern Ireland) 2014 (c. 2).
 
-(4)[^key-347fcc685dda5268ad2b40d79ea00f46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-347fcc685dda5268ad2b40d79ea00f46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-347fcc685dda5268ad2b40d79ea00f46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-347fcc685dda5268ad2b40d79ea00f46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Regulations under this section may, in particular, include provision corresponding or similar to—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8cb76f85972a5da19b379653f5771d46]: Textual amendment: Pt. 1A inserted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 78(1)](https://www.legislation.gov.uk/ukpga/2015/8/section/78/1), [89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-8cb76f85972a5da19b379653f5771d46]: Textual amendment: Pt. 1A inserted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 78(1)](https://www.legislation.gov.uk/ukpga/2015/8/section/78/1), [89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-347fcc685dda5268ad2b40d79ea00f46]: Textual amendment: [S. 18A(4)](https://www.legislation.gov.uk/ukpga/1993/8/section/18A/4)[(5)](https://www.legislation.gov.uk/ukpga/1993/8/section/18A/5) omitted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 88(7)](https://www.legislation.gov.uk/ukpga/2022/7/section/88/7), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-347fcc685dda5268ad2b40d79ea00f46]: Textual amendment: [S. 18A(4)](https://www.legislation.gov.uk/ukpga/1993/8/section/18A/4)[(5)](https://www.legislation.gov.uk/ukpga/1993/8/section/18A/5) omitted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 88(7)](https://www.legislation.gov.uk/ukpga/2022/7/section/88/7), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

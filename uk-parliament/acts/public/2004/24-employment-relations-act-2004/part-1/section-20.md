@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. “Pay” and other matters subject to collective bargaining[^key-6a7063201a667266e3ebfc9c40cb32a9]
+## 20. “Pay” and other matters subject to collective bargaining[^c-6a7063201a667266e3ebfc9c40cb32a9]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ After paragraph 171 of Schedule A1 to the 1992 Act insert—
 
 ## Annotations
 
-[^key-6a7063201a667266e3ebfc9c40cb32a9]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2004/24/section/20) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)
+[^c-6a7063201a667266e3ebfc9c40cb32a9]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2004/24/section/20) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)

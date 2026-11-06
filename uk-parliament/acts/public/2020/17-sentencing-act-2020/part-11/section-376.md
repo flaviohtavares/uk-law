@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 376. Binding over of parent or guardian[^key-fc45c332ec1ea0c305e09bd9fcf8c9fb]
+## 376. Binding over of parent or guardian[^c-fc45c332ec1ea0c305e09bd9fcf8c9fb]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc45c332ec1ea0c305e09bd9fcf8c9fb]: Commencement: [S. 376](https://www.legislation.gov.uk/ukpga/2020/17/section/376) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fc45c332ec1ea0c305e09bd9fcf8c9fb]: Commencement: [S. 376](https://www.legislation.gov.uk/ukpga/2020/17/section/376) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

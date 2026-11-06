@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Accidents and Emergencies[^key-038bfb317a844ebf1556476108ae437d]
+## 26. Accidents and Emergencies[^c-038bfb317a844ebf1556476108ae437d]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-038bfb317a844ebf1556476108ae437d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/1997/474/regulation/26) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-038bfb317a844ebf1556476108ae437d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/1997/474/regulation/26) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

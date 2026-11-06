@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Authorised automation features[^key-2b61116a139aabf69b7f3e872be985bf]
+## 4. Authorised automation features[^c-2b61116a139aabf69b7f3e872be985bf]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b61116a139aabf69b7f3e872be985bf]: Commencement: S. 4 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-2b61116a139aabf69b7f3e872be985bf]: Commencement: S. 4 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

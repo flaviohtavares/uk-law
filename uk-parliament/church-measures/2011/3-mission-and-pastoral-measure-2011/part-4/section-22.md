@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 22. Approval by bishop of draft proposals[^key-abbc9b004f1a73614b068217e2bf4249]
+## 22. Approval by bishop of draft proposals[^c-abbc9b004f1a73614b068217e2bf4249]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abbc9b004f1a73614b068217e2bf4249]: Commencement: S. 22 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-abbc9b004f1a73614b068217e2bf4249]: Commencement: S. 22 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

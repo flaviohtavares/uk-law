@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 18
 
-**1.**[^key-d9945cbb47be6e06281d019a6d0491d3] (1) The Personal Protective Equipment (Enforcement) Regulations 2018 are amended as follows.
+**1.**[^c-d9945cbb47be6e06281d019a6d0491d3] (1) The Personal Protective Equipment (Enforcement) Regulations 2018 are amended as follows.
 
 (2) In regulation 6 omit “other” in the third place in which it occurs.
 
@@ -40,4 +40,4 @@ Regulation 18
 
 ## Annotations
 
-[^key-d9945cbb47be6e06281d019a6d0491d3]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/17/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-d9945cbb47be6e06281d019a6d0491d3]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/17/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)

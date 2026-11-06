@@ -48,7 +48,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and effect[^key-b2a067a7a82f86943a5c8dc15ddb4e1b]
+### 1. Citation, commencement and effect[^c-b2a067a7a82f86943a5c8dc15ddb4e1b]
 
 (1) These Regulations may be cited as the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) (No. 2) Regulations 2023.
 
@@ -56,7 +56,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (3) These Regulations have effect so as to modify enactments in their application in relation to a relevant person[^f00002].
 
-### 2. Interpretation[^key-76b5307b7141e6fe4b99309407cd1022]
+### 2. Interpretation[^c-76b5307b7141e6fe4b99309407cd1022]
 
 (1) In these Regulations—
 
@@ -71,7 +71,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 ## PART 2 — Annual allowance
 
-### 3. Chapter 1 schemes: effect of extinguishment and creation of voluntary contributions rights[^key-891d2c162ea967cc6652e34970f8ed8a]
+### 3. Chapter 1 schemes: effect of extinguishment and creation of voluntary contributions rights[^c-891d2c162ea967cc6652e34970f8ed8a]
 
 (1) This regulation applies where, as a result of scheme regulations made by virtue of section 20 of PSPJOA 2022 (voluntary contributions) in respect of an arrangement[^f00007] under a Chapter 1 new scheme[^f00008], rights (“old rights”) in respect of an arrangement under that scheme to additional benefits[^f00009], or to the earlier payment of benefits, that would otherwise have been secured by the payment of voluntary contributions[^f00010] in respect of an individual, are extinguished.
 
@@ -91,7 +91,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (6) In this regulation, “**replacement pension input period**” means the pension input period in which any new rights are conferred.
 
-### 4. Chapter 1 legacy schemes: effect of variation of voluntary contributions rights where new scheme benefits election is made.[^key-5ae7a501417885914f0cc45284a94e3a]
+### 4. Chapter 1 legacy schemes: effect of variation of voluntary contributions rights where new scheme benefits election is made.[^c-5ae7a501417885914f0cc45284a94e3a]
 
 (1) Paragraph (2) applies where—
 
@@ -103,7 +103,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (3) In this regulation, “**the retirement pension input period**” means the pension input period ending in the tax year in which the new scheme benefits election comes into effect.
 
-### 5. Chapter 1 schemes: additional pension commencement lump sum unavailable after voluntary contributions rights extinguished or varied[^key-9cf635881701d62e08a8b66fabf376b5]
+### 5. Chapter 1 schemes: additional pension commencement lump sum unavailable after voluntary contributions rights extinguished or varied[^c-9cf635881701d62e08a8b66fabf376b5]
 
 (1) Paragraph (3) applies where—
 
@@ -122,7 +122,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (3) After the relevant time, the relevant Chapter 1 legacy scheme is to be treated as making an unauthorised payment[^f00018] to the individual, or to the individual’s personal representatives, if it pays a pension commencement lump sum in connection with later rights or varied rights.
 
-### 6. Chapter 1 schemes and judicial 2015 schemes: pension debits and pension credits[^key-8572784792bfbed76f907c8945573ff4]
+### 6. Chapter 1 schemes and judicial 2015 schemes: pension debits and pension credits[^c-8572784792bfbed76f907c8945573ff4]
 
 (1) Paragraph (2) applies where—
 
@@ -131,7 +131,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (2) For the purposes of determining the pension input amount in respect of an arrangement under the Chapter 1 scheme or the judicial 2015 scheme[^f00021] for the pension input period in which the debit or credit is adjusted, any provision made under section 19(1) or section 57(1) of PSPJOA 2022, as the case may be, is to be ignored.
 
-### 7. Chapter 1 legacy schemes: inward transfer, extinguishment and creation of PPA rights[^key-fc22a477f6e0a195e28b9fec3a33c239]
+### 7. Chapter 1 legacy schemes: inward transfer, extinguishment and creation of PPA rights[^c-fc22a477f6e0a195e28b9fec3a33c239]
 
 (1) Paragraphs (2) and (3) apply where—
 
@@ -160,7 +160,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 ## PART 3 — Benefits
 
-### 8. Commutation payment: lump sum already paid[^key-f6dc9a3261d85fe463ec195e1c519cf5]
+### 8. Commutation payment: lump sum already paid[^c-f6dc9a3261d85fe463ec195e1c519cf5]
 
 (1) Paragraph (2) applies where—
 
@@ -171,7 +171,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (3) In this regulation, “**small pot lump sum**” means a payment made in accordance with regulation 11 or 12 of RPS(AP)R 2009, as the case may be.
 
-### 9. Commutation payment: additional lump sum paid for deceased member[^key-4542914acf85e31b39441f012d3f6318]
+### 9. Commutation payment: additional lump sum paid for deceased member[^c-4542914acf85e31b39441f012d3f6318]
 
 (1) Paragraphs (2) and (3) apply where—
 
@@ -191,7 +191,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (4) In this regulation, “**small pot lump sum**” means a payment made in accordance with regulation 11 or 12 of RPS(AP)R 2009, as the case may be.
 
-### 10. Trivial commutation lump sum death benefit: lump sum already paid[^key-6bc3038ad8aba021872ce510e048a7d2]
+### 10. Trivial commutation lump sum death benefit: lump sum already paid[^c-6bc3038ad8aba021872ce510e048a7d2]
 
 (1) Paragraph (2) applies where—
 
@@ -200,7 +200,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (2) The lump sum is treated as, and is treated as always having been, a trivial commutation lump sum death benefit.
 
-### 11. Arrears of dependants’ scheme pension in payment: additional amounts paid for deceased member[^key-7f29e0becdf9e976ad702aab0e603496]
+### 11. Arrears of dependants’ scheme pension in payment: additional amounts paid for deceased member[^c-7f29e0becdf9e976ad702aab0e603496]
 
 (1) Paragraphs (2) and (3) apply where—
 
@@ -223,7 +223,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (4) In this regulation, “**former child dependant**” means an individual who previously met one of the conditions in paragraph 15(2) of Schedule 28 to FA 2004 (meaning of child dependant)[^f00035], but no longer meets any of those conditions when the increased amount of dependants’ scheme pension is paid.
 
-### 12. Reduction of scheme pension where pension credit adjusted[^key-0440cd032aace571e91dc38362cefeab]
+### 12. Reduction of scheme pension where pension credit adjusted[^c-0440cd032aace571e91dc38362cefeab]
 
 (1) Paragraph (2) applies where—
 
@@ -235,7 +235,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (3) In this regulation, “**relevant pension credit member**” has the meaning given in section 19(2) or 57(2) of PSPJOA 2022, as the case may be.
 
-### 13. Reduction of scheme pension in respect of voluntary contributions rights[^key-b1267e2594a4ba43004f1f437ef543da]
+### 13. Reduction of scheme pension in respect of voluntary contributions rights[^c-b1267e2594a4ba43004f1f437ef543da]
 
 (1) Paragraph (2) applies where—
 
@@ -245,7 +245,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (2) The reduction in the rate of the scheme pension does not prevent it from meeting the condition in paragraph 2(3)(b) of Schedule 28 to FA 2004 (requirement that rate of scheme pension does not reduce).
 
-### 14. Reduction of local government scheme pension in accordance with scheme regulations[^key-d3c06f994e8fc378d875f7dad0d35f81]
+### 14. Reduction of local government scheme pension in accordance with scheme regulations[^c-d3c06f994e8fc378d875f7dad0d35f81]
 
 (1) Paragraph (2) applies where—
 
@@ -254,7 +254,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (2) The reduction in the rate of the scheme pension does not prevent it from meeting the condition in paragraph 2(3)(b) of Schedule 28 to FA 2004 (requirement that rate of scheme pension does not reduce).
 
-### 15. Lump sum death benefit already paid: repayment of overpaid amount[^key-bceb7747b1c7faf5a0b86a546e9c523a]
+### 15. Lump sum death benefit already paid: repayment of overpaid amount[^c-bceb7747b1c7faf5a0b86a546e9c523a]
 
 (1) Paragraph (2) applies where—
 
@@ -264,7 +264,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (2) The amount crystallised by the benefit crystallisation event[^f00040] in connection with the individual’s entitlement to the original payment is to be treated as not including, and never having included, the overpaid DBLSDB.
 
-### 16. Lifetime allowance excess lump sum: lump sum already paid[^key-f2ab99e74c64391f98436a4bb544410a]
+### 16. Lifetime allowance excess lump sum: lump sum already paid[^c-f2ab99e74c64391f98436a4bb544410a]
 
 (1) Paragraphs (2) to (5) apply where—
 
@@ -288,7 +288,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 - (b) that amount is to be treated as the basic amount for the purposes of section 215(3)(a) of FA 2004 (amount of charge), and
 - (c) the lifetime allowance charge which arises is to be charged at the rate of 40%.
 
-### 17. Lifetime allowance excess lump sum already paid: repayment of overpaid amount[^key-90ac294aefcc691ce6618016accbcdb1]
+### 17. Lifetime allowance excess lump sum already paid: repayment of overpaid amount[^c-90ac294aefcc691ce6618016accbcdb1]
 
 (1) Paragraph (2) applies where—
 
@@ -298,7 +298,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (2) The amount crystallised by the benefit crystallisation event in connection with the individual’s entitlement to the lifetime allowance excess lump sum is to be treated as not including, and as never having included, the overpaid excess lump sum.
 
-### 18. Additional lifetime allowance excess lump sum: age of individual[^key-328efed5442a5c86056a678e8c4e209e]
+### 18. Additional lifetime allowance excess lump sum: age of individual[^c-328efed5442a5c86056a678e8c4e209e]
 
 (1) Paragraph (2) applies where—
 
@@ -308,7 +308,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (2) The condition in paragraph 11(e) of Schedule 29 to FA 2004 is to be treated as met in respect of the new lump sum.
 
-### 19. Lump sum unauthorised payment already paid: repayment of overpaid amount to scheme[^key-5199612f1b46de2329052e59b5520697]
+### 19. Lump sum unauthorised payment already paid: repayment of overpaid amount to scheme[^c-5199612f1b46de2329052e59b5520697]
 
 (1) Paragraph (2) applies where—
 
@@ -320,13 +320,13 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 ## PART 4 — Scheme sanction charge
 
-### 20. Application required by schemes to reclaim overpayment of scheme sanction charge resulting from rectification[^key-eff9ce3d2df03601828ff650b93d117c]
+### 20. Application required by schemes to reclaim overpayment of scheme sanction charge resulting from rectification[^c-eff9ce3d2df03601828ff650b93d117c]
 
 (1) Paragraphs (3) to (7) apply where—
 
 - (a) before the relevant time, a scheme chargeable payment[^f00044] was made by a Chapter 1 scheme to or in relation to an individual,
-- (b) the scheme administrator[^f00045] of that Chapter 1 scheme has paid an amount in respect of a liability to the scheme sanction charge[^f00046] that arose in connection with that payment, [^key-adbc9aef7358193121677ce438bd01d6]...
-- (c) the amount paid is, as a result of the operation of a relevant rectification provision or regulation 19, greater than the amount owed in respect of the scheme sanction charge , and[^key-c8a343dccd743a96c3aac9abe19a94fd]
+- (b) the scheme administrator[^f00045] of that Chapter 1 scheme has paid an amount in respect of a liability to the scheme sanction charge[^f00046] that arose in connection with that payment, [^c-adbc9aef7358193121677ce438bd01d6]...
+- (c) the amount paid is, as a result of the operation of a relevant rectification provision or regulation 19, greater than the amount owed in respect of the scheme sanction charge , and[^c-c8a343dccd743a96c3aac9abe19a94fd]
 - (d) the amount cannot be recovered from HMRC as an excess amount in accordance with regulation 7 of the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025.
 
 (2) In paragraph (1), “**the relevant time**” means the time at which section 2(1) of PSPJOA 2022 comes into force.
@@ -344,13 +344,13 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (6) The relevant scheme administrator is entitled to a repayment of the excess mentioned in paragraph (1)(c) only on the making of an application to HMRC.
 
-(7) The application must be made on or before 1st April 2027[^key-39d56fcc89bb40846112183dd0d0f0d7].
+(7) The application must be made on or before 1st April 2027[^c-39d56fcc89bb40846112183dd0d0f0d7].
 
 (8) The application—
 
 - (a) must be accompanied by—
   - (i) a declaration that the application is made by the relevant scheme administrator,
-  - (ia)[^key-20d331cd82cf1e6a323c35625860c73f] a declaration that the claimed amounts cannot be recovered from HMRC in accordance with regulation 7 of the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025,
+  - (ia)[^c-20d331cd82cf1e6a323c35625860c73f] a declaration that the claimed amounts cannot be recovered from HMRC in accordance with regulation 7 of the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025,
   - (ii) a declaration as to the accuracy of the information contained in the application, and
   - (iii) a declaration that the applicant understands the consequences of providing false information, and
 - (b) must contain the following information—
@@ -373,13 +373,13 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 ## PART 5 — Amendments to the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023
 
-### 21. Amendments to the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023[^key-5c78011a4885a8c56d3dd8408e6a6698]
+### 21. Amendments to the Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023[^c-5c78011a4885a8c56d3dd8408e6a6698]
 
 The 2023 Regulations are amended as follows.
 
-**22.**[^key-d5d4ccdcf441c3379e49ff4bb6c149ed] In regulation 7 (provision of information by scheme administrator to member on request), in paragraph (a), for “(5)” substitute “(9)”.
+**22.**[^c-d5d4ccdcf441c3379e49ff4bb6c149ed] In regulation 7 (provision of information by scheme administrator to member on request), in paragraph (a), for “(5)” substitute “(9)”.
 
-**23.**[^key-ce9ef196812cf2c986a48dafc011ca3a] In regulation 8 (Chapter 1 schemes and judicial 2015 schemes: operation of scheme pays for remedy years)—
+**23.**[^c-ce9ef196812cf2c986a48dafc011ca3a] In regulation 8 (Chapter 1 schemes and judicial 2015 schemes: operation of scheme pays for remedy years)—
 
 - (a) after paragraph (3)(c) insert—
 
@@ -390,7 +390,7 @@ The 2023 Regulations are amended as follows.
 - (b) in paragraph (5)(b) omit “or deceased”;
 - (c) in paragraph (6) omit “or deceased”.
 
-**24.**[^key-c48276c624b8d2fb50b1ffe9cd090369] In regulation 9 (Chapter 1 schemes: operation of scheme pays for 2022-23)—
+**24.**[^c-c48276c624b8d2fb50b1ffe9cd090369] In regulation 9 (Chapter 1 schemes: operation of scheme pays for 2022-23)—
 
 - (a) after paragraph (2)(c) insert—
 
@@ -401,21 +401,21 @@ The 2023 Regulations are amended as follows.
 - (b) in paragraph (4)(b) omit “or deceased”;
 - (c) in paragraph (5) omit “or deceased”.
 
-**25.**[^key-dbb3e6cfcc877a610dd9e94cf4cb6124] In regulation 11 (Chapter 1 schemes: administrative provisions relating to scheme pays), after paragraph (5) insert—
+**25.**[^c-dbb3e6cfcc877a610dd9e94cf4cb6124] In regulation 11 (Chapter 1 schemes: administrative provisions relating to scheme pays), after paragraph (5) insert—
 
 > (5A) An application under paragraph (5) must be made on or before 1st April 2027.
 
 .
 
-**26.**[^key-8a3411a66191a20e06113c385430a5a7] In regulation 13 (Chapter 1 legacy schemes: effect of new scheme benefits election in later pension input periods), in paragraph (1)(b)(ii) omit “determined by reference to the remediable service”.
+**26.**[^c-8a3411a66191a20e06113c385430a5a7] In regulation 13 (Chapter 1 legacy schemes: effect of new scheme benefits election in later pension input periods), in paragraph (1)(b)(ii) omit “determined by reference to the remediable service”.
 
-**27.**[^key-a369d835425d35b7639b35fdfff5936e] In regulation 15 (judicial schemes and local government schemes: administrative provisions relating to scheme pays), after paragraph (4) insert—
+**27.**[^c-a369d835425d35b7639b35fdfff5936e] In regulation 15 (judicial schemes and local government schemes: administrative provisions relating to scheme pays), after paragraph (4) insert—
 
 > (4A) An application under paragraph (2)(b) or (4)(b) must be made on or before 1st April 2027.
 
 .
 
-**28.**[^key-85f7ca17cf9c22986c8a6ca8307eb4a4] In regulation 26 (serious ill-health lump sum[^f00049]: additional lump sum paid for deceased member)—
+**28.**[^c-85f7ca17cf9c22986c8a6ca8307eb4a4] In regulation 26 (serious ill-health lump sum[^f00049]: additional lump sum paid for deceased member)—
 
 - (a) for paragraph (2) substitute—
 
@@ -424,7 +424,7 @@ The 2023 Regulations are amended as follows.
   ;
 - (b) omit paragraph (5).
 
-**29.**[^key-c5600ad50c379c283c4cf5861c6fe063] In regulation 34 (application required by schemes to reclaim overpayment resulting from rectification), after paragraph (4) insert—
+**29.**[^c-c5600ad50c379c283c4cf5861c6fe063] In regulation 34 (application required by schemes to reclaim overpayment resulting from rectification), after paragraph (4) insert—
 
 > (4A) The application must be made on or before 1st April 2027.
 
@@ -434,7 +434,7 @@ The 2023 Regulations are amended as follows.
 
 ### CHAPTER 1 — Introductory
 
-#### 30. Interpretation[^key-b4c76673ed0b41b0c4622bd7174c395c]
+#### 30. Interpretation[^c-b4c76673ed0b41b0c4622bd7174c395c]
 
 In this Part—
 
@@ -490,7 +490,7 @@ In this Part—
 
 ### CHAPTER 2 — Specified information
 
-#### 31. Provision of specified information[^key-2cf9ee17c788c1312eb78ecaba287765]
+#### 31. Provision of specified information[^c-2cf9ee17c788c1312eb78ecaba287765]
 
 (1) A specified individual who is not a deceased member on the due date for information must provide specified information to HMRC[^f00060] about the relevant tax years to which paragraph (4) applies—
 
@@ -516,7 +516,7 @@ In this Part—
   - (i) is liable to a relevant pension tax charge, or to such a charge in an increased amount, as a result of the operation of a relevant rectification provision or regulation 14 of the 2023 Regulations, or
   - (ii) was liable to a relevant pension tax charge (disregarding the relevant rectification provisions and regulation 14 of the 2023 Regulations) but is no longer so liable, or is liable in a decreased amount, as a result of any of those provisions.
 
-#### 32. Specified information: due date for information[^key-16e47be6839cf7a14e0429330dae8f48]
+#### 32. Specified information: due date for information[^c-16e47be6839cf7a14e0429330dae8f48]
 
 (1) Paragraphs (2) to (5) apply to a specified individual who, on 1st October 2023, is—
 
@@ -526,7 +526,7 @@ In this Part—
 
 (2) Where the specified individual dies in the period beginning with 1st November 2024 and ending with 31st January 2025, the due date for information is the date three months after the date of that individual’s death.
 
-(3)[^key-614ab3b2f5d446d28be97dc12655829b] Where a scheme administrator provides a pension savings statement to or in respect of the specified individual on or after 1st November 2024, the due date for information is—
+(3)[^c-614ab3b2f5d446d28be97dc12655829b] Where a scheme administrator provides a pension savings statement to or in respect of the specified individual on or after 1st November 2024, the due date for information is—
 
 - (a) the date which is three months after the date on which that statement is provided, or
 - (b) where the specified individual dies within the period of three months beginning with the date on which that statement is provided, the date three months after the date of death.
@@ -539,7 +539,7 @@ In this Part—
 
 (7) Where the specified individual dies in the period beginning with 1st November 2026 and ending with 31st January 2027, the due date for information is the date three months after the date of that individual’s death.
 
-(8)[^key-61166e395e2545de3112821ebf7ce38e] Where a scheme administrator provides a pension savings statement or a benefit crystallisation event statement to or in respect of the specified individual on or after 1st November 2026 the due date for information is—
+(8)[^c-61166e395e2545de3112821ebf7ce38e] Where a scheme administrator provides a pension savings statement or a benefit crystallisation event statement to or in respect of the specified individual on or after 1st November 2026 the due date for information is—
 
 - (a) the date which is three months after the date on which that statement is provided, or
 - (b) where the specified individual dies within the period of three months beginning with the date on which that statement is provided, the date three months after the date of death.
@@ -564,7 +564,7 @@ In this Part—
 - “**pension savings statement**” means a statement provided under regulation 14A(5B) or (6ZC) or 14B(2B), (6) or (9) of RPS(PI)R 2006 in relation to a pension input period ending in a relevant tax year;
 - “**the end of the new scheme election period**” has the meaning given in section 7(2) of PSPJOA 2022 (elections by virtue of section 6: timing and procedure).
 
-#### 33. Preservation of documents[^key-4bd853f6833e59be3645acd543711d24]
+#### 33. Preservation of documents[^c-4bd853f6833e59be3645acd543711d24]
 
 (1) A specified individual, or an assessable representative, must preserve any documents in their possession relating to the specified information for a period of 4 years beginning with the due date for information.
 
@@ -572,7 +572,7 @@ In this Part—
 
 ### CHAPTER 3 — Assessments
 
-#### 34. Assessments: general[^key-38da56aec873ef8964f22c80f4df8f60]
+#### 34. Assessments: general[^c-38da56aec873ef8964f22c80f4df8f60]
 
 (1) An officer of HMRC may make an assessment in the amount that should, in the officer’s opinion, be charged if—
 
@@ -588,7 +588,7 @@ In this Part—
 
 (3) Nothing in this regulation prevents an officer of HMRC making more than one assessment on the same specified individual, or assessable representative, in respect of the same tax year (whether or not any earlier assessment for that tax year is withdrawn under regulation 36).
 
-#### 35. Assessments: time limits[^key-c16db339469a12e086ad30968ec1c4dd]
+#### 35. Assessments: time limits[^c-c16db339469a12e086ad30968ec1c4dd]
 
 (1) Subject to paragraph (3), where specified information has been provided by the specified individual in accordance with regulation 31, an assessment under regulation 34 may be made at any time on or before—
 
@@ -610,7 +610,7 @@ In this Part—
 - (a) section 118(5) to (7) of TMA 1970 (interpretation: bringing about a situation carelessly or deliberately)[^f00062] applies for the purposes of determining whether a specified individual carelessly or deliberately caused specified information provided under regulation 31(1) to be inaccurate in a material respect, and
 - (b) references to circumstances brought about by the specified individual include circumstances brought about by another person acting on behalf of that individual before that individual’s death.
 
-#### 36. Power to withdraw assessments[^key-85b9312f16a538221852679ba4025df1]
+#### 36. Power to withdraw assessments[^c-85b9312f16a538221852679ba4025df1]
 
 (1) HMRC may withdraw an assessment made under regulation 34 or 39 by giving a notice to the specified individual, or to the assessable representative of a specified individual, to whom the assessment relates.
 
@@ -618,7 +618,7 @@ In this Part—
 
 ### CHAPTER 4 — Repayments
 
-#### 37. Repayments: entitlement[^key-8d63712187333187974289f7d12b84b7]
+#### 37. Repayments: entitlement[^c-8d63712187333187974289f7d12b84b7]
 
 (1) A specified individual is entitled to the repayment by HMRC of an annual allowance overpayment, a lifetime allowance overpayment, an unauthorised payments charge overpayment or an unauthorised payments surcharge overpayment only on the making of an application (“a repayment application”).
 
@@ -645,7 +645,7 @@ In this Part—
 - (b) the individual is liable to the unauthorised payments surcharge in respect of that payment and has paid an amount in respect of that liability, and
 - (c) the amount paid, by virtue of the operation of a relevant rectification provision, exceeds the amount of that liability.
 
-#### 38. Repayments: procedure[^key-260eca7bdcee7a45ddc707faa5ef13ce]
+#### 38. Repayments: procedure[^c-260eca7bdcee7a45ddc707faa5ef13ce]
 
 (1) A repayment application must be made to HMRC.
 
@@ -678,7 +678,7 @@ In this Part—
 
 ### CHAPTER 5 — Recovery of overpayments
 
-#### 39. Recovery of overpayments[^key-88027ec6fafc1777f4f0ae7a7a6d914d]
+#### 39. Recovery of overpayments[^c-88027ec6fafc1777f4f0ae7a7a6d914d]
 
 (1) Where an officer of HMRC considers that an amount of annual allowance overpayment, lifetime allowance overpayment, unauthorised payments charge overpayment or unauthorised payments surcharge overpayment has been repaid to a specified individual, or to the assessable representative of a specified individual, which ought not to have been repaid to them, that amount may be assessed and recovered under this regulation as if it were unpaid tax.
 
@@ -686,7 +686,7 @@ In this Part—
 
 ### CHAPTER 6 — Penalties
 
-#### 40. Penalties for errors[^key-9e19ba2f95e1f031ee846075b1d4082b]
+#### 40. Penalties for errors[^c-9e19ba2f95e1f031ee846075b1d4082b]
 
 (1) Section 264 (false statements etc) of FA 2004[^f00065] does not apply to statements or representations made in compliance, or purported compliance, with regulation 31 (provision of specified information).
 
@@ -694,7 +694,7 @@ In this Part—
 
 ### CHAPTER 7 — Relevant modifications
 
-#### 41. Modifications of TMA 1970[^key-8ad46f3de3f09beb1dae0ade5299e2a7]
+#### 41. Modifications of TMA 1970[^c-8ad46f3de3f09beb1dae0ade5299e2a7]
 
 (1) A specified individual is not required to—
 
@@ -704,7 +704,7 @@ In this Part—
 
 (2) Section 42 of, and Schedule 1AB to, TMA 1970 (procedure for making claims to recover overpaid tax) do not apply to a repayment application.
 
-#### 42. Application and modification of FA 2009[^key-72b5981a6d203bf0ec1a174f54890e57]
+#### 42. Application and modification of FA 2009[^c-72b5981a6d203bf0ec1a174f54890e57]
 
 (1) Sections 101 (late payment interest on sums due to HMRC) and 103 (rates of interest) of FA 2009[^f00066] apply in relation to an amount of income tax which is assessed and recoverable by virtue of an assessment made under regulation 34 or 39 as if it were an assessment under section 29 of TMA 1970 (assessment where loss of tax discovered)[^f00067].
 
@@ -712,7 +712,7 @@ In this Part—
 
 (3) Schedule 55 to FA 2009 (penalty for failure to make returns)[^f00069] applies in relation to a failure to provide specified information on or before the due date for information as if it were a failure to make or deliver a return under section 8(1)(a) of TMA 1970 (personal return) on or before the filing date.
 
-#### 43. Application and modification of the Income and Corporation Taxes (Electronic Communications) Regulations 2003[^key-b263d698c295a1ef24798509004efc31]
+#### 43. Application and modification of the Income and Corporation Taxes (Electronic Communications) Regulations 2003[^c-b263d698c295a1ef24798509004efc31]
 
 The Income and Corporation Taxes (Electronic Communications) Regulations 2003[^f00070] (“**the 2003 Regulations**”) apply to—
 
@@ -729,7 +729,7 @@ Two of the Lords Commissioners for His Majesty’s Treasury
 
 15th August 2023
 
-## SCHEDULE — Specified information[^key-8545d493aa520428311a98be4cd5bc13]
+## SCHEDULE — Specified information[^c-8545d493aa520428311a98be4cd5bc13]
 
 Regulation 31
 
@@ -793,11 +793,11 @@ A Tax Information and Impact note covering section 11 of FA 2022 (under which th
 
 [^f00001]: Footnote: [2022 c. 3](https://www.legislation.gov.uk/ukpga/2022/3). In these regulations FA followed by a year refers to the Finance Act of that year and F(No. 2)A followed by a year means the Finance (No. 2) Act of that year (see section 103 of FA 2022). The same approach is adopted in these footnotes.
 
-[^key-b2a067a7a82f86943a5c8dc15ddb4e1b]: Commencement: Reg. 1 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-b2a067a7a82f86943a5c8dc15ddb4e1b]: Commencement: Reg. 1 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00002]: Footnote: “Relevant person” for these purposes is defined in section 11(3) of FA 2022, and “modifying” is defined in section 11(7) of that Act.
 
-[^key-76b5307b7141e6fe4b99309407cd1022]: Commencement: Reg. 2 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-76b5307b7141e6fe4b99309407cd1022]: Commencement: Reg. 2 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2023/113](https://www.legislation.gov.uk/uksi/2023/113) (referred to in these footnotes as “**the 2023 Regulations**”).
 
@@ -807,7 +807,7 @@ A Tax Information and Impact note covering section 11 of FA 2022 (under which th
 
 [^f00006]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-891d2c162ea967cc6652e34970f8ed8a]: Commencement: Reg. 3 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-891d2c162ea967cc6652e34970f8ed8a]: Commencement: Reg. 3 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00007]: Footnote: By virtue of regulation 2(2)(b), “**arrangement**” has the meaning given in section 152 of FA 2004. Section 152 was amended by section 24(2) of F(No. 2)A [2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30).
 
@@ -829,15 +829,15 @@ A Tax Information and Impact note covering section 11 of FA 2022 (under which th
 
 [^f00016]: Footnote: Section 11(7) of FA 2022 provides that “**remediable service**” means remediable service within the meaning of Chapter 1, 2 or 3 of Part 1 of PSPJOA 2022 (in this case, Chapter 1).
 
-[^key-5ae7a501417885914f0cc45284a94e3a]: Commencement: Reg. 4 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-5ae7a501417885914f0cc45284a94e3a]: Commencement: Reg. 4 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-9cf635881701d62e08a8b66fabf376b5]: Commencement: Reg. 5 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-9cf635881701d62e08a8b66fabf376b5]: Commencement: Reg. 5 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00017]: Footnote: By virtue of regulation 2(2)(b), “pension commencement lump sum” is defined in paragraph 1 of Schedule 29 to FA 2004. Paragraph 1 was amended by paragraph 34 of Schedule 10 to FA [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), paragraph 11(2) of Schedule 20 to FA [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), paragraph 24(2) and paragraph 79(2) of Schedule 16 to FA 2011, section 51 of FA [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), paragraph 21(2) of Schedule 5 to FA [2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26) and section 24(7) of F(No. 2)A 2023.
 
 [^f00018]: Footnote: By virtue of regulation 2(2)(b), “unauthorised payment” is defined in section 160(5) of FA 2004.
 
-[^key-8572784792bfbed76f907c8945573ff4]: Commencement: Reg. 6 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-8572784792bfbed76f907c8945573ff4]: Commencement: Reg. 6 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00019]: Footnote: By virtue of regulation 2(2)(a), “**judicial scheme**” has the same meaning as in Chapter 2 of Part 1 of PSPJOA 2022 (see section 70(1) of that Act).
 
@@ -845,7 +845,7 @@ A Tax Information and Impact note covering section 11 of FA 2022 (under which th
 
 [^f00021]: Footnote: By virtue of regulation 2(2)(a), “**judicial 2015 scheme**” has the same meaning as in Chapter 2 of Part 1 of PSPJOA 2022 (see section 70(2) of that Act).
 
-[^key-fc22a477f6e0a195e28b9fec3a33c239]: Commencement: Reg. 7 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-fc22a477f6e0a195e28b9fec3a33c239]: Commencement: Reg. 7 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00022]: Footnote: Subsection (5A) of section 236 of FA 2004 was inserted by [S.I. 2015/80](https://www.legislation.gov.uk/uksi/2015/80).
 
@@ -853,13 +853,13 @@ A Tax Information and Impact note covering section 11 of FA 2022 (under which th
 
 [^f00024]: Footnote: By virtue of regulation 2(2)(a), section 5(7) of PSPJOA 2022 specifies when a person’s opted-out service will be “**relevant**” in relation to a Chapter 1 legacy scheme. Section 36 of PSPJOA 2022 determines whether any continuous period of service of a person in an employment or office will be “opted-out service” in that employment or office.
 
-[^key-f6dc9a3261d85fe463ec195e1c519cf5]: Commencement: Reg. 8 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-f6dc9a3261d85fe463ec195e1c519cf5]: Commencement: Reg. 8 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00025]: Footnote: By virtue of regulation 2(2)(a), “relevant rectification provision” is defined in regulation 2(1) of the 2023 Regulations.
 
 [^f00026]: Footnote: By virtue of regulation 2(2)(a), “**RPS(AP)R 2009**” means the Registered Pension Schemes (Authorised Payments) Regulations 2009 ([S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171)) (see regulation 2(1) of the 2023 Regulations). Regulations 11 and 12 of RPS(AP)R 2009 were amended by section 42(6) of FA [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), paragraph 73(1) and (3) of Schedule 1 to the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), and by [S.I. 2011/1751](https://www.legislation.gov.uk/uksi/2011/1751).
 
-[^key-4542914acf85e31b39441f012d3f6318]: Commencement: Reg. 9 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-4542914acf85e31b39441f012d3f6318]: Commencement: Reg. 9 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00027]: Footnote: Section 164 of FA 2004 was amended by paragraph 6(a) to (c) of Schedule 23 to FA 2006, paragraph 1(1) and (2) of Schedule 29 to FA [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), section 75(2)(a) of FA [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), paragraphs 62 and 63 of Schedule 16 to FA 2011, paragraph 85 of Schedule 1 to the Taxation of Pensions Act 2014 and paragraph 3(1)(a) of Schedule 6 to FA [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24).
 
@@ -869,11 +869,11 @@ A Tax Information and Impact note covering section 11 of FA 2022 (under which th
 
 [^f00030]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). In these Regulations, “ITEPA 2003” is defined as the Income Tax (Earnings and Pensions) Act 2003 by section 103 of FA 2022 (and “ITEPA 2003” has the same meaning in these footnotes). Chapter 15A (applying to lump sums paid under a registered pension scheme) was inserted into Part 9 of ITEPA 2003 by paragraph 11 of Schedule 31 to FA 2004 and amended by paragraph 59 of Schedule 10 to FA 2005, paragraph 28 of Schedule 19 and paragraph (1) of Schedule 27 to FA 2007, paragraph 42 of Schedule 16 to FA 2011, paragraph 5(3) of Schedule 5 to FA 2014, paragraphs 31 and 62 of Schedule 1, and paragraph 19(3) of Schedule 2, to the Taxation of Pensions Act 2014, section 22 of F(No. 2)A 2015, paragraphs 2 and 8 of Schedule 5 to FA 2016, and by [S.I. 2006/569](https://www.legislation.gov.uk/uksi/2006/569) and [S.I. 2006/572](https://www.legislation.gov.uk/uksi/2006/572).
 
-[^key-6bc3038ad8aba021872ce510e048a7d2]: Commencement: Reg. 10 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-6bc3038ad8aba021872ce510e048a7d2]: Commencement: Reg. 10 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00031]: Footnote: By virtue of regulation 2(2)(b), “trivial commutation lump sum death benefit” is defined in paragraph 20 of Schedule 29 to FA 2004. Paragraph 29 was amended by paragraph 6 of Schedule 18 to FA 2011 and paragraph 74 of Schedule 1 to the Taxation of Pensions Act 2014.
 
-[^key-7f29e0becdf9e976ad702aab0e603496]: Commencement: Reg. 11 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-7f29e0becdf9e976ad702aab0e603496]: Commencement: Reg. 11 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00032]: Footnote: By virtue of regulation 2(2)(b), “dependants’ scheme pension” is defined in paragraph 16 of Schedule 28 to FA 2004.
 
@@ -883,17 +883,17 @@ A Tax Information and Impact note covering section 11 of FA 2022 (under which th
 
 [^f00035]: Footnote: Paragraph 15 of Schedule 28 to FA 2004 was amended by paragraph 26 of Schedule 10 to FA 2005, paragraph 6(2) of Schedule 5 to FA 2016, and by [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229).
 
-[^key-0440cd032aace571e91dc38362cefeab]: Commencement: Reg. 12 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-0440cd032aace571e91dc38362cefeab]: Commencement: Reg. 12 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00036]: Footnote: By virtue of regulation 2(2)(b), “scheme pension” is defined in paragraph 2 of Schedule 28 to FA 2004.
 
 [^f00037]: Footnote: Paragraph 2 of Schedule 28 was amended by paragraph 64(1) of Schedule 10, and Part 4 of Schedule 11, to FA 2005, paragraph 20 of Schedule 23 to FA 2006, paragraphs 7(1) and (2) and 24(3) of Schedule 20 to FA 2007, section 20(1) to (4) of FA 2016, and by [S.I. 2007/493](https://www.legislation.gov.uk/uksi/2007/493).
 
-[^key-b1267e2594a4ba43004f1f437ef543da]: Commencement: Reg. 13 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-b1267e2594a4ba43004f1f437ef543da]: Commencement: Reg. 13 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-d3c06f994e8fc378d875f7dad0d35f81]: Commencement: Reg. 14 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-d3c06f994e8fc378d875f7dad0d35f81]: Commencement: Reg. 14 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-bceb7747b1c7faf5a0b86a546e9c523a]: Commencement: Reg. 15 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-bceb7747b1c7faf5a0b86a546e9c523a]: Commencement: Reg. 15 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00038]: Footnote: By virtue of regulation 2(2)(b), “defined benefits lump sum death benefit” is defined in paragraph 13 of Schedule 29 to FA 2004. Paragraph 13 was amended by paragraph 33 of Schedule 16 to FA 2011 and section 21(8) of F(No. 2)A 2015.
 
@@ -901,21 +901,21 @@ A Tax Information and Impact note covering section 11 of FA 2022 (under which th
 
 [^f00040]: Footnote: By virtue of regulation 2(2)(b), events which are “**benefit crystallisation events**” in relation to an individual, and the amount which is crystallised by each of those events, are set out in section 216 of, and Schedule 32 to, FA 2004. Relevant amendments have been made to those provisions by paragraphs 8(2) to (6), 43(2) to (8) and 64(1) of Schedule 10 to FA 2005, paragraph 30 of Schedule 23 to FA 2006, section 92 of, and paragraphs 1, 5, 7, 8 and 10 of Schedule 29 to, FA 2008, paragraphs 43, 44, 62, 65, 73 and 80 of Schedule 16 to FA 2011, paragraphs 16, 26, 27, 61 and 76 of Schedule 1, and paragraphs 19(2), 21 and 24(1) to (3) of Schedule 2, to the Taxation of Pensions Act 2014, paragraphs 4 and 7(b) to (d) of Schedule 4 to FA 2015, section 21(7) of F(No 2)A 2015, paragraph 18 of Schedule 4 to FA [2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10) and section 24(8) of F(No. 2)A 2023.
 
-[^key-f2ab99e74c64391f98436a4bb544410a]: Commencement: Reg. 16 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-f2ab99e74c64391f98436a4bb544410a]: Commencement: Reg. 16 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00041]: Footnote: By virtue of regulation 2(2)(b), “lifetime allowance excess lump sum” is defined in paragraph 11 of Schedule 29 to FA 2004.
 
 [^f00042]: Footnote: By virtue of regulation 2(2)(b), “lifetime allowance” is defined in section 218 of FA 2004. Section 218 was amended by paragraph 2 of Schedule 18 to FA 2011, section 48(1) to (3) of, and paragraph 6 of Schedule 22 to, FA 2013, section 19(1) to (5) of FA 2016 and section 19 of F(No. 2)A 2023.
 
-[^key-90ac294aefcc691ce6618016accbcdb1]: Commencement: Reg. 17 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-90ac294aefcc691ce6618016accbcdb1]: Commencement: Reg. 17 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-328efed5442a5c86056a678e8c4e209e]: Commencement: Reg. 18 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-328efed5442a5c86056a678e8c4e209e]: Commencement: Reg. 18 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-5199612f1b46de2329052e59b5520697]: Commencement: Reg. 19 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-5199612f1b46de2329052e59b5520697]: Commencement: Reg. 19 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00043]: Footnote: By virtue of regulation 2(2)(b), “unauthorised member payment” is defined in section 160(2) of FA 2004, which was relevantly amended by paragraph 3 of Schedule 23 to FA 2006.
 
-[^key-eff9ce3d2df03601828ff650b93d117c]: Commencement: Reg. 20 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-eff9ce3d2df03601828ff650b93d117c]: Commencement: Reg. 20 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00044]: Footnote: By virtue of regulation 2(2)(b), “**scheme chargeable payment**”, in relation to a registered pension scheme, is defined in section 241 of FA 2004. Section 241 was amended by paragraph 9 of Schedule 21 to FA 2006 and paragraphs 62 and 74 of Schedule 16 to FA 2011.
 
@@ -923,39 +923,39 @@ A Tax Information and Impact note covering section 11 of FA 2022 (under which th
 
 [^f00046]: Footnote: By virtue of regulation 2(2)(b), “scheme sanction charge” is defined in section 239 of FA 2004. Section 239 was amended by paragraph 8 of Schedule 21 to FA 2006, paragraphs 119 and 130 of Schedule 46 to FA 2013 and paragraph 12(1) and (2) of Schedule 5 to FA 2014.
 
-[^key-adbc9aef7358193121677ce438bd01d6]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2023/912/regulation/20/1) omitted (retrospective to 24.4.2025) by virtue of [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/5), [18(1)(a)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/1/a) (with [reg. 18(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/2))
+[^c-adbc9aef7358193121677ce438bd01d6]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2023/912/regulation/20/1) omitted (retrospective to 24.4.2025) by virtue of [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/5), [18(1)(a)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/1/a) (with [reg. 18(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/2))
 
-[^key-c8a343dccd743a96c3aac9abe19a94fd]: Textual amendment: [Reg. 20(1)(d)](https://www.legislation.gov.uk/uksi/2023/912/regulation/20/1/d) and word inserted (retrospective to 24.4.2025) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/5), [18(1)(b)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/1/b) (with [reg. 18(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/2))
+[^c-c8a343dccd743a96c3aac9abe19a94fd]: Textual amendment: [Reg. 20(1)(d)](https://www.legislation.gov.uk/uksi/2023/912/regulation/20/1/d) and word inserted (retrospective to 24.4.2025) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/5), [18(1)(b)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/1/b) (with [reg. 18(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/2))
 
-[^key-39d56fcc89bb40846112183dd0d0f0d7]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/2023/912/regulation/20/7) substituted (retrospective to 24.4.2025) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/5), [18(1)(c)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/1/c) (with [reg. 18(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/2))
+[^c-39d56fcc89bb40846112183dd0d0f0d7]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/2023/912/regulation/20/7) substituted (retrospective to 24.4.2025) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/5), [18(1)(c)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/1/c) (with [reg. 18(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/2))
 
-[^key-20d331cd82cf1e6a323c35625860c73f]: Textual amendment: [Reg. 20(8)(a)](https://www.legislation.gov.uk/uksi/2023/912/regulation/20/8/a)[(ia)](https://www.legislation.gov.uk/uksi/2023/912/regulation/20/8/ia) inserted (retrospective to 24.4.2025) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/5), [18(1)(d)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/1/d) (with [reg. 18(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/2))
+[^c-20d331cd82cf1e6a323c35625860c73f]: Textual amendment: [Reg. 20(8)(a)](https://www.legislation.gov.uk/uksi/2023/912/regulation/20/8/a)[(ia)](https://www.legislation.gov.uk/uksi/2023/912/regulation/20/8/ia) inserted (retrospective to 24.4.2025) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/5), [18(1)(d)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/1/d) (with [reg. 18(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/18/2))
 
 [^f00047]: Footnote: “**Pension scheme tax reference number**” refers to the unique number given by HMRC to a pension scheme upon registration (see section 153(5) of FA 2004). Section 153 was amended by paragraphs 2 and 3 of Schedule 10 to FA 2005, paragraph 2 of Schedule 7 to FA 2014 and paragraph 1(1) and (3) of Schedule 3 to FA [2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3).
 
 [^f00048]: Footnote: By virtue of regulation 2(2)(a), “**RPS(PI)R 2006**” means the Registered Pension Schemes (Provision of Information) Regulations 2006 ([S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567)): see regulation 2(1) of the 2023 Regulations. RPS(PI)R 2006 have been relevantly amended by paragraphs 35(2) and 90 of Schedule 1 to the Taxation of Pensions Act 2014, paragraph 24 of Schedule 4 to FA 2016, paragraph 24(2) and (3) of Schedule 4 to FA 2017, and by [S.I. 2006/1961](https://www.legislation.gov.uk/uksi/2006/1961), [S.I. 2008/720](https://www.legislation.gov.uk/uksi/2008/720), [S.I. 2011/301](https://www.legislation.gov.uk/uksi/2011/301), [S.I. 2011/1797](https://www.legislation.gov.uk/uksi/2011/1797), [S.I. 2012/884](https://www.legislation.gov.uk/uksi/2012/884), [S.I. 2013/1742](https://www.legislation.gov.uk/uksi/2013/1742), [S.I. 2014/1843](https://www.legislation.gov.uk/uksi/2014/1843), [S.I. 2015/606](https://www.legislation.gov.uk/uksi/2015/606), [S.I. 2018/5](https://www.legislation.gov.uk/uksi/2018/5) and [S.I. 2022/392](https://www.legislation.gov.uk/uksi/2022/392).
 
-[^key-5c78011a4885a8c56d3dd8408e6a6698]: Commencement: Reg. 21 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-5c78011a4885a8c56d3dd8408e6a6698]: Commencement: Reg. 21 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-d5d4ccdcf441c3379e49ff4bb6c149ed]: Commencement: Reg. 22 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-d5d4ccdcf441c3379e49ff4bb6c149ed]: Commencement: Reg. 22 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-ce9ef196812cf2c986a48dafc011ca3a]: Commencement: Reg. 23 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-ce9ef196812cf2c986a48dafc011ca3a]: Commencement: Reg. 23 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-c48276c624b8d2fb50b1ffe9cd090369]: Commencement: Reg. 24 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-c48276c624b8d2fb50b1ffe9cd090369]: Commencement: Reg. 24 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-dbb3e6cfcc877a610dd9e94cf4cb6124]: Commencement: Reg. 25 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-dbb3e6cfcc877a610dd9e94cf4cb6124]: Commencement: Reg. 25 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-8a3411a66191a20e06113c385430a5a7]: Commencement: Reg. 26 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-8a3411a66191a20e06113c385430a5a7]: Commencement: Reg. 26 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-a369d835425d35b7639b35fdfff5936e]: Commencement: Reg. 27 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-a369d835425d35b7639b35fdfff5936e]: Commencement: Reg. 27 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-85f7ca17cf9c22986c8a6ca8307eb4a4]: Commencement: Reg. 28 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-85f7ca17cf9c22986c8a6ca8307eb4a4]: Commencement: Reg. 28 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00049]: Footnote: By virtue of regulation 2(2)(b), “serious ill-health lump sum” is defined in paragraph 4 of Schedule 29 to FA 2004. Paragraph 4 was amended by paragraphs 23 and 28 of Schedule 16 to FA 2011 and paragraph 1(1) and (3) to (5) of Schedule 5 to FA 2016.
 
-[^key-c5600ad50c379c283c4cf5861c6fe063]: Commencement: Reg. 29 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-c5600ad50c379c283c4cf5861c6fe063]: Commencement: Reg. 29 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-b4c76673ed0b41b0c4622bd7174c395c]: Commencement: Reg. 30 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-b4c76673ed0b41b0c4622bd7174c395c]: Commencement: Reg. 30 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00050]: Footnote: By virtue of regulation 2(2)(b), “active member” is defined in section 151(2) of FA 2004.
 
@@ -977,45 +977,45 @@ A Tax Information and Impact note covering section 11 of FA 2022 (under which th
 
 [^f00059]: Footnote: Section 2(1) of PSPJOA 2022 comes into force, so far as it applies for the purposes of Chapter 1 of that Act, in relation to a Chapter 1 scheme within section 33(2)(a) or (b) or (3)(a) or (b) of the Act on 1 October 2023: see section 131(2) of that Act.
 
-[^key-2cf9ee17c788c1312eb78ecaba287765]: Commencement: Reg. 31 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-2cf9ee17c788c1312eb78ecaba287765]: Commencement: Reg. 31 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00060]: Footnote: By virtue of regulation 2(2)(a), “HMRC” is defined in regulation 2(1) of the 2023 Regulations as His Majesty’s Revenue and Customs.
 
-[^key-16e47be6839cf7a14e0429330dae8f48]: Commencement: Reg. 32 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-16e47be6839cf7a14e0429330dae8f48]: Commencement: Reg. 32 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-614ab3b2f5d446d28be97dc12655829b]: Textual amendment: [Reg. 32(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/32/3) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [14(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/14/2)
+[^c-614ab3b2f5d446d28be97dc12655829b]: Textual amendment: [Reg. 32(3)](https://www.legislation.gov.uk/uksi/2023/912/regulation/32/3) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [14(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/14/2)
 
-[^key-61166e395e2545de3112821ebf7ce38e]: Textual amendment: [Reg. 32(8)](https://www.legislation.gov.uk/uksi/2023/912/regulation/32/8) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [14(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/14/3)
+[^c-61166e395e2545de3112821ebf7ce38e]: Textual amendment: [Reg. 32(8)](https://www.legislation.gov.uk/uksi/2023/912/regulation/32/8) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/3), [14(3)](https://www.legislation.gov.uk/uksi/2026/673/regulation/14/3)
 
 [^f00061]: Footnote: [S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567). Regulation 14(1) was amended by [S.I. 2008/720](https://www.legislation.gov.uk/uksi/2008/720).
 
-[^key-4bd853f6833e59be3645acd543711d24]: Commencement: Reg. 33 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-4bd853f6833e59be3645acd543711d24]: Commencement: Reg. 33 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-38da56aec873ef8964f22c80f4df8f60]: Commencement: Reg. 34 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-38da56aec873ef8964f22c80f4df8f60]: Commencement: Reg. 34 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-c16db339469a12e086ad30968ec1c4dd]: Commencement: Reg. 35 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-c16db339469a12e086ad30968ec1c4dd]: Commencement: Reg. 35 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00062]: Footnote: By virtue of regulation 2(2)(a), “TMA 1970” in these regulations means the Taxes Management Act [1970 (c. 9)](https://www.legislation.gov.uk/ukpga/1970/9) (and “TMA 1970” has the same meaning in these footnotes). Subsections (5) to (7) of section 118 of TMA 1970 were inserted by paragraph 15 of Schedule 39 to FA 2008.
 
-[^key-85b9312f16a538221852679ba4025df1]: Commencement: Reg. 36 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-85b9312f16a538221852679ba4025df1]: Commencement: Reg. 36 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-8d63712187333187974289f7d12b84b7]: Commencement: Reg. 37 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-8d63712187333187974289f7d12b84b7]: Commencement: Reg. 37 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00063]: Footnote: By virtue of regulation 2(2)(b), “unauthorised member payment” is defined in section 160(2) of FA 2004. Section 160 was amended by paragraph 3 of Schedule 21, and paragraph 3 of Schedule 23, to FA 2006 and paragraph 5 of Schedule 20 to FA 2007.
 
-[^key-260eca7bdcee7a45ddc707faa5ef13ce]: Commencement: Reg. 38 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-260eca7bdcee7a45ddc707faa5ef13ce]: Commencement: Reg. 38 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00064]: Footnote: Paragraph 7 of Schedule 1A to TMA 1970 was amended by paragraph 10 of Schedule 29 to the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9) and by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56).
 
-[^key-88027ec6fafc1777f4f0ae7a7a6d914d]: Commencement: Reg. 39 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-88027ec6fafc1777f4f0ae7a7a6d914d]: Commencement: Reg. 39 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-9e19ba2f95e1f031ee846075b1d4082b]: Commencement: Reg. 40 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-9e19ba2f95e1f031ee846075b1d4082b]: Commencement: Reg. 40 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00065]: Footnote: Section 264 of FA 2004 was amended by paragraph 23(d) of Schedule 7 to FA 2014.
 
-[^key-8ad46f3de3f09beb1dae0ade5299e2a7]: Commencement: Reg. 41 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-8ad46f3de3f09beb1dae0ade5299e2a7]: Commencement: Reg. 41 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
-[^key-72b5981a6d203bf0ec1a174f54890e57]: Commencement: Reg. 42 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-72b5981a6d203bf0ec1a174f54890e57]: Commencement: Reg. 42 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00066]: Footnote: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10). Section 101 of FA 2009 was amended by paragraphs 2 and 14 of Schedule 9 to the Finance (No. 3) Act [2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33) (referred to in these footnotes as “F(No. 3)A 2010”), paragraph 20(2) of Schedule 22 to FA 2014 and paragraph 116 of Schedule 8 to the Taxation (Cross-border Trade) Act [2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22).
 
@@ -1025,13 +1025,13 @@ A Tax Information and Impact note covering section 11 of FA 2022 (under which th
 
 [^f00069]: Footnote: Schedule 55 to FA 2009 was amended by paragraph 723 of Schedule 1 to the Corporation Tax Act 2010, paragraphs 11, 13 and 14 of Schedule 10 and Schedule 12 to FA [2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), paragraphs 2(2) and (2A), 3, 4, 8, 9 and 11 of Schedule 10 to F(No. 3)A 2010, paragraphs 3, 5, 7, 8 and 9 of Schedule 50, and paragraph 8 of Schedule 51, to FA 2013, paragraph 5 of Schedule 33 to FA 2014, paragraphs 15, 18 and 19 of Schedule 20 to FA 2015, section 169(6) of, paragraphs 10 to 12 of Schedule 21, and paragraph 20(5) of Schedule 22 to, FA 2016, paragraph 4(2) of Schedule 11 to FA 2017, paragraph 118(2) of Schedule 8 to the Taxation (Cross-border Trade) Act 2018, and paragraph 2(2) of Schedule 15 and paragraph 39 of Schedule 27, to FA 2021.
 
-[^key-b263d698c295a1ef24798509004efc31]: Commencement: Reg. 43 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-b263d698c295a1ef24798509004efc31]: Commencement: Reg. 43 in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00070]: Footnote: [S.I. 2003/282](https://www.legislation.gov.uk/uksi/2003/282) (“**the 2003 Regulations**”). The 2003 Regulations have been relevantly amended by Part 10 of Schedule 1 to the Statute Law (Repeals) Act [2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), and by [S.I. 2005/3338](https://www.legislation.gov.uk/uksi/2005/3338), [S.I. 2009/3218](https://www.legislation.gov.uk/uksi/2009/3218), [S.I. 2010/2942](https://www.legislation.gov.uk/uksi/2010/2942), [S.I. 2014/489](https://www.legislation.gov.uk/uksi/2014/489) and [S.I. 2023/221](https://www.legislation.gov.uk/uksi/2023/221).
 
 [^f00071]: Footnote: Section 28J of TMA 1970 was inserted by paragraph 3 of Schedule 23 to FA 2016.
 
-[^key-8545d493aa520428311a98be4cd5bc13]: Commencement: Sch. in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
+[^c-8545d493aa520428311a98be4cd5bc13]: Commencement: Sch. in force at 14.9.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/912/regulation/1/2)
 
 [^f00072]: Footnote: By virtue of regulation 2(2)(a), “**scheme pays notice**” means a notice under section 237B(3) of FA 2004. Section 237B was inserted by paragraph 15 of Schedule 17 to FA 2011 and amended by paragraphs 119 and 129 of Schedule 46 to FA 2013, paragraph 68 of Schedule 1 to the Taxation of Pensions Act 2014, section 9(1) and (2) of FA 2022, and by [S.I. 2015/80](https://www.legislation.gov.uk/uksi/2015/80), [S.I. 2015/1810](https://www.legislation.gov.uk/uksi/2015/1810) and [S.I. 2019/201](https://www.legislation.gov.uk/uksi/2019/201).
 

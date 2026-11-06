@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38A. Transfer value payment or purported transfer value payment in respect of judges with remediable service[^key-a60cb8a3f12fd229ea1951567ec969f5]
+## 38A. Transfer value payment or purported transfer value payment in respect of judges with remediable service[^c-a60cb8a3f12fd229ea1951567ec969f5]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a60cb8a3f12fd229ea1951567ec969f5]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/nisr/2015/76/regulation/38A) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(4)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/4)
+[^c-a60cb8a3f12fd229ea1951567ec969f5]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/nisr/2015/76/regulation/38A) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(4)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/4)

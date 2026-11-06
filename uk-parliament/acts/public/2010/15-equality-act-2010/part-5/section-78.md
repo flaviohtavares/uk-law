@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Gender pay gap information[^key-7abfef362ce483bde51c2a4f13ea7ac9]
+## 78. Gender pay gap information[^c-7abfef362ce483bde51c2a4f13ea7ac9]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7abfef362ce483bde51c2a4f13ea7ac9]: Commencement: S. 78 in force at 22.8.2016 by [S.I. 2016/839](https://www.legislation.gov.uk/uksi/2016/839), [art. 2](https://www.legislation.gov.uk/uksi/2016/839/article/2)
+[^c-7abfef362ce483bde51c2a4f13ea7ac9]: Commencement: S. 78 in force at 22.8.2016 by [S.I. 2016/839](https://www.legislation.gov.uk/uksi/2016/839), [art. 2](https://www.legislation.gov.uk/uksi/2016/839/article/2)

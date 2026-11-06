@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Detailed assessment of returning officer’s account[^key-e7c069cbcea9fb65fba023f4d8fc67b9]
+## 24. Detailed assessment of returning officer’s account[^c-e7c069cbcea9fb65fba023f4d8fc67b9]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7c069cbcea9fb65fba023f4d8fc67b9]: Commencement: Art. 24 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e7c069cbcea9fb65fba023f4d8fc67b9]: Commencement: Art. 24 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

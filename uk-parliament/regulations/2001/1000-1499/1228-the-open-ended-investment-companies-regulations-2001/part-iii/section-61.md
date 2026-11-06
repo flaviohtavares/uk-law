@@ -24,7 +24,7 @@ summary: ''
 
 (2) Paragraph (1) applies—
 
-- (a) to the making of a deed under the law of England and Wales or Northern Ireland[^key-fc3904b0411f4443c8205ac2549faf0c]; and
+- (a) to the making of a deed under the law of England and Wales or Northern Ireland[^c-fc3904b0411f4443c8205ac2549faf0c]; and
 - (b) to the undertaking of an obligation under the law of Scotland;
 
 as it applies to the making of a contract.
@@ -33,4 +33,4 @@ as it applies to the making of a contract.
 
 ## Annotations
 
-[^key-fc3904b0411f4443c8205ac2549faf0c]: Textual amendment: Words in reg. 61(2)(a) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/22) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-fc3904b0411f4443c8205ac2549faf0c]: Textual amendment: Words in reg. 61(2)(a) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/22) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))

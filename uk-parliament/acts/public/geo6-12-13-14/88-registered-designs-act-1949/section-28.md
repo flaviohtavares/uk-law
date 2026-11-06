@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. The Appeal Tribunal.[^key-388009554774bff5bb2d5f67706e1e65]
+## 28. The Appeal Tribunal.[^c-388009554774bff5bb2d5f67706e1e65]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-388009554774bff5bb2d5f67706e1e65]: Textual amendment: S. 28 repealed (6.4.2015) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/4), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)
+[^c-388009554774bff5bb2d5f67706e1e65]: Textual amendment: S. 28 repealed (6.4.2015) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2014/18/section/10/4), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2015/165](https://www.legislation.gov.uk/uksi/2015/165), [art. 3](https://www.legislation.gov.uk/uksi/2015/165/article/3)

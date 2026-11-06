@@ -24,11 +24,11 @@ summary: ''
 
 - (a) in favour of a recognised investment exchange, for the purpose of securing debts or liabilities arising in connection with the settlement of market contracts,
 - (aa)[^c13695601] in favour of The Stock Exchange, for the purpose of securing debts or liabilities arising in connection with short term certificates;
-- (b) in favour of a recognised clearing house, for the purpose of securing debts or liabilities arising in connection with their ensuring the performance of market contracts, [^key-3f95ed0f897bb8d4f74d58ee59822837]...
-- (ba)[^key-9a9755bad512edbb1d201c176bf18109] in favour of a recognised CSD, for the purpose of securing debts or liabilities arising in connection with their ensuring the performance of market contracts, or
+- (b) in favour of a recognised clearing house, for the purpose of securing debts or liabilities arising in connection with their ensuring the performance of market contracts, [^c-3f95ed0f897bb8d4f74d58ee59822837]...
+- (ba)[^c-9a9755bad512edbb1d201c176bf18109] in favour of a recognised CSD, for the purpose of securing debts or liabilities arising in connection with their ensuring the performance of market contracts, or
 - (c) in favour of a person who agrees to make payments as a result of the transfer or allotment[^c13695611] of specified securities made through the medium of a computer-based system established by the Bank of England and The Stock Exchange, for the purpose of securing debts or liabilities of the transferee or allottee arising in connection therewith.
 
-(2) Where a charge is granted partly for purposes specified in subsection (1)(a), (aa),[^c13695631] (b) , (ba)[^key-15b33bf4bcdfb801e084d7edf0921173] or (c) and partly for other purposes, it is a “**market charge**” so far as it has effect for the specified purposes.
+(2) Where a charge is granted partly for purposes specified in subsection (1)(a), (aa),[^c13695631] (b) , (ba)[^c-15b33bf4bcdfb801e084d7edf0921173] or (c) and partly for other purposes, it is a “**market charge**” so far as it has effect for the specified purposes.
 
 (3) In subsection (1)—[^c13695641]
 
@@ -36,7 +36,7 @@ summary: ''
 - “**specified securities**” means securities for the time being specified in the list in Schedule 1 to the [^c13695651]Stock Transfer Act 1982, and includes any right to such securities; and
 - “**transfer**”, in relation to any such securities or right, means a transfer of the beneficial interest.
 
-(4) The Secretary of State may by regulations make further provision as to the charges granted in favour of any such person as is mentioned in subsection (1)(a), (b) , (ba)[^key-68d7c58c5698d47a6820ba7bad7ce5e7] or (c) which are to be treated as “**market charges**” for the purposes of this Part; and the regulations may add to, amend or repeal the provisions of subsections (1) to (3) above.
+(4) The Secretary of State may by regulations make further provision as to the charges granted in favour of any such person as is mentioned in subsection (1)(a), (b) , (ba)[^c-68d7c58c5698d47a6820ba7bad7ce5e7] or (c) which are to be treated as “**market charges**” for the purposes of this Part; and the regulations may add to, amend or repeal the provisions of subsections (1) to (3) above.
 
 (5) The regulations may provide that a charge shall or shall not be treated as a market charge if or to the extent that it secures obligations of a specified description, is a charge over property of a specified description or contains provisions of a specified description.
 
@@ -50,20 +50,20 @@ summary: ''
 
 [^c13695601]: Textual amendment: S. 173(1)(aa) inserted by [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880), [reg. 9(a)](https://www.legislation.gov.uk/uksi/1991/880/regulation/9/a)
 
-[^key-3f95ed0f897bb8d4f74d58ee59822837]: Textual amendment: Word in [s. 173(1)(b)](https://www.legislation.gov.uk/ukpga/1989/40/section/173/1/b) omitted (28.11.2017) by virtue of [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [3(19)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/3/19/a/i) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-3f95ed0f897bb8d4f74d58ee59822837]: Textual amendment: Word in [s. 173(1)(b)](https://www.legislation.gov.uk/ukpga/1989/40/section/173/1/b) omitted (28.11.2017) by virtue of [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [3(19)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/3/19/a/i) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
-[^key-9a9755bad512edbb1d201c176bf18109]: Textual amendment: [S. 173(1)(ba)](https://www.legislation.gov.uk/ukpga/1989/40/section/173/1/ba) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [3(19)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/3/19/a/ii) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-9a9755bad512edbb1d201c176bf18109]: Textual amendment: [S. 173(1)(ba)](https://www.legislation.gov.uk/ukpga/1989/40/section/173/1/ba) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [3(19)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/3/19/a/ii) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
 [^c13695611]: Textual amendment: Words in s. 173(1)(c) inserted by [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880), [reg. 9(b)](https://www.legislation.gov.uk/uksi/1991/880/regulation/9/b)
 
 [^c13695631]: Textual amendment: Word in s. 173(2) inserted by [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880), [reg. 9(c)](https://www.legislation.gov.uk/uksi/1991/880/regulation/9/c)
 
-[^key-15b33bf4bcdfb801e084d7edf0921173]: Textual amendment: Word in [s. 173(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/173/2) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [3(19)(b)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/3/19/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-15b33bf4bcdfb801e084d7edf0921173]: Textual amendment: Word in [s. 173(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/173/2) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [3(19)(b)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/3/19/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
 [^c13695641]: Textual amendment: Words in s. 173(3) substituted by [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880), [reg. 9(d)](https://www.legislation.gov.uk/uksi/1991/880/regulation/9/d)
 
 [^c13695651]: Marginal citation: [1982 c. 41](https://www.legislation.gov.uk/ukpga/1982/41).
 
-[^key-68d7c58c5698d47a6820ba7bad7ce5e7]: Textual amendment: Word in [s. 173(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/173/4) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [3(19)(b)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/3/19/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-68d7c58c5698d47a6820ba7bad7ce5e7]: Textual amendment: Word in [s. 173(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/173/4) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [3(19)(b)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/3/19/b) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
 [^c13695661]: Textual amendment: Words in s. 173(6) substituted (7.6.1992) by [S.I. 1992/1315](https://www.legislation.gov.uk/uksi/1992/1315), [art. 10(1)](https://www.legislation.gov.uk/uksi/1992/1315/article/10/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/1992/1315/schedule/4/paragraph/13)

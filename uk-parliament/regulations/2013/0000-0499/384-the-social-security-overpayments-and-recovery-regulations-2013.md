@@ -64,7 +64,7 @@ In relation to provisions in these Regulations relating to housing benefit, in a
 
 (3) All other provisions of these Regulations come into force on 29th April 2013.
 
-### 2. Interpretation[^key-aa01f8a7af202a5b837b70b92ac47f77]
+### 2. Interpretation[^c-aa01f8a7af202a5b837b70b92ac47f77]
 
 In these Regulations—
 
@@ -83,7 +83,7 @@ In these Regulations—
 - “**liable person**” means the person from whom a recoverable amount is recoverable;
 - “**overpayment**” means an amount of—
   - (a) universal credit, jobseeker's allowance or employment and support allowance which may be recovered by the Secretary of State by virtue of section 71ZB(1) of the Act;
-  - (b) [^key-e9ff5eb6edad9cb24eb1a80d130f5f0d].........
+  - (b) [^c-e9ff5eb6edad9cb24eb1a80d130f5f0d].........
 - “**overpayment period**” means the period over which an overpayment accrues;
 - “**partner**” means, where the person being referred to is a member of a couple, the other member of the couple;
 - “**recoverable amount**” is to be construed in accordance with regulation 3;
@@ -195,8 +195,8 @@ Section 71ZB(3) of the Act (recoverability of an overpayment dependent on revers
 - (b) universal credit;
 - (c) jobseeker's allowance;
 - (d) employment and support allowance;
-- (e) state pension credit payable under the State Pension Credit Act 2002 [^c2166231]; [^key-1041778bee3c1bf4069dba750ccd2718]...
-- (f) personal independence payment payable under Part 4 of the 2012 Act; and[^key-7c5aa8accfcaad1778c3b3c8cadeddf9]
+- (e) state pension credit payable under the State Pension Credit Act 2002 [^c2166231]; [^c-1041778bee3c1bf4069dba750ccd2718]...
+- (f) personal independence payment payable under Part 4 of the 2012 Act; and[^c-7c5aa8accfcaad1778c3b3c8cadeddf9]
 - (g) a state pension under Part 1 of the Pensions Act 2014.
 
 ### 11. Recovery by deduction from universal credit
@@ -205,9 +205,9 @@ Section 71ZB(3) of the Act (recoverability of an overpayment dependent on revers
 
 (2) Subject to paragraphs (5) to (9), regulation 10 is to apply to the amount of universal credit to which the liable person is presently entitled to the extent that there may be recovered in any one assessment period—
 
-- (a) in a case to which paragraph (3) applies, an amount equivalent to not more than 40 per cent.[^key-77211a5e2875d2d988631929110f78f9] of the appropriate universal credit standard allowance;
-- (b) in a case to which paragraph (4) applies but paragraph (3) does not apply, an amount equivalent to not more than 25 per cent.[^key-87fd0908a892f69f1f097ab2aae10d0a] of that allowance; and
-- (c) in any other case, an amount equivalent to not more than 15 per cent.[^key-4311cb2253eddc677f262c26e7ce7d51]of that allowance.
+- (a) in a case to which paragraph (3) applies, an amount equivalent to not more than 40 per cent.[^c-77211a5e2875d2d988631929110f78f9] of the appropriate universal credit standard allowance;
+- (b) in a case to which paragraph (4) applies but paragraph (3) does not apply, an amount equivalent to not more than 25 per cent.[^c-87fd0908a892f69f1f097ab2aae10d0a] of that allowance; and
+- (c) in any other case, an amount equivalent to not more than 15 per cent.[^c-4311cb2253eddc677f262c26e7ce7d51]of that allowance.
 
 (3) This paragraph applies where deductions from universal credit are made to recover from the liable person—
 
@@ -221,7 +221,7 @@ Section 71ZB(3) of the Act (recoverability of an overpayment dependent on revers
 
 (5) Paragraph (2) is subject to paragraphs 4 and 5 of Schedule 6 to the UC etc. Claims and Payments Regulations (payments to third parties).
 
-(6)[^key-f3498f468a3d44ffea4b73116a6b4248] For the purpose of paragraph (2), where the relevant percentage of the appropriate universal credit standard allowance results in a fraction of a penny, that fraction is to be disregarded if it is less than half a penny and otherwise it is to be treated as a penny.
+(6)[^c-f3498f468a3d44ffea4b73116a6b4248] For the purpose of paragraph (2), where the relevant percentage of the appropriate universal credit standard allowance results in a fraction of a penny, that fraction is to be disregarded if it is less than half a penny and otherwise it is to be treated as a penny.
 
 (7) No deduction made under paragraph (2) is to be applied so as to reduce the universal credit in respect of an assessment period to less than 1 penny.
 
@@ -381,7 +381,7 @@ and Schedule 1 has effect for the purpose of this regulation.
 - (b) the name of the employer at whom the notice is directed;
 - (c) where known, the liable person's place of work, the nature of their work and any staff number, pay roll number or similar identifying number;
 - (d) the liable person's national insurance number;
-- (e)[^key-1975e1ad39c44ecfd94c6747e291a88b] the deduction or rate of deduction to be made in accordance with regulation 20.
+- (e)[^c-1975e1ad39c44ecfd94c6747e291a88b] the deduction or rate of deduction to be made in accordance with regulation 20.
 - (f) the protected earnings proportion;
 - (g) the address to which amounts deducted from earnings are to be sent if paid by cheque; and
 - (h) details of the account into which such amounts are to be transferred if paid by direct credit transfer.
@@ -394,15 +394,15 @@ and Schedule 1 has effect for the purpose of this regulation.
 
 (1) This regulation applies where an employer has received from an appropriate authority a notice in respect of a liable person in their employment.
 
-(2) Subject to the following provisions of this regulation, the employer must, each pay-day, make a deduction in accordance with paragraph (3)or (3B)[^key-5e7f396a291ec72637524cdfcc902712] from the net earnings which it would otherwise pay to the liable person on that pay-day.
+(2) Subject to the following provisions of this regulation, the employer must, each pay-day, make a deduction in accordance with paragraph (3)or (3B)[^c-5e7f396a291ec72637524cdfcc902712] from the net earnings which it would otherwise pay to the liable person on that pay-day.
 
-(3) Except where paragraph (3B) applies, the amount to be deducted is—[^key-91a5ecf8dc3b480258b570a7009b03e1]
+(3) Except where paragraph (3B) applies, the amount to be deducted is—[^c-91a5ecf8dc3b480258b570a7009b03e1]
 
 - (a) where the liable person's earnings are payable weekly, the percentage of their earnings specified in column 2 of Table A in Schedule 2 opposite the band in column 1 of that Table within which their net earnings payable on their pay-day fall;
 - (b) where the liable person's earnings are payable monthly, the percentage of their earnings specified in column 2 of Table B in that Schedule opposite the band in column 1 of that Table within which their net earnings payable on their pay-day fall; or
 - (c) a lower amount calculated in the manner specified by the appropriate authority in the notice.
 
-(3A)[^key-822737196c129520c9a1ed2095bb8659] Paragraph (3B) applies where deductions from earnings are made to recover from the liable person the whole or part of an overpayment in respect of which the liable person has been found guilty of an offence whether under statute or otherwise.
+(3A)[^c-822737196c129520c9a1ed2095bb8659] Paragraph (3B) applies where deductions from earnings are made to recover from the liable person the whole or part of an overpayment in respect of which the liable person has been found guilty of an offence whether under statute or otherwise.
 
 (3B) Where this paragraph applies, the amount to be deducted by the employer is—
 
@@ -410,9 +410,9 @@ and Schedule 1 has effect for the purpose of this regulation.
 - (b) where the liable person’s earnings are payable monthly, the percentage of their earnings specified in column 2 of Table D in Schedule 2 opposite the band in column 1 of that Table within which their net earnings payable on their pay-day fall; or
 - (c) a lower amount calculated in the manner specified by the appropriate authority in the notice.
 
-(4) Where any amount calculated under paragraph (3)or (3B)[^key-68478a0d720321b74a9990ee43bc8993] includes a fraction of a penny, it is to be rounded to the nearest whole penny with a result of exactly half a penny being rounded down to the nearest whole penny below.
+(4) Where any amount calculated under paragraph (3)or (3B)[^c-68478a0d720321b74a9990ee43bc8993] includes a fraction of a penny, it is to be rounded to the nearest whole penny with a result of exactly half a penny being rounded down to the nearest whole penny below.
 
-(5)[^key-a4e68182d37531afba6b9b1083e299a8] The employer must continue to make deductions in accordance with paragraph (3) or (3B) unless and until—
+(5)[^c-a4e68182d37531afba6b9b1083e299a8] The employer must continue to make deductions in accordance with paragraph (3) or (3B) unless and until—
 
 - (a) they are notified by the appropriate authority that the notice—
   - (i) has been varied in accordance with regulation 25;
@@ -420,24 +420,24 @@ and Schedule 1 has effect for the purpose of this regulation.
   - (iii) has lapsed under regulation 27; or
 - (b) the employer considers that, as a result of deductions under this regulation, the balance of the recoverable amount which falls to be recovered from the liable person is nil.
 
-(6) Where, on any pay-day (“the relevant pay-day”), the employer fails to deduct an amount under paragraph (3)or (3B)[^key-2775238567f63ab56ddae315c89c2ffe] or deducts an amount less than the amount specified in that paragraph, the employer must, on the next available pay-day or pay-days, first deduct the amount required to be deducted under paragraph (3)or (3B) for that pay-day and then the difference between the amount, if any, which was deducted on the relevant pay-day and the amount which should have been deducted on that pay-day.
+(6) Where, on any pay-day (“the relevant pay-day”), the employer fails to deduct an amount under paragraph (3)or (3B)[^c-2775238567f63ab56ddae315c89c2ffe] or deducts an amount less than the amount specified in that paragraph, the employer must, on the next available pay-day or pay-days, first deduct the amount required to be deducted under paragraph (3)or (3B) for that pay-day and then the difference between the amount, if any, which was deducted on the relevant pay-day and the amount which should have been deducted on that pay-day.
 
-(7) Where a deduction made in accordance with paragraph (3) , (3B)[^key-854f517bae7fae78d0f39bd9c166d4c6]or (6) would reduce the amount paid to the liable person below the protected earnings proportion, the employer must deduct only such amount as will result in the employer paying the liable person an amount equal to the protected earnings proportion.
+(7) Where a deduction made in accordance with paragraph (3) , (3B)[^c-854f517bae7fae78d0f39bd9c166d4c6]or (6) would reduce the amount paid to the liable person below the protected earnings proportion, the employer must deduct only such amount as will result in the employer paying the liable person an amount equal to the protected earnings proportion.
 
-(8) Where, on any pay-day (“the relevant pay-day”), the employer deducts more than the amount required to be deducted under paragraph (3)or (3B)[^key-a6ea2f6f3c6ce37c29f1f3d8201ff935] the employer must, on the next available pay-day or pay-days, deduct only the amount required to be deducted under paragraph (3)or (3B) , less the difference between the amount which was deducted on the relevant pay-day and the amount which should have been deducted on that pay-day.
+(8) Where, on any pay-day (“the relevant pay-day”), the employer deducts more than the amount required to be deducted under paragraph (3)or (3B)[^c-a6ea2f6f3c6ce37c29f1f3d8201ff935] the employer must, on the next available pay-day or pay-days, deduct only the amount required to be deducted under paragraph (3)or (3B) , less the difference between the amount which was deducted on the relevant pay-day and the amount which should have been deducted on that pay-day.
 
 (9) Where, on any pay-day, an employer makes a deduction from the earnings of a liable person in accordance with the notice, they may also deduct an additional amount not exceeding £1 in respect of their administrative costs and such deduction for administrative costs may reduce the amount which the employer pays to the liable person on that pay-day below the protected earnings proportion.
 
 ### 21. Employer to notify liable person of deduction
 
-(1) An employer making a deduction from earnings for the purposes of these Regulations must notify the liable person in writing of the amount of the deduction including any amount deducted for administrative costs under regulation 20(9).[^key-e8c63a65b9e6650bb4b00b4a24860ffe]
+(1) An employer making a deduction from earnings for the purposes of these Regulations must notify the liable person in writing of the amount of the deduction including any amount deducted for administrative costs under regulation 20(9).[^c-e8c63a65b9e6650bb4b00b4a24860ffe]
 
 - (a) the amount of the deduction including any amount deducted for administrative costs under regulation 20(9); and
 - (b) how that amount was calculated.
 
 (2) Such notification must be given or sent not later than the pay-day on which the deduction is made or, where that is impracticable, not later than the following pay-day.
 
-(3)[^key-341fac26b196bbeab7c266119fe39db6] An employer must, within 28 days of receiving a written request from the liable person, provide the liable person with an explanation in writing of how the first amount referred to in paragraph (1) was calculated.
+(3)[^c-341fac26b196bbeab7c266119fe39db6] An employer must, within 28 days of receiving a written request from the liable person, provide the liable person with an explanation in writing of how the first amount referred to in paragraph (1) was calculated.
 
 ### 22. Payment by employer to the appropriate authority
 
@@ -525,7 +525,7 @@ Where a liable person is in the employment of the Crown and a notice is to be se
 
 (3) Paragraph (4) applies where an employer would otherwise be obliged, on any pay-day, to make deductions from the earnings which it would otherwise pay to the liable person on that pay-day under two or more notices.
 
-(4)[^key-ef664b5e87799644981d2896458f2bcb] Where this paragraph applies, the employer must make deductions under any later notice as if the earnings to which it relates were the residue of the liable person’s earnings after the making of any deduction to comply with any earlier notice.
+(4)[^c-ef664b5e87799644981d2896458f2bcb] Where this paragraph applies, the employer must make deductions under any later notice as if the earnings to which it relates were the residue of the liable person’s earnings after the making of any deduction to comply with any earlier notice.
 
 (5) Paragraph (6) applies where an employer would otherwise be obliged, on any pay-day, to make deductions from the earnings which it would otherwise pay to the liable person on that pay-day, under one or more notices and one or more child support orders.
 
@@ -857,16 +857,16 @@ For the purposes of this Schedule, a business that is carried on pursuant to a f
 
 ## SCHEDULE 2 — AMOUNTS TO BE DEDUCTED BY EMPLOYERS
 
-Regulation 20(2) and (3B)[^key-bc5bbb59fd4164c791758b5626bb5017]
+Regulation 20(2) and (3B)[^c-bc5bbb59fd4164c791758b5626bb5017]
 
-TABLE A:CASES WHERE REGULATION 20(3) APPLIES[^key-ddfba3cba04e61a1906a01f2e162a035]
+TABLE A:CASES WHERE REGULATION 20(3) APPLIES[^c-ddfba3cba04e61a1906a01f2e162a035]
 
 WHERE EARNINGS ARE PAID WEEKLY
 
 |  |  |
 | --- | --- |
 | AMOUNT OF NET EARNINGS | DEDUCTION (PER CENT. OF NET EARNINGS) |
-| £100 or less[^key-4f8cdd12a1ba42b2480671a8dcf1a869] | Nil |
+| £100 or less[^c-4f8cdd12a1ba42b2480671a8dcf1a869] | Nil |
 | Exceeding £100 but not exceeding £160 | 3 |
 | Exceeding £160 but not exceeding £220 | 5 |
 | Exceeding £220 but not exceeding £270 | 7 |
@@ -874,14 +874,14 @@ WHERE EARNINGS ARE PAID WEEKLY
 | Exceeding £375 but not exceeding £520 | 15 |
 | Exceeding £520 | 20 |
 
-TABLE B:CASES WHERE REGULATION 20(3) APPLIES[^key-7d1700548c22b56bfb0c94b0973d0d8b]
+TABLE B:CASES WHERE REGULATION 20(3) APPLIES[^c-7d1700548c22b56bfb0c94b0973d0d8b]
 
 WHERE EARNINGS ARE PAID MONTHLY
 
 |  |  |
 | --- | --- |
 | AMOUNT OF NET EARNINGS | DEDUCTION (PER CENT. OF NET EARNINGS) |
-| £430 or less[^key-bc4fbe514d8a09f38568e511d0b23296] | Nil |
+| £430 or less[^c-bc4fbe514d8a09f38568e511d0b23296] | Nil |
 | Exceeding £430 but not exceeding £690 | 3 |
 | Exceeding £690 but not exceeding £950 | 5 |
 | Exceeding £950 but not exceeding £1,160 | 7 |
@@ -889,7 +889,7 @@ WHERE EARNINGS ARE PAID MONTHLY
 | Exceeding £1,615 but not exceeding £2,240 | 15 |
 | Exceeding £2,240 | 20 |
 
-TABLE C: CASES WHERE REGULATION 20(3B) APPLIES[^key-27994d13a262d8c02c22bcd5cf2f01b4]
+TABLE C: CASES WHERE REGULATION 20(3B) APPLIES[^c-27994d13a262d8c02c22bcd5cf2f01b4]
 
 WHERE EARNINGS ARE PAID WEEKLY
 
@@ -977,7 +977,7 @@ An impact assessment has not been produced for the remainder of this instrument 
 
 [^c2166219]: Marginal citation: [Section 176(1)](https://www.legislation.gov.uk/uksi/2013/384/section/176/1) is amended by paragraph 23 of Schedule 9 to the [Local Government Finance Act 1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14), [paragraph 3(4)](https://www.legislation.gov.uk/ukpga/1992/14/paragraph/3/4) of Schedule 13 to the [Housing Act 1996 (c.52)](https://www.legislation.gov.uk/ukpga/1996/52) and section 69(6) of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-aa01f8a7af202a5b837b70b92ac47f77]: Modification: Reg. 2 modified (1.4.2015) by [The Tax Credits (Exercise of Functions) Order 2014 (S.I. 2014/3280)](https://www.legislation.gov.uk/uksi/2014/3280), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3280/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2014/3280/article/5/1)
+[^c-aa01f8a7af202a5b837b70b92ac47f77]: Modification: Reg. 2 modified (1.4.2015) by [The Tax Credits (Exercise of Functions) Order 2014 (S.I. 2014/3280)](https://www.legislation.gov.uk/uksi/2014/3280), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3280/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2014/3280/article/5/1)
 
 [^c2166220]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
 
@@ -991,7 +991,7 @@ An impact assessment has not been produced for the remainder of this instrument 
 
 [^c2166225]: Marginal citation: *See* section 39 of that Act.
 
-[^key-e9ff5eb6edad9cb24eb1a80d130f5f0d]: Textual amendment: Words in reg. 2 omitted (1.4.2015) by virtue of [The Tax Credits (Exercise of Functions) Order 2014 (S.I. 2014/3280)](https://www.legislation.gov.uk/uksi/2014/3280), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3280/article/1), [6](https://www.legislation.gov.uk/uksi/2014/3280/article/6)
+[^c-e9ff5eb6edad9cb24eb1a80d130f5f0d]: Textual amendment: Words in reg. 2 omitted (1.4.2015) by virtue of [The Tax Credits (Exercise of Functions) Order 2014 (S.I. 2014/3280)](https://www.legislation.gov.uk/uksi/2014/3280), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3280/article/1), [6](https://www.legislation.gov.uk/uksi/2014/3280/article/6)
 
 [^c2166228]: Marginal citation: [Sections 71ZE](https://www.legislation.gov.uk/uksi/2013/384/section/71ZE), [71ZG](https://www.legislation.gov.uk/uksi/2013/384/section/71ZG) and 71ZH are inserted by section 105 of the Welfare Reform Act 2012. Sections 115C and 115D are inserted by section 116 of that Act.
 
@@ -1001,17 +1001,17 @@ An impact assessment has not been produced for the remainder of this instrument 
 
 [^c2166231]: Marginal citation: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-1041778bee3c1bf4069dba750ccd2718]: Textual amendment: Word in [reg. 10(2)(e)](https://www.legislation.gov.uk/uksi/2013/384/regulation/10/2/e) omitted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [42(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/42/a)
+[^c-1041778bee3c1bf4069dba750ccd2718]: Textual amendment: Word in [reg. 10(2)(e)](https://www.legislation.gov.uk/uksi/2013/384/regulation/10/2/e) omitted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [42(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/42/a)
 
-[^key-7c5aa8accfcaad1778c3b3c8cadeddf9]: Textual amendment: [Reg. 10(2)(g)](https://www.legislation.gov.uk/uksi/2013/384/regulation/10/2/g) and word inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [42(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/42/b)
+[^c-7c5aa8accfcaad1778c3b3c8cadeddf9]: Textual amendment: [Reg. 10(2)(g)](https://www.legislation.gov.uk/uksi/2013/384/regulation/10/2/g) and word inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [42(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/42/b)
 
-[^key-77211a5e2875d2d988631929110f78f9]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2013/384/regulation/11/2/a) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [8(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/8/2/a)
+[^c-77211a5e2875d2d988631929110f78f9]: Textual amendment: Words in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2013/384/regulation/11/2/a) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [8(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/8/2/a)
 
-[^key-87fd0908a892f69f1f097ab2aae10d0a]: Textual amendment: Words in [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2013/384/regulation/11/2/b) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [8(2)(b)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/8/2/b)
+[^c-87fd0908a892f69f1f097ab2aae10d0a]: Textual amendment: Words in [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2013/384/regulation/11/2/b) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [8(2)(b)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/8/2/b)
 
-[^key-4311cb2253eddc677f262c26e7ce7d51]: Textual amendment: Words in [reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/11/2/c) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [8(2)(c)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/8/2/c)
+[^c-4311cb2253eddc677f262c26e7ce7d51]: Textual amendment: Words in [reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2013/384/regulation/11/2/c) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [8(2)(c)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/8/2/c)
 
-[^key-f3498f468a3d44ffea4b73116a6b4248]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/uksi/2013/384/regulation/11/6) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [8(3)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/8/3)
+[^c-f3498f468a3d44ffea4b73116a6b4248]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/uksi/2013/384/regulation/11/6) substituted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [8(3)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/8/3)
 
 [^c2166232]: Marginal citation: [S.I.2013/381](https://www.legislation.gov.uk/uksi/2013/381).
 
@@ -1033,31 +1033,31 @@ An impact assessment has not been produced for the remainder of this instrument 
 
 [^c2166241]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-1975e1ad39c44ecfd94c6747e291a88b]: Textual amendment: [Reg. 19(2)(e)](https://www.legislation.gov.uk/uksi/2013/384/regulation/19/2/e) substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/499/regulation/4)
+[^c-1975e1ad39c44ecfd94c6747e291a88b]: Textual amendment: [Reg. 19(2)(e)](https://www.legislation.gov.uk/uksi/2013/384/regulation/19/2/e) substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/499/regulation/4)
 
-[^key-5e7f396a291ec72637524cdfcc902712]: Textual amendment: Words in reg. 20(2) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/2)
+[^c-5e7f396a291ec72637524cdfcc902712]: Textual amendment: Words in reg. 20(2) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/2)
 
-[^key-91a5ecf8dc3b480258b570a7009b03e1]: Textual amendment: Words in reg. 20(3) substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/3)
+[^c-91a5ecf8dc3b480258b570a7009b03e1]: Textual amendment: Words in reg. 20(3) substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/3)
 
-[^key-822737196c129520c9a1ed2095bb8659]: Textual amendment: Reg. 20(3A) - Reg. 20(3B) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/4)
+[^c-822737196c129520c9a1ed2095bb8659]: Textual amendment: Reg. 20(3A) - Reg. 20(3B) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/4)
 
-[^key-68478a0d720321b74a9990ee43bc8993]: Textual amendment: Words in reg. 20(4) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/2)
+[^c-68478a0d720321b74a9990ee43bc8993]: Textual amendment: Words in reg. 20(4) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/2)
 
-[^key-a4e68182d37531afba6b9b1083e299a8]: Textual amendment: Reg. 20(5) substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/5)
+[^c-a4e68182d37531afba6b9b1083e299a8]: Textual amendment: Reg. 20(5) substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/5)
 
-[^key-2775238567f63ab56ddae315c89c2ffe]: Textual amendment: Words in reg. 20(6) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/2)
+[^c-2775238567f63ab56ddae315c89c2ffe]: Textual amendment: Words in reg. 20(6) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/2)
 
-[^key-854f517bae7fae78d0f39bd9c166d4c6]: Textual amendment: Word in reg. 20(7) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/6)
+[^c-854f517bae7fae78d0f39bd9c166d4c6]: Textual amendment: Word in reg. 20(7) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/6)
 
-[^key-a6ea2f6f3c6ce37c29f1f3d8201ff935]: Textual amendment: Words in reg. 20(8) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/2)
+[^c-a6ea2f6f3c6ce37c29f1f3d8201ff935]: Textual amendment: Words in reg. 20(8) inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/5/2)
 
-[^key-e8c63a65b9e6650bb4b00b4a24860ffe]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/2013/384/regulation/21/1) substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/6/2)
+[^c-e8c63a65b9e6650bb4b00b4a24860ffe]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/2013/384/regulation/21/1) substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/6/2)
 
-[^key-341fac26b196bbeab7c266119fe39db6]: Textual amendment: [Reg. 21(3)](https://www.legislation.gov.uk/uksi/2013/384/regulation/21/3) added (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2015/499/regulation/6/3)
+[^c-341fac26b196bbeab7c266119fe39db6]: Textual amendment: [Reg. 21(3)](https://www.legislation.gov.uk/uksi/2013/384/regulation/21/3) added (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2015/499/regulation/6/3)
 
 [^c2166242]: Marginal citation: [S.I.1992/1989](https://www.legislation.gov.uk/uksi/1992/1989).
 
-[^key-ef664b5e87799644981d2896458f2bcb]: Textual amendment: [Reg. 29(4)](https://www.legislation.gov.uk/uksi/2013/384/regulation/29/4) substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/499/regulation/7)
+[^c-ef664b5e87799644981d2896458f2bcb]: Textual amendment: [Reg. 29(4)](https://www.legislation.gov.uk/uksi/2013/384/regulation/29/4) substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/499/regulation/7)
 
 [^c2166243]: Marginal citation: [S.I.1988/664](https://www.legislation.gov.uk/uksi/1988/664).
 
@@ -1081,14 +1081,14 @@ An impact assessment has not been produced for the remainder of this instrument 
 
 [^c2166253]: Marginal citation: [S.I.2006/214](https://www.legislation.gov.uk/uksi/2006/214). Regulation 86(1) is amended by [S.I.2008/1082](https://www.legislation.gov.uk/uksi/2008/1082) and 2824. Regulation 86(1B) is inserted by [S.I.2008/2824](https://www.legislation.gov.uk/uksi/2008/2824).
 
-[^key-bc5bbb59fd4164c791758b5626bb5017]: Textual amendment: Words in Sch. 2 substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/8/2)
+[^c-bc5bbb59fd4164c791758b5626bb5017]: Textual amendment: Words in Sch. 2 substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/499/regulation/8/2)
 
-[^key-ddfba3cba04e61a1906a01f2e162a035]: Textual amendment: Words in Sch. 2 inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/499/regulation/8/3)
+[^c-ddfba3cba04e61a1906a01f2e162a035]: Textual amendment: Words in Sch. 2 inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/499/regulation/8/3)
 
-[^key-4f8cdd12a1ba42b2480671a8dcf1a869]: Textual amendment: Words in Sch. 2 substitued (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2015/499/regulation/8/4)
+[^c-4f8cdd12a1ba42b2480671a8dcf1a869]: Textual amendment: Words in Sch. 2 substitued (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2015/499/regulation/8/4)
 
-[^key-7d1700548c22b56bfb0c94b0973d0d8b]: Textual amendment: Words in Sch. 2 inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2015/499/regulation/8/5)
+[^c-7d1700548c22b56bfb0c94b0973d0d8b]: Textual amendment: Words in Sch. 2 inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2015/499/regulation/8/5)
 
-[^key-bc4fbe514d8a09f38568e511d0b23296]: Textual amendment: Words in Sch. 2 substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [8(6)](https://www.legislation.gov.uk/uksi/2015/499/regulation/8/6)
+[^c-bc4fbe514d8a09f38568e511d0b23296]: Textual amendment: Words in Sch. 2 substituted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [8(6)](https://www.legislation.gov.uk/uksi/2015/499/regulation/8/6)
 
-[^key-27994d13a262d8c02c22bcd5cf2f01b4]: Textual amendment: Sch. 2 inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [8(7)](https://www.legislation.gov.uk/uksi/2015/499/regulation/8/7)
+[^c-27994d13a262d8c02c22bcd5cf2f01b4]: Textual amendment: Sch. 2 inserted (6.4.2015) by [The Social Security (Overpayments and Recovery) Amendment Regulations 2015 (S.I. 2015/499)](https://www.legislation.gov.uk/uksi/2015/499), [regs. 1](https://www.legislation.gov.uk/uksi/2015/499/regulation/1), [8(7)](https://www.legislation.gov.uk/uksi/2015/499/regulation/8/7)

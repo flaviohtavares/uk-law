@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Transmission of service declaration[^key-c62232d7893cf56c559998b02da47bb0]
+## 16. Transmission of service declaration[^c-c62232d7893cf56c559998b02da47bb0]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A service declaration—
 
 ## Annotations
 
-[^key-c62232d7893cf56c559998b02da47bb0]: Textual amendment: Reg. 16 substituted (9.12.2014) by [The Representation of the People (Scotland) (Amendment No. 2) Regulations 2014 (S.I. 2014/3124)](https://www.legislation.gov.uk/uksi/2014/3124), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3124/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/3124/regulation/4)
+[^c-c62232d7893cf56c559998b02da47bb0]: Textual amendment: Reg. 16 substituted (9.12.2014) by [The Representation of the People (Scotland) (Amendment No. 2) Regulations 2014 (S.I. 2014/3124)](https://www.legislation.gov.uk/uksi/2014/3124), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3124/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/3124/regulation/4)

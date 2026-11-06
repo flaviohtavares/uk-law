@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Independent educational institution standards[^key-736b7fd2d5345af31de3038ede21d082]
+## 44. Independent educational institution standards[^c-736b7fd2d5345af31de3038ede21d082]
 
 *Extent: E+W*
 
-(1)[^key-a53f9640b4b61a3b6465544eec28d2f4] The [Education and Skills Act 2008](https://www.legislation.gov.uk/ukpga/2008/25/contents) is amended as follows.
+(1)[^c-a53f9640b4b61a3b6465544eec28d2f4] The [Education and Skills Act 2008](https://www.legislation.gov.uk/ukpga/2008/25/contents) is amended as follows.
 
 (2) In [section 94](https://www.legislation.gov.uk/ukpga/2008/25/section/94) (independent educational institution standards)—
 
@@ -38,7 +38,7 @@ summary: ''
 
   > (3A) A standard may be prescribed by reference to whether or not the proprietor of an independent educational institution has regard to guidance issued, or a document published, by the Secretary of State from time to time.
 
-(3)[^key-67a0b641d929e11d671dd6cf1e820511] After [section 99](https://www.legislation.gov.uk/ukpga/2008/25/section/99) insert—
+(3)[^c-67a0b641d929e11d671dd6cf1e820511] After [section 99](https://www.legislation.gov.uk/ukpga/2008/25/section/99) insert—
 
 > **99A. Inspections on appeal against decision not to register**
 >
@@ -353,8 +353,8 @@ summary: ''
 
 ## Annotations
 
-[^key-736b7fd2d5345af31de3038ede21d082]: Commencement: S. 44 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-736b7fd2d5345af31de3038ede21d082]: Commencement: S. 44 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
 
-[^key-a53f9640b4b61a3b6465544eec28d2f4]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/1) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(j)(ii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/j/ii)
+[^c-a53f9640b4b61a3b6465544eec28d2f4]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/1) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(j)(ii)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/j/ii)
 
-[^key-67a0b641d929e11d671dd6cf1e820511]: Commencement: [S. 44(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/3) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(j)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/j/i)
+[^c-67a0b641d929e11d671dd6cf1e820511]: Commencement: [S. 44(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/3) in force at 15.7.2026 in so far as not already in force by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(j)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/j/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Care component of disability living allowance: persons under the age of 16[^key-9f746ddebf7ce93c201f984001446379]
+## 52. Care component of disability living allowance: persons under the age of 16[^c-9f746ddebf7ce93c201f984001446379]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f746ddebf7ce93c201f984001446379]: Commencement: S. 52 in force at 1.10.2007 by [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/1/b)
+[^c-9f746ddebf7ce93c201f984001446379]: Commencement: S. 52 in force at 1.10.2007 by [S.I. 2007/2819](https://www.legislation.gov.uk/uksi/2007/2819), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2007/2819/article/2/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Piloting of school travel scheme provisions[^key-b65a40c5be357d81a9d640fef364fbd5]
+## 79. Piloting of school travel scheme provisions[^c-b65a40c5be357d81a9d640fef364fbd5]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b65a40c5be357d81a9d640fef364fbd5]: Commencement: S. 79 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(n)](https://www.legislation.gov.uk/uksi/2007/935/article/5/n)
+[^c-b65a40c5be357d81a9d640fef364fbd5]: Commencement: S. 79 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(n)](https://www.legislation.gov.uk/uksi/2007/935/article/5/n)

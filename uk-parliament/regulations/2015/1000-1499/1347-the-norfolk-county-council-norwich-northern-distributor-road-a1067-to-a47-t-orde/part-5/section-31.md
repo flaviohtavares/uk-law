@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Special category land[^key-47a231bc569673b119494f1fb310c09c]
+## 31. Special category land[^c-47a231bc569673b119494f1fb310c09c]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47a231bc569673b119494f1fb310c09c]: Commencement: Art. 31 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-47a231bc569673b119494f1fb310c09c]: Commencement: Art. 31 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

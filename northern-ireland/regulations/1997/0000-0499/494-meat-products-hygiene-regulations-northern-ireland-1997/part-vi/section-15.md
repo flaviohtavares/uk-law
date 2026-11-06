@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Conditions for premises manufacturing other products of animal origin[^key-6663f37ae8fccbd626c6b1b2ac13ac68]
+## 15. Conditions for premises manufacturing other products of animal origin[^c-6663f37ae8fccbd626c6b1b2ac13ac68]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ A person shall not manufacture other products of animal origin unless the premis
 
 ## Annotations
 
-[^key-6663f37ae8fccbd626c6b1b2ac13ac68]: Commencement: Reg. 15 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-6663f37ae8fccbd626c6b1b2ac13ac68]: Commencement: Reg. 15 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Assessment of allegations[^key-fddb831f92f7a5eeb03e38e00cf06e23]
+## 185. Assessment of allegations[^c-fddb831f92f7a5eeb03e38e00cf06e23]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fddb831f92f7a5eeb03e38e00cf06e23]: Textual amendment: Ss. 185-187 repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6), [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2); [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(b)(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/b/c) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2012/2913/article/3))
+[^c-fddb831f92f7a5eeb03e38e00cf06e23]: Textual amendment: Ss. 185-187 repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6), [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2); [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(b)(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/b/c) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2012/2913/article/3))

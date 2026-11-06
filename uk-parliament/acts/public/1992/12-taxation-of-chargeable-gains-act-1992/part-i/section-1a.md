@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Territorial scope[^key-8f1b51e533ff9b07068f2c9150edcf5f]
+## 1A. Territorial scope[^c-8f1b51e533ff9b07068f2c9150edcf5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) In the case of individuals who are UK resident for a tax year, see also—
 
-- (za)[^key-37ee0c9a924b3ad6d84deade5d394dad] Schedule D1 (relief for new residents on foreign gains),
-- (a) Schedule 1 (foreign gains accruing to individuals to whom the remittance basis applied[^key-3f4c0c0c5c4c2c6fff51ab44330ad538]),
+- (za)[^c-37ee0c9a924b3ad6d84deade5d394dad] Schedule D1 (relief for new residents on foreign gains),
+- (a) Schedule 1 (foreign gains accruing to individuals to whom the remittance basis applied[^c-3f4c0c0c5c4c2c6fff51ab44330ad538]),
 - (b) section 1G (cases where the tax year is a split year),
 - (c) sections 1M and 1N (temporary periods of non-residence),
 - (d) Chapter 3 (gains of non-UK resident close companies attributed to individuals), and
-- (e) sections 86, 87, [^key-320cf577ff85176657ef046563e6db81]... and 89(2) (gains of non-UK resident trustees attributed to individuals).
+- (e) sections 86, 87, [^c-320cf577ff85176657ef046563e6db81]... and 89(2) (gains of non-UK resident trustees attributed to individuals).
 
 (3) A person who is not UK resident for a tax year is chargeable to capital gains tax on chargeable gains accruing to the person in the tax year on the disposal of—
 
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
+[^c-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
 
-[^key-37ee0c9a924b3ad6d84deade5d394dad]: Textual amendment: [S. 1A(2)(za)](https://www.legislation.gov.uk/ukpga/1992/12/section/1A/2/za) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(3)(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/3/11)
+[^c-37ee0c9a924b3ad6d84deade5d394dad]: Textual amendment: [S. 1A(2)(za)](https://www.legislation.gov.uk/ukpga/1992/12/section/1A/2/za) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 39(3)(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/39/3/11)
 
-[^key-3f4c0c0c5c4c2c6fff51ab44330ad538]: Textual amendment: Word in [s. 1A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/1A/2/a) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/2/2)
+[^c-3f4c0c0c5c4c2c6fff51ab44330ad538]: Textual amendment: Word in [s. 1A(2)(a)](https://www.legislation.gov.uk/ukpga/1992/12/section/1A/2/a) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/2/2)
 
-[^key-320cf577ff85176657ef046563e6db81]: Textual amendment: Words in [s. 1A(2)(e)](https://www.legislation.gov.uk/ukpga/1992/12/section/1A/2/e) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 52](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/52), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-320cf577ff85176657ef046563e6db81]: Textual amendment: Words in [s. 1A(2)(e)](https://www.legislation.gov.uk/ukpga/1992/12/section/1A/2/e) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 52](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/52), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

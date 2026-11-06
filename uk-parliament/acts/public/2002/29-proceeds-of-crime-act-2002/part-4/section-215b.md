@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215B. Costs of storage and realisation[^key-e4545b132ff0452df2b0e0c4785731dc]
+## 215B. Costs of storage and realisation[^c-e4545b132ff0452df2b0e0c4785731dc]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4545b132ff0452df2b0e0c4785731dc]: Textual amendment: Ss. 215A-215D inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/60/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/147/article/3/c)
+[^c-e4545b132ff0452df2b0e0c4785731dc]: Textual amendment: Ss. 215A-215D inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/60/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/147/article/3/c)

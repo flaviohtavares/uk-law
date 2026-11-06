@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Noise offences: fixed penalty notices[^key-0209a16912bb5b04211f91f87eb7a934][^key-f5af61b6a18522ae6c451fb87dae8a71]
+## 61. Noise offences: fixed penalty notices[^c-0209a16912bb5b04211f91f87eb7a934][^c-f5af61b6a18522ae6c451fb87dae8a71]
 
 *Extent: N.I.*
 
@@ -101,6 +101,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0209a16912bb5b04211f91f87eb7a934]: Commencement: [S. 61](https://www.legislation.gov.uk/nia/2011/23/section/61) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-0209a16912bb5b04211f91f87eb7a934]: Commencement: [S. 61](https://www.legislation.gov.uk/nia/2011/23/section/61) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-f5af61b6a18522ae6c451fb87dae8a71]: Commencement: [S. 61](https://www.legislation.gov.uk/nia/2011/23/section/61) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-f5af61b6a18522ae6c451fb87dae8a71]: Commencement: [S. 61](https://www.legislation.gov.uk/nia/2011/23/section/61) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

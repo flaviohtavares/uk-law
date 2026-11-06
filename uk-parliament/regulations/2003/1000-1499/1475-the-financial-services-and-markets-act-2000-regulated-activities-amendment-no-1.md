@@ -49,7 +49,7 @@ The Treasury, in exercise of the powers conferred upon them by sections 22(1) an
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-239e3a0404225157cfb6a6761256c6ec]
+### 1. Citation and commencement[^c-239e3a0404225157cfb6a6761256c6ec]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 1) Order 2003.
 
@@ -57,20 +57,20 @@ The Treasury, in exercise of the powers conferred upon them by sections 22(1) an
 
 (3) Otherwise, this Order comes into force on 31st October 2004.
 
-### 2. Interpretation[^key-95af125aab32b0dfc884b42618b0cdca]
+### 2. Interpretation[^c-95af125aab32b0dfc884b42618b0cdca]
 
 In this Order, “the Regulated Activities Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00002].
 
 ## PART 2 — AMENDMENTS TO THE REGULATED ACTIVITIES ORDER
 
-### 3. Meaning of “overseas person”[^key-28eb366cfab211bec93624e5ba3051f0]
+### 3. Meaning of “overseas person”[^c-28eb366cfab211bec93624e5ba3051f0]
 
 In article 3(1) of the Regulated Activities Order (interpretation), in paragraph (a) of the definition of “overseas person”—
 
 - (a) after “25,” insert “25A,”; and
 - (b) for “and 53” substitute“, 53, 53A and 61”.
 
-### 4. Arranging regulated mortgage contracts[^key-8e702318d173e57d5aad712ff0ed9f93]
+### 4. Arranging regulated mortgage contracts[^c-8e702318d173e57d5aad712ff0ed9f93]
 
 After article 25 of the Regulated Activities Order insert—
 
@@ -89,15 +89,15 @@ After article 25 of the Regulated Activities Order insert—
 
 .
 
-### 5. Exclusion of arrangements not causing a deal[^key-b4bc0693ea67e8e8b84f2f7342d5396e]
+### 5. Exclusion of arrangements not causing a deal[^c-b4bc0693ea67e8e8b84f2f7342d5396e]
 
 In article 26 of the Regulated Activities Order (arrangements not causing a deal), after “article 25(1)” insert “and article 25A(1)”.
 
-### 6. Exclusion where a person provides means of communication between parties[^key-6bdc1c4ccfa74332d1e84cc0b9af34aa]
+### 6. Exclusion where a person provides means of communication between parties[^c-6bdc1c4ccfa74332d1e84cc0b9af34aa]
 
 In article 27 of the Regulated Activities Order (enabling parties to communicate), after “article 25(2)” insert “and article 25A(2)”.
 
-### 7. Exclusion where the arranger is a party to the contract[^key-310f346efca3c9321cce7e5b88824099]
+### 7. Exclusion where the arranger is a party to the contract[^c-310f346efca3c9321cce7e5b88824099]
 
 After article 28 of the Regulated Activities Order insert—
 
@@ -112,14 +112,14 @@ After article 28 of the Regulated Activities Order insert—
 
 .
 
-### 8. Exclusion of arrangements where transaction is with or through an authorised person[^key-b7052feb67f60f5bc64c940195e13b50]
+### 8. Exclusion of arrangements where transaction is with or through an authorised person[^c-b7052feb67f60f5bc64c940195e13b50]
 
 In article 29 of the Regulated Activities Order (arranging deals with or through authorised persons), in paragraph (1)—
 
 - (a) after “article 25(1) and (2)” insert “and article 25A(1) and (2)”; and
 - (b) in sub-paragraph (b), after “in his capacity as an investor” insert “or (as the case may be) a borrower under a regulated mortgage contract”.
 
-### 9. Exclusion of arrangements made in the course of administration by authorised person[^key-879d6d4548813b2ded4f32b928f2953e]
+### 9. Exclusion of arrangements made in the course of administration by authorised person[^c-879d6d4548813b2ded4f32b928f2953e]
 
 After article 29 of the Regulated Activities Order insert—
 
@@ -132,7 +132,7 @@ After article 29 of the Regulated Activities Order insert—
 
 .
 
-### 10. Exclusion of arrangements which consist of introduction to an authorised person etc. for independent advice[^key-65536f89ef67a1df5faa0b70aee141d4]
+### 10. Exclusion of arrangements which consist of introduction to an authorised person etc. for independent advice[^c-65536f89ef67a1df5faa0b70aee141d4]
 
 In article 33 of the Regulated Activities Order (introducing)—
 
@@ -141,7 +141,7 @@ In article 33 of the Regulated Activities Order (introducing)—
   - (i) after “25,” insert “25A,”, and
   - (ii) for “52 and 53” substitute “52, 53 and 53A”.
 
-### 11. Exclusion of arrangements consisting of an introduction to an authorised person etc.[^key-f38ddbf5db3568b3eb4ba762dd82e906]
+### 11. Exclusion of arrangements consisting of an introduction to an authorised person etc.[^c-f38ddbf5db3568b3eb4ba762dd82e906]
 
 After article 33 of the Regulated Activities Order insert—
 
@@ -170,7 +170,7 @@ After article 33 of the Regulated Activities Order insert—
 
 .
 
-### 12. Other exclusions—arranging[^key-7b9b7b356119387f343eb6357c038fe8]
+### 12. Other exclusions—arranging[^c-7b9b7b356119387f343eb6357c038fe8]
 
 In article 36 (other exclusions)—
 
@@ -181,7 +181,7 @@ In article 36 (other exclusions)—
 
   .
 
-### 13. Advising on regulated mortgage contracts[^key-b24c223c46bbb2f9aa824e2aea12955f]
+### 13. Advising on regulated mortgage contracts[^c-b24c223c46bbb2f9aa824e2aea12955f]
 
 After article 53 of the Regulated Activities Order insert—
 
@@ -198,7 +198,7 @@ After article 53 of the Regulated Activities Order insert—
 
 .
 
-### 14. Exclusion of advice given in print, electronic or broadcast media[^key-b257dd4ce0abe757a6a1ae8ee7fc82dc]
+### 14. Exclusion of advice given in print, electronic or broadcast media[^c-b257dd4ce0abe757a6a1ae8ee7fc82dc]
 
 (1) Article 54 of the Regulated Activities Order (advice given in newspapers etc.) is amended as follows.
 
@@ -216,7 +216,7 @@ After article 53 of the Regulated Activities Order insert—
 
 (5) In paragraph (2), after “from article 53” insert “and article 53A”.
 
-### 15. Exclusion of advice given in the course of administration by authorised person[^key-0d037de6a7f1044d9f8179333e760fc4]
+### 15. Exclusion of advice given in the course of administration by authorised person[^c-0d037de6a7f1044d9f8179333e760fc4]
 
 After article 54 of the Regulated Activities Order insert—
 
@@ -229,7 +229,7 @@ After article 54 of the Regulated Activities Order insert—
 
 .
 
-### 16. Other exclusions—advising[^key-c8aa1a605836150fb7440597b1f13184]
+### 16. Other exclusions—advising[^c-c8aa1a605836150fb7440597b1f13184]
 
 In article 55 of the Regulated Activities Order (other exclusions)—
 
@@ -240,7 +240,7 @@ In article 55 of the Regulated Activities Order (other exclusions)—
 
   .
 
-### 17. Other exclusions—regulated mortgage contracts[^key-92380c0d25575812cc6befd9cf9ff4b6]
+### 17. Other exclusions—regulated mortgage contracts[^c-92380c0d25575812cc6befd9cf9ff4b6]
 
 For article 63A and the heading to that article, substitute—
 
@@ -250,7 +250,7 @@ For article 63A and the heading to that article, substitute—
 
 .
 
-### 18. Exclusion of trustees, nominees and personal representatives[^key-0669212e555e0d9c2b8c958a6c59a3b9]
+### 18. Exclusion of trustees, nominees and personal representatives[^c-0669212e555e0d9c2b8c958a6c59a3b9]
 
 In article 66 of the Regulated Activities Order (trustees, nominees and personal representatives)—
 
@@ -263,14 +263,14 @@ In article 66 of the Regulated Activities Order (trustees, nominees and personal
   ; and
 - (d) in paragraph (7), for “(4) and (6)” substitute “(4), (6) and (6A)”.
 
-### 19. Exclusion of activities carried on in the course of a profession or non-investment business[^key-f1031c3721385107569364eb8aa08331]
+### 19. Exclusion of activities carried on in the course of a profession or non-investment business[^c-f1031c3721385107569364eb8aa08331]
 
 In paragraph (1) of article 67 of the Regulated Activities Order (activities carried on in the course of a profession or non-investment business)—
 
 - (a) after “25(1) and (2)”, insert “, 25A”; and
 - (b) for “and 53”, substitute “53 and 53A”.
 
-### 20. Overseas persons[^key-86e5e9c4daaf5fda4051e7a72824248f]
+### 20. Overseas persons[^c-86e5e9c4daaf5fda4051e7a72824248f]
 
 In article 72 of the Regulated Activities Order (overseas persons), after paragraph (5) insert—
 
@@ -293,7 +293,7 @@ In article 72 of the Regulated Activities Order (overseas persons), after paragr
 
 ## PART 3 — AMENDMENTS TO THE CONSUMER CREDIT ACT 1974
 
-### 21. Exceptions from section 145[^key-bb9045cf88df1b039851eb3c6a7f045c]
+### 21. Exceptions from section 145[^c-bb9045cf88df1b039851eb3c6a7f045c]
 
 (1) In section 145 of the Consumer Credit Act 1974 (types of ancillary credit business)[^f00003]—
 
@@ -332,7 +332,7 @@ In article 72 of the Regulated Activities Order (overseas persons), after paragr
 
 .
 
-### 22. Disapplication of section 155 in relation to authorised persons and appointed representatives[^key-daf74ddf6a6d982f41df5d81fac752a8]
+### 22. Disapplication of section 155 in relation to authorised persons and appointed representatives[^c-daf74ddf6a6d982f41df5d81fac752a8]
 
 (1) Section 155 of the Consumer Credit Act 1974 (right to recover brokerage fees) [^f00005] is amended as follows.
 
@@ -349,7 +349,7 @@ In article 72 of the Regulated Activities Order (overseas persons), after paragr
 
 ## PART 4 — AMENDMENTS TO OTHER INSTRUMENTS MADE UNDER THE FINANCIAL SERVICES AND MARKETS ACT 2000
 
-### 23. Amendment to the Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^key-585acff750e89955810e6562d7f885ea]
+### 23. Amendment to the Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^c-585acff750e89955810e6562d7f885ea]
 
 (1) The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^f00006] are amended as follows.
 
@@ -387,7 +387,7 @@ In article 72 of the Regulated Activities Order (overseas persons), after paragr
 
 .
 
-### 24. Amendment to the Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001[^key-506e983b944cfc19ca12320a287f60e4]
+### 24. Amendment to the Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001[^c-506e983b944cfc19ca12320a287f60e4]
 
 (1) The Financial Services and Markets Act 2000 (Professions) (Non-Exempt Activities) Order 2001[^f00007] is amended as follows.
 
@@ -406,7 +406,7 @@ In article 72 of the Regulated Activities Order (overseas persons), after paragr
 
 .
 
-### 25. Amendment to the Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001[^key-97f779256028ae2f650580fb1de8d11a]
+### 25. Amendment to the Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001[^c-97f779256028ae2f650580fb1de8d11a]
 
 In the Financial Services and Markets Act 2000 (Carrying on Regulated Activities by Way of Business) Order 2001[^f00009], after article 3 insert—
 
@@ -424,7 +424,7 @@ In the Financial Services and Markets Act 2000 (Carrying on Regulated Activities
 
 ## PART 5 — TRANSITIONAL PROVISIONS
 
-### 26. Interpretation[^key-117a63014bb10ef91ff6c4ba91125778]
+### 26. Interpretation[^c-117a63014bb10ef91ff6c4ba91125778]
 
 In this Part—
 
@@ -432,7 +432,7 @@ In this Part—
 - “commencement” means the beginning of 31st October 2004;
 - “mortgage mediation activity” means any regulated activity of the kind specified by article 25A or 53A of the Regulated Activities Order (arranging or advising on regulated mortgage contracts), or article 64 of that Order, so far as relevant to any such activity.
 
-### 27. Applications for Part IV permission[^key-76bbd63f5c6fe9367e872d62fc85d2e3]
+### 27. Applications for Part IV permission[^c-76bbd63f5c6fe9367e872d62fc85d2e3]
 
 (1) This article applies to any completed application for Part IV permission which is made before 30th April 2004 by a person who is not an authorised person, to the extent that the application relates to any mortgage mediation activity (“an early Part IV application”).
 
@@ -442,7 +442,7 @@ In this Part—
 
 (4) In any event, the Authority must determine all early Part IV applications before commencement.
 
-### 28. Applications for approval[^key-36c02d806d48888fa3d97322b64594c7]
+### 28. Applications for approval[^c-36c02d806d48888fa3d97322b64594c7]
 
 (1) This article applies to any application made before 31st July 2004 under section 59 of the Act (approval of the performance of controlled functions) by a person who is not an authorised person for the Authority’s approval of the performance by a person of any controlled function (within the meaning of section 59(3) of the Act), to the extent that that function relates to the carrying on of any mortgage mediation activity (“an early Part V application”).
 
@@ -452,7 +452,7 @@ In this Part—
 
 (4) In any event, the Authority must determine all early Part V applications before commencement.
 
-### 29. Modifications and waivers[^key-3038b7511cad9828de01116ba8e310da]
+### 29. Modifications and waivers[^c-3038b7511cad9828de01116ba8e310da]
 
 (1) Before commencement, section 148 of the Act (modification or waiver of rules) has effect as if the references to “authorised person” (except in subsection (9)) included a reference to a person who has Part IV permission to carry on any mortgage mediation activity, albeit that that permission is not in force.
 
@@ -500,76 +500,76 @@ Articles 27 to 29 make certain transitional provision. In particular, articles 2
 
 [^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-239e3a0404225157cfb6a6761256c6ec]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2003/1475/article/1) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-239e3a0404225157cfb6a6761256c6ec]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2003/1475/article/1) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-95af125aab32b0dfc884b42618b0cdca]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2003/1475/article/2) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-95af125aab32b0dfc884b42618b0cdca]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2003/1475/article/2) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
 [^f00002]: Footnote: S.I. [2001/544](https://www.legislation.gov.uk/uksi/2001/544), amended by S.I. [2001/3544](https://www.legislation.gov.uk/uksi/2001/3544), S.I. [2002/682](https://www.legislation.gov.uk/uksi/2002/682), S.I. [2002/1310](https://www.legislation.gov.uk/uksi/2002/1310), S.I. [2002/1776](https://www.legislation.gov.uk/uksi/2002/1776) and S.I. [2002/1777](https://www.legislation.gov.uk/uksi/2002/1777).
 
-[^key-28eb366cfab211bec93624e5ba3051f0]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2003/1475/article/3) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-28eb366cfab211bec93624e5ba3051f0]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2003/1475/article/3) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-8e702318d173e57d5aad712ff0ed9f93]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2003/1475/article/4) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-8e702318d173e57d5aad712ff0ed9f93]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2003/1475/article/4) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-b4bc0693ea67e8e8b84f2f7342d5396e]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2003/1475/article/5) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-b4bc0693ea67e8e8b84f2f7342d5396e]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2003/1475/article/5) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-6bdc1c4ccfa74332d1e84cc0b9af34aa]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2003/1475/article/6) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-6bdc1c4ccfa74332d1e84cc0b9af34aa]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2003/1475/article/6) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-310f346efca3c9321cce7e5b88824099]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2003/1475/article/7) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-310f346efca3c9321cce7e5b88824099]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2003/1475/article/7) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-b7052feb67f60f5bc64c940195e13b50]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2003/1475/article/8) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-b7052feb67f60f5bc64c940195e13b50]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2003/1475/article/8) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-879d6d4548813b2ded4f32b928f2953e]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2003/1475/article/9) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-879d6d4548813b2ded4f32b928f2953e]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2003/1475/article/9) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-65536f89ef67a1df5faa0b70aee141d4]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2003/1475/article/10) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-65536f89ef67a1df5faa0b70aee141d4]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2003/1475/article/10) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-f38ddbf5db3568b3eb4ba762dd82e906]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2003/1475/article/11) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-f38ddbf5db3568b3eb4ba762dd82e906]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2003/1475/article/11) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-7b9b7b356119387f343eb6357c038fe8]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2003/1475/article/12) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-7b9b7b356119387f343eb6357c038fe8]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2003/1475/article/12) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-b24c223c46bbb2f9aa824e2aea12955f]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2003/1475/article/13) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-b24c223c46bbb2f9aa824e2aea12955f]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2003/1475/article/13) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-b257dd4ce0abe757a6a1ae8ee7fc82dc]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2003/1475/article/14) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-b257dd4ce0abe757a6a1ae8ee7fc82dc]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2003/1475/article/14) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-0d037de6a7f1044d9f8179333e760fc4]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2003/1475/article/15) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-0d037de6a7f1044d9f8179333e760fc4]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2003/1475/article/15) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-c8aa1a605836150fb7440597b1f13184]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2003/1475/article/16) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-c8aa1a605836150fb7440597b1f13184]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2003/1475/article/16) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-92380c0d25575812cc6befd9cf9ff4b6]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2003/1475/article/17) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-92380c0d25575812cc6befd9cf9ff4b6]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2003/1475/article/17) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-0669212e555e0d9c2b8c958a6c59a3b9]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2003/1475/article/18) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-0669212e555e0d9c2b8c958a6c59a3b9]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2003/1475/article/18) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-f1031c3721385107569364eb8aa08331]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2003/1475/article/19) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-f1031c3721385107569364eb8aa08331]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2003/1475/article/19) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-86e5e9c4daaf5fda4051e7a72824248f]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2003/1475/article/20) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-86e5e9c4daaf5fda4051e7a72824248f]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2003/1475/article/20) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
-[^key-bb9045cf88df1b039851eb3c6a7f045c]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2003/1475/article/21) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-bb9045cf88df1b039851eb3c6a7f045c]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2003/1475/article/21) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
 [^f00003]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39); amended by the Contracts (Applicable Law) Act [1990 (c. 36)](https://www.legislation.gov.uk/ukpga/1990/36), Schedule 4.
 
 [^f00004]: Footnote: Amended by the Arbitration Act [1996 (c. 23)](https://www.legislation.gov.uk/ukpga/1996/23), Schedule 3.
 
-[^key-daf74ddf6a6d982f41df5d81fac752a8]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2003/1475/article/22) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-daf74ddf6a6d982f41df5d81fac752a8]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2003/1475/article/22) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
 [^f00005]: Footnote: Amended by S.I. [1998/997](https://www.legislation.gov.uk/uksi/1998/997).
 
-[^key-585acff750e89955810e6562d7f885ea]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2003/1475/article/23) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-585acff750e89955810e6562d7f885ea]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2003/1475/article/23) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
 [^f00006]: Footnote: S.I. [2001/1217](https://www.legislation.gov.uk/uksi/2001/1217), as amended by S.I. [2001/2508](https://www.legislation.gov.uk/uksi/2001/2508).
 
-[^key-506e983b944cfc19ca12320a287f60e4]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2003/1475/article/24) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-506e983b944cfc19ca12320a287f60e4]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2003/1475/article/24) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
 [^f00007]: Footnote: S.I. [2001/1227](https://www.legislation.gov.uk/uksi/2001/1227), as amended by S.I. [2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), S.I. [2002/682](https://www.legislation.gov.uk/uksi/2002/682) and S.I. [2002/1777](https://www.legislation.gov.uk/uksi/2002/1777).
 
 [^f00008]: Footnote: Article 6A was inserted by S.I. [2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), article 3.
 
-[^key-97f779256028ae2f650580fb1de8d11a]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2003/1475/article/25) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
+[^c-97f779256028ae2f650580fb1de8d11a]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2003/1475/article/25) in force at 31.10.2004, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/3)
 
 [^f00009]: Footnote: S.I. [2001/1177](https://www.legislation.gov.uk/uksi/2001/1177).
 
-[^key-117a63014bb10ef91ff6c4ba91125778]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2003/1475/article/26) in force at 1.1.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/2)
+[^c-117a63014bb10ef91ff6c4ba91125778]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2003/1475/article/26) in force at 1.1.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/2)
 
-[^key-76bbd63f5c6fe9367e872d62fc85d2e3]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2003/1475/article/27) in force at 1.1.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/2)
+[^c-76bbd63f5c6fe9367e872d62fc85d2e3]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2003/1475/article/27) in force at 1.1.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/2)
 
-[^key-36c02d806d48888fa3d97322b64594c7]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2003/1475/article/28) in force at 1.1.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/2)
+[^c-36c02d806d48888fa3d97322b64594c7]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2003/1475/article/28) in force at 1.1.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/2)
 
-[^key-3038b7511cad9828de01116ba8e310da]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2003/1475/article/29) in force at 1.1.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/2)
+[^c-3038b7511cad9828de01116ba8e310da]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2003/1475/article/29) in force at 1.1.2004, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1475/article/1/2)

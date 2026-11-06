@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Principles of awarding contracts[^key-a409984016c81461eb5b6d0a484be2cf]
+## 90. Principles of awarding contracts[^c-a409984016c81461eb5b6d0a484be2cf]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) Where the utility is a contracting authority, the procedure must provide for the exclusion from participation in the procurement of any economic operator in relation to which exclusion grounds referred to in regulation 58(1) to (3) of the Public Contracts (Scotland) Regulations apply on the terms set out in that regulation.
 
-(5) Where, in accordance with regulation 89 (publication of notices), a contract notice [^key-db6b4aaa63aab530dbd4302b139bf676]... has been published in relation to a procurement, the utility must, except in the circumstances mentioned in paragraph (6), conduct that procurement, and award any resulting contract or framework, in conformity with the information contained in the notice about—
+(5) Where, in accordance with regulation 89 (publication of notices), a contract notice [^c-db6b4aaa63aab530dbd4302b139bf676]... has been published in relation to a procurement, the utility must, except in the circumstances mentioned in paragraph (6), conduct that procurement, and award any resulting contract or framework, in conformity with the information contained in the notice about—
 
 - (a) conditions for participation;
 - (b) time limits for contacting the utility; and
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a409984016c81461eb5b6d0a484be2cf]: Commencement: [Reg. 90](https://www.legislation.gov.uk/ssi/2016/49/regulation/90) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-a409984016c81461eb5b6d0a484be2cf]: Commencement: [Reg. 90](https://www.legislation.gov.uk/ssi/2016/49/regulation/90) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-db6b4aaa63aab530dbd4302b139bf676]: Textual amendment: Words in [reg. 90(5)](https://www.legislation.gov.uk/ssi/2016/49/regulation/90/5) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(23)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/23) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-db6b4aaa63aab530dbd4302b139bf676]: Textual amendment: Words in [reg. 90(5)](https://www.legislation.gov.uk/ssi/2016/49/regulation/90/5) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(23)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/23) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))

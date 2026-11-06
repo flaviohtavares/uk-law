@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Amendment of regulation G2[^key-e3a40afb2934bb0c3cf78294bff65cc7]
+## 20. Amendment of regulation G2[^c-e3a40afb2934bb0c3cf78294bff65cc7]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3a40afb2934bb0c3cf78294bff65cc7]: Commencement: Reg. 20 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-e3a40afb2934bb0c3cf78294bff65cc7]: Commencement: Reg. 20 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Information disclosed by the Welsh Revenue Authority[^key-54717094c6c4195029b9cdd9c961d744][^key-e5c5a08bdff2b845b8a2a7379e753137]
+## 68. Information disclosed by the Welsh Revenue Authority[^c-54717094c6c4195029b9cdd9c961d744][^c-e5c5a08bdff2b845b8a2a7379e753137]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,19 +62,19 @@ summary: ''
 
 (10) A person who is guilty of an offence under subsection (8) is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-35a35ff3576a8d9ca503f28eb7839ac2], to a fine, or to both;
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-35a35ff3576a8d9ca503f28eb7839ac2], to a fine, or to both;
 - (b) on conviction on indictment to imprisonment for a term not exceeding two years, to a fine or to both.
 
-(11) In the application of subsection (10)(a) to an offence committed before 2 May 2022[^key-856789638b8a6fcf07844a3f07f006c9] the reference to the general limit in a magistrates’ court[^key-f0002ebac3651bcfe856a9af0eaff546] is to be read as a reference to 6 months.
+(11) In the application of subsection (10)(a) to an offence committed before 2 May 2022[^c-856789638b8a6fcf07844a3f07f006c9] the reference to the general limit in a magistrates’ court[^c-f0002ebac3651bcfe856a9af0eaff546] is to be read as a reference to 6 months.
 
 ## Annotations
 
-[^key-54717094c6c4195029b9cdd9c961d744]: Commencement: S. 68 in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
+[^c-54717094c6c4195029b9cdd9c961d744]: Commencement: S. 68 in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
 
-[^key-e5c5a08bdff2b845b8a2a7379e753137]: Commencement: S. 68 in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(ee)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/ee)
+[^c-e5c5a08bdff2b845b8a2a7379e753137]: Commencement: S. 68 in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(ee)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/ee)
 
-[^key-35a35ff3576a8d9ca503f28eb7839ac2]: Textual amendment: Words in [s. 68(10)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/68/10/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-35a35ff3576a8d9ca503f28eb7839ac2]: Textual amendment: Words in [s. 68(10)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/68/10/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-856789638b8a6fcf07844a3f07f006c9]: Textual amendment: Words in [s. 68(11)](https://www.legislation.gov.uk/ukpga/2017/30/section/68/11) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-856789638b8a6fcf07844a3f07f006c9]: Textual amendment: Words in [s. 68(11)](https://www.legislation.gov.uk/ukpga/2017/30/section/68/11) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-f0002ebac3651bcfe856a9af0eaff546]: Textual amendment: Words in [s. 68(11)](https://www.legislation.gov.uk/ukpga/2017/30/section/68/11) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-f0002ebac3651bcfe856a9af0eaff546]: Textual amendment: Words in [s. 68(11)](https://www.legislation.gov.uk/ukpga/2017/30/section/68/11) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

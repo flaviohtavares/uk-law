@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68.[^key-cb398107cc5a59c4868a0d2518fe89ff]
+## 68.[^c-cb398107cc5a59c4868a0d2518fe89ff]
 
 *Extent: E+W+S+N.I.*
 
 In regulation 4 (general requirements of auditors)—
 
-- (a) in paragraph (2)(b), after “European Commission” insert “ , before IP completion day[^key-c969c1b2ac79479688208f5360526310],”;
+- (a) in paragraph (2)(b), after “European Commission” insert “ , before IP completion day[^c-c969c1b2ac79479688208f5360526310],”;
 - (b) after paragraph (2)(b), insert—
 
   > - (ba) any UK-adopted international standards adopted and imposed by the competent authority in accordance with paragraph (3)(za);
@@ -50,6 +50,6 @@ In regulation 4 (general requirements of auditors)—
 
 ## Annotations
 
-[^key-cb398107cc5a59c4868a0d2518fe89ff]: Commencement: Reg. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-cb398107cc5a59c4868a0d2518fe89ff]: Commencement: Reg. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
-[^key-c969c1b2ac79479688208f5360526310]: Textual amendment: Words in reg. 68(a) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [15(d)](https://www.legislation.gov.uk/uksi/2020/523/regulation/15/d)
+[^c-c969c1b2ac79479688208f5360526310]: Textual amendment: Words in reg. 68(a) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [15(d)](https://www.legislation.gov.uk/uksi/2020/523/regulation/15/d)

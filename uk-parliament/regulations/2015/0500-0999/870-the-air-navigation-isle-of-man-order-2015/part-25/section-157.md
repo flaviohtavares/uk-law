@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Appeal to High Court[^key-675b47d05792ec7f08d5f3147750f9f6]
+## 157. Appeal to High Court[^c-675b47d05792ec7f08d5f3147750f9f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-675b47d05792ec7f08d5f3147750f9f6]: Commencement: [Art. 157](https://www.legislation.gov.uk/uksi/2015/870/article/157) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-675b47d05792ec7f08d5f3147750f9f6]: Commencement: [Art. 157](https://www.legislation.gov.uk/uksi/2015/870/article/157) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

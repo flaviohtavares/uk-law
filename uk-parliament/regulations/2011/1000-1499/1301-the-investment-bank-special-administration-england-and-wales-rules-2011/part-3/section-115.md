@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Remote attendance at meetings of creditors’ committee[^key-4e35da5178acce432a7e9b11417a743e]
+## 115. Remote attendance at meetings of creditors’ committee[^c-4e35da5178acce432a7e9b11417a743e]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ the administrator must specify a place for the meeting.
 
 ## Annotations
 
-[^key-4e35da5178acce432a7e9b11417a743e]: Commencement: [Rule 115](https://www.legislation.gov.uk/uksi/2011/1301/rule/115) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-4e35da5178acce432a7e9b11417a743e]: Commencement: [Rule 115](https://www.legislation.gov.uk/uksi/2011/1301/rule/115) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

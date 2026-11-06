@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96A. Advisory panel[^key-75ba0e75921424999cd9ef6f9dfc47f6]
+## 96A. Advisory panel[^c-75ba0e75921424999cd9ef6f9dfc47f6]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75ba0e75921424999cd9ef6f9dfc47f6]: Textual amendment: [S. 96A](https://www.legislation.gov.uk/ukpga/2008/17/section/96A) inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 2](https://www.legislation.gov.uk/ukpga/2023/36/section/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/b)
+[^c-75ba0e75921424999cd9ef6f9dfc47f6]: Textual amendment: [S. 96A](https://www.legislation.gov.uk/ukpga/2008/17/section/96A) inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 2](https://www.legislation.gov.uk/ukpga/2023/36/section/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/b)

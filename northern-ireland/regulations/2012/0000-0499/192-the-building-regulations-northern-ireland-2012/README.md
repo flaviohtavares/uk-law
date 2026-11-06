@@ -40,7 +40,7 @@ Coming into operation
 
 31st October 2012
 
-The Department of Finance and Personnel, in exercise of the powers conferred by Articles 3, 5(1), (2) and (3), 5A(1), 8, 9, 12, 15, 16(1) and (2), 17(1), (2), (2A) and (5), 18(5), 18B, 18C(1) and 19 of, and paragraphs 1 to 7, 9 to 13 and 17 to 22 of Schedule 1 to, the Building Regulations (Northern Ireland) Order 1979 [^c21256481], and now vested in it [^c21256491], and after consultation with the Building Regulations Advisory Committee and such other bodies as appear to be representative of the interests concerned [^c21256501] makes the following Regulations:[^key-113e786643f24df48a03c483536b6013]
+The Department of Finance and Personnel, in exercise of the powers conferred by Articles 3, 5(1), (2) and (3), 5A(1), 8, 9, 12, 15, 16(1) and (2), 17(1), (2), (2A) and (5), 18(5), 18B, 18C(1) and 19 of, and paragraphs 1 to 7, 9 to 13 and 17 to 22 of Schedule 1 to, the Building Regulations (Northern Ireland) Order 1979 [^c21256481], and now vested in it [^c21256491], and after consultation with the Building Regulations Advisory Committee and such other bodies as appear to be representative of the interests concerned [^c21256501] makes the following Regulations:[^c-113e786643f24df48a03c483536b6013]
 
 ## Contents
 
@@ -160,7 +160,7 @@ The Department of Finance and Personnel, in exercise of the powers conferred by 
 - [Section 76 — Protection against pollution](part-l/section-76.md)
 - [Section 77 — Prevention of smoke emission](part-l/section-77.md)
 
-### PART M — Physical infrastructure for high-speed electronic communications networks[^key-8f5bdd06cd40adc137f4c0885116f9d3]
+### PART M — Physical infrastructure for high-speed electronic communications networks[^c-8f5bdd06cd40adc137f4c0885116f9d3]
 
 - [Section 77A — Application and interpretation](part-m/section-77a.md)
 - [Section 77B — In-building physical infrastructure](part-m/section-77b.md)
@@ -300,6 +300,6 @@ is guilty of an offence under that Order and is liable on summary conviction to 
 
 [^c21256501]: Marginal citation: [S.I. 1979/1709 (N.I. 16)](https://www.legislation.gov.uk/nisi/1979/1709) Article 5(4)
 
-[^key-113e786643f24df48a03c483536b6013]: Modification: Regulations applied (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2014/44/regulation/3/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
+[^c-113e786643f24df48a03c483536b6013]: Modification: Regulations applied (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2014/44/regulation/3/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
 
-[^key-8f5bdd06cd40adc137f4c0885116f9d3]: Textual amendment: [Pt. M](https://www.legislation.gov.uk/nisr/2012/192/part/M) inserted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [reg. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/412/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
+[^c-8f5bdd06cd40adc137f4c0885116f9d3]: Textual amendment: [Pt. M](https://www.legislation.gov.uk/nisr/2012/192/part/M) inserted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [reg. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/412/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Regulation [(EC) No 218/2009](https://www.legislation.gov.uk/european/regulation/2009/0218) of the European Parliament and of the Council on the submission of nominal catch statistics by Member States fishing in the north-east Atlantic[^key-581cf09620338c73158a2819364c5318]
+## 18. Regulation [(EC) No 218/2009](https://www.legislation.gov.uk/european/regulation/2009/0218) of the European Parliament and of the Council on the submission of nominal catch statistics by Member States fishing in the north-east Atlantic[^c-581cf09620338c73158a2819364c5318]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-581cf09620338c73158a2819364c5318]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-581cf09620338c73158a2819364c5318]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

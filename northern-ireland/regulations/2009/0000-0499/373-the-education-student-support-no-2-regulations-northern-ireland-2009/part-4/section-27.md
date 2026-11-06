@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Old system students who are transferring students[^key-9f6c4a0f08c27cfaaa5e436e162c9d9e]
+## 27. Old system students who are transferring students[^c-9f6c4a0f08c27cfaaa5e436e162c9d9e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f6c4a0f08c27cfaaa5e436e162c9d9e]: Textual amendment: [Regs. 26-34](https://www.legislation.gov.uk/nisr/2009/373/regulation/26) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [6(b)](https://www.legislation.gov.uk/nisr/2022/75/regulation/6/b)
+[^c-9f6c4a0f08c27cfaaa5e436e162c9d9e]: Textual amendment: [Regs. 26-34](https://www.legislation.gov.uk/nisr/2009/373/regulation/26) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [6(b)](https://www.legislation.gov.uk/nisr/2022/75/regulation/6/b)

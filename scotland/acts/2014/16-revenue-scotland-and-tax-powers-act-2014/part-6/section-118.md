@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Contract settlements[^key-65c606da2ea99e026d2cec2256fda28e]
+## 118. Contract settlements[^c-65c606da2ea99e026d2cec2256fda28e]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65c606da2ea99e026d2cec2256fda28e]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2014/16/section/118) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-65c606da2ea99e026d2cec2256fda28e]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2014/16/section/118) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

@@ -31,9 +31,9 @@ summary: ''
 
 (2)[^c19668961] Regulations shall not be made under Article 18(2) or 29A or paragraph 8 of Schedule 5 or paragraph 12 of Part 1 of Schedule 12[^c21346501] unless a draft of the regulations has been laid before, and approved by a resolution of, the Assembly.
 
-(2A) Regulations made under—[^key-198cf6b8e5b715cc31df28c19d2e21dc]
+(2A) Regulations made under—[^c-198cf6b8e5b715cc31df28c19d2e21dc]
 
-- (a) Article 23A , except those made under paragraph (a) of the definition of “hereditament in the social sector” in paragraph (3) of that Article[^c21346461] ;[^key-d585f030d8ccf9728a22cbe31aa3c51d]
+- (a) Article 23A , except those made under paragraph (a) of the definition of “hereditament in the social sector” in paragraph (3) of that Article[^c21346461] ;[^c-d585f030d8ccf9728a22cbe31aa3c51d]
 - (b) Article 31(5A); or
 - (c) paragraph (1)(b),
 
@@ -57,10 +57,10 @@ shall be subject to affirmative resolution.
 
 [^c21346501]: Textual amendment: Words in art. 61(2) inserted (10.2.2011) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [ss. 7(2)](https://www.legislation.gov.uk/nia/2009/8/section/7/2), [19](https://www.legislation.gov.uk/nia/2009/8/section/19); [S.R. 2011/16](https://www.legislation.gov.uk/nisr/2011/16), [art. 2(1)](https://www.legislation.gov.uk/nisr/2011/16/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2011/16/schedule/1)
 
-[^key-198cf6b8e5b715cc31df28c19d2e21dc]: Textual amendment: Words in art. 61(2A) substituted (19.9.2016 for specified purposes, 26.10.2016 in so far as not already in operation) by [Rates (Amendment) Act (Northern Ireland) 2016 (c. 6)](https://www.legislation.gov.uk/nia/2016/6), [ss. 1(3)(a)](https://www.legislation.gov.uk/nia/2016/6/section/1/3/a), [6(1)](https://www.legislation.gov.uk/nia/2016/6/section/6/1); [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/331/article/2/a); [S.R. 2016/388](https://www.legislation.gov.uk/nisr/2016/388), [art. 2](https://www.legislation.gov.uk/nisr/2016/388/article/2)
+[^c-198cf6b8e5b715cc31df28c19d2e21dc]: Textual amendment: Words in art. 61(2A) substituted (19.9.2016 for specified purposes, 26.10.2016 in so far as not already in operation) by [Rates (Amendment) Act (Northern Ireland) 2016 (c. 6)](https://www.legislation.gov.uk/nia/2016/6), [ss. 1(3)(a)](https://www.legislation.gov.uk/nia/2016/6/section/1/3/a), [6(1)](https://www.legislation.gov.uk/nia/2016/6/section/6/1); [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/331/article/2/a); [S.R. 2016/388](https://www.legislation.gov.uk/nisr/2016/388), [art. 2](https://www.legislation.gov.uk/nisr/2016/388/article/2)
 
 [^c21346461]: Textual amendment: Words in art. 61(2A) substituted (3.11.2009) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [ss. 13(2)](https://www.legislation.gov.uk/nia/2009/8/section/13/2), [19](https://www.legislation.gov.uk/nia/2009/8/section/19)
 
-[^key-d585f030d8ccf9728a22cbe31aa3c51d]: Textual amendment: Words in art. 61(2A) substituted (19.9.2016 for specified purposes, 26.10.2016 in so far as not already in operation) by [Rates (Amendment) Act (Northern Ireland) 2016 (c. 6)](https://www.legislation.gov.uk/nia/2016/6), [ss. 1(3)(b)](https://www.legislation.gov.uk/nia/2016/6/section/1/3/b), [6(1)](https://www.legislation.gov.uk/nia/2016/6/section/6/1); [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/331/article/2/a); [S.R. 2016/388](https://www.legislation.gov.uk/nisr/2016/388), [art. 2](https://www.legislation.gov.uk/nisr/2016/388/article/2)
+[^c-d585f030d8ccf9728a22cbe31aa3c51d]: Textual amendment: Words in art. 61(2A) substituted (19.9.2016 for specified purposes, 26.10.2016 in so far as not already in operation) by [Rates (Amendment) Act (Northern Ireland) 2016 (c. 6)](https://www.legislation.gov.uk/nia/2016/6), [ss. 1(3)(b)](https://www.legislation.gov.uk/nia/2016/6/section/1/3/b), [6(1)](https://www.legislation.gov.uk/nia/2016/6/section/6/1); [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/331/article/2/a); [S.R. 2016/388](https://www.legislation.gov.uk/nisr/2016/388), [art. 2](https://www.legislation.gov.uk/nisr/2016/388/article/2)
 
 [^c21346481]: Textual amendment: Word in art. 61(2B) inserted (3.11.2009) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [ss. 13(3)](https://www.legislation.gov.uk/nia/2009/8/section/13/3), [19](https://www.legislation.gov.uk/nia/2009/8/section/19)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Costs[^key-871e200ccc8ae3ece50558a761c3993d]
+## 133. Costs[^c-871e200ccc8ae3ece50558a761c3993d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-871e200ccc8ae3ece50558a761c3993d]: Commencement: Art. 133 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-871e200ccc8ae3ece50558a761c3993d]: Commencement: Art. 133 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

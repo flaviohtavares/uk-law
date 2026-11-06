@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Rent review: 1991 Act tenancies[^key-8310468cc492274ef3cf45b60a55ba1c]
+## 35. Rent review: 1991 Act tenancies[^c-8310468cc492274ef3cf45b60a55ba1c]
 
 *Extent: S*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8310468cc492274ef3cf45b60a55ba1c]: Commencement: S. 35 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-8310468cc492274ef3cf45b60a55ba1c]: Commencement: S. 35 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

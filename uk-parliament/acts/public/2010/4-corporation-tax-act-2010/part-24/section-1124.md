@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1124. “Control”[^key-d947bab14ba800969a3de66bed1ad918][^key-1f2e43a832f85c3e781fecfd5bc85f0f][^key-4eb65132b81557c7f4a2f94518827b4a]
+## 1124. “Control”[^c-d947bab14ba800969a3de66bed1ad918][^c-1f2e43a832f85c3e781fecfd5bc85f0f][^c-4eb65132b81557c7f4a2f94518827b4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,8 +33,8 @@ that the affairs of company A are conducted in accordance with P's wishes.
 
 ## Annotations
 
-[^key-d947bab14ba800969a3de66bed1ad918]: Modification: S. 1124 applied (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31), [33(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/33/4)
+[^c-d947bab14ba800969a3de66bed1ad918]: Modification: S. 1124 applied (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31), [33(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/33/4)
 
-[^key-1f2e43a832f85c3e781fecfd5bc85f0f]: Modification: S. 1124 applied (with modifications) (E.W.) (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 10 para. 6(4)](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/6/4); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-1f2e43a832f85c3e781fecfd5bc85f0f]: Modification: S. 1124 applied (with modifications) (E.W.) (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 10 para. 6(4)](https://www.legislation.gov.uk/anaw/2017/1/schedule/10/paragraph/6/4); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-4eb65132b81557c7f4a2f94518827b4a]: Modification: [S. 1124](https://www.legislation.gov.uk/ukpga/2010/4/section/1124) applied (with effect in accordance with Sch. 7 para. 4 of the amending Act) by 1992 c. 12, s. 151KA(7) (as inserted by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 3(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/3/4), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4))
+[^c-4eb65132b81557c7f4a2f94518827b4a]: Modification: [S. 1124](https://www.legislation.gov.uk/ukpga/2010/4/section/1124) applied (with effect in accordance with Sch. 7 para. 4 of the amending Act) by 1992 c. 12, s. 151KA(7) (as inserted by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 3(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/3/4), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. General powers[^key-166b57d8fc7c34af978ce55b6a8a4e76][^key-38e15ebe2257c9ab73a5e34db9aa5655]
+## 51. General powers[^c-166b57d8fc7c34af978ce55b6a8a4e76][^c-38e15ebe2257c9ab73a5e34db9aa5655]
 
 *Extent: S*
 
@@ -27,6 +27,6 @@ The Chief Inspector may do anything which appears to the Chief Inspector—
 
 ## Annotations
 
-[^key-166b57d8fc7c34af978ce55b6a8a4e76]: Commencement: S. 51 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-166b57d8fc7c34af978ce55b6a8a4e76]: Commencement: S. 51 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-38e15ebe2257c9ab73a5e34db9aa5655]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2025/11/section/51) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-38e15ebe2257c9ab73a5e34db9aa5655]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2025/11/section/51) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

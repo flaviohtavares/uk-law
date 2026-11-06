@@ -63,22 +63,22 @@ Whereas Member States requiring vehicles from other Member States to display the
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** This Regulation shall apply to vehicles registered in the Member States that are driven within the United Kingdom[^key-23bb1eade8523352ccc06144653a2d71].
+**Article 1.** This Regulation shall apply to vehicles registered in the Member States that are driven within the United Kingdom[^c-23bb1eade8523352ccc06144653a2d71].
 
 **Article 2.** For the purposes of this Regulation:
 
 - 1.. ‘distinguishing sign of the Member State of registration’ shall mean a set composed of one to three letters in Latin capitals indicating the Member State in which the vehicle is registered;
-- 2.. “[^key-3e33da97ba6f858ef07c4e2e683a6a1a]**vehicle**” means any power-driven vehicle, including its trailer if any, which is normally used for:
+- 2.. “[^c-3e33da97ba6f858ef07c4e2e683a6a1a]**vehicle**” means any power-driven vehicle, including its trailer if any, which is normally used for:
   - — carrying persons or goods by road, or
   - — for drawing on the road vehicles used for the carriage of persons or goods,
 
 but does not include vehicles, such as agricultural or forestry tractors, which are only incidentally used for such purposes, vehicles which run on rails or mobile machinery.
 
-**Article 3.**[^key-e889ccaae1aa7e168bec1d5caa342258] The United Kingdom shall recognise the distinguishing sign of the Member State of registration displayed on the extreme left of the registration plate of a vehicle in accordance with the Annex to this Regulation as being equivalent to any other distinguishing sign that it recognises for the purpose of identifying the State in which the vehicle is registered.
+**Article 3.**[^c-e889ccaae1aa7e168bec1d5caa342258] The United Kingdom shall recognise the distinguishing sign of the Member State of registration displayed on the extreme left of the registration plate of a vehicle in accordance with the Annex to this Regulation as being equivalent to any other distinguishing sign that it recognises for the purpose of identifying the State in which the vehicle is registered.
 
-**Article 4.**[^key-fdfb8bb68a9fa8c019e0aedefeefd4b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-fdfb8bb68a9fa8c019e0aedefeefd4b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da7d1e991c7d94d42e5a20163bb08d1d]...
+[^c-da7d1e991c7d94d42e5a20163bb08d1d]...
 
 Done at Brussels, 3 November 1998.
 
@@ -102,12 +102,12 @@ B. Prammer
 
 [^f00004]: Footnote: Vienna Convention of 8 November 1968, concluded under the auspices of the United Nations Economic Commission for Europe.
 
-[^key-23bb1eade8523352ccc06144653a2d71]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/1998/2411/article/1) substituted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23bb1eade8523352ccc06144653a2d71]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/1998/2411/article/1) substituted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3e33da97ba6f858ef07c4e2e683a6a1a]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/eur/1998/2411/article/2/2) substituted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e33da97ba6f858ef07c4e2e683a6a1a]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/eur/1998/2411/article/2/2) substituted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e889ccaae1aa7e168bec1d5caa342258]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/1998/2411/article/3) substituted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e889ccaae1aa7e168bec1d5caa342258]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/1998/2411/article/3) substituted (31.12.2020) by [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fdfb8bb68a9fa8c019e0aedefeefd4b7]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/1998/2411/article/4) omitted (31.12.2020) by virtue of [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fdfb8bb68a9fa8c019e0aedefeefd4b7]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/1998/2411/article/4) omitted (31.12.2020) by virtue of [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-da7d1e991c7d94d42e5a20163bb08d1d]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/1998/2411/signature) omitted (31.12.2020) by virtue of [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da7d1e991c7d94d42e5a20163bb08d1d]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/1998/2411/signature) omitted (31.12.2020) by virtue of [The Road Vehicles (Registration, Registration Plates and Excise Exemption) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1295)](https://www.legislation.gov.uk/uksi/2018/1295), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2018/1295/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

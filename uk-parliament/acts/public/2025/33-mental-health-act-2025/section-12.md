@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Appointment of doctors to provide second opinions[^key-2e1fe698010c06e1ba7fa9ce798e821c]
+## 12. Appointment of doctors to provide second opinions[^c-2e1fe698010c06e1ba7fa9ce798e821c]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e1fe698010c06e1ba7fa9ce798e821c]: Commencement: S. 12 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-2e1fe698010c06e1ba7fa9ce798e821c]: Commencement: S. 12 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

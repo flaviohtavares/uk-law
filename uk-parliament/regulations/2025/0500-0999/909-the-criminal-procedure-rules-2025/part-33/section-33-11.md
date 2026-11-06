@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.11. Confiscation proceedings[^key-b5a0d40da515bf25f88625cab742a347]
+## 33.11. Confiscation proceedings[^c-b5a0d40da515bf25f88625cab742a347]
 
 *Extent: E+W*
 
@@ -128,7 +128,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b5a0d40da515bf25f88625cab742a347]: Commencement: [Rule 33.11](https://www.legislation.gov.uk/uksi/2025/909/rule/33.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b5a0d40da515bf25f88625cab742a347]: Commencement: [Rule 33.11](https://www.legislation.gov.uk/uksi/2025/909/rule/33.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00791]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 18 was amended by section 94 of, and paragraph 7 of Schedule 8 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27) and section 2 of the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9).
 

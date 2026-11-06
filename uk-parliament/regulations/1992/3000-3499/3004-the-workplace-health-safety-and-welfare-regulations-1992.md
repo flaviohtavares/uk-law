@@ -50,7 +50,7 @@ Regulations 5 to 27 and the Schedules, to the extent specified in regulation 1(3
 
 The Secretary of State, in exercise of the powers conferred on her by sections 15(1), (2), (3)(a) and (5)(b), and 82(3)(a) of, and paragraphs 1(2), 9 and 10 of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling her in that behalf and for the purpose of giving effect without modifications to proposals submitted to her by the Health and Safety Commission under section 11(2)(d) of the 1974 Act after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-fe5f9af22520d9f985485bb8ccb8228d]
+## 1. Citation and commencement[^c-fe5f9af22520d9f985485bb8ccb8228d]
 
 (1) These Regulations may be cited as the Workplace (Health, Safety and Welfare) Regulations 1992.
 
@@ -61,20 +61,20 @@ The Secretary of State, in exercise of the powers conferred on her by sections 1
 - (a) a new workplace; or
 - (b) a modification, an extension or a conversion.
 
-## 2. Interpretation[^key-7c51aada32c015e9cb81b9795fec67ae]
+## 2. Interpretation[^c-7c51aada32c015e9cb81b9795fec67ae]
 
 (1) In these Regulations, unless the context otherwise requires—
 
-- “mine” means a mine within the meaning of the Mines and Quarries Act 1954;[^key-079b764d72bb41bc663e59980dea981f]
-- “disabled person” has the meaning given by section 1 of the Disability Discrimination Act 1995;[^key-d91cdfc600fdc9746c2c8f09fb8ea4df]
+- “mine” means a mine within the meaning of the Mines and Quarries Act 1954;[^c-079b764d72bb41bc663e59980dea981f]
+- “disabled person” has the meaning given by section 1 of the Disability Discrimination Act 1995;[^c-d91cdfc600fdc9746c2c8f09fb8ea4df]
 - “new workplace” means a workplace used for the first time as a workplace after31st December 1992;
 - “public road” means (in England and Wales) a highway maintainable at public expense within the meaning of section 329 of the Highways Act 1980[^f00002] and (in Scotland) a public road within the meaning assigned to that term by section 151 of the Roads (Scotland) Act 1984[^f00003];
-- “quarry” means a quarry within the meaning of the Quarries Regulations 1999;[^key-5eeb308ffcc977daa303f97cc3858a51]
+- “quarry” means a quarry within the meaning of the Quarries Regulations 1999;[^c-5eeb308ffcc977daa303f97cc3858a51]
 - “traffic route” means a route for pedestrian traffic, vehicles or both and includes any stairs, staircase, fixed ladder, doorway, gateway, loading bay or ramp;
 - “workplace” means, subject to paragraph (2), any premises or part of premises which are not domestic premises and are made available to any person as a place of work, and includes—
   - (a) any place within the premises to which such person has access while at work; and
   - (b) any room, lobby, corridor, staircase, road or other place used as a means of access to or egress from that place of work or where facilities are provided for use in connection with the place of work other than a public road.
-- [^key-fa5374442840f4728fb7af2c3cd3b72c]...
+- [^c-fa5374442840f4728fb7af2c3cd3b72c]...
 
 (2) Any reference in these Regulations, except in paragraph (1), to a modification, an extension or a conversion is a reference, as the case may be, to a modification, an extension or a conversion of a workplace started after 31st December 1992.
 
@@ -85,7 +85,7 @@ The Secretary of State, in exercise of the powers conferred on her by sections 1
 - (a) a numbered regulation or Schedule is a reference to the regulation in or Schedule to these Regulations so numbered; and
 - (b) a numbered paragraph is a reference to the paragraph so numbered in the regulation in which the reference appears.
 
-## 3. Application of these Regulations[^key-9f0e89ce7574927b6fcd34b10c474819][^key-b342a87f4ad34497862f96a06e1c6d91]
+## 3. Application of these Regulations[^c-9f0e89ce7574927b6fcd34b10c474819][^c-b342a87f4ad34497862f96a06e1c6d91]
 
 (1) These Regulations apply to every workplace but shall not apply to—
 
@@ -96,7 +96,7 @@ The Secretary of State, in exercise of the powers conferred on her by sections 1
     - (bb) on board a ship during a trial run;
     - (cc) for the purpose of raising or removing a ship which is sunk or stranded; or
     - (dd) on a ship which is not under command, for the purpose of bringing it under command;
-- (b) a workplace which is a construction site within the meaning of the Construction (Design and Management) Regulations 2015[^key-6c244ea1a561f53e2305f03f7316026a], and in which the only activity being undertaken is construction work within the meaning of those Regulations, save that—
+- (b) a workplace which is a construction site within the meaning of the Construction (Design and Management) Regulations 2015[^c-6c244ea1a561f53e2305f03f7316026a], and in which the only activity being undertaken is construction work within the meaning of those Regulations, save that—
   - (i) regulations 18 and 25A apply to such a workplace; and
   - (ii) regulations 7(1A), 12, 14, 15, 16, 18, 19 and 26(1) apply to such a workplace which is indoors; or
 - (c) a workplace located below ground at a mine, except that regulation 20 applies to such a workplace subject to the modification in paragraph (7).
@@ -131,7 +131,7 @@ The Secretary of State, in exercise of the powers conferred on her by sections 1
 - (e) “shipyard” means any yard or dry dock (including the precincts thereof) in which ships or vessels are constructed, reconstructed, repaired, refitted or finished; and
 - (f) “vessel” means any description of craft used for the transport of goods or passengers or the storage of goods or the accommodation of passengers on water, whether used in navigation or not.
 
-## 4. Requirements under these Regulations[^key-3e118e58ce79c9f48161174400e687f0]
+## 4. Requirements under these Regulations[^c-3e118e58ce79c9f48161174400e687f0]
 
 (1) Every employer shall ensure that every workplace, modification, extension or conversion which is under his control and where any of his employees works complies with any requirement of these Regulations which—
 
@@ -150,11 +150,11 @@ The Secretary of State, in exercise of the powers conferred on her by sections 1
 
 (5) Every person who is deemed to be the occupier of a factory by virtue of section 175(5) of the Factories Act 1961 shall ensure that the premises which are so deemed to be a factory comply with these Regulations.
 
-## 4A. Stability and solidity[^key-0e96cf78e6f3209a0557bfab5c99db73]
+## 4A. Stability and solidity[^c-0e96cf78e6f3209a0557bfab5c99db73]
 
 Where a workplace is in a building, the building shall have a stability and solidity appropriate to the nature of the use of the workplace.
 
-## 5. Maintenance of workplace, and of equipment, devices and systems[^key-536b8b801dd4d1295d79e5868d1a2d58]
+## 5. Maintenance of workplace, and of equipment, devices and systems[^c-536b8b801dd4d1295d79e5868d1a2d58]
 
 (1) The workplace and the equipment, devices and systems to which this regulation applies shall be maintained (including cleaned as appropriate) in an efficient state, in efficient working order and in good repair.
 
@@ -162,23 +162,23 @@ Where a workplace is in a building, the building shall have a stability and soli
 
 (3) The equipment, devices and systems to which this regulation applies are—
 
-- (a) equipment and devices a fault in which is liable to result in a failure to comply with any of these Regulations; [^key-e799c63e127e3cca1f48d2684e89b6a9]...
-- (b) mechanical ventilation systems provided pursuant to regulation 6 (whether or not they include equipment or devices within sub-paragraph (a) of this paragraph); and[^key-497a1a82af91f31b58b30c995f818ba9]
-- (c)[^key-24169e3292503b3683d3c0f7d7a4ce82] equipment and devices intended to prevent or reduce hazards
+- (a) equipment and devices a fault in which is liable to result in a failure to comply with any of these Regulations; [^c-e799c63e127e3cca1f48d2684e89b6a9]...
+- (b) mechanical ventilation systems provided pursuant to regulation 6 (whether or not they include equipment or devices within sub-paragraph (a) of this paragraph); and[^c-497a1a82af91f31b58b30c995f818ba9]
+- (c)[^c-24169e3292503b3683d3c0f7d7a4ce82] equipment and devices intended to prevent or reduce hazards
 
-## 6. Ventilation[^key-f1c300c5dd54f40110d8b57225e6b1e1]
+## 6. Ventilation[^c-f1c300c5dd54f40110d8b57225e6b1e1]
 
 (1) Effective and suitable provision shall be made to ensure that every enclosed workplace is ventilated by a sufficient quantity of fresh or purified air.
 
 (2) Any plant used for the purpose of complying with paragraph (1) shall include an effective device to give visible or audible warning of any failure of the plant where necessary for reasons of health or safety.
 
-(3)[^key-57ac0a3216590f81c6b8691feaad3301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-57ac0a3216590f81c6b8691feaad3301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Temperature in indoor workplaces[^key-01f76eb147bab05ac4ffaf5a7bdfb70d]
+## 7. Temperature in indoor workplaces[^c-01f76eb147bab05ac4ffaf5a7bdfb70d]
 
 (1) During working hours, the temperature in all workplaces inside buildings shall be reasonable.
 
-(1A)[^key-2c3848f0d185fe4bbaa8ec831e221fff] Without prejudice to the generality of paragraph (1)—
+(1A)[^c-2c3848f0d185fe4bbaa8ec831e221fff] Without prejudice to the generality of paragraph (1)—
 
 - (a) a workplace shall be adequately thermally insulated where it is necessary, having regard to the type of work carried out and the physical activity of the persons carrying out the work; and
 - (b) excessive effects of sunlight on temperature shall be avoided.
@@ -187,7 +187,7 @@ Where a workplace is in a building, the building shall have a stability and soli
 
 (3) A sufficient number of thermometers shall be provided to enable persons at work to determine the temperature in any workplace inside a building.
 
-## 8. Lighting[^key-abec92000909e282f00364e4dd5a8200]
+## 8. Lighting[^c-abec92000909e282f00364e4dd5a8200]
 
 (1) Every workplace shall have suitable and sufficient lighting.
 
@@ -195,7 +195,7 @@ Where a workplace is in a building, the building shall have a stability and soli
 
 (3) Without prejudice to the generality of paragraph (1), suitable and sufficient emergency lighting shall be provided in any room in circumstances in which persons at work are specially exposed to danger in the event of failure of artificial lighting.
 
-## 9. Cleanliness and waste materials[^key-041d3e8b25f900e61f8e9a9f56453d2b]
+## 9. Cleanliness and waste materials[^c-041d3e8b25f900e61f8e9a9f56453d2b]
 
 (1) Every workplace and the furniture, furnishings and fittings therein shall be kept sufficiently clean.
 
@@ -203,13 +203,13 @@ Where a workplace is in a building, the building shall have a stability and soli
 
 (3) So far as is reasonably practicable, waste materials shall not be allowed to accumulate in a workplace except in suitable receptacles.
 
-## 10. Room dimensions and space[^key-4660724d46c1cfee6cba3f738d627d75]
+## 10. Room dimensions and space[^c-4660724d46c1cfee6cba3f738d627d75]
 
 (1) Every room where persons work shall have sufficient floor area, height and unoccupied space for purposes of health, safety and welfare.
 
 (2) It shall be sufficient compliance with this regulation in a workplace which is not a new workplace, a modification, an extension and which, immediately before this regulation came into force in respect of it, was subject to the provisions of the Factories Act 1961, if the workplace does not contravene the provisions of Part I of Schedule 1.
 
-## 11. Workstations and seating[^key-83984348d1074c73f78365908e75e6e8]
+## 11. Workstations and seating[^c-83984348d1074c73f78365908e75e6e8]
 
 (1) Every workstation shall be so arranged that it is suitable both for any person at work in the workplace who is likely to work at that workstation and for any work of the undertaking which is likely to be done there.
 
@@ -226,7 +226,7 @@ Where a workplace is in a building, the building shall have a stability and soli
 - (a) it is suitable for the person for whom it is provided as well as for the operations to be performed; and
 - (b) a suitable footrest is also provided where necessary.
 
-## 12. Condition of floors and traffic routes[^key-823f912534f93629feb04bc48049133a]
+## 12. Condition of floors and traffic routes[^c-823f912534f93629feb04bc48049133a]
 
 (1) Every floor in a workplace and the surface of every traffic route in a workplace shall be of a construction such that the floor or surface of the traffic route is suitable for the purpose for which it is used.
 
@@ -244,15 +244,15 @@ Where a workplace is in a building, the building shall have a stability and soli
 
 (5) Suitable and sufficient handrails and, if appropriate, guards shall be provided on all traffic routes which are staircases except in circumstances in which a handrail can not be provided without obstructing the traffic route.
 
-## 13. Falls or falling objects[^key-e25b0c6d155431d7950696ffbe477dc6]
+## 13. Falls or falling objects[^c-e25b0c6d155431d7950696ffbe477dc6]
 
-(1)[^key-01e6d3d2e7e3941c753280c6bebaf8a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-01e6d3d2e7e3941c753280c6bebaf8a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-01e6d3d2e7e3941c753280c6bebaf8a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-01e6d3d2e7e3941c753280c6bebaf8a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-01e6d3d2e7e3941c753280c6bebaf8a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-01e6d3d2e7e3941c753280c6bebaf8a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-01e6d3d2e7e3941c753280c6bebaf8a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-01e6d3d2e7e3941c753280c6bebaf8a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) So far as is practicable, every tank, pit or structure where there is a risk of a person in the workplace falling into a dangerous substance in the tank, pit or structure, shall be securely covered or fenced.
 
@@ -266,26 +266,26 @@ Where a workplace is in a building, the building shall have a stability and soli
 - (d) any fume, gas or vapour likely to overcome a person; or
 - (e) any granular or free-flowing solid substance, or any viscous substance which, in any case, is of a nature or quantity which is likely to cause danger to any person.
 
-## 14. Windows, and transparent or translucent doors, gates and walls[^key-f33fa1d96f056f4217d2d1ce0f9dab0c]
+## 14. Windows, and transparent or translucent doors, gates and walls[^c-f33fa1d96f056f4217d2d1ce0f9dab0c]
 
 (1) Every window or other transparent or translucent surface in a wall or partition and every transparent or translucent surface in a door or gate shall, where necessary for reasons of health or safety—
 
 - (a) be of safety material or be protected against breakage of the transparent or translucent material; and
 - (b) be appropriately marked or incorporate features so as, in either case, to make it apparent.
 
-## 15. Windows, skylights and ventilators[^key-6a565f9c9f9d0440188a0a617ec929c9]
+## 15. Windows, skylights and ventilators[^c-6a565f9c9f9d0440188a0a617ec929c9]
 
 (1) No window, skylight or ventilator which is capable of being opened shall be likely to be opened, closed or adjusted in a manner which exposes any person performing such operation to a risk to his health or safety.
 
 (2) No window, skylight or ventilator shall be in a position when open which is likely to expose any person in the workplace to a risk to his health or safety.
 
-## 16. Ability to clean windows etc. safely[^key-d93cc766d759cf2666042b6480beb9fe]
+## 16. Ability to clean windows etc. safely[^c-d93cc766d759cf2666042b6480beb9fe]
 
 (1) All windows and skylights in a workplace shall be of a design or be so constructed that they may be cleaned safely.
 
 (2) In considering whether a window or skylight is of a design or so constructed as to comply with paragraph (1), account may be taken of equipment used in conjunction with the window or skylight or of devices fitted to the building.
 
-## 17. Organisation etc. of traffic routes[^key-e39600933ebd4916acc2f796a4bee8ff]
+## 17. Organisation etc. of traffic routes[^c-e39600933ebd4916acc2f796a4bee8ff]
 
 (1) Every workplace shall be organised in such a way that pedestrians and vehicles can circulate in a safe manner.
 
@@ -301,7 +301,7 @@ Where a workplace is in a building, the building shall have a stability and soli
 
 (5) Paragraph (2) shall apply so far as is reasonably practicable, to a workplace which is not a new workplace, a modification, an extension or a conversion.
 
-## 18. Doors and gates[^key-5680ef9671513225b05d9bd39256aa33]
+## 18. Doors and gates[^c-5680ef9671513225b05d9bd39256aa33]
 
 (1) Doors and gates shall be suitably constructed (including being fitted with any necessary safety devices).
 
@@ -313,7 +313,7 @@ Where a workplace is in a building, the building shall have a stability and soli
 - (d) where necessary for reasons of health or safety, any powered door or gate can be operated manually unless it opens automatically if the power fails; and
 - (e) any door or gate which is capable of opening by being pushed from either side is of such a construction as to provide, when closed, a clear view of the space close to both sides.
 
-## 19. Escalators and moving walkways[^key-0da188c81416df3bf482d7e4102f6845]
+## 19. Escalators and moving walkways[^c-0da188c81416df3bf482d7e4102f6845]
 
 Escalators and moving walkways shall:—
 
@@ -321,7 +321,7 @@ Escalators and moving walkways shall:—
 - (b) be equipped with any necessary safety devices;
 - (c) be fitted with one or more emergency stop controls which are easily identifiable and readily accessible.
 
-## 20. Sanitary conveniences[^key-eb0aab7348e3afd1827c3b0cc469f1b9]
+## 20. Sanitary conveniences[^c-eb0aab7348e3afd1827c3b0cc469f1b9]
 
 (1) Suitable and sufficient sanitary conveniences shall be provided at readily accessible places.
 
@@ -333,7 +333,7 @@ Escalators and moving walkways shall:—
 
 (3) It shall be sufficient compliance with the requirement in paragraph (1) to provide sufficient sanitary conveniences in a workplace which is not a new workplace, a modification, an extension or a conversion and which, immediately before this regulation came into force in respect of it, was subject to the provisions of the Factories Act 1961, if sanitary conveniences are provided in accordance with the provisions of Part II of Schedule 1.
 
-## 21. Washing facilities[^key-7d0ea39cfb85c2e9fb2f4bc28b98e354]
+## 21. Washing facilities[^c-7d0ea39cfb85c2e9fb2f4bc28b98e354]
 
 (1) Suitable and sufficient washing facilities, including showers if required by the nature of the work or for health reasons, shall be provided at readily accessible places.
 
@@ -350,7 +350,7 @@ Escalators and moving walkways shall:—
 
 (3) Paragraph (2)(h) shall not apply to facilities which are provided for washing hands, forearms and face only.
 
-## 22. Drinking water[^key-3b3ee77536604e8efb037dfa33aeef6c]
+## 22. Drinking water[^c-3b3ee77536604e8efb037dfa33aeef6c]
 
 (1) An adequate supply of wholesome drinking water shall be provided for all persons at work in the workplace.
 
@@ -361,7 +361,7 @@ Escalators and moving walkways shall:—
 
 (3) Where a supply of drinking water is required by paragraph (1), there shall also be provided a sufficient number of suitable cups or other drinking vessels unless the supply of drinking water is in a jet from which persons can drink easily.
 
-## 23. Accommodation for clothing[^key-91b872dee93882b505c574411f469248]
+## 23. Accommodation for clothing[^c-91b872dee93882b505c574411f469248]
 
 (1) Suitable and sufficient accommodation shall be provided—
 
@@ -375,16 +375,16 @@ Escalators and moving walkways shall:—
 - (c) so far as is reasonably practicable, it allows or includes facilities for drying clothing; and
 - (d) it is in a suitable location.
 
-## 24. Facilities for changing clothing[^key-7b1974c84ae50899ce227acc02b541ea]
+## 24. Facilities for changing clothing[^c-7b1974c84ae50899ce227acc02b541ea]
 
 (1) Suitable and sufficient facilities shall be provided for any person at work in the workplace to change clothing in all cases where—
 
 - (a) the person has to wear special clothing for the purpose of work; and
 - (b) the person can not, for reasons of health or propriety, be expected to change in another room.
 
-(2) Without prejudice to the generality of paragraph (1), the facilities mentioned in that paragraph shall not be suitable unless they include separate facilities for, or separate use of facilities by, men and women where necessary for reasons of propriety and the facilities are easily accessible, of sufficient capacity and provided with seating[^key-5b4c295ac65ac75459d3d39c74699266].
+(2) Without prejudice to the generality of paragraph (1), the facilities mentioned in that paragraph shall not be suitable unless they include separate facilities for, or separate use of facilities by, men and women where necessary for reasons of propriety and the facilities are easily accessible, of sufficient capacity and provided with seating[^c-5b4c295ac65ac75459d3d39c74699266].
 
-## 25. Facilities for rest and to eat meals[^key-275db01aef7d425ff7f0fa907ec3d5d2]
+## 25. Facilities for rest and to eat meals[^c-275db01aef7d425ff7f0fa907ec3d5d2]
 
 (1) Suitable and sufficient rest facilities shall be provided at readily accessible places.
 
@@ -393,7 +393,7 @@ Escalators and moving walkways shall:—
 - (a) where necessary for reasons of health or safety include, in the case of a new workplace, an extension or a conversion, rest facilities provided in one or more rest rooms, or, in other cases, in rest rooms or rest areas;
 - (b) include suitable facilities to eat meals where food eaten in the workplace would otherwise be likely to become contaminated.
 
-(3)[^key-a68f21f17f61434f32713d77d4516866] Rest rooms and rest areas shall—
+(3)[^c-a68f21f17f61434f32713d77d4516866] Rest rooms and rest areas shall—
 
 - (a) include suitable arrangements to protect non-smokers from discomfort caused by tobacco smoke; and
 - (b) be equipped with—
@@ -404,11 +404,11 @@ Escalators and moving walkways shall:—
 
 (5) Suitable and sufficient facilities shall be provided for persons at work to eat meals where meals are regularly eaten in the workplace.
 
-## 25A. Disabled persons[^key-5627cbe84fdadf4456730c95aaa1a340]
+## 25A. Disabled persons[^c-5627cbe84fdadf4456730c95aaa1a340]
 
 Where necessary, those parts of the workplace (including in particular doors, passageways, stairs, showers, washbasins, lavatories and workstations) used or occupied directly by disabled persons at work shall be organised to take account of such persons.
 
-## 26. Exemption certificates[^key-2c1c0156ccb5d7dcc20dc22b3a78fb59]
+## 26. Exemption certificates[^c-2c1c0156ccb5d7dcc20dc22b3a78fb59]
 
 (1) The Secretary of State for Defence may, in the interests of national security, by a certificate in writing exempt any of the home forces, any visiting force or any headquarters from the requirements of these Regulations and any exemption may be granted subject to conditions and to a limit of time and may be revoked by the said Secretary of State by a further certificate in writing at any time.
 
@@ -418,7 +418,7 @@ Where necessary, those parts of the workplace (including in particular doors, pa
 - (b) “headquarters” has the same meaning as in article 3(2) of the Visiting Forces and International Headquarters (Application of Law) Order 1965[^f00012];
 - (c) “visiting force” has the same meaning as it does for the purposes of any provision of Part I of the Visiting Forces Act 1952.
 
-## 27. Repeals, saving and revocations[^key-67788afecd01c6bd4fa277a7b44699f9]
+## 27. Repeals, saving and revocations[^c-67788afecd01c6bd4fa277a7b44699f9]
 
 (1) The enactments mentioned in column 2 of Part I of Schedule 2 are repealed to the extent specified in column 3 of that Part.
 
@@ -442,25 +442,25 @@ Regulations 10 and 20
 
 ### PART I — SPACE
 
-**1.**[^key-06c029d9b2bbe10a9fd2bbecacca4356] No room in the workplace shall be so overcrowded as to cause risk to the health or safety of persons at work in it.
+**1.**[^c-06c029d9b2bbe10a9fd2bbecacca4356] No room in the workplace shall be so overcrowded as to cause risk to the health or safety of persons at work in it.
 
-**2.**[^key-45fabe342a9f7e862732fd9ba3f1240d] Without prejudice to the generality of paragraph 1, the number of persons employed at atime in any workroom shall not be such that the amount of cubic space allowed for each is less than 11 cubic metres.
+**2.**[^c-45fabe342a9f7e862732fd9ba3f1240d] Without prejudice to the generality of paragraph 1, the number of persons employed at atime in any workroom shall not be such that the amount of cubic space allowed for each is less than 11 cubic metres.
 
-**3.**[^key-aef4778322f63c2e6859a44be3e7d7d7] In calculating for the purposes of this Part of this Schedule the amount of cubic space in any room no space more than 4.2 metres from the floor shall be taken into account and, where a room contains a gallery, the gallery shall be treated for the purposes of this Schedule as if it were partitioned off from the remainder of the room and formed a separate room.
+**3.**[^c-aef4778322f63c2e6859a44be3e7d7d7] In calculating for the purposes of this Part of this Schedule the amount of cubic space in any room no space more than 4.2 metres from the floor shall be taken into account and, where a room contains a gallery, the gallery shall be treated for the purposes of this Schedule as if it were partitioned off from the remainder of the room and formed a separate room.
 
 ### PART II — NUMBER OF SANITARY CONVENIENCES
 
-**4.**[^key-e53453a6c33b40d2c6835c92370ebc74] In workplaces where females work, there shall be at least one suitable water closet for use by females only for every 25 females.
+**4.**[^c-e53453a6c33b40d2c6835c92370ebc74] In workplaces where females work, there shall be at least one suitable water closet for use by females only for every 25 females.
 
-**5.**[^key-063a89e682279d440154199c01012e06] In workplaces where males work, there shall be at least one suitable water closet for use by males only for every 25 males.
+**5.**[^c-063a89e682279d440154199c01012e06] In workplaces where males work, there shall be at least one suitable water closet for use by males only for every 25 males.
 
-**6.**[^key-305e4ba7e796e392facbb1445140f3c4] In calculating the number of males or females who work in any workplace for the purposes of this Part of this Schedule, any number not itself divisible by 25 without fraction or remainder shall be treated as the next number higher than it which is so divisible.
+**6.**[^c-305e4ba7e796e392facbb1445140f3c4] In calculating the number of males or females who work in any workplace for the purposes of this Part of this Schedule, any number not itself divisible by 25 without fraction or remainder shall be treated as the next number higher than it which is so divisible.
 
 ## SCHEDULE 2 — REPEALS AND REVOCATIONS
 
 Regulation 27
 
-### PART I — REPEALS[^key-4ab90f1027aaf61ef725b3b5234d840c]
+### PART I — REPEALS[^c-4ab90f1027aaf61ef725b3b5234d840c]
 
 <table>
 <thead>
@@ -474,7 +474,7 @@ Regulation 27
 </tbody>
 </table>
 
-### PART II — REVOCATIONS[^key-ae734e959640e72c04abce17a012f6ef]
+### PART II — REVOCATIONS[^c-ae734e959640e72c04abce17a012f6ef]
 
 <table>
 <thead>
@@ -571,114 +571,114 @@ Regulation 27
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 15 and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), Schedule 15, paragraphs 6 and 16 respectively.
 
-[^key-fe5f9af22520d9f985485bb8ccb8228d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)
+[^c-fe5f9af22520d9f985485bb8ccb8228d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)
 
-[^key-7c51aada32c015e9cb81b9795fec67ae]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/3004/regulation/2) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)
+[^c-7c51aada32c015e9cb81b9795fec67ae]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/3004/regulation/2) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)
 
-[^key-079b764d72bb41bc663e59980dea981f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/2/1) inserted (26.10.1995 for specified purposes, 26.7.1998 in so far as not already in force) by [The Quarries Miscellaneous Health and Safety Provisions Regulations 1995 (S.I. 1995/2036)](https://www.legislation.gov.uk/uksi/1995/2036), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2036/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1995/2036/schedule/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/1995/2036/regulation/3))
+[^c-079b764d72bb41bc663e59980dea981f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/2/1) inserted (26.10.1995 for specified purposes, 26.7.1998 in so far as not already in force) by [The Quarries Miscellaneous Health and Safety Provisions Regulations 1995 (S.I. 1995/2036)](https://www.legislation.gov.uk/uksi/1995/2036), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2036/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1995/2036/schedule/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/1995/2036/regulation/3))
 
-[^key-d91cdfc600fdc9746c2c8f09fb8ea4df]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/2/1) inserted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/a)
+[^c-d91cdfc600fdc9746c2c8f09fb8ea4df]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/2/1) inserted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/a)
 
 [^f00002]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
 [^f00003]: Footnote: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
-[^key-5eeb308ffcc977daa303f97cc3858a51]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/2/1) substituted (1.1.2000) by [The Quarries Regulations 1999 (S.I. 1999/2024)](https://www.legislation.gov.uk/uksi/1999/2024), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/2)
+[^c-5eeb308ffcc977daa303f97cc3858a51]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/2/1) substituted (1.1.2000) by [The Quarries Regulations 1999 (S.I. 1999/2024)](https://www.legislation.gov.uk/uksi/1999/2024), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/2)
 
-[^key-fa5374442840f4728fb7af2c3cd3b72c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/2/1) revoked (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/b)
+[^c-fa5374442840f4728fb7af2c3cd3b72c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/2/1) revoked (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/b)
 
-[^key-9f0e89ce7574927b6fcd34b10c474819]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/3004/regulation/3) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)
+[^c-9f0e89ce7574927b6fcd34b10c474819]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/3004/regulation/3) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)
 
-[^key-b342a87f4ad34497862f96a06e1c6d91]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/3004/regulation/3) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/7) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-b342a87f4ad34497862f96a06e1c6d91]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/3004/regulation/3) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/7) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
-[^key-6c244ea1a561f53e2305f03f7316026a]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/3/1/b) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
+[^c-6c244ea1a561f53e2305f03f7316026a]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/3/1/b) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
 
-[^key-3e118e58ce79c9f48161174400e687f0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/3004/regulation/4) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)
+[^c-3e118e58ce79c9f48161174400e687f0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/3004/regulation/4) in force at 1.1.1993, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)
 
-[^key-0e96cf78e6f3209a0557bfab5c99db73]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1992/3004/regulation/4A) inserted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/c)
+[^c-0e96cf78e6f3209a0557bfab5c99db73]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1992/3004/regulation/4A) inserted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/c)
 
-[^key-536b8b801dd4d1295d79e5868d1a2d58]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/3004/regulation/5) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-536b8b801dd4d1295d79e5868d1a2d58]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/3004/regulation/5) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-e799c63e127e3cca1f48d2684e89b6a9]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/5/3) revoked (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(d)(i)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/d/i)
+[^c-e799c63e127e3cca1f48d2684e89b6a9]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/5/3) revoked (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(d)(i)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/d/i)
 
-[^key-497a1a82af91f31b58b30c995f818ba9]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/5/3) added (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(d)(ii)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/d/ii)
+[^c-497a1a82af91f31b58b30c995f818ba9]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/5/3) added (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(d)(ii)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/d/ii)
 
-[^key-24169e3292503b3683d3c0f7d7a4ce82]: Textual amendment: [Reg. 5(3)(c)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/5/3/c) added (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(d)(iii)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/d/iii)
+[^c-24169e3292503b3683d3c0f7d7a4ce82]: Textual amendment: [Reg. 5(3)(c)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/5/3/c) added (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(d)(iii)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/d/iii)
 
-[^key-f1c300c5dd54f40110d8b57225e6b1e1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/3004/regulation/6) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-f1c300c5dd54f40110d8b57225e6b1e1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/3004/regulation/6) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-57ac0a3216590f81c6b8691feaad3301]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/6/3) revoked (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(e)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/e)
+[^c-57ac0a3216590f81c6b8691feaad3301]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/6/3) revoked (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(e)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/e)
 
-[^key-01f76eb147bab05ac4ffaf5a7bdfb70d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/3004/regulation/7) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-01f76eb147bab05ac4ffaf5a7bdfb70d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/3004/regulation/7) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-2c3848f0d185fe4bbaa8ec831e221fff]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/7/1A) inserted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(f)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/f)
+[^c-2c3848f0d185fe4bbaa8ec831e221fff]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/7/1A) inserted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(f)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/f)
 
-[^key-abec92000909e282f00364e4dd5a8200]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1992/3004/regulation/8) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-abec92000909e282f00364e4dd5a8200]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1992/3004/regulation/8) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-041d3e8b25f900e61f8e9a9f56453d2b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1992/3004/regulation/9) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-041d3e8b25f900e61f8e9a9f56453d2b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1992/3004/regulation/9) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-4660724d46c1cfee6cba3f738d627d75]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1992/3004/regulation/10) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-4660724d46c1cfee6cba3f738d627d75]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1992/3004/regulation/10) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-83984348d1074c73f78365908e75e6e8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1992/3004/regulation/11) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-83984348d1074c73f78365908e75e6e8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1992/3004/regulation/11) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-823f912534f93629feb04bc48049133a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1992/3004/regulation/12) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-823f912534f93629feb04bc48049133a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1992/3004/regulation/12) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-e25b0c6d155431d7950696ffbe477dc6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1992/3004/regulation/13) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-e25b0c6d155431d7950696ffbe477dc6]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1992/3004/regulation/13) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-01e6d3d2e7e3941c753280c6bebaf8a5]: Textual amendment: [Reg. 13(1)-(4)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/13/1) revoked (6.4.2005) by [The Work at Height Regulations 2005 (S.I. 2005/735)](https://www.legislation.gov.uk/uksi/2005/735), [reg. 1](https://www.legislation.gov.uk/uksi/2005/735/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2005/735/schedule/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/735/regulation/3))
+[^c-01e6d3d2e7e3941c753280c6bebaf8a5]: Textual amendment: [Reg. 13(1)-(4)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/13/1) revoked (6.4.2005) by [The Work at Height Regulations 2005 (S.I. 2005/735)](https://www.legislation.gov.uk/uksi/2005/735), [reg. 1](https://www.legislation.gov.uk/uksi/2005/735/regulation/1), [Sch. 8](https://www.legislation.gov.uk/uksi/2005/735/schedule/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/735/regulation/3))
 
-[^key-f33fa1d96f056f4217d2d1ce0f9dab0c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1992/3004/regulation/14) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-f33fa1d96f056f4217d2d1ce0f9dab0c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1992/3004/regulation/14) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-6a565f9c9f9d0440188a0a617ec929c9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1992/3004/regulation/15) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-6a565f9c9f9d0440188a0a617ec929c9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1992/3004/regulation/15) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-d93cc766d759cf2666042b6480beb9fe]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1992/3004/regulation/16) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-d93cc766d759cf2666042b6480beb9fe]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1992/3004/regulation/16) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-e39600933ebd4916acc2f796a4bee8ff]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1992/3004/regulation/17) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-e39600933ebd4916acc2f796a4bee8ff]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1992/3004/regulation/17) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-5680ef9671513225b05d9bd39256aa33]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1992/3004/regulation/18) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-5680ef9671513225b05d9bd39256aa33]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1992/3004/regulation/18) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-0da188c81416df3bf482d7e4102f6845]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1992/3004/regulation/19) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-0da188c81416df3bf482d7e4102f6845]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1992/3004/regulation/19) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-eb0aab7348e3afd1827c3b0cc469f1b9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1992/3004/regulation/20) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-eb0aab7348e3afd1827c3b0cc469f1b9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1992/3004/regulation/20) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-7d0ea39cfb85c2e9fb2f4bc28b98e354]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1992/3004/regulation/21) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-7d0ea39cfb85c2e9fb2f4bc28b98e354]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1992/3004/regulation/21) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-3b3ee77536604e8efb037dfa33aeef6c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1992/3004/regulation/22) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-3b3ee77536604e8efb037dfa33aeef6c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1992/3004/regulation/22) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-91b872dee93882b505c574411f469248]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1992/3004/regulation/23) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-91b872dee93882b505c574411f469248]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1992/3004/regulation/23) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-7b1974c84ae50899ce227acc02b541ea]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1992/3004/regulation/24) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-7b1974c84ae50899ce227acc02b541ea]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1992/3004/regulation/24) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-5b4c295ac65ac75459d3d39c74699266]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/24/2) added (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(g)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/g)
+[^c-5b4c295ac65ac75459d3d39c74699266]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/24/2) added (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(g)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/g)
 
-[^key-275db01aef7d425ff7f0fa907ec3d5d2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1992/3004/regulation/25) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-275db01aef7d425ff7f0fa907ec3d5d2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1992/3004/regulation/25) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-a68f21f17f61434f32713d77d4516866]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/25/3) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(h)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/h)
+[^c-a68f21f17f61434f32713d77d4516866]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/25/3) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(h)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/h)
 
-[^key-5627cbe84fdadf4456730c95aaa1a340]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/1992/3004/regulation/25A) inserted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(i)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/i)
+[^c-5627cbe84fdadf4456730c95aaa1a340]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/1992/3004/regulation/25A) inserted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [6(i)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/6/i)
 
-[^key-2c1c0156ccb5d7dcc20dc22b3a78fb59]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1992/3004/regulation/26) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-2c1c0156ccb5d7dcc20dc22b3a78fb59]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1992/3004/regulation/26) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
 [^f00011]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 
 [^f00012]: Footnote: [S.I. 1965/1536](https://www.legislation.gov.uk/uksi/1965/1536), to which there are amendments not relevant to these Regulations.
 
-[^key-67788afecd01c6bd4fa277a7b44699f9]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1992/3004/regulation/27) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-67788afecd01c6bd4fa277a7b44699f9]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1992/3004/regulation/27) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
 [^f00013]: Footnote: [1963 c. 41](https://www.legislation.gov.uk/ukpga/1963/41).
 
-[^key-06c029d9b2bbe10a9fd2bbecacca4356]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1992/3004/schedule/1/paragraph/1) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-06c029d9b2bbe10a9fd2bbecacca4356]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1992/3004/schedule/1/paragraph/1) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-45fabe342a9f7e862732fd9ba3f1240d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1992/3004/schedule/1/paragraph/2) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-45fabe342a9f7e862732fd9ba3f1240d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1992/3004/schedule/1/paragraph/2) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-aef4778322f63c2e6859a44be3e7d7d7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1992/3004/schedule/1/paragraph/3) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-aef4778322f63c2e6859a44be3e7d7d7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1992/3004/schedule/1/paragraph/3) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-e53453a6c33b40d2c6835c92370ebc74]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1992/3004/schedule/1/paragraph/4) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-e53453a6c33b40d2c6835c92370ebc74]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1992/3004/schedule/1/paragraph/4) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-063a89e682279d440154199c01012e06]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1992/3004/schedule/1/paragraph/5) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-063a89e682279d440154199c01012e06]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1992/3004/schedule/1/paragraph/5) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-305e4ba7e796e392facbb1445140f3c4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1992/3004/schedule/1/paragraph/6) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-305e4ba7e796e392facbb1445140f3c4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1992/3004/schedule/1/paragraph/6) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-4ab90f1027aaf61ef725b3b5234d840c]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1992/3004/schedule/2/part/I) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-4ab90f1027aaf61ef725b3b5234d840c]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1992/3004/schedule/2/part/I) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
 
-[^key-ae734e959640e72c04abce17a012f6ef]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1992/3004/schedule/2/part/II) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)
+[^c-ae734e959640e72c04abce17a012f6ef]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1992/3004/schedule/2/part/II) in force at 1.1.1993 for specified purposes and 1.1.1996 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/1992/3004/regulation/1/3)

@@ -37,7 +37,7 @@ An Act to amend the Theft Act 1968 and the Theft Act 1978; and for connected pur
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Obtaining a money transfer by deception.[^key-0f61dee5207f209c03e74c6fa41c1716]
+## 1. Obtaining a money transfer by deception.[^c-0f61dee5207f209c03e74c6fa41c1716]
 
 *Extent: E+W*
 
@@ -86,7 +86,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (1) In section 1(2) of the [^c863047]Criminal Justice Act 1993 (Group A offences for the purposes of the jurisdictional provisions) paragraph (a) (list of offences under the Theft Act 1968) shall be amended as follows.
 
-(2)[^key-084e67d6c39393202963cc5399d1e739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-084e67d6c39393202963cc5399d1e739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After the entry relating to section 22 insert—
 
@@ -94,7 +94,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 .
 
-## 4. Application to loans of offence of obtaining services by deception.[^key-4d3759547fe9d5fb985284ebaf13eb69]
+## 4. Application to loans of offence of obtaining services by deception.[^c-4d3759547fe9d5fb985284ebaf13eb69]
 
 *Extent: E+W*
 
@@ -115,12 +115,12 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 [^c863044]: Commencement: Act wholly in force at Royal Assent
 
-[^key-0f61dee5207f209c03e74c6fa41c1716]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1996/62/section/1) repealed (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
+[^c-0f61dee5207f209c03e74c6fa41c1716]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1996/62/section/1) repealed (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 
 [^c863047]: Marginal citation: [1993 c. 36](https://www.legislation.gov.uk/ukpga/1993/36).
 
-[^key-084e67d6c39393202963cc5399d1e739]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1996/62/section/3/2) repealed (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
+[^c-084e67d6c39393202963cc5399d1e739]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1996/62/section/3/2) repealed (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 
-[^key-4d3759547fe9d5fb985284ebaf13eb69]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1996/62/section/4) repealed (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
+[^c-4d3759547fe9d5fb985284ebaf13eb69]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1996/62/section/4) repealed (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 
 [^c863049]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).

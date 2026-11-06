@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Reference to Lands Tribunal of questions on applications[^key-74aa90ffc952d0092bf4e14bb2c4c3d7]
+## 71. Reference to Lands Tribunal of questions on applications[^c-74aa90ffc952d0092bf4e14bb2c4c3d7]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74aa90ffc952d0092bf4e14bb2c4c3d7]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2016/18/section/71) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-74aa90ffc952d0092bf4e14bb2c4c3d7]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2016/18/section/71) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

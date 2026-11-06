@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 179. Strategy for improving home energy efficiency[^key-450b5ccfe124eb255d4e7d7271f7cf4d]
+## 179. Strategy for improving home energy efficiency[^c-450b5ccfe124eb255d4e7d7271f7cf4d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-450b5ccfe124eb255d4e7d7271f7cf4d]: Textual amendment: [S. 179](https://www.legislation.gov.uk/asp/2006/1/section/179) repealed (31.10.2009) by [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), [s. 100(2)](https://www.legislation.gov.uk/asp/2009/12/section/100/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2009/12/schedule/2/paragraph/7) (with [s. 95](https://www.legislation.gov.uk/asp/2009/12/section/95)); [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/c)
+[^c-450b5ccfe124eb255d4e7d7271f7cf4d]: Textual amendment: [S. 179](https://www.legislation.gov.uk/asp/2006/1/section/179) repealed (31.10.2009) by [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), [s. 100(2)](https://www.legislation.gov.uk/asp/2009/12/section/100/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2009/12/schedule/2/paragraph/7) (with [s. 95](https://www.legislation.gov.uk/asp/2009/12/section/95)); [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/c)

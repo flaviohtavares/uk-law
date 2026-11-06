@@ -50,11 +50,11 @@ These Regulations contain only provisions in consequence of an order [^c22057861
 
 (2) In these Regulations “**the Up-rating Order**” means the Social Security Benefits Up-rating Order (Northern Ireland) 2014(**d**).
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-a8c87cc1dd7ce5325b3474c653052c73]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-a8c87cc1dd7ce5325b3474c653052c73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Northern Ireland[^key-a727ba69a2f72cd7723965173b544af3]
+## 3. Persons not ordinarily resident in Northern Ireland[^c-a727ba69a2f72cd7723965173b544af3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -62,14 +62,14 @@ These Regulations contain only provisions in consequence of an order [^c22057861
 
 In paragraph 2B of Schedule 2 to the Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977 [^c22057901] (prescribed circumstances for increase of a carer's allowance)—
 
-- (a)[^key-c578a5f4ecbacee3525fe335375c684c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c578a5f4ecbacee3525fe335375c684c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (b) for “£29” and “£220” substitute “ £30 ” and “ £225 ” respectively.
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations[^key-768644c0a92df57a57d71d48d889d6a6]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations[^c-768644c0a92df57a57d71d48d889d6a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-8e9b410a9132fa5c1b4307b9ffd4990f]
+## 6. Revocation[^c-8e9b410a9132fa5c1b4307b9ffd4990f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -107,14 +107,14 @@ Regulation 6 makes a consequential revocation.
 
 [^c22057871]: Marginal citation: [Section 132A](https://www.legislation.gov.uk/nisr/2014/80/section/132A) was inserted by section 5(1) of the [Pensions Act (Northern Ireland) 2008 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2008/1)
 
-[^key-a8c87cc1dd7ce5325b3474c653052c73]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2014/80/regulation/2) revoked (6.4.2015) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2015 (S.R. 2015/139)](https://www.legislation.gov.uk/nisr/2015/139), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/139/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/139/regulation/6)
+[^c-a8c87cc1dd7ce5325b3474c653052c73]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2014/80/regulation/2) revoked (6.4.2015) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2015 (S.R. 2015/139)](https://www.legislation.gov.uk/nisr/2015/139), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/139/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/139/regulation/6)
 
-[^key-a727ba69a2f72cd7723965173b544af3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2014/80/regulation/3) revoked (6.4.2015) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2015 (S.R. 2015/139)](https://www.legislation.gov.uk/nisr/2015/139), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/139/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/139/regulation/6)
+[^c-a727ba69a2f72cd7723965173b544af3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2014/80/regulation/3) revoked (6.4.2015) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2015 (S.R. 2015/139)](https://www.legislation.gov.uk/nisr/2015/139), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/139/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/139/regulation/6)
 
 [^c22057901]: Marginal citation: S.R. [1977 No. 74](https://www.legislation.gov.uk/ukcm/1977/74); relevant amending Regulations are S.R. [1984 No. 382](https://www.legislation.gov.uk/ukcm/1984/382), S.R. [2002 No. 323](https://www.legislation.gov.uk/ukcm/2002/323) and S.R. [2013 No. 70](https://www.legislation.gov.uk/ukcm/2013/70)
 
-[^key-c578a5f4ecbacee3525fe335375c684c]: Textual amendment: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2014/80/regulation/4/a) revoked (6.4.2015) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2015 (S.R. 2015/139)](https://www.legislation.gov.uk/nisr/2015/139), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/139/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/139/regulation/6)
+[^c-c578a5f4ecbacee3525fe335375c684c]: Textual amendment: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2014/80/regulation/4/a) revoked (6.4.2015) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2015 (S.R. 2015/139)](https://www.legislation.gov.uk/nisr/2015/139), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/139/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/139/regulation/6)
 
-[^key-768644c0a92df57a57d71d48d889d6a6]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2014/80/regulation/5) revoked (6.4.2015) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2015 (S.R. 2015/139)](https://www.legislation.gov.uk/nisr/2015/139), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/139/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/139/regulation/6)
+[^c-768644c0a92df57a57d71d48d889d6a6]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2014/80/regulation/5) revoked (6.4.2015) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2015 (S.R. 2015/139)](https://www.legislation.gov.uk/nisr/2015/139), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/139/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/139/regulation/6)
 
-[^key-8e9b410a9132fa5c1b4307b9ffd4990f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/80/regulation/6) revoked (6.4.2015) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2015 (S.R. 2015/139)](https://www.legislation.gov.uk/nisr/2015/139), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/139/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/139/regulation/6)
+[^c-8e9b410a9132fa5c1b4307b9ffd4990f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/80/regulation/6) revoked (6.4.2015) by [The Social Security Benefits Up-rating Regulations (NorthernIreland) 2015 (S.R. 2015/139)](https://www.legislation.gov.uk/nisr/2015/139), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/139/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/139/regulation/6)

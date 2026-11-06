@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Mandatory access and participation plan condition for certain institutions[^key-405b874c1c09611e3ddcf8feb9d310e5]
+## 12. Mandatory access and participation plan condition for certain institutions[^c-405b874c1c09611e3ddcf8feb9d310e5]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-405b874c1c09611e3ddcf8feb9d310e5]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/29/section/12) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)
+[^c-405b874c1c09611e3ddcf8feb9d310e5]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/29/section/12) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)

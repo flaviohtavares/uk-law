@@ -32,10 +32,10 @@ Decision No 210/97/EC of the European Parliament and of the Council
 
 of 19 December 1996 adopting an action programme for customs in the Community (Customs 2000) - Commission statement (revoked)
 
-[^key-26d1438adae1b43fa14ddd2dbe1830ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26d1438adae1b43fa14ddd2dbe1830ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-26d1438adae1b43fa14ddd2dbe1830ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-26d1438adae1b43fa14ddd2dbe1830ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26d1438adae1b43fa14ddd2dbe1830ee]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/33); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26d1438adae1b43fa14ddd2dbe1830ee]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/33); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

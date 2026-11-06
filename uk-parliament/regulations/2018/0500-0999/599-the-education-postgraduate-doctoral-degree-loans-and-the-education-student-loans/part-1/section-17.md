@@ -27,7 +27,7 @@ summary: ''
 
 (2) A student must, if so required by the Secretary of State, repay any amount of the postgraduate doctoral degree loan paid in respect of the student which for whatever reason exceeds the amount of loan to which the student is entitled.
 
-(2A)[^key-c7c16302ec0903457268a9a6d44e9331] An institution or third party must, if so required by the Secretary of State, repay any amount of a postgraduate doctoral degree loan paid to the institution or third party in respect of a student which for whatever reason exceeds the amount of loan to which the student is entitled.
+(2A)[^c-c7c16302ec0903457268a9a6d44e9331] An institution or third party must, if so required by the Secretary of State, repay any amount of a postgraduate doctoral degree loan paid to the institution or third party in respect of a student which for whatever reason exceeds the amount of loan to which the student is entitled.
 
 (3) An overpayment of a postgraduate doctoral degree loan may be recovered from a student under paragraph (1)(b) in whichever one or more of the following ways the Secretary of State considers appropriate in all the circumstances—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7c16302ec0903457268a9a6d44e9331]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2018/599/regulation/17/2A) inserted (15.2.2022) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2022 (S.I. 2022/57)](https://www.legislation.gov.uk/uksi/2022/57), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2022/57/regulation/29)
+[^c-c7c16302ec0903457268a9a6d44e9331]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2018/599/regulation/17/2A) inserted (15.2.2022) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2022 (S.I. 2022/57)](https://www.legislation.gov.uk/uksi/2022/57), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/57/regulation/1/1), [29](https://www.legislation.gov.uk/uksi/2022/57/regulation/29)

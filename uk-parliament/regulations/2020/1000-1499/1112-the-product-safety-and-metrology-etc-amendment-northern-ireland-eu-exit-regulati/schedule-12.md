@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 13
 
-**1.**[^key-ca7d1e8cc56496e4b465b3c3fa5ae063] (1) The Pressure Equipment (Safety) Regulations 2016 are amended as follows.
+**1.**[^c-ca7d1e8cc56496e4b465b3c3fa5ae063] (1) The Pressure Equipment (Safety) Regulations 2016 are amended as follows.
 
 (2) In the provisions listed in paragraph (4), after “objection” insert “ other than an immaterial objection, ”.
 
@@ -42,4 +42,4 @@ Regulation 13
 
 ## Annotations
 
-[^key-ca7d1e8cc56496e4b465b3c3fa5ae063]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/12/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-ca7d1e8cc56496e4b465b3c3fa5ae063]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/12/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)

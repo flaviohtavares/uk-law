@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Licensing authority policy statement[^key-7ed5b3cf0233618f75e30e5f35c50dc3]
+## 82. Licensing authority policy statement[^c-7ed5b3cf0233618f75e30e5f35c50dc3]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ed5b3cf0233618f75e30e5f35c50dc3]: Commencement: S. 82 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2196/article/4))
+[^c-7ed5b3cf0233618f75e30e5f35c50dc3]: Commencement: S. 82 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2196/article/4))

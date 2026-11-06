@@ -43,13 +43,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by sections 1, 8(1)[^f00001], 15(4), 17(1), 23(b) and (c), 25, 32(2), 35(1), 83(2), and 88(2) of the Animal Health Act 1981[^f00002], make the following Order.
 
-## 1. Title and coming into force[^key-3d05d633aee435f7a8b9dbd81eadceba]
+## 1. Title and coming into force[^c-3d05d633aee435f7a8b9dbd81eadceba]
 
 (1) The title of this Order is the Exotic Disease (Application and Amendment of Enactments) (Wales) Order 2024.
 
 (2) This Order comes into force on 23 September 2024.
 
-## 2. Extension of the definition of “disease”[^key-2c461f89a742ed250e76d8036fe1773f]
+## 2. Extension of the definition of “disease”[^c-2c461f89a742ed250e76d8036fe1773f]
 
 For the purposes of the Animal Health Act 1981, as it applies in relation to Wales, the definition of “disease” in section 88(1) of that Act is extended to include—
 
@@ -58,7 +58,7 @@ For the purposes of the Animal Health Act 1981, as it applies in relation to Wal
 - (c) African swine fever, and
 - (d) epizootic haemorrhagic disease.
 
-## 3. Amendments to the Movement of Animals (Restrictions) (Wales) Order 2003[^key-9736326d1e78c8e2e6356f46823cd06b]
+## 3. Amendments to the Movement of Animals (Restrictions) (Wales) Order 2003[^c-9736326d1e78c8e2e6356f46823cd06b]
 
 (1) The Movement of Animals (Restrictions) (Wales) Order 2003[^f00003] is amended as follows.
 
@@ -98,7 +98,7 @@ For the purposes of the Animal Health Act 1981, as it applies in relation to Wal
 >
 > (2) The Welsh Ministers may direct, in cases of a particular description or in a particular case, that responsibility for enforcing this Order may be discharged by the Welsh Ministers.
 
-## 4. Amendments to the Bluetongue (Wales) Regulations 2008[^key-1fb13bb6723ff0036cbe3a76ebb5366c]
+## 4. Amendments to the Bluetongue (Wales) Regulations 2008[^c-1fb13bb6723ff0036cbe3a76ebb5366c]
 
 (1) The Bluetongue (Wales) Regulations 2008[^f00004] are amended as follows.
 
@@ -270,7 +270,7 @@ For the purposes of the Animal Health Act 1981, as it applies in relation to Wal
 
 (16) In regulation 20 (powers of veterinary inspectors, officers and inspectors), in paragraph (5)(a), for “isolate of” substitute “isolate or”.
 
-## 5. Amendments to the Bluetongue (Wales) (Compensation) Order 2007[^key-a8bdbbbbdd07d347b138948f93c3f027]
+## 5. Amendments to the Bluetongue (Wales) (Compensation) Order 2007[^c-a8bdbbbbdd07d347b138948f93c3f027]
 
 (1) The Bluetongue (Wales) (Compensation) Order 2007[^f00005] is amended as follows.
 
@@ -279,7 +279,7 @@ For the purposes of the Animal Health Act 1981, as it applies in relation to Wal
 - (a) in paragraph (1), omit “as applied to bluetongue by article 13 of the Bluetongue Order 2003”;
 - (b) in paragraph (3), after “ruminating animal” insert “or camelid”.
 
-## 6. Revocations[^key-6e63e9912898a2dcb464ef9b2596838f]
+## 6. Revocations[^c-6e63e9912898a2dcb464ef9b2596838f]
 
 The Bluetongue (No. 2) (Wales) Order 2007[^f00006] is revoked, so far as not previously revoked.
 
@@ -313,22 +313,22 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22) (“**the 1981 Act**”). Functions of “the Ministers” under the 1981 Act (as defined in section 86(1) of that Act) are exercisable by the Welsh Ministers (in relation to Wales) by virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); the National Assembly for Wales (Transfer of Functions) Order 2004 ([S.I. 2004/3044](https://www.legislation.gov.uk/uksi/2004/3044)); and section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-3d05d633aee435f7a8b9dbd81eadceba]: Commencement: Art. 1 in force at 23.9.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2)
+[^c-3d05d633aee435f7a8b9dbd81eadceba]: Commencement: Art. 1 in force at 23.9.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2)
 
-[^key-2c461f89a742ed250e76d8036fe1773f]: Commencement: Art. 2 in force at 23.9.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2)
+[^c-2c461f89a742ed250e76d8036fe1773f]: Commencement: Art. 2 in force at 23.9.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2)
 
-[^key-9736326d1e78c8e2e6356f46823cd06b]: Commencement: Art. 3 in force at 23.9.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2)
+[^c-9736326d1e78c8e2e6356f46823cd06b]: Commencement: Art. 3 in force at 23.9.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2)
 
 [^f00003]: Footnote: [S.I. 2003/399 (W.56)](https://www.legislation.gov.uk/wsi/2003/399); relevant amendments are made by [S.I. 2009/2940 (W.257)](https://www.legislation.gov.uk/wsi/2009/2940).
 
-[^key-1fb13bb6723ff0036cbe3a76ebb5366c]: Commencement: Art. 4 in force at 23.9.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2)
+[^c-1fb13bb6723ff0036cbe3a76ebb5366c]: Commencement: Art. 4 in force at 23.9.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2)
 
 [^f00004]: Footnote: [S.I. 2008/1090 (W.116)](https://www.legislation.gov.uk/wsi/2008/1090); relevant amendments are made by [S.I. 2012/2403 (W.257)](https://www.legislation.gov.uk/wsi/2012/2403).
 
-[^key-a8bdbbbbdd07d347b138948f93c3f027]: Commencement: Art. 5 in force at 23.9.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2)
+[^c-a8bdbbbbdd07d347b138948f93c3f027]: Commencement: Art. 5 in force at 23.9.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2)
 
 [^f00005]: Footnote: [S.I. 2007/3010 (W.261)](https://www.legislation.gov.uk/wsi/2007/3010).
 
-[^key-6e63e9912898a2dcb464ef9b2596838f]: Commencement: Art. 6 in force at 23.9.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2)
+[^c-6e63e9912898a2dcb464ef9b2596838f]: Commencement: Art. 6 in force at 23.9.2024, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2024/971/article/1/2)
 
 [^f00006]: Footnote: [S.I. 2007/3309 (W. 294)](https://www.legislation.gov.uk/wsi/2007/3309), as amended by [S.I. 2008/1090 (W. 116)](https://www.legislation.gov.uk/wsi/2008/1090).

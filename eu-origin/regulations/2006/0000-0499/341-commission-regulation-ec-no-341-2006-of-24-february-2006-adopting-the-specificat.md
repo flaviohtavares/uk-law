@@ -35,29 +35,29 @@ adopting the specifications of the 2007 ad hoc module on accidents at work and w
 
 (Text with EEA relevance) (revoked)
 
-[^key-000cac693464fd2737c64c997cd9f6e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-000cac693464fd2737c64c997cd9f6e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-000cac693464fd2737c64c997cd9f6e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-000cac693464fd2737c64c997cd9f6e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-000cac693464fd2737c64c997cd9f6e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-000cac693464fd2737c64c997cd9f6e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-000cac693464fd2737c64c997cd9f6e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-000cac693464fd2737c64c997cd9f6e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-000cac693464fd2737c64c997cd9f6e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-000cac693464fd2737c64c997cd9f6e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-000cac693464fd2737c64c997cd9f6e0]
+## ANNEX[^c-000cac693464fd2737c64c997cd9f6e0]
 
-[^key-000cac693464fd2737c64c997cd9f6e0]LABOUR FORCE SURVEY
+[^c-000cac693464fd2737c64c997cd9f6e0]LABOUR FORCE SURVEY
 
 Specifications of the 2007 ad hoc module on accidents at work and work-related health problems
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-000cac693464fd2737c64c997cd9f6e0]1.
+[^c-000cac693464fd2737c64c997cd9f6e0]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-000cac693464fd2737c64c997cd9f6e0]2.
+[^c-000cac693464fd2737c64c997cd9f6e0]2.
 
 The variables shall be coded as follows:
 
@@ -65,4 +65,4 @@ The variables shall be coded as follows:
 
 ## Annotations
 
-[^key-000cac693464fd2737c64c997cd9f6e0]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/83); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-000cac693464fd2737c64c997cd9f6e0]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/83); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -44,19 +44,19 @@ The Secretary of State, with the approval of the Treasury, makes the following O
 
 In accordance with section 1(4) of that Act, a draft of this instrument was laid before and approved by a resolution of the House of Commons.
 
-## 1. Citation and commencement[^key-4b272f0fc63b6e82380625d9e8929e6c]
+## 1. Citation and commencement[^c-4b272f0fc63b6e82380625d9e8929e6c]
 
 This Order may be cited as the Grants to the Churches Conservation Trust Order 2008 and shall come into force on the day after the day on which it is made.
 
-## 2. Period for grants to the Churches Conservation Trust[^key-aa236d57a7d3e05b8532950d161a582f]
+## 2. Period for grants to the Churches Conservation Trust[^c-aa236d57a7d3e05b8532950d161a582f]
 
 The period beginning on 1st April 2008 and expiring on 31st March 2011 is specified for the purposes of section 1(1) of the Redundant Churches and other Religious Buildings Act 1969 (“the Act”).
 
-## 3. Aggregate amount of grants[^key-6c76ebe705cde8948f9c2434b53fbcb0]
+## 3. Aggregate amount of grants[^c-6c76ebe705cde8948f9c2434b53fbcb0]
 
 The aggregate amount of the grants that may be paid under section 1(1) of the Act in the period specified in article 2 shall not exceed £9,485,418.
 
-## 4. Revocation of previous Order[^key-dbbc1f06a6e4cc17adb5baf4ac8f20bc]
+## 4. Revocation of previous Order[^c-dbbc1f06a6e4cc17adb5baf4ac8f20bc]
 
 The Grants to the Churches Conservation Trust Order 2006[^f00003] is revoked.
 
@@ -92,12 +92,12 @@ This Order specifies the period 1st April 2008 to 31st March 2011 for the purpos
 
 [^f00002]: Footnote: [S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681).
 
-[^key-4b272f0fc63b6e82380625d9e8929e6c]: Commencement: Art. 1 in force at 20.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/842/article/1)
+[^c-4b272f0fc63b6e82380625d9e8929e6c]: Commencement: Art. 1 in force at 20.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/842/article/1)
 
-[^key-aa236d57a7d3e05b8532950d161a582f]: Commencement: Art. 2 in force at 20.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/842/article/1)
+[^c-aa236d57a7d3e05b8532950d161a582f]: Commencement: Art. 2 in force at 20.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/842/article/1)
 
-[^key-6c76ebe705cde8948f9c2434b53fbcb0]: Commencement: Art. 3 in force at 20.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/842/article/1)
+[^c-6c76ebe705cde8948f9c2434b53fbcb0]: Commencement: Art. 3 in force at 20.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/842/article/1)
 
-[^key-dbbc1f06a6e4cc17adb5baf4ac8f20bc]: Commencement: Art. 4 in force at 20.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/842/article/1)
+[^c-dbbc1f06a6e4cc17adb5baf4ac8f20bc]: Commencement: Art. 4 in force at 20.3.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/842/article/1)
 
 [^f00003]: Footnote: [S.I. 2006/1008](https://www.legislation.gov.uk/uksi/2006/1008).

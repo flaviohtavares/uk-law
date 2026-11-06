@@ -47,7 +47,7 @@ In accordance with section 4 of the Scottish Civil Justice Council and Criminal 
 
 The Court of Session therefore makes this Act of Sederunt in exercise of the powers conferred by sections 39(7) and 103(1) of the Courts Reform (Scotland) Act 2014[^f00002], and all other powers enabling it to do so.
 
-## 1. Citation and commencement etc.[^key-70f2350068a33afeeea2157887563e83]
+## 1. Citation and commencement etc.[^c-70f2350068a33afeeea2157887563e83]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session 1994 Amendment) (No. 3) (Courts Reform (Scotland) Act 2014) 2015.
 
@@ -55,7 +55,7 @@ The Court of Session therefore makes this Act of Sederunt in exercise of the pow
 
 (3) A certified copy is to be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Rules of the Court of Session 1994: determination of the value of an order[^key-173999f9b98dc954cc2ab212903c301a]
+## 2. Amendment of the Rules of the Court of Session 1994: determination of the value of an order[^c-173999f9b98dc954cc2ab212903c301a]
 
 (1) The Rules of the Court of Session 1994[^f00003] are amended in accordance with this paragraph.
 
@@ -145,7 +145,7 @@ The Court of Session therefore makes this Act of Sederunt in exercise of the pow
 
 .
 
-## 3. Amendment of the Rules of the Court of Session 1994: judicial review[^key-512b858d1b472cb2b19312c8a348ceff]
+## 3. Amendment of the Rules of the Court of Session 1994: judicial review[^c-512b858d1b472cb2b19312c8a348ceff]
 
 (1) The Rules of the Court of Session 1994 are amended in accordance with this paragraph.
 
@@ -375,7 +375,7 @@ The Court of Session therefore makes this Act of Sederunt in exercise of the pow
 > - (a) it should proceed in that way; and
 > - (b) the requirements of section 27B(2) or (3) (as the case may be) of the Act of 1988 are met.
 >
-> (2)[^key-734b3918eff9735de7fc49758fd5cb0d] If the Lord Ordinary orders that an action should proceed as a petition for judicial review, it must proceed under rule 58.11 (as if permission had been granted) and the Lord Ordinary must also order—
+> (2)[^c-734b3918eff9735de7fc49758fd5cb0d] If the Lord Ordinary orders that an action should proceed as a petition for judicial review, it must proceed under rule 58.11 (as if permission had been granted) and the Lord Ordinary must also order—
 >
 > - (a) the petitioner to prepare a minute stating—
 >   - (i) the act, decision or omission to be reviewed;
@@ -478,11 +478,11 @@ The Court of Session therefore makes this Act of Sederunt in exercise of the pow
 
 (5) In the Appendix, for Forms 58.6 and 58.8A substitute the Forms in Schedule 1 to this Act of Sederunt.
 
-## 4. Saving: judicial review[^key-d79b33f1f9895a4d262f306ca7c70299]
+## 4. Saving: judicial review[^c-d79b33f1f9895a4d262f306ca7c70299]
 
 The Rules of the Court of Session 1994[^f00006] as they applied immediately before 22nd September 2015 continue to apply to an application to the supervisory jurisdiction of the court made before 22nd September 2015.
 
-## 5. Amendment of the Rules of the Court of Session 1994: appeals to the Supreme Court[^key-cd122f74852132e29a656f82874c1f34]
+## 5. Amendment of the Rules of the Court of Session 1994: appeals to the Supreme Court[^c-cd122f74852132e29a656f82874c1f34]
 
 (1) The Rules of the Court of Session 1994 are amended in accordance with this paragraph.
 
@@ -527,13 +527,13 @@ Edinburgh
 
 2nd June 2015
 
-## SCHEDULE 1[^key-b4db7ece9d132d564780e76f2b9cf632]
+## SCHEDULE 1[^c-b4db7ece9d132d564780e76f2b9cf632]
 
 Paragraph 3(5)
 
-Form 58.3[^key-2c69fd9bc25f5fe810f6337c9e337912]
+Form 58.3[^c-2c69fd9bc25f5fe810f6337c9e337912]
 
-## SCHEDULE 2[^key-e52f1bde752f6e0609de888af0872735]
+## SCHEDULE 2[^c-e52f1bde752f6e0609de888af0872735]
 
 Paragraph 5(3)
 
@@ -591,25 +591,25 @@ New Chapter 41A sets out the procedure to be followed by an applicant who wishes
 
 [^f00002]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-70f2350068a33afeeea2157887563e83]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
+[^c-70f2350068a33afeeea2157887563e83]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
 
-[^key-173999f9b98dc954cc2ab212903c301a]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2015/228/paragraph/2) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
+[^c-173999f9b98dc954cc2ab212903c301a]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2015/228/paragraph/2) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
 
 [^f00003]: Footnote: The Rules of the Court of Session 1994 are in Schedule 2 to the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2015/227](https://www.legislation.gov.uk/ssi/2015/227)).
 
 [^f00004]: Footnote: Chapter 14A was inserted by [S.S.I. 2008/122](https://www.legislation.gov.uk/ssi/2008/122) and amended by [S.S.I. 2009/104](https://www.legislation.gov.uk/ssi/2009/104).
 
-[^key-512b858d1b472cb2b19312c8a348ceff]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2015/228/paragraph/3) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
+[^c-512b858d1b472cb2b19312c8a348ceff]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2015/228/paragraph/3) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
 
 [^f00005]: Footnote: Chapter 58 was last amended by [S.S.I. 2012/275](https://www.legislation.gov.uk/ssi/2012/275).
 
-[^key-734b3918eff9735de7fc49758fd5cb0d]: Textual amendment: Words in [para. 3(3)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/3/3) substituted (21.9.2015) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment and Miscellaneous Amendments) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/3/2)
+[^c-734b3918eff9735de7fc49758fd5cb0d]: Textual amendment: Words in [para. 3(3)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/3/3) substituted (21.9.2015) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment and Miscellaneous Amendments) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/3/2)
 
-[^key-d79b33f1f9895a4d262f306ca7c70299]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2015/228/paragraph/4) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
+[^c-d79b33f1f9895a4d262f306ca7c70299]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2015/228/paragraph/4) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
 
 [^f00006]: Footnote: The Rules of the Court of Session 1994 are in Schedule 2 to the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2015/227](https://www.legislation.gov.uk/ssi/2015/227)).
 
-[^key-cd122f74852132e29a656f82874c1f34]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2015/228/paragraph/5) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
+[^c-cd122f74852132e29a656f82874c1f34]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2015/228/paragraph/5) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
 
 [^f00007]: Footnote: Chapter 41 was substituted by [S.S.I. 2011/303](https://www.legislation.gov.uk/ssi/2011/303) and last amended by [S.S.I. 2015/35](https://www.legislation.gov.uk/ssi/2015/35).
 
@@ -617,8 +617,8 @@ New Chapter 41A sets out the procedure to be followed by an applicant who wishes
 
 [^f00009]: Footnote: Form 41.59 was inserted by [S.S.I. 2015/35](https://www.legislation.gov.uk/ssi/2015/35).
 
-[^key-b4db7ece9d132d564780e76f2b9cf632]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2015/228/schedule/1) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
+[^c-b4db7ece9d132d564780e76f2b9cf632]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2015/228/schedule/1) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
 
-[^key-2c69fd9bc25f5fe810f6337c9e337912]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2015/228/schedule/1) Form 58.3 inserted (21.9.2015) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment and Miscellaneous Amendments) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/3/3)
+[^c-2c69fd9bc25f5fe810f6337c9e337912]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2015/228/schedule/1) Form 58.3 inserted (21.9.2015) by [Act of Sederunt (Ordinary Cause Rules 1993 Amendment and Miscellaneous Amendments) 2015 (S.S.I. 2015/296)](https://www.legislation.gov.uk/ssi/2015/296), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2015/296/paragraph/3/3)
 
-[^key-e52f1bde752f6e0609de888af0872735]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2015/228/schedule/2) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)
+[^c-e52f1bde752f6e0609de888af0872735]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2015/228/schedule/2) in force at 22.9.2015, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2015/228/paragraph/1/2)

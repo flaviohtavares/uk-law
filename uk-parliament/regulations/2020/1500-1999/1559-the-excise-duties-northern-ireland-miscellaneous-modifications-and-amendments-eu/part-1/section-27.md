@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**27.**[^key-e06ccb87883fd1e18f98fc088fff9503] In regulation 28 for each occurrence of “UK” substitute “NI”.
+**27.**[^c-e06ccb87883fd1e18f98fc088fff9503] In regulation 28 for each occurrence of “UK” substitute “NI”.
 
 ## Annotations
 
-[^key-e06ccb87883fd1e18f98fc088fff9503]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-e06ccb87883fd1e18f98fc088fff9503]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

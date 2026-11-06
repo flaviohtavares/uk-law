@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Modification of Part 1 of the Compulsory Purchase Act 1965[^key-0da1682111cc96eb15cbf01d37ae841f]
+## 22. Modification of Part 1 of the Compulsory Purchase Act 1965[^c-0da1682111cc96eb15cbf01d37ae841f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0da1682111cc96eb15cbf01d37ae841f]: Commencement: Art. 22 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-0da1682111cc96eb15cbf01d37ae841f]: Commencement: Art. 22 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

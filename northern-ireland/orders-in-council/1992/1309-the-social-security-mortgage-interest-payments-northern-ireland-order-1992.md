@@ -40,7 +40,7 @@ This Order may be cited as the Social Security (Mortgage Interest Payments) (Nor
 
 (2) In this Order “the Department” means the Department of Health and Social Services.
 
-## 3. Payment out of benefit of sums in respect of mortgage interest, etc.[^key-18683cad71bb85476c2d29d8a127c7eb]
+## 3. Payment out of benefit of sums in respect of mortgage interest, etc.[^c-18683cad71bb85476c2d29d8a127c7eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -78,6 +78,6 @@ and any other sums received by the Department under this Order shall be paid int
 
 [^c5478511]: Textual amendment: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-18683cad71bb85476c2d29d8a127c7eb]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisi/1992/1309/article/3) repealed (6.4.2018) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(12)(a)(i)](https://www.legislation.gov.uk/nisi/2016/999/article/15/12/a/i); [S.R. 2018/66](https://www.legislation.gov.uk/nisr/2018/66), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/66/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/66/article/2/2)[(3)](https://www.legislation.gov.uk/nisr/2018/66/article/2/3))
+[^c-18683cad71bb85476c2d29d8a127c7eb]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisi/1992/1309/article/3) repealed (6.4.2018) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(12)(a)(i)](https://www.legislation.gov.uk/nisi/2016/999/article/15/12/a/i); [S.R. 2018/66](https://www.legislation.gov.uk/nisr/2018/66), [art. 2(1)](https://www.legislation.gov.uk/nisr/2018/66/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2018/66/article/2/2)[(3)](https://www.legislation.gov.uk/nisr/2018/66/article/2/3))
 
 [^c5478531]: Textual amendment: [1975 c. 15](https://www.legislation.gov.uk/ukpga/1975/15)

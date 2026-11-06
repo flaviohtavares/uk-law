@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Importers and first UK owners[^key-4754cf9c976d5ef0ad214f977049b72f]
+## 18. Importers and first UK owners[^c-4754cf9c976d5ef0ad214f977049b72f]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4754cf9c976d5ef0ad214f977049b72f]: Commencement: Reg. 18 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-4754cf9c976d5ef0ad214f977049b72f]: Commencement: Reg. 18 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69C. Part-exempt contracts: exemption from requirement to make returns[^key-b233fb136382902e6946cd3106c0945a]
+## 69C. Part-exempt contracts: exemption from requirement to make returns[^c-b233fb136382902e6946cd3106c0945a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b233fb136382902e6946cd3106c0945a]: Textual amendment: Ss. 69A-69D inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/266/article/2/5)
+[^c-b233fb136382902e6946cd3106c0945a]: Textual amendment: Ss. 69A-69D inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/266/article/2/5)

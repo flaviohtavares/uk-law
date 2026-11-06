@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Normal retirement[^key-001e6e0bc7389c1812c6f568c86ab340]
+## 24. Normal retirement[^c-001e6e0bc7389c1812c6f568c86ab340]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-001e6e0bc7389c1812c6f568c86ab340]: Commencement: Reg. 24 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-001e6e0bc7389c1812c6f568c86ab340]: Commencement: Reg. 24 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

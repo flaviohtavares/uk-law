@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141C. Defence to offence under section 141A where remote sale or letting on hire: Scotland[^key-493cabb51859ab3abc3f44c08b71a313]
+## 141C. Defence to offence under section 141A where remote sale or letting on hire: Scotland[^c-493cabb51859ab3abc3f44c08b71a313]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-493cabb51859ab3abc3f44c08b71a313]: Textual amendment: S. 141C inserted (S.) (1.1.2021) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 36(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/36/3), [70(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/f)
+[^c-493cabb51859ab3abc3f44c08b71a313]: Textual amendment: S. 141C inserted (S.) (1.1.2021) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 36(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/36/3), [70(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/f)

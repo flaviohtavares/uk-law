@@ -24,7 +24,7 @@ summary: ''
 
 ### The Administration of Justice (Scotland) Act 1933 (c. 41)
 
-**1.**[^key-3e422681bdfafd9c2d4f525db7b430fe] (1) The Administration of Justice (Scotland) Act 1933 is amended as follows.
+**1.**[^c-3e422681bdfafd9c2d4f525db7b430fe] (1) The Administration of Justice (Scotland) Act 1933 is amended as follows.
 
 (2) In section 23(1) (appointment of clerks in the Court of Justiciary), for “Scottish Ministers and shall be exercised after consultation with the Lord Justice General” substitute “ Scottish Court Service ”.
 
@@ -60,7 +60,7 @@ summary: ''
 
 ### The Sheriff Courts and Legal Officers (Scotland) Act 1927 (c. 35)
 
-**2.**[^key-426cb191d4aa604c985655d939f74720] (1) The Sheriff Courts and Legal Officers (Scotland) Act 1927 is amended as follows.
+**2.**[^c-426cb191d4aa604c985655d939f74720] (1) The Sheriff Courts and Legal Officers (Scotland) Act 1927 is amended as follows.
 
 (2) In section 1 (appointment of sheriff clerk and procurator fiscal)—
 
@@ -94,6 +94,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e422681bdfafd9c2d4f525db7b430fe]: Commencement: Sch. 4 para. 1 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
+[^c-3e422681bdfafd9c2d4f525db7b430fe]: Commencement: Sch. 4 para. 1 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 
-[^key-426cb191d4aa604c985655d939f74720]: Commencement: Sch. 4 para. 2 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
+[^c-426cb191d4aa604c985655d939f74720]: Commencement: Sch. 4 para. 2 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)

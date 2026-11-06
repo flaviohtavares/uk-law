@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 23. Grievance[^key-25247d3b66c9593e65e69e0e641771af]
+## 23. Grievance[^c-25247d3b66c9593e65e69e0e641771af]
 
 *Extent: E*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25247d3b66c9593e65e69e0e641771af]: Commencement: S. 23 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-25247d3b66c9593e65e69e0e641771af]: Commencement: S. 23 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

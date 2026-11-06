@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. The beneficial ownership purpose[^key-5dfd8e92170cafeeef1ac05476abe120]
+## 220. The beneficial ownership purpose[^c-5dfd8e92170cafeeef1ac05476abe120]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dfd8e92170cafeeef1ac05476abe120]: Commencement: S. 220 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)
+[^c-5dfd8e92170cafeeef1ac05476abe120]: Commencement: S. 220 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)

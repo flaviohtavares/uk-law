@@ -24,7 +24,7 @@ summary: ''
 
 ### Land Tenure Reform (Scotland) Act 1974
 
-**1.**[^key-b66bd6727fbc4047ec59ad1edc3098d7] After section 8(3) of the Land Tenure Reform (Scotland) Act 1974, there is inserted—
+**1.**[^c-b66bd6727fbc4047ec59ad1edc3098d7] After section 8(3) of the Land Tenure Reform (Scotland) Act 1974, there is inserted—
 
 > (3ZA) The condition contained in subsection (1) above does not apply in relation to a private residential tenancy as defined in the Private Housing (Tenancies) (Scotland) Act 2016.
 
@@ -32,7 +32,7 @@ summary: ''
 
 ### Rent (Scotland) Act 1984
 
-**2.**[^key-adb5e9acd99e363deb9bf4a62fdd7f13] (1) The Rent (Scotland) Act 1984 is amended as follows.
+**2.**[^c-adb5e9acd99e363deb9bf4a62fdd7f13] (1) The Rent (Scotland) Act 1984 is amended as follows.
 
 (2) In section 43A(2) and (7), for the words “section 70 of the Housing (Scotland) Act 1988” there is substituted “ Chapter 2 of Part 4 of the Private Housing (Tenancies) (Scotland) Act 2016 ”.
 
@@ -40,7 +40,7 @@ summary: ''
 
 ### Bankruptcy (Scotland) Act 1985
 
-**3.**[^key-dc5307f28be8125e7cf7bcbd81e14ad6] In section 31(9) of the Bankruptcy (Scotland) Act 1985, after paragraph (c) there is inserted
+**3.**[^c-dc5307f28be8125e7cf7bcbd81e14ad6] In section 31(9) of the Bankruptcy (Scotland) Act 1985, after paragraph (c) there is inserted
 
 > , or
 >
@@ -50,7 +50,7 @@ summary: ''
 
 ### Housing (Scotland) Act 1987
 
-**4.**[^key-fc3b80b3d596568d71a5480e438857c3] (1) The Housing (Scotland) Act 1987 is amended as follows.
+**4.**[^c-fc3b80b3d596568d71a5480e438857c3] (1) The Housing (Scotland) Act 1987 is amended as follows.
 
 (2) In section 20B(6), after paragraph (c) there is inserted—
 
@@ -132,7 +132,7 @@ summary: ''
 
 ### Requirements of Writing (Scotland) Act 1995
 
-**6.**[^key-087c6841a23fa8196c8b54628b4ba008] After section 1(7) of the Requirements of Writing (Scotland) Act 1995, there is inserted—
+**6.**[^c-087c6841a23fa8196c8b54628b4ba008] After section 1(7) of the Requirements of Writing (Scotland) Act 1995, there is inserted—
 
 > (7A) A private residential tenancy as defined in the Private Housing (Tenancies) (Scotland) Act 2016 is not a “**real right in land**” for the purposes of this section.
 
@@ -140,7 +140,7 @@ summary: ''
 
 ### Housing (Scotland) Act 2001
 
-**7.**[^key-9b5fea56f0607aad0b45d1b141f480d2] (1) The Housing (Scotland) Act 2001 is amended as follows.
+**7.**[^c-9b5fea56f0607aad0b45d1b141f480d2] (1) The Housing (Scotland) Act 2001 is amended as follows.
 
 (2) In section 7(2)(b) after sub-paragraph (iv) there is inserted—
 
@@ -186,7 +186,7 @@ summary: ''
 
 ### Homelessness etc. (Scotland) Act 2003
 
-**8.**[^key-9c3db59d34badf1ffccea89019fcf220] In section 11(5) of the Homelessness etc. (Scotland) Act 2003, after paragraph (g) there is inserted—
+**8.**[^c-9c3db59d34badf1ffccea89019fcf220] In section 11(5) of the Homelessness etc. (Scotland) Act 2003, after paragraph (g) there is inserted—
 
 > - (h) section 56 of the Private Housing (Tenancies) (Scotland) Act 2016.
 
@@ -194,7 +194,7 @@ summary: ''
 
 ### Housing (Scotland) Act 2006
 
-**9.**[^key-7cc981b1a77aa8860aad241edad0d236] (1) The Housing (Scotland) Act 2006 is amended as follows.
+**9.**[^c-7cc981b1a77aa8860aad241edad0d236] (1) The Housing (Scotland) Act 2006 is amended as follows.
 
 (2) In section 38—
 
@@ -224,7 +224,7 @@ summary: ''
 
 ### Bankruptcy and Diligence etc. (Scotland) Act 2007
 
-**10.**[^key-19ed99d5982e17108724f35ccbc455bc] (1) The Bankruptcy and Diligence etc. (Scotland) Act 2007 is amended as follows.
+**10.**[^c-19ed99d5982e17108724f35ccbc455bc] (1) The Bankruptcy and Diligence etc. (Scotland) Act 2007 is amended as follows.
 
 (2) In section 214(2)—
 
@@ -253,7 +253,7 @@ summary: ''
 
 ### Housing (Scotland) Act 2014
 
-**11.**[^key-fd6a1d459ebfe37c6c616b05c33a829d] In section 94(1) of the Housing (Scotland) Act 2014, after paragraph (c) there is inserted—
+**11.**[^c-fd6a1d459ebfe37c6c616b05c33a829d] In section 94(1) of the Housing (Scotland) Act 2014, after paragraph (c) there is inserted—
 
 > - (de) a function conferred on, or transferred to, the Tribunal by virtue of the Private Housing (Tenancies) (Scotland) Act 2016.
 
@@ -261,22 +261,22 @@ summary: ''
 
 ## Annotations
 
-[^key-b66bd6727fbc4047ec59ad1edc3098d7]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/1) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-b66bd6727fbc4047ec59ad1edc3098d7]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/1) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-adb5e9acd99e363deb9bf4a62fdd7f13]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/2) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-adb5e9acd99e363deb9bf4a62fdd7f13]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/2) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-dc5307f28be8125e7cf7bcbd81e14ad6]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/3) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-dc5307f28be8125e7cf7bcbd81e14ad6]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/3) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-fc3b80b3d596568d71a5480e438857c3]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/4) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-fc3b80b3d596568d71a5480e438857c3]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/4) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-087c6841a23fa8196c8b54628b4ba008]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/6) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-087c6841a23fa8196c8b54628b4ba008]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/6) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-9b5fea56f0607aad0b45d1b141f480d2]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/7) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-9b5fea56f0607aad0b45d1b141f480d2]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/7) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-9c3db59d34badf1ffccea89019fcf220]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/8) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-9c3db59d34badf1ffccea89019fcf220]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/8) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-7cc981b1a77aa8860aad241edad0d236]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/9) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-7cc981b1a77aa8860aad241edad0d236]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/9) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-19ed99d5982e17108724f35ccbc455bc]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/10) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-19ed99d5982e17108724f35ccbc455bc]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/10) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-fd6a1d459ebfe37c6c616b05c33a829d]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/11) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-fd6a1d459ebfe37c6c616b05c33a829d]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/11) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

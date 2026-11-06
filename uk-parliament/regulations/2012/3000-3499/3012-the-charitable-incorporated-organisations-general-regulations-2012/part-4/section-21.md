@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Execution of deeds[^key-1dbb6f25961d8a889a07b769e111aa61]
+## 21. Execution of deeds[^c-1dbb6f25961d8a889a07b769e111aa61]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the document is treated as having been delivered upon its being executed.
 
 ## Annotations
 
-[^key-1dbb6f25961d8a889a07b769e111aa61]: Commencement: Reg. 21 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-1dbb6f25961d8a889a07b769e111aa61]: Commencement: Reg. 21 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

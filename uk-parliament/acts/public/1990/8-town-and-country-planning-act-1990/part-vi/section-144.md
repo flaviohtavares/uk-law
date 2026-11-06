@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where compensation is payable by virtue of section 107 in respect of expenditure incurred in carrying out any works on land, any compensation payable in respect of the acquisition of an interest in the land in pursuance of a purchase notice shall be reduced by an amount equal to the value of those works.
 
-(2)[^key-5afba1c106f8126b6881e2011c5b6933] Where—
+(2)[^c-5afba1c106f8126b6881e2011c5b6933] Where—
 
 - (a) the Secretary of State directs under section 141(3) that, if an application for it is made, planning permission must be granted for the development of any land, and
 - (b) on a claim made to the local planning authority within the prescribed time and in the prescribed manner, it is shown that the permitted development value of the interest in that land in respect of which the purchase notice was served is less than its Schedule 3 value[^c14021711],
@@ -51,7 +51,7 @@ no compensation shall be payable in respect of that order under section 115.
 
 ## Annotations
 
-[^key-5afba1c106f8126b6881e2011c5b6933]: Modification: [S. 144(2)](https://www.legislation.gov.uk/ukpga/1990/8/section/144/2) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 47(3)(a)](https://www.legislation.gov.uk/ukpga/2018/5/section/47/3/a), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/84) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-5afba1c106f8126b6881e2011c5b6933]: Modification: [S. 144(2)](https://www.legislation.gov.uk/ukpga/1990/8/section/144/2) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 47(3)(a)](https://www.legislation.gov.uk/ukpga/2018/5/section/47/3/a), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/84) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
 [^c14021711]: Textual amendment: Words in [s. 144(2)(b)](https://www.legislation.gov.uk/ukpga/1990/8/section/144/2/b) substituted (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 31](https://www.legislation.gov.uk/ukpga/1991/34/section/31), [Sch.6 para. 19(a)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/19/a) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4))
 

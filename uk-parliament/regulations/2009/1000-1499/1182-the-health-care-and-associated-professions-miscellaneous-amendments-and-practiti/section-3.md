@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendments to the principal measures[^key-b44b7a00f3f2d748a25b5bee13c6fcc1]
+## 3. Amendments to the principal measures[^c-b44b7a00f3f2d748a25b5bee13c6fcc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b44b7a00f3f2d748a25b5bee13c6fcc1]: Commencement: Art. 3 comes into force in accordance with art. 1(2)(3)(6)(9)
+[^c-b44b7a00f3f2d748a25b5bee13c6fcc1]: Commencement: Art. 3 comes into force in accordance with art. 1(2)(3)(6)(9)

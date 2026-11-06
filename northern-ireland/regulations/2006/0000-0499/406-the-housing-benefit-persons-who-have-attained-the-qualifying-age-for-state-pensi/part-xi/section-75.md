@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Payment on death of the person entitled[^key-6e8c4a10c4c5a8f863c7ea205019bc46]
+## 75. Payment on death of the person entitled[^c-6e8c4a10c4c5a8f863c7ea205019bc46]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e8c4a10c4c5a8f863c7ea205019bc46]: Commencement: [Reg. 75](https://www.legislation.gov.uk/nisr/2006/406/regulation/75) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-6e8c4a10c4c5a8f863c7ea205019bc46]: Commencement: [Reg. 75](https://www.legislation.gov.uk/nisr/2006/406/regulation/75) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
 [^f00133]: Footnote: [1955 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1955/24)

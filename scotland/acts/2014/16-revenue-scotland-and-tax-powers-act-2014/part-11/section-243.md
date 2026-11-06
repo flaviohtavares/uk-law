@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 243. Late notice of appeal[^key-b67969b37aa93a944f976396071781e2]
+## 243. Late notice of appeal[^c-b67969b37aa93a944f976396071781e2]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b67969b37aa93a944f976396071781e2]: Commencement: [S. 243](https://www.legislation.gov.uk/asp/2014/16/section/243) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-b67969b37aa93a944f976396071781e2]: Commencement: [S. 243](https://www.legislation.gov.uk/asp/2014/16/section/243) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

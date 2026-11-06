@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Certification for non-UK schemes[^c2114367][^key-1461653f219e4ae85c6d6dac828a21c7]
+## 13. Certification for non-UK schemes[^c2114367][^c-1461653f219e4ae85c6d6dac828a21c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c2114367]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-1461653f219e4ae85c6d6dac828a21c7]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2011/19/section/13) in force at 6.3.2012 in so far as not already in force by [S.I. 2012/682](https://www.legislation.gov.uk/uksi/2012/682), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/682/article/2/c)
+[^c-1461653f219e4ae85c6d6dac828a21c7]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2011/19/section/13) in force at 6.3.2012 in so far as not already in force by [S.I. 2012/682](https://www.legislation.gov.uk/uksi/2012/682), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/682/article/2/c)

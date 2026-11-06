@@ -36,117 +36,117 @@ concerning the production and development of statistics on education and lifelon
 
 (Text with EEA relevance) (revoked)
 
-[^key-88650905780edff43f17f18116b7b6e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88650905780edff43f17f18116b7b6e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-88650905780edff43f17f18116b7b6e3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-88650905780edff43f17f18116b7b6e3]
+## Article 1. Subject matter[^c-88650905780edff43f17f18116b7b6e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Domains[^key-88650905780edff43f17f18116b7b6e3]
+## Article 2. Definitions[^c-88650905780edff43f17f18116b7b6e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Statistical actions[^key-88650905780edff43f17f18116b7b6e3]
+## Article 3. Domains[^c-88650905780edff43f17f18116b7b6e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Transmission of micro-data on individuals[^key-88650905780edff43f17f18116b7b6e3]
+## Article 4. Statistical actions[^c-88650905780edff43f17f18116b7b6e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Implementing measures[^key-88650905780edff43f17f18116b7b6e3]
+## Article 5. Transmission of micro-data on individuals[^c-88650905780edff43f17f18116b7b6e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Committee[^key-88650905780edff43f17f18116b7b6e3]
+## Article 6. Implementing measures[^c-88650905780edff43f17f18116b7b6e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-88650905780edff43f17f18116b7b6e3]
+## Article 7. Committee[^c-88650905780edff43f17f18116b7b6e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX — DOMAINS[^key-88650905780edff43f17f18116b7b6e3]
-
-[^key-88650905780edff43f17f18116b7b6e3]Domain 1: Education and training systems
+## Article 8. Entry into force[^c-88650905780edff43f17f18116b7b6e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]1.
+[^c-88650905780edff43f17f18116b7b6e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — DOMAINS[^c-88650905780edff43f17f18116b7b6e3]
+
+[^c-88650905780edff43f17f18116b7b6e3]Domain 1: Education and training systems
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-88650905780edff43f17f18116b7b6e3]1.
 
 Aim
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]2.
+[^c-88650905780edff43f17f18116b7b6e3]2.
 
 Scope
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]3.
+[^c-88650905780edff43f17f18116b7b6e3]3.
 
 Subjects covered
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]4.
+[^c-88650905780edff43f17f18116b7b6e3]4.
 
 Periodicity
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]Domain 2: Participation of adults in lifelong learning
+[^c-88650905780edff43f17f18116b7b6e3]Domain 2: Participation of adults in lifelong learning
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]1.
+[^c-88650905780edff43f17f18116b7b6e3]1.
 
 Aim
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]2.
+[^c-88650905780edff43f17f18116b7b6e3]2.
 
 Scope
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]3.
+[^c-88650905780edff43f17f18116b7b6e3]3.
 
 Subjects covered
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]4.
+[^c-88650905780edff43f17f18116b7b6e3]4.
 
 Data sources and sample size
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]5.
+[^c-88650905780edff43f17f18116b7b6e3]5.
 
 Periodicity
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]Domain 3: Other statistics on education and lifelong learning
+[^c-88650905780edff43f17f18116b7b6e3]Domain 3: Other statistics on education and lifelong learning
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]1.
+[^c-88650905780edff43f17f18116b7b6e3]1.
 
 Aim
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88650905780edff43f17f18116b7b6e3]2.
+[^c-88650905780edff43f17f18116b7b6e3]2.
 
 Scope
 
@@ -154,4 +154,4 @@ Scope
 
 ## Annotations
 
-[^key-88650905780edff43f17f18116b7b6e3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 127](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/127); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-88650905780edff43f17f18116b7b6e3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 127](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/127); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

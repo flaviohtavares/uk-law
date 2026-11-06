@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. General implementation of remainder of withdrawal agreement[^key-4b66183de1b865be7e365a34a9a3e4b5]
+## 5. General implementation of remainder of withdrawal agreement[^c-4b66183de1b865be7e365a34a9a3e4b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ After section 7 of the European Union (Withdrawal) Act 2018 (status of retained 
 
 ## Annotations
 
-[^key-4b66183de1b865be7e365a34a9a3e4b5]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/1/section/5) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/c)
+[^c-4b66183de1b865be7e365a34a9a3e4b5]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2020/1/section/5) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/c)

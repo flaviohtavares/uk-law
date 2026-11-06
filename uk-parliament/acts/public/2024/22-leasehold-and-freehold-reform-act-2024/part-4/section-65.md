@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Appointment of manager: power to vary or discharge orders[^key-769a71f4e3f15dc2ec589e3c87db9eb7]
+## 65. Appointment of manager: power to vary or discharge orders[^c-769a71f4e3f15dc2ec589e3c87db9eb7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In section 24 of the LTA 1987 (appointment of manager by a tribunal)—
 
 ## Annotations
 
-[^key-769a71f4e3f15dc2ec589e3c87db9eb7]: Commencement: S. 65 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-769a71f4e3f15dc2ec589e3c87db9eb7]: Commencement: S. 65 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

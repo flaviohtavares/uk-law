@@ -24,7 +24,7 @@ summary: ''
 
 (2) If the London member was returned as an individual candidate, or the vacancy is not filled in accordance with the following provisions, the vacancy shall remain unfilled until the next ordinary election.
 
-(3)[^key-2786e4231124bd27ed0156bf847e19cd] If the London member was returned (under Part II of Schedule 2 to this Act or this section) from a registered political party’s list, the Greater London returning officer shall notify the Chair of the Assembly of the name of the person who is to fill the vacancy.
+(3)[^c-2786e4231124bd27ed0156bf847e19cd] If the London member was returned (under Part II of Schedule 2 to this Act or this section) from a registered political party’s list, the Greater London returning officer shall notify the Chair of the Assembly of the name of the person who is to fill the vacancy.
 
 (4) The person who is to fill the vacancy must be one who—
 
@@ -48,4 +48,4 @@ and this Act shall apply as if the person had been declared to be returned as a 
 
 ## Annotations
 
-[^key-2786e4231124bd27ed0156bf847e19cd]: Modification: S. 11(3) restricted by S.I. 2002/427, Sch. 9 rule 58(3) (as substituted (1.3.2004) by [The Greater London Authority Elections (Amendment) Rules 2004 (S.I. 2004/227)](https://www.legislation.gov.uk/uksi/2004/227), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/227/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2004/227/rule/2/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2004/227/schedule/5))
+[^c-2786e4231124bd27ed0156bf847e19cd]: Modification: S. 11(3) restricted by S.I. 2002/427, Sch. 9 rule 58(3) (as substituted (1.3.2004) by [The Greater London Authority Elections (Amendment) Rules 2004 (S.I. 2004/227)](https://www.legislation.gov.uk/uksi/2004/227), [rules 1(1)](https://www.legislation.gov.uk/uksi/2004/227/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2004/227/rule/2/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2004/227/schedule/5))

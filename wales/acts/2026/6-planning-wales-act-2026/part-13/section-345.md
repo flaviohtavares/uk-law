@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 345. Powers of personal representatives in respect of blight notice served before death[^key-9d55bad2d8062a232c04d23b50c8caa1]
+## 345. Powers of personal representatives in respect of blight notice served before death[^c-9d55bad2d8062a232c04d23b50c8caa1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In relation to any time after the death of a person who has served a blight noti
 
 ## Annotations
 
-[^key-9d55bad2d8062a232c04d23b50c8caa1]: Commencement: S. 345 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9d55bad2d8062a232c04d23b50c8caa1]: Commencement: S. 345 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

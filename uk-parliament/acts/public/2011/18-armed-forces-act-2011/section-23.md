@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-c7de6f87d292a1d34bb4ab57b0d5d9db] After section 371 of AFA 2006 insert—
+(1)[^c-c7de6f87d292a1d34bb4ab57b0d5d9db] After section 371 of AFA 2006 insert—
 
 > **Protected prisoners of war**
 >
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7de6f87d292a1d34bb4ab57b0d5d9db]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/23/1) in force at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
+[^c-c7de6f87d292a1d34bb4ab57b0d5d9db]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/23/1) in force at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)

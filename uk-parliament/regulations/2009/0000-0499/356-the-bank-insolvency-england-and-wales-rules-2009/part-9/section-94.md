@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Removal of bank liquidator by the court[^key-3002e7e99144c6e21cc2062e3c9e34e7]
+## 94. Removal of bank liquidator by the court[^c-3002e7e99144c6e21cc2062e3c9e34e7]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) After paragraph (1) insert—
 
-> (1A)[^key-33c92d934aa663632b9e42a808fa6177] If the liquidation committee has not yet passed a full payment resolution, the court shall dismiss any application under paragraph (1) where the application is made by someone other than the Bank of England, the Financial Conduct Authority, the Prudential Regulation Authority[^key-2a497ef7054337b497892691923178ef] or the liquidation committee.
+> (1A)[^c-33c92d934aa663632b9e42a808fa6177] If the liquidation committee has not yet passed a full payment resolution, the court shall dismiss any application under paragraph (1) where the application is made by someone other than the Bank of England, the Financial Conduct Authority, the Prudential Regulation Authority[^c-2a497ef7054337b497892691923178ef] or the liquidation committee.
 
 (3) In paragraph (2), for “at least 7 days’ notice” substitute—
 
@@ -46,17 +46,17 @@ summary: ''
 
 (6) In paragraph (6)—
 
-- (a) in sub-paragraph (a), for “official receiver” substitute “Bank of England and the appropriate regulator[^key-d3bc7214a78daf56d267a9a24d024431]” and at the end insert “and”, and
+- (a) in sub-paragraph (a), for “official receiver” substitute “Bank of England and the appropriate regulator[^c-d3bc7214a78daf56d267a9a24d024431]” and at the end insert “and”, and
 - (b) leave out “and” at the end of sub-paragraph (b), and sub–paragraph (c).
 
 ## Annotations
 
-[^key-3002e7e99144c6e21cc2062e3c9e34e7]: Commencement: Rule 94 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-3002e7e99144c6e21cc2062e3c9e34e7]: Commencement: Rule 94 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00036]: Footnote: Paragraph 5 of rule 4.119 was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).
 
-[^key-33c92d934aa663632b9e42a808fa6177]: Textual amendment: Words in [rule 94(2)](https://www.legislation.gov.uk/uksi/2009/356/rule/94/2) renumbered (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [39](https://www.legislation.gov.uk/uksi/2010/2579/rule/39)
+[^c-33c92d934aa663632b9e42a808fa6177]: Textual amendment: Words in [rule 94(2)](https://www.legislation.gov.uk/uksi/2009/356/rule/94/2) renumbered (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [39](https://www.legislation.gov.uk/uksi/2010/2579/rule/39)
 
-[^key-2a497ef7054337b497892691923178ef]: Textual amendment: Words in [rule 94(2)](https://www.legislation.gov.uk/uksi/2009/356/rule/94/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 163(e)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/163/e)
+[^c-2a497ef7054337b497892691923178ef]: Textual amendment: Words in [rule 94(2)](https://www.legislation.gov.uk/uksi/2009/356/rule/94/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 163(e)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/163/e)
 
-[^key-d3bc7214a78daf56d267a9a24d024431]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/2009/356) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 163(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/163/f)
+[^c-d3bc7214a78daf56d267a9a24d024431]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/2009/356) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 163(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/163/f)

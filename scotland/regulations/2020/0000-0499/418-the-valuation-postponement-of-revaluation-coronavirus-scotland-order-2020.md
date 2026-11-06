@@ -44,19 +44,19 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 37(4) of the Local Government (Scotland) Act 1975[^f00003], a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-8a9a8f774104c131e871aa2224e388ca]
+## 1. Citation and commencement[^c-8a9a8f774104c131e871aa2224e388ca]
 
 This Order may be cited as the Valuation (Postponement of Revaluation) (Coronavirus) (Scotland) Order 2020 and comes into force on the day after the day on which it is made.
 
-## 2. Postponement of revaluation[^key-74b0923cef2de896d24b615c7e929c4e]
+## 2. Postponement of revaluation[^c-74b0923cef2de896d24b615c7e929c4e]
 
 In section 37(1) (general interpretation) of the Local Government (Scotland) Act 1975[^f00004], in the definition of “year of revaluation”, for “2017-18” substitute “2023-24”.
 
-## 3. Amendment of Valuation Timetable (Scotland) Order 1995[^key-cbcfcd701384b6db7ab9268ac5efa237]
+## 3. Amendment of Valuation Timetable (Scotland) Order 1995[^c-cbcfcd701384b6db7ab9268ac5efa237]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-70bb7e5f0589f39596263162490aedc9]
+## 4. Revocation[^c-70bb7e5f0589f39596263162490aedc9]
 
 The Valuation (Postponement of Revaluation) (Scotland) Order 2013[^f00008] is revoked.
 
@@ -90,14 +90,14 @@ Article 4 revokes the Valuation (Postponement of Revaluation) (Scotland) Order 2
 
 [^f00003]: Footnote: Section 37(4) was inserted by section 1 of the Local Government (Miscellaneous Provisions) (Scotland) Act 1981 and has been modified by section 118(2) of the Scotland Act 1998 and paragraph 5 of schedule 3 of the Interpretation and Legislative Reform (Scotland) Act 2010.
 
-[^key-8a9a8f774104c131e871aa2224e388ca]: Commencement: Art. 1 in force at 5.12.2020, see [art. 1](https://www.legislation.gov.uk/ssi/2020/418/article/1)
+[^c-8a9a8f774104c131e871aa2224e388ca]: Commencement: Art. 1 in force at 5.12.2020, see [art. 1](https://www.legislation.gov.uk/ssi/2020/418/article/1)
 
-[^key-74b0923cef2de896d24b615c7e929c4e]: Commencement: Art. 2 in force at 5.12.2020, see [art. 1](https://www.legislation.gov.uk/ssi/2020/418/article/1)
+[^c-74b0923cef2de896d24b615c7e929c4e]: Commencement: Art. 2 in force at 5.12.2020, see [art. 1](https://www.legislation.gov.uk/ssi/2020/418/article/1)
 
 [^f00004]: Footnote: Section 37(1) was relevantly amended by [S.S.I. 2013/113](https://www.legislation.gov.uk/ssi/2013/113). It is also amended by section 2(a) of the Non-Domestic Rates (Scotland) Act [2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4) but the amendment is not in force.
 
-[^key-cbcfcd701384b6db7ab9268ac5efa237]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2020/418/article/3) revoked (6.2.2023) by [The Valuation Timetable (Scotland) Order 2022 (S.S.I. 2022/368)](https://www.legislation.gov.uk/ssi/2022/368), [art. 1](https://www.legislation.gov.uk/ssi/2022/368/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2022/368/schedule/2) (with [arts. 6(2)](https://www.legislation.gov.uk/ssi/2022/368/article/6/2), [7](https://www.legislation.gov.uk/ssi/2022/368/article/7)) (as amended (15.6.2023) by [S.S.I. 2023/166](https://www.legislation.gov.uk/ssi/2023/166), [arts. 1](https://www.legislation.gov.uk/ssi/2023/166/article/1), [2](https://www.legislation.gov.uk/ssi/2023/166/article/2))
+[^c-cbcfcd701384b6db7ab9268ac5efa237]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2020/418/article/3) revoked (6.2.2023) by [The Valuation Timetable (Scotland) Order 2022 (S.S.I. 2022/368)](https://www.legislation.gov.uk/ssi/2022/368), [art. 1](https://www.legislation.gov.uk/ssi/2022/368/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2022/368/schedule/2) (with [arts. 6(2)](https://www.legislation.gov.uk/ssi/2022/368/article/6/2), [7](https://www.legislation.gov.uk/ssi/2022/368/article/7)) (as amended (15.6.2023) by [S.S.I. 2023/166](https://www.legislation.gov.uk/ssi/2023/166), [arts. 1](https://www.legislation.gov.uk/ssi/2023/166/article/1), [2](https://www.legislation.gov.uk/ssi/2023/166/article/2))
 
-[^key-70bb7e5f0589f39596263162490aedc9]: Commencement: Art. 4 in force at 5.12.2020, see [art. 1](https://www.legislation.gov.uk/ssi/2020/418/article/1)
+[^c-70bb7e5f0589f39596263162490aedc9]: Commencement: Art. 4 in force at 5.12.2020, see [art. 1](https://www.legislation.gov.uk/ssi/2020/418/article/1)
 
 [^f00008]: Footnote: [S.S.I. 2013/113](https://www.legislation.gov.uk/ssi/2013/113).

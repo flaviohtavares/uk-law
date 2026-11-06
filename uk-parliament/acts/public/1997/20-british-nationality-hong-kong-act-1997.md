@@ -35,7 +35,7 @@ An Act to provide for the acquisition of British citizenship by certain British 
 
 [^c863235]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Acquisition of British citizenship.[^key-c6e3c37adb204bf22b1bde4e5875cf62]
+## 1. Acquisition of British citizenship.[^c-c6e3c37adb204bf22b1bde4e5875cf62]
 
 (1) Subject to the provisions of this section, the Secretary of State shall, on an application made for the purpose, register as a British citizen any person who—
 
@@ -63,7 +63,7 @@ An Act to provide for the acquisition of British citizenship by certain British 
 
 as if the reference to immediately before that date were a reference to that time.
 
-(5A)[^key-7b9d7a646d3ffd079e7a2cfab050dc34] An adult or young person shall not be registered under subsection (1) unless the Secretary of State is satisfied that the adult or young person is of good character.
+(5A)[^c-7b9d7a646d3ffd079e7a2cfab050dc34] An adult or young person shall not be registered under subsection (1) unless the Secretary of State is satisfied that the adult or young person is of good character.
 
 (5B) In subsection (5A), “ **adult or young person** ” means a person who has attained the age of 10 years at the time when the application for registration is made.
 
@@ -87,10 +87,10 @@ according as, immediately before becoming a British citizen, he was for the purp
 (3) The following provisions of the principal Act shall have effect as if this Act were included in that Act, namely—
 
 - section 37 (Commonwealth citizenship);
-- [^key-525fb94bd1bb83e00064ea2a96e4205c]...
+- [^c-525fb94bd1bb83e00064ea2a96e4205c]...
 - section 41 (regulations);
-- section 42 (registration and naturalisation: citizenship ceremony, oath and pledge)[^key-3a980213df9d33419729a410e7bcbbea];
-- section 42A (registration and naturalisation: fee);[^key-871beed8c46e3fc83931efa3d713d014]
+- section 42 (registration and naturalisation: citizenship ceremony, oath and pledge)[^c-3a980213df9d33419729a410e7bcbbea];
+- section 42A (registration and naturalisation: fee);[^c-871beed8c46e3fc83931efa3d713d014]
 - section 42B (registration and naturalisation: timing);
 - section 45 (evidence);
 - section 46 (offences);
@@ -143,14 +143,14 @@ and “**registration**” shall be construed accordingly.
 
 [^c863235]: Commencement: Act wholly in force at Royal Assent.
 
-[^key-c6e3c37adb204bf22b1bde4e5875cf62]: Modification: S. 1 restricted (4.12.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 58](https://www.legislation.gov.uk/ukpga/2006/13/section/58), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1), [62(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2); [S.I. 2006/2838](https://www.legislation.gov.uk/uksi/2006/2838), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/2838/article/4/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2006/2838/article/4/2))
+[^c-c6e3c37adb204bf22b1bde4e5875cf62]: Modification: S. 1 restricted (4.12.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 58](https://www.legislation.gov.uk/ukpga/2006/13/section/58), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1), [62(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2); [S.I. 2006/2838](https://www.legislation.gov.uk/uksi/2006/2838), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/2838/article/4/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2006/2838/article/4/2))
 
-[^key-7b9d7a646d3ffd079e7a2cfab050dc34]: Textual amendment: S. 1(5A)(5B) inserted (13.1.2010) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 47(3)](https://www.legislation.gov.uk/ukpga/2009/11/section/47/3), [58(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/2); [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(f)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/f)
+[^c-7b9d7a646d3ffd079e7a2cfab050dc34]: Textual amendment: S. 1(5A)(5B) inserted (13.1.2010) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 47(3)](https://www.legislation.gov.uk/ukpga/2009/11/section/47/3), [58(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/2); [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(f)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/f)
 
 [^c863236]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-525fb94bd1bb83e00064ea2a96e4205c]: Textual amendment: Words in s. 2(3) omitted (4.4.2003) by virtue of [Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/2), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/9/a)
+[^c-525fb94bd1bb83e00064ea2a96e4205c]: Textual amendment: Words in s. 2(3) omitted (4.4.2003) by virtue of [Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/2), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/9/a)
 
-[^key-3a980213df9d33419729a410e7bcbbea]: Textual amendment: Words in s. 2(3) substituted (1.1.2004) by [Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/1), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/9/b)
+[^c-3a980213df9d33419729a410e7bcbbea]: Textual amendment: Words in s. 2(3) substituted (1.1.2004) by [Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/1), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/9/b)
 
-[^key-871beed8c46e3fc83931efa3d713d014]: Textual amendment: Words in s. 2(3) inserted (1.1.2004) by [Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/1), [Sch. para. 9(c)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/9/c)
+[^c-871beed8c46e3fc83931efa3d713d014]: Textual amendment: Words in s. 2(3) inserted (1.1.2004) by [Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/1), [Sch. para. 9(c)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/9/c)

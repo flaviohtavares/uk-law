@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 12 — Contractual Savings Schemes[^key-8eba50820ec4c011f7b37f870e9c2d8c]
+## SCHEDULE 12 — Contractual Savings Schemes[^c-8eba50820ec4c011f7b37f870e9c2d8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Section 65.
 
-### Introduction[^key-8eba50820ec4c011f7b37f870e9c2d8c]
+### Introduction[^c-8eba50820ec4c011f7b37f870e9c2d8c]
 
-**1.**[^key-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Curtailment of schemes[^key-8eba50820ec4c011f7b37f870e9c2d8c]
+### Curtailment of schemes[^c-8eba50820ec4c011f7b37f870e9c2d8c]
 
-**2.**[^key-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### European institutions[^key-8eba50820ec4c011f7b37f870e9c2d8c]
+### European institutions[^c-8eba50820ec4c011f7b37f870e9c2d8c]
 
-**3.**[^key-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Certification: Treasury specifications[^key-8eba50820ec4c011f7b37f870e9c2d8c]
+### Certification: Treasury specifications[^c-8eba50820ec4c011f7b37f870e9c2d8c]
 
-**4.**[^key-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Treasury authorisation[^key-8eba50820ec4c011f7b37f870e9c2d8c]
+### Treasury authorisation[^c-8eba50820ec4c011f7b37f870e9c2d8c]
 
-**5.**[^key-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Section 326: supplementary[^key-8eba50820ec4c011f7b37f870e9c2d8c]
+### Section 326: supplementary[^c-8eba50820ec4c011f7b37f870e9c2d8c]
 
-**6.**[^key-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Payments under certain contracts[^key-8eba50820ec4c011f7b37f870e9c2d8c]
+### Payments under certain contracts[^c-8eba50820ec4c011f7b37f870e9c2d8c]
 
-**7.**[^key-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Transitional[^key-8eba50820ec4c011f7b37f870e9c2d8c]
+### Transitional[^c-8eba50820ec4c011f7b37f870e9c2d8c]
 
-**8.**[^key-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8eba50820ec4c011f7b37f870e9c2d8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8eba50820ec4c011f7b37f870e9c2d8c]: Textual amendment: Sch. 12 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-8eba50820ec4c011f7b37f870e9c2d8c]: Textual amendment: Sch. 12 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

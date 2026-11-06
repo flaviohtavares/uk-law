@@ -32,7 +32,7 @@ summary: ''
 
 LOCAL GOVERNMENT
 
-The Local Government (General Grant) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-e98c5bf3cbf3567a4cd0bd72c3ac2d57]
+The Local Government (General Grant) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-e98c5bf3cbf3567a4cd0bd72c3ac2d57]
 
 Made
 
@@ -44,22 +44,22 @@ Coming into operation
 
 1st May 2005
 
-[^key-e98c5bf3cbf3567a4cd0bd72c3ac2d57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e98c5bf3cbf3567a4cd0bd72c3ac2d57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e98c5bf3cbf3567a4cd0bd72c3ac2d57]
+## 1. Citation and commencement[^c-e98c5bf3cbf3567a4cd0bd72c3ac2d57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-e98c5bf3cbf3567a4cd0bd72c3ac2d57]
+## 2. Amendment[^c-e98c5bf3cbf3567a4cd0bd72c3ac2d57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e98c5bf3cbf3567a4cd0bd72c3ac2d57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e98c5bf3cbf3567a4cd0bd72c3ac2d57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e98c5bf3cbf3567a4cd0bd72c3ac2d57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e98c5bf3cbf3567a4cd0bd72c3ac2d57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e98c5bf3cbf3567a4cd0bd72c3ac2d57]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/101) revoked (1.11.2011) by [The Local Government (Rates Support Grant) Regulations (Northern Ireland) 2011 (S.R. 2011/375)](https://www.legislation.gov.uk/nisr/2011/375), [regs. 1](https://www.legislation.gov.uk/nisr/2011/375/regulation/1), [6](https://www.legislation.gov.uk/nisr/2011/375/regulation/6) (with [reg. 6](https://www.legislation.gov.uk/nisr/2011/375/regulation/6))
+[^c-e98c5bf3cbf3567a4cd0bd72c3ac2d57]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/101) revoked (1.11.2011) by [The Local Government (Rates Support Grant) Regulations (Northern Ireland) 2011 (S.R. 2011/375)](https://www.legislation.gov.uk/nisr/2011/375), [regs. 1](https://www.legislation.gov.uk/nisr/2011/375/regulation/1), [6](https://www.legislation.gov.uk/nisr/2011/375/regulation/6) (with [reg. 6](https://www.legislation.gov.uk/nisr/2011/375/regulation/6))

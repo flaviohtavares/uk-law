@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Code of practice relating to non-criminal hate incidents[^key-b26776a914fbc360beff35f049e84147]
+## 182. Code of practice relating to non-criminal hate incidents[^c-b26776a914fbc360beff35f049e84147]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In the Police, Crime, Sentencing and Courts Act 2022, omit—
 
 ## Annotations
 
-[^key-b26776a914fbc360beff35f049e84147]: Commencement: S. 182 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-b26776a914fbc360beff35f049e84147]: Commencement: S. 182 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

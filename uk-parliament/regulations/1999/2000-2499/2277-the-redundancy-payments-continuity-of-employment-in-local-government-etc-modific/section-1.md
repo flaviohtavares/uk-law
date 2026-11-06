@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation, commencement and interpretation[^key-d948a02eef9d9064d5a67b9885264eb2]
+## 1. Citation, commencement and interpretation[^c-d948a02eef9d9064d5a67b9885264eb2]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d948a02eef9d9064d5a67b9885264eb2]: Commencement: Art. 1 in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)
+[^c-d948a02eef9d9064d5a67b9885264eb2]: Commencement: Art. 1 in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)
 
 [^f00002]: Footnote: [S.I. 1983/1160](https://www.legislation.gov.uk/uksi/1983/1160), amended by the other Orders specified in Schedule 3 to this Order.
 

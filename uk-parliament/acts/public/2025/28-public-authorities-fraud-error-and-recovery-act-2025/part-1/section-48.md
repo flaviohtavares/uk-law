@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Revocation[^key-39e68910c69ae884a5bdc63266329c24][^key-28052a22d494f118d1936f1a0c3a2daa]
+## 48. Revocation[^c-39e68910c69ae884a5bdc63266329c24][^c-28052a22d494f118d1936f1a0c3a2daa]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39e68910c69ae884a5bdc63266329c24]: Commencement: S. 48 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-39e68910c69ae884a5bdc63266329c24]: Commencement: S. 48 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-28052a22d494f118d1936f1a0c3a2daa]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2025/28/section/48) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-28052a22d494f118d1936f1a0c3a2daa]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2025/28/section/48) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

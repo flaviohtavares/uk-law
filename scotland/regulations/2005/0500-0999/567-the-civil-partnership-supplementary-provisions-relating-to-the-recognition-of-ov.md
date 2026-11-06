@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 237(2) of the Civil Partnership Act 2004[^f00001], and all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement, interpretation and extent[^key-ebd25c809513a8db4d6100d821c33223]
+## 1. Citation, commencement, interpretation and extent[^c-ebd25c809513a8db4d6100d821c33223]
 
 (1) These Regulations may be cited as the Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Separations) (Scotland) Regulations 2005 and shall come into force on 5th December 2005.
 
@@ -54,7 +54,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 237(2) of
 
 (3) These Regulations extend to Scotland only.
 
-## 2. Provisions relating to countries which comprise territories having different systems of law[^key-8f4200fe3eb43a3dc994a9c031609be0]
+## 2. Provisions relating to countries which comprise territories having different systems of law[^c-8f4200fe3eb43a3dc994a9c031609be0]
 
 (1) In relation to a dissolution, annulment or separation obtained under the law of a territory in a country whose territories have different systems of law in force as regards such matters, sections 235, 236 and 237(1) of the Act shall have effect subject to the following modifications.
 
@@ -104,7 +104,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 237(2) of
 >   - (i) according to the law of that country or territory in family matters, or
 >   - (ii) according to the law of Scotland.
 
-## 3. Recognition of an overseas dissolution, annulment or separation in the case of an overseas relationship (or an apparent or alleged relationship) where a civil partner is domiciled in a country whose law does not recognise relationships of the sort in question[^key-f217e375ada085d6b6fa5e44c7856d13][^key-954785b391beb138145afc93f82e26c0]
+## 3. Recognition of an overseas dissolution, annulment or separation in the case of an overseas relationship (or an apparent or alleged relationship) where a civil partner is domiciled in a country whose law does not recognise relationships of the sort in question[^c-f217e375ada085d6b6fa5e44c7856d13][^c-954785b391beb138145afc93f82e26c0]
 
 (1) In relation to an overseas dissolution, annulment or separation in the case of an overseas relationship (or an apparent or alleged overseas relationship), section 235 applies with the following modifications.
 
@@ -117,7 +117,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 237(2) of
 >   - (i) was habitually resident in the country in which the dissolution, annulment or separation was obtained;
 >   - (ii) was domiciled in that country; or
 >   - (iii) was a national of that country; and
-> - (c) the party seeking the dissolution, annulment or separation was either habitually resident or domiciled in a country whose law does not recognise the relevant sort of relationship[^key-10bdc9006333ed12ac5cf9baebf3c51a] and does not provide for dissolution, annulment or separation as regards such relationships.
+> - (c) the party seeking the dissolution, annulment or separation was either habitually resident or domiciled in a country whose law does not recognise the relevant sort of relationship[^c-10bdc9006333ed12ac5cf9baebf3c51a] and does not provide for dissolution, annulment or separation as regards such relationships.
 >
 > (1B) References in paragraph (1A) to “country” shall include, where appropriate, a territory which comprises part of a country in which different systems of law are in force in matters relating to the dissolution or annulment of a civil partnership or the separation of civil partners.
 
@@ -126,14 +126,14 @@ The Scottish Ministers, in exercise of the powers conferred by section 237(2) of
 > (2A) The validity of an overseas dissolution, annulment or separation obtained otherwise than by means of proceedings shall also be recognised if–
 >
 > - (a) the dissolution, annulment or separation is effective under the law of the country in which it was obtained;
-> - (b) at the relevant date one civil partner was domiciled in that country and the other was domiciled in a country whose law does not recognise the relevant sort of relationship[^key-a63ce43ced0100eeccea1204ae86c8c7] and does not provide for recognition of the validity of dissolutions, annulments or separations as regards such relationships; and
+> - (b) at the relevant date one civil partner was domiciled in that country and the other was domiciled in a country whose law does not recognise the relevant sort of relationship[^c-a63ce43ced0100eeccea1204ae86c8c7] and does not provide for recognition of the validity of dissolutions, annulments or separations as regards such relationships; and
 > - (c) neither civil partner was habitually resident in the United Kingdom throughout the period of 1 year immediately preceding that date.
 >
 > (2B) References in paragraph (2A) to “country” shall include a territory which comprises part of a country in which different systems of law are in force in matters relating to the dissolution or annulment of a civil partnership or the separation of civil partners.
 
 .
 
-(4)[^key-f789fb32bbf2a8ac5ac38c2f86fd2d1e] After subsection (3) insert—
+(4)[^c-f789fb32bbf2a8ac5ac38c2f86fd2d1e] After subsection (3) insert—
 
 > (3A) In this section references to “the relevant sort of relationship” are to the sort of relationship that the civil partnership in question is, and include—
 >
@@ -144,20 +144,20 @@ The Scottish Ministers, in exercise of the powers conferred by section 237(2) of
 
 .
 
-## 4. Cross-proceedings[^key-7b60698e626c1971e434e3f3b1206649]
+## 4. Cross-proceedings[^c-7b60698e626c1971e434e3f3b1206649]
 
 Where there have been cross-proceedings, the validity of an overseas dissolution, annulment or separation obtained either in the original proceedings or in the cross-proceedings shall be recognised if–
 
 - (a) the requirements of section 235(1)(b)(i), (ii) or (iii) of the Act or of regulation 3 above are satisfied in relation to the date of the commencement either of the original proceedings or of the cross-proceedings; and
 - (b) the validity of the dissolution, annulment or separation is otherwise entitled to recognition by virtue of sections 235 and 236 of the Act.
 
-## 5. Dissolutions following separations[^key-f0f96070bf71df1b154a613351ea6310]
+## 5. Dissolutions following separations[^c-f0f96070bf71df1b154a613351ea6310]
 
 (1) Where a separation, the validity of which is entitled to recognition either by virtue of section 235 of the Act or by virtue of regulation 3 or 4 above, is converted, under the law of the country in which it was obtained, into a dissolution which is effective under the law of that country, the validity of that dissolution shall be recognised whether or not that dissolution would itself be entitled to recognition by virtue of any of those provisions.
 
 (2) In cases where a country comprises territories in which different systems of law are in force in matters concerning the dissolution or annulment of a civil partnership or the separation of civil partners, for the words in paragraph (1) above “under the law of the country in which it was obtained, into a dissolution which is effective under the law of that country” there shall be substituted the words “under the law of the territory in which it was obtained, into a dissolution which is effective throughout the country of which that territory forms a part”.
 
-## 6. Proof of facts relevant to recognition[^key-feb44f5d9bedd510609dff91429b5b8e]
+## 6. Proof of facts relevant to recognition[^c-feb44f5d9bedd510609dff91429b5b8e]
 
 (1) For the purpose of deciding whether an overseas dissolution, annulment or separation obtained by means of proceedings is entitled to recognition by virtue of section 235 of the Act or regulation 3, 4 or 5 above, any finding of fact made (whether expressly or by implication) in the proceedings and on the basis of which jurisdiction was assumed in the proceedings shall–
 
@@ -194,22 +194,22 @@ Regulations 4, 5 and 6 provide respectively for the recognition of certain disso
 
 [^f00001]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-ebd25c809513a8db4d6100d821c33223]: Commencement: Reg. 1 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/567/regulation/1/1)
+[^c-ebd25c809513a8db4d6100d821c33223]: Commencement: Reg. 1 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/567/regulation/1/1)
 
-[^key-8f4200fe3eb43a3dc994a9c031609be0]: Commencement: Reg. 2 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/567/regulation/1/1)
+[^c-8f4200fe3eb43a3dc994a9c031609be0]: Commencement: Reg. 2 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/567/regulation/1/1)
 
-[^key-f217e375ada085d6b6fa5e44c7856d13]: Commencement: Reg. 3 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/567/regulation/1/1)
+[^c-f217e375ada085d6b6fa5e44c7856d13]: Commencement: Reg. 3 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/567/regulation/1/1)
 
-[^key-954785b391beb138145afc93f82e26c0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2005/567/regulation/3) heading substituted (28.2.2022) by [The Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Separations) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/461)](https://www.legislation.gov.uk/ssi/2021/461), [regs. 1](https://www.legislation.gov.uk/ssi/2021/461/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/461/regulation/2/2)
+[^c-954785b391beb138145afc93f82e26c0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2005/567/regulation/3) heading substituted (28.2.2022) by [The Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Separations) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/461)](https://www.legislation.gov.uk/ssi/2021/461), [regs. 1](https://www.legislation.gov.uk/ssi/2021/461/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/461/regulation/2/2)
 
-[^key-10bdc9006333ed12ac5cf9baebf3c51a]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2005/567/regulation/3/2) substituted (28.2.2022) by [The Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Separations) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/461)](https://www.legislation.gov.uk/ssi/2021/461), [regs. 1](https://www.legislation.gov.uk/ssi/2021/461/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/461/regulation/2/3)
+[^c-10bdc9006333ed12ac5cf9baebf3c51a]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2005/567/regulation/3/2) substituted (28.2.2022) by [The Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Separations) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/461)](https://www.legislation.gov.uk/ssi/2021/461), [regs. 1](https://www.legislation.gov.uk/ssi/2021/461/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/461/regulation/2/3)
 
-[^key-a63ce43ced0100eeccea1204ae86c8c7]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2005/567/regulation/3/3) substituted (28.2.2022) by [The Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Separations) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/461)](https://www.legislation.gov.uk/ssi/2021/461), [regs. 1](https://www.legislation.gov.uk/ssi/2021/461/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/461/regulation/2/4)
+[^c-a63ce43ced0100eeccea1204ae86c8c7]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2005/567/regulation/3/3) substituted (28.2.2022) by [The Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Separations) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/461)](https://www.legislation.gov.uk/ssi/2021/461), [regs. 1](https://www.legislation.gov.uk/ssi/2021/461/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/461/regulation/2/4)
 
-[^key-f789fb32bbf2a8ac5ac38c2f86fd2d1e]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/ssi/2005/567/regulation/3/4) inserted (28.2.2022) by [The Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Separations) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/461)](https://www.legislation.gov.uk/ssi/2021/461), [regs. 1](https://www.legislation.gov.uk/ssi/2021/461/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2021/461/regulation/2/5)
+[^c-f789fb32bbf2a8ac5ac38c2f86fd2d1e]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/ssi/2005/567/regulation/3/4) inserted (28.2.2022) by [The Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Separations) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/461)](https://www.legislation.gov.uk/ssi/2021/461), [regs. 1](https://www.legislation.gov.uk/ssi/2021/461/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2021/461/regulation/2/5)
 
-[^key-7b60698e626c1971e434e3f3b1206649]: Commencement: Reg. 4 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/567/regulation/1/1)
+[^c-7b60698e626c1971e434e3f3b1206649]: Commencement: Reg. 4 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/567/regulation/1/1)
 
-[^key-f0f96070bf71df1b154a613351ea6310]: Commencement: Reg. 5 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/567/regulation/1/1)
+[^c-f0f96070bf71df1b154a613351ea6310]: Commencement: Reg. 5 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/567/regulation/1/1)
 
-[^key-feb44f5d9bedd510609dff91429b5b8e]: Commencement: Reg. 6 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/567/regulation/1/1)
+[^c-feb44f5d9bedd510609dff91429b5b8e]: Commencement: Reg. 6 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/567/regulation/1/1)

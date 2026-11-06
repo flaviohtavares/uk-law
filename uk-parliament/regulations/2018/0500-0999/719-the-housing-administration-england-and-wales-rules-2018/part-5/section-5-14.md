@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.14. Estimate of value of debt[^key-652a614c8ed37dc5eb3f27e2b2f44622]
+## 5.14. Estimate of value of debt[^c-652a614c8ed37dc5eb3f27e2b2f44622]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-652a614c8ed37dc5eb3f27e2b2f44622]: Commencement: Rule 5.14 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-652a614c8ed37dc5eb3f27e2b2f44622]: Commencement: Rule 5.14 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

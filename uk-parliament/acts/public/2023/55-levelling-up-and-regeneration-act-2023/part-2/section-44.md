@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Power to amend list of alternative titles[^key-fed16ea2ac28fb70cffaa44c2d5126b6]
+## 44. Power to amend list of alternative titles[^c-fed16ea2ac28fb70cffaa44c2d5126b6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fed16ea2ac28fb70cffaa44c2d5126b6]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/55/section/44) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-fed16ea2ac28fb70cffaa44c2d5126b6]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/55/section/44) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

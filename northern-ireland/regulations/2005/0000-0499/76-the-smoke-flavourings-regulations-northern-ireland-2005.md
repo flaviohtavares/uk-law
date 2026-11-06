@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Smoke Flavourings Regulations (Northern Ireland) 2005 (revoked)[^key-d916752d29309b61c340d75a54b5a756]
+The Smoke Flavourings Regulations (Northern Ireland) 2005 (revoked)[^c-d916752d29309b61c340d75a54b5a756]
 
 Made
 
@@ -39,50 +39,50 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-d916752d29309b61c340d75a54b5a756]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d916752d29309b61c340d75a54b5a756]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d916752d29309b61c340d75a54b5a756]
+## 1. Citation and commencement[^c-d916752d29309b61c340d75a54b5a756]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d916752d29309b61c340d75a54b5a756]
+## 2. Interpretation[^c-d916752d29309b61c340d75a54b5a756]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Administration of Regulation 2065/2003[^key-d916752d29309b61c340d75a54b5a756]
+## 3. Administration of Regulation 2065/2003[^c-d916752d29309b61c340d75a54b5a756]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Condemnation of food[^key-d916752d29309b61c340d75a54b5a756]
+## 4. Condemnation of food[^c-d916752d29309b61c340d75a54b5a756]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-d916752d29309b61c340d75a54b5a756]
+## 5. Offences and penalties[^c-d916752d29309b61c340d75a54b5a756]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^key-d916752d29309b61c340d75a54b5a756]
+## 6. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^c-d916752d29309b61c340d75a54b5a756]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement[^key-d916752d29309b61c340d75a54b5a756]
+## 7. Enforcement[^c-d916752d29309b61c340d75a54b5a756]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d916752d29309b61c340d75a54b5a756]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d916752d29309b61c340d75a54b5a756]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SPECIFIED COMMUNITY PROVISIONS[^key-d916752d29309b61c340d75a54b5a756]
+## SCHEDULE — SPECIFIED COMMUNITY PROVISIONS[^c-d916752d29309b61c340d75a54b5a756]
 
 Regulations 2 and 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d916752d29309b61c340d75a54b5a756]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d916752d29309b61c340d75a54b5a756]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d916752d29309b61c340d75a54b5a756]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/76) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents Regulations (Northern Ireland) 2013 (S.R. 2013/220)](https://www.legislation.gov.uk/nisr/2013/220), [regs. 1](https://www.legislation.gov.uk/nisr/2013/220/regulation/1), [21](https://www.legislation.gov.uk/nisr/2013/220/regulation/21), [Sch. 6](https://www.legislation.gov.uk/nisr/2013/220/schedule/6)
+[^c-d916752d29309b61c340d75a54b5a756]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/76) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents Regulations (Northern Ireland) 2013 (S.R. 2013/220)](https://www.legislation.gov.uk/nisr/2013/220), [regs. 1](https://www.legislation.gov.uk/nisr/2013/220/regulation/1), [21](https://www.legislation.gov.uk/nisr/2013/220/regulation/21), [Sch. 6](https://www.legislation.gov.uk/nisr/2013/220/schedule/6)

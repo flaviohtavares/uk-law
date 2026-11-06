@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248E. Relief on disposal of joint interests in private residence[^key-486b2ef49ea7f18e34cbfef66ee55b81]
+## 248E. Relief on disposal of joint interests in private residence[^c-486b2ef49ea7f18e34cbfef66ee55b81]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 - (a) the dwelling-house in which the landowner acquires an interest becomes the only or main residence of the landowner, and
 - (b) each of the other dwelling-houses becomes the only or main residence of one (and only one) of the co-owners.
 
-(6) Condition E is that if each dwelling-house were disposed of immediately after the disposal (or disposals) mentioned in subsection (5) then by virtue of sections 222, 223 and 223B[^key-1c1b64ccb35ba984a0f80188000137b3] (private residences) no part of the gain accruing on each of those disposals would be a chargeable gain.
+(6) Condition E is that if each dwelling-house were disposed of immediately after the disposal (or disposals) mentioned in subsection (5) then by virtue of sections 222, 223 and 223B[^c-1c1b64ccb35ba984a0f80188000137b3] (private residences) no part of the gain accruing on each of those disposals would be a chargeable gain.
 
 (7) The landowner, on making a claim jointly with the co-owner or co-owners, shall be treated for the purposes of this Act—
 
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-486b2ef49ea7f18e34cbfef66ee55b81]: Textual amendment: Ss. 248A-248E and cross-heading inserted (with effect in accordance with art. 8(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2010/157/article/8/1)
+[^c-486b2ef49ea7f18e34cbfef66ee55b81]: Textual amendment: Ss. 248A-248E and cross-heading inserted (with effect in accordance with art. 8(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2010/157/article/8/1)
 
-[^key-1c1b64ccb35ba984a0f80188000137b3]: Textual amendment: Words in s. 248E(6) substituted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 24(8)](https://www.legislation.gov.uk/ukpga/2020/14/section/24/8)
+[^c-1c1b64ccb35ba984a0f80188000137b3]: Textual amendment: Words in s. 248E(6) substituted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 24(8)](https://www.legislation.gov.uk/ukpga/2020/14/section/24/8)
 
 [^M_F_5b8b14db-4446-4fb3-9879-55cccc05e410]: Textual amendment: S. 248E(9) inserted (6.4.2023 in relation to disposals made on or after that date) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 43(2)(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/43/2)

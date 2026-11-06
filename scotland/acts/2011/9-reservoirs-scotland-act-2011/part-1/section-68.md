@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Appointment by SEPA: engineers' reports, certificates, recommendations etc.[^key-f265b585a716f9679e168ac7c299cd32]
+## 68. Appointment by SEPA: engineers' reports, certificates, recommendations etc.[^c-f265b585a716f9679e168ac7c299cd32]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Where SEPA makes a relevant appointment under section 67, the following are to b
 
 ## Annotations
 
-[^key-f265b585a716f9679e168ac7c299cd32]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2011/9/section/68) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-f265b585a716f9679e168ac7c299cd32]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2011/9/section/68) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

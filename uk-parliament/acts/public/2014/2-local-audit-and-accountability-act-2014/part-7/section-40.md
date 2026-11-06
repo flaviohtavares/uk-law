@@ -58,13 +58,13 @@ summary: ''
 - (c) a London borough council,
 - (d) the London Assembly,
 - (e) the Common Council of the City of London in its capacity as a local authority or police authority,
-- (f)[^key-96971f8be2841be1aa501a6060e5f5bb] the London Fire Commissioner,
+- (f)[^c-96971f8be2841be1aa501a6060e5f5bb] the London Fire Commissioner,
 - (g) Transport for London,
-- (h)[^key-46b6ff962cdf35d868f6f1c5945ae93c] a joint authority established under Part 4 of the Local Government Act 1985,
+- (h)[^c-46b6ff962cdf35d868f6f1c5945ae93c] a joint authority established under Part 4 of the Local Government Act 1985,
 - (i) an economic prosperity board,
 - (j) a combined authority,
-- (ja)[^key-b3dc177ccf1eedfdf5f8a5f29e497bf6] a sub-national transport body,
-- (jb)[^key-eb9c50fb2fcbfc5ce7baaa569393ba8b] a combined county authority,
+- (ja)[^c-b3dc177ccf1eedfdf5f8a5f29e497bf6] a sub-national transport body,
+- (jb)[^c-eb9c50fb2fcbfc5ce7baaa569393ba8b] a combined county authority,
 - (k) a fire and rescue authority in England constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies,
 - (l) a National Park authority for a National Park in England,
 - (m) the Broads Authority,
@@ -84,10 +84,10 @@ summary: ''
 
 ## Annotations
 
-[^key-96971f8be2841be1aa501a6060e5f5bb]: Textual amendment: S. 40(6)(f) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 122(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/122/2); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-96971f8be2841be1aa501a6060e5f5bb]: Textual amendment: S. 40(6)(f) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 122(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/122/2); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
-[^key-46b6ff962cdf35d868f6f1c5945ae93c]: Modification: [S. 40(6)(h)](https://www.legislation.gov.uk/ukpga/2014/2/section/40/6/h) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(x)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/x) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+[^c-46b6ff962cdf35d868f6f1c5945ae93c]: Modification: [S. 40(6)(h)](https://www.legislation.gov.uk/ukpga/2014/2/section/40/6/h) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(x)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/x) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
-[^key-b3dc177ccf1eedfdf5f8a5f29e497bf6]: Textual amendment: S. 40(6)(ja) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 5 para. 37(2)](https://www.legislation.gov.uk/ukpga/2016/1/schedule/5/paragraph/37/2)
+[^c-b3dc177ccf1eedfdf5f8a5f29e497bf6]: Textual amendment: S. 40(6)(ja) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 5 para. 37(2)](https://www.legislation.gov.uk/ukpga/2016/1/schedule/5/paragraph/37/2)
 
-[^key-eb9c50fb2fcbfc5ce7baaa569393ba8b]: Textual amendment: [S. 40(6)(jb)](https://www.legislation.gov.uk/ukpga/2014/2/section/40/6/jb) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 200](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/200) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-eb9c50fb2fcbfc5ce7baaa569393ba8b]: Textual amendment: [S. 40(6)(jb)](https://www.legislation.gov.uk/ukpga/2014/2/section/40/6/jb) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 200](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/200) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

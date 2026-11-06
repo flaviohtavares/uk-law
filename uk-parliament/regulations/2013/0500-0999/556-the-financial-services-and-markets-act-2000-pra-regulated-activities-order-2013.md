@@ -55,9 +55,9 @@ The Treasury, in exercise of the powers conferred by sections 22A and 428(3) of 
 (3) In this Order —
 
 - “**the Act**” means the Financial Services and Markets Act 2000;
-- “[^key-40af72d9d3b7ed09a629bc96fb23c219]**controlled function**” has the meaning given by section 59(3) of the Financial Services and Markets Act 2000;
+- “[^c-40af72d9d3b7ed09a629bc96fb23c219]**controlled function**” has the meaning given by section 59(3) of the Financial Services and Markets Act 2000;
 - “**dealing in investments as principal**” means an activity of the kind specified by article 14(1) of the Regulated Activities Order [^c21691661];
-- “[^key-2faf8c49d692718c367e721858f82a03]**FCA controlled function**” means a controlled function specified in rules made by the FCA;
+- “[^c-2faf8c49d692718c367e721858f82a03]**FCA controlled function**” means a controlled function specified in rules made by the FCA;
 - “**PRA controlled function**” means a controlled function specified in rules made by the PRA;
 - “**the Regulated Activities Order**” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c21691671].
 
@@ -68,7 +68,7 @@ For the purposes of the Act, the following regulated activities are PRA-regulate
 - (a) the activity of accepting deposits as specified by article 5 of the Regulated Activities Order [^c21691681];
 - (b) the activity of effecting a contract of insurance as principal as specified by article 10(1) of the Regulated Activities Order;
 - (c) the activity of carrying out a contract of insurance as principal as specified by article 10(2) of the Regulated Activities Order;
-- (ca)[^key-172c92a8a8117cfebc76735b59da2c54] the activity carried out by a transformer vehicle when it assumes a risk from an undertaking, as specified by article 13A of the Regulated Activities Order;
+- (ca)[^c-172c92a8a8117cfebc76735b59da2c54] the activity carried out by a transformer vehicle when it assumes a risk from an undertaking, as specified by article 13A of the Regulated Activities Order;
 - (d) dealing in investments as principal where carried on by a person designated by the PRA under article 3 of this Order;
 - (e) the activity of managing the underwriting capacity of a Lloyd's syndicate as a managing agent at Lloyd's as specified by article 57 of the Regulated Activities Order;
 - (f) the activity of arranging, by the society incorporated by Lloyd's Act 1871 [^c21691691] by the name of Lloyd's, of deals in contracts of insurance written at Lloyd's as specified by article 58 of the Regulated Activities Order;
@@ -78,23 +78,23 @@ For the purposes of the Act, the following regulated activities are PRA-regulate
 
 (1) The PRA may designate a person (“P”) for the purposes of article 2(d) if—
 
-- (a) the condition in paragraph (2) is met in relation to P; and[^key-7b1974b47c63d2e1da1abdae937c3e2f]
-- (b)[^key-f0fcd9630de3c8f0c018468df3706e1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the condition in paragraph (2) is met in relation to P; and[^c-7b1974b47c63d2e1da1abdae937c3e2f]
+- (b)[^c-f0fcd9630de3c8f0c018468df3706e1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) having regard to the objectives of the PRA and to the matters mentioned in paragraph (4), the PRA considers that it is desirable that the activity of dealing in investments as principal, when carried on by P, should be a PRA-regulated activity.
 
 (2) The condition in this paragraph is that P—
 
-- (a) is an authorised person with permission to carry on the activity of dealing in investments as principal; or[^key-c3319b6ec22dc667141416836d826fea]
-- (b) is a person who has applied for Part 4A permission to carry on that activity; [^key-152ddac09503890aa2a6646041ee9ca6]...
-- [^key-152ddac09503890aa2a6646041ee9ca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is an authorised person with permission to carry on the activity of dealing in investments as principal; or[^c-c3319b6ec22dc667141416836d826fea]
+- (b) is a person who has applied for Part 4A permission to carry on that activity; [^c-152ddac09503890aa2a6646041ee9ca6]...
+- [^c-152ddac09503890aa2a6646041ee9ca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-59767c757a2b2ef955719ef649143c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-59767c757a2b2ef955719ef649143c8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-1afd3fdbfcf786618f3a04db266831ca] The matters specified in this paragraph are—
+(4)[^c-1afd3fdbfcf786618f3a04db266831ca] The matters specified in this paragraph are—
 
 - (a) the assets of P;
 - (b) where P is a member of a group—
-  - (i) the assets of the members of that group who satisfy the condition in paragraph (2)[^key-f364093702be5bc48d3fc37973c81c71] (regardless of whether they have been designated under this article);
+  - (i) the assets of the members of that group who satisfy the condition in paragraph (2)[^c-f364093702be5bc48d3fc37973c81c71] (regardless of whether they have been designated under this article);
   - (ii) whether a person who has been designated under this article is a member of P's group;
   - (iii) whether P's activities have, or might have, a material impact on the ability of the PRA to advance any of its objectives in relation to PRA-authorised persons in the group.
 
@@ -192,7 +192,7 @@ A designation under article 3 in relation to a person (“P”) ceases to have e
 (1) Before issuing a statement of policy under article 8, the PRA—
 
 - (a) must consult the FCA;
-- (b)[^key-80ba856c48e726221d86728defd89701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-80ba856c48e726221d86728defd89701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) may consult the Financial Policy Committee of the Bank of England; and
 - (d) must publish a draft of the proposed statement in the way appearing to the PRA to be best calculated to bring it to the attention of the public.
 
@@ -207,7 +207,7 @@ A designation under article 3 in relation to a person (“P”) ceases to have e
 
 (5) If the statement differs from the draft published under paragraph (1)(d) in a way which is, in the opinion of the PRA, significant, the PRA must—
 
-- (a) before issuing it, consult the FCA [^key-6d2a74069c531a8db393f80e3a33241a]... again; and
+- (a) before issuing it, consult the FCA [^c-6d2a74069c531a8db393f80e3a33241a]... again; and
 - (b) publish details of the difference (in addition to complying with paragraph (4)).
 
 (6) This article also applies to a proposal to alter or replace a statement.
@@ -215,7 +215,7 @@ A designation under article 3 in relation to a person (“P”) ceases to have e
 (7) In its application to the first statement of policy issued by the PRA under article 8—
 
 - (a) references in paragraphs (1) to (5) to the PRA are to be read as references to the Bank of England and the Financial Services Authority, acting together**;**
-- (b) paragraph (1)(a) and[^key-633379677e79712ef05800741d0576d2] (c) and paragraph (5)(a) do not apply; and
+- (b) paragraph (1)(a) and[^c-633379677e79712ef05800741d0576d2] (c) and paragraph (5)(a) do not apply; and
 - (c) it is immaterial whether the consultation required under this article took place prior to the date on which this article comes into force.
 
 ## 10. Transitional provisions where an authorised person becomes a PRA-authorised person
@@ -230,7 +230,7 @@ A designation under article 3 in relation to a person (“P”) ceases to have e
 
 (5) A requirement imposed by the FCA under section 55L or 196 of the Act is to be treated, from the effective date, as imposed by the PRA.
 
-(6)[^key-e3e056a3d517d4af219e465ad9a95a6f]  Where—
+(6)[^c-e3e056a3d517d4af219e465ad9a95a6f]  Where—
 
 - (a) approval is given to a person by the FCA under section 59 of the Act in relation to PRA AP for the performance of an FCA controlled function, and
 - (b) that approval is given before the effective date,
@@ -251,7 +251,7 @@ that approval is to be treated from the effective date as approval given by the 
 
 (5) A requirement imposed by the PRA under section 55M or 196 of the Act is to be treated, from the effective date, as imposed by the FCA.
 
-(6)[^key-a1cdb01820bbacb2ecb5d0a2966a6cdc]  Where—
+(6)[^c-a1cdb01820bbacb2ecb5d0a2966a6cdc]  Where—
 
 - (a) approval is given to a person by the PRA under section 59 of the Act in relation to AP for the performance of a PRA controlled function, and
 - (b) that approval is given before the effective date,
@@ -294,44 +294,44 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^c21691651]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 22B inserted, with section 22A, by section 9 of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-40af72d9d3b7ed09a629bc96fb23c219]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/556/article/1/3) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/2/a)
+[^c-40af72d9d3b7ed09a629bc96fb23c219]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/556/article/1/3) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/2/a)
 
 [^c21691661]: Marginal citation: Amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384).
 
-[^key-2faf8c49d692718c367e721858f82a03]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/556/article/1/3) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/2/b)
+[^c-2faf8c49d692718c367e721858f82a03]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/556/article/1/3) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/2/b)
 
 [^c21691671]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
 [^c21691681]: Marginal citation: Amended by [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682).
 
-[^key-172c92a8a8117cfebc76735b59da2c54]: Textual amendment: [Art. 2(ca)](https://www.legislation.gov.uk/uksi/2013/556/article/2/ca) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2017/1212/regulation/6)
+[^c-172c92a8a8117cfebc76735b59da2c54]: Textual amendment: [Art. 2(ca)](https://www.legislation.gov.uk/uksi/2013/556/article/2/ca) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2017/1212/regulation/6)
 
 [^c21691691]: Marginal citation: 34 Vict c xxi.
 
-[^key-7b1974b47c63d2e1da1abdae937c3e2f]: Textual amendment: Word in [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2013/556/article/3/1/a) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(3)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/3/a)
+[^c-7b1974b47c63d2e1da1abdae937c3e2f]: Textual amendment: Word in [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2013/556/article/3/1/a) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(3)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/3/a)
 
-[^key-f0fcd9630de3c8f0c018468df3706e1f]: Textual amendment: [Art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2013/556/article/3/1/b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(3)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/3/b)
+[^c-f0fcd9630de3c8f0c018468df3706e1f]: Textual amendment: [Art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2013/556/article/3/1/b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(3)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/3/b)
 
-[^key-c3319b6ec22dc667141416836d826fea]: Textual amendment: Word in [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2013/556/article/3/2/a) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [189(2)(a)](https://www.legislation.gov.uk/uksi/2019/632/regulation/189/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3319b6ec22dc667141416836d826fea]: Textual amendment: Word in [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2013/556/article/3/2/a) inserted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [189(2)(a)](https://www.legislation.gov.uk/uksi/2019/632/regulation/189/2/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-152ddac09503890aa2a6646041ee9ca6]: Textual amendment: [Art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2013/556/article/3/2/c) and word omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [189(2)(b)](https://www.legislation.gov.uk/uksi/2019/632/regulation/189/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-152ddac09503890aa2a6646041ee9ca6]: Textual amendment: [Art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2013/556/article/3/2/c) and word omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [189(2)(b)](https://www.legislation.gov.uk/uksi/2019/632/regulation/189/2/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59767c757a2b2ef955719ef649143c8a]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2013/556/article/3/3) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(3)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/3/c)
+[^c-59767c757a2b2ef955719ef649143c8a]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2013/556/article/3/3) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(3)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/3/c)
 
-[^key-1afd3fdbfcf786618f3a04db266831ca]: Textual amendment: Art. 3(3)(a) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 78](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/78)
+[^c-1afd3fdbfcf786618f3a04db266831ca]: Textual amendment: Art. 3(3)(a) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 78](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/78)
 
-[^key-f364093702be5bc48d3fc37973c81c71]: Textual amendment: Words in [art. 3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/556/article/3/4/b/i) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(3)(d)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/3/d)
+[^c-f364093702be5bc48d3fc37973c81c71]: Textual amendment: Words in [art. 3(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/556/article/3/4/b/i) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(3)(d)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/3/d)
 
-[^key-80ba856c48e726221d86728defd89701]: Textual amendment: [Art. 9(1)(b)](https://www.legislation.gov.uk/uksi/2013/556/article/9/1/b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(4)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/4/a)
+[^c-80ba856c48e726221d86728defd89701]: Textual amendment: [Art. 9(1)(b)](https://www.legislation.gov.uk/uksi/2013/556/article/9/1/b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(4)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/4/a)
 
-[^key-6d2a74069c531a8db393f80e3a33241a]: Textual amendment: Words in [art. 9(5)(a)](https://www.legislation.gov.uk/uksi/2013/556/article/9/5/a) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(4)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/4/b)
+[^c-6d2a74069c531a8db393f80e3a33241a]: Textual amendment: Words in [art. 9(5)(a)](https://www.legislation.gov.uk/uksi/2013/556/article/9/5/a) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(4)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/4/b)
 
-[^key-633379677e79712ef05800741d0576d2]: Textual amendment: Word in [art. 9(7)(b)](https://www.legislation.gov.uk/uksi/2013/556/article/9/7/b) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(4)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/4/c)
+[^c-633379677e79712ef05800741d0576d2]: Textual amendment: Word in [art. 9(7)(b)](https://www.legislation.gov.uk/uksi/2013/556/article/9/7/b) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(4)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/4/c)
 
 [^c21691711]: Marginal citation: [Section 55L](https://www.legislation.gov.uk/uksi/2013/556/section/55L) inserted by section 11 of the Financial Services Act 2012; [section 196](https://www.legislation.gov.uk/uksi/2013/556/section/196) substituted by paragraph 36 of Schedule 4 to that Act.
 
 [^c21691721]: Marginal citation: [Sections 192A to 192M](https://www.legislation.gov.uk/uksi/2013/556/section/192A) inserted by section 27 of the Financial Services Act 2012.
 
-[^key-e3e056a3d517d4af219e465ad9a95a6f]: Textual amendment: [Art. 10(6)](https://www.legislation.gov.uk/uksi/2013/556/article/10/6) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(5)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/5)
+[^c-e3e056a3d517d4af219e465ad9a95a6f]: Textual amendment: [Art. 10(6)](https://www.legislation.gov.uk/uksi/2013/556/article/10/6) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(5)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/5)
 
-[^key-a1cdb01820bbacb2ecb5d0a2966a6cdc]: Textual amendment: [Art. 11(6)](https://www.legislation.gov.uk/uksi/2013/556/article/11/6) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(6)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/6)
+[^c-a1cdb01820bbacb2ecb5d0a2966a6cdc]: Textual amendment: [Art. 11(6)](https://www.legislation.gov.uk/uksi/2013/556/article/11/6) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [15(6)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/15/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72C. Appeals in relation to a decision notice under section 72B[^key-735446c57a0d35293499460c16b9598c]
+## 72C. Appeals in relation to a decision notice under section 72B[^c-735446c57a0d35293499460c16b9598c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-735446c57a0d35293499460c16b9598c]: Textual amendment: [Ss. 72A-72C](https://www.legislation.gov.uk/ukpga/2004/12/section/72A) inserted (with effect from 6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 220(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/220/5), [222(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/222/1)
+[^c-735446c57a0d35293499460c16b9598c]: Textual amendment: [Ss. 72A-72C](https://www.legislation.gov.uk/ukpga/2004/12/section/72A) inserted (with effect from 6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 220(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/220/5), [222(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/222/1)

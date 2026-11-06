@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13D. Determination of a maximum rent (LHA)[^key-43084bd6ff4d83ceb973fff661a73bd6]
+## 13D. Determination of a maximum rent (LHA)[^c-43084bd6ff4d83ceb973fff661a73bd6]
 
 *Extent: E+W+S*
 
@@ -29,32 +29,32 @@ summary: ''
 
 - (a) the category specified in paragraph 1(1)(a) of Schedule 3B to the Rent Officers Order (one bedroom shared accommodation) where—
   - (i) the claimant is a young individual who has no non-dependant residing with him and to whom paragraph 14 of Schedule 3 (severe disability premium) does not apply; or
-  - (ii) paragraph (b) does not apply because neither sub-paragraph (b)(i) nor (ii) are satisfied in the claimant’s case and neither the claimant nor his partner (where he has one) is a person to whom paragraph 14 of Schedule 3 (severe disability premium) applies, or to whom the circumstances in any of paragraphs (b) to (f) or (i)[^key-f98cb549616fdd136de346e5d89a3016] of the definition of young individual applies (certain care leavers);
-- (b) except where paragraph (a)(i) applies, the category specified in paragraph 1(1)(b) of Schedule 3B to the Rent Officers Order (one bedroom self-contained accommodation) where that applies in the claimant’s case at the relevant date in accordance with the size criteria as set out in paragraph (3)[^key-7c999f031ac4bfadb5803c1ecb2a7e3a] and—
+  - (ii) paragraph (b) does not apply because neither sub-paragraph (b)(i) nor (ii) are satisfied in the claimant’s case and neither the claimant nor his partner (where he has one) is a person to whom paragraph 14 of Schedule 3 (severe disability premium) applies, or to whom the circumstances in any of paragraphs (b) to (f) or (i)[^c-f98cb549616fdd136de346e5d89a3016] of the definition of young individual applies (certain care leavers);
+- (b) except where paragraph (a)(i) applies, the category specified in paragraph 1(1)(b) of Schedule 3B to the Rent Officers Order (one bedroom self-contained accommodation) where that applies in the claimant’s case at the relevant date in accordance with the size criteria as set out in paragraph (3)[^c-7c999f031ac4bfadb5803c1ecb2a7e3a] and—
   - (i) the claimant (together with his partner where he has one) has the exclusive use of two or more rooms; or
   - (ii) the claimant (together with his partner where he has one) has the exclusive use of one room, a bathroom and toilet and a kitchen or facilities for cooking,
 
   and in this sub-paragraph “room” means a bedroom or room suitable for living in except for a room which the claimant shares with any person other than a member of his household, a non-dependant of his, or a person who pays rent to him or his partner;
-- (c) in any other case, the category which corresponds with the number of bedrooms to which the claimant is entitled in accordance with paragraphs (3) to (3B)[^key-492b00870cc801369d8dc3921839aec4] up to a maximum of four[^key-cee0dd91a5b9cef724e1f3235105c612] bedrooms.
+- (c) in any other case, the category which corresponds with the number of bedrooms to which the claimant is entitled in accordance with paragraphs (3) to (3B)[^c-492b00870cc801369d8dc3921839aec4] up to a maximum of four[^c-cee0dd91a5b9cef724e1f3235105c612] bedrooms.
 
 (3) The claimant shall be entitled to one bedroom for each of the following categories of occupier (and each occupier shall come within the first category only which applies to him)—
 
-- (za)[^key-de1bf92d4969260455258002367c24e3] a member of a couple who cannot share a bedroom;
+- (za)[^c-de1bf92d4969260455258002367c24e3] a member of a couple who cannot share a bedroom;
 - (zb) a member of a couple who can share a bedroom;
-- (a) a couple[^key-80b62d3a309fda35c68f11796e8597eb]...;
+- (a) a couple[^c-80b62d3a309fda35c68f11796e8597eb]...;
 - (b) a person who is not a child;
-- (ba)[^key-12dbe9335e0f714c1ecb5c9048839dda] a child who cannot share a bedroom or a member of a couple who cannot share a bedroom[^key-b5bd1fa4287094b03be6c2b125f4f278];
+- (ba)[^c-12dbe9335e0f714c1ecb5c9048839dda] a child who cannot share a bedroom or a member of a couple who cannot share a bedroom[^c-b5bd1fa4287094b03be6c2b125f4f278];
 - (c) two children of the same sex;
 - (d) two children who are less than 10 years old;
 - (e) a child.
 
-but the claimant is only entitled to a bedroom in respect of a child who cannot share a bedroom if there is a bedroom in the dwelling occupied as the home that is additional to those to which the claimant would be entitled if the child[^key-9032bf4a455cafc0771f2f18b6b29a07] or the member of the couple[^key-93bb8801b22ff9070d85b0f51a7a39ac] were able to share a bedroom.
+but the claimant is only entitled to a bedroom in respect of a child who cannot share a bedroom if there is a bedroom in the dwelling occupied as the home that is additional to those to which the claimant would be entitled if the child[^c-9032bf4a455cafc0771f2f18b6b29a07] or the member of the couple[^c-93bb8801b22ff9070d85b0f51a7a39ac] were able to share a bedroom.
 
-[^key-41db3aa305d9f334f6be6738cb5d9f3a]...
+[^c-41db3aa305d9f334f6be6738cb5d9f3a]...
 
-(3A)[^key-c7631f7df26a79b147c9ea20be8cd5f2] The claimant is entitled to one additional bedroom in any case where—
+(3A)[^c-c7631f7df26a79b147c9ea20be8cd5f2] The claimant is entitled to one additional bedroom in any case where—
 
-- (a)[^key-4cab1d52d342a17e6ecab9be18dbb5e7] one or more of the following persons is a person who requires overnight care—
+- (a)[^c-4cab1d52d342a17e6ecab9be18dbb5e7] one or more of the following persons is a person who requires overnight care—
   - (i) the claimant;
   - (ii) the claimant’s partner;
   - (iii) a person (other than the claimant or the claimant’s partner) who occupies the claimant’s dwelling as their home;
@@ -68,15 +68,15 @@ but the claimant is only entitled to a bedroom in respect of a child who cannot 
 - (a) the cap rent (in accordance with the definition in paragraph (12)); and
 - (b) whether the cap rent exceeds the applicable local housing allowance.
 
-(5)[^key-7f1b94bc92a339b563163cb4237f216f] Where the applicable local housing allowance exceeds the cap rent, the maximum rent (LHA) shall be the cap rent.
+(5)[^c-7f1b94bc92a339b563163cb4237f216f] Where the applicable local housing allowance exceeds the cap rent, the maximum rent (LHA) shall be the cap rent.
 
-(6)[^key-d59f3c1d45f3af231eea8385bf5d7490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d59f3c1d45f3af231eea8385bf5d7490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-c3d9713d53aeb454ec0cbb9cb74ee6f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c3d9713d53aeb454ec0cbb9cb74ee6f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-a1b2aeac08a31df858e87674b4cef69b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-a1b2aeac08a31df858e87674b4cef69b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-5e06cf3ec539243caebcc806eea221d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-5e06cf3ec539243caebcc806eea221d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) The relevant authority shall apply to the rent officer for a board and attendance determination to be made in accordance with article 4C of the Rent Officers Order where—
 
@@ -88,7 +88,7 @@ but the claimant is only entitled to a bedroom in respect of a child who cannot 
 (12) In this regulation—
 
 - “cap rent” means the aggregate of such payments specified in regulation 12(1) (rent) which the claimant is liable to pay, or is treated as liable to pay by virtue of regulation 8 (circumstances in which a person is treated as liable to make payments in respect of a dwelling), subject to regulation 12B(3) (mixed use accommodation), (4) (more than one person liable to make payments) and (6) (discretion in relation to eligible rent);
-- “occupiers” means—[^key-a616b00974c65fc1cc9e7edcecfb71b2]
+- “occupiers” means—[^c-a616b00974c65fc1cc9e7edcecfb71b2]
   - (a) the persons whom the relevant authority is satisfied occupy as their home the dwelling to which the claim or award relates except for any joint tenant who is not a member of the claimant’s household; and
   - (b) any member of the armed forces away on operations who—
     - (i) is the son, daughter, step-son or step-daughter of the claimant or the claimant’s partner;
@@ -106,42 +106,42 @@ but the claimant is only entitled to a bedroom in respect of a child who cannot 
 
 ## Annotations
 
-[^key-43084bd6ff4d83ceb973fff661a73bd6]: Textual amendment: Regs. 13C-13E inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2007/2868/regulation/7) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
+[^c-43084bd6ff4d83ceb973fff661a73bd6]: Textual amendment: Regs. 13C-13E inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2007/2868/regulation/7) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
 
-[^key-f98cb549616fdd136de346e5d89a3016]: Textual amendment: Words in reg. 13D(2)(a)(ii) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 23(3)](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/23/3)
+[^c-f98cb549616fdd136de346e5d89a3016]: Textual amendment: Words in reg. 13D(2)(a)(ii) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 23(3)](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/23/3)
 
-[^key-7c999f031ac4bfadb5803c1ecb2a7e3a]: Textual amendment: Words in reg. 13D(2)(b) inserted by SI 2007/2868 reg. 7 (as amended) (7.4.2008) by [The Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2008/586/regulation/4/4/b)
+[^c-7c999f031ac4bfadb5803c1ecb2a7e3a]: Textual amendment: Words in reg. 13D(2)(b) inserted by SI 2007/2868 reg. 7 (as amended) (7.4.2008) by [The Housing Benefit (Local Housing Allowance, Information Sharing and Miscellaneous) Amendment Regulations 2008 (S.I. 2008/586)](https://www.legislation.gov.uk/uksi/2008/586), [regs. 1](https://www.legislation.gov.uk/uksi/2008/586/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2008/586/regulation/4/4/b)
 
-[^key-492b00870cc801369d8dc3921839aec4]: Textual amendment: Words in reg. 13D(2)(c) substituted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/665/regulation/2/4/a)
+[^c-492b00870cc801369d8dc3921839aec4]: Textual amendment: Words in reg. 13D(2)(c) substituted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/665/regulation/2/4/a)
 
-[^key-cee0dd91a5b9cef724e1f3235105c612]: Textual amendment: Words in reg. 13D(2)(c) substituted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/6/a)
+[^c-cee0dd91a5b9cef724e1f3235105c612]: Textual amendment: Words in reg. 13D(2)(c) substituted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/6/a)
 
-[^key-de1bf92d4969260455258002367c24e3]: Textual amendment: Reg. 13D(3)(za)(zb) inserted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [4(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/a/i)
+[^c-de1bf92d4969260455258002367c24e3]: Textual amendment: Reg. 13D(3)(za)(zb) inserted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [4(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/a/i)
 
-[^key-80b62d3a309fda35c68f11796e8597eb]: Textual amendment: Words in reg. 13D(3)(a) omitted (1.4.2017) by virtue of [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/a/ii)
+[^c-80b62d3a309fda35c68f11796e8597eb]: Textual amendment: Words in reg. 13D(3)(a) omitted (1.4.2017) by virtue of [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/a/ii)
 
-[^key-12dbe9335e0f714c1ecb5c9048839dda]: Textual amendment: Reg. 13D(3)(ba) inserted (4.12.2013) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2828)](https://www.legislation.gov.uk/uksi/2013/2828), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2828/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/2828/regulation/2/4/a)
+[^c-12dbe9335e0f714c1ecb5c9048839dda]: Textual amendment: Reg. 13D(3)(ba) inserted (4.12.2013) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2828)](https://www.legislation.gov.uk/uksi/2013/2828), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2828/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/2828/regulation/2/4/a)
 
-[^key-b5bd1fa4287094b03be6c2b125f4f278]: Textual amendment: Words in reg. 13D(3) inserted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [4(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/a/iii)[(aa)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/aa)
+[^c-b5bd1fa4287094b03be6c2b125f4f278]: Textual amendment: Words in reg. 13D(3) inserted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [4(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/a/iii)[(aa)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/aa)
 
-[^key-9032bf4a455cafc0771f2f18b6b29a07]: Textual amendment: Words in reg. 13D(3)(e) added (4.12.2013) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2828)](https://www.legislation.gov.uk/uksi/2013/2828), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2828/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2013/2828/regulation/2/4/b)
+[^c-9032bf4a455cafc0771f2f18b6b29a07]: Textual amendment: Words in reg. 13D(3)(e) added (4.12.2013) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2828)](https://www.legislation.gov.uk/uksi/2013/2828), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2828/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2013/2828/regulation/2/4/b)
 
-[^key-93bb8801b22ff9070d85b0f51a7a39ac]: Textual amendment: Words in reg. 13D(3) inserted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [4(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/a/iii)[(bb)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/bb)
+[^c-93bb8801b22ff9070d85b0f51a7a39ac]: Textual amendment: Words in reg. 13D(3) inserted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [4(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/a/iii)[(bb)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/bb)
 
-[^key-41db3aa305d9f334f6be6738cb5d9f3a]: Textual amendment: Words in reg. 13D(3) omitted (1.4.2013) by virtue of [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2013/665/regulation/2/4/b)
+[^c-41db3aa305d9f334f6be6738cb5d9f3a]: Textual amendment: Words in reg. 13D(3) omitted (1.4.2013) by virtue of [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2013/665/regulation/2/4/b)
 
-[^key-c7631f7df26a79b147c9ea20be8cd5f2]: Textual amendment: Reg. 13D(3A)(3B) added (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2013/665/regulation/2/4/c)
+[^c-c7631f7df26a79b147c9ea20be8cd5f2]: Textual amendment: Reg. 13D(3A)(3B) added (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2013/665/regulation/2/4/c)
 
-[^key-4cab1d52d342a17e6ecab9be18dbb5e7]: Textual amendment: Reg. 13D(3A)(a) substituted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/b)
+[^c-4cab1d52d342a17e6ecab9be18dbb5e7]: Textual amendment: Reg. 13D(3A)(a) substituted (1.4.2017) by [The Housing Benefit and Universal Credit (Size Criteria) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/213)](https://www.legislation.gov.uk/uksi/2017/213), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/213/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2017/213/regulation/4/4/b)
 
-[^key-7f1b94bc92a339b563163cb4237f216f]: Textual amendment: Reg. 13D(5) substituted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/6/c)
+[^c-7f1b94bc92a339b563163cb4237f216f]: Textual amendment: Reg. 13D(5) substituted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/6/c)
 
-[^key-d59f3c1d45f3af231eea8385bf5d7490]: Textual amendment: Reg. 13D(6) omitted (1.4.2011) by virtue of [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/6/d)
+[^c-d59f3c1d45f3af231eea8385bf5d7490]: Textual amendment: Reg. 13D(6) omitted (1.4.2011) by virtue of [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/6/d)
 
-[^key-c3d9713d53aeb454ec0cbb9cb74ee6f3]: Textual amendment: Reg. 13D(7) omitted (6.4.2009) by virtue of [The Housing Benefit (Amendment) Regulations 2009 (S.I. 2009/614)](https://www.legislation.gov.uk/uksi/2009/614), [regs. 1](https://www.legislation.gov.uk/uksi/2009/614/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2009/614/regulation/2/3/b)
+[^c-c3d9713d53aeb454ec0cbb9cb74ee6f3]: Textual amendment: Reg. 13D(7) omitted (6.4.2009) by virtue of [The Housing Benefit (Amendment) Regulations 2009 (S.I. 2009/614)](https://www.legislation.gov.uk/uksi/2009/614), [regs. 1](https://www.legislation.gov.uk/uksi/2009/614/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2009/614/regulation/2/3/b)
 
-[^key-a1b2aeac08a31df858e87674b4cef69b]: Textual amendment: Reg. 13D(8) omitted (1.4.2011) by virtue of [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/6/d)
+[^c-a1b2aeac08a31df858e87674b4cef69b]: Textual amendment: Reg. 13D(8) omitted (1.4.2011) by virtue of [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/6/d)
 
-[^key-5e06cf3ec539243caebcc806eea221d8]: Textual amendment: Reg. 13D(9) omitted (1.4.2011) by virtue of [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/6/d)
+[^c-5e06cf3ec539243caebcc806eea221d8]: Textual amendment: Reg. 13D(9) omitted (1.4.2011) by virtue of [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/6/d)
 
-[^key-a616b00974c65fc1cc9e7edcecfb71b2]: Textual amendment: Words in reg. 13D(12) substituted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2013/665/regulation/2/4/d)
+[^c-a616b00974c65fc1cc9e7edcecfb71b2]: Textual amendment: Words in reg. 13D(12) substituted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2013 (S.I. 2013/665)](https://www.legislation.gov.uk/uksi/2013/665), [regs. 1](https://www.legislation.gov.uk/uksi/2013/665/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2013/665/regulation/2/4/d)

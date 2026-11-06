@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Exception for statutory authority[^key-1860145b42d5ec6b7e9de90f24a7892a]
+## 28. Exception for statutory authority[^c-1860145b42d5ec6b7e9de90f24a7892a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Nothing in Part 2 or 3 shall render unlawful any act done in order to comply wit
 
 ## Annotations
 
-[^key-1860145b42d5ec6b7e9de90f24a7892a]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/261/regulation/28) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-1860145b42d5ec6b7e9de90f24a7892a]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/261/regulation/28) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

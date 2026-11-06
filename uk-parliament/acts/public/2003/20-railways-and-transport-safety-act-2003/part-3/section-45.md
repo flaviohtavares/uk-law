@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Regulation of procedure and practice[^key-cecce826b4780f30b8e70099708e09d4]
+## 45. Regulation of procedure and practice[^c-cecce826b4780f30b8e70099708e09d4]
 
 *Extent: E+W+S*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) For the purpose of regulations made by virtue of this section, section 53A shall have effect as if—
 
-- (a)[^key-10356f1ff6f8544ff822c29431a8867e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-10356f1ff6f8544ff822c29431a8867e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a reference to chief officers of police included a reference to the Chief Constable, and
 - (c) a reference to a police force included a reference to the Police Force.
 
 ## Annotations
 
-[^key-cecce826b4780f30b8e70099708e09d4]: Commencement: S. 45 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/bb)
+[^c-cecce826b4780f30b8e70099708e09d4]: Commencement: S. 45 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/bb)
 
-[^key-10356f1ff6f8544ff822c29431a8867e]: Textual amendment: [S. 45(2)(a)](https://www.legislation.gov.uk/ukpga/2003/20/section/45/2/a) omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 325](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/325); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-10356f1ff6f8544ff822c29431a8867e]: Textual amendment: [S. 45(2)(a)](https://www.legislation.gov.uk/ukpga/2003/20/section/45/2/a) omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 325](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/325); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

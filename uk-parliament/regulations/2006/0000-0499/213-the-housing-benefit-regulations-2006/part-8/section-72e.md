@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72E. Calculation of an extended payment where the benefit cap applies[^key-aa3d6cb0c39ae95dd2801f7ccc4f12b0]
+## 72E. Calculation of an extended payment where the benefit cap applies[^c-aa3d6cb0c39ae95dd2801f7ccc4f12b0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a claimant’s housing benefit in the benefit week with respect to which t
 
 ## Annotations
 
-[^key-aa3d6cb0c39ae95dd2801f7ccc4f12b0]: Textual amendment: Reg. 72E inserted (15.4.2013) by [The Benefit Cap (Housing Benefit) Regulations 2012 (S.I. 2012/2994)](https://www.legislation.gov.uk/uksi/2012/2994), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2994/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2994/regulation/2/3)
+[^c-aa3d6cb0c39ae95dd2801f7ccc4f12b0]: Textual amendment: Reg. 72E inserted (15.4.2013) by [The Benefit Cap (Housing Benefit) Regulations 2012 (S.I. 2012/2994)](https://www.legislation.gov.uk/uksi/2012/2994), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2994/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2994/regulation/2/3)

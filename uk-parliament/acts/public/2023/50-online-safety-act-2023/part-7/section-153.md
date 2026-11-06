@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Functions of the Content Board[^key-54222f3ac20d8aa6ee692844b3e9ca15][^key-b0c6843255cbe62737d17da032b7d87b]
+## 153. Functions of the Content Board[^c-54222f3ac20d8aa6ee692844b3e9ca15][^c-b0c6843255cbe62737d17da032b7d87b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54222f3ac20d8aa6ee692844b3e9ca15]: Commencement: S. 153 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-54222f3ac20d8aa6ee692844b3e9ca15]: Commencement: S. 153 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-b0c6843255cbe62737d17da032b7d87b]: Commencement: S. 153 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-b0c6843255cbe62737d17da032b7d87b]: Commencement: S. 153 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)

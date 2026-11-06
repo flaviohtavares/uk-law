@@ -31,12 +31,12 @@ summary: ''
 (5) A local planning authority shall give notice of the designation of any part of their area as a conservation area under section 69(1) or (2) and of any variation or cancellation of any such designation—
 
 - (a) to the Secretary of State; and
-- (b) if [^key-822da14a11a5098ad7a0bc49ba742a45]... the designation or, as the case may be, the variation or cancellation was not made by the Commission, to the Commission.
+- (b) if [^c-822da14a11a5098ad7a0bc49ba742a45]... the designation or, as the case may be, the variation or cancellation was not made by the Commission, to the Commission.
 
 (6) The Secretary of State shall give notice of the designation of any part of the area of a local planning authority as a conservation area under section 69(3) and of any variation or cancellation of any such designation—
 
 - (a) to the authority; and
-- (b) [^key-5ef98d85abcd2210230019d40e787a98]... to the Commission.
+- (b) [^c-5ef98d85abcd2210230019d40e787a98]... to the Commission.
 
 (7) A notice under subsection (5) or (6) shall contain sufficient particulars to identify the area affected.
 
@@ -46,6 +46,6 @@ summary: ''
 
 [^c12917761]: Modification: Chs. I, II (ss. 1-26) and IV (ss. 38-44) of Pt. I, ss. 54-56, 59-61, 66, 68-72, 74-76 and 88: power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(4)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/b); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3).
 
-[^key-822da14a11a5098ad7a0bc49ba742a45]: Textual amendment: Words in [s. 70(5)(b)](https://www.legislation.gov.uk/ukpga/1990/9/section/70/5/b) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 137(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/137/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-822da14a11a5098ad7a0bc49ba742a45]: Textual amendment: Words in [s. 70(5)(b)](https://www.legislation.gov.uk/ukpga/1990/9/section/70/5/b) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 137(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/137/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-5ef98d85abcd2210230019d40e787a98]: Textual amendment: Words in [s. 70(6)(b)](https://www.legislation.gov.uk/ukpga/1990/9/section/70/6/b) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 137(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/137/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-5ef98d85abcd2210230019d40e787a98]: Textual amendment: Words in [s. 70(6)(b)](https://www.legislation.gov.uk/ukpga/1990/9/section/70/6/b) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 137(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/137/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Accessibility of certain documents[^key-8fb931536bbfd195248542290e581dc5]
+## 138. Accessibility of certain documents[^c-8fb931536bbfd195248542290e581dc5]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fb931536bbfd195248542290e581dc5]: Commencement: Art. 138 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8fb931536bbfd195248542290e581dc5]: Commencement: Art. 138 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

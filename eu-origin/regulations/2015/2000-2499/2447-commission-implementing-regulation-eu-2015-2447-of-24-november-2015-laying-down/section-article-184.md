@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 184. Obligations to inform relating to the provision of particulars of the entry summary declaration by persons other than the carrier (Article 127(6) of the Code)[^key-859f3574e9514ef0101a388734367dbd]
+## Article 184. Obligations to inform relating to the provision of particulars of the entry summary declaration by persons other than the carrier (Article 127(6) of the Code)[^c-859f3574e9514ef0101a388734367dbd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-859f3574e9514ef0101a388734367dbd]: Textual amendment: [Art. 184](https://www.legislation.gov.uk/eur/2015/2447/article/184) revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-859f3574e9514ef0101a388734367dbd]: Textual amendment: [Art. 184](https://www.legislation.gov.uk/eur/2015/2447/article/184) revoked (31.12.2020) by [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

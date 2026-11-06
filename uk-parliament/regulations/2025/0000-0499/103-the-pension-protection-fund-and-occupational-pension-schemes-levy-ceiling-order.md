@@ -32,7 +32,7 @@ summary: ''
 
 PENSIONS
 
-The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2025 (revoked)[^key-434b13146c078db4cd04ae4c0fcf7a41]
+The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2025 (revoked)[^c-434b13146c078db4cd04ae4c0fcf7a41]
 
 Made
 
@@ -44,36 +44,36 @@ Laid before Parliament
 
 Coming into force in accordance with article 1(2) to (4)
 
-[^key-434b13146c078db4cd04ae4c0fcf7a41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-434b13146c078db4cd04ae4c0fcf7a41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-434b13146c078db4cd04ae4c0fcf7a41]
+## 1. Citation, commencement and extent[^c-434b13146c078db4cd04ae4c0fcf7a41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-434b13146c078db4cd04ae4c0fcf7a41]
+## 2. Interpretation[^c-434b13146c078db4cd04ae4c0fcf7a41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The earnings percentage[^key-434b13146c078db4cd04ae4c0fcf7a41]
+## 3. The earnings percentage[^c-434b13146c078db4cd04ae4c0fcf7a41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The levy ceiling[^key-434b13146c078db4cd04ae4c0fcf7a41]
+## 4. The levy ceiling[^c-434b13146c078db4cd04ae4c0fcf7a41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-434b13146c078db4cd04ae4c0fcf7a41]
+## 5. Revocation[^c-434b13146c078db4cd04ae4c0fcf7a41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-434b13146c078db4cd04ae4c0fcf7a41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-434b13146c078db4cd04ae4c0fcf7a41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-434b13146c078db4cd04ae4c0fcf7a41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-434b13146c078db4cd04ae4c0fcf7a41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-434b13146c078db4cd04ae4c0fcf7a41]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/103) revoked (1.4.2026) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2026 (S.I. 2026/83)](https://www.legislation.gov.uk/uksi/2026/83), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2026/83/article/1/4), [5](https://www.legislation.gov.uk/uksi/2026/83/article/5)
+[^c-434b13146c078db4cd04ae4c0fcf7a41]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/103) revoked (1.4.2026) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2026 (S.I. 2026/83)](https://www.legislation.gov.uk/uksi/2026/83), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2026/83/article/1/4), [5](https://www.legislation.gov.uk/uksi/2026/83/article/5)

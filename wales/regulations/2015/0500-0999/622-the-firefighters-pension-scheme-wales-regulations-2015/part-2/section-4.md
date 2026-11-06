@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Scheme manager[^key-33ef098d552eeb271615ef12ba201309]
+## 4. Scheme manager[^c-33ef098d552eeb271615ef12ba201309]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) is or has been a member of this scheme; or
 - (b) is entitled to any benefit in respect of a person who is or has been a member of this scheme,
 
-is the authority by whom the member was last employed whilst an active member of this scheme in relation to each of the member’s pension accounts[^key-7428416725f464a8ea9bd0c527e528e1].
+is the authority by whom the member was last employed whilst an active member of this scheme in relation to each of the member’s pension accounts[^c-7428416725f464a8ea9bd0c527e528e1].
 
 (3) The appropriate authority in relation to a pension credit member is the authority responsible for the pension debit member’s pension account at the effective date of the pension sharing order.
 
@@ -35,8 +35,8 @@ is the authority by whom the member was last employed whilst an active member of
 
 ## Annotations
 
-[^key-33ef098d552eeb271615ef12ba201309]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-33ef098d552eeb271615ef12ba201309]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00043]: Footnote: See section 4(6) of the 2013 Act which sets out when statutory pension schemes are “connected”.
 
-[^key-7428416725f464a8ea9bd0c527e528e1]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/4/2) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/2)
+[^c-7428416725f464a8ea9bd0c527e528e1]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/4/2) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/2)

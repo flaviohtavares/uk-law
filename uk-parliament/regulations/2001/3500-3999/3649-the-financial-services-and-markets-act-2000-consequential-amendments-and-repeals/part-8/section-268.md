@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268. Power of Treasury to give directions in relation to local authority investment schemes[^key-4e5bf32956cd373a9a81afc3063294ed]
+## 268. Power of Treasury to give directions in relation to local authority investment schemes[^c-4e5bf32956cd373a9a81afc3063294ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 11(3)[^f00183] of the Trustee Investments Act 1961 (power of Treasury
 
 ## Annotations
 
-[^key-4e5bf32956cd373a9a81afc3063294ed]: Commencement: Art. 268 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4e5bf32956cd373a9a81afc3063294ed]: Commencement: Art. 268 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00183]: Footnote: Section 11(3) was amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) Schedule 16, paragraph 2.

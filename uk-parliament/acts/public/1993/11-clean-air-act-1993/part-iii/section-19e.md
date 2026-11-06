@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19E. Penalty for emission of smoke in smoke control area in Wales[^key-4e04277b53d3dc94104038d30bf74f79]
+## 19E. Penalty for emission of smoke in smoke control area in Wales[^c-4e04277b53d3dc94104038d30bf74f79]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 1A makes provision for financial penalties in relation to the emission 
 
 ## Annotations
 
-[^key-4e04277b53d3dc94104038d30bf74f79]: Textual amendment: [Ss. 19E-19H](https://www.legislation.gov.uk/ukpga/1993/11/section/19E) and cross-heading inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 19(2)](https://www.legislation.gov.uk/asc/2024/2/section/19/2), [30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(d)](https://www.legislation.gov.uk/uksi/2025/937/article/2/d)
+[^c-4e04277b53d3dc94104038d30bf74f79]: Textual amendment: [Ss. 19E-19H](https://www.legislation.gov.uk/ukpga/1993/11/section/19E) and cross-heading inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [ss. 19(2)](https://www.legislation.gov.uk/asc/2024/2/section/19/2), [30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3); [S.I. 2025/937](https://www.legislation.gov.uk/uksi/2025/937), [art. 2(d)](https://www.legislation.gov.uk/uksi/2025/937/article/2/d)

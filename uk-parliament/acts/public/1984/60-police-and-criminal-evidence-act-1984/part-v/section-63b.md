@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63B. Testing for presence of Class A (affected by repeal, see note) controlled drugs.[^c11327461][^key-aa3fe1b69f64521e8468b771b2ef612a]
+## 63B. Testing for presence of Class A (affected by repeal, see note) controlled drugs.[^c11327461][^c-aa3fe1b69f64521e8468b771b2ef612a]
 
 *Extent: E+W*
 
-(1) A sample of urine or a non-intimate sample may be taken from a person in police detention for the purpose of ascertaining whether he has any specified Class A *(affected by repeal, see note)*[^key-77720939d318bf8ea4b6df70c659775a] controlled drug in his body if
+(1) A sample of urine or a non-intimate sample may be taken from a person in police detention for the purpose of ascertaining whether he has any specified Class A *(affected by repeal, see note)*[^c-77720939d318bf8ea4b6df70c659775a] controlled drug in his body if
 
 - (a)[^c18914501] either the arrest condition or the charge condition is met;
 - (b) both the age condition and the request condition are met; and
@@ -29,12 +29,12 @@ summary: ''
 (1A)[^c18914551] The arrest condition is that the person concerned has been arrested for an offence but has not been charged with that offence and either—
 
 - (a) the offence is a trigger offence; or
-- (b) a police officer of at least the rank of inspector has reasonable grounds for suspecting that the misuse by that person of a specified Class A *(affected by repeal, see note)*[^key-77720939d318bf8ea4b6df70c659775a] controlled drug caused or contributed to the offence and has authorised the sample to be taken.
+- (b) a police officer of at least the rank of inspector has reasonable grounds for suspecting that the misuse by that person of a specified Class A *(affected by repeal, see note)*[^c-77720939d318bf8ea4b6df70c659775a] controlled drug caused or contributed to the offence and has authorised the sample to be taken.
 
 (2)[^c11327473] The charge condition is either[^c18914581]—
 
 - (a) that the person concerned has been charged with a trigger offence; or
-- (b) that the person concerned has been charged with an offence and a police officer of at least the rank of inspector, who has reasonable grounds for suspecting that the misuse by that person of any specified Class A *(affected by repeal, see note)*[^key-77720939d318bf8ea4b6df70c659775a] controlled drug caused or contributed to the offence, has authorised the sample to be taken.
+- (b) that the person concerned has been charged with an offence and a police officer of at least the rank of inspector, who has reasonable grounds for suspecting that the misuse by that person of any specified Class A *(affected by repeal, see note)*[^c-77720939d318bf8ea4b6df70c659775a] controlled drug caused or contributed to the offence, has authorised the sample to be taken.
 
 (3)[^c18914691] The age condition is—
 
@@ -59,7 +59,7 @@ summary: ''
 - (a) warn him that if, when so requested, he fails without good cause to do so he may be liable to prosecution, and
 - (b) in a case within subsection (1A)(b) or[^c18914931] (2)(b) above, inform him of the giving of the authorisation and of the grounds in question.
 
-(5A)[^c18903262] In the case of a person who has not attained the age of 18[^key-0175f97f0d1b08844ae6c48e44c502b4]—
+(5A)[^c18903262] In the case of a person who has not attained the age of 18[^c-0175f97f0d1b08844ae6c48e44c502b4]—
 
 - (a) the making of the request under subsection (4) above;
 - (b) the giving of the warning and (where applicable) the information under subsection (5) above; and
@@ -109,10 +109,10 @@ No regulations shall be made under this subsection unless a draft has been laid 
 
 (10) In this section—
 
-- “**appropriate adult**”, in relation to a person who has not attained the age of 18[^key-115c3377f0a89287aa54a949cd4e411e], means—
+- “**appropriate adult**”, in relation to a person who has not attained the age of 18[^c-115c3377f0a89287aa54a949cd4e411e], means—
   - (a) his parent or guardian or, if he is in the care of a local authority or voluntary organisation, a person representing that authority or organisation; or
   - (b) [^c18913652]a social worker of a local authority . . . ; or
-  - (c) if no person falling within paragraph (a) or (b) is available, any responsible person aged 18 or over who is not a police officer ora person employed for, or engaged on, police purposes; and “police purposes” has the meaning given by section 101(2) of the Police Act 1996[^key-dce06c7a2187a122dc74df5d187ad181];
+  - (c) if no person falling within paragraph (a) or (b) is available, any responsible person aged 18 or over who is not a police officer ora person employed for, or engaged on, police purposes; and “police purposes” has the meaning given by section 101(2) of the Police Act 1996[^c-dce06c7a2187a122dc74df5d187ad181];
 - “**relevant chief officer**” means—
   - (a) in relation to a police area, the chief officer of police of the police force for that police area; or
   - (b) in relation to a police station, the chief officer of police of the police force for the police area in which the police station is situated.
@@ -121,9 +121,9 @@ No regulations shall be made under this subsection unless a draft has been laid 
 
 [^c11327461]: Textual amendment: S. 63B inserted (for certain purposes on 20.6.2001, 2.7.2001, 20.5.2002, 2.9.2002, 1.4.2003, 1.4.2004 and otherwise prosp.) by [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2000/43/section/57/2), [80(1)](https://www.legislation.gov.uk/ukpga/2000/43/section/80/1); [S.I. 2001/2232](https://www.legislation.gov.uk/uksi/2001/2232), [art. 2(f)](https://www.legislation.gov.uk/uksi/2001/2232/article/2/f); [S.I. 2002/1149](https://www.legislation.gov.uk/uksi/2002/1149), [art. 2](https://www.legislation.gov.uk/uksi/2002/1149/article/2); [S.I. 2002/1862](https://www.legislation.gov.uk/uksi/2002/1862), [art. 2](https://www.legislation.gov.uk/uksi/2002/1862/article/2); [S.I. 2003/709](https://www.legislation.gov.uk/uksi/2003/709), [art. 2](https://www.legislation.gov.uk/uksi/2003/709/article/2); [S.I. 2004/780](https://www.legislation.gov.uk/uksi/2004/780), [art. 2](https://www.legislation.gov.uk/uksi/2004/780/article/2)
 
-[^key-aa3fe1b69f64521e8468b771b2ef612a]: Textual amendment: Word in [s. 63B](https://www.legislation.gov.uk/ukpga/1984/60/section/63B) heading substituted (29.4.2026 for specified purposes) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 183(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/183/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/f)
+[^c-aa3fe1b69f64521e8468b771b2ef612a]: Textual amendment: Word in [s. 63B](https://www.legislation.gov.uk/ukpga/1984/60/section/63B) heading substituted (29.4.2026 for specified purposes) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 183(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/183/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/f)
 
-[^key-77720939d318bf8ea4b6df70c659775a]: Textual amendment: Word in [s. 63B](https://www.legislation.gov.uk/ukpga/1984/60/section/63B) substituted (29.4.2026 for specified purposes) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 183(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/183/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/f)
+[^c-77720939d318bf8ea4b6df70c659775a]: Textual amendment: Word in [s. 63B](https://www.legislation.gov.uk/ukpga/1984/60/section/63B) substituted (29.4.2026 for specified purposes) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 183(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/183/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/f)
 
 [^c18914501]: Textual amendment: S. 63B(1)(a)-(c) substituted (1.12.2005) for words in s. 63B(1) by [Drugs Act 2005 (c. 17)](https://www.legislation.gov.uk/ukpga/2005/17), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2005/17/section/7/2), [24](https://www.legislation.gov.uk/ukpga/2005/17/section/24) (with [s. 7(13)(14)](https://www.legislation.gov.uk/ukpga/2005/17/section/7/13/14)); [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/a)
 
@@ -143,7 +143,7 @@ No regulations shall be made under this subsection unless a draft has been laid 
 
 [^c18903262]: Textual amendment: S. 63B(5A) inserted (1.8.2004 for certain purposes and otherwise 1.12.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2003/44/section/5/3/b), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2004/1867](https://www.legislation.gov.uk/uksi/2004/1867), [art. 2](https://www.legislation.gov.uk/uksi/2004/1867/article/2); [S.I. 2005/3055](https://www.legislation.gov.uk/uksi/2005/3055), [art. 2](https://www.legislation.gov.uk/uksi/2005/3055/article/2)
 
-[^key-0175f97f0d1b08844ae6c48e44c502b4]: Textual amendment: Words in s. 63B(5A) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 73(3)(a)](https://www.legislation.gov.uk/ukpga/2017/3/section/73/3/a), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/22)
+[^c-0175f97f0d1b08844ae6c48e44c502b4]: Textual amendment: Words in s. 63B(5A) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 73(3)(a)](https://www.legislation.gov.uk/ukpga/2017/3/section/73/3/a), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/22)
 
 [^c18915721]: Textual amendment: S. 63B(5B)-(5D) inserted (1.12.2005) by [Drugs Act 2005 (c. 17)](https://www.legislation.gov.uk/ukpga/2005/17), [ss. 7(9)](https://www.legislation.gov.uk/ukpga/2005/17/section/7/9), [24](https://www.legislation.gov.uk/ukpga/2005/17/section/24) (with [s. 7(13)(14)](https://www.legislation.gov.uk/ukpga/2005/17/section/7/13/14)); [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/a)
 
@@ -163,8 +163,8 @@ No regulations shall be made under this subsection unless a draft has been laid 
 
 [^c19275021]: Textual amendment: S. 63B(9) repealed (1.12.2005) by [Drugs Act 2005 (c. 17)](https://www.legislation.gov.uk/ukpga/2005/17), [ss. 7(9)](https://www.legislation.gov.uk/ukpga/2005/17/section/7/9), [23](https://www.legislation.gov.uk/ukpga/2005/17/section/23), [24](https://www.legislation.gov.uk/ukpga/2005/17/section/24) (with [s. 7(13)(14)](https://www.legislation.gov.uk/ukpga/2005/17/section/7/13/14)); [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(a)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/a/f)
 
-[^key-115c3377f0a89287aa54a949cd4e411e]: Textual amendment: Words in s. 63B(10) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 73(3)(b)](https://www.legislation.gov.uk/ukpga/2017/3/section/73/3/b), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/22)
+[^c-115c3377f0a89287aa54a949cd4e411e]: Textual amendment: Words in s. 63B(10) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 73(3)(b)](https://www.legislation.gov.uk/ukpga/2017/3/section/73/3/b), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/22)
 
 [^c18913652]: Textual amendment: S. 63B(10): words in definition of "appropriate adult" repealed (1.4.2005 for E. and 1.4.2006 for W.) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [ss. 64](https://www.legislation.gov.uk/ukpga/2004/31/section/64), [67](https://www.legislation.gov.uk/ukpga/2004/31/section/67), [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/31/schedule/5/part/4); [S.I. 2005/394](https://www.legislation.gov.uk/uksi/2005/394), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2005/394/article/2/2/g); [S.I. 2006/885](https://www.legislation.gov.uk/uksi/2006/885), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2006/885/article/2/2/h)
 
-[^key-dce06c7a2187a122dc74df5d187ad181]: Textual amendment: Words in s. 63B(10)(c) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/79/1), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/27)
+[^c-dce06c7a2187a122dc74df5d187ad181]: Textual amendment: Words in s. 63B(10)(c) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/79/1), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/27)

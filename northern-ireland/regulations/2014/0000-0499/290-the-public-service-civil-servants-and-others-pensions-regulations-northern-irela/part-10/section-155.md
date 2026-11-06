@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 155. Bulk transfers out[^key-6cd35165fca6c04670cc9ee2d0b24f68]
+## 155. Bulk transfers out[^c-6cd35165fca6c04670cc9ee2d0b24f68]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cd35165fca6c04670cc9ee2d0b24f68]: Commencement: [Reg. 155](https://www.legislation.gov.uk/nisr/2014/290/regulation/155) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-6cd35165fca6c04670cc9ee2d0b24f68]: Commencement: [Reg. 155](https://www.legislation.gov.uk/nisr/2014/290/regulation/155) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

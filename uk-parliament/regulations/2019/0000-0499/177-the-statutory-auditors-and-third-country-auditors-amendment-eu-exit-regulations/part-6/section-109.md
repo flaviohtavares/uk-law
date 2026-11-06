@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Approval of Third Country Competent Authorities[^key-4092aab7611a6138e69c61874e88ed92]
+## 109. Approval of Third Country Competent Authorities[^c-4092aab7611a6138e69c61874e88ed92]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 (approval of third country competent authorities) has effect.
 
 ## Annotations
 
-[^key-4092aab7611a6138e69c61874e88ed92]: Commencement: Reg. 109 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-4092aab7611a6138e69c61874e88ed92]: Commencement: Reg. 109 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

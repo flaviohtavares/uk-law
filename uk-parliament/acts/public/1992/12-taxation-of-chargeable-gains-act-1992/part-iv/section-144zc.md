@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144ZC. Section 144ZB: non-commercial exercise of option[^key-b7c0de1881827f5f517a0ea996a748b2]
+## 144ZC. Section 144ZB: non-commercial exercise of option[^c-b7c0de1881827f5f517a0ea996a748b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ the open market price of the underlying subject matter shall be determined as if
 
 ## Annotations
 
-[^key-b7c0de1881827f5f517a0ea996a748b2]: Textual amendment: Ss. 144ZB-144ZD inserted (with effect in accordance with Sch. 5 para. 6(1) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2005/22/schedule/5/paragraph/2)
+[^c-b7c0de1881827f5f517a0ea996a748b2]: Textual amendment: Ss. 144ZB-144ZD inserted (with effect in accordance with Sch. 5 para. 6(1) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2005/22/schedule/5/paragraph/2)

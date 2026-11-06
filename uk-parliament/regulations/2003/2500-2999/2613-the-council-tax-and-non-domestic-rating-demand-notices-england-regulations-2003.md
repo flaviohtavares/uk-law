@@ -45,13 +45,13 @@ Coming into force
 
 5th November 2003
 
-The Secretary of State, in exercise of the powers conferred on him by sections 143(1) and (2) and 146(6) of, and paragraphs 1, 2(2)(ga), (gc), (ge), and (h) and 6A of Schedule 9 to, the Local Government Finance Act 1988[^f00001] and sections 113(1) and (2) and 116(1) of, and paragraphs 1, 2(4)(e), (g), (i) and (j), 4(4) and (5), and 14(1) and (2) of Schedule 2 and paragraph 6(1) and (2) of Schedule 3 to, the Local Government Finance Act 1992[^f00002], and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-5f9bfdf9fb0077a63efb87e38c23638f]
+The Secretary of State, in exercise of the powers conferred on him by sections 143(1) and (2) and 146(6) of, and paragraphs 1, 2(2)(ga), (gc), (ge), and (h) and 6A of Schedule 9 to, the Local Government Finance Act 1988[^f00001] and sections 113(1) and (2) and 116(1) of, and paragraphs 1, 2(4)(e), (g), (i) and (j), 4(4) and (5), and 14(1) and (2) of Schedule 2 and paragraph 6(1) and (2) of Schedule 3 to, the Local Government Finance Act 1992[^f00002], and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^c-5f9bfdf9fb0077a63efb87e38c23638f]
 
-## 1. Citation, commencement and interpretation[^key-6ad5eb5f1d7ca6262087619a453dbc00]
+## 1. Citation, commencement and interpretation[^c-6ad5eb5f1d7ca6262087619a453dbc00]
 
 (1) These Regulations may be cited as the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003 and shall come into force on 5th November 2003.
 
-(2)[^key-f7cd797c1331cccb6f5e18075105ca7a] In these Regulations—
+(2)[^c-f7cd797c1331cccb6f5e18075105ca7a] In these Regulations—
 
 - “the Act” means the Local Government Finance Act 1992;
 - “the 1988 Act” means the Local Government Finance Act 1988;
@@ -61,11 +61,11 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
   - (b) to issue a levy to a county council which has power to issue a precept to the billing authority;
 - “authorised person” means a person to whom an authorisation is given by a billing authority to exercise any functions relating to the administration of council tax or to the collection of non-domestic rates, as the case may be, by the Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996[^f00004];
 - “billing authority” means an English billing authority;
-- “[^key-3128689fd85426358e356df846ab377a]BRS” means a business rate supplement within the meaning of section 1(1) of the BRS Act;
+- “[^c-3128689fd85426358e356df846ab377a]BRS” means a business rate supplement within the meaning of section 1(1) of the BRS Act;
 - “the BRS Act” means the Business Rate Supplements Act 2009;
 - “BRS authority” means a billing authority which is, in respect of the relevant year, required by the BRS Act and any regulations made under that Act to collect sums which are payable by way of BRS by ratepayers in its area;
 - “the Collection Regulations” means the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^f00005];
-- [^key-2ed494c831a97614b0da5ca68baef543]...
+- [^c-2ed494c831a97614b0da5ca68baef543]...
 - “council tax demand notice” means a demand notice within the meaning of Part 5 of the Administration Regulations which is served by a billing authority or any authorised person;
 - “fire and rescue functions” means the functions in Part 2 (functions of fire and rescue authorities) of the Fire and Rescue Services Act 2004;
 - “local precepting authority” means an authority specified in section 39(2)(c) to (e) of the Act;
@@ -74,20 +74,20 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 - “the relevant year”, in relation to a notice, means the financial year to which the demand for payment made by the notice relates; and
 - “rural settlement authority” means a billing authority which has, in respect of the relevant year, identified one or more rural settlements for that year in a list compiled under section 42A(2) of the 1988 Act[^f00007].
 
-(3) Any reference in these Regulations to the relevant valuation band in relation to a dwelling is a reference to the valuation band shown as applicable to the dwelling [^key-f6b077316d337909118bcee7c9eceb89]...
+(3) Any reference in these Regulations to the relevant valuation band in relation to a dwelling is a reference to the valuation band shown as applicable to the dwelling [^c-f6b077316d337909118bcee7c9eceb89]...
 
-- (a)[^key-212f0e3eedd777cc3df5d45ebd50c12b] in the billing authority’s valuation list; or
+- (a)[^c-212f0e3eedd777cc3df5d45ebd50c12b] in the billing authority’s valuation list; or
 - (b) if a new valuation list is due to come into force for the relevant year under section 22B(2)(a) or (3)(a) of the Act, as the case may be,
   - (i) except in a case to which paragraph (4) applies, in the list proposed to be compiled as the new list, “the proposed list”, by the listing officer and sent to the billing authority under section 22B(7) of the Act;
   - (ii) in a case to which paragraph (4) applies, in information which for the purposes of this paragraph is relevant information.
 
-(4)[^key-8f1682e183abd5604afe407a313e4448] This paragraph applies where the listing officer supplies the authority with information relating to property shown in the proposed list (including information relating to the application to such property of article 3 or 4 of the Council Tax (Chargeable Dwellings) Order 1992); and such information is relevant information for the purposes of paragraph (3) to the extent that it differs from information contained in the proposed list.
+(4)[^c-8f1682e183abd5604afe407a313e4448] This paragraph applies where the listing officer supplies the authority with information relating to property shown in the proposed list (including information relating to the application to such property of article 3 or 4 of the Council Tax (Chargeable Dwellings) Order 1992); and such information is relevant information for the purposes of paragraph (3) to the extent that it differs from information contained in the proposed list.
 
-## 2. Application of Regulations[^key-838a2f00329f483294b8254a17f02c76]
+## 2. Application of Regulations[^c-838a2f00329f483294b8254a17f02c76]
 
 These Regulations apply in relation to council tax demand notices and rate demand notices served by an English billing authority or an authorised person on behalf of such a billing authority in relation to financial years beginning on or after 1st April 2004 and, accordingly, the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 1993[^f00008], shall not have effect in relation to any such notice.
 
-## 3. Content of demand notices, etc[^key-f076b7b6219a903ba77b5238062b01e0]
+## 3. Content of demand notices, etc[^c-f076b7b6219a903ba77b5238062b01e0]
 
 (1) Subject to paragraph (2) and (2A), a council tax demand notice shall contain the matters specified in Schedule 1.
 
@@ -96,14 +96,14 @@ These Regulations apply in relation to council tax demand notices and rate deman
 - (a) after the end of the relevant year; and
 - (b) at the same time as a council tax demand notice relating to another financial year not then ended is served on him;
 
-need not contain the matter specified in paragraph 24[^key-21b54f2a89eb31b3564636e41b4e3c9a] of Schedule 1.
+need not contain the matter specified in paragraph 24[^c-21b54f2a89eb31b3564636e41b4e3c9a] of Schedule 1.
 
 (3) A rate demand notice—
 
 - (a) served by a billing authority or an authorised person on behalf of the billing authority, other than the Common Council or a rural settlement authority, shall contain the matters mentioned in Part 1 of Schedule 2;
-- (b) served by a rural settlement authority or an authorised person on behalf of the rural settlement authority, shall contain the matters mentioned in that Part as modified by Part 2; [^key-40cdf3f3a8e737d2dcf0b4d0b482abbf]...
-- (c) served by the Common Council or an authorised person on behalf of the Common Council, shall contain the matters mentioned in Part 3 ; and[^key-8260790ca8f92402c7456b2954d10348]
-- (d)[^key-5751a71f4eea7de9c1e9919e2804fc04] served by a BRS authority or an authorised person on behalf of the BRS authority on a person liable to pay BRS to the authority, shall contain the matters mentioned in Part 1 of Schedule 2 as modified by Part 2A or, where the BRS authority concerned is the Common Council, the matters mentioned in Part 3 of Schedule 2 as modified by Part 3A.
+- (b) served by a rural settlement authority or an authorised person on behalf of the rural settlement authority, shall contain the matters mentioned in that Part as modified by Part 2; [^c-40cdf3f3a8e737d2dcf0b4d0b482abbf]...
+- (c) served by the Common Council or an authorised person on behalf of the Common Council, shall contain the matters mentioned in Part 3 ; and[^c-8260790ca8f92402c7456b2954d10348]
+- (d)[^c-5751a71f4eea7de9c1e9919e2804fc04] served by a BRS authority or an authorised person on behalf of the BRS authority on a person liable to pay BRS to the authority, shall contain the matters mentioned in Part 1 of Schedule 2 as modified by Part 2A or, where the BRS authority concerned is the Common Council, the matters mentioned in Part 3 of Schedule 2 as modified by Part 3A.
 
 (4) Subject to paragraph (5), a billing authority must when it serves a council tax demand notice supply to the person on whom the notice is served the information mentioned in Part 1 of Schedule 3, and must when it serves a rate demand notice supply to the person on whom the notice is served the information mentioned in Part 2 of that Schedule; and Part 3 of that Schedule shall have effect for the purposes of both Parts 1 and 2.
 
@@ -111,7 +111,7 @@ need not contain the matter specified in paragraph 24[^key-21b54f2a89eb31b356463
 
 (6) Nothing in this regulation requires a notice to be given on a single sheet of paper, but if more than one sheet is used, the sheets shall be issued together, whether or not attached, as to comprise one notice.
 
-## 4. Invalid notices[^key-49d3a898e4afc6ba556d064f15ecd8a3]
+## 4. Invalid notices[^c-49d3a898e4afc6ba556d064f15ecd8a3]
 
 (1) Where—
 
@@ -131,7 +131,7 @@ the requirement to pay those amounts shall apply as if the notice were valid.
 
 (3) Where a requirement to pay an amount under an invalid notice subsists by virtue of paragraph (1) or (2), the billing authority shall as soon as practicable after the mistake is discovered issue to the liable person or ratepayer concerned a statement of the matters which were not contained in the notice and which should have been so contained.
 
-## 5. Supply of information by precepting authorities[^key-317331f204acfbc1c264b19cebf5e953]
+## 5. Supply of information by precepting authorities[^c-317331f204acfbc1c264b19cebf5e953]
 
 (1) In order that a billing authority may fulfil its obligations under regulation 3—
 
@@ -169,7 +169,7 @@ the requirement to pay those amounts shall apply as if the notice were valid.
 
 (8) Information need not be supplied by a local precepting authority if, by virtue of the proviso to the definition of “relevant precepting authority” in paragraph 4 of Part 3 of Schedule 3, it would not fall to be supplied by the billing authority when it serves a demand notice.
 
-## 6. Supply of information by levying bodies[^key-77d3e5c77ce339d0df67983eb9d67f8e]
+## 6. Supply of information by levying bodies[^c-77d3e5c77ce339d0df67983eb9d67f8e]
 
 (1) In order that a billing authority may fulfil its obligations under regulation 3, every appropriate levying body shall—
 
@@ -206,7 +206,7 @@ Office of the Deputy Prime Minister
 
 6th October 2003
 
-## SCHEDULE 1 — MATTERS TO BE CONTAINED IN COUNCIL TAX DEMAND NOTICES[^key-236c9bf25f0cea8279317c32b6e766c2]
+## SCHEDULE 1 — MATTERS TO BE CONTAINED IN COUNCIL TAX DEMAND NOTICES[^c-236c9bf25f0cea8279317c32b6e766c2]
 
 Regulation 3(1)
 
@@ -344,7 +344,7 @@ Explanatory notes, which must include—
   - (i) by a person who wishes to dispute any matter shown in the billing authority’s valuation list in relation to the dwelling, or
   - (ii) by a person aggrieved as mentioned in section 16(1) of the Act.
 
-## SCHEDULE 2 — MATTERS TO BE CONTAINED IN RATE DEMAND NOTICES[^key-c513fafa9c19183d474be20d46b6a9bc]
+## SCHEDULE 2 — MATTERS TO BE CONTAINED IN RATE DEMAND NOTICES[^c-c513fafa9c19183d474be20d46b6a9bc]
 
 Regulation 3(3)
 
@@ -370,7 +370,7 @@ together with a statement of the manner in which the chargeable amount for those
 
 **7.** Explanatory notes either in the following terms or substantially similar terms—
 
-> EXPLANATORY NOTES[^key-0c3da5a6a7d418f7baa80338415209ae]
+> EXPLANATORY NOTES[^c-0c3da5a6a7d418f7baa80338415209ae]
 >
 > Non-Domestic Rates
 >
@@ -463,15 +463,15 @@ In relation to rural settlement authorities, Part 1 shall have effect as if—
 
   > Rate relief for businesses in rural areas
   >
-  > Certain types of properties in a rural settlement with a population below 3,000 may be entitled to relief. The property must be the only general store, the only post office or a food shop and have a rateable value of less than £8,500[^key-d0b73d346a56730600144c14674dfae1], or the only public house or the only petrol station and have a rateable value of less than £12,500[^key-48a0737e6260e3b2bd3cce36df67805f]. The property has to be occupied. An eligible ratepayer is entitled to relief at 50% of the full charge whilst the local authority also has discretion to give further relief on the remaining bill.
+  > Certain types of properties in a rural settlement with a population below 3,000 may be entitled to relief. The property must be the only general store, the only post office or a food shop and have a rateable value of less than £8,500[^c-d0b73d346a56730600144c14674dfae1], or the only public house or the only petrol station and have a rateable value of less than £12,500[^c-48a0737e6260e3b2bd3cce36df67805f]. The property has to be occupied. An eligible ratepayer is entitled to relief at 50% of the full charge whilst the local authority also has discretion to give further relief on the remaining bill.
   >
-  > In addition, the local authority can give relief on certain other occupied property in a rural settlement where the rateable value is less than £16,500[^key-2f616995ea9961d072281f68cfba184c].
+  > In addition, the local authority can give relief on certain other occupied property in a rural settlement where the rateable value is less than £16,500[^c-2f616995ea9961d072281f68cfba184c].
   >
   > Full details can be obtained from the local authority.
 
   .
 
-### PART 2A — Modification of Part 1 in Relation to BRS Authorities[^key-74f3be925957045c3f8987275c7b70c0]
+### PART 2A — Modification of Part 1 in Relation to BRS Authorities[^c-74f3be925957045c3f8987275c7b70c0]
 
 **1.** In relation to BRS authorities, Part 1 shall have effect as if—
 
@@ -509,7 +509,7 @@ In relation to rural settlement authorities, Part 1 shall have effect as if—
 
 **3.** Explanatory notes either in the following terms or substantially similar terms—
 
-> EXPLANATORY NOTES[^key-c7d3c1ff9054348133b913a7edbdf844]
+> EXPLANATORY NOTES[^c-c7d3c1ff9054348133b913a7edbdf844]
 >
 > Non-Domestic Rates
 >
@@ -597,7 +597,7 @@ In relation to rural settlement authorities, Part 1 shall have effect as if—
 
 .
 
-### PART 3A — Modification of Part 3 in Relation to BRS[^key-20a37fa9766b4710fd47610aa84a48a7]
+### PART 3A — Modification of Part 3 in Relation to BRS[^c-20a37fa9766b4710fd47610aa84a48a7]
 
 **1.** In relation to the Common Council where the relevant year is a year in which the Common Council is a BRS authority, Part 3 shall have effect as if—
 
@@ -633,7 +633,7 @@ Regulation 3(4)
 
 ### PART 1 — Information to be Supplied with Council Tax Demand Notices
 
-**1.**[^key-1e9490ecd3f1ab908b4fe18e45b4c1d8] A statement, for both the relevant year and the previous financial year of the estimate made by—
+**1.**[^c-1e9490ecd3f1ab908b4fe18e45b4c1d8] A statement, for both the relevant year and the previous financial year of the estimate made by—
 
 - (a) the billing authority;
 - (b) each relevant precepting authority except the Greater London Authority; and
@@ -641,53 +641,53 @@ Regulation 3(4)
 
 of its gross expenditure, expressed as an aggregate amount for all classes of services administered by it.
 
-**2.**[^key-f6c678d19d29684dd72971f64c24392d] In relation to a London billing authority, the estimate for the relevant year and the previous financial year, made by the Greater London Authority (“the Authority”) of the aggregate gross expenditure of each constituent body for services administered by that body.
+**2.**[^c-f6c678d19d29684dd72971f64c24392d] In relation to a London billing authority, the estimate for the relevant year and the previous financial year, made by the Greater London Authority (“the Authority”) of the aggregate gross expenditure of each constituent body for services administered by that body.
 
-**3.**[^key-7e618fd83ce2ce3443a7982a768b41c2] A statement, for both the relevant year and the previous financial year of the amount calculated by—
+**3.**[^c-7e618fd83ce2ce3443a7982a768b41c2] A statement, for both the relevant year and the previous financial year of the amount calculated by—
 
 - (a) the billing authority; and
 - (b) each relevant precepting authority except the Greater London Authority
 
 as the amount of its budget requirement.
 
-**4.**[^key-da8760248e7684b49c4a6eb48e0bf42c] In relation to a London billing authority, the amount calculated under section 85(8) (consolidated budget requirements of the Greater London Authority) of the 1999 Act for both the relevant year and the preceding year.
+**4.**[^c-da8760248e7684b49c4a6eb48e0bf42c] In relation to a London billing authority, the amount calculated under section 85(8) (consolidated budget requirements of the Greater London Authority) of the 1999 Act for both the relevant year and the preceding year.
 
-**5.**[^key-420fd3b6e8cda87b6a2b7f604535b736] A statement of the reasons, in the opinion of the billing authority, for the difference, if any, between the amounts stated in accordance with paragraphs 1 and 3 or 2 and 4 for the relevant year and the previous financial year.
+**5.**[^c-420fd3b6e8cda87b6a2b7f604535b736] A statement of the reasons, in the opinion of the billing authority, for the difference, if any, between the amounts stated in accordance with paragraphs 1 and 3 or 2 and 4 for the relevant year and the previous financial year.
 
-**6.**[^key-dc70c6a9c442877e451d508b7d12607e] A statement of the effect, in the opinion of the billing authority, of—
+**6.**[^c-dc70c6a9c442877e451d508b7d12607e] A statement of the effect, in the opinion of the billing authority, of—
 
 - (a) its budget requirement; and
 - (b) its estimate of its aggregate gross expenditure for services administered by the authority,
 
 upon the level of council tax set for the relevant year.
 
-**7.**[^key-edbe78385d7654167aab71d7408d3825] A statement of the effect, in the opinion of each relevant precepting authority of its—
+**7.**[^c-edbe78385d7654167aab71d7408d3825] A statement of the effect, in the opinion of each relevant precepting authority of its—
 
 - (a) budget requirement;
 - (b) estimate of its aggregate gross expenditure for services administered by it
 
 upon the level of its precept issued for the relevant year.
 
-**8.**[^key-58f915d749ffa6c8832fd5d3ef0197bc] Where an amount is being recovered under the notice concerned in respect of a penalty but the person to whom the notice is issued has not previously been informed of the ground on which the penalty is imposed, a statement of that ground.
+**8.**[^c-58f915d749ffa6c8832fd5d3ef0197bc] Where an amount is being recovered under the notice concerned in respect of a penalty but the person to whom the notice is issued has not previously been informed of the ground on which the penalty is imposed, a statement of that ground.
 
 ### PART 2 — Information to be supplied with Rate Demand Notices
 
-**1.**[^key-961d4b4facef5fb06b3dfc48000a8fb9] The information mentioned in paragraphs 1 to 5 of Part 1.
+**1.**[^c-961d4b4facef5fb06b3dfc48000a8fb9] The information mentioned in paragraphs 1 to 5 of Part 1.
 
 ### PART 3 — Interpretation, etc
 
-**1.**[^key-0a6d098429f89cb695cf521090ca6c19] For the purposes of paragraphs 1 and 2 of Part 1, the gross expenditure of an authority or body in respect of a service for a year is the sum of all items of the authority charged to a revenue account for the year attributable to that service, but does not include allowances for contingencies or contributions to financial reserves.
+**1.**[^c-0a6d098429f89cb695cf521090ca6c19] For the purposes of paragraphs 1 and 2 of Part 1, the gross expenditure of an authority or body in respect of a service for a year is the sum of all items of the authority charged to a revenue account for the year attributable to that service, but does not include allowances for contingencies or contributions to financial reserves.
 
-**2.**[^key-05d738f0e4d4a0c323c830461ba9368b] The estimates for the relevant year and for the preceding year, to be supplied pursuant to paragraphs 1 and 2 of Part 1 are—
+**2.**[^c-05d738f0e4d4a0c323c830461ba9368b] The estimates for the relevant year and for the preceding year, to be supplied pursuant to paragraphs 1 and 2 of Part 1 are—
 
 - (a) as regards the billing authority, estimates made for the purposes of the calculations required by section 32 of the Act;
 - (b) as regards a relevant major precepting authority, estimates made for the purposes of the calculations required by section 43 of the Act or section 85 of the 1999 Act;
 - (c) as regards a relevant local precepting authority, estimates made for the purposes of the calculations required by section 50 of the Act; and
 - (d) as regards a relevant levying body, estimates made for the purpose of calculating the amount of any levy issued to the billing authority or (as the case may be) to a county council which, as regards the billing authority, is a relevant major precepting authority.
 
-**3.**[^key-e80b887f4f24241eb116a06e98c5d569] For the purposes of paragraphs 3 and 4 of Part 1, references to an authority’s budget requirement are references to the amount calculated by the authority under section 32(4) of the Act or, as the case may be, section 43(4) or section 50(4) of the Act or section 85 of the 1999 Act.
+**3.**[^c-e80b887f4f24241eb116a06e98c5d569] For the purposes of paragraphs 3 and 4 of Part 1, references to an authority’s budget requirement are references to the amount calculated by the authority under section 32(4) of the Act or, as the case may be, section 43(4) or section 50(4) of the Act or section 85 of the 1999 Act.
 
-**4.**[^key-a09cb510bf6bf974f0c8d2d14171d2e6] In this Schedule—
+**4.**[^c-a09cb510bf6bf974f0c8d2d14171d2e6] In this Schedule—
 
 - “the 1999 Act” means the Greater London Authority Act 1999;
 - “constituent body” has the same meaning as in section 85(3) of the 1999 Act;
@@ -695,9 +695,9 @@ upon the level of its precept issued for the relevant year.
 - “relevant levying body” means an appropriate levying body which—
   - (a) has issued a levy to the billing authority for the relevant year which was taken into account when the authority made the calculations required by section 32 of the Act; or
   - (b) has issued a levy to a county council for the relevant year, which was taken into account when the council made the calculations required by section 43 of the Act; and
-- “relevant precepting authority” means a precepting authority which has issued a precept to the billing authority for the relevant year; and “relevant local precepting authority” and “relevant major precepting authority” shall be construed accordingly; except that in paragraphs 1, 3 and 7[^key-e878807357e342f90dc8155a3b3a0d57] of Part 1, “relevant precepting authority” does not include—
-  - (a) where the amount of the precept in question does not exceed £100,000, [^key-574ad487c29ed269b714d1fe11c57407]... the sub-treasurer of the Inner Temple or the under-treasurer of the Middle Temple,
-  - (aa) a parish council unless—[^key-804b232a65400e8c235c54c4589ea954]
+- “relevant precepting authority” means a precepting authority which has issued a precept to the billing authority for the relevant year; and “relevant local precepting authority” and “relevant major precepting authority” shall be construed accordingly; except that in paragraphs 1, 3 and 7[^c-e878807357e342f90dc8155a3b3a0d57] of Part 1, “relevant precepting authority” does not include—
+  - (a) where the amount of the precept in question does not exceed £100,000, [^c-574ad487c29ed269b714d1fe11c57407]... the sub-treasurer of the Inner Temple or the under-treasurer of the Middle Temple,
+  - (aa) a parish council unless—[^c-804b232a65400e8c235c54c4589ea954]
     - (i) the amount of the precept in question is £140,000 or more, and
     - (ii) any part of the dwelling to which the notice relates is within the area of the parish council,
   - (c) the chairman of a parish meeting or charter trustees.
@@ -730,53 +730,53 @@ In order to enable a billing authority to include the prescribed matters in its 
 
 [^f00002]: Footnote: [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14). These powers are devolved, in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)); *see* the reference to the Local Government Finance Act 1992 in Schedule 1.
 
-[^key-5f9bfdf9fb0077a63efb87e38c23638f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2003/2613) excluded (30.12.2009) by [The Council Tax (Demand Notices) (England) Regulations 2009 (S.I. 2009/3193)](https://www.legislation.gov.uk/uksi/2009/3193), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3193/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2009/3193/regulation/1/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/3193/regulation/1/2))
+[^c-5f9bfdf9fb0077a63efb87e38c23638f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2003/2613) excluded (30.12.2009) by [The Council Tax (Demand Notices) (England) Regulations 2009 (S.I. 2009/3193)](https://www.legislation.gov.uk/uksi/2009/3193), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3193/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2009/3193/regulation/1/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/3193/regulation/1/2))
 
-[^key-6ad5eb5f1d7ca6262087619a453dbc00]: Commencement: Reg. 1 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-6ad5eb5f1d7ca6262087619a453dbc00]: Commencement: Reg. 1 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-f7cd797c1331cccb6f5e18075105ca7a]: Modification: Reg. 1(2) modified (31.7.2009 in relation to the financial years beginning on 1.4.2010 and on 1.4.2011) by [The Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 (S.I. 2009/1597)](https://www.legislation.gov.uk/uksi/2009/1597), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/1597/regulation/4)
+[^c-f7cd797c1331cccb6f5e18075105ca7a]: Modification: Reg. 1(2) modified (31.7.2009 in relation to the financial years beginning on 1.4.2010 and on 1.4.2011) by [The Non-Domestic Rating (Deferred Payments) (England) Regulations 2009 (S.I. 2009/1597)](https://www.legislation.gov.uk/uksi/2009/1597), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1597/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/1597/regulation/4)
 
 [^f00003]: Footnote: S.I. [1992/613](https://www.legislation.gov.uk/uksi/1992/613); relevant amending instruments are S.I. [1992/3008](https://www.legislation.gov.uk/uksi/1992/3008), [1993/196](https://www.legislation.gov.uk/uksi/1993/196), [1994/505](https://www.legislation.gov.uk/uksi/1994/505), [1997/393](https://www.legislation.gov.uk/uksi/1997/393), [2003/768](https://www.legislation.gov.uk/uksi/2003/768), [2003/2211](https://www.legislation.gov.uk/uksi/2003/2211).
 
 [^f00004]: Footnote: S.I. [1996/1880](https://www.legislation.gov.uk/uksi/1996/1880).
 
-[^key-3128689fd85426358e356df846ab377a]: Textual amendment: Words in reg. 1(2) inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/2)
+[^c-3128689fd85426358e356df846ab377a]: Textual amendment: Words in reg. 1(2) inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/2)
 
 [^f00005]: Footnote: S.I. [1989/1058](https://www.legislation.gov.uk/uksi/1989/1058); relevant amending instruments are S.I. [1991/141](https://www.legislation.gov.uk/uksi/1991/141), [1992/1512](https://www.legislation.gov.uk/uksi/1992/1512), [1993/616](https://www.legislation.gov.uk/uksi/1993/616), [1993/774](https://www.legislation.gov.uk/uksi/1993/774), [1993/1493](https://www.legislation.gov.uk/uksi/1993/1493), [2003/2210](https://www.legislation.gov.uk/uksi/2003/2210).
 
-[^key-2ed494c831a97614b0da5ca68baef543]: Textual amendment: Words in reg. 1(2) omitted (1.4.2008) by virtue of [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [regs. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [3](https://www.legislation.gov.uk/uksi/2008/387/regulation/3)
+[^c-2ed494c831a97614b0da5ca68baef543]: Textual amendment: Words in reg. 1(2) omitted (1.4.2008) by virtue of [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [regs. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [3](https://www.legislation.gov.uk/uksi/2008/387/regulation/3)
 
 [^f00006]: Footnote: S.I. [1990/145](https://www.legislation.gov.uk/uksi/1990/145); relevant amending instruments are S.I. [1993/616](https://www.legislation.gov.uk/uksi/1993/616), [1993/894](https://www.legislation.gov.uk/uksi/1993/894).
 
 [^f00007]: Footnote: Section 42A of the Local Government Finance Act 1988 was inserted by the Local Government and Rating Act 1997, s.1 and Schedule 1, paragraph 1.
 
-[^key-f6b077316d337909118bcee7c9eceb89]: Textual amendment: Words in reg. 1(3) omitted (25.12.2003) by virtue of [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003 (S.I. 2003/3081)](https://www.legislation.gov.uk/uksi/2003/3081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/3/2)
+[^c-f6b077316d337909118bcee7c9eceb89]: Textual amendment: Words in reg. 1(3) omitted (25.12.2003) by virtue of [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003 (S.I. 2003/3081)](https://www.legislation.gov.uk/uksi/2003/3081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/3/2)
 
-[^key-212f0e3eedd777cc3df5d45ebd50c12b]: Textual amendment: Words in reg. 1(3)(a)(b) inserted (25.12.2003) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003 (S.I. 2003/3081)](https://www.legislation.gov.uk/uksi/2003/3081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/3/2)
+[^c-212f0e3eedd777cc3df5d45ebd50c12b]: Textual amendment: Words in reg. 1(3)(a)(b) inserted (25.12.2003) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003 (S.I. 2003/3081)](https://www.legislation.gov.uk/uksi/2003/3081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/3/2)
 
-[^key-8f1682e183abd5604afe407a313e4448]: Textual amendment: Reg. 1(4) inserted (25.12.2003) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003 (S.I. 2003/3081)](https://www.legislation.gov.uk/uksi/2003/3081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/3/2)
+[^c-8f1682e183abd5604afe407a313e4448]: Textual amendment: Reg. 1(4) inserted (25.12.2003) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003 (S.I. 2003/3081)](https://www.legislation.gov.uk/uksi/2003/3081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/3/2)
 
-[^key-838a2f00329f483294b8254a17f02c76]: Commencement: Reg. 2 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-838a2f00329f483294b8254a17f02c76]: Commencement: Reg. 2 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
 [^f00008]: Footnote: S.I. [1993/191](https://www.legislation.gov.uk/uksi/1993/191); relevant amending or modifying instruments are S.I. [1992/23](https://www.legislation.gov.uk/uksi/1992/23), [1995/121](https://www.legislation.gov.uk/uksi/1995/121), [1996/1880](https://www.legislation.gov.uk/uksi/1996/1880), [1997/394](https://www.legislation.gov.uk/uksi/1997/394), [1998/47](https://www.legislation.gov.uk/uksi/1998/47), [2000/5](https://www.legislation.gov.uk/uksi/2000/5), [2001/3554](https://www.legislation.gov.uk/uksi/2001/3554), [2002/180](https://www.legislation.gov.uk/uksi/2002/180).
 
-[^key-f076b7b6219a903ba77b5238062b01e0]: Commencement: Reg. 3 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-f076b7b6219a903ba77b5238062b01e0]: Commencement: Reg. 3 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-21b54f2a89eb31b3564636e41b4e3c9a]: Textual amendment: Word in reg. 3(2) substituted (1.4.2008) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [regs. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [4](https://www.legislation.gov.uk/uksi/2008/387/regulation/4)
+[^c-21b54f2a89eb31b3564636e41b4e3c9a]: Textual amendment: Word in reg. 3(2) substituted (1.4.2008) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [regs. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [4](https://www.legislation.gov.uk/uksi/2008/387/regulation/4)
 
-[^key-40cdf3f3a8e737d2dcf0b4d0b482abbf]: Textual amendment: Word in reg. 3(3)(b) revoked (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/a)
+[^c-40cdf3f3a8e737d2dcf0b4d0b482abbf]: Textual amendment: Word in reg. 3(3)(b) revoked (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/a)
 
-[^key-8260790ca8f92402c7456b2954d10348]: Textual amendment: Word in reg. 3(3)(c) substituted for full stop (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/b)
+[^c-8260790ca8f92402c7456b2954d10348]: Textual amendment: Word in reg. 3(3)(c) substituted for full stop (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/b)
 
-[^key-5751a71f4eea7de9c1e9919e2804fc04]: Textual amendment: Reg. 3(3)(d) inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/c)
+[^c-5751a71f4eea7de9c1e9919e2804fc04]: Textual amendment: Reg. 3(3)(d) inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/3/c)
 
-[^key-49d3a898e4afc6ba556d064f15ecd8a3]: Commencement: Reg. 4 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-49d3a898e4afc6ba556d064f15ecd8a3]: Commencement: Reg. 4 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-317331f204acfbc1c264b19cebf5e953]: Commencement: Reg. 5 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-317331f204acfbc1c264b19cebf5e953]: Commencement: Reg. 5 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-77d3e5c77ce339d0df67983eb9d67f8e]: Commencement: Reg. 6 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-77d3e5c77ce339d0df67983eb9d67f8e]: Commencement: Reg. 6 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-236c9bf25f0cea8279317c32b6e766c2]: Textual amendment: Sch. 1 substituted (1.4.2008) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [reg. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/387/schedule/part/1)
+[^c-236c9bf25f0cea8279317c32b6e766c2]: Textual amendment: Sch. 1 substituted (1.4.2008) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [reg. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/387/schedule/part/1)
 
 [^f00009]: Footnote: [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29); section 88 was amended by S.I. [2002/155](https://www.legislation.gov.uk/uksi/2002/155). Section 89 was amended by S.I. [2000/1435](https://www.legislation.gov.uk/uksi/2000/1435) and S.I. [2002/155](https://www.legislation.gov.uk/uksi/2002/155).
 
@@ -786,50 +786,50 @@ In order to enable a billing authority to include the prescribed matters in its 
 
 [^f00012]: Footnote: S.I. [1992/554](https://www.legislation.gov.uk/uksi/1992/554) to which there are amendments not relevant to these Regulations.
 
-[^key-c513fafa9c19183d474be20d46b6a9bc]: Textual amendment: Sch. 2 substituted (1.4.2008) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [reg. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/387/schedule/part/2)
+[^c-c513fafa9c19183d474be20d46b6a9bc]: Textual amendment: Sch. 2 substituted (1.4.2008) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2008 (S.I. 2008/387)](https://www.legislation.gov.uk/uksi/2008/387), [reg. 1](https://www.legislation.gov.uk/uksi/2008/387/regulation/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/387/schedule/part/2)
 
-[^key-0c3da5a6a7d418f7baa80338415209ae]: Textual amendment: Sch. 2 Pt. 1 para. 7: Explanatory Notes substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/140/regulation/3)
+[^c-0c3da5a6a7d418f7baa80338415209ae]: Textual amendment: Sch. 2 Pt. 1 para. 7: Explanatory Notes substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/140/regulation/3)
 
-[^key-d0b73d346a56730600144c14674dfae1]: Textual amendment: Sum in Sch. 2 Pt. 2 substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2010/140/regulation/4/a)
+[^c-d0b73d346a56730600144c14674dfae1]: Textual amendment: Sum in Sch. 2 Pt. 2 substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2010/140/regulation/4/a)
 
-[^key-48a0737e6260e3b2bd3cce36df67805f]: Textual amendment: Sum in Sch. 2 Pt. 2 substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2010/140/regulation/4/b)
+[^c-48a0737e6260e3b2bd3cce36df67805f]: Textual amendment: Sum in Sch. 2 Pt. 2 substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2010/140/regulation/4/b)
 
-[^key-2f616995ea9961d072281f68cfba184c]: Textual amendment: Sum in Sch. 2 Pt. 2 substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2010/140/regulation/4/c)
+[^c-2f616995ea9961d072281f68cfba184c]: Textual amendment: Sum in Sch. 2 Pt. 2 substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2010/140/regulation/4/c)
 
-[^key-74f3be925957045c3f8987275c7b70c0]: Textual amendment: Sch. 2 Pt. 2A inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/4/a)
+[^c-74f3be925957045c3f8987275c7b70c0]: Textual amendment: Sch. 2 Pt. 2A inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/4/a)
 
-[^key-c7d3c1ff9054348133b913a7edbdf844]: Textual amendment: Sch. 2 Pt. 3 para. 3: Explanatory Notes substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/140/regulation/5)
+[^c-c7d3c1ff9054348133b913a7edbdf844]: Textual amendment: Sch. 2 Pt. 3 para. 3: Explanatory Notes substituted (1.4.2010) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2010 (S.I. 2010/140)](https://www.legislation.gov.uk/uksi/2010/140), [regs. 1](https://www.legislation.gov.uk/uksi/2010/140/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/140/regulation/5)
 
-[^key-20a37fa9766b4710fd47610aa84a48a7]: Textual amendment: Sch. 2 Pt. 3A inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/4/b)
+[^c-20a37fa9766b4710fd47610aa84a48a7]: Textual amendment: Sch. 2 Pt. 3A inserted (4.3.2010) by [The Business Rate Supplements (Collection and Enforcement) (England) Regulations 2010 (S.I. 2010/187)](https://www.legislation.gov.uk/uksi/2010/187), [regs. 1](https://www.legislation.gov.uk/uksi/2010/187/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2010/187/regulation/3/4/b)
 
-[^key-1e9490ecd3f1ab908b4fe18e45b4c1d8]: Commencement: Sch. 3 Pt. 1 para. 1 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-1e9490ecd3f1ab908b4fe18e45b4c1d8]: Commencement: Sch. 3 Pt. 1 para. 1 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-f6c678d19d29684dd72971f64c24392d]: Commencement: Sch. 3 Pt. 1 para. 2 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-f6c678d19d29684dd72971f64c24392d]: Commencement: Sch. 3 Pt. 1 para. 2 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-7e618fd83ce2ce3443a7982a768b41c2]: Commencement: Sch. 3 Pt. 1 para. 3 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-7e618fd83ce2ce3443a7982a768b41c2]: Commencement: Sch. 3 Pt. 1 para. 3 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-da8760248e7684b49c4a6eb48e0bf42c]: Commencement: Sch. 3 Pt. 1 para. 4 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-da8760248e7684b49c4a6eb48e0bf42c]: Commencement: Sch. 3 Pt. 1 para. 4 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-420fd3b6e8cda87b6a2b7f604535b736]: Commencement: Sch. 3 Pt. 1 para. 5 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-420fd3b6e8cda87b6a2b7f604535b736]: Commencement: Sch. 3 Pt. 1 para. 5 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-dc70c6a9c442877e451d508b7d12607e]: Commencement: Sch. 3 Pt. 1 para. 6 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-dc70c6a9c442877e451d508b7d12607e]: Commencement: Sch. 3 Pt. 1 para. 6 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-edbe78385d7654167aab71d7408d3825]: Commencement: Sch. 3 Pt. 1 para. 7 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-edbe78385d7654167aab71d7408d3825]: Commencement: Sch. 3 Pt. 1 para. 7 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-58f915d749ffa6c8832fd5d3ef0197bc]: Commencement: Sch. 3 Pt. 1 para. 8 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-58f915d749ffa6c8832fd5d3ef0197bc]: Commencement: Sch. 3 Pt. 1 para. 8 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-961d4b4facef5fb06b3dfc48000a8fb9]: Commencement: Sch. 3 Pt. 2 para. 1 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-961d4b4facef5fb06b3dfc48000a8fb9]: Commencement: Sch. 3 Pt. 2 para. 1 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-0a6d098429f89cb695cf521090ca6c19]: Commencement: Sch. 3 Pt. 3 para. 1 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-0a6d098429f89cb695cf521090ca6c19]: Commencement: Sch. 3 Pt. 3 para. 1 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-05d738f0e4d4a0c323c830461ba9368b]: Commencement: Sch. 3 Pt. 3 para. 2 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-05d738f0e4d4a0c323c830461ba9368b]: Commencement: Sch. 3 Pt. 3 para. 2 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-e80b887f4f24241eb116a06e98c5d569]: Commencement: Sch. 3 Pt. 3 para. 3 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-e80b887f4f24241eb116a06e98c5d569]: Commencement: Sch. 3 Pt. 3 para. 3 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-a09cb510bf6bf974f0c8d2d14171d2e6]: Commencement: Sch. 3 Pt. 3 para. 4 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
+[^c-a09cb510bf6bf974f0c8d2d14171d2e6]: Commencement: Sch. 3 Pt. 3 para. 4 in force at 5.11.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/2613/regulation/1/1)
 
-[^key-e878807357e342f90dc8155a3b3a0d57]: Textual amendment: Words in Sch. 3 Pt. 3 para. 4 substituted (25.12.2003) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003 (S.I. 2003/3081)](https://www.legislation.gov.uk/uksi/2003/3081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2003/3081/regulation/6)
+[^c-e878807357e342f90dc8155a3b3a0d57]: Textual amendment: Words in Sch. 3 Pt. 3 para. 4 substituted (25.12.2003) by [The Council Tax and Non-Domestic Rating (Demand Notices) (England) (Amendment) Regulations 2003 (S.I. 2003/3081)](https://www.legislation.gov.uk/uksi/2003/3081), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3081/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2003/3081/regulation/6)
 
-[^key-574ad487c29ed269b714d1fe11c57407]: Textual amendment: Words in Sch. 3 Pt. 3 para. 4 omitted (31.1.2007 in relation to financial years beginning on or after 1.4.2007) by virtue of [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [7(5)(a)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/7/5/a)
+[^c-574ad487c29ed269b714d1fe11c57407]: Textual amendment: Words in Sch. 3 Pt. 3 para. 4 omitted (31.1.2007 in relation to financial years beginning on or after 1.4.2007) by virtue of [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [7(5)(a)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/7/5/a)
 
-[^key-804b232a65400e8c235c54c4589ea954]: Textual amendment: Words in Sch. 3 Pt. 3 para. 4 inserted (31.1.2007 in relation to financial years beginning on or after 1.4.2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [7(5)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/7/5/b)
+[^c-804b232a65400e8c235c54c4589ea954]: Textual amendment: Words in Sch. 3 Pt. 3 para. 4 inserted (31.1.2007 in relation to financial years beginning on or after 1.4.2007) by [The Council Tax and Non-Domestic Rating (Amendment) (England) Regulations 2006 (S.I. 2006/3395)](https://www.legislation.gov.uk/uksi/2006/3395), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/1/2/b), [7(5)(b)](https://www.legislation.gov.uk/uksi/2006/3395/regulation/7/5/b)

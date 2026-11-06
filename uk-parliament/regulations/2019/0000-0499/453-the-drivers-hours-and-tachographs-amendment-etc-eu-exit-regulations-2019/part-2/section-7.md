@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7.[^key-78bc580ff8b2dd7f67bcb14f80c7df49]
+## 7.[^c-78bc580ff8b2dd7f67bcb14f80c7df49]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ In section 97B [^c23620611], for subsection (2) substitute—
 
 ## Annotations
 
-[^key-78bc580ff8b2dd7f67bcb14f80c7df49]: Commencement: Reg. 7 in force at 26.3.2019, see reg. 1(2)
+[^c-78bc580ff8b2dd7f67bcb14f80c7df49]: Commencement: Reg. 7 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620611]: Marginal citation: Section 97B was inserted by [S.I. 1979/1746](https://www.legislation.gov.uk/uksi/1979/1746) and amended by [S.I. 2005/1904](https://www.legislation.gov.uk/uksi/2005/1904), 2016/248.

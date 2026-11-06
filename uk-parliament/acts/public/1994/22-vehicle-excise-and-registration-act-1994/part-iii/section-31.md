@@ -55,7 +55,7 @@ any amount which the person is ordered to pay under section 30 is to be calculat
 
 (7) In this section references to the expiry of a vehicle licence include a reference to—
 
-- (a) its [^key-36cd1a713658d639dd70a3b93bd6110e]... ceasing to be in force under section 19(7)[^key-0a7dc7ae452897d88a7f8999e6881ddf], and
+- (a) its [^c-36cd1a713658d639dd70a3b93bd6110e]... ceasing to be in force under section 19(7)[^c-0a7dc7ae452897d88a7f8999e6881ddf], and
 - (b) its being treated as no longer in force for the purposes of subsection (2) of section 29 by subsection (4) of that section.
 
 (8) In the case of a conviction for a continuing offence, the offence is to be taken for the purposes of this section to have been committed on the date or latest date to which the conviction relates.
@@ -64,6 +64,6 @@ any amount which the person is ordered to pay under section 30 is to be calculat
 
 [^c12509281]: Textual amendment: Words in s. 31(5)(b) repealed (1.5.1995 with effect as mentioned in Sch. 4 para. 35(2) and Sch. 29 Pt. V(3) Note 1 of the amending Act) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [ss. 19](https://www.legislation.gov.uk/ukpga/1995/4/section/19), [162](https://www.legislation.gov.uk/ukpga/1995/4/section/162), [Sch. 4 Pt. VII para. 35](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/part/VII/paragraph/35), [Sch. 29 Pt. V(3)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29/part/V/3) Note 1
 
-[^key-36cd1a713658d639dd70a3b93bd6110e]: Textual amendment: Words in [s. 31(7)(a)](https://www.legislation.gov.uk/ukpga/1994/22/section/31/7/a) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 9](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/9), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-36cd1a713658d639dd70a3b93bd6110e]: Textual amendment: Words in [s. 31(7)(a)](https://www.legislation.gov.uk/ukpga/1994/22/section/31/7/a) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 9](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/9), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
 
-[^key-0a7dc7ae452897d88a7f8999e6881ddf]: Textual amendment: Words in s. 31(7)(a) inserted (1.1.2009) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 144(5)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/5/a)[(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/7)
+[^c-0a7dc7ae452897d88a7f8999e6881ddf]: Textual amendment: Words in s. 31(7)(a) inserted (1.1.2009) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 144(5)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/5/a)[(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/7)

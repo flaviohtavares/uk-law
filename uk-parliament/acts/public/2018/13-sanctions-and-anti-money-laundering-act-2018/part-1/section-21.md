@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Extra-territorial application[^key-8b6dc06b445a696248bba7ff3e464625]
+## 21. Extra-territorial application[^c-8b6dc06b445a696248bba7ff3e464625]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b6dc06b445a696248bba7ff3e464625]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2018/13/section/21) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-8b6dc06b445a696248bba7ff3e464625]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2018/13/section/21) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)

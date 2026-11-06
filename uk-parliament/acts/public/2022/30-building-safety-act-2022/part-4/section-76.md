@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Requirement for completion certificate before occupation[^key-0ed81324a38b166d353b0143db72894c][^key-4b45fee07e87388a0f9b95a6166bc0ae]
+## 76. Requirement for completion certificate before occupation[^c-0ed81324a38b166d353b0143db72894c][^c-4b45fee07e87388a0f9b95a6166bc0ae]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ed81324a38b166d353b0143db72894c]: Commencement: S. 76 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-0ed81324a38b166d353b0143db72894c]: Commencement: S. 76 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-4b45fee07e87388a0f9b95a6166bc0ae]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2022/30/section/76) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/p)
+[^c-4b45fee07e87388a0f9b95a6166bc0ae]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2022/30/section/76) in force at 1.10.2023 in so far as not already in force by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/p)

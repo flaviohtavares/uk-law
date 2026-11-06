@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Additional voluntary contributions and shared cost additional voluntary contributions[^key-b01e4f15a0098c2fd14440b5af489b5b]
+## 25. Additional voluntary contributions and shared cost additional voluntary contributions[^c-b01e4f15a0098c2fd14440b5af489b5b]
 
 *Extent: E+W+S*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b01e4f15a0098c2fd14440b5af489b5b]: Commencement: Reg. 25 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-b01e4f15a0098c2fd14440b5af489b5b]: Commencement: Reg. 25 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00031]: Footnote: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35).

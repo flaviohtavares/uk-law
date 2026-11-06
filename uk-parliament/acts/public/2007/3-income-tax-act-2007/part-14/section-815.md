@@ -26,14 +26,14 @@ summary: ''
 
 (3) Amount A is the sum of—
 
-- (a) any amounts representing income tax deducted from the non-UK resident company's disregarded company income for the tax year, and[^key-119630860e67d67eb819ddbcbd6e9d80]
-- (b) any amounts representing income tax that are treated as deducted from or paid in respect of that income, [^key-0de6b5fe38f3ba980601ade5155b96e2]...
-- (c)[^key-0de6b5fe38f3ba980601ade5155b96e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any amounts representing income tax deducted from the non-UK resident company's disregarded company income for the tax year, and[^c-119630860e67d67eb819ddbcbd6e9d80]
+- (b) any amounts representing income tax that are treated as deducted from or paid in respect of that income, [^c-0de6b5fe38f3ba980601ade5155b96e2]...
+- (c)[^c-0de6b5fe38f3ba980601ade5155b96e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Amount B is the amount that, apart from this section, would be the non-UK resident company's liability to income tax for the tax year if the non-UK resident company's disregarded company income for the tax year were left out of account.
 
 ## Annotations
 
-[^key-119630860e67d67eb819ddbcbd6e9d80]: Textual amendment: Word in s. 815(3) inserted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 63(15)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/63/15/a)
+[^c-119630860e67d67eb819ddbcbd6e9d80]: Textual amendment: Word in s. 815(3) inserted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 63(15)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/63/15/a)
 
-[^key-0de6b5fe38f3ba980601ade5155b96e2]: Textual amendment: S. 815(3)(c) and word omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 63(15)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/63/15/b)
+[^c-0de6b5fe38f3ba980601ade5155b96e2]: Textual amendment: S. 815(3)(c) and word omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 63(15)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/63/15/b)

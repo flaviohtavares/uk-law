@@ -43,15 +43,15 @@ The Department for Social Development makes the following Regulations in exercis
 
 In accordance with Article 103(4) of that Order it has consulted the Board of the Pension Protection Fund[^f00002] in relation to regulation 2(4).
 
-## 1. Citation and commencement[^key-fe0f9258b5c3a9acaac76c688df96eca]
+## 1. Citation and commencement[^c-fe0f9258b5c3a9acaac76c688df96eca]
 
 These Regulations may be cited as the Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 1st April 2006.
 
-## 2. Amendment of the Occupational Pension Schemes (Levies) Regulations[^key-687ac00f037006d83a1b8f8287f1e4d1]
+## 2. Amendment of the Occupational Pension Schemes (Levies) Regulations[^c-687ac00f037006d83a1b8f8287f1e4d1]
 
 (1) The Occupational Pension Schemes (Levies) Regulations (Northern Ireland) 2005[^f00003] shall be amended in accordance with paragraphs (2) to (8).
 
-(2)[^key-13729a9adbbc68b2159905d054abc69b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-13729a9adbbc68b2159905d054abc69b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 5 (the reference day)—
 
@@ -60,7 +60,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Levies) (Ame
   - (ii) the words “and 1st April 2006” shall be omitted;
 - (b) in paragraph (4) for “1st April 2007” there shall be substituted “1st April 2006”.
 
-(4)[^key-d5007c1f62634c3b8ea656f713a3df71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d5007c1f62634c3b8ea656f713a3df71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In regulation 13 (meaning of “the levies” in Part IV)—
 
@@ -77,7 +77,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Levies) (Ame
 
 (8) In regulation 18(4) (avoidance of double liability: schemes in Great Britain)—
 
-- (a)[^key-6d4cc297b19a0db11df01490ae1f18a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6d4cc297b19a0db11df01490ae1f18a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (c) for “Regulations.” there shall be substituted “Regulations; and”;
 - (c) after sub-paragraph (c) there shall be added the following sub-paragraph—
 
@@ -113,14 +113,14 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00002]: Footnote: The Board of the Pension Protection Fund is established by section 107 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35)
 
-[^key-fe0f9258b5c3a9acaac76c688df96eca]: Commencement: Reg. 1 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/162/regulation/1)
+[^c-fe0f9258b5c3a9acaac76c688df96eca]: Commencement: Reg. 1 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/162/regulation/1)
 
-[^key-687ac00f037006d83a1b8f8287f1e4d1]: Commencement: Reg. 2 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/162/regulation/1)
+[^c-687ac00f037006d83a1b8f8287f1e4d1]: Commencement: Reg. 2 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/162/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2005 No. 147](https://www.legislation.gov.uk/nisr/2005/147)
 
-[^key-13729a9adbbc68b2159905d054abc69b]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/162/regulation/2/2) revoked (1.4.2007) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/210)](https://www.legislation.gov.uk/nisr/2007/210), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/b), [3](https://www.legislation.gov.uk/nisr/2007/210/regulation/3)
+[^c-13729a9adbbc68b2159905d054abc69b]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/162/regulation/2/2) revoked (1.4.2007) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/210)](https://www.legislation.gov.uk/nisr/2007/210), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/b), [3](https://www.legislation.gov.uk/nisr/2007/210/regulation/3)
 
-[^key-d5007c1f62634c3b8ea656f713a3df71]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/162/regulation/2/4) revoked (1.4.2007) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/210)](https://www.legislation.gov.uk/nisr/2007/210), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/b), [3](https://www.legislation.gov.uk/nisr/2007/210/regulation/3)
+[^c-d5007c1f62634c3b8ea656f713a3df71]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/162/regulation/2/4) revoked (1.4.2007) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/210)](https://www.legislation.gov.uk/nisr/2007/210), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/b), [3](https://www.legislation.gov.uk/nisr/2007/210/regulation/3)
 
-[^key-6d4cc297b19a0db11df01490ae1f18a6]: Textual amendment: [Reg. 2(8)(a)](https://www.legislation.gov.uk/nisr/2006/162/regulation/2/8/a) revoked (1.4.2007) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/210)](https://www.legislation.gov.uk/nisr/2007/210), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/b), [3](https://www.legislation.gov.uk/nisr/2007/210/regulation/3)
+[^c-6d4cc297b19a0db11df01490ae1f18a6]: Textual amendment: [Reg. 2(8)(a)](https://www.legislation.gov.uk/nisr/2006/162/regulation/2/8/a) revoked (1.4.2007) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/210)](https://www.legislation.gov.uk/nisr/2007/210), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/b), [3](https://www.legislation.gov.uk/nisr/2007/210/regulation/3)

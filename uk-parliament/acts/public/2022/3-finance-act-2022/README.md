@@ -341,7 +341,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 
 - [Section 101 — Vehicle CO2 emissions certificates](part-6/section-101.md)
 
-#### ...[^key-28a6ac724106ee3a95dcb85b69f300ee]
+#### ...[^c-28a6ac724106ee3a95dcb85b69f300ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -379,4 +379,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-28a6ac724106ee3a95dcb85b69f300ee]: Textual amendment: S. 102 and cross-heading omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 347(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/347/8)
+[^c-28a6ac724106ee3a95dcb85b69f300ee]: Textual amendment: S. 102 and cross-heading omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 347(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/347/8)

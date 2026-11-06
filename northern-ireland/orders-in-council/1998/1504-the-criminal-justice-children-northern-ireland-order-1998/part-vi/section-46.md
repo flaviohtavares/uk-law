@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Release on licence[^key-0112932b4ac4999ff2347a73d75833de]
+## 46. Release on licence[^c-0112932b4ac4999ff2347a73d75833de]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ the Department shall release P on licence.
 
 ## Annotations
 
-[^key-0112932b4ac4999ff2347a73d75833de]: Textual amendment: Arts. 46-46B substituted for art. 46 (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 10(3)](https://www.legislation.gov.uk/nia/2013/7/section/10/3), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1) (with [s. 10(5)-(9)](https://www.legislation.gov.uk/nia/2013/7/section/10/5))
+[^c-0112932b4ac4999ff2347a73d75833de]: Textual amendment: Arts. 46-46B substituted for art. 46 (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 10(3)](https://www.legislation.gov.uk/nia/2013/7/section/10/3), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1) (with [s. 10(5)-(9)](https://www.legislation.gov.uk/nia/2013/7/section/10/5))

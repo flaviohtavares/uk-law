@@ -24,7 +24,7 @@ Rule 5(1)
 
 ### PART 1 — Provisions as to Time
 
-#### 1. Timetable[^key-b75c2b0c39efabb49774316ad496bb31]
+#### 1. Timetable[^c-b75c2b0c39efabb49774316ad496bb31]
 
 (1) The proceedings at the election must be conducted in accordance with the following timetable.
 
@@ -48,7 +48,7 @@ Timetable
 
 (4) In this rule, “**the day of election**” means the day specified in the notice of election as the day on which a poll would take place in the event of a contest.
 
-#### 2. Computation of time[^key-82467fdf4302536dc026f4be4e519ca8]
+#### 2. Computation of time[^c-82467fdf4302536dc026f4be4e519ca8]
 
 (1) An excluded day is to be disregarded in calculating any period set out in the second column of the timetable in rule 1.
 
@@ -60,7 +60,7 @@ Timetable
 
 #### Notice of Election
 
-##### 3. Notice of election[^key-8649ae17c554d1dfe8bc566b04506570]
+##### 3. Notice of election[^c-8649ae17c554d1dfe8bc566b04506570]
 
 (1) The returning officer must publish notice of the election.
 
@@ -86,7 +86,7 @@ Timetable
 
 #### Nomination
 
-##### 4. Duty of returning officer to supply forms of nomination etc.[^key-5d5935ba27f84a19d96b9c587ae1348a]
+##### 4. Duty of returning officer to supply forms of nomination etc.[^c-5d5935ba27f84a19d96b9c587ae1348a]
 
 (1) At the place and times for obtaining forms of nomination paper set out in the notice of election, the returning officer must—
 
@@ -97,7 +97,7 @@ Timetable
 
 (3) It is not, however, necessary for a nomination to be made on a form supplied by the returning officer or obtained online.
 
-##### 5. Nomination of candidates[^key-256a603de2e2bb9b9b7d64352a9443f6]
+##### 5. Nomination of candidates[^c-256a603de2e2bb9b9b7d64352a9443f6]
 
 (1) A candidate must nominate themself using a nomination paper in the form in Appendix 1 or a form to the like effect.
 
@@ -119,7 +119,7 @@ Timetable
 
 (6) The nomination paper must be accompanied by a form (a “home address form”) that complies with rule 9.
 
-##### 6. Nomination papers: descriptions[^key-d674d3c8d5eb1f8f2148f9483eaaade7]
+##### 6. Nomination papers: descriptions[^c-d674d3c8d5eb1f8f2148f9483eaaade7]
 
 (1) This rule sets out requirements about the descriptions that may be included in a nomination paper as mentioned in rule 5(3)(b).
 
@@ -139,7 +139,7 @@ Timetable
 (4) A description that is likely to lead electors to associate the candidate with two or more registered political parties is permitted where—
 
 - (a) the parties are each qualifying parties,
-- (b)[^key-79259d7d92b24680ed244af9b3eb3077] the description—
+- (b)[^c-79259d7d92b24680ed244af9b3eb3077] the description—
   - (i) consists of the registered name of each of the parties shown in either or both of the versions described in paragraph (5), or
   - (ii) is a description registered for use by each of the parties under section 28B of the Political Parties, Elections and Referendums Act 2000 (joint descriptions), and
 - (c) the use of the description by the candidate is authorised by a certificate issued by or on behalf of the registered nominating officer of each of the parties and received by the returning officer before the last time for the delivery of nomination papers.
@@ -168,7 +168,7 @@ Timetable
 - (a) “**registered political party**” means a party that is registered under Part 2 of the Political Parties, Elections and Referendums Act 2000 on the day that is two days before the last day for the delivery of nomination papers at the election (disregarding any excluded day);
 - (b) a registered political party is a qualifying party if, on that day, the party is registered in respect of Wales in the Great Britain register maintained under Part 2 of that Act.
 
-##### 7. Addition of “Wales”, “Welsh”, “Cymru” or “Cymreig”[^key-b2ad2f8eba50722ed3801d5e262a097b]
+##### 7. Addition of “Wales”, “Welsh”, “Cymru” or “Cymreig”[^c-b2ad2f8eba50722ed3801d5e262a097b]
 
 (1) This rule sets out when and how a candidate may make additions in a nomination paper to a description that the candidate is permitted to use under rule 6(3) or (4).
 
@@ -209,7 +209,7 @@ Timetable
 
 (10) Where a candidate adds anything to a description in a nomination paper in accordance with this rule, references in the following provisions of this Schedule to the description are references to the description with the addition.
 
-##### 8. Nomination papers: statements of party membership[^key-95bc7a9a2bc0ca426f9107512cc4959a]
+##### 8. Nomination papers: statements of party membership[^c-95bc7a9a2bc0ca426f9107512cc4959a]
 
 (1) This rule sets out the requirements for statements of party membership that must be included in nomination papers as mentioned in rule 5(3)(c).
 
@@ -233,7 +233,7 @@ Timetable
 - (b) references to a registered name of a registered political party are to a name of the party registered under section 28 of that Act;
 - (c) “**the relevant period**” means the period of 12 months ending with the day on which the notice of election is published.
 
-##### 9. Home address forms[^key-f05d23093b70adef446a2e895e07f449]
+##### 9. Home address forms[^c-f05d23093b70adef446a2e895e07f449]
 
 (1) This rule sets out the requirements for home address forms that must accompany nomination papers under rule 5(6)
 
@@ -281,7 +281,7 @@ Timetable
 - (c) where the candidate’s home address is in Scotland, the local government area in which the address is situated;
 - (d) where the candidate’s home address is in Northern Ireland, the local government district in which it is situated.
 
-##### 10. Decisions as to validity of nomination papers[^key-23fa1cddd22b06fd57e94dca218f9e2d]
+##### 10. Decisions as to validity of nomination papers[^c-23fa1cddd22b06fd57e94dca218f9e2d]
 
 (1) This rule applies where a nomination paper and the accompanying home address form are delivered in accordance with these rules.
 
@@ -294,7 +294,7 @@ Timetable
 (3) The returning officer is entitled to hold a nomination paper invalid only on one of the following grounds—
 
 - (a) that the particulars of the candidate are not as required by law;
-- (aa)[^key-6ab3044e7b011d7e213b2ff7ddfd70cc] that the nomination paper does not include the declarations required by rule 5(3)(d), signed by the candidate;
+- (aa)[^c-6ab3044e7b011d7e213b2ff7ddfd70cc] that the nomination paper does not include the declarations required by rule 5(3)(d), signed by the candidate;
 - (b) that the candidate’s home address form does not comply with rule 9(2) to (6);
 - (c) where the candidate’s home address form contains a statement that the home address must not be made public, that the form does not comply with rule 9(7);
 - (d) that the nomination paper is not signed by the candidate, or that the candidate’s signature has not been attested, as required by rule 5(5).
@@ -314,19 +314,19 @@ Timetable
 
 (9) Except as provided by paragraph (8), nothing in this rule prevents the validity of a nomination being questioned on an election petition.
 
-##### 11. Nomination in more than one electoral ward[^key-99a6a0abd0feb82a6359eeb59ee8ff83]
+##### 11. Nomination in more than one electoral ward[^c-99a6a0abd0feb82a6359eeb59ee8ff83]
 
 (1) A candidate who is validly nominated for more than one electoral ward of the same principal area must withdraw from candidature in all those electoral wards except one.
 
 (2) A candidate who does not withdraw as required by paragraph (1) is to be treated as having withdrawn from candidature in all the electoral wards in which the candidate was validly nominated.
 
-##### 12. Withdrawal of candidates[^key-9357b7bae28ceca92cb6ba661e3da817]
+##### 12. Withdrawal of candidates[^c-9357b7bae28ceca92cb6ba661e3da817]
 
 (1) A candidate may withdraw from candidature by giving a notice of withdrawal to the returning officer.
 
 (2) The notice of withdrawal must be signed by the candidate in the presence of a witness who must attest the candidate’s signature.
 
-##### 13. Publication of statement of persons nominated[^key-a8c3661338cce413881505f080af7321]
+##### 13. Publication of statement of persons nominated[^c-a8c3661338cce413881505f080af7321]
 
 (1) The returning officer must prepare and publish a statement (a “statement of persons nominated”) showing—
 
@@ -348,7 +348,7 @@ Timetable
 
 (5) Rule 14 (use of commonly used names) and rule 15 (names that are the same or similar) make further provision about the content of the statement of persons nominated.
 
-##### 14. Use of commonly used names in statement of persons nominated[^key-12f0a162a748ec9c44ab028b2527f3a2]
+##### 14. Use of commonly used names in statement of persons nominated[^c-12f0a162a748ec9c44ab028b2527f3a2]
 
 (1) This rule applies where a person’s nomination paper gives commonly used forenames or surnames in accordance with rule 5(4).
 
@@ -362,7 +362,7 @@ Timetable
 - (a) the statement of persons nominated must show the person’s other forenames or surnames as stated in the nomination paper in accordance with rule 5(3)(a) (instead of the commonly used forenames or surnames), and
 - (b) the returning officer must give a notice to the candidate stating the reasons for refusing to allow the use of the commonly used forenames or surnames.
 
-##### 15. Names that are the same or similar[^key-4a3c24bceb9a578b9f626ae2f12b9c4b]
+##### 15. Names that are the same or similar[^c-4a3c24bceb9a578b9f626ae2f12b9c4b]
 
 (1) This rule applies where, in preparing a statement of persons nominated, the returning officer decides that—
 
@@ -380,13 +380,13 @@ Timetable
 
 (6) Anything done by a returning officer under this rule may not be questioned in any proceedings other than proceedings on an election petition.
 
-##### 16. Correction of minor errors in nomination papers or home address forms[^key-ba78831bf2f49738699abdd0fe3f9137]
+##### 16. Correction of minor errors in nomination papers or home address forms[^c-ba78831bf2f49738699abdd0fe3f9137]
 
 (1) A returning officer may, at any time before the publication of the statement of persons nominated, correct minor errors in a nomination paper or home address form.
 
 (2) Errors which may be corrected include—
 
-- (a)[^key-4a00f7c6434cc986d840fab98b3f408f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4a00f7c6434cc986d840fab98b3f408f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) obvious errors of spelling;
 - (c) errors as to the information given in accordance with rule 9(7) (information that must be included where the candidate has stated that the home address must not be made public).
 
@@ -394,7 +394,7 @@ Timetable
 
 (4) In deciding whether to correct minor errors under this rule, a returning officer must have regard to any guidance given by the Electoral Commission for the purposes of this rule.
 
-##### 17. Inspection of nomination papers[^key-ed48a309b2e77b188488837e78ce73f2]
+##### 17. Inspection of nomination papers[^c-ed48a309b2e77b188488837e78ce73f2]
 
 (1) During the time for inspection, any person may inspect nomination papers that have been delivered.
 
@@ -402,9 +402,9 @@ Timetable
 
 (3) A person inspecting nomination papers may take a copy of, or make extracts from, the papers.
 
-(4)[^key-2d78f886a580af171429c63150cb6cce] Where nomination papers have been delivered in accordance with the electronic delivery statement, the returning officer must take reasonable steps to ensure that they can be accessed for the purposes of inspecting them.
+(4)[^c-2d78f886a580af171429c63150cb6cce] Where nomination papers have been delivered in accordance with the electronic delivery statement, the returning officer must take reasonable steps to ensure that they can be accessed for the purposes of inspecting them.
 
-##### 18. Inspection of home address forms[^key-916fce597848924ddf49b331976b2cfa]
+##### 18. Inspection of home address forms[^c-916fce597848924ddf49b331976b2cfa]
 
 (1) During the time for inspection, the home address form of a candidate standing nominated may be inspected by any of the following who wish to inspect it—
 
@@ -414,13 +414,13 @@ Timetable
 
 (2) In paragraph (1), “**the time for inspection**” means ordinary office hours on any day after the last day for the delivery of nomination papers and before the day of the poll, other than an excluded day.
 
-(2A)[^key-5e1c566a760e1db89670073ac0f5ae8b] Where a home address form has been delivered in accordance with the electronic delivery statement, the returning officer must take reasonable steps to ensure that the persons mentioned in paragraph (1) can access that form for the purposes of inspecting it.
+(2A)[^c-5e1c566a760e1db89670073ac0f5ae8b] Where a home address form has been delivered in accordance with the electronic delivery statement, the returning officer must take reasonable steps to ensure that the persons mentioned in paragraph (1) can access that form for the purposes of inspecting it.
 
 (3) A candidate or other person carrying out an inspection under this rule must not take a copy of, or make extracts from, a home address form.
 
 (4) The returning officer must not permit a home address form to be inspected otherwise than in accordance with this rule or for some other purpose authorised by law.
 
-##### 19. Adjournment of nomination proceedings in the case of riot[^key-f40478bcd5e2f390038bb6fd44f22169]
+##### 19. Adjournment of nomination proceedings in the case of riot[^c-f40478bcd5e2f390038bb6fd44f22169]
 
 (1) This rule applies if proceedings for, or in connection with, nomination are interrupted or obstructed on any day by riot or open violence.
 
@@ -437,7 +437,7 @@ Timetable
 
 #### Method of Election
 
-##### 20. Decision as to whether election is contested and declaration of result if uncontested[^key-7b8cd3ae66379332498efe3cd8e09bb6]
+##### 20. Decision as to whether election is contested and declaration of result if uncontested[^c-7b8cd3ae66379332498efe3cd8e09bb6]
 
 (1) The returning officer must determine whether the number of persons remaining validly nominated for the electoral ward after any withdrawals under rule 12 exceeds the number of councillors to be elected.
 
@@ -454,27 +454,27 @@ Timetable
 
 #### General Provisions
 
-##### 21. Poll to be taken by ballot[^key-b065956dd901d1baf5fc4ccc96a82a4a]
+##### 21. Poll to be taken by ballot[^c-b065956dd901d1baf5fc4ccc96a82a4a]
 
 (1) The votes at the poll must be given by ballot.
 
-(2)[^key-0c8679c66ea0eb3f8e71c925e7376410] The result must be ascertained—
+(2)[^c-0c8679c66ea0eb3f8e71c925e7376410] The result must be ascertained—
 
 - (a) where the voting system that applies at the election is the simple majority system, in accordance with Part 4;
 - (b) where the voting system that applies at the election is the single transferable vote system, in accordance with Part 4A.
 
-##### 22. The ballot papers[^key-c2b9ae4c768995ca064179e63ccd49ca]
+##### 22. The ballot papers[^c-c2b9ae4c768995ca064179e63ccd49ca]
 
 (1) The ballot of every voter must consist of a ballot paper.
 
 (2) The only persons entitled to have their names inserted on the ballot paper are those remaining validly nominated for the electoral ward after any withdrawals under rule 12.
 
-(3) Where the voting system that applies at the election is the simple majority system,[^key-321d516e7398b6db677da644933df19b] A ballot paper must be—
+(3) Where the voting system that applies at the election is the simple majority system,[^c-321d516e7398b6db677da644933df19b] A ballot paper must be—
 
 - (a) in the form in Appendix 2, and
 - (b) printed in accordance with the directions in that Appendix.
 
-(3A)[^key-da7eaf26b5b2a947c5bd86b857932941] Where the voting system that applies at the election is the single transferable vote system, a ballot paper must be—
+(3A)[^c-da7eaf26b5b2a947c5bd86b857932941] Where the voting system that applies at the election is the single transferable vote system, a ballot paper must be—
 
 - (a) in the form in Appendix 2A, and
 - (b) printed in accordance with the directions in that Appendix.
@@ -482,7 +482,7 @@ Timetable
 (4) The ballot paper must—
 
 - (a) contain the names and descriptions (if any) of the candidates and their home address information, as shown in the statement of persons nominated,
-- (aa)[^key-9cf797c085293bb3a663b2e0978770b7] where a candidate has elected to use the word “Wales”, “Welsh”, “Cymru” or “Cymreig” in a description as set out in rules 6(7) and 7, display that word or those words on the ballot paper,
+- (aa)[^c-9cf797c085293bb3a663b2e0978770b7] where a candidate has elected to use the word “Wales”, “Welsh”, “Cymru” or “Cymreig” in a description as set out in rules 6(7) and 7, display that word or those words on the ballot paper,
 - (b) be capable of being folded up, and
 - (c) have a number and other unique identifying mark printed on the back.
 
@@ -497,7 +497,7 @@ Timetable
 
 (8) The order of the names in the ballot paper must be the same as in the statement of persons nominated.
 
-##### 23. Corresponding number list[^key-2149b6fed95a88069dad1efd98997651]
+##### 23. Corresponding number list[^c-2149b6fed95a88069dad1efd98997651]
 
 (1) The returning officer must prepare a list (“the corresponding number list”) in accordance with this rule.
 
@@ -509,7 +509,7 @@ Timetable
 
 (5) The corresponding number list must be in the form set out in Appendix 3 or a form to the like effect.
 
-##### 24. The official mark[^key-2b0657aec9346e577938eb31fcb83d7b]
+##### 24. The official mark[^c-2b0657aec9346e577938eb31fcb83d7b]
 
 (1) Each ballot paper must contain an appropriate security marking (“the official mark”).
 
@@ -519,11 +519,11 @@ Timetable
 
 (4) The returning officer may use a different official mark for different purposes at the same election.
 
-##### 25. Prohibition of disclosure of vote[^key-4440d58a2ca472ef718898be3f28f1c0]
+##### 25. Prohibition of disclosure of vote[^c-4440d58a2ca472ef718898be3f28f1c0]
 
 A person who has voted at the election may not be required to state for whom they voted in any legal proceedings to question the election.
 
-##### 26. Use of schools and public rooms[^key-a96b6d8c0939ca2348219ccc032ca414]
+##### 26. Use of schools and public rooms[^c-a96b6d8c0939ca2348219ccc032ca414]
 
 (1) The returning officer may use any of the following rooms free of charge for the purpose of taking the poll or counting the votes—
 
@@ -536,11 +536,11 @@ A person who has voted at the election may not be required to state for whom the
 - (a) make good any damage to the room resulting from its use for that purpose, and
 - (b) defray any expense incurred by the person or body having control over the room by reason of its use for that purpose.
 
-(3)[^key-71e61f3f925157200f21b7d79816f72b] The use of a room in an unoccupied building for the purpose of taking the poll or counting the votes, does not render a person liable to pay any council tax or non-domestic rates.
+(3)[^c-71e61f3f925157200f21b7d79816f72b] The use of a room in an unoccupied building for the purpose of taking the poll or counting the votes, does not render a person liable to pay any council tax or non-domestic rates.
 
 #### Action to be taken before the poll
 
-##### 27. Notice of poll[^key-538593049c4204085cb7c64eb0bb0f49]
+##### 27. Notice of poll[^c-538593049c4204085cb7c64eb0bb0f49]
 
 (1) The returning officer must publish notice of the poll stating—
 
@@ -557,15 +557,15 @@ A person who has voted at the election may not be required to state for whom the
 
 (4) The returning officer must, as soon as practicable after publishing notice under paragraph (3), give a copy of it to each of the election agents.
 
-##### 28. Postal ballot papers[^key-7a07534b71e5b7de3edf812e7d3bda35]
+##### 28. Postal ballot papers[^c-7a07534b71e5b7de3edf812e7d3bda35]
 
 (1) The returning officer must, in accordance with regulations under the 1983 Act[^f00012], issue to those entitled to vote by post—
 
 - (a) a ballot paper,
-- (b) a postal voting statement in the form set out in the applicable Appendix[^key-23c14c7df5a520e50210eff0adb2d87f] or a form to the like effect, and
+- (b) a postal voting statement in the form set out in the applicable Appendix[^c-23c14c7df5a520e50210eff0adb2d87f] or a form to the like effect, and
 - (c) such envelopes for the return of the ballot paper and postal voting statement as may be prescribed by regulations under the 1983 Act.
 
-(1A)[^key-f81ac4231c4853d4bc04bef40ab1eccd]  In paragraph (1)(b), “**the applicable Appendix**” means—
+(1A)[^c-f81ac4231c4853d4bc04bef40ab1eccd]  In paragraph (1)(b), “**the applicable Appendix**” means—
 
 - (a) where the voting system that applies at the election is the simple majority system, Appendix 4;
 - (b) where the voting system that applies at the election is the single transferable vote system, Appendix 4A.
@@ -584,7 +584,7 @@ A person who has voted at the election may not be required to state for whom the
 
 (4) In the case of a ballot paper issued to a person at an address in the United Kingdom, the returning officer must ensure that the return of the ballot paper and postal voting statement is free of charge to the voter.
 
-##### 29. Provision of polling stations[^key-b6336dd89c5f3ccd131f3e9456a13ba5]
+##### 29. Provision of polling stations[^c-b6336dd89c5f3ccd131f3e9456a13ba5]
 
 (1) The returning officer must—
 
@@ -595,7 +595,7 @@ A person who has voted at the election may not be required to state for whom the
 
 (3) The returning officer must provide each polling station with such number of compartments as may be necessary in which voters can mark their votes screened from observation.
 
-##### 30. Appointment of presiding officers and clerks[^key-8dbe9fdc43d9d183cae5ea062a4c5169]
+##### 30. Appointment of presiding officers and clerks[^c-8dbe9fdc43d9d183cae5ea062a4c5169]
 
 (1) The returning officer must appoint and pay—
 
@@ -608,9 +608,9 @@ A person who has voted at the election may not be required to state for whom the
 
 (4) Where the returning officer presides at a polling station, these rules apply to the returning officer so presiding with the necessary modifications as to things done by the returning officer in relation to the presiding officer or by the presiding officer in relation to the returning officer.
 
-(5) A presiding officer may authorise the clerks to do anything (including asking questions) that the presiding officer is required or authorised by these rules to do [^key-629766c39e503c78fcea23e8555b7ba4]..., except ordering the arrest,[^key-cd9db8b61e4ecde11438ae162b3ea586] exclusion or removal of any person from the polling station.
+(5) A presiding officer may authorise the clerks to do anything (including asking questions) that the presiding officer is required or authorised by these rules to do [^c-629766c39e503c78fcea23e8555b7ba4]..., except ordering the arrest,[^c-cd9db8b61e4ecde11438ae162b3ea586] exclusion or removal of any person from the polling station.
 
-##### 31. Issue of official poll cards[^key-652e1270c860965918668dce28c76d65]
+##### 31. Issue of official poll cards[^c-652e1270c860965918668dce28c76d65]
 
 (1) The returning officer must, as soon as practicable after publishing notice of the election, send or deliver—
 
@@ -623,7 +623,7 @@ A person who has voted at the election may not be required to state for whom the
 
 (3) An official proxy poll card or an official proxy postal poll card must be sent or delivered to the proxy’s address, as shown in the list of proxies.
 
-(4) Each poll card must be in the appropriate form in the applicable Appendix[^key-2cf64cdde88bd6ce4d1f45175006d1d0] or a form to the like effect and must set out—
+(4) Each poll card must be in the appropriate form in the applicable Appendix[^c-2cf64cdde88bd6ce4d1f45175006d1d0] or a form to the like effect and must set out—
 
 - (a) the name of the council to which councillors are to be elected,
 - (b) the electoral ward for which councillors are to be elected,
@@ -636,18 +636,18 @@ A person who has voted at the election may not be required to state for whom the
 
 (6) In the case of an elector with an anonymous entry, the poll card—
 
-- (a) must contain such information as is specified in the applicable Appendix[^key-cdb666b1e4aed52553357af0b7a40cf7] instead of the information set out in paragraph (4)(d), and
+- (a) must contain such information as is specified in the applicable Appendix[^c-cdb666b1e4aed52553357af0b7a40cf7] instead of the information set out in paragraph (4)(d), and
 - (b) must be sent or delivered in an envelope or other form of covering so as not to disclose that the elector has an anonymous entry.
 
 (7) In this rule—
 
-- (aa)[^key-fc43ca7fc09d9c164202fcb8dc764923] “**the applicable Appendix**” means—
+- (aa)[^c-fc43ca7fc09d9c164202fcb8dc764923] “**the applicable Appendix**” means—
   - (i) where the voting system that applies at the election is the simple majority system, Appendix 5;
   - (ii) where the voting system that applies at the election is the single transferable vote system, Appendix 5A.
 - (a) “**elector**” means a person who is registered in the register of local government electors for the electoral ward in question on the last day for the publication of notice of the election, except that it includes a person then shown in the register (or, in the case of a person with an anonymous entry in the register, in the record of anonymous entries) as below voting age only if it appears from the register (or the record of anonymous entries) that the person will be of voting age on the day fixed for the poll;
 - (b) “**qualifying address**” has the same meaning as in the 1983 Act (see section 202(1) of that Act[^f00013]).
 
-##### 32. Equipment of polling stations[^key-6a0e5f88424b2955b6b305cc8c7fabd7]
+##### 32. Equipment of polling stations[^c-6a0e5f88424b2955b6b305cc8c7fabd7]
 
 (1) The returning officer must provide each presiding officer with such number of ballot boxes and ballot papers as the returning officer considers necessary.
 
@@ -661,7 +661,7 @@ A person who has voted at the election may not be required to state for whom the
 - (d) copies of the parts of any lists of persons entitled to vote by post or by proxy that correspond to the relevant register of electors, and
 - (e) a list (“the polling station’s corresponding number list”) consisting of that part of Part 2 of the corresponding number list prepared under rule 23 that contains the numbers, but not the other unique identifying marks, corresponding to those on the ballot papers provided to the presiding officer under paragraph (1).
 
-(3A)[^key-50cf8a1e02cbddecc2510b4a668a905c] The documents provided in accordance with paragraph (3)(b), (d) and (e) may be provided in paper form or electronic form.
+(3A)[^c-50cf8a1e02cbddecc2510b4a668a905c] The documents provided in accordance with paragraph (3)(b), (d) and (e) may be provided in paper form or electronic form.
 
 (4) In paragraph (3), “**the relevant register of electors**” means the register of electors for the electoral ward or such part of it as contains the entries relating to the electors allotted to the polling station.
 
@@ -670,47 +670,47 @@ A person who has voted at the election may not be required to state for whom the
 (6) The returning officer must also provide each polling station with—
 
 - (a) an enlarged hand-held sample copy of the ballot paper for the assistance of voters who are partially-sighted, and
-- (b)[^key-f6570622ddfaad7bacdfbdd5b3ed229b] such equipment as it is reasonable to provide for the purposes of enabling, or making it easier for, relevant persons to vote independently in the manner directed by rule 42, including in relation to voting secretly.
+- (b)[^c-f6570622ddfaad7bacdfbdd5b3ed229b] such equipment as it is reasonable to provide for the purposes of enabling, or making it easier for, relevant persons to vote independently in the manner directed by rule 42, including in relation to voting secretly.
 
-(6A)[^key-2f21b35140902d022b41e96b3c0e45f7] In this rule, “**relevant persons**” means persons who find it difficult or impossible to vote in the manner directed by rule 42 because of—
+(6A)[^c-2f21b35140902d022b41e96b3c0e45f7] In this rule, “**relevant persons**” means persons who find it difficult or impossible to vote in the manner directed by rule 42 because of—
 
 - (a) severe sight impairment or partial sight, or
 - (b) other disability.
 
 (7) The sample copy of the ballot paper required to be displayed and provided by paragraphs (5) and (6)(a) must be clearly marked as specimen and provided only for the guidance of voters.
 
-(8)[^key-12e73fa9be37ea3a79b0c4c19dd09b88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-12e73fa9be37ea3a79b0c4c19dd09b88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9) The returning officer must also cause a notice in the form in the applicable Appendix[^key-354bfcefb77a99b448768e3ec4cc31a4], giving directions for the guidance of votes in voting, to be displayed—
+(9) The returning officer must also cause a notice in the form in the applicable Appendix[^c-354bfcefb77a99b448768e3ec4cc31a4], giving directions for the guidance of votes in voting, to be displayed—
 
 - (a) inside each polling station (but outside the voting compartments), and
 - (b) outside each polling station.
 
-(9A)[^key-4dd88b9f4c4da99e8c36d2568c8898a7]  In paragraph (9), “**the applicable Appendix**” means—
+(9A)[^c-4dd88b9f4c4da99e8c36d2568c8898a7]  In paragraph (9), “**the applicable Appendix**” means—
 
 - (a) where the voting system that applies at the election is the simple majority system, Appendix 6;
 - (b) where the voting system that applies at the election is the single transferable vote system, Appendix 6A.
 
 (10) The returning officer may also provide copies of the notice in Braille or in such languages other than English and Welsh as the returning officer considers appropriate.
 
-(11) Where the voting system that applies at the election is the simple majority system,[^key-148b23d5e68f718ca3b426072fda7409] A notice containing the following information must be exhibited inside each voting compartment in each polling station—
+(11) Where the voting system that applies at the election is the simple majority system,[^c-148b23d5e68f718ca3b426072fda7409] A notice containing the following information must be exhibited inside each voting compartment in each polling station—
 
-- (a) where only one councillor is to be elected, an instruction to the voter to vote only once by putting a cross \[X\] in the voting box[^key-44d82874341c7201ece2e62fa12b3cfb] next to their choice;
-- (b) where more than one councillor is to be elected, an instruction to the voter to vote for no more than the number to be elected by putting a cross \[X\] in the voting box[^key-0a3331346aef15b096f1bd2f4e753526] next to each of their choices;
+- (a) where only one councillor is to be elected, an instruction to the voter to vote only once by putting a cross \[X\] in the voting box[^c-44d82874341c7201ece2e62fa12b3cfb] next to their choice;
+- (b) where more than one councillor is to be elected, an instruction to the voter to vote for no more than the number to be elected by putting a cross \[X\] in the voting box[^c-0a3331346aef15b096f1bd2f4e753526] next to each of their choices;
 - (c) a warning to the voter to put no other mark on the ballot paper or their vote may not count.
 
-(12)[^key-c64b001683843bb5956ca616527f7dc6]  Where the voting system that applies at the election is the single transferable vote system, a notice containing the following information must be exhibited inside each voting compartment in each polling station—
+(12)[^c-c64b001683843bb5956ca616527f7dc6]  Where the voting system that applies at the election is the single transferable vote system, a notice containing the following information must be exhibited inside each voting compartment in each polling station—
 
 - (a) an instruction to the voter to put the number 1 in the voting box next to their first choice;
 - (b) an explanation to the voter that they may make as many or as few additional choices as they wish, together with an instruction on how to do this by putting the number 2 next to their second choice, the number 3 next to their third choice and so on.
 
-(13)[^key-7469117e528b090c81488dca7b898f24] The Electoral Commission must give guidance to returning officers in relation to the duty imposed by paragraph (6)(b).
+(13)[^c-7469117e528b090c81488dca7b898f24] The Electoral Commission must give guidance to returning officers in relation to the duty imposed by paragraph (6)(b).
 
 (14) Before giving guidance under paragraph (13), the Electoral Commission must consult such persons, including bodies representing the interests of relevant persons, as it considers appropriate.
 
 (15) In performing the duty imposed by paragraph (6)(b), a returning officer must have regard to guidance given under paragraph (13).
 
-##### 33. Appointment of polling and counting agents[^key-90caf5222d25c4cba89f4f5db4eef00e]
+##### 33. Appointment of polling and counting agents[^c-90caf5222d25c4cba89f4f5db4eef00e]
 
 (1) A candidate may, before the poll begins, appoint—
 
@@ -737,15 +737,15 @@ A person who has voted at the election may not be required to state for whom the
 
 (8) The notice must—
 
-- (a) give the names , postal addresses and e-mail addresses, where available,[^key-5a07362e9d509679cb892691795d21b8] of the persons appointed, and
+- (a) give the names , postal addresses and e-mail addresses, where available,[^c-5a07362e9d509679cb892691795d21b8] of the persons appointed, and
 - (b) be given no later than the fifth day before the day of the poll, disregarding any excluded day.
 
 (9) If a polling agent or counting agent dies or becomes incapable of acting, the candidate—
 
 - (a) may appoint another agent instead, and
-- (b) must immediately give the returning officer a notice stating the other agent’s name , postal address and e-mail address, where available[^key-19268bc78c73b515661aae2555556756].
+- (b) must immediately give the returning officer a notice stating the other agent’s name , postal address and e-mail address, where available[^c-19268bc78c73b515661aae2555556756].
 
-##### 34. Polling and counting agents: supplemental provision[^key-6c43d18738bb622b9b888c20da0a9eba]
+##### 34. Polling and counting agents: supplemental provision[^c-6c43d18738bb622b9b888c20da0a9eba]
 
 (1) A candidate or the candidate’s election agent may—
 
@@ -756,11 +756,11 @@ A person who has voted at the election may not be required to state for whom the
 
 (3) Where these rules require or authorise something to be done in the presence of the polling or counting agents, the non-attendance of the agent or agents at the time and place appointed does not invalidate the thing done.
 
-(3A)[^key-f0782852b13fa950c13cefdb0839bc5f] Any notice required to be given to a counting agent by the returning officer may be sent to the postal or e-mail address provided in the notice of appointment.
+(3A)[^c-f0782852b13fa950c13cefdb0839bc5f] Any notice required to be given to a counting agent by the returning officer may be sent to the postal or e-mail address provided in the notice of appointment.
 
 (4) Where a candidate does not have a counting agent, the returning officer may give the candidate any notice that is required by these rules to be given to the counting agent.
 
-##### 35. Notification of requirement of secrecy[^key-8c269a3dff53f9b45de06facbe9b6043]
+##### 35. Notification of requirement of secrecy[^c-8c269a3dff53f9b45de06facbe9b6043]
 
 (1) The returning officer must make arrangements to ensure that every person attending at a polling station, other than a person described in paragraph (2)(a) to (d), has been given a notice setting out the provisions of section 66(1), (3) and (6) of the 1983 Act[^f00015].
 
@@ -773,7 +773,7 @@ A person who has voted at the election may not be required to state for whom the
 
 (3) In this rule, a reference to a constable includes a person designated as a community support officer or community support volunteer under section 38 of the Police Reform Act 2002[^f00016] (police powers for civilian staff and volunteers).
 
-##### 36. Return of postal ballot papers[^key-1962d77f8414d774586eedd2b865cbc3]
+##### 36. Return of postal ballot papers[^c-1962d77f8414d774586eedd2b865cbc3]
 
 (1) Where a postal vote has been returned in respect of a person who is entered on the postal voters list, the returning officer must mark the list in the manner prescribed by regulations under the 1983 Act.
 
@@ -783,7 +783,7 @@ A person who has voted at the election may not be required to state for whom the
 
 #### The Poll
 
-##### 37. Admission to polling station[^key-8af0c725f6ad9fa164ad3a2e42e10336]
+##### 37. Admission to polling station[^c-8af0c725f6ad9fa164ad3a2e42e10336]
 
 (1) The presiding officer must exclude all persons from the polling station except—
 
@@ -815,7 +815,7 @@ A person who has voted at the election may not be required to state for whom the
 
 (7) In this rule, a reference to a constable includes a reference to a person designated as a community support officer or community support volunteer under section 38 of the Police Reform Act 2002 (police powers for civilian staff and volunteers).
 
-##### 38. Keeping of order in station[^key-139cce26245ef4ee1e4181a3b40d231b]
+##### 38. Keeping of order in station[^c-139cce26245ef4ee1e4181a3b40d231b]
 
 (1) The presiding officer must keep order at the polling station.
 
@@ -832,7 +832,7 @@ A person who has voted at the election may not be required to state for whom the
 
 (6) The powers conferred by this rule must not be exercised so as to prevent a voter who is otherwise entitled to vote at a polling station from having an opportunity of voting at that station.
 
-##### 39. Sealing of ballot boxes[^key-e81206bcc4cce9a28733ddc10698ba74]
+##### 39. Sealing of ballot boxes[^c-e81206bcc4cce9a28733ddc10698ba74]
 
 (1) The presiding officer must take the following steps immediately before the poll begins.
 
@@ -841,13 +841,13 @@ A person who has voted at the election may not be required to state for whom the
 (3) The presiding officer must then—
 
 - (a) lock up the box, if it has a lock, and
-- (b) place the presiding officer’s[^key-1ec98d629bcdd609b37a0975120b3fe8] seal on it, in such a way as to prevent it being opened without breaking the seal.
+- (b) place the presiding officer’s[^c-1ec98d629bcdd609b37a0975120b3fe8] seal on it, in such a way as to prevent it being opened without breaking the seal.
 
 (4) The presiding officer must then place the box, within the presiding officer’s view, for the receipt of ballot papers.
 
 (5) The presiding officer must keep the box locked and sealed or (if it does not have a lock) keep it sealed.
 
-##### 40. Questions to be put to voters[^key-be737e8e0ecefcfabc8d54610c91fccd]
+##### 40. Questions to be put to voters[^c-be737e8e0ecefcfabc8d54610c91fccd]
 
 (1) At the time of an application for a ballot paper, but not afterwards, the presiding officer may put to any person described in column (1) of Table 1 (set out in paragraph (4)) or in column (1) of Table 2 (set out in paragraph (5)), one or more of the questions set out in the corresponding entries in columns (2) and (3).
 
@@ -893,14 +893,14 @@ Table 2
 
 (8) In this rule, “**the copies of the registration records**” means the copies provided by the returning officer for the polling station under rule 32(3)(b) and (c) (copies of the relevant register of electors and copies of any notices issued under section 13B(3B) or (3D) of the 1983 Act relating to the relevant register of electors).
 
-##### 41. Challenge of voter[^key-7d209e4da0869d042f9826c684bbb61d]
+##### 41. Challenge of voter[^c-7d209e4da0869d042f9826c684bbb61d]
 
 A person must not be prevented from voting by reason only that either or both of the following apply—
 
 - (a) a candidate or a candidate’s election or polling agent declares that they have reasonable cause to believe that the person has committed an offence of personation;
 - (b) the person is arrested on the grounds that they are suspected of committing or being about to commit an offence of personation.
 
-##### 42. Voting procedure[^key-475b4db762b394b758088296f4d38ad4]
+##### 42. Voting procedure[^c-475b4db762b394b758088296f4d38ad4]
 
 (1) A ballot paper must be given to a voter who applies for one.
 
@@ -932,11 +932,11 @@ A person must not be prevented from voting by reason only that either or both of
 
 (8) In this rule, “**the copies of the registration records**” has the same meaning as in rule 40 (see paragraph (7) of that rule).
 
-##### 43. Voters with a disability or unable to read: marking of votes by presiding officer[^key-777c5925108076839cc0d9907fdf42f7]
+##### 43. Voters with a disability or unable to read: marking of votes by presiding officer[^c-777c5925108076839cc0d9907fdf42f7]
 
 (1) A voter may apply to the presiding officer for their vote to be marked if the voter—
 
-- (a) is unable, because of severe sight impairment[^key-b54e55399f4afc6aa6a6607c6fe4e3eb] or other disability, to vote in the manner directed by these rules, or
+- (a) is unable, because of severe sight impairment[^c-b54e55399f4afc6aa6a6607c6fe4e3eb] or other disability, to vote in the manner directed by these rules, or
 - (b) declares orally that they are unable to read.
 
 (2) Where an application is made, the presiding officer must, in the presence of any polling agents who are in the polling station when the application is made—
@@ -953,13 +953,13 @@ A person must not be prevented from voting by reason only that either or both of
 
 (5) In this rule, “**the copies of the registration records**” has the same meaning as in rule 40 (see paragraph (7) of that rule).
 
-##### 44. Voters with a disability or unable to read: assistance of companions[^key-ac6b0d348fbe094e5c593a34d0e3eb8b]
+##### 44. Voters with a disability or unable to read: assistance of companions[^c-ac6b0d348fbe094e5c593a34d0e3eb8b]
 
-(1) A voter may apply to the presiding officer, on the ground of severe sight impairment[^key-8ccd941acda00c914fc3cc965f903d9c] or other disability or inability to read, to be allowed to vote with the assistance of a companion.
+(1) A voter may apply to the presiding officer, on the ground of severe sight impairment[^c-8ccd941acda00c914fc3cc965f903d9c] or other disability or inability to read, to be allowed to vote with the assistance of a companion.
 
-(2) Where an application is made, the presiding officer must require the voter to declare, orally or in writing, whether the voter is so affected by severe sight impairment[^key-fef2107a16615b489e12bd67bc8a3adb] or other disability, or by inability to read, as to be unable to vote without the assistance of a companion.
+(2) Where an application is made, the presiding officer must require the voter to declare, orally or in writing, whether the voter is so affected by severe sight impairment[^c-fef2107a16615b489e12bd67bc8a3adb] or other disability, or by inability to read, as to be unable to vote without the assistance of a companion.
 
-(3) In the following provisions of this rule, a voter who declares that they are so affected by severe sight impairment[^key-02bf42c93c38619459d629e988b75ccf] or other disability, or by inability to read, as to be unable to vote without the assistance of a companion is referred to as a voter with disabilities.
+(3) In the following provisions of this rule, a voter who declares that they are so affected by severe sight impairment[^c-02bf42c93c38619459d629e988b75ccf] or other disability, or by inability to read, as to be unable to vote without the assistance of a companion is referred to as a voter with disabilities.
 
 (4) At the time when an application to vote with the assistance of a companion is made, the companion must make a written declaration before the presiding officer that the companion—
 
@@ -973,7 +973,7 @@ A person must not be prevented from voting by reason only that either or both of
 
 (6) The presiding officer must grant the voter’s application for the assistance of a companion if the presiding officer—
 
-- (a) is satisfied that the voter is so affected by severe sight impairment[^key-b346058a6f28909283f76d71834936ba] or other disability, or by inability to read, as to be unable to vote without the assistance of a companion, and
+- (a) is satisfied that the voter is so affected by severe sight impairment[^c-b346058a6f28909283f76d71834936ba] or other disability, or by inability to read, as to be unable to vote without the assistance of a companion, and
 - (b) is also satisfied by the companion’s written declaration that the companion has attained the age of 16 and has not previously assisted more than one voter with disabilities to vote at the election.
 
 (7) Where the application is granted—
@@ -981,7 +981,7 @@ A person must not be prevented from voting by reason only that either or both of
 - (a) anything that is required to be done by these rules to the voter in connection with the giving of the vote may be done instead to the companion, and
 - (b) the voter may do anything that needs to be done in connection with the giving of the vote with the assistance of the companion.
 
-##### 45. Voting with the assistance of a companion: supplemental provision[^key-f3f67d8a134c8ecca64c85b5f4a6b75f]
+##### 45. Voting with the assistance of a companion: supplemental provision[^c-f3f67d8a134c8ecca64c85b5f4a6b75f]
 
 (1) Where a vote is given with the assistance of a companion in accordance with rule 44, the presiding officer must then enter the following details in a list maintained by the presiding officer (“the list of voters with disabilities assisted by companions”)—
 
@@ -996,9 +996,9 @@ A person must not be prevented from voting by reason only that either or both of
 
 (5) In this rule, “**the copies of the registration records**” has the same meaning as in rule 40 (see paragraph (7) of that rule).
 
-##### 46. Tendered ballot papers: circumstances where available[^key-562be3d5628a3ec08e9eb61bef06b0a3]
+##### 46. Tendered ballot papers: circumstances where available[^c-562be3d5628a3ec08e9eb61bef06b0a3]
 
-(1) This rule sets out circumstances where a person who applies for a vote (“**the applicant**”) is entitled to vote on satisfactorily answering the questions permitted by law to be asked at the poll in accordance with rule 40,[^key-715a122c9d3c5b72054e53ad724f7b07] but where the procedure for giving the vote is modified in the following two ways—
+(1) This rule sets out circumstances where a person who applies for a vote (“**the applicant**”) is entitled to vote on satisfactorily answering the questions permitted by law to be asked at the poll in accordance with rule 40,[^c-715a122c9d3c5b72054e53ad724f7b07] but where the procedure for giving the vote is modified in the following two ways—
 
 - (a) the person must use a ballot paper that is of a different colour to other ballot papers, and
 - (b) the person must give the ballot paper to the presiding officer (instead of putting it in the ballot box).
@@ -1047,7 +1047,7 @@ Circumstances where applicant claims to have lost postal ballot paper etc.
 
 (10) In this rule, “**the copies of the registration records**” has the same meaning as in rule 40 (see paragraph (7) of that rule).
 
-##### 47. Duties of presiding officer in relation to tendered ballot papers[^key-7bec09e31f0a4e774c5fdd4ac1f739ee]
+##### 47. Duties of presiding officer in relation to tendered ballot papers[^c-7bec09e31f0a4e774c5fdd4ac1f739ee]
 
 (1) This rule sets out the duties of the presiding officer in relation to tendered ballot papers.
 
@@ -1067,7 +1067,7 @@ Circumstances where applicant claims to have lost postal ballot paper etc.
 
 (6) In this rule, “**the copies of the registration records**” has the same meaning as in rule 40 (see paragraph (7) of that rule).
 
-##### 48. Spoilt ballot papers[^key-d008f193f7f402fdf6082a42c6607ad5]
+##### 48. Spoilt ballot papers[^c-d008f193f7f402fdf6082a42c6607ad5]
 
 (1) This rule applies where a voter has inadvertently dealt with their ballot paper in such a manner that it cannot conveniently be used as a ballot paper.
 
@@ -1078,11 +1078,11 @@ Circumstances where applicant claims to have lost postal ballot paper etc.
 
 (3) Where the voter is given another ballot paper, the spoilt ballot paper must be cancelled immediately.
 
-##### 49. Correction of errors on day of poll[^key-0e03aeab7ae517c7c841b1834626f882]
+##### 49. Correction of errors on day of poll[^c-0e03aeab7ae517c7c841b1834626f882]
 
 The presiding officer must keep a list of persons to whom ballot papers are given in consequence of an alteration to the register made by virtue of section 13B(3B) or (3D) of the 1983 Act which takes effect on the day of the poll.
 
-##### 50. Adjournment of poll in case of riot[^key-0d35fd3fab6225ffbf8aef3b5b9c06c8]
+##### 50. Adjournment of poll in case of riot[^c-0d35fd3fab6225ffbf8aef3b5b9c06c8]
 
 (1) This rule applies where proceedings at any polling station are interrupted or obstructed by riot or open violence.
 
@@ -1096,16 +1096,16 @@ The presiding officer must keep a list of persons to whom ballot papers are give
 - (a) the hours of polling on the day to which it is adjourned must be the same as for the original day, and
 - (b) references in these rules to the close of the poll are to be read as references to the end of the hours of polling on the day to which it is adjourned.
 
-##### 51. Procedure on close of poll[^key-23edc246e56cae63be2d60080f6185ad]
+##### 51. Procedure on close of poll[^c-23edc246e56cae63be2d60080f6185ad]
 
 (1) This rule sets out the steps that must be taken by the presiding officer as soon as practicable after every voter has cast their vote.
 
-(2)[^key-f698991a63a320363c4ca42ee5de7cf5] In the presence of any polling agents who are in the polling station, the presiding officer must—
+(2)[^c-f698991a63a320363c4ca42ee5de7cf5] In the presence of any polling agents who are in the polling station, the presiding officer must—
 
 - (a) seal each ballot box in use at the polling station so as to prevent the introduction of additional ballot papers, using the presiding officer’s seal and the seals of any polling agents who wish to affix their seals, and
 - (b) attach any ballot box key to the ballot box.
 
-(3) [^key-b9fb73296bfd70572fa8517975673eed]... The presiding officer must place each of the following in separate packets, sealed using the presiding officer’s seal and the seals of any polling agents who wish to affix their seal—
+(3) [^c-b9fb73296bfd70572fa8517975673eed]... The presiding officer must place each of the following in separate packets, sealed using the presiding officer’s seal and the seals of any polling agents who wish to affix their seal—
 
 - (a) the unused and spoilt ballot papers (together);
 - (b) the tendered ballot papers;
@@ -1118,16 +1118,16 @@ The presiding officer must keep a list of persons to whom ballot papers are give
   - (iii) the list of voters with disabilities assisted by companions (see rule 45);
   - (iv) the tendered votes list (see rule 47);
   - (v) the list maintained under rule 49 (correction of errors on day of poll);
-- (g)[^key-e4090a243bcc7aa6ffbd1b28c3e0c367] the postal ballot papers and postal voting statements which have been returned by hand to the polling station, unless previously collected in accordance with regulation 79(4) of the Representation of the People (England and Wales) Regulations 2001.
+- (g)[^c-e4090a243bcc7aa6ffbd1b28c3e0c367] the postal ballot papers and postal voting statements which have been returned by hand to the polling station, unless previously collected in accordance with regulation 79(4) of the Representation of the People (England and Wales) Regulations 2001.
 
-(3A)[^key-11ea9caa48d4ce42aab86d8825194b49] The presiding officer must do anything required by paragraph (3)(a), (b), (e) , (f) or (g)[^key-41260f3cbc5a57200266f198a536a17d] in the polling station, in the presence of any polling agents who are there.
+(3A)[^c-11ea9caa48d4ce42aab86d8825194b49] The presiding officer must do anything required by paragraph (3)(a), (b), (e) , (f) or (g)[^c-41260f3cbc5a57200266f198a536a17d] in the polling station, in the presence of any polling agents who are there.
 
 (3B) The presiding officer may do anything required by paragraph (3)(c) or (d)—
 
 - (a) in the polling station, in the presence of any polling agents who are there, or
 - (b) if the presiding officer has informed the polling agents and given them an opportunity to attend, at any other place that the presiding officer considers appropriate, in the presence of any polling agents who are there.
 
-(3C)[^key-ba64fcbebf4e5bd75ef751b89d3c1372] Documents sealed in accordance with paragraphs (3)(c) and (d) and (3B) may be sealed in physical packets or electronic packets, and seals that are applied to those packets may be applied physically or electronically, as appropriate.
+(3C)[^c-ba64fcbebf4e5bd75ef751b89d3c1372] Documents sealed in accordance with paragraphs (3)(c) and (d) and (3B) may be sealed in physical packets or electronic packets, and seals that are applied to those packets may be applied physically or electronically, as appropriate.
 
 (4) The presiding officer must deliver the sealed ballot boxes and packets to the returning officer or cause them to be delivered in accordance with arrangements approved by the returning officer.
 
@@ -1142,15 +1142,15 @@ The presiding officer must keep a list of persons to whom ballot papers are give
 
 (6) In this rule, “**the marked copies of the registration records**” means the copies of the registration records (as defined by rule 40(7)), as marked in accordance with these rules.
 
-### PART 4 — Counting of Votes: Elections Using the Simple Majority System[^key-881f628448d3d74f41fa719944658abb]
+### PART 4 — Counting of Votes: Elections Using the Simple Majority System[^c-881f628448d3d74f41fa719944658abb]
 
-#### 52. Arrangements for the counting of votes[^key-35ed6bf20feb5374c563283774c30a1f]
+#### 52. Arrangements for the counting of votes[^c-35ed6bf20feb5374c563283774c30a1f]
 
 (1) The returning officer must make arrangements for the votes to be counted in the presence of the counting agents as soon as practicable after the close of the poll.
 
 (2) The returning officer must give the counting agents a notice stating the time and place at which the returning officer will begin to count the votes.
 
-#### 53. Attendance at the counting of votes[^key-947978816b31030901f398778cd8f828]
+#### 53. Attendance at the counting of votes[^c-947978816b31030901f398778cd8f828]
 
 (1) The following persons are entitled to be present at the counting of votes—
 
@@ -1176,7 +1176,7 @@ The presiding officer must keep a list of persons to whom ballot papers are give
 
 (7) In this rule, a reference to a constable includes a reference to a person designated as a community support officer or community support volunteer under section 38 of the Police Reform Act 2002 (police powers for civilian staff and volunteers).
 
-#### 54. The count: steps[^key-c4d43d60aba438b0ec29756b807860ac]
+#### 54. The count: steps[^c-c4d43d60aba438b0ec29756b807860ac]
 
 (1) The returning officer must take the following steps.
 
@@ -1220,7 +1220,7 @@ The presiding officer must keep a list of persons to whom ballot papers are give
 - (a) keep the ballot papers with their faces upwards, and
 - (b) take such other precautions as are appropriate for preventing any person from seeing the numbers or other unique identifying marks printed on the back of the papers.
 
-#### 55. The count: general[^key-da26fc537c2a2a5f20ff9b3ab1fc658f]
+#### 55. The count: general[^c-da26fc537c2a2a5f20ff9b3ab1fc658f]
 
 (1) The result of the poll must be ascertained by counting the votes given to each candidate.
 
@@ -1235,7 +1235,7 @@ The presiding officer must keep a list of persons to whom ballot papers are give
 - (a) place the ballot papers and other documents relating to the election under the returning officer’s seal and the seals of any counting agents who wish to affix their seals, and
 - (b) otherwise take proper precautions for the security of the ballot papers and other documents.
 
-#### 56. The count: rejected ballot papers[^key-94aa913dc6e261cb548c0b113ffdf0af]
+#### 56. The count: rejected ballot papers[^c-94aa913dc6e261cb548c0b113ffdf0af]
 
 (1) Subject to paragraphs (2) and (4), the following ballot papers are void and must not be counted—
 
@@ -1269,7 +1269,7 @@ The presiding officer must keep a list of persons to whom ballot papers are give
 
 (8) The statement must set out the number rejected or rejected in part under each of the headings in sub-paragraphs (a) to (d) of paragraph (1).
 
-#### 57. Re-count[^key-62323cb71401e07e03537139f8f4d4aa]
+#### 57. Re-count[^c-62323cb71401e07e03537139f8f4d4aa]
 
 (1) A candidate or the candidate’s election agent may, if present when the count is completed, request that the returning officer re-count the votes.
 
@@ -1279,33 +1279,33 @@ The presiding officer must keep a list of persons to whom ballot papers are give
 
 (4) Where a re-count takes place, this rule also applies in relation to the re-count (so that, for example, the candidate or the candidate’s election agent may, if present when the re-count is completed, request that the returning officer re-count the votes).
 
-#### 58. Equality of votes[^key-506f3c190a3fa0d98235a2fac4ad2f77]
+#### 58. Equality of votes[^c-506f3c190a3fa0d98235a2fac4ad2f77]
 
 (1) This rule applies where, after the counting of the votes (including any re-count), there is an equality of votes between any candidates and the addition of a vote would entitle any of those candidates to be elected.
 
 (2) The returning officer must immediately decide between the candidates by lot and proceed as if the candidate on whom the lot falls had received an additional vote.
 
-#### 59. Decision on ballot papers[^key-124aeb0c1f934b7e792cecbcc3105906]
+#### 59. Decision on ballot papers[^c-124aeb0c1f934b7e792cecbcc3105906]
 
 The decision of the returning officer on any question arising in respect of a ballot paper is final, but may be reviewed on an election petition.
 
-#### 60. Declaration of result[^key-dcfc63e7b457ccd8b552c2c4bb63f95b]
+#### 60. Declaration of result[^c-dcfc63e7b457ccd8b552c2c4bb63f95b]
 
 (1) When the count has been completed, the returning officer must declare to be elected the candidate or candidates to whom more votes have been given than to other candidates, up to the number of councillors to be elected.
 
-(1A)[^key-6d6faa2b6cc621a588d8de1ec4074bdd] The declaration made by the returning officer in accordance with paragraph (1) must be made in Welsh and English.
+(1A)[^c-6d6faa2b6cc621a588d8de1ec4074bdd] The declaration made by the returning officer in accordance with paragraph (1) must be made in Welsh and English.
 
 (2) The returning officer must give a notice stating the names and addresses of the candidates elected to the proper officer of the council for which the election was held.
 
-(3) The returning officer must also publish notice , in Welsh and English,[^key-711293416ae7242286966548895e656e] of—
+(3) The returning officer must also publish notice , in Welsh and English,[^c-711293416ae7242286966548895e656e] of—
 
 - (a) the names of the candidates elected,
 - (b) the total number of votes given for each candidate (whether elected or not), and
 - (c) the number of rejected ballot papers under each head shown in the statement of rejected ballot papers (see rule 56).
 
-(4)[^key-dad2027a7cee899c5b7e59f135880a18] For the purposes of paragraphs (1) and (3), where the statement of persons nominated shows a candidate’s commonly used forenames or surnames, the returning officer may use those commonly used forenames or surnames to make the declaration, and give notice, of the election results.
+(4)[^c-dad2027a7cee899c5b7e59f135880a18] For the purposes of paragraphs (1) and (3), where the statement of persons nominated shows a candidate’s commonly used forenames or surnames, the returning officer may use those commonly used forenames or surnames to make the declaration, and give notice, of the election results.
 
-### Part 4A — Counting of Votes: Elections Using the Single Transferable Vote System[^key-39c43f3c3399bcdcb34cf2348c1bb20e]
+### Part 4A — Counting of Votes: Elections Using the Single Transferable Vote System[^c-39c43f3c3399bcdcb34cf2348c1bb20e]
 
 #### CHAPTER 1 — Introductory provisions
 
@@ -1765,11 +1765,11 @@ The decision of the returning officer on any question arising in respect of a ba
 
 (1) Where all stages of the count have been completed, the returning officer must declare to be elected the candidates who have been treated as elected under this Chapter.
 
-(1A)[^key-36a27ce973f66e74e97f99748913f54b] The declaration made by the returning officer in accordance with paragraph (1) must be made in Welsh and English.
+(1A)[^c-36a27ce973f66e74e97f99748913f54b] The declaration made by the returning officer in accordance with paragraph (1) must be made in Welsh and English.
 
 (2) The returning officer must give a notice stating the names and addresses of the candidates elected to the proper officer of the council for which the election was held.
 
-(3) The returning officer must also publish notice , in Welsh and English,[^key-d00f96ea2b812f0bf05cad18af5bc7da] of—
+(3) The returning officer must also publish notice , in Welsh and English,[^c-d00f96ea2b812f0bf05cad18af5bc7da] of—
 
 - (a) the names of the candidates elected;
 - (b) the number of first and subsequent preferences for each candidate (whether elected or not);
@@ -1778,11 +1778,11 @@ The decision of the returning officer on any question arising in respect of a ba
 - (e) the number of non-transferable ballot papers and the number of non-transferable votes at each stage of the count;
 - (f) the number of rejected ballot papers under each head shown in the statement of rejected ballot papers.
 
-(4)[^key-d69df9a07acb590b6cc175f08f8ec604] For the purposes of paragraphs (1) and (3), where the statement of persons nominated shows a candidate’s commonly used forenames or surnames, the returning officer may use those commonly used forenames or surnames to make the declaration, and give notice, of the election results.
+(4)[^c-d69df9a07acb590b6cc175f08f8ec604] For the purposes of paragraphs (1) and (3), where the statement of persons nominated shows a candidate’s commonly used forenames or surnames, the returning officer may use those commonly used forenames or surnames to make the declaration, and give notice, of the election results.
 
 ### PART 5 — Disposal of Documents
 
-#### 61. Sealing up of ballot papers at contested elections[^key-7a528ef688459b930d9b99b8bc8806c5]
+#### 61. Sealing up of ballot papers at contested elections[^c-7a528ef688459b930d9b99b8bc8806c5]
 
 (1) This rule applies on the completion of the counting of votes at a contested election.
 
@@ -1798,16 +1798,16 @@ The decision of the returning officer on any question arising in respect of a ba
 - (c) certificates surrendered by constables or staff of returning officers under rule 37(4) or (5), or
 - (d) marked copies of the registration records and list of proxies.
 
-#### 62. Delivery of documents to registration officer at contested elections[^key-d9d47e53acf3a3bd2b3b8d9fbdb02639]
+#### 62. Delivery of documents to registration officer at contested elections[^c-d9d47e53acf3a3bd2b3b8d9fbdb02639]
 
 (1) This rule applies where the returning officer has sealed up the counted and rejected ballot papers under rule 61(2).
 
-(2) The returning officer must securely[^key-a20bd42ba86ea6fcb3daa141bf517434] forward the following documents to the registration officer of the county or county borough council in whose area the election is held—
+(2) The returning officer must securely[^c-a20bd42ba86ea6fcb3daa141bf517434] forward the following documents to the registration officer of the county or county borough council in whose area the election is held—
 
 - (a) the packets of ballot papers in the returning officer’s possession;
 - (b) the ballot paper accounts prepared under rule 51(5);
-- (c) the statements of rejected ballot papers prepared under rule 56(7) or rule 60E(6)[^key-b558e122874d8639d35c7a6282ce3bf1];
-- (d) the statements as to the result of the verification of the ballot paper accounts prepared under rule 54(5) or rule 60C(5)[^key-e0ac382fc2ab5d386b05ea95a3becad2];
+- (c) the statements of rejected ballot papers prepared under rule 56(7) or rule 60E(6)[^c-b558e122874d8639d35c7a6282ce3bf1];
+- (d) the statements as to the result of the verification of the ballot paper accounts prepared under rule 54(5) or rule 60C(5)[^c-e0ac382fc2ab5d386b05ea95a3becad2];
 - (e) the following lists and declarations—
   - (i) the lists of votes marked by the presiding officer, together with a statement of the number of voters whose votes are marked under the heads “disability” and “**unable to read**” (see rule 43);
   - (ii) the declarations made by the companions of voters with disabilities (see rule 44);
@@ -1819,7 +1819,7 @@ The decision of the returning officer on any question arising in respect of a ba
 - (h) the packets containing copies of registration records and lists of proxies;
 - (i) the packets containing the postal voters list and the proxy postal voters list.
 
-(3)[^key-649e485ad26779249a9bc504083d5ce7] In relation to each packet, the returning officer must provide—
+(3)[^c-649e485ad26779249a9bc504083d5ce7] In relation to each packet, the returning officer must provide—
 
 - (a) a description of the contents of the packet,
 - (b) the date of election to which the packet relates, and
@@ -1830,7 +1830,7 @@ The decision of the returning officer on any question arising in respect of a ba
 - (a) securely store all documents received in accordance with this rule, and
 - (b) prevent any unauthorised access to those documents.
 
-#### 63. Production etc. of documents[^key-9554ad352ad9777499f35f35e8b061d8]
+#### 63. Production etc. of documents[^c-9554ad352ad9777499f35f35e8b061d8]
 
 (1) This rule applies in relation to the following documents when in the custody of the registration officer (having been forwarded under rule 62)—
 
@@ -1883,7 +1883,7 @@ The decision of the returning officer on any question arising in respect of a ba
   - (i) completed corresponding number lists, or
   - (ii) certificates surrendered by constables or staff of returning officers under rule 37(4) or (5).
 
-#### 64. Orders for the production etc. of documents: supplemental provision[^key-d5c9887738264205e27c1f1516a1be1b]
+#### 64. Orders for the production etc. of documents: supplemental provision[^c-d5c9887738264205e27c1f1516a1be1b]
 
 (1) Paragraphs (2) and (3) apply where an order is made under rule 63 for the production by a registration officer of a document in the registration officer’s custody relating to an election specified in the order.
 
@@ -1898,13 +1898,13 @@ The decision of the returning officer on any question arising in respect of a ba
 
 (5) The production of the ballot paper and the list are prima facie evidence that the elector whose vote was given by that ballot paper was the person whose entry at the time of the election in the register of electors, or on a notice issued under section 13B(3B) or (3D) of the 1983 Act, contained the same number as the number written on the ballot paper.
 
-#### 65. Retention and destruction of documents forwarded to registration officer[^key-43eaffa8747cff8a26beb1c79087e3aa]
+#### 65. Retention and destruction of documents forwarded to registration officer[^c-43eaffa8747cff8a26beb1c79087e3aa]
 
 (1) The registration officer must retain all documents forwarded under rule 62 for a period of one year beginning with the day on which they were received by the registration officer.
 
 (2) At the end of that period of one year, the registration officer must cause the documents to be destroyed unless otherwise directed by an order of a county court, a Crown Court, a magistrates’ court or an election court.
 
-#### 66. Destruction of home address forms by returning officer[^key-f2b37bd364387aaad8143b9058de26fd]
+#### 66. Destruction of home address forms by returning officer[^c-f2b37bd364387aaad8143b9058de26fd]
 
 (1) The returning officer must destroy each candidate’s home address form—
 
@@ -1915,7 +1915,7 @@ The decision of the returning officer on any question arising in respect of a ba
 
 ### PART 6 — Death of Candidate
 
-#### 67. Countermand or abandonment of poll on death of a candidate[^key-cef2e1b78d6ec3870b011e1c297c4a06]
+#### 67. Countermand or abandonment of poll on death of a candidate[^c-cef2e1b78d6ec3870b011e1c297c4a06]
 
 (1) This rule applies where, at a contested election, the returning officer is satisfied before the result of the election is declared that one of the persons named or to be named as a candidate in the ballot papers has died.
 
@@ -1935,9 +1935,9 @@ The decision of the returning officer on any question arising in respect of a ba
 
 (6) For what happens after notice of a poll is countermanded or a poll is abandoned, see section 39 of the 1983 Act[^f00018].
 
-### APPENDICES — Note: The forms contained in these Appendices may be adapted so far as circumstances require.[^key-424160df151e324dc4d1ce70a6c3013e]
+### APPENDICES — Note: The forms contained in these Appendices may be adapted so far as circumstances require.[^c-424160df151e324dc4d1ce70a6c3013e]
 
-[^key-b234dc39ff7581d7df604b298e28d446]Appendix 1
+[^c-b234dc39ff7581d7df604b298e28d446]Appendix 1
 
 Form of nomination paper
 
@@ -1945,7 +1945,7 @@ Rule 5(1)
 
 [image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_001)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_002)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_003)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_004)
 
-[^key-0c3c4eaa637d660d351ed6c43cd3c1c3][^key-075af0ac5782b020ba3b00c8cd60fe28][^key-9232bdfb79012d817cd18568d275c227][^key-1d0acd5f9e79e8e08ad6a52efce308ac][^key-75f130af4123644778e49e7514edefc0][^key-2fe41a2703160f11f1d3ad29bf6d956d][^key-e07fd362a2eba88df97f845c212ebd4b][^key-26d469158a62cb6b7b51550b24df2cd2][^key-530008f41b8eef7a6aa29e58cacf0b6a][^key-0c1233fd6c93977015d4025c3e56d3c5]Appendix 2
+[^c-0c3c4eaa637d660d351ed6c43cd3c1c3][^c-075af0ac5782b020ba3b00c8cd60fe28][^c-9232bdfb79012d817cd18568d275c227][^c-1d0acd5f9e79e8e08ad6a52efce308ac][^c-75f130af4123644778e49e7514edefc0][^c-2fe41a2703160f11f1d3ad29bf6d956d][^c-e07fd362a2eba88df97f845c212ebd4b][^c-26d469158a62cb6b7b51550b24df2cd2][^c-530008f41b8eef7a6aa29e58cacf0b6a][^c-0c1233fd6c93977015d4025c3e56d3c5]Appendix 2
 
 Ballot paper
 
@@ -1953,7 +1953,7 @@ Rule 22(3)
 
 [image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_005)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_006)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_007)
 
-Appendix 2A[^M_F_3c518d7a-6fb9-4294-f4ae-0c6017e5a05f][^key-2838395f2a479dd9f7f6076f994ddb4f][^key-f4575d5de6bc86722e6a0a3bd5e96c2d][^key-66cae4f4b2c3583ce8d57d2ef1a575cd][^key-d04ab9e9b10cf17b8e6f75a3061c9612][^key-11fba4447a4c994f9a4d9633f65b4966][^key-86fcba38f57d38dc78787d6b5c956e93][^key-2e6616cab45fa33c2a78a8cd0f294a13]
+Appendix 2A[^M_F_3c518d7a-6fb9-4294-f4ae-0c6017e5a05f][^c-2838395f2a479dd9f7f6076f994ddb4f][^c-f4575d5de6bc86722e6a0a3bd5e96c2d][^c-66cae4f4b2c3583ce8d57d2ef1a575cd][^c-d04ab9e9b10cf17b8e6f75a3061c9612][^c-11fba4447a4c994f9a4d9633f65b4966][^c-86fcba38f57d38dc78787d6b5c956e93][^c-2e6616cab45fa33c2a78a8cd0f294a13]
 
 Ballot paper
 
@@ -1969,7 +1969,7 @@ Rule 23(5)
 
 [image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_008)
 
-[^key-77231655b6404a65155ed2f4e8cc7fc5]Appendix 4
+[^c-77231655b6404a65155ed2f4e8cc7fc5]Appendix 4
 
 Form of Postal Voting Statement
 
@@ -1985,7 +1985,7 @@ Rule 28(1A)(b)
 
 [image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_epp_006.gif)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_epp_007.gif)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_epp_008.gif)
 
-[^key-8a6577bf99f7243b961ed3e6f30beb03][^key-c9fe95de9563890bde90d838377b9234]Appendix 5
+[^c-8a6577bf99f7243b961ed3e6f30beb03][^c-c9fe95de9563890bde90d838377b9234]Appendix 5
 
 Poll cards
 
@@ -2001,7 +2001,7 @@ Rule 31(7)(aa)(ii)
 
 [image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_epp_009.gif)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_epp_010.gif)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_epp_011.gif)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_epp_012.gif)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_epp_013.gif)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_epp_014.gif)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_epp_015.gif)[image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_epp_016.gif)
 
-[^key-b992d337225b6aeb8f142f8349afd1e7][^key-fa04f9c9519aee381c31e4029eaf0619]Appendix 6
+[^c-b992d337225b6aeb8f142f8349afd1e7][^c-fa04f9c9519aee381c31e4029eaf0619]Appendix 6
 
 Guidance for voters
 
@@ -2009,7 +2009,7 @@ Rule 32(9)
 
 [image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_020)
 
-Appendix 6A[^M_F_872f223d-be04-4e4b-eb55-1dd74a686a60][^key-be4d9cd3585f591ddaf25543eb6c2263]
+Appendix 6A[^M_F_872f223d-be04-4e4b-eb55-1dd74a686a60][^c-be4d9cd3585f591ddaf25543eb6c2263]
 
 Guidance for voters
 
@@ -2025,9 +2025,9 @@ Rule 37(4)(5)
 
 [image: see source](https://www.legislation.gov.uk/wsi/2021/1459/images/wsi_20211459_en_epp_038.gif)
 
-[^key-f0de7b9c7743bc60006b98ea1c0351c5][^key-7645ba6948e70b6012635a7cab7643aa][^key-edced3e889a0ff5f96a3fdcb75b52b42][^key-a9be6282e9ee9e07399f9f53e0252402][^key-5341f0312e0cd67d3a4ff3f2121826a9][^key-9a5085e82775c57ea36c56a4b20918f8][^key-7b1539297965925df493837a9cf7bc8a]Appendix 8
+[^c-f0de7b9c7743bc60006b98ea1c0351c5][^c-7645ba6948e70b6012635a7cab7643aa][^c-edced3e889a0ff5f96a3fdcb75b52b42][^c-a9be6282e9ee9e07399f9f53e0252402][^c-5341f0312e0cd67d3a4ff3f2121826a9][^c-9a5085e82775c57ea36c56a4b20918f8][^c-7b1539297965925df493837a9cf7bc8a]Appendix 8
 
-Form of declaration to be made by the companion of a voter with severe sight impairment or other disability or inability to read[^key-2d8b8e6fc68f987113e461f62c4d0ddd]
+Form of declaration to be made by the companion of a voter with severe sight impairment or other disability or inability to read[^c-2d8b8e6fc68f987113e461f62c4d0ddd]
 
 Rule 44(5)
 
@@ -2035,340 +2035,340 @@ Rule 44(5)
 
 ## Annotations
 
-[^key-b75c2b0c39efabb49774316ad496bb31]: Commencement: Sch. 1 rule 1 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-b75c2b0c39efabb49774316ad496bb31]: Commencement: Sch. 1 rule 1 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-82467fdf4302536dc026f4be4e519ca8]: Commencement: Sch. 1 rule 2 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-82467fdf4302536dc026f4be4e519ca8]: Commencement: Sch. 1 rule 2 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-8649ae17c554d1dfe8bc566b04506570]: Commencement: Sch. 1 rule 3 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-8649ae17c554d1dfe8bc566b04506570]: Commencement: Sch. 1 rule 3 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-5d5935ba27f84a19d96b9c587ae1348a]: Commencement: Sch. 1 rule 4 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-5d5935ba27f84a19d96b9c587ae1348a]: Commencement: Sch. 1 rule 4 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-256a603de2e2bb9b9b7d64352a9443f6]: Commencement: Sch. 1 rule 5 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-256a603de2e2bb9b9b7d64352a9443f6]: Commencement: Sch. 1 rule 5 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-d674d3c8d5eb1f8f2148f9483eaaade7]: Commencement: Sch. 1 rule 6 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-d674d3c8d5eb1f8f2148f9483eaaade7]: Commencement: Sch. 1 rule 6 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-79259d7d92b24680ed244af9b3eb3077]: Textual amendment: [Sch. 1 rule 6(4)(b)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/6/4/b) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [4](https://www.legislation.gov.uk/wsi/2026/84/rule/4) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-79259d7d92b24680ed244af9b3eb3077]: Textual amendment: [Sch. 1 rule 6(4)(b)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/6/4/b) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [4](https://www.legislation.gov.uk/wsi/2026/84/rule/4) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
 [^f00010]: Footnote: Section 28 was amended by section 48 of the Electoral Administration Act 2006.
 
 [^f00011]: Footnote: Section 28A was inserted by section 49(1) of the Electoral Administration Act 2006.
 
-[^key-b2ad2f8eba50722ed3801d5e262a097b]: Commencement: Sch. 1 rule 7 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-b2ad2f8eba50722ed3801d5e262a097b]: Commencement: Sch. 1 rule 7 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-95bc7a9a2bc0ca426f9107512cc4959a]: Commencement: Sch. 1 rule 8 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-95bc7a9a2bc0ca426f9107512cc4959a]: Commencement: Sch. 1 rule 8 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-f05d23093b70adef446a2e895e07f449]: Commencement: Sch. 1 rule 9 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-f05d23093b70adef446a2e895e07f449]: Commencement: Sch. 1 rule 9 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-23fa1cddd22b06fd57e94dca218f9e2d]: Commencement: Sch. 1 rule 10 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-23fa1cddd22b06fd57e94dca218f9e2d]: Commencement: Sch. 1 rule 10 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-6ab3044e7b011d7e213b2ff7ddfd70cc]: Textual amendment: [Sch. 1 rule. 10(3)(aa)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/paragraph/10/3/aa) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/2/2) (with [reg. 12(a)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/a))
+[^c-6ab3044e7b011d7e213b2ff7ddfd70cc]: Textual amendment: [Sch. 1 rule. 10(3)(aa)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/paragraph/10/3/aa) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/2/2) (with [reg. 12(a)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/a))
 
-[^key-99a6a0abd0feb82a6359eeb59ee8ff83]: Commencement: Sch. 1 rule 11 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-99a6a0abd0feb82a6359eeb59ee8ff83]: Commencement: Sch. 1 rule 11 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-9357b7bae28ceca92cb6ba661e3da817]: Commencement: Sch. 1 rule 12 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-9357b7bae28ceca92cb6ba661e3da817]: Commencement: Sch. 1 rule 12 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-a8c3661338cce413881505f080af7321]: Commencement: Sch. 1 rule 13 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-a8c3661338cce413881505f080af7321]: Commencement: Sch. 1 rule 13 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-12f0a162a748ec9c44ab028b2527f3a2]: Commencement: Sch. 1 rule 14 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-12f0a162a748ec9c44ab028b2527f3a2]: Commencement: Sch. 1 rule 14 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-4a3c24bceb9a578b9f626ae2f12b9c4b]: Commencement: Sch. 1 rule 15 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-4a3c24bceb9a578b9f626ae2f12b9c4b]: Commencement: Sch. 1 rule 15 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-ba78831bf2f49738699abdd0fe3f9137]: Commencement: Sch. 1 rule 16 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-ba78831bf2f49738699abdd0fe3f9137]: Commencement: Sch. 1 rule 16 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-4a00f7c6434cc986d840fab98b3f408f]: Textual amendment: [Sch. 1 rule 16(2)(a)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/16/2/a) omitted (13.3.2026) by virtue of [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [5](https://www.legislation.gov.uk/wsi/2026/84/rule/5) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-4a00f7c6434cc986d840fab98b3f408f]: Textual amendment: [Sch. 1 rule 16(2)(a)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/16/2/a) omitted (13.3.2026) by virtue of [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [5](https://www.legislation.gov.uk/wsi/2026/84/rule/5) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-ed48a309b2e77b188488837e78ce73f2]: Commencement: Sch. 1 rule 17 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-ed48a309b2e77b188488837e78ce73f2]: Commencement: Sch. 1 rule 17 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-2d78f886a580af171429c63150cb6cce]: Textual amendment: [Sch. 1 rule 17(4)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/17/4) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [6](https://www.legislation.gov.uk/wsi/2026/84/rule/6) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-2d78f886a580af171429c63150cb6cce]: Textual amendment: [Sch. 1 rule 17(4)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/17/4) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [6](https://www.legislation.gov.uk/wsi/2026/84/rule/6) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-916fce597848924ddf49b331976b2cfa]: Commencement: Sch. 1 rule 18 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-916fce597848924ddf49b331976b2cfa]: Commencement: Sch. 1 rule 18 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-5e1c566a760e1db89670073ac0f5ae8b]: Textual amendment: [Sch. 1 rule 18(2A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/18/2A) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [7](https://www.legislation.gov.uk/wsi/2026/84/rule/7) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-5e1c566a760e1db89670073ac0f5ae8b]: Textual amendment: [Sch. 1 rule 18(2A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/18/2A) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [7](https://www.legislation.gov.uk/wsi/2026/84/rule/7) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-f40478bcd5e2f390038bb6fd44f22169]: Commencement: Sch. 1 rule 19 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-f40478bcd5e2f390038bb6fd44f22169]: Commencement: Sch. 1 rule 19 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-7b8cd3ae66379332498efe3cd8e09bb6]: Commencement: Sch. 1 rule 20 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-7b8cd3ae66379332498efe3cd8e09bb6]: Commencement: Sch. 1 rule 20 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-b065956dd901d1baf5fc4ccc96a82a4a]: Commencement: Sch. 1 rule 21 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-b065956dd901d1baf5fc4ccc96a82a4a]: Commencement: Sch. 1 rule 21 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-0c8679c66ea0eb3f8e71c925e7376410]: Textual amendment: [Sch. 1 rule 21(2)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/21/2) substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/2)
+[^c-0c8679c66ea0eb3f8e71c925e7376410]: Textual amendment: [Sch. 1 rule 21(2)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/21/2) substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/2)
 
-[^key-c2b9ae4c768995ca064179e63ccd49ca]: Commencement: Sch. 1 rule 22 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-c2b9ae4c768995ca064179e63ccd49ca]: Commencement: Sch. 1 rule 22 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-321d516e7398b6db677da644933df19b]: Textual amendment: Words in [Sch. 1 rule 22(3)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/22/3) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/3/a)
+[^c-321d516e7398b6db677da644933df19b]: Textual amendment: Words in [Sch. 1 rule 22(3)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/22/3) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/3/a)
 
-[^key-da7eaf26b5b2a947c5bd86b857932941]: Textual amendment: [Sch. 1 rule 22(3A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/22/3A) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/3/b)
+[^c-da7eaf26b5b2a947c5bd86b857932941]: Textual amendment: [Sch. 1 rule 22(3A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/22/3A) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/3/b)
 
-[^key-9cf797c085293bb3a663b2e0978770b7]: Textual amendment: [Sch. 1 rule 22(4)(aa)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/22/4/aa) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [8](https://www.legislation.gov.uk/wsi/2026/84/rule/8) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-9cf797c085293bb3a663b2e0978770b7]: Textual amendment: [Sch. 1 rule 22(4)(aa)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/22/4/aa) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [8](https://www.legislation.gov.uk/wsi/2026/84/rule/8) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-2149b6fed95a88069dad1efd98997651]: Commencement: Sch. 1 rule 23 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-2149b6fed95a88069dad1efd98997651]: Commencement: Sch. 1 rule 23 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-2b0657aec9346e577938eb31fcb83d7b]: Commencement: Sch. 1 rule 24 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-2b0657aec9346e577938eb31fcb83d7b]: Commencement: Sch. 1 rule 24 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-4440d58a2ca472ef718898be3f28f1c0]: Commencement: Sch. 1 rule 25 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-4440d58a2ca472ef718898be3f28f1c0]: Commencement: Sch. 1 rule 25 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-a96b6d8c0939ca2348219ccc032ca414]: Commencement: Sch. 1 rule 26 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-a96b6d8c0939ca2348219ccc032ca414]: Commencement: Sch. 1 rule 26 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-71e61f3f925157200f21b7d79816f72b]: Textual amendment: Sch. 1 rule 26(3) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [9](https://www.legislation.gov.uk/wsi/2026/84/rule/9) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-71e61f3f925157200f21b7d79816f72b]: Textual amendment: Sch. 1 rule 26(3) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [9](https://www.legislation.gov.uk/wsi/2026/84/rule/9) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-538593049c4204085cb7c64eb0bb0f49]: Commencement: Sch. 1 rule 27 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-538593049c4204085cb7c64eb0bb0f49]: Commencement: Sch. 1 rule 27 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-7a07534b71e5b7de3edf812e7d3bda35]: Commencement: Sch. 1 rule 28 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-7a07534b71e5b7de3edf812e7d3bda35]: Commencement: Sch. 1 rule 28 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
 [^f00012]: Footnote: See the Representation of the People (England and Wales) Regulations 2001 ([S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341)); relevant amending instruments are [S.I. 2002/871](https://www.legislation.gov.uk/uksi/2002/871), [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752), [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910) and [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198).
 
-[^key-23c14c7df5a520e50210eff0adb2d87f]: Textual amendment: Words in [Sch. 1 rule 28(1)(b)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/28/1/b) substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(4)(a)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/4/a)
+[^c-23c14c7df5a520e50210eff0adb2d87f]: Textual amendment: Words in [Sch. 1 rule 28(1)(b)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/28/1/b) substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(4)(a)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/4/a)
 
-[^key-f81ac4231c4853d4bc04bef40ab1eccd]: Textual amendment: [Sch. 1 rule 28(1A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/28/1A) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(4)(b)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/4/b)
+[^c-f81ac4231c4853d4bc04bef40ab1eccd]: Textual amendment: [Sch. 1 rule 28(1A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/28/1A) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(4)(b)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/4/b)
 
-[^key-b6336dd89c5f3ccd131f3e9456a13ba5]: Commencement: Sch. 1 rule 29 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-b6336dd89c5f3ccd131f3e9456a13ba5]: Commencement: Sch. 1 rule 29 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-8dbe9fdc43d9d183cae5ea062a4c5169]: Commencement: Sch. 1 rule 30 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-8dbe9fdc43d9d183cae5ea062a4c5169]: Commencement: Sch. 1 rule 30 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-629766c39e503c78fcea23e8555b7ba4]: Textual amendment: Words in [Sch. 1 rule. 30(5)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/paragraph/30/5) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2022/263/regulation/3/2/a) (with [reg. 12(a)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/a))
+[^c-629766c39e503c78fcea23e8555b7ba4]: Textual amendment: Words in [Sch. 1 rule. 30(5)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/paragraph/30/5) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2022/263/regulation/3/2/a) (with [reg. 12(a)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/a))
 
-[^key-cd9db8b61e4ecde11438ae162b3ea586]: Textual amendment: Word in [Sch. 1 rule 30(5)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/30/5) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [10](https://www.legislation.gov.uk/wsi/2026/84/rule/10) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-cd9db8b61e4ecde11438ae162b3ea586]: Textual amendment: Word in [Sch. 1 rule 30(5)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/30/5) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [10](https://www.legislation.gov.uk/wsi/2026/84/rule/10) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-652e1270c860965918668dce28c76d65]: Commencement: Sch. 1 rule 31 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-652e1270c860965918668dce28c76d65]: Commencement: Sch. 1 rule 31 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-2cf64cdde88bd6ce4d1f45175006d1d0]: Textual amendment: Words in [Sch. 1 rule 31(4)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/31/4) substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(5)(a)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/5/a)
+[^c-2cf64cdde88bd6ce4d1f45175006d1d0]: Textual amendment: Words in [Sch. 1 rule 31(4)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/31/4) substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(5)(a)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/5/a)
 
-[^key-cdb666b1e4aed52553357af0b7a40cf7]: Textual amendment: Words in [Sch. 1 rule 31(6)(a)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/31/6/a) substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(5)(b)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/5/b)
+[^c-cdb666b1e4aed52553357af0b7a40cf7]: Textual amendment: Words in [Sch. 1 rule 31(6)(a)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/31/6/a) substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(5)(b)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/5/b)
 
-[^key-fc43ca7fc09d9c164202fcb8dc764923]: Textual amendment: [Sch. 1 rule 31(7)(aa)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/31/7/aa) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(5)(c)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/5/c)
+[^c-fc43ca7fc09d9c164202fcb8dc764923]: Textual amendment: [Sch. 1 rule 31(7)(aa)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/31/7/aa) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(5)(c)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/5/c)
 
 [^f00013]: Footnote: Section 202(1) was amended to insert a definition of “qualifying address” by paragraph 22 of Schedule 1 to the Representation of the People Act 2000.
 
-[^key-6a0e5f88424b2955b6b305cc8c7fabd7]: Commencement: Sch. 1 rule 32 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-6a0e5f88424b2955b6b305cc8c7fabd7]: Commencement: Sch. 1 rule 32 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
 [^f00014]: Footnote: Sections 13 to 13B of the 1983 Act were substituted for section 13 of that Act by paragraph 6 of Schedule 1 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2). Section 13B(3B) and (3D) were inserted by section 11(4) of the Electoral Administration Act 2006.
 
-[^key-50cf8a1e02cbddecc2510b4a668a905c]: Textual amendment: [Sch. 1 rule 32(3A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/3A) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-50cf8a1e02cbddecc2510b4a668a905c]: Textual amendment: [Sch. 1 rule 32(3A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/3A) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-f6570622ddfaad7bacdfbdd5b3ed229b]: Textual amendment: [Sch. 1 rule 32(6)(b)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/6/b) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-f6570622ddfaad7bacdfbdd5b3ed229b]: Textual amendment: [Sch. 1 rule 32(6)(b)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/6/b) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-2f21b35140902d022b41e96b3c0e45f7]: Textual amendment: [Sch. 1 rule 32(6A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/6A) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-2f21b35140902d022b41e96b3c0e45f7]: Textual amendment: [Sch. 1 rule 32(6A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/6A) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-12e73fa9be37ea3a79b0c4c19dd09b88]: Textual amendment: [Sch. 1 rule 32(8)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/8) omitted (13.3.2026) by virtue of [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(d)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/d) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-12e73fa9be37ea3a79b0c4c19dd09b88]: Textual amendment: [Sch. 1 rule 32(8)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/8) omitted (13.3.2026) by virtue of [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(d)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/d) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-354bfcefb77a99b448768e3ec4cc31a4]: Textual amendment: Words in [Sch. 1 rule 32(9)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/9) substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(6)(a)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/6/a)
+[^c-354bfcefb77a99b448768e3ec4cc31a4]: Textual amendment: Words in [Sch. 1 rule 32(9)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/9) substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(6)(a)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/6/a)
 
-[^key-4dd88b9f4c4da99e8c36d2568c8898a7]: Textual amendment: [Sch. 1 rule 32(9A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/9A) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(6)(b)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/6/b)
+[^c-4dd88b9f4c4da99e8c36d2568c8898a7]: Textual amendment: [Sch. 1 rule 32(9A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/9A) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(6)(b)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/6/b)
 
-[^key-148b23d5e68f718ca3b426072fda7409]: Textual amendment: Words in [Sch. 1 rule 32(11)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/11) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(6)(c)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/6/c)
+[^c-148b23d5e68f718ca3b426072fda7409]: Textual amendment: Words in [Sch. 1 rule 32(11)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/11) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(6)(c)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/6/c)
 
-[^key-44d82874341c7201ece2e62fa12b3cfb]: Textual amendment: Words in [Sch. 1 rule 32(11)(a)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/11/a) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(e)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/e) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-44d82874341c7201ece2e62fa12b3cfb]: Textual amendment: Words in [Sch. 1 rule 32(11)(a)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/11/a) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(e)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/e) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-0a3331346aef15b096f1bd2f4e753526]: Textual amendment: Words in [Sch. 1 rule 32(11)(b)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/11/b) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(f)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/f) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-0a3331346aef15b096f1bd2f4e753526]: Textual amendment: Words in [Sch. 1 rule 32(11)(b)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/11/b) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(f)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/f) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-c64b001683843bb5956ca616527f7dc6]: Textual amendment: [Sch. 1 rule 32(12)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/12) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(6)(d)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/6/d)
+[^c-c64b001683843bb5956ca616527f7dc6]: Textual amendment: [Sch. 1 rule 32(12)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/12) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [3(6)(d)](https://www.legislation.gov.uk/wsi/2023/1064/rule/3/6/d)
 
-[^key-7469117e528b090c81488dca7b898f24]: Textual amendment: [Sch. 1 rule 32(13)-(15)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/13) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(h)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/h) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-7469117e528b090c81488dca7b898f24]: Textual amendment: [Sch. 1 rule 32(13)-(15)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/32/13) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [11(h)](https://www.legislation.gov.uk/wsi/2026/84/rule/11/h) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-90caf5222d25c4cba89f4f5db4eef00e]: Commencement: Sch. 1 rule 33 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-90caf5222d25c4cba89f4f5db4eef00e]: Commencement: Sch. 1 rule 33 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-5a07362e9d509679cb892691795d21b8]: Textual amendment: Words in [Sch. 1 rule 33(8)(a)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/33/8/a) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/12/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-5a07362e9d509679cb892691795d21b8]: Textual amendment: Words in [Sch. 1 rule 33(8)(a)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/33/8/a) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/12/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-19268bc78c73b515661aae2555556756]: Textual amendment: Words in [Sch. 1 rule 33(9)(b)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/33/9/b) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/12/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-19268bc78c73b515661aae2555556756]: Textual amendment: Words in [Sch. 1 rule 33(9)(b)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/33/9/b) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/12/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-6c43d18738bb622b9b888c20da0a9eba]: Commencement: Sch. 1 rule 34 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-6c43d18738bb622b9b888c20da0a9eba]: Commencement: Sch. 1 rule 34 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-f0782852b13fa950c13cefdb0839bc5f]: Textual amendment: [Sch. 1 rule 34(3A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/34/3A) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [13](https://www.legislation.gov.uk/wsi/2026/84/rule/13) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-f0782852b13fa950c13cefdb0839bc5f]: Textual amendment: [Sch. 1 rule 34(3A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/34/3A) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [13](https://www.legislation.gov.uk/wsi/2026/84/rule/13) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-8c269a3dff53f9b45de06facbe9b6043]: Commencement: Sch. 1 rule 35 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-8c269a3dff53f9b45de06facbe9b6043]: Commencement: Sch. 1 rule 35 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
 [^f00015]: Footnote: Section 66 of the 1983 Act was amended by paragraphs 82 and 86 of Schedule 1 to the Electoral Administration Act 2006 and paragraph 3 of Schedule 3 to the Representation of the People Act 1985; there are other amendments but none are relevant to these Rules.
 
 [^f00016]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30). Section 38 was amended by section 38 of the Policing and Crime Act 2017.
 
-[^key-1962d77f8414d774586eedd2b865cbc3]: Commencement: Sch. 1 rule 36 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-1962d77f8414d774586eedd2b865cbc3]: Commencement: Sch. 1 rule 36 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-8af0c725f6ad9fa164ad3a2e42e10336]: Commencement: Sch. 1 rule 37 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-8af0c725f6ad9fa164ad3a2e42e10336]: Commencement: Sch. 1 rule 37 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
 [^f00017]: Footnote: Sections 6A to 6D were inserted by section 29 of the Electoral Administration Act 2006.
 
-[^key-139cce26245ef4ee1e4181a3b40d231b]: Commencement: Sch. 1 rule 38 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-139cce26245ef4ee1e4181a3b40d231b]: Commencement: Sch. 1 rule 38 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-e81206bcc4cce9a28733ddc10698ba74]: Commencement: Sch. 1 rule 39 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-e81206bcc4cce9a28733ddc10698ba74]: Commencement: Sch. 1 rule 39 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-1ec98d629bcdd609b37a0975120b3fe8]: Textual amendment: Words in [Sch. 1 rule 39(3)(b)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/39/3/b) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [14](https://www.legislation.gov.uk/wsi/2026/84/rule/14) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-1ec98d629bcdd609b37a0975120b3fe8]: Textual amendment: Words in [Sch. 1 rule 39(3)(b)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/39/3/b) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [14](https://www.legislation.gov.uk/wsi/2026/84/rule/14) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-be737e8e0ecefcfabc8d54610c91fccd]: Textual amendment: Sch. 1 rule 40 substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [15](https://www.legislation.gov.uk/wsi/2026/84/rule/15) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-be737e8e0ecefcfabc8d54610c91fccd]: Textual amendment: Sch. 1 rule 40 substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [15](https://www.legislation.gov.uk/wsi/2026/84/rule/15) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-7d209e4da0869d042f9826c684bbb61d]: Commencement: Sch. 1 rule 41 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-7d209e4da0869d042f9826c684bbb61d]: Commencement: Sch. 1 rule 41 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-475b4db762b394b758088296f4d38ad4]: Commencement: Sch. 1 rule 42 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-475b4db762b394b758088296f4d38ad4]: Commencement: Sch. 1 rule 42 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-777c5925108076839cc0d9907fdf42f7]: Commencement: Sch. 1 rule 43 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-777c5925108076839cc0d9907fdf42f7]: Commencement: Sch. 1 rule 43 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-b54e55399f4afc6aa6a6607c6fe4e3eb]: Textual amendment: Words in [Sch. 1 rule 43(1)(a)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/43/1/a) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [16](https://www.legislation.gov.uk/wsi/2026/84/rule/16) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-b54e55399f4afc6aa6a6607c6fe4e3eb]: Textual amendment: Words in [Sch. 1 rule 43(1)(a)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/43/1/a) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [16](https://www.legislation.gov.uk/wsi/2026/84/rule/16) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-ac6b0d348fbe094e5c593a34d0e3eb8b]: Commencement: Sch. 1 rule 44 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-ac6b0d348fbe094e5c593a34d0e3eb8b]: Commencement: Sch. 1 rule 44 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-8ccd941acda00c914fc3cc965f903d9c]: Textual amendment: Words in [Sch. 1 rule 44(1)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/44/1) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [17(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/17/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-8ccd941acda00c914fc3cc965f903d9c]: Textual amendment: Words in [Sch. 1 rule 44(1)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/44/1) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [17(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/17/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-fef2107a16615b489e12bd67bc8a3adb]: Textual amendment: Words in [Sch. 1 rule 44(2)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/44/2) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [17(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/17/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-fef2107a16615b489e12bd67bc8a3adb]: Textual amendment: Words in [Sch. 1 rule 44(2)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/44/2) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [17(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/17/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-02bf42c93c38619459d629e988b75ccf]: Textual amendment: Words in [Sch. 1 rule 44(3)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/44/3) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [17(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/17/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-02bf42c93c38619459d629e988b75ccf]: Textual amendment: Words in [Sch. 1 rule 44(3)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/44/3) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [17(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/17/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-b346058a6f28909283f76d71834936ba]: Textual amendment: Words in [Sch. 1 rule 44(6)(a)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/44/6/a) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [17(d)](https://www.legislation.gov.uk/wsi/2026/84/rule/17/d) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-b346058a6f28909283f76d71834936ba]: Textual amendment: Words in [Sch. 1 rule 44(6)(a)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/44/6/a) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [17(d)](https://www.legislation.gov.uk/wsi/2026/84/rule/17/d) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-f3f67d8a134c8ecca64c85b5f4a6b75f]: Commencement: Sch. 1 rule 45 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-f3f67d8a134c8ecca64c85b5f4a6b75f]: Commencement: Sch. 1 rule 45 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-562be3d5628a3ec08e9eb61bef06b0a3]: Commencement: Sch. 1 rule 46 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-562be3d5628a3ec08e9eb61bef06b0a3]: Commencement: Sch. 1 rule 46 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-715a122c9d3c5b72054e53ad724f7b07]: Textual amendment: Words in [Sch. 1 rule 46(1)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/46/1) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [18](https://www.legislation.gov.uk/wsi/2026/84/rule/18) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-715a122c9d3c5b72054e53ad724f7b07]: Textual amendment: Words in [Sch. 1 rule 46(1)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/46/1) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [18](https://www.legislation.gov.uk/wsi/2026/84/rule/18) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-7bec09e31f0a4e774c5fdd4ac1f739ee]: Commencement: Sch. 1 rule 47 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-7bec09e31f0a4e774c5fdd4ac1f739ee]: Commencement: Sch. 1 rule 47 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-d008f193f7f402fdf6082a42c6607ad5]: Commencement: Sch. 1 rule 48 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-d008f193f7f402fdf6082a42c6607ad5]: Commencement: Sch. 1 rule 48 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-0e03aeab7ae517c7c841b1834626f882]: Commencement: Sch. 1 rule 49 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-0e03aeab7ae517c7c841b1834626f882]: Commencement: Sch. 1 rule 49 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-0d35fd3fab6225ffbf8aef3b5b9c06c8]: Commencement: Sch. 1 rule 50 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-0d35fd3fab6225ffbf8aef3b5b9c06c8]: Commencement: Sch. 1 rule 50 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-23edc246e56cae63be2d60080f6185ad]: Commencement: Sch. 1 rule 51 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-23edc246e56cae63be2d60080f6185ad]: Commencement: Sch. 1 rule 51 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-f698991a63a320363c4ca42ee5de7cf5]: Textual amendment: [Sch. 1 rule 51(2)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/51/2) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [19(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/19/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-f698991a63a320363c4ca42ee5de7cf5]: Textual amendment: [Sch. 1 rule 51(2)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/51/2) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [19(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/19/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-b9fb73296bfd70572fa8517975673eed]: Textual amendment: Words in [Sch. 1 rule. 51(3)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/paragraph/51/3) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/wsi/2022/263/regulation/3/2/b/i) (with [reg. 12(a)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/a))
+[^c-b9fb73296bfd70572fa8517975673eed]: Textual amendment: Words in [Sch. 1 rule. 51(3)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/paragraph/51/3) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/wsi/2022/263/regulation/3/2/b/i) (with [reg. 12(a)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/a))
 
-[^key-e4090a243bcc7aa6ffbd1b28c3e0c367]: Textual amendment: [Sch. 1 rule 51(3)(g)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/51/3/g) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [19(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/19/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-e4090a243bcc7aa6ffbd1b28c3e0c367]: Textual amendment: [Sch. 1 rule 51(3)(g)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/51/3/g) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [19(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/19/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-11ea9caa48d4ce42aab86d8825194b49]: Textual amendment: [Sch. 1 rule. 51(3A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/paragraph/51/3A)[(3B)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/paragraph/51/3B) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2022/263/regulation/3/2/b/ii) (with [reg. 12(a)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/a))
+[^c-11ea9caa48d4ce42aab86d8825194b49]: Textual amendment: [Sch. 1 rule. 51(3A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/paragraph/51/3A)[(3B)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/paragraph/51/3B) inserted (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2022/263/regulation/3/2/b/ii) (with [reg. 12(a)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/a))
 
-[^key-41260f3cbc5a57200266f198a536a17d]: Textual amendment: Words in [Sch. 1 rule 51(3A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/51/3A) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [19(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/19/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-41260f3cbc5a57200266f198a536a17d]: Textual amendment: Words in [Sch. 1 rule 51(3A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/51/3A) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [19(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/19/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-ba64fcbebf4e5bd75ef751b89d3c1372]: Textual amendment: [Sch. 1 rule 51(3C)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/51/3C) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [19(d)](https://www.legislation.gov.uk/wsi/2026/84/rule/19/d) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-ba64fcbebf4e5bd75ef751b89d3c1372]: Textual amendment: [Sch. 1 rule 51(3C)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/51/3C) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [19(d)](https://www.legislation.gov.uk/wsi/2026/84/rule/19/d) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-881f628448d3d74f41fa719944658abb]: Textual amendment: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/part/4) heading substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [4(1)](https://www.legislation.gov.uk/wsi/2023/1064/rule/4/1)
+[^c-881f628448d3d74f41fa719944658abb]: Textual amendment: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/part/4) heading substituted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [4(1)](https://www.legislation.gov.uk/wsi/2023/1064/rule/4/1)
 
-[^key-35ed6bf20feb5374c563283774c30a1f]: Commencement: Sch. 1 rule 52 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-35ed6bf20feb5374c563283774c30a1f]: Commencement: Sch. 1 rule 52 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-947978816b31030901f398778cd8f828]: Commencement: Sch. 1 rule 53 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-947978816b31030901f398778cd8f828]: Commencement: Sch. 1 rule 53 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-c4d43d60aba438b0ec29756b807860ac]: Commencement: Sch. 1 rule 54 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-c4d43d60aba438b0ec29756b807860ac]: Commencement: Sch. 1 rule 54 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-da26fc537c2a2a5f20ff9b3ab1fc658f]: Commencement: Sch. 1 rule 55 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-da26fc537c2a2a5f20ff9b3ab1fc658f]: Commencement: Sch. 1 rule 55 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-94aa913dc6e261cb548c0b113ffdf0af]: Commencement: Sch. 1 rule 56 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-94aa913dc6e261cb548c0b113ffdf0af]: Commencement: Sch. 1 rule 56 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-62323cb71401e07e03537139f8f4d4aa]: Commencement: Sch. 1 rule 57 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-62323cb71401e07e03537139f8f4d4aa]: Commencement: Sch. 1 rule 57 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-506f3c190a3fa0d98235a2fac4ad2f77]: Commencement: Sch. 1 rule 58 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-506f3c190a3fa0d98235a2fac4ad2f77]: Commencement: Sch. 1 rule 58 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-124aeb0c1f934b7e792cecbcc3105906]: Commencement: Sch. 1 rule 59 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-124aeb0c1f934b7e792cecbcc3105906]: Commencement: Sch. 1 rule 59 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-dcfc63e7b457ccd8b552c2c4bb63f95b]: Commencement: Sch. 1 rule 60 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-dcfc63e7b457ccd8b552c2c4bb63f95b]: Commencement: Sch. 1 rule 60 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-6d6faa2b6cc621a588d8de1ec4074bdd]: Textual amendment: [Sch. 1 rule 60(1A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/60/1A) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [20(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/20/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-6d6faa2b6cc621a588d8de1ec4074bdd]: Textual amendment: [Sch. 1 rule 60(1A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/60/1A) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [20(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/20/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-711293416ae7242286966548895e656e]: Textual amendment: Words in [Sch. 1 rule 60(3)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/60/3) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [20(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/20/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-711293416ae7242286966548895e656e]: Textual amendment: Words in [Sch. 1 rule 60(3)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/60/3) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [20(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/20/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-dad2027a7cee899c5b7e59f135880a18]: Textual amendment: [Sch. 1 rule 60(4)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/60/4) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [20(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/20/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-dad2027a7cee899c5b7e59f135880a18]: Textual amendment: [Sch. 1 rule 60(4)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/60/4) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [20(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/20/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-39c43f3c3399bcdcb34cf2348c1bb20e]: Textual amendment: [Sch. 1 Pt. 4A](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/part/4A) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/4/2)
+[^c-39c43f3c3399bcdcb34cf2348c1bb20e]: Textual amendment: [Sch. 1 Pt. 4A](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/part/4A) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/4/2)
 
-[^key-36a27ce973f66e74e97f99748913f54b]: Textual amendment: [Sch. 1 rule 60W(1A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/60W/1A) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [21(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/21/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-36a27ce973f66e74e97f99748913f54b]: Textual amendment: [Sch. 1 rule 60W(1A)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/60W/1A) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [21(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/21/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-d00f96ea2b812f0bf05cad18af5bc7da]: Textual amendment: Words in [Sch. 1 rule 60W(3)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/60W/3) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [21(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/21/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-d00f96ea2b812f0bf05cad18af5bc7da]: Textual amendment: Words in [Sch. 1 rule 60W(3)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/60W/3) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [21(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/21/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-d69df9a07acb590b6cc175f08f8ec604]: Textual amendment: [Sch. 1 rule 60W(4)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/60W/4) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [21(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/21/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-d69df9a07acb590b6cc175f08f8ec604]: Textual amendment: [Sch. 1 rule 60W(4)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/60W/4) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [21(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/21/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-7a528ef688459b930d9b99b8bc8806c5]: Commencement: Sch. 1 rule 61 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-7a528ef688459b930d9b99b8bc8806c5]: Commencement: Sch. 1 rule 61 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-d9d47e53acf3a3bd2b3b8d9fbdb02639]: Commencement: Sch. 1 rule 62 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-d9d47e53acf3a3bd2b3b8d9fbdb02639]: Commencement: Sch. 1 rule 62 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-a20bd42ba86ea6fcb3daa141bf517434]: Textual amendment: Word in [Sch. 1 rule 62(2)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/62/2) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [22(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/22/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-a20bd42ba86ea6fcb3daa141bf517434]: Textual amendment: Word in [Sch. 1 rule 62(2)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/62/2) inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [22(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/22/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-b558e122874d8639d35c7a6282ce3bf1]: Textual amendment: Words in [Sch. 1 rule 62(2)(c)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/62/2/c) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2023/1064/rule/5/a)
+[^c-b558e122874d8639d35c7a6282ce3bf1]: Textual amendment: Words in [Sch. 1 rule 62(2)(c)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/62/2/c) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2023/1064/rule/5/a)
 
-[^key-e0ac382fc2ab5d386b05ea95a3becad2]: Textual amendment: Words in [Sch. 1 rule 62(2)(d)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/62/2/d) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2023/1064/rule/5/b)
+[^c-e0ac382fc2ab5d386b05ea95a3becad2]: Textual amendment: Words in [Sch. 1 rule 62(2)(d)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/62/2/d) inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rules 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2023/1064/rule/5/b)
 
-[^key-649e485ad26779249a9bc504083d5ce7]: Textual amendment: [Sch. 1 rule 62(3)(4)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/62/3/4) inserted (13.3.2026) by The Local Elections (Wales) (Amendment) Rules 2026 (W.[S.I. 2026/84](https://www.legislation.gov.uk/uksi/2026/84)), rules 1(2), 22(b) (with rule 1(3))
+[^c-649e485ad26779249a9bc504083d5ce7]: Textual amendment: [Sch. 1 rule 62(3)(4)](https://www.legislation.gov.uk/wsi/2021/1459/schedule/1/rule/62/3/4) inserted (13.3.2026) by The Local Elections (Wales) (Amendment) Rules 2026 (W.[S.I. 2026/84](https://www.legislation.gov.uk/uksi/2026/84)), rules 1(2), 22(b) (with rule 1(3))
 
-[^key-9554ad352ad9777499f35f35e8b061d8]: Commencement: Sch. 1 rule 63 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-9554ad352ad9777499f35f35e8b061d8]: Commencement: Sch. 1 rule 63 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-d5c9887738264205e27c1f1516a1be1b]: Commencement: Sch. 1 rule 64 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-d5c9887738264205e27c1f1516a1be1b]: Commencement: Sch. 1 rule 64 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-43eaffa8747cff8a26beb1c79087e3aa]: Commencement: Sch. 1 rule 65 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-43eaffa8747cff8a26beb1c79087e3aa]: Commencement: Sch. 1 rule 65 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-f2b37bd364387aaad8143b9058de26fd]: Commencement: Sch. 1 rule 66 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-f2b37bd364387aaad8143b9058de26fd]: Commencement: Sch. 1 rule 66 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-cef2e1b78d6ec3870b011e1c297c4a06]: Commencement: Sch. 1 rule 67 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-cef2e1b78d6ec3870b011e1c297c4a06]: Commencement: Sch. 1 rule 67 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
 [^f00018]: Footnote: Section 39 was amended by section 19 of the Representation of the People Act 1985, paragraph 68 of Schedule 16 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19) and paragraph 2(7) of Schedule 2 to the Local Government and Elections (Wales) Act 2021.
 
-[^key-424160df151e324dc4d1ce70a6c3013e]: Commencement: Sch. 1 Appendices in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
+[^c-424160df151e324dc4d1ce70a6c3013e]: Commencement: Sch. 1 Appendices in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1459/rule/1)
 
-[^key-b234dc39ff7581d7df604b298e28d446]: Textual amendment: Sch. 1 Appendix 1 Section 4 table substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [23](https://www.legislation.gov.uk/wsi/2026/84/rule/23) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-b234dc39ff7581d7df604b298e28d446]: Textual amendment: Sch. 1 Appendix 1 Section 4 table substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [23](https://www.legislation.gov.uk/wsi/2026/84/rule/23) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-0c3c4eaa637d660d351ed6c43cd3c1c3]: Textual amendment: Sch. 1 Appendix 2: words “– \[insert name of ward\]” inserted after “\[insert the name of the county or county borough council\]” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(i)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/i) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-0c3c4eaa637d660d351ed6c43cd3c1c3]: Textual amendment: Sch. 1 Appendix 2: words “– \[insert name of ward\]” inserted after “\[insert the name of the county or county borough council\]” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(i)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/i) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-075af0ac5782b020ba3b00c8cd60fe28]: Textual amendment: Sch. 1 Appendix 2: in the second paragraph, words “the voting box next to your choice” substituted for “the box next to your choice” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(ii)(aa)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/ii/aa) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-075af0ac5782b020ba3b00c8cd60fe28]: Textual amendment: Sch. 1 Appendix 2: in the second paragraph, words “the voting box next to your choice” substituted for “the box next to your choice” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(ii)(aa)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/ii/aa) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-9232bdfb79012d817cd18568d275c227]: Textual amendment: Sch. 1 Appendix 2: in the second paragraph, words “the voting box next to each of your choices” substituted for “the box next to each of your choices” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(ii)(bb)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/ii/bb) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-9232bdfb79012d817cd18568d275c227]: Textual amendment: Sch. 1 Appendix 2: in the second paragraph, words “the voting box next to each of your choices” substituted for “the box next to each of your choices” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(ii)(bb)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/ii/bb) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-1d0acd5f9e79e8e08ad6a52efce308ac]: Textual amendment: Sch. 1 Appendix 2: words “THOMAS, Rhiannon” substituted for “JAMES, Lisa” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(iii)(aa)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/iii/aa) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-1d0acd5f9e79e8e08ad6a52efce308ac]: Textual amendment: Sch. 1 Appendix 2: words “THOMAS, Rhiannon” substituted for “JAMES, Lisa” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(iii)(aa)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/iii/aa) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-75f130af4123644778e49e7514edefc0]: Textual amendment: Sch. 1 Appendix 2: words “SINGH, Mushaq” substituted for “THOMAS, Gareth” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(iii)(bb)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/iii/bb) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-75f130af4123644778e49e7514edefc0]: Textual amendment: Sch. 1 Appendix 2: words “SINGH, Mushaq” substituted for “THOMAS, Gareth” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(iii)(bb)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/iii/bb) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-2fe41a2703160f11f1d3ad29bf6d956d]: Textual amendment: Sch. 1 Appendix 2: words “DAVID, Brandon” substituted for “THOMAS RICHARDS, Angharad” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(iii)(cc)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/iii/cc) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-2fe41a2703160f11f1d3ad29bf6d956d]: Textual amendment: Sch. 1 Appendix 2: words “DAVID, Brandon” substituted for “THOMAS RICHARDS, Angharad” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(iii)(cc)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/iii/cc) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-e07fd362a2eba88df97f845c212ebd4b]: Textual amendment: Sch. 1 Appendix 2: words “PAINTER, Heather” substituted for “WYATT, Cath” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(iii)(dd)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/iii/dd) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-e07fd362a2eba88df97f845c212ebd4b]: Textual amendment: Sch. 1 Appendix 2: words “PAINTER, Heather” substituted for “WYATT, Cath” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(a)(iii)(dd)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/a/iii/dd) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-26d469158a62cb6b7b51550b24df2cd2]: Textual amendment: Sch. 1 Appendix 2 para. 3(a): words “– \[insert name of ward\]” inserted after “\[insert the name of the county or county borough council\]”(13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(b)(i)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/b/i) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-26d469158a62cb6b7b51550b24df2cd2]: Textual amendment: Sch. 1 Appendix 2 para. 3(a): words “– \[insert name of ward\]” inserted after “\[insert the name of the county or county borough council\]”(13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(b)(i)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/b/i) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-530008f41b8eef7a6aa29e58cacf0b6a]: Textual amendment: Sch. 1 Appendix 2 para. 3(b): words “the voting box next to your choice”; substituted for “the box next to your choice” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/b/ii/aa) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-530008f41b8eef7a6aa29e58cacf0b6a]: Textual amendment: Sch. 1 Appendix 2 para. 3(b): words “the voting box next to your choice”; substituted for “the box next to your choice” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/b/ii/aa) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-0c1233fd6c93977015d4025c3e56d3c5]: Textual amendment: Sch. 1 Appendix 2 para. 3(b): words “the voting box next to each of your choices” substituted for “the box next to each of your choices” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(b)(ii)(bb)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/b/ii/bb) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-0c1233fd6c93977015d4025c3e56d3c5]: Textual amendment: Sch. 1 Appendix 2 para. 3(b): words “the voting box next to each of your choices” substituted for “the box next to each of your choices” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [24(b)(ii)(bb)](https://www.legislation.gov.uk/wsi/2026/84/rule/24/b/ii/bb) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
 [^M_F_3c518d7a-6fb9-4294-f4ae-0c6017e5a05f]: Textual amendment: Sch. 1 Appendix 2A inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rule 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2023/1064/schedule/1)
 
-[^key-2838395f2a479dd9f7f6076f994ddb4f]: Textual amendment: Sch. 1 Appendix 2A: words “THOMAS, Rhiannon” substituted for “JAMES, Lisa” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-2838395f2a479dd9f7f6076f994ddb4f]: Textual amendment: Sch. 1 Appendix 2A: words “THOMAS, Rhiannon” substituted for “JAMES, Lisa” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-f4575d5de6bc86722e6a0a3bd5e96c2d]: Textual amendment: Sch. 1 Appendix 2A: words “EVANS, Paul David” substituted for “KAY, Michael” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-f4575d5de6bc86722e6a0a3bd5e96c2d]: Textual amendment: Sch. 1 Appendix 2A: words “EVANS, Paul David” substituted for “KAY, Michael” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-66cae4f4b2c3583ce8d57d2ef1a575cd]: Textual amendment: Sch. 1 Appendix 2A: words “SINGH, Mushaq” substituted for “THOMAS, Gareth” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-66cae4f4b2c3583ce8d57d2ef1a575cd]: Textual amendment: Sch. 1 Appendix 2A: words “SINGH, Mushaq” substituted for “THOMAS, Gareth” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-d04ab9e9b10cf17b8e6f75a3061c9612]: Textual amendment: Sch. 1 Appendix 2A: words “BRANDON, David” substituted for “THOMAS RICHARDS, Angharad” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(d)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/d) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-d04ab9e9b10cf17b8e6f75a3061c9612]: Textual amendment: Sch. 1 Appendix 2A: words “BRANDON, David” substituted for “THOMAS RICHARDS, Angharad” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(d)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/d) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-11fba4447a4c994f9a4d9633f65b4966]: Textual amendment: Sch. 1 Appendix 2A: words “WILLIAMS, Claire” substituted for “WILLIAMS, Sian” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(e)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/e) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-11fba4447a4c994f9a4d9633f65b4966]: Textual amendment: Sch. 1 Appendix 2A: words “WILLIAMS, Claire” substituted for “WILLIAMS, Sian” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(e)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/e) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-86fcba38f57d38dc78787d6b5c956e93]: Textual amendment: Sch. 1 Appendix 2A: words “PAINTER, Heather” substituted for “WYATT, Cath” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(f)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/f) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-86fcba38f57d38dc78787d6b5c956e93]: Textual amendment: Sch. 1 Appendix 2A: words “PAINTER, Heather” substituted for “WYATT, Cath” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(f)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/f) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-2e6616cab45fa33c2a78a8cd0f294a13]: Textual amendment: Sch. 1 Appendix 2A: words “SMITH, Joan Hazel” substituted for “XERRI, Matthew” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(g)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/g) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-2e6616cab45fa33c2a78a8cd0f294a13]: Textual amendment: Sch. 1 Appendix 2A: words “SMITH, Joan Hazel” substituted for “XERRI, Matthew” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [25(g)](https://www.legislation.gov.uk/wsi/2026/84/rule/25/g) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-77231655b6404a65155ed2f4e8cc7fc5]: Textual amendment: Sch. 1 Appendix 4: in the instructions on marking the ballot paper and completing the postal voting statement, in both versions of instruction 2, words "voting box" substituted for “box” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [26](https://www.legislation.gov.uk/wsi/2026/84/rule/26) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-77231655b6404a65155ed2f4e8cc7fc5]: Textual amendment: Sch. 1 Appendix 4: in the instructions on marking the ballot paper and completing the postal voting statement, in both versions of instruction 2, words "voting box" substituted for “box” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [26](https://www.legislation.gov.uk/wsi/2026/84/rule/26) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
 [^M_F_3e52daef-3a1a-4c60-fde7-71f2b764bed3]: Textual amendment: Sch. 1 Appendix 4A inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rule 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2023/1064/schedule/2)
 
-[^key-8a6577bf99f7243b961ed3e6f30beb03]: Textual amendment: Sch. 1 Appendix 5: in the official poll card to be sent or delivered to an elector voting in person, on the back of card, in the second paragraph, words “voting box” substituted for “box” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [27(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/27/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-8a6577bf99f7243b961ed3e6f30beb03]: Textual amendment: Sch. 1 Appendix 5: in the official poll card to be sent or delivered to an elector voting in person, on the back of card, in the second paragraph, words “voting box” substituted for “box” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [27(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/27/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-c9fe95de9563890bde90d838377b9234]: Textual amendment: Sch. 1 Appendix 5: in the official proxy poll card to be sent or delivered to a proxy voting in person, on the back of card, in the third paragraph, words “voting box” substituted for “box” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [27(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/27/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-c9fe95de9563890bde90d838377b9234]: Textual amendment: Sch. 1 Appendix 5: in the official proxy poll card to be sent or delivered to a proxy voting in person, on the back of card, in the third paragraph, words “voting box” substituted for “box” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [27(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/27/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
 [^M_F_a9d45efb-29a3-44f5-c1b9-6d9ec4832c90]: Textual amendment: Sch. 1 Appendix 5A inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rule 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [Sch. 3](https://www.legislation.gov.uk/wsi/2023/1064/schedule/3)
 
-[^key-b992d337225b6aeb8f142f8349afd1e7]: Textual amendment: Sch. 1 Appendix 6 direction 2: words “voting box” substituted for “box” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [28(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/28/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-b992d337225b6aeb8f142f8349afd1e7]: Textual amendment: Sch. 1 Appendix 6 direction 2: words “voting box” substituted for “box” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [28(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/28/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-fa04f9c9519aee381c31e4029eaf0619]: Textual amendment: Sch. 1 Appendix 6: words "**Voting is secret. Do not let anyone see how you have voted. If you make a mistake or need some help, just ask the staff.**" inserted after the final paragraph (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [28(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/28/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-fa04f9c9519aee381c31e4029eaf0619]: Textual amendment: Sch. 1 Appendix 6: words "**Voting is secret. Do not let anyone see how you have voted. If you make a mistake or need some help, just ask the staff.**" inserted after the final paragraph (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [28(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/28/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
 [^M_F_872f223d-be04-4e4b-eb55-1dd74a686a60]: Textual amendment: Sch. 1 Appendix 6A inserted (9.10.2023) by [The Local Elections (Principal Areas) (Single Transferable Vote) (Wales) Rules 2023 (S.I. 2023/1064)](https://www.legislation.gov.uk/wsi/2023/1064), [rule 1(2)](https://www.legislation.gov.uk/wsi/2023/1064/rule/1/2), [Sch. 4](https://www.legislation.gov.uk/wsi/2023/1064/schedule/4)
 
-[^key-be4d9cd3585f591ddaf25543eb6c2263]: Textual amendment: Sch. 1 Appendix 6A: words "**Voting is secret. Do not let anyone see how you have voted. If you make a mistake or need some help, just ask the staff.**" inserted after the final paragraph (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [29](https://www.legislation.gov.uk/wsi/2026/84/rule/29) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-be4d9cd3585f591ddaf25543eb6c2263]: Textual amendment: Sch. 1 Appendix 6A: words "**Voting is secret. Do not let anyone see how you have voted. If you make a mistake or need some help, just ask the staff.**" inserted after the final paragraph (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [29](https://www.legislation.gov.uk/wsi/2026/84/rule/29) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-f0de7b9c7743bc60006b98ea1c0351c5]: Textual amendment: Sch. 1 Appendix 8: in the first paragraph, “ \*\*” inserted after “\[insert name of voter being assisted\]” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-f0de7b9c7743bc60006b98ea1c0351c5]: Textual amendment: Sch. 1 Appendix 8: in the first paragraph, “ \*\*” inserted after “\[insert name of voter being assisted\]” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(b)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/b) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-7645ba6948e70b6012635a7cab7643aa]: Textual amendment: Sch. 1 Appendix 8: in the third paragraph, words “severe sight impairment or other disability or inability to read” substituted for “disabilities” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-7645ba6948e70b6012635a7cab7643aa]: Textual amendment: Sch. 1 Appendix 8: in the third paragraph, words “severe sight impairment or other disability or inability to read” substituted for “disabilities” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(c)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/c) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-edced3e889a0ff5f96a3fdcb75b52b42]: Textual amendment: Sch. 1 Appendix 8: in the asterisked paragraph, the words “severe sight impairment or other disability or inability to read” substituted for “disabilities” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(d)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/d) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-edced3e889a0ff5f96a3fdcb75b52b42]: Textual amendment: Sch. 1 Appendix 8: in the asterisked paragraph, the words “severe sight impairment or other disability or inability to read” substituted for “disabilities” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(d)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/d) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-a9be6282e9ee9e07399f9f53e0252402]: Textual amendment: Sch. 1 Appendix 8: words "\*\*The name of the voter is not to be added when the voter has an anonymous entry. Instead, only the voter’s number is to be added (see note 3)." inserted after the asterisked paragraph (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(e)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/e) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-a9be6282e9ee9e07399f9f53e0252402]: Textual amendment: Sch. 1 Appendix 8: words "\*\*The name of the voter is not to be added when the voter has an anonymous entry. Instead, only the voter’s number is to be added (see note 3)." inserted after the asterisked paragraph (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(e)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/e) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-5341f0312e0cd67d3a4ff3f2121826a9]: Textual amendment: Sch. 1 Appendix 8: in the heading of the notes, words “severe sight impairment or other disability or inability to read” substituted for “disabilities” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(f)(i)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/f/i) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-5341f0312e0cd67d3a4ff3f2121826a9]: Textual amendment: Sch. 1 Appendix 8: in the heading of the notes, words “severe sight impairment or other disability or inability to read” substituted for “disabilities” (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(f)(i)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/f/i) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-9a5085e82775c57ea36c56a4b20918f8]: Textual amendment: Words in Sch. 1 Appendix 8 note 1 substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(f)(ii)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/f/ii) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-9a5085e82775c57ea36c56a4b20918f8]: Textual amendment: Words in Sch. 1 Appendix 8 note 1 substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(f)(ii)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/f/ii) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-7b1539297965925df493837a9cf7bc8a]: Textual amendment: Sch. 1 Appendix 8 note 3 inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(f)(iii)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/f/iii) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-7b1539297965925df493837a9cf7bc8a]: Textual amendment: Sch. 1 Appendix 8 note 3 inserted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(f)(iii)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/f/iii) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
 
-[^key-2d8b8e6fc68f987113e461f62c4d0ddd]: Textual amendment: Sch. 1 Appendix 8 heading: words “severe sight impairment or other disability or inability to read” substituted for “disabilities” (13.3.2026) [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-2d8b8e6fc68f987113e461f62c4d0ddd]: Textual amendment: Sch. 1 Appendix 8 heading: words “severe sight impairment or other disability or inability to read” substituted for “disabilities” (13.3.2026) [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [30(a)](https://www.legislation.gov.uk/wsi/2026/84/rule/30/a) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Electronic communications[^key-57a27cb9ea206c4a6cb9be64c33eebac]
+## 37. Electronic communications[^c-57a27cb9ea206c4a6cb9be64c33eebac]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57a27cb9ea206c4a6cb9be64c33eebac]: Commencement: Art. 37 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-57a27cb9ea206c4a6cb9be64c33eebac]: Commencement: Art. 37 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
 [^f00032]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). As amended by paragraph 158 of Schedule 17 to the Communications Act [2003 c. 7](https://www.legislation.gov.uk/ukpga/2003/7).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Taxis and private hire vehicles: duration of licences[^key-8829664fadc14a31355095172d110d1f]
+## 10. Taxis and private hire vehicles: duration of licences[^c-8829664fadc14a31355095172d110d1f]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8829664fadc14a31355095172d110d1f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2015/20/section/10) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(d)](https://www.legislation.gov.uk/uksi/2015/994/article/11/d)
+[^c-8829664fadc14a31355095172d110d1f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2015/20/section/10) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(d)](https://www.legislation.gov.uk/uksi/2015/994/article/11/d)

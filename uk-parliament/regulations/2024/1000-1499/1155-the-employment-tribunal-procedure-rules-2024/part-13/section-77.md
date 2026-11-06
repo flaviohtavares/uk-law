@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. The amount of a preparation time order[^key-481dede341dd53f859a7518a75c4b0dc]
+## 77. The amount of a preparation time order[^c-481dede341dd53f859a7518a75c4b0dc]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-481dede341dd53f859a7518a75c4b0dc]: Commencement: [Rule 77](https://www.legislation.gov.uk/uksi/2024/1155/rule/77) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-481dede341dd53f859a7518a75c4b0dc]: Commencement: [Rule 77](https://www.legislation.gov.uk/uksi/2024/1155/rule/77) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

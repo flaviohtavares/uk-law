@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 849AC. Grants not at arm's length[^key-d47b535ecfe81e807251aadaa91adefd]
+## 849AC. Grants not at arm's length[^c-d47b535ecfe81e807251aadaa91adefd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d47b535ecfe81e807251aadaa91adefd]: Textual amendment: [S. 849AC](https://www.legislation.gov.uk/ukpga/2009/4/section/849AC) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 26(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/26/5), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)
+[^c-d47b535ecfe81e807251aadaa91adefd]: Textual amendment: [S. 849AC](https://www.legislation.gov.uk/ukpga/2009/4/section/849AC) omitted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 26(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/26/5), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)

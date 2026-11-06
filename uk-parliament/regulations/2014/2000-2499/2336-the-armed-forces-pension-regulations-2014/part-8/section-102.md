@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Calculating amount of the transfer value[^key-95c05b94f1719ffd3012296b4eb00bee]
+## 102. Calculating amount of the transfer value[^c-95c05b94f1719ffd3012296b4eb00bee]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95c05b94f1719ffd3012296b4eb00bee]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/2014/2336/regulation/102) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-95c05b94f1719ffd3012296b4eb00bee]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/2014/2336/regulation/102) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

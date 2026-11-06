@@ -30,7 +30,7 @@ summary: ''
 - (a) the offence is one falling within subsection (3), or
 - (b) the condition in subsection (4) is satisfied.
 
-This is subject to section 151B. *(Extent: E+W)*[^key-2f588f917c1a739ff4562af5f056e0c3]
+This is subject to section 151B. *(Extent: E+W)*[^c-2f588f917c1a739ff4562af5f056e0c3]
 
 (3) The offences are—
 
@@ -52,4 +52,4 @@ This is subject to section 151B. *(Extent: E+W)*[^key-2f588f917c1a739ff4562af5f0
 
 [^c2088182]: Textual amendment: S. 151A inserted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 76(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/76/3), [116](https://www.legislation.gov.uk/ukpga/2009/26/section/116); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(s)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/s) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3096/article/4))
 
-[^key-2f588f917c1a739ff4562af5f056e0c3]: Textual amendment: Words in s. 151A(2) inserted (E.W.) (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 166(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/166/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/l)
+[^c-2f588f917c1a739ff4562af5f056e0c3]: Textual amendment: Words in s. 151A(2) inserted (E.W.) (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 166(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/166/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(l)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/l)

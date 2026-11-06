@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and interpretation[^key-613e22ea07113d6c5877be2e3a91356c]
+## 1. Citation, commencement and interpretation[^c-613e22ea07113d6c5877be2e3a91356c]
 
 *Extent: N.I.*
 
-(1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010 and shall come into operation on 1st July 2012 immediately after the coming into operation of regulation 2 of the Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012[^key-1b40a4ed13751c8be40f2bda4f541fdc].
+(1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations (Northern Ireland) 2010 and shall come into operation on 1st July 2012 immediately after the coming into operation of regulation 2 of the Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012[^c-1b40a4ed13751c8be40f2bda4f541fdc].
 
 (2) In these Regulations—
 
@@ -39,7 +39,7 @@ summary: ''
 - “opt in” means the jobholder’s right under section 7(3) by notice to require the employer to arrange for the jobholder to become an active member of an automatic enrolment scheme;
 - “opt in notice” means a notice given under section 7(3);
 - “opt out” means the jobholder’s right to give notice under section 8;
-- “opt out notice” means a notice in the form set out in Schedule 1[^key-15fab46c6888ba0f7be9d9f764371447];
+- “opt out notice” means a notice in the form set out in Schedule 1[^c-15fab46c6888ba0f7be9d9f764371447];
 - “opt out period” means the period determined in accordance with regulation 9(2) or (3);
 - “staging date” means the date on which sections 2 to 8 first apply in relation to the employer.
 
@@ -51,10 +51,10 @@ summary: ''
 
 ## Annotations
 
-[^key-613e22ea07113d6c5877be2e3a91356c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/122/regulation/1) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-613e22ea07113d6c5877be2e3a91356c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/122/regulation/1) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
 
-[^key-1b40a4ed13751c8be40f2bda4f541fdc]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1) substituted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/237)](https://www.legislation.gov.uk/nisr/2012/237), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2012/237/regulation/1/1/b), [2(2)](https://www.legislation.gov.uk/nisr/2012/237/regulation/2/2)
+[^c-1b40a4ed13751c8be40f2bda4f541fdc]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1) substituted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/237)](https://www.legislation.gov.uk/nisr/2012/237), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2012/237/regulation/1/1/b), [2(2)](https://www.legislation.gov.uk/nisr/2012/237/regulation/2/2)
 
-[^key-15fab46c6888ba0f7be9d9f764371447]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/2) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(2)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/2)
+[^c-15fab46c6888ba0f7be9d9f764371447]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/2) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(2)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/2)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)

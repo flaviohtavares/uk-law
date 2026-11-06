@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241A. Travel by unpaid directors of not-for-profit companies[^key-e01052cf0bf5f8f1aa65be68259caa58]
+## 241A. Travel by unpaid directors of not-for-profit companies[^c-e01052cf0bf5f8f1aa65be68259caa58]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e01052cf0bf5f8f1aa65be68259caa58]: Textual amendment: Ss. 241A, 241B inserted (with effect in accordance with art. 4 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2014 (S.I. 2014/211)](https://www.legislation.gov.uk/uksi/2014/211), [arts. 1](https://www.legislation.gov.uk/uksi/2014/211/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2014/211/article/2/1)
+[^c-e01052cf0bf5f8f1aa65be68259caa58]: Textual amendment: Ss. 241A, 241B inserted (with effect in accordance with art. 4 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2014 (S.I. 2014/211)](https://www.legislation.gov.uk/uksi/2014/211), [arts. 1](https://www.legislation.gov.uk/uksi/2014/211/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2014/211/article/2/1)

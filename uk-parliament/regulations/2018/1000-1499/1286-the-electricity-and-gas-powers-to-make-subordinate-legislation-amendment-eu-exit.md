@@ -55,24 +55,24 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 (2) These Regulations come into force—
 
 - (a) on the day after the day on which they are made, for the purposes of making regulations under—
-  - (i)[^key-03ea47cb75c526ea49aeda4f8c78c606] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-03ea47cb75c526ea49aeda4f8c78c606] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) Article 6 of the Gas Regulation, as substituted by regulation 10,
 
-  so that those regulations may come into force on or after IP completion day[^key-8e87eb37def36ac5fe95d5face8476ee];
+  so that those regulations may come into force on or after IP completion day[^c-8e87eb37def36ac5fe95d5face8476ee];
 - (b) on exit day, for all other purposes.
 
 ### 2. Interpretation[^c23520001]
 
 In these Regulations—
 
-- [^key-a61fd611391eff2e89295091354ac2e1]...
+- [^c-a61fd611391eff2e89295091354ac2e1]...
 - “**the Gas Regulation**” means Regulation [(EC) No 715/2009](https://www.legislation.gov.uk/eur/2009/715) of the European Parliament and of the Council on conditions for access to the natural gas transmission networks;
 - “**REMIT**” means Regulation (EU) No 1227/2011 of the European Parliament and of the Council on wholesale energy market integrity and transparency; and
 - “**the Security of Gas Supply Regulation**” means Regulation (EU) 2017/1938 of the European Parliament and of the Council concerning measures to safeguard the security of gas supply.
 
 ## PART 2 — Amendments to retained direct EU legislation
 
-### CHAPTER 1 — Amendment of the Electricity Regulation[^key-a2a66ca6c96ac19908a27bb9a308bdce]
+### CHAPTER 1 — Amendment of the Electricity Regulation[^c-a2a66ca6c96ac19908a27bb9a308bdce]
 
 **No longer in force.**
 
@@ -119,14 +119,14 @@ For Article 6 (establishment of network codes) substitute—
 > - (a) “**the Withdrawal Act**” means the European Union (Withdrawal) Act 2018;
 > - (b) “**corresponding provision**”, in relation to a relevant provision, has the meaning given by paragraphs 2 and 3;
 > - (c) “deficiency” is to be interpreted in accordance with subsections (2) to (4) and subsection (9) of section 8 of the Withdrawal Act (with references in those subsections to retained EU law being read as if they included references to relevant provisions);
-> - (d) a “**gas network code**” means a network code adopted by the Commission before IP completion day[^key-eecc220d9fc6583c909ad0a708eec766], under this Article as it has effect in EU law;
+> - (d) a “**gas network code**” means a network code adopted by the Commission before IP completion day[^c-eecc220d9fc6583c909ad0a708eec766], under this Article as it has effect in EU law;
 > - (e) “**national authority**” means—
 >   - (i) the Secretary of State, in relation to Great Britain;
 >   - (ii) the Secretary of State or the Northern Ireland department, in relation to Northern Ireland;
 > - (f) “**the Northern Ireland department**” means the Department for the Economy;
 > - (g) “**permitted amendment**”, in relation to a relevant provision, means an amendment to that provision which would not prevent it from having effect as a corresponding provision;
 > - (h) a “**relevant provision**” means a provision of a gas network code which—
->   - (i) although in force immediately before IP completion day[^key-9b8ee11a85b60ed4ba917c5f7e42f137], is stated to apply from a time after IP completion day (“a relevant non-operative provision”); or
+>   - (i) although in force immediately before IP completion day[^c-9b8ee11a85b60ed4ba917c5f7e42f137], is stated to apply from a time after IP completion day (“a relevant non-operative provision”); or
 >   - (ii) was in force and applied before IP completion day, but is revoked or amended by regulations under section 8(1) of the Withdrawal Act in consequence of another provision being a relevant non-operative provision.
 >
 > **2.**
@@ -184,7 +184,7 @@ For Article 6 (establishment of network codes) substitute—
 >
 > **9.**
 >
-> No regulations may be made under this Article after the end of the period of two years beginning with IP completion day[^key-30e8f56b29c8af3d290fcf829e7b3c95].
+> No regulations may be made under this Article after the end of the period of two years beginning with IP completion day[^c-30e8f56b29c8af3d290fcf829e7b3c95].
 
 .
 
@@ -336,7 +336,7 @@ In Article 2 (definitions), after paragraph (8) insert—
 (3) In paragraph 2—
 
 - (a) in the words before subparagraph (a), for “delegated acts” substitute “ regulations ”;
-- (b)[^key-5541f3e56ea346a25a2298373334c57c] for sub-paragraph (d) substitute—
+- (b)[^c-5541f3e56ea346a25a2298373334c57c] for sub-paragraph (d) substitute—
 
   > - (d) network codes and framework guidelines adopted in accordance with Regulation [(EC) No 714/2009](https://www.legislation.gov.uk/eur/2009/0714) before 1 January 2020 and network codes and framework guidelines adopted, or regulations made, under the Gas Regulation and Electricity Regulation.
 
@@ -365,7 +365,7 @@ In Article 2 (definitions), after paragraph (8) insert—
 - (a) in the first subparagraph, for “The Commission shall, by means of implementing acts”, substitute “ A national authority may, by regulations ”;
 - (b) in the second subparagraph—
   - (i) omit the first sentence; and
-  - (ii)[^key-301e387c694dfec825489249c9c9eab8] for the second sentence substitute “Regulations under this paragraph shall take account of existing reporting obligations under the Gas Regulation and Electricity Regulation.”
+  - (ii)[^c-301e387c694dfec825489249c9c9eab8] for the second sentence substitute “Regulations under this paragraph shall take account of existing reporting obligations under the Gas Regulation and Electricity Regulation.”
 
 (7) After paragraph 6 insert—
 
@@ -373,7 +373,7 @@ In Article 2 (definitions), after paragraph (8) insert—
 >
 > The powers to make regulations under paragraphs 2 and 6 include power to amend or replace any provision of an implementing act which—
 >
-> - (a) was made by the Commission under those paragraphs as they applied before IP completion day[^key-585ac7a7bd32e476e7dfaa54047ded20]; and
+> - (a) was made by the Commission under those paragraphs as they applied before IP completion day[^c-585ac7a7bd32e476e7dfaa54047ded20]; and
 > - (b) is retained direct EU legislation.
 
 .
@@ -511,25 +511,25 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23519991]: Commencement: Reg. 1 in force at 4.12.2018 for specified purposes and in force on IP completion day otherwise (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-03ea47cb75c526ea49aeda4f8c78c606]: Textual amendment: [Reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2/a/i) omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/2/a/i)
+[^c-03ea47cb75c526ea49aeda4f8c78c606]: Textual amendment: [Reg. 1(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2/a/i) omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/2/a/i)
 
-[^key-8e87eb37def36ac5fe95d5face8476ee]: Textual amendment: Words in [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2/a) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/2/a/ii)
+[^c-8e87eb37def36ac5fe95d5face8476ee]: Textual amendment: Words in [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/1/2/a) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/2/a/ii)
 
 [^c23520001]: Commencement: Reg. 2 in force at 4.12.2018 for specified purposes and in force on IP completion day otherwise (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-a61fd611391eff2e89295091354ac2e1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/1286/regulation/2) omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/3)
+[^c-a61fd611391eff2e89295091354ac2e1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/1286/regulation/2) omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/3)
 
-[^key-a2a66ca6c96ac19908a27bb9a308bdce]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2018/1286/part/2/chapter/1) omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/4)
+[^c-a2a66ca6c96ac19908a27bb9a308bdce]: Textual amendment: [Pt. 2 Ch. 1](https://www.legislation.gov.uk/uksi/2018/1286/part/2/chapter/1) omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/4)
 
 [^c23520061]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/1286/regulation/9) in force at 4.12.2018 for specified purposes and in force on IP completion day otherwise (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23520071]: Commencement: Reg. 10 in force at 4.12.2018 for specified purposes and in force on IP completion day otherwise (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-eecc220d9fc6583c909ad0a708eec766]: Textual amendment: Words in reg. 10 substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/5/a)
+[^c-eecc220d9fc6583c909ad0a708eec766]: Textual amendment: Words in reg. 10 substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/5/a)
 
-[^key-9b8ee11a85b60ed4ba917c5f7e42f137]: Textual amendment: Words in reg. 10 substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/5/b)
+[^c-9b8ee11a85b60ed4ba917c5f7e42f137]: Textual amendment: Words in reg. 10 substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/5/b)
 
-[^key-30e8f56b29c8af3d290fcf829e7b3c95]: Textual amendment: Words in reg. 10 substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/5/c)
+[^c-30e8f56b29c8af3d290fcf829e7b3c95]: Textual amendment: Words in reg. 10 substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/5/c)
 
 [^c23520081]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/1286/regulation/11) in force at 4.12.2018 for specified purposes and in force on IP completion day otherwise (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -549,13 +549,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23520141]: Commencement: Reg. 17 in force at 4.12.2018 for specified purposes and in force on IP completion day otherwise (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-5541f3e56ea346a25a2298373334c57c]: Textual amendment: [Reg. 17(3)(b)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/17/3/b) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/6)
+[^c-5541f3e56ea346a25a2298373334c57c]: Textual amendment: [Reg. 17(3)(b)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/17/3/b) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/6)
 
 [^c23520151]: Commencement: Reg. 18 in force at 4.12.2018 for specified purposes and in force on IP completion day otherwise (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-301e387c694dfec825489249c9c9eab8]: Textual amendment: [Reg. 18(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/18/6/b/ii) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/7/a)
+[^c-301e387c694dfec825489249c9c9eab8]: Textual amendment: [Reg. 18(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/18/6/b/ii) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/7/a)
 
-[^key-585ac7a7bd32e476e7dfaa54047ded20]: Textual amendment: Words in [reg. 18(7)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/18/7) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/7/b)
+[^c-585ac7a7bd32e476e7dfaa54047ded20]: Textual amendment: Words in [reg. 18(7)](https://www.legislation.gov.uk/uksi/2018/1286/regulation/18/7) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/2/7/b)
 
 [^c23520161]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/1286/regulation/19) in force at 4.12.2018 for specified purposes and in force on IP completion day otherwise (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 

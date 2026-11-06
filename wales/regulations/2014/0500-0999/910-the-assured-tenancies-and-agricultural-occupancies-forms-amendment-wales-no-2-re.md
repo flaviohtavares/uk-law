@@ -31,7 +31,7 @@ summary: ''
 
 Landlord And Tenant, Wales
 
-The Assured Tenancies and Agricultural Occupancies (Forms) (Amendment) (Wales) (No. 2) Regulations 2014 (revoked)[^key-786da2ba0c3686f6f7ab7bfe59ca424b]
+The Assured Tenancies and Agricultural Occupancies (Forms) (Amendment) (Wales) (No. 2) Regulations 2014 (revoked)[^c-786da2ba0c3686f6f7ab7bfe59ca424b]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 4 April 2014
 
-[^key-786da2ba0c3686f6f7ab7bfe59ca424b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-786da2ba0c3686f6f7ab7bfe59ca424b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-786da2ba0c3686f6f7ab7bfe59ca424b]
+## 1. Title, commencement and application[^c-786da2ba0c3686f6f7ab7bfe59ca424b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Welsh language Prescribed Forms[^key-786da2ba0c3686f6f7ab7bfe59ca424b]
+## 2. Amendment of Welsh language Prescribed Forms[^c-786da2ba0c3686f6f7ab7bfe59ca424b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-786da2ba0c3686f6f7ab7bfe59ca424b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-786da2ba0c3686f6f7ab7bfe59ca424b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-786da2ba0c3686f6f7ab7bfe59ca424b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-786da2ba0c3686f6f7ab7bfe59ca424b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-786da2ba0c3686f6f7ab7bfe59ca424b]: Textual amendment: Regulations revoked (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/uksi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/907/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/907/schedule/2)
+[^c-786da2ba0c3686f6f7ab7bfe59ca424b]: Textual amendment: Regulations revoked (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/uksi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/907/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/907/schedule/2)

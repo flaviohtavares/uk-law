@@ -72,7 +72,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (4) In regulation 12(2)(a) and (b) (transfer of member's accrued rights without consent) for “apply to” substitute “ relate to persons who are or have been in ”.
 
-## 3. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^key-998d97b4c826b0f0a0e4251a7189cc5a]
+## 3. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^c-998d97b4c826b0f0a0e4251a7189cc5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -294,7 +294,7 @@ As these Regulations, in so far as they are made under Part II of the 1995 Order
 
 [^c21706111]: Marginal citation: Paragraph (4A) was substituted by regulation 2(a) of S.R. [1993 No. 324](https://www.legislation.gov.uk/ukcm/1993/324) and amended by regulation 2(b) of S.R. [1999 No. 378](https://www.legislation.gov.uk/ukcm/1999/378) and regulation 3(2)(c) of S.R. [2011 No. 89](https://www.legislation.gov.uk/ukcm/2011/89)
 
-[^key-998d97b4c826b0f0a0e4251a7189cc5a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2013/72/regulation/3) revoked (6.4.2016) by [The Occupational Pension Schemes (SchemesthatwereContracted-out) Regulations (NorthernIreland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+[^c-998d97b4c826b0f0a0e4251a7189cc5a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2013/72/regulation/3) revoked (6.4.2016) by [The Occupational Pension Schemes (SchemesthatwereContracted-out) Regulations (NorthernIreland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
 
 [^c21706181]: Marginal citation: S.R. [1996 No. 618](https://www.legislation.gov.uk/ukcm/1996/618); relevant amending provisions are S.R. [1997 No. 160](https://www.legislation.gov.uk/ukcm/1997/160), S.R. [1999 No. 486](https://www.legislation.gov.uk/ukcm/1999/486), [S.I](https://www.legislation.gov.uk/ukcm/1999/486/section/I). 2006/744, S.R. [2009 No. 115](https://www.legislation.gov.uk/ukcm/2009/115) and S.R. [2012 No. 124](https://www.legislation.gov.uk/ukcm/2012/124)
 

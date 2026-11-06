@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Traffic regulation measures[^key-d9dbba8a4b654d133785c5755d341da7]
+## 43. Traffic regulation measures[^c-d9dbba8a4b654d133785c5755d341da7]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d9dbba8a4b654d133785c5755d341da7]: Commencement: Art. 43 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-d9dbba8a4b654d133785c5755d341da7]: Commencement: Art. 43 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
 [^f00047]: Footnote: [S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362).
 

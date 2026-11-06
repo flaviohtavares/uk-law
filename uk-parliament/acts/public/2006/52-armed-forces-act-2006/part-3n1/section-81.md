@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Power to make further provision about searches under sections 75 and 76[^key-9c2039207b744141f24ee9f3be31c3ec][^key-787c2d46ea12e68ffc16fa045d2c580a]
+## 81. Power to make further provision about searches under sections 75 and 76[^c-9c2039207b744141f24ee9f3be31c3ec][^c-787c2d46ea12e68ffc16fa045d2c580a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ subject to such modifications as the Secretary of State considers appropriate.
 
 ## Annotations
 
-[^key-9c2039207b744141f24ee9f3be31c3ec]: Commencement: S. 81 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-9c2039207b744141f24ee9f3be31c3ec]: Commencement: S. 81 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-787c2d46ea12e68ffc16fa045d2c580a]: Commencement: S. 81 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-787c2d46ea12e68ffc16fa045d2c580a]: Commencement: S. 81 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

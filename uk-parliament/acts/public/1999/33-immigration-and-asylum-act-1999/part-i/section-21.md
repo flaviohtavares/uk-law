@@ -25,7 +25,7 @@ summary: ''
 (2) The information may be supplied to—
 
 - (a) a chief officer of police, for use for police purposes;
-- (b)[^key-4dd0aa124f38f25e170824d43235fbff] the National Crime Agency, for use in connection with the discharge of any function of that Agency;
+- (b)[^c-4dd0aa124f38f25e170824d43235fbff] the National Crime Agency, for use in connection with the discharge of any function of that Agency;
 - (d) the Commissioners of Customs and Excise, or a person providing services to them, for use for customs purposes; or
 - (e) any specified person, for use for purposes specified in relation to that person.
 
@@ -35,7 +35,7 @@ summary: ''
 - (b) safeguarding national security;
 - (c) such other purposes as may be specified.
 
-(4)[^key-40cb471188978762b7833ba9bbf0a1aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-40cb471188978762b7833ba9bbf0a1aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) “**Customs purposes**” means any of the Commissioners’ functions in relation to—
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4dd0aa124f38f25e170824d43235fbff]: Textual amendment: S. 21(2)(b) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 66(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/66/2); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-4dd0aa124f38f25e170824d43235fbff]: Textual amendment: S. 21(2)(b) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 66(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/66/2); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-40cb471188978762b7833ba9bbf0a1aa]: Textual amendment: S. 21(4) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 66(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/66/3); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-40cb471188978762b7833ba9bbf0a1aa]: Textual amendment: S. 21(4) omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 66(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/66/3); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
 [^c11432451]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).

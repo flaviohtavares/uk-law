@@ -24,7 +24,7 @@ Article 16 and 25
 
 ### PART 1 — DEFINED TERMS
 
-**1.**[^key-3b85801242f8765dff5c08c5e417d41c] In this Schedule—
+**1.**[^c-3b85801242f8765dff5c08c5e417d41c] In this Schedule—
 
 - “end marker” means a marker fitted to the end of any forward or rearward projection of a load which either—
   - (a) has the dimensions and surface appearance specified in the first diagram in Part 5 of this Schedule; or
@@ -43,18 +43,18 @@ Article 16 and 25
 
 ### PART 2 — FORWARD AND REARWARD PROJECTIONS
 
-**2.**[^key-544fec8b35805e93fc9ed0f20d2df32f] Paragraphs 3 to 6 apply cumulatively.
+**2.**[^c-544fec8b35805e93fc9ed0f20d2df32f] Paragraphs 3 to 6 apply cumulatively.
 
 #### General visibility of forward or rearward projections
 
-**3.**[^key-b2087dae21b6723ae8cd6889dbe5ae44] Where the length of a forward or rearward projection of a load carried on a relevant vehicle exceeds 1 metre—
+**3.**[^c-b2087dae21b6723ae8cd6889dbe5ae44] Where the length of a forward or rearward projection of a load carried on a relevant vehicle exceeds 1 metre—
 
 - (a) the projection must be made clearly visible, within a reasonable distance, to a person using the road at the end of the vehicle from which the projection extends; and
 - (b) it must be made clearly visible from the side of the vehicle.
 
 #### Markers for the end of a forward or rearward projection
 
-**4.**[^key-4eef09fa111017913ac24c2d9b0bd4e3] (1) Where the length of a forward or rearward projection of a load carried on a relevant vehicle exceeds 2 metres, an end marker must be fitted to the end of the projection.
+**4.**[^c-4eef09fa111017913ac24c2d9b0bd4e3] (1) Where the length of a forward or rearward projection of a load carried on a relevant vehicle exceeds 2 metres, an end marker must be fitted to the end of the projection.
 
 (2) Sub-paragraph (1) does not apply if a rear marking has been fitted to the projection in accordance with regulation 21 of the Lighting Regulations.
 
@@ -68,7 +68,7 @@ Article 16 and 25
 
 #### Markers for the side of a forward or rearward projection
 
-**5.**[^key-9afaa4faa7bf7ad310eb9978632f4b7b] (1) Where the length of a forward or rearward projection of a load carried on a relevant vehicle exceeds 3 metres, one side marker must be fitted to the right hand side of the projection and one side marker must be fitted to its left hand side.
+**5.**[^c-9afaa4faa7bf7ad310eb9978632f4b7b] (1) Where the length of a forward or rearward projection of a load carried on a relevant vehicle exceeds 3 metres, one side marker must be fitted to the right hand side of the projection and one side marker must be fitted to its left hand side.
 
 (2) The side markers under sub-paragraph (1) must be fitted so that—
 
@@ -78,7 +78,7 @@ Article 16 and 25
 - (d) the horizontal distance between each side marker and the end-marker (or, as the case may be, the rear marking fitted to the projection in accordance with the Lighting Regulations) does not exceed 1 metre; and
 - (e) each side marker is clearly visible, within a reasonable distance, to a person using the road on that side of the projection.
 
-**6.**[^key-639acbff4ae750ff657a3995b13f7cd1] (1) This paragraph applies where any relevant vehicle is carrying a load and—
+**6.**[^c-639acbff4ae750ff657a3995b13f7cd1] (1) This paragraph applies where any relevant vehicle is carrying a load and—
 
 - (a) the length of any forward projection of the load exceeds 4.5 metres; or
 - (b) the length of any rearward projection of the load exceeds 5 metres.
@@ -100,7 +100,7 @@ Article 16 and 25
 
 #### Markers for a lateral projection
 
-**7.**[^key-7e2738005a928363b10c170254b23532] (1) This paragraph applies where—
+**7.**[^c-7e2738005a928363b10c170254b23532] (1) This paragraph applies where—
 
 - (a) any relevant vehicle is carrying a load; and
 - (b) the load has a lateral projection or projections on either side exceeding 305 millimetres in length.
@@ -109,7 +109,7 @@ Article 16 and 25
 
 (3) Each side marker must be fitted so that at least part of it is within 50 millimetres of a longitudinal plane passing through the point on that side of the projection which is furthest from the axis of the vehicle.
 
-**8.**[^key-1a12d93fbfb3d2a6a45f952fc7728932] (1) If the user of the vehicle shows that it is not reasonably practicable to fit side markers in accordance with paragraph 7, the load must be marked with tape so that the point at which the width of the load is at its greatest is clearly visible from the front, rear and side of the vehicle.
+**8.**[^c-1a12d93fbfb3d2a6a45f952fc7728932] (1) If the user of the vehicle shows that it is not reasonably practicable to fit side markers in accordance with paragraph 7, the load must be marked with tape so that the point at which the width of the load is at its greatest is clearly visible from the front, rear and side of the vehicle.
 
 (2) The tape must be—
 
@@ -122,14 +122,14 @@ Article 16 and 25
 
 ### PART 4 — GENERAL VISIBILITY OF MARKERS
 
-**9.**[^key-f4e02cabbaa6b4faf1eea1ad14a75bb7] Any end marker or side marker which is required by any provision of this Schedule to be fitted to a projection of a load must be kept clean and unobscured.
+**9.**[^c-f4e02cabbaa6b4faf1eea1ad14a75bb7] Any end marker or side marker which is required by any provision of this Schedule to be fitted to a projection of a load must be kept clean and unobscured.
 
-**10.**[^key-114e805f30c7825a7595eafa7b88bae9] Between sunset and sunrise, and at all times when visibility is seriously reduced, any end marker or side marker must be kept illuminated by a lamp which—
+**10.**[^c-114e805f30c7825a7595eafa7b88bae9] Between sunset and sunrise, and at all times when visibility is seriously reduced, any end marker or side marker must be kept illuminated by a lamp which—
 
 - (a) makes the marker readily visible from a reasonable distance; and
 - (b) is shielded so that its light (except as reflected from the marker) is not visible to other persons using the road.
 
-### PART 5 — APPEARANCE OF MARKERS[^key-2127a79089489b4f3194707ff84cc7fc]
+### PART 5 — APPEARANCE OF MARKERS[^c-2127a79089489b4f3194707ff84cc7fc]
 
 #### Diagram of end marker surface
 
@@ -137,24 +137,24 @@ Article 16 and 25
 
 ## Annotations
 
-[^key-3b85801242f8765dff5c08c5e417d41c]: Commencement: Sch. 8 para. 1 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-3b85801242f8765dff5c08c5e417d41c]: Commencement: Sch. 8 para. 1 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-544fec8b35805e93fc9ed0f20d2df32f]: Commencement: Sch. 8 para. 2 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-544fec8b35805e93fc9ed0f20d2df32f]: Commencement: Sch. 8 para. 2 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-b2087dae21b6723ae8cd6889dbe5ae44]: Commencement: Sch. 8 para. 3 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-b2087dae21b6723ae8cd6889dbe5ae44]: Commencement: Sch. 8 para. 3 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-4eef09fa111017913ac24c2d9b0bd4e3]: Commencement: Sch. 8 para. 4 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-4eef09fa111017913ac24c2d9b0bd4e3]: Commencement: Sch. 8 para. 4 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-9afaa4faa7bf7ad310eb9978632f4b7b]: Commencement: Sch. 8 para. 5 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-9afaa4faa7bf7ad310eb9978632f4b7b]: Commencement: Sch. 8 para. 5 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-639acbff4ae750ff657a3995b13f7cd1]: Commencement: Sch. 8 para. 6 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-639acbff4ae750ff657a3995b13f7cd1]: Commencement: Sch. 8 para. 6 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-7e2738005a928363b10c170254b23532]: Commencement: Sch. 8 para. 7 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-7e2738005a928363b10c170254b23532]: Commencement: Sch. 8 para. 7 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-1a12d93fbfb3d2a6a45f952fc7728932]: Commencement: Sch. 8 para. 8 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-1a12d93fbfb3d2a6a45f952fc7728932]: Commencement: Sch. 8 para. 8 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-f4e02cabbaa6b4faf1eea1ad14a75bb7]: Commencement: Sch. 8 para. 9 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-f4e02cabbaa6b4faf1eea1ad14a75bb7]: Commencement: Sch. 8 para. 9 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-114e805f30c7825a7595eafa7b88bae9]: Commencement: Sch. 8 para. 10 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-114e805f30c7825a7595eafa7b88bae9]: Commencement: Sch. 8 para. 10 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-2127a79089489b4f3194707ff84cc7fc]: Commencement: [Sch. 8 Pt. 5](https://www.legislation.gov.uk/uksi/2003/1998/schedule/8/part/5) in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-2127a79089489b4f3194707ff84cc7fc]: Commencement: [Sch. 8 Pt. 5](https://www.legislation.gov.uk/uksi/2003/1998/schedule/8/part/5) in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

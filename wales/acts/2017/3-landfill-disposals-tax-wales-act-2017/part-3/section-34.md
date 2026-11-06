@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Register of persons who carry out taxable operations[^key-1e85b1929fb33f8e6c55bd77a4f1c92e]
+## 34. Register of persons who carry out taxable operations[^c-1e85b1929fb33f8e6c55bd77a4f1c92e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e85b1929fb33f8e6c55bd77a4f1c92e]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2017/3/section/34) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(h)](https://www.legislation.gov.uk/wsi/2018/35/article/2/h)
+[^c-1e85b1929fb33f8e6c55bd77a4f1c92e]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2017/3/section/34) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(h)](https://www.legislation.gov.uk/wsi/2018/35/article/2/h)

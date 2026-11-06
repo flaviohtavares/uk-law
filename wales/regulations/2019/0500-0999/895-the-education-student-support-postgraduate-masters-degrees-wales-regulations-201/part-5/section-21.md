@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21.[^key-13e00d183a05145c16a227d6f32c9a11]
+## 21.[^c-13e00d183a05145c16a227d6f32c9a11]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13e00d183a05145c16a227d6f32c9a11]: Commencement: Reg. 21 in force at 27.5.2019, see reg. 1(2)
+[^c-13e00d183a05145c16a227d6f32c9a11]: Commencement: Reg. 21 in force at 27.5.2019, see reg. 1(2)

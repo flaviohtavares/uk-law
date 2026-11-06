@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. General principles[^key-2268db7c31f2da94fcc8ded005871686][^key-49c09a721d5b82d1de3b7ec832df97d1]
+## 45. General principles[^c-2268db7c31f2da94fcc8ded005871686][^c-49c09a721d5b82d1de3b7ec832df97d1]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2268db7c31f2da94fcc8ded005871686]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2010/8/section/45) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-2268db7c31f2da94fcc8ded005871686]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2010/8/section/45) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-49c09a721d5b82d1de3b7ec832df97d1]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2010/8/section/45) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-49c09a721d5b82d1de3b7ec832df97d1]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2010/8/section/45) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

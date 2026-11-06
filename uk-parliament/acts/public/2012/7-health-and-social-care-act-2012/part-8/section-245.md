@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Failure by NICE to discharge any of its functions[^key-5920509cc41c4fd76d149995a442856b][^c2191355]
+## 245. Failure by NICE to discharge any of its functions[^c-5920509cc41c4fd76d149995a442856b][^c2191355]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5920509cc41c4fd76d149995a442856b]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2012/7/section/245) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-5920509cc41c4fd76d149995a442856b]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2012/7/section/245) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191355]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2012/7/section/245) partly in force; [s. 245](https://www.legislation.gov.uk/ukpga/2012/7/section/245) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

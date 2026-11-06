@@ -24,7 +24,7 @@ summary: ''
 
 - (a) in the case of proceedings under Article 74,—
   - (i) the credit union; or
-  - (ii) any member of that credit union authorised by the credit union or its board of directors or by the FCA[^key-896736d91fcba4d0b7e481f60c94b93e] ; or
+  - (ii) any member of that credit union authorised by the credit union or its board of directors or by the FCA[^c-896736d91fcba4d0b7e481f60c94b93e] ; or
   - (iii) the FCA ;
 - (b) in any other case, the FCA or any person aggrieved.
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-896736d91fcba4d0b7e481f60c94b93e]: Textual amendment: Word in art. 76 substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(v)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/v) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-896736d91fcba4d0b7e481f60c94b93e]: Textual amendment: Word in art. 76 substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(v)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/v) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
 [^m00012]: Marginal citation: 1981 N.I. 26
 

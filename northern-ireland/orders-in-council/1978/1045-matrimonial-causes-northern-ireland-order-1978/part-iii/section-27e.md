@@ -61,17 +61,17 @@ and, accordingly, in relation to PPF compensation, Article 27(2)(a) shall have e
 - “**the Board**” means the Board of the Pension Protection Fund;
 - “**occupational pension scheme**” has the same meaning as in the Pension Schemes (Northern Ireland) Act 1993;
 - “**prescribed**” means prescribed by regulations;
-- [^key-3e25ed3a8c96d4ca2bc0e87ee24943b1]...
+- [^c-3e25ed3a8c96d4ca2bc0e87ee24943b1]...
 - “**regulations**” means regulations made by the Lord Chancellor;
 - “**shareable rights**” are rights in relation to which pension sharing is available under Chapter 1 of Part V of the Welfare Reform and Pensions (Northern Ireland) Order 1999 or any provision in force in Great Britain corresponding to that Chapter;
 - “**transfer notice**” has the same meaning as in Article 144 of the Pensions (Northern Ireland) Order 2005 or any corresponding provision in force in Great Britain.
 
-(10) Regulations under this Article shall be subject to negative resolution[^key-b98ffd5ab9dbcb93b8e9ceefe16e87c7].
+(10) Regulations under this Article shall be subject to negative resolution[^c-b98ffd5ab9dbcb93b8e9ceefe16e87c7].
 
 ## Annotations
 
 [^c20685301]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/2005/ni1)
 
-[^key-3e25ed3a8c96d4ca2bc0e87ee24943b1]: Textual amendment: Words in art. 27E(9) repealed (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/6), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/4) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)
+[^c-3e25ed3a8c96d4ca2bc0e87ee24943b1]: Textual amendment: Words in art. 27E(9) repealed (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/6), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/4) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)
 
-[^key-b98ffd5ab9dbcb93b8e9ceefe16e87c7]: Textual amendment: Words in art. 27E(10) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 114(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/114/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-b98ffd5ab9dbcb93b8e9ceefe16e87c7]: Textual amendment: Words in art. 27E(10) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 114(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/114/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

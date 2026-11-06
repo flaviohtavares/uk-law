@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102D. Provisions supplementary to sections 102B and 102C.[^key-b7714b4ca25ea9b03a9e84b66a88c63c][^key-c738a3fecdcf6b42cf328c9869a616d3][^key-ff5f0a3a178d184cdb965c63312bf916][^c15516561]
+## 102D. Provisions supplementary to sections 102B and 102C.[^c-b7714b4ca25ea9b03a9e84b66a88c63c][^c-c738a3fecdcf6b42cf328c9869a616d3][^c-ff5f0a3a178d184cdb965c63312bf916][^c15516561]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,8 +52,8 @@ the trustee account holders during that period shall be treated for the purpose 
 
 (9) Any reference to a person holding an account in trust for any other person includes a reference—
 
-- (a) to any person holding an account for another person in pursuance of any order, direction or authority made or given under the Mental Capacity Act 2005[^key-64fd3464428b87c1248daaa0c2d5068b] or under Part VIII of the [^c15516581]Mental Health (Northern Ireland) Order 1986;
-- (b)[^key-402992135e76ddd9eaead47ea8c0f541] to an attorney holding an account for another person under—
+- (a) to any person holding an account for another person in pursuance of any order, direction or authority made or given under the Mental Capacity Act 2005[^c-64fd3464428b87c1248daaa0c2d5068b] or under Part VIII of the [^c15516581]Mental Health (Northern Ireland) Order 1986;
+- (b)[^c-402992135e76ddd9eaead47ea8c0f541] to an attorney holding an account for another person under—
   - (i) an enduring power of attorney or lasting power of attorney registered under the Mental Capacity Act 2005, or
   - (ii) an enduring power registered under the Enduring Powers of Attorney (Northern Ireland) Order 1987;
 - (c) in relation to Scotland—
@@ -75,19 +75,19 @@ but, if such regulations are not made, any such notice must be given in such tim
 
 ## Annotations
 
-[^key-b7714b4ca25ea9b03a9e84b66a88c63c]: Modification: Ss. 97-102D: power to modify conferred (16.1.2009) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2007/26/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
+[^c-b7714b4ca25ea9b03a9e84b66a88c63c]: Modification: Ss. 97-102D: power to modify conferred (16.1.2009) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2007/26/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
 
-[^key-c738a3fecdcf6b42cf328c9869a616d3]: Modification: Ss. 97-102D applied (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [3-18](https://www.legislation.gov.uk/uksi/2009/509/article/3)
+[^c-c738a3fecdcf6b42cf328c9869a616d3]: Modification: Ss. 97-102D applied (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [3-18](https://www.legislation.gov.uk/uksi/2009/509/article/3)
 
-[^key-ff5f0a3a178d184cdb965c63312bf916]: Modification: Ss. 97-102D excluded by 2009 c. 1, s. 84D(6) (as inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3))
+[^c-ff5f0a3a178d184cdb965c63312bf916]: Modification: Ss. 97-102D excluded by 2009 c. 1, s. 84D(6) (as inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3))
 
 [^c15516561]: Textual amendment: Ss. 102B-102D inserted (21.3.1997 with application as mentioned in [s. 2(2)](https://www.legislation.gov.uk/ukpga/1997/41/section/2/2) of the amending Act) by [1997 c. 41](https://www.legislation.gov.uk/ukpga/1997/41), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1997/41/section/1/1)
 
-[^key-64fd3464428b87c1248daaa0c2d5068b]: Textual amendment: Words in s. 102D(9)(a) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 32(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/32/a) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-64fd3464428b87c1248daaa0c2d5068b]: Textual amendment: Words in s. 102D(9)(a) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 32(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/32/a) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c15516581]: Marginal citation: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595).
 
-[^key-402992135e76ddd9eaead47ea8c0f541]: Textual amendment: S. 102D(9)(b) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 32(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/32/b) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-402992135e76ddd9eaead47ea8c0f541]: Textual amendment: S. 102D(9)(b) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 32(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/32/b) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c15516611]: Marginal citation: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40).
 

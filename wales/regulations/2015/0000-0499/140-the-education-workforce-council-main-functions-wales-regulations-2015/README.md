@@ -80,18 +80,18 @@ The Welsh Ministers in exercise of the powers conferred on them by sections 10(2
 - [Section 17 — Specified work](part-3/section-17.md)
 - [Section 18 — Requirement to be registered: school teachers](part-3/section-18.md)
 
-### PART 3A — Requirement to be registered: school learning support workers[^key-eca0f036c5c70efb28301a4062fb49d8]
+### PART 3A — Requirement to be registered: school learning support workers[^c-eca0f036c5c70efb28301a4062fb49d8]
 
 - [Section 18A — School learning support workers](part-3a/section-18a.md)
 
-### PART 4 — Requirements relating to further education teachers[^key-b6f6591d9715284915866032791034c6]
+### PART 4 — Requirements relating to further education teachers[^c-b6f6591d9715284915866032791034c6]
 
 *Extent: E+W*
 
 - [Section 19 — Requirements relating to further education teachers](part-4/section-19.md)
 - [Section 19ZA — Council to review list of specified qualifications](part-4/section-19za.md)
 
-### Part 4A — Requirement to be registered: further education learning support workers[^key-7d84bfa28492e6767ea227f17ec37ac6]
+### Part 4A — Requirement to be registered: further education learning support workers[^c-7d84bfa28492e6767ea227f17ec37ac6]
 
 - [Section 19A — Requirement to be registered: further education learning support workers](part-4a/section-19a.md)
 
@@ -208,8 +208,8 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2014 anaw 5](https://www.legislation.gov.uk/anaw/2014/5).
 
-[^key-eca0f036c5c70efb28301a4062fb49d8]: Textual amendment: Pt. 3A inserted (1.4.2016) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2016 (S.I. 2016/6)](https://www.legislation.gov.uk/uksi/2016/6), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/6/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2016/6/regulation/2/d)
+[^c-eca0f036c5c70efb28301a4062fb49d8]: Textual amendment: Pt. 3A inserted (1.4.2016) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2016 (S.I. 2016/6)](https://www.legislation.gov.uk/uksi/2016/6), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/6/regulation/1/1), [2(d)](https://www.legislation.gov.uk/uksi/2016/6/regulation/2/d)
 
-[^key-b6f6591d9715284915866032791034c6]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2015/140/part/4) heading substituted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [9](https://www.legislation.gov.uk/wsi/2024/613/article/9)
+[^c-b6f6591d9715284915866032791034c6]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2015/140/part/4) heading substituted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [9](https://www.legislation.gov.uk/wsi/2024/613/article/9)
 
-[^key-7d84bfa28492e6767ea227f17ec37ac6]: Textual amendment: Pt. 4A inserted (1.4.2016) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2016 (S.I. 2016/6)](https://www.legislation.gov.uk/uksi/2016/6), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/6/regulation/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2016/6/regulation/2/e)
+[^c-7d84bfa28492e6767ea227f17ec37ac6]: Textual amendment: Pt. 4A inserted (1.4.2016) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2016 (S.I. 2016/6)](https://www.legislation.gov.uk/uksi/2016/6), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/6/regulation/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2016/6/regulation/2/e)

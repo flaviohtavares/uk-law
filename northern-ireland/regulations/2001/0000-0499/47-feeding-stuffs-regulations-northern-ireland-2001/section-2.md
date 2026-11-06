@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-7fd2caf343c6f2d095f23dfee59f54b9]
+## 2. Interpretation[^c-7fd2caf343c6f2d095f23dfee59f54b9]
 
 *Extent: N.I.*
 
@@ -127,7 +127,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7fd2caf343c6f2d095f23dfee59f54b9]: Commencement: Reg. 2 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-7fd2caf343c6f2d095f23dfee59f54b9]: Commencement: Reg. 2 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00005]: Footnote: O.J. No. L270, 14.12.70, p. 1 (O.J./SE Vol. 18, p. 4) last amended by Council Directive [1999/20/EC](https://www.legislation.gov.uk/european/directive/1999/0020) (O.J. No. L80, 25.3.1999, p. 20)
 

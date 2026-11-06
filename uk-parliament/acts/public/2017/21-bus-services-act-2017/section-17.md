@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Information for bus passengers[^key-c0b84a6325ca7fa2b7890ab2dc171f30]
+## 17. Information for bus passengers[^c-c0b84a6325ca7fa2b7890ab2dc171f30]
 
 *Extent: E+W+S*
 
@@ -156,4 +156,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0b84a6325ca7fa2b7890ab2dc171f30]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/21/section/17) in force at 26.6.2018 by [S.I. 2018/758](https://www.legislation.gov.uk/uksi/2018/758), [reg. 2](https://www.legislation.gov.uk/uksi/2018/758/regulation/2)
+[^c-c0b84a6325ca7fa2b7890ab2dc171f30]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/21/section/17) in force at 26.6.2018 by [S.I. 2018/758](https://www.legislation.gov.uk/uksi/2018/758), [reg. 2](https://www.legislation.gov.uk/uksi/2018/758/regulation/2)

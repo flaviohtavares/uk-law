@@ -85,10 +85,10 @@ summary: ''
 
 (5) The other provisions of this Act come into force on such day as the Secretary of State may by order appoint.
 
-(6)[^key-26edaad1e0b7c233d29a46faf20f1729] The power to make provision by order under subsection (4) or (5) is exercisable by the Department of Justice in Northern Ireland (and not by the Lord Chancellor or the Secretary of State) so far as it may be used to make provision which could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).
+(6)[^c-26edaad1e0b7c233d29a46faf20f1729] The power to make provision by order under subsection (4) or (5) is exercisable by the Department of Justice in Northern Ireland (and not by the Lord Chancellor or the Secretary of State) so far as it may be used to make provision which could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).
 
 (7) Before making an order under subsection (4) or (5) bringing into force any provision for the purposes of the law of Northern Ireland, the Lord Chancellor or the Secretary of State must consult the Department of Justice.
 
 ## Annotations
 
-[^key-26edaad1e0b7c233d29a46faf20f1729]: Textual amendment: [S. 182(6)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/6)[(7)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/7) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 103(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/103/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-26edaad1e0b7c233d29a46faf20f1729]: Textual amendment: [S. 182(6)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/6)[(7)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/7) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 103(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/103/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Powers to acquire subsoil only[^key-ec8eae6a47c7fa6e4c582a8ec6156bcd]
+## 28. Powers to acquire subsoil only[^c-ec8eae6a47c7fa6e4c582a8ec6156bcd]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec8eae6a47c7fa6e4c582a8ec6156bcd]: Commencement: Art. 28 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-ec8eae6a47c7fa6e4c582a8ec6156bcd]: Commencement: Art. 28 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

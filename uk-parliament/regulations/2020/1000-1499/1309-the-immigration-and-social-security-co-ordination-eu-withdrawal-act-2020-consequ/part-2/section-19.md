@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Amendment of the Identity Documents Act 2010[^key-93b474c520cf2ba58ce938f1daff2b63][^M_I_1245fa24-da44-4c25-b029-5e0ea26471a9]
+## 19. Amendment of the Identity Documents Act 2010[^c-93b474c520cf2ba58ce938f1daff2b63][^M_I_1245fa24-da44-4c25-b029-5e0ea26471a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-93b474c520cf2ba58ce938f1daff2b63]: Commencement: Reg. 19 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-93b474c520cf2ba58ce938f1daff2b63]: Commencement: Reg. 19 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_1245fa24-da44-4c25-b029-5e0ea26471a9]: Commencement: Reg. 19 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

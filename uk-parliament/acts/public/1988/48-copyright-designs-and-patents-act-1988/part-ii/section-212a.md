@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212A. Power to amend in consequence of changes to international law[^key-2be26f7b2ac8e01f41d4150309b87438]
+## 212A. Power to amend in consequence of changes to international law[^c-2be26f7b2ac8e01f41d4150309b87438]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2be26f7b2ac8e01f41d4150309b87438]: Textual amendment: S. 212A and cross-heading inserted (1.12.2016 for specified purposes, 6.4.2017 in so far as not already in force) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 22(9)](https://www.legislation.gov.uk/ukpga/2014/18/section/22/9), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2016/1139](https://www.legislation.gov.uk/uksi/2016/1139), [arts. 2](https://www.legislation.gov.uk/uksi/2016/1139/article/2), [3](https://www.legislation.gov.uk/uksi/2016/1139/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/1139/article/4))
+[^c-2be26f7b2ac8e01f41d4150309b87438]: Textual amendment: S. 212A and cross-heading inserted (1.12.2016 for specified purposes, 6.4.2017 in so far as not already in force) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 22(9)](https://www.legislation.gov.uk/ukpga/2014/18/section/22/9), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2016/1139](https://www.legislation.gov.uk/uksi/2016/1139), [arts. 2](https://www.legislation.gov.uk/uksi/2016/1139/article/2), [3](https://www.legislation.gov.uk/uksi/2016/1139/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/1139/article/4))

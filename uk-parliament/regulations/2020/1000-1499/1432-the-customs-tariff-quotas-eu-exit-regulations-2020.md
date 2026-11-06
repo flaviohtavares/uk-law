@@ -50,11 +50,11 @@ Further to section 28 of the Act, the Treasury in exercising the function of mak
 
 The Treasury and the Secretary of State both consider it appropriate, in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the European Union, that the following Regulations come into force on such day as the Treasury may appoint by regulations under section 52 of the Act.
 
-In accordance with section 11(7) of the Act, in considering what provision to include in regulations made under section 11(1) and (3) of the Act, the Treasury has had regard to recommendations made to them by the Secretary of State.[^key-e39e87de8027ef25daaf5493108d23d5][^key-a36e39e2c745debb6e37eaba3c34e449]
+In accordance with section 11(7) of the Act, in considering what provision to include in regulations made under section 11(1) and (3) of the Act, the Treasury has had regard to recommendations made to them by the Secretary of State.[^c-e39e87de8027ef25daaf5493108d23d5][^c-a36e39e2c745debb6e37eaba3c34e449]
 
 ## PART 1 — General provisions
 
-### 1. Citation, commencement, extent and application[^key-9a071b46710e3c34544d8e84bcb991fa]
+### 1. Citation, commencement, extent and application[^c-9a071b46710e3c34544d8e84bcb991fa]
 
 (1) These Regulations may be cited as the Customs (Tariff Quotas) (EU Exit) Regulations 2020 and come into force on the day appointed by the Treasury for the coming into force of these Regulations under section 52(2) of the Act.
 
@@ -65,7 +65,7 @@ In accordance with section 11(7) of the Act, in considering what provision to in
 - (a) in respect of which a liability to a charge to import duty is incurred under the Act; and
 - (b) that are identifiable by reference to a quota number that is listed in the Quota Table or by reference to a quota number which commences with the three digits “054” and is listed in the Preferential Quota Table.
 
-### 2. General Interpretation[^key-dcb0d920839b2099b2424c28bd69b8aa]
+### 2. General Interpretation[^c-dcb0d920839b2099b2424c28bd69b8aa]
 
 (1) In these Regulations—
 
@@ -75,11 +75,11 @@ In accordance with section 11(7) of the Act, in considering what provision to in
 - “**country of origin**” has the meaning given in regulation 5;
 - “**customs value**” means the value of goods for Customs purposes as determined in accordance with the methodology set out in Part 12 of the Customs (Import Duty) (EU Exit) Regulations 2018 [^c24378311];
 - “**import licence**” means a licence to import quota goods;
-- “[^key-6ad585f26d5e88405ad0f432f9b6d38b]**Non-steel Quota Table**” means the table comprising three Parts named “Quota Table” in the document entitled “Tariff Quotas, version 4.5” dated 12th May 2026;
+- “[^c-6ad585f26d5e88405ad0f432f9b6d38b]**Non-steel Quota Table**” means the table comprising three Parts named “Quota Table” in the document entitled “Tariff Quotas, version 4.5” dated 12th May 2026;
 - “**preferential quota goods**” has the meaning given in regulation 2(1) of the Customs PTA Regulations;
 - “**Preferential Quota Table**” has the meaning given in regulation 2(1) of the Customs PTA Regulations;
 - “**processed**” refers to any action that substantially alters the initial product, including heating, smoking, curing, maturing, drying, marinating, extraction, extrusion or a combination of those processes;
-- “[^key-59e2224eca53c97e4343048cee1854d3]**quota close date**” has the meaning given in regulation 7 as regards the quotas listed in the Quota Table;
+- “[^c-59e2224eca53c97e4343048cee1854d3]**quota close date**” has the meaning given in regulation 7 as regards the quotas listed in the Quota Table;
 - “**quota duty rate**” has the meaning given in—
   - (a) regulation 10 for the purposes of Chapter 2 of Part 2;
   - (b) regulation 18 for the purposes of Chapter 3 of Part 2; or
@@ -95,8 +95,8 @@ In accordance with section 11(7) of the Act, in considering what provision to in
 - “**quota number**” has the meaning given in—
   - (a) regulation 3 as regards the quotas listed in the Quota Table; or
   - (b) regulation 2(1) of the Customs PTA Regulations as regards the quotas listed in the Preferential Quota Table;
-- “[^key-f5d5e89a33b505452f8a3650dffdedb3]**quota open date**” has the meaning given in regulation 7 as regards the quotas listed in the Quota Table;
-- “[^key-fa1efeaa4599612bfc8dd37621260d44]**Quota Table**” means—
+- “[^c-f5d5e89a33b505452f8a3650dffdedb3]**quota open date**” has the meaning given in regulation 7 as regards the quotas listed in the Quota Table;
+- “[^c-fa1efeaa4599612bfc8dd37621260d44]**Quota Table**” means—
   - (a) in relation to goods other than steel products, the Non-steel Quota Table;
   - (b) in relation to steel products, the Steel Quota Table;
 - “**quota period**” has the meaning given in—
@@ -105,7 +105,7 @@ In accordance with section 11(7) of the Act, in considering what provision to in
 - “**quota volume**” has the meaning given in—
   - (a) regulation 6 as regards the quotas listed in the Quota Table; or
   - (b) regulation 9 of the Customs PTA Regulations as regards the quotas listed in the Preferential Quota Table;
-- “**Steel Quota Table**” means the table comprising two Parts which is so named in the document entitled “Steel Tariff Quotas, version 1.1” dated 1st September 2026[^key-dd60530bdfe74b06bd35bcfcfe1e41d1];
+- “**Steel Quota Table**” means the table comprising two Parts which is so named in the document entitled “Steel Tariff Quotas, version 1.1” dated 1st September 2026[^c-dd60530bdfe74b06bd35bcfcfe1e41d1];
 - “**working day**” means any day except—
   - (a) a Saturday or Sunday; or
   - (b) a bank holiday within the meaning of section 1 of the Banking and Financial Dealings Act 1971 [^c24378331], including those bank holidays occurring only in part of the United Kingdom.
@@ -116,7 +116,7 @@ In accordance with section 11(7) of the Act, in considering what provision to in
 
 ### CHAPTER 1 — Preliminary
 
-#### 3. Individual quotas[^key-fbcfd552c62b86faf06039bdb24da76a]
+#### 3. Individual quotas[^c-fbcfd552c62b86faf06039bdb24da76a]
 
 (1) Where, by virtue of section 11 of the Act, goods imported into the United Kingdom are subject to a quota, that quota is identified by a unique reference number as set out in column 1 of the Quota Table (“quota number”).
 
@@ -124,51 +124,51 @@ In accordance with section 11(7) of the Act, in considering what provision to in
 
 (3) A quota, as identified by the quota number, may include one or more types of goods provided that the unit of measure which establishes the quota volume is the same for each type of goods to which the quota applies.
 
-#### 4. Commodity codes[^key-966fef3b2cf10bdcdddf412695a9067f]
+#### 4. Commodity codes[^c-966fef3b2cf10bdcdddf412695a9067f]
 
 The commodity code applicable to goods subject to a quota is the code for the goods concerned which is specified in column 2 of the Quota Table.
 
-#### 5. Country of origin[^key-198996b5e9c53113290678a95b21aca9]
+#### 5. Country of origin[^c-198996b5e9c53113290678a95b21aca9]
 
 (1) The country of origin in relation to goods subject to a quota is the country of origin specified in column 3 of the Quota Table corresponding with the quota number in the corresponding row of that Table (“country of origin”).
 
 (2) Where a country of origin is specified in relation to goods subject to a quota, the goods concerned are goods which originate from that country.
 
-#### 6. Quota volume[^key-8a584b28d896378d8d0d7c974eaae652]
+#### 6. Quota volume[^c-8a584b28d896378d8d0d7c974eaae652]
 
 (1) The quota volume in relation to goods subject to a quota is the total quantity, however expressed, of those goods which may be imported into the United Kingdom as quota goods during each quota period (“quota volume”).
 
-(2) [^key-6fe3cb155e13650dbe3ecbcc609c5c92]...The quota volume in relation to goods subject to a quota is set out in column 5 of the Quota Table as a figure or formula including a unit of measure against the relevant commodity code for those goods and applies to the quota period in the corresponding row of that Table.
+(2) [^c-6fe3cb155e13650dbe3ecbcc609c5c92]...The quota volume in relation to goods subject to a quota is set out in column 5 of the Quota Table as a figure or formula including a unit of measure against the relevant commodity code for those goods and applies to the quota period in the corresponding row of that Table.
 
-(2A)[^key-ef682041c2b89379b002e58413387431] Where more than one figure is entered in column 5 of the Quota Table as the quota volume applying to the quota period in the corresponding row—
+(2A)[^c-ef682041c2b89379b002e58413387431] Where more than one figure is entered in column 5 of the Quota Table as the quota volume applying to the quota period in the corresponding row—
 
-- (a) the first figure is the quota volume that applied on the commencement of the quota period in 2022[^key-13d593c01ec7570bf5c1ee2e19c17ae6] and which continues in effect within the period ending with the day of the next quota close date marking the expiry of the quota period for the quota concerned[^key-5bb958d6238c59aca41496132667de0d];
+- (a) the first figure is the quota volume that applied on the commencement of the quota period in 2022[^c-13d593c01ec7570bf5c1ee2e19c17ae6] and which continues in effect within the period ending with the day of the next quota close date marking the expiry of the quota period for the quota concerned[^c-5bb958d6238c59aca41496132667de0d];
 - (b) the second figure is the quota volume that applies with effect from the next quota open date following the expiry of the quota period referred to in sub-paragraph (a).
 
-(2B)[^key-7ed12ea4f9d1e0518056ef9ff738a204] In the case of goods subject to a quota identified by the quota numbers 05.1922, 05.2115 and 05.2116, the applicable quota volume is subject to an annual increase as follows—
+(2B)[^c-7ed12ea4f9d1e0518056ef9ff738a204] In the case of goods subject to a quota identified by the quota numbers 05.1922, 05.2115 and 05.2116, the applicable quota volume is subject to an annual increase as follows—
 
 - (a) the quantity set out in column 5 of the Quota Table is the quota volume for the quota period commencing on 1st January 2023 and expiring on 31st December 2023;
-- (b) for each subsequent quota period until the expiry of the quota period which commenced on 1st January 2025 and expires on 31st December 2025,[^key-ec3154840e804fa46d6db856f5a35f41], the quota volume is the quantity resulting from applying an increase of 33,000kg to the quota volume that had been in effect during the immediately preceding quota period.
+- (b) for each subsequent quota period until the expiry of the quota period which commenced on 1st January 2025 and expires on 31st December 2025,[^c-ec3154840e804fa46d6db856f5a35f41], the quota volume is the quantity resulting from applying an increase of 33,000kg to the quota volume that had been in effect during the immediately preceding quota period.
 
-(3)[^key-67e1bd8985f95cc4c7c1615715eaddca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-67e1bd8985f95cc4c7c1615715eaddca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-aa2e83335b3d2861e96aa122eb0825f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-aa2e83335b3d2861e96aa122eb0825f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Quota period[^key-542d9a3a22548d1a32aa019895289e4f]
+#### 7. Quota period[^c-542d9a3a22548d1a32aa019895289e4f]
 
 (1) Each period during which a quota applies (“quota period”) commences at the beginning of each date in column 6 of the Quota Table (the “quota open date”) and expires at the end of the corresponding date in column 7 of that Table (the “quota close date”).
 
 (2) A quota period applies between the quota open date and the quota close date as though that period had already commenced on IP completion day and also applies to the period falling between those dates in each year following the year in which IP completion day falls.
 
-#### 8. Retaining commodity codes in the Quota Table[^key-a326fec480a9026552bc3bfe05f9c2fe]
+#### 8. Retaining commodity codes in the Quota Table[^c-a326fec480a9026552bc3bfe05f9c2fe]
 
 Where a commodity code listed in the Quota Table has been deleted and is not replaced in the Goods Classification Table, then, for the purposes of applying the quota, the original code must be retained in the Quota Table and continues to apply to goods as originally classified under that code.
 
 ### CHAPTER 2 — First Come, First Served quotas: Parts A and B of the Quota Table
 
-#### 9. Quota goods[^key-ad926479322719e2cbb8e12191bf943e]
+#### 9. Quota goods[^c-ad926479322719e2cbb8e12191bf943e]
 
-(1) Subject to paragraph (1A), goods qualify[^key-ee6ea87984d7fe0b37c12f67ecd36c48] as “**quota goods**” for the purposes of this Chapter if—
+(1) Subject to paragraph (1A), goods qualify[^c-ee6ea87984d7fe0b37c12f67ecd36c48] as “**quota goods**” for the purposes of this Chapter if—
 
 - (a) the commodity code applicable to the goods is listed in Part A or Part B of the Quota Table;
 - (b) where a country of origin is specified in Part A or Part B of the Quota Table in relation to the goods, the goods originate from the country so specified;
@@ -177,7 +177,7 @@ Where a commodity code listed in the Quota Table has been deleted and is not rep
 - (e) the quota period for the goods has not expired; and
 - (f) a request to benefit from the quota for the relevant goods was received by Customs together with the declaration of the goods for a customs procedure.
 
-(1A)[^key-2deee4ce5af0f2c443ffa3c25ddd7e3f] In the case of goods listed in Part B of the Steel Quota Table, where the quantity of goods originating from a country or territory and imported into the United Kingdom during a quota period exceeds 40% of the quota volume for those goods, only the quantity of those goods which is within 40% of the relevant quota volume qualifies as quota goods.
+(1A)[^c-2deee4ce5af0f2c443ffa3c25ddd7e3f] In the case of goods listed in Part B of the Steel Quota Table, where the quantity of goods originating from a country or territory and imported into the United Kingdom during a quota period exceeds 40% of the quota volume for those goods, only the quantity of those goods which is within 40% of the relevant quota volume qualifies as quota goods.
 
 (1B) For the purposes of paragraph (1A), where one or more consignments of goods originating from a country or territory and imported into the United Kingdom is or are of a quantity which is partly within 40% of the quota volume for those goods but which also partly exceeds that 40% of the quota volume, only the quantity of those goods which is within 40% of the relevant quota volume qualifies as quota goods.
 
@@ -191,14 +191,14 @@ Where a commodity code listed in the Quota Table has been deleted and is not rep
   - (ii) for goods listed in Part B of the Quota Table, an authorised use procedure [^c24378361]; and
   - (iii) references to a declaration of the goods for a Customs procedure are to be read as including a reference to any such declaration made to HMRC under equivalent provisions of direct EU legislation [^c24378371] that have effect in Northern Ireland in respect of goods imported into the United Kingdom as a result of their entry into Northern Ireland.
 
-#### 10. Calculating the quota duty rate[^key-a8b9a21834debd61aee52c63319d1f6b]
+#### 10. Calculating the quota duty rate[^c-a8b9a21834debd61aee52c63319d1f6b]
 
 The “**quota duty rate**”, in relation to quota goods, is—
 
 - (a) where the rate of duty set out in column 4 of Part A or column 4 of Part B of the Quota Table is expressed only as a percentage, that percentage of the customs value of those goods; or
 - (b) where the quota duty rate is dependent on applying a formula set out in column 4 of that Table against the commodity code in the corresponding row of that Table, the result of applying that formula.
 
-#### 11. Applying the quota duty rate[^key-0b5d12b875da0894c18e2f3a017eea42]
+#### 11. Applying the quota duty rate[^c-0b5d12b875da0894c18e2f3a017eea42]
 
 (1) Goods listed in Part A of the Quota Table that qualify as quota goods are subject to the quota duty rate.
 
@@ -209,7 +209,7 @@ The “**quota duty rate**”, in relation to quota goods, is—
 - (a) that relief is limited to the quota duty rate for the quota goods; and
 - (b) the quantity of the quota goods that are to benefit from the relief is limited to the quota volume.
 
-#### 12. Deductions from the quota volume[^key-9d23c2725ed181d3c4c6ac917bb27d42]
+#### 12. Deductions from the quota volume[^c-9d23c2725ed181d3c4c6ac917bb27d42]
 
 (1) Deductions from the quota volume must be made in the order in which Customs accept the request to benefit from the relevant quota, together with the associated declaration for a customs procedure.
 
@@ -227,9 +227,9 @@ The “**quota duty rate**”, in relation to quota goods, is—
 
 (8) For the purposes of this regulation, where a quota (“a linked quota”) is linked to one or more other quotas by virtue of being entered in the Quota Table against the same corresponding quota volume, a deduction from quota volume for the linked quota in respect of a quantity of imported quota goods is also to operate as a deduction in respect of the same quantity of goods from each of the other quotas.
 
-(9)[^key-16915ff738168e3833d895ec27558717] Where the entry for a linked quota in column 1 of the Quota Table is followed by a reference to a “coefficient”, the quantity of imported quota goods which is to be deducted from quota volume for the purposes of paragraph (8) is subject to the application of the coefficient specified for that entry.
+(9)[^c-16915ff738168e3833d895ec27558717] Where the entry for a linked quota in column 1 of the Quota Table is followed by a reference to a “coefficient”, the quantity of imported quota goods which is to be deducted from quota volume for the purposes of paragraph (8) is subject to the application of the coefficient specified for that entry.
 
-#### 13. Allocation of quotas[^key-a83a6055215804f4e908ca8404781e0b]
+#### 13. Allocation of quotas[^c-a83a6055215804f4e908ca8404781e0b]
 
 (1) Deductions from the quota volume in accordance with regulation 12 must not be allocated to requests to benefit from a quota any earlier than the working day after the date of acceptance by Customs of the declaration for a customs procedure for those goods.
 
@@ -239,17 +239,17 @@ The “**quota duty rate**”, in relation to quota goods, is—
 
 (4) Where a quantity of goods has been allocated to a quota on the basis of incorrect information or an error by the person making a Customs declaration or Customs, the remaining quota volume must be adjusted accordingly to take account of the incorrect information or error.
 
-#### 14. Allocation of quotas over more than one period[^key-fd873960a44ec9cb9bd093398db0fc5b]
+#### 14. Allocation of quotas over more than one period[^c-fd873960a44ec9cb9bd093398db0fc5b]
 
 (1) This regulation applies where more than one period is entered in the Quota Table as a quota period in respect of which a quota applies.
 
-(2) Subject to paragraphs (2A) and (3), on the relevant day[^key-94dc355226910e69d2957f26f88f6b2f], if there is quota volume which applies for the preceding quota period[^key-3c44b19efd88a75afecaaf0f7413da47] which is unallocated once all the deductions from the quota volume under regulation 12 (if any) have been made, that unallocated quota volume is to be added to the quota volume which applies for the current[^key-253f40a4e5f372fea4d81683b34cf3c4] quota period.
+(2) Subject to paragraphs (2A) and (3), on the relevant day[^c-94dc355226910e69d2957f26f88f6b2f], if there is quota volume which applies for the preceding quota period[^c-3c44b19efd88a75afecaaf0f7413da47] which is unallocated once all the deductions from the quota volume under regulation 12 (if any) have been made, that unallocated quota volume is to be added to the quota volume which applies for the current[^c-253f40a4e5f372fea4d81683b34cf3c4] quota period.
 
-(2A)[^key-5fb93d2e90fc9922032a6d7082459164] Paragraph (2) does not apply to quota volumes in Part B of the Steel Quota Table.
+(2A)[^c-5fb93d2e90fc9922032a6d7082459164] Paragraph (2) does not apply to quota volumes in Part B of the Steel Quota Table.
 
-(3) Any quota volume which applies for the preceding quota period[^key-af595de842daca6a25366763b4f5f889] which remains unallocated on the relevant day after the end of the quota year[^key-e6da5fdeb3d1982d6f834bf31d81ee3d] is not to be carried over to the current[^key-48da294fa024f4bef9d22d3536539460] quota period.
+(3) Any quota volume which applies for the preceding quota period[^c-af595de842daca6a25366763b4f5f889] which remains unallocated on the relevant day after the end of the quota year[^c-e6da5fdeb3d1982d6f834bf31d81ee3d] is not to be carried over to the current[^c-48da294fa024f4bef9d22d3536539460] quota period.
 
-(4)[^key-41d124edf0e5847ea1e73b32a92e30bb] In this regulation—
+(4)[^c-41d124edf0e5847ea1e73b32a92e30bb] In this regulation—
 
 - “**relevant day**” means—
   - (a) in relation to a quota in the Steel Quota Table, the twentieth working day after the day on which a quota period closes;
@@ -258,7 +258,7 @@ The “**quota duty rate**”, in relation to quota goods, is—
   - (a) in relation to a quota in the Steel Quota Table, the twentieth working day after 30th June;
   - (b) in relation to a quota in the Non-steel Quota Table, 1st January.
 
-#### 15. Critical quotas[^key-c157080a30b2edd7d51339fd883edf68]
+#### 15. Critical quotas[^c-c157080a30b2edd7d51339fd883edf68]
 
 (1) Where goods are subject to a quota and the quota is designated critical under paragraphs (2) or (3), security for the full amount of duty at the standard rate must, unless otherwise directed by HMRC, be provided to Customs at the time of a request to benefit from the quota.
 
@@ -271,17 +271,17 @@ The “**quota duty rate**”, in relation to quota goods, is—
 
 (4) In a case to which regulation 14 applies, for the purposes of paragraph (2) the “whole quota volume” is the sum of the quota volumes entered in column 5 of the Quota Table for the quota concerned.
 
-### CHAPTER 3 — Licensed quotas: Part C of the Non-steel Quota Table[^key-5e2f923af45dfd5fa9287575d65437d8]
+### CHAPTER 3 — Licensed quotas: Part C of the Non-steel Quota Table[^c-5e2f923af45dfd5fa9287575d65437d8]
 
-#### 16. Scope of this Chapter[^key-1779e8317bb9b2fcb7d246491b678c0b]
+#### 16. Scope of this Chapter[^c-1779e8317bb9b2fcb7d246491b678c0b]
 
 This Chapter has effect subject to the arrangements under Part 3 for the importation of quota goods to be subject to a licensing system.
 
-#### 17. Quota goods[^key-d3220cfea35bfc376b8b9cd09eab5de4]
+#### 17. Quota goods[^c-d3220cfea35bfc376b8b9cd09eab5de4]
 
 (1) Goods qualify as “**quota goods**” for the purposes of this Chapter if—
 
-- (a) the commodity code applicable to the goods is listed in Part C of the Non-steel Quota Table[^key-f80584ca716aa1d1be37934446cf189c];
+- (a) the commodity code applicable to the goods is listed in Part C of the Non-steel Quota Table[^c-f80584ca716aa1d1be37934446cf189c];
 - (b) where a country of origin is specified in Part C of the Non-steel Quota Table in relation to the goods, the goods originate from that country;
 - (c) the goods meet the conditions which they are required to meet as set out in Part B of Schedule 1;
 - (d) the quantity of the goods imported during the quota period does not exceed the quota volume for those goods; and
@@ -297,16 +297,16 @@ This Chapter has effect subject to the arrangements under Part 3 for the importa
   - (ii) for goods listed in the second section of Part C of the Non-steel Quota Table, the authorised use procedure; and
   - (iii) references to a declaration of the goods for a Customs procedure are to be read as including a reference to any such declaration made to HMRC under equivalent provisions of direct EU legislation that have effect in Northern Ireland in respect of goods imported into the United Kingdom as a result of their entry into Northern Ireland.
 
-#### 18. Calculating the quota duty rate[^key-0d4dc4fd9b64c53a5f20480571630659]
+#### 18. Calculating the quota duty rate[^c-0d4dc4fd9b64c53a5f20480571630659]
 
 The “**quota duty rate**”, in relation to quota goods, is—
 
-- (a) where the rate of duty set out in column 4 of Part C of the Non-steel Quota Table[^key-5515b2bd68d5520d53be2b81f157ee3c] is expressed only as a percentage, that percentage of the customs value of those goods; or
+- (a) where the rate of duty set out in column 4 of Part C of the Non-steel Quota Table[^c-5515b2bd68d5520d53be2b81f157ee3c] is expressed only as a percentage, that percentage of the customs value of those goods; or
 - (b) where the quota duty rate is dependent on applying a formula set out in column 4 of that Table against the commodity code in the corresponding row of that Table, the result of applying that formula.
 
-#### 19. Applying the quota duty rate[^key-38fedd3daa935bfb5b872bf1da054153]
+#### 19. Applying the quota duty rate[^c-38fedd3daa935bfb5b872bf1da054153]
 
-(1) Goods listed in the first section of Part C of the Non-steel Quota Table[^key-90cfeec3cfadcd4b070b72fba529f758] that qualify as quota goods are subject to the quota duty rate provided that, on the declaration of the goods for the free-circulation procedure, an import licence in respect of the goods is valid in accordance with regulation 35.
+(1) Goods listed in the first section of Part C of the Non-steel Quota Table[^c-90cfeec3cfadcd4b070b72fba529f758] that qualify as quota goods are subject to the quota duty rate provided that, on the declaration of the goods for the free-circulation procedure, an import licence in respect of the goods is valid in accordance with regulation 35.
 
 (2) Goods listed in the second section of Part C of the Non-steel Quota Table that qualify as quota goods are subject to the quota duty rate provided that—
 
@@ -318,20 +318,20 @@ The “**quota duty rate**”, in relation to quota goods, is—
 - (a) the relief is limited to the quota duty rate for the quota goods; and
 - (b) the quantity of the quota goods which are to benefit from the relief is limited to the quota volume.
 
-## PART 3 — Import Licences: Part C of the Non-steel Quota Table and the Preferential Quota Table[^key-431b3b3b9c271852e6942078a1e33280]
+## PART 3 — Import Licences: Part C of the Non-steel Quota Table and the Preferential Quota Table[^c-431b3b3b9c271852e6942078a1e33280]
 
 ### CHAPTER 1 — Preliminary
 
-#### 20. Application of this Part[^key-707d5cc0dffbc821ddcb62c6ae412893]
+#### 20. Application of this Part[^c-707d5cc0dffbc821ddcb62c6ae412893]
 
 This Part applies—
 
-- (a) to any quota identified by a quota number which is listed in Part C of the Non-steel Quota Table[^key-5e0b5c6c7315e198dac9990406c49b28] (and for the purposes of identifying each quota, the quota numbers so listed are also set out in column (1) of Part A of the Licensing Table); and
+- (a) to any quota identified by a quota number which is listed in Part C of the Non-steel Quota Table[^c-5e0b5c6c7315e198dac9990406c49b28] (and for the purposes of identifying each quota, the quota numbers so listed are also set out in column (1) of Part A of the Licensing Table); and
 - (b) to any quota identified by a quota number which commences with the three digits “054” and which is listed in the Preferential Quota Table (and for the purposes of identifying each quota, the quota numbers of that description so listed are also set out in column (1) of Part B of the Licensing Table),
 
 and references to a “quota” in this Part mean any quota identified by a quota number of a description specified in paragraph (a) or (b).
 
-#### 21. Interpretation of this Part[^key-19334e04030436b966beb07176ef6f2f]
+#### 21. Interpretation of this Part[^c-19334e04030436b966beb07176ef6f2f]
 
 (1) In this Part—
 
@@ -344,7 +344,7 @@ and references to a “quota” in this Part mean any quota identified by a quot
 - “**Licensing Table**” means the table comprising two Parts in Schedule 2;
 - “**operator**” has the meaning given in regulation 24;
 - “**quota**” has the meaning given in regulation 20;
-- “[^key-96b70b49fc7e07e93057eaab0bfacafa]**specified quota**” means any of the following quotas—
+- “[^c-96b70b49fc7e07e93057eaab0bfacafa]**specified quota**” means any of the following quotas—
   - (a) 05.4970;
   - (b) 05.4971;
   - (c) 05.4972;
@@ -358,7 +358,7 @@ and references to a “quota” in this Part mean any quota identified by a quot
 (2) In this Part—
 
 - (a) any reference to the release of goods under the free-circulation procedure as it applies to goods—
-  - (i) that are specified in the second section of Part C of the Non-steel Quota Table[^key-0ac966405fe63310d7d95a838cad3c94]; or
+  - (i) that are specified in the second section of Part C of the Non-steel Quota Table[^c-0ac966405fe63310d7d95a838cad3c94]; or
   - (ii) that are “authorised use goods” as described in regulation 5(1)(b) of the Customs PTA Regulations,
 
   is to be read as if it were a reference to those goods being declared for an authorised use procedure in accordance with the Special Procedures Regulations;
@@ -366,7 +366,7 @@ and references to a “quota” in this Part mean any quota identified by a quot
 
 ### CHAPTER 2 — Applying for an import licence
 
-#### 22. Applying for an import licence: available quantity[^key-6b9db32ecd769e87b073b9eb47642749]
+#### 22. Applying for an import licence: available quantity[^c-6b9db32ecd769e87b073b9eb47642749]
 
 (1) The Secretary of State may publish a notice inviting applications to be made for an import licence in respect of any quota specified in the notice.
 
@@ -386,7 +386,7 @@ and references to a “quota” in this Part mean any quota identified by a quot
 
 (7) Any reference in this Part to an available quantity specified in a notice published under paragraph (1) is a reference to the available quantity for which applications for an import licence have been invited by the Secretary of State in respect of the quota concerned.
 
-#### 23. Conditions for granting an import licence[^key-6854ef148866bb1aeba92d1a8f116219]
+#### 23. Conditions for granting an import licence[^c-6854ef148866bb1aeba92d1a8f116219]
 
 (1) The Secretary of State may grant an application for an import licence if the Secretary of State is satisfied that the requirements of this regulation have been met.
 
@@ -399,8 +399,8 @@ and references to a “quota” in this Part mean any quota identified by a quot
 
 (3) If the application is made in respect of a quota—
 
-- (a) for which the entry in column (3) of the Licensing Table is “Yes” (indicating that a reference quantity applies); [^key-e45d07e40ca912de2f272b377f44e5d2]...
-- (b)[^key-04c8050ba431420ffcddbf52fd977293] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) for which the entry in column (3) of the Licensing Table is “Yes” (indicating that a reference quantity applies); [^c-e45d07e40ca912de2f272b377f44e5d2]...
+- (b)[^c-04c8050ba431420ffcddbf52fd977293] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the requirements relating to the applicable reference quantity in regulation 27 apply, unless those requirements are suspended by the Secretary of State under regulation 28.
 
@@ -411,8 +411,8 @@ the requirements relating to the applicable reference quantity in regulation 27 
 
 (5) If the application—
 
-- (a) is made in respect of a quota for which the entry in column (5) of the Licensing Table is “Yes” (indicating that proof of trade is required); [^key-84aa4404f69dddde5710c7475567f196]...
-- (b)[^key-07e09fc64cbc3d65e90f8a2c7d3fd8e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is made in respect of a quota for which the entry in column (5) of the Licensing Table is “Yes” (indicating that proof of trade is required); [^c-84aa4404f69dddde5710c7475567f196]...
+- (b)[^c-07e09fc64cbc3d65e90f8a2c7d3fd8e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the applicant must show proof of trade in accordance with regulation 29.
 
@@ -429,7 +429,7 @@ the applicant must show proof of trade in accordance with regulation 29.
 
 (10) The Secretary of State may require the applicant to provide such documents and evidence as the Secretary of State considers necessary for the verification of any information given in the licence application.
 
-#### 24. Operator[^key-7c6718b6590d85b5264558859327d964]
+#### 24. Operator[^c-7c6718b6590d85b5264558859327d964]
 
 (1) An operator is a person who is—
 
@@ -443,7 +443,7 @@ the applicant must show proof of trade in accordance with regulation 29.
   - (i) a registered office in the United Kingdom; or
   - (ii) a permanent place in the United Kingdom from which the person carries out activities which the person is constituted to perform.
 
-#### 25. Application procedure[^key-9fa59b48497168b3e6b3ed79cdc72a66]
+#### 25. Application procedure[^c-9fa59b48497168b3e6b3ed79cdc72a66]
 
 (1) Subject to paragraphs (2) and (3), an application for an import licence must be received by the Secretary of State—
 
@@ -452,7 +452,7 @@ the applicant must show proof of trade in accordance with regulation 29.
 
 (2) Any application for an import licence made before the commencement of a quota period beginning on 1st January must be received within the period of seven days beginning with 17th November of the preceding year and no later than 17.00 hours on the last working day within that period.
 
-(3)[^key-2084507e0ed406305cfd4dc833c593dd] An application for an import licence in respect of—
+(3)[^c-2084507e0ed406305cfd4dc833c593dd] An application for an import licence in respect of—
 
 - (a) a specified quota, or
 - (b) a quota for which a certificate of authenticity or an Inward Monitoring Arrangement certificate is required to be submitted under regulation 23(6) or, as the case may be (7),
@@ -462,7 +462,7 @@ may be received at any time.
 (4) An applicant may not make more than one application per month in respect of the same quota, except that—
 
 - (a) an applicant may make two applications for the same quota during the month of November, if one of those applications is required to be submitted within the period beginning 17th November for the purposes of paragraph (2); and
-- (b)[^key-819f12c6bd210a2e713337435f259c17] an applicant may make more than one such application per month if the application is for—
+- (b)[^c-819f12c6bd210a2e713337435f259c17] an applicant may make more than one such application per month if the application is for—
   - (i) a specified quota, or
   - (ii) a quota for which a certificate of authenticity or an Inward Monitoring Arrangement certificate is required to be submitted under regulation 23.
 
@@ -482,7 +482,7 @@ those applications will be treated as a single application for the purposes of p
 
 (7) An application for an import licence may be withdrawn by the applicant at any time before 17.00 hours on the last working day of the period during which that application was received by the Secretary of State under paragraph (1) or (2).
 
-#### 26. Lodging of security[^key-612b85198924fdf9656485f199cdcd81]
+#### 26. Lodging of security[^c-612b85198924fdf9656485f199cdcd81]
 
 (1) The security which is payable in connection with the application for an import licence must be lodged with the Secretary of State within the same period as the period during which the application for the import licence is to be received under regulation 25.
 
@@ -490,7 +490,7 @@ those applications will be treated as a single application for the purposes of p
 
 (3) Subject to any decision under regulation 42(3) that the security is forfeited, any security lodged in respect of a quantity of quota goods for which an import licence is not granted must be returned to the person who lodged the security.
 
-#### 27. Reference quantity[^key-74cd1d8cba0cda12cb7875979c0c254f]
+#### 27. Reference quantity[^c-74cd1d8cba0cda12cb7875979c0c254f]
 
 (1) Where this regulation applies, the total quantity of goods specified in applications for an import licence submitted by an applicant in respect of a quota period—
 
@@ -521,7 +521,7 @@ those applications will be treated as a single application for the purposes of p
 - (a) the applicable reference quantity for the merged applicant will be the combined sum of the goods which each predecessor to the merger could have taken into account in making a separate licence application had the merger not occurred; and
 - (b) for the purposes of providing evidence of reference quantity under paragraph (4), documentation obtained prior to the merger by each predecessor to the merger may be treated as evidence in relation to the application made by the merged applicant.
 
-#### 28. Suspension of reference quantity[^key-fa17d0f6888ff9bb28508077311acb30]
+#### 28. Suspension of reference quantity[^c-fa17d0f6888ff9bb28508077311acb30]
 
 (1) The Secretary of State may publish a notice suspending the requirement to show applicable reference quantity in accordance with regulation 27 in respect of any quota specified in the notice.
 
@@ -532,13 +532,13 @@ those applications will be treated as a single application for the purposes of p
 
 (3) The period of any suspension must be specified in the notice and may not exceed the end of the quota period.
 
-(4)[^key-ea9582a20bbff996c823a1f1075811cb] For the purposes of the requirement to show proof of trade in accordance with regulation 29(1)(a) for a quota to which regulation 27 applies, regulation 27 is deemed to apply irrespective of whether reference quantity is suspended under this regulation in respect of the quota concerned.
+(4)[^c-ea9582a20bbff996c823a1f1075811cb] For the purposes of the requirement to show proof of trade in accordance with regulation 29(1)(a) for a quota to which regulation 27 applies, regulation 27 is deemed to apply irrespective of whether reference quantity is suspended under this regulation in respect of the quota concerned.
 
-#### 29. Proof of trade[^key-623225aae6d75f9ae689b7c1d681f3b2]
+#### 29. Proof of trade[^c-623225aae6d75f9ae689b7c1d681f3b2]
 
 (1) Where this regulation applies, the proof of trade must show that the applicant has, during each relevant preceding period, released under the free-circulation procedure at least 25 tonnes—
 
-- (a) of goods for which the description as specified in the Goods Classification Table is the same as the goods which are subject to the quota in respect of which the licence application is made[^key-04056cf48cff8e7c2c1aa9be0330c160], if the application is for a quota to which regulation 27 or 32 applies; or
+- (a) of goods for which the description as specified in the Goods Classification Table is the same as the goods which are subject to the quota in respect of which the licence application is made[^c-04056cf48cff8e7c2c1aa9be0330c160], if the application is for a quota to which regulation 27 or 32 applies; or
 - (b) in any other case, of goods which—
   - (i) are of a description which falls within the same sector in column (1) of the Proof of Trade Table set out in Schedule 3 as the goods specified in the licence application; and
   - (ii) fall within a commodity code which is specified in column (2) of that Table in the corresponding row for that sector.
@@ -557,7 +557,7 @@ those applications will be treated as a single application for the purposes of p
   - (i) the period of 12 months ending two months before the commencement of the period for receiving applications for an import licence for the relevant goods under regulation 25(1)(a) or 25(2); and
   - (ii) the period of 12 months immediately preceding that 12 month period.
 
-#### 29A. Suspension of proof of trade[^key-25a5e62ec7102930021e82bbcea9cb2a]
+#### 29A. Suspension of proof of trade[^c-25a5e62ec7102930021e82bbcea9cb2a]
 
 (1) The Secretary of State may publish a notice suspending the requirement to show proof of trade in accordance with regulation 29 in respect of any quota specified in the notice.
 
@@ -565,7 +565,7 @@ those applications will be treated as a single application for the purposes of p
 
 (3) The period of any suspension must be specified in the notice and may not exceed the end of the quota period.
 
-#### 30. Certificate of authenticity[^key-64ecb2208a48093e2e0aea2a885de87f]
+#### 30. Certificate of authenticity[^c-64ecb2208a48093e2e0aea2a885de87f]
 
 (1) Where this regulation applies, the applicant must submit with the licence application—
 
@@ -587,7 +587,7 @@ those applications will be treated as a single application for the purposes of p
 
 (7) If an import licence is issued, the quantity of quota goods to be imported under the licence is to be noted on the copy of the certificate of authenticity along with the licence issue number and the copy certificate is to be returned to the applicant.
 
-#### 31. Inward Monitoring Arrangement certificate[^key-202d88dc8ae6d71a6e1a0751735ec41e]
+#### 31. Inward Monitoring Arrangement certificate[^c-202d88dc8ae6d71a6e1a0751735ec41e]
 
 (1) Where this regulation applies, the applicant must submit with the licence application—
 
@@ -609,7 +609,7 @@ those applications will be treated as a single application for the purposes of p
 
 (7) If an import licence is issued, the quantity of quota goods to be imported under the licence is to be noted on the copy of the IMA 1 along with the licence issue number and the copy of the IMA 1 is to be returned to the applicant.
 
-#### 32. Declaration of independence[^key-b0289fd4f17d7757a5b5c754e6fad7b4]
+#### 32. Declaration of independence[^c-b0289fd4f17d7757a5b5c754e6fad7b4]
 
 (1) Where this regulation applies, a declaration of independence must be made by the applicant containing—
 
@@ -651,7 +651,7 @@ those applications will be treated as a single application for the purposes of p
 
 (8) Where particulars of the change are notified under paragraph (7), the Secretary of State must determine whether the effect of the change is such that the declaration of independence is no longer in force and notify the operator accordingly.
 
-#### 33. Export certificates[^key-7fc8390f36bf1a2771f72a7b481e5d73]
+#### 33. Export certificates[^c-7fc8390f36bf1a2771f72a7b481e5d73]
 
 (1) Where this regulation applies, the applicant must submit with the application for the import licence—
 
@@ -662,13 +662,13 @@ those applications will be treated as a single application for the purposes of p
 
 (3) The quantity applied for in the licence application must not exceed the quantity of goods specified in the export certificate.
 
-(4)[^key-4a830ebd9355f612b4795557997ede05] Paragraphs (5) and (6) apply only in respect of an application for an import licence to make use of a specified quota.
+(4)[^c-4a830ebd9355f612b4795557997ede05] Paragraphs (5) and (6) apply only in respect of an application for an import licence to make use of a specified quota.
 
 (5) Once an export certificate has been submitted with a licence application, it cannot be used in connection with any other application for an import licence.
 
 (6) The original export certificate must be retained by the Secretary of State.
 
-#### 34. Suspension of licence applications[^key-9468aa22254378488f6d712b39417c05]
+#### 34. Suspension of licence applications[^c-9468aa22254378488f6d712b39417c05]
 
 (1) The Secretary of State may publish a notice suspending applications for import licences for any quota specified in the notice, if the available quantity specified in a notice published under regulation 22(1) has been allocated by the grant of previous licences.
 
@@ -680,7 +680,7 @@ those applications will be treated as a single application for the purposes of p
 
 ### CHAPTER 3 — Administration of Import Licences
 
-#### 35. Issue and period of validity of the licence[^key-af42ba6dfb2b770ba27d14a16a101491]
+#### 35. Issue and period of validity of the licence[^c-af42ba6dfb2b770ba27d14a16a101491]
 
 (1) If an application for an import licence is granted, the Secretary of State must issue the import licence before the end of the month in which the licence application was received, except that licences that are valid from 1st January must be issued by 16th December of the preceding year.
 
@@ -698,10 +698,10 @@ those applications will be treated as a single application for the purposes of p
 (4) An import licence—
 
 - (a) in respect of which a certificate of authenticity was required to be submitted under regulation 30 is valid for the quota period or a period of three months beginning with the day on which the licence was issued, whichever period ends first;
-- (b) in respect of which an Inward Monitoring Arrangement certificate was required to be submitted under regulation 31 is valid for the period beginning with the day on which the licence was issued and ending with the same day as the final day of the period of validity deemed to apply under regulation 31(4) for a certificate so submitted ;[^key-f104ee6bf675b9bec20333f2ac238da4]
+- (b) in respect of which an Inward Monitoring Arrangement certificate was required to be submitted under regulation 31 is valid for the period beginning with the day on which the licence was issued and ending with the same day as the final day of the period of validity deemed to apply under regulation 31(4) for a certificate so submitted ;[^c-f104ee6bf675b9bec20333f2ac238da4]
 - (c) in respect of a specified quota is valid for the period beginning with the day on which the licence was issued and ending with the day on which the quota period ends
 
-#### 36. Allocation of quota[^key-5f926f162ab66d129bd8128ff023e576]
+#### 36. Allocation of quota[^c-5f926f162ab66d129bd8128ff023e576]
 
 (1) On the grant of an import licence, the Secretary of State must specify in the licence the quantity of quota goods to be imported under the licence.
 
@@ -720,7 +720,7 @@ those applications will be treated as a single application for the purposes of p
 
 (application quantity × allocation coefficient).
 
-(6) Unless the additional allocation procedure under regulation 36A applies,[^key-777f898ac15388e23338a0dc93f4a8f3] the figure resulting from the application of the allocation coefficient is the quantity of quota goods to be imported under the licence, rounded down to the nearest unit.
+(6) Unless the additional allocation procedure under regulation 36A applies,[^c-777f898ac15388e23338a0dc93f4a8f3] the figure resulting from the application of the allocation coefficient is the quantity of quota goods to be imported under the licence, rounded down to the nearest unit.
 
 (7) For the purposes of calculating and applying the allocation coefficient—
 
@@ -731,7 +731,7 @@ those applications will be treated as a single application for the purposes of p
 
 (9) The Secretary of State must publish a notice of the allocation coefficient which has been applied in respect of the requested quantity.
 
-#### 36A. Allocation of quota 05.4105[^key-389575022b954d21fe2288a7bd45c908]
+#### 36A. Allocation of quota 05.4105[^c-389575022b954d21fe2288a7bd45c908]
 
 (1) The additional allocation procedure under this regulation applies where—
 
@@ -759,11 +759,11 @@ those applications will be treated as a single application for the purposes of p
 - (a) where the offer of additional quantity is not accepted in accordance with paragraphs (4) and (5), the figure resulting from the application of the allocation coefficient under regulation 36(6), or
 - (b) where the offer of additional quantity is accepted in accordance with paragraphs (4) and (5), the figure equating to that quantity, combined with the figure resulting from the application of the allocation coefficient under regulation 36(6).
 
-#### 37. Licence conditions[^key-9da40d20b570344fe9e67c24178f2ff9]
+#### 37. Licence conditions[^c-9da40d20b570344fe9e67c24178f2ff9]
 
 An import licence may be granted subject to such terms and conditions as the Secretary of State considers necessary for the purposes of this Part.
 
-#### 38. Transfer of an import licence or extract[^key-d8d297d8b899cc6249527b25e9c37d36]
+#### 38. Transfer of an import licence or extract[^c-d8d297d8b899cc6249527b25e9c37d36]
 
 (1) A person to whom an import licence has been granted (in this regulation, “the transferor”) may apply to the Secretary of State for the transfer of that licence, or for the transfer of an extract from that licence (an “extract”), to another person (“**the transferee**”).
 
@@ -785,20 +785,20 @@ An import licence may be granted subject to such terms and conditions as the Sec
 - (a) reference quantity under regulation 27; or
 - (b) proof of trade under regulation 29.
 
-#### 39. Surrender of an import licence[^key-97d22307d5dd330e90ed5f638f3e5489]
+#### 39. Surrender of an import licence[^c-97d22307d5dd330e90ed5f638f3e5489]
 
 (1) A licence holder may surrender an import licence by giving notice to the Secretary of State to that effect.
 
 (2) Where a notice is given under paragraph (1), the import licence to which it relates ceases to have effect on receipt of the notice by the Secretary of State.
 
-(3)[^key-e5a0712f608d61be062e34b5ae2b43dc] Notwithstanding regulation 40, where—
+(3)[^c-e5a0712f608d61be062e34b5ae2b43dc] Notwithstanding regulation 40, where—
 
 - (a) an import licence to import goods within quota numbers 05.4270, 05.4271, 05.4272, 05.4273, 05.4274, 05.4275, 05.4276, 05.4306, 05.4307, 05.4308, 05.4600, 05.4601 or 05.4602 is surrendered in accordance with paragraph (1); and
 - (b) the surrender of the licence is made within 1 month beginning at 6.00 pm on 10th May 2022,
 
 any security held by the Secretary of State in relation to the licence, must be returned to the person who lodged the security.
 
-#### 40. Return and forfeiture of security[^key-2d7f51d659ecd09e1d9477e494e95902]
+#### 40. Return and forfeiture of security[^c-2d7f51d659ecd09e1d9477e494e95902]
 
 (1) This regulation applies to any security which is held by the Secretary of State consequent to the grant of an import licence and is subject to any decision under regulation 42(3) that the security is forfeited.
 
@@ -835,13 +835,13 @@ any security held by the Secretary of State in relation to the licence, must be 
 
 ### CHAPTER 4 — Appeals and penalties
 
-#### 41. Decision to refuse licence application[^key-edc70a331bee467b18bbce58cb932c8c]
+#### 41. Decision to refuse licence application[^c-edc70a331bee467b18bbce58cb932c8c]
 
 (1) The Secretary of State must notify the applicant in writing if an application under regulation 23 is refused.
 
 (2) The Secretary of State must give reasons for the decision and inform the applicant of the right to appeal against the decision under regulation 43.
 
-#### 42. Penalties[^key-cacd07d13305beaaa752bbf40266e7c2]
+#### 42. Penalties[^c-cacd07d13305beaaa752bbf40266e7c2]
 
 (1) If any information or document submitted in connection with an application for an import licence or its transfer is found to be materially incorrect or misleading and if the Secretary of State considers that the information or document is decisive for the grant of the licence or the approval of its transfer (or the transfer of an extract) such that the grant or transfer would not have been made if the information or document had not been submitted, the Secretary of State may—
 
@@ -859,7 +859,7 @@ the Secretary of State may decide that any security lodged in connection with th
 
 (4) The Secretary of State must give reasons for any decision to apply a penalty under this regulation and inform the person of the right to appeal against the decision under regulation 43.
 
-#### 43. Appeals[^key-6e2174f120016a245476d3aca00951f6]
+#### 43. Appeals[^c-6e2174f120016a245476d3aca00951f6]
 
 (1) A person who is aggrieved by any decision taken by the Secretary of State under these Regulations (“**the appellant**”) may bring an appeal under this regulation.
 
@@ -877,7 +877,7 @@ the Secretary of State may decide that any security lodged in connection with th
 
 ### CHAPTER 5 — Transitional provision
 
-#### 44. Transitional provision[^key-4e45f83ad1b0340c9c74d44c8d29c9c7]
+#### 44. Transitional provision[^c-4e45f83ad1b0340c9c74d44c8d29c9c7]
 
 (1) Subject to paragraph (2), any licence, or any extract from a licence, which was granted by the Secretary of State to import goods which are subject to a quota listed in Part A of the Licensing Table and which has effect immediately before the appointed day remains in force as if it were granted under these Regulations; and, for these purposes, any goods released under the licence before the appointed day are deemed to have been released under the free-circulation procedure.
 
@@ -920,9 +920,9 @@ remains valid until 30th June 2021, irrespective of the period of validity which
     - (aa) the period of 12 months preceding the commencement of the period for receiving applications for an import licence for the relevant goods under regulation 25(1)(a) or 25(2) and the period of 12 months immediately preceding that 12 month period; or
     - (bb) as regards any application for an import licence in respect of a sub-period which commences on 1st March 2021, the two quota periods preceding that sub-period.
 
-(10) Subject to paragraph (10A), for[^key-01aa18d7f586b0d44d542516a2c00604] the purposes of regulation 25(6)(c) and 29(3), an EORI number assigned before IP completion day by HMRC, in its capacity as a customs authority referred to in Article 9 of Regulation (EU) No 952/2013 [^c24378421] read with Articles 5 and 6 of Commission Delegated Regulation (EU) 2015/2446 [^c24378431] as those Regulations had effect in the United Kingdom immediately before IP Completion day, is to be treated as a valid EORI number.
+(10) Subject to paragraph (10A), for[^c-01aa18d7f586b0d44d542516a2c00604] the purposes of regulation 25(6)(c) and 29(3), an EORI number assigned before IP completion day by HMRC, in its capacity as a customs authority referred to in Article 9 of Regulation (EU) No 952/2013 [^c24378421] read with Articles 5 and 6 of Commission Delegated Regulation (EU) 2015/2446 [^c24378431] as those Regulations had effect in the United Kingdom immediately before IP Completion day, is to be treated as a valid EORI number.
 
-(10A)[^key-da16ae2471bb3d225ef5667bc915ccc5] Where proof of trade is submitted in accordance with paragraph (9) in respect of an application for an import licence of a description specified in that paragraph, any EORI number assigned before IP completion day by HMRC or any customs authority of a member State in accordance with the Regulations referred to in paragraph (10), as those Regulations had effect in the United Kingdom immediately before IP completion day, is to be treated as a valid EORI number.
+(10A)[^c-da16ae2471bb3d225ef5667bc915ccc5] Where proof of trade is submitted in accordance with paragraph (9) in respect of an application for an import licence of a description specified in that paragraph, any EORI number assigned before IP completion day by HMRC or any customs authority of a member State in accordance with the Regulations referred to in paragraph (10), as those Regulations had effect in the United Kingdom immediately before IP completion day, is to be treated as a valid EORI number.
 
 (11) The requirement to submit a declaration of independence in accordance with regulation 32 is not to apply in respect of any application for an import licence which is made on or after the appointed day and in respect of any quota period which commences before 1st June 2021.
 
@@ -942,11 +942,11 @@ any security held by the Secretary of State for goods which had not been release
 
 ## PART 4 — Other Matters
 
-### 45. Amendment of regulation 32 of the Special Procedures Regulations[^key-026e61cbe39809542b29449ca9b1af80]
+### 45. Amendment of regulation 32 of the Special Procedures Regulations[^c-026e61cbe39809542b29449ca9b1af80]
 
 In regulation 32(2) of the Special Procedures Regulations, for “ “Authorised use: Eligible goods and authorised uses” published on 27 November 2018”, substitute “ “Authorised Use: Eligible Goods and Authorised Uses (version 2.0)” dated 7th December 2020 [^c24378451] ”.
 
-### 46. United Kingdom-Crown Dependencies Customs Union: Modifications[^key-6962043d2ffcb405a1c5935d46d7d9d6]
+### 46. United Kingdom-Crown Dependencies Customs Union: Modifications[^c-6962043d2ffcb405a1c5935d46d7d9d6]
 
 The provisions of the Act and of these Regulations that are referred to in Schedule 4 have effect, in respect of customs matters to which these Regulations apply, as modified by that Schedule.
 
@@ -968,18 +968,18 @@ Regulations 9 and 17
 
 ### Part A — First Come, First Served quota conditions
 
-**1.**[^key-2900480ac4668a790a186b35167a318b] For the purposes of regulation 9(1)(c), goods qualify as quota goods in relation to any quota number specified in the following paragraphs of this Part, if those goods are of a description set out in those paragraphs for the quota number concerned.
+**1.**[^c-2900480ac4668a790a186b35167a318b] For the purposes of regulation 9(1)(c), goods qualify as quota goods in relation to any quota number specified in the following paragraphs of this Part, if those goods are of a description set out in those paragraphs for the quota number concerned.
 
-**2.**[^key-939b68f10a1be9b45e9d3c47fc3ebcb5] For goods under quota number 05.0118, the goods are—
+**2.**[^c-939b68f10a1be9b45e9d3c47fc3ebcb5] For goods under quota number 05.0118, the goods are—
 
 - (a) “boneless loins”: loins and cuts thereof, without tenderloin, with or without subcutaneous fat or rind; or
 - (b) “tenderloin”: cuts including the meats of muscles *musculus major psoas* and *musculus minor psoas*, with or without head, trimmed or not trimmed.
 
-**3.**[^key-aff33bc2501eba1a52648712f7ccc571] For goods under quota number 05.2201—
+**3.**[^c-aff33bc2501eba1a52648712f7ccc571] For goods under quota number 05.2201—
 
 - (a) the goods must be accompanied by a certificate of authenticity issued by one of the responsible authorities listed in paragraph (b) which is the responsible authority for the goods concerned;
 - (b) the responsible authorities are—
-  - (i)[^key-724d94e8d9aada802ca1c6615a2474df] the Australian Government Department of Agriculture;
+  - (i)[^c-724d94e8d9aada802ca1c6615a2474df] the Australian Government Department of Agriculture;
   - (ii) the Food Safety and Inspection Service (FSIS) of the United States Department of Agriculture (USDA);
   - (iii) the Canadian Food Inspection Agency (CFIA);
   - (iv) the Ministry of Agriculture and Forestry, New Zealand;
@@ -991,20 +991,20 @@ Regulations 9 and 17
   - (iii) the carcass from which beef cuts are derived have been evaluated by a person employed by the national government of the responsible authority who has based the evaluation, and the resulting classification of the carcass, on a method approved by that government;
 - (d) the method referred to in sub-paragraph (c)(iii), and the classification, must evaluate expected carcass quality using a combination of carcass maturity and palatability traits of the beef cuts and must include, but not be limited to, an evaluation of the maturity characteristics of colour and texture of the *longissimus dorsi* muscle and bone and cartilage ossification, as well as an evaluation of expected palatability traits including a combination of the discrete specifications of intramuscular fat and firmness of the *longissimus dorsi* muscle.
 
-**4.**[^key-09863da2da8d35dc5bb033149b718d2a] For goods under quota number 05.0130, the goods are of a kind used for human consumption, in immediate packings of a net content not exceeding 28kg, either fresh and whole or without skin and frozen, whether or not sliced.
+**4.**[^c-09863da2da8d35dc5bb033149b718d2a] For goods under quota number 05.0130, the goods are of a kind used for human consumption, in immediate packings of a net content not exceeding 28kg, either fresh and whole or without skin and frozen, whether or not sliced.
 
-**5.**[^key-bc68c2804fc9b3c8556c7dc698b10cc4] For goods under quota number 05.0027, the goods are citrus hybrids known as ‘minneolas’.
+**5.**[^c-bc68c2804fc9b3c8556c7dc698b10cc4] For goods under quota number 05.0027, the goods are citrus hybrids known as ‘minneolas’.
 
-**6.**[^key-51d1a9128d3eaa9bec4ebc668638e675] For goods under quota number 05.0076, the goods must meet the following criteria—
+**6.**[^c-51d1a9128d3eaa9bec4ebc668638e675] For goods under quota number 05.0076, the goods must meet the following criteria—
 
 - (a) specific weight: minimum 60.5kg/hl;
 - (b) damaged grains: maximum 1%;
 - (c) moisture content: maximum 13.5%;
 - (d) sound and fair merchantable barley grains: minimum 96%.
 
-**7.**[^key-85785f91effb0119199a8043bce77d79] For goods under quota number 05.0008, the goods must be intended for the canning industry.
+**7.**[^c-85785f91effb0119199a8043bce77d79] For goods under quota number 05.0008, the goods must be intended for the canning industry.
 
-**8.**[^key-f8ed54a1f43d98c0cffe278ae6bfa1f6] (1) For goods under quota number 05.0144—
+**8.**[^c-f8ed54a1f43d98c0cffe278ae6bfa1f6] (1) For goods under quota number 05.0144—
 
 - (a) the goods are meat intended for the manufacture of preserved food which does not contain characteristic components other than beef and jelly (A Product); and  “**A-product**” means a processed product falling within the commodity code 1602 10, 16025031 or 16025095, not containing meat other than that of animals of the bovine species, with a collagen/protein ratio of no more than 0.45 and containing by weight at least 20% of lean meat excluding offal and fat with meat and jelly accounting for at least 85% of the total net weight;
 - (b) the collagen content must be considered to be the hydroxyproline content multiplied by the factor 8; and the hydroxyproline content must be determined according to ISO method 3496-1994; and
@@ -1012,49 +1012,49 @@ Regulations 9 and 17
 
 (2) In sub-paragraph (1)(a), “**offal**” includes the following: heads and cuts thereof (including ears), feet, tails, hearts, udders, livers, kidneys, sweetbreads (thymus glands), pancreas, brains, lungs, throats, thick skirts, spleens, tongues, caul, spinal cords, edible skin, reproductive organs (uteri, ovaries and testes), thyroid glands and pituitary glands.
 
-**9.**[^key-9bf2c25a512db7e5bf64de4469ad457b] For goods under quota number 05.0145—
+**9.**[^c-9bf2c25a512db7e5bf64de4469ad457b] For goods under quota number 05.0145—
 
 - (a) the goods are meat intended for the manufacture of products other than the preserved food covered by quota 05.0144 (B Product); and (subject to paragraph (b)), “**B Product**” means a processed product containing beef other than products falling within the commodity codes 02010000, 02020000, 02061095, 02062991, 02102000, 02109951, 02109990, 16021000, 16025010, 16025031, 16025095 and 16029061;
 - (b) a processed product falling within the commodity code 02102090 which has been dried or smoked so that the colour and consistency of the fresh meat has totally disappeared and with a water/protein ratio not exceeding 3:2 must be considered to be a B-product.
 
 ### PART B — Licensed quota conditions
 
-**1.**[^key-1737a1c52ab160d01dbc7dc31334f625] For the purposes of regulation 17(1)(c), goods qualify as quota goods in relation to any quota number specified in the following paragraphs of this Part, if those goods are of a description set out in those paragraphs for the quota number concerned.
+**1.**[^c-1737a1c52ab160d01dbc7dc31334f625] For the purposes of regulation 17(1)(c), goods qualify as quota goods in relation to any quota number specified in the following paragraphs of this Part, if those goods are of a description set out in those paragraphs for the quota number concerned.
 
-**2.**[^key-9ae63c23899cab3fc2291859d6d159f3] For quota numbers 05.4450, 05.4451, 05.4452, 05.4002, 05.4454, 05.4453, 05.4003 and 05.4001, meat imported as “**frozen meat**” means meat with an internal temperature of –12°C or lower when it enters the United Kingdom.
+**2.**[^c-9ae63c23899cab3fc2291859d6d159f3] For quota numbers 05.4450, 05.4451, 05.4452, 05.4002, 05.4454, 05.4453, 05.4003 and 05.4001, meat imported as “**frozen meat**” means meat with an internal temperature of –12°C or lower when it enters the United Kingdom.
 
-**3.**[^key-2d61043b375675bede3a78ce0eb05723] For quota number 05.4450, the goods must be accompanied by a certificate of authenticity issued by the Secretariat of Government of Agroindustry of the Ministry of Production and Labor of the Argentine Republic (SAGPyA) certifying that—
+**3.**[^c-2d61043b375675bede3a78ce0eb05723] For quota number 05.4450, the goods must be accompanied by a certificate of authenticity issued by the Secretariat of Government of Agroindustry of the Ministry of Production and Labor of the Argentine Republic (SAGPyA) certifying that—
 
 - (a) the goods are high quality meat, with or without bone, and selected beef cuts obtained from steers, young steers or heifers having been exclusively fed through pasture grazing since their weaning; and
 - (b) steer carcasses have been classified as “JJ”, “J”, ‘U’ or “U2” and young steer and heifer carcasses have been classified as “AA”, “A” or “B” in accordance with SAGPyA's beef classification categories.
 
-**4.**[^key-d40c1c059eb594dc6b7d552c91c20bde] For quota number 05.4451, the goods must be accompanied by a certificate of authenticity issued by the Australian Government Department of Agriculture[^key-f3d7a38b0cfc1185556a24d3cba026ef] certifying that—
+**4.**[^c-d40c1c059eb594dc6b7d552c91c20bde] For quota number 05.4451, the goods must be accompanied by a certificate of authenticity issued by the Australian Government Department of Agriculture[^c-f3d7a38b0cfc1185556a24d3cba026ef] certifying that—
 
 - (a) the goods are high quality meat, with or without bone, and selected cuts obtained from steer or heifer carcasses which have been classified under one of the categories “Y”, “YS”, “YG”, “YGS”, “YP” or “YPS” in accordance with the carcass classification categories established by AUS-MEAT; and
 - (b) beef colour conforms to AUS-MEAT meat colour reference standards 1 B to 4, fat colour to AUS-MEAT fat colour reference standards 0 to 4 and fat depth to AUS-MEAT fat classes 2 to 5.
 
-**5.**[^key-180a6897369b1f176ec5190d38e18a09] For quota numbers 05.4452, the goods must be accompanied by a certificate of authenticity issued by the National Institute of Meat of Uruguay (Instituto Nacional de Carnes (“INAC”)) certifying that—
+**5.**[^c-180a6897369b1f176ec5190d38e18a09] For quota numbers 05.4452, the goods must be accompanied by a certificate of authenticity issued by the National Institute of Meat of Uruguay (Instituto Nacional de Carnes (“INAC”)) certifying that—
 
 - (a) the goods are high quality meat, with or without bone, and selected beef cuts obtained from steers (novillo) or heifers (vaquillona) as defined by the carcass classification categories of bovine meat established by INAC;
 - (b) the eligible animals for production of High Quality Beef have been exclusively fed through pasture grazing since their weaning; and
 - (c) the carcasses have been classified as “I”, “N” or “A”, with fat cover “1”, “2” or “3” in accordance with the carcass classification categories established by INAC.
 
-**6.**[^key-aa30fce7fc44763261c5cda2565eac38] For quota number 05.4002, the goods must be accompanied by a certificate of authenticity issued by the responsible authority referred to in paragraph (a) or (b) certifying that the goods are high quality meat, with or without bone, and carcasses or any cuts obtained from bovine animals not over 30 months of age which have been fed for 100 days or more on nutritionally balanced, high-energy-content rations containing not less than 70% grain and comprising at least 20 pounds total feed per day and—
+**6.**[^c-aa30fce7fc44763261c5cda2565eac38] For quota number 05.4002, the goods must be accompanied by a certificate of authenticity issued by the responsible authority referred to in paragraph (a) or (b) certifying that the goods are high quality meat, with or without bone, and carcasses or any cuts obtained from bovine animals not over 30 months of age which have been fed for 100 days or more on nutritionally balanced, high-energy-content rations containing not less than 70% grain and comprising at least 20 pounds total feed per day and—
 
 - (a) beef graded “choice” or “prime” according to a certificate of authenticity issued by the United States Department of Agriculture (USDA) standards meets this condition;
 - (b) meat graded “Canada A”, “Canada AA”, “Canada AAA”, “Canada Choice” and “Canada Prime”, “A1”, “A2”, “A3” or “A4”, according to a certificate of authenticity issued by the Canadian Food Inspection Agency, Government of Canada, meets this condition.
 
-**7.**[^key-5cf5e47296a9e56b1359c9be093d1ff2] For quota number 05.4454, the goods must be accompanied by a certificate of authenticity issued by the New Zealand Meat Board certifying that—
+**7.**[^c-5cf5e47296a9e56b1359c9be093d1ff2] For quota number 05.4454, the goods must be accompanied by a certificate of authenticity issued by the New Zealand Meat Board certifying that—
 
 - (a) the goods are high quality meat, with or without bone, and selected beef cuts derived from exclusively pasture grazed steers or heifers, the carcasses of which have a dressed weight of not more than 370kg; and
 - (b) the carcasses have been classified as “A”, “L”, “P”, “T” or “F”, trimmed to a fat depth of “P” or lower and have a muscling classification of “1” or “2” according to the carcass classification system administered by the New Zealand Meat Board.
 
-**8.**[^key-3f5b34b55388fb1360d509b8520db722] For quota number 05.4453, the goods must be accompanied by a certificate of authenticity issued by the Ministry of Agriculture, Livestock and Supply in Brazil (Ministério da Agricultura, Pecuária e Abastecimento) certifying that—
+**8.**[^c-3f5b34b55388fb1360d509b8520db722] For quota number 05.4453, the goods must be accompanied by a certificate of authenticity issued by the Ministry of Agriculture, Livestock and Supply in Brazil (Ministério da Agricultura, Pecuária e Abastecimento) certifying that—
 
 - (a) the goods are high quality meat and selected cuts obtained from steers or heifers having been exclusively fed with pasture grass since their weaning; and
 - (b) the carcasses have been classified as “B” with fat cover “2” or “3” according to the beef carcass classification established by the Ministry of Agriculture, Livestock and Supply in Brazil.
 
-**9.**[^key-bb9eaac8bce8eeac62af11b45d31acff] For quota number 05.4001, the goods are boneless buffalo meat.
+**9.**[^c-bb9eaac8bce8eeac62af11b45d31acff] For quota number 05.4001, the goods are boneless buffalo meat.
 
 **10.**[^M_I_eae0269d-4cc8-4355-cec2-5a72ed45b4b6] For quota numbers 05.4038 and 05.4170, the goods are—
 
@@ -1072,7 +1072,7 @@ Regulations 9 and 17
 
 (2) In sub-paragraph (1)(a) “**at least six weeks old**” means at least six weeks old on the date on which the goods are declared for a customs procedure.
 
-**13.**[^key-3134df472303eadcf4ae11ebbc80e563] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-3134df472303eadcf4ae11ebbc80e563] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.**[^M_I_0ea09c0c-723c-4bbd-cf8d-9c03ab408efa] For quota number 05.4513, the goods are Cheddar made from unpasteurised milk, of a fat content of 50% or more, by weight, in the dry matter, matured for at least nine months, with a value per 100kg net, of not less than—
 
@@ -1088,15 +1088,15 @@ Regulations 9 and 17
 
 **17.**[^M_I_2b9513ab-0fa4-4ee2-85ac-39352ae6f180] For quota numbers 05.4259 and 05.4265, the goods are processed duck, geese, guinea fowl meat, cooked, containing less than 25% by weight of poultry meat or offal.
 
-**18.**[^key-9a34ea99c4b7d3dd50fea6f72f188f2f] For quota numbers 05.4211, 05.4217, 05.4251, 05.4214, 05.4252, the goods must be accompanied by an export certificate issued by the Ministry of Development, Industry, Trade and Services in Brazil certifying that the goods originate from Brazil.
+**18.**[^c-9a34ea99c4b7d3dd50fea6f72f188f2f] For quota numbers 05.4211, 05.4217, 05.4251, 05.4214, 05.4252, the goods must be accompanied by an export certificate issued by the Ministry of Development, Industry, Trade and Services in Brazil certifying that the goods originate from Brazil.
 
-**19.**[^key-30a8ee54accbfd405379e91d526b45f9] For quota number 05.4318, the goods must be accompanied by an export certificate issued by the Ministry of Development, Industry, Trade and Services in Brazil certifying that the goods originate from Brazil.
+**19.**[^c-30a8ee54accbfd405379e91d526b45f9] For quota number 05.4318, the goods must be accompanied by an export certificate issued by the Ministry of Development, Industry, Trade and Services in Brazil certifying that the goods originate from Brazil.
 
-## SCHEDULE 2 — Licensing Table[^key-a2869f7fca6411edfa4bbff1aabcba52]
+## SCHEDULE 2 — Licensing Table[^c-a2869f7fca6411edfa4bbff1aabcba52]
 
 Regulation 21
 
-### Part A: quotas listed in the Quota Table[^key-c03701aef72bd980f55212ef19eba705][^key-03f7b4393a5982ce09c2e0b88a176af7]
+### Part A: quotas listed in the Quota Table[^c-c03701aef72bd980f55212ef19eba705][^c-03f7b4393a5982ce09c2e0b88a176af7]
 
 <table>
 <thead>
@@ -1197,9 +1197,9 @@ Regulation 21
 </tbody>
 </table>
 
-[^f01000][^f01001][^f01002][^f01003][^f01004][^f01005][^f01006][^f01007][^f01008][^f01004][^f01009][^f01009][^f01010][^f01010][^f01010][^f01011][^f01012][^f01013][^f01014][^f01009][^f01009][^f01009][^f01009][^f01009][^f01009][^f01009][^f01009][^f01009][^key-887a314d48e35678a83beac173b83075][^key-887a314d48e35678a83beac173b83075][^key-887a314d48e35678a83beac173b83075][^key-887a314d48e35678a83beac173b83075][^f01009][^f01009][^key-585058bc3e35d397b57dfb56518ed85c][^key-585058bc3e35d397b57dfb56518ed85c][^key-585058bc3e35d397b57dfb56518ed85c][^key-585058bc3e35d397b57dfb56518ed85c][^f01015][^f01004][^f01004]
+[^f01000][^f01001][^f01002][^f01003][^f01004][^f01005][^f01006][^f01007][^f01008][^f01004][^f01009][^f01009][^f01010][^f01010][^f01010][^f01011][^f01012][^f01013][^f01014][^f01009][^f01009][^f01009][^f01009][^f01009][^f01009][^f01009][^f01009][^f01009][^c-887a314d48e35678a83beac173b83075][^c-887a314d48e35678a83beac173b83075][^c-887a314d48e35678a83beac173b83075][^c-887a314d48e35678a83beac173b83075][^f01009][^f01009][^c-585058bc3e35d397b57dfb56518ed85c][^c-585058bc3e35d397b57dfb56518ed85c][^c-585058bc3e35d397b57dfb56518ed85c][^c-585058bc3e35d397b57dfb56518ed85c][^f01015][^f01004][^f01004]
 
-### Part B: preferential quotas[^key-4f30b566c0f2e2540b07a07a34e6fe0c]
+### Part B: preferential quotas[^c-4f30b566c0f2e2540b07a07a34e6fe0c]
 
 <table>
 <tfoot>
@@ -1254,9 +1254,9 @@ Regulation 21
 </tbody>
 </table>
 
-[^key-cdb6cb8e174c543c3bab8d571f891d9a][^key-b0e35e27f31a150e4e01992b182e9a8e][^key-f7fae61abcc68740488e524dce7d9b0c][^key-85c02f3cf2954a03f1d58ce8d4aa8676][^key-5957325eae7d081d0b4ccdc0eb4f90dd][^key-9c2d374ebbf973d2c8f08f657c5f9ee3][^key-52651ba1e2d37d87e578e36920215e65][^key-52651ba1e2d37d87e578e36920215e65][^key-52651ba1e2d37d87e578e36920215e65][^key-52651ba1e2d37d87e578e36920215e65]
+[^c-cdb6cb8e174c543c3bab8d571f891d9a][^c-b0e35e27f31a150e4e01992b182e9a8e][^c-f7fae61abcc68740488e524dce7d9b0c][^c-85c02f3cf2954a03f1d58ce8d4aa8676][^c-5957325eae7d081d0b4ccdc0eb4f90dd][^c-9c2d374ebbf973d2c8f08f657c5f9ee3][^c-52651ba1e2d37d87e578e36920215e65][^c-52651ba1e2d37d87e578e36920215e65][^c-52651ba1e2d37d87e578e36920215e65][^c-52651ba1e2d37d87e578e36920215e65]
 
-## SCHEDULE 3 — Proof of Trade Table[^key-ab12cba4b05fa9f086a4e6c9d5643fb5]
+## SCHEDULE 3 — Proof of Trade Table[^c-ab12cba4b05fa9f086a4e6c9d5643fb5]
 
 Regulation 29
 
@@ -1267,7 +1267,7 @@ Regulation 29
 | Sugar | 1212 91, 1212 93, 1701, 1702 20, 1702 60 95, 1702 90 71, 1702 90 95, 2106 90 59, 1702 30 10, 1702 40 10, 1702 60 10, 1702 90 30, 1702 60 80, 1702 90 80, 1703, 2106 90 30 and 2303 20. |
 | Fruit and vegetables | 0702, 0703, 0704, 0705, 0706, 0707, 0708, 0709 20, 0709 30, 0709 40, 0709 51, 0709 59, 0709 60 10, 0709 70, 0709 91, 0709 92 90, 0709 93, 0709 99 10, 0709 99 20, 0709 99 40, 0709 99 50, 0709 99 90, 0802 11, 0802 12, 0802 21, 0802 22, 0802 31, 0802 32, 0802 41, 0802 32, 0802 51, 0802 52, 0802 61, 0802 62, 0802 90, 0803 10 10, 0803 10 90, 0804 20 10, 0804 30, 0804 40, 0804 50, 0805, 0806 10 10, 0807, 0808, 0809, 0810, 0813 50 31, 0813 50 39, 0910 20, 0910 99, 1211 90 86 and 1212 92. |
 | Beef and veal | 0102 29, 0102 39 10, 0102 90 91, 0201, 0202, 0206 10 95, 0206 29 91, 0210 20, 0210 99 51, 0210 99 90, 1602 50 10, 1602 90 61, 0102 21, 0102 31, 0102 90 20, 0206 10 98, 0206 21 00, 0206 22 00, 0206 29 99, 0210 99 59, 1502 10 90, 1602 50 31, 1602 50 95 and 1602 90 69. |
-| Milk and milk products | 0401, 0402, 0403 10 11, 0403 10 13, 0403 10 19, 0403 10 31, 0403 10 33, 0403 10 39, 0403 90 11, 0403 90 11, 0403 90 13, 0403 90 19, 0403 90 31, 0403 90 33, 0403 90 39, 0403 90 51, 0403 90 53, 0403 90 59, 0403 90 61, 0403 90 63, 0403 90 69, 0404, 0405 10, 0405 20 90, 0405 90[^key-4f6ef7af64e66dd77e34ff5b055106c7], 0406, 1702 19, 2106 90 51, 2309 10 15, 2309 10 19, 2309 10 39, 2309 10 59, 2309 10 70, 2309 90 35, 2309 90 39, 2309 90 49, 2309 90 59 and 2309 90 70. |
+| Milk and milk products | 0401, 0402, 0403 10 11, 0403 10 13, 0403 10 19, 0403 10 31, 0403 10 33, 0403 10 39, 0403 90 11, 0403 90 11, 0403 90 13, 0403 90 19, 0403 90 31, 0403 90 33, 0403 90 39, 0403 90 51, 0403 90 53, 0403 90 59, 0403 90 61, 0403 90 63, 0403 90 69, 0404, 0405 10, 0405 20 90, 0405 90[^c-4f6ef7af64e66dd77e34ff5b055106c7], 0406, 1702 19, 2106 90 51, 2309 10 15, 2309 10 19, 2309 10 39, 2309 10 59, 2309 10 70, 2309 90 35, 2309 90 39, 2309 90 49, 2309 90 59 and 2309 90 70. |
 | Pigmeat | 0103 91, 0103 92, 0203 11 10, 0203 12 11, 0203 12 19, 0203 19 11, 0203 19 13, 0203 19 15, 0203 19 55, 0203 19 59, 0203 21 10, 0203 22 11, 0203 22 19, 0203 29 11, 0203 29 13, 0203 29 15, 0203 29 55, 0203 29 59, 0206 30 00 10, 0206 41 00 10, 0206 49, 0209 10, 0210 11 11, 0210 11 19, 0210 11 31, 0210 11 39, 0210 12 11, 0210 12 19, 0210 19 10, 0210 19 20, 0210 19 30, 0210 19 40, 0210 19 50, 0210 19 60, 0210 19 70, 0210 19 81, 0210 19 89, 0210 99 41, 0210 99 49, 1501 10, 1501 20, 1601, 1602 10, 1602 20 90, 1602 41 10, 1602 42 10, 1602 49 11, 1602 49 13, 1602 49 15, 1602 49 19, 1602 49 30, 1602 49 50, 1602 90 10, 1602 90 51 and 1902 20 30. |
 | Poultrymeat | 0105, 0207, 0210 99 71, 0210 99 39, 0210 99 79, 0209 90, 1501 90, 1602 20 10, 1602 31, 1602 32 and 1602 390. |
 
@@ -1275,24 +1275,24 @@ Regulation 29
 
 Regulation 46
 
-### 1. Modifications in respect of Crown Dependencies: General[^key-3d0291157088139096c2072ad4f38a10]
+### 1. Modifications in respect of Crown Dependencies: General[^c-3d0291157088139096c2072ad4f38a10]
 
 The provisions of the Act and of these Regulations, as modified by the following paragraphs, have effect in respect of the customs matters covered by this Schedule.
 
-**2.**[^key-af56ceebfb6361ebebb8fbc05d7ee522] In this Schedule, “**the United Kingdom–Crown Dependencies Customs Union**” means, collectively, the customs union arrangements which were specified in the Exchange of Letters and the Arrangements referred to in the following Orders in Council—
+**2.**[^c-af56ceebfb6361ebebb8fbc05d7ee522] In this Schedule, “**the United Kingdom–Crown Dependencies Customs Union**” means, collectively, the customs union arrangements which were specified in the Exchange of Letters and the Arrangements referred to in the following Orders in Council—
 
 - (a) The Crown Dependencies Customs Union (Guernsey) (EU Exit) Order 2019 [^c24378461];
 - (b) The Crown Dependencies Customs Union (Isle of Man) (EU Exit) Order 2019 [^c24378471];
 - (c) The Crown Dependencies Customs Union (Jersey) (EU Exit) Order 2019 [^c24378481].
 
-### 3. Modification of the Act: Crown Dependencies[^key-4e429e4e48c1f62f5d90f31d693124f8]
+### 3. Modification of the Act: Crown Dependencies[^c-4e429e4e48c1f62f5d90f31d693124f8]
 
 The Act is modified as follows—
 
 - (a) for the purposes of section 11 (quotas), references to goods that are subject to a quota are to be read as including goods that are subject to a quota under equivalent provisions of customs legislation that are in force in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey;
 - (b) for the purposes of section 19 (reliefs), the reference to provision for full or partial relief from a liability to import duty is to be read as including provision for full or partial relief under equivalent provisions of customs legislation that are in force in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey.
 
-### 4. Modification of these Regulations: Crown Dependencies[^key-3fa38d1ff0886ca2bde1848ff53fb6e9]
+### 4. Modification of these Regulations: Crown Dependencies[^c-3fa38d1ff0886ca2bde1848ff53fb6e9]
 
 (1) These Regulations are modified in accordance with paragraph 5 where—
 
@@ -1306,7 +1306,7 @@ The Act is modified as follows—
 
 and for these purposes “**quota goods**” means goods which are quota goods for the purposes of Part 3.
 
-**5.**[^key-cd5d19bd3008363597626db2d25eea85] These Regulations are modified as follows—
+**5.**[^c-cd5d19bd3008363597626db2d25eea85] These Regulations are modified as follows—
 
 - (a) references to goods that are “subject to a quota” by virtue of these Regulations are to be read as including goods that are subject to a quota in any territory within the United Kingdom-Crown Dependencies Customs Union and references elsewhere in these Regulations to “quota duty rate”, “quota goods”, “quota number”, “quota period” “Quota Table” and “quota volume” are to be construed accordingly;
 - (b) references in these Regulations to “the Customs PTA Regulations” are to be read as references to those Regulations as modified by Schedule 2 to the Customs PTA Regulations;
@@ -1370,13 +1370,13 @@ This instrument is one of a group of instruments covered by an overarching Tax I
 
 [^c24378281]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Any power of HMRC Commissioners to make regulations under Part 1 of the Act is exercisable concurrently by the Treasury by virtue of section 32(13) of the Act.
 
-[^key-e39e87de8027ef25daaf5493108d23d5]: Modification: Regulations applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1605/regulation/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-e39e87de8027ef25daaf5493108d23d5]: Modification: Regulations applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1605/regulation/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-a36e39e2c745debb6e37eaba3c34e449]: Modification: Regulations applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1605/regulation/13); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a36e39e2c745debb6e37eaba3c34e449]: Modification: Regulations applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1605/regulation/13); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9a071b46710e3c34544d8e84bcb991fa]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9a071b46710e3c34544d8e84bcb991fa]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-dcb0d920839b2099b2424c28bd69b8aa]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-dcb0d920839b2099b2424c28bd69b8aa]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378291]: Marginal citation: [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457).
 
@@ -1384,53 +1384,53 @@ This instrument is one of a group of instruments covered by an overarching Tax I
 
 [^c24378311]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248), to which there are amending instruments which are not relevant.
 
-[^key-6ad585f26d5e88405ad0f432f9b6d38b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/2/1) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/703/regulation/3/3)
+[^c-6ad585f26d5e88405ad0f432f9b6d38b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/2/1) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2026/703/regulation/3/3)
 
-[^key-59e2224eca53c97e4343048cee1854d3]: Textual amendment: Words in reg. 2(1) inserted (1.7.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/693)](https://www.legislation.gov.uk/uksi/2021/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/693/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/693/regulation/2/2/a)
+[^c-59e2224eca53c97e4343048cee1854d3]: Textual amendment: Words in reg. 2(1) inserted (1.7.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/693)](https://www.legislation.gov.uk/uksi/2021/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/693/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/693/regulation/2/2/a)
 
-[^key-f5d5e89a33b505452f8a3650dffdedb3]: Textual amendment: Words in reg. 2(1) inserted (1.7.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/693)](https://www.legislation.gov.uk/uksi/2021/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/693/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/693/regulation/2/2/b)
+[^c-f5d5e89a33b505452f8a3650dffdedb3]: Textual amendment: Words in reg. 2(1) inserted (1.7.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/693)](https://www.legislation.gov.uk/uksi/2021/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/693/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/693/regulation/2/2/b)
 
-[^key-fa1efeaa4599612bfc8dd37621260d44]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/2/1) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/703/regulation/3/2)
+[^c-fa1efeaa4599612bfc8dd37621260d44]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/2/1) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2026/703/regulation/3/2)
 
-[^key-dd60530bdfe74b06bd35bcfcfe1e41d1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/2/1) substituted (1.10.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 6) Regulations 2026 (S.I. 2026/984)](https://www.legislation.gov.uk/uksi/2026/984), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/984/regulation/1/2/b), [7](https://www.legislation.gov.uk/uksi/2026/984/regulation/7)
+[^c-dd60530bdfe74b06bd35bcfcfe1e41d1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/2/1) substituted (1.10.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 6) Regulations 2026 (S.I. 2026/984)](https://www.legislation.gov.uk/uksi/2026/984), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/984/regulation/1/2/b), [7](https://www.legislation.gov.uk/uksi/2026/984/regulation/7)
 
 [^c24378331]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
 [^c24378341]: Marginal citation: [S.I. 2020/1430](https://www.legislation.gov.uk/uksi/2020/1430).
 
-[^key-fbcfd552c62b86faf06039bdb24da76a]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-fbcfd552c62b86faf06039bdb24da76a]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-966fef3b2cf10bdcdddf412695a9067f]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-966fef3b2cf10bdcdddf412695a9067f]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-198996b5e9c53113290678a95b21aca9]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-198996b5e9c53113290678a95b21aca9]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-8a584b28d896378d8d0d7c974eaae652]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-8a584b28d896378d8d0d7c974eaae652]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-6fe3cb155e13650dbe3ecbcc609c5c92]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/2) omitted (18.3.2022) by virtue of [The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174)](https://www.legislation.gov.uk/uksi/2022/174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/174/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2022/174/regulation/3/3/a)
+[^c-6fe3cb155e13650dbe3ecbcc609c5c92]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/2) omitted (18.3.2022) by virtue of [The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174)](https://www.legislation.gov.uk/uksi/2022/174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/174/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2022/174/regulation/3/3/a)
 
-[^key-ef682041c2b89379b002e58413387431]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/2A) inserted (1.7.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/693)](https://www.legislation.gov.uk/uksi/2021/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/693/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/693/regulation/2/3)
+[^c-ef682041c2b89379b002e58413387431]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/2A) inserted (1.7.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/693)](https://www.legislation.gov.uk/uksi/2021/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/693/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/693/regulation/2/3)
 
-[^key-13d593c01ec7570bf5c1ee2e19c17ae6]: Textual amendment: Words in [reg. 6(2A)(a)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/2A/a) substituted (1.1.2023) by [The Customs (Tariff Quotas) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1283)](https://www.legislation.gov.uk/uksi/2022/1283), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1283/regulation/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/1283/regulation/2/3/a)
+[^c-13d593c01ec7570bf5c1ee2e19c17ae6]: Textual amendment: Words in [reg. 6(2A)(a)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/2A/a) substituted (1.1.2023) by [The Customs (Tariff Quotas) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1283)](https://www.legislation.gov.uk/uksi/2022/1283), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1283/regulation/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/1283/regulation/2/3/a)
 
-[^key-5bb958d6238c59aca41496132667de0d]: Textual amendment: Words in [reg. 6(2A)(a)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/2A/a) substituted (17.11.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/3)
+[^c-5bb958d6238c59aca41496132667de0d]: Textual amendment: Words in [reg. 6(2A)(a)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/2A/a) substituted (17.11.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/3)
 
-[^key-7ed12ea4f9d1e0518056ef9ff738a204]: Textual amendment: [Reg. 6(2B)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/2B) inserted (1.1.2023) by [The Customs (Tariff Quotas) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1283)](https://www.legislation.gov.uk/uksi/2022/1283), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1283/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/1283/regulation/2/3/b)
+[^c-7ed12ea4f9d1e0518056ef9ff738a204]: Textual amendment: [Reg. 6(2B)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/2B) inserted (1.1.2023) by [The Customs (Tariff Quotas) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1283)](https://www.legislation.gov.uk/uksi/2022/1283), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1283/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/1283/regulation/2/3/b)
 
-[^key-ec3154840e804fa46d6db856f5a35f41]: Textual amendment: Words in [reg. 6(2B)(b)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/2B/b) inserted (27.4.2025) by [The Customs (Tariff and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/417)](https://www.legislation.gov.uk/uksi/2025/417), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/417/regulation/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2025/417/regulation/5/3)
+[^c-ec3154840e804fa46d6db856f5a35f41]: Textual amendment: Words in [reg. 6(2B)(b)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/2B/b) inserted (27.4.2025) by [The Customs (Tariff and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/417)](https://www.legislation.gov.uk/uksi/2025/417), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/417/regulation/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2025/417/regulation/5/3)
 
-[^key-67e1bd8985f95cc4c7c1615715eaddca]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/3) omitted (18.3.2022) by virtue of [The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174)](https://www.legislation.gov.uk/uksi/2022/174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/174/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/174/regulation/3/3/b)
+[^c-67e1bd8985f95cc4c7c1615715eaddca]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/3) omitted (18.3.2022) by virtue of [The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174)](https://www.legislation.gov.uk/uksi/2022/174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/174/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/174/regulation/3/3/b)
 
-[^key-aa2e83335b3d2861e96aa122eb0825f8]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/4) omitted (18.3.2022) by virtue of [The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174)](https://www.legislation.gov.uk/uksi/2022/174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/174/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/174/regulation/3/3/b)
+[^c-aa2e83335b3d2861e96aa122eb0825f8]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/6/4) omitted (18.3.2022) by virtue of [The Customs Tariff (Preferential Trade and Tariff Quotas) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/174)](https://www.legislation.gov.uk/uksi/2022/174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/174/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/174/regulation/3/3/b)
 
-[^key-542d9a3a22548d1a32aa019895289e4f]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-542d9a3a22548d1a32aa019895289e4f]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-a326fec480a9026552bc3bfe05f9c2fe]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a326fec480a9026552bc3bfe05f9c2fe]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-ad926479322719e2cbb8e12191bf943e]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-ad926479322719e2cbb8e12191bf943e]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-ee6ea87984d7fe0b37c12f67ecd36c48]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/9/1) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2026/703/regulation/4/2)
+[^c-ee6ea87984d7fe0b37c12f67ecd36c48]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/9/1) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2026/703/regulation/4/2)
 
-[^key-2deee4ce5af0f2c443ffa3c25ddd7e3f]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/9/1A)[(1B)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/9/1B) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2026/703/regulation/4/3)
+[^c-2deee4ce5af0f2c443ffa3c25ddd7e3f]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/9/1A)[(1B)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/9/1B) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2026/703/regulation/4/3)
 
 [^c24378351]: Marginal citation: “The free-circulation procedure” is defined in section 3 of the Act.
 
@@ -1438,201 +1438,201 @@ This instrument is one of a group of instruments covered by an overarching Tax I
 
 [^c24378371]: Marginal citation: “**Direct EU legislation**” has the meaning given in section 3(2) of the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-a8b9a21834debd61aee52c63319d1f6b]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a8b9a21834debd61aee52c63319d1f6b]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-0b5d12b875da0894c18e2f3a017eea42]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-0b5d12b875da0894c18e2f3a017eea42]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9d23c2725ed181d3c4c6ac917bb27d42]: Commencement: Reg. 12 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9d23c2725ed181d3c4c6ac917bb27d42]: Commencement: Reg. 12 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-16915ff738168e3833d895ec27558717]: Textual amendment: [Reg. 12(9)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/12/9) inserted (1.1.2023) by [The Customs (Tariff Quotas) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1283)](https://www.legislation.gov.uk/uksi/2022/1283), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1283/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2022/1283/regulation/2/4)
+[^c-16915ff738168e3833d895ec27558717]: Textual amendment: [Reg. 12(9)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/12/9) inserted (1.1.2023) by [The Customs (Tariff Quotas) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1283)](https://www.legislation.gov.uk/uksi/2022/1283), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1283/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2022/1283/regulation/2/4)
 
-[^key-a83a6055215804f4e908ca8404781e0b]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a83a6055215804f4e908ca8404781e0b]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-fd873960a44ec9cb9bd093398db0fc5b]: Commencement: Reg. 14 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-fd873960a44ec9cb9bd093398db0fc5b]: Commencement: Reg. 14 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-94dc355226910e69d2957f26f88f6b2f]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/2) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/2/a)
+[^c-94dc355226910e69d2957f26f88f6b2f]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/2) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/2/a)
 
-[^key-3c44b19efd88a75afecaaf0f7413da47]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/2) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/2/b)
+[^c-3c44b19efd88a75afecaaf0f7413da47]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/2) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/2/b)
 
-[^key-253f40a4e5f372fea4d81683b34cf3c4]: Textual amendment: Word in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/2) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/2/c)
+[^c-253f40a4e5f372fea4d81683b34cf3c4]: Textual amendment: Word in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/2) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/2/c)
 
-[^key-5fb93d2e90fc9922032a6d7082459164]: Textual amendment: [Reg. 14(2A)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/2A) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/3)
+[^c-5fb93d2e90fc9922032a6d7082459164]: Textual amendment: [Reg. 14(2A)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/2A) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/3)
 
-[^key-af595de842daca6a25366763b4f5f889]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/3) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/4/a)
+[^c-af595de842daca6a25366763b4f5f889]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/3) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/4/a)
 
-[^key-e6da5fdeb3d1982d6f834bf31d81ee3d]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/3) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/4/b)
+[^c-e6da5fdeb3d1982d6f834bf31d81ee3d]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/3) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/4/b)
 
-[^key-48da294fa024f4bef9d22d3536539460]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/3) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/4/c)
+[^c-48da294fa024f4bef9d22d3536539460]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/3) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/4/c)
 
-[^key-41d124edf0e5847ea1e73b32a92e30bb]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/4) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/5)
+[^c-41d124edf0e5847ea1e73b32a92e30bb]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/14/4) inserted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2026/703/regulation/5/5)
 
-[^key-c157080a30b2edd7d51339fd883edf68]: Commencement: Reg. 15 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-c157080a30b2edd7d51339fd883edf68]: Commencement: Reg. 15 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-5e2f923af45dfd5fa9287575d65437d8]: Textual amendment: Words in [Pt. 2 Ch. 3](https://www.legislation.gov.uk/uksi/2020/1432/part/2/chapter/3) heading substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/703/regulation/6)
+[^c-5e2f923af45dfd5fa9287575d65437d8]: Textual amendment: Words in [Pt. 2 Ch. 3](https://www.legislation.gov.uk/uksi/2020/1432/part/2/chapter/3) heading substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/703/regulation/6)
 
-[^key-1779e8317bb9b2fcb7d246491b678c0b]: Commencement: Reg. 16 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-1779e8317bb9b2fcb7d246491b678c0b]: Commencement: Reg. 16 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-d3220cfea35bfc376b8b9cd09eab5de4]: Commencement: Reg. 17 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d3220cfea35bfc376b8b9cd09eab5de4]: Commencement: Reg. 17 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-f80584ca716aa1d1be37934446cf189c]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2020/1432/regulation/17) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2026/703/regulation/7)
+[^c-f80584ca716aa1d1be37934446cf189c]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2020/1432/regulation/17) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2026/703/regulation/7)
 
-[^key-0d4dc4fd9b64c53a5f20480571630659]: Commencement: Reg. 18 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-0d4dc4fd9b64c53a5f20480571630659]: Commencement: Reg. 18 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-5515b2bd68d5520d53be2b81f157ee3c]: Textual amendment: Words in [reg. 18(a)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/18/a) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2026/703/regulation/8)
+[^c-5515b2bd68d5520d53be2b81f157ee3c]: Textual amendment: Words in [reg. 18(a)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/18/a) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2026/703/regulation/8)
 
-[^key-38fedd3daa935bfb5b872bf1da054153]: Commencement: Reg. 19 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-38fedd3daa935bfb5b872bf1da054153]: Commencement: Reg. 19 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-90cfeec3cfadcd4b070b72fba529f758]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2020/1432/regulation/19) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2026/703/regulation/9)
+[^c-90cfeec3cfadcd4b070b72fba529f758]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2020/1432/regulation/19) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2026/703/regulation/9)
 
-[^key-431b3b3b9c271852e6942078a1e33280]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2020/1432/part/3) heading substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2026/703/regulation/10)
+[^c-431b3b3b9c271852e6942078a1e33280]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2020/1432/part/3) heading substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2026/703/regulation/10)
 
-[^key-707d5cc0dffbc821ddcb62c6ae412893]: Commencement: Reg. 20 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-707d5cc0dffbc821ddcb62c6ae412893]: Commencement: Reg. 20 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-5e0b5c6c7315e198dac9990406c49b28]: Textual amendment: Words in [reg. 20(a)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/20/a) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2026/703/regulation/11)
+[^c-5e0b5c6c7315e198dac9990406c49b28]: Textual amendment: Words in [reg. 20(a)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/20/a) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2026/703/regulation/11)
 
-[^key-19334e04030436b966beb07176ef6f2f]: Commencement: Reg. 21 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-19334e04030436b966beb07176ef6f2f]: Commencement: Reg. 21 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-96b70b49fc7e07e93057eaab0bfacafa]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/21/1) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/2)
+[^c-96b70b49fc7e07e93057eaab0bfacafa]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/21/1) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/2)
 
-[^key-0ac966405fe63310d7d95a838cad3c94]: Textual amendment: Words in [reg. 21(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/21/2/a/i) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2026/703/regulation/12)
+[^c-0ac966405fe63310d7d95a838cad3c94]: Textual amendment: Words in [reg. 21(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/21/2/a/i) substituted (1.7.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 5) Regulations 2026 (S.I. 2026/703)](https://www.legislation.gov.uk/uksi/2026/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/703/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2026/703/regulation/12)
 
-[^key-6b9db32ecd769e87b073b9eb47642749]: Commencement: Reg. 22 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6b9db32ecd769e87b073b9eb47642749]: Commencement: Reg. 22 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-6854ef148866bb1aeba92d1a8f116219]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6854ef148866bb1aeba92d1a8f116219]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-e45d07e40ca912de2f272b377f44e5d2]: Textual amendment: Word in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/23/3) omitted (17.11.2021) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(4)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/4/a/i)
+[^c-e45d07e40ca912de2f272b377f44e5d2]: Textual amendment: Word in [reg. 23(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/23/3) omitted (17.11.2021) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(4)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/4/a/i)
 
-[^key-04c8050ba431420ffcddbf52fd977293]: Textual amendment: [Reg. 23(3)(b)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/23/3/b) omitted (17.11.2021) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/4/a/ii)
+[^c-04c8050ba431420ffcddbf52fd977293]: Textual amendment: [Reg. 23(3)(b)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/23/3/b) omitted (17.11.2021) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/4/a/ii)
 
-[^key-84aa4404f69dddde5710c7475567f196]: Textual amendment: Word in [reg. 23(5)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/23/5) omitted (17.11.2021) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(4)(b)(i)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/4/b/i)
+[^c-84aa4404f69dddde5710c7475567f196]: Textual amendment: Word in [reg. 23(5)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/23/5) omitted (17.11.2021) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(4)(b)(i)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/4/b/i)
 
-[^key-07e09fc64cbc3d65e90f8a2c7d3fd8e2]: Textual amendment: [Reg. 23(5)(b)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/23/5/b) omitted (17.11.2021) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/4/b/ii)
+[^c-07e09fc64cbc3d65e90f8a2c7d3fd8e2]: Textual amendment: [Reg. 23(5)(b)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/23/5/b) omitted (17.11.2021) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/4/b/ii)
 
-[^key-7c6718b6590d85b5264558859327d964]: Commencement: Reg. 24 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-7c6718b6590d85b5264558859327d964]: Commencement: Reg. 24 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378381]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-9fa59b48497168b3e6b3ed79cdc72a66]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9fa59b48497168b3e6b3ed79cdc72a66]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-2084507e0ed406305cfd4dc833c593dd]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/25/3) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/3/a)
+[^c-2084507e0ed406305cfd4dc833c593dd]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/25/3) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/3/a)
 
-[^key-819f12c6bd210a2e713337435f259c17]: Textual amendment: [Reg. 25(4)(b)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/25/4/b) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/3/b)
+[^c-819f12c6bd210a2e713337435f259c17]: Textual amendment: [Reg. 25(4)(b)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/25/4/b) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/3/b)
 
 [^c24378391]: Marginal citation: EUR 952/2013, as amended by [S.I. 2019/714](https://www.legislation.gov.uk/uksi/2019/714). There are other amendments but none is relevant.
 
 [^c24378401]: Marginal citation: EUR 2015/2446, as amended by [S.I. 2019/714](https://www.legislation.gov.uk/uksi/2019/714) and [S.I. 2019/715](https://www.legislation.gov.uk/uksi/2019/715).
 
-[^key-612b85198924fdf9656485f199cdcd81]: Commencement: Reg. 26 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-612b85198924fdf9656485f199cdcd81]: Commencement: Reg. 26 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-74cd1d8cba0cda12cb7875979c0c254f]: Commencement: Reg. 27 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-74cd1d8cba0cda12cb7875979c0c254f]: Commencement: Reg. 27 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-fa17d0f6888ff9bb28508077311acb30]: Commencement: Reg. 28 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-fa17d0f6888ff9bb28508077311acb30]: Commencement: Reg. 28 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-ea9582a20bbff996c823a1f1075811cb]: Textual amendment: [Reg. 28(4)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/28/4) inserted (17.11.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/5)
+[^c-ea9582a20bbff996c823a1f1075811cb]: Textual amendment: [Reg. 28(4)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/28/4) inserted (17.11.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/5)
 
-[^key-623225aae6d75f9ae689b7c1d681f3b2]: Commencement: Reg. 29 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-623225aae6d75f9ae689b7c1d681f3b2]: Commencement: Reg. 29 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-04056cf48cff8e7c2c1aa9be0330c160]: Textual amendment: Words in [reg. 29(1)(a)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/29/1/a) substituted (14.4.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/382)](https://www.legislation.gov.uk/uksi/2021/382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/382/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/382/regulation/4/2)
+[^c-04056cf48cff8e7c2c1aa9be0330c160]: Textual amendment: Words in [reg. 29(1)(a)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/29/1/a) substituted (14.4.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/382)](https://www.legislation.gov.uk/uksi/2021/382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/382/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2021/382/regulation/4/2)
 
-[^key-25a5e62ec7102930021e82bbcea9cb2a]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/uksi/2020/1432/regulation/29A) inserted (17.11.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/6)
+[^c-25a5e62ec7102930021e82bbcea9cb2a]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/uksi/2020/1432/regulation/29A) inserted (17.11.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/6)
 
-[^key-64ecb2208a48093e2e0aea2a885de87f]: Commencement: Reg. 30 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-64ecb2208a48093e2e0aea2a885de87f]: Commencement: Reg. 30 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-202d88dc8ae6d71a6e1a0751735ec41e]: Commencement: Reg. 31 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-202d88dc8ae6d71a6e1a0751735ec41e]: Commencement: Reg. 31 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-b0289fd4f17d7757a5b5c754e6fad7b4]: Commencement: Reg. 32 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b0289fd4f17d7757a5b5c754e6fad7b4]: Commencement: Reg. 32 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378411]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-7fc8390f36bf1a2771f72a7b481e5d73]: Commencement: Reg. 33 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-7fc8390f36bf1a2771f72a7b481e5d73]: Commencement: Reg. 33 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-4a830ebd9355f612b4795557997ede05]: Textual amendment: [Reg. 33(4)-(6)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/33/4) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/4)
+[^c-4a830ebd9355f612b4795557997ede05]: Textual amendment: [Reg. 33(4)-(6)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/33/4) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/4)
 
-[^key-9468aa22254378488f6d712b39417c05]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9468aa22254378488f6d712b39417c05]: Commencement: Reg. 34 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-af42ba6dfb2b770ba27d14a16a101491]: Commencement: Reg. 35 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-af42ba6dfb2b770ba27d14a16a101491]: Commencement: Reg. 35 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-f104ee6bf675b9bec20333f2ac238da4]: Textual amendment: [Reg. 35(4)(c)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/35/4/c) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(5)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/5)
+[^c-f104ee6bf675b9bec20333f2ac238da4]: Textual amendment: [Reg. 35(4)(c)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/35/4/c) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(5)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/5)
 
-[^key-5f926f162ab66d129bd8128ff023e576]: Commencement: Reg. 36 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-5f926f162ab66d129bd8128ff023e576]: Commencement: Reg. 36 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-777f898ac15388e23338a0dc93f4a8f3]: Textual amendment: Words in [reg. 36(6)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/36/6) inserted (17.11.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(7)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/7)
+[^c-777f898ac15388e23338a0dc93f4a8f3]: Textual amendment: Words in [reg. 36(6)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/36/6) inserted (17.11.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(7)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/7)
 
-[^key-389575022b954d21fe2288a7bd45c908]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2020/1432/regulation/36A) inserted (17.11.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(8)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/8)
+[^c-389575022b954d21fe2288a7bd45c908]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2020/1432/regulation/36A) inserted (17.11.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(8)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/8)
 
-[^key-9da40d20b570344fe9e67c24178f2ff9]: Commencement: Reg. 37 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9da40d20b570344fe9e67c24178f2ff9]: Commencement: Reg. 37 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-d8d297d8b899cc6249527b25e9c37d36]: Commencement: Reg. 38 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d8d297d8b899cc6249527b25e9c37d36]: Commencement: Reg. 38 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-97d22307d5dd330e90ed5f638f3e5489]: Commencement: Reg. 39 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-97d22307d5dd330e90ed5f638f3e5489]: Commencement: Reg. 39 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-e5a0712f608d61be062e34b5ae2b43dc]: Textual amendment: [Reg. 39(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/39/3) inserted (10.5.2022 at 6.00 p.m.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Ukraine) (Amendment) Regulations 2022 (S.I. 2022/525)](https://www.legislation.gov.uk/uksi/2022/525), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/525/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2022/525/regulation/6/2)
+[^c-e5a0712f608d61be062e34b5ae2b43dc]: Textual amendment: [Reg. 39(3)](https://www.legislation.gov.uk/uksi/2020/1432/regulation/39/3) inserted (10.5.2022 at 6.00 p.m.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Ukraine) (Amendment) Regulations 2022 (S.I. 2022/525)](https://www.legislation.gov.uk/uksi/2022/525), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/525/regulation/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2022/525/regulation/6/2)
 
-[^key-2d7f51d659ecd09e1d9477e494e95902]: Commencement: Reg. 40 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2d7f51d659ecd09e1d9477e494e95902]: Commencement: Reg. 40 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-edc70a331bee467b18bbce58cb932c8c]: Commencement: Reg. 41 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-edc70a331bee467b18bbce58cb932c8c]: Commencement: Reg. 41 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-cacd07d13305beaaa752bbf40266e7c2]: Commencement: Reg. 42 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-cacd07d13305beaaa752bbf40266e7c2]: Commencement: Reg. 42 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-6e2174f120016a245476d3aca00951f6]: Commencement: Reg. 43 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6e2174f120016a245476d3aca00951f6]: Commencement: Reg. 43 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-4e45f83ad1b0340c9c74d44c8d29c9c7]: Commencement: Reg. 44 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-4e45f83ad1b0340c9c74d44c8d29c9c7]: Commencement: Reg. 44 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-01aa18d7f586b0d44d542516a2c00604]: Textual amendment: Words in reg. 44(10) substituted (31.12.2020) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657)](https://www.legislation.gov.uk/uksi/2020/1657), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1657/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/1657/regulation/7/a)
+[^c-01aa18d7f586b0d44d542516a2c00604]: Textual amendment: Words in reg. 44(10) substituted (31.12.2020) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657)](https://www.legislation.gov.uk/uksi/2020/1657), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1657/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/1657/regulation/7/a)
 
 [^c24378421]: Marginal citation: OJ No L269, 10.10.2013, p. 1.
 
 [^c24378431]: Marginal citation: OJ No L343, 29.12.2015, p. 1.
 
-[^key-da16ae2471bb3d225ef5667bc915ccc5]: Textual amendment: Reg. 44(10A) inserted (31.12.2020) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657)](https://www.legislation.gov.uk/uksi/2020/1657), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1657/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2020/1657/regulation/7/b)
+[^c-da16ae2471bb3d225ef5667bc915ccc5]: Textual amendment: Reg. 44(10A) inserted (31.12.2020) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657)](https://www.legislation.gov.uk/uksi/2020/1657), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1657/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2020/1657/regulation/7/b)
 
 [^c24378441]: Marginal citation: OJ No L142, 5.6.2007, p. 3. Commission Regulation (EC) No 616/2007 is prospectively repealed by Commission Delegated Regulation (EU) 2020/760 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as it has effect in EU law.
 
-[^key-026e61cbe39809542b29449ca9b1af80]: Commencement: Reg. 45 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-026e61cbe39809542b29449ca9b1af80]: Commencement: Reg. 45 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378451]: Marginal citation: The document entitled “Authorised Use: Eligible Goods and Authorised Uses (version 2.0)” is available at https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021 and a hard copy is available for inspection, free of charge, at the offices of HMRC at 100 Parliament Street, London, SW1A 2BQ.
 
-[^key-6962043d2ffcb405a1c5935d46d7d9d6]: Commencement: Reg. 46 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6962043d2ffcb405a1c5935d46d7d9d6]: Commencement: Reg. 46 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-2900480ac4668a790a186b35167a318b]: Commencement: Sch. 1 Pt. A para. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2900480ac4668a790a186b35167a318b]: Commencement: Sch. 1 Pt. A para. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-939b68f10a1be9b45e9d3c47fc3ebcb5]: Commencement: Sch. 1 Pt. A para. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-939b68f10a1be9b45e9d3c47fc3ebcb5]: Commencement: Sch. 1 Pt. A para. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-aff33bc2501eba1a52648712f7ccc571]: Commencement: Sch. 1 Pt. A para. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-aff33bc2501eba1a52648712f7ccc571]: Commencement: Sch. 1 Pt. A para. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-724d94e8d9aada802ca1c6615a2474df]: Textual amendment: Sch. 1 Pt. A para. 3(b)(i) substituted (31.12.2020) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657)](https://www.legislation.gov.uk/uksi/2020/1657), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1657/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2020/1657/regulation/8/a)
+[^c-724d94e8d9aada802ca1c6615a2474df]: Textual amendment: Sch. 1 Pt. A para. 3(b)(i) substituted (31.12.2020) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657)](https://www.legislation.gov.uk/uksi/2020/1657), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1657/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2020/1657/regulation/8/a)
 
-[^key-09863da2da8d35dc5bb033149b718d2a]: Commencement: Sch. 1 Pt. A para. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-09863da2da8d35dc5bb033149b718d2a]: Commencement: Sch. 1 Pt. A para. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-bc68c2804fc9b3c8556c7dc698b10cc4]: Commencement: Sch. 1 Pt. A para. 5 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-bc68c2804fc9b3c8556c7dc698b10cc4]: Commencement: Sch. 1 Pt. A para. 5 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-51d1a9128d3eaa9bec4ebc668638e675]: Commencement: Sch. 1 Pt. A para. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-51d1a9128d3eaa9bec4ebc668638e675]: Commencement: Sch. 1 Pt. A para. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-85785f91effb0119199a8043bce77d79]: Commencement: Sch. 1 Pt. A para. 7 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-85785f91effb0119199a8043bce77d79]: Commencement: Sch. 1 Pt. A para. 7 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-f8ed54a1f43d98c0cffe278ae6bfa1f6]: Commencement: Sch. 1 Pt. A para. 8 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-f8ed54a1f43d98c0cffe278ae6bfa1f6]: Commencement: Sch. 1 Pt. A para. 8 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9bf2c25a512db7e5bf64de4469ad457b]: Commencement: Sch. 1 Pt. A para. 9 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9bf2c25a512db7e5bf64de4469ad457b]: Commencement: Sch. 1 Pt. A para. 9 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-1737a1c52ab160d01dbc7dc31334f625]: Commencement: Sch. 1 Pt. B para. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-1737a1c52ab160d01dbc7dc31334f625]: Commencement: Sch. 1 Pt. B para. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9ae63c23899cab3fc2291859d6d159f3]: Commencement: Sch. 1 Pt. B para. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9ae63c23899cab3fc2291859d6d159f3]: Commencement: Sch. 1 Pt. B para. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-2d61043b375675bede3a78ce0eb05723]: Commencement: Sch. 1 Pt. B para. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2d61043b375675bede3a78ce0eb05723]: Commencement: Sch. 1 Pt. B para. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-d40c1c059eb594dc6b7d552c91c20bde]: Commencement: Sch. 1 Pt. B para. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d40c1c059eb594dc6b7d552c91c20bde]: Commencement: Sch. 1 Pt. B para. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-f3d7a38b0cfc1185556a24d3cba026ef]: Textual amendment: Words in Sch. 1 Pt. B para. 4 substituted (31.12.2020) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657)](https://www.legislation.gov.uk/uksi/2020/1657), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1657/regulation/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2020/1657/regulation/8/b/i)
+[^c-f3d7a38b0cfc1185556a24d3cba026ef]: Textual amendment: Words in Sch. 1 Pt. B para. 4 substituted (31.12.2020) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657)](https://www.legislation.gov.uk/uksi/2020/1657), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1657/regulation/1), [8(b)(i)](https://www.legislation.gov.uk/uksi/2020/1657/regulation/8/b/i)
 
-[^key-180a6897369b1f176ec5190d38e18a09]: Commencement: Sch. 1 Pt. B para. 5 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-180a6897369b1f176ec5190d38e18a09]: Commencement: Sch. 1 Pt. B para. 5 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-aa30fce7fc44763261c5cda2565eac38]: Commencement: Sch. 1 Pt. B para. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-aa30fce7fc44763261c5cda2565eac38]: Commencement: Sch. 1 Pt. B para. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-5cf5e47296a9e56b1359c9be093d1ff2]: Commencement: Sch. 1 Pt. B para. 7 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-5cf5e47296a9e56b1359c9be093d1ff2]: Commencement: Sch. 1 Pt. B para. 7 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-3f5b34b55388fb1360d509b8520db722]: Commencement: Sch. 1 Pt. B para. 8 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3f5b34b55388fb1360d509b8520db722]: Commencement: Sch. 1 Pt. B para. 8 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-bb9eaac8bce8eeac62af11b45d31acff]: Commencement: Sch. 1 Pt. B para. 9 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-bb9eaac8bce8eeac62af11b45d31acff]: Commencement: Sch. 1 Pt. B para. 9 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^M_I_eae0269d-4cc8-4355-cec2-5a72ed45b4b6]: Commencement: Sch. 1 Pt. B para. 10 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
@@ -1640,7 +1640,7 @@ This instrument is one of a group of instruments covered by an overarching Tax I
 
 [^M_I_5e99933f-d14a-47c1-b644-c7413dcaa17c]: Commencement: Sch. 1 Pt. B para. 12 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-3134df472303eadcf4ae11ebbc80e563]: Textual amendment: [Sch. 1 Pt. B para. 13](https://www.legislation.gov.uk/uksi/2020/1432/schedule/1/part/B/paragraph/13) omitted (10.5.2023) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/433/regulation/3/3)
+[^c-3134df472303eadcf4ae11ebbc80e563]: Textual amendment: [Sch. 1 Pt. B para. 13](https://www.legislation.gov.uk/uksi/2020/1432/schedule/1/part/B/paragraph/13) omitted (10.5.2023) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/433/regulation/3/3)
 
 [^M_I_0ea09c0c-723c-4bbd-cf8d-9c03ab408efa]: Commencement: Sch. 1 Pt. B para. 14 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
@@ -1652,17 +1652,17 @@ This instrument is one of a group of instruments covered by an overarching Tax I
 
 [^M_I_2b9513ab-0fa4-4ee2-85ac-39352ae6f180]: Commencement: Sch. 1 Pt. B para. 17 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9a34ea99c4b7d3dd50fea6f72f188f2f]: Textual amendment: Sch. 1 Pt. B para. 18 inserted (1.7.2024) by [The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192)](https://www.legislation.gov.uk/uksi/2023/1192), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1192/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/uksi/2023/1192/regulation/5/2)
+[^c-9a34ea99c4b7d3dd50fea6f72f188f2f]: Textual amendment: Sch. 1 Pt. B para. 18 inserted (1.7.2024) by [The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192)](https://www.legislation.gov.uk/uksi/2023/1192), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1192/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/uksi/2023/1192/regulation/5/2)
 
-[^key-30a8ee54accbfd405379e91d526b45f9]: Textual amendment: [Sch. 1 Pt. B para. 19](https://www.legislation.gov.uk/uksi/2020/1432/schedule/1/part/B/paragraph/19) inserted (1.10.2024) by [The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192)](https://www.legislation.gov.uk/uksi/2023/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/1192/regulation/1/2/b), [5(3)](https://www.legislation.gov.uk/uksi/2023/1192/regulation/5/3)
+[^c-30a8ee54accbfd405379e91d526b45f9]: Textual amendment: [Sch. 1 Pt. B para. 19](https://www.legislation.gov.uk/uksi/2020/1432/schedule/1/part/B/paragraph/19) inserted (1.10.2024) by [The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2023 (S.I. 2023/1192)](https://www.legislation.gov.uk/uksi/2023/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/1192/regulation/1/2/b), [5(3)](https://www.legislation.gov.uk/uksi/2023/1192/regulation/5/3)
 
-[^key-a2869f7fca6411edfa4bbff1aabcba52]: Textual amendment: Sch. 2 substituted (31.12.2020) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657)](https://www.legislation.gov.uk/uksi/2020/1657), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1657/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1657/schedule/2)
+[^c-a2869f7fca6411edfa4bbff1aabcba52]: Textual amendment: Sch. 2 substituted (31.12.2020) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1657)](https://www.legislation.gov.uk/uksi/2020/1657), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1657/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1657/schedule/2)
 
-[^key-c03701aef72bd980f55212ef19eba705]: Commencement: Sch. 2 Pt. A in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-c03701aef72bd980f55212ef19eba705]: Commencement: Sch. 2 Pt. A in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-03f7b4393a5982ce09c2e0b88a176af7]: Textual amendment: Sch. 2 Pt. A Table substituted (10.5.2023) by [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2023/433/regulation/3/4), [Sch.](https://www.legislation.gov.uk/uksi/2023/433/schedule)
+[^c-03f7b4393a5982ce09c2e0b88a176af7]: Textual amendment: Sch. 2 Pt. A Table substituted (10.5.2023) by [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2023/433/regulation/3/4), [Sch.](https://www.legislation.gov.uk/uksi/2023/433/schedule)
 
-[^f01000]: Footnote: (1)[^key-03f7b4393a5982ce09c2e0b88a176af7][^key-a2869f7fca6411edfa4bbff1aabcba52]
+[^f01000]: Footnote: (1)[^c-03f7b4393a5982ce09c2e0b88a176af7][^c-a2869f7fca6411edfa4bbff1aabcba52]
 
     Certificate of authenticity.
 
@@ -1722,37 +1722,37 @@ This instrument is one of a group of instruments covered by an overarching Tax I
 
     Department of Primary Industries and Energy, Australia.
 
-[^key-887a314d48e35678a83beac173b83075]: Textual amendment: Words in [Sch. 2 Pt. A](https://www.legislation.gov.uk/uksi/2020/1432/schedule/2/part/A) Table omitted (1.7.2026) by virtue of [The Customs (Tariff and Miscellaneous Amendments) (No. 3) Regulations 2026 (S.I. 2026/541)](https://www.legislation.gov.uk/uksi/2026/541), [regs. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/541/regulation/2/2/a), [4(b)(i)](https://www.legislation.gov.uk/uksi/2026/541/regulation/4/b/i)
+[^c-887a314d48e35678a83beac173b83075]: Textual amendment: Words in [Sch. 2 Pt. A](https://www.legislation.gov.uk/uksi/2020/1432/schedule/2/part/A) Table omitted (1.7.2026) by virtue of [The Customs (Tariff and Miscellaneous Amendments) (No. 3) Regulations 2026 (S.I. 2026/541)](https://www.legislation.gov.uk/uksi/2026/541), [regs. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/541/regulation/2/2/a), [4(b)(i)](https://www.legislation.gov.uk/uksi/2026/541/regulation/4/b/i)
 
-[^key-585058bc3e35d397b57dfb56518ed85c]: Textual amendment: Words in [Sch. 2 Pt. A](https://www.legislation.gov.uk/uksi/2020/1432/schedule/2/part/A) Table omitted (1.7.2026) by virtue of [The Customs (Tariff and Miscellaneous Amendments) (No. 3) Regulations 2026 (S.I. 2026/541)](https://www.legislation.gov.uk/uksi/2026/541), [regs. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/541/regulation/2/2/a), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2026/541/regulation/4/b/ii)
+[^c-585058bc3e35d397b57dfb56518ed85c]: Textual amendment: Words in [Sch. 2 Pt. A](https://www.legislation.gov.uk/uksi/2020/1432/schedule/2/part/A) Table omitted (1.7.2026) by virtue of [The Customs (Tariff and Miscellaneous Amendments) (No. 3) Regulations 2026 (S.I. 2026/541)](https://www.legislation.gov.uk/uksi/2026/541), [regs. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/541/regulation/2/2/a), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2026/541/regulation/4/b/ii)
 
 [^f01015]: Footnote: (16)
 
     The conversion factor is: 100kg raw sugar = 94kg of white sugar.
 
-[^key-4f30b566c0f2e2540b07a07a34e6fe0c]: Textual amendment: Sch. 2 Pt. B substituted (14.4.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/382)](https://www.legislation.gov.uk/uksi/2021/382), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/382/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/382/schedule)
+[^c-4f30b566c0f2e2540b07a07a34e6fe0c]: Textual amendment: Sch. 2 Pt. B substituted (14.4.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/382)](https://www.legislation.gov.uk/uksi/2021/382), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/382/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/382/schedule)
 
-[^key-cdb6cb8e174c543c3bab8d571f891d9a]: Textual amendment: Sch. 2 Pt. B footnote (8) inserted (20.5.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527)](https://www.legislation.gov.uk/uksi/2021/527), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/527/regulation/1/3/a), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/527/regulation/2/2/c)
+[^c-cdb6cb8e174c543c3bab8d571f891d9a]: Textual amendment: Sch. 2 Pt. B footnote (8) inserted (20.5.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527)](https://www.legislation.gov.uk/uksi/2021/527), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/527/regulation/1/3/a), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/527/regulation/2/2/c)
 
-[^key-b0e35e27f31a150e4e01992b182e9a8e]: Textual amendment: Sch. 2 Pt. B footnote (9) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(6)(b)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/6/b)
+[^c-b0e35e27f31a150e4e01992b182e9a8e]: Textual amendment: Sch. 2 Pt. B footnote (9) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(6)(b)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/6/b)
 
-[^key-f7fae61abcc68740488e524dce7d9b0c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1432/schedule/2) table footnote (10) omitted (21.1.2026) by virtue of [The Customs (Tariff and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/36)](https://www.legislation.gov.uk/uksi/2026/36), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/36/regulation/1/2/a), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/36/regulation/2/2/b)
+[^c-f7fae61abcc68740488e524dce7d9b0c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1432/schedule/2) table footnote (10) omitted (21.1.2026) by virtue of [The Customs (Tariff and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/36)](https://www.legislation.gov.uk/uksi/2026/36), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/36/regulation/1/2/a), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/36/regulation/2/2/b)
 
-[^key-85c02f3cf2954a03f1d58ce8d4aa8676]: Textual amendment: Word in Sch. 2 Pt. B table omitted (20.5.2021) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527)](https://www.legislation.gov.uk/uksi/2021/527), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/527/regulation/1/3/a), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/527/regulation/2/2/a)
+[^c-85c02f3cf2954a03f1d58ce8d4aa8676]: Textual amendment: Word in Sch. 2 Pt. B table omitted (20.5.2021) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527)](https://www.legislation.gov.uk/uksi/2021/527), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/527/regulation/1/3/a), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/527/regulation/2/2/a)
 
-[^key-5957325eae7d081d0b4ccdc0eb4f90dd]: Textual amendment: Words in Sch. 2 Pt. B table inserted (20.5.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527)](https://www.legislation.gov.uk/uksi/2021/527), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/527/regulation/1/3/a), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/527/regulation/2/2/b)
+[^c-5957325eae7d081d0b4ccdc0eb4f90dd]: Textual amendment: Words in Sch. 2 Pt. B table inserted (20.5.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment No. 2) Regulations 2021 (S.I. 2021/527)](https://www.legislation.gov.uk/uksi/2021/527), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/527/regulation/1/3/a), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/527/regulation/2/2/b)
 
-[^key-9c2d374ebbf973d2c8f08f657c5f9ee3]: Textual amendment: Words in Sch. 2 Pt. B table inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(6)(a)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/6/a)
+[^c-9c2d374ebbf973d2c8f08f657c5f9ee3]: Textual amendment: Words in Sch. 2 Pt. B table inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (Australia) (Amendment) Regulations 2023 (S.I. 2023/195)](https://www.legislation.gov.uk/uksi/2023/195), [reg. 3(6)(a)](https://www.legislation.gov.uk/uksi/2023/195/regulation/3/6/a)
 
-[^key-52651ba1e2d37d87e578e36920215e65]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1432/schedule/2) Pt. B table omitted (21.1.2026) by virtue of [The Customs (Tariff and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/36)](https://www.legislation.gov.uk/uksi/2026/36), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/36/regulation/1/2/a), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/36/regulation/2/2/a)
+[^c-52651ba1e2d37d87e578e36920215e65]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1432/schedule/2) Pt. B table omitted (21.1.2026) by virtue of [The Customs (Tariff and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/36)](https://www.legislation.gov.uk/uksi/2026/36), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/36/regulation/1/2/a), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/36/regulation/2/2/a)
 
-[^key-ab12cba4b05fa9f086a4e6c9d5643fb5]: Commencement: Sch. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-ab12cba4b05fa9f086a4e6c9d5643fb5]: Commencement: Sch. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-4f6ef7af64e66dd77e34ff5b055106c7]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1432/schedule/3) substituted (17.11.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(10)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/10)
+[^c-4f6ef7af64e66dd77e34ff5b055106c7]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1432/schedule/3) substituted (17.11.2021) by [The Customs Tariff (Preferential Trade Arrangements and Tariff Quotas) (EU Exit) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1192)](https://www.legislation.gov.uk/uksi/2021/1192), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/1/2), [6(10)](https://www.legislation.gov.uk/uksi/2021/1192/regulation/6/10)
 
-[^key-3d0291157088139096c2072ad4f38a10]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3d0291157088139096c2072ad4f38a10]: Commencement: Sch. 4 para. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-af56ceebfb6361ebebb8fbc05d7ee522]: Commencement: Sch. 4 para. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-af56ceebfb6361ebebb8fbc05d7ee522]: Commencement: Sch. 4 para. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378461]: Marginal citation: [S.I. 2019/254](https://www.legislation.gov.uk/uksi/2019/254).
 
@@ -1760,8 +1760,8 @@ This instrument is one of a group of instruments covered by an overarching Tax I
 
 [^c24378481]: Marginal citation: [S.I. 2019/256](https://www.legislation.gov.uk/uksi/2019/256).
 
-[^key-4e429e4e48c1f62f5d90f31d693124f8]: Commencement: Sch. 4 para. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-4e429e4e48c1f62f5d90f31d693124f8]: Commencement: Sch. 4 para. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-3fa38d1ff0886ca2bde1848ff53fb6e9]: Commencement: Sch. 4 para. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3fa38d1ff0886ca2bde1848ff53fb6e9]: Commencement: Sch. 4 para. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-cd5d19bd3008363597626db2d25eea85]: Commencement: Sch. 4 para. 5 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-cd5d19bd3008363597626db2d25eea85]: Commencement: Sch. 4 para. 5 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

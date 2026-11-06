@@ -22,14 +22,14 @@ summary: ''
 
 1. In the case of the import, export or re-export of a specimen covered by a personal ownership certificate issued in accordance with Article 39(1), the holder of the certificate shall, for verification purposes, surrender the original of that certificate (form 1) and the original and a copy of the continuation sheet to a customs office designated in accordance with Article 12(1) of Regulation (EC) No 338/97.
 
-[^key-2289d606ca362c3ee4dbd34327d26519]...
+[^c-2289d606ca362c3ee4dbd34327d26519]...
 
 2. In the case of a personal ownership certificate issued in accordance with Article 39(2), paragraph 1 of this Article shall apply, except that the holder shall also submit for verification purposes the original certificate issued by the third country.
 
-[^key-a9400b4be63640dd49df677db659bbcb]...
+[^c-a9400b4be63640dd49df677db659bbcb]...
 
 ## Annotations
 
-[^key-2289d606ca362c3ee4dbd34327d26519]: Textual amendment: Words in [Art. 42(1)](https://www.legislation.gov.uk/eur/2006/865/article/42/1) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(34)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/34/a)
+[^c-2289d606ca362c3ee4dbd34327d26519]: Textual amendment: Words in [Art. 42(1)](https://www.legislation.gov.uk/eur/2006/865/article/42/1) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(34)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/34/a)
 
-[^key-a9400b4be63640dd49df677db659bbcb]: Textual amendment: Words in [Art. 42(2)](https://www.legislation.gov.uk/eur/2006/865/article/42/2) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(34)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/34/b)
+[^c-a9400b4be63640dd49df677db659bbcb]: Textual amendment: Words in [Art. 42(2)](https://www.legislation.gov.uk/eur/2006/865/article/42/2) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(34)(b)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/34/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. MRO response: procedural or event dispute[^key-43cc79be7ae763a9fdd27ebbd5df3f89]
+## 32. MRO response: procedural or event dispute[^c-43cc79be7ae763a9fdd27ebbd5df3f89]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43cc79be7ae763a9fdd27ebbd5df3f89]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/uksi/2016/790/regulation/32) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-43cc79be7ae763a9fdd27ebbd5df3f89]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/uksi/2016/790/regulation/32) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))

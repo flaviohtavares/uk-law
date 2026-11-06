@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Tendered signing sheets[^key-cbdec9a8aa73a315cf8a7282702c3a00]
+## 30. Tendered signing sheets[^c-cbdec9a8aa73a315cf8a7282702c3a00]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,9 +61,9 @@ and claims that they have lost or not received their postal signing sheet.
 - (a) a person applies for a signing sheet for a petition in Northern Ireland, and
 - (b) the person fails to answer the question at entry 1(c) in the table in regulation 25.
 
-(7A)[^key-eeadfbc3c4c647388dc280d42b16ed32] Paragraphs (1A) to (1N) of regulation 27 (signing procedure: England and Wales and Scotland) apply in the case of a person entitled to sign a tendered signing sheet as they apply in the case of a person who applies for a signing sheet under regulation 27(1), but as if in regulation 27(1G), the reference to making a further application under regulation 27(1) were to seeking a further time to mark a tendered ballot paper under the paragraph of this regulation under which a previous such attempt was made.
+(7A)[^c-eeadfbc3c4c647388dc280d42b16ed32] Paragraphs (1A) to (1N) of regulation 27 (signing procedure: England and Wales and Scotland) apply in the case of a person entitled to sign a tendered signing sheet as they apply in the case of a person who applies for a signing sheet under regulation 27(1), but as if in regulation 27(1G), the reference to making a further application under regulation 27(1) were to seeking a further time to mark a tendered ballot paper under the paragraph of this regulation under which a previous such attempt was made.
 
-(8) Paragraphs (3) to (7C)[^key-408a8eb2bc1c6131c54a33267fe78256] of regulation 28 (signing procedure: Northern Ireland) apply in the case of a person entitled to sign a tendered signing sheet as they apply in the case of a person who applies for a signing sheet under regulation 28(1) , but as if in regulation 28(6B) the reference to making a further application under regulation 28(1) were to seeking a further time to mark a tendered ballot paper under the paragraph of this regulation under which a previous such attempt was made[^key-6526d47f8f504cfa651a201573009210].
+(8) Paragraphs (3) to (7C)[^c-408a8eb2bc1c6131c54a33267fe78256] of regulation 28 (signing procedure: Northern Ireland) apply in the case of a person entitled to sign a tendered signing sheet as they apply in the case of a person who applies for a signing sheet under regulation 28(1) , but as if in regulation 28(6B) the reference to making a further application under regulation 28(1) were to seeking a further time to mark a tendered ballot paper under the paragraph of this regulation under which a previous such attempt was made[^c-6526d47f8f504cfa651a201573009210].
 
 (9) A tendered signing sheet must—
 
@@ -88,10 +88,10 @@ and claims that they have lost or not received their postal signing sheet.
 
 ## Annotations
 
-[^key-cbdec9a8aa73a315cf8a7282702c3a00]: Commencement: Reg. 30 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-cbdec9a8aa73a315cf8a7282702c3a00]: Commencement: Reg. 30 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-eeadfbc3c4c647388dc280d42b16ed32]: Textual amendment: Reg. 30(7A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [78](https://www.legislation.gov.uk/uksi/2022/1382/regulation/78) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7)) (which affecting provision is extended to N.I. (31.10.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 4 and Transitional and Saving Provisions) (Amendment) Regulations 2023 (S.I. 2023/1382)](https://www.legislation.gov.uk/uksi/2023/1382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1382/regulation/13))
+[^c-eeadfbc3c4c647388dc280d42b16ed32]: Textual amendment: Reg. 30(7A) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [78](https://www.legislation.gov.uk/uksi/2022/1382/regulation/78) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7)) (which affecting provision is extended to N.I. (31.10.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 4 and Transitional and Saving Provisions) (Amendment) Regulations 2023 (S.I. 2023/1382)](https://www.legislation.gov.uk/uksi/2023/1382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1382/regulation/13))
 
-[^key-408a8eb2bc1c6131c54a33267fe78256]: Textual amendment: Word in reg. 30(8) substituted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/20/a)
+[^c-408a8eb2bc1c6131c54a33267fe78256]: Textual amendment: Word in reg. 30(8) substituted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/20/a)
 
-[^key-6526d47f8f504cfa651a201573009210]: Textual amendment: Words in reg. 30(8) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/20/b)
+[^c-6526d47f8f504cfa651a201573009210]: Textual amendment: Words in reg. 30(8) inserted (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/20/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Filling of casual vacancies[^key-8df8829536267f519d73e8b1f9c8a04d]
+## 5. Filling of casual vacancies[^c-8df8829536267f519d73e8b1f9c8a04d]
 
 *Extent: E+W*
 
@@ -48,10 +48,10 @@ summary: ''
 
 (11) In calculating the period of 14 days mentioned in paragraphs (2) and (8), and the period of 60 days mentioned in paragraph (6), any day that is an excluded day is to be disregarded.
 
-(12) References in this rule to a councillor’s final six months are to the period of six months ending with the fourth day after[^key-8bba446cb17a3ad4495c14ec303be301] the next ordinary election of councillors for the community.
+(12) References in this rule to a councillor’s final six months are to the period of six months ending with the fourth day after[^c-8bba446cb17a3ad4495c14ec303be301] the next ordinary election of councillors for the community.
 
 ## Annotations
 
-[^key-8df8829536267f519d73e8b1f9c8a04d]: Commencement: Rule 5 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1460/rule/1)
+[^c-8df8829536267f519d73e8b1f9c8a04d]: Commencement: Rule 5 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1460/rule/1)
 
-[^key-8bba446cb17a3ad4495c14ec303be301]: Textual amendment: Words in [rule 5(12)](https://www.legislation.gov.uk/wsi/2021/1460/rule/5/12) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [59](https://www.legislation.gov.uk/wsi/2026/84/rule/59) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))
+[^c-8bba446cb17a3ad4495c14ec303be301]: Textual amendment: Words in [rule 5(12)](https://www.legislation.gov.uk/wsi/2021/1460/rule/5/12) substituted (13.3.2026) by [The Local Elections (Wales) (Amendment) Rules 2026 (W.S.I. 2026/84)](https://www.legislation.gov.uk/wsi/2026/84), [rules 1(2)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/2), [59](https://www.legislation.gov.uk/wsi/2026/84/rule/59) (with [rule 1(3)](https://www.legislation.gov.uk/wsi/2026/84/rule/1/3))

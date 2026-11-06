@@ -46,7 +46,7 @@ These are the first regulations to be made under section 8 of the 2020 Act. In a
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-aea0a718dce93c126cd5a4547c214e4d]
+### 1. Citation and commencement[^c-aea0a718dce93c126cd5a4547c214e4d]
 
 (1) These Regulations may be cited as the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020.
 
@@ -64,7 +64,7 @@ These are the first regulations to be made under section 8 of the 2020 Act. In a
 
 (4) The provisions specified in this paragraph are regulations 6(1)(b) and 6(2).
 
-### 2. Interpretation[^key-17a7eb6e4db1ba7db272823e4570f075]
+### 2. Interpretation[^c-17a7eb6e4db1ba7db272823e4570f075]
 
 In these Regulations—
 
@@ -93,7 +93,7 @@ In these Regulations—
   - (h) a valid passport issued by an EEA state;
 - “**worker**” means a worker within the meaning of Article 45 of the Treaty on the Functioning of the European Union.
 
-### 3. Meaning of “frontier worker”[^key-d00f8648e6727d7cf51de60375e9a3a6]
+### 3. Meaning of “frontier worker”[^c-d00f8648e6727d7cf51de60375e9a3a6]
 
 (1) A person is a frontier worker for the purposes of these Regulations if they were, immediately before IP completion day, and have been continuously since IP completion day—
 
@@ -115,7 +115,7 @@ In these Regulations—
 
   unless there are exceptional reasons for not having done so.
 
-### 4. Retained worker or self-employed person status[^key-cd232fb36db7cbb906de2c268f3dee9e]
+### 4. Retained worker or self-employed person status[^c-cd232fb36db7cbb906de2c268f3dee9e]
 
 (1) A person who is no longer a worker in the United Kingdom is to be treated as such if the person, immediately following ceasing work in the United Kingdom—
 
@@ -139,7 +139,7 @@ In these Regulations—
 
 (4) A person to whom paragraph (3)(c) applies may only retain self-employed person status for a maximum of six months.
 
-(5)[^key-86183a0d9d54743ce3885709a8e22691] A person satisfies this paragraph where the person has—
+(5)[^c-86183a0d9d54743ce3885709a8e22691] A person satisfies this paragraph where the person has—
 
 - (a) provided evidence that they continue to seek employment or self-employment in the United Kingdom; and
 - (b) registered as a jobseeker with the relevant employment office.
@@ -153,22 +153,22 @@ for longer than six months without providing compelling evidence of continuing t
 
 ## PART 2 — Frontier worker rights
 
-### 5. Exemption from immigration control[^key-898b531406dfe0d941d03a879f6c6029]
+### 5. Exemption from immigration control[^c-898b531406dfe0d941d03a879f6c6029]
 
 (1) Subject to paragraph (2), regulation 7 and Part 4 of these Regulations, a person does not require leave to enter or remain in the United Kingdom under the 1971 Act in any case in which that person is entitled to do so by virtue of their frontier workers' rights.
 
 (2) This regulation does not apply to a person who is subject to a relevant restriction decision.
 
-### 6. Right of admission[^key-7c24ca96dd98a6ee72c9308fda410d75][^key-203d3d2249bdfa2f73ebebbaeb861a9f]
+### 6. Right of admission[^c-7c24ca96dd98a6ee72c9308fda410d75][^c-203d3d2249bdfa2f73ebebbaeb861a9f]
 
 (1) Subject to regulation 12, a frontier worker must be admitted to the United Kingdom on arrival if the frontier worker produces—
 
-- (a)[^key-7c24ca96dd98a6ee72c9308fda410d75] a valid identity document; and
-- (b)[^key-203d3d2249bdfa2f73ebebbaeb861a9f] a valid frontier worker permit.
+- (a)[^c-7c24ca96dd98a6ee72c9308fda410d75] a valid identity document; and
+- (b)[^c-203d3d2249bdfa2f73ebebbaeb861a9f] a valid frontier worker permit.
 
-(2)[^key-203d3d2249bdfa2f73ebebbaeb861a9f] A frontier worker who is an Irish citizen is not required to produce a frontier worker permit.
+(2)[^c-203d3d2249bdfa2f73ebebbaeb861a9f] A frontier worker who is an Irish citizen is not required to produce a frontier worker permit.
 
-### 7. Person claiming right of admission[^key-c6e4d7b6f4228f9a28a6d66824f16266]
+### 7. Person claiming right of admission[^c-c6e4d7b6f4228f9a28a6d66824f16266]
 
 (1) This regulation applies to a person who claims a right of admission to the United Kingdom under regulation 6 where there is reason to believe—
 
@@ -187,7 +187,7 @@ for longer than six months without providing compelling evidence of continuing t
 
 ## PART 3 — Frontier worker permits
 
-### 8. Issue of frontier worker permits[^key-5df7604b9aac4dc37c1a7923e727802c]
+### 8. Issue of frontier worker permits[^c-5df7604b9aac4dc37c1a7923e727802c]
 
 (1) Subject to regulation 9, the Secretary of State must issue a frontier worker permit to a frontier worker on receipt of a valid application under this regulation.
 
@@ -210,20 +210,20 @@ for longer than six months without providing compelling evidence of continuing t
 - (b) is proof of the holder's status as a frontier worker on the date of issue; and
 - (c) must state the name of the frontier worker and the date of issue.
 
-### 9. Refusal to issue a frontier worker permit[^key-7e1f7aa098c587596ab2d4424050db80]
+### 9. Refusal to issue a frontier worker permit[^c-7e1f7aa098c587596ab2d4424050db80]
 
 (1) The Secretary of State may refuse to issue a frontier worker permit where justified on grounds of public policy, public security or public health in accordance with regulation 18, on conducive grounds in accordance with regulation 19, or on grounds of misuse of rights in accordance with regulation 20.
 
 (2) The Secretary of State must refuse to issue a frontier worker permit to a person subject to a relevant restriction decision.
 
-### 10. Validity of frontier worker permits[^key-89d4aa1a7d95f3d955ae21160be3a68f]
+### 10. Validity of frontier worker permits[^c-89d4aa1a7d95f3d955ae21160be3a68f]
 
 A frontier worker permit issued under these Regulations is valid for—
 
 - (a) two years from the date of issue where issued to a frontier worker who is treated as a worker or self-employed person by virtue of regulation 4; or
 - (b) otherwise five years from the date of issue.
 
-### 11. Renewal and revocation of permits[^key-3c28ad7cfa91afeac3c3c13f086303ae]
+### 11. Renewal and revocation of permits[^c-3c28ad7cfa91afeac3c3c13f086303ae]
 
 (1) An application for renewal of a frontier worker permit must comply with regulation 8.
 
@@ -239,7 +239,7 @@ A frontier worker permit issued under these Regulations is valid for—
 
 ## PART 4 — Refusal of admission and removal
 
-### 12. Refusal of admission[^key-ec89e5153248e202ecccf344675020c1]
+### 12. Refusal of admission[^c-ec89e5153248e202ecccf344675020c1]
 
 (1) An immigration officer must refuse a person's admission to the United Kingdom by virtue of regulation 6 where—
 
@@ -249,7 +249,7 @@ A frontier worker permit issued under these Regulations is valid for—
 
 (2) When refusing admission under paragraph (1) an immigration officer must revoke that person's frontier worker permit.
 
-### 13. Person refused admission[^key-be026344504cf977783d48ec76565017]
+### 13. Person refused admission[^c-be026344504cf977783d48ec76565017]
 
 (1) This regulation applies to a person who is in the United Kingdom and has been refused admission to the United Kingdom—
 
@@ -263,7 +263,7 @@ A frontier worker permit issued under these Regulations is valid for—
 - (b) in sub-paragraph (2), the references to a certificate of entitlement, entry clearance or work permit (in each place they occur) are to be read collectively as a reference to a frontier worker permit; and
 - (c) sub-paragraph (3) is to be read as if after the words “to enter the United Kingdom” there were inserted “under the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020”.
 
-### 14. Revocation of admission[^key-ddcbf17e476a27b21f172e686dde9ce4]
+### 14. Revocation of admission[^c-ddcbf17e476a27b21f172e686dde9ce4]
 
 (1) This regulation applies to a person admitted to the United Kingdom under regulation 6 in circumstances where, under regulation 12(1), that person was not entitled to be admitted.
 
@@ -275,7 +275,7 @@ A frontier worker permit issued under these Regulations is valid for—
 
 (3) Where a person's admission to the United Kingdom is revoked, that person is to be treated as a person to whom admission to the United Kingdom has been refused and regulation 13 applies accordingly.
 
-### 15. Removal[^key-a9fbbbbb70eaf30173b789bc41e93139]
+### 15. Removal[^c-a9fbbbbb70eaf30173b789bc41e93139]
 
 (1) A frontier worker who has entered the United Kingdom may be removed if—
 
@@ -288,7 +288,7 @@ A frontier worker permit issued under these Regulations is valid for—
 - (a) until the order is revoked; or
 - (b) for the period specified in the order.
 
-### 16. Person subject to removal[^key-e08f616c8a0890568a2e5bfcf5c64d96]
+### 16. Person subject to removal[^c-e08f616c8a0890568a2e5bfcf5c64d96]
 
 (1) If there are reasonable grounds for suspecting that a person is someone who may be removed from the United Kingdom by virtue of regulation 15(1)(b) that person may be detained under the authority of the Secretary of State pending a decision whether or not to remove the person under that regulation, and paragraphs 17 to 18A of Schedule 2 to the 1971 Act apply in relation to the detention of such a person as those paragraphs apply in relation to a person who may be detained under paragraph 16 of that Schedule.
 
@@ -300,7 +300,7 @@ A frontier worker permit issued under these Regulations is valid for—
 
 (5) Where a deportation order has been made by virtue of regulation 15(1)(b) but the person is not removed under the order during the two year period beginning on the date on which the order is made, the Secretary of State may only take action to remove the person under the order at the end of that period if, having assessed whether there has been any material change in circumstances since the deportation order was made, the Secretary of State considers that the removal continues to be justified on the grounds of public policy, public security or public health in accordance with regulation 18.
 
-### 17. Revocation of deportation orders[^key-a03f031f209d01a60f0c06f238fe6b1c]
+### 17. Revocation of deportation orders[^c-a03f031f209d01a60f0c06f238fe6b1c]
 
 (1) A deportation order made by virtue of these Regulations remains in force—
 
@@ -315,7 +315,7 @@ A frontier worker permit issued under these Regulations is valid for—
 
 (5) The Secretary of State must take a decision on an application under paragraph (2) no later than six months after the date on which the application is received.
 
-### 18. Decisions taken on grounds of public policy, public security and public health[^key-0a57cbc4e4ba3ac1f249657a15597fe6]
+### 18. Decisions taken on grounds of public policy, public security and public health[^c-0a57cbc4e4ba3ac1f249657a15597fe6]
 
 (1) In this regulation, a “**relevant decision**” means a decision taken under these Regulations on the grounds of public policy, public security or public health.
 
@@ -343,13 +343,13 @@ does not constitute grounds for the decision.
 
 (7) A court or tribunal considering whether the requirements of this regulation are met must (in particular) have regard to the considerations contained in the Schedule (considerations of public policy, public security and the fundamental interests of society etc).
 
-### 19. Decisions taken on conducive grounds[^key-b46cd90c7fffa5580e37ecfe00493e2f]
+### 19. Decisions taken on conducive grounds[^c-b46cd90c7fffa5580e37ecfe00493e2f]
 
 (1) This regulation applies to conduct taking place after IP completion day.
 
 (2) A decision under this regulation may be taken on the ground that the decision is conducive to the public good.
 
-### 20. Misuse of frontier workers' rights[^key-c94a1ecab425bcdb450245d386703f7d]
+### 20. Misuse of frontier workers' rights[^c-c94a1ecab425bcdb450245d386703f7d]
 
 (1) The misuse of frontier workers' rights occurs where a person—
 
@@ -362,13 +362,13 @@ does not constitute grounds for the decision.
 
 (4) This regulation may not be exercised systematically.
 
-### 21A. Exemption for Irish citizens[^key-d3416e3797be0a777e08b475232a55ec]
+### 21A. Exemption for Irish citizens[^c-d3416e3797be0a777e08b475232a55ec]
 
 Regulations 7 and 13 to 20 do not apply to a frontier worker who is an Irish citizen unless any of paragraphs (2) to (4) of section 3ZA of the 1971 Act also apply to that Irish citizen.
 
 ## PART 5 — Administrative review and appeals
 
-### 21. Administrative review[^key-beb8d9e0a460a6d2677617835e14a7b2]
+### 21. Administrative review[^c-beb8d9e0a460a6d2677617835e14a7b2]
 
 (1) A person (“P”) may apply to the Secretary of State for a review of an eligible decision.
 
@@ -389,7 +389,7 @@ on the grounds that P is not a frontier worker.
 
 (7) The Secretary of State must not consider whether the applicant is entitled to leave to enter or remain in the United Kingdom on some other basis and nothing in these Regulations shall be taken to mean that the applicant may make or vary an application for leave, or make a protection or human rights claim, by seeking an administrative review.
 
-### 22. Applications for administrative review[^key-b64401b897e84f8314d966765d7c7f48]
+### 22. Applications for administrative review[^c-b64401b897e84f8314d966765d7c7f48]
 
 (1) An application for review under regulation 21 must—
 
@@ -407,13 +407,13 @@ on the grounds that P is not a frontier worker.
 
 (5) Where the applicant is present in the United Kingdom and is held in immigration detention on the date of the eligible decision the application must be submitted within 7 calendar days of the eligible decision.
 
-### 23. Removal pending review[^key-127ded881fd73a0f0bd41bc049ff5b88]
+### 23. Removal pending review[^c-127ded881fd73a0f0bd41bc049ff5b88]
 
 (1) A person who has submitted a valid application under regulation 22, or who has not yet submitted an application but is within time to do so, may not be removed from the United Kingdom until that application has been determined or rejected as invalid.
 
 (2) This regulation does not apply to a person who has withdrawn their application under regulation 22(3).
 
-### 24. Amendment of the Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020[^key-cf542311ffce082004232a802f9b6e75]
+### 24. Amendment of the Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020[^c-cf542311ffce082004232a802f9b6e75]
 
 (1) The Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020 [^c24320831] are amended as follows.
 
@@ -493,7 +493,7 @@ on the grounds that P is not a frontier worker.
 >
 > (1) A frontier worker who has entered the United Kingdom may appeal against a decision to make a deportation order under section 5(1) of the 1971 Act in respect of them.
 >
-> (2)[^key-b6d494a2e248a50a79cc10c909de4151] But paragraph (1) does not apply to a person if the decision to remove that person was taken—
+> (2)[^c-b6d494a2e248a50a79cc10c909de4151] But paragraph (1) does not apply to a person if the decision to remove that person was taken—
 >
 > - (a) under regulation 23(6)(b) of the Immigration (European Economic Area) Regulations 2016 (“**the 2016 Regulations**”), where the decision to remove was taken before the revocation of the 2016 Regulations, or
 > - (b) otherwise, under regulation 23(6)(b) of the 2016 Regulations as it continues to have effect by virtue of the Citizens' Rights (Restrictions of Rights of Entry and Residence) (EU Exit) Regulations 2020 or the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020.
@@ -529,7 +529,7 @@ on the grounds that P is not a frontier worker.
 
 .
 
-### 25. Amendment of the Special Immigration Appeals Commission (Procedure) Rules 2003[^key-b0e62cac087838cc4369073b4894d5bc]
+### 25. Amendment of the Special Immigration Appeals Commission (Procedure) Rules 2003[^c-b0e62cac087838cc4369073b4894d5bc]
 
 (1) The Special Immigration Appeals Commission (Procedure) Rules 2003 [^c24320841] are amended as follows.
 
@@ -542,7 +542,7 @@ on the grounds that P is not a frontier worker.
 
 .
 
-### 26. Amendment of the Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014[^key-393f62964ba985375172f85a4702ae99]
+### 26. Amendment of the Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014[^c-393f62964ba985375172f85a4702ae99]
 
 (1) The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 [^c24320851] are amended as follows.
 
@@ -557,7 +557,7 @@ on the grounds that P is not a frontier worker.
 
 ## PART 6 — Consequential amendments
 
-### 27. Amendment of the Immigration (Provision of Physical Data) Regulations 2006[^key-97beb3c59561929a65cc2da7dd1a302b]
+### 27. Amendment of the Immigration (Provision of Physical Data) Regulations 2006[^c-97beb3c59561929a65cc2da7dd1a302b]
 
 (1) The Immigration (Provision of Physical Data) Regulations 2006 [^c24320861] are amended as follows.
 
@@ -572,7 +572,7 @@ on the grounds that P is not a frontier worker.
 
   .
 
-### 28. Amendment of the Immigration (Control of Entry through Republic of Ireland) Order 1972[^key-df908e587e325f3a5991619d5ca9d32c]
+### 28. Amendment of the Immigration (Control of Entry through Republic of Ireland) Order 1972[^c-df908e587e325f3a5991619d5ca9d32c]
 
 (1) The Immigration (Control of Entry through Republic of Ireland) Order 1972 [^c24320871] is amended as follows.
 
@@ -595,30 +595,30 @@ Home Office
 
 Regulation 18
 
-### 1. Considerations of public policy and public security[^key-cc295a4f59ee716d40c7a88fcef36e1b]
+### 1. Considerations of public policy and public security[^c-cc295a4f59ee716d40c7a88fcef36e1b]
 
 The United Kingdom enjoys considerable discretion, acting within the parameters set by the withdrawal agreement, the EEA EFTA separation agreement or the Swiss citizens' rights agreement, to define its own standards of public policy and public security, for purposes tailored to its individual context from time to time.
 
-### 2. Application of paragraph 1 to the United Kingdom[^key-f1c5c333775b2253560d17fe966e93ad]
+### 2. Application of paragraph 1 to the United Kingdom[^c-f1c5c333775b2253560d17fe966e93ad]
 
 A frontier worker having extensive familial and societal links with persons of the same nationality or language does not amount to integration in the United Kingdom; a significant degree of wider cultural and societal integration must be present before a person may be regarded as integrated in the United Kingdom.
 
-**3.**[^key-ac99b28d8c9679070a2747f166fa9708] Where a frontier worker has received a custodial sentence, or is a persistent offender, the longer the sentence, or the more numerous the convictions, the greater the likelihood that the individual's continued presence in the United Kingdom represents a genuine, present and sufficiently serious threat affecting the fundamental interests of society.
+**3.**[^c-ac99b28d8c9679070a2747f166fa9708] Where a frontier worker has received a custodial sentence, or is a persistent offender, the longer the sentence, or the more numerous the convictions, the greater the likelihood that the individual's continued presence in the United Kingdom represents a genuine, present and sufficiently serious threat affecting the fundamental interests of society.
 
-**4.**[^key-d4b21433c15f8631bf57b2167efae8bd] Little weight is to be attached to the integration of a frontier worker within the United Kingdom if the alleged integrating links were formed at or around the same time as—
+**4.**[^c-d4b21433c15f8631bf57b2167efae8bd] Little weight is to be attached to the integration of a frontier worker within the United Kingdom if the alleged integrating links were formed at or around the same time as—
 
 - (a) the commission of a criminal offence;
 - (b) an act otherwise affecting the fundamental interests of society;
 - (c) the frontier worker was in custody.
 
-**5.**[^key-392106213c5c41a8a0e18659361ecff7] The removal from the United Kingdom of a frontier worker who is able to provide substantive evidence of not demonstrating a threat (for example, through demonstrating that the frontier worker has successfully reformed or rehabilitated) is less likely to be proportionate.
+**5.**[^c-392106213c5c41a8a0e18659361ecff7] The removal from the United Kingdom of a frontier worker who is able to provide substantive evidence of not demonstrating a threat (for example, through demonstrating that the frontier worker has successfully reformed or rehabilitated) is less likely to be proportionate.
 
-**6.**[^key-b1178e139257177d2cae6fe60d8d356a] It is consistent with public policy and public security requirements in the United Kingdom that decisions may be taken in order to refuse, terminate or withdraw any right otherwise conferred by these Regulations in the case of abuse of rights or fraud, including—
+**6.**[^c-b1178e139257177d2cae6fe60d8d356a] It is consistent with public policy and public security requirements in the United Kingdom that decisions may be taken in order to refuse, terminate or withdraw any right otherwise conferred by these Regulations in the case of abuse of rights or fraud, including—
 
 - (a) entering, attempting to enter or assisting another person to enter or attempt to enter, a marriage, civil partnership or durable partnership of convenience; or
 - (b) fraudulently obtaining or attempting to obtain, or assisting another to obtain or to attempt to obtain, frontier workers' rights.
 
-### 7. The fundamental interests of society[^key-dbc0ce8ea41fe7deb485ade5f45d97f6]
+### 7. The fundamental interests of society[^c-dbc0ce8ea41fe7deb485ade5f45d97f6]
 
 For the purposes of these Regulations, the fundamental interests of society in the United Kingdom include—
 
@@ -659,9 +659,9 @@ Part 6 (consequential amendments: regulations 27 and 28) allows for biometric in
 
 [^c24320671]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Relevant amendments to section 9 were made by paragraph 2 of Schedule 4 to the [British Nationality Act 1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-aea0a718dce93c126cd5a4547c214e4d]: Commencement: Reg. 1 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-aea0a718dce93c126cd5a4547c214e4d]: Commencement: Reg. 1 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
-[^key-17a7eb6e4db1ba7db272823e4570f075]: Commencement: Reg. 2 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-17a7eb6e4db1ba7db272823e4570f075]: Commencement: Reg. 2 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
 [^c24320681]: Marginal citation: [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052). Amended by [S.I. 2017/1](https://www.legislation.gov.uk/uksi/2017/1), [S.I](https://www.legislation.gov.uk/uksi/2017/1/section/I). 2017/1242, [S.I. 2018/801](https://www.legislation.gov.uk/uksi/2018/801), [S.I](https://www.legislation.gov.uk/uksi/2018/801/section/I). 2019/468, [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) (amendments not in force) and [S.I. 2019/1155](https://www.legislation.gov.uk/uksi/2019/1155).
 
@@ -671,45 +671,45 @@ Part 6 (consequential amendments: regulations 27 and 28) allows for biometric in
 
 [^c24320711]: Marginal citation: OJ No C326, 26.10.12, p65.
 
-[^key-d00f8648e6727d7cf51de60375e9a3a6]: Commencement: Reg. 3 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-d00f8648e6727d7cf51de60375e9a3a6]: Commencement: Reg. 3 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
-[^key-cd232fb36db7cbb906de2c268f3dee9e]: Commencement: Reg. 4 in force at 4.11.2020, see reg. 1(2)
+[^c-cd232fb36db7cbb906de2c268f3dee9e]: Commencement: Reg. 4 in force at 4.11.2020, see reg. 1(2)
 
-[^key-86183a0d9d54743ce3885709a8e22691]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/4/5) substituted (22.12.2020) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/c), [7(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/7/2)
+[^c-86183a0d9d54743ce3885709a8e22691]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/4/5) substituted (22.12.2020) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/c), [7(2)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/7/2)
 
-[^key-898b531406dfe0d941d03a879f6c6029]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-898b531406dfe0d941d03a879f6c6029]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-7c24ca96dd98a6ee72c9308fda410d75]: Commencement: Reg. 6(1)(a) in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-7c24ca96dd98a6ee72c9308fda410d75]: Commencement: Reg. 6(1)(a) in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-203d3d2249bdfa2f73ebebbaeb861a9f]: Commencement: Reg. 6(1)(b)(2) in force at 1.7.2021, see reg. 1(2)(4)
+[^c-203d3d2249bdfa2f73ebebbaeb861a9f]: Commencement: Reg. 6(1)(b)(2) in force at 1.7.2021, see reg. 1(2)(4)
 
-[^key-c6e4d7b6f4228f9a28a6d66824f16266]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-c6e4d7b6f4228f9a28a6d66824f16266]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
 [^c24320721]: Marginal citation: The relevant parts of Schedule 2 were amended by Schedule 6 to the [Criminal Justice Act 1972 (c. 71)](https://www.legislation.gov.uk/ukpga/1972/71), [paragraphs 2](https://www.legislation.gov.uk/ukpga/1972/71/paragraph/2) and 3 of Schedule 4 to the [British Nationality Act 1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61), [paragraphs 6](https://www.legislation.gov.uk/ukpga/1981/61/paragraph/6), [8](https://www.legislation.gov.uk/ukpga/1981/61/paragraph/8), [9](https://www.legislation.gov.uk/ukpga/1981/61/paragraph/9) and 10 of the Schedule to the [Immigration Act 1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14), [paragraphs 5](https://www.legislation.gov.uk/ukpga/1988/14/paragraph/5), [7](https://www.legislation.gov.uk/ukpga/1988/14/paragraph/7), [10](https://www.legislation.gov.uk/ukpga/1988/14/paragraph/10) and 11 of Schedule 2, and Schedule 4 to the [Asylum and Immigration Act 1996 (c. 49)](https://www.legislation.gov.uk/ukpga/1996/49), [paragraph 70](https://www.legislation.gov.uk/ukpga/1996/49/paragraph/70) of Schedule 13 to the Access to [Justice Act 1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), [section 140](https://www.legislation.gov.uk/ukpga/1999/22/section/140), [paragraphs 43](https://www.legislation.gov.uk/ukpga/1999/22/paragraph/43), [56](https://www.legislation.gov.uk/ukpga/1999/22/paragraph/56) and 58 to 63 of Schedule 14, and Schedule 16 to the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), [sections 63](https://www.legislation.gov.uk/ukpga/1999/33/section/63), [64](https://www.legislation.gov.uk/ukpga/1999/33/section/64) and 73 of, and paragraphs 3 and 4 of Schedule 7 to, the [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [paragraph 149](https://www.legislation.gov.uk/ukpga/2002/41/paragraph/149) of Schedule 8 to the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [paragraph 1](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/1) of Schedule 2 to the [Asylum and Immigration (Treatment of Claimants, etc) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [sections 27](https://www.legislation.gov.uk/ukpga/2004/19/section/27) and 42 of, and Schedule 3 to the [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [sections 5](https://www.legislation.gov.uk/ukpga/2006/13/section/5), [7](https://www.legislation.gov.uk/ukpga/2006/13/section/7), [9](https://www.legislation.gov.uk/ukpga/2006/13/section/9) and 13 of, paragraphs 1 and 2 of Schedule 1, paragraph 1 of Schedule 2, and paragraphs 1, 2 and 3 of Schedule 8 to the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [sections 46](https://www.legislation.gov.uk/ukpga/2014/22/section/46) and 60 of the [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), and [S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21).
 
 [^c24320731]: Marginal citation: [2016 c. 19](https://www.legislation.gov.uk/ukpga/2016/19).
 
-[^key-5df7604b9aac4dc37c1a7923e727802c]: Commencement: Reg. 8 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-5df7604b9aac4dc37c1a7923e727802c]: Commencement: Reg. 8 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
-[^key-7e1f7aa098c587596ab2d4424050db80]: Commencement: Reg. 9 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-7e1f7aa098c587596ab2d4424050db80]: Commencement: Reg. 9 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
-[^key-89d4aa1a7d95f3d955ae21160be3a68f]: Commencement: Reg. 10 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-89d4aa1a7d95f3d955ae21160be3a68f]: Commencement: Reg. 10 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
-[^key-3c28ad7cfa91afeac3c3c13f086303ae]: Commencement: Reg. 11 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-3c28ad7cfa91afeac3c3c13f086303ae]: Commencement: Reg. 11 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
-[^key-ec89e5153248e202ecccf344675020c1]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-ec89e5153248e202ecccf344675020c1]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-be026344504cf977783d48ec76565017]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-be026344504cf977783d48ec76565017]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
 [^c24320741]: Marginal citation: The relevant parts of Schedule 2 were amended by: section 39 of, and paragraph 3 of Schedule 4 to, the [British Nationality Act 1981 (c. 61)](https://www.legislation.gov.uk/ukpga/1981/61), [section 10](https://www.legislation.gov.uk/ukpga/1981/61/section/10) of, and paragraph 9 of the Schedule to, the [Immigration Act 1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14), [section 12](https://www.legislation.gov.uk/ukpga/1988/14/section/12) of, and paragraphs 6 to 8 of Schedule 2 and Schedule 4 to, the [Asylum and Immigration Act 1996 (c. 49)](https://www.legislation.gov.uk/ukpga/1996/49), [sections 140](https://www.legislation.gov.uk/ukpga/1996/49/section/140) and 169 of, and paragraphs 43, 60 and 61 of Schedule 14 to, the Immigration and Asylum Act 1999, sections 63, 64, 73 and 114 of and paragraph 4 of Schedule 7 to the Nationality Immigration and Asylum Act 2002, section 42 of the [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [sections 4](https://www.legislation.gov.uk/ukpga/2006/13/section/4), [5](https://www.legislation.gov.uk/ukpga/2006/13/section/5), [9](https://www.legislation.gov.uk/ukpga/2006/13/section/9), [12](https://www.legislation.gov.uk/ukpga/2006/13/section/12) and 13 of, and paragraphs 1 and 2 of Schedule 1 and paragraph 1 of Schedule 2 to, the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [section 60](https://www.legislation.gov.uk/ukpga/2014/22/section/60) of the Immigration Act 2016.
 
 [^c24320751]: Marginal citation: [2016 c. 19](https://www.legislation.gov.uk/ukpga/2016/19).
 
-[^key-ddcbf17e476a27b21f172e686dde9ce4]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-ddcbf17e476a27b21f172e686dde9ce4]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-a9fbbbbb70eaf30173b789bc41e93139]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-a9fbbbbb70eaf30173b789bc41e93139]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-e08f616c8a0890568a2e5bfcf5c64d96]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-e08f616c8a0890568a2e5bfcf5c64d96]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
 [^c24320761]: Marginal citation: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23). Section 10 was amended by section 1 of the Immigration Act 2014.
 
@@ -721,9 +721,9 @@ Part 6 (consequential amendments: regulations 27 and 28) allows for biometric in
 
     1982 (c. 48), paragraphs 1 and 2 of Schedule 10 to the Immigration Act 1988, paragraph 10 of Schedule 10 to the Asylum and Immigration Act 1996, paragraph 13 of Schedule 2 to the Immigration and Asylum Act 1999, section 54 of, and paragraphs 43 and 68 of Schedule 14 to, the Nationality Asylum and Immigration Act 2002, paragraphs 7 and 8 of Schedule 7 to the Courts Act 2003, paragraph 150 of Schedule 8 and Schedule 10 to the Asylum and Immigration (Treatment of Claimants, etc) Act 2004, section 34 of the Immigration, Asylum and Nationality Act 2006, section 53 of the Immigration Act 2014, section 60 of, paragraph 2(2) of Schedule 1 and paragraphs 9, 20 and 24 of Schedule 9 to, the Immigration Act 2016.
 
-[^key-a03f031f209d01a60f0c06f238fe6b1c]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-a03f031f209d01a60f0c06f238fe6b1c]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-0a57cbc4e4ba3ac1f249657a15597fe6]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-0a57cbc4e4ba3ac1f249657a15597fe6]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
 [^c24320801]: Marginal citation: Treaty Series No. 44 (1992) Cmd 1976 at 
 
@@ -731,52 +731,52 @@ Part 6 (consequential amendments: regulations 27 and 28) allows for biometric in
 
 [^c24320811]: Marginal citation: [S.I. 2010/659](https://www.legislation.gov.uk/uksi/2010/659).
 
-[^key-b46cd90c7fffa5580e37ecfe00493e2f]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-b46cd90c7fffa5580e37ecfe00493e2f]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-c94a1ecab425bcdb450245d386703f7d]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-c94a1ecab425bcdb450245d386703f7d]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-d3416e3797be0a777e08b475232a55ec]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2020/1213/regulation/21A) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [50(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/50/2)
+[^c-d3416e3797be0a777e08b475232a55ec]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2020/1213/regulation/21A) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [50(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/50/2)
 
-[^key-beb8d9e0a460a6d2677617835e14a7b2]: Commencement: Reg. 21 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-beb8d9e0a460a6d2677617835e14a7b2]: Commencement: Reg. 21 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
-[^key-b64401b897e84f8314d966765d7c7f48]: Commencement: Reg. 22 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-b64401b897e84f8314d966765d7c7f48]: Commencement: Reg. 22 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
 [^c24320821]: Marginal citation: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-127ded881fd73a0f0bd41bc049ff5b88]: Commencement: Reg. 23 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-127ded881fd73a0f0bd41bc049ff5b88]: Commencement: Reg. 23 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
-[^key-cf542311ffce082004232a802f9b6e75]: Commencement: Reg. 24 in force at 4.11.2020 for specified purposes and on IP completion day in so far as not already in force, see reg. 1(2)(3)
+[^c-cf542311ffce082004232a802f9b6e75]: Commencement: Reg. 24 in force at 4.11.2020 for specified purposes and on IP completion day in so far as not already in force, see reg. 1(2)(3)
 
 [^c24320831]: Marginal citation: [S.I. 2020/61](https://www.legislation.gov.uk/uksi/2020/61).
 
-[^key-b6d494a2e248a50a79cc10c909de4151]: Textual amendment: Words in reg. 24(5) substituted (22.12.2020) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/c), [7(3)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/7/3)
+[^c-b6d494a2e248a50a79cc10c909de4151]: Textual amendment: Words in reg. 24(5) substituted (22.12.2020) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/c), [7(3)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/7/3)
 
-[^key-b0e62cac087838cc4369073b4894d5bc]: Commencement: Reg. 25 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-b0e62cac087838cc4369073b4894d5bc]: Commencement: Reg. 25 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
 [^c24320841]: Marginal citation: [S.I. 2003/1034](https://www.legislation.gov.uk/uksi/2003/1034). Amended by [S.I. 2007/1285](https://www.legislation.gov.uk/uksi/2007/1285), [S.I](https://www.legislation.gov.uk/uksi/2007/1285/section/I). 2013/2995 and S.I 2020/61.
 
-[^key-393f62964ba985375172f85a4702ae99]: Commencement: Reg. 26 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-393f62964ba985375172f85a4702ae99]: Commencement: Reg. 26 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
 [^c24320851]: Marginal citation: [S.I. 2014/2604](https://www.legislation.gov.uk/uksi/2014/2604): Amended by [S.I. 2020/61](https://www.legislation.gov.uk/uksi/2020/61).
 
-[^key-97beb3c59561929a65cc2da7dd1a302b]: Commencement: Reg. 27 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
+[^c-97beb3c59561929a65cc2da7dd1a302b]: Commencement: Reg. 27 in force at 4.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)
 
 [^c24320861]: Marginal citation: [S.I. 2006/1743](https://www.legislation.gov.uk/uksi/2006/1743). Amended by [S.I. 2011/1779](https://www.legislation.gov.uk/uksi/2011/1779), [S.I](https://www.legislation.gov.uk/uksi/2011/1779/section/I). 2015/737 and [S.I. 2018/928](https://www.legislation.gov.uk/uksi/2018/928).
 
-[^key-df908e587e325f3a5991619d5ca9d32c]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-df908e587e325f3a5991619d5ca9d32c]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
 [^c24320871]: Marginal citation: 1972/1610. Amended by [S.I. 1980/1859](https://www.legislation.gov.uk/uksi/1980/1859), [S.I](https://www.legislation.gov.uk/uksi/1980/1859/section/I). 1982/1028, [S.I. 2000/1776](https://www.legislation.gov.uk/uksi/2000/1776), [S.I](https://www.legislation.gov.uk/uksi/2000/1776/section/I). 2014/2475, [S.I. 2019/468](https://www.legislation.gov.uk/uksi/2019/468) and [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745).
 
-[^key-cc295a4f59ee716d40c7a88fcef36e1b]: Commencement: Sch. para. 1 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-cc295a4f59ee716d40c7a88fcef36e1b]: Commencement: Sch. para. 1 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-f1c5c333775b2253560d17fe966e93ad]: Commencement: Sch. para. 2 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-f1c5c333775b2253560d17fe966e93ad]: Commencement: Sch. para. 2 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-ac99b28d8c9679070a2747f166fa9708]: Commencement: Sch. para. 3 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-ac99b28d8c9679070a2747f166fa9708]: Commencement: Sch. para. 3 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-d4b21433c15f8631bf57b2167efae8bd]: Commencement: Sch. para. 4 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-d4b21433c15f8631bf57b2167efae8bd]: Commencement: Sch. para. 4 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-392106213c5c41a8a0e18659361ecff7]: Commencement: Sch. para. 5 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-392106213c5c41a8a0e18659361ecff7]: Commencement: Sch. para. 5 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-b1178e139257177d2cae6fe60d8d356a]: Commencement: Sch. para. 6 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-b1178e139257177d2cae6fe60d8d356a]: Commencement: Sch. para. 6 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
 
-[^key-dbc0ce8ea41fe7deb485ade5f45d97f6]: Commencement: Sch. para. 7 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)
+[^c-dbc0ce8ea41fe7deb485ade5f45d97f6]: Commencement: Sch. para. 7 in force at 31.12.2020 on IP completion day, see reg. 1(2)(3)

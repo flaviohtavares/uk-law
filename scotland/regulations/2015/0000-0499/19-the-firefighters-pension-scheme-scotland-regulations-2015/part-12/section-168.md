@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 168. Payment on behalf of members of lifetime allowance charge[^key-0f1faed3b2eb408c21521d98ce62b4c2]
+## 168. Payment on behalf of members of lifetime allowance charge[^c-0f1faed3b2eb408c21521d98ce62b4c2]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f1faed3b2eb408c21521d98ce62b4c2]: Commencement: [Reg. 168](https://www.legislation.gov.uk/ssi/2015/19/regulation/168) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-0f1faed3b2eb408c21521d98ce62b4c2]: Commencement: [Reg. 168](https://www.legislation.gov.uk/ssi/2015/19/regulation/168) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

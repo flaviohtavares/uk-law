@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Permanent stopping up and restriction of use of streets and private means of access[^key-a01cd46b1ee1dc63ff0eb76e203ad18f]
+## 17. Permanent stopping up and restriction of use of streets and private means of access[^c-a01cd46b1ee1dc63ff0eb76e203ad18f]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a01cd46b1ee1dc63ff0eb76e203ad18f]: Commencement: Art. 17 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-a01cd46b1ee1dc63ff0eb76e203ad18f]: Commencement: Art. 17 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))

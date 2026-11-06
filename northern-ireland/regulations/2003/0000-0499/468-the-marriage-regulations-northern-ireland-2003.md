@@ -43,11 +43,11 @@ Coming into operation
 
 The Department of Finance and Personnel in exercise of the powers conferred on it by Articles 3(3) and (4), 4(1), 7(1), (2), (5) and (6), 8(3) and (4), 17, 18(3), (4) and (6), 21(4), 22(3), 24(3), 27(1), 29(2), 35(3), 36(1) and (3) and 39(2) of the Marriage (Northern Ireland) Order 2003[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations.
 
-## 1. Citation and commencement[^key-448e244fbd71ba171aaa75935dbadd43]
+## 1. Citation and commencement[^c-448e244fbd71ba171aaa75935dbadd43]
 
 These regulations may be cited as the Marriage Regulations (Northern Ireland) 2003 and shall come into operation on 1st January 2004.
 
-## 2. Interpretation[^key-38fd04fe4f797f8f41933b3a9f993f94]
+## 2. Interpretation[^c-38fd04fe4f797f8f41933b3a9f993f94]
 
 In these regulations –
 
@@ -61,7 +61,7 @@ In these regulations –
 - “temporary place approval” means approval by an authority of a place where a civil marriage may be solemnised for one occasion in its district;
 - “the Order” means the Marriage (Northern Ireland) Order 2003.
 
-## 3. Marriage Notice[^key-0364da644e3f00d0156067a93b05d9b6]
+## 3. Marriage Notice[^c-0364da644e3f00d0156067a93b05d9b6]
 
 (1) A marriage notice shall be in the form as set out in Schedule 1.
 
@@ -70,14 +70,14 @@ In these regulations –
 - (a) the registrar has received a written request from one or both of the parties giving the reason why 14 days notice cannot be given; and
 - (b) the registrar has been authorised by the Registrar General to reduce the period of 14 days notice to such shorter period as he considers necessary.
 
-**4.**[^key-1dbfa96bcff6346e664eeabb608a110c] The registrar may require either of the parties to the marriage to give the marriage notice in person to the registrar for the district in which the marriage is to take place or to a registrar of any other district where –
+**4.**[^c-1dbfa96bcff6346e664eeabb608a110c] The registrar may require either of the parties to the marriage to give the marriage notice in person to the registrar for the district in which the marriage is to take place or to a registrar of any other district where –
 
 - (a) the registrar is not satisfied that the marriage notice has been completed correctly; or
 - (b) there is any doubt about the identity of the parties; or
 - (c) there appears to be a legal impediment to the marriage; or
 - (d) any of the documents submitted is not in order.
 
-## 5. Marriage Notice Book[^key-c98757a0eefaccfdba8526b1c9aef3a5]
+## 5. Marriage Notice Book[^c-c98757a0eefaccfdba8526b1c9aef3a5]
 
 The prescribed particulars, in relation to a person to be taken from each marriage notice received by the registrar, shall be that person’s –
 
@@ -87,7 +87,7 @@ The prescribed particulars, in relation to a person to be taken from each marria
 - (d) date of birth; and
 - (e) date of intended marriage.
 
-## 6. Marriage schedule[^key-248f02bdcd16b79a4cde97cc642cd392]
+## 6. Marriage schedule[^c-248f02bdcd16b79a4cde97cc642cd392]
 
 (1) A marriage schedule shall be in the form set out in Schedule 2.
 
@@ -103,23 +103,23 @@ The prescribed particulars, in relation to a person to be taken from each marria
 - (b) sudden illness; or
 - (c) unavoidable delay.
 
-## 7. Certificate in Respect of Legal Capacity to Marry[^key-39f85569fe23b69b1d3f5c73a1f82950]
+## 7. Certificate in Respect of Legal Capacity to Marry[^c-39f85569fe23b69b1d3f5c73a1f82950]
 
 (1) The certificate to be issued under Article 8(3) of the Order shall be in the form set out in Schedule 3.
 
 (2) The registrar shall not issue a certificate before the expiration of a period of 14 days from the date of receipt of the marriage notice.
 
-## 8. Notices to return schedule[^key-53d1b0fcf9c4fb8ef51923641c7398ff]
+## 8. Notices to return schedule[^c-53d1b0fcf9c4fb8ef51923641c7398ff]
 
 (1) The notice to be served under Article 17(1) of the Order shall be in the form set out in Schedule 4.
 
 (2) The notice to be served under Article 17(2) of the Order shall be in the form set out in Schedule 5.
 
-## 9. Medical statement[^key-9d9cb0b83f14a6dd943d4a1aca06e7bc]
+## 9. Medical statement[^c-9d9cb0b83f14a6dd943d4a1aca06e7bc]
 
 The medical statement for the purposes of Article 18(6) of the Order shall be in the form set out in Schedule 6.
 
-## 10. Second Marriage Ceremony[^key-a11c403328790871c4d2ab6c3a0c89d1]
+## 10. Second Marriage Ceremony[^c-a11c403328790871c4d2ab6c3a0c89d1]
 
 For the purposes of Article 21(4) of the Order –
 
@@ -127,11 +127,11 @@ For the purposes of Article 21(4) of the Order –
 - (b) the marriage schedule shall be in the form set out in Schedule 8;
 - (c) Article 6 of the Order shall apply as if paragraph (6)(b) were omitted.
 
-## 11. Consent[^key-a0277c80fe1c4bb52853dda2de9cfdc0]
+## 11. Consent[^c-a0277c80fe1c4bb52853dda2de9cfdc0]
 
 The relevant consents for the purpose of Article 22 of the Order shall be in the form set out in Schedule 9.
 
-**12.**[^key-75c1730ef5fb07c3a28894e2a1e39e12] The prescribed particulars to be taken from each consent or from an order made under Article 23 of the Order shall be –
+**12.**[^c-75c1730ef5fb07c3a28894e2a1e39e12] The prescribed particulars to be taken from each consent or from an order made under Article 23 of the Order shall be –
 
 - (a) date of intended marriage;
 - (b) name and surname of each party;
@@ -141,7 +141,7 @@ The relevant consents for the purpose of Article 22 of the Order shall be in the
 - (f) name of Health and Social Services Board or Health and Social Services Trust (if applicable); and
 - (g) date of consent or order.
 
-## 13. Corrections[^key-40fa29909f9203d86817fcc8680773bf]
+## 13. Corrections[^c-40fa29909f9203d86817fcc8680773bf]
 
 (1) The Registrar General or any registrar may –
 
@@ -150,19 +150,19 @@ The relevant consents for the purpose of Article 22 of the Order shall be in the
 
 (2) The statutory declaration referred to in paragraph (1)(b) shall be in the form set out in Schedule 10.
 
-## 14. Detained persons[^key-1984ef0f4d1167db485095ec41af48e6]
+## 14. Detained persons[^c-1984ef0f4d1167db485095ec41af48e6]
 
 The statement for the purposes of Article 29 of the Order shall be in the form as set out in Schedule 11.
 
 ## Civil marriage in approved places
 
-## 15. Applicants for an approval of a place for marriage[^key-6802cb5564fe819da6d338b0707839de]
+## 15. Applicants for an approval of a place for marriage[^c-6802cb5564fe819da6d338b0707839de]
 
 (1) An application for a place approval may, following the procedures set out in regulation 16, be made to the authority by any person.
 
 (2) An application for a temporary approval may, following the procedures set out in regulation 17, be made to the authority by either of the parties to an intended civil marriage in respect of any place which at the time of the application has not place approval, other than one where an approval will expire before the date of the intended civil marriage.
 
-## 16. Place approvals[^key-053b6c3306ab6f3ecf5df84b81c7e3dc]
+## 16. Place approvals[^c-053b6c3306ab6f3ecf5df84b81c7e3dc]
 
 (1) An applicant for place approval shall deliver to the authority an application in writing to include –
 
@@ -175,7 +175,7 @@ The statement for the purposes of Article 29 of the Order shall be in the form a
 
 (4) The authority may, if it considers it to be appropriate after receiving the application, arrange for the place to be inspected.
 
-## 17. Temporary place approvals[^key-858ca5f6ce5a7fbbb2258f3a3dc589b9]
+## 17. Temporary place approvals[^c-858ca5f6ce5a7fbbb2258f3a3dc589b9]
 
 (1) An applicant for a temporary place approval shall deliver to the authority an application in writing to include –
 
@@ -189,7 +189,7 @@ The statement for the purposes of Article 29 of the Order shall be in the form a
 
 (4) The authority may, if it considers it to be appropriate after receiving the application, arrange for the place to be inspected.
 
-## 18. Public notice[^key-5c8294b2973b1bc5e471b201173e01dc]
+## 18. Public notice[^c-5c8294b2973b1bc5e471b201173e01dc]
 
 (1) As soon as practicable after receiving an application the authority shall, in accordance with paragraph (2), cause a notice to be placed on public display at the place named in the application.
 
@@ -200,7 +200,7 @@ The statement for the purposes of Article 29 of the Order shall be in the form a
 - (c) state that objections to the application may be made to the authority in accordance with regulation 19; and
 - (d) state the address at which the application can be inspected and the address to which such objections should be given.
 
-## 19. Objections[^key-bc8835b90a09cc313a1508bae5ff3e33]
+## 19. Objections[^c-bc8835b90a09cc313a1508bae5ff3e33]
 
 (1) Any person may give notice in writing to the authority of an objection to an application in accordance with this regulation.
 
@@ -214,7 +214,7 @@ The statement for the purposes of Article 29 of the Order shall be in the form a
 
 (4) The authority shall send a copy of any objection submitted in accordance with this regulation to the applicant.
 
-## 20. Determination of applications[^key-4478a6c3e8f3c22fd2d51b680510e9ad]
+## 20. Determination of applications[^c-4478a6c3e8f3c22fd2d51b680510e9ad]
 
 (1) The authority shall not grant an approval if the application has not been made in accordance with these regulations.
 
@@ -231,14 +231,14 @@ The statement for the purposes of Article 29 of the Order shall be in the form a
 
 (4) The authority shall not grant a place approval if, in its opinion, the applicant is not a fit and proper person.
 
-## 21. Conditions attached to approvals[^key-327ed59b2081d163a731f1b4a21788f6]
+## 21. Conditions attached to approvals[^c-327ed59b2081d163a731f1b4a21788f6]
 
 In granting an approval the authority –
 
 - (a) shall attach to a place approval the standard conditions contained in Schedule 12; and
 - (b) may attach to a temporary place approval such conditions, and to a place approval such further conditions, as it considers reasonable in order to ensure that the facilities provided at the place are suitable.
 
-## 22. Notification of decisions[^key-59f23d73c17f022339131d29b65b1d2c]
+## 22. Notification of decisions[^c-59f23d73c17f022339131d29b65b1d2c]
 
 (1) The authority shall, within 7 days of its decision, notify the applicant in writing of that decision including any conditions attached to an approval under regulation 21.
 
@@ -249,17 +249,17 @@ In granting an approval the authority –
 
 (3) The authority shall, at the same time as it notifies the applicant under paragraph (1), send a copy of any approval to the registrar.
 
-## 23. Restriction on successive applications[^key-7ac17eb91df37b43edf2096a5c8745e1]
+## 23. Restriction on successive applications[^c-7ac17eb91df37b43edf2096a5c8745e1]
 
 Where the authority has refused an application for an approval it shall not, within one year of that refusal, consider a subsequent application for the same kind of approval in respect of the same place unless, in its opinion, there has been a material change of circumstances.
 
-## 24. Duration of approvals[^key-5ea0a708db6af21bc6a59f197a85cfdb]
+## 24. Duration of approvals[^c-5ea0a708db6af21bc6a59f197a85cfdb]
 
 (1) Subject to regulations 25(3), 28 and 29, a place approval shall be valid from the date it is granted for a period of three years, or such lesser period as the authority may determine.
 
 (2) Subject to regulations 28 and 29, a temporary place approval shall be valid only for the date stated in that approval unless the authority, on the request of the applicant in writing, agrees to amend the stated date.
 
-## 25. Renewal of place approvals[^key-27d7ddadf56191b20132f069894daa3a]
+## 25. Renewal of place approvals[^c-27d7ddadf56191b20132f069894daa3a]
 
 (1) An application for renewal of a place approval may be made by the approval holder.
 
@@ -270,7 +270,7 @@ Where the authority has refused an application for an approval it shall not, wit
 
 (3) If an application for renewal has been made in accordance with paragraphs (1) and (2) and that application has not been finally determined or withdrawn before the date on which the approval would otherwise expire, the approval shall continue in effect until such time as the application is finally determined or withdrawn.
 
-## 26. Fees for applications and renewals[^key-178ecdedc5773be71df348a552bd187c]
+## 26. Fees for applications and renewals[^c-178ecdedc5773be71df348a552bd187c]
 
 (1) An authority may, in accordance with this regulation, determine a fee in respect of an application for an approval, or the renewal of a place approval.
 
@@ -278,14 +278,14 @@ Where the authority has refused an application for an approval it shall not, wit
 
 (3) An authority may charge a fee in respect of an application or renewal, or an amount on account of such fee, where it has not yet incurred any costs in respect of that application or renewal.
 
-## 27. Fees for attendance of Registrars[^key-8a7c4304f7ed6f09b6cd078815aeee44]
+## 27. Fees for attendance of Registrars[^c-8a7c4304f7ed6f09b6cd078815aeee44]
 
 An authority may determine a fee in respect of the attendance by the registrar at approved places and any such fee shall –
 
 - (a) be the amount which reasonably represents the costs incurred or to be incurred directly or indirectly by the authority in respect of that attendance; and
 - (b) be payable to the authority by the parties to an intended civil marriage not less than 14 days, or such lesser period as the authority may determine, prior to the solemnisation of the marriage.
 
-## 28. Revocation and suspension of approvals[^key-8187c6942554b2ee1070ad411b86f674]
+## 28. Revocation and suspension of approvals[^c-8187c6942554b2ee1070ad411b86f674]
 
 (1) An authority may revoke or suspend an approval in accordance with the provisions of this regulation.
 
@@ -319,7 +319,7 @@ an opportunity to be heard by the authority or, if that person prefers, to submi
 
 (10) Upon receipt of the notice of revocation or suspension under paragraph (9) the approval holder shall forthwith serve notice of the revocation or suspension on all parties whose intended marriages have not yet been solemnised in the place in respect of which the notice of revocation or suspension has been received.
 
-## 29. Variation of approvals[^key-28354a85d849882672320ff08d3326b9]
+## 29. Variation of approvals[^c-28354a85d849882672320ff08d3326b9]
 
 (1) Subject to the following paragraphs an authority may, at any time, vary the conditions attached to an approval under regulation 21(b) on any grounds it thinks fit.
 
@@ -332,7 +332,7 @@ an opportunity to be heard by the authority or, if that person prefers, to submi
 - (a) upon expiry of the period for applying for a review under regulation 30; or
 - (b) where such an application has been lodged, when the review has been determined in favour of the variation.
 
-## 30. Review[^key-fd08e9c0f205cbc80793ff2b0ce228a2]
+## 30. Review[^c-fd08e9c0f205cbc80793ff2b0ce228a2]
 
 (1) An applicant or an approval holder may seek a review by the authority of any decision made by the authority in relation to an application (including any decision to revoke or suspend, or to vary any of the conditions imposed in relation to, an approval granted in pursuance of that application).
 
@@ -340,7 +340,7 @@ an opportunity to be heard by the authority or, if that person prefers, to submi
 
 (3) On review under paragraph (1) the authority shall notify the applicant or the approval holder of its decision together with details of the right of appeal to the county court in accordance with regulation 31.
 
-## 31. Appeal[^key-834660588229e3c4b7b082b4c5bed57a]
+## 31. Appeal[^c-834660588229e3c4b7b082b4c5bed57a]
 
 (1) An applicant or an approval holder may appeal any decision made by an authority on review under regulation 30 to the county court.
 
@@ -353,13 +353,13 @@ an opportunity to be heard by the authority or, if that person prefers, to submi
 - (c) that the authority has acted contrary to natural justice; or
 - (d) that the authority has acted unreasonably in the exercise of its discretion.
 
-## 32. Deemed approval holder[^key-b6c6377819c05c2896e3bf550dc9a305]
+## 32. Deemed approval holder[^c-b6c6377819c05c2896e3bf550dc9a305]
 
 (1) Without prejudice to the provisions of these regulations as to the duration, or the revocation, suspension or variation, of an approval, a place approval shall remain in operation notwithstanding that the approval holder ceases to have an interest in the approved place and the person to whom his interest is transferred shall be deemed to be the approval holder in his place.
 
 (2) Where a person is deemed to be an approval holder under paragraph (1) that person shall immediately notify the authority of that fact, whereupon the authority shall consider the matter and may revoke, suspend or vary the approval, in accordance with regulations 28 and 29.
 
-## 33. Registers of approved places[^key-0f204531c006d98d52efb84152815781]
+## 33. Registers of approved places[^c-0f204531c006d98d52efb84152815781]
 
 (1) Each authority shall keep a register of every approved place within its area for which an approval has been granted, containing –
 
@@ -374,18 +374,18 @@ an opportunity to be heard by the authority or, if that person prefers, to submi
 
 (4) The authority shall make the register available for public inspection during the normal working hours of the authority.
 
-## 34. Guidance concerning grants of approval and approved places[^key-38d0bc02769c5ebe59d48cd11270f24e]
+## 34. Guidance concerning grants of approval and approved places[^c-38d0bc02769c5ebe59d48cd11270f24e]
 
 The Registrar General shall from time to time issue guidance supplementing the provisions made by these regulations for or in connection with the approval of places where civil marriages will be solemnised.
 
-## 35. Certified Copies of Entries[^key-9fff8ea6fd2319fcd0b79861c9b75273]
+## 35. Certified Copies of Entries[^c-9fff8ea6fd2319fcd0b79861c9b75273]
 
 The document given under Article 35(3) of the Order –
 
 - (a) shall be in the form as set out in Schedule 13 where it is being issued from the General Register Office; and
 - (b) shall be in the form as set out in Schedule 14 where it is being issued by a Registrar.
 
-**36.**[^key-bce31b4c4c598ef85c166d7f82ec3b36] (1) The document given under Article 36 of the Order shall be in the form as set out in Schedule 15.
+**36.**[^c-bce31b4c4c598ef85c166d7f82ec3b36] (1) The document given under Article 36 of the Order shall be in the form as set out in Schedule 15.
 
 (2) The statutory provisions to be prescribed under Article 36 of the Order are listed in Schedule 16.
 
@@ -421,13 +421,13 @@ Regulation 7
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/468/images/nisr_20030468_en_006)
 
-## SCHEDULE 4 — NOTICE UNDER ARTICLE 17(1) OF THE MARRIAGE (NORTHERN IRELAND) ORDER 2003[^key-65f7d15b9465fdd68b34bf10c81b8b49]
+## SCHEDULE 4 — NOTICE UNDER ARTICLE 17(1) OF THE MARRIAGE (NORTHERN IRELAND) ORDER 2003[^c-65f7d15b9465fdd68b34bf10c81b8b49]
 
 Regulation 8
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/468/images/nisr_20030468_en_007)
 
-## SCHEDULE 5 — SECOND NOTICE UNDER ARTICLE 17(2) OF THE MARRIAGE (NORTHERN IRELAND) ORDER 2003[^key-5ca1ef7c2191ab940cc30ad39a082e35]
+## SCHEDULE 5 — SECOND NOTICE UNDER ARTICLE 17(2) OF THE MARRIAGE (NORTHERN IRELAND) ORDER 2003[^c-5ca1ef7c2191ab940cc30ad39a082e35]
 
 Regulation 8
 
@@ -487,25 +487,25 @@ Regulation 21
 
 ### Article 18 of the Marriage (Northern Ireland) Order 2003
 
-**1.**[^key-85a4af3d3aac99f3a4203d8c375f0230] The approval holder is responsible for compliance with these conditions and must make arrangements to ensure that in his or her absence a person of suitable responsibility is available in this regard.
+**1.**[^c-85a4af3d3aac99f3a4203d8c375f0230] The approval holder is responsible for compliance with these conditions and must make arrangements to ensure that in his or her absence a person of suitable responsibility is available in this regard.
 
-**2.**[^key-c6e545a7c736ee3cf6e102baf48ba39d] The approval holder (or his or her delegate) shall be available in or at the approved place for a minimum of one hour prior to each civil marriage ceremony and throughout the ceremony itself.
+**2.**[^c-c6e545a7c736ee3cf6e102baf48ba39d] The approval holder (or his or her delegate) shall be available in or at the approved place for a minimum of one hour prior to each civil marriage ceremony and throughout the ceremony itself.
 
-**3.**[^key-6055c0eceae44381f23a688c1f44c72d] The approval holder must notify the authority immediately of any change to any of the following –
+**3.**[^c-6055c0eceae44381f23a688c1f44c72d] The approval holder must notify the authority immediately of any change to any of the following –
 
 - (a) the nature of the approved place from that described in the application for approval;
 - (b) the name, description and full postal address (if any) of the approved place; and
 - (c) the address of the approval holder.
 
-**4.**[^key-ce6488d818e92754323902310f4e7ff4] Where a person is deemed to be an approval holder under regulation 32, that person shall be obliged to notify the authority immediately of that fact in accordance with regulation 32(2).
+**4.**[^c-ce6488d818e92754323902310f4e7ff4] Where a person is deemed to be an approval holder under regulation 32, that person shall be obliged to notify the authority immediately of that fact in accordance with regulation 32(2).
 
-**5.**[^key-e11253c655d7f57722507bae5a17ad2c] The approved place must be made available for inspection by the authority at all reasonable times.
+**5.**[^c-e11253c655d7f57722507bae5a17ad2c] The approved place must be made available for inspection by the authority at all reasonable times.
 
-**6.**[^key-64bb9a8918c7d0d29d35d4da8e700c3f] No food or drink may be sold or dispensed or consumed in any approved place in which a marriage ceremony is to take place within one hour prior to that ceremony or during the ceremony itself, except where the ceremony takes place in a separate room or similarly defined space within the approved place in which case this restriction shall apply only to that room or space.
+**6.**[^c-64bb9a8918c7d0d29d35d4da8e700c3f] No food or drink may be sold or dispensed or consumed in any approved place in which a marriage ceremony is to take place within one hour prior to that ceremony or during the ceremony itself, except where the ceremony takes place in a separate room or similarly defined space within the approved place in which case this restriction shall apply only to that room or space.
 
-**7.**[^key-dd75ef3f6574a42dfbf7456e854bd1b4] The arrangements made by the approval holder for each civil marriage ceremony must meet with the prior written approval of the registrar.
+**7.**[^c-dd75ef3f6574a42dfbf7456e854bd1b4] The arrangements made by the approval holder for each civil marriage ceremony must meet with the prior written approval of the registrar.
 
-**8.**[^key-aa2cd634914a6b19977ef9f082bc36b2] (1) Any reference to an approved place on any sign or notice, or on any stationery or publication, or within any advertisement, relating to that place may state, subject to sub-paragraph (2), that the approved place has been approved by the authority as a venue for civil marriages in pursuance of the Order and if it does so, must state that such an approval does not bind the authority to perform or provide a service without prior consultation with and agreement of said authority.
+**8.**[^c-aa2cd634914a6b19977ef9f082bc36b2] (1) Any reference to an approved place on any sign or notice, or on any stationery or publication, or within any advertisement, relating to that place may state, subject to sub-paragraph (2), that the approved place has been approved by the authority as a venue for civil marriages in pursuance of the Order and if it does so, must state that such an approval does not bind the authority to perform or provide a service without prior consultation with and agreement of said authority.
 
 (2) Any reference under (1) shall not state or imply any recommendation of the approved place or its facilities by the authority, the Registrar General or any of the officers or employees of either of them.
 
@@ -537,7 +537,7 @@ Regulation 36
 
 [image: see source](https://www.legislation.gov.uk/nisr/2003/468/images/nisr_20030468_en_019)
 
-## SCHEDULE 16 — LIST OF STATUTORY PROVISIONS WHERE AN EXTRACT FROM MARRIAGE REGISTRATION RECORDS CAN BE ISSUED UNDER ARTICLE 36 OF THE MARRIAGE (NORTHERN IRELAND) ORDER 2003[^key-e2fcb8272d9b45d5c5252dddda7fe637]
+## SCHEDULE 16 — LIST OF STATUTORY PROVISIONS WHERE AN EXTRACT FROM MARRIAGE REGISTRATION RECORDS CAN BE ISSUED UNDER ARTICLE 36 OF THE MARRIAGE (NORTHERN IRELAND) ORDER 2003[^c-e2fcb8272d9b45d5c5252dddda7fe637]
 
 Regulation 36
 
@@ -609,96 +609,96 @@ In particular the regulations set out –
 
 [^f00001]: Footnote: [S.I.2003/413 (N.I. 3)](https://www.legislation.gov.uk/nisi/2003/413)
 
-[^key-448e244fbd71ba171aaa75935dbadd43]: Commencement: Reg. 1 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-448e244fbd71ba171aaa75935dbadd43]: Commencement: Reg. 1 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-38fd04fe4f797f8f41933b3a9f993f94]: Commencement: Reg. 2 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-38fd04fe4f797f8f41933b3a9f993f94]: Commencement: Reg. 2 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-0364da644e3f00d0156067a93b05d9b6]: Commencement: Reg. 3 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-0364da644e3f00d0156067a93b05d9b6]: Commencement: Reg. 3 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-1dbfa96bcff6346e664eeabb608a110c]: Commencement: Reg. 4 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-1dbfa96bcff6346e664eeabb608a110c]: Commencement: Reg. 4 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-c98757a0eefaccfdba8526b1c9aef3a5]: Commencement: Reg. 5 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-c98757a0eefaccfdba8526b1c9aef3a5]: Commencement: Reg. 5 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-248f02bdcd16b79a4cde97cc642cd392]: Commencement: Reg. 6 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-248f02bdcd16b79a4cde97cc642cd392]: Commencement: Reg. 6 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-39f85569fe23b69b1d3f5c73a1f82950]: Commencement: Reg. 7 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-39f85569fe23b69b1d3f5c73a1f82950]: Commencement: Reg. 7 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-53d1b0fcf9c4fb8ef51923641c7398ff]: Commencement: Reg. 8 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-53d1b0fcf9c4fb8ef51923641c7398ff]: Commencement: Reg. 8 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-9d9cb0b83f14a6dd943d4a1aca06e7bc]: Commencement: Reg. 9 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-9d9cb0b83f14a6dd943d4a1aca06e7bc]: Commencement: Reg. 9 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-a11c403328790871c4d2ab6c3a0c89d1]: Commencement: Reg. 10 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-a11c403328790871c4d2ab6c3a0c89d1]: Commencement: Reg. 10 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-a0277c80fe1c4bb52853dda2de9cfdc0]: Commencement: Reg. 11 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-a0277c80fe1c4bb52853dda2de9cfdc0]: Commencement: Reg. 11 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-75c1730ef5fb07c3a28894e2a1e39e12]: Commencement: Reg. 12 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-75c1730ef5fb07c3a28894e2a1e39e12]: Commencement: Reg. 12 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-40fa29909f9203d86817fcc8680773bf]: Commencement: Reg. 13 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-40fa29909f9203d86817fcc8680773bf]: Commencement: Reg. 13 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-1984ef0f4d1167db485095ec41af48e6]: Commencement: Reg. 14 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-1984ef0f4d1167db485095ec41af48e6]: Commencement: Reg. 14 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-6802cb5564fe819da6d338b0707839de]: Commencement: Reg. 15 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-6802cb5564fe819da6d338b0707839de]: Commencement: Reg. 15 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-053b6c3306ab6f3ecf5df84b81c7e3dc]: Commencement: Reg. 16 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-053b6c3306ab6f3ecf5df84b81c7e3dc]: Commencement: Reg. 16 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-858ca5f6ce5a7fbbb2258f3a3dc589b9]: Commencement: Reg. 17 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-858ca5f6ce5a7fbbb2258f3a3dc589b9]: Commencement: Reg. 17 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-5c8294b2973b1bc5e471b201173e01dc]: Commencement: Reg. 18 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-5c8294b2973b1bc5e471b201173e01dc]: Commencement: Reg. 18 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-bc8835b90a09cc313a1508bae5ff3e33]: Commencement: Reg. 19 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-bc8835b90a09cc313a1508bae5ff3e33]: Commencement: Reg. 19 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-4478a6c3e8f3c22fd2d51b680510e9ad]: Commencement: Reg. 20 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-4478a6c3e8f3c22fd2d51b680510e9ad]: Commencement: Reg. 20 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-327ed59b2081d163a731f1b4a21788f6]: Commencement: Reg. 21 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-327ed59b2081d163a731f1b4a21788f6]: Commencement: Reg. 21 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-59f23d73c17f022339131d29b65b1d2c]: Commencement: Reg. 22 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-59f23d73c17f022339131d29b65b1d2c]: Commencement: Reg. 22 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-7ac17eb91df37b43edf2096a5c8745e1]: Commencement: Reg. 23 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-7ac17eb91df37b43edf2096a5c8745e1]: Commencement: Reg. 23 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-5ea0a708db6af21bc6a59f197a85cfdb]: Commencement: Reg. 24 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-5ea0a708db6af21bc6a59f197a85cfdb]: Commencement: Reg. 24 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-27d7ddadf56191b20132f069894daa3a]: Commencement: Reg. 25 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-27d7ddadf56191b20132f069894daa3a]: Commencement: Reg. 25 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-178ecdedc5773be71df348a552bd187c]: Commencement: Reg. 26 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-178ecdedc5773be71df348a552bd187c]: Commencement: Reg. 26 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-8a7c4304f7ed6f09b6cd078815aeee44]: Commencement: Reg. 27 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-8a7c4304f7ed6f09b6cd078815aeee44]: Commencement: Reg. 27 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-8187c6942554b2ee1070ad411b86f674]: Commencement: Reg. 28 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-8187c6942554b2ee1070ad411b86f674]: Commencement: Reg. 28 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-28354a85d849882672320ff08d3326b9]: Commencement: Reg. 29 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-28354a85d849882672320ff08d3326b9]: Commencement: Reg. 29 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-fd08e9c0f205cbc80793ff2b0ce228a2]: Commencement: Reg. 30 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-fd08e9c0f205cbc80793ff2b0ce228a2]: Commencement: Reg. 30 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-834660588229e3c4b7b082b4c5bed57a]: Commencement: Reg. 31 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-834660588229e3c4b7b082b4c5bed57a]: Commencement: Reg. 31 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-b6c6377819c05c2896e3bf550dc9a305]: Commencement: Reg. 32 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-b6c6377819c05c2896e3bf550dc9a305]: Commencement: Reg. 32 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-0f204531c006d98d52efb84152815781]: Commencement: Reg. 33 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-0f204531c006d98d52efb84152815781]: Commencement: Reg. 33 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-38d0bc02769c5ebe59d48cd11270f24e]: Commencement: Reg. 34 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-38d0bc02769c5ebe59d48cd11270f24e]: Commencement: Reg. 34 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-9fff8ea6fd2319fcd0b79861c9b75273]: Commencement: Reg. 35 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-9fff8ea6fd2319fcd0b79861c9b75273]: Commencement: Reg. 35 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-bce31b4c4c598ef85c166d7f82ec3b36]: Commencement: Reg. 36 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-bce31b4c4c598ef85c166d7f82ec3b36]: Commencement: Reg. 36 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-65f7d15b9465fdd68b34bf10c81b8b49]: Commencement: Sch. 4 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-65f7d15b9465fdd68b34bf10c81b8b49]: Commencement: Sch. 4 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-5ca1ef7c2191ab940cc30ad39a082e35]: Commencement: Sch. 5 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-5ca1ef7c2191ab940cc30ad39a082e35]: Commencement: Sch. 5 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-85a4af3d3aac99f3a4203d8c375f0230]: Commencement: Sch. 12 para. 1 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-85a4af3d3aac99f3a4203d8c375f0230]: Commencement: Sch. 12 para. 1 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-c6e545a7c736ee3cf6e102baf48ba39d]: Commencement: Sch. 12 para. 2 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-c6e545a7c736ee3cf6e102baf48ba39d]: Commencement: Sch. 12 para. 2 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-6055c0eceae44381f23a688c1f44c72d]: Commencement: Sch. 12 para. 3 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-6055c0eceae44381f23a688c1f44c72d]: Commencement: Sch. 12 para. 3 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-ce6488d818e92754323902310f4e7ff4]: Commencement: Sch. 12 para. 4 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-ce6488d818e92754323902310f4e7ff4]: Commencement: Sch. 12 para. 4 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-e11253c655d7f57722507bae5a17ad2c]: Commencement: Sch. 12 para. 5 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-e11253c655d7f57722507bae5a17ad2c]: Commencement: Sch. 12 para. 5 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-64bb9a8918c7d0d29d35d4da8e700c3f]: Commencement: Sch. 12 para. 6 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-64bb9a8918c7d0d29d35d4da8e700c3f]: Commencement: Sch. 12 para. 6 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-dd75ef3f6574a42dfbf7456e854bd1b4]: Commencement: Sch. 12 para. 7 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-dd75ef3f6574a42dfbf7456e854bd1b4]: Commencement: Sch. 12 para. 7 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-aa2cd634914a6b19977ef9f082bc36b2]: Commencement: Sch. 12 para. 8 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-aa2cd634914a6b19977ef9f082bc36b2]: Commencement: Sch. 12 para. 8 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
 
-[^key-e2fcb8272d9b45d5c5252dddda7fe637]: Commencement: Sch. 16 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)
+[^c-e2fcb8272d9b45d5c5252dddda7fe637]: Commencement: Sch. 16 in operation at 1.1.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/468/regulation/1)

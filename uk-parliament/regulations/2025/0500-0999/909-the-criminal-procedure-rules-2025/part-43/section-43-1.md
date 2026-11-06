@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43.1. When this Part applies[^key-83f424ebad1f7136ccbf873b164f1e03]
+## 43.1. When this Part applies[^c-83f424ebad1f7136ccbf873b164f1e03]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-83f424ebad1f7136ccbf873b164f1e03]: Commencement: [Rule 43.1](https://www.legislation.gov.uk/uksi/2025/909/rule/43.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-83f424ebad1f7136ccbf873b164f1e03]: Commencement: [Rule 43.1](https://www.legislation.gov.uk/uksi/2025/909/rule/43.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01004]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 33 was amended by section 152 of, and Schedule 5 to, the Senior Courts Act [1981 (c. 54)](https://www.legislation.gov.uk/ukpga/1981/54), section 15 of, and paragraph 3 of Schedule 2 to, the Criminal Justice Act [1987 (c. 38)](https://www.legislation.gov.uk/ukpga/1987/38), section 36(1)(a) of the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), section 456 of, and paragraphs 1 and 4 of Schedule 11 to, the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), sections 47, 68 and 81 of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), by section 40 of, and paragraph 16 of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and sections 74 and 92 of, and paragraph 144 of Schedule 8, and Schedule 14 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27).
 

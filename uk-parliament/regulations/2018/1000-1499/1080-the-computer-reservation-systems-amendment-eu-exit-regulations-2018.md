@@ -60,7 +60,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## 2. Amendment of EU Regulation [(EC) 80/2009](https://www.legislation.gov.uk/eur/2009/80)[^c23417891]
 
-Regulation [(EC) 80/2009](https://www.legislation.gov.uk/eur/2009/80) [^c23416891] is amended in accordance with regulations 2 to 15[^key-244aced23c6b879e8a2bf5b3f1d8fac0].
+Regulation [(EC) 80/2009](https://www.legislation.gov.uk/eur/2009/80) [^c23416891] is amended in accordance with regulations 2 to 15[^c-244aced23c6b879e8a2bf5b3f1d8fac0].
 
 ## 3.[^c23417901]
 
@@ -111,7 +111,7 @@ In Article 8—
 In Article 11—
 
 - (a) in paragraph 1, omit the words “data controller in accordance with Article 2(d) of Directive [95/46/EC](https://www.legislation.gov.uk/eudr/1995/46) [^c23416901]” and substitute “ controller in accordance with Article 4(7) of Regulation (EU) 2016/679 [^c23416911] ”;
-- (aa)[^key-14a378f2820e7aaa9fa9fb4e1baf4b89] in paragraph 3, for “8” substitute “9”;
+- (aa)[^c-14a378f2820e7aaa9fa9fb4e1baf4b89] in paragraph 3, for “8” substitute “9”;
 - (b) in paragraphs 3, 8 and 9, for “Directive [95/46/EC](https://www.legislation.gov.uk/eudr/1995/46)” substitute “ Regulation (EU) 2016/679 ”;
 - (c) in paragraph 9, for “that Directive”, in each place it occurs, substitute “ that Regulation ”;
 - (d) in paragraphs 8 and 9, for “Community” substitute “ United Kingdom ”.
@@ -158,7 +158,7 @@ In Article 18—
   - (ii) for “Community” substitute “ United Kingdom ”;
 - (d) omit paragraph 3.
 
-## 15.[^M_I_bc20e8a2-0c38-44e4-c14d-c98892980e89][^key-0f5c8b87ad3cacbba8ded76ba1eb2dc2]
+## 15.[^M_I_bc20e8a2-0c38-44e4-c14d-c98892980e89][^c-0f5c8b87ad3cacbba8ded76ba1eb2dc2]
 
 After Article 19 (entry into force), omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
@@ -188,7 +188,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23416891]: Marginal citation: OJ L 35, 4.02.2009, p.47.
 
-[^key-244aced23c6b879e8a2bf5b3f1d8fac0]: Textual amendment: Word in reg. 2 substituted (31.12.2020 immediately before IP completion day) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-244aced23c6b879e8a2bf5b3f1d8fac0]: Textual amendment: Word in reg. 2 substituted (31.12.2020 immediately before IP completion day) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23417901]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -206,7 +206,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23416911]: Marginal citation: OJ L 119, 4.5.2016, p.1.
 
-[^key-14a378f2820e7aaa9fa9fb4e1baf4b89]: Textual amendment: Reg. 8(aa) inserted (31.12.2020 immediately before IP completion day) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14a378f2820e7aaa9fa9fb4e1baf4b89]: Textual amendment: Reg. 8(aa) inserted (31.12.2020 immediately before IP completion day) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23417961]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -224,4 +224,4 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^M_I_bc20e8a2-0c38-44e4-c14d-c98892980e89]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-0f5c8b87ad3cacbba8ded76ba1eb2dc2]: Textual amendment: Reg. 15 inserted (31.12.2020 immediately before IP completion day) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2019/687/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0f5c8b87ad3cacbba8ded76ba1eb2dc2]: Textual amendment: Reg. 15 inserted (31.12.2020 immediately before IP completion day) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2019/687/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

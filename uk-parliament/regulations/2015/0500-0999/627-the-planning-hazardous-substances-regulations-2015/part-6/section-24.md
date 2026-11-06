@@ -23,7 +23,7 @@ summary: ''
 (1) In formulating any relevant policy, the Secretary of State must ensure that the following matters are taken into account—
 
 - (a) the objectives of preventing major accidents and limiting the consequences of such accidents for human health and the environment; and
-- (b) the matters referred to in Article 13(2) of the Directive (with the reference in sub-paragraph (c) of that paragraph of that Article to Article 5 being read as a reference to regulation 5 of the Control of Major Accident Hazards Regulations 2015)[^key-3c086cd72fd4e83a59e40e87d7a0631b].
+- (b) the matters referred to in Article 13(2) of the Directive (with the reference in sub-paragraph (c) of that paragraph of that Article to Article 5 being read as a reference to regulation 5 of the Control of Major Accident Hazards Regulations 2015)[^c-3c086cd72fd4e83a59e40e87d7a0631b].
 
 (2) In this regulation, “**relevant policy**” means—
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3c086cd72fd4e83a59e40e87d7a0631b]: Textual amendment: Words in [reg. 24(1)(b)](https://www.legislation.gov.uk/uksi/2015/627/regulation/24/1/b) inserted (31.12.2020) by [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1234/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c086cd72fd4e83a59e40e87d7a0631b]: Textual amendment: Words in [reg. 24(1)(b)](https://www.legislation.gov.uk/uksi/2015/627/regulation/24/1/b) inserted (31.12.2020) by [The Planning (Hazardous Substances and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1234)](https://www.legislation.gov.uk/uksi/2018/1234), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1234/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1234/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22465021]: Marginal citation: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 

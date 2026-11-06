@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 301. Appeals to quarter sessions against decisions of justices.[^c611824][^c611825][^c611826][^key-cbf256d5ac1d7055fef3f56dec0eb8bf][^c611823]
+## 301. Appeals to quarter sessions against decisions of justices.[^c611824][^c611825][^c611826][^c-cbf256d5ac1d7055fef3f56dec0eb8bf][^c611823]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ Provided that nothing in this section shall be construed as conferring a right o
 
     Ss. 300-301 applied (1.12.1991) by [Water Industry Act 1991 (c. 56)](https://www.legislation.gov.uk/ukpga/1991/56), [ss. 180](https://www.legislation.gov.uk/ukpga/1991/56/section/180), [223(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/223/2), [Sch. 12 para. 4(4)(5)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/12/paragraph/4/4/5) (with [ss. 82(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/82/3), [186(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/186/1), [222(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/222/1), [Sch. 13 paras. 1](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1991/56/schedule/13/paragraph/2), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1991/56/schedule/14/paragraph/6)).
 
-[^key-cbf256d5ac1d7055fef3f56dec0eb8bf]: Modification: Ss. 300-302 applied (with modifications) (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [38(4)](https://www.legislation.gov.uk/ukla/2008/1/section/38/4) (with [ss. 38(9)](https://www.legislation.gov.uk/ukla/2008/1/section/38/9), [48](https://www.legislation.gov.uk/ukla/2008/1/section/48))
+[^c-cbf256d5ac1d7055fef3f56dec0eb8bf]: Modification: Ss. 300-302 applied (with modifications) (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [38(4)](https://www.legislation.gov.uk/ukla/2008/1/section/38/4) (with [ss. 38(9)](https://www.legislation.gov.uk/ukla/2008/1/section/38/9), [48](https://www.legislation.gov.uk/ukla/2008/1/section/48))
 
 [^c611823]: Modification: S. 301 extended by [Local Government (Miscellaneous Provisions) Act 1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57), [s. 77(1)](https://www.legislation.gov.uk/ukpga/1976/57/section/77/1) and [Thermal Insulation (Industrial Buildings) Act 1957 (c. 40)](https://www.legislation.gov.uk/ukpga/1957/40), [s. 8(1)](https://www.legislation.gov.uk/ukpga/1957/40/section/8/1) which 1957 Act has been repealed (E.W.) by [S.I. 1985/4936](https://www.legislation.gov.uk/uksi/1985/4936), [reg 3(2)](https://www.legislation.gov.uk/uksi/1985/4936/regulation/3/2), [Sch. 4](https://www.legislation.gov.uk/uksi/1985/4936/schedule/4)
 

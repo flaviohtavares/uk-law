@@ -65,7 +65,7 @@ The Secretary of State as respects England and the National Assembly for Wales a
 - (a) that any area of water identified as a sensitive area or as a high natural dispersion area should no longer be identified as such; or
 - (b) that any area of water not previously identified as a sensitive area or as a high natural dispersion area should be identified as such,
 
-the authority shall give notice in writing to the appropriate agency[^key-5ecc4b4f621f21bc51afe5e47f783bd3] informing the appropriate agency of its decision and the date on which it takes effect.
+the authority shall give notice in writing to the appropriate agency[^c-5ecc4b4f621f21bc51afe5e47f783bd3] informing the appropriate agency of its decision and the date on which it takes effect.
 
 (2) The appropriate authority shall before its decision takes effect—
 
@@ -82,7 +82,7 @@ the authority shall give notice in writing to the appropriate agency[^key-5ecc4b
 
 ## 3. Duty to maintain up to date information about sensitive areas and high natural dispersion areas
 
-(1) The appropriate authority and the appropriate agency[^key-8eaae41f95d492b0ffe7638bdf79e162] shall each ensure that their web-site makes available to the public—
+(1) The appropriate authority and the appropriate agency[^c-8eaae41f95d492b0ffe7638bdf79e162] shall each ensure that their web-site makes available to the public—
 
 - (a) maps of all areas of water currently identified as a sensitive area or as a high natural dispersion area; and
 - (b) the dates on which any area of water was identified as a sensitive area or high natural dispersion area, or ceased to be so identified.
@@ -147,6 +147,6 @@ Regulation 4 makes consequential amendments to the principal Regulations. The am
 
 [^f00004]: Footnote: The function of the Secretary of State under regulation 3(2) of the principal Regulations has been transferred in relation to Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 2000 (S.I. [2000/253](https://www.legislation.gov.uk/uksi/2000/253)) (see the entry in Schedule 1 for the Urban Waste Water Treatment (England and Wales) Regulations 1994 (S.I. [1994/2841](https://www.legislation.gov.uk/uksi/1994/2841)).
 
-[^key-5ecc4b4f621f21bc51afe5e47f783bd3]: Textual amendment: Words in reg. 2 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 168](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/168) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5ecc4b4f621f21bc51afe5e47f783bd3]: Textual amendment: Words in reg. 2 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 168](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/168) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-8eaae41f95d492b0ffe7638bdf79e162]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2003/1788/regulation/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 168](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/168) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8eaae41f95d492b0ffe7638bdf79e162]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2003/1788/regulation/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 168](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/168) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

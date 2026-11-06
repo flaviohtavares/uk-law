@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Amounts set aside—advances to housing associations[^key-b6d642306e986bd7284627319478acbe]
+## 128. Amounts set aside—advances to housing associations[^c-b6d642306e986bd7284627319478acbe]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ In determining their adjusted credit ceiling at any time, a local authority shal
 
 ## Annotations
 
-[^key-b6d642306e986bd7284627319478acbe]: Commencement: Reg. 128 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-b6d642306e986bd7284627319478acbe]: Commencement: Reg. 128 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00108]: Footnote: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 

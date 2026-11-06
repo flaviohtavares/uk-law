@@ -34,7 +34,7 @@ Section 73
 - Part 4 contains provision defining the equity and liabilities on which the bank levy is charged;
 - Part 5 contains supplementary provision;
 - Part 6 deals with the collection and management of the bank levy;
-- Part 7 deals with double taxation relief and with the deduction of foreign levies for the purposes of corporation tax and income tax[^key-adc32fcca0c5a02bc85dc32c39c83099] ;
+- Part 7 deals with double taxation relief and with the deduction of foreign levies for the purposes of corporation tax and income tax[^c-adc32fcca0c5a02bc85dc32c39c83099] ;
 - Part 8 contains definitions;
 - Part 9 confers a power to make changes to this Schedule in specified circumstances.
 
@@ -63,11 +63,11 @@ See Part 3 of this Schedule for the definitions of these groups.
 - (a) the parent entity, and
 - (b) any other entity which, as at the end of the chargeable period, is a member of the group for the purposes of the provisions mentioned in sub-paragraph (3).
 
-(5)[^key-270a8d7e4d656feae4fe199b7bead095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-270a8d7e4d656feae4fe199b7bead095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-270a8d7e4d656feae4fe199b7bead095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-270a8d7e4d656feae4fe199b7bead095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-270a8d7e4d656feae4fe199b7bead095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-270a8d7e4d656feae4fe199b7bead095] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) This paragraph applies in relation to periods of account ending on or after 1 January 2011.
 
@@ -99,13 +99,13 @@ See Part 3 of this Schedule for the definitions of these groups.
 - *Step 4* Determine the proportion (“A%”) of the chargeable equity and liabilities which is long term equity and liabilities and the proportion (“B%”) of the chargeable equity and liabilities which is short term liabilities.
 - *Step 5* Reduce the amount of the long term chargeable equity and liabilities by an amount equal to A% of £20,000,000,000 and the amount of the short term chargeable liabilities by an amount equal to B% of £20,000,000,000.
 - *Step 6* If the chargeable period is 12 months, go straight to Step 7. If not, adjust the amount of the long term chargeable equity and liabilities and the amount of the short term chargeable liabilities as follows. Divide the amount by 365 and then multiply the result by the number of days in the chargeable period.
-- *Step 7* Charge the amount of the long term chargeable equity and liabilities at the rate of 0.05%[^key-e71f0208672356e65130d9f7df80b2ae]. Charge the amount of the short term chargeable liabilities at the rate of 0.1%[^key-f5998491b75cd1ae6fc9aaf858a0b1de].
+- *Step 7* Charge the amount of the long term chargeable equity and liabilities at the rate of 0.05%[^c-e71f0208672356e65130d9f7df80b2ae]. Charge the amount of the short term chargeable liabilities at the rate of 0.1%[^c-f5998491b75cd1ae6fc9aaf858a0b1de].
 
 (3) The bank levy is to be paid as provided for by Part 6 of this Schedule.
 
-#### Special provision for chargeable periods falling wholly or partly before 1 January 2021[^key-f6f1177327619d5813b17cb008f9a0a9][^key-c440d7a5c4b5ccc78948a35a0008c710]
+#### Special provision for chargeable periods falling wholly or partly before 1 January 2021[^c-f6f1177327619d5813b17cb008f9a0a9][^c-c440d7a5c4b5ccc78948a35a0008c710]
 
-**7.** (1)[^key-02adec938687d5a64c241d53d9f37322] Paragraph 6(2) applies subject to this paragraph if some or all of the chargeable period falls before 1 January[^key-c9f319cce6a9822bc86ac90981570eaf] 2021[^key-527e83ccae860871582a7f6d84c755b4].
+**7.** (1)[^c-02adec938687d5a64c241d53d9f37322] Paragraph 6(2) applies subject to this paragraph if some or all of the chargeable period falls before 1 January[^c-c9f319cce6a9822bc86ac90981570eaf] 2021[^c-527e83ccae860871582a7f6d84c755b4].
 
 (2) For Step 7 there is substituted—
 
@@ -122,14 +122,14 @@ See Part 3 of this Schedule for the definitions of these groups.
 > | 1 March 2011 to 30 April 2011 | 0.05% | 0.1% |
 > | 1 May 2011 to 31 December 2011 | 0.0375% | 0.075% |
 > | 1 January 2012 to 31 December 2012 | 0.044% | 0.088% |
-> | Any time on or after1 January 2014 to 31 March 2015[^key-4b0cf05446374948f1b0ebb6eb718bcd] | 0.065%[^key-b5caaf9726f716c248aaf3cdd1ffcc01] | 0.130%[^key-969c2defa59c1fc8b9144442ecfd6f34] |
-> | 1 April 2015 to 31 December 2015[^key-aa77c7ccdfd469731ef83b81890eb8e5] | 0.105%[^key-2fc63513c87fbfffa304b5cfb80bfb79] | 0.21% |
-> | 1 January 2016 to 31 December 2016[^key-8d3003f7d5abf0f143f431b95fd4c63e] | 0.09% | 0.18% |
-> | 1 January 2017 to 31 December 2017[^key-ea86a68d30fb4644296c3cc67bd2dc72] | 0.085% | 0.17% |
-> | 1 January 2018 to 31 December 2018[^key-374802c2350219a6254339de8412b355] | 0.08% | 0.16% |
-> | 1 January 2019 to 31 December 2019[^key-4ec5defb09d8a9c66ed8a7bac92b55aa] | 0.075% | 0.15% |
-> | 1 January 2020 to 31 December 2020[^key-169284e9893fb40c30bd94926910fa4f] | 0.07% | 0.14% |
-> | Any time on or after 1 January 2021[^key-edd0ff468a8adbdbef1a2186d9139187] | 0.05% | 0.1% |
+> | Any time on or after1 January 2014 to 31 March 2015[^c-4b0cf05446374948f1b0ebb6eb718bcd] | 0.065%[^c-b5caaf9726f716c248aaf3cdd1ffcc01] | 0.130%[^c-969c2defa59c1fc8b9144442ecfd6f34] |
+> | 1 April 2015 to 31 December 2015[^c-aa77c7ccdfd469731ef83b81890eb8e5] | 0.105%[^c-2fc63513c87fbfffa304b5cfb80bfb79] | 0.21% |
+> | 1 January 2016 to 31 December 2016[^c-8d3003f7d5abf0f143f431b95fd4c63e] | 0.09% | 0.18% |
+> | 1 January 2017 to 31 December 2017[^c-ea86a68d30fb4644296c3cc67bd2dc72] | 0.085% | 0.17% |
+> | 1 January 2018 to 31 December 2018[^c-374802c2350219a6254339de8412b355] | 0.08% | 0.16% |
+> | 1 January 2019 to 31 December 2019[^c-4ec5defb09d8a9c66ed8a7bac92b55aa] | 0.075% | 0.15% |
+> | 1 January 2020 to 31 December 2020[^c-169284e9893fb40c30bd94926910fa4f] | 0.07% | 0.14% |
+> | Any time on or after 1 January 2021[^c-edd0ff468a8adbdbef1a2186d9139187] | 0.05% | 0.1% |
 
 (3) If the chargeable period starts before 1 January 2011, for the purposes of Step 6 and Step 7 (as substituted by sub-paragraph (2)) the part of the period falling before 1 January 2011 is ignored and, accordingly, the period is treated as having started on 1 January 2011.
 
@@ -183,8 +183,8 @@ See Part 3 of this Schedule for the definitions of these groups.
 
 (7) “ **The applicable accounting provisions** ” means—
 
-- (a) the provisions mentioned in paragraph 4(3), [^key-dc1db1574e39e5aa6c8a0c34fd9259df]...
-- (b)[^key-dc1db1574e39e5aa6c8a0c34fd9259df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the provisions mentioned in paragraph 4(3), [^c-dc1db1574e39e5aa6c8a0c34fd9259df]...
+- (b)[^c-dc1db1574e39e5aa6c8a0c34fd9259df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) This sub-paragraph applies to an entity (“F”) if—
 
@@ -192,12 +192,12 @@ See Part 3 of this Schedule for the definitions of these groups.
   - (i) F were a UK resident entity,
   - (ii) it carried on its activities in the United Kingdom,
   - (iii) where it would be required to be an authorised person for the purposes of FISMA 2000 in order to carry on those activities in the United Kingdom, it were an authorised person with permission to carry on those activities, and
-  - (iv) where those activities consist wholly or mainly of any of the relevant regulated[^key-ac678be9ad16023f67085dc03021781d] activities described in the provisions mentioned in paragraph 79(b) to (f), as a result of carrying on those activities and having such permission it would be a BIPRU 730k firm and an FCA investment firm that meets the conditions in paragraph 70(1B)[^key-0fd965d1e415c036452b35423b4d3c82], or
+  - (iv) where those activities consist wholly or mainly of any of the relevant regulated[^c-ac678be9ad16023f67085dc03021781d] activities described in the provisions mentioned in paragraph 79(b) to (f), as a result of carrying on those activities and having such permission it would be a BIPRU 730k firm and an FCA investment firm that meets the conditions in paragraph 70(1B)[^c-0fd965d1e415c036452b35423b4d3c82], or
 - (b) F is a member of a partnership which is a non-UK resident entity and F would be a UK resident bank if—
   - (i) both F and the partnership were UK resident entities,
   - (ii) the partnership carried on its activities in the United Kingdom,
   - (iii) where the partnership would be required to be an authorised person for the purposes of FISMA 2000 in order to carry on those activities in the United Kingdom, the partnership were an authorised person with permission to carry on those activities, and
-  - (iv) where those activities consist wholly or mainly of any of the relevant regulated[^key-57f40b3bc1a11a152e4553a71661d02d] activities described in the provisions mentioned in paragraph 79(b) to (f), as a result of carrying on those activities and having such permission the partnership would be an FCA investment firm that meets the conditions in paragraph 70(1B)[^key-afd2a6e3c9c3bb7284aff4691ecc6b61].
+  - (iv) where those activities consist wholly or mainly of any of the relevant regulated[^c-57f40b3bc1a11a152e4553a71661d02d] activities described in the provisions mentioned in paragraph 79(b) to (f), as a result of carrying on those activities and having such permission the partnership would be an FCA investment firm that meets the conditions in paragraph 70(1B)[^c-afd2a6e3c9c3bb7284aff4691ecc6b61].
 
 (9) “Investment entity”—
 
@@ -213,7 +213,7 @@ See Part 3 of this Schedule for the definitions of these groups.
 
 - (a) consists of the items mentioned in sub-paragraph (3), and
 - (b) is to be determined by reference to—
-  - (i) the amounts recognised in the group's consolidated financial statements for the chargeable period as prepared under international accounting standards[^key-d1e945da59b3edbbc3c77fcce3d42ad5], or
+  - (i) the amounts recognised in the group's consolidated financial statements for the chargeable period as prepared under international accounting standards[^c-d1e945da59b3edbbc3c77fcce3d42ad5], or
   - (ii) if no such financial statements are prepared, the amounts which would have been so recognised had consolidated financial statements for the group been prepared for the chargeable period under international accounting standards.
 
 (3) The items referred to in sub-paragraph (2)(a) are—
@@ -224,8 +224,8 @@ See Part 3 of this Schedule for the definitions of these groups.
 (4) In this paragraph—
 
 - “ **activities** ” includes buying, holding, managing and selling assets;
-- [^key-d56c470ef1eb8013dd195f456d2e7acc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- "dealing on own account" has the same meaning as in Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments (see Article 2.1(5));[^key-47509b8ea758c0083d0ebbcd6015b0e1]
+- [^c-d56c470ef1eb8013dd195f456d2e7acc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- "dealing on own account" has the same meaning as in Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments (see Article 2.1(5));[^c-47509b8ea758c0083d0ebbcd6015b0e1]
 - “**deposit**” has the meaning given by article 5(2) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. 2001/544) but ignoring the exclusions in articles 6 to 9AB;
 - “**exempt activities**” means—
   - (a) insurance activities, asset management activities and related activities, and
@@ -246,7 +246,7 @@ See Part 3 of this Schedule for the definitions of these groups.
   - (f) money transmission services,
   - (g) provision of alternative finance arrangements, and
   - (h) other activities carried on in connection with activities falling within any of paragraphs (a) to (g);
-- “**net-basis activities**” means activities normally reported on a net basis in consolidated financial statements prepared under international accounting standards[^key-e151874f23503ef4a452897b81867606];
+- “**net-basis activities**” means activities normally reported on a net basis in consolidated financial statements prepared under international accounting standards[^c-e151874f23503ef4a452897b81867606];
 - “ **non-financial trading activities** ” means activities carried on by an entity which is not a financial trading entity, other than—
   - (a) lending activities, and
   - (b) dealing on own account, with the exception of any hedging transactions in relation to activities which (disregarding this exception) are non-financial trading activities;
@@ -269,9 +269,9 @@ See Part 3 of this Schedule for the definitions of these groups.
 
 **14.** (1) For the purposes of this Schedule, “ **assets** ”, “ **equity** ” and “ **liabilities** ” have the same meaning as they have for the purposes of international accounting standards.
 
-(2)[^key-7422135ae4dab12acceb43253a295023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7422135ae4dab12acceb43253a295023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Chargeable equity and liabilities: relevant groups[^key-3ff1dd10f5e3c522593520c64a676115]
+#### Chargeable equity and liabilities: relevant groups[^c-3ff1dd10f5e3c522593520c64a676115]
 
 **15.** (1) This paragraph applies if the bank levy is charged as provided for by paragraph 4 (groups).
 
@@ -864,26 +864,26 @@ is not to be treated as a net settlement provision for the purposes of sub-parag
 
 - *Step 1* Determine the amount (“A”) of the bank's assets as at the end of the chargeable period (subject to any adjustment under paragraph 25(5)).
 - *Step 2* In accordance with paragraph 26, determine the amount (“B”) of the assets, as at the end of the chargeable period, of the permanent establishment through which the bank carries on a trade in the United Kingdom (subject to any adjustment under paragraph 25(6)). The proportion which B is of A is “X%”.
-- *Step 3* In accordance with paragraph 27, determine the amount (“C”) of the bank's adjusted equity and liabilities[^key-247dc81e4f0bc5294ee957fe10410ba3].
+- *Step 3* In accordance with paragraph 27, determine the amount (“C”) of the bank's adjusted equity and liabilities[^c-247dc81e4f0bc5294ee957fe10410ba3].
 - *Step 4* The amount of the UK allocated equity and liabilities is X% of C.
 - *Step 5* Determine the proportion (“Y%”) of C which is long term equity and liabilities.
 - *Step 6* For the purposes of Step 3 in paragraph 6(2), treat Y% of the amount of the UK allocated equity and liabilities as long term equity and liabilities and the rest as short term liabilities.
 
 (2) For the purposes of this paragraph and paragraphs 25 to 27, assets, equity and liabilities of a relevant foreign bank or the permanent establishment through which it carries on a trade in the United Kingdom are to be determined by reference to—
 
-- (a) the amounts recognised in the bank's financial statements for the chargeable period as prepared under international accounting standards [^key-69dc387fd56b54d445aa7e1153e1cbc9]... , or
+- (a) the amounts recognised in the bank's financial statements for the chargeable period as prepared under international accounting standards [^c-69dc387fd56b54d445aa7e1153e1cbc9]... , or
 - (b) if no such financial statements are prepared, the amounts which would have been so recognised had such financial statements been prepared—
-  - (i) under international accounting standards, [^key-e05bf76b49bb196cd3845b163af55d44]...
-  - (ii)[^key-e05bf76b49bb196cd3845b163af55d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) under international accounting standards, [^c-e05bf76b49bb196cd3845b163af55d44]...
+  - (ii)[^c-e05bf76b49bb196cd3845b163af55d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.** (1) This paragraph applies for the purposes of Steps 1 and 2 in paragraph 24(1)[^key-019f1b327b2a248e10c14923f3188f66] if—
+**25.** (1) This paragraph applies for the purposes of Steps 1 and 2 in paragraph 24(1)[^c-019f1b327b2a248e10c14923f3188f66] if—
 
 - (a) the relevant foreign bank has liabilities to another entity [^c21242521] . . . (subject to sub-paragraph (2)) [^c21243521] . . . (“the bank's liabilities”),
 - (b)[^c21242551] the bank recognises, as assets, amounts due from that other entity (“N”) to the bank (“N's liabilities”),
-- (c) there is in place an agreement between the bank and N which makes net settlement provision[^key-4169601b6711d53c0270fa832ba7677d], and
+- (c) there is in place an agreement between the bank and N which makes net settlement provision[^c-4169601b6711d53c0270fa832ba7677d], and
 - (d) the provision mentioned in paragraph (c) is legally effective and enforceable.
 
-(1A)[^key-e754772ed229921c41a107e73eff3b01] In sub-paragraph (1)(c), “net settlement provision” means provision for there to be a single net settlement—
+(1A)[^c-e754772ed229921c41a107e73eff3b01] In sub-paragraph (1)(c), “net settlement provision” means provision for there to be a single net settlement—
 
 - (a) if a netting event occurs, or
 - (b) at the option of the bank or N, if a netting event occurs.
@@ -900,7 +900,7 @@ is not to be treated as a net settlement provision for the purposes of sub-parag
 
 is not to be treated as a net settlement provision for the purposes of sub-paragraph (1)(c).
 
-(2)[^key-9537dbfa7277e7cd5d66bb767761aafb] If the UK allocated equity and liabilities of the bank are being determined for the purposes of paragraph 15(2)(b), this paragraph does not apply if N is—
+(2)[^c-9537dbfa7277e7cd5d66bb767761aafb] If the UK allocated equity and liabilities of the bank are being determined for the purposes of paragraph 15(2)(b), this paragraph does not apply if N is—
 
 - (a) a UK resident entity which is a member of a UK sub-group,
 - (b) a chargeable UK resident entity (see paragraph 15C), or
@@ -911,7 +911,7 @@ is not to be treated as a net settlement provision for the purposes of sub-parag
 - (a) “**agreement**” includes an agreement which forms part of a multi-lateral agreement, arrangement or trading facility,
 - (b)[^c21242571] references to amounts due from N include securities provided by the relevant foreign bank to N as collateral, but only where the bank recognises those securities in its balance sheet or statement of financial position, and
 - (c) [^c21242591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) “a netting event occurs”[^key-2a20e18ec679003e3b227a7774e264a7] if the insolvency or bankruptcy of the relevant foreign bank or N gives rise to the termination of any arrangements under which any liability covered by the provision mentioned in sub-paragraph (1)(c) arises.
+- (d) “a netting event occurs”[^c-2a20e18ec679003e3b227a7774e264a7] if the insolvency or bankruptcy of the relevant foreign bank or N gives rise to the termination of any arrangements under which any liability covered by the provision mentioned in sub-paragraph (1)(c) arises.
 
 Section 556 of CTA 2009 (meaning of securities and similar securities) applies for the purposes of this sub-paragraph as it applies for the purposes of Chapter 10 of Part 6 of that Act.[^c21242611]
 
@@ -926,7 +926,7 @@ Section 556 of CTA 2009 (meaning of securities and similar securities) applies f
 
 (7) For this purpose, “Z%” is the proportion by which the bank's net settlement assets are reduced under sub-paragraph (5).
 
-(8)[^key-e157d202330665a4e4a06b1d7f05c766] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-e157d202330665a4e4a06b1d7f05c766] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) The bank's “net settlement liabilities” are the bank's liabilities so far as they—
 
@@ -939,15 +939,15 @@ Section 556 of CTA 2009 (meaning of securities and similar securities) applies f
 
 (12) The permanent establishment's “net settlement assets” are its assets so far as they are part of the bank's net settlement assets.
 
-(13)[^key-bc96d9a6410d0eda248eb884c22890be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-bc96d9a6410d0eda248eb884c22890be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-83b861bd21701cbbcab6d1e6c2a3324f] (1) This paragraph applies for the purposes of Step 2 in paragraph 24(1).
+**26.**[^c-83b861bd21701cbbcab6d1e6c2a3324f] (1) This paragraph applies for the purposes of Step 2 in paragraph 24(1).
 
-(2) The assets of the permanent establishment are those which it might be expected to have[^key-13e9c7e45c267e4f37bcc715e82fb72e] were it a separate and independent enterprise engaged in the same or similar activities under the same or similar conditions, taking into account the functions performed, assets used and risks assumed by the relevant foreign bank through the permanent establishment and through the other parts of the relevant foreign bank.[^key-99f69f511fa17ba188ba49f2e353fe3f]
+(2) The assets of the permanent establishment are those which it might be expected to have[^c-13e9c7e45c267e4f37bcc715e82fb72e] were it a separate and independent enterprise engaged in the same or similar activities under the same or similar conditions, taking into account the functions performed, assets used and risks assumed by the relevant foreign bank through the permanent establishment and through the other parts of the relevant foreign bank.[^c-99f69f511fa17ba188ba49f2e353fe3f]
 
-(3) For this purpose, any relevant provisions of sections 21 and 24[^key-d57ec125dd55d7ab9b3488f3ba7d1eae] of CTA 2009 are to be applied as they would be applied in determining profits attributable to the permanent establishment for corporation tax purposes.
+(3) For this purpose, any relevant provisions of sections 21 and 24[^c-d57ec125dd55d7ab9b3488f3ba7d1eae] of CTA 2009 are to be applied as they would be applied in determining profits attributable to the permanent establishment for corporation tax purposes.
 
-(4) But where paragraph 24(1) is being applied in determining the UK allocated equity and liabilities of a relevant foreign bank for the purposes of paragraph 15(2)(b)[^key-2c6be6b49a898409f3ef320f62017bcd], any assets within sub-paragraph (5) are to be left out.
+(4) But where paragraph 24(1) is being applied in determining the UK allocated equity and liabilities of a relevant foreign bank for the purposes of paragraph 15(2)(b)[^c-2c6be6b49a898409f3ef320f62017bcd], any assets within sub-paragraph (5) are to be left out.
 
 (5) The assets within this sub-paragraph are any assets of the permanent establishment (as otherwise determined under this paragraph) representing an excluded loan relationship.
 
@@ -964,12 +964,12 @@ Section 556 of CTA 2009 (meaning of securities and similar securities) applies f
 
 **27.** (1) This paragraph applies for the purposes of Step 3 in paragraph 24(1).
 
-(2) To determine the amount of the relevant foreign bank's adjusted equity and liabilities[^key-2a25540f9756ffbb5911143418322aea] —
+(2) To determine the amount of the relevant foreign bank's adjusted equity and liabilities[^c-2a25540f9756ffbb5911143418322aea] —
 
 - (a) determine the amount of the bank's equity and liabilities (other than excluded equity and liabilities) as at the end of the chargeable period,
-- (b) adjust that amount in accordance with sub-paragraph (5) and paragraph 27D(1)[^key-c9a356b97bd6f3c013a751d2f8476760] [^key-9b06f73d149c06067b32972039310dce]... (so far as applicable), and
-- (c) finally (subject to sub-paragraph (6))[^key-f937493a1536d327a1ca8ed9523b1a07] reduce that amount (but not below nil) by—
-  - (i)[^key-5250144a55b827245766035edd2304b8] the amount of the entity’s high quality liquid assets as at the end of that period, other than—
+- (b) adjust that amount in accordance with sub-paragraph (5) and paragraph 27D(1)[^c-c9a356b97bd6f3c013a751d2f8476760] [^c-9b06f73d149c06067b32972039310dce]... (so far as applicable), and
+- (c) finally (subject to sub-paragraph (6))[^c-f937493a1536d327a1ca8ed9523b1a07] reduce that amount (but not below nil) by—
+  - (i)[^c-5250144a55b827245766035edd2304b8] the amount of the entity’s high quality liquid assets as at the end of that period, other than—
     - (a) any asset which for the purposes of an adjustment under paragraph (b) is an asset to which paragraph 27D(1) applies;
     - (b) in a case where the bank levy is charged as provided for by paragraph 4 (groups), any asset to which paragraph 15U(1) applies for the purposes of adjusting the amount of the equity and liabilities of another member of the relevant group (see Step 2 in paragraph 15N(1)), and
   - (ii) where sub-paragraph (4) applies, the amount determined under that sub-paragraph.
@@ -977,7 +977,7 @@ Section 556 of CTA 2009 (meaning of securities and similar securities) applies f
 (3) Sub-paragraph (4) applies where—
 
 - (a) as at the end of the chargeable period, the assets of the relevant foreign bank include a financial asset in respect of an advance of cash made by the bank,
-- (b)[^key-190c6f8b04a1f23f1d6ddce85ae3671f] that financial asset is not an asset which—
+- (b)[^c-190c6f8b04a1f23f1d6ddce85ae3671f] that financial asset is not an asset which—
   - (i) for the purposes of an adjustment under sub-paragraph (2)(b), is an asset to which paragraph 27D(1) applies, or
   - (ii) in a case where the bank levy is charged as provided for by paragraph 4 (groups), is an asset to which paragraph 15U(1) applies for the purposes of adjusting the amount of the equity and liabilities of another member of the relevant group under Step 2 in paragraph 15N(1), and
 - (c) underlying that asset, as collateral, is an item (“the collateral”) owned by the bank which would form part of the bank's high quality liquid assets as at the end of that period were the collateral, rather than the financial asset, an asset of the bank.
@@ -987,17 +987,17 @@ Section 556 of CTA 2009 (meaning of securities and similar securities) applies f
 - (a) the amount of the financial asset as at the end of that period or, if lower, an amount equal to the fair value of the collateral as at that time, or
 - (b) if this sub-paragraph applies in relation to more than one financial asset, the total of the amounts determined under paragraph (a) in respect of each of those assets.
 
-(5) Where paragraph 24(1) is being applied in determining the UK allocated equity and liabilities of a relevant foreign bank for the purposes of paragraph 15(2)(b)[^key-71026858ecdd209cf808d1394d5df1ea], the following liabilities are to be left out—
+(5) Where paragraph 24(1) is being applied in determining the UK allocated equity and liabilities of a relevant foreign bank for the purposes of paragraph 15(2)(b)[^c-71026858ecdd209cf808d1394d5df1ea], the following liabilities are to be left out—
 
-- (a)[^key-2a09b66b6a40450a2ad1107d74657d3a] UK connected liabilities to a chargeable UK resident entity which is a member of the relevant group,
+- (a)[^c-2a09b66b6a40450a2ad1107d74657d3a] UK connected liabilities to a chargeable UK resident entity which is a member of the relevant group,
 - (b) UK connected liabilities to a UK sub-group of the relevant group, and
 - (c) UK connected liabilities to any other relevant foreign bank which is a member of the relevant group.
 
-(5A)[^key-9344a33d6410d3a00ea85f430584cae3] In sub-paragraph (5), references to “UK connected liabilities” have the same meaning as in paragraph 15R(2) (see paragraph 15R(3) to (5)).
+(5A)[^c-9344a33d6410d3a00ea85f430584cae3] In sub-paragraph (5), references to “UK connected liabilities” have the same meaning as in paragraph 15R(2) (see paragraph 15R(3) to (5)).
 
-(6)[^key-7b61bd00b60358977e09f6c76e101124] Where an amount (“A”) within sub-paragraph (2)(c) is used to reduce short term liabilities, the amount of the reduction is determined as if A were an amount equal to half of A.
+(6)[^c-7b61bd00b60358977e09f6c76e101124] Where an amount (“A”) within sub-paragraph (2)(c) is used to reduce short term liabilities, the amount of the reduction is determined as if A were an amount equal to half of A.
 
-**27A.**[^key-f454897cf6b96b4e307dfe1c5636e5c7] (1) Paragraph 27D applies for the purposes of paragraph 27(2)(b) if—
+**27A.**[^c-f454897cf6b96b4e307dfe1c5636e5c7] (1) Paragraph 27D applies for the purposes of paragraph 27(2)(b) if—
 
 - (a) the bank levy is charged as provided for by paragraph 4 (groups),
 - (b) the relevant foreign bank (“B”) has liabilities to another entity (“N”) which is not within sub-paragraph (5) (“B’s liabilities”),
@@ -1126,32 +1126,32 @@ so far as corresponding to N’s net settlement liabilities.
 - (a) operates outside the United Kingdom, and
 - (b) is comparable to the FSCS.
 
-(4)[^key-70edd62be6cfd2383b08f10e3373710e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-70edd62be6cfd2383b08f10e3373710e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-70edd62be6cfd2383b08f10e3373710e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-70edd62be6cfd2383b08f10e3373710e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-70edd62be6cfd2383b08f10e3373710e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-70edd62be6cfd2383b08f10e3373710e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A deposit is “protected” so far as it is covered by a guarantee—
 
 - (a) which is given explicitly by a national government (other than the government of the United Kingdom), and
 - (b) under which the government guarantees to compensate depositors for losses on their deposits.
 
-(8) In sub-paragraph (2)[^key-1b0a6615441e0ca95420bc423f21d708]... “ **deposit** ” has the meaning given by article 5(2) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ( S.I. 2001/544).
+(8) In sub-paragraph (2)[^c-1b0a6615441e0ca95420bc423f21d708]... “ **deposit** ” has the meaning given by article 5(2) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ( S.I. 2001/544).
 
-(9) In sub-paragraphs (3) and (7)[^key-7a2b61499c48132a11bd9dd31233918b]... “ **deposit** ” has the meaning given by article 5(2) of that Order but ignoring the exclusions in articles 6 to 9AB.
+(9) In sub-paragraphs (3) and (7)[^c-7a2b61499c48132a11bd9dd31233918b]... “ **deposit** ” has the meaning given by article 5(2) of that Order but ignoring the exclusions in articles 6 to 9AB.
 
 (10) If two or all of sub-paragraphs (2), (3) and (7) apply to a deposit, the amount of the deposit “protected” is the highest amount which results from any one of those sub-paragraphs.
 
 **30.** (1) Equity and liabilities which are “tier one capital equity and liabilities” are excluded.
 
-(2)[^key-4996c50ad83017dff3859c84651c68bb] For the purposes of this paragraph,[^key-eb0f2ddefa1f43864b555b3613bc4973] Tier one capital equity and liabilities” means, in relation to an entity or group of entities, so much of the entity or group's equity and liabilities as is tier one capital within the meaning of Article 25 of the Capital Requirements Regulation (taking account of the transitional provisions in Part Ten of that Regulation).
+(2)[^c-4996c50ad83017dff3859c84651c68bb] For the purposes of this paragraph,[^c-eb0f2ddefa1f43864b555b3613bc4973] Tier one capital equity and liabilities” means, in relation to an entity or group of entities, so much of the entity or group's equity and liabilities as is tier one capital within the meaning of Article 25 of the Capital Requirements Regulation (taking account of the transitional provisions in Part Ten of that Regulation).
 
 (3) For the purposes of sub-paragraph (2), the Capital Requirements Regulation is to be treated as applying, in relation to all entities and groups of entities, as if—
 
 - (a) to the extent it would not otherwise be the case, the Prudential Regulation Authority were the competent authority in relation to those entities and groups,
 - (b) the only determinations made, and discretions exercised, by the Prudential Regulation Authority for the purposes of the Capital Requirement Regulation were those published by it in accordance with that Regulation, and
-- (c) those entities and groups (to the extent that it would not otherwise be the case) were subject to the provisions of the the Handbook made by the Prudential Regulation Authority under FISMA 2000 (as that Handbook had effect from time to time)[^key-8919b8252531b666d1c1750bc08f3d4d] immediately before 1 January 2014.
+- (c) those entities and groups (to the extent that it would not otherwise be the case) were subject to the provisions of the the Handbook made by the Prudential Regulation Authority under FISMA 2000 (as that Handbook had effect from time to time)[^c-8919b8252531b666d1c1750bc08f3d4d] immediately before 1 January 2014.
 
 (4) “**The Capital Requirements Regulation**” means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms.
 
@@ -1165,9 +1165,9 @@ so far as corresponding to N’s net settlement liabilities.
 
 (3) Section 556 of CTA 2009 (meaning of securities and similar securities) applies for the purposes of sub-paragraph (2) as it applies for the purposes of Chapter 10 of Part 6 of that Act.
 
-(4)[^key-f09e175fe9d4913a9998a22794913961] Securities are “high quality” if—
+(4)[^c-f09e175fe9d4913a9998a22794913961] Securities are “high quality” if—
 
-- (za)[^key-9b0084f5d4b0d6fbf16f115d0dc2bd2f] they are debt securities issued by the Bank of England, Her Majesty’s Government in the United Kingdom, or the government of Gibraltar,
+- (za)[^c-9b0084f5d4b0d6fbf16f115d0dc2bd2f] they are debt securities issued by the Bank of England, Her Majesty’s Government in the United Kingdom, or the government of Gibraltar,
 - (a) they are debt securities issued by—
   - (i) the European Central Bank, a member State’s central bank or the central government of a member State,
   - (ii) the central bank of a country (other than a member State) where the exposure to the bank is assigned a credit assessment of at least credit quality step 1, as provided by Article 10(1)(b)(ii) of Commission Regulation 2015/61, or
@@ -1200,7 +1200,7 @@ so far as corresponding to N’s net settlement liabilities.
 - “ **regulated insurer** ” means an entity which—
   - (a) is authorised under the law of any territory to carry on insurance business, or
   - (b) is a member of a body or organisation which is so authorised;
-- “ **unallocated surplus** ” means the fund for future appropriations shown in line 15 of Form 3 of a return deposited with the Prudential Regulation Authority[^key-2f0e8ddb52cf02596d8a518c37d16eed] under section 9.6 of the Interim Prudential Sourcebook for Insurers made by that Authority under FISMA 2000.
+- “ **unallocated surplus** ” means the fund for future appropriations shown in line 15 of Form 3 of a return deposited with the Prudential Regulation Authority[^c-2f0e8ddb52cf02596d8a518c37d16eed] under section 9.6 of the Interim Prudential Sourcebook for Insurers made by that Authority under FISMA 2000.
 
 **34.** (1) Relevant property, plant and equipment reserves are excluded.
 
@@ -1210,24 +1210,24 @@ so far as corresponding to N’s net settlement liabilities.
 
 **35.** (1) Relevant tax liabilities are excluded.
 
-(2) [^key-d176184e945ea0d92cddfe9b2e63132e]...“ **relevant tax liabilities** ” means liabilities representing—
+(2) [^c-d176184e945ea0d92cddfe9b2e63132e]...“ **relevant tax liabilities** ” means liabilities representing—
 
 - (a) current tax or deferred tax liabilities within the meaning, for the time being, of International Accounting Standard 12, or
 - (b) an amount of the bank levy.
 
-(3)[^key-801fa70ccb083e93ad240ea2f5f04d25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-801fa70ccb083e93ad240ea2f5f04d25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **36.** (1) Relevant retirement benefit liabilities are excluded.
 
-(2) [^key-031b280b0e2bc0189be997f3697f5fb9]... “ **relevant retirement benefit liabilities** ” means liabilities under defined benefit plans within the meaning, for the time being, of International Accounting Standard 19.
+(2) [^c-031b280b0e2bc0189be997f3697f5fb9]... “ **relevant retirement benefit liabilities** ” means liabilities under defined benefit plans within the meaning, for the time being, of International Accounting Standard 19.
 
-(3)[^key-305734fb8a9931bfbace9bb4500f3663] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-305734fb8a9931bfbace9bb4500f3663] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **37.** (1) Financial services compensation scheme liabilities are excluded.
 
 (2) “ **Financial services compensation scheme liabilities** ” means liabilities representing—
 
-- (a) levies payable by virtue of section 213(3)(b)[^key-31509a75c1b333287d662d1ff882829a] of FISMA 2000, or
+- (a) levies payable by virtue of section 213(3)(b)[^c-31509a75c1b333287d662d1ff882829a] of FISMA 2000, or
 - (b) levies payable for purposes comparable with those mentioned in section 213(3)(b) of that Act in relation to a scheme which—
   - (i) operates outside the United Kingdom, and
   - (ii) is comparable to the Financial Services Compensation Scheme under section 213 of that Act.
@@ -1241,12 +1241,12 @@ so far as corresponding to N’s net settlement liabilities.
 
 (3) “Clients' money”—
 
-- (a) in relation to an authorised person within sub-paragraph (2)(a), has the meaning given by section 137B of[^key-b97dc0117c557eac36269514437981d9] FISMA 2000 (FCA general rules: clients’ money, right to rescind etc. ) , and
-- (b) in relation to an authorised person within sub-paragraph (2)(b), means any money held by the person outside the United Kingdom where the holding of that money is subject to rules comparable with rules made under section 137B of that Act[^key-a44367c1dd413d691bba45b49e28373d],
+- (a) in relation to an authorised person within sub-paragraph (2)(a), has the meaning given by section 137B of[^c-b97dc0117c557eac36269514437981d9] FISMA 2000 (FCA general rules: clients’ money, right to rescind etc. ) , and
+- (b) in relation to an authorised person within sub-paragraph (2)(b), means any money held by the person outside the United Kingdom where the holding of that money is subject to rules comparable with rules made under section 137B of that Act[^c-a44367c1dd413d691bba45b49e28373d],
 
 but does not include a deposit within the meaning of article 5(2) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ( S.I. 2001/544) ignoring the exclusions in articles 6 to 9AB.
 
-**38A.**[^key-90a82a9c81c8b0af5ed56a75aa7a3978] (1) Liabilities are excluded if they represent cash collateral provided as QCP margin in relation to a trade executed or to be executed under a client clearing agreement.
+**38A.**[^c-90a82a9c81c8b0af5ed56a75aa7a3978] (1) Liabilities are excluded if they represent cash collateral provided as QCP margin in relation to a trade executed or to be executed under a client clearing agreement.
 
 (2) Cash collateral is provided as “QCP margin” if, and to the extent that—
 
@@ -1273,7 +1273,7 @@ but does not include a deposit within the meaning of article 5(2) of the Financi
 
 #### Netting agreements
 
-**40.** (1) The Treasury may by order add to, repeal or otherwise amend any of paragraphs 15S to 15U, 15Z3, 15Z4, 25 and 27A to 27D.[^key-2550f7faaf4f0fe4e785c31ad636a6d3]
+**40.** (1) The Treasury may by order add to, repeal or otherwise amend any of paragraphs 15S to 15U, 15Z3, 15Z4, 25 and 27A to 27D.[^c-2550f7faaf4f0fe4e785c31ad636a6d3]
 
 (2) An order under this paragraph may make consequential amendments of this Schedule.
 
@@ -1328,18 +1328,18 @@ but does not include a deposit within the meaning of article 5(2) of the Financi
 (8) In sub-paragraph (7) “ **relevant accounting framework** ” means—
 
 - (a) international accounting standards,
-- (b)[^key-4ce1938928bb56e54ea157710fd2380f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-4ce1938928bb56e54ea157710fd2380f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4ce1938928bb56e54ea157710fd2380f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-4ce1938928bb56e54ea157710fd2380f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-3d45ad0edf5c45e09ba58e3faa0dfd01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-3d45ad0edf5c45e09ba58e3faa0dfd01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-3d45ad0edf5c45e09ba58e3faa0dfd01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-3d45ad0edf5c45e09ba58e3faa0dfd01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Joint ventures
 
-**43.**[^key-e979d1d88c3c484d0b88700bb3885b5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-e979d1d88c3c484d0b88700bb3885b5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-8b1665c617aac8dd8466547b1f15bfbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-8b1665c617aac8dd8466547b1f15bfbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Residence
 
@@ -1353,7 +1353,7 @@ but does not include a deposit within the meaning of article 5(2) of the Financi
 **46.** In calculating profits or losses for the purposes of income tax or corporation tax—
 
 - (a) no deduction is allowed in respect of the bank levy, and
-- (b) no account is to be taken of any amount which is paid(directly or indirectly)[^key-36090f7abf9a93e8a7c1cb5e9287c906] by a member of the relevant group to another member of the group for the purposes of meeting or reimbursing the cost of the bank levy charged in relation to the group.
+- (b) no account is to be taken of any amount which is paid(directly or indirectly)[^c-36090f7abf9a93e8a7c1cb5e9287c906] by a member of the relevant group to another member of the group for the purposes of meeting or reimbursing the cost of the bank levy charged in relation to the group.
 
 #### Anti-avoidance
 
@@ -1392,15 +1392,15 @@ but does not include a deposit within the meaning of article 5(2) of the Financi
 - (a) their effect is to reduce, on an ongoing basis, the long term equity and liabilities of the relevant group or the relevant entity, and
 - (b) there is no corresponding increase, on an ongoing basis or otherwise, in the amount of the funding, or the size of the financial obligations, of the relevant group or the relevant entity which is not, or are not, excluded equity and liabilities (it being immaterial for this purpose whether or not any such funding or obligation is recognised in the financial statements of the group or entity).
 
-(11) This sub-paragraph applies to the relevant arrangements so far as they are an agreement within paragraph[^key-b70ff1c766dd49b2b645144d08337588] 15S(1)(d) and (e), 15T(1)(e) and (f), 15Z3(1)(c) and (d), 25(1)(c) and (d), 27A(1)(d) and (e) or 27B(1)(d) and (e).
+(11) This sub-paragraph applies to the relevant arrangements so far as they are an agreement within paragraph[^c-b70ff1c766dd49b2b645144d08337588] 15S(1)(d) and (e), 15T(1)(e) and (f), 15Z3(1)(c) and (d), 25(1)(c) and (d), 27A(1)(d) and (e) or 27B(1)(d) and (e).
 
 (12) This sub-paragraph applies to the relevant arrangements so far as their effect is to increase, on an ongoing basis, the amount of the high quality liquid assets of the relevant group or the relevant entity.
 
 (13) If the relevant group is a foreign banking group or a relevant non-banking group, in the sub-paragraphs above references to the relevant group are to be read as references to the members of the group, collectively, which are relevant members.
 
-(14) In sub-paragraph (13) “relevant member” means[^key-8a1072474f128e3fe281554ce3ca54eb]—
+(14) In sub-paragraph (13) “relevant member” means[^c-8a1072474f128e3fe281554ce3ca54eb]—
 
-- (a)[^key-f8e2cb0cf7150e2bf0ba41255c2d5502] a chargeable UK resident entity which is a member of the relevant group;
+- (a)[^c-f8e2cb0cf7150e2bf0ba41255c2d5502] a chargeable UK resident entity which is a member of the relevant group;
 - (b) a UK sub-group of the relevant group;
 - (c) a relevant foreign bank which is a member of the relevant group.
 
@@ -1479,7 +1479,7 @@ but does not include a deposit within the meaning of article 5(2) of the Financi
 
 (2) The entities within sub-paragraph (3) are jointly and severally liable for the bank levy liability of the relevant group's responsible member (see paragraph 54) for an accounting period; and HMRC may enforce that liability against any of those entities accordingly.
 
-(2A)[^key-7a6a1a30bf74159cf986cc2eeda1a9b1] But sub-paragraph (2) is subject to paragraph 53A (ring-fenced bodies).
+(2A)[^c-7a6a1a30bf74159cf986cc2eeda1a9b1] But sub-paragraph (2) is subject to paragraph 53A (ring-fenced bodies).
 
 (3) The entities within this sub-paragraph are—
 
@@ -1488,10 +1488,10 @@ but does not include a deposit within the meaning of article 5(2) of the Financi
 
 (4) In sub-paragraph (3)(a) “ **relevant member** ” means a member of the relevant group which—
 
-- (a) is a member of a UK[^key-e2fbfbbf396ff8d76cb8e54983356c34] sub-group,
-- (b)[^key-4fe671891b1a93b522f7a6ff479a9adc] is a chargeable UK resident entity which is a banking entity (see paragraph 15C(2)),
-- (c)[^key-87dcc1319b26e0852f0ec2b30d87c07b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) is a relevant foreign bank which is a member of the relevant group[^key-75bf13d101c096740a56000ac4f3e05f].
+- (a) is a member of a UK[^c-e2fbfbbf396ff8d76cb8e54983356c34] sub-group,
+- (b)[^c-4fe671891b1a93b522f7a6ff479a9adc] is a chargeable UK resident entity which is a banking entity (see paragraph 15C(2)),
+- (c)[^c-87dcc1319b26e0852f0ec2b30d87c07b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) is a relevant foreign bank which is a member of the relevant group[^c-75bf13d101c096740a56000ac4f3e05f].
 
 (5) An entity's liability by virtue of sub-paragraph (2) is not affected if, after the end of the chargeable period, it ceases to be within the charge to corporation tax.
 
@@ -1527,7 +1527,7 @@ but does not include a deposit within the meaning of article 5(2) of the Financi
 
 (11) A statutory instrument containing an order under sub-paragraph (6) is subject to annulment in pursuance of a resolution of the House of Commons.
 
-**53A.**[^key-59baf24c1fedc88ace1d0bea852da29b] (1) This paragraph applies where—
+**53A.**[^c-59baf24c1fedc88ace1d0bea852da29b] (1) This paragraph applies where—
 
 - (a) an entity (the “ring-fenced entity”) which is a member of the relevant group is—
   - (i) a ring-fenced body, or
@@ -1565,16 +1565,16 @@ but does not include a deposit within the meaning of article 5(2) of the Financi
 
 - (a) E is a chargeable member of the relevant group,
 - (b) E has an accounting period for corporation tax purposes which is the same as the chargeable period,
-- (c)[^key-4355703f275ad989c10cc1a55370b349] either—
+- (c)[^c-4355703f275ad989c10cc1a55370b349] either—
   - (i) during the nomination period the parent entity, or another entity acting on behalf of the parent entity, nominated E to HMRC to be the responsible member, or
   - (ii) the renewal conditions are met in relation to E, and
 - (d) HMRC did not—
   - (i) in a case within paragraph (c)(i), reject E’s nomination;
   - (ii) in a case within paragraph (c)(ii), make a determination under paragraph 55A.
 
-See paragraphs 55 and 55A[^key-e82e097a5b85008aa81d6edca13e0adc] for further provision about nominations and renewals[^key-dd0e6dbadf753523c0b5b8db2361e930].
+See paragraphs 55 and 55A[^c-e82e097a5b85008aa81d6edca13e0adc] for further provision about nominations and renewals[^c-dd0e6dbadf753523c0b5b8db2361e930].
 
-(3A)[^key-c3bf7e9b0ab76d6ee42afe79dc36c0a7] The renewal conditions are met in relation to E if—
+(3A)[^c-c3bf7e9b0ab76d6ee42afe79dc36c0a7] The renewal conditions are met in relation to E if—
 
 - (a) E was the relevant group’s responsible member at the end of the immediately preceding chargeable period, and
 - (b) neither the parent entity, nor another entity acting on behalf of the parent entity, nominated an entity other than E during the nomination period.
@@ -1593,16 +1593,16 @@ the responsible member is the parent entity.
 - (a) it is a chargeable member of the relevant group,
 - (b) it has an accounting period for corporation tax purposes which is the same as the chargeable period, and
 - (c) it is—
-  - (i) the relevant member with the largest amount of UK-based equity and liabilities or UK-allocated equity and liabilities[^key-ee25fe0d59e36f3eee7446f7803f21cf], or
-  - (ii) if the relevant member with the largest amount of UK-based equity and liabilities or UK-allocated equity and liabilities[^key-0f6340e0a322e5e4c71a6ab8bf1b9c12] is a UK[^key-711b2bbabd8484683bb9a1ef6c155d8d] sub-group, the entity which is the parent or parent undertaking for that sub-group.
+  - (i) the relevant member with the largest amount of UK-based equity and liabilities or UK-allocated equity and liabilities[^c-ee25fe0d59e36f3eee7446f7803f21cf], or
+  - (ii) if the relevant member with the largest amount of UK-based equity and liabilities or UK-allocated equity and liabilities[^c-0f6340e0a322e5e4c71a6ab8bf1b9c12] is a UK[^c-711b2bbabd8484683bb9a1ef6c155d8d] sub-group, the entity which is the parent or parent undertaking for that sub-group.
 
-(6) In sub-paragraph (5)(c) “relevant member” means[^key-adf37d93347e1c9a9c296e383f4bae9e]—
+(6) In sub-paragraph (5)(c) “relevant member” means[^c-adf37d93347e1c9a9c296e383f4bae9e]—
 
-- (a)[^key-b52d710e11c8d0cac56d51214a8d465f] a chargeable UK resident entity which is a member of the relevant group;
+- (a)[^c-b52d710e11c8d0cac56d51214a8d465f] a chargeable UK resident entity which is a member of the relevant group;
 - (b) a UK sub-group of the relevant group;
 - (c) a relevant foreign bank which is a member of the relevant group.
 
-(6A)[^key-3779aefc48221cc552b47489972bfd32] Sub-paragraph (6B) applies if—
+(6A)[^c-3779aefc48221cc552b47489972bfd32] Sub-paragraph (6B) applies if—
 
 - (a) HMRC rejects E’s nomination (see sub-paragraph (3)(d)(i)), and
 - (b) within the period of 30 days after the day on which HMRC rejects the nomination, HMRC and the parent entity, or another entity acting on behalf of the parent entity, agree that another entity (“A”) which is a chargeable member of the relevant group is to be the relevant group’s responsible member.
@@ -1612,7 +1612,7 @@ the responsible member is the parent entity.
 - (a) A is the relevant group’s responsible member, and
 - (b) sub-paragraphs (4) and (5) do not apply.
 
-(7) If no entity meets the requirements of sub-paragraph (3) or sub-paragraph (4) or (5) (as the case may be), and sub-paragraph (6B) does not apply,[^key-08879ebcbde870b7bb7a72362e2abd59] the responsible member is the member of the relevant group determined by HMRC within the period of 30 days after the end of the chargeable period.
+(7) If no entity meets the requirements of sub-paragraph (3) or sub-paragraph (4) or (5) (as the case may be), and sub-paragraph (6B) does not apply,[^c-08879ebcbde870b7bb7a72362e2abd59] the responsible member is the member of the relevant group determined by HMRC within the period of 30 days after the end of the chargeable period.
 
 (8) HMRC must give written notice of a determination under sub-paragraph (7) to the member concerned within that period.
 
@@ -1653,7 +1653,7 @@ the responsible member is the parent entity.
   - (ii) not to have an accounting period for corporation tax purposes which is the same as the chargeable period, or
   - (iii) not to have sufficient resources itself to pay the bank levy.
 
-**55A.**[^key-739bd4dcff621850db2148f0095cc99b] (1) This paragraph applies for the purposes of paragraph 54(3)(c)(ii) and (d)(ii).
+**55A.**[^c-739bd4dcff621850db2148f0095cc99b] (1) This paragraph applies for the purposes of paragraph 54(3)(c)(ii) and (d)(ii).
 
 (2) HMRC may from time to time publish requirements as to the information to be provided by, or on behalf of, the relevant group’s responsible member before the end of the nomination period.
 
@@ -1764,7 +1764,7 @@ the responsible member is the parent entity.
 - (a) are payable in respect of chargeable periods ending on or before that day, or
 - (b) are treated as amounts of corporation tax for accounting periods ending on or before that day.
 
-### Part 7 — Double taxation reliefETC[^key-9d3006b965209fd7c4c67eb181bd3c09]
+### Part 7 — Double taxation reliefETC[^c-9d3006b965209fd7c4c67eb181bd3c09]
 
 #### Arrangements affording double taxation relief
 
@@ -1808,7 +1808,7 @@ those arrangements (“double taxation arrangements”) have effect so far as th
 - (a) the Commissioners are to give effect to the solution or mutual agreement despite anything in any enactment, and
 - (b) any adjustment as is appropriate in consequence may be made.
 
-(9A)[^key-174662e87e2841a457ee64472bd43dfd] If arrangements specified in an order under this paragraph provide for relief from the bank levy for periods before the order is made, regulations under this paragraph which are made on the same day as the order, and come into force on the same day as the order, may make provision in relation to those periods.
+(9A)[^c-174662e87e2841a457ee64472bd43dfd] If arrangements specified in an order under this paragraph provide for relief from the bank levy for periods before the order is made, regulations under this paragraph which are made on the same day as the order, and come into force on the same day as the order, may make provision in relation to those periods.
 
 (10) Regulations under this paragraph may—
 
@@ -1849,7 +1849,7 @@ those arrangements (“double taxation arrangements”) have effect so far as th
 - (a) appropriate provision has been made under the law of the territory for relief from double taxation in relation to the bank levy and the equivalent foreign levy under the law of that territory to which the regulations apply, or
 - (b) such provision will be made as a result of an agreement which has been entered into in relation to the territory.
 
-#### Disclosure of information to foreign tax authorities etc[^key-e11c3d8be8dc19505902385625526b7d]
+#### Disclosure of information to foreign tax authorities etc[^c-e11c3d8be8dc19505902385625526b7d]
 
 **67A.** (1) If the Treasury by order declares that—
 
@@ -1865,13 +1865,13 @@ those arrangements have effect, and do so in spite of anything in any enactment 
 
 (3) An order under this paragraph revoking an earlier order may contain transitional provisions that appear to the Treasury to be necessary or expedient.
 
-(4) Subsections (4) to[^key-fb59cc69fe25155667a81eedebd50b7b] (5) of section 173 of FA 2006 (international tax enforcement arrangements: disclosure of information) apply to arrangements which have effect under this paragraph as they apply to arrangements which have effect under that section.
+(4) Subsections (4) to[^c-fb59cc69fe25155667a81eedebd50b7b] (5) of section 173 of FA 2006 (international tax enforcement arrangements: disclosure of information) apply to arrangements which have effect under this paragraph as they apply to arrangements which have effect under that section.
 
 (5) Orders under this paragraph are to be made by statutory instrument.
 
 (6) A statutory instrument containing an order under this paragraph is subject to annulment in pursuance of a resolution of the House of Commons.
 
-#### ...[^key-5e0578e5b246c3649d770785f16deb1e]
+#### ...[^c-5e0578e5b246c3649d770785f16deb1e]
 
 **68.** (1) Sub-paragraph (2) applies if the law of a foreign territory makes provision allowing, in respect of payments of the bank levy, relief from an equivalent foreign levy payable under that law.
 
@@ -1883,7 +1883,7 @@ those arrangements have effect, and do so in spite of anything in any enactment 
 
 > (2A) Section 20 does not apply to a treaty in relation to which an order may be made under paragraph 66 of Schedule 19 to the Finance Act 2011 (bank levy: arrangements affording double taxation relief).
 
-#### Foreign levies to be ignored for purposes of income tax or corporation tax[^key-461f3334f7fc829ab528961a6249b812]
+#### Foreign levies to be ignored for purposes of income tax or corporation tax[^c-461f3334f7fc829ab528961a6249b812]
 
 **69A.** (1) In calculating profits or losses for the purposes of income tax or corporation tax—
 
@@ -1907,10 +1907,10 @@ those arrangements have effect, and do so in spite of anything in any enactment 
 - “building society group” is defined in paragraph 9;
 - “capital resources condition” is defined in paragraph 72;
 - “the chargeable period” is defined in paragraph 4(1) or 5(1) (as the case may be);
-- “Commission Regulation 2015/61” means Commission Delegated Regulation ([^key-550eb2ea3659b17d558924449a96e4d1]EU) 2015/61 of 10 October 2014 to supplement Regulation (EU) No 575/2013 of the European Parliament and the Council with regard to liquidity coverage requirement for Credit Institutions;
+- “Commission Regulation 2015/61” means Commission Delegated Regulation ([^c-550eb2ea3659b17d558924449a96e4d1]EU) 2015/61 of 10 October 2014 to supplement Regulation (EU) No 575/2013 of the European Parliament and the Council with regard to liquidity coverage requirement for Credit Institutions;
 - “**company**” has the meaning given by section 1121(1) of CTA 2010;
 - “**contract of insurance**” has the meaning given by article 3(1) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ( S.I. 2001/544);
-- “designated[^key-9f32c908b841463d02f4e4c617932a33] FPE entity” is defined in paragraph 15F(2);
+- “designated[^c-9f32c908b841463d02f4e4c617932a33] FPE entity” is defined in paragraph 15F(2);
 - “**entity**” includes a company, a partnership or a joint venture, but not—
   - (a) the Crown,
   - (b) a Minister of the Crown,
@@ -1918,17 +1918,17 @@ those arrangements have effect, and do so in spite of anything in any enactment 
   - (d) a Northern Ireland department,
   - (e) a foreign sovereign power, or
   - (f) an international organisation;
-- “entity-by-entity election” is defined in paragraph 15L(1);[^key-5076163d51c943de2faccf2a399e5564]
+- “entity-by-entity election” is defined in paragraph 15L(1);[^c-5076163d51c943de2faccf2a399e5564]
 - “equity” is defined in paragraph 14;
 - “**excluded**”, in relation to equity and liabilities, is defined in paragraph 28;
 - “excluded entity” is defined in paragraph 73;
 - “exempt activities condition” is defined in paragraph 13;
 - “**fair value**”, in relation to an item, means the amount for which the item could be exchanged between knowledgeable, willing parties in an arm's length transaction;
-- “[^key-e94468c1ff8045f029af6f984fe2b53e]**the FCA Handbook**” means the Handbook made by the Financial Conduct Authority under FISMA 2000 (as that Handbook has effect from time to time);”;
-- “[^key-e94cd4edb3f5839b76be67e19c8b052e]**FCA investment firm**” has the meaning given by section 143A of FISMA 2000;
+- “[^c-e94468c1ff8045f029af6f984fe2b53e]**the FCA Handbook**” means the Handbook made by the Financial Conduct Authority under FISMA 2000 (as that Handbook has effect from time to time);”;
+- “[^c-e94cd4edb3f5839b76be67e19c8b052e]**FCA investment firm**” has the meaning given by section 143A of FISMA 2000;
 - “foreign banking group” is defined in paragraph 10;
-- [^key-a8ea5bff817581ef07092b71a6818863]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “high quality liquid asset”, in relation to an entity or group of entities, means an asset (within the meaning of this Schedule) which—[^key-b9fed010b7e0eb51593083131f68949f]
+- [^c-a8ea5bff817581ef07092b71a6818863]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “high quality liquid asset”, in relation to an entity or group of entities, means an asset (within the meaning of this Schedule) which—[^c-b9fed010b7e0eb51593083131f68949f]
   - (a) is a liquid asset to which Article 416 of Regulation ( EU ) No 575/2013 of the European Parliament and the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms applies, and
   - (b) falls within the description of “level 1 assets” given by Article 10(1) of Commission Regulation 2015/61;
 - “**international accounting standards**” has the meaning given by section 1127(5) of CTA 2010, including any modifications mentioned in section 1127(6);
@@ -1937,10 +1937,10 @@ those arrangements have effect, and do so in spite of anything in any enactment 
   - (b) the governments of two or more sovereign powers are members,
 
   (see also sub-paragraph (5));
-- “[^key-66be63086b21edbfebb2cd3aa854986d]**investment bank**” has the meaning given by sub-paragraph (1A);
+- “[^c-66be63086b21edbfebb2cd3aa854986d]**investment bank**” has the meaning given by sub-paragraph (1A);
 - “liabilities” is defined in paragraph 14;
 - “**long term**”, in relation to equity and liabilities, is defined in paragraphs 74 to 77;
-- “non-UK allocated equity and liabilities” is defined in paragraph 15Z1;[^key-0c23a532b34e742a3e2d2a04561ebbb9]
+- “non-UK allocated equity and liabilities” is defined in paragraph 15Z1;[^c-0c23a532b34e742a3e2d2a04561ebbb9]
 - “the parent entity” is defined in paragraph 4(1);
 - “**partnership**” includes—
   - (a) a limited liability partnership, and
@@ -1949,29 +1949,29 @@ those arrangements have effect, and do so in spite of anything in any enactment 
   and “**member**”, in relation to a partnership, is to be read accordingly;
 - “**period of account**”, in relation to an entity, means a period for which the entity prepares financial statements (consolidated or otherwise), (see also paragraph 41);
 - “**permanent establishment**” is to be read in accordance with Chapter 2 of Part 24 of CTA 2010;
-- “the PRA[^key-832b3f56bbc8896157c391129c159fec] Rulebook[^key-745f18911ece0df25857df2d1de111aa]” means the Rulebook made by the Prudential Regulation Authority under FISMA 2000 (as that Rulebook has effect from time to time);
+- “the PRA[^c-832b3f56bbc8896157c391129c159fec] Rulebook[^c-745f18911ece0df25857df2d1de111aa]” means the Rulebook made by the Prudential Regulation Authority under FISMA 2000 (as that Rulebook has effect from time to time);
 - “the relevant entity” is defined in paragraph 5(1);
 - “relevant foreign bank” is defined in paragraph 78;
 - “the relevant group” is defined in paragraph 4(1);
 - “relevant non-banking group” is defined in paragraph 11;
 - “relevant regulated activity” is defined in paragraph 79;
-- [^key-4f65ee7c7cf71ee707672560f6f725b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-4f65ee7c7cf71ee707672560f6f725b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “residual UK-sub-group” is defined in paragraph 15K(2);[^key-25f12ee3ef5b2195d846a587b64e43d9]
+- [^c-4f65ee7c7cf71ee707672560f6f725b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-4f65ee7c7cf71ee707672560f6f725b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “residual UK-sub-group” is defined in paragraph 15K(2);[^c-25f12ee3ef5b2195d846a587b64e43d9]
 - “**short term**”, in relation to liabilities, means any liabilities which are not long term;
 - “UK allocated equity and liabilities” is defined in paragraph 24;
-- “UK-based equity and liabilities”—[^key-7fbc2ae71c8813fe0bb32c0f8d6cc975]
+- “UK-based equity and liabilities”—[^c-7fbc2ae71c8813fe0bb32c0f8d6cc975]
   - (a) in relation to a UK resident entity, other than a designated FPE entity, is defined in paragraph 15H,
   - (b) in relation to a designated FPE entity (other than a member of a UK sub-group) is defined in paragraphs 15I and 15Z1, and
   - (c) in relation to a UK sub-group, is defined in paragraphs 15J, 15K and 15L;
-- [^key-4f65ee7c7cf71ee707672560f6f725b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-332288cc1b7c53d980acaf65d027a43e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-4f65ee7c7cf71ee707672560f6f725b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-332288cc1b7c53d980acaf65d027a43e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “UK resident bank” is defined in paragraph 80;
 - “**UK resident entity**” means an entity which is resident in the United Kingdom (see paragraph 45) and “non-UK resident entity” is to be read accordingly;
-- “UK sub-group” is defined in paragraph 15B[^key-3d5323ec0ac241df859f5223e7a67ec2];
-- [^key-28e7f435db1a321764e5af7ef43a9872]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “UK sub-group” is defined in paragraph 15B[^c-3d5323ec0ac241df859f5223e7a67ec2];
+- [^c-28e7f435db1a321764e5af7ef43a9872]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-b1c0bfc1b844cc810ce2e1b80fd87fd3] In this Schedule, “**investment bank**” means an entity which—
+(1A)[^c-b1c0bfc1b844cc810ce2e1b80fd87fd3] In this Schedule, “**investment bank**” means an entity which—
 
 - (a) is an FCA investment firm that meets the conditions in sub-paragraph (1B), or
 - (b) is designated by the Prudential Regulation Authority under article 3 of the Financial Services and Markets Act 2000 (PRA-regulated Activities) Order 2013 ([S.I. 2013/556](https://www.legislation.gov.uk/uksi/2013/556)) (dealing in investments as principal: designation by PRA).
@@ -2005,24 +2005,24 @@ those arrangements have effect, and do so in spite of anything in any enactment 
 
 (1D) In determining, for the purposes of sub-paragraph (1B), whether an FCA investment firm has a permanent minimum capital requirement of £750,000, any transitional provision in the FCA Handbook is to be disregarded.
 
-(2) In this Schedule the following terms have the meaning given in the PRA[^key-a4836bad1237dbd42aa3e32451d4664a] Rulebook[^key-375d0ee0b1b156fa74400ffc7deea548] —
+(2) In this Schedule the following terms have the meaning given in the PRA[^c-a4836bad1237dbd42aa3e32451d4664a] Rulebook[^c-375d0ee0b1b156fa74400ffc7deea548] —
 
 - “authorised corporate director”;
-- [^key-e29218846fbda344f93fb24db9e2925a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-e29218846fbda344f93fb24db9e2925a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “capital resources requirement”;
 - “contracts for differences”;
 - “discretionary investment manager”;
-- [^key-e29218846fbda344f93fb24db9e2925a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-e29218846fbda344f93fb24db9e2925a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-e29218846fbda344f93fb24db9e2925a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-e29218846fbda344f93fb24db9e2925a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “ILAS BIPRU firm”;
 - “designated multilateral development bank”;
 - “pension scheme”;
 - “principal”;
 - “retail client”.
 
-(2A)[^key-2d84800296965178472c5f12757b5101] In this Schedule the following terms have the meaning given in the FCA Handbook—
+(2A)[^c-2d84800296965178472c5f12757b5101] In this Schedule the following terms have the meaning given in the FCA Handbook—
 
-- “commodity and emission allowance dealer”;[^key-4823bcd13d6cf89b9a54b114036a6344]
+- “commodity and emission allowance dealer”;[^c-4823bcd13d6cf89b9a54b114036a6344]
 - “dealing on own account”;
 - “financial instrument”;
 - “initial capital”;
@@ -2030,9 +2030,9 @@ those arrangements have effect, and do so in spite of anything in any enactment 
 - “market value”;
 - “permanent minimum capital requirement”.
 
-(3) A entity which would be an FCA investment firm that meets the conditions in sub-paragraph (1B)[^key-73e4c4e7463a1459651d43bb7bb809b0] by virtue of activities carried on in the United Kingdom but for the fact that its registered office (or, if it does not have a registered office, its head office) is not in the United Kingdom is to be treated as being one.
+(3) A entity which would be an FCA investment firm that meets the conditions in sub-paragraph (1B)[^c-73e4c4e7463a1459651d43bb7bb809b0] by virtue of activities carried on in the United Kingdom but for the fact that its registered office (or, if it does not have a registered office, its head office) is not in the United Kingdom is to be treated as being one.
 
-(4)[^key-254d927dcfe78a2dcb03686d5f629437] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-254d927dcfe78a2dcb03686d5f629437] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) If, in any proceedings, any question arises whether a person is an international organisation for the purposes of the definition of “entity” in sub-paragraph (1), a certificate issued by or under the authority of the Secretary of State stating any fact relevant to that question is conclusive evidence of that fact.
 
@@ -2054,8 +2054,8 @@ those arrangements have effect, and do so in spite of anything in any enactment 
 
 (3) In sub-paragraph (2) “ **group** ” means a group for the purposes of—
 
-- (a) the provisions mentioned in paragraph 4(3), [^key-0467dd79003da8282903ec6002aed4a4]...
-- (b)[^key-0467dd79003da8282903ec6002aed4a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the provisions mentioned in paragraph 4(3), [^c-0467dd79003da8282903ec6002aed4a4]...
+- (b)[^c-0467dd79003da8282903ec6002aed4a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### “Capital resources condition”
 
@@ -2076,7 +2076,7 @@ have (in aggregate) capital resources requirements of at least £100,000,000.
 
 (3) The conditions referred to in sub-paragraph (2) are that the entity or partnership—
 
-- (a) is an investment bank,[^key-a3afd5c5370df3c60f114b12a73afc1e] or
+- (a) is an investment bank,[^c-a3afd5c5370df3c60f114b12a73afc1e] or
 - (b) is an entity or partnership which carries on in the United Kingdom activities including the relevant regulated activity described in the provision mentioned in paragraph 79(a).
 
 (4) In determining whether the entity is a UK resident bank or a relevant foreign bank by virtue of paragraph 78(2) or 80(2), the references in sub-paragraph (1) to the entity are to the partnership.
@@ -2087,8 +2087,8 @@ have (in aggregate) capital resources requirements of at least £100,000,000.
 
 (7) In sub-paragraph (2) “ **group** ” means a group for the purposes of—
 
-- (a) the provisions mentioned in paragraph 4(3), [^key-7398d0610adeabcf93bfe729cd973490]...
-- (b)[^key-7398d0610adeabcf93bfe729cd973490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the provisions mentioned in paragraph 4(3), [^c-7398d0610adeabcf93bfe729cd973490]...
+- (b)[^c-7398d0610adeabcf93bfe729cd973490] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### “Excluded entity”
 
@@ -2099,31 +2099,31 @@ have (in aggregate) capital resources requirements of at least £100,000,000.
 - (c) an entity which does not carry on any relevant regulated activities otherwise than as the manager of a pension scheme,
 - (d) an investment trust (within the meaning given by section 1158 of CTA 2010),
 - (e) an entity which does not carry on any relevant regulated activities other than asset management activities,
-- (f)[^key-d8168398cce122adbb336b3f6dd28cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (fa)[^key-080fe82886e77b462a9b366f4028c2d1] a commodity and emission allowance dealer,
+- (f)[^c-d8168398cce122adbb336b3f6dd28cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (fa)[^c-080fe82886e77b462a9b366f4028c2d1] a commodity and emission allowance dealer,
 - (g) an entity which does not carry on any relevant regulated activities otherwise than for the purpose of trading in commodities or commodity derivatives,
 - (h) an entity which does not carry on any relevant regulated activities otherwise than for the purpose of dealing in contracts for differences—
   - (i) as principal with persons all or all but an insignificant proportion of whom are retail clients, or
   - (ii) with another person to enable the entity or other person to deal in contracts for differences as principal with persons all or all but an insignificant proportion of whom are retail clients,
 - (i) a society incorporated under the Friendly Societies Act 1992,
-- (j) a society registered as a credit union under the Co-operative and Community Benefit Societies Act 2014[^M_F_0ec18be8-477c-40d5-eb66-0bd5f94478a4] or the Credit Unions (Northern Ireland) Order 1985 (S.I. 1985/1205 (N.I. 12)), [^key-d60829c581d78fc93621dce4a77c933a]...
-- (k) a building society, or[^key-edc505864d35e3c86fe8be1ca9e66844]
+- (j) a society registered as a credit union under the Co-operative and Community Benefit Societies Act 2014[^M_F_0ec18be8-477c-40d5-eb66-0bd5f94478a4] or the Credit Unions (Northern Ireland) Order 1985 (S.I. 1985/1205 (N.I. 12)), [^c-d60829c581d78fc93621dce4a77c933a]...
+- (k) a building society, or[^c-edc505864d35e3c86fe8be1ca9e66844]
 - (l) an entity falling within sub-paragraph (1A).
 
-(1A)[^key-1f621c38d702dad4dbe359cf51e7c5a9] An entity falls within this sub-paragraph if—
+(1A)[^c-1f621c38d702dad4dbe359cf51e7c5a9] An entity falls within this sub-paragraph if—
 
 - (a) it would fall within a relevant relieving provision but for one (and only one) line of business which it carries on,
 - (b) that line of business does not involve the relevant regulated activity described in the provision mentioned in paragraph 79(a), and
-- (c) the entity’s activities in that line of business would not, on their own, result in it being an FCA investment firm that meets the conditions in paragraph 70(1B)[^key-314488ed1d1c83e825b0ca531ab4804d].
+- (c) the entity’s activities in that line of business would not, on their own, result in it being an FCA investment firm that meets the conditions in paragraph 70(1B)[^c-314488ed1d1c83e825b0ca531ab4804d].
 
 (1B) For the purposes of sub-paragraph (1A) the “relevant relieving provisions” are paragraphs (b), (c), (e), (g) and (h) of sub-paragraph (1).
 
-(2) In sub-paragraph (1)(a) and (b) “insurance company” and “insurance special purpose vehicle” have the meanings given by sections 65 and 139 of FA 2012 respectively[^key-119bb8d9c6c88e57e446d3c4824d7cae].
+(2) In sub-paragraph (1)(a) and (b) “insurance company” and “insurance special purpose vehicle” have the meanings given by sections 65 and 139 of FA 2012 respectively[^c-119bb8d9c6c88e57e446d3c4824d7cae].
 
 (3) In sub-paragraph (1)(b) “**group**” means a group for the purposes of—
 
-- (a) the provisions mentioned in paragraph 4(3), [^key-5c39a8629b2e53f7e04c9e095315f34c]...
-- (b)[^key-5c39a8629b2e53f7e04c9e095315f34c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the provisions mentioned in paragraph 4(3), [^c-5c39a8629b2e53f7e04c9e095315f34c]...
+- (b)[^c-5c39a8629b2e53f7e04c9e095315f34c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### “Long term” equity and liabilities
 
@@ -2140,7 +2140,7 @@ have (in aggregate) capital resources requirements of at least £100,000,000.
 - (b) excluded liabilities to persons who are not members of the relevant group, or
 - (c) liabilities to such persons which are not required, and cannot be required, to be repaid or otherwise met during the 12 month period starting with the last day of the chargeable period.
 
-(3)[^key-e30ab3d8813b06e8846c67865122d349] This paragraph is subject to paragraph 76A.
+(3)[^c-e30ab3d8813b06e8846c67865122d349] This paragraph is subject to paragraph 76A.
 
 **76.** (1) Liabilities are also “long term” so far as they consist of non-protected deposits.
 
@@ -2158,11 +2158,11 @@ have (in aggregate) capital resources requirements of at least £100,000,000.
 
 (5) The purpose is that the exclusions are to cover, essentially, the same matters in relation to the territory concerned as they cover in relation to the United Kingdom.
 
-**76A.**[^key-6ee94ae8c3ac0847dd9f1531aa3b3d5e] (1) Liabilities under derivative contracts are never “long term” (and are therefore always short term).
+**76A.**[^c-6ee94ae8c3ac0847dd9f1531aa3b3d5e] (1) Liabilities under derivative contracts are never “long term” (and are therefore always short term).
 
 (2) In this paragraph “**derivative contract**” has the meaning given by international accounting standards.
 
-**77.** Paragraphs 74 to 76A[^key-3a862ebf20abaab89f1758c664b81bee] are subject to Step 7 in paragraph 15Z1 and[^key-0c51a2bd5f3fae47e51601e5baa27b73] Step 6 in paragraph 24(1).
+**77.** Paragraphs 74 to 76A[^c-3a862ebf20abaab89f1758c664b81bee] are subject to Step 7 in paragraph 15Z1 and[^c-0c51a2bd5f3fae47e51601e5baa27b73] Step 6 in paragraph 24(1).
 
 #### “Relevant foreign bank”
 
@@ -2172,7 +2172,7 @@ have (in aggregate) capital resources requirements of at least £100,000,000.
 - (b) is an authorised person for the purposes of FISMA 2000 (see section 31 of that Act),
 - (c) is an entity which carries on a trade in the United Kingdom through a permanent establishment in the United Kingdom and—
   - (i) whose activities include the relevant regulated activity described in the provision mentioned in paragraph 79(a), or
-  - (ii) which is an investment bank,[^key-4994ae50a31ffc1c2770e279fa151496] whose activities consist wholly or mainly of any of the relevant regulated activities described in the provisions mentioned in paragraph 79(b) to (f),
+  - (ii) which is an investment bank,[^c-4994ae50a31ffc1c2770e279fa151496] whose activities consist wholly or mainly of any of the relevant regulated activities described in the provisions mentioned in paragraph 79(b) to (f),
 - (d) carries on that relevant regulated activity, or those relevant regulated activities, wholly or mainly in the course of that trade,
 - (e) meets the capital resources condition, and
 - (f) is not an excluded entity.
@@ -2190,7 +2190,7 @@ have (in aggregate) capital resources requirements of at least £100,000,000.
 - (b) article 14 (dealing in investments as principal),
 - (c) article 21 (dealing in investments as agent),
 - (d) article 25 (arranging deals in investments),
-- (da)[^key-e7698dc6c7fa81fad5a24d3286c570f7] article 25DA (operating an organised trading facility), but only where dealing on own account in relation to sovereign debt instruments for which there is no liquid market (within the meaning of the FCA Handbook);
+- (da)[^c-e7698dc6c7fa81fad5a24d3286c570f7] article 25DA (operating an organised trading facility), but only where dealing on own account in relation to sovereign debt instruments for which there is no liquid market (within the meaning of the FCA Handbook);
 - (e) article 40 (safeguarding and administering investments), and
 - (f) article 61 (entering into regulated mortgage contracts).
 
@@ -2202,7 +2202,7 @@ have (in aggregate) capital resources requirements of at least £100,000,000.
 - (b) is an authorised person for the purposes of FISMA 2000 (see section 31 of that Act),
 - (c) is an entity—
   - (i) whose activities include the relevant regulated activity described in the provision mentioned in paragraph 79(a), or
-  - (ii) which is an investment bank,[^key-04f332c979e7d66f345659e9282650e1] whose activities consist wholly or mainly of any of the relevant regulated activities described in the provisions mentioned in paragraph 79(b) to (f),
+  - (ii) which is an investment bank,[^c-04f332c979e7d66f345659e9282650e1] whose activities consist wholly or mainly of any of the relevant regulated activities described in the provisions mentioned in paragraph 79(b) to (f),
 - (d) carries on that relevant regulated activity, or those relevant regulated activities, wholly or mainly in the course of trade,
 - (e) meets the capital resources condition, and
 - (f) is not an excluded entity.
@@ -2212,105 +2212,105 @@ have (in aggregate) capital resources requirements of at least £100,000,000.
 - (a) meets the conditions in sub-paragraph (1)(a) and (f), and
 - (b) is a member of a partnership which meets the conditions in sub-paragraph (1)(b) to (e).
 
-### Part 9 — Powers to amend[^key-b0722416440b9ce896901543072d5b57]
+### Part 9 — Powers to amend[^c-b0722416440b9ce896901543072d5b57]
 
 **81.** (1) The Treasury may, by order made by statutory instrument, make such amendments of this Schedule as they consider appropriate in consequence of—
 
 - (a) any change made to or replacement of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 ( S.I. 2001/544) (or any replacement),
-- (b) any change made to the PRA[^key-6b05d803aed0e07daff72ee5fec8ceae] Rulebook[^key-eceffe61c67e157dc27d7065909443d8], [^key-76c666bc421c2fc5cff1792f87ecbadc]...
-- (c) any change in international accounting standards [^key-7fcd29a1d965bff7cf81cb5c7305dfa3]... , or[^key-d5ef4bf8774b266018c304c0773a86d2]
+- (b) any change made to the PRA[^c-6b05d803aed0e07daff72ee5fec8ceae] Rulebook[^c-eceffe61c67e157dc27d7065909443d8], [^c-76c666bc421c2fc5cff1792f87ecbadc]...
+- (c) any change in international accounting standards [^c-7fcd29a1d965bff7cf81cb5c7305dfa3]... , or[^c-d5ef4bf8774b266018c304c0773a86d2]
 - (d) any regulatory requirement, or change to any regulatory requirement, imposed by EU legislation, or by or under any Act (whenever adopted, enacted or made).
 
-(1A)[^key-c36d68eddf8e939df7ab3fb15c541579] The Treasury may by regulations made by statutory instrument—
+(1A)[^c-c36d68eddf8e939df7ab3fb15c541579] The Treasury may by regulations made by statutory instrument—
 
 - (a) amend Part 8 of this Schedule (definitions);
 - (b) amend other Parts of this Schedule in consequence of provision made under paragraph (a).
 
 (1B) An order under sub-paragraph (1) or regulations under sub-paragraph (1A) may include transitional provision.
 
-(2) An order under sub-paragraph (1)[^key-f2e7a3d8f67ac0277003ed5b82069a90] may have retrospective effect in relation to—
+(2) An order under sub-paragraph (1)[^c-f2e7a3d8f67ac0277003ed5b82069a90] may have retrospective effect in relation to—
 
 - (a) any chargeable period in which the order is made, or
-- (b)[^key-e8b4f38381c9b7333882bbdf6987a976] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-a038e629da741c1566f2bc66ee8d91be] in the case of an order made on or before 30 June 2022, in relation to any chargeable period ending on or after 1 January 2022.
+- (b)[^c-e8b4f38381c9b7333882bbdf6987a976] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a038e629da741c1566f2bc66ee8d91be] in the case of an order made on or before 30 June 2022, in relation to any chargeable period ending on or after 1 January 2022.
 
-(2A)[^key-66d4c719d1c099473ae11726128f042d] Regulations under sub-paragraph (1A) made on or before 30 June 2022 may have retrospective effect in relation to any chargeable period ending on or after 1 January 2022.
+(2A)[^c-66d4c719d1c099473ae11726128f042d] Regulations under sub-paragraph (1A) made on or before 30 June 2022 may have retrospective effect in relation to any chargeable period ending on or after 1 January 2022.
 
-(3) A statutory instrument containing only an order under sub-paragraph (1)[^key-1d9f9d5c51745cada3d16115b53e747a] is subject to annulment in pursuance of a resolution of the House of Commons.
+(3) A statutory instrument containing only an order under sub-paragraph (1)[^c-1d9f9d5c51745cada3d16115b53e747a] is subject to annulment in pursuance of a resolution of the House of Commons.
 
-(4)[^key-16d9efa64b2377b9e0e33e399b9f491a] Any other statutory instrument containing provision made under this paragraph may not be made unless a draft of the instrument has been laid before and approved by a resolution of the House of Commons.
+(4)[^c-16d9efa64b2377b9e0e33e399b9f491a] Any other statutory instrument containing provision made under this paragraph may not be made unless a draft of the instrument has been laid before and approved by a resolution of the House of Commons.
 
 ## Annotations
 
-[^key-adc32fcca0c5a02bc85dc32c39c83099]: Textual amendment: Words in Sch. 19 para. 3 inserted (with effect in accordance with s. 204(5)-(7) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 204(4)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/204/4/a)
+[^c-adc32fcca0c5a02bc85dc32c39c83099]: Textual amendment: Words in Sch. 19 para. 3 inserted (with effect in accordance with s. 204(5)-(7) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 204(4)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/204/4/a)
 
-[^key-270a8d7e4d656feae4fe199b7bead095]: Textual amendment: Sch. 19 para. 4(5)-(7) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/22)
+[^c-270a8d7e4d656feae4fe199b7bead095]: Textual amendment: Sch. 19 para. 4(5)-(7) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/22)
 
-[^key-e71f0208672356e65130d9f7df80b2ae]: Textual amendment: Word in Sch. 19 para. 6(2) substituted (1.1.2021) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/3)
+[^c-e71f0208672356e65130d9f7df80b2ae]: Textual amendment: Word in Sch. 19 para. 6(2) substituted (1.1.2021) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/3)
 
-[^key-f5998491b75cd1ae6fc9aaf858a0b1de]: Textual amendment: Word in Sch. 19 para. 6(2) substituted (1.1.2021) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/1/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/3)
+[^c-f5998491b75cd1ae6fc9aaf858a0b1de]: Textual amendment: Word in Sch. 19 para. 6(2) substituted (1.1.2021) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/1/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/3)
 
-[^key-f6f1177327619d5813b17cb008f9a0a9]: Textual amendment: Words in Sch. 19 para. 7 cross-heading substituted (1.1.2016) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/2/d)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/3) (with [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/5))
+[^c-f6f1177327619d5813b17cb008f9a0a9]: Textual amendment: Words in Sch. 19 para. 7 cross-heading substituted (1.1.2016) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/2/d)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/3) (with [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/5))
 
-[^key-c440d7a5c4b5ccc78948a35a0008c710]: Textual amendment: Word in Sch. 19 para. 7 cross-heading substituted (1.1.2021) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 6(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/2/c)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/3)
+[^c-c440d7a5c4b5ccc78948a35a0008c710]: Textual amendment: Word in Sch. 19 para. 7 cross-heading substituted (1.1.2021) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 6(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/2/c)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/3)
 
-[^key-02adec938687d5a64c241d53d9f37322]: Textual amendment: Sch. 19 para. 7(1)(2) substituted (1.1.2013) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 34 paras. 6(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/6/1), [7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/7) (with [Sch. 34 para. 12](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/12) )
+[^c-02adec938687d5a64c241d53d9f37322]: Textual amendment: Sch. 19 para. 7(1)(2) substituted (1.1.2013) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 34 paras. 6(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/6/1), [7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/7) (with [Sch. 34 para. 12](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/12) )
 
-[^key-c9f319cce6a9822bc86ac90981570eaf]: Textual amendment: Words in Sch. 19 para. 7(1) substituted (1.1.2016) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/3) (with [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/5))
+[^c-c9f319cce6a9822bc86ac90981570eaf]: Textual amendment: Words in Sch. 19 para. 7(1) substituted (1.1.2016) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/3) (with [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/5))
 
-[^key-527e83ccae860871582a7f6d84c755b4]: Textual amendment: Word in Sch. 19 para. 7(1) substituted (1.1.2021) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/3)
+[^c-527e83ccae860871582a7f6d84c755b4]: Textual amendment: Word in Sch. 19 para. 7(1) substituted (1.1.2021) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/3)
 
-[^key-4b0cf05446374948f1b0ebb6eb718bcd]: Textual amendment: Words in Sch. 19 para. 7(2) substituted (1.4.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11) , [s. 76(3)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/76/3/b) [(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/76/4)
+[^c-4b0cf05446374948f1b0ebb6eb718bcd]: Textual amendment: Words in Sch. 19 para. 7(2) substituted (1.4.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11) , [s. 76(3)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/76/3/b) [(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/76/4)
 
-[^key-b5caaf9726f716c248aaf3cdd1ffcc01]: Textual amendment: Words in Sch. 19 para. 7(2) added (1.1.2014 retrospective) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26) , [s. 119(3)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/119/3/c) [(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/119/5)
+[^c-b5caaf9726f716c248aaf3cdd1ffcc01]: Textual amendment: Words in Sch. 19 para. 7(2) added (1.1.2014 retrospective) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26) , [s. 119(3)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/119/3/c) [(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/119/5)
 
-[^key-969c2defa59c1fc8b9144442ecfd6f34]: Textual amendment: Word in Sch. 19 para. 7(2) substituted (1.1.2013 retrospective) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) , [s. 202(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/3/b) [(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/5) (with [s. 202(6)-(13)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/6) )
+[^c-969c2defa59c1fc8b9144442ecfd6f34]: Textual amendment: Word in Sch. 19 para. 7(2) substituted (1.1.2013 retrospective) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) , [s. 202(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/3/b) [(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/5) (with [s. 202(6)-(13)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/6) )
 
-[^key-aa77c7ccdfd469731ef83b81890eb8e5]: Textual amendment: Words in Sch. 19 para. 7(2) substituted (1.1.2016) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/3) (with [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/5))
+[^c-aa77c7ccdfd469731ef83b81890eb8e5]: Textual amendment: Words in Sch. 19 para. 7(2) substituted (1.1.2016) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/3) (with [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/5))
 
-[^key-2fc63513c87fbfffa304b5cfb80bfb79]: Textual amendment: Words in Sch. 19 para. 7(2) added (1.4.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11) , [s. 76(3)(c)](https://www.legislation.gov.uk/ukpga/2015/11/section/76/3/c) [(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/76/4)
+[^c-2fc63513c87fbfffa304b5cfb80bfb79]: Textual amendment: Words in Sch. 19 para. 7(2) added (1.4.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11) , [s. 76(3)(c)](https://www.legislation.gov.uk/ukpga/2015/11/section/76/3/c) [(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/76/4)
 
-[^key-8d3003f7d5abf0f143f431b95fd4c63e]: Textual amendment: Words in Sch. 19 para. 7(2) added (1.1.2016) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/2/c)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/3) (with [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/5))
+[^c-8d3003f7d5abf0f143f431b95fd4c63e]: Textual amendment: Words in Sch. 19 para. 7(2) added (1.1.2016) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/2/c)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/3) (with [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/1/5))
 
-[^key-ea86a68d30fb4644296c3cc67bd2dc72]: Textual amendment: Words in Sch. 19 para. 7(2) added (1.1.2017) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/2/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/2/3)
+[^c-ea86a68d30fb4644296c3cc67bd2dc72]: Textual amendment: Words in Sch. 19 para. 7(2) added (1.1.2017) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/2/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/2/3)
 
-[^key-374802c2350219a6254339de8412b355]: Textual amendment: Words in Sch. 19 para. 7 added (1.1.2018) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/3/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/3/3)
+[^c-374802c2350219a6254339de8412b355]: Textual amendment: Words in Sch. 19 para. 7 added (1.1.2018) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/3/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/3/3)
 
-[^key-4ec5defb09d8a9c66ed8a7bac92b55aa]: Textual amendment: Words in Sch. 19 para. 7 added (1.1.2019) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/4/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/4/3)
+[^c-4ec5defb09d8a9c66ed8a7bac92b55aa]: Textual amendment: Words in Sch. 19 para. 7 added (1.1.2019) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/4/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/4/3)
 
-[^key-169284e9893fb40c30bd94926910fa4f]: Textual amendment: Words in Sch. 19 para. 7 added (1.1.2020) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/5/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/5/3)
+[^c-169284e9893fb40c30bd94926910fa4f]: Textual amendment: Words in Sch. 19 para. 7 added (1.1.2020) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/5/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/5/3)
 
-[^key-edd0ff468a8adbdbef1a2186d9139187]: Textual amendment: Words in Sch. 19 para. 7 inserted (1.1.2021) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/3)
+[^c-edd0ff468a8adbdbef1a2186d9139187]: Textual amendment: Words in Sch. 19 para. 7 inserted (1.1.2021) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 2 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/2/paragraph/6/3)
 
-[^key-dc1db1574e39e5aa6c8a0c34fd9259df]: Textual amendment: Sch. 19 para. 12(7)(b) and preceding word omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 23](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/23)
+[^c-dc1db1574e39e5aa6c8a0c34fd9259df]: Textual amendment: Sch. 19 para. 12(7)(b) and preceding word omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 23](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/23)
 
-[^key-ac678be9ad16023f67085dc03021781d]: Textual amendment: Word in Sch. 19 para. 12(8)(a)(iv) inserted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/2/a/i)[(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
+[^c-ac678be9ad16023f67085dc03021781d]: Textual amendment: Word in Sch. 19 para. 12(8)(a)(iv) inserted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/2/a/i)[(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
 
-[^key-0fd965d1e415c036452b35423b4d3c82]: Textual amendment: Words in [Sch. 19 para. 12(8)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/12/8) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [13(a)](https://www.legislation.gov.uk/uksi/2022/286/regulation/13/a)
+[^c-0fd965d1e415c036452b35423b4d3c82]: Textual amendment: Words in [Sch. 19 para. 12(8)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/12/8) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [13(a)](https://www.legislation.gov.uk/uksi/2022/286/regulation/13/a)
 
-[^key-57f40b3bc1a11a152e4553a71661d02d]: Textual amendment: Word in Sch. 19 para. 12(8)(b)(iv) inserted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/2/b/i)[(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
+[^c-57f40b3bc1a11a152e4553a71661d02d]: Textual amendment: Word in Sch. 19 para. 12(8)(b)(iv) inserted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/2/b/i)[(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
 
-[^key-afd2a6e3c9c3bb7284aff4691ecc6b61]: Textual amendment: Words in [Sch. 19 para. 12(8)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/12/8) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [13(b)](https://www.legislation.gov.uk/uksi/2022/286/regulation/13/b)
+[^c-afd2a6e3c9c3bb7284aff4691ecc6b61]: Textual amendment: Words in [Sch. 19 para. 12(8)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/12/8) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [13(b)](https://www.legislation.gov.uk/uksi/2022/286/regulation/13/b)
 
-[^key-d1e945da59b3edbbc3c77fcce3d42ad5]: Textual amendment: Words in Sch. 19 para. 13(2)(b)(i) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 24(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/24/a)
+[^c-d1e945da59b3edbbc3c77fcce3d42ad5]: Textual amendment: Words in Sch. 19 para. 13(2)(b)(i) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 24(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/24/a)
 
-[^key-d56c470ef1eb8013dd195f456d2e7acc]: Textual amendment: Words in Sch. 19 para. 13(4) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 24(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/24/b)
+[^c-d56c470ef1eb8013dd195f456d2e7acc]: Textual amendment: Words in Sch. 19 para. 13(4) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 24(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/24/b)
 
-[^key-47509b8ea758c0083d0ebbcd6015b0e1]: Textual amendment: Words in Sch. 19 para. 13(4) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/20/2/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47509b8ea758c0083d0ebbcd6015b0e1]: Textual amendment: Words in Sch. 19 para. 13(4) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/20/2/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e151874f23503ef4a452897b81867606]: Textual amendment: Words in Sch. 19 para. 13(4) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 24(c)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/24/c)
+[^c-e151874f23503ef4a452897b81867606]: Textual amendment: Words in Sch. 19 para. 13(4) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 24(c)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/24/c)
 
-[^key-7422135ae4dab12acceb43253a295023]: Textual amendment: Sch. 19 para. 14(2) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 25](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/25)
+[^c-7422135ae4dab12acceb43253a295023]: Textual amendment: Sch. 19 para. 14(2) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 25](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/25)
 
-[^key-3ff1dd10f5e3c522593520c64a676115]: Textual amendment: Sch. 19 paras. 15-15Z5 and cross-headings substituted for Sch. 19 paras. 15-23 (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/2)
+[^c-3ff1dd10f5e3c522593520c64a676115]: Textual amendment: Sch. 19 paras. 15-15Z5 and cross-headings substituted for Sch. 19 paras. 15-23 (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/2)
 
-[^key-247dc81e4f0bc5294ee957fe10410ba3]: Textual amendment: Words in Sch. 19 para. 24(1) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/3)
+[^c-247dc81e4f0bc5294ee957fe10410ba3]: Textual amendment: Words in Sch. 19 para. 24(1) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/3)
 
-[^key-69dc387fd56b54d445aa7e1153e1cbc9]: Textual amendment: Words in Sch. 19 para. 24(2)(a) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 26(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/26/a)
+[^c-69dc387fd56b54d445aa7e1153e1cbc9]: Textual amendment: Words in Sch. 19 para. 24(2)(a) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 26(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/26/a)
 
-[^key-e05bf76b49bb196cd3845b163af55d44]: Textual amendment: Sch. 19 para. 24(2)(b)(ii) and word omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 26(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/26/b)
+[^c-e05bf76b49bb196cd3845b163af55d44]: Textual amendment: Sch. 19 para. 24(2)(b)(ii) and word omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 26(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/26/b)
 
-[^key-019f1b327b2a248e10c14923f3188f66]: Textual amendment: Words in Sch. 19 para. 25(1) inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/2)
+[^c-019f1b327b2a248e10c14923f3188f66]: Textual amendment: Words in Sch. 19 para. 25(1) inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/2)
 
 [^c21242521]: Textual amendment: Word in Sch. 19 para. 25(1)(a) omitted (14.12.2011 with effect in relation to chargeable periods ending on or after 1.1.2011) by virtue of [The Finance Act 2011 (Bank Levy: Amendment of Netting Agreements Provisions) Order 2011 (S.I. 2011/3015)](https://www.legislation.gov.uk/uksi/2011/3015) , [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/3015/article/1/2) , [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2011/3015/article/7/2/a/i)
 
@@ -2318,268 +2318,268 @@ have (in aggregate) capital resources requirements of at least £100,000,000.
 
 [^c21242551]: Textual amendment: Sch. 19 para. 25(1)(b) substituted (14.12.2011 with effect in relation to chargeable periods ending on or after 1.1.2011) by [The Finance Act 2011 (Bank Levy: Amendment of Netting Agreements Provisions) Order 2011 (S.I. 2011/3015)](https://www.legislation.gov.uk/uksi/2011/3015) , [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/3015/article/1/2) , [7(2)(b)](https://www.legislation.gov.uk/uksi/2011/3015/article/7/2/b)
 
-[^key-4169601b6711d53c0270fa832ba7677d]: Textual amendment: Words in Sch. 19 para. 25(1)(c) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/3)
+[^c-4169601b6711d53c0270fa832ba7677d]: Textual amendment: Words in Sch. 19 para. 25(1)(c) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/3)
 
-[^key-e754772ed229921c41a107e73eff3b01]: Textual amendment: Sch. 19 para. 25(1A)-(1C) inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/4)
+[^c-e754772ed229921c41a107e73eff3b01]: Textual amendment: Sch. 19 para. 25(1A)-(1C) inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/4)
 
-[^key-9537dbfa7277e7cd5d66bb767761aafb]: Textual amendment: Sch. 19 para. 25(2) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/5)
+[^c-9537dbfa7277e7cd5d66bb767761aafb]: Textual amendment: Sch. 19 para. 25(2) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/5)
 
 [^c21242571]: Textual amendment: Sch. 19 para. 25(3)(b) substituted (14.12.2011 with effect in relation to chargeable periods ending on or after 1.1.2011) by [The Finance Act 2011 (Bank Levy: Amendment of Netting Agreements Provisions) Order 2011 (S.I. 2011/3015)](https://www.legislation.gov.uk/uksi/2011/3015) , [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/3015/article/1/2) , [7(3)(a)](https://www.legislation.gov.uk/uksi/2011/3015/article/7/3/a)
 
 [^c21242591]: Textual amendment: Sch. 19 para. 25(3)(c) and following word omitted (14.12.2011 with effect in relation to chargeable periods ending on or after 1.1.2011) by virtue of [The Finance Act 2011 (Bank Levy: Amendment of Netting Agreements Provisions) Order 2011 (S.I. 2011/3015)](https://www.legislation.gov.uk/uksi/2011/3015) , [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/3015/article/1/2) , [7(3)(b)](https://www.legislation.gov.uk/uksi/2011/3015/article/7/3/b)
 
-[^key-2a20e18ec679003e3b227a7774e264a7]: Textual amendment: Words in Sch. 19 para. 25(3)(d) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(6)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/6)
+[^c-2a20e18ec679003e3b227a7774e264a7]: Textual amendment: Words in Sch. 19 para. 25(3)(d) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(6)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/6)
 
 [^c21242611]: Textual amendment: Words after Sch. 19 para. 25(3)(d) inserted (14.12.2011 with effect in relation to chargeable periods ending on or after 1.1.2011) by [The Finance Act 2011 (Bank Levy: Amendment of Netting Agreements Provisions) Order 2011 (S.I. 2011/3015)](https://www.legislation.gov.uk/uksi/2011/3015) , [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/3015/article/1/2) , [7(3)(c)](https://www.legislation.gov.uk/uksi/2011/3015/article/7/3/c)
 
 [^c21243541]: Textual amendment: Sch. 19 para. 25(4) omitted (14.12.2011 with effect in relation to chargeable periods ending on or after 1.1.2011) by virtue of [The Finance Act 2011 (Bank Levy: Amendment of Netting Agreements Provisions) Order 2011 (S.I. 2011/3015)](https://www.legislation.gov.uk/uksi/2011/3015) , [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/3015/article/1/2) , [7(4)](https://www.legislation.gov.uk/uksi/2011/3015/article/7/4)
 
-[^key-e157d202330665a4e4a06b1d7f05c766]: Textual amendment: Sch. 19 para. 25(8) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(7)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/7)
+[^c-e157d202330665a4e4a06b1d7f05c766]: Textual amendment: Sch. 19 para. 25(8) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(7)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/7)
 
-[^key-bc96d9a6410d0eda248eb884c22890be]: Textual amendment: Sch. 19 para. 25(13) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(8)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/8)
+[^c-bc96d9a6410d0eda248eb884c22890be]: Textual amendment: Sch. 19 para. 25(13) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 4(8)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/4/8)
 
-[^key-83b861bd21701cbbcab6d1e6c2a3324f]: Modification: Sch. 19 para. 26 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Bank Levy (Double Taxation Relief) (Single Resolution Fund Levy) Regulations 2016 (S.I. 2016/1212)](https://www.legislation.gov.uk/uksi/2016/1212), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1212/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2016/1212/regulation/7/5)
+[^c-83b861bd21701cbbcab6d1e6c2a3324f]: Modification: Sch. 19 para. 26 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Bank Levy (Double Taxation Relief) (Single Resolution Fund Levy) Regulations 2016 (S.I. 2016/1212)](https://www.legislation.gov.uk/uksi/2016/1212), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1212/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2016/1212/regulation/7/5)
 
-[^key-13e9c7e45c267e4f37bcc715e82fb72e]: Textual amendment: Words in [Sch. 19 para. 26(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/26/2) substituted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 29(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/29/a/i), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-13e9c7e45c267e4f37bcc715e82fb72e]: Textual amendment: Words in [Sch. 19 para. 26(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/26/2) substituted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 29(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/29/a/i), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
 
-[^key-99f69f511fa17ba188ba49f2e353fe3f]: Textual amendment: Words in [Sch. 19 para. 26(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/26/2) substituted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 29(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/29/a/ii), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-99f69f511fa17ba188ba49f2e353fe3f]: Textual amendment: Words in [Sch. 19 para. 26(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/26/2) substituted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 29(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/29/a/ii), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
 
-[^key-d57ec125dd55d7ab9b3488f3ba7d1eae]: Textual amendment: Words in [Sch. 19 para. 26(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/26/3) substituted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 29(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/29/b), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-d57ec125dd55d7ab9b3488f3ba7d1eae]: Textual amendment: Words in [Sch. 19 para. 26(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/26/3) substituted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 29(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/29/b), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
 
-[^key-2c6be6b49a898409f3ef320f62017bcd]: Textual amendment: Words in Sch. 19 para. 26(4) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/5)
+[^c-2c6be6b49a898409f3ef320f62017bcd]: Textual amendment: Words in Sch. 19 para. 26(4) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/5)
 
-[^key-2a25540f9756ffbb5911143418322aea]: Textual amendment: Words in Sch. 19 para. 27(2) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/2/a)
+[^c-2a25540f9756ffbb5911143418322aea]: Textual amendment: Words in Sch. 19 para. 27(2) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/2/a)
 
-[^key-c9a356b97bd6f3c013a751d2f8476760]: Textual amendment: Words in Sch. 19 para. 27(2)(b) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/2/b)
+[^c-c9a356b97bd6f3c013a751d2f8476760]: Textual amendment: Words in Sch. 19 para. 27(2)(b) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/2/b)
 
-[^key-9b06f73d149c06067b32972039310dce]: Textual amendment: Words in Sch. 19 para. 27(2)(b) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 17(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/17/2)
+[^c-9b06f73d149c06067b32972039310dce]: Textual amendment: Words in Sch. 19 para. 27(2)(b) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 17(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/17/2)
 
-[^key-f937493a1536d327a1ca8ed9523b1a07]: Textual amendment: Words in Sch. 19 para. 27(2)(c) substituted (with effect in accordance with Sch. 26 para. 7 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 6(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/6/a) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
+[^c-f937493a1536d327a1ca8ed9523b1a07]: Textual amendment: Words in Sch. 19 para. 27(2)(c) substituted (with effect in accordance with Sch. 26 para. 7 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 6(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/6/a) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
 
-[^key-5250144a55b827245766035edd2304b8]: Textual amendment: Sch. 19 para. 27(2)(c)(i) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(2)(c)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/2/c)
+[^c-5250144a55b827245766035edd2304b8]: Textual amendment: Sch. 19 para. 27(2)(c)(i) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(2)(c)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/2/c)
 
-[^key-190c6f8b04a1f23f1d6ddce85ae3671f]: Textual amendment: Sch. 19 para. 27(3)(b) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/3)
+[^c-190c6f8b04a1f23f1d6ddce85ae3671f]: Textual amendment: Sch. 19 para. 27(3)(b) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/3)
 
-[^key-71026858ecdd209cf808d1394d5df1ea]: Textual amendment: Words in Sch. 19 para. 27(5) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/4)
+[^c-71026858ecdd209cf808d1394d5df1ea]: Textual amendment: Words in Sch. 19 para. 27(5) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/4)
 
-[^key-2a09b66b6a40450a2ad1107d74657d3a]: Textual amendment: Sch. 19 para. 27(5)(a)-(c) substituted for Sch. 19 para. 27(5)(a)(b) (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/5)
+[^c-2a09b66b6a40450a2ad1107d74657d3a]: Textual amendment: Sch. 19 para. 27(5)(a)-(c) substituted for Sch. 19 para. 27(5)(a)(b) (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/5)
 
-[^key-9344a33d6410d3a00ea85f430584cae3]: Textual amendment: Sch. 19 para. 27(5A) inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(6)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/6)
+[^c-9344a33d6410d3a00ea85f430584cae3]: Textual amendment: Sch. 19 para. 27(5A) inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 6(6)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/6/6)
 
-[^key-7b61bd00b60358977e09f6c76e101124]: Textual amendment: Sch. 19 para. 27(6) substituted (with effect in accordance with Sch. 26 para. 7 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 6(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/6/b) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
+[^c-7b61bd00b60358977e09f6c76e101124]: Textual amendment: Sch. 19 para. 27(6) substituted (with effect in accordance with Sch. 26 para. 7 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 6(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/6/b) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
 
-[^key-f454897cf6b96b4e307dfe1c5636e5c7]: Textual amendment: Sch. 19 paras. 27A-27D inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/7)
+[^c-f454897cf6b96b4e307dfe1c5636e5c7]: Textual amendment: Sch. 19 paras. 27A-27D inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/7)
 
-[^key-70edd62be6cfd2383b08f10e3373710e]: Textual amendment: Sch. 19 para. 29(4)-(6) omitted (with effect in accordance with Sch. 26 para. 8(5) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 8(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/8/2) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
+[^c-70edd62be6cfd2383b08f10e3373710e]: Textual amendment: Sch. 19 para. 29(4)-(6) omitted (with effect in accordance with Sch. 26 para. 8(5) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 8(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/8/2) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
 
-[^key-1b0a6615441e0ca95420bc423f21d708]: Textual amendment: Words in Sch. 19 para. 29(8) omitted (with effect in accordance with Sch. 26 para. 8(5) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 8(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/8/3) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
+[^c-1b0a6615441e0ca95420bc423f21d708]: Textual amendment: Words in Sch. 19 para. 29(8) omitted (with effect in accordance with Sch. 26 para. 8(5) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 8(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/8/3) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
 
-[^key-7a2b61499c48132a11bd9dd31233918b]: Textual amendment: Words in Sch. 19 para. 29(9) omitted (with effect in accordance with Sch. 26 para. 8(5) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 8(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/8/4) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
+[^c-7a2b61499c48132a11bd9dd31233918b]: Textual amendment: Words in Sch. 19 para. 29(9) omitted (with effect in accordance with Sch. 26 para. 8(5) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 8(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/8/4) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
 
-[^key-4996c50ad83017dff3859c84651c68bb]: Textual amendment: Sch. 19 para. 30(2)-(4) substituted for Sch. 19 para. 30(2) (with effect in accordance with Sch. 26 para. 9(3) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 9(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/9/2) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
+[^c-4996c50ad83017dff3859c84651c68bb]: Textual amendment: Sch. 19 para. 30(2)-(4) substituted for Sch. 19 para. 30(2) (with effect in accordance with Sch. 26 para. 9(3) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 9(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/9/2) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
 
-[^key-eb0f2ddefa1f43864b555b3613bc4973]: Textual amendment: Words in Sch. 19 para. 30(2) inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/9)
+[^c-eb0f2ddefa1f43864b555b3613bc4973]: Textual amendment: Words in Sch. 19 para. 30(2) inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/9)
 
-[^key-8919b8252531b666d1c1750bc08f3d4d]: Textual amendment: Words in [Sch. 19 para. 30(3)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/30/3/c) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [14](https://www.legislation.gov.uk/uksi/2022/286/regulation/14)
+[^c-8919b8252531b666d1c1750bc08f3d4d]: Textual amendment: Words in [Sch. 19 para. 30(3)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/30/3/c) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [14](https://www.legislation.gov.uk/uksi/2022/286/regulation/14)
 
-[^key-f09e175fe9d4913a9998a22794913961]: Textual amendment: Sch. 19 para. 31(4) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Bank Levy (Amendment of Schedule 19 to the Finance Act 2011) Regulations 2016 (S.I. 2016/874)](https://www.legislation.gov.uk/uksi/2016/874), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/874/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/874/regulation/3)
+[^c-f09e175fe9d4913a9998a22794913961]: Textual amendment: Sch. 19 para. 31(4) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Bank Levy (Amendment of Schedule 19 to the Finance Act 2011) Regulations 2016 (S.I. 2016/874)](https://www.legislation.gov.uk/uksi/2016/874), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/874/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2016/874/regulation/3)
 
-[^key-9b0084f5d4b0d6fbf16f115d0dc2bd2f]: Textual amendment: Sch. 19 para. 31(4)(za) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/20/2/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b0084f5d4b0d6fbf16f115d0dc2bd2f]: Textual amendment: Sch. 19 para. 31(4)(za) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/20/2/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2f0e8ddb52cf02596d8a518c37d16eed]: Textual amendment: Words in Sch. 19 para. 33(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 15(4)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/4)
+[^c-2f0e8ddb52cf02596d8a518c37d16eed]: Textual amendment: Words in Sch. 19 para. 33(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 15(4)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/4)
 
-[^key-d176184e945ea0d92cddfe9b2e63132e]: Textual amendment: Words in Sch. 19 para. 35(2) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 27(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/27/a)
+[^c-d176184e945ea0d92cddfe9b2e63132e]: Textual amendment: Words in Sch. 19 para. 35(2) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 27(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/27/a)
 
-[^key-801fa70ccb083e93ad240ea2f5f04d25]: Textual amendment: Sch. 19 para. 35(3) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 27(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/27/b)
+[^c-801fa70ccb083e93ad240ea2f5f04d25]: Textual amendment: Sch. 19 para. 35(3) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 27(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/27/b)
 
-[^key-031b280b0e2bc0189be997f3697f5fb9]: Textual amendment: Words in Sch. 19 para. 36(2) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 28(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/28/a)
+[^c-031b280b0e2bc0189be997f3697f5fb9]: Textual amendment: Words in Sch. 19 para. 36(2) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 28(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/28/a)
 
-[^key-305734fb8a9931bfbace9bb4500f3663]: Textual amendment: Sch. 19 para. 36(3) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 28(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/28/b)
+[^c-305734fb8a9931bfbace9bb4500f3663]: Textual amendment: Sch. 19 para. 36(3) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 28(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/28/b)
 
-[^key-31509a75c1b333287d662d1ff882829a]: Textual amendment: Words in Sch. 19 para. 37(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 134(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/134/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-31509a75c1b333287d662d1ff882829a]: Textual amendment: Words in Sch. 19 para. 37(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 134(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/134/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-b97dc0117c557eac36269514437981d9]: Textual amendment: Words in Sch. 19 para. 38(3)(a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 15(5)(a)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/5/a)
+[^c-b97dc0117c557eac36269514437981d9]: Textual amendment: Words in Sch. 19 para. 38(3)(a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 15(5)(a)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/5/a)
 
-[^key-a44367c1dd413d691bba45b49e28373d]: Textual amendment: Words in Sch. 19 para. 38(3)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 15(5)(b)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/5/b)
+[^c-a44367c1dd413d691bba45b49e28373d]: Textual amendment: Words in Sch. 19 para. 38(3)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 15(5)(b)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/5/b)
 
-[^key-90a82a9c81c8b0af5ed56a75aa7a3978]: Textual amendment: Sch. 19 para. 38A inserted (with effect in accordance with Sch. 26 para. 10(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/10/1) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
+[^c-90a82a9c81c8b0af5ed56a75aa7a3978]: Textual amendment: Sch. 19 para. 38A inserted (with effect in accordance with Sch. 26 para. 10(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/10/1) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
 
-[^key-2550f7faaf4f0fe4e785c31ad636a6d3]: Textual amendment: Words in Sch. 19 para. 40(1) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/10)
+[^c-2550f7faaf4f0fe4e785c31ad636a6d3]: Textual amendment: Words in Sch. 19 para. 40(1) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/10)
 
-[^key-4ce1938928bb56e54ea157710fd2380f]: Textual amendment: Sch. 19 para. 42(8)(b)(c) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 29(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/29/a)
+[^c-4ce1938928bb56e54ea157710fd2380f]: Textual amendment: Sch. 19 para. 42(8)(b)(c) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 29(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/29/a)
 
-[^key-3d45ad0edf5c45e09ba58e3faa0dfd01]: Textual amendment: Sch. 19 para. 42(9)(10) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 29(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/29/b)
+[^c-3d45ad0edf5c45e09ba58e3faa0dfd01]: Textual amendment: Sch. 19 para. 42(9)(10) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 29(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/29/b)
 
-[^key-e979d1d88c3c484d0b88700bb3885b5c]: Textual amendment: Sch. 19 para. 43 omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 17(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/17/1)
+[^c-e979d1d88c3c484d0b88700bb3885b5c]: Textual amendment: Sch. 19 para. 43 omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 17(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/17/1)
 
-[^key-8b1665c617aac8dd8466547b1f15bfbc]: Textual amendment: Sch. 19 para. 44 omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 17(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/17/1)
+[^c-8b1665c617aac8dd8466547b1f15bfbc]: Textual amendment: Sch. 19 para. 44 omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 17(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/17/1)
 
-[^key-36090f7abf9a93e8a7c1cb5e9287c906]: Textual amendment: Words in Sch. 19 para. 46(b) inserted (with effect in accordance with s. 204(5)(7) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 204(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/204/2)
+[^c-36090f7abf9a93e8a7c1cb5e9287c906]: Textual amendment: Words in Sch. 19 para. 46(b) inserted (with effect in accordance with s. 204(5)(7) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 204(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/204/2)
 
-[^key-b70ff1c766dd49b2b645144d08337588]: Textual amendment: Words in Sch. 19 para. 47(11) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 11(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/11/2)
+[^c-b70ff1c766dd49b2b645144d08337588]: Textual amendment: Words in Sch. 19 para. 47(11) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 11(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/11/2)
 
-[^key-8a1072474f128e3fe281554ce3ca54eb]: Textual amendment: Word in Sch. 19 para. 47(14) inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/11/3/a)
+[^c-8a1072474f128e3fe281554ce3ca54eb]: Textual amendment: Word in Sch. 19 para. 47(14) inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/11/3/a)
 
-[^key-f8e2cb0cf7150e2bf0ba41255c2d5502]: Textual amendment: Sch. 19 para. 47(14)(a)-(c) substituted for Sch. 19 para. 47(14)(a)(b) (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 11(3)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/11/3/b)
+[^c-f8e2cb0cf7150e2bf0ba41255c2d5502]: Textual amendment: Sch. 19 para. 47(14)(a)-(c) substituted for Sch. 19 para. 47(14)(a)(b) (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 11(3)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/11/3/b)
 
-[^key-7a6a1a30bf74159cf986cc2eeda1a9b1]: Textual amendment: Sch. 19 para. 53(2A) inserted (with effect in accordance with Sch. 9 para. 36 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/18)
+[^c-7a6a1a30bf74159cf986cc2eeda1a9b1]: Textual amendment: Sch. 19 para. 53(2A) inserted (with effect in accordance with Sch. 9 para. 36 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/18)
 
-[^key-e2fbfbbf396ff8d76cb8e54983356c34]: Textual amendment: Words in Sch. 19 para. 53(4)(a) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 12(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/12/a)
+[^c-e2fbfbbf396ff8d76cb8e54983356c34]: Textual amendment: Words in Sch. 19 para. 53(4)(a) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 12(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/12/a)
 
-[^key-4fe671891b1a93b522f7a6ff479a9adc]: Textual amendment: Sch. 19 para. 53(4)(b) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 12(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/12/b)
+[^c-4fe671891b1a93b522f7a6ff479a9adc]: Textual amendment: Sch. 19 para. 53(4)(b) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 12(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/12/b)
 
-[^key-87dcc1319b26e0852f0ec2b30d87c07b]: Textual amendment: Sch. 19 para. 53(4)(c) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 12(c)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/12/c)
+[^c-87dcc1319b26e0852f0ec2b30d87c07b]: Textual amendment: Sch. 19 para. 53(4)(c) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 12(c)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/12/c)
 
-[^key-75bf13d101c096740a56000ac4f3e05f]: Textual amendment: Words in Sch. 19 para. 53(4)(d) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 12(d)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/12/d)
+[^c-75bf13d101c096740a56000ac4f3e05f]: Textual amendment: Words in Sch. 19 para. 53(4)(d) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 12(d)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/12/d)
 
-[^key-59baf24c1fedc88ace1d0bea852da29b]: Textual amendment: Sch. 19 para. 53A inserted (with effect in accordance with Sch. 9 para. 36 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/19)
+[^c-59baf24c1fedc88ace1d0bea852da29b]: Textual amendment: Sch. 19 para. 53A inserted (with effect in accordance with Sch. 9 para. 36 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/19)
 
-[^key-4355703f275ad989c10cc1a55370b349]: Textual amendment: Sch. 19 para. 54(3)(c)(d) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 20(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/20/2)
+[^c-4355703f275ad989c10cc1a55370b349]: Textual amendment: Sch. 19 para. 54(3)(c)(d) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 20(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/20/2)
 
-[^key-e82e097a5b85008aa81d6edca13e0adc]: Textual amendment: Words in Sch. 19 para. 54(3) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/20/3/a)
+[^c-e82e097a5b85008aa81d6edca13e0adc]: Textual amendment: Words in Sch. 19 para. 54(3) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/20/3/a)
 
-[^key-dd0e6dbadf753523c0b5b8db2361e930]: Textual amendment: Words in Sch. 19 para. 54(3) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/20/3/b)
+[^c-dd0e6dbadf753523c0b5b8db2361e930]: Textual amendment: Words in Sch. 19 para. 54(3) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/20/3/b)
 
-[^key-c3bf7e9b0ab76d6ee42afe79dc36c0a7]: Textual amendment: Sch. 19 para. 54(3A)(3B) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 20(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/20/4)
+[^c-c3bf7e9b0ab76d6ee42afe79dc36c0a7]: Textual amendment: Sch. 19 para. 54(3A)(3B) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 20(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/20/4)
 
-[^key-ee25fe0d59e36f3eee7446f7803f21cf]: Textual amendment: Words in Sch. 19 para. 54(5)(c)(i) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/13/2/a)
+[^c-ee25fe0d59e36f3eee7446f7803f21cf]: Textual amendment: Words in Sch. 19 para. 54(5)(c)(i) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/13/2/a)
 
-[^key-0f6340e0a322e5e4c71a6ab8bf1b9c12]: Textual amendment: Words in Sch. 19 para. 54(5)(c)(ii) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 13(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/13/2/b/i)
+[^c-0f6340e0a322e5e4c71a6ab8bf1b9c12]: Textual amendment: Words in Sch. 19 para. 54(5)(c)(ii) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 13(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/13/2/b/i)
 
-[^key-711b2bbabd8484683bb9a1ef6c155d8d]: Textual amendment: Words in Sch. 19 para. 54(5)(c)(ii) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 13(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/13/2/b/ii)
+[^c-711b2bbabd8484683bb9a1ef6c155d8d]: Textual amendment: Words in Sch. 19 para. 54(5)(c)(ii) substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 13(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/13/2/b/ii)
 
-[^key-adf37d93347e1c9a9c296e383f4bae9e]: Textual amendment: Word in Sch. 19 para. 54(6) inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/13/3/a)
+[^c-adf37d93347e1c9a9c296e383f4bae9e]: Textual amendment: Word in Sch. 19 para. 54(6) inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/13/3/a)
 
-[^key-b52d710e11c8d0cac56d51214a8d465f]: Textual amendment: Sch. 19 para. 54(6)(a)-(c) substituted for Sch. 19 para. 54(6)(a)(b) (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/13/3/b)
+[^c-b52d710e11c8d0cac56d51214a8d465f]: Textual amendment: Sch. 19 para. 54(6)(a)-(c) substituted for Sch. 19 para. 54(6)(a)(b) (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/13/3/b)
 
-[^key-3779aefc48221cc552b47489972bfd32]: Textual amendment: Sch. 19 para. 54(6A)(6B) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 20(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/20/5)
+[^c-3779aefc48221cc552b47489972bfd32]: Textual amendment: Sch. 19 para. 54(6A)(6B) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 20(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/20/5)
 
-[^key-08879ebcbde870b7bb7a72362e2abd59]: Textual amendment: Words in Sch. 19 para. 54(7) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 20(6)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/20/6)
+[^c-08879ebcbde870b7bb7a72362e2abd59]: Textual amendment: Words in Sch. 19 para. 54(7) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 20(6)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/20/6)
 
-[^key-739bd4dcff621850db2148f0095cc99b]: Textual amendment: Sch. 19 para. 55A inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/21)
+[^c-739bd4dcff621850db2148f0095cc99b]: Textual amendment: Sch. 19 para. 55A inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/21)
 
-[^key-9d3006b965209fd7c4c67eb181bd3c09]: Textual amendment: Word in Sch. 19 Pt. 7 cross-heading inserted (with effect in accordance with s. 204(5)-(7) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) , [s. 204(4)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/204/4/b)
+[^c-9d3006b965209fd7c4c67eb181bd3c09]: Textual amendment: Word in Sch. 19 Pt. 7 cross-heading inserted (with effect in accordance with s. 204(5)-(7) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) , [s. 204(4)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/204/4/b)
 
-[^key-174662e87e2841a457ee64472bd43dfd]: Textual amendment: Sch. 19 para. 66(9A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) , [Sch. 34 para. 11(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/11/1)
+[^c-174662e87e2841a457ee64472bd43dfd]: Textual amendment: Sch. 19 para. 66(9A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) , [Sch. 34 para. 11(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/11/1)
 
-[^key-e11c3d8be8dc19505902385625526b7d]: Textual amendment: Sch. 19 para. 67A and cross-heading inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) , [Sch. 34 para. 11(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/11/2)
+[^c-e11c3d8be8dc19505902385625526b7d]: Textual amendment: Sch. 19 para. 67A and cross-heading inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) , [Sch. 34 para. 11(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/11/2)
 
-[^key-fb59cc69fe25155667a81eedebd50b7b]: Textual amendment: Word in Sch. 19 para. 67A(4) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [20(2)(c)](https://www.legislation.gov.uk/uksi/2019/689/regulation/20/2/c) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb59cc69fe25155667a81eedebd50b7b]: Textual amendment: Word in Sch. 19 para. 67A(4) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [20(2)(c)](https://www.legislation.gov.uk/uksi/2019/689/regulation/20/2/c) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5e0578e5b246c3649d770785f16deb1e]: Textual amendment: Sch. 19 para 68 (crossheading)(disclosure)(of)(information)(to)(foreign)(tax)(authorities) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) , [Sch. 34 para. 11(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/11/3)
+[^c-5e0578e5b246c3649d770785f16deb1e]: Textual amendment: Sch. 19 para 68 (crossheading)(disclosure)(of)(information)(to)(foreign)(tax)(authorities) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) , [Sch. 34 para. 11(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/11/3)
 
-[^key-461f3334f7fc829ab528961a6249b812]: Textual amendment: Sch. 19 para. 69A and cross-heading inserted (with effect in accordance with s. 204(5)-(7) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) , [s. 204(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/204/3)
+[^c-461f3334f7fc829ab528961a6249b812]: Textual amendment: Sch. 19 para. 69A and cross-heading inserted (with effect in accordance with s. 204(5)-(7) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) , [s. 204(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/204/3)
 
-[^key-550eb2ea3659b17d558924449a96e4d1]: Textual amendment: Words in Sch. 19 para. 70(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Bank Levy (Amendment of Schedule 19 to the Finance Act 2011) Regulations 2016 (S.I. 2016/874)](https://www.legislation.gov.uk/uksi/2016/874), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/874/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2016/874/regulation/4/1/b)
+[^c-550eb2ea3659b17d558924449a96e4d1]: Textual amendment: Words in Sch. 19 para. 70(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Bank Levy (Amendment of Schedule 19 to the Finance Act 2011) Regulations 2016 (S.I. 2016/874)](https://www.legislation.gov.uk/uksi/2016/874), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/874/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2016/874/regulation/4/1/b)
 
-[^key-9f32c908b841463d02f4e4c617932a33]: Textual amendment: Words in Sch. 19 para. 70 inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/2)
+[^c-9f32c908b841463d02f4e4c617932a33]: Textual amendment: Words in Sch. 19 para. 70 inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/2)
 
-[^key-5076163d51c943de2faccf2a399e5564]: Textual amendment: Words in Sch. 19 para. 70 inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/3)
+[^c-5076163d51c943de2faccf2a399e5564]: Textual amendment: Words in Sch. 19 para. 70 inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/3)
 
-[^key-e94468c1ff8045f029af6f984fe2b53e]: Textual amendment: Words in Sch. 19 para. 70(1) inserted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33) , [s. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/3/a) [(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
+[^c-e94468c1ff8045f029af6f984fe2b53e]: Textual amendment: Words in Sch. 19 para. 70(1) inserted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33) , [s. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/3/a) [(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
 
-[^key-e94cd4edb3f5839b76be67e19c8b052e]: Textual amendment: Words in [Sch. 19 para. 70(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/1) inserted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(2)(a)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/2/a)
+[^c-e94cd4edb3f5839b76be67e19c8b052e]: Textual amendment: Words in [Sch. 19 para. 70(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/1) inserted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(2)(a)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/2/a)
 
-[^key-a8ea5bff817581ef07092b71a6818863]: Textual amendment: Words in Sch. 19 para. 70(1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2) , [Sch. para. 15(6)(a)(i)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/6/a/i)
+[^c-a8ea5bff817581ef07092b71a6818863]: Textual amendment: Words in Sch. 19 para. 70(1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2) , [Sch. para. 15(6)(a)(i)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/6/a/i)
 
-[^key-b9fed010b7e0eb51593083131f68949f]: Textual amendment: Words in Sch. 19 para. 70(1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Bank Levy (Amendment of Schedule 19 to the Finance Act 2011) Regulations 2016 (S.I. 2016/874)](https://www.legislation.gov.uk/uksi/2016/874), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/874/regulation/1/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2016/874/regulation/4/1/a)
+[^c-b9fed010b7e0eb51593083131f68949f]: Textual amendment: Words in Sch. 19 para. 70(1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Bank Levy (Amendment of Schedule 19 to the Finance Act 2011) Regulations 2016 (S.I. 2016/874)](https://www.legislation.gov.uk/uksi/2016/874), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/874/regulation/1/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2016/874/regulation/4/1/a)
 
-[^key-66be63086b21edbfebb2cd3aa854986d]: Textual amendment: Words in [Sch. 19 para. 70(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/1) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(2)(b)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/2/b)
+[^c-66be63086b21edbfebb2cd3aa854986d]: Textual amendment: Words in [Sch. 19 para. 70(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/1) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(2)(b)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/2/b)
 
-[^key-0c23a532b34e742a3e2d2a04561ebbb9]: Textual amendment: Words in Sch. 19 para. 70 inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/4)
+[^c-0c23a532b34e742a3e2d2a04561ebbb9]: Textual amendment: Words in Sch. 19 para. 70 inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/4)
 
-[^key-832b3f56bbc8896157c391129c159fec]: Textual amendment: Words in Sch. 19 para. 70(1) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2) , [Sch. para. 15(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/6/a/iii)
+[^c-832b3f56bbc8896157c391129c159fec]: Textual amendment: Words in Sch. 19 para. 70(1) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2) , [Sch. para. 15(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/6/a/iii)
 
-[^key-745f18911ece0df25857df2d1de111aa]: Textual amendment: Word in [Sch. 19 para. 70(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/1) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(2)(c)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/2/c)
+[^c-745f18911ece0df25857df2d1de111aa]: Textual amendment: Word in [Sch. 19 para. 70(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/1) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(2)(c)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/2/c)
 
-[^key-4f65ee7c7cf71ee707672560f6f725b6]: Textual amendment: Words in Sch. 19 para. 70 omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(8)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/8)
+[^c-4f65ee7c7cf71ee707672560f6f725b6]: Textual amendment: Words in Sch. 19 para. 70 omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(8)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/8)
 
-[^key-25f12ee3ef5b2195d846a587b64e43d9]: Textual amendment: Words in Sch. 19 para. 70 inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/5)
+[^c-25f12ee3ef5b2195d846a587b64e43d9]: Textual amendment: Words in Sch. 19 para. 70 inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/5)
 
-[^key-7fbc2ae71c8813fe0bb32c0f8d6cc975]: Textual amendment: Words in Sch. 19 para. 70 inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(6)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/6)
+[^c-7fbc2ae71c8813fe0bb32c0f8d6cc975]: Textual amendment: Words in Sch. 19 para. 70 inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(6)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/6)
 
-[^key-332288cc1b7c53d980acaf65d027a43e]: Textual amendment: Words in Sch. 19 para. 70 omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 30(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/30/a)
+[^c-332288cc1b7c53d980acaf65d027a43e]: Textual amendment: Words in Sch. 19 para. 70 omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 30(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/30/a)
 
-[^key-3d5323ec0ac241df859f5223e7a67ec2]: Textual amendment: Words in Sch. 19 para. 70 substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(7)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/7)
+[^c-3d5323ec0ac241df859f5223e7a67ec2]: Textual amendment: Words in Sch. 19 para. 70 substituted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 14(7)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/14/7)
 
-[^key-28e7f435db1a321764e5af7ef43a9872]: Textual amendment: Words in Sch. 19 para. 70 omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 30(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/30/b)
+[^c-28e7f435db1a321764e5af7ef43a9872]: Textual amendment: Words in Sch. 19 para. 70 omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 30(b)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/30/b)
 
-[^key-b1c0bfc1b844cc810ce2e1b80fd87fd3]: Textual amendment: [Sch. 19 para. 70(1A)-(1D)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/1A) inserted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/3)
+[^c-b1c0bfc1b844cc810ce2e1b80fd87fd3]: Textual amendment: [Sch. 19 para. 70(1A)-(1D)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/1A) inserted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/3)
 
-[^key-a4836bad1237dbd42aa3e32451d4664a]: Textual amendment: Words in Sch. 19 para. 70(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2) , [Sch. para. 15(6)(b)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/6/b)
+[^c-a4836bad1237dbd42aa3e32451d4664a]: Textual amendment: Words in Sch. 19 para. 70(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2) , [Sch. para. 15(6)(b)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/6/b)
 
-[^key-375d0ee0b1b156fa74400ffc7deea548]: Textual amendment: Word in [Sch. 19 para. 70(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/2) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(4)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/4)
+[^c-375d0ee0b1b156fa74400ffc7deea548]: Textual amendment: Word in [Sch. 19 para. 70(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/2) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(4)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/4)
 
-[^key-e29218846fbda344f93fb24db9e2925a]: Textual amendment: Words in Sch. 19 para. 70(2) omitted (1.1.2014 retrospective) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33) , [s. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/3/b) [(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
+[^c-e29218846fbda344f93fb24db9e2925a]: Textual amendment: Words in Sch. 19 para. 70(2) omitted (1.1.2014 retrospective) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33) , [s. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/3/b) [(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
 
-[^key-2d84800296965178472c5f12757b5101]: Textual amendment: Sch. 19 para. 70(2A) inserted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33) , [s. 20(3)(c)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/3/c) [(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
+[^c-2d84800296965178472c5f12757b5101]: Textual amendment: Sch. 19 para. 70(2A) inserted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33) , [s. 20(3)(c)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/3/c) [(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
 
-[^key-4823bcd13d6cf89b9a54b114036a6344]: Textual amendment: Word in [Sch. 19 para. 70(2A)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/2A) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(5)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/5)
+[^c-4823bcd13d6cf89b9a54b114036a6344]: Textual amendment: Word in [Sch. 19 para. 70(2A)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/2A) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(5)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/5)
 
-[^key-73e4c4e7463a1459651d43bb7bb809b0]: Textual amendment: Words in [Sch. 19 para. 70(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/3) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(6)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/6)
+[^c-73e4c4e7463a1459651d43bb7bb809b0]: Textual amendment: Words in [Sch. 19 para. 70(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/70/3) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [15(6)](https://www.legislation.gov.uk/uksi/2022/286/regulation/15/6)
 
-[^key-254d927dcfe78a2dcb03686d5f629437]: Textual amendment: Sch. 19 para. 70(4) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Bank Levy (Amendment of Schedule 19 to the Finance Act 2011) Regulations 2016 (S.I. 2016/874)](https://www.legislation.gov.uk/uksi/2016/874), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/874/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/874/regulation/4/2)
+[^c-254d927dcfe78a2dcb03686d5f629437]: Textual amendment: Sch. 19 para. 70(4) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Bank Levy (Amendment of Schedule 19 to the Finance Act 2011) Regulations 2016 (S.I. 2016/874)](https://www.legislation.gov.uk/uksi/2016/874), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/874/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/874/regulation/4/2)
 
-[^key-0467dd79003da8282903ec6002aed4a4]: Textual amendment: Sch. 19 para. 71(3)(b) and preceding word omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 31](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/31)
+[^c-0467dd79003da8282903ec6002aed4a4]: Textual amendment: Sch. 19 para. 71(3)(b) and preceding word omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 31](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/31)
 
-[^key-a3afd5c5370df3c60f114b12a73afc1e]: Textual amendment: Words in Sch. 19 para. 72(3)(a) substituted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/4)[(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
+[^c-a3afd5c5370df3c60f114b12a73afc1e]: Textual amendment: Words in Sch. 19 para. 72(3)(a) substituted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/4)[(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
 
-[^key-7398d0610adeabcf93bfe729cd973490]: Textual amendment: Sch. 19 para. 72(7)(b) and preceding word omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 32](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/32)
+[^c-7398d0610adeabcf93bfe729cd973490]: Textual amendment: Sch. 19 para. 72(7)(b) and preceding word omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 32](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/32)
 
-[^key-d8168398cce122adbb336b3f6dd28cfa]: Textual amendment: [Sch. 19 para. 73(1)(f)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/73/1/f) omitted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by virtue of [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [16(2)(a)](https://www.legislation.gov.uk/uksi/2022/286/regulation/16/2/a)
+[^c-d8168398cce122adbb336b3f6dd28cfa]: Textual amendment: [Sch. 19 para. 73(1)(f)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/73/1/f) omitted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by virtue of [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [16(2)(a)](https://www.legislation.gov.uk/uksi/2022/286/regulation/16/2/a)
 
-[^key-080fe82886e77b462a9b366f4028c2d1]: Textual amendment: [Sch. 19 para. 73(1)(fa)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/73/1/fa) inserted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [16(2)(b)](https://www.legislation.gov.uk/uksi/2022/286/regulation/16/2/b)
+[^c-080fe82886e77b462a9b366f4028c2d1]: Textual amendment: [Sch. 19 para. 73(1)(fa)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/73/1/fa) inserted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [16(2)(b)](https://www.legislation.gov.uk/uksi/2022/286/regulation/16/2/b)
 
 [^M_F_0ec18be8-477c-40d5-eb66-0bd5f94478a4]: Textual amendment: Words in Sch. 19 para. 73(1)(j) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 173](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/173) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-d60829c581d78fc93621dce4a77c933a]: Textual amendment: Word in Sch. 19 para. 73(1)(j) omitted (with effect in accordance with s. 56(13) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(11)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/11) (with [s. 56(14)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/14))
+[^c-d60829c581d78fc93621dce4a77c933a]: Textual amendment: Word in Sch. 19 para. 73(1)(j) omitted (with effect in accordance with s. 56(13) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(11)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/11) (with [s. 56(14)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/14))
 
-[^key-edc505864d35e3c86fe8be1ca9e66844]: Textual amendment: Sch. 19 para. 73(1)(l) and preceding word inserted (with effect in accordance with s. 56(13) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(11)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/11) (with [s. 56(14)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/14))
+[^c-edc505864d35e3c86fe8be1ca9e66844]: Textual amendment: Sch. 19 para. 73(1)(l) and preceding word inserted (with effect in accordance with s. 56(13) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(11)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/11) (with [s. 56(14)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/14))
 
-[^key-1f621c38d702dad4dbe359cf51e7c5a9]: Textual amendment: Sch. 19 para. 73(1A)(1B) inserted (with effect in accordance with s. 56(13) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(12)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/12) (with [s. 56(14)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/14))
+[^c-1f621c38d702dad4dbe359cf51e7c5a9]: Textual amendment: Sch. 19 para. 73(1A)(1B) inserted (with effect in accordance with s. 56(13) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(12)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/12) (with [s. 56(14)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/14))
 
-[^key-314488ed1d1c83e825b0ca531ab4804d]: Textual amendment: Words in [Sch. 19 para. 73(1A)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/73/1A/c) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [16(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/16/3)
+[^c-314488ed1d1c83e825b0ca531ab4804d]: Textual amendment: Words in [Sch. 19 para. 73(1A)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/73/1A/c) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [16(3)](https://www.legislation.gov.uk/uksi/2022/286/regulation/16/3)
 
-[^key-119bb8d9c6c88e57e446d3c4824d7cae]: Textual amendment: Words in Sch. 19 para. 73(2) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 246](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/246)
+[^c-119bb8d9c6c88e57e446d3c4824d7cae]: Textual amendment: Words in Sch. 19 para. 73(2) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 246](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/246)
 
-[^key-5c39a8629b2e53f7e04c9e095315f34c]: Textual amendment: Sch. 19 para. 73(3)(b) and preceding word omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 33](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/33)
+[^c-5c39a8629b2e53f7e04c9e095315f34c]: Textual amendment: Sch. 19 para. 73(3)(b) and preceding word omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 33](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/33)
 
-[^key-e30ab3d8813b06e8846c67865122d349]: Textual amendment: Sch. 19 para. 75(3) inserted (with effect in accordance with Sch. 26 para. 11(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/11/2) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
+[^c-e30ab3d8813b06e8846c67865122d349]: Textual amendment: Sch. 19 para. 75(3) inserted (with effect in accordance with Sch. 26 para. 11(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/11/2) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
 
-[^key-6ee94ae8c3ac0847dd9f1531aa3b3d5e]: Textual amendment: Sch. 19 para. 76A inserted (with effect in accordance with Sch. 26 para. 11(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 11(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/11/1) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
+[^c-6ee94ae8c3ac0847dd9f1531aa3b3d5e]: Textual amendment: Sch. 19 para. 76A inserted (with effect in accordance with Sch. 26 para. 11(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 11(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/11/1) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
 
-[^key-3a862ebf20abaab89f1758c664b81bee]: Textual amendment: Word in Sch. 19 para. 77 substituted (with effect in accordance with Sch. 26 para. 11(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 11(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/11/3) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
+[^c-3a862ebf20abaab89f1758c664b81bee]: Textual amendment: Word in Sch. 19 para. 77 substituted (with effect in accordance with Sch. 26 para. 11(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 11(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/11/3) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
 
-[^key-0c51a2bd5f3fae47e51601e5baa27b73]: Textual amendment: Words in Sch. 19 para. 77 inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/15)
+[^c-0c51a2bd5f3fae47e51601e5baa27b73]: Textual amendment: Words in Sch. 19 para. 77 inserted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/15)
 
-[^key-4994ae50a31ffc1c2770e279fa151496]: Textual amendment: Words in Sch. 19 para. 78(1)(c)(ii) substituted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(6)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/6)[(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
+[^c-4994ae50a31ffc1c2770e279fa151496]: Textual amendment: Words in Sch. 19 para. 78(1)(c)(ii) substituted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(6)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/6)[(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
 
-[^key-e7698dc6c7fa81fad5a24d3286c570f7]: Textual amendment: [Sch. 19 para. 79(da)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/79/da) inserted (5.4.2022 with application in relation to any chargeable period ending on or after 5.4.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(10)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/10)[(11)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/11), [17](https://www.legislation.gov.uk/uksi/2022/286/regulation/17)
+[^c-e7698dc6c7fa81fad5a24d3286c570f7]: Textual amendment: [Sch. 19 para. 79(da)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/79/da) inserted (5.4.2022 with application in relation to any chargeable period ending on or after 5.4.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(10)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/10)[(11)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/11), [17](https://www.legislation.gov.uk/uksi/2022/286/regulation/17)
 
-[^key-04f332c979e7d66f345659e9282650e1]: Textual amendment: Words in Sch. 19 para. 80(1)(c)(ii) substituted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(7)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/7)[(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
+[^c-04f332c979e7d66f345659e9282650e1]: Textual amendment: Words in Sch. 19 para. 80(1)(c)(ii) substituted (1.1.2014 retrospective) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 20(7)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/7)[(8)](https://www.legislation.gov.uk/ukpga/2015/33/section/20/8)
 
-[^key-b0722416440b9ce896901543072d5b57]: Textual amendment: [Sch. 19 Pt. 9](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/part/9) heading substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(6)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/6)
+[^c-b0722416440b9ce896901543072d5b57]: Textual amendment: [Sch. 19 Pt. 9](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/part/9) heading substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(6)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/6)
 
-[^key-6b05d803aed0e07daff72ee5fec8ceae]: Textual amendment: Words in Sch. 19 para. 81(1)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2) , [Sch. para. 15(7)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/7)
+[^c-6b05d803aed0e07daff72ee5fec8ceae]: Textual amendment: Words in Sch. 19 para. 81(1)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2) , [Sch. para. 15(7)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/15/7)
 
-[^key-eceffe61c67e157dc27d7065909443d8]: Textual amendment: Word in [Sch. 19 para. 81(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/81/1/b) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [18](https://www.legislation.gov.uk/uksi/2022/286/regulation/18)
+[^c-eceffe61c67e157dc27d7065909443d8]: Textual amendment: Word in [Sch. 19 para. 81(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/19/paragraph/81/1/b) substituted (5.4.2022 with application in relation to any chargeable period ending on or after 1.1.2022) by [The Taxation of Banks (Amendments to the Corporation Tax Act 2009, Corporation Tax Act 2010 and Finance Act 2011) Regulations 2022 (S.I. 2022/286)](https://www.legislation.gov.uk/uksi/2022/286), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2022/286/regulation/1/9), [18](https://www.legislation.gov.uk/uksi/2022/286/regulation/18)
 
-[^key-76c666bc421c2fc5cff1792f87ecbadc]: Textual amendment: Word in Sch. 19 para. 81(1)(b) omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/12) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
+[^c-76c666bc421c2fc5cff1792f87ecbadc]: Textual amendment: Word in Sch. 19 para. 81(1)(b) omitted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/12) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
 
-[^key-7fcd29a1d965bff7cf81cb5c7305dfa3]: Textual amendment: Words in Sch. 19 para. 81(1)(c) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 34](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/34)
+[^c-7fcd29a1d965bff7cf81cb5c7305dfa3]: Textual amendment: Words in Sch. 19 para. 81(1)(c) omitted (with effect in accordance with Sch. 9 para. 35 of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 9 para. 34](https://www.legislation.gov.uk/ukpga/2018/3/schedule/9/paragraph/34)
 
-[^key-d5ef4bf8774b266018c304c0773a86d2]: Textual amendment: Sch. 19 para. 81(1)(d) and word inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/12) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
+[^c-d5ef4bf8774b266018c304c0773a86d2]: Textual amendment: Sch. 19 para. 81(1)(d) and word inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/12) (with [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2014/26/schedule/26/paragraph/13))
 
-[^key-c36d68eddf8e939df7ab3fb15c541579]: Textual amendment: Sch. 19 para. 81(1A)(1B) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/a)
+[^c-c36d68eddf8e939df7ab3fb15c541579]: Textual amendment: Sch. 19 para. 81(1A)(1B) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/a)
 
-[^key-f2e7a3d8f67ac0277003ed5b82069a90]: Textual amendment: Words in Sch. 19 para. 81(2) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(b)(i)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/b/i)
+[^c-f2e7a3d8f67ac0277003ed5b82069a90]: Textual amendment: Words in Sch. 19 para. 81(2) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(b)(i)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/b/i)
 
-[^key-e8b4f38381c9b7333882bbdf6987a976]: Textual amendment: Sch. 19 para. 81(2)(b) omitted (10.6.2021) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(b)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/b/ii)
+[^c-e8b4f38381c9b7333882bbdf6987a976]: Textual amendment: Sch. 19 para. 81(2)(b) omitted (10.6.2021) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(b)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/b/ii)
 
-[^key-a038e629da741c1566f2bc66ee8d91be]: Textual amendment: Sch. 19 para. 81(2)(c) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(b)(iii)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/b/iii)
+[^c-a038e629da741c1566f2bc66ee8d91be]: Textual amendment: Sch. 19 para. 81(2)(c) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(b)(iii)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/b/iii)
 
-[^key-66d4c719d1c099473ae11726128f042d]: Textual amendment: Sch. 19 para. 81(2A) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/c)
+[^c-66d4c719d1c099473ae11726128f042d]: Textual amendment: Sch. 19 para. 81(2A) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/c)
 
-[^key-1d9f9d5c51745cada3d16115b53e747a]: Textual amendment: Words in Sch. 19 para. 81(3) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(d)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/d)
+[^c-1d9f9d5c51745cada3d16115b53e747a]: Textual amendment: Words in Sch. 19 para. 81(3) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(d)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/d)
 
-[^key-16d9efa64b2377b9e0e33e399b9f491a]: Textual amendment: Sch. 19 para. 81(4) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(e)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/e)
+[^c-16d9efa64b2377b9e0e33e399b9f491a]: Textual amendment: Sch. 19 para. 81(4) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 134(7)(e)](https://www.legislation.gov.uk/ukpga/2021/26/section/134/7/e)

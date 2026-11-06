@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Compulsory acquisition of rights[^key-086e2e2d9dc1e413e2a4e8dde9c4bcb1]
+## 19. Compulsory acquisition of rights[^c-086e2e2d9dc1e413e2a4e8dde9c4bcb1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-086e2e2d9dc1e413e2a4e8dde9c4bcb1]: Commencement: Art. 19 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-086e2e2d9dc1e413e2a4e8dde9c4bcb1]: Commencement: Art. 19 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Failure to comply with a notice[^key-1e04f4a982fe518f972636558f4d1dd1]
+## 31. Failure to comply with a notice[^c-1e04f4a982fe518f972636558f4d1dd1]
 
 *Extent: E+W*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) A plant health inspector acting under paragraph (1) must, if requested to do so, show evidence of authority to act.
 
-(3)[^key-ace1c3ddd8b6a56e2ff444bb0cacfed0] Paragraph (1) does not apply—
+(3)[^c-ace1c3ddd8b6a56e2ff444bb0cacfed0] Paragraph (1) does not apply—
 
 - (a) to any premises which are used wholly or mainly as a private dwelling unless 24 hours’ notice has been given to the occupier; or
 - (b) in relation to any notice served under Schedule 4A.
 
-(4) A plant health inspector may be accompanied by such [^key-525a6542143871f0cabc30b92085db67]... persons [^key-648806d57132303f8f87b5ce073bcc68]... and bring onto the premises such equipment and vehicles as the inspector considers necessary.
+(4) A plant health inspector may be accompanied by such [^c-525a6542143871f0cabc30b92085db67]... persons [^c-648806d57132303f8f87b5ce073bcc68]... and bring onto the premises such equipment and vehicles as the inspector considers necessary.
 
 (5) A person accompanying a plant health inspector under paragraph (4) may—
 
@@ -39,10 +39,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1e04f4a982fe518f972636558f4d1dd1]: Commencement: Reg. 31 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-1e04f4a982fe518f972636558f4d1dd1]: Commencement: Reg. 31 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
-[^key-ace1c3ddd8b6a56e2ff444bb0cacfed0]: Textual amendment: [Reg. 31(3)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/31/3) substituted (29.10.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 4) Regulations 2020 (S.I. 2020/1089)](https://www.legislation.gov.uk/uksi/2020/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1089/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1089/regulation/2/2)
+[^c-ace1c3ddd8b6a56e2ff444bb0cacfed0]: Textual amendment: [Reg. 31(3)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/31/3) substituted (29.10.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 4) Regulations 2020 (S.I. 2020/1089)](https://www.legislation.gov.uk/uksi/2020/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1089/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1089/regulation/2/2)
 
-[^key-525a6542143871f0cabc30b92085db67]: Textual amendment: Word in [reg. 31(4)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/31/4) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [13(4)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/13/4/a)
+[^c-525a6542143871f0cabc30b92085db67]: Textual amendment: Word in [reg. 31(4)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/31/4) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [13(4)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/13/4/a)
 
-[^key-648806d57132303f8f87b5ce073bcc68]: Textual amendment: Words in [reg. 31(4)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/31/4) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [13(4)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/13/4/b)
+[^c-648806d57132303f8f87b5ce073bcc68]: Textual amendment: Words in [reg. 31(4)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/31/4) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [13(4)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/13/4/b)

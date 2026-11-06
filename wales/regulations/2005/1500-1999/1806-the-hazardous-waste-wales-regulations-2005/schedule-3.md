@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Annex III to the Waste Directive[^key-b77686cd481bf62c9c902ec8e683ceb0]
+## SCHEDULE 3 — Annex III to the Waste Directive[^c-b77686cd481bf62c9c902ec8e683ceb0]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Regulation 3
 
 ## Annotations
 
-[^key-b77686cd481bf62c9c902ec8e683ceb0]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2005/1806/schedule/3) omitted (20.7.2015) by virtue of [The Hazardous Waste (Miscellaneous Amendments) (Wales) Regulations 2015 (S.I. 2015/1417)](https://www.legislation.gov.uk/wsi/2015/1417), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/1/2), [3(8)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/3/8)
+[^c-b77686cd481bf62c9c902ec8e683ceb0]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/wsi/2005/1806/schedule/3) omitted (20.7.2015) by virtue of [The Hazardous Waste (Miscellaneous Amendments) (Wales) Regulations 2015 (S.I. 2015/1417)](https://www.legislation.gov.uk/wsi/2015/1417), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/1/2), [3(8)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/3/8)

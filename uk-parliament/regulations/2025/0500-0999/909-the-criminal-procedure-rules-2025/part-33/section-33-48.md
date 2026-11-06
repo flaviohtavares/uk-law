@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.48. Application for variation of restraint or ancillary order by the person who applied for the order[^key-b11033f6d6d7bf24651b37d8fcf2b8bc]
+## 33.48. Application for variation of restraint or ancillary order by the person who applied for the order[^c-b11033f6d6d7bf24651b37d8fcf2b8bc]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b11033f6d6d7bf24651b37d8fcf2b8bc]: Commencement: [Rule 33.48](https://www.legislation.gov.uk/uksi/2025/909/rule/33.48) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b11033f6d6d7bf24651b37d8fcf2b8bc]: Commencement: [Rule 33.48](https://www.legislation.gov.uk/uksi/2025/909/rule/33.48) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

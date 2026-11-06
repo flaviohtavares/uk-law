@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Placing a veterinary medicinal product on the market[^key-46bc2d989f4d7938a833df68ea9a97e5]
+## 4. Placing a veterinary medicinal product on the market[^c-46bc2d989f4d7938a833df68ea9a97e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46bc2d989f4d7938a833df68ea9a97e5]: Commencement: Reg. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-46bc2d989f4d7938a833df68ea9a97e5]: Commencement: Reg. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

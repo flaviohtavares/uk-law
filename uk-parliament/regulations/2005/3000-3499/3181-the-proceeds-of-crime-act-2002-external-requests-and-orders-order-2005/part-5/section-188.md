@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Consent orders: pensions[^key-df8610c3b3c89bf4b6ceeeefc8374abd]
+## 188. Consent orders: pensions[^c-df8610c3b3c89bf4b6ceeeefc8374abd]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 (7) The order may provide for the recovery by the trustees or managers of the scheme (whether by deduction from any amount which they are required to pay in pursuance of the agreement or otherwise) of costs incurred by them in—
 
 - (a) complying with the order, or
-- (b) providing information, before the order was made, to the enforcement authority, receiver appointed under article 150A,[^key-ebb87879591f05edf6b763111560debf] interim receiver or interim administrator.
+- (b) providing information, before the order was made, to the enforcement authority, receiver appointed under article 150A,[^c-ebb87879591f05edf6b763111560debf] interim receiver or interim administrator.
 
 (8) Articles 184(5) and 185 (read with article 186) apply as if the requirement were included in an order made by virtue of article 184(2).
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df8610c3b3c89bf4b6ceeeefc8374abd]: Commencement: [Art. 188](https://www.legislation.gov.uk/uksi/2005/3181/article/188) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-df8610c3b3c89bf4b6ceeeefc8374abd]: Commencement: [Art. 188](https://www.legislation.gov.uk/uksi/2005/3181/article/188) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-ebb87879591f05edf6b763111560debf]: Textual amendment: Words in [art. 188(7)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/188/7/b) inserted (6.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/302/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2008/302/article/3/2)
+[^c-ebb87879591f05edf6b763111560debf]: Textual amendment: Words in [art. 188(7)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/188/7/b) inserted (6.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/302/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2008/302/article/3/2)

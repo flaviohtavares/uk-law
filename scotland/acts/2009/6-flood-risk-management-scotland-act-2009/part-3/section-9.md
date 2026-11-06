@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. SEPA to prepare flood risk assessments[^key-bc745aa0a3dc1a2807dd3d9cfee5f2d4]
+## 9. SEPA to prepare flood risk assessments[^c-bc745aa0a3dc1a2807dd3d9cfee5f2d4]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc745aa0a3dc1a2807dd3d9cfee5f2d4]: Commencement: S. 9 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-bc745aa0a3dc1a2807dd3d9cfee5f2d4]: Commencement: S. 9 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

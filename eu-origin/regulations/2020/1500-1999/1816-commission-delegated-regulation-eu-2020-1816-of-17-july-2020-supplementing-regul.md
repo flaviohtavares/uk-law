@@ -33,7 +33,7 @@ supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Co
 
 (Text with EEA relevance)
 
-[^key-d56917b097669f1cbab484e936ee0922]
+[^c-d56917b097669f1cbab484e936ee0922]
 
 THE EUROPEAN COMMISSION,
 
@@ -81,14 +81,14 @@ HAS ADOPTED THIS REGULATION:
 
 For the purposes of this Regulation, the following definitions shall apply:
 
-- ((za)) “environmental goods and services sector” means the production activities that generate environmental products (environmental goods and services);[^key-3a86b36a3fdbfc35ede9101047ef7f68]
+- ((za)) “environmental goods and services sector” means the production activities that generate environmental products (environmental goods and services);[^c-3a86b36a3fdbfc35ede9101047ef7f68]
 - ((zb)) “environmental products” means products that have been produced for the purpose of environmental protection and resource management;
 - ((zc)) “environmental protection” includes all activities and actions which have as their main purpose the prevention, reduction and elimination of pollution and of any other degradation of the environment, and—
   - (i) includes all measures taken in order to restore the environment after it has been degraded; and
   - (ii) excludes activities which, while beneficial to the environment, primarily satisfy the technical needs or the internal requirements for hygiene or safety and security of an enterprise or other institution;
 - ((a)) ‘equity’ means listed shares;
 - ((b)) ‘fixed income’ means listed debt securities, other than those issued by a sovereign issuer;
-- ((ba)) “resource management” includes the preservation, maintenance and enhancement of the stock of natural resources and therefore the safeguarding of those resources against depletion;[^key-30ea2c79f72a89e2550184521ac121e5]
+- ((ba)) “resource management” includes the preservation, maintenance and enhancement of the stock of natural resources and therefore the safeguarding of those resources against depletion;[^c-30ea2c79f72a89e2550184521ac121e5]
 - ((bb)) “SIC” means the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007) published by the Office for National Statistics, as amended from time to time;
 - ((c)) ‘sovereign debt’ means debt securities issued by a sovereign issuer.
 
@@ -170,7 +170,7 @@ Ursula von der Leyen
 </tbody>
 </table>
 
-[^key-456f7c45fc74a9260f23a46ad16f4b58][^key-aca0a4e9668774c812811c8d9d37a0a2][^key-9bd0de8ebe2f1bb0851a28cca642b863][^key-82a9e8646624f4b9eb382b756b74f6c0][^key-2c59b8fb9e3ac62405c38728c34a9e4f][^key-6d2c4d6d3492fa33e29ae3e44050432f][^f00005]
+[^c-456f7c45fc74a9260f23a46ad16f4b58][^c-aca0a4e9668774c812811c8d9d37a0a2][^c-9bd0de8ebe2f1bb0851a28cca642b863][^c-82a9e8646624f4b9eb382b756b74f6c0][^c-2c59b8fb9e3ac62405c38728c34a9e4f][^c-6d2c4d6d3492fa33e29ae3e44050432f][^f00005]
 
 ## ANNEX II — ENVIRONMENTAL, SOCIAL AND GOVERNANCE (ESG) FACTORS TO BE CONSIDERED BY UNDELYING ASSETS OF THE BENCHMARK
 
@@ -189,7 +189,7 @@ Ursula von der Leyen
 </tbody>
 </table>
 
-[^key-c4a84bce0f531ab49c990c5a07248344][^key-f770af3d2b151ab07c020686f43a5c4b][^key-7b12b2703a37bed83bb621397b3c9715][^key-b56d80f98f67f923997f046b5c460bd7]
+[^c-c4a84bce0f531ab49c990c5a07248344][^c-f770af3d2b151ab07c020686f43a5c4b][^c-7b12b2703a37bed83bb621397b3c9715][^c-b56d80f98f67f923997f046b5c460bd7]
 
 ### Section 2 — FIXED INCOME
 
@@ -204,7 +204,7 @@ Ursula von der Leyen
 </tbody>
 </table>
 
-[^key-fc1977a2fe487143922ddeeabf87b7a8][^key-e02a7493abc0690cc7bc4c232e7b9ac6]
+[^c-fc1977a2fe487143922ddeeabf87b7a8][^c-e02a7493abc0690cc7bc4c232e7b9ac6]
 
 ### Section 3 — SOVEREIGN DEBT
 
@@ -219,7 +219,7 @@ Ursula von der Leyen
 </tbody>
 </table>
 
-[^key-815a84ba9e68d28ca4a7ba6d5fc0424c]
+[^c-815a84ba9e68d28ca4a7ba6d5fc0424c]
 
 ### Section 4 — COMMODITY
 
@@ -234,13 +234,13 @@ Ursula von der Leyen
 | **ESG FACTORS** | **DISCLOSURES** |
 | --- | --- |
 | **Combined ESG factors** | Weighted average ESG rating of the benchmark (voluntary). |
-| **Environmental** | Weighted average environmental rating of the benchmark (voluntary).<br>Degree of exposure of the portfolio to climate-related opportunities, measuring investment opportunities related to climate change, innovating new investment solutions, as percentage of total weight in portfolio (voluntary).<br>GHG intensity of the benchmark.<br>Degree of exposure of the portfolio to the sectors listed in Sections A to H and Section L of SIC[^key-9a70f1fdec71f9883e754ded72ea3419] as percentage of total weight in the portfolio. |
-| **Social** | Weighted average social rating for the benchmark (voluntary).<br>International treaties and conventions, United Nations principles or, where applicable, UK law[^key-f262be3293bd34f4dc7e498aba0118a9] used in order to determine what constitutes a ‘controversial weapon’.<br>Weighted average percentage of benchmark constituents in the controversial weapons sector.<br>Weighted average percentage of benchmark constituents in the tobacco sector. |
+| **Environmental** | Weighted average environmental rating of the benchmark (voluntary).<br>Degree of exposure of the portfolio to climate-related opportunities, measuring investment opportunities related to climate change, innovating new investment solutions, as percentage of total weight in portfolio (voluntary).<br>GHG intensity of the benchmark.<br>Degree of exposure of the portfolio to the sectors listed in Sections A to H and Section L of SIC[^c-9a70f1fdec71f9883e754ded72ea3419] as percentage of total weight in the portfolio. |
+| **Social** | Weighted average social rating for the benchmark (voluntary).<br>International treaties and conventions, United Nations principles or, where applicable, UK law[^c-f262be3293bd34f4dc7e498aba0118a9] used in order to determine what constitutes a ‘controversial weapon’.<br>Weighted average percentage of benchmark constituents in the controversial weapons sector.<br>Weighted average percentage of benchmark constituents in the tobacco sector. |
 | **Governance** | Weighted average governance rating of the benchmark (voluntary).<br>Percentage of underlying funds with stewardship policies in place, including measures for the planning and management of resources. |
 
 ## Annotations
 
-[^key-d56917b097669f1cbab484e936ee0922]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-d56917b097669f1cbab484e936ee0922]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 171, 29.6.2016, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.171.01.0001.01.ENG).
 
@@ -248,40 +248,40 @@ Ursula von der Leyen
 
 [^f00003]: Footnote: COM(2019) 640 final.
 
-[^key-3a86b36a3fdbfc35ede9101047ef7f68]: Textual amendment: Arts. 1(za)-(zc) inserted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-3a86b36a3fdbfc35ede9101047ef7f68]: Textual amendment: Arts. 1(za)-(zc) inserted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-30ea2c79f72a89e2550184521ac121e5]: Textual amendment: Art. 1(ba)(bb) inserted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-30ea2c79f72a89e2550184521ac121e5]: Textual amendment: Art. 1(ba)(bb) inserted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
 [^f00004]: Footnote: Commission Delegated Regulation (EU) 2020/1817 of 17 July 2020 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council as regards the minimum content of the explanation on how environmental, social and governance factors are reflected in the benchmark methodology (See page 12 of this Official Journal).
 
-[^key-456f7c45fc74a9260f23a46ad16f4b58]: Textual amendment: Words in Annex 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-456f7c45fc74a9260f23a46ad16f4b58]: Textual amendment: Words in Annex 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-aca0a4e9668774c812811c8d9d37a0a2]: Textual amendment: Words in Annex 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-aca0a4e9668774c812811c8d9d37a0a2]: Textual amendment: Words in Annex 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-9bd0de8ebe2f1bb0851a28cca642b863]: Textual amendment: Words in Annex 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-9bd0de8ebe2f1bb0851a28cca642b863]: Textual amendment: Words in Annex 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-82a9e8646624f4b9eb382b756b74f6c0]: Textual amendment: Words in Annex 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-82a9e8646624f4b9eb382b756b74f6c0]: Textual amendment: Words in Annex 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-2c59b8fb9e3ac62405c38728c34a9e4f]: Textual amendment: Words in Annex 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(3)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-2c59b8fb9e3ac62405c38728c34a9e4f]: Textual amendment: Words in Annex 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(3)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-6d2c4d6d3492fa33e29ae3e44050432f]: Textual amendment: Words in Annex 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(3)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-6d2c4d6d3492fa33e29ae3e44050432f]: Textual amendment: Words in Annex 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(3)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^f00005]: Footnote: EUR 2020/1818[^key-456f7c45fc74a9260f23a46ad16f4b58].
+[^f00005]: Footnote: EUR 2020/1818[^c-456f7c45fc74a9260f23a46ad16f4b58].
 
-[^key-c4a84bce0f531ab49c990c5a07248344]: Textual amendment: Word in Annex 2 Section 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-c4a84bce0f531ab49c990c5a07248344]: Textual amendment: Word in Annex 2 Section 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-f770af3d2b151ab07c020686f43a5c4b]: Textual amendment: Word in Annex 2 Section 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-f770af3d2b151ab07c020686f43a5c4b]: Textual amendment: Word in Annex 2 Section 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-7b12b2703a37bed83bb621397b3c9715]: Textual amendment: Words in Annex 2 Section 1 omitted (18.10.2021) by virtue of [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-7b12b2703a37bed83bb621397b3c9715]: Textual amendment: Words in Annex 2 Section 1 omitted (18.10.2021) by virtue of [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-b56d80f98f67f923997f046b5c460bd7]: Textual amendment: Words in Annex 2 Section 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-b56d80f98f67f923997f046b5c460bd7]: Textual amendment: Words in Annex 2 Section 1 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-fc1977a2fe487143922ddeeabf87b7a8]: Textual amendment: Word in Annex 2 Section 2 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-fc1977a2fe487143922ddeeabf87b7a8]: Textual amendment: Word in Annex 2 Section 2 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-e02a7493abc0690cc7bc4c232e7b9ac6]: Textual amendment: Words in Annex 2 Section 2 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-e02a7493abc0690cc7bc4c232e7b9ac6]: Textual amendment: Words in Annex 2 Section 2 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-815a84ba9e68d28ca4a7ba6d5fc0424c]: Textual amendment: Words in Annex 2 Section 3 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-815a84ba9e68d28ca4a7ba6d5fc0424c]: Textual amendment: Words in Annex 2 Section 3 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-9a70f1fdec71f9883e754ded72ea3419]: Textual amendment: Word in Annex 2 Section 5 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-9a70f1fdec71f9883e754ded72ea3419]: Textual amendment: Word in Annex 2 Section 5 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
 
-[^key-f262be3293bd34f4dc7e498aba0118a9]: Textual amendment: Words in Annex 2 Section 5 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)
+[^c-f262be3293bd34f4dc7e498aba0118a9]: Textual amendment: Words in Annex 2 Section 5 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1), [5(4)(d)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/5)

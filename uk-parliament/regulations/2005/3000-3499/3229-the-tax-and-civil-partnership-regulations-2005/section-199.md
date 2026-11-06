@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199.[^key-dc77e7520fcb40bb306b8fe139a57c78]
+## 199.[^c-dc77e7520fcb40bb306b8fe139a57c78]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 2 (transitionals and savings etc), in paragraph 86(2), in the substi
 
 ## Annotations
 
-[^key-dc77e7520fcb40bb306b8fe139a57c78]: Commencement: Reg. 199 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-dc77e7520fcb40bb306b8fe139a57c78]: Commencement: Reg. 199 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

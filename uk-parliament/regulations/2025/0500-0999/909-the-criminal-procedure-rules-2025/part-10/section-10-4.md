@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.4. Draft indictment served by the prosecutor after sending for trial[^key-fa5ef23add69d5e702552b87e49727bd]
+## 10.4. Draft indictment served by the prosecutor after sending for trial[^c-fa5ef23add69d5e702552b87e49727bd]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa5ef23add69d5e702552b87e49727bd]: Commencement: [Rule 10.4](https://www.legislation.gov.uk/uksi/2025/909/rule/10.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-fa5ef23add69d5e702552b87e49727bd]: Commencement: [Rule 10.4](https://www.legislation.gov.uk/uksi/2025/909/rule/10.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

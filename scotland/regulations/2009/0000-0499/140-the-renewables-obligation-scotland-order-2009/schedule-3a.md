@@ -14,16 +14,16 @@ summary: ''
 
 > This provision is no longer in force.
 
-## SCHEDULE 3A — ACTUAL VALUE METHOD FOR CALCULATING EMISSIONS FROM THE USE OF BIOMASS[^key-aebbdf49d84e68a1452dfc3d027f42b5]
+## SCHEDULE 3A — ACTUAL VALUE METHOD FOR CALCULATING EMISSIONS FROM THE USE OF BIOMASS[^c-aebbdf49d84e68a1452dfc3d027f42b5]
 
 **No longer in force.**
 
 Articles 2(1) and 54
 
-**1.**[^key-aebbdf49d84e68a1452dfc3d027f42b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-aebbdf49d84e68a1452dfc3d027f42b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-aebbdf49d84e68a1452dfc3d027f42b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-aebbdf49d84e68a1452dfc3d027f42b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aebbdf49d84e68a1452dfc3d027f42b5]: Textual amendment: Schs. 3A, 3B omitted (1.12.2015) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [15](https://www.legislation.gov.uk/ssi/2015/384/article/15) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
+[^c-aebbdf49d84e68a1452dfc3d027f42b5]: Textual amendment: Schs. 3A, 3B omitted (1.12.2015) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [15](https://www.legislation.gov.uk/ssi/2015/384/article/15) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))

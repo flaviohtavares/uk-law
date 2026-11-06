@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52ZC. Determination of whether increase is excessive[^key-9b0b177d30648d76b2fa3f3a3017c687][^key-847797d587d469cd7ad0e14c5aebf0b5][^key-6e7ef88ffa521f0c646645ea0a191527]
+## 52ZC. Determination of whether increase is excessive[^c-9b0b177d30648d76b2fa3f3a3017c687][^c-847797d587d469cd7ad0e14c5aebf0b5][^c-6e7ef88ffa521f0c646645ea0a191527]
 
 *Extent: E+W*
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9b0b177d30648d76b2fa3f3a3017c687]: Modification: S. 52ZC applied (with modifications) (cond.) (30.1.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(18)-(21)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/18), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)
+[^c-9b0b177d30648d76b2fa3f3a3017c687]: Modification: S. 52ZC applied (with modifications) (cond.) (30.1.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(18)-(21)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/18), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)
 
-[^key-847797d587d469cd7ad0e14c5aebf0b5]: Modification: S. 52ZC applied (with modifications) (cond.) (30.1.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(14)-(18)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/14), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)
+[^c-847797d587d469cd7ad0e14c5aebf0b5]: Modification: S. 52ZC applied (with modifications) (cond.) (30.1.2014) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [ss. 41(14)-(18)](https://www.legislation.gov.uk/ukpga/2014/2/section/41/14), [49(3)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/3)
 
-[^key-6e7ef88ffa521f0c646645ea0a191527]: Textual amendment: Pt. 1 Ch. 4ZA inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))
+[^c-6e7ef88ffa521f0c646645ea0a191527]: Textual amendment: Pt. 1 Ch. 4ZA inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 72(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/72/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))

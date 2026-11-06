@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 390. Proceedings under section 387 or 388: exclusion of public[^key-3d3ce86323d66ef2bd55afea8a6a2847]
+## 390. Proceedings under section 387 or 388: exclusion of public[^c-3d3ce86323d66ef2bd55afea8a6a2847]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d3ce86323d66ef2bd55afea8a6a2847]: Commencement: S. 390 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3d3ce86323d66ef2bd55afea8a6a2847]: Commencement: S. 390 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

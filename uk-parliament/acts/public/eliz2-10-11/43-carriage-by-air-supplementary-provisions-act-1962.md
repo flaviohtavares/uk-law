@@ -31,7 +31,7 @@ Carriage by Air (Supplementary Provisions) Act 1962
 
 An Act to give effect to the Convention, supplementary to the Warsaw Convention, for the unification of certain rules relating to international carriage by air performed by a person other than the contracting carrier; and for connected purposes.
 
-\[9th July 1962\][^c6274461][^c6274471][^c6274481][^c6274491][^c6274501][^key-ba0e72a41059de53eb42e13477b6ddbe]
+\[9th July 1962\][^c6274461][^c6274471][^c6274481][^c6274491][^c6274501][^c-ba0e72a41059de53eb42e13477b6ddbe]
 
 ## 1. Supplementary Convention to have force of law.
 
@@ -46,7 +46,7 @@ An Act to give effect to the Convention, supplementary to the Warsaw Convention,
 - (a) before the day on which section one of the [^c6274541]Carriage by Air Act 1961, comes into force, the Convention set out in the First Schedule to the [^c6274551]Carriage by Air Act 1932, and
 - (b)[^c6274561] on and after that day, whichever is applicable to the carriage in question of the Conventions set out in Schedules 1 and 1A[^c6274571] to the said Act of 1961,
 
-[^key-99b51d41ccae6dfaa767ae036e91fbe6]...
+[^c-99b51d41ccae6dfaa767ae036e91fbe6]...
 
 (2) In Articles VII and VIII in the Schedule to this Act “**court**” includes (in an arbitration allowed by the Conventions referred to in the foregoing subsection or by Article IX, 3 in the Schedule to this Act) an arbitrator.
 
@@ -56,13 +56,13 @@ An Act to give effect to the Convention, supplementary to the Warsaw Convention,
 
 **No longer in force (ended 2004-08-06).**
 
-(1)[^key-621cb06590c4bab60961b9a33fc5520f] In paragraph (a) of subsection (1) and in[^c6274591] subsection (3A)(a) and (b)[^M_F_63fb8999-c93d-420b-d403-d32a3e4389a3] of section four of the said Act of 1961 (which explain the limitations on liability in Article 22 in Schedule 1 or 1A[^c6274601] to that Act and enable a court to make appropriate orders and awards to give effect to those limitations) references to the said Article 22 shall include, subject to any necessary modifications, references to Article VI in the Schedule to this Act.
+(1)[^c-621cb06590c4bab60961b9a33fc5520f] In paragraph (a) of subsection (1) and in[^c6274591] subsection (3A)(a) and (b)[^M_F_63fb8999-c93d-420b-d403-d32a3e4389a3] of section four of the said Act of 1961 (which explain the limitations on liability in Article 22 in Schedule 1 or 1A[^c6274601] to that Act and enable a court to make appropriate orders and awards to give effect to those limitations) references to the said Article 22 shall include, subject to any necessary modifications, references to Article VI in the Schedule to this Act.
 
 (2) In section five of the said Act of 1961 (which limits the time for bringing proceedings against a carrier’s servant or agent and to obtain contribution from a carrier in a case where the Convention or the Convention as amended, as defined in section 1(5) of that Act, applies[^M_F_7264ad87-94f9-498d-c028-f990d62d2cb3]) references to a carrier include references to an actual carrier as defined in paragraph (c) of Article I in the Schedule to this Act as well as to a contracting carrier as defined in paragraph (b) of that Article.
 
-(3) In section eight of the said Act of 1961 (which relates to actions against States brought in the United Kingdom in accordance with Article 28 in Schedule 1 or 1A to that Act) [^key-56186fbdfbcb55131ba78c83b52441e8]... the reference to Article 28 shall include a reference to Article VIII in the Schedule to this Act.
+(3) In section eight of the said Act of 1961 (which relates to actions against States brought in the United Kingdom in accordance with Article 28 in Schedule 1 or 1A to that Act) [^c-56186fbdfbcb55131ba78c83b52441e8]... the reference to Article 28 shall include a reference to Article VIII in the Schedule to this Act.
 
-## 4. Interim protection for carriers’ servants and agents.[^key-7763e5ba72401369ebc981bf769157b9]
+## 4. Interim protection for carriers’ servants and agents.[^c-7763e5ba72401369ebc981bf769157b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -78,23 +78,23 @@ An Act to give effect to the Convention, supplementary to the Warsaw Convention,
 
 (2) Section ten of the said Act of 1961 (which enables Her Majesty to apply Schedules 1 and 1A[^c6274691] and other provisions of that Act to carriage by air which is not governed by the the Conventions set out in those Schedules[^c6274701]) shall apply to the Schedule and other provisions of this Act as it applies to that Act, and an order under that section may relate to both that Act and this Act.
 
-(3)[^key-c619ea80ecc187a2f6bc7c4a2504c01b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c619ea80ecc187a2f6bc7c4a2504c01b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7ba888c8f0ddc08f3d422d2ecef058dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7ba888c8f0ddc08f3d422d2ecef058dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Application to Crown.
 
 (1) This Act shall bind the Crown.
 
-(2)[^key-dfa64e4f86fa23d407206b5d40edc1b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-dfa64e4f86fa23d407206b5d40edc1b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 7. Short title, commencement and saving.
 
 (1) This Act may be cited as the Carriage by Air (Supplementary Provisions) Act, 1962.
 
-(2)[^key-4d11eb2e2b2aea5b30f2a553c980fd32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4d11eb2e2b2aea5b30f2a553c980fd32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ae8a60114b7fcc9a57917eff2e50a449] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ae8a60114b7fcc9a57917eff2e50a449] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE
 
@@ -218,7 +218,7 @@ Sous réserve de l’article VII, aucune disposition de la présente Convention 
 
 [^c6274501]: Modification: Power to amend Act conferred by the Carriage by [Air Act 1961 (c. 27, SIF 9)](https://www.legislation.gov.uk/ukpga/1961/27), [s. 8A(1)](https://www.legislation.gov.uk/ukpga/1961/27/section/8A/1) (as amended by [International Transport Conventions Act 1983 (c. 14, SIF 102)](https://www.legislation.gov.uk/ukpga/1983/14), [s. 9](https://www.legislation.gov.uk/ukpga/1983/14/section/9), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1983/14/schedule/2/paragraph/1))
 
-[^key-ba0e72a41059de53eb42e13477b6ddbe]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43) applied (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [art. 8](https://www.legislation.gov.uk/uksi/2004/1899/article/8) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-ba0e72a41059de53eb42e13477b6ddbe]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43) applied (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [art. 8](https://www.legislation.gov.uk/uksi/2004/1899/article/8) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
 [^c6274541]: Marginal citation: [1961 c. 27](https://www.legislation.gov.uk/ukpga/1961/27).
 
@@ -228,9 +228,9 @@ Sous réserve de l’article VII, aucune disposition de la présente Convention 
 
 [^c6274571]: Textual amendment: Words in s. 2(1)(b) substituted (21.5.1999) by [S.I. 1999/1312](https://www.legislation.gov.uk/uksi/1999/1312), [art. 3(2)](https://www.legislation.gov.uk/uksi/1999/1312/article/3/2)
 
-[^key-99b51d41ccae6dfaa767ae036e91fbe6]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/2/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-99b51d41ccae6dfaa767ae036e91fbe6]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/2/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
-[^key-621cb06590c4bab60961b9a33fc5520f]: Modification: S. 3(1) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-621cb06590c4bab60961b9a33fc5520f]: Modification: S. 3(1) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
 [^c6274591]: Textual amendment: Words repealed (E.W.N.I.) by [Civil Liability (Contribution) Act 1978 (c. 47, SIF 122:3)](https://www.legislation.gov.uk/ukpga/1978/47), [s. 9](https://www.legislation.gov.uk/ukpga/1978/47/section/9), [Sch. 2](https://www.legislation.gov.uk/ukpga/1978/47/schedule/2) (subject to savings in s. 5 in relation to Her Majesty and the Duchy of Cornwall and in s. 7 in relation to debts due or damage occurring before the commencement of the Act)
 
@@ -240,9 +240,9 @@ Sous réserve de l’article VII, aucune disposition de la présente Convention 
 
 [^M_F_7264ad87-94f9-498d-c028-f990d62d2cb3]: Textual amendment: Words in s. 3(2) inserted (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Carriage by Air Acts (Implementation of the Montreal Convention 1999) Order 2002 (S.I. 2002/263)](https://www.legislation.gov.uk/uksi/2002/263), [art. 3(3)](https://www.legislation.gov.uk/uksi/2002/263/article/3/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/263/article/1/3))
 
-[^key-56186fbdfbcb55131ba78c83b52441e8]: Textual amendment: Words in s. 3(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-56186fbdfbcb55131ba78c83b52441e8]: Textual amendment: Words in s. 3(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
-[^key-7763e5ba72401369ebc981bf769157b9]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-7763e5ba72401369ebc981bf769157b9]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
 [^c6274681]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/4A) inserted (12.10.2000) by Carriage by [Air and Road Act 1979 (c. 28, SIF 9)](https://www.legislation.gov.uk/ukpga/1979/28), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1979/28/section/3/2); [S.I. 2000/2768](https://www.legislation.gov.uk/uksi/2000/2768), [art. 2](https://www.legislation.gov.uk/uksi/2000/2768/article/2)
 
@@ -250,15 +250,15 @@ Sous réserve de l’article VII, aucune disposition de la présente Convention 
 
 [^c6274701]: Textual amendment: Words in s. 5(2) substituted (21.5.1999) by [S.I. 1999/1312](https://www.legislation.gov.uk/uksi/1999/1312), [art. 3(4)(b)](https://www.legislation.gov.uk/uksi/1999/1312/article/3/4/b)
 
-[^key-c619ea80ecc187a2f6bc7c4a2504c01b]: Textual amendment: [S. 5(3)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/5/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-c619ea80ecc187a2f6bc7c4a2504c01b]: Textual amendment: [S. 5(3)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/5/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
-[^key-7ba888c8f0ddc08f3d422d2ecef058dc]: Textual amendment: [S. 5(4)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/5/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-7ba888c8f0ddc08f3d422d2ecef058dc]: Textual amendment: [S. 5(4)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/5/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
-[^key-dfa64e4f86fa23d407206b5d40edc1b3]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/6/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-dfa64e4f86fa23d407206b5d40edc1b3]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/6/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
-[^key-4d11eb2e2b2aea5b30f2a553c980fd32]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/7/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-4d11eb2e2b2aea5b30f2a553c980fd32]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/7/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
-[^key-ae8a60114b7fcc9a57917eff2e50a449]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/7/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-ae8a60114b7fcc9a57917eff2e50a449]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/43/section/7/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
 [^c6274711]: Textual amendment: Words inserted (*prosp.*) with saving by Carriage by [Air and Road Act 1979 (c. 28, SIF 9)](https://www.legislation.gov.uk/ukpga/1979/28), [ss. 1(2)(3)](https://www.legislation.gov.uk/ukpga/1979/28/section/1/2/3), [7(2)](https://www.legislation.gov.uk/ukpga/1979/28/section/7/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1979/28/schedule/2/paragraph/6)
 

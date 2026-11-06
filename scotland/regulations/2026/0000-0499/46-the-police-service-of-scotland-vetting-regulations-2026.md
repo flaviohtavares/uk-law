@@ -50,11 +50,11 @@ In accordance with section 54(2) of that Act, the Scottish Ministers have consul
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-01d163ccb7b0592cb3acc6f84c65e11e]
+### 1. Citation and commencement[^c-01d163ccb7b0592cb3acc6f84c65e11e]
 
 These Regulations may be cited as the Police Service of Scotland (Vetting) Regulations 2026 and come into force on 1 April 2026.
 
-### 2. Interpretation[^key-dd0bfb4b1384ca45efb1de2b9ae98450]
+### 2. Interpretation[^c-dd0bfb4b1384ca45efb1de2b9ae98450]
 
 In these Regulations—
 
@@ -82,7 +82,7 @@ In these Regulations—
   - (b) a day which is a bank holiday in Scotland within the meaning given by paragraph 2 of schedule 1 of the Banking and Financial Dealings Act 1971[^f00007], or
   - (c) a day which is a public holiday in Scotland.
 
-### 3. Application[^key-987b03de5ae9af0fd2e0c8a1fc62a7c0]
+### 3. Application[^c-987b03de5ae9af0fd2e0c8a1fc62a7c0]
 
 (1) These Regulations apply to all constables.
 
@@ -92,7 +92,7 @@ In these Regulations—
 
 ## PART 2 — Vetting clearance
 
-### 4. Constables’ duty to hold and maintain vetting clearance[^key-11aae733cd026ed937c6de490c62aca7]
+### 4. Constables’ duty to hold and maintain vetting clearance[^c-11aae733cd026ed937c6de490c62aca7]
 
 (1) A constable must—
 
@@ -101,7 +101,7 @@ In these Regulations—
 
 (2) A constable has a duty to give appropriate co-operation with the vetting processes set out in these Regulations.
 
-### 5. Chief constable’s duty to re-assess the vetting clearance of constables[^key-5459c9fdee990458babca2e427d3915b]
+### 5. Chief constable’s duty to re-assess the vetting clearance of constables[^c-5459c9fdee990458babca2e427d3915b]
 
 (1) The chief constable must ensure that vetting of each constable is carried out at intervals of not more than 10 years.
 
@@ -114,11 +114,11 @@ In these Regulations—
 
 (4) The chief constable may determine a different interval between vetting from that set out in paragraph (1) for constables in particular roles or ranks, provided these do not exceed the maximum period set out in that paragraph.
 
-### 6. Termination of vetting clearance[^key-dfafdba152dc8616ae5481ca1d136cb1]
+### 6. Termination of vetting clearance[^c-dfafdba152dc8616ae5481ca1d136cb1]
 
 A constable’s vetting clearance must be terminated if they cease to be a constable.
 
-### 7. Delegation[^key-bb9d45a09e9f4751d597fda3455caf16]
+### 7. Delegation[^c-bb9d45a09e9f4751d597fda3455caf16]
 
 (1) The chief constable must designate a deputy chief constable to exercise functions on behalf of the chief constable under these Regulations (and references in these Regulations to the “deputy chief constable” are, unless the context otherwise requires, references to that individual).
 
@@ -133,7 +133,7 @@ A constable’s vetting clearance must be terminated if they cease to be a const
 
 ## PART 3 — Withdrawal assessments: general
 
-### 8. The disclosure risk test[^key-67695b3d06f5cfa0200f1ce8103eb39c]
+### 8. The disclosure risk test[^c-67695b3d06f5cfa0200f1ce8103eb39c]
 
 (1) This regulation applies to information in documents which are stated to be subject to the disclosure risk test under these Regulations.
 
@@ -150,7 +150,7 @@ A constable’s vetting clearance must be terminated if they cease to be a const
 
 (4) In this regulation, “**informant**” means a person who provides information as part of a withdrawal assessment on the basis that the person’s identity is not disclosed.
 
-### 9. Police representative[^key-fd8e27b9b2894907bd32f5e473a65c4b]
+### 9. Police representative[^c-fd8e27b9b2894907bd32f5e473a65c4b]
 
 (1) The constable concerned may choose a person mentioned in paragraph (2) to act as their police representative in any processes under Parts 3, 4 and 5 of these Regulations.
 
@@ -176,7 +176,7 @@ for reasons related to the same circumstances as the constable concerned’s wit
 
 (5) The chief constable must permit any constable acting as a police representative under these Regulations to use a reasonable amount of duty time for the purposes of performing the functions mentioned in paragraph (4).
 
-### 10. Legal representation[^key-eaf21d862de664c26b4b23ae41575f9f]
+### 10. Legal representation[^c-eaf21d862de664c26b4b23ae41575f9f]
 
 (1) The constable concerned is, in accordance with this regulation, entitled to be legally represented by a solicitor or advocate of their choice at an—
 
@@ -194,7 +194,7 @@ for reasons related to the same circumstances as the constable concerned’s wit
 
 (5) A person appointed under paragraph (4) must not be an interested party.
 
-### 11. Provision of notices or documents[^key-d444f6664ef771603eecfaf244070122]
+### 11. Provision of notices or documents[^c-d444f6664ef771603eecfaf244070122]
 
 (1) Subject to paragraph (2), where any written notice or document is to be given to the constable concerned under these Regulations, it must be—
 
@@ -214,7 +214,7 @@ for reasons related to the same circumstances as the constable concerned’s wit
 
 (4) Where a written notice or document is sent by post, it is to be taken to have been given to the constable concerned on the second working day after the day on which it was posted, left with, delivered to or collected by the relevant service provider.
 
-### 12. Alleged offences[^key-ca359d789b226a2023b86677bea9429a]
+### 12. Alleged offences[^c-ca359d789b226a2023b86677bea9429a]
 
 (1) If, in the course of carrying out any processes under these Regulations, the deputy chief constable considers that it can reasonably be inferred that the constable concerned may have committed a criminal offence, the deputy chief constable—
 
@@ -235,7 +235,7 @@ for reasons related to the same circumstances as the constable concerned’s wit
   - (i) has responsibility for deciding whether to institute criminal proceedings in that place, or
   - (ii) has instituted such proceedings in relation to the offence.
 
-### 13. Conduct or performance proceedings[^key-544865695e326c16888f37dba1542357]
+### 13. Conduct or performance proceedings[^c-544865695e326c16888f37dba1542357]
 
 (1) Before a matter may be subject to a withdrawal assessment, the deputy chief constable must decide if paragraph (3) applies.
 
@@ -255,7 +255,7 @@ for reasons related to the same circumstances as the constable concerned’s wit
 
 (5) Where the deputy chief constable is considering more than one matter in relation to the same constable, paragraph (2) does not prevent a withdrawal assessment from taking place to the extent that the deputy chief constable considers paragraph (3) does not apply.
 
-### 14. Suspension[^key-7acf279f37f6b8f7337c8b8ac76e8cf2]
+### 14. Suspension[^c-7acf279f37f6b8f7337c8b8ac76e8cf2]
 
 (1) A suspension decision is a decision made under paragraph (5) of this regulation.
 
@@ -300,7 +300,7 @@ for reasons related to the same circumstances as the constable concerned’s wit
 
 ## PART 4 — Withdrawal assessments: procedure
 
-### 15. Preliminary assessment[^key-ded28499d84facb6be15f7993a707ca7]
+### 15. Preliminary assessment[^c-ded28499d84facb6be15f7993a707ca7]
 
 (1) This regulation applies where a matter of concern is discovered during vetting.
 
@@ -330,7 +330,7 @@ for reasons related to the same circumstances as the constable concerned’s wit
 
 (8) Where the deputy chief constable decides under this regulation to take no further action or to refer the matter to be dealt with under the Conduct Regulations or Performance Regulations, they must notify the constable concerned in writing as soon as practicable.
 
-### 16. Appointment of assessor[^key-587f6e733334abdb05db80551c84e8a0]
+### 16. Appointment of assessor[^c-587f6e733334abdb05db80551c84e8a0]
 
 (1) This regulation applies where there must be a withdrawal assessment in accordance with regulation 15(6).
 
@@ -349,7 +349,7 @@ then the deputy chief constable must appoint another person to carry out the wit
 
 (6) In this regulation “**force vetting manager**” means the person who manages the vetting team in the Police Service and who develops, implements and maintains the Police Service’s vetting policies and processes.
 
-### 17. Withdrawal assessment[^key-cc0aaf656b6cd0ce464c0bec4f4b6705]
+### 17. Withdrawal assessment[^c-cc0aaf656b6cd0ce464c0bec4f4b6705]
 
 (1) The purpose of the withdrawal assessment is to—
 
@@ -358,7 +358,7 @@ then the deputy chief constable must appoint another person to carry out the wit
 
 (2) Subject to regulation 20, the assessor may interview witnesses as part of the withdrawal assessment.
 
-### 18. Notice of withdrawal assessment[^key-b6b8cdace7dba91e75e05eff8e6dedab]
+### 18. Notice of withdrawal assessment[^c-b6b8cdace7dba91e75e05eff8e6dedab]
 
 (1) Subject to paragraph (4), the assessor must, as soon as reasonably practicable after being appointed, and no more than 5 working days after appointment, give the constable concerned a written notice stating—
 
@@ -388,7 +388,7 @@ the deputy chief constable must as soon as practicable give the constable concer
 
 (5) If, for any reason, the assessor is unable to send the notification within the 5 working days timescale in paragraph (1), another person may send the notification on their behalf.
 
-### 19. Representations to the assessor[^key-9dd783c6c41718f02f7e0ebf7d0f8c96]
+### 19. Representations to the assessor[^c-9dd783c6c41718f02f7e0ebf7d0f8c96]
 
 (1) Before the end of the period of 15 working days beginning with the first day after a written notice is given under regulation 18(1) or (2)—
 
@@ -405,7 +405,7 @@ the deputy chief constable must as soon as practicable give the constable concer
 
 (6) The means by which the constable concerned may provide a written statement or document under paragraph (1) include e-mail or other means of electronic communication.
 
-### 20. Vetting interview with the constable concerned during withdrawal assessment[^key-1f7c9e515c27d592d97dcd0920dd7e69]
+### 20. Vetting interview with the constable concerned during withdrawal assessment[^c-1f7c9e515c27d592d97dcd0920dd7e69]
 
 (1) This regulation applies where, as part of the withdrawal assessment—
 
@@ -451,7 +451,7 @@ the deputy chief constable must as soon as practicable give the constable concer
 
 (18) The period referred to in paragraph (17)(b) may be extended by the assessor.
 
-### 21. Discontinuation of withdrawal assessment[^key-7045a5ccc6e1865cd1c19e7602f63833]
+### 21. Discontinuation of withdrawal assessment[^c-7045a5ccc6e1865cd1c19e7602f63833]
 
 (1) This regulation applies if at any time during the withdrawal assessment—
 
@@ -476,7 +476,7 @@ the deputy chief constable must as soon as practicable give the constable concer
   - (i) the notice given to the constable under regulation 18(1) has been withdrawn and no further action will be taken pursuant to that notice, and
   - (ii) the withdrawal assessment has been discontinued.
 
-### 22. Report of withdrawal assessment[^key-890436563681d6b35b49907c3557a2e4]
+### 22. Report of withdrawal assessment[^c-890436563681d6b35b49907c3557a2e4]
 
 (1) On completion of the withdrawal assessment, the assessor must submit a written report on the withdrawal assessment to the deputy chief constable within 15 working days.
 
@@ -491,7 +491,7 @@ the deputy chief constable must as soon as practicable give the constable concer
 - (e) where the assessor’s judgement is that vetting clearance should not be withdrawn, indicate the assessor’s judgement as to how the matter should be dealt with in accordance with regulation 15(3),
 - (f) if the assessor considers that without conditions being imposed on the vetting clearance, it would not be possible to mitigate concerns that could lead to vetting being withdrawn, indicate which conditions the assessor considers would be appropriate to mitigate those concerns.
 
-### 23. Outcome of withdrawal assessment[^key-813275baed108a22ed67e7e2c61f9d6b]
+### 23. Outcome of withdrawal assessment[^c-813275baed108a22ed67e7e2c61f9d6b]
 
 (1) The decision maker must, after receiving a written report under regulation 22(1)—
 
@@ -536,7 +536,7 @@ the deputy chief constable must as soon as practicable give the constable concer
 
 (13) In paragraph (12), “**Police Service Professional Standards Department**” means the department with chief responsibility for ensuring that constables and staff of the Police Service meet the professional standards required to be a part of the Police Service.
 
-### 24. Notification of outcome[^key-e42e8ac88689b611bde0e2820ad86549]
+### 24. Notification of outcome[^c-e42e8ac88689b611bde0e2820ad86549]
 
 (1) The person responsible for notifying the constable concerned must, as soon as practicable after a decision is made under regulation 23(1)—
 
@@ -555,7 +555,7 @@ the deputy chief constable must as soon as practicable give the constable concer
 
 ## PART 5 — Internal appeal process
 
-### 25. Appeal from withdrawal of vetting clearance[^key-c32c555cb07edcc02b299854713c5c7b]
+### 25. Appeal from withdrawal of vetting clearance[^c-c32c555cb07edcc02b299854713c5c7b]
 
 (1) Subject to the provisions of this regulation, the constable concerned may appeal against any outcome provided for under regulation 23(2).
 
@@ -597,7 +597,7 @@ the deputy chief constable must as soon as practicable give the constable concer
 
 (10) If the person or panel decides there are arguable grounds of appeal, they must proceed with commencing and concluding the appeal process as soon as practicable.
 
-### 26. Persons conducting appeal[^key-df999999b46dd8fb87478e841b43eb75]
+### 26. Persons conducting appeal[^c-df999999b46dd8fb87478e841b43eb75]
 
 (1) The appeal must be decided by the person or panel described in paragraph (2).
 
@@ -628,7 +628,7 @@ the deputy chief constable must as soon as practicable give the constable concer
 
 (9) In this regulation, “**legal member**” means an individual holding membership of the First-tier Tribunal in accordance with section 15(2) of the Tribunals (Scotland) Act 2014[^f00009].
 
-### 27. Objections to persons conducting appeals[^key-4d8e24078bb016a59a119f157c80956a]
+### 27. Objections to persons conducting appeals[^c-4d8e24078bb016a59a119f157c80956a]
 
 (1) This regulation applies to constables who are not senior officers.
 
@@ -656,7 +656,7 @@ the deputy chief constable must as soon as practicable give the constable concer
 - (b) the objection must be made before the end of the period of 3 working days beginning with the first working day after the constable concerned is given the notice referred to in paragraph (7), and
 - (c) paragraphs (5) to (7) apply, with the exception of the requirement in paragraph (7) for the deputy chief constable to give written notice of the effects of paragraphs (8) and (9).
 
-### 28. Appeal meeting[^key-e0b3b497ea4b46f7c63ffbb2570cd4a5]
+### 28. Appeal meeting[^c-e0b3b497ea4b46f7c63ffbb2570cd4a5]
 
 (1) This regulation applies where the constable concerned requests an appeal meeting in the written notice of appeal under regulation 25(3).
 
@@ -704,7 +704,7 @@ the deputy chief constable must as soon as practicable give the constable concer
 - (c) the person or panel must consider any representations made,
 - (d) having considered those representations (if any) the person or panel must send a copy of the final written record to the constable.
 
-### 29. Determination of the appeal[^key-2900ba6dc9e59ccdfad0486b367dc5e3]
+### 29. Determination of the appeal[^c-2900ba6dc9e59ccdfad0486b367dc5e3]
 
 (1) The person or panel considering the appeal may—
 
@@ -744,7 +744,7 @@ the deputy chief constable must as soon as practicable give the constable concer
 
 ## PART 6 — Consequential amendments
 
-### 30. The First-tier Tribunal for Scotland General Regulatory Chamber (Police Appeals) (Procedure) Regulations 2025[^key-82e2c1ade90b1c3ff43802186cd5e5e9]
+### 30. The First-tier Tribunal for Scotland General Regulatory Chamber (Police Appeals) (Procedure) Regulations 2025[^c-82e2c1ade90b1c3ff43802186cd5e5e9]
 
 (1) The rules in the schedule of the First-tier Tribunal for Scotland General Regulatory Chamber (Police Appeals) (Procedure) Regulations 2025[^f00010] are amended as follows.
 
@@ -790,7 +790,7 @@ the deputy chief constable must as soon as practicable give the constable concer
 
 (5) In rule 11(1) (procedure at the hearing), for “or inefficiency hearing” substitute “, inefficiency hearing or vetting appeal meeting”.
 
-### 31. The Police Service of Scotland Regulations 2013[^key-e5da483606ef6eda1427cef2cb72cc45]
+### 31. The Police Service of Scotland Regulations 2013[^c-e5da483606ef6eda1427cef2cb72cc45]
 
 (1) The Police Service of Scotland Regulations 2013[^f00011] are amended as follows.
 
@@ -866,9 +866,9 @@ Part 6 amends the First-tier Tribunal for Scotland General Regulatory Chamber (P
 
 [^f00001]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8) (“**the 2012 Act**”). Sections 50A and 55 of the 2012 Act specify matters which regulations under section 48 of that Act must provide for or may include. Section 50A was inserted by section 5(2) of the Police (Ethics, Conduct and Scrutiny) (Scotland) Act [2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5) (“**the 2025 Act**”). Section 55 of the 2012 Act allows regulations under section 48 to provide for sub-delegation.
 
-[^key-01d163ccb7b0592cb3acc6f84c65e11e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-01d163ccb7b0592cb3acc6f84c65e11e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-dd0bfb4b1384ca45efb1de2b9ae98450]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/46/regulation/2) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-dd0bfb4b1384ca45efb1de2b9ae98450]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/46/regulation/2) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2013/62](https://www.legislation.gov.uk/ssi/2013/62) as amended by section 3(4) of the 2025 Act, [S.S.I. 2014/68](https://www.legislation.gov.uk/ssi/2014/68), [S.S.I. 2020/453](https://www.legislation.gov.uk/ssi/2020/453) and [S.S.I. 2025/378](https://www.legislation.gov.uk/ssi/2025/378).
 
@@ -882,68 +882,68 @@ Part 6 amends the First-tier Tribunal for Scotland General Regulatory Chamber (P
 
 [^f00007]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80), as relevantly amended by section 1 of the St Andrew’s Day Bank Holiday (Scotland) Act [2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).
 
-[^key-987b03de5ae9af0fd2e0c8a1fc62a7c0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2026/46/regulation/3) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-987b03de5ae9af0fd2e0c8a1fc62a7c0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2026/46/regulation/3) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-11aae733cd026ed937c6de490c62aca7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2026/46/regulation/4) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-11aae733cd026ed937c6de490c62aca7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2026/46/regulation/4) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-5459c9fdee990458babca2e427d3915b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2026/46/regulation/5) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-5459c9fdee990458babca2e427d3915b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2026/46/regulation/5) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-dfafdba152dc8616ae5481ca1d136cb1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2026/46/regulation/6) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-dfafdba152dc8616ae5481ca1d136cb1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2026/46/regulation/6) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-bb9d45a09e9f4751d597fda3455caf16]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2026/46/regulation/7) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-bb9d45a09e9f4751d597fda3455caf16]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2026/46/regulation/7) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-67695b3d06f5cfa0200f1ce8103eb39c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2026/46/regulation/8) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-67695b3d06f5cfa0200f1ce8103eb39c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2026/46/regulation/8) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-fd8e27b9b2894907bd32f5e473a65c4b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2026/46/regulation/9) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-fd8e27b9b2894907bd32f5e473a65c4b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2026/46/regulation/9) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-eaf21d862de664c26b4b23ae41575f9f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2026/46/regulation/10) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-eaf21d862de664c26b4b23ae41575f9f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2026/46/regulation/10) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-d444f6664ef771603eecfaf244070122]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2026/46/regulation/11) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-d444f6664ef771603eecfaf244070122]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2026/46/regulation/11) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-ca359d789b226a2023b86677bea9429a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2026/46/regulation/12) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-ca359d789b226a2023b86677bea9429a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2026/46/regulation/12) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-544865695e326c16888f37dba1542357]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2026/46/regulation/13) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-544865695e326c16888f37dba1542357]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2026/46/regulation/13) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-7acf279f37f6b8f7337c8b8ac76e8cf2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2026/46/regulation/14) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-7acf279f37f6b8f7337c8b8ac76e8cf2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2026/46/regulation/14) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
 [^f00008]: Footnote: [S.S.I. 2013/35](https://www.legislation.gov.uk/ssi/2013/35).
 
-[^key-ded28499d84facb6be15f7993a707ca7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2026/46/regulation/15) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-ded28499d84facb6be15f7993a707ca7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2026/46/regulation/15) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-587f6e733334abdb05db80551c84e8a0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2026/46/regulation/16) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-587f6e733334abdb05db80551c84e8a0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2026/46/regulation/16) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-cc0aaf656b6cd0ce464c0bec4f4b6705]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2026/46/regulation/17) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-cc0aaf656b6cd0ce464c0bec4f4b6705]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2026/46/regulation/17) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-b6b8cdace7dba91e75e05eff8e6dedab]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2026/46/regulation/18) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-b6b8cdace7dba91e75e05eff8e6dedab]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2026/46/regulation/18) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-9dd783c6c41718f02f7e0ebf7d0f8c96]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2026/46/regulation/19) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-9dd783c6c41718f02f7e0ebf7d0f8c96]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2026/46/regulation/19) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-1f7c9e515c27d592d97dcd0920dd7e69]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2026/46/regulation/20) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-1f7c9e515c27d592d97dcd0920dd7e69]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2026/46/regulation/20) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-7045a5ccc6e1865cd1c19e7602f63833]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2026/46/regulation/21) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-7045a5ccc6e1865cd1c19e7602f63833]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2026/46/regulation/21) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-890436563681d6b35b49907c3557a2e4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2026/46/regulation/22) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-890436563681d6b35b49907c3557a2e4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2026/46/regulation/22) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-813275baed108a22ed67e7e2c61f9d6b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2026/46/regulation/23) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-813275baed108a22ed67e7e2c61f9d6b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2026/46/regulation/23) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-e42e8ac88689b611bde0e2820ad86549]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2026/46/regulation/24) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-e42e8ac88689b611bde0e2820ad86549]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2026/46/regulation/24) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-c32c555cb07edcc02b299854713c5c7b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2026/46/regulation/25) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-c32c555cb07edcc02b299854713c5c7b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2026/46/regulation/25) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-df999999b46dd8fb87478e841b43eb75]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2026/46/regulation/26) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-df999999b46dd8fb87478e841b43eb75]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2026/46/regulation/26) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
 [^f00009]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-4d8e24078bb016a59a119f157c80956a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2026/46/regulation/27) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-4d8e24078bb016a59a119f157c80956a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2026/46/regulation/27) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-e0b3b497ea4b46f7c63ffbb2570cd4a5]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2026/46/regulation/28) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-e0b3b497ea4b46f7c63ffbb2570cd4a5]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2026/46/regulation/28) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-2900ba6dc9e59ccdfad0486b367dc5e3]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2026/46/regulation/29) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-2900ba6dc9e59ccdfad0486b367dc5e3]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2026/46/regulation/29) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
-[^key-82e2c1ade90b1c3ff43802186cd5e5e9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2026/46/regulation/30) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-82e2c1ade90b1c3ff43802186cd5e5e9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2026/46/regulation/30) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
 [^f00010]: Footnote: [S.S.I. 2025/384](https://www.legislation.gov.uk/ssi/2025/384).
 
-[^key-e5da483606ef6eda1427cef2cb72cc45]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2026/46/regulation/31) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
+[^c-e5da483606ef6eda1427cef2cb72cc45]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2026/46/regulation/31) in force at 1.4.2026, see [reg. 1](https://www.legislation.gov.uk/ssi/2026/46/regulation/1)
 
 [^f00011]: Footnote: [S.S.I. 2013/35](https://www.legislation.gov.uk/ssi/2013/35). There are amendments to regulation 2 that are not relevant to these Regulations.

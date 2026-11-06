@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.139. Other matters affecting remuneration[^key-f91056c4c937b3da8dc5c1f2649a598a]
+## 6.139. Other matters affecting remuneration[^c-f91056c4c937b3da8dc5c1f2649a598a]
 
 *Extent: E+W*
 
-(1)[^key-dc49692786e78e45fc1bbc867b2675b0] Where the trustee (not being the official receiver) realises assets on behalf of a secured creditor, the trustee is entitled to such sum by way of remuneration as is arrived at by applying the realisation scale set out in Schedule 6 to the monies received by him in respect of the assets realised (including any Value Added Tax thereon).
+(1)[^c-dc49692786e78e45fc1bbc867b2675b0] Where the trustee (not being the official receiver) realises assets on behalf of a secured creditor, the trustee is entitled to such sum by way of remuneration as is arrived at by applying the realisation scale set out in Schedule 6 to the monies received by him in respect of the assets realised (including any Value Added Tax thereon).
 
 (2) Where there are joint trustees, it is for them to agree between themselves as to how the remuneration payable should be apportioned. Any dispute arising between them may be referred—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f91056c4c937b3da8dc5c1f2649a598a]: Commencement: Rule 6.139 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f91056c4c937b3da8dc5c1f2649a598a]: Commencement: Rule 6.139 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-dc49692786e78e45fc1bbc867b2675b0]: Textual amendment: Rule 6.139(1) substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rule 1(2)](https://www.legislation.gov.uk/uksi/2004/584/rule/1/2), [35](https://www.legislation.gov.uk/uksi/2004/584/rule/35) (with [rule 3](https://www.legislation.gov.uk/uksi/2004/584/rule/3))
+[^c-dc49692786e78e45fc1bbc867b2675b0]: Textual amendment: Rule 6.139(1) substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rule 1(2)](https://www.legislation.gov.uk/uksi/2004/584/rule/1/2), [35](https://www.legislation.gov.uk/uksi/2004/584/rule/35) (with [rule 3](https://www.legislation.gov.uk/uksi/2004/584/rule/3))

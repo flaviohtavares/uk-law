@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Special category land[^key-b8cc6f397c8afc64ec73112b7e5d9133]
+## 38. Special category land[^c-b8cc6f397c8afc64ec73112b7e5d9133]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8cc6f397c8afc64ec73112b7e5d9133]: Commencement: Art. 38 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-b8cc6f397c8afc64ec73112b7e5d9133]: Commencement: Art. 38 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)

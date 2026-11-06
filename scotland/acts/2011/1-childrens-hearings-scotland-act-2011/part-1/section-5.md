@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Children's hearing[^key-6574fbcf8ba5b392e61976955d6f8f11][^key-fe110717e61bb228001686e1ed9aa263]
+## 5. Children's hearing[^c-6574fbcf8ba5b392e61976955d6f8f11][^c-fe110717e61bb228001686e1ed9aa263]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ A children's hearing consists of three members of the Children's Panel selected 
 
 ## Annotations
 
-[^key-6574fbcf8ba5b392e61976955d6f8f11]: Commencement: S. 5 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-6574fbcf8ba5b392e61976955d6f8f11]: Commencement: S. 5 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-fe110717e61bb228001686e1ed9aa263]: Modification: S. 5 applied by [1985 c. 60](https://www.legislation.gov.uk/ukpga/1985/60), [s. 20(6)](https://www.legislation.gov.uk/ukpga/1985/60/section/20/6) (as inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/1/2))
+[^c-fe110717e61bb228001686e1ed9aa263]: Modification: S. 5 applied by [1985 c. 60](https://www.legislation.gov.uk/ukpga/1985/60), [s. 20(6)](https://www.legislation.gov.uk/ukpga/1985/60/section/20/6) (as inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/1/2))

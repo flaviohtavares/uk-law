@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A licence authorising the driving of motor vehicles of any class shall not be granted to any person unless he [^key-84175c8df7fc87cd6087acea32074eb7]... satisfies the Secretary of State[^c13980151]—
+(1) A licence authorising the driving of motor vehicles of any class shall not be granted to any person unless he [^c-84175c8df7fc87cd6087acea32074eb7]... satisfies the Secretary of State[^c13980151]—
 
 - (a)[^c13980161] that at some time during the period of two years ending with the date the application is made but not earlier than the appointed day he has passed—
   - (i) the test of competence to drive prescribed by virtue of subsection (3) below, or
@@ -41,14 +41,14 @@ summary: ''
 
 This subsection is subject to the provisions of this Part of this Act as to provisional licences and to the provisions of any regulations made by virtue of section 105(2)(f) of this Act.
 
-(1A)[^key-40699a42e7c8aa3fc9060040eb89caa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-40699a42e7c8aa3fc9060040eb89caa6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c13980231] For the purposes of subsection (1) above—
 
 - (a)[^c13980241] a licence which has been revoked under section 99(3) of this Act or under any corresponding provision of—
   - (i) the law of Northern Ireland,
   - (ii) the relevant external law, or
-  - (iii) the law of an EEA State [^key-2a5035744381ef93e24f89d977f1d2c8]...,
+  - (iii) the law of an EEA State [^c-2a5035744381ef93e24f89d977f1d2c8]...,
 
   as a licence granted in error shall be disregarded for the purposes of paragraph (b), (d) or (ea) (as the case may be) of that subsection;
 - (b)[^c13980251] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -68,7 +68,7 @@ and generally with respect to such tests.
 (4) Regulations under subsection (3)(a) above may in particular[^c19274551] provide—
 
 - (a) for requiring a person submitting himself for a test to provide a safe and suitable vehicle[^c19274571] for the purposes of the test and for requiring that, if the vehicle is a vehicle of a prescribed description, it has been certified in the prescribed manner after a prescribed inspection as satisfying such requirements as may be prescribed,[^c19274591]
-- (aa)[^c13980311] for requiring a person submitting himself for a test to have been normally and lawfully resident in Great Britain or the United Kingdom (within the meaning of section 97A)[^key-ab5b3f764e04afc9de37da7acf588ce7] for such period ending on the date of his appointment for the test as may be prescribed,
+- (aa)[^c13980311] for requiring a person submitting himself for a test to have been normally and lawfully resident in Great Britain or the United Kingdom (within the meaning of section 97A)[^c-ab5b3f764e04afc9de37da7acf588ce7] for such period ending on the date of his appointment for the test as may be prescribed,
 - (b)[^c19274611] for the charging (whether on the making of an appointment for a test or otherwise) of reasonable fees for or in connection with the test and any inspection of a vehicle required by regulations under paragraph (a) above in relation to the test,
 - (c) for ensuring that a person submitting himself for a test and failing to pass that test shall not be eligible to submit himself for another test by the same or any other person before the expiration of a period specified in the regulations, except under an order made by a court or sheriff under the power conferred by section 90 of this Act,
 
@@ -123,7 +123,7 @@ The reference in this subsection to a licence does not include a licence which h
 
 ## Annotations
 
-[^key-84175c8df7fc87cd6087acea32074eb7]: Textual amendment: Words in s. 89(1) omitted (14.7.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 63(a)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/63/a); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
+[^c-84175c8df7fc87cd6087acea32074eb7]: Textual amendment: Words in s. 89(1) omitted (14.7.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 63(a)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/63/a); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
 
 [^c13980151]: Textual amendment: Words in s. 89(1) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [reg. 2](https://www.legislation.gov.uk/uksi/1996/1974/regulation/2), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/2/2/a)
 
@@ -141,13 +141,13 @@ The reference in this subsection to a licence does not include a licence which h
 
 [^c13980211]: Textual amendment: S. 89(1)(f) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [reg. 2](https://www.legislation.gov.uk/uksi/1996/1974/regulation/2), [Sch. 1 para. 2(2)(e)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/2/2/e)
 
-[^key-40699a42e7c8aa3fc9060040eb89caa6]: Textual amendment: S. 89(1A) omitted (14.7.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 63(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/63/b); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
+[^c-40699a42e7c8aa3fc9060040eb89caa6]: Textual amendment: S. 89(1A) omitted (14.7.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 63(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/63/b); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
 
 [^c13980231]: Textual amendment: S. 89(2) substituted by [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1989/22), [s. 4(1)(3)](https://www.legislation.gov.uk/ukpga/1989/22/section/4/1/3)
 
 [^c13980241]: Textual amendment: S. 89(2)(a) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [reg. 2](https://www.legislation.gov.uk/uksi/1996/1974/regulation/2), [Sch. 1 para. 2(4)(a)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/2/4/a)
 
-[^key-2a5035744381ef93e24f89d977f1d2c8]: Textual amendment: Words in s. 89(2)(a)(iii) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251)](https://www.legislation.gov.uk/uksi/2018/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a5035744381ef93e24f89d977f1d2c8]: Textual amendment: Words in s. 89(2)(a)(iii) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251)](https://www.legislation.gov.uk/uksi/2018/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c13980251]: Textual amendment: S. 89(2)(b) omitted (23.7.1996 for specified purposes and otherwise 1.1.1997) by virtue of [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [reg. 2](https://www.legislation.gov.uk/uksi/1996/1974/regulation/2), [Sch. 1 para. 2(4)(b)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/2/4/b)
 
@@ -171,7 +171,7 @@ The reference in this subsection to a licence does not include a licence which h
 
 [^c13980311]: Textual amendment: S. 89(4)(aa) inserted (23.7.1996) by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [reg. 2](https://www.legislation.gov.uk/uksi/1996/1974/regulation/2), [Sch. 1 para. 2(5)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/2/5)
 
-[^key-ab5b3f764e04afc9de37da7acf588ce7]: Textual amendment: Words in s. 89(4)(aa) substituted (14.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 63(c)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/63/c); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
+[^c-ab5b3f764e04afc9de37da7acf588ce7]: Textual amendment: Words in s. 89(4)(aa) substituted (14.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 63(c)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/63/c); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
 
 [^c19274611]: Textual amendment: S. 89(4)(b) substituted (27.2.2007) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 36(3)(d)](https://www.legislation.gov.uk/ukpga/2006/49/section/36/3/d), [61](https://www.legislation.gov.uk/ukpga/2006/49/section/61); [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/237/article/2/b)
 

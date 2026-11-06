@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Lands Tribunal and Compensation Act (Northern Ireland) 1964[^key-0a6b911fba0e97f37d72674ec31f0fac]
+## 57. Lands Tribunal and Compensation Act (Northern Ireland) 1964[^c-0a6b911fba0e97f37d72674ec31f0fac]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0a6b911fba0e97f37d72674ec31f0fac]: Commencement: Reg. 57 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-0a6b911fba0e97f37d72674ec31f0fac]: Commencement: Reg. 57 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00082]: Footnote: [1964 c.29 (N.I.)](https://www.legislation.gov.uk/apni/1964/29).
 

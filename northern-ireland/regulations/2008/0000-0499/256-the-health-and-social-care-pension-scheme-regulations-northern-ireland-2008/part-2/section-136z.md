@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136Z. Nominations and notices accepted by the Department under the 1995 Regulations and Chapter 5 of this Part of these Regulations[^key-0d4b52589377b86413d24e256c3b1400]
+## 136Z. Nominations and notices accepted by the Department under the 1995 Regulations and Chapter 5 of this Part of these Regulations[^c-0d4b52589377b86413d24e256c3b1400]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 - (a) a nomination made in accordance with regulation 22 of the 1995 Regulations (Payment of lump sum) in favour of one or more persons in respect of any lump sum that becomes payable under regulations 18 to 21 of those Regulations (which deal with lump sum payments on the death of a member in different circumstances);
 - (b) a notice provided for the purposes of paragraph (3)(a) of regulation 22 of the 1995 Regulations that the person’s surviving partner (within the meaning of that regulation) is not to receive the payment of any lump sum that becomes payable under regulations 18 to 21 of those Regulations;
-- (c)[^key-b2e1f8bf4bfafa66cfd7b0bb7468ccd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b2e1f8bf4bfafa66cfd7b0bb7468ccd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purpose of this Section of the Scheme a nomination or notice referred to in paragraph (1)(a) shall be treated—
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d4b52589377b86413d24e256c3b1400]: Textual amendment: [Pt. 2 Ch. 11](https://www.legislation.gov.uk/nisr/2008/256/part/2/chapter/11) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [reg. 34](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/34), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-0d4b52589377b86413d24e256c3b1400]: Textual amendment: [Pt. 2 Ch. 11](https://www.legislation.gov.uk/nisr/2008/256/part/2/chapter/11) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [reg. 34](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/34), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
 
-[^key-b2e1f8bf4bfafa66cfd7b0bb7468ccd8]: Textual amendment: [Reg. 136Z(2)(c)](https://www.legislation.gov.uk/nisr/2008/256/regulation/136Z/2/c) omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [45](https://www.legislation.gov.uk/nisr/2022/196/regulation/45)
+[^c-b2e1f8bf4bfafa66cfd7b0bb7468ccd8]: Textual amendment: [Reg. 136Z(2)(c)](https://www.legislation.gov.uk/nisr/2008/256/regulation/136Z/2/c) omitted (16.8.2022) by virtue of [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [45](https://www.legislation.gov.uk/nisr/2022/196/regulation/45)

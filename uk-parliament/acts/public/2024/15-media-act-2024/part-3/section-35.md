@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Amendment of BBC’s obligation to provide Welsh programmes[^key-50b600a18f27a8b3f39cd6b45c6fa268][^key-b0c47258153e0aab86550896cd3d5e80]
+## 35. Amendment of BBC’s obligation to provide Welsh programmes[^c-50b600a18f27a8b3f39cd6b45c6fa268][^c-b0c47258153e0aab86550896cd3d5e80]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50b600a18f27a8b3f39cd6b45c6fa268]: Commencement: S. 35 not in force at Royal Assent, see [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c)
+[^c-50b600a18f27a8b3f39cd6b45c6fa268]: Commencement: S. 35 not in force at Royal Assent, see [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c)
 
-[^key-b0c47258153e0aab86550896cd3d5e80]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2024/15/section/35) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(m)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/m)
+[^c-b0c47258153e0aab86550896cd3d5e80]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2024/15/section/35) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(m)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/m)

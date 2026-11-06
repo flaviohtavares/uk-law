@@ -30,7 +30,7 @@ Treason Act 1351
 
 A STATUTE made at WESTMINSTER; In the Parliament holden in the Feast of Saint Hilary; In the Twenty-fifth Year of the Reign of K. EDWARD the Third.[^c919017][^c919018]
 
-[^key-9eab163209042d737daa5ff1f50f9e3b]
+[^c-9eab163209042d737daa5ff1f50f9e3b]
 
 Statute the Fifth.
 
@@ -46,7 +46,7 @@ ITEM, Whereas divers Opinions have been before this Time in what Case Treason sh
 
 [^c919018]: Editorial: The original text of this Act was not in modern English. The traditional translation, with obsolete characters modernised, appears first. The original text (as an image) appears second.
 
-[^key-9eab163209042d737daa5ff1f50f9e3b]: Modification: [Act](https://www.legislation.gov.uk/aep/Edw3Stat5/25/2) modified (26.3.2015) by [Succession to the Crown Act 2013 (c. 20)](https://www.legislation.gov.uk/ukpga/2013/20), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2013/20/section/5/2), [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/1); [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
+[^c-9eab163209042d737daa5ff1f50f9e3b]: Modification: [Act](https://www.legislation.gov.uk/aep/Edw3Stat5/25/2) modified (26.3.2015) by [Succession to the Crown Act 2013 (c. 20)](https://www.legislation.gov.uk/ukpga/2013/20), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2013/20/section/5/2), [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2013/20/schedule/paragraph/1); [S.I. 2015/894](https://www.legislation.gov.uk/uksi/2015/894), [art. 2](https://www.legislation.gov.uk/uksi/2015/894/article/2)
 
 [^c919019]: Editorial: Variant reading of the text noted in *The Statutes of the Realm* as follows: what case should be adjudged Treason, and what not;
 

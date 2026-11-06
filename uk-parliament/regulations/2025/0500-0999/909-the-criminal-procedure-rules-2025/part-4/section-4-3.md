@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.3. Service by handing over a document[^key-f53a4ce25c3ef6f9b0e1e1b85f6516ee]
+## 4.3. Service by handing over a document[^c-f53a4ce25c3ef6f9b0e1e1b85f6516ee]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f53a4ce25c3ef6f9b0e1e1b85f6516ee]: Commencement: [Rule 4.3](https://www.legislation.gov.uk/uksi/2025/909/rule/4.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f53a4ce25c3ef6f9b0e1e1b85f6516ee]: Commencement: [Rule 4.3](https://www.legislation.gov.uk/uksi/2025/909/rule/4.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00171]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).

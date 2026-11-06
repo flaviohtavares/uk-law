@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Delegation of functions by Council[^key-f31f44421d000c85d32f7cb6ae9f8df3]
+## 20. Delegation of functions by Council[^c-f31f44421d000c85d32f7cb6ae9f8df3]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ After section 76 of the 1993 Act (functions of Rail Passengers' Council)—
 
 ## Annotations
 
-[^key-f31f44421d000c85d32f7cb6ae9f8df3]: Commencement: S. 20 in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-f31f44421d000c85d32f7cb6ae9f8df3]: Commencement: S. 20 in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)

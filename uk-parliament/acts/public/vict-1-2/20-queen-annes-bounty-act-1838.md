@@ -31,32 +31,32 @@ Queen Anne’s Bounty Act 1838 (repealed)
 
 1838 c. 20
 
-[^key-e8c43e831449849710d1ecc79bdddd14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e8c43e831449849710d1ecc79bdddd14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[11th April 1838\]
 
 **No longer in force.**
 
-## 1—19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e8c43e831449849710d1ecc79bdddd14][^key-e8c43e831449849710d1ecc79bdddd14]
+## 1—19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e8c43e831449849710d1ecc79bdddd14][^c-e8c43e831449849710d1ecc79bdddd14]
 
-## 20. Deeds for purchases, &c., to be made in the following form.[^key-e8c43e831449849710d1ecc79bdddd14][^key-e8c43e831449849710d1ecc79bdddd14]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 21. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e8c43e831449849710d1ecc79bdddd14][^key-e8c43e831449849710d1ecc79bdddd14]
-
-## 22. Definition of the word “grant” in conveyances, &c.[^key-e8c43e831449849710d1ecc79bdddd14][^key-e8c43e831449849710d1ecc79bdddd14]
+## 20. Deeds for purchases, &c., to be made in the following form.[^c-e8c43e831449849710d1ecc79bdddd14][^c-e8c43e831449849710d1ecc79bdddd14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23—25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-e8c43e831449849710d1ecc79bdddd14][^key-e8c43e831449849710d1ecc79bdddd14]
+## 21. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e8c43e831449849710d1ecc79bdddd14][^c-e8c43e831449849710d1ecc79bdddd14]
+
+## 22. Definition of the word “grant” in conveyances, &c.[^c-e8c43e831449849710d1ecc79bdddd14][^c-e8c43e831449849710d1ecc79bdddd14]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 23—25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-e8c43e831449849710d1ecc79bdddd14][^c-e8c43e831449849710d1ecc79bdddd14]
 
 **No longer in force.**
 
-## SCHEDULE[^key-e8c43e831449849710d1ecc79bdddd14]
+## SCHEDULE[^c-e8c43e831449849710d1ecc79bdddd14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e8c43e831449849710d1ecc79bdddd14]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/1-2/20) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
+[^c-e8c43e831449849710d1ecc79bdddd14]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/1-2/20) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)

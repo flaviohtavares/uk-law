@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z9I. Brokering services relating to relevant processed oil products[^key-a8e57baeac3ea41b02964de54da2719c]
+## 46Z9I. Brokering services relating to relevant processed oil products[^c-a8e57baeac3ea41b02964de54da2719c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8e57baeac3ea41b02964de54da2719c]: Textual amendment: [Pt. 5 Ch. 4IB](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4IB) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/543/regulation/8)
+[^c-a8e57baeac3ea41b02964de54da2719c]: Textual amendment: [Pt. 5 Ch. 4IB](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4IB) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/543/regulation/8)

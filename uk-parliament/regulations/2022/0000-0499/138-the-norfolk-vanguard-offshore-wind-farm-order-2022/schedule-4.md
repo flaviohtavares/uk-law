@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — Streets to be stopped up[^key-5931f0a7bd712400e662f7cf71f7fec5]
+## SCHEDULE 4 — Streets to be stopped up[^c-5931f0a7bd712400e662f7cf71f7fec5]
 
 *Extent: E+W+S*
 
@@ -154,4 +154,4 @@ Article 11
 
 ## Annotations
 
-[^key-5931f0a7bd712400e662f7cf71f7fec5]: Commencement: Sch. 4 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-5931f0a7bd712400e662f7cf71f7fec5]: Commencement: Sch. 4 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)

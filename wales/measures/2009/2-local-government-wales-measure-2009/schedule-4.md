@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — REPEALS[^key-327356aff6041af194f6f8ac1fc87064][^key-48b43bb9ce40cca974aa163c945b8c7c]
+## SCHEDULE 4 — REPEALS[^c-327356aff6041af194f6f8ac1fc87064][^c-48b43bb9ce40cca974aa163c945b8c7c]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-327356aff6041af194f6f8ac1fc87064]: Commencement: [Sch. 4](https://www.legislation.gov.uk/mwa/2009/2/schedule/4) in force at 1.1.2010 for specified purposes by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 2](https://www.legislation.gov.uk/wsi/2009/3272/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2009/3272/schedule/1)
+[^c-327356aff6041af194f6f8ac1fc87064]: Commencement: [Sch. 4](https://www.legislation.gov.uk/mwa/2009/2/schedule/4) in force at 1.1.2010 for specified purposes by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 2](https://www.legislation.gov.uk/wsi/2009/3272/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2009/3272/schedule/1)
 
-[^key-48b43bb9ce40cca974aa163c945b8c7c]: Commencement: [Sch. 4](https://www.legislation.gov.uk/mwa/2009/2/schedule/4) in force at 1.4.2010 for specified purposes by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2009/3272/schedule/2) (with [art. 3(2)-(5)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/2)) (as amended (8.9.2010) by S.I. 2010/2237, art. 2)
+[^c-48b43bb9ce40cca974aa163c945b8c7c]: Commencement: [Sch. 4](https://www.legislation.gov.uk/mwa/2009/2/schedule/4) in force at 1.4.2010 for specified purposes by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2009/3272/schedule/2) (with [art. 3(2)-(5)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/2)) (as amended (8.9.2010) by S.I. 2010/2237, art. 2)

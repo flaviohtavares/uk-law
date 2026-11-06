@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: N.I.*
 
-**44.**[^key-4b439e74bd37fe6d4380b4f1997b90f0] In section 22 (interpretation), in the definition of “personal pension”, for “or widower” substitute “, widower or surviving civil partner”.
+**44.**[^c-4b439e74bd37fe6d4380b4f1997b90f0] In section 22 (interpretation), in the definition of “personal pension”, for “or widower” substitute “, widower or surviving civil partner”.
 
 ## Annotations
 
-[^key-4b439e74bd37fe6d4380b4f1997b90f0]: Commencement: Art. 44 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-4b439e74bd37fe6d4380b4f1997b90f0]: Commencement: Art. 44 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

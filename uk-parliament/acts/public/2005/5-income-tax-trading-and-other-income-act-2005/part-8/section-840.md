@@ -30,8 +30,8 @@ summary: ''
 
 (3) But subsection (2) does not affect the calculation of the full amount of the income so arising under section 575(2), 613(3) or 635(3) of ITEPA 2003 (under which the full amount of that income is to be calculated on the basis that the pension or annuity is 90% of its actual amount).
 
-(4)[^key-fb1e9fc9002b7415233f86cdf8e9aca9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-fb1e9fc9002b7415233f86cdf8e9aca9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb1e9fc9002b7415233f86cdf8e9aca9]: Textual amendment: [S. 840(4)](https://www.legislation.gov.uk/ukpga/2005/5/section/840/4) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/68)
+[^c-fb1e9fc9002b7415233f86cdf8e9aca9]: Textual amendment: [S. 840(4)](https://www.legislation.gov.uk/ukpga/2005/5/section/840/4) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/68)

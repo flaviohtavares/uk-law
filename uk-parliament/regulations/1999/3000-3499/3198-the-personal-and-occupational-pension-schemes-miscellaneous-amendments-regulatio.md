@@ -128,15 +128,15 @@ In the Contracting-out (Transfer and Transfer Payment) Regulations 1996 [^c16475
 - (a) for “difficulties" to “scheme" substitute “any difficulty with the scheme which remains unresolved";
 - (b) for “it" substitute “OPAS".
 
-## 7. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996[^key-bcde470db4b1dca16b3f191a3c39b964]
+## 7. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996[^c-bcde470db4b1dca16b3f191a3c39b964]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations 1996[^key-92abbde0f7f0be452a169f5757f99b44]
+## 8. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations 1996[^c-92abbde0f7f0be452a169f5757f99b44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Occupational Pension Schemes (Modification of Schemes) Regulations 1996[^key-afd285d628ab0d8ee37941f1b414c7d3]
+## 9. Amendment of the Occupational Pension Schemes (Modification of Schemes) Regulations 1996[^c-afd285d628ab0d8ee37941f1b414c7d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -317,11 +317,11 @@ Regulation 15 is a transitional provision to ensure that the amendment in regula
 
 [^c1647527]: Marginal citation: [S.I. 1996/1270](https://www.legislation.gov.uk/uksi/1996/1270).
 
-[^key-bcde470db4b1dca16b3f191a3c39b964]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1999/3198/regulation/7) revoked (6.4.2006) by [Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2006/714/regulation/6), [Schs.](https://www.legislation.gov.uk/uksi/2006/714/schedule) Table
+[^c-bcde470db4b1dca16b3f191a3c39b964]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1999/3198/regulation/7) revoked (6.4.2006) by [Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2006/714/regulation/6), [Schs.](https://www.legislation.gov.uk/uksi/2006/714/schedule) Table
 
-[^key-92abbde0f7f0be452a169f5757f99b44]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1999/3198/regulation/8) revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [21](https://www.legislation.gov.uk/uksi/2005/3377/regulation/21), [Schs. 5](https://www.legislation.gov.uk/uksi/2005/3377/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2005/3377/schedule/4))
+[^c-92abbde0f7f0be452a169f5757f99b44]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1999/3198/regulation/8) revoked (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [21](https://www.legislation.gov.uk/uksi/2005/3377/regulation/21), [Schs. 5](https://www.legislation.gov.uk/uksi/2005/3377/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2005/3377/schedule/4))
 
-[^key-afd285d628ab0d8ee37941f1b414c7d3]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1999/3198/regulation/9) revoked (6.4.2006) by [Occupational Pension Schemes (Modification of Schemes) Regulations 2006 (S.I. 2006/759)](https://www.legislation.gov.uk/uksi/2006/759), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/759/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/759/regulation/9), [Schs.](https://www.legislation.gov.uk/uksi/2006/759/schedule)
+[^c-afd285d628ab0d8ee37941f1b414c7d3]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1999/3198/regulation/9) revoked (6.4.2006) by [Occupational Pension Schemes (Modification of Schemes) Regulations 2006 (S.I. 2006/759)](https://www.legislation.gov.uk/uksi/2006/759), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/759/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/759/regulation/9), [Schs.](https://www.legislation.gov.uk/uksi/2006/759/schedule)
 
 [^c1647536]: Marginal citation: [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715), to which there are amendments not relevant to these Regulations.
 

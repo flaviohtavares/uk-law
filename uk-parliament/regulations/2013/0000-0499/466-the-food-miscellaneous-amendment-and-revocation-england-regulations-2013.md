@@ -34,7 +34,7 @@ Regulation 2 of this Statutory Instrument has been made in consequence of a defe
 
 Food, England
 
-The Food (Miscellaneous Amendment and Revocation) (England) Regulations 2013 (revoked)[^key-1ea5c9dfefb7bb22a137f5827ca3e060]
+The Food (Miscellaneous Amendment and Revocation) (England) Regulations 2013 (revoked)[^c-1ea5c9dfefb7bb22a137f5827ca3e060]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 6th April 2013
 
-[^key-1ea5c9dfefb7bb22a137f5827ca3e060]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ea5c9dfefb7bb22a137f5827ca3e060]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title application and commencement[^key-1ea5c9dfefb7bb22a137f5827ca3e060]
+## 1. Title application and commencement[^c-1ea5c9dfefb7bb22a137f5827ca3e060]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-1ea5c9dfefb7bb22a137f5827ca3e060]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-1ea5c9dfefb7bb22a137f5827ca3e060]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-1ea5c9dfefb7bb22a137f5827ca3e060]
+## 3. Revocations[^c-1ea5c9dfefb7bb22a137f5827ca3e060]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ea5c9dfefb7bb22a137f5827ca3e060]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ea5c9dfefb7bb22a137f5827ca3e060]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1ea5c9dfefb7bb22a137f5827ca3e060]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ea5c9dfefb7bb22a137f5827ca3e060]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ea5c9dfefb7bb22a137f5827ca3e060]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/466) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 30
+[^c-1ea5c9dfefb7bb22a137f5827ca3e060]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/466) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 30

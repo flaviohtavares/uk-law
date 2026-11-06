@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Guidance[^key-20f0e259f3ada07ed1583cac54af7a08]
+## 20. Guidance[^c-20f0e259f3ada07ed1583cac54af7a08]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20f0e259f3ada07ed1583cac54af7a08]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/12/section/20) in force at 11.1.2016 by [S.S.I. 2015/411](https://www.legislation.gov.uk/ssi/2015/411), [art. 3](https://www.legislation.gov.uk/ssi/2015/411/article/3)
+[^c-20f0e259f3ada07ed1583cac54af7a08]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/12/section/20) in force at 11.1.2016 by [S.S.I. 2015/411](https://www.legislation.gov.uk/ssi/2015/411), [art. 3](https://www.legislation.gov.uk/ssi/2015/411/article/3)

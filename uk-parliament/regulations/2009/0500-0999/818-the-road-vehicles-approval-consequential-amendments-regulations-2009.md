@@ -94,9 +94,9 @@ These Regulations may be cited as the Road Vehicles (Approval) (Consequential Am
 
 (1) The Road Traffic Act 1988 [^c19648651] is amended as provided in paragraphs (2) to (7).
 
-(2)[^key-3deaf70c31506f9d8e9fc0172d9dc42e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3deaf70c31506f9d8e9fc0172d9dc42e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3deaf70c31506f9d8e9fc0172d9dc42e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3deaf70c31506f9d8e9fc0172d9dc42e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 65A (light passenger vehicles and motor cycles not to be sold without EC certificate of conformity) [^c19648671]—
 
@@ -204,7 +204,7 @@ A copy of the new Framework Directive and the tractor type approval Directive ma
 
 [^c19648651]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-3deaf70c31506f9d8e9fc0172d9dc42e]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/818/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2009/818/regulation/3/3) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2015/971/schedule/2/paragraph/6)
+[^c-3deaf70c31506f9d8e9fc0172d9dc42e]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/818/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2009/818/regulation/3/3) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2015/971/schedule/2/paragraph/6)
 
 [^c19648671]: Marginal citation: Section 65A was inserted by [S.I. 1992/3107](https://www.legislation.gov.uk/uksi/1992/3107). The section heading and subsection (1) were amended by [S.I. 1999/2920](https://www.legislation.gov.uk/uksi/1999/2920) and subsection (1) was also amended by the 1994 Act, Schedule 3, paragraph 24(4)(a). Subsection (3) was amended by [S.I. 1999/2920](https://www.legislation.gov.uk/uksi/1999/2920) and by the 1994 Act Schedule 3, paragraph 24(4)(b). Subsection (3A) was inserted by [S.I. 1999/2920](https://www.legislation.gov.uk/uksi/1999/2920). Subsection (5) was amended by the [Civil Contingencies Act 2004 (c.36)](https://www.legislation.gov.uk/ukpga/2004/36), [Schedule 2](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2), [Part 1](https://www.legislation.gov.uk/ukpga/2004/36/part/1), [paragraph 9](https://www.legislation.gov.uk/ukpga/2004/36/paragraph/9) and Schedule 3.
 

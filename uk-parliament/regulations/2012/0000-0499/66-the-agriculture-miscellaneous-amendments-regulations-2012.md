@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Agriculture (Miscellaneous Amendments) Regulations 2012 (revoked)[^key-822dbc287e8dec9e0ca5426bc459d8f4]
+The Agriculture (Miscellaneous Amendments) Regulations 2012 (revoked)[^c-822dbc287e8dec9e0ca5426bc459d8f4]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 13th February 2012
 
-[^key-822dbc287e8dec9e0ca5426bc459d8f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-822dbc287e8dec9e0ca5426bc459d8f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-822dbc287e8dec9e0ca5426bc459d8f4]
+## 1. Citation and commencement[^c-822dbc287e8dec9e0ca5426bc459d8f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Agriculture (Cross compliance) (No. 2) Regulations 2009[^key-822dbc287e8dec9e0ca5426bc459d8f4]
+## 2. Amendment of the Agriculture (Cross compliance) (No. 2) Regulations 2009[^c-822dbc287e8dec9e0ca5426bc459d8f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2009[^key-822dbc287e8dec9e0ca5426bc459d8f4]
+## 3. Amendment of the Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2009[^c-822dbc287e8dec9e0ca5426bc459d8f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-822dbc287e8dec9e0ca5426bc459d8f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-822dbc287e8dec9e0ca5426bc459d8f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-822dbc287e8dec9e0ca5426bc459d8f4]EXPLANATORY NOTE
+[^c-822dbc287e8dec9e0ca5426bc459d8f4]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
 These Regulations amend the Agriculture (Cross compliance) (No. 2) Regulations 2009 ([S.I. 2009/3365](https://www.legislation.gov.uk/uksi/2009/3365))—
 
-- (a)[^key-822dbc287e8dec9e0ca5426bc459d8f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-822dbc287e8dec9e0ca5426bc459d8f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-822dbc287e8dec9e0ca5426bc459d8f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-822dbc287e8dec9e0ca5426bc459d8f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 These Regulations also amend the Common Agricultural Policy Single Payment and Support Schemes (Integrated Administration and Control System) Regulations 2009 ([S.I. 2009/3263](https://www.legislation.gov.uk/uksi/2009/3263)) to correct a minor error.
 
@@ -81,4 +81,4 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-822dbc287e8dec9e0ca5426bc459d8f4]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2012/66) revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))
+[^c-822dbc287e8dec9e0ca5426bc459d8f4]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2012/66) revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132.[^key-06357cc23e936c684e16cf5d58d66a1d]
+## 132.[^c-06357cc23e936c684e16cf5d58d66a1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 91 (relevant period in a dumping investigation) has effect as if—
 
 ## Annotations
 
-[^key-06357cc23e936c684e16cf5d58d66a1d]: Commencement: Reg. 132 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-06357cc23e936c684e16cf5d58d66a1d]: Commencement: Reg. 132 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

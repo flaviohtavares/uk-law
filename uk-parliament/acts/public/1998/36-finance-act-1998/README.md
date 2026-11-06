@@ -35,7 +35,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 Most Gracious Sovereign,
 
-WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-c126b7091852c0fd5c223f9b35cb564e]
+WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c126b7091852c0fd5c223f9b35cb564e]
 
 ## Contents
 
@@ -447,4 +447,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-c126b7091852c0fd5c223f9b35cb564e]: Modification: Act applied in part (with modifications) (29.3.2007) by [The Corporation Tax (Taxation of Films) (Transitional Provisions) Regulations 2007 (S.I. 2007/1050)](https://www.legislation.gov.uk/uksi/2007/1050), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1050/regulation/1/1), [3-13](https://www.legislation.gov.uk/uksi/2007/1050/regulation/3) (as amended by 2009 c. 4, Sch. 2 para. 131)
+[^c-c126b7091852c0fd5c223f9b35cb564e]: Modification: Act applied in part (with modifications) (29.3.2007) by [The Corporation Tax (Taxation of Films) (Transitional Provisions) Regulations 2007 (S.I. 2007/1050)](https://www.legislation.gov.uk/uksi/2007/1050), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1050/regulation/1/1), [3-13](https://www.legislation.gov.uk/uksi/2007/1050/regulation/3) (as amended by 2009 c. 4, Sch. 2 para. 131)

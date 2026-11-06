@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Payments under grant of representation in relation to bonds and certificates[^key-7d4028a93f2d9e363a04b92ed0f3e945]
+## 88. Payments under grant of representation in relation to bonds and certificates[^c-7d4028a93f2d9e363a04b92ed0f3e945]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d4028a93f2d9e363a04b92ed0f3e945]: Commencement: Reg. 88 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-7d4028a93f2d9e363a04b92ed0f3e945]: Commencement: Reg. 88 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

@@ -52,7 +52,7 @@ In accordance with section 21(1) of the Public Service Pensions Act 2013, the Sc
 
 In accordance with section 9(1) of the Superannuation Act 1972 and section 3(5) of the Public Service Pensions Act 2013, these Regulations are made with the consent of the Treasury [^c23569451].
 
-## 1. Citation and commencement[^key-787db6f9dd6a452a6a1054770df36ab7][^key-0b86fca1f712ca224f83e34dfdc70025]
+## 1. Citation and commencement[^c-787db6f9dd6a452a6a1054770df36ab7][^c-0b86fca1f712ca224f83e34dfdc70025]
 
 (1) These Regulations may be cited as the Teachers’ Superannuation and Pension Scheme (Miscellaneous Amendments) Regulations 2019.
 
@@ -60,33 +60,33 @@ In accordance with section 9(1) of the Superannuation Act 1972 and section 3(5) 
 
 (3) Regulations 2 and 3 come into force on 1 September 2019.
 
-## 2. Amendment to the Teachers' Superannuation (Scotland) Regulations 2005[^key-4e1ed2ec270a166323fe5c462ddc52e1]
+## 2. Amendment to the Teachers' Superannuation (Scotland) Regulations 2005[^c-4e1ed2ec270a166323fe5c462ddc52e1]
 
 The Teachers' Superannuation (Scotland) Regulations 2005 [^c23569461] are amended in accordance with regulation 3.
 
-## 3.[^key-0fdf7b9b489e20607344b0f23a3b6e20]
+## 3.[^c-0fdf7b9b489e20607344b0f23a3b6e20]
 
-In regulation H3 (employers' contributions), in paragraph (3)(a) for “17.2%” substitute “23.0%[^key-c9f2a798fceebec787acb7321a3228cf] ”.
+In regulation H3 (employers' contributions), in paragraph (3)(a) for “17.2%” substitute “23.0%[^c-c9f2a798fceebec787acb7321a3228cf] ”.
 
-## 4. Amendment to the Teachers' Pension Scheme (Scotland) (No. 2) Regulations 2014[^key-58eb749f7b767c87e62446add0fc5531]
+## 4. Amendment to the Teachers' Pension Scheme (Scotland) (No. 2) Regulations 2014[^c-58eb749f7b767c87e62446add0fc5531]
 
 The Teachers' Pension Scheme (Scotland) (No. 2) Regulations 2014 [^c23569471] are amended in accordance with regulation 5.
 
-## 5.[^key-355d2dca6b274d212b78ad5d20fcd944]
+## 5.[^c-355d2dca6b274d212b78ad5d20fcd944]
 
 In regulation 186 (employers' contributions), for paragraphs (b) and (c) substitute—
 
-> - (b) 17.2% from 1 September 2015 to 31 August 2019[^key-1985fcb2e97681cd3746ef772d6fdd31],
-> - (c) 23% from 1 September 2019[^key-63b13e16cb6c15da92d7ff8cf89c69de],
+> - (b) 17.2% from 1 September 2015 to 31 August 2019[^c-1985fcb2e97681cd3746ef772d6fdd31],
+> - (c) 23% from 1 September 2019[^c-63b13e16cb6c15da92d7ff8cf89c69de],
 > - (d) at the rate determined in each successive valuation report under paragraph 1 of Schedule 4 with effect from a date to be notified to employers by the scheme manager.
 
 .
 
-## 6. Amendment to the Teachers' Superannuation and Pension Scheme (Additional Voluntary Contributions) (Scotland) Regulations 2017[^key-97dae743cff82b22718b7c3999b14a3f]
+## 6. Amendment to the Teachers' Superannuation and Pension Scheme (Additional Voluntary Contributions) (Scotland) Regulations 2017[^c-97dae743cff82b22718b7c3999b14a3f]
 
 The Teachers' Superannuation and Pension Scheme (Additional Voluntary Contributions (Scotland) Regulations 2017 [^c23569481] are amended in accordance with regulations 7 and 8.
 
-## 7.[^key-527db26d3dfc44e769063d17652e6add]
+## 7.[^c-527db26d3dfc44e769063d17652e6add]
 
 In regulation 12 (retirement and dependants' pensions)—
 
@@ -97,7 +97,7 @@ In regulation 12 (retirement and dependants' pensions)—
   ,
 - (b) in paragraph (11), for “(Z)” substitute “ (2) ”.
 
-## 8.[^key-a6cf38dc929c6bc49c9c86722e8574fe]
+## 8.[^c-a6cf38dc929c6bc49c9c86722e8574fe]
 
 In regulation 14 (pension sharing on divorce), in paragraph (8), for “12(5), (6)” substitute “ 12(6) ”.
 
@@ -133,32 +133,32 @@ Regulations 6 to 8 make minor changes to the Teachers' Superannuation and Pensio
 
 [^c23569451]: Marginal citation: The function of the Minister under section 9(1) of the Superannuation Act 1972 was transferred to the Treasury by the [Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 (S.I. 1981/1670)](https://www.legislation.gov.uk/uksi/1981/1670) and remains exercisable by virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [article 2](https://www.legislation.gov.uk/uksi/1999/1750/article/2) and schedule 1.
 
-[^key-787db6f9dd6a452a6a1054770df36ab7]: Commencement: Reg. 1 in force at 1.4.2019, see reg. 1(2) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
+[^c-787db6f9dd6a452a6a1054770df36ab7]: Commencement: Reg. 1 in force at 1.4.2019, see reg. 1(2) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
 
-[^key-0b86fca1f712ca224f83e34dfdc70025]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/48/regulation/1) substituted (1.4.2019) by [The Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/95)](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3)
+[^c-0b86fca1f712ca224f83e34dfdc70025]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/48/regulation/1) substituted (1.4.2019) by [The Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/95)](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3)
 
-[^key-4e1ed2ec270a166323fe5c462ddc52e1]: Commencement: Reg. 2 in force at 1.9.2019, see reg. 1(3) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
+[^c-4e1ed2ec270a166323fe5c462ddc52e1]: Commencement: Reg. 2 in force at 1.9.2019, see reg. 1(3) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
 
 [^c23569461]: Marginal citation: [S.S.I. 2005/393](https://www.legislation.gov.uk/ssi/2005/393).
 
-[^key-0fdf7b9b489e20607344b0f23a3b6e20]: Commencement: Reg. 3 in force at 1.9.2019, see reg. 1(3) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
+[^c-0fdf7b9b489e20607344b0f23a3b6e20]: Commencement: Reg. 3 in force at 1.9.2019, see reg. 1(3) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
 
-[^key-c9f2a798fceebec787acb7321a3228cf]: Textual amendment: Percentage in reg. 3 substituted (1.4.2019) by [The Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/95)](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [4](https://www.legislation.gov.uk/ssi/2019/95/regulation/4)
+[^c-c9f2a798fceebec787acb7321a3228cf]: Textual amendment: Percentage in reg. 3 substituted (1.4.2019) by [The Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/95)](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [4](https://www.legislation.gov.uk/ssi/2019/95/regulation/4)
 
-[^key-58eb749f7b767c87e62446add0fc5531]: Commencement: Reg. 4 in force at 1.4.2019, see reg. 1(2) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
+[^c-58eb749f7b767c87e62446add0fc5531]: Commencement: Reg. 4 in force at 1.4.2019, see reg. 1(2) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
 
 [^c23569471]: Marginal citation: [S.S.I. 2014/292](https://www.legislation.gov.uk/ssi/2014/292).
 
-[^key-355d2dca6b274d212b78ad5d20fcd944]: Commencement: Reg. 5 in force at 1.4.2019, see reg. 1(2) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
+[^c-355d2dca6b274d212b78ad5d20fcd944]: Commencement: Reg. 5 in force at 1.4.2019, see reg. 1(2) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
 
-[^key-1985fcb2e97681cd3746ef772d6fdd31]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2019/48/regulation/5) substituted (1.4.2019) by [The Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/95)](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2019/95/regulation/5/a)
+[^c-1985fcb2e97681cd3746ef772d6fdd31]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2019/48/regulation/5) substituted (1.4.2019) by [The Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/95)](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2019/95/regulation/5/a)
 
-[^key-63b13e16cb6c15da92d7ff8cf89c69de]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2019/48/regulation/5) substituted (1.4.2019) by [The Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/95)](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2019/95/regulation/5/b)
+[^c-63b13e16cb6c15da92d7ff8cf89c69de]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2019/48/regulation/5) substituted (1.4.2019) by [The Teachers’ Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 (S.S.I. 2019/95)](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2019/95/regulation/5/b)
 
-[^key-97dae743cff82b22718b7c3999b14a3f]: Commencement: Reg. 6 in force at 1.4.2019, see reg. 1(2) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
+[^c-97dae743cff82b22718b7c3999b14a3f]: Commencement: Reg. 6 in force at 1.4.2019, see reg. 1(2) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
 
 [^c23569481]: Marginal citation: [S.S.I. 2017/283](https://www.legislation.gov.uk/ssi/2017/283).
 
-[^key-527db26d3dfc44e769063d17652e6add]: Commencement: Reg. 7 in force at 1.4.2019, see reg. 1(2) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
+[^c-527db26d3dfc44e769063d17652e6add]: Commencement: Reg. 7 in force at 1.4.2019, see reg. 1(2) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
 
-[^key-a6cf38dc929c6bc49c9c86722e8574fe]: Commencement: Reg. 8 in force at 1.4.2019, see reg. 1(2) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
+[^c-a6cf38dc929c6bc49c9c86722e8574fe]: Commencement: Reg. 8 in force at 1.4.2019, see reg. 1(2) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))

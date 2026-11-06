@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88R. Prohibition on interviews[^key-c60856346bf88ef6c6639b1187ca2ac4]
+## 88R. Prohibition on interviews[^c-c60856346bf88ef6c6639b1187ca2ac4]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c60856346bf88ef6c6639b1187ca2ac4]: Textual amendment: [S. 88R](https://www.legislation.gov.uk/ukpga/1998/31/section/88R) and cross-heading inserted (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 56](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/56); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(g)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/g)
+[^c-c60856346bf88ef6c6639b1187ca2ac4]: Textual amendment: [S. 88R](https://www.legislation.gov.uk/ukpga/1998/31/section/88R) and cross-heading inserted (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 56](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/56); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(g)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/g)

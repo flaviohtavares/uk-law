@@ -37,7 +37,7 @@ Made
 
 The Secretary of State for Education makes the following Order in exercise of the powers conferred by section 82(3) and (7) of the Education Act 2011[^f00001].
 
-## 1. Citation and interpretation[^key-a3c630753d370e8e4b7468444ff5a1a9]
+## 1. Citation and interpretation[^c-a3c630753d370e8e4b7468444ff5a1a9]
 
 (1) This Order may be cited as the Education Act 2011 (Commencement No. 4 and Transitional and Savings Provisions) Order 2012.
 
@@ -46,14 +46,14 @@ The Secretary of State for Education makes the following Order in exercise of th
 - “ASCLA 2009” means the Apprenticeships, Skills, Learning and Children Act 2009[^f00002];
 - “EA 2011” means the Education Act 2011.
 
-## 2. Provisions coming into force on 1st August 2012[^key-2de4fc6af72bcad7999f8f613f0f8079]
+## 2. Provisions coming into force on 1st August 2012[^c-2de4fc6af72bcad7999f8f613f0f8079]
 
 The following provisions of EA 2011 come into force on 1st August 2012—
 
 - section 45;
 - section 73(2)(a) and (b), and section 73(2)(c) to the extent that it relates to section 88(2A) of ASCLA 2009 (as inserted by section 73(2)(b)), and section 73(1) to the extent that it relates to those subsections.
 
-## 3. Provisions coming into force on 1st September 2012[^key-0842bdb797c349992304ea3eabbdf57e]
+## 3. Provisions coming into force on 1st September 2012[^c-0842bdb797c349992304ea3eabbdf57e]
 
 The following provisions of EA 2011 come into force on 1st September 2012—
 
@@ -67,13 +67,13 @@ The following provisions of EA 2011 come into force on 1st September 2012—
 - section 69 and Schedule 18;
 - section 70.
 
-## 4. Transitional and savings provisions[^key-e93c70678f812fd91d7f74367101f679]
+## 4. Transitional and savings provisions[^c-e93c70678f812fd91d7f74367101f679]
 
 Despite the coming into force of section 4 of, and Schedule 1 to, EA 2011, that section and Schedule have no effect in relation to the exclusion of a pupil before 1st September 2012 and the enactments amended by that section and Schedule continue in force in relation to such an exclusion as if the amendments in that section and Schedule were not made.
 
 **5.**[^M_F_84344b87-8b77-434c-a778-7bbba1e06fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-508ad4c17e1a10bb7201d56e287017c4] Despite the coming into force of section 45 of EA 2011, section 45(1) and (2)(b), (c), (e) and (h) have no effect in relation to a complaint that is made to a Local Commissioner[^f00006] before 1st August 2012, unless the Local Commissioner has declined to initiate an investigation into the complaint on the grounds in section 207(3)(a) of ASCLA 2009.
+**6.**[^c-508ad4c17e1a10bb7201d56e287017c4] Despite the coming into force of section 45 of EA 2011, section 45(1) and (2)(b), (c), (e) and (h) have no effect in relation to a complaint that is made to a Local Commissioner[^f00006] before 1st August 2012, unless the Local Commissioner has declined to initiate an investigation into the complaint on the grounds in section 207(3)(a) of ASCLA 2009.
 
 Nick Gibb
 
@@ -166,22 +166,22 @@ The following provisions of this Act have been brought into force (or come into 
 
 [^f00001]: Footnote: [2011 c. 21](https://www.legislation.gov.uk/ukpga/2011/21).
 
-[^key-a3c630753d370e8e4b7468444ff5a1a9]: Commencement: Art. 1 in force at made date
+[^c-a3c630753d370e8e4b7468444ff5a1a9]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-2de4fc6af72bcad7999f8f613f0f8079]: Commencement: Art. 2 in force at made date
+[^c-2de4fc6af72bcad7999f8f613f0f8079]: Commencement: Art. 2 in force at made date
 
-[^key-0842bdb797c349992304ea3eabbdf57e]: Commencement: Art. 3 in force at made date
+[^c-0842bdb797c349992304ea3eabbdf57e]: Commencement: Art. 3 in force at made date
 
 [^f00003]: Footnote: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21).
 
 [^f00004]: Footnote: For the meaning of “funding period” see section 45 of the School Standards and Framework Act [1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31) which was amended by paragraph 2 of Schedule 16 to the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18).
 
-[^key-e93c70678f812fd91d7f74367101f679]: Commencement: Art. 4 in force at made date
+[^c-e93c70678f812fd91d7f74367101f679]: Commencement: Art. 4 in force at made date
 
 [^M_F_84344b87-8b77-434c-a778-7bbba1e06fb1]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1087/article/5) repealed (9.7.2018) by [The Education Act 2011 (Commencement No. 4 and Transitional and Savings Provisions) (Amendment) Order 2018 (S.I. 2018/809)](https://www.legislation.gov.uk/uksi/2018/809), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/809/article/1/2), [2](https://www.legislation.gov.uk/uksi/2018/809/article/2)
 
-[^key-508ad4c17e1a10bb7201d56e287017c4]: Commencement: Art. 6 in force at made date
+[^c-508ad4c17e1a10bb7201d56e287017c4]: Commencement: Art. 6 in force at made date
 
 [^f00006]: Footnote: For the meaning of “Local Commissioner” see section 23 of the Local Government Act [1974 (c. 7)](https://www.legislation.gov.uk/ukpga/1974/7).

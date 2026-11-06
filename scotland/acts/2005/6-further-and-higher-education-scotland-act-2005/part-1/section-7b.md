@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7B. Regional strategic bodies[^key-e62692fb4f4b0752dd30fec5bfdb245f]
+## 7B. Regional strategic bodies[^c-e62692fb4f4b0752dd30fec5bfdb245f]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e62692fb4f4b0752dd30fec5bfdb245f]: Textual amendment: [S. 7B](https://www.legislation.gov.uk/asp/2005/6/section/7B) inserted (3.3.2014 for specified purposes, 31.3.2015 in so far as not already in force) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 8(1)](https://www.legislation.gov.uk/asp/2013/12/section/8/1), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2014/21/article/3/1)); [S.S.I. 2015/82](https://www.legislation.gov.uk/ssi/2015/82), [art. 2](https://www.legislation.gov.uk/ssi/2015/82/article/2)
+[^c-e62692fb4f4b0752dd30fec5bfdb245f]: Textual amendment: [S. 7B](https://www.legislation.gov.uk/asp/2005/6/section/7B) inserted (3.3.2014 for specified purposes, 31.3.2015 in so far as not already in force) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 8(1)](https://www.legislation.gov.uk/asp/2013/12/section/8/1), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2014/21/article/3/1)); [S.S.I. 2015/82](https://www.legislation.gov.uk/ssi/2015/82), [art. 2](https://www.legislation.gov.uk/ssi/2015/82/article/2)

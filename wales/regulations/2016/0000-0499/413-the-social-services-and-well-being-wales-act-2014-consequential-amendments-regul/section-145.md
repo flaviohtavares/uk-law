@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**145.**[^key-5fe00d2662fdcb97a5fc355b150f1965] In section 75A[^f00161] (ordinary adoption leave) for subsection (1A)(c) substitute—
+**145.**[^c-5fe00d2662fdcb97a5fc355b150f1965] In section 75A[^f00161] (ordinary adoption leave) for subsection (1A)(c) substitute—
 
 > - (c) being notified—
 >   - (i) by a local authority in England that a child is to be, or is expected to be, placed with the employee under section 22C of the Children Act 1989;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5fe00d2662fdcb97a5fc355b150f1965]: Commencement: Reg. 145 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-5fe00d2662fdcb97a5fc355b150f1965]: Commencement: Reg. 145 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00161]: Footnote: Section 75A was inserted by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), section 3. Subsection (1A) was inserted by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 121(1).

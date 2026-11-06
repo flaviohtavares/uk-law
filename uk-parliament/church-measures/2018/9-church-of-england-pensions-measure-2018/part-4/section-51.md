@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 51. Diocesan widows and dependants committee[^key-bd539abdc57c797a7c7a52f21a05521b]
+## 51. Diocesan widows and dependants committee[^c-bd539abdc57c797a7c7a52f21a05521b]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd539abdc57c797a7c7a52f21a05521b]: Textual amendment: S. 51 repealed (14.5.2021) by [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [6](https://www.legislation.gov.uk/uksi/2021/554/article/6)
+[^c-bd539abdc57c797a7c7a52f21a05521b]: Textual amendment: S. 51 repealed (14.5.2021) by [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2021/554/article/1/3), [6](https://www.legislation.gov.uk/uksi/2021/554/article/6)

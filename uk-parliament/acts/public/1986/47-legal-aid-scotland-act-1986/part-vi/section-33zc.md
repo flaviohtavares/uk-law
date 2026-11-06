@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33ZC. Recovery where interim payment excessive[^key-1ebe3e9fffb33589cacc64a94afd7ee0]
+## 33ZC. Recovery where interim payment excessive[^c-1ebe3e9fffb33589cacc64a94afd7ee0]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ the Board may deduct all or part of the sum mentioned in paragraph (a) from the 
 
 ## Annotations
 
-[^key-1ebe3e9fffb33589cacc64a94afd7ee0]: Textual amendment: [Ss. 33ZB](https://www.legislation.gov.uk/ukpga/1986/47/section/33ZB), [33ZC](https://www.legislation.gov.uk/ukpga/1986/47/section/33ZC) and cross-heading inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 35(4)](https://www.legislation.gov.uk/asp/2022/8/section/35/4), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1) (with [s. 48(1)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/1/c)[(2)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/2/c)[(3)(b)](https://www.legislation.gov.uk/asp/2022/8/section/48/3/b))
+[^c-1ebe3e9fffb33589cacc64a94afd7ee0]: Textual amendment: [Ss. 33ZB](https://www.legislation.gov.uk/ukpga/1986/47/section/33ZB), [33ZC](https://www.legislation.gov.uk/ukpga/1986/47/section/33ZC) and cross-heading inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 35(4)](https://www.legislation.gov.uk/asp/2022/8/section/35/4), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1) (with [s. 48(1)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/1/c)[(2)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/2/c)[(3)(b)](https://www.legislation.gov.uk/asp/2022/8/section/48/3/b))

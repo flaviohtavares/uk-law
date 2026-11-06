@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 118. Certain tenancies excluded from debtor’s estate: Scotland.[^key-e3256a65a7aacf0639ca6d332a6407e4]
+## 118. Certain tenancies excluded from debtor’s estate: Scotland.[^c-e3256a65a7aacf0639ca6d332a6407e4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3256a65a7aacf0639ca6d332a6407e4]: Textual amendment: [S. 118](https://www.legislation.gov.uk/ukpga/1988/50/section/118) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-e3256a65a7aacf0639ca6d332a6407e4]: Textual amendment: [S. 118](https://www.legislation.gov.uk/ukpga/1988/50/section/118) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)

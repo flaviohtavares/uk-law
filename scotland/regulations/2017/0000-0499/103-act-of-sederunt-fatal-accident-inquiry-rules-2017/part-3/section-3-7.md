@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.7. Before the first preliminary hearing[^key-903c6d0bd909beda12fed2a0330acfe9]
+## 3.7. Before the first preliminary hearing[^c-903c6d0bd909beda12fed2a0330acfe9]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ Unless the sheriff orders otherwise, at least 7 days before the first preliminar
 
 ## Annotations
 
-[^key-903c6d0bd909beda12fed2a0330acfe9]: Commencement: [Rule 3.7](https://www.legislation.gov.uk/ssi/2017/103/rule/3.7) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-903c6d0bd909beda12fed2a0330acfe9]: Commencement: [Rule 3.7](https://www.legislation.gov.uk/ssi/2017/103/rule/3.7) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

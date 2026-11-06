@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 177. Postponement or cancellation of dividend[^key-7b6c88d9665d3160d8a1edc7ad503144]
+## 177. Postponement or cancellation of dividend[^c-7b6c88d9665d3160d8a1edc7ad503144]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the administrator may postpone or cancel the dividend.
 
 ## Annotations
 
-[^key-7b6c88d9665d3160d8a1edc7ad503144]: Commencement: [Rule 177](https://www.legislation.gov.uk/uksi/2011/1301/rule/177) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-7b6c88d9665d3160d8a1edc7ad503144]: Commencement: [Rule 177](https://www.legislation.gov.uk/uksi/2011/1301/rule/177) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

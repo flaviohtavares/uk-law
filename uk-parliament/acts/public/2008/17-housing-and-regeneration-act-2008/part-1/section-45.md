@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Support services[^key-0a214c9bd8579b180572563fefe4cce3]
+## 45. Support services[^c-0a214c9bd8579b180572563fefe4cce3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a214c9bd8579b180572563fefe4cce3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2008/17/section/45) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(t)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/t) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-0a214c9bd8579b180572563fefe4cce3]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2008/17/section/45) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(t)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/t) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

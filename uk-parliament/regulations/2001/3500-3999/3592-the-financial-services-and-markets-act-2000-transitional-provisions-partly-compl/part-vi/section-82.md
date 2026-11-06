@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Intervention measure stayed before commencement[^key-52bac388ed779fb2709c5150dfcf3a90]
+## 82. Intervention measure stayed before commencement[^c-52bac388ed779fb2709c5150dfcf3a90]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52bac388ed779fb2709c5150dfcf3a90]: Commencement: Art. 82 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-52bac388ed779fb2709c5150dfcf3a90]: Commencement: Art. 82 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Direction to progress airspace change proposal[^key-269e8d7779e68f42c96ebc2cbc010857]
+## 2. Direction to progress airspace change proposal[^c-269e8d7779e68f42c96ebc2cbc010857]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-269e8d7779e68f42c96ebc2cbc010857]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/12/section/2) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/b)
+[^c-269e8d7779e68f42c96ebc2cbc010857]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/12/section/2) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/b)

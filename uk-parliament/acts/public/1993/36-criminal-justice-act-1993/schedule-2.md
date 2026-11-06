@@ -22,7 +22,7 @@ summary: ''
 
 ### PART 1 — Securities
 
-**1.**[^key-a550fefcb0b35994e40f8ce2ffccd398] Transferable securities.
+**1.**[^c-a550fefcb0b35994e40f8ce2ffccd398] Transferable securities.
 
 **2.** Money-market instruments.
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a550fefcb0b35994e40f8ce2ffccd398]: Textual amendment: [Sch. 2 paras. 1-14](https://www.legislation.gov.uk/ukpga/1993/36/schedule/2/paragraph/1) substituted for Sch. 2 paras. 1-7 and headings (15.6.2023) by [The Insider Dealing (Securities and Regulated Markets) Order 2023 (S.I. 2023/582)](https://www.legislation.gov.uk/uksi/2023/582), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/582/article/1/1), [6](https://www.legislation.gov.uk/uksi/2023/582/article/6)
+[^c-a550fefcb0b35994e40f8ce2ffccd398]: Textual amendment: [Sch. 2 paras. 1-14](https://www.legislation.gov.uk/ukpga/1993/36/schedule/2/paragraph/1) substituted for Sch. 2 paras. 1-7 and headings (15.6.2023) by [The Insider Dealing (Securities and Regulated Markets) Order 2023 (S.I. 2023/582)](https://www.legislation.gov.uk/uksi/2023/582), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/582/article/1/1), [6](https://www.legislation.gov.uk/uksi/2023/582/article/6)

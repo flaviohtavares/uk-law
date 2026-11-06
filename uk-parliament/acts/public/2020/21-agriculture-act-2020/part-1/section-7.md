@@ -30,7 +30,7 @@ summary: ''
 
 (3) The “legislation governing the basic payment scheme” is—
 
-- (a) the following assimilated direct[^key-8ee3c6e3574645fd4f0a144c67b4b962] legislation—
+- (a) the following assimilated direct[^c-8ee3c6e3574645fd4f0a144c67b4b962] legislation—
   - (i) the Direct Payments Regulation;
   - (ii) any Council Delegated Regulation, or Commission Delegated Regulation, made under the Direct Payments Regulation;
   - (iii) any other assimilated direct legislation which relates to the operation of the basic payment scheme, and
@@ -53,4 +53,4 @@ summary: ''
 
 [^c24386011]: Commencement: S. 7 in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-8ee3c6e3574645fd4f0a144c67b4b962]: Textual amendment: Words in s. 7(3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/a)
+[^c-8ee3c6e3574645fd4f0a144c67b4b962]: Textual amendment: Words in s. 7(3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/a)

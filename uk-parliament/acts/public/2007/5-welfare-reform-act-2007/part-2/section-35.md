@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-8a28d7aaca0f49bb67a69f623b5f0cd5][^key-6c7269f71df73df1fa12808212a18c77] Section 5 of the Administration Act (regulations about claims and benefits) is amended as follows.
+(1)[^c-8a28d7aaca0f49bb67a69f623b5f0cd5][^c-6c7269f71df73df1fa12808212a18c77] Section 5 of the Administration Act (regulations about claims and benefits) is amended as follows.
 
-(2)[^key-8a28d7aaca0f49bb67a69f623b5f0cd5][^key-6c7269f71df73df1fa12808212a18c77] After subsection (2) insert—
+(2)[^c-8a28d7aaca0f49bb67a69f623b5f0cd5][^c-6c7269f71df73df1fa12808212a18c77] After subsection (2) insert—
 
 > (2A) The regulations may also require such persons as are prescribed to provide a rent officer with information or evidence of such description as is prescribed.
 >
@@ -30,12 +30,12 @@ summary: ''
 >
 > (2C) Information or evidence required to be provided by virtue of subsection (2A) may relate to an individual claim or award or to any description of claims or awards.
 
-(3)[^key-10f2f6293e75dda1bb531042d9125f37] Subsection (3) ceases to have effect.
+(3)[^c-10f2f6293e75dda1bb531042d9125f37] Subsection (3) ceases to have effect.
 
 ## Annotations
 
-[^key-8a28d7aaca0f49bb67a69f623b5f0cd5]: Commencement: S. 35(1)(2) in force at 1.10.2007 for specified purposes by [S.I. 2007/2872](https://www.legislation.gov.uk/uksi/2007/2872), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2007/2872/article/2/2/c) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2007/2872/article/3))
+[^c-8a28d7aaca0f49bb67a69f623b5f0cd5]: Commencement: S. 35(1)(2) in force at 1.10.2007 for specified purposes by [S.I. 2007/2872](https://www.legislation.gov.uk/uksi/2007/2872), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2007/2872/article/2/2/c) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2007/2872/article/3))
 
-[^key-6c7269f71df73df1fa12808212a18c77]: Commencement: S. 35(1)(2) in force at 7.4.2008 in so far as not already in force by [S.I. 2007/2872](https://www.legislation.gov.uk/uksi/2007/2872), [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/2872/article/2/3) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2007/2872/article/3))
+[^c-6c7269f71df73df1fa12808212a18c77]: Commencement: S. 35(1)(2) in force at 7.4.2008 in so far as not already in force by [S.I. 2007/2872](https://www.legislation.gov.uk/uksi/2007/2872), [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/2872/article/2/3) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2007/2872/article/3))
 
-[^key-10f2f6293e75dda1bb531042d9125f37]: Commencement: S. 35(3) in force at 7.4.2008 by [S.I. 2007/2872](https://www.legislation.gov.uk/uksi/2007/2872), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2007/2872/article/2/1/b)
+[^c-10f2f6293e75dda1bb531042d9125f37]: Commencement: S. 35(3) in force at 7.4.2008 by [S.I. 2007/2872](https://www.legislation.gov.uk/uksi/2007/2872), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2007/2872/article/2/1/b)

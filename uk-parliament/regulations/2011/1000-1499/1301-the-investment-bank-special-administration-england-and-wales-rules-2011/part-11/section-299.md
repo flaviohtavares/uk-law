@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 299. Electronic delivery of special administration documents to court[^key-e6ad7eccc0f8eccd4593a1fe37a2bbe8]
+## 299. Electronic delivery of special administration documents to court[^c-e6ad7eccc0f8eccd4593a1fe37a2bbe8]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6ad7eccc0f8eccd4593a1fe37a2bbe8]: Commencement: [Rule 299](https://www.legislation.gov.uk/uksi/2011/1301/rule/299) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-e6ad7eccc0f8eccd4593a1fe37a2bbe8]: Commencement: [Rule 299](https://www.legislation.gov.uk/uksi/2011/1301/rule/299) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

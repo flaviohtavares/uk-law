@@ -35,30 +35,30 @@ implementing Regulation (EC) No 1338/2008 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-f2b8cba727e08c7f5f2e1e0d45da5493]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2b8cba727e08c7f5f2e1e0d45da5493]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f2b8cba727e08c7f5f2e1e0d45da5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f2b8cba727e08c7f5f2e1e0d45da5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f2b8cba727e08c7f5f2e1e0d45da5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f2b8cba727e08c7f5f2e1e0d45da5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-f2b8cba727e08c7f5f2e1e0d45da5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-f2b8cba727e08c7f5f2e1e0d45da5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-f2b8cba727e08c7f5f2e1e0d45da5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-f2b8cba727e08c7f5f2e1e0d45da5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-f2b8cba727e08c7f5f2e1e0d45da5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-f2b8cba727e08c7f5f2e1e0d45da5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-f2b8cba727e08c7f5f2e1e0d45da5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-f2b8cba727e08c7f5f2e1e0d45da5493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2b8cba727e08c7f5f2e1e0d45da5493]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2b8cba727e08c7f5f2e1e0d45da5493]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Definitions[^key-f2b8cba727e08c7f5f2e1e0d45da5493]
+## ANNEX I — Definitions[^c-f2b8cba727e08c7f5f2e1e0d45da5493]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Subjects to be covered and their characteristics, cross-classification data and breakdowns[^key-f2b8cba727e08c7f5f2e1e0d45da5493]
+## ANNEX II — Subjects to be covered and their characteristics, cross-classification data and breakdowns[^c-f2b8cba727e08c7f5f2e1e0d45da5493]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f2b8cba727e08c7f5f2e1e0d45da5493]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 247](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/247); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2b8cba727e08c7f5f2e1e0d45da5493]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 247](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/247); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

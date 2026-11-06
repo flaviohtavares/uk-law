@@ -50,7 +50,7 @@ The Secretary of State for Innovation, Universities and Skills, with the consent
 
 These Regulations may be cited as the Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2008 and shall come into force on 6th April 2008.
 
-## 2. Amendment of the Measuring Instruments (EEC Requirements) (Fees) Regulations 2004[^key-6a43c73cb27c71543fe2f770c72810b4]
+## 2. Amendment of the Measuring Instruments (EEC Requirements) (Fees) Regulations 2004[^c-6a43c73cb27c71543fe2f770c72810b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -89,7 +89,7 @@ An impact assessment has not been produced for this instrument as it has a negli
 
 [^c19181931]: Marginal citation: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51).
 
-[^key-6a43c73cb27c71543fe2f770c72810b4]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/732/regulation/2) revoked (6.4.2012) by [The Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2012 (S.I. 2012/751)](https://www.legislation.gov.uk/uksi/2012/751), [regs. 1](https://www.legislation.gov.uk/uksi/2012/751/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2012/751/regulation/4/a)
+[^c-6a43c73cb27c71543fe2f770c72810b4]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/732/regulation/2) revoked (6.4.2012) by [The Measuring Instruments (EEC Requirements) (Fees) (Amendment) Regulations 2012 (S.I. 2012/751)](https://www.legislation.gov.uk/uksi/2012/751), [regs. 1](https://www.legislation.gov.uk/uksi/2012/751/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2012/751/regulation/4/a)
 
 [^c19181951]: Marginal citation: [S.I. 2006/604](https://www.legislation.gov.uk/uksi/2006/604).
 

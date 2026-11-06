@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and Commencement[^key-c152b5c02f01d150bfe96f82ae00e1f2]
+## 1. Citation and Commencement[^c-c152b5c02f01d150bfe96f82ae00e1f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Companies (Model Articles) Regulations 200
 
 ## Annotations
 
-[^key-c152b5c02f01d150bfe96f82ae00e1f2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-c152b5c02f01d150bfe96f82ae00e1f2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)

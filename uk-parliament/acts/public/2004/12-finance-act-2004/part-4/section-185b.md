@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185B. Annual profits and deemed profits[^key-79890481d89152f5bf23d7ff93235519][^key-14923a90fc6f1fca33b804f56d912e25]
+## 185B. Annual profits and deemed profits[^c-79890481d89152f5bf23d7ff93235519][^c-14923a90fc6f1fca33b804f56d912e25]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ DY is the number of days in the year.
 
 ## Annotations
 
-[^key-79890481d89152f5bf23d7ff93235519]: Modification: Ss. 185A-185I restricted by S.I. 2006/207, reg. 4B (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960), reg. 9)
+[^c-79890481d89152f5bf23d7ff93235519]: Modification: Ss. 185A-185I restricted by S.I. 2006/207, reg. 4B (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960), reg. 9)
 
-[^key-14923a90fc6f1fca33b804f56d912e25]: Textual amendment: Ss. 185A-185I and cross-heading inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/158/2), [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/21/paragraph/6)
+[^c-14923a90fc6f1fca33b804f56d912e25]: Textual amendment: Ss. 185A-185I and cross-heading inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/158/2), [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/21/paragraph/6)

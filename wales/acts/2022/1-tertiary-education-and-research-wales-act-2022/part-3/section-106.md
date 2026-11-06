@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Financial support for research and innovation: terms and conditions[^key-0f16ac80a7e0101cb482f57aa79df401]
+## 106. Financial support for research and innovation: terms and conditions[^c-0f16ac80a7e0101cb482f57aa79df401]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the Commission must have regard to the principle that decisions on individual re
 
 ## Annotations
 
-[^key-0f16ac80a7e0101cb482f57aa79df401]: Commencement: S. 106 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-0f16ac80a7e0101cb482f57aa79df401]: Commencement: S. 106 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)

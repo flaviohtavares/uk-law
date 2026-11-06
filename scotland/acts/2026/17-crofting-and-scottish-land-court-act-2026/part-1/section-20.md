@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Commission’s power to adjust boundaries[^key-73d4131f14180b80434c955b373370f1]
+## 20. Commission’s power to adjust boundaries[^c-73d4131f14180b80434c955b373370f1]
 
 *Extent: S*
 
@@ -129,4 +129,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73d4131f14180b80434c955b373370f1]: Commencement: S. 20 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-73d4131f14180b80434c955b373370f1]: Commencement: S. 20 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

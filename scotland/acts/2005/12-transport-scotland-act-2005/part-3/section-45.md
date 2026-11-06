@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Modification of Highlands and Islands Shipping Services Act 1960 and loans for transport-related purposes[^key-bf9b0a502bc6bc325c23d549b34ef903]
+## 45. Modification of Highlands and Islands Shipping Services Act 1960 and loans for transport-related purposes[^c-bf9b0a502bc6bc325c23d549b34ef903]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf9b0a502bc6bc325c23d549b34ef903]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2005/12/section/45) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-bf9b0a502bc6bc325c23d549b34ef903]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2005/12/section/45) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

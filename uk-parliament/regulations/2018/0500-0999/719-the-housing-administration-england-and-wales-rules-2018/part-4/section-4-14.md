@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.14. Notice of an order under section 176A(5)[^key-7864e949f4ca888b4f7a9edfbc28fbce]
+## 4.14. Notice of an order under section 176A(5)[^c-7864e949f4ca888b4f7a9edfbc28fbce]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7864e949f4ca888b4f7a9edfbc28fbce]: Commencement: Rule 4.14 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-7864e949f4ca888b4f7a9edfbc28fbce]: Commencement: Rule 4.14 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

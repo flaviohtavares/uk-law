@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Aggravating factor where foreign power condition met: armed forces[^key-00849fce31b9badc5067a6ab94330ff8][^key-0c75675c17f2dd188e6090d75bb4874a]
+## 22. Aggravating factor where foreign power condition met: armed forces[^c-00849fce31b9badc5067a6ab94330ff8][^c-0c75675c17f2dd188e6090d75bb4874a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In section 238 of the Armed Forces Act 2006 (deciding the seriousness of an offe
 
 ## Annotations
 
-[^key-00849fce31b9badc5067a6ab94330ff8]: Commencement: S. 22 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-00849fce31b9badc5067a6ab94330ff8]: Commencement: S. 22 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-0c75675c17f2dd188e6090d75bb4874a]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/32/section/22) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-0c75675c17f2dd188e6090d75bb4874a]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/32/section/22) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

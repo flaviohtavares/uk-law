@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Disclosing protected information about adults[^key-6265c9814a9a48a225a9baa23f33932f]
+## 60. Disclosing protected information about adults[^c-6265c9814a9a48a225a9baa23f33932f]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ and all the other circumstances of the case.
 
 ## Annotations
 
-[^key-6265c9814a9a48a225a9baa23f33932f]: Commencement: S. 60 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-6265c9814a9a48a225a9baa23f33932f]: Commencement: S. 60 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

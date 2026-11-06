@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Haldane principle, balanced funding and advice from UKRI[^key-b4174bc2e116917237bc6e8217140f0c]
+## 103. Haldane principle, balanced funding and advice from UKRI[^c-b4174bc2e116917237bc6e8217140f0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4174bc2e116917237bc6e8217140f0c]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2017/29/section/103) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-b4174bc2e116917237bc6e8217140f0c]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2017/29/section/103) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

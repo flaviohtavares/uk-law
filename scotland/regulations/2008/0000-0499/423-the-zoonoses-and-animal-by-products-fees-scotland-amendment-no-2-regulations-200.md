@@ -50,11 +50,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 56(1) and (2) of the Finance Act 1973[^f00001], and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-7b2576a7c97490670e39e4d3c746d867]
+## 1. Citation and commencement[^c-7b2576a7c97490670e39e4d3c746d867]
 
 These Regulations may be cited as the Zoonoses and Animal By-Products (Fees) (Scotland) Amendment (No. 2) Regulations 2008 and come into force on 25th January 2009.
 
-## 2. Amendment to the Zoonoses and Animal By-Products (Fees) (Scotland) Regulations 2007[^key-6276234a1d3ab302a5faf8d44dc0f732]
+## 2. Amendment to the Zoonoses and Animal By-Products (Fees) (Scotland) Regulations 2007[^c-6276234a1d3ab302a5faf8d44dc0f732]
 
 (1) The Zoonoses and Animal By-Products (Fees) (Scotland) Regulations 2007[^f00002] are amended in accordance with paragraphs (2) and (3) of this regulation.
 
@@ -102,8 +102,8 @@ A full Regulatory Impact Assessment has not been produced for this instrument. H
 
 [^f00001]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51). The reference to a Government department in section 56(1) is to be read as a reference to the Scottish Administration by virtue of article 2(2) of the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)). The functions of the Minister in charge of the department were transferred to the Scottish Ministers, in so far as within devolved competence, by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”). The requirement to obtain the consent of the Treasury was removed by section 55 of the 1998 Act.
 
-[^key-7b2576a7c97490670e39e4d3c746d867]: Commencement: Reg. 1 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/423/regulation/1)
+[^c-7b2576a7c97490670e39e4d3c746d867]: Commencement: Reg. 1 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/423/regulation/1)
 
-[^key-6276234a1d3ab302a5faf8d44dc0f732]: Commencement: Reg. 2 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/423/regulation/1)
+[^c-6276234a1d3ab302a5faf8d44dc0f732]: Commencement: Reg. 2 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/423/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2007/577](https://www.legislation.gov.uk/ssi/2007/577), as amended by [S.S.I. 2008/378](https://www.legislation.gov.uk/ssi/2008/378).

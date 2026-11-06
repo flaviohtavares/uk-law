@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 146D. Further circumstances in which a joint-claim jobseeker’s allowance is payable to a couple in hardship[^key-a9f7d199a4cd77af296ad770b5f6fedf]
+## 146D. Further circumstances in which a joint-claim jobseeker’s allowance is payable to a couple in hardship[^c-a9f7d199a4cd77af296ad770b5f6fedf]
 
 (1) This regulation applies to a couple in hardship falling within paragraph (2) but not paragraph (1) of regulation 146A and is subject to the provisions of regulations 146E and 146F.
 
@@ -32,15 +32,15 @@ and ending on the day before the claim is determined where the sole reason for t
 
 (4) A joint-claim jobseeker’s allowance shall not be payable in respect of the first 14 days of the period of suspension.
 
-(5) A joint-claim jobseeker’s allowance shall be payable to a couple in hardship even though the award of joint-claim jobseeker’s allowance has been reduced in accordance with section 19 or 19A or regulation 69B[^key-88091877dacbe583e2aee2174486a91f] but the allowance—
+(5) A joint-claim jobseeker’s allowance shall be payable to a couple in hardship even though the award of joint-claim jobseeker’s allowance has been reduced in accordance with section 19 or 19A or regulation 69B[^c-88091877dacbe583e2aee2174486a91f] but the allowance—
 
-- (a) shall not be payable under this paragraph in respect of the first 14 days of the period to which the reduction[^key-e9f24af927b6e9ff61cc4a10525c34d6] applies; and
+- (a) shall not be payable under this paragraph in respect of the first 14 days of the period to which the reduction[^c-e9f24af927b6e9ff61cc4a10525c34d6] applies; and
 - (b) shall be payable thereafter only where the conditions of entitlement to a joint-claim jobseeker’s allowance are satisfied or where one member satisfies those conditions and the other member comes within any paragraph in Schedule A1 (categories of members not required to satisfy conditions in section 1(2B)(b)).
 
 ## Annotations
 
-[^key-a9f7d199a4cd77af296ad770b5f6fedf]: Textual amendment: Pt. 9A inserted (19.3.2001) by [The Jobseeker’s Allowance (Joint Claims) Regulations 2000 (S.I. 2000/1978)](https://www.legislation.gov.uk/uksi/2000/1978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/2/3)
+[^c-a9f7d199a4cd77af296ad770b5f6fedf]: Textual amendment: Pt. 9A inserted (19.3.2001) by [The Jobseeker’s Allowance (Joint Claims) Regulations 2000 (S.I. 2000/1978)](https://www.legislation.gov.uk/uksi/2000/1978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/2/3)
 
-[^key-88091877dacbe583e2aee2174486a91f]: Textual amendment: Words in [reg. 146D(5)](https://www.legislation.gov.uk/uksi/1996/207/regulation/146D/5) substituted (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/4/5/a)
+[^c-88091877dacbe583e2aee2174486a91f]: Textual amendment: Words in [reg. 146D(5)](https://www.legislation.gov.uk/uksi/1996/207/regulation/146D/5) substituted (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/4/5/a)
 
-[^key-e9f24af927b6e9ff61cc4a10525c34d6]: Textual amendment: Words in [reg. 146D(5)(a)](https://www.legislation.gov.uk/uksi/1996/207/regulation/146D/5/a) substituted (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/4/5/b)
+[^c-e9f24af927b6e9ff61cc4a10525c34d6]: Textual amendment: Words in [reg. 146D(5)(a)](https://www.legislation.gov.uk/uksi/1996/207/regulation/146D/5/a) substituted (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/4/5/b)

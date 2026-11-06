@@ -34,7 +34,7 @@ An Act to confer functions on the Office of Communications; to make provision ab
 
 \[17th July 2003\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^M_C_b43926a4-ee2c-4080-c9d7-fffbc093daa8][^M_C_1b365475-eff8-42df-ea09-3b246657d42a][^M_C_b9a7db44-2daa-4610-bedb-e860886f501f][^M_C_7d990f05-b6ca-45bc-ed21-175012b8b909][^M_C_64669a8d-73e0-46c9-a00a-1a5ca6f89c81][^M_C_f4857364-6d25-4a68-8618-f8b3f1c4fb0f][^M_C_066cd71f-c331-497f-c74a-6228b508db6f][^M_C_0481f9fa-750d-475e-d698-3f71d7b18d43][^M_C_0ff0fba2-41a8-4e75-c338-b0d03f3c6fdd][^key-3a0538d98788e5fa5c691aac5ec74925][^M_C_60551f36-6df8-46ee-d623-f3892f7f81dc][^M_C_2b913ba2-1533-4337-e14a-264b5496e54a][^M_C_0983552f-f03a-4b10-b6ee-92eb53a543cb][^key-78d27ca0970bb91e78616f0462b5902b][^key-91a1a9fdd74b09e0f214158fb645784e][^key-4a796953e7a9cbd5d307e4fbba64edf2]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^M_C_b43926a4-ee2c-4080-c9d7-fffbc093daa8][^M_C_1b365475-eff8-42df-ea09-3b246657d42a][^M_C_b9a7db44-2daa-4610-bedb-e860886f501f][^M_C_7d990f05-b6ca-45bc-ed21-175012b8b909][^M_C_64669a8d-73e0-46c9-a00a-1a5ca6f89c81][^M_C_f4857364-6d25-4a68-8618-f8b3f1c4fb0f][^M_C_066cd71f-c331-497f-c74a-6228b508db6f][^M_C_0481f9fa-750d-475e-d698-3f71d7b18d43][^M_C_0ff0fba2-41a8-4e75-c338-b0d03f3c6fdd][^c-3a0538d98788e5fa5c691aac5ec74925][^M_C_60551f36-6df8-46ee-d623-f3892f7f81dc][^M_C_2b913ba2-1533-4337-e14a-264b5496e54a][^M_C_0983552f-f03a-4b10-b6ee-92eb53a543cb][^c-78d27ca0970bb91e78616f0462b5902b][^c-91a1a9fdd74b09e0f214158fb645784e][^c-4a796953e7a9cbd5d307e4fbba64edf2]
 
 ## Contents
 
@@ -47,7 +47,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 1 — Functions and general powers of OFCOM](part-1/section-1.md)
 - [Section 2 — Transfer of functions of pre-commencement regulators](part-1/section-2.md)
 
-#### Strategic priorities[^key-4fc48cf7157838cd62f08e0be63bdd7c]
+#### Strategic priorities[^c-4fc48cf7157838cd62f08e0be63bdd7c]
 
 - [Section 2A — Statement of strategic priorities](part-1/section-2a.md)
 - [Section 2B — Duties of OFCOM in relation to strategic priorities](part-1/section-2b.md)
@@ -227,13 +227,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 72A — Review of universal service order](part-2/section-72a.md)
 - [Section 72B — Broadband download speeds: duty to give direction under section 72A](part-2/section-72b.md)
 
-##### Further duty to review tariffs[^key-16b7f8037e3eca9bd7059c207ec9c2e6]
+##### Further duty to review tariffs[^c-16b7f8037e3eca9bd7059c207ec9c2e6]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 72C — Duty to review certain tariffs that are not universal service tariffs](part-2/section-72c.md)
 
-##### Social tariff conditions[^key-16b7f8037e3eca9bd7059c207ec9c2e6]
+##### Social tariff conditions[^c-16b7f8037e3eca9bd7059c207ec9c2e6]
 
 - [Section 72D — Social tariff conditions: procedure](part-2/section-72d.md)
 - [Section 72E — Consultation by OFCOM on proposed recommendation](part-2/section-72e.md)
@@ -288,7 +288,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 90 — Conditions about carrier selection and pre-selection](part-2/section-90.md)
 - [Section 91 — Conditions about regulation of services etc. for end-users](part-2/section-91.md)
 
-##### SMP services conditions: wholesale-only undertakings[^key-53ac08f81cb8f0f8d4574ee411d86e35]
+##### SMP services conditions: wholesale-only undertakings[^c-53ac08f81cb8f0f8d4574ee411d86e35]
 
 - [Section 91A — SMP services conditions: wholesale-only undertakings](part-2/section-91a.md)
 - [Section 92 — Conditions about leased lines](part-2/section-92.md)
@@ -297,7 +297,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 93 — Conditions about apparatus supply](part-2/section-93.md)
 
-##### Commitments by network provider[^key-55668106a1ca74a9aff59136d7e2358f]
+##### Commitments by network provider[^c-55668106a1ca74a9aff59136d7e2358f]
 
 - [Section 93A — Notification to OFCOM of proposed commitments](part-2/section-93a.md)
 - [Section 93B — Notification of proposed commitments relating to very high capacity network](part-2/section-93b.md)
@@ -328,7 +328,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 105 — Consideration and determination of network access questions](part-2/section-105.md)
 
-##### Security of public electronic communications networks and services[^key-c266856b9b0ba57d6a264dd96ca94769]
+##### Security of public electronic communications networks and services[^c-c266856b9b0ba57d6a264dd96ca94769]
 
 - [Section 105A — Duty to take security measures](part-2/section-105a.md)
 - [Section 105B — Duty to take specified security measures](part-2/section-105b.md)
@@ -357,7 +357,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 105Y — Statement of policy on ensuring compliance with security duties](part-2/section-105y.md)
 - [Section 105Z — OFCOM reports on security](part-2/section-105z.md)
 
-##### Security of public electronic communications networks and services: designated vendor directions[^key-33735bd1e2b0afc09fc7bcac61746aa6]
+##### Security of public electronic communications networks and services: designated vendor directions[^c-33735bd1e2b0afc09fc7bcac61746aa6]
 
 - [Section 105Z1 — Designated vendor directions](part-2/section-105z1.md)
 - [Section 105Z2 — Further provision about requirements](part-2/section-105z2.md)
@@ -422,7 +422,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 123 — Enforcement of s. 120 conditions](part-2/section-123.md)
 - [Section 124 — Suspending service provision for contraventions of s. 120 conditions](part-2/section-124.md)
 
-##### Online infringement of copyright: obligations of internet service providers[^key-a7b34e359845c441c15604900f4d0987]
+##### Online infringement of copyright: obligations of internet service providers[^c-a7b34e359845c441c15604900f4d0987]
 
 - [Section 124A — Obligation to notify subscribers of copyright infringement reports](part-2/section-124a.md)
 - [Section 124B — Obligation to provide copyright infringement lists to copyright owners](part-2/section-124b.md)
@@ -439,7 +439,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 124M — Sharing of costs](part-2/section-124m.md)
 - [Section 124N — Interpretation](part-2/section-124n.md)
 
-##### Powers in relation to internet domain registries[^key-1588df293203d3ca39a1d3afd70d3894]
+##### Powers in relation to internet domain registries[^c-1588df293203d3ca39a1d3afd70d3894]
 
 *Extent: E+W+S+N.I.*
 
@@ -448,12 +448,12 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 124Q — Functions of manager etc](part-2/section-124q.md)
 - [Section 124R — Application to court to alter constitution of internet domain registry](part-2/section-124r.md)
 
-##### Billing limits for mobile phones[^key-1721de178c32f6b6c6e51a8d67a9c62d]
+##### Billing limits for mobile phones[^c-1721de178c32f6b6c6e51a8d67a9c62d]
 
 - [Section 124S — Mobile phone providers' duty to enable billing limits to be applied](part-2/section-124s.md)
 - [Section 124T — Enforcement of duty to enable billing limits to be applied](part-2/section-124t.md)
 
-##### Rights of end-users in relation to contract termination[^key-8e0bef5504643adb8975d69aebb4a315]
+##### Rights of end-users in relation to contract termination[^c-8e0bef5504643adb8975d69aebb4a315]
 
 - [Section 124U — Rights of end-users in relation to contract termination](part-2/section-124u.md)
 - [Section 124V — Further rights relating to bundled contracts](part-2/section-124v.md)
@@ -483,7 +483,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 134 — Restrictions in leases and licences](part-2/section-134.md)
 
-##### Reports on infrastructure etc[^key-664126478f24a6febb38714cad6b23c6]
+##### Reports on infrastructure etc[^c-664126478f24a6febb38714cad6b23c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -493,11 +493,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 134AC — Use of reports](part-2/section-134ac.md)
 - [Section 134B — Networks and services matters](part-2/section-134b.md)
 
-##### Reports on internet domain names[^key-664126478f24a6febb38714cad6b23c6]
+##### Reports on internet domain names[^c-664126478f24a6febb38714cad6b23c6]
 
 - [Section 134C — OFCOM reports on internet domain names](part-2/section-134c.md)
 
-##### Comparative overviews[^key-06a370bd67f3e2b58e406604450ebc20]
+##### Comparative overviews[^c-06a370bd67f3e2b58e406604450ebc20]
 
 - [Section 134D — Comparative overviews of quality and prices](part-2/section-134d.md)
 
@@ -646,11 +646,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 197 — Interpretation of Chapter 3](part-2/section-197.md)
 
-### Part 3 — Television and Radio Services ETC[^M_C_7cded2cf-1d0b-4ffa-b5cd-c9ef819ff35a][^key-4a71c8cf1439410845dd3a021c3d8e35][^key-5c71e97c989bd8b3fcdc31301250a259][^key-32fe39e22e2cc2334acc2a3ea3ae815f]
+### Part 3 — Television and Radio Services ETC[^M_C_7cded2cf-1d0b-4ffa-b5cd-c9ef819ff35a][^c-4a71c8cf1439410845dd3a021c3d8e35][^c-5c71e97c989bd8b3fcdc31301250a259][^c-32fe39e22e2cc2334acc2a3ea3ae815f]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — The BBC, C4C , S4C and the Gaelic media service[^key-8b76f40606525b5ac3028f410ce97f39]
+#### Chapter 1 — The BBC, C4C , S4C and the Gaelic media service[^c-8b76f40606525b5ac3028f410ce97f39]
 
 ##### The BBC
 
@@ -673,7 +673,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 201 — Deficits and surpluses of C4C](part-3/section-201.md)
 - [Section 202 — Borrowing limit for C4C](part-3/section-202.md)
 
-##### S4C (Sianel Pedwar Cymru)[^key-31c8052b65f0e64660800132f0aee2d9]
+##### S4C (Sianel Pedwar Cymru)[^c-31c8052b65f0e64660800132f0aee2d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -692,7 +692,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 209 — Membership of the Service](part-3/section-209.md)
 - [Section 210 — Supplementary provisions about the Service](part-3/section-210.md)
 
-#### Chapter 2 — Regulatory Structure for Independent Television Services[^key-1054b3f8b8084d43c191ee1bc29154c9][^key-721a7acdcc7759a5d8e3202291623807]
+#### Chapter 2 — Regulatory Structure for Independent Television Services[^c-1054b3f8b8084d43c191ee1bc29154c9][^c-721a7acdcc7759a5d8e3202291623807]
 
 *Extent: E+W+S+N.I.*
 
@@ -714,7 +714,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 216A — Renewal of Channel 3 licences: determination of licence areas](part-3/section-216a.md)
 - [Section 217 — Financial terms of licence renewed under s. 216](part-3/section-217.md)
 
-##### ...[^key-cf9e62b9afacf9fb70c3317f6bb4e0a4]
+##### ...[^c-cf9e62b9afacf9fb70c3317f6bb4e0a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -730,7 +730,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 224 — Meaning of “initial expiry date”](part-3/section-224.md)
 
-##### Reviews relating to licensing of Channels 3 & 5 ...[^key-425465862fd0e2f347b9b64b6a7574b0]
+##### Reviews relating to licensing of Channels 3 & 5 ...[^c-425465862fd0e2f347b9b64b6a7574b0]
 
 - [Section 225 — Application for review of financial terms of replacement licences](part-3/section-225.md)
 - [Section 226 — Application for review of financial terms in consequence of new obligations](part-3/section-226.md)
@@ -806,7 +806,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 262 — Community radio](part-3/section-262.md)
 
-#### Chapter 4 — Regulatory provisions[^key-2b0dd74b875e9df627e7543d7949bf81][^key-04b1e6e3f90e3abf56ada2cdb923a414]
+#### Chapter 4 — Regulatory provisions[^c-2b0dd74b875e9df627e7543d7949bf81][^c-04b1e6e3f90e3abf56ada2cdb923a414]
 
 *Extent: E+W+S+N.I.*
 
@@ -862,7 +862,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 288 — Regional programme-making for Channel 4](part-3/section-288.md)
 - [Section 289 — Regional matters in the public teletext service](part-3/section-289.md)
 
-##### Provision of children's programmes[^key-89614dd47f166b07218d0f08ed56a1b0]
+##### Provision of children's programmes[^c-89614dd47f166b07218d0f08ed56a1b0]
 
 - [Section 289A — Provision of children's programmes](part-3/section-289a.md)
 
@@ -880,7 +880,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 296 — Schools programmes on Channel 4](part-3/section-296.md)
 - [Section 297 — Channel 4 contribution towards national television archive](part-3/section-297.md)
 
-##### ...[^key-9b71c74a0f97c064e3e1ca179dba1856]
+##### ...[^c-9b71c74a0f97c064e3e1ca179dba1856]
 
 - [Section 298 — Conditions prohibiting interference with other services](part-3/section-298.md)
 
@@ -891,7 +891,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 301 — Code relating to listed events](part-3/section-301.md)
 - [Section 302 — Regulations about coverage of listed events](part-3/section-302.md)
 
-##### Television services for people with disabilities[^key-51323b457f0eb99c03f9e6491ba35560]
+##### Television services for people with disabilities[^c-51323b457f0eb99c03f9e6491ba35560]
 
 *Extent: E+W+S+N.I.*
 
@@ -962,7 +962,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 335 — Conditions securing compliance with international obligations](part-3/section-335.md)
 
-##### Co-operation with other Member States and the European Commission[^key-ee174f9485062a5c982c56d651083066][^key-f194b1a28ae445077c1ccdd0884bc7f2]
+##### Co-operation with other Member States and the European Commission[^c-ee174f9485062a5c982c56d651083066][^c-f194b1a28ae445077c1ccdd0884bc7f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -977,16 +977,16 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 337 — Promotion of equal opportunities and training](part-3/section-337.md)
 
-##### Corresponding rules for the BBC and S4C[^key-fa486695bbc8774049ea876a82bcd699]
+##### Corresponding rules for the BBC and S4C[^c-fa486695bbc8774049ea876a82bcd699]
 
 - [Section 338 — Corresponding rules for the BBC and S4C](part-3/section-338.md)
 
-##### Information relating to certain OFCOM functions[^key-c0085586d99f8b970a2c070795430004]
+##### Information relating to certain OFCOM functions[^c-c0085586d99f8b970a2c070795430004]
 
 - [Section 338A — Power to require information](part-3/section-338a.md)
 - [Section 338B — Penalties for failure to provide information](part-3/section-338b.md)
 
-##### Enforcement against S4C[^key-6f5e5e7cbf4da1a0b9aa812905782e1f]
+##### Enforcement against S4C[^c-6f5e5e7cbf4da1a0b9aa812905782e1f]
 
 - [Section 339 — Review of fulfilment by S4C of public service remit](part-3/section-339.md)
 - [Section 340 — Directions to S4C to take remedial action](part-3/section-340.md)
@@ -1035,7 +1035,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 359 — Grants to providers](part-3/section-359.md)
 
-##### Financial assistance for radio[^key-c76f8fe0105bff8cfdcc46873263b04e]
+##### Financial assistance for radio[^c-c76f8fe0105bff8cfdcc46873263b04e]
 
 - [Section 359A — Power of the Secretary of State to give financial assistance for radio](part-3/section-359a.md)
 
@@ -1045,52 +1045,52 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 361 — Meaning of “available for reception by members of the public”](part-3/section-361.md)
 - [Section 362 — Interpretation of Part 3](part-3/section-362.md)
 
-### Part 3A — Prominence on television selection services[^key-d17d1a0cb71c026839c806d710980e5d]
+### Part 3A — Prominence on television selection services[^c-d17d1a0cb71c026839c806d710980e5d]
 
-#### Designated internet programme services[^key-d17d1a0cb71c026839c806d710980e5d]
+#### Designated internet programme services[^c-d17d1a0cb71c026839c806d710980e5d]
 
 - [Section 362AA — Designation of internet programme services](part-3a/section-362aa.md)
 - [Section 362AB — Revocation of designation](part-3a/section-362ab.md)
 - [Section 362AC — Statement relating to designation functions](part-3a/section-362ac.md)
 - [Section 362AD — Notifications in relation to designated internet programme services](part-3a/section-362ad.md)
 
-#### Regulated television selection services[^key-d17d1a0cb71c026839c806d710980e5d]
+#### Regulated television selection services[^c-d17d1a0cb71c026839c806d710980e5d]
 
 - [Section 362AE — Meaning of “television selection service”](part-3a/section-362ae.md)
 - [Section 362AF — Meaning of “regulated television selection service”](part-3a/section-362af.md)
 - [Section 362AG — Advice from OFCOM](part-3a/section-362ag.md)
 
-#### Notification by providers of television selection services[^key-d17d1a0cb71c026839c806d710980e5d]
+#### Notification by providers of television selection services[^c-d17d1a0cb71c026839c806d710980e5d]
 
 - [Section 362AH — Notification by providers of television selection services](part-3a/section-362ah.md)
 
-#### Lists of services[^key-d17d1a0cb71c026839c806d710980e5d]
+#### Lists of services[^c-d17d1a0cb71c026839c806d710980e5d]
 
 - [Section 362AI — Lists of services](part-3a/section-362ai.md)
 
-#### Must-offer and must-carry obligations[^key-d17d1a0cb71c026839c806d710980e5d]
+#### Must-offer and must-carry obligations[^c-d17d1a0cb71c026839c806d710980e5d]
 
 - [Section 362AJ — Must-offer obligations in the case of designated internet programme services](part-3a/section-362aj.md)
 - [Section 362AK — Must-carry obligations](part-3a/section-362ak.md)
 - [Section 362AL — Guidance as regards agreement objectives](part-3a/section-362al.md)
 - [Section 362AM — Meaning of “the agreement objectives”](part-3a/section-362am.md)
 
-#### Duties relating to a designated internet programme service[^key-d17d1a0cb71c026839c806d710980e5d]
+#### Duties relating to a designated internet programme service[^c-d17d1a0cb71c026839c806d710980e5d]
 
 - [Section 362AN — Duties relating to a designated internet programme service](part-3a/section-362an.md)
 
-#### Duties relating to a regulated television selection service[^key-d17d1a0cb71c026839c806d710980e5d]
+#### Duties relating to a regulated television selection service[^c-d17d1a0cb71c026839c806d710980e5d]
 
 - [Section 362AO — Duties relating to a regulated television selection service](part-3a/section-362ao.md)
 - [Section 362AP — Code of practice](part-3a/section-362ap.md)
 - [Section 362AQ — Effects of the code of practice](part-3a/section-362aq.md)
 - [Section 362AR — Issuing a code of practice](part-3a/section-362ar.md)
 
-#### Power to require information[^key-d17d1a0cb71c026839c806d710980e5d]
+#### Power to require information[^c-d17d1a0cb71c026839c806d710980e5d]
 
 - [Section 362AS — Power to require information](part-3a/section-362as.md)
 
-#### References of disputes to OFCOM[^key-d17d1a0cb71c026839c806d710980e5d]
+#### References of disputes to OFCOM[^c-d17d1a0cb71c026839c806d710980e5d]
 
 - [Section 362AT — References of disputes to OFCOM](part-3a/section-362at.md)
 - [Section 362AU — Action by OFCOM on reference of dispute](part-3a/section-362au.md)
@@ -1099,7 +1099,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 362AX — Resolution of referred disputes](part-3a/section-362ax.md)
 - [Section 362AY — Effect of referrals on legal proceedings](part-3a/section-362ay.md)
 
-#### Enforcement[^key-d17d1a0cb71c026839c806d710980e5d]
+#### Enforcement[^c-d17d1a0cb71c026839c806d710980e5d]
 
 - [Section 362AZ — Provisional notices of contravention](part-3a/section-362az.md)
 - [Section 362AZ1 — Confirmation decisions: general](part-3a/section-362az1.md)
@@ -1108,7 +1108,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 362AZ4 — Penalty for failure to comply with confirmation decisions](part-3a/section-362az4.md)
 - [Section 362AZ5 — Enforcement: guidance](part-3a/section-362az5.md)
 
-#### Supplemental provisions of Part 3A[^key-d17d1a0cb71c026839c806d710980e5d]
+#### Supplemental provisions of Part 3A[^c-d17d1a0cb71c026839c806d710980e5d]
 
 - [Section 362AZ6 — Fees](part-3a/section-362az6.md)
 - [Section 362AZ7 — Non-payment of fee](part-3a/section-362az7.md)
@@ -1118,9 +1118,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 362AZ11 — Application of Part 3A](part-3a/section-362az11.md)
 - [Section 362AZ12 — Interpretation of Part 3A](part-3a/section-362az12.md)
 
-### Part 3B — Regulation of radio selection services[^key-e4103f787fcf1ad554323202f39002ff]
+### Part 3B — Regulation of radio selection services[^c-e4103f787fcf1ad554323202f39002ff]
 
-#### Designated radio selection services[^key-e4103f787fcf1ad554323202f39002ff]
+#### Designated radio selection services[^c-e4103f787fcf1ad554323202f39002ff]
 
 - [Section 362BA — Meaning of “radio selection service”](part-3b/section-362ba.md)
 - [Section 362BB — Meaning of “designated radio selection service”](part-3b/section-362bb.md)
@@ -1128,13 +1128,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 362BD — Revocation of designation of radio selection service](part-3b/section-362bd.md)
 - [Section 362BE — List of designated radio selection services etc](part-3b/section-362be.md)
 
-#### Relevant internet radio services[^key-e4103f787fcf1ad554323202f39002ff]
+#### Relevant internet radio services[^c-e4103f787fcf1ad554323202f39002ff]
 
 - [Section 362BF — Meaning of “internet radio service”](part-3b/section-362bf.md)
 - [Section 362BG — Meaning of “relevant internet radio service”](part-3b/section-362bg.md)
 - [Section 362BH — Sections 362BF and 362BG: power to amend](part-3b/section-362bh.md)
 
-#### Regulation of radio selection services[^key-e4103f787fcf1ad554323202f39002ff]
+#### Regulation of radio selection services[^c-e4103f787fcf1ad554323202f39002ff]
 
 - [Section 362BI — Access to relevant internet radio services](part-3b/section-362bi.md)
 - [Section 362BJ — Further provision about access to relevant internet radio services](part-3b/section-362bj.md)
@@ -1143,16 +1143,16 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 362BM — Issuing a code of practice](part-3b/section-362bm.md)
 - [Section 362BN — Complaints procedures](part-3b/section-362bn.md)
 
-#### Modification of regulation of radio selection services[^key-e4103f787fcf1ad554323202f39002ff]
+#### Modification of regulation of radio selection services[^c-e4103f787fcf1ad554323202f39002ff]
 
 - [Section 362BO — Power to modify regulation](part-3b/section-362bo.md)
 - [Section 362BP — Review by OFCOM](part-3b/section-362bp.md)
 
-#### Power to require information[^key-e4103f787fcf1ad554323202f39002ff]
+#### Power to require information[^c-e4103f787fcf1ad554323202f39002ff]
 
 - [Section 362BQ — Power to require information](part-3b/section-362bq.md)
 
-#### Enforcement[^key-e4103f787fcf1ad554323202f39002ff]
+#### Enforcement[^c-e4103f787fcf1ad554323202f39002ff]
 
 - [Section 362BR — Provisional notices of contravention](part-3b/section-362br.md)
 - [Section 362BS — Confirmation decisions: general](part-3b/section-362bs.md)
@@ -1161,7 +1161,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 362BV — Penalty for failure to comply with confirmation decision](part-3b/section-362bv.md)
 - [Section 362BW — Enforcement: guidance](part-3b/section-362bw.md)
 
-#### Supplemental provisions of Part 3B[^key-e4103f787fcf1ad554323202f39002ff]
+#### Supplemental provisions of Part 3B[^c-e4103f787fcf1ad554323202f39002ff]
 
 - [Section 362BX — Fees](part-3b/section-362bx.md)
 - [Section 362BY — Non-payment of fee](part-3b/section-362by.md)
@@ -1183,13 +1183,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 367 — Interpretation of provisions about dealer notification](part-4/section-367.md)
 - [Section 368 — Meanings of “television receiver” and “use”](part-4/section-368.md)
 
-### PART 4A — ON-DEMAND PROGRAMME SERVICES[^key-8b5116708328654f497f918c49a3b13d]
+### PART 4A — ON-DEMAND PROGRAMME SERVICES[^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Introductory Provisions[^key-17b9afc15e4b0faa3cc4516ab2e7f506][^key-8b5116708328654f497f918c49a3b13d]
+#### Chapter 1 — Introductory Provisions[^c-17b9afc15e4b0faa3cc4516ab2e7f506][^c-8b5116708328654f497f918c49a3b13d]
 
-##### Preliminary[^key-8b5116708328654f497f918c49a3b13d]
+##### Preliminary[^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
@@ -1199,30 +1199,30 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 368AB — Overview of Part 4A](part-4a/section-368ab.md)
 - [Section 368B — The appropriate regulatory authority](part-4a/section-368b.md)
 
-#### Chapter 2 — Regulation of on-demand programme services[^key-810b11619fbb5ff8c0f78e0dcb0786a2][^key-8b5116708328654f497f918c49a3b13d]
+#### Chapter 2 — Regulation of on-demand programme services[^c-810b11619fbb5ff8c0f78e0dcb0786a2][^c-8b5116708328654f497f918c49a3b13d]
 
-##### List of providers[^key-46fd344e8af6416a1841fde9e0602f45][^key-8b5116708328654f497f918c49a3b13d]
+##### List of providers[^c-46fd344e8af6416a1841fde9e0602f45][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368BZA — Maintenance of list of providers](part-4a/section-368bza.md)
 
-##### Notification by providers[^key-1bc2cf6ba67c414642f1c2968cc69cbf][^key-8b5116708328654f497f918c49a3b13d]
+##### Notification by providers[^c-1bc2cf6ba67c414642f1c2968cc69cbf][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368BA — Advance notification to appropriate regulatory authority](part-4a/section-368ba.md)
 - [Section 368BB — Enforcement of section 368BA](part-4a/section-368bb.md)
 
-##### ...[^key-562e0d62ddcd376db1fe2743693d98e5][^key-502c922bae2c5c86efd9dbea5b2a68fb][^key-8b5116708328654f497f918c49a3b13d]
+##### ...[^c-562e0d62ddcd376db1fe2743693d98e5][^c-502c922bae2c5c86efd9dbea5b2a68fb][^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 368BC — Accessibility for people with disabilities](part-4a/section-368bc.md)
 - [Section 368BD — Enforcement of regulations under section 368BC](part-4a/section-368bd.md)
 
-##### Duties of the appropriate regulatory authority[^key-8b5116708328654f497f918c49a3b13d]
+##### Duties of the appropriate regulatory authority[^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368C — Duties of the appropriate regulatory authority](part-4a/section-368c.md)
 - [Section 368CA — Code on accessibility for people with disabilities](part-4a/section-368ca.md)
 
-##### Duties of service providers[^key-8b5116708328654f497f918c49a3b13d]
+##### Duties of service providers[^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
@@ -1234,38 +1234,38 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 368G — Sponsorship](part-4a/section-368g.md)
 - [Section 368H — Prohibition of product placement and exceptions](part-4a/section-368h.md)
 
-#### Chapter 3 — Regulation of Tier 1 services[^key-0077064997c0c904f94b6f95c9ba51d9][^key-8b5116708328654f497f918c49a3b13d]
+#### Chapter 3 — Regulation of Tier 1 services[^c-0077064997c0c904f94b6f95c9ba51d9][^c-8b5116708328654f497f918c49a3b13d]
 
-##### Meaning of Tier 1 service[^key-0077064997c0c904f94b6f95c9ba51d9][^key-8b5116708328654f497f918c49a3b13d]
+##### Meaning of Tier 1 service[^c-0077064997c0c904f94b6f95c9ba51d9][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368HA — Meaning of Tier 1 service](part-4a/section-368ha.md)
 - [Section 368HB — Power to specify Tier 1 services etc](part-4a/section-368hb.md)
 
-##### Duties relating to notification etc[^key-0077064997c0c904f94b6f95c9ba51d9][^key-8b5116708328654f497f918c49a3b13d]
+##### Duties relating to notification etc[^c-0077064997c0c904f94b6f95c9ba51d9][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368HC — Notification to OFCOM](part-4a/section-368hc.md)
 - [Section 368HD — Lists of Tier 1 providers](part-4a/section-368hd.md)
 
-##### Application etc of Chapter 2 to certain Tier 1 services[^key-0077064997c0c904f94b6f95c9ba51d9][^key-8b5116708328654f497f918c49a3b13d]
+##### Application etc of Chapter 2 to certain Tier 1 services[^c-0077064997c0c904f94b6f95c9ba51d9][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368HE — Application etc of Chapter 2 to certain Tier 1 services](part-4a/section-368he.md)
 
-##### Standards code for Tier 1 services[^key-0077064997c0c904f94b6f95c9ba51d9][^key-8b5116708328654f497f918c49a3b13d]
+##### Standards code for Tier 1 services[^c-0077064997c0c904f94b6f95c9ba51d9][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368HF — Standards code for Tier 1 services](part-4a/section-368hf.md)
 - [Section 368HG — Tier 1 standards code: special impartiality requirements](part-4a/section-368hg.md)
 - [Section 368HH — Tier 1 standards code: matters to be taken into account](part-4a/section-368hh.md)
 - [Section 368HI — Tier 1 standards code: procedural requirements](part-4a/section-368hi.md)
 
-##### Duties of Tier 1 providers as regards Tier 1 standards code[^key-0077064997c0c904f94b6f95c9ba51d9][^key-8b5116708328654f497f918c49a3b13d]
+##### Duties of Tier 1 providers as regards Tier 1 standards code[^c-0077064997c0c904f94b6f95c9ba51d9][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368HJ — Duties of Tier 1 providers to comply with Tier 1 standards code](part-4a/section-368hj.md)
 
-##### Complaints relating to Tier 1 standards code[^key-0077064997c0c904f94b6f95c9ba51d9][^key-8b5116708328654f497f918c49a3b13d]
+##### Complaints relating to Tier 1 standards code[^c-0077064997c0c904f94b6f95c9ba51d9][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368HK — Complaints relating to Tier 1 standards code](part-4a/section-368hk.md)
 
-##### Accessibility code for Tier 1 services[^key-0077064997c0c904f94b6f95c9ba51d9][^key-8b5116708328654f497f918c49a3b13d]
+##### Accessibility code for Tier 1 services[^c-0077064997c0c904f94b6f95c9ba51d9][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368HL — Accessibility code for Tier 1 services](part-4a/section-368hl.md)
 - [Section 368HM — Meaning of “relevant date”](part-4a/section-368hm.md)
@@ -1273,21 +1273,21 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 368HO — Tier 1 accessibility code: procedural requirements](part-4a/section-368ho.md)
 - [Section 368HP — Duty to comply with Tier 1 accessibility code](part-4a/section-368hp.md)
 
-##### Reports to Secretary of State[^key-0077064997c0c904f94b6f95c9ba51d9][^key-8b5116708328654f497f918c49a3b13d]
+##### Reports to Secretary of State[^c-0077064997c0c904f94b6f95c9ba51d9][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368HQ — Reports to Secretary of State](part-4a/section-368hq.md)
 
-##### Application of Chapter 3[^key-0077064997c0c904f94b6f95c9ba51d9][^key-8b5116708328654f497f918c49a3b13d]
+##### Application of Chapter 3[^c-0077064997c0c904f94b6f95c9ba51d9][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368HR — Application of Chapter 3](part-4a/section-368hr.md)
 - [Section 368I — Enforcement of service providers’ principal duties](part-4a/section-368i.md)
 - [Section 368IA — Enforcement of section 368E(4)](part-4a/section-368ia.md)
 
-#### Financial penalties[^key-8b5116708328654f497f918c49a3b13d]
+#### Financial penalties[^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368J — Financial penalties](part-4a/section-368j.md)
 
-#### Suspension or restriction of service[^key-8b5116708328654f497f918c49a3b13d]
+#### Suspension or restriction of service[^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
@@ -1296,11 +1296,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 368M — Supplementary provision about directions](part-4a/section-368m.md)
 - [Section 368N — Enforcement of directions under section 368K or 368L](part-4a/section-368n.md)
 
-#### Fees[^key-bbc64cd6cd7ad7713377e5fa798d0d8a][^key-8b5116708328654f497f918c49a3b13d]
+#### Fees[^c-bbc64cd6cd7ad7713377e5fa798d0d8a][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368NA — Fees](part-4a/section-368na.md)
 
-#### Information[^key-8b5116708328654f497f918c49a3b13d]
+#### Information[^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
@@ -1308,48 +1308,48 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 368OZA — Information powers: supplementary](part-4a/section-368oza.md)
 - [Section 368OA — Co-operation with EEA States](part-4a/section-368oa.md)
 
-#### Audience protection reviews etc[^key-895f96383faad5c286a6192c51f62f85][^key-8b5116708328654f497f918c49a3b13d]
+#### Audience protection reviews etc[^c-895f96383faad5c286a6192c51f62f85][^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368OB — Audience protection reviews etc](part-4a/section-368ob.md)
 
-#### Application and interpretation of Part 4A[^key-8b5116708328654f497f918c49a3b13d]
+#### Application and interpretation of Part 4A[^c-8b5116708328654f497f918c49a3b13d]
 
 - [Section 368P — Application of Part 4A in relation to the BBC](part-4a/section-368p.md)
 - [Section 368Q — Application of Part 4A in relation to the Welsh Authority](part-4a/section-368q.md)
 - [Section 368QA — Service of notices by OFCOM](part-4a/section-368qa.md)
 - [Section 368R — Interpretation of Part 4A](part-4a/section-368r.md)
 
-### PART 4B — VIDEO-SHARING PLATFORM SERVICES[^key-735de11d253e275728a3190b9941f322]
+### PART 4B — VIDEO-SHARING PLATFORM SERVICES[^c-735de11d253e275728a3190b9941f322]
 
 **No longer in force.**
 
-#### Preliminary[^key-735de11d253e275728a3190b9941f322]
+#### Preliminary[^c-735de11d253e275728a3190b9941f322]
 
 **No longer in force.**
 
 - [Section 368S — Meaning of “video-sharing platform service”](part-4b/section-368s.md)
 - [Section 368T — The appropriate regulatory authority](part-4b/section-368t.md)
 
-#### List of providers[^key-735de11d253e275728a3190b9941f322]
+#### List of providers[^c-735de11d253e275728a3190b9941f322]
 
 **No longer in force.**
 
 - [Section 368U — Maintenance of list of providers](part-4b/section-368u.md)
 
-#### Notification by providers[^key-735de11d253e275728a3190b9941f322]
+#### Notification by providers[^c-735de11d253e275728a3190b9941f322]
 
 **No longer in force.**
 
 - [Section 368V — Advance notification to appropriate regulatory authority](part-4b/section-368v.md)
 - [Section 368W — Enforcement of section 368V](part-4b/section-368w.md)
 
-#### Duties of the appropriate regulatory authority[^key-735de11d253e275728a3190b9941f322]
+#### Duties of the appropriate regulatory authority[^c-735de11d253e275728a3190b9941f322]
 
 **No longer in force.**
 
 - [Section 368X — Duties of the appropriate regulatory authority](part-4b/section-368x.md)
 
-#### Duties of service providers[^key-735de11d253e275728a3190b9941f322]
+#### Duties of service providers[^c-735de11d253e275728a3190b9941f322]
 
 **No longer in force.**
 
@@ -1357,7 +1357,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 368Z — Advertising etc controlled by service providers](part-4b/section-368z.md)
 - [Section 368Z1 — Duty to take appropriate measures](part-4b/section-368z1.md)
 
-#### Enforcement[^key-735de11d253e275728a3190b9941f322]
+#### Enforcement[^c-735de11d253e275728a3190b9941f322]
 
 **No longer in force.**
 
@@ -1365,7 +1365,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 368Z3 — Enforcement of section 368Z1(1) and (2)](part-4b/section-368z3.md)
 - [Section 368Z4 — Financial penalties](part-4b/section-368z4.md)
 
-#### Suspension or restriction of service[^key-735de11d253e275728a3190b9941f322]
+#### Suspension or restriction of service[^c-735de11d253e275728a3190b9941f322]
 
 **No longer in force.**
 
@@ -1374,13 +1374,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 368Z7 — Supplementary provision about directions](part-4b/section-368z7.md)
 - [Section 368Z8 — Enforcement of directions under section 368Z5 or 368Z6](part-4b/section-368z8.md)
 
-#### Fees[^key-735de11d253e275728a3190b9941f322]
+#### Fees[^c-735de11d253e275728a3190b9941f322]
 
 **No longer in force.**
 
 - [Section 368Z9 — Fees](part-4b/section-368z9.md)
 
-#### Information and reports[^key-735de11d253e275728a3190b9941f322]
+#### Information and reports[^c-735de11d253e275728a3190b9941f322]
 
 **No longer in force.**
 
@@ -1388,15 +1388,15 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 368Z11 — Reports by OFCOM](part-4b/section-368z11.md)
 - [Section 368Z12 — Co-operation with EEA States](part-4b/section-368z12.md)
 
-#### Interpretation of Part 4B[^key-735de11d253e275728a3190b9941f322]
+#### Interpretation of Part 4B[^c-735de11d253e275728a3190b9941f322]
 
 **No longer in force.**
 
 - [Section 368Z13 — Interpretation of Part 4B](part-4b/section-368z13.md)
 
-### PART 4C — Online advertising of less healthy food and drink[^key-02dd9f734f9de221efb556998936ddc9]
+### PART 4C — Online advertising of less healthy food and drink[^c-02dd9f734f9de221efb556998936ddc9]
 
-#### Advertising of less healthy food and drink[^key-02dd9f734f9de221efb556998936ddc9]
+#### Advertising of less healthy food and drink[^c-02dd9f734f9de221efb556998936ddc9]
 
 - [Section 368Z14 — Prohibition of paid-for advertising of less healthy food and drink](part-4c/section-368z14.md)
 - [Section 368Z15 — Enforcement](part-4c/section-368z15.md)
@@ -1464,7 +1464,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 392 — Penalties imposed by OFCOM](part-6/section-392.md)
 
-#### Penalties under Parts 3A and 3B etc[^key-2baea2cadf3c4ebd89992f2879c9e3d5]
+#### Penalties under Parts 3A and 3B etc[^c-2baea2cadf3c4ebd89992f2879c9e3d5]
 
 - [Section 392A — Amount of penalties etc](part-6/section-392a.md)
 - [Section 392B — Liability of parent entities etc](part-6/section-392b.md)
@@ -1529,11 +1529,11 @@ SCHEDULES
 - [SCHEDULE 18](schedule-18.md)
 - [SCHEDULE 19](schedule-19.md)
 
-## Chapter 4 — Enforcement: general[^key-af16ea86b01520bf6f60851c1fc3e2c9][^key-8b5116708328654f497f918c49a3b13d]
+## Chapter 4 — Enforcement: general[^c-af16ea86b01520bf6f60851c1fc3e2c9][^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
-## Chapter 5 — Supplementary[^key-e78c44fce169862a49670afd4b0e9074]
+## Chapter 5 — Supplementary[^c-e78c44fce169862a49670afd4b0e9074]
 
 *Extent: E+W+S+N.I.*
 
@@ -1557,7 +1557,7 @@ SCHEDULES
 
 [^M_C_0ff0fba2-41a8-4e75-c338-b0d03f3c6fdd]: Modification: Act: amendment to earlier affecting provision S.I. 2004/1944, art. 4, Sch. Pt. 2 (27.3.2015) by [The Community Radio (Amendment) Order 2015 (S.I. 2015/1000)](https://www.legislation.gov.uk/uksi/2015/1000), [arts. 3](https://www.legislation.gov.uk/uksi/2015/1000/article/3), [8](https://www.legislation.gov.uk/uksi/2015/1000/article/8) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1000/article/9))
 
-[^key-3a0538d98788e5fa5c691aac5ec74925]: Modification: Act: amendment to earlier affecting provision S.I. 2004/1944, art. 4, Sch. Pt. 2 (25.10.2019) by [The Small-scale Radio Multiplex and Community Digital Radio Order 2019 (S.I. 2019/1387)](https://www.legislation.gov.uk/uksi/2019/1387), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1), [7](https://www.legislation.gov.uk/uksi/2019/1387/article/7) (as amended by S.I. 2025/160, art. 9(3))
+[^c-3a0538d98788e5fa5c691aac5ec74925]: Modification: Act: amendment to earlier affecting provision S.I. 2004/1944, art. 4, Sch. Pt. 2 (25.10.2019) by [The Small-scale Radio Multiplex and Community Digital Radio Order 2019 (S.I. 2019/1387)](https://www.legislation.gov.uk/uksi/2019/1387), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1387/article/1), [7](https://www.legislation.gov.uk/uksi/2019/1387/article/7) (as amended by S.I. 2025/160, art. 9(3))
 
 [^M_C_60551f36-6df8-46ee-d623-f3892f7f81dc]: Modification: Act modified (3.5.2007) by [National Assembly for Wales Commission (Crown Status) Order 2007 (S.I. 2007/1118)](https://www.legislation.gov.uk/uksi/2007/1118), [art. 7](https://www.legislation.gov.uk/uksi/2007/1118/article/7)
 
@@ -1565,108 +1565,108 @@ SCHEDULES
 
 [^M_C_0983552f-f03a-4b10-b6ee-92eb53a543cb]: Modification: Act modified (Guernsey) (19.3.2013) by [The Community Radio (Guernsey) Order 2013 (S.I. 2013/243)](https://www.legislation.gov.uk/uksi/2013/243), [art. 5](https://www.legislation.gov.uk/uksi/2013/243/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/243/schedule/part/2)
 
-[^key-78d27ca0970bb91e78616f0462b5902b]: Modification: Act: power to extend conferred (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1), [119(7)(8)(d)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/8/d)
+[^c-78d27ca0970bb91e78616f0462b5902b]: Modification: Act: power to extend conferred (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1), [119(7)(8)(d)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/8/d)
 
-[^key-91a1a9fdd74b09e0f214158fb645784e]: Modification: Act applied by S.I. 1991/1220 (N.I. 11), art. 104(5) (as substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Primary Legislation) Regulations 2017 (S.I. 2017/1285)](https://www.legislation.gov.uk/uksi/2017/1285), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1285/regulation/1/1), [Sch. 1 para. 28(2)(c)](https://www.legislation.gov.uk/uksi/2017/1285/schedule/1/paragraph/28/2/c))
+[^c-91a1a9fdd74b09e0f214158fb645784e]: Modification: Act applied by S.I. 1991/1220 (N.I. 11), art. 104(5) (as substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Primary Legislation) Regulations 2017 (S.I. 2017/1285)](https://www.legislation.gov.uk/uksi/2017/1285), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1285/regulation/1/1), [Sch. 1 para. 28(2)(c)](https://www.legislation.gov.uk/uksi/2017/1285/schedule/1/paragraph/28/2/c))
 
-[^key-4a796953e7a9cbd5d307e4fbba64edf2]: Modification: Act modified (temp.) (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [49](https://www.legislation.gov.uk/uksi/2020/1062/regulation/49) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-4a796953e7a9cbd5d307e4fbba64edf2]: Modification: Act modified (temp.) (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [49](https://www.legislation.gov.uk/uksi/2020/1062/regulation/49) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-4fc48cf7157838cd62f08e0be63bdd7c]: Textual amendment: [Ss. 2A-2C](https://www.legislation.gov.uk/ukpga/2003/21/section/2A) and cross-heading inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/98/1), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/aa)
+[^c-4fc48cf7157838cd62f08e0be63bdd7c]: Textual amendment: [Ss. 2A-2C](https://www.legislation.gov.uk/ukpga/2003/21/section/2A) and cross-heading inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/98/1), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/aa)
 
-[^key-16b7f8037e3eca9bd7059c207ec9c2e6]: Textual amendment: Ss. 72C-72I and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/29) (with [reg. 6](https://www.legislation.gov.uk/uksi/2020/1419/regulation/6))
+[^c-16b7f8037e3eca9bd7059c207ec9c2e6]: Textual amendment: Ss. 72C-72I and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/29) (with [reg. 6](https://www.legislation.gov.uk/uksi/2020/1419/regulation/6))
 
-[^key-53ac08f81cb8f0f8d4574ee411d86e35]: Textual amendment: S. 91A and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/43)
+[^c-53ac08f81cb8f0f8d4574ee411d86e35]: Textual amendment: S. 91A and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/43)
 
-[^key-55668106a1ca74a9aff59136d7e2358f]: Textual amendment: Ss. 93A-93D and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/44)
+[^c-55668106a1ca74a9aff59136d7e2358f]: Textual amendment: Ss. 93A-93D and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/44)
 
-[^key-c266856b9b0ba57d6a264dd96ca94769]: Textual amendment: Ss. 105A-105D and cross-heading inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/65) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-c266856b9b0ba57d6a264dd96ca94769]: Textual amendment: Ss. 105A-105D and cross-heading inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/65) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-33735bd1e2b0afc09fc7bcac61746aa6]: Textual amendment: [Ss. 105Z1-105Z7](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z1) and cross-heading inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/15/2), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-33735bd1e2b0afc09fc7bcac61746aa6]: Textual amendment: [Ss. 105Z1-105Z7](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z1) and cross-heading inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/15/2), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
 
-[^key-a7b34e359845c441c15604900f4d0987]: Textual amendment: S. 124A and cross-heading inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 3](https://www.legislation.gov.uk/ukpga/2010/24/section/3), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-a7b34e359845c441c15604900f4d0987]: Textual amendment: S. 124A and cross-heading inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 3](https://www.legislation.gov.uk/ukpga/2010/24/section/3), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-1588df293203d3ca39a1d3afd70d3894]: Textual amendment: [S. 124O and cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/chapter/1/crossheading/powers-in-relation-to-internet-domain-registries) inserted (17.7.2023 for specified purposes, 6.4.2024 in so far as not already in force) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 19](https://www.legislation.gov.uk/ukpga/2010/24/section/19), [47(3)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/3/a); [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [arts. 2](https://www.legislation.gov.uk/uksi/2023/792/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2023/792/article/3/a)
+[^c-1588df293203d3ca39a1d3afd70d3894]: Textual amendment: [S. 124O and cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/chapter/1/crossheading/powers-in-relation-to-internet-domain-registries) inserted (17.7.2023 for specified purposes, 6.4.2024 in so far as not already in force) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 19](https://www.legislation.gov.uk/ukpga/2010/24/section/19), [47(3)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/3/a); [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [arts. 2](https://www.legislation.gov.uk/uksi/2023/792/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2023/792/article/3/a)
 
-[^key-1721de178c32f6b6c6e51a8d67a9c62d]: Textual amendment: Ss. 124S, 124T and cross-heading inserted (1.10.2018) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 102](https://www.legislation.gov.uk/ukpga/2017/30/section/102), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 4](https://www.legislation.gov.uk/uksi/2017/765/regulation/4)
+[^c-1721de178c32f6b6c6e51a8d67a9c62d]: Textual amendment: Ss. 124S, 124T and cross-heading inserted (1.10.2018) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 102](https://www.legislation.gov.uk/ukpga/2017/30/section/102), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 4](https://www.legislation.gov.uk/uksi/2017/765/regulation/4)
 
-[^key-8e0bef5504643adb8975d69aebb4a315]: Textual amendment: Ss. 124U-124W and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/54)
+[^c-8e0bef5504643adb8975d69aebb4a315]: Textual amendment: Ss. 124U-124W and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/54)
 
-[^key-664126478f24a6febb38714cad6b23c6]: Textual amendment: Ss. 134A-134C and cross-headings inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/1/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-664126478f24a6febb38714cad6b23c6]: Textual amendment: Ss. 134A-134C and cross-headings inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/1/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-06a370bd67f3e2b58e406604450ebc20]: Textual amendment: S. 134D and cross-heading inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/83/2), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
+[^c-06a370bd67f3e2b58e406604450ebc20]: Textual amendment: S. 134D and cross-heading inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/83/2), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
 
 [^M_C_7cded2cf-1d0b-4ffa-b5cd-c9ef819ff35a]: Modification: Pt. 3: amendment to earlier affecting provision [S.I. 2012/292](https://www.legislation.gov.uk/uksi/2012/292), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/292/schedule/part/2) (12.7.2012) by [The Broadcasting (Local Digital Television Programme Services and Independent Productions) (Amendment) Order 2012 (S.I. 2012/1842)](https://www.legislation.gov.uk/uksi/2012/1842), [art. 4](https://www.legislation.gov.uk/uksi/2012/1842/article/4)
 
-[^key-4a71c8cf1439410845dd3a021c3d8e35]: Modification: Pt. 3 applied (with modifications) (14.2.2012) by [The Local Digital Television Programme Services Order 2012 (S.I. 2012/292)](https://www.legislation.gov.uk/uksi/2012/292), [arts. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1), [4](https://www.legislation.gov.uk/uksi/2012/292/article/4), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/292/schedule/part/2)
+[^c-4a71c8cf1439410845dd3a021c3d8e35]: Modification: Pt. 3 applied (with modifications) (14.2.2012) by [The Local Digital Television Programme Services Order 2012 (S.I. 2012/292)](https://www.legislation.gov.uk/uksi/2012/292), [arts. 1](https://www.legislation.gov.uk/uksi/2012/292/article/1), [4](https://www.legislation.gov.uk/uksi/2012/292/article/4), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2012/292/schedule/part/2)
 
-[^key-5c71e97c989bd8b3fcdc31301250a259]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2003/21/part/3) modified (1.4.2025) by [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [4](https://www.legislation.gov.uk/uksi/2025/160/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2025/160/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2025/160/article/8))
+[^c-5c71e97c989bd8b3fcdc31301250a259]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2003/21/part/3) modified (1.4.2025) by [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [4](https://www.legislation.gov.uk/uksi/2025/160/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2025/160/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2025/160/article/8))
 
-[^key-32fe39e22e2cc2334acc2a3ea3ae815f]: Textual amendment: Word in Pt. 3 inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/2010/24/section/22/4), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-32fe39e22e2cc2334acc2a3ea3ae815f]: Textual amendment: Word in Pt. 3 inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/2010/24/section/22/4), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-8b76f40606525b5ac3028f410ce97f39]: Textual amendment: Word in [Pt. 3 Ch. 1](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/1) heading substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/31); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-8b76f40606525b5ac3028f410ce97f39]: Textual amendment: Word in [Pt. 3 Ch. 1](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/1) heading substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/31); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-31c8052b65f0e64660800132f0aee2d9]: Textual amendment: Words in [s. 203 cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/1/crossheading/the-welsh-authority) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/32/2); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-31c8052b65f0e64660800132f0aee2d9]: Textual amendment: Words in [s. 203 cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/1/crossheading/the-welsh-authority) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/32/2); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-1054b3f8b8084d43c191ee1bc29154c9]: Textual amendment: Ss. 214-244 amendment to earlier affecting provision SI 2003/3197 art. 6 Sch. 2 (31.3.2005) by [Communications (Jersey) (Amendment) Order 2005 (S.I. 2005/855)](https://www.legislation.gov.uk/uksi/2005/855), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/855/article/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2005/855/article/2/a/i)
+[^c-1054b3f8b8084d43c191ee1bc29154c9]: Textual amendment: Ss. 214-244 amendment to earlier affecting provision SI 2003/3197 art. 6 Sch. 2 (31.3.2005) by [Communications (Jersey) (Amendment) Order 2005 (S.I. 2005/855)](https://www.legislation.gov.uk/uksi/2005/855), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/855/article/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2005/855/article/2/a/i)
 
-[^key-721a7acdcc7759a5d8e3202291623807]: Textual amendment: Ss. 214-244 amendment to earlier affecting provision SI 2003/3195 art. 6 Sch. 2 (31.3.2005) by [Communications (Bailiwick of Guernsey) (Amendment) Order 2005 (S.I. 2005/856)](https://www.legislation.gov.uk/uksi/2005/856), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/856/article/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2005/856/article/2/a/i)
+[^c-721a7acdcc7759a5d8e3202291623807]: Textual amendment: Ss. 214-244 amendment to earlier affecting provision SI 2003/3195 art. 6 Sch. 2 (31.3.2005) by [Communications (Bailiwick of Guernsey) (Amendment) Order 2005 (S.I. 2005/856)](https://www.legislation.gov.uk/uksi/2005/856), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/856/article/1/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2005/856/article/2/a/i)
 
-[^key-cf9e62b9afacf9fb70c3317f6bb4e0a4]: Textual amendment: [S. 218 cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/2/crossheading/the-public-teletext-service) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/27); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-cf9e62b9afacf9fb70c3317f6bb4e0a4]: Textual amendment: [S. 218 cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/2/crossheading/the-public-teletext-service) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/27); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
 
-[^key-425465862fd0e2f347b9b64b6a7574b0]: Textual amendment: Words in [s. 225 cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/2/crossheading/reviews-relating-to-licensing-of-channels-3-5-and-teletext) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/29); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-425465862fd0e2f347b9b64b6a7574b0]: Textual amendment: Words in [s. 225 cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/2/crossheading/reviews-relating-to-licensing-of-channels-3-5-and-teletext) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/29); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
 
-[^key-2b0dd74b875e9df627e7543d7949bf81]: Textual amendment: Ss. 263-271 amendment to earlier affecting provision SI 2003/3197 art. 6 Sch. 2 (31.3.2005) by [Communications (Jersey) (Amendment) Order 2005 (S.I. 2005/855)](https://www.legislation.gov.uk/uksi/2005/855), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/855/article/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2005/855/article/2/a/ii)
+[^c-2b0dd74b875e9df627e7543d7949bf81]: Textual amendment: Ss. 263-271 amendment to earlier affecting provision SI 2003/3197 art. 6 Sch. 2 (31.3.2005) by [Communications (Jersey) (Amendment) Order 2005 (S.I. 2005/855)](https://www.legislation.gov.uk/uksi/2005/855), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/855/article/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2005/855/article/2/a/ii)
 
-[^key-04b1e6e3f90e3abf56ada2cdb923a414]: Textual amendment: Ss. 263-271 amendment to earlier affecting provision SI 2003/3195 art. 6 Sch. 2 (31.3.2005) by [Communications (Bailiwick of Guernsey) (Amendment) Order 2005 (S.I. 2005/856)](https://www.legislation.gov.uk/uksi/2005/856), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/856/article/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2005/856/article/2/a/ii)
+[^c-04b1e6e3f90e3abf56ada2cdb923a414]: Textual amendment: Ss. 263-271 amendment to earlier affecting provision SI 2003/3195 art. 6 Sch. 2 (31.3.2005) by [Communications (Bailiwick of Guernsey) (Amendment) Order 2005 (S.I. 2005/856)](https://www.legislation.gov.uk/uksi/2005/856), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/856/article/1/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2005/856/article/2/a/ii)
 
-[^key-89614dd47f166b07218d0f08ed56a1b0]: Textual amendment: S. 289A and cross-heading inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 90](https://www.legislation.gov.uk/ukpga/2017/30/section/90), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
+[^c-89614dd47f166b07218d0f08ed56a1b0]: Textual amendment: S. 289A and cross-heading inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 90](https://www.legislation.gov.uk/ukpga/2017/30/section/90), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
 
-[^key-9b71c74a0f97c064e3e1ca179dba1856]: Textual amendment: [S. 298 and cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/4/crossheading/special-obligation-for-the-public-teletext-provider) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/50); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-9b71c74a0f97c064e3e1ca179dba1856]: Textual amendment: [S. 298 and cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/4/crossheading/special-obligation-for-the-public-teletext-provider) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/50); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
 
-[^key-51323b457f0eb99c03f9e6491ba35560]: Textual amendment: Words in [s. 303 cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/4/crossheading/television-services-for-the-deaf-and-visually-impaired) substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1062/regulation/7) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-51323b457f0eb99c03f9e6491ba35560]: Textual amendment: Words in [s. 303 cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/4/crossheading/television-services-for-the-deaf-and-visually-impaired) substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1062/regulation/7) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-ee174f9485062a5c982c56d651083066]: Textual amendment: S. 335A and cross-heading inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/2979/regulation/7)
+[^c-ee174f9485062a5c982c56d651083066]: Textual amendment: S. 335A and cross-heading inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/2979/regulation/7)
 
-[^key-f194b1a28ae445077c1ccdd0884bc7f2]: Textual amendment: Words in [s. 335A cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/chapter/4/crossheading/cooperation-with-other-member-states) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2020/1062/regulation/13) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-f194b1a28ae445077c1ccdd0884bc7f2]: Textual amendment: Words in [s. 335A cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/chapter/4/crossheading/cooperation-with-other-member-states) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2020/1062/regulation/13) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-fa486695bbc8774049ea876a82bcd699]: Textual amendment: Word in [s. 338 cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/4/crossheading/corresponding-rules-for-the-bbc-and-welsh-authority) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 38(2)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/38/2); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-fa486695bbc8774049ea876a82bcd699]: Textual amendment: Word in [s. 338 cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/4/crossheading/corresponding-rules-for-the-bbc-and-welsh-authority) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 38(2)](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/38/2); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-c0085586d99f8b970a2c070795430004]: Textual amendment: [Ss. 338A](https://www.legislation.gov.uk/ukpga/2003/21/section/338A), [338B](https://www.legislation.gov.uk/ukpga/2003/21/section/338B) and cross-heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 18](https://www.legislation.gov.uk/ukpga/2024/15/section/18), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/b)
+[^c-c0085586d99f8b970a2c070795430004]: Textual amendment: [Ss. 338A](https://www.legislation.gov.uk/ukpga/2003/21/section/338A), [338B](https://www.legislation.gov.uk/ukpga/2003/21/section/338B) and cross-heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 18](https://www.legislation.gov.uk/ukpga/2024/15/section/18), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/b)
 
-[^key-6f5e5e7cbf4da1a0b9aa812905782e1f]: Textual amendment: Word in [s. 339 cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/4/crossheading/enforcement-against-the-welsh-authority) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 40](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/40); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-6f5e5e7cbf4da1a0b9aa812905782e1f]: Textual amendment: Word in [s. 339 cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/3/chapter/4/crossheading/enforcement-against-the-welsh-authority) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 40](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/40); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
 
-[^key-c76f8fe0105bff8cfdcc46873263b04e]: Textual amendment: S. 359A and cross-heading inserted (17.10.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 45](https://www.legislation.gov.uk/ukpga/2024/15/section/45), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/e)
+[^c-c76f8fe0105bff8cfdcc46873263b04e]: Textual amendment: S. 359A and cross-heading inserted (17.10.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 45](https://www.legislation.gov.uk/ukpga/2024/15/section/45), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/e)
 
-[^key-d17d1a0cb71c026839c806d710980e5d]: Textual amendment: Pt. 3A inserted (24.5.2024 for specified purposes, 23.8.2024 except for the insertion of ss. 362AA(1)(a)(c)(5)(8), 362AJ, 362AK, 362AO) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/28/1), [55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/h) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/2))
+[^c-d17d1a0cb71c026839c806d710980e5d]: Textual amendment: Pt. 3A inserted (24.5.2024 for specified purposes, 23.8.2024 except for the insertion of ss. 362AA(1)(a)(c)(5)(8), 362AJ, 362AK, 362AO) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/28/1), [55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/h) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/2))
 
-[^key-e4103f787fcf1ad554323202f39002ff]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/2003/21/part/3B) inserted (23.8.2024 except for the insertion of ss 362BI, 362BJ, 362BN) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 48(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/48/1), [55(3)(f)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/f); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/s)
+[^c-e4103f787fcf1ad554323202f39002ff]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/2003/21/part/3B) inserted (23.8.2024 except for the insertion of ss 362BI, 362BJ, 362BN) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 48(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/48/1), [55(3)(f)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/f); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/s)
 
-[^key-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
+[^c-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
 
-[^key-17b9afc15e4b0faa3cc4516ab2e7f506]: Textual amendment: [Pt. 4A Ch. 1](https://www.legislation.gov.uk/ukpga/2003/21/part/4A/chapter/1) heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/37/2), [55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/o)
+[^c-17b9afc15e4b0faa3cc4516ab2e7f506]: Textual amendment: [Pt. 4A Ch. 1](https://www.legislation.gov.uk/ukpga/2003/21/part/4A/chapter/1) heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/37/2), [55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/o)
 
-[^key-810b11619fbb5ff8c0f78e0dcb0786a2]: Textual amendment: [Pt. 4A Ch. 2](https://www.legislation.gov.uk/ukpga/2003/21/part/4A/chapter/2) heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 37(5)](https://www.legislation.gov.uk/ukpga/2024/15/section/37/5), [55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/o)
+[^c-810b11619fbb5ff8c0f78e0dcb0786a2]: Textual amendment: [Pt. 4A Ch. 2](https://www.legislation.gov.uk/ukpga/2003/21/part/4A/chapter/2) heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 37(5)](https://www.legislation.gov.uk/ukpga/2024/15/section/37/5), [55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/o)
 
-[^key-46fd344e8af6416a1841fde9e0602f45]: Textual amendment: [S. 368BZA](https://www.legislation.gov.uk/ukpga/2003/21/section/368BZA) and cross-heading inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2020/1062/regulation/25) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-46fd344e8af6416a1841fde9e0602f45]: Textual amendment: [S. 368BZA](https://www.legislation.gov.uk/ukpga/2003/21/section/368BZA) and cross-heading inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2020/1062/regulation/25) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-1bc2cf6ba67c414642f1c2968cc69cbf]: Textual amendment: Ss. 368BA, 368BB and cross-heading inserted (18.3.2010) by [The Audiovisual Media Services Regulations 2010 (S.I. 2010/419)](https://www.legislation.gov.uk/uksi/2010/419), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/419/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/419/regulation/4)
+[^c-1bc2cf6ba67c414642f1c2968cc69cbf]: Textual amendment: Ss. 368BA, 368BB and cross-heading inserted (18.3.2010) by [The Audiovisual Media Services Regulations 2010 (S.I. 2010/419)](https://www.legislation.gov.uk/uksi/2010/419), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/419/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/419/regulation/4)
 
-[^key-562e0d62ddcd376db1fe2743693d98e5]: Textual amendment: [S. 368BC cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/4A/crossheading/accessibility) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/4); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z2)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z2)
+[^c-562e0d62ddcd376db1fe2743693d98e5]: Textual amendment: [S. 368BC cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/part/4A/crossheading/accessibility) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/8/paragraph/4); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z2)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z2)
 
-[^key-502c922bae2c5c86efd9dbea5b2a68fb]: Textual amendment: Ss. 368BC, 368BD and cross-heading inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 93(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/93/2), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/y)
+[^c-502c922bae2c5c86efd9dbea5b2a68fb]: Textual amendment: Ss. 368BC, 368BD and cross-heading inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 93(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/93/2), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/y)
 
-[^key-0077064997c0c904f94b6f95c9ba51d9]: Textual amendment: [Pt. 4A Ch. 3](https://www.legislation.gov.uk/ukpga/2003/21/part/4A/chapter/3) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 5](https://www.legislation.gov.uk/ukpga/2024/15/schedule/5); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(y)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/y)
+[^c-0077064997c0c904f94b6f95c9ba51d9]: Textual amendment: [Pt. 4A Ch. 3](https://www.legislation.gov.uk/ukpga/2003/21/part/4A/chapter/3) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 5](https://www.legislation.gov.uk/ukpga/2024/15/schedule/5); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(y)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/y)
 
-[^key-bbc64cd6cd7ad7713377e5fa798d0d8a]: Textual amendment: S. 368NA and cross-heading inserted (18.3.2010) by [The Audiovisual Media Services Regulations 2010 (S.I. 2010/419)](https://www.legislation.gov.uk/uksi/2010/419), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/419/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2010/419/regulation/9) (with [reg. 13](https://www.legislation.gov.uk/uksi/2010/419/regulation/13))
+[^c-bbc64cd6cd7ad7713377e5fa798d0d8a]: Textual amendment: S. 368NA and cross-heading inserted (18.3.2010) by [The Audiovisual Media Services Regulations 2010 (S.I. 2010/419)](https://www.legislation.gov.uk/uksi/2010/419), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/419/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2010/419/regulation/9) (with [reg. 13](https://www.legislation.gov.uk/uksi/2010/419/regulation/13))
 
-[^key-895f96383faad5c286a6192c51f62f85]: Textual amendment: [S. 368OB](https://www.legislation.gov.uk/ukpga/2003/21/section/368OB) and cross-heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/38/1), [55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(p)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/p)
+[^c-895f96383faad5c286a6192c51f62f85]: Textual amendment: [S. 368OB](https://www.legislation.gov.uk/ukpga/2003/21/section/368OB) and cross-heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/38/1), [55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(p)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/p)
 
-[^key-735de11d253e275728a3190b9941f322]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/ukpga/2003/21/part/4B) omitted (25.7.2025) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 210(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/210/1), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1) (with [Sch. 17](https://www.legislation.gov.uk/ukpga/2023/50/schedule/17)); [S.I. 2025/888](https://www.legislation.gov.uk/uksi/2025/888), [reg. 2](https://www.legislation.gov.uk/uksi/2025/888/regulation/2)
+[^c-735de11d253e275728a3190b9941f322]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/ukpga/2003/21/part/4B) omitted (25.7.2025) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 210(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/210/1), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1) (with [Sch. 17](https://www.legislation.gov.uk/ukpga/2023/50/schedule/17)); [S.I. 2025/888](https://www.legislation.gov.uk/uksi/2025/888), [reg. 2](https://www.legislation.gov.uk/uksi/2025/888/regulation/2)
 
-[^key-02dd9f734f9de221efb556998936ddc9]: Textual amendment: Pt. 4C inserted (28.6.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/3)
+[^c-02dd9f734f9de221efb556998936ddc9]: Textual amendment: Pt. 4C inserted (28.6.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/4), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/18/paragraph/3)
 
-[^key-2baea2cadf3c4ebd89992f2879c9e3d5]: Textual amendment: [S. 392A](https://www.legislation.gov.uk/ukpga/2003/21/section/392A) and cross-heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/49/2), [55(3)(g)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/g); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(t)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/t)
+[^c-2baea2cadf3c4ebd89992f2879c9e3d5]: Textual amendment: [S. 392A](https://www.legislation.gov.uk/ukpga/2003/21/section/392A) and cross-heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/49/2), [55(3)(g)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/g); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(t)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/t)
 
-[^key-af16ea86b01520bf6f60851c1fc3e2c9]: Textual amendment: [Pt. 4A Ch. 4](https://www.legislation.gov.uk/ukpga/2003/21/part/4A/chapter/4) heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/2); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-af16ea86b01520bf6f60851c1fc3e2c9]: Textual amendment: [Pt. 4A Ch. 4](https://www.legislation.gov.uk/ukpga/2003/21/part/4A/chapter/4) heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/2); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
 
-[^key-e78c44fce169862a49670afd4b0e9074]: Textual amendment: [Pt. 4A Ch. 5](https://www.legislation.gov.uk/ukpga/2003/21/part/4A/chapter/5) heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/9); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)
+[^c-e78c44fce169862a49670afd4b0e9074]: Textual amendment: [Pt. 4A Ch. 5](https://www.legislation.gov.uk/ukpga/2003/21/part/4A/chapter/5) heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2024/15/schedule/6/paragraph/9); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z)

@@ -24,9 +24,9 @@ Section 96
 
 **1.** Schedule 36 to FA 2008 (information and inspection powers) is amended as follows.
 
-**2.**[^key-5d315f9f4675c67717956b91c51614f6] In paragraph 5(4)(b) (power to obtain information and documents about persons whose identity is not known), for the words from “, VATA 1994” to the end substitute “ or any other enactment relating to UK tax ”.
+**2.**[^c-5d315f9f4675c67717956b91c51614f6] In paragraph 5(4)(b) (power to obtain information and documents about persons whose identity is not known), for the words from “, VATA 1994” to the end substitute “ or any other enactment relating to UK tax ”.
 
-**3.**[^key-81b825f2cdd2635330f4f8938b3a3900] After paragraph 10 insert—
+**3.**[^c-81b825f2cdd2635330f4f8938b3a3900] After paragraph 10 insert—
 
 > **Power to inspect business premises etc of involved third parties**
 >
@@ -44,13 +44,13 @@ Section 96
 >
 > (4) In relation to an involved third party, “**relevant documents**” and “**relevant tax**” are defined in paragraph 61A.
 
-**4.**[^key-af20a94074cbc68b7c61fc1253ae4475] (1) Paragraph 12 (carrying out inspections) is amended as follows.
+**4.**[^c-af20a94074cbc68b7c61fc1253ae4475] (1) Paragraph 12 (carrying out inspections) is amended as follows.
 
 (2) In sub-paragraph (1), for “this Part of this Schedule” substitute “ paragraph 10, 10A or 11 ”.
 
 (3) Accordingly, in the heading, insert at the end “*under paragraph 10, 10A or 11*”.
 
-**5.**[^key-a2e6b4ad9edb6b02a69b5fe759add9b4] After that paragraph insert—
+**5.**[^c-a2e6b4ad9edb6b02a69b5fe759add9b4] After that paragraph insert—
 
 > **Powers to inspect property for valuation etc**
 >
@@ -101,7 +101,7 @@ Section 96
 > - (a) the occupier of the premises, or
 > - (b) any other person who appears to the officer to be in charge of the premises or property.
 
-**6.**[^key-c4961d1caef1fdf58eab462f77cb9bb7] (1) Paragraph 13 (approval of tribunal) is amended as follows.
+**6.**[^c-c4961d1caef1fdf58eab462f77cb9bb7] (1) Paragraph 13 (approval of tribunal) is amended as follows.
 
 (2) In sub-paragraph (1), insert at the end “(and for the effect of obtaining such approval see paragraph 39 (penalties))”.
 
@@ -121,15 +121,15 @@ Section 96
 >
 > (2B) Paragraph (c) of sub-paragraph (2A) does not apply if the tribunal is satisfied that the occupier of the premises cannot be identified.
 
-**7.**[^key-00fa4e8db3fef7ad874aebc9cd3d73ea] In paragraph 17(b) (power to record information), after “premises,” insert “ property, goods, ”.
+**7.**[^c-00fa4e8db3fef7ad874aebc9cd3d73ea] In paragraph 17(b) (power to record information), after “premises,” insert “ property, goods, ”.
 
-**8.**[^key-1aa8e11837e0a5334047a7da92b1edfb] (1) Paragraph 21 (restrictions on giving taxpayer notices) is amended as follows.
+**8.**[^c-1aa8e11837e0a5334047a7da92b1edfb] (1) Paragraph 21 (restrictions on giving taxpayer notices) is amended as follows.
 
 (2) In sub-paragraph (7), for “VAT position” substitute “ position as regards any tax other than income tax, capital gains tax or corporation tax ”.
 
 (3) In the heading, insert at the end “*following tax return*”.
 
-**9.**[^key-994ca3740f41d16bbe213a2eb651a6f9] After that paragraph insert—
+**9.**[^c-994ca3740f41d16bbe213a2eb651a6f9] After that paragraph insert—
 
 > **Taxpayer notices following land transaction return**
 >
@@ -154,9 +154,9 @@ Section 96
 >
 > (6) Condition C is that the notice is given for the purpose of obtaining any information or document that is also required for the purpose of checking that person's position as regards a tax other than stamp duty land tax.
 
-**10.**[^key-6a22e5aeebc4bbeb84a4a2b9ff249356] In paragraph 28 (restrictions on inspection of business documents), and in the heading before that paragraph, omit “*business*”.
+**10.**[^c-6a22e5aeebc4bbeb84a4a2b9ff249356] In paragraph 28 (restrictions on inspection of business documents), and in the heading before that paragraph, omit “*business*”.
 
-**11.**[^key-ee53a138dfd47ac1063605b84e0c7458] After paragraph 34 insert—
+**11.**[^c-ee53a138dfd47ac1063605b84e0c7458] After paragraph 34 insert—
 
 > **Involved third parties**
 >
@@ -226,12 +226,12 @@ Section 96
 > - “**responsible person**”, in relation to an employer-financed retirement benefits scheme, has the same meaning as in Chapter 2 of Part 6 of ITEPA 2003 (see section 399A of that Act);
 > - “**scheme administrator**”, in relation to a pension scheme, has the same meaning as in Part 4 of FA 2004 (see section 270 of that Act).
 
-**12.**[^key-9466dc5a01608a8872ecab5879f7118c] In paragraph 35 (special cases: groups of undertakings), in sub-paragraph (4A)(c) (inserted by Schedule 47)—
+**12.**[^c-9466dc5a01608a8872ecab5879f7118c] In paragraph 35 (special cases: groups of undertakings), in sub-paragraph (4A)(c) (inserted by Schedule 47)—
 
 - (a) for “paragraph 21” substitute “ paragraphs 21 and 21A ”, and
 - (b) for “applies” substitute “ apply ”.
 
-**13.**[^key-8b265f50cc08ea546c8c4acdad829a1e] In paragraph 37 (special cases: partnerships), after sub-paragraph (2) insert—
+**13.**[^c-8b265f50cc08ea546c8c4acdad829a1e] In paragraph 37 (special cases: partnerships), after sub-paragraph (2) insert—
 
 > (2A) Where, in respect of a transaction entered into as purchaser by or on behalf of the members of the partnership, any of the partners has—
 >
@@ -240,7 +240,7 @@ Section 96
 >
 > paragraph 21A (restrictions where taxpayer has delivered land transaction return) has effect as if that return had been delivered, or that claim had been made, by each of the partners.
 
-**14.**[^key-22e263bc48ad1814baebd15a032613c5] After paragraph 61 insert—
+**14.**[^c-22e263bc48ad1814baebd15a032613c5] After paragraph 61 insert—
 
 > **Involved third parties**
 >
@@ -265,7 +265,7 @@ Section 96
 
 .
 
-**15.**[^key-20dd1b3cb0d9feb5d7b423f0ba80fda0] (1) Paragraph 62 (meaning of “statutory records”) is amended as follows.
+**15.**[^c-20dd1b3cb0d9feb5d7b423f0ba80fda0] (1) Paragraph 62 (meaning of “statutory records”) is amended as follows.
 
 (2) In sub-paragraph (1), for paragraph (b) substitute—
 
@@ -277,30 +277,30 @@ Section 96
 
 ## Annotations
 
-[^key-5d315f9f4675c67717956b91c51614f6]: Commencement: Sch. 48 para. 2 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-5d315f9f4675c67717956b91c51614f6]: Commencement: Sch. 48 para. 2 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-81b825f2cdd2635330f4f8938b3a3900]: Commencement: Sch. 48 para. 3 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-81b825f2cdd2635330f4f8938b3a3900]: Commencement: Sch. 48 para. 3 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-af20a94074cbc68b7c61fc1253ae4475]: Commencement: Sch. 48 para. 4 in force at 1.4.2010 for the purposes of the amendments made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-af20a94074cbc68b7c61fc1253ae4475]: Commencement: Sch. 48 para. 4 in force at 1.4.2010 for the purposes of the amendments made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-a2e6b4ad9edb6b02a69b5fe759add9b4]: Commencement: Sch. 48 para. 5 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-a2e6b4ad9edb6b02a69b5fe759add9b4]: Commencement: Sch. 48 para. 5 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-c4961d1caef1fdf58eab462f77cb9bb7]: Commencement: Sch. 48 para. 6 in force at 1.4.2010 for the purposes of the amendments made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-c4961d1caef1fdf58eab462f77cb9bb7]: Commencement: Sch. 48 para. 6 in force at 1.4.2010 for the purposes of the amendments made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-00fa4e8db3fef7ad874aebc9cd3d73ea]: Commencement: Sch. 48 para. 7 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-00fa4e8db3fef7ad874aebc9cd3d73ea]: Commencement: Sch. 48 para. 7 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-1aa8e11837e0a5334047a7da92b1edfb]: Commencement: Sch. 48 para. 8 in force at 1.4.2010 for the purposes of the amendments made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-1aa8e11837e0a5334047a7da92b1edfb]: Commencement: Sch. 48 para. 8 in force at 1.4.2010 for the purposes of the amendments made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-994ca3740f41d16bbe213a2eb651a6f9]: Commencement: Sch. 48 para. 9 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-994ca3740f41d16bbe213a2eb651a6f9]: Commencement: Sch. 48 para. 9 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-6a22e5aeebc4bbeb84a4a2b9ff249356]: Commencement: Sch. 48 para. 10 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-6a22e5aeebc4bbeb84a4a2b9ff249356]: Commencement: Sch. 48 para. 10 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-ee53a138dfd47ac1063605b84e0c7458]: Commencement: Sch. 48 para. 11 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-ee53a138dfd47ac1063605b84e0c7458]: Commencement: Sch. 48 para. 11 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-9466dc5a01608a8872ecab5879f7118c]: Commencement: Sch. 48 para. 12 in force at 1.4.2010 for the purposes of the amendments made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-9466dc5a01608a8872ecab5879f7118c]: Commencement: Sch. 48 para. 12 in force at 1.4.2010 for the purposes of the amendments made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-8b265f50cc08ea546c8c4acdad829a1e]: Commencement: Sch. 48 para. 13 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-8b265f50cc08ea546c8c4acdad829a1e]: Commencement: Sch. 48 para. 13 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-22e263bc48ad1814baebd15a032613c5]: Commencement: Sch. 48 para. 14 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-22e263bc48ad1814baebd15a032613c5]: Commencement: Sch. 48 para. 14 in force at 1.4.2010 for the purposes of the amendment made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
 
-[^key-20dd1b3cb0d9feb5d7b423f0ba80fda0]: Commencement: Sch. 48 para. 15 in force at 1.4.2010 for the purposes of the amendments made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)
+[^c-20dd1b3cb0d9feb5d7b423f0ba80fda0]: Commencement: Sch. 48 para. 15 in force at 1.4.2010 for the purposes of the amendments made by that paragraph by [S.I. 2009/3054](https://www.legislation.gov.uk/uksi/2009/3054), [art. 2](https://www.legislation.gov.uk/uksi/2009/3054/article/2)

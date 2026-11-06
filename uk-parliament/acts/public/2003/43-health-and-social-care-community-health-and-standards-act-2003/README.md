@@ -34,7 +34,7 @@ An Act to amend the law about the National Health Service; to make provision abo
 
 \[20th November 2003\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-c96ac5c19b128386047b61dd4ce34e1b]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c96ac5c19b128386047b61dd4ce34e1b]
 
 ## Contents
 
@@ -125,7 +125,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 43 — Transfer of property etc to CHAI and CSCI](part-2/section-43.md)
 - [Section 44 — Abolition of former regulatory bodies](part-2/section-44.md)
 
-#### Chapter 2 — NHS health care: introductory[^key-dfce5068a19c9414dd471b2c244348f1]
+#### Chapter 2 — NHS health care: introductory[^c-dfce5068a19c9414dd471b2c244348f1]
 
 *Extent: E+W*
 
@@ -178,7 +178,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 69 — Power to require explanation](part-2/section-69.md)
 - [Section 69A — Provision of information by Auditor General for Wales](part-2/section-69a.md)
 
-#### Chapter 4 — NHS health care: functions of National Assembly for Wales[^key-b5fa01fa5632d7c50b63c157345d2a89]
+#### Chapter 4 — NHS health care: functions of National Assembly for Wales[^c-b5fa01fa5632d7c50b63c157345d2a89]
 
 *Extent: E+W*
 
@@ -223,7 +223,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 90 — Power to require information etc](part-2/section-90.md)
 - [Section 91 — Power to require explanation](part-2/section-91.md)
 
-#### Chapter 6 — Social services: functions of National Assembly for Wales[^key-d590b310fdfdf319f916e313f31b748d]
+#### Chapter 6 — Social services: functions of National Assembly for Wales[^c-d590b310fdfdf319f916e313f31b748d]
 
 *Extent: E+W*
 
@@ -500,10 +500,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-c96ac5c19b128386047b61dd4ce34e1b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2003/43) modified (Isles of Scilly) (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (Isles of Scilly) Order 2004 (S.I. 2004/567)](https://www.legislation.gov.uk/uksi/2004/567), [art. 2](https://www.legislation.gov.uk/uksi/2004/567/article/2)
+[^c-c96ac5c19b128386047b61dd4ce34e1b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2003/43) modified (Isles of Scilly) (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (Isles of Scilly) Order 2004 (S.I. 2004/567)](https://www.legislation.gov.uk/uksi/2004/567), [art. 2](https://www.legislation.gov.uk/uksi/2004/567/article/2)
 
-[^key-dfce5068a19c9414dd471b2c244348f1]: Modification: Pt. 2 Ch. 2 modified by 2004 c. 17, s. 10(4) (as substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [arts. 1(1), 15](https://www.legislation.gov.uk/uksi/2010/813/article/15))
+[^c-dfce5068a19c9414dd471b2c244348f1]: Modification: Pt. 2 Ch. 2 modified by 2004 c. 17, s. 10(4) (as substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [arts. 1(1), 15](https://www.legislation.gov.uk/uksi/2010/813/article/15))
 
-[^key-b5fa01fa5632d7c50b63c157345d2a89]: Modification: Pt. 2 Ch. 4 modified by 2004 c. 17, s. 10(4) (as substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [arts. 1(1), 15](https://www.legislation.gov.uk/uksi/2010/813/article/15))
+[^c-b5fa01fa5632d7c50b63c157345d2a89]: Modification: Pt. 2 Ch. 4 modified by 2004 c. 17, s. 10(4) (as substituted (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [arts. 1(1), 15](https://www.legislation.gov.uk/uksi/2010/813/article/15))
 
-[^key-d590b310fdfdf319f916e313f31b748d]: Textual amendment: Pt. 2 Ch. 6 repealed (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/18); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/d), [Sch.](https://www.legislation.gov.uk/wsi/2019/864/schedule) (with [arts. 3-13](https://www.legislation.gov.uk/wsi/2019/864/article/3))
+[^c-d590b310fdfdf319f916e313f31b748d]: Textual amendment: Pt. 2 Ch. 6 repealed (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 18](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/18); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/d), [Sch.](https://www.legislation.gov.uk/wsi/2019/864/schedule) (with [arts. 3-13](https://www.legislation.gov.uk/wsi/2019/864/article/3))

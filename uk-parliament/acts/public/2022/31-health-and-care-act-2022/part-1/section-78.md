@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Regulations as to patient choice[^key-f0d0460f61b6a4b5995d31958b6aca91][^key-19ffc9b44911fa90e458baacfb56871f]
+## 78. Regulations as to patient choice[^c-f0d0460f61b6a4b5995d31958b6aca91][^c-19ffc9b44911fa90e458baacfb56871f]
 
 *Extent: E+W*
 
@@ -83,6 +83,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f0d0460f61b6a4b5995d31958b6aca91]: Commencement: S. 78 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-f0d0460f61b6a4b5995d31958b6aca91]: Commencement: S. 78 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-19ffc9b44911fa90e458baacfb56871f]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2022/31/section/78) in force at 1.1.2024 by [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/a) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/5/1))
+[^c-19ffc9b44911fa90e458baacfb56871f]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2022/31/section/78) in force at 1.1.2024 by [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/a) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/5/1))

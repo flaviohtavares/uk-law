@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Date for digital switchover[^key-12ed69525573e81d306630813f0319f7]
+## 97A. Date for digital switchover[^c-12ed69525573e81d306630813f0319f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12ed69525573e81d306630813f0319f7]: Textual amendment: Ss. 97A 97B and cross-heading inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/30/2), [47(2)(b)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/b)
+[^c-12ed69525573e81d306630813f0319f7]: Textual amendment: Ss. 97A 97B and cross-heading inserted (8.4.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/30/2), [47(2)(b)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/2/b)

@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) This section applies where a penalty notice has been given to a person (“**the employer**”) under section 31 by a local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] in respect of a failure of a kind mentioned in subsection (2) of that section relating to an enforcement notice.
+(1) This section applies where a penalty notice has been given to a person (“**the employer**”) under section 31 by a local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] in respect of a failure of a kind mentioned in subsection (2) of that section relating to an enforcement notice.
 
 (2) The employer may, by giving notice (a “notice of objection”) to the authority, object to the giving of the penalty notice on one or more of the following grounds—
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

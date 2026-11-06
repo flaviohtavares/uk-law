@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**97.**[^key-cf1c1e467e85bb3bd9474781491598c2] In regulation 3(1)—
+**97.**[^c-cf1c1e467e85bb3bd9474781491598c2] In regulation 3(1)—
 
 - (a) omit the definition of “the Listed Buildings Act”;
 - (b) in the appropriate place, insert “the 2023 Act” (“*Deddf 2023*”) means the Historic Environment (Wales) Act 2023;”;
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf1c1e467e85bb3bd9474781491598c2]: Commencement: [Reg. 97](https://www.legislation.gov.uk/wsi/2024/924/regulation/97) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-cf1c1e467e85bb3bd9474781491598c2]: Commencement: [Reg. 97](https://www.legislation.gov.uk/wsi/2024/924/regulation/97) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 268. Time limits[^key-2eec6e7828d9a425bf1b569149a58972]
+## 268. Time limits[^c-2eec6e7828d9a425bf1b569149a58972]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 12.9(1) of the 1986 Rules[^f00090] as regards time limits for anythin
 
 ## Annotations
 
-[^key-2eec6e7828d9a425bf1b569149a58972]: Commencement: Rule 268 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-2eec6e7828d9a425bf1b569149a58972]: Commencement: Rule 268 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00090]: Footnote: Rule 12.9 was substituted by [S.I. 1999/1022](https://www.legislation.gov.uk/uksi/1999/1022).

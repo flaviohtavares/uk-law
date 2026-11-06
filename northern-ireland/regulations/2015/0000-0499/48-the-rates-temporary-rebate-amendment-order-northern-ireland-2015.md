@@ -54,8 +54,8 @@ This Order may be cited as the Rates (Temporary Rebate) (Amendment) Order (North
 
 In Article 31D of the Rates (Northern Ireland) Order 1977 (temporary rebate for certain previously unoccupied hereditaments etc.)—
 
-- (a)[^key-3439120d3d779e1240ebd0718ee81ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-3439120d3d779e1240ebd0718ee81ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3439120d3d779e1240ebd0718ee81ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3439120d3d779e1240ebd0718ee81ca5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph (5) for the definition of “F” there shall be substituted the following definition-
 
   > “**F**” means the first person to occupy the hereditament after the continuous period of unoccupancy mentioned in paragraph (3)(b);
@@ -86,6 +86,6 @@ The Order also revokes the Rates (Temporary Rebate) (Amendment) Order (Northern 
 
 [^c22445231]: Marginal citation: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); [Article 31D](https://www.legislation.gov.uk/nisr/2015/48/article/31D) was inserted by section 2 of the [Rates (Amendment) Act (Northern Ireland) 2012 (c.1 (N.I.))](https://www.legislation.gov.uk/nia/2012/1) and by S.R. [2013 No. 15](https://www.legislation.gov.uk/ukcm/2013/15)
 
-[^key-3439120d3d779e1240ebd0718ee81ca5]: Textual amendment: [Art. 2(a)(b)](https://www.legislation.gov.uk/nisr/2015/48/article/2/a/b) revoked (1.4.2016) by [The Rates (Temporary Rebate) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/18)](https://www.legislation.gov.uk/nisr/2016/18), [arts. 1](https://www.legislation.gov.uk/nisr/2016/18/article/1), [3](https://www.legislation.gov.uk/nisr/2016/18/article/3)
+[^c-3439120d3d779e1240ebd0718ee81ca5]: Textual amendment: [Art. 2(a)(b)](https://www.legislation.gov.uk/nisr/2015/48/article/2/a/b) revoked (1.4.2016) by [The Rates (Temporary Rebate) (Amendment) Order (Northern Ireland) 2016 (S.R. 2016/18)](https://www.legislation.gov.uk/nisr/2016/18), [arts. 1](https://www.legislation.gov.uk/nisr/2016/18/article/1), [3](https://www.legislation.gov.uk/nisr/2016/18/article/3)
 
 [^c22445241]: Marginal citation: S.R. [2013 No.15](https://www.legislation.gov.uk/ukcm/2013/15)

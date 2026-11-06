@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING; RATES
 
-The Income-Related Benefits and Jobseeker’s Allowance (Working Tax Credit and Child Tax Credit Amendment No. 2) Regulations (Northern Ireland) 2003 (revoked)[^key-cca46905acccd6e2e66b9cd9727c1cac]
+The Income-Related Benefits and Jobseeker’s Allowance (Working Tax Credit and Child Tax Credit Amendment No. 2) Regulations (Northern Ireland) 2003 (revoked)[^c-cca46905acccd6e2e66b9cd9727c1cac]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 6th April 2003
 
-[^key-cca46905acccd6e2e66b9cd9727c1cac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cca46905acccd6e2e66b9cd9727c1cac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-cca46905acccd6e2e66b9cd9727c1cac]
+## 1. Citation, commencement and interpretation[^c-cca46905acccd6e2e66b9cd9727c1cac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Income-Related Benefits and Jobseeker’s Allowance (Working Tax Credit and Child Tax Credit Amendment) Regulations[^key-cca46905acccd6e2e66b9cd9727c1cac]
+## 2. Amendment of the Income-Related Benefits and Jobseeker’s Allowance (Working Tax Credit and Child Tax Credit Amendment) Regulations[^c-cca46905acccd6e2e66b9cd9727c1cac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cca46905acccd6e2e66b9cd9727c1cac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cca46905acccd6e2e66b9cd9727c1cac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cca46905acccd6e2e66b9cd9727c1cac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cca46905acccd6e2e66b9cd9727c1cac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cca46905acccd6e2e66b9cd9727c1cac]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/196) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-cca46905acccd6e2e66b9cd9727c1cac]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/196) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))

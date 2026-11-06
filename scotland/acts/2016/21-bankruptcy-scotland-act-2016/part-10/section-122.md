@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Submission of claims to trustee[^key-677580f4be01059b5ec4bca91b075954]
+## 122. Submission of claims to trustee[^c-677580f4be01059b5ec4bca91b075954]
 
 *Extent: S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-677580f4be01059b5ec4bca91b075954]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2016/21/section/122) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-677580f4be01059b5ec4bca91b075954]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2016/21/section/122) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

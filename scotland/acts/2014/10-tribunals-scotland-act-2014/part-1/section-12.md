@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Principle to be observed[^key-226c8fe27b775a51b9fe8a9d64ae4ab7]
+## 12. Principle to be observed[^c-226c8fe27b775a51b9fe8a9d64ae4ab7]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-226c8fe27b775a51b9fe8a9d64ae4ab7]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/10/section/12) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-226c8fe27b775a51b9fe8a9d64ae4ab7]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/10/section/12) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

@@ -36,30 +36,30 @@ establishing a Community action programme in the field of civil protection
 
 (1999/847/EC) (revoked)
 
-[^key-cee0655c68902a4c63d22e201b34d6bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cee0655c68902a4c63d22e201b34d6bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-cee0655c68902a4c63d22e201b34d6bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-cee0655c68902a4c63d22e201b34d6bf]
+## ANNEX[^c-cee0655c68902a4c63d22e201b34d6bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cee0655c68902a4c63d22e201b34d6bf]: Textual amendment: Decision revoked (14.8.2021) by [The Union Civil Protection Mechanism (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/896)](https://www.legislation.gov.uk/uksi/2021/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/896/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2021/896/regulation/2/a)
+[^c-cee0655c68902a4c63d22e201b34d6bf]: Textual amendment: Decision revoked (14.8.2021) by [The Union Civil Protection Mechanism (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/896)](https://www.legislation.gov.uk/uksi/2021/896), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/896/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2021/896/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34V. Return of allowances: notice to operator, etc.[^key-9df07e4cff1aa5b85e9f5e409534e082]
+## 34V. Return of allowances: notice to operator, etc.[^c-9df07e4cff1aa5b85e9f5e409534e082]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9df07e4cff1aa5b85e9f5e409534e082]: Textual amendment: Pt. 4A inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [18](https://www.legislation.gov.uk/uksi/2020/1557/article/18)
+[^c-9df07e4cff1aa5b85e9f5e409534e082]: Textual amendment: Pt. 4A inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [18](https://www.legislation.gov.uk/uksi/2020/1557/article/18)

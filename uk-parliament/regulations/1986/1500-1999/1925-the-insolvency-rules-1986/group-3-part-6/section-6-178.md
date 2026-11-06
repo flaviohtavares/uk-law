@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.178. Trustee's notice of disclaimer[^key-1de499dd62a1a11ca55d089f47742768]
+## 6.178. Trustee's notice of disclaimer[^c-1de499dd62a1a11ca55d089f47742768]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ The court shall cause to be endorsed on the original notice, or otherwise record
 
 ## Annotations
 
-[^key-1de499dd62a1a11ca55d089f47742768]: Commencement: [Rule 6.178](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.178) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1de499dd62a1a11ca55d089f47742768]: Commencement: [Rule 6.178](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.178) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00185]: Marginal citation: \[FORM 6.61\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Amendment of regulation H4[^key-df0b4ae56e44ea88b01530a7875b95cf]
+## 8. Amendment of regulation H4[^c-df0b4ae56e44ea88b01530a7875b95cf]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ For regulation H4(2) (child allowance when member dies after pension becomes pay
 
 ## Annotations
 
-[^key-df0b4ae56e44ea88b01530a7875b95cf]: Commencement: Reg. 8 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-df0b4ae56e44ea88b01530a7875b95cf]: Commencement: Reg. 8 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)

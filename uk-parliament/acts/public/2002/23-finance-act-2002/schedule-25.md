@@ -28,143 +28,143 @@ Section 82
 
 Chapter 2 of Part 4 of the Finance Act 1996 (c. 8) (loan relationships) is amended in accordance with the following provisions of this Part of this Schedule.
 
-#### 2. Meaning of “loan relationship” etc: method of settlement[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 2. Meaning of “loan relationship” etc: method of settlement[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Non-trading deficit on loan relationships[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 3. Non-trading deficit on loan relationships[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Debits and credits brought into account[^key-7652b460f172debbd8db163bf50e9adb]
+#### 4. Debits and credits brought into account[^c-7652b460f172debbd8db163bf50e9adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Authorised accounting methods[^key-7652b460f172debbd8db163bf50e9adb]
+#### 5. Authorised accounting methods[^c-7652b460f172debbd8db163bf50e9adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Application of accounting methods[^key-7652b460f172debbd8db163bf50e9adb]
+#### 6. Application of accounting methods[^c-7652b460f172debbd8db163bf50e9adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Accounting method where parties have a connection[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 7. Accounting method where parties have a connection[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Meaning of “control” in section 87[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 8. Meaning of “control” in section 87[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Inconsistent application of accounting methods[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 9. Inconsistent application of accounting methods[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Changes of accounting method[^key-b2856ac86860ac5e423efa8abb934a1b]
+#### 10. Changes of accounting method[^c-b2856ac86860ac5e423efa8abb934a1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Payments subject to deduction of tax[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 11. Payments subject to deduction of tax[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Indexed gilt-edged securities[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 12. Indexed gilt-edged securities[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Manufactured interest[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 13. Manufactured interest[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Interpretation: “shares” not to include building society shares[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 14. Interpretation: “shares” not to include building society shares[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Interpretation: miscellaneous[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 15. Interpretation: miscellaneous[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Provision continuing to be made on accruals basis after company ceases to be party[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 16. Provision continuing to be made on accruals basis after company ceases to be party[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Claims to treat deficit as eligible for group relief[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 17. Claims to treat deficit as eligible for group relief[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Claim to carry back deficit to previous accounting periods[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 18. Claim to carry back deficit to previous accounting periods[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Deficit carried forward and set against non-trading profits of succeeding accounting periods[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 19. Deficit carried forward and set against non-trading profits of succeeding accounting periods[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Distributions[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 20. Distributions[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Life assurance policies and capital redemption policies[^key-a546ca535c1cc84669475f4a7132f86a]
+#### 21. Life assurance policies and capital redemption policies[^c-a546ca535c1cc84669475f4a7132f86a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Late interest: further cases where paragraph 2 of Schedule 9 applies[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 22. Late interest: further cases where paragraph 2 of Schedule 9 applies[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Bad debts and consortium relief[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 23. Bad debts and consortium relief[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Bad debt etc where parties have a connection[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 24. Bad debt etc where parties have a connection[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Bad debt etc: parties having connection and creditor company in insolvent liquidation etc[^key-e9d38acd4afbe84a693fe6d452cd5c94]
+#### 25. Bad debt etc: parties having connection and creditor company in insolvent liquidation etc[^c-e9d38acd4afbe84a693fe6d452cd5c94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26.[^key-909eebbeafc9d08b65cc9b896ffc1f0c]
+#### 26.[^c-909eebbeafc9d08b65cc9b896ffc1f0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Bad debt etc: departure not permitted by paragraph 6: subsequent cessation of connection[^key-44d248774e8ea12fed14d0f523a0bee4]
+#### 27. Bad debt etc: departure not permitted by paragraph 6: subsequent cessation of connection[^c-44d248774e8ea12fed14d0f523a0bee4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 28. Imported losses etc[^key-44d248774e8ea12fed14d0f523a0bee4]
+#### 28. Imported losses etc[^c-44d248774e8ea12fed14d0f523a0bee4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 29. Continuity of treatment: groups etc[^key-44d248774e8ea12fed14d0f523a0bee4]
+#### 29. Continuity of treatment: groups etc[^c-44d248774e8ea12fed14d0f523a0bee4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 30. Loan relationships for unallowable purposes[^key-44d248774e8ea12fed14d0f523a0bee4]
+#### 30. Loan relationships for unallowable purposes[^c-44d248774e8ea12fed14d0f523a0bee4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 31. Debits and credits treated as relating to capital expenditure[^key-44d248774e8ea12fed14d0f523a0bee4]
+#### 31. Debits and credits treated as relating to capital expenditure[^c-44d248774e8ea12fed14d0f523a0bee4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 32. Repo transactions and stock lending[^key-fb890cec9c4b5509d01b469166b44561]
+#### 32. Repo transactions and stock lending[^c-fb890cec9c4b5509d01b469166b44561]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 33. Discounted securities where companies have a connection[^key-44d248774e8ea12fed14d0f523a0bee4]
+#### 33. Discounted securities where companies have a connection[^c-44d248774e8ea12fed14d0f523a0bee4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 34. Discounted securities of close companies[^key-44d248774e8ea12fed14d0f523a0bee4]
+#### 34. Discounted securities of close companies[^c-44d248774e8ea12fed14d0f523a0bee4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 35. Partnerships involving companies[^key-44d248774e8ea12fed14d0f523a0bee4]
+#### 35. Partnerships involving companies[^c-44d248774e8ea12fed14d0f523a0bee4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 36. Interpretation of Schedule 9: “major interest”[^key-44d248774e8ea12fed14d0f523a0bee4]
+#### 36. Interpretation of Schedule 9: “major interest”[^c-44d248774e8ea12fed14d0f523a0bee4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -267,7 +267,7 @@ For paragraph 3 of that Schedule substitute—
 
 .
 
-#### 40. Life assurance business[^key-2d9ab32cafee86bdd1c6f09477614a0c]
+#### 40. Life assurance business[^c-2d9ab32cafee86bdd1c6f09477614a0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -339,59 +339,59 @@ The Taxes Act 1988 is amended as follows.
 
 In section 77(2)(a) (meaning of “qualifying loan” etc) omit sub-paragraph (ii) (interest deductible under section 338 against total profits).
 
-##### 45. Group relief[^key-e883b9fe8f4dec946f2d7f6343f9cd2c]
+##### 45. Group relief[^c-e883b9fe8f4dec946f2d7f6343f9cd2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 46.[^key-27f3437bb15925358b1eb3a462792184]
+##### 46.[^c-27f3437bb15925358b1eb3a462792184]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 47. Building society shares: regulations for deduction of tax[^key-6b3658dff55457f9b061c9021e243205]
+##### 47. Building society shares: regulations for deduction of tax[^c-6b3658dff55457f9b061c9021e243205]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 48. Building society shares: incidental costs of issuing qualifying shares[^key-fa82dbd6d7b3cb88bfe999590449bde1]
+##### 48. Building society shares: incidental costs of issuing qualifying shares[^c-fa82dbd6d7b3cb88bfe999590449bde1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 49. European Economic Interest Groupings[^key-b5e3607d4c1785766ade021d03a9a381]
+##### 49. European Economic Interest Groupings[^c-b5e3607d4c1785766ade021d03a9a381]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 50. Funding bonds issued in respect of interest on certain debts[^key-2bf42bdae43770616f5d9555a5eb1664]
+##### 50. Funding bonds issued in respect of interest on certain debts[^c-2bf42bdae43770616f5d9555a5eb1664]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 51. Transfers of income arising from securities[^key-011a84a572a571d9131e6817792f1dd4]
+##### 51. Transfers of income arising from securities[^c-011a84a572a571d9131e6817792f1dd4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 52. Treatment of price differential on sale and repurchase of securities[^key-b73d375b5984a2dbad24e755da542665]
+##### 52. Treatment of price differential on sale and repurchase of securities[^c-b73d375b5984a2dbad24e755da542665]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 53. Restriction of relief for payments of interest[^key-f0044586159cc4041b9c5db8f5ddfcc5]
+##### 53. Restriction of relief for payments of interest[^c-f0044586159cc4041b9c5db8f5ddfcc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 54. Limits on credit: corporation tax[^key-b0e41353bb7f4c1402ffb0d93b4e05cd]
+##### 54. Limits on credit: corporation tax[^c-b0e41353bb7f4c1402ffb0d93b4e05cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 55. Foreign tax on items giving rise to a non-trading credit[^key-b0e41353bb7f4c1402ffb0d93b4e05cd]
+##### 55. Foreign tax on items giving rise to a non-trading credit[^c-b0e41353bb7f4c1402ffb0d93b4e05cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 56. Investment trusts[^key-c14442e3c10b28351070f892b774fb35]
+##### 56. Investment trusts[^c-c14442e3c10b28351070f892b774fb35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 57. Venture capital trusts[^key-36f33a941a7321f5372538c8444a7ceb]
+##### 57. Venture capital trusts[^c-36f33a941a7321f5372538c8444a7ceb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 58. Change in ownership of investment company[^key-e92e92f93f25a3f5245941e9649e4559]
+##### 58. Change in ownership of investment company[^c-e92e92f93f25a3f5245941e9649e4559]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -421,68 +421,68 @@ In section 77(2)(a) (meaning of “qualifying loan” etc) omit sub-paragraph (i
 
 ### Part 3 — Transitional provisions
 
-#### 61. Interpretation[^key-ec87b6ba6f308335744210191bd9eea1]
+#### 61. Interpretation[^c-ec87b6ba6f308335744210191bd9eea1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 61A. Non-trading deficit carried forward from last old accounting period[^key-ec87b6ba6f308335744210191bd9eea1]
+#### 61A. Non-trading deficit carried forward from last old accounting period[^c-ec87b6ba6f308335744210191bd9eea1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 62. Discounted securities where companies have a connection[^key-ec87b6ba6f308335744210191bd9eea1]
+#### 62. Discounted securities where companies have a connection[^c-ec87b6ba6f308335744210191bd9eea1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 63. Discounted securities of close companies[^key-ec87b6ba6f308335744210191bd9eea1]
+#### 63. Discounted securities of close companies[^c-ec87b6ba6f308335744210191bd9eea1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 64. Authorised unit trusts and open-ended investment companies[^key-ec87b6ba6f308335744210191bd9eea1]
+#### 64. Authorised unit trusts and open-ended investment companies[^c-ec87b6ba6f308335744210191bd9eea1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e9d38acd4afbe84a693fe6d452cd5c94]: Textual amendment: [Sch. 25 paras. 2-25](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e9d38acd4afbe84a693fe6d452cd5c94]: Textual amendment: [Sch. 25 paras. 2-25](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-7652b460f172debbd8db163bf50e9adb]: Textual amendment: Sch. 25 paras. 4-6 repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
+[^c-7652b460f172debbd8db163bf50e9adb]: Textual amendment: Sch. 25 paras. 4-6 repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
 
-[^key-b2856ac86860ac5e423efa8abb934a1b]: Textual amendment: Sch. 25 para. 10 repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
+[^c-b2856ac86860ac5e423efa8abb934a1b]: Textual amendment: Sch. 25 para. 10 repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
 
-[^key-a546ca535c1cc84669475f4a7132f86a]: Textual amendment: Sch. 25 para. 21 omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(k)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/k)
+[^c-a546ca535c1cc84669475f4a7132f86a]: Textual amendment: Sch. 25 para. 21 omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(k)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/k)
 
-[^key-909eebbeafc9d08b65cc9b896ffc1f0c]: Textual amendment: Sch. 25 para. 26 repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 2(5)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/2/5)
+[^c-909eebbeafc9d08b65cc9b896ffc1f0c]: Textual amendment: Sch. 25 para. 26 repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 2(5)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/2/5)
 
-[^key-44d248774e8ea12fed14d0f523a0bee4]: Textual amendment: [Sch. 25 paras. 27-36](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/27) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-44d248774e8ea12fed14d0f523a0bee4]: Textual amendment: [Sch. 25 paras. 27-36](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/27) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-fb890cec9c4b5509d01b469166b44561]: Textual amendment: Sch. 25 para. 32 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/14)
+[^c-fb890cec9c4b5509d01b469166b44561]: Textual amendment: Sch. 25 para. 32 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/14)
 
-[^key-2d9ab32cafee86bdd1c6f09477614a0c]: Textual amendment: [Sch. 25 para. 40](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/40) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-2d9ab32cafee86bdd1c6f09477614a0c]: Textual amendment: [Sch. 25 para. 40](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/40) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-e883b9fe8f4dec946f2d7f6343f9cd2c]: Textual amendment: [Sch. 25 para. 45](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/45) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e883b9fe8f4dec946f2d7f6343f9cd2c]: Textual amendment: [Sch. 25 para. 45](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/45) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-27f3437bb15925358b1eb3a462792184]: Textual amendment: Sch. 25 para. 46 repealed (with effect in accordance with Sch. 43 Pt. 3(12) Note 1 of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 3(12)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/12)
+[^c-27f3437bb15925358b1eb3a462792184]: Textual amendment: Sch. 25 para. 46 repealed (with effect in accordance with Sch. 43 Pt. 3(12) Note 1 of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 3(12)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/12)
 
-[^key-6b3658dff55457f9b061c9021e243205]: Textual amendment: [Sch. 25 para. 47](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/47) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-6b3658dff55457f9b061c9021e243205]: Textual amendment: [Sch. 25 para. 47](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/47) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-fa82dbd6d7b3cb88bfe999590449bde1]: Textual amendment: [Sch. 25 para. 48](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/48) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-fa82dbd6d7b3cb88bfe999590449bde1]: Textual amendment: [Sch. 25 para. 48](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/48) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-b5e3607d4c1785766ade021d03a9a381]: Textual amendment: [Sch. 25 para. 49](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/49) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b5e3607d4c1785766ade021d03a9a381]: Textual amendment: [Sch. 25 para. 49](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/49) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-2bf42bdae43770616f5d9555a5eb1664]: Textual amendment: [Sch. 25 para. 50](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/50) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-2bf42bdae43770616f5d9555a5eb1664]: Textual amendment: [Sch. 25 para. 50](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/50) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-011a84a572a571d9131e6817792f1dd4]: Textual amendment: Sch. 25 para. 51 repealed (with effect in accordance with Sch. 11 Pt. 2(8) Note of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 2(8)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/8)
+[^c-011a84a572a571d9131e6817792f1dd4]: Textual amendment: Sch. 25 para. 51 repealed (with effect in accordance with Sch. 11 Pt. 2(8) Note of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 2(8)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/2/8)
 
-[^key-b73d375b5984a2dbad24e755da542665]: Textual amendment: Sch. 25 para. 52 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/14)
+[^c-b73d375b5984a2dbad24e755da542665]: Textual amendment: Sch. 25 para. 52 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/14)
 
-[^key-f0044586159cc4041b9c5db8f5ddfcc5]: Textual amendment: [Sch. 25 para. 53](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/53) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-f0044586159cc4041b9c5db8f5ddfcc5]: Textual amendment: [Sch. 25 para. 53](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/53) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-b0e41353bb7f4c1402ffb0d93b4e05cd]: Textual amendment: Sch. 25 paras. 54, 55 repealed (1.4.2010) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-b0e41353bb7f4c1402ffb0d93b4e05cd]: Textual amendment: Sch. 25 paras. 54, 55 repealed (1.4.2010) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-c14442e3c10b28351070f892b774fb35]: Textual amendment: [Sch. 25 para. 56](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/56) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c14442e3c10b28351070f892b774fb35]: Textual amendment: [Sch. 25 para. 56](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/56) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-36f33a941a7321f5372538c8444a7ceb]: Textual amendment: Sch. 25 para. 57 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 421](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/421), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-36f33a941a7321f5372538c8444a7ceb]: Textual amendment: Sch. 25 para. 57 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 421](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/421), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-e92e92f93f25a3f5245941e9649e4559]: Textual amendment: [Sch. 25 para. 58](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/58) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e92e92f93f25a3f5245941e9649e4559]: Textual amendment: [Sch. 25 para. 58](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/58) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ec87b6ba6f308335744210191bd9eea1]: Textual amendment: [Sch. 25 paras. 61-64](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/61) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 542](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/542), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-ec87b6ba6f308335744210191bd9eea1]: Textual amendment: [Sch. 25 paras. 61-64](https://www.legislation.gov.uk/ukpga/2002/23/schedule/25/paragraph/61) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 542](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/542), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

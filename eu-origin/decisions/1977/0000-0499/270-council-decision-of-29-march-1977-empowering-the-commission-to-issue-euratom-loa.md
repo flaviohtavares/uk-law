@@ -38,26 +38,26 @@ empowering the Commission to issue Euratom loans for the purpose of contributing
 
 (77/270/Euratom) (revoked)
 
-[^key-01a4fd10936290bb18444fc3e5d939b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01a4fd10936290bb18444fc3e5d939b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-01a4fd10936290bb18444fc3e5d939b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-01a4fd10936290bb18444fc3e5d939b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-01a4fd10936290bb18444fc3e5d939b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-01a4fd10936290bb18444fc3e5d939b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-01a4fd10936290bb18444fc3e5d939b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-01a4fd10936290bb18444fc3e5d939b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-01a4fd10936290bb18444fc3e5d939b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-01a4fd10936290bb18444fc3e5d939b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-01a4fd10936290bb18444fc3e5d939b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-01a4fd10936290bb18444fc3e5d939b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-01a4fd10936290bb18444fc3e5d939b3]
+## ANNEX I[^c-01a4fd10936290bb18444fc3e5d939b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-01a4fd10936290bb18444fc3e5d939b3]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-01a4fd10936290bb18444fc3e5d939b3]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

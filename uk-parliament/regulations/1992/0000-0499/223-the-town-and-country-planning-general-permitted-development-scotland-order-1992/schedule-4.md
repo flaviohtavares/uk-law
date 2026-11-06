@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — REVOCATIONS[^key-732385dd190dab0886c2ab2009029190]
+## SCHEDULE 4 — REVOCATIONS[^c-732385dd190dab0886c2ab2009029190]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ Article 8
 
 ## Annotations
 
-[^key-732385dd190dab0886c2ab2009029190]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1992/223/schedule/4) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)
+[^c-732385dd190dab0886c2ab2009029190]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1992/223/schedule/4) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)

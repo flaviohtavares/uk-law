@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 181. Power to change penalty provisions in Chapter 2[^key-0f9a47bd905af6a29613636cbfc9d967]
+## 181. Power to change penalty provisions in Chapter 2[^c-0f9a47bd905af6a29613636cbfc9d967]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f9a47bd905af6a29613636cbfc9d967]: Commencement: [S. 181](https://www.legislation.gov.uk/asp/2014/16/section/181) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-0f9a47bd905af6a29613636cbfc9d967]: Commencement: [S. 181](https://www.legislation.gov.uk/asp/2014/16/section/181) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

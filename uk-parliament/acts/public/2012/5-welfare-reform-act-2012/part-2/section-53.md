@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Condition relating to youth[^key-9339783959519aec6fb6209fab3837fa]
+## 53. Condition relating to youth[^c-9339783959519aec6fb6209fab3837fa]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ In section 1 of the Welfare Reform Act 2007 (employment and support allowance), 
 
 ## Annotations
 
-[^key-9339783959519aec6fb6209fab3837fa]: Commencement: S. 53 in force at 1.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2012/863/article/2/2/c)
+[^c-9339783959519aec6fb6209fab3837fa]: Commencement: S. 53 in force at 1.5.2012 by [S.I. 2012/863](https://www.legislation.gov.uk/uksi/2012/863), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2012/863/article/2/2/c)

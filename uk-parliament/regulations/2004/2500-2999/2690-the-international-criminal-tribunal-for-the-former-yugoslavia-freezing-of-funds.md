@@ -32,7 +32,7 @@ summary: ''
 
 CRIMINAL LAW
 
-The International Criminal Tribunal for the Former Yugoslavia (Freezing of Funds and Economic Resources of Indictees) Regulations 2004 (revoked)[^key-0c8b9e7ee2886a4dc0e425050cfe0d31]
+The International Criminal Tribunal for the Former Yugoslavia (Freezing of Funds and Economic Resources of Indictees) Regulations 2004 (revoked)[^c-0c8b9e7ee2886a4dc0e425050cfe0d31]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 19th October 2004
 
-[^key-0c8b9e7ee2886a4dc0e425050cfe0d31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c8b9e7ee2886a4dc0e425050cfe0d31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-0c8b9e7ee2886a4dc0e425050cfe0d31]
+## 1. Citation, commencement and interpretation[^c-0c8b9e7ee2886a4dc0e425050cfe0d31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Breaches of the EC Regulation[^key-0c8b9e7ee2886a4dc0e425050cfe0d31]
+## 2. Breaches of the EC Regulation[^c-0c8b9e7ee2886a4dc0e425050cfe0d31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requests for authorisations etc.[^key-0c8b9e7ee2886a4dc0e425050cfe0d31]
+## 3. Requests for authorisations etc.[^c-0c8b9e7ee2886a4dc0e425050cfe0d31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Information[^key-0c8b9e7ee2886a4dc0e425050cfe0d31]
+## 4. Information[^c-0c8b9e7ee2886a4dc0e425050cfe0d31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties and proceedings[^key-0c8b9e7ee2886a4dc0e425050cfe0d31]
+## 5. Penalties and proceedings[^c-0c8b9e7ee2886a4dc0e425050cfe0d31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c8b9e7ee2886a4dc0e425050cfe0d31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c8b9e7ee2886a4dc0e425050cfe0d31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — INFORMATION[^key-0c8b9e7ee2886a4dc0e425050cfe0d31]
+## SCHEDULE — INFORMATION[^c-0c8b9e7ee2886a4dc0e425050cfe0d31]
 
 Regulation 4
 
-**1.**[^key-0c8b9e7ee2886a4dc0e425050cfe0d31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0c8b9e7ee2886a4dc0e425050cfe0d31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0c8b9e7ee2886a4dc0e425050cfe0d31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0c8b9e7ee2886a4dc0e425050cfe0d31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0c8b9e7ee2886a4dc0e425050cfe0d31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0c8b9e7ee2886a4dc0e425050cfe0d31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0c8b9e7ee2886a4dc0e425050cfe0d31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c8b9e7ee2886a4dc0e425050cfe0d31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c8b9e7ee2886a4dc0e425050cfe0d31]: Textual amendment: Regulations revoked (29.6.2005) by [The International Criminal Tribunal for the Former Yugoslavia (Financial Sanctions Against Indictees) Regulations 2005 (S.I. 2005/1527)](https://www.legislation.gov.uk/uksi/2005/1527), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1527/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2005/1527/regulation/7/1)
+[^c-0c8b9e7ee2886a4dc0e425050cfe0d31]: Textual amendment: Regulations revoked (29.6.2005) by [The International Criminal Tribunal for the Former Yugoslavia (Financial Sanctions Against Indictees) Regulations 2005 (S.I. 2005/1527)](https://www.legislation.gov.uk/uksi/2005/1527), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1527/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2005/1527/regulation/7/1)

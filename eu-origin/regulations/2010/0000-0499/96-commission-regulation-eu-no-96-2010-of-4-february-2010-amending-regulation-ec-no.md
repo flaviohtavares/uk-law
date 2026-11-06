@@ -235,7 +235,7 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation shall apply from 1 January 2010.
 
-[^key-524b633a423d1914b750dabb1305c146]...
+[^c-524b633a423d1914b750dabb1305c146]...
 
 Done at Brussels, 4 February 2010.
 
@@ -288,7 +288,7 @@ José Manuel Barroso
 
 [^f00007]: Footnote: [OJ L 86, 31.3.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.086.01.0001.01.ENG).’
 
-[^key-524b633a423d1914b750dabb1305c146]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2010/96/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(d)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-524b633a423d1914b750dabb1305c146]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2010/96/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(d)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00008]: Footnote: Financial leasing covers operations where the lease instalments are calculated in such a way as to cover all or virtually all of the value of the goods. The risks and rewards of ownership are transferred to the lessee. At the end of the contract the lessee becomes the legal owner of the goods.
 

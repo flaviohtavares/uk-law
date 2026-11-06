@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Modification of Part in relation to certain kinds of higher-risk building[^key-716407c6519281bace8cd0d4fa0a34dd]
+## 68. Modification of Part in relation to certain kinds of higher-risk building[^c-716407c6519281bace8cd0d4fa0a34dd]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-716407c6519281bace8cd0d4fa0a34dd]: Commencement: S. 68 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)
+[^c-716407c6519281bace8cd0d4fa0a34dd]: Commencement: S. 68 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)

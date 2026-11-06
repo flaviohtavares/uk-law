@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Application of Part 1 of the Compulsory Purchase Act 1965[^key-a5e7288cf1dd6a639ebd23a26f1b7751]
+## 30. Application of Part 1 of the Compulsory Purchase Act 1965[^c-a5e7288cf1dd6a639ebd23a26f1b7751]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5e7288cf1dd6a639ebd23a26f1b7751]: Commencement: Art. 30 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-a5e7288cf1dd6a639ebd23a26f1b7751]: Commencement: Art. 30 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00031]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).

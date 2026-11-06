@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Power to make regulations for the issuing of fixed penalty notices[^key-f196fa219996a19b7630535e00950b00][^key-715572b3e3560b03470c4da82741ef0f]
+## 10. Power to make regulations for the issuing of fixed penalty notices[^c-f196fa219996a19b7630535e00950b00][^c-715572b3e3560b03470c4da82741ef0f]
 
 *Extent: S*
 
@@ -110,6 +110,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f196fa219996a19b7630535e00950b00]: Commencement: S. 10 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-f196fa219996a19b7630535e00950b00]: Commencement: S. 10 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-715572b3e3560b03470c4da82741ef0f]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2026/6/section/10) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/h)
+[^c-715572b3e3560b03470c4da82741ef0f]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2026/6/section/10) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/h)

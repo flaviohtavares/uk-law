@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Approval of major modifications made in urgent cases[^key-90e0b2cd8b88a939cafbe1c4f1f73ad9]
+## 147. Approval of major modifications made in urgent cases[^c-90e0b2cd8b88a939cafbe1c4f1f73ad9]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ and section 146(4) does not apply in relation to the refusal to approve the deci
 
 ## Annotations
 
-[^key-90e0b2cd8b88a939cafbe1c4f1f73ad9]: Commencement: S. 147 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a)
+[^c-90e0b2cd8b88a939cafbe1c4f1f73ad9]: Commencement: S. 147 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a)

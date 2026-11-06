@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 60. Place where court or tribunal to sit[^key-3b827c7dea25d85c02454bbab67c92d4]
+## 60. Place where court or tribunal to sit[^c-3b827c7dea25d85c02454bbab67c92d4]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ Proceedings in a court or tribunal exercising jurisdiction under this Measure ma
 
 ## Annotations
 
-[^key-3b827c7dea25d85c02454bbab67c92d4]: Commencement: S. 60 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-3b827c7dea25d85c02454bbab67c92d4]: Commencement: S. 60 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

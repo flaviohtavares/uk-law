@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 507. Short title[^key-933c67e5e03e222aad13336ca8390e0f]
+## 507. Short title[^c-933c67e5e03e222aad13336ca8390e0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Taxation (International and Other Provisions) Act 2
 
 ## Annotations
 
-[^key-933c67e5e03e222aad13336ca8390e0f]: Textual amendment: S. 382 renumbered as s. 507 (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 10(3)(i)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/3/i)
+[^c-933c67e5e03e222aad13336ca8390e0f]: Textual amendment: S. 382 renumbered as s. 507 (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 10(3)(i)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/3/i)

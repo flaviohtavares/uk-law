@@ -27,15 +27,15 @@ summary: ''
 - (a) about when a fee may be charged;
 - (b) about the amount which may be charged;
 - (c) for the supply of information needed for the purpose of determining the amount which may be charged;
-- (d) about who is liable to pay any fee charged(including provision for the apportionment of fees and the matters to be taken into account in determining an apportionment)[^key-786b9f0373584c8a441d3e5a22d9784a];
+- (d) about who is liable to pay any fee charged(including provision for the apportionment of fees and the matters to be taken into account in determining an apportionment)[^c-786b9f0373584c8a441d3e5a22d9784a];
 - (e) about when any fee charged is payable;
 - (f) about the recovery of fees charged;
-- (g) about [^key-6a9b1dea050485d4b6be55f1edf54a3f]..., reduction or repayment of fees.
-- (h)[^key-45f50397bd0db79aaac7c6e5eb6459ec] about waiver of fees (including the matters to be taken into account in determining a waiver).
+- (g) about [^c-6a9b1dea050485d4b6be55f1edf54a3f]..., reduction or repayment of fees.
+- (h)[^c-45f50397bd0db79aaac7c6e5eb6459ec] about waiver of fees (including the matters to be taken into account in determining a waiver).
 
 (3) The power conferred by subsection (1) includes power to make provision for the charging of fees which are not related to costs.
 
-(3A)[^key-6a723a7661db6297ad5c371f3274e8ff] The Secretary of State must review the effect of the first regulations made under subsection (1).
+(3A)[^c-6a723a7661db6297ad5c371f3274e8ff] The Secretary of State must review the effect of the first regulations made under subsection (1).
 
 (3B) The review must take place before the end of the period of 30 months beginning with the day on which those regulations come into force.
 
@@ -63,13 +63,13 @@ shall apply equally (with any necessary modifications) to fees payable by virtue
 
 [^c2172147]: Textual amendment: Words in s. 6(1)(5) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 3(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/3/2), [Sch. para. 72(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/72/2)
 
-[^key-786b9f0373584c8a441d3e5a22d9784a]: Textual amendment: Words in s. 6(2)(d) inserted (25.11.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 140(a)](https://www.legislation.gov.uk/ukpga/2012/5/section/140/a), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947), [art. 6](https://www.legislation.gov.uk/uksi/2013/2947/article/6)
+[^c-786b9f0373584c8a441d3e5a22d9784a]: Textual amendment: Words in s. 6(2)(d) inserted (25.11.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 140(a)](https://www.legislation.gov.uk/ukpga/2012/5/section/140/a), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947), [art. 6](https://www.legislation.gov.uk/uksi/2013/2947/article/6)
 
-[^key-6a9b1dea050485d4b6be55f1edf54a3f]: Textual amendment: Word in s. 6(2)(g) repealed (25.11.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 140(b)](https://www.legislation.gov.uk/ukpga/2012/5/section/140/b), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947), [art. 6](https://www.legislation.gov.uk/uksi/2013/2947/article/6)
+[^c-6a9b1dea050485d4b6be55f1edf54a3f]: Textual amendment: Word in s. 6(2)(g) repealed (25.11.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 140(b)](https://www.legislation.gov.uk/ukpga/2012/5/section/140/b), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947), [art. 6](https://www.legislation.gov.uk/uksi/2013/2947/article/6)
 
-[^key-45f50397bd0db79aaac7c6e5eb6459ec]: Textual amendment: S. 6(2)(h) inserted (25.11.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 140(c)](https://www.legislation.gov.uk/ukpga/2012/5/section/140/c), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947), [art. 6](https://www.legislation.gov.uk/uksi/2013/2947/article/6)
+[^c-45f50397bd0db79aaac7c6e5eb6459ec]: Textual amendment: S. 6(2)(h) inserted (25.11.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 140(c)](https://www.legislation.gov.uk/ukpga/2012/5/section/140/c), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947), [art. 6](https://www.legislation.gov.uk/uksi/2013/2947/article/6)
 
-[^key-6a723a7661db6297ad5c371f3274e8ff]: Textual amendment: S. 6(3A)-(3D) inserted (25.11.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 141](https://www.legislation.gov.uk/ukpga/2012/5/section/141), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947), [art. 6](https://www.legislation.gov.uk/uksi/2013/2947/article/6)
+[^c-6a723a7661db6297ad5c371f3274e8ff]: Textual amendment: S. 6(3A)-(3D) inserted (25.11.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 141](https://www.legislation.gov.uk/ukpga/2012/5/section/141), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/2947](https://www.legislation.gov.uk/uksi/2013/2947), [art. 6](https://www.legislation.gov.uk/uksi/2013/2947/article/6)
 
 [^c2172141]: Textual amendment: Words in s. 6(5) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 9(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/9/1), [Sch. 3 para. 225(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/225/a)
 

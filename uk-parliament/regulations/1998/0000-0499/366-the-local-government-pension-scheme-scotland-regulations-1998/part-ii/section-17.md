@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Optional contributions during absences[^key-c7eff1e0d6059ee8086a443f69930bc0]
+## 17. Optional contributions during absences[^c-c7eff1e0d6059ee8086a443f69930bc0]
 
 *Extent: E+W+S*
 
@@ -65,7 +65,7 @@ he may make a contribution under regulation 16 for the relevant contribution per
 
 ## Annotations
 
-[^key-c7eff1e0d6059ee8086a443f69930bc0]: Commencement: Reg. 17 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-c7eff1e0d6059ee8086a443f69930bc0]: Commencement: Reg. 17 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00012]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 

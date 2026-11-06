@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71A (Extent: EWS). Grounds relating to identification: England and Wales and Scotland (Extent: EWS)[^key-2132779ff77d460056b136dd32307cbe]
+## 71A (Extent: EWS). Grounds relating to identification: England and Wales and Scotland (Extent: EWS)[^c-2132779ff77d460056b136dd32307cbe]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2132779ff77d460056b136dd32307cbe]: Textual amendment: Reg. 71A inserted (E.W.S.) (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [90](https://www.legislation.gov.uk/uksi/2022/1382/regulation/90) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-2132779ff77d460056b136dd32307cbe]: Textual amendment: Reg. 71A inserted (E.W.S.) (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [90](https://www.legislation.gov.uk/uksi/2022/1382/regulation/90) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))

@@ -40,64 +40,64 @@ of 9 March 1998
 
 on the organisation of a labour force sample survey in the Community (repealed) (revoked)
 
-[^key-870832093341525f0e9709e83f4d0386]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-870832093341525f0e9709e83f4d0386]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Frequency of the survey[^key-870832093341525f0e9709e83f4d0386]
+## Article 1. Frequency of the survey[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Units and scope of the survey, observation methods[^key-870832093341525f0e9709e83f4d0386]
+## Article 2. Units and scope of the survey, observation methods[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Representativeness of the sample[^key-870832093341525f0e9709e83f4d0386]
+## Article 3. Representativeness of the sample[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Survey characteristics[^key-870832093341525f0e9709e83f4d0386]
+## Article 4. Survey characteristics[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Conduct of the survey[^key-870832093341525f0e9709e83f4d0386]
+## Article 5. Conduct of the survey[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Transmission of the results[^key-870832093341525f0e9709e83f4d0386]
+## Article 6. Transmission of the results[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Reports[^key-870832093341525f0e9709e83f4d0386]
+## Article 7. Reports[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7a. Ad hoc modules[^key-870832093341525f0e9709e83f4d0386]
+## Article 7a. Ad hoc modules[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7b. Financing provision[^key-870832093341525f0e9709e83f4d0386]
+## Article 7b. Financing provision[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7c. Exercise of the delegation[^key-870832093341525f0e9709e83f4d0386]
+## Article 7c. Exercise of the delegation[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Committee procedure[^key-870832093341525f0e9709e83f4d0386]
+## Article 8. Committee procedure[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Arrangements for repealing[^key-870832093341525f0e9709e83f4d0386]
+## Article 9. Arrangements for repealing[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force[^key-870832093341525f0e9709e83f4d0386]
+## Article 10. Entry into force[^c-870832093341525f0e9709e83f4d0386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-870832093341525f0e9709e83f4d0386]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-870832093341525f0e9709e83f4d0386]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-870832093341525f0e9709e83f4d0386]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-870832093341525f0e9709e83f4d0386]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

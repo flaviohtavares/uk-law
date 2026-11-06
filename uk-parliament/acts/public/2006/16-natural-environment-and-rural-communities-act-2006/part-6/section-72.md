@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Traffic regulation on byways etc. in National Parks[^key-ab0479779e73131047330c88adac9b91][^key-02aa998e790dc0e3f545ed009b91e502]
+## 72. Traffic regulation on byways etc. in National Parks[^c-ab0479779e73131047330c88adac9b91][^c-02aa998e790dc0e3f545ed009b91e502]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ After section 22B of the Road Traffic Regulation Act 1984 (c. 27) insert—
 
 ## Annotations
 
-[^key-ab0479779e73131047330c88adac9b91]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2006/16/section/72) in force at 16.11.2006 for W. by [S.I. 2006/2992](https://www.legislation.gov.uk/wsi/2006/2992), [art. 2](https://www.legislation.gov.uk/wsi/2006/2992/article/2)
+[^c-ab0479779e73131047330c88adac9b91]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2006/16/section/72) in force at 16.11.2006 for W. by [S.I. 2006/2992](https://www.legislation.gov.uk/wsi/2006/2992), [art. 2](https://www.legislation.gov.uk/wsi/2006/2992/article/2)
 
-[^key-02aa998e790dc0e3f545ed009b91e502]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2006/16/section/72) in force at 1.10.2007 for E. by [S.I. 2007/2540](https://www.legislation.gov.uk/uksi/2007/2540), [art. 2](https://www.legislation.gov.uk/uksi/2007/2540/article/2)
+[^c-02aa998e790dc0e3f545ed009b91e502]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2006/16/section/72) in force at 1.10.2007 for E. by [S.I. 2007/2540](https://www.legislation.gov.uk/uksi/2007/2540), [art. 2](https://www.legislation.gov.uk/uksi/2007/2540/article/2)

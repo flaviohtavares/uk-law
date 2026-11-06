@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Oil and gas, defence or pollution[^key-8b7383b4746000e6faf4ff7746ab2be0]
+## 34. Oil and gas, defence or pollution[^c-8b7383b4746000e6faf4ff7746ab2be0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Nothing in this Part applies to—
 
 ## Annotations
 
-[^key-8b7383b4746000e6faf4ff7746ab2be0]: Commencement: S. 34 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-8b7383b4746000e6faf4ff7746ab2be0]: Commencement: S. 34 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

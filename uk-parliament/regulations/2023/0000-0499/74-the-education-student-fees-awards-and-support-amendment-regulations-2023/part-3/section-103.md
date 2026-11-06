@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Amendments to definition of “person granted leave under the Afghan Relocations and Assistance Policy Scheme”[^key-c46f3dd10ce0e2887533ca295babb517]
+## 103. Amendments to definition of “person granted leave under the Afghan Relocations and Assistance Policy Scheme”[^c-c46f3dd10ce0e2887533ca295babb517]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In regulation 2 (interpretation), in the definition of “**person granted leave
 
 ## Annotations
 
-[^key-c46f3dd10ce0e2887533ca295babb517]: Commencement: Reg. 103 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-c46f3dd10ce0e2887533ca295babb517]: Commencement: Reg. 103 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

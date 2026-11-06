@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34C. Transitional provisions for coronavirus test devices[^key-15f4327f79e0fee06f6e8a9de725cd1a]
+## 34C. Transitional provisions for coronavirus test devices[^c-15f4327f79e0fee06f6e8a9de725cd1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15f4327f79e0fee06f6e8a9de725cd1a]: Textual amendment: [Regs. 34A-34C](https://www.legislation.gov.uk/uksi/2002/618/regulation/34A) inserted (28.7.2021) by [The Medical Devices (Coronavirus Test Device Approvals) (Amendment) Regulations 2021 (S.I. 2021/910)](https://www.legislation.gov.uk/uksi/2021/910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/910/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/910/regulation/5)
+[^c-15f4327f79e0fee06f6e8a9de725cd1a]: Textual amendment: [Regs. 34A-34C](https://www.legislation.gov.uk/uksi/2002/618/regulation/34A) inserted (28.7.2021) by [The Medical Devices (Coronavirus Test Device Approvals) (Amendment) Regulations 2021 (S.I. 2021/910)](https://www.legislation.gov.uk/uksi/2021/910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/910/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/910/regulation/5)

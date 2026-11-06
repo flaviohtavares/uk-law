@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Public funds: general[^M_I_deab73b4-ea92-4aec-e59d-21bc399fb919][^key-4a23e3ee5005bfe27abd6d163c7ea224]
+## 78. Public funds: general[^M_I_deab73b4-ea92-4aec-e59d-21bc399fb919][^c-4a23e3ee5005bfe27abd6d163c7ea224]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Bank of England may not exercise the power to make a mandatory reduction instrument or[^key-9dbb72e73adae3eecdb8027881e4fe62] a stabilisation power in respect of a bank without the Treasury's consent if the exercise would be likely to have implications for public funds.
+(1) The Bank of England may not exercise the power to make a mandatory reduction instrument or[^c-9dbb72e73adae3eecdb8027881e4fe62] a stabilisation power in respect of a bank without the Treasury's consent if the exercise would be likely to have implications for public funds.
 
 (2) In subsection (1)—
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The Treasury may by order specify considerations which are to be, or not to be, taken into account in determining whether action has implications for public funds for the purpose of subsection (1).
 
-(4) If the Treasury refuse consent under subsection (1), the Bank of England must consider other exercises of the power to make a mandatory reduction instrument or[^key-591a62bc69abdc775dc27cde296b2727] the stabilisation powers with a view to—
+(4) If the Treasury refuse consent under subsection (1), the Bank of England must consider other exercises of the power to make a mandatory reduction instrument or[^c-591a62bc69abdc775dc27cde296b2727] the stabilisation powers with a view to—
 
 - (a) pursuing the special resolution objectives, and
 - (b) avoiding the objections on which the Treasury's refusal was based.
@@ -45,8 +45,8 @@ summary: ''
 
 [^M_I_deab73b4-ea92-4aec-e59d-21bc399fb919]: Commencement: S. 78 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-4a23e3ee5005bfe27abd6d163c7ea224]: Commencement: S. 78 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-4a23e3ee5005bfe27abd6d163c7ea224]: Commencement: S. 78 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-9dbb72e73adae3eecdb8027881e4fe62]: Textual amendment: Words in s. 78(1) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [84(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/84/2)
+[^c-9dbb72e73adae3eecdb8027881e4fe62]: Textual amendment: Words in s. 78(1) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [84(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/84/2)
 
-[^key-591a62bc69abdc775dc27cde296b2727]: Textual amendment: Words in s. 78(4) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [84(3)](https://www.legislation.gov.uk/uksi/2014/3329/article/84/3)
+[^c-591a62bc69abdc775dc27cde296b2727]: Textual amendment: Words in s. 78(4) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [84(3)](https://www.legislation.gov.uk/uksi/2014/3329/article/84/3)

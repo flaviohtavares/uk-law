@@ -46,11 +46,11 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 These Regulations may be cited as the Social Security (Claims and Payments Etc.) Amendment Regulations 1996 and shall come into force on 4th April 1996.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-b14d11762407bbd9a52db19152d08e06]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-b14d11762407bbd9a52db19152d08e06]
 
 (1) The Social Security (Claims and Payments) Regulations 1987 [^c1773340] are amended in accordance with the following provisions of this regulation.
 
-(2)[^key-9654c9fb8631cd37c12499bbe673e801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9654c9fb8631cd37c12499bbe673e801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 21—
 
@@ -67,23 +67,23 @@ shall be omitted.
 
 .
 
-(5)[^key-94b35b125b08bcdc17113eba3b10a97d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-94b35b125b08bcdc17113eba3b10a97d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-94b35b125b08bcdc17113eba3b10a97d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-94b35b125b08bcdc17113eba3b10a97d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-94b35b125b08bcdc17113eba3b10a97d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-94b35b125b08bcdc17113eba3b10a97d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-94b35b125b08bcdc17113eba3b10a97d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-94b35b125b08bcdc17113eba3b10a97d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Amendment of the Statutory Sick Pay (General) Regulations 1982
 
 In regulation 9C of the Statutory Sick Pay (General) Regulations 1982 (payments by the Secretary of State) [^c1773342], after the words “instrument of payment" there are inserted the words “, instrument for benefit payment".
 
-## 4. Amendment of the Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988[^key-0e80ba1f158b9f8dc346c6d2f1198987]
+## 4. Amendment of the Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988[^c-0e80ba1f158b9f8dc346c6d2f1198987]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Social Security (Recoupment) Regulations 1990[^key-0e80ba1f158b9f8dc346c6d2f1198987]
+## 5. Amendment of the Social Security (Recoupment) Regulations 1990[^c-0e80ba1f158b9f8dc346c6d2f1198987]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -107,14 +107,14 @@ These Regulations do not impose any costs on business.
 
 [^c1773339]: Marginal citation: *See* section 173(1) of the Social Security Administration Act 1992.
 
-[^key-b14d11762407bbd9a52db19152d08e06]: Modification: Reg. 2 modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-b14d11762407bbd9a52db19152d08e06]: Modification: Reg. 2 modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1773340]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). The relevant amending instruments are [S.I. 1989/1686](https://www.legislation.gov.uk/uksi/1989/1686), 1992/247 and 1026, 1993/1113, 1994/2319, 2943 and 3196.
 
-[^key-9654c9fb8631cd37c12499bbe673e801]: Textual amendment: Reg. 2(2) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2006/832/regulation/7/b)
+[^c-9654c9fb8631cd37c12499bbe673e801]: Textual amendment: Reg. 2(2) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2006/832/regulation/7/b)
 
-[^key-94b35b125b08bcdc17113eba3b10a97d]: Textual amendment: Reg. 2(5)-(8) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2006/832/regulation/7/b)
+[^c-94b35b125b08bcdc17113eba3b10a97d]: Textual amendment: Reg. 2(5)-(8) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2006/832/regulation/7/b)
 
 [^c1773342]: Marginal citation: [S.I. 1982/894](https://www.legislation.gov.uk/uksi/1982/894). Regulation 9C was inserted by [S.I. 1987/372](https://www.legislation.gov.uk/uksi/1987/372), [regulation 2](https://www.legislation.gov.uk/uksi/1987/372/regulation/2).
 
-[^key-0e80ba1f158b9f8dc346c6d2f1198987]: Textual amendment: Reg. 4, 5 revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2006/832/regulation/7/b)
+[^c-0e80ba1f158b9f8dc346c6d2f1198987]: Textual amendment: Reg. 4, 5 revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2006 (S.I. 2006/832)](https://www.legislation.gov.uk/uksi/2006/832), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/832/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2006/832/regulation/7/b)

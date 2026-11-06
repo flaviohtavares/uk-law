@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Section 14: further provision relating to specified state professionals[^key-8ba63e1a1982cf56f728d08f57cbabd6]
+## 14A. Section 14: further provision relating to specified state professionals[^c-8ba63e1a1982cf56f728d08f57cbabd6]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies where a person who holds a specified state qualification applies to be registered under section 3[^key-55e86b3a0e66d6200d2c581d1550c1da] and the person’s qualification is not a recognised qualification.
+(1) This section applies where a person who holds a specified state qualification applies to be registered under section 3[^c-55e86b3a0e66d6200d2c581d1550c1da] and the person’s qualification is not a recognised qualification.
 
 (2) This section does not apply if the person’s specified state qualification is not a recognised qualification because Condition 3 is met in relation to it (see section 14(2E)).
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ba63e1a1982cf56f728d08f57cbabd6]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/ukpga/1993/21/section/14A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 47](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/47)
+[^c-8ba63e1a1982cf56f728d08f57cbabd6]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/ukpga/1993/21/section/14A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 47](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/47)
 
-[^key-55e86b3a0e66d6200d2c581d1550c1da]: Textual amendment: Words in [s. 14A(1)](https://www.legislation.gov.uk/ukpga/1993/21/section/14A/1) substituted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [18(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/18/2)
+[^c-55e86b3a0e66d6200d2c581d1550c1da]: Textual amendment: Words in [s. 14A(1)](https://www.legislation.gov.uk/ukpga/1993/21/section/14A/1) substituted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [18(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/18/2)

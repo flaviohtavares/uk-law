@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Definition of specified drug[^key-28be5f340cc75b445d816d83adbf92dd]
+## SCHEDULE 2 — Definition of specified drug[^c-28be5f340cc75b445d816d83adbf92dd]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Rule 2(1)
 
-[^key-28be5f340cc75b445d816d83adbf92dd]
+[^c-28be5f340cc75b445d816d83adbf92dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-28be5f340cc75b445d816d83adbf92dd]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/3371/schedule/2) omitted (8.12.2021) by virtue of [Prisons (Substance Testing) Act 2021 (c. 18)](https://www.legislation.gov.uk/ukpga/2021/18), [ss. 2(4)(e)](https://www.legislation.gov.uk/ukpga/2021/18/section/2/4/e), [3(2)](https://www.legislation.gov.uk/ukpga/2021/18/section/3/2); [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)
+[^c-28be5f340cc75b445d816d83adbf92dd]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/3371/schedule/2) omitted (8.12.2021) by virtue of [Prisons (Substance Testing) Act 2021 (c. 18)](https://www.legislation.gov.uk/ukpga/2021/18), [ss. 2(4)(e)](https://www.legislation.gov.uk/ukpga/2021/18/section/2/4/e), [3(2)](https://www.legislation.gov.uk/ukpga/2021/18/section/3/2); [S.I. 2021/1280](https://www.legislation.gov.uk/uksi/2021/1280), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1280/regulation/2)

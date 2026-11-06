@@ -41,7 +41,7 @@ Coming into force
 
 The National Assembly for Wales, in exercise of powers conferred on it by sections 10(2), 28(2)(a), 41(1) and (3), 43(1)(b) and 44(2)(b) of the Public Services Ombudsman (Wales) Act 2005[^f00001], and having carried out such consultation as is required by sections 10(3), 28(4) and 41(4) of that Act, makes the following Order:
 
-## 1. Title, commencement, application and interpretation[^key-5c62dba490e1a3a9a23a36bb34f3a18e]
+## 1. Title, commencement, application and interpretation[^c-5c62dba490e1a3a9a23a36bb34f3a18e]
 
 (1) The title of this Order is the Public Services Ombudsman for Wales (Jurisdiction and Transitional Provisions and Savings) Order 2006 and it comes into force on 1 April 2006.
 
@@ -55,7 +55,7 @@ The National Assembly for Wales, in exercise of powers conferred on it by sectio
 
 (4) In this Order references to sections and Schedules are, unless otherwise stated, references to sections of, and Schedules to, the Act.
 
-## 2. Amendments to Schedule 2 (excluded matters)[^key-f04e87782a4c0a7d1b6c6503a93ff6f8]
+## 2. Amendments to Schedule 2 (excluded matters)[^c-f04e87782a4c0a7d1b6c6503a93ff6f8]
 
 In Schedule 2—
 
@@ -73,11 +73,11 @@ In Schedule 2—
   , and
 - (b) omit paragraph 10.
 
-## 3. Amendment to Schedule 3 (listed authorities)[^key-1a91d744e518db18d8065beb73986193]
+## 3. Amendment to Schedule 3 (listed authorities)[^c-1a91d744e518db18d8065beb73986193]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the definition of “family health service provider in Wales”[^key-c5d1d3d9baa9ca2438a678e3a5fcece8]
+## 4. Amendment of the definition of “family health service provider in Wales”[^c-c5d1d3d9baa9ca2438a678e3a5fcece8]
 
 In section 41(1), in the definition of “family health service provider in Wales”—
 
@@ -85,7 +85,7 @@ In section 41(1), in the definition of “family health service provider in Wale
 - (b) in paragraph (c) for “primary medical or dental services” substitute “primary medical services or primary dental services”, and
 - (c) omit paragraph (d).
 
-## 5. Saving provisions in relation to the definition of “family health service provider in Wales”[^key-c6711b8ce944fed095a90e6bbf5e13bc]
+## 5. Saving provisions in relation to the definition of “family health service provider in Wales”[^c-c6711b8ce944fed095a90e6bbf5e13bc]
 
 In relation to any complaint in respect of a matter which occurred before 1 April 2004—
 
@@ -100,7 +100,7 @@ In relation to any complaint in respect of a matter which occurred before 1 Apri
 
   .
 
-## 6. Transitory provisions in relation to the definition of “family health service provider in Wales”[^key-9f7ead2737ee3ef7c1877e20af3cb0f7]
+## 6. Transitory provisions in relation to the definition of “family health service provider in Wales”[^c-9f7ead2737ee3ef7c1877e20af3cb0f7]
 
 (1) In circumstances other than those described in article 5 and until section 172(1) of the 2003 Act comes into force in relation to general dental services contracts—
 
@@ -112,11 +112,11 @@ In relation to any complaint in respect of a matter which occurred before 1 Apri
 
 (2) Until section 28C of the 1977 Act comes into force in relation to Wales then for the purposes of that part of the definition of “family health service provider in Wales” as amended by article 4(b) and as substituted by article 5(b) of this Order that refers to arrangements made under that section it is to be taken as referring only to a pilot scheme under Part 1 of that Act.
 
-## 7. Transitional provision in relation to the definition of “family health service provider in Wales”[^key-0dfbd51394e33f90a74e1f2177da1a1c]
+## 7. Transitional provision in relation to the definition of “family health service provider in Wales”[^c-0dfbd51394e33f90a74e1f2177da1a1c]
 
 For as long as default contracts entered into pursuant to section 176(3) of the 2003 Act (general medical services: transitional) exist, any reference to a general medical services contract or to a contract under section 28Q of the 1977 Act in the definition of “family health service provider in Wales” as amended by article 4(a) and as substituted by article 5(a) of this Order is to be deemed to include a reference to a default contract.
 
-## 8. Valuation tribunals in Wales[^key-9851eff86a39d4a16e3b0c8a8411ab16]
+## 8. Valuation tribunals in Wales[^c-9851eff86a39d4a16e3b0c8a8411ab16]
 
 (1) A valuation tribunal in Wales is a relevant tribunal for the purposes of the Act.
 
@@ -152,25 +152,25 @@ Article 8 provides that a valuation tribunal in Wales is a relevant tribunal for
 
 [^f00001]: Footnote: [2005 c. 10](https://www.legislation.gov.uk/ukpga/2005/10).
 
-[^key-5c62dba490e1a3a9a23a36bb34f3a18e]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2006/363/article/1) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+[^c-5c62dba490e1a3a9a23a36bb34f3a18e]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2006/363/article/1) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
 
 [^f00002]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
 [^f00003]: Footnote: [2003 c. 43](https://www.legislation.gov.uk/ukpga/2003/43).
 
-[^key-f04e87782a4c0a7d1b6c6503a93ff6f8]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2006/363/article/2) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+[^c-f04e87782a4c0a7d1b6c6503a93ff6f8]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2006/363/article/2) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
 
-[^key-1a91d744e518db18d8065beb73986193]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/wsi/2006/363/article/3) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2023/299/schedule/1/paragraph/10)
+[^c-1a91d744e518db18d8065beb73986193]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/wsi/2006/363/article/3) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2023/299/schedule/1/paragraph/10)
 
-[^key-c5d1d3d9baa9ca2438a678e3a5fcece8]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2006/363/article/4) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+[^c-c5d1d3d9baa9ca2438a678e3a5fcece8]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2006/363/article/4) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
 
-[^key-c6711b8ce944fed095a90e6bbf5e13bc]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2006/363/article/5) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+[^c-c6711b8ce944fed095a90e6bbf5e13bc]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2006/363/article/5) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
 
-[^key-9f7ead2737ee3ef7c1877e20af3cb0f7]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2006/363/article/6) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+[^c-9f7ead2737ee3ef7c1877e20af3cb0f7]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2006/363/article/6) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
 
-[^key-0dfbd51394e33f90a74e1f2177da1a1c]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2006/363/article/7) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+[^c-0dfbd51394e33f90a74e1f2177da1a1c]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2006/363/article/7) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
 
-[^key-9851eff86a39d4a16e3b0c8a8411ab16]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2006/363/article/8) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
+[^c-9851eff86a39d4a16e3b0c8a8411ab16]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2006/363/article/8) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/363/article/1/1)
 
 [^f00004]: Footnote: S.I. [2005/3364 (W.261)](https://www.legislation.gov.uk/wsi/2005/3364)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.80. Business at first meeting[^key-01365deebd2c354d0300c5c7b373eb41]
+## 6.80. Business at first meeting[^c-01365deebd2c354d0300c5c7b373eb41]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01365deebd2c354d0300c5c7b373eb41]: Commencement: [Rule 6.80](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.80) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-01365deebd2c354d0300c5c7b373eb41]: Commencement: [Rule 6.80](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.80) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

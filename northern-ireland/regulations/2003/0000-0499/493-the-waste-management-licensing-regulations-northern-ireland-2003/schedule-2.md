@@ -24,27 +24,27 @@ Regulations 1(3) and 17
 
 ### PART I — activities exempt from waste management licensing
 
-**1.**[^key-3ad76af6054e0660477632c829faedb4] (1) The use, under an authorisation granted under the Industrial Pollution Control Order, of waste glass as part of a process within Part B of section 3.5 (glass manufacture and production) of Schedule 1 to the 1998 Regulations if the total quantity of waste glass so used in that process does not exceed 600,000 tonnes in any period of twelve months.
+**1.**[^c-3ad76af6054e0660477632c829faedb4] (1) The use, under an authorisation granted under the Industrial Pollution Control Order, of waste glass as part of a process within Part B of section 3.5 (glass manufacture and production) of Schedule 1 to the 1998 Regulations if the total quantity of waste glass so used in that process does not exceed 600,000 tonnes in any period of twelve months.
 
 (2) The storage, at the place where the process is carried on, of any such waste which is intended to be so used.
 
-**2.**[^key-91fc757da708b77c730d227963737842] (1) The use, under a permit under the 2003 Regulations, of waste glass as part of an activity within Part B of section 3.3 (the manufacture of glass and glass fibre) of Part I of Schedule 1 to the 2003 Regulations if the total quantity of waste glass so used in that activity does not exceed 600,000 tonnes in any period of twelve months.
+**2.**[^c-91fc757da708b77c730d227963737842] (1) The use, under a permit under the 2003 Regulations, of waste glass as part of an activity within Part B of section 3.3 (the manufacture of glass and glass fibre) of Part I of Schedule 1 to the 2003 Regulations if the total quantity of waste glass so used in that activity does not exceed 600,000 tonnes in any period of twelve months.
 
 (2) The storage, at the place where the activity is carried out, of any such waste which is intended to be so used.
 
-**3.**[^key-98a6549816a20543b8a3662aaeec6270] (1) The operation, under an authorisation granted under the Industrial Pollution Control Order, of a scrap metal furnace with a designed holding capacity of less than 25 tonnes to the extent that it is or forms part of a process within paragraphs (b), (e) or (f) of Part B or paragraphs (a), (b) or (d) of Part C of section 2.1 (iron and steel), or paragraphs (a), (b) or (c) of Part B or paragraphs (a) or (b) of Part C of section 2.2 (non-ferrous metals), of Schedule 1 to the 1998 Regulations.
+**3.**[^c-98a6549816a20543b8a3662aaeec6270] (1) The operation, under an authorisation granted under the Industrial Pollution Control Order, of a scrap metal furnace with a designed holding capacity of less than 25 tonnes to the extent that it is or forms part of a process within paragraphs (b), (e) or (f) of Part B or paragraphs (a), (b) or (d) of Part C of section 2.1 (iron and steel), or paragraphs (a), (b) or (c) of Part B or paragraphs (a) or (b) of Part C of section 2.2 (non-ferrous metals), of Schedule 1 to the 1998 Regulations.
 
 (2) The loading or unloading of such a furnace in connection with its operation in a manner covered by the exemption conferred by sub-paragraph (1).
 
 (3) The storage, at the place where such a furnace is located (but not in cases where that place is used for carrying on business as a scrap metal dealer), of scrap metal intended to be submitted to an operation covered by the exemption conferred by sub-paragraph (1).
 
-**4.**[^key-dbda13ff77e3628122a23f9f5bcb0537] (1) The operation, under a permit under the 2003 Regulations, of a scrap metal furnace with a designed holding capacity of less than 25 tonnes to the extent that it is or forms part of an activity within paragraph (a), (b) or (d) of Part C of Section 2.1 (ferrous metals), or paragraph (a) of Part B or paragraph (a) or (b) of Part C of section 2.2 (non-ferrous metals), of Part I of Schedule 1 to the 2003 Regulations.
+**4.**[^c-dbda13ff77e3628122a23f9f5bcb0537] (1) The operation, under a permit under the 2003 Regulations, of a scrap metal furnace with a designed holding capacity of less than 25 tonnes to the extent that it is or forms part of an activity within paragraph (a), (b) or (d) of Part C of Section 2.1 (ferrous metals), or paragraph (a) of Part B or paragraph (a) or (b) of Part C of section 2.2 (non-ferrous metals), of Part I of Schedule 1 to the 2003 Regulations.
 
 (2) The loading or unloading of such a furnace in connection with its operation in a manner covered by the exemption conferred by sub-paragraph (1).
 
 (3) The storage, at the place where such a furnace is located (but not in cases where that place is used for carrying on business as a scrap metal dealer), of scrap metal intended to be submitted to an operation covered by the exemption conferred by sub-paragraph (1).
 
-**5.**[^key-72c867dad2b76f43faeeacb29f0a33f0][^key-f1a3feef201b6ea39c5d21dee707f55f] The carrying on of any of the following operations—
+**5.**[^c-72c867dad2b76f43faeeacb29f0a33f0][^c-f1a3feef201b6ea39c5d21dee707f55f] The carrying on of any of the following operations—
 
 - (a) burning as a fuel at a rate of less than one tonne per hour, under an authorisation granted under the Industrial Pollution Control Order or a permit under the 2003 Regulations, of—
   - (i) straw (02 01 03), poultry litter (02 01 06) or wood (02 01 07); or
@@ -55,22 +55,22 @@ Regulations 1(3) and 17
   - (i) no more than 25 tonnes is stored at any one time; and
   - (ii) no waste is stored there for longer than 1 year.
 
-**6.**[^key-a0b1d193cc2b32b6c09e4576fa868fb9] (1) The cleaning, washing, spraying or coating of waste consisting of packaging or containers so that it or they can be reused if the total quantity of such waste so dealt with at any place does not exceed 1,000 tonnes in any period of seven days.
+**6.**[^c-a0b1d193cc2b32b6c09e4576fa868fb9] (1) The cleaning, washing, spraying or coating of waste consisting of packaging or containers so that it or they can be reused if the total quantity of such waste so dealt with at any place does not exceed 1,000 tonnes in any period of seven days.
 
 (2) The storage of waste in connection with the carrying on of any activities described in sub-paragraph (1) if that storage is at the place where the activity is carried on unless –
 
 - (a) the total quantity of such waste stored at that place exceeds 1,000 tonnes; or
 - (b) more than 1 tonne of metal containers used for the transport or storage of any chemical are dealt with in any period of seven days.
 
-**7.**[^key-834fd541e441d0fcf68baf0cbfa3a23c] (1) Burning waste as a fuel in an appliance if the appliance has a net rated thermal input of less than 0.4 megawatts or, where the appliance is used together with (whether or not it is operated simultaneously with) other appliances, the aggregate net rated thermal input of all the appliances is less than 0.4 megawatts.
+**7.**[^c-834fd541e441d0fcf68baf0cbfa3a23c] (1) Burning waste as a fuel in an appliance if the appliance has a net rated thermal input of less than 0.4 megawatts or, where the appliance is used together with (whether or not it is operated simultaneously with) other appliances, the aggregate net rated thermal input of all the appliances is less than 0.4 megawatts.
 
 (2) The secure storage on the premises where the burning is to take place of waste intended to be submitted to such burning.
 
 (3) In this paragraph, “net rated thermal input”, means the rate at which fuel can be burned at the maximum continuous rating of the appliance multiplied by the net calorific value of the fuel and expressed as megawatts thermal.
 
-**8.**[^key-8b855d4695bd5bcde77256b4d13cda5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8b855d4695bd5bcde77256b4d13cda5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-f06b72157b86794b20fc8b41a62ca03d] (1) Subject to sub-paragraph (3) and any limitation set down in Column 3 of Table 3, the treatment of waste –
+**9.**[^c-f06b72157b86794b20fc8b41a62ca03d] (1) Subject to sub-paragraph (3) and any limitation set down in Column 3 of Table 3, the treatment of waste –
 
 - (a) identified by EWC Code in Column 1 of Table 3 and referred to in Column 2 of that Table, on land used for agriculture where such treatment results in benefit to agriculture or ecological improvement; or
 - (b) listed in Part I of Table 3 and identified by EWC Code in Column 1 of Table 3 and referred to in Column 2 of that Table for the treatment of –
@@ -87,11 +87,11 @@ Regulations 1(3) and 17
 
 (3) Sub-paragraphs (1) and (2) apply only if –
 
-- (a) no more than 250 tonnes or, in the case of dredgings from inland waters, 5,000 tonnes of waste per hectare are spread on the land in any period of twelve months; [^key-1bf30eda4bb9ee70fdf228422d18917e]...
-- (b) in the case of blood and gut contents, the waste has been treated in accordance with the Community Regulation ; and[^key-abdb3cb4b1403d5fca555137216b5de2]
-- (c)[^key-47bc21fc9598527266e2d256f3642df0] where the Nutrient Action Programme Regulations (Northern Ireland) 2019[^key-f4d32c4eda5f54bdf42f5826553a6725] applies treatment shall be carried out in accordance with those Regulations.
+- (a) no more than 250 tonnes or, in the case of dredgings from inland waters, 5,000 tonnes of waste per hectare are spread on the land in any period of twelve months; [^c-1bf30eda4bb9ee70fdf228422d18917e]...
+- (b) in the case of blood and gut contents, the waste has been treated in accordance with the Community Regulation ; and[^c-abdb3cb4b1403d5fca555137216b5de2]
+- (c)[^c-47bc21fc9598527266e2d256f3642df0] where the Nutrient Action Programme Regulations (Northern Ireland) 2019[^c-f4d32c4eda5f54bdf42f5826553a6725] applies treatment shall be carried out in accordance with those Regulations.
 
-(4) [^key-0127aa9e21b82828e5d45893ce8d3fa2]... For the purposes of this paragraph, waste is subject to treatment only when it is spread on land or is injected or otherwise introduced into the surface of that land.
+(4) [^c-0127aa9e21b82828e5d45893ce8d3fa2]... For the purposes of this paragraph, waste is subject to treatment only when it is spread on land or is injected or otherwise introduced into the surface of that land.
 
 Table 3
 
@@ -158,13 +158,13 @@ Table 3
 </tbody>
 </table>
 
-[^key-e006b376893ce93735a92ee2b0fbad8e]
+[^c-e006b376893ce93735a92ee2b0fbad8e]
 
-**10.**[^key-ff13fef6f39ff1ddbd163c2bcf6aeb9f][^key-b5578f8b30ad9a70c83ff6f633272e70] (1) The spreading of sludge on land which is not land used for agriculture within the meaning of the 1990 Regulations if—
+**10.**[^c-ff13fef6f39ff1ddbd163c2bcf6aeb9f][^c-b5578f8b30ad9a70c83ff6f633272e70] (1) The spreading of sludge on land which is not land used for agriculture within the meaning of the 1990 Regulations if—
 
 - (a) it results in ecological improvement or in the case of spreading on land used for non-food crops not grown in short term rotation with food crops, it results in benefit to agriculture;
 - (b) it does not cause the concentration in the soil of any of the elements listed in column 1 of the soil table set out in Schedule 2 to the 1990 Regulations to exceed the limit specified in column 2 of the table; and
-- (c)[^key-b454e5395c5d0c94964f126a890cc921] where the Nutrient Action Programme Regulations (Northern Ireland) 2019[^key-81febe83745f0d5a509682ef17cc0615] applies the spreading shall be carried out in accordance with those Regulations
+- (c)[^c-b454e5395c5d0c94964f126a890cc921] where the Nutrient Action Programme Regulations (Northern Ireland) 2019[^c-81febe83745f0d5a509682ef17cc0615] applies the spreading shall be carried out in accordance with those Regulations
 
 (2) Subject to sub-paragraph (3), the storage in a secure container or lagoon (or, in the case of dewatered sludge, in a secure place) on land –
 
@@ -188,7 +188,7 @@ Table 3
 
 (5) In this paragraph, and in paragraph 11, “sludge” has the meaning given by regulation 2(1) of the 1990 Regulations and “spreading” shall include the injection of sludge into the surface of the land.
 
-**11.**[^key-64b7256addcc9907b965dedfb9678aa6] (1) Subject to the following provisions of this paragraph and any limitation set down in Column 3 of Table 4, the spreading of any of the wastes –
+**11.**[^c-64b7256addcc9907b965dedfb9678aa6] (1) Subject to the following provisions of this paragraph and any limitation set down in Column 3 of Table 4, the spreading of any of the wastes –
 
 - (a) identified by EWC Code in Column 1 of Part I of Table 4 and referred to in Column 2 of that Table on any land; or
 - (b) identified by EWC Code in Column 1 of Part II of Table 4 and referred to in Column 2 of that Table on any land where that activity results in benefit to agriculture or ecological improvement.
@@ -199,11 +199,11 @@ Table 3
 
 - (a) the spreading is carried out for the purpose of reclamation, restoration or improvement of land which has been subject to industrial or other man made development and the use to which that land could be put would be improved by the spreading;
 - (b) the spreading is carried out in accordance with any planning permission where such a permission is required;
-- (c) the waste is spread to a depth not exceeding the lesser of 2 metres or the final cross sections shown on any plan required to be submitted in accordance with regulation 19 and Part II to this Schedule; [^key-3e0e3fcb935a07ba425ffdf3c3c989ee]...
-- (d) the waste spread does not exceed 20,000 cubic metres per hectare ; and[^key-392a1711b4e405aa29276202356194a3]
-- (e)[^key-4986f06a4824bd422ed5f88e78ef66a8] where the Nutrient Action Programme Regulations (Northern Ireland) 2019[^key-1f9e76f1df4cab265fc7517b9c57aa1b] applies the spreading shall be carried out in accordance with those Regulations
+- (c) the waste is spread to a depth not exceeding the lesser of 2 metres or the final cross sections shown on any plan required to be submitted in accordance with regulation 19 and Part II to this Schedule; [^c-3e0e3fcb935a07ba425ffdf3c3c989ee]...
+- (d) the waste spread does not exceed 20,000 cubic metres per hectare ; and[^c-392a1711b4e405aa29276202356194a3]
+- (e)[^c-4986f06a4824bd422ed5f88e78ef66a8] where the Nutrient Action Programme Regulations (Northern Ireland) 2019[^c-1f9e76f1df4cab265fc7517b9c57aa1b] applies the spreading shall be carried out in accordance with those Regulations
 
-**11A.**[^key-5a587fb946033c8aafacb5b627f02789] For the purposes of Table 3 the following definitions apply—
+**11A.**[^c-5a587fb946033c8aafacb5b627f02789] For the purposes of Table 3 the following definitions apply—
 
 - “**conventional treatment**” means any treatment process used to reduce the fermentability and possible health hazards associated with sludge, including biological, chemical or heat treatments that ensure that at east 99% of pathogens have been destroyed;
 - “**enhanced treatment**” means any treatment process which is capable of virtually eliminating any pathogens which may be present in the original sludge and which will be free from Salmonella and will have been treated so as to ensure that 99.9999% pathogens have been destroyed (a 6 log reduction).
@@ -260,7 +260,7 @@ Table 4
 </tbody>
 </table>
 
-**12.**[^key-35bf089bf0afe3d2dccc98269df8b8df] (1) Subject to the conditions specified in sub-paragraph (3), carrying on at any place, in respect of waste of a type identified by the six-digit EWC Code in Column 1 of Table 5 and referred to by the corresponding waste description in Column 2 of that Table, any of the activities specified in Column 3 of that Table in relation to that type of waste where the activity is carried on with a view to the recovery or re-use of the waste (whether or not by the person carrying on the activity specified in that Table).
+**12.**[^c-35bf089bf0afe3d2dccc98269df8b8df] (1) Subject to the conditions specified in sub-paragraph (3), carrying on at any place, in respect of waste of a type identified by the six-digit EWC Code in Column 1 of Table 5 and referred to by the corresponding waste description in Column 2 of that Table, any of the activities specified in Column 3 of that Table in relation to that type of waste where the activity is carried on with a view to the recovery or re-use of the waste (whether or not by the person carrying on the activity specified in that Table).
 
 (2) Subject to the conditions specified in sub-paragraph (3), the storage of waste of a type identified by the six-digit EWC Code in Column 1 of Table 5A and referred to by the corresponding waste description in Column 2 of that Table if the waste is to be reused or used for the purpose of—
 
@@ -495,9 +495,9 @@ Table 5A
 </tbody>
 </table>
 
-**13.**[^key-a3e70fe643100d9c5af31505e5f2c05f] (1) Subject to the following provisions of this paragraph and any limitation set down in Column 3 of Table 6 –
+**13.**[^c-a3e70fe643100d9c5af31505e5f2c05f] (1) Subject to the following provisions of this paragraph and any limitation set down in Column 3 of Table 6 –
 
-- (a) the composting of food waste at the premises of a food business and[^key-e27560fd8681233a60cfe9c31a79be06] of biodegradable waste identified by EWC Code in Column 1 of Table 6 and referred to in Column 2 of that Table;
+- (a) the composting of food waste at the premises of a food business and[^c-e27560fd8681233a60cfe9c31a79be06] of biodegradable waste identified by EWC Code in Column 1 of Table 6 and referred to in Column 2 of that Table;
 - (b) the chipping, shredding, cutting or pulverising such waste for the purpose of composting at the place where the composting activity is or is to be carried out;
 - (c) screening waste which has been composted; and
 - (d) the secure storage of compost and biodegradable waste referred to in sub-paragraph (1)(a) at the place where the composting activity is or is to be carried out.
@@ -567,12 +567,12 @@ Table 5A
 | 20 03 03 | Street-cleaning residues |  |
 | 20 03 99 | Municipal wastes not otherwise specified | slurry or dirty water from stables, zoos or animal parks |
 
-(5)[^key-40683a7cc93b0d1cb497b7b925484c5b] For the purposes of this paragraph—
+(5)[^c-40683a7cc93b0d1cb497b7b925484c5b] For the purposes of this paragraph—
 
 - “business” includes the undertaking of a canteen, club, school, hospital or institution, whether carried on for profit or not, and any undertaking or activity carried on by a district council;
 - “food business” means an undertaking, whether for profit or not, and whether public or private, carrying out any activity related to the processing, distribution, preparation or sale of food.
 
-**14.**[^key-cbce9d687e5682ebd97335e8d691c51f] (1) The manufacture from –
+**14.**[^c-cbce9d687e5682ebd97335e8d691c51f] (1) The manufacture from –
 
 - (a) waste which arises from demolition or construction work or tunnelling or other excavations; or
 - (b) waste which consists of ash, slag, clinker, rock, wood, bark, paper, straw, gypsum,
@@ -594,7 +594,7 @@ of timber products, straw board, plasterboard, bricks, blocks, roadstone or aggr
 - (a) the waste is stored at the place where the activity is to be carried on; and
 - (b) the total quantity of waste stored at that place does not exceed 20,000 tonnes.
 
-**15.**[^key-f5cdd0dd24dc1f1459ed5459b3c765fb] (1) Subject to the conditions specified in sub-paragraph (4), the manufacture of finished goods from waste of a type identified by the six-digit EWC Code in Column 1 of Table 7 and referred to by the corresponding waste description in Column 2 of that Table.
+**15.**[^c-f5cdd0dd24dc1f1459ed5459b3c765fb] (1) Subject to the conditions specified in sub-paragraph (4), the manufacture of finished goods from waste of a type identified by the six-digit EWC Code in Column 1 of Table 7 and referred to by the corresponding waste description in Column 2 of that Table.
 
 (2) The storage of waste of a type identified by the six-digit EWC Code in Column 1 of Table 7 and referred to by the corresponding waste description in Column 2 of that Table intended to be used in reliance upon the exemption conferred by sub-paragraph (1).
 
@@ -720,7 +720,7 @@ Table 7
 </tbody>
 </table>
 
-**16.**[^key-cd79307c32a0f99db51a2237e2f4c27b] (1) The beneficial use of waste if –
+**16.**[^c-cd79307c32a0f99db51a2237e2f4c27b] (1) The beneficial use of waste if –
 
 - (a) it is put to that use without further treatment; and
 - (b) that use of the waste does not involve its disposal.
@@ -729,11 +729,11 @@ Table 7
 
 (3) This paragraph does not apply to the use or storage of waste if that activity is covered by an exemption conferred by paragraph 9, 10, 11, 19 or 25, or would be so covered but for any condition or limitation to which that exemption is subject by virtue of any provision contained in the paragraph by which that exemption is conferred.
 
-**17.**[^key-c084726faea2154e4b89e37095892cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-c084726faea2154e4b89e37095892cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-6941b3b12a48a17e565fad31d4d4840b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-6941b3b12a48a17e565fad31d4d4840b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-a762c899bea4b064e783233b378937c2] (1) Subject to the conditions specified in sub-paragraph (5), the use of waste of a type identified by the six-digit EWC Code in Column 1 of Table 8 and referred to by the corresponding waste description in Column 2 of that Table for the purposes of relevant work.
+**19.**[^c-a762c899bea4b064e783233b378937c2] (1) Subject to the conditions specified in sub-paragraph (5), the use of waste of a type identified by the six-digit EWC Code in Column 1 of Table 8 and referred to by the corresponding waste description in Column 2 of that Table for the purposes of relevant work.
 
 (2) The storage on a site where relevant work is taking place or is to take place, of waste of a type identified by the six-digit EWC Code in Column 1 of Table 8 and referred to by the corresponding waste description in Column 2 of that Table.
 
@@ -789,22 +789,22 @@ Table 8
 </tbody>
 </table>
 
-**20.**[^key-4fa84182dad204431b0a3ba53089bb76] (1) Laundering or otherwise cleaning waste textiles with a view to their recovery or reuse.
+**20.**[^c-4fa84182dad204431b0a3ba53089bb76] (1) Laundering or otherwise cleaning waste textiles with a view to their recovery or reuse.
 
 (2) The storage of waste textiles at the place where they are to be so laundered or cleaned.
 
-**21.**[^key-bf255e08e85ef9a779e9ad0add386c48] (1) Chipping, shredding, cutting or pulverising waste plant matter (including wood or bark), or sorting and baling sawdust or wood shavings, on any premises if –
+**21.**[^c-bf255e08e85ef9a779e9ad0add386c48] (1) Chipping, shredding, cutting or pulverising waste plant matter (including wood or bark), or sorting and baling sawdust or wood shavings, on any premises if –
 
 - (a) those activities are carried on for the purposes of recovery or reuse; and
 - (b) no more than 1,000 tonnes of such waste are dealt with on those premises in any period of seven days.
 
 (2) The storage of waste in connection with any activity mentioned in sub-paragraph (1) at the premises where it is carried on if the total amount of waste stored at those premises does not at any time exceed 1,000 tonnes.
 
-**22.**[^key-405a38b44629ca8fa69bffd53388c6d7] (1) The recovery, at any premises, of silver from waste produced in connection with printing or photographic processing if no more than 50,000 litres of such waste are dealt with on those premises in any day.
+**22.**[^c-405a38b44629ca8fa69bffd53388c6d7] (1) The recovery, at any premises, of silver from waste produced in connection with printing or photographic processing if no more than 50,000 litres of such waste are dealt with on those premises in any day.
 
 (2) The storage, at those premises, of waste which is to be submitted to such a recovery operation as is mentioned in sub-paragraph (1).
 
-**23.**[^key-e16ad9670fe8de926c8a09c4b9558c25][^key-4f9d3c32a9095f13d1c08f20ee99f3b1] (1) The recovery of waste consisting of animal by-products at one of the collection centres in accordance with an authorisation under regulation 27 of the Animal By-Products Regulations (Northern Ireland) 2003 if the total quantity of waste being recovered at that collection centre at any time does not exceed 10 tonnes.
+**23.**[^c-e16ad9670fe8de926c8a09c4b9558c25][^c-4f9d3c32a9095f13d1c08f20ee99f3b1] (1) The recovery of waste consisting of animal by-products at one of the collection centres in accordance with an authorisation under regulation 27 of the Animal By-Products Regulations (Northern Ireland) 2003 if the total quantity of waste being recovered at that collection centre at any time does not exceed 10 tonnes.
 
 (2) The storage of the waste intended to be submitted to such a recovery operation as is mentioned in sub-paragraph (1) if—
 
@@ -813,13 +813,13 @@ Table 8
 
 (3) In this paragraph, “**collection centres**” has the same meaning as in the Community Regulation.
 
-**24.**[^key-a8ddb47133b5fbabae3e6b08eb759cc7] (1) Crushing, grinding or other size reduction of waste bricks, tiles or concrete, under an authorisation granted under the Industrial Pollution Control Order, to the extent that it is or forms part of a process within paragraph (b) of Part C of section 3.4 (other mineral processes) of Schedule 1 to the 1998 Regulations or under a permit under the 2003 Regulations, to the extent that it is or forms part of an activity within paragraph (a) of Part B of section 3.5 (other mineral activities) of Part I of Schedule 1 to the 2003 Regulations.
+**24.**[^c-a8ddb47133b5fbabae3e6b08eb759cc7] (1) Crushing, grinding or other size reduction of waste bricks, tiles or concrete, under an authorisation granted under the Industrial Pollution Control Order, to the extent that it is or forms part of a process within paragraph (b) of Part C of section 3.4 (other mineral processes) of Schedule 1 to the 1998 Regulations or under a permit under the 2003 Regulations, to the extent that it is or forms part of an activity within paragraph (a) of Part B of section 3.5 (other mineral activities) of Part I of Schedule 1 to the 2003 Regulations.
 
 (2) Where any such crushing, grinding or other size reduction is carried on otherwise than at the place where the waste is produced, the exemption conferred by sub-paragraph (1) only applies if those activities are carried on with a view to recovery or reuse of the waste.
 
 (3) The storage, at the place where the process is carried on, of any such waste which is intended to be so crushed, ground or otherwise reduced in size, if the total quantity of such waste so stored at that place at any one time does not exceed 20,000 tonnes.
 
-**25.**[^key-e35a43d181581c5da6faea420f3209e3] (1) Subject to sub-paragraphs (2) to (4)[^key-ddcf33c01e8f9d4a964abd983eb70d6e], the deposit of waste arising from dredging inland waters, or from clearing plant matter from inland waters, if either –
+**25.**[^c-e35a43d181581c5da6faea420f3209e3] (1) Subject to sub-paragraphs (2) to (4)[^c-ddcf33c01e8f9d4a964abd983eb70d6e], the deposit of waste arising from dredging inland waters, or from clearing plant matter from inland waters, if either –
 
 - (a) the waste is deposited along the bank or towpath of the waters where the dredging or clearing takes place; or
 - (b) the waste is deposited along the bank or towpath of any inland waters so as to result in benefit to agriculture or ecological improvement.
@@ -830,7 +830,7 @@ Table 8
 
 (4) Sub-paragraph (1)(a) only applies to an establishment or undertaking where the waste deposited is the establishment or undertaking’s own waste.
 
-(4A)[^key-cb88a85ebf00ec02fec2b93144a884fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-cb88a85ebf00ec02fec2b93144a884fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The treatment by screening or dewatering of such waste as is mentioned in sub-paragraph (1) –
 
@@ -838,13 +838,13 @@ Table 8
 - (b) on the bank or towpath of the waters where the dredging or clearing takes place, or at a place where the waste is to be spread, prior to its being spread in reliance upon the exemption conferred by paragraph 9(1) or (2); or
 - (c) in the case of waste from dredging, on the bank or towpath of the waters where the dredging takes place, or at a place where the waste is to be spread, prior to its being spread in reliance upon the exemption conferred by paragraph 11(1).
 
-**26.**[^key-41fd981b65d37e137924caa530002a06] (1) The recovery or disposal of waste, at the place where it is produced, as an integral part of the process that produces it.
+**26.**[^c-41fd981b65d37e137924caa530002a06] (1) The recovery or disposal of waste, at the place where it is produced, as an integral part of the process that produces it.
 
 (2) The storage, at the place where it is produced, of waste which is intended to be so recovered or disposed of.
 
 (3) Sub-paragraph (1) does not apply to the final disposal of waste by deposit in or on land.
 
-**27.**[^key-916132b48f0359b433185744b55e55fa] (1) Subject to the conditions specified in sub-paragraph (3), baling, compacting, crushing, shredding or pulverising waste at the place where it is produced.
+**27.**[^c-916132b48f0359b433185744b55e55fa] (1) Subject to the conditions specified in sub-paragraph (3), baling, compacting, crushing, shredding or pulverising waste at the place where it is produced.
 
 (2) The temporary storage, at the place where it is produced, of waste which is intended to be used in reliance upon the exemption conferred by sub-paragraph (1).
 
@@ -855,16 +855,16 @@ Table 8
 - (c) no waste is stored for longer than 12 months; and
 - (d) the site has, and is operated in accordance with, planning permission, where such permission is required.
 
-**28.**[^key-98cd1dcbd63f5faba1ec850c6c4374d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-98cd1dcbd63f5faba1ec850c6c4374d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-06abccdf99aef6e88a24ec599e77f9ca] (1) The disposal of waste at the place where it is produced, by the person producing it, by burning it in an incinerator which is an exempt incinerator for the purposes of section 5.1 (incineration) of Schedule 1 to the 1998 Regulations [^key-e8170240bca45ef572889e80dabfcda0]....
+**29.**[^c-06abccdf99aef6e88a24ec599e77f9ca] (1) The disposal of waste at the place where it is produced, by the person producing it, by burning it in an incinerator which is an exempt incinerator for the purposes of section 5.1 (incineration) of Schedule 1 to the 1998 Regulations [^c-e8170240bca45ef572889e80dabfcda0]....
 
 (2) The secure storage at that place of any such waste intended to be submitted to such burning.
 
-**30.**[^key-e2f0873641b79556f1bdc9bc1fcc9a13] (1) Subject to sub-paragraph (2), burning waste on land in the open if –
+**30.**[^c-e2f0873641b79556f1bdc9bc1fcc9a13] (1) Subject to sub-paragraph (2), burning waste on land in the open if –
 
-- (a)[^key-03c71b96369edb2e2f72a2499c32ca3f] the waste consists of plant tissue;
-- (b) it is agricultural waste or[^key-0735c56b38b62685639cecbd4f1c579c] it is produced on land which is operational land of a railway, light railway, tramway, or any Government Department, or which is a forest, woodland, park, garden, verge, landscaped area, sports ground, recreation ground, bank of inland waterway, churchyard or cemetery, or it is produced on other land as a result of demolition work;
+- (a)[^c-03c71b96369edb2e2f72a2499c32ca3f] the waste consists of plant tissue;
+- (b) it is agricultural waste or[^c-0735c56b38b62685639cecbd4f1c579c] it is produced on land which is operational land of a railway, light railway, tramway, or any Government Department, or which is a forest, woodland, park, garden, verge, landscaped area, sports ground, recreation ground, bank of inland waterway, churchyard or cemetery, or it is produced on other land as a result of demolition work;
 - (c) it is burned on the land where it is produced; and
 - (d) the total quantity burned in any period of 24 hours does not exceed 10 tonnes.
 
@@ -872,7 +872,7 @@ Table 8
 
 (3) The storage pending its burning, on the land where it is to be burned, of waste which is to be burned in reliance upon the exemption conferred by sub-paragraph (1).
 
-(4)[^key-49cb0e4b9836170677db1c1dfc8dafa7] The incorporation into soil of ash from cereal straw or cereal stubble burned in reliance of the exemption conferred by sub-paragraph (1) if—
+(4)[^c-49cb0e4b9836170677db1c1dfc8dafa7] The incorporation into soil of ash from cereal straw or cereal stubble burned in reliance of the exemption conferred by sub-paragraph (1) if—
 
 - (a) the incorporation is on the land where the ash was produced; and
 - (b) the ash is not, without reasonable excuse, allowed to remain on the soil for longer than 24 hours after the time of commencement of the burning, but is incorporated into the soil—
@@ -881,19 +881,19 @@ Table 8
 
 (5) For the purposes of this paragraph “**plant tissue**” includes any linseed residues, oil-seed rape residues, field beans harvested dry residues, peas harvested dry residues, cereal straw or cereal stubble.
 
-**31.**[^key-8139395753ef0133040e1dcd3751b960] The discharge of waste onto the track of a railway from a sanitary convenience or sink forming part of a vehicle used for the carriage of passengers on the railway if the discharge in question does not exceed 25 litres.
+**31.**[^c-8139395753ef0133040e1dcd3751b960] The discharge of waste onto the track of a railway from a sanitary convenience or sink forming part of a vehicle used for the carriage of passengers on the railway if the discharge in question does not exceed 25 litres.
 
-**32.**[^key-af70ae472475f5311655575689ff555a] The burial on premises of waste arising from the use on those premises of a sanitary convenience which is equipped with a removable receptacle if the total amount buried in any period of twelve months does not exceed 5 cubic metres.
+**32.**[^c-af70ae472475f5311655575689ff555a] The burial on premises of waste arising from the use on those premises of a sanitary convenience which is equipped with a removable receptacle if the total amount buried in any period of twelve months does not exceed 5 cubic metres.
 
-**33.**[^key-f38f461cb1b5b7800f185e2492fc02fb] (1) The keeping or deposit of waste consisting of excavated materials arising from peatworking at the place where that activity takes place.
-
-(2) Sub-paragraph (1) only applies to the keeping or deposit of waste by an establishment or undertaking where the waste kept or deposited is the establishment or undertaking’s own waste.
-
-**34.**[^key-d81e913965907015fc786eabb21f176f] (1) The keeping or deposit on land at the place where it is produced of spent ballast if the land is operational land of a railway, light railway or tramway and the total amount kept or deposited at that place does not exceed 10 tonnes for each metre of track from which the ballast derives.
+**33.**[^c-f38f461cb1b5b7800f185e2492fc02fb] (1) The keeping or deposit of waste consisting of excavated materials arising from peatworking at the place where that activity takes place.
 
 (2) Sub-paragraph (1) only applies to the keeping or deposit of waste by an establishment or undertaking where the waste kept or deposited is the establishment or undertaking’s own waste.
 
-**35.**[^key-fef5eb21b1608f2f4ab243e3f02156c4] (1) The deposit of waste consisting of excavated material from a borehole or other excavation made for the purpose of mineral exploration if –
+**34.**[^c-d81e913965907015fc786eabb21f176f] (1) The keeping or deposit on land at the place where it is produced of spent ballast if the land is operational land of a railway, light railway or tramway and the total amount kept or deposited at that place does not exceed 10 tonnes for each metre of track from which the ballast derives.
+
+(2) Sub-paragraph (1) only applies to the keeping or deposit of waste by an establishment or undertaking where the waste kept or deposited is the establishment or undertaking’s own waste.
+
+**35.**[^c-fef5eb21b1608f2f4ab243e3f02156c4] (1) The deposit of waste consisting of excavated material from a borehole or other excavation made for the purpose of mineral exploration if –
 
 - (a) it is deposited in or on land at the place where it is excavated; and
 - (b) the total quantity of waste so deposited over any period of 24 months does not exceed 45,000 cubic metres per hectare.
@@ -905,7 +905,7 @@ Table 8
 
 (3) Expressions used in this paragraph which are also used in the Planning (General Development) Order (Northern Ireland) 1993 shall have the same meaning as in that Order.
 
-**36.**[^key-88f31c6495cbe597a39e444f359c8e36] (1) The temporary storage of waste consisting of garbage, at waste reception facilities subject to and in accordance with the Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003[^f00072], where such storage is incidental to the collection or transport of the waste and so long as –
+**36.**[^c-88f31c6495cbe597a39e444f359c8e36] (1) The temporary storage of waste consisting of garbage, at waste reception facilities subject to and in accordance with the Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003[^f00072], where such storage is incidental to the collection or transport of the waste and so long as –
 
 - (a) the amount of garbage so stored at such waste reception facilities at any time does not exceed 20 cubic metres for each ship from which garbage has been landed; and
 - (b) no garbage is so stored for more than seven days.
@@ -920,14 +920,14 @@ Table 8
 - “garbage” and “tank washings” have the same meaning as in paragraph 20(2) of Schedule 3 to the Controlled Waste Regulations (Northern Ireland) 2002[^f00073];
 - “ship” means a vessel of any type whatsoever operating in the marine environment including submersible craft, floating craft and any structure which is a fixed or floating platform.
 
-**37.**[^key-794c09be184385a2ae9acb6c090d17bf] (1) Subject to sub-paragraph (2), the burial of a dead domestic pet in the garden of domestic property where the pet lived.
+**37.**[^c-794c09be184385a2ae9acb6c090d17bf] (1) Subject to sub-paragraph (2), the burial of a dead domestic pet in the garden of domestic property where the pet lived.
 
 (2) Sub-paragraph (1) does not apply if –
 
 - (a) the dead domestic pet may prove hazardous to anyone who may come into contact with it; or
 - (b) the burial is carried out by an establishment or undertaking.
 
-**38.**[^key-d33c232e6649ceb7589561134edbe67e] The deposit or storage of samples of waste which are being or are to be subjected to testing and analysis if the samples are taken –
+**38.**[^c-d33c232e6649ceb7589561134edbe67e] The deposit or storage of samples of waste which are being or are to be subjected to testing and analysis if the samples are taken –
 
 - (a) in the exercise of any power under the Radioactive Substances Act 1993[^f00074], the 1978 Order, the 1997 Order, the Water Order, the Industrial Pollution Control Order or the Environment (Northern Ireland) Order 2002[^f00075];
 - (b) by or on behalf of the holder of a waste management licence, a disposal licence or a resolution in pursuance of the conditions of that licence or resolution;
@@ -938,7 +938,7 @@ Table 8
   - (ii) the Special Waste Regulations (Northern Ireland) 1998[^f00076] applies; or
 - (f) for the purposes of research.
 
-**39.**[^key-aaed240cca351435de7550dbb9d8f650] (1) The secure storage at a pharmacy, pending their disposal there or elsewhere, of waste medicines which have been returned to the pharmacy from households or by individuals if –
+**39.**[^c-aaed240cca351435de7550dbb9d8f650] (1) The secure storage at a pharmacy, pending their disposal there or elsewhere, of waste medicines which have been returned to the pharmacy from households or by individuals if –
 
 - (a) the total quantity of such returned waste medicines at the pharmacy does not exceed 5 cubic metres at any time; and
 - (b) any waste medicine so returned to the pharmacy is not stored there for longer than six months.
@@ -948,22 +948,22 @@ Table 8
 - (a) the total quantity of that waste at the premises does not at any time exceed 5 cubic metres; and
 - (b) no such waste is stored at those premises for longer than three months.
 
-**40.**[^key-de06e72dc45eb988e275bfa1f47ec0a3] (1) The storage, pending its collection or transport, of non-liquid waste at any site other than the premises where it is produced including the temporary storage of[^key-2ff7cc878c35aa2e3eed094c30cfc930] WEEE or waste batteries or accumulators[^key-fb2bad663407d1d16c22353caa3ea477] pending its recovery if –
+**40.**[^c-de06e72dc45eb988e275bfa1f47ec0a3] (1) The storage, pending its collection or transport, of non-liquid waste at any site other than the premises where it is produced including the temporary storage of[^c-2ff7cc878c35aa2e3eed094c30cfc930] WEEE or waste batteries or accumulators[^c-fb2bad663407d1d16c22353caa3ea477] pending its recovery if –
 
 - (a) it is stored in a secure container or containers, does not at any time exceed 50 cubic metres in total and is not kept for a period longer than 3 months;
-- (b) the person storing the waste is the owner of the container or has the consent of the owner; [^key-f7142409010d3fc77cfd4152ec0fdd1a]...
-- (c) the container in which it is stored is not on a site which is otherwise being used for the reception of waste with a view to its being disposed of or recovered elsewhere ; and[^key-a711805fbe4569bf9cd9fa8fc0f1dc95]
+- (b) the person storing the waste is the owner of the container or has the consent of the owner; [^c-f7142409010d3fc77cfd4152ec0fdd1a]...
+- (c) the container in which it is stored is not on a site which is otherwise being used for the reception of waste with a view to its being disposed of or recovered elsewhere ; and[^c-a711805fbe4569bf9cd9fa8fc0f1dc95]
 - (d) the person storing the waste ensures that no waste collected and transported in accordance with Article 5(2E) of the 1997 Order is mixed with any other waste or any material, to the extent that mixing would hamper future recycling.
 
 (2) Sub-paragraph (1) does not apply to the storage of waste at a place used for the recovery of scrap metal or the dismantling of waste motor vehicles.
 
 (3) The temporary storage, pending their collection or transport, of scrap rails on operational land of a railway, light railway or tramway if the total quantity of that waste in any one place does not at any time exceed 10 tonnes.
 
-**41.**[^key-bc473d5c94ccc22ab4346972b20feba9] (1) The temporary storage, pending its collection, of waste (including WEEE or waste batteries or accumulators)[^key-e46bebdd2b01665a76a169510d4fcc2c] on the site where it is produced.
+**41.**[^c-bc473d5c94ccc22ab4346972b20feba9] (1) The temporary storage, pending its collection, of waste (including WEEE or waste batteries or accumulators)[^c-e46bebdd2b01665a76a169510d4fcc2c] on the site where it is produced.
 
 (2) Sub-paragraph (1) does not apply to the storage of waste at a place used for the recovery of scrap metal or the dismantling of waste motor vehicles.
 
-(3) Sub-paragraph (1) shall apply to hazardous waste[^key-1a84b88c67438c3fb441c07708cdfc1d] if –
+(3) Sub-paragraph (1) shall apply to hazardous waste[^c-1a84b88c67438c3fb441c07708cdfc1d] if –
 
 - (a) it is stored on the site for no more than twelve months;
 - (b) in the case of liquid waste, it is stored in a secure container and the total volume of that waste does not at any time exceed 23,000 litres; and
@@ -971,7 +971,7 @@ Table 8
   - (i) it is stored in a secure container and the total volume of that waste does not at any time exceed 80 cubic metres; or
   - (ii) it is stored in a secure place and the total volume of that waste does not at any time exceed 50 cubic metres.
 
-**42.**[^key-8ff8e1fd63b934d721552f5809729b5b] (1) The treatment, keeping or disposal by any person at any premises of waste consisting of scrap metal or waste motor vehicles which are to be dismantled if –
+**42.**[^c-8ff8e1fd63b934d721552f5809729b5b] (1) The treatment, keeping or disposal by any person at any premises of waste consisting of scrap metal or waste motor vehicles which are to be dismantled if –
 
 - (a) he was carrying on the activity in question at those premises before 19th December 2003; and
 - (b) he has applied, before that date, for a disposal licence under Part II of the 1978 Order authorising that activity and that application is pending on that date.
@@ -981,7 +981,7 @@ Table 8
 - (a) the period for appealing expires without an appeal being made; or
 - (b) any appeal is withdrawn or finally determined.
 
-**43.**[^key-5c5336e2d27d8a28f6305cfddc25d6e4] (1) The treatment, keeping or disposal by any person at any premises of waste if –
+**43.**[^c-5c5336e2d27d8a28f6305cfddc25d6e4] (1) The treatment, keeping or disposal by any person at any premises of waste if –
 
 - (a) he was carrying on the activity in question at those premises before 19th December 2003; and
 - (b) before that date no disposal licence was required under Part II of the 1978 Order for that activity.
@@ -993,7 +993,7 @@ Table 8
 - (a) the period for appealing expires without an appeal being made; or
 - (b) any appeal is withdrawn or finally determined.
 
-**44.**[^key-34fec11a6f83262061292c22f94bc4e8] (1) Heating iron, steel or any ferrous-alloy, non-ferrous metal or non-ferrous metal alloy, in one or more furnaces or other appliances the primary combustion chambers of which have in aggregate a net rated thermal input of less than 0.2 megawatts, for the purpose of removing grease, oil or any other non-metallic contaminant.
+**44.**[^c-34fec11a6f83262061292c22f94bc4e8] (1) Heating iron, steel or any ferrous-alloy, non-ferrous metal or non-ferrous metal alloy, in one or more furnaces or other appliances the primary combustion chambers of which have in aggregate a net rated thermal input of less than 0.2 megawatts, for the purpose of removing grease, oil or any other non-metallic contaminant.
 
 (2) Sub-paragraph (1) does not apply to the removal by heat of plastic or rubber covering from scrap cable or of any asbestos contaminant.
 
@@ -1007,7 +1007,7 @@ Table 8
 
 (7) In this paragraph, “ferrous alloy” means an alloy of which iron is the largest constituent, or equal to the largest constituent, by weight, whether or not that alloy also has a non-ferrous metal content greater than any percentage specified in section 2.2 of Schedule 1 to the 1998 Regulations, or as the case may be, section 2.2 of Schedule 1 to the 2003 Regulation and “non-ferrous metal alloy” shall be construed accordingly.
 
-**45.**[^key-a671abf31f1c50f4d1e9cb12188bc41d] (1) Subject to the conditions specified in sub-paragraph (3), the storage of waste of a type identified by the six-digit EWC Code in Column 1 of Table 10 and referred to by the corresponding waste description in Column 2 of that Table at a quayside prior to loading a vessel.
+**45.**[^c-a671abf31f1c50f4d1e9cb12188bc41d] (1) Subject to the conditions specified in sub-paragraph (3), the storage of waste of a type identified by the six-digit EWC Code in Column 1 of Table 10 and referred to by the corresponding waste description in Column 2 of that Table at a quayside prior to loading a vessel.
 
 (2) For the purposes of this paragraph, “vessel” means a vessel as defined in Article 1 of Schedule 11 to the Merchant Shipping Act 1995.
 
@@ -1056,7 +1056,7 @@ Table 10
 |  | *20 01 separately collected fractions (except 15 01)* |
 | 20 01 40 | metals |
 
-**46.**[^key-b2fdc0112d38991bc21982b1c55bd3ee] (1) Subject to the following provisions of this paragraph and any limitation set down in Column 3 of Table 11 –
+**46.**[^c-b2fdc0112d38991bc21982b1c55bd3ee] (1) Subject to the following provisions of this paragraph and any limitation set down in Column 3 of Table 11 –
 
 - (a) the recovery within the curtilage of a water treatment works of waste from water treatment if the total quantity of waste which is accepted in any period of twelve months does not exceed 10,000 cubic metres;
 - (b) the secure storage within the curtilage of a water treatment works of waste intended to be submitted to the activities mentioned in sub-paragraph (a);
@@ -1089,7 +1089,7 @@ Table 10
 </tbody>
 </table>
 
-**47.**[^key-18fb442bf38b06a61d5ceed40f321176] (1) Subject to sub-paragraphs (2) to (4), the burning at a dock of waste consisting of –
+**47.**[^c-18fb442bf38b06a61d5ceed40f321176] (1) Subject to sub-paragraphs (2) to (4), the burning at a dock of waste consisting of –
 
 - (a) plant tissue waste, in pursuance of a notice given under Article 22 of the Plant Health Order (Northern Ireland) 1993[^f00077];
 - (b) wood of any kind used to wedge or support parts of cargo, including packing material, spacers and pallets, in pursuance of a notice given under Article 20 of the Plant Health (Wood and Bark) Order (Northern Ireland) 1993[^f00078].
@@ -1100,25 +1100,25 @@ Table 10
 
 (4) The waste shall be burnt on a hardstanding within a secure location at the dock where it was unloaded.
 
-**47A.**[^key-88be42bc576296ea57ed9acc28b28f8e] (1)[^key-ef1993345696a7eb239c5ddfe5f2f481] The treatment of land used for agriculture with agricultural waste where such treatment results in benefit to agriculture or ecological improvement if—
+**47A.**[^c-88be42bc576296ea57ed9acc28b28f8e] (1)[^c-ef1993345696a7eb239c5ddfe5f2f481] The treatment of land used for agriculture with agricultural waste where such treatment results in benefit to agriculture or ecological improvement if—
 
 - (a) the waste consists only of liquid milk;
 - (b) before the treatment the waste is diluted with not less than an equal quantity of water or slurry;
 - (c) in any period of 30 days the land is treated with no more than 50 cubic metres (tonnes) of diluted waste per hectare; and
-- (d) the treatment shall be carried out in accordance with the Nutrient Action Programme Regulations (Northern Ireland) 2019[^key-a7fa99367780449374b4c973b54582ca].
+- (d) the treatment shall be carried out in accordance with the Nutrient Action Programme Regulations (Northern Ireland) 2019[^c-a7fa99367780449374b4c973b54582ca].
 
 (2) The secure storage or dilution of waste intended to be used to treat land as specified in sub-paragraph (1).
 
 (3) For the purposes of this paragraph, waste is subject to treatment only when it is spread on land or is injected or otherwise introduced into the surface of that land.
 
-**47B.**[^key-b642112bc6a3afd024731456bd079ead] The deposit of agricultural waste consisting of plant tissue at the place of production if—
+**47B.**[^c-b642112bc6a3afd024731456bd079ead] The deposit of agricultural waste consisting of plant tissue at the place of production if—
 
 - (a) there is no more than 250 cubic metres (tonnes) in any one deposit;
-- (b) the deposit is not immediately adjacent to any other deposit made in reliance on this exemption; [^key-fc946613b8195b10ebc27eca89145301]...
-- (c) the deposit shall be carried out in accordance with the Nutrient Action Programme Regulations (Northern Ireland) 2019[^key-539ebe0f2aecd89b83319fda0b6d2652] ; and[^key-10b4e062fb62d4aad6e6e3c496d0752c]
+- (b) the deposit is not immediately adjacent to any other deposit made in reliance on this exemption; [^c-fc946613b8195b10ebc27eca89145301]...
+- (c) the deposit shall be carried out in accordance with the Nutrient Action Programme Regulations (Northern Ireland) 2019[^c-539ebe0f2aecd89b83319fda0b6d2652] ; and[^c-10b4e062fb62d4aad6e6e3c496d0752c]
 - (d) the deposit is carried out in accordance with any requirements specified under a notice served under Article 32 of the Plant Health Order (Northern Ireland) 2006.
 
-**47C.**[^key-e908b98df79f3496d9af0c31d251a303] (1) The disposal of agricultural waste consisting of non-hazardous pesticide solution or washings in a lined biobed at the place of production of that waste if—
+**47C.**[^c-e908b98df79f3496d9af0c31d251a303] (1) The disposal of agricultural waste consisting of non-hazardous pesticide solution or washings in a lined biobed at the place of production of that waste if—
 
 - (a) every part of the place upon which the disposal is carried out is surfaced with an impermeable pavement provided with a sealed drainage system so that all liquids are directed into the biobed;
 - (b) the biobed is located at a secure place at least—
@@ -1141,7 +1141,7 @@ Table 10
 
 - (a) the biobed material is stored securely for 12 months before it is spread;
 - (b) the biobed material consists of a mixture of straw, compost and biologically active soil;
-- (c) the treatment shall be carried out in accordance with the Nutrient Action Programme Regulations (Northern Ireland) 2019[^key-8fa3c2f3318bae43a950a0ee8748020b]; and
+- (c) the treatment shall be carried out in accordance with the Nutrient Action Programme Regulations (Northern Ireland) 2019[^c-8fa3c2f3318bae43a950a0ee8748020b]; and
 - (d) the total quantity of waste used does not exceed 50 tonnes per hectare in any period of 12 months.
 
 (4) The secure storage at the place of production of waste that is intended to be used in reliance of the exemption in sub-paragraph (3) if—
@@ -1156,7 +1156,7 @@ Table 10
 (2) The treatment of land used for agriculture with agricultural waste produced on that land where such treatment results in benefit to agriculture or ecological improvement if—
 
 - (a) the waste consists of ash from the incineration of pig or poultry carcases or such ash mixed with manure in reliance of the exemption in sub-paragraph (1);
-- (b) the treatment shall be carried out in accordance with the Nutrient Action Programme Regulations (Northern Ireland) 2019[^key-adf59549ce57d32dd15f40fb41ae8512];
+- (b) the treatment shall be carried out in accordance with the Nutrient Action Programme Regulations (Northern Ireland) 2019[^c-adf59549ce57d32dd15f40fb41ae8512];
 - (c) where the waste consists only of ash from the incineration of pig or poultry carcases the waste is incorporated into the soil as soon as possible; and
 - (d) the total quantity of ash incorporated into the soil does not exceed 150 kilogrammes per hectare in any period of 12 months.
 
@@ -1165,7 +1165,7 @@ Table 10
 **47E.** (1) The treatment of land used for agriculture with agricultural waste where such treatment results in benefit to agriculture or ecological improvement if—
 
 - (a) the waste consists of dredgings (other than those containing dangerous substances) from farm ditches;
-- (b) the treatment shall be carried out in accordance with the Nutrient Action Programme Regulations (Northern Ireland) 2019[^key-4d86259a23dc8fc1cd585e47a5d8427b]; and
+- (b) the treatment shall be carried out in accordance with the Nutrient Action Programme Regulations (Northern Ireland) 2019[^c-4d86259a23dc8fc1cd585e47a5d8427b]; and
 - (c) the total quantity of waste used per hectare does not exceed 150 tonnes per hectare in any period of 12 months.
 
 (2) The secure storage of not more than 200 tonnes of waste intended to be used to treat land as specified in sub-paragraph (1).
@@ -1173,11 +1173,11 @@ Table 10
 **47F.** The treatment of land used for agriculture with agricultural waste where such treatment results in benefit to agriculture or ecological improvement if—
 
 - (a) the waste consists only of spent mushroom compost;
-- (b) the treatment shall be carried out in accordance with the Nutrient Action Programme Regulations (Northern Ireland) 2019[^key-0b907892f039cc549600f2e3be97830a];
+- (b) the treatment shall be carried out in accordance with the Nutrient Action Programme Regulations (Northern Ireland) 2019[^c-0b907892f039cc549600f2e3be97830a];
 - (c) the total quantity of waste used per hectare does not exceed 50 tonnes per hectare in any period of 12 months; and
 - (d) the total quantity of waste stored at any one time does not exceed 200 tonnes.
 
-**48.**[^key-3c116635282d4ba7779d059e97174b19] For the purposes of this Schedule –
+**48.**[^c-3c116635282d4ba7779d059e97174b19] For the purposes of this Schedule –
 
 - a container, lagoon or place is “secure” in relation to waste kept in it if all reasonable precautions are taken to ensure that the waste cannot escape from it and members of the public are unable to gain access to the waste, and any reference to secure storage means storage in a secure container, lagoon or place;
 - “inland waters” means the whole or any part of –
@@ -1185,12 +1185,12 @@ Table 10
   - (b) any lake or pond, whether natural or artificial, or any reservoir or dock, in so far as the lake, pond, reservoir or dock does not fall within paragraph (a) of this definition; and
   - (c) so much of any channel, creek, bay, estuary or arm of the sea as does not fall within paragraph (a) or (b) of this definition.
 
-**49.**[^key-ea2f04eb617c6f31c72489ef1cbf1395] (1) The carrying on, at any secure place in respect of WEEE of a kind described in Table 11A, of the treatment activities of repair or refurbishment or both if—
+**49.**[^c-ea2f04eb617c6f31c72489ef1cbf1395] (1) The carrying on, at any secure place in respect of WEEE of a kind described in Table 11A, of the treatment activities of repair or refurbishment or both if—
 
 - (a) the activity is carried on with a view to the reuse of the WEEE for its original purpose;
 - (b) best available treatment, recovery and recycling techniques are used when carrying out the activity;
 - (c) the total quantity of any particular kind of WEEE so dealt with at that place does not exceed the treatment limit specified in relation to that kind of WEEE in Table 11A;
-- (d) the technical requirements specified in paragraph (6)[^key-8125f4286b1dbc2c3a8898195002e79d] are met.
+- (d) the technical requirements specified in paragraph (6)[^c-8125f4286b1dbc2c3a8898195002e79d] are met.
 
   Table 11A
 
@@ -1204,7 +1204,7 @@ Table 10
 - (a) the activity is carried on with a view to the reuse of the WEEE for its original purpose;
 - (b) best available treatment, recovery and recycling techniques are used when carrying out the activity;
 - (c) the total quantity of any particular kind of WEEE so dealt with at that place does not exceed the treatment limit specified in relation to that kind of WEEE in Table 11B;
-- (d) the technical requirements specified in paragraph (6)[^key-0d7aeb5b369ebc04470278ab22bb0fc6] are met;
+- (d) the technical requirements specified in paragraph (6)[^c-0d7aeb5b369ebc04470278ab22bb0fc6] are met;
 - (e) the other requirements specified in relation to that kind of WEEE in Table 11B are met.
 
   Table 11B
@@ -1217,7 +1217,7 @@ Table 10
 (3) The secure storage at the place where the activity is carried on of any WEEE of a kind described in Table 11A or 11B intended to be submitted to repair or refurbishment or both if—
 
 - (a) the total quantity of any particular kind of WEEE so dealt with at that place does not exceed the storage limit specified in relation to that kind of WEEE in Table 11A or 11B;
-- (b) the technical requirements specified in paragraph (6)[^key-c6bbe4094dcfed013b4ca308ffbbd9f1] are met;
+- (b) the technical requirements specified in paragraph (6)[^c-c6bbe4094dcfed013b4ca308ffbbd9f1] are met;
 - (c) the other requirements specified in relation to that kind of WEEE in Table 11B are met;
 - (d) the WEEE is stored in such a manner that is environmentally sound reuse or recycling is not hindered;
 - (e) no WEEE is stored at that place for more than 12 months.
@@ -1229,7 +1229,7 @@ Table 10
 
 (5) For the purposes of this paragraph, the storage and treatment limits specified in Tables 11A and 11B are overall limits that apply to all waste falling within the 6-digit code or codes specified in those tables.
 
-(6)[^key-a18e384178c0b853ed895646b6b29b2e] The technical requirements are—
+(6)[^c-a18e384178c0b853ed895646b6b29b2e] The technical requirements are—
 
 - (a) sites for storage (including temporary storage) of WEEE prior to its treatment must have—
   - (i) impermeable surfaces for appropriate areas with provision for spillage collection facilities and where appropriate decanters and cleansers/degreasers; and
@@ -1288,7 +1288,7 @@ Table 10
 - (a) the lamps are stored under weatherproof covering; and
 - (b) after crushing the lamps are stored in a secure container.
 
-**52.**[^key-74c51fd09966cded320471c69d837b67] The secure storage at a place other than the place of production, pending its recovery, of waste batteries or accumulators of a kind described in Table 11E, if—
+**52.**[^c-74c51fd09966cded320471c69d837b67] The secure storage at a place other than the place of production, pending its recovery, of waste batteries or accumulators of a kind described in Table 11E, if—
 
 - (a) the total quantity of waste batteries or accumulators stored at the site at any one time does not exceed the maximum quantity specified in Table 11E;
 - (b) the total duration that the waste batteries or accumulators are stored for does not exceed the maximum duration specified in Table 11E;
@@ -1301,7 +1301,7 @@ Table 10
   | --- | --- | --- | --- |
   | 160601\*, 160602\*, 160604, 200133\*, 200134 | batteries and accumulators | 5 tonnes for automotive batteries and accumulators, 10 tonnes for portable batteries and accumulators | 6 months |
 
-### PART II — INFORMATION REQUIRED FOR THE REGISTRATION OF AN EXEMPTION[^key-395b2824102e90ce455187357fd05f08]
+### PART II — INFORMATION REQUIRED FOR THE REGISTRATION OF AN EXEMPTION[^c-395b2824102e90ce455187357fd05f08]
 
 | Paragraph number of exempt activity in Part I | Plans and documents required |
 | --- | --- |
@@ -1317,20 +1317,20 @@ Table 10
 
 ### PART III — assessment of benefit to agriculture or ecological improvement
 
-**1.**[^key-af6f97e710918da6909b13a0573b34db] In assessing benefit to agriculture or ecological improvement for the purposes of paragraphs 9, 10, 11, 25 and 47A[^key-ff002fc9c69536a0422082981a3ba997] of Part I of this Schedule, regard shall be had to the following paragraphs of this Part.
+**1.**[^c-af6f97e710918da6909b13a0573b34db] In assessing benefit to agriculture or ecological improvement for the purposes of paragraphs 9, 10, 11, 25 and 47A[^c-ff002fc9c69536a0422082981a3ba997] of Part I of this Schedule, regard shall be had to the following paragraphs of this Part.
 
-**2.**[^key-e9e81d01b5e41721831feed6378e9374] Benefit to agriculture shall be assessed by reference to whether the spreading, treatment or deposit[^key-aaa5176832f5e39156cf2838a39f6d90] will result in an improvement of the soil for the purpose of growing crops or grazing, and the following criteria shall apply for the purposes of such assessment –
+**2.**[^c-e9e81d01b5e41721831feed6378e9374] Benefit to agriculture shall be assessed by reference to whether the spreading, treatment or deposit[^c-aaa5176832f5e39156cf2838a39f6d90] will result in an improvement of the soil for the purpose of growing crops or grazing, and the following criteria shall apply for the purposes of such assessment –
 
 - (a) the addition of nitrogen, phosphorous and other plant nutrients in the waste material should take account of the soil nutrient status and other sources of nutrient supply and be matched to the needs of the planned crop rotation;
-- (b)[^key-68f8f90a534150dc4d1f9b66ffde4777] for exempt activities to which the Nutrient Action Programme Regulations (Northern Ireland) 2019[^key-4d69b6f4f3028cd958a657d8760e2c4b] apply the exempt activity shall be carried out in accordance with those Regulations;
+- (b)[^c-68f8f90a534150dc4d1f9b66ffde4777] for exempt activities to which the Nutrient Action Programme Regulations (Northern Ireland) 2019[^c-4d69b6f4f3028cd958a657d8760e2c4b] apply the exempt activity shall be carried out in accordance with those Regulations;
 - (c) the addition of materials containing lime should take account of the neutralising value of the material, the pH of the soil and the target soil pH for the crop rotation;
 - (d) the addition of organic matter which improves the capacity of the soil to hold water, or its porosity, stability, tilth and workability and is a benefit;
 - (e) the spreading, treatment or deposit of watery wastes may be a benefit where the moisture of the soil is insufficient to support the growth of crops at the time of application, or where they contain nutrients which are applied at an appropriate rate;
 - (f) the spreading, treatment or deposit of waste soil may be a benefit where it is done in order to level uneven land and thereby facilitate the use of the land for agriculture, but not where it is done solely in order to raise the level of the land.
 
-**3.**[^key-c45c76f5a150a5a8456bbf39174f36f3] Ecological improvement shall be assessed by reference to the extent to which wildlife habitats, which might otherwise deteriorate, are maintained or supported. The creation of a new habitat or the restoration of an old habitat shall be considered to be an improvement.
+**3.**[^c-c45c76f5a150a5a8456bbf39174f36f3] Ecological improvement shall be assessed by reference to the extent to which wildlife habitats, which might otherwise deteriorate, are maintained or supported. The creation of a new habitat or the restoration of an old habitat shall be considered to be an improvement.
 
-Table 12[^key-4df5fc68e180eadfed44858174adc4e7]
+Table 12[^c-4df5fc68e180eadfed44858174adc4e7]
 
 (Part I, paragraph 9)
 
@@ -1379,137 +1379,137 @@ Table 12[^key-4df5fc68e180eadfed44858174adc4e7]
 
 ## Annotations
 
-[^key-3ad76af6054e0660477632c829faedb4]: Commencement: Sch. 2 Pt. I para. 1 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-3ad76af6054e0660477632c829faedb4]: Commencement: Sch. 2 Pt. I para. 1 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-91fc757da708b77c730d227963737842]: Commencement: Sch. 2 Pt. I para. 2 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-91fc757da708b77c730d227963737842]: Commencement: Sch. 2 Pt. I para. 2 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-98a6549816a20543b8a3662aaeec6270]: Commencement: Sch. 2 Pt. I para. 3 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-98a6549816a20543b8a3662aaeec6270]: Commencement: Sch. 2 Pt. I para. 3 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-dbda13ff77e3628122a23f9f5bcb0537]: Commencement: Sch. 2 para. 4 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-dbda13ff77e3628122a23f9f5bcb0537]: Commencement: Sch. 2 para. 4 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-72c867dad2b76f43faeeacb29f0a33f0]: Commencement: Sch. 2 para. 5 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-72c867dad2b76f43faeeacb29f0a33f0]: Commencement: Sch. 2 para. 5 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-f1a3feef201b6ea39c5d21dee707f55f]: Textual amendment: Sch. 2 Pt. 1 para. 5 substituted (31.3.2009) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/76)](https://www.legislation.gov.uk/nisr/2009/76), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/76/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2009/76/regulation/5)
+[^c-f1a3feef201b6ea39c5d21dee707f55f]: Textual amendment: Sch. 2 Pt. 1 para. 5 substituted (31.3.2009) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/76)](https://www.legislation.gov.uk/nisr/2009/76), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/76/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2009/76/regulation/5)
 
-[^key-a0b1d193cc2b32b6c09e4576fa868fb9]: Commencement: Sch. 2 para. 6 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-a0b1d193cc2b32b6c09e4576fa868fb9]: Commencement: Sch. 2 para. 6 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-834fd541e441d0fcf68baf0cbfa3a23c]: Commencement: Sch. 2 para. 7 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-834fd541e441d0fcf68baf0cbfa3a23c]: Commencement: Sch. 2 para. 7 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-8b855d4695bd5bcde77256b4d13cda5b]: Textual amendment: [Sch. 2 Pt. 1 para. 8](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/8) revoked (31.3.2009) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/76)](https://www.legislation.gov.uk/nisr/2009/76), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/76/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2009/76/regulation/6)
+[^c-8b855d4695bd5bcde77256b4d13cda5b]: Textual amendment: [Sch. 2 Pt. 1 para. 8](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/8) revoked (31.3.2009) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/76)](https://www.legislation.gov.uk/nisr/2009/76), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/76/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2009/76/regulation/6)
 
-[^key-f06b72157b86794b20fc8b41a62ca03d]: Commencement: Sch. 2 para. 9 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-f06b72157b86794b20fc8b41a62ca03d]: Commencement: Sch. 2 para. 9 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-1bf30eda4bb9ee70fdf228422d18917e]: Textual amendment: Word in Sch. 2 Pt. 1 para. 9(3)(a) omitted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [16(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/16/1)
+[^c-1bf30eda4bb9ee70fdf228422d18917e]: Textual amendment: Word in Sch. 2 Pt. 1 para. 9(3)(a) omitted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [16(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/16/1)
 
-[^key-abdb3cb4b1403d5fca555137216b5de2]: Textual amendment: Sch. 2 Pt. 1 para. 9(3)(c) and word inserted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [16(2)](https://www.legislation.gov.uk/nisr/2006/280/regulation/16/2)
+[^c-abdb3cb4b1403d5fca555137216b5de2]: Textual amendment: Sch. 2 Pt. 1 para. 9(3)(c) and word inserted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [16(2)](https://www.legislation.gov.uk/nisr/2006/280/regulation/16/2)
 
-[^key-47bc21fc9598527266e2d256f3642df0]: Textual amendment: Sch. 2 Pt. 1 para. 9(3)(c) substituted (1.1.2007) by [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(a)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
+[^c-47bc21fc9598527266e2d256f3642df0]: Textual amendment: Sch. 2 Pt. 1 para. 9(3)(c) substituted (1.1.2007) by [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(a)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
 
-[^key-f4d32c4eda5f54bdf42f5826553a6725]: Textual amendment: Words in Sch. 2 Pt. 1 para. 9(3)(c) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(a)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/a)
+[^c-f4d32c4eda5f54bdf42f5826553a6725]: Textual amendment: Words in Sch. 2 Pt. 1 para. 9(3)(c) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(a)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/a)
 
-[^key-0127aa9e21b82828e5d45893ce8d3fa2]: Textual amendment: Words in Sch. 2 Pt. 1 para. 9(4) omitted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [16(3)](https://www.legislation.gov.uk/nisr/2006/280/regulation/16/3)
+[^c-0127aa9e21b82828e5d45893ce8d3fa2]: Textual amendment: Words in Sch. 2 Pt. 1 para. 9(4) omitted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [16(3)](https://www.legislation.gov.uk/nisr/2006/280/regulation/16/3)
 
-[^key-e006b376893ce93735a92ee2b0fbad8e]: Textual amendment: Sch. 2 Pt. 1 para. 9 Table 3 substituted (30.12.2011) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/403)](https://www.legislation.gov.uk/nisr/2011/403), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/403/regulation/1/1), [3(1)](https://www.legislation.gov.uk/nisr/2011/403/regulation/3/1)
+[^c-e006b376893ce93735a92ee2b0fbad8e]: Textual amendment: Sch. 2 Pt. 1 para. 9 Table 3 substituted (30.12.2011) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/403)](https://www.legislation.gov.uk/nisr/2011/403), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/403/regulation/1/1), [3(1)](https://www.legislation.gov.uk/nisr/2011/403/regulation/3/1)
 
-[^key-ff13fef6f39ff1ddbd163c2bcf6aeb9f]: Commencement: Sch. 2 para. 10 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-ff13fef6f39ff1ddbd163c2bcf6aeb9f]: Commencement: Sch. 2 para. 10 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-b5578f8b30ad9a70c83ff6f633272e70]: Textual amendment: Sch. 2 Pt. 1 para. 10(1) substituted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [17](https://www.legislation.gov.uk/nisr/2006/280/regulation/17)
+[^c-b5578f8b30ad9a70c83ff6f633272e70]: Textual amendment: Sch. 2 Pt. 1 para. 10(1) substituted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [17](https://www.legislation.gov.uk/nisr/2006/280/regulation/17)
 
-[^key-b454e5395c5d0c94964f126a890cc921]: Textual amendment: Sch. 2 Pt. 1 para. 10(1)(c) substituted (1.1.2007) by [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(b)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/b) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
+[^c-b454e5395c5d0c94964f126a890cc921]: Textual amendment: Sch. 2 Pt. 1 para. 10(1)(c) substituted (1.1.2007) by [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(b)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/b) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
 
-[^key-81febe83745f0d5a509682ef17cc0615]: Textual amendment: Words in Sch. 2 Pt. 1 para. 10(1)(c) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(a)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/a)
+[^c-81febe83745f0d5a509682ef17cc0615]: Textual amendment: Words in Sch. 2 Pt. 1 para. 10(1)(c) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(a)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/a)
 
 [^f00070]: Footnote: [S.R. 1990 No. 245](https://www.legislation.gov.uk/nisr/1990/245)
 
-[^key-64b7256addcc9907b965dedfb9678aa6]: Commencement: Sch. 2 para. 11 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-64b7256addcc9907b965dedfb9678aa6]: Commencement: Sch. 2 para. 11 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-3e0e3fcb935a07ba425ffdf3c3c989ee]: Textual amendment: Word in Sch. 2 Pt. 1 para. 11(3)(c) omitted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [18(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/18/1)
+[^c-3e0e3fcb935a07ba425ffdf3c3c989ee]: Textual amendment: Word in Sch. 2 Pt. 1 para. 11(3)(c) omitted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [18(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/18/1)
 
-[^key-392a1711b4e405aa29276202356194a3]: Textual amendment: Sch. 2 Pt. 1 para. 11(3)(e) and word inserted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [18(2)](https://www.legislation.gov.uk/nisr/2006/280/regulation/18/2)
+[^c-392a1711b4e405aa29276202356194a3]: Textual amendment: Sch. 2 Pt. 1 para. 11(3)(e) and word inserted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [18(2)](https://www.legislation.gov.uk/nisr/2006/280/regulation/18/2)
 
-[^key-4986f06a4824bd422ed5f88e78ef66a8]: Textual amendment: Sch. 2 Pt. 1 para. 11(3)(e) substituted (1.1.2007) by [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(c)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/c) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
+[^c-4986f06a4824bd422ed5f88e78ef66a8]: Textual amendment: Sch. 2 Pt. 1 para. 11(3)(e) substituted (1.1.2007) by [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(c)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/c) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
 
-[^key-1f9e76f1df4cab265fc7517b9c57aa1b]: Textual amendment: Words in Sch. 2 Pt. 1 para. 11(3)(e) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(a)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/a)
+[^c-1f9e76f1df4cab265fc7517b9c57aa1b]: Textual amendment: Words in Sch. 2 Pt. 1 para. 11(3)(e) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(a)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/a)
 
-[^key-5a587fb946033c8aafacb5b627f02789]: Textual amendment: Sch. 2 Pt. 1 para. 11A inserted "after paragraph 11 sub-paragraph (e)" (30.12.2011) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/403)](https://www.legislation.gov.uk/nisr/2011/403), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/403/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2011/403/regulation/4)
+[^c-5a587fb946033c8aafacb5b627f02789]: Textual amendment: Sch. 2 Pt. 1 para. 11A inserted "after paragraph 11 sub-paragraph (e)" (30.12.2011) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/403)](https://www.legislation.gov.uk/nisr/2011/403), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/403/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2011/403/regulation/4)
 
-[^key-35bf089bf0afe3d2dccc98269df8b8df]: Textual amendment: Sch. 2 Pt. 1 para. 12 substituted (5.9.2016) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/2)
+[^c-35bf089bf0afe3d2dccc98269df8b8df]: Textual amendment: Sch. 2 Pt. 1 para. 12 substituted (5.9.2016) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/2)
 
-[^key-a3e70fe643100d9c5af31505e5f2c05f]: Commencement: Sch. 2 para. 13 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-a3e70fe643100d9c5af31505e5f2c05f]: Commencement: Sch. 2 para. 13 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-e27560fd8681233a60cfe9c31a79be06]: Textual amendment: Words in Sch. 2 Pt. 1 para. 13(1)(a) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [5(4)(a)(i)](https://www.legislation.gov.uk/nisr/2015/14/regulation/5/4/a/i)
+[^c-e27560fd8681233a60cfe9c31a79be06]: Textual amendment: Words in Sch. 2 Pt. 1 para. 13(1)(a) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [5(4)(a)(i)](https://www.legislation.gov.uk/nisr/2015/14/regulation/5/4/a/i)
 
-[^key-40683a7cc93b0d1cb497b7b925484c5b]: Textual amendment: Sch. 2 Pt. 1 para. 13(5) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [5(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/14/regulation/5/4/a/ii)
+[^c-40683a7cc93b0d1cb497b7b925484c5b]: Textual amendment: Sch. 2 Pt. 1 para. 13(5) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [5(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/14/regulation/5/4/a/ii)
 
-[^key-cbce9d687e5682ebd97335e8d691c51f]: Commencement: Sch. 2 para. 14 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-cbce9d687e5682ebd97335e8d691c51f]: Commencement: Sch. 2 para. 14 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-f5cdd0dd24dc1f1459ed5459b3c765fb]: Textual amendment: Sch. 2 Pt. 1 para. 15 substituted (5.9.2016) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/3)
+[^c-f5cdd0dd24dc1f1459ed5459b3c765fb]: Textual amendment: Sch. 2 Pt. 1 para. 15 substituted (5.9.2016) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/3)
 
-[^key-cd79307c32a0f99db51a2237e2f4c27b]: Commencement: Sch. 2 para. 16 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-cd79307c32a0f99db51a2237e2f4c27b]: Commencement: Sch. 2 para. 16 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-c084726faea2154e4b89e37095892cf4]: Textual amendment: Sch. 2 Pt. 1 para. 17 omitted (5.9.2016) by virtue of [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/4)
+[^c-c084726faea2154e4b89e37095892cf4]: Textual amendment: Sch. 2 Pt. 1 para. 17 omitted (5.9.2016) by virtue of [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/4)
 
-[^key-6941b3b12a48a17e565fad31d4d4840b]: Textual amendment: Sch. 2 Pt. 1 para. 18 omitted (5.9.2016) by virtue of [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/5)
+[^c-6941b3b12a48a17e565fad31d4d4840b]: Textual amendment: Sch. 2 Pt. 1 para. 18 omitted (5.9.2016) by virtue of [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/5)
 
-[^key-a762c899bea4b064e783233b378937c2]: Textual amendment: Sch. 2 Pt. 1 para. 19 substituted (5.9.2016) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/6)
+[^c-a762c899bea4b064e783233b378937c2]: Textual amendment: Sch. 2 Pt. 1 para. 19 substituted (5.9.2016) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(6)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/6)
 
-[^key-4fa84182dad204431b0a3ba53089bb76]: Commencement: Sch. 2 para. 20 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-4fa84182dad204431b0a3ba53089bb76]: Commencement: Sch. 2 para. 20 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-bf255e08e85ef9a779e9ad0add386c48]: Commencement: Sch. 2 para. 21 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-bf255e08e85ef9a779e9ad0add386c48]: Commencement: Sch. 2 para. 21 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-405a38b44629ca8fa69bffd53388c6d7]: Commencement: Sch. 2 para. 22 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-405a38b44629ca8fa69bffd53388c6d7]: Commencement: Sch. 2 para. 22 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-e16ad9670fe8de926c8a09c4b9558c25]: Commencement: Sch. 2 para. 23 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-e16ad9670fe8de926c8a09c4b9558c25]: Commencement: Sch. 2 para. 23 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-4f9d3c32a9095f13d1c08f20ee99f3b1]: Textual amendment: Sch. 2 Pt. 1 para. 23 substituted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2006/280/regulation/19)
+[^c-4f9d3c32a9095f13d1c08f20ee99f3b1]: Textual amendment: Sch. 2 Pt. 1 para. 23 substituted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2006/280/regulation/19)
 
-[^key-a8ddb47133b5fbabae3e6b08eb759cc7]: Commencement: Sch. 2 para. 24 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-a8ddb47133b5fbabae3e6b08eb759cc7]: Commencement: Sch. 2 para. 24 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-e35a43d181581c5da6faea420f3209e3]: Commencement: Sch. 2 para. 25 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-e35a43d181581c5da6faea420f3209e3]: Commencement: Sch. 2 para. 25 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-ddcf33c01e8f9d4a964abd983eb70d6e]: Textual amendment: Words in Sch. 2 Pt. 1 para. 25(1) substituted (1.1.2007) by [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(d)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/d) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
+[^c-ddcf33c01e8f9d4a964abd983eb70d6e]: Textual amendment: Words in Sch. 2 Pt. 1 para. 25(1) substituted (1.1.2007) by [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(d)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/d) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
 
-[^key-cb88a85ebf00ec02fec2b93144a884fd]: Textual amendment: Sch. 2 Pt. 1 para. 25(4A) omitted (1.1.2007) by virtue of [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(e)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/e) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
+[^c-cb88a85ebf00ec02fec2b93144a884fd]: Textual amendment: Sch. 2 Pt. 1 para. 25(4A) omitted (1.1.2007) by virtue of [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(e)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/e) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
 
-[^key-41fd981b65d37e137924caa530002a06]: Commencement: Sch. 2 para. 26 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-41fd981b65d37e137924caa530002a06]: Commencement: Sch. 2 para. 26 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-916132b48f0359b433185744b55e55fa]: Textual amendment: Sch. 2 Pt. 1 para. 27 substituted (5.9.2016) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(7)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/7)
+[^c-916132b48f0359b433185744b55e55fa]: Textual amendment: Sch. 2 Pt. 1 para. 27 substituted (5.9.2016) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(7)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/7)
 
-[^key-98cd1dcbd63f5faba1ec850c6c4374d8]: Textual amendment: [Sch. 2 Pt. 1 para. 28](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/28) revoked (31.3.2009) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/76)](https://www.legislation.gov.uk/nisr/2009/76), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/76/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2009/76/regulation/7)
+[^c-98cd1dcbd63f5faba1ec850c6c4374d8]: Textual amendment: [Sch. 2 Pt. 1 para. 28](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/28) revoked (31.3.2009) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/76)](https://www.legislation.gov.uk/nisr/2009/76), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/76/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2009/76/regulation/7)
 
-[^key-06abccdf99aef6e88a24ec599e77f9ca]: Commencement: Sch. 2 para. 29 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-06abccdf99aef6e88a24ec599e77f9ca]: Commencement: Sch. 2 para. 29 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-e8170240bca45ef572889e80dabfcda0]: Textual amendment: Words in Sch. 2 Pt. 1 para. 29(1) omitted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [21](https://www.legislation.gov.uk/nisr/2006/280/regulation/21)
+[^c-e8170240bca45ef572889e80dabfcda0]: Textual amendment: Words in Sch. 2 Pt. 1 para. 29(1) omitted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [21](https://www.legislation.gov.uk/nisr/2006/280/regulation/21)
 
-[^key-e2f0873641b79556f1bdc9bc1fcc9a13]: Commencement: Sch. 2 para. 30 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-e2f0873641b79556f1bdc9bc1fcc9a13]: Commencement: Sch. 2 para. 30 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-03c71b96369edb2e2f72a2499c32ca3f]: Textual amendment: Sch. 2 Pt. 1 para. 30(1)(a) substituted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [22(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/22/1)
+[^c-03c71b96369edb2e2f72a2499c32ca3f]: Textual amendment: Sch. 2 Pt. 1 para. 30(1)(a) substituted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [22(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/22/1)
 
-[^key-0735c56b38b62685639cecbd4f1c579c]: Textual amendment: Words in Sch. 2 Pt. 1 para. 30(1)(b) inserted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [22(2)](https://www.legislation.gov.uk/nisr/2006/280/regulation/22/2)
+[^c-0735c56b38b62685639cecbd4f1c579c]: Textual amendment: Words in Sch. 2 Pt. 1 para. 30(1)(b) inserted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [22(2)](https://www.legislation.gov.uk/nisr/2006/280/regulation/22/2)
 
-[^key-49cb0e4b9836170677db1c1dfc8dafa7]: Textual amendment: Sch. 2 Pt. 1 para. 30(4)(5) inserted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [22(3)](https://www.legislation.gov.uk/nisr/2006/280/regulation/22/3)
+[^c-49cb0e4b9836170677db1c1dfc8dafa7]: Textual amendment: Sch. 2 Pt. 1 para. 30(4)(5) inserted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [22(3)](https://www.legislation.gov.uk/nisr/2006/280/regulation/22/3)
 
-[^key-8139395753ef0133040e1dcd3751b960]: Commencement: Sch. 2 para. 31 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-8139395753ef0133040e1dcd3751b960]: Commencement: Sch. 2 para. 31 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-af70ae472475f5311655575689ff555a]: Commencement: Sch. 2 para. 32 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-af70ae472475f5311655575689ff555a]: Commencement: Sch. 2 para. 32 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-f38f461cb1b5b7800f185e2492fc02fb]: Commencement: Sch. 2 para. 33 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-f38f461cb1b5b7800f185e2492fc02fb]: Commencement: Sch. 2 para. 33 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-d81e913965907015fc786eabb21f176f]: Commencement: Sch. 2 para. 34 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-d81e913965907015fc786eabb21f176f]: Commencement: Sch. 2 para. 34 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-fef5eb21b1608f2f4ab243e3f02156c4]: Commencement: Sch. 2 para. 35 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-fef5eb21b1608f2f4ab243e3f02156c4]: Commencement: Sch. 2 para. 35 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
 [^f00071]: Footnote: [S.R. 1993 No. 278](https://www.legislation.gov.uk/nisr/1993/278)
 
-[^key-88f31c6495cbe597a39e444f359c8e36]: Commencement: Sch. 2 para. 36 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-88f31c6495cbe597a39e444f359c8e36]: Commencement: Sch. 2 para. 36 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
 [^f00072]: Footnote: S.I. [2003/1809](https://www.legislation.gov.uk/uksi/2003/1809)
 
 [^f00073]: Footnote: [S.R. 2002 No. 248](https://www.legislation.gov.uk/nisr/2002/248); to which there is an amendment not relevant to these Regulations
 
-[^key-794c09be184385a2ae9acb6c090d17bf]: Commencement: Sch. 2 para. 37 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-794c09be184385a2ae9acb6c090d17bf]: Commencement: Sch. 2 para. 37 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-d33c232e6649ceb7589561134edbe67e]: Commencement: Sch. 2 para. 38 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-d33c232e6649ceb7589561134edbe67e]: Commencement: Sch. 2 para. 38 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
 [^f00074]: Footnote: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12)
 
@@ -1517,92 +1517,92 @@ Table 12[^key-4df5fc68e180eadfed44858174adc4e7]
 
 [^f00076]: Footnote: [S.R. 1998 No. 289](https://www.legislation.gov.uk/nisr/1998/289)
 
-[^key-aaed240cca351435de7550dbb9d8f650]: Commencement: Sch. 2 para. 39 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-aaed240cca351435de7550dbb9d8f650]: Commencement: Sch. 2 para. 39 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-de06e72dc45eb988e275bfa1f47ec0a3]: Commencement: Sch. 2 para. 40 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-de06e72dc45eb988e275bfa1f47ec0a3]: Commencement: Sch. 2 para. 40 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-2ff7cc878c35aa2e3eed094c30cfc930]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 40(1)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/40/1) inserted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/8/a) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
+[^c-2ff7cc878c35aa2e3eed094c30cfc930]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 40(1)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/40/1) inserted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/8/a) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
 
-[^key-fb2bad663407d1d16c22353caa3ea477]: Textual amendment: Words in Sch. 2 Pt. 1 para. 40(1) inserted (20.5.2009) by [The Waste Batteries and Accumulators (Treatment and Disposal) Regulations (Northern Ireland) 2009 (S.R. 2009/159)](https://www.legislation.gov.uk/nisr/2009/159), [regs. 1](https://www.legislation.gov.uk/nisr/2009/159/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/nisr/2009/159/regulation/3/6/a) (with [reg. 4](https://www.legislation.gov.uk/nisr/2009/159/regulation/4))
+[^c-fb2bad663407d1d16c22353caa3ea477]: Textual amendment: Words in Sch. 2 Pt. 1 para. 40(1) inserted (20.5.2009) by [The Waste Batteries and Accumulators (Treatment and Disposal) Regulations (Northern Ireland) 2009 (S.R. 2009/159)](https://www.legislation.gov.uk/nisr/2009/159), [regs. 1](https://www.legislation.gov.uk/nisr/2009/159/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/nisr/2009/159/regulation/3/6/a) (with [reg. 4](https://www.legislation.gov.uk/nisr/2009/159/regulation/4))
 
-[^key-f7142409010d3fc77cfd4152ec0fdd1a]: Textual amendment: Word in Sch. 2 Pt. 1 para. 40(1)(b) omitted (14.2.2015) by virtue of [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [5(4)(b)(i)](https://www.legislation.gov.uk/nisr/2015/14/regulation/5/4/b/i)
+[^c-f7142409010d3fc77cfd4152ec0fdd1a]: Textual amendment: Word in Sch. 2 Pt. 1 para. 40(1)(b) omitted (14.2.2015) by virtue of [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [5(4)(b)(i)](https://www.legislation.gov.uk/nisr/2015/14/regulation/5/4/b/i)
 
-[^key-a711805fbe4569bf9cd9fa8fc0f1dc95]: Textual amendment: Sch. 2 Pt. 1 para. 40(1)(d) and word substituted for full stop (14.2.2015) by virtue of [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [5(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/14/regulation/5/4/b/ii)
+[^c-a711805fbe4569bf9cd9fa8fc0f1dc95]: Textual amendment: Sch. 2 Pt. 1 para. 40(1)(d) and word substituted for full stop (14.2.2015) by virtue of [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [5(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/14/regulation/5/4/b/ii)
 
-[^key-bc473d5c94ccc22ab4346972b20feba9]: Commencement: Sch. 2 para. 41 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-bc473d5c94ccc22ab4346972b20feba9]: Commencement: Sch. 2 para. 41 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-e46bebdd2b01665a76a169510d4fcc2c]: Textual amendment: Words in Sch. 2 Pt. 1 para. 41(1) substituted (20.5.2009) by [The Waste Batteries and Accumulators (Treatment and Disposal) Regulations (Northern Ireland) 2009 (S.R. 2009/159)](https://www.legislation.gov.uk/nisr/2009/159), [regs. 1](https://www.legislation.gov.uk/nisr/2009/159/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2009/159/regulation/3/6/b) (with [reg. 4](https://www.legislation.gov.uk/nisr/2009/159/regulation/4))
+[^c-e46bebdd2b01665a76a169510d4fcc2c]: Textual amendment: Words in Sch. 2 Pt. 1 para. 41(1) substituted (20.5.2009) by [The Waste Batteries and Accumulators (Treatment and Disposal) Regulations (Northern Ireland) 2009 (S.R. 2009/159)](https://www.legislation.gov.uk/nisr/2009/159), [regs. 1](https://www.legislation.gov.uk/nisr/2009/159/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2009/159/regulation/3/6/b) (with [reg. 4](https://www.legislation.gov.uk/nisr/2009/159/regulation/4))
 
-[^key-1a84b88c67438c3fb441c07708cdfc1d]: Textual amendment: Words in Regulations substituted (16.7.2005) by virtue of [The Hazardous Waste Regulations (Northern Ireland) 2005 (S.R. 2005/300)](https://www.legislation.gov.uk/nisr/2005/300), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/300/regulation/1/1), [Sch. 10 para. 9(2)(4)](https://www.legislation.gov.uk/nisr/2005/300/schedule/10/paragraph/9/2)
+[^c-1a84b88c67438c3fb441c07708cdfc1d]: Textual amendment: Words in Regulations substituted (16.7.2005) by virtue of [The Hazardous Waste Regulations (Northern Ireland) 2005 (S.R. 2005/300)](https://www.legislation.gov.uk/nisr/2005/300), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/300/regulation/1/1), [Sch. 10 para. 9(2)(4)](https://www.legislation.gov.uk/nisr/2005/300/schedule/10/paragraph/9/2)
 
-[^key-8ff8e1fd63b934d721552f5809729b5b]: Commencement: Sch. 2 para. 42 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-8ff8e1fd63b934d721552f5809729b5b]: Commencement: Sch. 2 para. 42 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-5c5336e2d27d8a28f6305cfddc25d6e4]: Commencement: Sch. 2 para. 43 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-5c5336e2d27d8a28f6305cfddc25d6e4]: Commencement: Sch. 2 para. 43 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-34fec11a6f83262061292c22f94bc4e8]: Commencement: Sch. 2 para. 44 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-34fec11a6f83262061292c22f94bc4e8]: Commencement: Sch. 2 para. 44 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-a671abf31f1c50f4d1e9cb12188bc41d]: Textual amendment: Sch. 2 Pt. 1 para. 45 substituted (5.9.2016) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(8)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/8)
+[^c-a671abf31f1c50f4d1e9cb12188bc41d]: Textual amendment: Sch. 2 Pt. 1 para. 45 substituted (5.9.2016) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/96)](https://www.legislation.gov.uk/nisr/2016/96), [regs. 1](https://www.legislation.gov.uk/nisr/2016/96/regulation/1), [3(8)](https://www.legislation.gov.uk/nisr/2016/96/regulation/3/8)
 
-[^key-b2fdc0112d38991bc21982b1c55bd3ee]: Commencement: Sch. 2 para. 46 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-b2fdc0112d38991bc21982b1c55bd3ee]: Commencement: Sch. 2 para. 46 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-18fb442bf38b06a61d5ceed40f321176]: Commencement: Sch. 2 para. 47 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-18fb442bf38b06a61d5ceed40f321176]: Commencement: Sch. 2 para. 47 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
 [^f00077]: Footnote: [S.R. 1993 No. 256](https://www.legislation.gov.uk/nisr/1993/256)
 
 [^f00078]: Footnote: [S.R. 1993 No. 460](https://www.legislation.gov.uk/nisr/1993/460)
 
-[^key-88be42bc576296ea57ed9acc28b28f8e]: Textual amendment: Sch. 2 Pt. 1 paras. 47A, 47B inserted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2006/280/regulation/23)
+[^c-88be42bc576296ea57ed9acc28b28f8e]: Textual amendment: Sch. 2 Pt. 1 paras. 47A, 47B inserted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2006/280/regulation/23)
 
-[^key-ef1993345696a7eb239c5ddfe5f2f481]: Textual amendment: Sch. 2 Pt. 1 para. 47A(1) substituted (1.1.2007) by virtue of [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(f)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/f) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/1))
+[^c-ef1993345696a7eb239c5ddfe5f2f481]: Textual amendment: Sch. 2 Pt. 1 para. 47A(1) substituted (1.1.2007) by virtue of [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(f)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/f) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/1))
 
-[^key-a7fa99367780449374b4c973b54582ca]: Textual amendment: Words in Sch. 2 Pt. 1 para. 47A(1)(d) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(a)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/a)
+[^c-a7fa99367780449374b4c973b54582ca]: Textual amendment: Words in Sch. 2 Pt. 1 para. 47A(1)(d) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(a)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/a)
 
-[^key-b642112bc6a3afd024731456bd079ead]: Textual amendment: Sch. 2 Pt. 1 para. 47B substituted (1.1.2007) by virtue of [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(g)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/g) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
+[^c-b642112bc6a3afd024731456bd079ead]: Textual amendment: Sch. 2 Pt. 1 para. 47B substituted (1.1.2007) by virtue of [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(g)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/g) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
 
-[^key-fc946613b8195b10ebc27eca89145301]: Textual amendment: Word in Sch. 2 Pt. 1 para. 47B(b) omitted (13.2.2008) by virtue of [The Waste Management (Miscellaneous Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/18)](https://www.legislation.gov.uk/nisr/2008/18), [regs. 1](https://www.legislation.gov.uk/nisr/2008/18/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2008/18/regulation/3/1)
+[^c-fc946613b8195b10ebc27eca89145301]: Textual amendment: Word in Sch. 2 Pt. 1 para. 47B(b) omitted (13.2.2008) by virtue of [The Waste Management (Miscellaneous Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/18)](https://www.legislation.gov.uk/nisr/2008/18), [regs. 1](https://www.legislation.gov.uk/nisr/2008/18/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2008/18/regulation/3/1)
 
-[^key-539ebe0f2aecd89b83319fda0b6d2652]: Textual amendment: Words in Sch. 2 Pt. 1 para. 47B(c) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(a)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/a)
+[^c-539ebe0f2aecd89b83319fda0b6d2652]: Textual amendment: Words in Sch. 2 Pt. 1 para. 47B(c) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(a)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/a)
 
-[^key-10b4e062fb62d4aad6e6e3c496d0752c]: Textual amendment: [Sch. 2 Pt. 1 para. 47B(d)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/1/paragraph/47B/d) and word inserted (13.2.2008) by [The Waste Management (Miscellaneous Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/18)](https://www.legislation.gov.uk/nisr/2008/18), [regs. 1](https://www.legislation.gov.uk/nisr/2008/18/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2008/18/regulation/3/2)
+[^c-10b4e062fb62d4aad6e6e3c496d0752c]: Textual amendment: [Sch. 2 Pt. 1 para. 47B(d)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/1/paragraph/47B/d) and word inserted (13.2.2008) by [The Waste Management (Miscellaneous Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/18)](https://www.legislation.gov.uk/nisr/2008/18), [regs. 1](https://www.legislation.gov.uk/nisr/2008/18/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2008/18/regulation/3/2)
 
-[^key-e908b98df79f3496d9af0c31d251a303]: Textual amendment: Sch. 2 Pt. 1 paras. 47C-47F inserted (13.2.2008) by [The Waste Management (Miscellaneous Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/18)](https://www.legislation.gov.uk/nisr/2008/18), [regs. 1](https://www.legislation.gov.uk/nisr/2008/18/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/18/regulation/4)
+[^c-e908b98df79f3496d9af0c31d251a303]: Textual amendment: Sch. 2 Pt. 1 paras. 47C-47F inserted (13.2.2008) by [The Waste Management (Miscellaneous Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/18)](https://www.legislation.gov.uk/nisr/2008/18), [regs. 1](https://www.legislation.gov.uk/nisr/2008/18/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/18/regulation/4)
 
-[^key-8fa3c2f3318bae43a950a0ee8748020b]: Textual amendment: Words in Sch. 2 Pt. 1 para. 47C(3)(c) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(b)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/b)
+[^c-8fa3c2f3318bae43a950a0ee8748020b]: Textual amendment: Words in Sch. 2 Pt. 1 para. 47C(3)(c) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(b)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/b)
 
-[^key-adf59549ce57d32dd15f40fb41ae8512]: Textual amendment: Words in Sch. 2 Pt. 1 para. 47D(2)(b) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(b)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/b)
+[^c-adf59549ce57d32dd15f40fb41ae8512]: Textual amendment: Words in Sch. 2 Pt. 1 para. 47D(2)(b) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(b)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/b)
 
-[^key-4d86259a23dc8fc1cd585e47a5d8427b]: Textual amendment: Words in Sch. 2 Pt. 1 para. 47E(1)(b) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(b)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/b)
+[^c-4d86259a23dc8fc1cd585e47a5d8427b]: Textual amendment: Words in Sch. 2 Pt. 1 para. 47E(1)(b) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(b)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/b)
 
-[^key-0b907892f039cc549600f2e3be97830a]: Textual amendment: Words in Sch. 2 Pt. 1 para. 47F(b) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(b)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/b)
+[^c-0b907892f039cc549600f2e3be97830a]: Textual amendment: Words in Sch. 2 Pt. 1 para. 47F(b) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(b)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/b)
 
-[^key-3c116635282d4ba7779d059e97174b19]: Commencement: Sch. 2 para. 48 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-3c116635282d4ba7779d059e97174b19]: Commencement: Sch. 2 para. 48 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-ea2f04eb617c6f31c72489ef1cbf1395]: Textual amendment: Sch. 2 Pt. 1 paras. 49-51 inserted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 8(c)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/8/c) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
+[^c-ea2f04eb617c6f31c72489ef1cbf1395]: Textual amendment: Sch. 2 Pt. 1 paras. 49-51 inserted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 8(c)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/8/c) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
 
-[^key-8125f4286b1dbc2c3a8898195002e79d]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 49(1)(d)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/49/1/d) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 3(11)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/3/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8125f4286b1dbc2c3a8898195002e79d]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 49(1)(d)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/49/1/d) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 3(11)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/3/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d7aeb5b369ebc04470278ab22bb0fc6]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 49(2)(d)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/49/2/d) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 3(11)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/3/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d7aeb5b369ebc04470278ab22bb0fc6]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 49(2)(d)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/49/2/d) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 3(11)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/3/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c6bbe4094dcfed013b4ca308ffbbd9f1]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 49(3)(b)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/49/3/b) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 3(11)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/3/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c6bbe4094dcfed013b4ca308ffbbd9f1]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 49(3)(b)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/49/3/b) substituted (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 3(11)(a)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/3/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a18e384178c0b853ed895646b6b29b2e]: Textual amendment: [Sch. 2 Pt. 1 para. 49(6)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/49/6) added (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 3(11)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/3/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a18e384178c0b853ed895646b6b29b2e]: Textual amendment: [Sch. 2 Pt. 1 para. 49(6)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/I/paragraph/49/6) added (31.12.2020) by [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 3(11)(b)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/3/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74c51fd09966cded320471c69d837b67]: Textual amendment: [Sch. 2 Pt. 1 para. 52](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/1/paragraph/52) inserted (20.5.2009) by [The Waste Batteries and Accumulators (Treatment and Disposal) Regulations (Northern Ireland) 2009 (S.R. 2009/159)](https://www.legislation.gov.uk/nisr/2009/159), [regs. 1](https://www.legislation.gov.uk/nisr/2009/159/regulation/1), [3(6)(c)](https://www.legislation.gov.uk/nisr/2009/159/regulation/3/6/c) (with [reg. 4](https://www.legislation.gov.uk/nisr/2009/159/regulation/4))
+[^c-74c51fd09966cded320471c69d837b67]: Textual amendment: [Sch. 2 Pt. 1 para. 52](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/1/paragraph/52) inserted (20.5.2009) by [The Waste Batteries and Accumulators (Treatment and Disposal) Regulations (Northern Ireland) 2009 (S.R. 2009/159)](https://www.legislation.gov.uk/nisr/2009/159), [regs. 1](https://www.legislation.gov.uk/nisr/2009/159/regulation/1), [3(6)(c)](https://www.legislation.gov.uk/nisr/2009/159/regulation/3/6/c) (with [reg. 4](https://www.legislation.gov.uk/nisr/2009/159/regulation/4))
 
-[^key-395b2824102e90ce455187357fd05f08]: Commencement: Sch. 2 Pt. II in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-395b2824102e90ce455187357fd05f08]: Commencement: Sch. 2 Pt. II in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-af6f97e710918da6909b13a0573b34db]: Commencement: Sch. 2 Pt. III para. 1 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-af6f97e710918da6909b13a0573b34db]: Commencement: Sch. 2 Pt. III para. 1 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-ff002fc9c69536a0422082981a3ba997]: Textual amendment: Words in [Sch. 2 Pt. 3 para. 1](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/III/paragraph/1) substituted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [24(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/24/1)
+[^c-ff002fc9c69536a0422082981a3ba997]: Textual amendment: Words in [Sch. 2 Pt. 3 para. 1](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/III/paragraph/1) substituted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [24(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/24/1)
 
-[^key-e9e81d01b5e41721831feed6378e9374]: Commencement: Sch. 2 Pt. 3 para. 2 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-e9e81d01b5e41721831feed6378e9374]: Commencement: Sch. 2 Pt. 3 para. 2 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-aaa5176832f5e39156cf2838a39f6d90]: Textual amendment: Words in Sch. 2 Pt. 3 para. 2 substituted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [24(2)](https://www.legislation.gov.uk/nisr/2006/280/regulation/24/2)
+[^c-aaa5176832f5e39156cf2838a39f6d90]: Textual amendment: Words in Sch. 2 Pt. 3 para. 2 substituted (31.7.2006) by [The Waste Management Regulations (Northern Ireland) 2006 (S.R. 2006/280)](https://www.legislation.gov.uk/nisr/2006/280), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1), [24(2)](https://www.legislation.gov.uk/nisr/2006/280/regulation/24/2)
 
-[^key-68f8f90a534150dc4d1f9b66ffde4777]: Textual amendment: Sch. 2 Pt. 3 para. 2(b) substituted (1.1.2007) by [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(h)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/h) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
+[^c-68f8f90a534150dc4d1f9b66ffde4777]: Textual amendment: Sch. 2 Pt. 3 para. 2(b) substituted (1.1.2007) by [The Nitrates Action Programme Regulations (Northern Ireland) 2006 (S.R. 2006/489)](https://www.legislation.gov.uk/nisr/2006/489), [regs. 1](https://www.legislation.gov.uk/nisr/2006/489/regulation/1), [29(2)(h)](https://www.legislation.gov.uk/nisr/2006/489/regulation/29/2/h) (with [reg. 2](https://www.legislation.gov.uk/nisr/2006/489/regulation/2))
 
-[^key-4d69b6f4f3028cd958a657d8760e2c4b]: Textual amendment: Words in [Sch. 2 Pt. 3 para. 2(b)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/III/paragraph/2/b) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(c)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/c)
+[^c-4d69b6f4f3028cd958a657d8760e2c4b]: Textual amendment: Words in [Sch. 2 Pt. 3 para. 2(b)](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/III/paragraph/2/b) substituted (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [37(1)(c)](https://www.legislation.gov.uk/nisr/2019/81/regulation/37/1/c)
 
-[^key-c45c76f5a150a5a8456bbf39174f36f3]: Commencement: Sch. 2 Pt. III para. 3 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-c45c76f5a150a5a8456bbf39174f36f3]: Commencement: Sch. 2 Pt. III para. 3 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-4df5fc68e180eadfed44858174adc4e7]: Textual amendment: [Sch. 2 Pt. 3 para. 3 Table 12](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/III) substituted (30.12.2011) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/403)](https://www.legislation.gov.uk/nisr/2011/403), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/403/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2011/403/regulation/5)
+[^c-4df5fc68e180eadfed44858174adc4e7]: Textual amendment: [Sch. 2 Pt. 3 para. 3 Table 12](https://www.legislation.gov.uk/nisr/2003/493/schedule/2/part/III) substituted (30.12.2011) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/403)](https://www.legislation.gov.uk/nisr/2011/403), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/403/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2011/403/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE A1 — Procedure for reviewing voter eligibility in PCC election in Wales[^key-d50665458b59d5ecdf50cb72e59f45c4]
+## SCHEDULE A1 — Procedure for reviewing voter eligibility in PCC election in Wales[^c-d50665458b59d5ecdf50cb72e59f45c4]
 
 *Extent: E+W*
 
@@ -74,7 +74,7 @@ the registration officer may determine, without a hearing, that the relevant per
 - (a) the reference to regulation 31D(2) were a reference to paragraph 2(4) of this Schedule;
 - (b) in sub-paragraph (a), the reference to section 56(1)(azd) or (aa) of the 1983 Act were a reference to paragraph 4 of this Schedule.
 
-### 4. Eligibility appeals[^key-b485e6864236f52c9c641d5d78d8dce0]
+### 4. Eligibility appeals[^c-b485e6864236f52c9c641d5d78d8dce0]
 
 (1) Subject to sub-paragraph (2), an appeal lies to the County Court from a determination by a registration officer under this Schedule that a person does not meet the eligibility criteria.
 
@@ -94,6 +94,6 @@ the registration officer may determine, without a hearing, that the relevant per
 
 ## Annotations
 
-[^key-d50665458b59d5ecdf50cb72e59f45c4]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2012/1917/schedule/A1) inserted (7.5.2024) by [The Representation of the People (Franchise Amendment and Eligibility Review) Regulations 2023 (S.I. 2023/1150)](https://www.legislation.gov.uk/uksi/2023/1150), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1150/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1150/schedule/1)
+[^c-d50665458b59d5ecdf50cb72e59f45c4]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2012/1917/schedule/A1) inserted (7.5.2024) by [The Representation of the People (Franchise Amendment and Eligibility Review) Regulations 2023 (S.I. 2023/1150)](https://www.legislation.gov.uk/uksi/2023/1150), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1150/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1150/schedule/1)
 
-[^key-b485e6864236f52c9c641d5d78d8dce0]: Modification: [Sch. A1 para. 4](https://www.legislation.gov.uk/uksi/2012/1917/schedule/A1/paragraph/4) applied (7.5.2024) by [The Representation of the People (Franchise Amendment and Eligibility Review) Regulations 2023 (S.I. 2023/1150)](https://www.legislation.gov.uk/uksi/2023/1150), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1150/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2023/1150/regulation/23)
+[^c-b485e6864236f52c9c641d5d78d8dce0]: Modification: [Sch. A1 para. 4](https://www.legislation.gov.uk/uksi/2012/1917/schedule/A1/paragraph/4) applied (7.5.2024) by [The Representation of the People (Franchise Amendment and Eligibility Review) Regulations 2023 (S.I. 2023/1150)](https://www.legislation.gov.uk/uksi/2023/1150), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1150/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2023/1150/regulation/23)

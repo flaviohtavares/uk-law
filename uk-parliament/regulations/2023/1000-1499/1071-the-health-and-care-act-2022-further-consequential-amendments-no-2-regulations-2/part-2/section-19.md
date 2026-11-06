@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Amendment of the National Health Service (Dental Charges) Regulations 2005[^key-4aa0efd1fac400f1a148eb8839d48741]
+## 19. Amendment of the National Health Service (Dental Charges) Regulations 2005[^c-4aa0efd1fac400f1a148eb8839d48741]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4aa0efd1fac400f1a148eb8839d48741]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2023/1071/regulation/19) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-4aa0efd1fac400f1a148eb8839d48741]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2023/1071/regulation/19) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 2005/3477](https://www.legislation.gov.uk/uksi/2005/3477), amended by [S.I. 2013/364](https://www.legislation.gov.uk/uksi/2013/364); there are other amending instruments but none is relevant.

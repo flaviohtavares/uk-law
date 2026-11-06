@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Procedure on removal[^key-be40a428a73c869936a335358c39f486]
+## 93. Procedure on removal[^c-be40a428a73c869936a335358c39f486]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be40a428a73c869936a335358c39f486]: Commencement: Rule 93 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-be40a428a73c869936a335358c39f486]: Commencement: Rule 93 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

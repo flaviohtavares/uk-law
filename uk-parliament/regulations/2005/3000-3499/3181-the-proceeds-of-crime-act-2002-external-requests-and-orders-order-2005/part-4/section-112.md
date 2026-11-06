@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Time for payment[^key-b8d72a976d7b4b177ceeaa378694451b]
+## 112. Time for payment[^c-b8d72a976d7b4b177ceeaa378694451b]
 
 *Extent: E+W+S+N.I.*
 
 (1) This article applies where the external order is for the recovery of a specified sum of money.
 
-(2) Subject to paragraphs (2A) to (6), the full amount[^key-d0cb5ba5b0d2e2d11fcbd451263b210d] ordered to be paid under—
+(2) Subject to paragraphs (2A) to (6), the full amount[^c-d0cb5ba5b0d2e2d11fcbd451263b210d] ordered to be paid under—
 
 - (a) an external order that has been registered under article 108, or
 - (b) where article 111(2) applies, the notice under article 108(1)(b),
 
 must be paid on the date on which the notice under article 108(1)(b) is delivered to the person affected by it.
 
-(2A)[^key-7cd6ca4a0d2acf462d5dd08dafb52010] If the Crown Court which registered the external order is satisfied that the person affected by the external order is unable to pay the full amount on the date mentioned in paragraph (2), it may make an order requiring whatever cannot be paid on that date to be paid—
+(2A)[^c-7cd6ca4a0d2acf462d5dd08dafb52010] If the Crown Court which registered the external order is satisfied that the person affected by the external order is unable to pay the full amount on the date mentioned in paragraph (2), it may make an order requiring whatever cannot be paid on that date to be paid—
 
 - (a) in a specified period; or
 - (b) in specified periods each of which relates to a specified amount.
@@ -88,8 +88,8 @@ that amount is required to be paid no later than that day.
 
 ## Annotations
 
-[^key-b8d72a976d7b4b177ceeaa378694451b]: Commencement: [Art. 112](https://www.legislation.gov.uk/uksi/2005/3181/article/112) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-b8d72a976d7b4b177ceeaa378694451b]: Commencement: [Art. 112](https://www.legislation.gov.uk/uksi/2005/3181/article/112) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-d0cb5ba5b0d2e2d11fcbd451263b210d]: Textual amendment: Words in [art. 112(2)](https://www.legislation.gov.uk/uksi/2005/3181/article/112/2) substituted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [29(2)](https://www.legislation.gov.uk/uksi/2016/662/article/29/2)
+[^c-d0cb5ba5b0d2e2d11fcbd451263b210d]: Textual amendment: Words in [art. 112(2)](https://www.legislation.gov.uk/uksi/2005/3181/article/112/2) substituted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [29(2)](https://www.legislation.gov.uk/uksi/2016/662/article/29/2)
 
-[^key-7cd6ca4a0d2acf462d5dd08dafb52010]: Textual amendment: [Art. 112(2A)-(2G)](https://www.legislation.gov.uk/uksi/2005/3181/article/112/2A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [29(3)](https://www.legislation.gov.uk/uksi/2016/662/article/29/3)
+[^c-7cd6ca4a0d2acf462d5dd08dafb52010]: Textual amendment: [Art. 112(2A)-(2G)](https://www.legislation.gov.uk/uksi/2005/3181/article/112/2A) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [29(3)](https://www.legislation.gov.uk/uksi/2016/662/article/29/3)

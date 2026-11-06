@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 78. Annual report.[^key-18731de0c40bfcf37df779f883624257]
+## 78. Annual report.[^c-18731de0c40bfcf37df779f883624257]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18731de0c40bfcf37df779f883624257]: Textual amendment: S. 78 repealed (E.W.) (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/12))
+[^c-18731de0c40bfcf37df779f883624257]: Textual amendment: S. 78 repealed (E.W.) (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/12))

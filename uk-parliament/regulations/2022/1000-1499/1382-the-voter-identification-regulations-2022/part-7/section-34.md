@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Collection of information by the presiding officer[^key-566b9496fbeabf965a63830407bacea6]
+## 34. Collection of information by the presiding officer[^c-566b9496fbeabf965a63830407bacea6]
 
 *Extent: E+W+S*
 
 (1) This regulation and regulation 35 apply in relation to—
 
 - (a) a parliamentary general election to which rule 40B of Schedule 1 to the 1983 Act applies, and
-- (b) a local government election, a combined authority mayoral election , a combined county authority mayoral election[^key-78df3e147d6e0421482e7282acf057d9] or a local authority mayoral election to which the Secretary of State’s duty under section 59A(4) of the 1983 Act applies.
+- (b) a local government election, a combined authority mayoral election , a combined county authority mayoral election[^c-78df3e147d6e0421482e7282acf057d9] or a local authority mayoral election to which the Secretary of State’s duty under section 59A(4) of the 1983 Act applies.
 
 (2) For the purposes of rule 40B(2) of the elections rules, the presiding officer must collect the following information—
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-566b9496fbeabf965a63830407bacea6]: Commencement: Reg. 34 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-566b9496fbeabf965a63830407bacea6]: Commencement: Reg. 34 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
-[^key-78df3e147d6e0421482e7282acf057d9]: Textual amendment: Words in [reg. 34(1)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/34/1/b) inserted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [15(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/15/3)
+[^c-78df3e147d6e0421482e7282acf057d9]: Textual amendment: Words in [reg. 34(1)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/34/1/b) inserted (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [15(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/15/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Arbitration[^key-5a0c1842a3b51f233a84fce618ffdd9a]
+## 40. Arbitration[^c-5a0c1842a3b51f233a84fce618ffdd9a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to article 38 (procedure in relation to certain approvals etc.) and exce
 
 ## Annotations
 
-[^key-5a0c1842a3b51f233a84fce618ffdd9a]: Commencement: Art. 40 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-5a0c1842a3b51f233a84fce618ffdd9a]: Commencement: Art. 40 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

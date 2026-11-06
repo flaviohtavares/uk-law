@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**149.**[^key-7394d0c58ff363bfc4d5bae9dee023c6] The Housing Act 1996 is amended as follows.
+**149.**[^c-7394d0c58ff363bfc4d5bae9dee023c6] The Housing Act 1996 is amended as follows.
 
 ## Annotations
 
-[^key-7394d0c58ff363bfc4d5bae9dee023c6]: Commencement: Reg. 149 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-7394d0c58ff363bfc4d5bae9dee023c6]: Commencement: Reg. 149 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

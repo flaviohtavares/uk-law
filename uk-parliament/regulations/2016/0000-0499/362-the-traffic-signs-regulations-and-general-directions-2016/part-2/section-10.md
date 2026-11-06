@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Mutual recognition of standards[^key-73ffba55440a8ea44b91d683938b2953]
+## 10. Mutual recognition of standards[^c-73ffba55440a8ea44b91d683938b2953]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ which requires a level of performance equivalent to that required by the British
 
 ## Annotations
 
-[^key-73ffba55440a8ea44b91d683938b2953]: Commencement: [Dir. 10](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/10) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
+[^c-73ffba55440a8ea44b91d683938b2953]: Commencement: [Dir. 10](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/10) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)

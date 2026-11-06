@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Overview of Act[^key-ae04d3d5ff4625e615aaaef2c409ce65]
+## 1. Overview of Act[^c-ae04d3d5ff4625e615aaaef2c409ce65]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ This Act is arranged as follows—
 
 ## Annotations
 
-[^key-ae04d3d5ff4625e615aaaef2c409ce65]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/16/section/1) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-ae04d3d5ff4625e615aaaef2c409ce65]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/16/section/1) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

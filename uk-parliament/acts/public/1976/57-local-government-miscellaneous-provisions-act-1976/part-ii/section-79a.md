@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79A. Persons disqualified by reason of immigration status[^key-45ba617b5807897292b92cb07d903bb7]
+## 79A. Persons disqualified by reason of immigration status[^c-45ba617b5807897292b92cb07d903bb7]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45ba617b5807897292b92cb07d903bb7]: Textual amendment: [S. 79A](https://www.legislation.gov.uk/ukpga/1976/57/section/79A) - [S. 79B](https://www.legislation.gov.uk/ukpga/1976/57/section/79B) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/28); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-45ba617b5807897292b92cb07d903bb7]: Textual amendment: [S. 79A](https://www.legislation.gov.uk/ukpga/1976/57/section/79A) - [S. 79B](https://www.legislation.gov.uk/ukpga/1976/57/section/79B) inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/28); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))

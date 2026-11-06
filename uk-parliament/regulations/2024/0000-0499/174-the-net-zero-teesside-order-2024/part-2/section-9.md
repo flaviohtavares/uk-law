@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Amendment and modification of statutory provisions[^key-76bc9c01a1515d9147c373a5d74257c0]
+## 9. Amendment and modification of statutory provisions[^c-76bc9c01a1515d9147c373a5d74257c0]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76bc9c01a1515d9147c373a5d74257c0]: Commencement: Art. 9 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-76bc9c01a1515d9147c373a5d74257c0]: Commencement: Art. 9 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

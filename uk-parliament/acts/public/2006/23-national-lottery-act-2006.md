@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## National Lottery Commission
 
-### 1. Constitution[^key-5b04aa1367e58ae1c1b02e35ca7137c4]
+### 1. Constitution[^c-5b04aa1367e58ae1c1b02e35ca7137c4]
 
 (1) Schedule 2A to the National Lottery etc. Act 1993 (c. 39) (National Lottery Commission) shall be amended as follows.
 
@@ -76,7 +76,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 > - (b) the Secretary of State may suspend or terminate an appointment made by virtue of this sub-paragraph if the Chief Executive ceases to be a member, and
 > - (c) if a person appointed by virtue of this sub-paragraph ceases to be an employee of the Commission he shall cease to be a member.
 
-### 2. Disclosure of information[^key-6840455268d9eb6896eaeb74b05acbf4]
+### 2. Disclosure of information[^c-6840455268d9eb6896eaeb74b05acbf4]
 
 After section 4A of the National Lottery etc. Act 1993 (c. 39) (consultation with Gambling Commission: inserted by the Gambling Act 2005) insert—
 
@@ -127,7 +127,7 @@ After section 4A of the National Lottery etc. Act 1993 (c. 39) (consultation wit
 
 ## Licensing System
 
-### 3. Licensees[^key-268390ec57ed3935b79b0652ff132586]
+### 3. Licensees[^c-268390ec57ed3935b79b0652ff132586]
 
 In the following provisions of the National Lottery etc. Act 1993 (c. 39) for “body corporate” or “body” substitute “ person ” (and for “bodies” substitute “ persons ”)—
 
@@ -137,7 +137,7 @@ In the following provisions of the National Lottery etc. Act 1993 (c. 39) for �
 - (d) section 7(2)(g) (supplemental), and
 - (e) section 10(1) and (2) (revocation).
 
-### 4. Length of licence[^key-c635d604b92457a26d636c652d2e5236]
+### 4. Length of licence[^c-c635d604b92457a26d636c652d2e5236]
 
 (1) In section 7 of the National Lottery etc. Act 1993 (c. 39) (licensing: supplemental) after subsection (1) insert—
 
@@ -153,7 +153,7 @@ In the following provisions of the National Lottery etc. Act 1993 (c. 39) for �
 
 (2) In section 7(2) of that Act for “Such a licence” substitute “ A licence granted under section 5 or 6 ”.
 
-### 5. Fees[^key-652f3688fbfca2e45f3df5c5145e811c]
+### 5. Fees[^c-652f3688fbfca2e45f3df5c5145e811c]
 
 (1) After section 7 of the National Lottery etc. Act 1993 (c. 39) (licences: supplemental) insert—
 
@@ -188,7 +188,7 @@ In the following provisions of the National Lottery etc. Act 1993 (c. 39) for �
 
 (1) The Secretary of State may by order provide for Schedule 1 (which amends the licensing structure of the National Lottery) to have effect.
 
-(2) Before making an order under subsection (1) the Secretary of State must consult the Gambling[^key-bcbb16bdfb032cfc07e335d5901c73cb] Commission.
+(2) Before making an order under subsection (1) the Secretary of State must consult the Gambling[^c-bcbb16bdfb032cfc07e335d5901c73cb] Commission.
 
 (3) An order under subsection (1)—
 
@@ -202,9 +202,9 @@ In the following provisions of the National Lottery etc. Act 1993 (c. 39) for �
 
 ### 7. National Lottery Distribution Fund: apportionment
 
-(1)[^key-a87023efa2eba58554fb7618286523f0] Section 22 of the National Lottery etc. Act 1993 (c. 39) (apportionment of money in Distribution Fund) shall be amended as follows.
+(1)[^c-a87023efa2eba58554fb7618286523f0] Section 22 of the National Lottery etc. Act 1993 (c. 39) (apportionment of money in Distribution Fund) shall be amended as follows.
 
-(2)[^key-a87023efa2eba58554fb7618286523f0] In subsection (3)—
+(2)[^c-a87023efa2eba58554fb7618286523f0] In subsection (3)—
 
 - (a) at the end of paragraph (c) add “ and ”, and
 - (b) for paragraphs (d) and (f) substitute—
@@ -215,7 +215,7 @@ In the following provisions of the National Lottery etc. Act 1993 (c. 39) for �
   >   - (iii) connected with education, or
   >   - (iv) connected with the environment.
 
-(3)[^key-c844f4ea818126d1245326e305258197] After subsection (3) insert—
+(3)[^c-c844f4ea818126d1245326e305258197] After subsection (3) insert—
 
 > (3A) In subsection (3)(d) “**prescribed expenditure**” means expenditure of a description prescribed by order of the Secretary of State.
 >
@@ -238,7 +238,7 @@ In the following provisions of the National Lottery etc. Act 1993 (c. 39) for �
 > - (d) the Northern Ireland Department of Culture, Arts and Leisure, and
 > - (e) such other persons (if any) as he thinks appropriate.
 
-### 8. Reallocation of funds[^key-b66a71de521c2e2e2cc4f80031358323]
+### 8. Reallocation of funds[^c-b66a71de521c2e2e2cc4f80031358323]
 
 (1) After section 29 of the National Lottery etc. Act 1993 (c. 39) (variation of percentages for allocation of funds) insert—
 
@@ -267,14 +267,14 @@ In the following provisions of the National Lottery etc. Act 1993 (c. 39) for �
 
 .
 
-### 9. Investment income[^key-05d9c2c7378f99478ce8baa8f9ed23b6]
+### 9. Investment income[^c-05d9c2c7378f99478ce8baa8f9ed23b6]
 
 In section 32 of the National Lottery etc. Act 1993 (National Lottery Distribution Fund: investment)—
 
 - (a) for subsection (3)(a) and (b) substitute “ treated as if paid into the Fund by virtue of section 5(6). ”, and
 - (b) omit subsection (5).
 
-### 10. Distributing bodies: consultation[^key-b28798f7bd1dcefa82cf758e4aae4af8]
+### 10. Distributing bodies: consultation[^c-b28798f7bd1dcefa82cf758e4aae4af8]
 
 After section 25(2B) of the National Lottery etc. Act 1993 (application of money by distributing bodies) insert—
 
@@ -283,7 +283,7 @@ After section 25(2B) of the National Lottery etc. Act 1993 (application of money
 > - (a) consult any person;
 > - (b) take account of opinions expressed to it or information submitted to it.
 
-### 11. Distributing bodies: publicity[^key-5a3d190e99d5b3128073d4c75c363bb1]
+### 11. Distributing bodies: publicity[^c-5a3d190e99d5b3128073d4c75c363bb1]
 
 After section 25D of the National Lottery etc. Act 1993 (c. 39) (strategic plans) insert—
 
@@ -295,7 +295,7 @@ After section 25D of the National Lottery etc. Act 1993 (c. 39) (strategic plans
 > - (b) publishing information relating to the distribution of money under this Act or the expenditure of money distributed under this Act, or
 > - (c) encouraging participation in activities relating to the distribution of money under this Act.
 
-### 12. Distributing bodies: annual reports[^key-0e160acde45a09fed3f2b89afde7f9c0]
+### 12. Distributing bodies: annual reports[^c-0e160acde45a09fed3f2b89afde7f9c0]
 
 In section 34 of the National Lottery etc. Act 1993 (annual reports) after subsection (2) insert—
 
@@ -308,14 +308,14 @@ In section 34 of the National Lottery etc. Act 1993 (annual reports) after subse
 
 ### 13. Isle of Man and Channel Islands
 
-(1)[^key-d92f1ba4a25dacd6c7012916ba706357] After section 25(5) of the National Lottery etc. Act 1993 (application of money by distributing bodies) add—
+(1)[^c-d92f1ba4a25dacd6c7012916ba706357] After section 25(5) of the National Lottery etc. Act 1993 (application of money by distributing bodies) add—
 
 > (6) A reference in this section to meeting expenditure includes a reference to meeting expenditure which relates to—
 >
 > - (a) the Isle of Man, or
 > - (b) any of the Channel Islands.
 
-(2)[^key-6da9d819aa28a9b419b81f600dbc9c74] After section 25A(11) (delegation by distributing bodies) add—
+(2)[^c-6da9d819aa28a9b419b81f600dbc9c74] After section 25A(11) (delegation by distributing bodies) add—
 
 > (12) A body established under the law of the Isle of Man may be the subject of an appointment under this section in connection with expenditure which relates to the Isle of Man.
 >
@@ -323,7 +323,7 @@ In section 34 of the National Lottery etc. Act 1993 (annual reports) after subse
 
 ## The Big Lottery Fund
 
-### 14. Establishment[^key-6f165282252de3351e4ca09fe3d6831e]
+### 14. Establishment[^c-6f165282252de3351e4ca09fe3d6831e]
 
 (1) After section 36 of the National Lottery etc. Act 1993 (c. 39) insert—
 
@@ -337,7 +337,7 @@ In section 34 of the National Lottery etc. Act 1993 (annual reports) after subse
 
 (2) After Schedule 4 to that Act insert the Schedule 4A set in out in Schedule 2 to this Act.
 
-### 15. Functions[^key-0c6b24a031688a7b8cefe9627eeaa630]
+### 15. Functions[^c-0c6b24a031688a7b8cefe9627eeaa630]
 
 (1) In section 23 of the National Lottery etc. Act 1993 (the distributing bodies) for subsections (4), (5) and (6) substitute—
 
@@ -459,7 +459,7 @@ In section 34 of the National Lottery etc. Act 1993 (annual reports) after subse
 - (b) if it contains provision amending an enactment, shall not be made unless a draft has been laid before and approved by each House of Parliament, and
 - (c) in any other case, shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 17. Transfer of property, &c.[^key-e441c50f7a347498930ce607529b7edb]
+### 17. Transfer of property, &c.[^c-e441c50f7a347498930ce607529b7edb]
 
 (1) In this section—
 
@@ -492,7 +492,7 @@ In section 34 of the National Lottery etc. Act 1993 (annual reports) after subse
 
 (9) Without prejudice to the generality of subsections (3) and (4), the Big Lottery Fund may do anything it thinks necessary or expedient for the purpose of giving effect to a decision, agreement or undertaking of an old lottery distributor (whether in respect of a grant or loan or otherwise) irrespective of whether the Big Lottery Fund would have the power under the National Lottery etc. Act 1993 (c. 39), as amended by this Act, to make that decision or agreement or to give that undertaking.
 
-### 18. Outstanding balances[^key-fa30593c2b026cbb812c7a6d87d5c65d]
+### 18. Outstanding balances[^c-fa30593c2b026cbb812c7a6d87d5c65d]
 
 (1) Money that immediately before the appointed day is held in the National Lottery Distribution Fund for distribution by an old lottery distributor shall on that day be treated as—
 
@@ -506,7 +506,7 @@ In section 34 of the National Lottery etc. Act 1993 (annual reports) after subse
 - “**old lottery distributor**” means a body dissolved by section 16, and
 - “**the appointed day**” means the day appointed under section 16(1).
 
-### 19. Consequential amendments[^key-3e6a9e73b69f819f550a03ecec08d676]
+### 19. Consequential amendments[^c-3e6a9e73b69f819f550a03ecec08d676]
 
 (1) The National Lottery etc. Act 1993 shall be amended as follows.
 
@@ -557,7 +557,7 @@ In section 34 of the National Lottery etc. Act 1993 (annual reports) after subse
 
 ## National Lottery etc. Act 1993: interpretation
 
-### 20. Meaning of “charitable expenditure”[^key-02b89ea79b88e96807d29feefb15fede]
+### 20. Meaning of “charitable expenditure”[^c-02b89ea79b88e96807d29feefb15fede]
 
 In section 44(1) of the National Lottery etc. Act 1993 (c. 39) (interpretation) for the definition of “charitable expenditure” substitute—
 
@@ -565,7 +565,7 @@ In section 44(1) of the National Lottery etc. Act 1993 (c. 39) (interpretation) 
 
 ## General
 
-### 21. Repeals[^key-c5d0e43b4c68e872d39bd9197e8efb63]
+### 21. Repeals[^c-c5d0e43b4c68e872d39bd9197e8efb63]
 
 The enactments listed in Schedule 3 are hereby repealed to the extent specified.
 
@@ -780,7 +780,7 @@ Section 6
 
 (7) In section 32(3)(a) (distribution of Olympic Lottery Distributor) for “section 5(6)” substitute “ section 5(2)(c) ”.
 
-## SCHEDULE 2 — New Schedule 4A to the National Lottery etc. Act 1993[^key-81a6a47d764ea0e86f9d2edc46f1d197]
+## SCHEDULE 2 — New Schedule 4A to the National Lottery etc. Act 1993[^c-81a6a47d764ea0e86f9d2edc46f1d197]
 
 Section 14
 
@@ -958,7 +958,7 @@ Section 14
 > - (a) examine, certify and report on a statement received under this paragraph, and
 > - (b) lay a copy of the statement and his report before Parliament.
 
-## SCHEDULE 3 — Repeals[^key-ee01819a30be4ebe9c43365713339198]
+## SCHEDULE 3 — Repeals[^c-ee01819a30be4ebe9c43365713339198]
 
 Section 21
 
@@ -979,50 +979,50 @@ Section 21
 
 ## Annotations
 
-[^key-5b04aa1367e58ae1c1b02e35ca7137c4]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2006/23/section/1) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/2630/article/3))
+[^c-5b04aa1367e58ae1c1b02e35ca7137c4]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2006/23/section/1) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/2630/article/3))
 
-[^key-6840455268d9eb6896eaeb74b05acbf4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2006/23/section/2) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/a)
+[^c-6840455268d9eb6896eaeb74b05acbf4]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2006/23/section/2) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/a)
 
-[^key-268390ec57ed3935b79b0652ff132586]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/23/section/3) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/a)
+[^c-268390ec57ed3935b79b0652ff132586]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/23/section/3) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/a)
 
-[^key-c635d604b92457a26d636c652d2e5236]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2006/23/section/4) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/a)
+[^c-c635d604b92457a26d636c652d2e5236]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2006/23/section/4) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/a)
 
-[^key-652f3688fbfca2e45f3df5c5145e811c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2006/23/section/5) in force at 6.1.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/uksi/2010/2), [art. 2](https://www.legislation.gov.uk/uksi/2010/2/article/2)
+[^c-652f3688fbfca2e45f3df5c5145e811c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2006/23/section/5) in force at 6.1.2010 by [S.I. 2010/2](https://www.legislation.gov.uk/uksi/2010/2), [art. 2](https://www.legislation.gov.uk/uksi/2010/2/article/2)
 
-[^key-bcbb16bdfb032cfc07e335d5901c73cb]: Textual amendment: Word in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2006/23/section/6/2) substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/28) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-bcbb16bdfb032cfc07e335d5901c73cb]: Textual amendment: Word in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2006/23/section/6/2) substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/28) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
 
-[^key-a87023efa2eba58554fb7618286523f0]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/23/section/7/2) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/a)
+[^c-a87023efa2eba58554fb7618286523f0]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/23/section/7/2) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/a)
 
-[^key-c844f4ea818126d1245326e305258197]: Commencement: [S. 7(3)](https://www.legislation.gov.uk/ukpga/2006/23/section/7/3) in force for specified purposes at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/a)
+[^c-c844f4ea818126d1245326e305258197]: Commencement: [S. 7(3)](https://www.legislation.gov.uk/ukpga/2006/23/section/7/3) in force for specified purposes at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/a)
 
-[^key-b66a71de521c2e2e2cc4f80031358323]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2006/23/section/8) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/b)
+[^c-b66a71de521c2e2e2cc4f80031358323]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2006/23/section/8) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/b)
 
-[^key-05d9c2c7378f99478ce8baa8f9ed23b6]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/23/section/9) in force at 1.4.2007 by [S.I. 2007/539](https://www.legislation.gov.uk/uksi/2007/539), [art. 2](https://www.legislation.gov.uk/uksi/2007/539/article/2)
+[^c-05d9c2c7378f99478ce8baa8f9ed23b6]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/23/section/9) in force at 1.4.2007 by [S.I. 2007/539](https://www.legislation.gov.uk/uksi/2007/539), [art. 2](https://www.legislation.gov.uk/uksi/2007/539/article/2)
 
-[^key-b28798f7bd1dcefa82cf758e4aae4af8]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/23/section/10) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/c)
+[^c-b28798f7bd1dcefa82cf758e4aae4af8]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/23/section/10) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/c)
 
-[^key-5a3d190e99d5b3128073d4c75c363bb1]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/23/section/11) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/c)
+[^c-5a3d190e99d5b3128073d4c75c363bb1]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2006/23/section/11) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/c)
 
-[^key-0e160acde45a09fed3f2b89afde7f9c0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/23/section/12) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/2630/article/4))
+[^c-0e160acde45a09fed3f2b89afde7f9c0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/23/section/12) in force at 1.10.2006 by [S.I. 2006/2630](https://www.legislation.gov.uk/uksi/2006/2630), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2630/article/2/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/2630/article/4))
 
-[^key-d92f1ba4a25dacd6c7012916ba706357]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/13/1) in force for specified purposes at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/b)
+[^c-d92f1ba4a25dacd6c7012916ba706357]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/13/1) in force for specified purposes at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/b)
 
-[^key-6da9d819aa28a9b419b81f600dbc9c74]: Commencement: [S. 13(2)](https://www.legislation.gov.uk/ukpga/2006/23/section/13/2) in force for specified purposes at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/b)
+[^c-6da9d819aa28a9b419b81f600dbc9c74]: Commencement: [S. 13(2)](https://www.legislation.gov.uk/ukpga/2006/23/section/13/2) in force for specified purposes at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/b)
 
-[^key-6f165282252de3351e4ca09fe3d6831e]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/23/section/14) in force at 1.8.2006 by [S.I. 2006/2177](https://www.legislation.gov.uk/uksi/2006/2177), [art. 2](https://www.legislation.gov.uk/uksi/2006/2177/article/2)
+[^c-6f165282252de3351e4ca09fe3d6831e]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/23/section/14) in force at 1.8.2006 by [S.I. 2006/2177](https://www.legislation.gov.uk/uksi/2006/2177), [art. 2](https://www.legislation.gov.uk/uksi/2006/2177/article/2)
 
-[^key-0c6b24a031688a7b8cefe9627eeaa630]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/23/section/15) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/c)
+[^c-0c6b24a031688a7b8cefe9627eeaa630]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/23/section/15) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/c)
 
-[^key-e441c50f7a347498930ce607529b7edb]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2006/23/section/17) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
+[^c-e441c50f7a347498930ce607529b7edb]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2006/23/section/17) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
 
-[^key-fa30593c2b026cbb812c7a6d87d5c65d]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2006/23/section/18) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
+[^c-fa30593c2b026cbb812c7a6d87d5c65d]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2006/23/section/18) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
 
-[^key-3e6a9e73b69f819f550a03ecec08d676]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2006/23/section/19) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
+[^c-3e6a9e73b69f819f550a03ecec08d676]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2006/23/section/19) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
 
-[^key-02b89ea79b88e96807d29feefb15fede]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2006/23/section/20) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
+[^c-02b89ea79b88e96807d29feefb15fede]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2006/23/section/20) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
 
-[^key-c5d0e43b4c68e872d39bd9197e8efb63]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/23/section/21) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-c5d0e43b4c68e872d39bd9197e8efb63]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/23/section/21) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
 
-[^key-81a6a47d764ea0e86f9d2edc46f1d197]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/23/schedule/2) in force at 1.8.2006 by [S.I. 2006/2177](https://www.legislation.gov.uk/uksi/2006/2177), [art. 2](https://www.legislation.gov.uk/uksi/2006/2177/article/2)
+[^c-81a6a47d764ea0e86f9d2edc46f1d197]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/23/schedule/2) in force at 1.8.2006 by [S.I. 2006/2177](https://www.legislation.gov.uk/uksi/2006/2177), [art. 2](https://www.legislation.gov.uk/uksi/2006/2177/article/2)
 
-[^key-ee01819a30be4ebe9c43365713339198]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-ee01819a30be4ebe9c43365713339198]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3) in force at 1.12.2006 by [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Calculation of earnings derived from employed earner’s employment and income other than earnings[^key-f23650a4ad31fccb432023956a1fcbbe]
+## 94. Calculation of earnings derived from employed earner’s employment and income other than earnings[^c-f23650a4ad31fccb432023956a1fcbbe]
 
 *Extent: N.I.*
 
@@ -72,7 +72,7 @@ and that period shall begin on and include the date on which the payment is trea
 
 ## Annotations
 
-[^key-f23650a4ad31fccb432023956a1fcbbe]: Commencement: Reg. 94 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-f23650a4ad31fccb432023956a1fcbbe]: Commencement: Reg. 94 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00089]: Footnote: [S.I. 1976/1043 (N.I. 16)](https://www.legislation.gov.uk/nisi/1976/1043); Article 49 was amended by regulation 3 of [S.R. 1995 No. 417](https://www.legislation.gov.uk/nisr/1995/417)
 

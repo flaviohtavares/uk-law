@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Notification requirements in relation to potatoes[^key-fbf646b508574ccd6cc9f654cb298dab]
+## 24. Notification requirements in relation to potatoes[^c-fbf646b508574ccd6cc9f654cb298dab]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbf646b508574ccd6cc9f654cb298dab]: Commencement: Reg. 24 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-fbf646b508574ccd6cc9f654cb298dab]: Commencement: Reg. 24 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 15.2. Applications for interim faculties[^key-b9b7cf762d2a33d50a35f9b090ec6de0]
+## 15.2. Applications for interim faculties[^c-b9b7cf762d2a33d50a35f9b090ec6de0]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9b7cf762d2a33d50a35f9b090ec6de0]: Commencement: [Rule 15.2](https://www.legislation.gov.uk/uksi/2015/1568/article/15.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-b9b7cf762d2a33d50a35f9b090ec6de0]: Commencement: [Rule 15.2](https://www.legislation.gov.uk/uksi/2015/1568/article/15.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

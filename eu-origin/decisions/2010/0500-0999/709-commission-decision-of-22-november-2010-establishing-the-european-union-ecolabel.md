@@ -39,22 +39,22 @@ establishing the European Union Ecolabelling Board
 
 (2010/709/EU) (revoked)
 
-[^key-8ab26e6f0475ffa5a02438da326a5820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ab26e6f0475ffa5a02438da326a5820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-8ab26e6f0475ffa5a02438da326a5820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-8ab26e6f0475ffa5a02438da326a5820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-8ab26e6f0475ffa5a02438da326a5820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8ab26e6f0475ffa5a02438da326a5820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-8ab26e6f0475ffa5a02438da326a5820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-8ab26e6f0475ffa5a02438da326a5820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-8ab26e6f0475ffa5a02438da326a5820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-8ab26e6f0475ffa5a02438da326a5820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-8ab26e6f0475ffa5a02438da326a5820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-8ab26e6f0475ffa5a02438da326a5820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-8ab26e6f0475ffa5a02438da326a5820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-8ab26e6f0475ffa5a02438da326a5820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8ab26e6f0475ffa5a02438da326a5820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ab26e6f0475ffa5a02438da326a5820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8ab26e6f0475ffa5a02438da326a5820]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ab26e6f0475ffa5a02438da326a5820]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

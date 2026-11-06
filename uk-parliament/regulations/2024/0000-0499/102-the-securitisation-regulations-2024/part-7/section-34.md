@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Due-diligence requirements of small registered UK AIFMs as institutional investors[^key-99b7ce20636077aba090d72a6729efb6]
+## 34. Due-diligence requirements of small registered UK AIFMs as institutional investors[^c-99b7ce20636077aba090d72a6729efb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-99b7ce20636077aba090d72a6729efb6]: Commencement: Reg. 34 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-99b7ce20636077aba090d72a6729efb6]: Commencement: Reg. 34 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
 
 [^f00036]: Footnote: Section 1L was inserted by section 6(1) of the Financial Services Act 2012; paragraph (aa) of subsection (2) was inserted by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 

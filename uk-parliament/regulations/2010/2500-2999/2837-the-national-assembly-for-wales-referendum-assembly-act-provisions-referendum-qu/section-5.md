@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Referendum period[^key-c2363dc9d331b63b37fb3e17d4d657b1]
+## 5. Referendum period[^c-c2363dc9d331b63b37fb3e17d4d657b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of Part 7 of the 2000 Act, the referendum period for the refere
 
 ## Annotations
 
-[^key-c2363dc9d331b63b37fb3e17d4d657b1]: Commencement: Art. 5 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-c2363dc9d331b63b37fb3e17d4d657b1]: Commencement: Art. 5 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

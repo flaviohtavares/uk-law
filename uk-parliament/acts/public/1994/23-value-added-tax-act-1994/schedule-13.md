@@ -144,7 +144,7 @@ except use as a hospital, a prison or similar institution or an hotel or inn or 
 
 be a zero-rated supply for the purposes of this Act.
 
-(2) Where a grant, assignment or other supply is zero-rated by virtue of this paragraph, it is not a relevant zero-rated supply for the purposes of Part 2 of Schedule 10[^key-8fd691bda96bd008d88f85bb8cbd4ee1].
+(2) Where a grant, assignment or other supply is zero-rated by virtue of this paragraph, it is not a relevant zero-rated supply for the purposes of Part 2 of Schedule 10[^c-8fd691bda96bd008d88f85bb8cbd4ee1].
 
 ##### Bad debt relief
 
@@ -157,7 +157,7 @@ be a zero-rated supply for the purposes of this Act.
 
 ##### Supplies during construction of buildings and works
 
-**10.**[^key-f95c67cdc3f07e039968ab6f4158b6d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f95c67cdc3f07e039968ab6f4158b6d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Offences and Penalties
 
@@ -172,24 +172,24 @@ be a zero-rated supply for the purposes of this Act.
 - (a) with the substitution in subsection (1)(b), (3)(ii) and (8)(b) of “2 years” for “ 7 years ”;
 - (b) with the omission of subsections (2) and (4) to (7).
 
-**14.** (1)[^key-177a1ed9c0cd72194ea215e1f1f70195] The provisions of this paragraph have effect in relation to section 59. *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195]
+**14.** (1)[^c-177a1ed9c0cd72194ea215e1f1f70195] The provisions of this paragraph have effect in relation to section 59. *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195]
 
-(2) Section 59 shall apply in any case where a person is in default in respect of a prescribed accounting period which has ended before the commencement of this Act, but shall have effect in any case where the last day referred to in subsection (1) of that section falls before 1st October 1993 subject to the following modifications— *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195]
+(2) Section 59 shall apply in any case where a person is in default in respect of a prescribed accounting period which has ended before the commencement of this Act, but shall have effect in any case where the last day referred to in subsection (1) of that section falls before 1st October 1993 subject to the following modifications— *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195]
 
-- (a) for the words “a prescribed accounting period” in subsection (2)(a) there shall be substituted *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195] “ any two prescribed accounting periods ” *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195];
-- (b) with the addition of the following paragraph in subsection (2)— *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195]
+- (a) for the words “a prescribed accounting period” in subsection (2)(a) there shall be substituted *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195] “ any two prescribed accounting periods ” *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195];
+- (b) with the addition of the following paragraph in subsection (2)— *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195]
 
-  > - (aa (affected by repeal, see note))[^key-177a1ed9c0cd72194ea215e1f1f70195] the last day of the later one of those periods falls on or before the first anniversary of the last day of the earlier one; and *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195]
+  > - (aa (affected by repeal, see note))[^c-177a1ed9c0cd72194ea215e1f1f70195] the last day of the later one of those periods falls on or before the first anniversary of the last day of the earlier one; and *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195]
 
   ;
-- (c) for the words “period referred to in paragraph (a)” in subsection (2)(b) there shall be substituted *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195] “ slater period referred to in paragraph (aa) ” *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195]; and *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195]
-- (d) for the words “a default in respect of a prescribed accounting period and that period” in subsection (3) there shall be substituted *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195] “ defaults in respect of two prescribed accounting periods and the second of those periods ” *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195].
+- (c) for the words “period referred to in paragraph (a)” in subsection (2)(b) there shall be substituted *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195] “ slater period referred to in paragraph (aa) ” *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195]; and *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195]
+- (d) for the words “a default in respect of a prescribed accounting period and that period” in subsection (3) there shall be substituted *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195] “ defaults in respect of two prescribed accounting periods and the second of those periods ” *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195].
 
-(3) Section 59 shall have effect, in any case where a person has been served with a surcharge liability notice and that person is in default in respect of a prescribed accounting period because of a failure of the Commissioners to receive a return or an amount of *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195] VAT *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195] on or before a day falling before 30th September 1993 with the omission of— *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195]
+(3) Section 59 shall have effect, in any case where a person has been served with a surcharge liability notice and that person is in default in respect of a prescribed accounting period because of a failure of the Commissioners to receive a return or an amount of *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195] VAT *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195] on or before a day falling before 30th September 1993 with the omission of— *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195]
 
-- (a) subsection (4)(b); *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195]
-- (b) the words in subsection (5) “and for which he has outstanding *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195] VAT *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195]”; and *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195]
-- (c) subsection (6). *(affected by repeal, see note)*[^key-177a1ed9c0cd72194ea215e1f1f70195]
+- (a) subsection (4)(b); *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195]
+- (b) the words in subsection (5) “and for which he has outstanding *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195] VAT *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195]”; and *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195]
+- (c) subsection (6). *(affected by repeal, see note)*[^c-177a1ed9c0cd72194ea215e1f1f70195]
 
 **15.** (1) Section 63 does not apply in relation to returns and assessments made for prescribed accounting periods beginning before 1st April 1990 but subject to that shall have effect in relation to the cases referred to in the following sub-paragraphs subject to the modifications there specified.
 
@@ -286,15 +286,15 @@ and in section 61(6) for “70” there shall be substituted “ 60(3A) ”.
 
 [^c15306861]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
 
-[^key-8fd691bda96bd008d88f85bb8cbd4ee1]: Textual amendment: Words in Sch. 13 para. 8(2) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/5/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+[^c-8fd691bda96bd008d88f85bb8cbd4ee1]: Textual amendment: Words in Sch. 13 para. 8(2) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/5/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
 
 [^c15306901]: Textual amendment: Sch. 13 para. 9(1) repealed (19.3.1997 with effect as mentioned in [s. 39](https://www.legislation.gov.uk/ukpga/1997/16/section/39) of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [ss. 39](https://www.legislation.gov.uk/ukpga/1997/16/section/39), [113](https://www.legislation.gov.uk/ukpga/1997/16/section/113), [Sch. 18 Pt. IV(3)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/18/part/IV/3), Note
 
 [^c15306911]: Textual amendment: Sch. 13 para. 9(2) substituted (retrospectively) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 33(4)](https://www.legislation.gov.uk/ukpga/1995/4/section/33/4)
 
-[^key-f95c67cdc3f07e039968ab6f4158b6d0]: Textual amendment: Sch. 13 para. 10 omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/5/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+[^c-f95c67cdc3f07e039968ab6f4158b6d0]: Textual amendment: Sch. 13 para. 10 omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/5/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
 
-[^key-177a1ed9c0cd72194ea215e1f1f70195]: Textual amendment: [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/1994/23/schedule/13/paragraph/14) omitted (1.1.2023 for specified purposes, 6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 28](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/28); [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-177a1ed9c0cd72194ea215e1f1f70195]: Textual amendment: [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/1994/23/schedule/13/paragraph/14) omitted (1.1.2023 for specified purposes, 6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 28](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/28); [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
 [^c15306921]: Marginal citation: [S.I.1992/3261](https://www.legislation.gov.uk/uksi/1992/3261) (C.102).
 

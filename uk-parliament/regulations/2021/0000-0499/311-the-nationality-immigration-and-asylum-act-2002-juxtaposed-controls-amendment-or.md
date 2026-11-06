@@ -46,13 +46,13 @@ The Secretary of State has consulted with such people as appear to her to be app
 
 In accordance with section 141(5)(c) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-848c396255d00b7fc91d0178ace547dc]
+## 1. Citation and commencement[^c-848c396255d00b7fc91d0178ace547dc]
 
 (1) This Order may be cited as the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) Order 2021.
 
 (2) This Order comes into force on the twenty-first day after the day on which it is made.
 
-## 2. Amendment of the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003[^key-f2e6a5c88dcd0c0b940d74aa743b8ca4]
+## 2. Amendment of the Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003[^c-f2e6a5c88dcd0c0b940d74aa743b8ca4]
 
 (1) The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) Order 2003 [^c24465731] is amended as follows.
 
@@ -205,9 +205,9 @@ In accordance with section 141(5)(c) of that Act, a draft of this instrument was
   - (v) in sub-paragraph (c)—
     - (aa) for “19(2)” substitute “ 23(4) ”;
     - (bb) for “regulations 20(4)” substitute “ regulation 24(5) ”;
-- (f)[^key-2f656604e061b29de4b4ad0a3a2947fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-2f656604e061b29de4b4ad0a3a2947fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The UK Borders Act 2007[^key-49bea784f9974341d972d14bc501c814]
+## 3. The UK Borders Act 2007[^c-49bea784f9974341d972d14bc501c814]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -229,9 +229,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24465721]: Marginal citation: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41); [section 141](https://www.legislation.gov.uk/uksi/2021/311/section/141) was amended by regulation 12(4) of the Immigration, Nationality and Asylum (EU Exit) Regulations ([S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745)).
 
-[^key-848c396255d00b7fc91d0178ace547dc]: Commencement: Art. 1 in force at 31.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2)
+[^c-848c396255d00b7fc91d0178ace547dc]: Commencement: Art. 1 in force at 31.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2)
 
-[^key-f2e6a5c88dcd0c0b940d74aa743b8ca4]: Commencement: Art. 2 in force at 31.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2)
+[^c-f2e6a5c88dcd0c0b940d74aa743b8ca4]: Commencement: Art. 2 in force at 31.3.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/311/article/1/2)
 
 [^c24465731]: Marginal citation: [S.I. 2003/2818](https://www.legislation.gov.uk/uksi/2003/2818); relevant amending instruments are [S.I. 2006/1003](https://www.legislation.gov.uk/uksi/2006/1003), 2006/2908, 2011/1786, 2012/1547, 2013/3032 and 2019/745.
 
@@ -251,6 +251,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24465811]: Marginal citation: [S.I. 2006/1003](https://www.legislation.gov.uk/uksi/2006/1003), revoked by [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052). Paragraph 1 of Schedule 7 to [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052) provides that legislative references to [S.I. 2006/1003](https://www.legislation.gov.uk/uksi/2006/1003) are to be read as references to [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052). Relevant amending instruments for [S.I. 2016/1052](https://www.legislation.gov.uk/uksi/2016/1052) are [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), 2017/1, 2017/1242, 2018/801, 2019/468 and 2019/1155.
 
-[^key-2f656604e061b29de4b4ad0a3a2947fb]: Textual amendment: [Art. 2(7)(f)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/f) omitted (7.7.2021) by virtue of [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) (No. 2) Order 2021 (S.I. 2021/784)](https://www.legislation.gov.uk/uksi/2021/784), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/784/article/1/2), [2](https://www.legislation.gov.uk/uksi/2021/784/article/2)
+[^c-2f656604e061b29de4b4ad0a3a2947fb]: Textual amendment: [Art. 2(7)(f)](https://www.legislation.gov.uk/uksi/2021/311/article/2/7/f) omitted (7.7.2021) by virtue of [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) (No. 2) Order 2021 (S.I. 2021/784)](https://www.legislation.gov.uk/uksi/2021/784), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/784/article/1/2), [2](https://www.legislation.gov.uk/uksi/2021/784/article/2)
 
-[^key-49bea784f9974341d972d14bc501c814]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2021/311/article/3) omitted (7.7.2021) by virtue of [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) (No. 2) Order 2021 (S.I. 2021/784)](https://www.legislation.gov.uk/uksi/2021/784), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/784/article/1/2), [2](https://www.legislation.gov.uk/uksi/2021/784/article/2)
+[^c-49bea784f9974341d972d14bc501c814]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2021/311/article/3) omitted (7.7.2021) by virtue of [The Nationality, Immigration and Asylum Act 2002 (Juxtaposed Controls) (Amendment) (No. 2) Order 2021 (S.I. 2021/784)](https://www.legislation.gov.uk/uksi/2021/784), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/784/article/1/2), [2](https://www.legislation.gov.uk/uksi/2021/784/article/2)

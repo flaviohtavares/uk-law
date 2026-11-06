@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Property transfer from temporary public ownership[^M_I_bc5fd74a-f347-478b-962e-c37af9aaf8ba][^key-ade477a56dfa7af42eb4ec23c10594f1]
+## 152. Property transfer from temporary public ownership[^M_I_bc5fd74a-f347-478b-962e-c37af9aaf8ba][^c-ade477a56dfa7af42eb4ec23c10594f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^M_I_bc5fd74a-f347-478b-962e-c37af9aaf8ba]: Commencement: S. 152 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 3
 
-[^key-ade477a56dfa7af42eb4ec23c10594f1]: Commencement: S. 152 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-ade477a56dfa7af42eb4ec23c10594f1]: Commencement: S. 152 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)

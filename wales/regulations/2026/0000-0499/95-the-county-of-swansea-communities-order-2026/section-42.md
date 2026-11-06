@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Creation of the new community ward of Horton[^key-7abcec38a60137c3710d8a8f2c2715e2]
+## 42. Creation of the new community ward of Horton[^c-7abcec38a60137c3710d8a8f2c2715e2]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A new community ward is created in the community of Gower South which is to be k
 
 ## Annotations
 
-[^key-7abcec38a60137c3710d8a8f2c2715e2]: Commencement: [Art. 42](https://www.legislation.gov.uk/wsi/2026/95/article/42) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-7abcec38a60137c3710d8a8f2c2715e2]: Commencement: [Art. 42](https://www.legislation.gov.uk/wsi/2026/95/article/42) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Removal of asylum seeker to safe country[^key-90087907b442826eb98e5e457da1fd97][^key-0bf298094e094b9ad7a3512ab33fc8ea]
+## 29. Removal of asylum seeker to safe country[^c-90087907b442826eb98e5e457da1fd97][^c-0bf298094e094b9ad7a3512ab33fc8ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ Schedule 4 makes amendments to—
 
 ## Annotations
 
-[^key-90087907b442826eb98e5e457da1fd97]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/36/section/29) in force at 28.6.2022 for specified purposes, see [s. 87(5)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/b)
+[^c-90087907b442826eb98e5e457da1fd97]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/36/section/29) in force at 28.6.2022 for specified purposes, see [s. 87(5)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/b)
 
-[^key-0bf298094e094b9ad7a3512ab33fc8ea]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/36/section/29) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/17) (with [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/4/4))
+[^c-0bf298094e094b9ad7a3512ab33fc8ea]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/36/section/29) in force at 28.6.2022 in so far as not already in force by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/17) (with [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/4/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-d6e5037ac7831f176a84fdd8733a3dc1]
+## 2. Interpretation[^c-d6e5037ac7831f176a84fdd8733a3dc1]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
 - “**land plans**” means sheets 1 - 15 of the plans of that name identified in the table in Schedule 13 and which are certified by the Secretary of State as the land plans for the purposes of this Order;
 - “**maintain**” includes inspect, repair, adjust, alter, remove, refurbish, reconstruct, replace and improve any part of, but not remove, reconstruct or replace the whole of, the authorised development and “maintenance” and “maintaining” are to be construed accordingly;
 - “**National Grid Navenby Substation**” means the proposed substation at Heath Lane, Navenby, LN5 0AY, owned and operated by NGET;
-- “**Navenby Substation area plan**” means the document of that name identified in the table at Schedule 13 and which is certified by the Secretary of State as the Navenby Substation area plan[^key-1d7cfe1514b93b6edf449c30f74cb3c9] for the purposes of this Order;
+- “**Navenby Substation area plan**” means the document of that name identified in the table at Schedule 13 and which is certified by the Secretary of State as the Navenby Substation area plan[^c-1d7cfe1514b93b6edf449c30f74cb3c9] for the purposes of this Order;
 - “**NGET**” means National Grid Electricity Transmission Plc (company number 2366977) whose registered office is at 1 to 3 Strand, London WC2N 5EH or any successor as a licence holder within the meaning of Part 1 of the 1989 Act;
 - “**Order land**” means the land shown coloured pink, blue or green on the land plans which is within the limits of land to be acquired or used and described in the book of reference;
 - “**Order limits**” means the limits shown on the works plans within which the authorised development may be carried out and land acquired or used;
@@ -117,7 +117,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d6e5037ac7831f176a84fdd8733a3dc1]: Commencement: Art. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-d6e5037ac7831f176a84fdd8733a3dc1]: Commencement: Art. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
 [^f00013]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -139,7 +139,7 @@ summary: ''
 
 [^f00022]: Footnote: “highway” is defined in section 328(1). For “highway authority” see section 1.
 
-[^key-1d7cfe1514b93b6edf449c30f74cb3c9]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2026/419/article/2/1) substituted (23.9.2026) by [The Springwell Solar Farm (Correction) Order 2026 (S.I. 2026/1052)](https://www.legislation.gov.uk/uksi/2026/1052), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1052/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/1052/schedule)
+[^c-1d7cfe1514b93b6edf449c30f74cb3c9]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2026/419/article/2/1) substituted (23.9.2026) by [The Springwell Solar Farm (Correction) Order 2026 (S.I. 2026/1052)](https://www.legislation.gov.uk/uksi/2026/1052), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1052/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/1052/schedule)
 
 [^f00023]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 

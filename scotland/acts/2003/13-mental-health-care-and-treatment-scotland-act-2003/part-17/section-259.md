@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 259. Advocacy[^key-d979bcff518a72309d9055c1c38422e7]
+## 259. Advocacy[^c-d979bcff518a72309d9055c1c38422e7]
 
 *Extent: S*
 
@@ -77,4 +77,4 @@ to secure the availability to relevant persons of the services referred to in su
 
 ## Annotations
 
-[^key-d979bcff518a72309d9055c1c38422e7]: Commencement: S. 259 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-d979bcff518a72309d9055c1c38422e7]: Commencement: S. 259 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

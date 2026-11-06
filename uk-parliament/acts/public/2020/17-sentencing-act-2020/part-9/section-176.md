@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Youth rehabilitation order with fostering[^key-26790a4dc846b2ceebdb88b82f0ad571]
+## 176. Youth rehabilitation order with fostering[^c-26790a4dc846b2ceebdb88b82f0ad571]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ But this is subject to section 175(2) (fostering requirement not available with 
 
 ## Annotations
 
-[^key-26790a4dc846b2ceebdb88b82f0ad571]: Commencement: S. 176 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-26790a4dc846b2ceebdb88b82f0ad571]: Commencement: S. 176 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

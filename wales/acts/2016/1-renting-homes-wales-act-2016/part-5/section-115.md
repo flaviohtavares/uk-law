@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Transfer to a potential successor: landlord's consent[^key-15482d81511c9df0a91bf652446e3208]
+## 115. Transfer to a potential successor: landlord's consent[^c-15482d81511c9df0a91bf652446e3208]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a landlord refuses consent or consents subject to conditions to a transfer
 
 ## Annotations
 
-[^key-15482d81511c9df0a91bf652446e3208]: Commencement: [S. 115](https://www.legislation.gov.uk/anaw/2016/1/section/115) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-15482d81511c9df0a91bf652446e3208]: Commencement: [S. 115](https://www.legislation.gov.uk/anaw/2016/1/section/115) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

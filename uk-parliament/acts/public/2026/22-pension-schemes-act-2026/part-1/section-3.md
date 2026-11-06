@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Additional powers for certain scheme managers[^key-bb74096fcf974c22ff729596e82f08a3]
+## 3. Additional powers for certain scheme managers[^c-bb74096fcf974c22ff729596e82f08a3]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb74096fcf974c22ff729596e82f08a3]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-bb74096fcf974c22ff729596e82f08a3]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

@@ -24,7 +24,7 @@ Regulation 103
 
 ### PART 1
 
-**1.**[^key-ee57599303bd68affd52df534b2b1696] In the following provisions of the National Health Service Pension Scheme (Scotland) Regulations 2008 (“the 2008 Regulations”) before “the scheme”, insert “this Section of”—
+**1.**[^c-ee57599303bd68affd52df534b2b1696] In the following provisions of the National Health Service Pension Scheme (Scotland) Regulations 2008 (“the 2008 Regulations”) before “the scheme”, insert “this Section of”—
 
 <table>
 <thead>
@@ -102,7 +102,7 @@ Regulation 103
 
 ### PART 2
 
-**2.**[^key-c83270fd9390c6c237d73c4458f4a3df] In the following provisions of the 2008 Regulations for “NHS superannuation scheme for Scotland 1995” substitute “1995 Section”—
+**2.**[^c-c83270fd9390c6c237d73c4458f4a3df] In the following provisions of the 2008 Regulations for “NHS superannuation scheme for Scotland 1995” substitute “1995 Section”—
 
 <table>
 <thead>
@@ -121,7 +121,7 @@ Regulation 103
 
 ### PART 3
 
-**3.**[^key-cf0f42201d0aa0c4432c3d62c15ccbe5] In the following provisions of the 2008 Regulations for “that scheme” substitute “that Section”—
+**3.**[^c-cf0f42201d0aa0c4432c3d62c15ccbe5] In the following provisions of the 2008 Regulations for “that scheme” substitute “that Section”—
 
 | regulation: |  |  |  |
 | --- | --- | --- | --- |
@@ -131,34 +131,34 @@ Regulation 103
 | 2.B.2(2)(b), (c) and (c)(ii) | 2.F.12(3)(a) and (b) | 3.F.4 (6)(a)(i), (6)(a)(ii)(aa) and (6)(a)(ii)(bb) |  |
 | 2.C.3(23)(a) and (b) | 3.A.3(9) (twice) | 3.F.11(6)(a) and (b) |  |
 
-**4.**[^key-5164396c0ae7cf13c653f80e0034702d] In the following provisions of the 2008 Regulations before “The scheme” insert “This Section of”—
+**4.**[^c-5164396c0ae7cf13c653f80e0034702d] In the following provisions of the 2008 Regulations before “The scheme” insert “This Section of”—
 
 | regulation: |  |  |  |
 | --- | --- | --- | --- |
 | 2.F.15(2) | 2.F.16(2) | 3.F.15(2) | 3.F.16(2) |
 
-**5.**[^key-95ccf20eb60dc4f5ca2a6a8ac6f67f73] In the following provisions of the 2008 Regulations for “this scheme” substitute “this section of the scheme”.
+**5.**[^c-95ccf20eb60dc4f5ca2a6a8ac6f67f73] In the following provisions of the 2008 Regulations for “this scheme” substitute “this section of the scheme”.
 
 | regulation: |  |  |  |
 | --- | --- | --- | --- |
 | 2.F.17(3)(b) | 3.F.9(3) | 3.F.17(1), (2)(c), (3)(a), (b) and (6)(c) |  |
 
-**6.**[^key-ffaf40abafe0203109eec21a40c28e84] In regulation 2.B.1(3) and (5) of the 2008 Regulations for “other scheme conditions” substitute “other Section conditions”.
+**6.**[^c-ffaf40abafe0203109eec21a40c28e84] In regulation 2.B.1(3) and (5) of the 2008 Regulations for “other scheme conditions” substitute “other Section conditions”.
 
-**7.**[^key-c95ca5074ef004cda609842b93a19856] In regulation 3.B.1(3) and (5) of the 2008 Regulations for “other scheme conditions” substitute “other Section conditions”.
+**7.**[^c-c95ca5074ef004cda609842b93a19856] In regulation 3.B.1(3) and (5) of the 2008 Regulations for “other scheme conditions” substitute “other Section conditions”.
 
 ## Annotations
 
-[^key-ee57599303bd68affd52df534b2b1696]: Commencement: Sch. 2 para. 1 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-ee57599303bd68affd52df534b2b1696]: Commencement: Sch. 2 para. 1 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
 
-[^key-c83270fd9390c6c237d73c4458f4a3df]: Commencement: Sch. 2 para. 2 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-c83270fd9390c6c237d73c4458f4a3df]: Commencement: Sch. 2 para. 2 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
 
-[^key-cf0f42201d0aa0c4432c3d62c15ccbe5]: Commencement: Sch. 2 para. 3 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-cf0f42201d0aa0c4432c3d62c15ccbe5]: Commencement: Sch. 2 para. 3 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
 
-[^key-5164396c0ae7cf13c653f80e0034702d]: Commencement: Sch. 2 para. 4 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-5164396c0ae7cf13c653f80e0034702d]: Commencement: Sch. 2 para. 4 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
 
-[^key-95ccf20eb60dc4f5ca2a6a8ac6f67f73]: Commencement: Sch. 2 para. 5 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-95ccf20eb60dc4f5ca2a6a8ac6f67f73]: Commencement: Sch. 2 para. 5 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
 
-[^key-ffaf40abafe0203109eec21a40c28e84]: Commencement: Sch. 2 para. 6 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-ffaf40abafe0203109eec21a40c28e84]: Commencement: Sch. 2 para. 6 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
 
-[^key-c95ca5074ef004cda609842b93a19856]: Commencement: Sch. 2 para. 7 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-c95ca5074ef004cda609842b93a19856]: Commencement: Sch. 2 para. 7 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)

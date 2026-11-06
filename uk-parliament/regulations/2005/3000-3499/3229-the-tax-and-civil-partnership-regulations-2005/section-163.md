@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163.[^key-4e9ee75081e7a67b7fded72281feea92]
+## 163.[^c-4e9ee75081e7a67b7fded72281feea92]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 665 (income support: exempt unless payable to member of couple involv
 
 ## Annotations
 
-[^key-4e9ee75081e7a67b7fded72281feea92]: Commencement: Reg. 163 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-4e9ee75081e7a67b7fded72281feea92]: Commencement: Reg. 163 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

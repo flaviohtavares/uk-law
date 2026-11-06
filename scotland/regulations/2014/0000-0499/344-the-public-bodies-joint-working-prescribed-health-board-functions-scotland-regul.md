@@ -46,19 +46,19 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 69(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and interpretation[^key-c9da0ebd2f4889068745997e407a0975]
+## 1. Citation, commencement and interpretation[^c-c9da0ebd2f4889068745997e407a0975]
 
 (1) These Regulations may be cited as the Public Bodies (Joint Working) (Prescribed Health Board Functions) (Scotland) Regulations 2014 and come into force on the day after the day on which they are made*.*
 
 (2) In these Regulations, “the Act” means the Public Bodies (Joint Working) (Scotland) Act 2014.
 
-## 2. Prescribed functions (Section 1(6))[^key-1838a81448e9dd59a7ab8ac1f447a1e9]
+## 2. Prescribed functions (Section 1(6))[^c-1838a81448e9dd59a7ab8ac1f447a1e9]
 
 (1) The functions listed in column A of Schedule 1 are prescribed for the purposes of section 1(6) of the Act.
 
 (2) Each function listed in column A of Schedule 1 is prescribed subject to the exceptions in column B.
 
-## 3. Prescribed functions (Section 1(8))[^key-09ea28a98341fffa604c3ac43fe09047]
+## 3. Prescribed functions (Section 1(8))[^c-09ea28a98341fffa604c3ac43fe09047]
 
 (1) The functions listed in column A of Schedule 2 are prescribed for the purposes of section 1(8) of the Act.
 
@@ -80,7 +80,7 @@ Edinburgh
 
 27th November 2014
 
-## SCHEDULE 1[^key-dfb6c9a89d33f14686204d2a8dfa5e38]
+## SCHEDULE 1[^c-dfb6c9a89d33f14686204d2a8dfa5e38]
 
 Regulation 2
 
@@ -140,9 +140,9 @@ Functions prescribed for the purposes of section 1(6) of the Act
 </tbody>
 </table>
 
-[^f00002][^f00003][^f00004][^f00005][^f00006][^f00007][^f00008][^f00009][^f00010][^f00011][^f00012][^f00013][^f00014][^f00015][^f00016][^f00017][^key-f1276f782c7e69d8671176a4a23188e4][^f00019][^f00020][^f00021][^f00022][^f00023][^f00024][^f00025][^f00026][^f00027][^f00028][^f00029][^f00030][^key-1d3c96ccce9a047e23ee9107ee676a7b][^key-494352bdef30818895781644d1b4ef0d]
+[^f00002][^f00003][^f00004][^f00005][^f00006][^f00007][^f00008][^f00009][^f00010][^f00011][^f00012][^f00013][^f00014][^f00015][^f00016][^f00017][^c-f1276f782c7e69d8671176a4a23188e4][^f00019][^f00020][^f00021][^f00022][^f00023][^f00024][^f00025][^f00026][^f00027][^f00028][^f00029][^f00030][^c-1d3c96ccce9a047e23ee9107ee676a7b][^c-494352bdef30818895781644d1b4ef0d]
 
-## SCHEDULE 2[^key-a9bdf1455ed973b357cb3bcc998239a5]
+## SCHEDULE 2[^c-a9bdf1455ed973b357cb3bcc998239a5]
 
 Regulation 3
 
@@ -225,7 +225,7 @@ Functions prescribed for the purposes of section 1(8) of the Act
 </tbody>
 </table>
 
-[^f00031][^f00032][^f00033][^f00034][^f00035][^f00036][^f00037][^f00038][^f00039][^f00040][^f00041][^f00042][^f00043][^f00044][^key-33915b22305369f03951afd45ede9861][^f00045][^f00046][^f00047][^f00048][^f00049][^f00050][^f00051][^f00052][^f00053][^f00054]
+[^f00031][^f00032][^f00033][^f00034][^f00035][^f00036][^f00037][^f00038][^f00039][^f00040][^f00041][^f00042][^f00043][^f00044][^c-33915b22305369f03951afd45ede9861][^f00045][^f00046][^f00047][^f00048][^f00049][^f00050][^f00051][^f00052][^f00053][^f00054]
 
 ## SCHEDULE 3
 
@@ -233,7 +233,7 @@ Regulation 3
 
 ### PART 1
 
-#### 1. Interpretation of Schedule 3[^key-e80f1752f2ff6be0e8f38bb60197fd4c]
+#### 1. Interpretation of Schedule 3[^c-e80f1752f2ff6be0e8f38bb60197fd4c]
 
 In this Schedule—
 
@@ -242,12 +242,12 @@ In this Schedule—
 - “general medical services contract” means a contract under section 17J of the National Health Service (Scotland) Act 1978;
 - “hospital” has the meaning given by section 108(1) of the National Health Service (Scotland) Act 1978;
 - “inpatient hospital services” means any health care service provided to a patient who has been admitted to a hospital and is required to remain in that hospital overnight, but does not include any secure forensic mental health services;
-- “out of hours period” has the same meaning as in regulation 3 of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018[^key-fd1a2e85ad6ade4421d470cf8f7d1f07]; and
+- “out of hours period” has the same meaning as in regulation 3 of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018[^c-fd1a2e85ad6ade4421d470cf8f7d1f07]; and
 - “the public dental service” means services provided by dentists and dental staff employed by a health board under the public dental service contract.
 
 ### PART 2
 
-**2.**[^key-a1629aa9eb6cca696cff7f1cb1989c12] The health care services listed for the purpose of regulation 3(3)(b) are—
+**2.**[^c-a1629aa9eb6cca696cff7f1cb1989c12] The health care services listed for the purpose of regulation 3(3)(b) are—
 
 - (a) accident and emergency services provided in a hospital;
 - (b) inpatient hospital services relating to the following branches of medicine—
@@ -263,7 +263,7 @@ In this Schedule—
 
 ### PART 3
 
-**3.**[^key-4f45344d743eeeb3b59096c709e5f25b] The health care services listed for the purpose of regulation 3(3)(c) are—
+**3.**[^c-4f45344d743eeeb3b59096c709e5f25b] The health care services listed for the purpose of regulation 3(3)(c) are—
 
 - (a) district nursing services;
 - (b) services provided outwith a hospital in relation to an addiction or dependence on any substance;
@@ -306,13 +306,13 @@ When functions are delegated in accordance with these Regulations, section 25(3)
 
 [^f00001]: Footnote: [2014 asp 9](https://www.legislation.gov.uk/asp/2014/9). Section 68(1) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made.
 
-[^key-c9da0ebd2f4889068745997e407a0975]: Commencement: Reg. 1 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
+[^c-c9da0ebd2f4889068745997e407a0975]: Commencement: Reg. 1 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
 
-[^key-1838a81448e9dd59a7ab8ac1f447a1e9]: Commencement: Reg. 2 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
+[^c-1838a81448e9dd59a7ab8ac1f447a1e9]: Commencement: Reg. 2 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
 
-[^key-09ea28a98341fffa604c3ac43fe09047]: Commencement: Reg. 3 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
+[^c-09ea28a98341fffa604c3ac43fe09047]: Commencement: Reg. 3 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
 
-[^key-dfb6c9a89d33f14686204d2a8dfa5e38]: Commencement: Sch. 1 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
+[^c-dfb6c9a89d33f14686204d2a8dfa5e38]: Commencement: Sch. 1 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
 
 [^f00002]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -346,7 +346,7 @@ When functions are delegated in accordance with these Regulations, section 25(3)
 
 [^f00017]: Footnote: [S.S.I. 2004/114](https://www.legislation.gov.uk/ssi/2004/114); as relevantly amended by [S.S.I. 2004/216](https://www.legislation.gov.uk/ssi/2004/216); [S.S.I. 2006/136](https://www.legislation.gov.uk/ssi/2006/136); [S.S.I. 2007/207](https://www.legislation.gov.uk/ssi/2007/207) and [S.S.I. 2011/392](https://www.legislation.gov.uk/ssi/2011/392).
 
-[^key-f1276f782c7e69d8671176a4a23188e4]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/344/schedule/1) substituted (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [sch. 8 para. 6(2)](https://www.legislation.gov.uk/ssi/2018/67/schedule/8/paragraph/6/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
+[^c-f1276f782c7e69d8671176a4a23188e4]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/344/schedule/1) substituted (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [sch. 8 para. 6(2)](https://www.legislation.gov.uk/ssi/2018/67/schedule/8/paragraph/6/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
 
 [^f00019]: Footnote: [S.S.I. 2006/135](https://www.legislation.gov.uk/ssi/2006/135); as relevantly amended by [S.S.I. 2007/193](https://www.legislation.gov.uk/ssi/2007/193); [S.S.I. 2010/86](https://www.legislation.gov.uk/ssi/2010/86); [S.S.I. 2010/378](https://www.legislation.gov.uk/ssi/2010/378) and [S.S.I. 2013/355](https://www.legislation.gov.uk/ssi/2013/355).
 
@@ -372,11 +372,11 @@ When functions are delegated in accordance with these Regulations, section 25(3)
 
 [^f00030]: Footnote: [2011 asp 5](https://www.legislation.gov.uk/asp/2011/5).
 
-[^key-1d3c96ccce9a047e23ee9107ee676a7b]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/344/schedule/1) revoked (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 30(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/30/2); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(f)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/f)
+[^c-1d3c96ccce9a047e23ee9107ee676a7b]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/344/schedule/1) revoked (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 30(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/30/2); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(f)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/f)
 
-[^key-494352bdef30818895781644d1b4ef0d]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/344/schedule/1) inserted (18.12.2017) by [The Public Bodies (Joint Working) (Prescribed Health Board Functions) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/381)](https://www.legislation.gov.uk/ssi/2017/381), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/381/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2017/381/regulation/2)
+[^c-494352bdef30818895781644d1b4ef0d]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2014/344/schedule/1) inserted (18.12.2017) by [The Public Bodies (Joint Working) (Prescribed Health Board Functions) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/381)](https://www.legislation.gov.uk/ssi/2017/381), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/381/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2017/381/regulation/2)
 
-[^key-a9bdf1455ed973b357cb3bcc998239a5]: Commencement: Sch. 2 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
+[^c-a9bdf1455ed973b357cb3bcc998239a5]: Commencement: Sch. 2 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
 
 [^f00031]: Footnote: Section 2CB was inserted by [S.S.I. 2010/283](https://www.legislation.gov.uk/ssi/2010/283), regulation 3(2) (as section 2CA) and re-numbered as section 2CB by [S.S.I. 2013/292](https://www.legislation.gov.uk/ssi/2013/292), regulation 8(2).
 
@@ -406,7 +406,7 @@ When functions are delegated in accordance with these Regulations, section 25(3)
 
 [^f00044]: Footnote: [S.I. 1989/364](https://www.legislation.gov.uk/uksi/1989/364); as amended by [S.I. 1992/411](https://www.legislation.gov.uk/uksi/1992/411); [S.I. 1994/1770](https://www.legislation.gov.uk/uksi/1994/1770); [S.S.I. 2004/369](https://www.legislation.gov.uk/ssi/2004/369); [S.S.I. 2005/445](https://www.legislation.gov.uk/ssi/2005/445); [S.S.I. 2005/572](https://www.legislation.gov.uk/ssi/2005/572); [S.S.I. 2006/141](https://www.legislation.gov.uk/ssi/2006/141); [S.S.I. 2008/290](https://www.legislation.gov.uk/ssi/2008/290); [S.S.I. 2011/25](https://www.legislation.gov.uk/ssi/2011/25) and [S.S.I. 2013/177](https://www.legislation.gov.uk/ssi/2013/177).
 
-[^key-33915b22305369f03951afd45ede9861]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2014/344/schedule/2) substituted (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [sch. 8 para. 6(3)](https://www.legislation.gov.uk/ssi/2018/67/schedule/8/paragraph/6/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
+[^c-33915b22305369f03951afd45ede9861]: Textual amendment: Words in [sch. 2](https://www.legislation.gov.uk/ssi/2014/344/schedule/2) substituted (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [sch. 8 para. 6(3)](https://www.legislation.gov.uk/ssi/2018/67/schedule/8/paragraph/6/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
 
 [^f00045]: Footnote: [S.S.I. 2011/55](https://www.legislation.gov.uk/ssi/2011/55); to which there are amendments not relevant to the exercise of a Health Board’s functions.
 
@@ -428,13 +428,13 @@ When functions are delegated in accordance with these Regulations, section 25(3)
 
 [^f00054]: Footnote: [S.S.I. 2012/36](https://www.legislation.gov.uk/ssi/2012/36). Section 5(2) of the Patient Rights (Scotland) Act [2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5) provides a definition of “relevant NHS body” relevant to the exercise of a Health Board’s functions.
 
-[^key-e80f1752f2ff6be0e8f38bb60197fd4c]: Commencement: Sch. 3 para. 1 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
+[^c-e80f1752f2ff6be0e8f38bb60197fd4c]: Commencement: Sch. 3 para. 1 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
 
-[^key-fd1a2e85ad6ade4421d470cf8f7d1f07]: Textual amendment: Words in [sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2014/344/schedule/3/paragraph/1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 9(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/9/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-fd1a2e85ad6ade4421d470cf8f7d1f07]: Textual amendment: Words in [sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2014/344/schedule/3/paragraph/1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 9(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/9/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
 
-[^key-a1629aa9eb6cca696cff7f1cb1989c12]: Commencement: Sch. 3 para. 2 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
+[^c-a1629aa9eb6cca696cff7f1cb1989c12]: Commencement: Sch. 3 para. 2 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
 
-[^key-4f45344d743eeeb3b59096c709e5f25b]: Commencement: Sch. 3 para. 3 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
+[^c-4f45344d743eeeb3b59096c709e5f25b]: Commencement: Sch. 3 para. 3 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/344/regulation/1/1)
 
 [^f00056]: Footnote: Section 2C was inserted by the Primary Medical Services (Scotland) Act [2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), section 1(2) and relevantly amended by the National Health Service Reform (Scotland) Act [2004 (asp 7)](https://www.legislation.gov.uk/asp/2004/7), schedule 1, and the Tobacco and Primary Medical Services (Scotland) Act [2010 (asp 3)](https://www.legislation.gov.uk/asp/2010/3), section 37.
 

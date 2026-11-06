@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1B. Draft valuation roll and draft valuation notices[^key-72bc26435fae0ae2d54fa5e5c6cd8356]
+## 1B. Draft valuation roll and draft valuation notices[^c-72bc26435fae0ae2d54fa5e5c6cd8356]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72bc26435fae0ae2d54fa5e5c6cd8356]: Textual amendment: S. 1B inserted (5.11.2020) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 8](https://www.legislation.gov.uk/asp/2020/4/section/8), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-72bc26435fae0ae2d54fa5e5c6cd8356]: Textual amendment: S. 1B inserted (5.11.2020) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 8](https://www.legislation.gov.uk/asp/2020/4/section/8), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)

@@ -24,11 +24,11 @@ Article 2
 
 ### PART 1 — Authorised development
 
-**1.**[^key-46411f2bd99afcb492a2950d81246ab5] A nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act which is located in the North Sea approximately 43.4 kilometres from the Suffolk coast, comprising—
+**1.**[^c-46411f2bd99afcb492a2950d81246ab5] A nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act which is located in the North Sea approximately 43.4 kilometres from the Suffolk coast, comprising—
 
 *Work No. 1* –
 
-- (a) an offshore wind turbine generating station with a gross electrical output capacity of up to 1,200 MW comprising up to 240 wind turbine generators for the HVDC option, or if the HVAC option is selected, an offshore wind turbine generating station with a gross electrical output capacity of up to 750 MW comprising up to[^M_F_a5ee4178-764e-42bf-fdf0-7d70456534fc] 102[^key-bb2e02b67cd90f6569527fe97d5a22b1] wind turbine generators. For both the HVDC option and the HVAC option, each wind turbine generator shall be fixed to the seabed by one of three foundation types (namely, jacket foundation, gravity base foundation or suction caisson foundation), fitted with rotating blades and situated within the area shown on the works plan and including the further works comprising sub-paragraphs (b) to (d);
+- (a) an offshore wind turbine generating station with a gross electrical output capacity of up to 1,200 MW comprising up to 240 wind turbine generators for the HVDC option, or if the HVAC option is selected, an offshore wind turbine generating station with a gross electrical output capacity of up to 750 MW comprising up to[^M_F_a5ee4178-764e-42bf-fdf0-7d70456534fc] 102[^c-bb2e02b67cd90f6569527fe97d5a22b1] wind turbine generators. For both the HVDC option and the HVAC option, each wind turbine generator shall be fixed to the seabed by one of three foundation types (namely, jacket foundation, gravity base foundation or suction caisson foundation), fitted with rotating blades and situated within the area shown on the works plan and including the further works comprising sub-paragraphs (b) to (d);
 - (b) up to three HVAC offshore collector stations for the HVDC option. Up to two HVAC offshore collector stations for the HVAC option, if constructed under Work No. 1, each fixed to the seabed[^M_F_58f02870-2cee-40c1-a6ff-488cc3f6d580] within the area shown on the works plan by one of two foundation types (namely jacket foundation or gravity base foundation);
 - (c) up to one meteorological mast[^M_F_d22ca702-4109-4cf1-da94-6285c0fc3e28] fixed to the seabed within the area shown on the works plan by one of four foundation types (namely jacket foundation, gravity base foundation, suction caisson foundation or monopile foundation);
 - (d) a network of subsea cables within the area shown on the works plan between the WTGs and the HVAC offshore collector stations, up to two interconnection cables between the HVAC offshore collector stations, up to ten export cables between the HVAC offshore collector stations and Work No. 2, and up to one interconnection cable between the HVDC offshore converter stations comprising Work No. 2 for the transmission of electricity and electronic communications between these different structures including one or more cable crossings;
@@ -41,7 +41,7 @@ and associated development within the meaning of section 115(2) of the 2008 Act 
 
 **In the county of Suffolk, district of Suffolk Coastal**
 
-*Work No. 3B* – onshore connection works consisting of up to four HVDC cables for the HVDC option or up to six HVAC cables for the HVAC option and up to eight additional cable ducts[^key-ef9e6952594a8759ece99f9dad77e406] laid underground from mean low water at Bawdsey Cliffs to Work No. 4 together with new temporary horizontal directional drilling compounds and a new temporary secondary construction consolidation site;
+*Work No. 3B* – onshore connection works consisting of up to four HVDC cables for the HVDC option or up to six HVAC cables for the HVAC option and up to eight additional cable ducts[^c-ef9e6952594a8759ece99f9dad77e406] laid underground from mean low water at Bawdsey Cliffs to Work No. 4 together with new temporary horizontal directional drilling compounds and a new temporary secondary construction consolidation site;
 
 *Work No. 3C* – a new temporary vehicular access track from the temporary compound to the adopted highway at Ferry Road including modifications to the junction of the new vehicular access track and the adopted highway at Ferry Road and a new temporary vehicular access ramp from the temporary compound to the beach at Bawdsey Cliffs;
 
@@ -181,7 +181,7 @@ and in connection with such Works No. 3B to 41 and to the extent that they do no
 
 which fall within the scope of the works assessed by the environmental statement.
 
-**2.**[^key-4d07b6e53b7e529c5965819109963daf] The grid coordinates for that part of the authorised project which is seaward of MHWS are specified below and more particularly shown on the Order limits boundary coordinates plan—
+**2.**[^c-4d07b6e53b7e529c5965819109963daf] The grid coordinates for that part of the authorised project which is seaward of MHWS are specified below and more particularly shown on the Order limits boundary coordinates plan—
 
 Coordinates for the Order limits seaward of MHWS
 
@@ -223,7 +223,7 @@ Coordinates for the Order limits seaward of MHWS
 | G | 52° 4′ 46.512″ | 2° 31′ 2.669″ |
 | H | 52° 4′ 45.732″ | 2° 28′ 1.913″ |
 
-**3.**[^key-6f3f6f38a128394fc182f7fe412a5ad8] The grid coordinates for that part of the authorised project which is landward of MLW are specified below and more particularly shown on the Order limits boundary coordinates plan—
+**3.**[^c-6f3f6f38a128394fc182f7fe412a5ad8] The grid coordinates for that part of the authorised project which is landward of MLW are specified below and more particularly shown on the Order limits boundary coordinates plan—
 
 Coordinates for the Order limits landward of MLW
 
@@ -283,7 +283,7 @@ Coordinates for the Order limits landward of MLW
 
 ### PART 2 — Ancillary works
 
-**1.**[^key-239f041e2a8aa8781d88fa5d454903f0] Works within the Order limits which have been subject to an environmental impact assessment recorded in the environmental statement comprising—
+**1.**[^c-239f041e2a8aa8781d88fa5d454903f0] Works within the Order limits which have been subject to an environmental impact assessment recorded in the environmental statement comprising—
 
 - (a) temporary landing places, moorings or other means of accommodating vessels in the construction and/or maintenance of the authorised development;
 - (b) buoys, beacons, fenders and other navigational warning or ship impact protection works; and
@@ -291,7 +291,7 @@ Coordinates for the Order limits landward of MLW
 
 ### PART 3 — Requirements
 
-#### 1. Interpretation[^key-4dcb5ce253b73b31585958535c4488c1]
+#### 1. Interpretation[^c-4dcb5ce253b73b31585958535c4488c1]
 
 In this Part of this Schedule—
 
@@ -299,38 +299,38 @@ In this Part of this Schedule—
 - “highway authority” means the local highway authority for the relevant area;
 - “onshore cable corridor” means the onshore area in which the cables will be located within the Order limits;
 - “stage” means one of the nine stages of the connection works comprised in—
-  - (i) [^key-fec1549f0f7441c838979dbbe30f355c]Works No. 3B and 3C (using the construction consolidation site at Work No. 4);
-  - (ii) [^key-fec1549f0f7441c838979dbbe30f355c]Works No. 5 to 7A (using the construction consolidation site at Work No. 7B);
-  - (iii) [^key-fec1549f0f7441c838979dbbe30f355c]Works No. 8 to 10A (using the construction consolidation site at Work No. 10B);
-  - (iv) [^key-fec1549f0f7441c838979dbbe30f355c]Works No. 11 to 15(using the construction consolidation site at Work No. 16);
-  - (v) [^key-fec1549f0f7441c838979dbbe30f355c]Works No. 17 to 23A (using the construction consolidation site at Work No. 23B);
-  - (vi) [^key-fec1549f0f7441c838979dbbe30f355c]Works No. 23C to 28A (using the construction consolidation site at Work No. 28B);
-  - (vii) [^key-fec1549f0f7441c838979dbbe30f355c]Works No. 29 to 30A (using the construction consolidation site at Work No. 30B);
-  - (viii) [^key-fec1549f0f7441c838979dbbe30f355c]Works No. 31 to 34A (using the construction consolidation site at Work No. 34B);
-  - (ix) [^key-fec1549f0f7441c838979dbbe30f355c]Works No. 35A to 37D (using the construction consolidation site at Work No. 37E);
-  - (x) [^key-fec1549f0f7441c838979dbbe30f355c]Works No. 38 to 41;
+  - (i) [^c-fec1549f0f7441c838979dbbe30f355c]Works No. 3B and 3C (using the construction consolidation site at Work No. 4);
+  - (ii) [^c-fec1549f0f7441c838979dbbe30f355c]Works No. 5 to 7A (using the construction consolidation site at Work No. 7B);
+  - (iii) [^c-fec1549f0f7441c838979dbbe30f355c]Works No. 8 to 10A (using the construction consolidation site at Work No. 10B);
+  - (iv) [^c-fec1549f0f7441c838979dbbe30f355c]Works No. 11 to 15(using the construction consolidation site at Work No. 16);
+  - (v) [^c-fec1549f0f7441c838979dbbe30f355c]Works No. 17 to 23A (using the construction consolidation site at Work No. 23B);
+  - (vi) [^c-fec1549f0f7441c838979dbbe30f355c]Works No. 23C to 28A (using the construction consolidation site at Work No. 28B);
+  - (vii) [^c-fec1549f0f7441c838979dbbe30f355c]Works No. 29 to 30A (using the construction consolidation site at Work No. 30B);
+  - (viii) [^c-fec1549f0f7441c838979dbbe30f355c]Works No. 31 to 34A (using the construction consolidation site at Work No. 34B);
+  - (ix) [^c-fec1549f0f7441c838979dbbe30f355c]Works No. 35A to 37D (using the construction consolidation site at Work No. 37E);
+  - (x) [^c-fec1549f0f7441c838979dbbe30f355c]Works No. 38 to 41;
 
   or such other stage of the connection works agreed in writing with the relevant local planning authority;
 - “working width” means the construction width of the onshore cable corridor including haul route, spoil storage and temporary drainage during installation of cables and/or cable ducts.
 
-#### 2. Time limits[^key-ffd8f638a86d3aeafff74dc5adde26ac]
+#### 2. Time limits[^c-ffd8f638a86d3aeafff74dc5adde26ac]
 
 The authorised development must commence no later than the expiration of five years beginning with the date this Order comes into force.
 
-#### 3. Detailed offshore design parameters[^key-a781774cf574880d658adb28128584f3]
+#### 3. Detailed offshore design parameters[^c-a781774cf574880d658adb28128584f3]
 
 (1) Subject to sub-paragraph (2), no wind turbine generator forming part of the authorised project shall—
 
-- (a) exceed a height of 188 metres[^key-a40e6eff63f4ab4e40a0adc13870b684] when measured from LAT to the tip of the vertical blade;
-- (b) exceed a height of 111 metres[^key-f27f08df4136de48c95f968508a7e5d2] to the height of the centreline of the generator shaft forming part of the hub when measured from LAT;
-- (c) exceed a rotor diameter of 154 metres[^key-2f94618e3cf224d9a45c571b675b31cc];
+- (a) exceed a height of 188 metres[^c-a40e6eff63f4ab4e40a0adc13870b684] when measured from LAT to the tip of the vertical blade;
+- (b) exceed a height of 111 metres[^c-f27f08df4136de48c95f968508a7e5d2] to the height of the centreline of the generator shaft forming part of the hub when measured from LAT;
+- (c) exceed a rotor diameter of 154 metres[^c-2f94618e3cf224d9a45c571b675b31cc];
 - (d) be less than 675 metres from the nearest WTG in either direction perpendicular to the approximate prevailing wind direction (crosswind) or be less than 900 metres from the nearest WTG in either direction which is in line with the approximate prevailing wind direction (downwind);
-- (e) have a distance of less than 28 metres[^key-08e510a6eaceb054f795151e75046d1f] between the lowest point of the rotating blade of the wind turbine and MHWS;
+- (e) have a distance of less than 28 metres[^c-08e510a6eaceb054f795151e75046d1f] between the lowest point of the rotating blade of the wind turbine and MHWS;
 - (f) except with the consent of the Secretary of State, have a gross electrical output capacity of less than 5 MW.
 
 (2) References to the location of a wind turbine generator are references to the centre point of that turbine.
 
-**4.**[^key-6d4a209cb3e1e7a56bb15f7adfeeb46e] No meteorological mast, wind turbine generator or offshore substation forming part of the authorised project shall be erected within the areas hatched black on the works plan, whose coordinates are specified below and more particularly shown on the Order limits boundary coordinates plan—
+**4.**[^c-6d4a209cb3e1e7a56bb15f7adfeeb46e] No meteorological mast, wind turbine generator or offshore substation forming part of the authorised project shall be erected within the areas hatched black on the works plan, whose coordinates are specified below and more particularly shown on the Order limits boundary coordinates plan—
 
 Coordinates for restricted build area
 
@@ -348,23 +348,23 @@ Coordinates for restricted build area
 | x | 52° 4′ 49.734″ | 2° 30′ 59.349″ |
 | xi | 52° 4′ 48.985″ | 2° 28′ 5.706″ |
 
-**5.**[^key-560090da9916b20ff56b7b696225c224] (1) The total number of offshore substations forming part of the authorised development must not exceed five for the HVDC option or two for the HVAC option (whether constructed under Work[^key-959d6a912b88c7971ca6e2bd6cef96b3] No. 1 or Work No. 2).
+**5.**[^c-560090da9916b20ff56b7b696225c224] (1) The total number of offshore substations forming part of the authorised development must not exceed five for the HVDC option or two for the HVAC option (whether constructed under Work[^c-959d6a912b88c7971ca6e2bd6cef96b3] No. 1 or Work No. 2).
 
-(2) The dimensions of any HVAC offshore collector stations for the HVDC option[^key-3c61ffb73ac688951c6110cf98f5623f] forming part of the authorised development (excluding towers, helipads, masts and cranes) must not exceed 60 metres in height when measured from LAT, 30 metres in length and 40 metres in width.
+(2) The dimensions of any HVAC offshore collector stations for the HVDC option[^c-3c61ffb73ac688951c6110cf98f5623f] forming part of the authorised development (excluding towers, helipads, masts and cranes) must not exceed 60 metres in height when measured from LAT, 30 metres in length and 40 metres in width.
 
-(3) The dimensions of any HVDC offshore converter stations for the HVDC option[^key-e46d28d6fdb1df83b6fbc86d74b77913] forming part of the authorised development (excluding towers, helipads, masts and cranes) must not exceed 60 metres in height when measured from LAT, 75 metres in length and 120 metres in width.
+(3) The dimensions of any HVDC offshore converter stations for the HVDC option[^c-e46d28d6fdb1df83b6fbc86d74b77913] forming part of the authorised development (excluding towers, helipads, masts and cranes) must not exceed 60 metres in height when measured from LAT, 75 metres in length and 120 metres in width.
 
-(4)[^key-70e73e64214f2228fd7dc384e5b66b76] The dimensions of any HVAC offshore collector stations for the HVAC option forming part of the authorised development (excluding towers, helipads, masts and cranes) must not exceed 60 metres in height when measured from LAT, 75 metres in length and 120 metres in width
+(4)[^c-70e73e64214f2228fd7dc384e5b66b76] The dimensions of any HVAC offshore collector stations for the HVAC option forming part of the authorised development (excluding towers, helipads, masts and cranes) must not exceed 60 metres in height when measured from LAT, 75 metres in length and 120 metres in width
 
-**6.**[^key-d8e4e1e32b8eb919c22e0585d245316a] (1) The total length of the cables comprising Work No. 3A must not exceed 400 kilometres for the HVDC option and 250 kilometres for the HVAC option[^key-c4c0dd77b080476086b2ddbca0d8cc0d].
+**6.**[^c-d8e4e1e32b8eb919c22e0585d245316a] (1) The total length of the cables comprising Work No. 3A must not exceed 400 kilometres for the HVDC option and 250 kilometres for the HVAC option[^c-c4c0dd77b080476086b2ddbca0d8cc0d].
 
-(2) The total length of the cables comprising Work No. 1(d) must not exceed 680 kilometres for the HVDC option and 350 kilometres for the HVAC option[^key-7f45328ab13c0182162987b58aaf512d].
+(2) The total length of the cables comprising Work No. 1(d) must not exceed 680 kilometres for the HVDC option and 350 kilometres for the HVAC option[^c-7f45328ab13c0182162987b58aaf512d].
 
-(3) The total amount of cable protection for the cables comprising Work No. 3A must not exceed 24,000 metres[^key-7f0f1dedd1feae4bf20b05136240469d]<sup>3</sup> for the HVDC option and 15,000 metres<sup>3</sup> for the HVAC option.
+(3) The total amount of cable protection for the cables comprising Work No. 3A must not exceed 24,000 metres[^c-7f0f1dedd1feae4bf20b05136240469d]<sup>3</sup> for the HVDC option and 15,000 metres<sup>3</sup> for the HVAC option.
 
-(4) The total amount of cable protection for the cables comprising Work No. 1(d) must not exceed 3,000 metres[^key-8738341844bcb61f8064b1c6bb217af3]<sup>3</sup> for the HVDC option and 3,000 metres<sup>3</sup> for the HVAC option.
+(4) The total amount of cable protection for the cables comprising Work No. 1(d) must not exceed 3,000 metres[^c-8738341844bcb61f8064b1c6bb217af3]<sup>3</sup> for the HVDC option and 3,000 metres<sup>3</sup> for the HVAC option.
 
-**7.**[^key-71ee6d583ce0756a7efeee2a7b482562] (1) In relation to a WTG, each gravity base foundation must not have—
+**7.**[^c-71ee6d583ce0756a7efeee2a7b482562] (1) In relation to a WTG, each gravity base foundation must not have—
 
 - (a) a diameter at the level of the seabed which is more than 50 metres;
 - (b) a base height, where there is a flat base and a cylindrical shaft, which is more than 10 metres above the level of the seabed;
@@ -389,7 +389,7 @@ Coordinates for restricted build area
 
 (6) The total amount of scour protection for the WTGs, HVDC offshore converter stations and HVAC offshore collector stations forming part of the authorised development must not exceed 3.529 kilometres<sup>2</sup>.
 
-#### 7A. As built offshore parameters[^key-18f619cc4cc229e0173a57fa168be5ba]
+#### 7A. As built offshore parameters[^c-18f619cc4cc229e0173a57fa168be5ba]
 
 (1) After 25 December 2021—
 
@@ -400,7 +400,7 @@ Coordinates for restricted build area
 
 (3) For the purpose of this requirement “maximum defined parameters” means the defined parameters set for the purposes of considering the worst case impacts of the development in preparing the environmental statement and carrying out the Secretary of State’s Habitats Regulations Assessment (the Rochdale Envelope).
 
-#### 8. Aviation safety[^key-10dfbaf5b9bd67478bd7856a3da2c304]
+#### 8. Aviation safety[^c-10dfbaf5b9bd67478bd7856a3da2c304]
 
 (1) The undertakers must exhibit such lights, with such shape, colour and character as are required in writing by Air Navigation Order 2009[^f00021] and determined necessary for aviation safety in consultation with the Defence Infrastructure Organisation Safeguarding and as directed by the CAA.
 
@@ -414,19 +414,19 @@ Coordinates for restricted build area
 
 and the Defence Infrastructure Organisation Safeguarding must be notified of any changes to the information supplied under this paragraph and of the completion of the construction of the authorised development.
 
-#### 9. Offshore decommissioning[^key-95f3784e7833b4def35bb755ca62a537]
+#### 9. Offshore decommissioning[^c-95f3784e7833b4def35bb755ca62a537]
 
 No authorised development shall commence until a written decommissioning programme in compliance with any notice served upon the undertakers by the Secretary of State pursuant to section 105(2) of the 2004 Act has been submitted to the Secretary of State for approval.
 
-#### 10. Detailed design approval onshore[^key-325a82728620a2732dfd5929480d98ab]
+#### 10. Detailed design approval onshore[^c-325a82728620a2732dfd5929480d98ab]
 
 (1) No part of Work No. 39 shall commence until details of the layout, scale and external appearance of the same, have been submitted to and approved in writing by the relevant planning authority. Work No. 39 must be carried out in accordance with the approved details.
 
 (2) Any details provided by the undertakers pursuant to sub-paragraph (1) must accord with the outline converter station design principles statement and be within the Order limits.
 
-(3) No building comprised in Work No. 39 shall exceed 79 metres AOD for the HVDC option and 75 metres AOD for the HVAC option and no external electrical equipment comprised in Work[^key-6aa2aa67238d7b6cdcbccd6b2d3059f7] No. 39 shall exceed 64 metres AOD for the HVDC option and 69 metres AOD for the HVAC option.
+(3) No building comprised in Work No. 39 shall exceed 79 metres AOD for the HVDC option and 75 metres AOD for the HVAC option and no external electrical equipment comprised in Work[^c-6aa2aa67238d7b6cdcbccd6b2d3059f7] No. 39 shall exceed 64 metres AOD for the HVDC option and 69 metres AOD for the HVAC option.
 
-(4) The total footprint of the buildings housing the converters comprised in Work No. 39 must not exceed 130 metres in length and 85 metres in width for the HVDC option and for the HVAC option[^key-dc2306c683dd1c7ec3dc10b9d5573c7d].
+(4) The total footprint of the buildings housing the converters comprised in Work No. 39 must not exceed 130 metres in length and 85 metres in width for the HVDC option and for the HVAC option[^c-dc2306c683dd1c7ec3dc10b9d5573c7d].
 
 (5) The fenced compound (excluding its accesses) comprised in Work No. 39 must not exceed 190 metres by 150 metres.
 
@@ -455,11 +455,11 @@ No authorised development shall commence until a written decommissioning program
 
 (10) In relation to the kiosks to be located within the onshore cable corridor—
 
-- (a) no stage of the connection works shall commence until details of the scale and appearance[^key-307418ae3aec79d7e51ed281574ca535] of the kiosks have been submitted to and approved in writing by the relevant planning authority;
+- (a) no stage of the connection works shall commence until details of the scale and appearance[^c-307418ae3aec79d7e51ed281574ca535] of the kiosks have been submitted to and approved in writing by the relevant planning authority;
 - (b) the footprint of each kiosk must not exceed 1 metre in width, 0.75 metres in length and 1 metres in height; and
 - (c) the kiosks must be constructed in accordance with the approved details.
 
-#### 11. Landfall method statement[^key-4c3e35df34f1c1f8e4d655d6e388972b]
+#### 11. Landfall method statement[^c-4c3e35df34f1c1f8e4d655d6e388972b]
 
 (1) No part of Work No. 3B, Work No. 3C or Work No. 4 shall commence until a method statement for the construction of Works No. 3B, 3C and 4 has been submitted to and approved in writing by the relevant planning authority in consultation with Natural England.
 
@@ -467,7 +467,7 @@ No authorised development shall commence until a written decommissioning program
 
 (3) The method statement must be implemented as approved.
 
-#### 12. Provision of landscaping[^key-ceb8c1c55f7663253db70f60a91a7b3d]
+#### 12. Provision of landscaping[^c-ceb8c1c55f7663253db70f60a91a7b3d]
 
 (1) No stage of the connection works shall commence until for that stage a written landscaping management scheme and associated work programme (which accords with the outline landscape and ecological management strategy) has been submitted to and approved in writing by the relevant planning authority in consultation with Natural England.
 
@@ -488,13 +488,13 @@ No authorised development shall commence until a written decommissioning program
 
 (3) The landscaping management scheme must be implemented as approved.
 
-#### 13. Implementation and maintenance of landscaping[^key-f16b7960044b5c14fc304631c3f12029]
+#### 13. Implementation and maintenance of landscaping[^c-f16b7960044b5c14fc304631c3f12029]
 
 (1) All landscaping works must be carried out in accordance with the landscaping management schemes approved under Requirement 12, and in accordance with the relevant recommendations of appropriate British Standards.
 
 (2) Any tree or shrub planted as part of an approved landscaping management scheme that, within a period of five years (save in relation to Work No. 38 and Work No. 40, which shall be ten years) after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased must be replaced in the first available planting season with a specimen of the same species and size as that originally planted.
 
-#### 14. Highway accesses and improvements[^key-fcea8839926c063ebd916977d6727ff5]
+#### 14. Highway accesses and improvements[^c-fcea8839926c063ebd916977d6727ff5]
 
 (1) No stage of the connection works shall commence until for that stage written details (which accord with the outline access management plan) of the siting, design, layout and any access management measures for any new permanent or temporary means of access to a highway to be used by vehicular traffic, or any alteration to an existing means of access to a highway used by vehicular traffic, has, after consultation with the highway authority, been submitted to and approved by the relevant planning authority.
 
@@ -504,7 +504,7 @@ No authorised development shall commence until a written decommissioning program
 
 (4) The highway improvements must be constructed in accordance with the approved details before they are brought in to use for the purposes of the authorised development.
 
-#### 15. Fencing and other means of enclosure[^key-f7c94f8a0a96126ecfe77615659b7c39]
+#### 15. Fencing and other means of enclosure[^c-f7c94f8a0a96126ecfe77615659b7c39]
 
 (1) No stage of the connection works shall be commenced until for that stage written details of all proposed permanent and temporary fences, walls or other means of enclosure of the connection works have been submitted to and approved by the relevant planning authority.
 
@@ -514,7 +514,7 @@ No authorised development shall commence until a written decommissioning program
 
 (4) Any approved permanent fencing in relation to Work No. 39 must be completed before the relevant work is brought into use and maintained for the operational lifetime of Work No. 39.
 
-#### 16. Surface and foul water drainage[^key-dce36234c1072e3547c6e773cce179a4]
+#### 16. Surface and foul water drainage[^c-dce36234c1072e3547c6e773cce179a4]
 
 (1) No stage of the connection works shall be commenced until for that stage written details of the surface and (if any) foul water drainage system (including means of pollution control) have, after consultation with the relevant drainage authorities, Suffolk County Council and the Environment Agency, been submitted to and approved by the relevant planning authority.
 
@@ -522,7 +522,7 @@ No authorised development shall commence until a written decommissioning program
 
 (3) The surface and foul water drainage system for the relevant stage must be constructed in accordance with the approved details unless agreed otherwise in writing by the relevant planning authority.
 
-#### 17. Contaminated land and ground water[^key-17a7f228934616d27bdc9f372f3e233f]
+#### 17. Contaminated land and ground water[^c-17a7f228934616d27bdc9f372f3e233f]
 
 (1) No connection works comprised in stage (vii) shall commence until a written scheme applicable to that stage, to mitigate the potential for release of contaminants within the Order limits has, after consultation with the Environment Agency, been submitted to and approved by the relevant planning authority.
 
@@ -530,7 +530,7 @@ No authorised development shall commence until a written decommissioning program
 
 (3) The written scheme referred to in sub-paragraph (1) must be implemented as approved.
 
-#### 18. Archaeology[^key-3e43745e195fd84c432ed70208b54010]
+#### 18. Archaeology[^c-3e43745e195fd84c432ed70208b54010]
 
 (1) No stage of the connection works shall be commenced until for that stage a written scheme of archaeological investigation (which accords with the outline written scheme of investigation: archaeology and cultural heritage (onshore)) has, after consultation with English Heritage and Suffolk County Council, been submitted to and approved in writing by the relevant planning authority.
 
@@ -548,13 +548,13 @@ No authorised development shall commence until a written decommissioning program
 
 (4) The site investigation and post investigation assessment must be completed for that stage in accordance with the programme set out in the written scheme of archaeological investigation and provision made for analysis, publication and dissemination of results and archive deposition secured for that stage.
 
-#### 19. Ecological management plan[^key-b647a6509b618f6948616891b5edd101]
+#### 19. Ecological management plan[^c-b647a6509b618f6948616891b5edd101]
 
 (1) No stage of the connection works shall be commenced until for that stage a written ecological management plan (which accords with the outline landscape and ecological management strategy) reflecting the survey results and ecological mitigation and enhancement measures included in the environmental statement has been submitted to and approved in writing by the relevant planning authority in consultation with Natural England.
 
 (2) The ecological management plan must include an implementation timetable and must be carried out as approved.
 
-#### 20. Code of construction practice[^key-ec15d6c62c5aaef83313d18e1e27d1fd]
+#### 20. Code of construction practice[^c-ec15d6c62c5aaef83313d18e1e27d1fd]
 
 (1) No stage of the connection works shall be commenced until for that stage a code of construction practice has been submitted to and approved in writing by the relevant local planning authority, in consultation with the relevant highway authority. The code of construction practice must cover all the matters set out in the outline code of construction practice.
 
@@ -572,7 +572,7 @@ No authorised development shall commence until a written decommissioning program
 
 (3) The code of construction practice approved in relation to the relevant stage of the connection works must be followed in relation to that stage of the connection works.
 
-#### 21. External lighting and control of artificial light emissions[^key-3263538e945b39b6e27efd5dcf492050]
+#### 21. External lighting and control of artificial light emissions[^c-3263538e945b39b6e27efd5dcf492050]
 
 (1) No stage of the connection works shall commence until written details of any external lighting to be installed in connection with that stage, including measures to prevent light spillage, have, after consultation with the highway authority, been submitted to and approved by the relevant planning authority; and any approved means of lighting shall be installed in accordance with the approved details and retained for the duration of the construction period.
 
@@ -582,7 +582,7 @@ No authorised development shall commence until a written decommissioning program
 
 (4) The approved scheme for the management and mitigation of artificial light emissions must be implemented before and maintained during the operation of Work No. 39.
 
-#### 22. Control of noise during construction[^key-af0e95abd057728db42c0283e468da92]
+#### 22. Control of noise during construction[^c-af0e95abd057728db42c0283e468da92]
 
 (1) No stage of the connection works shall commence until a written scheme for noise and vibration management (which must accord with the outline code of construction practice) during construction of that stage has been submitted to and approved by the relevant planning authority. The scheme for noise and vibration management must form part of the code of construction practice.
 
@@ -596,7 +596,7 @@ No authorised development shall commence until a written decommissioning program
 
 (4) The construction works must be undertaken in accordance with the approved noise and vibration management scheme.
 
-#### 23. Construction hours[^key-1e903cb7b59cd138bd245e62584b97ae]
+#### 23. Construction hours[^c-1e903cb7b59cd138bd245e62584b97ae]
 
 (1) Construction work for the connection works and any construction-related traffic movements to or from the site of the connection works shall not take place other than between 0700 hours and 1900 hours Monday to Saturday, with no activity on Sundays or bank holidays, save—
 
@@ -611,7 +611,7 @@ No authorised development shall commence until a written decommissioning program
 
 (4) Construction of Work No. 26 shall not take place other than between 0700 hours and 1900 hours Monday to Friday and 0700 hours and 1400 hours on Saturday, with no activity on Sunday or bank holidays.
 
-#### 24. Control of noise during operational phase[^key-48d3730687f9a0a15fea2569e18dae3d]
+#### 24. Control of noise during operational phase[^c-48d3730687f9a0a15fea2569e18dae3d]
 
 (1) No part of Work No. 39 will commence until written details that provide for the insulation of the onshore converter station against the transmission of noise and vibration have been submitted to and approved in writing by the relevant planning authority. Work No. 39 must thereafter be implemented in accordance with the approved details. The rating level of operational noise immissions (including any relevant penalties for tonal or impulsive noise in accordance with section 8 of BS4142:1997) from Work No. 39 (including transformers, air handling units and cooling fans) shall not exceed 35 dB L<sub>Aeq, 5 min</sub> at Bullenhall Farm (610287, 246601) Hill Farm (609088, 245652) and Woodlands Farm (609597, 246806).
 
@@ -621,7 +621,7 @@ No authorised development shall commence until a written decommissioning program
 
 (4) For the purposes of this requirement, “completion of commissioning” means the date when the circuits have been fully tested and verified that they are able to transmit their rated power capacity to the grid connection point and National Grid has issued an FON (final operation notification) to the generator.
 
-#### 25. Traffic[^key-2f50b2251f3e8ee09f4474ab67db4322]
+#### 25. Traffic[^c-2f50b2251f3e8ee09f4474ab67db4322]
 
 (1) No stage of the connection works shall be commenced until for that stage, after consultation with the relevant highway authority, the following have been submitted to and approved by the relevant local planning authority in consultation with the relevant highway authority—
 
@@ -631,7 +631,7 @@ No authorised development shall commence until a written decommissioning program
 
 (2) The plans approved under sub-paragraph (1) must be implemented upon commencement of the relevant stage of the connection works.
 
-#### 26. Port travel plan[^key-bec820ec3a210edfc38ac35a98b99e51]
+#### 26. Port travel plan[^c-bec820ec3a210edfc38ac35a98b99e51]
 
 (1) No stage of the connection works shall be commenced until a travel plan for the onshore port-related traffic to and from the selected base port or ports and relating to the authorised project, has been submitted to and approved in writing by the relevant planning authority in consultation with the relevant highway authority. The travel plan must be implemented as approved at all times specified within the travel plan during the construction and/or operation of the authorised development.
 
@@ -641,7 +641,7 @@ No authorised development shall commence until a written decommissioning program
 - “relevant planning authority” and “relevant highway authority” mean the planning or highway authority or authorities in whose area the relevant port is located; and
 - “selected base port” or “ports” means a port or ports situated in England and/or Wales.
 
-#### 27. European protected species[^key-a94d73e07cd2414b5f8350b8bf00cb74]
+#### 27. European protected species[^c-a94d73e07cd2414b5f8350b8bf00cb74]
 
 (1) No stage of the connection works shall be commenced until final pre-construction survey work has been carried out to establish whether a European protected species is present on any of the land affected, or likely to be affected, by that stage of the connection works or in any of the trees to be lopped or felled as part of that stage of the connection works.
 
@@ -649,11 +649,11 @@ No authorised development shall commence until a written decommissioning program
 
 (3) “European protected species” has the same meaning as in regulations 40 and 44 of the Conservation (Natural Habitats, &c.) Regulations 2010[^f00022].
 
-#### 28. Restoration of land used temporarily for construction[^key-2ea856565bfb3a122cab45fd297b271b]
+#### 28. Restoration of land used temporarily for construction[^c-2ea856565bfb3a122cab45fd297b271b]
 
 Any land landward of mean low water within the Order limits which is used temporarily for construction of the connection works and not ultimately incorporated in permanent works or approved landscaping, must be reinstated in accordance with such details the relevant planning authority in consultation with the relevant highway authority may approve, as soon as reasonably practicable and in any event within twelve months of completion of the relevant stage of the connection works.
 
-#### 29. Installation of cable ducts[^key-9f55d13727be2906bb85f3d445f452e3]
+#### 29. Installation of cable ducts[^c-9f55d13727be2906bb85f3d445f452e3]
 
 (1) Save in relation to plots 448 to 450, 453 to 454 and 457 to 471 in the book of reference—
 
@@ -670,19 +670,19 @@ Any land landward of mean low water within the Order limits which is used tempor
 - (d) any confirmation from The Crown Estate or National Grid with regard to (b) and (c) respectively;
 - (e) any statements from the relevant planning authorities and any other interested party in relation to those other generation projects.
 
-#### 30. Skills strategy[^key-eb5071d308a88a12565293ef6b965ed3]
+#### 30. Skills strategy[^c-eb5071d308a88a12565293ef6b965ed3]
 
 (1) No stage of the connection works shall be commenced until a skills strategy (which accords with the outline skills strategy) has been submitted to and approved in writing by the relevant planning authority, after consultation with Suffolk County Council.
 
 (2) The skills strategy must be implemented as approved.
 
-#### 31. Onshore decommissioning[^key-85db5829be4cb5bb4d5442bf50ed082c]
+#### 31. Onshore decommissioning[^c-85db5829be4cb5bb4d5442bf50ed082c]
 
 (1) Within three months of the cessation of commercial operation of the connection works, or of Work No. 3B or of Work No. 4 an onshore decommissioning plan shall be submitted to and approved in writing by the relevant planning authority.
 
 (2) The decommissioning plan must be implemented as approved.
 
-#### 32. Decommissioning of Work No. 3B and Work No. 4[^key-7d7f78c8cc0a3469097cfe17bef49e75]
+#### 32. Decommissioning of Work No. 3B and Work No. 4[^c-7d7f78c8cc0a3469097cfe17bef49e75]
 
 (1) After a period of 24 years but before the expiration of a period of 25 years following completion of construction of Work No. 3B and Work No. 4 or 2043 (whichever is earlier), the undertakers must submit a report to the relevant planning authority detailing the following—
 
@@ -694,11 +694,11 @@ Any land landward of mean low water within the Order limits which is used tempor
 
 (2) If it cannot be demonstrated to the reasonable satisfaction of the relevant planning authority that, taking into account any proposals for such remedial works or mitigation measures, Work No. 3B and Work No. 4 will not have a significant impact on coastal processes then Work No. 3B and Work No. 4 must be decommissioned in accordance with Requirement 31 (onshore decommissioning).
 
-#### 33. Requirement for written approval[^key-76335d9aca8001c81363439fd889ab00]
+#### 33. Requirement for written approval[^c-76335d9aca8001c81363439fd889ab00]
 
 Where under any of the above Requirements the approval or agreement of the Secretary of State, the relevant planning authority or another person is required, that approval or agreement must be given in writing.
 
-#### 34. Amendments to approved details[^key-53bbc51a772f63678b35d4c933f16581]
+#### 34. Amendments to approved details[^c-53bbc51a772f63678b35d4c933f16581]
 
 (1) With respect to any Requirement which requires the authorised development to be carried out in accordance with the details approved by the relevant planning authority or another person, the approved details must be carried out as approved unless an amendment or variation is previously agreed in writing by the relevant planning authority or that other person in accordance with sub-paragraph (2).
 
@@ -706,7 +706,7 @@ Where under any of the above Requirements the approval or agreement of the Secre
 
 (3) The approved details shall be taken to include any amendments that may subsequently be approved in writing by the relevant planning authority or that other person.
 
-#### 35. Transmission system[^key-0a6bdb8a01b97653e14006994dd523e8]
+#### 35. Transmission system[^c-0a6bdb8a01b97653e14006994dd523e8]
 
 (1) Prior to commencement of construction of the authorised development, the undertaker must give written notice to the Secretary of State, the relevant planning authority and the MMO detailing the selection made by the undertaker under Work No. 1 to construct either the HVDC offshore wind farm, using the HVDC option, or the HVAC offshore wind farm, using the HVAC option.
 
@@ -730,11 +730,11 @@ has been submitted to and approved in writing by the Secretary of State, after c
 
 ## Annotations
 
-[^key-46411f2bd99afcb492a2950d81246ab5]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-46411f2bd99afcb492a2950d81246ab5]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
 [^M_F_a5ee4178-764e-42bf-fdf0-7d70456534fc]: Textual amendment: Words in Sch. 1 Pt. 1 para. 1 Work No. 1(a) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [arts. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-bb2e02b67cd90f6569527fe97d5a22b1]: Textual amendment: Word in [Sch. 1 Pt. 1 para. 1 Work No. 1(a)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/1/paragraph/1/a) substituted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [4](https://www.legislation.gov.uk/uksi/2021/1086/article/4)
+[^c-bb2e02b67cd90f6569527fe97d5a22b1]: Textual amendment: Word in [Sch. 1 Pt. 1 para. 1 Work No. 1(a)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/1/paragraph/1/a) substituted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [4](https://www.legislation.gov.uk/uksi/2021/1086/article/4)
 
 [^M_F_58f02870-2cee-40c1-a6ff-488cc3f6d580]: Textual amendment: Words in Sch. 1 Pt. 1 para. 1 Work No. 1(b) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [arts. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
@@ -744,7 +744,7 @@ has been submitted to and approved in writing by the Secretary of State, after c
 
 [^M_F_096734b7-5898-4418-dc0d-dff5ea6f5e30]: Textual amendment: Words in Sch. 1 Pt. 1 para. 1 Work No. 3A substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [arts. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-ef9e6952594a8759ece99f9dad77e406]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/1) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [arts. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [3](https://www.legislation.gov.uk/uksi/2016/447/article/3)
+[^c-ef9e6952594a8759ece99f9dad77e406]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/1) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [arts. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [3](https://www.legislation.gov.uk/uksi/2016/447/article/3)
 
 [^M_F_f71b9de7-46d4-4a9c-a76f-d7d72a06bd98]: Textual amendment: Words in Sch. 1 Pt. 1 para. 1 Work No. 39 substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [arts. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
@@ -752,120 +752,120 @@ has been submitted to and approved in writing by the Secretary of State, after c
 
 [^M_F_515259d9-2fef-42d3-87a0-73352d31f5e1]: Textual amendment: Words in Sch. 1 Pt. 1 para. 1 Work No. 41 substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [arts. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-4d07b6e53b7e529c5965819109963daf]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-4d07b6e53b7e529c5965819109963daf]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
 [^M_F_21762a43-7274-4128-ecd7-f37c30bf64d8]: Textual amendment: Words in [Sch. 1 Pt. 1 para. 2 Table](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/1/paragraph/2) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
 
-[^key-6f3f6f38a128394fc182f7fe412a5ad8]: Commencement: Sch. 1 Pt. 1 para. 3 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-6f3f6f38a128394fc182f7fe412a5ad8]: Commencement: Sch. 1 Pt. 1 para. 3 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-239f041e2a8aa8781d88fa5d454903f0]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-239f041e2a8aa8781d88fa5d454903f0]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-4dcb5ce253b73b31585958535c4488c1]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-4dcb5ce253b73b31585958535c4488c1]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-fec1549f0f7441c838979dbbe30f355c]: Textual amendment: [Sch. 1 Pt. 3 Requirement 1](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3): paragraphs renumbered (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
+[^c-fec1549f0f7441c838979dbbe30f355c]: Textual amendment: [Sch. 1 Pt. 3 Requirement 1](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3): paragraphs renumbered (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
 
-[^key-ffd8f638a86d3aeafff74dc5adde26ac]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-ffd8f638a86d3aeafff74dc5adde26ac]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-a781774cf574880d658adb28128584f3]: Commencement: Sch. 1 Pt. 3 para. 3 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-a781774cf574880d658adb28128584f3]: Commencement: Sch. 1 Pt. 3 para. 3 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-a40e6eff63f4ab4e40a0adc13870b684]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/3/1/a) substituted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2021/1086/article/5/a)
+[^c-a40e6eff63f4ab4e40a0adc13870b684]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/3/1/a) substituted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2021/1086/article/5/a)
 
-[^key-f27f08df4136de48c95f968508a7e5d2]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/3/1/b) substituted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2021/1086/article/5/b)
+[^c-f27f08df4136de48c95f968508a7e5d2]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/3/1/b) substituted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2021/1086/article/5/b)
 
-[^key-2f94618e3cf224d9a45c571b675b31cc]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/3/1/c) substituted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [5(c)](https://www.legislation.gov.uk/uksi/2021/1086/article/5/c)
+[^c-2f94618e3cf224d9a45c571b675b31cc]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/3/1/c) substituted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [5(c)](https://www.legislation.gov.uk/uksi/2021/1086/article/5/c)
 
-[^key-08e510a6eaceb054f795151e75046d1f]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 3(1)(e)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/3/1/e) substituted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [5(d)](https://www.legislation.gov.uk/uksi/2021/1086/article/5/d)
+[^c-08e510a6eaceb054f795151e75046d1f]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 3(1)(e)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/3/1/e) substituted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [5(d)](https://www.legislation.gov.uk/uksi/2021/1086/article/5/d)
 
-[^key-6d4a209cb3e1e7a56bb15f7adfeeb46e]: Commencement: [Sch. 1 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/4) in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-6d4a209cb3e1e7a56bb15f7adfeeb46e]: Commencement: [Sch. 1 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/4) in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-560090da9916b20ff56b7b696225c224]: Commencement: Sch. 1 Pt. 3 para. 5 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-560090da9916b20ff56b7b696225c224]: Commencement: Sch. 1 Pt. 3 para. 5 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-959d6a912b88c7971ca6e2bd6cef96b3]: Textual amendment: Words in Sch. 1 Pt. 3 Requirement 5(1) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-959d6a912b88c7971ca6e2bd6cef96b3]: Textual amendment: Words in Sch. 1 Pt. 3 Requirement 5(1) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-3c61ffb73ac688951c6110cf98f5623f]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 5(2)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) inserted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-3c61ffb73ac688951c6110cf98f5623f]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 5(2)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) inserted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-e46d28d6fdb1df83b6fbc86d74b77913]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 5(3)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) inserted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-e46d28d6fdb1df83b6fbc86d74b77913]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 5(3)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) inserted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-70e73e64214f2228fd7dc384e5b66b76]: Textual amendment: [Sch. 1 Pt. 3 Requirement 5(4)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) inserted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-70e73e64214f2228fd7dc384e5b66b76]: Textual amendment: [Sch. 1 Pt. 3 Requirement 5(4)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) inserted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-d8e4e1e32b8eb919c22e0585d245316a]: Commencement: Sch. 1 Pt. 3 para. 6 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-d8e4e1e32b8eb919c22e0585d245316a]: Commencement: Sch. 1 Pt. 3 para. 6 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-c4c0dd77b080476086b2ddbca0d8cc0d]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 6(1)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-c4c0dd77b080476086b2ddbca0d8cc0d]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 6(1)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-7f45328ab13c0182162987b58aaf512d]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 6(2)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-7f45328ab13c0182162987b58aaf512d]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 6(2)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-7f0f1dedd1feae4bf20b05136240469d]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 6(3)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-7f0f1dedd1feae4bf20b05136240469d]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 6(3)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-8738341844bcb61f8064b1c6bb217af3]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 6(4)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-8738341844bcb61f8064b1c6bb217af3]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 6(4)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-71ee6d583ce0756a7efeee2a7b482562]: Commencement: Sch. 1 Pt. 3 para. 7 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-71ee6d583ce0756a7efeee2a7b482562]: Commencement: Sch. 1 Pt. 3 para. 7 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
 [^M_F_1175b6c0-a15e-41ad-c55f-06bbf4468118]: Textual amendment: Words in [Sch. 1 Pt. 3 para. 7(5)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/7A) inserted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [5(e)](https://www.legislation.gov.uk/uksi/2021/1086/article/5/f)
 
-[^key-18f619cc4cc229e0173a57fa168be5ba]: Textual amendment: [Sch. 1 Pt. 3 para. 7A](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/7A) inserted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [5(f)](https://www.legislation.gov.uk/uksi/2021/1086/article/5/f)
+[^c-18f619cc4cc229e0173a57fa168be5ba]: Textual amendment: [Sch. 1 Pt. 3 para. 7A](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3/paragraph/7A) inserted (25.9.2021) by [The East Anglia ONE Offshore Wind Farm (Amendment) Order 2021 (S.I. 2021/1086)](https://www.legislation.gov.uk/uksi/2021/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1086/article/1), [5(f)](https://www.legislation.gov.uk/uksi/2021/1086/article/5/f)
 
-[^key-10dfbaf5b9bd67478bd7856a3da2c304]: Commencement: Sch. 1 Pt. 3 para. 8 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-10dfbaf5b9bd67478bd7856a3da2c304]: Commencement: Sch. 1 Pt. 3 para. 8 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
 [^f00021]: Footnote: [S.I. 2009/3015](https://www.legislation.gov.uk/uksi/2009/3015).
 
-[^key-95f3784e7833b4def35bb755ca62a537]: Commencement: Sch. 1 Pt. 3 para. 9 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-95f3784e7833b4def35bb755ca62a537]: Commencement: Sch. 1 Pt. 3 para. 9 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-325a82728620a2732dfd5929480d98ab]: Commencement: Sch. 1 Pt. 3 para. 10 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-325a82728620a2732dfd5929480d98ab]: Commencement: Sch. 1 Pt. 3 para. 10 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-6aa2aa67238d7b6cdcbccd6b2d3059f7]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 10(3)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-6aa2aa67238d7b6cdcbccd6b2d3059f7]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 10(3)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-dc2306c683dd1c7ec3dc10b9d5573c7d]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 10(4)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-dc2306c683dd1c7ec3dc10b9d5573c7d]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 10(4)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-307418ae3aec79d7e51ed281574ca535]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 10(10)(a)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
+[^c-307418ae3aec79d7e51ed281574ca535]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirement 10(10)(a)](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
 
-[^key-4c3e35df34f1c1f8e4d655d6e388972b]: Commencement: Sch. 1 Pt. 3 para. 11 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-4c3e35df34f1c1f8e4d655d6e388972b]: Commencement: Sch. 1 Pt. 3 para. 11 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-ceb8c1c55f7663253db70f60a91a7b3d]: Commencement: Sch. 1 Pt. 3 para. 12 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-ceb8c1c55f7663253db70f60a91a7b3d]: Commencement: Sch. 1 Pt. 3 para. 12 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-f16b7960044b5c14fc304631c3f12029]: Commencement: Sch. 1 Pt. 3 para. 13 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-f16b7960044b5c14fc304631c3f12029]: Commencement: Sch. 1 Pt. 3 para. 13 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-fcea8839926c063ebd916977d6727ff5]: Commencement: Sch. 1 Pt. 3 para. 14 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-fcea8839926c063ebd916977d6727ff5]: Commencement: Sch. 1 Pt. 3 para. 14 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-f7c94f8a0a96126ecfe77615659b7c39]: Commencement: Sch. 1 Pt. 3 para. 15 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-f7c94f8a0a96126ecfe77615659b7c39]: Commencement: Sch. 1 Pt. 3 para. 15 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-dce36234c1072e3547c6e773cce179a4]: Commencement: Sch. 1 Pt. 3 para. 16 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-dce36234c1072e3547c6e773cce179a4]: Commencement: Sch. 1 Pt. 3 para. 16 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-17a7f228934616d27bdc9f372f3e233f]: Commencement: Sch. 1 Pt. 3 para. 17 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-17a7f228934616d27bdc9f372f3e233f]: Commencement: Sch. 1 Pt. 3 para. 17 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-3e43745e195fd84c432ed70208b54010]: Commencement: Sch. 1 Pt. 3 para. 18 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-3e43745e195fd84c432ed70208b54010]: Commencement: Sch. 1 Pt. 3 para. 18 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-b647a6509b618f6948616891b5edd101]: Commencement: Sch. 1 Pt. 3 para. 19 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-b647a6509b618f6948616891b5edd101]: Commencement: Sch. 1 Pt. 3 para. 19 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-ec15d6c62c5aaef83313d18e1e27d1fd]: Commencement: Sch. 1 Pt. 3 para. 20 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-ec15d6c62c5aaef83313d18e1e27d1fd]: Commencement: Sch. 1 Pt. 3 para. 20 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-3263538e945b39b6e27efd5dcf492050]: Commencement: Sch. 1 Pt. 3 para. 21 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-3263538e945b39b6e27efd5dcf492050]: Commencement: Sch. 1 Pt. 3 para. 21 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-af0e95abd057728db42c0283e468da92]: Commencement: Sch. 1 Pt. 3 para. 22 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-af0e95abd057728db42c0283e468da92]: Commencement: Sch. 1 Pt. 3 para. 22 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-1e903cb7b59cd138bd245e62584b97ae]: Commencement: Sch. 1 Pt. 3 para. 23 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-1e903cb7b59cd138bd245e62584b97ae]: Commencement: Sch. 1 Pt. 3 para. 23 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-48d3730687f9a0a15fea2569e18dae3d]: Commencement: Sch. 1 Pt. 3 para. 24 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-48d3730687f9a0a15fea2569e18dae3d]: Commencement: Sch. 1 Pt. 3 para. 24 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-2f50b2251f3e8ee09f4474ab67db4322]: Commencement: Sch. 1 Pt. 3 para. 25 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-2f50b2251f3e8ee09f4474ab67db4322]: Commencement: Sch. 1 Pt. 3 para. 25 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-bec820ec3a210edfc38ac35a98b99e51]: Commencement: Sch. 1 Pt. 3 para. 26 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-bec820ec3a210edfc38ac35a98b99e51]: Commencement: Sch. 1 Pt. 3 para. 26 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-a94d73e07cd2414b5f8350b8bf00cb74]: Commencement: Sch. 1 Pt. 3 para. 27 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-a94d73e07cd2414b5f8350b8bf00cb74]: Commencement: Sch. 1 Pt. 3 para. 27 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
 [^f00022]: Footnote: [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490). There are amendments to these Regulations which are not relevant to this Order.
 
-[^key-2ea856565bfb3a122cab45fd297b271b]: Commencement: Sch. 1 Pt. 3 para. 28 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-2ea856565bfb3a122cab45fd297b271b]: Commencement: Sch. 1 Pt. 3 para. 28 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-9f55d13727be2906bb85f3d445f452e3]: Commencement: Sch. 1 Pt. 3 para. 29 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-9f55d13727be2906bb85f3d445f452e3]: Commencement: Sch. 1 Pt. 3 para. 29 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-eb5071d308a88a12565293ef6b965ed3]: Commencement: Sch. 1 Pt. 3 para. 30 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-eb5071d308a88a12565293ef6b965ed3]: Commencement: Sch. 1 Pt. 3 para. 30 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-85db5829be4cb5bb4d5442bf50ed082c]: Commencement: Sch. 1 Pt. 3 para. 31 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-85db5829be4cb5bb4d5442bf50ed082c]: Commencement: Sch. 1 Pt. 3 para. 31 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-7d7f78c8cc0a3469097cfe17bef49e75]: Commencement: Sch. 1 Pt. 3 para. 32 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-7d7f78c8cc0a3469097cfe17bef49e75]: Commencement: Sch. 1 Pt. 3 para. 32 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-76335d9aca8001c81363439fd889ab00]: Commencement: Sch. 1 Pt. 3 para. 33 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-76335d9aca8001c81363439fd889ab00]: Commencement: Sch. 1 Pt. 3 para. 33 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-53bbc51a772f63678b35d4c933f16581]: Commencement: Sch. 1 Pt. 3 para. 34 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-53bbc51a772f63678b35d4c933f16581]: Commencement: Sch. 1 Pt. 3 para. 34 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-0a6bdb8a01b97653e14006994dd523e8]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirements 35, 36](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) inserted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-0a6bdb8a01b97653e14006994dd523e8]: Textual amendment: Words in [Sch. 1 Pt. 3 Requirements 35, 36](https://www.legislation.gov.uk/uksi/2014/1599/schedule/1/part/3) inserted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)

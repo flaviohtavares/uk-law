@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Stalking protection orders
 
-### 1. Applications for orders[^key-c86c9b16879db032ab24642e60858e56]
+### 1. Applications for orders[^c-c86c9b16879db032ab24642e60858e56]
 
 (1) A chief officer of police may apply to a magistrates' court for an order (a “stalking protection order”) in respect of a person (the “defendant”) if it appears to the chief officer that—
 
@@ -68,7 +68,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) See section 2A of the Protection from Harassment Act 1997 for examples of acts associated with stalking.
 
-### 2. Power to make orders[^key-136e1d2a471a07d7b12969ee7ab6a535]
+### 2. Power to make orders[^c-136e1d2a471a07d7b12969ee7ab6a535]
 
 (1) A magistrates' court may make a stalking protection order on an application under section 1(1) if satisfied that—
 
@@ -94,7 +94,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) The court may not include any prohibition or requirement in the new stalking protection order which is incompatible with a prohibition or requirement in the earlier stalking protection order.
 
-### 3. Duration of orders[^key-6e5fecd7e6904b15629544ea50d0cad1]
+### 3. Duration of orders[^c-6e5fecd7e6904b15629544ea50d0cad1]
 
 (1) A stalking protection order has effect—
 
@@ -105,7 +105,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) Different periods may be specified in relation to different prohibitions or requirements.
 
-### 4. Variations, renewals and discharges[^key-bec2d98f7bfb83bae099ab2e4612b03b]
+### 4. Variations, renewals and discharges[^c-bec2d98f7bfb83bae099ab2e4612b03b]
 
 (1) The defendant or a relevant chief officer of police (see section 14(1)) may apply to a magistrates' court for an order varying, renewing or discharging a stalking protection order.
 
@@ -123,7 +123,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (i) where the application was made by a chief officer of police, that chief officer, or
   - (ii) in any other case, the chief officer of police who applied for the stalking protection order and (if different) the chief officer of police for the area in which the defendant resides, if that area is in England or Wales.
 
-### 5. Interim stalking protection orders[^key-e7c75003c71b539d66d0993a734af540]
+### 5. Interim stalking protection orders[^c-e7c75003c71b539d66d0993a734af540]
 
 (1) This section applies where an application for a stalking protection order (the “main application”) has not been determined.
 
@@ -153,7 +153,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (8) On an application under subsection (7), the court may make any order varying, renewing or discharging the stalking protection order that the court considers appropriate.
 
-### 6. Content of orders[^key-6c6333d551af089e45decd82b551ecbe]
+### 6. Content of orders[^c-6c6333d551af089e45decd82b551ecbe]
 
 A stalking protection order and an interim stalking protection order must specify—
 
@@ -165,7 +165,7 @@ A stalking protection order and an interim stalking protection order must specif
 
 ## Appeals and enforcement
 
-### 7. Appeals[^key-97e42f673146f945461308bf56316f2c]
+### 7. Appeals[^c-97e42f673146f945461308bf56316f2c]
 
 (1) A defendant may appeal to the Crown Court against—
 
@@ -187,24 +187,24 @@ A stalking protection order and an interim stalking protection order must specif
 - (a) such orders as may be necessary to give effect to its determination of the appeal, and
 - (b) such incidental or consequential orders as appear to it to be appropriate.
 
-### 8. Offence of breaching stalking protection order etc[^key-d0b3f92d29a3589e7f69538859f0d557]
+### 8. Offence of breaching stalking protection order etc[^c-d0b3f92d29a3589e7f69538859f0d557]
 
 (1) A person who, without reasonable excuse, breaches a stalking protection order or an interim stalking protection order commits an offence.
 
 (2) A person guilty of an offence under this section is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-43de5cb930639dc8c92f38f39af9bef6] or to a fine or both, or
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-43de5cb930639dc8c92f38f39af9bef6] or to a fine or both, or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine or both.
 
-(3) In relation to an offence committed before 2 May 2022[^key-4cedb0faa65ab5a2c10399812dfc7a14], the reference in subsection (2)(a) to the general limit in a magistrates’ court[^key-60067f6fbccd50744a7d9faf7b7292d1] is to be read as a reference to 6 months.
+(3) In relation to an offence committed before 2 May 2022[^c-4cedb0faa65ab5a2c10399812dfc7a14], the reference in subsection (2)(a) to the general limit in a magistrates’ court[^c-60067f6fbccd50744a7d9faf7b7292d1] is to be read as a reference to 6 months.
 
-(4) If a person is convicted of an offence under this section, it is not open to the court by or before which the person is convicted to make an order under section 80 of the Sentencing Code[^key-0160acd392dd3833aebd376b10797aac] (conditional discharge).
+(4) If a person is convicted of an offence under this section, it is not open to the court by or before which the person is convicted to make an order under section 80 of the Sentencing Code[^c-0160acd392dd3833aebd376b10797aac] (conditional discharge).
 
 (5) In proceedings for an offence under this section, a copy of the original stalking protection order or interim stalking protection order, certified by the designated officer for the court which made it, is admissible as evidence of its having been made and of its contents to the same extent that oral evidence of those things is admissible in those proceedings.
 
 ## Notification requirements
 
-### 9. Notification requirements[^key-1e27ea7304915c14d890a41864d7869f]
+### 9. Notification requirements[^c-1e27ea7304915c14d890a41864d7869f]
 
 (1) A person subject to—
 
@@ -243,7 +243,7 @@ must, before the end of the period of 3 days beginning with the date on which th
 
 (7) The requirements imposed by this section apply to the person as from the final day, but as if the reference in subsection (1) to the date of service of the order were a reference to the final day.
 
-### 10. Method of notification and related matters[^key-d0d17b3d038c20792d9a88c0893ab4de]
+### 10. Method of notification and related matters[^c-d0d17b3d038c20792d9a88c0893ab4de]
 
 (1) A person whose home address is in England or Wales gives a notification under section 9(1), (3) or (4) by—
 
@@ -273,7 +273,7 @@ must, before the end of the period of 3 days beginning with the date on which th
 
 (6) The power in subsection (5) is exercisable for the purpose of verifying the identity of the person.
 
-### 11. Offences relating to notification[^key-02a42b9b9eee1ab426374a14d74e419b]
+### 11. Offences relating to notification[^c-02a42b9b9eee1ab426374a14d74e419b]
 
 (1) A person commits an offence if the person—
 
@@ -282,7 +282,7 @@ must, before the end of the period of 3 days beginning with the date on which th
 
 (2) A person guilty of an offence under this section is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-f6be50c05175479f086095c68729ec71] or to a fine or both, or
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-f6be50c05175479f086095c68729ec71] or to a fine or both, or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine or both.
 
 (3) A person commits an offence under subsection (1)(a) on the day on which the person first fails, without reasonable excuse, to comply with section 9(1), (3) or (4).
@@ -293,11 +293,11 @@ must, before the end of the period of 3 days beginning with the date on which th
 
 (6) Proceedings for an offence under this section may be commenced in any court having jurisdiction in any place where the person charged with the offence resides or is found.
 
-(7) In relation to an offence committed before 2 May 2022[^key-013d8928fec1c4cd160400d93f307507], the reference in subsection (2)(a) to the general limit in a magistrates’ court[^key-08927c224d10d300e27e72ebc62471d0] is to be read as a reference to 6 months.
+(7) In relation to an offence committed before 2 May 2022[^c-013d8928fec1c4cd160400d93f307507], the reference in subsection (2)(a) to the general limit in a magistrates’ court[^c-08927c224d10d300e27e72ebc62471d0] is to be read as a reference to 6 months.
 
 ## Guidance
 
-### 12. Guidance[^key-6b1a826189457cae9d443ed611db0083]
+### 12. Guidance[^c-6b1a826189457cae9d443ed611db0083]
 
 (1) The Secretary of State must issue guidance to chief officers of police about the exercise of their functions under this Act.
 
@@ -307,13 +307,13 @@ must, before the end of the period of 3 days beginning with the date on which th
 
 ## General
 
-### 13. Procedure[^key-39f22a8d0638927bbebcefd51b8f5852]
+### 13. Procedure[^c-39f22a8d0638927bbebcefd51b8f5852]
 
 (1) An application to a magistrates' court under any provision of this Act is to be by complaint.
 
 (2) Section 127 of the Magistrates' Courts Act 1980 (time limits) does not apply to a complaint under any provision of this Act.
 
-### 14. Interpretation[^key-82222f66318dfb2340af9066f88b2dcc]
+### 14. Interpretation[^c-82222f66318dfb2340af9066f88b2dcc]
 
 (1) In this Act—
 
@@ -355,44 +355,44 @@ must, before the end of the period of 3 days beginning with the date on which th
 
 ## Annotations
 
-[^key-c86c9b16879db032ab24642e60858e56]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2019/9/section/1) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-c86c9b16879db032ab24642e60858e56]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2019/9/section/1) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-136e1d2a471a07d7b12969ee7ab6a535]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/9/section/2) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-136e1d2a471a07d7b12969ee7ab6a535]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2019/9/section/2) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-6e5fecd7e6904b15629544ea50d0cad1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2019/9/section/3) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-6e5fecd7e6904b15629544ea50d0cad1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2019/9/section/3) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-bec2d98f7bfb83bae099ab2e4612b03b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/9/section/4) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-bec2d98f7bfb83bae099ab2e4612b03b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2019/9/section/4) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-e7c75003c71b539d66d0993a734af540]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/9/section/5) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-e7c75003c71b539d66d0993a734af540]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2019/9/section/5) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-6c6333d551af089e45decd82b551ecbe]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/9/section/6) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-6c6333d551af089e45decd82b551ecbe]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2019/9/section/6) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-97e42f673146f945461308bf56316f2c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/9/section/7) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-97e42f673146f945461308bf56316f2c]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2019/9/section/7) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-d0b3f92d29a3589e7f69538859f0d557]: Commencement: S. 8 in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-d0b3f92d29a3589e7f69538859f0d557]: Commencement: S. 8 in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-43de5cb930639dc8c92f38f39af9bef6]: Textual amendment: Words in [s. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2019/9/section/8/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-43de5cb930639dc8c92f38f39af9bef6]: Textual amendment: Words in [s. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2019/9/section/8/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-4cedb0faa65ab5a2c10399812dfc7a14]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/2019/9/section/8/3) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-4cedb0faa65ab5a2c10399812dfc7a14]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/2019/9/section/8/3) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-60067f6fbccd50744a7d9faf7b7292d1]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/2019/9/section/8/3) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-60067f6fbccd50744a7d9faf7b7292d1]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/2019/9/section/8/3) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-0160acd392dd3833aebd376b10797aac]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/ukpga/2019/9/section/8/4) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 298](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/298) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0160acd392dd3833aebd376b10797aac]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/ukpga/2019/9/section/8/4) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 298](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/298) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-1e27ea7304915c14d890a41864d7869f]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2019/9/section/9) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-1e27ea7304915c14d890a41864d7869f]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2019/9/section/9) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-d0d17b3d038c20792d9a88c0893ab4de]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/9/section/10) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-d0d17b3d038c20792d9a88c0893ab4de]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2019/9/section/10) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-02a42b9b9eee1ab426374a14d74e419b]: Commencement: S. 11 in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-02a42b9b9eee1ab426374a14d74e419b]: Commencement: S. 11 in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-f6be50c05175479f086095c68729ec71]: Textual amendment: Words in [s. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2019/9/section/11/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-f6be50c05175479f086095c68729ec71]: Textual amendment: Words in [s. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2019/9/section/11/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-013d8928fec1c4cd160400d93f307507]: Textual amendment: Words in [s. 11(7)](https://www.legislation.gov.uk/ukpga/2019/9/section/11/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-013d8928fec1c4cd160400d93f307507]: Textual amendment: Words in [s. 11(7)](https://www.legislation.gov.uk/ukpga/2019/9/section/11/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-08927c224d10d300e27e72ebc62471d0]: Textual amendment: Words in [s. 11(7)](https://www.legislation.gov.uk/ukpga/2019/9/section/11/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-08927c224d10d300e27e72ebc62471d0]: Textual amendment: Words in [s. 11(7)](https://www.legislation.gov.uk/ukpga/2019/9/section/11/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-6b1a826189457cae9d443ed611db0083]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2019/9/section/12) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-6b1a826189457cae9d443ed611db0083]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2019/9/section/12) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-39f22a8d0638927bbebcefd51b8f5852]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2019/9/section/13) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-39f22a8d0638927bbebcefd51b8f5852]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2019/9/section/13) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
 
-[^key-82222f66318dfb2340af9066f88b2dcc]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2019/9/section/14) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)
+[^c-82222f66318dfb2340af9066f88b2dcc]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2019/9/section/14) in force at 20.1.2020 by [S.I. 2020/26](https://www.legislation.gov.uk/uksi/2020/26), [reg. 2](https://www.legislation.gov.uk/uksi/2020/26/regulation/2)

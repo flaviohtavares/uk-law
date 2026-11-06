@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238B. Conciliation and mediation: supplementary provisions[^key-583584ecc3ed7efa8f25e120d94ebf01]
+## 238B. Conciliation and mediation: supplementary provisions[^c-583584ecc3ed7efa8f25e120d94ebf01]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-583584ecc3ed7efa8f25e120d94ebf01]: Textual amendment: S. 238B omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 77(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/77/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(8)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/8) (with [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/11))
+[^c-583584ecc3ed7efa8f25e120d94ebf01]: Textual amendment: S. 238B omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 77(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/77/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(8)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/8) (with [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/11))

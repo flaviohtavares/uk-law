@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Apprenticeship certificates[^key-dfafa6430f481df5eb8139219ac7e68f]
+## 71. Apprenticeship certificates[^c-dfafa6430f481df5eb8139219ac7e68f]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfafa6430f481df5eb8139219ac7e68f]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2011/21/section/71) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-dfafa6430f481df5eb8139219ac7e68f]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2011/21/section/71) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

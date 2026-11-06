@@ -26,7 +26,7 @@ summary: ''
 
 (3)[^c20957961] Each Local Health Board must publish information about such matters as may be prescribed in relation to the primary dental services for which it makes provision under this Act.
 
-(4)[^key-85d94a907121f9027c2f8691f5fe04cd][^c20957961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-85d94a907121f9027c2f8691f5fe04cd][^c20957961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Regulations may provide that services of a prescribed description must, or must not, be regarded as primary dental services for the purposes of this Act.
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c20957961]: Modification: S. 56(1)-(4): Functions made exercisable by Local Health Boards (1.10.2009) by [The Local Health Boards (Directed Functions) (Wales) Regulations 2009 (S.I. 2009/1511)](https://www.legislation.gov.uk/uksi/2009/1511), [reg. 4](https://www.legislation.gov.uk/uksi/2009/1511/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2009/1511/schedule)
 
-[^key-85d94a907121f9027c2f8691f5fe04cd]: Textual amendment: [S. 56(4)](https://www.legislation.gov.uk/ukpga/2006/42/section/56/4) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 28](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/28); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-85d94a907121f9027c2f8691f5fe04cd]: Textual amendment: [S. 56(4)](https://www.legislation.gov.uk/ukpga/2006/42/section/56/4) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 28](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/28); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

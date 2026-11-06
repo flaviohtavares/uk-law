@@ -185,10 +185,10 @@ Article 12(1).
 - section 48 (causing or inciting child prostitution or pornography),
 - section 49 (controlling a child prostitute or a child involved in pornography),
 - section 50 (arranging or facilitating child prostitution or pornography),
-- [^key-904a8e28f88f7f7467d5f1dadb627604]...
-- [^key-904a8e28f88f7f7467d5f1dadb627604]...
-- [^key-904a8e28f88f7f7467d5f1dadb627604]...
-- [^key-904a8e28f88f7f7467d5f1dadb627604]...
+- [^c-904a8e28f88f7f7467d5f1dadb627604]...
+- [^c-904a8e28f88f7f7467d5f1dadb627604]...
+- [^c-904a8e28f88f7f7467d5f1dadb627604]...
+- [^c-904a8e28f88f7f7467d5f1dadb627604]...
 
 ### The Criminal Justice (Northern Ireland) Order 2003 (NI 13)
 
@@ -260,14 +260,14 @@ Article 12(1).
 - Article 66 (committing an offence with intent to commit a sexual offence),
 - Article 67 (trespass with intent to commit a sexual offence).
 
-### 31A. The Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015[^key-27c5f42e4f5904a97f18c0e173c5524a]
+### 31A. The Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015[^c-27c5f42e4f5904a97f18c0e173c5524a]
 
 An offence under—
 
 - section 1 (slavery, servitude and forced or compulsory labour);
 - section 2 (human trafficking).
 
-### The Space Industry Act 2018 (c. 00)[^key-b0142347d9ef7af9b70de6138b4f8660]
+### The Space Industry Act 2018 (c. 00)[^c-b0142347d9ef7af9b70de6138b4f8660]
 
 **31B.** An offence under—
 
@@ -296,12 +296,12 @@ An offence under—
 
 [^c21524051]: Textual amendment: Sch. 1 para. 26A and preceding cross-heading inserted (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 139(3)](https://www.legislation.gov.uk/ukpga/2009/25/section/139/3), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 38](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/38)); [S.I. 2010/28](https://www.legislation.gov.uk/uksi/2010/28), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/28/article/2/a)
 
-[^key-904a8e28f88f7f7467d5f1dadb627604]: Textual amendment: Words in Sch. 1 para. 28 repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
+[^c-904a8e28f88f7f7467d5f1dadb627604]: Textual amendment: Words in Sch. 1 para. 28 repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
 
 [^c21524071]: Textual amendment: Sch. 1 para. 31ZA and preceding cross-heading inserted (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 139(4)](https://www.legislation.gov.uk/ukpga/2009/25/section/139/4), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 38](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/38)); [S.I. 2010/28](https://www.legislation.gov.uk/uksi/2010/28), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/28/article/2/a)
 
 [^c21219851]: Textual amendment: Sch. 1 para. 31A and preceding cross-heading inserted (2.2.2009) by [Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))](https://www.legislation.gov.uk/nisi/2008/1769), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2008/1769/article/1/3), [81](https://www.legislation.gov.uk/nisi/2008/1769/article/81), [Sch. 1 para. 35(2)](https://www.legislation.gov.uk/nisi/2008/1769/schedule/1/paragraph/35/2); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
-[^key-27c5f42e4f5904a97f18c0e173c5524a]: Textual amendment: [Sch. 1 para. 31A](https://www.legislation.gov.uk/nisi/2008/1216/schedule/1/paragraph/31A) and cross-heading inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 5(2)](https://www.legislation.gov.uk/nia/2015/2/section/5/2), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
+[^c-27c5f42e4f5904a97f18c0e173c5524a]: Textual amendment: [Sch. 1 para. 31A](https://www.legislation.gov.uk/nisi/2008/1216/schedule/1/paragraph/31A) and cross-heading inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 5(2)](https://www.legislation.gov.uk/nia/2015/2/section/5/2), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
 
-[^key-b0142347d9ef7af9b70de6138b4f8660]: Textual amendment: [Sch. 1 para. 31B](https://www.legislation.gov.uk/nisi/2008/1216/schedule/1/paragraph/31B) and cross-heading inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/30); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 116](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/116) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-b0142347d9ef7af9b70de6138b4f8660]: Textual amendment: [Sch. 1 para. 31B](https://www.legislation.gov.uk/nisi/2008/1216/schedule/1/paragraph/31B) and cross-heading inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/30); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 116](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/116) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

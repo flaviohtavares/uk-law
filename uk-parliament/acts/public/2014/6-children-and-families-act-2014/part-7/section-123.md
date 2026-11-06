@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-07ae04ae55d123b30ebda9a48ca52b12] The Social Security Contributions and Benefits Act 1992 is amended as follows.
+(1)[^c-07ae04ae55d123b30ebda9a48ca52b12] The Social Security Contributions and Benefits Act 1992 is amended as follows.
 
-(2)[^key-07ae04ae55d123b30ebda9a48ca52b12] In section 171ZC (further provision as to entitlement to statutory paternity pay)—
+(2)[^c-07ae04ae55d123b30ebda9a48ca52b12] In section 171ZC (further provision as to entitlement to statutory paternity pay)—
 
 - (a) in subsection (1) (requirement to give notice), for the words from “only if” to the end there is substituted “ only if he gives the person who will be liable to pay it notice of the week or weeks in respect of which he expects there to be liability to pay him statutory paternity pay. ”;
 - (b) after subsection (1) there is inserted—
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07ae04ae55d123b30ebda9a48ca52b12]: Commencement: [S. 123(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/123/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/123/2) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(g)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/g) (with [art. 9](https://www.legislation.gov.uk/uksi/2014/1640/article/9))
+[^c-07ae04ae55d123b30ebda9a48ca52b12]: Commencement: [S. 123(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/123/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/123/2) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(g)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/g) (with [art. 9](https://www.legislation.gov.uk/uksi/2014/1640/article/9))

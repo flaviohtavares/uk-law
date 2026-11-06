@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Leaving pensionable service[^key-f864bedbb540838a1910833109223a80]
+## 5. Leaving pensionable service[^c-f864bedbb540838a1910833109223a80]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f864bedbb540838a1910833109223a80]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/292/regulation/5) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)
+[^c-f864bedbb540838a1910833109223a80]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/292/regulation/5) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)

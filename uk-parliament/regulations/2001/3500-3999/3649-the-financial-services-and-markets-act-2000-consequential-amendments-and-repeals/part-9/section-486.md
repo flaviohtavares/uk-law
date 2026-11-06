@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 486. Interest on unpaid sums[^key-18038e1138085bd629204de0175a1769]
+## 486. Interest on unpaid sums[^c-18038e1138085bd629204de0175a1769]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ Regulation 18 of the Local Government Changes for England (Property Transfer and
 
 ## Annotations
 
-[^key-18038e1138085bd629204de0175a1769]: Commencement: Art. 486 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-18038e1138085bd629204de0175a1769]: Commencement: Art. 486 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00319]: Footnote: Regulation 18(3) was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129).

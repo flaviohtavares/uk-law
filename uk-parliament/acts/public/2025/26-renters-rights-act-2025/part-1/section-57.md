@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Financial penalties[^key-bdeb292b928140c0ca3996ebedc927ac][^key-ce0e0cb1729a067db714b5ae6a729ade]
+## 57. Financial penalties[^c-bdeb292b928140c0ca3996ebedc927ac][^c-ce0e0cb1729a067db714b5ae6a729ade]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ the local housing authority may impose a financial penalty under that subsection
 
 ## Annotations
 
-[^key-bdeb292b928140c0ca3996ebedc927ac]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-bdeb292b928140c0ca3996ebedc927ac]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-ce0e0cb1729a067db714b5ae6a729ade]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/26/section/57) in force at 1.5.2026 in so far as not already in force by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/c)
+[^c-ce0e0cb1729a067db714b5ae6a729ade]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/26/section/57) in force at 1.5.2026 in so far as not already in force by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/c)

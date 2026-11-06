@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Contents of injunctions: supplemental[^key-95fa9c0d2febe79381762c189daf8e11]
+## 36. Contents of injunctions: supplemental[^c-95fa9c0d2febe79381762c189daf8e11]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) If any prohibition or requirement in the injunction is to have effect after the end of the period of 1 year beginning with the injunction date, the court must order the applicant and the respondent to attend a review hearing on a specified date within the last 4 weeks of the 1 year period (whether or not the court orders them to attend any other review hearings).
 
-(4A)[^key-5f0be35066f28bcc23f7c4d9ea34144e] Where—
+(4A)[^c-5f0be35066f28bcc23f7c4d9ea34144e] Where—
 
 - (a) the respondent is under the age of 18 on the injunction date, and
 - (b) any prohibition or requirement in the injunction is to have effect after the respondent reaches that age and for at least the period of four weeks beginning with the respondent's 18th birthday,
@@ -46,6 +46,6 @@ the court must order the applicant and the respondent to attend a review hearing
 
 ## Annotations
 
-[^key-95fa9c0d2febe79381762c189daf8e11]: Commencement: S. 36 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-95fa9c0d2febe79381762c189daf8e11]: Commencement: S. 36 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
 
-[^key-5f0be35066f28bcc23f7c4d9ea34144e]: Textual amendment: S. 36(4A) inserted (9.1.2012) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/35/2), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/3016](https://www.legislation.gov.uk/uksi/2011/3016), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/3016/article/2/b)
+[^c-5f0be35066f28bcc23f7c4d9ea34144e]: Textual amendment: S. 36(4A) inserted (9.1.2012) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/35/2), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/3016](https://www.legislation.gov.uk/uksi/2011/3016), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/3016/article/2/b)

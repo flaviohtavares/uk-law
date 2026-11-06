@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. The schools budget[^key-7a0a2b5cd33b3e534d8f3a302603c703]
+## 6. The schools budget[^c-7a0a2b5cd33b3e534d8f3a302603c703]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a0a2b5cd33b3e534d8f3a302603c703]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/42/regulation/6) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-7a0a2b5cd33b3e534d8f3a302603c703]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/42/regulation/6) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

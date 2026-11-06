@@ -207,25 +207,25 @@ HAVE ADOPTED THIS REGULATION:
 
 ### CHAPTER I — Subject matter, scope and objectives
 
-#### Article 1. Subject matter and scope[^key-c6de839e97dbce292bedeed0bc404b29]
+#### Article 1. Subject matter and scope[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 2. Objectives[^key-c6de839e97dbce292bedeed0bc404b29]
+#### Article 2. Objectives[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER II — Forms of financing and general financial provisions
 
-#### Article 3. Forms of financing[^key-c6de839e97dbce292bedeed0bc404b29]
+#### Article 3. Forms of financing[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 4. Budget[^key-c6de839e97dbce292bedeed0bc404b29]
+#### Article 4. Budget[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 5. Maximum rates of grants[^key-c6de839e97dbce292bedeed0bc404b29]
+#### Article 5. Maximum rates of grants[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -235,47 +235,47 @@ HAVE ADOPTED THIS REGULATION:
 
 #### Section 1 — Emergency Measures
 
-##### Article 6. Eligible measures[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 6. Eligible measures[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 7. List of animal diseases[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 7. List of animal diseases[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 8. Eligible costs[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 8. Eligible costs[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 2 — Programmes for the eradication, control and surveillance of animal diseases and zoonoses
 
-##### Article 9. Eligible programmes[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 9. Eligible programmes[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 10. List of animal diseases and zoonoses[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 10. List of animal diseases and zoonoses[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 11. Eligible costs[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 11. Eligible costs[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 12. Content and submission of the national programmes[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 12. Content and submission of the national programmes[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 13. Evaluation and approval of the national programmes[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 13. Evaluation and approval of the national programmes[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Article 14. Reporting
 
-[^key-c6de839e97dbce292bedeed0bc404b29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6de839e97dbce292bedeed0bc404b29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 In addition, for each approved annual national programme, Member States shall submit to the Commission, by 31 August each year, an intermediate financial report.
 
-##### Article 15. Payments[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 15. Payments[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -283,203 +283,203 @@ In addition, for each approved annual national programme, Member States shall su
 
 #### Section 1 — Emergency measures
 
-##### Article 16. Eligible measures[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 16. Eligible measures[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 17. Conditions[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 17. Conditions[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 18. Eligible costs[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 18. Eligible costs[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 2 — Survey programmes concerning the presence of pests
 
-##### Article 19. Eligible survey programmes[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 19. Eligible survey programmes[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 20. Eligible costs[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 20. Eligible costs[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 21. Content and submission of the survey programmes[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 21. Content and submission of the survey programmes[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 22. Evaluation and approval of the survey programmes[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 22. Evaluation and approval of the survey programmes[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 23. Reporting[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 23. Reporting[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 24. Payments[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 24. Payments[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 3 — Programmes concerning the control of pests in outermost regions of the Union
 
-##### Article 25. Eligible measures and eligible costs[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 25. Eligible measures and eligible costs[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 26. Content and submission of the programmes for the outermost regions[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 26. Content and submission of the programmes for the outermost regions[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 27. Evaluation and approval of the programmes for the outermost regions[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 27. Evaluation and approval of the programmes for the outermost regions[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 28. Reporting[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 28. Reporting[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 29. Payments[^key-c6de839e97dbce292bedeed0bc404b29]
+##### Article 29. Payments[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER III — Financial support to official controls and other activities
 
-#### Article 30. European Union reference laboratories and centres[^key-c6de839e97dbce292bedeed0bc404b29][^c000005]
+#### Article 30. European Union reference laboratories and centres[^c-c6de839e97dbce292bedeed0bc404b29][^c000005]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 30a. Accreditation of national reference laboratories for plant health[^key-c6de839e97dbce292bedeed0bc404b29]
+#### Article 30a. Accreditation of national reference laboratories for plant health[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 31. Training[^key-c6de839e97dbce292bedeed0bc404b29]
+#### Article 31. Training[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 32. Experts from the Member States[^key-c6de839e97dbce292bedeed0bc404b29]
+#### Article 32. Experts from the Member States[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 33. Coordinated control plans and data collection[^key-c6de839e97dbce292bedeed0bc404b29]
+#### Article 33. Coordinated control plans and data collection[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER IV — Other measures
 
-#### Article 34. Information systems[^key-c6de839e97dbce292bedeed0bc404b29]
+#### Article 34. Information systems[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 35. Implementation and adaptation of the rules[^key-c6de839e97dbce292bedeed0bc404b29]
+#### Article 35. Implementation and adaptation of the rules[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## TITLE III — PROGRAMMING, IMPLEMENTATION AND CONTROL
 
-### Article 36. Work programmes and financial contributions[^key-c6de839e97dbce292bedeed0bc404b29]
+### Article 36. Work programmes and financial contributions[^c-c6de839e97dbce292bedeed0bc404b29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 37. On-the-spot checks by the Commission
 
-The Secretary of State, with the consent of the Scottish Ministers and the Welsh Ministers, may organise joint on-the-spot checks with the EU Commission in Great Britain at the premises of any beneficiary of EU expenditure incurred or committed before IP completion day, with a view to verifying in particular:[^key-39fce1a83071abe55c52299d87d8d4fe]
+The Secretary of State, with the consent of the Scottish Ministers and the Welsh Ministers, may organise joint on-the-spot checks with the EU Commission in Great Britain at the premises of any beneficiary of EU expenditure incurred or committed before IP completion day, with a view to verifying in particular:[^c-39fce1a83071abe55c52299d87d8d4fe]
 
-- ((a)) the effective implementation of the measures benefitting from the EU[^key-2904fd911bd339b9ee60cca3550c895e] financial contribution;
+- ((a)) the effective implementation of the measures benefitting from the EU[^c-2904fd911bd339b9ee60cca3550c895e] financial contribution;
 - ((b)) the compliance of administrative practices with EU rules;
-- ((c)) the existence of the requisite supporting documents and their correlation with the measures benefitting from an EU[^key-831fbca8c224eafc869c84cffa27cd06] contribution.
+- ((c)) the existence of the requisite supporting documents and their correlation with the measures benefitting from an EU[^c-831fbca8c224eafc869c84cffa27cd06] contribution.
 
 ### Article 38. Access to information
 
-The Secretary of State, with the assistance of the Scottish and Welsh Ministers[^key-3ef670515fafab3a5d3ce3b76e7715f9] and beneficiaries shall make available to the EU[^key-9fd0c7d5a25523b89eb10b257a2924e5] Commission all information necessary for verifying the implementation of the measures and shall take all appropriate measures to facilitate the checks which the EU Commission deems to be appropriate in connection with the management of European Union[^key-923b19032507cd8962cff355ab8e7700] financing, including on-the-spot checks.
+The Secretary of State, with the assistance of the Scottish and Welsh Ministers[^c-3ef670515fafab3a5d3ce3b76e7715f9] and beneficiaries shall make available to the EU[^c-9fd0c7d5a25523b89eb10b257a2924e5] Commission all information necessary for verifying the implementation of the measures and shall take all appropriate measures to facilitate the checks which the EU Commission deems to be appropriate in connection with the management of European Union[^c-923b19032507cd8962cff355ab8e7700] financing, including on-the-spot checks.
 
-### Article 39. Protection of the EU's and the United Kingdom's financial interests[^key-772051c4d6c2171c9a4bf3b0c0d17bf4]
+### Article 39. Protection of the EU's and the United Kingdom's financial interests[^c-772051c4d6c2171c9a4bf3b0c0d17bf4]
 
-1.[^key-56606ecbd100c2be4966ef6ba8f20f59] This Article only applies for so long as checks are required in respect of EU funds that have been granted or committed to the UK or UK beneficiaries before exit day in order for appropriate measures (including effective checks) to be taken either by the EU Commission or by the Secretary of State, the Scottish and the Welsh Ministers to prevent fraud, corruption and any other illegal activities, and in order that, where irregularities are detected, the EU Commission is assisted with the recovery of the amounts wrongly paid and, where appropriate, effective and proportionate action is taken against the beneficiaries where fraud, corruption or illegal activity is revealed.
+1.[^c-56606ecbd100c2be4966ef6ba8f20f59] This Article only applies for so long as checks are required in respect of EU funds that have been granted or committed to the UK or UK beneficiaries before exit day in order for appropriate measures (including effective checks) to be taken either by the EU Commission or by the Secretary of State, the Scottish and the Welsh Ministers to prevent fraud, corruption and any other illegal activities, and in order that, where irregularities are detected, the EU Commission is assisted with the recovery of the amounts wrongly paid and, where appropriate, effective and proportionate action is taken against the beneficiaries where fraud, corruption or illegal activity is revealed.
 
-2.[^key-d73893b7c4b033f01a9d2b99d5fbefdd] The EU Commission, or its representatives, and the EU Court of Auditors retain the power of audit, on the basis of documents and on-the-spot checks, over all grant beneficiaries, implementing bodies, contractors and subcontractors who have received EU funds granted or committed before exit day under this Regulation.
+2.[^c-d73893b7c4b033f01a9d2b99d5fbefdd] The EU Commission, or its representatives, and the EU Court of Auditors retain the power of audit, on the basis of documents and on-the-spot checks, over all grant beneficiaries, implementing bodies, contractors and subcontractors who have received EU funds granted or committed before exit day under this Regulation.
 
 The European Anti-Fraud Office (OLAF) may be authorised to carry out reasonable on-the-spot checks and inspections on economic operators suspected of defrauding the EU following receipt directly or indirectly of EU funding in accordance with the procedures laid down in Council Regulation (Euratom, EC) No 2185/96 with a view to establishing whether there has been fraud, corruption or any other illegal activity affecting the financial interests of the EU in connection with a grant agreement or decision or a contract concerning EU funding.
 
-[^key-e961f69fdd619174f916f9e133220d62]...
+[^c-e961f69fdd619174f916f9e133220d62]...
 
 ## TITLE IV — GENERAL AND FINAL PROVISIONS
 
-### Article 40. Exercise of the delegation[^key-2d3000e42a32bbd2b41d5955a55e810e]
+### Article 40. Exercise of the delegation[^c-2d3000e42a32bbd2b41d5955a55e810e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 41. Committee procedure[^key-2d3000e42a32bbd2b41d5955a55e810e]
+### Article 41. Committee procedure[^c-2d3000e42a32bbd2b41d5955a55e810e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 42. Evaluation[^key-2d3000e42a32bbd2b41d5955a55e810e]
+### Article 42. Evaluation[^c-2d3000e42a32bbd2b41d5955a55e810e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 43. Information, communication and publicity[^key-3fd85f5b7e4a03942c7f39f80e20cee0]
+### Article 43. Information, communication and publicity[^c-3fd85f5b7e4a03942c7f39f80e20cee0]
 
 Where appropriate, beneficiaries and the Secretary of State, the Scottish Ministers, Welsh Ministers and (in Northern Ireland) the Department of Agriculture, Environment and Rural Affairs must ensure that suitable publicity is given to financial contributions granted by the EU.
 
-### Article 44. Repeals[^key-5aa4589a132ee4f87d96f01ce059e286]
+### Article 44. Repeals[^c-5aa4589a132ee4f87d96f01ce059e286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 45. Transitional provisions[^key-5aa4589a132ee4f87d96f01ce059e286]
+### Article 45. Transitional provisions[^c-5aa4589a132ee4f87d96f01ce059e286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 46. Amendment of Directive 98/56/EC[^key-5aa4589a132ee4f87d96f01ce059e286]
+### Article 46. Amendment of Directive 98/56/EC[^c-5aa4589a132ee4f87d96f01ce059e286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 47. Amendment of Directive 2000/29/EC[^key-5aa4589a132ee4f87d96f01ce059e286]
+### Article 47. Amendment of Directive 2000/29/EC[^c-5aa4589a132ee4f87d96f01ce059e286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 48. Amendment of Regulation (EC) No 178/2002[^key-5aa4589a132ee4f87d96f01ce059e286]
+### Article 48. Amendment of Regulation (EC) No 178/2002[^c-5aa4589a132ee4f87d96f01ce059e286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 49. Amendment of Regulation (EC) No 882/2004[^key-5aa4589a132ee4f87d96f01ce059e286]
+### Article 49. Amendment of Regulation (EC) No 882/2004[^c-5aa4589a132ee4f87d96f01ce059e286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 50. Amendment of Regulation (EC) No 396/2005[^key-5aa4589a132ee4f87d96f01ce059e286]
+### Article 50. Amendment of Regulation (EC) No 396/2005[^c-5aa4589a132ee4f87d96f01ce059e286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 51. Amendment of Directive 2008/90/EC[^key-5aa4589a132ee4f87d96f01ce059e286]
+### Article 51. Amendment of Directive 2008/90/EC[^c-5aa4589a132ee4f87d96f01ce059e286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 52. Amendment of Directive 2009/128/EC[^key-5aa4589a132ee4f87d96f01ce059e286]
+### Article 52. Amendment of Directive 2009/128/EC[^c-5aa4589a132ee4f87d96f01ce059e286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 53. Amendment of Regulation (EC) No 1107/2009[^key-5aa4589a132ee4f87d96f01ce059e286]
+### Article 53. Amendment of Regulation (EC) No 1107/2009[^c-5aa4589a132ee4f87d96f01ce059e286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 54. Entry into force and application[^key-5aa4589a132ee4f87d96f01ce059e286]
+### Article 54. Entry into force and application[^c-5aa4589a132ee4f87d96f01ce059e286]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 [^M_F_eb0b4ef5-5b1b-4532-8a26-e3a940a07380]...
 
-## ANNEX I — Animal diseases referred to in Article 7[^key-9aac390a4c6e7a93ef342116616cb9ad]
+## ANNEX I — Animal diseases referred to in Article 7[^c-9aac390a4c6e7a93ef342116616cb9ad]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Animal diseases and zoonoses referred to in Article 10[^key-9aac390a4c6e7a93ef342116616cb9ad]
+## ANNEX II — Animal diseases and zoonoses referred to in Article 10[^c-9aac390a4c6e7a93ef342116616cb9ad]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Priorities for the Commission work programmes referred to in Section 2 of Chapter I of Title II, and in Section 2 and Section 3 of Chapter II of Title II[^key-9aac390a4c6e7a93ef342116616cb9ad]
+## ANNEX III — Priorities for the Commission work programmes referred to in Section 2 of Chapter I of Title II, and in Section 2 and Section 3 of Chapter II of Title II[^c-9aac390a4c6e7a93ef342116616cb9ad]
 
 **No longer in force.**
 
@@ -545,36 +545,36 @@ Preparatory work for the design of the work programme for the implementation of 
 
 [^f00023]: Footnote: Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of the plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC ([OJ L 309, 24.11.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.309.01.0001.01.ENG)).
 
-[^key-c6de839e97dbce292bedeed0bc404b29]: Textual amendment: Arts. 1-36 omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c6de839e97dbce292bedeed0bc404b29]: Textual amendment: Arts. 1-36 omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000005]: Textual amendment: Substituted by [Regulation (EU) 2016/1012 of the European Parliament and of the Council of 8 June 2016 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof and amending Regulation (EU) No 652/2014, Council Directives 89/608/EEC and 90/425/EEC and repealing certain acts in the area of animal breeding (‘Animal Breeding Regulation’) (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/1012).
 
-[^key-39fce1a83071abe55c52299d87d8d4fe]: Textual amendment: Words in [Art. 37](https://www.legislation.gov.uk/eur/2014/652/article/37) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(3)(a)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/3/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [25(14)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/25/14/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39fce1a83071abe55c52299d87d8d4fe]: Textual amendment: Words in [Art. 37](https://www.legislation.gov.uk/eur/2014/652/article/37) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(3)(a)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/3/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [25(14)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/25/14/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2904fd911bd339b9ee60cca3550c895e]: Textual amendment: Word in [Art. 37(a)(b)](https://www.legislation.gov.uk/eur/2014/652/article/37/a/b) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(3)(b)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2904fd911bd339b9ee60cca3550c895e]: Textual amendment: Word in [Art. 37(a)(b)](https://www.legislation.gov.uk/eur/2014/652/article/37/a/b) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(3)(b)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-831fbca8c224eafc869c84cffa27cd06]: Textual amendment: Words in [Art. 37(c)](https://www.legislation.gov.uk/eur/2014/652/article/37/c) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(3)(c)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-831fbca8c224eafc869c84cffa27cd06]: Textual amendment: Words in [Art. 37(c)](https://www.legislation.gov.uk/eur/2014/652/article/37/c) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(3)(c)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ef670515fafab3a5d3ce3b76e7715f9]: Textual amendment: Words in Art. 38 substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(4)(a)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/4/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [25(14)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/25/14/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ef670515fafab3a5d3ce3b76e7715f9]: Textual amendment: Words in Art. 38 substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(4)(a)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/4/a) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [25(14)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/25/14/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9fd0c7d5a25523b89eb10b257a2924e5]: Textual amendment: Word in Art. 38 inserted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(4)(b)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fd0c7d5a25523b89eb10b257a2924e5]: Textual amendment: Word in Art. 38 inserted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(4)(b)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-923b19032507cd8962cff355ab8e7700]: Textual amendment: Words in Art. 38 substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(4)(c)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-923b19032507cd8962cff355ab8e7700]: Textual amendment: Words in Art. 38 substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(4)(c)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-772051c4d6c2171c9a4bf3b0c0d17bf4]: Textual amendment: Art. 39 heading substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(5)(a)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-772051c4d6c2171c9a4bf3b0c0d17bf4]: Textual amendment: Art. 39 heading substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(5)(a)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-56606ecbd100c2be4966ef6ba8f20f59]: Textual amendment: Art. 39(1) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/5/b) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [25(14)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/25/14/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56606ecbd100c2be4966ef6ba8f20f59]: Textual amendment: Art. 39(1) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/5/b) (as amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [25(14)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/25/14/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d73893b7c4b033f01a9d2b99d5fbefdd]: Textual amendment: Art. 39(2) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(5)(c)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d73893b7c4b033f01a9d2b99d5fbefdd]: Textual amendment: Art. 39(2) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(5)(c)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e961f69fdd619174f916f9e133220d62]: Textual amendment: Words in Art. 39 omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(5)(d)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e961f69fdd619174f916f9e133220d62]: Textual amendment: Words in Art. 39 omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(5)(d)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d3000e42a32bbd2b41d5955a55e810e]: Textual amendment: [Arts. 40-42](https://www.legislation.gov.uk/eur/2014/652/article/40) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(6)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d3000e42a32bbd2b41d5955a55e810e]: Textual amendment: [Arts. 40-42](https://www.legislation.gov.uk/eur/2014/652/article/40) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(6)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3fd85f5b7e4a03942c7f39f80e20cee0]: Textual amendment: [Art. 43](https://www.legislation.gov.uk/eur/2014/652/article/43) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(7)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3fd85f5b7e4a03942c7f39f80e20cee0]: Textual amendment: [Art. 43](https://www.legislation.gov.uk/eur/2014/652/article/43) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(7)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5aa4589a132ee4f87d96f01ce059e286]: Textual amendment: [Arts. 44-54](https://www.legislation.gov.uk/eur/2014/652/article/44) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(8)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5aa4589a132ee4f87d96f01ce059e286]: Textual amendment: [Arts. 44-54](https://www.legislation.gov.uk/eur/2014/652/article/44) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(8)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_eb0b4ef5-5b1b-4532-8a26-e3a940a07380]: Textual amendment: Arts. 44-54 (including binding words) omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(8)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9aac390a4c6e7a93ef342116616cb9ad]: Textual amendment: Annexes 1-3 omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(8)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9aac390a4c6e7a93ef342116616cb9ad]: Textual amendment: Annexes 1-3 omitted (31.12.2020) by virtue of [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [18(8)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/18/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

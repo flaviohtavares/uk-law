@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Payments: CCTS[^key-db411b917b7e73563c758fc626e52c23]
+## 39. Payments: CCTS[^c-db411b917b7e73563c758fc626e52c23]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db411b917b7e73563c758fc626e52c23]: Commencement: Art. 39 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-db411b917b7e73563c758fc626e52c23]: Commencement: Art. 39 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

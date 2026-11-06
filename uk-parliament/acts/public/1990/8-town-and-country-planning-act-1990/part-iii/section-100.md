@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Revocation and modification of planning permission or permission in principle by the Secretary of State.[^key-1e8cd41cabc0fcd843f6551d8108eb56]
+## 100. Revocation and modification of planning permission or permission in principle by the Secretary of State.[^c-1e8cd41cabc0fcd843f6551d8108eb56]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e8cd41cabc0fcd843f6551d8108eb56]: Textual amendment: Words in s. 100 heading inserted (E.) (27.3.2017) by [The Housing and Planning Act 2016 (Permission in Principle etc) (Miscellaneous Amendments) (England) Regulations 2017 (S.I. 2017/276)](https://www.legislation.gov.uk/uksi/2017/276), [regs. 1](https://www.legislation.gov.uk/uksi/2017/276/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2017/276/regulation/3/5)
+[^c-1e8cd41cabc0fcd843f6551d8108eb56]: Textual amendment: Words in s. 100 heading inserted (E.) (27.3.2017) by [The Housing and Planning Act 2016 (Permission in Principle etc) (Miscellaneous Amendments) (England) Regulations 2017 (S.I. 2017/276)](https://www.legislation.gov.uk/uksi/2017/276), [regs. 1](https://www.legislation.gov.uk/uksi/2017/276/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2017/276/regulation/3/5)
 
 [^c14020851]: Textual amendment: S. 100(8) substituted (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 21](https://www.legislation.gov.uk/ukpga/1991/34/section/21), [Sch. 1 para.5](https://www.legislation.gov.uk/ukpga/1991/34/schedule/1/paragraph/5) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4))

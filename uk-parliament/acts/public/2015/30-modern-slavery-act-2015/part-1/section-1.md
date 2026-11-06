@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Slavery, servitude and forced or compulsory labour[^key-731b14b9f3af2a2037c3520fe3d50c0e]
+## 1. Slavery, servitude and forced or compulsory labour[^c-731b14b9f3af2a2037c3520fe3d50c0e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-731b14b9f3af2a2037c3520fe3d50c0e]: Commencement: S. 1 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2015/1476/regulation/5), [7](https://www.legislation.gov.uk/uksi/2015/1476/regulation/7), [8](https://www.legislation.gov.uk/uksi/2015/1476/regulation/8))
+[^c-731b14b9f3af2a2037c3520fe3d50c0e]: Commencement: S. 1 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a) (with [regs. 5](https://www.legislation.gov.uk/uksi/2015/1476/regulation/5), [7](https://www.legislation.gov.uk/uksi/2015/1476/regulation/7), [8](https://www.legislation.gov.uk/uksi/2015/1476/regulation/8))

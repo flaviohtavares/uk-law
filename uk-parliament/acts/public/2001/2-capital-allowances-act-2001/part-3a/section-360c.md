@@ -34,8 +34,8 @@ summary: ''
 
 (2) In this section “ **disadvantaged area** ” means—
 
-- (a) an area designated as a disadvantaged area for the purposes of this section by regulations made by the Treasury, [^key-181fc7d7c48b7d054784e22d4f0499ac]...
-- (b)[^key-181fc7d7c48b7d054784e22d4f0499ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an area designated as a disadvantaged area for the purposes of this section by regulations made by the Treasury, [^c-181fc7d7c48b7d054784e22d4f0499ac]...
+- (b)[^c-181fc7d7c48b7d054784e22d4f0499ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Regulations under subsection (2)(a) may—
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-181fc7d7c48b7d054784e22d4f0499ac]: Textual amendment: S. 360C(2)(b) and word omitted (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/2/a) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-181fc7d7c48b7d054784e22d4f0499ac]: Textual amendment: S. 360C(2)(b) and word omitted (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/2/a) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

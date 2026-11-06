@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Amendment of section 52[^key-204569180dcb6caf0b75f2514ac6791a]
+## 45. Amendment of section 52[^c-204569180dcb6caf0b75f2514ac6791a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In section 52 (regulations and other documents), after subsection (1) insert—
 
 ## Annotations
 
-[^key-204569180dcb6caf0b75f2514ac6791a]: Commencement: Art. 45 in force at made date, see [art. 1(3)(d)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3/d)
+[^c-204569180dcb6caf0b75f2514ac6791a]: Commencement: Art. 45 in force at made date, see [art. 1(3)(d)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3/d)

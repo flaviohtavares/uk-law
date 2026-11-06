@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Power to reclassify certain disclosure requests: Scotland[^key-0d1ece9c151ac68740981f3eddbe6961]
+## 35. Power to reclassify certain disclosure requests: Scotland[^c-0d1ece9c151ac68740981f3eddbe6961]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d1ece9c151ac68740981f3eddbe6961]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/2020/7/section/35) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-0d1ece9c151ac68740981f3eddbe6961]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/2020/7/section/35) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

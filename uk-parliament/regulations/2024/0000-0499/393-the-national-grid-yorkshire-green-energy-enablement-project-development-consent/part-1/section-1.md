@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-b40837a794a540f6e912e2472114cb63]
+## 1. Citation and commencement[^c-b40837a794a540f6e912e2472114cb63]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the National Grid (Yorkshire Green Energy Enablement 
 
 ## Annotations
 
-[^key-b40837a794a540f6e912e2472114cb63]: Commencement: Art. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-b40837a794a540f6e912e2472114cb63]: Commencement: Art. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

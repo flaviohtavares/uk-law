@@ -40,10 +40,10 @@ summary: ''
 - (a) on both national and international transport operations; or
 - (b) on national transport operations only.
 
-(6) Except as provided in subsection (4) and subject to sections 3A and 4[^key-1ff53d2e2ec7e44b8169f03ba90c4439], a person who uses a goods vehicle under a restricted licence for carrying goods for hire or reward is guilty of an offence and liable on summary conviction to a fine not exceeding £500.
+(6) Except as provided in subsection (4) and subject to sections 3A and 4[^c-1ff53d2e2ec7e44b8169f03ba90c4439], a person who uses a goods vehicle under a restricted licence for carrying goods for hire or reward is guilty of an offence and liable on summary conviction to a fine not exceeding £500.
 
 (7) A person who uses a goods vehicle for carrying goods for hire or reward on international transport operations under a standard licence which covers the carriage of goods on national transport operations only is guilty of an offence and liable on summary conviction to a fine not exceeding £500.
 
 ## Annotations
 
-[^key-1ff53d2e2ec7e44b8169f03ba90c4439]: Textual amendment: Words in s. 3(6) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2018/19/section/11/3), [27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1)
+[^c-1ff53d2e2ec7e44b8169f03ba90c4439]: Textual amendment: Words in s. 3(6) substituted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2018/19/section/11/3), [27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1)

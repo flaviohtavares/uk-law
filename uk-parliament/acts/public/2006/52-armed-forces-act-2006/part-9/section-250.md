@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Determination of service compensation order[^key-85dba6532b22c57e4fc62f6e003e83f7][^key-81a93016e5a1b2b82b29d5a512eb0533]
+## 250. Determination of service compensation order[^c-85dba6532b22c57e4fc62f6e003e83f7][^c-81a93016e5a1b2b82b29d5a512eb0533]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ the court or officer must give preference to compensation (but may impose a fine
 
 ## Annotations
 
-[^key-85dba6532b22c57e4fc62f6e003e83f7]: Commencement: S. 250 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-85dba6532b22c57e4fc62f6e003e83f7]: Commencement: S. 250 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-81a93016e5a1b2b82b29d5a512eb0533]: Commencement: S. 250 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-81a93016e5a1b2b82b29d5a512eb0533]: Commencement: S. 250 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

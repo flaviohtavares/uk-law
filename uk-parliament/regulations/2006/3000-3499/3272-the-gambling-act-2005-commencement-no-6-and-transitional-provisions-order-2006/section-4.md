@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Repeal of the Gaming Act 1968[^key-00fc654d75416b8908b9e934b9729beb]
+## 4. Repeal of the Gaming Act 1968[^c-00fc654d75416b8908b9e934b9729beb]
 
 *Extent: E+W+S*
 
@@ -56,7 +56,7 @@ summary: ''
 
 ## Annotations
 
-[^key-00fc654d75416b8908b9e934b9729beb]: Commencement: Art. 4 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-00fc654d75416b8908b9e934b9729beb]: Commencement: Art. 4 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
 [^f00012]: Footnote: Paragraph 4 of Schedule 2 to the 1968 Act was amended by the Gaming (Amendment) Act [1982 (c. 22)](https://www.legislation.gov.uk/ukpga/1982/22), section 1 and paragraph 2 of Schedule 1, and by the Gaming Amendment Act [1990 (c. 26)](https://www.legislation.gov.uk/ukpga/1990/26), section 1 and paragraph 7 of the Schedule to that Act.
 

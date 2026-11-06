@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Certification of plans etc.[^key-5e3ce8d99a88650ff6cb140a2579d27c]
+## 35. Certification of plans etc.[^c-5e3ce8d99a88650ff6cb140a2579d27c]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ for certification that they are true copies of the documents referred to in this
 
 ## Annotations
 
-[^key-5e3ce8d99a88650ff6cb140a2579d27c]: Commencement: Art. 35 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-5e3ce8d99a88650ff6cb140a2579d27c]: Commencement: Art. 35 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Duty to have regard to strategy and policy statement[^key-cd74659333ba8de3cb2ec6b1fae1bd23][^key-231e8af4b89c40eb3fe9f3d1d89b03d9]
+## 165. Duty to have regard to strategy and policy statement[^c-cd74659333ba8de3cb2ec6b1fae1bd23][^c-231e8af4b89c40eb3fe9f3d1d89b03d9]
 
 *Extent: E+W+S*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd74659333ba8de3cb2ec6b1fae1bd23]: Commencement: S. 165 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-cd74659333ba8de3cb2ec6b1fae1bd23]: Commencement: S. 165 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-231e8af4b89c40eb3fe9f3d1d89b03d9]: Commencement: S. 165 in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)
+[^c-231e8af4b89c40eb3fe9f3d1d89b03d9]: Commencement: S. 165 in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)

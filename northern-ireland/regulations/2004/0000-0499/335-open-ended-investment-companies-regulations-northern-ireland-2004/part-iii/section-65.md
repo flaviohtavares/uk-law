@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Power to provide for employees on cessation or transfer of business[^key-64d3b6c595f3b5a6e72cd37c058277b6]
+## 65. Power to provide for employees on cessation or transfer of business[^c-64d3b6c595f3b5a6e72cd37c058277b6]
 
 *Extent: N.I.*
 
@@ -29,13 +29,13 @@ summary: ''
 - (a) in a case not falling within sub-paragraph (b) or (c), if sanctioned by a resolution of the company in general meeting;
 - (b) if so authorised by the instrument of incorporation –
   - (i) in the case of a company that has only one director, by a resolution of that director; and
-  - (ii) in any other case, by such resolution of directors as is required by FCA rules[^key-17a9141fb993bcb8fc32d9b21cf6070f]; or
+  - (ii) in any other case, by such resolution of directors as is required by FCA rules[^c-17a9141fb993bcb8fc32d9b21cf6070f]; or
 - (c) if the instrument of incorporation requires the exercise of the power to be sanctioned by a resolution of the company in general meeting for which more than a simple majority of the shareholders voting is necessary, by a resolution of that majority;
 
 and in any case after compliance with any other requirements of the instrument of incorporation applicable to the exercise of the power.
 
 ## Annotations
 
-[^key-64d3b6c595f3b5a6e72cd37c058277b6]: Commencement: [Reg. 65](https://www.legislation.gov.uk/nisr/2004/335/regulation/65) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-64d3b6c595f3b5a6e72cd37c058277b6]: Commencement: [Reg. 65](https://www.legislation.gov.uk/nisr/2004/335/regulation/65) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
+[^c-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)

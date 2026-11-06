@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Options under this Chapter[^key-18ca23d7e57a002ba2e9fbb843264797]
+## 58. Options under this Chapter[^c-18ca23d7e57a002ba2e9fbb843264797]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The options under this Chapter are—
 
 ## Annotations
 
-[^key-18ca23d7e57a002ba2e9fbb843264797]: Commencement: Reg. 58 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-18ca23d7e57a002ba2e9fbb843264797]: Commencement: Reg. 58 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

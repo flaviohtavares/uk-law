@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 224A. Service of documents[^key-9ad2c1c86448f86d0c5f800d0ea5721d]
+## 224A. Service of documents[^c-9ad2c1c86448f86d0c5f800d0ea5721d]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ad2c1c86448f86d0c5f800d0ea5721d]: Textual amendment: [S. 224A](https://www.legislation.gov.uk/asp/2016/21/section/224A) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 19(2)](https://www.legislation.gov.uk/asp/2022/8/section/19/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1) (with [s. 19(4)](https://www.legislation.gov.uk/asp/2022/8/section/19/4))
+[^c-9ad2c1c86448f86d0c5f800d0ea5721d]: Textual amendment: [S. 224A](https://www.legislation.gov.uk/asp/2016/21/section/224A) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 19(2)](https://www.legislation.gov.uk/asp/2022/8/section/19/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1) (with [s. 19(4)](https://www.legislation.gov.uk/asp/2022/8/section/19/4))

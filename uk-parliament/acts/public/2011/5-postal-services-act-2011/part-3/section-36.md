@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Designated USP conditions[^key-94c0faf69a42d899a47ed91e7f946cf6]
+## 36. Designated USP conditions[^c-94c0faf69a42d899a47ed91e7f946cf6]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ In this subsection “**specified**” means specified in the condition.
 
 ## Annotations
 
-[^key-94c0faf69a42d899a47ed91e7f946cf6]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2011/5/section/36) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-94c0faf69a42d899a47ed91e7f946cf6]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2011/5/section/36) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

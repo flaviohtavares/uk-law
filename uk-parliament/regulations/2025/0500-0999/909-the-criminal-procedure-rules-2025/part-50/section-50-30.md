@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.30. Constitution of the High Court[^key-5673a0868891c379b5f49124bfc0d5a6]
+## 50.30. Constitution of the High Court[^c-5673a0868891c379b5f49124bfc0d5a6]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5673a0868891c379b5f49124bfc0d5a6]: Commencement: [Rule 50.30](https://www.legislation.gov.uk/uksi/2025/909/rule/50.30) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-5673a0868891c379b5f49124bfc0d5a6]: Commencement: [Rule 50.30](https://www.legislation.gov.uk/uksi/2025/909/rule/50.30) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01372]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).

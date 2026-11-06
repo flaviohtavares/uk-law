@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Meaning of “tax adviser” and “client”[^M_I_36a373e8-759c-404f-9a52-73edc91c8201][^key-c35496c470d7c5d74be98234688792d4][^key-9422d9bb4930b7214f0437878311355b]
+## 224. Meaning of “tax adviser” and “client”[^M_I_36a373e8-759c-404f-9a52-73edc91c8201][^c-c35496c470d7c5d74be98234688792d4][^c-9422d9bb4930b7214f0437878311355b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 [^M_I_36a373e8-759c-404f-9a52-73edc91c8201]: Commencement: S. 224 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-c35496c470d7c5d74be98234688792d4]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2026/11/section/224) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-c35496c470d7c5d74be98234688792d4]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2026/11/section/224) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-9422d9bb4930b7214f0437878311355b]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2026/11/section/224) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-9422d9bb4930b7214f0437878311355b]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2026/11/section/224) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

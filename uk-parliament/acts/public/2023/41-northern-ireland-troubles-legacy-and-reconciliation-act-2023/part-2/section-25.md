@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Information for prosecutors[^key-316e197238a39912548632de20a21c07][^key-384d1a71244d8dece7a4cfaa1fe30b1e]
+## 25. Information for prosecutors[^c-316e197238a39912548632de20a21c07][^c-384d1a71244d8dece7a4cfaa1fe30b1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ has been carried out.
 
 ## Annotations
 
-[^key-316e197238a39912548632de20a21c07]: Commencement: S. 25 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-316e197238a39912548632de20a21c07]: Commencement: S. 25 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-384d1a71244d8dece7a4cfaa1fe30b1e]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/41/section/25) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/r) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-384d1a71244d8dece7a4cfaa1fe30b1e]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/41/section/25) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/r) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

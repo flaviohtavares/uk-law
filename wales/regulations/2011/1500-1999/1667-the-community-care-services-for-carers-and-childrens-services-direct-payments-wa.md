@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SERVICES, WALES
 
-The Community Care, Services for Carers and Children’s Services (Direct Payments) (Wales) (Amendment) Regulations 2011 (revoked)[^key-6a9a094b51177969c047fb1aeb941cbd]
+The Community Care, Services for Carers and Children’s Services (Direct Payments) (Wales) (Amendment) Regulations 2011 (revoked)[^c-6a9a094b51177969c047fb1aeb941cbd]
 
 Made
 
@@ -45,56 +45,56 @@ Coming into force
 
 2 August 2011
 
-[^key-6a9a094b51177969c047fb1aeb941cbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a9a094b51177969c047fb1aeb941cbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, interpretation and application[^key-6a9a094b51177969c047fb1aeb941cbd]
+## 1. Title, commencement, interpretation and application[^c-6a9a094b51177969c047fb1aeb941cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the explanatory note to the principal Regulations[^key-6a9a094b51177969c047fb1aeb941cbd]
+## 2. Amendment of the explanatory note to the principal Regulations[^c-6a9a094b51177969c047fb1aeb941cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 7 of the principal Regulations[^key-6a9a094b51177969c047fb1aeb941cbd]
+## 3. Amendment of regulation 7 of the principal Regulations[^c-6a9a094b51177969c047fb1aeb941cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 9 of the principal Regulations[^key-6a9a094b51177969c047fb1aeb941cbd]
+## 4. Amendment of regulation 9 of the principal Regulations[^c-6a9a094b51177969c047fb1aeb941cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 10 of the principal Regulations[^key-6a9a094b51177969c047fb1aeb941cbd]
+## 5. Amendment of regulation 10 of the principal Regulations[^c-6a9a094b51177969c047fb1aeb941cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 11 of the principal Regulations[^key-6a9a094b51177969c047fb1aeb941cbd]
+## 6. Amendment of regulation 11 of the principal Regulations[^c-6a9a094b51177969c047fb1aeb941cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 12 of the principal Regulations[^key-6a9a094b51177969c047fb1aeb941cbd]
+## 7. Amendment of regulation 12 of the principal Regulations[^c-6a9a094b51177969c047fb1aeb941cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 13 of the principal Regulations[^key-6a9a094b51177969c047fb1aeb941cbd]
+## 8. Amendment of regulation 13 of the principal Regulations[^c-6a9a094b51177969c047fb1aeb941cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 17 of the principal Regulations[^key-6a9a094b51177969c047fb1aeb941cbd]
+## 9. Amendment of regulation 17 of the principal Regulations[^c-6a9a094b51177969c047fb1aeb941cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 19 of the principal Regulations[^key-6a9a094b51177969c047fb1aeb941cbd]
+## 10. Amendment of regulation 19 of the principal Regulations[^c-6a9a094b51177969c047fb1aeb941cbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a9a094b51177969c047fb1aeb941cbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a9a094b51177969c047fb1aeb941cbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6a9a094b51177969c047fb1aeb941cbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a9a094b51177969c047fb1aeb941cbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a9a094b51177969c047fb1aeb941cbd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/1667) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-6a9a094b51177969c047fb1aeb941cbd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/1667) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

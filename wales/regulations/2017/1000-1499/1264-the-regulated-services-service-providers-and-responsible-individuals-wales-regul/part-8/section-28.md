@@ -24,7 +24,7 @@ summary: ''
 
 (2) The policy and procedures which are required by this regulation to be in place must set out the steps which are to be taken to enable and support people to manage their own money and to protect individuals from financial abuse.
 
-(2A)[^key-bfd88ef620b2d14ee306638376dcf929] Where a service provides accommodation for children, the policy and procedures required by this regulation must set out the steps which the service provider will take to ensure adequate oversight and monitoring of savings made by or on behalf of children including arrangements for keeping records of savings (and expenditure from savings) and passing on these records when a placement comes to an end.
+(2A)[^c-bfd88ef620b2d14ee306638376dcf929] Where a service provides accommodation for children, the policy and procedures required by this regulation must set out the steps which the service provider will take to ensure adequate oversight and monitoring of savings made by or on behalf of children including arrangements for keeping records of savings (and expenditure from savings) and passing on these records when a placement comes to an end.
 
 (3) Where an individual's money is held by the service provider for any purpose (apart from moneys held for the purpose of paying charges payable by the individual in accordance with any agreement with the service provider), the policy and procedures required by this regulation must provide—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfd88ef620b2d14ee306638376dcf929]: Textual amendment: Reg. 28(2A) added (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2019/757/regulation/7)
+[^c-bfd88ef620b2d14ee306638376dcf929]: Textual amendment: Reg. 28(2A) added (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2019/757/regulation/7)

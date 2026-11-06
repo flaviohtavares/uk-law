@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Review of contact direction[^key-9271cf841fa9c0c4797eb0ae5c3c1a32]
+## 126. Review of contact direction[^c-9271cf841fa9c0c4797eb0ae5c3c1a32]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9271cf841fa9c0c4797eb0ae5c3c1a32]: Commencement: S. 126 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-9271cf841fa9c0c4797eb0ae5c3c1a32]: Commencement: S. 126 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

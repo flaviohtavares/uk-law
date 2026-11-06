@@ -42,95 +42,95 @@ authorising the placing on the market of products containing, consisting of, or 
 
 (2010/429/EU) (revoked)
 
-[^key-8544c6d3c10276c6ebcf5016dec03012]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8544c6d3c10276c6ebcf5016dec03012]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Genetically modified organism and unique identifier[^key-8544c6d3c10276c6ebcf5016dec03012]
+## Article 1. Genetically modified organism and unique identifier[^c-8544c6d3c10276c6ebcf5016dec03012]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Authorisation[^key-8544c6d3c10276c6ebcf5016dec03012]
+## Article 2. Authorisation[^c-8544c6d3c10276c6ebcf5016dec03012]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-8544c6d3c10276c6ebcf5016dec03012]
+## Article 3. Labelling[^c-8544c6d3c10276c6ebcf5016dec03012]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Monitoring for environmental effects[^key-8544c6d3c10276c6ebcf5016dec03012]
+## Article 4. Monitoring for environmental effects[^c-8544c6d3c10276c6ebcf5016dec03012]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Register[^key-8544c6d3c10276c6ebcf5016dec03012]
+## Article 5. Register[^c-8544c6d3c10276c6ebcf5016dec03012]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Authorisation holder[^key-8544c6d3c10276c6ebcf5016dec03012]
+## Article 6. Authorisation holder[^c-8544c6d3c10276c6ebcf5016dec03012]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Validity[^key-8544c6d3c10276c6ebcf5016dec03012]
+## Article 7. Validity[^c-8544c6d3c10276c6ebcf5016dec03012]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Addressee[^key-8544c6d3c10276c6ebcf5016dec03012]
+## Article 8. Addressee[^c-8544c6d3c10276c6ebcf5016dec03012]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-8544c6d3c10276c6ebcf5016dec03012]
+## ANNEX[^c-8544c6d3c10276c6ebcf5016dec03012]
 
-[^key-8544c6d3c10276c6ebcf5016dec03012](a)
+[^c-8544c6d3c10276c6ebcf5016dec03012](a)
 
 **Applicant and authorisation holder:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8544c6d3c10276c6ebcf5016dec03012](b)
+[^c-8544c6d3c10276c6ebcf5016dec03012](b)
 
 **Designation and specification of the products:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8544c6d3c10276c6ebcf5016dec03012](c)
+[^c-8544c6d3c10276c6ebcf5016dec03012](c)
 
 **Labelling:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8544c6d3c10276c6ebcf5016dec03012](d)
+[^c-8544c6d3c10276c6ebcf5016dec03012](d)
 
 **Method for detection:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8544c6d3c10276c6ebcf5016dec03012](e)
+[^c-8544c6d3c10276c6ebcf5016dec03012](e)
 
 **Unique identifier:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8544c6d3c10276c6ebcf5016dec03012](f)
+[^c-8544c6d3c10276c6ebcf5016dec03012](f)
 
 **Information required under Annex II to the Cartagena Protocol on Biosafety to the Convention on Biological Diversity:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8544c6d3c10276c6ebcf5016dec03012](g)
+[^c-8544c6d3c10276c6ebcf5016dec03012](g)
 
 **Conditions or restrictions on the placing on the market, use or handling of the products:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8544c6d3c10276c6ebcf5016dec03012](h)
+[^c-8544c6d3c10276c6ebcf5016dec03012](h)
 
 **Monitoring plan:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8544c6d3c10276c6ebcf5016dec03012](i)
+[^c-8544c6d3c10276c6ebcf5016dec03012](i)
 
 **Post-market monitoring requirements for the use of the food for human consumption:**
 
@@ -138,4 +138,4 @@ authorising the placing on the market of products containing, consisting of, or 
 
 ## Annotations
 
-[^key-8544c6d3c10276c6ebcf5016dec03012]: Textual amendment: Decision revoked: (E.) (26.4.2023) by [The Genetically Modified Food and Feed (Authorisations and Modifications of Authorisations) (England) Regulations 2023 (S.I. 2023/235)](https://www.legislation.gov.uk/uksi/2023/235), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/235/regulation/1/b), [22](https://www.legislation.gov.uk/uksi/2023/235/regulation/22); (S.) (26.4.2023) by [The Genetically Modified Food and Feed (Authorisations and Modifications of Authorisations) (Scotland) Regulations 2023 (S.S.I. 2023/59)](https://www.legislation.gov.uk/ssi/2023/59), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/59/regulation/1/1), [23](https://www.legislation.gov.uk/ssi/2023/59/regulation/23); and (W.) (26.4.2023) by [The Genetically Modified Food and Feed (Authorisations and Modifications of Authorisations) (Wales) Regulations 2023 (S.I. 2023/379)](https://www.legislation.gov.uk/wsi/2023/379), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/379/regulation/1/2/c), [22](https://www.legislation.gov.uk/wsi/2023/379/regulation/22)
+[^c-8544c6d3c10276c6ebcf5016dec03012]: Textual amendment: Decision revoked: (E.) (26.4.2023) by [The Genetically Modified Food and Feed (Authorisations and Modifications of Authorisations) (England) Regulations 2023 (S.I. 2023/235)](https://www.legislation.gov.uk/uksi/2023/235), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/235/regulation/1/b), [22](https://www.legislation.gov.uk/uksi/2023/235/regulation/22); (S.) (26.4.2023) by [The Genetically Modified Food and Feed (Authorisations and Modifications of Authorisations) (Scotland) Regulations 2023 (S.S.I. 2023/59)](https://www.legislation.gov.uk/ssi/2023/59), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/59/regulation/1/1), [23](https://www.legislation.gov.uk/ssi/2023/59/regulation/23); and (W.) (26.4.2023) by [The Genetically Modified Food and Feed (Authorisations and Modifications of Authorisations) (Wales) Regulations 2023 (S.I. 2023/379)](https://www.legislation.gov.uk/wsi/2023/379), [regs. 1(2)(c)](https://www.legislation.gov.uk/wsi/2023/379/regulation/1/2/c), [22](https://www.legislation.gov.uk/wsi/2023/379/regulation/22)

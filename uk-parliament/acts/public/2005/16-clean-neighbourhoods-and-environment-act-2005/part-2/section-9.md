@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Fixed penalty notices: supplementary[^key-2d87495e7c907d6ee16507df0ad66361][^key-1cf2c0b5fc69250f4b2c913ef127f628]
+## 9. Fixed penalty notices: supplementary[^c-2d87495e7c907d6ee16507df0ad66361][^c-1cf2c0b5fc69250f4b2c913ef127f628]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d87495e7c907d6ee16507df0ad66361]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2005/16/section/9) in force at 14.3.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/795/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/795/schedule/1)
+[^c-2d87495e7c907d6ee16507df0ad66361]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2005/16/section/9) in force at 14.3.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/795/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/795/schedule/1)
 
-[^key-1cf2c0b5fc69250f4b2c913ef127f628]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2005/16/section/9) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(d)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/d)
+[^c-1cf2c0b5fc69250f4b2c913ef127f628]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2005/16/section/9) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(d)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/d)

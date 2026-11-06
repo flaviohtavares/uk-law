@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 129. Recovery of child support maintenance by deduction from benefit[^key-61c266c6e14e02082033474b0e3a6c75]
+## 129. Recovery of child support maintenance by deduction from benefit[^c-61c266c6e14e02082033474b0e3a6c75]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ In Article 40 of the Child Support (Northern Ireland) Order 1991 (as substituted
 
 ## Annotations
 
-[^key-61c266c6e14e02082033474b0e3a6c75]: Commencement: [Art. 129](https://www.legislation.gov.uk/nisi/2015/2006/article/129) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/b)
+[^c-61c266c6e14e02082033474b0e3a6c75]: Commencement: [Art. 129](https://www.legislation.gov.uk/nisi/2015/2006/article/129) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(5)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/5/b)

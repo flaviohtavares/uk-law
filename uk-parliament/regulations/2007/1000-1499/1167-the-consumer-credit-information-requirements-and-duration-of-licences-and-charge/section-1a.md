@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Application[^key-420fce6ee95208cc30129fca1ebf03e1]
+## 1A. Application[^c-420fce6ee95208cc30129fca1ebf03e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ The following do not apply in relation to Northern Ireland—
 
 ## Annotations
 
-[^key-420fce6ee95208cc30129fca1ebf03e1]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1A) inserted (26.9.2014) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2014 (S.I. 2014/2369)](https://www.legislation.gov.uk/uksi/2014/2369), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2369/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/2369/regulation/2/2)
+[^c-420fce6ee95208cc30129fca1ebf03e1]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1A) inserted (26.9.2014) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2014 (S.I. 2014/2369)](https://www.legislation.gov.uk/uksi/2014/2369), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2369/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/2369/regulation/2/2)

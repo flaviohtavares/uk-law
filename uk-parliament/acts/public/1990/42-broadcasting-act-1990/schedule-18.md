@@ -36,23 +36,23 @@ Section 180.
 
 **4.**[^M_F_bc54e6ba-65de-465a-8cca-60afc36fc9bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Amendments of Part I of Wireless Telegraphy Act 1967[^key-ee3169747794201d13408eca24c10bff]
+### Part II — Amendments of Part I of Wireless Telegraphy Act 1967[^c-ee3169747794201d13408eca24c10bff]
 
 **No longer in force.**
 
-**1.**[^key-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ee3169747794201d13408eca24c10bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -70,4 +70,4 @@ Section 180.
 
 [^M_F_bc54e6ba-65de-465a-8cca-60afc36fc9bc]: Textual amendment: Sch. 18 Pt. I para. 4 repealed (1.4.2004) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), s. 411(2), Sch. 19(1) Note 1 (with Sch. 18); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 4(2), Sch. 2 (with art. 11)
 
-[^key-ee3169747794201d13408eca24c10bff]: Textual amendment: Sch. 18 Pt. 2 repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/21/paragraph/2)
+[^c-ee3169747794201d13408eca24c10bff]: Textual amendment: Sch. 18 Pt. 2 repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/21/paragraph/2)

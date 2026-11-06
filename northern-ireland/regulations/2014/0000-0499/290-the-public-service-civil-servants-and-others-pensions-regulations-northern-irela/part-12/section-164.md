@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 164. Guaranteed minimum pensions[^key-ae3461a0b034766feb5a1b507fccf4b2]
+## 164. Guaranteed minimum pensions[^c-ae3461a0b034766feb5a1b507fccf4b2]
 
 *Extent: N.I.*
 
@@ -69,7 +69,7 @@ but a person falling within paragraph (7) is not to be regarded as a pensioner f
 
 - (a) a pension that is forfeited—
   - (i) as a result of a conviction for treason; or
-  - (ii) under regulation 165, in a case where the relevant offence within the meaning of regulation 165 is an offence under the Official Secrets Acts 1911 to 1989[^f00085] or an applicable offence under the National Security Act 2023[^key-b50e780694fbe6271dccfa92a0f58b93] ;
+  - (ii) under regulation 165, in a case where the relevant offence within the meaning of regulation 165 is an offence under the Official Secrets Acts 1911 to 1989[^f00085] or an applicable offence under the National Security Act 2023[^c-b50e780694fbe6271dccfa92a0f58b93] ;
 - (b) a pension that is commuted under regulation 85 or 98 (serious ill-health: commutation of whole pension); or
 - (c) a pension that is commuted under regulation 163 where the conditions in regulation 60 (payment of a guaranteed minimum pension as a lump sum) of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996[^f00086] are met,
 
@@ -79,7 +79,7 @@ but if any other provision of this scheme is inconsistent with this regulation, 
 
 ## Annotations
 
-[^key-ae3461a0b034766feb5a1b507fccf4b2]: Commencement: [Reg. 164](https://www.legislation.gov.uk/nisr/2014/290/regulation/164) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-ae3461a0b034766feb5a1b507fccf4b2]: Commencement: [Reg. 164](https://www.legislation.gov.uk/nisr/2014/290/regulation/164) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00083]: Footnote: Section 10 was amended by the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) Arts.147, 168, Sch.3 para. 20, Sch.5 Pt. III, the Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)) Art.3(1) and Sch.1 para.41, the Proceeds of Crime Act 2002 ([2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29)) Section 456, Schedule.2 para 23(3)
 
@@ -87,6 +87,6 @@ but if any other provision of this scheme is inconsistent with this regulation, 
 
 [^f00085]: Footnote: [1989 c.6](https://www.legislation.gov.uk/ukpga/1989/6); see section 16(2) for the meaning of “Official Secrets Acts 1911 to 1989”
 
-[^key-b50e780694fbe6271dccfa92a0f58b93]: Textual amendment: Words in [reg. 164(9)(a)(ii)](https://www.legislation.gov.uk/nisr/2014/290/regulation/164/9/a/ii) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 37(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/37/3)
+[^c-b50e780694fbe6271dccfa92a0f58b93]: Textual amendment: Words in [reg. 164(9)(a)(ii)](https://www.legislation.gov.uk/nisr/2014/290/regulation/164/9/a/ii) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 37(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/37/3)
 
 [^f00086]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493). Regulation 60 was substituted by [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744) and amended by [S.R. 2006 No. 223](https://www.legislation.gov.uk/nisr/2006/223), [S.R. 2009 No. 365](https://www.legislation.gov.uk/nisr/2009/365) and [S.R. 2010 No. 108](https://www.legislation.gov.uk/nisr/2010/108)

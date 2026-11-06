@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Reports following exercise of a stabilisation power[^key-e47c25f4bcbac9771415543da5824d63]
+## 99. Reports following exercise of a stabilisation power[^c-e47c25f4bcbac9771415543da5824d63]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e47c25f4bcbac9771415543da5824d63]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2012/21/section/99) in force at 1.1.2015 by [S.I. 2014/3323](https://www.legislation.gov.uk/uksi/2014/3323), [art. 2](https://www.legislation.gov.uk/uksi/2014/3323/article/2)
+[^c-e47c25f4bcbac9771415543da5824d63]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2012/21/section/99) in force at 1.1.2015 by [S.I. 2014/3323](https://www.legislation.gov.uk/uksi/2014/3323), [art. 2](https://www.legislation.gov.uk/uksi/2014/3323/article/2)

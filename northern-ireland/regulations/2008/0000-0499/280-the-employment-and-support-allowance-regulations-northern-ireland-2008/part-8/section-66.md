@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Modifications of the Act[^key-7d33f91aa60945c3d8b801344afbe775]
+## 66. Modifications of the Act[^c-7d33f91aa60945c3d8b801344afbe775]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ Where a person has made a claim for an employment and support allowance to which
 
 ## Annotations
 
-[^key-7d33f91aa60945c3d8b801344afbe775]: Commencement: [Reg. 66](https://www.legislation.gov.uk/nisr/2008/280/regulation/66) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-7d33f91aa60945c3d8b801344afbe775]: Commencement: [Reg. 66](https://www.legislation.gov.uk/nisr/2008/280/regulation/66) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

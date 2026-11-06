@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Revocations, savings and transitional provisions[^key-50b53a7b3b8ae639e64a355ac69de4ea]
+## 33. Revocations, savings and transitional provisions[^c-50b53a7b3b8ae639e64a355ac69de4ea]
 
 *Extent: S*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-50b53a7b3b8ae639e64a355ac69de4ea]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2010/208/regulation/33) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-50b53a7b3b8ae639e64a355ac69de4ea]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2010/208/regulation/33) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
 
 [^f00045]: Footnote: [S.I. 1996/177](https://www.legislation.gov.uk/uksi/1996/177).
 

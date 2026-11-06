@@ -26,10 +26,10 @@ summary: ''
 
 (3) A reasonable charge reflecting printing and distribution costs may be made to a member of the public for a copy of an EIA report provided in accordance with paragraph (2).
 
-(4)[^key-7880f8ea2214dfbc6481784b0202e619] During the emergency period the developer is not required by this regulation to ensure that copies of the EIA report are available for inspection at a place or address.
+(4)[^c-7880f8ea2214dfbc6481784b0202e619] During the emergency period the developer is not required by this regulation to ensure that copies of the EIA report are available for inspection at a place or address.
 
 (5) For the purposes of this regulation, the “emergency period” is the period beginning on 24 April 2020 and ending on the date on which Part 1 of the Coronavirus (Scotland) Act 2020 expires in accordance with section 12 of that Act.
 
 ## Annotations
 
-[^key-7880f8ea2214dfbc6481784b0202e619]: Textual amendment: [Reg. 25(4)](https://www.legislation.gov.uk/ssi/2017/102/regulation/25/4)[(5)](https://www.legislation.gov.uk/ssi/2017/102/regulation/25/5) inserted (24.4.2020) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/124)](https://www.legislation.gov.uk/ssi/2020/124), [regs. 1](https://www.legislation.gov.uk/ssi/2020/124/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2020/124/regulation/4/2)
+[^c-7880f8ea2214dfbc6481784b0202e619]: Textual amendment: [Reg. 25(4)](https://www.legislation.gov.uk/ssi/2017/102/regulation/25/4)[(5)](https://www.legislation.gov.uk/ssi/2017/102/regulation/25/5) inserted (24.4.2020) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/124)](https://www.legislation.gov.uk/ssi/2020/124), [regs. 1](https://www.legislation.gov.uk/ssi/2020/124/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2020/124/regulation/4/2)

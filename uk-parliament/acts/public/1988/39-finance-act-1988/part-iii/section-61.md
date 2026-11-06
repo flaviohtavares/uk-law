@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-c156aac3471c46576ceb5adde2e5d438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-c156aac3471c46576ceb5adde2e5d438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In Schedule 10 to the Taxes Act 1970, in paragraph 7(3), for the words “Case I of Schedule D” there shall be substituted the words “ in accordance with Schedule 16 to [^c13527511]Finance Act 1973 ” and the words “the investments forming part of the premiums trust fund of the underwriter” shall cease to have effect.
 
@@ -36,11 +36,11 @@ summary: ''
 
   > (1A) Regulations under this paragraph may make provision with respect to the year of assessment next but one preceding the year of assessment in which they are made.
 
-(5) [^key-595a45efaa76517988f9a91626592ba8]... subsections (2) to (4) above shall have effect for the years 1986-87 and 1987-88.
+(5) [^c-595a45efaa76517988f9a91626592ba8]... subsections (2) to (4) above shall have effect for the years 1986-87 and 1987-88.
 
 ## Annotations
 
-[^key-c156aac3471c46576ceb5adde2e5d438]: Textual amendment: [S. 61(1)](https://www.legislation.gov.uk/ukpga/1988/39/section/61/1) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-c156aac3471c46576ceb5adde2e5d438]: Textual amendment: [S. 61(1)](https://www.legislation.gov.uk/ukpga/1988/39/section/61/1) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c13527511]: Marginal citation: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51).
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c13527531]: Marginal citation: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51).
 
-[^key-595a45efaa76517988f9a91626592ba8]: Textual amendment: Words in [s. 61(5)](https://www.legislation.gov.uk/ukpga/1988/39/section/61/5) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-595a45efaa76517988f9a91626592ba8]: Textual amendment: Words in [s. 61(5)](https://www.legislation.gov.uk/ukpga/1988/39/section/61/5) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

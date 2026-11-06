@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) If, on receipt of a notification from any person proposing to carry out development within Class K , KA[^key-35dc3f8613ca0e2b034d5447053b1f58] or M of Part 17 of Schedule 2, a mineral planning authority [^c22501251] are satisfied as mentioned in paragraph (2), they may, within a period of 21 days beginning with the receipt of the notification, direct that the permission granted by article 3 does not apply to the development, or to such part of the development as is specified in the direction.
+(1) If, on receipt of a notification from any person proposing to carry out development within Class K , KA[^c-35dc3f8613ca0e2b034d5447053b1f58] or M of Part 17 of Schedule 2, a mineral planning authority [^c22501251] are satisfied as mentioned in paragraph (2), they may, within a period of 21 days beginning with the receipt of the notification, direct that the permission granted by article 3 does not apply to the development, or to such part of the development as is specified in the direction.
 
 (2) The mineral planning authority may make a direction under this article if they are satisfied that it is expedient that the development, or any part of it, should not be carried out unless permission for it is granted on an application because—
 
@@ -30,8 +30,8 @@ summary: ''
   - (iii) a site of archaeological interest, and the operation to be carried out is not one described in the Schedule to the Areas of Archaeological Importance (Notification of Operations) (Exemption) Order 1984 (exempt operations) [^c22501261];
   - (iv) a site of special scientific interest; or
   - (v) the Broads;
-- (aa)[^key-4e6d8aac2860a617fa4f1661600a9dda] in the case of development otherwise permitted under Class KA, the land on which the development is to be carried out is within a protected groundwater source area (as defined in Class JA of Part 17 of Schedule 2);
-- (b) the development, either taken by itself or taken in conjunction with other development which is already being carried out in the area or in respect of which notification has been given under the provisions of Class K , KA[^key-376f893913c6ddaff88c60f8e8815c8c] or M of Part 17 of Schedule 2 would cause serious detriment to the amenity of the area in which it is to be carried out or would adversely affect the setting of a Grade I listed building;
+- (aa)[^c-4e6d8aac2860a617fa4f1661600a9dda] in the case of development otherwise permitted under Class KA, the land on which the development is to be carried out is within a protected groundwater source area (as defined in Class JA of Part 17 of Schedule 2);
+- (b) the development, either taken by itself or taken in conjunction with other development which is already being carried out in the area or in respect of which notification has been given under the provisions of Class K , KA[^c-376f893913c6ddaff88c60f8e8815c8c] or M of Part 17 of Schedule 2 would cause serious detriment to the amenity of the area in which it is to be carried out or would adversely affect the setting of a Grade I listed building;
 - (c) the development would constitute a serious nuisance to the inhabitants of a nearby residential building, hospital or school; or
 - (d) the development would endanger aircraft using a nearby aerodrome.
 
@@ -43,12 +43,12 @@ summary: ''
 
 ## Annotations
 
-[^key-35dc3f8613ca0e2b034d5447053b1f58]: Textual amendment: Word in art. 5(1) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [13(a)](https://www.legislation.gov.uk/uksi/2016/332/article/13/a)
+[^c-35dc3f8613ca0e2b034d5447053b1f58]: Textual amendment: Word in art. 5(1) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [13(a)](https://www.legislation.gov.uk/uksi/2016/332/article/13/a)
 
 [^c22501251]: Marginal citation: *See* section 1(4) of the Act.
 
 [^c22501261]: Marginal citation: [S.I. 1984/1286](https://www.legislation.gov.uk/uksi/1984/1286).
 
-[^key-4e6d8aac2860a617fa4f1661600a9dda]: Textual amendment: Art. 5(2)(aa) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [13(b)](https://www.legislation.gov.uk/uksi/2016/332/article/13/b)
+[^c-4e6d8aac2860a617fa4f1661600a9dda]: Textual amendment: Art. 5(2)(aa) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [13(b)](https://www.legislation.gov.uk/uksi/2016/332/article/13/b)
 
-[^key-376f893913c6ddaff88c60f8e8815c8c]: Textual amendment: Word in art. 5(2)(b) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [13(c)](https://www.legislation.gov.uk/uksi/2016/332/article/13/c)
+[^c-376f893913c6ddaff88c60f8e8815c8c]: Textual amendment: Word in art. 5(2)(b) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [13(c)](https://www.legislation.gov.uk/uksi/2016/332/article/13/c)

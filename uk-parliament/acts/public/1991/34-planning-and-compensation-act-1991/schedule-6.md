@@ -26,7 +26,7 @@ Section 31.
 
 **1.**[^c15662651] (1) In section 15 of the Land Compensation Act 1961 (assumptions not directly derived from development plans)—
 
-- (a)[^key-13a77367978a28486a51928b87d9422b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-13a77367978a28486a51928b87d9422b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (4), paragraphs (a) and (b) are omitted.
 
 (2) This paragraph shall have effect, or be treated as having had effect, in relation to compensation which fell or falls to be assessed by reference to prices current on 16th November 1990 or on any subsequent date.
@@ -198,7 +198,7 @@ Section 31.
 
 (2) In subsection (2) of that section “27,” is omitted.
 
-**43.**[^key-a7ca33dfa4c7ec4159bef735f96b4e05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-a7ca33dfa4c7ec4159bef735f96b4e05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **44.**[^c15663171] In section 32(4) of that Act (purchase notices) for “new development” there is substituted “ development (other than any development specified in paragraph 1 or 2 of Schedule 3 to the principal Act) ”.
 
@@ -223,7 +223,7 @@ Section 31.
 
 [^c15662651]: Commencement: Sch. 6 para. 1 in force at 25. 07.1991 see s. 84(4).
 
-[^key-13a77367978a28486a51928b87d9422b]: Textual amendment: [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/1/1/a) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-13a77367978a28486a51928b87d9422b]: Textual amendment: [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/1/1/a) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
 [^c15662661]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/2) wholly in force at 25.9.1991, see [s. 84(2)(3)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/2/3) and [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3)
 
@@ -325,7 +325,7 @@ Section 31.
 
 [^c15663151]: Commencement: [Sch. 6 para. 42](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/42) wholly in force at 25.9.1991, see [s. 84(2)(3)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/2/3) and [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3)
 
-[^key-a7ca33dfa4c7ec4159bef735f96b4e05]: Textual amendment: [Sch. 6 para. 43](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/43) omitted (4.11.2024) by virtue of [2023 asc 3](https://www.legislation.gov.uk/asc/2023/3), [Sch. 13 para. 161A](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/161A) (as substituted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061)](https://www.legislation.gov.uk/uksi/2024/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1061/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2024/1061/regulation/20); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))
+[^c-a7ca33dfa4c7ec4159bef735f96b4e05]: Textual amendment: [Sch. 6 para. 43](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/43) omitted (4.11.2024) by virtue of [2023 asc 3](https://www.legislation.gov.uk/asc/2023/3), [Sch. 13 para. 161A](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/161A) (as substituted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061)](https://www.legislation.gov.uk/uksi/2024/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1061/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2024/1061/regulation/20); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))
 
 [^c15663171]: Commencement: [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/44) wholly in force at 25.9.1991, see [s. 84(2)(3)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/2/3) and [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3)
 

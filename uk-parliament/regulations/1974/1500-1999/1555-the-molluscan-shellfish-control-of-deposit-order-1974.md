@@ -33,7 +33,7 @@ SEA FISHERIES
 
 SHELLFISH
 
-The Molluscan Shellfish (Control of Deposit) Order 1974 (revoked)[^key-cd6f02a1854d8cfc5603798462d80808]
+The Molluscan Shellfish (Control of Deposit) Order 1974 (revoked)[^c-cd6f02a1854d8cfc5603798462d80808]
 
 Made
 
@@ -43,46 +43,46 @@ Coming into Operation
 
 7th October 1974
 
-[^key-cd6f02a1854d8cfc5603798462d80808]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd6f02a1854d8cfc5603798462d80808]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cd6f02a1854d8cfc5603798462d80808]
+## 1. Citation and commencement[^c-cd6f02a1854d8cfc5603798462d80808]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-cd6f02a1854d8cfc5603798462d80808]
+## 2. Interpretation[^c-cd6f02a1854d8cfc5603798462d80808]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of previous orders[^key-cd6f02a1854d8cfc5603798462d80808]
+## 3. Revocation of previous orders[^c-cd6f02a1854d8cfc5603798462d80808]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation of waters[^key-cd6f02a1854d8cfc5603798462d80808]
+## 4. Designation of waters[^c-cd6f02a1854d8cfc5603798462d80808]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prohibition[^key-cd6f02a1854d8cfc5603798462d80808]
+## 5. Prohibition[^c-cd6f02a1854d8cfc5603798462d80808]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exceptions[^key-cd6f02a1854d8cfc5603798462d80808]
+## 6. Exceptions[^c-cd6f02a1854d8cfc5603798462d80808]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd6f02a1854d8cfc5603798462d80808]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd6f02a1854d8cfc5603798462d80808]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — DESIGNATED WATERS[^key-cd6f02a1854d8cfc5603798462d80808]
+## SCHEDULE — DESIGNATED WATERS[^c-cd6f02a1854d8cfc5603798462d80808]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cd6f02a1854d8cfc5603798462d80808]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd6f02a1854d8cfc5603798462d80808]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd6f02a1854d8cfc5603798462d80808]: Textual amendment: Order revoked (E.) (1.7.2015) by [The Animals, Water and Sea Fisheries (Miscellaneous Revocations) Order 2015 (S.I. 2015/751)](https://www.legislation.gov.uk/uksi/2015/751), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/751/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/751/article/3/a) (with [reg. 1(4)(6)](https://www.legislation.gov.uk/uksi/2015/751/regulation/1/4/6))
+[^c-cd6f02a1854d8cfc5603798462d80808]: Textual amendment: Order revoked (E.) (1.7.2015) by [The Animals, Water and Sea Fisheries (Miscellaneous Revocations) Order 2015 (S.I. 2015/751)](https://www.legislation.gov.uk/uksi/2015/751), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/751/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/751/article/3/a) (with [reg. 1(4)(6)](https://www.legislation.gov.uk/uksi/2015/751/regulation/1/4/6))

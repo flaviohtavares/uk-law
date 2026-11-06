@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 58(1), 74, 97 and 104(1) and (3) of, and paragraph 2(2) of Schedule 3A to, the New Roads and Street Works Act 1991 [^c23975281] and section 37(1), (6) to (8), (11) and (13) of the Traffic Management Act 2004 [^c23975291].
 
-## 1. Citation and commencement[^key-3da7f9849fb0a24e1d8f67088efebeea]
+## 1. Citation and commencement[^c-3da7f9849fb0a24e1d8f67088efebeea]
 
 (1) These Regulations may be cited as the Street and Road Works (Amendments Relating to Electronic Communications) (England) Regulations 2020.
 
-(2) These Regulations come into force on 1st July[^key-80682bd4ebf9a466e723e406eec3de38] 2020.
+(2) These Regulations come into force on 1st July[^c-80682bd4ebf9a466e723e406eec3de38] 2020.
 
-## 2. Amendments relating to service of documents: application and transitional provisions[^key-9f2631ad5305ead83f7a54bcf0f78b00]
+## 2. Amendments relating to service of documents: application and transitional provisions[^c-9f2631ad5305ead83f7a54bcf0f78b00]
 
 (1) The amendments made by the following provisions apply only in respect of works falling within paragraph (3), (4) or (5)—
 
@@ -66,20 +66,20 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (a) street works, or
 - (b) works for road purposes within the meaning of section 86(2) of the New Roads and Street Works Act 1991.
 
-(3) Works fall within this paragraph if the initial application for the works (see paragraph (7)) is made after 30th June[^key-310bf5b5fd5d264e30585e32f8e78425] 2020.
+(3) Works fall within this paragraph if the initial application for the works (see paragraph (7)) is made after 30th June[^c-310bf5b5fd5d264e30585e32f8e78425] 2020.
 
 (4) Works fall within this paragraph if—
 
-- (a) the initial application for the works is made before 1st July[^key-0b95cdc53dce1992d8c08482d8d2380f] 2020, and
-- (b) the final notice for the works (see paragraph (7)) is not given before 1st August[^key-2be7d76d1091accd94068c547394acb8] 2020.
+- (a) the initial application for the works is made before 1st July[^c-0b95cdc53dce1992d8c08482d8d2380f] 2020, and
+- (b) the final notice for the works (see paragraph (7)) is not given before 1st August[^c-2be7d76d1091accd94068c547394acb8] 2020.
 
 (5) Works fall within this paragraph if—
 
-- (a) the works are immediate works which start before 1st July[^key-52a97f34befcf9cbb6f15011bc2be158] 2020,
+- (a) the works are immediate works which start before 1st July[^c-52a97f34befcf9cbb6f15011bc2be158] 2020,
 - (b) the initial application for the works is not made before 1st July 2020, and
-- (c) the final notice for the works is not given before 1st August[^key-f79a520377e50b9993b0c5240a967d04] 2020.
+- (c) the final notice for the works is not given before 1st August[^c-f79a520377e50b9993b0c5240a967d04] 2020.
 
-(6) In a case of works falling within paragraph (4) or (5), the person carrying out the works must promptly after 31st July[^key-088f42552b29ed73ceabc82f802ca54c] 2020 register the original record (see paragraph (7)) with the Department for Transport by means of—
+(6) In a case of works falling within paragraph (4) or (5), the person carrying out the works must promptly after 31st July[^c-088f42552b29ed73ceabc82f802ca54c] 2020 register the original record (see paragraph (7)) with the Department for Transport by means of—
 
 - (a) the Department's digital service for planning and managing roadworks [^c23975301], or
 - (b) an interface which complies with the Department's Application Programming Interface (API) specification for planning and managing roadworks, published on 19th December 2019, version 1.12 [^c23975311], as revised or re-issued from time to time.
@@ -101,7 +101,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
     - (ii) if there is none, the permit granted under the permit scheme, or
   - (b) in any other case, the notice for the works under section 54 or 55 of the New Roads and Street Works Act 1991 (or, if notices are given under section 54 and section 55, the notice given first).
 
-## 3. Amendments to the Street Works (Registers, Notices, Directions and Designations) (England) Regulations 2007[^key-19d543aaef1b9e2d7c2b8657ed15e677]
+## 3. Amendments to the Street Works (Registers, Notices, Directions and Designations) (England) Regulations 2007[^c-19d543aaef1b9e2d7c2b8657ed15e677]
 
 (1) The Street Works (Registers, Notices, Directions and Designations) (England) Regulations 2007 are amended as follows.
 
@@ -208,7 +208,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (7) Omit regulation 12(5) and (6).
 
-## 4. Amendments to the Street Works (Fixed Penalty) (England) Regulations 2007[^key-970b22093e00803be880cc36777fa2de]
+## 4. Amendments to the Street Works (Fixed Penalty) (England) Regulations 2007[^c-970b22093e00803be880cc36777fa2de]
 
 (1) The Street Works (Fixed Penalty) (England) Regulations 2007 [^c23975381] are amended as follows.
 
@@ -249,7 +249,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (5) Omit Schedules 1 and 3.
 
-## 5. Amendments to the Traffic Management Permit Scheme (England) Regulations 2007[^key-9888c66826e07857eb30f002c7ff2ada]
+## 5. Amendments to the Traffic Management Permit Scheme (England) Regulations 2007[^c-9888c66826e07857eb30f002c7ff2ada]
 
 (1) The Traffic Management Permit Scheme (England) Regulations 2007 are amended as follows.
 
@@ -436,7 +436,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (9) Omit Schedules 1 and 2.
 
-## 6. Amendments to the Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009[^key-904b9fb8a2286e1d1c439e6b8aa6eb6a]
+## 6. Amendments to the Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009[^c-904b9fb8a2286e1d1c439e6b8aa6eb6a]
 
 (1) The Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009 [^c23975421] are amended as follows.
 
@@ -557,23 +557,23 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23975291]: Marginal citation: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18). Section 37(1) was amended by paragraphs 4 and 9(1) and (2)(a) of Schedule 10 to the [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-3da7f9849fb0a24e1d8f67088efebeea]: Commencement: Reg. 1 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
+[^c-3da7f9849fb0a24e1d8f67088efebeea]: Commencement: Reg. 1 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
 
-[^key-80682bd4ebf9a466e723e406eec3de38]: Textual amendment: Word in reg. 1(2) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2)
+[^c-80682bd4ebf9a466e723e406eec3de38]: Textual amendment: Word in reg. 1(2) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2)
 
-[^key-9f2631ad5305ead83f7a54bcf0f78b00]: Commencement: Reg. 2 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
+[^c-9f2631ad5305ead83f7a54bcf0f78b00]: Commencement: Reg. 2 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
 
-[^key-310bf5b5fd5d264e30585e32f8e78425]: Textual amendment: Words in reg. 2(3) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/a)
+[^c-310bf5b5fd5d264e30585e32f8e78425]: Textual amendment: Words in reg. 2(3) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/a)
 
-[^key-0b95cdc53dce1992d8c08482d8d2380f]: Textual amendment: Word in reg. 2(4)(a) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/b)
+[^c-0b95cdc53dce1992d8c08482d8d2380f]: Textual amendment: Word in reg. 2(4)(a) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/b)
 
-[^key-2be7d76d1091accd94068c547394acb8]: Textual amendment: Word in reg. 2(4)(b) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/c)
+[^c-2be7d76d1091accd94068c547394acb8]: Textual amendment: Word in reg. 2(4)(b) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/c)
 
-[^key-52a97f34befcf9cbb6f15011bc2be158]: Textual amendment: Word in reg. 2(5) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/d)
+[^c-52a97f34befcf9cbb6f15011bc2be158]: Textual amendment: Word in reg. 2(5) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/d)
 
-[^key-f79a520377e50b9993b0c5240a967d04]: Textual amendment: Word in reg. 2(5)(c) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/e)
+[^c-f79a520377e50b9993b0c5240a967d04]: Textual amendment: Word in reg. 2(5)(c) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/e)
 
-[^key-088f42552b29ed73ceabc82f802ca54c]: Textual amendment: Words in reg. 2(6) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/f)
+[^c-088f42552b29ed73ceabc82f802ca54c]: Textual amendment: Words in reg. 2(6) substituted (30.3.2020) by [The Street and Road Works (Amendments Relating to Electronic Communications) (England) (Amendment) Regulations 2020 (S.I. 2020/346)](https://www.legislation.gov.uk/uksi/2020/346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/1/2), [2(3)(f)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/3/f)
 
 [^c23975301]: Marginal citation: This digital service can be accessed at https://www.gov.uk/guidance/plan-and-manage-roadworks.
 
@@ -585,7 +585,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23975341]: Marginal citation: [S.I.2007/3372](https://www.legislation.gov.uk/uksi/2007/3372), amended by [S.I. 2015/958](https://www.legislation.gov.uk/uksi/2015/958).
 
-[^key-19d543aaef1b9e2d7c2b8657ed15e677]: Commencement: Reg. 3 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
+[^c-19d543aaef1b9e2d7c2b8657ed15e677]: Commencement: Reg. 3 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
 
 [^c23975351]: Marginal citation: [2000, c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
@@ -593,11 +593,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23975371]: Marginal citation: This digital service can be accessed at https://www.gov.uk/guidance/plan-and-manage-roadworks.
 
-[^key-970b22093e00803be880cc36777fa2de]: Commencement: Reg. 4 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
+[^c-970b22093e00803be880cc36777fa2de]: Commencement: Reg. 4 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
 
 [^c23975381]: Marginal citation: [S.I. 2007/1952](https://www.legislation.gov.uk/uksi/2007/1952).
 
-[^key-9888c66826e07857eb30f002c7ff2ada]: Commencement: Reg. 5 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
+[^c-9888c66826e07857eb30f002c7ff2ada]: Commencement: Reg. 5 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
 
 [^c23975391]: Marginal citation: Section 53 of the [New Roads and Street Works Act 1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22) was amended by section 45 to the [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
@@ -605,6 +605,6 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23975411]: Marginal citation: This digital service can be accessed at https://www.gov.uk/guidance/plan-and-manage-roadworks.
 
-[^key-904b9fb8a2286e1d1c439e6b8aa6eb6a]: Commencement: Reg. 6 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
+[^c-904b9fb8a2286e1d1c439e6b8aa6eb6a]: Commencement: Reg. 6 in force at 1.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/122/regulation/1/2) (as amended (30.3.2020) by [S.I. 2020/346](https://www.legislation.gov.uk/uksi/2020/346), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/346/regulation/2/2))
 
 [^c23975421]: Marginal citation: [S.I. 2009/303](https://www.legislation.gov.uk/uksi/2009/303), amended by [S.I 2009/1178](https://www.legislation.gov.uk/uksi/2009/1178), [2012/2272](https://www.legislation.gov.uk/uksi/2012/2272); there are other amending instruments but none is relevant.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Removal of entries from database[^key-984b60e682a6c015e2413ae671826877]
+## 89. Removal of entries from database[^c-984b60e682a6c015e2413ae671826877]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-984b60e682a6c015e2413ae671826877]: Commencement: S. 89 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-984b60e682a6c015e2413ae671826877]: Commencement: S. 89 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

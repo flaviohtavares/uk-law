@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Removal of building society liquidator by the court[^key-3de330642d4b794c38c717c0ed077a58]
+## 95. Removal of building society liquidator by the court[^c-3de330642d4b794c38c717c0ed077a58]
 
 *Extent: E+W*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3de330642d4b794c38c717c0ed077a58]: Commencement: Rule 95 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-3de330642d4b794c38c717c0ed077a58]: Commencement: Rule 95 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00038]: Footnote: Paragraph 5 of rule 4.119 was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).
 

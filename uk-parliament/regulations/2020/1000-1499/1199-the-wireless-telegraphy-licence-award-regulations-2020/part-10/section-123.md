@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Bids made by an excluded bidder[^key-0c24fe3999acc4a786ab466e09bad9ff]
+## 123. Bids made by an excluded bidder[^c-0c24fe3999acc4a786ab466e09bad9ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c24fe3999acc4a786ab466e09bad9ff]: Commencement: Reg. 123 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-0c24fe3999acc4a786ab466e09bad9ff]: Commencement: Reg. 123 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

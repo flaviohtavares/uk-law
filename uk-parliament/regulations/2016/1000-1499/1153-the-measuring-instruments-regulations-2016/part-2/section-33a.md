@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Obligations which are met by complying with obligations in the Directive[^key-2cb7a1180cf49e3321c343f8678c379e]
+## 33A. Obligations which are met by complying with obligations in the Directive[^c-2cb7a1180cf49e3321c343f8678c379e]
 
 *Extent: E+W+S*
 
@@ -69,9 +69,9 @@ summary: ''
 
 - (a) any reference to “declaration of conformity” is to be read as a reference to the EU declaration of conformity;
 - (b) any reference to “UK marking” is to be read as a reference to the CE marking;
-- (c) except in relation to regulations 72 and 73,[^key-ee224b19a0f2fffeff3898dbe41afbba] any reference to “essential requirements” is to be read as a reference to the essential requirements referred to in Annex I and in the relevant instrument-specific Annex which applies to the regulated measuring instrument;
+- (c) except in relation to regulations 72 and 73,[^c-ee224b19a0f2fffeff3898dbe41afbba] any reference to “essential requirements” is to be read as a reference to the essential requirements referred to in Annex I and in the relevant instrument-specific Annex which applies to the regulated measuring instrument;
 - (d) any reference to “designated standard” is to be read as a reference to a harmonised standard;
-- (e) any reference to “[^key-62b9148c9e852cb41406656cffb90eca]... conformity assessment procedure” is to be read as a reference to the relevant conformity assessment procedures that apply to the regulated measuring instrument in accordance with Article 17;
+- (e) any reference to “[^c-62b9148c9e852cb41406656cffb90eca]... conformity assessment procedure” is to be read as a reference to the relevant conformity assessment procedures that apply to the regulated measuring instrument in accordance with Article 17;
 - (f) any reference to “**technical documentation**” is a reference to the technical documentation referred to in Article 18;
 - (g) any reference to “type examination certificate” is to be read as a reference to an EU-type examination certificate; and
 - (h) any reference to “design examination certificate” is to be read as a reference to an EU-design examination certificate;
@@ -81,8 +81,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2cb7a1180cf49e3321c343f8678c379e]: Textual amendment: Regs. 33A-33D inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 18](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/18) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 19(4)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/19/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2cb7a1180cf49e3321c343f8678c379e]: Textual amendment: Regs. 33A-33D inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 18](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/18) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 19(4)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/19/4/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee224b19a0f2fffeff3898dbe41afbba]: Textual amendment: Words in reg. 33A(8)(c) inserted (E.W.S) (9.12.2021) by [The Product Safety and Metrology etc. (Amendment) Regulations 2021 (S.I. 2021/1273)](https://www.legislation.gov.uk/uksi/2021/1273), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1273/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2021/1273/regulation/12/2)
+[^c-ee224b19a0f2fffeff3898dbe41afbba]: Textual amendment: Words in reg. 33A(8)(c) inserted (E.W.S) (9.12.2021) by [The Product Safety and Metrology etc. (Amendment) Regulations 2021 (S.I. 2021/1273)](https://www.legislation.gov.uk/uksi/2021/1273), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1273/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2021/1273/regulation/12/2)
 
-[^key-62b9148c9e852cb41406656cffb90eca]: Textual amendment: Word in reg. 33A(8)(e) omitted (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2024/696/regulation/18/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-62b9148c9e852cb41406656cffb90eca]: Textual amendment: Word in reg. 33A(8)(e) omitted (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2024/696/regulation/18/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

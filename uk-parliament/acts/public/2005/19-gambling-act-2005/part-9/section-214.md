@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Exception to offence of using premises for gambling[^key-434df72d5c6765cceb0c24b37c1976b8]
+## 214. Exception to offence of using premises for gambling[^c-434df72d5c6765cceb0c24b37c1976b8]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-434df72d5c6765cceb0c24b37c1976b8]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2005/19/section/214) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-434df72d5c6765cceb0c24b37c1976b8]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2005/19/section/214) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Limits of deviation[^key-9061e785e3729c1405d8f4bd82b232f6]
+## 7. Limits of deviation[^c-9061e785e3729c1405d8f4bd82b232f6]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ by more than 200 millimetres from its dimension as shown on the design drawings.
 
 ## Annotations
 
-[^key-9061e785e3729c1405d8f4bd82b232f6]: Commencement: Art. 7 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-9061e785e3729c1405d8f4bd82b232f6]: Commencement: Art. 7 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)

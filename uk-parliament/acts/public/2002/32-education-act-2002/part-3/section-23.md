@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Clerk to the governing body[^key-eec1724e7378f4207fa5520db986d2f9][^key-cf047652f459f77828e690870aef8034]
+## 23. Clerk to the governing body[^c-eec1724e7378f4207fa5520db986d2f9][^c-cf047652f459f77828e690870aef8034]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ Regulations may make provision—
 
 ## Annotations
 
-[^key-eec1724e7378f4207fa5520db986d2f9]: Commencement: S. 23 in force at 1.3.2003 except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 2](https://www.legislation.gov.uk/uksi/2003/124/article/2)
+[^c-eec1724e7378f4207fa5520db986d2f9]: Commencement: S. 23 in force at 1.3.2003 except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 2](https://www.legislation.gov.uk/uksi/2003/124/article/2)
 
-[^key-cf047652f459f77828e690870aef8034]: Commencement: S. 23 in force at 31.10.2005 for W. by [S.I. 2005/2910](https://www.legislation.gov.uk/uksi/2005/2910), [art. 4](https://www.legislation.gov.uk/uksi/2005/2910/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/2910/schedule)
+[^c-cf047652f459f77828e690870aef8034]: Commencement: S. 23 in force at 31.10.2005 for W. by [S.I. 2005/2910](https://www.legislation.gov.uk/uksi/2005/2910), [art. 4](https://www.legislation.gov.uk/uksi/2005/2910/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/2910/schedule)

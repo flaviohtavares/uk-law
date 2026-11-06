@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26A. Serious Organised Crime Agency[^key-b4ebc05c01737d3218993e4542bc98fb]
+## 26A. Serious Organised Crime Agency[^c-b4ebc05c01737d3218993e4542bc98fb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4ebc05c01737d3218993e4542bc98fb]: Textual amendment: S. 26A omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/6/paragraph/15); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(q)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/q)
+[^c-b4ebc05c01737d3218993e4542bc98fb]: Textual amendment: S. 26A omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/6/paragraph/15); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(q)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/q)

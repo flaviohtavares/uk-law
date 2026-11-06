@@ -39,7 +39,7 @@ Section 17.
 
 **4.**[^c9816591] Theft, robbery[^c9816611] burglary, blackmail and any offence under section 12(1) (taking of motor vehicle or other conveyance without owner’s consent) of the [^c9816631]Theft Act 1968.
 
-**5.** Offences under section 89(1) of the Police Act 1996[^c9816691] or section 90 of the Police and Fire Reform (Scotland) Act 2012 (assaulting or impeding police)[^key-02aaa51b03e6e2636bbdf8eb633d486b] .
+**5.** Offences under section 89(1) of the Police Act 1996[^c9816691] or section 90 of the Police and Fire Reform (Scotland) Act 2012 (assaulting or impeding police)[^c-02aaa51b03e6e2636bbdf8eb633d486b] .
 
 **5A.**[^c9816731] An offence under section 90(1) of the Criminal Justice Act 1991 (assaulting prisoner custody officer).
 
@@ -60,11 +60,11 @@ Section 17.
 - (g) section 30 (sexual activity with a person with a mental disorder impeding choice), where the touching involved penetration within subsection (3)(a) to (d) of that section;
 - (h) section 31 (causing or inciting a person, with a mental disorder impeding choice, to engage in sexual activity), where an activity involving penetration within subsection (3)(a) to (d) of that section was caused.
 
-**6A.**[^key-fee740764ac1ded233a857170b2fa224] An offence under paragraph 14 or 24 of Schedule 10 to the Criminal Justice and Courts Act 2015 (assaulting secure college custody officer).
+**6A.**[^c-fee740764ac1ded233a857170b2fa224] An offence under paragraph 14 or 24 of Schedule 10 to the Criminal Justice and Courts Act 2015 (assaulting secure college custody officer).
 
 **7.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c9816831]
 
-**8.** Aiding or abetting the commission of any offence specified in paragraphs 1 to[^c9816851] 6A[^key-894b5c5a9ef59735aa43691801ee5f21] of this Schedule.
+**8.** Aiding or abetting the commission of any offence specified in paragraphs 1 to[^c9816851] 6A[^c-894b5c5a9ef59735aa43691801ee5f21] of this Schedule.
 
 **9.** Attempting to commit any offence so specified, . . . [^c9816871]
 
@@ -90,7 +90,7 @@ Section 17.
 
 [^c9816691]: Textual amendment: Words in Sch. 1 para. 5 substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16), [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103), [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1), [Sch. 7 Pt. II para. 16](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/part/II/paragraph/16)
 
-[^key-02aaa51b03e6e2636bbdf8eb633d486b]: Textual amendment: Words in Sch. 1 para. 5 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/5/5)
+[^c-02aaa51b03e6e2636bbdf8eb633d486b]: Textual amendment: Words in Sch. 1 para. 5 substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/5/5)
 
 [^c9816731]: Textual amendment: Sch. 1 paras. 5A, 5B inserted (3.2.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(1)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/1), [Sch. 9 para. 8(b)](https://www.legislation.gov.uk/ukpga/1994/33/schedule/9/paragraph/8/b); [S.I. 1995/127](https://www.legislation.gov.uk/uksi/1995/127), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/127/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/127/schedule/1) Appendix A
 
@@ -100,12 +100,12 @@ Section 17.
 
 [^c18322551]: Textual amendment: Sch. 1 para. 6 substituted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 139](https://www.legislation.gov.uk/ukpga/2003/42/section/139), [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/16); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
-[^key-fee740764ac1ded233a857170b2fa224]: Textual amendment: [Sch. 1 para. 6A](https://www.legislation.gov.uk/ukpga/1968/27/schedule/1/paragraph/6A) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 30(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/30/2); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
+[^c-fee740764ac1ded233a857170b2fa224]: Textual amendment: [Sch. 1 para. 6A](https://www.legislation.gov.uk/ukpga/1968/27/schedule/1/paragraph/6A) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 30(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/30/2); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
 
 [^c9816831]: Textual amendment: Para. 7 repealed by [Theft Act 1968 (c. 60)](https://www.legislation.gov.uk/ukpga/1968/60), [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1968/60/schedule/2/part/III)
 
 [^c9816851]: Textual amendment: Words substituted by [Theft Act 1968 (c. 60)](https://www.legislation.gov.uk/ukpga/1968/60), [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1968/60/schedule/2/part/III)
 
-[^key-894b5c5a9ef59735aa43691801ee5f21]: Textual amendment: Word in [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1968/27/schedule/1/paragraph/8) substituted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 30(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/30/3); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
+[^c-894b5c5a9ef59735aa43691801ee5f21]: Textual amendment: Word in [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1968/27/schedule/1/paragraph/8) substituted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 30(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/30/3); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
 
 [^c9816871]: Textual amendment: Words repealed by [Criminal Damage Act 1971 (c. 48)](https://www.legislation.gov.uk/ukpga/1971/48), [Sch. Pt. I](https://www.legislation.gov.uk/ukpga/1971/48/schedule/part/I)

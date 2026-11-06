@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Free distribution and discount of products[^key-73a41d07561909fa6d5d9acad4c4f6bb]
+## 84. Free distribution and discount of products[^c-73a41d07561909fa6d5d9acad4c4f6bb]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ After Article 4K of the Health and Personal Social Services (Northern Ireland) O
 
 ## Annotations
 
-[^key-73a41d07561909fa6d5d9acad4c4f6bb]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2026/18/section/84) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-73a41d07561909fa6d5d9acad4c4f6bb]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2026/18/section/84) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

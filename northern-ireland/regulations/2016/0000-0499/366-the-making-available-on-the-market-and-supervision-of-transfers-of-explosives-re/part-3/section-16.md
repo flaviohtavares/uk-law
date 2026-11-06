@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Information identifying importer[^key-2283343405e0d911bc4db79a1e5ca9e4]
+## 16. Information identifying importer[^c-2283343405e0d911bc4db79a1e5ca9e4]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2283343405e0d911bc4db79a1e5ca9e4]: Modification: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/366/regulation/16) modified (temp.) by S.I. 2019/392, reg. 6 (as inserted (10.9.2019) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/4), [2(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/2/3) (with [reg. 18](https://www.legislation.gov.uk/uksi/2019/1246/regulation/18)))
+[^c-2283343405e0d911bc4db79a1e5ca9e4]: Modification: [Reg. 16](https://www.legislation.gov.uk/nisr/2016/366/regulation/16) modified (temp.) by S.I. 2019/392, reg. 6 (as inserted (10.9.2019) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/4), [2(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/2/3) (with [reg. 18](https://www.legislation.gov.uk/uksi/2019/1246/regulation/18)))

@@ -43,7 +43,7 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 1(3) and 2(1)(b) and (c), (2)(b) and (c), (3)(e) and (4)(d) of the Mesothelioma, etc., Act (Northern Ireland) 2008[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-058d6240d1cf83ad3515fecde615b2ac]
+## 1. Citation, commencement and interpretation[^c-058d6240d1cf83ad3515fecde615b2ac]
 
 (1) These Regulations may be cited as the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations (Northern Ireland) 2008 and shall come into operation on 1st October 2008.
 
@@ -57,7 +57,7 @@ The Department for Social Development makes the following Regulations in exercis
 - “mesothelioma” means “diffuse mesothelioma”;
 - “payment” includes a payment in money or money’s worth or in kind.
 
-## 2. Disqualifying payments[^key-1b99c39ecf12abe231ff72cd5e73207f]
+## 2. Disqualifying payments[^c-1b99c39ecf12abe231ff72cd5e73207f]
 
 (1) The following payments are prescribed for the purposes of section 2(1)(a), (2)(a) and (3)(e) of the Act (payments which, if made in consequence of mesothelioma, prevent the conditions provided for in section 2(1)(a) and (2)(a) from being fulfilled)—
 
@@ -72,17 +72,17 @@ The Department for Social Development makes the following Regulations in exercis
 - (a) payment under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006;
 - (b) payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2005.
 
-## 3. Disregarded payments[^key-a10719b883754cf2695af2c6c1df45e6]
+## 3. Disregarded payments[^c-a10719b883754cf2695af2c6c1df45e6]
 
 A payment made in error and which in consequence is liable to be repaid in accordance with an enactment or rule of law is to be disregarded for the purpose of section 2(1)(a) or (2)(a) of the Act.
 
-## 4. Presence in the United Kingdom[^key-f2219c0f8cf0f35703e3619c9fbd6026]
+## 4. Presence in the United Kingdom[^c-f2219c0f8cf0f35703e3619c9fbd6026]
 
 (1) In the case of a person with mesothelioma it is a condition of entitlement that the person was in the United Kingdom at a time when and place where that person was exposed to asbestos.
 
 (2) In the case of a dependant it is a condition of entitlement that the deceased was in the United Kingdom at a time when and place where the deceased was exposed to asbestos.
 
-## 5. Amount of lump sum payment[^key-fa6efa684af1fd20d029f43fe5a20896]
+## 5. Amount of lump sum payment[^c-fa6efa684af1fd20d029f43fe5a20896]
 
 (1) The amount of a payment made under section 1(2) of the Act to a person with mesothelioma shall be determined in accordance with Table 1 of the Schedule.
 
@@ -103,11 +103,11 @@ B McGahan
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE[^key-2a3c74e0139a78d4cec8914064cc9314]
+## SCHEDULE[^c-2a3c74e0139a78d4cec8914064cc9314]
 
 Regulation 5
 
-Table 1[^key-db4d92ce4e02771350972ede0fd99fa5]
+Table 1[^c-db4d92ce4e02771350972ede0fd99fa5]
 
 Amount of lump sum payment to person with mesothelioma
 
@@ -160,7 +160,7 @@ Amount of lump sum payment to person with mesothelioma
 </tbody>
 </table>
 
-Table 2[^key-8c4771cfd34920a7ed3f10b67e233c88]
+Table 2[^c-8c4771cfd34920a7ed3f10b67e233c88]
 
 Amount of lump sum payment to dependant
 
@@ -223,9 +223,9 @@ Sections 1(3) and 2(1)(b) and (c), (2)(b) and (c), (3)(e) and (4)(d) of the Act 
 
 [^f00001]: Footnote: [2008 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2008/9)
 
-[^key-058d6240d1cf83ad3515fecde615b2ac]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/354/regulation/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
+[^c-058d6240d1cf83ad3515fecde615b2ac]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/354/regulation/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
 
-[^key-1b99c39ecf12abe231ff72cd5e73207f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/354/regulation/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
+[^c-1b99c39ecf12abe231ff72cd5e73207f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/354/regulation/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606)
 
@@ -235,14 +235,14 @@ Sections 1(3) and 2(1)(b) and (c), (2)(b) and (c), (3)(e) and (4)(d) of the Act 
 
 [^f00005]: Footnote: [1969 c. 57](https://www.legislation.gov.uk/ukpga/1969/57)
 
-[^key-a10719b883754cf2695af2c6c1df45e6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/354/regulation/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
+[^c-a10719b883754cf2695af2c6c1df45e6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/354/regulation/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
 
-[^key-f2219c0f8cf0f35703e3619c9fbd6026]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/354/regulation/4) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
+[^c-f2219c0f8cf0f35703e3619c9fbd6026]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/354/regulation/4) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
 
-[^key-fa6efa684af1fd20d029f43fe5a20896]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/354/regulation/5) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
+[^c-fa6efa684af1fd20d029f43fe5a20896]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/354/regulation/5) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
 
-[^key-2a3c74e0139a78d4cec8914064cc9314]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2008/354/schedule) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
+[^c-2a3c74e0139a78d4cec8914064cc9314]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2008/354/schedule) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/354/regulation/1/1)
 
-[^key-db4d92ce4e02771350972ede0fd99fa5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/354/schedule) Table 1 substituted (1.4.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/60)](https://www.legislation.gov.uk/nisr/2026/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2026/60/regulation/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2026/60/schedule/part/1) (with [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/2/a))
+[^c-db4d92ce4e02771350972ede0fd99fa5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/354/schedule) Table 1 substituted (1.4.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/60)](https://www.legislation.gov.uk/nisr/2026/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2026/60/regulation/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2026/60/schedule/part/1) (with [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/2/a))
 
-[^key-8c4771cfd34920a7ed3f10b67e233c88]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/354/schedule) Table 2 substituted (1.4.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/60)](https://www.legislation.gov.uk/nisr/2026/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2026/60/regulation/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2026/60/schedule/part/2) (with [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/2/b))
+[^c-8c4771cfd34920a7ed3f10b67e233c88]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2008/354/schedule) Table 2 substituted (1.4.2026) by [The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/60)](https://www.legislation.gov.uk/nisr/2026/60), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2026/60/regulation/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2026/60/schedule/part/2) (with [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2026/60/regulation/1/2/b))

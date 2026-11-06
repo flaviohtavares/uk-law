@@ -32,7 +32,7 @@ summary: ''
 
 DISABLED PERSONS
 
-The Disability Discrimination (Providers of Services) (Adjustment of Premises) (Amendment) Regulations 2004 (revoked)[^key-71fd42153fe956e2660ef02a12a8ee45]
+The Disability Discrimination (Providers of Services) (Adjustment of Premises) (Amendment) Regulations 2004 (revoked)[^c-71fd42153fe956e2660ef02a12a8ee45]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st October 2004
 
-[^key-71fd42153fe956e2660ef02a12a8ee45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71fd42153fe956e2660ef02a12a8ee45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, and interpretation[^key-71fd42153fe956e2660ef02a12a8ee45]
+## 1. Citation, commencement, and interpretation[^c-71fd42153fe956e2660ef02a12a8ee45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 2001 Regulations[^key-71fd42153fe956e2660ef02a12a8ee45]
+## 2. Amendments to the 2001 Regulations[^c-71fd42153fe956e2660ef02a12a8ee45]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-71fd42153fe956e2660ef02a12a8ee45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71fd42153fe956e2660ef02a12a8ee45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-71fd42153fe956e2660ef02a12a8ee45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71fd42153fe956e2660ef02a12a8ee45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-71fd42153fe956e2660ef02a12a8ee45]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/1429) revoked (4.12.2006) by [The Disability Discrimination (Service Providers and Public Authorities Carrying Out Functions) Regulations 2005 (S.I. 2005/2901)](https://www.legislation.gov.uk/uksi/2005/2901), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2901/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2901/schedule/2)
+[^c-71fd42153fe956e2660ef02a12a8ee45]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/1429) revoked (4.12.2006) by [The Disability Discrimination (Service Providers and Public Authorities Carrying Out Functions) Regulations 2005 (S.I. 2005/2901)](https://www.legislation.gov.uk/uksi/2005/2901), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2901/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2901/schedule/2)

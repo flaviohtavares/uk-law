@@ -41,11 +41,11 @@ Coming into force
 
 The Office for Students, in exercise of the powers conferred by section 42(1) of the Higher Education and Research Act 2017[^f00001], makes the following Order:
 
-## 1. Citation and commencement[^key-4f2ebf2b4f12baef5d6c3da930a81b77]
+## 1. Citation and commencement[^c-4f2ebf2b4f12baef5d6c3da930a81b77]
 
 This Order may be cited as the Power to Award Degrees etc. (Dyson Technical Training Limited) Order 2020 and shall come into force on 1st September 2021.
 
-## 2. Competence to grant awards[^key-73372d85085778ffc42747417872f279]
+## 2. Competence to grant awards[^c-73372d85085778ffc42747417872f279]
 
 Dyson Technical Training Limited (registered company number 10701273) is authorised to grant taught awards of the kind mentioned in section 42(2)(a) of the said Act.
 
@@ -71,6 +71,6 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [2017 c.29](https://www.legislation.gov.uk/ukpga/2017/29).
 
-[^key-4f2ebf2b4f12baef5d6c3da930a81b77]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/1365/article/1) in force at 1.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1365/article/1)
+[^c-4f2ebf2b4f12baef5d6c3da930a81b77]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/1365/article/1) in force at 1.9.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1365/article/1)
 
-[^key-73372d85085778ffc42747417872f279]: Textual amendment: [Arts. 2-4](https://www.legislation.gov.uk/uksi/2020/1365/article/2) substituted (1.9.2024) by [The Power to Award Degrees etc. (Dyson Technical Training Limited) (Amendment) Order 2024 (S.I. 2024/781)](https://www.legislation.gov.uk/uksi/2024/781), [arts. 1](https://www.legislation.gov.uk/uksi/2024/781/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/781/article/2/2)
+[^c-73372d85085778ffc42747417872f279]: Textual amendment: [Arts. 2-4](https://www.legislation.gov.uk/uksi/2020/1365/article/2) substituted (1.9.2024) by [The Power to Award Degrees etc. (Dyson Technical Training Limited) (Amendment) Order 2024 (S.I. 2024/781)](https://www.legislation.gov.uk/uksi/2024/781), [arts. 1](https://www.legislation.gov.uk/uksi/2024/781/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/781/article/2/2)

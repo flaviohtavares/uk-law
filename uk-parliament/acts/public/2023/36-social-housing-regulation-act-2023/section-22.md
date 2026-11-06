@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Standards relating to information and transparency[^key-431f860409e326049bf006286761f9f4][^key-16e7b1ad269f1356c3653209b1a09f7f]
+## 22. Standards relating to information and transparency[^c-431f860409e326049bf006286761f9f4][^c-16e7b1ad269f1356c3653209b1a09f7f]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-431f860409e326049bf006286761f9f4]: Commencement: S. 22 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-431f860409e326049bf006286761f9f4]: Commencement: S. 22 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-16e7b1ad269f1356c3653209b1a09f7f]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/36/section/22) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/j)
+[^c-16e7b1ad269f1356c3653209b1a09f7f]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/36/section/22) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/j)

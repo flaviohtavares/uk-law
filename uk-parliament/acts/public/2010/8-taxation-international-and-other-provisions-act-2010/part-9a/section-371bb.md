@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371BB. The CFC charge gateway[^key-d481e143624ac1a5264718f138b34543][^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371BB. The CFC charge gateway[^c-d481e143624ac1a5264718f138b34543][^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d481e143624ac1a5264718f138b34543]: Modification: S. 371BB applied (with modifications) by 2009 c. 4, ss. 18H-18HE (as substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/6) (with Sch. 20 para. 55(2))
+[^c-d481e143624ac1a5264718f138b34543]: Modification: S. 371BB applied (with modifications) by 2009 c. 4, ss. 18H-18HE (as substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/6) (with Sch. 20 para. 55(2))
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))

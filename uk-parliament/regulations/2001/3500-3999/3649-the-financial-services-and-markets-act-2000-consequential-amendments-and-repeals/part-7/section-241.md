@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Definition of “reference banks”[^key-6d4a92c2818b995cd710a433185b0920]
+## 241. Definition of “reference banks”[^c-6d4a92c2818b995cd710a433185b0920]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d4a92c2818b995cd710a433185b0920]: Commencement: Art. 241 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6d4a92c2818b995cd710a433185b0920]: Commencement: Art. 241 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

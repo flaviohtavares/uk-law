@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Power of entry and search[^key-3009b7fe24b905cdd563e5fe421d873a]
+## 126. Power of entry and search[^c-3009b7fe24b905cdd563e5fe421d873a]
 
 *Extent: E+W+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3009b7fe24b905cdd563e5fe421d873a]: Commencement: S. 126 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)
+[^c-3009b7fe24b905cdd563e5fe421d873a]: Commencement: S. 126 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)

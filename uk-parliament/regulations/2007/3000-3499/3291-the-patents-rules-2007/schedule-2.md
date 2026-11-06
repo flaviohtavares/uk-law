@@ -30,7 +30,7 @@ Rule 14
 
 **3.** Frames (lines surrounding matter) must not be used.
 
-### PART 2 — REQUIREMENTS: DOCUMENTS (OTHER THAN DRAWINGS AND PHOTOGRAPHS)[^key-aa65394db1238494adca2750101fd11b]
+### PART 2 — REQUIREMENTS: DOCUMENTS (OTHER THAN DRAWINGS AND PHOTOGRAPHS)[^c-aa65394db1238494adca2750101fd11b]
 
 **4.** The pages of the description and claims must be numbered consecutively in a single series.
 
@@ -53,37 +53,37 @@ must begin on a new sheet of paper.
 
 **10.** The capital letters in any typeface or font used must be more than 2mm high.
 
-### PART 3 — REQUIREMENTS: DRAWINGS AND PHOTOGRAPHS[^key-4c76597ca3c4fedce31a2b3fcce2ffd0]
+### PART 3 — REQUIREMENTS: DRAWINGS AND PHOTOGRAPHS[^c-4c76597ca3c4fedce31a2b3fcce2ffd0]
 
-**11.** There must be a margin around any drawing or photograph[^key-7db3030e5eae70b0874f0d414d9142ee] which must be at least—
+**11.** There must be a margin around any drawing or photograph[^c-7db3030e5eae70b0874f0d414d9142ee] which must be at least—
 
 - (a) at the top and left side, 20mm;
 - (b) at the right side, 15mm; and
 - (c) at the bottom, 10mm.
 
-**12.** All drawings or photographs[^key-94cf552929391d5407c373122d24f99e] must be numbered consecutively in a single series.
+**12.** All drawings or photographs[^c-94cf552929391d5407c373122d24f99e] must be numbered consecutively in a single series.
 
-**13.** The drawings or photographs[^key-8d403d53e6097d59039d336beb93bb43] must begin on a new sheet of paper.
+**13.** The drawings or photographs[^c-8d403d53e6097d59039d336beb93bb43] must begin on a new sheet of paper.
 
-**14.** The pages containing the drawings or photographs[^key-593ad99120e173def9f3fa429ded5683] must be numbered consecutively in a single series.
+**14.** The pages containing the drawings or photographs[^c-593ad99120e173def9f3fa429ded5683] must be numbered consecutively in a single series.
 
-**15.**[^key-d4bd6aa18dd32a476bfb27ed2bf5a0fa] Drawings must comprise black lines and may be shaded where the shading assists in representing the shape of a thing provided that it does not obscure other elements of the drawing.
+**15.**[^c-d4bd6aa18dd32a476bfb27ed2bf5a0fa] Drawings must comprise black lines and may be shaded where the shading assists in representing the shape of a thing provided that it does not obscure other elements of the drawing.
 
 **16.** Drawings may include cross-hatching to illustrate the cross-sections of a thing.
 
 **17.** Any scale or other reference for making measurement must be represented diagrammatically.
 
-**18.** Any drawing or photograph[^key-358e74bc319eae4bee0146f7d905a2d8] must be produced in such manner that it would still be clear if it were reduced by linear reduction to two thirds of its original size.
+**18.** Any drawing or photograph[^c-358e74bc319eae4bee0146f7d905a2d8] must be produced in such manner that it would still be clear if it were reduced by linear reduction to two thirds of its original size.
 
-**19.** A drawing or photograph[^key-e9a88b0a4a5bf25b2b9dd0d91c920532] must not be included in the description, the claims, the abstract or the request for the grant of a patent.
+**19.** A drawing or photograph[^c-e9a88b0a4a5bf25b2b9dd0d91c920532] must not be included in the description, the claims, the abstract or the request for the grant of a patent.
 
-**20.** The capital letters in any typeface or font used in any drawing or photograph[^key-a0ada3496e9cf8cf199e16e8a39cc0b5] must be more than 3mm high.
+**20.** The capital letters in any typeface or font used in any drawing or photograph[^c-a0ada3496e9cf8cf199e16e8a39cc0b5] must be more than 3mm high.
 
-**20A.**[^key-7efc68fddb6df2ac03a49ff7d4f1a37c] Photographs must be black and white, clear and capable of direct reproduction.
+**20A.**[^c-7efc68fddb6df2ac03a49ff7d4f1a37c] Photographs must be black and white, clear and capable of direct reproduction.
 
 ### PART 4 — OTHER REQUIREMENTS
 
-**21.** References must only be included in the drawing or photograph[^key-fc2adc832ef205ff73eb36900041dcb2] where they are mentioned in either the description or the claims.
+**21.** References must only be included in the drawing or photograph[^c-fc2adc832ef205ff73eb36900041dcb2] where they are mentioned in either the description or the claims.
 
 **22.** Tables of information may only be included in the claims if the comptroller agrees.
 
@@ -95,26 +95,26 @@ must begin on a new sheet of paper.
 
 ## Annotations
 
-[^key-aa65394db1238494adca2750101fd11b]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/part/2) heading inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/2)
+[^c-aa65394db1238494adca2750101fd11b]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/part/2) heading inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/2)
 
-[^key-4c76597ca3c4fedce31a2b3fcce2ffd0]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/part/3) heading inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/2)
+[^c-4c76597ca3c4fedce31a2b3fcce2ffd0]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/part/3) heading inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/2)
 
-[^key-7db3030e5eae70b0874f0d414d9142ee]: Textual amendment: Words in [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/11) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/a)
+[^c-7db3030e5eae70b0874f0d414d9142ee]: Textual amendment: Words in [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/11) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/a)
 
-[^key-94cf552929391d5407c373122d24f99e]: Textual amendment: Words in [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/12) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/b)
+[^c-94cf552929391d5407c373122d24f99e]: Textual amendment: Words in [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/12) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/b)
 
-[^key-8d403d53e6097d59039d336beb93bb43]: Textual amendment: Words in [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/13) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/b)
+[^c-8d403d53e6097d59039d336beb93bb43]: Textual amendment: Words in [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/13) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/b)
 
-[^key-593ad99120e173def9f3fa429ded5683]: Textual amendment: Words in [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/14) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/b)
+[^c-593ad99120e173def9f3fa429ded5683]: Textual amendment: Words in [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/14) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/b)
 
-[^key-d4bd6aa18dd32a476bfb27ed2bf5a0fa]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/15) substituted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(c)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/c)
+[^c-d4bd6aa18dd32a476bfb27ed2bf5a0fa]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/15) substituted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(c)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/c)
 
-[^key-358e74bc319eae4bee0146f7d905a2d8]: Textual amendment: Words in [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/18) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/a)
+[^c-358e74bc319eae4bee0146f7d905a2d8]: Textual amendment: Words in [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/18) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/a)
 
-[^key-e9a88b0a4a5bf25b2b9dd0d91c920532]: Textual amendment: Words in [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/19) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/a)
+[^c-e9a88b0a4a5bf25b2b9dd0d91c920532]: Textual amendment: Words in [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/19) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/a)
 
-[^key-a0ada3496e9cf8cf199e16e8a39cc0b5]: Textual amendment: Words in [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/20) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/a)
+[^c-a0ada3496e9cf8cf199e16e8a39cc0b5]: Textual amendment: Words in [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/20) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/a)
 
-[^key-7efc68fddb6df2ac03a49ff7d4f1a37c]: Textual amendment: [Sch. 2 para. 20A](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/20A) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(d)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/d)
+[^c-7efc68fddb6df2ac03a49ff7d4f1a37c]: Textual amendment: [Sch. 2 para. 20A](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/20A) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(3)(d)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/3/d)
 
-[^key-fc2adc832ef205ff73eb36900041dcb2]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/21) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(4)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/4)
+[^c-fc2adc832ef205ff73eb36900041dcb2]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2007/3291/schedule/2/paragraph/21) inserted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [15(4)](https://www.legislation.gov.uk/uksi/2016/892/rule/15/4)

@@ -29,9 +29,9 @@ includes a reference to the equivalent amount in another currency.
 
 (2) The equivalent amount in another currency, in relation to any day, shall be determined by reference to the London closing exchange rate for the previous day.
 
-(3)[^key-df69ad0f6a874b9b613b6c6290181939] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-df69ad0f6a874b9b613b6c6290181939] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-df69ad0f6a874b9b613b6c6290181939] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-df69ad0f6a874b9b613b6c6290181939] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -39,4 +39,4 @@ includes a reference to the equivalent amount in another currency.
 
 [^c19499751]: Textual amendment: S. 26A inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/11/2) (with [s. 11(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/11/3))
 
-[^key-df69ad0f6a874b9b613b6c6290181939]: Textual amendment: S. 26N(3)(4) omitted (with effect in accordance with Sch. 24 para. 66(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 53(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/53/c) (with [Sch. 24 paras. 59-62](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/59))
+[^c-df69ad0f6a874b9b613b6c6290181939]: Textual amendment: S. 26N(3)(4) omitted (with effect in accordance with Sch. 24 para. 66(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 53(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/53/c) (with [Sch. 24 paras. 59-62](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/59))

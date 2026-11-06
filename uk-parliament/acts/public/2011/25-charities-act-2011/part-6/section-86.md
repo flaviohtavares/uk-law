@@ -33,8 +33,8 @@ summary: ''
 - section 81 (removal or appointment of charity trustees etc.: supplementary);
 - section 83 (power to suspend or remove trustees etc. from membership of charity);
 - section 84 (power to direct specified action to be taken);
-- section 84A (power to direct specified action not to be taken),[^key-043d2949c8015daaf113b9d8a76c7a36]
-- section 84B (power to direct winding up),[^key-ad4ef51576a3f2f5b6615062b0781604]
+- section 84A (power to direct specified action not to be taken),[^c-043d2949c8015daaf113b9d8a76c7a36]
+- section 84B (power to direct winding up),[^c-ad4ef51576a3f2f5b6615062b0781604]
 - section 85 (power to direct application of charity property).
 
 (3) The documents are—
@@ -60,6 +60,6 @@ but, once the Commission considers that this is no longer the case, it must send
 
 ## Annotations
 
-[^key-043d2949c8015daaf113b9d8a76c7a36]: Textual amendment: Words in s. 86(2) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/6/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/e)
+[^c-043d2949c8015daaf113b9d8a76c7a36]: Textual amendment: Words in s. 86(2) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/6/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/e)
 
-[^key-ad4ef51576a3f2f5b6615062b0781604]: Textual amendment: Words in s. 86(2) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/7/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/f)
+[^c-ad4ef51576a3f2f5b6615062b0781604]: Textual amendment: Words in s. 86(2) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/7/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/f)

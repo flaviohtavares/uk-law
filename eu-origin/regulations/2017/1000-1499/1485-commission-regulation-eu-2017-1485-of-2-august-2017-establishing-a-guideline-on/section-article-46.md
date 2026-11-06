@@ -24,8 +24,8 @@ summary: ''
 
 - (a) active power output and active power reserves amount and availability, on a day-ahead and intra-day basis;
 - (b) without any delay, any scheduled unavailability or active power restriction;
-- (c) any forecasted restriction in the reactive power control capability [^key-0c8e81b2ed87e5cad0d1db0bd278320f]...
-- (d)[^key-0c8e81b2ed87e5cad0d1db0bd278320f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) any forecasted restriction in the reactive power control capability [^c-0c8e81b2ed87e5cad0d1db0bd278320f]...
+- (d)[^c-0c8e81b2ed87e5cad0d1db0bd278320f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 2. Each HVDC system operator shall provide the TSOs with at least the following data:
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c8e81b2ed87e5cad0d1db0bd278320f]: Textual amendment: [Art. 46(1)(d)](https://www.legislation.gov.uk/eur/2017/1485/article/46/1/d) and word omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/40) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c8e81b2ed87e5cad0d1db0bd278320f]: Textual amendment: [Art. 46(1)(d)](https://www.legislation.gov.uk/eur/2017/1485/article/46/1/d) and word omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/40) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

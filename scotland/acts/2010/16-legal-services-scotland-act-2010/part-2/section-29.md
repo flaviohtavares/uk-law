@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. More about governance[^key-c62f775b0efc69a4a7d1a16c8f0255c0]
+## 29. More about governance[^c-c62f775b0efc69a4a7d1a16c8f0255c0]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c62f775b0efc69a4a7d1a16c8f0255c0]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2010/16/section/29) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-c62f775b0efc69a4a7d1a16c8f0255c0]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2010/16/section/29) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

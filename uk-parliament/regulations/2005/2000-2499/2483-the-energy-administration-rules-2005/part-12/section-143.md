@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. Retention of proxies[^key-5085b0c40cd261dc51a9467da5557cb4]
+## 143. Retention of proxies[^c-5085b0c40cd261dc51a9467da5557cb4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5085b0c40cd261dc51a9467da5557cb4]: Commencement: Rule 143 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-5085b0c40cd261dc51a9467da5557cb4]: Commencement: Rule 143 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

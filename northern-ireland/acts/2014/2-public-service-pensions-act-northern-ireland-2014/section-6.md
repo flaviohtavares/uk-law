@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Pension board: information[^key-11f02a07f8d94a85736310bd4714528d][^key-08e4c197ebeee4aa60f3d7c2737a0367]
+## 6. Pension board: information[^c-11f02a07f8d94a85736310bd4714528d][^c-08e4c197ebeee4aa60f3d7c2737a0367]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11f02a07f8d94a85736310bd4714528d]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/2/section/6) in operation at 28.4.2014 for specified purposes by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 3](https://www.legislation.gov.uk/nisr/2014/123/article/3)
+[^c-11f02a07f8d94a85736310bd4714528d]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/2/section/6) in operation at 28.4.2014 for specified purposes by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 3](https://www.legislation.gov.uk/nisr/2014/123/article/3)
 
-[^key-08e4c197ebeee4aa60f3d7c2737a0367]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/2/section/6) in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2015/3/article/2/2/c)
+[^c-08e4c197ebeee4aa60f3d7c2737a0367]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/2/section/6) in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2015/3/article/2/2/c)

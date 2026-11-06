@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Licensing Board's duty to update licence[^key-ca8c6a61a2663cc1fa544a6744f399a5]
+## 89. Licensing Board's duty to update licence[^c-ca8c6a61a2663cc1fa544a6744f399a5]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ the Board may require the holder of the licence to produce it to the Board withi
 
 ## Annotations
 
-[^key-ca8c6a61a2663cc1fa544a6744f399a5]: Commencement: S. 89 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-ca8c6a61a2663cc1fa544a6744f399a5]: Commencement: S. 89 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

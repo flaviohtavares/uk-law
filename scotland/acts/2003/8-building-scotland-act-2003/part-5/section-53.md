@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Crown application[^key-3663000d2f7239b61e6223e46ea9713c]
+## 53. Crown application[^c-3663000d2f7239b61e6223e46ea9713c]
 
 *Extent: S*
 
@@ -31,17 +31,17 @@ summary: ''
 (5) In the application of this Act to the Crown, “**owner**”—
 
 - (a) in the case of a building belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, means the Crown Estate Commissioners,
-- (b) in the case of any other building belonging to Her Majesty in right of the Crown, means the office-holder in the Scottish Administration or, as the case may be, government department having management of the building or the relevant person[^key-5f8ec8e21701419725b5272068153107] ,
+- (b) in the case of any other building belonging to Her Majesty in right of the Crown, means the office-holder in the Scottish Administration or, as the case may be, government department having management of the building or the relevant person[^c-5f8ec8e21701419725b5272068153107] ,
 - (c) in the case of a building belonging to an office-holder in the Scottish Administration or to a government department or held in trust for the purposes of the Scottish Administration or a government department, means that office-holder or government department.
 
-(5A)[^key-b21b351dc050edcff496e1b5e02419f7] In subsection (5), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
+(5A)[^c-b21b351dc050edcff496e1b5e02419f7] In subsection (5), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
 
 (6) It is for the Scottish Ministers to determine any question which arises as to who is, for the purposes of this Act, the owner of a building falling within paragraphs (a) to (c) of subsection (5); and their decision is final.
 
 ## Annotations
 
-[^key-3663000d2f7239b61e6223e46ea9713c]: Commencement: S. 53 in force at 1.5.2009 by [S.S.I. 2009/150](https://www.legislation.gov.uk/ssi/2009/150), [art. 2](https://www.legislation.gov.uk/ssi/2009/150/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/150/article/3))
+[^c-3663000d2f7239b61e6223e46ea9713c]: Commencement: S. 53 in force at 1.5.2009 by [S.S.I. 2009/150](https://www.legislation.gov.uk/ssi/2009/150), [art. 2](https://www.legislation.gov.uk/ssi/2009/150/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/150/article/3))
 
-[^key-5f8ec8e21701419725b5272068153107]: Textual amendment: Words in [s. 53(5)(b)](https://www.legislation.gov.uk/asp/2003/8/section/53/5/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 32(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/32/a)
+[^c-5f8ec8e21701419725b5272068153107]: Textual amendment: Words in [s. 53(5)(b)](https://www.legislation.gov.uk/asp/2003/8/section/53/5/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 32(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/32/a)
 
-[^key-b21b351dc050edcff496e1b5e02419f7]: Textual amendment: [S. 53(5A)](https://www.legislation.gov.uk/asp/2003/8/section/53/5A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 32(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/32/b)
+[^c-b21b351dc050edcff496e1b5e02419f7]: Textual amendment: [S. 53(5A)](https://www.legislation.gov.uk/asp/2003/8/section/53/5A) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 32(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/32/b)

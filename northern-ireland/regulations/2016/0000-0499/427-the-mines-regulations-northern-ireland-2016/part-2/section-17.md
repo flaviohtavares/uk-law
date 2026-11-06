@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Danger areas[^key-3b39450d41e465fc86bb8fc86b3e715d]
+## 17. Danger areas[^c-3b39450d41e465fc86bb8fc86b3e715d]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The mine operator shall ensure that—
 
 ## Annotations
 
-[^key-3b39450d41e465fc86bb8fc86b3e715d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/427/regulation/17) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-3b39450d41e465fc86bb8fc86b3e715d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2016/427/regulation/17) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

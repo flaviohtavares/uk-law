@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. The Police Service of Scotland[^key-882f18b39f9905df49026690428d1d3e]
+## 6. The Police Service of Scotland[^c-882f18b39f9905df49026690428d1d3e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ There is to be a constabulary to be known as the Police Service of Scotland(or, 
 
 ## Annotations
 
-[^key-882f18b39f9905df49026690428d1d3e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2012/8/section/6) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-882f18b39f9905df49026690428d1d3e]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2012/8/section/6) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

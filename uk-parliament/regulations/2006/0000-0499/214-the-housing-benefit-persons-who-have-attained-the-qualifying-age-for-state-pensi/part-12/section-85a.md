@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 85A. Sums to be deducted in calculating recoverable overpayments where the claimant has changed dwelling[^key-f58e2f24c285c713aae05a5059d1d37d]
+## 85A. Sums to be deducted in calculating recoverable overpayments where the claimant has changed dwelling[^c-f58e2f24c285c713aae05a5059d1d37d]
 
 (1) This regulation applies where an overpayment has occurred in the following circumstances—
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f58e2f24c285c713aae05a5059d1d37d]: Textual amendment: Reg. 85A inserted (1.4.2010 for specified purposes, 5.4.2010 in so far as not already in force) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2608)](https://www.legislation.gov.uk/uksi/2009/2608), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/3/4)
+[^c-f58e2f24c285c713aae05a5059d1d37d]: Textual amendment: Reg. 85A inserted (1.4.2010 for specified purposes, 5.4.2010 in so far as not already in force) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2608)](https://www.legislation.gov.uk/uksi/2009/2608), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/3/4)

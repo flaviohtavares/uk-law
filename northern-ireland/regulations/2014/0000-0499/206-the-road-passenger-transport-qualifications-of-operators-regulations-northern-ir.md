@@ -53,8 +53,8 @@ The Department of the Environment has been designated [^c22157441] for the purpo
 
 - “**the 1967 Act**” means the Transport Act (Northern Ireland) 1967 [^c22157461];
 - “**the 2009 Regulation**” means Regulation [(EC) No. 1071/2009](https://www.legislation.gov.uk/eur/2009/1071) of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council Directive [96/26/EC](https://www.legislation.gov.uk/eudr/1996/26) [^c22157471]; and
-- “the 2009 Regulation (EU)” means Regulation[^key-fce29bb9fa6255c7d2f1de865e6c3021] [(EC) No 1071/2009](https://www.legislation.gov.uk/eur/2009/1071) of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council [Directive 96/26/EC](https://www.legislation.gov.uk/eudr/1996/0026), as that Regulation has effect in EU law;
-- “**the Department**” means the Department for Infrastructure[^key-05e3199c59059064ca80c3ac3b122909] .
+- “the 2009 Regulation (EU)” means Regulation[^c-fce29bb9fa6255c7d2f1de865e6c3021] [(EC) No 1071/2009](https://www.legislation.gov.uk/eur/2009/1071) of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council [Directive 96/26/EC](https://www.legislation.gov.uk/eudr/1996/0026), as that Regulation has effect in EU law;
+- “**the Department**” means the Department for Infrastructure[^c-05e3199c59059064ca80c3ac3b122909] .
 
 (4) Unless the context otherwise requires, expressions used in the 2009 Regulation have the same meaning when used in these Regulations.
 
@@ -99,7 +99,7 @@ A road service licence granted to a person under the 1967 Act constitutes an aut
 - “**approved body**” has the same meaning as in section 46D(4) of the 1967 Act; and
 - “**the requisite skills**” means knowledge corresponding to the level of training, for either national or international transport operations as the case may be, provided for in Annex I to the 2009 Regulation in the subjects there listed.
 
-(5)[^key-1f4b98ddfd4198a3e1dd68be01dc2734] In the case of an examination organised or a certificate issued by an approved body specified in section 46D(4)(c)(iii) of the 1967 Act, references to the 2009 Regulation in paragraphs (3) and (4) are references to the 2009 Regulation (EU).
+(5)[^c-1f4b98ddfd4198a3e1dd68be01dc2734] In the case of an examination organised or a certificate issued by an approved body specified in section 46D(4)(c)(iii) of the 1967 Act, references to the 2009 Regulation in paragraphs (3) and (4) are references to the 2009 Regulation (EU).
 
 ## 7. Determination in respect of a transport manager: disqualification orders
 
@@ -108,7 +108,7 @@ A road service licence granted to a person under the 1967 Act constitutes an aut
 (2) While a disqualification order is in force—
 
 - (a) the person may not act as transport manager for any road transport operator; and
-- (b) a certificate issued to the person in accordance with Article 8.8[^key-79e369998f268a092a92458cb885162c] of the 2009 Regulation or the 2009 Regulation (EU)[^key-bedca1b1ffce53a936b41861e081928b] (certificate of professional competence) is not valid.
+- (b) a certificate issued to the person in accordance with Article 8.8[^c-79e369998f268a092a92458cb885162c] of the 2009 Regulation or the 2009 Regulation (EU)[^c-bedca1b1ffce53a936b41861e081928b] (certificate of professional competence) is not valid.
 
 (3) A person in respect of whom a disqualification order has been made (a “disqualified person”) may, within 28 days from the service of the order, appeal to the county court against the order, at the same time as giving written notice of the appeal to the Department.
 
@@ -357,17 +357,17 @@ A Regulatory Impact Assessment has been prepared and copies are available from V
 
 [^c22157471]: Marginal citation: O.J. No. L 124, 23.5.96, p 1
 
-[^key-fce29bb9fa6255c7d2f1de865e6c3021]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/206/regulation/1/3) inserted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fce29bb9fa6255c7d2f1de865e6c3021]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/206/regulation/1/3) inserted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-05e3199c59059064ca80c3ac3b122909]: Textual amendment: Words in reg. 1(3) substituted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2019/6/regulation/19)
+[^c-05e3199c59059064ca80c3ac3b122909]: Textual amendment: Words in reg. 1(3) substituted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [19](https://www.legislation.gov.uk/nisr/2019/6/regulation/19)
 
 [^c22157481]: Marginal citation: [Section 46B](https://www.legislation.gov.uk/nisr/2014/206/section/46B) is substituted by regulation 9(9) of these Regulations
 
-[^key-1f4b98ddfd4198a3e1dd68be01dc2734]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/nisr/2014/206/regulation/6/5) added (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/973/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f4b98ddfd4198a3e1dd68be01dc2734]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/nisr/2014/206/regulation/6/5) added (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/973/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-79e369998f268a092a92458cb885162c]: Textual amendment: Words in reg. 7(2)(b) substituted (28.3.2019) by [The Public Service Vehicles (International Passenger Services) Regulations (Northern Ireland) 2019 (S.R. 2019/27)](https://www.legislation.gov.uk/nisr/2019/27), [regs. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1), [15](https://www.legislation.gov.uk/nisr/2019/27/regulation/15)
+[^c-79e369998f268a092a92458cb885162c]: Textual amendment: Words in reg. 7(2)(b) substituted (28.3.2019) by [The Public Service Vehicles (International Passenger Services) Regulations (Northern Ireland) 2019 (S.R. 2019/27)](https://www.legislation.gov.uk/nisr/2019/27), [regs. 1](https://www.legislation.gov.uk/nisr/2019/27/regulation/1), [15](https://www.legislation.gov.uk/nisr/2019/27/regulation/15)
 
-[^key-bedca1b1ffce53a936b41861e081928b]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/nisr/2014/206/regulation/7/2/b) inserted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2019/973/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bedca1b1ffce53a936b41861e081928b]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/nisr/2014/206/regulation/7/2/b) inserted (31.12.2020) by [The International Road Passenger Transport (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/973)](https://www.legislation.gov.uk/uksi/2019/973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/973/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2019/973/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22157491]: Marginal citation: [S.I. 1996/1320](https://www.legislation.gov.uk/uksi/1996/1320) (N.I 10)
 

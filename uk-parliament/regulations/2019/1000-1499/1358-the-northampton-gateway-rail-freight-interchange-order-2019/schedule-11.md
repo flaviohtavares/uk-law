@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 11 — LAND IN WHICH NEW RIGHTS MAY BE CREATED[^key-0010b7a939c42cfea03361976652e6bc]
+## SCHEDULE 11 — LAND IN WHICH NEW RIGHTS MAY BE CREATED[^c-0010b7a939c42cfea03361976652e6bc]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ Article 25
 
 ## Annotations
 
-[^key-0010b7a939c42cfea03361976652e6bc]: Commencement: Sch. 11 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-0010b7a939c42cfea03361976652e6bc]: Commencement: Sch. 11 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

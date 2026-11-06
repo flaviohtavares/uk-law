@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Compulsory acquisition of land – incorporation of the mineral code[^key-a93706d83a60d16502400a1122873bfd]
+## 27. Compulsory acquisition of land – incorporation of the mineral code[^c-a93706d83a60d16502400a1122873bfd]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ Parts 2 and 3 of Schedule 2 (minerals) to the Acquisition of Land Act 1981[^f000
 
 ## Annotations
 
-[^key-a93706d83a60d16502400a1122873bfd]: Commencement: Art. 27 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-a93706d83a60d16502400a1122873bfd]: Commencement: Art. 27 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00069]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).

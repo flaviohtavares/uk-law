@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Disregard of certain detention[^key-a98369db01e461613c9ac835f41a777c]
+## 62. Disregard of certain detention[^c-a98369db01e461613c9ac835f41a777c]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ to determine any question affecting the rights, privileges, obligations or liabi
 
 ## Annotations
 
-[^key-a98369db01e461613c9ac835f41a777c]: Commencement: [S. 62](https://www.legislation.gov.uk/nia/2016/18/section/62) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-a98369db01e461613c9ac835f41a777c]: Commencement: [S. 62](https://www.legislation.gov.uk/nia/2016/18/section/62) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

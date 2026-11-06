@@ -32,7 +32,7 @@ summary: ''
 
 Highways, England
 
-The Street Works (Qualifications of Supervisors and Operatives) (England) (Amendment) Regulations 2015 (revoked)[^key-86a3ebe66fa1cf190658e86fefffed86]
+The Street Works (Qualifications of Supervisors and Operatives) (England) (Amendment) Regulations 2015 (revoked)[^c-86a3ebe66fa1cf190658e86fefffed86]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2015
 
-[^key-86a3ebe66fa1cf190658e86fefffed86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86a3ebe66fa1cf190658e86fefffed86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, application and commencement[^key-86a3ebe66fa1cf190658e86fefffed86]
+## 1. Citation, application and commencement[^c-86a3ebe66fa1cf190658e86fefffed86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-86a3ebe66fa1cf190658e86fefffed86]
+## 2. Amendment of Regulations[^c-86a3ebe66fa1cf190658e86fefffed86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86a3ebe66fa1cf190658e86fefffed86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86a3ebe66fa1cf190658e86fefffed86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-86a3ebe66fa1cf190658e86fefffed86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86a3ebe66fa1cf190658e86fefffed86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-86a3ebe66fa1cf190658e86fefffed86]: Textual amendment: Regulations revoked (6.4.2017) by [The Street Works (Qualifications of Operatives and Supervisors) (England) Regulations 2016 (S.I. 2016/1147)](https://www.legislation.gov.uk/uksi/2016/1147), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c), [17(b)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/17/b)
+[^c-86a3ebe66fa1cf190658e86fefffed86]: Textual amendment: Regulations revoked (6.4.2017) by [The Street Works (Qualifications of Operatives and Supervisors) (England) Regulations 2016 (S.I. 2016/1147)](https://www.legislation.gov.uk/uksi/2016/1147), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c), [17(b)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/17/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Band 1A Charges – Interim Care[^key-57953bf34531ca4311d38d100e2ef428]
+## SCHEDULE 3 — Band 1A Charges – Interim Care[^c-57953bf34531ca4311d38d100e2ef428]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ Regulation 52
 
 ## Annotations
 
-[^key-57953bf34531ca4311d38d100e2ef428]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2013/364/schedule/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-57953bf34531ca4311d38d100e2ef428]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2013/364/schedule/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

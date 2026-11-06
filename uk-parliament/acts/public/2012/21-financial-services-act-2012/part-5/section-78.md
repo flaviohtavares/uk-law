@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Conduct of investigation[^key-49d58e9b213a79b3b88c78a01a0eb71b]
+## 78. Conduct of investigation[^c-49d58e9b213a79b3b88c78a01a0eb71b]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where a regulator is required by section 73 , 74 or 76A[^key-8e70ee8802ffd33c1eb178e2b9bac7c9] or under section 77 to carry out an investigation, it is for the regulator to decide how it is to be carried out, but this is subject to the following provisions.
+(1) Where a regulator is required by section 73 , 74 or 76A[^c-8e70ee8802ffd33c1eb178e2b9bac7c9] or under section 77 to carry out an investigation, it is for the regulator to decide how it is to be carried out, but this is subject to the following provisions.
 
 (2) In carrying out such an investigation, the regulator must have regard to the desirability of minimising any adverse effect that the carrying out of the investigation may have on the exercise by the regulator of any of its other functions.
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49d58e9b213a79b3b88c78a01a0eb71b]: Commencement: S. 78 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-49d58e9b213a79b3b88c78a01a0eb71b]: Commencement: S. 78 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-8e70ee8802ffd33c1eb178e2b9bac7c9]: Textual amendment: Words in s. 78(1) substituted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 106(4)](https://www.legislation.gov.uk/ukpga/2013/33/section/106/6), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-8e70ee8802ffd33c1eb178e2b9bac7c9]: Textual amendment: Words in s. 78(1) substituted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 106(4)](https://www.legislation.gov.uk/ukpga/2013/33/section/106/6), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

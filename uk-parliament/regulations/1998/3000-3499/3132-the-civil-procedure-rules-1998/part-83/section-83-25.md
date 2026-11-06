@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83.25. Warrants of delivery conferring a power to use the TCG procedure – notice of enforcement and inventory requirements[^key-47e86d3c6fd2cdb1267b2c84766853be]
+## 83.25. Warrants of delivery conferring a power to use the TCG procedure – notice of enforcement and inventory requirements[^c-47e86d3c6fd2cdb1267b2c84766853be]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ the debtor may make an application to the court under Part 23 for an order requi
 
 ## Annotations
 
-[^key-47e86d3c6fd2cdb1267b2c84766853be]: Textual amendment: Pt. 83 inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))
+[^c-47e86d3c6fd2cdb1267b2c84766853be]: Textual amendment: Pt. 83 inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))

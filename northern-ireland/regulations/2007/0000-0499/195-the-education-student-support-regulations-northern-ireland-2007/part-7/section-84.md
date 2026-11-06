@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Students becoming eligible during the course of an academic year[^key-83d23468f328a80ecad0f8cc7a690737]
+## 84. Students becoming eligible during the course of an academic year[^c-83d23468f328a80ecad0f8cc7a690737]
 
 *Extent: N.I.*
 
@@ -31,12 +31,12 @@ summary: ''
 - (b) a state accedes to the European Community and the student is a national of that state or is the family member (as defined in Part 1 of Schedule 2) of a national of that state or would have been a family member of a national of that state if the requirement to be working or self-employed in Northern Ireland had been a requirement to be working or self-employed in Scotland;
 - (c) the student becomes a family member (as defined in Part 1 of Schedule 2) of an EC national or would have become a family member of an EC national if the requirement to be working or self-employed in Northern Ireland had been a requirement to be working or self-employed in Scotland;
 - (d) the student acquires the right of permanent residence;
-- (da)[^key-39885a0aaf4f8384c61c1ab27f6d4308] the student becomes the child of a Turkish worker;
+- (da)[^c-39885a0aaf4f8384c61c1ab27f6d4308] the student becomes the child of a Turkish worker;
 - (e) the student becomes a person described in paragraph 6(1)(a) of Part 2 of Schedule 2 or would have become such a person if the requirement to be ordinarily resident in Northern Ireland and the requirement to be working or self-employed in Northern Ireland in paragraph 6 of Part 2 of Schedule 2 had been requirements to be ordinarily resident in Scotland or working or self-employed in Scotland;
 - (f) the student becomes the child of a Swiss national.
 
 ## Annotations
 
-[^key-83d23468f328a80ecad0f8cc7a690737]: Commencement: [Reg. 84](https://www.legislation.gov.uk/nisr/2007/195/regulation/84) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-83d23468f328a80ecad0f8cc7a690737]: Commencement: [Reg. 84](https://www.legislation.gov.uk/nisr/2007/195/regulation/84) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-39885a0aaf4f8384c61c1ab27f6d4308]: Textual amendment: [Reg. 84(2)(da)](https://www.legislation.gov.uk/nisr/2007/195/regulation/84/2/da) inserted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [22](https://www.legislation.gov.uk/nisr/2007/293/regulation/22)
+[^c-39885a0aaf4f8384c61c1ab27f6d4308]: Textual amendment: [Reg. 84(2)(da)](https://www.legislation.gov.uk/nisr/2007/195/regulation/84/2/da) inserted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [22](https://www.legislation.gov.uk/nisr/2007/293/regulation/22)

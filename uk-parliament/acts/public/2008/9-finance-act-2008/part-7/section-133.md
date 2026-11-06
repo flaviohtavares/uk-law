@@ -42,7 +42,7 @@ summary: ''
 
 (8) In this section—
 
-- (a) references to the transfer of a right are to its transfer by assignment, assignation or any other means, [^key-ec912a574e7efbbe9d7d8e632d2bbd64]...
+- (a) references to the transfer of a right are to its transfer by assignment, assignation or any other means, [^c-ec912a574e7efbbe9d7d8e632d2bbd64]...
 - (b) references to a sum that is payable by or to a person are to a sum that is to be paid, repaid or credited by or to that person and references to the payment of the sum (however expressed) are to be interpreted accordingly, and
 - (c) where a right in relation to a sum has been transferred more than once, references to the original creditor are to the person from whom the right was first transferred (except in subsection (1)).
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec912a574e7efbbe9d7d8e632d2bbd64]: Textual amendment: Words in [s. 133(8)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/133/8/a) omitted (retrospective to 6.4.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 50(2)(c)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/2/c)[(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/4)
+[^c-ec912a574e7efbbe9d7d8e632d2bbd64]: Textual amendment: Words in [s. 133(8)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/133/8/a) omitted (retrospective to 6.4.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 50(2)(c)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/2/c)[(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/4)

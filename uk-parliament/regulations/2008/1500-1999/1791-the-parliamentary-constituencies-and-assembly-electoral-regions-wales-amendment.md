@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People, Wales
 
-The Parliamentary Constituencies and Assembly Electoral Regions (Wales) (Amendment) Order 2008 (revoked)[^key-685601d43d4aa30966ab90683bed673a]
+The Parliamentary Constituencies and Assembly Electoral Regions (Wales) (Amendment) Order 2008 (revoked)[^c-685601d43d4aa30966ab90683bed673a]
 
 Made
 
@@ -46,28 +46,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-685601d43d4aa30966ab90683bed673a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-685601d43d4aa30966ab90683bed673a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-685601d43d4aa30966ab90683bed673a]
+## 1. Citation and commencement[^c-685601d43d4aa30966ab90683bed673a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Parliamentary constituencies and Assembly electoral regions in Wales[^key-685601d43d4aa30966ab90683bed673a]
+## 2. Amendment to the Parliamentary constituencies and Assembly electoral regions in Wales[^c-685601d43d4aa30966ab90683bed673a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Electoral registers[^key-685601d43d4aa30966ab90683bed673a]
+## 3. Electoral registers[^c-685601d43d4aa30966ab90683bed673a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-685601d43d4aa30966ab90683bed673a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-685601d43d4aa30966ab90683bed673a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-685601d43d4aa30966ab90683bed673a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-685601d43d4aa30966ab90683bed673a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-685601d43d4aa30966ab90683bed673a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1791) revoked (29.11.2023) by [The Parliamentary Constituencies Order 2023 (S.I. 2023/1230)](https://www.legislation.gov.uk/uksi/2023/1230), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2), [8(d)](https://www.legislation.gov.uk/uksi/2023/1230/article/8/d)
+[^c-685601d43d4aa30966ab90683bed673a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/1791) revoked (29.11.2023) by [The Parliamentary Constituencies Order 2023 (S.I. 2023/1230)](https://www.legislation.gov.uk/uksi/2023/1230), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1230/article/1/2), [8(d)](https://www.legislation.gov.uk/uksi/2023/1230/article/8/d)

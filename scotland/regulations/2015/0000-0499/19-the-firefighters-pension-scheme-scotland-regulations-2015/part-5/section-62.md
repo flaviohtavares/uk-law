@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Employer initiated retirement[^key-36ccb331816364161977147d0cd18bea]
+## 62. Employer initiated retirement[^c-36ccb331816364161977147d0cd18bea]
 
 *Extent: S*
 
@@ -41,10 +41,10 @@ and the authority determines that paying a pension on the basis of paragraph (1)
 - (e) the authority is unable to make reasonable adjustments to the role in which P is employed which would enable P to perform its duties; and
 - (f) the authority is unable to redeploy P to different duties within the role which P is able to perform.
 
-(4)[^key-e5b27890f5b8d8ead4a01aab2216b19d] Where the authority is considering making a determination under paragraph (2) in respect of an active member who is a connected member of the NFPS, or a connected special member of the NFPS, in relation to that active member’s pension account, the employer must also consider making a determination under rule 6 (pension on authority-initiated early retirement) of Part 3 of the NFPS.
+(4)[^c-e5b27890f5b8d8ead4a01aab2216b19d] Where the authority is considering making a determination under paragraph (2) in respect of an active member who is a connected member of the NFPS, or a connected special member of the NFPS, in relation to that active member’s pension account, the employer must also consider making a determination under rule 6 (pension on authority-initiated early retirement) of Part 3 of the NFPS.
 
 ## Annotations
 
-[^key-36ccb331816364161977147d0cd18bea]: Commencement: [Reg. 62](https://www.legislation.gov.uk/ssi/2015/19/regulation/62) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-36ccb331816364161977147d0cd18bea]: Commencement: [Reg. 62](https://www.legislation.gov.uk/ssi/2015/19/regulation/62) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
-[^key-e5b27890f5b8d8ead4a01aab2216b19d]: Textual amendment: [Reg. 62(4)](https://www.legislation.gov.uk/ssi/2015/19/regulation/62/4) inserted (1.4.2015) by [The Firefighters' Pension Schemes (Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/141)](https://www.legislation.gov.uk/ssi/2015/141), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/141/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2015/141/regulation/8)
+[^c-e5b27890f5b8d8ead4a01aab2216b19d]: Textual amendment: [Reg. 62(4)](https://www.legislation.gov.uk/ssi/2015/19/regulation/62/4) inserted (1.4.2015) by [The Firefighters' Pension Schemes (Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/141)](https://www.legislation.gov.uk/ssi/2015/141), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/141/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2015/141/regulation/8)

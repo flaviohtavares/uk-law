@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E6. Amounts of widow's short-term and long-term pensions[^key-9253770d56db87168dd5df95220ddda2]
+## E6. Amounts of widow's short-term and long-term pensions[^c-9253770d56db87168dd5df95220ddda2]
 
 *Extent: E+W+S*
 
@@ -57,4 +57,4 @@ the part of the pension attributable to the whole period of his service in respe
 
 ## Annotations
 
-[^key-9253770d56db87168dd5df95220ddda2]: Commencement: [Reg. E6](https://www.legislation.gov.uk/uksi/1986/24/regulation/E6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-9253770d56db87168dd5df95220ddda2]: Commencement: [Reg. E6](https://www.legislation.gov.uk/uksi/1986/24/regulation/E6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27B. Dissolution of further education corporations: transfer of property, rights and liabilities[^key-9803be223c99df81949e47db82659386]
+## 27B. Dissolution of further education corporations: transfer of property, rights and liabilities[^c-9803be223c99df81949e47db82659386]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9803be223c99df81949e47db82659386]: Textual amendment: Ss. 27-27B substituted for ss. 27-27C (1.8.2014 for specified purposes; 1.9.2014 in force in so far as not already in force) by [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 3](https://www.legislation.gov.uk/anaw/2014/1/section/3), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 2](https://www.legislation.gov.uk/wsi/2014/1706/article/2), [art. 3(c)](https://www.legislation.gov.uk/wsi/2014/1706/article/2)
+[^c-9803be223c99df81949e47db82659386]: Textual amendment: Ss. 27-27B substituted for ss. 27-27C (1.8.2014 for specified purposes; 1.9.2014 in force in so far as not already in force) by [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 3](https://www.legislation.gov.uk/anaw/2014/1/section/3), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 2](https://www.legislation.gov.uk/wsi/2014/1706/article/2), [art. 3(c)](https://www.legislation.gov.uk/wsi/2014/1706/article/2)

@@ -22,14 +22,14 @@ summary: ''
 
 (1) Where, under section 275 of this Act, a court (or, in proceedings before a commissioner appointed under section 271I(1) or by virtue of section 272(1)(b) of this Act, a commissioner)[^c19849981] on the application of the accused allows such questioning or admits such evidence as is referred to in section 274(1) of this Act, the prosecutor shall forthwith place before the presiding judge any previous relevant conviction of the accused.
 
-(2) Subject to subsection (2A) any[^key-d764368397c65d652f24ba8509fdb9dc] conviction placed before the judge under subsection (1) above shall, unless the accused objects, be—
+(2) Subject to subsection (2A) any[^c-d764368397c65d652f24ba8509fdb9dc] conviction placed before the judge under subsection (1) above shall, unless the accused objects, be—
 
 - (a) in proceedings on indictment, laid before the jury;
 - (b) in summary proceedings, taken into consideration by the judge.
 
-(2A)[^key-5a38bfa4528e831196286326d7c29713] Where the conviction is a relevant conviction by virtue of subsection (10)(aa)(ii), subsection (2) applies only if the judge considers it appropriate.
+(2A)[^c-5a38bfa4528e831196286326d7c29713] Where the conviction is a relevant conviction by virtue of subsection (10)(aa)(ii), subsection (2) applies only if the judge considers it appropriate.
 
-(3) An extract of a conviction referred to in subsection (2)[^key-d664837f7dd740c705aa52860765a208] may not be laid before the jury or taken into consideration by the judge unless such an extract was appended to the notice, served on the accused under section 69(2) or, as the case may be, 166(2) of this Act, which specified that conviction.
+(3) An extract of a conviction referred to in subsection (2)[^c-d664837f7dd740c705aa52860765a208] may not be laid before the jury or taken into consideration by the judge unless such an extract was appended to the notice, served on the accused under section 69(2) or, as the case may be, 166(2) of this Act, which specified that conviction.
 
 (4) An objection under subsection (2) above may be made only on one or more of the following grounds—
 
@@ -56,7 +56,7 @@ the prosecutor may, notwithstanding subsection (3) above, place such an extract 
 (10) For the purposes of this section a “**relevant conviction**” is, subject to subsection (11) below—
 
 - (a) a conviction for an offence to which section 288C of this Act applies by virtue of subsection (2) thereof; [^c20919201]. . .
-- (aa)[^key-4ac43dd11789e95bc038d297996dc7b7] a conviction by a court in—
+- (aa)[^c-4ac43dd11789e95bc038d297996dc7b7] a conviction by a court in—
   - (i) England and Wales or Northern Ireland, or
   - (ii) a member State of the European Union,
 
@@ -75,14 +75,14 @@ which is specified in a notice served on the accused under section 69(2) or, as 
 
 [^c19849981]: Textual amendment: Words in s. 275A(1) inserted (23.4.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 35(5)](https://www.legislation.gov.uk/asp/2007/6/section/35/5), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/250](https://www.legislation.gov.uk/ssi/2007/250), [art. 3(a)](https://www.legislation.gov.uk/ssi/2007/250/article/3/a)
 
-[^key-d764368397c65d652f24ba8509fdb9dc]: Textual amendment: Words in [s. 275A(2)](https://www.legislation.gov.uk/ukpga/1995/46/section/275A/2) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(15)(a)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/15/a) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-d764368397c65d652f24ba8509fdb9dc]: Textual amendment: Words in [s. 275A(2)](https://www.legislation.gov.uk/ukpga/1995/46/section/275A/2) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(15)(a)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/15/a) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
 
-[^key-5a38bfa4528e831196286326d7c29713]: Textual amendment: [S. 275A(2A)](https://www.legislation.gov.uk/ukpga/1995/46/section/275A/2A) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(15)(b)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/15/b) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-5a38bfa4528e831196286326d7c29713]: Textual amendment: [S. 275A(2A)](https://www.legislation.gov.uk/ukpga/1995/46/section/275A/2A) inserted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(15)(b)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/15/b) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
 
-[^key-d664837f7dd740c705aa52860765a208]: Textual amendment: Words in [s. 275A(3)](https://www.legislation.gov.uk/ukpga/1995/46/section/275A/3) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(15)(c)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/15/c) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-d664837f7dd740c705aa52860765a208]: Textual amendment: Words in [s. 275A(3)](https://www.legislation.gov.uk/ukpga/1995/46/section/275A/3) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(15)(c)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/15/c) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
 
 [^c20919201]: Textual amendment: Word in s. 275A(10) repealed (13.12.2010 for all purposes in respect of offences committed on or after this date) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 71(1)](https://www.legislation.gov.uk/asp/2010/13/section/71/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 4 para. 7(a)(i)](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/7/a/i); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-4ac43dd11789e95bc038d297996dc7b7]: Textual amendment: [S. 275A(10)(aa)](https://www.legislation.gov.uk/ukpga/1995/46/section/275A/10/aa) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(15)(d)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/15/d) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-4ac43dd11789e95bc038d297996dc7b7]: Textual amendment: [S. 275A(10)(aa)](https://www.legislation.gov.uk/ukpga/1995/46/section/275A/10/aa) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(15)(d)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/15/d) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
 
 [^c20919261]: Textual amendment: S. 275A(10A) inserted (13.12.2010 for all purposes in respect of offences committed on or after this date) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 71(1)](https://www.legislation.gov.uk/asp/2010/13/section/71/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 4 para. 7(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/4/paragraph/7/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

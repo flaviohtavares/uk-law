@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Computation of time for the purposes of Part 3[^key-8a2ba06f8941ff87bcd0d98985e14b6d]
+## 38. Computation of time for the purposes of Part 3[^c-8a2ba06f8941ff87bcd0d98985e14b6d]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a2ba06f8941ff87bcd0d98985e14b6d]: Commencement: Art. 38 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8a2ba06f8941ff87bcd0d98985e14b6d]: Commencement: Art. 38 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00049]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Amendments to legislation consequent upon the commencement of section 5(1) of the Professional Qualifications Act 2022 and revoking other retained EU recognition law[^key-64deb0bca3b1d19de21df17399e5ae3b]
+## 5. Amendments to legislation consequent upon the commencement of section 5(1) of the Professional Qualifications Act 2022 and revoking other retained EU recognition law[^c-64deb0bca3b1d19de21df17399e5ae3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ Schedule 4 contains amendments to legislation—
 
 ## Annotations
 
-[^key-64deb0bca3b1d19de21df17399e5ae3b]: Commencement: Reg. 5 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-64deb0bca3b1d19de21df17399e5ae3b]: Commencement: Reg. 5 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00007]: Footnote: “Retained EU recognition law” is defined in section 6(2) of the 2022 Act.

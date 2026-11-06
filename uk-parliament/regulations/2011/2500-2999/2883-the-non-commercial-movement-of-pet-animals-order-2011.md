@@ -78,23 +78,23 @@ To the extent that this Order makes provision for a purpose mentioned in section
   - (b) in relation to Scotland, the Scottish Ministers,
   - (c) in relation to Wales, the Welsh Ministers;
 - “carrier” means any undertaking carrying goods or passengers for hire by land, sea or air;
-- “the Commission Implementing Regulation” means Commission Implementing Regulation ([^key-a3e5eedc324bdd0e93a901a5290ff4fb]EU) No 577/2013 on the model identification documents for the non-commercial movement of dogs, cats and ferrets, the establishment of lists of territories and third countries and the format, layout and language requirements of the declarations attesting compliance with certain conditions provided for in Regulation (EU) No 576/2013 of the European Parliament and of the Council;
+- “the Commission Implementing Regulation” means Commission Implementing Regulation ([^c-a3e5eedc324bdd0e93a901a5290ff4fb]EU) No 577/2013 on the model identification documents for the non-commercial movement of dogs, cats and ferrets, the establishment of lists of territories and third countries and the format, layout and language requirements of the declarations attesting compliance with certain conditions provided for in Regulation (EU) No 576/2013 of the European Parliament and of the Council;
 - “Decision [2003/459/EC](https://www.legislation.gov.uk/european/decision/2003/0459)” means Commission Decision [2003/459/EC](https://www.legislation.gov.uk/european/decision/2003/0459) on certain protection measures with regard to monkey pox virus[^f00007];
 - “Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146)” means Commission Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146) on certain protection measures with regard to certain fruit bats, dogs and cats coming from Malaysia (Peninsula) and Australia[^f00008];
 - “Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025)” means Commission Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025) as regards certain protection measures in relation to highly pathogenic avian influenza and movements of pet birds accompanying their owners into the Community;
-- “declaration” means a declaration given in accordance with Article 12(1)(c), Article 25(3) or Article 30(3) of the Pets Regulation;[^key-291e9dc92f4c4be677505bb76757c519]
-- “health certificate” means a certificate issued in accordance with Article 26 or Article 31[^key-a712e8f374d402ee0acfe4a56d002b34] of the Pets Regulation;
+- “declaration” means a declaration given in accordance with Article 12(1)(c), Article 25(3) or Article 30(3) of the Pets Regulation;[^c-291e9dc92f4c4be677505bb76757c519]
+- “health certificate” means a certificate issued in accordance with Article 26 or Article 31[^c-a712e8f374d402ee0acfe4a56d002b34] of the Pets Regulation;
 - “local authority” has the meaning given in article 3;
 - “pet bird” has the same meaning as in Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025);
-- “the Pets Regulation” means Regulation ([^key-9e1d9205155c34c2ed0b3f8b114d81b3]EU) No 576/2013 of the European Parliament and of the Council on the non-commercial movement of pet animals and repealing Regulation [(EC) No 998/2003](https://www.legislation.gov.uk/european/regulation/2003/0998);
+- “the Pets Regulation” means Regulation ([^c-9e1d9205155c34c2ed0b3f8b114d81b3]EU) No 576/2013 of the European Parliament and of the Council on the non-commercial movement of pet animals and repealing Regulation [(EC) No 998/2003](https://www.legislation.gov.uk/european/regulation/2003/0998);
 - “the supplementary Regulation” means Commission Delegated Regulation (EU) No 1152/2011 supplementing Regulation [(EC) No 998/2003](https://www.legislation.gov.uk/european/regulation/2003/0998) of the European Parliament and of the Council as regards preventive health measures for the control of *Echinococcus multilocularis* infection in dogs[^f00009].
 
 (2) Terms and expressions used in this Order and in the Pets Regulation have the same meaning as in the Pets Regulation.
 
 (3) In this Order—
 
-- (a) any reference to Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025) is a reference to that Decision as amended from time to time, [^key-dadc65832bbcdcb871a5066f0e425250]...
-- (b)[^key-f28e6568fe9bf8c72de33ff7c0af4468] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any reference to Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025) is a reference to that Decision as amended from time to time, [^c-dadc65832bbcdcb871a5066f0e425250]...
+- (b)[^c-f28e6568fe9bf8c72de33ff7c0af4468] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Meaning of local authority
 
@@ -104,7 +104,7 @@ To the extent that this Order makes provision for a purpose mentioned in section
 - (b) where there is not a unitary authority—
   - (i) in a metropolitan district, the council of that district,
   - (ii) in a non-metropolitan county, the council of that county,
-  - (iii) in a London borough, the Common Council of the City of London,[^key-71445b12364755fc3351d968b9666a94]
+  - (iii) in a London borough, the Common Council of the City of London,[^c-71445b12364755fc3351d968b9666a94]
 - (c) in the City of London, the Common Council, or
 - (d) in the Isles of Scilly, the Council.
 
@@ -116,10 +116,10 @@ To the extent that this Order makes provision for a purpose mentioned in section
 
 (1) The appropriate authority—
 
-- (a) is the competent authority for the purposes of Articles 3(g) and (h), 10(3)(b),[^key-40508f7a4fcba30f25158e7e1261c138] [^key-990bdbc47bb63002b9568d82e6b4a984]... 23 and 32(1)(b)(i) of the Pets Regulation, [^key-6f244d45683febe77776d8d0f8de42e0]...
-- (b)[^key-6f244d45683febe77776d8d0f8de42e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is the competent authority for the purposes of Articles 3(g) and (h), 10(3)(b),[^c-40508f7a4fcba30f25158e7e1261c138] [^c-990bdbc47bb63002b9568d82e6b4a984]... 23 and 32(1)(b)(i) of the Pets Regulation, [^c-6f244d45683febe77776d8d0f8de42e0]...
+- (b)[^c-6f244d45683febe77776d8d0f8de42e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-980531db5ac651038aa7829755a6aa3f] The appropriate authority and the local authority are the competent authorities for the purposes of—
+(2)[^c-980531db5ac651038aa7829755a6aa3f] The appropriate authority and the local authority are the competent authorities for the purposes of—
 
 - (a) Articles 33(2), 34 and 35 of the Pets Regulation,
 - (b) Article 2(1) of [Decision 2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025), and
@@ -131,13 +131,13 @@ To the extent that this Order makes provision for a purpose mentioned in section
 
 (1) The Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^f00012] does not apply to the landing of a pet animal in Great Britain which—
 
-- (a) is an animal of a species listed in Part A [^key-18d76ca9226d06b45da6b19409d9d12b]...of Annex I to the Pets Regulation and is brought into Great Britain on a carrier approved in accordance with article 11 (unless article 11(2) applies) and satisfies—
+- (a) is an animal of a species listed in Part A [^c-18d76ca9226d06b45da6b19409d9d12b]...of Annex I to the Pets Regulation and is brought into Great Britain on a carrier approved in accordance with article 11 (unless article 11(2) applies) and satisfies—
   - (i) the requirement in respect of rabies in article 6,
   - (ii) the requirement in respect of Nipah disease in article 7 (where applicable),
   - (iii) the requirement in respect of Hendra disease in article 8 (where applicable), and
   - (iv) the requirement in respect of *Echinococcus multilocularis* in article 9 (where applicable),
 - (b) is brought into Great Britain from Northern Ireland, the Channel Islands or the Isle of Man, or
-- (c)[^key-81072da2aae58518a51ea58180b891c7] is an animal of a species listed in Part B of Annex I to the Pets Regulation and is brought into Great Britain from a[^key-962cb560bb71072e621bd87b5ab77319] member State.
+- (c)[^c-81072da2aae58518a51ea58180b891c7] is an animal of a species listed in Part B of Annex I to the Pets Regulation and is brought into Great Britain from a[^c-962cb560bb71072e621bd87b5ab77319] member State.
 
 (2) But the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974 does apply to the importation into Great Britain of a pet animal which is—
 
@@ -146,7 +146,7 @@ To the extent that this Order makes provision for a purpose mentioned in section
 
 ### 6. Rabies
 
-The requirement in respect of rabies is that the animal complies with Article[^key-8413789edeb9d483c8b0ab735aa30158] [^key-36a563441e935f117d51026591f7e078]... 10 of the Pets Regulation [^key-c4d87c4deb1c61f730630be394ae021e]....
+The requirement in respect of rabies is that the animal complies with Article[^c-8413789edeb9d483c8b0ab735aa30158] [^c-36a563441e935f117d51026591f7e078]... 10 of the Pets Regulation [^c-c4d87c4deb1c61f730630be394ae021e]....
 
 ### 7. Nipah disease
 
@@ -166,7 +166,7 @@ The requirement in respect of Hendra disease is that a cat imported from Austral
 
 ### 9. Echinococcus multilocularis
 
-The requirement in respect of *Echinococcus multilocularis* is that a dog complies with the preventive health measures in Article 6[^key-1c0a1e9b7d86822c19d3762aa5da77ce] of the supplementary Regulation, except where those measures do not apply by virtue of Article 7(1)(b)[^key-e6cc50c91f2e7f43a7bb8ef73485609d] of that Regulation.
+The requirement in respect of *Echinococcus multilocularis* is that a dog complies with the preventive health measures in Article 6[^c-1c0a1e9b7d86822c19d3762aa5da77ce] of the supplementary Regulation, except where those measures do not apply by virtue of Article 7(1)(b)[^c-e6cc50c91f2e7f43a7bb8ef73485609d] of that Regulation.
 
 ### 10. Highly pathogenic avian influenza
 
@@ -184,7 +184,7 @@ The requirement in respect of *Echinococcus multilocularis* is that a dog compli
 
 (5) Where a notice is not complied with, an officer of the competent authority may seize the bird, detain it and arrange for it to be treated as required by the notice at the expense of the person on whom notice is served.
 
-## PART 2A — Microchipping of Pet Animals[^key-1d046e1f2ac73b5f4252a68c585df6c3]
+## PART 2A — Microchipping of Pet Animals[^c-1d046e1f2ac73b5f4252a68c585df6c3]
 
 ### 10A. Minimum qualifications for microchipping of pet animals
 
@@ -206,12 +206,12 @@ The requirement in respect of *Echinococcus multilocularis* is that a dog compli
 
 ### 11. Approval of carriers
 
-(1) A carrier who moves a pet animal which is subject to Article[^key-735be32dc0e53b63a46dc436ca7b4e49] [^key-74a6cfb9fd48ea961744608693a5cdd5]... 10 of the Pets Regulation into Great Britain must be approved for the purpose by the appropriate authority.
+(1) A carrier who moves a pet animal which is subject to Article[^c-735be32dc0e53b63a46dc436ca7b4e49] [^c-74a6cfb9fd48ea961744608693a5cdd5]... 10 of the Pets Regulation into Great Britain must be approved for the purpose by the appropriate authority.
 
 (2) But approval is not required where—
 
 - (a) the movement is from the Republic of Ireland, or
-- (b) the carrier is a Community air carrier,[^key-158685cf82ab3b3ad566909f56d3f5f5] Union carrier, UK air carrier or United Kingdom carrier,[^key-8fe061935d1743e3d4e04c81c5152bbc] and the movement is of a recognised assistance dog.
+- (b) the carrier is a Community air carrier,[^c-158685cf82ab3b3ad566909f56d3f5f5] Union carrier, UK air carrier or United Kingdom carrier,[^c-8fe061935d1743e3d4e04c81c5152bbc] and the movement is of a recognised assistance dog.
 
 (3) Approval may be granted subject to such terms and conditions as the authority considers necessary or expedient to ensure that pet animals are checked by or on behalf of the carrier for compliance with the Pets Regulation and (if applicable) the supplementary Regulation and Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146).
 
@@ -219,11 +219,11 @@ The requirement in respect of *Echinococcus multilocularis* is that a dog compli
 
 (5) The appropriate authority may amend an approval by giving notice in writing to the carrier.
 
-(6)[^key-84c730a97242af7f330f2b930f3d2f94] In this article—
+(6)[^c-84c730a97242af7f330f2b930f3d2f94] In this article—
 
-- “Community air carrier” and “UK air carrier” have[^key-087befd4f89b936ca7433b09bb738b89] the meaning given by Article 2 of Regulation [(EC) No 1107/2006](https://www.legislation.gov.uk/european/regulation/2006/1107) of the European Parliament and of the Council concerning the rights of disabled persons and persons with reduced mobility when travelling by air, and for the purposes of travelling by air “recognised assistance dog” shall be interpreted in accordance with that Regulation; [^key-23006005d13b5dc682d307d1571f35b5]...
-- “Union carrier” has the meaning given by Article 3 of Regulation (EU) No 1177/2010of the European Parliament and of the Council concerning the rights of passengers when travelling by sea and inland waterway as it applies in the European Union as amended from time to time; and[^key-da508150bec9a436b6ea4e24fff0b8ba]
-- “[^key-ef9ec3fc8f08dde871a222cf12d79a56]**United Kingdom carrier**” has the meaning given by Article 3 of Regulation (EU) No 1177/2010 of the European Parliament and of the Council concerning the rights of passengers when travelling by sea and inland waterway, and for the purposes of travelling by sea and inland waterway, “recognised assistance dog” shall be interpreted in accordance with that Regulation.
+- “Community air carrier” and “UK air carrier” have[^c-087befd4f89b936ca7433b09bb738b89] the meaning given by Article 2 of Regulation [(EC) No 1107/2006](https://www.legislation.gov.uk/european/regulation/2006/1107) of the European Parliament and of the Council concerning the rights of disabled persons and persons with reduced mobility when travelling by air, and for the purposes of travelling by air “recognised assistance dog” shall be interpreted in accordance with that Regulation; [^c-23006005d13b5dc682d307d1571f35b5]...
+- “Union carrier” has the meaning given by Article 3 of Regulation (EU) No 1177/2010of the European Parliament and of the Council concerning the rights of passengers when travelling by sea and inland waterway as it applies in the European Union as amended from time to time; and[^c-da508150bec9a436b6ea4e24fff0b8ba]
+- “[^c-ef9ec3fc8f08dde871a222cf12d79a56]**United Kingdom carrier**” has the meaning given by Article 3 of Regulation (EU) No 1177/2010 of the European Parliament and of the Council concerning the rights of passengers when travelling by sea and inland waterway, and for the purposes of travelling by sea and inland waterway, “recognised assistance dog” shall be interpreted in accordance with that Regulation.
 
 ### 12. Suspension or withdrawal of approvals
 
@@ -253,13 +253,13 @@ The requirement in respect of *Echinococcus multilocularis* is that a dog compli
 
 ### 13. Enforcement authority
 
-(1) The local authority enforces the Pets Regulation, the Commission Implementing Regulation,[^key-94af923da46bd0a5afba1b5618f3513c] Decision [2003/459/EC](https://www.legislation.gov.uk/european/decision/2003/0459), Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146), Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025), the supplementary Regulation and this Order (in this Part, “the relevant instruments”).
+(1) The local authority enforces the Pets Regulation, the Commission Implementing Regulation,[^c-94af923da46bd0a5afba1b5618f3513c] Decision [2003/459/EC](https://www.legislation.gov.uk/european/decision/2003/0459), Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146), Decision [2007/25/EC](https://www.legislation.gov.uk/european/decision/2007/0025), the supplementary Regulation and this Order (in this Part, “the relevant instruments”).
 
 (2) In relation to cases of a particular description or to a particular case, the appropriate authority may direct that the relevant instruments be enforced by it instead.
 
 *Extent: E+W*
 
-(3)[^key-272c3e4f6a1745a15b1c6de8e9d26e4c] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under this Order.
+(3)[^c-272c3e4f6a1745a15b1c6de8e9d26e4c] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under this Order.
 
 ### 14. Appointment of authorised officers
 
@@ -274,7 +274,7 @@ The requirement in respect of *Echinococcus multilocularis* is that a dog compli
 
 (1) An authorised officer may, on producing a duly authenticated authorisation if required, enter any premises at any reasonable hour for the purpose of enforcing the relevant instruments, and in this article “premises” includes any place, trailer, container, vessel, boat, aircraft or vehicle of any other description.
 
-(2) An authorised officer may be accompanied by such other persons as the authorised officer considers necessary[^key-c6c19cfddfd6e235342cb7b01578ea38]....
+(2) An authorised officer may be accompanied by such other persons as the authorised officer considers necessary[^c-c6c19cfddfd6e235342cb7b01578ea38]....
 
 (3) Admission to premises used wholly or mainly as a private dwelling house may not be demanded as of right unless the entry is in accordance with a warrant granted under paragraph (4).
 
@@ -313,8 +313,8 @@ The requirement in respect of *Echinococcus multilocularis* is that a dog compli
 
 - (a) intentionally to obstruct any person acting in the execution of the relevant instruments,
 - (b) without reasonable cause, to fail to give to any such person any assistance or information that that person may reasonably require,
-- (c) to furnish to any such person any information knowing it to be false or misleading (including information contained in a passport, health certificate or declaration[^key-0bf85b3897f0c3a2a8fd5c7cda71cd71] ), or
-- (d) to fail to produce a document or record (including a passport, health certificate or declaration[^key-c2f716552870f13068a3c01ff6393f55] ) to any such person when required to do so.
+- (c) to furnish to any such person any information knowing it to be false or misleading (including information contained in a passport, health certificate or declaration[^c-0bf85b3897f0c3a2a8fd5c7cda71cd71] ), or
+- (d) to fail to produce a document or record (including a passport, health certificate or declaration[^c-c2f716552870f13068a3c01ff6393f55] ) to any such person when required to do so.
 
 ### 17. Penalties
 
@@ -346,7 +346,7 @@ that person, as well as the body corporate, is guilty of the offence.
 
 ## PART 5 — Transitional provision, amendments, revocations and review
 
-### 19. Transitional provision[^key-a478a649c7eb3191aea2107ee7930c6f]
+### 19. Transitional provision[^c-a478a649c7eb3191aea2107ee7930c6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -373,7 +373,7 @@ The following instruments are revoked—
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2)[^key-69c92f0106362ea1300e2ba90024c247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-69c92f0106362ea1300e2ba90024c247] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -734,85 +734,85 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00006]: Footnote: OJ No L 146, 13.6.2003, p1, as last amended by Commission Delegated Regulation (EU) No 1153/2011 (OJ No L 296, 15.11.2011, p13).
 
-[^key-a3e5eedc324bdd0e93a901a5290ff4fb]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/2/1) inserted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [3(1)(a)](https://www.legislation.gov.uk/uksi/2014/3158/article/3/1/a)
+[^c-a3e5eedc324bdd0e93a901a5290ff4fb]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/2/1) inserted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [3(1)(a)](https://www.legislation.gov.uk/uksi/2014/3158/article/3/1/a)
 
 [^f00007]: Footnote: OJ No L 154, 21.6.2003, p112.
 
 [^f00008]: Footnote: OJ No L 55, 25.2.2006, p44.
 
-[^key-291e9dc92f4c4be677505bb76757c519]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/2/1) inserted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [3(1)(b)](https://www.legislation.gov.uk/uksi/2014/3158/article/3/1/b)
+[^c-291e9dc92f4c4be677505bb76757c519]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/2/1) inserted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [3(1)(b)](https://www.legislation.gov.uk/uksi/2014/3158/article/3/1/b)
 
-[^key-a712e8f374d402ee0acfe4a56d002b34]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/2/1) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [3(1)(c)](https://www.legislation.gov.uk/uksi/2014/3158/article/3/1/c)
+[^c-a712e8f374d402ee0acfe4a56d002b34]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/2/1) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [3(1)(c)](https://www.legislation.gov.uk/uksi/2014/3158/article/3/1/c)
 
-[^key-9e1d9205155c34c2ed0b3f8b114d81b3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/2/1) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [3(1)(d)](https://www.legislation.gov.uk/uksi/2014/3158/article/3/1/d)
+[^c-9e1d9205155c34c2ed0b3f8b114d81b3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/2/1) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [3(1)(d)](https://www.legislation.gov.uk/uksi/2014/3158/article/3/1/d)
 
 [^f00009]: Footnote: OJ No L 296, 15.11.2011, p6.
 
-[^key-dadc65832bbcdcb871a5066f0e425250]: Textual amendment: Word in [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/2883/article/2/3) omitted (29.12.2014) by virtue of [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/3158/article/3/2/a)
+[^c-dadc65832bbcdcb871a5066f0e425250]: Textual amendment: Word in [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/2883/article/2/3) omitted (29.12.2014) by virtue of [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/3158/article/3/2/a)
 
-[^key-f28e6568fe9bf8c72de33ff7c0af4468]: Textual amendment: [Art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2011/2883/article/2/3/b) omitted (29.12.2014) by virtue of [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/3158/article/3/2/b)
+[^c-f28e6568fe9bf8c72de33ff7c0af4468]: Textual amendment: [Art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2011/2883/article/2/3/b) omitted (29.12.2014) by virtue of [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/3158/article/3/2/b)
 
 [^f00010]: Footnote: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867); relevant amending instruments are [S.I. 1996/611](https://www.legislation.gov.uk/uksi/1996/611) and [2008/2867](https://www.legislation.gov.uk/uksi/2008/2867).
 
-[^key-71445b12364755fc3351d968b9666a94]: Textual amendment: Words in [art. 3(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2883/article/3/1/b/iii) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [4](https://www.legislation.gov.uk/uksi/2014/3158/article/4)
+[^c-71445b12364755fc3351d968b9666a94]: Textual amendment: Words in [art. 3(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2883/article/3/1/b/iii) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [4](https://www.legislation.gov.uk/uksi/2014/3158/article/4)
 
 [^f00011]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-40508f7a4fcba30f25158e7e1261c138]: Textual amendment: Words in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2011/2883/article/4/1/a) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2014/3158/article/5/1)
+[^c-40508f7a4fcba30f25158e7e1261c138]: Textual amendment: Words in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2011/2883/article/4/1/a) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [5(1)](https://www.legislation.gov.uk/uksi/2014/3158/article/5/1)
 
-[^key-990bdbc47bb63002b9568d82e6b4a984]: Textual amendment: Word in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2011/2883/article/4/1/a) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [36(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/36/2)
+[^c-990bdbc47bb63002b9568d82e6b4a984]: Textual amendment: Word in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2011/2883/article/4/1/a) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [36(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/36/2)
 
-[^key-6f244d45683febe77776d8d0f8de42e0]: Textual amendment: [Art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2011/2883/article/4/1/b) and word omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f244d45683febe77776d8d0f8de42e0]: Textual amendment: [Art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2011/2883/article/4/1/b) and word omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-980531db5ac651038aa7829755a6aa3f]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/2011/2883/article/4/2) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2014/3158/article/5/2)
+[^c-980531db5ac651038aa7829755a6aa3f]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/2011/2883/article/4/2) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2014/3158/article/5/2)
 
 [^f00012]: Footnote: [S.I. 1974/2211](https://www.legislation.gov.uk/uksi/1974/2211). Amending instruments are, in relation to Great Britain, [S.I. 1977/361](https://www.legislation.gov.uk/uksi/1977/361), [1984/1182](https://www.legislation.gov.uk/uksi/1984/1182), [1986/2062](https://www.legislation.gov.uk/uksi/1986/2062), [1990/2371](https://www.legislation.gov.uk/uksi/1990/2371), [1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [1994/1716](https://www.legislation.gov.uk/uksi/1994/1716), [1995/2922](https://www.legislation.gov.uk/uksi/1995/2922) and [2002/3135](https://www.legislation.gov.uk/uksi/2002/3135); in relation to England, [S.I. 2004/2364](https://www.legislation.gov.uk/uksi/2004/2364); in relation to Wales, [S.I. 2002/882](https://www.legislation.gov.uk/uksi/2002/882); and in relation to Scotland, [S.S.I. 2003/229](https://www.legislation.gov.uk/ssi/2003/229) and [2011/46](https://www.legislation.gov.uk/ssi/2011/46).
 
-[^key-18d76ca9226d06b45da6b19409d9d12b]: Textual amendment: Words in [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2011/2883/article/5/1/a) omitted (29.12.2014) by virtue of [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [6(1)](https://www.legislation.gov.uk/uksi/2014/3158/article/6/1)
+[^c-18d76ca9226d06b45da6b19409d9d12b]: Textual amendment: Words in [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2011/2883/article/5/1/a) omitted (29.12.2014) by virtue of [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [6(1)](https://www.legislation.gov.uk/uksi/2014/3158/article/6/1)
 
-[^key-81072da2aae58518a51ea58180b891c7]: Textual amendment: [Art. 5(1)(c)](https://www.legislation.gov.uk/uksi/2011/2883/article/5/1/c) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2014/3158/article/6/2)
+[^c-81072da2aae58518a51ea58180b891c7]: Textual amendment: [Art. 5(1)(c)](https://www.legislation.gov.uk/uksi/2011/2883/article/5/1/c) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2014/3158/article/6/2)
 
-[^key-962cb560bb71072e621bd87b5ab77319]: Textual amendment: Word in [art. 5(1)(c)](https://www.legislation.gov.uk/uksi/2011/2883/article/5/1/c) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-962cb560bb71072e621bd87b5ab77319]: Textual amendment: Word in [art. 5(1)(c)](https://www.legislation.gov.uk/uksi/2011/2883/article/5/1/c) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8413789edeb9d483c8b0ab735aa30158]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2011/2883/article/6) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [7](https://www.legislation.gov.uk/uksi/2014/3158/article/7)
+[^c-8413789edeb9d483c8b0ab735aa30158]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2011/2883/article/6) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [7](https://www.legislation.gov.uk/uksi/2014/3158/article/7)
 
-[^key-36a563441e935f117d51026591f7e078]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2011/2883/article/6) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [36(3)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/36/3/a)
+[^c-36a563441e935f117d51026591f7e078]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2011/2883/article/6) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [36(3)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/36/3/a)
 
-[^key-c4d87c4deb1c61f730630be394ae021e]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2011/2883/article/6) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [36(3)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/36/3/b)
+[^c-c4d87c4deb1c61f730630be394ae021e]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2011/2883/article/6) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [36(3)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/36/3/b)
 
-[^key-1c0a1e9b7d86822c19d3762aa5da77ce]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/uksi/2011/2883/article/9) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2019/526/regulation/15/3/a)
+[^c-1c0a1e9b7d86822c19d3762aa5da77ce]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/uksi/2011/2883/article/9) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2019/526/regulation/15/3/a)
 
-[^key-e6cc50c91f2e7f43a7bb8ef73485609d]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/uksi/2011/2883/article/9) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/15/3/b)
+[^c-e6cc50c91f2e7f43a7bb8ef73485609d]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/uksi/2011/2883/article/9) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2019/526/regulation/15/3/b)
 
 [^f00013]: Footnote: [S.I. 1979/1702](https://www.legislation.gov.uk/uksi/1979/1702), amended by [S.I. 1990/2371](https://www.legislation.gov.uk/uksi/1990/2371).
 
-[^key-1d046e1f2ac73b5f4252a68c585df6c3]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2011/2883/part/2A) inserted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [8](https://www.legislation.gov.uk/uksi/2014/3158/article/8)
+[^c-1d046e1f2ac73b5f4252a68c585df6c3]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2011/2883/part/2A) inserted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [8](https://www.legislation.gov.uk/uksi/2014/3158/article/8)
 
-[^key-735be32dc0e53b63a46dc436ca7b4e49]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/1) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [9(1)](https://www.legislation.gov.uk/uksi/2014/3158/article/9/1)
+[^c-735be32dc0e53b63a46dc436ca7b4e49]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/1) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [9(1)](https://www.legislation.gov.uk/uksi/2014/3158/article/9/1)
 
-[^key-74a6cfb9fd48ea961744608693a5cdd5]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/1) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [36(4)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/36/4)
+[^c-74a6cfb9fd48ea961744608693a5cdd5]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/1) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [36(4)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/36/4)
 
-[^key-158685cf82ab3b3ad566909f56d3f5f5]: Textual amendment: Word in [art. 11(2)(b)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/2/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-158685cf82ab3b3ad566909f56d3f5f5]: Textual amendment: Word in [art. 11(2)(b)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/2/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8fe061935d1743e3d4e04c81c5152bbc]: Textual amendment: Words in [art. 11(2)(b)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/2/b) inserted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8fe061935d1743e3d4e04c81c5152bbc]: Textual amendment: Words in [art. 11(2)(b)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/2/b) inserted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00014]: Footnote: [S.S.I. 2003/229](https://www.legislation.gov.uk/ssi/2003/229).
 
 [^f00015]: Footnote: [S.I. 2004/2363](https://www.legislation.gov.uk/uksi/2004/2363).
 
-[^key-84c730a97242af7f330f2b930f3d2f94]: Textual amendment: [Art. 11(6)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/6) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/9/3)
+[^c-84c730a97242af7f330f2b930f3d2f94]: Textual amendment: [Art. 11(6)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/6) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/9/3)
 
-[^key-087befd4f89b936ca7433b09bb738b89]: Textual amendment: Words in [art. 11(6)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/6) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(4)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/4/b/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-087befd4f89b936ca7433b09bb738b89]: Textual amendment: Words in [art. 11(6)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/6) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(4)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/4/b/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-23006005d13b5dc682d307d1571f35b5]: Textual amendment: Word in [art. 11(6)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/6) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(4)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/4/b/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23006005d13b5dc682d307d1571f35b5]: Textual amendment: Word in [art. 11(6)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/6) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(4)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/4/b/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-da508150bec9a436b6ea4e24fff0b8ba]: Textual amendment: Words in [art. 11(6)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/6) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da508150bec9a436b6ea4e24fff0b8ba]: Textual amendment: Words in [art. 11(6)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/6) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ef9ec3fc8f08dde871a222cf12d79a56]: Textual amendment: Words in [art. 11(6)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/6) inserted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/4/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef9ec3fc8f08dde871a222cf12d79a56]: Textual amendment: Words in [art. 11(6)](https://www.legislation.gov.uk/uksi/2011/2883/article/11/6) inserted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/4/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-94af923da46bd0a5afba1b5618f3513c]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/13/1) inserted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [10](https://www.legislation.gov.uk/uksi/2014/3158/article/10)
+[^c-94af923da46bd0a5afba1b5618f3513c]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/uksi/2011/2883/article/13/1) inserted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [10](https://www.legislation.gov.uk/uksi/2014/3158/article/10)
 
-[^key-272c3e4f6a1745a15b1c6de8e9d26e4c]: Textual amendment: Art. 13(3) added (E.W.) (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [45](https://www.legislation.gov.uk/uksi/2012/2897/article/45)
+[^c-272c3e4f6a1745a15b1c6de8e9d26e4c]: Textual amendment: Art. 13(3) added (E.W.) (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [45](https://www.legislation.gov.uk/uksi/2012/2897/article/45)
 
 [^f00017]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 
@@ -820,13 +820,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00019]: Footnote: [S.S.I. 2003/229](https://www.legislation.gov.uk/ssi/2003/229).
 
-[^key-c6c19cfddfd6e235342cb7b01578ea38]: Textual amendment: Words in [art. 15(2)](https://www.legislation.gov.uk/uksi/2011/2883/article/15/2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c6c19cfddfd6e235342cb7b01578ea38]: Textual amendment: Words in [art. 15(2)](https://www.legislation.gov.uk/uksi/2011/2883/article/15/2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0bf85b3897f0c3a2a8fd5c7cda71cd71]: Textual amendment: Words in [art. 16(2)(c)](https://www.legislation.gov.uk/uksi/2011/2883/article/16/2/c) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [11(1)](https://www.legislation.gov.uk/uksi/2014/3158/article/11/1)
+[^c-0bf85b3897f0c3a2a8fd5c7cda71cd71]: Textual amendment: Words in [art. 16(2)(c)](https://www.legislation.gov.uk/uksi/2011/2883/article/16/2/c) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [11(1)](https://www.legislation.gov.uk/uksi/2014/3158/article/11/1)
 
-[^key-c2f716552870f13068a3c01ff6393f55]: Textual amendment: Words in [art. 16(2)(d)](https://www.legislation.gov.uk/uksi/2011/2883/article/16/2/d) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2014/3158/article/11/2)
+[^c-c2f716552870f13068a3c01ff6393f55]: Textual amendment: Words in [art. 16(2)(d)](https://www.legislation.gov.uk/uksi/2011/2883/article/16/2/d) substituted (29.12.2014) by [The Non-Commercial Movement of Pet Animals (Amendment) Order 2014 (S.I. 2014/3158)](https://www.legislation.gov.uk/uksi/2014/3158), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3158/article/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2014/3158/article/11/2)
 
-[^key-a478a649c7eb3191aea2107ee7930c6f]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2011/2883/article/19) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a478a649c7eb3191aea2107ee7930c6f]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2011/2883/article/19) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00020]: Footnote: [S.I. 1994/1716](https://www.legislation.gov.uk/uksi/1994/1716).
 
@@ -840,7 +840,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00025]: Footnote: [S.S.I. 2011/46](https://www.legislation.gov.uk/ssi/2011/46).
 
-[^key-69c92f0106362ea1300e2ba90024c247]: Textual amendment: [Art. 22(2)](https://www.legislation.gov.uk/uksi/2011/2883/article/22/2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-69c92f0106362ea1300e2ba90024c247]: Textual amendment: [Art. 22(2)](https://www.legislation.gov.uk/uksi/2011/2883/article/22/2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2019/782/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00026]: Footnote: [S.I. 1974/2211](https://www.legislation.gov.uk/uksi/1974/2211). Amending instruments are, in relation to Great Britain, [S.I. 1977/361](https://www.legislation.gov.uk/uksi/1977/361), [1984/1182](https://www.legislation.gov.uk/uksi/1984/1182), [1986/2062](https://www.legislation.gov.uk/uksi/1986/2062), [1990/2371](https://www.legislation.gov.uk/uksi/1990/2371), [1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [1994/1405](https://www.legislation.gov.uk/uksi/1994/1405), [1994/1716](https://www.legislation.gov.uk/uksi/1994/1716), [1995/2922](https://www.legislation.gov.uk/uksi/1995/2922) and [2002/3135](https://www.legislation.gov.uk/uksi/2002/3135); in relation to England, [S.I. 2004/2364](https://www.legislation.gov.uk/uksi/2004/2364); in relation to Wales, [S.I. 2002/882](https://www.legislation.gov.uk/uksi/2002/882); and in relation to Scotland, [S.S.I. 2003/229](https://www.legislation.gov.uk/ssi/2003/229) and [2011/46](https://www.legislation.gov.uk/ssi/2011/46).
 

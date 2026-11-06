@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Appeals against notices[^key-5fd63f5cd37fc7c1399c371d79e6e6ab]
+## 80. Appeals against notices[^c-5fd63f5cd37fc7c1399c371d79e6e6ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fd63f5cd37fc7c1399c371d79e6e6ab]: Commencement: Reg. 80 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-5fd63f5cd37fc7c1399c371d79e6e6ab]: Commencement: Reg. 80 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

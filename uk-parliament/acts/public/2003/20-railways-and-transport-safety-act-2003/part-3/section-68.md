@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Offences[^key-076fa4bfd0a4e61f7bdfe432fe47bcb7]
+## 68. Offences[^c-076fa4bfd0a4e61f7bdfe432fe47bcb7]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-076fa4bfd0a4e61f7bdfe432fe47bcb7]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2003/20/section/68) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(yy)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/yy)
+[^c-076fa4bfd0a4e61f7bdfe432fe47bcb7]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2003/20/section/68) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(yy)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/yy)

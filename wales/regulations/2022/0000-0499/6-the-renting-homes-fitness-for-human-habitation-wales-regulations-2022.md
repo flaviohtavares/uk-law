@@ -45,11 +45,11 @@ Coming into force in accordance with regulation 1
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by sections 94(1), (2)(b) and (3) and 256(1) of the Renting Homes (Wales) Act 2016[^f00001].
 
-## 1. Title and commencement[^key-1f5e597e293042b1529ee4554954408f]
+## 1. Title and commencement[^c-1f5e597e293042b1529ee4554954408f]
 
-The title of these Regulations is the Renting Homes (Fitness for Human Habitation) (Wales) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Act comes into force)[^key-fd11a55dcf21ec3b3993d1f6de56f912] [^f00002].
+The title of these Regulations is the Renting Homes (Fitness for Human Habitation) (Wales) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Act comes into force)[^c-fd11a55dcf21ec3b3993d1f6de56f912] [^f00002].
 
-## 2. Interpretation[^key-8337e5cdda640db2d21617a23eff90fb]
+## 2. Interpretation[^c-8337e5cdda640db2d21617a23eff90fb]
 
 (1) Words and expressions used in these Regulations have the same meaning as they have in the Act.
 
@@ -62,11 +62,11 @@ The title of these Regulations is the Renting Homes (Fitness for Human Habitatio
 
 (3) This regulation is subject to regulation 7.
 
-## 3. Determining fitness for human habitation[^key-b0a8b2e38ff0f7b13d1588b5f6dc1d1f]
+## 3. Determining fitness for human habitation[^c-b0a8b2e38ff0f7b13d1588b5f6dc1d1f]
 
 In determining, for the purposes of section 91(1) of the Act, whether a dwelling is fit for human habitation, regard must be had to the presence or occurrence, or the likely presence or occurrence, of the matters and circumstances listed in the Schedule.
 
-## 4. Occupation contracts to which regulations 5 to 8 apply[^key-dd3a5b08ff22af5bda794c2a7e05a3e3]
+## 4. Occupation contracts to which regulations 5 to 8 apply[^c-dd3a5b08ff22af5bda794c2a7e05a3e3]
 
 Regulations 5 to 8 apply only in relation to—
 
@@ -76,7 +76,7 @@ Regulations 5 to 8 apply only in relation to—
 
 which incorporates section 91 of the Act as a term of the contract.
 
-## 5. Smoke alarms and carbon monoxide alarms[^key-ed6c5961ef4a9105203299283fb29ccd]
+## 5. Smoke alarms and carbon monoxide alarms[^c-ed6c5961ef4a9105203299283fb29ccd]
 
 (1) The landlord must ensure that, during each period of occupation, on each storey of the dwelling there is a smoke alarm which is—
 
@@ -101,7 +101,7 @@ which incorporates section 91 of the Act as a term of the contract.
   - (b) an appliance which the contract-holder is entitled to remove from the dwelling under the terms of the occupation contract;
 - “**room**” (*“ystafell*”) includes a hall, landing or corridor.
 
-## 6. Electrical safety[^key-ef085d6a1d153f2d3a3ddbe8139d8740]
+## 6. Electrical safety[^c-ef085d6a1d153f2d3a3ddbe8139d8740]
 
 (1) The landlord must ensure that there is a valid electrical condition report in respect of the dwelling during each period of occupation.
 
@@ -141,7 +141,7 @@ which incorporates section 91 of the Act as a term of the contract.
 - “**qualified person**” (“***person cymwysedig***”) means a person who is competent to undertake the inspection and testing of an electrical service installation, and any further investigative or remedial work, in accordance with the electrical safety standards;
 - “**written confirmation of work**” (“***cadarnhad ysgrifenedig o’r gwaith***”) means, in relation to investigatory or remedial work, a copy of written confirmation, from a qualified person, that the work in question has been carried out.
 
-## 7. Application to converted contracts[^key-7850bc8695a745e391988e3471ae5ae0]
+## 7. Application to converted contracts[^c-7850bc8695a745e391988e3471ae5ae0]
 
 (1) This regulation applies in relation to a converted contract.
 
@@ -163,7 +163,7 @@ which incorporates section 91 of the Act as a term of the contract.
 
 (6) In this regulation, “**conversion date**”, in relation to a converted contract, means the date on which the tenancy or licence became an occupation contract under section 240 of the Act[^f00007].
 
-## 8. Transitional provision relating to regulation 6: pre-existing electrical condition reports[^key-adc39ff6eaf4681f573c4661b79dcef0]
+## 8. Transitional provision relating to regulation 6: pre-existing electrical condition reports[^c-adc39ff6eaf4681f573c4661b79dcef0]
 
 For the purposes of regulation 6(1), it does not matter if the valid electrical condition report was obtained before these Regulations came into force.
 
@@ -175,27 +175,27 @@ Minister for Climate Change, one of the Welsh Ministers
 
 Regulation 3
 
-### 1. Damp, mites and mould or fungal growth[^key-747fcedd2e1048ab33561cb6cf7d6843]
+### 1. Damp, mites and mould or fungal growth[^c-747fcedd2e1048ab33561cb6cf7d6843]
 
 Exposure to house dust mites, damp, mould or fungal growths.
 
-### 2. Cold[^key-c18196f04e1aa47632bdaf1f49ae258a]
+### 2. Cold[^c-c18196f04e1aa47632bdaf1f49ae258a]
 
 Exposure to excessively low temperatures.
 
-### 3. Heat[^key-8812f05357836f8a488f5fa98ba99f51]
+### 3. Heat[^c-8812f05357836f8a488f5fa98ba99f51]
 
 Exposure to excessively high temperatures.
 
-### 4. Asbestos and manufactured mineral fibres[^key-0ea5436e220c83da9cdbf1196bb88246]
+### 4. Asbestos and manufactured mineral fibres[^c-0ea5436e220c83da9cdbf1196bb88246]
 
 Exposure to asbestos fibres or manufactured mineral fibres.
 
-### 5. Biocides[^key-1bf17929a94c83f9da34771f2f091c2c]
+### 5. Biocides[^c-1bf17929a94c83f9da34771f2f091c2c]
 
 Exposure to chemicals used to treat timber or mould growth.
 
-### 6. Carbon monoxide and fuel combustion products[^key-a4c727e66b18d27499734aa93af37db2][^key-c867cb55ba9a4813af0ca47d44251f6b]
+### 6. Carbon monoxide and fuel combustion products[^c-a4c727e66b18d27499734aa93af37db2][^c-c867cb55ba9a4813af0ca47d44251f6b]
 
 Exposure to—
 
@@ -203,39 +203,39 @@ Exposure to—
 - (b) nitrogen dioxide;
 - (c) sulphur dioxide and smoke.
 
-### 7. Lead[^key-8319a0ca5efe64f88843890bcaa80bac]
+### 7. Lead[^c-8319a0ca5efe64f88843890bcaa80bac]
 
 The ingestion of lead.
 
-### 8. Radiation[^key-3929d8a70d0368d0b90d10bae577e1aa]
+### 8. Radiation[^c-3929d8a70d0368d0b90d10bae577e1aa]
 
 Exposure to radiation.
 
-### 9. Uncombusted fuel gas[^key-b758e2ef77020eafab4ef3cfe5896a5e]
+### 9. Uncombusted fuel gas[^c-b758e2ef77020eafab4ef3cfe5896a5e]
 
 Exposure to uncombusted fuel gas.
 
-### 10. Volatile organic compounds[^key-5b900d8640c5e3b35c29a3215763fbc5]
+### 10. Volatile organic compounds[^c-5b900d8640c5e3b35c29a3215763fbc5]
 
 Exposure to volatile organic compounds.
 
-### 11. Crowding and space[^key-4d2069a54e8950927cbe050108e051ab]
+### 11. Crowding and space[^c-4d2069a54e8950927cbe050108e051ab]
 
 A lack of adequate space for living and sleeping.
 
-### 12. Entry by intruders[^key-fd2f7ebc8b6577c6c2cb9e39448920fd]
+### 12. Entry by intruders[^c-fd2f7ebc8b6577c6c2cb9e39448920fd]
 
 Difficulties in keeping the dwelling secure against unauthorised entry.
 
-### 13. Lighting[^key-1c129224a021455bd1bad9923b7661eb]
+### 13. Lighting[^c-1c129224a021455bd1bad9923b7661eb]
 
 A lack of adequate lighting.
 
-### 14. Noise[^key-c416b341b4615d86d603003ae17c4018]
+### 14. Noise[^c-c416b341b4615d86d603003ae17c4018]
 
 Exposure to noise.
 
-### 15. Domestic hygiene, pests and refuse[^key-e0f1e8b057853fb692e4dc300a509855]
+### 15. Domestic hygiene, pests and refuse[^c-e0f1e8b057853fb692e4dc300a509855]
 
 (1) Poor design, layout or construction such that the dwelling cannot readily be kept clean.
 
@@ -243,65 +243,65 @@ Exposure to noise.
 
 (3) An inadequate provision for the hygienic storage and disposal of household waste.
 
-### 16. Food safety[^key-7b835fcc50b794b4108127659974302f]
+### 16. Food safety[^c-7b835fcc50b794b4108127659974302f]
 
 An inadequate provision of facilities for the storage, preparation and cooking of food.
 
-### 17. Personal hygiene, sanitation and drainage[^key-6489456bae4ddc73e06d1fb00dbd0acc]
+### 17. Personal hygiene, sanitation and drainage[^c-6489456bae4ddc73e06d1fb00dbd0acc]
 
 An inadequate provision of—
 
 - (a) facilities for maintaining good personal hygiene;
 - (b) sanitation and drainage.
 
-### 18. Water supply[^key-a9f4d394d3a5dfd249ab26c6fef10bc8]
+### 18. Water supply[^c-a9f4d394d3a5dfd249ab26c6fef10bc8]
 
 An inadequate supply of water free from contamination, for drinking and other domestic purposes.
 
-### 19. Falls associated with baths etc.[^key-cc490b7fd7bb6a86e4f616a8ecf7a5ae]
+### 19. Falls associated with baths etc.[^c-cc490b7fd7bb6a86e4f616a8ecf7a5ae]
 
 Falls associated with toilets, baths, showers or other washing facilities.
 
-### 20. Falling on surfaces[^key-2b11242551c8fadc33a0c3bb85447181]
+### 20. Falling on surfaces[^c-2b11242551c8fadc33a0c3bb85447181]
 
 Falling on a surface.
 
-### 21. Falling on stairs etc.[^key-42212c5c5211d07272c742493c04c845]
+### 21. Falling on stairs etc.[^c-42212c5c5211d07272c742493c04c845]
 
 Falling on stairs, steps or ramps.
 
-### 22. Falling between surfaces[^key-6105203efc8b8868f74af08177433447]
+### 22. Falling between surfaces[^c-6105203efc8b8868f74af08177433447]
 
 Falling from one surface to another (including falling from height).
 
-### 23. Electrical hazards[^key-cde990adfa4e0032a64f4c87815a3266]
+### 23. Electrical hazards[^c-cde990adfa4e0032a64f4c87815a3266]
 
 Exposure to electricity.
 
-### 24. Fire[^key-1cb1989f0548bd92aeaeee85c166f0d3]
+### 24. Fire[^c-1cb1989f0548bd92aeaeee85c166f0d3]
 
 Exposure to uncontrolled fire and associated smoke.
 
-### 25. Flames, hot surfaces etc.[^key-f3d11c92798c38a34bb6bd983181094e]
+### 25. Flames, hot surfaces etc.[^c-f3d11c92798c38a34bb6bd983181094e]
 
 Contact with—
 
 - (a) controlled fire or flames;
 - (b) hot objects, liquid or vapours.
 
-### 26. Collision and entrapment[^key-62a17ca8edc45a9b56311f20da926146]
+### 26. Collision and entrapment[^c-62a17ca8edc45a9b56311f20da926146]
 
 Collision with, or entrapment of body parts in, doors, windows or other architectural features.
 
-### 27. Explosions[^key-4c09d6e361393a4e9aad5a1b7ae4e6c3]
+### 27. Explosions[^c-4c09d6e361393a4e9aad5a1b7ae4e6c3]
 
 An explosion at the dwelling.
 
-### 28. Position and operability of amenities etc.[^key-022537e35e8840f7c2cf2f711ea44478]
+### 28. Position and operability of amenities etc.[^c-022537e35e8840f7c2cf2f711ea44478]
 
 The position, location and operability of amenities, fittings and equipment.
 
-### 29. Structural collapse and falling elements[^key-c4ec192a6c2b1e8a29af0cb710d474a4]
+### 29. Structural collapse and falling elements[^c-c4ec192a6c2b1e8a29af0cb710d474a4]
 
 The collapse of the whole or part of the dwelling including falling elements.
 
@@ -337,25 +337,25 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1). See section 252 for the definition of “prescribed”.
 
-[^key-1f5e597e293042b1529ee4554954408f]: Commencement: Reg. 1 in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/6/regulation/1) (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [art. 3](https://www.legislation.gov.uk/wsi/2022/906/article/3))
+[^c-1f5e597e293042b1529ee4554954408f]: Commencement: Reg. 1 in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/6/regulation/1) (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [art. 3](https://www.legislation.gov.uk/wsi/2022/906/article/3))
 
-[^key-fd11a55dcf21ec3b3993d1f6de56f912]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/6/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [3](https://www.legislation.gov.uk/wsi/2022/906/article/3)
+[^c-fd11a55dcf21ec3b3993d1f6de56f912]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/6/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [3](https://www.legislation.gov.uk/wsi/2022/906/article/3)
 
 [^f00002]: Footnote: Section 239 of the Renting Homes (Wales) Act 2016 comes into force on a day appointed by the Welsh Ministers in an order made by statutory instrument.
 
-[^key-8337e5cdda640db2d21617a23eff90fb]: Commencement: Reg. 2 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-8337e5cdda640db2d21617a23eff90fb]: Commencement: Reg. 2 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-b0a8b2e38ff0f7b13d1588b5f6dc1d1f]: Commencement: Reg. 3 in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/6/regulation/1) (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [art. 3](https://www.legislation.gov.uk/wsi/2022/906/article/3))
+[^c-b0a8b2e38ff0f7b13d1588b5f6dc1d1f]: Commencement: Reg. 3 in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/6/regulation/1) (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [art. 3](https://www.legislation.gov.uk/wsi/2022/906/article/3))
 
-[^key-dd3a5b08ff22af5bda794c2a7e05a3e3]: Commencement: Reg. 4 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-dd3a5b08ff22af5bda794c2a7e05a3e3]: Commencement: Reg. 4 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
 [^f00003]: Footnote: See section 90 of the Act which makes provision for determining whether fixed term standard contracts are to be treated as being made for less, or more, than, 7 years.
 
-[^key-ed6c5961ef4a9105203299283fb29ccd]: Commencement: Reg. 5 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-ed6c5961ef4a9105203299283fb29ccd]: Commencement: Reg. 5 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
 [^f00004]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). There are amendments to section 48 which are not relevant to these Regulations.
 
-[^key-ef085d6a1d153f2d3a3ddbe8139d8740]: Commencement: Reg. 6 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-ef085d6a1d153f2d3a3ddbe8139d8740]: Commencement: Reg. 6 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
 [^M_F_987ce477-1b1b-4b7d-9c47-5a109ee607f2]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/wsi/2022/6/regulation/6/3) substituted (30.11.2022) by [The Renting Homes (Fitness for Human Habitation) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1076)](https://www.legislation.gov.uk/uksi/2022/1076), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1076/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1076/regulation/2/2/a)
 
@@ -367,70 +367,70 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^M_F_3f65035b-ad83-44b0-f6b5-a2ed36aab34e]: Textual amendment: Word in [reg. 6(8)](https://www.legislation.gov.uk/wsi/2022/6/regulation/6/8) substituted (30.11.2022) by [The Renting Homes (Fitness for Human Habitation) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1076)](https://www.legislation.gov.uk/uksi/2022/1076), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1076/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2022/1076/regulation/2/2/d)
 
-[^key-7850bc8695a745e391988e3471ae5ae0]: Commencement: Reg. 7 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-7850bc8695a745e391988e3471ae5ae0]: Commencement: Reg. 7 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
 [^M_F_d313774f-b8b8-4909-d453-543fa38191b6]: Textual amendment: Word in reg. 7(5) substituted (30.11.2022) by [The Renting Homes (Fitness for Human Habitation) (Wales) (Amendment) Regulations 2022 (S.I. 2022/1076)](https://www.legislation.gov.uk/wsi/2022/1076), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1076/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/1076/regulation/2/3)
 
 [^f00007]: Footnote: Conversion takes place on the appointed day. This is defined by section 242 of the Act.
 
-[^key-adc39ff6eaf4681f573c4661b79dcef0]: Commencement: Reg. 8 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-adc39ff6eaf4681f573c4661b79dcef0]: Commencement: Reg. 8 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-747fcedd2e1048ab33561cb6cf7d6843]: Commencement: Sch. para. 1 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-747fcedd2e1048ab33561cb6cf7d6843]: Commencement: Sch. para. 1 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-c18196f04e1aa47632bdaf1f49ae258a]: Commencement: Sch. para. 2 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-c18196f04e1aa47632bdaf1f49ae258a]: Commencement: Sch. para. 2 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-8812f05357836f8a488f5fa98ba99f51]: Commencement: Sch. para. 3 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-8812f05357836f8a488f5fa98ba99f51]: Commencement: Sch. para. 3 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-0ea5436e220c83da9cdbf1196bb88246]: Commencement: Sch. para. 4 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-0ea5436e220c83da9cdbf1196bb88246]: Commencement: Sch. para. 4 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-1bf17929a94c83f9da34771f2f091c2c]: Commencement: Sch. para. 5 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-1bf17929a94c83f9da34771f2f091c2c]: Commencement: Sch. para. 5 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-a4c727e66b18d27499734aa93af37db2]: Commencement: Sch. para. 6 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-a4c727e66b18d27499734aa93af37db2]: Commencement: Sch. para. 6 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-c867cb55ba9a4813af0ca47d44251f6b]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/wsi/2022/6/schedule/paragraph/6) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/6/regulation/1)
+[^c-c867cb55ba9a4813af0ca47d44251f6b]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/wsi/2022/6/schedule/paragraph/6) in force at 1.12.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/6/regulation/1)
 
-[^key-8319a0ca5efe64f88843890bcaa80bac]: Commencement: Sch. para. 7 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-8319a0ca5efe64f88843890bcaa80bac]: Commencement: Sch. para. 7 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-3929d8a70d0368d0b90d10bae577e1aa]: Commencement: Sch. para. 8 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-3929d8a70d0368d0b90d10bae577e1aa]: Commencement: Sch. para. 8 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-b758e2ef77020eafab4ef3cfe5896a5e]: Commencement: Sch. para. 9 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-b758e2ef77020eafab4ef3cfe5896a5e]: Commencement: Sch. para. 9 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-5b900d8640c5e3b35c29a3215763fbc5]: Commencement: Sch. para. 10 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-5b900d8640c5e3b35c29a3215763fbc5]: Commencement: Sch. para. 10 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-4d2069a54e8950927cbe050108e051ab]: Commencement: Sch. para. 11 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-4d2069a54e8950927cbe050108e051ab]: Commencement: Sch. para. 11 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-fd2f7ebc8b6577c6c2cb9e39448920fd]: Commencement: Sch. para. 12 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-fd2f7ebc8b6577c6c2cb9e39448920fd]: Commencement: Sch. para. 12 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-1c129224a021455bd1bad9923b7661eb]: Commencement: Sch. para. 13 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-1c129224a021455bd1bad9923b7661eb]: Commencement: Sch. para. 13 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-c416b341b4615d86d603003ae17c4018]: Commencement: Sch. para. 14 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-c416b341b4615d86d603003ae17c4018]: Commencement: Sch. para. 14 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-e0f1e8b057853fb692e4dc300a509855]: Commencement: Sch. para. 15 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-e0f1e8b057853fb692e4dc300a509855]: Commencement: Sch. para. 15 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-7b835fcc50b794b4108127659974302f]: Commencement: Sch. para. 16 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-7b835fcc50b794b4108127659974302f]: Commencement: Sch. para. 16 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-6489456bae4ddc73e06d1fb00dbd0acc]: Commencement: Sch. para. 17 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-6489456bae4ddc73e06d1fb00dbd0acc]: Commencement: Sch. para. 17 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-a9f4d394d3a5dfd249ab26c6fef10bc8]: Commencement: Sch. para. 18 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-a9f4d394d3a5dfd249ab26c6fef10bc8]: Commencement: Sch. para. 18 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-cc490b7fd7bb6a86e4f616a8ecf7a5ae]: Commencement: Sch. para. 19 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-cc490b7fd7bb6a86e4f616a8ecf7a5ae]: Commencement: Sch. para. 19 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-2b11242551c8fadc33a0c3bb85447181]: Commencement: Sch. para. 20 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-2b11242551c8fadc33a0c3bb85447181]: Commencement: Sch. para. 20 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-42212c5c5211d07272c742493c04c845]: Commencement: Sch. para. 21 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-42212c5c5211d07272c742493c04c845]: Commencement: Sch. para. 21 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-6105203efc8b8868f74af08177433447]: Commencement: Sch. para. 22 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-6105203efc8b8868f74af08177433447]: Commencement: Sch. para. 22 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-cde990adfa4e0032a64f4c87815a3266]: Commencement: Sch. para. 23 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-cde990adfa4e0032a64f4c87815a3266]: Commencement: Sch. para. 23 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-1cb1989f0548bd92aeaeee85c166f0d3]: Commencement: Sch. para. 24 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-1cb1989f0548bd92aeaeee85c166f0d3]: Commencement: Sch. para. 24 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-f3d11c92798c38a34bb6bd983181094e]: Commencement: Sch. para. 25 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-f3d11c92798c38a34bb6bd983181094e]: Commencement: Sch. para. 25 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-62a17ca8edc45a9b56311f20da926146]: Commencement: Sch. para. 26 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-62a17ca8edc45a9b56311f20da926146]: Commencement: Sch. para. 26 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-4c09d6e361393a4e9aad5a1b7ae4e6c3]: Commencement: Sch. para. 27 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-4c09d6e361393a4e9aad5a1b7ae4e6c3]: Commencement: Sch. para. 27 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-022537e35e8840f7c2cf2f711ea44478]: Commencement: Sch. para. 28 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-022537e35e8840f7c2cf2f711ea44478]: Commencement: Sch. para. 28 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
 
-[^key-c4ec192a6c2b1e8a29af0cb710d474a4]: Commencement: Sch. para. 29 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))
+[^c-c4ec192a6c2b1e8a29af0cb710d474a4]: Commencement: Sch. para. 29 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 3](https://www.legislation.gov.uk/uksi/2022/906/article/3))

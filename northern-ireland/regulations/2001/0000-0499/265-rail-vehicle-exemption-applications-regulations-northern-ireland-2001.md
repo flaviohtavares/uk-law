@@ -33,7 +33,7 @@ DISABLED PERSONS
 
 ROAD AND RAILWAY TRANSPORT
 
-Rail Vehicle (Exemption Applications) Regulations (Northern Ireland) 2001 (revoked)[^key-6e02a90fd41ad0d29b2ba72028e9dc72]
+Rail Vehicle (Exemption Applications) Regulations (Northern Ireland) 2001 (revoked)[^c-6e02a90fd41ad0d29b2ba72028e9dc72]
 
 Made
 
@@ -43,60 +43,60 @@ Coming into operation
 
 19th October 2001
 
-[^key-6e02a90fd41ad0d29b2ba72028e9dc72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e02a90fd41ad0d29b2ba72028e9dc72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6e02a90fd41ad0d29b2ba72028e9dc72]
+## 1. Citation and commencement[^c-6e02a90fd41ad0d29b2ba72028e9dc72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6e02a90fd41ad0d29b2ba72028e9dc72]
+## 2. Interpretation[^c-6e02a90fd41ad0d29b2ba72028e9dc72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Manner of making exemption applications[^key-6e02a90fd41ad0d29b2ba72028e9dc72]
+## 3. Manner of making exemption applications[^c-6e02a90fd41ad0d29b2ba72028e9dc72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Period and revocation of exemption orders[^key-6e02a90fd41ad0d29b2ba72028e9dc72]
+## 4. Period and revocation of exemption orders[^c-6e02a90fd41ad0d29b2ba72028e9dc72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6e02a90fd41ad0d29b2ba72028e9dc72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e02a90fd41ad0d29b2ba72028e9dc72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Particulars to be provided with application[^key-6e02a90fd41ad0d29b2ba72028e9dc72]
+## SCHEDULE — Particulars to be provided with application[^c-6e02a90fd41ad0d29b2ba72028e9dc72]
 
 Regulation 3
 
-**1.**[^key-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-6e02a90fd41ad0d29b2ba72028e9dc72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6e02a90fd41ad0d29b2ba72028e9dc72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6e02a90fd41ad0d29b2ba72028e9dc72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e02a90fd41ad0d29b2ba72028e9dc72]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/265) revoked (28.4.2014) by [The Rail Vehicle Accessibility (Applications for Exemption Orders) Regulations (Northern Ireland) 2014 (S.R. 2014/46)](https://www.legislation.gov.uk/nisr/2014/46), [reg. 5](https://www.legislation.gov.uk/nisr/2014/46/regulation/5)
+[^c-6e02a90fd41ad0d29b2ba72028e9dc72]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/265) revoked (28.4.2014) by [The Rail Vehicle Accessibility (Applications for Exemption Orders) Regulations (Northern Ireland) 2014 (S.R. 2014/46)](https://www.legislation.gov.uk/nisr/2014/46), [reg. 5](https://www.legislation.gov.uk/nisr/2014/46/regulation/5)

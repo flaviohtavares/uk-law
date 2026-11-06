@@ -70,7 +70,7 @@ and that he did the act, or (as the case may be) threatened to do the act, with 
 - (a) proceedings for an offence are instituted at the earliest of the following times—
   - (i) when a justice of the peace issues a summons or warrant under section 1 of the [^c13102271]Magistrates’ Courts Act 1980 in respect of the offence;
   - (ii) when a person is charged with the offence after being taken into custody without a warrant;
-  - (iii) when a bill of indictment is preferred by virtue of section 2(2)(b) or (ba)[^key-42a238a642933b1fa971c6005766ed75] of the [^c13102281]Administration of Justice (Miscellaneous Provisions) Act 1933;
+  - (iii) when a bill of indictment is preferred by virtue of section 2(2)(b) or (ba)[^c-42a238a642933b1fa971c6005766ed75] of the [^c13102281]Administration of Justice (Miscellaneous Provisions) Act 1933;
 - (b) proceedings at a trial of an offence are concluded with the occurrence of any of the following, the discontinuance of the prosecution, the discharge of the jury without a finding otherwise than in circumstances where the proceedings are continued without a jury[^c19807021], the acquittal of the accused or the sentencing of or other dealing with the accused for the offence of which he was convicted; and
 - (c) proceedings on an appeal are concluded on the determination of the appeal or the abandonment of the appeal.
 
@@ -88,7 +88,7 @@ and that he did the act, or (as the case may be) threatened to do the act, with 
 
 [^c13102271]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-42a238a642933b1fa971c6005766ed75]: Textual amendment: Words in s. 51(10)(a)(iii) inserted (24.2.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 17 para. 36](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/36) (with [Sch. 17 para. 39](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/39)); [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
+[^c-42a238a642933b1fa971c6005766ed75]: Textual amendment: Words in s. 51(10)(a)(iii) inserted (24.2.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 17 para. 36](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/36) (with [Sch. 17 para. 39](https://www.legislation.gov.uk/ukpga/2013/22/schedule/17/paragraph/39)); [S.I. 2014/258](https://www.legislation.gov.uk/uksi/2014/258), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/258/article/2/b)
 
 [^c13102281]: Marginal citation: [1933 c. 36](https://www.legislation.gov.uk/ukpga/1933/36).
 

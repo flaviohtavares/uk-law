@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Remunerative work[^key-1e5b4bcbb467cffc718cbe9f565580be]
+## 3. Remunerative work[^c-1e5b4bcbb467cffc718cbe9f565580be]
 
 *Extent: E+W+S*
 
-(1) Subject to the following provisions of this regulation, a person shall be treated for the purposes of these Regulations as engaged in remunerative work if he is engaged, or, where his hours of work fluctuate, he is engaged on average, for not less than 16 hours[^key-8ad3f2eb9cc767734e566cba8ddc6a19] a week, in work for which payment is made or which is done in expectation of payment.
+(1) Subject to the following provisions of this regulation, a person shall be treated for the purposes of these Regulations as engaged in remunerative work if he is engaged, or, where his hours of work fluctuate, he is engaged on average, for not less than 16 hours[^c-8ad3f2eb9cc767734e566cba8ddc6a19] a week, in work for which payment is made or which is done in expectation of payment.
 
 (2) In determining the number of hours for which a person is engaged in work where his hours of work fluctuate, regard shall be had to the average of hours worked over–
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e5b4bcbb467cffc718cbe9f565580be]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1989/1321/regulation/3) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-1e5b4bcbb467cffc718cbe9f565580be]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1989/1321/regulation/3) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
-[^key-8ad3f2eb9cc767734e566cba8ddc6a19]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/3/1) substituted (1.4.1992) by [The Housing Benefit and Community Charge Benefits (Miscellaneous) Amendment Regulations 1991 (S.I. 1991/1599)](https://www.legislation.gov.uk/uksi/1991/1599), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1991/1599/regulation/1/1/d), [19](https://www.legislation.gov.uk/uksi/1991/1599/regulation/19)
+[^c-8ad3f2eb9cc767734e566cba8ddc6a19]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/3/1) substituted (1.4.1992) by [The Housing Benefit and Community Charge Benefits (Miscellaneous) Amendment Regulations 1991 (S.I. 1991/1599)](https://www.legislation.gov.uk/uksi/1991/1599), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/1991/1599/regulation/1/1/d), [19](https://www.legislation.gov.uk/uksi/1991/1599/regulation/19)

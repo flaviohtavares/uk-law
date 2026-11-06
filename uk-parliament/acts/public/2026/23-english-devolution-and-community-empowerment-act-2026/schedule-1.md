@@ -24,9 +24,9 @@ Section 4
 
 ### Part 1 — Combined authorities
 
-**1.**[^key-d17bbe2923534b29d83dfecd2c16a737] LDEDCA 2009 is amended as follows.
+**1.**[^c-d17bbe2923534b29d83dfecd2c16a737] LDEDCA 2009 is amended as follows.
 
-**2.**[^key-291f48f5075b61130acc701b335ec222] In section 104 (constitution and functions: transport)—
+**2.**[^c-291f48f5075b61130acc701b335ec222] In section 104 (constitution and functions: transport)—
 
 - (a) in subsection (10)—
   - (i) in the opening words, for “section 107ZA(7)” substitute “subsections (10A), (11B) and (12)”;
@@ -40,9 +40,9 @@ Section 4
 - (c) in subsection (11), for the opening words substitute “In this Part “**constituent council**”, in relation to a combined authority, means—”;
 - (d) omit subsection (11A).
 
-**3.**[^key-e1b0d959913bf5d31a2eabfc0826cb87] In section 104A (non-constituent members of a combined authority), omit subsection (7).
+**3.**[^c-e1b0d959913bf5d31a2eabfc0826cb87] In section 104A (non-constituent members of a combined authority), omit subsection (7).
 
-**4.**[^key-898eaf9e1d1383c0de23ff89cde7d4c3] In section 105 (constitution and functions: local authority functions generally)—
+**4.**[^c-898eaf9e1d1383c0de23ff89cde7d4c3] In section 105 (constitution and functions: local authority functions generally)—
 
 - (a) in subsection (3A)—
   - (i) in the opening words, for “a combined authority” substitute “an existing combined authority”;
@@ -55,7 +55,7 @@ Section 4
   ;
 - (c) in subsection (3B), after “is” insert “also”.
 
-**5.**[^key-7228957651e781f0bae6f73c4d6e46b3] In section 105B (section 105A orders: procedure)—
+**5.**[^c-7228957651e781f0bae6f73c4d6e46b3] In section 105B (section 105A orders: procedure)—
 
 - (a) for subsection (1) substitute—
 
@@ -76,7 +76,7 @@ Section 4
 - (c) omit subsections (3) to (5);
 - (d) omit subsection (12).
 
-**6.**[^key-ce41005c7d08fa92f13e5ceade9442e1] After section 105B insert—
+**6.**[^c-ce41005c7d08fa92f13e5ceade9442e1] After section 105B insert—
 
 > **105C. Non-mayoral combined authority: consent to budget**
 >
@@ -87,7 +87,7 @@ Section 4
 >
 > (2) In this section a reference to the “**transport levy**” is a reference to any levy issued by the combined authority relating to the exercise of its functions relating to transport in accordance with any regulations made from time to time under section 74(2) of the Local Government Finance Act 1988.
 
-**7.**[^key-5b133b9a0d4ba718c53eafc6542c3bdd] After section 105C (inserted by paragraph 6 of this Schedule) insert—
+**7.**[^c-5b133b9a0d4ba718c53eafc6542c3bdd] After section 105C (inserted by paragraph 6 of this Schedule) insert—
 
 > **105D. Non-mayoral combined authority: functions imposing financial liability**
 >
@@ -97,16 +97,16 @@ Section 4
 >
 > (3) When deciding whether subsection (1) applies, the authority must have regard to the “Code of Practice on Local Authority Accounting in the United Kingdom” published by the Chartered Institute of Public Finance and Accountancy, as amended or reissued from time to time.
 
-**8.**[^key-8ec7e2baa200487a5a4d1e668e2de5e8] In section 106 (changes to boundaries of a combined authority’s area), omit subsections (3A) to (3D).
+**8.**[^c-8ec7e2baa200487a5a4d1e668e2de5e8] In section 106 (changes to boundaries of a combined authority’s area), omit subsections (3A) to (3D).
 
-**9.**[^key-10871bd1f99e10305fdb1e06a17bf16a] In section 107 (dissolution of a combined authority’s area), omit subsections (2) and (3).
+**9.**[^c-10871bd1f99e10305fdb1e06a17bf16a] In section 107 (dissolution of a combined authority’s area), omit subsections (2) and (3).
 
-**10.**[^key-f822e187eac4f9df53bcb7eb8f822642] In section 107ZA (designation of key route network roads)—
+**10.**[^c-f822e187eac4f9df53bcb7eb8f822642] In section 107ZA (designation of key route network roads)—
 
 - (a) omit subsections (7) and (8);
 - (b) in subsection (9), omit the definitions of “constituent council” and “eligible power”.
 
-**11.**[^key-1bdeab47ce44cc020f3c06ab9fa2595c] For section 107B substitute—
+**11.**[^c-1bdeab47ce44cc020f3c06ab9fa2595c] For section 107B substitute—
 
 > **107B. Requirements in connection with orders under section 107A**
 >
@@ -121,7 +121,7 @@ Section 4
 >
 > (4) The requirements under this subsection are that the order implements a proposal that the Secretary of State is satisfied that the constituent councils and the combined authority have consented to in principle.
 
-**12.**[^key-f6caddc01abf7e1d75fb362cf3c271e9] In section 107D (functions of mayors: general)—
+**12.**[^c-f6caddc01abf7e1d75fb362cf3c271e9] In section 107D (functions of mayors: general)—
 
 - (a) for subsection (9) substitute—
 
@@ -139,11 +139,11 @@ Section 4
 
   > (10A) The requirement in subsection (9) does not apply where a proposal to make the order has been submitted to the Secretary of State in accordance with section 112A (proposal for changes to existing combined arrangements - locally led).
 
-**13.**[^key-398f60956163dd92ecb0a97033ee68c7] In section 107DA (procedure for direct conferral of general functions on mayor), omit subsection (5).
+**13.**[^c-398f60956163dd92ecb0a97033ee68c7] In section 107DA (procedure for direct conferral of general functions on mayor), omit subsection (5).
 
-**14.**[^key-d1e9cbb288fd0304ad6390260e43e40c] In section 107EB (section 107EA orders: procedure), in subsection (12), omit the definition of “constituent councils”.
+**14.**[^c-d1e9cbb288fd0304ad6390260e43e40c] In section 107EB (section 107EA orders: procedure), in subsection (12), omit the definition of “constituent councils”.
 
-**15.**[^key-268c88077efc230d3a5925e359f7dada] In section 109A (proposal for new combined authority)—
+**15.**[^c-268c88077efc230d3a5925e359f7dada] In section 109A (proposal for new combined authority)—
 
 - (a) in the heading, at the end insert “(locally led)”;
 - (b) in subsection (4), for paragraph (a) substitute—
@@ -161,7 +161,7 @@ Section 4
   ;
 - (d) omit subsection (7).
 
-**16.**[^key-2b36e47525c12113280eb0c6fad9db2a] For section 110 substitute—
+**16.**[^c-2b36e47525c12113280eb0c6fad9db2a] For section 110 substitute—
 
 > **110. Requirements in connection with establishment of combined authority**
 >
@@ -204,7 +204,7 @@ Section 4
 >   - (a) the constituent councils, and
 >   - (b) any other persons that the Secretary of State considers it appropriate to consult.
 
-**17.**[^key-0e7e9e7de0d766ab2f65149a44a14635] In section 112A (proposal for changes to existing combined arrangements)—
+**17.**[^c-0e7e9e7de0d766ab2f65149a44a14635] In section 112A (proposal for changes to existing combined arrangements)—
 
 - (a) in the heading, at the end insert “(locally led)”;
 - (b) in subsection (1)(a), for the words from “section 104” to “107F” substitute “any of the relevant sections”;
@@ -247,7 +247,7 @@ Section 4
 
 **Not yet in force.**
 
-**18.**[^key-1573147f83bc1d061d5c20261a52f145] After section 112A insert—
+**18.**[^c-1573147f83bc1d061d5c20261a52f145] After section 112A insert—
 
 > **112B. Proposal to add an area to an existing area of a combined authority (Secretary of State directed)**
 >
@@ -286,7 +286,7 @@ Section 4
 > - “**proposed area**” means the area of a combined authority after the local government area that is proposed to be added to it has been added to the area;
 > - “**statutory test**” has the meaning given by section 110(6).
 
-**19.**[^key-e03fb4caabf6e8b1874a98a90eb77c38] For section 113 substitute—
+**19.**[^c-e03fb4caabf6e8b1874a98a90eb77c38] For section 113 substitute—
 
 > **113. Requirements in connection with changes to existing combined arrangements**
 >
@@ -320,7 +320,7 @@ Section 4
 >
 > (7) In this section, “**statutory test**” has the meaning given by section 110(6).
 
-**20.**[^key-e6cd7c93b720e69d93c7b75d79f1acdf] After section 113 (inserted by paragraph 19) insert—
+**20.**[^c-e6cd7c93b720e69d93c7b75d79f1acdf] After section 113 (inserted by paragraph 19) insert—
 
 > **113ZA. Requirements in connection with boundary changes or dissolution of combined authority**
 >
@@ -410,7 +410,7 @@ Section 4
 > - (a) a county council whose area, or part of whose area, is within the area of the combined authority;
 > - (b) a unitary district council whose area is within the area of the combined authority.
 
-**21.**[^key-dc2cad349f639d3b2f795d55f07cf879] In section 113D (general power of competence)—
+**21.**[^c-dc2cad349f639d3b2f795d55f07cf879] In section 113D (general power of competence)—
 
 - (a) in subsection (2), omit “(as defined by section 107B(5))”;
 - (b) for subsection (3) substitute—
@@ -422,9 +422,9 @@ Section 4
 
 ### Part 2 — CCAs
 
-**22.**[^key-58bc62bbad04c8b9b09073d642b87287] LURA 2023 is amended as follows.
+**22.**[^c-58bc62bbad04c8b9b09073d642b87287] LURA 2023 is amended as follows.
 
-**23.**[^key-6c918f39aa41fb6c9c433511ddeb0df6] In section 10 (constitutional arrangements)—
+**23.**[^c-6c918f39aa41fb6c9c433511ddeb0df6] In section 10 (constitutional arrangements)—
 
 - (a) in subsection (8)—
   - (i) in the opening words, for “a CCA” substitute “an existing CCA”;
@@ -436,7 +436,7 @@ Section 4
   ;
 - (c) omit subsection (9).
 
-**24.**[^key-3428d94f259667a6a34e8563dfa7aa0e] In section 16 (funding)—
+**24.**[^c-3428d94f259667a6a34e8563dfa7aa0e] In section 16 (funding)—
 
 - (a) in subsection (2)—
   - (i) in the opening words, for “a CCA” substitute “an existing CCA”;
@@ -445,7 +445,7 @@ Section 4
 
   > (2A) Subsection (2) does not apply where a proposal to make the regulations has been submitted to the Secretary of State in accordance with section 47 (proposal for changes to existing arrangements relating to CCA - locally led).
 
-**25.**[^key-ca51401fc3cd9935e16ffc3518424502] In section 18 (local authority functions)—
+**25.**[^c-ca51401fc3cd9935e16ffc3518424502] In section 18 (local authority functions)—
 
 - (a) in subsection (6)—
   - (i) in the opening words, for “a CCA” substitute “an existing CCA”;
@@ -454,7 +454,7 @@ Section 4
 
   > (7) Subsection (6) does not apply where a proposal to make the regulations has been submitted to the Secretary of State in accordance with section 47 (proposal for changes to existing arrangements relating to CCA - locally led).
 
-**26.**[^key-5db5ab13d5cac5e3b512b7dfda91af95] In section 20 (section 19 regulations: procedure)—
+**26.**[^c-5db5ab13d5cac5e3b512b7dfda91af95] In section 20 (section 19 regulations: procedure)—
 
 - (a) for subsection (1) substitute—
 
@@ -466,7 +466,7 @@ Section 4
 - (c) in subsection (4), for “appropriate consent to be given” substitute “appropriate authorities to consent”;
 - (d) in subsection (8)(b), omit “in the case of regulations in relation to an existing CCA,”.
 
-**27.**[^key-76c08c52bd896fe963972e1c6dbf743a] In section 21 (integrated transport authority and passenger transport executive)—
+**27.**[^c-76c08c52bd896fe963972e1c6dbf743a] In section 21 (integrated transport authority and passenger transport executive)—
 
 - (a) in subsection (5)—
   - (i) in the opening words, for “a CCA” substitute “an existing CCA”;
@@ -475,7 +475,7 @@ Section 4
 
   > (5A) Subsection (5) does not apply where a proposal to make the regulations has been submitted to the Secretary of State in accordance with section 47 (proposal for changes to existing arrangements relating to CCA - locally led).
 
-**28.**[^key-1eeccbe20b2850df53bf250c8b9ed08a] In section 22 (directions relating to highways and traffic functions)—
+**28.**[^c-1eeccbe20b2850df53bf250c8b9ed08a] In section 22 (directions relating to highways and traffic functions)—
 
 - (a) in subsection (11)—
   - (i) for the opening words, substitute “Regulations under subsection (1) may be made in relation to an existing CCA only with the consent of—”;
@@ -484,12 +484,12 @@ Section 4
 
   > (12) Subsection (11) does not apply where a proposal to make the regulations has been submitted to the Secretary of State in accordance with section 47 (proposal for changes to existing arrangements relating to CCA - locally led).
 
-**29.**[^key-01ddbbb7476306c8b43df4b7298f3add] In section 24 (designation of key route network roads)—
+**29.**[^c-01ddbbb7476306c8b43df4b7298f3add] In section 24 (designation of key route network roads)—
 
 - (a) omit subsections (7) and (8);
 - (b) in subsection (9), omit the definition of “eligible power”.
 
-**30.**[^key-bfeb94dbb042f13d3463685b2cfb0af3] After section 24C (inserted by section 7 of this Act) insert—
+**30.**[^c-bfeb94dbb042f13d3463685b2cfb0af3] After section 24C (inserted by section 7 of this Act) insert—
 
 > **24D. Non-mayoral CCA: consent to budget**
 >
@@ -500,7 +500,7 @@ Section 4
 >
 > (2) In this section a reference to the “**transport levy**” is a reference to any levy issued by the CCA relating to the exercise of its functions relating to transport in accordance with any regulations made from time to time under section 74(2) of the Local Government Finance Act 1988.
 
-**31.**[^key-e5586d8e9cf0be8256ea710976f3f4c9] After section 24D (inserted by paragraph 31 of this Schedule) insert—
+**31.**[^c-e5586d8e9cf0be8256ea710976f3f4c9] After section 24D (inserted by paragraph 31 of this Schedule) insert—
 
 > **24E. Non-mayoral CCA: functions imposing financial liability**
 >
@@ -510,11 +510,11 @@ Section 4
 >
 > (3) When deciding whether subsection (1) applies, the CCA must have regard to the “Code of Practice on Local Authority Accounting in the United Kingdom” published by the Chartered Institute of Public Finance and Accountancy, as amended or reissued from time to time.
 
-**32.**[^key-b1c2d8a0286812dbde67e1f8de8918af] In section 25 (changes to boundaries of a CCA’s area), omit subsections (6) to (10).
+**32.**[^c-b1c2d8a0286812dbde67e1f8de8918af] In section 25 (changes to boundaries of a CCA’s area), omit subsections (6) to (10).
 
-**33.**[^key-0fd8d789ada9f4b7d69c9b01e3127972] In section 26 (dissolution of a CCA’s area), omit subsection (4).
+**33.**[^c-0fd8d789ada9f4b7d69c9b01e3127972] In section 26 (dissolution of a CCA’s area), omit subsection (4).
 
-**34.**[^key-50acedde7deb16b8b64f206735a416ff] For section 28 substitute—
+**34.**[^c-50acedde7deb16b8b64f206735a416ff] For section 28 substitute—
 
 > **28. Requirements in connection with regulations under section 27**
 >
@@ -529,7 +529,7 @@ Section 4
 >
 > (4) The requirements under this subsection are that the regulations implement a proposal that the Secretary of State is satisfied that the constituent councils and the CCA have consented to in principle.
 
-**35.**[^key-070776b79257eb8cdc15fde41978e180] In section 30 (functions of mayors: general)—
+**35.**[^c-070776b79257eb8cdc15fde41978e180] In section 30 (functions of mayors: general)—
 
 - (a) for subsection (11) substitute—
 
@@ -552,7 +552,7 @@ Section 4
 
   > (12A) The requirement in subsection (11) does not apply where a proposal to make the regulations has been submitted to the Secretary of State in accordance with section 47 (proposal for changes to existing arrangements relating to CCA - locally led).
 
-**36.**[^key-3a7d6fa74f60e06cb998f0e9ec2c3bc6] In section 45 (proposal for new CCA)—
+**36.**[^c-3a7d6fa74f60e06cb998f0e9ec2c3bc6] In section 45 (proposal for new CCA)—
 
 - (a) in the heading, at the end insert “(locally led)”;
 - (b) in subsection (4), for paragraph (a) substitute—
@@ -570,7 +570,7 @@ Section 4
   ;
 - (d) omit subsection (7).
 
-**37.**[^key-54ae84f03b8ef0900785f4edf90704ef] For section 46 substitute—
+**37.**[^c-54ae84f03b8ef0900785f4edf90704ef] For section 46 substitute—
 
 > **46. Requirements in connection with establishment of CCA**
 >
@@ -613,7 +613,7 @@ Section 4
 >   - (a) the constituent councils, and
 >   - (b) any other persons that the Secretary of State considers it appropriate to consult.
 
-**38.**[^key-9e6adfd6fc3743f302ca64888c64f322] In section 47 (proposal for changes to existing arrangements relating to CCA)—
+**38.**[^c-9e6adfd6fc3743f302ca64888c64f322] In section 47 (proposal for changes to existing arrangements relating to CCA)—
 
 - (a) in the heading, at the end insert “(locally led)”;
 - (b) in subsection (1)(a), for the words from “section 10” to “33” substitute “any of the relevant sections”;
@@ -659,7 +659,7 @@ Section 4
 
 **Not yet in force.**
 
-**39.**[^key-12b0b27a6d0e56388185f4f0308451ac] After section 47 insert—
+**39.**[^c-12b0b27a6d0e56388185f4f0308451ac] After section 47 insert—
 
 > **47A. Proposal to add an area to an existing area of a CCA (Secretary of State directed)**
 >
@@ -697,7 +697,7 @@ Section 4
 > - “**proposed area**” means the area of a CCA after the local government area that is proposed to be added to it has been added to the area;
 > - “**statutory test**” has the meaning given by section 46(6).
 
-**40.**[^key-0391aadca048b6da3a48cb479cce7368] For section 48 substitute—
+**40.**[^c-0391aadca048b6da3a48cb479cce7368] For section 48 substitute—
 
 > **48. Requirements for changes to existing arrangements relating to CCA**
 >
@@ -734,7 +734,7 @@ Section 4
 >
 > (7) In this section, “**statutory test**” has the meaning given by section 46(6).
 
-**41.**[^key-6b3179095b04238b78840badfe96be51] After section 48 insert—
+**41.**[^c-6b3179095b04238b78840badfe96be51] After section 48 insert—
 
 > **48A. Requirements in connection with boundary changes or dissolution of CCA**
 >
@@ -811,7 +811,7 @@ Section 4
 > - (a) a majority of the constituent councils, and
 > - (b) if the CCA to be abolished is a mayoral CCA, the mayor for the area of the authority.
 
-**42.**[^key-4f92c324ce450861e297f86b445634d3] In section 52 (general power of competence)—
+**42.**[^c-4f92c324ce450861e297f86b445634d3] In section 52 (general power of competence)—
 
 - (a) in subsection (2) omit “(as defined by section 28(4)”;
 - (b) for subsection (3) substitute—
@@ -823,86 +823,86 @@ Section 4
 
 ## Annotations
 
-[^key-d17bbe2923534b29d83dfecd2c16a737]: Commencement: Sch. 1 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-d17bbe2923534b29d83dfecd2c16a737]: Commencement: Sch. 1 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-291f48f5075b61130acc701b335ec222]: Commencement: Sch. 1 para. 2 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-291f48f5075b61130acc701b335ec222]: Commencement: Sch. 1 para. 2 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-e1b0d959913bf5d31a2eabfc0826cb87]: Commencement: Sch. 1 para. 3 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-e1b0d959913bf5d31a2eabfc0826cb87]: Commencement: Sch. 1 para. 3 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-898eaf9e1d1383c0de23ff89cde7d4c3]: Commencement: Sch. 1 para. 4 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-898eaf9e1d1383c0de23ff89cde7d4c3]: Commencement: Sch. 1 para. 4 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-7228957651e781f0bae6f73c4d6e46b3]: Commencement: Sch. 1 para. 5 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-7228957651e781f0bae6f73c4d6e46b3]: Commencement: Sch. 1 para. 5 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-ce41005c7d08fa92f13e5ceade9442e1]: Commencement: Sch. 1 para. 6 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-ce41005c7d08fa92f13e5ceade9442e1]: Commencement: Sch. 1 para. 6 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-5b133b9a0d4ba718c53eafc6542c3bdd]: Commencement: Sch. 1 para. 7 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-5b133b9a0d4ba718c53eafc6542c3bdd]: Commencement: Sch. 1 para. 7 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-8ec7e2baa200487a5a4d1e668e2de5e8]: Commencement: Sch. 1 para. 8 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-8ec7e2baa200487a5a4d1e668e2de5e8]: Commencement: Sch. 1 para. 8 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-10871bd1f99e10305fdb1e06a17bf16a]: Commencement: Sch. 1 para. 9 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-10871bd1f99e10305fdb1e06a17bf16a]: Commencement: Sch. 1 para. 9 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-f822e187eac4f9df53bcb7eb8f822642]: Commencement: Sch. 1 para. 10 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-f822e187eac4f9df53bcb7eb8f822642]: Commencement: Sch. 1 para. 10 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-1bdeab47ce44cc020f3c06ab9fa2595c]: Commencement: Sch. 1 para. 11 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-1bdeab47ce44cc020f3c06ab9fa2595c]: Commencement: Sch. 1 para. 11 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-f6caddc01abf7e1d75fb362cf3c271e9]: Commencement: Sch. 1 para. 12 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-f6caddc01abf7e1d75fb362cf3c271e9]: Commencement: Sch. 1 para. 12 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-398f60956163dd92ecb0a97033ee68c7]: Commencement: Sch. 1 para. 13 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-398f60956163dd92ecb0a97033ee68c7]: Commencement: Sch. 1 para. 13 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-d1e9cbb288fd0304ad6390260e43e40c]: Commencement: Sch. 1 para. 14 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-d1e9cbb288fd0304ad6390260e43e40c]: Commencement: Sch. 1 para. 14 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-268c88077efc230d3a5925e359f7dada]: Commencement: Sch. 1 para. 15 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-268c88077efc230d3a5925e359f7dada]: Commencement: Sch. 1 para. 15 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-2b36e47525c12113280eb0c6fad9db2a]: Commencement: Sch. 1 para. 16 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-2b36e47525c12113280eb0c6fad9db2a]: Commencement: Sch. 1 para. 16 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-0e7e9e7de0d766ab2f65149a44a14635]: Commencement: Sch. 1 para. 17 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-0e7e9e7de0d766ab2f65149a44a14635]: Commencement: Sch. 1 para. 17 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-1573147f83bc1d061d5c20261a52f145]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)(6)
+[^c-1573147f83bc1d061d5c20261a52f145]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)(6)
 
-[^key-e03fb4caabf6e8b1874a98a90eb77c38]: Commencement: Sch. 1 para. 19 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-e03fb4caabf6e8b1874a98a90eb77c38]: Commencement: Sch. 1 para. 19 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-e6cd7c93b720e69d93c7b75d79f1acdf]: Commencement: Sch. 1 para. 20 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-e6cd7c93b720e69d93c7b75d79f1acdf]: Commencement: Sch. 1 para. 20 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-dc2cad349f639d3b2f795d55f07cf879]: Commencement: Sch. 1 para. 21 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-dc2cad349f639d3b2f795d55f07cf879]: Commencement: Sch. 1 para. 21 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-58bc62bbad04c8b9b09073d642b87287]: Commencement: Sch. 1 para. 22 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-58bc62bbad04c8b9b09073d642b87287]: Commencement: Sch. 1 para. 22 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-6c918f39aa41fb6c9c433511ddeb0df6]: Commencement: Sch. 1 para. 23 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-6c918f39aa41fb6c9c433511ddeb0df6]: Commencement: Sch. 1 para. 23 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-3428d94f259667a6a34e8563dfa7aa0e]: Commencement: Sch. 1 para. 24 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-3428d94f259667a6a34e8563dfa7aa0e]: Commencement: Sch. 1 para. 24 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-ca51401fc3cd9935e16ffc3518424502]: Commencement: Sch. 1 para. 25 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-ca51401fc3cd9935e16ffc3518424502]: Commencement: Sch. 1 para. 25 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-5db5ab13d5cac5e3b512b7dfda91af95]: Commencement: Sch. 1 para. 26 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-5db5ab13d5cac5e3b512b7dfda91af95]: Commencement: Sch. 1 para. 26 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-76c08c52bd896fe963972e1c6dbf743a]: Commencement: Sch. 1 para. 27 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-76c08c52bd896fe963972e1c6dbf743a]: Commencement: Sch. 1 para. 27 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-1eeccbe20b2850df53bf250c8b9ed08a]: Commencement: Sch. 1 para. 28 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-1eeccbe20b2850df53bf250c8b9ed08a]: Commencement: Sch. 1 para. 28 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-01ddbbb7476306c8b43df4b7298f3add]: Commencement: Sch. 1 para. 29 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-01ddbbb7476306c8b43df4b7298f3add]: Commencement: Sch. 1 para. 29 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-bfeb94dbb042f13d3463685b2cfb0af3]: Commencement: Sch. 1 para. 30 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-bfeb94dbb042f13d3463685b2cfb0af3]: Commencement: Sch. 1 para. 30 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-e5586d8e9cf0be8256ea710976f3f4c9]: Commencement: Sch. 1 para. 31 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-e5586d8e9cf0be8256ea710976f3f4c9]: Commencement: Sch. 1 para. 31 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-b1c2d8a0286812dbde67e1f8de8918af]: Commencement: Sch. 1 para. 32 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-b1c2d8a0286812dbde67e1f8de8918af]: Commencement: Sch. 1 para. 32 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-0fd8d789ada9f4b7d69c9b01e3127972]: Commencement: Sch. 1 para. 33 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-0fd8d789ada9f4b7d69c9b01e3127972]: Commencement: Sch. 1 para. 33 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-50acedde7deb16b8b64f206735a416ff]: Commencement: Sch. 1 para. 34 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-50acedde7deb16b8b64f206735a416ff]: Commencement: Sch. 1 para. 34 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-070776b79257eb8cdc15fde41978e180]: Commencement: Sch. 1 para. 35 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-070776b79257eb8cdc15fde41978e180]: Commencement: Sch. 1 para. 35 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-3a7d6fa74f60e06cb998f0e9ec2c3bc6]: Commencement: Sch. 1 para. 36 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-3a7d6fa74f60e06cb998f0e9ec2c3bc6]: Commencement: Sch. 1 para. 36 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-54ae84f03b8ef0900785f4edf90704ef]: Commencement: Sch. 1 para. 37 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-54ae84f03b8ef0900785f4edf90704ef]: Commencement: Sch. 1 para. 37 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-9e6adfd6fc3743f302ca64888c64f322]: Commencement: Sch. 1 para. 38 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-9e6adfd6fc3743f302ca64888c64f322]: Commencement: Sch. 1 para. 38 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-12b0b27a6d0e56388185f4f0308451ac]: Commencement: Sch. 1 para. 39 not in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)(6)
+[^c-12b0b27a6d0e56388185f4f0308451ac]: Commencement: Sch. 1 para. 39 not in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)(6)
 
-[^key-0391aadca048b6da3a48cb479cce7368]: Commencement: Sch. 1 para. 40 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-0391aadca048b6da3a48cb479cce7368]: Commencement: Sch. 1 para. 40 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-6b3179095b04238b78840badfe96be51]: Commencement: Sch. 1 para. 41 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-6b3179095b04238b78840badfe96be51]: Commencement: Sch. 1 para. 41 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-4f92c324ce450861e297f86b445634d3]: Commencement: Sch. 1 para. 42 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-4f92c324ce450861e297f86b445634d3]: Commencement: Sch. 1 para. 42 in force at Royal Assent for specified purposes, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) (No. 2) Order 1985 (revoked)[^key-ccb4a280f0b2b1ceed5c3a3d107a8de9]
+The European Communities (Designation) (No. 2) Order 1985 (revoked)[^c-ccb4a280f0b2b1ceed5c3a3d107a8de9]
 
 Made
 
@@ -51,22 +51,22 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-ccb4a280f0b2b1ceed5c3a3d107a8de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ccb4a280f0b2b1ceed5c3a3d107a8de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ccb4a280f0b2b1ceed5c3a3d107a8de9]
+## 1. Citation and commencement[^c-ccb4a280f0b2b1ceed5c3a3d107a8de9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation[^key-ccb4a280f0b2b1ceed5c3a3d107a8de9]
+## 2. Designation[^c-ccb4a280f0b2b1ceed5c3a3d107a8de9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ccb4a280f0b2b1ceed5c3a3d107a8de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ccb4a280f0b2b1ceed5c3a3d107a8de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ccb4a280f0b2b1ceed5c3a3d107a8de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ccb4a280f0b2b1ceed5c3a3d107a8de9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ccb4a280f0b2b1ceed5c3a3d107a8de9]: Textual amendment: Order revoked (15.3.2008) by [The European Communities (Designation) Order 2008 (S.I. 2008/301)](https://www.legislation.gov.uk/uksi/2008/301), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/301/article/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2008/301/article/6/2/b)
+[^c-ccb4a280f0b2b1ceed5c3a3d107a8de9]: Textual amendment: Order revoked (15.3.2008) by [The European Communities (Designation) Order 2008 (S.I. 2008/301)](https://www.legislation.gov.uk/uksi/2008/301), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/301/article/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2008/301/article/6/2/b)

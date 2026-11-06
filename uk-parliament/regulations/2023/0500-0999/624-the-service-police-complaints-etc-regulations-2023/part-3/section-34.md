@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Investigations directed by the Commissioner[^key-b65dd0c919d60651a6c0ad4d40187a46]
+## 34. Investigations directed by the Commissioner[^c-b65dd0c919d60651a6c0ad4d40187a46]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b65dd0c919d60651a6c0ad4d40187a46]: Commencement: Reg. 34 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-b65dd0c919d60651a6c0ad4d40187a46]: Commencement: Reg. 34 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Transfer of assets following inquiries[^key-34db3819b1ec4d079ef8df6777b532bb]
+## 67. Transfer of assets following inquiries[^c-34db3819b1ec4d079ef8df6777b532bb]
 
 *Extent: S*
 
@@ -36,7 +36,7 @@ summary: ''
   - (ii) any secured creditor whom the Regulator knows to hold security over those houses, and
 - (b) when making a direction, have regard to any views expressed by those consulted by such time as the Regulator may specify.
 
-(4A)[^key-1ce00e0537cf869ffc1b9667b1a2dc66] A duty on the Regulator to consult in accordance with paragraph (i) or (ii) of subsection (4)(a) does not apply where the Regulator considers that—
+(4A)[^c-1ce00e0537cf869ffc1b9667b1a2dc66] A duty on the Regulator to consult in accordance with paragraph (i) or (ii) of subsection (4)(a) does not apply where the Regulator considers that—
 
 - (a) the registered social landlord's viability is in jeopardy for financial reasons,
 - (b) a person could take a step in relation to the registered social landlord which would require to be notified to the Regulator under section 73,
@@ -63,7 +63,7 @@ summary: ''
 
 (6) Those terms must however—
 
-- (a)[^key-5e29ccfdc3f334894b9e1f11b1e089f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5e29ccfdc3f334894b9e1f11b1e089f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the case of a transfer of all of a registered social landlord's assets, provide for the settlement or transfer of all the transferor's proper debts and liabilities in respect of the assets (whether secured or not).
 
 (7) The Regulator may direct the transfer of assets from a registered social landlord which is a charity only if the recipient registered social landlord is a charity which the Regulator, after consulting the Office of the Scottish Charity Regulator, considers has the same or similar charitable purposes (within the meaning of section 7(2) of the Charities and Trustee Investment (Scotland) Act 2005 (asp 10)).
@@ -75,8 +75,8 @@ summary: ''
 
 ## Annotations
 
-[^key-34db3819b1ec4d079ef8df6777b532bb]: Commencement: S. 67 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-34db3819b1ec4d079ef8df6777b532bb]: Commencement: S. 67 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
 
-[^key-1ce00e0537cf869ffc1b9667b1a2dc66]: Textual amendment: [S. 67(4A)-(4C)](https://www.legislation.gov.uk/asp/2010/17/section/67/4A) inserted (20.11.2014 for specified purposes, 31.8.2015 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 97(a)](https://www.legislation.gov.uk/asp/2014/14/section/97/a), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)
+[^c-1ce00e0537cf869ffc1b9667b1a2dc66]: Textual amendment: [S. 67(4A)-(4C)](https://www.legislation.gov.uk/asp/2010/17/section/67/4A) inserted (20.11.2014 for specified purposes, 31.8.2015 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 97(a)](https://www.legislation.gov.uk/asp/2014/14/section/97/a), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)
 
-[^key-5e29ccfdc3f334894b9e1f11b1e089f6]: Textual amendment: [S. 67(6)(a)](https://www.legislation.gov.uk/asp/2010/17/section/67/6/a) repealed (20.11.2014 for specified purposes, 31.8.2015 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 97(b)](https://www.legislation.gov.uk/asp/2014/14/section/97/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)
+[^c-5e29ccfdc3f334894b9e1f11b1e089f6]: Textual amendment: [S. 67(6)(a)](https://www.legislation.gov.uk/asp/2010/17/section/67/6/a) repealed (20.11.2014 for specified purposes, 31.8.2015 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 97(b)](https://www.legislation.gov.uk/asp/2014/14/section/97/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)

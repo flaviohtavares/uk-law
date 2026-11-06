@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Construction of new and stopping up of existing streets[^key-c190510d9095b2189767e036018bb23a]
+## 10. Construction of new and stopping up of existing streets[^c-c190510d9095b2189767e036018bb23a]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c190510d9095b2189767e036018bb23a]: Commencement: Art. 10 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-c190510d9095b2189767e036018bb23a]: Commencement: Art. 10 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

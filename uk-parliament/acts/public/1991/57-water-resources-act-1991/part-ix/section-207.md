@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State may, after consultation with the appropriate agency[^key-932fe6cbdf83c7adefcd9466a5fb255d], give to the appropriate agency such directions of a general character as appear to the Secretary of State to be requisite or expedient in the interests of national security or for the purpose of mitigating the effects of any civil emergency which may occur.
+(1) The Secretary of State may, after consultation with the appropriate agency[^c-932fe6cbdf83c7adefcd9466a5fb255d], give to the appropriate agency such directions of a general character as appear to the Secretary of State to be requisite or expedient in the interests of national security or for the purpose of mitigating the effects of any civil emergency which may occur.
 
 (2) If it appears to the Secretary of State to be requisite or expedient to do so in the interests of national security or for the purpose of mitigating the effects of any civil emergency which has occurred or may occur, he may, after consultation with the appropriate agency, give to the appropriate agency a direction requiring it to do, or not to do, a particular thing specified in the direction.
 
@@ -43,6 +43,6 @@ as seriously and adversely to affect all the inhabitants of that area, or a subs
 
 ## Annotations
 
-[^key-932fe6cbdf83c7adefcd9466a5fb255d]: Textual amendment: Words in [s. 207](https://www.legislation.gov.uk/ukpga/1991/57/section/207) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 301](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/301) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-932fe6cbdf83c7adefcd9466a5fb255d]: Textual amendment: Words in [s. 207](https://www.legislation.gov.uk/ukpga/1991/57/section/207) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 301](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/301) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18742051]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).

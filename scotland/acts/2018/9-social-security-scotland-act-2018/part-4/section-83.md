@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. No assignation or charge[^key-4478ebf8b56bf9835735aac865aba98a]
+## 83. No assignation or charge[^c-4478ebf8b56bf9835735aac865aba98a]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4478ebf8b56bf9835735aac865aba98a]: Commencement: S. 83 in force at 3.9.2018 by [S.S.I. 2018/250](https://www.legislation.gov.uk/ssi/2018/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/250/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/250/regulation/3))
+[^c-4478ebf8b56bf9835735aac865aba98a]: Commencement: S. 83 in force at 3.9.2018 by [S.S.I. 2018/250](https://www.legislation.gov.uk/ssi/2018/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/250/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/250/regulation/3))

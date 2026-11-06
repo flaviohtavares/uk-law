@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 248. Personal delivery[^key-30c489236538bcda7032b45a7f174318]
+## 248. Personal delivery[^c-30c489236538bcda7032b45a7f174318]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Personal delivery of a notice or other document is permissible in any case.
 
 ## Annotations
 
-[^key-30c489236538bcda7032b45a7f174318]: Commencement: [Rule 248](https://www.legislation.gov.uk/nisr/2026/11/rule/248) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-30c489236538bcda7032b45a7f174318]: Commencement: [Rule 248](https://www.legislation.gov.uk/nisr/2026/11/rule/248) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

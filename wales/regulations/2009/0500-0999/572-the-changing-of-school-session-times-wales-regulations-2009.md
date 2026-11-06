@@ -55,7 +55,7 @@ In exercise of the powers conferred on them by sections 32 and 210 of the Educat
 
 The Changing of School Session Times (Wales) Regulations 2000 [^c19633121] are revoked.
 
-## 3. Procedure for changing school session times by local education authority[^key-aa571789d2df04828886c88285ca2fb2]
+## 3. Procedure for changing school session times by local education authority[^c-aa571789d2df04828886c88285ca2fb2]
 
 (1) Where a local education authority propose to issue a notice under section 32(6) of the Education Act 2002 to the governing body of a school, it must—
 
@@ -84,7 +84,7 @@ The Changing of School Session Times (Wales) Regulations 2000 [^c19633121] are r
 
 (4) The proceedings of any meeting held by virtue of paragraph (1)(e) are to be under the control of the local education authority.
 
-## 4. Procedure for changing school session times by governing body[^key-aa571789d2df04828886c88285ca2fb2]
+## 4. Procedure for changing school session times by governing body[^c-aa571789d2df04828886c88285ca2fb2]
 
 (1) Where the governing body of a community, voluntary controlled or community special school or maintained nursery school propose to make any change in the times of the school sessions (or, if there is only one, the school session), it must—
 
@@ -105,19 +105,19 @@ The Changing of School Session Times (Wales) Regulations 2000 [^c19633121] are r
   - (iii) such other persons as the governing body may invite;
 - (g) consider any written comments submitted in accordance with paragraph (b)(iv) and any comments made at the meeting on the proposal before determining whether any change in those times should be made and (if so) whether the proposal should be implemented with or without any modification.
 
-(2)[^key-388ee4310b23defe547c45bc06060756][^key-99411b4c72d2d8b12f96c1a1c21cb3bb] Subject to paragraph (3), if the governing body determine to implement the proposed change (with or without modification), it must, not less than six weeks before any change in those times is to take effect—
+(2)[^c-388ee4310b23defe547c45bc06060756][^c-99411b4c72d2d8b12f96c1a1c21cb3bb] Subject to paragraph (3), if the governing body determine to implement the proposed change (with or without modification), it must, not less than six weeks before any change in those times is to take effect—
 
 - (i) inform the local education authority of the change and of when it is to take effect, and
 - (ii) take such steps as are reasonably practicable to secure that the parents of all registered pupils at the school are so informed.
 
-(3)[^key-99411b4c72d2d8b12f96c1a1c21cb3bb] Where the change concerns —
+(3)[^c-99411b4c72d2d8b12f96c1a1c21cb3bb] Where the change concerns —
 
 - (a) the times at which the first school session is to begin or the second school session is to end (or both), or
 - (b) if there is only one school session, the time it is to begin or end (or both),
 
 the period referred to in paragraph (2) must not be less than three months.
 
-(4)[^key-99411b4c72d2d8b12f96c1a1c21cb3bb] A change in the times of a school session must only be made so as to take effect—
+(4)[^c-99411b4c72d2d8b12f96c1a1c21cb3bb] A change in the times of a school session must only be made so as to take effect—
 
 - (a) where paragraph (3) applies, at the beginning of a school year; and
 - (b) in all other cases, at the beginning of a school term.
@@ -144,8 +144,8 @@ Regulation 4 re-enacts the provision made by the 2000 Regulations, requiring a g
 
 [^c19633121]: Marginal citation: [S.I. 2000/2030](https://www.legislation.gov.uk/uksi/2000/2030) (W.143).
 
-[^key-aa571789d2df04828886c88285ca2fb2]: Modification: Regs. 3, 4: power to disapply conferred (temp.) by [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [Sch. 17 para. 7(5)(n)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/7/5/n) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88)) (as inserted (25.6.2020 at 12.00 p.m.) by [The Maintained Schools (Amendment of paragraph 7 of Schedule 17 to the Coronavirus Act 2020) (Wales) Regulations 2020 (S.I. 2020/640)](https://www.legislation.gov.uk/wsi/2020/640), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/640/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/640/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/wsi/2020/640/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/640/regulation/4)))
+[^c-aa571789d2df04828886c88285ca2fb2]: Modification: Regs. 3, 4: power to disapply conferred (temp.) by [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [Sch. 17 para. 7(5)(n)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/7/5/n) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88)) (as inserted (25.6.2020 at 12.00 p.m.) by [The Maintained Schools (Amendment of paragraph 7 of Schedule 17 to the Coronavirus Act 2020) (Wales) Regulations 2020 (S.I. 2020/640)](https://www.legislation.gov.uk/wsi/2020/640), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/640/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/640/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/wsi/2020/640/regulation/3), [4](https://www.legislation.gov.uk/wsi/2020/640/regulation/4)))
 
-[^key-388ee4310b23defe547c45bc06060756]: Modification: Reg. 4(2)(3)(4) excluded (1.6.2015) by [The Eastern High School (Change to School Session Times) Order 2015 (S.I. 2015/1227)](https://www.legislation.gov.uk/wsi/2015/1227), [arts. 1](https://www.legislation.gov.uk/wsi/2015/1227/article/1), [2](https://www.legislation.gov.uk/wsi/2015/1227/article/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1227/article/3))
+[^c-388ee4310b23defe547c45bc06060756]: Modification: Reg. 4(2)(3)(4) excluded (1.6.2015) by [The Eastern High School (Change to School Session Times) Order 2015 (S.I. 2015/1227)](https://www.legislation.gov.uk/wsi/2015/1227), [arts. 1](https://www.legislation.gov.uk/wsi/2015/1227/article/1), [2](https://www.legislation.gov.uk/wsi/2015/1227/article/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1227/article/3))
 
-[^key-99411b4c72d2d8b12f96c1a1c21cb3bb]: Modification: Reg. 4(2)(3)(4) excluded (temp.) (1.1.2021) by [The Welshpool Church in Wales Primary School (Change to School Session Times) Order 2020 (S.I. 2020/1340)](https://www.legislation.gov.uk/wsi/2020/1340), [arts. 1](https://www.legislation.gov.uk/wsi/2020/1340/article/1), [2](https://www.legislation.gov.uk/wsi/2020/1340/article/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2020/1340/article/3))
+[^c-99411b4c72d2d8b12f96c1a1c21cb3bb]: Modification: Reg. 4(2)(3)(4) excluded (temp.) (1.1.2021) by [The Welshpool Church in Wales Primary School (Change to School Session Times) Order 2020 (S.I. 2020/1340)](https://www.legislation.gov.uk/wsi/2020/1340), [arts. 1](https://www.legislation.gov.uk/wsi/2020/1340/article/1), [2](https://www.legislation.gov.uk/wsi/2020/1340/article/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2020/1340/article/3))

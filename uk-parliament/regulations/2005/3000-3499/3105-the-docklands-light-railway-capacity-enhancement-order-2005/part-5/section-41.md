@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. For protection of local highway authorities[^key-60358c91135f5ad0edef45567d1d4a6c]
+## 41. For protection of local highway authorities[^c-60358c91135f5ad0edef45567d1d4a6c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 11 to this Order shall have effect.
 
 ## Annotations
 
-[^key-60358c91135f5ad0edef45567d1d4a6c]: Commencement: Art. 41 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-60358c91135f5ad0edef45567d1d4a6c]: Commencement: Art. 41 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

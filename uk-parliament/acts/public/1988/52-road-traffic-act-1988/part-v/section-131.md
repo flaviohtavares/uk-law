@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(A1)[^key-bfe7d0e5049f41d1dad0044fcf86a68c] A relevant person who is aggrieved by the failure of the Registrar to notify the person of a decision in relation to an application for entry of the person’s name in the register before the end of the period of four months beginning with the day after the day on which the complete application was submitted, may appeal to the First-tier Tribunal.
+(A1)[^c-bfe7d0e5049f41d1dad0044fcf86a68c] A relevant person who is aggrieved by the failure of the Registrar to notify the person of a decision in relation to an application for entry of the person’s name in the register before the end of the period of four months beginning with the day after the day on which the complete application was submitted, may appeal to the First-tier Tribunal.
 
 (B1) On an appeal under subsection (A1), the First-tier Tribunal may make such order requiring the Registrar to notify the relevant person of a decision in relation to the application as it thinks fit.
 
@@ -41,7 +41,7 @@ may appeal to the First-tier Tribunal.[^c20360341]
 
 may appeal to the First-tier Tribunal.
 
-(3) On an appeal under subsection (1) or (2)[^key-a34ff7f92a46bfd1c1ae6e076dc1883b] the First-tier Tribunal[^c20360371] may make such order—
+(3) On an appeal under subsection (1) or (2)[^c-a34ff7f92a46bfd1c1ae6e076dc1883b] the First-tier Tribunal[^c20360371] may make such order—
 
 - (a) for the grant or refusal of the application
 
@@ -91,11 +91,11 @@ he may [^c20360601]. . . apply to the First-tier Tribunal for an order that the 
 
 [^c13989471]: Modification: S. 131 excluded (23.6.1999) by [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736), [art. 8(1)(b)(2)(b)](https://www.legislation.gov.uk/uksi/1999/1736/article/8/1/b/2/b)
 
-[^key-bfe7d0e5049f41d1dad0044fcf86a68c]: Textual amendment: [S. 131(A1)-(C1)](https://www.legislation.gov.uk/ukpga/1988/52/section/131/A1) inserted (until the commencement of [2006 c. 49](https://www.legislation.gov.uk/ukpga/2006/49), [Sch. 6](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6)) by [S.I. 2016/1089](https://www.legislation.gov.uk/uksi/2016/1089), [reg. 2(8)(a)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/8/a) (as substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 97(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/97/2/b))
+[^c-bfe7d0e5049f41d1dad0044fcf86a68c]: Textual amendment: [S. 131(A1)-(C1)](https://www.legislation.gov.uk/ukpga/1988/52/section/131/A1) inserted (until the commencement of [2006 c. 49](https://www.legislation.gov.uk/ukpga/2006/49), [Sch. 6](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6)) by [S.I. 2016/1089](https://www.legislation.gov.uk/uksi/2016/1089), [reg. 2(8)(a)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/8/a) (as substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 97(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/97/2/b))
 
 [^c20360341]: Textual amendment: Words in s. 131(1)(2) substituted (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/4/1), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/11/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1885/schedule/4))
 
-[^key-a34ff7f92a46bfd1c1ae6e076dc1883b]: Textual amendment: Words in [s. 131(3)](https://www.legislation.gov.uk/ukpga/1988/52/section/131/3) substituted (until the commencement of [2006 c. 49](https://www.legislation.gov.uk/ukpga/2006/49), [Sch. 6](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6)) by [S.I. 2016/1089](https://www.legislation.gov.uk/uksi/2016/1089), [reg. 2(8)(b)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/8/b) (as substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 97(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/97/2/b))
+[^c-a34ff7f92a46bfd1c1ae6e076dc1883b]: Textual amendment: Words in [s. 131(3)](https://www.legislation.gov.uk/ukpga/1988/52/section/131/3) substituted (until the commencement of [2006 c. 49](https://www.legislation.gov.uk/ukpga/2006/49), [Sch. 6](https://www.legislation.gov.uk/ukpga/2006/49/schedule/6)) by [S.I. 2016/1089](https://www.legislation.gov.uk/uksi/2016/1089), [reg. 2(8)(b)](https://www.legislation.gov.uk/uksi/2016/1089/regulation/2/8/b) (as substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 97(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/97/2/b))
 
 [^c20360371]: Textual amendment: Words in s. 131(3) substituted (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/4/1), [Sch. 1 para. 11(b)(i)](https://www.legislation.gov.uk/uksi/2009/1885/schedule/1/paragraph/11/b/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1885/schedule/4))
 

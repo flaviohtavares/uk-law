@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 26, 34, 105(7) and 106(a) of the National Health Service (Scotland) Act 1978[^f00001], and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-df087fbeb20389f045f07cf22a25fa64]
+## 1. Citation and commencement[^c-df087fbeb20389f045f07cf22a25fa64]
 
 These Regulations may be cited as the National Health Service (Optical Charges and Payments and General Ophthalmic Services) (Scotland) Amendment Regulations 2015 and come into force on 1st July 2015.
 
-## 2. Amendment of the National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998[^key-e6137f72e0e4b5c43ce8f88e784889f5]
+## 2. Amendment of the National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998[^c-e6137f72e0e4b5c43ce8f88e784889f5]
 
-(1) The National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998[^key-0f2a7260e381960ea78ba699fba75d52] are amended as follows.
+(1) The National Health Service (Optical Charges and Payments) (Scotland) Regulations 1998[^c-0f2a7260e381960ea78ba699fba75d52] are amended as follows.
 
 (2) In regulation 1 (citation, commencement and interpretation), after the definition of “disability element”[^f00003] insert—
 
@@ -86,7 +86,7 @@ These Regulations may be cited as the National Health Service (Optical Charges a
 
   .
 
-## 3. Amendment of the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006[^key-b5a81e4ed21d3d2060a9639c7fb2bea7]
+## 3. Amendment of the National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006[^c-b5a81e4ed21d3d2060a9639c7fb2bea7]
 
 (1) The National Health Service (General Ophthalmic Services) (Scotland) Regulations 2006[^f00005] are amended as follows.
 
@@ -165,17 +165,17 @@ The 2006 Regulations are amended to allow claims in relation to services provide
 
 [^f00001]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29); section 26 was amended by the Health and Social Security Act [1984 (c.48)](https://www.legislation.gov.uk/ukpga/1984/48) section 1(5) and (7) and Part II of Schedule 1, the Health and Medicines Act [1988 (c.49)](https://www.legislation.gov.uk/ukpga/1988/49) section 13(4), and the Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13) sections 13(2) and 19; section 105(7) was amended by the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53) Schedule 6, paragraph 5(1) and Schedule 7, the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41) Schedule 9, Part I, paragraph 24 and the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8) Schedule 4, paragraph 60; section 108(1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-df087fbeb20389f045f07cf22a25fa64]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/219/regulation/1) in force at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/219/regulation/1)
+[^c-df087fbeb20389f045f07cf22a25fa64]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/219/regulation/1) in force at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/219/regulation/1)
 
-[^key-e6137f72e0e4b5c43ce8f88e784889f5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/219/regulation/2) in force at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/219/regulation/1)
+[^c-e6137f72e0e4b5c43ce8f88e784889f5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/219/regulation/2) in force at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/219/regulation/1)
 
-[^key-0f2a7260e381960ea78ba699fba75d52]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2015/219/regulation/2/1) substituted (1.11.2015) by [The National Health Service (Payments and Remission of Charges) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/333)](https://www.legislation.gov.uk/ssi/2015/333), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/333/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2015/333/regulation/4)
+[^c-0f2a7260e381960ea78ba699fba75d52]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2015/219/regulation/2/1) substituted (1.11.2015) by [The National Health Service (Payments and Remission of Charges) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/333)](https://www.legislation.gov.uk/ssi/2015/333), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/333/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2015/333/regulation/4)
 
 [^f00003]: Footnote: The definition of “disability element” was inserted by [S.S.I. 2003/218](https://www.legislation.gov.uk/ssi/2003/218).
 
 [^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); section 15(1) was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 17, paragraph 158.
 
-[^key-b5a81e4ed21d3d2060a9639c7fb2bea7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/219/regulation/3) in force at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/219/regulation/1)
+[^c-b5a81e4ed21d3d2060a9639c7fb2bea7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/219/regulation/3) in force at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/219/regulation/1)
 
 [^f00005]: Footnote: [S.S.I. 2006/135](https://www.legislation.gov.uk/ssi/2006/135); relevant amending instruments are [S.S.I. 2007/193](https://www.legislation.gov.uk/ssi/2007/193), [S.S.I. 2010/86](https://www.legislation.gov.uk/ssi/2010/86), [S.S.I. 2013/177](https://www.legislation.gov.uk/ssi/2013/177) and [S.S.I. 2013/355](https://www.legislation.gov.uk/ssi/2013/355).
 

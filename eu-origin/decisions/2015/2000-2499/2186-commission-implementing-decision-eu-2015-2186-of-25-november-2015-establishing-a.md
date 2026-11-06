@@ -37,113 +37,113 @@ establishing a format for the submission and making available of information on 
 
 (Text with EEA relevance) (revoked)
 
-[^key-d23158423f0bac3babe88942882c1c3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d23158423f0bac3babe88942882c1c3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-d23158423f0bac3babe88942882c1c3b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Format for data submission[^key-d23158423f0bac3babe88942882c1c3b]
+## Article 1. Subject matter[^c-d23158423f0bac3babe88942882c1c3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Storage of data[^key-d23158423f0bac3babe88942882c1c3b]
+## Article 2. Format for data submission[^c-d23158423f0bac3babe88942882c1c3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Identification number of the data submitter[^key-d23158423f0bac3babe88942882c1c3b]
+## Article 3. Storage of data[^c-d23158423f0bac3babe88942882c1c3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Identification number of the product[^key-d23158423f0bac3babe88942882c1c3b]
+## Article 4. Identification number of the data submitter[^c-d23158423f0bac3babe88942882c1c3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Confidential data and disclosure of data[^key-d23158423f0bac3babe88942882c1c3b]
+## Article 5. Identification number of the product[^c-d23158423f0bac3babe88942882c1c3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Addressees[^key-d23158423f0bac3babe88942882c1c3b]
+## Article 6. Confidential data and disclosure of data[^c-d23158423f0bac3babe88942882c1c3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 7. Addressees[^c-d23158423f0bac3babe88942882c1c3b]
 
-## ANNEX[^key-d23158423f0bac3babe88942882c1c3b]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]1.
+[^c-d23158423f0bac3babe88942882c1c3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-d23158423f0bac3babe88942882c1c3b]
+
+[^c-d23158423f0bac3babe88942882c1c3b]1.
 
 FIELD DESCRIPTIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]2.
+[^c-d23158423f0bac3babe88942882c1c3b]2.
 
 SUBMITTER CHARACTERISTICS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]2.1.
+[^c-d23158423f0bac3babe88942882c1c3b]2.1.
 
 **Manufacturer/Importer Parent company characteristics**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]2.2.
+[^c-d23158423f0bac3babe88942882c1c3b]2.2.
 
 **Manufacturer/Importer affiliate company characteristics**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]2.3.
+[^c-d23158423f0bac3babe88942882c1c3b]2.3.
 
 **Enterer reporting on behalf of the submitter**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]3.
+[^c-d23158423f0bac3babe88942882c1c3b]3.
 
 PRODUCT INFORMATION SUBMISSION AND DESCRIPTION — PART A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]3.
+[^c-d23158423f0bac3babe88942882c1c3b]3.
 
 PRODUCT INFORMATION SUBMISSION AND DESCRIPTION — PART B
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]4.
+[^c-d23158423f0bac3babe88942882c1c3b]4.
 
 DESCRIPTION OF INGREDIENTS: TOBACCO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]5.
+[^c-d23158423f0bac3babe88942882c1c3b]5.
 
 DESCRIPTION OF INGREDIENTS: ADDITIVES AND OTHER SUBSTANCES/ELEMENTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]6.
+[^c-d23158423f0bac3babe88942882c1c3b]6.
 
 TNCO AND OTHER EMISSIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]7.
+[^c-d23158423f0bac3babe88942882c1c3b]7.
 
 CIGARETTE SPECIFIC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]8.
+[^c-d23158423f0bac3babe88942882c1c3b]8.
 
 SMOKELESS (ORAL-NASAL-CHEWING) SPECIFIC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d23158423f0bac3babe88942882c1c3b]9.
+[^c-d23158423f0bac3babe88942882c1c3b]9.
 
 ROLL-YOUR-OWN AND PIPE TOBACCO SPECIFIC
 
@@ -151,4 +151,4 @@ ROLL-YOUR-OWN AND PIPE TOBACCO SPECIFIC
 
 ## Annotations
 
-[^key-d23158423f0bac3babe88942882c1c3b]: Textual amendment: Decision revoked (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2019/41/regulation/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d23158423f0bac3babe88942882c1c3b]: Textual amendment: Decision revoked (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2019/41/regulation/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

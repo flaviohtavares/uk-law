@@ -245,7 +245,7 @@ Section 93
 **18.** (1) In this Schedule—
 
 - “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
-- “**company**” has the same meaning as in the Companies Acts (see section 1(1) of the Companies Act 2006) but does not include a company that is an open-ended investment company (within the meaning of section 613 of CTA 2010[^key-c515408cc5c677c897bac82c9531b177]) or an investment trust (within the meaning of section 1158 of CTA 2010[^key-d9426ffbcc1d88ebab641850ea493f61]);
+- “**company**” has the same meaning as in the Companies Acts (see section 1(1) of the Companies Act 2006) but does not include a company that is an open-ended investment company (within the meaning of section 613 of CTA 2010[^c-c515408cc5c677c897bac82c9531b177]) or an investment trust (within the meaning of section 1158 of CTA 2010[^c-d9426ffbcc1d88ebab641850ea493f61]);
 - “**financial year**”, in relation to a company, has the same meaning as in the Companies Act 2006 (see section 390 of that Act);
 - “**HMRC**” means Her Majesty's Revenue and Customs;
 - “**period for filing**”, in relation to accounts, has the same meaning as in the Companies Acts (see section 442 of the Companies Act 2006);
@@ -261,16 +261,16 @@ Section 93
   - (i) one is a 51 per cent subsidiary of the other, or
   - (ii) both are 51 per cent subsidiaries of a third relevant body.
 
-(3) Chapter 3 of Part 24 of CTA 2010[^key-d7e3759e582cd00cc5a57df9d6dbf6b1] (meaning of “51 per cent subsidiary”) applies for the purposes of this Schedule as it applies for the purposes of the Corporation Tax Acts (subject to the modification in sub-paragraph (4)).
+(3) Chapter 3 of Part 24 of CTA 2010[^c-d7e3759e582cd00cc5a57df9d6dbf6b1] (meaning of “51 per cent subsidiary”) applies for the purposes of this Schedule as it applies for the purposes of the Corporation Tax Acts (subject to the modification in sub-paragraph (4)).
 
-(4) It applies as if references in that Chapter[^key-8ecf717c35b9a9fc40a4ec935780ba50] to a body corporate were to a relevant body.
+(4) It applies as if references in that Chapter[^c-8ecf717c35b9a9fc40a4ec935780ba50] to a body corporate were to a relevant body.
 
 ## Annotations
 
-[^key-c515408cc5c677c897bac82c9531b177]: Textual amendment: Words in Sch. 46 para. 18(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 721(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/721/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c515408cc5c677c897bac82c9531b177]: Textual amendment: Words in Sch. 46 para. 18(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 721(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/721/2/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-d9426ffbcc1d88ebab641850ea493f61]: Textual amendment: Words in Sch. 46 para. 18(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 721(2)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/721/2/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d9426ffbcc1d88ebab641850ea493f61]: Textual amendment: Words in Sch. 46 para. 18(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 721(2)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/721/2/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-d7e3759e582cd00cc5a57df9d6dbf6b1]: Textual amendment: Words in Sch. 46 para. 18(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 721(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/721/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d7e3759e582cd00cc5a57df9d6dbf6b1]: Textual amendment: Words in Sch. 46 para. 18(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 721(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/721/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-8ecf717c35b9a9fc40a4ec935780ba50]: Textual amendment: Word in Sch. 46 para. 18(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 721(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/721/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-8ecf717c35b9a9fc40a4ec935780ba50]: Textual amendment: Word in Sch. 46 para. 18(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 721(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/721/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

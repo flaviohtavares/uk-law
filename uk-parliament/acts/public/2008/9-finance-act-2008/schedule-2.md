@@ -311,7 +311,7 @@ and in the heading before it omit “77,”.
 
 **36.** In section 228(8) (relief for employee share ownership trusts), for “meanings given by paragraph 22 of Schedule A1” substitute “ same meaning as in section 165 (see section 165A) ”.
 
-**37.**[^key-0e46f7a8922aa02d52786811c4e08797] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-0e46f7a8922aa02d52786811c4e08797] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **38.** In section 253(14)(b) (relief for loans to traders), for “meaning given by paragraph 22 of Schedule A1” substitute “ same meaning as in section 165 (see section 165A) ”.
 
@@ -364,7 +364,7 @@ and in the heading before it omit “77,”.
 
 **50.** Omit paragraph 15 of Schedule 7D (enterprise management incentives).
 
-**51.**[^key-05b326612bf9f753ba6846313067b715] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-05b326612bf9f753ba6846313067b715] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **52.** In paragraph 86(2) of Schedule 7 to ITEPA 2003 (transitionals and savings), omit the second sentence.
 
@@ -518,7 +518,7 @@ and in the heading before it omit “77,”.
 
 (2) In section 89(8)(a) (earn-out rights), for “enactments specified in section 35(3)(d) of that Act” substitute “ no gain/no loss provisions (within the meaning of that Act: see section 288(3A) of that Act) ”.
 
-(3)[^key-4a8ff093df512361f14561561012e496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4a8ff093df512361f14561561012e496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **70.** In consequence of paragraphs 57 to 69, omit—
 
@@ -742,8 +742,8 @@ and in the heading before it omit “77,”.
 
 ## Annotations
 
-[^key-0e46f7a8922aa02d52786811c4e08797]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/37) repealed (with effect in accordance with Sch. 5 para. 13 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 11(f)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/11/f/i), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-0e46f7a8922aa02d52786811c4e08797]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/37) repealed (with effect in accordance with Sch. 5 para. 13 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 11(f)(i)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/11/f/i), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-05b326612bf9f753ba6846313067b715]: Textual amendment: [Sch. 2 para. 51](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/51) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-05b326612bf9f753ba6846313067b715]: Textual amendment: [Sch. 2 para. 51](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/51) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-4a8ff093df512361f14561561012e496]: Textual amendment: [Sch. 2 para. 69(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/69/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)) and (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-4a8ff093df512361f14561561012e496]: Textual amendment: [Sch. 2 para. 69(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/69/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)) and (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

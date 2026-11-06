@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Council Regulation [(EC) No 1100/2007](https://www.legislation.gov.uk/eur/2007/1100) establishing measures for the recovery of the stock of European Eel[^key-e0cbc2bcc23dab557539f3adec9548bd]
+## 30. Council Regulation [(EC) No 1100/2007](https://www.legislation.gov.uk/eur/2007/1100) establishing measures for the recovery of the stock of European Eel[^c-e0cbc2bcc23dab557539f3adec9548bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0cbc2bcc23dab557539f3adec9548bd]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-e0cbc2bcc23dab557539f3adec9548bd]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

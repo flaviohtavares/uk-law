@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Publication of application for licence[^key-02342414023708e8fba1c61c76ca5889]
+## 14. Publication of application for licence[^c-02342414023708e8fba1c61c76ca5889]
 
 *Extent: E+W*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02342414023708e8fba1c61c76ca5889]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2003/37/section/14) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(i)](https://www.legislation.gov.uk/uksi/2006/984/article/2/i) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/1)[2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))
+[^c-02342414023708e8fba1c61c76ca5889]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2003/37/section/14) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(i)](https://www.legislation.gov.uk/uksi/2006/984/article/2/i) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/1)[2](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/2))

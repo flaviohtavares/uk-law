@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Limitation of right to convert civil partnership into marriage to same-sex couples[^key-90b665de3d6dee8d0e393697e0ccbbda]
+## 37. Limitation of right to convert civil partnership into marriage to same-sex couples[^c-90b665de3d6dee8d0e393697e0ccbbda]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-90b665de3d6dee8d0e393697e0ccbbda]: Commencement: Reg. 37 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-90b665de3d6dee8d0e393697e0ccbbda]: Commencement: Reg. 37 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00059]: Footnote: There are amendments to section 9, but none is relevant to this instrument.
 

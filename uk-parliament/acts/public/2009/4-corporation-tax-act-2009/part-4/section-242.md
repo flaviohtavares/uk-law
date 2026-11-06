@@ -22,7 +22,7 @@ summary: ''
 
 (1) If a notice of objection is given under section 240(3), the amount mentioned in section 240(1) must be determined in the same way as an appeal.
 
-(2) All persons to whom provisional notices of determination have been given under section 240(2) may be a party to—[^key-90750dc1540a54be11395c1dd0803565]
+(2) All persons to whom provisional notices of determination have been given under section 240(2) may be a party to—[^c-90750dc1540a54be11395c1dd0803565]
 
 - (a) any proceedings under subsection (1), and
 - (b) any appeal arising out of those proceedings.
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90750dc1540a54be11395c1dd0803565]: Textual amendment: Words in s. 242(2) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/24) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-90750dc1540a54be11395c1dd0803565]: Textual amendment: Words in s. 242(2) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/24) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

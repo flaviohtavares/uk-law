@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Amendment of the Seed Potatoes Regulations (Northern Ireland) 2016[^key-722ae9316108884b03b2705ac1942fb1]
+## 53. Amendment of the Seed Potatoes Regulations (Northern Ireland) 2016[^c-722ae9316108884b03b2705ac1942fb1]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-722ae9316108884b03b2705ac1942fb1]: Commencement: Reg. 53 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-722ae9316108884b03b2705ac1942fb1]: Commencement: Reg. 53 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00040]: Footnote: [S.R. 2016 No. 190](https://www.legislation.gov.uk/nisr/2016/190).

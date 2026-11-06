@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — Information to be given by schemes that relates to accessing benefits and to benefit adjustments[^key-bc7343c24d4c20bcab93c38e48f1dc5a]
+## SCHEDULE 7 — Information to be given by schemes that relates to accessing benefits and to benefit adjustments[^c-bc7343c24d4c20bcab93c38e48f1dc5a]
 
 *Extent: E+W+S*
 
-Regulations 18A[^key-52fef5ecf3e03ebf078c75bf9b9e9c11] to 22 and 25(2)
+Regulations 18A[^c-52fef5ecf3e03ebf078c75bf9b9e9c11] to 22 and 25(2)
 
 ### PART 1 — Information to be given to persons having an opportunity to select an annuity
 
@@ -47,7 +47,7 @@ Regulations 18A[^key-52fef5ecf3e03ebf078c75bf9b9e9c11] to 22 and 25(2)
 
 **6.** The amount of benefit that is payable.
 
-**6A.**[^key-2c638f08885b0cd2dcfa4b4ef6ecd563] In relation to a collective money purchase scheme, a statement that—
+**6A.**[^c-2c638f08885b0cd2dcfa4b4ef6ecd563] In relation to a collective money purchase scheme, a statement that—
 
 - (a) there is no promise or guarantee as to the rate or amount of benefit provided under the scheme, and
 - (b) the rate or amount of benefits may fluctuate, which may result in—
@@ -63,9 +63,9 @@ Regulations 18A[^key-52fef5ecf3e03ebf078c75bf9b9e9c11] to 22 and 25(2)
 
 **9.** Any procedures for exercising the rights and options referred to in paragraph 8.
 
-**10.** The provisions (or, as the case may be, a statement that there are no provisions) under which the pension payable to the survivor of a member or beneficiary of the scheme may or will be increased or decreased[^key-9953719a463926337d226ec7f5c34991] and the extent to which such increases or decreases[^key-fdf990ef0ace6cad1a6d318433d79a99] are dependent on the exercise of a discretion.
+**10.** The provisions (or, as the case may be, a statement that there are no provisions) under which the pension payable to the survivor of a member or beneficiary of the scheme may or will be increased or decreased[^c-9953719a463926337d226ec7f5c34991] and the extent to which such increases or decreases[^c-fdf990ef0ace6cad1a6d318433d79a99] are dependent on the exercise of a discretion.
 
-### Part 3 — Information to be Given to Members Having an Opportunity to Transfer Flexible Benefits[^key-6d39dd607f186fdf03c7d02606689d35]
+### Part 3 — Information to be Given to Members Having an Opportunity to Transfer Flexible Benefits[^c-6d39dd607f186fdf03c7d02606689d35]
 
 **11.** A statement that the member has an opportunity to transfer flexible benefits to one or more different pension providers.
 
@@ -78,7 +78,7 @@ Regulations 18A[^key-52fef5ecf3e03ebf078c75bf9b9e9c11] to 22 and 25(2)
 - (a) a copy of guidance that explains the characteristic features of the options referred to in paragraph 13 that has been prepared or approved by the Regulator; or
 - (b) a statement that gives materially the same information as that guidance.
 
-### PART 4 — Information to be given by collective money purchase schemes about benefit adjustments[^key-7b1696790d507cbb214dd8362ec9ace0]
+### PART 4 — Information to be given by collective money purchase schemes about benefit adjustments[^c-7b1696790d507cbb214dd8362ec9ace0]
 
 **15.** Where benefit is not yet payable to the person—
 
@@ -104,7 +104,7 @@ Regulations 18A[^key-52fef5ecf3e03ebf078c75bf9b9e9c11] to 22 and 25(2)
 
 **19.** A summary of the method and assumptions used to calculate the benefit adjustments.
 
-**20.**[^key-33cc40b00aee46dcac87bb2b789cc6d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-33cc40b00aee46dcac87bb2b789cc6d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **21.** The level of the benefit adjustment that should have been applied in accordance with the latest actuarial valuation and the schemes rules.
 
@@ -122,18 +122,18 @@ Regulations 18A[^key-52fef5ecf3e03ebf078c75bf9b9e9c11] to 22 and 25(2)
 
 ## Annotations
 
-[^key-bc7343c24d4c20bcab93c38e48f1dc5a]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/uksi/2013/2734/schedule/7) heading inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(17)(a)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/17/a)
+[^c-bc7343c24d4c20bcab93c38e48f1dc5a]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/uksi/2013/2734/schedule/7) heading inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(17)(a)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/17/a)
 
-[^key-52fef5ecf3e03ebf078c75bf9b9e9c11]: Textual amendment: Word in Sch. 7 substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2015/482/regulation/13/2)
+[^c-52fef5ecf3e03ebf078c75bf9b9e9c11]: Textual amendment: Word in Sch. 7 substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2015/482/regulation/13/2)
 
-[^key-2c638f08885b0cd2dcfa4b4ef6ecd563]: Textual amendment: [Sch. 7 para. 6A](https://www.legislation.gov.uk/uksi/2013/2734/schedule/7/paragraph/6A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(17)(b)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/17/b)
+[^c-2c638f08885b0cd2dcfa4b4ef6ecd563]: Textual amendment: [Sch. 7 para. 6A](https://www.legislation.gov.uk/uksi/2013/2734/schedule/7/paragraph/6A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(17)(b)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/17/b)
 
-[^key-9953719a463926337d226ec7f5c34991]: Textual amendment: Words in [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2013/2734/schedule/7/paragraph/10) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(17)(c)(i)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/17/c/i)
+[^c-9953719a463926337d226ec7f5c34991]: Textual amendment: Words in [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2013/2734/schedule/7/paragraph/10) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(17)(c)(i)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/17/c/i)
 
-[^key-fdf990ef0ace6cad1a6d318433d79a99]: Textual amendment: Words in [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2013/2734/schedule/7/paragraph/10) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(17)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/17/c/ii)
+[^c-fdf990ef0ace6cad1a6d318433d79a99]: Textual amendment: Words in [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2013/2734/schedule/7/paragraph/10) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(17)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/17/c/ii)
 
-[^key-6d39dd607f186fdf03c7d02606689d35]: Textual amendment: Sch. 7 Pt. 3 inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2015/482/regulation/13/3)
+[^c-6d39dd607f186fdf03c7d02606689d35]: Textual amendment: Sch. 7 Pt. 3 inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2015/482/regulation/13/3)
 
-[^key-7b1696790d507cbb214dd8362ec9ace0]: Textual amendment: [Sch. 7 Pt. 4](https://www.legislation.gov.uk/uksi/2013/2734/schedule/7/part/4) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(17)(d)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/17/d)
+[^c-7b1696790d507cbb214dd8362ec9ace0]: Textual amendment: [Sch. 7 Pt. 4](https://www.legislation.gov.uk/uksi/2013/2734/schedule/7/part/4) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(17)(d)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/17/d)
 
-[^key-33cc40b00aee46dcac87bb2b789cc6d0]: Textual amendment: [Sch. 7 para. 20](https://www.legislation.gov.uk/uksi/2013/2734/schedule/7/paragraph/20) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(8)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/8)
+[^c-33cc40b00aee46dcac87bb2b789cc6d0]: Textual amendment: [Sch. 7 para. 20](https://www.legislation.gov.uk/uksi/2013/2734/schedule/7/paragraph/20) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(8)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/8)

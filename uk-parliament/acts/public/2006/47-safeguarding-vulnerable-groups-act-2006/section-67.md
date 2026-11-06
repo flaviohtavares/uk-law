@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Short title[^key-c95adfb0546f66cc4671a0fdf1bb3b68]
+## 67. Short title[^c-c95adfb0546f66cc4671a0fdf1bb3b68]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Safeguarding Vulnerable Groups Act 2006.
 
 ## Annotations
 
-[^key-c95adfb0546f66cc4671a0fdf1bb3b68]: Commencement: S. 67 in force at 31.12.2007 by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 2(m)](https://www.legislation.gov.uk/uksi/2007/3545/article/2/m)
+[^c-c95adfb0546f66cc4671a0fdf1bb3b68]: Commencement: S. 67 in force at 31.12.2007 by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 2(m)](https://www.legislation.gov.uk/uksi/2007/3545/article/2/m)

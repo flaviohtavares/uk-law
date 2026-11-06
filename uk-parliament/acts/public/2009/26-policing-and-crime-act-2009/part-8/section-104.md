@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Requirements to report at police stations[^key-02fa173e9c27a79caf76e4179c9af204]
+## 104. Requirements to report at police stations[^c-02fa173e9c27a79caf76e4179c9af204]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02fa173e9c27a79caf76e4179c9af204]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2009/26/section/104) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(o)](https://www.legislation.gov.uk/uksi/2010/507/article/5/o)
+[^c-02fa173e9c27a79caf76e4179c9af204]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2009/26/section/104) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(o)](https://www.legislation.gov.uk/uksi/2010/507/article/5/o)

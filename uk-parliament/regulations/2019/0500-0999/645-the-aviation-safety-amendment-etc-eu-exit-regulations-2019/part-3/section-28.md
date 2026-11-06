@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Amendment of Article 12 of Regulation [(EC) No 2111/2005](https://www.legislation.gov.uk/eur/2005/2111)[^key-ba3935b7d7d317930119c5242e026dcc]
+## 28. Amendment of Article 12 of Regulation [(EC) No 2111/2005](https://www.legislation.gov.uk/eur/2005/2111)[^c-ba3935b7d7d317930119c5242e026dcc]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In Article 12 (right to reimbursement or re-routing), in paragraph 2—
 
 ## Annotations
 
-[^key-ba3935b7d7d317930119c5242e026dcc]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ba3935b7d7d317930119c5242e026dcc]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

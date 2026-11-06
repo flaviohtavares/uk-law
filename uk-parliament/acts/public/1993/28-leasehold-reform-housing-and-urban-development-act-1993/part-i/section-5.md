@@ -28,7 +28,7 @@ summary: ''
 - (b) the immediate landlord under the lease is a charitable housing trust and the flat forms part of the housing accommodation provided by it in the pursuit of its charitable purposes; or
 - (c) the lease was granted by sub-demise out of a superior lease other than a long lease [^c17044871]. . . , the grant was made in breach of the terms of the superior lease, and there has been no waiver of the breach by the superior landlord;
 
-and in paragraph (b) “**charitable housing trust**” means a housing trust within the meaning of the [^c17023111]Housing Act 1985 which is a charity [^key-bfd087e0078b4b12f25be741a69576f0]....
+and in paragraph (b) “**charitable housing trust**” means a housing trust within the meaning of the [^c17023111]Housing Act 1985 which is a charity [^c-bfd087e0078b4b12f25be741a69576f0]....
 
 (3) No flat shall have more than one qualifying tenant at any one time.
 
@@ -44,7 +44,7 @@ and in paragraph (b) “**charitable housing trust**” means a housing trust wi
 
 then, whether that person is tenant of the flats referred to in paragraphs (a) and (b) under a single lease or otherwise, there shall be taken for those purposes to be no qualifying tenant of any of those flats.
 
-(6) For the purposes of subsection (5) in its application to a body corporate any flat let to an associated company (whether alone or jointly with any other person or persons) shall be treated as if it were so let to that body; and for this purpose “**associated company**” means another body corporate which is (within the meaning of section 1159 of the Companies Act 2006[^key-0efe36130b5405f26008d448cf9524e9]) that body’s holding company, a subsidiary of that body or another subsidiary of that body’s holding company.
+(6) For the purposes of subsection (5) in its application to a body corporate any flat let to an associated company (whether alone or jointly with any other person or persons) shall be treated as if it were so let to that body; and for this purpose “**associated company**” means another body corporate which is (within the meaning of section 1159 of the Companies Act 2006[^c-0efe36130b5405f26008d448cf9524e9]) that body’s holding company, a subsidiary of that body or another subsidiary of that body’s holding company.
 
 ## Annotations
 
@@ -54,6 +54,6 @@ then, whether that person is tenant of the flats referred to in paragraphs (a) a
 
 [^c17023111]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-bfd087e0078b4b12f25be741a69576f0]: Textual amendment: Words in s. 5(2) omitted (14.3.2012 immediately before the Charities Act 2011 (c. 25) comes into force) by virtue of [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396), [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1), [Sch. para. 37(1)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/37/1)[(2)(g)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/37/2/g)
+[^c-bfd087e0078b4b12f25be741a69576f0]: Textual amendment: Words in s. 5(2) omitted (14.3.2012 immediately before the Charities Act 2011 (c. 25) comes into force) by virtue of [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396), [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1), [Sch. para. 37(1)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/37/1)[(2)(g)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/37/2/g)
 
-[^key-0efe36130b5405f26008d448cf9524e9]: Textual amendment: Words in s. 5(6) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 140(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/140/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-0efe36130b5405f26008d448cf9524e9]: Textual amendment: Words in s. 5(6) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 140(4)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/140/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

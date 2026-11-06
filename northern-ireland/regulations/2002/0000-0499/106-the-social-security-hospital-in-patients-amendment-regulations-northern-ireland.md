@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Hospital In-Patients) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-da329701fc4e8095050b980e8873a76f]
+The Social Security (Hospital In-Patients) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-da329701fc4e8095050b980e8873a76f]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 8th April 2002
 
-[^key-da329701fc4e8095050b980e8873a76f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da329701fc4e8095050b980e8873a76f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-da329701fc4e8095050b980e8873a76f]
+## 1. Citation and commencement[^c-da329701fc4e8095050b980e8873a76f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Hospital In-Patients) Regulations[^key-da329701fc4e8095050b980e8873a76f]
+## 2. Amendment of the Social Security (Hospital In-Patients) Regulations[^c-da329701fc4e8095050b980e8873a76f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-da329701fc4e8095050b980e8873a76f]
+## 3. Revocation[^c-da329701fc4e8095050b980e8873a76f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da329701fc4e8095050b980e8873a76f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da329701fc4e8095050b980e8873a76f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-da329701fc4e8095050b980e8873a76f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da329701fc4e8095050b980e8873a76f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-da329701fc4e8095050b980e8873a76f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/106) revoked (21.5.2003) by [The Social Security (Hospital In-Patients and Miscellaneous Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/261)](https://www.legislation.gov.uk/nisr/2003/261), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/1/a), [10(1)](https://www.legislation.gov.uk/nisr/2003/261/regulation/10/1), [Sch.](https://www.legislation.gov.uk/nisr/2003/261/schedule)
+[^c-da329701fc4e8095050b980e8873a76f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/106) revoked (21.5.2003) by [The Social Security (Hospital In-Patients and Miscellaneous Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/261)](https://www.legislation.gov.uk/nisr/2003/261), [regs. 1(a)](https://www.legislation.gov.uk/nisr/2003/261/regulation/1/a), [10(1)](https://www.legislation.gov.uk/nisr/2003/261/regulation/10/1), [Sch.](https://www.legislation.gov.uk/nisr/2003/261/schedule)

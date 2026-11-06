@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. How an MP becomes subject to a recall petition process[^key-e4bc1ae8b43f06fe216f1dffec45a553]
+## 1. How an MP becomes subject to a recall petition process[^c-e4bc1ae8b43f06fe216f1dffec45a553]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ Sections 2 to 4 contain more about the third recall condition.
 
 ## Annotations
 
-[^key-e4bc1ae8b43f06fe216f1dffec45a553]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/25/section/1) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-e4bc1ae8b43f06fe216f1dffec45a553]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/25/section/1) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

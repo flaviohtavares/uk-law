@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Teacher misconduct[^key-8a287d2c4ccc61ad033ec4ac0de28ceb]
+## 52. Teacher misconduct[^c-8a287d2c4ccc61ad033ec4ac0de28ceb]
 
 *Extent: E+W*
 
@@ -111,4 +111,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a287d2c4ccc61ad033ec4ac0de28ceb]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-8a287d2c4ccc61ad033ec4ac0de28ceb]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)

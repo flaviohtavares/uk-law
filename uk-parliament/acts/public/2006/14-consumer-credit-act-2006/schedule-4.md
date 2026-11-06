@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Repeals[^key-241c4d3f8a3054b3f35f4ab8659b0405][^key-95531c6dd043c037957c112b09da4600][^key-f7ef296873310a550a2e2a64291f2f38][^key-2f647b25582259ff1af0feca92a99762]
+## SCHEDULE 4 — Repeals[^c-241c4d3f8a3054b3f35f4ab8659b0405][^c-95531c6dd043c037957c112b09da4600][^c-f7ef296873310a550a2e2a64291f2f38][^c-2f647b25582259ff1af0feca92a99762]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ Section 70
 
 ## Annotations
 
-[^key-241c4d3f8a3054b3f35f4ab8659b0405]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/14/schedule/4) in force at 6.4.2007 for specified purposes by [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2)
+[^c-241c4d3f8a3054b3f35f4ab8659b0405]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/14/schedule/4) in force at 6.4.2007 for specified purposes by [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2)
 
-[^key-95531c6dd043c037957c112b09da4600]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/14/schedule/4) in force at 6.4.2008 for specified purposes by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3300/schedule/2)
+[^c-95531c6dd043c037957c112b09da4600]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/14/schedule/4) in force at 6.4.2008 for specified purposes by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3300/schedule/2)
 
-[^key-f7ef296873310a550a2e2a64291f2f38]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/14/schedule/4) in force at 6.4.2008 for specified purposes by [S.I. 2008/831](https://www.legislation.gov.uk/uksi/2008/831), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/831/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/831/schedule/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/831/schedule/1))
+[^c-f7ef296873310a550a2e2a64291f2f38]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/14/schedule/4) in force at 6.4.2008 for specified purposes by [S.I. 2008/831](https://www.legislation.gov.uk/uksi/2008/831), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/831/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/831/schedule/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/831/schedule/1))
 
-[^key-2f647b25582259ff1af0feca92a99762]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/14/schedule/4) in force at 31.10.2008 in so far as not already in force by [S.I. 2008/831](https://www.legislation.gov.uk/uksi/2008/831), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/831/article/3/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/831/schedule/3)
+[^c-2f647b25582259ff1af0feca92a99762]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/14/schedule/4) in force at 31.10.2008 in so far as not already in force by [S.I. 2008/831](https://www.legislation.gov.uk/uksi/2008/831), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/831/article/3/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/831/schedule/3)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.14. Citation of witnesses, parties and persons having an interest[^key-ec018ab0cc148bdb565115bc414c8668]
+## 3.14. Citation of witnesses, parties and persons having an interest[^c-ec018ab0cc148bdb565115bc414c8668]
 
 *Extent: S*
 
 (1) The following shall be warrants for citation of witnesses, parties and havers:–
 
-- (a) the warrant for the hearing on evidence[^key-32bc40ea5223a42514afc562988ddf8e] in an application;
+- (a) the warrant for the hearing on evidence[^c-32bc40ea5223a42514afc562988ddf8e] in an application;
 - (b) an interlocutor fixing a diet for the continued hearing of an application; and
 - (c) an interlocutor assigning a diet for a hearing of an appeal or application.
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ec018ab0cc148bdb565115bc414c8668]: Commencement: Rule 3.14 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-ec018ab0cc148bdb565115bc414c8668]: Commencement: Rule 3.14 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-32bc40ea5223a42514afc562988ddf8e]: Textual amendment: Words in rule 3.14(1)(a) substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(17)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/17) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-32bc40ea5223a42514afc562988ddf8e]: Textual amendment: Words in rule 3.14(1)(a) substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(17)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/17) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

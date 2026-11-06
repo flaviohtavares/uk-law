@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. The Electricity Works (Environmental Impact Assessment) (England and Wales) Regulations 2017[^key-0173ac61d772f53b20c96c2737c13830]
+## 112. The Electricity Works (Environmental Impact Assessment) (England and Wales) Regulations 2017[^c-0173ac61d772f53b20c96c2737c13830]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In Schedule 2 to the Electricity Works (Environmental Impact Assessment) (Englan
 
 ## Annotations
 
-[^key-0173ac61d772f53b20c96c2737c13830]: Commencement: [Reg. 112](https://www.legislation.gov.uk/wsi/2024/924/regulation/112) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-0173ac61d772f53b20c96c2737c13830]: Commencement: [Reg. 112](https://www.legislation.gov.uk/wsi/2024/924/regulation/112) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00053]: Footnote: [S.I. 2017/580](https://www.legislation.gov.uk/uksi/2017/580).

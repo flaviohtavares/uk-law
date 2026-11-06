@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 171. Service on joint postal administrators[^key-90dc9ae48d632753a137164947558d28]
+## 171. Service on joint postal administrators[^c-90dc9ae48d632753a137164947558d28]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where there are joint postal administrators, service on one of them is to be tre
 
 ## Annotations
 
-[^key-90dc9ae48d632753a137164947558d28]: Commencement: [Rule 171](https://www.legislation.gov.uk/uksi/2013/3208/rule/171) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-90dc9ae48d632753a137164947558d28]: Commencement: [Rule 171](https://www.legislation.gov.uk/uksi/2013/3208/rule/171) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

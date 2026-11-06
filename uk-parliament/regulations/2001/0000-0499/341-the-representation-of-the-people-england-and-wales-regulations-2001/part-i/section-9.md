@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Official poll card and postal poll card at parliamentary elections[^key-c1001b08bb25b12984808c752256316a][^key-ce75d010ca4b761566bb2a829547f1e5]
+## 9. Official poll card and postal poll card at parliamentary elections[^c-c1001b08bb25b12984808c752256316a][^c-ce75d010ca4b761566bb2a829547f1e5]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1001b08bb25b12984808c752256316a]: Commencement: Reg. 9 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-c1001b08bb25b12984808c752256316a]: Commencement: Reg. 9 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
 
-[^key-ce75d010ca4b761566bb2a829547f1e5]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2001/341/regulation/9) substituted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [46](https://www.legislation.gov.uk/uksi/2006/2910/regulation/46) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/2)[(3)(d)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/3/d))
+[^c-ce75d010ca4b761566bb2a829547f1e5]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2001/341/regulation/9) substituted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [46](https://www.legislation.gov.uk/uksi/2006/2910/regulation/46) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/2)[(3)(d)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/3/d))

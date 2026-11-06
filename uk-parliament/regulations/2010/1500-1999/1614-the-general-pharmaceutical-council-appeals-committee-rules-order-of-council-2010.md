@@ -74,11 +74,11 @@ The General Pharmaceutical Council makes these Rules in exercise of the powers c
 
 In accordance with article 66(3) of that Order, the General Pharmaceutical Council has, in relation to rules under Part 7 of that Order, consulted such persons or organisations as it considered appropriate including persons and organisations listed in paragraphs (a) to (h) of article 66(3) of that Order.
 
-### 1. Citation and commencement[^key-1afc5081dc575a097b7a3950beb381b4]
+### 1. Citation and commencement[^c-1afc5081dc575a097b7a3950beb381b4]
 
 These Rules may be cited as the General Pharmaceutical Council (Appeals Committee) Rules 2010 and come into force on 27th September 2010.
 
-### 2. Interpretation[^key-dccf19213b9189797d8f3de2469135e1]
+### 2. Interpretation[^c-dccf19213b9189797d8f3de2469135e1]
 
 (1) In these Rules—
 
@@ -89,7 +89,7 @@ These Rules may be cited as the General Pharmaceutical Council (Appeals Committe
   - (a) a person in respect of whom an appealable decision has been made (within the meaning of article 40 of the Order) who is appealing against that decision; or
   - (b) in the case of an appealable decision to which article 47(6)(a) or (b) of the Order applies, an institution or other provider which is appealing against that decision,
 - (or, where appropriate, their representatives);
-- “attend” means—[^key-1a1b2e9727e98cf64d39b22896a5bdb3]
+- “attend” means—[^c-1a1b2e9727e98cf64d39b22896a5bdb3]
   - (a) to be physically present at a meeting or hearing, or,
   - (b) to be present at a meeting or hearing by teleconference or video link;
 - “case officer” means the person representing the Council in matters relating to the appeal other than at a hearing;
@@ -98,7 +98,7 @@ These Rules may be cited as the General Pharmaceutical Council (Appeals Committe
 - “Notice of Appeal” means a notice of an appeal against an appealable decision given in accordance with paragraph (1), (2) or (3) of article 40 of the Order;
 - “Notice of Hearing” is to be construed in accordance with rules 5(f) and 6;
 - “parties” means the Council and the appellant (or, where appropriate, their representatives) and “party” is to be construed accordingly;
-- “present” includes being in a meeting or hearing by teleconference or video link and “presence” is to be construed accordingly;[^key-0d373294744a12a3a504e36c01b6ce4b]
+- “present” includes being in a meeting or hearing by teleconference or video link and “presence” is to be construed accordingly;[^c-0d373294744a12a3a504e36c01b6ce4b]
 - “the presenter” means the representative of the Council presenting the case at a hearing (and includes employees of the Council);
 - “secretary” means the secretary to the Committee; and
 - “witness” means a person giving oral evidence at a hearing, including an appellant giving oral evidence.
@@ -121,11 +121,11 @@ These Rules may be cited as the General Pharmaceutical Council (Appeals Committe
 
   but otherwise excluding everyone else.
 
-### 2A. Virtual meetings and hearings[^key-683352279b4e2ad3960931bd1358968c]
+### 2A. Virtual meetings and hearings[^c-683352279b4e2ad3960931bd1358968c]
 
 At the discretion of the chair, meetings or hearings of the Committee arranged under these Rules may be conducted by teleconference or video link.
 
-### 3. Service of documents[^key-c45f05ca79af27a29b126961320361a5]
+### 3. Service of documents[^c-c45f05ca79af27a29b126961320361a5]
 
 (1) For the purposes of these Rules any notice or document required to be served by the secretary must be in writing and must, subject to paragraphs (2) and (3), be served by sending it by a postal service or another delivery service to, or by leaving it at—
 
@@ -135,7 +135,7 @@ At the discretion of the chair, meetings or hearings of the Committee arranged u
 - (d) in the case of a body corporate, the registered or principal address of that body corporate; and
 - (e) in the case of an institution or other provider which is appealing against a decision under article 47(6)(a) or (b) of the Order, the last known address of that institution or other provider.
 
-(2) Notices or documents may be sent to a person under these Rules[^key-5864691ffdb6025976fb3c1143d61689] by electronic mail to an electronic mail address notified by that person to the Council[^key-24881b40626fc0883a1972f57511e7fc] as an address for communications.
+(2) Notices or documents may be sent to a person under these Rules[^c-5864691ffdb6025976fb3c1143d61689] by electronic mail to an electronic mail address notified by that person to the Council[^c-24881b40626fc0883a1972f57511e7fc] as an address for communications.
 
 (3) If a person to whom a notice or document is to be sent under these Rules so agrees, notices or documents may be sent to or left at—
 
@@ -148,7 +148,7 @@ At the discretion of the chair, meetings or hearings of the Committee arranged u
 
 (6) Where any notice or document is sent by electronic mail or left at an address, it is to be treated as having been served on the day at which it was sent to or left at that address.
 
-### 4. Notice of Appeal[^key-a43a8d2a919cbb32f9771e3d368dccff]
+### 4. Notice of Appeal[^c-a43a8d2a919cbb32f9771e3d368dccff]
 
 (1) Subject to paragraph (3), a Notice of Appeal will only be valid if it is in the format described in paragraph (2)[^f00004].
 
@@ -175,7 +175,7 @@ At the discretion of the chair, meetings or hearings of the Committee arranged u
 - (a) extend the time for delivery of the skeleton argument and any additional material necessary to determine the appeal; and
 - (b) allow the appellant to amend the details regarding representation provided under paragraph (2)(f).
 
-### 5. Action following receipt of Notice of Appeal[^key-09cb5f5357cf6a6da3e45d82a70d6ac0]
+### 5. Action following receipt of Notice of Appeal[^c-09cb5f5357cf6a6da3e45d82a70d6ac0]
 
 Following receipt of the Notice of Appeal, the secretary must—
 
@@ -188,11 +188,11 @@ Following receipt of the Notice of Appeal, the secretary must—
   - (ii) on which the Committee will consider the appeal (which, in the case of a hearing, unless the parties agree otherwise, must be no less than 28 days after the date on which the secretary serves the Notice of Hearing); and
 - (f) where the appellant has stated that the appellant wishes the Committee to consider the appeal at a hearing, send a Notice of Hearing to any person to whom the proceedings relate, which must be in the format described in rule 6.
 
-### 6. Notice of Hearing[^key-8db14b7512579dd0065e81a3e93efbbd]
+### 6. Notice of Hearing[^c-8db14b7512579dd0065e81a3e93efbbd]
 
 The Notice of Hearing must—
 
-- (a)[^key-bca30802474931a799c82e719b769de4] state—
+- (a)[^c-bca30802474931a799c82e719b769de4] state—
   - (i) the date, time and venue of the hearing, or
   - (ii) when the hearing is to be conducted by teleconference or video link, the date and time of the hearing and instructions on how to access the hearing;
 - (b) inform the appellant of the appellant’s right to attend the hearing and to be represented or accompanied at the hearing in accordance with rule 13(2) or (3);
@@ -206,7 +206,7 @@ The Notice of Hearing must—
   - (iii) seek to call any witnesses at the hearing, and if so, whom; and
 - (e) inform the appellant that, if the appellant fails to attend the hearing, the Committee may proceed with the hearing in the appellant’s absence.
 
-### 7. Case management meetings[^key-08a767bb6e3d6bfd6ba58896b81c91ae]
+### 7. Case management meetings[^c-08a767bb6e3d6bfd6ba58896b81c91ae]
 
 (1) Where a hearing is to be held a case management meeting[^f00005] may be convened by the chair of the chair’s own motion or at the written request of one or both of the parties.
 
@@ -220,7 +220,7 @@ The Notice of Hearing must—
 
 (6) Any preliminary rulings mentioned in paragraph (5) are binding on the Committee hearing the appeal.
 
-### 8. Evidence[^key-d39b03a1da8a5ea39a5f7721790afdd2]
+### 8. Evidence[^c-d39b03a1da8a5ea39a5f7721790afdd2]
 
 (1) All questions of admissibility of evidence and law before the Committee must be decided by the Committee.
 
@@ -240,7 +240,7 @@ whether or not such evidence would be admissible in any subsequent civil proceed
 
 (5) The only evidence which may be adduced by a person in rebuttal of a conviction certified or extracted in accordance with paragraph (4) is evidence for the purpose of proving that the person is not the person referred to in the certificate or extract.
 
-(6) Where it is alleged that a person is included in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00006] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00007]) by the Disclosure and Barring Service[^key-954849fe4e92c60b3e59336fde1b0ba1]—
+(6) Where it is alleged that a person is included in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00006] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00007]) by the Disclosure and Barring Service[^c-954849fe4e92c60b3e59336fde1b0ba1]—
 
 - (a) information provided by the Secretary of State under the Safeguarding Vulnerable Groups Act 2006 or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 that attests to that inclusion is to be conclusive proof of that inclusion, unless the person concerned can prove that they are not the person referred to in the information provided; and
 - (b) a document from the Service, authenticated in such manner as the Council may approve, that provides a statement of the findings of fact that led to that inclusion is conclusive proof of those facts.
@@ -254,7 +254,7 @@ whether or not such evidence would be admissible in any subsequent civil proceed
 
 (9) The Committee may only allow a party to adduce written evidence at a hearing which has not been submitted in accordance with these Rules in such exceptional circumstances as it may determine.
 
-### 9. Advice from clinical, specialist and legal advisers and the Fitness to Practise Committee[^key-4aaa87827f1576191534dc796ddd2aa8]
+### 9. Advice from clinical, specialist and legal advisers and the Fitness to Practise Committee[^c-4aaa87827f1576191534dc796ddd2aa8]
 
 (1) The Committee may, at any time in the course of proceedings before it (including during a hearing), seek advice from—
 
@@ -265,7 +265,7 @@ whether or not such evidence would be admissible in any subsequent civil proceed
 
 (2) The secretary must send the parties a record of any advice received by the Committee from the Fitness to Practise Committee as soon as practicable after it has been received[^f00009].
 
-### 10. Burden and standard of proof[^key-b771854f421fe6de321b1afb1ce69d26]
+### 10. Burden and standard of proof[^c-b771854f421fe6de321b1afb1ce69d26]
 
 (1) The appellant bears the burden of establishing that the appealable decision against which the appellant is appealing should be overturned.
 
@@ -273,13 +273,13 @@ whether or not such evidence would be admissible in any subsequent civil proceed
 
 (3) Where facts are in dispute, the Committee must consider whether they have been established in accordance with the civil standard of proof.
 
-### 11. Consideration of appeals on the papers[^key-dc46cc06ebb8ef41835b22af727b2105]
+### 11. Consideration of appeals on the papers[^c-dc46cc06ebb8ef41835b22af727b2105]
 
 (1) The Committee is to determine an appeal on the papers unless the appellant has requested a hearing in the Notice of Appeal.
 
 (2) No later than 7 days before the day of a meeting for the purposes of determining an appeal on the papers, the secretary must provide the Committee with an agenda and the documents relevant to the consideration of the appeal.
 
-### 12. Procedure at hearings[^key-ef60c7926dc40ccebc9e5a1b15da1fe8]
+### 12. Procedure at hearings[^c-ef60c7926dc40ccebc9e5a1b15da1fe8]
 
 (1) No later than 7 days before the day of the hearing, the secretary must provide the Committee with an agenda and the documents relevant to the consideration of the appeal.
 
@@ -302,7 +302,7 @@ whether or not such evidence would be admissible in any subsequent civil proceed
 
 (4) The Committee may refuse to allow a witness to give oral evidence, or to give oral evidence on a particular matter, if the Committee is satisfied that all or part of the evidence that the witness is to provide, or is to provide on that matter, should have been disclosed to the party not calling the witness at an earlier stage in the proceedings.
 
-### 13. Representation[^key-cb5de652983a7c9e5be190e78ec49bfb]
+### 13. Representation[^c-cb5de652983a7c9e5be190e78ec49bfb]
 
 (1) The presenter must be a person who is—
 
@@ -324,7 +324,7 @@ whether or not such evidence would be admissible in any subsequent civil proceed
   - (iii) a witness at the hearing; and
 - (b) will be entitled to address the Committee only with the permission of the chair.
 
-### 14. Witness evidence[^key-e3887ee6cc04491f3c19bcc008069523]
+### 14. Witness evidence[^c-e3887ee6cc04491f3c19bcc008069523]
 
 (1) Witnesses must be required to take an oath, or to affirm, before giving their oral evidence.
 
@@ -358,7 +358,7 @@ whether or not such evidence would be admissible in any subsequent civil proceed
 
 (10) Except for expert witnesses and the appellant, witnesses must not be allowed to attend the proceedings until after they have completed giving their evidence and been formally released by the chair.
 
-### 15. Vulnerable witnesses at hearings[^key-1235b15cbce51bfe5b379a27beb81f17]
+### 15. Vulnerable witnesses at hearings[^c-1235b15cbce51bfe5b379a27beb81f17]
 
 (1) In proceedings before the Committee, the following may, if the quality of their evidence is otherwise likely to be adversely affected, be treated as vulnerable witnesses—
 
@@ -387,7 +387,7 @@ that person is not to be allowed to cross-examine the witness directly in person
 
 (5) In the circumstances set out in paragraph (4), any questioning of the witness is to be undertaken by such person as the Committee considers appropriate.
 
-### 16. Attendance of the public at hearings[^key-0aebad068d3f0014a13f980391cdb420]
+### 16. Attendance of the public at hearings[^c-0aebad068d3f0014a13f980391cdb420]
 
 (1) Except as provided for by this rule, hearings before the Committee must be conducted in public.
 
@@ -405,9 +405,9 @@ that the interest of the appellant or the third party in maintaining their priva
 
 (4) The Committee may exclude from the whole or any part of a hearing any person whose conduct, in the opinion of the Committee, has disrupted or is likely to disrupt the hearing.
 
-(5)[^key-e54ce5831e638f9cf2b3b2f8f81642ff] Reference to a hearing under this rule includes hearings conducted by teleconference or video link.
+(5)[^c-e54ce5831e638f9cf2b3b2f8f81642ff] Reference to a hearing under this rule includes hearings conducted by teleconference or video link.
 
-### 17. Postponements and adjournments[^key-99c7aeea84057d67b1e47a54f1ae1b76]
+### 17. Postponements and adjournments[^c-99c7aeea84057d67b1e47a54f1ae1b76]
 
 (1) The chair may, of the chair’s own motion, or upon the application of a party, postpone any hearing of which notice has been given under these Rules before the hearing begins.
 
@@ -425,7 +425,7 @@ that the interest of the appellant or the third party in maintaining their priva
 
 (4) Where the proceedings have been postponed or adjourned, the secretary must, as soon as practicable, notify the parties of the date, time and venue of the re-listed or resumed hearing.
 
-### 18. Decision of the Committee[^key-e01f0938a6f0d73279aa05d5488aae03]
+### 18. Decision of the Committee[^c-e01f0938a6f0d73279aa05d5488aae03]
 
 (1) The written statement under article 40(8) of the Order, must be given, in addition to the appellant, to—
 
@@ -434,7 +434,7 @@ that the interest of the appellant or the third party in maintaining their priva
 
 (2) The written statement given to the appellant must be accompanied by a record of any rulings on questions of law or admissibility of evidence made by the chair or the Committee.
 
-### 19. Costs of the hearing[^key-adcdc94de7d27ec7b882bce1b6f6f205]
+### 19. Costs of the hearing[^c-adcdc94de7d27ec7b882bce1b6f6f205]
 
 (1) Where a hearing is to be held and a party is seeking or intends to seek an order for payment of its costs, the party must serve on the other party, and on the secretary, a schedule of costs or expenses relating to the hearing no less than 24 hours before the date of the hearing.
 
@@ -449,7 +449,7 @@ that the interest of the appellant or the third party in maintaining their priva
 
 (5) Where a person is appointed by the secretary in accordance with paragraph (4)(b), that person must also determine how the costs of the assessment are to be apportioned.
 
-### 20. Notes and transcripts of hearings[^key-af7d0c2840aa835576e657a46e5ff596]
+### 20. Notes and transcripts of hearings[^c-af7d0c2840aa835576e657a46e5ff596]
 
 (1) Subject to paragraph (3), the Committee must arrange for all hearings to be recorded in writing or electronic form.
 
@@ -501,74 +501,74 @@ Rule 19 provides for the award of costs or expenses. Rule 20 provides that heari
 
 [^f00002]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-1afc5081dc575a097b7a3950beb381b4]: Commencement: [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/1) in force at 27.9.2010, see rule 1
+[^c-1afc5081dc575a097b7a3950beb381b4]: Commencement: [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/1) in force at 27.9.2010, see rule 1
 
-[^key-dccf19213b9189797d8f3de2469135e1]: Commencement: [Sch. rule 2](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/2) in force at 27.9.2010, see rule 1
+[^c-dccf19213b9189797d8f3de2469135e1]: Commencement: [Sch. rule 2](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/2) in force at 27.9.2010, see rule 1
 
 [^f00003]: Footnote: These Rules are scheduled to [S.I. 2010/1616](https://www.legislation.gov.uk/uksi/2010/1616).
 
-[^key-1a1b2e9727e98cf64d39b22896a5bdb3]: Textual amendment: Words in Sch. rule 2 inserted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [art. 1](https://www.legislation.gov.uk/uksi/2022/697/article/1), [Sch. rule 2(2)(a)](https://www.legislation.gov.uk/uksi/2022/697/schedule/rule/2/2/a)
+[^c-1a1b2e9727e98cf64d39b22896a5bdb3]: Textual amendment: Words in Sch. rule 2 inserted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [art. 1](https://www.legislation.gov.uk/uksi/2022/697/article/1), [Sch. rule 2(2)(a)](https://www.legislation.gov.uk/uksi/2022/697/schedule/rule/2/2/a)
 
-[^key-0d373294744a12a3a504e36c01b6ce4b]: Textual amendment: Words in Sch. rule 2 inserted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [art. 1](https://www.legislation.gov.uk/uksi/2022/697/article/1), [Sch. rule 2(2)(b)](https://www.legislation.gov.uk/uksi/2022/697/schedule/rule/2/2/b)
+[^c-0d373294744a12a3a504e36c01b6ce4b]: Textual amendment: Words in Sch. rule 2 inserted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [art. 1](https://www.legislation.gov.uk/uksi/2022/697/article/1), [Sch. rule 2(2)(b)](https://www.legislation.gov.uk/uksi/2022/697/schedule/rule/2/2/b)
 
-[^key-683352279b4e2ad3960931bd1358968c]: Textual amendment: Sch. rule 2A inserted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [art. 1](https://www.legislation.gov.uk/uksi/2022/697/article/1), [Sch. rule 2(3)](https://www.legislation.gov.uk/uksi/2022/697/schedule/rule/2/3)
+[^c-683352279b4e2ad3960931bd1358968c]: Textual amendment: Sch. rule 2A inserted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [art. 1](https://www.legislation.gov.uk/uksi/2022/697/article/1), [Sch. rule 2(3)](https://www.legislation.gov.uk/uksi/2022/697/schedule/rule/2/3)
 
-[^key-c45f05ca79af27a29b126961320361a5]: Commencement: [Sch. rule 3](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/3) in force at 27.9.2010, see rule 1
+[^c-c45f05ca79af27a29b126961320361a5]: Commencement: [Sch. rule 3](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/3) in force at 27.9.2010, see rule 1
 
-[^key-5864691ffdb6025976fb3c1143d61689]: Textual amendment: Words in [Sch. rule 3(2)](https://www.legislation.gov.uk/uksi/2010/1614/schedule/rule/3/2) substituted (4.3.2021) by [The General Pharmaceutical Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/26)](https://www.legislation.gov.uk/uksi/2021/26), [art. 1](https://www.legislation.gov.uk/uksi/2021/26/article/1), [Sch. rule 2(4)(a)](https://www.legislation.gov.uk/uksi/2021/26/schedule/rule/2/4/a)
+[^c-5864691ffdb6025976fb3c1143d61689]: Textual amendment: Words in [Sch. rule 3(2)](https://www.legislation.gov.uk/uksi/2010/1614/schedule/rule/3/2) substituted (4.3.2021) by [The General Pharmaceutical Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/26)](https://www.legislation.gov.uk/uksi/2021/26), [art. 1](https://www.legislation.gov.uk/uksi/2021/26/article/1), [Sch. rule 2(4)(a)](https://www.legislation.gov.uk/uksi/2021/26/schedule/rule/2/4/a)
 
-[^key-24881b40626fc0883a1972f57511e7fc]: Textual amendment: Word in [Sch. rule 3(2)](https://www.legislation.gov.uk/uksi/2010/1614/schedule/rule/3/2) substituted (4.3.2021) by [The General Pharmaceutical Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/26)](https://www.legislation.gov.uk/uksi/2021/26), [art. 1](https://www.legislation.gov.uk/uksi/2021/26/article/1), [Sch. rule 2(4)(b)](https://www.legislation.gov.uk/uksi/2021/26/schedule/rule/2/4/b)
+[^c-24881b40626fc0883a1972f57511e7fc]: Textual amendment: Word in [Sch. rule 3(2)](https://www.legislation.gov.uk/uksi/2010/1614/schedule/rule/3/2) substituted (4.3.2021) by [The General Pharmaceutical Council (Coronavirus) (Amendment) Rules Order of Council 2021 (S.I. 2021/26)](https://www.legislation.gov.uk/uksi/2021/26), [art. 1](https://www.legislation.gov.uk/uksi/2021/26/article/1), [Sch. rule 2(4)(b)](https://www.legislation.gov.uk/uksi/2021/26/schedule/rule/2/4/b)
 
-[^key-a43a8d2a919cbb32f9771e3d368dccff]: Commencement: [Sch. rule 4](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/4) in force at 27.9.2010, see rule 1
+[^c-a43a8d2a919cbb32f9771e3d368dccff]: Commencement: [Sch. rule 4](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/4) in force at 27.9.2010, see rule 1
 
 [^f00004]: Footnote: A template is available on the Council’s website: www.pharmacyregulation.org.
 
-[^key-09cb5f5357cf6a6da3e45d82a70d6ac0]: Commencement: [Sch. rule 5](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/5) in force at 27.9.2010, see rule 1
+[^c-09cb5f5357cf6a6da3e45d82a70d6ac0]: Commencement: [Sch. rule 5](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/5) in force at 27.9.2010, see rule 1
 
-[^key-8db14b7512579dd0065e81a3e93efbbd]: Commencement: [Sch. rule 6](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/6) in force at 27.9.2010, see rule 1
+[^c-8db14b7512579dd0065e81a3e93efbbd]: Commencement: [Sch. rule 6](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/6) in force at 27.9.2010, see rule 1
 
-[^key-bca30802474931a799c82e719b769de4]: Textual amendment: Sch. rule 6(a) substituted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [art. 1](https://www.legislation.gov.uk/uksi/2022/697/article/1), [Sch. rule 2(4)](https://www.legislation.gov.uk/uksi/2022/697/schedule/rule/2/4)
+[^c-bca30802474931a799c82e719b769de4]: Textual amendment: Sch. rule 6(a) substituted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [art. 1](https://www.legislation.gov.uk/uksi/2022/697/article/1), [Sch. rule 2(4)](https://www.legislation.gov.uk/uksi/2022/697/schedule/rule/2/4)
 
-[^key-08a767bb6e3d6bfd6ba58896b81c91ae]: Commencement: [Sch. rule 7](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/7) in force at 27.9.2010, see rule 1
+[^c-08a767bb6e3d6bfd6ba58896b81c91ae]: Commencement: [Sch. rule 7](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/7) in force at 27.9.2010, see rule 1
 
 [^f00005]: Footnote: By virtue of rule 18(3) of the General Pharmaceutical Council (Statutory Committees and their Advisers) Rules 2010 which are scheduled to [S.I. 2010/1616](https://www.legislation.gov.uk/uksi/2010/1616), a case management meeting must be conducted by the chair. By virtue of rule 21(4) of those rules, if the chair is not legally qualified (as defined in rule 2 of those rules) a legal adviser must also be present at a case management meeting.
 
-[^key-d39b03a1da8a5ea39a5f7721790afdd2]: Commencement: [Sch. rule 8](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/8) in force at 27.9.2010, see rule 1
+[^c-d39b03a1da8a5ea39a5f7721790afdd2]: Commencement: [Sch. rule 8](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/8) in force at 27.9.2010, see rule 1
 
 [^f00006]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
 [^f00007]: Footnote: [S.I. 2007/1351 (N.I.11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-954849fe4e92c60b3e59336fde1b0ba1]: Textual amendment: Words in [Sch. rule 8(6)](https://www.legislation.gov.uk/uksi/2010/1614/schedule/article/8/6) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(cc)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/cc) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-954849fe4e92c60b3e59336fde1b0ba1]: Textual amendment: Words in [Sch. rule 8(6)](https://www.legislation.gov.uk/uksi/2010/1614/schedule/article/8/6) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(cc)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/cc) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
 [^f00008]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
-[^key-4aaa87827f1576191534dc796ddd2aa8]: Commencement: [Sch. rule 9](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/9) in force at 27.9.2010, see rule 1
+[^c-4aaa87827f1576191534dc796ddd2aa8]: Commencement: [Sch. rule 9](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/9) in force at 27.9.2010, see rule 1
 
 [^f00009]: Footnote: By virtue of rule 25(3) of the General Pharmaceutical Council (Statutory Committees and their Advisers) Rules 2010 which are scheduled to [S.I. 2010/1616](https://www.legislation.gov.uk/uksi/2010/1616), a record of any advice tendered by a legal, clinical or specialist adviser must be sent to the parties to the proceedings or their representatives, as appropriate, as soon as practicable after it has been tendered.
 
-[^key-b771854f421fe6de321b1afb1ce69d26]: Commencement: [Sch. rule 10](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/10) in force at 27.9.2010, see rule 1
+[^c-b771854f421fe6de321b1afb1ce69d26]: Commencement: [Sch. rule 10](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/10) in force at 27.9.2010, see rule 1
 
-[^key-dc46cc06ebb8ef41835b22af727b2105]: Commencement: [Sch. rule 11](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/11) in force at 27.9.2010, see rule 1
+[^c-dc46cc06ebb8ef41835b22af727b2105]: Commencement: [Sch. rule 11](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/11) in force at 27.9.2010, see rule 1
 
-[^key-ef60c7926dc40ccebc9e5a1b15da1fe8]: Commencement: [Sch. rule 12](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/12) in force at 27.9.2010, see rule 1
+[^c-ef60c7926dc40ccebc9e5a1b15da1fe8]: Commencement: [Sch. rule 12](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/12) in force at 27.9.2010, see rule 1
 
-[^key-cb5de652983a7c9e5be190e78ec49bfb]: Commencement: [Sch. rule 13](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/13) in force at 27.9.2010, see rule 1
+[^c-cb5de652983a7c9e5be190e78ec49bfb]: Commencement: [Sch. rule 13](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/13) in force at 27.9.2010, see rule 1
 
-[^key-e3887ee6cc04491f3c19bcc008069523]: Commencement: [Sch. rule 14](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/14) in force at 27.9.2010, see rule 1
+[^c-e3887ee6cc04491f3c19bcc008069523]: Commencement: [Sch. rule 14](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/14) in force at 27.9.2010, see rule 1
 
-[^key-1235b15cbce51bfe5b379a27beb81f17]: Commencement: [Sch. rule 15](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/15) in force at 27.9.2010, see rule 1
+[^c-1235b15cbce51bfe5b379a27beb81f17]: Commencement: [Sch. rule 15](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/15) in force at 27.9.2010, see rule 1
 
 [^f00010]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20). “Mental disorder” is defined in section 1(2) as any disorder or disability of the mind.
 
-[^key-0aebad068d3f0014a13f980391cdb420]: Commencement: [Sch. rule 16](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/16) in force at 27.9.2010, see rule 1
+[^c-0aebad068d3f0014a13f980391cdb420]: Commencement: [Sch. rule 16](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/16) in force at 27.9.2010, see rule 1
 
-[^key-e54ce5831e638f9cf2b3b2f8f81642ff]: Textual amendment: Sch. rule 16(5) inserted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [art. 1](https://www.legislation.gov.uk/uksi/2022/697/article/1), [Sch. rule 2(5)](https://www.legislation.gov.uk/uksi/2022/697/schedule/rule/2/5)
+[^c-e54ce5831e638f9cf2b3b2f8f81642ff]: Textual amendment: Sch. rule 16(5) inserted (6.10.2022) by [The General Pharmaceutical Council (Amendment) Rules Order of Council 2022 (S.I. 2022/697)](https://www.legislation.gov.uk/uksi/2022/697), [art. 1](https://www.legislation.gov.uk/uksi/2022/697/article/1), [Sch. rule 2(5)](https://www.legislation.gov.uk/uksi/2022/697/schedule/rule/2/5)
 
-[^key-99c7aeea84057d67b1e47a54f1ae1b76]: Commencement: [Sch. rule 17](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/17) in force at 27.9.2010, see rule 1
+[^c-99c7aeea84057d67b1e47a54f1ae1b76]: Commencement: [Sch. rule 17](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/17) in force at 27.9.2010, see rule 1
 
-[^key-e01f0938a6f0d73279aa05d5488aae03]: Commencement: [Sch. rule 18](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/18) in force at 27.9.2010, see rule 1
+[^c-e01f0938a6f0d73279aa05d5488aae03]: Commencement: [Sch. rule 18](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/18) in force at 27.9.2010, see rule 1
 
-[^key-adcdc94de7d27ec7b882bce1b6f6f205]: Commencement: [Sch. rule 19](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/19) in force at 27.9.2010, see rule 1
+[^c-adcdc94de7d27ec7b882bce1b6f6f205]: Commencement: [Sch. rule 19](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/19) in force at 27.9.2010, see rule 1
 
-[^key-af7d0c2840aa835576e657a46e5ff596]: Commencement: [Sch. rule 20](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/20) in force at 27.9.2010, see rule 1
+[^c-af7d0c2840aa835576e657a46e5ff596]: Commencement: [Sch. rule 20](https://www.legislation.gov.uk/uksi/2010/1614/schedule/paragraph/20) in force at 27.9.2010, see rule 1

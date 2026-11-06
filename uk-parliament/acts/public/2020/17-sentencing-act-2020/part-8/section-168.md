@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Requirement to produce licences where driving disqualification order made[^key-842cad61b20a33a1fb05d9008b76a66a]
+## 168. Requirement to produce licences where driving disqualification order made[^c-842cad61b20a33a1fb05d9008b76a66a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A court which makes a driving disqualification order in respect of an offender m
 
 ## Annotations
 
-[^key-842cad61b20a33a1fb05d9008b76a66a]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2020/17/section/168) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-842cad61b20a33a1fb05d9008b76a66a]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2020/17/section/168) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

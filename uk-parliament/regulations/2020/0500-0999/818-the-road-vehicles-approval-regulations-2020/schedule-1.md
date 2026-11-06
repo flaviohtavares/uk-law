@@ -24,30 +24,30 @@ Regulation 16(2)
 
 ### PART 1 — Interpretation
 
-**1.**[^key-763df6738359104cc0efa7f821f1ffd7] In this Schedule—
+**1.**[^c-763df6738359104cc0efa7f821f1ffd7] In this Schedule—
 
 - “**approval**” means—
-  - (a) a certificate of type approval (including a certificate issued in accordance with Council Directive [70/156/EEC](https://www.legislation.gov.uk/eudr/1970/156) or Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)) issued in the United Kingdom or a[^key-38d1c6b263830e091ae36d18bdd2423c] member State, or
+  - (a) a certificate of type approval (including a certificate issued in accordance with Council Directive [70/156/EEC](https://www.legislation.gov.uk/eudr/1970/156) or Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)) issued in the United Kingdom or a[^c-38d1c6b263830e091ae36d18bdd2423c] member State, or
   - (b) a document of approval issued under the law of a country or territory outside the United Kingdom,
 
   which is sufficient to show that a vehicle, system, component or separate technical unit complies with a requirement specified in column 1 of a table in this Schedule;
-- “**certificate of conformity**” means a certificate of conformity issued in respect of a type approval granted in the United Kingdom or a[^key-e01248edd2a682a95383dc7aa56ef81b] member State (including a type approval granted before 5th July 2020);
+- “**certificate of conformity**” means a certificate of conformity issued in respect of a type approval granted in the United Kingdom or a[^c-e01248edd2a682a95383dc7aa56ef81b] member State (including a type approval granted before 5th July 2020);
 - “**disabled person's vehicle**” means a vehicle constructed or adapted to enable a person with a disability to travel in the vehicle as a driver or a passenger, in safety and reasonable comfort (and “**disability**” has the same meaning as in section 6(1) of the Equality Act 2010 [^c24305221]);
 - “**effective date**” has the meaning given in Part 1 of Schedule 2;
-- “**test report**” means a report issued by a technical service (within the meaning of Article 3(38) of the Type Approval Regulation or, in the case of a UK (NI) national small series type-approval, the EU Type Approval Regulation[^key-b3a1cbbaa4cb036c97b1b17d3d964233]) which is sufficient to show that a vehicle, system, component or separate technical unit complies with a requirement specified in column 1 of a table in this Schedule.
+- “**test report**” means a report issued by a technical service (within the meaning of Article 3(38) of the Type Approval Regulation or, in the case of a UK (NI) national small series type-approval, the EU Type Approval Regulation[^c-b3a1cbbaa4cb036c97b1b17d3d964233]) which is sufficient to show that a vehicle, system, component or separate technical unit complies with a requirement specified in column 1 of a table in this Schedule.
 
-**2.**[^key-30fd96455019343677c6b861201351dd] A reference in a table in this Schedule to any numbered item is, except where otherwise provided, a reference to the item so numbered in that table.
+**2.**[^c-30fd96455019343677c6b861201351dd] A reference in a table in this Schedule to any numbered item is, except where otherwise provided, a reference to the item so numbered in that table.
 
-**3.**[^key-1c815928737c25dbb868c331193d66d1] A reference in column 1 of a table in this Schedule to any Directive, Regulation (other than a UNECE Regulation) or Decision is a reference to the version of that Directive, Regulation or Decision as it has effect in EU law[^key-5c5c2ab9f8fc9c663073693082e231e2]—
+**3.**[^c-1c815928737c25dbb868c331193d66d1] A reference in column 1 of a table in this Schedule to any Directive, Regulation (other than a UNECE Regulation) or Decision is a reference to the version of that Directive, Regulation or Decision as it has effect in EU law[^c-5c5c2ab9f8fc9c663073693082e231e2]—
 
 - (a) as at the date of any specified last amendment, or
 - (b) where it has been revoked and no last amendment is specified, immediately before that revocation.
 
-**4.**[^key-4cfacfa26b71becf0f77d4cb4220a1b8] A reference in column 2 or 3 of a table in this Schedule to any Directive, Regulation or Decision is a reference to the version of that Directive, Regulation or Decision mentioned in the corresponding entry in column 1 of the table concerned.
+**4.**[^c-4cfacfa26b71becf0f77d4cb4220a1b8] A reference in column 2 or 3 of a table in this Schedule to any Directive, Regulation or Decision is a reference to the version of that Directive, Regulation or Decision mentioned in the corresponding entry in column 1 of the table concerned.
 
 ### PART 2 — Requirements for vehicles of category M<sub>1</sub>
 
-#### CHAPTER 1[^key-74f513bf20d158012171089f26f979af]
+#### CHAPTER 1[^c-74f513bf20d158012171089f26f979af]
 
 <table>
 <tbody>
@@ -208,7 +208,7 @@ Regulation 16(2)
 
 [^c24305231][^c24305241][^c24305251][^c24305261][^c24305271][^c24305281][^c24305291][^c24305301][^c24305311][^c24305321][^c24305331][^c24305341][^c24305351][^c24305361][^c24305371][^c24305381][^c24305391][^c24305401][^c24305411][^c24305421][^c24305431][^c24305441][^c24305451][^c24305461][^c24305471][^c24305481][^c24305491][^c24305501][^c24305511][^c24305521][^c24305531][^c24305541][^c24305551][^c24305561][^c24305571][^c24305581][^c24305591][^c24305601][^c24305611][^c24305621][^c24305631][^c24305641][^c24305651][^c24305661][^c24305671][^c24305681][^c24305691][^c24305701][^c24305711][^c24305721][^c24305731][^c24305741][^c24305751][^c24305761][^c24305771][^c24305781][^c24305791][^c24305801][^c24305811][^c24305821][^c24305831][^c24305841][^c24305851][^c24305861][^c24305871]
 
-#### CHAPTER 2[^key-2d1a5b6fee8a867b8ce5ef026757d799]
+#### CHAPTER 2[^c-2d1a5b6fee8a867b8ce5ef026757d799]
 
 ##### SECTION 1
 
@@ -265,7 +265,7 @@ The anchorages will meet the test performance requirements if—
 
 Instead of complying with Section 1 an alternative wheelchair tie-down system, docking system or occupant restraint system may be fitted. This may include a rearward facing wheelchair arrangement with appropriate safety features. Evidence must be provided to the approval authority that the system offers an equivalent level of occupant protection for the wheelchair user.
 
-### PART 3 — Requirements for vehicles of category N<sub>1</sub>[^key-a19da35fafa1efbcdd05e4d3e2993f95]
+### PART 3 — Requirements for vehicles of category N<sub>1</sub>[^c-a19da35fafa1efbcdd05e4d3e2993f95]
 
 <table>
 <tbody>
@@ -381,7 +381,7 @@ Instead of complying with Section 1 an alternative wheelchair tie-down system, d
 
 [^c24305891][^c24305901][^c24305911][^c24305921][^c24305931][^c24305941]
 
-### PART 4 — Requirements for vehicles of categories M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3</sub> and O[^key-95d181cb4c1ce26304b4e82f72462857]
+### PART 4 — Requirements for vehicles of categories M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub>, N<sub>3</sub> and O[^c-95d181cb4c1ce26304b4e82f72462857]
 
 <table>
 <tbody>
@@ -604,25 +604,25 @@ Table 1
 
 ## Annotations
 
-[^key-763df6738359104cc0efa7f821f1ffd7]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-763df6738359104cc0efa7f821f1ffd7]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-38d1c6b263830e091ae36d18bdd2423c]: Textual amendment: Word in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/818/schedule/1/paragraph/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [18(a)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/18/a/i)
+[^c-38d1c6b263830e091ae36d18bdd2423c]: Textual amendment: Word in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/818/schedule/1/paragraph/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [18(a)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/18/a/i)
 
-[^key-e01248edd2a682a95383dc7aa56ef81b]: Textual amendment: Word in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/818/schedule/1/paragraph/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [18(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/18/a/ii)
+[^c-e01248edd2a682a95383dc7aa56ef81b]: Textual amendment: Word in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/818/schedule/1/paragraph/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [18(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/18/a/ii)
 
 [^c24305221]: Marginal citation: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-b3a1cbbaa4cb036c97b1b17d3d964233]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/818/schedule/1/paragraph/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [18(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/18/a/iii)
+[^c-b3a1cbbaa4cb036c97b1b17d3d964233]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2020/818/schedule/1/paragraph/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [18(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/18/a/iii)
 
-[^key-30fd96455019343677c6b861201351dd]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 1.9.2020, see reg. 1(b)
+[^c-30fd96455019343677c6b861201351dd]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 1.9.2020, see reg. 1(b)
 
-[^key-1c815928737c25dbb868c331193d66d1]: Commencement: Sch. 1 Pt. 1 para. 3 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-1c815928737c25dbb868c331193d66d1]: Commencement: Sch. 1 Pt. 1 para. 3 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-5c5c2ab9f8fc9c663073693082e231e2]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2020/818/schedule/1/paragraph/3) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/18/b)
+[^c-5c5c2ab9f8fc9c663073693082e231e2]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2020/818/schedule/1/paragraph/3) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/18/b)
 
-[^key-4cfacfa26b71becf0f77d4cb4220a1b8]: Commencement: Sch. 1 Pt. 1 para. 4 in force at 1.9.2020, see reg. 1(b)
+[^c-4cfacfa26b71becf0f77d4cb4220a1b8]: Commencement: Sch. 1 Pt. 1 para. 4 in force at 1.9.2020, see reg. 1(b)
 
-[^key-74f513bf20d158012171089f26f979af]: Commencement: Sch. 1 Pt. 2 Ch. 1 in force at 1.9.2020, see reg. 1(b)
+[^c-74f513bf20d158012171089f26f979af]: Commencement: Sch. 1 Pt. 2 Ch. 1 in force at 1.9.2020, see reg. 1(b)
 
 [^c24305231]: Marginal citation: OJ No. L 42, 23.2.1970, p. 16.
 
@@ -754,11 +754,11 @@ Table 1
 
 [^c24305871]: Marginal citation: OJ No. L 140, 29.5.2006, p. 33.
 
-[^key-2d1a5b6fee8a867b8ce5ef026757d799]: Commencement: Sch. 1 Pt. 2 Ch. 2 in force at 1.9.2020, see reg. 1(b)
+[^c-2d1a5b6fee8a867b8ce5ef026757d799]: Commencement: Sch. 1 Pt. 2 Ch. 2 in force at 1.9.2020, see reg. 1(b)
 
 [^c24305881]: Marginal citation: OJ No. L 187, 26.7.1996, p. 95.
 
-[^key-a19da35fafa1efbcdd05e4d3e2993f95]: Commencement: Sch. 1 Pt. 3 in force at 1.9.2020, see reg. 1(b)
+[^c-a19da35fafa1efbcdd05e4d3e2993f95]: Commencement: Sch. 1 Pt. 3 in force at 1.9.2020, see reg. 1(b)
 
 [^c24305891]: Marginal citation: OJ No. L 145, 13.6.1977, p. 41.
 
@@ -772,7 +772,7 @@ Table 1
 
 [^c24305941]: Marginal citation: OJ No. L 409, 31.12.1992, p. 17.
 
-[^key-95d181cb4c1ce26304b4e82f72462857]: Commencement: Sch. 1 Pt. 4 in force at 1.9.2020, see reg. 1(b)
+[^c-95d181cb4c1ce26304b4e82f72462857]: Commencement: Sch. 1 Pt. 4 in force at 1.9.2020, see reg. 1(b)
 
 [^c24305951]: Marginal citation: OJ No. L 252, 16.9.2016, p. 53.
 

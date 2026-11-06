@@ -34,7 +34,7 @@ Corporation Tax
 
 Income Tax
 
-The Lloyd’s Underwriters (Equalisation Reserves) (Tax) Regulations 2009 (revoked)[^key-f106da51341d416169ab5c13c3f202fe]
+The Lloyd’s Underwriters (Equalisation Reserves) (Tax) Regulations 2009 (revoked)[^c-f106da51341d416169ab5c13c3f202fe]
 
 Made
 
@@ -48,36 +48,36 @@ Coming into force
 
 1st September 2009
 
-[^key-f106da51341d416169ab5c13c3f202fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f106da51341d416169ab5c13c3f202fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-f106da51341d416169ab5c13c3f202fe]
+## 1. Citation, commencement and effect[^c-f106da51341d416169ab5c13c3f202fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f106da51341d416169ab5c13c3f202fe]
+## 2. Interpretation[^c-f106da51341d416169ab5c13c3f202fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Reserves maintained by Lloyd’s members which are equivalent to equalisation reserves[^key-f106da51341d416169ab5c13c3f202fe]
+## 3. Reserves maintained by Lloyd’s members which are equivalent to equalisation reserves[^c-f106da51341d416169ab5c13c3f202fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Modifications of section 444BA Income and Corporation Taxes Act 1988 and equalisation reserves rules[^key-f106da51341d416169ab5c13c3f202fe]
+## 4. Modifications of section 444BA Income and Corporation Taxes Act 1988 and equalisation reserves rules[^c-f106da51341d416169ab5c13c3f202fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Further modification for purposes of computing profits or losses arising in the first accounting period to which these Regulations apply[^key-f106da51341d416169ab5c13c3f202fe]
+## 5. Further modification for purposes of computing profits or losses arising in the first accounting period to which these Regulations apply[^c-f106da51341d416169ab5c13c3f202fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f106da51341d416169ab5c13c3f202fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f106da51341d416169ab5c13c3f202fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f106da51341d416169ab5c13c3f202fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f106da51341d416169ab5c13c3f202fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f106da51341d416169ab5c13c3f202fe]: Textual amendment: Regulations revoked (1.1.2016) by [The Lloyd’s Underwriters (Transitional Equalisation Reserves) (Tax) Regulations 2015 (S.I. 2015/1983)](https://www.legislation.gov.uk/uksi/2015/1983), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1983/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/1983/regulation/5/b)
+[^c-f106da51341d416169ab5c13c3f202fe]: Textual amendment: Regulations revoked (1.1.2016) by [The Lloyd’s Underwriters (Transitional Equalisation Reserves) (Tax) Regulations 2015 (S.I. 2015/1983)](https://www.legislation.gov.uk/uksi/2015/1983), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1983/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/1983/regulation/5/b)

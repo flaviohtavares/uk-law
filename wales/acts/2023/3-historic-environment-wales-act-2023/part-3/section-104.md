@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Determination of appeal[^key-597a06274ae766848cb51cad9e6d73b6][^key-f95c37246dc82136eabb502d732c3d37]
+## 104. Determination of appeal[^c-597a06274ae766848cb51cad9e6d73b6][^c-f95c37246dc82136eabb502d732c3d37]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ and may deal with the application as if it had been made to them.
 
 ## Annotations
 
-[^key-597a06274ae766848cb51cad9e6d73b6]: Commencement: S. 104 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-597a06274ae766848cb51cad9e6d73b6]: Commencement: S. 104 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-f95c37246dc82136eabb502d732c3d37]: Commencement: [S. 104](https://www.legislation.gov.uk/asc/2023/3/section/104) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-f95c37246dc82136eabb502d732c3d37]: Commencement: [S. 104](https://www.legislation.gov.uk/asc/2023/3/section/104) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

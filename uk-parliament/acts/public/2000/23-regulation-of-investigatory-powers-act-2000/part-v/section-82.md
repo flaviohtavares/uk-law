@@ -26,11 +26,11 @@ summary: ''
 
 (3) For the avoidance of doubt it is hereby declared that nothing in this Act [^c10569211]. . .affects any power conferred on a postal operator (within the meaning of[^c10569221] Part 3 of the Postal Services Act 2011[^c21481461]) by or under any enactment to open, detain or delay any postal packet or to deliver any such packet to a person other than the person to whom it is addressed.
 
-(4)[^key-9cd6626c1c66cb36d4d0bd3473cbba85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9cd6626c1c66cb36d4d0bd3473cbba85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-9cd6626c1c66cb36d4d0bd3473cbba85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-9cd6626c1c66cb36d4d0bd3473cbba85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-9cd6626c1c66cb36d4d0bd3473cbba85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-9cd6626c1c66cb36d4d0bd3473cbba85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c21481461]: Textual amendment: Words in s. 82(3) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [ss. 91](https://www.legislation.gov.uk/ukpga/2011/5/section/91), [93(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 160](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/160); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2329/article/3/1)
 
-[^key-9cd6626c1c66cb36d4d0bd3473cbba85]: Textual amendment: S. 82(4)-(6) omitted (27.6.2018) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 50](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/50) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-9cd6626c1c66cb36d4d0bd3473cbba85]: Textual amendment: S. 82(4)-(6) omitted (27.6.2018) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 50](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/50) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)

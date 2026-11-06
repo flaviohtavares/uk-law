@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259NC. Related persons[^key-74f506994a5dc565fe3a428f64ca75de][^key-f08de0421ade4b74289007cae52bebb5][^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259NC. Related persons[^c-74f506994a5dc565fe3a428f64ca75de][^c-f08de0421ade4b74289007cae52bebb5][^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-74f506994a5dc565fe3a428f64ca75de]: Modification: S. 259NC applied by 2010 c. 4, s. 356OT(6) (as inserted (with effect in accordance with s. 81 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 77(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/77/1) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2)))
+[^c-74f506994a5dc565fe3a428f64ca75de]: Modification: S. 259NC applied by 2010 c. 4, s. 356OT(6) (as inserted (with effect in accordance with s. 81 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 77(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/77/1) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2)))
 
-[^key-f08de0421ade4b74289007cae52bebb5]: Modification: S. 259NC applied by 2007 c. 3, s. 517U(6) (as inserted (with effect in accordance with s. 82 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 79(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/1) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2)))
+[^c-f08de0421ade4b74289007cae52bebb5]: Modification: S. 259NC applied by 2007 c. 3, s. 517U(6) (as inserted (with effect in accordance with s. 82 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 79(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/1) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2)))
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)

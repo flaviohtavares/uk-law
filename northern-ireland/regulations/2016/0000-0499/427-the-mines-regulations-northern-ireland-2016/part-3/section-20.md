@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Fire protection plan[^key-918a44cfa64020f5e1c84e26b61e0d4d]
+## 20. Fire protection plan[^c-918a44cfa64020f5e1c84e26b61e0d4d]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-918a44cfa64020f5e1c84e26b61e0d4d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/427/regulation/20) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-918a44cfa64020f5e1c84e26b61e0d4d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/427/regulation/20) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

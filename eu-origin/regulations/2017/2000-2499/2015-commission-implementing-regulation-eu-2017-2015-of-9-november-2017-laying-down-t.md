@@ -35,430 +35,430 @@ laying down technical information for the calculation of technical provisions an
 
 (Text with EEA relevance) (revoked)
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Relevant risk-free interest rate term structures to calculate the best estimate, without any matching adjustment or volatility adjustment[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]
+## ANNEX I — Relevant risk-free interest rate term structures to calculate the best estimate, without any matching adjustment or volatility adjustment[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Fundamental spreads for the calculation of the matching adjustment[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]
+## ANNEX II — Fundamental spreads for the calculation of the matching adjustment[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]
 
 The fundamental spreads set out in this Annex are expressed in basis points and do not include any increase in accordance with Article 77c(1)(c) of Directive 2009/138/EC.
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]1.
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]1.
 
 **Exposures to central governments and central banks**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.
 
 **Exposures to financial institutions**
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.1
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.1
 
 *Euro*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.2
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.2
 
 *Czech koruna*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.3
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.3
 
 *Danish krone*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.4
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.4
 
 *Forint*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.5
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.5
 
 *Krona*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.6
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.6
 
 *Kuna*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.7
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.7
 
 *Lev*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.8
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.8
 
 *Pound sterling*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.9
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.9
 
 *Romanian leu*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.10
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.10
 
 *Zloty*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.11
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.11
 
 *Norwegian krone*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.12
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.12
 
 *Swiss franc*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.13
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.13
 
 *Australian dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.14
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.14
 
 *Baht*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.15
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.15
 
 *Canadian dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.16
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.16
 
 *Chilean peso*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.17
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.17
 
 *Colombian peso*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.18
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.18
 
 *Hong Kong dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.19
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.19
 
 *Indian rupee*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.20
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.20
 
 *Mexican peso*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.21
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.21
 
 *New Taiwan dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.22
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.22
 
 *New Zealand dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.23
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.23
 
 *Rand*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.24
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.24
 
 *Real*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.25
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.25
 
 *Renminbi-yuan*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.26
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.26
 
 *Ringgit*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.27
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.27
 
 *Russian rouble*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.28
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.28
 
 *Singapore dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.29
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.29
 
 *South Korean won*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.30
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.30
 
 *Turkish lira*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.31
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.31
 
 *US dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.32
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]2.32
 
 *Yen*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.
 
 **Other exposures**
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.1
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.1
 
 *Euro*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.2
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.2
 
 *Czech koruna*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.3
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.3
 
 *Danish krone*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.4
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.4
 
 *Forint*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.5
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.5
 
 *Krona*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.6
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.6
 
 *Kuna*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.7
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.7
 
 *Lev*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.8
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.8
 
 *Pound sterling*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.9
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.9
 
 *Romanian leu*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.10
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.10
 
 *Zloty*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.11
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.11
 
 *Norwegian krone*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.12
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.12
 
 *Swiss franc*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.13
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.13
 
 *Australian dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.14
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.14
 
 *Baht*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.15
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.15
 
 *Canadian dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.16
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.16
 
 *Chilean peso*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.17
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.17
 
 *Colombian peso*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.18
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.18
 
 *Hong Kong dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.19
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.19
 
 *Indian rupee*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.20
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.20
 
 *Mexican peso*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.21
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.21
 
 *New Taiwan dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.22
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.22
 
 *New Zealand dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.23
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.23
 
 *Rand*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.24
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.24
 
 *Real*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.25
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.25
 
 *Renminbi-yuan*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.26
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.26
 
 *Ringgit*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.27
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.27
 
 *Russian rouble*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.28
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.28
 
 *Singapore dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.29
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.29
 
 *South Korean won*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.30
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.30
 
 *Turkish lira*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.31
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.31
 
 *US dollar*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.32
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]3.32
 
 *Yen*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Volatility adjustment to the relevant risk-free interest rate term structure[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]
+## ANNEX III — Volatility adjustment to the relevant risk-free interest rate term structure[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5007a3eeb9b8c48ba1a1da03dd31dcb6]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-5007a3eeb9b8c48ba1a1da03dd31dcb6]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

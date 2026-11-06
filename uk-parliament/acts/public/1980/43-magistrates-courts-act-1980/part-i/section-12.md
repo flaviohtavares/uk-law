@@ -34,7 +34,7 @@ summary: ''
 - (a) a notice containing such statement of the effect of this section as may be prescribed;
 - (b)[^M_F_c68750ce-13ca-402f-a525-f2b98485d67b] either of the following, namely—
   - (i) a concise statement of such facts relating to the charge as will be placed before the court by the prosecutor if the accused pleads guilty without appearing before the court, or
-  - (ii) a copy of such written statement or statements complying with subsection (2)(a) and (b)[^key-19ebfe17928055385a947eb12dd6f962] of section 9 of the Criminal Justice Act 1967 (proof by written statement) as will be so placed in those circumstances; and
+  - (ii) a copy of such written statement or statements complying with subsection (2)(a) and (b)[^c-19ebfe17928055385a947eb12dd6f962] of section 9 of the Criminal Justice Act 1967 (proof by written statement) as will be so placed in those circumstances; and
 - (c) if any information relating to the accused will or may, in those circumstances, be placed before the court by or on behalf of the prosecutor, a notice containing or describing that information.
 
 (4) Where the designated officer for the court receives a notification in writing purporting to be given by the accused or by a legal representative acting on his behalf that the accused desires to plead guilty without appearing before the court—
@@ -54,7 +54,7 @@ the court may, subject to section 11(3) and (4) above and subsections (6) to (8)
 - (a) the designated officer for the court shall inform the prosecutor of the withdrawal; and
 - (b) the court shall deal with the information as if the notification had not been given.
 
-(7) Before accepting the plea of guilty and convicting the accused under subsection (5) above, the court shall , subject to rules of court made under subsection (7ZA),[^key-a483412b1389038848099b5da73d3671] cause the following to be read out before the court [^key-7eb5d3313a8c6c40db76032e1d71522d]..., namely—
+(7) Before accepting the plea of guilty and convicting the accused under subsection (5) above, the court shall , subject to rules of court made under subsection (7ZA),[^c-a483412b1389038848099b5da73d3671] cause the following to be read out before the court [^c-7eb5d3313a8c6c40db76032e1d71522d]..., namely—
 
 - (a)[^c18239201] in a case where a statement of facts as mentioned in subsection (3)(b)(i) above was served on the accused with the summons, that statement;
 - (aa) in a case where a statement or statements as mentioned in subsection (3)(b)(ii) above was served on the accused with the summons and the court does not otherwise direct, that statement or those statements;
@@ -62,17 +62,17 @@ the court may, subject to section 11(3) and (4) above and subsections (6) to (8)
 - (c) the notification under subsection (4) above; and
 - (d) any submission received with the notification which the accused wishes to be brought to the attention of the court with a view to mitigation of sentence.
 
-(7ZA)[^key-8f23b2dc228dbc0be730ad39fb266bb0] Rules of court may—
+(7ZA)[^c-8f23b2dc228dbc0be730ad39fb266bb0] Rules of court may—
 
 - (a) specify which of paragraphs (a) to (d) of subsection (7) (if any) are to apply;
 - (b) provide that any such paragraph is to apply only in circumstances specified in the rules.
-- (c)[^key-cb12d63dc3e65d5c1df8de5585bf8070] specify the persons, or description of persons, who must—
+- (c)[^c-cb12d63dc3e65d5c1df8de5585bf8070] specify the persons, or description of persons, who must—
   - (i) read out the things mentioned in such of those paragraphs as apply, and
   - (ii) give the account mentioned in subsection (7A).
 
 (7ZB) Where rules of court are made under subsection (7ZA), subsection (7) applies only to the extent provided for by the rules.
 
-(7A)[^c18239211] Where the court gives a direction under subsection (7)(aa) above the court shall cause an account to be given orally before the court [^key-ca396af994770aba84d49c7b6216bcf4]... of so much of any statement as is not read aloud.
+(7A)[^c18239211] Where the court gives a direction under subsection (7)(aa) above the court shall cause an account to be given orally before the court [^c-ca396af994770aba84d49c7b6216bcf4]... of so much of any statement as is not read aloud.
 
 (7B) Whether or not a direction under paragraph (aa) of subsection (7) above is given in relation to any statement served as mentioned in that paragraph the court need not cause to be read out the declaration required by section 9(2)(b) of the Criminal Justice Act 1967.
 
@@ -106,20 +106,20 @@ to be made or placed before the court by or on behalf of the prosecutor except o
 
 [^M_F_c68750ce-13ca-402f-a525-f2b98485d67b]: Textual amendment: S. 12(3)(b)(i)(ii) substituted for s. 12(3)(b) (4.5.1999) by [1998 c. 15](https://www.legislation.gov.uk/ukpga/1998/15), s. 1(1); [S.I. 1999/1197](https://www.legislation.gov.uk/uksi/1999/1197), art. 2 (with art. 3)
 
-[^key-19ebfe17928055385a947eb12dd6f962]: Textual amendment: Words in s. 12(3)(b)(ii) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(6)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/6/a), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
+[^c-19ebfe17928055385a947eb12dd6f962]: Textual amendment: Words in s. 12(3)(b)(ii) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(6)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/6/a), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
 
-[^key-a483412b1389038848099b5da73d3671]: Textual amendment: Words in s. 12(7) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 81(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/81/2), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(n)](https://www.legislation.gov.uk/uksi/2015/994/article/6/n)
+[^c-a483412b1389038848099b5da73d3671]: Textual amendment: Words in s. 12(7) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 81(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/81/2), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(n)](https://www.legislation.gov.uk/uksi/2015/994/article/6/n)
 
-[^key-7eb5d3313a8c6c40db76032e1d71522d]: Textual amendment: Words in s. 12(7) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/5/2); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-7eb5d3313a8c6c40db76032e1d71522d]: Textual amendment: Words in s. 12(7) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/5/2); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
 [^c18239201]: Textual amendment: S. 12(7)(a)(aa) substituted for s. 12(7)(a) (4.5.1999) by [1998 c. 15](https://www.legislation.gov.uk/ukpga/1998/15), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1998/15/section/1/2); [S.I. 1999/1197](https://www.legislation.gov.uk/uksi/1999/1197), [art. 2](https://www.legislation.gov.uk/uksi/1999/1197/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/1197/article/3))
 
-[^key-8f23b2dc228dbc0be730ad39fb266bb0]: Textual amendment: S. 12(7ZA)(7ZB) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 81(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/81/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(n)](https://www.legislation.gov.uk/uksi/2015/994/article/6/n)
+[^c-8f23b2dc228dbc0be730ad39fb266bb0]: Textual amendment: S. 12(7ZA)(7ZB) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 81(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/81/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(n)](https://www.legislation.gov.uk/uksi/2015/994/article/6/n)
 
-[^key-cb12d63dc3e65d5c1df8de5585bf8070]: Textual amendment: S. 12(7ZA)(c) inserted (6.4.2020) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 5(3)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/5/3); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-cb12d63dc3e65d5c1df8de5585bf8070]: Textual amendment: S. 12(7ZA)(c) inserted (6.4.2020) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 5(3)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/5/3); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
 [^c18239211]: Textual amendment: S. 12(7A)(7B) inserted (4.5.1999) by [1998 c. 15](https://www.legislation.gov.uk/ukpga/1998/15), [s. 1(3)](https://www.legislation.gov.uk/ukpga/1998/15/section/1/3); [S.I. 1999/1197](https://www.legislation.gov.uk/uksi/1999/1197), [art. 2](https://www.legislation.gov.uk/uksi/1999/1197/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/1999/1197/article/3))
 
-[^key-ca396af994770aba84d49c7b6216bcf4]: Textual amendment: Words in s. 12(7A) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 5(4)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/5/4); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-ca396af994770aba84d49c7b6216bcf4]: Textual amendment: Words in s. 12(7A) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 5(4)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/5/4); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
 [^c18239221]: Extent: S. 12(13) extends to Scotland see s. 155(2) (as amended by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 45](https://www.legislation.gov.uk/ukpga/1994/33/section/45), [Sch. 5 para. 3(4)](https://www.legislation.gov.uk/ukpga/1994/33/schedule/5/paragraph/3/4))

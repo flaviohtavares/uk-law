@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Warrant to enter other premises[^key-2b68fc03aef3c1db74771de4efe6ebed]
+## 86. Warrant to enter other premises[^c-2b68fc03aef3c1db74771de4efe6ebed]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b68fc03aef3c1db74771de4efe6ebed]: Commencement: [S. 86](https://www.legislation.gov.uk/anaw/2017/2/section/86) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(aa)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/aa) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-2b68fc03aef3c1db74771de4efe6ebed]: Commencement: [S. 86](https://www.legislation.gov.uk/anaw/2017/2/section/86) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(aa)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/aa) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

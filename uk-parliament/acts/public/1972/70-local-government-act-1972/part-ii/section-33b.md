@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33B. Principal council's response to a community poll[^key-54198f85eaf89cc8c7c2af1b7a4919e9]
+## 33B. Principal council's response to a community poll[^c-54198f85eaf89cc8c7c2af1b7a4919e9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54198f85eaf89cc8c7c2af1b7a4919e9]: Textual amendment: [S. 33B](https://www.legislation.gov.uk/ukpga/1972/70/section/33B) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 13 para. 2](https://www.legislation.gov.uk/asc/2021/1/schedule/13/paragraph/2); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(v)](https://www.legislation.gov.uk/wsi/2021/231/article/6/v)
+[^c-54198f85eaf89cc8c7c2af1b7a4919e9]: Textual amendment: [S. 33B](https://www.legislation.gov.uk/ukpga/1972/70/section/33B) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 13 para. 2](https://www.legislation.gov.uk/asc/2021/1/schedule/13/paragraph/2); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(v)](https://www.legislation.gov.uk/wsi/2021/231/article/6/v)

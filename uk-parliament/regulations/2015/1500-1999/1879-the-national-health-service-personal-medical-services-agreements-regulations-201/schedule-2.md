@@ -42,7 +42,7 @@ Where the agreement provides for a contractor to provide essential services, the
 
 #### 3. Telephone services
 
-(1) The contractor must not be a party to a contract or other arrangement under which the number for telephone services (“relevant telephone services”)[^key-67e40ad8f1d2082e0a7e0abb734f4452] to be used by—
+(1) The contractor must not be a party to a contract or other arrangement under which the number for telephone services (“relevant telephone services”)[^c-67e40ad8f1d2082e0a7e0abb734f4452] to be used by—
 
 - (a) patients to contact the contractor's practice for a purpose related to the agreement; or
 - (b) any other person to contact the contractor's practice in relation to services provided at the contractor's practice as part of the health service,
@@ -51,11 +51,11 @@ starts with the digits 087, 090 or 091 or consists of a personal number, unless 
 
 (2) In this paragraph, “**personal number**” means a telephone number which starts with 070 followed by a further eight digits.
 
-(3)[^key-d02f4098445e3e2e3c24977114608595] The contractor must ensure that any new contract or other arrangement relating to relevant telephone services is procured under the Advanced Telephony Better Purchasing Framework.
+(3)[^c-d02f4098445e3e2e3c24977114608595] The contractor must ensure that any new contract or other arrangement relating to relevant telephone services is procured under the Advanced Telephony Better Purchasing Framework.
 
 (4) Where NHS England requires, the contractor must make available to NHS England, within such reasonable time frame as specified by NHS England, such information as specified by NHS England that is available to the contractor in relation to the handling of calls under relevant telephone services.
 
-#### 3A. New telephone contract or arrangement[^key-dbddf777a71ecf1e03ddb5d5ca7426d8]
+#### 3A. New telephone contract or arrangement[^c-dbddf777a71ecf1e03ddb5d5ca7426d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -72,9 +72,9 @@ starts with the digits 087, 090 or 091 or consists of a personal number, unless 
   - (a) calls made by patients to the contractor's practice for any reason related to services provided at the contactor's practice under the agreement; and
   - (b) calls made by persons, other than patients, to the contractor's practice in relation to services provided at the contractor's practice as part of the health service.
 
-#### 5. Attendance at practice premises[^key-c1f7de6f644066227d8611f41e086fd1]
+#### 5. Attendance at practice premises[^c-c1f7de6f644066227d8611f41e086fd1]
 
-(1)[^key-5b2e7f11f4f6bde6605e92f31a3a18f8] The contractor must take steps to ensure that all of the following means of contacting the practice are available for patients throughout core hours—
+(1)[^c-5b2e7f11f4f6bde6605e92f31a3a18f8] The contractor must take steps to ensure that all of the following means of contacting the practice are available for patients throughout core hours—
 
 - (a) by attending the contractor’s practice premises;
 - (b) by telephone; and
@@ -87,29 +87,29 @@ starts with the digits 087, 090 or 091 or consists of a personal number, unless 
 
 is provided with an appropriate response in accordance with the following sub-paragraphs.
 
-(2) Subject to sub-paragraph (2A), the[^key-688286407a3dc6f29e985f5134b327a0] appropriate response is that the contractor must—
+(2) Subject to sub-paragraph (2A), the[^c-688286407a3dc6f29e985f5134b327a0] appropriate response is that the contractor must—
 
-- (a) invite the patient for an appointment, either to attend the contractor’s practice premises or to participate in a telephone or video consultation, at a time which is appropriate and reasonable having regard to all the circumstances [^key-5a553fa2279de230c8ddfef7991ee8f9]...;
+- (a) invite the patient for an appointment, either to attend the contractor’s practice premises or to participate in a telephone or video consultation, at a time which is appropriate and reasonable having regard to all the circumstances [^c-5a553fa2279de230c8ddfef7991ee8f9]...;
 - (b) provide appropriate advice or care to the patient by another method;
 - (c) invite the patient to make use of, or direct the patient towards, appropriate services which are available to the patient, including services which the patient may access themselves; or
 - (d) communicate with the patient—
   - (i) to request further information; or
   - (ii) as to when and how the patient will receive further information on the services that may be provided to them, having regard to the urgency of their clinical needs and other relevant circumstances.
 
-(2A)[^key-adceaf224ad3269fd79119ef964af0c6] The contractor must not ask a patient to contact the practice on another day.
+(2A)[^c-adceaf224ad3269fd79119ef964af0c6] The contractor must not ask a patient to contact the practice on another day.
 
-(3) For matters which the contractor has identified as clinically urgent, the[^key-6edf2483695d6115d399f63b05c6bca7] appropriate response must be provided—
+(3) For matters which the contractor has identified as clinically urgent, the[^c-6edf2483695d6115d399f63b05c6bca7] appropriate response must be provided—
 
-- (a) if the contact [^key-4d91914caa77123d981df95cdc17c75d]... is made outside core hours, during the following core hours;
+- (a) if the contact [^c-4d91914caa77123d981df95cdc17c75d]... is made outside core hours, during the following core hours;
 - (b) in any other case, during the day on which the core hours fall.
 
-(3A)[^key-0e79183f8c60920cd601b7f20ede9584] For matters which the contractor has identified as not clinically urgent, the appropriate response must be provided before the end of the next working day after contact.
+(3A)[^c-0e79183f8c60920cd601b7f20ede9584] For matters which the contractor has identified as not clinically urgent, the appropriate response must be provided before the end of the next working day after contact.
 
 (4) The appropriate response must take into account—
 
-- (a) the needs of the patient , including the need to avoid jeopardising the patient’s health[^key-da38ee17eef404b8122b6388e7ceab08];
-- (b) where appropriate, the preferences of the patient ; and[^key-9a216074ef4e2248b3cfcbcc88e8de00]
-- (c)[^key-796ddbb63d4b11ad8dcc0f588b507dc4] any benefits to the patient of providing for continuity of the health care professional involved in their care and treatment.
+- (a) the needs of the patient , including the need to avoid jeopardising the patient’s health[^c-da38ee17eef404b8122b6388e7ceab08];
+- (b) where appropriate, the preferences of the patient ; and[^c-9a216074ef4e2248b3cfcbcc88e8de00]
+- (c)[^c-796ddbb63d4b11ad8dcc0f588b507dc4] any benefits to the patient of providing for continuity of the health care professional involved in their care and treatment.
 
 #### 6. Attendance outside practice premises
 
@@ -123,7 +123,7 @@ the contractor must provide services to the patient at whichever of the places d
 (2) The places described in this sub-paragraph are—
 
 - (a) the place recorded in the patient's medical records as being the patient's last home address;
-- (b) such other place as the contractor has informed the patient and NHS England[^key-9520329cffeb7671913a444ac58ebf84] is the place where the contractor has agreed to visit and treat the patient; or
+- (b) such other place as the contractor has informed the patient and NHS England[^c-9520329cffeb7671913a444ac58ebf84] is the place where the contractor has agreed to visit and treat the patient; or
 - (c) another place in the contractor's practice area.
 
 (3) Nothing in this paragraph prevents the contractor from—
@@ -157,7 +157,7 @@ The contractor must ensure that it has appropriate arrangements in place for inf
 
 (1) Where a contractor does not provide to its registered patients or to persons whom it has accepted as temporary residents—
 
-- (a) a particular service , except in relation to one provided under the Network Contract Directed Enhanced Service Scheme which is a scheme provided for by[^key-1e0b209a9e37220b531ec305cb3186f9] the Primary Medical Services (Directed Enhanced Services) Directions[^key-96af587dc4758e3329df3d661f6edbfa]; or
+- (a) a particular service , except in relation to one provided under the Network Contract Directed Enhanced Service Scheme which is a scheme provided for by[^c-1e0b209a9e37220b531ec305cb3186f9] the Primary Medical Services (Directed Enhanced Services) Directions[^c-96af587dc4758e3329df3d661f6edbfa]; or
 - (b) out of hours services, either at all or in respect of some periods or some services,
 
 the contractor must comply with the requirements specified in sub-paragraph (2).
@@ -167,7 +167,7 @@ the contractor must comply with the requirements specified in sub-paragraph (2).
 - (a) co-operate in so far as is reasonable with any person responsible for the provision of that service or those services;
 - (b) comply in core hours with any reasonable request for information from such a person or from NHS England relating to the provision of that service or those services; and
 - (c) in the case of out of hours services—
-  - (i) take reasonable steps to ensure that any patient who contacts the contractor's practice [^key-2c9a39e4197d344d5dc3a83d77af7818]... during the out of hours period is provided with information about how to obtain services during that period;
+  - (i) take reasonable steps to ensure that any patient who contacts the contractor's practice [^c-2c9a39e4197d344d5dc3a83d77af7818]... during the out of hours period is provided with information about how to obtain services during that period;
   - (ii) ensure that the clinical details of all out of hours consultations received from the out of hours provider are reviewed by a clinician within the contractor's practice on the same working day as those details are received by the practice or, exceptionally, on the next working day;
   - (iii) ensure that any information requests received from the out of hours provider in respect of any out of hours consultations are responded to by a clinician within the contractor's practice on the same day as those requests are received by the practice, or on the next working day;
   - (iv) take all reasonable steps to comply with any systems which the out of hours provider has in place to ensure the rapid, secure and effective transmission of patient data in respect of out of hours consultations; and
@@ -175,7 +175,7 @@ the contractor must comply with the requirements specified in sub-paragraph (2).
 
 (3) Nothing in this paragraph requires a contractor whose agreement does not include the provision of out of hours services to make itself available during the out of hours period.
 
-#### 10A. Duty of co-operation: Primary Care Networks[^key-36ab6f2baaa938b730f0944700eba4ca]
+#### 10A. Duty of co-operation: Primary Care Networks[^c-36ab6f2baaa938b730f0944700eba4ca]
 
 (1) A contractor must comply with the requirements in sub-paragraph (2) where it is—
 
@@ -191,9 +191,9 @@ the contractor must comply with the requirements specified in sub-paragraph (2).
 - (e) take reasonable steps to provide information to its registered patients about the services, including information on how to access the services and any changes to them; and
 - (f) ensure that it has in place suitable arrangements to enable the sharing of data to support the delivery of the services, business administration and analysis activities.
 
-(3) For the purposes of this paragraph, “primary care network” means a network of contractors and other providers of services which has been approved by NHS England, serving an identified geographical area [^key-55e842e9aa7470d4d6a74309ff76e7e6]...
+(3) For the purposes of this paragraph, “primary care network” means a network of contractors and other providers of services which has been approved by NHS England, serving an identified geographical area [^c-55e842e9aa7470d4d6a74309ff76e7e6]...
 
-#### 10B. Duty to have regard to Armed Forces Covenant principles[^key-50a4f54485dbfe2dbfd6d2988e328a6d]
+#### 10B. Duty to have regard to Armed Forces Covenant principles[^c-50a4f54485dbfe2dbfd6d2988e328a6d]
 
 When providing services under the agreement, the contractor must have due regard to the principles contained in section 343AA(1)(a) to (c) of the Armed Forces Act 2006 in relation to its patients and prospective patients.
 
@@ -206,7 +206,7 @@ Where a contractor is to cease to be required to provide to its patients—
 
 the contractor must comply with any reasonable request for information relating to the provision of that service or those services made by NHS England or by any person with whom NHS England intends to enter into an agreement for the provision of such services.
 
-#### 11A. Co-operation with NHS England: performance management[^key-df7ad1ac5d87be89c993b7eca3b25cd5]
+#### 11A. Co-operation with NHS England: performance management[^c-df7ad1ac5d87be89c993b7eca3b25cd5]
 
 The contractor must co-operate with NHS England, in so far as is reasonable, in relation to the performance and improvement of services provided under the agreement, including co-operating with the provision of any support, performance review or improvement activity.
 
@@ -216,11 +216,11 @@ The contractor must co-operate with NHS England, in so far as is reasonable, in 
 
 This Part only applies to a contractor which provides essential services.
 
-#### 13 (Extent: E). List of patients[^key-2e570c6c94a0ff6e77c0669e16bdb50a]
+#### 13 (Extent: E). List of patients[^c-2e570c6c94a0ff6e77c0669e16bdb50a]
 
 (1 (Extent: E)) NHS England *(Extent: E)* must prepare and keep up to date a list of the patients who have been— *(Extent: E)*
 
-- (a (Extent: E)) accepted by the contractor for inclusion in the contractor’s list of patients under *(Extent: E)* 17, 18, 18A, 31D or 31F[^key-1ff1e8eaf23b7ed333f048e1aec8989a] *(Extent: E)* and who have not been subsequently removed from that list under paragraphs 22 to 30; and *(Extent: E)*
+- (a (Extent: E)) accepted by the contractor for inclusion in the contractor’s list of patients under *(Extent: E)* 17, 18, 18A, 31D or 31F[^c-1ff1e8eaf23b7ed333f048e1aec8989a] *(Extent: E)* and who have not been subsequently removed from that list under paragraphs 22 to 30; and *(Extent: E)*
 - (b (Extent: E)) assigned by *(Extent: E)* NHS England *(Extent: E)* to the Contractor’s list of patients under— *(Extent: E)*
   - (i (Extent: E)) paragraph 38(1)(a), or *(Extent: E)*
   - (ii (Extent: E)) paragraph 38(1)(b) (by virtue of a determination of the assessment panel under paragraph 40(8) which has not subsequently been overturned by a determination of the Secretary of State under paragraph 41 or by a court). *(Extent: E)*
@@ -260,9 +260,9 @@ the contractor must take action to identify any such patient over the age of 16 
 
 (6) The contractor must make relevant entries, including the results of the completed questionnaire referred to in sub-paragraph (2), in the patient's record that the contractor is required to keep under regulation 60.
 
-#### 14A. Patients living with frailty[^key-b1faa1049c31d96f37495c38f527dd23]
+#### 14A. Patients living with frailty[^c-b1faa1049c31d96f37495c38f527dd23]
 
-(1) A contractor must take steps each year[^key-1cf228718fe3280613407c7c343d47c1] to identify any registered patient aged 65 years and over who is living with moderate to severe frailty.
+(1) A contractor must take steps each year[^c-1cf228718fe3280613407c7c343d47c1] to identify any registered patient aged 65 years and over who is living with moderate to severe frailty.
 
 (2) The contractor must comply with the requirement in sub-paragraph (1) by using the Electronic Frailty Index or any other appropriate assessment tool.
 
@@ -299,12 +299,12 @@ the contractor must take action to identify any such patient over the age of 16 
 
 (7) Where, under sub-paragraph (5)(b), the contractor has been informed by or in relation to a patient that the patient does not wish to have an accountable GP, the contractor must record that fact in the patient's record that the contractor is required to keep under regulation 60.
 
-(8) The contractor must [^key-5f7ad1b7e62c72715b2aa7ca006847ba]... include information about the requirement to assign an accountable GP to each of its new and existing registered patients—
+(8) The contractor must [^c-5f7ad1b7e62c72715b2aa7ca006847ba]... include information about the requirement to assign an accountable GP to each of its new and existing registered patients—
 
-- (a) on the contractor's practice website or online practice profile[^key-65629cf71c878b9665b7ffc404a836dc]; and
+- (a) on the contractor's practice website or online practice profile[^c-65629cf71c878b9665b7ffc404a836dc]; and
 - (b) in the contractor's practice leaflet.
 
-(9)[^key-e61eb0eaa33075eb1d9cc35bb4968b7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-e61eb0eaa33075eb1d9cc35bb4968b7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 16. Patients aged 75 years and over: accountable GP
 
@@ -331,29 +331,29 @@ the contractor must take action to identify any such patient over the age of 16 
 
 (5) In this paragraph, “**health check**” means a consultation undertaken by the contractor in the course of which the contractor must make such inquiries and undertake such examinations of the patient as appear to it to be appropriate in all the circumstances.
 
-#### 16A. NHS e-Referral Service (e-RS)[^key-771ea24e7698656f91f044678a704be9]
+#### 16A. NHS e-Referral Service (e-RS)[^c-771ea24e7698656f91f044678a704be9]
 
-(1) Except in the case of a contractor to which sub-paragraph (2) or (3) applies, a contractor must require the use in its practice [^key-dd832bb34bd7ab616f9d405d9bec7feb]... of the system for electronic referrals known as the NHS e-Referral Service (“e-RS”) in respect of each referral of any of its registered patients to a first consultant-led out-patient appointment for medical services under the Act in respect of which the facility to use e-RS is available.
+(1) Except in the case of a contractor to which sub-paragraph (2) or (3) applies, a contractor must require the use in its practice [^c-dd832bb34bd7ab616f9d405d9bec7feb]... of the system for electronic referrals known as the NHS e-Referral Service (“e-RS”) in respect of each referral of any of its registered patients to a first consultant-led out-patient appointment for medical services under the Act in respect of which the facility to use e-RS is available.
 
-(2) This sub-paragraph applies to a contractor which does not yet have e-RS in place for use in the contractor’s practice [^key-dd832bb34bd7ab616f9d405d9bec7feb]....
+(2) This sub-paragraph applies to a contractor which does not yet have e-RS in place for use in the contractor’s practice [^c-dd832bb34bd7ab616f9d405d9bec7feb]....
 
 (3) This sub-paragraph applies to a contractor which—
 
-- (a) is experiencing technical or other practical difficulties which are preventing the use, or effective use, of e-RS in its practice [^key-dd832bb34bd7ab616f9d405d9bec7feb]...; and
+- (a) is experiencing technical or other practical difficulties which are preventing the use, or effective use, of e-RS in its practice [^c-dd832bb34bd7ab616f9d405d9bec7feb]...; and
 - (b) has notified NHS England that this is the case.
 
-(4) A contractor to which sub-paragraph (2) applies must require the use in its practice [^key-dd832bb34bd7ab616f9d405d9bec7feb]... of alternative means of referring its registered patients to a first consultant-led out-patient appointment for medical services under the Act until such time as the contractor has e-RS in place for use in its practice [^key-dd832bb34bd7ab616f9d405d9bec7feb]....
+(4) A contractor to which sub-paragraph (2) applies must require the use in its practice [^c-dd832bb34bd7ab616f9d405d9bec7feb]... of alternative means of referring its registered patients to a first consultant-led out-patient appointment for medical services under the Act until such time as the contractor has e-RS in place for use in its practice [^c-dd832bb34bd7ab616f9d405d9bec7feb]....
 
 (5) A contractor to which sub-paragraph (3) applies—
 
-- (a) must ensure that a plan is agreed between the contractor’s practice and NHS England for resolving the technical or other practical difficulties which are preventing the use, or effective use, of e-RS in the contractor’s practice [^key-dd832bb34bd7ab616f9d405d9bec7feb]...; and
-- (b) must require the use in its practice [^key-dd832bb34bd7ab616f9d405d9bec7feb]... of alternative means of referring its registered patients to a first consultant-led out-patient appointment for medical services under the Act until such time as those technical or other practical difficulties have been resolved to the satisfaction of NHS England.
+- (a) must ensure that a plan is agreed between the contractor’s practice and NHS England for resolving the technical or other practical difficulties which are preventing the use, or effective use, of e-RS in the contractor’s practice [^c-dd832bb34bd7ab616f9d405d9bec7feb]...; and
+- (b) must require the use in its practice [^c-dd832bb34bd7ab616f9d405d9bec7feb]... of alternative means of referring its registered patients to a first consultant-led out-patient appointment for medical services under the Act until such time as those technical or other practical difficulties have been resolved to the satisfaction of NHS England.
 
-#### 16B. Direct booking by NHS 111 or via a connected service[^key-707d6a05e1a9a88bbed89668e0769849][^key-d159f307b894b8432f79dd33842e0ec4]
+#### 16B. Direct booking by NHS 111 or via a connected service[^c-707d6a05e1a9a88bbed89668e0769849][^c-d159f307b894b8432f79dd33842e0ec4]
 
 *Extent: E*
 
-(1) A contractor must ensure that as a minimum the following number of appointments during core hours for its registered patients are made available per day for direct booking by or via a service[^key-2846735885febab3b43f319b3f913e0d] (“a connected service”)[^key-d4eb1f68560684b764cd6e05d23996b5] approved by NHS England that is or may be accessed via NHS 111—
+(1) A contractor must ensure that as a minimum the following number of appointments during core hours for its registered patients are made available per day for direct booking by or via a service[^c-2846735885febab3b43f319b3f913e0d] (“a connected service”)[^c-d4eb1f68560684b764cd6e05d23996b5] approved by NHS England that is or may be accessed via NHS 111—
 
 - (a) one, where a contractor has 3,000 registered patients or fewer; or
 - (b) one for each whole 3,000 registered patients, where a contractor has more than 3,000 registered patients.
@@ -365,21 +365,21 @@ the contractor must take action to identify any such patient over the age of 16 
 
 (3) A contractor must—
 
-- (a) configure its computerised systems to allow direct booking by NHS 111 or via a connected service[^key-a070e100c5098a10c42a6be0b7f8067a];
-- (b) monitor its booking system for appointments booked by NHS 111 or via a connected service[^key-4db5cfafcefe17a4b68b8ca9f1ca5243];
-- (c) assess the Post Event Message received from NHS 111 or via a connected service[^key-a10d8186133e3eb6256a386ea56b8060] in order to decide whether an alternative to the booked appointment should be arranged, such as a telephone call to the patient or an appointment with another healthcare professional and where appropriate, make those arrangements; and
-- (d) co-operate with NHS England in its oversight of direct booking by NHS 111 or via a connected service[^key-776e7d93cbff43cf5dc4e1e1ef7913a7] by providing any information relating to direct booking by NHS 111 or via a connected service which is reasonably required by NHS England.
+- (a) configure its computerised systems to allow direct booking by NHS 111 or via a connected service[^c-a070e100c5098a10c42a6be0b7f8067a];
+- (b) monitor its booking system for appointments booked by NHS 111 or via a connected service[^c-4db5cfafcefe17a4b68b8ca9f1ca5243];
+- (c) assess the Post Event Message received from NHS 111 or via a connected service[^c-a10d8186133e3eb6256a386ea56b8060] in order to decide whether an alternative to the booked appointment should be arranged, such as a telephone call to the patient or an appointment with another healthcare professional and where appropriate, make those arrangements; and
+- (d) co-operate with NHS England in its oversight of direct booking by NHS 111 or via a connected service[^c-776e7d93cbff43cf5dc4e1e1ef7913a7] by providing any information relating to direct booking by NHS 111 or via a connected service which is reasonably required by NHS England.
 
-(4) In this paragraph, “Post Event Message” means the electronic message which is sent to a contractor at the end of a telephone call to NHS 111 or to a connected service[^key-5ac8ae7b57915b4395743f50f4e67932].
+(4) In this paragraph, “Post Event Message” means the electronic message which is sent to a contractor at the end of a telephone call to NHS 111 or to a connected service[^c-5ac8ae7b57915b4395743f50f4e67932].
 
-(5)[^key-3fe7c8758d8077222f1bbf822d2c8f9c] In order to assist in the management of a serious or potentially serious risk to human health arising as a consequence of a disease being, or in anticipation of a disease being imminently—
+(5)[^c-3fe7c8758d8077222f1bbf822d2c8f9c] In order to assist in the management of a serious or potentially serious risk to human health arising as a consequence of a disease being, or in anticipation of a disease being imminently—
 
 - (a) pandemic; and
 - (b) a serious risk or potentially a serious risk to human health,
 
 NHS England may with the agreement of the Secretary of State make an announcement to the effect that the minimum numbers of appointments mentioned in paragraph (1) are modified in the circumstances specified (which may limit the area to which the modification relates), and for the duration of the period specified, in the announcement, and where NHS England does so, the minimum numbers are as so modified.
 
-#### 16C. Referral pathways[^key-0170b9c42df4eba5dbfe26fe5fe62395]
+#### 16C. Referral pathways[^c-0170b9c42df4eba5dbfe26fe5fe62395]
 
 (1) NHS England may notify the contractor of referral pathways that apply to the referral of patients for other services under the Act.
 
@@ -400,9 +400,9 @@ NHS England may with the agreement of the Secretary of State make an announcemen
 
 #### 17. Application for inclusion in a list of patients
 
-(1) Subject to sub-paragraph (1C), the[^key-f871ee4aaa56537ecd4076215e50e5e9] contractor may, if the contractor's list of patients is open, accept an application for inclusion in that list made by or on behalf of any person (“**the applicant**”) whether or not that person is resident in the contractor's practice area or is included, at the time of the application, in the list of patients of another contractor or provider of primary medical services.
+(1) Subject to sub-paragraph (1C), the[^c-f871ee4aaa56537ecd4076215e50e5e9] contractor may, if the contractor's list of patients is open, accept an application for inclusion in that list made by or on behalf of any person (“**the applicant**”) whether or not that person is resident in the contractor's practice area or is included, at the time of the application, in the list of patients of another contractor or provider of primary medical services.
 
-(1A)[^key-65fc3944de7f295e699700fb50157b72] NHS England may, following consultation with the Local Medical Committee (if any) for the area in which the contractor provides services under the contract, determine that in certain circumstances NHS England’s approval is required before a contractor accepts an application for inclusion in its list of patients in respect of a patient who resides outside the contractor’s practice area.
+(1A)[^c-65fc3944de7f295e699700fb50157b72] NHS England may, following consultation with the Local Medical Committee (if any) for the area in which the contractor provides services under the contract, determine that in certain circumstances NHS England’s approval is required before a contractor accepts an application for inclusion in its list of patients in respect of a patient who resides outside the contractor’s practice area.
 
 (1B) Where NHS England has made a determination in accordance with sub-paragraph (1A) it must set out the circumstances in which its approval is required in a notice to the contractor.
 
@@ -410,7 +410,7 @@ NHS England may with the agreement of the Secretary of State make an announcemen
 
 (2) If the contractor's list of patients is closed, the contractor may only accept an application for inclusion in that list from a person who is an immediate family member of a registered patient whether or not that person is resident in the contractor's practice area or is included, at the time of the application, in the list of patients of another contractor or provider of primary medical services.
 
-(3)[^key-81c4c8f877543aa32b2ae55250e88706] Subject to sub-paragraph (4), the contractor may only accept an application for inclusion in that list if it is—
+(3)[^c-81c4c8f877543aa32b2ae55250e88706] Subject to sub-paragraph (4), the contractor may only accept an application for inclusion in that list if it is—
 
 - (a) an application on a form specified to the contractor by NHS England; or
 - (b) an application through the online registration service supplied to the contractor by NHS England.
@@ -429,7 +429,7 @@ NHS England may with the agreement of the Secretary of State make an announcemen
   - (iii) a donee of a lasting power of attorney granted by that person, or
   - (iv) a deputy appointed for that person by the court under the Mental Capacity Act 2005 [^c22690681].
 
-(4A)[^key-f6a169d683f398db6708fde69769cbc6] Where the contractor receives an application by the method referred to in sub-paragraph (3)(a), they must submit the information provided in the application via the online registration service referred to in sub-paragraph (3)(b), except where the contractor’s computerised clinical system does not facilitate interconnectivity with the online registration service supplied by NHS England.
+(4A)[^c-f6a169d683f398db6708fde69769cbc6] Where the contractor receives an application by the method referred to in sub-paragraph (3)(a), they must submit the information provided in the application via the online registration service referred to in sub-paragraph (3)(b), except where the contractor’s computerised clinical system does not facilitate interconnectivity with the online registration service supplied by NHS England.
 
 (5) Where a contractor accepts an application for inclusion in the contractor's list of patients, the contractor must give notice in writing to NHS England of that acceptance as soon as possible.
 
@@ -438,7 +438,7 @@ NHS England may with the agreement of the Secretary of State make an announcemen
 - (a) include the applicant in the contractor's list of patients from the date on which the notice is received; and
 - (b) give notice in writing to the applicant (or, in the case of a child or an adult who lacks capacity, to the person making the application on the applicant's behalf) of that acceptance.
 
-(7)[^key-93febf3674a43341ee0e309d4b433eae] This paragraph is subject to Part 2A.
+(7)[^c-93febf3674a43341ee0e309d4b433eae] This paragraph is subject to Part 2A.
 
 #### 18. Inclusion in list of patients: armed forces personnel
 
@@ -459,7 +459,7 @@ NHS England may with the agreement of the Secretary of State make an announcemen
 - (a) notify Defence Medical Services in writing that its responsibility for that person has come to an end; and
 - (b) update the patient's medical record, or summary of that record, and return it to Defence Medical Services.
 
-#### 18A. Inclusion in list of patients: detained persons[^key-d6cacdd87b67745e713e113b016d17ec]
+#### 18A. Inclusion in list of patients: detained persons[^c-d6cacdd87b67745e713e113b016d17ec]
 
 (1) A contractor must, if the contractor’s list of patients is open, include a person to whom sub-paragraph (2) applies (a “detained person”) in that list and paragraph 28(1)(b) does not apply in respect of a detained person who is included in the contractor’s list of patients by virtue of this paragraph.
 
@@ -522,7 +522,7 @@ the contractor must give notice of that fact to the person either orally or in w
 - (a) at the end of the period of three months beginning with the date on which the contractor accepted that person as a temporary resident; or
 - (b) if the contractor's responsibility for that person as a temporary resident came to an end earlier than the end of the three month period referred to in paragraph (a), at the end of that period.
 
-(5)[^key-c1c4ab5a2292b0d541536666d1e82870] This paragraph is subject to Part 2A.
+(5)[^c-c1c4ab5a2292b0d541536666d1e82870] This paragraph is subject to Part 2A.
 
 #### 20. Refusal of applications for inclusion in list of patients or for acceptance as a temporary resident
 
@@ -544,7 +544,7 @@ the contractor must give notice of that fact to the person either orally or in w
 
 #### 21. Patient preference of a practitioner
 
-(1) Where the contractor has accepted an application made under paragraph 17, 19, 31D, 31E, 31F or 31G[^key-36b4e2484db768057d15a97e685ad70e], the contractor must—
+(1) Where the contractor has accepted an application made under paragraph 17, 19, 31D, 31E, 31F or 31G[^c-36b4e2484db768057d15a97e685ad70e], the contractor must—
 
 - (a) give notice in writing to the person (or, in the case of a child or an adult who lacks capacity, to the person who made the application on the applicant's behalf) of that person's right to express a preference to receive services from a particular performer or class of performer either generally or in relation to any particular condition; and
 - (b) record in writing any such preference expressed by or on behalf of that person.
@@ -610,7 +610,7 @@ the reason given under sub-paragraph (1) may consist of a statement that there h
 
 (4) The circumstances specified in this sub-paragraph are that—
 
-- (a)[^key-734663aa5b0cd7cb2bc8173c4aa0a073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-734663aa5b0cd7cb2bc8173c4aa0a073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the contractor has reasonable grounds for believing that the giving of such a warning would—
   - (i) be harmful to the person's physical or mental health, or
   - (ii) put at risk the safety of any party to the agreement who is an individual, any member of the contractor's staff or any other person; or
@@ -655,18 +655,18 @@ that the person's name has been or is to be removed from the contractor's list o
 
 the contractor must give notice to NHS England in accordance with sub-paragraph (3).
 
-(1A)[^key-b402318722e997a77b18713d831b84a1] Subject to sub-paragraph (1B), where a contractor *(Extent: E)*[^key-a8488e24d2f625e43ceddb12c14d225b]—
+(1A)[^c-b402318722e997a77b18713d831b84a1] Subject to sub-paragraph (1B), where a contractor *(Extent: E)*[^c-a8488e24d2f625e43ceddb12c14d225b]—
 
 - (a) accepts a person onto its list of patients; and
-- (b) subsequently becomes aware that the person has previously been removed from the list of patients of another provider of primary medical services in response to a request for removal under paragraph (1),[^key-fc712daa2017e58f9cdda53e3af0b5d4]
+- (b) subsequently becomes aware that the person has previously been removed from the list of patients of another provider of primary medical services in response to a request for removal under paragraph (1),[^c-fc712daa2017e58f9cdda53e3af0b5d4]
 
 the contractor may give notice to NHS England in accordance with sub-paragraph (3) that it wants to have the person removed from its list of patients with immediate effect.
 
 *Extent: E*
 
-(1B)[^key-877fb636d3a58541f378d60e8447162b] A contractor must not give notice to NHS England pursuant to sub-paragraph (1A), where—
+(1B)[^c-877fb636d3a58541f378d60e8447162b] A contractor must not give notice to NHS England pursuant to sub-paragraph (1A), where—
 
-- (a) a person mentioned in paragraph (1A) was allocated to a Violent Patient Scheme [^key-127bb532cec634cdc3ae7689714de0db]... to receive primary medical services under that scheme; and
+- (a) a person mentioned in paragraph (1A) was allocated to a Violent Patient Scheme [^c-127bb532cec634cdc3ae7689714de0db]... to receive primary medical services under that scheme; and
 - (b) the provider of the Scheme discharged that person because they were not considered to pose a risk of violence, or
 - (c) that person successfully appealed their allocation to a Violent Patient Scheme.
 
@@ -679,15 +679,15 @@ the contractor may give notice to NHS England in accordance with sub-paragraph (
   - (i) on the contractor's practice premises, or
   - (ii) in the place where services were provided to the patient under the agreement.
 
-(2A)[^key-67d87b38b074623cb9b96d7194550c24] For the purposes of sub-paragraph (1A), any reference to “the contractor” in sub-paragraph (2) is to be read as a reference to the other provider of primary medical services referred to in sub-paragraph (1A), and sub-paragraph (2) is to be construed accordingly.
+(2A)[^c-67d87b38b074623cb9b96d7194550c24] For the purposes of sub-paragraph (1A), any reference to “the contractor” in sub-paragraph (2) is to be read as a reference to the other provider of primary medical services referred to in sub-paragraph (1A), and sub-paragraph (2) is to be construed accordingly.
 
-(2B)[^key-3964ce02489844eb5a8e0886717087ed] In sub-paragraph (1B) “Violent Patient Scheme” means a scheme set up in accordance with the Primary Medical Services (Directed Enhanced Services) Directions to provide primary medical services to those removed from a contractor’s list of patients under paragraph (1).
+(2B)[^c-3964ce02489844eb5a8e0886717087ed] In sub-paragraph (1B) “Violent Patient Scheme” means a scheme set up in accordance with the Primary Medical Services (Directed Enhanced Services) Directions to provide primary medical services to those removed from a contractor’s list of patients under paragraph (1).
 
-(3) Notice under sub-paragraph (1) or (1A)[^key-863bca7ccf0ef68e0407c551fc90e236] may be given by any means but, if not in writing, must subsequently be confirmed in writing before the end of a period of seven days beginning with the date on which the notice was given.
+(3) Notice under sub-paragraph (1) or (1A)[^c-863bca7ccf0ef68e0407c551fc90e236] may be given by any means but, if not in writing, must subsequently be confirmed in writing before the end of a period of seven days beginning with the date on which the notice was given.
 
-(4) NHS England must acknowledge in writing receipt of a request from the contractor under sub-paragraph (1) or (1A)[^key-b6fdbb071a2be286450bdd73bf4f4699].
+(4) NHS England must acknowledge in writing receipt of a request from the contractor under sub-paragraph (1) or (1A)[^c-b6fdbb071a2be286450bdd73bf4f4699].
 
-(5) A removal requested in accordance with sub-paragraph (1) or (1A)[^key-af4d804a1065dd1ff935963474eb6546] takes effect at the time at which the contractor—
+(5) A removal requested in accordance with sub-paragraph (1) or (1A)[^c-af4d804a1065dd1ff935963474eb6546] takes effect at the time at which the contractor—
 
 - (a) makes a telephone call to NHS England; or
 - (b) sends or delivers the notice to NHS England.
@@ -719,7 +719,7 @@ the contractor may give notice to NHS England in accordance with sub-paragraph (
 
 #### 26. Removal from the list of patients who have moved
 
-(1) Subject to sub-paragraph (2), where NHS England is satisfied, or is notified by the contractor *(Extent: E)*[^key-7dde8c148b34fb3872270b212af8bde6] that a person on the contractor's list of patients has moved and no longer resides in the contractor's practice area, NHS England must—
+(1) Subject to sub-paragraph (2), where NHS England is satisfied, or is notified by the contractor *(Extent: E)*[^c-7dde8c148b34fb3872270b212af8bde6] that a person on the contractor's list of patients has moved and no longer resides in the contractor's practice area, NHS England must—
 
 - (a) inform both the person and the contractor that the contractor is no longer obliged to visit and treat that person;
 - (b) advise the person in writing to either obtain the contractor's agreement to that person's continued inclusion in the contractor's list of patients or to apply for registration with another provider of essential services (or their equivalent); and
@@ -731,7 +731,7 @@ the contractor may give notice to NHS England in accordance with sub-paragraph (
 
 Where the address of a person who is on the contractor's list of patients is no longer known to NHS England, NHS England must—
 
-- (a) give notice in writing to the contractor that it intends, at the end of the period of three[^key-a3449ebc5891ab22159771fe3c027a62] months beginning with the date on which notice was given, to remove the person from the contractor's list of patients; and
+- (a) give notice in writing to the contractor that it intends, at the end of the period of three[^c-a3449ebc5891ab22159771fe3c027a62] months beginning with the date on which notice was given, to remove the person from the contractor's list of patients; and
 - (b) at the end of the period referred to in sub-paragraph (a), remove the person from the contractor's list of patients unless, before the end of that period, the contractor satisfies NHS England that the person is a patient to whom the contractor is still responsible for providing essential services.
 
 #### 28. Removal from the list of patients absent from the United Kingdom etc.
@@ -809,7 +809,7 @@ the contractor's responsibility for that person terminates in the circumstances 
 - (a) where the grounds for termination are those specified in paragraph 24(1), from the date on which the notice is given; or
 - (b) in any other case, 14 days after the date on which the notice is given.
 
-### PART 2A — List of patients: Crown servants posted overseas and their family members[^key-67a3bdde5bd3ad8d97fd3e6951d7004e]
+### PART 2A — List of patients: Crown servants posted overseas and their family members[^c-67a3bdde5bd3ad8d97fd3e6951d7004e]
 
 #### CHAPTER 1 — Interpretation of Part 2A
 
@@ -1277,13 +1277,13 @@ The contractor may re-open its list of patients before the expiry of the closure
 
 ### PART 4 — Assignment of patients to lists
 
-#### 37 (Extent: E). Application of this Part[^key-be488ad1f9c131e4e88b6918709c062f]
+#### 37 (Extent: E). Application of this Part[^c-be488ad1f9c131e4e88b6918709c062f]
 
 (1 (Extent: E)) This Part applies in respect of the assignment by *(Extent: E)* NHS England *(Extent: E)* of— *(Extent: E)*
 
 - (a (Extent: E)) a person as a new patient to a contractor’s list of patients where that person— *(Extent: E)*
   - (i (Extent: E)) has been refused inclusion in a contractor’s list of patients or has not been accepted as a temporary resident by a contractor, and *(Extent: E)*
-  - (ii (Extent: E)) would like to be included in the list of a contractor in whose *(Extent: E)* integrated care board[^key-ab9f2e83fb483ad88b07a3644061f022] *(Extent: E)* area that person resides; *(Extent: E)*
+  - (ii (Extent: E)) would like to be included in the list of a contractor in whose *(Extent: E)* integrated care board[^c-ab9f2e83fb483ad88b07a3644061f022] *(Extent: E)* area that person resides; *(Extent: E)*
 - (b (Extent: E)) any person who is part of a list dispersal resulting from the closure of a practice where that person— *(Extent: E)*
   - (i (Extent: E)) has not registered with another contractor, and *(Extent: E)*
   - (ii (Extent: E)) would like to be included in the list of patients of a contractor in whose *(Extent: E)* integrated care board *(Extent: E)* area that person resides; *(Extent: E)*
@@ -1317,7 +1317,7 @@ When assigning a person as a new patient to a contractor's list of patients unde
 - (e) in a case to which sub-paragraph (d)(ii) applies (or to which the equivalent provisions as mentioned in sub-paragraph (d)(iii) apply), whether the contractor has appropriate facilities to deal with such patients; and
 - (f) such other matters as NHS England considers relevant.
 
-#### 39A. Assignment of patients from outside practice area[^key-85583b9af3b04377e1f3219489cc80c6]
+#### 39A. Assignment of patients from outside practice area[^c-85583b9af3b04377e1f3219489cc80c6]
 
 *Extent: E*
 
@@ -1450,7 +1450,7 @@ that it has referred the matter to the assessment panel.
 
 ### PART 5 — Sub-contracting
 
-#### 43. Sub-contracting of clinical matters[^key-256f931d2ecf933265adda40aff26e3a]
+#### 43. Sub-contracting of clinical matters[^c-256f931d2ecf933265adda40aff26e3a]
 
 (1) The contractor must not sub-contract any of its rights or duties under the agreement in relation to clinical matters to any person unless—
 
@@ -1539,7 +1539,7 @@ where sub-paragraph (12) applies to that company or firm.
 
 (11) A sub-contract entered into by a contractor must prohibit the sub-contractor from sub-contracting the out of hours services that it has agreed with the contractor to provide under the sub-contract.
 
-### PART 6 — Provision of information: practice leaflet, use of NHS primary care logo, marketing campaigns and advertising private services[^key-bf23e12a19b9a9c966d878a82550e3a9]
+### PART 6 — Provision of information: practice leaflet, use of NHS primary care logo, marketing campaigns and advertising private services[^c-bf23e12a19b9a9c966d878a82550e3a9]
 
 #### 44. Information to be included in a practice leaflet
 
@@ -1549,17 +1549,17 @@ A practice leaflet must include—
 - (b) in the case of an agreement with a qualifying body—
   - (i) the names of the directors, the company secretary and the shareholders of that qualifying body, and
   - (ii) the address of that qualifying body's registered office;
-- (c) the contractor's telephone, fax number and website address or the address at which its online practice profile is available[^key-3c69539d60cfb8f83d01282104fa9b0d];
+- (c) the contractor's telephone, fax number and website address or the address at which its online practice profile is available[^c-3c69539d60cfb8f83d01282104fa9b0d];
 - (d) the full name of each person performing services under the agreement;
 - (e) the professional qualifications of each health care professional providing services under the agreement;
 - (f) whether the contractor undertakes the teaching or training of health care professionals or persons intending to become health care professionals;
-- (g) whether the contractor provides essential services in its practice area, including the area known as the outer boundary area (within the meaning given in regulation 13(2)) by reference to an image of the practice area, a written description of the practice area or a digital practice area map[^key-af4b06c3a39783db982b957bd3456e0d];
-- (h) the address of each of the contractor's practice premises[^key-c33c63aa9993c8d424bb638d56122ae8];
+- (g) whether the contractor provides essential services in its practice area, including the area known as the outer boundary area (within the meaning given in regulation 13(2)) by reference to an image of the practice area, a written description of the practice area or a digital practice area map[^c-af4b06c3a39783db982b957bd3456e0d];
+- (h) the address of each of the contractor's practice premises[^c-c33c63aa9993c8d424bb638d56122ae8];
 - (i) the access arrangements which the contractor's practice premises have for providing services to disabled patients and, if none, the alternative arrangements for providing services to such patients;
 - (j) how to register as a patient;
 - (k) the right of patients to express a preference of practitioner in accordance with paragraph 21 and the means of expressing such a preference;
 - (l) the services available under the agreement;
-- (m)[^key-32c6dfce4e1e33e9199e589c0e9c79e2] the opening hours of the practice premises and all means of contacting the contractor throughout the core hours as required by paragraph 5;
+- (m)[^c-32c6dfce4e1e33e9199e589c0e9c79e2] the opening hours of the practice premises and all means of contacting the contractor throughout the core hours as required by paragraph 5;
 - (n) the criteria for home visits and the method of obtaining such a visit;
 - (o) the arrangements for services in the out of hours period (whether or not provided by the contractor) and how the patient may access such services;
 - (p) where the services referred to in sub-paragraph (o) are not provided by the contractor, the fact that NHS England is responsible for commissioning the services;
@@ -1575,7 +1575,7 @@ A practice leaflet must include—
 - (z) details of who has access to patient information (including information from which the identity of the individual can be ascertained) and the rights of patients in relation to the disclosure of such information; and
 - (aa) the full name, postal and e mail address and telephone number of NHS England from whom details of primary medical services in the area may be obtained.
 
-#### 44A. Use of NHS primary care logo[^key-6cc306205485f91efca3d1e7a0740d2e]
+#### 44A. Use of NHS primary care logo[^c-6cc306205485f91efca3d1e7a0740d2e]
 
 Where a contractor chooses to apply the NHS primary care logo to signage, stationery, leaflets, posters, its practice website or to any other form of written representation relating to the primary care services it provides, it must have regard to guidance concerning use of the NHS primary care logo produced by NHS England.
 
@@ -1767,7 +1767,7 @@ relating to the conditions set out in regulation 5 (and compliance with those co
 - (j) the contractor has within the period of 5 years before the signing of the agreement, been removed from the office of charity trustee or trustee for a charity by an order made by the Charity Commission, the Charity Commission for Northern Ireland or the High Court, and that order was made on the grounds of misconduct or mismanagement in the administration of a charity for which the contractor was responsible or to which the contractor was privy, or which was contributed to, or facilitated by, the contractor's conduct;
 - (k) the contractor has, within the period of five years before the signing of the agreement or the commencement of the agreement, whichever is the earlier, been removed from being concerned with the management or control of any body in any case where removal was by virtue of section 34(5)(e) of the Charities and Trustees Investment (Scotland) Act 2005 [^c22690851] (powers of Court of Session);
 - (l) the contractor—
-  - (i) has been made[^key-da027c2bbcd1c05e72ca358f19646b4c] bankrupt and has not been discharged from the bankruptcy or the bankruptcy order has not been annulled, or
+  - (i) has been made[^c-da027c2bbcd1c05e72ca358f19646b4c] bankrupt and has not been discharged from the bankruptcy or the bankruptcy order has not been annulled, or
   - (ii) has had sequestration of the contractor's estate awarded and has not been discharged from the sequestration;
 - (m) the contractor is the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986 [^c22690861] (bankruptcy restrictions order and undertaking) or in Schedule 2A to the Insolvency (Northern Ireland) Order 1989 [^c22690871] (bankruptcy restrictions order and undertaking), or sections 56A to 56K of the Bankruptcy (Scotland) Act 1985 [^c22690881] (bankruptcy restrictions order, interim bankruptcy restrictions order and bankruptcy restrictions undertaking) unless the contractor has been discharged from that order or that order has been annulled;
 - (n) the contractor—
@@ -1780,12 +1780,12 @@ relating to the conditions set out in regulation 5 (and compliance with those co
 - (s) the contractor is subject to—
   - (i) a disqualification order under section 1 of the Company Directors Disqualification Act 1986 [^c22690931] (disqualification orders: general) or a disqualification undertaking under Section 1A of that Act [^c22690941] (disqualification undertakings: general), or
   - (ii) a disqualification order or disqualification undertaking under article 3 (disqualification orders: general) or article 4 (disqualification undertakings: general) of the Company Directors Disqualification (Northern Ireland) Order 2002 [^c22690951] unless that order has ceased to have effect or has been annulled, or
-  - (iii) a disqualification order under section 429(2) of the Insolvency Act 1986 [^c22690961] (disabilities on revocation of an administration order against an individual); [^key-dcf92d66dffe3f73455c7493400047fe]...
-- (t) the contractor has refused to comply with a request made by NHS England for the contractor to be medically examined because NHS England is concerned that the contractor is incapable of adequately providing services under the agreement; or *(Extent: E)*[^key-ac9a15fe9921daa353e2aa736fecf233]
+  - (iii) a disqualification order under section 429(2) of the Insolvency Act 1986 [^c22690961] (disabilities on revocation of an administration order against an individual); [^c-dcf92d66dffe3f73455c7493400047fe]...
+- (t) the contractor has refused to comply with a request made by NHS England for the contractor to be medically examined because NHS England is concerned that the contractor is incapable of adequately providing services under the agreement; or *(Extent: E)*[^c-ac9a15fe9921daa353e2aa736fecf233]
 
 *Extent: E*
 
-- (u)[^key-8a1f1a45b1fac968fee79949667dad24] the contractor’s registration with the Care Quality Commission has been cancelled in accordance with section 17(1) of the Health and Social Care Act 2008, and that cancellation is the final decision of the Commission, or, where an appeal has been launched, is the outcome of that appeal.
+- (u)[^c-8a1f1a45b1fac968fee79949667dad24] the contractor’s registration with the Care Quality Commission has been cancelled in accordance with section 17(1) of the Health and Social Care Act 2008, and that cancellation is the final decision of the Commission, or, where an appeal has been launched, is the outcome of that appeal.
 
 (5) NHS England may not terminate the agreement in accordance with sub-paragraph (4)(b) where NHS England is satisfied that the disqualification or suspension imposed by a licensing body outside the United Kingdom does not make the contractor unsuitable to be—
 
@@ -1944,171 +1944,171 @@ sub-paragraphs (3) and (4) do not apply and NHS England may confirm, by giving n
 
 ## Annotations
 
-[^key-67e40ad8f1d2082e0a7e0abb734f4452]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/3/1) inserted (1.10.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/b), [Sch. 2 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/7/a/i)
+[^c-67e40ad8f1d2082e0a7e0abb734f4452]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/3/1) inserted (1.10.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/b), [Sch. 2 para. 7(a)(i)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/7/a/i)
 
-[^key-d02f4098445e3e2e3c24977114608595]: Textual amendment: [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/3/3)[(4)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/3/4) inserted (1.10.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/b), [Sch. 2 para. 7(a)(ii)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/7/a/ii)
+[^c-d02f4098445e3e2e3c24977114608595]: Textual amendment: [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/3/3)[(4)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/3/4) inserted (1.10.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/b), [Sch. 2 para. 7(a)(ii)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/7/a/ii)
 
-[^key-dbddf777a71ecf1e03ddb5d5ca7426d8]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/3A) omitted (1.10.2024) by virtue of [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/b), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/7/b)
+[^c-dbddf777a71ecf1e03ddb5d5ca7426d8]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/3A) omitted (1.10.2024) by virtue of [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/b), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/7/b)
 
-[^key-c1f7de6f644066227d8611f41e086fd1]: Textual amendment: Sch. 2 para. 5 substituted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2023/449/schedule/2/paragraph/10)
+[^c-c1f7de6f644066227d8611f41e086fd1]: Textual amendment: Sch. 2 para. 5 substituted (15.5.2023) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/b), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2023/449/schedule/2/paragraph/10)
 
-[^key-5b2e7f11f4f6bde6605e92f31a3a18f8]: Textual amendment: Sch. 2 para. 5(1)(1A) substituted for Sch. 2 para. 5(1) (1.10.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/b), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/6/a)
+[^c-5b2e7f11f4f6bde6605e92f31a3a18f8]: Textual amendment: Sch. 2 para. 5(1)(1A) substituted for Sch. 2 para. 5(1) (1.10.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/b), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/6/a)
 
-[^key-688286407a3dc6f29e985f5134b327a0]: Textual amendment: Words in [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/5/2) substituted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/7/a)
+[^c-688286407a3dc6f29e985f5134b327a0]: Textual amendment: Words in [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/5/2) substituted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/7/a)
 
-[^key-5a553fa2279de230c8ddfef7991ee8f9]: Textual amendment: Words in Sch. 2 para. 5(2)(a) omitted (27.5.2024) by virtue of [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/8/a)
+[^c-5a553fa2279de230c8ddfef7991ee8f9]: Textual amendment: Words in Sch. 2 para. 5(2)(a) omitted (27.5.2024) by virtue of [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/8/a)
 
-[^key-adceaf224ad3269fd79119ef964af0c6]: Textual amendment: [Sch. 2 para. 5(2A)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/5/2A) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/7/b)
+[^c-adceaf224ad3269fd79119ef964af0c6]: Textual amendment: [Sch. 2 para. 5(2A)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/5/2A) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/7/b)
 
-[^key-6edf2483695d6115d399f63b05c6bca7]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/5/3) substituted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/7/c)
+[^c-6edf2483695d6115d399f63b05c6bca7]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/5/3) substituted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/7/c)
 
-[^key-4d91914caa77123d981df95cdc17c75d]: Textual amendment: Words in Sch. 2 para. 5(3)(a) omitted (1.10.2025) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/b), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/6/b)
+[^c-4d91914caa77123d981df95cdc17c75d]: Textual amendment: Words in Sch. 2 para. 5(3)(a) omitted (1.10.2025) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/b), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/6/b)
 
-[^key-0e79183f8c60920cd601b7f20ede9584]: Textual amendment: [Sch. 2 para. 5(3A)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/5/3A) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 7(d)](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/7/d)
+[^c-0e79183f8c60920cd601b7f20ede9584]: Textual amendment: [Sch. 2 para. 5(3A)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/5/3A) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 7(d)](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/7/d)
 
-[^key-da38ee17eef404b8122b6388e7ceab08]: Textual amendment: Words in Sch. 2 para. 5(4)(a) substituted (27.5.2024) by virtue of [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 8(b)(i)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/8/b/i)
+[^c-da38ee17eef404b8122b6388e7ceab08]: Textual amendment: Words in Sch. 2 para. 5(4)(a) substituted (27.5.2024) by virtue of [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 8(b)(i)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/8/b/i)
 
-[^key-9a216074ef4e2248b3cfcbcc88e8de00]: Textual amendment: Word in Sch. 2 para. 5(4)(b) inserted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 8(b)(ii)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/8/b/ii)
+[^c-9a216074ef4e2248b3cfcbcc88e8de00]: Textual amendment: Word in Sch. 2 para. 5(4)(b) inserted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 8(b)(ii)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/8/b/ii)
 
-[^key-796ddbb63d4b11ad8dcc0f588b507dc4]: Textual amendment: Sch. 2 para. 5(4)(c) inserted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 8(b)(iii)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/8/b/iii)
+[^c-796ddbb63d4b11ad8dcc0f588b507dc4]: Textual amendment: Sch. 2 para. 5(4)(c) inserted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 8(b)(iii)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/8/b/iii)
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-1e0b209a9e37220b531ec305cb3186f9]: Textual amendment: Words in Sch. 2 para. 10(1)(a) inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2019/1137/regulation/27)
+[^c-1e0b209a9e37220b531ec305cb3186f9]: Textual amendment: Words in Sch. 2 para. 10(1)(a) inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2019/1137/regulation/27)
 
-[^key-96af587dc4758e3329df3d661f6edbfa]: Textual amendment: Words in [Sch. 2 para. 10(1)(a)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/10/1/a) substituted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/7)
+[^c-96af587dc4758e3329df3d661f6edbfa]: Textual amendment: Words in [Sch. 2 para. 10(1)(a)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/10/1/a) substituted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/7)
 
-[^key-2c9a39e4197d344d5dc3a83d77af7818]: Textual amendment: Word in [Sch. 2 para. 10(2)(c)(i)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/10/2/c/i) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/7/2)
+[^c-2c9a39e4197d344d5dc3a83d77af7818]: Textual amendment: Word in [Sch. 2 para. 10(2)(c)(i)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/10/2/c/i) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/7/2)
 
-[^key-36ab6f2baaa938b730f0944700eba4ca]: Textual amendment: Sch. 2 para. 10A inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2019/1137/regulation/28)
+[^c-36ab6f2baaa938b730f0944700eba4ca]: Textual amendment: Sch. 2 para. 10A inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2019/1137/regulation/28)
 
-[^key-55e842e9aa7470d4d6a74309ff76e7e6]: Textual amendment: Words in Sch. 2 para. 10A(3) omitted (E.) (1.10.2020) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/5)
+[^c-55e842e9aa7470d4d6a74309ff76e7e6]: Textual amendment: Words in Sch. 2 para. 10A(3) omitted (E.) (1.10.2020) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/5)
 
-[^key-50a4f54485dbfe2dbfd6d2988e328a6d]: Textual amendment: [Sch. 2 para. 10B](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/10B) and cross-heading inserted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/9)
+[^c-50a4f54485dbfe2dbfd6d2988e328a6d]: Textual amendment: [Sch. 2 para. 10B](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/10B) and cross-heading inserted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/9)
 
-[^key-df7ad1ac5d87be89c993b7eca3b25cd5]: Textual amendment: [Sch. 2 para. 11A](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/11A) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/8)
+[^c-df7ad1ac5d87be89c993b7eca3b25cd5]: Textual amendment: [Sch. 2 para. 11A](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/11A) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/8)
 
-[^key-2e570c6c94a0ff6e77c0669e16bdb50a]: Textual amendment: Sch. 2 para. 13 substituted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/6)
+[^c-2e570c6c94a0ff6e77c0669e16bdb50a]: Textual amendment: Sch. 2 para. 13 substituted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/6)
 
-[^key-1ff1e8eaf23b7ed333f048e1aec8989a]: Textual amendment: Words in [Sch. 2 para. 13(1)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/13/1) substituted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/3/a)
+[^c-1ff1e8eaf23b7ed333f048e1aec8989a]: Textual amendment: Words in [Sch. 2 para. 13(1)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/13/1) substituted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/3/a)
 
 [^c22690651]: Marginal citation: The World Health Organisation Alcohol Use Disorders Identification Test (AUDIT) questionnaire can be accessed at http://www.qho.int/substance\_abuse/activities/sbi/en/. Further information about the Test, and the questionnaires themselves, is available in hard copy form from NHS England, PO Box 16738, Redditch, BP97 7PT.
 
-[^key-b1faa1049c31d96f37495c38f527dd23]: Textual amendment: Sch. 2 para. 14A inserted (6.10.2017) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2017/908/regulation/7)
+[^c-b1faa1049c31d96f37495c38f527dd23]: Textual amendment: Sch. 2 para. 14A inserted (6.10.2017) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2017/908/regulation/7)
 
-[^key-1cf228718fe3280613407c7c343d47c1]: Textual amendment: Words in Sch. 2 para. 14A(1) inserted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2018/844/regulation/13)
+[^c-1cf228718fe3280613407c7c343d47c1]: Textual amendment: Words in Sch. 2 para. 14A(1) inserted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2018/844/regulation/13)
 
-[^key-5f7ad1b7e62c72715b2aa7ca006847ba]: Textual amendment: Words in Sch. 2 para. 15(8) omitted (1.4.2020) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 11(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/11/2/a/i)
+[^c-5f7ad1b7e62c72715b2aa7ca006847ba]: Textual amendment: Words in Sch. 2 para. 15(8) omitted (1.4.2020) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 11(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/11/2/a/i)
 
-[^key-65629cf71c878b9665b7ffc404a836dc]: Textual amendment: Words in Sch. 2 para. 15(8)(a) substituted (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 11(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/11/2/a/ii)
+[^c-65629cf71c878b9665b7ffc404a836dc]: Textual amendment: Words in Sch. 2 para. 15(8)(a) substituted (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 11(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/11/2/a/ii)
 
-[^key-e61eb0eaa33075eb1d9cc35bb4968b7e]: Textual amendment: Sch. 2 para. 15(9) omitted (1.4.2020) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/11/2/b)
+[^c-e61eb0eaa33075eb1d9cc35bb4968b7e]: Textual amendment: Sch. 2 para. 15(9) omitted (1.4.2020) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/11/2/b)
 
-[^key-771ea24e7698656f91f044678a704be9]: Textual amendment: Sch. 2 para. 16A inserted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2018/844/regulation/14)
+[^c-771ea24e7698656f91f044678a704be9]: Textual amendment: Sch. 2 para. 16A inserted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2018/844/regulation/14)
 
-[^key-dd832bb34bd7ab616f9d405d9bec7feb]: Textual amendment: Word in [Sch. 2 para. 16A](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/16A) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/7/3)
+[^c-dd832bb34bd7ab616f9d405d9bec7feb]: Textual amendment: Word in [Sch. 2 para. 16A](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/16A) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/7/3)
 
-[^key-707d6a05e1a9a88bbed89668e0769849]: Textual amendment: Sch. 2 para. 16B inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2019/1137/regulation/29)
+[^c-707d6a05e1a9a88bbed89668e0769849]: Textual amendment: Sch. 2 para. 16B inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2019/1137/regulation/29)
 
-[^key-d159f307b894b8432f79dd33842e0ec4]: Textual amendment: Words in Sch. 2 para. 16B heading inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/a)
+[^c-d159f307b894b8432f79dd33842e0ec4]: Textual amendment: Words in Sch. 2 para. 16B heading inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/a)
 
-[^key-2846735885febab3b43f319b3f913e0d]: Textual amendment: Words in Sch. 2 para. 16B(1) inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2020/351/regulation/21/a)
+[^c-2846735885febab3b43f319b3f913e0d]: Textual amendment: Words in Sch. 2 para. 16B(1) inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2020/351/regulation/21/a)
 
-[^key-d4eb1f68560684b764cd6e05d23996b5]: Textual amendment: Words in Sch. 2 para. 16B(1) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/b)
+[^c-d4eb1f68560684b764cd6e05d23996b5]: Textual amendment: Words in Sch. 2 para. 16B(1) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/b)
 
-[^key-a070e100c5098a10c42a6be0b7f8067a]: Textual amendment: Words in Sch. 2 para. 16B(3)(a) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/c)
+[^c-a070e100c5098a10c42a6be0b7f8067a]: Textual amendment: Words in Sch. 2 para. 16B(3)(a) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/c)
 
-[^key-4db5cfafcefe17a4b68b8ca9f1ca5243]: Textual amendment: Words in Sch. 2 para. 16B(3)(b) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/c)
+[^c-4db5cfafcefe17a4b68b8ca9f1ca5243]: Textual amendment: Words in Sch. 2 para. 16B(3)(b) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/c)
 
-[^key-a10d8186133e3eb6256a386ea56b8060]: Textual amendment: Words in Sch. 2 para. 16B(3)(c) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/c)
+[^c-a10d8186133e3eb6256a386ea56b8060]: Textual amendment: Words in Sch. 2 para. 16B(3)(c) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/c)
 
-[^key-776e7d93cbff43cf5dc4e1e1ef7913a7]: Textual amendment: Words in Sch. 2 para. 16B(3)(d) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/c)
+[^c-776e7d93cbff43cf5dc4e1e1ef7913a7]: Textual amendment: Words in Sch. 2 para. 16B(3)(d) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/c)
 
-[^key-5ac8ae7b57915b4395743f50f4e67932]: Textual amendment: Words in Sch. 2 para. 16B(4) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(d)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/d)
+[^c-5ac8ae7b57915b4395743f50f4e67932]: Textual amendment: Words in Sch. 2 para. 16B(4) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 7(d)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/7/d)
 
-[^key-3fe7c8758d8077222f1bbf822d2c8f9c]: Textual amendment: Sch. 2 para. 16B(5) inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2020/351/regulation/21/b)
+[^c-3fe7c8758d8077222f1bbf822d2c8f9c]: Textual amendment: Sch. 2 para. 16B(5) inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2020/351/regulation/21/b)
 
-[^key-0170b9c42df4eba5dbfe26fe5fe62395]: Textual amendment: [Sch. 2 paras. 16C](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/16C), [16D](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/16D) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/9)
+[^c-0170b9c42df4eba5dbfe26fe5fe62395]: Textual amendment: [Sch. 2 paras. 16C](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/16C), [16D](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/16D) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/9)
 
-[^key-f871ee4aaa56537ecd4076215e50e5e9]: Textual amendment: Words in [Sch. 2 para. 17(1)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/1) substituted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/2/a)
+[^c-f871ee4aaa56537ecd4076215e50e5e9]: Textual amendment: Words in [Sch. 2 para. 17(1)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/1) substituted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/2/a)
 
-[^key-65fc3944de7f295e699700fb50157b72]: Textual amendment: [Sch. 2 para. 17(1A)-(1C)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/1A) inserted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/2/b)
+[^c-65fc3944de7f295e699700fb50157b72]: Textual amendment: [Sch. 2 para. 17(1A)-(1C)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/1A) inserted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/2/b)
 
-[^key-81c4c8f877543aa32b2ae55250e88706]: Textual amendment: [Sch. 2 para. 17(3)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/3)[(3A)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/3A) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2) [para. 17(3)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/3) (31.10.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/c), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/10)
+[^c-81c4c8f877543aa32b2ae55250e88706]: Textual amendment: [Sch. 2 para. 17(3)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/3)[(3A)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/3A) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2) [para. 17(3)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/3) (31.10.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/c), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/10)
 
 [^c22690671]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
 [^c22690681]: Marginal citation: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-f6a169d683f398db6708fde69769cbc6]: Textual amendment: [Sch. 2 para. 17(4A)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/4A) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/10)
+[^c-f6a169d683f398db6708fde69769cbc6]: Textual amendment: [Sch. 2 para. 17(4A)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/4A) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/10)
 
-[^key-93febf3674a43341ee0e309d4b433eae]: Textual amendment: [Sch. 2 para. 17(7)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/7) inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/3/b)
+[^c-93febf3674a43341ee0e309d4b433eae]: Textual amendment: [Sch. 2 para. 17(7)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/17/7) inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/3/b)
 
 [^c22690691]: Marginal citation: Defence Medical Services is an umbrella organisation within the Ministry of Defence which is responsible for the provision of medical, dental and nursing services in the United Kingdom to members of the armed forces of the Crown.
 
-[^key-d6cacdd87b67745e713e113b016d17ec]: Textual amendment: Sch. 2 para. 18A inserted (6.10.2017) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/908/regulation/8)
+[^c-d6cacdd87b67745e713e113b016d17ec]: Textual amendment: Sch. 2 para. 18A inserted (6.10.2017) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/908/regulation/8)
 
-[^key-c1c4ab5a2292b0d541536666d1e82870]: Textual amendment: [Sch. 2 para. 19(5)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/19/5) inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/3/c)
+[^c-c1c4ab5a2292b0d541536666d1e82870]: Textual amendment: [Sch. 2 para. 19(5)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/19/5) inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/3/c)
 
-[^key-36b4e2484db768057d15a97e685ad70e]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/21) substituted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 3(d)](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/3/d)
+[^c-36b4e2484db768057d15a97e685ad70e]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/21) substituted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 3(d)](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/3/d)
 
 [^c22690701]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
 [^c22690711]: Marginal citation: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-734663aa5b0cd7cb2bc8173c4aa0a073]: Textual amendment: Sch. 2 para. 23(4)(a) omitted (E.) (1.10.2020) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/8)
+[^c-734663aa5b0cd7cb2bc8173c4aa0a073]: Textual amendment: Sch. 2 para. 23(4)(a) omitted (E.) (1.10.2020) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/8)
 
-[^key-b402318722e997a77b18713d831b84a1]: Textual amendment: Sch. 2 para. 24(1A) inserted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2018/844/regulation/15/a)
+[^c-b402318722e997a77b18713d831b84a1]: Textual amendment: Sch. 2 para. 24(1A) inserted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2018/844/regulation/15/a)
 
-[^key-a8488e24d2f625e43ceddb12c14d225b]: Textual amendment: Words in Sch. 2 para. 24(1A) substituted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/9/a)
+[^c-a8488e24d2f625e43ceddb12c14d225b]: Textual amendment: Words in Sch. 2 para. 24(1A) substituted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/9/a)
 
-[^key-fc712daa2017e58f9cdda53e3af0b5d4]: Textual amendment: Words in Sch. 2 para. 24(1A)(b) substituted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 10(a)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/10/a)
+[^c-fc712daa2017e58f9cdda53e3af0b5d4]: Textual amendment: Words in Sch. 2 para. 24(1A)(b) substituted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 10(a)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/10/a)
 
-[^key-877fb636d3a58541f378d60e8447162b]: Textual amendment: Sch. 2 para. 24(1B) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/9/b)
+[^c-877fb636d3a58541f378d60e8447162b]: Textual amendment: Sch. 2 para. 24(1B) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/9/b)
 
-[^key-127bb532cec634cdc3ae7689714de0db]: Textual amendment: Words in Sch. 2 para. 24(1B)(a) omitted (21.7.2025) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 10(b)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/10/b)
+[^c-127bb532cec634cdc3ae7689714de0db]: Textual amendment: Words in Sch. 2 para. 24(1B)(a) omitted (21.7.2025) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 10(b)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/10/b)
 
-[^key-67d87b38b074623cb9b96d7194550c24]: Textual amendment: Sch. 2 para. 24(2A) inserted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2018/844/regulation/15/b)
+[^c-67d87b38b074623cb9b96d7194550c24]: Textual amendment: Sch. 2 para. 24(2A) inserted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2018/844/regulation/15/b)
 
-[^key-3964ce02489844eb5a8e0886717087ed]: Textual amendment: Sch. 2 para. 24(2B) inserted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 10(c)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/10/c)
+[^c-3964ce02489844eb5a8e0886717087ed]: Textual amendment: Sch. 2 para. 24(2B) inserted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 10(c)](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/10/c)
 
-[^key-863bca7ccf0ef68e0407c551fc90e236]: Textual amendment: Words in Sch. 2 para. 24(3) substituted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2018/844/regulation/15/c)
+[^c-863bca7ccf0ef68e0407c551fc90e236]: Textual amendment: Words in Sch. 2 para. 24(3) substituted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2018/844/regulation/15/c)
 
-[^key-b6fdbb071a2be286450bdd73bf4f4699]: Textual amendment: Words in Sch. 2 para. 24(4) substituted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2018/844/regulation/15/c)
+[^c-b6fdbb071a2be286450bdd73bf4f4699]: Textual amendment: Words in Sch. 2 para. 24(4) substituted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2018/844/regulation/15/c)
 
-[^key-af4d804a1065dd1ff935963474eb6546]: Textual amendment: Words in Sch. 2 para. 24(5) substituted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2018/844/regulation/15/c)
+[^c-af4d804a1065dd1ff935963474eb6546]: Textual amendment: Words in Sch. 2 para. 24(5) substituted (1.10.2018) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2018 (S.I. 2018/844)](https://www.legislation.gov.uk/uksi/2018/844), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/844/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2018/844/regulation/15/c)
 
-[^key-7dde8c148b34fb3872270b212af8bde6]: Textual amendment: Words in [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/26/1) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/10)
+[^c-7dde8c148b34fb3872270b212af8bde6]: Textual amendment: Words in [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/26/1) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/10)
 
-[^key-a3449ebc5891ab22159771fe3c027a62]: Textual amendment: Word in [Sch. 2 para. 27(a)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/27/a) substituted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/11)
+[^c-a3449ebc5891ab22159771fe3c027a62]: Textual amendment: Word in [Sch. 2 para. 27(a)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/27/a) substituted (21.7.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/a), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2025/727/schedule/2/paragraph/11)
 
-[^key-67a3bdde5bd3ad8d97fd3e6951d7004e]: Textual amendment: [Sch. 2 Pt. 2A](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/part/2A) inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 3(e)](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/3/e)
+[^c-67a3bdde5bd3ad8d97fd3e6951d7004e]: Textual amendment: [Sch. 2 Pt. 2A](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/part/2A) inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 3(e)](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/3/e)
 
-[^key-be488ad1f9c131e4e88b6918709c062f]: Textual amendment: Sch. 2 para. 37 substituted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/11)
+[^c-be488ad1f9c131e4e88b6918709c062f]: Textual amendment: Sch. 2 para. 37 substituted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/11)
 
-[^key-ab9f2e83fb483ad88b07a3644061f022]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/1879) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-ab9f2e83fb483ad88b07a3644061f022]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/1879) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^c22690721]: Marginal citation: Section 83 was amended by paragraph 30 of Schedule 4 to the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7)
 
-[^key-85583b9af3b04377e1f3219489cc80c6]: Textual amendment: [Sch. 2 para. 39A](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/39A) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/12)
+[^c-85583b9af3b04377e1f3219489cc80c6]: Textual amendment: [Sch. 2 para. 39A](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/39A) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/12)
 
 [^c22690731]: Marginal citation: *See* section 194 of the Health and Social Care Act 2012 which requires a local authority to establish a Health and Wellbeing Board for its area.
 
 [^c22690741]: Marginal citation: Local Healthwatch organisations are bodies corporate with which a local authority may enter into arrangements under section 222 of the Local Government and Public Involvement in [Health Act 2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28) for the purpose of discharging its functions. Section 222 was amended by section 183 of, and Schedules 5 and 14 to, the Health and Social Care Act 2012.
 
-[^key-256f931d2ecf933265adda40aff26e3a]: Textual amendment: Sch. 2 paras. 43, 43A substituted for Sch. 2 para. 43 (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/11)
+[^c-256f931d2ecf933265adda40aff26e3a]: Textual amendment: Sch. 2 paras. 43, 43A substituted for Sch. 2 para. 43 (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/11)
 
-[^key-bf23e12a19b9a9c966d878a82550e3a9]: Textual amendment: Sch. 2 Pt. 6 heading substituted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2019/1137/regulation/30)
+[^c-bf23e12a19b9a9c966d878a82550e3a9]: Textual amendment: Sch. 2 Pt. 6 heading substituted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2019/1137/regulation/30)
 
-[^key-3c69539d60cfb8f83d01282104fa9b0d]: Textual amendment: Words in [Sch. 2 para. 44(c)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/44/c) substituted (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/11/3)
+[^c-3c69539d60cfb8f83d01282104fa9b0d]: Textual amendment: Words in [Sch. 2 para. 44(c)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/44/c) substituted (1.4.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2020 (S.I. 2020/226)](https://www.legislation.gov.uk/uksi/2020/226), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/226/regulation/1/2), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2020/226/schedule/2/paragraph/11/3)
 
-[^key-af4b06c3a39783db982b957bd3456e0d]: Textual amendment: Words in [Sch. 2 para. 44(g)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/44/g) substituted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/1/3)
+[^c-af4b06c3a39783db982b957bd3456e0d]: Textual amendment: Words in [Sch. 2 para. 44(g)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/44/g) substituted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/1/3)
 
-[^key-c33c63aa9993c8d424bb638d56122ae8]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/44) substituted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 7(5)](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/7/5)
+[^c-c33c63aa9993c8d424bb638d56122ae8]: Textual amendment: Words in [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/44) substituted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 7(5)](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/7/5)
 
-[^key-32c6dfce4e1e33e9199e589c0e9c79e2]: Textual amendment: [Sch. 2 para. 44(m)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/44/m) substituted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/12)
+[^c-32c6dfce4e1e33e9199e589c0e9c79e2]: Textual amendment: [Sch. 2 para. 44(m)](https://www.legislation.gov.uk/uksi/2015/1879/schedule/2/paragraph/44/m) substituted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/12)
 
-[^key-6cc306205485f91efca3d1e7a0740d2e]: Textual amendment: Sch. 2 paras. 44A-44C inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2019/1137/regulation/31)
+[^c-6cc306205485f91efca3d1e7a0740d2e]: Textual amendment: Sch. 2 paras. 44A-44C inserted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2019/1137/regulation/31)
 
 [^c22690761]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Section 123 was modified by section 90 of, and Schedule 15 to, the [Building Societies Act 1986 (c.5)](https://www.legislation.gov.uk/ukpga/1986/5), and by the section 23 of, and Schedule 10 to, the [Friendly Societies Act 1992 (c.40)](https://www.legislation.gov.uk/ukpga/1992/40).
 
@@ -2130,7 +2130,7 @@ sub-paragraphs (3) and (4) do not apply and NHS England may confirm, by giving n
 
 [^c22690851]: Marginal citation: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
-[^key-da027c2bbcd1c05e72ca358f19646b4c]: Textual amendment: Word in Sch. 2 Pt. 8 para. 58(4)(l)(i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-da027c2bbcd1c05e72ca358f19646b4c]: Textual amendment: Word in Sch. 2 Pt. 8 para. 58(4)(l)(i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^c22690861]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by section 257(2) of and Schedule 20 to the [Enterprise Act 2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
@@ -2154,8 +2154,8 @@ sub-paragraphs (3) and (4) do not apply and NHS England may confirm, by giving n
 
 [^c22690961]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Section 429 was amended by section 269 of, and Schedule 3 to, the Enterprise Act 2002, and section 106 of, and Schedule 16 to, the Tribunals, Courts and Enforcement Act 2007.
 
-[^key-dcf92d66dffe3f73455c7493400047fe]: Textual amendment: Word in Sch. 2 para. 58(4) omitted (E.) (1.10.2020) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/14/a)
+[^c-dcf92d66dffe3f73455c7493400047fe]: Textual amendment: Word in Sch. 2 para. 58(4) omitted (E.) (1.10.2020) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 14(a)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/14/a)
 
-[^key-ac9a15fe9921daa353e2aa736fecf233]: Textual amendment: Words in Sch. 2 para. 58(4)(t) substituted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/14/b)
+[^c-ac9a15fe9921daa353e2aa736fecf233]: Textual amendment: Words in Sch. 2 para. 58(4)(t) substituted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 14(b)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/14/b)
 
-[^key-8a1f1a45b1fac968fee79949667dad24]: Textual amendment: Sch. 2 para. 58(4)(u) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 14(c)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/14/c)
+[^c-8a1f1a45b1fac968fee79949667dad24]: Textual amendment: Sch. 2 para. 58(4)(u) inserted (E.) (1.10.2020) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/911)](https://www.legislation.gov.uk/uksi/2020/911), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/911/regulation/1/2), [Sch. 2 para. 14(c)](https://www.legislation.gov.uk/uksi/2020/911/schedule/2/paragraph/14/c)

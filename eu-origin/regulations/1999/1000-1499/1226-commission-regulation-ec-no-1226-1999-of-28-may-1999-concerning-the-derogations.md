@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1226/1999
 
 of 28 May 1999 concerning the derogations to be granted for insurance services statistics (Text with EEA relevance) (revoked)
 
-[^key-7becca7869c484a6a874bb1c12cb21b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7becca7869c484a6a874bb1c12cb21b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-7becca7869c484a6a874bb1c12cb21b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-7becca7869c484a6a874bb1c12cb21b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7becca7869c484a6a874bb1c12cb21b3]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/23)
+[^c-7becca7869c484a6a874bb1c12cb21b3]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/23)

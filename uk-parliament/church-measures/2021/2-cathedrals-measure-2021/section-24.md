@@ -44,7 +44,7 @@ summary: ''
 
 (7) The Chapter of a cathedral may not exercise the power under regulation 4 of the Charities (Total Return) Regulations 2013 (which enables borrowing of up to 10% of permanent endowment) unless it has obtained the consent of the Church Commissioners.
 
-(7A)[^key-6ca10049bd7c8f81e21d8a6cea2072ca] The members of the Chapter of a cathedral may not pass a resolution under—
+(7A)[^c-6ca10049bd7c8f81e21d8a6cea2072ca] The members of the Chapter of a cathedral may not pass a resolution under—
 
 - (a) section 282 of the Charities Act 2011 (resolution to spend larger fund), or
 - (b) section 284A of that Act (power to borrow from permanent endowment),
@@ -57,4 +57,4 @@ unless the Chapter has obtained the consent of the Church Commissioners.
 
 ## Annotations
 
-[^key-6ca10049bd7c8f81e21d8a6cea2072ca]: Textual amendment: [S. 24(7A)](https://www.legislation.gov.uk/ukcm/2021/2/section/24/7A) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/20); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(f)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/f)
+[^c-6ca10049bd7c8f81e21d8a6cea2072ca]: Textual amendment: [S. 24(7A)](https://www.legislation.gov.uk/ukcm/2021/2/section/24/7A) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/20); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(f)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/f)

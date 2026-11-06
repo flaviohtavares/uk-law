@@ -205,7 +205,7 @@ The Secretary of State, in exercise of the powers conferred on him by section 2(
 - [Section 85 — Determination of appeals](part-12/section-85.md)
 - [Section 86 — Status of a decision pending appeal](part-12/section-86.md)
 
-### PART 13 — ENFORCEMENT[^key-e0ac37c8979a7dc122ec3e439218ef84]
+### PART 13 — ENFORCEMENT[^c-e0ac37c8979a7dc122ec3e439218ef84]
 
 *Extent: E+W+S+N.I.*
 
@@ -213,7 +213,7 @@ The Secretary of State, in exercise of the powers conferred on him by section 2(
 - [Section 88 — Enforcement notice](part-13/section-88.md)
 - [Section 89 — Entry and inspection](part-13/section-89.md)
 
-### PART 14 — OFFENCES AND PENALTIES[^key-0139370aee32d03e6af90f2b52e34172]
+### PART 14 — OFFENCES AND PENALTIES[^c-0139370aee32d03e6af90f2b52e34172]
 
 *Extent: E+W+S+N.I.*
 
@@ -305,6 +305,6 @@ A Regulatory Impact Assessment (“RIA”) in respect of these Regulations is av
 
 [^f00002]: Footnote: [1972 c 68](https://www.legislation.gov.uk/ukpga/1972/68) Under Regulation 57 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) despite the transfer to Scottish Ministers of functions in relation to implementing obligations under Union law in respect of devolved matters, the function of the Secretary of State in relation to implementing those obligations continues to be exercisable by him as regards Scotland.
 
-[^key-e0ac37c8979a7dc122ec3e439218ef84]: Modification: [Pt. 13](https://www.legislation.gov.uk/uksi/2013/3113/part/13) applied (12.8.2025) by [The Waste Electrical and Electronic Equipment (Amendment, etc.) Regulations 2025 (S.I. 2025/910)](https://www.legislation.gov.uk/uksi/2025/910), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/910/regulation/1/2), [27(11)](https://www.legislation.gov.uk/uksi/2025/910/regulation/27/11)
+[^c-e0ac37c8979a7dc122ec3e439218ef84]: Modification: [Pt. 13](https://www.legislation.gov.uk/uksi/2013/3113/part/13) applied (12.8.2025) by [The Waste Electrical and Electronic Equipment (Amendment, etc.) Regulations 2025 (S.I. 2025/910)](https://www.legislation.gov.uk/uksi/2025/910), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/910/regulation/1/2), [27(11)](https://www.legislation.gov.uk/uksi/2025/910/regulation/27/11)
 
-[^key-0139370aee32d03e6af90f2b52e34172]: Modification: [Pt. 14](https://www.legislation.gov.uk/uksi/2013/3113/part/14) applied (12.8.2025) by [The Waste Electrical and Electronic Equipment (Amendment, etc.) Regulations 2025 (S.I. 2025/910)](https://www.legislation.gov.uk/uksi/2025/910), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/910/regulation/1/2), [27(12)](https://www.legislation.gov.uk/uksi/2025/910/regulation/27/12)
+[^c-0139370aee32d03e6af90f2b52e34172]: Modification: [Pt. 14](https://www.legislation.gov.uk/uksi/2013/3113/part/14) applied (12.8.2025) by [The Waste Electrical and Electronic Equipment (Amendment, etc.) Regulations 2025 (S.I. 2025/910)](https://www.legislation.gov.uk/uksi/2025/910), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/910/regulation/1/2), [27(12)](https://www.legislation.gov.uk/uksi/2025/910/regulation/27/12)

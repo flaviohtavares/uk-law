@@ -42,17 +42,17 @@ Coming into operation in accordance with regulation 1
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by section 3(1) of the Child Maintenance Act (Northern Ireland) 2008[^f00001], and now vested in it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-62c382b068ee5d7fade3062176e0038f]
+## 1. Citation, commencement and interpretation[^c-62c382b068ee5d7fade3062176e0038f]
 
 These Regulations may be cited as the Child Support Fees (Revocation) Regulations (Northern Ireland) 2024 and shall come into operation on 18th January 2024.
 
-## 2. Amendment of the Child Support Fees Regulations[^key-529692ed0295dc62e0d756281426388d]
+## 2. Amendment of the Child Support Fees Regulations[^c-529692ed0295dc62e0d756281426388d]
 
 (1) The Child Support Fees Regulations (Northern Ireland) 2014[^f00003] are amended as follows.
 
 (2) In regulation 3 (the collection fee), paragraphs (6)[^f00004] and (7) are revoked.
 
-## 3. Revocation[^key-587566ff9a37ff9f3168f83c7175922d]
+## 3. Revocation[^c-587566ff9a37ff9f3168f83c7175922d]
 
 The Child Support Fees (Revocation) Regulations (Northern Ireland) 2023[^f00005] are revoked.
 
@@ -82,14 +82,14 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: See Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and Section 1(7) of the Departments Act (Northern Ireland) [2016 (c.5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-62c382b068ee5d7fade3062176e0038f]: Commencement: Reg. 1 in operation at 18.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/6/regulation/1)
+[^c-62c382b068ee5d7fade3062176e0038f]: Commencement: Reg. 1 in operation at 18.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/6/regulation/1)
 
-[^key-529692ed0295dc62e0d756281426388d]: Commencement: Reg. 2 in operation at 18.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/6/regulation/1)
+[^c-529692ed0295dc62e0d756281426388d]: Commencement: Reg. 2 in operation at 18.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/6/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2014 No. 182](https://www.legislation.gov.uk/nisr/2014/182)
 
 [^f00004]: Footnote: Regulation 3(6) was amended by [S.R. 2019 No. 222](https://www.legislation.gov.uk/nisr/2019/222)
 
-[^key-587566ff9a37ff9f3168f83c7175922d]: Commencement: Reg. 3 in operation at 18.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/6/regulation/1)
+[^c-587566ff9a37ff9f3168f83c7175922d]: Commencement: Reg. 3 in operation at 18.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/6/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2023 No. 112](https://www.legislation.gov.uk/nisr/2023/112)

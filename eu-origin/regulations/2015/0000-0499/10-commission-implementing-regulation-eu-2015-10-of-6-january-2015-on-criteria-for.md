@@ -35,40 +35,40 @@ on criteria for applicants for rail infrastructure capacity and repealing Implem
 
 (Text with EEA relevance) (revoked)
 
-[^key-59be985a4f9eb66ba8979af620288338]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59be985a4f9eb66ba8979af620288338]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-59be985a4f9eb66ba8979af620288338]
+## Article 1. Subject matter[^c-59be985a4f9eb66ba8979af620288338]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-59be985a4f9eb66ba8979af620288338]
+## Article 2. Definitions[^c-59be985a4f9eb66ba8979af620288338]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Conditions for financial guarantees[^key-59be985a4f9eb66ba8979af620288338]
+## Article 3. Conditions for financial guarantees[^c-59be985a4f9eb66ba8979af620288338]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Level and duration of financial guarantees[^key-59be985a4f9eb66ba8979af620288338]
+## Article 4. Level and duration of financial guarantees[^c-59be985a4f9eb66ba8979af620288338]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Capability to prepare compliant bids for infrastructure capacity[^key-59be985a4f9eb66ba8979af620288338]
+## Article 5. Capability to prepare compliant bids for infrastructure capacity[^c-59be985a4f9eb66ba8979af620288338]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Transitional provision[^key-59be985a4f9eb66ba8979af620288338]
+## Article 6. Transitional provision[^c-59be985a4f9eb66ba8979af620288338]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-59be985a4f9eb66ba8979af620288338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-59be985a4f9eb66ba8979af620288338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-59be985a4f9eb66ba8979af620288338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-59be985a4f9eb66ba8979af620288338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-59be985a4f9eb66ba8979af620288338]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59be985a4f9eb66ba8979af620288338]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-59be985a4f9eb66ba8979af620288338]: Textual amendment: Regulation revoked (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/127/schedule)
+[^c-59be985a4f9eb66ba8979af620288338]: Textual amendment: Regulation revoked (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/127/schedule)

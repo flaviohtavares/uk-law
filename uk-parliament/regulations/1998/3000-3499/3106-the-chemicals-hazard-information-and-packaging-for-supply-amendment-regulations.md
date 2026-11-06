@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations 1998 (revoked)[^key-12d94d3e2f445091c3e4d3bd24940f2e]
+The Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations 1998 (revoked)[^c-12d94d3e2f445091c3e4d3bd24940f2e]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 6th January 1999
 
-[^key-12d94d3e2f445091c3e4d3bd24940f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12d94d3e2f445091c3e4d3bd24940f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-12d94d3e2f445091c3e4d3bd24940f2e]
+## 1. Citation and commencement[^c-12d94d3e2f445091c3e4d3bd24940f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 4 of the Chemicals (Hazard Information and Packaging for Supply) Regulations 1994[^key-12d94d3e2f445091c3e4d3bd24940f2e]
+## 2. Amendment of regulation 4 of the Chemicals (Hazard Information and Packaging for Supply) Regulations 1994[^c-12d94d3e2f445091c3e4d3bd24940f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-12d94d3e2f445091c3e4d3bd24940f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12d94d3e2f445091c3e4d3bd24940f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-12d94d3e2f445091c3e4d3bd24940f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-12d94d3e2f445091c3e4d3bd24940f2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-12d94d3e2f445091c3e4d3bd24940f2e]: Textual amendment: Regulations revoked (24.7.2002) by [The Chemicals (Hazard Information and Packaging for Supply) Regulations 2002 (S.I. 2002/1689)](https://www.legislation.gov.uk/uksi/2002/1689), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1689/regulation/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2002/1689/regulation/18/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2002/1689/schedule/7)
+[^c-12d94d3e2f445091c3e4d3bd24940f2e]: Textual amendment: Regulations revoked (24.7.2002) by [The Chemicals (Hazard Information and Packaging for Supply) Regulations 2002 (S.I. 2002/1689)](https://www.legislation.gov.uk/uksi/2002/1689), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1689/regulation/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2002/1689/regulation/18/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2002/1689/schedule/7)

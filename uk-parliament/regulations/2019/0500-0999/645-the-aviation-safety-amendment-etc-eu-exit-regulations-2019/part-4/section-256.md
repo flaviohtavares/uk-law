@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256. Amendment of Subpart A of Section B of Annex 1 to [Commission Regulation (EU) No 1321/2014](https://www.legislation.gov.uk/eur/2014/1321)[^key-5f3bc82f46088b0850b56637e668c975]
+## 256. Amendment of Subpart A of Section B of Annex 1 to [Commission Regulation (EU) No 1321/2014](https://www.legislation.gov.uk/eur/2014/1321)[^c-5f3bc82f46088b0850b56637e668c975]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,10 +37,10 @@ summary: ''
 - (a) in point (a), for “competent authorities” substitute “CAA”;
 - (b) in point (b)—
   - (i) in point (4), for “competent authority” substitute “CAA”;
-  - (ii)[^key-8b4e724f5a83b97dc7aaa2b2f96cea72] omit point (7)
+  - (ii)[^c-8b4e724f5a83b97dc7aaa2b2f96cea72] omit point (7)
   - (iii) in point (9), for “competent authority” substitute “CAA”;
 - (c) in point (d)—
-  - (i) in point (4), for “competent authority”[^key-c513501b40e9881f7037f41a3cb11b95] substitute “CAA”;
+  - (i) in point (4), for “competent authority”[^c-c513501b40e9881f7037f41a3cb11b95] substitute “CAA”;
   - (ii) in point (7), for “competent authority” substitute “CAA”;
 - (d) omit point (f).
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5f3bc82f46088b0850b56637e668c975]: Commencement: Reg. 256 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5f3bc82f46088b0850b56637e668c975]: Commencement: Reg. 256 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8b4e724f5a83b97dc7aaa2b2f96cea72]: Textual amendment: Reg. 256(4)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [23(a)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/23/a)
+[^c-8b4e724f5a83b97dc7aaa2b2f96cea72]: Textual amendment: Reg. 256(4)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [23(a)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/23/a)
 
-[^key-c513501b40e9881f7037f41a3cb11b95]: Textual amendment: Words in reg. 256(4)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [23(b)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/23/b)
+[^c-c513501b40e9881f7037f41a3cb11b95]: Textual amendment: Words in reg. 256(4)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [23(b)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/23/b)

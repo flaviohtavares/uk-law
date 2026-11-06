@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Licence conditions of fixed-term prisoners released following referral[^key-bad7df9d881b1eb002c36982346b5cc2][^key-d52827177673836f1034ca602c85f74a]
+## 64. Licence conditions of fixed-term prisoners released following referral[^c-bad7df9d881b1eb002c36982346b5cc2][^c-d52827177673836f1034ca602c85f74a]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bad7df9d881b1eb002c36982346b5cc2]: Commencement: S. 64 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-bad7df9d881b1eb002c36982346b5cc2]: Commencement: S. 64 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-d52827177673836f1034ca602c85f74a]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2024/21/section/64) in force at 31.12.2025 by [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/f)
+[^c-d52827177673836f1034ca602c85f74a]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2024/21/section/64) in force at 31.12.2025 by [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/f)

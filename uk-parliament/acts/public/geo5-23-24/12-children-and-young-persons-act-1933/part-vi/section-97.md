@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Modifications of last foregoing section as to City of London.[^key-372dcf0823cb93c3b008be4f10b7189b]
+## 97. Modifications of last foregoing section as to City of London.[^c-372dcf0823cb93c3b008be4f10b7189b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-372dcf0823cb93c3b008be4f10b7189b]: Textual amendment: [S. 97](https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/section/97) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 17(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/17/3), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)
+[^c-372dcf0823cb93c3b008be4f10b7189b]: Textual amendment: [S. 97](https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/section/97) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 17(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/17/3), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)

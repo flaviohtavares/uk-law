@@ -83,7 +83,7 @@ summary: ''
 - “**appeal board**” has the meaning given in Schedule 1 (medical decisions: appeals and reconsideration);
 - “**assistant inspector of constabulary**” means an assistant inspector of constabulary appointed under section 56 of PA 1996;
 - “**assumed age addition**” has the meaning given in regulation 49(3);
-- “assumed pay” [^key-eeae1a6d800273cebf9e60cd09a39538]... means the amount of pensionable earnings an active member of this scheme is taken to receive under regulation 34(2) (assumed pay) in respect of a period of assumed pay;
+- “assumed pay” [^c-eeae1a6d800273cebf9e60cd09a39538]... means the amount of pensionable earnings an active member of this scheme is taken to receive under regulation 34(2) (assumed pay) in respect of a period of assumed pay;
 - “**the beginning date**”, in relation to a pension not attributable (directly or indirectly) to a pension credit, means the date on which the pension is deemed to begin for the purpose of section 8(2) of PIA 1971 [^c22402111];
 - “**career break**”, in relation to a member of this scheme, means a period of unpaid leave whether or not it exceeds 5 years which is agreed by the employer in accordance with a determination under regulation 33(12) of the 2003 Regulations;
 - “**child's added pension**” means a pension payable to an eligible child under regulation 145(4)(d);
@@ -128,7 +128,7 @@ summary: ''
   - (e) added (self only) pension;
 - “**dual capacity member**” has the meaning given in regulation 199;
 - “**duly qualified medical practitioner**” means a registered medical practitioner who holds—
-  - (a) the minimum qualification of Associate of the Faculty of Occupational Medicine [^key-3e2f25d738acd438d12826156a26adb0]...; or
+  - (a) the minimum qualification of Associate of the Faculty of Occupational Medicine [^c-3e2f25d738acd438d12826156a26adb0]...; or
   - (b) any other equivalent qualification acceptable to the scheme manager;
 - “**early payment reduction**” has the meaning given in regulation 50(4) (actuarial reduction on early payment of pension);
 - “**eligible child**” has the meaning given in regulation 144;
@@ -169,7 +169,7 @@ summary: ''
   - (b) otherwise, a lower tier ill-health pension and an enhanced upper tier ill-health pension (if applicable) payable under Part 7 (retirement benefits);
 - “**ill-health pension under this scheme**” means a lower tier ill-health pension and if applicable an enhanced upper tier ill-health pension payable under Part 7;
 - “**index adjustment**” means—
-  - (a) in relation to the opening balance of earned pension other than club transfer earned pension for any scheme year, the change in prices in the previous scheme year[^key-ef60bc50f7ed82160dbda6948022f0d8] [^c22402131], plus 1.25%; and
+  - (a) in relation to the opening balance of earned pension other than club transfer earned pension for any scheme year, the change in prices in the previous scheme year[^c-ef60bc50f7ed82160dbda6948022f0d8] [^c22402131], plus 1.25%; and
   - (b) in relation to the opening balance of club transfer earned pension for any scheme year, the in-service revaluation index that the sending scheme would have applied to that amount of earned pension for that scheme year, had the earned pension not been transferred;
 - “**injury received in the execution of duty**” has the meaning given in regulation 6 of the Police (Injury Benefit) Regulations 2006 [^c22402141] and “the result of an injury” is construed in accordance with regulation 8 of those Regulations;
 - “**Injury Benefits Regulations**” means—
@@ -221,7 +221,7 @@ summary: ''
   - (b) a personal pension scheme;
 - “**pension sharing order**” means any provision or order specified in section 28 of WRPA 1999;
 - “**pension supervising authority**”, in relation to a member of a police force in England and Wales, has the meaning given in regulation 210;
-- “[^key-fefdb2fce6f64095c7b84d1b7351abc1]**pensionable earnings**”, in relation to any period, has the meaning given in regulation 33 (pensionable earnings);
+- “[^c-fefdb2fce6f64095c7b84d1b7351abc1]**pensionable earnings**”, in relation to any period, has the meaning given in regulation 33 (pensionable earnings);
 - “**pensioner member**”, in relation to this scheme, means a person who is entitled to payment for life of a retirement pension under this scheme;
 - “**period of assumed pay**” has the meaning given in regulation 34(2);
 - “**period of permanent service**” means a period in which P is absent from duty because of being called out, or recalled, for permanent service in Her Majesty's armed forces in pursuance of a call-out notice served, or a call-out or recall order made, under the Reserve Forces Act 1996 [^c22402151];
@@ -329,21 +329,21 @@ summary: ''
 
 [^c22402101]: Marginal citation: See section 37 of the Act for the meaning of “pensionable service”.
 
-[^key-eeae1a6d800273cebf9e60cd09a39538]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/445/regulation/2/1) omitted (1.4.2026) by virtue of [The Police Pensions (Member Contributions) (Amendment and Transitional Provisions) (England and Wales) Regulations 2026 (S.I. 2026/267)](https://www.legislation.gov.uk/uksi/2026/267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/267/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/267/regulation/3/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2026/267/regulation/9))
+[^c-eeae1a6d800273cebf9e60cd09a39538]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/445/regulation/2/1) omitted (1.4.2026) by virtue of [The Police Pensions (Member Contributions) (Amendment and Transitional Provisions) (England and Wales) Regulations 2026 (S.I. 2026/267)](https://www.legislation.gov.uk/uksi/2026/267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/267/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/267/regulation/3/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2026/267/regulation/9))
 
 [^c22402111]: Marginal citation: Section 8(2) was amended by the [Pensions (Miscellaneous Provisions) Act 1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7) section 1(5) and the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) section 39(1) and (4). Section 8(2) of PIA 1971 may be applied subject to such modifications, adaptations and exceptions as may be specified in regulations under section 5(3) of that Act.
 
-[^key-3e2f25d738acd438d12826156a26adb0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/445/regulation/2/1) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [131(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/131/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e2f25d738acd438d12826156a26adb0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/445/regulation/2/1) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [131(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/131/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22402121]: Marginal citation: [S.S.I. 2007/201](https://www.legislation.gov.uk/ssi/2007/201).
 
-[^key-ef60bc50f7ed82160dbda6948022f0d8]: Textual amendment: Words in reg. 2 substituted (with effect in accordance with reg. 1(2)(d) of the amending S.I.) by [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [31](https://www.legislation.gov.uk/uksi/2018/997/regulation/31)
+[^c-ef60bc50f7ed82160dbda6948022f0d8]: Textual amendment: Words in reg. 2 substituted (with effect in accordance with reg. 1(2)(d) of the amending S.I.) by [The Police and Firefighters Pensions (Amendment) Regulations 2018 (S.I. 2018/997)](https://www.legislation.gov.uk/uksi/2018/997), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2018/997/regulation/1/2/d), [31](https://www.legislation.gov.uk/uksi/2018/997/regulation/31)
 
 [^c22402131]: Marginal citation: Under section 9 of the Act the change in prices to be applied in a period is the percentage increase or decrease as a Treasury order under that section may specify in relation to the period.
 
 [^c22402141]: Marginal citation: [S.I. 2006/932](https://www.legislation.gov.uk/uksi/2006/932).
 
-[^key-fefdb2fce6f64095c7b84d1b7351abc1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/445/regulation/2/1) substituted (1.4.2026) by [The Police Pensions (Member Contributions) (Amendment and Transitional Provisions) (England and Wales) Regulations 2026 (S.I. 2026/267)](https://www.legislation.gov.uk/uksi/2026/267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/267/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/267/regulation/3/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2026/267/regulation/9))
+[^c-fefdb2fce6f64095c7b84d1b7351abc1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/445/regulation/2/1) substituted (1.4.2026) by [The Police Pensions (Member Contributions) (Amendment and Transitional Provisions) (England and Wales) Regulations 2026 (S.I. 2026/267)](https://www.legislation.gov.uk/uksi/2026/267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/267/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/267/regulation/3/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2026/267/regulation/9))
 
 [^c22402151]: Marginal citation: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
 

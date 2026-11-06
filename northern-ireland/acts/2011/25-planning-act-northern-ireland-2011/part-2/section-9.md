@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Local policies plan[^key-4a5ffb8b413533529f7b15f6f309e4d2][^key-a07fe078b3553288f448e3f021349292]
+## 9. Local policies plan[^c-4a5ffb8b413533529f7b15f6f309e4d2][^c-a07fe078b3553288f448e3f021349292]
 
 *Extent: N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 (6) In preparing the local policies plan, the council must take account of—
 
 - (a) the regional development strategy;
-- (aa)[^key-93a031c769c06666323a7260eb32ad67] the council's current community plan;
+- (aa)[^c-93a031c769c06666323a7260eb32ad67] the council's current community plan;
 - (b) any policy or advice contained in guidance issued by the Department;
 - (c) such other matters as the Department may prescribe or, in a particular case, direct,
 
@@ -57,8 +57,8 @@ and may have regard to such other information and considerations as appear to th
 
 ## Annotations
 
-[^key-4a5ffb8b413533529f7b15f6f309e4d2]: Commencement: S. 9 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-4a5ffb8b413533529f7b15f6f309e4d2]: Commencement: S. 9 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-a07fe078b3553288f448e3f021349292]: Commencement: S. 9 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-a07fe078b3553288f448e3f021349292]: Commencement: S. 9 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-93a031c769c06666323a7260eb32ad67]: Textual amendment: S. 9(6)(aa) inserted (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 77(3)](https://www.legislation.gov.uk/nia/2014/8/section/77/3), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [ss. 77(5)](https://www.legislation.gov.uk/nia/2014/8/section/77/5), [124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-93a031c769c06666323a7260eb32ad67]: Textual amendment: S. 9(6)(aa) inserted (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 77(3)](https://www.legislation.gov.uk/nia/2014/8/section/77/3), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [ss. 77(5)](https://www.legislation.gov.uk/nia/2014/8/section/77/5), [124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

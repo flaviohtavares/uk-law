@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Further provisions as to charging of tolls.[^key-629e0440d5b1332233fead68f481de40]
+## 13. Further provisions as to charging of tolls.[^c-629e0440d5b1332233fead68f481de40]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ In the case of a concessionaire the powers mentioned above are exercisable subje
 
 ## Annotations
 
-[^key-629e0440d5b1332233fead68f481de40]: Modification: [Ss. 7-18](https://www.legislation.gov.uk/ukpga/1991/22/section/7) modified (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 80](https://www.legislation.gov.uk/asc/2024/3/section/80), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-629e0440d5b1332233fead68f481de40]: Modification: [Ss. 7-18](https://www.legislation.gov.uk/ukpga/1991/22/section/7) modified (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 80](https://www.legislation.gov.uk/asc/2024/3/section/80), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
 
 [^c14148471]: Textual amendment: [S. 13(2)(b)](https://www.legislation.gov.uk/ukpga/1991/22/section/13/2/b) substituted for s. 36(2)(b)-(d) (1.9.1994) by [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22), [ss. 63](https://www.legislation.gov.uk/ukpga/1994/22/section/63), [66](https://www.legislation.gov.uk/ukpga/1994/22/section/66), [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/28) (with [s. 57(4)](https://www.legislation.gov.uk/ukpga/1994/22/section/57/4))

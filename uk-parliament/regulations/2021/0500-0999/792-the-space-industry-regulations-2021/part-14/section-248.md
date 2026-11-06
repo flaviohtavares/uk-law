@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248. Power to issue warning notice[^key-d1ccb9ec408b2afbfdacc6d803a58019]
+## 248. Power to issue warning notice[^c-d1ccb9ec408b2afbfdacc6d803a58019]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1ccb9ec408b2afbfdacc6d803a58019]: Commencement: Reg. 248 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d1ccb9ec408b2afbfdacc6d803a58019]: Commencement: Reg. 248 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

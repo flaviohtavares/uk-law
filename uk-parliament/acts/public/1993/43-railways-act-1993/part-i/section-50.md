@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The obligations of the Secretary of State[^c18925441] and of the Welsh Ministers[^key-bf7595750c76833b396a569ded6f0bf5] and of the Scottish Ministers, so far as imposed by or under any provision of this Part—
+(1) The obligations of the Secretary of State[^c18925441] and of the Welsh Ministers[^c-bf7595750c76833b396a569ded6f0bf5] and of the Scottish Ministers, so far as imposed by or under any provision of this Part—
 
 - (a) [^c18925471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) [^c14104411]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -37,7 +37,7 @@ shall not give rise to any form of duty or liability enforceable by civil procee
 
 [^c18925441]: Textual amendment: Words in s. 50(1) substituted (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 54](https://www.legislation.gov.uk/ukpga/2005/14/section/54), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/5); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule) (subject to the transitional and saving provisions in [arts. 3-7](https://www.legislation.gov.uk/uksi/2006/2911/article/3))
 
-[^key-bf7595750c76833b396a569ded6f0bf5]: Textual amendment: Words in s. 50(1) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/11)
+[^c-bf7595750c76833b396a569ded6f0bf5]: Textual amendment: Words in s. 50(1) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/11)
 
 [^c18925471]: Textual amendment: S. 50(1)(a)(2) repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule) (subject to the transitional and saving provisions in [arts. 3-7](https://www.legislation.gov.uk/uksi/2006/2911/article/3))
 

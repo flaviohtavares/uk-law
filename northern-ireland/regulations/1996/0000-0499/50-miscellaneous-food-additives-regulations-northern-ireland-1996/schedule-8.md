@@ -24,13 +24,13 @@ summary: ''
 
 Regulation 3(7) and (8)
 
-### 1. Notes[^key-471805b5c1b1dfb81a782925f0e8eeb0]
+### 1. Notes[^c-471805b5c1b1dfb81a782925f0e8eeb0]
 
 Formulae and weaning foods for infants and young children may contain E 414 acacia gum (gum arabic) and E 551 silicon dioxide resulting from the addition of nutrient preparations containing not more than 10 g/kg of each of these substances, as well as E 421 mannitol when used as a carrier for vitamin B 12 (not less than 1 part vitamin B 12 to 1000 parts mannitol).
 
-**2.**[^key-47751c39b617f8bd5acffc79416b6ac9] The maximum levels of use indicated refer to foods ready for consumption prepared following manufacturer’s instructions.
+**2.**[^c-47751c39b617f8bd5acffc79416b6ac9] The maximum levels of use indicated refer to foods ready for consumption prepared following manufacturer’s instructions.
 
-### Part I — Miscellaneous additives permitted in infant formulae for infants in good health[^key-b1985884e60636fd03b68de214013188]
+### Part I — Miscellaneous additives permitted in infant formulae for infants in good health[^c-b1985884e60636fd03b68de214013188]
 
 #### Notes
 
@@ -49,7 +49,7 @@ Formulae and weaning foods for infants and young children may contain E 414 acac
   | E 322 | Lecithins | 1 g/l |
   | E 471 | Mono- and diglycerides of fatty acids | 4 g/l |
 
-### Part II — Miscellaneous additives permitted in follow-on formulae for infants in good health[^key-1bcc68a2f0f30d438d061a678784f562]
+### Part II — Miscellaneous additives permitted in follow-on formulae for infants in good health[^c-1bcc68a2f0f30d438d061a678784f562]
 
 #### Notes
 
@@ -73,7 +73,7 @@ Formulae and weaning foods for infants and young children may contain E 414 acac
   | E 410 | Locust bean gum | 1 g/l |
   | E 412 | Guar gum | 1 g/l |
 
-### Part III — Miscellaneous additives permitted in weaning foods for infants and young children in good health[^key-a4f2a222e80fcd025d0debc6a6295735]
+### Part III — Miscellaneous additives permitted in weaning foods for infants and young children in good health[^c-a4f2a222e80fcd025d0debc6a6295735]
 
 | EC No. | Name | Food | Maximum level |
 | --- | --- | --- | --- |
@@ -140,24 +140,24 @@ Formulae and weaning foods for infants and young children may contain E 414 acac
 | E 1422 | Acetylated distarch adipate | Weaning foods | 50 g/kg |
 | E 1450 | Starch sodium octenyl succinate | Weaning foods | 50 g/kg |
 
-### Part IV — Miscellaneous additives permitted in foods for infants and young children for special medical purposes[^key-92f8879e5d53767cfbcd88ca2791ee73]
+### Part IV — Miscellaneous additives permitted in foods for infants and young children for special medical purposes[^c-92f8879e5d53767cfbcd88ca2791ee73]
 
 The tables in Parts 1 to 3 of this Schedule are applicable.
 
 ## Annotations
 
-[^key-471805b5c1b1dfb81a782925f0e8eeb0]: Commencement: Sch. 8 para. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-471805b5c1b1dfb81a782925f0e8eeb0]: Commencement: Sch. 8 para. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-47751c39b617f8bd5acffc79416b6ac9]: Commencement: Sch. 8 para. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-47751c39b617f8bd5acffc79416b6ac9]: Commencement: Sch. 8 para. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-b1985884e60636fd03b68de214013188]: Commencement: Sch. 8 Pt. I in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-b1985884e60636fd03b68de214013188]: Commencement: Sch. 8 Pt. I in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-1bcc68a2f0f30d438d061a678784f562]: Commencement: Sch. 8 Pt. II in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-1bcc68a2f0f30d438d061a678784f562]: Commencement: Sch. 8 Pt. II in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
-[^key-a4f2a222e80fcd025d0debc6a6295735]: Commencement: Sch. 8 Pt. III in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-a4f2a222e80fcd025d0debc6a6295735]: Commencement: Sch. 8 Pt. III in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00064]: Footnote: L(+)-form only
 
 [^f00065]: Footnote: L(+)-form only
 
-[^key-92f8879e5d53767cfbcd88ca2791ee73]: Commencement: Sch. 8 Pt. IV in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-92f8879e5d53767cfbcd88ca2791ee73]: Commencement: Sch. 8 Pt. IV in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

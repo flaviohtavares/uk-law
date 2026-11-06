@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Economic prosperity boards and combined authorities[^key-d8bad6a65fd78b20c92896264292ab39]
+## 13. Economic prosperity boards and combined authorities[^c-d8bad6a65fd78b20c92896264292ab39]
 
 *Extent: E+W*
 
@@ -128,4 +128,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8bad6a65fd78b20c92896264292ab39]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2011/20/section/13) in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-d8bad6a65fd78b20c92896264292ab39]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2011/20/section/13) in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Power to provide for court review of youth rehabilitation orders[^key-f97d5463a33ba1a58a020cb3c821805a]
+## 194. Power to provide for court review of youth rehabilitation orders[^c-f97d5463a33ba1a58a020cb3c821805a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f97d5463a33ba1a58a020cb3c821805a]: Commencement: S. 194 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f97d5463a33ba1a58a020cb3c821805a]: Commencement: S. 194 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

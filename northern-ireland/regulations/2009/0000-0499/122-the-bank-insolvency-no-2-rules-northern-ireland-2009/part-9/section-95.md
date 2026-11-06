@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 95. Release of resigning or removed bank liquidator[^key-c43e7ae235447d670e6006a360c2407f]
+## 95. Release of resigning or removed bank liquidator[^c-c43e7ae235447d670e6006a360c2407f]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c43e7ae235447d670e6006a360c2407f]: Commencement: Rule 95 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-c43e7ae235447d670e6006a360c2407f]: Commencement: Rule 95 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

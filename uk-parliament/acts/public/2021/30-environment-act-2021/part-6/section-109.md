@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Species conservation strategies[^key-a8e659d7a852e6746e3a842a39eafe4e][^key-51f705ceecd63688f32ea9cc8732b68d]
+## 109. Species conservation strategies[^c-a8e659d7a852e6746e3a842a39eafe4e][^c-51f705ceecd63688f32ea9cc8732b68d]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a8e659d7a852e6746e3a842a39eafe4e]: Commencement: S. 109 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-a8e659d7a852e6746e3a842a39eafe4e]: Commencement: S. 109 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-51f705ceecd63688f32ea9cc8732b68d]: Commencement: S. 109 in force at 30.9.2022 by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/a)
+[^c-51f705ceecd63688f32ea9cc8732b68d]: Commencement: S. 109 in force at 30.9.2022 by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/a)

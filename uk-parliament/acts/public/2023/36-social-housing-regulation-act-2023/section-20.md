@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Notification of change of control[^key-e0e66dd3b60b761dc8d5b4a321b9c5f7][^key-2f1055c47c958a3aa1e078ba7a00bc8d]
+## 20. Notification of change of control[^c-e0e66dd3b60b761dc8d5b4a321b9c5f7][^c-2f1055c47c958a3aa1e078ba7a00bc8d]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0e66dd3b60b761dc8d5b4a321b9c5f7]: Commencement: S. 20 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-e0e66dd3b60b761dc8d5b4a321b9c5f7]: Commencement: S. 20 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-2f1055c47c958a3aa1e078ba7a00bc8d]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2023/36/section/20) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/m)
+[^c-2f1055c47c958a3aa1e078ba7a00bc8d]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2023/36/section/20) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/m)

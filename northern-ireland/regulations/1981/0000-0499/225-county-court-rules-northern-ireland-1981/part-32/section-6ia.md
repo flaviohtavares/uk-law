@@ -24,7 +24,7 @@ summary: ''
 
 (2) The application under paragraph (1) shall be made within 14 days from the date of the service of notice of appeal from a decision of a magistrates’ court.
 
-(3) The notice under paragraph (1) shall be served on the chief clerk [^key-01335a2770246e9bb4e2ca4109db1f16]..., and at the same time a copy thereof shall be served by the applicant on every other party to the appeal.
+(3) The notice under paragraph (1) shall be served on the chief clerk [^c-01335a2770246e9bb4e2ca4109db1f16]..., and at the same time a copy thereof shall be served by the applicant on every other party to the appeal.
 
 (4) Any party who wishes to oppose the application shall, within 7 days of the date that notice under paragraph (1) was served on him, notify the applicant and the chief clerk, in writing, of his opposition and give reasons for it.
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^f00307]: Footnote: Rules 6IA and 6IB inserted by [S.R. 2009 No. 19](https://www.legislation.gov.uk/nisr/2009/19) with effect from 9.2.09
 
-[^key-01335a2770246e9bb4e2ca4109db1f16]: Textual amendment: Words in Order 32 rule 6IA(3) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(e)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/e); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-01335a2770246e9bb4e2ca4109db1f16]: Textual amendment: Words in Order 32 rule 6IA(3) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(e)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/e); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

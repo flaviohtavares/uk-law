@@ -36,7 +36,7 @@ An Act to make further provision about the distribution of estates of deceased p
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Intestacy: surviving spouse or civil partner[^key-08f53678357755cae61d689a3588067a]
+## 1. Intestacy: surviving spouse or civil partner[^c-08f53678357755cae61d689a3588067a]
 
 (1) Section 46 of the Administration of Estates Act 1925 (succession to real and personal estate on intestacy) is amended as follows.
 
@@ -76,13 +76,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >
 > (9) A statutory instrument containing an order under subsection (7) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-## 2. The fixed net sum[^key-415a0a762deeb357637addf7c563cca5]
+## 2. The fixed net sum[^c-415a0a762deeb357637addf7c563cca5]
 
 (1) In the Administration of Estates Act 1925, after the First Schedule insert the Schedule set out in Schedule 1 to this Act (which provides for the determination of the fixed net sum).
 
 (2) The Family Provision Act 1966 is repealed.
 
-## 3. Definition of “personal chattels”[^key-f4f8205c5b677cc303c11245a5cf7696]
+## 3. Definition of “personal chattels”[^c-f4f8205c5b677cc303c11245a5cf7696]
 
 (1) For paragraph (x) of section 55(1) of the Administration of Estates Act 1925 (definitions) substitute—
 
@@ -95,7 +95,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) If a will or codicil containing a reference to personal chattels defined (in whatever form of words) by reference to section 55(1)(x) of the Administration of Estates Act 1925 was executed before the coming into force of subsection (1), then unless the contrary intention appears subsection (1) is to be disregarded in interpreting the reference to personal chattels.
 
-## 4. Adoption and contingent interests[^key-566ffb3f2c452dd67207f3bb1cb0c4fd]
+## 4. Adoption and contingent interests[^c-566ffb3f2c452dd67207f3bb1cb0c4fd]
 
 (1) In section 69 of the Adoption and Children Act 2002 (rules of interpretation for instruments concerning property), in subsection (4)—
 
@@ -108,7 +108,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) The amendments made by subsection (1) have effect only in relation to adoptions whose date is the day this section comes into force or later.
 
-## 5. Presumption of prior death[^key-d0a42178d20a236b8f68aed27a9c8a91]
+## 5. Presumption of prior death[^c-d0a42178d20a236b8f68aed27a9c8a91]
 
 In section 18 of the Family Law Reform Act 1987 (succession on intestacy), after subsection (2) insert—
 
@@ -117,22 +117,22 @@ In section 18 of the Family Law Reform Act 1987 (succession on intestacy), after
 > - (a) in a register of births kept (or having effect as if kept) under the Births and Deaths Registration Act 1953, or
 > - (b) in a record of a birth included in an index kept under section 30(1) of that Act (indexes relating to certain other registers etc).
 
-## 6. Amendments of Inheritance (Provision for Family and Dependants) Act 1975[^key-f04b4830b9220f5c137946104e8ad789]
+## 6. Amendments of Inheritance (Provision for Family and Dependants) Act 1975[^c-f04b4830b9220f5c137946104e8ad789]
 
 Schedule 2 amends the Inheritance (Provision for Family and Dependants) Act 1975.
 
-## 7. Date when representation is first taken out[^key-b0ec2f3b494bc7d5eddf6cb4deb81f0f]
+## 7. Date when representation is first taken out[^c-b0ec2f3b494bc7d5eddf6cb4deb81f0f]
 
 Schedule 3 amends enactments relating to the determination, for various purposes, of the date on which representation with respect to the estate of a deceased person is first taken out.
 
-## 8. Power to apply income for maintenance[^key-0d84424bd4b7e5435bef5e4941bf4b8f]
+## 8. Power to apply income for maintenance[^c-0d84424bd4b7e5435bef5e4941bf4b8f]
 
 In section 31 of the Trustee Act 1925 (power to apply income for maintenance and to accumulate surplus income during a minority), in subsection (1)—
 
 - (a) in paragraph (i) for “as may, in all the circumstances, be reasonable,” substitute “ as the trustees may think fit, ” and
 - (b) omit the words from “Provided that” to the end.
 
-## 9. Power of advancement[^key-2a2508cb3870b66339453ff65c348f28]
+## 9. Power of advancement[^c-2a2508cb3870b66339453ff65c348f28]
 
 (1) Section 32 of the Trustee Act 1925 (power of advancement) is amended as follows.
 
@@ -157,7 +157,7 @@ In section 31 of the Trustee Act 1925 (power to apply income for maintenance and
 
 > (1A) In exercise of the foregoing power trustees may pay, transfer or apply money or other property on the basis (express or implied) that it shall be treated as a proportionate part of the capital out of which it was paid, transferred or applied, for the purpose of bringing it into account in accordance with proviso (b) to subsection (1) of this section.
 
-## 10. Application of sections 8 and 9[^key-f78a4c8db2739e914002778cb13e4013]
+## 10. Application of sections 8 and 9[^c-f78a4c8db2739e914002778cb13e4013]
 
 (1) Section 8 applies in accordance with subsections (4) and (5).
 
@@ -169,7 +169,7 @@ In section 31 of the Trustee Act 1925 (power to apply income for maintenance and
 
 (5) Those provisions also apply in relation to an interest under a trust (not falling within subsection (4)) if the interest is created or arises as a result of the exercise, after the coming into force of those provisions, of any power.
 
-## 11. Minor and consequential amendments[^key-6cbbb5182166ccdfe6ed302bfb390bcd]
+## 11. Minor and consequential amendments[^c-6cbbb5182166ccdfe6ed302bfb390bcd]
 
 Schedule 4 makes minor and consequential amendments.
 
@@ -189,7 +189,7 @@ Schedule 4 makes minor and consequential amendments.
 
 SCHEDULES
 
-## SCHEDULE 1 — Determination of the fixed net sum[^key-fb375f11e38dddebb204256401a17546]
+## SCHEDULE 1 — Determination of the fixed net sum[^c-fb375f11e38dddebb204256401a17546]
 
 Section 2
 
@@ -278,11 +278,11 @@ The following is the Schedule inserted after the First Schedule to the Administr
 
 Section 6
 
-**1.**[^key-0939fec71ce147b33272dbe5e0d7bc7a] The Inheritance (Provision for Family and Dependants) Act 1975 is amended as follows.
+**1.**[^c-0939fec71ce147b33272dbe5e0d7bc7a] The Inheritance (Provision for Family and Dependants) Act 1975 is amended as follows.
 
 ### Children of the family
 
-**2.**[^key-c16c698daea2f2eb540861cb2f2d3cc0] (1) Section 1 (application for financial provision from deceased's estate) is amended as follows.
+**2.**[^c-c16c698daea2f2eb540861cb2f2d3cc0] (1) Section 1 (application for financial provision from deceased's estate) is amended as follows.
 
 (2) In subsection (1)(d), for the words from “who” to the end substitute “ who in relation to any marriage or civil partnership to which the deceased was at any time a party, or otherwise in relation to any family in which the deceased at any time stood in the role of a parent, was treated by the deceased as a child of the family; ”.
 
@@ -292,13 +292,13 @@ Section 6
 
 ### Maintenance
 
-**3.**[^key-9536f6242e43ce3c49d91e0e903858f6] In section 1 (application for financial provision from deceased's estate), for subsection (3) substitute—
+**3.**[^c-9536f6242e43ce3c49d91e0e903858f6] In section 1 (application for financial provision from deceased's estate), for subsection (3) substitute—
 
 > (3) For the purposes of subsection (1)(e) above, a person is to be treated as being maintained by the deceased (either wholly or partly, as the case may be) only if the deceased was making a substantial contribution in money or money's worth towards the reasonable needs of that person, other than a contribution made for full valuable consideration pursuant to an arrangement of a commercial nature.
 
 ### Powers of court
 
-**4.**[^key-f397ed8e7329fe2dfd215f9401ece93a] (1) Section 2 (powers of court to make orders) is amended as follows.
+**4.**[^c-f397ed8e7329fe2dfd215f9401ece93a] (1) Section 2 (powers of court to make orders) is amended as follows.
 
 (2) In subsection (1), at the end insert—
 
@@ -310,7 +310,7 @@ Section 6
 
 ### Matters to which court is to have regard
 
-**5.**[^key-c857d0a0f174b9f2de5ba185aac698bc] (1) Section 3 (matters to which court is to have regard when exercising powers under section 2) is amended as follows.
+**5.**[^c-c857d0a0f174b9f2de5ba185aac698bc] (1) Section 3 (matters to which court is to have regard when exercising powers under section 2) is amended as follows.
 
 (2) In subsection (2), at the end of each of the final two sentences insert “ ; but nothing requires the court to treat such provision as setting an upper or lower limit on the provision which may be made by an order under section 2. ”
 
@@ -333,11 +333,11 @@ Section 6
 
 ### Time limit for applications
 
-**6.**[^key-1b87b8707e15ae9366962d2df0588f78] In section 4 (time-limit for applications), at the end insert “ (but nothing prevents the making of an application before such representation is first taken out) ”.
+**6.**[^c-1b87b8707e15ae9366962d2df0588f78] In section 4 (time-limit for applications), at the end insert “ (but nothing prevents the making of an application before such representation is first taken out) ”.
 
 ### Joint tenancies
 
-**7.**[^key-98832358f7e34914d15dd8cabe1eaa76] (1) Section 9 (property held on joint tenancy) is amended as follows.
+**7.**[^c-98832358f7e34914d15dd8cabe1eaa76] (1) Section 9 (property held on joint tenancy) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -352,7 +352,7 @@ Section 6
 
 Section 7
 
-**1.**[^key-e674a2e7e7f78c076f4fb93bdf7201b6] In section 31 of the Matrimonial Causes Act 1973 (variation, discharge, etc, of certain orders for financial relief), for subsection (9) substitute—
+**1.**[^c-e674a2e7e7f78c076f4fb93bdf7201b6] In section 31 of the Matrimonial Causes Act 1973 (variation, discharge, etc, of certain orders for financial relief), for subsection (9) substitute—
 
 > (9) The following are to be left out of account when considering for the purposes of subsection (6) above when representation was first taken out—
 >
@@ -363,7 +363,7 @@ Section 7
 >
 > (9A) A grant sealed under section 2 of the Colonial Probates Act 1892 counts as a grant made in the United Kingdom for the purposes of subsection (9) above, but is to be taken as dated on the date of sealing.
 
-**2.**[^key-42b82908e8eaf21fc06c2776f7ecfc8d] For section 23 of the Inheritance (Provision for Family and Dependants) Act 1975 (determination of date on which representation was first taken out) substitute—
+**2.**[^c-42b82908e8eaf21fc06c2776f7ecfc8d] For section 23 of the Inheritance (Provision for Family and Dependants) Act 1975 (determination of date on which representation was first taken out) substitute—
 
 > **23. Determination of date on which representation was first taken out**
 >
@@ -376,7 +376,7 @@ Section 7
 >
 > (2) A grant sealed under section 2 of the Colonial Probates Act 1892 counts as a grant made in the United Kingdom for the purposes of this section, but is to be taken as dated on the date of sealing.
 
-**3.**[^key-b58d20b1f7fbd8ef1ed3d4ce8df49010] In section 20 of the Administration of Justice Act 1982 (rectification of wills), for subsection (4) substitute—
+**3.**[^c-b58d20b1f7fbd8ef1ed3d4ce8df49010] In section 20 of the Administration of Justice Act 1982 (rectification of wills), for subsection (4) substitute—
 
 > (4) The following are to be left out of account when considering for the purposes of this section when representation with respect to the estate of a deceased person was first taken out—
 >
@@ -387,7 +387,7 @@ Section 7
 >
 > (5) A grant sealed under section 2 of the Colonial Probates Act 1892 counts as a grant made in the United Kingdom for the purposes of subsection (4), but is to be taken as dated on the date of sealing.
 
-**4.**[^key-bb54d89de7debf03029ab36a773b4b21] (1) Schedule 1 to the Children Act 1989 (financial provision for children) is amended as follows.
+**4.**[^c-bb54d89de7debf03029ab36a773b4b21] (1) Schedule 1 to the Children Act 1989 (financial provision for children) is amended as follows.
 
 (2) In paragraph 7 (variation of orders for secured periodical payments after death of parent), for sub-paragraph (6) substitute—
 
@@ -411,7 +411,7 @@ Section 7
 >
 > (4A) A grant sealed under section 2 of the Colonial Probates Act 1892 counts as a grant made in the United Kingdom for the purposes of sub-paragraph (4), but is to be taken as dated on the date of sealing.
 
-**5.**[^key-536dd7a71a360480f43a86ef345f2003] In Schedule 5 to the Civil Partnership Act 2004, in paragraph 60 (variation of secured periodical payments order where person liable has died), for sub-paragraph (6) substitute—
+**5.**[^c-536dd7a71a360480f43a86ef345f2003] In Schedule 5 to the Civil Partnership Act 2004, in paragraph 60 (variation of secured periodical payments order where person liable has died), for sub-paragraph (6) substitute—
 
 > (6) The following are to be left out of account when considering for the purposes of sub-paragraph (3) when representation was first taken out—
 >
@@ -428,7 +428,7 @@ Section 11
 
 ### Administration of Estates Act 1925
 
-**1.**[^key-c77eec4a60f5276308463791a9f837bc] (1) The Administration of Estates Act 1925 is amended as follows.
+**1.**[^c-c77eec4a60f5276308463791a9f837bc] (1) The Administration of Estates Act 1925 is amended as follows.
 
 (2) Omit section 46(3) (which relates to deaths in circumstances where it is uncertain which of two people survived the other).
 
@@ -443,7 +443,7 @@ Section 11
 
 ### Intestates' Estates Act 1952
 
-**2.**[^key-79749e1deaaf40ed0d2d93a513f6b31f] (1) Schedule 2 to the Intestates' Estates Act 1952 (rights of surviving spouse or civil partner as respects home) is amended as follows.
+**2.**[^c-79749e1deaaf40ed0d2d93a513f6b31f] (1) Schedule 2 to the Intestates' Estates Act 1952 (rights of surviving spouse or civil partner as respects home) is amended as follows.
 
 (2) Omit paragraph 1(4).
 
@@ -466,69 +466,69 @@ Section 11
 
 ### Administration of Justice Act 1977
 
-**3.**[^key-6c8605b33d8004c7b1ee13faa346db61] In section 28 of the Administration of Justice Act 1977, omit subsection (1).
+**3.**[^c-6c8605b33d8004c7b1ee13faa346db61] In section 28 of the Administration of Justice Act 1977, omit subsection (1).
 
 ### Inheritance Tax Act 1984
 
-**4.**[^key-003e2e624da5af14fba09a01a1a90533] In the Inheritance Tax Act 1984—
+**4.**[^c-003e2e624da5af14fba09a01a1a90533] In the Inheritance Tax Act 1984—
 
 - (a) in section 17 (changes in distribution of deceased's estate, etc.), omit paragraph (c);
 - (b) omit section 145 (redemption of surviving spouse's or civil partner's life interest).
 
 ## Annotations
 
-[^key-08f53678357755cae61d689a3588067a]: Commencement: S. 1 in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-08f53678357755cae61d689a3588067a]: Commencement: S. 1 in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-415a0a762deeb357637addf7c563cca5]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/16/section/2) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-415a0a762deeb357637addf7c563cca5]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/16/section/2) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-f4f8205c5b677cc303c11245a5cf7696]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/16/section/3) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-f4f8205c5b677cc303c11245a5cf7696]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2014/16/section/3) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-566ffb3f2c452dd67207f3bb1cb0c4fd]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/16/section/4) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-566ffb3f2c452dd67207f3bb1cb0c4fd]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/16/section/4) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-d0a42178d20a236b8f68aed27a9c8a91]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/16/section/5) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-d0a42178d20a236b8f68aed27a9c8a91]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/16/section/5) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-f04b4830b9220f5c137946104e8ad789]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/16/section/6) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-f04b4830b9220f5c137946104e8ad789]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/16/section/6) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-b0ec2f3b494bc7d5eddf6cb4deb81f0f]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/16/section/7) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-b0ec2f3b494bc7d5eddf6cb4deb81f0f]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2014/16/section/7) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-0d84424bd4b7e5435bef5e4941bf4b8f]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/16/section/8) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-0d84424bd4b7e5435bef5e4941bf4b8f]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/16/section/8) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-2a2508cb3870b66339453ff65c348f28]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/16/section/9) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-2a2508cb3870b66339453ff65c348f28]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/16/section/9) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-f78a4c8db2739e914002778cb13e4013]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/16/section/10) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-f78a4c8db2739e914002778cb13e4013]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/16/section/10) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-6cbbb5182166ccdfe6ed302bfb390bcd]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/16/section/11) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-6cbbb5182166ccdfe6ed302bfb390bcd]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/16/section/11) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-fb375f11e38dddebb204256401a17546]: Commencement: Sch. 1 in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-fb375f11e38dddebb204256401a17546]: Commencement: Sch. 1 in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-0939fec71ce147b33272dbe5e0d7bc7a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/1) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-0939fec71ce147b33272dbe5e0d7bc7a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/1) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-c16c698daea2f2eb540861cb2f2d3cc0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/2) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-c16c698daea2f2eb540861cb2f2d3cc0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/2) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-9536f6242e43ce3c49d91e0e903858f6]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/3) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-9536f6242e43ce3c49d91e0e903858f6]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/3) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-f397ed8e7329fe2dfd215f9401ece93a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/4) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-f397ed8e7329fe2dfd215f9401ece93a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/4) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-c857d0a0f174b9f2de5ba185aac698bc]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/5) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-c857d0a0f174b9f2de5ba185aac698bc]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/5) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-1b87b8707e15ae9366962d2df0588f78]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/6) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-1b87b8707e15ae9366962d2df0588f78]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/6) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-98832358f7e34914d15dd8cabe1eaa76]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/7) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-98832358f7e34914d15dd8cabe1eaa76]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2014/16/schedule/2/paragraph/7) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-e674a2e7e7f78c076f4fb93bdf7201b6]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2014/16/schedule/3/paragraph/1) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-e674a2e7e7f78c076f4fb93bdf7201b6]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2014/16/schedule/3/paragraph/1) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-42b82908e8eaf21fc06c2776f7ecfc8d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2014/16/schedule/3/paragraph/2) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-42b82908e8eaf21fc06c2776f7ecfc8d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2014/16/schedule/3/paragraph/2) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-b58d20b1f7fbd8ef1ed3d4ce8df49010]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2014/16/schedule/3/paragraph/3) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-b58d20b1f7fbd8ef1ed3d4ce8df49010]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2014/16/schedule/3/paragraph/3) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-bb54d89de7debf03029ab36a773b4b21]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2014/16/schedule/3/paragraph/4) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-bb54d89de7debf03029ab36a773b4b21]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2014/16/schedule/3/paragraph/4) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-536dd7a71a360480f43a86ef345f2003]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2014/16/schedule/3/paragraph/5) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-536dd7a71a360480f43a86ef345f2003]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2014/16/schedule/3/paragraph/5) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-c77eec4a60f5276308463791a9f837bc]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/1) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-c77eec4a60f5276308463791a9f837bc]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/1) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-79749e1deaaf40ed0d2d93a513f6b31f]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/2) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-79749e1deaaf40ed0d2d93a513f6b31f]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/2) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-6c8605b33d8004c7b1ee13faa346db61]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/3) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-6c8605b33d8004c7b1ee13faa346db61]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/3) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-003e2e624da5af14fba09a01a1a90533]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/4) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-003e2e624da5af14fba09a01a1a90533]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/4) in force at 1.10.2014 by [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)

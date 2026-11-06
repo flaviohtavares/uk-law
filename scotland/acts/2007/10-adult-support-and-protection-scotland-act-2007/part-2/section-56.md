@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Orders about incapable adults' nearest relatives[^key-d6bb97daef4f541dce036aaba52c3ae9]
+## 56. Orders about incapable adults' nearest relatives[^c-d6bb97daef4f541dce036aaba52c3ae9]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6bb97daef4f541dce036aaba52c3ae9]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2007/10/section/56) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)
+[^c-d6bb97daef4f541dce036aaba52c3ae9]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2007/10/section/56) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)

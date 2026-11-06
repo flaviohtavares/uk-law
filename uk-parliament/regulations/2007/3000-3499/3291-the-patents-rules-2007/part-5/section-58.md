@@ -32,14 +32,14 @@ summary: ''
 
 to the central industrial property office of any contracting state designated in the application.
 
-(3) The period prescribed for the purposes of section 81(2)(b)(i) is three months beginning immediately after[^key-e41560f6a95946d0814cefaa1faecf83] the date of the notification mentioned in paragraph (1)(b).
+(3) The period prescribed for the purposes of section 81(2)(b)(i) is three months beginning immediately after[^c-e41560f6a95946d0814cefaa1faecf83] the date of the notification mentioned in paragraph (1)(b).
 
-(4) Where a request has been made under section 81(2)(b)(i), the period prescribed for the purposes of sections 13(2), 15(10)(d) and 81(2)(c) is two months beginning immediately after[^key-2421357da42fbc009debaf932f43bbfc] the date on which the comptroller received that request.
+(4) Where a request has been made under section 81(2)(b)(i), the period prescribed for the purposes of sections 13(2), 15(10)(d) and 81(2)(c) is two months beginning immediately after[^c-2421357da42fbc009debaf932f43bbfc] the date on which the comptroller received that request.
 
 (5) In paragraph (2) “**contracting state**” means a country which is a party to the European Patent Convention.
 
 ## Annotations
 
-[^key-e41560f6a95946d0814cefaa1faecf83]: Textual amendment: Words in [rule 58(3)](https://www.legislation.gov.uk/uksi/2007/3291/rule/58/3) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-e41560f6a95946d0814cefaa1faecf83]: Textual amendment: Words in [rule 58(3)](https://www.legislation.gov.uk/uksi/2007/3291/rule/58/3) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
 
-[^key-2421357da42fbc009debaf932f43bbfc]: Textual amendment: Words in [rule 58(4)](https://www.legislation.gov.uk/uksi/2007/3291/rule/58/4) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-2421357da42fbc009debaf932f43bbfc]: Textual amendment: Words in [rule 58(4)](https://www.legislation.gov.uk/uksi/2007/3291/rule/58/4) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

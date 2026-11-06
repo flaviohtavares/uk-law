@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Benefit of the Order[^key-9d2e3ab2573b0b0a712b710314a0fe1e]
+## 35. Benefit of the Order[^c-9d2e3ab2573b0b0a712b710314a0fe1e]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d2e3ab2573b0b0a712b710314a0fe1e]: Commencement: Art. 35 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-9d2e3ab2573b0b0a712b710314a0fe1e]: Commencement: Art. 35 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)

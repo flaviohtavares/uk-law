@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107DZA. Limitation on delegation of mayoral functions[^key-09dd2f42f55bda26b1fd301acde696e3][^key-f78856540a0ef1754d6c0a1da23b73a9]
+## 107DZA. Limitation on delegation of mayoral functions[^c-09dd2f42f55bda26b1fd301acde696e3][^c-f78856540a0ef1754d6c0a1da23b73a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-09dd2f42f55bda26b1fd301acde696e3]: Textual amendment: S. 107DZA inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 25 para. 9(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/9/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-09dd2f42f55bda26b1fd301acde696e3]: Textual amendment: S. 107DZA inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 25 para. 9(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/25/paragraph/9/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-f78856540a0ef1754d6c0a1da23b73a9]: Textual amendment: Ss. 107D-107F inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/4/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-f78856540a0ef1754d6c0a1da23b73a9]: Textual amendment: Ss. 107D-107F inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/1/section/4/1), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)

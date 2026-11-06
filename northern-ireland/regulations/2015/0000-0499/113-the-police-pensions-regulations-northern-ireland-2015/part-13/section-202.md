@@ -40,7 +40,7 @@ summary: ''
 (5) In this regulation—
 
 - “**the commutation provisions**” means the provisions permitting the commutation of pensions set out in—
-  - (a) [^key-3df3713ae40bb30178a1be190a14c691]...
+  - (a) [^c-3df3713ae40bb30178a1be190a14c691]...
   - (a) [^M_F_24e39c81-ff9e-4aae-9b98-ddd423bf2fad] regulation 2 of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland)1997 [^c22512391];
   - (b) [^M_F_24e39c81-ff9e-4aae-9b98-ddd423bf2fad]paragraph 7 of Schedule 29 (authorised lump sums – supplementary) to the 2004 Act (which defines trivial commutation lump sums for the purposes of Part 4 of that Act [^c22512401]) and, in relation to a pension payable under Part 9 (death benefits), paragraph 20 of that Schedule (which defines trivial commutation lump sum death benefit for the purposes of Part 4 of that Act) [^c22512411]; and
   - (c) [^M_F_24e39c81-ff9e-4aae-9b98-ddd423bf2fad]regulation 3(2)(b) of the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland)2000 [^c22512421]
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3df3713ae40bb30178a1be190a14c691]: Textual amendment: [Reg. 202(5)(a)](https://www.legislation.gov.uk/nisr/2015/113/regulation/202/5/a) and words omitted (with effect in accordance with reg. 2(d) of the amending Rule) by virtue of [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [37(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/37/2)
+[^c-3df3713ae40bb30178a1be190a14c691]: Textual amendment: [Reg. 202(5)(a)](https://www.legislation.gov.uk/nisr/2015/113/regulation/202/5/a) and words omitted (with effect in accordance with reg. 2(d) of the amending Rule) by virtue of [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [37(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/37/2)
 
 [^M_F_24e39c81-ff9e-4aae-9b98-ddd423bf2fad]: Textual amendment: Word in [reg. 202](https://www.legislation.gov.uk/nisr/2015/113/regulation/202) substituted (with effect in accordance with reg. 2(d) of the amending Rule) by virtue of[The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [37(3)](https://www.legislation.gov.uk/nisr/2024/38/regulation/37/3)
 

@@ -54,7 +54,7 @@ the occupier shall comply with the requirement; and an occupier may, after such 
     - (A) setting out the grounds for the rejection, in whole or in part, of the objection;
     - (B) requiring him to carry out the works specified therein (being either the works required by the notice under paragraph 4 or such variation of those works as the Ministry considers fit, having regard to the objection) within such time as may be specified in the notice; and
     - (C) stating his right of appeal under sub-paragraph ( *d*);
-- (d) if an objector on whom a notice has been served under sub-paragraph ( *c*)(ii) gives to the Ministry, within twenty-one days of that service, a written statement of his intention to appeal and specifies in that statement the ground on which the appeal is to be brought, the objector may appeal to the county court [^key-cdf89efd3ecbbf20c08e359b8bb210a9]..., on any ground specified in the objection mentioned in sub-paragraph ( *a*), and the court, on the hearing of the appeal, may confirm or annul the notice, or vary any requirement thereof.
+- (d) if an objector on whom a notice has been served under sub-paragraph ( *c*)(ii) gives to the Ministry, within twenty-one days of that service, a written statement of his intention to appeal and specifies in that statement the ground on which the appeal is to be brought, the objector may appeal to the county court [^c-cdf89efd3ecbbf20c08e359b8bb210a9]..., on any ground specified in the objection mentioned in sub-paragraph ( *a*), and the court, on the hearing of the appeal, may confirm or annul the notice, or vary any requirement thereof.
 
 **7.** If, within the specified time, an occupier of land has failed to comply with a notice under paragraph 4 or 6( *c*)(ii)—
 
@@ -90,7 +90,7 @@ unless, before any such expiration, the notice has been withdrawn by the Ministr
 
 ## Annotations
 
-[^key-cdf89efd3ecbbf20c08e359b8bb210a9]: Textual amendment: Words in Sch. 5 para. 6(d) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 68](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/68) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-cdf89efd3ecbbf20c08e359b8bb210a9]: Textual amendment: Words in Sch. 5 para. 6(d) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 68](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/68) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c17525651]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/nisi/1984)
 

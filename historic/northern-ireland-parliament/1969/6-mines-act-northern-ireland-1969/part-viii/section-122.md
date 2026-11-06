@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 122. Variation, revocation, &c., of regulations.[^key-aae1dfac5e4fbe1712428e982a538232]
+## 122. Variation, revocation, &c., of regulations.[^c-aae1dfac5e4fbe1712428e982a538232]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aae1dfac5e4fbe1712428e982a538232]: Textual amendment: [S. 122](https://www.legislation.gov.uk/apni/1969/6/section/122) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-aae1dfac5e4fbe1712428e982a538232]: Textual amendment: [S. 122](https://www.legislation.gov.uk/apni/1969/6/section/122) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

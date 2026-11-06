@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250C. Drinking establishment entry prohibition condition[^key-e8d26d68cb405822e18fb61e0522e6ab]
+## 250C. Drinking establishment entry prohibition condition[^c-e8d26d68cb405822e18fb61e0522e6ab]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8d26d68cb405822e18fb61e0522e6ab]: Textual amendment: S. 250C inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 27(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/6), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 27(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/9)); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/i) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-e8d26d68cb405822e18fb61e0522e6ab]: Textual amendment: S. 250C inserted (1.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 27(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/6), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 27(9)](https://www.legislation.gov.uk/ukpga/2026/2/section/27/9)); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/i) (as amended by [S.I. 2026/948](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))

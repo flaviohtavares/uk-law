@@ -60,9 +60,9 @@ And whereas insofar as these Regulations are made in exercise of powers conferre
 
 Now, therefore, the Secretary of State for Transport, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and by sections 47 and 85(1)(a) and (b) and (3) and (5) of the Merchant Shipping Act 1995 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-**1.**[^key-0c217acbee8f5bdcaa408cd175c0cdd5] These Regulations may be cited as the Merchant Shipping (Training, Certification and Safe Manning) (Amendment) Regulations 1997 and shall come into force on 1st September 1997.
+**1.**[^c-0c217acbee8f5bdcaa408cd175c0cdd5] These Regulations may be cited as the Merchant Shipping (Training, Certification and Safe Manning) (Amendment) Regulations 1997 and shall come into force on 1st September 1997.
 
-**2.**[^key-8776160693cab4a40c085de26ff5f558] The Merchant Shipping (Training and Certification) Regulations 1997[^f00004] shall be amended as follows—
+**2.**[^c-8776160693cab4a40c085de26ff5f558] The Merchant Shipping (Training and Certification) Regulations 1997[^f00004] shall be amended as follows—
 
 - (a) in regulation 2(1), after the definition of “IGC Code” the following definition shall be inserted:—
 
@@ -72,7 +72,7 @@ Now, therefore, the Secretary of State for Transport, in exercise of the powers 
 - (b) at the end of regulation 3(b), there shall be added “and which are less than 80 GT or under 24 metres in length”; and
 - (c) in regulation 5(4)(b), after “adaptation period” there shall be inserted “not exceeding 3 years”.
 
-**3.**[^key-9ad9dfc8b88af66d86761d42d0efb594] The Merchant Shipping (Safe Manning, Hours of Work and Watchkeeping) Regulations 1997[^f00006] shall be amended as follows—
+**3.**[^c-9ad9dfc8b88af66d86761d42d0efb594] The Merchant Shipping (Safe Manning, Hours of Work and Watchkeeping) Regulations 1997[^f00006] shall be amended as follows—
 
 - (a) in regulation 2(1), after the definition of “hazardous cargo” the following definition shall be inserted:
 
@@ -118,14 +118,14 @@ In the Merchant Shipping (Safe Manning, Hours of Work and Watchkeeping) Regulati
 
 [^f00003]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) section 8.
 
-[^key-0c217acbee8f5bdcaa408cd175c0cdd5]: Commencement: Reg. 1 in force at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1911/regulation/1)
+[^c-0c217acbee8f5bdcaa408cd175c0cdd5]: Commencement: Reg. 1 in force at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1911/regulation/1)
 
-[^key-8776160693cab4a40c085de26ff5f558]: Commencement: Reg. 2 in force at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1911/regulation/1)
+[^c-8776160693cab4a40c085de26ff5f558]: Commencement: Reg. 2 in force at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1911/regulation/1)
 
 [^f00004]: Footnote: S.I. [1997/348](https://www.legislation.gov.uk/uksi/1997/348).
 
 [^f00005]: Footnote: S.I. [1997/1510](https://www.legislation.gov.uk/uksi/1997/1510).
 
-[^key-9ad9dfc8b88af66d86761d42d0efb594]: Commencement: Reg. 3 in force at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1911/regulation/1)
+[^c-9ad9dfc8b88af66d86761d42d0efb594]: Commencement: Reg. 3 in force at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/1911/regulation/1)
 
 [^f00006]: Footnote: S.I. [1997/1320](https://www.legislation.gov.uk/uksi/1997/1320).

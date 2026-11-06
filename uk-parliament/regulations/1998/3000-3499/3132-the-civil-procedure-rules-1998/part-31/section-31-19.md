@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.19. Claim to withhold inspection or disclosure of a document[^key-226d9f4d275d4f60194ace411249ac89]
+## 31.19. Claim to withhold inspection or disclosure of a document[^c-226d9f4d275d4f60194ace411249ac89]
 
 *Extent: E+W*
 
@@ -27,10 +27,10 @@ summary: ''
 - (a) must not be served on any other person; and
 - (b) must not be open to inspection by any person.
 
-(3) A person who wishes to claim that they have[^key-5b8f3923311fd06b681f71c1aa36cc30] a right or a duty to withhold inspection of a document, or part of a document, must state in writing—
+(3) A person who wishes to claim that they have[^c-5b8f3923311fd06b681f71c1aa36cc30] a right or a duty to withhold inspection of a document, or part of a document, must state in writing—
 
 - (a) that they have such a right or duty; and
-- (b) the grounds on which they claim[^key-53b822bc75705e258480bca7f3697b80] that right or duty.
+- (b) the grounds on which they claim[^c-53b822bc75705e258480bca7f3697b80] that right or duty.
 
 (4) The statement referred to in paragraph (3) must be made—
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-226d9f4d275d4f60194ace411249ac89]: Commencement: [Rule 31.19](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.19) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-226d9f4d275d4f60194ace411249ac89]: Commencement: [Rule 31.19](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.19) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-5b8f3923311fd06b681f71c1aa36cc30]: Textual amendment: Words in [rule 31.19(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.19/3) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(12)(a)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/12/a)
+[^c-5b8f3923311fd06b681f71c1aa36cc30]: Textual amendment: Words in [rule 31.19(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.19/3) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(12)(a)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/12/a)
 
-[^key-53b822bc75705e258480bca7f3697b80]: Textual amendment: Words in [rule 31.19(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.19/3) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(12)(b)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/12/b)
+[^c-53b822bc75705e258480bca7f3697b80]: Textual amendment: Words in [rule 31.19(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.19/3) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(12)(b)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/12/b)

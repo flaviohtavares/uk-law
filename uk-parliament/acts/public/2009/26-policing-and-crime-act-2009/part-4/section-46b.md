@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46B. Appeals against decisions of youth courts[^key-cf003a9859ccfc1a4f5e08eb648712d8]
+## 46B. Appeals against decisions of youth courts[^c-cf003a9859ccfc1a4f5e08eb648712d8]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf003a9859ccfc1a4f5e08eb648712d8]: Textual amendment: S. 46B and cross-heading inserted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/2) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)
+[^c-cf003a9859ccfc1a4f5e08eb648712d8]: Textual amendment: S. 46B and cross-heading inserted (1.6.2015) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/12/paragraph/2) (with [s. 18(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/18/6)); [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/813/article/3/c)

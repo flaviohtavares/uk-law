@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Requirements, appeals, etc.[^key-439d91ad79c3fd5093bda6b442681fb4]
+## 45. Requirements, appeals, etc.[^c-439d91ad79c3fd5093bda6b442681fb4]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-439d91ad79c3fd5093bda6b442681fb4]: Commencement: Art. 45 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-439d91ad79c3fd5093bda6b442681fb4]: Commencement: Art. 45 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-The Taxis (Enniskillen) Bye-Laws (Northern Ireland) 2006 (revoked)[^key-3236a50502e030ec894b89ada6591092]
+The Taxis (Enniskillen) Bye-Laws (Northern Ireland) 2006 (revoked)[^c-3236a50502e030ec894b89ada6591092]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 13th April 2006
 
-[^key-3236a50502e030ec894b89ada6591092]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3236a50502e030ec894b89ada6591092]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3236a50502e030ec894b89ada6591092]
+## 1. Citation, commencement and interpretation[^c-3236a50502e030ec894b89ada6591092]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Location and number of taxis[^key-3236a50502e030ec894b89ada6591092]
+## 2. Location and number of taxis[^c-3236a50502e030ec894b89ada6591092]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use of stands or starting places[^key-3236a50502e030ec894b89ada6591092]
+## 3. Use of stands or starting places[^c-3236a50502e030ec894b89ada6591092]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3236a50502e030ec894b89ada6591092]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3236a50502e030ec894b89ada6591092]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-3236a50502e030ec894b89ada6591092]
+## SCHEDULE[^c-3236a50502e030ec894b89ada6591092]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3236a50502e030ec894b89ada6591092]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3236a50502e030ec894b89ada6591092]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3236a50502e030ec894b89ada6591092]: Textual amendment: Bye-Laws revoked (25.7.2008) by [The Taxis (Enniskillen) (Revocation) Bye-Laws (Northern Ireland) 2008 (S.R. 2008/257)](https://www.legislation.gov.uk/nisr/2008/257)
+[^c-3236a50502e030ec894b89ada6591092]: Textual amendment: Bye-Laws revoked (25.7.2008) by [The Taxis (Enniskillen) (Revocation) Bye-Laws (Northern Ireland) 2008 (S.R. 2008/257)](https://www.legislation.gov.uk/nisr/2008/257)

@@ -115,7 +115,7 @@ Administration of Justice Act 1964
 
 #### 26. The Inner and Middle Temples.
 
-It is hereby declared that the Inner Temple and the Middle Temple are included in the City of London, and in no other area, for the purposes of the law relating to [^key-40e66441a2f440285ee8523582a6183c]... [^c20820551]. . . justices of peace, [^c6552751]. . ., magistrates’ courts, [^c6552761]. . . sheriffs, juries and matters connected therewith.
+It is hereby declared that the Inner Temple and the Middle Temple are included in the City of London, and in no other area, for the purposes of the law relating to [^c-40e66441a2f440285ee8523582a6183c]... [^c20820551]. . . justices of peace, [^c6552751]. . ., magistrates’ courts, [^c6552761]. . . sheriffs, juries and matters connected therewith.
 
 ## Part II
 
@@ -412,7 +412,7 @@ Section 39.
 
 [^c6552721]: Textual amendment: [S. 25(2)](https://www.legislation.gov.uk/ukpga/1964/42/section/25/2) repealed by [Administration of Justice Act 1973 (c. 15, SIF 37)](https://www.legislation.gov.uk/ukpga/1973/15), [ss. 19(1)](https://www.legislation.gov.uk/ukpga/1973/15/section/19/1), [20(6)](https://www.legislation.gov.uk/ukpga/1973/15/section/20/6), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1973/15/schedule/5/part/I)
 
-[^key-40e66441a2f440285ee8523582a6183c]: Textual amendment: Words in [s. 26](https://www.legislation.gov.uk/ukpga/1964/42/section/26) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 55](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/55); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-40e66441a2f440285ee8523582a6183c]: Textual amendment: Words in [s. 26](https://www.legislation.gov.uk/ukpga/1964/42/section/26) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 55](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/55); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c20820551]: Textual amendment: Words in s. 26 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1/3), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 118](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/118), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y/aa)
 

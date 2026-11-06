@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Interim custody orders: validity[^key-da89c695b5bd521a821641ebcf0db8dc]
+## 46. Interim custody orders: validity[^c-da89c695b5bd521a821641ebcf0db8dc]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da89c695b5bd521a821641ebcf0db8dc]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2023/41/section/46) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)
+[^c-da89c695b5bd521a821641ebcf0db8dc]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2023/41/section/46) in force at 18.11.2023, see [s. 63(2)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/a)

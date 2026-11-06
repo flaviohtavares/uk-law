@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**100.**[^key-cd48a15db3f829f0c5c9b3f67ed549f0] In rules 39(1) and 41, for “a family proceedings court or youth court” substitute “a youth court or as a judge of the family court”.
+**100.**[^c-cd48a15db3f829f0c5c9b3f67ed549f0] In rules 39(1) and 41, for “a family proceedings court or youth court” substitute “a youth court or as a judge of the family court”.
 
 ## Annotations
 
-[^key-cd48a15db3f829f0c5c9b3f67ed549f0]: Commencement: Art. 100 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-cd48a15db3f829f0c5c9b3f67ed549f0]: Commencement: Art. 100 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

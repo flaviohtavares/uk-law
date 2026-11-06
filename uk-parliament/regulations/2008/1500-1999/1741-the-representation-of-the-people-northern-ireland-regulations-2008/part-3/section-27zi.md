@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27ZI. Meaning of qualifying attestor[^key-13496d177ea77ed609b4df36a68149d7]
+## 27ZI. Meaning of qualifying attestor[^c-13496d177ea77ed609b4df36a68149d7]
 
 *Extent: N.I.*
 
@@ -56,7 +56,7 @@ summary: ''
 
 ## Annotations
 
-[^key-13496d177ea77ed609b4df36a68149d7]: Textual amendment: [Regs. 27ZA-27ZI](https://www.legislation.gov.uk/uksi/2008/1741/regulation/27ZA) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/43/regulation/14) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))
+[^c-13496d177ea77ed609b4df36a68149d7]: Textual amendment: [Regs. 27ZA-27ZI](https://www.legislation.gov.uk/uksi/2008/1741/regulation/27ZA) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/43/regulation/14) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))
 
 [^f00038]: Footnote: [S.I.1986/594 (N.I.3)](https://www.legislation.gov.uk/nisi/1986/594).
 

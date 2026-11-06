@@ -29,8 +29,8 @@ Section 23.
 **1.**[^c13957041] (1)[^c13957051] In this Schedule—
 
 - “[^c13957061]**authorised insurer**” means—
-  - (i) a person who has permission under Part 4A[^key-bad31616e56a5f915bebffd3eed30413] of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance, [^key-cfa192f4b40ba9471de0266be34b2135]...
-  - (ii) [^key-cfa192f4b40ba9471de0266be34b2135]...
+  - (i) a person who has permission under Part 4A[^c-bad31616e56a5f915bebffd3eed30413] of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance, [^c-cfa192f4b40ba9471de0266be34b2135]...
+  - (ii) [^c-cfa192f4b40ba9471de0266be34b2135]...
 - “**contracted-out scheme**” has the same meaning as it has for the purposes of Part III of the Pension Schemes Act 1993[^c13957071] and, in relation to Northern Ireland, Part III of the Pension Schemes (Northern Ireland) Act 1993[^c13957081];
 - “**disregarded service**”, in relation to any member of a scheme, means any period of service in qualifying judicial office during which an election under, or an election having effect as if made under, section 13 of this Act is in force in respect of the qualifying member;
 - “**guaranteed minimum pension**” has the same meaning as in the the Pension Schemes Act 1993 and, in relation to Northern Ireland, Pension Schemes (Northern Ireland) Act 1993[^c13957101];
@@ -39,7 +39,7 @@ Section 23.
 - “**occupational pension scheme**” has the meaning given by section 1[^c13957111] of the Pension Schemes Act 1993 or, in relation to Northern Ireland, Article 2(2) of the Social Security Pensions (Northern Ireland) Order 1975;
 - “**personal pension scheme**” has the meaning given by section 1 of the Pension Schemes Act 1993[^c13957131] or, in relation to Northern Ireland, section 1 of the Pension Schemes (Northern Ireland) Act 1993[^c13957141];
 - “**prescribed**” means prescribed by regulations;
-- “protected rights” has the same meaning as in the Pension Schemes (Northern Ireland) Act 1993;[^key-eb921c20686587bd6bbaf983911078ca] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-2ee1d6cab3f5ee8cf5e932490cf969b1]
+- “protected rights” has the same meaning as in the Pension Schemes (Northern Ireland) Act 1993;[^c-eb921c20686587bd6bbaf983911078ca] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-2ee1d6cab3f5ee8cf5e932490cf969b1]
 - “**qualifying member**” means a person to whom Part II of this Schedule applies;
 - “**qualifying service**” means the service by reference to which a qualifying member’s entitlement to benefit under the scheme is calculated; and
 - “**scheme**” means the relevant occupational pension scheme constituted by Part I or section 19 of this Act.
@@ -56,7 +56,7 @@ Section 23.
 
 #### Other provisions about transfer values
 
-**3.** Chapter 1 of Part 4ZA of the Pension Schemes Act 1993[^key-52a783ee880a544fc25241a4d97d8eab] (transfer values) and Chapter 1 of Part 4ZA of the Pension Schemes (Northern Ireland) Act 1993[^key-e0d443bb63a9da0d543cb54ad82d78d6] (corresponding Northern Ireland provisions) shall not apply in relation to those schemes to which this Schedule applies.
+**3.** Chapter 1 of Part 4ZA of the Pension Schemes Act 1993[^c-52a783ee880a544fc25241a4d97d8eab] (transfer values) and Chapter 1 of Part 4ZA of the Pension Schemes (Northern Ireland) Act 1993[^c-e0d443bb63a9da0d543cb54ad82d78d6] (corresponding Northern Ireland provisions) shall not apply in relation to those schemes to which this Schedule applies.
 
 ### Part II — Transfers out
 
@@ -120,12 +120,12 @@ whichever is the later.
   - (ii) a personal pension scheme which is not an appropriate scheme under section 7 of the Pension Schemes Act 1993[^c13957331], section 3 of the Pension Schemes (Northern Ireland) Act 1993[^c13957341] or under any prescribed provision, or
   - (iii) a self-employed pension arrangement within the meaning of regulation 2D of the [^c13957351]Occupational Pension Schemes (Transfer Values) Regulations 1985, regulation 2D of the [^c13957361]Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1985, regulation 2A of the [^c13957371]Personal Pension Schemes (Transfer Values) Regulations 1987, regulation 2A of the [^c13957381]Personal Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1987 or any other prescribed provision,
 
-  are able or willing to accept a transfer payment only in respect of a qualifying member’s rights other than his accrued rights to a guaranteed minimum pension or his protected rights *(Extent: N.I.)* *(affected by repeal, see note)*[^key-7349805aede94bd5b2c0e34f7167d25c]; and
-- (b) the member has not required the Treasury to use the portion of his cash equivalent which represents a guaranteed minimum pension or protected rights *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ef6495a71832f077a7f6e71eb39d0b4f] in any of the ways specified in sub-paragraph (2) above,
+  are able or willing to accept a transfer payment only in respect of a qualifying member’s rights other than his accrued rights to a guaranteed minimum pension or his protected rights *(Extent: N.I.)* *(affected by repeal, see note)*[^c-7349805aede94bd5b2c0e34f7167d25c]; and
+- (b) the member has not required the Treasury to use the portion of his cash equivalent which represents a guaranteed minimum pension or protected rights *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ef6495a71832f077a7f6e71eb39d0b4f] in any of the ways specified in sub-paragraph (2) above,
 
 paragraph 5 above, this paragraph and paragraph 7 below are to be read as conferring on the member an option only in respect of the reduced cash equivalent.
 
-(7) In this paragraph “**reduced cash equivalent**” means a sum equal to the balance of the cash equivalent to which the qualifying member would be entitled if sub-paragraph (6) above did not apply, after deduction of an amount sufficient for the Treasury to meet its liability in respect of the member’s guaranteed minimum pension or protected rights or those *(Extent: N.I.)* *(affected by repeal, see note)*[^key-2bdb4bf23e16400db92c450f8440b777] that *(Extent: N.I.)* of his widow, or her widower.
+(7) In this paragraph “**reduced cash equivalent**” means a sum equal to the balance of the cash equivalent to which the qualifying member would be entitled if sub-paragraph (6) above did not apply, after deduction of an amount sufficient for the Treasury to meet its liability in respect of the member’s guaranteed minimum pension or protected rights or those *(Extent: N.I.)* *(affected by repeal, see note)*[^c-2bdb4bf23e16400db92c450f8440b777] that *(Extent: N.I.)* of his widow, or her widower.
 
 #### Calculation of cash equivalents
 
@@ -135,7 +135,7 @@ paragraph 5 above, this paragraph and paragraph 7 below are to be read as confer
 
 - (a) that in calculating cash equivalents account shall be taken—
   - (i) of any surrender or forfeiture of the whole or part of a qualifying member’s pension which occurs before the Treasury does what is needed to comply with the choice made by him in exercising his option;
-  - (ii) in a case where paragraph 6(6) above applies, of the need to deduct an appropriate amount to provide a guaranteed minimum pension or give effect to protected rights *(Extent: N.I.)* *(affected by repeal, see note)*[^key-041640e6ee4f017c607fad4a66f8ec65]; and
+  - (ii) in a case where paragraph 6(6) above applies, of the need to deduct an appropriate amount to provide a guaranteed minimum pension or give effect to protected rights *(Extent: N.I.)* *(affected by repeal, see note)*[^c-041640e6ee4f017c607fad4a66f8ec65]; and
 - (b) that in prescribed circumstances a qualifying member’s cash equivalent shall be increased or reduced.
 
 (3) Without prejudice to the generality of sub-paragraph (2) above, the circumstances that may be specified by virtue of paragraph (b) of that sub-paragraph include the length of time which elapses between the termination of a qualifying member’s qualifying service and his exercise of the option conferred by paragraph 6 above.
@@ -165,7 +165,7 @@ whichever is the later.
 - (a) a qualifying member has exercised his option, and
 - (b) the Treasury has done what is needed to comply with the choice made by him in exercising his option,
 
-the Treasury shall be discharged from any obligation to provide benefits to which the cash equivalent related except, in any such cases as are mentioned in paragraph 6(6) above, to the extent that an obligation to provide guaranteed minimum pensions or give effect to protected rights *(Extent: N.I.)* *(affected by repeal, see note)*[^key-fd4e1a302c2205dcd453c8f974163116] continues to subsist.
+the Treasury shall be discharged from any obligation to provide benefits to which the cash equivalent related except, in any such cases as are mentioned in paragraph 6(6) above, to the extent that an obligation to provide guaranteed minimum pensions or give effect to protected rights *(Extent: N.I.)* *(affected by repeal, see note)*[^c-fd4e1a302c2205dcd453c8f974163116] continues to subsist.
 
 (3) If the Treasury receives an application under this paragraph, it shall be its duty, subject to the following provisions of this paragraph, to do what is needed to comply with the choice made by the qualifying member in exercising his option—
 
@@ -237,9 +237,9 @@ whichever is the earlier.
 
 [^c13957061]: Textual amendment: Definition of “authorised insurer” in Sch. 2 para. 1(1) substituted (1.12.2001) for the definition of “authorised insurance company” by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [114(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/114/3)
 
-[^key-bad31616e56a5f915bebffd3eed30413]: Textual amendment: Words in Sch. 2 para. 1 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 75(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/75/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-bad31616e56a5f915bebffd3eed30413]: Textual amendment: Words in Sch. 2 para. 1 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 75(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/75/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-cfa192f4b40ba9471de0266be34b2135]: Textual amendment: Words in Sch. 2 para. 1(1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 33(3)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/33/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cfa192f4b40ba9471de0266be34b2135]: Textual amendment: Words in Sch. 2 para. 1(1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 33(3)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/33/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c13957071]: Textual amendment: Sch. 2 para. 1: words in the definition of “guaranteed minimum pension” substituted (7.2.1994) by [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), [s. 190](https://www.legislation.gov.uk/ukpga/1993/48/section/190), [Sch. 8 para. 46(5)(a)(i)](https://www.legislation.gov.uk/ukpga/1993/48/schedule/8/paragraph/46/5/a/i) (with [s. 6(8)](https://www.legislation.gov.uk/ukpga/1993/48/section/6/8)); [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
@@ -253,15 +253,15 @@ whichever is the earlier.
 
 [^c13957141]: Textual amendment: Sch. 2 para. 1: words in the definition of “personal pension scheme” substituted (7.2.1994) by [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49), [s. 184](https://www.legislation.gov.uk/ukpga/1993/49/section/184), [Sch. 7 para. 43(5)(a)(iii)](https://www.legislation.gov.uk/ukpga/1993/49/schedule/7/paragraph/43/5/a/iii); [S.R. 1994/17](https://www.legislation.gov.uk/nisr/1994/17)
 
-[^key-eb921c20686587bd6bbaf983911078ca]: Textual amendment: Words in Sch. 2 para. 1(1) substituted (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b), [4](https://www.legislation.gov.uk/uksi/2011/1730/article/4)
+[^c-eb921c20686587bd6bbaf983911078ca]: Textual amendment: Words in Sch. 2 para. 1(1) substituted (6.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b), [4](https://www.legislation.gov.uk/uksi/2011/1730/article/4)
 
-[^key-2ee1d6cab3f5ee8cf5e932490cf969b1]: Textual amendment: Words in Sch. 2 para. 1(1) omitted (N.I.) (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [3(a)](https://www.legislation.gov.uk/nisr/2012/124/article/3/a)
+[^c-2ee1d6cab3f5ee8cf5e932490cf969b1]: Textual amendment: Words in Sch. 2 para. 1(1) omitted (N.I.) (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [3(a)](https://www.legislation.gov.uk/nisr/2012/124/article/3/a)
 
 [^c13957171]: Textual amendment: Sch. 2 para. 1(2) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [114(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/114/4)
 
-[^key-52a783ee880a544fc25241a4d97d8eab]: Textual amendment: Words in Sch. 2 para. 3 substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/2) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-52a783ee880a544fc25241a4d97d8eab]: Textual amendment: Words in Sch. 2 para. 3 substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/2) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-e0d443bb63a9da0d543cb54ad82d78d6]: Textual amendment: Words in Sch. 2 para. 3 substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 48](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/48) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-e0d443bb63a9da0d543cb54ad82d78d6]: Textual amendment: Words in Sch. 2 para. 3 substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 48](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/48) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
 [^c13957321]: Textual amendment: Word in Sch. 2 para. 6(2)(c) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [114(5)](https://www.legislation.gov.uk/uksi/2001/3649/article/114/5)
 
@@ -277,14 +277,14 @@ whichever is the earlier.
 
 [^c13957381]: Marginal citation: S.R. (N.I.) [1987 No. 290](https://www.legislation.gov.uk/ukcm/1987/290).
 
-[^key-7349805aede94bd5b2c0e34f7167d25c]: Textual amendment: Words in [Sch. 2 para. 6(6)(a)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/2/paragraph/6/6/a) omitted (N.I.) (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [3(b)(i)](https://www.legislation.gov.uk/nisr/2012/124/article/3/b/i)
+[^c-7349805aede94bd5b2c0e34f7167d25c]: Textual amendment: Words in [Sch. 2 para. 6(6)(a)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/2/paragraph/6/6/a) omitted (N.I.) (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [3(b)(i)](https://www.legislation.gov.uk/nisr/2012/124/article/3/b/i)
 
-[^key-ef6495a71832f077a7f6e71eb39d0b4f]: Textual amendment: Words in Sch. 2 para. 6(6)(b) omitted (N.I.) (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [3(b)(ii)](https://www.legislation.gov.uk/nisr/2012/124/article/3/b/ii)
+[^c-ef6495a71832f077a7f6e71eb39d0b4f]: Textual amendment: Words in Sch. 2 para. 6(6)(b) omitted (N.I.) (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [3(b)(ii)](https://www.legislation.gov.uk/nisr/2012/124/article/3/b/ii)
 
-[^key-2bdb4bf23e16400db92c450f8440b777]: Textual amendment: Words in Sch. 2 para. 6(7) substituted (N.I.) (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [3(b)(iii)](https://www.legislation.gov.uk/nisr/2012/124/article/3/b/iii)
+[^c-2bdb4bf23e16400db92c450f8440b777]: Textual amendment: Words in Sch. 2 para. 6(7) substituted (N.I.) (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [3(b)(iii)](https://www.legislation.gov.uk/nisr/2012/124/article/3/b/iii)
 
-[^key-041640e6ee4f017c607fad4a66f8ec65]: Textual amendment: Words in [Sch. 2 para. 7(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/2/paragraph/7/2/a/ii) omitted (N.I.) (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [3(c)](https://www.legislation.gov.uk/nisr/2012/124/article/3/c)
+[^c-041640e6ee4f017c607fad4a66f8ec65]: Textual amendment: Words in [Sch. 2 para. 7(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/2/paragraph/7/2/a/ii) omitted (N.I.) (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [3(c)](https://www.legislation.gov.uk/nisr/2012/124/article/3/c)
 
-[^key-fd4e1a302c2205dcd453c8f974163116]: Textual amendment: Words in Sch. 2 para. 9(2) omitted (N.I.) (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [3(d)](https://www.legislation.gov.uk/nisr/2012/124/article/3/d)
+[^c-fd4e1a302c2205dcd453c8f974163116]: Textual amendment: Words in Sch. 2 para. 9(2) omitted (N.I.) (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [3(d)](https://www.legislation.gov.uk/nisr/2012/124/article/3/d)
 
 [^c13957391]: Textual amendment: [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/2/paragraph/11/3): Word in para. (a) of the definition of “qualifying scheme” substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [114(6)](https://www.legislation.gov.uk/uksi/2001/3649/article/114/6)

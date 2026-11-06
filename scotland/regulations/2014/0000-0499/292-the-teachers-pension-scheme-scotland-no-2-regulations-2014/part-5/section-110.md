@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Annual rate of ill-health pension[^key-0f3ac5d75dadd80095d03feeb96729f0]
+## 110. Annual rate of ill-health pension[^c-0f3ac5d75dadd80095d03feeb96729f0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The annual rate of ill-health pension payable to a person (P) is found by—
 
 ## Annotations
 
-[^key-0f3ac5d75dadd80095d03feeb96729f0]: Commencement: [Reg. 110](https://www.legislation.gov.uk/ssi/2014/292/regulation/110) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-0f3ac5d75dadd80095d03feeb96729f0]: Commencement: [Reg. 110](https://www.legislation.gov.uk/ssi/2014/292/regulation/110) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

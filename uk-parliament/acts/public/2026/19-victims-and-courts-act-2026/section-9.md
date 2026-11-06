@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Duty to co-operate with Commissioner: anti-social behaviour[^key-07b5d306c6349a15ea73e875ef9ea243]
+## 9. Duty to co-operate with Commissioner: anti-social behaviour[^c-07b5d306c6349a15ea73e875ef9ea243]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07b5d306c6349a15ea73e875ef9ea243]: Commencement: S. 9 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-07b5d306c6349a15ea73e875ef9ea243]: Commencement: S. 9 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)

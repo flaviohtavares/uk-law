@@ -34,7 +34,7 @@ An Act to provide for customs functions to be exercisable by the Secretary of St
 
 \[21st July 2009\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-3fb839774235d1b8b4f976196b6bdd77][^key-62911b71228bd54348e1eeb527bf2aa8][^key-4a47c5dd209983ff6c7bd3c9d43b37da]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-3fb839774235d1b8b4f976196b6bdd77][^c-62911b71228bd54348e1eeb527bf2aa8][^c-4a47c5dd209983ff6c7bd3c9d43b37da]
 
 ## Part 1 — Border functions
 
@@ -49,8 +49,8 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) a matter listed in Schedule 1 to the Commissioners for Revenue and Customs Act 2005 (c. 11),
 - (b) any tax, duty or levy not mentioned in that Schedule,
 - (c) a matter in respect of which functions were transferred to the Commissioners from the Paymaster General under the Transfer of Functions (Office of Her Majesty's Paymaster General) Order 2006 (S.I. 2006/607),
-- (d) the subject matter of [Directive 2015/849/EU](https://www.legislation.gov.uk/eudr/2015/0849)[^key-7fd8ab107b7ca8d7136e9432f2c48498] of the European Parliament and of the Council of 20th May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing (as amended from time to time), and
-- (e) the subject matter of Regulation ([^key-21070d2a14f97f2fcdb428181c1e3e72]EU) 2015/847 of the European Parliament and of the Council of 20th May 2015 on information accompanying transfers of funds (as amended from time to time).
+- (d) the subject matter of [Directive 2015/849/EU](https://www.legislation.gov.uk/eudr/2015/0849)[^c-7fd8ab107b7ca8d7136e9432f2c48498] of the European Parliament and of the Council of 20th May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing (as amended from time to time), and
+- (e) the subject matter of Regulation ([^c-21070d2a14f97f2fcdb428181c1e3e72]EU) 2015/847 of the European Parliament and of the Council of 20th May 2015 on information accompanying transfers of funds (as amended from time to time).
 
 (3) If a function is exercisable by the Commissioners—
 
@@ -69,7 +69,7 @@ the function is exercisable by the Secretary of State in relation to the general
 (6) This section applies to—
 
 - (a) an enactment passed or made before the end of the session in which this Act is passed,
-- (aa)[^key-f27a8d1929d677f3d9fc874ff82b7f55] sections 98 and 99 of the Energy Act 2013 (HMRC functions in relation to Office for Nuclear Regulation etc.), and
+- (aa)[^c-f27a8d1929d677f3d9fc874ff82b7f55] sections 98 and 99 of the Energy Act 2013 (HMRC functions in relation to Office for Nuclear Regulation etc.), and
 - (b) an instrument or document issued before the passing of this Act.
 
 (7) This includes—
@@ -87,8 +87,8 @@ but does not include any other enactment contained in that Act.
 - (a) a function that is exercisable—
   - (i) by the Secretary of State by virtue of this section, or
   - (ii) by general customs officials by virtue of section 3,
-- (b) a function that is conferred on general customs officials or the Secretary of State by or by virtue of any of section 23 or[^key-43fbdc32b16036c52fcf18e028888525] 24 (investigations and detention), or
-- (c) a function under assimilated[^key-5e31bd69037e2fb9d3a4fcb0ed26396d][^key-aeee5dfaa4bb5f433b339f9bf933fd19] law that is exercisable by the Secretary of State or general customs officials in relation to a matter—
+- (b) a function that is conferred on general customs officials or the Secretary of State by or by virtue of any of section 23 or[^c-43fbdc32b16036c52fcf18e028888525] 24 (investigations and detention), or
+- (c) a function under assimilated[^c-5e31bd69037e2fb9d3a4fcb0ed26396d][^c-aeee5dfaa4bb5f433b339f9bf933fd19] law that is exercisable by the Secretary of State or general customs officials in relation to a matter—
   - (i) in relation to which functions under assimilated law are exercisable by the Commissioners or officers of Revenue and Customs, and
   - (ii) that is not listed in paragraphs (a) to (e) of subsection (2).
 
@@ -203,18 +203,18 @@ A general customs official must comply with the directions of the Secretary of S
 
 (2) For the purposes of this Part, each of the following is a “customs revenue matter”—
 
-- (a)[^key-b268c15b0a2ab96cc5323c76d9761f23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) anti-dumping duty (within the meaning it has in Union customs legislation[^key-2c658fe4c1553a3e4b1cac5f153684bd]);
-- (c) countervailing duty (within the meaning it has in Union customs legislation[^key-96f1c00dd6675dd1edc4fe712fa419c5]);
+- (a)[^c-b268c15b0a2ab96cc5323c76d9761f23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) anti-dumping duty (within the meaning it has in Union customs legislation[^c-2c658fe4c1553a3e4b1cac5f153684bd]);
+- (c) countervailing duty (within the meaning it has in Union customs legislation[^c-96f1c00dd6675dd1edc4fe712fa419c5]);
 - (d) customs duties;
 - (e) duties of excise other than—
-  - (i)[^key-bc07a5b84d303dc398050a4e7de8f004] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-152173689dace108bfe8cf84202e442a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-bc07a5b84d303dc398050a4e7de8f004] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-152173689dace108bfe8cf84202e442a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) gaming duty,
   - (iv) general betting duty,
   - (v) lottery duty,
-  - (vi) pool betting duty, [^key-688ea60c1c8519a825b0ab671cd3177d]...
-  - (vii) remote gaming duty; and[^key-651d24fbc246dfcb3c660f0a6faecefb]
+  - (vi) pool betting duty, [^c-688ea60c1c8519a825b0ab671cd3177d]...
+  - (vii) remote gaming duty; and[^c-651d24fbc246dfcb3c660f0a6faecefb]
   - (viii) machine games duty;
 - (f) value added tax so far as relating to the export of goods from, or the import of goods into, the United Kingdom.
 
@@ -237,8 +237,8 @@ the function is exercisable by the Director in relation to the customs revenue m
 (7) This section applies to—
 
 - (a) an enactment passed or made before the end of the session in which this Act is passed,
-- (aa)[^key-cabd0ec376436c418b1555e152df6ed3] sections 98 and 99 of the Energy Act 2013 (HMRC functions in relation to Office for Nuclear Regulation etc.), [^key-eec1241b6e2beb24472a09a79ff38d14]...
-- (ab)[^key-4a1d9ba9f9863c3e9692c416ebc92f13] Part 1 and sections 40A and 40B of the Taxation (Cross-border Trade) Act 2018, and
+- (aa)[^c-cabd0ec376436c418b1555e152df6ed3] sections 98 and 99 of the Energy Act 2013 (HMRC functions in relation to Office for Nuclear Regulation etc.), [^c-eec1241b6e2beb24472a09a79ff38d14]...
+- (ab)[^c-4a1d9ba9f9863c3e9692c416ebc92f13] Part 1 and sections 40A and 40B of the Taxation (Cross-border Trade) Act 2018, and
 - (b) an instrument or document issued before the passing of this Act.
 
 (8) This includes—
@@ -259,10 +259,10 @@ but does not include any other enactment contained in that Act.
 - (a) a function that is exercisable—
   - (i) by the Director by virtue of this section, or
   - (ii) by customs revenue officials by virtue of section 11,
-- (b) a function that is conferred on customs revenue officials or the Director by or by virtue of any of section 23 or[^key-0b1767d49fa5f5fb39fc5f7e5394002c] 24 (investigations and detention), or
-- (c) a function under assimilated[^key-21245f729be39dccb0207cc9368067d6][^key-fcdea07d8a42c6f2e0cf83444df7a7ef] law, or Union customs legislation, that is exercisable by the Director or customs revenue officials in relation to a customs revenue matter.
+- (b) a function that is conferred on customs revenue officials or the Director by or by virtue of any of section 23 or[^c-0b1767d49fa5f5fb39fc5f7e5394002c] 24 (investigations and detention), or
+- (c) a function under assimilated[^c-21245f729be39dccb0207cc9368067d6][^c-fcdea07d8a42c6f2e0cf83444df7a7ef] law, or Union customs legislation, that is exercisable by the Director or customs revenue officials in relation to a customs revenue matter.
 
-(10)[^key-60d3b4dc3b2cdec6329450632e4e20dd] In this section “**Union customs legislation**” has the meaning it has in Part 1 of the Taxation (Cross-border Trade) Act 2018.
+(10)[^c-60d3b4dc3b2cdec6329450632e4e20dd] In this section “**Union customs legislation**” has the meaning it has in Part 1 of the Taxation (Cross-border Trade) Act 2018.
 
 #### 8. Power of Treasury to modify Director's functions
 
@@ -467,7 +467,7 @@ A customs revenue official must comply with the directions of the Director of Bo
 - (a) section 16 (exceptions to the prohibition in this section), and
 - (b) any enactment (other than an enactment contained in this Part) permitting disclosure, where the disclosure in question does not contravene any restriction imposed by the Commissioners for Her Majesty's Revenue and Customs on the disclosure of customs revenue information.
 
-(7) This section does not apply to information supplied by or on behalf of Her Majesty's Revenue and Customs or to information supplied by or on behalf of the Crown Prosecution Service under section 40 or 41A of the[^key-34c9c7e1e31499c13d6a82807172358d] UK Borders Act 2007.
+(7) This section does not apply to information supplied by or on behalf of Her Majesty's Revenue and Customs or to information supplied by or on behalf of the Crown Prosecution Service under section 40 or 41A of the[^c-34c9c7e1e31499c13d6a82807172358d] UK Borders Act 2007.
 
 This is without prejudice to any other restriction on the disclosure of such information.
 
@@ -540,7 +540,7 @@ This is without prejudice to any other restriction on the disclosure of such inf
 
 (3) A prosecution for an offence under this section—
 
-- (a) may be brought in England and Wales only with the consent of the Director of Public Prosecutions [^key-9a99fa2f753b4df411811bcbde0d1423]...;
+- (a) may be brought in England and Wales only with the consent of the Director of Public Prosecutions [^c-9a99fa2f753b4df411811bcbde0d1423]...;
 - (b) may be brought in Northern Ireland only with the consent of the Director of Public Prosecutions for Northern Ireland.
 
 (4) This section is without prejudice to the pursuit of any remedy or the taking of any action in relation to a breach of section 15(1) or (2) or 17(1) (whether or not this section applies to the breach).
@@ -549,18 +549,18 @@ This is without prejudice to any other restriction on the disclosure of such inf
 
 - (a) on conviction on indictment to imprisonment for a term not exceeding 2 years, or to a fine, or to both;
 - (b) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-f57c62bfc7fd734c6e7f1e64d7b4f527], or to a fine not exceeding the statutory maximum, or to both;
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-f57c62bfc7fd734c6e7f1e64d7b4f527], or to a fine not exceeding the statutory maximum, or to both;
   - (ii) in Scotland, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum, or to both;
   - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months, or to a fine not exceeding the statutory maximum, or to both.
 
-(6) In relation to an offence under this section committed before 2 May 2022[^key-a505b7ff312ebfdeda7970d27069a2a3], the reference in subsection (5)(b)(i) to the general limit in a magistrates’ court[^key-29a26c782a4074fb6dd9e33f22c57c7f] has effect as if it were a reference to 6 months.
+(6) In relation to an offence under this section committed before 2 May 2022[^c-a505b7ff312ebfdeda7970d27069a2a3], the reference in subsection (5)(b)(i) to the general limit in a magistrates’ court[^c-29a26c782a4074fb6dd9e33f22c57c7f] has effect as if it were a reference to 6 months.
 
 #### 19. Application of statutory provisions
 
 (1) Nothing in sections 14 to 17 authorises the making of a disclosure which—
 
-- (a) contravenes the data protection legislation[^key-206e8398f40d2fdd4867222fb14c9d5e], or
-- (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^key-e87e972cc89a7e12c18290d59e055b7c].
+- (a) contravenes the data protection legislation[^c-206e8398f40d2fdd4867222fb14c9d5e], or
+- (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^c-e87e972cc89a7e12c18290d59e055b7c].
 
 (2) Information whose disclosure is prohibited by section 15(1) or (2) or 17(1) is exempt information by virtue of section 44(1)(a) of the Freedom of Information Act 2000 (c. 36).
 
@@ -570,7 +570,7 @@ This is without prejudice to any other restriction on the disclosure of such inf
 
 > (1A) Subsections (2) and (3) of section 18 are to be disregarded in determining for the purposes of subsection (1) of this section whether the disclosure of revenue and customs information relating to a person is prohibited by subsection (1) of that section.
 
-(5)[^key-2ee4a5138e584a87aa7e57a0ed5d2222] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(5)[^c-2ee4a5138e584a87aa7e57a0ed5d2222] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 #### 20. Supply of Revenue and Customs information
 
@@ -647,7 +647,7 @@ This is without prejudice to any other restriction on the disclosure of such inf
 
 ### Investigations and detention
 
-#### 22. Application of the PACE orders[^key-2e4f7f2a08288d7d2662798a0449d413]
+#### 22. Application of the PACE orders[^c-2e4f7f2a08288d7d2662798a0449d413]
 
 *Extent: E+W+N.I.*
 
@@ -757,7 +757,7 @@ In section 147 of the Immigration and Asylum Act 1999 (c. 33) (removal centres a
 
 - “**relevant function**” means a function which before the passing of this Act was exercisable by the Commissioners or officers of Revenue and Customs (whether or not it remains so exercisable) and that—
   - (a) is conferred by or by virtue of this Part on the Secretary of State, the Director or a designated customs official, or
-  - (b) is a function under assimilated[^key-ca87863e9bb748bcdc421bd10f87c22c][^key-01ed7b7273c2659181b2880502fe4fff] law that is exercisable by the Secretary of State, the Director or a designated customs official;
+  - (b) is a function under assimilated[^c-ca87863e9bb748bcdc421bd10f87c22c][^c-01ed7b7273c2659181b2880502fe4fff] law that is exercisable by the Secretary of State, the Director or a designated customs official;
 - “**specified**” means specified in the scheme.
 
 #### 27. Facilities and services
@@ -835,7 +835,7 @@ In section 147 of the Immigration and Asylum Act 1999 (c. 33) (removal centres a
 (2) Regulations under subsection (1) may—
 
 - (a) in relation to Her Majesty's Inspectors of Constabulary, apply (with or without modification) or make provision similar to any provision of sections 54 to 56 of the Police Act 1996 (c. 16) (inspection);
-- (b) in relation to the Scottish inspectors, apply (with or without modification) or make provision similar to any provision of Chapter 11 of Part 1 of the Police and Fire Reform (Scotland) Act 2012 (Her Majesty’s inspectors of constabulary)[^key-c0177d487cc66ac4810262cf20ad96aa];
+- (b) in relation to the Scottish inspectors, apply (with or without modification) or make provision similar to any provision of Chapter 11 of Part 1 of the Police and Fire Reform (Scotland) Act 2012 (Her Majesty’s inspectors of constabulary)[^c-c0177d487cc66ac4810262cf20ad96aa];
 - (c) in relation to the Northern Ireland inspectors, apply (without or without modification) or make provision similar to any provision of section 41 or 42 of the Police (Northern Ireland) Act 1998 (c. 32) (inspection).
 
 (3) Regulations under subsection (1)—
@@ -854,7 +854,7 @@ In section 147 of the Immigration and Asylum Act 1999 (c. 33) (removal centres a
 
 (6) In this section—
 
-- (a) “**the Scottish inspectors**” means the inspectors of constabulary appointed under section 71(2) of the Police and Fire Reform (Scotland) Act 2012[^key-3384e1668c595809d06371371e0a1580];
+- (a) “**the Scottish inspectors**” means the inspectors of constabulary appointed under section 71(2) of the Police and Fire Reform (Scotland) Act 2012[^c-3384e1668c595809d06371371e0a1580];
 - (b) “**the Northern Ireland inspectors**” means the inspectors of constabulary appointed under section 41(1) of the Police (Northern Ireland) Act 1998.
 
 #### 30. Complaints and misconduct
@@ -880,7 +880,7 @@ In section 147 of the Immigration and Asylum Act 1999 (c. 33) (removal centres a
 
 ### Other provisions
 
-#### 31. Prosecution of offences[^key-167484b8c251912db5887129eb560f49]
+#### 31. Prosecution of offences[^c-167484b8c251912db5887129eb560f49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -915,7 +915,7 @@ In section 147 of the Immigration and Asylum Act 1999 (c. 33) (removal centres a
   - (a) taxes, duties and levies,
   - (b) the proceeds of forfeitures made and penalties imposed under the customs and excise Acts (within the meaning of section 1 of the Customs and Excise Management Act 1979 (c. 2)),
   - (c) a sum paid, or the proceeds of sale, under paragraph 16 of Schedule 3 to that Act, and
-  - (d) the proceeds of penalties imposed in accordance with Regulation [(EC) No 1889/2005](https://www.legislation.gov.uk/european/regulation/2005/1889) on controls of cash entering or leaving the European Union[^key-dbcbbb189bbb4b25077ebe317eb5fda3] (including penalties imposed under that Regulation as amended from time to time);
+  - (d) the proceeds of penalties imposed in accordance with Regulation [(EC) No 1889/2005](https://www.legislation.gov.uk/european/regulation/2005/1889) on controls of cash entering or leaving the European Union[^c-dbcbbb189bbb4b25077ebe317eb5fda3] (including penalties imposed under that Regulation as amended from time to time);
 - “**security for revenue**” means any sum paid as security for a tax or duty.
 
 #### 33. Power to require payment into the Consolidated Fund
@@ -1038,13 +1038,13 @@ is subject to annulment in pursuance of a resolution of either House of Parliame
 - (c) a Measure or Act of the National Assembly for Wales, or
 - (d) Northern Ireland legislation.
 
-(8)[^key-1958ffef30e359ae529a0138f8f7d2d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-1958ffef30e359ae529a0138f8f7d2d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 38. Interpretation
 
 In this Part—
 
-- [^key-6843f13212b4a8f695a66600a654370a]...
+- [^c-6843f13212b4a8f695a66600a654370a]...
 - “**customs function**” has the meaning given by section 14(6);
 - “**customs information**” has the meaning given by section 14(6);
 - “**customs revenue function**” has the meaning given by section 7(9);
@@ -1069,13 +1069,13 @@ In this Part—
 
 ### Acquisition of British citizenship by naturalisation
 
-#### 39. Application requirements: general[^key-f54b9d38a93828a99f208b4329b28de9]
+#### 39. Application requirements: general[^c-f54b9d38a93828a99f208b4329b28de9]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 40. Application requirements: family members etc.[^key-5bc1dfe46b048f03ba8c18e881cedaac]
+#### 40. Application requirements: family members etc.[^c-5bc1dfe46b048f03ba8c18e881cedaac]
 
 **Not yet in force.**
 
@@ -1083,15 +1083,15 @@ In this Part—
 
 #### 41. The qualifying period
 
-(1)[^key-7eb0f514886e2a72a209b50e1cc94581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7eb0f514886e2a72a209b50e1cc94581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-7eb0f514886e2a72a209b50e1cc94581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7eb0f514886e2a72a209b50e1cc94581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-7eb0f514886e2a72a209b50e1cc94581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7eb0f514886e2a72a209b50e1cc94581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) In subsection (7) of section 41 of the British Nationality Act 1981 (regulations)[^key-acf13f5381a9292cf0be33d086d49f6f], after “this section” insert “ (other than regulations referred to in subsection (8)) ”.
+(4) In subsection (7) of section 41 of the British Nationality Act 1981 (regulations)[^c-acf13f5381a9292cf0be33d086d49f6f], after “this section” insert “ (other than regulations referred to in subsection (8)) ”.
 
-(5)[^key-d2d61a5ed584de41981f1d80f08aba2d] After subsection (7) of that section insert—
+(5)[^c-d2d61a5ed584de41981f1d80f08aba2d] After subsection (7) of that section insert—
 
 > (8) Any regulations (whether alone or with other provision)—
 >
@@ -1102,7 +1102,7 @@ In this Part—
 
 ### Acquisition of British citizenship by birth
 
-#### 42. Children born in UK etc. to members of the armed forces[^key-ec13da6fae45e85fcf7eca010031266a]
+#### 42. Children born in UK etc. to members of the armed forces[^c-ec13da6fae45e85fcf7eca010031266a]
 
 (1) Section 1 of the British Nationality Act 1981 (c. 61) (acquisition of British citizenship by birth or adoption) is amended as follows.
 
@@ -1129,7 +1129,7 @@ In this Part—
 
 ### Acquisition of British citizenship etc. by registration
 
-#### 43. Minors[^key-021410baa7b11ca4eeeb2d0a9b1d94c4]
+#### 43. Minors[^c-021410baa7b11ca4eeeb2d0a9b1d94c4]
 
 (1) Section 3 of the British Nationality Act 1981 (c. 61) (acquisition by registration: minors) is amended as follows.
 
@@ -1137,7 +1137,7 @@ In this Part—
 
 (3) Omit subsection (4).
 
-#### 44. British Nationals (Overseas) without other citizenship[^key-9d8cb68506709833b2a2ce799baf5001]
+#### 44. British Nationals (Overseas) without other citizenship[^c-9d8cb68506709833b2a2ce799baf5001]
 
 (1) Section 4B of the British Nationality Act 1981 (acquisition by registration: certain persons without other citizenship) is amended as follows.
 
@@ -1161,7 +1161,7 @@ In this Part—
 > - (a) in the case of a person to whom this section applies by virtue of subsection (1)(d) only, 19th March 2009, and
 > - (b) in any other case, 4th July 2002.
 
-#### 45. Descent through the female line[^key-d0ff63c474bee38ef89c4989b124067f]
+#### 45. Descent through the female line[^c-d0ff63c474bee38ef89c4989b124067f]
 
 (1) Section 4C of the British Nationality Act 1981 (the title to which becomes “Acquisition by registration: certain persons born before 1983”) is amended as follows.
 
@@ -1203,7 +1203,7 @@ In this Part—
 > - (c) paragraph 3 of Schedule 3 to that Act, or
 > - (d) section 1(1)(a) or (c) of the British Nationality (No. 2) Act 1964.
 
-#### 46. Children born outside UK etc. to members of the armed forces[^key-6eba8e0efda58108d9471b4bb7bdcee3]
+#### 46. Children born outside UK etc. to members of the armed forces[^c-6eba8e0efda58108d9471b4bb7bdcee3]
 
 After section 4C of the British Nationality Act 1981 (c. 61) insert—
 
@@ -1227,7 +1227,7 @@ After section 4C of the British Nationality Act 1981 (c. 61) insert—
 >
 > (6) The relevant day for the purposes of this section is the day appointed for the commencement of section 46 of the Borders, Citizenship and Immigration Act 2009 (which inserted this section).
 
-#### 47. Good character requirement[^key-cbe1e6c8bb32a9d9e444531fbad4b4e7]
+#### 47. Good character requirement[^c-cbe1e6c8bb32a9d9e444531fbad4b4e7]
 
 (1) After section 41 of the British Nationality Act 1981 insert—
 
@@ -1278,7 +1278,7 @@ After section 4C of the British Nationality Act 1981 (c. 61) insert—
 
 ### Interpretation etc.
 
-#### 48. Meaning of references to being in breach of immigration laws[^key-4427270d00c670215107ac112a2bdf5f]
+#### 48. Meaning of references to being in breach of immigration laws[^c-4427270d00c670215107ac112a2bdf5f]
 
 (1) After section 50 of the British Nationality Act 1981 (c. 61) insert—
 
@@ -1340,7 +1340,7 @@ After section 4C of the British Nationality Act 1981 (c. 61) insert—
 
 #### 49. Other interpretation etc.
 
-(1)[^key-ad86618cb4d7a28e723900bcf9c8af3b] In section 50 of the British Nationality Act 1981 (c. 61) (interpretation), after subsection (1), insert—
+(1)[^c-ad86618cb4d7a28e723900bcf9c8af3b] In section 50 of the British Nationality Act 1981 (c. 61) (interpretation), after subsection (1), insert—
 
 > (1A) Subject to subsection (1B), references in this Act to being a member of the armed forces are references to being—
 >
@@ -1352,9 +1352,9 @@ After section 4C of the British Nationality Act 1981 (c. 61) insert—
 > - (a) section 369 of the Armed Forces Act 2006, or
 > - (b) section 4(3) of the Visiting Forces (British Commonwealth) Act 1933.
 
-(2)[^key-bd80cc10fa5fa402734f43881adf2fbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bd80cc10fa5fa402734f43881adf2fbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-240a169b4e1b29c4bfeaa9211410d207] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-240a169b4e1b29c4bfeaa9211410d207] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part 3 — Immigration
 
@@ -1372,17 +1372,17 @@ After section 4C of the British Nationality Act 1981 (c. 61) insert—
 
 ### Fingerprinting
 
-#### 51. Fingerprinting of foreign criminals liable to automatic deportation[^key-0c6f9c607f5b88ca2ce6805346297138]
+#### 51. Fingerprinting of foreign criminals liable to automatic deportation[^c-0c6f9c607f5b88ca2ce6805346297138]
 
 (1) Section 141 of the Immigration and Asylum Act 1999 (c. 33) (persons from whom fingerprints may be taken) is amended as follows.
 
 (2) In subsection (7)(f), after “persons” insert “ , other than a dependant of a person who falls within paragraph (c) by reason of a relevant immigration decision within subsection (16)(b) having been made in respect of that person ”.
 
-(3)[^key-a783ed437100f0841e8c161a2373f616] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a783ed437100f0841e8c161a2373f616] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Detention at ports in Scotland
 
-#### 52. Extension of sections 1 to 4 of the UK Borders Act 2007 to Scotland[^key-f8cb1e3c18e04aec08da007c9b8cdf37]
+#### 52. Extension of sections 1 to 4 of the UK Borders Act 2007 to Scotland[^c-f8cb1e3c18e04aec08da007c9b8cdf37]
 
 (1) In section 2 of the UK Borders Act 2007 (c. 30) (detention at ports), after subsection (1), insert—
 
@@ -1398,23 +1398,23 @@ After section 4C of the British Nationality Act 1981 (c. 61) insert—
 
 ### Judicial review
 
-#### 53. Transfer of certain immigration judicial review applications[^key-b14b1bc422c75c8518570fa38c606105]
+#### 53. Transfer of certain immigration judicial review applications[^c-b14b1bc422c75c8518570fa38c606105]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Trafficking people for exploitation
 
-#### 54. Trafficking people for exploitation[^key-a263bb03d963ceaec013e1f1d3fb21a4]
+#### 54. Trafficking people for exploitation[^c-a263bb03d963ceaec013e1f1d3fb21a4]
 
-In section 4(4) of the Asylum and Immigration (Treatment of Claimants, *(Extent: N.I.)* *(affected by repeal, see note)*[^key-121453d3cc5413fb950367140249d2e8] etc. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-121453d3cc5413fb950367140249d2e8]) Act 2004 (c. 19) (trafficking people for exploitation: meaning of exploitation), for paragraph (d) substitute— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-121453d3cc5413fb950367140249d2e8]
+In section 4(4) of the Asylum and Immigration (Treatment of Claimants, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-121453d3cc5413fb950367140249d2e8] etc. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-121453d3cc5413fb950367140249d2e8]) Act 2004 (c. 19) (trafficking people for exploitation: meaning of exploitation), for paragraph (d) substitute— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-121453d3cc5413fb950367140249d2e8]
 
-> - (d (Extent: N.I.) (affected by repeal, see note))[^key-121453d3cc5413fb950367140249d2e8] a person uses or attempts to use him for any purpose within sub-paragraph (i), (ii) or (iii) of paragraph (c), having chosen him for that purpose on the grounds that— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-121453d3cc5413fb950367140249d2e8]
->   - (i (Extent: N.I.) (affected by repeal, see note))[^key-121453d3cc5413fb950367140249d2e8] he is mentally or physically ill or disabled, he is young or he has a family relationship with a person, and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-121453d3cc5413fb950367140249d2e8]
->   - (ii (Extent: N.I.) (affected by repeal, see note))[^key-121453d3cc5413fb950367140249d2e8] a person without the illness, disability, youth or family relationship would be likely to refuse to be used for that purpose. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-121453d3cc5413fb950367140249d2e8]
+> - (d (Extent: N.I.) (affected by repeal, see note))[^c-121453d3cc5413fb950367140249d2e8] a person uses or attempts to use him for any purpose within sub-paragraph (i), (ii) or (iii) of paragraph (c), having chosen him for that purpose on the grounds that— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-121453d3cc5413fb950367140249d2e8]
+>   - (i (Extent: N.I.) (affected by repeal, see note))[^c-121453d3cc5413fb950367140249d2e8] he is mentally or physically ill or disabled, he is young or he has a family relationship with a person, and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-121453d3cc5413fb950367140249d2e8]
+>   - (ii (Extent: N.I.) (affected by repeal, see note))[^c-121453d3cc5413fb950367140249d2e8] a person without the illness, disability, youth or family relationship would be likely to refuse to be used for that purpose. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-121453d3cc5413fb950367140249d2e8]
 
 ### Children
 
-#### 54A. Independent Family Returns Panel[^key-8fe8517daffc564a5b08af1b32002145]
+#### 54A. Independent Family Returns Panel[^c-8fe8517daffc564a5b08af1b32002145]
 
 (1) The Independent Family Returns Panel is established.
 
@@ -1450,7 +1450,7 @@ In section 4(4) of the Asylum and Immigration (Treatment of Claimants, *(Extent:
 - “**pre-departure accommodation**” has the same meaning as in Part 8 of the Immigration and Asylum Act 1999;
 - references to a person being removed from or required to leave the United Kingdom are to the person being removed or required to leave in accordance with a provision of the Immigration Acts.
 
-#### 55. Duty regarding the welfare of children[^key-90a2ad60b1f0a621ed456b2523e89322]
+#### 55. Duty regarding the welfare of children[^c-90a2ad60b1f0a621ed456b2523e89322]
 
 (1) The Secretary of State must make arrangements for ensuring that—
 
@@ -1484,7 +1484,7 @@ In section 4(4) of the Asylum and Immigration (Treatment of Claimants, *(Extent:
 
 ### General
 
-#### 56. Repeals[^c19853981][^key-4f2ddaf6ec5316a9a51610a9a9dd4a32][^key-b9d936a5f630d734c6274c509b0d9b1e]
+#### 56. Repeals[^c19853981][^c-4f2ddaf6ec5316a9a51610a9a9dd4a32][^c-b9d936a5f630d734c6274c509b0d9b1e]
 
 The Schedule contains repeals.
 
@@ -1496,7 +1496,7 @@ The Schedule contains repeals.
 - (b) Scotland, and
 - (c) Northern Ireland.
 
-(2) Section[^key-a3cc18876eec6322d51d793aa75c2597] 23 (investigations and detention: England and Wales and Northern Ireland) extends[^key-74dba79a2ef52536bbb0d926a6308608] to England and Wales and Northern Ireland only.
+(2) Section[^c-a3cc18876eec6322d51d793aa75c2597] 23 (investigations and detention: England and Wales and Northern Ireland) extends[^c-74dba79a2ef52536bbb0d926a6308608] to England and Wales and Northern Ireland only.
 
 (3) An amendment, modification or repeal by this Act has the same extent as the enactment or relevant part of the enactment to which it relates (ignoring extent by virtue of an Order in Council under any of the Immigration Acts).
 
@@ -1505,7 +1505,7 @@ The Schedule contains repeals.
 - (a) the amendments made by section 52 (detention at ports in Scotland);
 - (b) the amendment made by section 54 (trafficking people for exploitation), which extends to England and Wales and Northern Ireland only.
 
-(5)[^key-95484cfef45ea41fdaf46dc406e978c4] Her Majesty may by Order in Council provide for any of the provisions of this Act, other than any provision of Part 1 (border functions) or section 53 (transfer of certain immigration judicial review applications), to extend, with or without modifications, to any of the Channel Islands or the Isle of Man.
+(5)[^c-95484cfef45ea41fdaf46dc406e978c4] Her Majesty may by Order in Council provide for any of the provisions of this Act, other than any provision of Part 1 (border functions) or section 53 (transfer of certain immigration judicial review applications), to extend, with or without modifications, to any of the Channel Islands or the Isle of Man.
 
 (6) Subsection (5) does not apply in relation to the extension to a place of a provision which extends there by virtue of subsection (3).
 
@@ -1575,7 +1575,7 @@ Section 56
 | --- | --- |
 | UK Borders Act 2007 (c. 30) | Section 21(5)(a).<br>In section 48—<br>- (a) in subsection (2), the words from the beginning to “Agency;”, and<br>- (b) subsection (3). |
 
-### Part 2 — Citizenship[^key-79fcbd66061984f6723dcab210c57f49]
+### Part 2 — Citizenship[^c-79fcbd66061984f6723dcab210c57f49]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
@@ -1590,7 +1590,7 @@ Section 56
 | --- | --- |
 | UK Borders Act 2007 (c. 30) | In section 60(1), the words “1 to 4,”. |
 
-### Part 4 — Miscellaneous[^key-86d5ecb84c39adbc0de679219d1a45af]
+### Part 4 — Miscellaneous[^c-86d5ecb84c39adbc0de679219d1a45af]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
@@ -1598,146 +1598,146 @@ Section 56
 
 ## Annotations
 
-[^key-3fb839774235d1b8b4f976196b6bdd77]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/11) continued (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3/1/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3fb839774235d1b8b4f976196b6bdd77]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/11) continued (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3/1/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-62911b71228bd54348e1eeb527bf2aa8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/11) extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [art. 11](https://www.legislation.gov.uk/uksi/2021/1281/article/11), [Sch. 9](https://www.legislation.gov.uk/uksi/2021/1281/schedule/9), [Sch. 9A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/9A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
+[^c-62911b71228bd54348e1eeb527bf2aa8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/11) extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [art. 11](https://www.legislation.gov.uk/uksi/2021/1281/article/11), [Sch. 9](https://www.legislation.gov.uk/uksi/2021/1281/schedule/9), [Sch. 9A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/9A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
 
-[^key-4a47c5dd209983ff6c7bd3c9d43b37da]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/11): power to amend conferred (28.6.2022 in so far as not already in force, 28.4.2022 for specified purposes) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [82(2)(l)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/l), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i) 82(1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+[^c-4a47c5dd209983ff6c7bd3c9d43b37da]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2009/11): power to amend conferred (28.6.2022 in so far as not already in force, 28.4.2022 for specified purposes) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [82(2)(l)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/l), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i) 82(1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
 
-[^key-7fd8ab107b7ca8d7136e9432f2c48498]: Textual amendment: Words in s. 1(2)(d) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 8(a)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/8/a) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-7fd8ab107b7ca8d7136e9432f2c48498]: Textual amendment: Words in s. 1(2)(d) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 8(a)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/8/a) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
 
-[^key-21070d2a14f97f2fcdb428181c1e3e72]: Textual amendment: Words in s. 1(2)(e) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 8(b)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/8/b) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-21070d2a14f97f2fcdb428181c1e3e72]: Textual amendment: Words in s. 1(2)(e) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 8(b)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/8/b) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
 
-[^key-f27a8d1929d677f3d9fc874ff82b7f55]: Textual amendment: S. 1(6)(aa) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 101(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/101/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-f27a8d1929d677f3d9fc874ff82b7f55]: Textual amendment: S. 1(6)(aa) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 101(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/101/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-43fbdc32b16036c52fcf18e028888525]: Textual amendment: Words in [s. 1(8)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/8/b) substituted (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/32/2)
+[^c-43fbdc32b16036c52fcf18e028888525]: Textual amendment: Words in [s. 1(8)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/8/b) substituted (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/32/2)
 
-[^key-5e31bd69037e2fb9d3a4fcb0ed26396d]: Textual amendment: Word in [s. 1(8)(c)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/8/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 69(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/69/2/a)
+[^c-5e31bd69037e2fb9d3a4fcb0ed26396d]: Textual amendment: Word in [s. 1(8)(c)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/8/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 69(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/69/2/a)
 
-[^key-aeee5dfaa4bb5f433b339f9bf933fd19]: Textual amendment: Words in [s. 1(8)(c)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/8/c) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aeee5dfaa4bb5f433b339f9bf933fd19]: Textual amendment: Words in [s. 1(8)(c)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/8/c) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b268c15b0a2ab96cc5323c76d9761f23]: Textual amendment: S. 7(2)(a) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2019/745/regulation/19/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b268c15b0a2ab96cc5323c76d9761f23]: Textual amendment: S. 7(2)(a) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2019/745/regulation/19/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c658fe4c1553a3e4b1cac5f153684bd]: Textual amendment: Words in s. 7(2)(b) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 156(2)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/2/b) (as substituted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
+[^c-2c658fe4c1553a3e4b1cac5f153684bd]: Textual amendment: Words in s. 7(2)(b) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 156(2)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/2/b) (as substituted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
 
-[^key-96f1c00dd6675dd1edc4fe712fa419c5]: Textual amendment: Words in s. 7(2)(c) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 156(2)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/2/a) (as substituted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
+[^c-96f1c00dd6675dd1edc4fe712fa419c5]: Textual amendment: Words in s. 7(2)(c) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 156(2)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/2/a) (as substituted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
 
-[^key-bc07a5b84d303dc398050a4e7de8f004]: Textual amendment: S. 7(2)(e)(i) omitted (with effect in accordance with Sch. 24 para. 66(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 58](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/58) (with [Sch. 24 para. 62](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/62))
+[^c-bc07a5b84d303dc398050a4e7de8f004]: Textual amendment: S. 7(2)(e)(i) omitted (with effect in accordance with Sch. 24 para. 66(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 58](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/58) (with [Sch. 24 para. 62](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/62))
 
-[^key-152173689dace108bfe8cf84202e442a]: Textual amendment: [S. 7(2)(e)(ii)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/2/e/ii) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/14) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-152173689dace108bfe8cf84202e442a]: Textual amendment: [S. 7(2)(e)(ii)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/2/e/ii) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/14) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
 
-[^key-688ea60c1c8519a825b0ab671cd3177d]: Textual amendment: Word in s. 7(2)(e)(vi) omitted (with effect in accordance with Sch. 24 para. 66(2) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 49(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/49/a)
+[^c-688ea60c1c8519a825b0ab671cd3177d]: Textual amendment: Word in s. 7(2)(e)(vi) omitted (with effect in accordance with Sch. 24 para. 66(2) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 49(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/49/a)
 
-[^key-651d24fbc246dfcb3c660f0a6faecefb]: Textual amendment: S. 7(2)(e)(viii) and word inserted (with effect in accordance with Sch. 24 para. 66(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 49(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/49/b)
+[^c-651d24fbc246dfcb3c660f0a6faecefb]: Textual amendment: S. 7(2)(e)(viii) and word inserted (with effect in accordance with Sch. 24 para. 66(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 49(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/49/b)
 
-[^key-cabd0ec376436c418b1555e152df6ed3]: Textual amendment: S. 7(7)(aa) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 101(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/101/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-cabd0ec376436c418b1555e152df6ed3]: Textual amendment: S. 7(7)(aa) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 101(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/101/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-eec1241b6e2beb24472a09a79ff38d14]: Textual amendment: Word in s. 7(7)(aa) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 156(3)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/3/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a))
+[^c-eec1241b6e2beb24472a09a79ff38d14]: Textual amendment: Word in s. 7(7)(aa) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 156(3)(a)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/3/a) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a))
 
-[^key-4a1d9ba9f9863c3e9692c416ebc92f13]: Textual amendment: S. 7(7)(ab) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 156(3)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/3/b) (as amended by [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(b)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/b)) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a))
+[^c-4a1d9ba9f9863c3e9692c416ebc92f13]: Textual amendment: S. 7(7)(ab) inserted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 156(3)(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/3/b) (as amended by [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(b)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/b)) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a))
 
-[^key-0b1767d49fa5f5fb39fc5f7e5394002c]: Textual amendment: Words in [s. 7(9)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/9/b) substituted (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2026/117/regulation/32/3)
+[^c-0b1767d49fa5f5fb39fc5f7e5394002c]: Textual amendment: Words in [s. 7(9)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/9/b) substituted (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2026/117/regulation/32/3)
 
-[^key-21245f729be39dccb0207cc9368067d6]: Textual amendment: Word in [s. 7(9)(c)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/9/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 69(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/69/2/b)
+[^c-21245f729be39dccb0207cc9368067d6]: Textual amendment: Word in [s. 7(9)(c)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/9/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 69(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/69/2/b)
 
-[^key-fcdea07d8a42c6f2e0cf83444df7a7ef]: Textual amendment: Words in s. 7(9)(c) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 156(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/4) (as substituted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(c)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/c) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
+[^c-fcdea07d8a42c6f2e0cf83444df7a7ef]: Textual amendment: Words in s. 7(9)(c) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 156(4)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/4) (as substituted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(c)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/c) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
 
-[^key-60d3b4dc3b2cdec6329450632e4e20dd]: Textual amendment: S. 7(10) inserted by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 156(5)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/5) (as substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(c)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/c) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)))
+[^c-60d3b4dc3b2cdec6329450632e4e20dd]: Textual amendment: S. 7(10) inserted by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 156(5)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/156/5) (as substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(c)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/c) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)))
 
-[^key-34c9c7e1e31499c13d6a82807172358d]: Textual amendment: Words in [s. 15(7)](https://www.legislation.gov.uk/ukpga/2009/11/section/15/7) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 66](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/66)
+[^c-34c9c7e1e31499c13d6a82807172358d]: Textual amendment: Words in [s. 15(7)](https://www.legislation.gov.uk/ukpga/2009/11/section/15/7) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 66](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/66)
 
-[^key-9a99fa2f753b4df411811bcbde0d1423]: Textual amendment: Words in [s. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2009/11/section/18/3/a) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/67)
+[^c-9a99fa2f753b4df411811bcbde0d1423]: Textual amendment: Words in [s. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2009/11/section/18/3/a) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/67)
 
-[^key-f57c62bfc7fd734c6e7f1e64d7b4f527]: Textual amendment: Words in [s. 18(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/11/section/18/5/b/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-f57c62bfc7fd734c6e7f1e64d7b4f527]: Textual amendment: Words in [s. 18(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/11/section/18/5/b/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-a505b7ff312ebfdeda7970d27069a2a3]: Textual amendment: Words in [s. 18(6)](https://www.legislation.gov.uk/ukpga/2009/11/section/18/6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-a505b7ff312ebfdeda7970d27069a2a3]: Textual amendment: Words in [s. 18(6)](https://www.legislation.gov.uk/ukpga/2009/11/section/18/6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-29a26c782a4074fb6dd9e33f22c57c7f]: Textual amendment: Words in [s. 18(6)](https://www.legislation.gov.uk/ukpga/2009/11/section/18/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-29a26c782a4074fb6dd9e33f22c57c7f]: Textual amendment: Words in [s. 18(6)](https://www.legislation.gov.uk/ukpga/2009/11/section/18/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-206e8398f40d2fdd4867222fb14c9d5e]: Textual amendment: Words in s. 19(1)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 157(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/157/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-206e8398f40d2fdd4867222fb14c9d5e]: Textual amendment: Words in s. 19(1)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 157(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/157/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-e87e972cc89a7e12c18290d59e055b7c]: Textual amendment: Words in s. 19(1)(b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 23](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/23) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-e87e972cc89a7e12c18290d59e055b7c]: Textual amendment: Words in s. 19(1)(b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 23](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/23) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
 
-[^key-2ee4a5138e584a87aa7e57a0ed5d2222]: Textual amendment: S. 19(5) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 157(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/157/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-2ee4a5138e584a87aa7e57a0ed5d2222]: Textual amendment: S. 19(5) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 157(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/157/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-2e4f7f2a08288d7d2662798a0449d413]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2009/11/section/22) repealed (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2026/117/regulation/31)
+[^c-2e4f7f2a08288d7d2662798a0449d413]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2009/11/section/22) repealed (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2026/117/regulation/31)
 
-[^key-ca87863e9bb748bcdc421bd10f87c22c]: Textual amendment: Word in [s. 26(7)](https://www.legislation.gov.uk/ukpga/2009/11/section/26/7) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 69(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/69/2/c)
+[^c-ca87863e9bb748bcdc421bd10f87c22c]: Textual amendment: Word in [s. 26(7)](https://www.legislation.gov.uk/ukpga/2009/11/section/26/7) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 69(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/69/2/c)
 
-[^key-01ed7b7273c2659181b2880502fe4fff]: Textual amendment: Words in [s. 26(7)](https://www.legislation.gov.uk/ukpga/2009/11/section/26/7) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [19(4)](https://www.legislation.gov.uk/uksi/2019/745/regulation/19/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01ed7b7273c2659181b2880502fe4fff]: Textual amendment: Words in [s. 26(7)](https://www.legislation.gov.uk/ukpga/2009/11/section/26/7) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [19(4)](https://www.legislation.gov.uk/uksi/2019/745/regulation/19/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c0177d487cc66ac4810262cf20ad96aa]: Textual amendment: Words in [s. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/29/2/b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 61(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/61/a)
+[^c-c0177d487cc66ac4810262cf20ad96aa]: Textual amendment: Words in [s. 29(2)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/29/2/b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 61(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/61/a)
 
-[^key-3384e1668c595809d06371371e0a1580]: Textual amendment: Words in [s. 29(6)(a)](https://www.legislation.gov.uk/ukpga/2009/11/section/29/6/a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 61(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/61/b)
+[^c-3384e1668c595809d06371371e0a1580]: Textual amendment: Words in [s. 29(6)(a)](https://www.legislation.gov.uk/ukpga/2009/11/section/29/6/a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 61(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/61/b)
 
-[^key-167484b8c251912db5887129eb560f49]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/2009/11/section/31) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 68](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/68) (with [art. 8](https://www.legislation.gov.uk/uksi/2014/834/article/8))
+[^c-167484b8c251912db5887129eb560f49]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/2009/11/section/31) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 68](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/68) (with [art. 8](https://www.legislation.gov.uk/uksi/2014/834/article/8))
 
-[^key-dbcbbb189bbb4b25077ebe317eb5fda3]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-dbcbbb189bbb4b25077ebe317eb5fda3]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-1958ffef30e359ae529a0138f8f7d2d9]: Textual amendment: [S. 37(8)](https://www.legislation.gov.uk/ukpga/2009/11/section/37/8) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 69](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/69)
+[^c-1958ffef30e359ae529a0138f8f7d2d9]: Textual amendment: [S. 37(8)](https://www.legislation.gov.uk/ukpga/2009/11/section/37/8) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 69](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/69)
 
-[^key-6843f13212b4a8f695a66600a654370a]: Textual amendment: Words in s. 38 omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2019/745/regulation/19/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6843f13212b4a8f695a66600a654370a]: Textual amendment: Words in s. 38 omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2019/745/regulation/19/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f54b9d38a93828a99f208b4329b28de9]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/2009/11/section/39) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+[^c-f54b9d38a93828a99f208b4329b28de9]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/2009/11/section/39) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
 
-[^key-5bc1dfe46b048f03ba8c18e881cedaac]: Textual amendment: [S. 40](https://www.legislation.gov.uk/ukpga/2009/11/section/40) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+[^c-5bc1dfe46b048f03ba8c18e881cedaac]: Textual amendment: [S. 40](https://www.legislation.gov.uk/ukpga/2009/11/section/40) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
 
-[^key-7eb0f514886e2a72a209b50e1cc94581]: Textual amendment: [S. 41(1)-(3)](https://www.legislation.gov.uk/ukpga/2009/11/section/41/1) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+[^c-7eb0f514886e2a72a209b50e1cc94581]: Textual amendment: [S. 41(1)-(3)](https://www.legislation.gov.uk/ukpga/2009/11/section/41/1) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
 
-[^key-acf13f5381a9292cf0be33d086d49f6f]: Textual amendment: Words in [s. 41(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/41/4) substituted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/b), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+[^c-acf13f5381a9292cf0be33d086d49f6f]: Textual amendment: Words in [s. 41(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/41/4) substituted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/b), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
 
-[^key-d2d61a5ed584de41981f1d80f08aba2d]: Commencement: [S. 41(5)](https://www.legislation.gov.uk/ukpga/2009/11/section/41/5) in force at 27.10.2014 for specified purposes by [S.I. 2014/2634](https://www.legislation.gov.uk/uksi/2014/2634), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2634/article/2/a)
+[^c-d2d61a5ed584de41981f1d80f08aba2d]: Commencement: [S. 41(5)](https://www.legislation.gov.uk/ukpga/2009/11/section/41/5) in force at 27.10.2014 for specified purposes by [S.I. 2014/2634](https://www.legislation.gov.uk/uksi/2014/2634), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2634/article/2/a)
 
-[^key-ec13da6fae45e85fcf7eca010031266a]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2009/11/section/42) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/a)
+[^c-ec13da6fae45e85fcf7eca010031266a]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2009/11/section/42) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/a)
 
-[^key-021410baa7b11ca4eeeb2d0a9b1d94c4]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2009/11/section/43) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/b)
+[^c-021410baa7b11ca4eeeb2d0a9b1d94c4]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2009/11/section/43) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/b)
 
-[^key-9d8cb68506709833b2a2ce799baf5001]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2009/11/section/44) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/c)
+[^c-9d8cb68506709833b2a2ce799baf5001]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2009/11/section/44) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(c)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/c)
 
-[^key-d0ff63c474bee38ef89c4989b124067f]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2009/11/section/45) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(d)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/d)
+[^c-d0ff63c474bee38ef89c4989b124067f]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2009/11/section/45) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(d)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/d)
 
-[^key-6eba8e0efda58108d9471b4bb7bdcee3]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2009/11/section/46) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(e)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/e)
+[^c-6eba8e0efda58108d9471b4bb7bdcee3]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2009/11/section/46) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(e)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/e)
 
-[^key-cbe1e6c8bb32a9d9e444531fbad4b4e7]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2009/11/section/47) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(f)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/f)
+[^c-cbe1e6c8bb32a9d9e444531fbad4b4e7]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2009/11/section/47) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(f)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/f)
 
-[^key-4427270d00c670215107ac112a2bdf5f]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2009/11/section/48) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(g)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/g)
+[^c-4427270d00c670215107ac112a2bdf5f]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2009/11/section/48) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(g)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/g)
 
-[^key-ad86618cb4d7a28e723900bcf9c8af3b]: Commencement: S. 49(1) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/h)
+[^c-ad86618cb4d7a28e723900bcf9c8af3b]: Commencement: S. 49(1) in force at 13.1.2010 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/h)
 
-[^key-bd80cc10fa5fa402734f43881adf2fbc]: Textual amendment: [S. 49(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/49/2) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+[^c-bd80cc10fa5fa402734f43881adf2fbc]: Textual amendment: [S. 49(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/49/2) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
 
-[^key-240a169b4e1b29c4bfeaa9211410d207]: Textual amendment: [S. 49(3)](https://www.legislation.gov.uk/ukpga/2009/11/section/49/3) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
+[^c-240a169b4e1b29c4bfeaa9211410d207]: Textual amendment: [S. 49(3)](https://www.legislation.gov.uk/ukpga/2009/11/section/49/3) omitted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/9/3/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/8) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/3))
 
-[^key-0c6f9c607f5b88ca2ce6805346297138]: Commencement: S. 51 in force at 10.11.2009 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/2731/article/3/a)
+[^c-0c6f9c607f5b88ca2ce6805346297138]: Commencement: S. 51 in force at 10.11.2009 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/2731/article/3/a)
 
-[^key-a783ed437100f0841e8c161a2373f616]: Textual amendment: S. 51(3) repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 60](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/60) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+[^c-a783ed437100f0841e8c161a2373f616]: Textual amendment: S. 51(3) repealed (20.10.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 60](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/60) table; [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/e) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
 
-[^key-f8cb1e3c18e04aec08da007c9b8cdf37]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2009/11/section/52) in force at 27.10.2014 by [S.I. 2014/2634](https://www.legislation.gov.uk/uksi/2014/2634), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2634/article/2/b)
+[^c-f8cb1e3c18e04aec08da007c9b8cdf37]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2009/11/section/52) in force at 27.10.2014 by [S.I. 2014/2634](https://www.legislation.gov.uk/uksi/2014/2634), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2634/article/2/b)
 
-[^key-b14b1bc422c75c8518570fa38c606105]: Textual amendment: S. 53 repealed (1.11.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/22/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 5](https://www.legislation.gov.uk/uksi/2013/2200/article/5)
+[^c-b14b1bc422c75c8518570fa38c606105]: Textual amendment: S. 53 repealed (1.11.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/22/4), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 5](https://www.legislation.gov.uk/uksi/2013/2200/article/5)
 
-[^key-a263bb03d963ceaec013e1f1d3fb21a4]: Commencement: S. 54 in force at 10.11.2009 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/2731/article/3/b)
+[^c-a263bb03d963ceaec013e1f1d3fb21a4]: Commencement: S. 54 in force at 10.11.2009 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/2731/article/3/b)
 
-[^key-121453d3cc5413fb950367140249d2e8]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/2009/11/section/54) repealed (N.I.) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
+[^c-121453d3cc5413fb950367140249d2e8]: Textual amendment: [S. 54](https://www.legislation.gov.uk/ukpga/2009/11/section/54) repealed (N.I.) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
 
-[^key-8fe8517daffc564a5b08af1b32002145]: Textual amendment: [S. 54A](https://www.legislation.gov.uk/ukpga/2009/11/section/54A) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 3](https://www.legislation.gov.uk/ukpga/2014/22/section/3), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/b); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/b)
+[^c-8fe8517daffc564a5b08af1b32002145]: Textual amendment: [S. 54A](https://www.legislation.gov.uk/ukpga/2009/11/section/54A) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 3](https://www.legislation.gov.uk/ukpga/2014/22/section/3), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/b); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/b)
 
-[^key-90a2ad60b1f0a621ed456b2523e89322]: Commencement: S. 55 in force at 2.11.2009 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2731/article/2/a)
+[^c-90a2ad60b1f0a621ed456b2523e89322]: Commencement: S. 55 in force at 2.11.2009 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2731/article/2/a)
 
 [^c19853981]: Commencement: S. 56 partly in force; s. 56 in force for certain purposes at Royal Assent see s. 58
 
-[^key-4f2ddaf6ec5316a9a51610a9a9dd4a32]: Commencement: S. 56 in force at 2.11.2009 for specified purposes by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2731/article/2/b)
+[^c-4f2ddaf6ec5316a9a51610a9a9dd4a32]: Commencement: S. 56 in force at 2.11.2009 for specified purposes by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2731/article/2/b)
 
-[^key-b9d936a5f630d734c6274c509b0d9b1e]: Commencement: S. 56 in force at 13.1.2010 for specified purposes by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/i)
+[^c-b9d936a5f630d734c6274c509b0d9b1e]: Commencement: S. 56 in force at 13.1.2010 for specified purposes by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(i)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/i)
 
-[^key-a3cc18876eec6322d51d793aa75c2597]: Textual amendment: Word in [s. 57(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/57/2) substituted (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [32(4)(a)](https://www.legislation.gov.uk/uksi/2026/117/regulation/32/4/a)
+[^c-a3cc18876eec6322d51d793aa75c2597]: Textual amendment: Word in [s. 57(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/57/2) substituted (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [32(4)(a)](https://www.legislation.gov.uk/uksi/2026/117/regulation/32/4/a)
 
-[^key-74dba79a2ef52536bbb0d926a6308608]: Textual amendment: Word in [s. 57(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/57/2) substituted (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [32(4)(b)](https://www.legislation.gov.uk/uksi/2026/117/regulation/32/4/b)
+[^c-74dba79a2ef52536bbb0d926a6308608]: Textual amendment: Word in [s. 57(2)](https://www.legislation.gov.uk/ukpga/2009/11/section/57/2) substituted (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [32(4)(b)](https://www.legislation.gov.uk/uksi/2026/117/regulation/32/4/b)
 
-[^key-95484cfef45ea41fdaf46dc406e978c4]: Modification: [S. 57(5)](https://www.legislation.gov.uk/ukpga/2009/11/section/57/5) power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 86(5)(6)(k)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/6/k), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
+[^c-95484cfef45ea41fdaf46dc406e978c4]: Modification: [S. 57(5)](https://www.legislation.gov.uk/ukpga/2009/11/section/57/5) power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 86(5)(6)(k)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/6/k), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
 
 [^c19853971]: Commencement: [Sch.](https://www.legislation.gov.uk/ukpga/2009/11/schedule) partly in force; [Sch.](https://www.legislation.gov.uk/ukpga/2009/11/schedule) in force for certain purposes at Royal Assent see [s. 58](https://www.legislation.gov.uk/ukpga/2009/11/section/58)
 
-[^key-79fcbd66061984f6723dcab210c57f49]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ukpga/2009/11/schedule/part/2) in force at 13.1.2010 for specified purposes by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(j)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/j)
+[^c-79fcbd66061984f6723dcab210c57f49]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ukpga/2009/11/schedule/part/2) in force at 13.1.2010 for specified purposes by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 4(j)](https://www.legislation.gov.uk/uksi/2009/2731/article/4/j)
 
-[^key-86d5ecb84c39adbc0de679219d1a45af]: Commencement: [Sch. Pt. 4](https://www.legislation.gov.uk/ukpga/2009/11/schedule/part/4) in force at 2.11.2009 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/2731/article/2/c)
+[^c-86d5ecb84c39adbc0de679219d1a45af]: Commencement: [Sch. Pt. 4](https://www.legislation.gov.uk/ukpga/2009/11/schedule/part/4) in force at 2.11.2009 by [S.I. 2009/2731](https://www.legislation.gov.uk/uksi/2009/2731), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/2731/article/2/c)

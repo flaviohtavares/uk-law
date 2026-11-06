@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. The EEA agreement[^key-b1e878a239764a9b05ca21b3263e0825]
+## 34. The EEA agreement[^c-b1e878a239764a9b05ca21b3263e0825]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Annex 20 to the EEA agreement, omit point 21aa.
 
 ## Annotations
 
-[^key-b1e878a239764a9b05ca21b3263e0825]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-b1e878a239764a9b05ca21b3263e0825]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

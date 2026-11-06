@@ -52,7 +52,7 @@ The Secretary of State, in exercise of the powers conferred by sections 210(9) a
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-9e2682f113bed31e1ead4de506390484]
+### 1. Citation and commencement[^c-9e2682f113bed31e1ead4de506390484]
 
 (1) These Regulations may be cited as the Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020.
 
@@ -60,7 +60,7 @@ The Secretary of State, in exercise of the powers conferred by sections 210(9) a
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. Amendment of the Enterprise Act 2002[^key-47603ee32941f4c38ff3963661913670]
+### 2. Amendment of the Enterprise Act 2002[^c-47603ee32941f4c38ff3963661913670]
 
 (1) The Enterprise Act 2002 is amended as follows.
 
@@ -295,7 +295,7 @@ The Secretary of State, in exercise of the powers conferred by sections 210(9) a
   >
   > Articles 3 to 18 and 20(2) of Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features [^c24092921].
 
-### 3. Amendment of the Consumer Rights Act 2015[^key-d3ddb4459744545d1643428fe29528be]
+### 3. Amendment of the Consumer Rights Act 2015[^c-d3ddb4459744545d1643428fe29528be]
 
 (1) Schedule 5 (investigatory powers etc.) to the Consumer Rights Act 2015 [^c24092931] is amended as follows.
 
@@ -331,21 +331,21 @@ The Secretary of State, in exercise of the powers conferred by sections 210(9) a
   > - (a) the purpose mentioned in sub-paragraph (2), if the condition in sub-paragraph (3) is met, or
   > - (b) to obtain a product for use as evidence in proceedings under Part 8 of the Enterprise Act 2002.
 
-## PART 3 — Specification of UK law for the purpose of section 212 of the Enterprise Act 2002[^key-d5a243925e90319f335f5aef99ca8ed7]
+## PART 3 — Specification of UK law for the purpose of section 212 of the Enterprise Act 2002[^c-d5a243925e90319f335f5aef99ca8ed7]
 
 **No longer in force.**
 
-### 4.[^key-d5a243925e90319f335f5aef99ca8ed7]
+### 4.[^c-d5a243925e90319f335f5aef99ca8ed7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Consequential and transitional provision
 
-### 5. Financial Conduct Authority[^key-2d3baaa82392b0c57dcb3443fbdf5805]
+### 5. Financial Conduct Authority[^c-2d3baaa82392b0c57dcb3443fbdf5805]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Consequential amendments[^key-b7423787acd2c13d5b18d1216ca8f8c1]
+### 6. Consequential amendments[^c-b7423787acd2c13d5b18d1216ca8f8c1]
 
 (1) The Operation of Air Services in the Community (Pricing etc.) Regulations 2013 [^c24092961] are amended as follows.
 
@@ -366,7 +366,7 @@ The Secretary of State, in exercise of the powers conferred by sections 210(9) a
 
 (6) Omit Part 4.
 
-### 7.[^key-f4979538eef35c9587884e28ef8ef586]
+### 7.[^c-f4979538eef35c9587884e28ef8ef586]
 
 (1) The Civil Aviation (Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) Regulations 2014 [^c24092971] are amended as follows.
 
@@ -381,7 +381,7 @@ The Secretary of State, in exercise of the powers conferred by sections 210(9) a
 
 (3) Omit regulations 5 to 23.
 
-### 8. Transitional provision[^key-11af35be5b2b5bd60c593ae99efebb17]
+### 8. Transitional provision[^c-11af35be5b2b5bd60c593ae99efebb17]
 
 These Regulations have effect only in respect of conduct to the extent that it occurs, or is likely to occur, after these Regulations come into force.
 
@@ -391,7 +391,7 @@ Parliamentary Under Secretary of State
 
 Department for Business, Energy and Industrial Strategy
 
-## SCHEDULE — Listed Directives and Regulations[^key-019455627af81d4a87328ba19e22b82d]
+## SCHEDULE — Listed Directives and Regulations[^c-019455627af81d4a87328ba19e22b82d]
 
 **No longer in force.**
 
@@ -431,9 +431,9 @@ An Explanatory Memorandum and a transposition note are also available with these
 
 [^c24092821]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40). Part 8 amended by the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [section 261(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/1), [Schedule 27](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27), [paragraph 169](https://www.legislation.gov.uk/ukpga/2004/33/paragraph/169), [S.I](https://www.legislation.gov.uk/ukpga/2004/33/section/I). 2006/3363, [S.I. 2007/528](https://www.legislation.gov.uk/uksi/2007/528), [S.I](https://www.legislation.gov.uk/uksi/2007/528/section/I). 2008/1277, [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), [S.I](https://www.legislation.gov.uk/uksi/2009/1941/section/I). 2011/1043, [S.I. 2011/1208](https://www.legislation.gov.uk/uksi/2011/1208), the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [section 114(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/114/1), [Schedule 18](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18), [paragraphs 95(1)](https://www.legislation.gov.uk/ukpga/2012/21/paragraph/95/1) and (2), the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [section 17(5)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/5), [Schedule 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9), [Part 3](https://www.legislation.gov.uk/ukpga/2013/22/part/3), [paragraphs 81(b)](https://www.legislation.gov.uk/ukpga/2013/22/paragraph/81/b) and (c), [S.I. 2013/783](https://www.legislation.gov.uk/uksi/2013/783), [S.I](https://www.legislation.gov.uk/uksi/2013/783/section/I). 2014/631, [S.I. 2014/892](https://www.legislation.gov.uk/uksi/2014/892), the [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [section 77(2)](https://www.legislation.gov.uk/ukpga/2015/15/section/77/2), [Schedule 6](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6), [paragraphs 67 to 80](https://www.legislation.gov.uk/ukpga/2015/15/paragraph/67), [section 79(1)](https://www.legislation.gov.uk/ukpga/2015/15/section/79/1), [Schedule 7](https://www.legislation.gov.uk/ukpga/2015/15/schedule/7), the [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [section 4(10)](https://www.legislation.gov.uk/ukpga/2017/30/section/4/10), [Schedule 3](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3), [Part 2](https://www.legislation.gov.uk/ukpga/2017/30/part/2), [paragraphs 42](https://www.legislation.gov.uk/ukpga/2017/30/paragraph/42) and 44, [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378) and [S.I. 2018/634](https://www.legislation.gov.uk/uksi/2018/634). Schedule 13 amended by [S.I. 2004/2095](https://www.legislation.gov.uk/uksi/2004/2095), [S.I](https://www.legislation.gov.uk/uksi/2004/2095/section/I). 2005/2759, [S.I. 2006/3363](https://www.legislation.gov.uk/uksi/2006/3363), [S.I](https://www.legislation.gov.uk/uksi/2006/3363/section/I). 2008/1277, [S.I. 2009/2999](https://www.legislation.gov.uk/uksi/2009/2999), [S.I](https://www.legislation.gov.uk/uksi/2009/2999/section/I). 2010/1010, [S.I. 2010/2960](https://www.legislation.gov.uk/uksi/2010/2960), [S.I](https://www.legislation.gov.uk/uksi/2010/2960/section/I). 2011/1208, [S.I. 2014/2908](https://www.legislation.gov.uk/uksi/2014/2908), [S.I](https://www.legislation.gov.uk/uksi/2014/2908/section/I). 2015/542, [S.I. 2015/1392](https://www.legislation.gov.uk/uksi/2015/1392), [S.I](https://www.legislation.gov.uk/uksi/2015/1392/section/I). 2015/1911, [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752), [S.I](https://www.legislation.gov.uk/uksi/2017/752/section/I). 2018/634 and [S.I. 2018/1153](https://www.legislation.gov.uk/uksi/2018/1153). There are amendments to other provisions of the Act, but those amendments are not relevant to these Regulations.
 
-[^key-9e2682f113bed31e1ead4de506390484]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/484/regulation/1) in force at 2.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2)
+[^c-9e2682f113bed31e1ead4de506390484]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/484/regulation/1) in force at 2.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2)
 
-[^key-47603ee32941f4c38ff3963661913670]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/484/regulation/2) in force at 2.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2)
+[^c-47603ee32941f4c38ff3963661913670]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/484/regulation/2) in force at 2.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2)
 
 [^c24092831]: Marginal citation: OJ No L 204, 26.7.2006, p. 1-9.
 
@@ -455,22 +455,22 @@ An Explanatory Memorandum and a transposition note are also available with these
 
 [^c24092921]: Marginal citation: OJ No L 257, 28.8.2014, p. 214-246.
 
-[^key-d3ddb4459744545d1643428fe29528be]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/484/regulation/3) in force at 2.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2)
+[^c-d3ddb4459744545d1643428fe29528be]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/484/regulation/3) in force at 2.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2)
 
 [^c24092931]: Marginal citation: [2015 c. 15](https://www.legislation.gov.uk/ukpga/2015/15). Schedule 5 amended by [S.I. 2015/1640](https://www.legislation.gov.uk/uksi/2015/1640), [S.I](https://www.legislation.gov.uk/uksi/2015/1640/section/I). 2015/1726, the [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [section 25(2)](https://www.legislation.gov.uk/ukpga/2016/12/section/25/2), the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [section 132(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/132/4), [S.I](https://www.legislation.gov.uk/ukpga/2016/22/section/I). 2016/1091, [S.I. 2016/1092](https://www.legislation.gov.uk/uksi/2016/1092), [S.I](https://www.legislation.gov.uk/uksi/2016/1092/section/I). 2016/1093, [S.I. 2016/1101](https://www.legislation.gov.uk/uksi/2016/1101), [S.I](https://www.legislation.gov.uk/uksi/2016/1101/section/I). 2016/1105, [S.I. 2016/1152](https://www.legislation.gov.uk/uksi/2016/1152), [S.I](https://www.legislation.gov.uk/uksi/2016/1152/section/I). 2016/1153, [S.I. 2016/1259](https://www.legislation.gov.uk/uksi/2016/1259), [S.I](https://www.legislation.gov.uk/uksi/2016/1259/section/I). 2017/737 and [S.I. 2018/634](https://www.legislation.gov.uk/uksi/2018/634). There are amendments to other provisions of the Act, but those amendments are not relevant to these Regulations.
 
-[^key-d5a243925e90319f335f5aef99ca8ed7]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2020/484/part/3) revoked (31.12.2020) by virtue of S.I. 2019/203, reg. 7(f) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/3/5))
+[^c-d5a243925e90319f335f5aef99ca8ed7]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2020/484/part/3) revoked (31.12.2020) by virtue of S.I. 2019/203, reg. 7(f) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/3/5))
 
-[^key-2d3baaa82392b0c57dcb3443fbdf5805]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/484/regulation/5) omitted (31.12.2020) by virtue of S.I. 2019/203, reg. 7A (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/3/6))
+[^c-2d3baaa82392b0c57dcb3443fbdf5805]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/484/regulation/5) omitted (31.12.2020) by virtue of S.I. 2019/203, reg. 7A (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [3(6)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/3/6))
 
-[^key-b7423787acd2c13d5b18d1216ca8f8c1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/484/regulation/6) in force at 2.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2)
+[^c-b7423787acd2c13d5b18d1216ca8f8c1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/484/regulation/6) in force at 2.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2)
 
 [^c24092961]: Marginal citation: [S.I. 2013/486](https://www.legislation.gov.uk/uksi/2013/486), amended by [S.I. 2014/549](https://www.legislation.gov.uk/uksi/2014/549); there is another amending instrument but it is not relevant.
 
-[^key-f4979538eef35c9587884e28ef8ef586]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/484/regulation/7) in force at 2.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2)
+[^c-f4979538eef35c9587884e28ef8ef586]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/484/regulation/7) in force at 2.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2)
 
 [^c24092971]: Marginal citation: [S.I. 2014/2833](https://www.legislation.gov.uk/uksi/2014/2833), amended by [S.I. 2016/729](https://www.legislation.gov.uk/uksi/2016/729).
 
-[^key-11af35be5b2b5bd60c593ae99efebb17]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8) in force at 2.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2)
+[^c-11af35be5b2b5bd60c593ae99efebb17]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8) in force at 2.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2)
 
-[^key-019455627af81d4a87328ba19e22b82d]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2020/484/schedule) revoked (31.12.2020) by virtue of S.I. 2019/203, reg. 7(f) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/3/5))
+[^c-019455627af81d4a87328ba19e22b82d]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2020/484/schedule) revoked (31.12.2020) by virtue of S.I. 2019/203, reg. 7(f) (as inserted by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/3/5))

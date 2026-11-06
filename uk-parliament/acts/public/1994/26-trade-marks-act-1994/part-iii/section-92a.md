@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92A. Search warrants[^key-2f8a960eee81b37686c35b889d84ec66][^c1130410]
+## 92A. Search warrants[^c-2f8a960eee81b37686c35b889d84ec66][^c1130410]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ he may issue a warrant authorising a constable to enter and search the premises,
 (3) A warrant under subsection (1)—
 
 - (a) may authorise persons to accompany any constable executing the warrant, and
-- (b) remains in force for 28 days *(Extent: E+W)* *(affected by repeal, see note)*[^key-d2a3961db83ea38fb1c58bc0dc5155a7] three months *(Extent: E+W)* from the date of its issue.
+- (b) remains in force for 28 days *(Extent: E+W)* *(affected by repeal, see note)*[^c-d2a3961db83ea38fb1c58bc0dc5155a7] three months *(Extent: E+W)* from the date of its issue.
 
 (4) In executing a warrant issued under subsection (1) a constable may seize an article if he reasonably believes that it is evidence that any offence under section 92 has been or is about to be committed.
 
@@ -40,8 +40,8 @@ he may issue a warrant authorising a constable to enter and search the premises,
 
 ## Annotations
 
-[^key-2f8a960eee81b37686c35b889d84ec66]: Modification: [S. 92A](https://www.legislation.gov.uk/ukpga/1994/26/section/92A) applied (with modifications) (29.4.2006) by [Community Trade Mark Regulations 2006 (S.I. 2006/1027)](https://www.legislation.gov.uk/uksi/2006/1027), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1027/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2006/1027/regulation/8)
+[^c-2f8a960eee81b37686c35b889d84ec66]: Modification: [S. 92A](https://www.legislation.gov.uk/ukpga/1994/26/section/92A) applied (with modifications) (29.4.2006) by [Community Trade Mark Regulations 2006 (S.I. 2006/1027)](https://www.legislation.gov.uk/uksi/2006/1027), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1027/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2006/1027/regulation/8)
 
 [^c1130410]: Textual amendment: S. 92A inserted (20.11.2002) by [2002 c. 24](https://www.legislation.gov.uk/ukpga/2002/24), [s. 6](https://www.legislation.gov.uk/ukpga/2002/24/section/6); [S.I. 2002/2749](https://www.legislation.gov.uk/uksi/2002/2749), [art. 2](https://www.legislation.gov.uk/uksi/2002/2749/article/2)
 
-[^key-d2a3961db83ea38fb1c58bc0dc5155a7]: Textual amendment: Words in [s. 92A(3)(b)](https://www.legislation.gov.uk/ukpga/1994/26/section/92A/3/b) substituted (E.W.) (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2005/15/schedule/16/paragraph/8); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(s)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/s)
+[^c-d2a3961db83ea38fb1c58bc0dc5155a7]: Textual amendment: Words in [s. 92A(3)(b)](https://www.legislation.gov.uk/ukpga/1994/26/section/92A/3/b) substituted (E.W.) (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2005/15/schedule/16/paragraph/8); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(s)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/s)

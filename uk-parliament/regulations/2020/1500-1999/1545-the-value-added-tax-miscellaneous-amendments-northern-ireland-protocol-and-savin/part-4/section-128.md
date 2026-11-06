@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128.[^key-f36276f78b617f7368c401265dec9c0d]
+## 128.[^c-f36276f78b617f7368c401265dec9c0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f36276f78b617f7368c401265dec9c0d]: Commencement: Reg. 128 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-f36276f78b617f7368c401265dec9c0d]: Commencement: Reg. 128 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395921]: Marginal citation: [S.I. 2002/1935](https://www.legislation.gov.uk/uksi/2002/1935); revoked by [S.I. 2019/59](https://www.legislation.gov.uk/uksi/2019/59). The provision revoking [S.I. 2002/1935](https://www.legislation.gov.uk/uksi/2002/1935) has not been commenced and is now omitted by this instrument.

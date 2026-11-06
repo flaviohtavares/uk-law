@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health
 
-The Plant Health (Scotland) Amendment Order 2010 (revoked)[^key-99f35b7af0f8e354cffd72a476b461a1]
+The Plant Health (Scotland) Amendment Order 2010 (revoked)[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 Made
 
@@ -46,103 +46,103 @@ Coming into force
 
 1st July 2010
 
-[^key-99f35b7af0f8e354cffd72a476b461a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99f35b7af0f8e354cffd72a476b461a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-99f35b7af0f8e354cffd72a476b461a1]
+## 1. Citation, commencement and extent[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Plant Health (Scotland) Order 2005[^key-99f35b7af0f8e354cffd72a476b461a1]
+## 2. Amendments to the Plant Health (Scotland) Order 2005[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of article 2 (general interpretation)[^key-99f35b7af0f8e354cffd72a476b461a1]
+## 3. Amendment of article 2 (general interpretation)[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Part 6 (measures to control the landing of relevant material and prevent the spread of plant pests)[^key-99f35b7af0f8e354cffd72a476b461a1]
+## 4. Amendment of Part 6 (measures to control the landing of relevant material and prevent the spread of plant pests)[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Part 7 (planting of, and control of plant pests on, certain solanaceous species)[^key-99f35b7af0f8e354cffd72a476b461a1]
+## 5. Amendment of Part 7 (planting of, and control of plant pests on, certain solanaceous species)[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Insertion of article 38A (interpretation of Part 7)[^key-99f35b7af0f8e354cffd72a476b461a1]
+## 6. Insertion of article 38A (interpretation of Part 7)[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of article 39 (miscellaneous provisions for certain solanaceous species)[^key-99f35b7af0f8e354cffd72a476b461a1]
+## 7. Amendment of article 39 (miscellaneous provisions for certain solanaceous species)[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of article 45 (offences)[^key-99f35b7af0f8e354cffd72a476b461a1]
+## 8. Amendment of article 45 (offences)[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of Schedule 2 (relevant material which may not be landed in or moved within Scotland if that material is carrying or infected with plant pests)[^key-99f35b7af0f8e354cffd72a476b461a1]
+## 9. Amendment of Schedule 2 (relevant material which may not be landed in or moved within Scotland if that material is carrying or infected with plant pests)[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Schedule 15 (special measures for the control of Potato Cyst Nematode)[^key-99f35b7af0f8e354cffd72a476b461a1]
+## 10. Schedule 15 (special measures for the control of Potato Cyst Nematode)[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Insertion of Schedule 15A (species to which controls apply)[^key-99f35b7af0f8e354cffd72a476b461a1]
+## 11. Insertion of Schedule 15A (species to which controls apply)[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Savings provision[^key-99f35b7af0f8e354cffd72a476b461a1]
+## 12. Savings provision[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-99f35b7af0f8e354cffd72a476b461a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99f35b7af0f8e354cffd72a476b461a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-99f35b7af0f8e354cffd72a476b461a1]
+## SCHEDULE 1[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 Article 10
 
-> **SCHEDULE 15 — Special measures for the control of Potato Cyst Nematode[^key-99f35b7af0f8e354cffd72a476b461a1]**
+> **SCHEDULE 15 — Special measures for the control of Potato Cyst Nematode[^c-99f35b7af0f8e354cffd72a476b461a1]**
 >
 > Article 39(6) and (8)
 >
-> **1. Sampling and testing[^key-99f35b7af0f8e354cffd72a476b461a1]**
+> **1. Sampling and testing[^c-99f35b7af0f8e354cffd72a476b461a1]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7. Control Measures[^key-99f35b7af0f8e354cffd72a476b461a1]**
+> **7. Control Measures[^c-99f35b7af0f8e354cffd72a476b461a1]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9.**[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10.**[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11.**[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **12.**[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **12.**[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-99f35b7af0f8e354cffd72a476b461a1]
+## SCHEDULE 2[^c-99f35b7af0f8e354cffd72a476b461a1]
 
 Article 11
 
-> **SCHEDULE 15A — Species to which controls apply[^key-99f35b7af0f8e354cffd72a476b461a1]**
+> **SCHEDULE 15A — Species to which controls apply[^c-99f35b7af0f8e354cffd72a476b461a1]**
 >
 > Article 39(8), (9)(b) and (10)
 >
@@ -150,7 +150,7 @@ Article 11
 
 **No longer in force.**
 
-[^key-99f35b7af0f8e354cffd72a476b461a1]EXPLANATORY NOTE
+[^c-99f35b7af0f8e354cffd72a476b461a1]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -160,14 +160,14 @@ Article 7 makes various amendments to article 39 of the principal Order so as t
 
 The official soil test is to be carried out in accordance with the procedures that are now set out in Schedule 15 (articles 7 and 10 and Schedule 1) and must be carried out either—
 
-- (a)[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Article 7 also amends article 39 of the principal Order to set out 5 categories which are to be exempt from the soil test requirement. The exemptions apply to—
 
-- (a)[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-99f35b7af0f8e354cffd72a476b461a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Article 8 adds article 39(8) to the offence provision in article 45(1) of the principal Order.
 
@@ -183,4 +183,4 @@ A Regulatory Impact Assessment has been prepared for this instrument. Copies are
 
 ## Annotations
 
-[^key-99f35b7af0f8e354cffd72a476b461a1]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6)
+[^c-99f35b7af0f8e354cffd72a476b461a1]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6)

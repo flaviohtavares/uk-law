@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72M. Disclosure of auditor remuneration required in notes to accounts[^key-c5d985bb85ac833a8ab43f20cc7c1208]
+## 72M. Disclosure of auditor remuneration required in notes to accounts[^c-c5d985bb85ac833a8ab43f20cc7c1208]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5d985bb85ac833a8ab43f20cc7c1208]: Textual amendment: S. 72M inserted (29.6.2008) by [The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1519)](https://www.legislation.gov.uk/uksi/2008/1519), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1519/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2008/1519/article/4/1)
+[^c-c5d985bb85ac833a8ab43f20cc7c1208]: Textual amendment: S. 72M inserted (29.6.2008) by [The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1519)](https://www.legislation.gov.uk/uksi/2008/1519), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1519/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2008/1519/article/4/1)

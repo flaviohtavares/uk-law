@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Classification of roads, etc.[^key-3840d38c4ca93d643cf008213e6e09a8]
+## 40. Classification of roads, etc.[^c-3840d38c4ca93d643cf008213e6e09a8]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3840d38c4ca93d643cf008213e6e09a8]: Commencement: Art. 40 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-3840d38c4ca93d643cf008213e6e09a8]: Commencement: Art. 40 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
 [^f00100]: Footnote: Section 10(2) was amended by section 22(2)(a) of the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22) and by section 1(6) of, and paragraphs 1 and 10(1) and (2) of Schedule 1 to, the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 

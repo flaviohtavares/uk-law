@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Meaning of “independent medical agency”[^key-0442533915657087e80347ad0736dd5a][^key-29bea316b380d0a0352709836ce6a91d]
+## 106. Meaning of “independent medical agency”[^c-0442533915657087e80347ad0736dd5a][^c-29bea316b380d0a0352709836ce6a91d]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In section 2(5) of the Care Standards Act 2000 (c. 14) (an “**independent medi
 
 ## Annotations
 
-[^key-0442533915657087e80347ad0736dd5a]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2003/43/section/106) in force at 1.4.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/759/article/3/1)
+[^c-0442533915657087e80347ad0736dd5a]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2003/43/section/106) in force at 1.4.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/759/article/3/1)
 
-[^key-29bea316b380d0a0352709836ce6a91d]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2003/43/section/106) in force at 1.4.2004 for W. by [S.I. 2004/873](https://www.legislation.gov.uk/wsi/2004/873), [art. 2(e)](https://www.legislation.gov.uk/wsi/2004/873/article/2/e)
+[^c-29bea316b380d0a0352709836ce6a91d]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2003/43/section/106) in force at 1.4.2004 for W. by [S.I. 2004/873](https://www.legislation.gov.uk/wsi/2004/873), [art. 2(e)](https://www.legislation.gov.uk/wsi/2004/873/article/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Review of regulatory performance by the Lord President[^key-6d982f392b35523ae61c201d64edd636][^key-0674f642f92583c42ef9c0173ea6a889]
+## 18. Review of regulatory performance by the Lord President[^c-6d982f392b35523ae61c201d64edd636][^c-0674f642f92583c42ef9c0173ea6a889]
 
 *Extent: S*
 
@@ -102,6 +102,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d982f392b35523ae61c201d64edd636]: Commencement: S. 18 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-6d982f392b35523ae61c201d64edd636]: Commencement: S. 18 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-0674f642f92583c42ef9c0173ea6a889]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2025/8/section/18) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-0674f642f92583c42ef9c0173ea6a889]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2025/8/section/18) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

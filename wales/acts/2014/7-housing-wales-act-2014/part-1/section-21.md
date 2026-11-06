@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Determination of application[^key-ab1b37d31ea6fbd788e96d4d4e5b318e][^key-a055ba6623881dcb613c4f55dc0fd57b]
+## 21. Determination of application[^c-ab1b37d31ea6fbd788e96d4d4e5b318e][^c-a055ba6623881dcb613c4f55dc0fd57b]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab1b37d31ea6fbd788e96d4d4e5b318e]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2014/7/section/21) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-ab1b37d31ea6fbd788e96d4d4e5b318e]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2014/7/section/21) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-a055ba6623881dcb613c4f55dc0fd57b]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2014/7/section/21) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(k)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/k)
+[^c-a055ba6623881dcb613c4f55dc0fd57b]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2014/7/section/21) in force at 23.11.2015 in so far as not already in force by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(k)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/k)

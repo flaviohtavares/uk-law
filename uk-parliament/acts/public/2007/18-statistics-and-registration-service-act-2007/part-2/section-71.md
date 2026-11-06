@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Deputy superintendent registrars and registrars[^key-919290716d01732eecdb3a154bb8aeba]
+## 71. Deputy superintendent registrars and registrars[^c-919290716d01732eecdb3a154bb8aeba]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ For section 8 of the Registration Service Act 1953 (deputy superintendent regist
 
 ## Annotations
 
-[^key-919290716d01732eecdb3a154bb8aeba]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2007/18/section/71) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
+[^c-919290716d01732eecdb3a154bb8aeba]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2007/18/section/71) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)

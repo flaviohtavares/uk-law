@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116ZA. Local authority powers to prosecute housing benefit and council tax benefit fraud[^key-73acaaf1082cefce599f21b31501c2f1]
+## 116ZA. Local authority powers to prosecute housing benefit and council tax benefit fraud[^c-73acaaf1082cefce599f21b31501c2f1]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73acaaf1082cefce599f21b31501c2f1]: Textual amendment: [S. 116ZA](https://www.legislation.gov.uk/ukpga/1992/5/section/116ZA) inserted (20.4.2016 for specified purposes, 24.5.2016 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 112(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/112/2), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2016/511](https://www.legislation.gov.uk/uksi/2016/511), [arts. 3](https://www.legislation.gov.uk/uksi/2016/511/article/3), [4(a)](https://www.legislation.gov.uk/uksi/2016/511/article/4/a)
+[^c-73acaaf1082cefce599f21b31501c2f1]: Textual amendment: [S. 116ZA](https://www.legislation.gov.uk/ukpga/1992/5/section/116ZA) inserted (20.4.2016 for specified purposes, 24.5.2016 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 112(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/112/2), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2016/511](https://www.legislation.gov.uk/uksi/2016/511), [arts. 3](https://www.legislation.gov.uk/uksi/2016/511/article/3), [4(a)](https://www.legislation.gov.uk/uksi/2016/511/article/4/a)

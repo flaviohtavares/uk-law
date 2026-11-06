@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Repeals[^key-3bbd2d8e77549b5d4eec3011374bdbb8][^key-4d6341c34723427d670e47df2e30a22f][^key-ed0dac9ec4dea858650952d05ffcf200]
+## SCHEDULE 5 — Repeals[^c-3bbd2d8e77549b5d4eec3011374bdbb8][^c-4d6341c34723427d670e47df2e30a22f][^c-ed0dac9ec4dea858650952d05ffcf200]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,8 +56,8 @@ Section 139
 
 ## Annotations
 
-[^key-3bbd2d8e77549b5d4eec3011374bdbb8]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) in force at 28.11.2003 for specified purposes by [S.I. 2003/3079](https://www.legislation.gov.uk/uksi/2003/3079), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2003/3079/article/2/1/d)
+[^c-3bbd2d8e77549b5d4eec3011374bdbb8]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) in force at 28.11.2003 for specified purposes by [S.I. 2003/3079](https://www.legislation.gov.uk/uksi/2003/3079), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2003/3079/article/2/1/d)
 
-[^key-4d6341c34723427d670e47df2e30a22f]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) in force at 30.12.2005 for specified purposes by [S.S.I. 2005/643](https://www.legislation.gov.uk/ssi/2005/643), [art. 2(e)](https://www.legislation.gov.uk/ssi/2005/643/article/2/e)
+[^c-4d6341c34723427d670e47df2e30a22f]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) in force at 30.12.2005 for specified purposes by [S.S.I. 2005/643](https://www.legislation.gov.uk/ssi/2005/643), [art. 2(e)](https://www.legislation.gov.uk/ssi/2005/643/article/2/e)
 
-[^key-ed0dac9ec4dea858650952d05ffcf200]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) in force at 30.12.2005 for specified purposes by [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b) (with [arts. 3-16](https://www.legislation.gov.uk/uksi/2005/2897/article/3))
+[^c-ed0dac9ec4dea858650952d05ffcf200]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) in force at 30.12.2005 for specified purposes by [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b) (with [arts. 3-16](https://www.legislation.gov.uk/uksi/2005/2897/article/3))

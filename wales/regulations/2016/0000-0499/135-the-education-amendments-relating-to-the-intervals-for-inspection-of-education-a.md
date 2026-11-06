@@ -45,17 +45,17 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred on the Secretary of State by sections 122(1) and 138(7) and (8) of, and paragraphs 6B(1)(a) and 13B(2) of Schedule 26 to, the School Standards and Framework Act 1998[^f00001], and in exercise of the powers conferred on the National Assembly for Wales by sections 77(2) and (9), 150 and 152 of the Learning and Skills Act 2000[^f00002], and by sections 28(1), 50(4) and (8), 55(4), 56(3) and 120(2) of, and paragraph 2(1) of Schedule 6 to, the Education Act 2005[^f00003], and now exercisable by them make the following Regulations:
 
-## 1. Title, commencement and application[^key-fceb1e1eb65f6508c38ce2a4bc7b1161]
+## 1. Title, commencement and application[^c-fceb1e1eb65f6508c38ce2a4bc7b1161]
 
 (1) The title of these Regulations is the Education (Amendments Relating to the Intervals for Inspection of Education and Training) (Wales) Regulations 2016 and they come into force on 1 September 2016.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Amendment to the Inspection of Education and Training (Wales) Regulations 2001[^key-b36165a8242ea79806a01936bb044507]
+## 2. Amendment to the Inspection of Education and Training (Wales) Regulations 2001[^c-b36165a8242ea79806a01936bb044507]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Education (School Inspection) (Wales) Regulations 2006[^key-0dbbbbc3aee96a5d921d6bbe2054316c]
+## 3. Amendments to the Education (School Inspection) (Wales) Regulations 2006[^c-0dbbbbc3aee96a5d921d6bbe2054316c]
 
 The Education (School Inspection) (Wales) Regulations 2006[^f00005] are amended as follows—
 
@@ -68,13 +68,13 @@ The Education (School Inspection) (Wales) Regulations 2006[^f00005] are amended 
 
   > - (b) in all other cases, at least once within a seven year period beginning on 1 September 2016 and ending on 31 August 2023 and at least once within every subsequent six year period beginning on the expiry of the previous period.
 
-## 4. Amendment to the Inspection of the Careers and Related Services (Wales) Regulations 2006[^key-cc5f34087ee4f989465082138e145034]
+## 4. Amendment to the Inspection of the Careers and Related Services (Wales) Regulations 2006[^c-cc5f34087ee4f989465082138e145034]
 
 In regulation 4 of the Inspection of the Careers and Related Services (Wales) Regulations 2006[^f00006], for paragraph (1) substitute—
 
 > (1) Save where regulation 3 applies, the Chief Inspector must inspect each service provider under section 55 of the 2005 Act and each relevant provider under section 56 of the 2005 Act at least once within a seven year period beginning on 1 September 2016 and ending on 31 August 2023 and at least once within every subsequent six year period beginning on the expiry of the previous period.
 
-## 5. Amendment to the Education (Inspection of Nursery Education) (Wales) Regulations 2015[^key-a91e7ab667c33afe98f9a8975d93ffb0]
+## 5. Amendment to the Education (Inspection of Nursery Education) (Wales) Regulations 2015[^c-a91e7ab667c33afe98f9a8975d93ffb0]
 
 The Education (Inspection of Nursery Education) (Wales) Regulations 2015[^f00007] are amended as follows—
 
@@ -118,19 +118,19 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: [2005 c. 18](https://www.legislation.gov.uk/ukpga/2005/18). The functions of the National Assembly for Wales under these sections were transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
 
-[^key-fceb1e1eb65f6508c38ce2a4bc7b1161]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/135/regulation/1) in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/135/regulation/1/1)
+[^c-fceb1e1eb65f6508c38ce2a4bc7b1161]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/135/regulation/1) in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/135/regulation/1/1)
 
-[^key-b36165a8242ea79806a01936bb044507]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/135/regulation/2) revoked (1.4.2026) by [The Inspection of Education and Training (Wales) Regulations 2026 (W.S.I. 2026/67)](https://www.legislation.gov.uk/wsi/2026/67), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/67/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/67/regulation/4)
+[^c-b36165a8242ea79806a01936bb044507]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/135/regulation/2) revoked (1.4.2026) by [The Inspection of Education and Training (Wales) Regulations 2026 (W.S.I. 2026/67)](https://www.legislation.gov.uk/wsi/2026/67), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/67/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/67/regulation/4)
 
-[^key-0dbbbbc3aee96a5d921d6bbe2054316c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/135/regulation/3) in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/135/regulation/1/1)
+[^c-0dbbbbc3aee96a5d921d6bbe2054316c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/135/regulation/3) in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/135/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2006/1714 (W. 176)](https://www.legislation.gov.uk/wsi/2006/1714) as amended by the Education (Amendments Relating to the Intervals for the Inspection of Education and Training) (Wales) Regulations 2010 ([S.I. 2010/1436 (W. 127)](https://www.legislation.gov.uk/wsi/2010/1436)) and the Education (Amendments Relating to the Inspection of Education and Training) (Wales) Regulations 2014 ([S.I. 2014/1212 (W. 128)](https://www.legislation.gov.uk/wsi/2014/1212)).
 
-[^key-cc5f34087ee4f989465082138e145034]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/135/regulation/4) in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/135/regulation/1/1)
+[^c-cc5f34087ee4f989465082138e145034]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/135/regulation/4) in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/135/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2006/3103 (W. 286)](https://www.legislation.gov.uk/wsi/2006/3103) as amended by the Education (Amendments Relating to the Intervals for the Inspection of Education and Training) (Wales) Regulations 2010 ([S.I. 2010/1436 (W. 127)](https://www.legislation.gov.uk/wsi/2010/1436)) and the Education (Amendments Relating to the Inspection of Education and Training) (Wales) Regulations 2014 ([S.I. 2014/1212 (W. 128)](https://www.legislation.gov.uk/wsi/2014/1212)).
 
-[^key-a91e7ab667c33afe98f9a8975d93ffb0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/135/regulation/5) in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/135/regulation/1/1)
+[^c-a91e7ab667c33afe98f9a8975d93ffb0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/135/regulation/5) in force at 1.9.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/135/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2015/1599 (W. 198)](https://www.legislation.gov.uk/wsi/2015/1599).
 

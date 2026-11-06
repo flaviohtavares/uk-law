@@ -33,7 +33,7 @@ the Secretary of State may make regulations prohibiting, restricting or imposing
 - (a) aircraft, whether or not they are registered in the United Kingdom, in any airspace over the United Kingdom or in the neighbourhood of an offshore installation; and
 - (b) aircraft which are registered in the United Kingdom, in any other airspace, being airspace for which the United Kingdom has, under international arrangements, undertaken to provide navigation services for aircraft.
 
-(3) Regulations made under this article may apply either generally or in relation to any individual aircraft or[^key-0f535c135735b85a8acd15472f4098c9] class of aircraft.
+(3) Regulations made under this article may apply either generally or in relation to any individual aircraft or[^c-0f535c135735b85a8acd15472f4098c9] class of aircraft.
 
 (4) It is an offence to contravene, permit the contravention of or fail to comply with any regulations made under this article.
 
@@ -43,4 +43,4 @@ the Secretary of State may make regulations prohibiting, restricting or imposing
 
 ## Annotations
 
-[^key-0f535c135735b85a8acd15472f4098c9]: Textual amendment: Words in [art. 239(3)](https://www.legislation.gov.uk/uksi/2016/765/article/239/3) inserted (4.11.2024) by [The Air Navigation (Amendment) Order 2024 (S.I. 2024/990)](https://www.legislation.gov.uk/uksi/2024/990), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/990/article/1/2), [6](https://www.legislation.gov.uk/uksi/2024/990/article/6)
+[^c-0f535c135735b85a8acd15472f4098c9]: Textual amendment: Words in [art. 239(3)](https://www.legislation.gov.uk/uksi/2016/765/article/239/3) inserted (4.11.2024) by [The Air Navigation (Amendment) Order 2024 (S.I. 2024/990)](https://www.legislation.gov.uk/uksi/2024/990), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/990/article/1/2), [6](https://www.legislation.gov.uk/uksi/2024/990/article/6)

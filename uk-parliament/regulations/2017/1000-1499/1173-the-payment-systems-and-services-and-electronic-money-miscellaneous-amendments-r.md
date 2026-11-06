@@ -44,11 +44,11 @@ Coming into force in accordance with regulation 1
 
 The Treasury are a government department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to financial services.
 
-The Treasury make these Regulations in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, section 379A of the Financial Services and Markets Act 2000[^f00003] and sections 204(6) and (8) and 259(1) of the Banking Act 2009[^f00004].[^key-7e552d39f2bc18d3fbb2c763915cf216]
+The Treasury make these Regulations in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, section 379A of the Financial Services and Markets Act 2000[^f00003] and sections 204(6) and (8) and 259(1) of the Banking Act 2009[^f00004].[^c-7e552d39f2bc18d3fbb2c763915cf216]
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation and commencement[^key-b1b46b5a8bcd0a63682adf9709bfbf18]
+### 1. Citation and commencement[^c-b1b46b5a8bcd0a63682adf9709bfbf18]
 
 (1) These Regulations may be cited as the Payment Systems and Services and Electronic Money (Miscellaneous Amendments) Regulations 2017.
 
@@ -60,7 +60,7 @@ The Treasury make these Regulations in exercise of the powers conferred on them 
 
 ## PART 2 — Amendment of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999
 
-### 2. Amendment of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^key-46f992ace15cbaa08dd50a8e90b99fdd]
+### 2. Amendment of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999[^c-46f992ace15cbaa08dd50a8e90b99fdd]
 
 In regulation 2(1) of the Financial Markets and Insolvency (Settlement Finality) Regulations 1999 (interpretation)[^f00005], in the definition of “institution” after paragraph (aa) insert—
 
@@ -70,11 +70,11 @@ In regulation 2(1) of the Financial Markets and Insolvency (Settlement Finality)
 
 ## PART 3 — Amendments relating to the Electronic Money Regulations 2011 and the Payment Services Regulations 2017
 
-### 3. Amendment of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^key-b85fb8152cd7634936dbf38f4fe3708f][^key-ede0206d6108bced75227d03cc7ebdd6]
+### 3. Amendment of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^c-b85fb8152cd7634936dbf38f4fe3708f][^c-ede0206d6108bced75227d03cc7ebdd6]
 
 In article 3(1)(g) of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^f00006], in the table, after “an authorised payment institution” in each place it appears insert “, a registered account information service provider”.
 
-### 4. Amendment of the Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^key-b7b5d85a9f015eeabed6e1576ab4e150][^key-5344ae4add1fc3e18ea55dc52282601a]
+### 4. Amendment of the Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^c-b7b5d85a9f015eeabed6e1576ab4e150][^c-5344ae4add1fc3e18ea55dc52282601a]
 
 In the Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^f00007]—
 
@@ -90,7 +90,7 @@ In the Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^f
   - (i) after “an authorised payment institution” insert “, a registered account information service provider”;
   - (ii) for “2009” substitute “2017”.
 
-### 5. Amendment of the Electronic Money Regulations 2011[^key-ab9cd412b6306b9ff2153fe25351d71f]
+### 5. Amendment of the Electronic Money Regulations 2011[^c-ab9cd412b6306b9ff2153fe25351d71f]
 
 In the Electronic Money Regulations 2011[^f00008]—
 
@@ -153,7 +153,7 @@ In the Electronic Money Regulations 2011[^f00008]—
 
   .
 
-### 6. Amendment of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^key-d248a8db4814d59ce50ea42ab63919c5][^key-6508d0ce81c1400e0b85e0036ff24ec7]
+### 6. Amendment of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^c-d248a8db4814d59ce50ea42ab63919c5][^c-6508d0ce81c1400e0b85e0036ff24ec7]
 
 In the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2013[^f00011]—
 
@@ -169,7 +169,7 @@ In the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotlan
   - (ii) in sub-paragraphs (o) and (p) for “2009” substitute “2017”;
 - (c) in Part 2 of Schedule 2 (table referred to in Part 1 of Schedule 2 and in paragraph 7 of Schedule 3), after “an authorised payment institution” in each place it appears insert “, a registered account information service provider”.
 
-### 7. Amendment of the Payment Services Regulations 2017[^key-0f4cffd413d04810662a224fc6b96398]
+### 7. Amendment of the Payment Services Regulations 2017[^c-0f4cffd413d04810662a224fc6b96398]
 
 In the Payment Services Regulations 2017[^f00012]—
 
@@ -207,7 +207,7 @@ In the Payment Services Regulations 2017[^f00012]—
 
 ## PART 4 — Amendments in consequence of the Digital Economy Act 2017
 
-### 8. Amendment of the Banking Act 2009 (Inter-Bank Payment Systems) (Disclosure and Publication of Specified Information) Regulations 2010[^key-362846e7155756cfd38ba533c1b9a846]
+### 8. Amendment of the Banking Act 2009 (Inter-Bank Payment Systems) (Disclosure and Publication of Specified Information) Regulations 2010[^c-362846e7155756cfd38ba533c1b9a846]
 
 The Banking Act 2009 (Inter-Bank Payment Systems) (Disclosure and Publication of Specified Information) Regulations 2010[^f00013] are amended as follows—
 
@@ -248,27 +248,27 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00004]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1). Section 204 was amended by paragraph 45 of Schedule 2 to the Financial Services Act [2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), section 104 of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), paragraph 60 of Schedule 2 to the Bank of England and Financial Services Act [2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14) and paragraph 26 of Schedule 9 to the Digital Economy Act 2017. Section 259 has been amended but none of the amendments are relevant here.
 
-[^key-7e552d39f2bc18d3fbb2c763915cf216]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/1173): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)[s. 3 Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/section/3/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-7e552d39f2bc18d3fbb2c763915cf216]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/1173): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)[s. 3 Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/section/3/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-b1b46b5a8bcd0a63682adf9709bfbf18]: Commencement: Reg. 1 in force at 22.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/2)
+[^c-b1b46b5a8bcd0a63682adf9709bfbf18]: Commencement: Reg. 1 in force at 22.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/2)
 
-[^key-46f992ace15cbaa08dd50a8e90b99fdd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1173/regulation/2) in force at 13.1.2018, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4)
+[^c-46f992ace15cbaa08dd50a8e90b99fdd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1173/regulation/2) in force at 13.1.2018, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4)
 
 [^f00005]: Footnote: [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979). The definition of “institution” was amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [2010/2993](https://www.legislation.gov.uk/uksi/2010/2993).
 
-[^key-b85fb8152cd7634936dbf38f4fe3708f]: Commencement: Reg. 3 in force at 22.12.2017 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/3)
+[^c-b85fb8152cd7634936dbf38f4fe3708f]: Commencement: Reg. 3 in force at 22.12.2017 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/3)
 
-[^key-ede0206d6108bced75227d03cc7ebdd6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1173/regulation/3) in force at 13.1.2018 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4)
+[^c-ede0206d6108bced75227d03cc7ebdd6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1173/regulation/3) in force at 13.1.2018 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4)
 
 [^f00006]: Footnote: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023). Article 3 was amended by [S.I. 2001/3816](https://www.legislation.gov.uk/uksi/2001/3816), [2007/2149](https://www.legislation.gov.uk/uksi/2007/2149), [2008/3259](https://www.legislation.gov.uk/uksi/2008/3259), [2013/472](https://www.legislation.gov.uk/uksi/2013/472), [1198](https://www.legislation.gov.uk/uksi/2013/1198) and [1338](https://www.legislation.gov.uk/uksi/2013/1338) and [S.S.I. 2003/231](https://www.legislation.gov.uk/ssi/2003/231), and by other instruments which are not relevant here. The definition of “registered account information service provider” was inserted into article 2 by [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752).
 
-[^key-b7b5d85a9f015eeabed6e1576ab4e150]: Commencement: Reg. 4 in force at 22.12.2017 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/3)
+[^c-b7b5d85a9f015eeabed6e1576ab4e150]: Commencement: Reg. 4 in force at 22.12.2017 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/3)
 
-[^key-5344ae4add1fc3e18ea55dc52282601a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/1173/regulation/4) in force at 13.1.2018 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4)
+[^c-5344ae4add1fc3e18ea55dc52282601a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/1173/regulation/4) in force at 13.1.2018 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4)
 
 [^f00007]: Footnote: [S.R. 1979 No. 195](https://www.legislation.gov.uk/nisr/1979/195). Amended by [S.R. 2012 No. 318](https://www.legislation.gov.uk/nisr/2012/318) and 2014 Nos [27](https://www.legislation.gov.uk/nisr/2014/27) and [174](https://www.legislation.gov.uk/nisr/2014/174) and by other instruments which are not relevant here.
 
-[^key-ab9cd412b6306b9ff2153fe25351d71f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1173/regulation/5) in force at 13.1.2018, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4)
+[^c-ab9cd412b6306b9ff2153fe25351d71f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1173/regulation/5) in force at 13.1.2018, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4)
 
 [^f00008]: Footnote: [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99). Regulations 21 and 22 were amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and [2017/701](https://www.legislation.gov.uk/uksi/2017/701) and [752](https://www.legislation.gov.uk/uksi/2017/752).
 
@@ -276,16 +276,16 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00010]: Footnote: Paragraph 14 was amended by paragraph 25 of Schedule 11 to the Financial Services Act 2012 and by [S.I. 2015/542](https://www.legislation.gov.uk/uksi/2015/542).
 
-[^key-d248a8db4814d59ce50ea42ab63919c5]: Commencement: Reg. 6 in force at 22.12.2017 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/3)
+[^c-d248a8db4814d59ce50ea42ab63919c5]: Commencement: Reg. 6 in force at 22.12.2017 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/3)
 
-[^key-6508d0ce81c1400e0b85e0036ff24ec7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1173/regulation/6) in force at 13.1.2018 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4)
+[^c-6508d0ce81c1400e0b85e0036ff24ec7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1173/regulation/6) in force at 13.1.2018 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4)
 
 [^f00011]: Footnote: [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50). Amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472) and by other instruments which are not relevant here.
 
-[^key-0f4cffd413d04810662a224fc6b96398]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1173/regulation/7) in force at 13.1.2018, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4)
+[^c-0f4cffd413d04810662a224fc6b96398]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1173/regulation/7) in force at 13.1.2018, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/4)
 
 [^f00012]: Footnote: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752).
 
-[^key-362846e7155756cfd38ba533c1b9a846]: Commencement: Reg. 8 in force at 22.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/2)
+[^c-362846e7155756cfd38ba533c1b9a846]: Commencement: Reg. 8 in force at 22.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1173/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2010/828](https://www.legislation.gov.uk/uksi/2010/828). Amended by [S.I. 2015/488](https://www.legislation.gov.uk/uksi/2015/488).

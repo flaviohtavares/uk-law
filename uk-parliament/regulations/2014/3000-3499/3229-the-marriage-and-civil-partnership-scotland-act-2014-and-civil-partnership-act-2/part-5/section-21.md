@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Duty to register civil partnerships changed into marriages[^key-b9b42e159da2d1a329b47a5cad5f66e1]
+## 21. Duty to register civil partnerships changed into marriages[^c-b9b42e159da2d1a329b47a5cad5f66e1]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9b42e159da2d1a329b47a5cad5f66e1]: Commencement: Art. 21 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-b9b42e159da2d1a329b47a5cad5f66e1]: Commencement: Art. 21 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

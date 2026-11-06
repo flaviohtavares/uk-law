@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208A. Detention of children under sections 205(2) and 208(1)[^key-49a35c3e68bc29511d82393c9bf540a1]
+## 208A. Detention of children under sections 205(2) and 208(1)[^c-49a35c3e68bc29511d82393c9bf540a1]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49a35c3e68bc29511d82393c9bf540a1]: Textual amendment: [S. 208A](https://www.legislation.gov.uk/ukpga/1995/46/section/208A) inserted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 19(6)](https://www.legislation.gov.uk/asp/2024/5/section/19/6), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-49a35c3e68bc29511d82393c9bf540a1]: Textual amendment: [S. 208A](https://www.legislation.gov.uk/ukpga/1995/46/section/208A) inserted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 19(6)](https://www.legislation.gov.uk/asp/2024/5/section/19/6), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))

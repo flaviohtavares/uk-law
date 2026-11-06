@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Applications for HMO licence[^key-0fb3df779230fbf2e65a35f5996d4bb0]
+## 8. Applications for HMO licence[^c-0fb3df779230fbf2e65a35f5996d4bb0]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fb3df779230fbf2e65a35f5996d4bb0]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/22/section/8) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-0fb3df779230fbf2e65a35f5996d4bb0]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2016/22/section/8) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Voluntary deregistration of limited partnership[^key-6939fb654a58fb91e114663a2d9f65e4]
+## 143. Voluntary deregistration of limited partnership[^c-6939fb654a58fb91e114663a2d9f65e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ After section 25 of the Limited Partnerships Act 1907 (inserted by section 141 o
 
 ## Annotations
 
-[^key-6939fb654a58fb91e114663a2d9f65e4]: Commencement: S. 143 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-6939fb654a58fb91e114663a2d9f65e4]: Commencement: S. 143 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

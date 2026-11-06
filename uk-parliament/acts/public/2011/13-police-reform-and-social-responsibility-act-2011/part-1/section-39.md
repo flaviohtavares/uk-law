@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Deputy chief constables[^key-da4ea33064a7a20981ae255e2b0bcfdf]
+## 39. Deputy chief constables[^c-da4ea33064a7a20981ae255e2b0bcfdf]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da4ea33064a7a20981ae255e2b0bcfdf]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2011/13/section/39) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-da4ea33064a7a20981ae255e2b0bcfdf]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2011/13/section/39) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

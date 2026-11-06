@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 192A. Entitlement to work in the United Kingdom[^key-754e8b8cffb69aae815f44a1b5b20e28]
+## 192A. Entitlement to work in the United Kingdom[^c-754e8b8cffb69aae815f44a1b5b20e28]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-754e8b8cffb69aae815f44a1b5b20e28]: Textual amendment: S. 192A inserted (6.4.2017) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/1); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/380/regulation/3))
+[^c-754e8b8cffb69aae815f44a1b5b20e28]: Textual amendment: S. 192A inserted (6.4.2017) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/1); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/380/regulation/3))

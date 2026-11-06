@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-890fa83b1713fc2ab2aa41ef71ef2219]
+## 2. Interpretation[^c-890fa83b1713fc2ab2aa41ef71ef2219]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-890fa83b1713fc2ab2aa41ef71ef2219]: Commencement: Reg. 2 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-890fa83b1713fc2ab2aa41ef71ef2219]: Commencement: Reg. 2 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1999/360](https://www.legislation.gov.uk/uksi/1999/360); this instrument was amended by [S.I. 2007/933](https://www.legislation.gov.uk/uksi/2007/933), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I. 2015/1431](https://www.legislation.gov.uk/uksi/2015/1431), [S.I. 2016/529](https://www.legislation.gov.uk/uksi/2016/529) and [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912) and was modified by [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513). These Regulations revoke the modifications and implement the modifications as amendments.
 

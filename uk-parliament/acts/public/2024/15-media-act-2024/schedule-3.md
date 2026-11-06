@@ -22,13 +22,13 @@ summary: ''
 
 Section 28(2)
 
-**1.**[^key-2bf08ccd73a8c1601bddccbd882a235e][^key-96756731888325bd73af9d5c134fc6ed] The Communications Act 2003 is amended as follows.
+**1.**[^c-2bf08ccd73a8c1601bddccbd882a235e][^c-96756731888325bd73af9d5c134fc6ed] The Communications Act 2003 is amended as follows.
 
-**2.**[^key-f9fe3641a9cc873d7ee1d1c637ac0cec][^key-56a8ed771b800861e0cf281e318500c5] In section 393 (general restrictions on disclosure of information), in subsection (6), in paragraph (a), after “137A” insert “, 362AG(7), 362AW”.
+**2.**[^c-f9fe3641a9cc873d7ee1d1c637ac0cec][^c-56a8ed771b800861e0cf281e318500c5] In section 393 (general restrictions on disclosure of information), in subsection (6), in paragraph (a), after “137A” insert “, 362AG(7), 362AW”.
 
-**3.**[^key-b8361c248ca5ed613ca42c86844d8e35][^key-0faaf2f0fb26d163df5c0bd7755409a4] In section 394 (service of notifications and other documents), in subsection (2), in paragraph (a), after “this Act” insert “, other than Part 3A so far as relating to notifications by OFCOM”.
+**3.**[^c-b8361c248ca5ed613ca42c86844d8e35][^c-0faaf2f0fb26d163df5c0bd7755409a4] In section 394 (service of notifications and other documents), in subsection (2), in paragraph (a), after “this Act” insert “, other than Part 3A so far as relating to notifications by OFCOM”.
 
-**4.**[^key-dccb8933e4439dbdc03d00ce9d62b835][^key-487f3249c33d01360762673e68a2ebc2] In section 400 (destination of fees and penalties), in subsection (1), after paragraph (h) insert—
+**4.**[^c-dccb8933e4439dbdc03d00ce9d62b835][^c-487f3249c33d01360762673e68a2ebc2] In section 400 (destination of fees and penalties), in subsection (1), after paragraph (h) insert—
 
 > - (ha) an amount paid to OFCOM in respect of a penalty imposed by them under Part 3A of this Act;
 
@@ -36,18 +36,18 @@ Section 28(2)
 
 ## Annotations
 
-[^key-2bf08ccd73a8c1601bddccbd882a235e]: Commencement: Sch. 3 para. 1 in force at Royal Assent for specified purposes, see [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a)
+[^c-2bf08ccd73a8c1601bddccbd882a235e]: Commencement: Sch. 3 para. 1 in force at Royal Assent for specified purposes, see [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a)
 
-[^key-96756731888325bd73af9d5c134fc6ed]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2024/15/schedule/3/paragraph/1) in force at 23.8.2024 in so far as not already in force by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/w)
+[^c-96756731888325bd73af9d5c134fc6ed]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2024/15/schedule/3/paragraph/1) in force at 23.8.2024 in so far as not already in force by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/w)
 
-[^key-f9fe3641a9cc873d7ee1d1c637ac0cec]: Commencement: Sch. 3 para. 2 in force at Royal Assent for specified purposes, see [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a)
+[^c-f9fe3641a9cc873d7ee1d1c637ac0cec]: Commencement: Sch. 3 para. 2 in force at Royal Assent for specified purposes, see [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a)
 
-[^key-56a8ed771b800861e0cf281e318500c5]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2024/15/schedule/3/paragraph/2) in force at 23.8.2024 in so far as not already in force by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/w)
+[^c-56a8ed771b800861e0cf281e318500c5]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2024/15/schedule/3/paragraph/2) in force at 23.8.2024 in so far as not already in force by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/w)
 
-[^key-b8361c248ca5ed613ca42c86844d8e35]: Commencement: Sch. 3 para. 3 in force at Royal Assent for specified purposes, see [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a)
+[^c-b8361c248ca5ed613ca42c86844d8e35]: Commencement: Sch. 3 para. 3 in force at Royal Assent for specified purposes, see [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a)
 
-[^key-0faaf2f0fb26d163df5c0bd7755409a4]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2024/15/schedule/3/paragraph/3) in force at 23.8.2024 in so far as not already in force by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/w)
+[^c-0faaf2f0fb26d163df5c0bd7755409a4]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2024/15/schedule/3/paragraph/3) in force at 23.8.2024 in so far as not already in force by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/w)
 
-[^key-dccb8933e4439dbdc03d00ce9d62b835]: Commencement: Sch. 3 para. 4 in force at Royal Assent for specified purposes, see [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a)
+[^c-dccb8933e4439dbdc03d00ce9d62b835]: Commencement: Sch. 3 para. 4 in force at Royal Assent for specified purposes, see [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/a)
 
-[^key-487f3249c33d01360762673e68a2ebc2]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/3/paragraph/4) in force at 23.8.2024 in so far as not already in force by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/w)
+[^c-487f3249c33d01360762673e68a2ebc2]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2024/15/schedule/3/paragraph/4) in force at 23.8.2024 in so far as not already in force by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/w)

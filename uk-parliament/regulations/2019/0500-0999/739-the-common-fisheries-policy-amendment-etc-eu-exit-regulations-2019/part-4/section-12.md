@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Commission Regulation [(EC) No 1010/2009](https://www.legislation.gov.uk/european/regulation/2009/1010) laying down detailed rules for the implementation of Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005) establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing[^key-cad1d576f0640cf04daf6bc5cc9cfa46]
+## 12. Commission Regulation [(EC) No 1010/2009](https://www.legislation.gov.uk/european/regulation/2009/1010) laying down detailed rules for the implementation of Council Regulation [(EC) No 1005/2008](https://www.legislation.gov.uk/european/regulation/2008/1005) establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing[^c-cad1d576f0640cf04daf6bc5cc9cfa46]
 
 *Extent: E+W+S+N.I.*
 
@@ -190,4 +190,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cad1d576f0640cf04daf6bc5cc9cfa46]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-cad1d576f0640cf04daf6bc5cc9cfa46]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

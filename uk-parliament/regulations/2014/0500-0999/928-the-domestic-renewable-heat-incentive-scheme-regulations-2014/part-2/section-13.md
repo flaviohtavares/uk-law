@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Plants where heat generation must be metered[^key-d6ae6485c7dd0fea2f5d5a843e322f87]
+## 13. Plants where heat generation must be metered[^c-d6ae6485c7dd0fea2f5d5a843e322f87]
 
 *Extent: E+W+S*
 
@@ -25,37 +25,37 @@ summary: ''
 - (a) plant A is not a solar thermal plant; and
 - (b) plant A falls within paragraph (2), (3), (4) or (5).
 
-(2) Plant A falls within this paragraph where it provides heat to the same eligible property[^key-7df084a77564a903c99e771a57fcc705] as another plant (“plant B”), except where plant B—
+(2) Plant A falls within this paragraph where it provides heat to the same eligible property[^c-7df084a77564a903c99e771a57fcc705] as another plant (“plant B”), except where plant B—
 
 - (a) is a solar thermal plant;
 - (b) is designed and installed to heat only one room;
-- (ba)[^key-6eddf76fdee58a4b37c7b15827470343] is located in a partition wall and directly radiates heat to two rooms;
-- (c) captures heat from air which is expelled from the eligible property[^key-055bde090ef1fc1d21868f64caa5d951] and transfers that heat into fresh air entering that property without generating additional heat;
+- (ba)[^c-6eddf76fdee58a4b37c7b15827470343] is located in a partition wall and directly radiates heat to two rooms;
+- (c) captures heat from air which is expelled from the eligible property[^c-055bde090ef1fc1d21868f64caa5d951] and transfers that heat into fresh air entering that property without generating additional heat;
 - (d) is an immersion heater for a domestic hot water cylinder or is any other plant which solely generates heat for the purpose of heating domestic hot water; or
 - (e) is a supplementary electric heater which is controlled by the same control system as the control system governing plant A.
 
-(3) Plant A falls within this paragraph where it is a biomass plant with an installation capacity which is not sufficient to provide space heating for all parts of the eligible[^key-14838e92631e9aca5f0eebf77fd40c00] property to which it provides heat and its first commissioning date is on or after the relevant date.
+(3) Plant A falls within this paragraph where it is a biomass plant with an installation capacity which is not sufficient to provide space heating for all parts of the eligible[^c-14838e92631e9aca5f0eebf77fd40c00] property to which it provides heat and its first commissioning date is on or after the relevant date.
 
-(4) Subject to paragraph (4A),[^key-0bcddfb4963baa6a36a885868b22f9eb] plant A falls within this paragraph where the eligible[^key-9fba7ae6e085b15033e90f7e36fa2f2f] property to which it provides heat was occupied for less than 183 days in the 12 month period ending on its RHI date.
+(4) Subject to paragraph (4A),[^c-0bcddfb4963baa6a36a885868b22f9eb] plant A falls within this paragraph where the eligible[^c-9fba7ae6e085b15033e90f7e36fa2f2f] property to which it provides heat was occupied for less than 183 days in the 12 month period ending on its RHI date.
 
-(4A)[^key-83f0172c13ec96464906ab9606c3760f] Subject to regulation 46(1A), paragraph (4) does not apply to eligible new-build properties.
+(4A)[^c-83f0172c13ec96464906ab9606c3760f] Subject to regulation 46(1A), paragraph (4) does not apply to eligible new-build properties.
 
 (5) Plant A falls within this paragraph where it is a heat pump and is capable of using a fuel when generating heat for an eligible purpose.
 
 ## Annotations
 
-[^key-d6ae6485c7dd0fea2f5d5a843e322f87]: Commencement: Reg. 13 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-d6ae6485c7dd0fea2f5d5a843e322f87]: Commencement: Reg. 13 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-7df084a77564a903c99e771a57fcc705]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/2) substituted (5.2.2015) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 (S.I. 2015/143)](https://www.legislation.gov.uk/uksi/2015/143), [regs. 1](https://www.legislation.gov.uk/uksi/2015/143/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2015/143/regulation/10/2/a)
+[^c-7df084a77564a903c99e771a57fcc705]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/2) substituted (5.2.2015) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 (S.I. 2015/143)](https://www.legislation.gov.uk/uksi/2015/143), [regs. 1](https://www.legislation.gov.uk/uksi/2015/143/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2015/143/regulation/10/2/a)
 
-[^key-6eddf76fdee58a4b37c7b15827470343]: Textual amendment: [Reg. 13(2)(ba)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/2/ba) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2022/159/regulation/7)
+[^c-6eddf76fdee58a4b37c7b15827470343]: Textual amendment: [Reg. 13(2)(ba)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/2/ba) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2022/159/regulation/7)
 
-[^key-055bde090ef1fc1d21868f64caa5d951]: Textual amendment: Words in [reg. 13(2)(c)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/2/c) substituted (5.2.2015) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 (S.I. 2015/143)](https://www.legislation.gov.uk/uksi/2015/143), [regs. 1](https://www.legislation.gov.uk/uksi/2015/143/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2015/143/regulation/10/2/b)
+[^c-055bde090ef1fc1d21868f64caa5d951]: Textual amendment: Words in [reg. 13(2)(c)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/2/c) substituted (5.2.2015) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 (S.I. 2015/143)](https://www.legislation.gov.uk/uksi/2015/143), [regs. 1](https://www.legislation.gov.uk/uksi/2015/143/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2015/143/regulation/10/2/b)
 
-[^key-14838e92631e9aca5f0eebf77fd40c00]: Textual amendment: Word in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/3) inserted (5.2.2015) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 (S.I. 2015/143)](https://www.legislation.gov.uk/uksi/2015/143), [regs. 1](https://www.legislation.gov.uk/uksi/2015/143/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2015/143/regulation/10/3)
+[^c-14838e92631e9aca5f0eebf77fd40c00]: Textual amendment: Word in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/3) inserted (5.2.2015) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 (S.I. 2015/143)](https://www.legislation.gov.uk/uksi/2015/143), [regs. 1](https://www.legislation.gov.uk/uksi/2015/143/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2015/143/regulation/10/3)
 
-[^key-0bcddfb4963baa6a36a885868b22f9eb]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/4) inserted (24.3.2016) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016 (S.I. 2016/257)](https://www.legislation.gov.uk/uksi/2016/257), [regs. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1), [19(1)](https://www.legislation.gov.uk/uksi/2016/257/regulation/19/1)
+[^c-0bcddfb4963baa6a36a885868b22f9eb]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/4) inserted (24.3.2016) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016 (S.I. 2016/257)](https://www.legislation.gov.uk/uksi/2016/257), [regs. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1), [19(1)](https://www.legislation.gov.uk/uksi/2016/257/regulation/19/1)
 
-[^key-9fba7ae6e085b15033e90f7e36fa2f2f]: Textual amendment: Word in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/4) inserted (5.2.2015) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 (S.I. 2015/143)](https://www.legislation.gov.uk/uksi/2015/143), [regs. 1](https://www.legislation.gov.uk/uksi/2015/143/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2015/143/regulation/10/3)
+[^c-9fba7ae6e085b15033e90f7e36fa2f2f]: Textual amendment: Word in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/4) inserted (5.2.2015) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 (S.I. 2015/143)](https://www.legislation.gov.uk/uksi/2015/143), [regs. 1](https://www.legislation.gov.uk/uksi/2015/143/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2015/143/regulation/10/3)
 
-[^key-83f0172c13ec96464906ab9606c3760f]: Textual amendment: [Reg. 13(4A)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/4A) inserted (24.3.2016) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016 (S.I. 2016/257)](https://www.legislation.gov.uk/uksi/2016/257), [regs. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2016/257/regulation/19/2)
+[^c-83f0172c13ec96464906ab9606c3760f]: Textual amendment: [Reg. 13(4A)](https://www.legislation.gov.uk/uksi/2014/928/regulation/13/4A) inserted (24.3.2016) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2016 (S.I. 2016/257)](https://www.legislation.gov.uk/uksi/2016/257), [regs. 1](https://www.legislation.gov.uk/uksi/2016/257/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2016/257/regulation/19/2)

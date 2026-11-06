@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Duty to record DSI matters[^key-6fdc0e5bd10a027e3bfea940feb4b051]
+## 27. Duty to record DSI matters[^c-6fdc0e5bd10a027e3bfea940feb4b051]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a DSI matter comes to the attention of the appropriate authority in relati
 
 ## Annotations
 
-[^key-6fdc0e5bd10a027e3bfea940feb4b051]: Commencement: Reg. 27 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-6fdc0e5bd10a027e3bfea940feb4b051]: Commencement: Reg. 27 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

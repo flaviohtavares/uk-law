@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121DB. Eligibility verification[^key-2c6a7d6b24d3c767373d45daabb1b073]
+## 121DB. Eligibility verification[^c-2c6a7d6b24d3c767373d45daabb1b073]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3B makes provision about a power for the Secretary of State to obtain i
 
 ## Annotations
 
-[^key-2c6a7d6b24d3c767373d45daabb1b073]: Textual amendment: [S. 121DB](https://www.legislation.gov.uk/ukpga/1992/5/section/121DB) and cross-heading inserted (2.12.2025 but only for the purposes of making regulations, 2.2.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 78(2)](https://www.legislation.gov.uk/ukpga/2025/28/section/78/2), [109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/a)
+[^c-2c6a7d6b24d3c767373d45daabb1b073]: Textual amendment: [S. 121DB](https://www.legislation.gov.uk/ukpga/1992/5/section/121DB) and cross-heading inserted (2.12.2025 but only for the purposes of making regulations, 2.2.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 78(2)](https://www.legislation.gov.uk/ukpga/2025/28/section/78/2), [109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/a)

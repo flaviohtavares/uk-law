@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Certificates and confirmation of medical fitness[^key-dd8e944ee7a25e8c21c9be61e0ef0033]
+## 73. Certificates and confirmation of medical fitness[^c-dd8e944ee7a25e8c21c9be61e0ef0033]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ subject to any conditions which the examiner reasonably considers must be satisf
 
 ## Annotations
 
-[^key-dd8e944ee7a25e8c21c9be61e0ef0033]: Commencement: Reg. 73 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-dd8e944ee7a25e8c21c9be61e0ef0033]: Commencement: Reg. 73 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

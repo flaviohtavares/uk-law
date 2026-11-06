@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Older Cattle (Disposal) (Scotland) Amendment Regulations 2006 (revoked)[^key-50180be5e3c1561a0d971529f605c4fa]
+The Older Cattle (Disposal) (Scotland) Amendment Regulations 2006 (revoked)[^c-50180be5e3c1561a0d971529f605c4fa]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 22nd March 2006
 
-[^key-50180be5e3c1561a0d971529f605c4fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50180be5e3c1561a0d971529f605c4fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-50180be5e3c1561a0d971529f605c4fa]
+## 1. Citation and commencement[^c-50180be5e3c1561a0d971529f605c4fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Older Cattle (Disposal) (Scotland) Regulations 2006[^key-50180be5e3c1561a0d971529f605c4fa]
+## 2. Amendment of the Older Cattle (Disposal) (Scotland) Regulations 2006[^c-50180be5e3c1561a0d971529f605c4fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-50180be5e3c1561a0d971529f605c4fa]
+## 3.[^c-50180be5e3c1561a0d971529f605c4fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-50180be5e3c1561a0d971529f605c4fa]
+## 4.[^c-50180be5e3c1561a0d971529f605c4fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-50180be5e3c1561a0d971529f605c4fa]
+## 5.[^c-50180be5e3c1561a0d971529f605c4fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-50180be5e3c1561a0d971529f605c4fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50180be5e3c1561a0d971529f605c4fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-50180be5e3c1561a0d971529f605c4fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50180be5e3c1561a0d971529f605c4fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-50180be5e3c1561a0d971529f605c4fa]: Textual amendment: Regulations revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)
+[^c-50180be5e3c1561a0d971529f605c4fa]: Textual amendment: Regulations revoked (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)

@@ -32,7 +32,7 @@ summary: ''
 
 CREDIT UNIONS
 
-The Credit Unions (Limit on Shares) Order (Northern Ireland) 2006 (revoked)[^key-7542e1aab75d4a65e565933f78a901e4]
+The Credit Unions (Limit on Shares) Order (Northern Ireland) 2006 (revoked)[^c-7542e1aab75d4a65e565933f78a901e4]
 
 Made
 
@@ -44,26 +44,26 @@ Coming into operation
 
 1st April 2006
 
-[^key-7542e1aab75d4a65e565933f78a901e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7542e1aab75d4a65e565933f78a901e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7542e1aab75d4a65e565933f78a901e4]
+## 1. Citation and commencement[^c-7542e1aab75d4a65e565933f78a901e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Limit on shares[^key-7542e1aab75d4a65e565933f78a901e4]
+## 2. Limit on shares[^c-7542e1aab75d4a65e565933f78a901e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-7542e1aab75d4a65e565933f78a901e4]
+## 3. Revocation[^c-7542e1aab75d4a65e565933f78a901e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7542e1aab75d4a65e565933f78a901e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7542e1aab75d4a65e565933f78a901e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7542e1aab75d4a65e565933f78a901e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7542e1aab75d4a65e565933f78a901e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7542e1aab75d4a65e565933f78a901e4]: Textual amendment: Order revoked (31.3.2012) by [The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011 (S.I. 2011/2832)](https://www.legislation.gov.uk/uksi/2011/2832), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c), [14(e)](https://www.legislation.gov.uk/uksi/2011/2832/article/14/e)
+[^c-7542e1aab75d4a65e565933f78a901e4]: Textual amendment: Order revoked (31.3.2012) by [The Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011 (S.I. 2011/2832)](https://www.legislation.gov.uk/uksi/2011/2832), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c), [14(e)](https://www.legislation.gov.uk/uksi/2011/2832/article/14/e)

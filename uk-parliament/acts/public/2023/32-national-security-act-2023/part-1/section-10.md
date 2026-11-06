@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Duration of cordon[^key-0316100cc1ddb01b099278bf0ea6276d][^key-e073659579a1fd733bba4b777cbebe1a]
+## 10. Duration of cordon[^c-0316100cc1ddb01b099278bf0ea6276d][^c-e073659579a1fd733bba4b777cbebe1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0316100cc1ddb01b099278bf0ea6276d]: Commencement: S. 10 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-0316100cc1ddb01b099278bf0ea6276d]: Commencement: S. 10 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-e073659579a1fd733bba4b777cbebe1a]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/32/section/10) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-e073659579a1fd733bba4b777cbebe1a]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/32/section/10) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

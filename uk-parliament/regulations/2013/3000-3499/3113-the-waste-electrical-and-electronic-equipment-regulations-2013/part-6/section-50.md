@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Take back: WEEE from private households[^key-ea92989d2d050a5668cd2198cb1cf53b]
+## 50. Take back: WEEE from private households[^c-ea92989d2d050a5668cd2198cb1cf53b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations will prevent an operator of a scheme from establish
 
 ## Annotations
 
-[^key-ea92989d2d050a5668cd2198cb1cf53b]: Commencement: Reg. 50 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-ea92989d2d050a5668cd2198cb1cf53b]: Commencement: Reg. 50 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

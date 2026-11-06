@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Arrest without warrant[^key-dfefe729813918aadb5ee24d4b42774e]
+## 97. Arrest without warrant[^c-dfefe729813918aadb5ee24d4b42774e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfefe729813918aadb5ee24d4b42774e]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2003/20/section/97) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(t)](https://www.legislation.gov.uk/uksi/2004/827/article/3/t)
+[^c-dfefe729813918aadb5ee24d4b42774e]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2003/20/section/97) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(t)](https://www.legislation.gov.uk/uksi/2004/827/article/3/t)

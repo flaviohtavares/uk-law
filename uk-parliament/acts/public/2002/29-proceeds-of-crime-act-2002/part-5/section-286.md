@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 286. Scope of powers (Scotland)[^key-bf8903b8a757888ca83010d39676d44f]
+## 286. Scope of powers (Scotland)[^c-bf8903b8a757888ca83010d39676d44f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf8903b8a757888ca83010d39676d44f]: Textual amendment: S. 286 omitted (retrospectively) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 48(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/4)(7), [61(11)(c)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/11/c) (with [s. 48(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/8), Sch. 25)
+[^c-bf8903b8a757888ca83010d39676d44f]: Textual amendment: S. 286 omitted (retrospectively) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 48(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/4)(7), [61(11)(c)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/11/c) (with [s. 48(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/8), Sch. 25)

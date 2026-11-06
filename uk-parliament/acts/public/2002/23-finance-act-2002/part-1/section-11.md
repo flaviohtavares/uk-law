@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Gaming duty to be chargeable in respect of sic bo and three card poker[^key-aa00ad9d3e8e7f195c0560fea81ae8f4]
+## 11. Gaming duty to be chargeable in respect of sic bo and three card poker[^c-aa00ad9d3e8e7f195c0560fea81ae8f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa00ad9d3e8e7f195c0560fea81ae8f4]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2002/23/section/11) omitted (retrospective to 27.4.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 114(16)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/114/16/a)[(17)](https://www.legislation.gov.uk/ukpga/2009/10/section/114/17) (with [s. 114(18)](https://www.legislation.gov.uk/ukpga/2009/10/section/114/18))
+[^c-aa00ad9d3e8e7f195c0560fea81ae8f4]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2002/23/section/11) omitted (retrospective to 27.4.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 114(16)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/114/16/a)[(17)](https://www.legislation.gov.uk/ukpga/2009/10/section/114/17) (with [s. 114(18)](https://www.legislation.gov.uk/ukpga/2009/10/section/114/18))

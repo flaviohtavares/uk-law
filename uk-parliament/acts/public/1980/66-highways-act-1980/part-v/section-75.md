@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Variation of widths of carriageways and footways.[^key-0c9e7bd263db1e01f95b4b36b0ee3845]
+## 75. Variation of widths of carriageways and footways.[^c-0c9e7bd263db1e01f95b4b36b0ee3845]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c9e7bd263db1e01f95b4b36b0ee3845]: Modification: S. 75 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(k)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/k)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-0c9e7bd263db1e01f95b4b36b0ee3845]: Modification: S. 75 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(k)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/k)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)

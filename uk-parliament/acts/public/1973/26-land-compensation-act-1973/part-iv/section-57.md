@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Before taking possession of part only of an agricultural holding under section 85 of the [^c776627]Lands Clauses Consolidation Act 1845 [^key-006755afae0ad3343cced61f2688f672]... or under Part III of the Compulsory Purchase (Vesting Declarations) Act 1981[^c776629] (alternative procedures for taking possession of land) the acquiring authority shall serve notice of their intention to do so on the person in occupation of the holding, and sections 55 and 56 above shall have effect, subject to any necessary modifications, as if possession were being obtained pursuant to a notice of entry under section 11(1) of the said Act of 1965.
+(1) Before taking possession of part only of an agricultural holding under section 85 of the [^c776627]Lands Clauses Consolidation Act 1845 [^c-006755afae0ad3343cced61f2688f672]... or under Part III of the Compulsory Purchase (Vesting Declarations) Act 1981[^c776629] (alternative procedures for taking possession of land) the acquiring authority shall serve notice of their intention to do so on the person in occupation of the holding, and sections 55 and 56 above shall have effect, subject to any necessary modifications, as if possession were being obtained pursuant to a notice of entry under section 11(1) of the said Act of 1965.
 
 (2) Sections 55 and 56 above shall have effect, subject to any necessary modifications, in relation to a notice of entry under paragraph 4 of Schedule 6 to the New Towns Act 1981[^c776630] (provisions applicable to compulsory acquisitions under that Act) as they have effect in relation to a notice of entry under section 11(1) of the said Act of 1965.
 
@@ -32,7 +32,7 @@ summary: ''
 
 [^c776627]: Marginal citation: [1845 c. 18](https://www.legislation.gov.uk/ukpga/1845/18).
 
-[^key-006755afae0ad3343cced61f2688f672]: Textual amendment: Words in s. 57(1) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 16 para. 13](https://www.legislation.gov.uk/ukpga/2016/22/schedule/16/paragraph/13); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/j)
+[^c-006755afae0ad3343cced61f2688f672]: Textual amendment: Words in s. 57(1) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 16 para. 13](https://www.legislation.gov.uk/ukpga/2016/22/schedule/16/paragraph/13); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/j)
 
 [^c776629]: Textual amendment: Words substituted by [Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1981/66), [s. 16(1)](https://www.legislation.gov.uk/ukpga/1981/66/section/16/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1981/66/schedule/3/paragraph/1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Application for services[^key-8e77c80ae332e25fccb77775b6b31416]
+## 19. Application for services[^c-8e77c80ae332e25fccb77775b6b31416]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8e77c80ae332e25fccb77775b6b31416]: Commencement: Reg. 19 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-8e77c80ae332e25fccb77775b6b31416]: Commencement: Reg. 19 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00020]: Footnote: [S.R. & O. (N.I.) 1970 No. 56](https://www.legislation.gov.uk/nisro/1970/56)
 

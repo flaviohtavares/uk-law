@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Application of the relevant permit scheme[^key-97cb542f4c2dfdb6d1442b4886ec1468]
+## 9. Application of the relevant permit scheme[^c-97cb542f4c2dfdb6d1442b4886ec1468]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97cb542f4c2dfdb6d1442b4886ec1468]: Commencement: Art. 9 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-97cb542f4c2dfdb6d1442b4886ec1468]: Commencement: Art. 9 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)

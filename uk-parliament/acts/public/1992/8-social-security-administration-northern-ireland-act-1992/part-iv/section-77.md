@@ -45,7 +45,7 @@ summary: ''
   but where before the end of that period the compensator makes a compensation payment in final discharge of any claim made by or in respect of the victim and arising out of the accident, injury or disease, the relevant period shall end on the date on which that payment is made;
 - “**total benefit**” means the gross amount referred to in section 78(1)(a) below.
 
-(2)[^c14896351][^key-e853b3baed48f6e8a64686d2802610a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c14896351][^c-e853b3baed48f6e8a64686d2802610a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purposes of this Part of this Act the following are the “**exempt payments**”—
 
@@ -82,7 +82,7 @@ summary: ''
 
 [^c14896351]: Textual amendment: [S. 77(2)](https://www.legislation.gov.uk/ukpga/1992/8/section/77/2) repealed (6.4.1994) by [S.I. 1994/766 (N.I. 5)](https://www.legislation.gov.uk/nisi/1994/766), [arts. 1](https://www.legislation.gov.uk/nisi/1994/766/article/1), [3(2)](https://www.legislation.gov.uk/nisi/1994/766/article/3/2)
 
-[^key-e853b3baed48f6e8a64686d2802610a5]: Modification: [S. 77(2)](https://www.legislation.gov.uk/ukpga/1992/8/section/77/2) modified (7.4.2025) by [S.I. 2003/495](https://www.legislation.gov.uk/uksi/2003/495), [reg. 3](https://www.legislation.gov.uk/uksi/2003/495/regulation/3) (as amended by [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/2) (with [reg. 3(5)(6)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/5/6)))
+[^c-e853b3baed48f6e8a64686d2802610a5]: Modification: [S. 77(2)](https://www.legislation.gov.uk/ukpga/1992/8/section/77/2) modified (7.4.2025) by [S.I. 2003/495](https://www.legislation.gov.uk/uksi/2003/495), [reg. 3](https://www.legislation.gov.uk/uksi/2003/495/regulation/3) (as amended by [The Child Benefit and Guardian's Allowance (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/207)](https://www.legislation.gov.uk/uksi/2025/207), [regs. 1](https://www.legislation.gov.uk/uksi/2025/207/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/2) (with [reg. 3(5)(6)](https://www.legislation.gov.uk/uksi/2025/207/regulation/3/5/6)))
 
 [^c14896361]: Marginal citation: [S.I. 1980/704 (N.I. 6)](https://www.legislation.gov.uk/nisi/1980/704).
 

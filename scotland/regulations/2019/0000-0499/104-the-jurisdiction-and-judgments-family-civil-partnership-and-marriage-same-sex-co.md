@@ -52,11 +52,11 @@ In accordance with paragraph 1(7) of schedule 7 of that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-b02fcfe042208d01447a3d381d95f171]
+### 1. Citation and commencement[^c-b02fcfe042208d01447a3d381d95f171]
 
 These Regulations may be cited as the Jurisdiction and Judgments (Family, Civil Partnership and Marriage (Same Sex Couples)) (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 and come into force on exit day.
 
-### 2. Interpretation[^key-15edd675d482a8586de98b9b7eaa56c2]
+### 2. Interpretation[^c-15edd675d482a8586de98b9b7eaa56c2]
 
 In these Regulations—
 
@@ -65,25 +65,25 @@ In these Regulations—
 
 ## PART 2 — Revocation of retained direct EU legislation
 
-### 3. Revocation of Council Regulation No. 2201/2003[^key-d958c81d3b0f4e5385883a6eb4e902c8]
+### 3. Revocation of Council Regulation No. 2201/2003[^c-d958c81d3b0f4e5385883a6eb4e902c8]
 
 Council Regulation No. 2201/2003 is revoked.
 
 ## PART 3 — Amendment of primary legislation
 
-### 4. Amendment of primary legislation[^key-0db2eb67bf5df8bb4e2175b65ebb1293]
+### 4. Amendment of primary legislation[^c-0db2eb67bf5df8bb4e2175b65ebb1293]
 
 Schedule 1 has effect.
 
 ## PART 4 — Revocation and amendment of secondary legislation
 
-### 5. Revocation and amendment of secondary legislation[^key-f6dc07f8931fc343226c56c56ea27a9d]
+### 5. Revocation and amendment of secondary legislation[^c-f6dc07f8931fc343226c56c56ea27a9d]
 
 Schedule 2 has effect.
 
 ## PART 5 — Saving and transitional provisions
 
-### 6. Saving and transitional provisions[^key-a57b1a4c0d60b5f985c875c5881bbd75][^key-ba61ed564f0015b1f24b3464ef0d07e4]
+### 6. Saving and transitional provisions[^c-a57b1a4c0d60b5f985c875c5881bbd75][^c-ba61ed564f0015b1f24b3464ef0d07e4]
 
 Nothing in these Regulations affects the application of paragraphs 1, 2(b) and 3(a) of Article 67 of the withdrawal agreement and legislation amended or revoked by these Regulations continues to have effect for the purposes of those paragraphs as if the amendments and revocations had not been made.
 
@@ -99,7 +99,7 @@ Edinburgh
 
 Regulation 4
 
-### 1. Amendment of the Domicile and Matrimonial Proceedings Act 1973[^key-1ef8e5d0c2c05866d59cd2c6bc6ae8ba]
+### 1. Amendment of the Domicile and Matrimonial Proceedings Act 1973[^c-1ef8e5d0c2c05866d59cd2c6bc6ae8ba]
 
 (1) The Domicile and Matrimonial Proceedings Act 1973 [^c23650071] is amended as follows.
 
@@ -188,7 +188,7 @@ Regulation 4
   - (ii) in sub-paragraph (2), in head (a), omit “paragraph (a) or (b) of”, and
 - (f) in paragraph 7 (supplementary provision), in sub-paragraph (2), omit “, if entertaining the proceedings would not contravene regulations under paragraph 2”.
 
-### 2. Amendment of the Family Law Act 1986[^key-21513e9a056141da589b906c64260f7c]
+### 2. Amendment of the Family Law Act 1986[^c-21513e9a056141da589b906c64260f7c]
 
 (1) The Family Law Act 1986 [^c23650161] is amended as follows.
 
@@ -213,11 +213,11 @@ Regulation 4
 
 (8) In section 54 [^c23650231] (interpretation of Part 2), in subsection (1), omit the definition of “the Council Regulation”.
 
-### 3. Amendment of the Children (Scotland) Act 1995[^key-6c2f5efc28e581984ac96f35f4e48af4]
+### 3. Amendment of the Children (Scotland) Act 1995[^c-6c2f5efc28e581984ac96f35f4e48af4]
 
 In section 14 of the Children (Scotland) Act 1995 [^c23650241] (jurisdiction and choice of law in relation to certain matters), omit subsection (5).
 
-### 4. Amendment of the Civil Partnership Act 2004[^key-8f3ab7cf9d53c8e991067482c621e87d]
+### 4. Amendment of the Civil Partnership Act 2004[^c-8f3ab7cf9d53c8e991067482c621e87d]
 
 (1) The Civil Partnership Act 2004 [^c23650251] is amended as follows.
 
@@ -261,15 +261,15 @@ In section 14 of the Children (Scotland) Act 1995 [^c23650241] (jurisdiction and
 
 Regulation 5
 
-### 1. Revocation of the European Communities (Matrimonial and Parental Responsibility Jurisdiction and Judgments) (Scotland) Regulations 2005[^key-265f9bf698f0398e50057e697c33a194]
+### 1. Revocation of the European Communities (Matrimonial and Parental Responsibility Jurisdiction and Judgments) (Scotland) Regulations 2005[^c-265f9bf698f0398e50057e697c33a194]
 
 The European Communities (Matrimonial and Parental Responsibility Jurisdiction and Judgments) (Scotland) Regulations 2005 [^c23650271] are revoked.
 
-### 2. Revocation of the Civil Partnership (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2005[^key-2a579b82560cadcbb8ae528344dbaea9]
+### 2. Revocation of the Civil Partnership (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2005[^c-2a579b82560cadcbb8ae528344dbaea9]
 
 The Civil Partnership (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2005 [^c23650281] are revoked.
 
-### 3. Amendment of the Parental Responsibility and Measures for the Protection of Children (International Obligations) (Scotland) Regulations 2010[^key-906907b69bf0cbc0d05ea8347faf0301]
+### 3. Amendment of the Parental Responsibility and Measures for the Protection of Children (International Obligations) (Scotland) Regulations 2010[^c-906907b69bf0cbc0d05ea8347faf0301]
 
 (1) The Parental Responsibility and Measures for the Protection of Children (International Obligations) (Scotland) Regulations 2010 [^c23650291] are amended as follows.
 
@@ -292,7 +292,7 @@ The Civil Partnership (Jurisdiction and Recognition of Judgments) (Scotland) Reg
   - (ii) in sub-paragraph (a) omit “, or”, and
   - (iii) omit sub-paragraph (b).
 
-### 4. Revocation of the Marriage (Same Sex Couples) (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2014[^key-93fe2427416bcb866f2831853126def7]
+### 4. Revocation of the Marriage (Same Sex Couples) (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2014[^c-93fe2427416bcb866f2831853126def7]
 
 The Marriage (Same Sex Couples) (Jurisdiction and Recognition of Judgments) (Scotland) Regulations 2014 [^c23650331] are revoked.
 
@@ -308,21 +308,21 @@ The Scottish Government has prepared for these Regulations and is publishing on 
 
 [^c23650041]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-b02fcfe042208d01447a3d381d95f171]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b02fcfe042208d01447a3d381d95f171]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-15edd675d482a8586de98b9b7eaa56c2]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-15edd675d482a8586de98b9b7eaa56c2]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d958c81d3b0f4e5385883a6eb4e902c8]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d958c81d3b0f4e5385883a6eb4e902c8]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0db2eb67bf5df8bb4e2175b65ebb1293]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0db2eb67bf5df8bb4e2175b65ebb1293]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f6dc07f8931fc343226c56c56ea27a9d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f6dc07f8931fc343226c56c56ea27a9d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a57b1a4c0d60b5f985c875c5881bbd75]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a57b1a4c0d60b5f985c875c5881bbd75]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ba61ed564f0015b1f24b3464ef0d07e4]: Textual amendment: Reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)
+[^c-ba61ed564f0015b1f24b3464ef0d07e4]: Textual amendment: Reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/a), [16](https://www.legislation.gov.uk/ssi/2020/441/regulation/16)
 
-[^key-1ef8e5d0c2c05866d59cd2c6bc6ae8ba]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1ef8e5d0c2c05866d59cd2c6bc6ae8ba]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23650071]: Marginal citation: [1973 c.45](https://www.legislation.gov.uk/ukpga/1973/45).
 
@@ -342,7 +342,7 @@ The Scottish Government has prepared for these Regulations and is publishing on 
 
 [^c23650151]: Marginal citation: Schedule 1B was inserted by the Marriage and Civil Partnership (Scotland) Act 2014, (asp 5), schedule 1, paragraph 1(4).
 
-[^key-21513e9a056141da589b906c64260f7c]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-21513e9a056141da589b906c64260f7c]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23650161]: Marginal citation: [1986 c.55](https://www.legislation.gov.uk/ukpga/1986/55).
 
@@ -360,25 +360,25 @@ The Scottish Government has prepared for these Regulations and is publishing on 
 
 [^c23650231]: Marginal citation: The definition in section 54(1) was inserted by [S.S.I. 2005/42](https://www.legislation.gov.uk/ssi/2005/42).
 
-[^key-6c2f5efc28e581984ac96f35f4e48af4]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6c2f5efc28e581984ac96f35f4e48af4]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23650241]: Marginal citation: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36), [section 14(5)](https://www.legislation.gov.uk/ukpga/1995/36/section/14/5) was added by [S.S.I. 2005/42](https://www.legislation.gov.uk/ssi/2005/42).
 
-[^key-8f3ab7cf9d53c8e991067482c621e87d]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8f3ab7cf9d53c8e991067482c621e87d]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23650251]: Marginal citation: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33).
 
 [^c23650261]: Marginal citation: Section 227 was amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484) and is amended by the Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 S.I. 2019/  .
 
-[^key-265f9bf698f0398e50057e697c33a194]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-265f9bf698f0398e50057e697c33a194]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23650271]: Marginal citation: [S.S.I. 2005/42](https://www.legislation.gov.uk/ssi/2005/42).
 
-[^key-2a579b82560cadcbb8ae528344dbaea9]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2a579b82560cadcbb8ae528344dbaea9]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23650281]: Marginal citation: [S.S.I. 2005/629](https://www.legislation.gov.uk/ssi/2005/629).
 
-[^key-906907b69bf0cbc0d05ea8347faf0301]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-906907b69bf0cbc0d05ea8347faf0301]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23650291]: Marginal citation: [S.S.I. 2010/213](https://www.legislation.gov.uk/ssi/2010/213).
 
@@ -388,6 +388,6 @@ The Scottish Government has prepared for these Regulations and is publishing on 
 
 [^c23650321]: Marginal citation: Regulation 12 was amended by [S.S.I. 2013/147](https://www.legislation.gov.uk/ssi/2013/147).
 
-[^key-93fe2427416bcb866f2831853126def7]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-93fe2427416bcb866f2831853126def7]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23650331]: Marginal citation: [S.S.I. 2014/362](https://www.legislation.gov.uk/ssi/2014/362).

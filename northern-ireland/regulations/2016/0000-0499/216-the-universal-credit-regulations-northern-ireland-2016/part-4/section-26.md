@@ -29,7 +29,7 @@ summary: ''
 (2) The payments in respect of accommodation must be—
 
 - (a) payments within the meaning of paragraph 2 of Schedule 1 (“rent payments”);
-- (b)[^key-f8463aa22842206fc96b353a271aaf7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f8463aa22842206fc96b353a271aaf7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) payments within the meaning of paragraph 8 of that Schedule (“service charge payments”).
 
 (3) The circumstances of the liability to make the payments must be such that—
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8463aa22842206fc96b353a271aaf7a]: Textual amendment: Reg. 26(2)(b) omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 5(a)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/5/a) (with [regs. 18(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/18/2), [19](https://www.legislation.gov.uk/nisr/2017/176/regulation/19), [19A](https://www.legislation.gov.uk/nisr/2017/176/regulation/19A), [20](https://www.legislation.gov.uk/nisr/2017/176/regulation/20))
+[^c-f8463aa22842206fc96b353a271aaf7a]: Textual amendment: Reg. 26(2)(b) omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 5(a)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/5/a) (with [regs. 18(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/18/2), [19](https://www.legislation.gov.uk/nisr/2017/176/regulation/19), [19A](https://www.legislation.gov.uk/nisr/2017/176/regulation/19A), [20](https://www.legislation.gov.uk/nisr/2017/176/regulation/20))

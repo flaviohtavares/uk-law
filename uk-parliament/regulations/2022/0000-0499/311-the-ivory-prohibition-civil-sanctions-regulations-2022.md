@@ -52,11 +52,11 @@ The Secretary of State, in accordance with the requirements of paragraph 15(1) o
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-98da1d8c84f7e409c0907816afa42ede]
+### 1. Citation and commencement[^c-98da1d8c84f7e409c0907816afa42ede]
 
 These Regulations may be cited as the Ivory Prohibition (Civil Sanctions) Regulations 2022 and come into force on 6th June 2022.
 
-### 2. Interpretation[^key-03342cdd92e9778369709760dd367b9e]
+### 2. Interpretation[^c-03342cdd92e9778369709760dd367b9e]
 
 In these Regulations—
 
@@ -71,17 +71,17 @@ In these Regulations—
 
 ## PART 2 — Monetary penalties
 
-### 3. Calculation of period within which liability for a monetary penalty may be discharged[^key-fe3050d9c9bcdaa6f1913498e7729a32]
+### 3. Calculation of period within which liability for a monetary penalty may be discharged[^c-fe3050d9c9bcdaa6f1913498e7729a32]
 
 (1) This regulation applies where the Secretary of State—
 
 - (a) has served a proposal notice on P,
 - (b) has received, within the period specified in that notice, written representations and objections from P in relation to the proposed imposition of the monetary penalty, and
-- (c) has served a notice on[^key-ef13187a92367c2f78001a904241cc3f] P stating that, having considered P’s representations and objections, the Secretary of State still proposes to impose the monetary penalty on P.
+- (c) has served a notice on[^c-ef13187a92367c2f78001a904241cc3f] P stating that, having considered P’s representations and objections, the Secretary of State still proposes to impose the monetary penalty on P.
 
-(2) Where this regulation applies, the period for discharge of P’s liability for the monetary penalty by payment of the sum specified in the proposal notice must be calculated as if it began with the day on which the Secretary of State served on[^key-19bee35e6b26a6a18aef3386f80c4ab8] P the notice referred to in paragraph (1)(c).
+(2) Where this regulation applies, the period for discharge of P’s liability for the monetary penalty by payment of the sum specified in the proposal notice must be calculated as if it began with the day on which the Secretary of State served on[^c-19bee35e6b26a6a18aef3386f80c4ab8] P the notice referred to in paragraph (1)(c).
 
-### 4. Circumstances in which a monetary penalty may not be imposed[^key-a37962857a3c50532c58d12c8a5accf8]
+### 4. Circumstances in which a monetary penalty may not be imposed[^c-a37962857a3c50532c58d12c8a5accf8]
 
 (1) The Secretary of State may not impose a monetary penalty on P if—
 
@@ -93,7 +93,7 @@ In these Regulations—
 - (a) must withdraw the proposal notice, and
 - (b) may, in respect of the same offence, serve a new proposal notice on P specifying a sum different to that specified in the original proposal notice (‘the original sum’), which may be higher or lower than the original sum.
 
-### 5. Payment of a monetary penalty by instalments[^key-1fede3198267a4337ab978113f73f07d]
+### 5. Payment of a monetary penalty by instalments[^c-1fede3198267a4337ab978113f73f07d]
 
 (1) This regulation applies where—
 
@@ -108,7 +108,7 @@ In these Regulations—
 (3) A request made under paragraph (2) must be—
 
 - (a) made in writing,
-- (b) served on[^key-f85014f300fbf013e6b86e80bc67d454] the Secretary of State before the end of the specified period, and
+- (b) served on[^c-f85014f300fbf013e6b86e80bc67d454] the Secretary of State before the end of the specified period, and
 - (c) accompanied by evidence relating to P’s circumstances, including in particular information related to—
   - (i) P’s assets, income and expenditure;
   - (ii) where P is a business, annual turnover.
@@ -118,7 +118,7 @@ In these Regulations—
 - (a) extend the specified period;
 - (b) permit the monetary penalty to be paid by instalments of specified amounts, on or before specified dates.
 
-### 6. Payment of sum to discharge liability and payment of a monetary penalty[^key-09aab07d717fa1aaa88bdad10ceb7362]
+### 6. Payment of sum to discharge liability and payment of a monetary penalty[^c-09aab07d717fa1aaa88bdad10ceb7362]
 
 Where P has—
 
@@ -127,7 +127,7 @@ Where P has—
 
 the Secretary of State must confirm to P in writing that the sum specified in the proposal notice, or as the case may be, the monetary penalty notice, has been paid.
 
-### 7. Power to recover a monetary penalty[^key-a01e8c7ae12741cb9e2631bdb9c27c94]
+### 7. Power to recover a monetary penalty[^c-a01e8c7ae12741cb9e2631bdb9c27c94]
 
 (1) After the end of the period for payment of a monetary penalty specified in a monetary penalty notice served on P, the Secretary of State may recover from P the monetary penalty—
 
@@ -138,48 +138,48 @@ the Secretary of State must confirm to P in writing that the sum specified in th
 
 ## PART 3 — Enforcement undertakings
 
-### 8. Actions which may be specified in an enforcement undertaking[^key-926f510ff1dc4f3c8adf4bb858bc1092]
+### 8. Actions which may be specified in an enforcement undertaking[^c-926f510ff1dc4f3c8adf4bb858bc1092]
 
 The actions prescribed under paragraph 10(1)(c)(ii) of Schedule 1 to the Act (enforcement undertakings) are those which have the aim of securing that—
 
 - (a) the offence ceases at the earliest possible opportunity, and
 - (b) matters in relation to the suspected offence referred to in paragraph 10(1)(a) of Schedule 1 are, so far as is possible, restored to the position that existed before the offence occurred.
 
-### 9. Procedure for entering into an enforcement undertaking[^key-35605ddace765532ec010d2f5cf6f0fe]
+### 9. Procedure for entering into an enforcement undertaking[^c-35605ddace765532ec010d2f5cf6f0fe]
 
 (1) An offer of an enforcement undertaking to the Secretary of State under paragraph 10(1) of Schedule 1 to the Act must—
 
 - (a) be made in writing;
-- (b) where the Secretary of State has informed P by a notice in writing that an offer of an enforcement undertaking may be considered, be made within the period of 28 days beginning with the day on which the Secretary of State served the notice on[^key-000684c4f3278b871aa55f60e3bac419] P.
+- (b) where the Secretary of State has informed P by a notice in writing that an offer of an enforcement undertaking may be considered, be made within the period of 28 days beginning with the day on which the Secretary of State served the notice on[^c-000684c4f3278b871aa55f60e3bac419] P.
 
 (2) If, having considered the circumstances of the suspected offence to which an offer of an enforcement undertaking relates and the terms of the undertaking offered by P, the Secretary of State decides—
 
 - (a) that it is appropriate to accept P’s offer, or
 - (b) that it may be appropriate to accept P’s offer if made in revised terms,
 
-the Secretary of State must, within the period of 28 days beginning with the day on which P’s offer was received, serve[^key-720c76385116636841d574edcdf7cdff] a notice informing P of the Secretary of State’s decision.
+the Secretary of State must, within the period of 28 days beginning with the day on which P’s offer was received, serve[^c-720c76385116636841d574edcdf7cdff] a notice informing P of the Secretary of State’s decision.
 
-(3) Where the Secretary of State informs P that an offer of an enforcement undertaking may be accepted if made in revised terms, P must, within the period of 28 days beginning with the day on which the Secretary of State served the notice referred to in paragraph (2) on[^key-0620c812bf348c873ccc993dd56ccec1] P—
+(3) Where the Secretary of State informs P that an offer of an enforcement undertaking may be accepted if made in revised terms, P must, within the period of 28 days beginning with the day on which the Secretary of State served the notice referred to in paragraph (2) on[^c-0620c812bf348c873ccc993dd56ccec1] P—
 
 - (a) offer an enforcement undertaking in revised terms to the Secretary of State, or
 - (b) inform the Secretary of State in writing that no further offer of an enforcement undertaking will be made.
 
 (4) Where—
 
-- (a) P has failed, within the period specified in paragraph (1)(b), to offer an enforcement undertaking in response to a notice served[^key-9155cf5901958f2b9543ca5832cb1cbd] by the Secretary of State inviting P to make such an offer,
+- (a) P has failed, within the period specified in paragraph (1)(b), to offer an enforcement undertaking in response to a notice served[^c-9155cf5901958f2b9543ca5832cb1cbd] by the Secretary of State inviting P to make such an offer,
 - (b) the Secretary of State has decided to refuse P’s offer or revised offer of an enforcement undertaking,
 - (c) P has informed the Secretary of State in accordance with paragraph (3)(b) that no further offer will be made, or
 - (d) P has failed to offer an enforcement undertaking in revised terms within the period specified in paragraph (3),
 
-the Secretary of State must serve[^key-f45ee33baec966aa9d459ee75f0d140c] a notice informing P that the suspected offence will not be dealt with by agreeing an enforcement undertaking and indicating any action which the Secretary of State proposes to take in relation to the suspected offence.
+the Secretary of State must serve[^c-f45ee33baec966aa9d459ee75f0d140c] a notice informing P that the suspected offence will not be dealt with by agreeing an enforcement undertaking and indicating any action which the Secretary of State proposes to take in relation to the suspected offence.
 
-(5) The notice referred to in paragraph (4) must be served on[^key-db9b8477286600313ae592fa2604c80d] P—
+(5) The notice referred to in paragraph (4) must be served on[^c-db9b8477286600313ae592fa2604c80d] P—
 
 - (a) where the Secretary of State has decided to refuse P’s offer or revised offer of an enforcement undertaking, within the period of 28 days beginning with the day on which the Secretary of State received the relevant offer;
 - (b) where P has notified the Secretary of State that no offer of an enforcement undertaking in revised terms will be made, within the period of 28 days beginning with the day on which the Secretary of State received P’s written notification;
-- (c) where P has failed to offer an enforcement undertaking in response to an invitation to offer an enforcement undertaking or to offer an enforcement undertaking in revised terms, within the period of 30 days beginning with the day on which the Secretary of State served the relevant invitation on[^key-95af9730c83d580072b39670bf32f31a] P.
+- (c) where P has failed to offer an enforcement undertaking in response to an invitation to offer an enforcement undertaking or to offer an enforcement undertaking in revised terms, within the period of 30 days beginning with the day on which the Secretary of State served the relevant invitation on[^c-95af9730c83d580072b39670bf32f31a] P.
 
-### 10. Terms of an enforcement undertaking[^key-e1831908cfb8ab025e5f0583f76387ea]
+### 10. Terms of an enforcement undertaking[^c-e1831908cfb8ab025e5f0583f76387ea]
 
 An enforcement undertaking must—
 
@@ -187,7 +187,7 @@ An enforcement undertaking must—
 - (b) include details of each of the actions which P intends to take as part of the enforcement undertaking, and
 - (c) specify the date by which P intends to complete each action.
 
-### 11. Publication of enforcement undertaking[^key-7013ef837874954afbd96aac698f12ed]
+### 11. Publication of enforcement undertaking[^c-7013ef837874954afbd96aac698f12ed]
 
 The Secretary of State may publish details of enforcement undertakings agreed, including, but not limited to—
 
@@ -196,7 +196,7 @@ The Secretary of State may publish details of enforcement undertakings agreed, i
 - (c) the period within which the undertaking must be completed;
 - (d) information about any certificate of compliance issued in relation to an undertaking.
 
-### 12. Variation of an enforcement undertaking[^key-1655e3a7ba1fceeef20115405c8b1cf2]
+### 12. Variation of an enforcement undertaking[^c-1655e3a7ba1fceeef20115405c8b1cf2]
 
 (1) Where an enforcement undertaking has been agreed, P may at any time before a certificate of compliance is issued, request that the Secretary of State vary the terms of the undertaking.
 
@@ -212,7 +212,7 @@ The Secretary of State may publish details of enforcement undertakings agreed, i
 
 (4) The Secretary of State must inform P of the result of the request for variation within the period of 28 days beginning with the day on which the Secretary of State receives P’s request.
 
-### 13. Circumstances in which a person may be regarded as having complied with an enforcement undertaking[^key-cee9614170e329abcb8264cf42a1574a]
+### 13. Circumstances in which a person may be regarded as having complied with an enforcement undertaking[^c-cee9614170e329abcb8264cf42a1574a]
 
 (1) Where, for reasons beyond P’s control, it becomes impossible for P to comply with or to comply fully with the terms of an enforcement undertaking, P may request that the Secretary of State regard P as having complied with the undertaking.
 
@@ -221,7 +221,7 @@ The Secretary of State may publish details of enforcement undertakings agreed, i
 - (a) be made in writing,
 - (b) include details of the terms of the undertaking which have not been complied with,
 - (c) give the reasons why, in P’s opinion, it is impossible to comply with or to comply fully with the terms of the undertaking, and
-- (d) be served[^key-96fd612ca9fb60b4ffee959f40a763db] before the end of the period specified for compliance with the undertaking.
+- (d) be served[^c-96fd612ca9fb60b4ffee959f40a763db] before the end of the period specified for compliance with the undertaking.
 
 (3) The Secretary of State may—
 
@@ -232,7 +232,7 @@ The Secretary of State may publish details of enforcement undertakings agreed, i
 
 (4) The Secretary of State must, within the period of 28 days beginning with the day on which the Secretary of State receives P’s request, inform P of the result of the request.
 
-### 14. Monitoring of compliance with an enforcement undertaking[^key-e99f316d284376b9a8dd19438bf8e512]
+### 14. Monitoring of compliance with an enforcement undertaking[^c-e99f316d284376b9a8dd19438bf8e512]
 
 (1) The Secretary of State may monitor P’s compliance with the terms of an enforcement undertaking—
 
@@ -245,14 +245,14 @@ The Secretary of State may publish details of enforcement undertakings agreed, i
 (2) A notice given under paragraph (1)(a) must—
 
 - (a) be in writing,
-- (b)[^key-96a9bad55a4d7c9d8274a7101958fe37] be served on P and, if P is not the occupier of the premises, on the occupier, and
+- (b)[^c-96a9bad55a4d7c9d8274a7101958fe37] be served on P and, if P is not the occupier of the premises, on the occupier, and
 - (c) set out the purpose of the proposed entry.
 
-(3)[^key-bf29639880bf7b079b8f33947aa4a5f5] A notice given under paragraph (1)(a) may only be given to a person by delivering or leaving it at the person’s address or by sending it there by post.
+(3)[^c-bf29639880bf7b079b8f33947aa4a5f5] A notice given under paragraph (1)(a) may only be given to a person by delivering or leaving it at the person’s address or by sending it there by post.
 
 (4) In paragraph (1)(a), “**premises**” does not include any premises used wholly or mainly as a dwelling.
 
-### 15. Certification of compliance with an enforcement undertaking[^key-bd948cb05d1de5ffd2097ccf7b239de2]
+### 15. Certification of compliance with an enforcement undertaking[^c-bd948cb05d1de5ffd2097ccf7b239de2]
 
 (1) This regulation applies where—
 
@@ -272,7 +272,7 @@ the Secretary of State must, within the period of 28 days beginning with the day
 
 (5) Where the Secretary of State is not satisfied that P has complied fully with all the steps specified in the enforcement undertaking, the Secretary of State must, within the period of 28 days beginning with the day on which P’s application was received, notify P of the steps which, in the opinion of the Secretary of State, have not been fully complied with.
 
-(6) Where paragraph (5) applies, P may, within the period of 28 days beginning with the day on which the Secretary of State served[^key-97df830c8c834ae7b3aff8d04b1f4516] the notification referred to in that paragraph, submit to the Secretary of State further evidence to demonstrate compliance with the terms of the enforcement undertaking.
+(6) Where paragraph (5) applies, P may, within the period of 28 days beginning with the day on which the Secretary of State served[^c-97df830c8c834ae7b3aff8d04b1f4516] the notification referred to in that paragraph, submit to the Secretary of State further evidence to demonstrate compliance with the terms of the enforcement undertaking.
 
 (7) Paragraphs (8) and (9) apply where the Secretary of State has considered any further evidence submitted by P in accordance with paragraph (6).
 
@@ -283,24 +283,24 @@ the Secretary of State must, within the period of 28 days beginning with the day
 - (a) inform P that the Secretary of State is not satisfied that P has complied fully with the terms of the enforcement undertaking, and
 - (b) indicate to P any action which the Secretary of State proposes to take in relation to the suspected offence to which the enforcement undertaking relates.
 
-### 16. Circumstances where a person is to be regarded as not having complied with an enforcement undertaking[^key-cd5919c14acecd2fcf7ae862de6cc1ab]
+### 16. Circumstances where a person is to be regarded as not having complied with an enforcement undertaking[^c-cd5919c14acecd2fcf7ae862de6cc1ab]
 
 (1) Where P has given inaccurate, misleading or incomplete information to the Secretary of State in relation to an enforcement undertaking, the undertaking must be regarded as not having been complied with.
 
 (2) If a certificate of compliance has been issued to P on the basis of inaccurate, misleading or incomplete information given by P in relation to an enforcement undertaking, the Secretary of State may, by notice in writing to P, revoke the certificate of compliance.
 
-(3) Where the Secretary of State serves a notice of revocation of the certificate of compliance on[^key-fc11f2d6ff02b8c5a030fee8f143450a] P under paragraph (2)—
+(3) Where the Secretary of State serves a notice of revocation of the certificate of compliance on[^c-fc11f2d6ff02b8c5a030fee8f143450a] P under paragraph (2)—
 
 - (a) the enforcement undertaking to which the certificate relates must be regarded as not having been complied with, and
-- (b) the Secretary of State must, within the period of 28 days beginning with the day on which the Secretary of State served the notice of revocation on[^key-8d630051e7a1773fe29073bd2581e6b4] P, indicate to P any action which the Secretary of State proposes to take in relation to the suspected offence.
+- (b) the Secretary of State must, within the period of 28 days beginning with the day on which the Secretary of State served the notice of revocation on[^c-8d630051e7a1773fe29073bd2581e6b4] P, indicate to P any action which the Secretary of State proposes to take in relation to the suspected offence.
 
-### 17. Partial compliance with an enforcement undertaking[^key-a8c69e57d32e6e3bec59900c259812dc]
+### 17. Partial compliance with an enforcement undertaking[^c-a8c69e57d32e6e3bec59900c259812dc]
 
 Where P has complied partly but not fully with an enforcement undertaking, P’s part-compliance must be taken into account by the Secretary of State or, as the case may be, by a court or tribunal, when considering the imposition of any criminal or other sanction on P in relation to the suspected offence to which the enforcement undertaking relates.
 
 ## PART 4 — Appeals
 
-### 18. Suspension of a decision to impose a monetary penalty[^key-6d72c03b1101d2b5851c511dd2c28179]
+### 18. Suspension of a decision to impose a monetary penalty[^c-6d72c03b1101d2b5851c511dd2c28179]
 
 (1) Where P has appealed to the First-tier Tribunal against a decision of the Secretary of State to impose a monetary penalty, P may also apply to the Tribunal to suspend the effect of that decision.
 
@@ -310,7 +310,7 @@ Where P has complied partly but not fully with an enforcement undertaking, P’s
 - (b) direct that the effect of the Secretary of State’s decision to impose a monetary penalty is suspended until the appeal has been determined;
 - (c) direct that the Secretary of State’s decision to impose a monetary penalty is suspended to such limited extent as is specified in the direction.
 
-### 19. Suspension of a decision to serve a stop notice[^key-d15f81585fa05a3fcc8cb39aae057d93]
+### 19. Suspension of a decision to serve a stop notice[^c-d15f81585fa05a3fcc8cb39aae057d93]
 
 (1) Where P has appealed to the First-tier Tribunal against a decision of the Secretary of State to serve on P a stop notice, P may also apply to the Tribunal to suspend the effect of the stop notice until the appeal has been determined.
 
@@ -322,7 +322,7 @@ Where P has complied partly but not fully with an enforcement undertaking, P’s
 
 (3) If the Tribunal makes a direction under paragraph (2)(b) or (c), the Tribunal must also consider any application by the Secretary of State for the cancellation or variation of the direction.
 
-### 20. Powers of the First-tier Tribunal on appeal[^key-9dcf7415f9d6e84cf4ee446d4cd0cb49]
+### 20. Powers of the First-tier Tribunal on appeal[^c-9dcf7415f9d6e84cf4ee446d4cd0cb49]
 
 (1) On an appeal against a decision of the Secretary of State to impose a monetary penalty or to serve a stop notice, the First-tier Tribunal may—
 
@@ -337,7 +337,7 @@ Where P has complied partly but not fully with an enforcement undertaking, P’s
 - (b) direct the Secretary of State to issue a completion certificate;
 - (c) remit the decision on whether to issue a completion certificate to the Secretary of State for reconsideration.
 
-### 21. Unopposed appeals[^key-926c3db757c68059857795e9fde1ec2b]
+### 21. Unopposed appeals[^c-926c3db757c68059857795e9fde1ec2b]
 
 (1) This regulation applies where—
 
@@ -358,7 +358,7 @@ Where P has complied partly but not fully with an enforcement undertaking, P’s
 - (b) where the appeal relates to a refusal to issue, or to the revocation of, a certificate of compliance in relation to an enforcement undertaking, to issue a certificate of compliance to P;
 - (c) where the appeal relates to a refusal to issue a completion certificate in relation to a stop notice, to issue a completion certificate to P.
 
-### 22. Application for suspension of the effect of an enforcement undertaking[^key-0998608ebff3efc95ef146de01ac97fd]
+### 22. Application for suspension of the effect of an enforcement undertaking[^c-0998608ebff3efc95ef146de01ac97fd]
 
 (1) Where P has appealed to the First-tier Tribunal against a decision of the Secretary of State not to issue, or to revoke, a certificate of compliance in relation to an enforcement undertaking, P may also apply to the Tribunal to suspend the effect of the enforcement undertaking to which it relates until the appeal has been determined.
 
@@ -370,7 +370,7 @@ Where P has complied partly but not fully with an enforcement undertaking, P’s
 
 (3) If the Tribunal makes a direction under paragraph (2)(b) or (c), the Tribunal must also consider any application by the Secretary of State for the cancellation or variation of the direction.
 
-### 23. Appeal against a decision not to issue a certificate of compliance or to revoke a certificate of compliance in relation to an enforcement undertaking[^key-9e13701350580d95ecaa34c7e707fe3f]
+### 23. Appeal against a decision not to issue a certificate of compliance or to revoke a certificate of compliance in relation to an enforcement undertaking[^c-9e13701350580d95ecaa34c7e707fe3f]
 
 (1) Where the Secretary of State refuses to issue a certificate of compliance or revokes a certificate of compliance in relation to an enforcement undertaking, P may appeal that decision to the First-tier Tribunal.
 
@@ -415,9 +415,9 @@ An impact assessment was produced for the Ivory Bill and is available on www.leg
 
 [^f00002]: Footnote: The definition of “the Northern Ireland department” is given by section 38(1) of that Act.
 
-[^key-98da1d8c84f7e409c0907816afa42ede]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-98da1d8c84f7e409c0907816afa42ede]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-03342cdd92e9778369709760dd367b9e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/311/regulation/2) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-03342cdd92e9778369709760dd367b9e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/311/regulation/2) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
 [^f00003]: Footnote: [2018 c. 30](https://www.legislation.gov.uk/ukpga/2018/30).
 
@@ -425,76 +425,76 @@ An impact assessment was produced for the Ivory Bill and is available on www.leg
 
 [^f00005]: Footnote: The definition of “enforcement undertaking” is given by paragraph 10(1) of Schedule 1 to the Act.
 
-[^key-fe3050d9c9bcdaa6f1913498e7729a32]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/311/regulation/3) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-fe3050d9c9bcdaa6f1913498e7729a32]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/311/regulation/3) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-ef13187a92367c2f78001a904241cc3f]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2022/311/regulation/3/1/c) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/2/a)
+[^c-ef13187a92367c2f78001a904241cc3f]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2022/311/regulation/3/1/c) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/2/a)
 
-[^key-19bee35e6b26a6a18aef3386f80c4ab8]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/311/regulation/3/2) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/2/b)
+[^c-19bee35e6b26a6a18aef3386f80c4ab8]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/311/regulation/3/2) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/2/b)
 
-[^key-a37962857a3c50532c58d12c8a5accf8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/311/regulation/4) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-a37962857a3c50532c58d12c8a5accf8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/311/regulation/4) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-1fede3198267a4337ab978113f73f07d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/311/regulation/5) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-1fede3198267a4337ab978113f73f07d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/311/regulation/5) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-f85014f300fbf013e6b86e80bc67d454]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2022/311/regulation/5/3/b) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/3)
+[^c-f85014f300fbf013e6b86e80bc67d454]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2022/311/regulation/5/3/b) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/3)
 
-[^key-09aab07d717fa1aaa88bdad10ceb7362]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/311/regulation/6) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-09aab07d717fa1aaa88bdad10ceb7362]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/311/regulation/6) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-a01e8c7ae12741cb9e2631bdb9c27c94]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/311/regulation/7) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-a01e8c7ae12741cb9e2631bdb9c27c94]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/311/regulation/7) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-926f510ff1dc4f3c8adf4bb858bc1092]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/311/regulation/8) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-926f510ff1dc4f3c8adf4bb858bc1092]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/311/regulation/8) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-35605ddace765532ec010d2f5cf6f0fe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/311/regulation/9) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-35605ddace765532ec010d2f5cf6f0fe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/311/regulation/9) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-000684c4f3278b871aa55f60e3bac419]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/1/b) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/a)
+[^c-000684c4f3278b871aa55f60e3bac419]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/1/b) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/a)
 
-[^key-720c76385116636841d574edcdf7cdff]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/2) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/b)
+[^c-720c76385116636841d574edcdf7cdff]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/2) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/b)
 
-[^key-0620c812bf348c873ccc993dd56ccec1]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/3) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/c)
+[^c-0620c812bf348c873ccc993dd56ccec1]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/3) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/c)
 
-[^key-9155cf5901958f2b9543ca5832cb1cbd]: Textual amendment: Word in [reg. 9(4)(a)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/4/a) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(d)(i)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/d/i)
+[^c-9155cf5901958f2b9543ca5832cb1cbd]: Textual amendment: Word in [reg. 9(4)(a)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/4/a) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(d)(i)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/d/i)
 
-[^key-f45ee33baec966aa9d459ee75f0d140c]: Textual amendment: Word in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/4) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/d/ii)
+[^c-f45ee33baec966aa9d459ee75f0d140c]: Textual amendment: Word in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/4) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/d/ii)
 
-[^key-db9b8477286600313ae592fa2604c80d]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/5) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(e)(i)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/e/i)
+[^c-db9b8477286600313ae592fa2604c80d]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/5) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(e)(i)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/e/i)
 
-[^key-95af9730c83d580072b39670bf32f31a]: Textual amendment: Words in [reg. 9(5)(c)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/5/c) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/e/ii)
+[^c-95af9730c83d580072b39670bf32f31a]: Textual amendment: Words in [reg. 9(5)(c)](https://www.legislation.gov.uk/uksi/2022/311/regulation/9/5/c) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/4/e/ii)
 
-[^key-e1831908cfb8ab025e5f0583f76387ea]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/311/regulation/10) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-e1831908cfb8ab025e5f0583f76387ea]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/311/regulation/10) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-7013ef837874954afbd96aac698f12ed]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/311/regulation/11) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-7013ef837874954afbd96aac698f12ed]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/311/regulation/11) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-1655e3a7ba1fceeef20115405c8b1cf2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/311/regulation/12) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-1655e3a7ba1fceeef20115405c8b1cf2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/311/regulation/12) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-cee9614170e329abcb8264cf42a1574a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/311/regulation/13) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-cee9614170e329abcb8264cf42a1574a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/311/regulation/13) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-96fd612ca9fb60b4ffee959f40a763db]: Textual amendment: Word in [reg. 13(2)(d)](https://www.legislation.gov.uk/uksi/2022/311/regulation/13/2/d) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/5)
+[^c-96fd612ca9fb60b4ffee959f40a763db]: Textual amendment: Word in [reg. 13(2)(d)](https://www.legislation.gov.uk/uksi/2022/311/regulation/13/2/d) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/5)
 
-[^key-e99f316d284376b9a8dd19438bf8e512]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/311/regulation/14) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-e99f316d284376b9a8dd19438bf8e512]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/311/regulation/14) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-96a9bad55a4d7c9d8274a7101958fe37]: Textual amendment: [Reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2022/311/regulation/14/2/b) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(6)(a)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/6/a)
+[^c-96a9bad55a4d7c9d8274a7101958fe37]: Textual amendment: [Reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2022/311/regulation/14/2/b) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(6)(a)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/6/a)
 
-[^key-bf29639880bf7b079b8f33947aa4a5f5]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2022/311/regulation/14/3) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(6)(b)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/6/b)
+[^c-bf29639880bf7b079b8f33947aa4a5f5]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/2022/311/regulation/14/3) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(6)(b)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/6/b)
 
-[^key-bd948cb05d1de5ffd2097ccf7b239de2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2022/311/regulation/15) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-bd948cb05d1de5ffd2097ccf7b239de2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2022/311/regulation/15) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-97df830c8c834ae7b3aff8d04b1f4516]: Textual amendment: Word in [reg. 15(6)](https://www.legislation.gov.uk/uksi/2022/311/regulation/15/6) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/7)
+[^c-97df830c8c834ae7b3aff8d04b1f4516]: Textual amendment: Word in [reg. 15(6)](https://www.legislation.gov.uk/uksi/2022/311/regulation/15/6) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/7)
 
-[^key-cd5919c14acecd2fcf7ae862de6cc1ab]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2022/311/regulation/16) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-cd5919c14acecd2fcf7ae862de6cc1ab]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2022/311/regulation/16) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-fc11f2d6ff02b8c5a030fee8f143450a]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2022/311/regulation/16/3) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(8)(a)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/8/a)
+[^c-fc11f2d6ff02b8c5a030fee8f143450a]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2022/311/regulation/16/3) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(8)(a)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/8/a)
 
-[^key-8d630051e7a1773fe29073bd2581e6b4]: Textual amendment: Words in [reg. 16(3)(b)](https://www.legislation.gov.uk/uksi/2022/311/regulation/16/3/b) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(8)(b)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/8/b)
+[^c-8d630051e7a1773fe29073bd2581e6b4]: Textual amendment: Words in [reg. 16(3)(b)](https://www.legislation.gov.uk/uksi/2022/311/regulation/16/3/b) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [4(8)(b)](https://www.legislation.gov.uk/uksi/2025/9/regulation/4/8/b)
 
-[^key-a8c69e57d32e6e3bec59900c259812dc]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2022/311/regulation/17) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-a8c69e57d32e6e3bec59900c259812dc]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2022/311/regulation/17) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-6d72c03b1101d2b5851c511dd2c28179]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2022/311/regulation/18) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-6d72c03b1101d2b5851c511dd2c28179]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2022/311/regulation/18) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-d15f81585fa05a3fcc8cb39aae057d93]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2022/311/regulation/19) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-d15f81585fa05a3fcc8cb39aae057d93]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2022/311/regulation/19) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-9dcf7415f9d6e84cf4ee446d4cd0cb49]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2022/311/regulation/20) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-9dcf7415f9d6e84cf4ee446d4cd0cb49]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2022/311/regulation/20) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-926c3db757c68059857795e9fde1ec2b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2022/311/regulation/21) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-926c3db757c68059857795e9fde1ec2b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2022/311/regulation/21) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-0998608ebff3efc95ef146de01ac97fd]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2022/311/regulation/22) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-0998608ebff3efc95ef146de01ac97fd]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2022/311/regulation/22) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
 
-[^key-9e13701350580d95ecaa34c7e707fe3f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2022/311/regulation/23) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)
+[^c-9e13701350580d95ecaa34c7e707fe3f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2022/311/regulation/23) in force at 6.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/311/regulation/1)

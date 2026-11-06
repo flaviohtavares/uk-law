@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Events causing public body’s notice to cease to be in force[^key-6b9b85a5bc9bdd4fd4f80f7ebf3fe8f9]
+## 31. Events causing public body’s notice to cease to be in force[^c-6b9b85a5bc9bdd4fd4f80f7ebf3fe8f9]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Regulation 14 applies where a public body’s notice is given as it applies wher
 
 ## Annotations
 
-[^key-6b9b85a5bc9bdd4fd4f80f7ebf3fe8f9]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2024/1268/regulation/31) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-6b9b85a5bc9bdd4fd4f80f7ebf3fe8f9]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2024/1268/regulation/31) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

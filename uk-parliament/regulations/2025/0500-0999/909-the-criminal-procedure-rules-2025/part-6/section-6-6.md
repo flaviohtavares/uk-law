@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.6. Trial in private[^key-10ffe4f22221703e94747202fca80b2d]
+## 6.6. Trial in private[^c-10ffe4f22221703e94747202fca80b2d]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10ffe4f22221703e94747202fca80b2d]: Commencement: [Rule 6.6](https://www.legislation.gov.uk/uksi/2025/909/rule/6.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-10ffe4f22221703e94747202fca80b2d]: Commencement: [Rule 6.6](https://www.legislation.gov.uk/uksi/2025/909/rule/6.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

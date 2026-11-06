@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251. Exercise of power to impose sentence of detention under section 250[^key-9e1263f24aadf986b73dc25ceb918d99]
+## 251. Exercise of power to impose sentence of detention under section 250[^c-9e1263f24aadf986b73dc25ceb918d99]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e1263f24aadf986b73dc25ceb918d99]: Commencement: S. 251 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9e1263f24aadf986b73dc25ceb918d99]: Commencement: S. 251 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

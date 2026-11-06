@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Section 53: consultation and publication[^key-91d0a5a2372b03767debb1c7d1119bd1]
+## 54. Section 53: consultation and publication[^c-91d0a5a2372b03767debb1c7d1119bd1]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91d0a5a2372b03767debb1c7d1119bd1]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-91d0a5a2372b03767debb1c7d1119bd1]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)

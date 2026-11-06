@@ -58,7 +58,7 @@ In accordance with paragraph 2(2) of Schedule 2 to the 1972 Act, paragraph 1(3) 
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-6edf10c456a1571467cc8a5f375611f0]
+### 1. Citation and commencement[^c-6edf10c456a1571467cc8a5f375611f0]
 
 (1) These Regulations may be cited as the Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020.
 
@@ -70,13 +70,13 @@ In accordance with paragraph 2(2) of Schedule 2 to the 1972 Act, paragraph 1(3) 
 
 ## PART 2 — Amendment to the European Union (Recognition of Professional Qualifications) Regulations 2015
 
-### 2. Amendment to the European Union (Recognition of Professional Qualifications) Regulations 2015[^key-9ba30a8030d339141c4185e744118b94]
+### 2. Amendment to the European Union (Recognition of Professional Qualifications) Regulations 2015[^c-9ba30a8030d339141c4185e744118b94]
 
 In regulation 8(3)(e) of the European Union (Recognition of Professional Qualifications) Regulations 2015[^f00005], for “in that State” substitute “in one or more relevant European States”.
 
 ## PART 3 — Amendments relating to EU Exit
 
-### 3. Amendments to the Provision of Services (Amendment etc.) (EU Exit) Regulations 2018[^key-bc4790426795c2a3e4b4a24026fca027]
+### 3. Amendments to the Provision of Services (Amendment etc.) (EU Exit) Regulations 2018[^c-bc4790426795c2a3e4b4a24026fca027]
 
 (1) The Provision of Services (Amendment etc.) (EU Exit) Regulations 2018[^f00006] are amended as follows.
 
@@ -86,15 +86,15 @@ In regulation 8(3)(e) of the European Union (Recognition of Professional Qualifi
 - (b) regulation 10(2), in both places it occurs;
 - (c) regulation 14(1)(a).
 
-### 4. Amendments to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019[^key-63298411c0a5a55810bdeb44f21324c1]
+### 4. Amendments to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019[^c-63298411c0a5a55810bdeb44f21324c1]
 
 Schedule 1 contains amendments to the Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019[^f00007].
 
-### 5. Amendments to the Veterinary Surgeons and Animal Welfare (Amendment) (EU Exit) Regulations 2019[^key-51dbf7cd6d250909fb18313bdbb28cd4]
+### 5. Amendments to the Veterinary Surgeons and Animal Welfare (Amendment) (EU Exit) Regulations 2019[^c-51dbf7cd6d250909fb18313bdbb28cd4]
 
 Schedule 2 contains amendments to the Veterinary Surgeons and Animal Welfare (Amendment) (EU Exit) Regulations 2019[^f00008].
 
-### 6. Amendments to the Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019[^key-39d8613a486fe458b56bc125960a2e5f]
+### 6. Amendments to the Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019[^c-39d8613a486fe458b56bc125960a2e5f]
 
 (1) The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019[^f00009] are amended as follows.
 
@@ -110,40 +110,40 @@ Schedule 2 contains amendments to the Veterinary Surgeons and Animal Welfare (Am
 
 .
 
-### 7. Amendments to the Architects Act 1997 (Amendment) (EU Exit) Regulations 2019[^key-1d1731d0adc3799eb8dd6724fa7db606]
+### 7. Amendments to the Architects Act 1997 (Amendment) (EU Exit) Regulations 2019[^c-1d1731d0adc3799eb8dd6724fa7db606]
 
 Schedule 3 contains amendments to the Architects Act 1997 (Amendment) (EU Exit) Regulations 2019[^f00012].
 
-### 8. Amendments to the Architects Act 1997 (Swiss Qualifications) (Amendment) (EU Exit) Regulations 2019[^key-0a5965102f36a2c875dbf7a70f4b803b]
+### 8. Amendments to the Architects Act 1997 (Swiss Qualifications) (Amendment) (EU Exit) Regulations 2019[^c-0a5965102f36a2c875dbf7a70f4b803b]
 
 The Architects Act 1997 (Swiss Qualifications) (Amendment) (EU Exit) Regulations 2019[^f00013] are amended as follows—
 
 - (a) in regulation 3, in the heading and in both places it occurs, for “exit day”, substitute “IP completion day”;
 - (b) omit regulation 4.
 
-## PART 4 — Cessation of directly effective treaty rights[^key-68c929ad7ab45f0d08bb53d5d56d1c4e]
+## PART 4 — Cessation of directly effective treaty rights[^c-68c929ad7ab45f0d08bb53d5d56d1c4e]
 
 **No longer in force.**
 
-### 9. Interpretation of this Part[^key-68c929ad7ab45f0d08bb53d5d56d1c4e]
+### 9. Interpretation of this Part[^c-68c929ad7ab45f0d08bb53d5d56d1c4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Cessation of freedom of movement in relation to recognition of professional qualifications[^key-68c929ad7ab45f0d08bb53d5d56d1c4e]
+### 10. Cessation of freedom of movement in relation to recognition of professional qualifications[^c-68c929ad7ab45f0d08bb53d5d56d1c4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Cessation of directly effective treaty rights in relation to recognition of professional qualifications under the Swiss Agreement[^key-68c929ad7ab45f0d08bb53d5d56d1c4e]
+### 11. Cessation of directly effective treaty rights in relation to recognition of professional qualifications under the Swiss Agreement[^c-68c929ad7ab45f0d08bb53d5d56d1c4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Cessation of discrimination on the grounds of nationality[^key-68c929ad7ab45f0d08bb53d5d56d1c4e]
+### 12. Cessation of discrimination on the grounds of nationality[^c-68c929ad7ab45f0d08bb53d5d56d1c4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Revocation of retained direct EU legislation
 
-### 13. Revocation of retained direct EU legislation[^key-d75eef394f4eb37985bdc952ed9963a5]
+### 13. Revocation of retained direct EU legislation[^c-d75eef394f4eb37985bdc952ed9963a5]
 
 The following instruments are revoked—
 
@@ -163,9 +163,9 @@ Department for Business, Energy & Industrial Strategy
 
 Regulation 4
 
-**1.**[^key-aea7edc270d26848476ebe47ac67a02a] The Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 are amended as follows.
+**1.**[^c-aea7edc270d26848476ebe47ac67a02a] The Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 are amended as follows.
 
-**2.**[^key-f34f4d62db43b63b14871aa41226c19f] In Part 2 of Schedule 1[^f00017]—
+**2.**[^c-f34f4d62db43b63b14871aa41226c19f] In Part 2 of Schedule 1[^f00017]—
 
 - (a) in the heading, for “exit day” substitute “IP completion day”;
 - (b) in paragraph 7, in the substituted regulation 3—
@@ -185,7 +185,7 @@ Regulation 4
 
   .
 
-**3.**[^key-e63e1022a51c3b4781775d9b8c6cc31a] For Part 3 of Schedule 1, substitute the following—
+**3.**[^c-e63e1022a51c3b4781775d9b8c6cc31a] For Part 3 of Schedule 1, substitute the following—
 
 > **PART 3 — Transitional and saving provision**
 >
@@ -570,7 +570,7 @@ Regulation 4
 
 .
 
-**4.**[^key-59f60942341b11f3c49c7eaa4e1b3869] In Schedule 2 (amendments etc. of secondary legislation relating to school teachers)—
+**4.**[^c-59f60942341b11f3c49c7eaa4e1b3869] In Schedule 2 (amendments etc. of secondary legislation relating to school teachers)—
 
 - (a) in paragraph 1(3), in the substituted paragraph 8—
   - (i) renumber the second sub-paragraph (1)(a) as (c);
@@ -592,9 +592,9 @@ Regulation 4
 
 Regulation 5
 
-**1.**[^key-a9735dd5aebaeb15a68722ad522f92ab] The Veterinary Surgeons and Animal Welfare (Amendment) (EU Exit) Regulations 2019[^f00029] are amended as follows.
+**1.**[^c-a9735dd5aebaeb15a68722ad522f92ab] The Veterinary Surgeons and Animal Welfare (Amendment) (EU Exit) Regulations 2019[^f00029] are amended as follows.
 
-**2.**[^key-ad8f2b31ccda4228829ba4b040c658c3] In the following places, for “exit day” substitute “IP completion day”—
+**2.**[^c-ad8f2b31ccda4228829ba4b040c658c3] In the following places, for “exit day” substitute “IP completion day”—
 
 - (a) regulation 2(3)(b);
 - (b) in regulation 3, in the following paragraphs—
@@ -605,7 +605,7 @@ Regulation 5
   - (i) paragraph (2)(a), in both places it occurs;
   - (ii) paragraph (2)(b), in the six places it occurs.
 
-**3.**[^key-bc19716e71facf795f8ba601e7142b9d] After regulation 5 insert—
+**3.**[^c-bc19716e71facf795f8ba601e7142b9d] After regulation 5 insert—
 
 > **5A. Applications under the Act: Swiss citizens’ rights agreement entitled persons**
 >
@@ -659,17 +659,17 @@ Regulation 5
 
 Regulation 7
 
-**1.**[^key-8dee65df5cdf1fd049d6ddae14c70d9b] The Architects Act 1997 (Amendment) (EU Exit) Regulations 2019 are amended as follows.
+**1.**[^c-8dee65df5cdf1fd049d6ddae14c70d9b] The Architects Act 1997 (Amendment) (EU Exit) Regulations 2019 are amended as follows.
 
-**2.**[^key-a0ad8f20c191794ae42ad42bd5675d64] In regulation 2, at the appropriate place insert—
+**2.**[^c-a0ad8f20c191794ae42ad42bd5675d64] In regulation 2, at the appropriate place insert—
 
 > - “the 2015 Regulations” means the European Union (Recognition of Professional Qualifications) Regulations 2015[^f00035];
 
 .
 
-**3.**[^key-1e3d0bd424bf7604defb5ac6e38d3449] In regulation 19(a), for “exit day” substitute “IP completion day” in both places it occurs.
+**3.**[^c-1e3d0bd424bf7604defb5ac6e38d3449] In regulation 19(a), for “exit day” substitute “IP completion day” in both places it occurs.
 
-**4.**[^key-b39fd8049a43709122566b18aad290ef] Part 3 is substituted with Parts 3 and 4, as follows—
+**4.**[^c-b39fd8049a43709122566b18aad290ef] Part 3 is substituted with Parts 3 and 4, as follows—
 
 > **PART 3 — Transitional and saving provision under the withdrawal agreement and the EEA EFTA separation agreement**
 >
@@ -983,25 +983,25 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00004]: Footnote: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1). The power in sections 12 and 14 is exercisable by the “appropriate authority” as to which see section 12(8) and section 14(6).
 
-[^key-6edf10c456a1571467cc8a5f375611f0]: Commencement: Reg. 1 in force at 25.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/2)
+[^c-6edf10c456a1571467cc8a5f375611f0]: Commencement: Reg. 1 in force at 25.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/2)
 
-[^key-9ba30a8030d339141c4185e744118b94]: Commencement: Reg. 2 in force at 25.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/2)
+[^c-9ba30a8030d339141c4185e744118b94]: Commencement: Reg. 2 in force at 25.9.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059), amended by [S.I. 2019/312](https://www.legislation.gov.uk/uksi/2019/312); there are other amending instruments, but none is relevant.
 
-[^key-bc4790426795c2a3e4b4a24026fca027]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-bc4790426795c2a3e4b4a24026fca027]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^f00006]: Footnote: [S.I. 2018/1329](https://www.legislation.gov.uk/uksi/2018/1329). Regulation 1(1) provides for the Regulations to come into force on exit day. As a result of the application of paragraph 1 of Schedule 5 to the 2020 Act, regulation 1(1) is to be read instead as providing for the Regulations to come into force on IP completion day.
 
-[^key-63298411c0a5a55810bdeb44f21324c1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1038/regulation/4) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-63298411c0a5a55810bdeb44f21324c1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1038/regulation/4) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^f00007]: Footnote: [S.I. 2019/312](https://www.legislation.gov.uk/uksi/2019/312). Regulation 1(3) provides for certain provisions to come into force on exit day. As a result of the application of paragraph 1 of Schedule 5 to the 2020 Act, regulation 1(3) is to be read instead as providing for the provisions concerned to come into force on IP completion day.
 
-[^key-51dbf7cd6d250909fb18313bdbb28cd4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1038/regulation/5) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-51dbf7cd6d250909fb18313bdbb28cd4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1038/regulation/5) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^f00008]: Footnote: [S.I. 2019/454](https://www.legislation.gov.uk/uksi/2019/454). Regulation 1(1) provides for the Regulations to come into force on exit day. As a result of the application of paragraph 1 of Schedule 5 to the 2020 Act, regulation 1(1) is to be read instead as providing for the Regulations to come into force on IP completion day.
 
-[^key-39d8613a486fe458b56bc125960a2e5f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-39d8613a486fe458b56bc125960a2e5f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1038/regulation/6) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^f00009]: Footnote: [S.I. 2019/457](https://www.legislation.gov.uk/uksi/2019/457). Regulation 1(1) provides for the Regulations to come into force on exit day. As a result of the application of paragraph 1 of Schedule 5 to the 2020 Act, regulation 1(1) is to be read instead as providing for the Regulations to come into force on IP completion day.
 
@@ -1009,25 +1009,25 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00011]: Footnote: See paragraph 3 of Schedule 1 to these regulations, which inserts paragraph 51.
 
-[^key-1d1731d0adc3799eb8dd6724fa7db606]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1038/regulation/7) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-1d1731d0adc3799eb8dd6724fa7db606]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1038/regulation/7) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^f00012]: Footnote: [S.I. 2019/717](https://www.legislation.gov.uk/uksi/2019/717). Regulation 1(2) provides for the Regulations to come into force on whichever is the later of exit day, and the day after the day on which the Regulations are made. As a result of the application of paragraph 1 of Schedule 5 to the 2020 Act, regulation 1(2) is to be read instead as providing for the Regulations to come into force on the later of IP completion day and the day after the day on which the Regulations are made.
 
-[^key-0a5965102f36a2c875dbf7a70f4b803b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1038/regulation/8) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-0a5965102f36a2c875dbf7a70f4b803b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1038/regulation/8) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^f00013]: Footnote: [S.I. 2019/810](https://www.legislation.gov.uk/uksi/2019/810).
 
-[^key-68c929ad7ab45f0d08bb53d5d56d1c4e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1038/part/4) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/15)
+[^c-68c929ad7ab45f0d08bb53d5d56d1c4e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1038/part/4) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/15)
 
-[^key-d75eef394f4eb37985bdc952ed9963a5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1038/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
+[^c-d75eef394f4eb37985bdc952ed9963a5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1038/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4)
 
-[^key-aea7edc270d26848476ebe47ac67a02a]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-aea7edc270d26848476ebe47ac67a02a]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-f34f4d62db43b63b14871aa41226c19f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2020/1038/schedule/1/paragraph/2) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-f34f4d62db43b63b14871aa41226c19f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2020/1038/schedule/1/paragraph/2) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^f00017]: Footnote: Part 2 of Schedule 1 amends the European Union (Recognition of Professional Qualifications) Regulations 2015 ([S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059)). Part 3 contains saving and transitional provisions relating to the European Communities (Recognition of Professional Qualifications) Regulations 2007 ([S.I. 2007/2781](https://www.legislation.gov.uk/uksi/2007/2781)) and [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059). S.I 2007/2781 was revoked with savings by [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059) and by [S.I. 2019/312](https://www.legislation.gov.uk/uksi/2019/312).
 
-[^key-e63e1022a51c3b4781775d9b8c6cc31a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2020/1038/schedule/1/paragraph/3) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-e63e1022a51c3b4781775d9b8c6cc31a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2020/1038/schedule/1/paragraph/3) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^f00018]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). Section 3(9) was amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
@@ -1051,15 +1051,15 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00028]: Footnote: OJ No L255, 30.09.2005, p 22.
 
-[^key-59f60942341b11f3c49c7eaa4e1b3869]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1038/schedule/1/paragraph/4) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-59f60942341b11f3c49c7eaa4e1b3869]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1038/schedule/1/paragraph/4) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-a9735dd5aebaeb15a68722ad522f92ab]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/1) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-a9735dd5aebaeb15a68722ad522f92ab]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/1) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^f00029]: Footnote: [S.I. 2019/454](https://www.legislation.gov.uk/uksi/2019/454). Regulation 1(1) provides for the Regulations to come into force on exit day. As a result of the application of paragraph 1 of Schedule 5 to the 2020 Act, regulation 1(1) is to be read instead as providing for the Regulations to come into force on IP completion day.
 
-[^key-ad8f2b31ccda4228829ba4b040c658c3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-ad8f2b31ccda4228829ba4b040c658c3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/2) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-bc19716e71facf795f8ba601e7142b9d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/3) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-bc19716e71facf795f8ba601e7142b9d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1038/schedule/2/paragraph/3) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^f00030]: Footnote: Section 5A was substituted by [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824). Relevant amending instruments are [S.I. 2013/2985](https://www.legislation.gov.uk/uksi/2013/2985) and [2015/2073](https://www.legislation.gov.uk/uksi/2015/2073).
 
@@ -1071,15 +1071,15 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00034]: Footnote: Section 5D was inserted by [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919). Relevant amending instruments are [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824) and [2015/2073](https://www.legislation.gov.uk/uksi/2015/2073).
 
-[^key-8dee65df5cdf1fd049d6ddae14c70d9b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2020/1038/schedule/3/paragraph/1) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-8dee65df5cdf1fd049d6ddae14c70d9b]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2020/1038/schedule/3/paragraph/1) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-a0ad8f20c191794ae42ad42bd5675d64]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2020/1038/schedule/3/paragraph/2) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-a0ad8f20c191794ae42ad42bd5675d64]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2020/1038/schedule/3/paragraph/2) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^f00035]: Footnote: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059).
 
-[^key-1e3d0bd424bf7604defb5ac6e38d3449]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2020/1038/schedule/3/paragraph/3) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-1e3d0bd424bf7604defb5ac6e38d3449]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2020/1038/schedule/3/paragraph/3) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-b39fd8049a43709122566b18aad290ef]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2020/1038/schedule/3/paragraph/4) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-b39fd8049a43709122566b18aad290ef]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2020/1038/schedule/3/paragraph/4) in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^f00036]: Footnote: “Visiting practitioner” is defined in paragraph 2(1)(a) of Schedule 1A to the 1997 Act.
 

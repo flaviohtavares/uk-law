@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Duty to ensure there are systems in place for keeping of records[^key-f909773a33f100001d017fd49c33053b]
+## 57. Duty to ensure there are systems in place for keeping of records[^c-f909773a33f100001d017fd49c33053b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The responsible individual must ensure that there are effective systems in place
 
 ## Annotations
 
-[^key-f909773a33f100001d017fd49c33053b]: Commencement: [Reg. 57](https://www.legislation.gov.uk/wsi/2019/163/regulation/57) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-f909773a33f100001d017fd49c33053b]: Commencement: [Reg. 57](https://www.legislation.gov.uk/wsi/2019/163/regulation/57) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

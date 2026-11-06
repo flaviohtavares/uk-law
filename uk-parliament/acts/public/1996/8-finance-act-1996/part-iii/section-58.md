@@ -26,7 +26,7 @@ summary: ''
 
 (3) The registration under this Part of a body corporate carrying on a business in several divisions may, if the body corporate so requests and the Commissioners see fit, be in the names of those divisions.
 
-(4) As regards any case where a person carries on a business of a person who has died or become bankrupt or incapacitated or whose estate has been sequestrated, or of a person which is in liquidation or receivership or administration[^key-812c5df61a5bee146fb39781e0e9d543] , regulations may—
+(4) As regards any case where a person carries on a business of a person who has died or become bankrupt or incapacitated or whose estate has been sequestrated, or of a person which is in liquidation or receivership or administration[^c-812c5df61a5bee146fb39781e0e9d543] , regulations may—
 
 - (a) require the first-mentioned person to inform the Commissioners of the fact that he is carrying on the business and of the event that has led to his carrying it on;
 - (b) make provision allowing the person to be treated for a limited time as if he were the other person;
@@ -44,4 +44,4 @@ but the regulations may provide that no such provision as is mentioned in paragr
 
 ## Annotations
 
-[^key-812c5df61a5bee146fb39781e0e9d543]: Textual amendment: Word in s. 58(4) substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/28) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+[^c-812c5df61a5bee146fb39781e0e9d543]: Textual amendment: Word in s. 58(4) substituted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/28) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))

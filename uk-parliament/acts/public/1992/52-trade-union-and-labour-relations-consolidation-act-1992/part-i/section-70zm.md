@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70ZM. Appeals to the Employment Appeal Tribunal[^key-e1bdf4741bf99a74d07bf2dc2c67ee40]
+## 70ZM. Appeals to the Employment Appeal Tribunal[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1bdf4741bf99a74d07bf2dc2c67ee40]: Textual amendment: [Pt. 1 Ch. 5ZA](https://www.legislation.gov.uk/ukpga/1992/52/part/I/chapter/5ZA) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(19)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/19/b)
+[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]: Textual amendment: [Pt. 1 Ch. 5ZA](https://www.legislation.gov.uk/ukpga/1992/52/part/I/chapter/5ZA) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(19)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/19/b)

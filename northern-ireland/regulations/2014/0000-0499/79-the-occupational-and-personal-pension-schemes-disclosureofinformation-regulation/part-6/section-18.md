@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Lifestyling[^key-038feeb0303bd591cb8a8163c0d9fa50]
+## 18. Lifestyling[^c-038feeb0303bd591cb8a8163c0d9fa50]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-038feeb0303bd591cb8a8163c0d9fa50]: Commencement: Reg. 18 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-038feeb0303bd591cb8a8163c0d9fa50]: Commencement: Reg. 18 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

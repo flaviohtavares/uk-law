@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54A. Power to provide for fees for certain services in relation to nationally significant infrastructure projects[^key-f51c3df54edd2374cfc825dca5d6eca8]
+## 54A. Power to provide for fees for certain services in relation to nationally significant infrastructure projects[^c-f51c3df54edd2374cfc825dca5d6eca8]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f51c3df54edd2374cfc825dca5d6eca8]: Textual amendment: [Pt. 5 Ch. 4](https://www.legislation.gov.uk/ukpga/2008/29/part/5/chapter/4) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 126(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/126/1), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-f51c3df54edd2374cfc825dca5d6eca8]: Textual amendment: [Pt. 5 Ch. 4](https://www.legislation.gov.uk/ukpga/2008/29/part/5/chapter/4) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 126(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/126/1), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

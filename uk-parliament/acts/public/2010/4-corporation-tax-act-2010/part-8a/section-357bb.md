@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357BB. Rights to which this Part applies[^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357BB. Rights to which this Part applies[^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,9 +25,9 @@ summary: ''
 - (a) a patent granted under the Patents Act 1977,
 - (b) a patent granted under the European Patent Convention,
 - (c) a right of a specified description which corresponds to a right within paragraph (a) or (b) and is granted under the law of a specified EEA state,
-- (d) a supplementary protection certificate, and[^key-66809af06587a49e79887c63e7ab4ef7]
+- (d) a supplementary protection certificate, and[^c-66809af06587a49e79887c63e7ab4ef7]
 - (e) any plant breeders' rights granted in accordance with Part 1 of the Plant Varieties Act 1997,
-- (f)[^key-29f594c6ecc5e1aaa2154e20807c5f90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-29f594c6ecc5e1aaa2154e20807c5f90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where—
 
@@ -36,7 +36,7 @@ summary: ''
 
 the person is to be treated for the purposes of this Part as if the person had been granted the patent under that Act.
 
-(3)[^key-6527a49f8763d2abaa4cc3fa6f440838] Where a product benefits from marketing protection (see subsection (4)) or data protection (see subsection (5)), the person who holds the relevant marketing authorisation in respect of the product (see subsection (6A)) is to be treated for the purposes of this Part as having been granted a right to which this Part applies in respect of the product.
+(3)[^c-6527a49f8763d2abaa4cc3fa6f440838] Where a product benefits from marketing protection (see subsection (4)) or data protection (see subsection (5)), the person who holds the relevant marketing authorisation in respect of the product (see subsection (6A)) is to be treated for the purposes of this Part as having been granted a right to which this Part applies in respect of the product.
 
 (4) A product benefits from marketing protection if—
 
@@ -50,14 +50,14 @@ the person is to be treated for the purposes of this Part as if the person had b
 - (a) a marketing authorisation in respect of the product under the Human Medicines Regulations 2012 has been granted or varied in circumstances giving rise to the prohibition in regulation 51(16) or 64A(3) of those Regulations and that prohibition remains in force;
 - (b) a marketing authorisation under Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) has been granted in respect of the product and data relating to the product benefits from data protection under Article 59 of that Regulation.
 
-(6) The reference to data in subsection (5)(b)[^key-c392a9594d0795358a5cba99d0993453] does not include a study necessary for the renewal or review of a marketing authorisation granted in respect of the product in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107).
+(6) The reference to data in subsection (5)(b)[^c-c392a9594d0795358a5cba99d0993453] does not include a study necessary for the renewal or review of a marketing authorisation granted in respect of the product in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107).
 
-(6A)[^key-8bc1d6ff4e8e398a182b8bee6068a491] In subsection (3) the relevant marketing authorisation is the marketing authorisation by reference to which it is determined that the product benefits from marketing protection or data protection.
+(6A)[^c-8bc1d6ff4e8e398a182b8bee6068a491] In subsection (3) the relevant marketing authorisation is the marketing authorisation by reference to which it is determined that the product benefits from marketing protection or data protection.
 
 (7) In this section—
 
 - “**European Patent Convention**” means the Convention on the Grant of European Patents,
-- “Regulation[^key-3351bd50218045b02422a46328b0c543] [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107)” means Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market,
+- “Regulation[^c-3351bd50218045b02422a46328b0c543] [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107)” means Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market,
 - “**rules**” means rules made under section 123 of the Patents Act 1977,
 - “**specified**” means specified in an order made by the Treasury, and
 - “**supplementary protection certificate**” means a certificate issued under—
@@ -66,27 +66,27 @@ the person is to be treated for the purposes of this Part as if the person had b
 
 (8) The Treasury may by order—
 
-- (a) amend this section so as to make provision about the circumstances in which a product benefits from marketing or data protection for the purposes of subsection (3)[^key-7b190ae0b542402edbef252d1fbff599];
-- (b)[^key-3765d3d57b39538257386f153a2d0b02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) amend this section so as to make provision about the circumstances in which a product benefits from marketing or data protection for the purposes of subsection (3)[^c-7b190ae0b542402edbef252d1fbff599];
+- (b)[^c-3765d3d57b39538257386f153a2d0b02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) An order made under this section may make any incidental, supplemental, consequential, transitional or saving provision, including provision amending or modifying this Part.
 
 ## Annotations
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
 
-[^key-66809af06587a49e79887c63e7ab4ef7]: Textual amendment: Word in s. 357BB(1)(d) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66809af06587a49e79887c63e7ab4ef7]: Textual amendment: Word in s. 357BB(1)(d) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-29f594c6ecc5e1aaa2154e20807c5f90]: Textual amendment: S. 357BB(1)(f) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-29f594c6ecc5e1aaa2154e20807c5f90]: Textual amendment: S. 357BB(1)(f) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6527a49f8763d2abaa4cc3fa6f440838]: Textual amendment: S. 357BB(3)-(5) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6527a49f8763d2abaa4cc3fa6f440838]: Textual amendment: S. 357BB(3)-(5) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c392a9594d0795358a5cba99d0993453]: Textual amendment: Words in s. 357BB(6) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(c)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c392a9594d0795358a5cba99d0993453]: Textual amendment: Words in s. 357BB(6) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(c)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8bc1d6ff4e8e398a182b8bee6068a491]: Textual amendment: S. 357BB(6A) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(d)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8bc1d6ff4e8e398a182b8bee6068a491]: Textual amendment: S. 357BB(6A) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(d)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3351bd50218045b02422a46328b0c543]: Textual amendment: Words in s. 357BB(7) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(e)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3351bd50218045b02422a46328b0c543]: Textual amendment: Words in s. 357BB(7) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(e)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b190ae0b542402edbef252d1fbff599]: Textual amendment: Words in s. 357BB(8)(a) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(f)(i)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/f/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b190ae0b542402edbef252d1fbff599]: Textual amendment: Words in s. 357BB(8)(a) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(f)(i)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/f/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3765d3d57b39538257386f153a2d0b02]: Textual amendment: S. 357BB(8)(b) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/f/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3765d3d57b39538257386f153a2d0b02]: Textual amendment: S. 357BB(8)(b) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/2), [8(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2019/818/regulation/8/3/f/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

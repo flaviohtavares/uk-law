@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Amendment) (No. 4) Order 2009 (revoked)[^key-2c933f80b9513d4be5cccc316fad2fc9]
+The Export Control (Amendment) (No. 4) Order 2009 (revoked)[^c-2c933f80b9513d4be5cccc316fad2fc9]
 
 Made
 
@@ -46,20 +46,20 @@ Coming into force
 
 11th November 2009
 
-[^key-2c933f80b9513d4be5cccc316fad2fc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c933f80b9513d4be5cccc316fad2fc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-2c933f80b9513d4be5cccc316fad2fc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2c933f80b9513d4be5cccc316fad2fc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2c933f80b9513d4be5cccc316fad2fc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2c933f80b9513d4be5cccc316fad2fc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c933f80b9513d4be5cccc316fad2fc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c933f80b9513d4be5cccc316fad2fc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2c933f80b9513d4be5cccc316fad2fc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c933f80b9513d4be5cccc316fad2fc9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2c933f80b9513d4be5cccc316fad2fc9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/2969) revoked (11.8.2015) by [The Export Control (Democratic Republic of Congo Sanctions and Miscellaneous Amendments and Revocations) Order 2015 (S.I. 2015/1546)](https://www.legislation.gov.uk/uksi/2015/1546), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1546/schedule)
+[^c-2c933f80b9513d4be5cccc316fad2fc9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/2969) revoked (11.8.2015) by [The Export Control (Democratic Republic of Congo Sanctions and Miscellaneous Amendments and Revocations) Order 2015 (S.I. 2015/1546)](https://www.legislation.gov.uk/uksi/2015/1546), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1546/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1546/schedule)

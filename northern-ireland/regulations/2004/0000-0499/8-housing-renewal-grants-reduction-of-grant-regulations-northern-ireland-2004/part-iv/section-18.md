@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Determination of income and capital of members of relevant person’s family and of a polygamous marriage[^key-5e65939dfb170e94ebaf927e4118cee3]
+## 18. Determination of income and capital of members of relevant person’s family and of a polygamous marriage[^c-5e65939dfb170e94ebaf927e4118cee3]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e65939dfb170e94ebaf927e4118cee3]: Commencement: Reg. 18 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-5e65939dfb170e94ebaf927e4118cee3]: Commencement: Reg. 18 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

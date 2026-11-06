@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Duty to restore a register entry[^key-dd8daa94f1d2784b75a0e1a82709ac53]
+## 95. Duty to restore a register entry[^c-dd8daa94f1d2784b75a0e1a82709ac53]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If the registrar is satisfied that an entry, or an annotation to an entry, has b
 
 ## Annotations
 
-[^key-dd8daa94f1d2784b75a0e1a82709ac53]: Commencement: S. 95 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-dd8daa94f1d2784b75a0e1a82709ac53]: Commencement: S. 95 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

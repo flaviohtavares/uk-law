@@ -35,26 +35,26 @@ establishing the structure and detailed arrangements of the inventory of the sou
 
 (Text with EEA relevance) (revoked)
 
-[^key-4a28cb6969d7df7feefc4dbf0c70b9f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a28cb6969d7df7feefc4dbf0c70b9f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Inventory structure[^key-4a28cb6969d7df7feefc4dbf0c70b9f7]
+## Article 1. Inventory structure[^c-4a28cb6969d7df7feefc4dbf0c70b9f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Detailed arrangements[^key-4a28cb6969d7df7feefc4dbf0c70b9f7]
+## Article 2. Detailed arrangements[^c-4a28cb6969d7df7feefc4dbf0c70b9f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Timetable for updating and transmission[^key-4a28cb6969d7df7feefc4dbf0c70b9f7]
+## Article 3. Timetable for updating and transmission[^c-4a28cb6969d7df7feefc4dbf0c70b9f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-4a28cb6969d7df7feefc4dbf0c70b9f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-4a28cb6969d7df7feefc4dbf0c70b9f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4a28cb6969d7df7feefc4dbf0c70b9f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a28cb6969d7df7feefc4dbf0c70b9f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4a28cb6969d7df7feefc4dbf0c70b9f7]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 134](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/134)
+[^c-4a28cb6969d7df7feefc4dbf0c70b9f7]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 134](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/134)

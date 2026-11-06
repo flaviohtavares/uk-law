@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 320. Rights to compensation for ending rights over land etc.[^key-0abcf6f9a0f6988f1f5b0f0590bc475c]
+## 320. Rights to compensation for ending rights over land etc.[^c-0abcf6f9a0f6988f1f5b0f0590bc475c]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ the undertaker is entitled, on making a claim to the authority that acquired or 
 
 ## Annotations
 
-[^key-0abcf6f9a0f6988f1f5b0f0590bc475c]: Commencement: S. 320 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0abcf6f9a0f6988f1f5b0f0590bc475c]: Commencement: S. 320 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

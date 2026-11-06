@@ -78,9 +78,9 @@ Provided that where an object has become vested in the Trustees by virtue of a g
 
 (3) Money accruing to the Trustees by virtue of an exercise of the powers conferred by this section or section 6 of the Museums and Galleries Act 1992[^c7113211] shall be laid out by them in the purchase of objects to be added to the collections of the Museum.
 
-## 6. Staff.[^key-b976864a24f2b0cc9156fd0972c90486]
+## 6. Staff.[^c-b976864a24f2b0cc9156fd0972c90486]
 
-(1) There shall be a Director of the British Museum, who shall be a person appointed by the Trustees with the approval of the Prime Minister and shall hold office on such terms and subject to such conditions as the Secretary of State[^key-30ae044a5dd6bb73a53a225fe64842c8] may direct, and who shall be responsible to the Trustees for the care of all property in their possession and for the general administration of the Museum.
+(1) There shall be a Director of the British Museum, who shall be a person appointed by the Trustees with the approval of the Prime Minister and shall hold office on such terms and subject to such conditions as the Secretary of State[^c-30ae044a5dd6bb73a53a225fe64842c8] may direct, and who shall be responsible to the Trustees for the care of all property in their possession and for the general administration of the Museum.
 
 (2) The Trustees may, subject to the consent of the Minister for the Civil Service[^c7113221] as to numbers and conditions of service, appoint such other officers and servants as the Trustees think fit; and there shall be paid to the Director and to officers and servants so appointed such salaries, allowances and other remuneration as the Secretary of State may determine.
 
@@ -188,7 +188,7 @@ Section 10.
 
 **2.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7113561]
 
-**3.**[^key-61c90cde39f1e253ea137d6fc22f8632] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-61c90cde39f1e253ea137d6fc22f8632] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** Nos. 38/56 inclusive (even numbers only) Orsman Road, London N.1.
 
@@ -200,11 +200,11 @@ Section 10.
 
 **8.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c7113611]
 
-**9.**[^key-1a09618aaab678d5fd40f88538c191b1] The site in Shinfield lying to the east of Cutbush Lane East, known as the British Museum Archaeological Research Collection, Cutbush Lane East, Shinfield, Reading, RG2 9AA.
+**9.**[^c-1a09618aaab678d5fd40f88538c191b1] The site in Shinfield lying to the east of Cutbush Lane East, known as the British Museum Archaeological Research Collection, Cutbush Lane East, Shinfield, Reading, RG2 9AA.
 
 ### Part II — British Museum (Natural History)
 
-**1.**[^c7113621] The site in London bounded by Queen’s Gate, Cromwell Road, Exhibition Road, and the premises of the Science Museum, but excluding the part of that site known as the “Central Boiler House” and located on the north side of the Natural History Museum“[^key-3671225d40cecab6596881cac0119429].
+**1.**[^c7113621] The site in London bounded by Queen’s Gate, Cromwell Road, Exhibition Road, and the premises of the Science Museum, but excluding the part of that site known as the “Central Boiler House” and located on the north side of the Natural History Museum“[^c-3671225d40cecab6596881cac0119429].
 
 **2.**[^M_F_0f949218-54f5-41e8-abe8-af2166ad788f] The site in Tring lying to the east of Akeman Street and to the north of Park Street occupied at the commencement of this Act for the purposes of the British Museum (Natural History), but excluding —
 
@@ -220,7 +220,7 @@ Section 10.
 - (c) the part of that site known as the “Chiller Compound Area” and located on the roof of that site;
 - (d) the site known as 249 to 251 Merton Road, London SW18 5EB.
 
-**5.**[^key-d8296dc5538844e434a0c99599de2adc] The site in Keyworth known as British Geological Survey, Environmental Science Centre, Nicker Hill, Keyworth, Nottingham NG12 5GG bounded by Platt Lane to the west and Nicker Hill to the south.
+**5.**[^c-d8296dc5538844e434a0c99599de2adc] The site in Keyworth known as British Geological Survey, Environmental Science Centre, Nicker Hill, Keyworth, Nottingham NG12 5GG bounded by Platt Lane to the west and Nicker Hill to the south.
 
 ## FOURTH SCHEDULE[^c7113651][^c7113651]
 
@@ -238,9 +238,9 @@ Section 10.
 
 [^c7113211]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/ukpga/1963/24/section/5/3) inserted (1.9.1992) by [Museums and Galleries Act 1992 (c. 44)](https://www.legislation.gov.uk/ukpga/1992/44), s, 11(2), Sch. 8 Pt. I para. 5(b); [S.I. 1992/1874](https://www.legislation.gov.uk/uksi/1992/1874), [art.2](https://www.legislation.gov.uk/uksi/1992/1874/article/2).
 
-[^key-b976864a24f2b0cc9156fd0972c90486]: Modification: S. 6 transfer of functions (7.6.2011) by [The Transfer of Functions (Museum and Other Staff) Order 2011 (S.I. 2011/1213)](https://www.legislation.gov.uk/uksi/2011/1213), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1213/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2011/1213/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/1213/article/3))
+[^c-b976864a24f2b0cc9156fd0972c90486]: Modification: S. 6 transfer of functions (7.6.2011) by [The Transfer of Functions (Museum and Other Staff) Order 2011 (S.I. 2011/1213)](https://www.legislation.gov.uk/uksi/2011/1213), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1213/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2011/1213/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/1213/article/3))
 
-[^key-30ae044a5dd6bb73a53a225fe64842c8]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/1963/24/section/6) substituted (7.6.2011) by [The Transfer of Functions (Museum and Other Staff) Order 2011 (S.I. 2011/1213)](https://www.legislation.gov.uk/uksi/2011/1213), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1213/article/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2011/1213/article/4/1/b)
+[^c-30ae044a5dd6bb73a53a225fe64842c8]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/1963/24/section/6) substituted (7.6.2011) by [The Transfer of Functions (Museum and Other Staff) Order 2011 (S.I. 2011/1213)](https://www.legislation.gov.uk/uksi/2011/1213), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1213/article/1/2), [4(1)(b)](https://www.legislation.gov.uk/uksi/2011/1213/article/4/1/b)
 
 [^c7113221]: Textual amendment: Words substituted by virtue of [S.I. 1968/1656](https://www.legislation.gov.uk/uksi/1968/1656), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1968/1656/article/2/1)(*e*), 3(2)
 
@@ -288,7 +288,7 @@ Section 10.
 
 [^c7113561]: Textual amendment: Sch. 3 Pt. I paras. 2, 7 repealed by [S.I. 1973/1126](https://www.legislation.gov.uk/uksi/1973/1126)
 
-[^key-61c90cde39f1e253ea137d6fc22f8632]: Textual amendment: Sch. 3 Pt. 1 para. 3 omitted (1.6.2021) by virtue of [The British Museum (Authorised Repositories) Order 2021 (S.I. 2021/499)](https://www.legislation.gov.uk/uksi/2021/499), [arts. 1](https://www.legislation.gov.uk/uksi/2021/499/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2021/499/article/2/a)
+[^c-61c90cde39f1e253ea137d6fc22f8632]: Textual amendment: Sch. 3 Pt. 1 para. 3 omitted (1.6.2021) by virtue of [The British Museum (Authorised Repositories) Order 2021 (S.I. 2021/499)](https://www.legislation.gov.uk/uksi/2021/499), [arts. 1](https://www.legislation.gov.uk/uksi/2021/499/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2021/499/article/2/a)
 
 [^c7113591]: Textual amendment: Sch. 3 Pt. I para. 6 added (1.6.1995) by [S.I. 1995/1224](https://www.legislation.gov.uk/uksi/1995/1224), [arts. 1](https://www.legislation.gov.uk/uksi/1995/1224/article/1), [2](https://www.legislation.gov.uk/uksi/1995/1224/article/2)
 
@@ -296,11 +296,11 @@ Section 10.
 
 [^c7113611]: Textual amendment: Sch. 3 Pt. I paras. 6, 8 fall by reason of the revocation by [S.I. 1984/1181](https://www.legislation.gov.uk/uksi/1984/1181), [art. 3 Sch.](https://www.legislation.gov.uk/uksi/1984/1181/article/3/schedule) of [S.I. 1970/1956](https://www.legislation.gov.uk/uksi/1970/1956), 1972/653 and 1979/1086 (which respectively added paras. 6 and 8 and amended para. 8)
 
-[^key-1a09618aaab678d5fd40f88538c191b1]: Textual amendment: Sch. 3 Pt. 1 para. 9 inserted (1.6.2021) by [The British Museum (Authorised Repositories) Order 2021 (S.I. 2021/499)](https://www.legislation.gov.uk/uksi/2021/499), [arts. 1](https://www.legislation.gov.uk/uksi/2021/499/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/499/article/2/b)
+[^c-1a09618aaab678d5fd40f88538c191b1]: Textual amendment: Sch. 3 Pt. 1 para. 9 inserted (1.6.2021) by [The British Museum (Authorised Repositories) Order 2021 (S.I. 2021/499)](https://www.legislation.gov.uk/uksi/2021/499), [arts. 1](https://www.legislation.gov.uk/uksi/2021/499/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/499/article/2/b)
 
 [^c7113621]: Textual amendment: Sch. 3 Pt. II para. 1 substituted by [S.I. 1985/462](https://www.legislation.gov.uk/uksi/1985/462), [art. 2](https://www.legislation.gov.uk/uksi/1985/462/article/2)
 
-[^key-3671225d40cecab6596881cac0119429]: Textual amendment: Words in Sch. THIRD Pt. II para. 1 inserted (10.7.2006) by [Natural History Museum (Authorised Repositories) Order 2006 (S.I. 2006/1547)](https://www.legislation.gov.uk/uksi/2006/1547), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1547/article/1), [2](https://www.legislation.gov.uk/uksi/2006/1547/article/2)
+[^c-3671225d40cecab6596881cac0119429]: Textual amendment: Words in Sch. THIRD Pt. II para. 1 inserted (10.7.2006) by [Natural History Museum (Authorised Repositories) Order 2006 (S.I. 2006/1547)](https://www.legislation.gov.uk/uksi/2006/1547), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1547/article/1), [2](https://www.legislation.gov.uk/uksi/2006/1547/article/2)
 
 [^M_F_0f949218-54f5-41e8-abe8-af2166ad788f]: Textual amendment: Sch. 3 Pt II para. 2 substituted (1.8.2011) by [Natural History Museum (Authorised Repositories) Order 2011 (S.I. 2011/1682)](https://www.legislation.gov.uk/uksi/2011/1682), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1682/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2011/1682/article/2/1)
 
@@ -308,6 +308,6 @@ Section 10.
 
 [^M_F_38bd82f5-70bb-42fe-80d5-d7304001b2fb]: Textual amendment: Sch. 3 Pt II para. 4 substituted (1.8.2011) by [Natural History Museum (Authorised Repositories) Order 2011 (S.I. 2011/1682)](https://www.legislation.gov.uk/uksi/2011/1682), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1682/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1682/article/2/2)
 
-[^key-d8296dc5538844e434a0c99599de2adc]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1963/24/schedule/THIRD/paragraph/5) inserted (21.2.2018) by [The Natural History Museum (Authorised Repositories) Order 2018 (S.I. 2018/94)](https://www.legislation.gov.uk/uksi/2018/94), [arts. 1](https://www.legislation.gov.uk/uksi/2018/94/article/1), [2](https://www.legislation.gov.uk/uksi/2018/94/article/2)
+[^c-d8296dc5538844e434a0c99599de2adc]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1963/24/schedule/THIRD/paragraph/5) inserted (21.2.2018) by [The Natural History Museum (Authorised Repositories) Order 2018 (S.I. 2018/94)](https://www.legislation.gov.uk/uksi/2018/94), [arts. 1](https://www.legislation.gov.uk/uksi/2018/94/article/1), [2](https://www.legislation.gov.uk/uksi/2018/94/article/2)
 
 [^c7113651]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1963/24/schedule/4) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)

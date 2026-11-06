@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248. Employer’s cost of insuring against non-payment of benefit[^key-5382208dfd21e0e0506db1676a7e0beb][^key-82faf91a8e0d278a23fafc96e1ffb2ca][^key-82faf91a8e0d278a23fafc96e1ffb2ca]
+## 248. Employer’s cost of insuring against non-payment of benefit[^c-5382208dfd21e0e0506db1676a7e0beb][^c-82faf91a8e0d278a23fafc96e1ffb2ca][^c-82faf91a8e0d278a23fafc96e1ffb2ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5382208dfd21e0e0506db1676a7e0beb]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
+[^c-5382208dfd21e0e0506db1676a7e0beb]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
 
-[^key-82faf91a8e0d278a23fafc96e1ffb2ca]: Modification: Pt. 4 Ch. 6 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/575/regulation/25)
+[^c-82faf91a8e0d278a23fafc96e1ffb2ca]: Modification: Pt. 4 Ch. 6 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/575/regulation/25)

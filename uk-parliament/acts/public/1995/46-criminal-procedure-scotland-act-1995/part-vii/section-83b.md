@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83B. Continuation of trial diet in the sheriff court[^key-cd346f8a264608c8c01bd6ec57a4990a]
+## 83B. Continuation of trial diet in the sheriff court[^c-cd346f8a264608c8c01bd6ec57a4990a]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd346f8a264608c8c01bd6ec57a4990a]: Textual amendment: S. 83B inserted (28.8.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 81(6)](https://www.legislation.gov.uk/asp/2016/1/section/81/6), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 5](https://www.legislation.gov.uk/ssi/2017/99/article/5)
+[^c-cd346f8a264608c8c01bd6ec57a4990a]: Textual amendment: S. 83B inserted (28.8.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 81(6)](https://www.legislation.gov.uk/asp/2016/1/section/81/6), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 5](https://www.legislation.gov.uk/ssi/2017/99/article/5)

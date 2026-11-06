@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Reporting of assertions: offences[^key-fa4a975e3d9eb454f01c6c905593c8ff]
+## 40. Reporting of assertions: offences[^c-fa4a975e3d9eb454f01c6c905593c8ff]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ that person as well as the body corporate is guilty of the offence and liable to
 
 ## Annotations
 
-[^key-fa4a975e3d9eb454f01c6c905593c8ff]: Commencement: S. 40 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fa4a975e3d9eb454f01c6c905593c8ff]: Commencement: S. 40 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

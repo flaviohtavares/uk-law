@@ -26,7 +26,7 @@ Regulations E10, G3 and H1(1), Schedule 4 paragraph 14 and Schedule 10 paragraph
 
 ### Part I — National Insurance Modification of pensions
 
-**1.**[^key-6c370eb9822c9622f799de8763212af4] In this Part—
+**1.**[^c-6c370eb9822c9622f799de8763212af4] In this Part—
 
 - “the Act” means the National Insurance Act (Northern Ireland) 1966[^f00056];
 - “interchange rules” means interchange rules made by the Department under previous provisions;
@@ -34,7 +34,7 @@ Regulations E10, G3 and H1(1), Schedule 4 paragraph 14 and Schedule 10 paragraph
 - “part-time teacher” means a person who has elected under regulation B1(4) that his part-time employment is to be pensionable employment;
 - “retired teacher” means a person who has ceased to be in pensionable employment and has attained state pensionable age.
 
-**2.**[^key-5fa03de9078507f0ed6b7d282136c21b] (1) A retirement pension payable in the case of a retired teacher who—
+**2.**[^c-5fa03de9078507f0ed6b7d282136c21b] (1) A retirement pension payable in the case of a retired teacher who—
 
 - (a) by virtue of the Modification Regulations or of interchange rules was subject to the modifications of the Acts of 1950 to 1967 made by those Regulations and applicable to new entrants within the meaning of those Regulations; or
 - (b) not being an existing teacher within the meaning of the Modification Regulations or a teacher in whose case by virtue of interchange rules those Regulations applied as they applied in the case of such an existing teacher, entered pensionable employment on or after the 1st April 1980,
@@ -52,7 +52,7 @@ any additional period of reckonable service taken into account under regulation 
 
 (4) Sub-paragraph (1) applies not only in the case of such a retired teacher as is there mentioned but also in the case of a retired teacher to whom paragraph 2(1) of Schedule 8 to the 1977 Regulations as originally made, did not apply if the Department is satisfied that the contributions paid by him before 1st April 1980 were modified on the assumption that the said paragraph 2(1) did apply in his case.
 
-**3.**[^key-6b8fea24c9fad11c65b5d062938e8acb] (1) This paragraph applies to a retired teacher who—
+**3.**[^c-6b8fea24c9fad11c65b5d062938e8acb] (1) This paragraph applies to a retired teacher who—
 
 - (a) by virtue of the Modification Regulations or of interchange rules, was subject to the modifications of the Act of 1950 to 1967 made by those Regulations and applicable to existing teachers within the meaning of those Regulations; or
 - (b) before 1st April 1980 paid contributions at a reduced rate by virtue of an election under paragraph 2(1)(c) of Schedule 8 to the 1977 Regulations, as originally made.
@@ -114,9 +114,9 @@ TABLE 1
 
 any additional period of reckonable service taken into account under regulation E8(2) shall be deemed for the purposes of sub-paragraph (2) to be such service as is there mentioned.
 
-**4.**[^key-84a5b0c7a278d6aaaa4b7034c2c234be] For the purposes of paragraphs 2 and 3 the reckonable service of a retired teacher is his effective reckonable service.
+**4.**[^c-84a5b0c7a278d6aaaa4b7034c2c234be] For the purposes of paragraphs 2 and 3 the reckonable service of a retired teacher is his effective reckonable service.
 
-**5.**[^key-678b8a55622ba70f7b522f1ccd3890c8] If, in calculating the amount of a retirement pension, there is taken into account any period of employment after 2nd April 1961 and before 6th April 1975 which was not non-participating employment the pension is, except as provided in paragraphs 7 and 8, reduced, for each year of such period, and proportionately for part of a year by the appropriate amount specified in the following Table 2:—
+**5.**[^c-678b8a55622ba70f7b522f1ccd3890c8] If, in calculating the amount of a retirement pension, there is taken into account any period of employment after 2nd April 1961 and before 6th April 1975 which was not non-participating employment the pension is, except as provided in paragraphs 7 and 8, reduced, for each year of such period, and proportionately for part of a year by the appropriate amount specified in the following Table 2:—
 
 TABLE 2
 
@@ -142,31 +142,31 @@ TABLE 2
 </tbody>
 </table>
 
-**6.**[^key-8a80fda1c36fe13007cdbc1486857c15] If, in calculating the amount of a retirement pension, there is taken into account any period of employment after 2nd April 1961 in respect of which a payment in lieu of contributions has been made the retirement pension shall, except as provided in paragraphs 7 and 8, be reduced—
+**6.**[^c-8a80fda1c36fe13007cdbc1486857c15] If, in calculating the amount of a retirement pension, there is taken into account any period of employment after 2nd April 1961 in respect of which a payment in lieu of contributions has been made the retirement pension shall, except as provided in paragraphs 7 and 8, be reduced—
 
 - (a) by £2·31 in the case of a man and by £1·92 in the case of a woman for each year, and proportionately for part of a year, of any period from and including 3rd April 1961 to 5th January 1964; and
 - (b) by £3·48 in the case of a man and by £2·90 in the case of a woman for each year, and proportionately for part of a year, of any period from and including 6th January 1964 to 5th April 1975.
 
-**7.**[^key-8b85f96848e5b9106a66aa4117f7d548] Where—
+**7.**[^c-8b85f96848e5b9106a66aa4117f7d548] Where—
 
 - (a) a period of employment of a retired teacher which was not non-participating employment or in respect of which a payment in lieu of contributions had been made is treated as reckonable service by virtue of interchange provisions; and
 - (b) the Department is informed of the amount by which his pension under the pension scheme applicable to him before interchange provisions applied to him would have been reduced in respect of that period by reason of graduated retirement benefit payable under the Act or of the method of calculating such reduction,
 
 the retirement pension in respect of that period shall be reduced by that amount or by an amount calculated in accordance with that method, as the case may be, and no reduction shall be made under paragraph 5 or 6 in respect of that period.
 
-**8.**[^key-af20d957e34bf558559bac7b75b79c4c] No reduction in the amount of a retirement pension shall be made under paragraph 5 or 6 in respect of any period which is reckonable service by virtue of regulation D3 or D4.
+**8.**[^c-af20d957e34bf558559bac7b75b79c4c] No reduction in the amount of a retirement pension shall be made under paragraph 5 or 6 in respect of any period which is reckonable service by virtue of regulation D3 or D4.
 
-**9.**[^key-e3edd5e567e5cd948c1a8586cb14290f] A retirement pension payable to a part-time teacher, so far as it is attributable to any part-time service which was non-participating employment within the meaning of the Act (exclusive of any period of such employment in respect of which a payment in lieu of contributions has been made), shall not be less than the amount required to constitute the benefits in respect of that service equivalent pension benefits.
+**9.**[^c-e3edd5e567e5cd948c1a8586cb14290f] A retirement pension payable to a part-time teacher, so far as it is attributable to any part-time service which was non-participating employment within the meaning of the Act (exclusive of any period of such employment in respect of which a payment in lieu of contributions has been made), shall not be less than the amount required to constitute the benefits in respect of that service equivalent pension benefits.
 
-**10.**[^key-4369330787ae9898a388e9648b5880ad] (1) An annual pension in respect of any such service as is mentioned in paragraph 9 shall be paid to a part-time teacher to whom no retirement pension is payable under regulation E4 if he is in pensionable employment on attaining state pensionable age.
+**10.**[^c-4369330787ae9898a388e9648b5880ad] (1) An annual pension in respect of any such service as is mentioned in paragraph 9 shall be paid to a part-time teacher to whom no retirement pension is payable under regulation E4 if he is in pensionable employment on attaining state pensionable age.
 
 (2) A pension under this paragraph is of the amount required to constitute the benefits in respect of the service equivalent pension benefits and is payable from the day following that on which he ceases to be in pensionable employment or in employment which would, if he had not attained the age of compulsory retirement, be pensionable employment.
 
 (3) Regulation E33(2) (application for payment) applies in relation to a pension payable under this paragraph.
 
-**11.**[^key-fa744ef37a0dada8bfcb263d9746c08e] A part-time teacher to whom paragraph 10 applies is entitled to be paid a sum equal to the balance of his contributions computed as at the date of repayment in accordance with regulation C10 reduced by half the actuarial value of the pension payable to him under paragraph 10.
+**11.**[^c-fa744ef37a0dada8bfcb263d9746c08e] A part-time teacher to whom paragraph 10 applies is entitled to be paid a sum equal to the balance of his contributions computed as at the date of repayment in accordance with regulation C10 reduced by half the actuarial value of the pension payable to him under paragraph 10.
 
-**12.**[^key-a388900845bda43ff185c56b63baf36d] (1) Any person who was employed in non-participating employment and attains state pensionable age shall be paid by way of equivalent pension benefits a sum equal to the actuarial value of a retirement pension at the following rate for each year of reckonable service—
+**12.**[^c-a388900845bda43ff185c56b63baf36d] (1) Any person who was employed in non-participating employment and attains state pensionable age shall be paid by way of equivalent pension benefits a sum equal to the actuarial value of a retirement pension at the following rate for each year of reckonable service—
 
 |  | Man | Woman |
 | --- | --- | --- |
@@ -183,15 +183,15 @@ the retirement pension in respect of that period shall be reduced by that amount
 
 ### Part II — Employment at Reduced Salary
 
-**13.**[^key-eee87e6088a0c5d2e5d02b7a50c6cd95] Subject to paragraphs 14 to 19, these Regulations apply as if the person had been one person in relation to pensionable employment (“the earlier employment”) up to the end of his employment at the previous rate and a separate person in relation to pensionable employment (“new employment”) from the start of his employment at the reduced rate, and accordingly apply separately in relation to each of those employments.
+**13.**[^c-eee87e6088a0c5d2e5d02b7a50c6cd95] Subject to paragraphs 14 to 19, these Regulations apply as if the person had been one person in relation to pensionable employment (“the earlier employment”) up to the end of his employment at the previous rate and a separate person in relation to pensionable employment (“new employment”) from the start of his employment at the reduced rate, and accordingly apply separately in relation to each of those employments.
 
-**14.**[^key-fd7518e348933093166ae51bb6fe88a5] For the purposes of regulation E3 (qualification for retirement benefits), periods counting towards a qualifying period in relation to one of the employments count also in relation to the other.
+**14.**[^c-fd7518e348933093166ae51bb6fe88a5] For the purposes of regulation E3 (qualification for retirement benefits), periods counting towards a qualifying period in relation to one of the employments count also in relation to the other.
 
-**15.**[^key-0c9a5aeda34a39adc47ce83ec4aefc59] (1) For the purposes of regulation E32(2) (limits on reckonable service for calculating benefits), periods counting as reckonable service in relation to one of the employments count also in relation to the other.
+**15.**[^c-0c9a5aeda34a39adc47ce83ec4aefc59] (1) For the purposes of regulation E32(2) (limits on reckonable service for calculating benefits), periods counting as reckonable service in relation to one of the employments count also in relation to the other.
 
 (2) Any period excluded by regulation E32(2) is excluded in relation to new employment only.
 
-**16.**[^key-ff91ab6676103f311d65cada71234df2] (1) A period for which the person has, before the first day of new employment, elected to pay additional contributions under regulation C3 does not count as reckonable service in relation to new employment but does, subject to sub-paragraph (2), count in relation to the earlier employment.
+**16.**[^c-ff91ab6676103f311d65cada71234df2] (1) A period for which the person has, before the first day of new employment, elected to pay additional contributions under regulation C3 does not count as reckonable service in relation to new employment but does, subject to sub-paragraph (2), count in relation to the earlier employment.
 
 (2) An election to pay such contributions by Method A which was made less than 12 months before the first day of new employment ceases to have effect on that day, and any contributions paid in pursuance of it shall be refunded.
 
@@ -200,7 +200,7 @@ the retirement pension in respect of that period shall be reduced by that amount
 - (a) the period to which it relates counts as reckonable service in relation to new employment but does not count in relation to the earlier employment; and
 - (b) if the contributions are to be paid by Method B paragraph 14 of Schedule 4 (calculation of lump sum where salary reduced) does not apply.
 
-**17.**[^key-919d732ef48ff040db777213e6c712bb] (1) This paragraph applies if the person becomes entitled to payment of retirement benefits by virtue of regulation E4(4) or (5) (incapacity).
+**17.**[^c-919d732ef48ff040db777213e6c712bb] (1) This paragraph applies if the person becomes entitled to payment of retirement benefits by virtue of regulation E4(4) or (5) (incapacity).
 
 (2) For the purposes of regulation E8 (enhancement) the appropriate period shall be calculated by reference to the aggregate of the period counting as reckonable service in relation to the earlier employment and the period so counting in relation to new employment, and—
 
@@ -209,7 +209,7 @@ the retirement pension in respect of that period shall be reduced by that amount
 
 is increased by the appropriate period so calculated.
 
-**18.**[^key-0e76f619f07a8f5f9d81abc690c90b92] (1) For the purpose of calculating any death grant under regulation E20 or supplementary death grant under regulation E21 that may become payable in respect of the person—
+**18.**[^c-0e76f619f07a8f5f9d81abc690c90b92] (1) For the purpose of calculating any death grant under regulation E20 or supplementary death grant under regulation E21 that may become payable in respect of the person—
 
 - (a) the average salary mentioned in regulations E20(2) and E21(2)—
   - (i) if the grant becomes payable within 3 years after the start of new employment, is his average salary in respect of the earlier employment; and
@@ -219,46 +219,46 @@ is increased by the appropriate period so calculated.
 
 (2) Only one of either kind of grant shall be paid.
 
-**19.**[^key-eefc7086b31ac25c486b087d4ce1bccb] Regulation E26(7) does not have effect so as to preclude the payment of a children’s pension in respect of each of the employments.
+**19.**[^c-eefc7086b31ac25c486b087d4ce1bccb] Regulation E26(7) does not have effect so as to preclude the payment of a children’s pension in respect of each of the employments.
 
 ## Annotations
 
-[^key-6c370eb9822c9622f799de8763212af4]: Commencement: Sch. 9 para. 1 in operation at 2.11.1998, see reg. A1
+[^c-6c370eb9822c9622f799de8763212af4]: Commencement: Sch. 9 para. 1 in operation at 2.11.1998, see reg. A1
 
 [^f00056]: Footnote: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6)
 
-[^key-5fa03de9078507f0ed6b7d282136c21b]: Commencement: Sch. 9 para. 2 in operation at 2.11.1998, see reg. A1
+[^c-5fa03de9078507f0ed6b7d282136c21b]: Commencement: Sch. 9 para. 2 in operation at 2.11.1998, see reg. A1
 
-[^key-6b8fea24c9fad11c65b5d062938e8acb]: Commencement: Sch. 9 para. 3 in operation at 2.11.1998, see reg. A1
+[^c-6b8fea24c9fad11c65b5d062938e8acb]: Commencement: Sch. 9 para. 3 in operation at 2.11.1998, see reg. A1
 
-[^key-84a5b0c7a278d6aaaa4b7034c2c234be]: Commencement: Sch. 9 para. 4 in operation at 2.11.1998, see reg. A1
+[^c-84a5b0c7a278d6aaaa4b7034c2c234be]: Commencement: Sch. 9 para. 4 in operation at 2.11.1998, see reg. A1
 
-[^key-678b8a55622ba70f7b522f1ccd3890c8]: Commencement: Sch. 9 para. 5 in operation at 2.11.1998, see reg. A1
+[^c-678b8a55622ba70f7b522f1ccd3890c8]: Commencement: Sch. 9 para. 5 in operation at 2.11.1998, see reg. A1
 
-[^key-8a80fda1c36fe13007cdbc1486857c15]: Commencement: Sch. 9 para. 6 in operation at 2.11.1998, see reg. A1
+[^c-8a80fda1c36fe13007cdbc1486857c15]: Commencement: Sch. 9 para. 6 in operation at 2.11.1998, see reg. A1
 
-[^key-8b85f96848e5b9106a66aa4117f7d548]: Commencement: Sch. 9 para. 7 in operation at 2.11.1998, see reg. A1
+[^c-8b85f96848e5b9106a66aa4117f7d548]: Commencement: Sch. 9 para. 7 in operation at 2.11.1998, see reg. A1
 
-[^key-af20d957e34bf558559bac7b75b79c4c]: Commencement: Sch. 9 para. 8 in operation at 2.11.1998, see reg. A1
+[^c-af20d957e34bf558559bac7b75b79c4c]: Commencement: Sch. 9 para. 8 in operation at 2.11.1998, see reg. A1
 
-[^key-e3edd5e567e5cd948c1a8586cb14290f]: Commencement: Sch. 9 para. 9 in operation at 2.11.1998, see reg. A1
+[^c-e3edd5e567e5cd948c1a8586cb14290f]: Commencement: Sch. 9 para. 9 in operation at 2.11.1998, see reg. A1
 
-[^key-4369330787ae9898a388e9648b5880ad]: Commencement: Sch. 9 para. 10 in operation at 2.11.1998, see reg. A1
+[^c-4369330787ae9898a388e9648b5880ad]: Commencement: Sch. 9 para. 10 in operation at 2.11.1998, see reg. A1
 
-[^key-fa744ef37a0dada8bfcb263d9746c08e]: Commencement: Sch. 9 para. 11 in operation at 2.11.1998, see reg. A1
+[^c-fa744ef37a0dada8bfcb263d9746c08e]: Commencement: Sch. 9 para. 11 in operation at 2.11.1998, see reg. A1
 
-[^key-a388900845bda43ff185c56b63baf36d]: Commencement: Sch. 9 para. 12 in operation at 2.11.1998, see reg. A1
+[^c-a388900845bda43ff185c56b63baf36d]: Commencement: Sch. 9 para. 12 in operation at 2.11.1998, see reg. A1
 
-[^key-eee87e6088a0c5d2e5d02b7a50c6cd95]: Commencement: Sch. 9 para. 13 in operation at 2.11.1998, see reg. A1
+[^c-eee87e6088a0c5d2e5d02b7a50c6cd95]: Commencement: Sch. 9 para. 13 in operation at 2.11.1998, see reg. A1
 
-[^key-fd7518e348933093166ae51bb6fe88a5]: Commencement: Sch. 9 para. 14 in operation at 2.11.1998, see reg. A1
+[^c-fd7518e348933093166ae51bb6fe88a5]: Commencement: Sch. 9 para. 14 in operation at 2.11.1998, see reg. A1
 
-[^key-0c9a5aeda34a39adc47ce83ec4aefc59]: Commencement: Sch. 9 para. 15 in operation at 2.11.1998, see reg. A1
+[^c-0c9a5aeda34a39adc47ce83ec4aefc59]: Commencement: Sch. 9 para. 15 in operation at 2.11.1998, see reg. A1
 
-[^key-ff91ab6676103f311d65cada71234df2]: Commencement: Sch. 9 para. 16 in operation at 2.11.1998, see reg. A1
+[^c-ff91ab6676103f311d65cada71234df2]: Commencement: Sch. 9 para. 16 in operation at 2.11.1998, see reg. A1
 
-[^key-919d732ef48ff040db777213e6c712bb]: Commencement: Sch. 9 para. 17 in operation at 2.11.1998, see reg. A1
+[^c-919d732ef48ff040db777213e6c712bb]: Commencement: Sch. 9 para. 17 in operation at 2.11.1998, see reg. A1
 
-[^key-0e76f619f07a8f5f9d81abc690c90b92]: Commencement: Sch. 9 para. 18 in operation at 2.11.1998, see reg. A1
+[^c-0e76f619f07a8f5f9d81abc690c90b92]: Commencement: Sch. 9 para. 18 in operation at 2.11.1998, see reg. A1
 
-[^key-eefc7086b31ac25c486b087d4ce1bccb]: Commencement: Sch. 9 para. 19 in operation at 2.11.1998, see reg. A1
+[^c-eefc7086b31ac25c486b087d4ce1bccb]: Commencement: Sch. 9 para. 19 in operation at 2.11.1998, see reg. A1

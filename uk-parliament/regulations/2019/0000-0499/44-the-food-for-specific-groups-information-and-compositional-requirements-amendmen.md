@@ -54,15 +54,15 @@ The Secretary of State has had regard to relevant advice given by the Food Stand
 
 There has been consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23513821], during the preparation and evaluation of these Regulations.
 
-## 1. Citation and commencement[^key-e653d34f90a67adf019c58b510959e81]
+## 1. Citation and commencement[^c-e653d34f90a67adf019c58b510959e81]
 
 These Regulations may be cited as the Food for Specific Groups (Information and Compositional Requirements) (Amendment) (England) Regulations 2019 and they come into force on 22nd February 2019.
 
-## 2. Interpretation[^key-b6645ab35305432c3bc5cc5edc924575]
+## 2. Interpretation[^c-b6645ab35305432c3bc5cc5edc924575]
 
 In these Regulations, “**the 2016 Regulations**” means the Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 [^c23513831].
 
-## 3. Amendment of the 2016 Regulations[^key-0e8bb66d3d2855d12893e4bab9071f8b]
+## 3. Amendment of the 2016 Regulations[^c-0e8bb66d3d2855d12893e4bab9071f8b]
 
 (1) The 2016 Regulations are amended as follows.
 
@@ -102,7 +102,7 @@ In these Regulations, “**the 2016 Regulations**” means the Food for Specific
 
 .
 
-## 4. Amendment of Schedule 1 to the 2016 Regulations[^key-691a7a28b8fed7a67f19505fa8640391]
+## 4. Amendment of Schedule 1 to the 2016 Regulations[^c-691a7a28b8fed7a67f19505fa8640391]
 
 For the table in Schedule 1 to the 2016 Regulations substitute the following:
 
@@ -126,7 +126,7 @@ For the table in Schedule 1 to the 2016 Regulations substitute the following:
 | Article 7 (nutrition and health claims) | Article 1 |
 | Article 9 (notification requirement) | Article 1 |
 
-## 5. Amendment of the Medical Food (England) Regulations 2000[^key-7af2712c845886439860a0a0f1f9773c]
+## 5. Amendment of the Medical Food (England) Regulations 2000[^c-7af2712c845886439860a0a0f1f9773c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -164,18 +164,18 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23513821]: Marginal citation: OJ No. L 31 1.2.2002, p 1, last amended by Commission Regulation (EU) No. 2017/228 (OJ No. L 35, 10.02.17, p 10).
 
-[^key-e653d34f90a67adf019c58b510959e81]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/44/regulation/1) in force at 22.2.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/44/regulation/1)
+[^c-e653d34f90a67adf019c58b510959e81]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/44/regulation/1) in force at 22.2.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/44/regulation/1)
 
-[^key-b6645ab35305432c3bc5cc5edc924575]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/44/regulation/2) in force at 22.2.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/44/regulation/1)
+[^c-b6645ab35305432c3bc5cc5edc924575]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/44/regulation/2) in force at 22.2.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/44/regulation/1)
 
 [^c23513831]: Marginal citation: [S.I. 2016/688](https://www.legislation.gov.uk/uksi/2016/688), amended by [S.I. 2017/62](https://www.legislation.gov.uk/uksi/2017/62).
 
-[^key-0e8bb66d3d2855d12893e4bab9071f8b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/44/regulation/3) in force at 22.2.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/44/regulation/1)
+[^c-0e8bb66d3d2855d12893e4bab9071f8b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/44/regulation/3) in force at 22.2.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/44/regulation/1)
 
 [^c23513841]: Marginal citation: OJ No. L 25, 2.2.2016, p.30
 
 [^c23513851]: Marginal citation: [Article 2(2)(g)](https://www.legislation.gov.uk/uksi/2019/44/article/2/2/g) of the EU Regulation states “ ‘food for special medical purposes’ means food specially processed or formulated and intended for the dietary management of patients, including infants, to be used under medical supervision; it is intended for the exclusive or partial feeding of patients with a limited, impaired or disturbed capacity to take, digest, absorb, metabolise or excrete ordinary food or certain nutrients contained therein, or metabolites, or with other medically-determined nutrient requirements, whose dietary management cannot be achieved by modification of the normal diet alone.”
 
-[^key-691a7a28b8fed7a67f19505fa8640391]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/44/regulation/4) in force at 22.2.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/44/regulation/1)
+[^c-691a7a28b8fed7a67f19505fa8640391]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/44/regulation/4) in force at 22.2.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/44/regulation/1)
 
-[^key-7af2712c845886439860a0a0f1f9773c]: Textual amendment: Reg. 5 revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2020/43/schedule/6) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/8/2))
+[^c-7af2712c845886439860a0a0f1f9773c]: Textual amendment: Reg. 5 revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2020/43/schedule/6) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/8/2))

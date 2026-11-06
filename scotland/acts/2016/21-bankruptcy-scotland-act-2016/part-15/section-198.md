@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 198. Period of moratorium[^key-2ccc8f2cdbd7231abbd0173423b87a49]
+## 198. Period of moratorium[^c-2ccc8f2cdbd7231abbd0173423b87a49]
 
 *Extent: S*
 
@@ -61,7 +61,7 @@ summary: ''
 (6) Where subsection (5) applies, the moratorium period ends on—
 
 - (a) the day on which an entry is made in the register of insolvencies recording that the trust deed granted by or on behalf of the person has been granted the status of protected trust deed,
-- (b) where such an entry is not made, the day which is 7 weeks after the day on which the moratorium would have ended but for this subsection[^key-ac2f458dcb19aff6eedb0de66a1cfb6d]), or
+- (b) where such an entry is not made, the day which is 7 weeks after the day on which the moratorium would have ended but for this subsection[^c-ac2f458dcb19aff6eedb0de66a1cfb6d]), or
 - (c) the day on which written notice is given to AiB by the person withdrawing the notice given under section 195(1).
 
 (7) This subsection applies if, on the day which is 6 months[^M_F_09526e92-b629-45ea-9139-638063d83cb6] after the day on which the moratorium began under subsection (1)(a)—
@@ -76,11 +76,11 @@ summary: ''
 - (b) in the case of a rejection of a debt payment programme, the day on which an entry is made in the DAS register recording the rejection, or
 - (c) the day on which written notice is given to AiB by the person withdrawing the notice given under section 195(1).
 
-(9)[^key-fecb2310a590276f3dc7202717854e79] The Scottish Ministers may by regulations modify this section so as to vary any of the periods specified in subsections (1)(b)(i), (3), (5), (6)(b) or (7).
+(9)[^c-fecb2310a590276f3dc7202717854e79] The Scottish Ministers may by regulations modify this section so as to vary any of the periods specified in subsections (1)(b)(i), (3), (5), (6)(b) or (7).
 
 ## Annotations
 
-[^key-2ccc8f2cdbd7231abbd0173423b87a49]: Commencement: S. 198 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-2ccc8f2cdbd7231abbd0173423b87a49]: Commencement: S. 198 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
 [^M_F_f779f08c-0ca7-431c-897c-642276721b59]: Textual amendment: Words in s. 198(1)(b)(i) substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 23(2)(a)](https://www.legislation.gov.uk/asp/2022/8/section/23/2/a), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
@@ -88,8 +88,8 @@ summary: ''
 
 [^M_F_0b1571fd-12df-40e8-fe89-1602e7e11a74]: Textual amendment: Words in s. 198(5) substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 23(2)(c)](https://www.legislation.gov.uk/asp/2022/8/section/23/2/c), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-ac2f458dcb19aff6eedb0de66a1cfb6d]: Textual amendment: Words in [s. 198(6)(b)](https://www.legislation.gov.uk/asp/2016/21/section/198/6/b) substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 23(3)](https://www.legislation.gov.uk/asp/2022/8/section/23/3), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-ac2f458dcb19aff6eedb0de66a1cfb6d]: Textual amendment: Words in [s. 198(6)(b)](https://www.legislation.gov.uk/asp/2016/21/section/198/6/b) substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 23(3)](https://www.legislation.gov.uk/asp/2022/8/section/23/3), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
 [^M_F_09526e92-b629-45ea-9139-638063d83cb6]: Textual amendment: Words in s. 198(7) substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 23(2)(d)](https://www.legislation.gov.uk/asp/2022/8/section/23/2/d), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-fecb2310a590276f3dc7202717854e79]: Textual amendment: [S. 198(9)](https://www.legislation.gov.uk/asp/2016/21/section/198/9) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 24(2)](https://www.legislation.gov.uk/asp/2022/8/section/24/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-fecb2310a590276f3dc7202717854e79]: Textual amendment: [S. 198(9)](https://www.legislation.gov.uk/asp/2016/21/section/198/9) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 24(2)](https://www.legislation.gov.uk/asp/2022/8/section/24/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

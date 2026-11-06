@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — ACQUISITION OF CERTAIN LANDS FOR ANCILLARY WORKS[^key-f621ccfc7cec3645cd0346a47faa9362]
+## SCHEDULE 2 — ACQUISITION OF CERTAIN LANDS FOR ANCILLARY WORKS[^c-f621ccfc7cec3645cd0346a47faa9362]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Articles 4 and 21
 
 ## Annotations
 
-[^key-f621ccfc7cec3645cd0346a47faa9362]: Commencement: Sch. 2 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-f621ccfc7cec3645cd0346a47faa9362]: Commencement: Sch. 2 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

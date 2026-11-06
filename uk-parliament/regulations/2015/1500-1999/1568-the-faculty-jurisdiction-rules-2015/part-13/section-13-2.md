@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 13.2. Evidence of the Church Buildings Council[^key-db9cbaaa8bd4a3e14889929c3f0d3381]
+## 13.2. Evidence of the Church Buildings Council[^c-db9cbaaa8bd4a3e14889929c3f0d3381]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db9cbaaa8bd4a3e14889929c3f0d3381]: Commencement: [Rule 13.2](https://www.legislation.gov.uk/uksi/2015/1568/article/13.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-db9cbaaa8bd4a3e14889929c3f0d3381]: Commencement: [Rule 13.2](https://www.legislation.gov.uk/uksi/2015/1568/article/13.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

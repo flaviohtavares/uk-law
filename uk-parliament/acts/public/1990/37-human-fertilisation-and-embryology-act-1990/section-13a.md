@@ -26,10 +26,10 @@ summary: ''
 
 (3) A woman shall not be provided with any non-medical fertility services involving the use of sperm other than partner-donated sperm unless the woman being provided with the services has been given a suitable opportunity to receive proper counselling about the implications of taking the proposed steps, and has been provided with such relevant information as is proper.
 
-(4)[^key-31cdd27cccf54cdfe6d3a1acd6ced9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-31cdd27cccf54cdfe6d3a1acd6ced9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c1970090]: Textual amendment: S. 13A inserted (25.5.2007 for certain purposes, otherwise 5.7.2007) by [The Human Fertilisation and Embryology (Quality and Safety) Regulations 2007 (S.I. 2007/1522)](https://www.legislation.gov.uk/uksi/2007/1522), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1522/regulation/1), [15](https://www.legislation.gov.uk/uksi/2007/1522/regulation/15)
 
-[^key-31cdd27cccf54cdfe6d3a1acd6ced9b5]: Textual amendment: S. 13A(4) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/5), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
+[^c-31cdd27cccf54cdfe6d3a1acd6ced9b5]: Textual amendment: S. 13A(4) repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/5), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11.[^key-4365d5b3aa1fdbe330275ed1a145697d]
+## 11.[^c-4365d5b3aa1fdbe330275ed1a145697d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 30 (conditionally exempt transfers), in subsection (3)(a), after “s
 
 ## Annotations
 
-[^key-4365d5b3aa1fdbe330275ed1a145697d]: Commencement: Reg. 11 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-4365d5b3aa1fdbe330275ed1a145697d]: Commencement: Reg. 11 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

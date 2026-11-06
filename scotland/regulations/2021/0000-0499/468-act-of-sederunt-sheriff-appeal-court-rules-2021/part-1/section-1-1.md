@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.1. Citation and commencement, etc.[^key-773d1977da9298a3903956ec77f313d4]
+## 1.1. Citation and commencement, etc.[^c-773d1977da9298a3903956ec77f313d4]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-773d1977da9298a3903956ec77f313d4]: Commencement: Para. 1.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-773d1977da9298a3903956ec77f313d4]: Commencement: Para. 1.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

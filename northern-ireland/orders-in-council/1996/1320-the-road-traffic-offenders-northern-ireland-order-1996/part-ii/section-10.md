@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Time within which summary proceedings for certain offences must be commenced[^c2047966][^c2048002][^c2177724][^c2177725][^c2177726][^key-08257036c8895cd7160f5ea0c76c2491]
+## 10. Time within which summary proceedings for certain offences must be commenced[^c2047966][^c2048002][^c2177724][^c2177725][^c2177726][^c-08257036c8895cd7160f5ea0c76c2491]
 
 *Extent: N.I.*
 
@@ -54,7 +54,7 @@ summary: ''
 
 [^c2177726]: Modification: [Art. 10](https://www.legislation.gov.uk/nisi/1996/1320/article/10) applied (23.4.2012) by Road Traffic (Immobilisation, Removal and Disposal of Vehicles) Regulations (Northern Ireland) 2012 (S.R. 2012/ 19), {reg. 21(b)}
 
-[^key-08257036c8895cd7160f5ea0c76c2491]: Modification: [Art. 10](https://www.legislation.gov.uk/nisi/1996/1320/article/10) applied (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 31(2)](https://www.legislation.gov.uk/nia/2011/11/section/31/2), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
+[^c-08257036c8895cd7160f5ea0c76c2491]: Modification: [Art. 10](https://www.legislation.gov.uk/nisi/1996/1320/article/10) applied (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 31(2)](https://www.legislation.gov.uk/nia/2011/11/section/31/2), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
 
 [^m00014]: Marginal citation: 1981 NI 26.
 

@@ -42,7 +42,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation[^key-f7aff60d24e6ba633728dd44c7ca6f1f]
+### 1. Citation, commencement and interpretation[^c-f7aff60d24e6ba633728dd44c7ca6f1f]
 
 (1) These Regulations may be cited as the Health and Personal Social Services (Optical Charges and Payments) Regulations (Northern Ireland) 1997 and shall come into operation on 1st April 1997.
 
@@ -101,7 +101,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Part II — Charges
 
-### 2. Charges for optical appliances supplied by an HSS trust[^key-81f1ac867c873e5d6338251ab1f9ccd2]
+### 2. Charges for optical appliances supplied by an HSS trust[^c-81f1ac867c873e5d6338251ab1f9ccd2]
 
 (1) A charge of such sum as is provided by this regulation shall be made and recovered in accordance with paragraph (2) in respect of the supply of an optical appliance by an HSS trust.
 
@@ -128,13 +128,13 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Part III — Payments Towards Cost of Sight Tests
 
-### 3. Eligibility — sight tests[^key-a7d8bc4fa535ca841b8ba191dc405c55]
+### 3. Eligibility — sight tests[^c-a7d8bc4fa535ca841b8ba191dc405c55]
 
 (1) A payment shall be made as provided for by this Part to contribute to the cost of a testing of sight which the Agency accepts as having been incurred by an eligible person.
 
 (2) An eligible person is a person whose income resources, as calculated in accordance with regulation 6 of, and Schedule 1 to, the Remission Regulations for the purposes of remission of charges under the Order, exceed his requirements as so calculated, but whose patient’s contribution does not exceed the sight test fee and whose capital resources as so calculated do not exceed the capital limit.
 
-### 4. Completion and use of voucher — sight tests[^key-b52ac21d5c35a6d57b3873be42326bd7]
+### 4. Completion and use of voucher — sight tests[^c-b52ac21d5c35a6d57b3873be42326bd7]
 
 (1) A person who wishes a payment to be made by virtue of this regulation in his case shall—
 
@@ -149,7 +149,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (4) The ophthalmic medical practitioner or optician may use the voucher as being in substitution for payment by the patient of an amount equal to its redemption value, being part of the cost incurred for the testing of sight.
 
-### 5. Payments to sight testers[^key-7bf43a4d5c2c28d0e39f90965bb4f5f9]
+### 5. Payments to sight testers[^c-7bf43a4d5c2c28d0e39f90965bb4f5f9]
 
 (1) The Agency shall, if the conditions specified in paragraph (2) are fulfilled, make a payment of the voucher’s redemption value to an ophthalmic medical practitioner or optician who has used a voucher in accordance with regulation 4(4).
 
@@ -160,7 +160,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
   - (i) made a claim for a payment on a duly completed voucher to the Agency within the period of 3 months beginning with the date of the testing of sight, and
   - (ii) informed the Agency of the amount of the patient’s contribution.
 
-### 6. Payments to patients in respect of sight tests[^key-0765ac30865c59b2afa2fd3603bfdc40]
+### 6. Payments to patients in respect of sight tests[^c-0765ac30865c59b2afa2fd3603bfdc40]
 
 (1) A payment may be made by way of refund under this regulation by the Agency to an eligible person who incurs the cost of a testing of sight by an ophthalmic medical practitioner or optician whose name is included in the ophthalmic list, without a voucher being completed in accordance with regulation 4.
 
@@ -173,7 +173,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (4) On receipt of an authorisation under paragraph (3), the Agency shall make a refund to the patient of an amount equal to the redemption value of the voucher which could have been completed under regulation 4 if the patient had satisfied the requirements of regulation 4(1).
 
-### 7. Redemption value of voucher for sight test[^key-9183d520682d68849de1792eb7f3b13d]
+### 7. Redemption value of voucher for sight test[^c-9183d520682d68849de1792eb7f3b13d]
 
 For the purposes of this Part the redemption value of a voucher is the amount, if any, by which the patient’s contribution falls short of the lesser of—
 
@@ -182,7 +182,7 @@ For the purposes of this Part the redemption value of a voucher is the amount, i
 
 ## Part IV — Payments for Cost of Supply of Optical Appliances
 
-### 8. Eligibility — supply of optical appliances[^key-7457cdcdd9538b4916fff15c4e755bbd]
+### 8. Eligibility — supply of optical appliances[^c-7457cdcdd9538b4916fff15c4e755bbd]
 
 (1) A payment shall be made as provided for by this Part to meet, or to contribute towards, the cost incurred (whether by way of charge under the Order or otherwise) for the supply of an optical appliance for which a prescription has been given in consequence of a testing of sight of an eligible person—
 
@@ -219,7 +219,7 @@ and has the meaning given to it by Article 2(2) of the Jobseekers (Northern Irel
 
 (5) For the purpose of regulation 11 and other provisions of this Part as they apply to payments where the testing of sight was by an HSS trust, a person is also an eligible person if, because of the frequency with which the condition of his eyes changes, he is considered by the HSS trust to be non-tolerant of his existing optical appliance.
 
-### 9. Issue of vouchers by ophthalmic medical practitioners or opticians[^key-8d834581055a83b60d19eed38ccd14d5]
+### 9. Issue of vouchers by ophthalmic medical practitioners or opticians[^c-8d834581055a83b60d19eed38ccd14d5]
 
 (1) An ophthalmic medical practitioner or optician who, following a testing of sight under the Ophthalmic Services Regulations, issues a prescription for an optical appliance to a patient—
 
@@ -242,7 +242,7 @@ shall, in the circumstances described in paragraph (3) but subject to paragraph 
 
 (5) Unless regulation 11 applies, not more than one voucher shall be issued to a patient in respect of any one optical appliance prescribed.
 
-### 10. Issue of vouchers by HSS trusts[^key-a6c69f4f536b48a92d024bb3a06e10ae]
+### 10. Issue of vouchers by HSS trusts[^c-a6c69f4f536b48a92d024bb3a06e10ae]
 
 (1) An HSS trust which, following a testing of sight, issues a prescription for an optical appliance to a patient—
 
@@ -257,11 +257,11 @@ shall issue to the patient a voucher relating to the optical appliance prescribe
 - (a) mark on it the letter code specified in column 2 of Schedule 1 which relates to the type of optical appliance prescribed as set out in column 1 of that Schedule;
 - (b) duly complete the relevant parts of the voucher with the name and address of the patient, the patient’s date of birth, particulars of the prescription issued to the patient, the date on which the patient’s sight was tested and the date of issue of the voucher.
 
-### 11. Issue of replacement vouchers by the Agency or an HSS trust[^key-7a0605d8d7be687ed545f64352e76d11]
+### 11. Issue of replacement vouchers by the Agency or an HSS trust[^c-7a0605d8d7be687ed545f64352e76d11]
 
 (1) Where, on an application by a patient within 6 months of a voucher having been issued to him under regulation 9(1) or 10(1), the Agency or HSS trust is satisfied, having made such enquiries as it considers relevant, that the voucher has been lost or destroyed without having been presented to a supplier of optical appliances, it may issue to the patient a replacement voucher completed in accordance with Regulations 9(2)(*a*) and (*b*) or 10(2)(*a*) and (*b*), but with the date of issue of the voucher being that on which the replacement is issued.
 
-### 12. Use of vouchers for supply of optical appliances[^key-e98ea7f5e29daacace3030ef0b4ab92d]
+### 12. Use of vouchers for supply of optical appliances[^c-e98ea7f5e29daacace3030ef0b4ab92d]
 
 (1) Subject to paragraphs (4) and (5), a patient to whom a voucher, duly completed in accordance with regulation 9, 10 or 11, has been issued may present it to a supplier who supplies or is to supply him with an optical appliance, provided that the arrangements for supply are made within 6 months of the date on which the voucher was issued.
 
@@ -279,7 +279,7 @@ shall issue to the patient a voucher relating to the optical appliance prescribe
 - (a) before presenting the voucher to the supplier, apply to the Department for a notice of entitlement; and
 - (b) on the same occasion as he presents the supplier with a voucher in accordance with paragraph (1), show a current notice of entitlement to the supplier and permit him to copy such details as may be required for the purposes of regulation 13(2)(*c*)(iii).
 
-### 13. Payments to suppliers[^key-b49d3bb7256096cb7c42ecc8a96749a0]
+### 13. Payments to suppliers[^c-b49d3bb7256096cb7c42ecc8a96749a0]
 
 (1) The Agency shall, if the conditions specified in paragraph (2) are fulfilled, make a payment of a voucher’s redemption value to a supplier who has accepted the voucher from a patient in accordance with regulation 12.
 
@@ -293,7 +293,7 @@ shall issue to the patient a voucher relating to the optical appliance prescribe
   - (iii) where the patient has shown a notice of entitlement to him, informed the Agency of the amount of the patient’s contribution, if any, and
   - (iv) where the claim relates to a voucher the value of which is increased in accordance with paragraph 1(1)(*e*) of Schedule 2, certified that the glasses supplied were small glasses.
 
-### 14. Redemption value of voucher for supply of optical appliances[^key-5de7ee05fd966a60fe4e75eae7078d7f]
+### 14. Redemption value of voucher for supply of optical appliances[^c-5de7ee05fd966a60fe4e75eae7078d7f]
 
 (1) Where an optical appliance was supplied otherwise than under the Order the redemption value of a voucher is, subject to paragraphs (3) to (5), the lesser of—
 
@@ -318,7 +318,7 @@ the redemption value shall be reduced by the amount of the excess.
 
 ## Part V — Payments for Cost of Replacement or Repair of Optical Appliances
 
-### 15. Eligibility — replacement or repair[^key-89815c9f2a46fe85642a0fcbc2cbb8df]
+### 15. Eligibility — replacement or repair[^c-89815c9f2a46fe85642a0fcbc2cbb8df]
 
 (1) A payment shall be made as provided for by this Part to meet, or contribute towards, any cost accepted by the Agency as having been incurred (whether by way of charge under the Order or otherwise) for the replacement or repair of an optical appliance for which a prescription is given in consequence of a testing of sight of—
 
@@ -327,7 +327,7 @@ the redemption value shall be reduced by the amount of the excess.
 
 (2) No payment shall be made by virtue of paragraph (1)(*a*) or (*b*) unless the Agency is satisfied, after making such enquiries as it considers relevant, that the full cost of replacement or repair cannot be met under the terms of any warranty, insurance or other arrangement made with its supplier or manufacturer.
 
-### 16. Completion of vouchers[^key-3c6f76f3c5c3c29f9a63c4520f0264b1]
+### 16. Completion of vouchers[^c-3c6f76f3c5c3c29f9a63c4520f0264b1]
 
 (1) A patient who considers that a payment may be made under this Part in his case in respect of the replacement or repair of his optical appliance may indicate to the supplier that he wishes such a payment to be made.
 
@@ -354,11 +354,11 @@ the redemption value shall be reduced by the amount of the excess.
 
 (6) In a case to which regulation 15(1)(*b*) applies, a supplier intending to use the voucher under regulation 17 shall first submit it to the Agency so that it may be satisfied as to the circumstances in which the loss or damage occurred and give its approval to the use of the voucher.
 
-### 17. Use of vouchers for replacement or repair[^key-fde41826c858dfd2bf529b7e44125a73]
+### 17. Use of vouchers for replacement or repair[^c-fde41826c858dfd2bf529b7e44125a73]
 
 The supplier may use the voucher as being in substitution for payment by the patient of an amount equal to its redemption value, being the whole or part of the cost incurred for the replacement or repair.
 
-### 18. Payment to suppliers for replacement or repair[^key-ad6facc333620c32a98b4c39933b29de]
+### 18. Payment to suppliers for replacement or repair[^c-ad6facc333620c32a98b4c39933b29de]
 
 (1) The Agency shall, if the conditions specified in paragraph (2) are fulfilled, make a payment of a voucher’s redemption value to a supplier who has used a voucher in accordance with regulation 17.
 
@@ -371,7 +371,7 @@ The supplier may use the voucher as being in substitution for payment by the pat
   - (iii) made a claim for payment on a duly completed voucher to the Agency within the period of 3 months beginning with the date of the replacement or repair of the optical appliance; and
   - (iv) where the person has shown a notice of entitlement to him, informed the Agency of the amount of the patient’s contribution, if any.
 
-### 19. Redemption value of voucher for replacement or repair[^key-09b8e0436940f1eb0ff2488817683056]
+### 19. Redemption value of voucher for replacement or repair[^c-09b8e0436940f1eb0ff2488817683056]
 
 (1) Subject to paragraph (4), the redemption value of a voucher shall, in the case of a replacement, be the lesser of—
 
@@ -389,7 +389,7 @@ The supplier may use the voucher as being in substitution for payment by the pat
 
 ## Part VI — Payments to Patients
 
-### 20. Payments to patients in respect of the supply, replacement or repair of optical appliances[^key-4850fd75d5e9bb1ed743167154177c25]
+### 20. Payments to patients in respect of the supply, replacement or repair of optical appliances[^c-4850fd75d5e9bb1ed743167154177c25]
 
 (1) A payment may be made under this regulation to a person of a description prescribed by regulation 8(2) or 15(1) who pays for the supply, repair or replacement of an optical appliance without exercising his right under regulation 9(1), 10(1) or 15(1) to a payment to meet or contribute towards the cost incurred for the supply, replacement or repair of such optical appliance.
 
@@ -408,13 +408,13 @@ The supplier may use the voucher as being in substitution for payment by the pat
 
 ## Part VII — Miscellaneous
 
-### 21. Amounts wrongly paid[^key-e18c4251b6bfd6d83058652f68cd4e53]
+### 21. Amounts wrongly paid[^c-e18c4251b6bfd6d83058652f68cd4e53]
 
 (1) Where a person who is not an eligible person declares on a voucher that he is an eligible person and in consequence the Agency makes a payment under these Regulations, the person who makes the declaration shall repay the amount of that payment to the Agency.
 
 (2) Where a supplier makes a claim for payment to the Agency, representing that the conditions specified in regulation 5(2), 13(2) or 18(2) are fulfilled, but those conditions are not fulfilled and the Agency makes a payment to the supplier under these Regulations, it may recover the amount of that payment from the supplier.
 
-### 22. Signatures and claims for payments[^key-6656781dd8a9ec3974e6e0bacf67d5b4]
+### 22. Signatures and claims for payments[^c-6656781dd8a9ec3974e6e0bacf67d5b4]
 
 (1) A signature required by these Regulations may be given, and a claim for a refund pursuant to regulation 6 or 20 may be made—
 
@@ -425,7 +425,7 @@ The supplier may use the voucher as being in substitution for payment by the pat
   - (ii) in the care of a voluntary organisation, by that voluntary organisation or a person duly authorised by it; or
   - (iii) in a training school, by the Manager of that training school.
 
-### 23. Transitional provisions[^key-862e6555b2ccca86aba6a90b8aaf96f5]
+### 23. Transitional provisions[^c-862e6555b2ccca86aba6a90b8aaf96f5]
 
 (1) Where, before 1st April 1997, a person has been issued with a voucher pursuant to regulation 9, 10, 11 or 16 of the 1989 Regulations but that voucher has not been accepted or used before that date, then such a voucher may be accepted or used in accordance with the provisions of regulation 12 or 18 of the 1989 Regulations as though they remained in operation.
 
@@ -433,7 +433,7 @@ The supplier may use the voucher as being in substitution for payment by the pat
 
 (3) Where, before 1st April 1997, a person has made an application in pursuance of the provisions of regulation 6, 10 or 14 of the 1989 Regulations and his application has not been determined before that date, his application shall be determined in accordance with the provisions of those Regulations as though they remained in operation.
 
-### 24. Revocations[^key-409e593355738c422eeefca830d9004d]
+### 24. Revocations[^c-409e593355738c422eeefca830d9004d]
 
 The Regulations specified in column (1) of Schedule 4 are hereby revoked to the extent specified in column 3 of that Schedule.
 
@@ -455,7 +455,7 @@ Assistant Secretary
 
 28th March 1997.
 
-## SCHEDULE 1 — Voucher Letter Codes and Face Values — Supply and Replacement[^key-1aa26fea959e39e65755f8b89f4e1e5b]
+## SCHEDULE 1 — Voucher Letter Codes and Face Values — Supply and Replacement[^c-1aa26fea959e39e65755f8b89f4e1e5b]
 
 Regulations 1(2), 9(2)(*a*), 10(2)(*a*), and 16(2)(*a*) and (3)(*a*)
 
@@ -482,7 +482,7 @@ Regulations 1(2), 9(2)(*a*), 10(2)(*a*), and 16(2)(*a*) and (3)(*a*)
 
 Regulation 1(2), 19(2)(*b*)
 
-**1.**[^key-dbb289a1856d915c20b132cd7355997e] (1) The amounts in column 3 of Schedule 1 and column 2 of Schedule 3 and in paragraph 2(*a*) and (*b*) shall be increased as follows:—
+**1.**[^c-dbb289a1856d915c20b132cd7355997e] (1) The amounts in column 3 of Schedule 1 and column 2 of Schedule 3 and in paragraph 2(*a*) and (*b*) shall be increased as follows:—
 
 - (a) by £5·30 in respect of each single vision lens containing a necessary prism;
 - (b) by £6·50 in respect of each other lens containing a necessary prism;
@@ -501,14 +501,14 @@ Regulation 1(2), 19(2)(*b*)
 
 (4) Where the face value of a voucher is increased in accordance with sub-paragraph (1)(*g*) of this paragraph, it may not be further increased in accordance with sub-paragraph (1)(*e*).
 
-**2.**[^key-dceaa5f82527e7b0227c2c6a09004a33] The minimum complex appliance payment is—
+**2.**[^c-dceaa5f82527e7b0227c2c6a09004a33] The minimum complex appliance payment is—
 
 - (a) for a complex appliance with single vision lenses only, £4·50;
 - (b) for any other complex appliance, £24·10;
 
 plus, in each case, the amount of any increase provided for by paragraph (1).
 
-## SCHEDULE 3 — Voucher Value — Repair[^key-223ca7cddf5e0b84f4cc3c6197aee4f6]
+## SCHEDULE 3 — Voucher Value — Repair[^c-223ca7cddf5e0b84f4cc3c6197aee4f6]
 
 Regulation 19(2) and (3)
 
@@ -528,7 +528,7 @@ Regulation 19(2) and (3)
 </tbody>
 </table>
 
-## SCHEDULE 4 — Regulations Revoked[^key-b8e4df8ae799cb106743a0e93810e836]
+## SCHEDULE 4 — Regulations Revoked[^c-b8e4df8ae799cb106743a0e93810e836]
 
 Regulation 24
 
@@ -580,7 +580,7 @@ British Standard 3521/91, referred to in regulation 1(2) of these Regulations, m
 
 [^f00001]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); Article 62(1) was amended by Article 3(1)(*a)* of the Health and Social Security (Northern Ireland) Order 1984 ([S.I. 1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158)) and Article 8(1) of the Health and Medicines (Northern Ireland) Order 1988 ([S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249)); Article 62(2) was amended by Article 3(1)(*b*) of, and paragraph 1 of Schedule 1 and Schedule 6 to [S.I. 1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158) and Part I of Schedule 5 to the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)); Article 98 was amended by Part II of Schedule 5 to [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194); Schedule 15 was amended by Article 3(2) of and paragraph 3 of Schedule 1 to, and Article 17 of and Schedule 6 to [S.I. 1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158); Article 8(4) and (5) of [S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249); Article 14(2) of the Social Security (Northern Ireland) Order 1988 ([S.I. 1988/594 (N.I. 2)](https://www.legislation.gov.uk/nisi/1988/594)) and Article 34 of and Part II of Schedule 5 to, [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)
 
-[^key-f7aff60d24e6ba633728dd44c7ca6f1f]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-f7aff60d24e6ba633728dd44c7ca6f1f]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
 [^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); the capital limit is prescribed for the purposes of income support in regulation 45 of [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459). Whilst £8,000 is applicable in most cases, there is a limit of £16,000 in certain cases prescribed in regulation 53(1B). Regulation 45 was substituted by regulation 11(1)(*a*) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93) and regulation 53(1B) was inserted by regulation 11(1)(*b*)(ii) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
 
@@ -594,19 +594,19 @@ British Standard 3521/91, referred to in regulation 1(2) of these Regulations, m
 
 [^f00007]: Footnote: [S.R. 1989 No. 348](https://www.legislation.gov.uk/nisr/1989/348)
 
-[^key-81f1ac867c873e5d6338251ab1f9ccd2]: Commencement: Reg. 2 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-81f1ac867c873e5d6338251ab1f9ccd2]: Commencement: Reg. 2 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-a7d8bc4fa535ca841b8ba191dc405c55]: Commencement: Reg. 3 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-a7d8bc4fa535ca841b8ba191dc405c55]: Commencement: Reg. 3 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-b52ac21d5c35a6d57b3873be42326bd7]: Commencement: Reg. 4 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-b52ac21d5c35a6d57b3873be42326bd7]: Commencement: Reg. 4 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-7bf43a4d5c2c28d0e39f90965bb4f5f9]: Commencement: Reg. 5 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-7bf43a4d5c2c28d0e39f90965bb4f5f9]: Commencement: Reg. 5 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-0765ac30865c59b2afa2fd3603bfdc40]: Commencement: Reg. 6 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-0765ac30865c59b2afa2fd3603bfdc40]: Commencement: Reg. 6 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-9183d520682d68849de1792eb7f3b13d]: Commencement: Reg. 7 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-9183d520682d68849de1792eb7f3b13d]: Commencement: Reg. 7 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-7457cdcdd9538b4916fff15c4e755bbd]: Commencement: Reg. 8 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-7457cdcdd9538b4916fff15c4e755bbd]: Commencement: Reg. 8 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
 [^f00008]: Footnote: *See* [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459), Regulations 14 to 16; relevant amending Regulations are [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139), [S.R. 1990 Nos. 131](https://www.legislation.gov.uk/nisr/1990/131) and [387](https://www.legislation.gov.uk/nisr/1990/387), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149) and [373](https://www.legislation.gov.uk/nisr/1993/373), and [S.R. 1996 Nos. 199](https://www.legislation.gov.uk/nisr/1996/199) and [405](https://www.legislation.gov.uk/nisr/1996/405)
 
@@ -616,48 +616,48 @@ British Standard 3521/91, referred to in regulation 1(2) of these Regulations, m
 
 [^f00011]: Footnote: *See* [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198), Regulations 76 to 78 as amended by [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
 
-[^key-8d834581055a83b60d19eed38ccd14d5]: Commencement: Reg. 9 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-8d834581055a83b60d19eed38ccd14d5]: Commencement: Reg. 9 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-a6c69f4f536b48a92d024bb3a06e10ae]: Commencement: Reg. 10 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-a6c69f4f536b48a92d024bb3a06e10ae]: Commencement: Reg. 10 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-7a0605d8d7be687ed545f64352e76d11]: Commencement: Reg. 11 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-7a0605d8d7be687ed545f64352e76d11]: Commencement: Reg. 11 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-e98ea7f5e29daacace3030ef0b4ab92d]: Commencement: Reg. 12 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-e98ea7f5e29daacace3030ef0b4ab92d]: Commencement: Reg. 12 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-b49d3bb7256096cb7c42ecc8a96749a0]: Commencement: Reg. 13 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-b49d3bb7256096cb7c42ecc8a96749a0]: Commencement: Reg. 13 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
 [^f00012]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44)
 
-[^key-5de7ee05fd966a60fe4e75eae7078d7f]: Commencement: Reg. 14 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-5de7ee05fd966a60fe4e75eae7078d7f]: Commencement: Reg. 14 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-89815c9f2a46fe85642a0fcbc2cbb8df]: Commencement: Reg. 15 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-89815c9f2a46fe85642a0fcbc2cbb8df]: Commencement: Reg. 15 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-3c6f76f3c5c3c29f9a63c4520f0264b1]: Commencement: Reg. 16 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-3c6f76f3c5c3c29f9a63c4520f0264b1]: Commencement: Reg. 16 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-fde41826c858dfd2bf529b7e44125a73]: Commencement: Reg. 17 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-fde41826c858dfd2bf529b7e44125a73]: Commencement: Reg. 17 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-ad6facc333620c32a98b4c39933b29de]: Commencement: Reg. 18 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-ad6facc333620c32a98b4c39933b29de]: Commencement: Reg. 18 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-09b8e0436940f1eb0ff2488817683056]: Commencement: Reg. 19 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-09b8e0436940f1eb0ff2488817683056]: Commencement: Reg. 19 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-4850fd75d5e9bb1ed743167154177c25]: Commencement: Reg. 20 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-4850fd75d5e9bb1ed743167154177c25]: Commencement: Reg. 20 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-e18c4251b6bfd6d83058652f68cd4e53]: Commencement: Reg. 21 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-e18c4251b6bfd6d83058652f68cd4e53]: Commencement: Reg. 21 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-6656781dd8a9ec3974e6e0bacf67d5b4]: Commencement: Reg. 22 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-6656781dd8a9ec3974e6e0bacf67d5b4]: Commencement: Reg. 22 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-862e6555b2ccca86aba6a90b8aaf96f5]: Commencement: Reg. 23 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-862e6555b2ccca86aba6a90b8aaf96f5]: Commencement: Reg. 23 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-409e593355738c422eeefca830d9004d]: Commencement: Reg. 24 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-409e593355738c422eeefca830d9004d]: Commencement: Reg. 24 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-1aa26fea959e39e65755f8b89f4e1e5b]: Commencement: Sch. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-1aa26fea959e39e65755f8b89f4e1e5b]: Commencement: Sch. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-dbb289a1856d915c20b132cd7355997e]: Commencement: Sch. 2 para. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-dbb289a1856d915c20b132cd7355997e]: Commencement: Sch. 2 para. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-dceaa5f82527e7b0227c2c6a09004a33]: Commencement: Sch. 2 para. 2 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-dceaa5f82527e7b0227c2c6a09004a33]: Commencement: Sch. 2 para. 2 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-223ca7cddf5e0b84f4cc3c6197aee4f6]: Commencement: Sch. 3 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-223ca7cddf5e0b84f4cc3c6197aee4f6]: Commencement: Sch. 3 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
 
-[^key-b8e4df8ae799cb106743a0e93810e836]: Commencement: Sch. 4 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)
+[^c-b8e4df8ae799cb106743a0e93810e836]: Commencement: Sch. 4 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/191/regulation/1/1)

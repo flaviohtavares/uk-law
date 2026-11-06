@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Enforcement undertakings[^key-d2ba18aec0b077cef9be427b5a7ef82a]
+## 27. Enforcement undertakings[^c-d2ba18aec0b077cef9be427b5a7ef82a]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2ba18aec0b077cef9be427b5a7ef82a]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2014/3/section/27) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-d2ba18aec0b077cef9be427b5a7ef82a]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2014/3/section/27) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

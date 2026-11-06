@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — Other Permitted Miscellaneous Additives[^key-547ef9527f579d4ca521726162f196a6]
+## SCHEDULE 3 — Other Permitted Miscellaneous Additives[^c-547ef9527f579d4ca521726162f196a6]
 
 *Extent: N.I.*
 
@@ -327,7 +327,7 @@ The maximum levels of use indicated refer to foods ready for consumption prepare
 
 ## Annotations
 
-[^key-547ef9527f579d4ca521726162f196a6]: Commencement: Sch. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-547ef9527f579d4ca521726162f196a6]: Commencement: Sch. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00038]: Footnote: E 338 only
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Information and advice[^key-2cbcc8eca2dfb0435e7613afc2621649]
+## 139. Information and advice[^c-2cbcc8eca2dfb0435e7613afc2621649]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cbcc8eca2dfb0435e7613afc2621649]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2023/52/section/139) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)
+[^c-2cbcc8eca2dfb0435e7613afc2621649]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2023/52/section/139) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Powers of highway authorities and bridge owners to enter into agreements.[^key-00d61f89bb216a63b7c6a10ac83e7c4b][^c19867921]
+## 94. Powers of highway authorities and bridge owners to enter into agreements.[^c-00d61f89bb216a63b7c6a10ac83e7c4b][^c19867921]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ and the owners of the bridge may enter into and carry into effect any such agree
 
 ## Annotations
 
-[^key-00d61f89bb216a63b7c6a10ac83e7c4b]: Modification: S. 94 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(u)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/u)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-00d61f89bb216a63b7c6a10ac83e7c4b]: Modification: S. 94 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(u)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/u)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
 
 [^c19867921]: Modification: Ss. 93-95 modified (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1](https://www.legislation.gov.uk/ukla/2008/1/section/1), [33](https://www.legislation.gov.uk/ukla/2008/1/section/33) (with [s. 48](https://www.legislation.gov.uk/ukla/2008/1/section/48))

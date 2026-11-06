@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Revocation of the Licensing of Animal Dealers (Young Cats and Young Dogs) (Scotland) Regulations 2009[^key-e44a7abb992fefee0d399fc391cb0ef4]
+## 29. Revocation of the Licensing of Animal Dealers (Young Cats and Young Dogs) (Scotland) Regulations 2009[^c-e44a7abb992fefee0d399fc391cb0ef4]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The Licensing of Animal Dealers (Young Cats and Young Dogs) (Scotland) Regulatio
 
 ## Annotations
 
-[^key-e44a7abb992fefee0d399fc391cb0ef4]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2021/84/regulation/29) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-e44a7abb992fefee0d399fc391cb0ef4]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2021/84/regulation/29) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
 [^f00009]: Footnote: [S.S.I. 2009/141](https://www.legislation.gov.uk/ssi/2009/141).

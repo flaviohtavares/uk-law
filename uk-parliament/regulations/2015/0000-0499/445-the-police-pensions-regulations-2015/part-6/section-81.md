@@ -33,11 +33,11 @@ summary: ''
 - (b) decide the questions referred to the selected medical practitioner under paragraph (1); and
 - (c) give the police pension authority and the member a report containing a decision on those questions.
 
-(3)[^key-8475242b66026006525891297fbe9267] That report is final, subject to—
+(3)[^c-8475242b66026006525891297fbe9267] That report is final, subject to—
 
 - (a) an appeal under Schedule 1 against the decision of the selected medical practitioner; or
 - (b) the referral under Schedule 1 of the decision of the selected medical practitioner for reconsideration.
 
 ## Annotations
 
-[^key-8475242b66026006525891297fbe9267]: Modification: [Reg. 81(3)](https://www.legislation.gov.uk/uksi/2015/445/regulation/81/3) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations 2023 (S.I. 2023/831)](https://www.legislation.gov.uk/uksi/2023/831), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/831/regulation/1/b), [51(4)](https://www.legislation.gov.uk/uksi/2023/831/regulation/51/4)
+[^c-8475242b66026006525891297fbe9267]: Modification: [Reg. 81(3)](https://www.legislation.gov.uk/uksi/2015/445/regulation/81/3) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations 2023 (S.I. 2023/831)](https://www.legislation.gov.uk/uksi/2023/831), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/831/regulation/1/b), [51(4)](https://www.legislation.gov.uk/uksi/2023/831/regulation/51/4)

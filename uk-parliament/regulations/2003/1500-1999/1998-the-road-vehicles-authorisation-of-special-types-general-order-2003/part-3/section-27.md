@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Track-laying agricultural motor vehicles: use on bridges[^key-1e1281bdb20f0ab85337b163f520f50b]
+## 27. Track-laying agricultural motor vehicles: use on bridges[^c-1e1281bdb20f0ab85337b163f520f50b]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e1281bdb20f0ab85337b163f520f50b]: Commencement: Art. 27 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-1e1281bdb20f0ab85337b163f520f50b]: Commencement: Art. 27 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

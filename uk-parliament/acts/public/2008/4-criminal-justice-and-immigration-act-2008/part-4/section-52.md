@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Bail for summary offences and certain other offences to be tried summarily[^key-633ed4f9935ba098f8a18ad2dd74309a]
+## 52. Bail for summary offences and certain other offences to be tried summarily[^c-633ed4f9935ba098f8a18ad2dd74309a]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Schedule 12—
 
 ## Annotations
 
-[^key-633ed4f9935ba098f8a18ad2dd74309a]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2008/4/section/52) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)
+[^c-633ed4f9935ba098f8a18ad2dd74309a]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2008/4/section/52) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/27)

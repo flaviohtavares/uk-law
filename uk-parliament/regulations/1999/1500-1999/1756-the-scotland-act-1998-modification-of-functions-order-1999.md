@@ -42,7 +42,7 @@ Whereas a draft of this Order has been laid before and approved by a resolution 
 
 Now, therefore, in exercise of the powers conferred upon me by sections 106, 112(1), and 113 of that Act and of all other powers enabling me in that behalf, and having consulted the Scottish Ministers in accordance with section 106(4) of that Act, I hereby make the following Order:
 
-## 1. Citation, commencement, interpretation and application[^key-988a0973737f911c8e39d49343be8d5e]
+## 1. Citation, commencement, interpretation and application[^c-988a0973737f911c8e39d49343be8d5e]
 
 (1) This Order may be cited as the Scotland Act 1998 (Modification of Functions) Order 1999 and shall come into force immediately before the principal appointed day[^f00002].
 
@@ -56,11 +56,11 @@ Now, therefore, in exercise of the powers conferred upon me by sections 106, 112
 
 (3) This Order is to be treated as a pre-commencement enactment for the purposes of the 1998 Act.
 
-## 2. Modification of functions: General[^key-5fe5898a7e26aabf0fb796a925643cea]
+## 2. Modification of functions: General[^c-5fe5898a7e26aabf0fb796a925643cea]
 
 For the purpose of enabling or otherwise facilitating the transfer of a function to the Scottish Ministers by virtue of section 53 or 63 of the 1998 Act, the enactments mentioned in the Schedule to this Order are hereby modified to the extent specified in that Schedule.
 
-## 3. Modification of Ministerial functions relating to sea fisheries, aquaculture and agriculture[^key-8e4e6ea31ff70feaabe6f58084709330]
+## 3. Modification of Ministerial functions relating to sea fisheries, aquaculture and agriculture[^c-8e4e6ea31ff70feaabe6f58084709330]
 
 So far as a function under the Sea Fisheries Acts is exercisable by a Minister of the Crown–
 
@@ -69,9 +69,9 @@ So far as a function under the Sea Fisheries Acts is exercisable by a Minister o
 
 it shall be treated as exercisable in or as regards Scotland and may be exercised separately.
 
-**4.**[^key-69311af692b29a2b35ef574a91063bda] So far as a function under any other enactment is exercisable by a Minister of the Crown in relation to aquaculture, fish health or fish disease in the Scottish zone, it shall be treated as exercisable in or as regards Scotland and may be exercised separately.
+**4.**[^c-69311af692b29a2b35ef574a91063bda] So far as a function under any other enactment is exercisable by a Minister of the Crown in relation to aquaculture, fish health or fish disease in the Scottish zone, it shall be treated as exercisable in or as regards Scotland and may be exercised separately.
 
-**5.**[^key-3223e1ea10fcacf9759614a60de6dc18] So far as a function under assimilated[^key-a85b48aaa94801f250690d026501e54f][^key-dde6d86b27e7fe721d4f42c429f15d88] law, or to which section 53(2)(a) of the 1998 Act applies, is exercisable by a Minister of the Crown–
+**5.**[^c-3223e1ea10fcacf9759614a60de6dc18] So far as a function under assimilated[^c-a85b48aaa94801f250690d026501e54f][^c-dde6d86b27e7fe721d4f42c429f15d88] law, or to which section 53(2)(a) of the 1998 Act applies, is exercisable by a Minister of the Crown–
 
 - (a) in relation to fishing or aquaculture in the Scottish zone, or
 - (b) in relation to fishing outside that zone by Scottish fishing boats,
@@ -79,26 +79,26 @@ it shall be treated as exercisable in or as regards Scotland and may be exercise
 
 it may be exercised separately.
 
-**6.**[^key-ae1d96edca3f4cefb80aeb362760d8e9] So far as a function of a Minister of the Crown to which articles 3 to 5 do not apply–
+**6.**[^c-ae1d96edca3f4cefb80aeb362760d8e9] So far as a function of a Minister of the Crown to which articles 3 to 5 do not apply–
 
 - (a) under the Sea Fisheries Acts,
 - (b) under any enactment relating to aquaculture, fish health or fish disease,
-- (c) under assimilated[^key-f23d94bb10840390c407ce0593856bef][^key-30ffaff256a70b94facdcb3c1425a087] law, or to which section 53(2)(a) of the 1998 Act applies, relating to fishing or aquaculture or fishing or aquaculture products,
+- (c) under assimilated[^c-f23d94bb10840390c407ce0593856bef][^c-30ffaff256a70b94facdcb3c1425a087] law, or to which section 53(2)(a) of the 1998 Act applies, relating to fishing or aquaculture or fishing or aquaculture products,
 
 is exercisable in or as regards Scotland it may be exercised separately.
 
 Modification of Ministerial functions relating to sea fisheries, aquaculture and agriculture
 
-**3.**[^key-8e4e6ea31ff70feaabe6f58084709330] So far as a function under the Sea Fisheries Acts is exercisable by a Minister of the Crown–
+**3.**[^c-8e4e6ea31ff70feaabe6f58084709330] So far as a function under the Sea Fisheries Acts is exercisable by a Minister of the Crown–
 
 - (a) in relation to fishing in the Scottish zone, or
 - (b) in relation to fishing outside that zone by Scottish fishing boats,
 
 it shall be treated as exercisable in or as regards Scotland and may be exercised separately.
 
-**4.**[^key-69311af692b29a2b35ef574a91063bda] So far as a function under any other enactment is exercisable by a Minister of the Crown in relation to aquaculture, fish health or fish disease in the Scottish zone, it shall be treated as exercisable in or as regards Scotland and may be exercised separately.
+**4.**[^c-69311af692b29a2b35ef574a91063bda] So far as a function under any other enactment is exercisable by a Minister of the Crown in relation to aquaculture, fish health or fish disease in the Scottish zone, it shall be treated as exercisable in or as regards Scotland and may be exercised separately.
 
-**5.**[^key-3223e1ea10fcacf9759614a60de6dc18] So far as a function under EU[^M_F_b64727a2-42f8-462e-d604-35ff05ac0572] law, or to which section 53(2)(a) of the 1998 Act applies, is exercisable by a Minister of the Crown–
+**5.**[^c-3223e1ea10fcacf9759614a60de6dc18] So far as a function under EU[^M_F_b64727a2-42f8-462e-d604-35ff05ac0572] law, or to which section 53(2)(a) of the 1998 Act applies, is exercisable by a Minister of the Crown–
 
 - (a) in relation to fishing or aquaculture in the Scottish zone, or
 - (b) in relation to fishing outside that zone by Scottish fishing boats,
@@ -106,7 +106,7 @@ it shall be treated as exercisable in or as regards Scotland and may be exercise
 
 it may be exercised separately.
 
-**6.**[^key-ae1d96edca3f4cefb80aeb362760d8e9] So far as a function of a Minister of the Crown to which articles 3 to 5 do not apply–
+**6.**[^c-ae1d96edca3f4cefb80aeb362760d8e9] So far as a function of a Minister of the Crown to which articles 3 to 5 do not apply–
 
 - (a) under the Sea Fisheries Acts,
 - (b) under any enactment relating to aquaculture, fish health or fish disease,
@@ -114,14 +114,14 @@ it may be exercised separately.
 
 is exercisable in or as regards Scotland it may be exercised separately.
 
-**7.**[^key-c251e0e061802903778d6c847b7b65f1] (1) So far as a specified function under EU law, or a function to which section 53(2)(a) of the 1998 Act applies, is exercisable by a Minister of the Crown in relation to a Scottish farmer it may be exercised separately.
+**7.**[^c-c251e0e061802903778d6c847b7b65f1] (1) So far as a specified function under EU law, or a function to which section 53(2)(a) of the 1998 Act applies, is exercisable by a Minister of the Crown in relation to a Scottish farmer it may be exercised separately.
 
 (2) In this article–
 
 - “Scottish farmer” means a farmer whose holding is situated wholly or partly in Scotland and “farmer” and “holding” shall have the same meaning as in Article 1.4 of Council Regulation 3508/92 establishing an integrated administration and control system for certain Community aid schemes; and
 - “specified function under EU law” means any function related to the implementation of any legislative instrument of the European Union adopted in pursuance of its common agricultural policy, which applies in relation to agricultural activities by reference to a holding.
 
-## 8. Savings and transitional provision[^key-e316188da8a2dfb00b1822b28090be10]
+## 8. Savings and transitional provision[^c-e316188da8a2dfb00b1822b28090be10]
 
 (1) The modification by this Order of any function exercisable by a Minister of the Crown shall not affect the validity of anything done (or having effect as if done) by or in relation to a Minister of the Crown before the coming into force of this Order.
 
@@ -145,23 +145,23 @@ Article 2
 
 ### Pipe-lines Act [1962 (c. 58)](https://www.legislation.gov.uk/ukpga/1962/58)
 
-**1.**[^key-92ec30e8ea0e7df2a50ee978b02504a6] The Secretary of State’s functions under sections 1, 4, 5, 9, 9A, 10, 11, 12, 13 (except subsection (7)), 15, 26A, 35, 36, 38, 39(2), 43 and 44 of, and Schedules 1 and 2 to, the Pipe-lines Act 1962[^f00010] so far as relating to pipe-lines which begin and end in Scotland shall be treated as exercisable in or as regards Scotland and may be exercised separately.
+**1.**[^c-92ec30e8ea0e7df2a50ee978b02504a6] The Secretary of State’s functions under sections 1, 4, 5, 9, 9A, 10, 11, 12, 13 (except subsection (7)), 15, 26A, 35, 36, 38, 39(2), 43 and 44 of, and Schedules 1 and 2 to, the Pipe-lines Act 1962[^f00010] so far as relating to pipe-lines which begin and end in Scotland shall be treated as exercisable in or as regards Scotland and may be exercised separately.
 
 ### Nuclear Installations Act [1965 (c. 46)](https://www.legislation.gov.uk/ukpga/1965/46)
 
-**2.**[^key-1553df0d5fe4eb2493318dfe246251eb] In section 23(2)(b) of the Nuclear Installations Act 1965 (registration in connection with certain occurrences), after “concerned” there is inserted “or where any part of the Scottish Administration is concerned the Minister”.
+**2.**[^c-1553df0d5fe4eb2493318dfe246251eb] In section 23(2)(b) of the Nuclear Installations Act 1965 (registration in connection with certain occurrences), after “concerned” there is inserted “or where any part of the Scottish Administration is concerned the Minister”.
 
 ### [Forestry Act 196 7 (c. 10)](https://www.legislation.gov.uk/ukpga/1967/10)
 
-**3.**[^key-61950be19df39e444ea0a1ce51320b5a] In section 8A[^f00011] of the Forestry Act 1967 (general duty of Ministers), for “of Great Britain” there is substituted “of England and Wales and the Scottish Ministers shall have regard to the national interest in maintaining and expanding the forestry resources of Scotland”.
+**3.**[^c-61950be19df39e444ea0a1ce51320b5a] In section 8A[^f00011] of the Forestry Act 1967 (general duty of Ministers), for “of Great Britain” there is substituted “of England and Wales and the Scottish Ministers shall have regard to the national interest in maintaining and expanding the forestry resources of Scotland”.
 
 ### Chronically Sick and Disabled Persons Act [1970 (c. 44)](https://www.legislation.gov.uk/ukpga/1970/44)
 
-**4.**[^key-aed09b56ba20aafc0516b5ae8185f8c0] The functions of the Ministers of the Crown under section 21(7) of the Chronically Sick and Disabled Persons Act 1970 (badges for display on motor vehicles used by disabled persons) shall be treated as exercisable in or as regards Scotland and may be exercised separately.
+**4.**[^c-aed09b56ba20aafc0516b5ae8185f8c0] The functions of the Ministers of the Crown under section 21(7) of the Chronically Sick and Disabled Persons Act 1970 (badges for display on motor vehicles used by disabled persons) shall be treated as exercisable in or as regards Scotland and may be exercised separately.
 
 ### Sex Discrimination Act [1975 (c. 65)](https://www.legislation.gov.uk/ukpga/1975/65)
 
-**5.**[^key-1c0e5bdfdaf12bad52590ffccfb4c3e0] In section 53 of the Sex Discrimination Act 1975 (Equal Opportunities Commission), after subsection (1) there is inserted–
+**5.**[^c-1c0e5bdfdaf12bad52590ffccfb4c3e0] In section 53 of the Sex Discrimination Act 1975 (Equal Opportunities Commission), after subsection (1) there is inserted–
 
 > (1A) One of the Commissioners shall be a person who appears to the Secretary of State to have special knowledge of Scotland.
 
@@ -169,7 +169,7 @@ Article 2
 
 ### Race Relations Act 1976 (e. 74)
 
-**6.**[^key-14ec441e400f57b8c39c359928864159] In section 43 of the Race Relations Act 1976 (Commission for Racial Equality), after subsection (1) there is inserted–
+**6.**[^c-14ec441e400f57b8c39c359928864159] In section 43 of the Race Relations Act 1976 (Commission for Racial Equality), after subsection (1) there is inserted–
 
 > (1A) One of the Commissioners shall be a person who appears to the Secretary of State to have special knowledge of Scotland.
 
@@ -177,7 +177,7 @@ Article 2
 
 ### National Heritage Act [1980 (c. 17)](https://www.legislation.gov.uk/ukpga/1980/17)
 
-**7.**[^key-6a7ec6dca2da8c525a034fe2cf2e8b80] (1) In section 9 of the National Heritage Act 1980 (disposal of property accepted by Commissioners), at the end there is inserted–
+**7.**[^c-6a7ec6dca2da8c525a034fe2cf2e8b80] (1) In section 9 of the National Heritage Act 1980 (disposal of property accepted by Commissioners), at the end there is inserted–
 
 > (8) The functions of the Ministers under this section in relation to the disposal or transfer of property in which there is a Scottish interest may be exercised separately.
 >
@@ -204,7 +204,7 @@ Article 2
 
 ### Inheritance Tax Act [1984 (c. 51)](https://www.legislation.gov.uk/ukpga/1984/51)
 
-**8.**[^key-6907ffb9629232c0c2bf2d3275aaf7ac] In section 230 of the Inheritance Tax Act 1984 (acceptance of property in satisfaction of tax), at the end there is inserted–
+**8.**[^c-6907ffb9629232c0c2bf2d3275aaf7ac] In section 230 of the Inheritance Tax Act 1984 (acceptance of property in satisfaction of tax), at the end there is inserted–
 
 > (6) The functions of the Ministers under this section in relation to the acceptance, in satisfaction of tax, of property in which there is a Scottish interest may be exercised separately.
 >
@@ -217,7 +217,7 @@ Article 2
 
 ### Business Names.4ct [1985 (c. 7)](https://www.legislation.gov.uk/ukpga/1985/7)
 
-**9.**[^key-6788faf229aad109fd2c992805093834] The function of the Secretary of State under section 2 of the Business Names Act 1985 (prohibition of use of certain business names) so far as relating to an individual to whom that Act applies who–
+**9.**[^c-6788faf229aad109fd2c992805093834] The function of the Secretary of State under section 2 of the Business Names Act 1985 (prohibition of use of certain business names) so far as relating to an individual to whom that Act applies who–
 
 - (a) has a place of business in Scotland; and
 - (b) carries on business in Scotland under a name to which either paragraphs (a) or (b) of subsection (1) of that section applies,
@@ -226,7 +226,7 @@ shall be treated as exercisable in or as regards Scotland and may be exercised s
 
 ### Food and Environment Protection Act [1985 (c. 48)](https://www.legislation.gov.uk/ukpga/1985/48)
 
-**10.**[^key-b4079b3736250be6287274e2017c7e91] (1) The Food and Environment Protection Act 1985[^f00013] is amended as follows.
+**10.**[^c-b4079b3736250be6287274e2017c7e91] (1) The Food and Environment Protection Act 1985[^f00013] is amended as follows.
 
 (2) In section 1(2) for the definition of “designating authority” there is substituted–
 
@@ -289,11 +289,11 @@ shall be treated as exercisable in or as regards Scotland and may be exercised s
 
 ### Scotch Whisky Act [1988 (c. 22)](https://www.legislation.gov.uk/ukpga/1988/22)
 
-**11.**[^key-9e8d805abc189e9ef73a801982bf411e] The functions of the Ministers under sections 2 and 3 of the Scotch Whisky Act 1988 shall be treated as exercisable in or as regards Scotland and may be exercised separately.
+**11.**[^c-9e8d805abc189e9ef73a801982bf411e] The functions of the Ministers under sections 2 and 3 of the Scotch Whisky Act 1988 shall be treated as exercisable in or as regards Scotland and may be exercised separately.
 
 ### Broadcasting Act [1990 (c. 42)](https://www.legislation.gov.uk/ukpga/1990/42)
 
-**12.**[^key-dbce6fb5769917ae35930d0b485dd23e] (1) The functions of the Secretary of State under paragraph 15(1) of Schedule 1, paragraph 15(1) of Schedule 8 and paragraph 12(3) of Schedule 19 to the Broadcasting Act 1990(annual reports of certain broadcasting bodies) shall be treated as exercisable in or as regards Scotland and may be exercised separately.
+**12.**[^c-dbce6fb5769917ae35930d0b485dd23e] (1) The functions of the Secretary of State under paragraph 15(1) of Schedule 1, paragraph 15(1) of Schedule 8 and paragraph 12(3) of Schedule 19 to the Broadcasting Act 1990(annual reports of certain broadcasting bodies) shall be treated as exercisable in or as regards Scotland and may be exercised separately.
 
 (2) In Schedule 8 to that Act (Radio Authority: supplementary provisions) in paragraph 2 (appointment of members) after sub-paragraph (1) there is inserted–
 
@@ -303,7 +303,7 @@ shall be treated as exercisable in or as regards Scotland and may be exercised s
 
 ### Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13)
 
-**13.**[^key-5a9f399c4d991188d4ae60a4f5d0c3e1] In section 82 of the Further and Higher Education Act 1992 (joint exercise of functions) after sub-section (2) there is inserted–
+**13.**[^c-5a9f399c4d991188d4ae60a4f5d0c3e1] In section 82 of the Further and Higher Education Act 1992 (joint exercise of functions) after sub-section (2) there is inserted–
 
 > (2A) The power of the Secretary of State to give directions under subsection (2) above shall, as regards the Scottish Higher Education Funding Council, be treated as exercisable in or as regards Scotland and may be exercised separately.
 
@@ -311,7 +311,7 @@ shall be treated as exercisable in or as regards Scotland and may be exercised s
 
 ### [Museums and Galleries Act 7992 (c. 44)](https://www.legislation.gov.uk/ukpga/1992/44)
 
-**14.**[^key-38e0d32089d04eee83cd62ec01ce9d80] In section 6 of the Museums and Galleries Act 1992 (transfers of objects between institutions), at the end add–
+**14.**[^c-38e0d32089d04eee83cd62ec01ce9d80] In section 6 of the Museums and Galleries Act 1992 (transfers of objects between institutions), at the end add–
 
 > (8) The power of the Secretary of State to make an order under subsection (6) may, for the purpose of this section’s application to transfers of objects by bodies in Scotland, be exercised separately.
 
@@ -319,7 +319,7 @@ shall be treated as exercisable in or as regards Scotland and may be exercised s
 
 ### National Lottery etc. Act [1993 (c. 39)](https://www.legislation.gov.uk/ukpga/1993/39)
 
-**15.**[^key-9c75681814873d815fd206aab7775548] (1) The functions of the Secretary of State under section 14 of the National Lottery etc. Act 1993 (annual report of National Lottery Commission) shall be treated as exercisable in or as regards Scotland and may be exercised separately.
+**15.**[^c-9c75681814873d815fd206aab7775548] (1) The functions of the Secretary of State under section 14 of the National Lottery etc. Act 1993 (annual report of National Lottery Commission) shall be treated as exercisable in or as regards Scotland and may be exercised separately.
 
 (2) After section 25C[^f00016] of that Act there is inserted–
 
@@ -469,15 +469,15 @@ shall be treated as exercisable in or as regards Scotland and may be exercised s
 
 ### Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33)
 
-**16.**[^key-025af78d57e5b9b4600301bcdc5ca8d9] The functions of the Secretary of State under section 128 of the Criminal Justice and Public Order Act 1994 (pay and related conditions of the prison service) so far as relating to the part of the prison service in Scotland comprising all the individuals who are prison officers within the meaning of section 127(4)(b) of that Act shall be treated as exercisable in or as regards Scotland and may be exercised separately.
+**16.**[^c-025af78d57e5b9b4600301bcdc5ca8d9] The functions of the Secretary of State under section 128 of the Criminal Justice and Public Order Act 1994 (pay and related conditions of the prison service) so far as relating to the part of the prison service in Scotland comprising all the individuals who are prison officers within the meaning of section 127(4)(b) of that Act shall be treated as exercisable in or as regards Scotland and may be exercised separately.
 
 ### Merchant Shipping Act [1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21)
 
-**17.**[^key-50660a9a6605e6be5ec670128ff01f74] The function of the Secretary of State under section 10(2)(f) of the Merchant Shipping Act 1995[^f00027] (registration regulations) so far as exercisable in relation to Scottish fishing boats, is to be treated as exercisable in or as regards Scotland and may be exercised separately.
+**17.**[^c-50660a9a6605e6be5ec670128ff01f74] The function of the Secretary of State under section 10(2)(f) of the Merchant Shipping Act 1995[^f00027] (registration regulations) so far as exercisable in relation to Scottish fishing boats, is to be treated as exercisable in or as regards Scotland and may be exercised separately.
 
 ### Disability Discrimination Act [1995 (c. 50)](https://www.legislation.gov.uk/ukpga/1995/50)
 
-**18.**[^key-9716a0601774db0f1e239fd1f4b998d6] In paragraph 3 of Schedule 5 to the Disability Discrimination Act 1995 (the National Disability Council), after subparagraph (3) there is inserted–
+**18.**[^c-9716a0601774db0f1e239fd1f4b998d6] In paragraph 3 of Schedule 5 to the Disability Discrimination Act 1995 (the National Disability Council), after subparagraph (3) there is inserted–
 
 > (3A) One of the members shall be a person who appears to the Secretary of State to have special knowledge of Scotland.
 
@@ -485,7 +485,7 @@ shall be treated as exercisable in or as regards Scotland and may be exercised s
 
 ### Broadcasting Act [1996 (c. 55)](https://www.legislation.gov.uk/ukpga/1996/55)
 
-**19.**[^key-969462442974403f2f2cb4f53aa8c304] (1) The functions of the Secretary of State under section 125(1) of the Broadcasting Act 1996 (annual reports of Broadcasting Standards Commission) shall be treated as exercisable in or as regards Scotland and may be exercised separately.
+**19.**[^c-969462442974403f2f2cb4f53aa8c304] (1) The functions of the Secretary of State under section 125(1) of the Broadcasting Act 1996 (annual reports of Broadcasting Standards Commission) shall be treated as exercisable in or as regards Scotland and may be exercised separately.
 
 (2) In paragraph 3 of Schedule 3 to that Act (Broadcasting Standards Commission: supplementary provisions), after sub-paragraph (1) there is inserted–
 
@@ -495,11 +495,11 @@ shall be treated as exercisable in or as regards Scotland and may be exercised s
 
 ### Electricity and Pipe-line Works (Assessment of Environmental Effects) Regulations 1990 ([S.I. 1990/442](https://www.legislation.gov.uk/uksi/1990/442))
 
-**20.**[^key-bd5d396e65d6a2923fe7ff23b2f14921] The functions of the Secretary of State under the Electricity and Pipe-line Works (Assessment of Environmental Effects) Regulations 1990[^f00028] so far as relating to pipe-lines which begin and end in Scotland shall be treated as exercisable in or as regards Scotland and may be exercised separately.
+**20.**[^c-bd5d396e65d6a2923fe7ff23b2f14921] The functions of the Secretary of State under the Electricity and Pipe-line Works (Assessment of Environmental Effects) Regulations 1990[^f00028] so far as relating to pipe-lines which begin and end in Scotland shall be treated as exercisable in or as regards Scotland and may be exercised separately.
 
 ### Novel Foods and Novel Food Ingredients Regulations 1997 ([S.I. 1997/1335](https://www.legislation.gov.uk/uksi/1997/1335))
 
-**21.**[^key-dda3c8a47d77b4fc97b73e0b4f86c1f3] For regulation 3 of the Novel Foods and Novel Food Ingredients Regulations 1997 there shall be substituted–
+**21.**[^c-dda3c8a47d77b4fc97b73e0b4f86c1f3] For regulation 3 of the Novel Foods and Novel Food Ingredients Regulations 1997 there shall be substituted–
 
 > **3.** (1) Any request made pursuant to Article 4.1 of Regulation 258/97–
 >
@@ -512,7 +512,7 @@ shall be treated as exercisable in or as regards Scotland and may be exercised s
 
 ### Novel Foods and Novel Food Ingredients (Fees) Regulations 1997 ([S.I. 1997/1336](https://www.legislation.gov.uk/uksi/1997/1336))
 
-**22.**[^key-7948cd93840cc8fc0f9bf71298249196] Regulation 3 of the Novel Foods and Novel Food Ingredients (Fees) Regulations 1997 shall be renumbered “3(1)” and shall be modified as follows–
+**22.**[^c-7948cd93840cc8fc0f9bf71298249196] Regulation 3 of the Novel Foods and Novel Food Ingredients (Fees) Regulations 1997 shall be renumbered “3(1)” and shall be modified as follows–
 
 - (a) after “submits” (where it first appears), insert “to the Secretary of State for Scotland or”;
 - (b) in place of “pay to the Minister,” there is substituted “pay to the Secretary of State for Scotland or, as the case may be, the Minister”; and
@@ -534,37 +534,37 @@ Article 2 of, and the Schedule to, the Order make general provision about a numb
 
 [^f00001]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-988a0973737f911c8e39d49343be8d5e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1999/1756/article/1) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-988a0973737f911c8e39d49343be8d5e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1999/1756/article/1) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
 [^f00002]: Footnote: The principal appointed day is 1st July 1999 by virtue of the Scotland Act 1998 (Commencement) Order 1998 ([S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178)).
 
 [^f00003]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-5fe5898a7e26aabf0fb796a925643cea]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1999/1756/article/2) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-5fe5898a7e26aabf0fb796a925643cea]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1999/1756/article/2) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-8e4e6ea31ff70feaabe6f58084709330]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1999/1756/article/3) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-8e4e6ea31ff70feaabe6f58084709330]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1999/1756/article/3) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-69311af692b29a2b35ef574a91063bda]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1999/1756/article/4) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-69311af692b29a2b35ef574a91063bda]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1999/1756/article/4) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-3223e1ea10fcacf9759614a60de6dc18]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1999/1756/article/5) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-3223e1ea10fcacf9759614a60de6dc18]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1999/1756/article/5) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-a85b48aaa94801f250690d026501e54f]: Textual amendment: Word in [art. 5](https://www.legislation.gov.uk/uksi/1999/1756/article/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/1/paragraph/2/a)
+[^c-a85b48aaa94801f250690d026501e54f]: Textual amendment: Word in [art. 5](https://www.legislation.gov.uk/uksi/1999/1756/article/5) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/1/paragraph/2/a)
 
-[^key-dde6d86b27e7fe721d4f42c429f15d88]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/1999/1756/article/5) substituted (31.12.2020) by [The Fisheries, Aquaculture and Marine (Functions Exercisable in or as Regards Scotland) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1272)](https://www.legislation.gov.uk/uksi/2019/1272), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dde6d86b27e7fe721d4f42c429f15d88]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/1999/1756/article/5) substituted (31.12.2020) by [The Fisheries, Aquaculture and Marine (Functions Exercisable in or as Regards Scotland) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1272)](https://www.legislation.gov.uk/uksi/2019/1272), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ae1d96edca3f4cefb80aeb362760d8e9]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1999/1756/article/6) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-ae1d96edca3f4cefb80aeb362760d8e9]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/1999/1756/article/6) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-f23d94bb10840390c407ce0593856bef]: Textual amendment: Word in [art. 6](https://www.legislation.gov.uk/uksi/1999/1756/article/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/1/paragraph/2/b)
+[^c-f23d94bb10840390c407ce0593856bef]: Textual amendment: Word in [art. 6](https://www.legislation.gov.uk/uksi/1999/1756/article/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/1/paragraph/2/b)
 
-[^key-30ffaff256a70b94facdcb3c1425a087]: Textual amendment: Words in [art. 6(c)](https://www.legislation.gov.uk/uksi/1999/1756/article/6/c) substituted (31.12.2020) by [The Fisheries, Aquaculture and Marine (Functions Exercisable in or as Regards Scotland) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1272)](https://www.legislation.gov.uk/uksi/2019/1272), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30ffaff256a70b94facdcb3c1425a087]: Textual amendment: Words in [art. 6(c)](https://www.legislation.gov.uk/uksi/1999/1756/article/6/c) substituted (31.12.2020) by [The Fisheries, Aquaculture and Marine (Functions Exercisable in or as Regards Scotland) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1272)](https://www.legislation.gov.uk/uksi/2019/1272), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2019/1272/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_b64727a2-42f8-462e-d604-35ff05ac0572]: Textual amendment: Words in Order substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
 [^f00004]: Footnote: See Article 2 of Council Regulation [(EEC) No. 105/76](https://www.legislation.gov.uk/european/regulation/1976/0105) O.J. No. L120 28.1.76, p.39, amended by Commission Regulation [(EEC) No. 3940/87](https://www.legislation.gov.uk/european/regulation/1987/3940) 0.J. L373, 31.12.87, p.6; Commission Regulation [(EEC) No. 3527/92](https://www.legislation.gov.uk/european/regulation/1992/3527) O.J. No.L358, 8,12.92, p.5; Commission Regulation [(EC) No. 2939/94](https://www.legislation.gov.uk/european/regulation/1994/2939) O.J. No. L310, 3.12.94, p.12 and Commission Regulation [(EC) No. 1762/96](https://www.legislation.gov.uk/european/regulation/1996/1762) O.J. No. L231, 12.9.96, p.6.
 
-[^key-c251e0e061802903778d6c847b7b65f1]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1999/1756/article/7) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-c251e0e061802903778d6c847b7b65f1]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1999/1756/article/7) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-e316188da8a2dfb00b1822b28090be10]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1999/1756/article/8) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-e316188da8a2dfb00b1822b28090be10]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/1999/1756/article/8) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
 [^f00005]: Footnote: [1975 c. 65](https://www.legislation.gov.uk/ukpga/1975/65); section 53(1A) is inserted by paragraph 5 of the Schedule to this Order.
 
@@ -576,31 +576,31 @@ Article 2 of, and the Schedule to, the Order make general provision about a numb
 
 [^f00009]: Footnote: [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55); paragraph 3(1A) is inserted by paragraph 19(2) of the Schedule to this Order.
 
-[^key-92ec30e8ea0e7df2a50ee978b02504a6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/1) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-92ec30e8ea0e7df2a50ee978b02504a6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/1) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
 [^f00010]: Footnote: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58); section 26A was inserted by the Petroleum Act [1987 (c. 12)](https://www.legislation.gov.uk/ukpga/1987/12), section 26(1); section 9A was inserted, and sections 1, 4, 5, 9, 10, 12, 35, 36 and 43 and Schedule 1 amended, by [S.I. 1999/742](https://www.legislation.gov.uk/uksi/1999/742); the functions of the Minister of Power under the Act were transferred to the Minister of Technology by [S.I. 1969/1498](https://www.legislation.gov.uk/uksi/1969/1498) and to the Secretary of State by [S.I. 1970/1537](https://www.legislation.gov.uk/uksi/1970/1537).
 
-[^key-1553df0d5fe4eb2493318dfe246251eb]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/2) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-1553df0d5fe4eb2493318dfe246251eb]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/2) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-61950be19df39e444ea0a1ce51320b5a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/3) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-61950be19df39e444ea0a1ce51320b5a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/3) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
 [^f00011]: Footnote: Section 8A was inserted by the Forestry Act [1981 (c. 37)](https://www.legislation.gov.uk/ukpga/1981/37), section 4.
 
-[^key-aed09b56ba20aafc0516b5ae8185f8c0]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/4) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-aed09b56ba20aafc0516b5ae8185f8c0]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/4) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-1c0e5bdfdaf12bad52590ffccfb4c3e0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/5) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-1c0e5bdfdaf12bad52590ffccfb4c3e0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/5) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-14ec441e400f57b8c39c359928864159]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/6) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-14ec441e400f57b8c39c359928864159]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/6) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-6a7ec6dca2da8c525a034fe2cf2e8b80]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/7) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-6a7ec6dca2da8c525a034fe2cf2e8b80]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/7) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
 [^f00012]: Footnote: Section 16A was inserted by the Museums and Galleries Act [1992 (c. 44)](https://www.legislation.gov.uk/ukpga/1992/44), section 10(2). The Secretary of State is the sole remaining Minister for the purposes of this section by virtue of [S.I. 1992/1311](https://www.legislation.gov.uk/uksi/1992/1311).
 
-[^key-6907ffb9629232c0c2bf2d3275aaf7ac]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/8) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-6907ffb9629232c0c2bf2d3275aaf7ac]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/8) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-6788faf229aad109fd2c992805093834]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/9) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-6788faf229aad109fd2c992805093834]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/9) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-b4079b3736250be6287274e2017c7e91]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/10) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-b4079b3736250be6287274e2017c7e91]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/10) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
 [^f00013]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48). The Act was amended by the Environment Protection Act [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43), the Merchant Shipping Act [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21) and the Petroleum Act [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
 
@@ -608,15 +608,15 @@ Article 2 of, and the Schedule to, the Order make general provision about a numb
 
 [^f00015]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-9e8d805abc189e9ef73a801982bf411e]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/11) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-9e8d805abc189e9ef73a801982bf411e]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/11) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-dbce6fb5769917ae35930d0b485dd23e]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/12) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-dbce6fb5769917ae35930d0b485dd23e]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/12) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-5a9f399c4d991188d4ae60a4f5d0c3e1]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/13) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-5a9f399c4d991188d4ae60a4f5d0c3e1]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/13) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-38e0d32089d04eee83cd62ec01ce9d80]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/14) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-38e0d32089d04eee83cd62ec01ce9d80]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/14) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-9c75681814873d815fd206aab7775548]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/15) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-9c75681814873d815fd206aab7775548]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/15) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
 [^f00016]: Footnote: Section 25C was inserted by the National Lottery Act [1998 (c. 22)](https://www.legislation.gov.uk/ukpga/1998/22) (“the 1999 Act”), section 13.
 
@@ -640,20 +640,20 @@ Article 2 of, and the Schedule to, the Order make general provision about a numb
 
 [^f00026]: Footnote: Schedule 3A was inserted by the 1998 Act, section 12 and Schedule 3.
 
-[^key-025af78d57e5b9b4600301bcdc5ca8d9]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/16) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-025af78d57e5b9b4600301bcdc5ca8d9]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/16) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-50660a9a6605e6be5ec670128ff01f74]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/17) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-50660a9a6605e6be5ec670128ff01f74]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/17) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
 [^f00027]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-9716a0601774db0f1e239fd1f4b998d6]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/18) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-9716a0601774db0f1e239fd1f4b998d6]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/18) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-969462442974403f2f2cb4f53aa8c304]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/19) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-969462442974403f2f2cb4f53aa8c304]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/19) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-bd5d396e65d6a2923fe7ff23b2f14921]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/20) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-bd5d396e65d6a2923fe7ff23b2f14921]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/20) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
 [^f00028]: Footnote: [S.I. 1990/442](https://www.legislation.gov.uk/uksi/1990/442), amended by [S.I. 1996/422](https://www.legislation.gov.uk/uksi/1996/422), [1997/629](https://www.legislation.gov.uk/uksi/1997/629).
 
-[^key-dda3c8a47d77b4fc97b73e0b4f86c1f3]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/21) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-dda3c8a47d77b4fc97b73e0b4f86c1f3]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/21) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
 
-[^key-7948cd93840cc8fc0f9bf71298249196]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/22) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)
+[^c-7948cd93840cc8fc0f9bf71298249196]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/1999/1756/schedule/paragraph/22) in force at 1.7.1999 in accordance with, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/1756/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Application of regulation 33[^key-7b72f1892d3c7de16aa4f5fe81175b8a]
+## 34. Application of regulation 33[^c-7b72f1892d3c7de16aa4f5fe81175b8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 33 applies to a person who—
 
 ## Annotations
 
-[^key-7b72f1892d3c7de16aa4f5fe81175b8a]: Commencement: Reg. 34 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-7b72f1892d3c7de16aa4f5fe81175b8a]: Commencement: Reg. 34 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)

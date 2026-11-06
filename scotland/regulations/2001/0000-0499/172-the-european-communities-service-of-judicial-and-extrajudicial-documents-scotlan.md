@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Service of Judicial and Extrajudicial Documents) (Scotland) Regulations 2001 (revoked)[^key-f40ba225603c12bb00afda346b03f53d]
+The European Communities (Service of Judicial and Extrajudicial Documents) (Scotland) Regulations 2001 (revoked)[^c-f40ba225603c12bb00afda346b03f53d]
 
 Made
 
@@ -45,30 +45,30 @@ Coming into force
 
 31st May 2001
 
-[^key-f40ba225603c12bb00afda346b03f53d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f40ba225603c12bb00afda346b03f53d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-f40ba225603c12bb00afda346b03f53d]
+## 1. Citation, commencement and extent[^c-f40ba225603c12bb00afda346b03f53d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f40ba225603c12bb00afda346b03f53d]
+## 2. Interpretation[^c-f40ba225603c12bb00afda346b03f53d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of transmitting agencies and receiving agencies[^key-f40ba225603c12bb00afda346b03f53d]
+## 3. Designation of transmitting agencies and receiving agencies[^c-f40ba225603c12bb00afda346b03f53d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation of central body[^key-f40ba225603c12bb00afda346b03f53d]
+## 4. Designation of central body[^c-f40ba225603c12bb00afda346b03f53d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40ba225603c12bb00afda346b03f53d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f40ba225603c12bb00afda346b03f53d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40ba225603c12bb00afda346b03f53d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f40ba225603c12bb00afda346b03f53d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f40ba225603c12bb00afda346b03f53d]: Textual amendment: Regulations revoked (31.12.2020) by [The Service of Documents and Taking of Evidence in Civil and Commercial Matters (Revocation and Saving Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1257)](https://www.legislation.gov.uk/uksi/2018/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1257/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/1257/regulation/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2018/1257/regulation/8) (as substituted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/2/3))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f40ba225603c12bb00afda346b03f53d]: Textual amendment: Regulations revoked (31.12.2020) by [The Service of Documents and Taking of Evidence in Civil and Commercial Matters (Revocation and Saving Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1257)](https://www.legislation.gov.uk/uksi/2018/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1257/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/1257/regulation/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2018/1257/regulation/8) (as substituted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/2/3))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

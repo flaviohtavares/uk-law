@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Calculation of council tax requirement by the Greater London Authority[^key-bf579f0ad8fd8704ed20309b82f128d9]
+## 76. Calculation of council tax requirement by the Greater London Authority[^c-bf579f0ad8fd8704ed20309b82f128d9]
 
 *Extent: E+W*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf579f0ad8fd8704ed20309b82f128d9]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2011/20/section/76) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/3))
+[^c-bf579f0ad8fd8704ed20309b82f128d9]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2011/20/section/76) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/3))

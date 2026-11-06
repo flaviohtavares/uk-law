@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Reconsideration of rejection of response[^key-5c00c17a82fed68422b66264363a5bb0]
+## 20. Reconsideration of rejection of response[^c-5c00c17a82fed68422b66264363a5bb0]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c00c17a82fed68422b66264363a5bb0]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2024/1155/rule/20) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-5c00c17a82fed68422b66264363a5bb0]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2024/1155/rule/20) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

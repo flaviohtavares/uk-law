@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100A. Exemption for certain EEA UCITS[^key-dfacaafdf199100a80101d6a9e363404]
+## 100A. Exemption for certain EEA UCITS[^c-dfacaafdf199100a80101d6a9e363404]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfacaafdf199100a80101d6a9e363404]: Textual amendment: [S. 100A](https://www.legislation.gov.uk/ukpga/1992/12/section/100A) omitted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/46)
+[^c-dfacaafdf199100a80101d6a9e363404]: Textual amendment: [S. 100A](https://www.legislation.gov.uk/ukpga/1992/12/section/100A) omitted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/46)

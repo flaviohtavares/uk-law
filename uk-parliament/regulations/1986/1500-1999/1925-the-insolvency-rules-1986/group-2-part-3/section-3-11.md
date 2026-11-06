@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.11. Voting rights[^key-e41f89e8d63d71705c16ed7840411655]
+## 3.11. Voting rights[^c-e41f89e8d63d71705c16ed7840411655]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e41f89e8d63d71705c16ed7840411655]: Commencement: [Rule 3.11](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.11) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e41f89e8d63d71705c16ed7840411655]: Commencement: [Rule 3.11](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.11) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

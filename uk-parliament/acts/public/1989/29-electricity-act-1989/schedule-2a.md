@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Property Schemes[^key-4d4ca9a128600704afb12a3a15e55c23]
+## SCHEDULE 2A — Property Schemes[^c-4d4ca9a128600704afb12a3a15e55c23]
 
 *Extent: E+W+S+N.I.*
 
 SECTION 6E
 
-### Scheme-making power[^key-a593947eb5f1c2607a7154eaf2e5bdd9]
+### Scheme-making power[^c-a593947eb5f1c2607a7154eaf2e5bdd9]
 
 **1.** (1) This paragraph applies where a tender exercise is held in relation to a relevant electricity project, a relevant licence or a relevant contract.
 
@@ -55,7 +55,7 @@ the scheme may contain provision for apportionment or division so that one part 
 
 (4) A property scheme which contains provision which affects a third party may also contain provision requiring the successful bidder or the asset owner to pay the third party compensation.
 
-(5)[^key-6171eae71e15880bafa839df61ad2fb9] A property scheme may not contain provision for the transfer of, or creation of rights in relation to, property, rights or liabilities that the Authority considers it appropriate for the successful bidder to acquire by other means.
+(5)[^c-6171eae71e15880bafa839df61ad2fb9] A property scheme may not contain provision for the transfer of, or creation of rights in relation to, property, rights or liabilities that the Authority considers it appropriate for the successful bidder to acquire by other means.
 
 ### Applications for schemes
 
@@ -82,7 +82,7 @@ the scheme may contain provision for apportionment or division so that one part 
 - (a) a notice identifying the preferred bidder has been published under paragraph 35(2) (and not withdrawn), or
 - (b) a notice has been published under paragraph 36 identifying the successful bidder.
 
-**5.**[^key-cbe9eb63c3758ff5beb6ab46f48857ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cbe9eb63c3758ff5beb6ab46f48857ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Notifying the non-applicant party
 
@@ -214,7 +214,7 @@ the scheme may contain provision for apportionment or division so that one part 
 
 ### The Authority's functions in relation to applications
 
-**12.** (1) On an application for the making of a property scheme, the Authority must determine whether the proposed provision in relation to any property, right or liability specified in the application in accordance with paragraph 3(2)(a) is necessary or expedient for construction, commissioning or operational purposes[^key-7243c37f29394b93b7cbdf1de6287cac].
+**12.** (1) On an application for the making of a property scheme, the Authority must determine whether the proposed provision in relation to any property, right or liability specified in the application in accordance with paragraph 3(2)(a) is necessary or expedient for construction, commissioning or operational purposes[^c-7243c37f29394b93b7cbdf1de6287cac].
 
 (2) Sub-paragraph (1) does not apply, in relation to any property, right or liability specified in the application, if the successful bidder and the asset owner agree that the proposed provision, in relation to that property, right or liability, is necessary or expedient for construction, commissioning or operational purposes.
 
@@ -257,11 +257,11 @@ the scheme may contain provision for apportionment or division so that one part 
 - (a) in the case of a person whose name and address were provided to the Authority in response to a notice within sub-paragraph (4)(b), 21 days, and
 - (b) in any other case, 14 days.
 
-(10) Having considered any representations made in accordance with sub-paragraph (4)(a) or (7)(d), the Authority must determine whether the proposed alternative provision is necessary or expedient for construction, commissioning or operational purposes[^key-0c50d503bcb615394b0c0a5c981160ba].
+(10) Having considered any representations made in accordance with sub-paragraph (4)(a) or (7)(d), the Authority must determine whether the proposed alternative provision is necessary or expedient for construction, commissioning or operational purposes[^c-0c50d503bcb615394b0c0a5c981160ba].
 
 (11) If—
 
-- (a) the Authority determines under sub-paragraph (1) that the proposed provision, in relation to any property, right or liability specified in the application, is necessary or expedient for construction, commissioning or operational purposes[^key-7a63672461cb855d1932697721a3cb06],
+- (a) the Authority determines under sub-paragraph (1) that the proposed provision, in relation to any property, right or liability specified in the application, is necessary or expedient for construction, commissioning or operational purposes[^c-7a63672461cb855d1932697721a3cb06],
 - (b) the successful bidder and the asset owner agree that that is the case, or
 - (c) the Authority determines under sub-paragraph (10) that the proposed alternative provision, in relation to any property, right or liability, is necessary or expedient for construction, commissioning or operational purposes,
 
@@ -269,7 +269,7 @@ the Authority must, subject to paragraphs 13 and 14(4), make a property scheme i
 
 (12) In this paragraph “**the proposed provision**”, in relation to any property, right or liability, means the provision of a kind mentioned in paragraph 1(2) which the application proposes is made in relation to that property, right or liability (having regard to any modification under paragraph 9 or restriction under paragraph 11).
 
-**13.**[^key-be7e5c4f607dc76c073623caa920ec62] On an application for a property scheme, no scheme may be made until either a relevant licence has been granted or a relevant contract has been awarded to the successful bidder.
+**13.**[^c-be7e5c4f607dc76c073623caa920ec62] On an application for a property scheme, no scheme may be made until either a relevant licence has been granted or a relevant contract has been awarded to the successful bidder.
 
 ### Terms of a property scheme
 
@@ -286,14 +286,14 @@ This is subject to sub-paragraphs (2) to (9).
 
 and, if so, what that provision should be.
 
-(4) The Authority may not include in a property scheme provision which would adversely affect a third party unless it determines that it is necessary or expedient for construction, commissioning or operational purposes[^key-8c61a28a2b06ae487b3ada9bb457ec5d] for the provision to be made.
+(4) The Authority may not include in a property scheme provision which would adversely affect a third party unless it determines that it is necessary or expedient for construction, commissioning or operational purposes[^c-8c61a28a2b06ae487b3ada9bb457ec5d] for the provision to be made.
 
 (5) Where the Authority includes in a property scheme provision which would adversely affect a third party, the Authority must determine whether the scheme should include provision for compensation and, if so, what that provision should be.
 
 (6) The Authority may include in a property scheme provision for payments to be made by the successful bidder or the asset owner (or both) in respect of costs incurred in connection with the scheme (including the application for the scheme) by—
 
 - (a) the Authority,
-- (aa)[^key-96ef0fe6cf09412c1c3bd973b8474b8a] a delivery body,
+- (aa)[^c-96ef0fe6cf09412c1c3bd973b8474b8a] a delivery body,
 - (ab) a contract counterparty,
 - (b) the successful bidder,
 - (c) the asset owner, or
@@ -310,7 +310,7 @@ and, if so, what that provision should be.
 
 **15.** (1) A determination under paragraph 14, so far as relating to any financial matter, must be made on the basis of what is just in all the circumstances of the case.
 
-(2) A determination under paragraph 14, so far as relating to any other matter, must be made on the basis of what appears to the Authority to be appropriate in all the circumstances of the case having regard, in particular, to what is necessary or expedient for construction, commissioning or operational purposes[^key-38b74a3f4f999ad9ad73b2db0e70a3eb].
+(2) A determination under paragraph 14, so far as relating to any other matter, must be made on the basis of what appears to the Authority to be appropriate in all the circumstances of the case having regard, in particular, to what is necessary or expedient for construction, commissioning or operational purposes[^c-38b74a3f4f999ad9ad73b2db0e70a3eb].
 
 ### Additional powers of the Authority
 
@@ -319,7 +319,7 @@ and, if so, what that provision should be.
 - (a) the preferred bidder in relation to a tender exercise;
 - (b) the successful bidder in relation to a tender exercise;
 - (c) the asset owner in relation to a property scheme or an application for such a scheme;
-- (d)[^key-4365b4565577c8707bd08991a4d74859] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-4365b4565577c8707bd08991a4d74859] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) any third party who is or may be affected by a provision of a property scheme or a proposed property scheme.
 
 (2) If the Authority considers that any other person may be able to provide it with information in respect of any provision of a property scheme or proposed property scheme, it may, by notice, require the person to provide it with such information.
@@ -432,7 +432,7 @@ the amount may be recovered by that person.
 - (b) the Authority has made a property scheme in relation to the property, rights or liabilities concerned, and
 - (c) the scheme has not come into operation.
 
-(2) Where the Tribunal's determination is that provision of a kind mentioned in paragraph 1(2) is not, in relation to the property, rights or liabilities concerned, necessary or expedient for construction, commissioning or operational purposes[^key-943481faa90e08658ba46f8a9451f96c], it may include in the order provision quashing the scheme.
+(2) Where the Tribunal's determination is that provision of a kind mentioned in paragraph 1(2) is not, in relation to the property, rights or liabilities concerned, necessary or expedient for construction, commissioning or operational purposes[^c-943481faa90e08658ba46f8a9451f96c], it may include in the order provision quashing the scheme.
 
 (3) In any other case, the Tribunal may include in the order—
 
@@ -500,7 +500,7 @@ make such interim arrangements as it thinks fit with respect to the property, ri
 - (a) to make provision postponing or suspending the operation of any provision of the scheme for such period, and on such terms, as the Tribunal thinks fit;
 - (b) to make provision for the successful bidder, or an applicant within sub-paragraph (2)(c), to have access to, or otherwise to enjoy the benefit of, any of the property or rights concerned for such period and on such terms as the Tribunal thinks fit.
 
-**30.** In exercising its powers under paragraph 28 or 29, the Competition Appeal Tribunal must have regard, in particular, to what is necessary or expedient for construction, commissioning or operational purposes[^key-9bc3834920ecc37b809f4835ffe4772a].
+**30.** In exercising its powers under paragraph 28 or 29, the Competition Appeal Tribunal must have regard, in particular, to what is necessary or expedient for construction, commissioning or operational purposes[^c-9bc3834920ecc37b809f4835ffe4772a].
 
 **31.** Paragraphs 28 or 29 are without prejudice to any powers of the Competition Appeal Tribunal to make orders on an interim basis under rules under section 15 of the Enterprise Act 2002 (c. 40).
 
@@ -536,32 +536,32 @@ make such interim arrangements as it thinks fit with respect to the property, ri
 
 **35.** (1) The preferred bidder, in relation to a tender exercise, is the person whose name and address is specified in a notice which has been published under sub-paragraph (2) (and has not been withdrawn under sub-paragraph (4)).
 
-(2) Where a tender exercise is held, as soon as the Authority is satisfied that it will grant a relevant licence[^key-464afe2a8a61205db66a3b29b81a3de7] to a particular person if certain matters are resolved to the Authority's satisfaction, it must publish a notice to that effect.
+(2) Where a tender exercise is held, as soon as the Authority is satisfied that it will grant a relevant licence[^c-464afe2a8a61205db66a3b29b81a3de7] to a particular person if certain matters are resolved to the Authority's satisfaction, it must publish a notice to that effect.
 
-(2A)[^key-4bf6f070a2c484adaa540759a4731544] Where a tender exercise is held, as soon as a contract counterparty is satisfied that it will enter into a relevant contract with a particular person if certain matters are resolved to the counterparty’s satisfaction, it must publish a notice to that effect.
+(2A)[^c-4bf6f070a2c484adaa540759a4731544] Where a tender exercise is held, as soon as a contract counterparty is satisfied that it will enter into a relevant contract with a particular person if certain matters are resolved to the counterparty’s satisfaction, it must publish a notice to that effect.
 
-(3) A notice under sub-paragraph (2) or (2A)[^key-b70f96de1667eb41a4989fde2227531f] must—
+(3) A notice under sub-paragraph (2) or (2A)[^c-b70f96de1667eb41a4989fde2227531f] must—
 
 - (a) specify the name and address of the person, and
 - (b) describe, in general terms, those matters.
 
 (4) The Authority may withdraw a notice under sub-paragraph (2) by publishing a notice to that effect.
 
-(4A)[^key-b11d357f33f2f5977a7aa060f4566b33] A contract counterparty may withdraw a notice given by it under sub-paragraph (2A) by publishing a notice to that effect.
+(4A)[^c-b11d357f33f2f5977a7aa060f4566b33] A contract counterparty may withdraw a notice given by it under sub-paragraph (2A) by publishing a notice to that effect.
 
-(5) A notice published under sub-paragraph (2) or (2A)[^key-d17a94f03ec536994217d20b40f6b64c] must be withdrawn before a subsequent notice may be published under that sub-paragraph in relation to the same tender exercise.
+(5) A notice published under sub-paragraph (2) or (2A)[^c-d17a94f03ec536994217d20b40f6b64c] must be withdrawn before a subsequent notice may be published under that sub-paragraph in relation to the same tender exercise.
 
 ### The successful bidder
 
-**36.** (1)[^key-35f0fa908eae5f8b8100441ebc006293] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.** (1)[^c-35f0fa908eae5f8b8100441ebc006293] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-db86bd14eaeef5526fc414af79c30026] Where as a result of a tender exercise the Authority determines to grant a relevant licence to a person, it must publish a notice to that effect.
+(2)[^c-db86bd14eaeef5526fc414af79c30026] Where as a result of a tender exercise the Authority determines to grant a relevant licence to a person, it must publish a notice to that effect.
 
 (2A) Where as a result of a tender exercise a person is awarded a relevant contract, the contract counterparty with which the contract is to be entered into must publish a notice to that effect.
 
 (3) The notice must specify the name and address of the successful bidder.
 
-### Transmission owner and distribution network owner of last resort[^key-ec148288a1271807309112c10f2bd32f]
+### Transmission owner and distribution network owner of last resort[^c-ec148288a1271807309112c10f2bd32f]
 
 **36A.** (1) Before directing the holder of a transmission licence to act as a transmission owner of last resort pursuant to the conditions of the licence, the Authority may publish a notice—
 
@@ -630,78 +630,78 @@ make such interim arrangements as it thinks fit with respect to the property, ri
 - “the asset owner”—
   - (a) in relation to an application for a property scheme, means the owner of the property, rights and liabilities in relation to which provision of a kind mentioned in paragraph 1(2) is proposed to be included in the scheme;
   - (b) in relation to a property scheme, means the owner of the property, rights and liabilities in relation to which provision of such a kind is included in the scheme;
-- “[^key-945d841fb4d51a4407634ac81eecace1]**construction, commissioning or operational purposes**” means the purposes of performing any functions which the successful bidder has, or may in future have under or by virtue of—
+- “[^c-945d841fb4d51a4407634ac81eecace1]**construction, commissioning or operational purposes**” means the purposes of performing any functions which the successful bidder has, or may in future have under or by virtue of—
   - (a) a relevant licence which has been, or is to be, granted as a result of the tender exercise,
   - (b) a relevant contract which has been, or is to be, awarded as a result of the tender exercise, or
   - (c) any enactment, in the successful bidder’s capacity as holder of the relevant licence or party to the relevant contract;
-- [^key-8ce78bf0ce3c67faf4b99ae36dae72eb]...
+- [^c-8ce78bf0ce3c67faf4b99ae36dae72eb]...
 - “**functions**” includes powers and duties;
 - “**modification notice**” is to be construed in accordance with paragraph 9;
 - “**non-applicant party**” means—
   - (a) in the case of an application made by the preferred bidder or the successful bidder, the asset owner, and
   - (b) in the case of an application made by the asset owner, the successful bidder or, if a notice has not yet been published under paragraph 36, the preferred bidder;
-- [^key-bb56e0bb70a08a93724ac7ab1c1cfcb1]...
+- [^c-bb56e0bb70a08a93724ac7ab1c1cfcb1]...
 - “**preferred bidder**”, in relation to a tender exercise, is to be construed in accordance with paragraph 35;
 - “**property scheme**” is to be construed in accordance with paragraph 1;
-- [^key-8ce78bf0ce3c67faf4b99ae36dae72eb]...
-- “[^key-ea9e88f5dc088fb1fa922f616bb491eb]**successful bidder**”, in relation to a tender exercise, has the meaning given by section 6CD(6);
-- “[^key-84b51a021e8c675b0ed15f2bdec37c76]**tender exercise**” has the meaning given by section 6CD(3);
+- [^c-8ce78bf0ce3c67faf4b99ae36dae72eb]...
+- “[^c-ea9e88f5dc088fb1fa922f616bb491eb]**successful bidder**”, in relation to a tender exercise, has the meaning given by section 6CD(6);
+- “[^c-84b51a021e8c675b0ed15f2bdec37c76]**tender exercise**” has the meaning given by section 6CD(3);
 - “**third party**”, in relation to a property scheme or proposed property scheme in connection with a tender exercise, means a person other than the preferred bidder, the successful bidder, or the asset owner.
 
 (2) For the purposes of this Schedule, a provision of a property scheme affects a third party if that party's consent or concurrence would be required to the making of the provision otherwise than by means of the scheme.
 
 ## Annotations
 
-[^key-4d4ca9a128600704afb12a3a15e55c23]: Textual amendment: Sch. 2A inserted (20.5.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2008/32/section/44/4), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/32/schedule/2); [S.I. 2009/1270](https://www.legislation.gov.uk/uksi/2009/1270), [art. 2](https://www.legislation.gov.uk/uksi/2009/1270/article/2)
+[^c-4d4ca9a128600704afb12a3a15e55c23]: Textual amendment: Sch. 2A inserted (20.5.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2008/32/section/44/4), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/32/schedule/2); [S.I. 2009/1270](https://www.legislation.gov.uk/uksi/2009/1270), [art. 2](https://www.legislation.gov.uk/uksi/2009/1270/article/2)
 
-[^key-a593947eb5f1c2607a7154eaf2e5bdd9]: Textual amendment: [Sch. 2A para. 1 and cross-heading](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/crossheading/schememaking-power) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/11)
+[^c-a593947eb5f1c2607a7154eaf2e5bdd9]: Textual amendment: [Sch. 2A para. 1 and cross-heading](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/crossheading/schememaking-power) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/11)
 
-[^key-6171eae71e15880bafa839df61ad2fb9]: Textual amendment: [Sch. 2A para. 2(5)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/2/5) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/12)
+[^c-6171eae71e15880bafa839df61ad2fb9]: Textual amendment: [Sch. 2A para. 2(5)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/2/5) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/12)
 
-[^key-cbe9eb63c3758ff5beb6ab46f48857ee]: Textual amendment: [Sch. 2A para. 5](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/5) omitted (26.10.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/13)
+[^c-cbe9eb63c3758ff5beb6ab46f48857ee]: Textual amendment: [Sch. 2A para. 5](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/5) omitted (26.10.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/13)
 
-[^key-7243c37f29394b93b7cbdf1de6287cac]: Textual amendment: Words in [Sch. 2A para. 12(1)-(3)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/12/1) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 14(a)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/14/a)
+[^c-7243c37f29394b93b7cbdf1de6287cac]: Textual amendment: Words in [Sch. 2A para. 12(1)-(3)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/12/1) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 14(a)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/14/a)
 
-[^key-0c50d503bcb615394b0c0a5c981160ba]: Textual amendment: Words in [Sch. 2A para. 12(10)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/12/10) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 14(b)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/14/b)
+[^c-0c50d503bcb615394b0c0a5c981160ba]: Textual amendment: Words in [Sch. 2A para. 12(10)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/12/10) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 14(b)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/14/b)
 
-[^key-7a63672461cb855d1932697721a3cb06]: Textual amendment: Words in [Sch. 2A para. 12(11)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/12/11) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 14(c)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/14/c)
+[^c-7a63672461cb855d1932697721a3cb06]: Textual amendment: Words in [Sch. 2A para. 12(11)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/12/11) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 14(c)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/14/c)
 
-[^key-be7e5c4f607dc76c073623caa920ec62]: Textual amendment: [Sch. 2A para. 13](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/13) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/15)
+[^c-be7e5c4f607dc76c073623caa920ec62]: Textual amendment: [Sch. 2A para. 13](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/13) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/15)
 
-[^key-8c61a28a2b06ae487b3ada9bb457ec5d]: Textual amendment: Words in [Sch. 2A para. 14(4)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/14/4) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 16(a)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/16/a)
+[^c-8c61a28a2b06ae487b3ada9bb457ec5d]: Textual amendment: Words in [Sch. 2A para. 14(4)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/14/4) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 16(a)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/16/a)
 
-[^key-96ef0fe6cf09412c1c3bd973b8474b8a]: Textual amendment: [Sch. 2A para. 14(6)(aa)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/14/6/aa)[(ab)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/14/6/ab) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 16(b)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/16/b)
+[^c-96ef0fe6cf09412c1c3bd973b8474b8a]: Textual amendment: [Sch. 2A para. 14(6)(aa)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/14/6/aa)[(ab)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/14/6/ab) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 16(b)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/16/b)
 
-[^key-38b74a3f4f999ad9ad73b2db0e70a3eb]: Textual amendment: Words in [Sch. 2A para. 15(2)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/15/2) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 17](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/17)
+[^c-38b74a3f4f999ad9ad73b2db0e70a3eb]: Textual amendment: Words in [Sch. 2A para. 15(2)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/15/2) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 17](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/17)
 
-[^key-4365b4565577c8707bd08991a4d74859]: Textual amendment: [Sch. 2A para. 16(1)(d)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/16/1/d) omitted (26.10.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 18](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/18)
+[^c-4365b4565577c8707bd08991a4d74859]: Textual amendment: [Sch. 2A para. 16(1)(d)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/16/1/d) omitted (26.10.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 18](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/18)
 
-[^key-943481faa90e08658ba46f8a9451f96c]: Textual amendment: Words in [Sch. 2A para. 25(2)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/25/2) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 19](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/19)
+[^c-943481faa90e08658ba46f8a9451f96c]: Textual amendment: Words in [Sch. 2A para. 25(2)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/25/2) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 19](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/19)
 
-[^key-9bc3834920ecc37b809f4835ffe4772a]: Textual amendment: Words in [Sch. 2A para. 30](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/30) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 20](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/20)
+[^c-9bc3834920ecc37b809f4835ffe4772a]: Textual amendment: Words in [Sch. 2A para. 30](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/30) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 20](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/20)
 
-[^key-464afe2a8a61205db66a3b29b81a3de7]: Textual amendment: Words in [Sch. 2A para. 35(2)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/35/2) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 21(2)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/21/2)
+[^c-464afe2a8a61205db66a3b29b81a3de7]: Textual amendment: Words in [Sch. 2A para. 35(2)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/35/2) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 21(2)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/21/2)
 
-[^key-4bf6f070a2c484adaa540759a4731544]: Textual amendment: [Sch. 2A para. 35(2A)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/35/2A) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 21(3)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/21/3)
+[^c-4bf6f070a2c484adaa540759a4731544]: Textual amendment: [Sch. 2A para. 35(2A)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/35/2A) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 21(3)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/21/3)
 
-[^key-b70f96de1667eb41a4989fde2227531f]: Textual amendment: Words in [Sch. 2A para. 35(3)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/35/3) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 21(4)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/21/4)
+[^c-b70f96de1667eb41a4989fde2227531f]: Textual amendment: Words in [Sch. 2A para. 35(3)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/35/3) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 21(4)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/21/4)
 
-[^key-b11d357f33f2f5977a7aa060f4566b33]: Textual amendment: [Sch. 2A para. 35(4A)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/35/4A) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 21(5)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/21/5)
+[^c-b11d357f33f2f5977a7aa060f4566b33]: Textual amendment: [Sch. 2A para. 35(4A)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/35/4A) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 21(5)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/21/5)
 
-[^key-d17a94f03ec536994217d20b40f6b64c]: Textual amendment: Words in [Sch. 2A para. 35(5)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/35/5) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 21(6)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/21/6)
+[^c-d17a94f03ec536994217d20b40f6b64c]: Textual amendment: Words in [Sch. 2A para. 35(5)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/35/5) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 21(6)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/21/6)
 
-[^key-35f0fa908eae5f8b8100441ebc006293]: Textual amendment: [Sch. 2A para. 36(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/36/1) omitted (26.10.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 22(a)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/22/a)
+[^c-35f0fa908eae5f8b8100441ebc006293]: Textual amendment: [Sch. 2A para. 36(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/36/1) omitted (26.10.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 22(a)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/22/a)
 
-[^key-db86bd14eaeef5526fc414af79c30026]: Textual amendment: [Sch. 2A para. 36(2)(2A)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/36/2/2A) substituted for Sch. 2A para. 36(2) (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 22(b)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/22/b)
+[^c-db86bd14eaeef5526fc414af79c30026]: Textual amendment: [Sch. 2A para. 36(2)(2A)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/36/2/2A) substituted for Sch. 2A para. 36(2) (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 22(b)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/22/b)
 
-[^key-ec148288a1271807309112c10f2bd32f]: Textual amendment: [Sch. 2A paras. 36A](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/36A), [36B](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/36B) and cross-heading inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 23](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/23)
+[^c-ec148288a1271807309112c10f2bd32f]: Textual amendment: [Sch. 2A paras. 36A](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/36A), [36B](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/36B) and cross-heading inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 23](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/23)
 
-[^key-945d841fb4d51a4407634ac81eecace1]: Textual amendment: Words in [Sch. 2A para. 38(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/38/1) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 24(a)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/24/a)
+[^c-945d841fb4d51a4407634ac81eecace1]: Textual amendment: Words in [Sch. 2A para. 38(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/38/1) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 24(a)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/24/a)
 
-[^key-8ce78bf0ce3c67faf4b99ae36dae72eb]: Textual amendment: Words in [Sch. 2A para. 38(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/38/1) omitted (26.10.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 24(b)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/24/b)
+[^c-8ce78bf0ce3c67faf4b99ae36dae72eb]: Textual amendment: Words in [Sch. 2A para. 38(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/38/1) omitted (26.10.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 24(b)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/24/b)
 
-[^key-bb56e0bb70a08a93724ac7ab1c1cfcb1]: Textual amendment: Words in [Sch. 2A para. 38(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/38/1) omitted (26.10.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 24(c)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/24/c)
+[^c-bb56e0bb70a08a93724ac7ab1c1cfcb1]: Textual amendment: Words in [Sch. 2A para. 38(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/38/1) omitted (26.10.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 24(c)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/24/c)
 
-[^key-ea9e88f5dc088fb1fa922f616bb491eb]: Textual amendment: Words in [Sch. 2A para. 38(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/38/1) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 24(d)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/24/d)
+[^c-ea9e88f5dc088fb1fa922f616bb491eb]: Textual amendment: Words in [Sch. 2A para. 38(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/38/1) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 24(d)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/24/d)
 
-[^key-84b51a021e8c675b0ed15f2bdec37c76]: Textual amendment: Words in [Sch. 2A para. 38(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/38/1) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 24(e)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/24/e)
+[^c-84b51a021e8c675b0ed15f2bdec37c76]: Textual amendment: Words in [Sch. 2A para. 38(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/2A/paragraph/38/1) substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 24(e)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/24/e)

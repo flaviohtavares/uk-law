@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. When the rent proposal must be provided[^key-23586f590566d44243d55aded3fd40a3]
+## 17. When the rent proposal must be provided[^c-23586f590566d44243d55aded3fd40a3]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ A rent proposal provided under regulation 15 must be provided—
 
 ## Annotations
 
-[^key-23586f590566d44243d55aded3fd40a3]: Commencement: Reg. 17 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-23586f590566d44243d55aded3fd40a3]: Commencement: Reg. 17 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

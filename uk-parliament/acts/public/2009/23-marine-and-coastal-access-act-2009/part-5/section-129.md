@@ -41,7 +41,7 @@ summary: ''
 
 (7) A byelaw under this section may be made
 
-- (a)[^key-ac575a575d917faeda1eeed7a3006a48] subject to specified exceptions or conditions;
+- (a)[^c-ac575a575d917faeda1eeed7a3006a48] subject to specified exceptions or conditions;
 - (b) so as to cease to have effect after a specified period.
 
 (8) A byelaw under this section may make different provision for different cases, including (in particular)—
@@ -56,4 +56,4 @@ summary: ''
 
 [^c2007895]: Commencement: S. 129 partly in force; s. 129 in force for specified purposes at 12.1.2010 see s. 324(2)(b)(i)
 
-[^key-ac575a575d917faeda1eeed7a3006a48]: Textual amendment: S. 129(7)(a)(b) substituted for words in s. 129(7) (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/10) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-ac575a575d917faeda1eeed7a3006a48]: Textual amendment: S. 129(7)(a)(b) substituted for words in s. 129(7) (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/10) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

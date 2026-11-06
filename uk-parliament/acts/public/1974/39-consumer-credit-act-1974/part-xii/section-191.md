@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-cc35e65e41fcf3c48f85e6416118c209] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-cc35e65e41fcf3c48f85e6416118c209] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-cc35e65e41fcf3c48f85e6416118c209] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cc35e65e41fcf3c48f85e6416118c209] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Nothing in this Act shall authorise any Northern Ireland department to incur any expenses attributable to the provisions of this Act until provision has been made for those expenses to be defrayed out of money appropriated for the purpose.
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cc35e65e41fcf3c48f85e6416118c209]: Textual amendment: S. 191(1)(2) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(63)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/63)
+[^c-cc35e65e41fcf3c48f85e6416118c209]: Textual amendment: S. 191(1)(2) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(63)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/63)
 
 [^c2437651]: Textual amendment: Words substituted by [S.I. 1979/1573](https://www.legislation.gov.uk/uksi/1979/1573), [art. 11(1)](https://www.legislation.gov.uk/uksi/1979/1573/article/11/1), [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/1979/1573/schedule/4/paragraph/15)
 

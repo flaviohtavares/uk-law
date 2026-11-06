@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Height keeping performance - aircraft not registered in the Territory[^key-77293b7a0c8f067faa40b6b671b96ff6]
+## 93. Height keeping performance - aircraft not registered in the Territory[^c-77293b7a0c8f067faa40b6b671b96ff6]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77293b7a0c8f067faa40b6b671b96ff6]: Commencement: [Art. 93](https://www.legislation.gov.uk/uksi/2013/2870/article/93) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-77293b7a0c8f067faa40b6b671b96ff6]: Commencement: [Art. 93](https://www.legislation.gov.uk/uksi/2013/2870/article/93) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

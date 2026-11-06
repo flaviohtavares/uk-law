@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-36b2dddff9fa706a1eb878b2ca131e1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-36b2dddff9fa706a1eb878b2ca131e1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Nothing in regulation 46 requires a company to prepare share certificates in the following cases.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36b2dddff9fa706a1eb878b2ca131e1a]: Textual amendment: Reg. 47(1) revoked (26.11.2001) by [The Uncertificated Securities Regulations 2001 (S.I. 2001/3755)](https://www.legislation.gov.uk/uksi/2001/3755), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1), [52(4)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/52/4)
+[^c-36b2dddff9fa706a1eb878b2ca131e1a]: Textual amendment: Reg. 47(1) revoked (26.11.2001) by [The Uncertificated Securities Regulations 2001 (S.I. 2001/3755)](https://www.legislation.gov.uk/uksi/2001/3755), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1), [52(4)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/52/4)

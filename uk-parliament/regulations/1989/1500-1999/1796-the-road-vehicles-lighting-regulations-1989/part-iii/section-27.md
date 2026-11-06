@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Restrictions on the use of lamps other than those to which regulation 24 refers[^key-b86c8c041e05a8c9cc3717db1b8c8dcb]
+## 27. Restrictions on the use of lamps other than those to which regulation 24 refers[^c-b86c8c041e05a8c9cc3717db1b8c8dcb]
 
 *Extent: E+W+S*
 
@@ -44,16 +44,16 @@ No person shall use, or cause or permit to be used, on a road any vehicle on whi
 </tbody>
 </table>
 
-[^key-b6c850953c91e7c60ed33a60844ebda7][^key-4f0472be73c50bd2acadc5441c9c83c6][^key-cc655ebabd72ea64d5b123971bb330ff][^key-54d523792e844d83fe101d3ffa31556d]
+[^c-b6c850953c91e7c60ed33a60844ebda7][^c-4f0472be73c50bd2acadc5441c9c83c6][^c-cc655ebabd72ea64d5b123971bb330ff][^c-54d523792e844d83fe101d3ffa31556d]
 
 ## Annotations
 
-[^key-b86c8c041e05a8c9cc3717db1b8c8dcb]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1989/1796/regulation/27) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-b86c8c041e05a8c9cc3717db1b8c8dcb]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1989/1796/regulation/27) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-b6c850953c91e7c60ed33a60844ebda7]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/1989/1796/regulation/27) Table Item 5 added (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/9/2)
+[^c-b6c850953c91e7c60ed33a60844ebda7]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/1989/1796/regulation/27) Table Item 5 added (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/9/2)
 
-[^key-4f0472be73c50bd2acadc5441c9c83c6]: Textual amendment: Word in [reg. 27](https://www.legislation.gov.uk/uksi/1989/1796/regulation/27) omitted (21.10.2005) by virtue of [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/8/2)
+[^c-4f0472be73c50bd2acadc5441c9c83c6]: Textual amendment: Word in [reg. 27](https://www.legislation.gov.uk/uksi/1989/1796/regulation/27) omitted (21.10.2005) by virtue of [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/8/2)
 
-[^key-cc655ebabd72ea64d5b123971bb330ff]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/1989/1796/regulation/27) added (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/8/2)
+[^c-cc655ebabd72ea64d5b123971bb330ff]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/1989/1796/regulation/27) added (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/8/2)
 
-[^key-54d523792e844d83fe101d3ffa31556d]: Textual amendment: Words in reg. 27 Table Item 8 substituted (19.7.2006 for specified purposes in accordance with art. 1(2)(b) of the amending S.I. as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)(c)(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b/c/3), [76(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/76/b)
+[^c-54d523792e844d83fe101d3ffa31556d]: Textual amendment: Words in reg. 27 Table Item 8 substituted (19.7.2006 for specified purposes in accordance with art. 1(2)(b) of the amending S.I. as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)(c)(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b/c/3), [76(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/76/b)

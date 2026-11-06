@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 344. Aiding or abetting etc desertion or absence without leave[^key-2935a736a6d276bf2c0adf57b86f219a][^key-66586fed848a665280226a487daa81da][^key-0c1ff6d2f9bfc647e108f2ff5a77338c]
+## 344. Aiding or abetting etc desertion or absence without leave[^c-2935a736a6d276bf2c0adf57b86f219a][^c-66586fed848a665280226a487daa81da][^c-0c1ff6d2f9bfc647e108f2ff5a77338c]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2935a736a6d276bf2c0adf57b86f219a]: Commencement: S. 344 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-2935a736a6d276bf2c0adf57b86f219a]: Commencement: S. 344 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-66586fed848a665280226a487daa81da]: Commencement: S. 344 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-66586fed848a665280226a487daa81da]: Commencement: S. 344 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-0c1ff6d2f9bfc647e108f2ff5a77338c]: Modification: S. 344 modified by S.I. 1999/1736, art. 18 (as substituted (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 21(3)](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/21/3) (with [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2009/2054/schedule/2/paragraph/14)))
+[^c-0c1ff6d2f9bfc647e108f2ff5a77338c]: Modification: S. 344 modified by S.I. 1999/1736, art. 18 (as substituted (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 21(3)](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/21/3) (with [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2009/2054/schedule/2/paragraph/14)))

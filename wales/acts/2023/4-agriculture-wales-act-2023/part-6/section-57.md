@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Short title[^key-97a107e4411e58422d334c0c4fa8c3da]
+## 57. Short title[^c-97a107e4411e58422d334c0c4fa8c3da]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Agriculture (Wales) Act 2023.
 
 ## Annotations
 
-[^key-97a107e4411e58422d334c0c4fa8c3da]: Commencement: S. 57 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)
+[^c-97a107e4411e58422d334c0c4fa8c3da]: Commencement: S. 57 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)

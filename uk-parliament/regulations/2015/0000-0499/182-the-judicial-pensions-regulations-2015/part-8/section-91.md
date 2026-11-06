@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Surviving adults[^key-7634daa22aa9b6b151cd32e2de01ac8a]
+## 91. Surviving adults[^c-7634daa22aa9b6b151cd32e2de01ac8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In these Regulations—
 
 ## Annotations
 
-[^key-7634daa22aa9b6b151cd32e2de01ac8a]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2015/182/regulation/91) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-7634daa22aa9b6b151cd32e2de01ac8a]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2015/182/regulation/91) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

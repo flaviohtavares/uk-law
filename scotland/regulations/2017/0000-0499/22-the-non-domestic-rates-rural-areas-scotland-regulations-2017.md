@@ -44,13 +44,13 @@ Coming into force
 
 1st April 2017
 
-The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.[^key-feffeffbb0c20ccc25881f00d36345e2][^key-0639389ac9cf3aa820aed60b7579c925]
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.[^c-feffeffbb0c20ccc25881f00d36345e2][^c-0639389ac9cf3aa820aed60b7579c925]
 
-## 1. Citation and commencement[^key-f3241556a289ab68ce7f05ff17c37b88]
+## 1. Citation and commencement[^c-f3241556a289ab68ce7f05ff17c37b88]
 
 These Regulations may be cited as the Non-Domestic Rates (Rural Areas) (Scotland) Regulations 2017 and come into force on 1st April 2017.
 
-## 2. Amount payable – certain lands and heritages in a rural area[^key-a725f3946dd983b11cd74c5b9367c5d8]
+## 2. Amount payable – certain lands and heritages in a rural area[^c-a725f3946dd983b11cd74c5b9367c5d8]
 
 (1) No amount is to be payable as non-domestic rate in respect of any lands and heritages for a day in a relevant financial year if on that day paragraph 3(2) of schedule 2 of the Local Government and Rating Act 1997[^f00002] applies to the lands and heritages.
 
@@ -78,12 +78,12 @@ The lands and heritages in question must be in a designated rural settlement and
 
 [^f00001]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39); section 153 was amended by section 67 of the Climate Change (Scotland) Act [2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-feffeffbb0c20ccc25881f00d36345e2]: Modification: Regulations restricted (1.4.2021) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021 (S.S.I. 2021/145)](https://www.legislation.gov.uk/ssi/2021/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/145/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2021/145/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/145/regulation/1/2))
+[^c-feffeffbb0c20ccc25881f00d36345e2]: Modification: Regulations restricted (1.4.2021) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021 (S.S.I. 2021/145)](https://www.legislation.gov.uk/ssi/2021/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/145/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2021/145/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/145/regulation/1/2))
 
-[^key-0639389ac9cf3aa820aed60b7579c925]: Modification: Regulations restricted (1.4.2023) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023 (S.S.I. 2023/28)](https://www.legislation.gov.uk/ssi/2023/28), [regs. 1](https://www.legislation.gov.uk/ssi/2023/28/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/28/regulation/3)
+[^c-0639389ac9cf3aa820aed60b7579c925]: Modification: Regulations restricted (1.4.2023) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023 (S.S.I. 2023/28)](https://www.legislation.gov.uk/ssi/2023/28), [regs. 1](https://www.legislation.gov.uk/ssi/2023/28/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/28/regulation/3)
 
-[^key-f3241556a289ab68ce7f05ff17c37b88]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/22/regulation/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/22/regulation/1)
+[^c-f3241556a289ab68ce7f05ff17c37b88]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/22/regulation/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/22/regulation/1)
 
-[^key-a725f3946dd983b11cd74c5b9367c5d8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/22/regulation/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/22/regulation/1)
+[^c-a725f3946dd983b11cd74c5b9367c5d8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/22/regulation/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/22/regulation/1)
 
 [^f00002]: Footnote: [1997 c.29](https://www.legislation.gov.uk/ukpga/1997/29); paragraph 3(2) was amended by the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), section 29(a).

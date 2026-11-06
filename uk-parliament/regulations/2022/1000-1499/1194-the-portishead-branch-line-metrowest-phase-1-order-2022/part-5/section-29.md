@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Power to override easements and other rights[^key-77664f66aae4edcef4ebf6b77a84bd52]
+## 29. Power to override easements and other rights[^c-77664f66aae4edcef4ebf6b77a84bd52]
 
 *Extent: E+W*
 
@@ -63,7 +63,7 @@ the liability is enforceable against the undertaker.
 
 ## Annotations
 
-[^key-77664f66aae4edcef4ebf6b77a84bd52]: Commencement: Art. 29 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-77664f66aae4edcef4ebf6b77a84bd52]: Commencement: Art. 29 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00045]: Footnote: Section 10 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

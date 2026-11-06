@@ -27,11 +27,11 @@ summary: ''
 
 (2) In order to comply with paragraph (1), each district council must carry out—
 
-- (a)[^key-4941e6738833d1cbd67d4eb0d6ba1201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4941e6738833d1cbd67d4eb0d6ba1201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) monitoring in accordance with Schedule 9 to check whether the water complies with the relevant parametric values specified in Part 4 of Schedule 7.
 
 (3) Each district council must carry out additional monitoring, on a case-by-case basis, in relation to any property, element, substance or organism other than a parameter specified in Schedule 7, if the district council has reason to suspect that it may be present in the water concerned in an amount or number which constitutes a potential danger to human health.
 
 ## Annotations
 
-[^key-4941e6738833d1cbd67d4eb0d6ba1201]: Textual amendment: [Reg. 24(2)(a)](https://www.legislation.gov.uk/nisr/2015/365/regulation/24/2/a) omitted (27.10.2017) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [8](https://www.legislation.gov.uk/nisr/2017/201/regulation/8)
+[^c-4941e6738833d1cbd67d4eb0d6ba1201]: Textual amendment: [Reg. 24(2)(a)](https://www.legislation.gov.uk/nisr/2015/365/regulation/24/2/a) omitted (27.10.2017) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [8](https://www.legislation.gov.uk/nisr/2017/201/regulation/8)

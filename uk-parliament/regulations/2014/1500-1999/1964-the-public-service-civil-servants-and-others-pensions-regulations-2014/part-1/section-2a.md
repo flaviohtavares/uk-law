@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Active Membership[^key-1672e539fb755be519c5310cb0e21524]
+## 2A. Active Membership[^c-1672e539fb755be519c5310cb0e21524]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1672e539fb755be519c5310cb0e21524]: Textual amendment: Regs. 2A-2C inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/537/regulation/4)
+[^c-1672e539fb755be519c5310cb0e21524]: Textual amendment: Regs. 2A-2C inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/537/regulation/4)

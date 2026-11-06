@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13 — Referendum expenses: qualifying expenses[^c20061341][^key-b2b14bde98651ddddb6322424449fa1e]
+## SCHEDULE 13 — Referendum expenses: qualifying expenses[^c20061341][^c-b2b14bde98651ddddb6322424449fa1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Section 111.
 
 #### Expenses qualifying where incurred for referendum purposes
 
-**1.**[^c10577171][^key-fcf9bc027bf3f4ac6ec0d77da05a4567] For the purposes of section 111(2) the expenses falling within this Part of this Schedule are expenses incurred in respect of any of the matters set out in the following list.
+**1.**[^c10577171][^c-fcf9bc027bf3f4ac6ec0d77da05a4567] For the purposes of section 111(2) the expenses falling within this Part of this Schedule are expenses incurred in respect of any of the matters set out in the following list.
 
 **List of matters**
 
@@ -60,7 +60,7 @@ Expenses in respect of such events include costs incurred in connection with the
 
 #### Exclusions
 
-**2.**[^c10577181][^key-d6431002924ec5abe65e1b98e5530c63] Nothing in paragraph 1 shall be taken as extending to—
+**2.**[^c10577181][^c-d6431002924ec5abe65e1b98e5530c63] Nothing in paragraph 1 shall be taken as extending to—
 
 - (a) any expenses in respect of any property, services or facilities so far as those expenses fall to be met out of public funds;
 - (b) any expenses incurred in respect of the remuneration or allowances payable to any member of the staff (whether permanent or otherwise) of the campaign organiser; or
@@ -118,15 +118,15 @@ no account being taken of any period during which Parliament is dissolved or pro
 
 [^c20061341]: Modification: Sch. 13 applied (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 7(2)](https://www.legislation.gov.uk/uksi/2004/1962/article/7/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2004/1962/schedule/3/part/2)
 
-[^key-b2b14bde98651ddddb6322424449fa1e]: Modification: Sch. 13 modified (16.12.2010 with application in accordance with art. 1(3) of the amending S.I.) by [The National Assembly for Wales Referendum (Assembly Act Provisions) (Limit on Referendum Expenses Etc.) Order 2010 (S.I. 2010/2985)](https://www.legislation.gov.uk/uksi/2010/2985), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2985/article/1/2), [5](https://www.legislation.gov.uk/uksi/2010/2985/article/5) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2985/article/1/3))
+[^c-b2b14bde98651ddddb6322424449fa1e]: Modification: Sch. 13 modified (16.12.2010 with application in accordance with art. 1(3) of the amending S.I.) by [The National Assembly for Wales Referendum (Assembly Act Provisions) (Limit on Referendum Expenses Etc.) Order 2010 (S.I. 2010/2985)](https://www.legislation.gov.uk/uksi/2010/2985), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2985/article/1/2), [5](https://www.legislation.gov.uk/uksi/2010/2985/article/5) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2985/article/1/3))
 
 [^c10577171]: Commencement: Sch. 13 wholly in force at 16.2.2001; Sch. 13 partly in force at Royal Assent, see s. 163(3); Sch. 13 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-fcf9bc027bf3f4ac6ec0d77da05a4567]: Modification: Sch. 13 para. 1 excluded (13.2.2013) by [The Scotland Act 1998 (Modification of Schedule 5) Order 2013 (S.I. 2013/242)](https://www.legislation.gov.uk/uksi/2013/242), [arts. 2](https://www.legislation.gov.uk/uksi/2013/242/article/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2013/242/article/4/3/b)
+[^c-fcf9bc027bf3f4ac6ec0d77da05a4567]: Modification: Sch. 13 para. 1 excluded (13.2.2013) by [The Scotland Act 1998 (Modification of Schedule 5) Order 2013 (S.I. 2013/242)](https://www.legislation.gov.uk/uksi/2013/242), [arts. 2](https://www.legislation.gov.uk/uksi/2013/242/article/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2013/242/article/4/3/b)
 
 [^c10577181]: Commencement: Sch. 13 wholly in force at 16.2.2001; Sch. 13 partly in force at Royal Assent, see s. 163(3); Sch. 13 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-d6431002924ec5abe65e1b98e5530c63]: Modification: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2000/41/schedule/13/paragraph/2) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/18); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-d6431002924ec5abe65e1b98e5530c63]: Modification: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2000/41/schedule/13/paragraph/2) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/18); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c10577191]: Commencement: Sch. 13 wholly in force at 16.2.2001; Sch. 13 partly in force at Royal Assent, see s. 163(3); Sch. 13 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 

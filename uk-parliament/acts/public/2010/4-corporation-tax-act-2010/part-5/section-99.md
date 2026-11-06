@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Surrendering of losses and other amounts[^key-4f0d062d21b1b2f2823de23c251955fe]
+## 99. Surrendering of losses and other amounts[^c-4f0d062d21b1b2f2823de23c251955fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,9 +24,9 @@ summary: ''
 
 - (a) a trading loss (see section 100),
 - (b) a capital allowance excess (see section 101),
-- (c) a deficit within Chapter 16 or 16A[^key-16f78f36ad4b69a8d390e551a1e00f1f] of Part 5 of CTA 2009 (non-trading deficit on loan relationship),
+- (c) a deficit within Chapter 16 or 16A[^c-16f78f36ad4b69a8d390e551a1e00f1f] of Part 5 of CTA 2009 (non-trading deficit on loan relationship),
 - (d) amounts allowable as qualifying charitable donations (see Part 6),
-- (da)[^key-550e0b00e8adb5b2c3c11401b49ba6fd] amounts allowable as qualifying expenditure on grassroots sport (see Part 6A),
+- (da)[^c-550e0b00e8adb5b2c3c11401b49ba6fd] amounts allowable as qualifying expenditure on grassroots sport (see Part 6A),
 - (e) a UK property business loss (see section 102),
 - (f) management expenses (see section 103), and
 - (g) a non-trading loss on intangible fixed assets (see section 104).
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4f0d062d21b1b2f2823de23c251955fe]: Modification: Pt. 5 modified by 2009 c. 4, s. 1218ZDB(2) (as inserted (for specified purposes and with effect in accordance with Sch. 6 paras. 20, 21(1)(a) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/1) (with [Sch. 6 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/21/3)))
+[^c-4f0d062d21b1b2f2823de23c251955fe]: Modification: Pt. 5 modified by 2009 c. 4, s. 1218ZDB(2) (as inserted (for specified purposes and with effect in accordance with Sch. 6 paras. 20, 21(1)(a) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/1) (with [Sch. 6 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/21/3)))
 
-[^key-16f78f36ad4b69a8d390e551a1e00f1f]: Textual amendment: Words in s. 99(1)(c) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 157](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/157)
+[^c-16f78f36ad4b69a8d390e551a1e00f1f]: Textual amendment: Words in s. 99(1)(c) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 157](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/157)
 
-[^key-550e0b00e8adb5b2c3c11401b49ba6fd]: Textual amendment: S. 99(1)(da) inserted (with effect in accordance with s. 22(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/22/3)
+[^c-550e0b00e8adb5b2c3c11401b49ba6fd]: Textual amendment: S. 99(1)(da) inserted (with effect in accordance with s. 22(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/22/3)

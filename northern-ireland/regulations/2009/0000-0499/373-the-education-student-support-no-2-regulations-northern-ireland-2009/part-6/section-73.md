@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Students residing with parents[^key-3f65eee41ab4a2d160de29de07f0b3e8]
+## 73. Students residing with parents[^c-3f65eee41ab4a2d160de29de07f0b3e8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f65eee41ab4a2d160de29de07f0b3e8]: Commencement: Reg. 73 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-3f65eee41ab4a2d160de29de07f0b3e8]: Commencement: Reg. 73 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

@@ -27,7 +27,7 @@ summary: ''
 
 SPORTS GROUNDS AND SPORTING EVENTS
 
-The Football Spectators (Designation of Football Matches outside England and Wales) Order 1990 (revoked)[^key-a69960fcfc1cf290a6a6f6604cdca1eb]
+The Football Spectators (Designation of Football Matches outside England and Wales) Order 1990 (revoked)[^c-a69960fcfc1cf290a6a6f6604cdca1eb]
 
 Made
 
@@ -41,20 +41,20 @@ Coming into force
 
 24th April 1990
 
-[^key-a69960fcfc1cf290a6a6f6604cdca1eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a69960fcfc1cf290a6a6f6604cdca1eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-a69960fcfc1cf290a6a6f6604cdca1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a69960fcfc1cf290a6a6f6604cdca1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a69960fcfc1cf290a6a6f6604cdca1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a69960fcfc1cf290a6a6f6604cdca1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a69960fcfc1cf290a6a6f6604cdca1eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a69960fcfc1cf290a6a6f6604cdca1eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a69960fcfc1cf290a6a6f6604cdca1eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a69960fcfc1cf290a6a6f6604cdca1eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a69960fcfc1cf290a6a6f6604cdca1eb]: Textual amendment: Order revoked (28.8.2000) by [The Football Spectators (Prescription) Order 2000 (S.I. 2000/2126)](https://www.legislation.gov.uk/uksi/2000/2126), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2126/schedule/1); \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-a69960fcfc1cf290a6a6f6604cdca1eb]: Textual amendment: Order revoked (28.8.2000) by [The Football Spectators (Prescription) Order 2000 (S.I. 2000/2126)](https://www.legislation.gov.uk/uksi/2000/2126), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2126/schedule/1); \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

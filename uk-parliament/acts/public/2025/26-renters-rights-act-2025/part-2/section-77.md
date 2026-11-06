@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Making entries in the database[^key-6a4ca9581191c20f9d96f4bfdd6b6363]
+## 77. Making entries in the database[^c-6a4ca9581191c20f9d96f4bfdd6b6363]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a4ca9581191c20f9d96f4bfdd6b6363]: Commencement: S. 77 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-6a4ca9581191c20f9d96f4bfdd6b6363]: Commencement: S. 77 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

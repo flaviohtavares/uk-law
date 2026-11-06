@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Specific defences applying to the offence under s. 36[^key-68c5a8b9b84f8443ec5cd634206685c2]
+## 37. Specific defences applying to the offence under s. 36[^c-68c5a8b9b84f8443ec5cd634206685c2]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68c5a8b9b84f8443ec5cd634206685c2]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/38/section/37) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(f)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/f)
+[^c-68c5a8b9b84f8443ec5cd634206685c2]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/38/section/37) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(f)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/f)

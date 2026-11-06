@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — PERIODIC FEES FOR LICENCES[^key-5470e79035bf1330494896f42d3f9c1c]
+## SCHEDULE 3 — PERIODIC FEES FOR LICENCES[^c-5470e79035bf1330494896f42d3f9c1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,84 +24,84 @@ summary: ''
 
 Regulations 33(2) and (3), 34(2)
 
-### PART 1 — Interpretation[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 1 — Interpretation[^c-5470e79035bf1330494896f42d3f9c1c]
 
-**1.**[^key-5470e79035bf1330494896f42d3f9c1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5470e79035bf1330494896f42d3f9c1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Calculation of Turnover[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 2 — Calculation of Turnover[^c-5470e79035bf1330494896f42d3f9c1c]
 
-#### 2. Calculation of turnover[^key-5470e79035bf1330494896f42d3f9c1c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 3. Manufacturer's prices[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 2. Calculation of turnover[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Evidence of turnover[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 3. Manufacturer's prices[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Periodic Fees for Marketing Authorizations and Licences[^key-5470e79035bf1330494896f42d3f9c1c]
-
-#### 5. Marketing authorizations[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 4. Evidence of turnover[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Marketing authorization: where Part 2 of the Act applies[^key-5470e79035bf1330494896f42d3f9c1c]
+### PART 3 — Periodic Fees for Marketing Authorizations and Licences[^c-5470e79035bf1330494896f42d3f9c1c]
+
+#### 5. Marketing authorizations[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Marketing authorization: derivatives[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 6. Marketing authorization: where Part 2 of the Act applies[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Number of fee periods[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 7. Marketing authorization: derivatives[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Authorisation for two or more kinds of medicinal product[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 8. Number of fee periods[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Reduced fees[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 9. Authorisation for two or more kinds of medicinal product[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Manufacturer's licences or manufacturing authorisations[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 10. Reduced fees[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Wholesale dealer's licences[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 11. Manufacturer's licences or manufacturing authorisations[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Wholesale dealer's licences: evidence[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 12. Wholesale dealer's licences[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Wholesale dealer licences: exempt imported products[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 13. Wholesale dealer's licences: evidence[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Additional amount for manufacturer's licences and wholesale dealer's licences which relate to exempt imported products[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 14. Wholesale dealer licences: exempt imported products[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Clinical trial authorisations[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 15. Additional amount for manufacturer's licences and wholesale dealer's licences which relate to exempt imported products[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Traditional herbal registrations[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 16. Clinical trial authorisations[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Types of Marketing Authorization for which only One Periodic Fee is Payable[^key-5470e79035bf1330494896f42d3f9c1c]
+#### 17. Traditional herbal registrations[^c-5470e79035bf1330494896f42d3f9c1c]
 
-#### 18. Specified parallel import licences[^key-5470e79035bf1330494896f42d3f9c1c]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4 — Types of Marketing Authorization for which only One Periodic Fee is Payable[^c-5470e79035bf1330494896f42d3f9c1c]
+
+#### 18. Specified parallel import licences[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5470e79035bf1330494896f42d3f9c1c]: Textual amendment: Regulations revoked (1.4.2010) by [The Medicines (Products for Human Use) (Fees) Regulations 2010 (S.I. 2010/551)](https://www.legislation.gov.uk/uksi/2010/551), [regs. 1](https://www.legislation.gov.uk/uksi/2010/551/regulation/1), [52(1)](https://www.legislation.gov.uk/uksi/2010/551/regulation/52/1) (with [reg. 52(2)-(4)](https://www.legislation.gov.uk/uksi/2010/551/regulation/52/2))
+[^c-5470e79035bf1330494896f42d3f9c1c]: Textual amendment: Regulations revoked (1.4.2010) by [The Medicines (Products for Human Use) (Fees) Regulations 2010 (S.I. 2010/551)](https://www.legislation.gov.uk/uksi/2010/551), [regs. 1](https://www.legislation.gov.uk/uksi/2010/551/regulation/1), [52(1)](https://www.legislation.gov.uk/uksi/2010/551/regulation/52/1) (with [reg. 52(2)-(4)](https://www.legislation.gov.uk/uksi/2010/551/regulation/52/2))

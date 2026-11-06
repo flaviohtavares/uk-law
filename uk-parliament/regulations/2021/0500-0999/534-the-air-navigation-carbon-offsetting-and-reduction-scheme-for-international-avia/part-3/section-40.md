@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Rounding of data[^key-495eaa1c04f9f4456f6b76a94f9256e3]
+## 40. Rounding of data[^c-495eaa1c04f9f4456f6b76a94f9256e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-495eaa1c04f9f4456f6b76a94f9256e3]: Commencement: Art. 40 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-495eaa1c04f9f4456f6b76a94f9256e3]: Commencement: Art. 40 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

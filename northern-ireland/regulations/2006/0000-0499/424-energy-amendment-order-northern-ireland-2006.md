@@ -31,7 +31,7 @@ summary: ''
 
 ELECTRICITY
 
-Energy (Amendment) Order (Northern Ireland) 2006 (revoked)[^key-d6dcdcc8e0615043548bf33956ac132a]
+Energy (Amendment) Order (Northern Ireland) 2006 (revoked)[^c-d6dcdcc8e0615043548bf33956ac132a]
 
 Made
 
@@ -43,32 +43,32 @@ Coming into operation
 
 To be laid before Parliament under paragraph 7(3) of the Schedule to the Northern Ireland Act 2000
 
-[^key-d6dcdcc8e0615043548bf33956ac132a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6dcdcc8e0615043548bf33956ac132a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d6dcdcc8e0615043548bf33956ac132a]
+## 1. Citation and commencement[^c-d6dcdcc8e0615043548bf33956ac132a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Energy (Northern Ireland) Order 2003[^key-d6dcdcc8e0615043548bf33956ac132a]
+## 2. Amendment of the Energy (Northern Ireland) Order 2003[^c-d6dcdcc8e0615043548bf33956ac132a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Renewables obligation: issue of green certificates[^key-d6dcdcc8e0615043548bf33956ac132a]
+## 3. Renewables obligation: issue of green certificates[^c-d6dcdcc8e0615043548bf33956ac132a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Renewables obligation: issue of green certificates: further provisions[^key-d6dcdcc8e0615043548bf33956ac132a]
+## 4. Renewables obligation: issue of green certificates: further provisions[^c-d6dcdcc8e0615043548bf33956ac132a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d6dcdcc8e0615043548bf33956ac132a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d6dcdcc8e0615043548bf33956ac132a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6dcdcc8e0615043548bf33956ac132a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6dcdcc8e0615043548bf33956ac132a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6dcdcc8e0615043548bf33956ac132a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6dcdcc8e0615043548bf33956ac132a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6dcdcc8e0615043548bf33956ac132a]: Textual amendment: Order revoked (1.2.2009) by [Energy (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/35)](https://www.legislation.gov.uk/nisr/2009/35), [arts. 1](https://www.legislation.gov.uk/nisr/2009/35/article/1), [3(b)](https://www.legislation.gov.uk/nisr/2009/35/article/3/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2009/35/article/4))
+[^c-d6dcdcc8e0615043548bf33956ac132a]: Textual amendment: Order revoked (1.2.2009) by [Energy (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/35)](https://www.legislation.gov.uk/nisr/2009/35), [arts. 1](https://www.legislation.gov.uk/nisr/2009/35/article/1), [3(b)](https://www.legislation.gov.uk/nisr/2009/35/article/3/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2009/35/article/4))

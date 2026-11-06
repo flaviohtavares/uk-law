@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Self-rescuers[^key-614cf0b60351d22b41699410b3cccfd9]
+## 57. Self-rescuers[^c-614cf0b60351d22b41699410b3cccfd9]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-614cf0b60351d22b41699410b3cccfd9]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2014/3248/regulation/57) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-614cf0b60351d22b41699410b3cccfd9]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2014/3248/regulation/57) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

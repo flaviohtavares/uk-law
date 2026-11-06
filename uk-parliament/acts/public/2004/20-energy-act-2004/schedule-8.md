@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Pensions[^key-d0057a32d7fc6296730f80e14ef803a1]
+## SCHEDULE 8 — Pensions[^c-d0057a32d7fc6296730f80e14ef803a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Section 46
 
 #### Interpretation
 
-**1.**[^key-bf8441ab69d8cb172f19e532d26ae799] (1) In this Schedule—
+**1.**[^c-bf8441ab69d8cb172f19e532d26ae799] (1) In this Schedule—
 
 - “**BNFL company**” means BNFL or a subsidiary of BNFL;
 - “**the designated date**” means such date as the Secretary of State may by order designate for the purposes of this Schedule;
@@ -82,11 +82,11 @@ Section 46
 - (a) do not include references to his being eligible to become a participant in a scheme if a different person becomes his employer or if his employer becomes the subsidiary of a particular body corporate; but
 - (b) do include references, in the case of a person whose participation in the scheme is temporarily suspended (whether by reason of a secondment or loan of his service or otherwise), to fulfilment of the conditions that would bring the suspension to an end.
 
-(7) In this paragraph “**company**” means a company as defined in section 1(1) of the Companies Act 2006[^key-1e8096a379b0dd627352231aee8839b4].
+(7) In this paragraph “**company**” means a company as defined in section 1(1) of the Companies Act 2006[^c-1e8096a379b0dd627352231aee8839b4].
 
 ### Part 2 — Extensions of certain pension schemes
 
-**2.**[^key-0f98be8cb1ad181c97f63656fffa05bd] (1) The NDA may, by direction, make such modifications of a relevant pension scheme as it considers appropriate for purposes connected with extending the groups of persons who may participate in the scheme to—
+**2.**[^c-0f98be8cb1ad181c97f63656fffa05bd] (1) The NDA may, by direction, make such modifications of a relevant pension scheme as it considers appropriate for purposes connected with extending the groups of persons who may participate in the scheme to—
 
 - (a) employees of a qualifying employer;
 - (b) directors or other officers of a qualifying employer who are not employees of the employer.
@@ -129,14 +129,14 @@ Section 46
 
 #### Transfers of employment for NDA purposes
 
-**3.**[^key-fce55431719e36740838c7f1e29c10e6] For the purposes of this Part of this Schedule a transfer of a person’s employment is made for NDA purposes if his employment immediately after the transfer takes effect is—
+**3.**[^c-fce55431719e36740838c7f1e29c10e6] For the purposes of this Part of this Schedule a transfer of a person’s employment is made for NDA purposes if his employment immediately after the transfer takes effect is—
 
 - (a) employment with the NDA or a subsidiary of the NDA; or
 - (b) other employment the duties of which consist wholly or mainly of duties relating to matters connected with the carrying out by the NDA of its functions.
 
 #### Application of UKAEA pension scheme
 
-**4.**[^key-f1020d148050818dc0f5a47311b02196] (1) A person who—
+**4.**[^c-f1020d148050818dc0f5a47311b02196] (1) A person who—
 
 - (a) in accordance with a nuclear transfer scheme, or with any transfer arrangements, becomes an employee of a relevant public sector employer, and
 - (b) immediately before the transfer of his employment takes effect, is a participant in a UKAEA pension scheme,
@@ -198,7 +198,7 @@ then, from the time when it so ceases, no person employed by that company shall 
 
 #### Modification of UKAEA pension scheme
 
-**5.**[^key-26bb98d55530f4dda919d5d8e2bbe24f] (1) The Secretary of State may direct the UKAEA to make such modifications of a UKAEA pension scheme for the purpose of giving effect to paragraph 4 as may be specified in the direction.
+**5.**[^c-26bb98d55530f4dda919d5d8e2bbe24f] (1) The Secretary of State may direct the UKAEA to make such modifications of a UKAEA pension scheme for the purpose of giving effect to paragraph 4 as may be specified in the direction.
 
 (2) He may also direct the UKAEA to make such modifications as may be so specified for either or both of the following purposes—
 
@@ -213,7 +213,7 @@ then, from the time when it so ceases, no person employed by that company shall 
 
 #### Transfer of funds from UKAEA pension scheme
 
-**6.**[^key-50cb2da55cd234a45f9d4bec42192d90] (1) The Secretary of State may direct the UKAEA to make such modifications of a UKAEA pension scheme as may be specified in the direction for the purpose of requiring or enabling the transfer of funds and liabilities arising under the scheme in a case falling within sub-paragraph (2).
+**6.**[^c-50cb2da55cd234a45f9d4bec42192d90] (1) The Secretary of State may direct the UKAEA to make such modifications of a UKAEA pension scheme as may be specified in the direction for the purpose of requiring or enabling the transfer of funds and liabilities arising under the scheme in a case falling within sub-paragraph (2).
 
 (2) That case is where a person ceases to be a participant in the scheme in consequence of—
 
@@ -227,7 +227,7 @@ then, from the time when it so ceases, no person employed by that company shall 
 
 #### Exercise of powers of Secretary of State
 
-**7.**[^key-825dfbde7d4a3a322ab70f5e14e7248c] (1) A direction under paragraph 5 or 6 may require the UKAEA to make such supplemental, consequential and transitional provision modifying a UKAEA pension scheme as the Secretary of State considers appropriate.
+**7.**[^c-825dfbde7d4a3a322ab70f5e14e7248c] (1) A direction under paragraph 5 or 6 may require the UKAEA to make such supplemental, consequential and transitional provision modifying a UKAEA pension scheme as the Secretary of State considers appropriate.
 
 (2) Before giving a direction under paragraph 5 or 6, the Secretary of State must consult—
 
@@ -244,7 +244,7 @@ then, from the time when it so ceases, no person employed by that company shall 
 
 #### Payments to UKAEA by relevant public sector employer
 
-**8.**[^key-afc95adece27de7bfce1c1022842f9cc] Where employees, or directors or other officers, of a relevant public sector employer to whom employees are transferred in accordance with a nuclear transfer scheme or transfer arrangements participate in a UKAEA pension scheme by virtue of paragraph 4 or 5, the employer must pay to the UKAEA such amounts in respect of that participation as are—
+**8.**[^c-afc95adece27de7bfce1c1022842f9cc] Where employees, or directors or other officers, of a relevant public sector employer to whom employees are transferred in accordance with a nuclear transfer scheme or transfer arrangements participate in a UKAEA pension scheme by virtue of paragraph 4 or 5, the employer must pay to the UKAEA such amounts in respect of that participation as are—
 
 - (a) agreed between the relevant public sector employer and the UKAEA; or
 - (b) in the absence of such agreement, determined in relation to that employer by the Secretary of State.
@@ -253,7 +253,7 @@ then, from the time when it so ceases, no person employed by that company shall 
 
 #### Persons entitled to pension protection under paragraphs 10 and 11
 
-**9.**[^key-4b0d09c907e08a1c2c24496bb350cf4e] (1) For the purposes of this Part of this Schedule a person is entitled to pension protection in relation to a nuclear transfer scheme or any transfer arrangements if—
+**9.**[^c-4b0d09c907e08a1c2c24496bb350cf4e] (1) For the purposes of this Part of this Schedule a person is entitled to pension protection in relation to a nuclear transfer scheme or any transfer arrangements if—
 
 - (a) sub-paragraph (2) applies to him; and
 - (b) he is a person falling within sub-paragraph (5).
@@ -309,7 +309,7 @@ then, from the time when it so ceases, no person employed by that company shall 
 - (a) the time when, in accordance with the scheme or arrangements, the transfer of his employment to the UKAEA, the NDA, a publicly controlled company or a private sector employer takes effect; or
 - (b) in relation to a person whose employment is not so transferred, the time when, in accordance with the scheme or arrangements, the transfer of securities of, or voting rights in, the company by which he is employed or the company of which it is a subsidiary takes effect.
 
-#### Persons entitled to reformed protection under paragraphs 10 and 11[^key-6aab2325ebe587ca40ba1f24ac150cf2]
+#### Persons entitled to reformed protection under paragraphs 10 and 11[^c-6aab2325ebe587ca40ba1f24ac150cf2]
 
 **9A.** (1) For the purposes of this Part of the Schedule, a person is entitled to reformed protection in relation to a nuclear transfer scheme or any transfer arrangements if the person is entitled to pension protection in relation to the scheme or arrangements, and—
 
@@ -348,7 +348,7 @@ then, from the time when it so ceases, no person employed by that company shall 
 
 #### Protection on transfer in accordance with a nuclear transfer scheme
 
-**10.**[^key-67c57af3e3b65b38f1346d9d95933571] (1) Before the coming into force of a nuclear transfer scheme in relation to which persons are entitled to pension protection the Secretary of State must consult—
+**10.**[^c-67c57af3e3b65b38f1346d9d95933571] (1) Before the coming into force of a nuclear transfer scheme in relation to which persons are entitled to pension protection the Secretary of State must consult—
 
 - (a) the appropriate pension scheme authority;
 - (b) the Treasury; and
@@ -372,16 +372,16 @@ the benefits that are available under those provisions are no less favourable th
 
 (6) In sub-paragraph (5) the reference to the scheme in respect of which a person is entitled to protection under this Part of this Schedule is a reference to—
 
-- (za)[^key-218d9626ec3fd382bdf58b07b7df6dd6] in the case of a person entitled to reformed protection in relation to the nuclear transfer scheme who falls within paragraph 9A(1)(a), the Section mentioned in paragraph 9A(1)(a);
+- (za)[^c-218d9626ec3fd382bdf58b07b7df6dd6] in the case of a person entitled to reformed protection in relation to the nuclear transfer scheme who falls within paragraph 9A(1)(a), the Section mentioned in paragraph 9A(1)(a);
 - (zb) in the case of a person entitled to reformed protection in relation to the nuclear transfer scheme who falls within paragraph 9A(1)(b), the Section mentioned in paragraph 9A(1)(b);
-- (a) in the case of a person who is not entitled to reformed protection in relation to the nuclear transfer scheme and[^key-1acbc371aa7ed5255271c430b526c91f] who has not previously been owed a duty under either sub-paragraph (2) or paragraph 11(3), the scheme by reference to which paragraph 9(7) will apply to him immediately before the relevant time; and
+- (a) in the case of a person who is not entitled to reformed protection in relation to the nuclear transfer scheme and[^c-1acbc371aa7ed5255271c430b526c91f] who has not previously been owed a duty under either sub-paragraph (2) or paragraph 11(3), the scheme by reference to which paragraph 9(7) will apply to him immediately before the relevant time; and
 - (b) in other cases, the scheme by reference to which paragraph 9(7) applied to him immediately before the time that was the relevant time in relation to him on the first occasion on which he was owed such a duty;
 
 and the reference, in relation to such a person, to the provisions of that scheme is a reference to its provisions as in force immediately before the time specified in sub-paragraph (7).
 
 (7) That time is—
 
-- (za)[^key-7dc0a0e7d30e49fb955c3898fa8e4b57] in a case falling within sub-paragraph (6)(za), the relevant time in relation to the person on the first occasion on which the person was owed a duty under either sub-paragraph (2) or paragraph 11(3) after the making of amendments to the Section mentioned in paragraph 9A(1)(a) in pursuance of regulations under section 311 of the Energy Act 2023;
+- (za)[^c-7dc0a0e7d30e49fb955c3898fa8e4b57] in a case falling within sub-paragraph (6)(za), the relevant time in relation to the person on the first occasion on which the person was owed a duty under either sub-paragraph (2) or paragraph 11(3) after the making of amendments to the Section mentioned in paragraph 9A(1)(a) in pursuance of regulations under section 311 of the Energy Act 2023;
 - (zb) in a case falling within sub-paragraph (6)(zb), the relevant time in relation to the person on the first occasion on which the person was owed a duty under either sub-paragraph (2) or paragraph 11(3) after the making of amendments to the Section mentioned in paragraph 9A(1)(b) in pursuance of regulations under section 311 of the Energy Act 2023;
 - (a) in a case falling within sub-paragraph (6)(a), the relevant time; or
 - (b) in a case falling within sub-paragraph (6)(b), the relevant time in relation to the person on the first occasion on which he was owed a duty under either sub-paragraph (2) or paragraph 11(3).
@@ -399,7 +399,7 @@ this Part of this Schedule shall have effect in relation to that person as if th
 
 #### Protection on a transfer in accordance with transfer arrangements
 
-**11.**[^key-1bf5f1fc43f4fcd664ba53bbf8116064] (1) It shall be the duty of the NDA to secure that provision is made for ensuring that consultation with the persons specified in sub-paragraph (2) takes place before any transfer arrangements in relation to which persons are entitled to pension protection take effect.
+**11.**[^c-1bf5f1fc43f4fcd664ba53bbf8116064] (1) It shall be the duty of the NDA to secure that provision is made for ensuring that consultation with the persons specified in sub-paragraph (2) takes place before any transfer arrangements in relation to which persons are entitled to pension protection take effect.
 
 (2) Those persons are—
 
@@ -426,16 +426,16 @@ the benefits that are available under those provisions are no less favourable th
 
 (7) In sub-paragraph (6) the reference to the scheme in respect of which a person is entitled to protection under this Part of this Schedule is a reference to—
 
-- (za)[^key-6e5f9079858275ca0787d4aff2082642] in the case of a person entitled to reformed protection in relation to the transfer arrangements who falls within paragraph 9A(1)(a), the Section mentioned in paragraph 9A(1)(a);
+- (za)[^c-6e5f9079858275ca0787d4aff2082642] in the case of a person entitled to reformed protection in relation to the transfer arrangements who falls within paragraph 9A(1)(a), the Section mentioned in paragraph 9A(1)(a);
 - (zb) in the case of a person entitled to reformed protection in relation to the transfer arrangements who falls within paragraph 9A(1)(b), the Section mentioned in paragraph 9A(1)(b);
-- (a) in the case of a person who is not entitled to reformed protection in relation to the transfer arrangements and[^key-a2db71eae432ef800737a3cbc3bf3a20] who has not previously been owed a duty under either sub-paragraph (3) or paragraph 10(2), the scheme by reference to which paragraph 9(7) will apply to him immediately before the relevant time; and
+- (a) in the case of a person who is not entitled to reformed protection in relation to the transfer arrangements and[^c-a2db71eae432ef800737a3cbc3bf3a20] who has not previously been owed a duty under either sub-paragraph (3) or paragraph 10(2), the scheme by reference to which paragraph 9(7) will apply to him immediately before the relevant time; and
 - (b) in other cases, the scheme by reference to which paragraph 9(7) applied to him immediately before the time that was the relevant time in relation to him on the first occasion on which he was owed such a duty;
 
 and the reference, in relation to such a person, to the provisions of that scheme is a reference to its provisions as in force immediately before the time specified in sub-paragraph (8).
 
 (8) That time is—
 
-- (za)[^key-64cb222b034a4568747602e93d51c0e6] in a case falling within sub-paragraph (7)(za), the relevant time in relation to the person on the first occasion on which the person was owed a duty under either sub-paragraph (3) or paragraph 10(2) after the making of amendments to the Section mentioned in paragraph 9A(1)(a) in pursuance of regulations under section 311 of the Energy Act 2023;
+- (za)[^c-64cb222b034a4568747602e93d51c0e6] in a case falling within sub-paragraph (7)(za), the relevant time in relation to the person on the first occasion on which the person was owed a duty under either sub-paragraph (3) or paragraph 10(2) after the making of amendments to the Section mentioned in paragraph 9A(1)(a) in pursuance of regulations under section 311 of the Energy Act 2023;
 - (zb) in a case falling within sub-paragraph (7)(zb), the relevant time in relation to the person on the first occasion on which the person was owed a duty under either sub-paragraph (3) or paragraph 10(2) after the making of amendments to the Section mentioned in paragraph 9A(1)(b) in pursuance of regulations under section 311 of the Energy Act 2023;
 - (a) in a case falling within sub-paragraph (7)(a), the relevant time; or
 - (b) in a case falling within sub-paragraph (7)(b), the relevant time in relation to the person on the first occasion on which he was owed a duty under either sub-paragraph (3) or paragraph 10(2).
@@ -453,7 +453,7 @@ this Part of this Schedule shall have effect in relation to that person as if th
 
 #### Modification of NDA schemes
 
-**12.**[^key-15e298471d0d4aaf9447e29388c5af75] (1) The Secretary of State shall have power by direction to make such modifications of an NDA pension scheme as he considers appropriate for the purpose of securing—
+**12.**[^c-15e298471d0d4aaf9447e29388c5af75] (1) The Secretary of State shall have power by direction to make such modifications of an NDA pension scheme as he considers appropriate for the purpose of securing—
 
 - (a) in relation to any proposed transfer, or
 - (b) in relation to transfers that he considers may occur,
@@ -479,7 +479,7 @@ that the scheme will be an appropriate pension scheme for the purposes of paragr
 
 ### Part 5 — UKAEA pensions for employees of designated BNFL companies
 
-**13.**[^key-2c8818fc994b8129eb7cf64983077abb] (1) A UKAEA pension scheme may apply to employees of a designated BNFL company which is publicly controlled as it applies to persons to whom it applies apart from this paragraph.
+**13.**[^c-2c8818fc994b8129eb7cf64983077abb] (1) A UKAEA pension scheme may apply to employees of a designated BNFL company which is publicly controlled as it applies to persons to whom it applies apart from this paragraph.
 
 (2) The Secretary of State may, by direction, require the UKAEA to make such modifications of a UKAEA pension scheme as the Secretary of State considers appropriate in respect of the participation in such a scheme of employees of a designated BNFL company which is publicly controlled.
 
@@ -511,46 +511,46 @@ that the scheme will be an appropriate pension scheme for the purposes of paragr
 
 ## Annotations
 
-[^key-d0057a32d7fc6296730f80e14ef803a1]: Modification: [Sch. 8](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8): power to amend conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 315](https://www.legislation.gov.uk/ukpga/2023/52/section/315), [334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-d0057a32d7fc6296730f80e14ef803a1]: Modification: [Sch. 8](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8): power to amend conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 315](https://www.legislation.gov.uk/ukpga/2023/52/section/315), [334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
 
-[^key-bf8441ab69d8cb172f19e532d26ae799]: Commencement: Sch. 8 para. 1 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-bf8441ab69d8cb172f19e532d26ae799]: Commencement: Sch. 8 para. 1 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-1e8096a379b0dd627352231aee8839b4]: Textual amendment: Words in Sch. 8 para. 1(7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 220(10)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/220/10) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-1e8096a379b0dd627352231aee8839b4]: Textual amendment: Words in Sch. 8 para. 1(7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 220(10)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/220/10) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-0f98be8cb1ad181c97f63656fffa05bd]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/2) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-0f98be8cb1ad181c97f63656fffa05bd]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/2) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-fce55431719e36740838c7f1e29c10e6]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/3) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-fce55431719e36740838c7f1e29c10e6]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/3) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-f1020d148050818dc0f5a47311b02196]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/4) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-f1020d148050818dc0f5a47311b02196]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/4) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-26bb98d55530f4dda919d5d8e2bbe24f]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/5) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-26bb98d55530f4dda919d5d8e2bbe24f]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/5) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-50cb2da55cd234a45f9d4bec42192d90]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/6) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-50cb2da55cd234a45f9d4bec42192d90]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/6) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-825dfbde7d4a3a322ab70f5e14e7248c]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/7) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-825dfbde7d4a3a322ab70f5e14e7248c]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/7) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-afc95adece27de7bfce1c1022842f9cc]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/8) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-afc95adece27de7bfce1c1022842f9cc]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/8) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-4b0d09c907e08a1c2c24496bb350cf4e]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/9) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-4b0d09c907e08a1c2c24496bb350cf4e]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/9) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-6aab2325ebe587ca40ba1f24ac150cf2]: Textual amendment: [Sch. 8 para. 9A](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/9A) and cross-heading inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/2)
+[^c-6aab2325ebe587ca40ba1f24ac150cf2]: Textual amendment: [Sch. 8 para. 9A](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/9A) and cross-heading inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/2)
 
-[^key-67c57af3e3b65b38f1346d9d95933571]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/10) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-67c57af3e3b65b38f1346d9d95933571]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/10) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-218d9626ec3fd382bdf58b07b7df6dd6]: Textual amendment: [Sch. 8 para. 10(6)(za)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/10/6/za)[(zb)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/10/6/zb) inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/3/a/i)
+[^c-218d9626ec3fd382bdf58b07b7df6dd6]: Textual amendment: [Sch. 8 para. 10(6)(za)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/10/6/za)[(zb)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/10/6/zb) inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/3/a/i)
 
-[^key-1acbc371aa7ed5255271c430b526c91f]: Textual amendment: Words in [Sch. 8 para. 10(6)(a)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/10/6/a) inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/3/a/ii)
+[^c-1acbc371aa7ed5255271c430b526c91f]: Textual amendment: Words in [Sch. 8 para. 10(6)(a)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/10/6/a) inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/3/a/ii)
 
-[^key-7dc0a0e7d30e49fb955c3898fa8e4b57]: Textual amendment: [Sch. 8 para. 10(7)(za)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/10/7/za)[(zb)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/10/7/zb) inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/3/b)
+[^c-7dc0a0e7d30e49fb955c3898fa8e4b57]: Textual amendment: [Sch. 8 para. 10(7)(za)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/10/7/za)[(zb)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/10/7/zb) inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/3/b)
 
-[^key-1bf5f1fc43f4fcd664ba53bbf8116064]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/11) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-1bf5f1fc43f4fcd664ba53bbf8116064]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/11) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-6e5f9079858275ca0787d4aff2082642]: Textual amendment: [Sch. 8 para. 11(7)(za)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/11/7/za)[(zb)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/11/7/zb) inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/4/a/i)
+[^c-6e5f9079858275ca0787d4aff2082642]: Textual amendment: [Sch. 8 para. 11(7)(za)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/11/7/za)[(zb)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/11/7/zb) inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(4)(a)(i)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/4/a/i)
 
-[^key-a2db71eae432ef800737a3cbc3bf3a20]: Textual amendment: Words in [Sch. 8 para. 11(7)(a)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/11/7/a) inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/4/a/ii)
+[^c-a2db71eae432ef800737a3cbc3bf3a20]: Textual amendment: Words in [Sch. 8 para. 11(7)(a)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/11/7/a) inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/4/a/ii)
 
-[^key-64cb222b034a4568747602e93d51c0e6]: Textual amendment: [Sch. 8 para. 11(8)(za)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/11/8/za)[(zb)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/11/8/zb) inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/4/b)
+[^c-64cb222b034a4568747602e93d51c0e6]: Textual amendment: [Sch. 8 para. 11(8)(za)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/11/8/za)[(zb)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/11/8/zb) inserted (27.2.2024) by [The Nuclear Decommissioning Authority (Pension Scheme Amendment) Regulations 2024 (S.I. 2024/219)](https://www.legislation.gov.uk/uksi/2024/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/219/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2024/219/regulation/5/4/b)
 
-[^key-15e298471d0d4aaf9447e29388c5af75]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/12) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-15e298471d0d4aaf9447e29388c5af75]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/12) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-2c8818fc994b8129eb7cf64983077abb]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/13) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-2c8818fc994b8129eb7cf64983077abb]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2004/20/schedule/8/paragraph/13) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

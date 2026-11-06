@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.43. Orders[^key-976f131c8605b7925ea292e50a2b9c01]
+## 3.43. Orders[^c-976f131c8605b7925ea292e50a2b9c01]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-976f131c8605b7925ea292e50a2b9c01]: Textual amendment: Ch. 3 Pt. 6 omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(29)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/29) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-976f131c8605b7925ea292e50a2b9c01]: Textual amendment: Ch. 3 Pt. 6 omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(29)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/29) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

@@ -157,9 +157,9 @@ HAVE ADOPTED THIS REGULATION:
 - (b) their flight is cancelled;
 - (c) their flight is delayed.
 
-2.[^key-cc3d3fa0d1afe1b62a2b856bf1250354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-cc3d3fa0d1afe1b62a2b856bf1250354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-5e0c59e7d0816263a307bcbccc702bba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-5e0c59e7d0816263a307bcbccc702bba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 2. Definitions
 
@@ -167,9 +167,9 @@ For the purposes of this Regulation:
 
 - (a) "air carrier" means an air transport undertaking with a valid operating licence;
 - (b) "operating air carrier" means an air carrier that performs or intends to perform a flight under a contract with a passenger or on behalf of another person, legal or natural, having a contract with that passenger;
-- (c)[^key-807f163936d7b34dd8c7f40b8384aee4] ‘Community carrier’ means an air carrier with a valid operating licence granted by a Member State in accordance with Chapter II of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/eur/2008/1008) of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community as it has effect in EU law;
-- (d) "tour operator" means, with the exception of an air carrier, an organiser within the meaning of regulation 2(1) of the Package Travel and Linked Travel Arrangements Regulations 2018[^key-638b2d80129ebecafc5ffd6adb9162bc];
-- (e) "package" means those services defined in regulation 2(5) of the Package Travel and Linked Travel Arrangements Regulations 2018[^key-8599abb627f13d6355cabbdb9302d9fa];
+- (c)[^c-807f163936d7b34dd8c7f40b8384aee4] ‘Community carrier’ means an air carrier with a valid operating licence granted by a Member State in accordance with Chapter II of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/eur/2008/1008) of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community as it has effect in EU law;
+- (d) "tour operator" means, with the exception of an air carrier, an organiser within the meaning of regulation 2(1) of the Package Travel and Linked Travel Arrangements Regulations 2018[^c-638b2d80129ebecafc5ffd6adb9162bc];
+- (e) "package" means those services defined in regulation 2(5) of the Package Travel and Linked Travel Arrangements Regulations 2018[^c-8599abb627f13d6355cabbdb9302d9fa];
 - (f) "ticket" means a valid document giving entitlement to transport, or something equivalent in paperless form, including electronic form, issued or authorised by the air carrier or its authorised agent;
 - (g) "reservation" means the fact that the passenger has a ticket, or other proof, which indicates that the reservation has been accepted and registered by the air carrier or tour operator;
 - (h) "final destination" means the destination on the ticket presented at the check-in counter or, in the case of directly connecting flights, the destination of the last flight; alternative connecting flights available shall not be taken into account if the original planned arrival time is respected;
@@ -177,8 +177,8 @@ For the purposes of this Regulation:
 - (j) "denied boarding" means a refusal to carry passengers on a flight, although they have presented themselves for boarding under the conditions laid down in Article 3(2), except where there are reasonable grounds to deny them boarding, such as reasons of health, safety or security, or inadequate travel documentation;
 - (k) "volunteer" means a person who has presented himself for boarding under the conditions laid down in Article 3(2) and responds positively to the air carrier's call for passengers prepared to surrender their reservation in exchange for benefits.
 - (l) "cancellation" means the non-operation of a flight which was previously planned and on which at least one place was reserved.
-- (m)[^key-2c8931a2a85e5808a25f3be2a036926e] ‘UK air carrier’ means an air carrier with a valid operating licence granted by the Civil Aviation Authority in accordance with Chapter II of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/eur/2008/1008) of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the United Kingdom;
-- (n)[^key-6058594971ea83c12630e34210eca0af] “**arrival time**” means the time passengers are permitted to exit the aircraft upon reaching the final destination;
+- (m)[^c-2c8931a2a85e5808a25f3be2a036926e] ‘UK air carrier’ means an air carrier with a valid operating licence granted by the Civil Aviation Authority in accordance with Chapter II of Regulation [(EC) No 1008/2008](https://www.legislation.gov.uk/eur/2008/1008) of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the United Kingdom;
+- (n)[^c-6058594971ea83c12630e34210eca0af] “**arrival time**” means the time passengers are permitted to exit the aircraft upon reaching the final destination;
 - (o) “**extraordinary circumstances**” means circumstances which cause delay or cancellation and—
   - (a) that—
   - (i) by their nature or origin are not inherent in the normal exercise of the activity of the air carrier,
@@ -192,14 +192,14 @@ For the purposes of this Regulation:
 
 1. This Regulation shall apply:
 
-- (a) to passengers departing from an airport located in the United Kingdom[^key-5b648d3257e7cd93e4331664ada7e2d3];
-- (b)[^key-d408f190929c6a8affa68dfdcae8da40] to passengers departing from an airport located in a country other than the United Kingdom to an airport situated in—
+- (a) to passengers departing from an airport located in the United Kingdom[^c-5b648d3257e7cd93e4331664ada7e2d3];
+- (b)[^c-d408f190929c6a8affa68dfdcae8da40] to passengers departing from an airport located in a country other than the United Kingdom to an airport situated in—
   - (i) the United Kingdom if the operating air carrier of the flight concerned is a Community carrier or a UK air carrier; or
   - (ii) the territory of a Member State to which the Treaty applies if the operating air carrier of the flight concerned is a UK air carrier,
 
   unless the passengers received benefits or compensation and were given assistance in that other country.
 
-1A.[^key-da2bb9a492e520f14dd8cefe58da9cd1] For the purposes of this Regulation a flight comprised of more than one leg shall be treated—
+1A.[^c-da2bb9a492e520f14dd8cefe58da9cd1] For the purposes of this Regulation a flight comprised of more than one leg shall be treated—
 
 - (a) as a whole, if it was booked as a single unit, and
 - (b) as departing from the point of departure of the first leg.
@@ -220,9 +220,9 @@ For the purposes of this Regulation:
 
 5. This Regulation shall apply to any operating air carrier providing transport to passengers covered by paragraphs 1 and 2. Where an operating air carrier which has no contract with the passenger performs obligations under this Regulation, it shall be regarded as doing so on behalf of the person having a contract with that passenger.
 
-6. This Regulation shall not affect the rights of passengers under the Package Travel and Linked Travel Arrangements Regulations 2018[^key-024465e8317aa6d2fa196be60b085606]. This Regulation shall not apply in cases where a package tour is cancelled for reasons other than cancellation of the flight.
+6. This Regulation shall not affect the rights of passengers under the Package Travel and Linked Travel Arrangements Regulations 2018[^c-024465e8317aa6d2fa196be60b085606]. This Regulation shall not apply in cases where a package tour is cancelled for reasons other than cancellation of the flight.
 
-7.[^key-828279f63a37f3685b20f074a98c5a8e] An obligation to pay compensation or offer assistance in accordance with Articles 7 to 9 does not constitute a liability for damage occasioned by delay for the purposes of Article 19 of the Montreal Convention.
+7.[^c-828279f63a37f3685b20f074a98c5a8e] An obligation to pay compensation or offer assistance in accordance with Articles 7 to 9 does not constitute a liability for damage occasioned by delay for the purposes of Article 19 of the Montreal Convention.
 
 8. An action to enforce an obligation to pay compensation or offer assistance in accordance with Articles 7 to 9 does not constitute an action for damages for the purposes of Article 29 of the Montreal Convention.
 
@@ -258,7 +258,7 @@ For the purposes of this Regulation:
 1. When an operating air carrier reasonably expects a flight to be delayed beyond its scheduled time of departure:
 
 - (a) for two hours or more in the case of flights of 1500 kilometres or less; or
-- (b) for three hours or more in the case of all [^key-23ca3c36e7cc61dfd7c49e7357d27e98]... flights between 1500 and 3500 kilometres; or
+- (b) for three hours or more in the case of all [^c-23ca3c36e7cc61dfd7c49e7357d27e98]... flights between 1500 and 3500 kilometres; or
 - (c) for four hours or more in the case of all flights not falling under (a) or (b), passengers shall be offered by the operating air carrier:
   - (i) the assistance specified in Article 9(1)(a) and 9(2); and
   - (ii) when the reasonably expected time of departure is at least the day after the time of departure previously announced, the assistance specified in Article 9(1)(b) and 9(1)(c); and
@@ -266,24 +266,24 @@ For the purposes of this Regulation:
 
 2. In any event, the assistance shall be offered within the time limits set out above with respect to each distance bracket.
 
-3.[^key-293f8278c18c8a102f44db047ebdd334] In case of a delay of three hours or more in reaching the final destination, the passengers concerned have the right to compensation laid down in Article 7.
+3.[^c-293f8278c18c8a102f44db047ebdd334] In case of a delay of three hours or more in reaching the final destination, the passengers concerned have the right to compensation laid down in Article 7.
 
 4. An operating air carrier shall not be obliged to pay compensation in accordance with Article 7, if it can prove that the delay is caused by extraordinary circumstances which could not have been avoided even if all reasonable measures had been taken.
 
 ## Article 7. Right to compensation
 
-1.[^key-a568b2dd96e52647022493c82a75467e] Where reference is made to this Article, passengers shall receive compensation amounting to—
+1.[^c-a568b2dd96e52647022493c82a75467e] Where reference is made to this Article, passengers shall receive compensation amounting to—
 
 - (a) £220 for all flights of 1500 kilometres or less;
 - (b) £350 for all flights between 1500 and 3500 kilometres;
 - (c) £520 for all flights not falling under (a) or (b).
 
-In determining the distance, the basis shall be the last destination at which the denial of boarding , delay[^key-1da6c35c8ffc601b961656e8a093c638] or cancellation will delay the passenger's arrival after the scheduled time.
+In determining the distance, the basis shall be the last destination at which the denial of boarding , delay[^c-1da6c35c8ffc601b961656e8a093c638] or cancellation will delay the passenger's arrival after the scheduled time.
 
 2. When passengers are offered re-routing to their final destination on an alternative flight pursuant to Article 8, the arrival time of which does not exceed the scheduled arrival time of the flight originally booked
 
 - (a) by two hours, in respect of all flights of 1500 kilometres or less; or
-- (b) by three hours, in respect of all [^key-27adb8655dae0797be6a7efc2ae70a97]... flights between 1500 and 3500 kilometres; or
+- (b) by three hours, in respect of all [^c-27adb8655dae0797be6a7efc2ae70a97]... flights between 1500 and 3500 kilometres; or
 - (c) by four hours, in respect of all flights not falling under (a) or (b), the operating air carrier may reduce the compensation provided for in paragraph 1 by 50 %.
 
 3. The compensation referred to in paragraph 1 shall be paid in cash, by electronic bank transfer, bank orders or bank cheques or, with the signed agreement of the passenger, in travel vouchers and/or other services.
@@ -300,7 +300,7 @@ In determining the distance, the basis shall be the last destination at which th
 - (b) re-routing, under comparable transport conditions, to their final destination at the earliest opportunity; or
 - (c) re-routing, under comparable transport conditions, to their final destination at a later date at the passenger's convenience, subject to availability of seats.
 
-2. Paragraph 1(a) shall also apply to passengers whose flights form part of a package, except for the right to reimbursement where such right arises under the Package Travel and Linked Travel Arrangements Regulations 2018[^key-8819de7b6f9a8fb33ea3ee1e323b2342].
+2. Paragraph 1(a) shall also apply to passengers whose flights form part of a package, except for the right to reimbursement where such right arises under the Package Travel and Linked Travel Arrangements Regulations 2018[^c-8819de7b6f9a8fb33ea3ee1e323b2342].
 
 3. When, in the case where a town, city or region is served by several airports, an operating air carrier offers a passenger a flight to an airport alternative to that for which the booking was made, the operating air carrier shall bear the cost of transferring the passenger from that alternative airport either to that for which the booking was made, or to another close-by destination agreed with the passenger.
 
@@ -325,8 +325,8 @@ In determining the distance, the basis shall be the last destination at which th
 2. If an operating air carrier places a passenger in a class lower than that for which the ticket was purchased, it shall within seven days, by the means provided for in Article 7(3), reimburse
 
 - (a) 30 % of the price of the ticket for all flights of 1500 kilometres or less, or
-- (b) 50 % of the price of the ticket for all [^key-207c70f4a306d5f81714c2df64846451]... flights between 1500 and 3500 kilometres, or
-- (c) 75 % of the price of the ticket for all flights not falling under (a) or (b) [^key-e0c8718ad4b91627cf0c7d1884bfc925]....
+- (b) 50 % of the price of the ticket for all [^c-207c70f4a306d5f81714c2df64846451]... flights between 1500 and 3500 kilometres, or
+- (c) 75 % of the price of the ticket for all flights not falling under (a) or (b) [^c-e0c8718ad4b91627cf0c7d1884bfc925]....
 
 ## Article 11. Persons with reduced mobility or special needs
 
@@ -360,13 +360,13 @@ In cases where an operating air carrier pays compensation or meets the other obl
 
 ## Article 16. Infringements
 
-1.[^key-1aecd1ba2c942face13d1caf5acb3abc] A body designated under the Civil Aviation (Denied Boarding, Compensation and Assistance) Regulations 2005 for the purposes of this paragraph is responsible for the enforcement of this Regulation. Where appropriate, this body shall take the measures necessary to ensure that the rights of passengers are respected.
+1.[^c-1aecd1ba2c942face13d1caf5acb3abc] A body designated under the Civil Aviation (Denied Boarding, Compensation and Assistance) Regulations 2005 for the purposes of this paragraph is responsible for the enforcement of this Regulation. Where appropriate, this body shall take the measures necessary to ensure that the rights of passengers are respected.
 
 2. Without prejudice to Article 12, each passenger may complain to any body designated for the purposes of paragraph 1 or to a body designated for the purposes of this paragraph, about an alleged infringement of this Regulation.
 
-3.[^key-7c53680e7b2bbd5fb5c8d1496e1b523a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-7c53680e7b2bbd5fb5c8d1496e1b523a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Report[^key-58764da51cd47a222aae3079c1c8e241]
+## Article 17. Report[^c-58764da51cd47a222aae3079c1c8e241]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -378,7 +378,7 @@ Regulation (EEC) No 295/91 shall be repealed.
 
 This Regulation shall enter into force on 17 February 2005.
 
-[^key-b9fdd8e20589e5f2fb52e996487de947]...
+[^c-b9fdd8e20589e5f2fb52e996487de947]...
 
 Done at Strasbourg, 11 February 2004.
 
@@ -408,50 +408,50 @@ The Commission recalls its intention to promote voluntary agreements or to make 
 
 [^f00004]: Footnote: OJ L 36, 8.2.1991, p. 5.
 
-[^key-cc3d3fa0d1afe1b62a2b856bf1250354]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eur/2004/261/article/1/2) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc3d3fa0d1afe1b62a2b856bf1250354]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eur/2004/261/article/1/2) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5e0c59e7d0816263a307bcbccc702bba]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eur/2004/261/article/1/3) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e0c59e7d0816263a307bcbccc702bba]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eur/2004/261/article/1/3) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-807f163936d7b34dd8c7f40b8384aee4]: Textual amendment: [Art. 2(c)](https://www.legislation.gov.uk/eur/2004/261/article/2/c) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-807f163936d7b34dd8c7f40b8384aee4]: Textual amendment: [Art. 2(c)](https://www.legislation.gov.uk/eur/2004/261/article/2/c) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-638b2d80129ebecafc5ffd6adb9162bc]: Textual amendment: Words in [Art. 2(d)](https://www.legislation.gov.uk/eur/2004/261/article/2/d) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-638b2d80129ebecafc5ffd6adb9162bc]: Textual amendment: Words in [Art. 2(d)](https://www.legislation.gov.uk/eur/2004/261/article/2/d) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(3)(b)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8599abb627f13d6355cabbdb9302d9fa]: Textual amendment: Words in [Art. 2(e)](https://www.legislation.gov.uk/eur/2004/261/article/2/e) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(3)(c)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8599abb627f13d6355cabbdb9302d9fa]: Textual amendment: Words in [Art. 2(e)](https://www.legislation.gov.uk/eur/2004/261/article/2/e) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(3)(c)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c8931a2a85e5808a25f3be2a036926e]: Textual amendment: [Art. 2(m)](https://www.legislation.gov.uk/eur/2004/261/article/2/m) inserted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(3)(d)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c8931a2a85e5808a25f3be2a036926e]: Textual amendment: [Art. 2(m)](https://www.legislation.gov.uk/eur/2004/261/article/2/m) inserted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(3)(d)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6058594971ea83c12630e34210eca0af]: Textual amendment: Art. 2(n)-(q) inserted (14.12.2023) by [The Aviation (Consumers) (Amendment) Regulations 2023 (S.I. 2023/1370)](https://www.legislation.gov.uk/uksi/2023/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/2/2)
+[^c-6058594971ea83c12630e34210eca0af]: Textual amendment: Art. 2(n)-(q) inserted (14.12.2023) by [The Aviation (Consumers) (Amendment) Regulations 2023 (S.I. 2023/1370)](https://www.legislation.gov.uk/uksi/2023/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/2/2)
 
-[^key-5b648d3257e7cd93e4331664ada7e2d3]: Textual amendment: Words in [Art. 3(1)(a)](https://www.legislation.gov.uk/eur/2004/261/article/3/1/a) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b648d3257e7cd93e4331664ada7e2d3]: Textual amendment: Words in [Art. 3(1)(a)](https://www.legislation.gov.uk/eur/2004/261/article/3/1/a) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(4)(a)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d408f190929c6a8affa68dfdcae8da40]: Textual amendment: [Art. 3(1)(b)](https://www.legislation.gov.uk/eur/2004/261/article/3/1/b) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(4)(b)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d408f190929c6a8affa68dfdcae8da40]: Textual amendment: [Art. 3(1)(b)](https://www.legislation.gov.uk/eur/2004/261/article/3/1/b) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(4)(b)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-da2bb9a492e520f14dd8cefe58da9cd1]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/eur/2004/261/article/3/1A) inserted (14.12.2023) by [The Aviation (Consumers) (Amendment) Regulations 2023 (S.I. 2023/1370)](https://www.legislation.gov.uk/uksi/2023/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/2/3)
+[^c-da2bb9a492e520f14dd8cefe58da9cd1]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/eur/2004/261/article/3/1A) inserted (14.12.2023) by [The Aviation (Consumers) (Amendment) Regulations 2023 (S.I. 2023/1370)](https://www.legislation.gov.uk/uksi/2023/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/2/3)
 
-[^key-024465e8317aa6d2fa196be60b085606]: Textual amendment: Words in [Art. 3(6)](https://www.legislation.gov.uk/eur/2004/261/article/3/6) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(4)(c)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-024465e8317aa6d2fa196be60b085606]: Textual amendment: Words in [Art. 3(6)](https://www.legislation.gov.uk/eur/2004/261/article/3/6) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(4)(c)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-828279f63a37f3685b20f074a98c5a8e]: Textual amendment: [Art. 3(7)-(9)](https://www.legislation.gov.uk/eur/2004/261/article/3/7) inserted (14.12.2023) by [The Aviation (Consumers) (Amendment) Regulations 2023 (S.I. 2023/1370)](https://www.legislation.gov.uk/uksi/2023/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/2/4)
+[^c-828279f63a37f3685b20f074a98c5a8e]: Textual amendment: [Art. 3(7)-(9)](https://www.legislation.gov.uk/eur/2004/261/article/3/7) inserted (14.12.2023) by [The Aviation (Consumers) (Amendment) Regulations 2023 (S.I. 2023/1370)](https://www.legislation.gov.uk/uksi/2023/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/2/4)
 
-[^key-23ca3c36e7cc61dfd7c49e7357d27e98]: Textual amendment: Words in [Art. 6(1)(b)](https://www.legislation.gov.uk/eur/2004/261/article/6/1/b) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23ca3c36e7cc61dfd7c49e7357d27e98]: Textual amendment: Words in [Art. 6(1)(b)](https://www.legislation.gov.uk/eur/2004/261/article/6/1/b) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-293f8278c18c8a102f44db047ebdd334]: Textual amendment: [Art. 6(3)](https://www.legislation.gov.uk/eur/2004/261/article/6/3)[(4)](https://www.legislation.gov.uk/eur/2004/261/article/6/4) inserted (14.12.2023) by [The Aviation (Consumers) (Amendment) Regulations 2023 (S.I. 2023/1370)](https://www.legislation.gov.uk/uksi/2023/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/2/5)
+[^c-293f8278c18c8a102f44db047ebdd334]: Textual amendment: [Art. 6(3)](https://www.legislation.gov.uk/eur/2004/261/article/6/3)[(4)](https://www.legislation.gov.uk/eur/2004/261/article/6/4) inserted (14.12.2023) by [The Aviation (Consumers) (Amendment) Regulations 2023 (S.I. 2023/1370)](https://www.legislation.gov.uk/uksi/2023/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/2/5)
 
-[^key-a568b2dd96e52647022493c82a75467e]: Textual amendment: [Art. 7(1)](https://www.legislation.gov.uk/eur/2004/261/article/7/1) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(6)(a)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a568b2dd96e52647022493c82a75467e]: Textual amendment: [Art. 7(1)](https://www.legislation.gov.uk/eur/2004/261/article/7/1) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(6)(a)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1da6c35c8ffc601b961656e8a093c638]: Textual amendment: Word in [Art. 7(1)](https://www.legislation.gov.uk/eur/2004/261/article/7/1) inserted (14.12.2023) by [The Aviation (Consumers) (Amendment) Regulations 2023 (S.I. 2023/1370)](https://www.legislation.gov.uk/uksi/2023/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/2/6)
+[^c-1da6c35c8ffc601b961656e8a093c638]: Textual amendment: Word in [Art. 7(1)](https://www.legislation.gov.uk/eur/2004/261/article/7/1) inserted (14.12.2023) by [The Aviation (Consumers) (Amendment) Regulations 2023 (S.I. 2023/1370)](https://www.legislation.gov.uk/uksi/2023/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2023/1370/regulation/2/6)
 
-[^key-27adb8655dae0797be6a7efc2ae70a97]: Textual amendment: Words in [Art. 7(2)(b)](https://www.legislation.gov.uk/eur/2004/261/article/7/2/b) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(6)(b)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27adb8655dae0797be6a7efc2ae70a97]: Textual amendment: Words in [Art. 7(2)(b)](https://www.legislation.gov.uk/eur/2004/261/article/7/2/b) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(6)(b)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8819de7b6f9a8fb33ea3ee1e323b2342]: Textual amendment: Words in [Art. 8(2)](https://www.legislation.gov.uk/eur/2004/261/article/8/2) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(7)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8819de7b6f9a8fb33ea3ee1e323b2342]: Textual amendment: Words in [Art. 8(2)](https://www.legislation.gov.uk/eur/2004/261/article/8/2) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(7)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-207c70f4a306d5f81714c2df64846451]: Textual amendment: Words in [Art. 10(2)(b)](https://www.legislation.gov.uk/eur/2004/261/article/10/2/b) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(8)(a)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-207c70f4a306d5f81714c2df64846451]: Textual amendment: Words in [Art. 10(2)(b)](https://www.legislation.gov.uk/eur/2004/261/article/10/2/b) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(8)(a)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e0c8718ad4b91627cf0c7d1884bfc925]: Textual amendment: Words in [Art. 10(2)(c)](https://www.legislation.gov.uk/eur/2004/261/article/10/2/c) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(8)(b)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e0c8718ad4b91627cf0c7d1884bfc925]: Textual amendment: Words in [Art. 10(2)(c)](https://www.legislation.gov.uk/eur/2004/261/article/10/2/c) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(8)(b)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1aecd1ba2c942face13d1caf5acb3abc]: Textual amendment: Art. 16(1)(2) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(9)(a)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1aecd1ba2c942face13d1caf5acb3abc]: Textual amendment: Art. 16(1)(2) substituted (31.12.2020) by [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(9)(a)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7c53680e7b2bbd5fb5c8d1496e1b523a]: Textual amendment: Art. 16(3) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(9)(b)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c53680e7b2bbd5fb5c8d1496e1b523a]: Textual amendment: Art. 16(3) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(9)(b)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-58764da51cd47a222aae3079c1c8e241]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/eur/2004/261/article/17) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(10)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58764da51cd47a222aae3079c1c8e241]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/eur/2004/261/article/17) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(10)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b9fdd8e20589e5f2fb52e996487de947]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2004/261/signature) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(11)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9fdd8e20589e5f2fb52e996487de947]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2004/261/signature) omitted (31.12.2020) by virtue of [The Air Passenger Rights and Air Travel Organisers' Licensing (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/278)](https://www.legislation.gov.uk/uksi/2019/278), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/278/regulation/1/3), [8(11)](https://www.legislation.gov.uk/uksi/2019/278/regulation/8/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

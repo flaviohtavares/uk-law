@@ -22,11 +22,11 @@ summary: ''
 
 Article 34
 
-### 1. Application[^key-ed476d429ffb64ed8a3599d0b777d4eb]
+### 1. Application[^c-ed476d429ffb64ed8a3599d0b777d4eb]
 
 For the protection of National Grid referred to in this Schedule the following provisions, unless otherwise agreed between the undertaker and National Grid, have effect.
 
-### 2. Interpretation[^key-70c2a131059a5e3af5aa6f9430c550bd]
+### 2. Interpretation[^c-70c2a131059a5e3af5aa6f9430c550bd]
 
 In this Schedule—
 
@@ -39,9 +39,9 @@ In this Schedule—
 - “National Grid” means National Grid Electricity Transmission Plc (company number 2366977), registered at 1-3 Strand, London WC2N 5EH) being a licence holder within the meaning of Part 1 of the Electricity Act 1989; and
 - “plan” or “plans” include all designs, drawings, specifications, method statements, soil reports, programmes, calculations, risk assessments and other documents that are reasonably necessary properly and sufficiently to describe and assess the works to be executed.
 
-**3.**[^key-5b93e4b9c589efb24f7e204969b5bc87] Except for paragraphs 7 (retained apparatus: protection) and 8 (expenses) which apply in respect of the exercise of all or any powers under this Order affecting the rights and apparatus of National Grid, the provisions of this Schedule do not apply to apparatus in respect of which the relations between the undertaker and National Grid are regulated by the provisions of Part 3 of the 1991 Act.
+**3.**[^c-5b93e4b9c589efb24f7e204969b5bc87] Except for paragraphs 7 (retained apparatus: protection) and 8 (expenses) which apply in respect of the exercise of all or any powers under this Order affecting the rights and apparatus of National Grid, the provisions of this Schedule do not apply to apparatus in respect of which the relations between the undertaker and National Grid are regulated by the provisions of Part 3 of the 1991 Act.
 
-### 4. Acquisition of land[^key-996ba9bc8c3088025ffa3b3ac64d08ca]
+### 4. Acquisition of land[^c-996ba9bc8c3088025ffa3b3ac64d08ca]
 
 (1) Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference, the undertaker must not acquire any land interest or apparatus or override any easement or other interest of National Grid otherwise than by agreement.
 
@@ -49,7 +49,7 @@ In this Schedule—
 
 (3) Where there is any inconsistency or duplication between the provisions set out in this Schedule relating to the relocation or removal of apparatus (including but not limited to the payment of costs and expenses relating to such relocation or removal of apparatus) and the provisions of any existing easement, rights, agreements and licences granted, used, enjoyed or exercised by National Grid or other enactments relied upon by National Grid as of right or other use in relation to the apparatus, then the provisions in this Schedule prevail.
 
-### 5. Removal of apparatus[^key-4d0e0a2a895f613a30c2ff6e5bc9f924]
+### 5. Removal of apparatus[^c-4d0e0a2a895f613a30c2ff6e5bc9f924]
 
 (1) If, in the exercise of the agreement reached in accordance with paragraph 4 or in any other authorised manner, the undertaker acquires any interest in any land in which any apparatus is placed, that apparatus must not be removed under this Schedule and any right of National Grid to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed, and is in operation to the reasonable satisfaction of the National Grid in accordance with sub-paragraphs (2) to (5).
 
@@ -64,13 +64,13 @@ In this Schedule—
 
 (5) National Grid must, after the alternative apparatus to be provided or constructed has been agreed, and subject to the grant to National Grid of any such facilities and rights as are referred to in sub-paragraphs (2) or (3), proceed without unnecessary delay to construct and bring into operation the alternative apparatus and subsequently to remove any apparatus required by the promoter to be removed under the provisions of this Schedule.
 
-### 6. Facilities and rights for alternative apparatus[^key-f9f1c07ccd8396add65d9d40c8a9875c]
+### 6. Facilities and rights for alternative apparatus[^c-f9f1c07ccd8396add65d9d40c8a9875c]
 
 (1) Where, in accordance with the provisions of this Schedule, the undertaker affords to or secures for National Grid facilities and rights in land for the construction, use, maintenance and protection of alternative apparatus in substitution for apparatus to be removed, those facilities and rights must be granted upon such terms and conditions as may be agreed between National Grid and the undertaker and must be no less favourable on the whole to National Grid than the facilities and rights enjoyed by it in respect of the apparatus to be removed unless otherwise agreed by National Grid.
 
 (2) If the facilities and rights to be afforded by the undertaker and agreed with National Grid under sub-paragraph (1) in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are less favourable on the whole to National Grid than the facilities and rights enjoyed by it in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject, then the matter must be referred to arbitration in accordance with paragraph 13 (arbitration), and the arbitrator must make such provision for the payment of compensation by the undertaker to National Grid as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-### 7. Retained apparatus: protection[^key-bcc93fb346ccae237706fb0a3c6ff874]
+### 7. Retained apparatus: protection[^c-bcc93fb346ccae237706fb0a3c6ff874]
 
 (1) Not less than 56 days before the commencement of any authorised works that are near to, or will or may affect, any apparatus the removal of which has not been required by the undertaker under paragraph 5(2) or otherwise, the undertaker must submit to National Grid a plan of the works to be executed and seek from National Grid details of the underground extent of their electricity tower foundations if relevant.
 
@@ -124,7 +124,7 @@ the plan to be submitted to National Grid under sub-paragraph (1) must include a
 
 (12) At all times when carrying out any works authorised under the Order, the undertaker must comply with National Grid’s policies for development near overhead lines EN43-8 and HSE’s guidance note 6 “Avoidance of Danger from Overhead Lines”.
 
-### 8. Expenses[^key-6dddb85c6fade32c4e8e9ad71e27ff6c]
+### 8. Expenses[^c-6dddb85c6fade32c4e8e9ad71e27ff6c]
 
 (1) Subject to the following provisions of this paragraph, the undertaker must pay to National Grid on demand all charges, costs and expenses reasonably anticipated or incurred by National Grid in, or in connection with, the inspection, removal, relaying or replacing, alteration or protection of any apparatus or the construction of any new or alternative apparatus which may be required in consequence of the execution of any authorised works as are referred to in this Schedule including without limitation—
 
@@ -151,7 +151,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) An amount which apart from this sub-paragraph would be payable to National Grid in respect of works by virtue of sub-paragraph (1), if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on National Grid any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, is to be reduced by the amount which represents that benefit.
 
-### 9. Indemnity[^key-a79b05e90f2481166d172d30b16ecb9d]
+### 9. Indemnity[^c-a79b05e90f2481166d172d30b16ecb9d]
 
 (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works authorised by this Schedule or in consequence of the construction, use, maintenance or failure of any of the authorised development by or on behalf of the undertaker or in consequence of any act or default of the undertaker (or any person employed or authorised by the undertaker) in the course of carrying out such works, including without limitation works carried out by the undertaker under this Schedule or any subsidence resulting from any of these works, any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of National Grid, or there is any interruption in any service provided, or in the supply of any goods, by National Grid, or National Grid becomes liable to pay any amount to any third party, the undertaker must—
 
@@ -167,7 +167,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (4) National Grid must give the undertaker reasonable notice of any such third party claim or demand and no settlement or compromise is to be made without first consulting the undertaker and considering their representations.
 
-### 10. Ground subsidence monitoring scheme in respect of National Grid’s apparatus[^key-4699bf3928420b197dd04feaeadd70d0]
+### 10. Ground subsidence monitoring scheme in respect of National Grid’s apparatus[^c-4699bf3928420b197dd04feaeadd70d0]
 
 (1) Any authorised works within 100 metres of any apparatus or alternative apparatus capable of interfering with or risking damage to National Grid’s apparatus must not commence until a scheme for monitoring ground subsidence (referred to in this paragraph as “the monitoring scheme”) has been submitted to and approved by National Grid, such approval not to be unreasonably withheld or delayed.
 
@@ -185,25 +185,25 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) If the monitoring scheme or mitigation scheme would conflict with any aspect of any ground subsidence monitoring scheme or ground subsidence mitigation scheme approved by the local planning authority under Schedule 2 (requirements) the undertaker may submit a revised monitoring scheme or mitigation scheme to National Grid for its approval, such approval not to be unreasonably withheld or delayed; and the revised monitoring scheme or mitigation scheme must be implemented as approved, unless otherwise agreed in writing with National Grid.
 
-### 11. Enactments and agreements[^key-b984b81dbc342ffef9d4726a150bdbab]
+### 11. Enactments and agreements[^c-b984b81dbc342ffef9d4726a150bdbab]
 
 Except to the extent provided for to the contrary elsewhere in this Schedule or by agreement in writing between the undertaker and National Grid, nothing in this Schedule affects the provisions of any enactment or agreement regulating the relations between National Grid and the undertaker in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
-### 12. Co-operation[^key-111889d5825cc0a6cc54d7a514934e42]
+### 12. Co-operation[^c-111889d5825cc0a6cc54d7a514934e42]
 
 (1) Where in consequence of the proposed construction of any of the authorised development, National Grid or the undertaker requires the removal of apparatus under paragraph 5(2) or National Grid makes requirements for the protection or alteration of apparatus under paragraph 7, the undertaker must use its reasonable endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised development and taking into account the need to ensure the safe and efficient operation of National Grid’s undertaking and National Grid must use its reasonable endeavours to co-operate with the undertaker for that purpose.
 
 (2) For the avoidance of doubt whenever National Grid’s consent, agreement or approval to is required in relation to plans, documents or other information submitted by the undertaker or the taking of action by the undertaker, it must not be unreasonably withheld or delayed.
 
-### 13. Access[^key-7e65f997ca4c001292320855572b5a1d]
+### 13. Access[^c-7e65f997ca4c001292320855572b5a1d]
 
 If in consequence of the agreement reached in accordance with paragraph 4(1) or the powers granted under this Order the access to any apparatus is materially obstructed, the undertaker must provide such alternative means of access to such apparatus as will enable National Grid to maintain or use the apparatus no less effectively than was possible before such obstruction.
 
-### 14. Arbitration[^key-4a12af4562b07232167946779ce97bba]
+### 14. Arbitration[^c-4a12af4562b07232167946779ce97bba]
 
 Except for differences or disputes arising under paragraphs 5(2), 5(4), 6(1), 7 and 9(5) any difference or dispute arising between National Grid and the undertaker under this Schedule must, unless otherwise agreed in writing between National Grid and the undertaker, be determined by arbitration in accordance with article 40 (arbitration).
 
-### 15. Approval of Requirements[^key-6f12165cbfadac42ec521f94ac3d7430]
+### 15. Approval of Requirements[^c-6f12165cbfadac42ec521f94ac3d7430]
 
 The undertaker must—
 
@@ -213,34 +213,34 @@ The undertaker must—
 
 ## Annotations
 
-[^key-ed476d429ffb64ed8a3599d0b777d4eb]: Commencement: Sch. 8 para. 1 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-ed476d429ffb64ed8a3599d0b777d4eb]: Commencement: Sch. 8 para. 1 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-70c2a131059a5e3af5aa6f9430c550bd]: Commencement: Sch. 8 para. 2 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-70c2a131059a5e3af5aa6f9430c550bd]: Commencement: Sch. 8 para. 2 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
 [^f00039]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-5b93e4b9c589efb24f7e204969b5bc87]: Commencement: Sch. 8 para. 3 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-5b93e4b9c589efb24f7e204969b5bc87]: Commencement: Sch. 8 para. 3 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-996ba9bc8c3088025ffa3b3ac64d08ca]: Commencement: Sch. 8 para. 4 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-996ba9bc8c3088025ffa3b3ac64d08ca]: Commencement: Sch. 8 para. 4 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-4d0e0a2a895f613a30c2ff6e5bc9f924]: Commencement: Sch. 8 para. 5 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-4d0e0a2a895f613a30c2ff6e5bc9f924]: Commencement: Sch. 8 para. 5 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-f9f1c07ccd8396add65d9d40c8a9875c]: Commencement: Sch. 8 para. 6 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-f9f1c07ccd8396add65d9d40c8a9875c]: Commencement: Sch. 8 para. 6 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-bcc93fb346ccae237706fb0a3c6ff874]: Commencement: Sch. 8 para. 7 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-bcc93fb346ccae237706fb0a3c6ff874]: Commencement: Sch. 8 para. 7 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-6dddb85c6fade32c4e8e9ad71e27ff6c]: Commencement: Sch. 8 para. 8 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-6dddb85c6fade32c4e8e9ad71e27ff6c]: Commencement: Sch. 8 para. 8 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-a79b05e90f2481166d172d30b16ecb9d]: Commencement: Sch. 8 para. 9 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-a79b05e90f2481166d172d30b16ecb9d]: Commencement: Sch. 8 para. 9 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-4699bf3928420b197dd04feaeadd70d0]: Commencement: Sch. 8 para. 10 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-4699bf3928420b197dd04feaeadd70d0]: Commencement: Sch. 8 para. 10 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-b984b81dbc342ffef9d4726a150bdbab]: Commencement: Sch. 8 para. 11 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-b984b81dbc342ffef9d4726a150bdbab]: Commencement: Sch. 8 para. 11 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-111889d5825cc0a6cc54d7a514934e42]: Commencement: Sch. 8 para. 12 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-111889d5825cc0a6cc54d7a514934e42]: Commencement: Sch. 8 para. 12 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-7e65f997ca4c001292320855572b5a1d]: Commencement: Sch. 8 para. 13 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-7e65f997ca4c001292320855572b5a1d]: Commencement: Sch. 8 para. 13 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-4a12af4562b07232167946779ce97bba]: Commencement: Sch. 8 para. 14 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-4a12af4562b07232167946779ce97bba]: Commencement: Sch. 8 para. 14 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-6f12165cbfadac42ec521f94ac3d7430]: Commencement: Sch. 8 para. 15 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-6f12165cbfadac42ec521f94ac3d7430]: Commencement: Sch. 8 para. 15 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

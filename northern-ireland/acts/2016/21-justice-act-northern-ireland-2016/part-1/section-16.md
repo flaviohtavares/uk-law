@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Enquiries into debtor's means[^key-275dcecc35e5a743dfbe3d1d0f030056]
+## 16. Enquiries into debtor's means[^c-275dcecc35e5a743dfbe3d1d0f030056]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-275dcecc35e5a743dfbe3d1d0f030056]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/21/section/16) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-275dcecc35e5a743dfbe3d1d0f030056]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/21/section/16) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

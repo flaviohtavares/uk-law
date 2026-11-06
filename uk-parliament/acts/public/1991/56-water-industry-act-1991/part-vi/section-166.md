@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Consents for certain discharges under section 165.[^key-bc0ec8baa93d51f5f03b997fafbc26ff]
+## 166. Consents for certain discharges under section 165.[^c-bc0ec8baa93d51f5f03b997fafbc26ff]
 
 *Extent: E+W*
 
-(1) Except in an emergency, no discharge through any pipe the diameter of which exceeds two hundred and twenty-nine millimetres shall be made under section 165 above except with the consent of the appropriate agency[^key-17dcabd89b023c08df952c8f8a953e5e] and of any navigation authority which carries out functions in relation to—
+(1) Except in an emergency, no discharge through any pipe the diameter of which exceeds two hundred and twenty-nine millimetres shall be made under section 165 above except with the consent of the appropriate agency[^c-17dcabd89b023c08df952c8f8a953e5e] and of any navigation authority which carries out functions in relation to—
 
 - (a) the part of the watercourse where the discharge is made; or
 - (b) any part of that watercourse which is less than three miles downstream from the place of the discharge.
@@ -63,17 +63,17 @@ on every person on whom that undertaker would have been required to serve the ap
 
 (9) Nothing in this section shall require any consent to be obtained, or any notice to be served, in respect of any discharge if the requirements of section 34 of the [^c13221501]Water Act 1945 (temporary discharges into watercourses) in relation to that discharge had been satisfied before 1st September 1989.
 
-(10)[^key-216f47eab511ff9d2102dc1198359727] In this section “the appropriate agency” means—
+(10)[^c-216f47eab511ff9d2102dc1198359727] In this section “the appropriate agency” means—
 
 - (a) the Environment Agency, in relation to discharges of water in England;
 - (b) the NRBW, in relation to discharges of water in Wales.
 
 ## Annotations
 
-[^key-bc0ec8baa93d51f5f03b997fafbc26ff]: Modification: [S. 166](https://www.legislation.gov.uk/ukpga/1991/56/section/166) modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [102(4)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/102/4)
+[^c-bc0ec8baa93d51f5f03b997fafbc26ff]: Modification: [S. 166](https://www.legislation.gov.uk/ukpga/1991/56/section/166) modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [102(4)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/102/4)
 
-[^key-17dcabd89b023c08df952c8f8a953e5e]: Textual amendment: Words in [s. 166(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/166/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 251(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/251/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-17dcabd89b023c08df952c8f8a953e5e]: Textual amendment: Words in [s. 166(1)](https://www.legislation.gov.uk/ukpga/1991/56/section/166/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 251(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/251/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c13221501]: Marginal citation: [1945 c. 42](https://www.legislation.gov.uk/ukpga/1945/42).
 
-[^key-216f47eab511ff9d2102dc1198359727]: Textual amendment: [S. 166(10)](https://www.legislation.gov.uk/ukpga/1991/56/section/166/10) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 251(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/251/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-216f47eab511ff9d2102dc1198359727]: Textual amendment: [S. 166(10)](https://www.legislation.gov.uk/ukpga/1991/56/section/166/10) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 251(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/251/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

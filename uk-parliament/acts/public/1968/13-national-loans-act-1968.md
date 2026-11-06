@@ -31,7 +31,7 @@ National Loans Act 1968
 
 An Act to establish a National Loans Fund, to substitute the National Loans Fund for the Consolidated Fund in certain enactments, including enactments relating to Government lending and advances, the Exchange Equalisation Account and government annuities, to make profits of the Issue Department of the Bank of England payable into the National Loans Fund and to make other provision as to the said Department, to charge the whole of the national debt on the National Loans Fund, and to amend the law about Government borrowing; to make further provision for loans by the Public Works Loan Commissioners, and to authorise advances out of the National Loans Fund for the purpose of such loans; to transfer to Votes certain payments charged on the Consolidated Fund; and generally to make provision for the management of the Government’s financial business.
 
-\[13th March 1968\][^c13324431][^c13324441][^key-55ff909919dfb7057fdfcf374743542a]
+\[13th March 1968\][^c13324431][^c13324441][^c-55ff909919dfb7057fdfcf374743542a]
 
 ## 1. The National Loans Fund.
 
@@ -65,40 +65,40 @@ The enactments in Schedule 1 to this Act (which—
 
 ### 3. Local loans.[^c13324531]
 
-(1)[^key-24f61bf52070d350703bc86f3941dfb0] The Treasury may issue out of the National Loans Fund such sums as are required for making loans of the descriptions set out in Schedule 4, subject to the limit in section 4.
+(1)[^c-24f61bf52070d350703bc86f3941dfb0] The Treasury may issue out of the National Loans Fund such sums as are required for making loans of the descriptions set out in Schedule 4, subject to the limit in section 4.
 
-(2) Interest on local loans[^key-cb58ed6f72d523f12b23054d59544f07] shall be paid at such rates as the Treasury may determine from time to time in accordance with section 5 of this Act.
+(2) Interest on local loans[^c-cb58ed6f72d523f12b23054d59544f07] shall be paid at such rates as the Treasury may determine from time to time in accordance with section 5 of this Act.
 
-(3) All sums paid or applicable in or towards the discharge of the principal or interest of any local loans[^key-5fcae2ba7cefe5463f4a3eacbd157589], whether before or after the coming into force of this section, shall be paid by the Treasury[^key-c3b7b10bf66922c6694d7cbcec061034] into the National Loans Fund:
+(3) All sums paid or applicable in or towards the discharge of the principal or interest of any local loans[^c-5fcae2ba7cefe5463f4a3eacbd157589], whether before or after the coming into force of this section, shall be paid by the Treasury[^c-c3b7b10bf66922c6694d7cbcec061034] into the National Loans Fund:
 
 Provided that where security for a loan is enforced in any manner the net receipts only shall be so paid into the National Loans Fund.
 
 (4) Any sum payable in respect of Irish land purchase annuities which, but for the provisions of this section, would be payable into the Local Loans Fund under section 26(2) of the [^c13324541]Government of Ireland Act 1920, or under any other enactment, shall be paid into the National Loans Fund.
 
-(5) Subject to the limit in this Act, . . . [^c13324551], the Treasury’s[^key-9ef0cb8e891b5ac00ad8f549d7266b80] power of making local loans[^key-5e2ec8733e4cfc4e447194c7bb9fd83e] shall include power to enter into undertakings to make local loans.
+(5) Subject to the limit in this Act, . . . [^c13324551], the Treasury’s[^c-9ef0cb8e891b5ac00ad8f549d7266b80] power of making local loans[^c-5e2ec8733e4cfc4e447194c7bb9fd83e] shall include power to enter into undertakings to make local loans.
 
-(6) The Treasury[^key-26951cb71406099f135df1457036d656] shall, as respects each financial year, prepare [^key-78be9d590a90c327bede59e05426e2c6]... an account of local loans made[^key-701dfebf94b0d176e305b8fe981c1d9e] in the financial year, and of the sums paid or applicable in the financial year in or towards the discharge of the principal or interest of local loans[^key-471ba3a9e61e4e7c0efbaf8260826845], whether before or after the coming into force of this section, and send it to the Comptroller and Auditor General not later than the end of November next following the end of the financial year and the Comptroller and Auditor General shall examine, certify and report on the account and lay copies of it, together with his report, before each House of Parliament.
+(6) The Treasury[^c-26951cb71406099f135df1457036d656] shall, as respects each financial year, prepare [^c-78be9d590a90c327bede59e05426e2c6]... an account of local loans made[^c-701dfebf94b0d176e305b8fe981c1d9e] in the financial year, and of the sums paid or applicable in the financial year in or towards the discharge of the principal or interest of local loans[^c-471ba3a9e61e4e7c0efbaf8260826845], whether before or after the coming into force of this section, and send it to the Comptroller and Auditor General not later than the end of November next following the end of the financial year and the Comptroller and Auditor General shall examine, certify and report on the account and lay copies of it, together with his report, before each House of Parliament.
 
 (7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13324561]
 
 (8)—(10) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13324571]
 
-(11)[^key-75c24e2ea982edd4dbf2fc9b74f75f1c] The Public Works Loans Act 1875 and any enactments amending that Act shall apply to local loans.
+(11)[^c-75c24e2ea982edd4dbf2fc9b74f75f1c] The Public Works Loans Act 1875 and any enactments amending that Act shall apply to local loans.
 
-(12)[^key-d80a0bcb4c6209d74111d2869c916d6e] In this Act “local loans” means loans made, in pursuance of this section, of the descriptions set out in Schedule 4 to this Act.
+(12)[^c-d80a0bcb4c6209d74111d2869c916d6e] In this Act “local loans” means loans made, in pursuance of this section, of the descriptions set out in Schedule 4 to this Act.
 
 ### 4. Limit for local loans.[^c13324601]
 
 (1) The aggregate of—
 
-- (a) any commitments of the Treasury[^key-831a4d6161a773b43e5e4ede50840970] outstanding in respect of undertakings entered into by them to grant local loans; and
+- (a) any commitments of the Treasury[^c-831a4d6161a773b43e5e4ede50840970] outstanding in respect of undertakings entered into by them to grant local loans; and
 - (b) any amount outstanding in respect of the principal of any local loans;
 
-shall not at any time exceed £115 billion[^key-88b78831ef6336bf8377cc29bd10990b] or such other (lower or higher) sum, not exceeding £135 billion[^key-4debb64ac20651c2dbbcdab0038b2c70], as the Treasury may from time to time specify by order made by statutory instrument.
+shall not at any time exceed £115 billion[^c-88b78831ef6336bf8377cc29bd10990b] or such other (lower or higher) sum, not exceeding £135 billion[^c-4debb64ac20651c2dbbcdab0038b2c70], as the Treasury may from time to time specify by order made by statutory instrument.
 
 (2) No order shall be made under this section unless a draft of it has been laid before and approved by a resolution of the Commons House of Parliament.
 
-### 5. Rates of interest.[^key-97db7266183cc5ff75f583793b877d6f][^key-220998dea7bd4df621318f3a1f9972e6][^c13324771][^c13324781][^c13324791][^c13324761]
+### 5. Rates of interest.[^c-97db7266183cc5ff75f583793b877d6f][^c-220998dea7bd4df621318f3a1f9972e6][^c13324771][^c13324781][^c13324791][^c13324761]
 
 (1) This section has effect as respects any rate of interest—
 
@@ -251,7 +251,7 @@ shall be charged on and paid out of the National Loans Fund with recourse to the
 
 (5) The power to raise money under this section extends—
 
-- (a) to raising money through a Post Office company (within the meaning of Part 1 of the Postal Services Act 2011)[^key-a9a4889031211fff3ccd0dcb5dfe7ed1] such a company[^key-5409f62d7e899071022bf7db7d409abf] of national savings certificates, and by the issue of the stamps and tokens described in section 35 of the [^c13325461]Finance Act 1961 (national savings stamps and gift tokens), and
+- (a) to raising money through a Post Office company (within the meaning of Part 1 of the Postal Services Act 2011)[^c-a9a4889031211fff3ccd0dcb5dfe7ed1] such a company[^c-5409f62d7e899071022bf7db7d409abf] of national savings certificates, and by the issue of the stamps and tokens described in section 35 of the [^c13325461]Finance Act 1961 (national savings stamps and gift tokens), and
 - (b) to raising money by the issue of Treasury Bills under the [^c13325471]Treasury Bills Act 1877.
 
 (6) In raising money under this section by the creation and issue—
@@ -301,7 +301,7 @@ any stock of forms prepared before the passing of this Act may be employed, pend
 
 (6) The Treasury may cancel any securities surrendered to them under this section, and may also undertake to make payments, upon such terms and conditions as they think fit, to holders of securities so surrendered, or otherwise as part of the arrangement or agreement.
 
-(7) A warrant given by the Registrar of Government Stock[^key-13a622a0f2c9a609df7242c07efbccda] [^c16554531]. . . for making any such payment shall be deemed to be a cheque within the meaning of the [^c13325611]Bills of Exchange Act 1882 and shall be exempt from stamp duty.
+(7) A warrant given by the Registrar of Government Stock[^c-13a622a0f2c9a609df7242c07efbccda] [^c16554531]. . . for making any such payment shall be deemed to be a cheque within the meaning of the [^c13325611]Bills of Exchange Act 1882 and shall be exempt from stamp duty.
 
 (8) Any money required by the Treasury for the purpose of carrying out any such arrangement shall be charged on and paid out of the National Loans Fund with recourse to the Consolidated Fund.
 
@@ -357,7 +357,7 @@ any stock of forms prepared before the passing of this Act may be employed, pend
 
 ### 15. Payments out of Consolidated Fund for service of national debt.
 
-(1) The Treasury shall from time to time pay out of the Consolidated Fund into the National Loans Fund sums equal to the excess of the amounts required to meet payments out of the National Loans Fund—[^key-92dd915be54ab411b4d08530ba47d037]
+(1) The Treasury shall from time to time pay out of the Consolidated Fund into the National Loans Fund sums equal to the excess of the amounts required to meet payments out of the National Loans Fund—[^c-92dd915be54ab411b4d08530ba47d037]
 
 - (a) which represent interest on liabilities of the National Loans Fund, or
 - (b) which, in the opinion of the Treasury, ought to be treated in the same way as payments which represent such interest,
@@ -366,7 +366,7 @@ over the amounts paid into the National Loans Fund which represent interest on l
 
 (2) Notwithstanding the provisions of section 13 of the [^c13325721]Exchequer and Audit Departments Act 1866, payments under this section shall be effected without the granting of credits by the Comptroller and Auditor General.
 
-(3)[^key-7d4df81c95b053c52f856a5cd87144ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7d4df81c95b053c52f856a5cd87144ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 16. Supplemental provisions as to national debt.
 
@@ -384,7 +384,7 @@ over the amounts paid into the National Loans Fund which represent interest on l
 
 (6)[^c13326231] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) There shall be paid out to Registrar of Government Stock[^key-1059049ee08c5b6f029bc623fc0c475a], . . . [^c13326241], such sums in respect of the management in any period[^c13326251] of any Government securities as may be agreed upon between the Treasury and the[^c16564481] Registrar of Government Stock .
+(7) There shall be paid out to Registrar of Government Stock[^c-1059049ee08c5b6f029bc623fc0c475a], . . . [^c13326241], such sums in respect of the management in any period[^c13326251] of any Government securities as may be agreed upon between the Treasury and the[^c16564481] Registrar of Government Stock .
 
 In this subsection “**Government securities**” means securities of Her Majesty’s Government in the United Kingdom and securities issued under—
 
@@ -402,7 +402,7 @@ In this subsection “**Government securities**” means securities of Her Majes
 
 ### 17. Repeal of provisions for paying off debt, or applying sums to meet interest charges.
 
-(1)[^key-9a330fe48eaf5e0b2d62a7f1fed70e03][^c13326351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9a330fe48eaf5e0b2d62a7f1fed70e03][^c13326351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) So much of any enactment as provides for sums paid into the Consolidated Fund to be applied in redeeming or paying off debt (that is to say national debt) or meeting such part of the annual charges for the national debt as represents interest, shall cease to have effect.
 
@@ -410,7 +410,7 @@ In this subsection “**Government securities**” means securities of Her Majes
 
 ### 18. Daily balancing of Consolidated Fund.
 
-(1)[^key-3cb1a7bff16cebaa9cdead1795250961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3cb1a7bff16cebaa9cdead1795250961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) On any day (from 1st April 1968 onwards) on which payments into the Consolidated Fund exceed payments out of the Consolidated Fund the Treasury shall pay out of the Consolidated Fund into the National Loans Fund sums equal to that excess.
 
@@ -426,9 +426,9 @@ In this subsection “**Government securities**” means securities of Her Majes
 
 (2) Sums paid under section 15 of this Act shall be deemed for all purposes to be in satisfaction of the payment of interest in respect of the liability of the Consolidated Fund to the National Loans Fund imposed by subsection (1) above.
 
-(3)[^key-21c164accec593c4807e844e208d622f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-21c164accec593c4807e844e208d622f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) For the purposes of this section the liabilities and assets of the National Loans Fund shall be as determined by the Treasury.[^key-b7e6ddd4559a7c0267d851d27764bb5b]
+(4) For the purposes of this section the liabilities and assets of the National Loans Fund shall be as determined by the Treasury.[^c-b7e6ddd4559a7c0267d851d27764bb5b]
 
 ### 20. Power to substitute National Loans Fund for Consolidated Fund in existing Acts.
 
@@ -450,19 +450,19 @@ Schedule 5A to this Act (the Debt Management Account) shall have effect.
 
 ### 21. Audit and accounts.
 
-(1) For the financial year ending on 31st March 1969 and each subsequent financial year the Treasury shall prepare an account relating to the Consolidated Fund, and an account relating to the National Loans Fund, in such form and containing such information as the Treasury consider appropriate.[^key-cbe0397eb1905e6fb0bc974a4c216525]
+(1) For the financial year ending on 31st March 1969 and each subsequent financial year the Treasury shall prepare an account relating to the Consolidated Fund, and an account relating to the National Loans Fund, in such form and containing such information as the Treasury consider appropriate.[^c-cbe0397eb1905e6fb0bc974a4c216525]
 
 (2) The Treasury shall send the accounts to the Comptroller and Auditor General not later than the end of November following the end of the financial year to which they relate, and the Comptroller and Auditor General shall examine, certify and report on the accounts and lay copies of them, together with his report, before each House of Parliament.
 
-(3)[^key-97656bf18997cfdba3ca26622a993844] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-97656bf18997cfdba3ca26622a993844] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13326421]
 
 ### 22. Interpretation.
 
-(1) In this Act “local loans” has the meaning[^key-94e9692c45a7f40ee05d58a7e883d1b9] given by section 3 of this Act.
+(1) In this Act “local loans” has the meaning[^c-94e9692c45a7f40ee05d58a7e883d1b9] given by section 3 of this Act.
 
-(2)[^c13326431][^key-d96ff94d6cc6ce2f84171c15b499d814] Any provision in this Act, or in the Acts amended by this Act, charging payments on the National Loans Fund “with recourse to” the Consolidated Fund shall be construed as a requirement that the payment, if it is not made out of the National Loans Fund, shall be charged on and paid out of the Consolidated Fund.
+(2)[^c13326431][^c-d96ff94d6cc6ce2f84171c15b499d814] Any provision in this Act, or in the Acts amended by this Act, charging payments on the National Loans Fund “with recourse to” the Consolidated Fund shall be construed as a requirement that the payment, if it is not made out of the National Loans Fund, shall be charged on and paid out of the Consolidated Fund.
 
 (3) In this Act “**securities of Her Majesty’s Government in the United Kingdom**” includes national savings certificates and premium savings bonds but does not include securities issued under—
 
@@ -562,7 +562,7 @@ Section 2.
 </tbody>
 </table>
 
-[^c13327911][^c13327911][^c13327911][^key-5bb8dd98586f365fb2cfcb47df92e915][^key-5bb8dd98586f365fb2cfcb47df92e915][^key-5bb8dd98586f365fb2cfcb47df92e915][^key-62fa0fd914144ddcaea298d51223809a][^key-62fa0fd914144ddcaea298d51223809a][^key-62fa0fd914144ddcaea298d51223809a][^M_F_a732aafe-c605-4fdc-e4e7-c0c9db0233fd][^M_F_a732aafe-c605-4fdc-e4e7-c0c9db0233fd][^M_F_a732aafe-c605-4fdc-e4e7-c0c9db0233fd][^key-62fa0fd914144ddcaea298d51223809a][^key-62fa0fd914144ddcaea298d51223809a][^key-62fa0fd914144ddcaea298d51223809a][^c13327941][^M_F_ff76abad-7ca2-4b79-a0aa-08fae909222b][^M_F_ff76abad-7ca2-4b79-a0aa-08fae909222b][^M_F_ff76abad-7ca2-4b79-a0aa-08fae909222b][^key-62fa0fd914144ddcaea298d51223809a][^key-62fa0fd914144ddcaea298d51223809a][^key-62fa0fd914144ddcaea298d51223809a][^c13328041][^c13328041][^c13328041][^c13328071][^c13328081][^c13328081][^c13328081][^M_F_2e062d58-6593-4060-b4a0-5b556c684d75][^M_F_2e062d58-6593-4060-b4a0-5b556c684d75][^M_F_2e062d58-6593-4060-b4a0-5b556c684d75][^c13328151][^c13328151][^c13328151][^key-62fa0fd914144ddcaea298d51223809a][^c13328191][^c13328191][^c13328191][^c13328231][^c13328231][^c13328231][^c13328261][^c13328261][^c13328261][^M_F_20286c73-f2e4-400b-fab7-0eca60f9f549][^M_F_20286c73-f2e4-400b-fab7-0eca60f9f549][^M_F_20286c73-f2e4-400b-fab7-0eca60f9f549][^M_F_0c681f21-62aa-41dd-d090-c5506c4a93ac][^M_F_0c681f21-62aa-41dd-d090-c5506c4a93ac][^M_F_0c681f21-62aa-41dd-d090-c5506c4a93ac][^M_F_dba38847-a804-44e5-c674-2b7565a580c3][^M_F_dba38847-a804-44e5-c674-2b7565a580c3][^M_F_dba38847-a804-44e5-c674-2b7565a580c3][^c13328391][^c13328401][^key-9e4682e3374f836fd026cb3cfa778382][^key-9e4682e3374f836fd026cb3cfa778382][^c13328421][^c13328421][^c13328421][^M_F_0b7942b1-9cd4-4af5-a6f3-bb8fcfc55298][^M_F_0b7942b1-9cd4-4af5-a6f3-bb8fcfc55298][^M_F_0b7942b1-9cd4-4af5-a6f3-bb8fcfc55298][^c13328481][^c13328481][^c13328481][^M_F_c2acc0c9-a903-4054-b973-10498a758d0c][^M_F_c2acc0c9-a903-4054-b973-10498a758d0c][^M_F_c2acc0c9-a903-4054-b973-10498a758d0c][^c13328531][^c13328531][^c13328531][^M_F_a2895e1d-854b-43f6-c050-1950675fc84c][^M_F_a2895e1d-854b-43f6-c050-1950675fc84c][^M_F_a2895e1d-854b-43f6-c050-1950675fc84c][^key-62fa0fd914144ddcaea298d51223809a][^key-62fa0fd914144ddcaea298d51223809a][^key-62fa0fd914144ddcaea298d51223809a][^M_F_279f078b-2a20-40dd-d269-219e9f924773][^M_F_279f078b-2a20-40dd-d269-219e9f924773][^M_F_279f078b-2a20-40dd-d269-219e9f924773]
+[^c13327911][^c13327911][^c13327911][^c-5bb8dd98586f365fb2cfcb47df92e915][^c-5bb8dd98586f365fb2cfcb47df92e915][^c-5bb8dd98586f365fb2cfcb47df92e915][^c-62fa0fd914144ddcaea298d51223809a][^c-62fa0fd914144ddcaea298d51223809a][^c-62fa0fd914144ddcaea298d51223809a][^M_F_a732aafe-c605-4fdc-e4e7-c0c9db0233fd][^M_F_a732aafe-c605-4fdc-e4e7-c0c9db0233fd][^M_F_a732aafe-c605-4fdc-e4e7-c0c9db0233fd][^c-62fa0fd914144ddcaea298d51223809a][^c-62fa0fd914144ddcaea298d51223809a][^c-62fa0fd914144ddcaea298d51223809a][^c13327941][^M_F_ff76abad-7ca2-4b79-a0aa-08fae909222b][^M_F_ff76abad-7ca2-4b79-a0aa-08fae909222b][^M_F_ff76abad-7ca2-4b79-a0aa-08fae909222b][^c-62fa0fd914144ddcaea298d51223809a][^c-62fa0fd914144ddcaea298d51223809a][^c-62fa0fd914144ddcaea298d51223809a][^c13328041][^c13328041][^c13328041][^c13328071][^c13328081][^c13328081][^c13328081][^M_F_2e062d58-6593-4060-b4a0-5b556c684d75][^M_F_2e062d58-6593-4060-b4a0-5b556c684d75][^M_F_2e062d58-6593-4060-b4a0-5b556c684d75][^c13328151][^c13328151][^c13328151][^c-62fa0fd914144ddcaea298d51223809a][^c13328191][^c13328191][^c13328191][^c13328231][^c13328231][^c13328231][^c13328261][^c13328261][^c13328261][^M_F_20286c73-f2e4-400b-fab7-0eca60f9f549][^M_F_20286c73-f2e4-400b-fab7-0eca60f9f549][^M_F_20286c73-f2e4-400b-fab7-0eca60f9f549][^M_F_0c681f21-62aa-41dd-d090-c5506c4a93ac][^M_F_0c681f21-62aa-41dd-d090-c5506c4a93ac][^M_F_0c681f21-62aa-41dd-d090-c5506c4a93ac][^M_F_dba38847-a804-44e5-c674-2b7565a580c3][^M_F_dba38847-a804-44e5-c674-2b7565a580c3][^M_F_dba38847-a804-44e5-c674-2b7565a580c3][^c13328391][^c13328401][^c-9e4682e3374f836fd026cb3cfa778382][^c-9e4682e3374f836fd026cb3cfa778382][^c13328421][^c13328421][^c13328421][^M_F_0b7942b1-9cd4-4af5-a6f3-bb8fcfc55298][^M_F_0b7942b1-9cd4-4af5-a6f3-bb8fcfc55298][^M_F_0b7942b1-9cd4-4af5-a6f3-bb8fcfc55298][^c13328481][^c13328481][^c13328481][^M_F_c2acc0c9-a903-4054-b973-10498a758d0c][^M_F_c2acc0c9-a903-4054-b973-10498a758d0c][^M_F_c2acc0c9-a903-4054-b973-10498a758d0c][^c13328531][^c13328531][^c13328531][^M_F_a2895e1d-854b-43f6-c050-1950675fc84c][^M_F_a2895e1d-854b-43f6-c050-1950675fc84c][^M_F_a2895e1d-854b-43f6-c050-1950675fc84c][^c-62fa0fd914144ddcaea298d51223809a][^c-62fa0fd914144ddcaea298d51223809a][^c-62fa0fd914144ddcaea298d51223809a][^M_F_279f078b-2a20-40dd-d269-219e9f924773][^M_F_279f078b-2a20-40dd-d269-219e9f924773][^M_F_279f078b-2a20-40dd-d269-219e9f924773]
 
 ## SCHEDULE 2 — . . .[^c13329551]
 
@@ -578,12 +578,12 @@ In this paragraph “**local authority**” means—
 
 - (a)[^c13329761] in relation to England and Wales—
   - (i)[^c13329771] a billing authority or a precepting authority, as defined in section 69 of the Local Government Finance Act 1992;
-  - (ia (Extent: E+W))[^key-73a675ccc14547e8a4ed2555ef98f2dd] a fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies; *(Extent: E+W)*
-  - (ib)[^key-1b1636b7053a37a5f028d5931f0e6c88] a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 (asc 1);
-  - (ii) a levying body within the meaning of section 74 of the Local Government Finance Act 1988 *(Extent: E+W)*[^key-30e82328f8f86a25b0bbef42592c8493]; [^c13329791]...
-  - (iii) a body as regards which section 75 of that Act applies; and[^key-64be7369526868bc6f5555c4392cd8cf] [^c13329811] ...[^c13329801]
-  - (iv) a functional body, within the meaning of the Greater London Authority Act 1999 [^key-148ede98fd937945dd02877b0c865a05]...
-  - (v)[^key-148ede98fd937945dd02877b0c865a05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ia (Extent: E+W))[^c-73a675ccc14547e8a4ed2555ef98f2dd] a fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies; *(Extent: E+W)*
+  - (ib)[^c-1b1636b7053a37a5f028d5931f0e6c88] a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021 (asc 1);
+  - (ii) a levying body within the meaning of section 74 of the Local Government Finance Act 1988 *(Extent: E+W)*[^c-30e82328f8f86a25b0bbef42592c8493]; [^c13329791]...
+  - (iii) a body as regards which section 75 of that Act applies; and[^c-64be7369526868bc6f5555c4392cd8cf] [^c13329811] ...[^c13329801]
+  - (iv) a functional body, within the meaning of the Greater London Authority Act 1999 [^c-148ede98fd937945dd02877b0c865a05]...
+  - (v)[^c-148ede98fd937945dd02877b0c865a05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any port health authority or joint board constituted by an order under the [^c13329831]Public Health Act 1936, or under any enactment repealed by that Act,
 - (c)[^c13329841] in Scotland—
   - (i) any local authority within the meaning of the Local Government (Scotland) Act 1973;
@@ -647,11 +647,11 @@ In paragraph 1 of Schedule 2 (charge of government stock on Consolidated Fund) a
 
 ### Coal Industry Nationalisation Act 1946 (1946 c. 59)
 
-[^key-511a750650b47298ee117249fa5026b2]...
+[^c-511a750650b47298ee117249fa5026b2]...
 
 ### Cable and Wireless Act 1946 (1946 c. 82)
 
-[^key-1fd3196b11c54302d642a97cde52861b]...
+[^c-1fd3196b11c54302d642a97cde52861b]...
 
 ### Miscellaneous Financial Provisions Act 1955 (1955 c.6—4 & 5 Eliz. 2.)
 
@@ -665,7 +665,7 @@ In section 5(9) (account to meet unclaimed dividends : payment out of Consolidat
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13330111]
 
-## SCHEDULE 5A — The debt management account[^key-0878c11bd54712cabff644ab68a87943][^c13330121]
+## SCHEDULE 5A — The debt management account[^c-0878c11bd54712cabff644ab68a87943][^c13330121]
 
 ### The account
 
@@ -760,9 +760,9 @@ the Treasury shall exercise their powers under this Schedule so as to secure tha
 
 **7.** The powers under paragraphs 4 to 6 above may be exercised by means (or partly by means) of automatic devices programmed to respond to events as they arise.
 
-### ...[^key-cfe62d324acbe506097aab29b877d679]
+### ...[^c-cfe62d324acbe506097aab29b877d679]
 
-**8.**[^key-cfe62d324acbe506097aab29b877d679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cfe62d324acbe506097aab29b877d679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### National Loans Fund
 
@@ -787,7 +787,7 @@ the Treasury shall exercise their powers under this Schedule so as to secure tha
 
 (3) The Treasury may pay from the Debt Management Account to the National Loans Fund an amount representing all or any of any excess mentioned in subparagraph (2) above, and if they do the liability there mentioned shall be extinguished or reduced accordingly.
 
-(4)[^key-92fe9b4bcf62b06cc8bed13988d2aab7] If any amount paid under sub-paragraph (1A) or (3) above should not have been paid, the Treasury may repay the whole or any part of it.
+(4)[^c-92fe9b4bcf62b06cc8bed13988d2aab7] If any amount paid under sub-paragraph (1A) or (3) above should not have been paid, the Treasury may repay the whole or any part of it.
 
 **12.** The Treasury shall exercise their powers under paragraphs 10 and 11 above so as to secure that the external liabilities of the Debt Management Account at any given time can be met; and the external liabilities of the Account are its liabilities other than those in favour of the National Loans Fund.
 
@@ -798,7 +798,7 @@ the Treasury shall exercise their powers under this Schedule so as to secure tha
 - (a)[^c13330211] payments of interest made from the Account , and
 - (b)[^c13330231] any discount on any Treasury bills issued by virtue of paragraph 4 above.
 
-(2)[^key-701fb308a7fb0c38f73479968dd2eb4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-701fb308a7fb0c38f73479968dd2eb4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Treasury may from time to time pay out of the Debt Management Account into the National Loans Fund sums (if any) which the Treasury consider appropriate in respect of
 
@@ -1100,7 +1100,7 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13324441]: Commencement: Act in force on 1.4.1968 except as otherwise expressly provided, see [s. 24(3)](https://www.legislation.gov.uk/ukpga/1968/13/section/24/3)
 
-[^key-55ff909919dfb7057fdfcf374743542a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1968/13) extended (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/2/c)
+[^c-55ff909919dfb7057fdfcf374743542a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1968/13) extended (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/2/c)
 
 [^c13324451]: Modification: [S. 1(2)](https://www.legislation.gov.uk/ukpga/1968/13/section/1/2) amended (22.12.2000) by [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20), [s. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2000/20/section/4/4/b); [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [art. 2(b)](https://www.legislation.gov.uk/uksi/2000/3349/article/2/b)
 
@@ -1122,49 +1122,49 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13324531]: Modification: S. 3(11) applied (*temp.* 14.11.1995 to 1.4.1996) by [S.I. 1995/2766](https://www.legislation.gov.uk/uksi/1995/2766), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/2766/article/2/1)
 
-[^key-24f61bf52070d350703bc86f3941dfb0]: Textual amendment: S. 3(1) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(2)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/2) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-24f61bf52070d350703bc86f3941dfb0]: Textual amendment: S. 3(1) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(2)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/2) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-cb58ed6f72d523f12b23054d59544f07]: Textual amendment: Words in s. 3(2) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(3)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/3) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-cb58ed6f72d523f12b23054d59544f07]: Textual amendment: Words in s. 3(2) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(3)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/3) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-5fcae2ba7cefe5463f4a3eacbd157589]: Textual amendment: Words in s. 3(3) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(4)(a)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/4/a) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-5fcae2ba7cefe5463f4a3eacbd157589]: Textual amendment: Words in s. 3(3) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(4)(a)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/4/a) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-c3b7b10bf66922c6694d7cbcec061034]: Textual amendment: Word in s. 3(3) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(4)(b)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/4/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-c3b7b10bf66922c6694d7cbcec061034]: Textual amendment: Word in s. 3(3) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(4)(b)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/4/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
 [^c13324541]: Marginal citation: [1920 c. 67](https://www.legislation.gov.uk/ukpga/1920/67).
 
 [^c13324551]: Textual amendment: Words repealed by [Finance Act 1984 (c. 43, SIF 99:3)](https://www.legislation.gov.uk/ukpga/1984/43), [ss. 125(2)(a)](https://www.legislation.gov.uk/ukpga/1984/43/section/125/2/a), [128(6)](https://www.legislation.gov.uk/ukpga/1984/43/section/128/6), [Sch. 23 Pt. XIV](https://www.legislation.gov.uk/ukpga/1984/43/schedule/23/part/XIV)
 
-[^key-9ef0cb8e891b5ac00ad8f549d7266b80]: Textual amendment: Word in s. 3(5) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(5)(a)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/5/a) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-9ef0cb8e891b5ac00ad8f549d7266b80]: Textual amendment: Word in s. 3(5) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(5)(a)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/5/a) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-5e2ec8733e4cfc4e447194c7bb9fd83e]: Textual amendment: Words in s. 3(5) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(5)(b)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/5/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-5e2ec8733e4cfc4e447194c7bb9fd83e]: Textual amendment: Words in s. 3(5) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(5)(b)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/5/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-26951cb71406099f135df1457036d656]: Textual amendment: Word in s. 3(6) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(6)(a)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/6/a) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-26951cb71406099f135df1457036d656]: Textual amendment: Word in s. 3(6) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(6)(a)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/6/a) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-78be9d590a90c327bede59e05426e2c6]: Textual amendment: Words in s. 3(6) omitted (25.2.2020) by virtue of [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(6)(b)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/6/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-78be9d590a90c327bede59e05426e2c6]: Textual amendment: Words in s. 3(6) omitted (25.2.2020) by virtue of [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(6)(b)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/6/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-701dfebf94b0d176e305b8fe981c1d9e]: Textual amendment: Words in s. 3(6) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(6)(c)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/6/c) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-701dfebf94b0d176e305b8fe981c1d9e]: Textual amendment: Words in s. 3(6) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(6)(c)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/6/c) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-471ba3a9e61e4e7c0efbaf8260826845]: Textual amendment: Words in s. 3(6) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(6)(d)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/6/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-471ba3a9e61e4e7c0efbaf8260826845]: Textual amendment: Words in s. 3(6) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(6)(d)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/6/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
 [^c13324561]: Textual amendment: S. 3(7) repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/II)
 
 [^c13324571]: Textual amendment: S. 3(8)–(10) repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/II)
 
-[^key-75c24e2ea982edd4dbf2fc9b74f75f1c]: Textual amendment: S. 3(11) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(7)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/7) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-75c24e2ea982edd4dbf2fc9b74f75f1c]: Textual amendment: S. 3(11) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(7)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/7) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-d80a0bcb4c6209d74111d2869c916d6e]: Textual amendment: S. 3(12) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(8)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/8) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-d80a0bcb4c6209d74111d2869c916d6e]: Textual amendment: S. 3(12) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 64(8)](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/64/8) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
 [^c13324601]: Textual amendment: S. 4 substituted by [Finance Act 1984 (c. 43, SIF 99:3)](https://www.legislation.gov.uk/ukpga/1984/43), [s. 125(1)](https://www.legislation.gov.uk/ukpga/1984/43/section/125/1)
 
-[^key-831a4d6161a773b43e5e4ede50840970]: Textual amendment: Word in [s. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1968/13/section/4/1/a) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/65) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-831a4d6161a773b43e5e4ede50840970]: Textual amendment: Word in [s. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1968/13/section/4/1/a) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/65) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-88b78831ef6336bf8377cc29bd10990b]: Textual amendment: Sum in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1968/13/section/4/1) substituted (12.5.2022) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 112(1)(a)](https://www.legislation.gov.uk/ukpga/2020/14/section/112/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/112/3); [S.I. 2022/531](https://www.legislation.gov.uk/uksi/2022/531), [reg. 2](https://www.legislation.gov.uk/uksi/2022/531/regulation/2)
+[^c-88b78831ef6336bf8377cc29bd10990b]: Textual amendment: Sum in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1968/13/section/4/1) substituted (12.5.2022) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 112(1)(a)](https://www.legislation.gov.uk/ukpga/2020/14/section/112/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/112/3); [S.I. 2022/531](https://www.legislation.gov.uk/uksi/2022/531), [reg. 2](https://www.legislation.gov.uk/uksi/2022/531/regulation/2)
 
-[^key-4debb64ac20651c2dbbcdab0038b2c70]: Textual amendment: Sum in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1968/13/section/4/1) substituted (12.5.2022) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 112(1)(b)](https://www.legislation.gov.uk/ukpga/2020/14/section/112/1/b)[(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/112/3); [S.I. 2022/531](https://www.legislation.gov.uk/uksi/2022/531), [reg. 2](https://www.legislation.gov.uk/uksi/2022/531/regulation/2)
+[^c-4debb64ac20651c2dbbcdab0038b2c70]: Textual amendment: Sum in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1968/13/section/4/1) substituted (12.5.2022) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 112(1)(b)](https://www.legislation.gov.uk/ukpga/2020/14/section/112/1/b)[(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/112/3); [S.I. 2022/531](https://www.legislation.gov.uk/uksi/2022/531), [reg. 2](https://www.legislation.gov.uk/uksi/2022/531/regulation/2)
 
-[^key-97db7266183cc5ff75f583793b877d6f]: Modification: S. 5 applied by Pensions Act 2007 (c. 22), Sch. 6 para. 18(3) (as substituted (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 82](https://www.legislation.gov.uk/ukpga/2008/30/section/82), [149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2))
+[^c-97db7266183cc5ff75f583793b877d6f]: Modification: S. 5 applied by Pensions Act 2007 (c. 22), Sch. 6 para. 18(3) (as substituted (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 82](https://www.legislation.gov.uk/ukpga/2008/30/section/82), [149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2))
 
-[^key-220998dea7bd4df621318f3a1f9972e6]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/1968/13/section/5) applied (5.7.2010) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/1/paragraph/18/3); [S.I. 2010/10](https://www.legislation.gov.uk/uksi/2010/10), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/10/article/2/a)
+[^c-220998dea7bd4df621318f3a1f9972e6]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/1968/13/section/5) applied (5.7.2010) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/1/paragraph/18/3); [S.I. 2010/10](https://www.legislation.gov.uk/uksi/2010/10), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/10/article/2/a)
 
 [^c13324771]: Modification: S. 5 applied (E.W.) by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 9(9)](https://www.legislation.gov.uk/ukpga/1990/19/section/9/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/1990/19/schedule/3), [para. 1(5)](https://www.legislation.gov.uk/ukpga/1990/19/paragraph/1/5)
 
@@ -1250,9 +1250,9 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13325431]: Textual amendment: S. 12(1A) inserted by [Finance Act 1982 (c. 39, SIF 99:3)](https://www.legislation.gov.uk/ukpga/1982/39), [s. 152(2)](https://www.legislation.gov.uk/ukpga/1982/39/section/152/2)
 
-[^key-a9a4889031211fff3ccd0dcb5dfe7ed1]: Textual amendment: Words in [s. 12(5)(a)](https://www.legislation.gov.uk/ukpga/1968/13/section/12/5/a) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 88(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/88/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-a9a4889031211fff3ccd0dcb5dfe7ed1]: Textual amendment: Words in [s. 12(5)(a)](https://www.legislation.gov.uk/ukpga/1968/13/section/12/5/a) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 88(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/88/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-5409f62d7e899071022bf7db7d409abf]: Textual amendment: Words in [s. 12(5)(a)](https://www.legislation.gov.uk/ukpga/1968/13/section/12/5/a) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 88(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/88/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-5409f62d7e899071022bf7db7d409abf]: Textual amendment: Words in [s. 12(5)(a)](https://www.legislation.gov.uk/ukpga/1968/13/section/12/5/a) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 88(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/88/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c13325461]: Marginal citation: [1961 c. 36](https://www.legislation.gov.uk/ukpga/1961/36).
 
@@ -1276,7 +1276,7 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13325601]: Marginal citation: [1888 c. 2](https://www.legislation.gov.uk/ukpga/1888/2).
 
-[^key-13a622a0f2c9a609df7242c07efbccda]: Textual amendment: Words in [s. 14(7)](https://www.legislation.gov.uk/ukpga/1968/13/section/14/7) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [15(2)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/15/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-13a622a0f2c9a609df7242c07efbccda]: Textual amendment: Words in [s. 14(7)](https://www.legislation.gov.uk/ukpga/1968/13/section/14/7) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [15(2)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/15/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c16554531]: Textual amendment: Words in s. 14(7) repealed (28.10.2002) by [The Irish Registers of Government Stock (Closure and Transfer) Order 2002 (S.I. 2002/2521)](https://www.legislation.gov.uk/uksi/2002/2521), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/2521/article/1/1), [2](https://www.legislation.gov.uk/uksi/2002/2521/article/2), [10(2)](https://www.legislation.gov.uk/uksi/2002/2521/article/10/2), {Sch. 2, Pt. 1}
 
@@ -1304,11 +1304,11 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13325711]: Textual amendment: S. 14A inserted (27,.7.1989) by [Finance Act 1989 (c. 26, SIF 99:3)](https://www.legislation.gov.uk/ukpga/1989/26), [s. 183(3)](https://www.legislation.gov.uk/ukpga/1989/26/section/183/3)
 
-[^key-92dd915be54ab411b4d08530ba47d037]: Textual amendment: Words in s. 15(1) substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 210(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/210/2)
+[^c-92dd915be54ab411b4d08530ba47d037]: Textual amendment: Words in s. 15(1) substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 210(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/210/2)
 
 [^c13325721]: Marginal citation: [1866 c. 39](https://www.legislation.gov.uk/ukpga/1866/39).
 
-[^key-7d4df81c95b053c52f856a5cd87144ec]: Textual amendment: S. 15(3) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 210(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/210/3), [Sch. 43 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/5)
+[^c-7d4df81c95b053c52f856a5cd87144ec]: Textual amendment: S. 15(3) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 210(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/210/3), [Sch. 43 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/5)
 
 [^c13326141]: Textual amendment: Words in s. 16(1) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. IX](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/IX) Gp. 1.
 
@@ -1330,7 +1330,7 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13326231]: Textual amendment: S. 16(6) repealed by [National Debt Act 1972 (c. 65)](https://www.legislation.gov.uk/ukpga/1972/65), [Sch.](https://www.legislation.gov.uk/ukpga/1972/65/schedule)
 
-[^key-1059049ee08c5b6f029bc623fc0c475a]: Textual amendment: Words in [s. 16(7)](https://www.legislation.gov.uk/ukpga/1968/13/section/16/7) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [15(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/15/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-1059049ee08c5b6f029bc623fc0c475a]: Textual amendment: Words in [s. 16(7)](https://www.legislation.gov.uk/ukpga/1968/13/section/16/7) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [15(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/15/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c13326241]: Textual amendment: Words repealed by [Post Office Act 1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1969/48/schedule/11/part/II)
 
@@ -1352,33 +1352,33 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13326341]: Textual amendment: S. 16(9)(b) and preceding word repealed by [Finance Act 1981 (c. 35, SIF 99:3)](https://www.legislation.gov.uk/ukpga/1981/35), [s. 139(6)](https://www.legislation.gov.uk/ukpga/1981/35/section/139/6), [Sch. 19 Pt. XII](https://www.legislation.gov.uk/ukpga/1981/35/schedule/19/part/XII)
 
-[^key-9a330fe48eaf5e0b2d62a7f1fed70e03]: Textual amendment: [S. 17(1)](https://www.legislation.gov.uk/ukpga/1968/13/section/17/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-9a330fe48eaf5e0b2d62a7f1fed70e03]: Textual amendment: [S. 17(1)](https://www.legislation.gov.uk/ukpga/1968/13/section/17/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c13326351]: Modification: The text of ss. 1(5), 8(2), 13(5), 17(1), 24(2) and Sch. 6 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-3cb1a7bff16cebaa9cdead1795250961]: Textual amendment: [S. 18(1)](https://www.legislation.gov.uk/ukpga/1968/13/section/18/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-3cb1a7bff16cebaa9cdead1795250961]: Textual amendment: [S. 18(1)](https://www.legislation.gov.uk/ukpga/1968/13/section/18/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c13326381]: Marginal citation: [1866 c. 39](https://www.legislation.gov.uk/ukpga/1866/39).
 
-[^key-21c164accec593c4807e844e208d622f]: Textual amendment: [S. 19(3)](https://www.legislation.gov.uk/ukpga/1968/13/section/19/3) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/5)
+[^c-21c164accec593c4807e844e208d622f]: Textual amendment: [S. 19(3)](https://www.legislation.gov.uk/ukpga/1968/13/section/19/3) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/5)
 
-[^key-b7e6ddd4559a7c0267d851d27764bb5b]: Textual amendment: Words in [s. 19(4)](https://www.legislation.gov.uk/ukpga/1968/13/section/19/4) substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 211](https://www.legislation.gov.uk/ukpga/2003/14/section/211)
+[^c-b7e6ddd4559a7c0267d851d27764bb5b]: Textual amendment: Words in [s. 19(4)](https://www.legislation.gov.uk/ukpga/1968/13/section/19/4) substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 211](https://www.legislation.gov.uk/ukpga/2003/14/section/211)
 
 [^c13326401]: Textual amendment: Cross heading and s. 20A inserted (15.11.1999 subject to arts. 5-7 of [S.I. 1999/2908](https://www.legislation.gov.uk/uksi/1999/2908)) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 160](https://www.legislation.gov.uk/ukpga/1998/36/section/160), [Sch. 26](https://www.legislation.gov.uk/ukpga/1998/36/schedule/26), [para. 1(2)](https://www.legislation.gov.uk/ukpga/1998/36/paragraph/1/2); [S.I. 1999/2908](https://www.legislation.gov.uk/uksi/1999/2908), [arts. 1](https://www.legislation.gov.uk/uksi/1999/2908/article/1), [2](https://www.legislation.gov.uk/uksi/1999/2908/article/2)
 
 [^c13326411]: Textual amendment: [S. 20A](https://www.legislation.gov.uk/ukpga/1968/13/section/20A) inserted (15.11.1999 subject to arts. 5-7 of [S.I. 1999/2908](https://www.legislation.gov.uk/uksi/1999/2908)) by [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36), [s. 160](https://www.legislation.gov.uk/ukpga/1988/36/section/160), [Sch. 26](https://www.legislation.gov.uk/ukpga/1988/36/schedule/26), [para. 1(2)](https://www.legislation.gov.uk/ukpga/1988/36/paragraph/1/2); [S.I. 1999/2908](https://www.legislation.gov.uk/uksi/1999/2908), [arts. 1](https://www.legislation.gov.uk/uksi/1999/2908/article/1), [2](https://www.legislation.gov.uk/uksi/1999/2908/article/2)
 
-[^key-cbe0397eb1905e6fb0bc974a4c216525]: Textual amendment: Words in s. 21(1) substituted (with effect in accordance with s. 212(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 212(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/212/2)
+[^c-cbe0397eb1905e6fb0bc974a4c216525]: Textual amendment: Words in s. 21(1) substituted (with effect in accordance with s. 212(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 212(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/212/2)
 
-[^key-97656bf18997cfdba3ca26622a993844]: Textual amendment: S. 21(3) repealed (with effect in accordance with s. 212(5) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 212(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/212/3), [Sch. 43 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/5); [S.I. 2004/2823](https://www.legislation.gov.uk/uksi/2004/2823), [art. 2](https://www.legislation.gov.uk/uksi/2004/2823/article/2)
+[^c-97656bf18997cfdba3ca26622a993844]: Textual amendment: S. 21(3) repealed (with effect in accordance with s. 212(5) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 212(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/212/3), [Sch. 43 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/5); [S.I. 2004/2823](https://www.legislation.gov.uk/uksi/2004/2823), [art. 2](https://www.legislation.gov.uk/uksi/2004/2823/article/2)
 
 [^c13326421]: Textual amendment: S. 21(4) repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [Sch. 1 Pt. XIII](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/XIII)
 
-[^key-94e9692c45a7f40ee05d58a7e883d1b9]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/ukpga/1968/13/section/22/1) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 66](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/66) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-94e9692c45a7f40ee05d58a7e883d1b9]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/ukpga/1968/13/section/22/1) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 66](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/66) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
 [^c13326431]: Modification: S. 22(2) amended by [Post Office Act 1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48), [s. 131(2)](https://www.legislation.gov.uk/ukpga/1969/48/section/131/2)
 
-[^key-d96ff94d6cc6ce2f84171c15b499d814]: Modification: S. 22(2) applied (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 124(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/3)[(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/7)
+[^c-d96ff94d6cc6ce2f84171c15b499d814]: Modification: S. 22(2) applied (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 124(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/3)[(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/7)
 
 [^c13326441]: Textual amendment: Words repealed by [Finance Act 1989 (c. 26, SIF 99:3)](https://www.legislation.gov.uk/ukpga/1989/26), [s. 187](https://www.legislation.gov.uk/ukpga/1989/26/section/187), [Sch. 17 Pt. XIV](https://www.legislation.gov.uk/ukpga/1989/26/schedule/17/part/XIV)
 
@@ -1394,9 +1394,9 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13327911]: Textual amendment: Entry relating to Tithe Act 1936 repealed by [Finance Act 1977 (c. 36)](https://www.legislation.gov.uk/ukpga/1977/36), [s. 59(5)](https://www.legislation.gov.uk/ukpga/1977/36/section/59/5), [Sch. 9 Pt. V](https://www.legislation.gov.uk/ukpga/1977/36/schedule/9/part/V) and [Finance Act 1989 (c. 26, SIF 99:3)](https://www.legislation.gov.uk/ukpga/1989/26), [s. 187](https://www.legislation.gov.uk/ukpga/1989/26/section/187), [Sch. 17 Pt. XIV](https://www.legislation.gov.uk/ukpga/1989/26/schedule/17/part/XIV)
 
-[^key-5bb8dd98586f365fb2cfcb47df92e915]: Textual amendment: Sch. 1: entries relating to sections 28(1)(b)(2), 34(1) of Coal Industry Nationalisation Act 1946 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-5bb8dd98586f365fb2cfcb47df92e915]: Textual amendment: Sch. 1: entries relating to sections 28(1)(b)(2), 34(1) of Coal Industry Nationalisation Act 1946 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
-[^key-62fa0fd914144ddcaea298d51223809a]: Textual amendment: Sch. 1: entries relating to New Towns Act 1946, Miscellaneous Financial Provisions Act 1950, Finance Act 1956, section 20(6) of Transport Act 1962 and Air Corporations Act 1967 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-62fa0fd914144ddcaea298d51223809a]: Textual amendment: Sch. 1: entries relating to New Towns Act 1946, Miscellaneous Financial Provisions Act 1950, Finance Act 1956, section 20(6) of Transport Act 1962 and Air Corporations Act 1967 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^M_F_a732aafe-c605-4fdc-e4e7-c0c9db0233fd]: Textual amendment: Entry relating to Gas Act 1948 repealed by [Gas Act 1972 (c. 60)](https://www.legislation.gov.uk/ukpga/1972/60), [s. 49(4)](https://www.legislation.gov.uk/ukpga/1985/71/section/49/4), [Sch. 8](https://www.legislation.gov.uk/ukpga/1985/71/schedule/8)
 
@@ -1430,7 +1430,7 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13328401]: Textual amendment: Reference to section “58(1)(5)(6)” substituted for “42(1)(4)(5)” in entry relating to New Towns Act 1981 by [New Towns Act 1981 (c. 64, SIF 123:3)](https://www.legislation.gov.uk/ukpga/1981/64), [s. 81](https://www.legislation.gov.uk/ukpga/1981/64/section/81), [Sch. 12 para. 2(a)](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/2/a)
 
-[^key-9e4682e3374f836fd026cb3cfa778382]: Textual amendment: Sch. 1: words in entry relating to New Towns Act 1981 repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/13/a), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(2)](https://www.legislation.gov.uk/uksi/2009/803/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2009/803/article/3/3)[10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-9e4682e3374f836fd026cb3cfa778382]: Textual amendment: Sch. 1: words in entry relating to New Towns Act 1981 repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/13/a), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 3(2)](https://www.legislation.gov.uk/uksi/2009/803/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2009/803/article/3/3)[10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
 [^c13328421]: Textual amendment: References to sections 44(1)(3), 45, 46(5) in entry relating to New Towns Act 1981 repealed by [New Towns Act 1981 (c. 64, SIF 123:3)](https://www.legislation.gov.uk/ukpga/1981/64), [s. 81](https://www.legislation.gov.uk/ukpga/1981/64/section/81), [Sch. 12 para. 2(b)](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/2/b), [Sch. 13](https://www.legislation.gov.uk/ukpga/1981/64/schedule/13)
 
@@ -1456,21 +1456,21 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13329771]: Textual amendment: Sch. 4 para. 1(a)(i)(ia) substituted for Sch. 4 para. 1(a)(i) (E.W.S.) (2.11.1992) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/1), [Sch. 13 para. 26](https://www.legislation.gov.uk/ukpga/1992/14/schedule/13/paragraph/26) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4)); [S.I. 1992/2454](https://www.legislation.gov.uk/uksi/1992/2454), [art. 2](https://www.legislation.gov.uk/uksi/1992/2454/article/2).
 
-[^key-73a675ccc14547e8a4ed2555ef98f2dd]: Textual amendment: Sch. 4 para. 1(a)(ia) substituted (E.W.) (1.10.2004 except in relation to W., 10.11.2004 in relation to W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 22(2)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/22/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2)
+[^c-73a675ccc14547e8a4ed2555ef98f2dd]: Textual amendment: Sch. 4 para. 1(a)(ia) substituted (E.W.) (1.10.2004 except in relation to W., 10.11.2004 in relation to W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 22(2)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/22/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2)
 
-[^key-1b1636b7053a37a5f028d5931f0e6c88]: Textual amendment: [Sch. 4 para. 1(a)(ib)](https://www.legislation.gov.uk/ukpga/1968/13/schedule/4/paragraph/1/a/ib) inserted (1.4.2023) by [The Local Government and Elections (Wales) Act 2021 (Corporate Joint Committees) (Consequential Amendments) Order 2023 (S.I. 2023/402)](https://www.legislation.gov.uk/uksi/2023/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/402/article/1/3), [2](https://www.legislation.gov.uk/uksi/2023/402/article/2)
+[^c-1b1636b7053a37a5f028d5931f0e6c88]: Textual amendment: [Sch. 4 para. 1(a)(ib)](https://www.legislation.gov.uk/ukpga/1968/13/schedule/4/paragraph/1/a/ib) inserted (1.4.2023) by [The Local Government and Elections (Wales) Act 2021 (Corporate Joint Committees) (Consequential Amendments) Order 2023 (S.I. 2023/402)](https://www.legislation.gov.uk/uksi/2023/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/402/article/1/3), [2](https://www.legislation.gov.uk/uksi/2023/402/article/2)
 
-[^key-30e82328f8f86a25b0bbef42592c8493]: Textual amendment: Words in Sch. 4 para. 1(a)(ii) substituted (E.W.) (1.10.2004 except in relation to W., 10.11.2004 in relation to W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/22/3); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2)
+[^c-30e82328f8f86a25b0bbef42592c8493]: Textual amendment: Words in Sch. 4 para. 1(a)(ii) substituted (E.W.) (1.10.2004 except in relation to W., 10.11.2004 in relation to W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/22/3); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2)
 
 [^c13329791]: Textual amendment: Word in Sch. 4 para. 1(a) repealed (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 139(1)](https://www.legislation.gov.uk/ukpga/1999/29/section/139/1), [423](https://www.legislation.gov.uk/ukpga/1999/29/section/423), [Sch. 34 Pt. I](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/I) (with [Sch. 12 para 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3434](https://www.legislation.gov.uk/uksi/1999/3434), [art. 4](https://www.legislation.gov.uk/uksi/1999/3434/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3434/schedule/2) Table 2
 
-[^key-64be7369526868bc6f5555c4392cd8cf]: Textual amendment: Word in [Sch. 4 para. 1(a)(iii)](https://www.legislation.gov.uk/ukpga/1968/13/schedule/4/paragraph/1/a/iii) inserted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 127(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/127/a); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-64be7369526868bc6f5555c4392cd8cf]: Textual amendment: Word in [Sch. 4 para. 1(a)(iii)](https://www.legislation.gov.uk/ukpga/1968/13/schedule/4/paragraph/1/a/iii) inserted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 127(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/127/a); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c13329811]: Textual amendment: Word in Sch. 4 para. 1(a)(iii) repealed (1.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch. 15 Pt. V(6)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/V/6) (with [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2001/916/article/2/c/i) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2001/916/article/4), [Schs. 1](https://www.legislation.gov.uk/uksi/2001/916/schedule/1), [2](https://www.legislation.gov.uk/uksi/2001/916/schedule/2))
 
 [^c13329801]: Textual amendment: [Sch. 4 para. 1(a)(iv)](https://www.legislation.gov.uk/ukpga/1968/13/schedule/4/paragraph/1/a/iv) and word inserted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [ss. 139(1)](https://www.legislation.gov.uk/ukpga/1999/29/section/139/1) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3434](https://www.legislation.gov.uk/uksi/1999/3434), [art. 4](https://www.legislation.gov.uk/uksi/1999/3434/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3434/schedule/2) Table 2
 
-[^key-148ede98fd937945dd02877b0c865a05]: Textual amendment: [Sch. 4 para. 1(a)(v)](https://www.legislation.gov.uk/ukpga/1968/13/schedule/4/paragraph/1/a/v) and word repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 127(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/127/b), [10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-148ede98fd937945dd02877b0c865a05]: Textual amendment: [Sch. 4 para. 1(a)(v)](https://www.legislation.gov.uk/ukpga/1968/13/schedule/4/paragraph/1/a/v) and word repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 127(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/127/b), [10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c13329831]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 
@@ -1502,9 +1502,9 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13330061]: Textual amendment: Entry repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. III](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/III)
 
-[^key-511a750650b47298ee117249fa5026b2]: Textual amendment: Sch. 5 entry repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-511a750650b47298ee117249fa5026b2]: Textual amendment: Sch. 5 entry repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
-[^key-1fd3196b11c54302d642a97cde52861b]: Textual amendment: Sch. 5 entry repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-1fd3196b11c54302d642a97cde52861b]: Textual amendment: Sch. 5 entry repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c13330081]: Textual amendment: Entry repealed by [National Debt Act 1972 (c. 65)](https://www.legislation.gov.uk/ukpga/1972/65), [Sch.](https://www.legislation.gov.uk/ukpga/1972/65/schedule)
 
@@ -1514,7 +1514,7 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13330111]: Textual amendment: Entries repealed by [Finance Act 1977 (c. 36)](https://www.legislation.gov.uk/ukpga/1977/36), [Sch. 9 Pt. V](https://www.legislation.gov.uk/ukpga/1977/36/schedule/9/part/V), by [Employment Protection (Consolidation) Act 1978 (c. 44)](https://www.legislation.gov.uk/ukpga/1978/44), [Sch. 17](https://www.legislation.gov.uk/ukpga/1978/44/schedule/17) and by enactments listed in the Chronological Table of Statutes
 
-[^key-0878c11bd54712cabff644ab68a87943]: Modification: [Sch. 5A](https://www.legislation.gov.uk/ukpga/1968/13/schedule/5A) modified in part (16.6.2014) by [The Government Alternative Finance Arrangements Regulations 2014 (S.I. 2014/1327)](https://www.legislation.gov.uk/uksi/2014/1327), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1327/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/1327/regulation/9)
+[^c-0878c11bd54712cabff644ab68a87943]: Modification: [Sch. 5A](https://www.legislation.gov.uk/ukpga/1968/13/schedule/5A) modified in part (16.6.2014) by [The Government Alternative Finance Arrangements Regulations 2014 (S.I. 2014/1327)](https://www.legislation.gov.uk/uksi/2014/1327), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1327/regulation/1), [9](https://www.legislation.gov.uk/uksi/2014/1327/regulation/9)
 
 [^c13330121]: Textual amendment: Sch. 5A inserted (15.11.1999 subject to arts. 5-7 of [S.I. 1999/2908](https://www.legislation.gov.uk/uksi/1999/2908)) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 160](https://www.legislation.gov.uk/ukpga/1998/36/section/160), [Sch. 26 para. 1(3)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/26/paragraph/1/3); [S.I. 1999/2908](https://www.legislation.gov.uk/uksi/1999/2908), [arts. 1](https://www.legislation.gov.uk/uksi/1999/2908/article/1), [2](https://www.legislation.gov.uk/uksi/1999/2908/article/2)
 
@@ -1530,19 +1530,19 @@ The repeals in this Part of this Schedule shall not have effect in relation to a
 
 [^c13330181]: Textual amendment: [Sch. 5A para. 5A](https://www.legislation.gov.uk/ukpga/1968/13/schedule/5A/paragraph/5A) inserted (27.7.1999) [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 134(3)(8)](https://www.legislation.gov.uk/ukpga/1999/16/section/134/3/8)
 
-[^key-cfe62d324acbe506097aab29b877d679]: Textual amendment: Sch. 5A para. 8 and cross-heading repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/5)
+[^c-cfe62d324acbe506097aab29b877d679]: Textual amendment: Sch. 5A para. 8 and cross-heading repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/5)
 
 [^c13330191]: Textual amendment: Words in [Sch. 5A para. 9(1)](https://www.legislation.gov.uk/ukpga/1968/13/schedule/5A/paragraph/9/1) inserted (27.7.1999) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 134(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/134/4)
 
 [^c13330201]: Textual amendment: Sch. 5A para. 11(1A) inserted (28.7.2000) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 151](https://www.legislation.gov.uk/ukpga/2000/17/section/151)
 
-[^key-92fe9b4bcf62b06cc8bed13988d2aab7]: Textual amendment: Sch. 5A para. 11(4) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 214](https://www.legislation.gov.uk/ukpga/2003/14/section/214)
+[^c-92fe9b4bcf62b06cc8bed13988d2aab7]: Textual amendment: Sch. 5A para. 11(4) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 214](https://www.legislation.gov.uk/ukpga/2003/14/section/214)
 
 [^c13330211]: Textual amendment: Words renumbered as Sch. 5A para. 13(1)(a) (27.7.1999) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 134(5)](https://www.legislation.gov.uk/ukpga/1999/16/section/134/5)
 
 [^c13330231]: Textual amendment: Sch. 5A para. 13(1)(b) inserted (27.7.1999) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16) s. 134(5)
 
-[^key-701fb308a7fb0c38f73479968dd2eb4b]: Textual amendment: Sch. 5A para. 13(2) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 210(4)](https://www.legislation.gov.uk/ukpga/2003/14/section/210/4), [Sch. 43 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/5)
+[^c-701fb308a7fb0c38f73479968dd2eb4b]: Textual amendment: Sch. 5A para. 13(2) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 210(4)](https://www.legislation.gov.uk/ukpga/2003/14/section/210/4), [Sch. 43 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/5)
 
 [^c13330241]: Textual amendment: Words renumbered as Sch. 5A para. 13(3)(a) (27.7.1999) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 134(6)(8)](https://www.legislation.gov.uk/ukpga/1999/16/section/134/6/8)
 

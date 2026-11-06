@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Delegation[^key-e332b9dc4ce045d093467928bf15dfc0]
+## 14. Delegation[^c-e332b9dc4ce045d093467928bf15dfc0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e332b9dc4ce045d093467928bf15dfc0]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-e332b9dc4ce045d093467928bf15dfc0]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

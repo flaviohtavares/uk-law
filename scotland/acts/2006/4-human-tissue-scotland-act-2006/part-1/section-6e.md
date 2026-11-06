@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6E. Non-resident adult: authorisation for transplantation by nearest relative[^key-9cc42cacfd5a1c7e9cfb7d2e4a8f541e]
+## 6E. Non-resident adult: authorisation for transplantation by nearest relative[^c-9cc42cacfd5a1c7e9cfb7d2e4a8f541e]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cc42cacfd5a1c7e9cfb7d2e4a8f541e]: Textual amendment: S. 6E inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 8](https://www.legislation.gov.uk/asp/2019/11/section/8), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-9cc42cacfd5a1c7e9cfb7d2e4a8f541e]: Textual amendment: S. 6E inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 8](https://www.legislation.gov.uk/asp/2019/11/section/8), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

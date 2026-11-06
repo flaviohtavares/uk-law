@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Part 1: Crown application[^key-47205e8b760d9cb2544f119b57f77c37]
+## 24. Part 1: Crown application[^c-47205e8b760d9cb2544f119b57f77c37]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ This Part binds the Crown.
 
 ## Annotations
 
-[^key-47205e8b760d9cb2544f119b57f77c37]: Commencement: S. 24 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-47205e8b760d9cb2544f119b57f77c37]: Commencement: S. 24 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

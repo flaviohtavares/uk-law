@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Application of rules, construction and interpretation[^key-6dc4b1c1abd80f1ca9dbd6c132b0af0f]
+## 3. Application of rules, construction and interpretation[^c-6dc4b1c1abd80f1ca9dbd6c132b0af0f]
 
 *Extent: N.I.*
 
@@ -29,12 +29,12 @@ summary: ''
 - “the 2006 Act” means the Companies Act 2006[^f00006];
 - “the 2009 Act” means the Banking Act 2009[^f00007]
 - “the Department” means the Department of Enterprise, Trade and Investment[^f00008];
-- “the appropriate regulator” in relation to a bank means—[^key-971410b11e9ae64e79e337327ec87d07]
+- “the appropriate regulator” in relation to a bank means—[^c-971410b11e9ae64e79e337327ec87d07]
   - (a) if the bank is a PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), the Prudential Regulation Authority and the Financial Conduct Authority;
   - (b) in any other case, the Financial Conduct Authority;
 - “bank” means the bank (as defined by section 91(1) of the 2009 Act) which is or is to be the subject of the bank insolvency order;
 - “Companies Order” means the Companies (Northern Ireland) Order 1986[^f00009];
-- [^key-cc7167f482cd1aead97f731818e7099b]...
+- [^c-cc7167f482cd1aead97f731818e7099b]...
 - “the FSCS” means the Financial Services Compensation Scheme (established under Part 15 of the Financial Services and Markets Act 2000[^f00010]) or, where appropriate, the scheme manager of that scheme;
 - “the insolvent” means the bank that has been put into bank insolvency;
 - “liquidation committee” means the committee established pursuant to section 100 of the 2009 Act;
@@ -102,7 +102,7 @@ the reference in Rule A shall be treated, for the purpose of these Rules, as bei
 
 ## Annotations
 
-[^key-6dc4b1c1abd80f1ca9dbd6c132b0af0f]: Commencement: Rule 3 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-6dc4b1c1abd80f1ca9dbd6c132b0af0f]: Commencement: Rule 3 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00005]: Footnote: The Insolvency Rules (Northern Ireland) ([S.R. 1991 No. 364](https://www.legislation.gov.uk/nisr/1991/364)), as amended by the Insolvency (Amendment) Rules (Northern Ireland) 1994 ([S.R. 1994 No. 26](https://www.legislation.gov.uk/nisr/1994/26)), the Insolvency (Amendment) Rules (Northern Ireland) 1995 ([S.R. 1995 No.291](https://www.legislation.gov.uk/nisr/1995/291)), the Insolvency (Amendment) Rules (Northern Ireland) 2000 ([S.R. 2000 No. 247](https://www.legislation.gov.uk/nisr/2000/247)), the Insolvency (Amendment) Rules (Northern Ireland) 2002 ([S.R. 2002 N.261](https://www.legislation.gov.uk/nisr/2002/261)), the Insolvency (Amendment) Rules (Northern Ireland) 2003 ([S.R. 2003 549](https://www.legislation.gov.uk/nisr/2003/549)), the Insolvency (Amendment) Rules (Northern Ireland) 2006 ([S.R. 2006 No. 47](https://www.legislation.gov.uk/nisr/2006/47)), the Insolvency (Amendment) Rules (Northern Ireland) 2008 ([S.R. 2008 No. 118](https://www.legislation.gov.uk/nisr/2008/118)) and the Financial Services and Markets Act 2000 (Consequential Amendments) Order 2004 ([S.I. 2004/355](https://www.legislation.gov.uk/uksi/2004/355)).
 
@@ -112,10 +112,10 @@ the reference in Rule A shall be treated, for the purpose of these Rules, as bei
 
 [^f00008]: Footnote: Formerly the Department of Economic Development, see the Departments (Northern Ireland) Order 1999 ([S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283))
 
-[^key-971410b11e9ae64e79e337327ec87d07]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/nisr/2009/122/article/3/2) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 154(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/154/a/ii)
+[^c-971410b11e9ae64e79e337327ec87d07]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/nisr/2009/122/article/3/2) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 154(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/154/a/ii)
 
 [^f00009]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
-[^key-cc7167f482cd1aead97f731818e7099b]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/nisr/2009/122/article/3/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 154(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/154/a/i)
+[^c-cc7167f482cd1aead97f731818e7099b]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/nisr/2009/122/article/3/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 154(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/154/a/i)
 
 [^f00010]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).

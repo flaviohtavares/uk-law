@@ -24,23 +24,23 @@ Section 101(1)
 
 ### Water Act 1989 (c. 15)
 
-**1.** (1)[^key-c2bd9312652e3b37415d6dc69a875c84][^key-2b415c42fb86f8e8b2741459bc651ff2] Section 174 of the Water Act 1989 (general restrictions on disclosure of information) is amended as follows.
+**1.** (1)[^c-c2bd9312652e3b37415d6dc69a875c84][^c-2b415c42fb86f8e8b2741459bc651ff2] Section 174 of the Water Act 1989 (general restrictions on disclosure of information) is amended as follows.
 
-(2)[^key-51294b0cb0839a847b9c4e6c595f48aa] In paragraph (b) of subsection (2), for “or a sewerage undertaker” there is substituted “ , sewerage undertaker or company holding a licence under Chapter 1A of Part 2 of the Water Industry Act 1991 ”.
+(2)[^c-51294b0cb0839a847b9c4e6c595f48aa] In paragraph (b) of subsection (2), for “or a sewerage undertaker” there is substituted “ , sewerage undertaker or company holding a licence under Chapter 1A of Part 2 of the Water Industry Act 1991 ”.
 
-(3)[^key-51294b0cb0839a847b9c4e6c595f48aa] In paragraph (c) of that subsection, for “203(1) or (2)” there is substituted “ 203(1), (1A), (2) or (2A) ”.
+(3)[^c-51294b0cb0839a847b9c4e6c595f48aa] In paragraph (c) of that subsection, for “203(1) or (2)” there is substituted “ 203(1), (1A), (2) or (2A) ”.
 
-(4)[^key-5ed7106fa73fae818739da2dc1f59d12][^key-2b415c42fb86f8e8b2741459bc651ff2] In subsection (6)(a), after “sewerage undertaker” there is inserted “ , or with the carrying on by a company holding a licence under Chapter 1A of Part 2 of the Water Industry Act 1991 of activities under its licence, ”.
+(4)[^c-5ed7106fa73fae818739da2dc1f59d12][^c-2b415c42fb86f8e8b2741459bc651ff2] In subsection (6)(a), after “sewerage undertaker” there is inserted “ , or with the carrying on by a company holding a licence under Chapter 1A of Part 2 of the Water Industry Act 1991 of activities under its licence, ”.
 
 ### Water Industry Act 1991 (c. 56)
 
-**2.**[^key-7b34500c88c1f3c29123196ef66c2169][^key-a28e4fa3497c19027364be0d9feb0931][^key-f2c4fbb98f8b24413d7040e7524914a8] The WIA is amended as follows.
+**2.**[^c-7b34500c88c1f3c29123196ef66c2169][^c-a28e4fa3497c19027364be0d9feb0931][^c-f2c4fbb98f8b24413d7040e7524914a8] The WIA is amended as follows.
 
-**3.**[^key-16be3541ae89789845da9647225abcdc] In section 6 (appointment of relevant undertakers), after subsection (5) there is inserted—
+**3.**[^c-16be3541ae89789845da9647225abcdc] In section 6 (appointment of relevant undertakers), after subsection (5) there is inserted—
 
 > (5A) A company shall not be appointed to be a relevant undertaker if it is a licensed water supplier.
 
-**4.**[^key-b9fad51d93d5d8cf26cde93dc6caeb80] (1) Section 18 (orders for securing compliance) is amended as follows.
+**4.**[^c-b9fad51d93d5d8cf26cde93dc6caeb80] (1) Section 18 (orders for securing compliance) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -90,7 +90,7 @@ Section 101(1)
 >
 > the only remedies for, or for causing or contributing to, that contravention (apart from those available by virtue of this section) shall be those for which express provision is made by or under any enactment and those that are available in respect of that act or omission otherwise than by virtue of its constituting, or causing or contributing to, such a contravention.
 
-**5.**[^key-6b416a57a6d6a86cab9939d2e56987bc] (1) Section 19 (exceptions to duty to enforce) is amended as follows.
+**5.**[^c-6b416a57a6d6a86cab9939d2e56987bc] (1) Section 19 (exceptions to duty to enforce) is amended as follows.
 
 (2) In subsection (1), after paragraph (a) there is inserted—
 
@@ -100,7 +100,7 @@ Section 101(1)
 
 (3) In subsection (3), after “paragraph (a),” there is inserted “ (aa), ”.
 
-**6.**[^key-f5b8f3f6732c596d52529e5b43760f59] (1) Section 20 (procedure for enforcement orders) is amended as follows.
+**6.**[^c-f5b8f3f6732c596d52529e5b43760f59] (1) Section 20 (procedure for enforcement orders) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -122,9 +122,9 @@ Section 101(1)
 
 (4) In subsection (2), after “subsection (1)” there is inserted “ or (1A) ”.
 
-**7.**[^key-959b2250c4275d34bb0bf7767b5e4396] In section 22 (effect of enforcement order), in subsection (3), after “section 68(1)(a)” there is inserted “ or (1A)(a) ”.
+**7.**[^c-959b2250c4275d34bb0bf7767b5e4396] In section 22 (effect of enforcement order), in subsection (3), after “section 68(1)(a)” there is inserted “ or (1A)(a) ”.
 
-**8.**[^key-e5d837b145f2807357f6b99c8fc5e2d9] (1) Section 23 (meaning and effect of special administration order) is amended as follows.
+**8.**[^c-e5d837b145f2807357f6b99c8fc5e2d9] (1) Section 23 (meaning and effect of special administration order) is amended as follows.
 
 (2) In subsection (1), after “this Part” there is inserted “ or which is a qualifying licensed water supplier ”.
 
@@ -151,7 +151,7 @@ Section 101(1)
 > - (a) it is the holder of a combined licence (within the meaning of Chapter 1A of this Part); and
 > - (b) the introduction of water by it which is permitted under section 66B or 66C below is designated as a strategic supply under section 66G below or the introductions of water by it which are so permitted are designated as a collective strategic supply under section 66H below.
 
-**9.**[^key-0c1d17e5314a510d5487bcbdc90ab259] (1) Section 24 (special administration orders made on special petitions) is amended as follows.
+**9.**[^c-0c1d17e5314a510d5487bcbdc90ab259] (1) Section 24 (special administration orders made on special petitions) is amended as follows.
 
 (2) After subsection (1), there is inserted—
 
@@ -183,14 +183,14 @@ Section 101(1)
 > - (a) in relation to a company holding an appointment under Chapter 1 of this Part, a requirement imposed on the company by section 37 or 94 below;
 > - (b) in relation to a company which is a qualifying licensed water supplier, any condition of its licence or any statutory requirement imposed on it in consequence of its licence.
 
-**10.**[^key-1ee85c54c993c1a5371b344d1952bb68] In section 25 (power to make special administration order on a winding up)—
+**10.**[^c-1ee85c54c993c1a5371b344d1952bb68] In section 25 (power to make special administration order on a winding up)—
 
 - (a) after “this Part” there is inserted “ or is a qualifying licensed water supplier ”, and
 - (b) in paragraph (b), after “appointment” there is inserted “ or a qualifying licensed water supplier ”.
 
-**11.**[^key-0fff3abb36b551989dc7dcdd8d61cb67] In section 26 (restrictions on voluntary winding up and insolvency proceedings), after “this Part” there is inserted “ or is a qualifying licensed water supplier ”.
+**11.**[^c-0fff3abb36b551989dc7dcdd8d61cb67] In section 26 (restrictions on voluntary winding up and insolvency proceedings), after “this Part” there is inserted “ or is a qualifying licensed water supplier ”.
 
-**12.**[^key-b34a5013c6d4da97852e4953a40c5730] (1) Section 27 (general duty of Authority to keep matters under review) is amended as follows.
+**12.**[^c-b34a5013c6d4da97852e4953a40c5730] (1) Section 27 (general duty of Authority to keep matters under review) is amended as follows.
 
 (2) In subsection (1), for the words from “water” to the end there is substituted—
 
@@ -213,7 +213,7 @@ Section 101(1)
 > - (c) the activities authorised by retail licences or combined licences (within the meanings of Chapter 1A of this Part); or
 > - (d) the carrying on of any such activities by a company holding any such licence.
 
-**13.**[^key-678ddf360c4437920da69ab771a7f90b] (1) Section 39A (information to be given to customers about overall performance) is amended as follows.
+**13.**[^c-678ddf360c4437920da69ab771a7f90b] (1) Section 39A (information to be given to customers about overall performance) is amended as follows.
 
 (2) In subsection (1), after “customers” there is inserted “ , and, if the direction so specifies, licensed water suppliers using the undertaker’s supply system for the purpose of supplying water to the premises of customers or those customers, ”.
 
@@ -225,7 +225,7 @@ Section 101(1)
 
 (4) In subsection (3), after “undertaker” there is inserted “ or licensed water supplier ”.
 
-**14.**[^key-ab0dd180e882c5df9ef988636937bf23] (1) Section 43 (calculation of payments to undertaker in respect of provision of water main) is amended as follows.
+**14.**[^c-ab0dd180e882c5df9ef988636937bf23] (1) Section 43 (calculation of payments to undertaker in respect of provision of water main) is amended as follows.
 
 (2) In subsection (1), for “water charges payable for the use during that year of that main are” there is substituted “ relevant revenue in respect of that main for that year is ”.
 
@@ -240,7 +240,7 @@ Section 101(1)
 >   - (i) are payable by the supplier to the undertaker in respect of the duty under section 66A(2)(b), 66B(3)(b) or 66C(2)(b)(ii) below; and
 >   - (ii) are reasonably attributable to the use of that main for the purpose of the supplier supplying water to those premises.
 
-**15.**[^key-e9f48e577376fbdd6c12b60d30e23aed] (1) Section 52 (the domestic supply duty) is amended as follows.
+**15.**[^c-e9f48e577376fbdd6c12b60d30e23aed] (1) Section 52 (the domestic supply duty) is amended as follows.
 
 (2) In subsection (3), at the beginning there is inserted “ Subject to subsection (4A) below, ”.
 
@@ -259,7 +259,7 @@ Section 101(1)
 > - (a) a notice is served in respect of those premises under section 63AA below; and
 > - (b) the time specified in that notice has passed.
 
-**16.**[^key-227f9ad2ebeedc9606e99d9144170176] (1) Section 55 (supplies for non-domestic purposes) is amended as follows.
+**16.**[^c-227f9ad2ebeedc9606e99d9144170176] (1) Section 55 (supplies for non-domestic purposes) is amended as follows.
 
 (2) After subsection (1) there is inserted—
 
@@ -271,7 +271,7 @@ Section 101(1)
 
 (3) In subsection (8), after “63” there is inserted “ and 63AB ”.
 
-**17.**[^key-1fc753af66ca5e7727d56eae30b8ec61] After section 63 there is inserted—
+**17.**[^c-1fc753af66ca5e7727d56eae30b8ec61] After section 63 there is inserted—
 
 > **Supply by licensed water supplier etc**
 >
@@ -331,7 +331,7 @@ Section 101(1)
 >
 > (8) Sections 60 to 63 above apply as they apply where a supply of water is made under section 52 or 55 above.
 
-**18.**[^key-207f1735b3d3b79c04b680eb88fe9f10] (1) Section 68 (water quality) is amended as follows.
+**18.**[^c-207f1735b3d3b79c04b680eb88fe9f10] (1) Section 68 (water quality) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -369,7 +369,7 @@ Section 101(1)
 
 (8) In the sidenote (and the italic heading immediately preceding it), after “undertakers” there is inserted “ and licensed water suppliers ”.
 
-**19.**[^key-de31fbced017113c0f0c46ae7332b567] (1) Section 69 (regulations for preserving water quality) is amended as follows.
+**19.**[^c-de31fbced017113c0f0c46ae7332b567] (1) Section 69 (regulations for preserving water quality) is amended as follows.
 
 (2) In subsection (1), for “to take all such steps” there is substituted “ or a licensed water supplier to ensure that such steps are taken ”.
 
@@ -433,7 +433,7 @@ Section 101(1)
 >   - (ii) made by a licensed water supplier using the undertaker’s supply system; and
 > - (b) in the case of an obligation imposed on a licensed water supplier, supplies of water made by that supplier using a water undertaker’s supply system.
 
-**20.**[^key-22b41650f7cbd9d9d1d9b200190b2abb] (1) Section 70 (offence of supplying water unfit for human consumption) is amended as follows.
+**20.**[^c-22b41650f7cbd9d9d1d9b200190b2abb] (1) Section 70 (offence of supplying water unfit for human consumption) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -462,24 +462,24 @@ Section 101(1)
 >
 > (3B) In subsection (3A) above, “**relevant arrangements**” means arrangements made by the primary water undertaker to ensure that all other relevant persons were required to take all reasonable steps and exercise all due diligence for securing that the water was fit for human consumption on leaving the undertaker’s pipes or was not used for human consumption.
 
-**21.**[^key-33c261633141547c0dcec3e7cf789d79] In section 72 (contamination of water sources), in subsection (5), after paragraph (b) there is inserted
+**21.**[^c-33c261633141547c0dcec3e7cf789d79] In section 72 (contamination of water sources), in subsection (5), after paragraph (b) there is inserted
 
 > ; and
 >
 > - (c) any pipe or conduit of a licensed water supplier.
 
-**22.**[^key-2f1fc018c0fa9b81a62de5e2e60a5658] In section 73 (offences of contaminating water etc), in subsection (1)—
+**22.**[^c-2f1fc018c0fa9b81a62de5e2e60a5658] In section 73 (offences of contaminating water etc), in subsection (1)—
 
 - (a) in the opening words, after “undertaker” there is inserted “ or licensed water supplier ”, and
 - (b) in paragraph (b), after “undertaker” there is inserted “ or supplier ”.
 
-**23.**[^key-f3d4a2b1c23d650e2199005ad4ed162e] In section 74 (regulations for preventing contamination etc), in subsection (1)—
+**23.**[^c-f3d4a2b1c23d650e2199005ad4ed162e] In section 74 (regulations for preventing contamination etc), in subsection (1)—
 
 - (a) in paragraph (b), after “undertaker” there is inserted “ or licensed water supplier ”,
 - (b) in paragraph (c), after “that undertaker” there is inserted “ or a licensed water supplier ”, and
 - (c) in paragraph (d), after “undertaker” there is inserted “ or licensed water supplier ”.
 
-**24.**[^key-9aec64dac57bfba057468cea84960d42] (1) Section 75 (power to prevent damage etc) is amended as follows.
+**24.**[^c-9aec64dac57bfba057468cea84960d42] (1) Section 75 (power to prevent damage etc) is amended as follows.
 
 (2) After subsection (1) there is inserted—
 
@@ -501,9 +501,9 @@ Section 101(1)
 >
 > (12) In subsection (1A) above, the reference to the supply system of a water undertaker shall be construed in accordance with section 17B(5) above.
 
-**25.**[^key-4015a911819429ef6f1bbd0843f96420] In section 76 (temporary hosepipe bans), in subsection (1), after “supplied by that undertaker” there is inserted “ or a licensed water supplier ”.
+**25.**[^c-4015a911819429ef6f1bbd0843f96420] In section 76 (temporary hosepipe bans), in subsection (1), after “supplied by that undertaker” there is inserted “ or a licensed water supplier ”.
 
-**26.**[^key-4d359ff36d5aa70e49e9c561873ffa59] (1) Section 78 (local authority functions in relation to undertaker’s supplies) is amended as follows.
+**26.**[^c-4d359ff36d5aa70e49e9c561873ffa59] (1) Section 78 (local authority functions in relation to undertaker’s supplies) is amended as follows.
 
 (2) In subsection (1)(a), after “undertaker” there is inserted “ , or by a licensed water supplier using that undertaker’s supply system, ”.
 
@@ -511,7 +511,7 @@ Section 101(1)
 
 > (3) In subsection (1)(a) above, the reference to the water undertaker’s supply system shall be construed in accordance with section 17B(5) above.
 
-**27.**[^key-8626f7cd359362e312152f0e707d90bb] (1) Section 86 (enforcement of water quality) is amended as follows.
+**27.**[^c-8626f7cd359362e312152f0e707d90bb] (1) Section 86 (enforcement of water quality) is amended as follows.
 
 (2) In subsection (1)(b), for “by a water undertaker” there is substituted “ using a water undertaker’s supply system ”.
 
@@ -527,9 +527,9 @@ Section 101(1)
 
 (6) In subsection (6), after “undertaker” there is inserted “ , licensed water supplier or other relevant person ”.
 
-**28.**[^key-254b9a6672ce160c2fca67e0b619f7bd] In section 93(1) (interpretation of Part 3), in the definition of “private supply”, after “undertaker” there is inserted “ or by a licensed water supplier in accordance with Chapter 1A of Part 2 of this Act ”.
+**28.**[^c-254b9a6672ce160c2fca67e0b619f7bd] In section 93(1) (interpretation of Part 3), in the definition of “private supply”, after “undertaker” there is inserted “ or by a licensed water supplier in accordance with Chapter 1A of Part 2 of this Act ”.
 
-**29.**[^key-0ab16aaf58799ba794dd71c0a7d78c9d] In section 93A (duty to promote the efficient use of water), in the following provisions—
+**29.**[^c-0ab16aaf58799ba794dd71c0a7d78c9d] In section 93A (duty to promote the efficient use of water), in the following provisions—
 
 - (a) subsection (1),
 - (b) subsection (2), and
@@ -537,7 +537,7 @@ Section 101(1)
 
 after “undertaker” there is inserted “ or licensed water supplier ”.
 
-**30.**[^key-5aef4c956477cc5484392b687c4e06bc] (1) Section 93B (power to impose requirements in connection with section 93A) is amended as follows.
+**30.**[^c-5aef4c956477cc5484392b687c4e06bc] (1) Section 93B (power to impose requirements in connection with section 93A) is amended as follows.
 
 (2) In subsection (1), after “undertaker” there is inserted “ or licensed water supplier ”.
 
@@ -563,7 +563,7 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 - (a) after “water undertaker” there is inserted “ or licensed water supplier ”, and
 - (b) after “that undertaker” there is inserted “ or supplier ”.
 
-**31.**[^key-3e8e6bcea5aa8ce75abb69499a45fcf1] (1) Section 93C (publicity) is amended as follows.
+**31.**[^c-3e8e6bcea5aa8ce75abb69499a45fcf1] (1) Section 93C (publicity) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -572,7 +572,7 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
 (3) In subsection (2), in paragraph (b), after “undertaker” there is inserted “ or supplier ”.
 
-**32.**[^key-aaa7a9fc09875150a21f4add36c37bb7] (1) Section 93D (information as to compliance) is amended as follows.
+**32.**[^c-aaa7a9fc09875150a21f4add36c37bb7] (1) Section 93D (information as to compliance) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -590,21 +590,21 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
 (5) In subsection (4), after “water undertaker” there is inserted “ or licensed water supplier ”.
 
-**33.**[^key-6f0c23c134fe8608083fdf0e410ddc56] In section 148 (restriction on charging for metering works), in subsection (2), after paragraph (c) there is inserted—
+**33.**[^c-6f0c23c134fe8608083fdf0e410ddc56] In section 148 (restriction on charging for metering works), in subsection (2), after paragraph (c) there is inserted—
 
 > - (cc) any sums which it is entitled to recover under an agreement under section 66D above;
 
 .
 
-**34.**[^key-1d5953037a447a3effc33c66a3b1a26b] In section 150 (fixing maximum charges for services provided with the help of undertakers' services), after subsection (1) there is inserted—
+**34.**[^c-1d5953037a447a3effc33c66a3b1a26b] In section 150 (fixing maximum charges for services provided with the help of undertakers' services), after subsection (1) there is inserted—
 
 > (1A) This section does not apply to water supplies provided by a licensed water supplier to premises of customers in accordance with Chapter 1A of Part 2 of this Act.
 
-**35.**[^key-345b69feafa1372e7fe6cbaef4ce8250] In section 152 (grants for national security purposes), in subsection (1), after “relevant undertakers” there is inserted “ and licensed water suppliers ”.
+**35.**[^c-345b69feafa1372e7fe6cbaef4ce8250] In section 152 (grants for national security purposes), in subsection (1), after “relevant undertakers” there is inserted “ and licensed water suppliers ”.
 
-**36.**[^key-62532634b73c433173fda33d3cd5dc78] In section 158 (powers to lay pipes in streets), in subsection (7)(a), after “trunk main” there is inserted “ but not including a pipe laid in pursuance of section 66B(3)(a)(ii) above which is used for the purpose of supplying water other than for domestic or food production purposes or laid in pursuance of section 66B(3)(a)(iii) above ”.
+**36.**[^c-62532634b73c433173fda33d3cd5dc78] In section 158 (powers to lay pipes in streets), in subsection (7)(a), after “trunk main” there is inserted “ but not including a pipe laid in pursuance of section 66B(3)(a)(ii) above which is used for the purpose of supplying water other than for domestic or food production purposes or laid in pursuance of section 66B(3)(a)(iii) above ”.
 
-**37.**[^key-18bfd7d907fba3a86bc231cbe61c0034] (1) Section 162 (works in connection with metering) is amended as follows.
+**37.**[^c-18bfd7d907fba3a86bc231cbe61c0034] (1) Section 162 (works in connection with metering) is amended as follows.
 
 (2) In subsection (1A), in paragraph (a) at the end there is inserted “ or ”.
 
@@ -618,9 +618,9 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
 > (1B) In subsection (1A)(d) above, the reference to the supply system of a water undertaker shall be construed in accordance with section 17B(5) above.
 
-**38.**[^key-a1e9fcce4915a73887ad008642d59ad6] In section 163 (power to fit stopcocks), in subsection (1), after “by the undertaker” there is inserted “ or a licensed water supplier ”.
+**38.**[^c-a1e9fcce4915a73887ad008642d59ad6] In section 163 (power to fit stopcocks), in subsection (1), after “by the undertaker” there is inserted “ or a licensed water supplier ”.
 
-**39.**[^key-5e4c37b391d69f569a116663f9fe71a4] (1) Section 174 (offences of interference with works) is amended as follows.
+**39.**[^c-5e4c37b391d69f569a116663f9fe71a4] (1) Section 174 (offences of interference with works) is amended as follows.
 
 (2) After subsection (1) there is inserted—
 
@@ -689,7 +689,7 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
 (10) In subsection (9), for “ “**consumer**” and “**water fitting**” have the same meanings” there is substituted “ “water fitting” has the same meaning ”.
 
-**40.**[^key-e955165293d2a888083030345669ac35] (1) Section 175 (offence of tampering with meter) is amended as follows.
+**40.**[^c-e955165293d2a888083030345669ac35] (1) Section 175 (offence of tampering with meter) is amended as follows.
 
 (2) In subsection (1)(a), after “undertaker” there is inserted “ or licensed water supplier ”.
 
@@ -709,7 +709,7 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 >
 > (4) In subsection (3) above, references to the consent of a relevant undertaker are references to consent under section 176 below.
 
-**41.**[^key-9ee579486bc6201afefcaa8b90037edf] (1) Section 179 (vesting of works in undertaker) is amended as follows.
+**41.**[^c-9ee579486bc6201afefcaa8b90037edf] (1) Section 179 (vesting of works in undertaker) is amended as follows.
 
 (2) In subsection (1), for the words from “subsection” to “vested” there is substituted “ subsections (1A) and (3) below ”.
 
@@ -717,7 +717,7 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
 > (1A) Subsection (1) above is subject to any provision to the contrary contained in an agreement between the relevant undertaker and the person in whom an interest in the pipe or works is or is to be vested; but no agreement may be made between a relevant undertaker and any other person for the vesting in that person of any pipe laid in pursuance of section 66B(3)(a)(ii) above or of subsection (2)(b)(i) of section 66C above by virtue of subsection (3)(b) of that section.
 
-**42.**[^key-352a82e2bedf8293972535fcbdc6fbe7] (1) Section 195 (maintenance of register for the purposes of Part 2) is amended as follows.
+**42.**[^c-352a82e2bedf8293972535fcbdc6fbe7] (1) Section 195 (maintenance of register for the purposes of Part 2) is amended as follows.
 
 (2) In subsection (2), after paragraph (a) there is inserted—
 
@@ -742,7 +742,7 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
 > (3AA) Before giving a direction under subsection (3) above which relates to a licensed water supplier, the Secretary of State shall consult the Assembly.
 
-**43.**[^key-ae1af922eff9a2e5aa498d42f6bd6cf6] (1) Section 201 (publication of information and advice) is amended as follows.
+**43.**[^c-ae1af922eff9a2e5aa498d42f6bd6cf6] (1) Section 201 (publication of information and advice) is amended as follows.
 
 (2) In subsection (1), for the words from “relating to” to “as it may” there is substituted—
 
@@ -755,7 +755,7 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
 (3) In subsection (2), at the end there is inserted “ or a licence under Chapter 1A of that Part ”.
 
-**44.**[^key-0acc377763bd3eaa398ea7c7f7d28e3c] (1) Section 202 (duty to furnish the Secretary of State with information) is amended as follows.
+**44.**[^c-0acc377763bd3eaa398ea7c7f7d28e3c] (1) Section 202 (duty to furnish the Secretary of State with information) is amended as follows.
 
 (2) After subsection (1) there is inserted—
 
@@ -770,7 +770,7 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
 (4) In subsection (5), after “undertaker” there is inserted “ or licensed water supplier ”.
 
-**45.**[^key-876dda81d1073aae7af67eaef6d81029] (1) Section 203 (power to acquire information for enforcement purposes) is amended as follows.
+**45.**[^c-876dda81d1073aae7af67eaef6d81029] (1) Section 203 (power to acquire information for enforcement purposes) is amended as follows.
 
 (2) In subsection (1), for the words from “that a company” to “section 18 above” there is substituted—
 
@@ -788,7 +788,7 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 - (a) after “this Act” there is inserted “ or of a licence under Chapter 1A of that Part ”, and
 - (b) after “such an appointment” there is inserted “ or licence ”.
 
-**46.**[^key-ec220e52f56dda6017846461bde2e783] (1) Section 205 (exchange of metering information) is amended as follows.
+**46.**[^c-ec220e52f56dda6017846461bde2e783] (1) Section 205 (exchange of metering information) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -812,15 +812,15 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 > - (a) any relevant undertaker; and
 > - (b) any licensed water supplier.
 
-**47.** (1)[^key-a2f044bba6b0c224c49765f642c2cae1][^key-cb6c799702332df9ac98ef26f183265c] Section 206 (restriction on disclosure of information) is amended as follows.
+**47.** (1)[^c-a2f044bba6b0c224c49765f642c2cae1][^c-cb6c799702332df9ac98ef26f183265c] Section 206 (restriction on disclosure of information) is amended as follows.
 
-(2)[^key-b1160d58fa80b92d379ce27ed09a5f90] In subsection (3), at the end of paragraph (b) there is inserted “ or by a licensed water supplier of any of the duties imposed on it by or under this Act ”.
+(2)[^c-b1160d58fa80b92d379ce27ed09a5f90] In subsection (3), at the end of paragraph (b) there is inserted “ or by a licensed water supplier of any of the duties imposed on it by or under this Act ”.
 
-(3)[^key-b1160d58fa80b92d379ce27ed09a5f90] In that subsection, in paragraph (c), for “203(1) or (2)” there is substituted “ 203(1), (1A), (2) or (2A) ”.
+(3)[^c-b1160d58fa80b92d379ce27ed09a5f90] In that subsection, in paragraph (c), for “203(1) or (2)” there is substituted “ 203(1), (1A), (2) or (2A) ”.
 
-(4)[^key-f8b57c764a0b00976ee4faf3c60bcf46] In subsection (5), in paragraph (a), after “undertaker” there is inserted “ , or with the carrying on by a licensed water supplier of activities under its licence, ”.
+(4)[^c-f8b57c764a0b00976ee4faf3c60bcf46] In subsection (5), in paragraph (a), after “undertaker” there is inserted “ , or with the carrying on by a licensed water supplier of activities under its licence, ”.
 
-**48.**[^key-32e0cfbc04600bbba15d8ac26396b8cb] (1) Section 208 (directions in the interests of national security) is amended as follows.
+**48.**[^c-32e0cfbc04600bbba15d8ac26396b8cb] (1) Section 208 (directions in the interests of national security) is amended as follows.
 
 (2) In subsections (1) and (2)—
 
@@ -829,13 +829,13 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
 (3) In subsection (3), after “relevant undertaker”, in both places where it appears, there is inserted “ or licensed water supplier ”.
 
-**49.** (1)[^key-99b494fa53290eb6800dcebd24d5551a][^key-c71955d3fd33f1cd2a00d79b46f66e5d] Section 213 (power to make regulations) is amended as follows.
+**49.** (1)[^c-99b494fa53290eb6800dcebd24d5551a][^c-c71955d3fd33f1cd2a00d79b46f66e5d] Section 213 (power to make regulations) is amended as follows.
 
-(2)[^key-913cff6fd48fb62c1a5a530a5bc76d29] In subsection (1), after “section 8(1) or (2)” there is inserted “ or 17D(8) ”.
+(2)[^c-913cff6fd48fb62c1a5a530a5bc76d29] In subsection (1), after “section 8(1) or (2)” there is inserted “ or 17D(8) ”.
 
-(3)[^key-8b844856afe6955b551e5105d0f207c8] In subsection (2)(a), after “sewerage undertaker” there is inserted “ or licensed water supplier ”.
+(3)[^c-8b844856afe6955b551e5105d0f207c8] In subsection (2)(a), after “sewerage undertaker” there is inserted “ or licensed water supplier ”.
 
-**50.**[^key-7293060d4d8a443cab7b350da4b0925b][^key-461d30788751bb0224e6110b6c1917dd] (1) Section 219 (general interpretation) is amended as follows.
+**50.**[^c-7293060d4d8a443cab7b350da4b0925b][^c-461d30788751bb0224e6110b6c1917dd] (1) Section 219 (general interpretation) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -849,11 +849,11 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
   .
 
-(3)[^key-932695374f2a2ef382eea7b121f6c7d9] After subsection (4) there is inserted—
+(3)[^c-932695374f2a2ef382eea7b121f6c7d9] After subsection (4) there is inserted—
 
 > (4A) In this Act, unless otherwise stated, references to the supply system of a water undertaker are to the water mains and other pipes which it is the undertaker’s duty to develop and maintain by virtue of section 37 above.
 
-**51.**[^key-e9615329ffe48437a0e4d4f1dd75e649] (1) Schedule 2 (transitional provision on termination of appointments) is amended as follows.
+**51.**[^c-e9615329ffe48437a0e4d4f1dd75e649] (1) Schedule 2 (transitional provision on termination of appointments) is amended as follows.
 
 (2) In paragraph 1, in sub-paragraph (1), for “and (3)” there is substituted “ to (3A) ”.
 
@@ -918,7 +918,7 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 > - (a) any reference to the existing appointee were a reference to the transferor; and
 > - (b) any reference to the new appointee were a reference to the transferee.
 
-**52.**[^key-1361d68d9d42fa587876824bd96a2aa1] (1) Schedule 3 (special administration orders) is amended as follows.
+**52.**[^c-1361d68d9d42fa587876824bd96a2aa1] (1) Schedule 3 (special administration orders) is amended as follows.
 
 (2) In paragraph 4—
 
@@ -932,9 +932,9 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
 ### Water Resources Act 1991 (c. 57)
 
-**53.** (1)[^key-c72d46a13a47981cd381a7f0f2895319][^key-762ac8592ea7fa0d4357324d17132448] The WRA is amended as follows.
+**53.** (1)[^c-c72d46a13a47981cd381a7f0f2895319][^c-762ac8592ea7fa0d4357324d17132448] The WRA is amended as follows.
 
-(2)[^key-c6f5dd868a77f8eee74535ba643438f0] In section 203 (exchange of information with respect to pollution incidents etc)—
+(2)[^c-c6f5dd868a77f8eee74535ba643438f0] In section 203 (exchange of information with respect to pollution incidents etc)—
 
 - (a) after subsection (1) there is inserted—
 
@@ -968,17 +968,17 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
 (3) In section 204 (restriction on disclosure of information)—
 
-- (a)[^key-c6f5dd868a77f8eee74535ba643438f0] in paragraph (b) of subsection (2), for “or sewerage undertaker” there is substituted “ , sewerage undertaker or company holding a licence under Chapter 1A of Part 2 of the Water Industry Act 1991 ”,
-- (b)[^key-c6f5dd868a77f8eee74535ba643438f0] in paragraph (c) of that subsection, for “203(1) or (2)” there is substituted “ 203(1), (1A), (2) or (2A) ”, and
-- (c)[^key-f5af74270616a05577d7365d220ab524] in subsection (4)(a), after “sewerage undertaker” there is inserted “ , or with the carrying on by a company holding a licence under Chapter 1A of Part 2 of the Water Industry Act 1991 of activities under its licence, ”.
+- (a)[^c-c6f5dd868a77f8eee74535ba643438f0] in paragraph (b) of subsection (2), for “or sewerage undertaker” there is substituted “ , sewerage undertaker or company holding a licence under Chapter 1A of Part 2 of the Water Industry Act 1991 ”,
+- (b)[^c-c6f5dd868a77f8eee74535ba643438f0] in paragraph (c) of that subsection, for “203(1) or (2)” there is substituted “ 203(1), (1A), (2) or (2A) ”, and
+- (c)[^c-f5af74270616a05577d7365d220ab524] in subsection (4)(a), after “sewerage undertaker” there is inserted “ , or with the carrying on by a company holding a licence under Chapter 1A of Part 2 of the Water Industry Act 1991 of activities under its licence, ”.
 
 ### Competition Act 1998 (c. 41)
 
-**54.**[^key-2748bbb08800bffd4f4f82a5f822732d] In Schedule 7 to the Competition Act 1998, in paragraph 19A(9), in the definition of “special reference group”, in paragraph (g), for “or 14” there is substituted “ , 14 or 17K ”.
+**54.**[^c-2748bbb08800bffd4f4f82a5f822732d] In Schedule 7 to the Competition Act 1998, in paragraph 19A(9), in the definition of “special reference group”, in paragraph (g), for “or 14” there is substituted “ , 14 or 17K ”.
 
 ### Enterprise Act 2002 (c. 40)
 
-**55.**[^key-b5e0bb0c6084b3026998c4c7ab822b9a] (1) The Enterprise Act 2002 is amended as follows.
+**55.**[^c-b5e0bb0c6084b3026998c4c7ab822b9a] (1) The Enterprise Act 2002 is amended as follows.
 
 (2) In section 168 (regulated markets)—
 
@@ -1001,144 +1001,144 @@ after “undertaker” there is inserted “ or licensed water supplier ”.
 
 ## Annotations
 
-[^key-c2bd9312652e3b37415d6dc69a875c84]: Commencement: [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/1/1) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-c2bd9312652e3b37415d6dc69a875c84]: Commencement: [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/1/1) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-2b415c42fb86f8e8b2741459bc651ff2]: Commencement: [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/1/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/1/4) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c)
+[^c-2b415c42fb86f8e8b2741459bc651ff2]: Commencement: [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/1/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/1/4) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c)
 
-[^key-51294b0cb0839a847b9c4e6c595f48aa]: Commencement: [Sch. 8 para. 1(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/1/3) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c)
+[^c-51294b0cb0839a847b9c4e6c595f48aa]: Commencement: [Sch. 8 para. 1(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/1/3) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c)
 
-[^key-5ed7106fa73fae818739da2dc1f59d12]: Commencement: [Sch. 8 para. 1(4)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/1/4) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-5ed7106fa73fae818739da2dc1f59d12]: Commencement: [Sch. 8 para. 1(4)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/1/4) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-7b34500c88c1f3c29123196ef66c2169]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/2) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-7b34500c88c1f3c29123196ef66c2169]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/2) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-a28e4fa3497c19027364be0d9feb0931]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/2) in force at 1.10.2004 for specified purposes by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(t)(iv)(v)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/t/iv/v) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-a28e4fa3497c19027364be0d9feb0931]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/2) in force at 1.10.2004 for specified purposes by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(t)(iv)(v)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/t/iv/v) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
 
-[^key-f2c4fbb98f8b24413d7040e7524914a8]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/2) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-f2c4fbb98f8b24413d7040e7524914a8]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/2) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-16be3541ae89789845da9647225abcdc]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/3) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-16be3541ae89789845da9647225abcdc]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/3) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-b9fad51d93d5d8cf26cde93dc6caeb80]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/4) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-b9fad51d93d5d8cf26cde93dc6caeb80]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/4) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-6b416a57a6d6a86cab9939d2e56987bc]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/5) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-6b416a57a6d6a86cab9939d2e56987bc]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/5) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-f5b8f3f6732c596d52529e5b43760f59]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/6) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-f5b8f3f6732c596d52529e5b43760f59]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/6) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-959b2250c4275d34bb0bf7767b5e4396]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/7) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-959b2250c4275d34bb0bf7767b5e4396]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/7) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-e5d837b145f2807357f6b99c8fc5e2d9]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/8) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-e5d837b145f2807357f6b99c8fc5e2d9]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/8) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-0c1d17e5314a510d5487bcbdc90ab259]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/9) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-0c1d17e5314a510d5487bcbdc90ab259]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/9) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-1ee85c54c993c1a5371b344d1952bb68]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/10) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-1ee85c54c993c1a5371b344d1952bb68]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/10) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-0fff3abb36b551989dc7dcdd8d61cb67]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/11) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-0fff3abb36b551989dc7dcdd8d61cb67]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/11) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-b34a5013c6d4da97852e4953a40c5730]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/12) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-b34a5013c6d4da97852e4953a40c5730]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/12) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-678ddf360c4437920da69ab771a7f90b]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/13) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-678ddf360c4437920da69ab771a7f90b]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/13) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-ab0dd180e882c5df9ef988636937bf23]: Commencement: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/14) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-ab0dd180e882c5df9ef988636937bf23]: Commencement: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/14) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-e9f48e577376fbdd6c12b60d30e23aed]: Commencement: [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/15) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-e9f48e577376fbdd6c12b60d30e23aed]: Commencement: [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/15) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-227f9ad2ebeedc9606e99d9144170176]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/16) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-227f9ad2ebeedc9606e99d9144170176]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/16) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-1fc753af66ca5e7727d56eae30b8ec61]: Commencement: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/17) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-1fc753af66ca5e7727d56eae30b8ec61]: Commencement: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/17) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-207f1735b3d3b79c04b680eb88fe9f10]: Commencement: [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/18) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-207f1735b3d3b79c04b680eb88fe9f10]: Commencement: [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/18) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-de31fbced017113c0f0c46ae7332b567]: Commencement: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/19) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-de31fbced017113c0f0c46ae7332b567]: Commencement: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/19) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-22b41650f7cbd9d9d1d9b200190b2abb]: Commencement: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/20) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(t)(iv)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/t/iv) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-22b41650f7cbd9d9d1d9b200190b2abb]: Commencement: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/20) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(t)(iv)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/t/iv) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
 
-[^key-33c261633141547c0dcec3e7cf789d79]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/21) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-33c261633141547c0dcec3e7cf789d79]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/21) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-2f1fc018c0fa9b81a62de5e2e60a5658]: Commencement: [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/22) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-2f1fc018c0fa9b81a62de5e2e60a5658]: Commencement: [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/22) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-f3d4a2b1c23d650e2199005ad4ed162e]: Commencement: [Sch. 8 para. 23](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/23) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-f3d4a2b1c23d650e2199005ad4ed162e]: Commencement: [Sch. 8 para. 23](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/23) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-9aec64dac57bfba057468cea84960d42]: Commencement: [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/24) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-9aec64dac57bfba057468cea84960d42]: Commencement: [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/24) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-4015a911819429ef6f1bbd0843f96420]: Commencement: [Sch. 8 para. 25](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/25) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-4015a911819429ef6f1bbd0843f96420]: Commencement: [Sch. 8 para. 25](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/25) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-4d359ff36d5aa70e49e9c561873ffa59]: Commencement: [Sch. 8 para. 26](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/26) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-4d359ff36d5aa70e49e9c561873ffa59]: Commencement: [Sch. 8 para. 26](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/26) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-8626f7cd359362e312152f0e707d90bb]: Commencement: [Sch. 8 para. 27](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/27) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-8626f7cd359362e312152f0e707d90bb]: Commencement: [Sch. 8 para. 27](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/27) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-254b9a6672ce160c2fca67e0b619f7bd]: Commencement: [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/28) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-254b9a6672ce160c2fca67e0b619f7bd]: Commencement: [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/28) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-0ab16aaf58799ba794dd71c0a7d78c9d]: Commencement: [Sch. 8 para. 29](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/29) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-0ab16aaf58799ba794dd71c0a7d78c9d]: Commencement: [Sch. 8 para. 29](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/29) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-5aef4c956477cc5484392b687c4e06bc]: Commencement: [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/30) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-5aef4c956477cc5484392b687c4e06bc]: Commencement: [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/30) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-3e8e6bcea5aa8ce75abb69499a45fcf1]: Commencement: [Sch. 8 para. 31](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/31) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-3e8e6bcea5aa8ce75abb69499a45fcf1]: Commencement: [Sch. 8 para. 31](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/31) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-aaa7a9fc09875150a21f4add36c37bb7]: Commencement: [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/32) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-aaa7a9fc09875150a21f4add36c37bb7]: Commencement: [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/32) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-6f0c23c134fe8608083fdf0e410ddc56]: Commencement: [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/33) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-6f0c23c134fe8608083fdf0e410ddc56]: Commencement: [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/33) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-1d5953037a447a3effc33c66a3b1a26b]: Commencement: [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/34) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-1d5953037a447a3effc33c66a3b1a26b]: Commencement: [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/34) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-345b69feafa1372e7fe6cbaef4ce8250]: Commencement: [Sch. 8 para. 35](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/35) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-345b69feafa1372e7fe6cbaef4ce8250]: Commencement: [Sch. 8 para. 35](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/35) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-62532634b73c433173fda33d3cd5dc78]: Commencement: [Sch. 8 para. 36](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/36) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-62532634b73c433173fda33d3cd5dc78]: Commencement: [Sch. 8 para. 36](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/36) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-18bfd7d907fba3a86bc231cbe61c0034]: Commencement: [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/37) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-18bfd7d907fba3a86bc231cbe61c0034]: Commencement: [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/37) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-a1e9fcce4915a73887ad008642d59ad6]: Commencement: [Sch. 8 para. 38](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/38) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-a1e9fcce4915a73887ad008642d59ad6]: Commencement: [Sch. 8 para. 38](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/38) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-5e4c37b391d69f569a116663f9fe71a4]: Commencement: [Sch. 8 para. 39](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/39) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-5e4c37b391d69f569a116663f9fe71a4]: Commencement: [Sch. 8 para. 39](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/39) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-e955165293d2a888083030345669ac35]: Commencement: [Sch. 8 para. 40](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/40) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-e955165293d2a888083030345669ac35]: Commencement: [Sch. 8 para. 40](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/40) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-9ee579486bc6201afefcaa8b90037edf]: Commencement: [Sch. 8 para. 41](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/41) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-9ee579486bc6201afefcaa8b90037edf]: Commencement: [Sch. 8 para. 41](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/41) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-352a82e2bedf8293972535fcbdc6fbe7]: Commencement: [Sch. 8 para. 42](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/42) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-352a82e2bedf8293972535fcbdc6fbe7]: Commencement: [Sch. 8 para. 42](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/42) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-ae1af922eff9a2e5aa498d42f6bd6cf6]: Commencement: [Sch. 8 para. 43](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/43) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-ae1af922eff9a2e5aa498d42f6bd6cf6]: Commencement: [Sch. 8 para. 43](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/43) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-0acc377763bd3eaa398ea7c7f7d28e3c]: Commencement: [Sch. 8 para. 44](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/44) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-0acc377763bd3eaa398ea7c7f7d28e3c]: Commencement: [Sch. 8 para. 44](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/44) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-876dda81d1073aae7af67eaef6d81029]: Commencement: [Sch. 8 para. 45](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/45) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-876dda81d1073aae7af67eaef6d81029]: Commencement: [Sch. 8 para. 45](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/45) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-ec220e52f56dda6017846461bde2e783]: Commencement: [Sch. 8 para. 46](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/46) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-ec220e52f56dda6017846461bde2e783]: Commencement: [Sch. 8 para. 46](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/46) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-a2f044bba6b0c224c49765f642c2cae1]: Commencement: [Sch. 8 para. 47(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/47/1) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-a2f044bba6b0c224c49765f642c2cae1]: Commencement: [Sch. 8 para. 47(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/47/1) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-cb6c799702332df9ac98ef26f183265c]: Commencement: [Sch. 8 para. 47(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/47/1) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-cb6c799702332df9ac98ef26f183265c]: Commencement: [Sch. 8 para. 47(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/47/1) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-b1160d58fa80b92d379ce27ed09a5f90]: Commencement: [Sch. 8 para. 47(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/47/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/47/3) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-b1160d58fa80b92d379ce27ed09a5f90]: Commencement: [Sch. 8 para. 47(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/47/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/47/3) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-f8b57c764a0b00976ee4faf3c60bcf46]: Commencement: [Sch. 8 para. 47(4)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/47/4) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-f8b57c764a0b00976ee4faf3c60bcf46]: Commencement: [Sch. 8 para. 47(4)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/47/4) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-32e0cfbc04600bbba15d8ac26396b8cb]: Commencement: [Sch. 8 para. 48](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/48) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-32e0cfbc04600bbba15d8ac26396b8cb]: Commencement: [Sch. 8 para. 48](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/48) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-99b494fa53290eb6800dcebd24d5551a]: Commencement: [Sch. 8 para. 49(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/49/1) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-99b494fa53290eb6800dcebd24d5551a]: Commencement: [Sch. 8 para. 49(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/49/1) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-c71955d3fd33f1cd2a00d79b46f66e5d]: Commencement: [Sch. 8 para. 49(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/49/1) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-c71955d3fd33f1cd2a00d79b46f66e5d]: Commencement: [Sch. 8 para. 49(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/49/1) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-913cff6fd48fb62c1a5a530a5bc76d29]: Commencement: [Sch. 8 para. 49(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/49/2) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-913cff6fd48fb62c1a5a530a5bc76d29]: Commencement: [Sch. 8 para. 49(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/49/2) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-8b844856afe6955b551e5105d0f207c8]: Commencement: [Sch. 8 para. 49(3)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/49/3) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-8b844856afe6955b551e5105d0f207c8]: Commencement: [Sch. 8 para. 49(3)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/49/3) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-7293060d4d8a443cab7b350da4b0925b]: Commencement: [Sch. 8 para. 50](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/50) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-7293060d4d8a443cab7b350da4b0925b]: Commencement: [Sch. 8 para. 50](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/50) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-461d30788751bb0224e6110b6c1917dd]: Commencement: [Sch. 8 para. 50](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/50) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-461d30788751bb0224e6110b6c1917dd]: Commencement: [Sch. 8 para. 50](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/50) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-932695374f2a2ef382eea7b121f6c7d9]: Commencement: [Sch. 8 para. 50(3)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/50/3) in force at 1.10.2004 for specified purposes by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(t)(v)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/t/v) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-932695374f2a2ef382eea7b121f6c7d9]: Commencement: [Sch. 8 para. 50(3)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/50/3) in force at 1.10.2004 for specified purposes by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(t)(v)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/t/v) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
 
-[^key-e9615329ffe48437a0e4d4f1dd75e649]: Commencement: [Sch. 8 para. 51](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/51) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-e9615329ffe48437a0e4d4f1dd75e649]: Commencement: [Sch. 8 para. 51](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/51) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-1361d68d9d42fa587876824bd96a2aa1]: Commencement: [Sch. 8 para. 52](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/52) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-1361d68d9d42fa587876824bd96a2aa1]: Commencement: [Sch. 8 para. 52](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/52) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-c72d46a13a47981cd381a7f0f2895319]: Commencement: [Sch. 8 para. 53(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/53/1) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-c72d46a13a47981cd381a7f0f2895319]: Commencement: [Sch. 8 para. 53(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/53/1) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-762ac8592ea7fa0d4357324d17132448]: Commencement: [Sch. 8 para. 53(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/53/1) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-762ac8592ea7fa0d4357324d17132448]: Commencement: [Sch. 8 para. 53(1)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/53/1) in force at 1.12.2005 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-c6f5dd868a77f8eee74535ba643438f0]: Commencement: [Sch. 8 para. 53(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/53/2)[(3)(a)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/53/3/a)[(3)(b)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/53/3/b) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-c6f5dd868a77f8eee74535ba643438f0]: Commencement: [Sch. 8 para. 53(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/53/2)[(3)(a)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/53/3/a)[(3)(b)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/53/3/b) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-f5af74270616a05577d7365d220ab524]: Commencement: [Sch. 8 para. 53(3)(c)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/53/3/c) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-f5af74270616a05577d7365d220ab524]: Commencement: [Sch. 8 para. 53(3)(c)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/53/3/c) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-2748bbb08800bffd4f4f82a5f822732d]: Commencement: [Sch. 8 para. 54](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/54) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c)
+[^c-2748bbb08800bffd4f4f82a5f822732d]: Commencement: [Sch. 8 para. 54](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/54) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c)
 
-[^key-b5e0bb0c6084b3026998c4c7ab822b9a]: Commencement: [Sch. 8 para. 55](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/55) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c)
+[^c-b5e0bb0c6084b3026998c4c7ab822b9a]: Commencement: [Sch. 8 para. 55](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/55) in force at 1.12.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c)

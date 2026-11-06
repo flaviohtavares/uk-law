@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118A. Penalties for multiple failures to make tax returns in respect of landfill disposals tax[^key-22f8ab0eaef7cc4e72fc9f3c1bb9d5b8]
+## 118A. Penalties for multiple failures to make tax returns in respect of landfill disposals tax[^c-22f8ab0eaef7cc4e72fc9f3c1bb9d5b8]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22f8ab0eaef7cc4e72fc9f3c1bb9d5b8]: Textual amendment: S. 118A inserted (1.4.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [ss. 74](https://www.legislation.gov.uk/anaw/2017/3/section/74), [97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-22f8ab0eaef7cc4e72fc9f3c1bb9d5b8]: Textual amendment: S. 118A inserted (1.4.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [ss. 74](https://www.legislation.gov.uk/anaw/2017/3/section/74), [97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

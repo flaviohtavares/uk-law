@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 148. Rate support grant, 1985/86.[^key-2729aff514e74e12e18167aef35a079a]
+## 148. Rate support grant, 1985/86.[^c-2729aff514e74e12e18167aef35a079a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2729aff514e74e12e18167aef35a079a]: Textual amendment: [S. 148](https://www.legislation.gov.uk/ukpga/1989/42/section/148) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-2729aff514e74e12e18167aef35a079a]: Textual amendment: [S. 148](https://www.legislation.gov.uk/ukpga/1989/42/section/148) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2

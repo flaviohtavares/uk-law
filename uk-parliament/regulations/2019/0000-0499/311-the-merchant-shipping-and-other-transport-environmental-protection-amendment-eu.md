@@ -54,7 +54,7 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-ba304aaea12eb268c8b9c30ae67911ac]
+### 1. Citation and commencement[^c-ba304aaea12eb268c8b9c30ae67911ac]
 
 (1) These Regulations may be cited as the Merchant Shipping and Other Transport (Environmental Protection) (Amendment) (EU Exit) Regulations 2019.
 
@@ -64,7 +64,7 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 
 ## PART 2 — Amendment of legislation made under the European Communities Act 1972
 
-### 2. Amendment of the Transport and Works Act 1992[^key-5f200d3274faa28fd6c3e39be53134bc]
+### 2. Amendment of the Transport and Works Act 1992[^c-5f200d3274faa28fd6c3e39be53134bc]
 
 (1) Part 1 of the Transport and Works Act 1992[^f00005] is amended as follows.
 
@@ -74,7 +74,7 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 
 .
 
-### 3. Amendment of the Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^key-ddde5a9d438c835e805b1b933d830df7]
+### 3. Amendment of the Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^c-ddde5a9d438c835e805b1b933d830df7]
 
 (1) The Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^f00007] are amended as follows.
 
@@ -99,7 +99,7 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 
 ## PART 3 — Amendment of primary legislation for EU Exit purposes
 
-### 4. Amendment of the Transport and Works Act 1992[^key-3358f311bddca2bfb184c7b7728d55fe]
+### 4. Amendment of the Transport and Works Act 1992[^c-3358f311bddca2bfb184c7b7728d55fe]
 
 (1) Part 1 of the Transport and Works Act 1992[^f00017] is amended as follows.
 
@@ -115,7 +115,7 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 
 ## PART 4 — Amendment of subordinate legislation for EU Exit purposes
 
-### 5. Amendment of the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006[^key-2767d86777c3df45e108ddffb5fc4aa3]
+### 5. Amendment of the Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006[^c-2767d86777c3df45e108ddffb5fc4aa3]
 
 (1) The Transport and Works (Applications and Objections Procedure) (England and Wales) Rules 2006[^f00021] are amended as follows.
 
@@ -167,7 +167,7 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
   - (ii) for “implementing” substitute “which implemented”;
 - (c) in paragraph 30, in sub-paragraphs (1)(a), (1)(b) and (2)(c), for “another” substitute “a”.
 
-### 6. Amendment of the Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^key-7f9d13e0678703c7433486acf462f519]
+### 6. Amendment of the Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^c-7f9d13e0678703c7433486acf462f519]
 
 (1) The Merchant Shipping (Prevention of Air Pollution from Ships) Regulations 2008[^f00022] are amended as follows.
 
@@ -200,21 +200,21 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
     ;
   - (ii) in sub-paragraph (5) omit “(a)(ii)”.
 
-### 7. Amendment of the Merchant Shipping (Anti-Fouling Systems) Regulations 2009[^key-a9860631cef7d069219fc2b9360416a0]
+### 7. Amendment of the Merchant Shipping (Anti-Fouling Systems) Regulations 2009[^c-a9860631cef7d069219fc2b9360416a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Amendment of direct EU legislation
 
-### 8. Amendment of Regulation [(EC) 782/2003](https://www.legislation.gov.uk/european/regulation/2003/0782)[^key-a9860631cef7d069219fc2b9360416a0]
+### 8. Amendment of Regulation [(EC) 782/2003](https://www.legislation.gov.uk/european/regulation/2003/0782)[^c-a9860631cef7d069219fc2b9360416a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of Commission Regulation [(EC) 536/2008](https://www.legislation.gov.uk/european/regulation/2008/0536)[^key-a9860631cef7d069219fc2b9360416a0]
+### 9. Amendment of Commission Regulation [(EC) 536/2008](https://www.legislation.gov.uk/european/regulation/2008/0536)[^c-a9860631cef7d069219fc2b9360416a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of Commission Implementing Decision (EU) 2015/253[^key-bd28b81f2abef6910d5f06d7c5f6a448]
+### 10. Amendment of Commission Implementing Decision (EU) 2015/253[^c-bd28b81f2abef6910d5f06d7c5f6a448]
 
 (1) Commission Implementing Decision (EU) 2015/253 of 16th February 2015 laying down the rules concerning the sampling and reporting under Council [Directive 1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032) as regards the sulphur content of marine fuels is amended as follows.
 
@@ -320,15 +320,15 @@ An Impact Assessment has not been produced for this instrument as no, or no sign
 
 [^f00004]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
 
-[^key-ba304aaea12eb268c8b9c30ae67911ac]: Commencement: Reg. 1 in force at 12.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2)
+[^c-ba304aaea12eb268c8b9c30ae67911ac]: Commencement: Reg. 1 in force at 12.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2)
 
-[^key-5f200d3274faa28fd6c3e39be53134bc]: Commencement: Reg. 2 in force at 12.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2)
+[^c-5f200d3274faa28fd6c3e39be53134bc]: Commencement: Reg. 2 in force at 12.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2)
 
 [^f00005]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
 
 [^f00006]: Footnote: As inserted by [S.I. 1998/2226](https://www.legislation.gov.uk/uksi/1998/2226), and subsequently amended by [S.I. 2000/3199](https://www.legislation.gov.uk/uksi/2000/3199).
 
-[^key-ddde5a9d438c835e805b1b933d830df7]: Commencement: Reg. 3 in force at 12.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2)
+[^c-ddde5a9d438c835e805b1b933d830df7]: Commencement: Reg. 3 in force at 12.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2008/2924](https://www.legislation.gov.uk/uksi/2008/2924), as amended by [S.I. 2010/895](https://www.legislation.gov.uk/uksi/2010/895), [S.I. 2010/3035](https://www.legislation.gov.uk/uksi/2010/3035), [S.I. 2011/3056](https://www.legislation.gov.uk/uksi/2011/3056), [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076), [S.I. 2014/3306](https://www.legislation.gov.uk/uksi/2014/3306) and [S.I. 2016/1025](https://www.legislation.gov.uk/uksi/2016/1025).
 
@@ -350,7 +350,7 @@ An Impact Assessment has not been produced for this instrument as no, or no sign
 
 [^f00016]: Footnote: Paragraph 10(3) was substituted by [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076).
 
-[^key-3358f311bddca2bfb184c7b7728d55fe]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/311/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3)
+[^c-3358f311bddca2bfb184c7b7728d55fe]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/311/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3)
 
 [^f00017]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
 
@@ -360,11 +360,11 @@ An Impact Assessment has not been produced for this instrument as no, or no sign
 
 [^f00020]: Footnote: As inserted by [S.I. 2017/1070](https://www.legislation.gov.uk/uksi/2017/1070).
 
-[^key-2767d86777c3df45e108ddffb5fc4aa3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/311/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3)
+[^c-2767d86777c3df45e108ddffb5fc4aa3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/311/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3)
 
 [^f00021]: Footnote: [S.I. 2006/1466](https://www.legislation.gov.uk/uksi/2006/1466), as amended by [S.I. 2008/969](https://www.legislation.gov.uk/uksi/2008/969), [S.I. 2010/439](https://www.legislation.gov.uk/uksi/2010/439), [S.I. 2010/1551](https://www.legislation.gov.uk/uksi/2010/1551), [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [S.I. 2011/1829](https://www.legislation.gov.uk/uksi/2011/1829), [S.I. 2011/2085](https://www.legislation.gov.uk/uksi/2011/2085), [S.I. 2012/147](https://www.legislation.gov.uk/uksi/2012/147), [S.I. 2012/1658](https://www.legislation.gov.uk/uksi/2012/1658), [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659), [S.I. 2012/2590](https://www.legislation.gov.uk/uksi/2012/2590), [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755), [S.I. 2013/1888](https://www.legislation.gov.uk/uksi/2013/1888), [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469), [S.I. 2015/627](https://www.legislation.gov.uk/uksi/2015/627), [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682) and [S.I. 2017/1070](https://www.legislation.gov.uk/uksi/2017/1070).
 
-[^key-7f9d13e0678703c7433486acf462f519]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/311/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3)
+[^c-7f9d13e0678703c7433486acf462f519]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/311/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3)
 
 [^f00022]: Footnote: [S.I. 2008/2924](https://www.legislation.gov.uk/uksi/2008/2924), as amended by [S.I. 2010/895](https://www.legislation.gov.uk/uksi/2010/895), [S.I. 2010/3035](https://www.legislation.gov.uk/uksi/2010/3035), [S.I. 2011/3056](https://www.legislation.gov.uk/uksi/2011/3056), [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076), [S.I. 2014/3306](https://www.legislation.gov.uk/uksi/2014/3306) and [S.I. 2016/1025](https://www.legislation.gov.uk/uksi/2016/1025).
 
@@ -380,8 +380,8 @@ An Impact Assessment has not been produced for this instrument as no, or no sign
 
 [^f00028]: Footnote: Paragraph 4(2)(e) was substituted by [S.I. 2014/3076](https://www.legislation.gov.uk/uksi/2014/3076).
 
-[^key-a9860631cef7d069219fc2b9360416a0]: Textual amendment: [Regs. 7-9](https://www.legislation.gov.uk/uksi/2019/311/regulation/7) revoked (10.5.2024) by [The Merchant Shipping (Anti-Fouling Systems) Regulations 2024 (S.I. 2024/509)](https://www.legislation.gov.uk/uksi/2024/509), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/509/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2024/509/schedule/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/509/regulation/4))
+[^c-a9860631cef7d069219fc2b9360416a0]: Textual amendment: [Regs. 7-9](https://www.legislation.gov.uk/uksi/2019/311/regulation/7) revoked (10.5.2024) by [The Merchant Shipping (Anti-Fouling Systems) Regulations 2024 (S.I. 2024/509)](https://www.legislation.gov.uk/uksi/2024/509), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/509/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2024/509/schedule/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/509/regulation/4))
 
-[^key-bd28b81f2abef6910d5f06d7c5f6a448]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/311/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3)
+[^c-bd28b81f2abef6910d5f06d7c5f6a448]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/311/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/311/regulation/1/3)
 
 [^f00032]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

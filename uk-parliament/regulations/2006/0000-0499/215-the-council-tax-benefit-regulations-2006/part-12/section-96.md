@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 96. Information to be supplied by an authority to another authority[^key-59c802f6cbe953edbd6cd8664c23efdb]
+## 96. Information to be supplied by an authority to another authority[^c-59c802f6cbe953edbd6cd8664c23efdb]
 
 (1) This regulation applies for the purposes of section 128A of the Administration Act (duty of an authority to disclose information to another authority).
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59c802f6cbe953edbd6cd8664c23efdb]: Textual amendment: Reg. 96 substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2008/959/regulation/7/3)
+[^c-59c802f6cbe953edbd6cd8664c23efdb]: Textual amendment: Reg. 96 substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2008/959/regulation/7/3)

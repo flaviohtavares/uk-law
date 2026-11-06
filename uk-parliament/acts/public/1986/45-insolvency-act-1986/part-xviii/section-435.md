@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 435. Meaning of “associate”.[^c15586151][^c18970941][^key-fadd2a8670adf4a22a3876dc18c5f156][^key-9037a71bf4f7ea392a0e34ae4a529849]
+## 435. Meaning of “associate”.[^c15586151][^c18970941][^c-fadd2a8670adf4a22a3876dc18c5f156][^c-9037a71bf4f7ea392a0e34ae4a529849]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (5) A person in his capacity as trustee of a trust other than—
 
-- (a) a trust arising under any of the second Group of Parts or the Bankruptcy (Scotland) Act 2016[^key-701f95b5247d339c8d24a5dc45820638], or
+- (a) a trust arising under any of the second Group of Parts or the Bankruptcy (Scotland) Act 2016[^c-701f95b5247d339c8d24a5dc45820638], or
 - (b) a pension scheme or an employees’ share scheme [^c20453971]. . . ,
 
 is an associate of another person if the beneficiaries of the trust include, or the terms of the trust confer a power that may be exercised for the benefit of, that other person or an associate of that other person.
@@ -86,15 +86,15 @@ and where two or more persons together satisfy either of the above conditions, t
 
 [^c18970941]: Modification: S. 435: power to apply (with modifications) conferred (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 57](https://www.legislation.gov.uk/ukpga/2004/35/section/57), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/3) (subject to [art. 2(12)](https://www.legislation.gov.uk/uksi/2005/275/article/2/12))
 
-[^key-fadd2a8670adf4a22a3876dc18c5f156]: Modification: S. 435 applied (31.5.2021 for specified purposes) by [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35), [s. 69A(14)(b)](https://www.legislation.gov.uk/uksi/2009/1941/section/69A/14/b) (as inserted by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/109/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/b))
+[^c-fadd2a8670adf4a22a3876dc18c5f156]: Modification: S. 435 applied (31.5.2021 for specified purposes) by [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35), [s. 69A(14)(b)](https://www.legislation.gov.uk/uksi/2009/1941/section/69A/14/b) (as inserted by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 109(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/109/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/b))
 
-[^key-9037a71bf4f7ea392a0e34ae4a529849]: Modification: [S. 435](https://www.legislation.gov.uk/ukpga/1986/45/section/435) modified (15.7.2026) by [Steel Industry (Nationalisation) Act 2026 (c. 27)](https://www.legislation.gov.uk/ukpga/2026/27), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2026/27/section/32/3), [63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
+[^c-9037a71bf4f7ea392a0e34ae4a529849]: Modification: [S. 435](https://www.legislation.gov.uk/ukpga/1986/45/section/435) modified (15.7.2026) by [Steel Industry (Nationalisation) Act 2026 (c. 27)](https://www.legislation.gov.uk/ukpga/2026/27), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2026/27/section/32/3), [63(1)](https://www.legislation.gov.uk/ukpga/2026/27/section/63/1)
 
 [^c18979201]: Textual amendment: S. 435(2) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/1), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263), [Sch. 27 para. 122(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/122/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/3))
 
 [^c18979241]: Textual amendment: Words in [s. 435(3)](https://www.legislation.gov.uk/ukpga/1986/45/section/435/3) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/1), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263), [Sch. 27 para. 122(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/122/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/3))
 
-[^key-701f95b5247d339c8d24a5dc45820638]: Textual amendment: Word in s. 435(5)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 4(10)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/4/10)
+[^c-701f95b5247d339c8d24a5dc45820638]: Textual amendment: Word in s. 435(5)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 4(10)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/4/10)
 
 [^c20453971]: Textual amendment: Words in [s. 435(5)(b)](https://www.legislation.gov.uk/ukpga/1986/45/section/435/5/b) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [8](https://www.legislation.gov.uk/uksi/2009/1941/article/8), [Sch. 1 para. 82(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/82/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10), [Sch. 1 para. 84](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/84))
 

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 318. Childcare: exemption for employer-provided care[^key-49e0eb89ea9807067799e64534871806]
+## 318. Childcare: exemption for employer-provided care[^c-49e0eb89ea9807067799e64534871806]
 
 *Extent: E+W+S+N.I.*
 
-(1) No liability to income tax arises[^key-364e01d7de8792dea642cd68b02778af] in respect of the provision for an employee of care for a child if conditions A to D are met.
+(1) No liability to income tax arises[^c-364e01d7de8792dea642cd68b02778af] in respect of the provision for an employee of care for a child if conditions A to D are met.
 
 For the meaning of “care” and “child”, see section 318B.
 
@@ -41,9 +41,9 @@ For the meaning of “parental responsibility”, see section 318B.
 
 (5) The registration requirements are—
 
-- (za)[^key-4748f046f1c469f19d3f82becb157e57] in England, that under ... Part 3 of the Childcare Act 2006;
-- (a) in ... Wales, that under Part 2 of the Children and Families (Wales) Measure 2010[^key-308b3c03a79db3aae55bfa83d9e43a77];
-- (b) in Scotland, that under Part 5 of the Public Services Reform (Scotland) Act 2010[^key-d9db72bea916598dcd6d1aaa31a8604b] ;
+- (za)[^c-4748f046f1c469f19d3f82becb157e57] in England, that under ... Part 3 of the Childcare Act 2006;
+- (a) in ... Wales, that under Part 2 of the Children and Families (Wales) Measure 2010[^c-308b3c03a79db3aae55bfa83d9e43a77];
+- (b) in Scotland, that under Part 5 of the Public Services Reform (Scotland) Act 2010[^c-d9db72bea916598dcd6d1aaa31a8604b] ;
 - (c) in Northern Ireland, that under Part XI of the Children (Northern Ireland) Order 1995.
 
 (6) Condition C is that—
@@ -68,12 +68,12 @@ and that the employee to whom it is provided is either an employee of the scheme
 
 ## Annotations
 
-[^key-49e0eb89ea9807067799e64534871806]: Textual amendment: Ss. 318-318D substituted for s. 318 (with effect in accordance with s. 78(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/13/paragraph/1)
+[^c-49e0eb89ea9807067799e64534871806]: Textual amendment: Ss. 318-318D substituted for s. 318 (with effect in accordance with s. 78(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/13/paragraph/1)
 
-[^key-364e01d7de8792dea642cd68b02778af]: Textual amendment: Words in s. 318(1) substituted (with effect in accordance with s. 16(7) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 16(5)](https://www.legislation.gov.uk/ukpga/2005/7/section/16/5)
+[^c-364e01d7de8792dea642cd68b02778af]: Textual amendment: Words in s. 318(1) substituted (with effect in accordance with s. 16(7) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 16(5)](https://www.legislation.gov.uk/ukpga/2005/7/section/16/5)
 
-[^key-4748f046f1c469f19d3f82becb157e57]: Textual amendment: S. 318(5)(za) inserted (1.9.2008) by [The Income Tax (Qualifying Child Care) Regulations 2008 (S.I. 2008/2170)](https://www.legislation.gov.uk/uksi/2008/2170), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2170/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2008/2170/regulation/2/a)
+[^c-4748f046f1c469f19d3f82becb157e57]: Textual amendment: S. 318(5)(za) inserted (1.9.2008) by [The Income Tax (Qualifying Child Care) Regulations 2008 (S.I. 2008/2170)](https://www.legislation.gov.uk/uksi/2008/2170), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2170/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2008/2170/regulation/2/a)
 
-[^key-308b3c03a79db3aae55bfa83d9e43a77]: Textual amendment: Words in s. 318(5)(a) substituted (6.4.2011) by [The Income Tax (Qualifying Child Care) Regulations 2011 (S.I. 2011/775)](https://www.legislation.gov.uk/uksi/2011/775), [regs. 1](https://www.legislation.gov.uk/uksi/2011/775/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/775/regulation/2)
+[^c-308b3c03a79db3aae55bfa83d9e43a77]: Textual amendment: Words in s. 318(5)(a) substituted (6.4.2011) by [The Income Tax (Qualifying Child Care) Regulations 2011 (S.I. 2011/775)](https://www.legislation.gov.uk/uksi/2011/775), [regs. 1](https://www.legislation.gov.uk/uksi/2011/775/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/775/regulation/2)
 
-[^key-d9db72bea916598dcd6d1aaa31a8604b]: Textual amendment: Words in s. 318(5)(b) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/6/a)
+[^c-d9db72bea916598dcd6d1aaa31a8604b]: Textual amendment: Words in s. 318(5)(b) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/6/a)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Categories of highway over which public right of way may not be restricted[^key-a03319a864ce50ef3a650535c36571ff]
+## 65. Categories of highway over which public right of way may not be restricted[^c-a03319a864ce50ef3a650535c36571ff]
 
 *Extent: E+W*
 
-(1) A public spaces protection order or an expedited order[^key-271fda985cc6632ce5c1eac355a6d99d] may not restrict the public right of way over a highway that is—
+(1) A public spaces protection order or an expedited order[^c-271fda985cc6632ce5c1eac355a6d99d] may not restrict the public right of way over a highway that is—
 
 - (a) a special road;
 - (b) a trunk road;
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a03319a864ce50ef3a650535c36571ff]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2014/12/section/65) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-a03319a864ce50ef3a650535c36571ff]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2014/12/section/65) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
 
-[^key-271fda985cc6632ce5c1eac355a6d99d]: Textual amendment: Words in [s. 65(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/65/1) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/10); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-271fda985cc6632ce5c1eac355a6d99d]: Textual amendment: Words in [s. 65(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/65/1) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2022/32/schedule/7/paragraph/10); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

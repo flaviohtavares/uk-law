@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 276. Advance statements: effect[^key-2ffc1b80246d7d0f56ee2f57be9d8743]
+## 276. Advance statements: effect[^c-2ffc1b80246d7d0f56ee2f57be9d8743]
 
 *Extent: S*
 
@@ -76,4 +76,4 @@ then the Tribunal, person having those functions or, as the case may be, designa
 
 ## Annotations
 
-[^key-2ffc1b80246d7d0f56ee2f57be9d8743]: Commencement: S. 276 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-2ffc1b80246d7d0f56ee2f57be9d8743]: Commencement: S. 276 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

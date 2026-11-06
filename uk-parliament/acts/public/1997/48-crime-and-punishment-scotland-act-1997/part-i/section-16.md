@@ -62,7 +62,7 @@ summary: ''
 
 (3C)[^c441630] In a case to which subsection (3A) or (3B) applies, Part I of the 1993 Act shall apply as if the person were a designated life prisoner, within the meaning of section 2 of that Act, whose licence had been granted under subsection (4) of that section on his having served the designated part of his sentence.
 
-(4)[^key-929f0cf5ec2bb652184e9984dcf48cb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-929f0cf5ec2bb652184e9984dcf48cb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -78,4 +78,4 @@ summary: ''
 
 [^c441630]: Textual amendment: S. 16(3A)-(3C) inserted (*retrospective* to 20.10.1997) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 109(1)(3)](https://www.legislation.gov.uk/ukpga/1998/37/section/109/1/3)
 
-[^key-929f0cf5ec2bb652184e9984dcf48cb7]: Textual amendment: [S. 16(4)](https://www.legislation.gov.uk/ukpga/1997/48/section/16/4) repealed (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [s. 89(2)](https://www.legislation.gov.uk/asp/2003/7/section/89/2), [Sch. 5](https://www.legislation.gov.uk/asp/2003/7/schedule/5); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
+[^c-929f0cf5ec2bb652184e9984dcf48cb7]: Textual amendment: [S. 16(4)](https://www.legislation.gov.uk/ukpga/1997/48/section/16/4) repealed (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [s. 89(2)](https://www.legislation.gov.uk/asp/2003/7/section/89/2), [Sch. 5](https://www.legislation.gov.uk/asp/2003/7/schedule/5); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)

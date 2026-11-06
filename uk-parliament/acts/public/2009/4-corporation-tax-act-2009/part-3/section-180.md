@@ -30,10 +30,10 @@ summary: ''
 
 (3) A company changes the basis on which profits of a trade are calculated for corporation tax purposes if the company makes—
 
-- (a) a change of accounting policy[^key-2c979e9b125c3d3d062f707fa1ad5b4f] (see subsection (4)), or
+- (a) a change of accounting policy[^c-2c979e9b125c3d3d062f707fa1ad5b4f] (see subsection (4)), or
 - (b) a change in the tax adjustments applied (see subsections (5) and (6)).
 
-(4)[^key-cbb12127a20156bebebd547cfff48a4d] A “**change of accounting policy**” includes, in particular—
+(4)[^c-cbb12127a20156bebebd547cfff48a4d] A “**change of accounting policy**” includes, in particular—
 
 - (a) a change from using UK generally accepted accounting practice to using generally accepted accounting practice with respect to accounts prepared in accordance with international accounting standards, and
 - (b) a change from using generally accepted accounting practice with respect to accounts prepared in accordance with international accounting standards to using UK generally accepted accounting practice.
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c979e9b125c3d3d062f707fa1ad5b4f]: Textual amendment: Words in s. 180(3)(a) substituted (with effect in accordance with s. 54(5)(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 54(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/54/2/a)
+[^c-2c979e9b125c3d3d062f707fa1ad5b4f]: Textual amendment: Words in s. 180(3)(a) substituted (with effect in accordance with s. 54(5)(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 54(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/54/2/a)
 
-[^key-cbb12127a20156bebebd547cfff48a4d]: Textual amendment: S. 180(4) substituted (with effect in accordance with s. 54(5)(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 54(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/54/2/b)
+[^c-cbb12127a20156bebebd547cfff48a4d]: Textual amendment: S. 180(4) substituted (with effect in accordance with s. 54(5)(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 54(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/54/2/b)

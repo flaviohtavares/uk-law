@@ -29,54 +29,54 @@ Rivers (Prevention of Pollution) (Scotland) Act 1965 (repealed)
 
 1965 c.13
 
-[^key-589b9093ffece8f25fae1ab3e1383416]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-589b9093ffece8f25fae1ab3e1383416]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1—9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-589b9093ffece8f25fae1ab3e1383416][^key-589b9093ffece8f25fae1ab3e1383416]
+## 1—9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-589b9093ffece8f25fae1ab3e1383416][^c-589b9093ffece8f25fae1ab3e1383416]
 
-## 10. Samples of effluent.[^key-589b9093ffece8f25fae1ab3e1383416][^key-589b9093ffece8f25fae1ab3e1383416]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 11, 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-589b9093ffece8f25fae1ab3e1383416][^key-589b9093ffece8f25fae1ab3e1383416]
-
-## 13. Saving for certain acts done for scientific et ceteralaetc. purposes with consent of Secretary of State or in certain cases of a district board.[^key-589b9093ffece8f25fae1ab3e1383416]
+## 10. Samples of effluent.[^c-589b9093ffece8f25fae1ab3e1383416][^c-589b9093ffece8f25fae1ab3e1383416]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-589b9093ffece8f25fae1ab3e1383416][^key-589b9093ffece8f25fae1ab3e1383416]
+## 11, 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-589b9093ffece8f25fae1ab3e1383416][^c-589b9093ffece8f25fae1ab3e1383416]
 
-## 15. Interpretation and construction.[^key-589b9093ffece8f25fae1ab3e1383416][^key-589b9093ffece8f25fae1ab3e1383416]
+## 13. Saving for certain acts done for scientific et ceteralaetc. purposes with consent of Secretary of State or in certain cases of a district board.[^c-589b9093ffece8f25fae1ab3e1383416]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-589b9093ffece8f25fae1ab3e1383416][^key-589b9093ffece8f25fae1ab3e1383416]
+## 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-589b9093ffece8f25fae1ab3e1383416][^c-589b9093ffece8f25fae1ab3e1383416]
 
-## 17. Short title, citation, extent, repeals and commencement.[^key-589b9093ffece8f25fae1ab3e1383416][^key-589b9093ffece8f25fae1ab3e1383416]
+## 15. Interpretation and construction.[^c-589b9093ffece8f25fae1ab3e1383416][^c-589b9093ffece8f25fae1ab3e1383416]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 16. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-589b9093ffece8f25fae1ab3e1383416][^c-589b9093ffece8f25fae1ab3e1383416]
+
+## 17. Short title, citation, extent, repeals and commencement.[^c-589b9093ffece8f25fae1ab3e1383416][^c-589b9093ffece8f25fae1ab3e1383416]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-589b9093ffece8f25fae1ab3e1383416] SCHEDULES
+[^c-589b9093ffece8f25fae1ab3e1383416] SCHEDULES
 
-## SCHEDULE 1 — . . .[^key-589b9093ffece8f25fae1ab3e1383416]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 2 — . . .[^key-589b9093ffece8f25fae1ab3e1383416]
+## SCHEDULE 1 — . . .[^c-589b9093ffece8f25fae1ab3e1383416]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-589b9093ffece8f25fae1ab3e1383416]
+## SCHEDULE 2 — . . .[^c-589b9093ffece8f25fae1ab3e1383416]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4[^key-589b9093ffece8f25fae1ab3e1383416]
+## SCHEDULE 3[^c-589b9093ffece8f25fae1ab3e1383416]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4[^c-589b9093ffece8f25fae1ab3e1383416]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-589b9093ffece8f25fae1ab3e1383416]: Textual amendment: Act repealed (1.4.2006) by [Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III)); and s. 13(1) repealed (15.11.2006) by The Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913), Sch. 4 Pt. 2
+[^c-589b9093ffece8f25fae1ab3e1383416]: Textual amendment: Act repealed (1.4.2006) by [Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III)); and s. 13(1) repealed (15.11.2006) by The Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913), Sch. 4 Pt. 2

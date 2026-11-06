@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Charges other than ship, passenger and goods dues[^key-83a38e93f662a69e24b058f30aa24cd1]
+## 39. Charges other than ship, passenger and goods dues[^c-83a38e93f662a69e24b058f30aa24cd1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Council may demand, take and recover in respect of any dracone or floating d
 
 ## Annotations
 
-[^key-83a38e93f662a69e24b058f30aa24cd1]: Commencement: Art. 39 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-83a38e93f662a69e24b058f30aa24cd1]: Commencement: Art. 39 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

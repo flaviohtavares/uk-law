@@ -24,17 +24,17 @@ Section 7
 
 ### Part 1 — Representations and information
 
-#### 1. Introduction[^key-9e07df33de40cdf535c0106974136302][^key-b5bf956df8de9194675dc8e47dda1366]
+#### 1. Introduction[^c-9e07df33de40cdf535c0106974136302][^c-b5bf956df8de9194675dc8e47dda1366]
 
 The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.uk/ukpga/2004/28/contents) is amended as follows.
 
-**2.**[^key-38f8e1d7f26117d0ab0a0718c14c8878][^key-7e217e0cfd9ac639e69e745d5e3db600] (1) Chapter 2 of Part 3 (representations and information) becomes Chapter 1 of a new Part 3A.
+**2.**[^c-38f8e1d7f26117d0ab0a0718c14c8878][^c-7e217e0cfd9ac639e69e745d5e3db600] (1) Chapter 2 of Part 3 (representations and information) becomes Chapter 1 of a new Part 3A.
 
 (2) New Part 3A (created by sub-paragraph (1)) is to have the heading “Victims’ rights to make representations and receive information etc”.
 
 (3) Chapter 3 of Part 3 (other matters relating to victims etc) becomes a new Part 3B with the heading “Other matters relating to victims etc”.
 
-#### 3. Imprisonment or detention[^key-7781b6685ccd8d252d00a0f91ad96e05]
+#### 3. Imprisonment or detention[^c-7781b6685ccd8d252d00a0f91ad96e05]
 
 **Not yet in force.**
 
@@ -78,7 +78,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 (8) Omit [subsection (8)](https://www.legislation.gov.uk/ukpga/2004/28/section/35).
 
-#### 4. Hospital orders[^key-9f549e055426e11c97a544e17b9d4825]
+#### 4. Hospital orders[^c-9f549e055426e11c97a544e17b9d4825]
 
 **Not yet in force.**
 
@@ -101,7 +101,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 > - (b) information about any conditions in connection with the patient’s discharge;
 > - (c) information about any licence conditions or supervision requirements in connection with the patient’s release.
 
-**5.**[^key-6d78549711f406d84e2386f6bd68744c] (1) [Section 36A](https://www.legislation.gov.uk/ukpga/2004/28/section/36A) (supplemental provision for case where no restriction order made) is amended as follows.
+**5.**[^c-6d78549711f406d84e2386f6bd68744c] (1) [Section 36A](https://www.legislation.gov.uk/ukpga/2004/28/section/36A) (supplemental provision for case where no restriction order made) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/36A), in the words before [paragraph (a)](https://www.legislation.gov.uk/ukpga/2004/28/section/36A)—
 
@@ -131,7 +131,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 > (5A) The provider of probation services may notify that person of the name and address of the relevant hospital.
 
-**6.**[^key-d6046b137950354ac710d2b219530f71] (1) [Section 37](https://www.legislation.gov.uk/ukpga/2004/28/section/37) (representations where restriction order made) is amended as follows.
+**6.**[^c-d6046b137950354ac710d2b219530f71] (1) [Section 37](https://www.legislation.gov.uk/ukpga/2004/28/section/37) (representations where restriction order made) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/37)—
 
@@ -157,7 +157,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 (7) Omit [subsection (8)](https://www.legislation.gov.uk/ukpga/2004/28/section/37).
 
-**7.**[^key-8f6a5a090c023c36f46b57baff3606b4] (1) [Section 37ZA](https://www.legislation.gov.uk/ukpga/2004/28/section/37ZA) (inserted by section 21 of the Victims and Prisoners Act 2024) is amended as follows.
+**7.**[^c-8f6a5a090c023c36f46b57baff3606b4] (1) [Section 37ZA](https://www.legislation.gov.uk/ukpga/2004/28/section/37ZA) (inserted by section 21 of the Victims and Prisoners Act 2024) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/37ZA)—
 
@@ -166,7 +166,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 (3) In [subsection (5)](https://www.legislation.gov.uk/ukpga/2004/28/section/37ZA) omit the definition of “the relevant probation body”.
 
-**8.**[^key-089095562fb963d52b8b6024bae52b74] (1) [Section 37A](https://www.legislation.gov.uk/ukpga/2004/28/section/37A) (representations where restriction order not made) is amended as follows.
+**8.**[^c-089095562fb963d52b8b6024bae52b74] (1) [Section 37A](https://www.legislation.gov.uk/ukpga/2004/28/section/37A) (representations where restriction order not made) is amended as follows.
 
 (2) For [subsection (8)](https://www.legislation.gov.uk/ukpga/2004/28/section/37A) substitute—
 
@@ -176,7 +176,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 > (8A) If the managers of the relevant hospital provide the information to the provider of probation services, it must provide the information to the person.
 
-**9.**[^key-62c40736ff58a8d4132234f474c8bdc9] (1) [Section 38](https://www.legislation.gov.uk/ukpga/2004/28/section/38) (information where restriction order made) is amended as follows.
+**9.**[^c-62c40736ff58a8d4132234f474c8bdc9] (1) [Section 38](https://www.legislation.gov.uk/ukpga/2004/28/section/38) (information where restriction order made) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/38)—
 
@@ -208,7 +208,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 (8) Omit [subsection (9)](https://www.legislation.gov.uk/ukpga/2004/28/section/38).
 
-**10.**[^key-2a05a34457c5f3078e933607953823b3] (1) [Section 38A](https://www.legislation.gov.uk/ukpga/2004/28/section/38A) (information where restriction order not made) is amended as follows.
+**10.**[^c-2a05a34457c5f3078e933607953823b3] (1) [Section 38A](https://www.legislation.gov.uk/ukpga/2004/28/section/38A) (information where restriction order not made) is amended as follows.
 
 (2) For [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/38A) substitute—
 
@@ -244,7 +244,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 > (7A) If the provider of probation services is provided with information under subsection (7), it must provide the information to the person.
 
-**11.**[^key-dbbbba8973fd777ab103496472049f17] (1) [Section 38B](https://www.legislation.gov.uk/ukpga/2004/28/section/38B) (removal of restriction) is amended as follows.
+**11.**[^c-dbbbba8973fd777ab103496472049f17] (1) [Section 38B](https://www.legislation.gov.uk/ukpga/2004/28/section/38B) (removal of restriction) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/38B)—
 
@@ -261,7 +261,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 (4) Omit [subsection (6)](https://www.legislation.gov.uk/ukpga/2004/28/section/38B).
 
-#### 12. Hospital directions[^key-6637f04b9e8df95e7294c8d3e5dc6d32]
+#### 12. Hospital directions[^c-6637f04b9e8df95e7294c8d3e5dc6d32]
 
 **Not yet in force.**
 
@@ -294,7 +294,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 > - (b) information about any conditions in connection with the offender’s discharge;
 > - (c) information about any licence conditions or supervision requirements in connection with the offender’s release.
 
-**13.**[^key-791790f4c2eb236414a5c715908f0ea8] (1) [Section 40](https://www.legislation.gov.uk/ukpga/2004/28/section/40) (representations) is amended as follows.
+**13.**[^c-791790f4c2eb236414a5c715908f0ea8] (1) [Section 40](https://www.legislation.gov.uk/ukpga/2004/28/section/40) (representations) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/40)—
 
@@ -320,7 +320,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 (7) Omit [subsection (8)](https://www.legislation.gov.uk/ukpga/2004/28/section/40).
 
-**14.**[^key-8f0af527195ff78932bdf53997fc995f] (1) [Section 41](https://www.legislation.gov.uk/ukpga/2004/28/section/41) (information) is amended as follows.
+**14.**[^c-8f0af527195ff78932bdf53997fc995f] (1) [Section 41](https://www.legislation.gov.uk/ukpga/2004/28/section/41) (information) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/41)—
 
@@ -363,7 +363,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 (8) Omit [subsection (9)](https://www.legislation.gov.uk/ukpga/2004/28/section/41).
 
-**15.**[^key-65347928fbf47298755fe9d2375001b7] (1) [Section 41A](https://www.legislation.gov.uk/ukpga/2004/28/section/41A) (removal of restriction) is amended as follows.
+**15.**[^c-65347928fbf47298755fe9d2375001b7] (1) [Section 41A](https://www.legislation.gov.uk/ukpga/2004/28/section/41A) (removal of restriction) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/41A)—
 
@@ -380,7 +380,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 (4) Omit [subsection (6)](https://www.legislation.gov.uk/ukpga/2004/28/section/41A).
 
-#### 16. Transfer directions[^key-a8e0c00ae877e6b4763818b220832650]
+#### 16. Transfer directions[^c-a8e0c00ae877e6b4763818b220832650]
 
 **Not yet in force.**
 
@@ -410,7 +410,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 > - (a) information about the discharge, or consideration for discharge, of the offender;
 > - (b) information about any conditions in connection with the offender’s discharge.
 
-**17.**[^key-99727ac5a41027971c5e17474faca169] (1) [Section 42A](https://www.legislation.gov.uk/ukpga/2004/28/section/42A) (supplemental provision for case where no restriction direction given) is amended as follows.
+**17.**[^c-99727ac5a41027971c5e17474faca169] (1) [Section 42A](https://www.legislation.gov.uk/ukpga/2004/28/section/42A) (supplemental provision for case where no restriction direction given) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/42A), in the words before [paragraph (a)](https://www.legislation.gov.uk/ukpga/2004/28/section/42A)—
 
@@ -440,7 +440,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 > (5A) The provider of probation services may notify that person of the name and address of the relevant hospital.
 
-**18.**[^key-b6ee7c6fcd521e44dc0af639966ad971] (1) [Section 43](https://www.legislation.gov.uk/ukpga/2004/28/section/43) (representations where restriction direction made) is amended as follows.
+**18.**[^c-b6ee7c6fcd521e44dc0af639966ad971] (1) [Section 43](https://www.legislation.gov.uk/ukpga/2004/28/section/43) (representations where restriction direction made) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/43)—
 
@@ -474,7 +474,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 (8) Omit [subsection (8)](https://www.legislation.gov.uk/ukpga/2004/28/section/43).
 
-**19.**[^key-5e7ebb95e1b3608fccc578f28e736170] (1) [Section 43A](https://www.legislation.gov.uk/ukpga/2004/28/section/43A) (representations where restriction direction not given) is amended as follows.
+**19.**[^c-5e7ebb95e1b3608fccc578f28e736170] (1) [Section 43A](https://www.legislation.gov.uk/ukpga/2004/28/section/43A) (representations where restriction direction not given) is amended as follows.
 
 (2) For [subsection (8)](https://www.legislation.gov.uk/ukpga/2004/28/section/43A) substitute—
 
@@ -484,7 +484,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 > (8A) If the provider of probation services is provided with information under subsection (8), it must provide the information to the person.
 
-**20.**[^key-eb90d2cc4944cbb9b9b6c110b7cefd17] (1) [Section 44](https://www.legislation.gov.uk/ukpga/2004/28/section/44) (information where restriction direction made) is amended as follows.
+**20.**[^c-eb90d2cc4944cbb9b9b6c110b7cefd17] (1) [Section 44](https://www.legislation.gov.uk/ukpga/2004/28/section/44) (information where restriction direction made) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/44)—
 
@@ -531,7 +531,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 (8) Omit [subsection (9)](https://www.legislation.gov.uk/ukpga/2004/28/section/44).
 
-**21.**[^key-01044164f6e169fe6fb01bcef05d0499] (1) [Section 44A](https://www.legislation.gov.uk/ukpga/2004/28/section/44A) (information where restriction direction not given) is amended as follows.
+**21.**[^c-01044164f6e169fe6fb01bcef05d0499] (1) [Section 44A](https://www.legislation.gov.uk/ukpga/2004/28/section/44A) (information where restriction direction not given) is amended as follows.
 
 (2) For [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/44A) substitute—
 
@@ -567,7 +567,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 > (7A) If the provider of probation services is provided with information under subsection (7), it must provide the information to the person who made the request.
 
-**22.**[^key-b20a9ceb3717cfe128554fa747b8512f] (1) [Section 44B](https://www.legislation.gov.uk/ukpga/2004/28/section/44B) (removal of restriction) is amended as follows.
+**22.**[^c-b20a9ceb3717cfe128554fa747b8512f] (1) [Section 44B](https://www.legislation.gov.uk/ukpga/2004/28/section/44B) (removal of restriction) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2004/28/section/44B)—
 
@@ -586,11 +586,11 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 ### Part 2 — Information
 
-#### 23. Introduction[^key-fd707f59d204ad7d41092c86e0084324][^key-b0250f80b0406081ef3e0d9ea47696e9]
+#### 23. Introduction[^c-fd707f59d204ad7d41092c86e0084324][^c-b0250f80b0406081ef3e0d9ea47696e9]
 
 New Part 3A of the [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.uk/ukpga/2004/28/contents) (created by paragraph 2(1) of this Schedule) is amended as follows.
 
-#### 24. Victims’ rights to receive information[^key-5144e6b4e1c209336e91f3e63d0447e6][^key-ea4a975a886bbb21739c3b072e266d9d]
+#### 24. Victims’ rights to receive information[^c-5144e6b4e1c209336e91f3e63d0447e6][^c-ea4a975a886bbb21739c3b072e266d9d]
 
 After [section 44B](https://www.legislation.gov.uk/ukpga/2004/28/section/44B) insert—
 
@@ -971,7 +971,7 @@ After [section 44B](https://www.legislation.gov.uk/ukpga/2004/28/section/44B) in
 >
 > (5) In this section “**the relevant hospital**” has the meaning given by section 44K(9).
 
-**25.**[^key-827c6e62996674d2d2d61169d0f0d157][^key-db1d16f61ddaeebdfeff06dcc62f82c9] After Chapter 2 (inserted by paragraph 24 of this Schedule) insert—
+**25.**[^c-827c6e62996674d2d2d61169d0f0d157][^c-db1d16f61ddaeebdfeff06dcc62f82c9] After Chapter 2 (inserted by paragraph 24 of this Schedule) insert—
 
 > **Chapter 3 — Information: powers etc**
 >
@@ -1054,7 +1054,7 @@ After [section 44B](https://www.legislation.gov.uk/ukpga/2004/28/section/44B) in
 
 **Not yet in force.**
 
-#### 26. Offences[^key-96424cdd2ff12cdf499fd414e97eab5a]
+#### 26. Offences[^c-96424cdd2ff12cdf499fd414e97eab5a]
 
 After [Schedule 6](https://www.legislation.gov.uk/ukpga/2004/28/schedule/6) to the [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.uk/ukpga/2004/28/contents) (intermittent custody) insert—
 
@@ -1544,19 +1544,19 @@ After [Schedule 6](https://www.legislation.gov.uk/ukpga/2004/28/schedule/6) to t
 
 ### Part 4 — Consequential and other provision
 
-#### 27. Introduction[^key-8fba99b5b5acf15a01899ed133c6c575][^key-3c2071857c99f169a1dacd122ecd9b0e]
+#### 27. Introduction[^c-8fba99b5b5acf15a01899ed133c6c575][^c-3c2071857c99f169a1dacd122ecd9b0e]
 
 The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.uk/ukpga/2004/28/contents) is amended as follows.
 
-#### 28. Consequential provision etc[^key-a803b552c67c700ee1881798ff07b30d][^key-9dbe31b22eaabd04200c4dc6e11fbffa]
+#### 28. Consequential provision etc[^c-a803b552c67c700ee1881798ff07b30d][^c-9dbe31b22eaabd04200c4dc6e11fbffa]
 
 [Section 45](https://www.legislation.gov.uk/ukpga/2004/28/section/45) (interpretation: sections 35 to 44B) and [section 46](https://www.legislation.gov.uk/ukpga/2004/28/section/46) (victims of mentally disordered persons) become new Chapter 4 of new [Part 3A](https://www.legislation.gov.uk/ukpga/2004/28/part/3A) (created by paragraph 2(1) of this Schedule) with the heading “Interpretation etc”.
 
-**29.**[^key-c3c747226ff23dc6b75784253d79a0cb][^key-1f6ea559b8647a2f2db9b6561cf386aa] Omit the italic heading before [section 45](https://www.legislation.gov.uk/ukpga/2004/28/section/45).
+**29.**[^c-c3c747226ff23dc6b75784253d79a0cb][^c-1f6ea559b8647a2f2db9b6561cf386aa] Omit the italic heading before [section 45](https://www.legislation.gov.uk/ukpga/2004/28/section/45).
 
-**30.**[^key-dce09e52577e75ae76baee2bfcc7b774] (1)[^key-c289876568d7306a975723721ce678a2] [Section 45](https://www.legislation.gov.uk/ukpga/2004/28/section/45) is amended as follows.
+**30.**[^c-dce09e52577e75ae76baee2bfcc7b774] (1)[^c-c289876568d7306a975723721ce678a2] [Section 45](https://www.legislation.gov.uk/ukpga/2004/28/section/45) is amended as follows.
 
-(2)[^key-c289876568d7306a975723721ce678a2] In [subsection (1)](https://www.legislation.gov.uk/ukpga/2004/28/section/45)—
+(2)[^c-c289876568d7306a975723721ce678a2] In [subsection (1)](https://www.legislation.gov.uk/ukpga/2004/28/section/45)—
 
 - (a) in the words before the list of definitions, for “sections 35 to 44B” substitute “this Part”;
 - (b) omit the definitions of “local probation board” and “relevant sentence”;
@@ -1580,7 +1580,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
   > - “**victim**” means a person who is a victim within the meaning given by [section 1](https://www.legislation.gov.uk/ukpga/2024/21/section/1) of the [Victims and Prisoners Act 2024](https://www.legislation.gov.uk/ukpga/2024/21/contents) other than by virtue of [subsection (2)](https://www.legislation.gov.uk/ukpga/2024/21/section/1)[(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/1) of [that section](https://www.legislation.gov.uk/ukpga/2024/21/section/1) (but see sections 44M(4)(c) and 44N(5) which extend the definition of victim in those sections).
 
-(3)[^key-c289876568d7306a975723721ce678a2] After [subsection (1)](https://www.legislation.gov.uk/ukpga/2004/28/section/45) insert—
+(3)[^c-c289876568d7306a975723721ce678a2] After [subsection (1)](https://www.legislation.gov.uk/ukpga/2004/28/section/45) insert—
 
 > (1A) A reference in any provision of this Part to “the provider of probation services” is—
 >
@@ -1595,7 +1595,7 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 (7) In the heading, for “: sections 35 to 44B” substitute “of Part 3A”.
 
-**31.**[^key-174044fb7b2c00744aee13880b2ee774] After [section 45](https://www.legislation.gov.uk/ukpga/2004/28/section/45) insert—
+**31.**[^c-174044fb7b2c00744aee13880b2ee774] After [section 45](https://www.legislation.gov.uk/ukpga/2004/28/section/45) insert—
 
 > **45A. Power to amend list of offences in Schedule 6A**
 >
@@ -1605,11 +1605,11 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 >
 > The Secretary of State may by regulations amend this Part for the purposes of changing the meaning of “the specified sentence length” either generally or in relation to particular offences.
 
-**32.**[^key-eda3c9af7907b96f12f0ce3528122f7f] Omit the italic heading before [section 46](https://www.legislation.gov.uk/ukpga/2004/28/section/46) (victims of mentally disordered persons).
+**32.**[^c-eda3c9af7907b96f12f0ce3528122f7f] Omit the italic heading before [section 46](https://www.legislation.gov.uk/ukpga/2004/28/section/46) (victims of mentally disordered persons).
 
-**33.**[^key-1da6a7798d2140673fe5787dcf9dda76] In [section 46](https://www.legislation.gov.uk/ukpga/2004/28/section/46), in the heading, at the end insert “: Northern Ireland”.
+**33.**[^c-1da6a7798d2140673fe5787dcf9dda76] In [section 46](https://www.legislation.gov.uk/ukpga/2004/28/section/46), in the heading, at the end insert “: Northern Ireland”.
 
-**34.**[^key-0270ab661b08d7ccd26c4d96901ea5b3] (1) [Section 61](https://www.legislation.gov.uk/ukpga/2004/28/section/61) of the [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.uk/ukpga/2004/28/contents) (orders) is amended as follows.
+**34.**[^c-0270ab661b08d7ccd26c4d96901ea5b3] (1) [Section 61](https://www.legislation.gov.uk/ukpga/2004/28/section/61) of the [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.uk/ukpga/2004/28/contents) (orders) is amended as follows.
 
 (2) In [subsection (1)](https://www.legislation.gov.uk/ukpga/2004/28/section/61), in the words before [paragraph (a)](https://www.legislation.gov.uk/ukpga/2004/28/section/61), after “order” insert “or regulations”.
 
@@ -1624,88 +1624,88 @@ The [Domestic Violence, Crime and Victims Act 2004](https://www.legislation.gov.
 
 ## Annotations
 
-[^key-9e07df33de40cdf535c0106974136302]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-9e07df33de40cdf535c0106974136302]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-b5bf956df8de9194675dc8e47dda1366]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/1) in force at 13.8.2026 for specified purposes by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/i)
+[^c-b5bf956df8de9194675dc8e47dda1366]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/1) in force at 13.8.2026 for specified purposes by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/i)
 
-[^key-38f8e1d7f26117d0ab0a0718c14c8878]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-38f8e1d7f26117d0ab0a0718c14c8878]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-7e217e0cfd9ac639e69e745d5e3db600]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/2) in force at 13.8.2026 by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
+[^c-7e217e0cfd9ac639e69e745d5e3db600]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/2) in force at 13.8.2026 by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
 
-[^key-7781b6685ccd8d252d00a0f91ad96e05]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-7781b6685ccd8d252d00a0f91ad96e05]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-9f549e055426e11c97a544e17b9d4825]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-9f549e055426e11c97a544e17b9d4825]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-6d78549711f406d84e2386f6bd68744c]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-6d78549711f406d84e2386f6bd68744c]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-d6046b137950354ac710d2b219530f71]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-d6046b137950354ac710d2b219530f71]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-8f6a5a090c023c36f46b57baff3606b4]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-8f6a5a090c023c36f46b57baff3606b4]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-089095562fb963d52b8b6024bae52b74]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-089095562fb963d52b8b6024bae52b74]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-62c40736ff58a8d4132234f474c8bdc9]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-62c40736ff58a8d4132234f474c8bdc9]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-2a05a34457c5f3078e933607953823b3]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-2a05a34457c5f3078e933607953823b3]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-dbbbba8973fd777ab103496472049f17]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-dbbbba8973fd777ab103496472049f17]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-6637f04b9e8df95e7294c8d3e5dc6d32]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-6637f04b9e8df95e7294c8d3e5dc6d32]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-791790f4c2eb236414a5c715908f0ea8]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-791790f4c2eb236414a5c715908f0ea8]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-8f0af527195ff78932bdf53997fc995f]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-8f0af527195ff78932bdf53997fc995f]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-65347928fbf47298755fe9d2375001b7]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-65347928fbf47298755fe9d2375001b7]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-a8e0c00ae877e6b4763818b220832650]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-a8e0c00ae877e6b4763818b220832650]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-99727ac5a41027971c5e17474faca169]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-99727ac5a41027971c5e17474faca169]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-b6ee7c6fcd521e44dc0af639966ad971]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-b6ee7c6fcd521e44dc0af639966ad971]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-5e7ebb95e1b3608fccc578f28e736170]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-5e7ebb95e1b3608fccc578f28e736170]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-eb90d2cc4944cbb9b9b6c110b7cefd17]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-eb90d2cc4944cbb9b9b6c110b7cefd17]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-01044164f6e169fe6fb01bcef05d0499]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-01044164f6e169fe6fb01bcef05d0499]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-b20a9ceb3717cfe128554fa747b8512f]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-b20a9ceb3717cfe128554fa747b8512f]: Commencement: Sch. 2 para. 22 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-fd707f59d204ad7d41092c86e0084324]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-fd707f59d204ad7d41092c86e0084324]: Commencement: Sch. 2 para. 23 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-b0250f80b0406081ef3e0d9ea47696e9]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/23) in force at 13.8.2026 for specified purposes by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/i)
+[^c-b0250f80b0406081ef3e0d9ea47696e9]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/23) in force at 13.8.2026 for specified purposes by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/i)
 
-[^key-5144e6b4e1c209336e91f3e63d0447e6]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-5144e6b4e1c209336e91f3e63d0447e6]: Commencement: Sch. 2 para. 24 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-ea4a975a886bbb21739c3b072e266d9d]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/24) in force at 13.8.2026 for specified purposes by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/iii)
+[^c-ea4a975a886bbb21739c3b072e266d9d]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/24) in force at 13.8.2026 for specified purposes by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/iii)
 
-[^key-827c6e62996674d2d2d61169d0f0d157]: Commencement: Sch. 2 para. 25 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-827c6e62996674d2d2d61169d0f0d157]: Commencement: Sch. 2 para. 25 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-db1d16f61ddaeebdfeff06dcc62f82c9]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/25) in force at 13.8.2026 for specified purposes by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/iv)
+[^c-db1d16f61ddaeebdfeff06dcc62f82c9]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/25) in force at 13.8.2026 for specified purposes by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/iv)
 
-[^key-96424cdd2ff12cdf499fd414e97eab5a]: Commencement: Sch. 2 para. 26 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-96424cdd2ff12cdf499fd414e97eab5a]: Commencement: Sch. 2 para. 26 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-8fba99b5b5acf15a01899ed133c6c575]: Commencement: Sch. 2 para. 27 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-8fba99b5b5acf15a01899ed133c6c575]: Commencement: Sch. 2 para. 27 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-3c2071857c99f169a1dacd122ecd9b0e]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/27) in force at 13.8.2026 by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
+[^c-3c2071857c99f169a1dacd122ecd9b0e]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/27) in force at 13.8.2026 by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
 
-[^key-a803b552c67c700ee1881798ff07b30d]: Commencement: Sch. 2 para. 28 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-a803b552c67c700ee1881798ff07b30d]: Commencement: Sch. 2 para. 28 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-9dbe31b22eaabd04200c4dc6e11fbffa]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/28) in force at 13.8.2026 by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
+[^c-9dbe31b22eaabd04200c4dc6e11fbffa]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/28) in force at 13.8.2026 by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
 
-[^key-c3c747226ff23dc6b75784253d79a0cb]: Commencement: Sch. 2 para. 29 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-c3c747226ff23dc6b75784253d79a0cb]: Commencement: Sch. 2 para. 29 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-1f6ea559b8647a2f2db9b6561cf386aa]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/29) in force at 13.8.2026 by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
+[^c-1f6ea559b8647a2f2db9b6561cf386aa]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/29) in force at 13.8.2026 by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/ii)
 
-[^key-dce09e52577e75ae76baee2bfcc7b774]: Commencement: Sch. 2 para. 30 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-dce09e52577e75ae76baee2bfcc7b774]: Commencement: Sch. 2 para. 30 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-c289876568d7306a975723721ce678a2]: Commencement: [Sch. 2 para. 30(1)-(3)](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/30/1) in force at 13.8.2026 for specified purposes by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(v)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/v)
+[^c-c289876568d7306a975723721ce678a2]: Commencement: [Sch. 2 para. 30(1)-(3)](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/30/1) in force at 13.8.2026 for specified purposes by [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(v)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/v)
 
-[^key-174044fb7b2c00744aee13880b2ee774]: Commencement: Sch. 2 para. 31 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-174044fb7b2c00744aee13880b2ee774]: Commencement: Sch. 2 para. 31 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-eda3c9af7907b96f12f0ce3528122f7f]: Commencement: Sch. 2 para. 32 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-eda3c9af7907b96f12f0ce3528122f7f]: Commencement: Sch. 2 para. 32 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-1da6a7798d2140673fe5787dcf9dda76]: Commencement: Sch. 2 para. 33 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-1da6a7798d2140673fe5787dcf9dda76]: Commencement: Sch. 2 para. 33 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
 
-[^key-0270ab661b08d7ccd26c4d96901ea5b3]: Commencement: Sch. 2 para. 34 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-0270ab661b08d7ccd26c4d96901ea5b3]: Commencement: Sch. 2 para. 34 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)

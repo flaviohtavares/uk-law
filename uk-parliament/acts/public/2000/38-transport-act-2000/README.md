@@ -34,7 +34,7 @@ An Act to make provision about transport.
 
 \[30th November 2000\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-400cc35c50a5f1561fef57cbd43132ba][^key-42927750ce33e238a20c694c51ea2d0d][^key-fbb1c036744a8cf935430c542609e82f][^key-acd184be7487ec1dc36a5ac1dce728b2][^key-a4eb4851567fdb3c5e5e1df7a28908b1]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-400cc35c50a5f1561fef57cbd43132ba][^c-42927750ce33e238a20c694c51ea2d0d][^c-fbb1c036744a8cf935430c542609e82f][^c-acd184be7487ec1dc36a5ac1dce728b2][^c-a4eb4851567fdb3c5e5e1df7a28908b1]
 
 ## Contents
 
@@ -84,7 +84,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 18 — Sections 15 and 16: general.](part-i/section-18.md)
 - [Section 19 — Modification by order under other enactments.](part-i/section-19.md)
 
-##### Appeal against modification of licence conditions[^key-a46810a689b67a34fa8947b2a0d8c2a5]
+##### Appeal against modification of licence conditions[^c-a46810a689b67a34fa8947b2a0d8c2a5]
 
 - [Section 19A — Appeal to Competition and Markets Authority](part-i/section-19a.md)
 - [Section 19B — When appeals may be allowed](part-i/section-19b.md)
@@ -102,7 +102,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 24 — Effect of orders.](part-i/section-24.md)
 - [Section 25 — Power to obtain information](part-i/section-25.md)
 
-##### Penalties[^key-c2c83737d2b1cd228a9ad908682f2238]
+##### Penalties[^c-c2c83737d2b1cd228a9ad908682f2238]
 
 - [Section 25A — Imposing penalties](part-i/section-25a.md)
 - [Section 25B — Recovering penalties](part-i/section-25b.md)
@@ -261,7 +261,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 106 — The Crown: other provisions.](part-i/section-106.md)
 - [Section 107 — Extension outside United Kingdom.](part-i/section-107.md)
 
-### Part II — Local transport[^M_C_a62c9f30-ec55-4f5c-a9be-7c39e6c7cace][^key-a73adadcd7748895bf7657531ef85dc3][^key-823d91e6a75ee5d6914709c93e280260][^M_C_83666409-540c-464d-f7b5-d139a71c674e][^key-e5a3726fe51784f5998f949a388ec00b][^key-be3f02f02a2f5ddf23eab51a36cce5c2][^key-23907575e7e14b97df5a48e2daf096a0][^key-5332a97aa1cb89af2c0b0a3ec15545cd][^key-63131c26ca98554bd7e4a82be39decdd][^key-38655cb458b97a6dd21ff07e03d03432][^key-4d6da790ee3fb92444037d40b72b3801][^key-67fb48b6e1bd41eead8235f345880cab][^key-05d25b334e3ef57b698f1fe7b681951f][^key-81a4b93f4bb4f481cb26e54026fe5821][^key-ba53aa819dfa66b6ca6177e0cd938ee3][^key-298bf51cedbd70541a6f8142b406f368][^key-f9a8685da116b8b1ca23180938af8fa4][^key-60fa53abb542bf0321d68722d1323ba5][^key-212760275fd012f074cf7ca2a0dcb2e9][^key-831a5f60434de6f3fa350c5bc8307481][^key-404f68b2cf9a827f3d4fc3b41ddd6f93]
+### Part II — Local transport[^M_C_a62c9f30-ec55-4f5c-a9be-7c39e6c7cace][^c-a73adadcd7748895bf7657531ef85dc3][^c-823d91e6a75ee5d6914709c93e280260][^M_C_83666409-540c-464d-f7b5-d139a71c674e][^c-e5a3726fe51784f5998f949a388ec00b][^c-be3f02f02a2f5ddf23eab51a36cce5c2][^c-23907575e7e14b97df5a48e2daf096a0][^c-5332a97aa1cb89af2c0b0a3ec15545cd][^c-63131c26ca98554bd7e4a82be39decdd][^c-38655cb458b97a6dd21ff07e03d03432][^c-4d6da790ee3fb92444037d40b72b3801][^c-67fb48b6e1bd41eead8235f345880cab][^c-05d25b334e3ef57b698f1fe7b681951f][^c-81a4b93f4bb4f481cb26e54026fe5821][^c-ba53aa819dfa66b6ca6177e0cd938ee3][^c-298bf51cedbd70541a6f8142b406f368][^c-f9a8685da116b8b1ca23180938af8fa4][^c-60fa53abb542bf0321d68722d1323ba5][^c-212760275fd012f074cf7ca2a0dcb2e9][^c-831a5f60434de6f3fa350c5bc8307481][^c-404f68b2cf9a827f3d4fc3b41ddd6f93]
 
 *Extent: E+W*
 
@@ -282,11 +282,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 113A — Modification of provisions about plans and strategies: Wales](part-ii/section-113a.md)
 - [Section 113B — Directions concerning plans and strategies: Wales](part-ii/section-113b.md)
 
-#### Bus network accessibility plans: England[^key-e2eea09899a6fde60033c1d8cc03ddf5]
+#### Bus network accessibility plans: England[^c-e2eea09899a6fde60033c1d8cc03ddf5]
 
 - [Section 113BA — Bus network accessibility plans](part-ii/section-113ba.md)
 
-#### Bus services: advanced quality partnership schemes[^key-2fdf823590288d7b7cd91a6009704f7d]
+#### Bus services: advanced quality partnership schemes[^c-2fdf823590288d7b7cd91a6009704f7d]
 
 *Extent: E+W*
 
@@ -319,7 +319,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 122 — Regulations about schemes.](part-ii/section-122.md)
 - [Section 123 — Guidance about schemes.](part-ii/section-123.md)
 
-#### Bus services: franchising schemes[^key-f6b9d93c45c0837c95e6bd6eb678281d]
+#### Bus services: franchising schemes[^c-f6b9d93c45c0837c95e6bd6eb678281d]
 
 *Extent: E+W*
 
@@ -349,7 +349,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 123W — Guidance about schemes](part-ii/section-123w.md)
 - [Section 123X — Local service contracts: application of TUPE](part-ii/section-123x.md)
 
-#### Bus services: quality contracts schemes in Wales[^key-57d40c79a11bdff9766149a59f24d050]
+#### Bus services: quality contracts schemes in Wales[^c-57d40c79a11bdff9766149a59f24d050]
 
 *Extent: E+W*
 
@@ -384,7 +384,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 134A — Guidance about schemes](part-ii/section-134a.md)
 - [Section 134B — Quality contracts: application of TUPE](part-ii/section-134b.md)
 
-#### Bus services: advanced ticketing schemes[^key-e31b873c69e07bc52340dd07efdc0caf]
+#### Bus services: advanced ticketing schemes[^c-e31b873c69e07bc52340dd07efdc0caf]
 
 *Extent: E+W*
 
@@ -401,7 +401,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 137 — Making of scheme.](part-ii/section-137.md)
 - [Section 138 — Effect of scheme.](part-ii/section-138.md)
 
-#### Bus services: enhanced partnership plans and schemes[^key-652ea49e5927586cb07bdb4300947115]
+#### Bus services: enhanced partnership plans and schemes[^c-652ea49e5927586cb07bdb4300947115]
 
 *Extent: E+W*
 
@@ -442,7 +442,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 143B — Power to obtain information about local services: enhanced partnership schemes](part-ii/section-143b.md)
 - [Section 144 — Civil penalties for bus lane contraventions.](part-ii/section-144.md)
 
-#### Local transport authority byelaws[^key-59f9fb1d6cbd8e0a1fa3bbdaadd13a3b]
+#### Local transport authority byelaws[^c-59f9fb1d6cbd8e0a1fa3bbdaadd13a3b]
 
 *Extent: E+W*
 
@@ -452,12 +452,12 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 144D — Powers of authorised persons in relation to byelaws](part-ii/section-144d.md)
 - [Section 144E — Fixed penalty notices](part-ii/section-144e.md)
 
-#### Training of staff[^key-7fa1bd5880a69b4209e48dcf95fbf384]
+#### Training of staff[^c-7fa1bd5880a69b4209e48dcf95fbf384]
 
 - [Section 144F — Training about crime and anti-social behaviour](part-ii/section-144f.md)
 - [Section 144G — Application of training requirement: services in Wales](part-ii/section-144g.md)
 
-#### Mandatory travel concessions for journeys not beginning on the London bus network[^key-1ef9626fb1ab8013de9a98c95a9337d6]
+#### Mandatory travel concessions for journeys not beginning on the London bus network[^c-1ef9626fb1ab8013de9a98c95a9337d6]
 
 *Extent: E+W*
 
@@ -474,7 +474,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 151 — Concessions in Greater London.](part-ii/section-151.md)
 
-#### Zero-emission vehicles[^key-25e848eeec246761742bb7a44148c37d]
+#### Zero-emission vehicles[^c-25e848eeec246761742bb7a44148c37d]
 
 - [Section 151A — Use of zero-emission vehicles for local services in England](part-ii/section-151a.md)
 
@@ -531,7 +531,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 171 — Matters to be dealt with in charging schemes.](part-iii/section-171.md)
 - [Section 172 — Charging schemes: supplementary provision as to contents](part-iii/section-172.md)
 
-##### Suspension of charging schemes[^key-a16f8096161aa67132b54e74a4cabf34]
+##### Suspension of charging schemes[^c-a16f8096161aa67132b54e74a4cabf34]
 
 *Extent: E+W*
 
@@ -551,7 +551,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 177 — Traffic signs.](part-iii/section-177.md)
 - [Section 177A — Power to require information](part-iii/section-177a.md)
 
-#### Chapter II — Workplace parking levy[^key-1cf512f5d32e221cc077d574e2115cce][^key-2320d82d00f329d786dea66d3a0bdf6b][^key-997bbeac23ce62d098cd7d40cf7626b4]
+#### Chapter II — Workplace parking levy[^c-1cf512f5d32e221cc077d574e2115cce][^c-2320d82d00f329d786dea66d3a0bdf6b][^c-997bbeac23ce62d098cd7d40cf7626b4]
 
 ##### Licensing schemes
 
@@ -578,7 +578,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 189 — Penalty charges.](part-iii/section-189.md)
 - [Section 190 — Rights of entry.](part-iii/section-190.md)
 
-#### Chapter III — General and supplementary[^key-1cf512f5d32e221cc077d574e2115cce][^key-2320d82d00f329d786dea66d3a0bdf6b][^key-997bbeac23ce62d098cd7d40cf7626b4]
+#### Chapter III — General and supplementary[^c-1cf512f5d32e221cc077d574e2115cce][^c-2320d82d00f329d786dea66d3a0bdf6b][^c-997bbeac23ce62d098cd7d40cf7626b4]
 
 - [Section 191 — Financial provisions about schemes.](part-iii/section-191.md)
 - [Section 192 — Powers of authorities.](part-iii/section-192.md)
@@ -861,86 +861,86 @@ SCHEDULES
 
 ## Annotations
 
-[^key-400cc35c50a5f1561fef57cbd43132ba]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/38): power to amend conferred (N.I.) (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [4(a)](https://www.legislation.gov.uk/nisi/2005/1455/article/4/a); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), arts. 2-7)
+[^c-400cc35c50a5f1561fef57cbd43132ba]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/38): power to amend conferred (N.I.) (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [4(a)](https://www.legislation.gov.uk/nisi/2005/1455/article/4/a); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), arts. 2-7)
 
-[^key-42927750ce33e238a20c694c51ea2d0d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/38) applied (17.10.2007) by [The Concessionary Bus Travel Act 2007 (Commencement and Transitional Provisions) Order 2007 (S.I. 2007/2799)](https://www.legislation.gov.uk/uksi/2007/2799), [art. 4(2)](https://www.legislation.gov.uk/uksi/2007/2799/article/4/2)
+[^c-42927750ce33e238a20c694c51ea2d0d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/38) applied (17.10.2007) by [The Concessionary Bus Travel Act 2007 (Commencement and Transitional Provisions) Order 2007 (S.I. 2007/2799)](https://www.legislation.gov.uk/uksi/2007/2799), [art. 4(2)](https://www.legislation.gov.uk/uksi/2007/2799/article/4/2)
 
-[^key-fbb1c036744a8cf935430c542609e82f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/38) applied (with modifications) (temp.) by SI 2007/2053 art. 6 (as added) (17.3.2008) by [The Traffic Management Act 2004 (Commencement No. 5 and Transitional Provisions) (England) (Amendment) Order 2008 (S.I. 2008/757)](https://www.legislation.gov.uk/uksi/2008/757), [art. 5](https://www.legislation.gov.uk/uksi/2008/757/article/5)
+[^c-fbb1c036744a8cf935430c542609e82f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/38) applied (with modifications) (temp.) by SI 2007/2053 art. 6 (as added) (17.3.2008) by [The Traffic Management Act 2004 (Commencement No. 5 and Transitional Provisions) (England) (Amendment) Order 2008 (S.I. 2008/757)](https://www.legislation.gov.uk/uksi/2008/757), [art. 5](https://www.legislation.gov.uk/uksi/2008/757/article/5)
 
-[^key-acd184be7487ec1dc36a5ac1dce728b2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/38) applied (with modifications) (28.2.2022) by [The Corporate Joint Committees (Transport Functions) (Wales) Regulations 2021 (S.I. 2021/328)](https://www.legislation.gov.uk/wsi/2021/328), [reg. 3](https://www.legislation.gov.uk/wsi/2021/328/regulation/3), [Sch.](https://www.legislation.gov.uk/wsi/2021/328/schedule)
+[^c-acd184be7487ec1dc36a5ac1dce728b2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/38) applied (with modifications) (28.2.2022) by [The Corporate Joint Committees (Transport Functions) (Wales) Regulations 2021 (S.I. 2021/328)](https://www.legislation.gov.uk/wsi/2021/328), [reg. 3](https://www.legislation.gov.uk/wsi/2021/328/regulation/3), [Sch.](https://www.legislation.gov.uk/wsi/2021/328/schedule)
 
-[^key-a4eb4851567fdb3c5e5e1df7a28908b1]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-a4eb4851567fdb3c5e5e1df7a28908b1]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-a46810a689b67a34fa8947b2a0d8c2a5]: Textual amendment: Ss. 19A-19F and cross-heading inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2021/12/schedule/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/f)
+[^c-a46810a689b67a34fa8947b2a0d8c2a5]: Textual amendment: Ss. 19A-19F and cross-heading inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2021/12/schedule/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/f)
 
-[^key-c2c83737d2b1cd228a9ad908682f2238]: Textual amendment: Ss. 25A-25C and cross-heading inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 10(5)](https://www.legislation.gov.uk/ukpga/2021/12/section/10/5), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)
+[^c-c2c83737d2b1cd228a9ad908682f2238]: Textual amendment: Ss. 25A-25C and cross-heading inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 10(5)](https://www.legislation.gov.uk/ukpga/2021/12/section/10/5), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)
 
 [^M_C_a62c9f30-ec55-4f5c-a9be-7c39e6c7cace]: Modification: Pt. 2: power to amend conferred (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), ss. 8(1), 9(1)(2), 10(1)(2), 15(1); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), arts. 2, 3 (with art. 4)
 
-[^key-a73adadcd7748895bf7657531ef85dc3]: Modification: Pt. 2: transfer of functions (1.4.2014) by [The Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority Order 2014 (S.I. 2014/865)](https://www.legislation.gov.uk/uksi/2014/865), [arts. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2014/865/article/8/1/b) (with [arts. 8(4)](https://www.legislation.gov.uk/uksi/2014/865/article/8/4), [12](https://www.legislation.gov.uk/uksi/2014/865/article/12))
+[^c-a73adadcd7748895bf7657531ef85dc3]: Modification: Pt. 2: transfer of functions (1.4.2014) by [The Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority Order 2014 (S.I. 2014/865)](https://www.legislation.gov.uk/uksi/2014/865), [arts. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2014/865/article/8/1/b) (with [arts. 8(4)](https://www.legislation.gov.uk/uksi/2014/865/article/8/4), [12](https://www.legislation.gov.uk/uksi/2014/865/article/12))
 
-[^key-823d91e6a75ee5d6914709c93e280260]: Modification: Pt. 2: transfer of functions (15.4.2014) by [The Durham, Gateshead, Newcastle Upon Tyne, North Tyneside, Northumberland, South Tyneside and Sunderland Combined Authority Order 2014 (S.I. 2014/1012)](https://www.legislation.gov.uk/uksi/2014/1012), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1012/article/1), [8](https://www.legislation.gov.uk/uksi/2014/1012/article/8), [9](https://www.legislation.gov.uk/uksi/2014/1012/article/9) (with [art. 11](https://www.legislation.gov.uk/uksi/2014/1012/article/11))
+[^c-823d91e6a75ee5d6914709c93e280260]: Modification: Pt. 2: transfer of functions (15.4.2014) by [The Durham, Gateshead, Newcastle Upon Tyne, North Tyneside, Northumberland, South Tyneside and Sunderland Combined Authority Order 2014 (S.I. 2014/1012)](https://www.legislation.gov.uk/uksi/2014/1012), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1012/article/1), [8](https://www.legislation.gov.uk/uksi/2014/1012/article/8), [9](https://www.legislation.gov.uk/uksi/2014/1012/article/9) (with [art. 11](https://www.legislation.gov.uk/uksi/2014/1012/article/11))
 
 [^M_C_83666409-540c-464d-f7b5-d139a71c674e]: Modification: Pt. 2: delegation of functions (1.4.2016) by [The Tees Valley Combined Authority Order 2016 (S.I. 2016/449)](https://www.legislation.gov.uk/uksi/2016/449), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2016/449/article/1/a), [6(b)](https://www.legislation.gov.uk/uksi/2016/449/article/6/b)
 
-[^key-e5a3726fe51784f5998f949a388ec00b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/2): functions made exercisable (9.2.2017) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/126/article/1/3), [8](https://www.legislation.gov.uk/uksi/2017/126/article/8)
+[^c-e5a3726fe51784f5998f949a388ec00b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/2): functions made exercisable (9.2.2017) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/126/article/1/3), [8](https://www.legislation.gov.uk/uksi/2017/126/article/8)
 
-[^key-be3f02f02a2f5ddf23eab51a36cce5c2]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/2): functions made exercisable (9.2.2017) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/126/article/1/3), [8(1)](https://www.legislation.gov.uk/uksi/2017/126/article/8/1)
+[^c-be3f02f02a2f5ddf23eab51a36cce5c2]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/2): functions made exercisable (9.2.2017) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/126/article/1/3), [8(1)](https://www.legislation.gov.uk/uksi/2017/126/article/8/1)
 
-[^key-23907575e7e14b97df5a48e2daf096a0]: Modification: Pt. 2: functions made exercisable (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [8(b)](https://www.legislation.gov.uk/uksi/2017/251/article/8/b)
+[^c-23907575e7e14b97df5a48e2daf096a0]: Modification: Pt. 2: functions made exercisable (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [8(b)](https://www.legislation.gov.uk/uksi/2017/251/article/8/b)
 
-[^key-5332a97aa1cb89af2c0b0a3ec15545cd]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/2): functions made exercisable (8.5.2017) by [The Tees Valley Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/431)](https://www.legislation.gov.uk/uksi/2017/431), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/431/article/1/2), [4(1)(2)](https://www.legislation.gov.uk/uksi/2017/431/article/4/1/2)
+[^c-5332a97aa1cb89af2c0b0a3ec15545cd]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/2): functions made exercisable (8.5.2017) by [The Tees Valley Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/431)](https://www.legislation.gov.uk/uksi/2017/431), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/431/article/1/2), [4(1)(2)](https://www.legislation.gov.uk/uksi/2017/431/article/4/1/2)
 
-[^key-63131c26ca98554bd7e4a82be39decdd]: Modification: Pt. 2: transfer of functions (2.11.2018) by [The Newcastle Upon Tyne, North Tyneside and Northumberland Combined Authority (Establishment and Functions) Order 2018 (S.I. 2018/1133)](https://www.legislation.gov.uk/uksi/2018/1133), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1133/article/1), [7](https://www.legislation.gov.uk/uksi/2018/1133/article/7) (with [art. 28](https://www.legislation.gov.uk/uksi/2018/1133/article/28))
+[^c-63131c26ca98554bd7e4a82be39decdd]: Modification: Pt. 2: transfer of functions (2.11.2018) by [The Newcastle Upon Tyne, North Tyneside and Northumberland Combined Authority (Establishment and Functions) Order 2018 (S.I. 2018/1133)](https://www.legislation.gov.uk/uksi/2018/1133), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1133/article/1), [7](https://www.legislation.gov.uk/uksi/2018/1133/article/7) (with [art. 28](https://www.legislation.gov.uk/uksi/2018/1133/article/28))
 
-[^key-38655cb458b97a6dd21ff07e03d03432]: Modification: Pt. 2: functions made exercisable (2.11.2018) by [The Newcastle Upon Tyne, North Tyneside and Northumberland Combined Authority (Establishment and Functions) Order 2018 (S.I. 2018/1133)](https://www.legislation.gov.uk/uksi/2018/1133), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1133/article/1), [9](https://www.legislation.gov.uk/uksi/2018/1133/article/9) (with [art. 28](https://www.legislation.gov.uk/uksi/2018/1133/article/28))
+[^c-38655cb458b97a6dd21ff07e03d03432]: Modification: Pt. 2: functions made exercisable (2.11.2018) by [The Newcastle Upon Tyne, North Tyneside and Northumberland Combined Authority (Establishment and Functions) Order 2018 (S.I. 2018/1133)](https://www.legislation.gov.uk/uksi/2018/1133), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1133/article/1), [9](https://www.legislation.gov.uk/uksi/2018/1133/article/9) (with [art. 28](https://www.legislation.gov.uk/uksi/2018/1133/article/28))
 
-[^key-4d6da790ee3fb92444037d40b72b3801]: Modification: Pt. 2 applied (with modifications) (W.) (28.2.2022) by [The South East Wales Corporate Joint Committee Regulations 2021 (S.I. 2021/343)](https://www.legislation.gov.uk/wsi/2021/343), [regs. 1(3)(b)](https://www.legislation.gov.uk/wsi/2021/343/regulation/1/3/b), [12(2)](https://www.legislation.gov.uk/wsi/2021/343/regulation/12/2)
+[^c-4d6da790ee3fb92444037d40b72b3801]: Modification: Pt. 2 applied (with modifications) (W.) (28.2.2022) by [The South East Wales Corporate Joint Committee Regulations 2021 (S.I. 2021/343)](https://www.legislation.gov.uk/wsi/2021/343), [regs. 1(3)(b)](https://www.legislation.gov.uk/wsi/2021/343/regulation/1/3/b), [12(2)](https://www.legislation.gov.uk/wsi/2021/343/regulation/12/2)
 
-[^key-67fb48b6e1bd41eead8235f345880cab]: Modification: Pt. 2 applied (with modifications) (30.6.2022) by [The North Wales Corporate Joint Committee Regulations 2021 (S.I. 2021/339)](https://www.legislation.gov.uk/uksi/2021/339), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/339/regulation/1/3/b), [12(2)](https://www.legislation.gov.uk/uksi/2021/339/regulation/12/2)
+[^c-67fb48b6e1bd41eead8235f345880cab]: Modification: Pt. 2 applied (with modifications) (30.6.2022) by [The North Wales Corporate Joint Committee Regulations 2021 (S.I. 2021/339)](https://www.legislation.gov.uk/uksi/2021/339), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/339/regulation/1/3/b), [12(2)](https://www.legislation.gov.uk/uksi/2021/339/regulation/12/2)
 
-[^key-05d25b334e3ef57b698f1fe7b681951f]: Modification: Pt. 2 applied (with modifications) (30.6.2022) by [The Mid Wales Corporate Joint Committee Regulations 2021 (S.I. 2021/342)](https://www.legislation.gov.uk/uksi/2021/342), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/342/regulation/1/3/b), [12(2)](https://www.legislation.gov.uk/uksi/2021/342/regulation/12/2)
+[^c-05d25b334e3ef57b698f1fe7b681951f]: Modification: Pt. 2 applied (with modifications) (30.6.2022) by [The Mid Wales Corporate Joint Committee Regulations 2021 (S.I. 2021/342)](https://www.legislation.gov.uk/uksi/2021/342), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/342/regulation/1/3/b), [12(2)](https://www.legislation.gov.uk/uksi/2021/342/regulation/12/2)
 
-[^key-81a4b93f4bb4f481cb26e54026fe5821]: Modification: Pt. 2 applied (with modifications) (W.) (30.6.2022) by [The South West Wales Corporate Joint Committee Regulations 2021 (S.I. 2021/352)](https://www.legislation.gov.uk/uksi/2021/352), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/352/regulation/1/3/b), [12(2)](https://www.legislation.gov.uk/uksi/2021/352/regulation/12/2)
+[^c-81a4b93f4bb4f481cb26e54026fe5821]: Modification: Pt. 2 applied (with modifications) (W.) (30.6.2022) by [The South West Wales Corporate Joint Committee Regulations 2021 (S.I. 2021/352)](https://www.legislation.gov.uk/uksi/2021/352), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/352/regulation/1/3/b), [12(2)](https://www.legislation.gov.uk/uksi/2021/352/regulation/12/2)
 
-[^key-ba53aa819dfa66b6ca6177e0cd938ee3]: Modification: Pt. 2: functions made exercisable (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [13(1)(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/13/1/2)
+[^c-ba53aa819dfa66b6ca6177e0cd938ee3]: Modification: Pt. 2: functions made exercisable (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [13(1)(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/13/1/2)
 
-[^key-298bf51cedbd70541a6f8142b406f368]: Modification: Pt. 2: functions made exercisable (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/1)
+[^c-298bf51cedbd70541a6f8142b406f368]: Modification: Pt. 2: functions made exercisable (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/1)
 
-[^key-f9a8685da116b8b1ca23180938af8fa4]: Modification: Pt. 2: functions made exercisable concurrently (E.) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [19(c)](https://www.legislation.gov.uk/uksi/2024/402/article/19/c) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-f9a8685da116b8b1ca23180938af8fa4]: Modification: Pt. 2: functions made exercisable concurrently (E.) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [19(c)](https://www.legislation.gov.uk/uksi/2024/402/article/19/c) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
-[^key-60fa53abb542bf0321d68722d1323ba5]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/II): transfer of functions (with modifications) (5.2.2025) by [The Devon and Torbay Combined County Authority Regulations 2025 (S.I. 2025/115)](https://www.legislation.gov.uk/uksi/2025/115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/115/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/115/regulation/10)
+[^c-60fa53abb542bf0321d68722d1323ba5]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/II): transfer of functions (with modifications) (5.2.2025) by [The Devon and Torbay Combined County Authority Regulations 2025 (S.I. 2025/115)](https://www.legislation.gov.uk/uksi/2025/115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/115/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/115/regulation/10)
 
-[^key-212760275fd012f074cf7ca2a0dcb2e9]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/II): functions made exercisable (with modifications) (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2025/117/regulation/14)
+[^c-212760275fd012f074cf7ca2a0dcb2e9]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/II): functions made exercisable (with modifications) (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2025/117/regulation/14)
 
-[^key-831a5f60434de6f3fa350c5bc8307481]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/II): functions made exercisable (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-831a5f60434de6f3fa350c5bc8307481]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/II): functions made exercisable (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-404f68b2cf9a827f3d4fc3b41ddd6f93]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/II): functions made exercisable (with modifications) (5.2.2025) by [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/118/regulation/10)
+[^c-404f68b2cf9a827f3d4fc3b41ddd6f93]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/II): functions made exercisable (with modifications) (5.2.2025) by [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2025/118/regulation/10)
 
-[^key-e2eea09899a6fde60033c1d8cc03ddf5]: Textual amendment: [S. 113BA](https://www.legislation.gov.uk/ukpga/2000/38/section/113BA) and cross-heading inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 21](https://www.legislation.gov.uk/ukpga/2025/24/section/21), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/h)
+[^c-e2eea09899a6fde60033c1d8cc03ddf5]: Textual amendment: [S. 113BA](https://www.legislation.gov.uk/ukpga/2000/38/section/113BA) and cross-heading inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 21](https://www.legislation.gov.uk/ukpga/2025/24/section/21), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/h)
 
-[^key-2fdf823590288d7b7cd91a6009704f7d]: Textual amendment: Ss. 113C-113O and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 1](https://www.legislation.gov.uk/ukpga/2017/21/section/1), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+[^c-2fdf823590288d7b7cd91a6009704f7d]: Textual amendment: Ss. 113C-113O and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 1](https://www.legislation.gov.uk/ukpga/2017/21/section/1), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
 
-[^key-f6b9d93c45c0837c95e6bd6eb678281d]: Textual amendment: Ss. 123A-123X and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/21/section/4), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+[^c-f6b9d93c45c0837c95e6bd6eb678281d]: Textual amendment: Ss. 123A-123X and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/21/section/4), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
 
-[^key-57d40c79a11bdff9766149a59f24d050]: Textual amendment: Words in s. 124 cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/6)
+[^c-57d40c79a11bdff9766149a59f24d050]: Textual amendment: Words in s. 124 cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/6)
 
-[^key-e31b873c69e07bc52340dd07efdc0caf]: Textual amendment: Ss. 134C-134G and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 7](https://www.legislation.gov.uk/ukpga/2017/21/section/7), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+[^c-e31b873c69e07bc52340dd07efdc0caf]: Textual amendment: Ss. 134C-134G and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 7](https://www.legislation.gov.uk/ukpga/2017/21/section/7), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
 
-[^key-652ea49e5927586cb07bdb4300947115]: Textual amendment: Ss. 138A-138S and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/21/section/9), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+[^c-652ea49e5927586cb07bdb4300947115]: Textual amendment: Ss. 138A-138S and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/21/section/9), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
 
-[^key-59f9fb1d6cbd8e0a1fa3bbdaadd13a3b]: Textual amendment: Ss. 144A-144E and cross-heading inserted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/28/1), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5) (with [s. 28(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/28/2)); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/b)
+[^c-59f9fb1d6cbd8e0a1fa3bbdaadd13a3b]: Textual amendment: Ss. 144A-144E and cross-heading inserted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/28/1), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5) (with [s. 28(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/28/2)); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/b)
 
-[^key-7fa1bd5880a69b4209e48dcf95fbf384]: Textual amendment: Ss. 144F, 144G and cross-heading inserted (27.10.2025 for the purposes of making regulations, 5.8.2026 in so far as not already in force) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/34/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/f) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/834/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/834/regulation/4))
+[^c-7fa1bd5880a69b4209e48dcf95fbf384]: Textual amendment: Ss. 144F, 144G and cross-heading inserted (27.10.2025 for the purposes of making regulations, 5.8.2026 in so far as not already in force) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 34(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/34/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/f) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/834/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/834/regulation/4))
 
-[^key-1ef9626fb1ab8013de9a98c95a9337d6]: Textual amendment: S. 145A substituted for s. 145 (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [ss. 1](https://www.legislation.gov.uk/ukpga/2007/13/section/1), [15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-1ef9626fb1ab8013de9a98c95a9337d6]: Textual amendment: S. 145A substituted for s. 145 (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [ss. 1](https://www.legislation.gov.uk/ukpga/2007/13/section/1), [15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-25e848eeec246761742bb7a44148c37d]: Textual amendment: [S. 151A and cross-heading](https://www.legislation.gov.uk/ukpga/2000/38/part/II/crossheading/zeroemission-vehicles) inserted (27.10.2025 for the purposes of making regulations, 29.10.2026 in so far as not already in force) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/37/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/1136](https://www.legislation.gov.uk/uksi/2026/1136), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1136/regulation/2/b)
+[^c-25e848eeec246761742bb7a44148c37d]: Textual amendment: [S. 151A and cross-heading](https://www.legislation.gov.uk/ukpga/2000/38/part/II/crossheading/zeroemission-vehicles) inserted (27.10.2025 for the purposes of making regulations, 29.10.2026 in so far as not already in force) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/37/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/1136](https://www.legislation.gov.uk/uksi/2026/1136), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1136/regulation/2/b)
 
-[^key-a16f8096161aa67132b54e74a4cabf34]: Textual amendment: S. 172A and cross-heading inserted (9.2.2009 for E., 1.4.2009 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 114](https://www.legislation.gov.uk/ukpga/2008/26/section/114), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(o)](https://www.legislation.gov.uk/uksi/2009/579/article/2/o)
+[^c-a16f8096161aa67132b54e74a4cabf34]: Textual amendment: S. 172A and cross-heading inserted (9.2.2009 for E., 1.4.2009 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 114](https://www.legislation.gov.uk/ukpga/2008/26/section/114), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(o)](https://www.legislation.gov.uk/uksi/2009/579/article/2/o)
 
-[^key-1cf512f5d32e221cc077d574e2115cce]: Modification: [Pt. 3 Chs. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/3/chapter/2), [3](https://www.legislation.gov.uk/ukpga/2000/38/part/3/chapter/3): functions made exercisable concurrently (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/232/regulation/18)
+[^c-1cf512f5d32e221cc077d574e2115cce]: Modification: [Pt. 3 Chs. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/3/chapter/2), [3](https://www.legislation.gov.uk/ukpga/2000/38/part/3/chapter/3): functions made exercisable concurrently (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/232/regulation/18)
 
-[^key-2320d82d00f329d786dea66d3a0bdf6b]: Modification: [Pt. 3 Chs. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/3/chapter/2), [3](https://www.legislation.gov.uk/ukpga/2000/38/part/3/chapter/3): functions made exercisable concurrently (5.2.2025) by [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2025/118/regulation/13)
+[^c-2320d82d00f329d786dea66d3a0bdf6b]: Modification: [Pt. 3 Chs. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/3/chapter/2), [3](https://www.legislation.gov.uk/ukpga/2000/38/part/3/chapter/3): functions made exercisable concurrently (5.2.2025) by [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2025/118/regulation/13)
 
-[^key-997bbeac23ce62d098cd7d40cf7626b4]: Modification: [Pt. 3 Chs. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/3/chapter/2), [3](https://www.legislation.gov.uk/ukpga/2000/38/part/3/chapter/3): functions made exercisable concurrently (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/117/regulation/17)
+[^c-997bbeac23ce62d098cd7d40cf7626b4]: Modification: [Pt. 3 Chs. 2](https://www.legislation.gov.uk/ukpga/2000/38/part/3/chapter/2), [3](https://www.legislation.gov.uk/ukpga/2000/38/part/3/chapter/3): functions made exercisable concurrently (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/117/regulation/17)

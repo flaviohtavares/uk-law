@@ -28,12 +28,12 @@ summary: ''
 
 - (a) the total number of shares of the company,
 - (b) the aggregate nominal value of those shares,
-- (ba)[^key-bf41292d07dc4b37fe2e8a689d9fe0fc] the aggregate amount (if any) unpaid on those shares (whether on account of their nominal value or by way of premium), and
+- (ba)[^c-bf41292d07dc4b37fe2e8a689d9fe0fc] the aggregate amount (if any) unpaid on those shares (whether on account of their nominal value or by way of premium), and
 - (c) for each class of shares—
   - (i) prescribed particulars of the rights attached to the shares,
   - (ii) the total number of shares of that class, and
-  - (iii) the aggregate nominal value of shares of that class, [^key-274b4b5b8adf26476e0547d744b05600]...
-- (d)[^key-274b4b5b8adf26476e0547d744b05600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) the aggregate nominal value of shares of that class, [^c-274b4b5b8adf26476e0547d744b05600]...
+- (d)[^c-274b4b5b8adf26476e0547d744b05600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If default is made in complying with this section, an offence is committed by—
 
@@ -50,6 +50,6 @@ summary: ''
 
 [^c21177671]: Modification: Ss. 662-669 modified (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/7/1)
 
-[^key-bf41292d07dc4b37fe2e8a689d9fe0fc]: Textual amendment: S. 663(3)(ba) inserted (30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 12(a)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/12/a); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
+[^c-bf41292d07dc4b37fe2e8a689d9fe0fc]: Textual amendment: S. 663(3)(ba) inserted (30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 12(a)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/12/a); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
 
-[^key-274b4b5b8adf26476e0547d744b05600]: Textual amendment: S. 663(3)(d) and word omitted (30.6.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 12(b)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/12/b); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)
+[^c-274b4b5b8adf26476e0547d744b05600]: Textual amendment: S. 663(3)(d) and word omitted (30.6.2016) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 6 para. 12(b)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/6/paragraph/12/b); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 6(e)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/e)

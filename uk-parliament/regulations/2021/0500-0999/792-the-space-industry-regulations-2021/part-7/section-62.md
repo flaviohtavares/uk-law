@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. The training manager (application for approval)[^key-3bb84abd90a32e03c6f7429da118f456]
+## 62. The training manager (application for approval)[^c-3bb84abd90a32e03c6f7429da118f456]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bb84abd90a32e03c6f7429da118f456]: Commencement: Reg. 62 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-3bb84abd90a32e03c6f7429da118f456]: Commencement: Reg. 62 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

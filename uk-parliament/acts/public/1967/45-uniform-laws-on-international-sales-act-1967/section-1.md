@@ -30,7 +30,7 @@ summary: ''
 
 - (a) in relation to a contract made before 18 May 1973, no provision of the law of any part of the United Kingdom shall be regarded as a mandatory provision within the meaning of that Article;
 - (b) in relation to a contract made on or after 18 May 1973 and before 1 February 1978, no provision of that law shall be so regarded except sections 12 to 15, 55 and 56 of the Sale of Goods Act 1979;
-- (c) in relation to a contract made on or after 1 February 1978, no provision of that law shall be so regarded except sections 12 to 15B[^c6687401] of the Sale of Goods Act 1979 and sections 9 to 17, 19 to 24 and 28 to 32 of the Consumer Rights Act 2015.[^key-4fc34d93c4c9f14eff4a5c6ae5d94723]
+- (c) in relation to a contract made on or after 1 February 1978, no provision of that law shall be so regarded except sections 12 to 15B[^c6687401] of the Sale of Goods Act 1979 and sections 9 to 17, 19 to 24 and 28 to 32 of the Consumer Rights Act 2015.[^c-4fc34d93c4c9f14eff4a5c6ae5d94723]
 
 (5) If Her Majesty by Order in Council declares what States are Contracting States, and in respect of what territories, or what declarations under Article II of the First Convention are for the time being in force, the Order shall, while in force, be conclusive for the purposes of paragraph 1 or, as the case may be, paragraph 5 of Article 1 of the Uniform Law on Sales; but any Order in Council under this subsection may be varied or revoked by a subsequent Order in Council.
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c6687401]: Textual amendment: Words in s. 1(4)(c) substituted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2), [para. 3](https://www.legislation.gov.uk/ukpga/1994/35/paragraph/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3)).
 
-[^key-4fc34d93c4c9f14eff4a5c6ae5d94723]: Textual amendment: Words in s. 1(4)(c) inserted (1.10.2015) by [The Consumer Rights Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/1726)](https://www.legislation.gov.uk/uksi/2015/1726), [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/1726/schedule/paragraph/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/1726/article/3))
+[^c-4fc34d93c4c9f14eff4a5c6ae5d94723]: Textual amendment: Words in s. 1(4)(c) inserted (1.10.2015) by [The Consumer Rights Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/1726)](https://www.legislation.gov.uk/uksi/2015/1726), [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/1726/schedule/paragraph/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/1726/article/3))

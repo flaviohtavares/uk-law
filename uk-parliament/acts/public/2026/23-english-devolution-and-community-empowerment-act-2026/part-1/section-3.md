@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Single foundation strategic authorities[^key-b12b2070b9b892d2d589a6e563db41ac][^key-844aa887bd3d60a3eb9a977f4dc649a0]
+## 3. Single foundation strategic authorities[^c-b12b2070b9b892d2d589a6e563db41ac][^c-844aa887bd3d60a3eb9a977f4dc649a0]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b12b2070b9b892d2d589a6e563db41ac]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-b12b2070b9b892d2d589a6e563db41ac]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-844aa887bd3d60a3eb9a977f4dc649a0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2026/23/section/3) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-844aa887bd3d60a3eb9a977f4dc649a0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2026/23/section/3) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

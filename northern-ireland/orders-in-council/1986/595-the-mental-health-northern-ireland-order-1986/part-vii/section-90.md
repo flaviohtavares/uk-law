@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Registration of private hospitals[^key-3206c987f95fc05c4a6325087a721356]
+## 90. Registration of private hospitals[^c-3206c987f95fc05c4a6325087a721356]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3206c987f95fc05c4a6325087a721356]: Commencement: [Art. 90](https://www.legislation.gov.uk/nisi/1986/595/article/90) in operation at 31.3.2013 in so far as not already in operation by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/349/article/2/2/a)
+[^c-3206c987f95fc05c4a6325087a721356]: Commencement: [Art. 90](https://www.legislation.gov.uk/nisi/1986/595/article/90) in operation at 31.3.2013 in so far as not already in operation by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/349/article/2/2/a)
 
 [^c17125661]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 

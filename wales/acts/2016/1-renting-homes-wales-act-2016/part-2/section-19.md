@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Fundamental terms and fundamental provisions: definitions[^key-6d32293aa0f6ac81685d4bc96cae5d65]
+## 19. Fundamental terms and fundamental provisions: definitions[^c-6d32293aa0f6ac81685d4bc96cae5d65]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d32293aa0f6ac81685d4bc96cae5d65]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2016/1/section/19) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-6d32293aa0f6ac81685d4bc96cae5d65]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2016/1/section/19) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

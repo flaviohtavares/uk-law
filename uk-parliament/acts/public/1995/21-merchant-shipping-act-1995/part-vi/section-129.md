@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Further provision for prevention of pollution from ships.[^key-d957f504ca306961f759ec25fd0c7f38][^key-30b3adf8422e846df7047eddb597611d]
+## 129. Further provision for prevention of pollution from ships.[^c-d957f504ca306961f759ec25fd0c7f38][^c-30b3adf8422e846df7047eddb597611d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,8 +33,8 @@ and provision authorising the making of regulations authorises the amendment or 
 
 ## Annotations
 
-[^key-d957f504ca306961f759ec25fd0c7f38]: Modification: S. 129 applied (with modifications) (21.7.2022) by [S.I.1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) and Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Amendment Order 2022 (S.I. 2022/844)](https://www.legislation.gov.uk/uksi/2022/844), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/844/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2022/844/article/2/2))
+[^c-d957f504ca306961f759ec25fd0c7f38]: Modification: S. 129 applied (with modifications) (21.7.2022) by [S.I.1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) and Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Amendment Order 2022 (S.I. 2022/844)](https://www.legislation.gov.uk/uksi/2022/844), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/844/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2022/844/article/2/2))
 
-[^key-30b3adf8422e846df7047eddb597611d]: Modification: [S. 129](https://www.legislation.gov.uk/ukpga/1995/21/section/129) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(d)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/d/f))
+[^c-30b3adf8422e846df7047eddb597611d]: Modification: [S. 129](https://www.legislation.gov.uk/ukpga/1995/21/section/129) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(d)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/d/f))
 
 [^c14526571]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).

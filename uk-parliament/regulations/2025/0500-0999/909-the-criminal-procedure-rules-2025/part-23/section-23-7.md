@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23.7. Representations in response[^key-d823498ad1a9d8ef285f7165a270558a]
+## 23.7. Representations in response[^c-d823498ad1a9d8ef285f7165a270558a]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d823498ad1a9d8ef285f7165a270558a]: Commencement: [Rule 23.7](https://www.legislation.gov.uk/uksi/2025/909/rule/23.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d823498ad1a9d8ef285f7165a270558a]: Commencement: [Rule 23.7](https://www.legislation.gov.uk/uksi/2025/909/rule/23.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -31,10 +31,10 @@ have effect as if they included references to a share in the open-ended investme
 (2) Paragraph (1) does not apply—
 
 - (a) to section 99(1) (application of Act to unit trust scheme),
-- (b)[^key-341d591e67bdedc71c341ebbe1e4941a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-341d591e67bdedc71c341ebbe1e4941a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) to section 272(5) (valuation of rights of unit holders), or
 - (d) to references in provisions which include reference, whether made expressly or by implication, to shares in, or an owner of shares in, an open-ended investment company.
 
 ## Annotations
 
-[^key-341d591e67bdedc71c341ebbe1e4941a]: Textual amendment: [Reg. 102(2)(b)](https://www.legislation.gov.uk/uksi/2006/964/regulation/102/2/b) omitted (8.6.2013) by virtue of [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/14/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))
+[^c-341d591e67bdedc71c341ebbe1e4941a]: Textual amendment: [Reg. 102(2)(b)](https://www.legislation.gov.uk/uksi/2006/964/regulation/102/2/b) omitted (8.6.2013) by virtue of [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/14/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))

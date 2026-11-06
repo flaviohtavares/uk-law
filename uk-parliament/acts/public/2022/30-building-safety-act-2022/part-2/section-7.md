@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Proposals and consultation relating to regulations[^key-0068e9dcb4b2c81317b9a5aaee10096e]
+## 7. Proposals and consultation relating to regulations[^c-0068e9dcb4b2c81317b9a5aaee10096e]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0068e9dcb4b2c81317b9a5aaee10096e]: Commencement: S. 7 in force at Royal Assent, see [s. 170(1)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/c)
+[^c-0068e9dcb4b2c81317b9a5aaee10096e]: Commencement: S. 7 in force at Royal Assent, see [s. 170(1)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/c)

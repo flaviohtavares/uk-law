@@ -39,15 +39,15 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c765964]
 
-## 3. Payments to or in respect of redundant workers.[^key-69bfc37b0005fbebdcf9044069ff72ae]
+## 3. Payments to or in respect of redundant workers.[^c-69bfc37b0005fbebdcf9044069ff72ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Interpretation.[^key-d0765d3f5ddf2f9390d1ce9ebd06aa5a]
+## 4. Interpretation.[^c-d0765d3f5ddf2f9390d1ce9ebd06aa5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Citation, repeal and extent.[^key-a24724ab230df996da34b89e394dcf6e]
+## 5. Citation, repeal and extent.[^c-a24724ab230df996da34b89e394dcf6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -57,8 +57,8 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 [^c765964]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1985/27/section/2) repealed (with saving) by [Coal Industry Act 1987 (c. 3, SIF 86)](https://www.legislation.gov.uk/ukpga/1987/3), [s. 10(3)](https://www.legislation.gov.uk/ukpga/1987/3/section/10/3), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1987/3/schedule/3/part/I) Note
 
-[^key-69bfc37b0005fbebdcf9044069ff72ae]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1985/27/section/3) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2014/888](https://www.legislation.gov.uk/uksi/2014/888), [art. 2](https://www.legislation.gov.uk/uksi/2014/888/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/888/schedule)
+[^c-69bfc37b0005fbebdcf9044069ff72ae]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1985/27/section/3) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2014/888](https://www.legislation.gov.uk/uksi/2014/888), [art. 2](https://www.legislation.gov.uk/uksi/2014/888/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/888/schedule)
 
-[^key-d0765d3f5ddf2f9390d1ce9ebd06aa5a]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1985/27/section/4) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2014/888](https://www.legislation.gov.uk/uksi/2014/888), [art. 2](https://www.legislation.gov.uk/uksi/2014/888/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/888/schedule)
+[^c-d0765d3f5ddf2f9390d1ce9ebd06aa5a]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1985/27/section/4) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2014/888](https://www.legislation.gov.uk/uksi/2014/888), [art. 2](https://www.legislation.gov.uk/uksi/2014/888/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/888/schedule)
 
-[^key-a24724ab230df996da34b89e394dcf6e]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1985/27/section/5) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2014/888](https://www.legislation.gov.uk/uksi/2014/888), [art. 2](https://www.legislation.gov.uk/uksi/2014/888/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/888/schedule)
+[^c-a24724ab230df996da34b89e394dcf6e]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1985/27/section/5) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2014/888](https://www.legislation.gov.uk/uksi/2014/888), [art. 2](https://www.legislation.gov.uk/uksi/2014/888/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/888/schedule)

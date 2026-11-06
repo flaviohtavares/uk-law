@@ -48,7 +48,7 @@ The Secretary of State makes the following Regulations in exercise of powers con
 
 In accordance with section 173(1)(a) of the Social Security Administration Act 1992 [^c24004221], it appears to the Secretary of State that by reason of the urgency of this matter it is inexpedient to refer the proposals in respect of these Regulations to the Social Security Advisory Committee.
 
-## 1. Citation, commencement and interpretation[^key-66ea33649bdff96cc079302bbdb84178]
+## 1. Citation, commencement and interpretation[^c-66ea33649bdff96cc079302bbdb84178]
 
 (1) These Regulations may be cited as the Employment and Support Allowance and Universal Credit (Coronavirus Disease) Regulations 2020 and come into force on 13th March 2020.
 
@@ -63,7 +63,7 @@ In accordance with section 173(1)(a) of the Social Security Administration Act 1
 - “**qualifying young person**” has the meaning in regulation 5 of the Universal Credit Regulations 2013;
 - “**universal credit**” means universal credit under Part 1 of the Welfare Reform Act 2012.
 
-## 2. Waiting days[^key-e8ad81ea2c5235e8b8e41d138f94032e]
+## 2. Waiting days[^c-e8ad81ea2c5235e8b8e41d138f94032e]
 
 (1) Paragraph 2 of Schedule 2 to the 2007 Act does not apply to a person to whom paragraph (2) applies.
 
@@ -75,31 +75,31 @@ In accordance with section 173(1)(a) of the Social Security Administration Act 1
 
 where the Secretary of State is satisfied that paragraph 2 of Schedule 2 to the 2007 Act should not apply to the person.
 
-## 3. Treating a person as having limited capability for work[^key-591ae5dd288cd08d5be9bd89a02b4686][^key-9cf6ed79303149c73af99cbadf47720a]
+## 3. Treating a person as having limited capability for work[^c-591ae5dd288cd08d5be9bd89a02b4686][^c-9cf6ed79303149c73af99cbadf47720a]
 
-(1) This regulation applies to a person who makes a claim for universal credit or employment and support allowance or who has an existing award of universal credit or employment and support allowance. *(affected by repeal, see note)*[^key-9cf6ed79303149c73af99cbadf47720a]
+(1) This regulation applies to a person who makes a claim for universal credit or employment and support allowance or who has an existing award of universal credit or employment and support allowance. *(affected by repeal, see note)*[^c-9cf6ed79303149c73af99cbadf47720a]
 
-(2) Where this regulation applies the person is to be treated as having limited capability for work *(affected by repeal, see note)*[^key-9cf6ed79303149c73af99cbadf47720a] [^c24004241] if the person is— *(affected by repeal, see note)*[^key-9cf6ed79303149c73af99cbadf47720a]
+(2) Where this regulation applies the person is to be treated as having limited capability for work *(affected by repeal, see note)*[^c-9cf6ed79303149c73af99cbadf47720a] [^c24004241] if the person is— *(affected by repeal, see note)*[^c-9cf6ed79303149c73af99cbadf47720a]
 
-- (a) infected or contaminated with Coronavirus disease; *(affected by repeal, see note)*[^key-9cf6ed79303149c73af99cbadf47720a]
-- (b) in isolation; or *(affected by repeal, see note)*[^key-9cf6ed79303149c73af99cbadf47720a]
-- (c) caring for a child or qualifying young person who is a member of the person's household and who falls within sub-paragraph (a) or (b), *(affected by repeal, see note)*[^key-9cf6ed79303149c73af99cbadf47720a]
+- (a) infected or contaminated with Coronavirus disease; *(affected by repeal, see note)*[^c-9cf6ed79303149c73af99cbadf47720a]
+- (b) in isolation; or *(affected by repeal, see note)*[^c-9cf6ed79303149c73af99cbadf47720a]
+- (c) caring for a child or qualifying young person who is a member of the person's household and who falls within sub-paragraph (a) or (b), *(affected by repeal, see note)*[^c-9cf6ed79303149c73af99cbadf47720a]
 
-where the Secretary of State is satisfied that the person should be treated as having limited capability for work. *(affected by repeal, see note)*[^key-9cf6ed79303149c73af99cbadf47720a]
+where the Secretary of State is satisfied that the person should be treated as having limited capability for work. *(affected by repeal, see note)*[^c-9cf6ed79303149c73af99cbadf47720a]
 
-(3) Regulations 26 and 35(6) to (9) of the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013 *(affected by repeal, see note)*[^key-9cf6ed79303149c73af99cbadf47720a] [^c24004251] apply to a determination that the person is to be treated as having limited capability for work in accordance with this regulation as if such a determination had been made under regulation 16 of the Employment and Support Allowance Regulations 2013 or Part 5 of the Universal Credit Regulations 2013. *(affected by repeal, see note)*[^key-9cf6ed79303149c73af99cbadf47720a]
+(3) Regulations 26 and 35(6) to (9) of the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013 *(affected by repeal, see note)*[^c-9cf6ed79303149c73af99cbadf47720a] [^c24004251] apply to a determination that the person is to be treated as having limited capability for work in accordance with this regulation as if such a determination had been made under regulation 16 of the Employment and Support Allowance Regulations 2013 or Part 5 of the Universal Credit Regulations 2013. *(affected by repeal, see note)*[^c-9cf6ed79303149c73af99cbadf47720a]
 
-(4) Regulation 6(2)(r) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 *(affected by repeal, see note)*[^key-9cf6ed79303149c73af99cbadf47720a] [^c24004261] applies to a determination that the person is to be treated as having limited capability for work in accordance with this regulation as if such a determination had been made under regulation 20 of the Employment and Support Allowance Regulations 2008 *(affected by repeal, see note)*[^key-9cf6ed79303149c73af99cbadf47720a] [^c24004271].
+(4) Regulation 6(2)(r) of the Social Security and Child Support (Decisions and Appeals) Regulations 1999 *(affected by repeal, see note)*[^c-9cf6ed79303149c73af99cbadf47720a] [^c24004261] applies to a determination that the person is to be treated as having limited capability for work in accordance with this regulation as if such a determination had been made under regulation 20 of the Employment and Support Allowance Regulations 2008 *(affected by repeal, see note)*[^c-9cf6ed79303149c73af99cbadf47720a] [^c24004271].
 
-## 4. Suspension of the Minimum Income Floor[^key-1ea294448b9ed767ee2804e176c7e064][^key-27530ec0bb273983b464bd0a9cff7a62]
+## 4. Suspension of the Minimum Income Floor[^c-1ea294448b9ed767ee2804e176c7e064][^c-27530ec0bb273983b464bd0a9cff7a62]
 
-Where a person ceases to be treated as having limited capability for work under regulation 3, the Secretary of State may determine that regulation 62 of the Universal Credit Regulations 2013 *(affected by repeal, see note)*[^key-27530ec0bb273983b464bd0a9cff7a62] [^c24004281] does not apply to the person for the assessment period in which they cease to be treated as having limited capability for work and the Secretary of State may further extend the period during which regulation 62 does not apply if the Secretary of State considers such an extension to be appropriate. *(affected by repeal, see note)*[^key-27530ec0bb273983b464bd0a9cff7a62]
+Where a person ceases to be treated as having limited capability for work under regulation 3, the Secretary of State may determine that regulation 62 of the Universal Credit Regulations 2013 *(affected by repeal, see note)*[^c-27530ec0bb273983b464bd0a9cff7a62] [^c24004281] does not apply to the person for the assessment period in which they cease to be treated as having limited capability for work and the Secretary of State may further extend the period during which regulation 62 does not apply if the Secretary of State considers such an extension to be appropriate. *(affected by repeal, see note)*[^c-27530ec0bb273983b464bd0a9cff7a62]
 
-## 5. Expiry[^key-b2d2b3cb9bd6dbc249050a958b55402a]
+## 5. Expiry[^c-b2d2b3cb9bd6dbc249050a958b55402a]
 
 (1) The Secretary of State must keep the operation of these Regulations under review.
 
-(2)[^key-99127892712d06f7172e92283734d9e2] These Regulations cease to have effect on 24th March 2022.
+(2)[^c-99127892712d06f7172e92283734d9e2] These Regulations cease to have effect on 24th March 2022.
 
 Signed by authority of the Secretary of State for Work and Pensions
 
@@ -133,15 +133,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24004221]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-66ea33649bdff96cc079302bbdb84178]: Commencement: Reg. 1 in force at 13.3.2020, see reg. 1(1)
+[^c-66ea33649bdff96cc079302bbdb84178]: Commencement: Reg. 1 in force at 13.3.2020, see reg. 1(1)
 
 [^c24004231]: Marginal citation: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376), amended by [S.I. 2014/2887](https://www.legislation.gov.uk/uksi/2014/2887), [2015/1362](https://www.legislation.gov.uk/uksi/2015/1362) and [2018/65](https://www.legislation.gov.uk/uksi/2018/65).
 
-[^key-e8ad81ea2c5235e8b8e41d138f94032e]: Commencement: Reg. 2 in force at 13.3.2020, see reg. 1(1)
+[^c-e8ad81ea2c5235e8b8e41d138f94032e]: Commencement: Reg. 2 in force at 13.3.2020, see reg. 1(1)
 
-[^key-591ae5dd288cd08d5be9bd89a02b4686]: Commencement: Reg. 3 in force at 13.3.2020, see reg. 1(1)
+[^c-591ae5dd288cd08d5be9bd89a02b4686]: Commencement: Reg. 3 in force at 13.3.2020, see reg. 1(1)
 
-[^key-9cf6ed79303149c73af99cbadf47720a]: Textual amendment: Reg. 3 ceases to have effect for specified purposes (30.3.2020) by virtue of [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2020/371/regulation/10/3)
+[^c-9cf6ed79303149c73af99cbadf47720a]: Textual amendment: Reg. 3 ceases to have effect for specified purposes (30.3.2020) by virtue of [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2020/371/regulation/10/3)
 
 [^c24004241]: Marginal citation: See section 1(4) of the Welfare Reform Act 2007 and section 37(1) of the Welfare Reform Act 2012.
 
@@ -151,12 +151,12 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24004271]: Marginal citation: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794), amended by [S.I. 2011/228](https://www.legislation.gov.uk/uksi/2011/228) and [2013/2536](https://www.legislation.gov.uk/uksi/2013/2536).
 
-[^key-1ea294448b9ed767ee2804e176c7e064]: Commencement: Reg. 4 in force at 13.3.2020, see reg. 1(1)
+[^c-1ea294448b9ed767ee2804e176c7e064]: Commencement: Reg. 4 in force at 13.3.2020, see reg. 1(1)
 
-[^key-27530ec0bb273983b464bd0a9cff7a62]: Textual amendment: Reg. 4 ceases to have effect for specified purposes (30.3.2020) by virtue of [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2020/371/regulation/10/3)
+[^c-27530ec0bb273983b464bd0a9cff7a62]: Textual amendment: Reg. 4 ceases to have effect for specified purposes (30.3.2020) by virtue of [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2020/371/regulation/10/3)
 
 [^c24004281]: Marginal citation: Amended by [S.I. 2014/2888](https://www.legislation.gov.uk/uksi/2014/2888), [2015/1754](https://www.legislation.gov.uk/uksi/2015/1754) and [345](https://www.legislation.gov.uk/uksi/2015/345) and [2019/1249](https://www.legislation.gov.uk/uksi/2019/1249).
 
-[^key-b2d2b3cb9bd6dbc249050a958b55402a]: Commencement: Reg. 5 in force at 13.3.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/289/regulation/1/1)
+[^c-b2d2b3cb9bd6dbc249050a958b55402a]: Commencement: Reg. 5 in force at 13.3.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/289/regulation/1/1)
 
-[^key-99127892712d06f7172e92283734d9e2]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2020/289/regulation/5/2) substituted (12.11.2021) by [The Employment and Support Allowance and Universal Credit (Coronavirus Disease) (Amendment) Regulations 2021 (S.I. 2021/1158)](https://www.legislation.gov.uk/uksi/2021/1158), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1158/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1158/regulation/2)
+[^c-99127892712d06f7172e92283734d9e2]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2020/289/regulation/5/2) substituted (12.11.2021) by [The Employment and Support Allowance and Universal Credit (Coronavirus Disease) (Amendment) Regulations 2021 (S.I. 2021/1158)](https://www.legislation.gov.uk/uksi/2021/1158), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1158/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1158/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 221. Outlays of insolvency practitioner in actings as interim trustee or trustee[^key-bdd5cf715f84cce95acf26562a8f9ef9]
+## 221. Outlays of insolvency practitioner in actings as interim trustee or trustee[^c-bdd5cf715f84cce95acf26562a8f9ef9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may, by regulations, provide for the premium (or a propor
 
 ## Annotations
 
-[^key-bdd5cf715f84cce95acf26562a8f9ef9]: Commencement: S. 221 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-bdd5cf715f84cce95acf26562a8f9ef9]: Commencement: S. 221 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

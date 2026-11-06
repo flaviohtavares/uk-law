@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Penalty for providing false information, destroying documents etc[^key-30547d436ef67ebc79e5cd52d504866c]
+## 52. Penalty for providing false information, destroying documents etc[^c-30547d436ef67ebc79e5cd52d504866c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30547d436ef67ebc79e5cd52d504866c]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2012/19/section/52) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-30547d436ef67ebc79e5cd52d504866c]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2012/19/section/52) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

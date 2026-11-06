@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Notification of non-EEA arrivals.[^key-09bc47e527dc0c41d0d504d4ab59ff36]
+## 19. Notification of non-EEA arrivals.[^c-09bc47e527dc0c41d0d504d4ab59ff36]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09bc47e527dc0c41d0d504d4ab59ff36]: Textual amendment: S. 19 omitted (12.2.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/3)
+[^c-09bc47e527dc0c41d0d504d4ab59ff36]: Textual amendment: S. 19 omitted (12.2.2015) by virtue of [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/3)

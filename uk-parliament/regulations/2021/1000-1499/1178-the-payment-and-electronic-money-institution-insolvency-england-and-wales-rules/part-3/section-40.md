@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Content of notice for meetings[^key-b0178178ef49820524ff36c99c28d30a]
+## 40. Content of notice for meetings[^c-b0178178ef49820524ff36c99c28d30a]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ unless the court orders that it be given by advertisement only in accordance wit
 
 ## Annotations
 
-[^key-b0178178ef49820524ff36c99c28d30a]: Commencement: Rule 40 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-b0178178ef49820524ff36c99c28d30a]: Commencement: Rule 40 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

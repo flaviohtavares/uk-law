@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Control of pharmacy premises: individuals and partnerships[^key-d7e0ac2512a22767ce405ae490e7afc1]
+## 27. Control of pharmacy premises: individuals and partnerships[^c-d7e0ac2512a22767ce405ae490e7afc1]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 > (4) The responsible pharmacist must be—
 >
 > - (a) the person carrying on the business, or
-> - (b) if the business is carried on by a partnership, one of the partners or, in Scotland, one of the partners who is a person registered in Part 1 of the Register of Pharmacists maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007[^key-755b233085319126ed1cf65c5cf428cc], or
+> - (b) if the business is carried on by a partnership, one of the partners or, in Scotland, one of the partners who is a person registered in Part 1 of the Register of Pharmacists maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007[^c-755b233085319126ed1cf65c5cf428cc], or
 > - (c) another pharmacist.
 >
 > (5) In relation to premises in Great Britain that have been registered pharmacies for less than three years, the responsible pharmacist may not be a person who is a pharmacist by virtue of section 4A of the Pharmacy Act 1954 (qualification by European diploma) or any corresponding provision applying to Northern Ireland.
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7e0ac2512a22767ce405ae490e7afc1]: Commencement: S. 27 in force at 1.10.2009 by [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/a)
+[^c-d7e0ac2512a22767ce405ae490e7afc1]: Commencement: S. 27 in force at 1.10.2009 by [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/a)
 
-[^key-755b233085319126ed1cf65c5cf428cc]: Textual amendment: Word in s. 27(1) substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [103(a)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/103/a)
+[^c-755b233085319126ed1cf65c5cf428cc]: Textual amendment: Word in s. 27(1) substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [103(a)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/103/a)

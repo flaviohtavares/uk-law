@@ -24,43 +24,43 @@ Section 122
 
 ### Part 1 — Designated persons
 
-**1.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Community support officers
 
-**2.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Investigating officers
 
-**13.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-90c6a04e019f72864c31f46ffc5ba36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Detention officers
 
-**16.**[^key-b65a660504e3db0bcd95e7fef1517719] After paragraph 33 insert—
+**16.**[^c-b65a660504e3db0bcd95e7fef1517719] After paragraph 33 insert—
 
 > **33A. Taking of impressions of footwear**
 >
@@ -71,11 +71,11 @@ Section 122
 
 ### Part 2 — Accredited persons
 
-**17.**[^key-9ef0865389aad141c92688d2a2877caa] Schedule 5 to the Police Reform Act 2002 (c. 30) (powers exercisable by accredited persons) is amended as follows.
+**17.**[^c-9ef0865389aad141c92688d2a2877caa] Schedule 5 to the Police Reform Act 2002 (c. 30) (powers exercisable by accredited persons) is amended as follows.
 
-**18.**[^key-70059c40b23f3e6c61d6ed83fa4eeb94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-70059c40b23f3e6c61d6ed83fa4eeb94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-b4cca4ce1f7c1c639748a711f726b7a9] After paragraph 3 insert—
+**19.**[^c-b4cca4ce1f7c1c639748a711f726b7a9] After paragraph 3 insert—
 
 > **3A. Power to require name and address: road traffic offences**
 >
@@ -86,7 +86,7 @@ Section 122
 >
 > (2) The reference in section 169 of the Road Traffic Act 1988 to section 37 of that Act is to be taken to include a reference to that section as extended by paragraphs 8B(4) and 9(2) of this Schedule.
 
-**20.**[^key-eb24178bf1bf3065d79ce3b762718330] After paragraph 8A insert—
+**20.**[^c-eb24178bf1bf3065d79ce3b762718330] After paragraph 8A insert—
 
 > **8B. Power to control traffic for purposes other than escorting a load of exceptional dimensions**
 >
@@ -103,7 +103,7 @@ Section 122
 >
 > (5) A person's accreditation may not specify that this paragraph applies to him unless it also specifies that paragraph 3A applies to him.
 
-**21.**[^key-9a21ab7a5c1f572113a539b293077ce9] After paragraph 9 insert—
+**21.**[^c-9a21ab7a5c1f572113a539b293077ce9] After paragraph 9 insert—
 
 > **9ZA. Photographing of persons given fixed penalty notices**
 >
@@ -111,16 +111,16 @@ Section 122
 
 ## Annotations
 
-[^key-90c6a04e019f72864c31f46ffc5ba36e]: Textual amendment: Sch. 8 paras. 1-15 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 18(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/18/b); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+[^c-90c6a04e019f72864c31f46ffc5ba36e]: Textual amendment: Sch. 8 paras. 1-15 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 18(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/18/b); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
 
-[^key-b65a660504e3db0bcd95e7fef1517719]: Commencement: Sch. 8 para. 16 in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(r)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/r)
+[^c-b65a660504e3db0bcd95e7fef1517719]: Commencement: Sch. 8 para. 16 in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(r)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/r)
 
-[^key-9ef0865389aad141c92688d2a2877caa]: Commencement: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2005/15/schedule/8/paragraph/17) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(i)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/i)
+[^c-9ef0865389aad141c92688d2a2877caa]: Commencement: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2005/15/schedule/8/paragraph/17) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(i)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/i)
 
-[^key-70059c40b23f3e6c61d6ed83fa4eeb94]: Textual amendment: Sch. 8 para. 18 repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(h)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/h), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-70059c40b23f3e6c61d6ed83fa4eeb94]: Textual amendment: Sch. 8 para. 18 repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(h)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/h), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
 
-[^key-b4cca4ce1f7c1c639748a711f726b7a9]: Commencement: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2005/15/schedule/8/paragraph/19) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(i)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/i)
+[^c-b4cca4ce1f7c1c639748a711f726b7a9]: Commencement: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2005/15/schedule/8/paragraph/19) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(i)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/i)
 
-[^key-eb24178bf1bf3065d79ce3b762718330]: Commencement: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2005/15/schedule/8/paragraph/20) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(i)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/i)
+[^c-eb24178bf1bf3065d79ce3b762718330]: Commencement: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2005/15/schedule/8/paragraph/20) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(i)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/i)
 
-[^key-9a21ab7a5c1f572113a539b293077ce9]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2005/15/schedule/8/paragraph/21) in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(r)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/r)
+[^c-9a21ab7a5c1f572113a539b293077ce9]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2005/15/schedule/8/paragraph/21) in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(r)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/r)

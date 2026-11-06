@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Occupancy requirements[^key-8f445940e04c7c5725b2e20468b67dca]
+## 52. Occupancy requirements[^c-8f445940e04c7c5725b2e20468b67dca]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f445940e04c7c5725b2e20468b67dca]: Commencement: [S. 52](https://www.legislation.gov.uk/nia/2016/22/section/52) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-8f445940e04c7c5725b2e20468b67dca]: Commencement: [S. 52](https://www.legislation.gov.uk/nia/2016/22/section/52) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -272,7 +272,7 @@ works for any purpose for which land may be acquired under this Act and (in any 
 
 ### 14. Power to require information as to interests in land.
 
-(1) For the purpose of enabling the Secretary of State to make any order or serve any notice which he is authorised or required by this Act to make or serve, he may require the occupier of any land and any person who either directly or indirectly receives rent in respect of any land to state in writing the nature of his interest therein and the name and address of any other person known to him as having an interest therein, whether as [^key-ea2f55259e2a341259421a86742791a4]... owner, heritable creditor, lessee or otherwise.
+(1) For the purpose of enabling the Secretary of State to make any order or serve any notice which he is authorised or required by this Act to make or serve, he may require the occupier of any land and any person who either directly or indirectly receives rent in respect of any land to state in writing the nature of his interest therein and the name and address of any other person known to him as having an interest therein, whether as [^c-ea2f55259e2a341259421a86742791a4]... owner, heritable creditor, lessee or otherwise.
 
 (2) Any person who, having been required in pursuance of this section to give any information, fails to give that information shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale[^c710033].
 
@@ -356,12 +356,12 @@ but this section shall not enable any person to execute any relevant operations 
 (2) In this Act—
 
 - “**Crown land**” means land in which there is a Crown interest;
-- “**Crown interest**” means an [^key-84ef20514e7f037b1d9a95ad2aad5bed]... interest belonging to Her Majesty in right of the Crown or belonging to a government department or held in trust for Her Majesty for the purposes of a government department, and includes any estate or interest held in right of the Prince and Steward of Scotland;
+- “**Crown interest**” means an [^c-84ef20514e7f037b1d9a95ad2aad5bed]... interest belonging to Her Majesty in right of the Crown or belonging to a government department or held in trust for Her Majesty for the purposes of a government department, and includes any estate or interest held in right of the Prince and Steward of Scotland;
 - “**designated sea area**” has the meaning conferred by section 3(1) of this Act;
 - “**expedited acquisition order**” means an order made under section 1(5) of this Act;
 - “**harbour authority**” has the same meaning as in the [^c710059]Harbours Act 1964;
 - “[^c710060] **installation** ”includes any floating structure or device maintained on a station by whatever means;
-- “[^key-8414feecd36806d49b219a232d64e5fe] **land** ” includes the foreshore and other land covered with water and, except where the context otherwise requires—
+- “[^c-8414feecd36806d49b219a232d64e5fe] **land** ” includes the foreshore and other land covered with water and, except where the context otherwise requires—
   - ((a)) any interest in, or right over, land; and
   - ((b)) any other heritable property
 - “**local authority**” means (before 16th May 1975) a county council or town council and (thereafter) any local authority within the meaning of the [^c710061]Local Government (Scotland) Act 1973;
@@ -374,7 +374,7 @@ but this section shall not enable any person to execute any relevant operations 
 - “**sea designation order**” means an order made under section 3(1) of this Act; and
 - “**United Kingdom waters**” means any part of the sea within the seaward limits of United Kingdom territorial waters.
 
-(3) Except where the context otherwise requires, this Act shall apply in relation to any [^key-744a47c99c12522fd5ea93dddc5e1225]... interest in or right over the sea bed as it applies in relation to land, and the [^c710065]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 and the compulsory purchase enactments specified in paragraph 1(2) of Schedule 2 to this Act shall apply accordingly.
+(3) Except where the context otherwise requires, this Act shall apply in relation to any [^c-744a47c99c12522fd5ea93dddc5e1225]... interest in or right over the sea bed as it applies in relation to land, and the [^c710065]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 and the compulsory purchase enactments specified in paragraph 1(2) of Schedule 2 to this Act shall apply accordingly.
 
 (4) Except where the context otherwise requires, references in this Act to any enactment are references to that enactment as amended or extended by any other enactment.
 
@@ -544,7 +544,7 @@ Section 3.
 
 [^c710032]: Marginal citation: [1973 c. 56](https://www.legislation.gov.uk/ukpga/1973/56).
 
-[^key-ea2f55259e2a341259421a86742791a4]: Textual amendment: Word in [s. 14](https://www.legislation.gov.uk/ukpga/1975/8/section/14) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 36(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/36/2), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-ea2f55259e2a341259421a86742791a4]: Textual amendment: Word in [s. 14](https://www.legislation.gov.uk/ukpga/1975/8/section/14) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 36(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/36/2), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c710033]: Textual amendment: Words substituted by virtue of [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
@@ -572,13 +572,13 @@ Section 3.
 
 [^c710051]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1975/8/section/18) para.(*j*) added by [Food and Environment Protection Act 1985 (c. 48, SIF 111)](https://www.legislation.gov.uk/ukpga/1985/48), [s. 15(5)](https://www.legislation.gov.uk/ukpga/1985/48/section/15/5)(*b*)
 
-[^key-84ef20514e7f037b1d9a95ad2aad5bed]: Textual amendment: Words in s. 20(2) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 36(3)(a)(i)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/36/3/a/i), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-84ef20514e7f037b1d9a95ad2aad5bed]: Textual amendment: Words in s. 20(2) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 36(3)(a)(i)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/36/3/a/i), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c710059]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
 [^c710060]: Textual amendment: Definition inserted by [Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86)](https://www.legislation.gov.uk/ukpga/1982/23), [s. 26(2)](https://www.legislation.gov.uk/ukpga/1982/23/section/26/2)(*a*)
 
-[^key-8414feecd36806d49b219a232d64e5fe]: Textual amendment: Words in s. 20(2) substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 36(3)(a)(ii)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/36/3/a/ii) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-8414feecd36806d49b219a232d64e5fe]: Textual amendment: Words in s. 20(2) substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 36(3)(a)(ii)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/36/3/a/ii) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c710061]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
@@ -588,7 +588,7 @@ Section 3.
 
 [^c710064]: Textual amendment: Definition repealed by [Scottish Development Agency Act 1975 (c. 69)](https://www.legislation.gov.uk/ukpga/1975/69), [Sch. 5](https://www.legislation.gov.uk/ukpga/1975/69/schedule/5)
 
-[^key-744a47c99c12522fd5ea93dddc5e1225]: Textual amendment: Words in s. 20(3) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 36(3)(b)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/36/3/b), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-744a47c99c12522fd5ea93dddc5e1225]: Textual amendment: Words in s. 20(3) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 36(3)(b)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/36/3/b), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c710065]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).
 

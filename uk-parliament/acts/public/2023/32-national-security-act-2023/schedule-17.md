@@ -22,7 +22,7 @@ summary: ''
 
 Section 92
 
-**1.**[^key-9d1c9a48b79bfaa352924b469eddfb68][^key-5bebf13e094b726b5f62f20f8b275f03] (1) Section 41 to the Terrorism Act 2000 (arrest without warrant) is amended as follows.
+**1.**[^c-9d1c9a48b79bfaa352924b469eddfb68][^c-5bebf13e094b726b5f62f20f8b275f03] (1) Section 41 to the Terrorism Act 2000 (arrest without warrant) is amended as follows.
 
 (2) In subsection (3)(b)—
 
@@ -53,7 +53,7 @@ Section 92
 - (b) in paragraph (a) after “hospital or” insert “(where this subsection applies by virtue of subsection (8ZA)(b))”;
 - (c) in paragraph (b) after “hospital or” insert “(where this subsection applies by virtue of subsection (8ZA)(b))”.
 
-**2.**[^key-3f440a2103aede5514c255f4a1d344bc][^key-3a066e5d1449044b5fbbeae91ea0f0ac] (1) Schedule 5 to the Terrorism Act 2000 (terrorist investigations) is amended as follows.
+**2.**[^c-3f440a2103aede5514c255f4a1d344bc][^c-3a066e5d1449044b5fbbeae91ea0f0ac] (1) Schedule 5 to the Terrorism Act 2000 (terrorist investigations) is amended as follows.
 
 (2) In paragraph 3 (power to search premises within cordoned area)—
 
@@ -140,10 +140,10 @@ Section 92
 
 ## Annotations
 
-[^key-9d1c9a48b79bfaa352924b469eddfb68]: Commencement: Sch. 17 para. 1 not in force at Royal Assent, see 100(1)
+[^c-9d1c9a48b79bfaa352924b469eddfb68]: Commencement: Sch. 17 para. 1 not in force at Royal Assent, see 100(1)
 
-[^key-5bebf13e094b726b5f62f20f8b275f03]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/17/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/d)
+[^c-5bebf13e094b726b5f62f20f8b275f03]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/17/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/d)
 
-[^key-3f440a2103aede5514c255f4a1d344bc]: Commencement: Sch. 17 para. 2 not in force at Royal Assent, see 100(1)
+[^c-3f440a2103aede5514c255f4a1d344bc]: Commencement: Sch. 17 para. 2 not in force at Royal Assent, see 100(1)
 
-[^key-3a066e5d1449044b5fbbeae91ea0f0ac]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/17/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/d)
+[^c-3a066e5d1449044b5fbbeae91ea0f0ac]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/17/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/d)

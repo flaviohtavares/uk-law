@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Other matters affecting remuneration[^key-2b8a565adceb89ce13683b0b6bae208f]
+## 101. Other matters affecting remuneration[^c-2b8a565adceb89ce13683b0b6bae208f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.128 of the 1986 Rules[^f00042].
 
 ## Annotations
 
-[^key-2b8a565adceb89ce13683b0b6bae208f]: Commencement: Rule 101 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-2b8a565adceb89ce13683b0b6bae208f]: Commencement: Rule 101 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00042]: Footnote: Paragraph (1) was revoked by [S.I. 2004/584](https://www.legislation.gov.uk/uksi/2004/584).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Step 3[^key-63574b350c0e5642d8b8f0b5715d9698]
+## SCHEDULE 3 — Step 3[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 *Extent: E+W*
 
@@ -24,46 +24,46 @@ summary: ''
 
 Regulation 7(3)
 
-### PART 1 — Restrictions on gatherings[^key-63574b350c0e5642d8b8f0b5715d9698]
+### PART 1 — Restrictions on gatherings[^c-63574b350c0e5642d8b8f0b5715d9698]
 
-#### 1. Participation in gatherings[^key-63574b350c0e5642d8b8f0b5715d9698]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Organisation or facilitation of gatherings[^key-63574b350c0e5642d8b8f0b5715d9698]
+#### 1. Participation in gatherings[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. General exceptions relating to gatherings[^key-63574b350c0e5642d8b8f0b5715d9698]
+#### 2. Organisation or facilitation of gatherings[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Exceptions in relation to indoor gatherings[^key-63574b350c0e5642d8b8f0b5715d9698]
+#### 3. General exceptions relating to gatherings[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Qualifying groups[^key-63574b350c0e5642d8b8f0b5715d9698]
+#### 4. Exceptions in relation to indoor gatherings[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Closure of, and restrictions on, businesses[^key-63574b350c0e5642d8b8f0b5715d9698]
-
-#### 6. Requirement to close premises and businesses[^key-63574b350c0e5642d8b8f0b5715d9698]
+#### 5. Qualifying groups[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Restrictions on service of food and drink for consumption on the premises[^key-63574b350c0e5642d8b8f0b5715d9698]
+### PART 2 — Closure of, and restrictions on, businesses[^c-63574b350c0e5642d8b8f0b5715d9698]
+
+#### 6. Requirement to close premises and businesses[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Exceptions from paragraph 6(1)[^key-63574b350c0e5642d8b8f0b5715d9698]
+#### 7. Restrictions on service of food and drink for consumption on the premises[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Restricted businesses and services for purposes of paragraph 6 and 7[^key-63574b350c0e5642d8b8f0b5715d9698]
+#### 8. Exceptions from paragraph 6(1)[^c-63574b350c0e5642d8b8f0b5715d9698]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Restricted businesses and services for purposes of paragraph 6 and 7[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63574b350c0e5642d8b8f0b5715d9698]: Textual amendment: Regulations revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2021/848/regulation/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/848/regulation/5))
+[^c-63574b350c0e5642d8b8f0b5715d9698]: Textual amendment: Regulations revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2021/848/regulation/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/848/regulation/5))

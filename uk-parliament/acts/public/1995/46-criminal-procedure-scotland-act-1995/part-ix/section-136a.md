@@ -23,8 +23,8 @@ summary: ''
 (1) This section applies where the prosecutor recommences proceedings by complaint containing both—
 
 - (a) a charge to which proceedings—
-  - (i) transferred to a court by authority of an order made under section 137A or 137CA[^key-6be335be80a3499e0f2bdb2acdadbc8d] of this Act; or
-  - (ii) transferred to, or taken at, a court by authority of an order made under 137B or 137CB[^key-2ac4ea488a0e3ba9a6348054755f514a] of this Act,
+  - (i) transferred to a court by authority of an order made under section 137A or 137CA[^c-6be335be80a3499e0f2bdb2acdadbc8d] of this Act; or
+  - (ii) transferred to, or taken at, a court by authority of an order made under 137B or 137CB[^c-2ac4ea488a0e3ba9a6348054755f514a] of this Act,
 
   relate; and
 - (b) a charge to which previous proceedings at that court relate.
@@ -41,6 +41,6 @@ to be regarded as having been commenced when any previous proceedings for the of
 
 [^c19803861]: Textual amendment: S. 136A inserted (10.3.2008) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6) , [ss. 23](https://www.legislation.gov.uk/asp/2007/6/section/23) , [84](https://www.legislation.gov.uk/asp/2007/6/section/84) ; [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42) , [art. 3](https://www.legislation.gov.uk/ssi/2008/42/article/3) , [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule) (subject to arts. 4 - 6)
 
-[^key-6be335be80a3499e0f2bdb2acdadbc8d]: Textual amendment: Words in s. 136A(1)(a)(i) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [sch. 7 para. 52(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/52/a) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-6be335be80a3499e0f2bdb2acdadbc8d]: Textual amendment: Words in s. 136A(1)(a)(i) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [sch. 7 para. 52(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/52/a) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-2ac4ea488a0e3ba9a6348054755f514a]: Textual amendment: Words in s. 136A(1)(a)(ii) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [sch. 7 para. 52(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/52/b) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-2ac4ea488a0e3ba9a6348054755f514a]: Textual amendment: Words in s. 136A(1)(a)(ii) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [sch. 7 para. 52(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/52/b) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

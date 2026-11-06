@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Complaints: monitoring and setting of minimum standards by the Commission[^key-67b50d0f9d6c2d55741151c797b43572]
+## 69. Complaints: monitoring and setting of minimum standards by the Commission[^c-67b50d0f9d6c2d55741151c797b43572]
 
 *Extent: S*
 
@@ -165,4 +165,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67b50d0f9d6c2d55741151c797b43572]: Commencement: S. 69 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-67b50d0f9d6c2d55741151c797b43572]: Commencement: S. 69 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

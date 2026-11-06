@@ -42,7 +42,7 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 8(1), 9(1) and 25(2) of, and paragraphs 1 and 9 of Schedule 2 to, the Welfare Reform Act (Northern Ireland) 2007[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-54dee2abe8b2ebdac965293be517e2a8]
+## 1. Citation, commencement and interpretation[^c-54dee2abe8b2ebdac965293be517e2a8]
 
 (1) These Regulations may be cited as the Employment and Support Allowance (Limited Capability for Work and Limited Capability for Work-related Activity) (Amendment) Regulations (Northern Ireland) 2011 and shall come into operation on 28th March 2011.
 
@@ -51,7 +51,7 @@ The Department for Social Development makes the following Regulations in exercis
 - “the Employment and Support Allowance Regulations” means the Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00002]; and
 - “the Reassessment Regulations” means the Employment and Support Allowance (Transitional Provisions and Housing Benefit) (Existing Awards) Regulations (Northern Ireland) 2010[^f00003].
 
-## 2. Application[^key-bfe5b59911f5194e7ed37e2c1bba81aa]
+## 2. Application[^c-bfe5b59911f5194e7ed37e2c1bba81aa]
 
 (1) These Regulations apply to—
 
@@ -70,7 +70,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (5) The provisions of paragraphs (2) to (4) do not apply to any determination made, on or after 28th September 2011.
 
-## 3. Amendment of the Employment and Support Allowance Regulations[^key-29a39b2346975b21ba87805a4fffe4a8]
+## 3. Amendment of the Employment and Support Allowance Regulations[^c-29a39b2346975b21ba87805a4fffe4a8]
 
 (1) The Employment and Support Allowance Regulations are amended in accordance with paragraphs (2) to (6).
 
@@ -83,15 +83,15 @@ The Department for Social Development makes the following Regulations in exercis
 
   .
 
-(3)[^key-f91c99aa0aa4e9c16286d9328ff7c626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f91c99aa0aa4e9c16286d9328ff7c626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f91c99aa0aa4e9c16286d9328ff7c626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f91c99aa0aa4e9c16286d9328ff7c626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) For Schedule 2 substitute the Schedule in Schedule 1 of these Regulations.
 
 (6) For Schedule 3 substitute the Schedule in Schedule 2 of these Regulations.
 
-## 4. Revocation[^key-17eea9e87e87012e7202c34625d6b8c0]
+## 4. Revocation[^c-17eea9e87e87012e7202c34625d6b8c0]
 
 Regulation 3(28) of the Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008[^f00005] is revoked.
 
@@ -105,7 +105,7 @@ A senior officer of the Department for Social Development
 
 SCHEDULES
 
-## SCHEDULE 1[^key-ca0a29b2560959a0ae309ba1b601fc22]
+## SCHEDULE 1[^c-ca0a29b2560959a0ae309ba1b601fc22]
 
 Regulation 3(5)
 
@@ -230,7 +230,7 @@ Regulation 3(5)
 > </tbody>
 > </table>
 
-## SCHEDULE 2[^key-3b9f9d1f75359a03efc1f35b3daa89c9]
+## SCHEDULE 2[^c-3b9f9d1f75359a03efc1f35b3daa89c9]
 
 Regulation 3(6)
 
@@ -303,24 +303,24 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00001]: Footnote: [2007 c. 2](https://www.legislation.gov.uk/nia/2007/2)
 
-[^key-54dee2abe8b2ebdac965293be517e2a8]: Commencement: Reg. 1 in operation at 28.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/76/regulation/1/1)
+[^c-54dee2abe8b2ebdac965293be517e2a8]: Commencement: Reg. 1 in operation at 28.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/76/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
 
 [^f00003]: Footnote: [S.R. 2010 No. 347](https://www.legislation.gov.uk/nisr/2010/347)
 
-[^key-bfe5b59911f5194e7ed37e2c1bba81aa]: Commencement: Reg. 2 in operation at 28.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/76/regulation/1/1)
+[^c-bfe5b59911f5194e7ed37e2c1bba81aa]: Commencement: Reg. 2 in operation at 28.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/76/regulation/1/1)
 
 [^f00004]: Footnote: Regulation 4 of the Reassessment Regulations defines a notified person as a person to whom a notice is issued. A notice commences the conversion phase under the Reassessment Regulations for persons who are entitled to an existing award. An existing award is an award of incapacity benefit, severe disablement allowance or income support on the grounds of incapacity (*see* paragraph 11 of Schedule 4 to the Welfare Reform Act (Northern Ireland) 2007)
 
-[^key-29a39b2346975b21ba87805a4fffe4a8]: Commencement: Reg. 3 in operation at 28.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/76/regulation/1/1)
+[^c-29a39b2346975b21ba87805a4fffe4a8]: Commencement: Reg. 3 in operation at 28.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/76/regulation/1/1)
 
-[^key-f91c99aa0aa4e9c16286d9328ff7c626]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2011/76/regulation/3/3)[(4)](https://www.legislation.gov.uk/nisr/2011/76/regulation/3/4) revoked (28.1.2013) by [The Employment and Support Allowance (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/2)](https://www.legislation.gov.uk/nisr/2013/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/2/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2013/2/regulation/7) (with [reg. 2](https://www.legislation.gov.uk/nisr/2013/2/regulation/2))
+[^c-f91c99aa0aa4e9c16286d9328ff7c626]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2011/76/regulation/3/3)[(4)](https://www.legislation.gov.uk/nisr/2011/76/regulation/3/4) revoked (28.1.2013) by [The Employment and Support Allowance (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/2)](https://www.legislation.gov.uk/nisr/2013/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/2/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2013/2/regulation/7) (with [reg. 2](https://www.legislation.gov.uk/nisr/2013/2/regulation/2))
 
-[^key-17eea9e87e87012e7202c34625d6b8c0]: Commencement: Reg. 4 in operation at 28.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/76/regulation/1/1)
+[^c-17eea9e87e87012e7202c34625d6b8c0]: Commencement: Reg. 4 in operation at 28.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/76/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2008 No. 413](https://www.legislation.gov.uk/nisr/2008/413)
 
-[^key-ca0a29b2560959a0ae309ba1b601fc22]: Commencement: Sch. 1 in operation at 28.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/76/regulation/1/1)
+[^c-ca0a29b2560959a0ae309ba1b601fc22]: Commencement: Sch. 1 in operation at 28.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/76/regulation/1/1)
 
-[^key-3b9f9d1f75359a03efc1f35b3daa89c9]: Commencement: Sch. 2 in operation at 28.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/76/regulation/1/1)
+[^c-3b9f9d1f75359a03efc1f35b3daa89c9]: Commencement: Sch. 2 in operation at 28.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/76/regulation/1/1)

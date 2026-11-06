@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Venue[^key-59da8f141438106acfa631e0ca786c18]
+## 69. Venue[^c-59da8f141438106acfa631e0ca786c18]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59da8f141438106acfa631e0ca786c18]: Commencement: [Rule 69](https://www.legislation.gov.uk/uksi/2011/1301/rule/69) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-59da8f141438106acfa631e0ca786c18]: Commencement: [Rule 69](https://www.legislation.gov.uk/uksi/2011/1301/rule/69) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

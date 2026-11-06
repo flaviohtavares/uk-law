@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Auditors' report to be dated[^key-91669090df7722ba2de6a181e2617b19]
+## 7. Auditors' report to be dated[^c-91669090df7722ba2de6a181e2617b19]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ In section 236(1) of the 1985 Act (signature of auditors' report)[^f00006], afte
 
 ## Annotations
 
-[^key-91669090df7722ba2de6a181e2617b19]: Commencement: Reg. 7 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-91669090df7722ba2de6a181e2617b19]: Commencement: Reg. 7 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00006]: Footnote: Section 236 was substituted by section 9 of the Companies Act 1989.

@@ -42,11 +42,11 @@ Whereas it appears to the Department of Health and Social Services acting as the
 
 Now therefore the said Department concerned, in exercise of the powers conferred on it by Articles 12(1), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:—
 
-## 1. Citation, commencement and interpretation[^key-17ac35d973517ec5f4f149adabea6765]
+## 1. Citation, commencement and interpretation[^c-17ac35d973517ec5f4f149adabea6765]
 
 This Order may be cited as the Beef (Emergency Control) (Amendment) Order (Northern Ireland) 1996 and shall come into operation on 30th April 1996.
 
-## 2. Amendment of the Beef (Emergency Control) Order (Northern Ireland) 1996[^key-a5b11320af05738382af222ef2958308]
+## 2. Amendment of the Beef (Emergency Control) Order (Northern Ireland) 1996[^c-a5b11320af05738382af222ef2958308]
 
 The Beef (Emergency Control) Order (Northern Ireland) 1996[^f00002] shall be amended by—
 
@@ -94,8 +94,8 @@ The Beef (Emergency Control) Order (Northern Ireland) 1996 (as the principal Ord
 
 [^f00001]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762); *See* the definition of ‘the Department concerned’ in Article 2(2)
 
-[^key-17ac35d973517ec5f4f149adabea6765]: Commencement: Art. 1 in operation at 30.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/175/article/1)
+[^c-17ac35d973517ec5f4f149adabea6765]: Commencement: Art. 1 in operation at 30.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/175/article/1)
 
-[^key-a5b11320af05738382af222ef2958308]: Commencement: Art. 2 in operation at 30.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/175/article/1)
+[^c-a5b11320af05738382af222ef2958308]: Commencement: Art. 2 in operation at 30.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/175/article/1)
 
 [^f00002]: Footnote: [S.R. 1996 No. 132](https://www.legislation.gov.uk/nisr/1996/132)

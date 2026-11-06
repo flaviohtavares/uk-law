@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20C. Expiry of regulation 20B[^key-21da2e17b3630ffca4d8581d744ebe18]
+## 20C. Expiry of regulation 20B[^c-21da2e17b3630ffca4d8581d744ebe18]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21da2e17b3630ffca4d8581d744ebe18]: Textual amendment: [Reg. 20C](https://www.legislation.gov.uk/uksi/2010/2617/regulation/20C) omitted (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [6(1)(c)](https://www.legislation.gov.uk/uksi/2024/696/regulation/6/1/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-21da2e17b3630ffca4d8581d744ebe18]: Textual amendment: [Reg. 20C](https://www.legislation.gov.uk/uksi/2010/2617/regulation/20C) omitted (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [6(1)(c)](https://www.legislation.gov.uk/uksi/2024/696/regulation/6/1/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

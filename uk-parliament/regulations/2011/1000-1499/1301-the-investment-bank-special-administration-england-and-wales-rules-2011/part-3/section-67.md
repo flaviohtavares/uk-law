@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Notice to creditors and clients[^key-eda503ec7d0788ad3c14a14d4e4b889d]
+## 67. Notice to creditors and clients[^c-eda503ec7d0788ad3c14a14d4e4b889d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ As soon as reasonably practicable after the conclusion of a meeting of creditors
 
 ## Annotations
 
-[^key-eda503ec7d0788ad3c14a14d4e4b889d]: Commencement: [Rule 67](https://www.legislation.gov.uk/uksi/2011/1301/rule/67) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-eda503ec7d0788ad3c14a14d4e4b889d]: Commencement: [Rule 67](https://www.legislation.gov.uk/uksi/2011/1301/rule/67) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

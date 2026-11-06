@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — Proposals relating to sixth forms: implementation[^key-a988bd21ad0120cafa0dc8df8da02b31]
+## SCHEDULE 9 — Proposals relating to sixth forms: implementation[^c-a988bd21ad0120cafa0dc8df8da02b31]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Section 72
 
 ## Annotations
 
-[^key-a988bd21ad0120cafa0dc8df8da02b31]: Textual amendment: Sch. 9 omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 21(12)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/21/12); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-a988bd21ad0120cafa0dc8df8da02b31]: Textual amendment: Sch. 9 omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 21(12)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/21/12); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)

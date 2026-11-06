@@ -42,8 +42,8 @@ summary: ''
 (5) An alterations notice may include a requirement that, in addition to the notification required by paragraph (3), the responsible person must —
 
 - (a) take all reasonable steps to notify the terms of the notice to any other person who has duties under article 5(3) in respect of the premises;
-- (b)[^key-c2198deb8c95e241bdd13cfeac87351a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-052c04fe70948cc5da982d3973f0f41d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c2198deb8c95e241bdd13cfeac87351a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-052c04fe70948cc5da982d3973f0f41d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) before making the changes referred to in paragraph (3), send the enforcing authority the following —
   - (i) a copy of the risk assessment; and
   - (ii) a summary of the changes he proposes to make to the existing general fire precautions.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c2198deb8c95e241bdd13cfeac87351a]: Textual amendment: [Art. 29(5)(b)](https://www.legislation.gov.uk/uksi/2005/1541/article/29/5/b) omitted (1.10.2023) by virtue of [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(9)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/9), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)
+[^c-c2198deb8c95e241bdd13cfeac87351a]: Textual amendment: [Art. 29(5)(b)](https://www.legislation.gov.uk/uksi/2005/1541/article/29/5/b) omitted (1.10.2023) by virtue of [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(9)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/9), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)
 
-[^key-052c04fe70948cc5da982d3973f0f41d]: Textual amendment: [Art. 29(5)(c)](https://www.legislation.gov.uk/uksi/2005/1541/article/29/5/c) omitted (1.10.2023) by virtue of [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(9)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/9), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)
+[^c-052c04fe70948cc5da982d3973f0f41d]: Textual amendment: [Art. 29(5)(c)](https://www.legislation.gov.uk/uksi/2005/1541/article/29/5/c) omitted (1.10.2023) by virtue of [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(9)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/9), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)

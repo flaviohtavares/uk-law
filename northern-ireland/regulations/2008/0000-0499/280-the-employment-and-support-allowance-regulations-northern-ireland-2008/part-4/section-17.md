@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Course of study[^key-41aff9c2198210ac884bf2b6b9b3d604]
+## 17. Course of study[^c-41aff9c2198210ac884bf2b6b9b3d604]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41aff9c2198210ac884bf2b6b9b3d604]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2008/280/regulation/17) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-41aff9c2198210ac884bf2b6b9b3d604]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2008/280/regulation/17) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

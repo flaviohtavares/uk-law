@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Orders for forfeiture etc under other Acts[^key-619f7f7290d68eed6ad1bc92fe1a5365][^key-7cc58540eef4f72cecd390a390d056a2]
+## 160. Orders for forfeiture etc under other Acts[^c-619f7f7290d68eed6ad1bc92fe1a5365][^c-7cc58540eef4f72cecd390a390d056a2]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 | sections 7 and 11A of the Terrorism Act 2006 | forfeiture of certain things in offender's possession for purposes of offence under—<br>- (a) section 6 of that Act (training for terrorism), or<br>- (b) section 9 or 10 of that Act (misuse of or threats connected with radioactive device or material) |
 | sections 33, 35, 37, 38 and 40 of the Animal Welfare Act 2006 | deprivation and destruction of animals and equipment on conviction of certain offences under that Act |
 | section 23 of the Terrorism Act 2000 | forfeiture of money and property on conviction of certain offences under that Act (terrorist property offences) |
-| section 23A of the Terrorism Act 2000 | forfeiture of money and property on conviction of—<br>- (a) certain offences under that Act or the Terrorism Act 2006, or<br>- (b) offences [^key-59c223a01c2140ba751161fa9d6ce90d]... which have a terrorist connection |
+| section 23A of the Terrorism Act 2000 | forfeiture of money and property on conviction of—<br>- (a) certain offences under that Act or the Terrorism Act 2006, or<br>- (b) offences [^c-59c223a01c2140ba751161fa9d6ce90d]... which have a terrorist connection |
 | section 120A of the Terrorism Act 2000 | supplementary power to forfeit items on conviction of certain offences under that Act (weapons training and possessing things and collecting information for the purposes of terrorism) |
 | section 6 of the Knives Act 1997 | offences under sections 1 and 2 of that Act: forfeiture of knives and publications |
 | sections 4 and 4A(4) of the Dangerous Dogs Act 1991 | order for destruction of dog, or contingent destruction order, on conviction of certain offences under that Act |
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-619f7f7290d68eed6ad1bc92fe1a5365]: Commencement: S. 160 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-619f7f7290d68eed6ad1bc92fe1a5365]: Commencement: S. 160 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-7cc58540eef4f72cecd390a390d056a2]: Modification: S. 160: power to exclude conferred by 2006 c. 52, Sch. 6A para. 13 (as inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 12](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/12) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-7cc58540eef4f72cecd390a390d056a2]: Modification: S. 160: power to exclude conferred by 2006 c. 52, Sch. 6A para. 13 (as inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 12](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/12) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-59c223a01c2140ba751161fa9d6ce90d]: Textual amendment: Words in [s. 160(2)](https://www.legislation.gov.uk/ukpga/2020/17/section/160/2) omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 6(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/6/2)
+[^c-59c223a01c2140ba751161fa9d6ce90d]: Textual amendment: Words in [s. 160(2)](https://www.legislation.gov.uk/ukpga/2020/17/section/160/2) omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 6(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/6/2)

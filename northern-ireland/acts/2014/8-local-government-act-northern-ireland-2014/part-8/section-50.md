@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Supplemental provisions and offences[^key-f9466cc27cb060cfd9356ec8d05df347]
+## 50. Supplemental provisions and offences[^c-f9466cc27cb060cfd9356ec8d05df347]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ the publication thereby of any defamatory matter contained in the document is pr
 
 ## Annotations
 
-[^key-f9466cc27cb060cfd9356ec8d05df347]: Commencement: [S. 50](https://www.legislation.gov.uk/nia/2014/8/section/50) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-f9466cc27cb060cfd9356ec8d05df347]: Commencement: [S. 50](https://www.legislation.gov.uk/nia/2014/8/section/50) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

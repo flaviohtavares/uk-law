@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Interpretation of Part VIII[^key-b89c4c8e80f0517ea5fc7f93ead29e67]
+## 56. Interpretation of Part VIII[^c-b89c4c8e80f0517ea5fc7f93ead29e67]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-b89c4c8e80f0517ea5fc7f93ead29e67]: Commencement: Reg. 56 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-b89c4c8e80f0517ea5fc7f93ead29e67]: Commencement: Reg. 56 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

@@ -44,7 +44,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2) and (3)
 
-[^key-7a04ebf61fe0464dacd045a5b2ecd7c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a04ebf61fe0464dacd045a5b2ecd7c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -100,82 +100,82 @@ Coming into force in accordance with regulation 1(2) and (3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a04ebf61fe0464dacd045a5b2ecd7c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a04ebf61fe0464dacd045a5b2ecd7c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-7a04ebf61fe0464dacd045a5b2ecd7c0]
+## SCHEDULE[^c-7a04ebf61fe0464dacd045a5b2ecd7c0]
 
 Regulation 10
 
-> **SCHEDULE 2[^key-7a04ebf61fe0464dacd045a5b2ecd7c0]**
+> **SCHEDULE 2[^c-7a04ebf61fe0464dacd045a5b2ecd7c0]**
 >
-> **PART 1[^key-7a04ebf61fe0464dacd045a5b2ecd7c0]**
+> **PART 1[^c-7a04ebf61fe0464dacd045a5b2ecd7c0]**
 >
 > Regulation 35(2)(e)
 >
-> [^key-7a04ebf61fe0464dacd045a5b2ecd7c0]
+> [^c-7a04ebf61fe0464dacd045a5b2ecd7c0]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **1.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2[^key-7a04ebf61fe0464dacd045a5b2ecd7c0]**
+> **PART 2[^c-7a04ebf61fe0464dacd045a5b2ecd7c0]**
 >
 > Regulation 35(2)(f)
 >
-> [^key-7a04ebf61fe0464dacd045a5b2ecd7c0]
+> [^c-7a04ebf61fe0464dacd045a5b2ecd7c0]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **1.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **SCHEDULE 3[^key-7a04ebf61fe0464dacd045a5b2ecd7c0]**
+> **SCHEDULE 3[^c-7a04ebf61fe0464dacd045a5b2ecd7c0]**
 >
 > Regulation 37
 >
-> **PART 1 — ENERGY PERFORMANCE CERTIFICATES[^key-7a04ebf61fe0464dacd045a5b2ecd7c0]**
+> **PART 1 — ENERGY PERFORMANCE CERTIFICATES[^c-7a04ebf61fe0464dacd045a5b2ecd7c0]**
 >
-> **1.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2 — DISPLAY ENERGY CERTIFICATES[^key-7a04ebf61fe0464dacd045a5b2ecd7c0]**
+> **PART 2 — DISPLAY ENERGY CERTIFICATES[^c-7a04ebf61fe0464dacd045a5b2ecd7c0]**
 >
-> **3.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 3 — AIR-CONDITIONING INSPECTION REPORTS[^key-7a04ebf61fe0464dacd045a5b2ecd7c0]**
+> **PART 3 — AIR-CONDITIONING INSPECTION REPORTS[^c-7a04ebf61fe0464dacd045a5b2ecd7c0]**
 >
-> **4.**[^key-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-7a04ebf61fe0464dacd045a5b2ecd7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7a04ebf61fe0464dacd045a5b2ecd7c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a04ebf61fe0464dacd045a5b2ecd7c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a04ebf61fe0464dacd045a5b2ecd7c0]: Textual amendment: Regulations revoked (9.1.2013) by [The Energy Performance of Buildings (England and Wales) Regulations 2012 (S.I. 2012/3118)](https://www.legislation.gov.uk/uksi/2012/3118), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/1/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3118/schedule/3) (with [reg. 44](https://www.legislation.gov.uk/uksi/2012/3118/regulation/44))
+[^c-7a04ebf61fe0464dacd045a5b2ecd7c0]: Textual amendment: Regulations revoked (9.1.2013) by [The Energy Performance of Buildings (England and Wales) Regulations 2012 (S.I. 2012/3118)](https://www.legislation.gov.uk/uksi/2012/3118), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/1/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3118/schedule/3) (with [reg. 44](https://www.legislation.gov.uk/uksi/2012/3118/regulation/44))

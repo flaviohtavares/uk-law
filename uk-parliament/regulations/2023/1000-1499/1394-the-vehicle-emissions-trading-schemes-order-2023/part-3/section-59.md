@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Accounting for activity in the VRTS[^key-532cf5d8072d90af1ed9329efbae95c3]
+## 59. Accounting for activity in the VRTS[^c-532cf5d8072d90af1ed9329efbae95c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-532cf5d8072d90af1ed9329efbae95c3]: Commencement: Art. 59 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-532cf5d8072d90af1ed9329efbae95c3]: Commencement: Art. 59 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

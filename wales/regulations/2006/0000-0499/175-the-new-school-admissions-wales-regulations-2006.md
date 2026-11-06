@@ -41,7 +41,7 @@ Coming into force
 
 In exercise of the powers conferred on the Secretary of State by sections 72 and 138(7) of the School Standards and Framework Act 1998[^f00001] now vested in the National Assembly for Wales[^f00002], the National Assembly for Wales makes the following Regulations:
 
-## 1. Title, commencement and application[^key-8e3777ec65ff0900ede0797a9a1050ee]
+## 1. Title, commencement and application[^c-8e3777ec65ff0900ede0797a9a1050ee]
 
 (1) The title of these Regulations is The New School (Admissions) (Wales) Regulations 2006 and they come into force on 1 February 2006.
 
@@ -49,13 +49,13 @@ In exercise of the powers conferred on the Secretary of State by sections 72 and
 
 (3) Regulations 5, 6 and 7 do not apply in relation to a new school where the admission authority for such a school, established in connection with proposals involving the discontinuance of another school maintained by a local education authority, determine that the initial admission arrangements are to be the same as those of the discontinued school.
 
-## 2. Revocation and transitional provision[^key-2e4fd707e0094ac3399f09e6060bb433]
+## 2. Revocation and transitional provision[^c-2e4fd707e0094ac3399f09e6060bb433]
 
 (1) Subject to paragraph (2), the New School (Admissions) (Wales) Regulations 1999[^f00003] are revoked.
 
 (2) The New School (Admissions) (Wales) Regulations 1999 are to continue to have effect in relation to any school established in accordance with proposals published under section 28 of the 1998 Act the opening date for which is before the school year 2007-8 and nothing in these Regulations applies in relation to such a school.
 
-## 3. Interpretation[^key-5a724a5ed8c37aa4ccef7524b46dfa0a]
+## 3. Interpretation[^c-5a724a5ed8c37aa4ccef7524b46dfa0a]
 
 In these Regulations—
 
@@ -71,7 +71,7 @@ In these Regulations—
 - “the school opening date” (“*dyddiad agor yr ysgol*”) in relation to a new school, means the date when the school first admits pupils;
 - “temporary governing body” (“*corff llywodraethu dros dro*”) means a temporary governing body constituted under section 34 of the Education Act 2002[^f00005].
 
-## 4. Responsibility for initial admission arrangements[^key-ec140ad9df2cf364ce05be535b27d557]
+## 4. Responsibility for initial admission arrangements[^c-ec140ad9df2cf364ce05be535b27d557]
 
 (1) The initial admission arrangements for a new school which is to be a community or voluntary controlled school are to be made by—
 
@@ -88,7 +88,7 @@ In these Regulations—
   - (i) the temporary governing body have not yet been constituted, and
   - (ii) that authority considers it expedient for the admission arrangements to be determined without delay.
 
-## 5. Procedure for determining admission arrangements[^key-d62bff79877d80171eac6ceccc6bd3b7]
+## 5. Procedure for determining admission arrangements[^c-d62bff79877d80171eac6ceccc6bd3b7]
 
 (1) The admission authority for a new school must determine the initial admission arrangements for the initial year and the following school year not less than six months before the school opening date.
 
@@ -114,7 +114,7 @@ In these Regulations—
 - (a) determine that their proposed arrangements (either in their original form or with such modifications as the authority think fit) are the initial admission arrangements; and
 - (b) within 14 days of that determination notify the persons whom they were required to consult under paragraph (2) of those arrangements.
 
-## 6. Determination of admission number[^key-01cedd5561fd4f119b490dbb57bee8a2]
+## 6. Determination of admission number[^c-01cedd5561fd4f119b490dbb57bee8a2]
 
 (1) Subject to paragraph (3), a determination under regulation 5(1) by the admission authority of the initial admission arrangements must include an admission number determined for each relevant age group in accordance with paragraph (2).
 
@@ -131,7 +131,7 @@ In these Regulations—
 - (b) an admission number determined in accordance with sub-paragraph (a) is deemed to be a provisional admission number pending approval of the admission number stated in the proposals or (as the case may be) modification of that admission number as described in paragraph(2)(a) and (b); and
 - (c) (except where the context otherwise requires) any reference in these Regulations to an admission number is to have effect as if it were a reference to a provisional admission number.
 
-## 7. References of objections to the National Assembly[^key-29720aa3d70680c4ae68ce7cd1a0a761]
+## 7. References of objections to the National Assembly[^c-29720aa3d70680c4ae68ce7cd1a0a761]
 
 (1) Where initial admission arrangements have been determined by an admission authority under regulation 5(6)(a) an objection to those arrangements may be referred to the National Assembly by any person whom the admission authority were required to consult under regulation 5(2) providing that—
 
@@ -153,7 +153,7 @@ In these Regulations—
 
 (7) The decision of the National Assembly, in relation to the initial admission arrangements in question, is binding on the admission authority and those persons who can make an objection about those arrangements under paragraph (1). If the objection is upheld to any extent, the admission authority must revise those arrangements forthwith to give effect to that decision.
 
-## 8. Variation of initial admission arrangements[^key-bf1404bc8dc14bdb311dde5969d5a0e1]
+## 8. Variation of initial admission arrangements[^c-bf1404bc8dc14bdb311dde5969d5a0e1]
 
 (1) This regulation applies where—
 
@@ -176,7 +176,7 @@ but at any time during the initial year or the following school year consider th
 - (a) the arrangements are to have effect accordingly as from the date of its determination; and
 - (b) the admission authority must notify the persons whom they were required to consult under regulation 5(2) of the variation subject to which the arrangements are to have effect.
 
-## 9. Application of enactments[^key-84cad821018db58fcce12161b284f578]
+## 9. Application of enactments[^c-84cad821018db58fcce12161b284f578]
 
 The enactments mentioned in the Schedule to these Regulations apply to new schools, subject to the modifications prescribed in that Schedule.
 
@@ -192,16 +192,16 @@ The Presiding Officer of the National Assembly
 
 Regulation 9
 
-**1.**[^key-b5d19f32a96623057ee0c0a70230773a] The following provisions of the Education Acts, namely—
+**1.**[^c-b5d19f32a96623057ee0c0a70230773a] The following provisions of the Education Acts, namely—
 
 - (a) sections 324(5)(b), 324(5A) and 439 of the Education Act 1996;
 - (b) sections 1, 84, 85A, 86, 87, 89B, 89C, 92, 94, 95 to 99, 101, 102 and 103(3) of the 1998 Act;
-- (ba)[^key-4866c654dd8030786799e81579e19cb0] section 48(1) to (5) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018;
+- (ba)[^c-4866c654dd8030786799e81579e19cb0] section 48(1) to (5) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018;
 - (c) any Regulations made under any of the provisions referred to in sub-paragraphs (a) and (b) above,
 
 apply in relation to a new school but subject to the exceptions and modifications specified in paragraphs 2 to 8 below.
 
-**2.**[^key-a3ef5193e1d27280ff7ee32a9c2def1d] A reference in any of the provisions specified in paragraph 1 to a school of one of the following categories, namely—
+**2.**[^c-a3ef5193e1d27280ff7ee32a9c2def1d] A reference in any of the provisions specified in paragraph 1 to a school of one of the following categories, namely—
 
 - (a) a maintained school;
 - (b) a school maintained by a local education authority;
@@ -209,17 +209,17 @@ apply in relation to a new school but subject to the exceptions and modification
 
 are to be construed as a reference to a new school which will become a school of that category when it first admits pupils.
 
-**3.**[^key-606b94a0476902b7986c969bcfcca452] A reference in any of those provisions to a governing body of a school is to have effect as if it were a reference to a temporary governing body or (where the context admits) to any other person responsible for the admission of pupils under the initial admission arrangements.
+**3.**[^c-606b94a0476902b7986c969bcfcca452] A reference in any of those provisions to a governing body of a school is to have effect as if it were a reference to a temporary governing body or (where the context admits) to any other person responsible for the admission of pupils under the initial admission arrangements.
 
-**4.**[^key-f50b3f886392cdac40d57dffbba0e586] A reference in any of those provisions to admission arrangements is to be construed as a reference to initial admission arrangements as defined in regulation 3.
+**4.**[^c-f50b3f886392cdac40d57dffbba0e586] A reference in any of those provisions to admission arrangements is to be construed as a reference to initial admission arrangements as defined in regulation 3.
 
-**5.**[^key-2600898932d7c06b80998425e09e02c9] A reference in any of those provisions to an admission authority is to have effect as if it were a reference to an admission authority as defined in regulation 3.
+**5.**[^c-2600898932d7c06b80998425e09e02c9] A reference in any of those provisions to an admission authority is to have effect as if it were a reference to an admission authority as defined in regulation 3.
 
-**6.**[^key-08a30f8faf23d4fe7f41df75fffb88c4] Section 101(1) of the 1998 Act is to have effect as if in sub-paragraph (a) for the words “any year” there is to be substituted “the year in which pupils are first to be admitted to a new school”.
+**6.**[^c-08a30f8faf23d4fe7f41df75fffb88c4] Section 101(1) of the 1998 Act is to have effect as if in sub-paragraph (a) for the words “any year” there is to be substituted “the year in which pupils are first to be admitted to a new school”.
 
-**7.**[^key-7a4191f0a6091c653c3157abc1755554] Section 103(3) of the 1998 Act is to have effect as if the words “(whether authorised by section 100 or section 101)” were omitted.
+**7.**[^c-7a4191f0a6091c653c3157abc1755554] Section 103(3) of the 1998 Act is to have effect as if the words “(whether authorised by section 100 or section 101)” were omitted.
 
-**8.**[^key-318b1127354264af794d1e4451b4a677] Part 4 of the Education (School Information) (Wales) Regulations 1999[^f00009] is not to apply in relation to any new school, the school opening date for which is between 15 April and 1 August in any year.
+**8.**[^c-318b1127354264af794d1e4451b4a677] Part 4 of the Education (School Information) (Wales) Regulations 1999[^f00009] is not to apply in relation to any new school, the school opening date for which is between 15 April and 1 August in any year.
 
 (This note is not part of the Regulations)
 
@@ -243,52 +243,52 @@ Regulation 9 and the Schedule provide for certain provisions of the Education Ac
 
 [^f00002]: Footnote: *See* the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-8e3777ec65ff0900ede0797a9a1050ee]: Commencement: Reg. 1 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-8e3777ec65ff0900ede0797a9a1050ee]: Commencement: Reg. 1 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
-[^key-2e4fd707e0094ac3399f09e6060bb433]: Commencement: Reg. 2 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-2e4fd707e0094ac3399f09e6060bb433]: Commencement: Reg. 2 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1999/2800 (W. 14)](https://www.legislation.gov.uk/wsi/1999/2800).
 
-[^key-5a724a5ed8c37aa4ccef7524b46dfa0a]: Commencement: Reg. 3 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-5a724a5ed8c37aa4ccef7524b46dfa0a]: Commencement: Reg. 3 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
 [^f00004]: Footnote: [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21).
 
 [^f00005]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-ec140ad9df2cf364ce05be535b27d557]: Commencement: Reg. 4 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-ec140ad9df2cf364ce05be535b27d557]: Commencement: Reg. 4 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
-[^key-d62bff79877d80171eac6ceccc6bd3b7]: Commencement: Reg. 5 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-d62bff79877d80171eac6ceccc6bd3b7]: Commencement: Reg. 5 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
 [^f00006]: Footnote: S.I. [1999/124](https://www.legislation.gov.uk/uksi/1999/124).
 
-[^key-01cedd5561fd4f119b490dbb57bee8a2]: Commencement: Reg. 6 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-01cedd5561fd4f119b490dbb57bee8a2]: Commencement: Reg. 6 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
-[^key-29720aa3d70680c4ae68ce7cd1a0a761]: Commencement: Reg. 7 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-29720aa3d70680c4ae68ce7cd1a0a761]: Commencement: Reg. 7 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
 [^f00007]: Footnote: S.I. [2006/176 (W.27)](https://www.legislation.gov.uk/wsi/2006/176).
 
-[^key-bf1404bc8dc14bdb311dde5969d5a0e1]: Commencement: Reg. 8 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-bf1404bc8dc14bdb311dde5969d5a0e1]: Commencement: Reg. 8 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
-[^key-84cad821018db58fcce12161b284f578]: Commencement: Reg. 9 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-84cad821018db58fcce12161b284f578]: Commencement: Reg. 9 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
 [^f00008]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-b5d19f32a96623057ee0c0a70230773a]: Commencement: Sch. para. 1 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-b5d19f32a96623057ee0c0a70230773a]: Commencement: Sch. para. 1 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
-[^key-4866c654dd8030786799e81579e19cb0]: Textual amendment: [Sch. para. 1(ba)](https://www.legislation.gov.uk/wsi/2006/175/schedule/paragraph/1/ba) inserted (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021 (S.I. 2021/933)](https://www.legislation.gov.uk/wsi/2021/933), [regs. 1](https://www.legislation.gov.uk/wsi/2021/933/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2021/933/regulation/2/2)
+[^c-4866c654dd8030786799e81579e19cb0]: Textual amendment: [Sch. para. 1(ba)](https://www.legislation.gov.uk/wsi/2006/175/schedule/paragraph/1/ba) inserted (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021 (S.I. 2021/933)](https://www.legislation.gov.uk/wsi/2021/933), [regs. 1](https://www.legislation.gov.uk/wsi/2021/933/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2021/933/regulation/2/2)
 
-[^key-a3ef5193e1d27280ff7ee32a9c2def1d]: Commencement: Sch. para. 2 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-a3ef5193e1d27280ff7ee32a9c2def1d]: Commencement: Sch. para. 2 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
-[^key-606b94a0476902b7986c969bcfcca452]: Commencement: Sch. para. 3 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-606b94a0476902b7986c969bcfcca452]: Commencement: Sch. para. 3 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
-[^key-f50b3f886392cdac40d57dffbba0e586]: Commencement: Sch. para. 4 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-f50b3f886392cdac40d57dffbba0e586]: Commencement: Sch. para. 4 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
-[^key-2600898932d7c06b80998425e09e02c9]: Commencement: Sch. para. 5 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-2600898932d7c06b80998425e09e02c9]: Commencement: Sch. para. 5 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
-[^key-08a30f8faf23d4fe7f41df75fffb88c4]: Commencement: Sch. para. 6 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-08a30f8faf23d4fe7f41df75fffb88c4]: Commencement: Sch. para. 6 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
-[^key-7a4191f0a6091c653c3157abc1755554]: Commencement: Sch. para. 7 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-7a4191f0a6091c653c3157abc1755554]: Commencement: Sch. para. 7 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
-[^key-318b1127354264af794d1e4451b4a677]: Commencement: Sch. para. 8 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
+[^c-318b1127354264af794d1e4451b4a677]: Commencement: Sch. para. 8 in force at 1.2.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/175/regulation/1/1)
 
 [^f00009]: Footnote: S.I. [1999/1812](https://www.legislation.gov.uk/uksi/1999/1812) as amended by S.I. [2001/1111 (W.55)](https://www.legislation.gov.uk/wsi/2001/1111), S.I. [2001/3710 (W.306)](https://www.legislation.gov.uk/wsi/2001/3710), S.I. [2002/1400 (W.139)](https://www.legislation.gov.uk/wsi/2002/1400), S.I [2004/1736 (W.179)](https://www.legislation.gov.uk/wsi/2004/1736).

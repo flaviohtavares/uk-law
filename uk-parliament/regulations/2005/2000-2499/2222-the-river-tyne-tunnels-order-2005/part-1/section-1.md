@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-b9ac7165a58809bd66f1aada658cb75c]
+## 1. Citation and commencement[^c-b9ac7165a58809bd66f1aada658cb75c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the River Tyne (Tunnels) Order 2005 and shall come in
 
 ## Annotations
 
-[^key-b9ac7165a58809bd66f1aada658cb75c]: Commencement: Art. 1 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-b9ac7165a58809bd66f1aada658cb75c]: Commencement: Art. 1 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

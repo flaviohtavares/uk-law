@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Statutory undertakers[^key-1557e570f992f71ab42a4ebb01431ab0]
+## 31. Statutory undertakers[^c-1557e570f992f71ab42a4ebb01431ab0]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Subject to the provisions of Schedule 9 (protective provisions), the undertaker 
 
 ## Annotations
 
-[^key-1557e570f992f71ab42a4ebb01431ab0]: Commencement: Art. 31 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-1557e570f992f71ab42a4ebb01431ab0]: Commencement: Art. 31 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

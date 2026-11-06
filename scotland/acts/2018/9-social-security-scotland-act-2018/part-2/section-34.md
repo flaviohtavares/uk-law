@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Funeral expense assistance[^key-f799b837ef5681ed0d1aba97d2eab5f6]
+## 34. Funeral expense assistance[^c-f799b837ef5681ed0d1aba97d2eab5f6]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f799b837ef5681ed0d1aba97d2eab5f6]: Commencement: S. 34 in force at 11.9.2019 by [S.S.I. 2019/269](https://www.legislation.gov.uk/ssi/2019/269), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2019/269/regulation/2/a)
+[^c-f799b837ef5681ed0d1aba97d2eab5f6]: Commencement: S. 34 in force at 11.9.2019 by [S.S.I. 2019/269](https://www.legislation.gov.uk/ssi/2019/269), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2019/269/regulation/2/a)

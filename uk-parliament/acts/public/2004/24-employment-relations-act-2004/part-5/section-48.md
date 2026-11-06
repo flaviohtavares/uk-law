@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Striking out by Certification Officer of applications or complaints[^key-be2348f600366bc371c17e3d3ee3df8d]
+## 48. Striking out by Certification Officer of applications or complaints[^c-be2348f600366bc371c17e3d3ee3df8d]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ After section 256 of the 1992 Act, insert—
 
 ## Annotations
 
-[^key-be2348f600366bc371c17e3d3ee3df8d]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2004/24/section/48) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 16](https://www.legislation.gov.uk/uksi/2005/872/article/16))
+[^c-be2348f600366bc371c17e3d3ee3df8d]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2004/24/section/48) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 16](https://www.legislation.gov.uk/uksi/2005/872/article/16))

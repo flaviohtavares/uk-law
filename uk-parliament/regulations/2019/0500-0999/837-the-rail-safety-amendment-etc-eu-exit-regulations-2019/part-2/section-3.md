@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendments to the Railways and Other Guided Transport Systems (Safety) Regulations 2006[^key-01e6a7d9c3fe88287293d33bdd3d3a01]
+## 3. Amendments to the Railways and Other Guided Transport Systems (Safety) Regulations 2006[^c-01e6a7d9c3fe88287293d33bdd3d3a01]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) before the definition of “building operation”, insert—
 
-  > “2011 EU ECM Regulation” means[^key-197037ad44293756cb84af555414155b] [Commission Regulation (EU) No 445/2011](https://www.legislation.gov.uk/eur/2011/0445) on a system of certification of entities in charge of maintenance for freight wagons and amending Regulation [(EC) No 653/2007](https://www.legislation.gov.uk/eur/2007/0653) as it had effect or as it has effect in EU law, as the context dictates;
+  > “2011 EU ECM Regulation” means[^c-197037ad44293756cb84af555414155b] [Commission Regulation (EU) No 445/2011](https://www.legislation.gov.uk/eur/2011/0445) on a system of certification of entities in charge of maintenance for freight wagons and amending Regulation [(EC) No 653/2007](https://www.legislation.gov.uk/eur/2007/0653) as it had effect or as it has effect in EU law, as the context dictates;
   >
   > “2019 EU ECM Regulation”, save in the expression “retained 2019 EU ECM Regulation”, means Commission Implementing Regulation (EU) 2019/779 laying down detailed provisions on a system of certification of entities in charge of maintenance of vehicles pursuant to [Directive (EU) 2016/798](https://www.legislation.gov.uk/eudr/2016/0798) of the European Parliament and of the Council and repealing [Commission Regulation (EU) No 445/2011](https://www.legislation.gov.uk/eur/2011/0445) as it had effect or as it has effect in EU law, as the context dictates;
   >
@@ -40,7 +40,7 @@ summary: ''
   >
   > - (a) Commission Regulation (EU) No 1158/2010 on a common safety method for assessing conformity with the requirements for obtaining railway safety certificates;
   > - (b) Commission Regulation (EU) No 1169/2010 on a common safety method for assessing conformity with the requirements for obtaining a railway safety authorisation;
-  > - (c)[^key-41cf8b61de9e8872f2c46516057460ec] Commission Delegated Regulation (EU) 2018/761 establishing common safety methods for supervision by national safety authorities after the issue of a single safety certificate or a safety authorisation;
+  > - (c)[^c-41cf8b61de9e8872f2c46516057460ec] Commission Delegated Regulation (EU) 2018/761 establishing common safety methods for supervision by national safety authorities after the issue of a single safety certificate or a safety authorisation;
   > - (d) Commission Regulation (EU) No 1078/2012 on a common safety method for monitoring to be applied by railway undertakings, infrastructure managers after receiving a safety certificate or safety authorisation and by entities in charge of maintenance; and
   > - (e) Commission Implementing Regulation (EU) No 402/2012 on a common safety method for risk evaluation and assessment,
   >
@@ -52,7 +52,7 @@ summary: ''
   > “**common safety targets**” (“**CSTs**”) means the minimum safety levels that must be reached by the mainline railway system, or parts of the mainline railway system, expressed in risk categories as defined in paragraph 2 of Schedule 11;
 
   ;
-- (dd)[^key-b0aa49eb52f30ae9c31cd4d9e3c334ad] after the definition of “competent person”, insert—
+- (dd)[^c-b0aa49eb52f30ae9c31cd4d9e3c334ad] after the definition of “competent person”, insert—
 
   > - “cross-border service” means a service for the carriage of passengers or goods by way of the tunnel system;
   > - “cross-border UK-issued ECM certificate” means a certificate issued in the United Kingdom to an entity in charge of maintenance by an accredited or recognised body or by a safety authority in accordance with the retained 2019 EU ECM Regulation;
@@ -60,11 +60,11 @@ summary: ''
   ;
 - (e) for the definition of “ECM certificate”, substitute—
 
-  > “**EU ECM certificate**” means a certificate issued to an entity in charge of maintenance in accordance with the 2011 EU ECM Regulation or the 2019 EU ECM Regulation as may be applicable[^key-658c2e8800e5a74782e9f8e06bbb19f8];
+  > “**EU ECM certificate**” means a certificate issued to an entity in charge of maintenance in accordance with the 2011 EU ECM Regulation or the 2019 EU ECM Regulation as may be applicable[^c-658c2e8800e5a74782e9f8e06bbb19f8];
 
   ;
 - (f) omit the definition of “ECM Regulation”;
-- (g)[^key-0720b2d18075de4a33e5dc70b3525b94] after the definition of “responsible person”, insert—
+- (g)[^c-0720b2d18075de4a33e5dc70b3525b94] after the definition of “responsible person”, insert—
 
   > - “retained 2019 EU ECM Regulation” means [Commission Implementing Regulation (EU) 2019/779](https://www.legislation.gov.uk/eur/2019/0779) laying down detailed provisions on a system of certification of entities in charge of maintenance of vehicles pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing [Commission Regulation (EU) No 445/2011](https://www.legislation.gov.uk/eur/2011/0445), as it has effect in the UK after IP completion day;
 
@@ -83,15 +83,15 @@ summary: ''
 
   ;
 - (j) in the definition of “subsystem”, for “Directive”, substitute “ Regulations ”;
-- (ja)[^key-ea716b3bb432e756a62cd3ef430365dc] omit the definition of “technical specifications for interoperability;
+- (ja)[^c-ea716b3bb432e756a62cd3ef430365dc] omit the definition of “technical specifications for interoperability;
 - (k) after the definition of “trolley vehicle system” insert—
 
   > “**tunnel system**” has the same meaning as in section 1(7) of the Channel Tunnel Act 1987;
   >
-  > “UK-issued ECM certificate”, save in the expression “cross-border UK-issued ECM certificate”, means a certificate issued in the United Kingdom to an entity in charge of maintenance by an accredited or recognised body or by a safety authority in accordance with Schedule 10;[^key-02a376c9cd04edffd83282df610d0af1]
+  > “UK-issued ECM certificate”, save in the expression “cross-border UK-issued ECM certificate”, means a certificate issued in the United Kingdom to an entity in charge of maintenance by an accredited or recognised body or by a safety authority in accordance with Schedule 10;[^c-02a376c9cd04edffd83282df610d0af1]
 
   ;
-- (l)[^key-d473c307a13c0efa3ec00f49ab50690d] for paragraph 3 substitute—
+- (l)[^c-d473c307a13c0efa3ec00f49ab50690d] for paragraph 3 substitute—
 
   > (3) Parts 2 and 3 of these Regulations shall not apply to or in relation to the operation of a train or the management or use of infrastructure in the tunnel system, save for—
   >
@@ -100,7 +100,7 @@ summary: ''
 
   .
 
-(2A)[^key-3a1acb1a2c857b6d435414e905623d02] In regulation 7 (safety certificate)—
+(2A)[^c-3a1acb1a2c857b6d435414e905623d02] In regulation 7 (safety certificate)—
 
 - (i) in paragraph (2), at the beginning, insert “ Subject to paragraph 2A, ”
 - (ii) after paragraph (2), insert—
@@ -124,11 +124,11 @@ summary: ''
   > (6) Where—
   >
   > - (a) the Office of Rail and Road revokes Part B of a safety certificate; and
-  > - (b) Part A of that safety certificate is deemed to be Part A of a safety certificate pursuant to regulation 7(2) and was issued by an authority carrying out railway safety functions in a member State or the European Union Agency for Railways[^key-4659934c7e5d9d387826332df44ac3ee],
+  > - (b) Part A of that safety certificate is deemed to be Part A of a safety certificate pursuant to regulation 7(2) and was issued by an authority carrying out railway safety functions in a member State or the European Union Agency for Railways[^c-4659934c7e5d9d387826332df44ac3ee],
   >
-  > the Office of Rail and Road must notify that authority or the European Union Agency for Railways[^key-1385ee5d906d9e09b33e98528dcca189].
+  > the Office of Rail and Road must notify that authority or the European Union Agency for Railways[^c-1385ee5d906d9e09b33e98528dcca189].
   >
-  > (7) For the purposes of paragraph (6), “**authority carrying out railway safety functions**” means an authority established in a member State in accordance with article 16.1 of the Directive or Article 16.1 of the Recast Safety Directive[^key-78800817fe2f770028bdee8cf133bf79].
+  > (7) For the purposes of paragraph (6), “**authority carrying out railway safety functions**” means an authority established in a member State in accordance with article 16.1 of the Directive or Article 16.1 of the Recast Safety Directive[^c-78800817fe2f770028bdee8cf133bf79].
 
   .
 
@@ -141,7 +141,7 @@ summary: ''
   > - (b) where the vehicle is a freight wagon, holds either an EU ECM certificate valid on the terms of its original issue or a UK-issued ECM certificate.
 
   ;
-- (aa)[^key-a139104e95edadd87c4338588e25e55a] after paragraph (1), insert—
+- (aa)[^c-a139104e95edadd87c4338588e25e55a] after paragraph (1), insert—
 
   > (1A) No person may use a vehicle to operate a cross-border service unless that vehicle has an entity in charge of maintenance assigned to it, and that entity in charge of maintenance—
   >
@@ -181,8 +181,8 @@ summary: ''
 
 (10) In regulation 27 (appeals)—
 
-- (a)[^key-8d2b44322f55357583e1bc897540b2b2] in paragraph (1)(a), for “an ECM certificate”, substitute “an EU ECM certificate, a cross-border UK-issued ECM certificate or a UK-issued ECM certificate”;
-- (b)[^key-157b1d69f31e3e8fe5342705ddf29ef6] for sub-paragraph (b) substitute—
+- (a)[^c-8d2b44322f55357583e1bc897540b2b2] in paragraph (1)(a), for “an ECM certificate”, substitute “an EU ECM certificate, a cross-border UK-issued ECM certificate or a UK-issued ECM certificate”;
+- (b)[^c-157b1d69f31e3e8fe5342705ddf29ef6] for sub-paragraph (b) substitute—
 
   > - (b) for paragraph (1)(d) substitute—
   >
@@ -195,13 +195,13 @@ summary: ''
   ;
 - (c) after paragraph (1)(d), insert—
 
-  > - (dd) decision of the Office of Rail and Road taken pursuant to paragraph 7(3), (4) or (7) of Schedule 10 concerning his UK-issued ECM certificate; [^key-5acf1a9460eed898d914b9e64bb091ab]...
-  > - (de)[^key-a6696be7ba6a5df90e4055eddbb05a59] decision of the Office of Rail and Road, concerning his cross-border UK-issued ECM certificate, taken pursuant to Article 7(5) or (8) or 8(2) of the retained 2019 EU ECM Regulation; or
+  > - (dd) decision of the Office of Rail and Road taken pursuant to paragraph 7(3), (4) or (7) of Schedule 10 concerning his UK-issued ECM certificate; [^c-5acf1a9460eed898d914b9e64bb091ab]...
+  > - (de)[^c-a6696be7ba6a5df90e4055eddbb05a59] decision of the Office of Rail and Road, concerning his cross-border UK-issued ECM certificate, taken pursuant to Article 7(5) or (8) or 8(2) of the retained 2019 EU ECM Regulation; or
 
   ;
 - (d) for paragraph (1A), substitute—
 
-  > (1A)[^key-adf38f72aa6c73587fe4d4b33dc6b344] A person who is aggrieved by—
+  > (1A)[^c-adf38f72aa6c73587fe4d4b33dc6b344] A person who is aggrieved by—
   >
   > - (a) a decision taken either—
   >   - (i) to refuse an application for an EU ECM certificate or taken pursuant to Article 7(4) or (7) of the 2011 ECM Regulation by a certification body accredited or recognised in Great Britain for the purposes of the 2011 EU ECM Regulation; or
@@ -222,7 +222,7 @@ summary: ''
 
 > - (i) a copy of a current certificate issued to the applicant by—
 >   - (aa) the Office of Rail and Road;
->   - (bb)[^key-921e660aca011f76e2687b3eeb4b0d8f] the European Union Agency for Railways or a safety authority in a member State before the end of the second anniversary of exit day, under provisions giving effect to Article 10(2)(a) of the Directive or Article 10 of the Recast Safety Directive;
+>   - (bb)[^c-921e660aca011f76e2687b3eeb4b0d8f] the European Union Agency for Railways or a safety authority in a member State before the end of the second anniversary of exit day, under provisions giving effect to Article 10(2)(a) of the Directive or Article 10 of the Recast Safety Directive;
 >   - (cc) the safety authority in Northern Ireland; or
 >   - (dd) the safety authority for the tunnel system,
 >
@@ -234,19 +234,19 @@ summary: ''
 
 ## Annotations
 
-[^key-01e6a7d9c3fe88287293d33bdd3d3a01]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-01e6a7d9c3fe88287293d33bdd3d3a01]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23831561]: Marginal citation: [S.I. 2006/599](https://www.legislation.gov.uk/uksi/2006/599); relevant amending instruments are [S.I. 2007/950](https://www.legislation.gov.uk/uksi/2007/950), 2011/1043, 2011/1860, 2011/3066, 2013/950, 2015/1682 and 2015/1917.
 
-[^key-197037ad44293756cb84af555414155b]: Textual amendment: Words in reg. 3(2)(a) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/2/a)
+[^c-197037ad44293756cb84af555414155b]: Textual amendment: Words in reg. 3(2)(a) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/2/a)
 
-[^key-41cf8b61de9e8872f2c46516057460ec]: Textual amendment: Words in reg. 3(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [6(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/6/a)
+[^c-41cf8b61de9e8872f2c46516057460ec]: Textual amendment: Words in reg. 3(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [6(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/6/a)
 
-[^key-b0aa49eb52f30ae9c31cd4d9e3c334ad]: Textual amendment: Reg. 3(2)(dd) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/2/b)
+[^c-b0aa49eb52f30ae9c31cd4d9e3c334ad]: Textual amendment: Reg. 3(2)(dd) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/2/b)
 
-[^key-658c2e8800e5a74782e9f8e06bbb19f8]: Textual amendment: Words in reg. 3(2)(e) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(2)(c)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/2/c)
+[^c-658c2e8800e5a74782e9f8e06bbb19f8]: Textual amendment: Words in reg. 3(2)(e) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(2)(c)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/2/c)
 
-[^key-0720b2d18075de4a33e5dc70b3525b94]: Textual amendment: Reg. 3(2)(g) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(2)(d)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/2/d)
+[^c-0720b2d18075de4a33e5dc70b3525b94]: Textual amendment: Reg. 3(2)(g) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(2)(d)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/2/d)
 
 [^c23831581]: Marginal citation: The Office of Rail and Road was established by section 15 of the [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20) as the Office of Rail Regulation and subsequently renamed by the Office of Rail Regulation (Change of Name) Regulations ([S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682)).
 
@@ -256,30 +256,30 @@ summary: ''
 
 [^c23831611]: Marginal citation: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
 
-[^key-ea716b3bb432e756a62cd3ef430365dc]: Textual amendment: Reg. 3(2)(ja) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [6(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/6/b)
+[^c-ea716b3bb432e756a62cd3ef430365dc]: Textual amendment: Reg. 3(2)(ja) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [6(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/6/b)
 
-[^key-02a376c9cd04edffd83282df610d0af1]: Textual amendment: Words in reg. 3(2)(k) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(2)(e)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/2/e)
+[^c-02a376c9cd04edffd83282df610d0af1]: Textual amendment: Words in reg. 3(2)(k) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(2)(e)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/2/e)
 
-[^key-d473c307a13c0efa3ec00f49ab50690d]: Textual amendment: Reg. 3(2)(l) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(2)(f)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/2/f)
+[^c-d473c307a13c0efa3ec00f49ab50690d]: Textual amendment: Reg. 3(2)(l) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(2)(f)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/2/f)
 
-[^key-3a1acb1a2c857b6d435414e905623d02]: Textual amendment: Reg. 3(2A) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [7(2)(a)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a1acb1a2c857b6d435414e905623d02]: Textual amendment: Reg. 3(2A) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [7(2)(a)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4659934c7e5d9d387826332df44ac3ee]: Textual amendment: Words in reg. 3(4)(b) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/3/a/i)
+[^c-4659934c7e5d9d387826332df44ac3ee]: Textual amendment: Words in reg. 3(4)(b) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/3/a/i)
 
-[^key-1385ee5d906d9e09b33e98528dcca189]: Textual amendment: Words in reg. 3(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/3/a/ii)
+[^c-1385ee5d906d9e09b33e98528dcca189]: Textual amendment: Words in reg. 3(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/3/a/ii)
 
-[^key-78800817fe2f770028bdee8cf133bf79]: Textual amendment: Words in reg. 3(4)(b) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/3/b)
+[^c-78800817fe2f770028bdee8cf133bf79]: Textual amendment: Words in reg. 3(4)(b) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/3/b)
 
-[^key-a139104e95edadd87c4338588e25e55a]: Textual amendment: Reg. 3(6)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(4)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/4)
+[^c-a139104e95edadd87c4338588e25e55a]: Textual amendment: Reg. 3(6)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(4)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/4)
 
-[^key-8d2b44322f55357583e1bc897540b2b2]: Textual amendment: Reg. 3(10)(a) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(5)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/5/a)
+[^c-8d2b44322f55357583e1bc897540b2b2]: Textual amendment: Reg. 3(10)(a) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(5)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/5/a)
 
-[^key-157b1d69f31e3e8fe5342705ddf29ef6]: Textual amendment: Reg. 3(10)(b) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(5)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/5/b)
+[^c-157b1d69f31e3e8fe5342705ddf29ef6]: Textual amendment: Reg. 3(10)(b) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(5)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/5/b)
 
-[^key-5acf1a9460eed898d914b9e64bb091ab]: Textual amendment: Word in reg. 3(10)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(5)(c)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/5/c/i)
+[^c-5acf1a9460eed898d914b9e64bb091ab]: Textual amendment: Word in reg. 3(10)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(5)(c)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/5/c/i)
 
-[^key-a6696be7ba6a5df90e4055eddbb05a59]: Textual amendment: Words in reg. 3(10)(c) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/5/c/ii)
+[^c-a6696be7ba6a5df90e4055eddbb05a59]: Textual amendment: Words in reg. 3(10)(c) inserted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/5/c/ii)
 
-[^key-adf38f72aa6c73587fe4d4b33dc6b344]: Textual amendment: Words in reg. 3(10)(d) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(5)(d)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/5/d)
+[^c-adf38f72aa6c73587fe4d4b33dc6b344]: Textual amendment: Words in reg. 3(10)(d) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(5)(d)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/5/d)
 
-[^key-921e660aca011f76e2687b3eeb4b0d8f]: Textual amendment: Words in reg. 3(11) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(6)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/6)
+[^c-921e660aca011f76e2687b3eeb4b0d8f]: Textual amendment: Words in reg. 3(11) substituted (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(6)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/6)

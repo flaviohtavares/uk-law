@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Insertion of section 26B[^key-dea863fa04afd9d95b030ef9256deb1d]
+## 17. Insertion of section 26B[^c-dea863fa04afd9d95b030ef9256deb1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ Immediately before section 27 insert—
 
 ## Annotations
 
-[^key-dea863fa04afd9d95b030ef9256deb1d]: Commencement: Art. 17 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-dea863fa04afd9d95b030ef9256deb1d]: Commencement: Art. 17 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

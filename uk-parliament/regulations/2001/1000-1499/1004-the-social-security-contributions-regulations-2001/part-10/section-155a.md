@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155A. Decisions taken by officers of the Inland Revenue in respect of contributions which are prescribed for the purposes of section 8(1)(m) of the Transfer Act[^key-f453e9562469b443ccbe6540810ef158]
+## 155A. Decisions taken by officers of the Inland Revenue in respect of contributions which are prescribed for the purposes of section 8(1)(m) of the Transfer Act[^c-f453e9562469b443ccbe6540810ef158]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,8 +28,8 @@ summary: ''
 - (b) whether a notice given under regulation 3(2B) should cease to have effect;
 - (c) whether a direction should be given under regulation 31 and, if so, the terms of the direction;
 - (d) whether the condition in regulation 50(2) is satisfied;
-- (e) whether a late application under regulation 52(8)[^key-e1430dd979604b95391691b6b951c8fd] for the refund of a contribution should be admitted;
-- (f)[^key-f961c858be990dc25c10e3e270749950] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) whether a late application under regulation 52(8)[^c-e1430dd979604b95391691b6b951c8fd] for the refund of a contribution should be admitted;
+- (f)[^c-f961c858be990dc25c10e3e270749950] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) whether a late application under regulation 55(3) for the repayment of a Class 1A contribution should be admitted;
 - (h) whether, in a case where the secondary contributor has failed to pay a primary Class 1 contribution on behalf of the primary contributor, that failure was with the consent or connivance of the primary contributor or attributable to any negligence on the part of the primary contributor, as mentioned in regulation 60;
 - (i) whether the condition in regulation 61(2) is satisfied;
@@ -40,8 +40,8 @@ summary: ''
 
 (3) The decisions specified in this paragraph are—
 
-- (a) whether a contribution (other than a Class 4 contribution) has been paid in error as mentioned in regulation 52(1)[^key-4f04d8602529cdeefc1ad8253056402b]; and
-- (b) whether there has been a payment of contributions in excess of the amount specified in regulation 21, as mentioned in regulation 52A(1)[^key-78a504f5f1ecc0321cf02f747e52ad7c],
+- (a) whether a contribution (other than a Class 4 contribution) has been paid in error as mentioned in regulation 52(1)[^c-4f04d8602529cdeefc1ad8253056402b]; and
+- (b) whether there has been a payment of contributions in excess of the amount specified in regulation 21, as mentioned in regulation 52A(1)[^c-78a504f5f1ecc0321cf02f747e52ad7c],
 
 to the extent that they are not decisions falling within section 8(1)(c) or (d) (decisions as to liability and entitlement to pay contributions) of the Transfer Act.
 
@@ -58,12 +58,12 @@ to the extent that they are not decisions falling within section 8(1)(c) or (d) 
 
 ## Annotations
 
-[^key-f453e9562469b443ccbe6540810ef158]: Textual amendment: Reg. 155A inserted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [18](https://www.legislation.gov.uk/uksi/2002/2366/regulation/18)
+[^c-f453e9562469b443ccbe6540810ef158]: Textual amendment: Reg. 155A inserted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [18](https://www.legislation.gov.uk/uksi/2002/2366/regulation/18)
 
-[^key-e1430dd979604b95391691b6b951c8fd]: Textual amendment: Words in reg. 155A(2)(e) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2004/770/regulation/26/a)
+[^c-e1430dd979604b95391691b6b951c8fd]: Textual amendment: Words in reg. 155A(2)(e) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2004/770/regulation/26/a)
 
-[^key-f961c858be990dc25c10e3e270749950]: Textual amendment: [Reg. 155A(2)(f)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/155A/2/f) omitted (6.4.2016) by virtue of [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [17](https://www.legislation.gov.uk/uksi/2016/352/regulation/17) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
+[^c-f961c858be990dc25c10e3e270749950]: Textual amendment: [Reg. 155A(2)(f)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/155A/2/f) omitted (6.4.2016) by virtue of [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [17](https://www.legislation.gov.uk/uksi/2016/352/regulation/17) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
 
-[^key-4f04d8602529cdeefc1ad8253056402b]: Textual amendment: Words in reg. 155A(3)(a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [26(b)(i)](https://www.legislation.gov.uk/uksi/2004/770/regulation/26/b/i)
+[^c-4f04d8602529cdeefc1ad8253056402b]: Textual amendment: Words in reg. 155A(3)(a) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [26(b)(i)](https://www.legislation.gov.uk/uksi/2004/770/regulation/26/b/i)
 
-[^key-78a504f5f1ecc0321cf02f747e52ad7c]: Textual amendment: Words in reg. 155A(3)(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [26(b)(ii)](https://www.legislation.gov.uk/uksi/2004/770/regulation/26/b/ii)
+[^c-78a504f5f1ecc0321cf02f747e52ad7c]: Textual amendment: Words in reg. 155A(3)(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [26(b)(ii)](https://www.legislation.gov.uk/uksi/2004/770/regulation/26/b/ii)

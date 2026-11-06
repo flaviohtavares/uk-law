@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Deemed marine licence[^key-34dec30346115e76ae6989c6e2a3342a]
+## 60. Deemed marine licence[^c-34dec30346115e76ae6989c6e2a3342a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The marine licence set out in Schedule 15 (deemed marine licence) is deemed to h
 
 ## Annotations
 
-[^key-34dec30346115e76ae6989c6e2a3342a]: Commencement: Art. 60 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-34dec30346115e76ae6989c6e2a3342a]: Commencement: Art. 60 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

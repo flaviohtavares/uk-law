@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Meaning of “limited partner”[^key-117850ad337b8e434235ece1365bd1c4]
+## 106. Meaning of “limited partner”[^c-117850ad337b8e434235ece1365bd1c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-117850ad337b8e434235ece1365bd1c4]: Textual amendment: S. 106 repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 12](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/12), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21), [Sch. 27 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/1)
+[^c-117850ad337b8e434235ece1365bd1c4]: Textual amendment: S. 106 repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 12](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/12), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21), [Sch. 27 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/1)

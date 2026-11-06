@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the transfer of prisoners from one set of relevant premises to another;
 - (b) the custody of prisoners held on court premises (whether or not they would otherwise be in the custody of the court) and their production before the court;
-- (ba)[^key-59899a73ce594ba0a4a592138dbd1534] the custody of prisoners held in a police station and their production, by electronic means from the station, before a court;
+- (ba)[^c-59899a73ce594ba0a4a592138dbd1534] the custody of prisoners held in a police station and their production, by electronic means from the station, before a court;
 - (c) the custody of prisoners temporarily held in a prison in the course of transfer from one prison to another; and
 - (d) the custody of prisoners while they are outside a prison for temporary purposes.
 
@@ -39,7 +39,7 @@ and either (but not both) of the sets of premises mentioned in that paragraph ma
 
 (4) Arrangements made by the Secretary of State under this section (“prisoner escort arrangements”) may include entering into contracts with other persons for the provision by them of prisoner custody officers.
 
-(5) Any person who, under a warrant or hospital order, is responsible for the performance of any such function as is mentioned in subsection (2) above shall be deemed to have complied with that warrant or order if he does all that he reasonably can to secure that the function is performed by a prisoner custody officer acting in pursuance of prisoner escort arrangements or by a police custody and security officer in the performance of functions[^c19817611] under section 28 of the Police and Fire Reform (Scotland) Act *(Extent: S)*[^key-1d30c043675d754014016fc3fade8e46] [2012 (asp 8) *(Extent: S)*](https://www.legislation.gov.uk/asp/2012/8).
+(5) Any person who, under a warrant or hospital order, is responsible for the performance of any such function as is mentioned in subsection (2) above shall be deemed to have complied with that warrant or order if he does all that he reasonably can to secure that the function is performed by a prisoner custody officer acting in pursuance of prisoner escort arrangements or by a police custody and security officer in the performance of functions[^c19817611] under section 28 of the Police and Fire Reform (Scotland) Act *(Extent: S)*[^c-1d30c043675d754014016fc3fade8e46] [2012 (asp 8) *(Extent: S)*](https://www.legislation.gov.uk/asp/2012/8).
 
 (6) In this section—
 
@@ -51,7 +51,7 @@ and either (but not both) of the sets of premises mentioned in that paragraph ma
 
 [^c13104061]: Extent: S. 102 extends to Scotland only; s. 102(1) to (3) extends also to the British Islands see s. 172(12)
 
-[^key-59899a73ce594ba0a4a592138dbd1534]: Textual amendment: [S. 102(2)(ba)](https://www.legislation.gov.uk/ukpga/1994/33/section/102/2/ba) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 40(2)(a)](https://www.legislation.gov.uk/asp/2022/8/section/40/2/a), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-59899a73ce594ba0a4a592138dbd1534]: Textual amendment: [S. 102(2)(ba)](https://www.legislation.gov.uk/ukpga/1994/33/section/102/2/ba) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 40(2)(a)](https://www.legislation.gov.uk/asp/2022/8/section/40/2/a), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
 [^c13104071]: Textual amendment: Words in s. 102(3)(b) substituted (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 4 para. 93(3)(a)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/93/3/a) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3))
 
@@ -59,7 +59,7 @@ and either (but not both) of the sets of premises mentioned in that paragraph ma
 
 [^c19817611]: Textual amendment: Words in s. 102(5) added (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 76(10)](https://www.legislation.gov.uk/asp/2003/7/section/76/10), [89](https://www.legislation.gov.uk/asp/2003/7/section/89); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
 
-[^key-1d30c043675d754014016fc3fade8e46]: Textual amendment: Words in s. 102(5) substituted (S.) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 9(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/9/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121)); and (E.W.N.I.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/1/paragraph/4/2)
+[^c-1d30c043675d754014016fc3fade8e46]: Textual amendment: Words in s. 102(5) substituted (S.) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 9(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/9/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121)); and (E.W.N.I.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/1/paragraph/4/2)
 
 [^c19817671]: Textual amendment: Words in s. 102(6) substituted (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [arts. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [2](https://www.legislation.gov.uk/ssi/2005/465/article/2), [Sch. 1 para. 24(2)(b)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/24/2/b)
 

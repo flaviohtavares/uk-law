@@ -48,17 +48,17 @@ The Secretary of State in exercise of the powers conferred by sections 27(4) and
 
 ## PART 1 — GENERAL PROVISIONS
 
-### 1. Citation, commencement and application[^key-1bcce2c295acb7a1a3c69f5765f5769c]
+### 1. Citation, commencement and application[^c-1bcce2c295acb7a1a3c69f5765f5769c]
 
 (1) These Regulations may be cited as the Housing (Right to Manage) (England) Regulations 2012 and shall come into force on 6th August 2012.
 
 (2) These Regulations apply in relation to houses and authorities in England only.
 
-### 2. Revocation of the Housing (Right to Manage) Regulations 2008[^key-61b11e559d24f359937d0c487360cd44]
+### 2. Revocation of the Housing (Right to Manage) Regulations 2008[^c-61b11e559d24f359937d0c487360cd44]
 
 Subject to Part 6 of these Regulations, the Housing (Right to Manage) (England) Regulations 2008[^f00002] are revoked.
 
-### 3. Interpretation[^key-5895b557e88fb9ceca5ca5ef59225ca7]
+### 3. Interpretation[^c-5895b557e88fb9ceca5ca5ef59225ca7]
 
 In these Regulations—
 
@@ -82,7 +82,7 @@ In these Regulations—
 - “TMO” means a tenant management organisation; and
 - “TMO agreement” means an agreement required to be made between an authority and a tenant management organisation under regulation 16.
 
-### 4. Definition and general duties of tenant management organisations[^key-1d9dc21d038d674f7993e2a8f9540258]
+### 4. Definition and general duties of tenant management organisations[^c-1d9dc21d038d674f7993e2a8f9540258]
 
 (1) A tenant management organisation is an organisation which satisfies the following conditions[^f00004] —
 
@@ -104,19 +104,19 @@ In these Regulations—
 - (a) must act in accordance with the provisions of its constitution relevant to the exercise of its functions under these Regulations; and
 - (b) must have regard to any guidance provided from time to time by the Secretary of State relevant to the exercise of its functions under these Regulations.
 
-### 5. Agreement for extension of time[^key-10b4567f52bac21e84e8b283e2e4685f]
+### 5. Agreement for extension of time[^c-10b4567f52bac21e84e8b283e2e4685f]
 
 Where any person is required or authorised to exercise any function under these Regulations within a specified period, the TMO and the authority concerned may by agreement before the expiry of that period, extend the period for a further specified period.
 
-### 6. Security of ballot[^key-70964b91fc067e3ce19271fe1ac9e661]
+### 6. Security of ballot[^c-70964b91fc067e3ce19271fe1ac9e661]
 
 Any ballot held under these Regulations must be organised so that the vote cast by any individual is kept secret.
 
-### 7. Written communications[^key-e72aa6860b5fafa5696cc09ee1c2a583]
+### 7. Written communications[^c-e72aa6860b5fafa5696cc09ee1c2a583]
 
 Any requirement under these Regulations to make, prepare, provide or send a notification, request, referral, report, plan, offer or other communication, is a requirement to do so in writing.
 
-### 8. Disputes between authorities and TMOs[^key-47038baff815bd9e07c6126a545e3aa3]
+### 8. Disputes between authorities and TMOs[^c-47038baff815bd9e07c6126a545e3aa3]
 
 (1) Where an authority and a TMO cannot resolve a dispute that has arisen between them concerning the application or interpretation of any provision of these Regulations or the TMO agreement, or a determination made under these Regulations, either party may refer the matter for determination to an arbitrator appointed by agreement between them or, in default of agreement, appointed by the Secretary of State.
 
@@ -124,7 +124,7 @@ Any requirement under these Regulations to make, prepare, provide or send a noti
 
 ## PART 2 — INITIATING THE PROCESS STAGE
 
-### 9. Proposal notices[^key-0fc77a506ae9ed5a52ac0e287bddc1fd]
+### 9. Proposal notices[^c-0fc77a506ae9ed5a52ac0e287bddc1fd]
 
 (1) A notice is a proposal notice if it complies with paragraphs (2) and (4) and is served on an authority by a TMO.
 
@@ -141,7 +141,7 @@ Any requirement under these Regulations to make, prepare, provide or send a noti
 - (a) all of those houses are included in the proposal and the TMO which serves the notice is a party to that existing management agreement; or
 - (b) the number of houses which are the subject of the existing agreement is greater than 2500.
 
-### 10. Consultation and membership requirements relevant to proposal notices[^key-276e87a70f94d674d3f7b03641a399aa]
+### 10. Consultation and membership requirements relevant to proposal notices[^c-276e87a70f94d674d3f7b03641a399aa]
 
 A TMO must—
 
@@ -155,7 +155,7 @@ A TMO must—
 
   of the houses identified in the proposal notice.
 
-### 11. Acceptance and refusal of proposal notices[^key-9b7830500727a0f4de65a6011e2fcd07]
+### 11. Acceptance and refusal of proposal notices[^c-9b7830500727a0f4de65a6011e2fcd07]
 
 (1) Subject to paragraphs (4) and (5), an authority on which a proposal notice is served must accept it.
 
@@ -179,7 +179,7 @@ A TMO must—
 
 (5) An authority may refuse to accept a proposal notice if it has reasonable grounds for believing that the TMO which served the notice has failed to comply with the requirements of regulation 10(a) or (b), or that the requirements of regulation 10(c) have not been met.
 
-### 12. Authority support following proposal notice[^key-5741eb91a7b4c63e4f7a48028bf10b55]
+### 12. Authority support following proposal notice[^c-5741eb91a7b4c63e4f7a48028bf10b55]
 
 (1) Where an authority has accepted a proposal notice, the TMO which served the notice may make a request to the authority for such support as is specified in the request, being support that is reasonably required for the purposes of pursuing the proposal notice.
 
@@ -205,7 +205,7 @@ A TMO must—
 
 ## PART 3 — DEVELOPMENT STAGE
 
-### 13. Appointment of approved assessor to assess competence of TMO[^key-c6cd2eb54e258a1818ae68bfc7647ff5]
+### 13. Appointment of approved assessor to assess competence of TMO[^c-c6cd2eb54e258a1818ae68bfc7647ff5]
 
 (1) Where an authority has accepted a proposal notice, the TMO must within 3 months of the acceptance date apply to the approved assessor service to appoint an approved assessor to report on the competence of the TMO to exercise the management functions set out in the proposal.
 
@@ -232,7 +232,7 @@ A TMO must—
 - (a) if a TMO and authority fail to comply with the requirements of this regulation; or
 - (b) if the approved assessor concludes under paragraph (7) that the TMO is not competent.
 
-### 14. Offer Notice[^key-6424c92573b88a6794bb270243e69720]
+### 14. Offer Notice[^c-6424c92573b88a6794bb270243e69720]
 
 (1) Within 15 months of the acceptance date, the TMO and the authority must jointly prepare an offer notice.
 
@@ -245,7 +245,7 @@ A TMO must—
 
 (3) In preparing the offer notice, the TMO and the authority must have regard to any guidance issued from time to time by the Secretary of State.
 
-### 15. Offer to tenants[^key-c41007ff5d71bdefa3cdf9792e634ec0]
+### 15. Offer to tenants[^c-c41007ff5d71bdefa3cdf9792e634ec0]
 
 (1) Where the approved assessor concludes under regulation 13 that the TMO is competent, the authority must within 3 months of receiving his conclusion, make to the tenants of each house identified in the proposal notice, an offer containing—
 
@@ -267,7 +267,7 @@ A TMO must—
 
 ## PART 4 — IMPLEMENTATION STAGE
 
-### 16. Duty to enter into TMO agreement[^key-7f00d145ee4b35c50fd93adb583a7e95]
+### 16. Duty to enter into TMO agreement[^c-7f00d145ee4b35c50fd93adb583a7e95]
 
 (1) Subject to regulation 17, where—
 
@@ -278,22 +278,22 @@ have accepted the offer, the authority must within 9 months of the date of the a
 
 (2) That TMO agreement must take into account any guidance issued from time to time by the Secretary of State relating to TMO agreements.
 
-### 17. Incorporation of TMO[^key-7ccfbea73085b16bb468ae2cb1b020f9]
+### 17. Incorporation of TMO[^c-7ccfbea73085b16bb468ae2cb1b020f9]
 
 Unless within 9 months of the local authority’s notification under regulation 15(3), the TMO is registered as—
 
-- (a)[^key-356ff12f07e3db411554663fd8a854ce] a co-operative or community benefit society under the Co-operative and Community Benefit Societies Act 2014;
+- (a)[^c-356ff12f07e3db411554663fd8a854ce] a co-operative or community benefit society under the Co-operative and Community Benefit Societies Act 2014;
 - (b) a company under the Companies Act 2006[^f00006];
 
 the proposal notice is deemed to be withdrawn and the authority is not required to enter into a TMO agreement.
 
 ## PART 5 — OTHER PROVISIONS RELATING TO TMOS
 
-### 18. Guidance by Secretary of State[^key-9f9b536a38c3c343eaef2f088cd07a73]
+### 18. Guidance by Secretary of State[^c-9f9b536a38c3c343eaef2f088cd07a73]
 
 Without prejudice to regulations 4(3)(b), 8(2), 14(3) and 16(2), any person exercising functions under these Regulations must have regard to any guidance given by the Secretary of State relevant to the exercise of those functions.
 
-### 19. Break clause in other housing management agreements[^key-548f1f8395a4d4b93faa1782b24c7d4e]
+### 19. Break clause in other housing management agreements[^c-548f1f8395a4d4b93faa1782b24c7d4e]
 
 (1) This regulation applies to every agreement made under section 27(1) of the Housing Act 1985 between an authority and a manager[^f00007] after the commencement date, where the agreement relates to—
 
@@ -313,21 +313,21 @@ that are the subject of a subsequent TMO agreement.
 
 (5) The authority and the manager must make arrangements in accordance with paragraph (2)(b) within 3 months of the determination of such an agreement.
 
-### 20. Participation by authority in TMOs[^key-3f916250d434bd98ec38b16e34514e52]
+### 20. Participation by authority in TMOs[^c-3f916250d434bd98ec38b16e34514e52]
 
 Where an authority has, or proposes to enter into a TMO agreement with a TMO, it may, at the invitation of the TMO concerned, nominate one or more persons to be directors or other officers of the TMO.
 
-### 21. Agreements entered into voluntarily[^key-806e3081ee544132246875bc27be3585]
+### 21. Agreements entered into voluntarily[^c-806e3081ee544132246875bc27be3585]
 
 An authority may enter into a TMO agreement otherwise than in accordance with these Regulations where that agreement satisfies the requirements of section 27.
 
 ## PART 6 — TRANSITIONAL AND SAVING PROVISIONS
 
-### 22. General transitional provision[^key-cff7f81742851f37fd62b8a8e97bdd19]
+### 22. General transitional provision[^c-cff7f81742851f37fd62b8a8e97bdd19]
 
 Except as mentioned in this Part, any function exercised, step taken or requirement satisfied in accordance with a provision in the 2008 Regulations before the commencement date must be treated on and after that date as a function exercised, step taken or requirement satisfied in accordance with the equivalent provision, where there is such a provision, of these Regulations.
 
-### 23. Proposal notices served under the 2008 Regulations[^key-7545a108a356867af436bf9f2990f268]
+### 23. Proposal notices served under the 2008 Regulations[^c-7545a108a356867af436bf9f2990f268]
 
 (1) This regulation applies where before the commencement date—
 
@@ -338,7 +338,7 @@ Except as mentioned in this Part, any function exercised, step taken or requirem
 
 (3) The authority may, in accordance with regulation 11(2), (4) and (5) of the 2008 Regulations, refuse the regulation 9 notice but the authority shall not be treated as having done so unless, within the period specified in regulation 11(2) of those Regulations, it gives notice to that effect, stating its reasons for declining to accept the proposal notice.
 
-### 24. Local authority support following proposal notice[^key-ad2835359b2e7978b8793b28a0c109cb]
+### 24. Local authority support following proposal notice[^c-ad2835359b2e7978b8793b28a0c109cb]
 
 (1) Where, before the commencement date—
 
@@ -358,7 +358,7 @@ the TMO may apply to the approved assessor service to appoint an approved assess
 
 (3) Regulations 13 to 20 of these Regulations shall apply in a case to which paragraph (2) applies as if the regulation 9 notice were a proposal notice accepted under regulation 11.
 
-### 25. Subsequent procedure in relation to regulation 9 notices[^key-f4a41774b428c4889ce945aecba32e8e]
+### 25. Subsequent procedure in relation to regulation 9 notices[^c-f4a41774b428c4889ce945aecba32e8e]
 
 (1) This regulation shall apply where, before the commencement date, the authority accepted a regulation 9 notice and agreed to provide support but did not enter into a management agreement under the 2008 Regulations.
 
@@ -427,64 +427,64 @@ Part 6 provides for transitional and saving arrangements in respect of applicati
 
 [^f00001]: Footnote: [1985 c.68](https://www.legislation.gov.uk/ukpga/1985/68). Section 27 was substituted by [S.I.2003/940](https://www.legislation.gov.uk/uksi/2003/940), article 2 and amended by [S.I. 2010/844](https://www.legislation.gov.uk/uksi/2010/844). Section 27AB was inserted by the Leasehold Reform, Housing and Urban Development Act [1993 (c.28)](https://www.legislation.gov.uk/ukpga/1993/28) section 132(1) and amended by the Housing Act [1996 (c.52)](https://www.legislation.gov.uk/ukpga/1996/52) section 222 and Schedule 18, paragraph 3(5); the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26) section 127(2) and Schedule 8, Part 1; [S.I.1997/74](https://www.legislation.gov.uk/uksi/1997/74) article 2 and Schedule paragraph 3(c) and the Housing and Regeneration Act [2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17) section 195 and [S.I. 2010/844](https://www.legislation.gov.uk/uksi/2010/844).
 
-[^key-1bcce2c295acb7a1a3c69f5765f5769c]: Commencement: Reg. 1 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-1bcce2c295acb7a1a3c69f5765f5769c]: Commencement: Reg. 1 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-61b11e559d24f359937d0c487360cd44]: Commencement: Reg. 2 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-61b11e559d24f359937d0c487360cd44]: Commencement: Reg. 2 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
 [^f00002]: Footnote: [S.I.2008/2361](https://www.legislation.gov.uk/uksi/2008/2361).
 
-[^key-5895b557e88fb9ceca5ca5ef59225ca7]: Commencement: Reg. 3 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-5895b557e88fb9ceca5ca5ef59225ca7]: Commencement: Reg. 3 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
 [^f00003]: Footnote: “House” is defined for the purposes of Part 2 of the Housing Act 1985, in section 56 of that Act.
 
-[^key-1d9dc21d038d674f7993e2a8f9540258]: Commencement: Reg. 4 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-1d9dc21d038d674f7993e2a8f9540258]: Commencement: Reg. 4 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
 [^f00004]: Footnote: *See* section 27AB(8) of the Housing Act 1985.
 
-[^key-10b4567f52bac21e84e8b283e2e4685f]: Commencement: Reg. 5 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-10b4567f52bac21e84e8b283e2e4685f]: Commencement: Reg. 5 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-70964b91fc067e3ce19271fe1ac9e661]: Commencement: Reg. 6 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-70964b91fc067e3ce19271fe1ac9e661]: Commencement: Reg. 6 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-e72aa6860b5fafa5696cc09ee1c2a583]: Commencement: Reg. 7 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-e72aa6860b5fafa5696cc09ee1c2a583]: Commencement: Reg. 7 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-47038baff815bd9e07c6126a545e3aa3]: Commencement: Reg. 8 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-47038baff815bd9e07c6126a545e3aa3]: Commencement: Reg. 8 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-0fc77a506ae9ed5a52ac0e287bddc1fd]: Commencement: Reg. 9 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-0fc77a506ae9ed5a52ac0e287bddc1fd]: Commencement: Reg. 9 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-276e87a70f94d674d3f7b03641a399aa]: Commencement: Reg. 10 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-276e87a70f94d674d3f7b03641a399aa]: Commencement: Reg. 10 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-9b7830500727a0f4de65a6011e2fcd07]: Commencement: Reg. 11 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-9b7830500727a0f4de65a6011e2fcd07]: Commencement: Reg. 11 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-5741eb91a7b4c63e4f7a48028bf10b55]: Commencement: Reg. 12 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-5741eb91a7b4c63e4f7a48028bf10b55]: Commencement: Reg. 12 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-c6cd2eb54e258a1818ae68bfc7647ff5]: Commencement: Reg. 13 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-c6cd2eb54e258a1818ae68bfc7647ff5]: Commencement: Reg. 13 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-6424c92573b88a6794bb270243e69720]: Commencement: Reg. 14 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-6424c92573b88a6794bb270243e69720]: Commencement: Reg. 14 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-c41007ff5d71bdefa3cdf9792e634ec0]: Commencement: Reg. 15 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-c41007ff5d71bdefa3cdf9792e634ec0]: Commencement: Reg. 15 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-7f00d145ee4b35c50fd93adb583a7e95]: Commencement: Reg. 16 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-7f00d145ee4b35c50fd93adb583a7e95]: Commencement: Reg. 16 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-7ccfbea73085b16bb468ae2cb1b020f9]: Commencement: Reg. 17 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-7ccfbea73085b16bb468ae2cb1b020f9]: Commencement: Reg. 17 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-356ff12f07e3db411554663fd8a854ce]: Textual amendment: [Reg. 17(a)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/17/a) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/31)
+[^c-356ff12f07e3db411554663fd8a854ce]: Textual amendment: [Reg. 17(a)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/17/a) substituted (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/31)
 
 [^f00006]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-9f9b536a38c3c343eaef2f088cd07a73]: Commencement: Reg. 18 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-9f9b536a38c3c343eaef2f088cd07a73]: Commencement: Reg. 18 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-548f1f8395a4d4b93faa1782b24c7d4e]: Commencement: Reg. 19 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-548f1f8395a4d4b93faa1782b24c7d4e]: Commencement: Reg. 19 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
 [^f00007]: Footnote: “Manager” is defined in section 27(2) of the Housing Act 1985, which was substituted by the Regulatory Reform (Housing Management Agreements) Order 2003 ([S.I.2003/940](https://www.legislation.gov.uk/uksi/2003/940)).
 
-[^key-3f916250d434bd98ec38b16e34514e52]: Commencement: Reg. 20 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-3f916250d434bd98ec38b16e34514e52]: Commencement: Reg. 20 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-806e3081ee544132246875bc27be3585]: Commencement: Reg. 21 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-806e3081ee544132246875bc27be3585]: Commencement: Reg. 21 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-cff7f81742851f37fd62b8a8e97bdd19]: Commencement: Reg. 22 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-cff7f81742851f37fd62b8a8e97bdd19]: Commencement: Reg. 22 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-7545a108a356867af436bf9f2990f268]: Commencement: Reg. 23 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-7545a108a356867af436bf9f2990f268]: Commencement: Reg. 23 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-ad2835359b2e7978b8793b28a0c109cb]: Commencement: Reg. 24 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-ad2835359b2e7978b8793b28a0c109cb]: Commencement: Reg. 24 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
 
-[^key-f4a41774b428c4889ce945aecba32e8e]: Commencement: Reg. 25 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)
+[^c-f4a41774b428c4889ce945aecba32e8e]: Commencement: Reg. 25 in force at 6.8.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1821/regulation/1/1)

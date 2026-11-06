@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Transitional and transitory provision and savings in connection with police complaints and misconduct[^key-b8713ac9b5cbe50e55045a26fe03c1ca]
+## 8. Transitional and transitory provision and savings in connection with police complaints and misconduct[^c-b8713ac9b5cbe50e55045a26fe03c1ca]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ab94619841c33216346a53de893a9d33] Paragraph (2) of this article applies in relation to a complaint, conduct matter or death or serious injury matter which came to the attention of an appropriate authority before 22nd November 2012.
+(1)[^c-ab94619841c33216346a53de893a9d33] Paragraph (2) of this article applies in relation to a complaint, conduct matter or death or serious injury matter which came to the attention of an appropriate authority before 22nd November 2012.
 
 (1A) In paragraph (1A), “appropriate authority”, “complaint”, “conduct matter” and “death or serious injury matter” have the same meaning as in Part 2 of the Police Reform Act 2002.
 
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b8713ac9b5cbe50e55045a26fe03c1ca]: Commencement: Art. 8 in force at made date
+[^c-b8713ac9b5cbe50e55045a26fe03c1ca]: Commencement: Art. 8 in force at made date
 
-[^key-ab94619841c33216346a53de893a9d33]: Textual amendment: [Art. 8(1)-(1B)](https://www.legislation.gov.uk/uksi/2011/3019/article/8/1) substituted for [art. 8(1)](https://www.legislation.gov.uk/uksi/2011/3019/article/8/1) (14.11.2012) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 7 and Transitional Provisions and Commencement No. 3 and Transitional Provisions (Amendment)) Order 2012 (S.I. 2012/2892)](https://www.legislation.gov.uk/uksi/2012/2892), [art. 8(3)](https://www.legislation.gov.uk/uksi/2012/2892/article/8/3)
+[^c-ab94619841c33216346a53de893a9d33]: Textual amendment: [Art. 8(1)-(1B)](https://www.legislation.gov.uk/uksi/2011/3019/article/8/1) substituted for [art. 8(1)](https://www.legislation.gov.uk/uksi/2011/3019/article/8/1) (14.11.2012) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 7 and Transitional Provisions and Commencement No. 3 and Transitional Provisions (Amendment)) Order 2012 (S.I. 2012/2892)](https://www.legislation.gov.uk/uksi/2012/2892), [art. 8(3)](https://www.legislation.gov.uk/uksi/2012/2892/article/8/3)
 
 [^f00006]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30).

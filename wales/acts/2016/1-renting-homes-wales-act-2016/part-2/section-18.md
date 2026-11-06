@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Fundamental provisions[^key-200a9f0cd762a212bf556015fb8b3b02]
+## 18. Fundamental provisions[^c-200a9f0cd762a212bf556015fb8b3b02]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-200a9f0cd762a212bf556015fb8b3b02]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2016/1/section/18) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-200a9f0cd762a212bf556015fb8b3b02]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2016/1/section/18) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

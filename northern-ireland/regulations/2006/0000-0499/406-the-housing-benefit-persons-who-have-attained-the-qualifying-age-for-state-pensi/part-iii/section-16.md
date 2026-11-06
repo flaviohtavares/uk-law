@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Pre-tenancy decisions[^key-d867ecd6ff5d8f7ba10f8ece582f7323]
+## 16. Pre-tenancy decisions[^c-d867ecd6ff5d8f7ba10f8ece582f7323]
 
 *Extent: N.I.*
 
-(1)[^key-38ba03aa9ea69baab5ec17548bb2e0dd] Except in the case where any liability to make payments in respect of a dwelling would be to the Executive, a decision shall be made by the Executive of the amount of rent which may be used in the calculation of housing benefit, where a request is received from a person (“the prospective occupier”), on a properly completed form approved for the purpose by the Executive, which includes the specified matters and any of the circumstances specified in regulation 14C(5)(a) to (d) apply.
+(1)[^c-38ba03aa9ea69baab5ec17548bb2e0dd] Except in the case where any liability to make payments in respect of a dwelling would be to the Executive, a decision shall be made by the Executive of the amount of rent which may be used in the calculation of housing benefit, where a request is received from a person (“the prospective occupier”), on a properly completed form approved for the purpose by the Executive, which includes the specified matters and any of the circumstances specified in regulation 14C(5)(a) to (d) apply.
 
 (2) A decision by the Executive shall not be required under paragraph (1) where a request relates to—
 
@@ -40,8 +40,8 @@ summary: ''
 
 - “**change relating to a rent allowance**” means a change or increase to which paragraph 2(3)(a), (b), (c), (d) or (f)[^M_F_fae470bb-d6e1-43fc-909f-186ec76dc4f6] of Schedule 3 applies;
 - “prospective occupier” shall include a person currently in receipt of housing benefit in respect of a dwelling which he occupies as his home and who is contemplating entering into a new agreement to occupy that dwelling, but not in a case where his current agreement commenced less than 11 months before such a request;
-- [^key-aad9d01500cb258949105c4852c0e055]...[^f00061]
-- “specified matters” means—[^key-1a47d43fd5159bb60d8b7351a9c8ff90]
+- [^c-aad9d01500cb258949105c4852c0e055]...[^f00061]
+- “specified matters” means—[^c-1a47d43fd5159bb60d8b7351a9c8ff90]
   - (a) the signature of the prospective occupier;
   - (b) the signature of the person to whom the prospective occupier would incur liability to make such payments;
   - (c) a statement that the person in paragraph (b) agrees to the application being made for that decision; and
@@ -49,14 +49,14 @@ summary: ''
 
 ## Annotations
 
-[^key-d867ecd6ff5d8f7ba10f8ece582f7323]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/406/regulation/16) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-d867ecd6ff5d8f7ba10f8ece582f7323]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/406/regulation/16) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-38ba03aa9ea69baab5ec17548bb2e0dd]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/16/1) substituted (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/9/a)
+[^c-38ba03aa9ea69baab5ec17548bb2e0dd]: Textual amendment: [Reg. 16(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/16/1) substituted (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/9/a)
 
 [^M_F_fae470bb-d6e1-43fc-909f-186ec76dc4f6]: Textual amendment: Words in reg. 16(5) substituted (1.4.2011) by [The Housing Benefit (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/51)](https://www.legislation.gov.uk/nisr/2011/51/contents), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/51/regulation/1), [3(5)(6)](https://www.legislation.gov.uk/nisr/2011/51/regulation/3)
 
-[^key-aad9d01500cb258949105c4852c0e055]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/nisr/2006/406/regulation/16/5) omitted (with application in accordance with reg. 1(3) (4) of the amending Rule) by virtue of [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(9)(b)(i)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/9/b/i)
+[^c-aad9d01500cb258949105c4852c0e055]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/nisr/2006/406/regulation/16/5) omitted (with application in accordance with reg. 1(3) (4) of the amending Rule) by virtue of [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(9)(b)(i)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/9/b/i)
 
 [^f00061]: Footnote: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725)
 
-[^key-1a47d43fd5159bb60d8b7351a9c8ff90]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/nisr/2006/406/regulation/16/5) inserted (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(9)(b)(ii)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/9/b/ii)
+[^c-1a47d43fd5159bb60d8b7351a9c8ff90]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/nisr/2006/406/regulation/16/5) inserted (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(9)(b)(ii)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/9/b/ii)

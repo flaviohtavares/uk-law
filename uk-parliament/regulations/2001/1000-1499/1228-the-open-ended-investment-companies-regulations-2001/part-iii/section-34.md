@@ -22,12 +22,12 @@ summary: ''
 
 (1) On the coming into effect of an authorisation order in respect of an open-ended investment company, the persons proposed in the application under regulation 12 as directors of the company are deemed to be appointed as its first directors.
 
-(2)[^key-0100aad82a1f12242d2fe69a9d1bacaf] Subject to regulations 21 and 26, any subsequent appointment as a director of a company must be made by the company in general meeting, save that the directors of the company may appoint a person to act as director to fill any vacancy until such time as the next annual general meeting of the company takes place or, if the company does not hold annual general meetings, the directors of the company may appoint a person to act as director
+(2)[^c-0100aad82a1f12242d2fe69a9d1bacaf] Subject to regulations 21 and 26, any subsequent appointment as a director of a company must be made by the company in general meeting, save that the directors of the company may appoint a person to act as director to fill any vacancy until such time as the next annual general meeting of the company takes place or, if the company does not hold annual general meetings, the directors of the company may appoint a person to act as director
 
 (3) Any act of a director is valid notwithstanding—
 
 - (a) any defect that may thereafter be discovered in his appointment or qualifications; or
-- (b) that it is afterwards discovered that his appointment had terminated by virtue of any provision contained in FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules which required a director to retire upon attaining a specified age.
+- (b) that it is afterwards discovered that his appointment had terminated by virtue of any provision contained in FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules which required a director to retire upon attaining a specified age.
 
 (4) The business of a company must be managed—
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0100aad82a1f12242d2fe69a9d1bacaf]: Textual amendment: Reg. 34(2) substituted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/3)
+[^c-0100aad82a1f12242d2fe69a9d1bacaf]: Textual amendment: Reg. 34(2) substituted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/3)
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)

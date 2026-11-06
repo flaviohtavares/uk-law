@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Federated schools[^key-ea51afddeade5b21427babb76e353b06]
+## 78. Federated schools[^c-ea51afddeade5b21427babb76e353b06]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Proposals made under this Part to establish a new school may relate to the estab
 
 ## Annotations
 
-[^key-ea51afddeade5b21427babb76e353b06]: Commencement: [S. 78](https://www.legislation.gov.uk/anaw/2013/1/section/78) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/e) (with [arts. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4), [5](https://www.legislation.gov.uk/wsi/2013/1800/article/5))
+[^c-ea51afddeade5b21427babb76e353b06]: Commencement: [S. 78](https://www.legislation.gov.uk/anaw/2013/1/section/78) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(e)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/e) (with [arts. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4), [5](https://www.legislation.gov.uk/wsi/2013/1800/article/5))

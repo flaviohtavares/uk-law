@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Transitional provision: Treasury licences[^key-f6fbbbd322f6da25896540ac81fe8819][^key-55e549f2b24837b45891e4aad024c7f7]
+## 75. Transitional provision: Treasury licences[^c-f6fbbbd322f6da25896540ac81fe8819][^c-55e549f2b24837b45891e4aad024c7f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 and such a licence is referred to in this regulation as “**an existing financial sanctions licence**”.
 
-(2) An existing financial sanctions licence which authorises an act which would otherwise be prohibited[^key-a6d5e6b15ce24a9a3387fe7cfc66035b] has effect on and after the relevant date as if it had been issued by the Treasury under regulation 40(1) (Treasury licences).
+(2) An existing financial sanctions licence which authorises an act which would otherwise be prohibited[^c-a6d5e6b15ce24a9a3387fe7cfc66035b] has effect on and after the relevant date as if it had been issued by the Treasury under regulation 40(1) (Treasury licences).
 
 (3) Any reference in an existing financial sanctions licence to the 2016 Regulations is to be treated on and after the relevant date as a reference to these Regulations.
 
@@ -62,13 +62,13 @@ is to be treated on and after the relevant date as a reference to the correspond
 
 ## Annotations
 
-[^key-f6fbbbd322f6da25896540ac81fe8819]: Commencement: Reg. 75 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-f6fbbbd322f6da25896540ac81fe8819]: Commencement: Reg. 75 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-55e549f2b24837b45891e4aad024c7f7]: Commencement: Reg. 75 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55e549f2b24837b45891e4aad024c7f7]: Commencement: Reg. 75 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23622331]: Marginal citation: Regulation 21 of the 2016 Regulations saved licences granted under certain instruments revoked by the 2016 Regulations.
 
-[^key-a6d5e6b15ce24a9a3387fe7cfc66035b]: Textual amendment: Words in reg. 75(2) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2020/591/regulation/5/6); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-a6d5e6b15ce24a9a3387fe7cfc66035b]: Textual amendment: Words in reg. 75(2) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2020/591/regulation/5/6); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
 
 [^c23622341]: Marginal citation: [S.I. 2007/1374](https://www.legislation.gov.uk/uksi/2007/1374). These Regulations were revoked by [S.I. 2010/2937](https://www.legislation.gov.uk/uksi/2010/2937)
 

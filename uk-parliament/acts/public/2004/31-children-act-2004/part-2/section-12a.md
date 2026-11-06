@@ -40,7 +40,7 @@ summary: ''
 - (a) “ **the establishing authority** ”, in relation to a Children's Trust Board, is the local authority that establishes the Board;
 - (b) a person or body is a “relevant partner” of a local authority if it is a relevant partner of the authority for the purposes of section 10
 
-otherwise than by virtue of section 10(4)(da) or (db)[^key-dad2e0d349c9e8b17c6429c122594532]
+otherwise than by virtue of section 10(4)(da) or (db)[^c-dad2e0d349c9e8b17c6429c122594532]
 
 ## Annotations
 
@@ -50,4 +50,4 @@ otherwise than by virtue of section 10(4)(da) or (db)[^key-dad2e0d349c9e8b17c642
 
 [^c21259191]: Textual amendment: Words in Pt. 2 substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2010/1158/article/5/1), [Sch. 2 para. 55(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/55/2)
 
-[^key-dad2e0d349c9e8b17c6429c122594532]: Textual amendment: Words in s. 12A inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 130](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/130); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-dad2e0d349c9e8b17c6429c122594532]: Textual amendment: Words in s. 12A inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 130](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/130); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

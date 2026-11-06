@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Financial assistance to non-maintained schools.[^key-91249afd94b0df711ab3bc90089eeae4]
+## 128. Financial assistance to non-maintained schools.[^c-91249afd94b0df711ab3bc90089eeae4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91249afd94b0df711ab3bc90089eeae4]: Textual amendment: S. 128 repealed (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 58(1)(a)](https://www.legislation.gov.uk/ukpga/2009/22/section/58/1/a), [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2), [Sch. 16 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/1)
+[^c-91249afd94b0df711ab3bc90089eeae4]: Textual amendment: S. 128 repealed (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 58(1)(a)](https://www.legislation.gov.uk/ukpga/2009/22/section/58/1/a), [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2), [Sch. 16 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/1)

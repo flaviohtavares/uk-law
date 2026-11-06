@@ -205,9 +205,9 @@ Section 8
 
 ### PART 2 — Transitory amendments of Part 5 RTA 1988 (before amendment by RSA 2006)
 
-**16.**[^c22548301][^key-237e942fda486b02c491e11f56a979a1] Until the commencement of Schedule 6 to the Road Safety Act 2006, Part 5 of the Road Traffic Act 1988 (driving instruction) has effect as if it were amended as follows.
+**16.**[^c22548301][^c-237e942fda486b02c491e11f56a979a1] Until the commencement of Schedule 6 to the Road Safety Act 2006, Part 5 of the Road Traffic Act 1988 (driving instruction) has effect as if it were amended as follows.
 
-**17.**[^c22548321][^key-ef7f59e7a71e4b3b204f3952a27947c7] (1) Section 125 (the register of approved instructors) has effect as if it were amended as follows.
+**17.**[^c22548321][^c-ef7f59e7a71e4b3b204f3952a27947c7] (1) Section 125 (the register of approved instructors) has effect as if it were amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -278,11 +278,11 @@ Section 8
 >
 > “emergency control assessment” and “emergency control certificate” mean an assessment and a certificate under section 133A.
 
-**18.**[^c22548331][^key-e4209cb7cefb34d0df76e05760deba06] Part 5 has effect as if sections 125A and 125B (registration of disabled persons and supplementary provision) were omitted.
+**18.**[^c22548331][^c-e4209cb7cefb34d0df76e05760deba06] Part 5 has effect as if sections 125A and 125B (registration of disabled persons and supplementary provision) were omitted.
 
-**19.**[^c22548341][^key-922686f71892b92664d9b05081e8795a] Section 126 (duration of registration) has effect as if subsection (4) were omitted.
+**19.**[^c22548341][^c-922686f71892b92664d9b05081e8795a] Section 126 (duration of registration) has effect as if subsection (4) were omitted.
 
-**20.**[^c22548351][^key-0a7c8794de10d4cf628535c5b38cec6c] (1) Section 127 (extension of duration of registration) has effect as if it were amended as follows.
+**20.**[^c22548351][^c-0a7c8794de10d4cf628535c5b38cec6c] (1) Section 127 (extension of duration of registration) has effect as if it were amended as follows.
 
 (2) In subsection (3)—
 
@@ -308,7 +308,7 @@ Section 8
 - (c) omit the “and” at the end of paragraph (a);
 - (d) omit paragraph (b).
 
-**21.**[^c22548361][^key-ba86906ddadf3f4807caa6c3db9afbd7] (1) Section 128 (removal of names from register) has effect as if it were amended as follows.
+**21.**[^c22548361][^c-ba86906ddadf3f4807caa6c3db9afbd7] (1) Section 128 (removal of names from register) has effect as if it were amended as follows.
 
 (2) In subsection (2)—
 
@@ -327,7 +327,7 @@ Section 8
 
 (5) Omit subsection (9).
 
-**22.**[^c22548371][^key-5a5506c01f66609721bfa6af6d26c939] (1) Section 129 (licences for giving instruction so as to obtain practical experience) has effect as if it were amended as follows.
+**22.**[^c22548371][^c-5a5506c01f66609721bfa6af6d26c939] (1) Section 129 (licences for giving instruction so as to obtain practical experience) has effect as if it were amended as follows.
 
 (2) In subsection (1), for the words from “either” to the end substitute “ such part of the examination referred to in section 125(3)(a) as consists of a practical test of ability and fitness to instruct ”.
 
@@ -358,7 +358,7 @@ Section 8
 
 (7) Omit subsections (5A) and (5B).
 
-**23.**[^c22548381][^key-945f99374c565c60560c84666e9c2566] (1) Section 130 (revocation of licence) has effect as if it were amended as follows.
+**23.**[^c22548381][^c-945f99374c565c60560c84666e9c2566] (1) Section 130 (revocation of licence) has effect as if it were amended as follows.
 
 (2) In subsection (2)—
 
@@ -372,7 +372,7 @@ Section 8
 
 (3) Omit subsection (2A).
 
-**24.**[^c22548391][^key-0c355fd52c08f2929add057c480a63e2] (1) Section 133A (assessment of ability to control a motor car in an emergency) has effect as if it were amended as follows.
+**24.**[^c22548391][^c-0c355fd52c08f2929add057c480a63e2] (1) Section 133A (assessment of ability to control a motor car in an emergency) has effect as if it were amended as follows.
 
 (2) In subsection (2)—
 
@@ -395,7 +395,7 @@ Section 8
 
 (7) In the italic cross-heading before section 133A omit “Disabled Persons:”.
 
-**25.**[^c22548401][^key-8a5bcb81eecd9629dd34208da74adeb3] (1) Section 133B (further assessments) has effect as if it were amended as follows.
+**25.**[^c22548401][^c-8a5bcb81eecd9629dd34208da74adeb3] (1) Section 133B (further assessments) has effect as if it were amended as follows.
 
 (2) Omit subsection (1).
 
@@ -422,7 +422,7 @@ Section 8
 >
 > unless the Registrar considers it appropriate for the application to be made at such earlier time as may be specified by the Registrar.
 
-**26.**[^c22548411][^key-1d344dbbfd33bc351299babb976d46b2] (1) Section 133C (duty to disclose further disability) has effect as if it were amended as follows.
+**26.**[^c22548411][^c-1d344dbbfd33bc351299babb976d46b2] (1) Section 133C (duty to disclose further disability) has effect as if it were amended as follows.
 
 (2) In subsection (1)—
 
@@ -435,7 +435,7 @@ Section 8
 
 (3) In subsection (2)(a), for “125A(3)” substitute “ 125(2A), 129(1A) ”.
 
-**27.**[^c22548421][^key-91b530c4e63cf8d18baff44e23aef273] (1) Section 133D (offences relating to giving by disabled person of paid driving instruction) has effect as if it were amended as follows.
+**27.**[^c22548421][^c-91b530c4e63cf8d18baff44e23aef273] (1) Section 133D (offences relating to giving by disabled person of paid driving instruction) has effect as if it were amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -452,7 +452,7 @@ Section 8
 
 (4) In the heading, omit “by disabled person”.
 
-**28.**[^c22548431][^key-70b0640db234b0dacced0b93f416850b] Part 5 has effect as if after section 133D there were inserted—
+**28.**[^c22548431][^c-70b0640db234b0dacced0b93f416850b] Part 5 has effect as if after section 133D there were inserted—
 
 > **133E. Direction to disregard emergency control assessment requirement**
 >
@@ -474,7 +474,7 @@ Section 8
 >
 > must be given to the person on whom the requirement was imposed.
 
-**29.**[^c22548441][^key-e9d35ef5a46f9f7d3c458538855d867a] (1) Section 142 (index to Part 5) has effect as if the index were amended as follows.
+**29.**[^c22548441][^c-e9d35ef5a46f9f7d3c458538855d867a] (1) Section 142 (index to Part 5) has effect as if the index were amended as follows.
 
 (2) Omit the following expressions and the corresponding relevant provisions—
 
@@ -490,7 +490,7 @@ Section 8
 
 #### Road Traffic (Driving Instruction by Disabled Persons) Act 1993
 
-**30.**[^c22548451][^key-39e1574441f04d3c65cede5e98ac243f] (1) The Road Traffic (Driving Instruction by Disabled Persons) Act 1993 is amended as follows.
+**30.**[^c22548451][^c-39e1574441f04d3c65cede5e98ac243f] (1) The Road Traffic (Driving Instruction by Disabled Persons) Act 1993 is amended as follows.
 
 (2) Omit section 1 (registration of disabled persons as driving instructors).
 
@@ -516,7 +516,7 @@ Section 8
 
 (4) In the entry for section 133D of the Road Traffic Act 1988, in the second column, for “disabled persons” substitute “ persons required to hold emergency control certificates ”.
 
-**32.**[^c22548471][^key-3f4ee2bc9a5345d88753a65b7cfbf92e] (1) Until the commencement of Schedule 6 to the Road Safety Act 2006, Part 1 of Schedule 2 to the Road Traffic Offenders Act 1988 (prosecution and punishment of offences: offences under the Traffic Acts) has effect as if it were amended as follows.
+**32.**[^c22548471][^c-3f4ee2bc9a5345d88753a65b7cfbf92e] (1) Until the commencement of Schedule 6 to the Road Safety Act 2006, Part 1 of Schedule 2 to the Road Traffic Offenders Act 1988 (prosecution and punishment of offences: offences under the Traffic Acts) has effect as if it were amended as follows.
 
 (2) In the entry for section 125A(4) of the Road Traffic Act 1988—
 
@@ -530,7 +530,7 @@ Section 8
 
 #### Road Safety Act 2006
 
-**33.**[^c22548481][^key-e5219ed83eaac1f3d6190cde1785b41d] In Schedule 6 to the Road Safety Act 2006, omit paragraphs 6 and 7.
+**33.**[^c22548481][^c-e5219ed83eaac1f3d6190cde1785b41d] In Schedule 6 to the Road Safety Act 2006, omit paragraphs 6 and 7.
 
 ## Annotations
 
@@ -566,70 +566,70 @@ Section 8
 
 [^c22548301]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-237e942fda486b02c491e11f56a979a1]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/16) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-237e942fda486b02c491e11f56a979a1]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/16) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548321]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-ef7f59e7a71e4b3b204f3952a27947c7]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/17) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-ef7f59e7a71e4b3b204f3952a27947c7]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/17) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548331]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-e4209cb7cefb34d0df76e05760deba06]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/18) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-e4209cb7cefb34d0df76e05760deba06]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/18) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548341]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-922686f71892b92664d9b05081e8795a]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/19) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-922686f71892b92664d9b05081e8795a]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/19) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548351]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-0a7c8794de10d4cf628535c5b38cec6c]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/20) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-0a7c8794de10d4cf628535c5b38cec6c]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/20) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548361]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-ba86906ddadf3f4807caa6c3db9afbd7]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/21) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-ba86906ddadf3f4807caa6c3db9afbd7]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/21) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548371]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-5a5506c01f66609721bfa6af6d26c939]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/22) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-5a5506c01f66609721bfa6af6d26c939]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/22) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548381]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-945f99374c565c60560c84666e9c2566]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/23) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-945f99374c565c60560c84666e9c2566]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/23) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548391]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-0c355fd52c08f2929add057c480a63e2]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/24) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-0c355fd52c08f2929add057c480a63e2]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/24) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548401]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-8a5bcb81eecd9629dd34208da74adeb3]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/25) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-8a5bcb81eecd9629dd34208da74adeb3]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/25) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548411]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-1d344dbbfd33bc351299babb976d46b2]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/26) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-1d344dbbfd33bc351299babb976d46b2]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/26) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548421]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-91b530c4e63cf8d18baff44e23aef273]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/27) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-91b530c4e63cf8d18baff44e23aef273]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/27) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548431]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-70b0640db234b0dacced0b93f416850b]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/28) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-70b0640db234b0dacced0b93f416850b]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/28) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548441]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-e9d35ef5a46f9f7d3c458538855d867a]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/29) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-e9d35ef5a46f9f7d3c458538855d867a]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/29) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548451]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-39e1574441f04d3c65cede5e98ac243f]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/30) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-39e1574441f04d3c65cede5e98ac243f]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/30) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548461]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
 [^c22548471]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-3f4ee2bc9a5345d88753a65b7cfbf92e]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/32) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-3f4ee2bc9a5345d88753a65b7cfbf92e]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/32) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
 [^c22548481]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-e5219ed83eaac1f3d6190cde1785b41d]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/33) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
+[^c-e5219ed83eaac1f3d6190cde1785b41d]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/33) in force at 8.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))

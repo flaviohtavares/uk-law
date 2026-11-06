@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Electronic invoicing: implied term[^key-6daad24015ec5e0bd534dfd11c4b724f][^key-52dae8526a4e0c5c5e09803ad778a6e8]
+## 67. Electronic invoicing: implied term[^c-6daad24015ec5e0bd534dfd11c4b724f][^c-52dae8526a4e0c5c5e09803ad778a6e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6daad24015ec5e0bd534dfd11c4b724f]: Commencement: S. 67 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-6daad24015ec5e0bd534dfd11c4b724f]: Commencement: S. 67 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-52dae8526a4e0c5c5e09803ad778a6e8]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/54/section/67) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-52dae8526a4e0c5c5e09803ad778a6e8]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/54/section/67) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

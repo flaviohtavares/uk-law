@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Short title[^key-ae15f9565cca7a31a85e3322f95953ba]
+## 87. Short title[^c-ae15f9565cca7a31a85e3322f95953ba]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Housing (Scotland) Act 2025.
 
 ## Annotations
 
-[^key-ae15f9565cca7a31a85e3322f95953ba]: Commencement: S. 87 in force at 7.11.2025, see [s. 86(1)](https://www.legislation.gov.uk/asp/2025/13/section/86/1)
+[^c-ae15f9565cca7a31a85e3322f95953ba]: Commencement: S. 87 in force at 7.11.2025, see [s. 86(1)](https://www.legislation.gov.uk/asp/2025/13/section/86/1)

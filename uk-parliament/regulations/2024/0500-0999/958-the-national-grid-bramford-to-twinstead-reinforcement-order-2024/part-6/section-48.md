@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Trees subject to Tree Preservation Orders[^key-c8f1f7bff226ae0368529fee7671a4b3]
+## 48. Trees subject to Tree Preservation Orders[^c-c8f1f7bff226ae0368529fee7671a4b3]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8f1f7bff226ae0368529fee7671a4b3]: Commencement: Art. 48 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-c8f1f7bff226ae0368529fee7671a4b3]: Commencement: Art. 48 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Consequential amendments for Part 1 of the 2008 Act[^key-aaac3a027d9dbccfb2e9615aa5ecf724]
+## 4. Consequential amendments for Part 1 of the 2008 Act[^c-aaac3a027d9dbccfb2e9615aa5ecf724]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The enactments specified in Schedule 1 to this Order have effect with the amendm
 
 ## Annotations
 
-[^key-aaac3a027d9dbccfb2e9615aa5ecf724]: Commencement: Art. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
+[^c-aaac3a027d9dbccfb2e9615aa5ecf724]: Commencement: Art. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)

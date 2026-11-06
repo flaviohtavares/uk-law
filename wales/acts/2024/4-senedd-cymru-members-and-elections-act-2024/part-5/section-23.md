@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Interpretation[^key-4c004139cd9569b4126eb539a0521211]
+## 23. Interpretation[^c-4c004139cd9569b4126eb539a0521211]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In this Act—
 
 ## Annotations
 
-[^key-4c004139cd9569b4126eb539a0521211]: Commencement: S. 23 in force at 25.6.2024, see [s. 25(1)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/c)
+[^c-4c004139cd9569b4126eb539a0521211]: Commencement: S. 23 in force at 25.6.2024, see [s. 25(1)(c)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/c)

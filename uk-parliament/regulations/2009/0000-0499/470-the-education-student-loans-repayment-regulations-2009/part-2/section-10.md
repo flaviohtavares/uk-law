@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Functions of HMRC[^key-5cc28b25e3b572fc4713ccb1740f99f3]
+## 10. Functions of HMRC[^c-5cc28b25e3b572fc4713ccb1740f99f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cc28b25e3b572fc4713ccb1740f99f3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/470/regulation/10) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-5cc28b25e3b572fc4713ccb1740f99f3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2009/470/regulation/10) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

@@ -24,7 +24,7 @@ Regulation 5
 
 ### PART 2 — INTRODUCTORY PROVISIONS
 
-**1.**[^key-ad76c1439ecffc6db24380bcdf925c17] (1) In this Schedule—
+**1.**[^c-ad76c1439ecffc6db24380bcdf925c17] (1) In this Schedule—
 
 - “the 1989 Order” means the Insolvency (Northern Ireland) Order 1989[^f00027];
 - “article 21 relief application” means an application to the court by a foreign representative under article 21(1) or (2) of the Model Law for relief;
@@ -33,8 +33,8 @@ Regulation 5
 - “file in court” and “file with the court” means deliver to the court for filing;
 - “the Gazette” means the Belfast Gazette;
 - “interim relief application” means an application to the court by a foreign representative under article 19 of the Model Law for interim relief;
-- [^key-9e7c7cfa9422be6698fdcf266407516b]...
-- [^key-9e7c7cfa9422be6698fdcf266407516b]...
+- [^c-9e7c7cfa9422be6698fdcf266407516b]...
+- [^c-9e7c7cfa9422be6698fdcf266407516b]...
 - “the Model Law” means the UNCITRAL Model Law as set out in Schedule 1;
 - “modification or termination order” means an order by the court pursuant to its powers under the Model Law modifying or terminating recognition of a foreign proceeding, the stay and suspension referred to in article 20(1) or any part of it or any relief granted under article 19 or 21 of the Model Law;
 - “originating application” means an application to the court which is not an application in pending proceedings before the court;
@@ -47,9 +47,9 @@ Regulation 5
 - “sealed” means sealed with the official seal of the Bankruptcy and Companies Office;
 - “the registrar” means the registrar of companies appointed under Article 653 of the Companies (Northern Ireland) Order 1986[^f00032] and for the purposes of this Schedule and Schedule 3, includes an assistant registrar;
 - “the Rules” means the Insolvency Rules (Northern Ireland) 1991[^f00033] and “Rule” followed by a number means the rule with that number in those Rules;
-- [^key-9e7c7cfa9422be6698fdcf266407516b]...
+- [^c-9e7c7cfa9422be6698fdcf266407516b]...
 - “Supreme Court Rules” means the Rules of the Supreme Court (Northern Ireland) 1980[^f00034]
-- [^key-9e7c7cfa9422be6698fdcf266407516b]...
+- [^c-9e7c7cfa9422be6698fdcf266407516b]...
 
 (2) Expressions defined in the Model Law have the same meaning when used in this Schedule.
 
@@ -77,11 +77,11 @@ Regulation 5
 
 #### APPLICATIONS TO COURT FOR RECOGNITION OF FOREIGN PROCEEDINGS
 
-##### 2. Affidavit in support of recognition application[^key-0f997b1d886a7c08d26fbc638eec37ee]
+##### 2. Affidavit in support of recognition application[^c-0f997b1d886a7c08d26fbc638eec37ee]
 
 A recognition application shall be in Form ML 1 and shall be supported by an affidavit sworn by the foreign representative complying with paragraph 4.
 
-##### 3. Form and content of application[^key-91c3afc5b07169302c4e16ce453b590c]
+##### 3. Form and content of application[^c-91c3afc5b07169302c4e16ce453b590c]
 
 The application shall state the following matters—
 
@@ -96,7 +96,7 @@ The application shall state the following matters—
 - (i) the address of the debtor’s centre of main interests and, if different, the address of its registered office or habitual residence, as appropriate; and
 - (j) if the debtor does not have its centre of main interests in the country where the foreign proceeding is taking place, whether the debtor has an establishment within the meaning of article 2(c) of the Model Law in that country, and if so, its address.
 
-##### 4. Contents of affidavit in support[^key-3e0d1be7257861fc19d4513a5adc97ab]
+##### 4. Contents of affidavit in support[^c-3e0d1be7257861fc19d4513a5adc97ab]
 
 (1) There shall be attached to the application an affidavit in support which shall contain or have exhibited to it—
 
@@ -105,13 +105,13 @@ The application shall state the following matters—
 - (c) evidence that the debtor has its centre of main interests or an establishment, as the case may be, within the country where the foreign proceeding is taking place; and
 - (d) any other matters which in the opinion of the applicant will assist the court in deciding whether to make a recognition order.
 
-(2)[^key-02e6d0ac8b2cd11fc4680c9cb49ccb6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-02e6d0ac8b2cd11fc4680c9cb49ccb6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The affidavit shall also have exhibited to it the translations required under article 15(4) of the Model Law and a translation in English of any other document exhibited to the affidavit which is in a language other than English.
 
 (4) All translations referred to in sub-paragraph (3) must be certified by the translator as a correct translation.
 
-##### 5. The hearing and powers of court[^key-a5f676dee477098c9972d2445dbb816f]
+##### 5. The hearing and powers of court[^c-a5f676dee477098c9972d2445dbb816f]
 
 (1) On hearing a recognition application the court may in addition to its powers under the Model Law to make a recognition order—
 
@@ -121,14 +121,14 @@ The application shall state the following matters—
 
 (2) If the court makes a recognition order, it shall be in Form ML 2.
 
-##### 6. Notification of subsequent information[^key-2bb7cad3c573a60a230ae490f0a6a2c0]
+##### 6. Notification of subsequent information[^c-2bb7cad3c573a60a230ae490f0a6a2c0]
 
 (1) The foreign representative shall set out any subsequent information required to be given to the court under article 18 of the Model Law in a statement which he shall attach to Form ML 3 and file with the court.
 
 (2) The statement shall include—
 
-- (a) details of the information required to be given under article 18 of the Model Law; [^key-920913e7fb633f89f40398b7579e89dc]...
-- (b)[^key-920913e7fb633f89f40398b7579e89dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) details of the information required to be given under article 18 of the Model Law; [^c-920913e7fb633f89f40398b7579e89dc]...
+- (b)[^c-920913e7fb633f89f40398b7579e89dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The foreign representative shall send a copy of the Form ML 3 and attached statement filed with the court to the following—
 
@@ -139,7 +139,7 @@ The application shall state the following matters—
 
 #### APPLICATION FOR RELIEF UNDER THE MODEL LAW
 
-##### 7. Application for interim relief—affidavit in support[^key-508e1e323903c7c39e89abc1bac6726a]
+##### 7. Application for interim relief—affidavit in support[^c-508e1e323903c7c39e89abc1bac6726a]
 
 (1) An interim relief application must be supported by an affidavit sworn by the foreign representative stating—
 
@@ -151,11 +151,11 @@ The application shall state the following matters—
 - (f) whether, to the best of the foreign representative’s knowledge and belief, the grant of any of the relief applied for would interfere with the administration of a foreign main proceeding; and
 - (g) all other matters that in the opinion of the foreign representative will assist the court in deciding whether or not it is appropriate to grant the relief applied for.
 
-##### 8. Service of interim relief application not required[^key-6b4d39c28a8a2351c5f9bcf2835e2786]
+##### 8. Service of interim relief application not required[^c-6b4d39c28a8a2351c5f9bcf2835e2786]
 
 Unless the court otherwise directs, it shall not be necessary to serve the interim relief application on, or give notice of it to, any person.
 
-##### 9. The hearing and powers of court[^key-2ab88ff088c155fc9068af7ef510203a]
+##### 9. The hearing and powers of court[^c-2ab88ff088c155fc9068af7ef510203a]
 
 On hearing an interim relief application the court may in addition to its powers under the Model Law to make an order granting interim relief under article 19 of the Model Law—
 
@@ -163,7 +163,7 @@ On hearing an interim relief application the court may in addition to its powers
 - (b) adjourn the hearing conditionally or unconditionally;
 - (c) make any other order which the court thinks appropriate.
 
-##### 10. Application for relief under article 21 of the Model Law—affidavit in support[^key-f5beedd2c2f1dccf9684387a645beccc]
+##### 10. Application for relief under article 21 of the Model Law—affidavit in support[^c-f5beedd2c2f1dccf9684387a645beccc]
 
 An article 21 relief application must be supported by an affidavit sworn by the foreign representative stating—
 
@@ -173,7 +173,7 @@ An article 21 relief application must be supported by an affidavit sworn by the 
 - (d) whether, to the best of the knowledge and belief of the foreign representative, the interests of the debtor’s creditors (including any secured creditors or parties to hire-purchase agreements) and any other interested parties, including if appropriate the debtor, will be adequately protected; and
 - (e) all other matters that in the opinion of the foreign representative will assist the court in deciding whether or not it is appropriate to grant the relief applied for.
 
-##### 11. The hearing and powers of court[^key-8674e07e83ae6ab32c970646bcdeca5e]
+##### 11. The hearing and powers of court[^c-8674e07e83ae6ab32c970646bcdeca5e]
 
 On hearing an article 21 relief application the court may in addition to its powers under the Model Law to make an order granting relief under article 21 of the Model Law—
 
@@ -185,7 +185,7 @@ On hearing an article 21 relief application the court may in addition to its pow
 
 #### REPLACEMENT OF FOREIGN REPRESENTATIVE
 
-##### 12. Application for confirmation of status of replacement foreign representative[^key-ae6ba395a01163ef19779e1a481b7e72]
+##### 12. Application for confirmation of status of replacement foreign representative[^c-ae6ba395a01163ef19779e1a481b7e72]
 
 (1) This paragraph applies where following the making of a recognition order the foreign representative dies or for any other reason ceases to be the foreign representative in the foreign proceeding in relation to the debtor.
 
@@ -193,7 +193,7 @@ On hearing an article 21 relief application the court may in addition to its pow
 
 (3) If a person has succeeded the former representative or is otherwise holding office as foreign representative in the foreign proceeding in relation to the debtor, that person may apply to the court for an order confirming his status as replacement foreign representative for the purpose of proceedings under these Regulations.
 
-##### 13. Contents of application and affidavit in support[^key-76024ed4bd2608efd17c71309dc300a7]
+##### 13. Contents of application and affidavit in support[^c-76024ed4bd2608efd17c71309dc300a7]
 
 (1) An application under paragraph 12(3) shall in addition to the matters required to be stated by paragraph 19(2) state the following matters—
 
@@ -211,7 +211,7 @@ On hearing an article 21 relief application the court may in addition to its pow
 
 (3) All translations referred to in paragraph (c) must be certified by the translator as a correct translation.
 
-##### 14. The hearing and powers of court[^key-097643e758552a2a01a3f533df18007f]
+##### 14. The hearing and powers of court[^c-097643e758552a2a01a3f533df18007f]
 
 (1) On hearing an application under paragraph 12(3) the court may—
 
@@ -230,7 +230,7 @@ On hearing an article 21 relief application the court may in addition to its pow
 
 #### REVIEWS OF COURT ORDERS
 
-##### 15. Reviews of court orders—where court makes order of its own motion[^key-8db5a70a59051e12310e07b9ee3510f2]
+##### 15. Reviews of court orders—where court makes order of its own motion[^c-8db5a70a59051e12310e07b9ee3510f2]
 
 (1) The court shall not of its own motion make a modification or termination order unless the foreign representative and the debtor have either—
 
@@ -243,7 +243,7 @@ On hearing an article 21 relief application the court may in addition to its pow
 
 (4) If the court makes a modification or termination order, the order may include such provision as the court thinks fit with respect to matters arising in connection with the modification or termination.
 
-##### 16. Review application—affidavit in support[^key-210fb5dacbedc082a991d3fd5a1d8219]
+##### 16. Review application—affidavit in support[^c-210fb5dacbedc082a991d3fd5a1d8219]
 
 A review application must be supported by an affidavit sworn by the applicant stating—
 
@@ -251,7 +251,7 @@ A review application must be supported by an affidavit sworn by the applicant st
 - (b) whether, to the best of the knowledge and belief of the applicant, the interests of the debtor’s creditors (including any secured creditors or parties to hire-purchase agreements) and any other interested parties, including if appropriate the debtor, will be adequately protected; and
 - (c) all other matters that in the opinion of the applicant will assist the court in deciding whether or not it is appropriate to grant the relief applied for.
 
-##### 17. Hearing of review application and powers of the court[^key-95389fd36a38c506152d5585b165dd0a]
+##### 17. Hearing of review application and powers of the court[^c-95389fd36a38c506152d5585b165dd0a]
 
 On hearing a review application, the court may in addition to its powers under the Model Law to make a modification or termination order—
 
@@ -264,7 +264,7 @@ On hearing a review application, the court may in addition to its powers under t
 
 #### COURT PROCEDURE AND PRACTICE WITH REGARD TO PRINCIPAL APPLICATION AND ORDERS
 
-##### 18. Preliminary and interpretation[^key-d76d35d94da9db06bb55e440a620a48c]
+##### 18. Preliminary and interpretation[^c-d76d35d94da9db06bb55e440a620a48c]
 
 (1) This Part applies to—
 
@@ -280,7 +280,7 @@ On hearing a review application, the court may in addition to its powers under t
   - (iv) an order confirming the status of a replacement foreign representative; and
   - (v) a modification or termination order.
 
-##### 19. Form and contents of application[^key-da947b8385619df986cb27fadd63ec0d]
+##### 19. Form and contents of application[^c-da947b8385619df986cb27fadd63ec0d]
 
 (1) Subject to sub-paragraph (4) every application to which this Part applies shall be an ordinary application and shall be in Form ML 5.
 
@@ -296,7 +296,7 @@ On hearing a review application, the court may in addition to its powers under t
 
 (4) This paragraph does not apply to a recognition application.
 
-##### 20. Filing of application[^key-65c021df8be9d5b1ebdd80f88a5675c2]
+##### 20. Filing of application[^c-65c021df8be9d5b1ebdd80f88a5675c2]
 
 (1) The application (and all supporting documents) shall be filed with the court, with a sufficient number of copies for service and use as provided by paragraph 21(2).
 
@@ -304,7 +304,7 @@ On hearing a review application, the court may in addition to its powers under t
 
 (3) The court shall fix a venue for the hearing of the application and this also shall be endorsed on each copy of the application issued under sub-paragraph (2).
 
-##### 21. Service of the application[^key-7645ead6c303a6b354005c68cccab374]
+##### 21. Service of the application[^c-7645ead6c303a6b354005c68cccab374]
 
 (1) In sub-paragraph (2), references to the application are to a sealed copy of the application issued by the court together with any affidavit in support of it and any documents exhibited to the affidavit.
 
@@ -314,13 +314,13 @@ On hearing a review application, the court may in addition to its powers under t
 - (b) on the debtor;
 - (c) if a Northern Ireland insolvency officeholder is acting in relation to the debtor, on him;
 - (d) if any person has been appointed an administrative receiver of the debtor or, to the knowledge of the foreign representative, as a receiver or manager of the property of the debtor in Northern Ireland, on him;
-- (e)[^key-337e3c2a8d45ac71133f5c9ca9b54351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-337e3c2a8d45ac71133f5c9ca9b54351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) if to the knowledge of the foreign representative a foreign representative has been appointed in any other foreign proceeding regarding the debtor, on him;
 - (g) if there is pending in Northern Ireland a petition for the winding up or bankruptcy of the debtor, on the petitioner;
 - (h) on any person who to the knowledge of the foreign representative is or may be entitled to appoint an administrator of the debtor under paragraph 15 of Schedule B1 to the 1989 Order[^f00036] (appointment of administrator by holder of qualifying floating charge); and
 - (i) if the debtor is a debtor who is of interest to the Financial Services Authority, on that Authority.
 
-##### 22. Manner in which service to be effected[^key-3a8903483768ceff594af720dab9dd03]
+##### 22. Manner in which service to be effected[^c-3a8903483768ceff594af720dab9dd03]
 
 (1) Service of the application in accordance with paragraph 21(2) shall be effected by the applicant, or his solicitor, or by a person instructed by him or his solicitor, not less than 5 business days before the date fixed for the hearing.
 
@@ -335,13 +335,13 @@ On hearing a review application, the court may in addition to its powers under t
 
 (5) Delivery of documents to any place or address may be made by leaving them there or sending them by first class post in accordance with the provisions of paragraphs 65 and 70(1).
 
-##### 23. Proof of service[^key-2aff4593c58b3c634f5fa3f7ed19f7ad]
+##### 23. Proof of service[^c-2aff4593c58b3c634f5fa3f7ed19f7ad]
 
 (1) Service of the application shall be verified by an affidavit of service in Form ML 6, specifying the date on which, and the manner in which, service was effected.
 
 (2) The affidavit of service, with a sealed copy of the application exhibited to it, shall be filed with the court as soon as reasonably practicable after service, and in any event not less than 1 business day before the hearing of the application.
 
-##### 24. In case of urgency[^key-577d37e10f0b5d73f36b2d2fea8e21f8]
+##### 24. In case of urgency[^c-577d37e10f0b5d73f36b2d2fea8e21f8]
 
 Where the case is one of urgency, the court may (without prejudice to its general power to extend or abridge time limits)—
 
@@ -350,7 +350,7 @@ Where the case is one of urgency, the court may (without prejudice to its genera
 
 and any such application may be heard on terms providing for the filing or service of documents, or the carrying out of other formalities, as the court thinks fit.
 
-##### 25. The hearing[^key-4351fde01776f65321494b2f68f77ae4]
+##### 25. The hearing[^c-4351fde01776f65321494b2f68f77ae4]
 
 (1) At the hearing of the application, the applicant and any of the following persons (not being the applicant) may appear or be represented—
 
@@ -360,14 +360,14 @@ and any such application may be heard on terms providing for the filing or servi
   - (ii) in the case of a debtor which is a partnership, any person who is an officer of the partnership within the meaning of Article 2 of the Insolvent Partnerships Order (Northern Ireland)1995[^f00038];
 - (c) if a Northern Ireland insolvency officeholder is acting in relation to the debtor, that person;
 - (d) if any person has been appointed an administrative receiver of the debtor or as a receiver or manager of the property of the debtor in Northern Ireland, that person;
-- (e)[^key-d5bf08728535726b6f13b7125094781e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-d5bf08728535726b6f13b7125094781e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) if a foreign representative has been appointed in any other foreign proceeding regarding the debtor, that person;
 - (g) any person who has presented a petition for the winding up or bankruptcy of the debtor in Northern Ireland;
 - (h) any person who is or may be entitled to appoint an administrator of the debtor under paragraph 15 of Schedule B1 to the 1989 Order (appointment of administrator by holder of qualifying floating charge);
 - (i) if the debtor is a debtor who is of interest to the Financial Services Authority, that Authority; and
 - (j) with the permission of the court, any other person who appears to have an interest justifying his appearance.
 
-##### 26. Notification and advertisement of order[^key-cb3b82fdbd0e575579d7edb97f75e180]
+##### 26. Notification and advertisement of order[^c-cb3b82fdbd0e575579d7edb97f75e180]
 
 (1) If the court makes any of the orders referred to in paragraph 18(1)(b), it shall as soon as reasonably practicable send two sealed copies of the order to the foreign representative.
 
@@ -377,7 +377,7 @@ and any such application may be heard on terms providing for the filing or servi
 
 - (a) if a Northern Ireland insolvency officeholder is acting in relation to the debtor, to him;
 - (b) if any person has been appointed an administrative receiver of the debtor or, to the knowledge of the foreign representative, as a receiver or manager of the property of the debtor, to him;
-- (c)[^key-3b01ffb71dcfefea8f7e2505d6e850ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3b01ffb71dcfefea8f7e2505d6e850ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) if to his knowledge a foreign representative has been appointed in any other foreign proceeding regarding the debtor, that person;
 - (e) if there is pending in Northern Ireland a petition for the winding up or bankruptcy of the debtor, to the petitioner;
 - (f) to any person who to his knowledge is or may be entitled to appoint an administrator of the debtor under paragraph 15 of Schedule B1 to the 1989 Order (appointment of administrator by holder of qualifying floating charge);
@@ -401,7 +401,7 @@ and any such application may be heard on terms providing for the filing or servi
 
 and the advertisement shall be in Form ML 8.
 
-##### 27. Adjournment of hearing; directions[^key-2abf9622458bfef8360fe553ea2a4fd5]
+##### 27. Adjournment of hearing; directions[^c-2abf9622458bfef8360fe553ea2a4fd5]
 
 (1) This paragraph applies in any case where the court exercises its powers to adjourn the hearing of the application.
 
@@ -418,7 +418,7 @@ and the advertisement shall be in Form ML 8.
 
 #### UNREGISTERED AND REGISTERED LAND
 
-##### 28. Registration of court order[^key-60f3f0e8d887779829ac1529f909e8b6]
+##### 28. Registration of court order[^c-60f3f0e8d887779829ac1529f909e8b6]
 
 (1) Where the court makes a recognition order in respect of a foreign main proceeding or an order suspending the right to transfer, encumber or otherwise dispose of any assets of the debtor being unregistered land, the Master shall certify one copy of the order in fulfilment of the requirement under section 2(3)(a) of the Registration of Deeds Act (Northern Ireland) 1970[^f00039]. The court shall forthwith send the certified copy of the order along with one uncertified copy to the Registry of Deeds to be registered under section 2(3) of the Registration of Deeds Act (Northern Ireland) 1970.
 
@@ -437,7 +437,7 @@ and the advertisement shall be in Form ML 8.
 
 #### MISFEASANCE
 
-##### 29. Misfeasance by foreign representative[^key-f0d19d5123800be7633fde49918373be]
+##### 29. Misfeasance by foreign representative[^c-f0d19d5123800be7633fde49918373be]
 
 (1) The court may examine the conduct of a person who—
 
@@ -469,15 +469,15 @@ and the advertisement shall be in Form ML 8.
 
 #### GENERAL PROVISION AS TO COURT PROCEDURE AND PRACTICE
 
-##### 30. Principal court rules and practice to apply with modifications[^key-8a2d3d7a47bee9ef900a37466043aff4]
+##### 30. Principal court rules and practice to apply with modifications[^c-8a2d3d7a47bee9ef900a37466043aff4]
 
 The Supreme Court Rules and the practice of the High Court shall apply to proceedings under these Regulations with such modifications as may be necessary for the purpose of giving effect to the provisions of these Regulations.
 
-##### 31. Applications other than the principal applications—preliminary[^key-4764342e0bade617f8779147bddf0c33]
+##### 31. Applications other than the principal applications—preliminary[^c-4764342e0bade617f8779147bddf0c33]
 
 Paragraphs 32 to 37 apply to any application made to the court under these Regulations, except any of the applications referred to in paragraph 18(1)(a).
 
-##### 32. Form and contents of application[^key-eeccccd7cb50dd20983797522d187fc2]
+##### 32. Form and contents of application[^c-eeccccd7cb50dd20983797522d187fc2]
 
 (1) Every application shall be in the form appropriate to the application concerned. Forms ML 4 and ML 5 shall be used for an originating application and an ordinary application respectively under these Regulations.
 
@@ -493,7 +493,7 @@ Paragraphs 32 to 37 apply to any application made to the court under these Regul
 
 (4) The application must be signed by the applicant if he is acting in person or, when he is not so acting, by or on behalf of his solicitor.
 
-##### 33. Filing and service of application[^key-0f553c6181aa1dfc26b0d53b11dacd85]
+##### 33. Filing and service of application[^c-0f553c6181aa1dfc26b0d53b11dacd85]
 
 (1) The application shall be filed in court, accompanied by one copy and a number of additional copies equal to the number of persons who are to be served with the application.
 
@@ -516,7 +516,7 @@ Paragraphs 32 to 37 apply to any application made to the court under these Regul
 
 and any such application may be heard on terms providing for the filing or service of documents, or the carrying out of other formalities, as the court thinks fit.
 
-##### 34. Other hearings ex parte[^key-c35745b6bb38a0614c0a304d4a8be25f]
+##### 34. Other hearings ex parte[^c-c35745b6bb38a0614c0a304d4a8be25f]
 
 (1) Where the relevant provisions of these Regulations do not require service of the application on, or notice of it to be given to, any person, the court may hear the application *ex parte*.
 
@@ -524,24 +524,24 @@ and any such application may be heard on terms providing for the filing or servi
 
 (3) Alternatively, the court may fix a venue for the application to be heard, in which case paragraph 33 applies (so far as relevant).
 
-##### 35. Use of affidavit evidence[^key-7cfb67e6112da3290d2f64bcd0863cee]
+##### 35. Use of affidavit evidence[^c-7cfb67e6112da3290d2f64bcd0863cee]
 
 (1) In any proceedings evidence may be given by affidavit unless the court otherwise directs; but the court may, on the application of any party, order the attendance for cross-examination of the person making the affidavit.
 
 (2) Where, after such an order has been made, the person in question does not attend, his affidavit shall not be used in evidence without the permission of the court.
 
-##### 36. Filing and service of affidavits[^key-6d1e030b14715e520b86a0f4d7a7cf46]
+##### 36. Filing and service of affidavits[^c-6d1e030b14715e520b86a0f4d7a7cf46]
 
 (1) Unless the court otherwise allows—
 
 - (a) if the applicant intends to rely at the first hearing on affidavit evidence, he shall file the affidavit or affidavits (if more than one) in court and serve a copy or copies on the respondent, not less than 10 business days before the date fixed for the hearing; and
 - (b) where a respondent to an application intends to oppose it and to rely for that purpose on affidavit evidence, he shall file the affidavit or affidavits (if more than one) in court and serve a copy or copies on the applicant, not less than 5 business days before the date fixed for the hearing.
 
-##### 37. Adjournment of hearings; directions[^key-bde3b191e1ceb965b3320648567c1ac4]
+##### 37. Adjournment of hearings; directions[^c-bde3b191e1ceb965b3320648567c1ac4]
 
 The court may adjourn the hearing of an application on such terms (if any) as it thinks fit and in the case of such an adjournment paragraph 27(2) shall apply.
 
-##### 38. Shorthand writers[^key-edc1e76bd072915982d9bb033278214c]
+##### 38. Shorthand writers[^c-edc1e76bd072915982d9bb033278214c]
 
 (1) The Judge may in writing nominate one or more persons to be official shorthand writers to the court.
 
@@ -551,11 +551,11 @@ The court may adjourn the hearing of an application on such terms (if any) as it
 
 (4) Any question arising as to the rates of remuneration payable under this paragraph shall be determined by the court in its discretion.
 
-##### 39. Enforcement procedures[^key-fbbda0e821f19b1b77ed6216245684aa]
+##### 39. Enforcement procedures[^c-fbbda0e821f19b1b77ed6216245684aa]
 
 In any proceedings under these Regulations, orders of the court may be enforced in the same manner as a judgment to the same effect.
 
-##### 40. Title of proceedings[^key-0e1ceb6a0f560410172f6495c664d980]
+##### 40. Title of proceedings[^c-0e1ceb6a0f560410172f6495c664d980]
 
 (1) Every proceeding under these Regulations shall be headed and, with any necessary additions, be intituled,
 
@@ -565,11 +565,11 @@ In any proceedings under these Regulations, orders of the court may be enforced 
 
 (2) Sub-paragraph (1) shall not apply in respect of any form prescribed under these Regulations.
 
-##### 41. Court records[^key-76cd9e7cee3e411cf61c1d3204a5b446]
+##### 41. Court records[^c-76cd9e7cee3e411cf61c1d3204a5b446]
 
 The court shall keep records of all proceedings under these Regulations, and shall cause to be entered in the records the taking of any step in the proceedings, and such decisions of the court in relation thereto, as the court thinks fit.
 
-##### 42. Inspection of records[^key-8369780d8184baefe3622d9563767c6a]
+##### 42. Inspection of records[^c-8369780d8184baefe3622d9563767c6a]
 
 (1) Subject to sub-paragraph (2), the court’s records of proceedings under these Regulations shall be open to inspection by any person.
 
@@ -577,13 +577,13 @@ The court shall keep records of all proceedings under these Regulations, and sha
 
 (3) The decision of the Judge under sub-paragraph (2) is final.
 
-##### 43. File of court proceedings[^key-09dd644877c9c1ca28ed3bc1eb58d9cc]
+##### 43. File of court proceedings[^c-09dd644877c9c1ca28ed3bc1eb58d9cc]
 
 (1) In respect of all proceedings under these Regulations, the court shall open and maintain a file for each case; and (subject to directions of the Master) all documents relating to such proceedings shall be placed on the relevant file.
 
 (2) No proceedings under these Regulations shall be filed in the Central Office of the Supreme Court.
 
-##### 44. Right to inspect the file[^key-1b401691fd9421dac3be5ed1481c8959]
+##### 44. Right to inspect the file[^c-1b401691fd9421dac3be5ed1481c8959]
 
 (1) In the case of any proceedings under these Regulations, the following have the right, at all reasonable times, to inspect the court’s file of the proceedings—
 
@@ -592,7 +592,7 @@ The court shall keep records of all proceedings under these Regulations, and sha
 - (c) if a foreign representative has been appointed in any other foreign proceeding regarding the debtor to which the proceedings under these Regulations relate, that person;
 - (d) if a Northern Ireland insolvency officeholder is acting in relation to the debtor to which the proceedings under these Regulations relate, that person;
 - (e) any person stating himself in writing to be a creditor of the debtor to which the proceedings under these Regulations relate;
-- (f)[^key-e52bc3d5b815ee2b983d7d760842b1ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-e52bc3d5b815ee2b983d7d760842b1ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the debtor to which the proceedings under these Regulations relate, or, if that debtor is a company, corporation or partnership, every person who is, or at any time has been—
   - (i) a director or officer of the debtor;
   - (ii) a member of the debtor; or
@@ -612,13 +612,13 @@ The court shall keep records of all proceedings under these Regulations, and sha
 
 (8) Where these Regulations confer a right for any person to inspect documents on the court’s file of proceedings, the right includes that of taking copies of those documents on payment of the fee chargeable under any order made under section 116 of the Judicature (Northern Ireland) Act 1978[^f00042].
 
-##### 45. Copies of court orders[^key-2aaa40f7828e3d563b143bbdec53b586]
+##### 45. Copies of court orders[^c-2aaa40f7828e3d563b143bbdec53b586]
 
 (1) In any proceedings under these Regulations, any person who under paragraph 44 has a right to inspect documents on the court file also has the right to require the foreign representative in relation to those proceedings to furnish him with a copy of any court order in the proceedings.
 
 (2) Sub-paragraph (1) does not apply if a copy of the court order has been served on that person or notice of the making of the order has been given to that person under other provisions of these Regulations.
 
-##### 46. Filing of Gazette notices and advertisements[^key-5ca15077f9a74b9969b95709d12bf084]
+##### 46. Filing of Gazette notices and advertisements[^c-5ca15077f9a74b9969b95709d12bf084]
 
 (1) Where there appears in an advertisement relating to proceedings under these Regulations, the person inserting the advertisement shall file a copy of it in the court and the copy shall be accompanied by, or have endorsed on it, such particulars as are necessary to identify the proceedings and the date of the advertisement’s appearance.
 
@@ -626,7 +626,7 @@ The court shall keep records of all proceedings under these Regulations, and sha
 
 (3) The Officer’s memorandum is prima facie evidence that any notice or advertisement mentioned in it was duly inserted in the issue of the newspaper or the Gazette which is specified in the memorandum.
 
-##### 47. Persons incapable of managing their affairs—introductory[^key-9cdfc5e3bb7aff6c3aed1c8b638f2cd1]
+##### 47. Persons incapable of managing their affairs—introductory[^c-9cdfc5e3bb7aff6c3aed1c8b638f2cd1]
 
 (1) Paragraphs 48 to 50 apply where in proceedings under these Regulations it appears to the court that a person affected by the proceedings is one who in incapable of managing and administering his property and affairs either—
 
@@ -635,7 +635,7 @@ The court shall keep records of all proceedings under these Regulations, and sha
 
 (2) The person concerned is referred to as “the incapacitated person”.
 
-##### 48. Appointment of another person to act[^key-901c2933514fc4272fad1a6715d00910]
+##### 48. Appointment of another person to act[^c-901c2933514fc4272fad1a6715d00910]
 
 (1) The court may appoint such person as it thinks fit to appear for, represent or act for the incapacitated person.
 
@@ -649,21 +649,21 @@ The court shall keep records of all proceedings under these Regulations, and sha
 
 (4) Application under sub-paragraph (3) may be made *ex parte*; but the court may require such notice of the application as it thinks necessary to be given to the person alleged to be incapacitated, or any other person, and may adjourn the hearing of the application to enable the notice to be given.
 
-##### 49. Affidavit in support of application[^key-2d03b56b3ae5b4741bd3887a89fdae0e]
+##### 49. Affidavit in support of application[^c-2d03b56b3ae5b4741bd3887a89fdae0e]
 
 (1) An application under paragraph 48(3) shall subject to paragraph (2), be supported by an affidavit of a registered medical practitioner as to the mental or physical condition of the incapacitated person.
 
 (2) The affidavit of a registered medical practitioner shall not be required where the incapacitated person is a patient within the meaning of the Mental Health (Northern Ireland) Order 1986.
 
-##### 50. Service of notices following appointment[^key-b2227b6e8e37f018942703dd681d6dec]
+##### 50. Service of notices following appointment[^c-b2227b6e8e37f018942703dd681d6dec]
 
 Any notice served on, or sent to, a person appointed under paragraph 48 has the same effect as if it had been served on, or given to, the incapacitated person.
 
-##### 51. Rights of audience[^key-41187c05ab045c9a7604e4e291aa3643]
+##### 51. Rights of audience[^c-41187c05ab045c9a7604e4e291aa3643]
 
 Rights of audience in proceedings under these Regulations are the same as obtain in proceedings under Northern Ireland insolvency law.
 
-##### 52. Right of attendance[^key-7439942bb06c51cd16c4ae2a37128d47]
+##### 52. Right of attendance[^c-7439942bb06c51cd16c4ae2a37128d47]
 
 (1) Subject to sub-paragraphs (2) to (7), in proceedings under these Regulations, any person stating himself in writing, in records kept by the court for that purpose, to be a creditor of the debtor to which the proceedings relate, is entitled at his own cost, to attend in court or in chambers at any stage of the proceedings.
 
@@ -679,29 +679,29 @@ Rights of audience in proceedings under these Regulations are the same as obtain
 
 (7) If two or more persons are appointed under sub-paragraph (6) to represent the same interest, they must (if at all) instruct the same solicitor.
 
-##### 53. Right of attendance for member State liquidator[^key-c057026c45323bf398a101c3b7767085]
+##### 53. Right of attendance for member State liquidator[^c-c057026c45323bf398a101c3b7767085]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 54. Northern Ireland insolvency officeholder’s solicitor[^key-1771c3148a9db988dd29cbe51e46c047]
+##### 54. Northern Ireland insolvency officeholder’s solicitor[^c-1771c3148a9db988dd29cbe51e46c047]
 
 Where in any proceedings the attendance of the Northern Ireland insolvency officeholder’s solicitor is required, whether in court or in chambers, the Northern Ireland insolvency officeholder himself need not attend, unless directed by the court.
 
-##### 55. Formal defects[^key-d4171eef08047e97224da9dc295af80f]
+##### 55. Formal defects[^c-d4171eef08047e97224da9dc295af80f]
 
 No proceedings under these Regulations shall be invalidated by any formal defect or by any irregularity, unless the court before which objection is made considers that substantial injustice has been caused by the defect or irregularity, and that the injustice cannot be remedied by any order of the court.
 
-##### 56. Restriction on concurrent proceedings and remedies[^key-f2aa96584592718d7e564c5064580a30]
+##### 56. Restriction on concurrent proceedings and remedies[^c-f2aa96584592718d7e564c5064580a30]
 
 Where in proceedings under these Regulations the court makes an order staying any action, execution or other legal process against the property of a debtor, service of the order may be effected by sending a sealed copy of the order to whatever is the address for service of the claimant or other party having the carriage of the proceedings to be stayed.
 
-##### 57. Affidavits[^key-b5329970ca16de025eab7220b11300a0]
+##### 57. Affidavits[^c-b5329970ca16de025eab7220b11300a0]
 
 (1) Where in proceedings under these Regulations, an affidavit is made by any Northern Ireland insolvency officeholder acting in relation to the debtor, he shall state the capacity in which he makes it, the position which he holds and the address at which he works.
 
 (2) Any officer of the court duly authorised in that behalf, may take affidavits and declarations.
 
-##### 58. Security in court[^key-1179d3abd859f98151d1e6861bc75784]
+##### 58. Security in court[^c-1179d3abd859f98151d1e6861bc75784]
 
 (1) Subject to sub-paragraph (3), where security has to be given to the court (otherwise than in relation to costs) it shall be given by bond.
 
@@ -711,13 +711,13 @@ Where in proceedings under these Regulations the court makes an order staying an
 
 (4) Upon the lodgement the Master shall forthwith notify the persons for whose protection the security is given that the money has been lodged in court.
 
-##### 59. Further information and disclosure[^key-2e838d5d5b4e84a631059f039dd2f340]
+##### 59. Further information and disclosure[^c-2e838d5d5b4e84a631059f039dd2f340]
 
 (1) Any party to proceedings under these Regulations may, with the leave of the court, administer interrogatories to, or obtain discovery from any other party to those proceedings.
 
 (2) Applications under this paragraph may be made without notice being served on any other party.
 
-##### 60. Office copies of documents[^key-ed3b81c60cc913134e0e9480c9e6383d]
+##### 60. Office copies of documents[^c-ed3b81c60cc913134e0e9480c9e6383d]
 
 (1) Any person who has under these Regulations the right to inspect the court file of proceedings may require the court to provide him with an office copy of any document from the file.
 
@@ -729,7 +729,7 @@ Where in proceedings under these Regulations the court makes an order staying an
 
 #### COSTS AND DETAILED ASSESSMENT
 
-##### 61. Requirement to assess costs by the detailed procedure[^key-8d50421e986117bc79ce1a0682086c6b]
+##### 61. Requirement to assess costs by the detailed procedure[^c-8d50421e986117bc79ce1a0682086c6b]
 
 In any proceedings before the court, the court may order costs to be taxed.
 
@@ -737,13 +737,13 @@ In any proceedings before the court, the court may order costs to be taxed.
 
 #### APPEALS IN PROCEEDINGS UNDER THESE REGULATIONS
 
-##### 62. Appeals from court orders[^key-fad4d45c713f0c6664989bf69bbae2e1]
+##### 62. Appeals from court orders[^c-fad4d45c713f0c6664989bf69bbae2e1]
 
 (1) An order or decision of the Master in proceedings under these Regulations may be reviewed by an appeal to the Judge and an appeal from the decision of the Judge on such an appeal lies, with the permission of the Court of Appeal, to the Court of Appeal.
 
 (2) An appeal from the decision of the Judge in proceedings under these Regulations which is not a decision on an appeal made to him under sub-paragraph (1) lies, with the permission of the Judge or the Court of Appeal, to the Court of Appeal.
 
-##### 63. Procedure on appeals[^key-5ea56f266baa7641ee7f4da34557fc5c]
+##### 63. Procedure on appeals[^c-5ea56f266baa7641ee7f4da34557fc5c]
 
 (1) Order 58, rule 1(2) to (4) of the Supreme Court Rules applies to an appeal to the Judge under paragraph 62(1), with the substitution in paragraph (3) of the words “28 days” for the words “5 days” and the words “7 days” for the words “2 clear days”.
 
@@ -767,7 +767,7 @@ In any proceedings before the court, the court may order costs to be taxed.
 
 #### GENERAL
 
-##### 64. Notices[^key-9db491c34ea1e05c0e5f4b658ff57ea7]
+##### 64. Notices[^c-9db491c34ea1e05c0e5f4b658ff57ea7]
 
 (1) All notices required or authorised by or under these Regulations to be given must be in writing, unless it is otherwise provided, or the court allows the notice to be given in some other way.
 
@@ -775,7 +775,7 @@ In any proceedings before the court, the court may order costs to be taxed.
 
 (3) A certificate under this paragraph may be endorsed on a copy or specimen of the notice to which it relates.
 
-##### 65. “Give notice” etc[^key-f5015578e984542dfc5670a881cf30c5]
+##### 65. “Give notice” etc[^c-f5015578e984542dfc5670a881cf30c5]
 
 (1) A reference in these Regulations to giving notice, or to delivering, sending or serving any document, means that the notice or document may be sent by post.
 
@@ -785,25 +785,25 @@ In any proceedings before the court, the court may order costs to be taxed.
 
 (4) Notice of the venue fixed for an application may be given by service of the sealed copy of the application under paragraph 33(3).
 
-##### 66. Notice, etc. to solicitors[^key-fe09540e13b5e5d612f79108e5c093bd]
+##### 66. Notice, etc. to solicitors[^c-fe09540e13b5e5d612f79108e5c093bd]
 
 Where in proceedings under these Regulations a notice or other document is required or authorised to be given to a person, it may, if he has indicated that his solicitor is authorised to accept service on his behalf, be given instead to the solicitor.
 
-##### 67. Notice to joint Northern Ireland insolvency officeholders[^key-110020aab82f62fb6c9f5bb61b924082]
+##### 67. Notice to joint Northern Ireland insolvency officeholders[^c-110020aab82f62fb6c9f5bb61b924082]
 
 Where two or more persons are acting jointly as the Northern Ireland insolvency officeholder in proceedings under Northern Ireland insolvency law, delivery of a document to one of them is to be treated as delivery to them all.
 
-##### 68. Forms for use in proceedings under these Regulations[^key-17bd379b4bb2dcb52139b0a5ac33e42a]
+##### 68. Forms for use in proceedings under these Regulations[^c-17bd379b4bb2dcb52139b0a5ac33e42a]
 
 (1) The forms contained in Schedule 4 shall be used in, and in connection with, proceedings under these Regulations.
 
 (2) The forms shall be used with such variations, if any, as the circumstances may require.
 
-##### 69. Time[^key-c9c4432f727a9269ecdd9a25f2f2c758]
+##### 69. Time[^c-c9c4432f727a9269ecdd9a25f2f2c758]
 
 The provisions of Order 3 of the Supreme Court Rules, except rules 3 and 6, apply as regards computation, extension and abridgement of time in respect of anything required or authorised to be done in respect of these Regulations.
 
-##### 70. Service by post[^key-512a27e36776b2dd1ed3dabb0d7c9fc8]
+##### 70. Service by post[^c-512a27e36776b2dd1ed3dabb0d7c9fc8]
 
 (1) For a document to be properly served by post, it must be contained in an envelope addressed to the person on whom service is to be effected, and pre-paid for first class post.
 
@@ -813,7 +813,7 @@ The provisions of Order 3 of the Supreme Court Rules, except rules 3 and 6, appl
 
 (4) The date of posting is presumed, unless the contrary is shown, to be the date shown in the post-mark on the envelope in which the document is contained.
 
-##### 71. General provisions as to service and notice[^key-f6a56402bd7745cfe4d4837e2e7abc91]
+##### 71. General provisions as to service and notice[^c-f6a56402bd7745cfe4d4837e2e7abc91]
 
 (1) Subject to paragraphs 22, 70 and 72 and sub-paragraphs (2) and (3), Order 65 of the Supreme Court Rules applies as regards any matter relating to the service of documents and the giving of notice in proceedings under these Regulations.
 
@@ -821,7 +821,7 @@ The provisions of Order 3 of the Supreme Court Rules, except rules 3 and 6, appl
 
 (3) Order 65, rule 9 does not apply.
 
-##### 72. Service outside the jurisdiction[^key-27b27251a48351e4c335a67669daf4b1]
+##### 72. Service outside the jurisdiction[^c-27b27251a48351e4c335a67669daf4b1]
 
 (1) Order 11 of the Supreme Court Rules does not apply in proceedings under these Regulations.
 
@@ -832,13 +832,13 @@ The provisions of Order 3 of the Supreme Court Rules, except rules 3 and 6, appl
 - (a) the grounds on which the application is made; and;
 - (b) in what place or country the person to be served is, or probably may be found.
 
-##### 73. False claim of status as creditor[^key-a11486f706d2c838d2ed798c1b20256b]
+##### 73. False claim of status as creditor[^c-a11486f706d2c838d2ed798c1b20256b]
 
 (1) Rule 12.20 (false claim of status as creditor, etc) shall apply with any necessary modifications in any case where a person falsely claims the status of a creditor of a debtor, with the intention of obtaining a sight of documents whether on the court’s file or in the hands of the foreign representative or other person, which he has not under these Regulations any right to inspect.
 
 (2) Rule 12.22 and Schedule 3 to the Rules shall apply to an offence under Rule 12.20 as applied by sub-paragraph (1) as they apply to an offence under Rule 12.20.
 
-##### 74. The Gazette[^key-a16cac42ae5d0eaea589bd6ed3fe395e]
+##### 74. The Gazette[^c-a16cac42ae5d0eaea589bd6ed3fe395e]
 
 (1) A copy of the Gazette containing any notice required by these Regulations to be gazetted is evidence of any fact stated in the notice.
 
@@ -846,11 +846,11 @@ The provisions of Order 3 of the Supreme Court Rules, except rules 3 and 6, appl
 
 ## Annotations
 
-[^key-ad76c1439ecffc6db24380bcdf925c17]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/1) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-ad76c1439ecffc6db24380bcdf925c17]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/1) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
 [^f00027]: Footnote: [S.I. 1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-9e7c7cfa9422be6698fdcf266407516b]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/1/1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 243](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/243) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e7c7cfa9422be6698fdcf266407516b]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/1/1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 243](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/243) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00028]: Footnote: [S.I. 1986/1032 (N.I.6)](https://www.legislation.gov.uk/nisi/1986/1032)
 
@@ -868,176 +868,176 @@ The provisions of Order 3 of the Supreme Court Rules, except rules 3 and 6, appl
 
 [^f00035]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8)
 
-[^key-0f997b1d886a7c08d26fbc638eec37ee]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/2) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-0f997b1d886a7c08d26fbc638eec37ee]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/2) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-91c3afc5b07169302c4e16ce453b590c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/3) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-91c3afc5b07169302c4e16ce453b590c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/3) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-3e0d1be7257861fc19d4513a5adc97ab]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/4) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-3e0d1be7257861fc19d4513a5adc97ab]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/4) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-02e6d0ac8b2cd11fc4680c9cb49ccb6a]: Textual amendment: [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/4/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 244](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/244) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02e6d0ac8b2cd11fc4680c9cb49ccb6a]: Textual amendment: [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/4/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 244](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/244) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a5f676dee477098c9972d2445dbb816f]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/5) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-a5f676dee477098c9972d2445dbb816f]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/5) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-2bb7cad3c573a60a230ae490f0a6a2c0]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/6) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-2bb7cad3c573a60a230ae490f0a6a2c0]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/6) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-920913e7fb633f89f40398b7579e89dc]: Textual amendment: [Sch. 2 para. 6(2)(b)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/6/2/b)and work omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 245](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/245) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-920913e7fb633f89f40398b7579e89dc]: Textual amendment: [Sch. 2 para. 6(2)(b)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/6/2/b)and work omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 245](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/245) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-508e1e323903c7c39e89abc1bac6726a]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/7) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-508e1e323903c7c39e89abc1bac6726a]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/7) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-6b4d39c28a8a2351c5f9bcf2835e2786]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/8) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-6b4d39c28a8a2351c5f9bcf2835e2786]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/8) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-2ab88ff088c155fc9068af7ef510203a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/9) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-2ab88ff088c155fc9068af7ef510203a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/9) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-f5beedd2c2f1dccf9684387a645beccc]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/10) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-f5beedd2c2f1dccf9684387a645beccc]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/10) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-8674e07e83ae6ab32c970646bcdeca5e]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/11) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-8674e07e83ae6ab32c970646bcdeca5e]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/11) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-ae6ba395a01163ef19779e1a481b7e72]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/12) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-ae6ba395a01163ef19779e1a481b7e72]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/12) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-76024ed4bd2608efd17c71309dc300a7]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/13) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-76024ed4bd2608efd17c71309dc300a7]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/13) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-097643e758552a2a01a3f533df18007f]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/14) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-097643e758552a2a01a3f533df18007f]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/14) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-8db5a70a59051e12310e07b9ee3510f2]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/15) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-8db5a70a59051e12310e07b9ee3510f2]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/15) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-210fb5dacbedc082a991d3fd5a1d8219]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/16) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-210fb5dacbedc082a991d3fd5a1d8219]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/16) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-95389fd36a38c506152d5585b165dd0a]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/17) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-95389fd36a38c506152d5585b165dd0a]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/17) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-d76d35d94da9db06bb55e440a620a48c]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/18) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-d76d35d94da9db06bb55e440a620a48c]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/18) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-da947b8385619df986cb27fadd63ec0d]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/19) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-da947b8385619df986cb27fadd63ec0d]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/19) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-65c021df8be9d5b1ebdd80f88a5675c2]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/20) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-65c021df8be9d5b1ebdd80f88a5675c2]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/20) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-7645ead6c303a6b354005c68cccab374]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/21) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-7645ead6c303a6b354005c68cccab374]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/21) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-337e3c2a8d45ac71133f5c9ca9b54351]: Textual amendment: [Sch. 2 para. 21(2)(e)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/21/2/e) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 246](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/246) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-337e3c2a8d45ac71133f5c9ca9b54351]: Textual amendment: [Sch. 2 para. 21(2)(e)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/21/2/e) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 246](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/246) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00036]: Footnote: Schedule B1 was inserted into [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405) by Article 3(2) of and Schedule 1 to [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455)
 
-[^key-3a8903483768ceff594af720dab9dd03]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/22) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-3a8903483768ceff594af720dab9dd03]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/22) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-2aff4593c58b3c634f5fa3f7ed19f7ad]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/23) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-2aff4593c58b3c634f5fa3f7ed19f7ad]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/23) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-577d37e10f0b5d73f36b2d2fea8e21f8]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/24) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-577d37e10f0b5d73f36b2d2fea8e21f8]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/24) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-4351fde01776f65321494b2f68f77ae4]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/25) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-4351fde01776f65321494b2f68f77ae4]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/25) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
 [^f00037]: Footnote: [S.I. 1986/1032 (N.I.6)](https://www.legislation.gov.uk/nisi/1986/1032)
 
 [^f00038]: Footnote: [S.R. 1995 No.225](https://www.legislation.gov.uk/nisr/1995/225), to which there are amendments not relevant to these Regulations
 
-[^key-d5bf08728535726b6f13b7125094781e]: Textual amendment: [Sch. 2 para. 25(1)(e)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/25/1/e) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 247](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/247) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5bf08728535726b6f13b7125094781e]: Textual amendment: [Sch. 2 para. 25(1)(e)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/25/1/e) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 247](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/247) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cb3b82fdbd0e575579d7edb97f75e180]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/26) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-cb3b82fdbd0e575579d7edb97f75e180]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/26) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-3b01ffb71dcfefea8f7e2505d6e850ef]: Textual amendment: [Sch. 2 para. 26(3)(c)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/26/3/c) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 248](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/248) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b01ffb71dcfefea8f7e2505d6e850ef]: Textual amendment: [Sch. 2 para. 26(3)(c)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/26/3/c) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 248](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/248) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2abf9622458bfef8360fe553ea2a4fd5]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/27) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-2abf9622458bfef8360fe553ea2a4fd5]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/27) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-60f3f0e8d887779829ac1529f909e8b6]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/28) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-60f3f0e8d887779829ac1529f909e8b6]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/28) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
 [^f00039]: Footnote: [1970 c.25 (N.I.)](https://www.legislation.gov.uk/apni/1970/25)
 
 [^f00040]: Footnote: [1970 c.18 (N.I.)](https://www.legislation.gov.uk/apni/1970/18)
 
-[^key-f0d19d5123800be7633fde49918373be]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/29) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-f0d19d5123800be7633fde49918373be]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/29) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-8a2d3d7a47bee9ef900a37466043aff4]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/30) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-8a2d3d7a47bee9ef900a37466043aff4]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/30) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-4764342e0bade617f8779147bddf0c33]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/31) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-4764342e0bade617f8779147bddf0c33]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/31) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-eeccccd7cb50dd20983797522d187fc2]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/32) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-eeccccd7cb50dd20983797522d187fc2]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/32) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-0f553c6181aa1dfc26b0d53b11dacd85]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/33) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-0f553c6181aa1dfc26b0d53b11dacd85]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/33) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-c35745b6bb38a0614c0a304d4a8be25f]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/34) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-c35745b6bb38a0614c0a304d4a8be25f]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/34) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-7cfb67e6112da3290d2f64bcd0863cee]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/35) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-7cfb67e6112da3290d2f64bcd0863cee]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/35) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-6d1e030b14715e520b86a0f4d7a7cf46]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/36) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-6d1e030b14715e520b86a0f4d7a7cf46]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/36) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-bde3b191e1ceb965b3320648567c1ac4]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/37) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-bde3b191e1ceb965b3320648567c1ac4]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/37) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-edc1e76bd072915982d9bb033278214c]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/38) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-edc1e76bd072915982d9bb033278214c]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/38) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-fbbda0e821f19b1b77ed6216245684aa]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/39) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-fbbda0e821f19b1b77ed6216245684aa]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/39) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-0e1ceb6a0f560410172f6495c664d980]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/40) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-0e1ceb6a0f560410172f6495c664d980]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/40) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-76cd9e7cee3e411cf61c1d3204a5b446]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/41) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-76cd9e7cee3e411cf61c1d3204a5b446]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/41) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-8369780d8184baefe3622d9563767c6a]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/42) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-8369780d8184baefe3622d9563767c6a]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/42) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-09dd644877c9c1ca28ed3bc1eb58d9cc]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/43) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-09dd644877c9c1ca28ed3bc1eb58d9cc]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/43) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-1b401691fd9421dac3be5ed1481c8959]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/44) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-1b401691fd9421dac3be5ed1481c8959]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/44) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-e52bc3d5b815ee2b983d7d760842b1ba]: Textual amendment: [Sch. 2 para. 44(1)(f)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/44/1/f) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 249](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/249) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e52bc3d5b815ee2b983d7d760842b1ba]: Textual amendment: [Sch. 2 para. 44(1)(f)](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/44/1/f) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 249](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/249) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00041]: Footnote: [S.I. 1986/1032 (N.I.6)](https://www.legislation.gov.uk/nisi/1986/1032)
 
 [^f00042]: Footnote: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23)
 
-[^key-2aaa40f7828e3d563b143bbdec53b586]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/45) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-2aaa40f7828e3d563b143bbdec53b586]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/45) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-5ca15077f9a74b9969b95709d12bf084]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/46) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-5ca15077f9a74b9969b95709d12bf084]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/46) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-9cdfc5e3bb7aff6c3aed1c8b638f2cd1]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/47) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-9cdfc5e3bb7aff6c3aed1c8b638f2cd1]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/47) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
 [^f00043]: Footnote: [S.I. 1986/595 (N.I.4)](https://www.legislation.gov.uk/nisi/1986/595)
 
-[^key-901c2933514fc4272fad1a6715d00910]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/48) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-901c2933514fc4272fad1a6715d00910]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/48) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-2d03b56b3ae5b4741bd3887a89fdae0e]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/49) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-2d03b56b3ae5b4741bd3887a89fdae0e]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/49) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-b2227b6e8e37f018942703dd681d6dec]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/50) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-b2227b6e8e37f018942703dd681d6dec]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/50) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-41187c05ab045c9a7604e4e291aa3643]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/51) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-41187c05ab045c9a7604e4e291aa3643]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/51) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-7439942bb06c51cd16c4ae2a37128d47]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/52) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-7439942bb06c51cd16c4ae2a37128d47]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/52) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-c057026c45323bf398a101c3b7767085]: Textual amendment: [Sch. 2 para. 53](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/53) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 250](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/250) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c057026c45323bf398a101c3b7767085]: Textual amendment: [Sch. 2 para. 53](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/53) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 250](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/250) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1771c3148a9db988dd29cbe51e46c047]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/54) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-1771c3148a9db988dd29cbe51e46c047]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/54) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-d4171eef08047e97224da9dc295af80f]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/55) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-d4171eef08047e97224da9dc295af80f]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/55) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-f2aa96584592718d7e564c5064580a30]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/56) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-f2aa96584592718d7e564c5064580a30]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/56) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-b5329970ca16de025eab7220b11300a0]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/57) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-b5329970ca16de025eab7220b11300a0]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/57) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-1179d3abd859f98151d1e6861bc75784]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/58) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-1179d3abd859f98151d1e6861bc75784]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/58) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-2e838d5d5b4e84a631059f039dd2f340]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/59) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-2e838d5d5b4e84a631059f039dd2f340]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/59) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-ed3b81c60cc913134e0e9480c9e6383d]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/60) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-ed3b81c60cc913134e0e9480c9e6383d]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/60) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-8d50421e986117bc79ce1a0682086c6b]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/61) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-8d50421e986117bc79ce1a0682086c6b]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/61) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-fad4d45c713f0c6664989bf69bbae2e1]: Commencement: [Sch. 2 para. 62](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/62) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-fad4d45c713f0c6664989bf69bbae2e1]: Commencement: [Sch. 2 para. 62](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/62) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-5ea56f266baa7641ee7f4da34557fc5c]: Commencement: [Sch. 2 para. 63](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/63) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-5ea56f266baa7641ee7f4da34557fc5c]: Commencement: [Sch. 2 para. 63](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/63) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-9db491c34ea1e05c0e5f4b658ff57ea7]: Commencement: [Sch. 2 para. 64](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/64) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-9db491c34ea1e05c0e5f4b658ff57ea7]: Commencement: [Sch. 2 para. 64](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/64) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-f5015578e984542dfc5670a881cf30c5]: Commencement: [Sch. 2 para. 65](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/65) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-f5015578e984542dfc5670a881cf30c5]: Commencement: [Sch. 2 para. 65](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/65) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-fe09540e13b5e5d612f79108e5c093bd]: Commencement: [Sch. 2 para. 66](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/66) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-fe09540e13b5e5d612f79108e5c093bd]: Commencement: [Sch. 2 para. 66](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/66) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-110020aab82f62fb6c9f5bb61b924082]: Commencement: [Sch. 2 para. 67](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/67) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-110020aab82f62fb6c9f5bb61b924082]: Commencement: [Sch. 2 para. 67](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/67) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-17bd379b4bb2dcb52139b0a5ac33e42a]: Commencement: [Sch. 2 para. 68](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/68) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-17bd379b4bb2dcb52139b0a5ac33e42a]: Commencement: [Sch. 2 para. 68](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/68) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-c9c4432f727a9269ecdd9a25f2f2c758]: Commencement: [Sch. 2 para. 69](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/69) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-c9c4432f727a9269ecdd9a25f2f2c758]: Commencement: [Sch. 2 para. 69](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/69) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-512a27e36776b2dd1ed3dabb0d7c9fc8]: Commencement: [Sch. 2 para. 70](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/70) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-512a27e36776b2dd1ed3dabb0d7c9fc8]: Commencement: [Sch. 2 para. 70](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/70) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-f6a56402bd7745cfe4d4837e2e7abc91]: Commencement: [Sch. 2 para. 71](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/71) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-f6a56402bd7745cfe4d4837e2e7abc91]: Commencement: [Sch. 2 para. 71](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/71) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-27b27251a48351e4c335a67669daf4b1]: Commencement: [Sch. 2 para. 72](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/72) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-27b27251a48351e4c335a67669daf4b1]: Commencement: [Sch. 2 para. 72](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/72) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-a11486f706d2c838d2ed798c1b20256b]: Commencement: [Sch. 2 para. 73](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/73) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-a11486f706d2c838d2ed798c1b20256b]: Commencement: [Sch. 2 para. 73](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/73) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
-[^key-a16cac42ae5d0eaea589bd6ed3fe395e]: Commencement: [Sch. 2 para. 74](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/74) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-a16cac42ae5d0eaea589bd6ed3fe395e]: Commencement: [Sch. 2 para. 74](https://www.legislation.gov.uk/nisr/2007/115/schedule/2/paragraph/74) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)

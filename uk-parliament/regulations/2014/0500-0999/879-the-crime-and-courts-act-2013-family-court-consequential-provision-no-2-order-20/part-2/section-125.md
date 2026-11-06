@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**125.**[^key-2a280a5d2d279c6f37d329c5ccaa73b9] Omit paragraph 6 of Schedule 4.
+**125.**[^c-2a280a5d2d279c6f37d329c5ccaa73b9] Omit paragraph 6 of Schedule 4.
 
 ## Annotations
 
-[^key-2a280a5d2d279c6f37d329c5ccaa73b9]: Commencement: Art. 125 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-2a280a5d2d279c6f37d329c5ccaa73b9]: Commencement: Art. 125 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

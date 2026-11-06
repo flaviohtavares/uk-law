@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4B. Indirect discrimination on the ground of gender reassignment[^key-65c6d2c75f6bcff51e1345313f4b365d]
+## 4B. Indirect discrimination on the ground of gender reassignment[^c-65c6d2c75f6bcff51e1345313f4b365d]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ if A applies to B a provision, criterion or practice which is discriminatory in 
 
 ## Annotations
 
-[^key-65c6d2c75f6bcff51e1345313f4b365d]: Textual amendment: [Art. 4B](https://www.legislation.gov.uk/nisi/1976/1042/article/4B) inserted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2016/191/regulation/7)
+[^c-65c6d2c75f6bcff51e1345313f4b365d]: Textual amendment: [Art. 4B](https://www.legislation.gov.uk/nisi/1976/1042/article/4B) inserted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2016/191/regulation/7)

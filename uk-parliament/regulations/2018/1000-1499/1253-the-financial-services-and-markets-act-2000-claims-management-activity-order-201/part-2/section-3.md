@@ -16,27 +16,27 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-ca109a5be805450b643c959e6fd3e2e7][^key-454c4393e0b79d0e7b4259a3d5e349c5]
+## 3. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-ca109a5be805450b643c959e6fd3e2e7][^c-454c4393e0b79d0e7b4259a3d5e349c5]
 
 *Extent: E+W+S*
 
 The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00007] is amended as follows.
 
-**4.**[^key-ad0439401c868a1c577ad45d0828f887][^key-4772cdf313eeee5789b17b6a267491ec] In article 4 (specified activities: general), after paragraph (2A)[^f00008] insert—
+**4.**[^c-ad0439401c868a1c577ad45d0828f887][^c-4772cdf313eeee5789b17b6a267491ec] In article 4 (specified activities: general), after paragraph (2A)[^f00008] insert—
 
 > (2B) The kinds of activity specified in Part 3B are specified for the purposes of section 22(1B) of the Act (and accordingly any activity of one of those kinds, when carried on by way of business in Great Britain, is a regulated activity).
 
 .
 
-**5.**[^key-5c3bdf04384cad91f64acbcac544e100][^key-cbc4ba0e7aa0674712b562e1b1bdc592] In article 64 (agreeing to carry on specified kinds of activity) for “or Part 3A” substitute “, Part 3A or Part 3B”.
+**5.**[^c-5c3bdf04384cad91f64acbcac544e100][^c-cbc4ba0e7aa0674712b562e1b1bdc592] In article 64 (agreeing to carry on specified kinds of activity) for “or Part 3A” substitute “, Part 3A or Part 3B”.
 
-**6.**[^key-1d3e5513bd8c7b75615556c49ee07d88][^key-2a322b65fc3f26ca2aa16309e4365998] In article 72A (information society services), after paragraph (1) insert—
+**6.**[^c-1d3e5513bd8c7b75615556c49ee07d88][^c-2a322b65fc3f26ca2aa16309e4365998] In article 72A (information society services), after paragraph (1) insert—
 
 > (1A) For the purposes of paragraph (1), “activity” includes regulated claims management activities of a kind specified by articles 89G to 89M.
 
 .
 
-**7.**[^key-11386be7da473ce48fb958176a60daba][^key-9c248765b602418977eb976726ca4d68] After Part 3A[^f00009] insert—
+**7.**[^c-11386be7da473ce48fb958176a60daba][^c-9c248765b602418977eb976726ca4d68] After Part 3A[^f00009] insert—
 
 > **PART 3B — CLAIMS MANAGEMENT ACTIVITIES IN GREAT BRITAIN**
 >
@@ -289,29 +289,29 @@ The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f
 
 ## Annotations
 
-[^key-ca109a5be805450b643c959e6fd3e2e7]: Commencement: Art. 3 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-ca109a5be805450b643c959e6fd3e2e7]: Commencement: Art. 3 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-454c4393e0b79d0e7b4259a3d5e349c5]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2018/1253/article/3) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-454c4393e0b79d0e7b4259a3d5e349c5]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2018/1253/article/3) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00007]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
-[^key-ad0439401c868a1c577ad45d0828f887]: Commencement: Art. 4 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-ad0439401c868a1c577ad45d0828f887]: Commencement: Art. 4 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-4772cdf313eeee5789b17b6a267491ec]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2018/1253/article/4) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-4772cdf313eeee5789b17b6a267491ec]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2018/1253/article/4) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00008]: Footnote: Article 4(2A) was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-5c3bdf04384cad91f64acbcac544e100]: Commencement: Art. 5 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-5c3bdf04384cad91f64acbcac544e100]: Commencement: Art. 5 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-cbc4ba0e7aa0674712b562e1b1bdc592]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2018/1253/article/5) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-cbc4ba0e7aa0674712b562e1b1bdc592]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2018/1253/article/5) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
-[^key-1d3e5513bd8c7b75615556c49ee07d88]: Commencement: Art. 6 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-1d3e5513bd8c7b75615556c49ee07d88]: Commencement: Art. 6 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-2a322b65fc3f26ca2aa16309e4365998]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2018/1253/article/6) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-2a322b65fc3f26ca2aa16309e4365998]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2018/1253/article/6) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
-[^key-11386be7da473ce48fb958176a60daba]: Commencement: Art. 7 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-11386be7da473ce48fb958176a60daba]: Commencement: Art. 7 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-9c248765b602418977eb976726ca4d68]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2018/1253/article/7) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-9c248765b602418977eb976726ca4d68]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2018/1253/article/7) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00009]: Footnote: Part 3A was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 

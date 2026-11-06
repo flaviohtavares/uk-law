@@ -48,30 +48,30 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 
 ## PART I — PRELIMINARY
 
-**1.**[^key-ea0363c33b95a5dca36d9fde091147fe] This Order may be cited as the Customs and Excise (Personal Reliefs for Special Visitors) Order 1992 and shall come into force on 1st January 1993.
+**1.**[^c-ea0363c33b95a5dca36d9fde091147fe] This Order may be cited as the Customs and Excise (Personal Reliefs for Special Visitors) Order 1992 and shall come into force on 1st January 1993.
 
 ## PART II — INTERPRETATION
 
-**2.**[^key-7822ff3a69d99a70bcea8c0107d7b3a7] In this Order–
+**2.**[^c-7822ff3a69d99a70bcea8c0107d7b3a7] In this Order–
 
-- “[^key-50dbde37f2b3d5d0a4d08e7def98220c]**acquisition**” means an acquisition of goods from a member State within the meaning given in paragraph 3 of Schedule 9ZA to the Value Added Tax Act 1994 and “**acquired**” shall be construed accordingly;
+- “[^c-50dbde37f2b3d5d0a4d08e7def98220c]**acquisition**” means an acquisition of goods from a member State within the meaning given in paragraph 3 of Schedule 9ZA to the Value Added Tax Act 1994 and “**acquired**” shall be construed accordingly;
 - “duty” means any duty of customs or duty of excise;
-- “importation” means an importation from a place outside the United Kingdom[^key-6b92f79844387ae58e230da94b18bc10], and “imported” shall be construed accordingly;
+- “importation” means an importation from a place outside the United Kingdom[^c-6b92f79844387ae58e230da94b18bc10], and “imported” shall be construed accordingly;
 - “relief” means the remission of any duty or tax which is chargeable and which a person, whether the person upon whom the relief is conferred or some other person, would be liable to pay were it not for the relief conferred;
 - “supply” means a supply within the meaning of section 3 of the Value Added Tax Act 1983[^f00003] and “supplied” shall be construed accordingly;
 - “tax” means value added tax;
 - “United Kingdom national” means a British citizen, a British Dependent Territories citizen, a British National (Overseas) or a British Overseas citizen;
 - “used”, in relation to a person’s use of consumable property, includes having theproperty at his disposal;
-- “[^key-de1f804d4545a38622613238225fa404]**warehouse**” means a warehouse within the meaning of section 1(1) of the Customs and Excise Management Act 1979, any premises in respect of which a person is approved under section 82 of the Finance (No. 2) Act 2023, or premises registered for the safe storage of tobacco products in accordance with regulations made under section 7(1)(b) of the Tobacco Products Duty Act 1979, and “**removal from warehouse**” is to be construed accordingly.
+- “[^c-de1f804d4545a38622613238225fa404]**warehouse**” means a warehouse within the meaning of section 1(1) of the Customs and Excise Management Act 1979, any premises in respect of which a person is approved under section 82 of the Finance (No. 2) Act 2023, or premises registered for the safe storage of tobacco products in accordance with regulations made under section 7(1)(b) of the Tobacco Products Duty Act 1979, and “**removal from warehouse**” is to be construed accordingly.
 - “removal from warehouse” shall be construed accordingly.
 
 ## PART III — CONDITIONS ATTACHING TO PART VI RELIEFS
 
-**3.**[^key-e83222c0217699ff29210e535c0a6319] In this Part–
+**3.**[^c-e83222c0217699ff29210e535c0a6319] In this Part–
 
 - “entitled person” means an entitled person for the purposes of Part VI.
 
-**4.**[^key-1e16b10056397e59f9ab8f4369d8e114] It shall be a condition of the relief conferred under article 16 below that the entitled person deliver or cause to be delivered to the supplier of the motor vehicle a certificate in the form numbered 1 in the Schedule to this Order–
+**4.**[^c-1e16b10056397e59f9ab8f4369d8e114] It shall be a condition of the relief conferred under article 16 below that the entitled person deliver or cause to be delivered to the supplier of the motor vehicle a certificate in the form numbered 1 in the Schedule to this Order–
 
 - (a) containing full information in respect of the matters specified therein; and
 - (b) signed–
@@ -84,13 +84,13 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 
 ## PART IV — CONDITIONS ATTACHING TO PART VII RELIEFS
 
-**5.**[^key-666f826b3429b0a872047089c65c1abe] (1) In this Part–
+**5.**[^c-666f826b3429b0a872047089c65c1abe] (1) In this Part–
 
 - “entitled person” means an entitled person for the purposes of Part VII.
 
 (2) For the purposes of articles 6 and 7 below, any reference to a certificate shall be construed as including a reference to a copy of such a certificate.
 
-**6.**[^key-fd2825b7dbddaa7abede4ba8de315b11] (1) It shall be a condition of relief conferred under article 19 below that the entitled person deliver or cause to be delivered in accordance with paragraph (2) below five certificates in the form numbered 2 in the Schedule to this Order–
+**6.**[^c-fd2825b7dbddaa7abede4ba8de315b11] (1) It shall be a condition of relief conferred under article 19 below that the entitled person deliver or cause to be delivered in accordance with paragraph (2) below five certificates in the form numbered 2 in the Schedule to this Order–
 
 - (a) containing full information in respect of the matters specified therein; and
 - (b) signed–
@@ -103,7 +103,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - (b) two certificates shall be delivered to the proper officer; and
 - (c) one certificate shall be delivered to the supplier of the motor vehicle.
 
-**7.**[^key-e0ecce29c06a3dca2cc95261e953c7b9] (1) It shall be a condition of relief conferred under article 20 below in respect of a motor vehicle that the entitled person deliver or cause to be delivered in accordance with paragraph (2) below four certificates in the form numbered 3 in the Schedule to this Order–
+**7.**[^c-e0ecce29c06a3dca2cc95261e953c7b9] (1) It shall be a condition of relief conferred under article 20 below in respect of a motor vehicle that the entitled person deliver or cause to be delivered in accordance with paragraph (2) below four certificates in the form numbered 3 in the Schedule to this Order–
 
 - (a) containing full information in respect of the matters specified therein; and
 - (b) signed–
@@ -115,34 +115,34 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - (a) one certificate shall be delivered to the visiting force or other body or organisation of which the entitled person is a member; and
 - (b) three certificates shall be delivered to the proper officer.
 
-**7A.**[^key-6329a9d53623c7b9c557c9872e235086] Nothing in this Order affords any relief from VAT charged under paragraph 3(2) of Schedule 9ZB to the Value Added Tax Act 1994.
+**7A.**[^c-6329a9d53623c7b9c557c9872e235086] Nothing in this Order affords any relief from VAT charged under paragraph 3(2) of Schedule 9ZB to the Value Added Tax Act 1994.
 
 **7B.** Article 21 applies in respect of tax where a gift of goods, other than tobacco products or beverages containing alcohol, is made to an entitled person by dispatching them to that person in Northern Ireland from Great Britain or the Isle of Man, as it applies where a gift of goods is made to an entitled person by dispatching them to the person from a place outside the United Kingdom.
 
 ## PART V — CONDITIONS ATTACHING TO ALL RELIEFS
 
-**8.**[^key-50e6d4db4ae9f919e14277f18b0175cc] In this Part–
+**8.**[^c-50e6d4db4ae9f919e14277f18b0175cc] In this Part–
 
 - “entitled person” means an entitled person for the purposes of either part VI or Part VII of this Order.
 
-**9.**[^key-bc2035a7bb7b6690191705d5fef0b839] An entitled person upon whom any relief is conferred under any Part of this Order shall be bound by the conditions described in the following provisions of this Part and in Part III or IV above, as the case may be.
+**9.**[^c-bc2035a7bb7b6690191705d5fef0b839] An entitled person upon whom any relief is conferred under any Part of this Order shall be bound by the conditions described in the following provisions of this Part and in Part III or IV above, as the case may be.
 
-**10.**[^key-6b22edaa1699eaf53838b0fdc8c4d612] (1) It shall be a condition of the relief that the goods shall not be lent, hired-out, given as security or transferred by the entitled person or any other person without the prior authorisation in writing of the Commissioners.
+**10.**[^c-6b22edaa1699eaf53838b0fdc8c4d612] (1) It shall be a condition of the relief that the goods shall not be lent, hired-out, given as security or transferred by the entitled person or any other person without the prior authorisation in writing of the Commissioners.
 
 (2) Where the Commissioners authorise such disposal as is mentioned in paragraph (1) above, they may discharge the relief and the entitled person to whom the relief was afforded shall forthwith pay the duty or tax at the rate then in force, provided that where a lower rate was in force when relief was afforded the amount payable shall be determined by reference to the lower rate.
 
-**11.**[^key-52d0f3bbee5df3ba41b64c58c4ea4a44] It shall be a condition of the relief that the goods are used exclusively by the entitled person or members of his family forming part of his household.
+**11.**[^c-52d0f3bbee5df3ba41b64c58c4ea4a44] It shall be a condition of the relief that the goods are used exclusively by the entitled person or members of his family forming part of his household.
 
-**12.**[^key-2082407d498174af9ec3974c76dcb429] Where relief has been afforded and subsequently the Commissioners are not satisfied that any condition attaching to such relief, whether by virtue of a provision of this Order or otherwise, has been complied with, then, unless the Commissioners sanction the non-compliance in writing, the duty or tax shall become payable forthwith and the goods shall be liable to forfeiture.
+**12.**[^c-2082407d498174af9ec3974c76dcb429] Where relief has been afforded and subsequently the Commissioners are not satisfied that any condition attaching to such relief, whether by virtue of a provision of this Order or otherwise, has been complied with, then, unless the Commissioners sanction the non-compliance in writing, the duty or tax shall become payable forthwith and the goods shall be liable to forfeiture.
 
-**13.**[^key-a5a8c2ee800ac60dc6ae302228c4482b] Where relief has been afforded, but any duty or tax subsequently becomes payable by virtue or article 12 above, the following persons shall be jointly and severally liable to pay it–
+**13.**[^c-a5a8c2ee800ac60dc6ae302228c4482b] Where relief has been afforded, but any duty or tax subsequently becomes payable by virtue or article 12 above, the following persons shall be jointly and severally liable to pay it–
 
 - (a) the entitled person upon whom the relief was conferred;
 - (b) any person who, at or after the time of the non-compliance with the condition which has caused the duty or tax to become payable, has been in possession of the goods.
 
 ## PART VI — DIPLOMATS ETC
 
-**14.**[^key-cc0afada7da2eb5cea59c8ba5c67f5c4] In this Part–
+**14.**[^c-cc0afada7da2eb5cea59c8ba5c67f5c4] In this Part–
 
 “**entitled person**” means any person who is neither a United Kingdom national nor a permanent resident of the United Kingdom and:
 
@@ -153,9 +153,9 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
   - (iv) a representative or a person recognised as holding a rank equivalent to a diplomatic agent for the purposes of the International Organisations Act 1968, or
 - (b) whose circumstances, at the time the duty or tax in respect of which relief is sought would otherwise become due, are such that had those circumstances existed immediately before exit day, that person would have enjoyed, under or by virtue of section 2 of the European Communities Act 1972, any privilege or immunity similar to those enjoyed under or by virtue of the enactments specified in paragraph (a) above by the persons therein specified.
 
-**15.**[^key-e5b0bc7d15cc8b850792519207284b85] Where any tobacco product or beverage containing alcohol is removed from warehouse in the course of its being supplied to an entitled person, payment of any duty or tax chargeable in respect of the removal from warehouse or supply shall not be required.
+**15.**[^c-e5b0bc7d15cc8b850792519207284b85] Where any tobacco product or beverage containing alcohol is removed from warehouse in the course of its being supplied to an entitled person, payment of any duty or tax chargeable in respect of the removal from warehouse or supply shall not be required.
 
-**16.**[^key-7019708129b1e1d5ab23bd18dde6f9df] (1) Subject to the following provisions of this article, where an entitled person purchases a motor vehicle which has been manufactured in a country [^key-740286bfb4ce74f8930ab43bce6b31fd]... which is–
+**16.**[^c-7019708129b1e1d5ab23bd18dde6f9df] (1) Subject to the following provisions of this article, where an entitled person purchases a motor vehicle which has been manufactured in a country [^c-740286bfb4ce74f8930ab43bce6b31fd]... which is–
 
 - (a) a member State; or
 - (b) a member of the European Free Trade Association,
@@ -164,16 +164,16 @@ payment of any tax chargeable in respect of the supply shall not be required.
 
 (2) No relief shall be afforded under paragraph (1) above if the entitled person has previously been afforded relief in respect of any other motor vehicle, whether under paragraph (1) above or otherwise, unless he has disposed of all previous motor vehicles in respect of which relief has been so afforded and paid any duty or tax which was required to be paid under article 10(2) above.
 
-(3) Where the spouse or civil partner[^key-531b113fbdc050c25f13e8ec4cfb3452] of the entitled person is present in the United Kingdom, paragraph (2) above shall apply as if the words “(or all but one)” were inserted after the words “motor vehicles”.
+(3) Where the spouse or civil partner[^c-531b113fbdc050c25f13e8ec4cfb3452] of the entitled person is present in the United Kingdom, paragraph (2) above shall apply as if the words “(or all but one)” were inserted after the words “motor vehicles”.
 
-**17.**[^key-cc9d78a1aa74f92bfa914352a0ac1424] Nothing in this Part of this Order shall be taken as conferring relief in respect of any duty or tax which is subject to remission or refund by or under any of the enactments referred to in article 14 above.
+**17.**[^c-cc9d78a1aa74f92bfa914352a0ac1424] Nothing in this Part of this Order shall be taken as conferring relief in respect of any duty or tax which is subject to remission or refund by or under any of the enactments referred to in article 14 above.
 
 ## PART VII — VISITING FORCES AND HEADQUARTERS
 
-**18.**[^key-b16bed17bbf4321f046d463c396eb6ba] In this Part–
+**18.**[^c-b16bed17bbf4321f046d463c396eb6ba] In this Part–
 
 - “entitled person” means a person who is–
-  - (a) for the purposes of any provision of the Visiting Forces Act 1952, a serving member of a visiting force—[^key-e3e6b09fff8424cff421f81566469953]
+  - (a) for the purposes of any provision of the Visiting Forces Act 1952, a serving member of a visiting force—[^c-e3e6b09fff8424cff421f81566469953]
     - (i) of a country, other than the United Kingdom, which is a party to the North Atlantic Treaty, or
     - (ii) of a member State of the European Union stationed in Northern Ireland to take part in a defence effort carried out under the common security and defence policy established under Article 42(1) of the Treaty on European Union (provisions on the common security and defence policy),
 
@@ -182,22 +182,22 @@ payment of any tax chargeable in respect of the supply shall not be required.
 
   who is neither a United Kingdom national nor a permanent resident of the United Kingdom.
 
-**19.**[^key-5b440bae617d9953e19cf2d4a198e067] Subject to article 22 below, where an entitled person purchases a motor vehicle which has been manufactured in a country which is–
+**19.**[^c-5b440bae617d9953e19cf2d4a198e067] Subject to article 22 below, where an entitled person purchases a motor vehicle which has been manufactured in a country which is–
 
 - (a) a member State; or
 - (b) a member of the European Free Trade Association,
 
 payment of any tax in respect of the supply shall not be required.
 
-**20.**[^key-47f59b961319c2ba5bb2ea864da1d25e] Subject to articles 22 and 23[^key-6d6796ef33ddf710fee6c44870006c8f] below, where an entitled person imports, acquires or removes from warehouse any goods, payment of any duty or tax chargeable in respect of the importation, acquisition or removal from warehouse shall not be required.
+**20.**[^c-47f59b961319c2ba5bb2ea864da1d25e] Subject to articles 22 and 23[^c-6d6796ef33ddf710fee6c44870006c8f] below, where an entitled person imports, acquires or removes from warehouse any goods, payment of any duty or tax chargeable in respect of the importation, acquisition or removal from warehouse shall not be required.
 
-**21.**[^key-de86b704d5c1fc56e380777deff313f3] Subject to articles 22 and 23[^key-ecb3517231caed62eae69623a6095bc5] below, where a gift of goods, other than tobacco products or beverages containing alcohol, is made to an entitled person by dispatching them to him from a place outside the United Kingdom, payment of any duty or tax chargeable in respect of their acquisition or importation shall not be required.
+**21.**[^c-de86b704d5c1fc56e380777deff313f3] Subject to articles 22 and 23[^c-ecb3517231caed62eae69623a6095bc5] below, where a gift of goods, other than tobacco products or beverages containing alcohol, is made to an entitled person by dispatching them to him from a place outside the United Kingdom, payment of any duty or tax chargeable in respect of their acquisition or importation shall not be required.
 
-**22.**[^key-495992adb7d1eb8edbbb9b856cd69389] (1) No relief shall be afforded under this Part of this Order in respect of a motor vehicle if the entitled person has previously been afforded relief under this Order in respect of any other motor vehicle, unless he has disposed of all previous motor vehicles in respect of which relief has been so afforded and paid any duty or tax which was required to be paid under article 10(2) above.
+**22.**[^c-495992adb7d1eb8edbbb9b856cd69389] (1) No relief shall be afforded under this Part of this Order in respect of a motor vehicle if the entitled person has previously been afforded relief under this Order in respect of any other motor vehicle, unless he has disposed of all previous motor vehicles in respect of which relief has been so afforded and paid any duty or tax which was required to be paid under article 10(2) above.
 
-(2) Where the spouse or civil partner[^key-30f949b14adea05ffe2fae946c6a0754] of the entitled person is present in the United Kingdom, paragraph (1) above shall apply as if the words “(or all but one)” were inserted after the words “motor vehicles”.
+(2) Where the spouse or civil partner[^c-30f949b14adea05ffe2fae946c6a0754] of the entitled person is present in the United Kingdom, paragraph (1) above shall apply as if the words “(or all but one)” were inserted after the words “motor vehicles”.
 
-**23.**[^key-e4c1dc4b56e9e13bd4190e68e7e8ef87] Relief under articles 20 and 21 does not extend to payment of any duty of customs in respect of a person who is an entitled person in relation to a visiting force referred to in article 18(a)(ii).
+**23.**[^c-e4c1dc4b56e9e13bd4190e68e7e8ef87] Relief under articles 20 and 21 does not extend to payment of any duty of customs in respect of a person who is an entitled person in relation to a visiting force referred to in article 18(a)(ii).
 
 Leonard Harris
 
@@ -211,7 +211,7 @@ London,
 
 SE1 9PJ
 
-## SCHEDULE[^key-15ef1f9bb331b2044537654731b863bc]
+## SCHEDULE[^c-15ef1f9bb331b2044537654731b863bc]
 
 Article 4
 
@@ -235,74 +235,74 @@ Part VII sets out the reliefs to which members of NATO visiting forces and headq
 
 [^f00001]: Footnote: [1979 c. 3](https://www.legislation.gov.uk/ukpga/1979/3); section 13A was inserted by section 28 of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26); section 18(2), as read with section 1(1) of the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2), defines “the Commissioners” as meaning the Commissioners of Customs and Excise.
 
-[^key-ea0363c33b95a5dca36d9fde091147fe]: Commencement: Art. 1 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-ea0363c33b95a5dca36d9fde091147fe]: Commencement: Art. 1 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-7822ff3a69d99a70bcea8c0107d7b3a7]: Commencement: Art. 2 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-7822ff3a69d99a70bcea8c0107d7b3a7]: Commencement: Art. 2 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-50dbde37f2b3d5d0a4d08e7def98220c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1992/3156/article/2) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/17/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-50dbde37f2b3d5d0a4d08e7def98220c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1992/3156/article/2) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/17/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-6b92f79844387ae58e230da94b18bc10]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1992/3156/article/2) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/91/regulation/3/3); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-6b92f79844387ae58e230da94b18bc10]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1992/3156/article/2) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/91/regulation/3/3); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^f00003]: Footnote: [1983 c. 55](https://www.legislation.gov.uk/ukpga/1983/55).
 
-[^key-de1f804d4545a38622613238225fa404]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1992/3156/article/2) substituted (1.2.2025) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/3/2)
+[^c-de1f804d4545a38622613238225fa404]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1992/3156/article/2) substituted (1.2.2025) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96)](https://www.legislation.gov.uk/uksi/2025/96), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/3/2)
 
-[^key-e83222c0217699ff29210e535c0a6319]: Commencement: Art. 3 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-e83222c0217699ff29210e535c0a6319]: Commencement: Art. 3 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-1e16b10056397e59f9ab8f4369d8e114]: Commencement: Art. 4 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-1e16b10056397e59f9ab8f4369d8e114]: Commencement: Art. 4 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-666f826b3429b0a872047089c65c1abe]: Commencement: Art. 5 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-666f826b3429b0a872047089c65c1abe]: Commencement: Art. 5 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-fd2825b7dbddaa7abede4ba8de315b11]: Commencement: Art. 6 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-fd2825b7dbddaa7abede4ba8de315b11]: Commencement: Art. 6 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-e0ecce29c06a3dca2cc95261e953c7b9]: Commencement: Art. 7 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-e0ecce29c06a3dca2cc95261e953c7b9]: Commencement: Art. 7 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-6329a9d53623c7b9c557c9872e235086]: Textual amendment: [Arts. 7A](https://www.legislation.gov.uk/uksi/1992/3156/article/7A), [7B](https://www.legislation.gov.uk/uksi/1992/3156/article/7B) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/17/3) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-6329a9d53623c7b9c557c9872e235086]: Textual amendment: [Arts. 7A](https://www.legislation.gov.uk/uksi/1992/3156/article/7A), [7B](https://www.legislation.gov.uk/uksi/1992/3156/article/7B) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/17/3) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-50e6d4db4ae9f919e14277f18b0175cc]: Commencement: Art. 8 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-50e6d4db4ae9f919e14277f18b0175cc]: Commencement: Art. 8 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-bc2035a7bb7b6690191705d5fef0b839]: Commencement: Art. 9 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-bc2035a7bb7b6690191705d5fef0b839]: Commencement: Art. 9 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-6b22edaa1699eaf53838b0fdc8c4d612]: Commencement: Art. 10 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-6b22edaa1699eaf53838b0fdc8c4d612]: Commencement: Art. 10 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-52d0f3bbee5df3ba41b64c58c4ea4a44]: Commencement: Art. 11 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-52d0f3bbee5df3ba41b64c58c4ea4a44]: Commencement: Art. 11 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-2082407d498174af9ec3974c76dcb429]: Commencement: Art. 12 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-2082407d498174af9ec3974c76dcb429]: Commencement: Art. 12 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-a5a8c2ee800ac60dc6ae302228c4482b]: Commencement: Art. 13 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-a5a8c2ee800ac60dc6ae302228c4482b]: Commencement: Art. 13 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-cc0afada7da2eb5cea59c8ba5c67f5c4]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/1992/3156/article/14) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/91/regulation/4); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-cc0afada7da2eb5cea59c8ba5c67f5c4]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/1992/3156/article/14) substituted (31.12.2020) by [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/91/regulation/4); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-e5b0bc7d15cc8b850792519207284b85]: Commencement: Art. 15 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-e5b0bc7d15cc8b850792519207284b85]: Commencement: Art. 15 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-7019708129b1e1d5ab23bd18dde6f9df]: Commencement: Art. 16 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-7019708129b1e1d5ab23bd18dde6f9df]: Commencement: Art. 16 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-740286bfb4ce74f8930ab43bce6b31fd]: Textual amendment: Words in [art. 16](https://www.legislation.gov.uk/uksi/1992/3156/article/16) omitted (31.12.2020) by virtue of [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/91/regulation/5); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-740286bfb4ce74f8930ab43bce6b31fd]: Textual amendment: Words in [art. 16](https://www.legislation.gov.uk/uksi/1992/3156/article/16) omitted (31.12.2020) by virtue of [The Value Added Tax and Excise Personal Reliefs (Special Visitors and Goods Permanently Imported) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/91)](https://www.legislation.gov.uk/uksi/2019/91), [regs. 1](https://www.legislation.gov.uk/uksi/2019/91/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/91/regulation/5); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-531b113fbdc050c25f13e8ec4cfb3452]: Textual amendment: Words in [art. 16(3)](https://www.legislation.gov.uk/uksi/1992/3156/article/16/3) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/2114/schedule/1/paragraph/5)
+[^c-531b113fbdc050c25f13e8ec4cfb3452]: Textual amendment: Words in [art. 16(3)](https://www.legislation.gov.uk/uksi/1992/3156/article/16/3) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/2114/schedule/1/paragraph/5)
 
-[^key-cc9d78a1aa74f92bfa914352a0ac1424]: Commencement: Art. 17 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-cc9d78a1aa74f92bfa914352a0ac1424]: Commencement: Art. 17 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-b16bed17bbf4321f046d463c396eb6ba]: Commencement: Art. 18 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-b16bed17bbf4321f046d463c396eb6ba]: Commencement: Art. 18 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-e3e6b09fff8424cff421f81566469953]: Textual amendment: [Art. 18(a)](https://www.legislation.gov.uk/uksi/1992/3156/article/18/a) substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/64/schedule/1/paragraph/1)
+[^c-e3e6b09fff8424cff421f81566469953]: Textual amendment: [Art. 18(a)](https://www.legislation.gov.uk/uksi/1992/3156/article/18/a) substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/64/schedule/1/paragraph/1)
 
 [^f00011]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5).
 
-[^key-5b440bae617d9953e19cf2d4a198e067]: Commencement: Art. 19 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-5b440bae617d9953e19cf2d4a198e067]: Commencement: Art. 19 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-47f59b961319c2ba5bb2ea864da1d25e]: Commencement: Art. 20 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-47f59b961319c2ba5bb2ea864da1d25e]: Commencement: Art. 20 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-6d6796ef33ddf710fee6c44870006c8f]: Textual amendment: Words in [art. 20](https://www.legislation.gov.uk/uksi/1992/3156/article/20) substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2023/64/schedule/1/paragraph/2)
+[^c-6d6796ef33ddf710fee6c44870006c8f]: Textual amendment: Words in [art. 20](https://www.legislation.gov.uk/uksi/1992/3156/article/20) substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2023/64/schedule/1/paragraph/2)
 
-[^key-de86b704d5c1fc56e380777deff313f3]: Commencement: Art. 21 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-de86b704d5c1fc56e380777deff313f3]: Commencement: Art. 21 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-ecb3517231caed62eae69623a6095bc5]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/uksi/1992/3156/article/21) substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2023/64/schedule/1/paragraph/2)
+[^c-ecb3517231caed62eae69623a6095bc5]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/uksi/1992/3156/article/21) substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2023/64/schedule/1/paragraph/2)
 
-[^key-495992adb7d1eb8edbbb9b856cd69389]: Commencement: Art. 22 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-495992adb7d1eb8edbbb9b856cd69389]: Commencement: Art. 22 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
 
-[^key-30f949b14adea05ffe2fae946c6a0754]: Textual amendment: Words in [art. 22(2)](https://www.legislation.gov.uk/uksi/1992/3156/article/22/2) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/2114/schedule/1/paragraph/5)
+[^c-30f949b14adea05ffe2fae946c6a0754]: Textual amendment: Words in [art. 22(2)](https://www.legislation.gov.uk/uksi/1992/3156/article/22/2) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 1](https://www.legislation.gov.uk/uksi/2005/2114/article/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/2114/schedule/1/paragraph/5)
 
-[^key-e4c1dc4b56e9e13bd4190e68e7e8ef87]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/uksi/1992/3156/article/23) inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2023/64/schedule/1/paragraph/3)
+[^c-e4c1dc4b56e9e13bd4190e68e7e8ef87]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/uksi/1992/3156/article/23) inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2023/64/schedule/1/paragraph/3)
 
-[^key-15ef1f9bb331b2044537654731b863bc]: Commencement: Sch. in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)
+[^c-15ef1f9bb331b2044537654731b863bc]: Commencement: Sch. in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3156/article/1)

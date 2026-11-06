@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Re-basing in relation to direct or indirect disposals of UK land[^key-c236a9a8c904a969d1cd8ccee3ec5517]
+## 36A. Re-basing in relation to direct or indirect disposals of UK land[^c-c236a9a8c904a969d1cd8ccee3ec5517]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Schedule 4AA makes provision for the re-basing of assets where—
 
 ## Annotations
 
-[^key-c236a9a8c904a969d1cd8ccee3ec5517]: Textual amendment: S. 36A and cross-heading inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/4)
+[^c-c236a9a8c904a969d1cd8ccee3ec5517]: Textual amendment: S. 36A and cross-heading inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/4)

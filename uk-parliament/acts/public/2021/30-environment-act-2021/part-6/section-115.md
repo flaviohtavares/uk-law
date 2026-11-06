@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Local highway authorities in England to consult before felling street trees[^key-caf6ee49006df2c3e51a52dcef65b689][^key-68cd70f4cbe9fbd92d77788ac867eb6c]
+## 115. Local highway authorities in England to consult before felling street trees[^c-caf6ee49006df2c3e51a52dcef65b689][^c-68cd70f4cbe9fbd92d77788ac867eb6c]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ After section 96 of the Highways Act 1980 insert—
 
 ## Annotations
 
-[^key-caf6ee49006df2c3e51a52dcef65b689]: Commencement: S. 115 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-caf6ee49006df2c3e51a52dcef65b689]: Commencement: S. 115 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-68cd70f4cbe9fbd92d77788ac867eb6c]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2021/30/section/115) in force at 30.11.2023 by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 3](https://www.legislation.gov.uk/uksi/2023/1170/regulation/3)
+[^c-68cd70f4cbe9fbd92d77788ac867eb6c]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2021/30/section/115) in force at 30.11.2023 by [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 3](https://www.legislation.gov.uk/uksi/2023/1170/regulation/3)

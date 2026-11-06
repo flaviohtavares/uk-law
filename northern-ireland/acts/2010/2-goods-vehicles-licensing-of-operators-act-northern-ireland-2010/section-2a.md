@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2A. Temporary exemptions for international operators[^key-80e4a4a896dcdcb8f2f2b1b30e6d59f3]
+## 2A. Temporary exemptions for international operators[^c-80e4a4a896dcdcb8f2f2b1b30e6d59f3]
 
 *Extent: N.I.*
 
@@ -39,14 +39,14 @@ summary: ''
 
 (5) Accordingly, sections 1(1) and 2(6) do not to that extent apply to that person’s use of goods vehicles.
 
-(6) In this section “international operator” means a person who has an effective and stable establishment in a country or territory other than the United Kingdom that is comparable to an effective and stable establishment in Northern Ireland (as determined in such manner as may be set out in regulations made for the purposes of section 12A(2)(a))[^key-72f810af590760a9c55357bb1e22e363] .
+(6) In this section “international operator” means a person who has an effective and stable establishment in a country or territory other than the United Kingdom that is comparable to an effective and stable establishment in Northern Ireland (as determined in such manner as may be set out in regulations made for the purposes of section 12A(2)(a))[^c-72f810af590760a9c55357bb1e22e363] .
 
-(7)[^key-53c862ae2f3f3466c7de04a8568d6fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-53c862ae2f3f3466c7de04a8568d6fde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80e4a4a896dcdcb8f2f2b1b30e6d59f3]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/nia/2010/2/section/2A) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2018/19/section/12/4), [27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1)
+[^c-80e4a4a896dcdcb8f2f2b1b30e6d59f3]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/nia/2010/2/section/2A) inserted (19.7.2018) by [Haulage Permits and Trailer Registration Act 2018 (c. 19)](https://www.legislation.gov.uk/ukpga/2018/19), [ss. 12(4)](https://www.legislation.gov.uk/ukpga/2018/19/section/12/4), [27(1)](https://www.legislation.gov.uk/ukpga/2018/19/section/27/1)
 
-[^key-72f810af590760a9c55357bb1e22e363]: Textual amendment: Words in [s. 2A(6)](https://www.legislation.gov.uk/nia/2010/2/section/2A/6) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [75(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/75/1)
+[^c-72f810af590760a9c55357bb1e22e363]: Textual amendment: Words in [s. 2A(6)](https://www.legislation.gov.uk/nia/2010/2/section/2A/6) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [75(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/75/1)
 
-[^key-53c862ae2f3f3466c7de04a8568d6fde]: Textual amendment: [S. 2A(7)](https://www.legislation.gov.uk/nia/2010/2/section/2A/7) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [75(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/75/2)
+[^c-53c862ae2f3f3466c7de04a8568d6fde]: Textual amendment: [S. 2A(7)](https://www.legislation.gov.uk/nia/2010/2/section/2A/7) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [75(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/75/2)

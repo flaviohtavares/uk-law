@@ -37,7 +37,7 @@ summary: ''
 - (f) the annual penalty cap and monthly penalty cap applicable in accordance with the electricity capacity regulations in force at the date of issue of the capacity agreement, expressed respectively as percentages of the annual capacity payment and the monthly capacity payments payable under the capacity agreement;
 - (g) whether the capacity provider is subject to a financial commitment milestone and, if so, the date by which that milestone must be met;
 - (h) whether the capacity provider is subject to a minimum completion requirement and, if so, the long stop date in respect of that requirement;
-- (i) the rate at which each termination fee is payable[^key-00b055e7c27012456db7784a57b142f8], which must be determined by the Delivery Body in accordance with regulation 32; and
+- (i) the rate at which each termination fee is payable[^c-00b055e7c27012456db7784a57b142f8], which must be determined by the Delivery Body in accordance with regulation 32; and
 - (j) such other matters as may be specified in capacity market rules.
 
 (3) The matters referred to in sub-paragraphs (a) to (i) of paragraph (2) apply throughout the duration of the capacity agreement and may not be amended except—
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00b055e7c27012456db7784a57b142f8]: Textual amendment: Words in [reg. 31(2)(i)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/31/2/i) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/9) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/3))
+[^c-00b055e7c27012456db7784a57b142f8]: Textual amendment: Words in [reg. 31(2)(i)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/31/2/i) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/9) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/3))

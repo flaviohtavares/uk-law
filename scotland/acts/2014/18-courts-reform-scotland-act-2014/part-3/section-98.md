@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Lay representation: supplementary provision[^key-8f522e9a10c66b9cd72980e7ce8c598a]
+## 98. Lay representation: supplementary provision[^c-8f522e9a10c66b9cd72980e7ce8c598a]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f522e9a10c66b9cd72980e7ce8c598a]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2014/18/section/98) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-8f522e9a10c66b9cd72980e7ce8c598a]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2014/18/section/98) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

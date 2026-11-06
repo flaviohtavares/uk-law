@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Liability of Keeper[^key-309e15f8219d3fc81e53123b68f1b3e5][^key-89e22139f00d8a606bd279d3814e56f1][^key-7b42558dc607329ea231e134b27c67bb]
+## 109. Liability of Keeper[^c-309e15f8219d3fc81e53123b68f1b3e5][^c-89e22139f00d8a606bd279d3814e56f1][^c-7b42558dc607329ea231e134b27c67bb]
 
 *Extent: S*
 
-[^key-7b42558dc607329ea231e134b27c67bb]
+[^c-7b42558dc607329ea231e134b27c67bb]
 
 (1) A person is entitled to be compensated by the Keeper for loss suffered in consequence of—
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-309e15f8219d3fc81e53123b68f1b3e5]: Commencement: S. 109 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-309e15f8219d3fc81e53123b68f1b3e5]: Commencement: S. 109 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-89e22139f00d8a606bd279d3814e56f1]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2023/3/section/109) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-89e22139f00d8a606bd279d3814e56f1]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2023/3/section/109) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
+[^c-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))

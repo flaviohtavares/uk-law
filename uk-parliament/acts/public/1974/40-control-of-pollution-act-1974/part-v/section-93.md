@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Power of authorities to obtain information.[^c2459891][^c2459901][^key-77ac3f0c0d30e201d1da3d49f2730839][^key-24c814e00920216dc45178e40d6fe179][^key-159ff1a49572f6a45c9cea63018d9e62][^key-04f58eeef38d28e70444046643870186][^key-48dc76cb9cefd633e41dc47ad061579a]
+## 93. Power of authorities to obtain information.[^c2459891][^c2459901][^c-77ac3f0c0d30e201d1da3d49f2730839][^c-24c814e00920216dc45178e40d6fe179][^c-159ff1a49572f6a45c9cea63018d9e62][^c-04f58eeef38d28e70444046643870186][^c-48dc76cb9cefd633e41dc47ad061579a]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ shall be guilty of an offence.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years, or to both.
 
-(4)[^key-36651e5fff9a270aca7063f33545daaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-36651e5fff9a270aca7063f33545daaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -50,16 +50,16 @@ shall be guilty of an offence.
 
     S. 93 modified (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [art. 8(2)(3)](https://www.legislation.gov.uk/uksi/1991/2913/article/8/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2913/schedule/2)
 
-[^key-77ac3f0c0d30e201d1da3d49f2730839]: Modification: S. 93 modified (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-77ac3f0c0d30e201d1da3d49f2730839]: Modification: S. 93 modified (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
-[^key-24c814e00920216dc45178e40d6fe179]: Modification: S. 93 modified (6.4.2010) by [The Cornwall Port Health Authority Order 2010 (S.I. 2010/1215)](https://www.legislation.gov.uk/uksi/2010/1215), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1215/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1215/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1215/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2010/1215/article/2))
+[^c-24c814e00920216dc45178e40d6fe179]: Modification: S. 93 modified (6.4.2010) by [The Cornwall Port Health Authority Order 2010 (S.I. 2010/1215)](https://www.legislation.gov.uk/uksi/2010/1215), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1215/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1215/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1215/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2010/1215/article/2))
 
-[^key-159ff1a49572f6a45c9cea63018d9e62]: Modification: S. 93 modified (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-159ff1a49572f6a45c9cea63018d9e62]: Modification: S. 93 modified (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
-[^key-04f58eeef38d28e70444046643870186]: Modification: S. 93 modified (6.4.2010) by [The Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
+[^c-04f58eeef38d28e70444046643870186]: Modification: S. 93 modified (6.4.2010) by [The Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
 
-[^key-48dc76cb9cefd633e41dc47ad061579a]: Modification: S. 93 modified (E.) (6.4.2010) by [The Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
+[^c-48dc76cb9cefd633e41dc47ad061579a]: Modification: S. 93 modified (E.) (6.4.2010) by [The Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
 
 [^c2459911]: Textual amendment: S. 93(3)(3A) substituted (1.4.1996) for s. 93(3) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 112](https://www.legislation.gov.uk/ukpga/1995/25/section/112), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/19/paragraph/1/3) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-36651e5fff9a270aca7063f33545daaa]: Textual amendment: S. 93(4) repealed (S.) (1.4.2006) by [The Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [Sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))
+[^c-36651e5fff9a270aca7063f33545daaa]: Textual amendment: S. 93(4) repealed (S.) (1.4.2006) by [The Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [Sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))

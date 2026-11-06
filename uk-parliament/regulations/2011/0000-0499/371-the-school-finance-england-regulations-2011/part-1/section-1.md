@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement, application and interpretation[^key-07df3411ca5224875b7235749294491a]
+## 1. Citation, commencement, application and interpretation[^c-07df3411ca5224875b7235749294491a]
 
 *Extent: E+W*
 
@@ -105,7 +105,7 @@ summary: ''
 
 ## Annotations
 
-[^key-07df3411ca5224875b7235749294491a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/371/regulation/1) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-07df3411ca5224875b7235749294491a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/371/regulation/1) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
 
 [^f00011]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
 

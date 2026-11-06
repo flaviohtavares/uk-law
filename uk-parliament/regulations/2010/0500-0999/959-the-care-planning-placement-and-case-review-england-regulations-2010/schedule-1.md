@@ -46,7 +46,7 @@ Regulation 5
 
 (1) C's educational and training history, including information about educational institutions attended and C's attendance and conduct record, C's academic and other achievements, and C's special educational needs, if any.
 
-(2) Existing arrangements for C's education and training, including details of any special educational provision and any other provision made to meet C's particular educational or training needs, and to promote C's educational achievement, and including the name and contact details of the person[^key-6071ce2dc944c411042b464acc5b246b] appointed under section 22(3B) of the 1989 Act for the purpose of[^key-139d4aed19d62ee1897cb28023fe4d05] discharging the responsible authority’s duty under section 22(3A) (duty to promote the educational achievement of children looked after by the authority).
+(2) Existing arrangements for C's education and training, including details of any special educational provision and any other provision made to meet C's particular educational or training needs, and to promote C's educational achievement, and including the name and contact details of the person[^c-6071ce2dc944c411042b464acc5b246b] appointed under section 22(3B) of the 1989 Act for the purpose of[^c-139d4aed19d62ee1897cb28023fe4d05] discharging the responsible authority’s duty under section 22(3A) (duty to promote the educational achievement of children looked after by the authority).
 
 (3) Any planned changes to existing arrangements for C's education or training and, where any changes to the arrangements are necessary, provision made to minimise disruption to that education or training.
 
@@ -71,6 +71,6 @@ Regulation 5
 
 ## Annotations
 
-[^key-6071ce2dc944c411042b464acc5b246b]: Textual amendment: Words in Sch. 1 para. 2(2) inserted (19.4.2013) by [The Care Planning, Placement and Case Review (England) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/706)](https://www.legislation.gov.uk/uksi/2013/706), [regs. 1](https://www.legislation.gov.uk/uksi/2013/706/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/706/regulation/7) (with [reg. 14](https://www.legislation.gov.uk/uksi/2013/706/regulation/14))
+[^c-6071ce2dc944c411042b464acc5b246b]: Textual amendment: Words in Sch. 1 para. 2(2) inserted (19.4.2013) by [The Care Planning, Placement and Case Review (England) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/706)](https://www.legislation.gov.uk/uksi/2013/706), [regs. 1](https://www.legislation.gov.uk/uksi/2013/706/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/706/regulation/7) (with [reg. 14](https://www.legislation.gov.uk/uksi/2013/706/regulation/14))
 
-[^key-139d4aed19d62ee1897cb28023fe4d05]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (25.7.2014) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1556)](https://www.legislation.gov.uk/uksi/2014/1556), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1556/regulation/1), [12](https://www.legislation.gov.uk/uksi/2014/1556/regulation/12)
+[^c-139d4aed19d62ee1897cb28023fe4d05]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (25.7.2014) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1556)](https://www.legislation.gov.uk/uksi/2014/1556), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1556/regulation/1), [12](https://www.legislation.gov.uk/uksi/2014/1556/regulation/12)

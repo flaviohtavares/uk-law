@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Extension of relevant authorised persons regime to all authorised persons[^key-f9dc4ee16e2fe3a8234337166ed3215a][^key-e6d2ce8dc49e21d5e8bd10cc9ec6bc22][^key-2f278aaf00c9936fd739ac88483d2f39][^key-7bbb53625d8b9de1daa5fb33c9589d10][^key-5b75faea2531f4f5b8a8a4efe72382ba][^key-212a6f1944a2da6dbfc8121391e287ff][^key-bd5971cb7b346902d3d613ef01dac751]
+## 21. Extension of relevant authorised persons regime to all authorised persons[^c-f9dc4ee16e2fe3a8234337166ed3215a][^c-e6d2ce8dc49e21d5e8bd10cc9ec6bc22][^c-2f278aaf00c9936fd739ac88483d2f39][^c-7bbb53625d8b9de1daa5fb33c9589d10][^c-5b75faea2531f4f5b8a8a4efe72382ba][^c-212a6f1944a2da6dbfc8121391e287ff][^c-bd5971cb7b346902d3d613ef01dac751]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,16 +24,16 @@ Schedule 4 makes provision extending to authorised persons provisions of Part 5 
 
 ## Annotations
 
-[^key-f9dc4ee16e2fe3a8234337166ed3215a]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 13.9.2018 for specified purposes by [S.I. 2018/990](https://www.legislation.gov.uk/uksi/2018/990), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/2) (with [regs. 3-6](https://www.legislation.gov.uk/uksi/2018/990/regulation/3))
+[^c-f9dc4ee16e2fe3a8234337166ed3215a]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 13.9.2018 for specified purposes by [S.I. 2018/990](https://www.legislation.gov.uk/uksi/2018/990), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/2) (with [regs. 3-6](https://www.legislation.gov.uk/uksi/2018/990/regulation/3))
 
-[^key-e6d2ce8dc49e21d5e8bd10cc9ec6bc22]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 10.12.2018 for specified purposes by [S.I. 2018/990](https://www.legislation.gov.uk/uksi/2018/990), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/3) (with [regs. 3-6](https://www.legislation.gov.uk/uksi/2018/990/regulation/3))
+[^c-e6d2ce8dc49e21d5e8bd10cc9ec6bc22]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 10.12.2018 for specified purposes by [S.I. 2018/990](https://www.legislation.gov.uk/uksi/2018/990), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/3) (with [regs. 3-6](https://www.legislation.gov.uk/uksi/2018/990/regulation/3))
 
-[^key-2f278aaf00c9936fd739ac88483d2f39]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 18.7.2019 for specified purposes by [S.I. 2019/1136](https://www.legislation.gov.uk/uksi/2019/1136), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/2)
+[^c-2f278aaf00c9936fd739ac88483d2f39]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 18.7.2019 for specified purposes by [S.I. 2019/1136](https://www.legislation.gov.uk/uksi/2019/1136), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/2)
 
-[^key-7bbb53625d8b9de1daa5fb33c9589d10]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 9.8.2019 for specified purposes by [S.I. 2019/1136](https://www.legislation.gov.uk/uksi/2019/1136), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/3)
+[^c-7bbb53625d8b9de1daa5fb33c9589d10]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 9.8.2019 for specified purposes by [S.I. 2019/1136](https://www.legislation.gov.uk/uksi/2019/1136), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/3)
 
-[^key-5b75faea2531f4f5b8a8a4efe72382ba]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 9.12.2019 for specified purposes by [S.I. 2019/1136](https://www.legislation.gov.uk/uksi/2019/1136), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/4)
+[^c-5b75faea2531f4f5b8a8a4efe72382ba]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 9.12.2019 for specified purposes by [S.I. 2019/1136](https://www.legislation.gov.uk/uksi/2019/1136), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/4)
 
-[^key-212a6f1944a2da6dbfc8121391e287ff]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 10.12.2019 for specified purposes by [S.I. 2018/990](https://www.legislation.gov.uk/uksi/2018/990), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/4) (with [regs. 3-6](https://www.legislation.gov.uk/uksi/2018/990/regulation/3))
+[^c-212a6f1944a2da6dbfc8121391e287ff]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 10.12.2019 for specified purposes by [S.I. 2018/990](https://www.legislation.gov.uk/uksi/2018/990), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2018/990/regulation/2/4) (with [regs. 3-6](https://www.legislation.gov.uk/uksi/2018/990/regulation/3))
 
-[^key-bd5971cb7b346902d3d613ef01dac751]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 7.12.2020 for specified purposes by [S.I. 2019/1136](https://www.legislation.gov.uk/uksi/2019/1136), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/5)
+[^c-bd5971cb7b346902d3d613ef01dac751]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/14/section/21) in force at 7.12.2020 for specified purposes by [S.I. 2019/1136](https://www.legislation.gov.uk/uksi/2019/1136), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/5)

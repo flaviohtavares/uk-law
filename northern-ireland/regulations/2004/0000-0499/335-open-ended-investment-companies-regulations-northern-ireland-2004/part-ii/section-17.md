@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Certificates[^key-c830d96f76b774f1a833383b9d1fd142]
+## 17. Certificates[^c-c830d96f76b774f1a833383b9d1fd142]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c830d96f76b774f1a833383b9d1fd142]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2004/335/regulation/17) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-c830d96f76b774f1a833383b9d1fd142]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2004/335/regulation/17) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

@@ -46,7 +46,7 @@ Coming into force in accordance with article 1
 
 The Secretary of State, in exercise of the powers conferred by sections 43(7), 48(6) and 49(6) of, and paragraph 9 of Schedule 4 and paragraph 2 of Schedule 7 to, the Safeguarding Vulnerable Groups Act 2006[^f00001], makes the following Order.
 
-## 1. Citation, commencement, interpretation and extent[^key-5eb5510de7c4a918f8d8a85512d1034f]
+## 1. Citation, commencement, interpretation and extent[^c-5eb5510de7c4a918f8d8a85512d1034f]
 
 (1) This Order may be cited as the Safeguarding Vulnerable Groups Act 2006 (Miscellaneous Provisions) Order 2012 and, subject to paragraph (2), comes into force on 10th September 2012.
 
@@ -56,37 +56,37 @@ The Secretary of State, in exercise of the powers conferred by sections 43(7), 4
 
 (4) This Order extends to England and Wales.
 
-## 2. Relevant disqualifications[^key-f5f3526e922702b5e57ad4eb228f69bc]
+## 2. Relevant disqualifications[^c-f5f3526e922702b5e57ad4eb228f69bc]
 
 For the purposes of sections 43(7) and 48(6) of the Act, each of the following is a list corresponding to the children’s barred list—
 
 - (a) the list maintained under section 1(1)(a) of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00003];
 - (b) the list maintained under Article 6(1)(a) of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00004].
 
-**3.**[^key-8809bce2396a870b053b302ec50e84ff] For the purposes of sections 43(7) and 49(6) of the Act, each of the following is a list corresponding to the adults’ barred list—
+**3.**[^c-8809bce2396a870b053b302ec50e84ff] For the purposes of sections 43(7) and 49(6) of the Act, each of the following is a list corresponding to the adults’ barred list—
 
 - (a) the list maintained under section 1(1)(b) of the Protection of Vulnerable Groups (Scotland) Act 2007;
 - (b) the list maintained under Article 6(1)(b) of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007.
 
-## 4. Exceptions from regulated activity relating to vulnerable adults[^key-dbbc10345dc66b4af6e402708b3959e4]
+## 4. Exceptions from regulated activity relating to vulnerable adults[^c-dbbc10345dc66b4af6e402708b3959e4]
 
 The provision to an adult of health care (as defined in paragraph 7(2) of Schedule 4 to the Act[^f00005]) by a person who is not, but who acts under the direction or supervision of, a health care professional (as defined in paragraph 7(3) of Schedule 4 to the Act[^f00006]) is not to be treated as a regulated activity relating to vulnerable adults where that health care—
 
 - (a) is provided under regulations under Part 6 of the National Health Service Act 2006[^f00007] or Part 6 of the National Health Service (Wales) Act 2006[^f00008] in practice premises or as mobile services; or
 - (b) is provided in a registered pharmacy (within the meaning of Part IV of the Medicines Act 1968[^f00009]).
 
-**5.**[^key-b6b70c839e4312727cafdaee8c232195] For the purposes of article 4—
+**5.**[^c-b6b70c839e4312727cafdaee8c232195] For the purposes of article 4—
 
 - (a) “practice premises” means practice premises within the meaning of the General Ophthalmic Services Contracts Regulations 2008[^f00010] or, in relation to services provided in Wales, means registered premises in relation to a contractor as defined in the National Health Service (Ophthalmic Services) (Wales) Regulations 2023[^M_F_f6f5b9d7-2366-4b2f-98fc-bb8e72e0f7ed];
 - (b) “mobile services” means mobile services within the meaning of the General Ophthalmic Services Contracts Regulations 2008 or the National Health Service (Ophthalmic Services) (Wales) Regulations 2023[^M_F_868b19fd-e9ce-4a10-b837-eedf98ec5c23].
 
-**6.**[^key-af02d14f56aa3abe7d432723305114d2] The provision to an adult of physical assistance in connection with the care of hair (within the meaning of paragraph 7(3B)(a)(vi) of Schedule 4 to the Act[^f00012]) is not to be treated as a regulated activity relating to vulnerable adults where that assistance relates solely to the cutting of the adult’s hair.
+**6.**[^c-af02d14f56aa3abe7d432723305114d2] The provision to an adult of physical assistance in connection with the care of hair (within the meaning of paragraph 7(3B)(a)(vi) of Schedule 4 to the Act[^f00012]) is not to be treated as a regulated activity relating to vulnerable adults where that assistance relates solely to the cutting of the adult’s hair.
 
-## 7. Schedule 7 amendments[^key-d0715aeb5f5273d37203fe2638672dec]
+## 7. Schedule 7 amendments[^c-d0715aeb5f5273d37203fe2638672dec]
 
 Schedule 7 to the 2006 Act is amended as follows.
 
-**8.**[^key-434d7dd29ff4bf1d04f2a837155bb78e] At the end of the table in paragraph 1 insert the following entry—
+**8.**[^c-434d7dd29ff4bf1d04f2a837155bb78e] At the end of the table in paragraph 1 insert the following entry—
 
 Table 1
 
@@ -96,7 +96,7 @@ Table 1
 |  |  |
 |  |  |
 
-**9.**[^key-e501b0c9a2212824b60548474e9c3b68] In paragraph 3 in sub-paragraph (2) for “1, 2, 5, 6, 9 and 13” substitute “1, 5 and 9”.
+**9.**[^c-e501b0c9a2212824b60548474e9c3b68] In paragraph 3 in sub-paragraph (2) for “1, 2, 5, 6, 9 and 13” substitute “1, 5 and 9”.
 
 James Brokenshire
 
@@ -126,19 +126,19 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47). Paragraph 2 of Schedule 7 to the Act was amended by section 72(5) of the Protection of Freedoms Act 2012.
 
-[^key-5eb5510de7c4a918f8d8a85512d1034f]: Commencement: Art. 1 in force at 10.9.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/1)
+[^c-5eb5510de7c4a918f8d8a85512d1034f]: Commencement: Art. 1 in force at 10.9.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/1)
 
 [^f00002]: Footnote: [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9).
 
-[^key-f5f3526e922702b5e57ad4eb228f69bc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/2113/article/2) in force at 10.9.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/1)
+[^c-f5f3526e922702b5e57ad4eb228f69bc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/2113/article/2) in force at 10.9.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/1)
 
 [^f00003]: Footnote: [2007 asp. 14](https://www.legislation.gov.uk/asp/2007/14).
 
 [^f00004]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-8809bce2396a870b053b302ec50e84ff]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/2113/article/3) in force at 10.9.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/1)
+[^c-8809bce2396a870b053b302ec50e84ff]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/2113/article/3) in force at 10.9.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/1)
 
-[^key-dbbc10345dc66b4af6e402708b3959e4]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/2113/article/4) in force at 10.9.2012 in accordance with, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/2)
+[^c-dbbc10345dc66b4af6e402708b3959e4]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/2113/article/4) in force at 10.9.2012 in accordance with, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/2)
 
 [^f00005]: Footnote: Paragraph 7(2) of Schedule 4 to the Act was substituted by section 66(2) of the Protection of Freedoms Act 2012.
 
@@ -150,7 +150,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00009]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-b6b70c839e4312727cafdaee8c232195]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/2113/article/5) in force at 10.9.2012 in accordance with, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/2)
+[^c-b6b70c839e4312727cafdaee8c232195]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/2113/article/5) in force at 10.9.2012 in accordance with, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/2)
 
 [^f00010]: Footnote: [S.I. 2008/1185](https://www.legislation.gov.uk/uksi/2008/1185).
 
@@ -158,12 +158,12 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^M_F_868b19fd-e9ce-4a10-b837-eedf98ec5c23]: Textual amendment: Words in [art. 5(b)](https://www.legislation.gov.uk/uksi/2012/2113/article/5/b) substituted (20.10.2023) by [The National Health Service (Ophthalmic Services) (Wales) Regulations 2023 (S.I. 2023/1053)](https://www.legislation.gov.uk/uksi/2023/1053), [Sch. 6 para. 6(3)](https://www.legislation.gov.uk/uksi/2023/1053/schedule/6/paragraph/6/3)
 
-[^key-af02d14f56aa3abe7d432723305114d2]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/2113/article/6) in force at 10.9.2012 in accordance with, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/2)
+[^c-af02d14f56aa3abe7d432723305114d2]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/2113/article/6) in force at 10.9.2012 in accordance with, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/2)
 
 [^f00012]: Footnote: Paragraph 7(3B) of Schedule 4 to the Act was inserted by section 66(2) of the Protection of Freedoms Act 2012.
 
-[^key-d0715aeb5f5273d37203fe2638672dec]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/2113/article/7) in force at 10.9.2012 in accordance with, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/2)
+[^c-d0715aeb5f5273d37203fe2638672dec]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/2113/article/7) in force at 10.9.2012 in accordance with, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/2)
 
-[^key-434d7dd29ff4bf1d04f2a837155bb78e]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/2113/article/8) in force at 10.9.2012 in accordance with, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/2)
+[^c-434d7dd29ff4bf1d04f2a837155bb78e]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/2113/article/8) in force at 10.9.2012 in accordance with, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/2)
 
-[^key-e501b0c9a2212824b60548474e9c3b68]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/2113/article/9) in force at 10.9.2012 in accordance with, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/2)
+[^c-e501b0c9a2212824b60548474e9c3b68]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/2113/article/9) in force at 10.9.2012 in accordance with, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2113/article/1/2)

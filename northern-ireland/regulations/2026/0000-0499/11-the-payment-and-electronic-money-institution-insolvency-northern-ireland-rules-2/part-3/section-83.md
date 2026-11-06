@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Expenses of members[^key-1ffe2a87c5748edd7f55c2c9355b469d]
+## 83. Expenses of members[^c-1ffe2a87c5748edd7f55c2c9355b469d]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ffe2a87c5748edd7f55c2c9355b469d]: Commencement: [Rule 83](https://www.legislation.gov.uk/nisr/2026/11/rule/83) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-1ffe2a87c5748edd7f55c2c9355b469d]: Commencement: [Rule 83](https://www.legislation.gov.uk/nisr/2026/11/rule/83) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

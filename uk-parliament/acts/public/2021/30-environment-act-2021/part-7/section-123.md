@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Benefit of obligation of responsible body[^key-5cb93df4a4b2a9e0f37d691e7367f677][^key-b70a526d7a7f94dbf4a6d3ada131d278]
+## 123. Benefit of obligation of responsible body[^c-5cb93df4a4b2a9e0f37d691e7367f677][^c-b70a526d7a7f94dbf4a6d3ada131d278]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5cb93df4a4b2a9e0f37d691e7367f677]: Commencement: S. 123 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-5cb93df4a4b2a9e0f37d691e7367f677]: Commencement: S. 123 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-b70a526d7a7f94dbf4a6d3ada131d278]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2021/30/section/123) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-b70a526d7a7f94dbf4a6d3ada131d278]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2021/30/section/123) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

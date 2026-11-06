@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Seal and validity of documents[^key-dcb0bc5c28d4d6d267c092e840aad3f1]
+## 15. Seal and validity of documents[^c-dcb0bc5c28d4d6d267c092e840aad3f1]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ is to be received in evidence and, unless the contrary is proved, taken to be so
 
 ## Annotations
 
-[^key-dcb0bc5c28d4d6d267c092e840aad3f1]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2011/1/section/15) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)
+[^c-dcb0bc5c28d4d6d267c092e840aad3f1]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2011/1/section/15) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/969/article/2/f)

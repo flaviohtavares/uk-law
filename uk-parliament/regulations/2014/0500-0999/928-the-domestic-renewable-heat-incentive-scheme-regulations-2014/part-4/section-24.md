@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Powers of the Authority when considering an authorisation application[^key-8c397849446638ebf83a73ce5844430e]
+## 24. Powers of the Authority when considering an authorisation application[^c-8c397849446638ebf83a73ce5844430e]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ The Authority may—
 
 ## Annotations
 
-[^key-8c397849446638ebf83a73ce5844430e]: Commencement: Reg. 24 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-8c397849446638ebf83a73ce5844430e]: Commencement: Reg. 24 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

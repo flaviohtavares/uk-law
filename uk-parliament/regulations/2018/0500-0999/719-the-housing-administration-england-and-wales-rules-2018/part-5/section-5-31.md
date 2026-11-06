@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.31. Postponement or cancellation of dividend[^key-16f87b057c781e10cf15f6ee0707792c]
+## 5.31. Postponement or cancellation of dividend[^c-16f87b057c781e10cf15f6ee0707792c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16f87b057c781e10cf15f6ee0707792c]: Commencement: Rule 5.31 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-16f87b057c781e10cf15f6ee0707792c]: Commencement: Rule 5.31 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

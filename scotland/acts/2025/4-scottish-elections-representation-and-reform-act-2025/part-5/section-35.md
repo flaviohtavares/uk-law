@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Review of order of candidates on ballot papers used at elections[^key-6bc72d533c02de1b979ccd36bf14146f][^key-4dcd5b3536ead31409a00f233346231b]
+## 35. Review of order of candidates on ballot papers used at elections[^c-6bc72d533c02de1b979ccd36bf14146f][^c-4dcd5b3536ead31409a00f233346231b]
 
 *Extent: S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6bc72d533c02de1b979ccd36bf14146f]: Commencement: S. 35 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-6bc72d533c02de1b979ccd36bf14146f]: Commencement: S. 35 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-4dcd5b3536ead31409a00f233346231b]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2025/4/section/35) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-4dcd5b3536ead31409a00f233346231b]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2025/4/section/35) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Saving for highway authorities[^key-9cdf5f325615c903394eefe198b355af]
+## 58. Saving for highway authorities[^c-9cdf5f325615c903394eefe198b355af]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order affects any power of a highway authority to widen, alter, 
 
 ## Annotations
 
-[^key-9cdf5f325615c903394eefe198b355af]: Commencement: Art. 58 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-9cdf5f325615c903394eefe198b355af]: Commencement: Art. 58 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

@@ -77,20 +77,20 @@ In accordance with paragraph 24(1) and (3) of Schedule 7 to the Tribunals, Court
 - [Section 17 — Duties of the Reporter where a child is detained under a warrant to secure the attendance of the child](part-4/section-17.md)
 - [Section 18 — Notification and provision of information to a young child](part-4/section-18.md)
 
-### Part 5 — Attendance[^key-e378c338209ae09bbf022ca88f603100]
+### Part 5 — Attendance[^c-e378c338209ae09bbf022ca88f603100]
 
-#### Authorisation to attend[^key-e378c338209ae09bbf022ca88f603100]
+#### Authorisation to attend[^c-e378c338209ae09bbf022ca88f603100]
 
 - [Section 19 — Attendance by individual afforded opportunity to participate at children’s hearing](part-5/section-19.md)
 - [Section 20 — Attendance by representative of individual afforded opportunity to participate at children’s hearing](part-5/section-20.md)
 - [Section 20A — Attendance by custody officer, etc. at pre-hearing panel or children’s hearing](part-5/section-20a.md)
 
-#### Attendance by electronic means[^key-e378c338209ae09bbf022ca88f603100]
+#### Attendance by electronic means[^c-e378c338209ae09bbf022ca88f603100]
 
 - [Section 20B — Request to attend pre-hearing panel or hearing by electronic means](part-5/section-20b.md)
 - [Section 20C — Requirement that person attend children’s hearing only by electronic means](part-5/section-20c.md)
 
-#### Exclusion[^key-e378c338209ae09bbf022ca88f603100]
+#### Exclusion[^c-e378c338209ae09bbf022ca88f603100]
 
 - [Section 20D — Exclusion from children’s hearing or pre-hearing panel](part-5/section-20d.md)
 
@@ -306,4 +306,4 @@ Part 22 (rules 97 to 100) makes miscellaneous provision concerning: the expenses
 
 [^c21803481]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15). Children's hearings under the Children's Hearings (Scotland) Act 2011 (“**the Act**”) were added to the list of listed tribunals for the purpose of Schedule 7 to the 2007 Act by virtue of [S.S.I. 2011/405](https://www.legislation.gov.uk/ssi/2011/405).
 
-[^key-e378c338209ae09bbf022ca88f603100]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/ssi/2013/194/part/5) substituted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/4)
+[^c-e378c338209ae09bbf022ca88f603100]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/ssi/2013/194/part/5) substituted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/4)

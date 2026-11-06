@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Financial penalties for breach of anti-discrimination provisions[^key-ec963bf1170bb18661966ff896536b4f][^key-1ed70927afca3e77b6d920cb002e8bd6]
+## 40. Financial penalties for breach of anti-discrimination provisions[^c-ec963bf1170bb18661966ff896536b4f][^c-1ed70927afca3e77b6d920cb002e8bd6]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ the local housing authority may impose a financial penalty under that subsection
 
 ## Annotations
 
-[^key-ec963bf1170bb18661966ff896536b4f]: Commencement: S. 40 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-ec963bf1170bb18661966ff896536b4f]: Commencement: S. 40 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-1ed70927afca3e77b6d920cb002e8bd6]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2025/26/section/40) in force at 1.5.2026 in so far as not already in force by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)
+[^c-1ed70927afca3e77b6d920cb002e8bd6]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2025/26/section/40) in force at 1.5.2026 in so far as not already in force by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)

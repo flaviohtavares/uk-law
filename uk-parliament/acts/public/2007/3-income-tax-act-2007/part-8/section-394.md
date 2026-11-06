@@ -33,11 +33,11 @@ summary: ''
 
 (5) In this section—
 
-- “**control**” is to be read in accordance with sections 450 and 451 of CTA 2010[^key-b0532dda37412e47053d930f8598cac2], and
-- “**participator**” has the meaning given by section 454 of CTA 2010[^key-96584c94144d35d2723ae40881252111].
+- “**control**” is to be read in accordance with sections 450 and 451 of CTA 2010[^c-b0532dda37412e47053d930f8598cac2], and
+- “**participator**” has the meaning given by section 454 of CTA 2010[^c-96584c94144d35d2723ae40881252111].
 
 ## Annotations
 
-[^key-b0532dda37412e47053d930f8598cac2]: Textual amendment: Words in s. 394(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 522(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/522/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b0532dda37412e47053d930f8598cac2]: Textual amendment: Words in s. 394(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 522(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/522/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-96584c94144d35d2723ae40881252111]: Textual amendment: Words in s. 394(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 522(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/522/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-96584c94144d35d2723ae40881252111]: Textual amendment: Words in s. 394(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 522(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/522/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

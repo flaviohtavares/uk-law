@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 218. Tintern — change of community name[^key-01573be30d4e0693b99b50a0c98fd6ee][^key-dc7cefcd3a6ee69391c14059b6ab57a6]
+## 218. Tintern — change of community name[^c-01573be30d4e0693b99b50a0c98fd6ee][^c-dc7cefcd3a6ee69391c14059b6ab57a6]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The existing community of Tintern as changed by this Order and shown hatched on 
 
 ## Annotations
 
-[^key-01573be30d4e0693b99b50a0c98fd6ee]: Commencement: Art. 218 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-01573be30d4e0693b99b50a0c98fd6ee]: Commencement: Art. 218 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-dc7cefcd3a6ee69391c14059b6ab57a6]: Commencement: [Art. 218](https://www.legislation.gov.uk/wsi/2021/1227/article/218) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-dc7cefcd3a6ee69391c14059b6ab57a6]: Commencement: [Art. 218](https://www.legislation.gov.uk/wsi/2021/1227/article/218) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

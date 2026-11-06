@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Application of regulations 41 to 43[^key-4623bdfa0c29decda9e10d124ba235dc]
+## 45. Application of regulations 41 to 43[^c-4623bdfa0c29decda9e10d124ba235dc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Regulations 41 to 43 do not apply to case records which are subject to the regul
 
 ## Annotations
 
-[^key-4623bdfa0c29decda9e10d124ba235dc]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2005/1313/regulation/45) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-4623bdfa0c29decda9e10d124ba235dc]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2005/1313/regulation/45) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

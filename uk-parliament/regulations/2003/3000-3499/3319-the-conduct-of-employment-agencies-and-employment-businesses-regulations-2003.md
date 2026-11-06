@@ -73,7 +73,7 @@ In these Regulations, unless the context otherwise requires—
 - “**employment business**” means an employment business as defined in section 13(1) and (3) of the Act and includes a person carrying on an employment business, and in the case of a person who carries on both an employment business and an agency means such a person in his capacity in carrying on the employment business;
 - “**hirer**” means a person (including an employment business) to whom an agency or employment business introduces or supplies or holds itself out as being capable of introducing or supplying a work-seeker;
 - “**publication**” means any publication whether in paper or electronic form other than a programme service within the meaning of the Broadcasting Act 1990 [^c5111951];
-- “vulnerable person” means any person who by reason of age, infirmity, illness, disability or any other circumstance is in need of care or attention, and includes any person under the age of eighteen;[^key-0d3503e8810a4d2c0ab3265e58e76581]
+- “vulnerable person” means any person who by reason of age, infirmity, illness, disability or any other circumstance is in need of care or attention, and includes any person under the age of eighteen;[^c-0d3503e8810a4d2c0ab3265e58e76581]
 - “**work-finding services**” means services (whether by the provision of information or otherwise) provided—
   - (a) by an agency to a person for the purpose of finding that person employment or seeking to find that person employment;
   - (b) by an employment business to an employee of the employment business for the purpose of finding or seeking to find another person, with a view to the employee acting for and under the control of that other person;
@@ -84,7 +84,7 @@ In these Regulations, unless the context otherwise requires—
 
 (1) For the purposes of these Regulations a person is connected with—
 
-- (a) his spouse or civil partner[^key-e596cfdfb6dfb3942c84bc1ea6518ae3] or minor child or stepchild;
+- (a) his spouse or civil partner[^c-e596cfdfb6dfb3942c84bc1ea6518ae3] or minor child or stepchild;
 - (b) any individual who employs him or is his employee;
 - (c) any person who is in partnership with him;
 - (d) any company of which he is a director or other officer and any company connected with that company;
@@ -112,18 +112,18 @@ In these Regulations, unless the context otherwise requires—
 
 ## PART II — GENERAL OBLIGATIONS
 
-### 5. Restriction on use of additional services[^key-65ccd2d70db316c6481d9b5ac1d256aa]
+### 5. Restriction on use of additional services[^c-65ccd2d70db316c6481d9b5ac1d256aa]
 
-(1)[^key-d2f1af4c7946050ad21f120582e0b8aa] Neither an agency nor an employment business may make the provision to a work-seeker of work-finding services conditional upon the work-seeker—
+(1)[^c-d2f1af4c7946050ad21f120582e0b8aa] Neither an agency nor an employment business may make the provision to a work-seeker of work-finding services conditional upon the work-seeker—
 
 - (a) using other services for which the Act does not prohibit the charging of a fee, or
 - (b) hiring or purchasing goods,
 
 whether provided by the agency or the employment business or by any person with whom the agency or employment business is connected.
 
-(2)[^key-255c429dfa91755c3cc26aa633d2b5ea] Where the work-seeker uses services for which the Act does not prohibit the charging of a fee, an agency or employment business providing or making provision for such services shall ensure that the work-seeker is able to cancel or withdraw from those services at any time without incurring any detriment or penalty, subject to the work-seeker giving to the provider of those services in paper form or by electronic means notice of five business days or, for services relating to the provision of living accommodation, notice of ten business days.
+(2)[^c-255c429dfa91755c3cc26aa633d2b5ea] Where the work-seeker uses services for which the Act does not prohibit the charging of a fee, an agency or employment business providing or making provision for such services shall ensure that the work-seeker is able to cancel or withdraw from those services at any time without incurring any detriment or penalty, subject to the work-seeker giving to the provider of those services in paper form or by electronic means notice of five business days or, for services relating to the provision of living accommodation, notice of ten business days.
 
-(3)[^key-681558ac05c7bb69aa6cd38f2ffc0cbc] In addition, where the work-seeker is seeking employment as an actor, background artist, dancer, extra, musician, singer or other performer or as a photographic or fashion model and that work-seeker uses a service, for which the Act does not prohibit the charging of a fee, which includes the production of a photographic image or audio or video recording of the work-seeker, an agency or employment business providing or making provision for such service shall ensure that, for 30 days from the date of the agency or employment business entering into a contract for such a service whether written or oral—
+(3)[^c-681558ac05c7bb69aa6cd38f2ffc0cbc] In addition, where the work-seeker is seeking employment as an actor, background artist, dancer, extra, musician, singer or other performer or as a photographic or fashion model and that work-seeker uses a service, for which the Act does not prohibit the charging of a fee, which includes the production of a photographic image or audio or video recording of the work-seeker, an agency or employment business providing or making provision for such service shall ensure that, for 30 days from the date of the agency or employment business entering into a contract for such a service whether written or oral—
 
 - (a) the agency or the employment business shall not charge a fee to a work-seeker for that part of the service which consists of providing or making provision for a photographic image or audio or video recording of the work-seeker; and
 - (b) the work-seeker shall be entitled without detriment or penalty to cancel or withdraw from any contract with the agency or employment business for such a service with immediate effect by informing the agency or employment business of cancellation or withdrawal and where the work-seeker informs the agency or employment business of cancellation or withdrawal the work-seeker has no obligation to make any payment under the contract.
@@ -175,7 +175,7 @@ the work-seeker, his remuneration arising from the employment with the hirer.
   - (ii) the agency complies with the provisions of regulation 25 and Schedule 2; or
 - (b) the hirer and the agency are connected.
 
-### 9. Restriction on agencies and employment businesses purporting to act on a different basis[^key-6120ed5d75f547b7a18f5a4cfbc4f06f]
+### 9. Restriction on agencies and employment businesses purporting to act on a different basis[^c-6120ed5d75f547b7a18f5a4cfbc4f06f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -210,7 +210,7 @@ is unenforceable by the employment business in relation to the event concerned w
 - (a) seek to enforce against the hirer, or otherwise seek to give effect to, any term of a contract which is unenforceable by virtue of paragraph (1), (3) or (4); or
 - (b) otherwise directly or indirectly request a payment to which by virtue of this regulation the employment business is not entitled.
 
-### 11. Entering into a contract on behalf of a client[^key-95c913a36aee9d2f00f93104c9990cff]
+### 11. Entering into a contract on behalf of a client[^c-95c913a36aee9d2f00f93104c9990cff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -233,7 +233,7 @@ An employment business shall not, in respect of a work-seeker whom it supplies t
 - (b) whether any other services or goods which may be provided by the agency or employment business or any other person are services or goods for which the agency or employment business or other person providing them will or may charge a fee, together with details of any such fee including—
   - (i) the amount or method of calculation of the fee;
   - (ii) the identity of the person to whom the fee is or will be payable;
-  - (iii) a description of the services or goods to which the fee relates and a statement of the work-seeker’s right to cancel or withdraw from the service[^key-4295790a50cf8d8ab1a563865887f832] and, as the case may be, of the notice period required under paragraph (2) of regulation 5 or of the period during which the right under paragraph (3) of that regulation can be exercised[^key-53e4fee56cce0e5976bfcab02664415e]; and
+  - (iii) a description of the services or goods to which the fee relates and a statement of the work-seeker’s right to cancel or withdraw from the service[^c-4295790a50cf8d8ab1a563865887f832] and, as the case may be, of the notice period required under paragraph (2) of regulation 5 or of the period during which the right under paragraph (3) of that regulation can be exercised[^c-53e4fee56cce0e5976bfcab02664415e]; and
   - (iv) the circumstances, if any, in which refunds or rebates are payable to the work-seeker, the scale of such refunds or rebates, and if no refunds or rebates are payable, a statement to that effect.
 
 (2) Paragraph (1) shall apply only where one or more services or goods referred to in paragraph (1)(b) for which the work-seeker will or may be charged a fee may be provided to the work-seeker.
@@ -242,7 +242,7 @@ An employment business shall not, in respect of a work-seeker whom it supplies t
 
 (4) Where an agency or employment business offers any gift or makes an offer of any benefit to a work-seeker, in order to induce him to engage the agency or employment business to provide him with services, the agency or employment business shall notify the work-seeker of the terms on which the gift or benefit is offered before the offer is open for acceptance by the work-seeker.
 
-### 13A. Key information document: Employment businesses[^key-01e9630b0522e48532e0c6df09cdca8a]
+### 13A. Key information document: Employment businesses[^c-01e9630b0522e48532e0c6df09cdca8a]
 
 (1) Before obtaining the agreement of the work-seeker to the terms which will apply as between the employment business and the work-seeker in accordance with regulation 14, an employment business must give the work-seeker and, where paragraph (6) applies, any person to be supplied by the work-seeker to carry out the work a key information document in accordance with this regulation.
 
@@ -254,7 +254,7 @@ An employment business shall not, in respect of a work-seeker whom it supplies t
 - (b) a statement immediately beneath the title that—
   - (i) the key information document specifies key information which relates to the relationship between the employment business and the work-seeker and, where paragraph (6) applies, any person to be supplied by the work-seeker to carry out the work;
   - (ii) where necessary, identifies documents where further related information may be found; and
-  - (iii) includes contact details of the officers appointed or arranged to act under section 90 of the Employment Rights Act 2025[^key-8eece445ae54539623937a4b87095a9a] and informs the work-seeker and, where paragraph (6) applies, any person to be supplied by the work-seeker to carry out the work that they may contact those officers if they are concerned about a breach by the employment business of obligations under that Act or these Regulations;
+  - (iii) includes contact details of the officers appointed or arranged to act under section 90 of the Employment Rights Act 2025[^c-8eece445ae54539623937a4b87095a9a] and informs the work-seeker and, where paragraph (6) applies, any person to be supplied by the work-seeker to carry out the work that they may contact those officers if they are concerned about a breach by the employment business of obligations under that Act or these Regulations;
 - (c) except where paragraph (6) applies, details in respect of—
   - (i) whether the work-seeker is or will be employed by the employment business under a contract of service or apprenticeship, or a contract for services;
   - (ii) the identity of the employment business;
@@ -352,7 +352,7 @@ An employment business shall not, in respect of a work-seeker whom it supplies t
 
 (18) For the purposes of this regulation, a work-seeker includes a work-seeker which is a company, whether or not an agreement has been made in accordance with paragraph (9) of regulation 32.
 
-### 14. Requirement to obtain agreement to terms with work-seekers: Employment Businesses[^key-f97e63f3f03705608096fb1eb202a7ed]
+### 14. Requirement to obtain agreement to terms with work-seekers: Employment Businesses[^c-f97e63f3f03705608096fb1eb202a7ed]
 
 (1) Before first providing any work-finding services to a work-seeker, an employment business shall obtain the agreement of the work-seeker to the terms which apply or will apply as between the employment business and the work-seeker including—
 
@@ -386,12 +386,12 @@ In the case of an employment business, the terms to be agreed in accordance with
 - (e) details of the intervals at which remuneration will be paid; and
 - (f) details of any entitlement to annual holidays and to payment in respect of such holidays.
 
-### 16. Requirement to obtain agreement to terms with work-seekers and content of terms with work-seekers: Agencies[^key-9d2760fa5d54dcce1e1946b3144e181d]
+### 16. Requirement to obtain agreement to terms with work-seekers and content of terms with work-seekers: Agencies[^c-9d2760fa5d54dcce1e1946b3144e181d]
 
 (1) Before first providing any work-finding services to a work-seeker, for which it is permitted by regulation 26(1) to charge a fee, an agency shall obtain the agreement of the work-seeker to the terms which apply or will apply as between the agency and the work-seeker including—
 
 - (a) details of the work-finding services to be provided by the agency;
-- (b) details of the agency’s authority, if any, to act on behalf of the work-seeker, including whether, and if so, upon what terms it is [^key-c8dc539867e3d016a2a6a75d1b671776]... authorised to enter into contracts with hirers on behalf of the work-seeker;
+- (b) details of the agency’s authority, if any, to act on behalf of the work-seeker, including whether, and if so, upon what terms it is [^c-c8dc539867e3d016a2a6a75d1b671776]... authorised to enter into contracts with hirers on behalf of the work-seeker;
 - (c) a statement as to whether the agency is authorised to receive money on behalf of the work-seeker;
 - (d) details of any fee which may be payable by the work-seeker to the agency for work-finding services including—
   - (i) the amount or method of calculation of the fee,
@@ -433,7 +433,7 @@ In the case of an employment business, the terms to be agreed in accordance with
 
 (8) An agency may not make the continued provision of any services by it to a work-seeker conditional on the agreement by the work-seeker to any such variation.
 
-### 17. Requirement for employment businesses to obtain agreement to terms with hirers[^key-bc5b851fa7b6d81481e30a63a52d5f9c]
+### 17. Requirement for employment businesses to obtain agreement to terms with hirers[^c-bc5b851fa7b6d81481e30a63a52d5f9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -452,7 +452,7 @@ Neither an agency nor an employment business may introduce or supply a work-seek
   - (i) the minimum rate of remuneration and any other benefits which the hirer would offer to a person in the position which it seeks to fill, and the intervals at which the person would be paid; and
   - (ii) where applicable, the length of notice which a work-seeker in such a position would be required to give, and entitled to receive, to terminate the employment with the hirer.
 
-### 19. Confirmation to be obtained about a work-seeker[^key-9be315ab1e3bd5eba02bd4b56722cd65]
+### 19. Confirmation to be obtained about a work-seeker[^c-9be315ab1e3bd5eba02bd4b56722cd65]
 
 (1) An employment business may not introduce or supply a work-seeker to a hirer unless it has obtained confirmation—
 
@@ -496,7 +496,7 @@ Neither an agency nor an employment business may introduce or supply a work-seek
 
 ### 21. Provision of information to work-seekers and hirers
 
-(1) Subject to paragraphs (3), (4) and (5)[^key-f66181cdadddabfe73fb8da902c2968f], an agency or employment business shall ensure that at the same time as—
+(1) Subject to paragraphs (3), (4) and (5)[^c-f66181cdadddabfe73fb8da902c2968f], an agency or employment business shall ensure that at the same time as—
 
 - (a) it proposes a particular work-seeker to a hirer—
   - (i) it gives to the hirer (whether orally or otherwise) all information it has been provided with about the matters referred to in regulation 19; and
@@ -514,14 +514,14 @@ Neither an agency nor an employment business may introduce or supply a work-seek
 
 unless the work-seeker or hirer requests otherwise.
 
-(4)[^key-8e1bd4eda44ceac9291a5adaa38786dc] Subject to paragraphs (3) and (5), where an employment business intends to introduce or supply a work-seeker to a hirer for an assignment of five consecutive business days’ duration or less—
+(4)[^c-8e1bd4eda44ceac9291a5adaa38786dc] Subject to paragraphs (3) and (5), where an employment business intends to introduce or supply a work-seeker to a hirer for an assignment of five consecutive business days’ duration or less—
 
 - (a) paragraph (1)(a)(i) may be satisfied by the employment business giving to the hirer (whether orally or otherwise) the name of the work-seeker to be supplied and a written confirmation by the employment business that it has complied with regulation 19; and
 - (b) paragraph (1)(b) may be satisfied, where the employment business has previously provided the work-seeker with the information referred to under that paragraph and that information remains unchanged, by the employment business giving to the work-seeker in paper form or by electronic means the information referred to in regulation 18(a) and (b).
 
 (5) Where, after it has started, an assignment to which paragraph (4) applies is extended beyond a duration of five business days, the information referred to in paragraph (1) which has not already been provided shall be provided in paper form or by electronic means by the end of the eighth business day of the assignment, or by the end of the assignment if sooner.
 
-### 22. Additional requirements where professional qualifications or authorisation are required or where work-seekers are to work with vulnerable persons[^key-4cd1241ed1b4f2ac0a9205b78c979147]
+### 22. Additional requirements where professional qualifications or authorisation are required or where work-seekers are to work with vulnerable persons[^c-4cd1241ed1b4f2ac0a9205b78c979147]
 
 (1) Where the work-seeker is to be supplied or introduced to a hirer with a view to taking up a position which involves working with, caring for or attending a vulnerable person, neither an agency nor an employment business may introduce or supply the work-seeker to a hirer unless, in addition to the requirements in regulations 18 to 21, the requirements in paragraph (2) are satisfied.
 
@@ -556,7 +556,7 @@ unless the work-seeker or hirer requests otherwise.
 
 ### 23. Situations where more than one agency or employment business is involved
 
-(1)[^key-62e54be0fd621e05086716870f2c3e04] An agency (“A”) acting for a work-seeker whom it is permitted by regulation 26(1) to charge for work-finding services may not enter into any contract or arrangement with another agency (“B”) with a view to B providing or facilitating the provision of such services in relation to the work-seeker unless—
+(1)[^c-62e54be0fd621e05086716870f2c3e04] An agency (“A”) acting for a work-seeker whom it is permitted by regulation 26(1) to charge for work-finding services may not enter into any contract or arrangement with another agency (“B”) with a view to B providing or facilitating the provision of such services in relation to the work-seeker unless—
 
 - (a) A has ensured that the hirer has been informed that any payment due to the work-seeker must be paid either directly to the work-seeker, or to A, rather than to B; or
 - (b) A and B have agreed that B may receive any payment due to the work-seeker and the following conditions are met—
@@ -612,7 +612,7 @@ the agency or employment business shall, if the work does not start or upon it e
 (1) In this regulation—
 
 - “**client account**” means a current or deposit account at a credit institution operated by an agency for holding clients' money in accordance with the provisions of this regulation and Schedule 2;
-- “credit institution” means a credit institution as defined in Article 4(1)(1) of Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012, that is to say, an undertaking whose business is to receive deposits or other repayable funds from the public and to grant credits for its own account;[^key-0cecf71db156da3be32c850864fc8743]
+- “credit institution” means a credit institution as defined in Article 4(1)(1) of Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012, that is to say, an undertaking whose business is to receive deposits or other repayable funds from the public and to grant credits for its own account;[^c-0cecf71db156da3be32c850864fc8743]
 - “**hirer’s deposit**” means money held or received by an agency by way of an advance against payment to a work-seeker in respect of work to be done by that work-seeker, where the advance may, in accordance with the terms of any contract between the work-seeker and the hirer, be repayable to the hirer;
 
 an agency receives money on behalf of a work-seeker when the agency or any person connected with it receives money directly or indirectly from a hirer or any person connected with a hirer pursuant to the terms of any contract or arrangement between the work-seeker and the hirer, whether or not the agency has agreed with the work-seeker or the hirer that it will receive such money on the work-seeker’s behalf;
@@ -685,20 +685,20 @@ shall be paid into a client account no later than the end of the second business
 
 (4) In any case in which the agency is connected with the hirer, paragraphs (1) and (7) only apply if, prior to the provision of the service in respect of which the fee is to be charged, the agency informs the work-seeker of the fact that it is connected with the hirer.
 
-(5) Paragraph (2) shall not apply to any fee charged to a work-seeker, who is not a work-seeker seeking employment as a photographic or fashion model,[^key-fd75bb1e59a20809bb29e96cba807003] by an agency in respect of the inclusion of information about the work-seeker in a publication provided that—
+(5) Paragraph (2) shall not apply to any fee charged to a work-seeker, who is not a work-seeker seeking employment as a photographic or fashion model,[^c-fd75bb1e59a20809bb29e96cba807003] by an agency in respect of the inclusion of information about the work-seeker in a publication provided that—
 
-- (a) the publication is wholly for one or both of the following purposes, namely the purpose of finding work-seekers employment in, or providing hirers with information about work-seekers in relation to, any of the occupations listed in Schedule 3, other than photographic or fashion model[^key-4771876f0392c799f64bd336d622ba55]; and
+- (a) the publication is wholly for one or both of the following purposes, namely the purpose of finding work-seekers employment in, or providing hirers with information about work-seekers in relation to, any of the occupations listed in Schedule 3, other than photographic or fashion model[^c-4771876f0392c799f64bd336d622ba55]; and
 - (b) either—
   - (i) the only work-finding service provided by the agency or any person connected with it to the work-seeker is the service described in this paragraph; or
   - (ii) the fee charged to the work-seeker amounts to no more than a reasonable estimate of the cost of production and circulation of the publication attributable to the inclusion of information about that work-seeker in the publication; and
-- (c) in addition to the requirements in regulations 13[^key-62dc671f1492b7c5ec4a14fa3e2268ed]...and 16, in so far as they are applicable, the agency has, before it entered into the contract with the work-seeker by reference to which the fee is to be charged, made available to him a copy of a current edition of the publication (or, where the publication exists only in electronic form, given him access to a current edition of the publication) in which it is offering to include information about him; and[^M_F_33e36e8f-bc4a-4067-ab71-d0e6bd304951]
-- (d)[^key-d9d58efc9ccd7d03fc3f59d7102d61de] in relation to a work-seeker who is not seeking employment as an actor, background artist, dancer, extra, musician, singer or other performer, where an agency proposes to include information about the work-seeker in a publication, for 7 days from the date of the agency and the work-seeker entering into a contract for such a service, whether written or oral and whether or not expressly mentioning fees permitted under this paragraph—
+- (c) in addition to the requirements in regulations 13[^c-62dc671f1492b7c5ec4a14fa3e2268ed]...and 16, in so far as they are applicable, the agency has, before it entered into the contract with the work-seeker by reference to which the fee is to be charged, made available to him a copy of a current edition of the publication (or, where the publication exists only in electronic form, given him access to a current edition of the publication) in which it is offering to include information about him; and[^M_F_33e36e8f-bc4a-4067-ab71-d0e6bd304951]
+- (d)[^c-d9d58efc9ccd7d03fc3f59d7102d61de] in relation to a work-seeker who is not seeking employment as an actor, background artist, dancer, extra, musician, singer or other performer, where an agency proposes to include information about the work-seeker in a publication, for 7 days from the date of the agency and the work-seeker entering into a contract for such a service, whether written or oral and whether or not expressly mentioning fees permitted under this paragraph—
   - (i) the agency shall not charge a fee permitted by this paragraph to a work-seeker;
   - (ii) the work-seeker shall be entitled without detriment or penalty to cancel or withdraw from any such contract with immediate effect by informing the agency of such cancellation or withdrawal; and
   - (iii) the agency shall not include the information in the publication,
 
   and before entering into any such contract the agency shall inform the work-seeker of the right to cancel or withdraw from any such contract and the time limit for exercising that right;
-- (e)[^key-8cebda3e38d966e3077a33331092e0d5] where an agency proposes to include information about a work-seeker seeking employment as an actor, background artist, dancer, extra, musician, singer or other performer in a publication, for 30 days from the date of the agency and the work-seeker entering into a contract for such a service, whether written or oral and whether or not expressly mentioning fees permitted under this paragraph—
+- (e)[^c-8cebda3e38d966e3077a33331092e0d5] where an agency proposes to include information about a work-seeker seeking employment as an actor, background artist, dancer, extra, musician, singer or other performer in a publication, for 30 days from the date of the agency and the work-seeker entering into a contract for such a service, whether written or oral and whether or not expressly mentioning fees permitted under this paragraph—
   - (i) the agency shall not charge a fee permitted by this paragraph to a work-seeker; and
   - (ii) the work-seeker shall be entitled without detriment or penalty to cancel or withdraw from any such contract with immediate effect by informing the agency of such cancellation or withdrawal,
 
@@ -710,7 +710,7 @@ shall be paid into a client account no later than the end of the second business
 - (g) where sub-paragraph (f) applies and the work-seeker informs the agency of an objection, the agency shall not charge a fee or include the information in the publication until the work-seeker’s reasonable requirements have been addressed (even if addressing the requirements takes longer than the period referred to in that sub-paragraph); and
 - (h) where an agency includes, or proposes to include, information about a work-seeker in a publication, the work-seeker is entitled to a full refund of the fees paid if the publication including that information is not produced and made available to potential hirers within 60 days from the date on which payment is made by the work-seeker.
 
-(5A)[^key-b97b84b9beb3b7466b2f9dfd46a4a191] Where an agency makes available to the work-seeker a copy of the information referred to in paragraph (5)(f)—
+(5A)[^c-b97b84b9beb3b7466b2f9dfd46a4a191] Where an agency makes available to the work-seeker a copy of the information referred to in paragraph (5)(f)—
 
 - (a) during the period referred to in paragraph (5)(e), where the period referred to in paragraph (5)(f) has elapsed without an objection or where the reasonable requirements of the work-seeker have been addressed, paragraph (5)(e) continues to apply; or
 - (b) after the period referred to in paragraph (5)(e) has elapsed, paragraph (5)(f) applies until the later of, the date on which the period referred to in paragraph (5)(f) has elapsed or, following an objection, the date on which the reasonable requirements of the work-seeker have been addressed.
@@ -733,7 +733,7 @@ shall be paid into a client account no later than the end of the second business
 
 ### 27. Advertisements
 
-(1) Every advertisement issued or caused to be issued by an agency or employment business shall mention in either audibly spoken words or easily legible characters the full name of the agency or employment business, and in relation to each position it advertises whether it is for temporary or permanent work[^key-502a045a0d2274a60da6dcaed311de56].
+(1) Every advertisement issued or caused to be issued by an agency or employment business shall mention in either audibly spoken words or easily legible characters the full name of the agency or employment business, and in relation to each position it advertises whether it is for temporary or permanent work[^c-502a045a0d2274a60da6dcaed311de56].
 
 (2) Neither an agency nor an employment business may issue or cause to be issued an advertisement about positions which hirers seek to fill unless the agency or employment business has—
 
@@ -742,12 +742,12 @@ shall be paid into a client account no later than the end of the second business
 
 (3) An agency or employment business shall, in every advertisement for work-seekers issued or caused to be issued by it in which rates of pay are given, state the nature of the work, the location at which the work-seeker would be required to work, and the minimum experience, training or qualifications which the work-seeker would be required to have in order to receive those rates of pay.
 
-### 27A. Advertising in ... EEA states[^key-aaa57118e55bf94da95e49a1cb7f3d16][^key-9d3b59b1de96d5e3faa29ac83269210a]
+### 27A. Advertising in ... EEA states[^c-aaa57118e55bf94da95e49a1cb7f3d16][^c-9d3b59b1de96d5e3faa29ac83269210a]
 
-(1) An agency or employment business must not publish a relevant recruitment advertisement in an EEA state [^key-743b49d80fa3f4351a41e0803856033f]... unless—
+(1) An agency or employment business must not publish a relevant recruitment advertisement in an EEA state [^c-743b49d80fa3f4351a41e0803856033f]... unless—
 
-- (a) it publishes the advertisement in English in Great Britain at the same time as it publishes the advertisement in the [^key-22039bf3f041a15f862364299cf66b29]... EEA state; or
-- (b) it has published the advertisement in English in Great Britain for all or part of the period of 28 days ending with the day on which it publishes the advertisement in the [^key-22039bf3f041a15f862364299cf66b29]... EEA state.
+- (a) it publishes the advertisement in English in Great Britain at the same time as it publishes the advertisement in the [^c-22039bf3f041a15f862364299cf66b29]... EEA state; or
+- (b) it has published the advertisement in English in Great Britain for all or part of the period of 28 days ending with the day on which it publishes the advertisement in the [^c-22039bf3f041a15f862364299cf66b29]... EEA state.
 
 (2) Paragraph (1) does not apply if the relevant recruitment advertisement concerns a vacancy for a worker to act solely for, and under the control of, the agency or employment business itself.
 
@@ -780,21 +780,21 @@ in respect of a contravention of paragraph (1) that the agency or employment bus
 
 (1) Subject to paragraph (6), every agency and every employment business shall keep records which are sufficient to show whether the provisions of the Act and these Regulations are being complied with including (subject to paragraph (3))—
 
-- (a) the particulars specified in Schedule 4, in relation to every application received by the agency or employment business from a work-seeker; and[^key-46277050e7b4516eb487dd50d16a6ca9]
-- (b) the particulars specified in Schedule 5, in relation to every application received by the agency or employment business from a hirer; [^key-a85355d2756c332734e8d5704e147c7f]...
-- (c)[^key-d8769292681f9dffc93c4f14cde0475b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the particulars specified in Schedule 4, in relation to every application received by the agency or employment business from a work-seeker; and[^c-46277050e7b4516eb487dd50d16a6ca9]
+- (b) the particulars specified in Schedule 5, in relation to every application received by the agency or employment business from a hirer; [^c-a85355d2756c332734e8d5704e147c7f]...
+- (c)[^c-d8769292681f9dffc93c4f14cde0475b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The records mentioned in paragraph (1) shall be kept for at least one year from the date of their creation, and in the case of the particulars referred to in sub-paragraphs (a) and (b) of paragraph (1), at least one year after the date on which the agency or employment business last provides services in the course of its business as an agency or an employment business to the applicant to whom they relate.
 
 (3) Neither an agency nor an employment business is required to keep the particulars referred to in paragraphs (1)(a) or (1)(b) in respect of applications on which the agency or employment business takes no action.
 
-(4) The records mentioned in paragraph (1) may be kept by an agency or employment business, either at any premises it uses for or in connection with the carrying on of an agency or employment business, or elsewhere. If they are kept elsewhere, the agency or employment business shall ensure that they are readily accessible by it and that it is reasonably practicable for any person employed by the agency or employment business at any premises it uses for or in connection with the carrying on of an agency or employment business to arrange for them to be delivered no later than the end of the second business day following the day on which a request under sections 96 or 97 of the Employment Rights Act 2025[^key-0cb04cae2e960b93d935152f4105fca1] for them is made, to the premises at which that person is employed.
+(4) The records mentioned in paragraph (1) may be kept by an agency or employment business, either at any premises it uses for or in connection with the carrying on of an agency or employment business, or elsewhere. If they are kept elsewhere, the agency or employment business shall ensure that they are readily accessible by it and that it is reasonably practicable for any person employed by the agency or employment business at any premises it uses for or in connection with the carrying on of an agency or employment business to arrange for them to be delivered no later than the end of the second business day following the day on which a request under sections 96 or 97 of the Employment Rights Act 2025[^c-0cb04cae2e960b93d935152f4105fca1] for them is made, to the premises at which that person is employed.
 
 (5) The records an agency or employment business is required to keep pursuant to this regulation may be kept in electronic form, provided that the information so recorded is capable of being reproduced in legible form.
 
 (6) This regulation does not apply to any records which an agency is required to preserve in accordance with paragraph 12 of Schedule 2.
 
-(7)[^key-cb4620e4ee4c550a6bf85db8fbc8c531] For the purposes of paragraph (1)(a) of this regulation, so far as that paragraph requires an employment business to keep records of the particulars specified in paragraph 2A of Schedule 4, the reference in paragraph (1) of this regulation to a work-seeker includes a work-seeker which is a company, whether or not an agreement has been made in accordance with paragraph (9) of regulation 32.
+(7)[^c-cb4620e4ee4c550a6bf85db8fbc8c531] For the purposes of paragraph (1)(a) of this regulation, so far as that paragraph requires an employment business to keep records of the particulars specified in paragraph 2A of Schedule 4, the reference in paragraph (1) of this regulation to a work-seeker includes a work-seeker which is a company, whether or not an agreement has been made in accordance with paragraph (9) of regulation 32.
 
 ### 30. Civil liability
 
@@ -820,13 +820,13 @@ which exists or may be available apart from the provisions of the Act and these 
 - (a) any reference to a work-seeker, howsoever described, includes a work-seeker which is a company; and
 - (b) the regulations mentioned below shall be modified as set out below in a case where the work-seeker is a company.
 
-(2)[^key-4fe5bdfc1ea3889094d9c18cd2cfac0c] In regulation 5(1) after “upon the work-seeker” insert—
+(2)[^c-4fe5bdfc1ea3889094d9c18cd2cfac0c] In regulation 5(1) after “upon the work-seeker” insert—
 
 > , or the person who is or would be supplied by the work-seeker to carry out the work
 
 .
 
-(2A)[^key-602cb44a9ff7831ac506c995d95202a5] In regulation 5(2) after “Where the work-seeker” insert “, or the person who is or would be supplied by the work-seeker to carry out the work”.
+(2A)[^c-602cb44a9ff7831ac506c995d95202a5] In regulation 5(2) after “Where the work-seeker” insert “, or the person who is or would be supplied by the work-seeker to carry out the work”.
 
 (2B) In regulation 5(3) after “Where the work-seeker” insert “, or the person who is or would be supplied by the work-seeker to carry out the work”.
 
@@ -847,7 +847,7 @@ which exists or may be available apart from the provisions of the Act and these 
 
 (5) In regulation 18(d), for the words “for a work-seeker” on each occasion on which they occur substitute the words “ for a person supplied by the work-seeker to carry out the work ”.
 
-(6)[^key-a401b39caf8d086eed52274368985f84] In regulation 19—
+(6)[^c-a401b39caf8d086eed52274368985f84] In regulation 19—
 
 - (a) in paragraphs (1)(a) and (2)(a), after the words “the work-seeker” add the words “and of the person the work-seeker would supply to carry out the work”; and
 - (b) in paragraphs (1)(b), (2)(b) and (3), for the words “that the work-seeker” substitute the words “that the person who would be supplied by the work-seeker to carry out the work”.
@@ -856,7 +856,7 @@ which exists or may be available apart from the provisions of the Act and these 
 
 (8) In regulations 24(2), (3), (4), (5), (7) and (8), the references to “**the work-seeker**” shall be read as references to the person who would be supplied by the work-seeker to carry out the work.
 
-(9)[^key-e9b5559cdd699606c62e3550b8eb5969] Subject to paragraph (18) of regulation 13A, paragraph (7) of regulation 29 and[^key-620e6968d53af00c5fa5ea3d39c6c5df] paragraph (12), paragraphs (1) to (8) shall not apply where, before an employment business or agency introduces or supplies to a hirer a work-seeker which is a company—
+(9)[^c-e9b5559cdd699606c62e3550b8eb5969] Subject to paragraph (18) of regulation 13A, paragraph (7) of regulation 29 and[^c-620e6968d53af00c5fa5ea3d39c6c5df] paragraph (12), paragraphs (1) to (8) shall not apply where, before an employment business or agency introduces or supplies to a hirer a work-seeker which is a company—
 
 - (a) the work-seeker and the person who is or would be supplied by that work-seeker to carry out the work agree that those paragraphs should not apply, and give notice of that agreement to the employment business or agency; and
 - (b) the employment business or agency proposing to introduce or supply that work-seeker and person to a hirer informs the hirer of such agreement.
@@ -865,7 +865,7 @@ which exists or may be available apart from the provisions of the Act and these 
 
 (11) Where a notice as referred to in paragraphs (9) or (10) is given to an employment business or agency whilst the person who is or would be supplied to carry out the work by a work-seeker which is a company is in fact carrying out the work in a position with a hirer, then the notice shall not take effect until that person stops working in that position.
 
-(12) Paragraph (9) shall not apply where a person who is or would be supplied to carry out the work by a work-seeker which is a company, is or would be involved in working or attending any vulnerable person[^key-d5104fd509f46d0ef519a9b21528f83b].
+(12) Paragraph (9) shall not apply where a person who is or would be supplied to carry out the work by a work-seeker which is a company, is or would be involved in working or attending any vulnerable person[^c-d5104fd509f46d0ef519a9b21528f83b].
 
 (13) Neither an agency nor an employment business may make the provision of work-finding services to a work-seeker which is a company conditional upon the work-seeker, and the person who is or would be supplied by the work-seeker to carry out the work, entering into and giving notice of an agreement as referred to in paragraph (9), to the agency or employment business.
 
@@ -889,7 +889,7 @@ may only be satisfied by one of the means in paragraph (3).
 
 provided that any information so given, sent or transmitted is in a form which is clearly legible by the intended recipient.
 
-### 34. Review[^key-c13c105d29f1c37fc38562b856dd2c6f]
+### 34. Review[^c-c13c105d29f1c37fc38562b856dd2c6f]
 
 (1) The Secretary of State must from time to time carry out a review of the provisions listed in paragraph (2).
 
@@ -1151,9 +1151,9 @@ provided that in any case under sub-paragraph (a) or (b) of this paragraph the m
 
 Regulation 26
 
-Actor, musician, singer, dancer, background artist, extra, walk-on[^key-a80dc315a65d92c0b225999b107ec4d1] or other performer;
+Actor, musician, singer, dancer, background artist, extra, walk-on[^c-a80dc315a65d92c0b225999b107ec4d1] or other performer;
 
-Composer, writer, artist, director, production manager, lighting cameraman, camera operator, make up artist, clothes, hair or make up stylist,[^key-e3231689b8b7b248b4fad67469a44dda] film editor, action arranger or co-ordinator, stunt arranger, costume or production designer, recording engineer, property master, film continuity person, sound mixer, photographer, stage manager, producer, choreographer, theatre designer;
+Composer, writer, artist, director, production manager, lighting cameraman, camera operator, make up artist, clothes, hair or make up stylist,[^c-e3231689b8b7b248b4fad67469a44dda] film editor, action arranger or co-ordinator, stunt arranger, costume or production designer, recording engineer, property master, film continuity person, sound mixer, photographer, stage manager, producer, choreographer, theatre designer;
 
 Photographic or fashion model;
 
@@ -1163,17 +1163,17 @@ Professional sports person.
 
 Regulation 29
 
-**1.**[^key-fb24012e263e2060312db8bc2569aae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fb24012e263e2060312db8bc2569aae5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** Work-seeker’s name, address and, if under 22, date of birth.
 
-**2A.**[^key-daae7163935d40777308cd05dc42c8b0] In the case of an employment business, any key information document required to be given by paragraph (13) of regulation 13A and any revised key information document required to be given by paragraph (15) of regulation 13A.
+**2A.**[^c-daae7163935d40777308cd05dc42c8b0] In the case of an employment business, any key information document required to be given by paragraph (13) of regulation 13A and any revised key information document required to be given by paragraph (15) of regulation 13A.
 
 **3.** Any terms which apply or will apply between the agency or employment business and the work-seeker, and any document recording any variation thereto.
 
 **4.** Details of the work-seeker’s training, experience, qualifications, and any authorisation to undertake particular work (and copies of any documentary evidence of the same obtained by the agency or employment business).
 
-**5.**[^key-261d129bdedeb858947371874f05b477] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-261d129bdedeb858947371874f05b477] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** Names of hirers to whom the work-seeker is introduced or supplied.
 
@@ -1181,7 +1181,7 @@ Regulation 29
 
 **8.** Copy of any contract between the work-seeker and any hirer entered into by the agency on the work-seeker’s behalf.
 
-**9.**[^key-fe52df791a83eb90ec32ca86195bbcd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-fe52df791a83eb90ec32ca86195bbcd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** In the case of an agency that is permitted to charge fees to work-seekers, dates of requests by the agency for fees from the work-seeker and of receipt of such fees, with copy statements or invoices, numbers and amounts; or, as appropriate, statements of dates and amounts of sums deducted from money received by the agency on the work-seeker’s behalf in accordance with regulation 25, to the extent that these are not required to be comprised in records maintained in respect of a client account in accordance with paragraph 12 of Schedule 2.
 
@@ -1191,9 +1191,9 @@ Regulation 29
 
 Regulation 29
 
-**1.**[^key-977c61c4f146788621d7a4f7b6f5b436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-977c61c4f146788621d7a4f7b6f5b436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c1097d513206be73f98a6817661f9ab9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c1097d513206be73f98a6817661f9ab9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** Details of the position(s) the hirer seeks to fill.
 
@@ -1201,27 +1201,27 @@ Regulation 29
 
 **5.** Experience, training, ability, qualifications, and authorisation required by the hirer, by law, or by any professional body; and any other conditions attaching to the position(s) the hirer seeks to fill.
 
-**6.**[^key-6ad9a15392e1fd2e2beacb6b9332da3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6ad9a15392e1fd2e2beacb6b9332da3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-53976f4dc3302835d967878fd8a80472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-53976f4dc3302835d967878fd8a80472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-00ada916ed5f0850e1e8ad773b814b28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-00ada916ed5f0850e1e8ad773b814b28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** Details of enquiries under regulations 18 and 20 about the hirer and the position the hirer seeks to fill, with copies of all relevant documents and dates of their receipt.
 
-**10.**[^key-3993018210d704844e69d05006b0767f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-3993018210d704844e69d05006b0767f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** Dates of requests by the agency or employment business for fees or other payment from the hirer and of receipt of such fees or other payments, and copies of statements or invoices.
 
-## SCHEDULE 6 — PARTICULARS TO BE INCLUDED IN AN AGENCY'S OR EMPLOYMENT BUSINESS'S RECORDS RELATING TO OTHER AGENCIES OR EMPLOYMENT BUSINESSES[^key-bcf033e26b79b91277b1aa80233f07cc]
+## SCHEDULE 6 — PARTICULARS TO BE INCLUDED IN AN AGENCY'S OR EMPLOYMENT BUSINESS'S RECORDS RELATING TO OTHER AGENCIES OR EMPLOYMENT BUSINESSES[^c-bcf033e26b79b91277b1aa80233f07cc]
 
 **No longer in force.**
 
 Regulation 29
 
-**1.**[^key-bcf033e26b79b91277b1aa80233f07cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bcf033e26b79b91277b1aa80233f07cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-bcf033e26b79b91277b1aa80233f07cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bcf033e26b79b91277b1aa80233f07cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -1271,9 +1271,9 @@ A Regulatory Impact Assessment of the estimated costs and benefits that these Re
 
 [^c5111951]: Marginal citation: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42); section 201 was amended by the [Broadcasting Act 1996 (c. 42)](https://www.legislation.gov.uk/ukpga/1996/42), [Schedule 10](https://www.legislation.gov.uk/ukpga/1996/42/schedule/10), [paragraph 11](https://www.legislation.gov.uk/ukpga/1996/42/paragraph/11), and prospectively by the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [section 360(1)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/360/1/a), (b) and (2).
 
-[^key-0d3503e8810a4d2c0ab3265e58e76581]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/3319/regulation/2) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/1782/regulation/3)
+[^c-0d3503e8810a4d2c0ab3265e58e76581]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/3319/regulation/2) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/1782/regulation/3)
 
-[^key-e596cfdfb6dfb3942c84bc1ea6518ae3]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/3/1/a) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(17)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/17), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 17 para. 8](https://www.legislation.gov.uk/uksi/2005/2114/schedule/17/paragraph/8)
+[^c-e596cfdfb6dfb3942c84bc1ea6518ae3]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/3/1/a) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(17)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/17), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 17 para. 8](https://www.legislation.gov.uk/uksi/2005/2114/schedule/17/paragraph/8)
 
 [^c5111961]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); section 736 as originally enacted was substituted by the [Companies Act 1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), [section 144(1)](https://www.legislation.gov.uk/ukpga/1989/40/section/144/1).
 
@@ -1283,45 +1283,45 @@ A Regulatory Impact Assessment of the estimated costs and benefits that these Re
 
 [^c5111991]: Marginal citation: [S.I. 1981/1481](https://www.legislation.gov.uk/uksi/1981/1481).
 
-[^key-65ccd2d70db316c6481d9b5ac1d256aa]: Textual amendment: Reg. 5 heading substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/3/a)
+[^c-65ccd2d70db316c6481d9b5ac1d256aa]: Textual amendment: Reg. 5 heading substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/3/a)
 
-[^key-d2f1af4c7946050ad21f120582e0b8aa]: Textual amendment: Reg. 5 renumbered as reg. 5(1) (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/3/b)
+[^c-d2f1af4c7946050ad21f120582e0b8aa]: Textual amendment: Reg. 5 renumbered as reg. 5(1) (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/3/b)
 
-[^key-255c429dfa91755c3cc26aa633d2b5ea]: Textual amendment: Reg. 5(2) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/3/b)
+[^c-255c429dfa91755c3cc26aa633d2b5ea]: Textual amendment: Reg. 5(2) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/3/b)
 
-[^key-681558ac05c7bb69aa6cd38f2ffc0cbc]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/5/3)[(4)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/5/4) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/1782/regulation/4)
+[^c-681558ac05c7bb69aa6cd38f2ffc0cbc]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/5/3)[(4)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/5/4) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/1782/regulation/4)
 
 [^c5112001]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52); [section 237](https://www.legislation.gov.uk/uksi/2003/3319/section/237) was inserted by the [Trade Union Reform and Employment Rights Act 1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), [section 49(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/2) and Schedule 8, paragraph 76, and amended by the [Employment Rights Act 1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18), [Schedule 1](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1), [paragraph 56(1)](https://www.legislation.gov.uk/ukpga/1996/18/paragraph/56/1), (15) and the [Employment Relations Act 1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), [section 9](https://www.legislation.gov.uk/ukpga/1999/26/section/9) and Schedule 4, Part III, paragraphs 1, 2(a) and (b).
 
-[^key-6120ed5d75f547b7a18f5a4cfbc4f06f]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/3319/regulation/9) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/2)
+[^c-6120ed5d75f547b7a18f5a4cfbc4f06f]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/3319/regulation/9) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/2)
 
-[^key-95c913a36aee9d2f00f93104c9990cff]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2003/3319/regulation/11) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/3)
+[^c-95c913a36aee9d2f00f93104c9990cff]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2003/3319/regulation/11) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/3)
 
-[^key-4295790a50cf8d8ab1a563865887f832]: Textual amendment: Words in reg. 13(1)(b)(iii) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/3575/regulation/4)
+[^c-4295790a50cf8d8ab1a563865887f832]: Textual amendment: Words in reg. 13(1)(b)(iii) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [4](https://www.legislation.gov.uk/uksi/2007/3575/regulation/4)
 
-[^key-53e4fee56cce0e5976bfcab02664415e]: Textual amendment: Words in reg. 13(1)(b)(iii) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/1782/regulation/5)
+[^c-53e4fee56cce0e5976bfcab02664415e]: Textual amendment: Words in reg. 13(1)(b)(iii) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/1782/regulation/5)
 
-[^key-01e9630b0522e48532e0c6df09cdca8a]: Textual amendment: Reg. 13A inserted (6.4.2020) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2019 (S.I. 2019/725)](https://www.legislation.gov.uk/uksi/2019/725), [regs. 1](https://www.legislation.gov.uk/uksi/2019/725/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/725/regulation/3)
+[^c-01e9630b0522e48532e0c6df09cdca8a]: Textual amendment: Reg. 13A inserted (6.4.2020) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2019 (S.I. 2019/725)](https://www.legislation.gov.uk/uksi/2019/725), [regs. 1](https://www.legislation.gov.uk/uksi/2019/725/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/725/regulation/3)
 
-[^key-8eece445ae54539623937a4b87095a9a]: Textual amendment: Words in reg. 13A(3)(b)(iii) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/302/regulation/2/2)
+[^c-8eece445ae54539623937a4b87095a9a]: Textual amendment: Words in reg. 13A(3)(b)(iii) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/302/regulation/2/2)
 
-[^key-f97e63f3f03705608096fb1eb202a7ed]: Textual amendment: Reg. 14 substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [6](https://www.legislation.gov.uk/uksi/2010/1782/regulation/6)
+[^c-f97e63f3f03705608096fb1eb202a7ed]: Textual amendment: Reg. 14 substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [6](https://www.legislation.gov.uk/uksi/2010/1782/regulation/6)
 
-[^key-9d2760fa5d54dcce1e1946b3144e181d]: Textual amendment: Reg. 16 substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [7](https://www.legislation.gov.uk/uksi/2010/1782/regulation/7)
+[^c-9d2760fa5d54dcce1e1946b3144e181d]: Textual amendment: Reg. 16 substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [7](https://www.legislation.gov.uk/uksi/2010/1782/regulation/7)
 
-[^key-c8dc539867e3d016a2a6a75d1b671776]: Textual amendment: Words in reg. 16(1)(b) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/4)
+[^c-c8dc539867e3d016a2a6a75d1b671776]: Textual amendment: Words in reg. 16(1)(b) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/4)
 
-[^key-bc5b851fa7b6d81481e30a63a52d5f9c]: Textual amendment: Reg. 17 omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/5)
+[^c-bc5b851fa7b6d81481e30a63a52d5f9c]: Textual amendment: Reg. 17 omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/5)
 
-[^key-9be315ab1e3bd5eba02bd4b56722cd65]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2003/3319/regulation/19) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [9](https://www.legislation.gov.uk/uksi/2010/1782/regulation/9)
+[^c-9be315ab1e3bd5eba02bd4b56722cd65]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2003/3319/regulation/19) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [9](https://www.legislation.gov.uk/uksi/2010/1782/regulation/9)
 
-[^key-f66181cdadddabfe73fb8da902c2968f]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/21/1) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/5/a)
+[^c-f66181cdadddabfe73fb8da902c2968f]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/21/1) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/5/a)
 
-[^key-8e1bd4eda44ceac9291a5adaa38786dc]: Textual amendment: [Reg. 21(4)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/21/4)[(5)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/21/5) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/5/b)
+[^c-8e1bd4eda44ceac9291a5adaa38786dc]: Textual amendment: [Reg. 21(4)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/21/4)[(5)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/21/5) inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/5/b)
 
-[^key-4cd1241ed1b4f2ac0a9205b78c979147]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2003/3319/regulation/22) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [10](https://www.legislation.gov.uk/uksi/2010/1782/regulation/10)
+[^c-4cd1241ed1b4f2ac0a9205b78c979147]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2003/3319/regulation/22) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [10](https://www.legislation.gov.uk/uksi/2010/1782/regulation/10)
 
-[^key-62e54be0fd621e05086716870f2c3e04]: Textual amendment: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/23/1) substituted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/6)
+[^c-62e54be0fd621e05086716870f2c3e04]: Textual amendment: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/23/1) substituted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/6)
 
 [^c5112031]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18); [section 230(6)](https://www.legislation.gov.uk/uksi/2003/3319/section/230/6) was inserted by the [Public Interest Disclosure Act 1998 (c. 23)](https://www.legislation.gov.uk/ukpga/1998/23), [section 15(1)](https://www.legislation.gov.uk/ukpga/1998/23/section/15/1).
 
@@ -1329,59 +1329,59 @@ A Regulatory Impact Assessment of the estimated costs and benefits that these Re
 
 [^c5112051]: Marginal citation: [1963 c. 37](https://www.legislation.gov.uk/ukpga/1963/37); [section 42](https://www.legislation.gov.uk/uksi/2003/3319/section/42) was amended by the [Employment Act 1989 (c. 38)](https://www.legislation.gov.uk/ukpga/1989/38), [section 29(3)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/3) and Schedule 6, paragraph 8 and the [Children (Protection at Work) Regulations 1998 (S.I. 1998/276)](https://www.legislation.gov.uk/uksi/1998/276), [regulation 16(2)](https://www.legislation.gov.uk/uksi/1998/276/regulation/16/2) and (3).
 
-[^key-0cecf71db156da3be32c850864fc8743]: Textual amendment: Words in reg. 25(1) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 62](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/62)
+[^c-0cecf71db156da3be32c850864fc8743]: Textual amendment: Words in reg. 25(1) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 62](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/62)
 
 [^c5112071]: Marginal citation: Section 6(1) as originally enacted was prospectively substituted by the [Employment Relations Act 1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), [Schedule 7](https://www.legislation.gov.uk/ukpga/1999/26/schedule/7), [paragraphs 1](https://www.legislation.gov.uk/ukpga/1999/26/paragraph/1) and 3.
 
-[^key-fd75bb1e59a20809bb29e96cba807003]: Textual amendment: Words in reg. 26(5) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [11(1)(a)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/11/1/a)
+[^c-fd75bb1e59a20809bb29e96cba807003]: Textual amendment: Words in reg. 26(5) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [11(1)(a)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/11/1/a)
 
-[^key-4771876f0392c799f64bd336d622ba55]: Textual amendment: Words in reg. 26(5)(a) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [11(1)(b)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/11/1/b)
+[^c-4771876f0392c799f64bd336d622ba55]: Textual amendment: Words in reg. 26(5)(a) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [11(1)(b)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/11/1/b)
 
-[^key-62dc671f1492b7c5ec4a14fa3e2268ed]: Textual amendment: Word in reg. 26(5)(c) omitted (1.10.2010) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [11(1)(c)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/11/1/c)
+[^c-62dc671f1492b7c5ec4a14fa3e2268ed]: Textual amendment: Word in reg. 26(5)(c) omitted (1.10.2010) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [11(1)(c)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/11/1/c)
 
 [^M_F_33e36e8f-bc4a-4067-ab71-d0e6bd304951]: Textual amendment: Word in reg. 26(5)(c) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/7/a)
 
-[^key-d9d58efc9ccd7d03fc3f59d7102d61de]: Textual amendment: Reg. 26(5)(d) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [11(1)(d)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/11/1/d)
+[^c-d9d58efc9ccd7d03fc3f59d7102d61de]: Textual amendment: Reg. 26(5)(d) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [11(1)(d)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/11/1/d)
 
-[^key-8cebda3e38d966e3077a33331092e0d5]: Textual amendment: Reg. 26(5)(e)-(h) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [11(1)(e)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/11/1/e)
+[^c-8cebda3e38d966e3077a33331092e0d5]: Textual amendment: Reg. 26(5)(e)-(h) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [11(1)(e)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/11/1/e)
 
-[^key-b97b84b9beb3b7466b2f9dfd46a4a191]: Textual amendment: Reg. 26(5A)-(5C) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/11/2)
+[^c-b97b84b9beb3b7466b2f9dfd46a4a191]: Textual amendment: Reg. 26(5A)-(5C) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/11/2)
 
-[^key-502a045a0d2274a60da6dcaed311de56]: Textual amendment: Words in reg. 27(1) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [12](https://www.legislation.gov.uk/uksi/2010/1782/regulation/12)
+[^c-502a045a0d2274a60da6dcaed311de56]: Textual amendment: Words in reg. 27(1) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [12](https://www.legislation.gov.uk/uksi/2010/1782/regulation/12)
 
-[^key-aaa57118e55bf94da95e49a1cb7f3d16]: Textual amendment: Reg. 27A substituted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/7)
+[^c-aaa57118e55bf94da95e49a1cb7f3d16]: Textual amendment: Reg. 27A substituted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/7)
 
-[^key-9d3b59b1de96d5e3faa29ac83269210a]: Textual amendment: Word in reg. 27A heading omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d3b59b1de96d5e3faa29ac83269210a]: Textual amendment: Word in reg. 27A heading omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-743b49d80fa3f4351a41e0803856033f]: Textual amendment: Words in reg. 27A(1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-743b49d80fa3f4351a41e0803856033f]: Textual amendment: Words in reg. 27A(1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-22039bf3f041a15f862364299cf66b29]: Textual amendment: Word in reg. 27A(1)(a)(b) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22039bf3f041a15f862364299cf66b29]: Textual amendment: Word in reg. 27A(1)(a)(b) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_c383a9ac-6ff4-4040-f2a6-608dac942090]: Textual amendment: Words in reg. 28(1) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [8](https://www.legislation.gov.uk/uksi/2007/3575/regulation/8)
 
-[^key-46277050e7b4516eb487dd50d16a6ca9]: Textual amendment: Word in reg. 29(1)(a) inserted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/8/a)
+[^c-46277050e7b4516eb487dd50d16a6ca9]: Textual amendment: Word in reg. 29(1)(a) inserted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/8/a)
 
-[^key-a85355d2756c332734e8d5704e147c7f]: Textual amendment: Word in reg. 29(1)(b) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/8/b)
+[^c-a85355d2756c332734e8d5704e147c7f]: Textual amendment: Word in reg. 29(1)(b) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/8/b)
 
-[^key-d8769292681f9dffc93c4f14cde0475b]: Textual amendment: Reg. 29(1)(c) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(8)(c)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/8/c)
+[^c-d8769292681f9dffc93c4f14cde0475b]: Textual amendment: Reg. 29(1)(c) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(8)(c)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/8/c)
 
-[^key-0cb04cae2e960b93d935152f4105fca1]: Textual amendment: Words in reg. 29(4) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/302/regulation/2/3)
+[^c-0cb04cae2e960b93d935152f4105fca1]: Textual amendment: Words in reg. 29(4) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/302/regulation/2/3)
 
-[^key-cb4620e4ee4c550a6bf85db8fbc8c531]: Textual amendment: Reg. 29(7) inserted (6.4.2020) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2019 (S.I. 2019/725)](https://www.legislation.gov.uk/uksi/2019/725), [regs. 1](https://www.legislation.gov.uk/uksi/2019/725/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/725/regulation/4)
+[^c-cb4620e4ee4c550a6bf85db8fbc8c531]: Textual amendment: Reg. 29(7) inserted (6.4.2020) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2019 (S.I. 2019/725)](https://www.legislation.gov.uk/uksi/2019/725), [regs. 1](https://www.legislation.gov.uk/uksi/2019/725/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/725/regulation/4)
 
-[^key-4fe5bdfc1ea3889094d9c18cd2cfac0c]: Textual amendment: Reg. 32(2) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/9/a)
+[^c-4fe5bdfc1ea3889094d9c18cd2cfac0c]: Textual amendment: Reg. 32(2) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/9/a)
 
-[^key-602cb44a9ff7831ac506c995d95202a5]: Textual amendment: Reg. 32(2A)(2B) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/13/a)
+[^c-602cb44a9ff7831ac506c995d95202a5]: Textual amendment: Reg. 32(2A)(2B) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/13/a)
 
-[^key-a401b39caf8d086eed52274368985f84]: Textual amendment: Reg. 32(6) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/13/b)
+[^c-a401b39caf8d086eed52274368985f84]: Textual amendment: Reg. 32(6) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/13/b)
 
-[^key-e9b5559cdd699606c62e3550b8eb5969]: Textual amendment: Reg. 32(9) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/9/b)
+[^c-e9b5559cdd699606c62e3550b8eb5969]: Textual amendment: Reg. 32(9) substituted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2007/3575/regulation/9/b)
 
-[^key-620e6968d53af00c5fa5ea3d39c6c5df]: Textual amendment: Words in [reg. 32(9)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/32/9) inserted (6.4.2020) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2019 (S.I. 2019/725)](https://www.legislation.gov.uk/uksi/2019/725), [regs. 1](https://www.legislation.gov.uk/uksi/2019/725/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/725/regulation/5)
+[^c-620e6968d53af00c5fa5ea3d39c6c5df]: Textual amendment: Words in [reg. 32(9)](https://www.legislation.gov.uk/uksi/2003/3319/regulation/32/9) inserted (6.4.2020) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2019 (S.I. 2019/725)](https://www.legislation.gov.uk/uksi/2019/725), [regs. 1](https://www.legislation.gov.uk/uksi/2019/725/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/725/regulation/5)
 
-[^key-d5104fd509f46d0ef519a9b21528f83b]: Textual amendment: Words in reg. 32(12) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [13(c)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/13/c)
+[^c-d5104fd509f46d0ef519a9b21528f83b]: Textual amendment: Words in reg. 32(12) substituted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [13(c)](https://www.legislation.gov.uk/uksi/2010/1782/regulation/13/c)
 
-[^key-c13c105d29f1c37fc38562b856dd2c6f]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/2003/3319/regulation/34) inserted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/12)
+[^c-c13c105d29f1c37fc38562b856dd2c6f]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/2003/3319/regulation/34) inserted (8.5.2016) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/12)
 
 [^c5112091]: Marginal citation: [S.I. 1976/715](https://www.legislation.gov.uk/uksi/1976/715).
 
@@ -1391,28 +1391,28 @@ A Regulatory Impact Assessment of the estimated costs and benefits that these Re
 
 [^c5112121]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); [section 249D](https://www.legislation.gov.uk/uksi/2003/3319/section/249D) was inserted by the [Companies Act 1985 (Audit Exemption) Regulations 1994 (S.I. 1994/1935)](https://www.legislation.gov.uk/uksi/1994/1935), [regulation 2](https://www.legislation.gov.uk/uksi/1994/1935/regulation/2) and amended by the [Companies Act 1985 (Audit Exemption) (Amendment) Regulations 1995 (S.I. 1995/589)](https://www.legislation.gov.uk/uksi/1995/589), [regulation 2](https://www.legislation.gov.uk/uksi/1995/589/regulation/2), the [Companies Act 1985 (Audit Exemption) (Amendment) Regulations 1996 (S.I. 1996/3080)](https://www.legislation.gov.uk/uksi/1996/3080), [regulation 2](https://www.legislation.gov.uk/uksi/1996/3080/regulation/2) and the [Companies Act 1985 (Audit Exemption) (Amendment) Regulations 1997 (S.I. 1997/936)](https://www.legislation.gov.uk/uksi/1997/936), [regulation 4](https://www.legislation.gov.uk/uksi/1997/936/regulation/4).
 
-[^key-a80dc315a65d92c0b225999b107ec4d1]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2003/3319/schedule/3) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [14](https://www.legislation.gov.uk/uksi/2010/1782/regulation/14)
+[^c-a80dc315a65d92c0b225999b107ec4d1]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2003/3319/schedule/3) inserted (1.10.2010) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2010 (S.I. 2010/1782)](https://www.legislation.gov.uk/uksi/2010/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1782/regulation/1), [14](https://www.legislation.gov.uk/uksi/2010/1782/regulation/14)
 
-[^key-e3231689b8b7b248b4fad67469a44dda]: Textual amendment: Words in Sch. 3 inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [10](https://www.legislation.gov.uk/uksi/2007/3575/regulation/10)
+[^c-e3231689b8b7b248b4fad67469a44dda]: Textual amendment: Words in Sch. 3 inserted (6.4.2008) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2007 (S.I. 2007/3575)](https://www.legislation.gov.uk/uksi/2007/3575), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3575/regulation/1), [10](https://www.legislation.gov.uk/uksi/2007/3575/regulation/10)
 
-[^key-fb24012e263e2060312db8bc2569aae5]: Textual amendment: Sch. 4 para. 1 omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/9)
+[^c-fb24012e263e2060312db8bc2569aae5]: Textual amendment: Sch. 4 para. 1 omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/9)
 
-[^key-daae7163935d40777308cd05dc42c8b0]: Textual amendment: [Sch. 4 para. 2A](https://www.legislation.gov.uk/uksi/2003/3319/schedule/4/paragraph/2A) inserted (6.4.2020) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2019 (S.I. 2019/725)](https://www.legislation.gov.uk/uksi/2019/725), [regs. 1](https://www.legislation.gov.uk/uksi/2019/725/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/725/regulation/6)
+[^c-daae7163935d40777308cd05dc42c8b0]: Textual amendment: [Sch. 4 para. 2A](https://www.legislation.gov.uk/uksi/2003/3319/schedule/4/paragraph/2A) inserted (6.4.2020) by [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2019 (S.I. 2019/725)](https://www.legislation.gov.uk/uksi/2019/725), [regs. 1](https://www.legislation.gov.uk/uksi/2019/725/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/725/regulation/6)
 
-[^key-261d129bdedeb858947371874f05b477]: Textual amendment: Sch. 4 para. 5 omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/9)
+[^c-261d129bdedeb858947371874f05b477]: Textual amendment: Sch. 4 para. 5 omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/9)
 
-[^key-fe52df791a83eb90ec32ca86195bbcd0]: Textual amendment: Sch. 4 para. 9 omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/9)
+[^c-fe52df791a83eb90ec32ca86195bbcd0]: Textual amendment: Sch. 4 para. 9 omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/9)
 
-[^key-977c61c4f146788621d7a4f7b6f5b436]: Textual amendment: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2003/3319/schedule/5/paragraph/1) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/10)
+[^c-977c61c4f146788621d7a4f7b6f5b436]: Textual amendment: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2003/3319/schedule/5/paragraph/1) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/10)
 
-[^key-c1097d513206be73f98a6817661f9ab9]: Textual amendment: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2003/3319/schedule/5/paragraph/2) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/10)
+[^c-c1097d513206be73f98a6817661f9ab9]: Textual amendment: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2003/3319/schedule/5/paragraph/2) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/10)
 
-[^key-6ad9a15392e1fd2e2beacb6b9332da3d]: Textual amendment: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2003/3319/schedule/5/paragraph/6) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/10)
+[^c-6ad9a15392e1fd2e2beacb6b9332da3d]: Textual amendment: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2003/3319/schedule/5/paragraph/6) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/10)
 
-[^key-53976f4dc3302835d967878fd8a80472]: Textual amendment: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2003/3319/schedule/5/paragraph/7) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/10)
+[^c-53976f4dc3302835d967878fd8a80472]: Textual amendment: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2003/3319/schedule/5/paragraph/7) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/10)
 
-[^key-00ada916ed5f0850e1e8ad773b814b28]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2003/3319/schedule/5/paragraph/8) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/10)
+[^c-00ada916ed5f0850e1e8ad773b814b28]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2003/3319/schedule/5/paragraph/8) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/10)
 
-[^key-3993018210d704844e69d05006b0767f]: Textual amendment: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2003/3319/schedule/5/paragraph/10) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/10)
+[^c-3993018210d704844e69d05006b0767f]: Textual amendment: [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2003/3319/schedule/5/paragraph/10) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/10)
 
-[^key-bcf033e26b79b91277b1aa80233f07cc]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3319/schedule/6) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/11)
+[^c-bcf033e26b79b91277b1aa80233f07cc]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3319/schedule/6) omitted (8.5.2016) by virtue of [The Conduct of Employment Agencies and Employment Businesses (Amendment) Regulations 2016 (S.I. 2016/510)](https://www.legislation.gov.uk/uksi/2016/510), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/510/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2016/510/regulation/2/11)

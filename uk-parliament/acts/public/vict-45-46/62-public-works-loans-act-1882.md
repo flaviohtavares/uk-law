@@ -31,54 +31,54 @@ Public Works Loans Act 1882 (repealed)
 
 1882 c.62
 
-[^key-a48cd595cc297f45b7e6be0bbbe5500c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a48cd595cc297f45b7e6be0bbbe5500c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[18th August 1882\]
 
 **No longer in force.**
 
-## 1. Short title.[^key-a48cd595cc297f45b7e6be0bbbe5500c][^key-a48cd595cc297f45b7e6be0bbbe5500c]
+## 1. Short title.[^c-a48cd595cc297f45b7e6be0bbbe5500c][^c-a48cd595cc297f45b7e6be0bbbe5500c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Citation of Acts.[^key-a48cd595cc297f45b7e6be0bbbe5500c][^key-a48cd595cc297f45b7e6be0bbbe5500c]
+## 2. Citation of Acts.[^c-a48cd595cc297f45b7e6be0bbbe5500c][^c-a48cd595cc297f45b7e6be0bbbe5500c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Parts I-III[^key-a48cd595cc297f45b7e6be0bbbe5500c]
+## Parts I-III[^c-a48cd595cc297f45b7e6be0bbbe5500c]
 
-### 3—5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-a48cd595cc297f45b7e6be0bbbe5500c][^key-a48cd595cc297f45b7e6be0bbbe5500c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-a48cd595cc297f45b7e6be0bbbe5500c][^key-a48cd595cc297f45b7e6be0bbbe5500c]
+### 3—5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-a48cd595cc297f45b7e6be0bbbe5500c][^c-a48cd595cc297f45b7e6be0bbbe5500c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part IV[^key-a48cd595cc297f45b7e6be0bbbe5500c]
-
-### Amendment of Acts[^key-a48cd595cc297f45b7e6be0bbbe5500c]
-
-#### 7. Amendment of 24 & 25 Vict. c. 45 as to provision for loans in provisional order respecting harbours.[^key-a48cd595cc297f45b7e6be0bbbe5500c][^key-a48cd595cc297f45b7e6be0bbbe5500c]
+### 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-a48cd595cc297f45b7e6be0bbbe5500c][^c-a48cd595cc297f45b7e6be0bbbe5500c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-a48cd595cc297f45b7e6be0bbbe5500c][^key-a48cd595cc297f45b7e6be0bbbe5500c]
+## Part IV[^c-a48cd595cc297f45b7e6be0bbbe5500c]
+
+### Amendment of Acts[^c-a48cd595cc297f45b7e6be0bbbe5500c]
+
+#### 7. Amendment of 24 & 25 Vict. c. 45 as to provision for loans in provisional order respecting harbours.[^c-a48cd595cc297f45b7e6be0bbbe5500c][^c-a48cd595cc297f45b7e6be0bbbe5500c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-a48cd595cc297f45b7e6be0bbbe5500c][^key-a48cd595cc297f45b7e6be0bbbe5500c]
+#### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-a48cd595cc297f45b7e6be0bbbe5500c][^c-a48cd595cc297f45b7e6be0bbbe5500c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-a48cd595cc297f45b7e6be0bbbe5500c][^key-a48cd595cc297f45b7e6be0bbbe5500c]
+#### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-a48cd595cc297f45b7e6be0bbbe5500c][^c-a48cd595cc297f45b7e6be0bbbe5500c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-a48cd595cc297f45b7e6be0bbbe5500c][^key-a48cd595cc297f45b7e6be0bbbe5500c]
+#### 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-a48cd595cc297f45b7e6be0bbbe5500c][^c-a48cd595cc297f45b7e6be0bbbe5500c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-a48cd595cc297f45b7e6be0bbbe5500c][^c-a48cd595cc297f45b7e6be0bbbe5500c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a48cd595cc297f45b7e6be0bbbe5500c]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9 Group 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9)
+[^c-a48cd595cc297f45b7e6be0bbbe5500c]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9 Group 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9)

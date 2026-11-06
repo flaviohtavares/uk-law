@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Form in which registers of births and deaths are to be kept[^key-dff5978ee04adebd0e01dbbecb6ce560]
+## 61. Form in which registers of births and deaths are to be kept[^c-dff5978ee04adebd0e01dbbecb6ce560]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dff5978ee04adebd0e01dbbecb6ce560]: Commencement: S. 61 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-dff5978ee04adebd0e01dbbecb6ce560]: Commencement: S. 61 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)

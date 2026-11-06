@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101AA. Scope of Chapter 5[^M_C_4c823772-3cd9-4905-b0c5-498e09c604f4][^key-b063b3d5698e4f1bb3a9673363c83ccc]
+## 101AA. Scope of Chapter 5[^M_C_4c823772-3cd9-4905-b0c5-498e09c604f4][^c-b063b3d5698e4f1bb3a9673363c83ccc]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ amounts to at least three months.
 (4) For the purposes of subsection (1), “**relevant accrued rights to benefit under the scheme**”, in relation to a member of a scheme, means rights which—
 
 - (a) have accrued to or in respect of him under the scheme, and
-- (b) entitle him to the relevant benefits which would have accrued to or in respect of him under the applicable rules if paragraphs (a) , (aa)[^key-23275b994a70df18441d6d37e6080150] and (b) of section 71(1) (and the word “and” immediately preceding them) did not have effect.
+- (b) entitle him to the relevant benefits which would have accrued to or in respect of him under the applicable rules if paragraphs (a) , (aa)[^c-23275b994a70df18441d6d37e6080150] and (b) of section 71(1) (and the word “and” immediately preceding them) did not have effect.
 
 (5) References in the following provisions of this Chapter to a member, in relation to an occupational pension scheme, are to a member of the scheme to whom this Chapter applies.
 
@@ -47,6 +47,6 @@ amounts to at least three months.
 
 [^M_C_4c823772-3cd9-4905-b0c5-498e09c604f4]: Modification: Ss. 101AA-101AI modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)
 
-[^key-b063b3d5698e4f1bb3a9673363c83ccc]: Textual amendment: [Pt. 4ZA Ch. 2 (originally Pt. IV Ch. 5)](https://www.legislation.gov.uk/ukpga/1993/48/part/IV/chapter/5) inserted (1.1.2006 for specified purposes, 6.4.2006 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 264](https://www.legislation.gov.uk/ukpga/2004/35/section/264), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5/a)[(b)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5/b), [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/5)
+[^c-b063b3d5698e4f1bb3a9673363c83ccc]: Textual amendment: [Pt. 4ZA Ch. 2 (originally Pt. IV Ch. 5)](https://www.legislation.gov.uk/ukpga/1993/48/part/IV/chapter/5) inserted (1.1.2006 for specified purposes, 6.4.2006 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 264](https://www.legislation.gov.uk/ukpga/2004/35/section/264), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5/a)[(b)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5/b), [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/5)
 
-[^key-23275b994a70df18441d6d37e6080150]: Textual amendment: Word in [s. 101AA(4)(b)](https://www.legislation.gov.uk/ukpga/1993/48/section/101AA/4/b) inserted (1.10.2015) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 36(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/36/4), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(3)](https://www.legislation.gov.uk/uksi/2015/134/article/2/3)
+[^c-23275b994a70df18441d6d37e6080150]: Textual amendment: Word in [s. 101AA(4)(b)](https://www.legislation.gov.uk/ukpga/1993/48/section/101AA/4/b) inserted (1.10.2015) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 36(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/36/4), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(3)](https://www.legislation.gov.uk/uksi/2015/134/article/2/3)

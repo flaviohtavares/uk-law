@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Publication of results of the principal stage[^key-bd4b5037ea1255be201e23b860e2fc08]
+## 49. Publication of results of the principal stage[^c-bd4b5037ea1255be201e23b860e2fc08]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ After the notification given in accordance with regulation 48, OFCOM shall publi
 
 ## Annotations
 
-[^key-bd4b5037ea1255be201e23b860e2fc08]: Commencement: Reg. 49 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-bd4b5037ea1255be201e23b860e2fc08]: Commencement: Reg. 49 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

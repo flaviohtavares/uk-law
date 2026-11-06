@@ -52,11 +52,11 @@ Accordingly, the Secretary of State, in exercise of the powers conferred on him 
 
 ### Citation, commencement and interpretation
 
-#### 1. Citation and commencement[^key-498f6e1cbe16d710539a79ab31ea6ac9]
+#### 1. Citation and commencement[^c-498f6e1cbe16d710539a79ab31ea6ac9]
 
 This Order may be cited as the Political Parties, Elections and Referendums Act 2000 (Northern Ireland Political Parties) Order 2008 and shall come into force on 1st July 2008.
 
-#### 2. Interpretation[^key-0d4b59581359e749154e0e9bae451428]
+#### 2. Interpretation[^c-0d4b59581359e749154e0e9bae451428]
 
 In this Order—
 
@@ -75,7 +75,7 @@ In this Order—
 
 ### Extension of categories of authorised participants in relation to Northern Ireland participants
 
-#### 3. Irish citizens as authorised participants[^key-16c11d1fc277b4b226fc08d36683eedf]
+#### 3. Irish citizens as authorised participants[^c-16c11d1fc277b4b226fc08d36683eedf]
 
 For the purposes of section 71Z1(1)(a) of the 2000 Act, the prescribed condition in relation to an Irish citizen is that at the time he enters into a regulated transaction or controlled transaction relating to a Northern Ireland participant he must be eligible to obtain one of the following documents—
 
@@ -83,7 +83,7 @@ For the purposes of section 71Z1(1)(a) of the 2000 Act, the prescribed condition
 - (b) a certificate of nationality; or
 - (c) a certificate of naturalisation.
 
-#### 4. Irish bodies as authorised participants[^key-1fd01d47c601a767d94d86db1b364485]
+#### 4. Irish bodies as authorised participants[^c-1fd01d47c601a767d94d86db1b364485]
 
 (1) The description or category of body prescribed, for the purposes of section 71Z1(1)(b) of the 2000 Act, is any of the bodies set out in paragraph (2) which keeps an office in Ireland or Northern Ireland being an office from which the carrying on of one or more of its principal activities is directed.
 
@@ -99,11 +99,11 @@ For the purposes of section 71Z1(1)(a) of the 2000 Act, the prescribed condition
 - (f) a friendly society or industrial and provident society registered by the Registrar of Friendly Societies of Ireland; and
 - (g) any unincorporated association of two or more persons which does not fall within any of the preceding paragraphs but which carries on business or other activities wholly or mainly in Ireland and whose main office is there.
 
-#### 5. Northern Ireland reports[^key-a04f47cd9e43d0720c9ce2130bd1025a]
+#### 5. Northern Ireland reports[^c-a04f47cd9e43d0720c9ce2130bd1025a]
 
 Schedule 1 (which amends the 2000 Act in connection with the recording of transactions to which Northern Ireland participants are a party) has effect.
 
-#### 6. Minor and consequential amendments[^key-32685ee3cb1d3ca1a7445f581b5663d1]
+#### 6. Minor and consequential amendments[^c-32685ee3cb1d3ca1a7445f581b5663d1]
 
 Schedule 2 (minor and consequential amendments) has effect.
 
@@ -111,11 +111,11 @@ Schedule 2 (minor and consequential amendments) has effect.
 
 ### Duty of the Commission during the prescribed period
 
-#### 7. Steps to be taken by the Commission for the purpose of verifying information given in Northern Ireland reports[^key-ebbd5ee9a0f1a3ee87abfd26c61255cf]
+#### 7. Steps to be taken by the Commission for the purpose of verifying information given in Northern Ireland reports[^c-ebbd5ee9a0f1a3ee87abfd26c61255cf]
 
 For the purposes of section 71Z3(1) of the 2000 Act the prescribed steps which the Commission must take for the purpose of verifying the information given in Northern Ireland reports during the prescribed period are set out in articles 8 and 9.
 
-#### 8. Selection of Northern Ireland recordable transactions[^key-01692da7d76be7121d428cbd2ef01b32]
+#### 8. Selection of Northern Ireland recordable transactions[^c-01692da7d76be7121d428cbd2ef01b32]
 
 (1) In each reporting period, in relation to each Northern Ireland participant who has provided a Northern Ireland report, the Commission must—
 
@@ -126,7 +126,7 @@ For the purposes of section 71Z3(1) of the 2000 Act the prescribed steps which t
 
 (3) In the case of a Northern Ireland participant who has reported only one recordable transaction to which an individual participant is a party during any reporting period, the Commission must select that transaction for verification.
 
-#### 9. Verification of recordable transactions involving Northern Ireland participants[^key-f44a7645eab2988789542518cf8180ee]
+#### 9. Verification of recordable transactions involving Northern Ireland participants[^c-f44a7645eab2988789542518cf8180ee]
 
 (1) The Commission must take the following steps in relation to each selected Northern Ireland transaction.
 
@@ -137,7 +137,7 @@ For the purposes of section 71Z3(1) of the 2000 Act the prescribed steps which t
 
 (3) The steps taken by the Commission under paragraph (2) may include, but are not limited to, contacting a body set out in article 11.
 
-#### 10. Disclosure of information relating to transactions which are required to be dealt with in accordance with section 71I or 71J of, or paragraph 5 or 6 of Schedule 7A to, the 2000 Act[^key-1e2f6364b6a656e8c3cec7773c6778a7]
+#### 10. Disclosure of information relating to transactions which are required to be dealt with in accordance with section 71I or 71J of, or paragraph 5 or 6 of Schedule 7A to, the 2000 Act[^c-1e2f6364b6a656e8c3cec7773c6778a7]
 
 If, after taking the steps prescribed by articles 8 and 9, the Commission believes on reasonable grounds that a transaction recorded in a Northern Ireland report fell to be dealt with under section 71I or 71J of, or paragraph 5 or 6 of Schedule 7A to, the 2000 Act, and that it has not been dealt with in this manner, the Commission must—
 
@@ -149,7 +149,7 @@ If, after taking the steps prescribed by articles 8 and 9, the Commission believ
   - (iv) whether the parties to the transaction (other than the Northern Ireland participant) are individuals or bodies; and
   - (v) in the case of a transaction involving a body, the type of body which is a party to the transaction with reference to article 4(2) or section 54(2) of the 2000 Act.
 
-#### 11. Disclosure of information by the Commission[^key-a3929bc19e42cb70dec04060d1e11eee]
+#### 11. Disclosure of information by the Commission[^c-a3929bc19e42cb70dec04060d1e11eee]
 
 The following bodies are prescribed for the purposes of section 71Z4(2)(b) of the 2000 Act—
 
@@ -182,11 +182,11 @@ Northern Ireland Office
 
 Article 5
 
-**1.**[^key-9a50873b878901dcf36996dbe3a5c357] Schedule 6A to the 2000 Act is amended as follows.
+**1.**[^c-9a50873b878901dcf36996dbe3a5c357] Schedule 6A to the 2000 Act is amended as follows.
 
-**2.**[^key-460b12096850ec6d4347503cff3226d6] In paragraph 2 (quarterly reports), in sub-paragraph (1), after “recordable transaction” insert “(other than one to which paragraph 2A applies)”.
+**2.**[^c-460b12096850ec6d4347503cff3226d6] In paragraph 2 (quarterly reports), in sub-paragraph (1), after “recordable transaction” insert “(other than one to which paragraph 2A applies)”.
 
-**3.**[^key-db0c3750ad531a0c238de3aea65a9cba] After paragraph 2 insert—
+**3.**[^c-db0c3750ad531a0c238de3aea65a9cba] After paragraph 2 insert—
 
 > **2A.** (1) In relation to each recordable transaction that is an Irish transaction a quarterly report must comply with the following requirements of this paragraph in relation to each authorised participant (other than the registered party deriving the benefit of the transaction).
 >
@@ -241,7 +241,7 @@ Article 5
 
 .
 
-**4.**[^key-667e70e00f4339348d5ddcad523f3d22] (1) In paragraph 3 (identity of authorised participants: weekly reports), at the end add—
+**4.**[^c-667e70e00f4339348d5ddcad523f3d22] (1) In paragraph 3 (identity of authorised participants: weekly reports), at the end add—
 
 > (3) This paragraph does not apply in relation to a recordable transaction that is an Irish transaction (within the meaning given by paragraph 2A(2)).
 
@@ -266,19 +266,19 @@ Article 5
 
 ## SCHEDULE 2 — Minor and consequential amendments
 
-**1.**[^key-a6debe3480f4959aa339791818747bfb] Schedule 7A to the 2000 Act is amended as follows.
+**1.**[^c-a6debe3480f4959aa339791818747bfb] Schedule 7A to the 2000 Act is amended as follows.
 
-**2.**[^key-dacfbcd4fd68afadd97572e0c11d1692] In paragraphs 9(9)(a) and 9(10) (transaction reports: transactions with authorised participants), after “paragraphs 2” insert “, 2A”.
+**2.**[^c-dacfbcd4fd68afadd97572e0c11d1692] In paragraphs 9(9)(a) and 9(10) (transaction reports: transactions with authorised participants), after “paragraphs 2” insert “, 2A”.
 
-**3.**[^key-d740063ababd23d352377044b6d961e8] In paragraph 10(3) (transaction reports: transactions with unauthorised participants) at the beginning insert “Subject to sub-paragraph (5),”.
+**3.**[^c-d740063ababd23d352377044b6d961e8] In paragraph 10(3) (transaction reports: transactions with unauthorised participants) at the beginning insert “Subject to sub-paragraph (5),”.
 
-**4.**[^key-9948443d89849741834f03bcca5b6873] In paragraph 10(4) at the beginning insert “Subject to sub-paragraph (5),”.
+**4.**[^c-9948443d89849741834f03bcca5b6873] In paragraph 10(4) at the beginning insert “Subject to sub-paragraph (5),”.
 
-**5.**[^key-8603161673b1e510fc5101791bbccbb4] In paragraph 10, after sub-paragraph (4) insert—
+**5.**[^c-8603161673b1e510fc5101791bbccbb4] In paragraph 10, after sub-paragraph (4) insert—
 
 > (5) In relation to a transaction falling within paragraph 5 or 6(1)(b) which is an Irish transaction within the meaning of paragraph 2A(2) of Schedule 6A, each such report must record the fact that the transaction is an Irish transaction.
 
-**6.**[^key-fe2f98be4dfd7510f171bde4e1056ab6] In paragraph 15(2) (register of recordable transactions) for “10(2), (3) and (4)” substitute “10(2) to (5)”.
+**6.**[^c-fe2f98be4dfd7510f171bde4e1056ab6] In paragraph 15(2) (register of recordable transactions) for “10(2), (3) and (4)” substitute “10(2) to (5)”.
 
 EXPLANATORY NOTE
 
@@ -304,9 +304,9 @@ Section 71Z4 of the 2000 Act, as inserted by the 2008 Order, places a duty of co
 
 [^f00005]: Footnote: Sections 71Z3 and 71Z4 of the 2000 Act were inserted by article 3 of, and article 5 of and the Schedule to, the 2008 Order.
 
-[^key-498f6e1cbe16d710539a79ab31ea6ac9]: Commencement: Art. 1 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-498f6e1cbe16d710539a79ab31ea6ac9]: Commencement: Art. 1 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-0d4b59581359e749154e0e9bae451428]: Commencement: Art. 2 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-0d4b59581359e749154e0e9bae451428]: Commencement: Art. 2 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
 [^f00006]: Footnote: Section 71H was inserted by section 61 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22)(“the EA Act”) and provides that an authorised participant is a person who is a permissible donor within the meaning of section 54(2) of the 2000 Act.
 
@@ -314,44 +314,44 @@ Section 71Z4 of the 2000 Act, as inserted by the 2008 Order, places a duty of co
 
 [^f00008]: Footnote: Section 71M was inserted by section 61 of the EA Act.
 
-[^key-16c11d1fc277b4b226fc08d36683eedf]: Commencement: Art. 3 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-16c11d1fc277b4b226fc08d36683eedf]: Commencement: Art. 3 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-1fd01d47c601a767d94d86db1b364485]: Commencement: Art. 4 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-1fd01d47c601a767d94d86db1b364485]: Commencement: Art. 4 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-a04f47cd9e43d0720c9ce2130bd1025a]: Commencement: Art. 5 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-a04f47cd9e43d0720c9ce2130bd1025a]: Commencement: Art. 5 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-32685ee3cb1d3ca1a7445f581b5663d1]: Commencement: Art. 6 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-32685ee3cb1d3ca1a7445f581b5663d1]: Commencement: Art. 6 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-ebbd5ee9a0f1a3ee87abfd26c61255cf]: Commencement: Art. 7 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-ebbd5ee9a0f1a3ee87abfd26c61255cf]: Commencement: Art. 7 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-01692da7d76be7121d428cbd2ef01b32]: Commencement: Art. 8 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-01692da7d76be7121d428cbd2ef01b32]: Commencement: Art. 8 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-f44a7645eab2988789542518cf8180ee]: Commencement: Art. 9 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-f44a7645eab2988789542518cf8180ee]: Commencement: Art. 9 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-1e2f6364b6a656e8c3cec7773c6778a7]: Commencement: Art. 10 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-1e2f6364b6a656e8c3cec7773c6778a7]: Commencement: Art. 10 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-a3929bc19e42cb70dec04060d1e11eee]: Commencement: Art. 11 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-a3929bc19e42cb70dec04060d1e11eee]: Commencement: Art. 11 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
 [^f00009]: Footnote: Paragraph 2A of Schedule 6A is inserted by article 5 of, and Schedule 1 to, this Order.
 
 [^f00010]: Footnote: The Department was so named by the [Departments (Northern Ireland) Order 1999 (1999/283 (N.I.1))](https://www.legislation.gov.uk/nisi/1999/283).
 
-[^key-9a50873b878901dcf36996dbe3a5c357]: Commencement: Sch. 1 para. 1 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-9a50873b878901dcf36996dbe3a5c357]: Commencement: Sch. 1 para. 1 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-460b12096850ec6d4347503cff3226d6]: Commencement: Sch. 1 para. 2 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-460b12096850ec6d4347503cff3226d6]: Commencement: Sch. 1 para. 2 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-db0c3750ad531a0c238de3aea65a9cba]: Commencement: Sch. 1 para. 3 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-db0c3750ad531a0c238de3aea65a9cba]: Commencement: Sch. 1 para. 3 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-667e70e00f4339348d5ddcad523f3d22]: Commencement: Sch. 1 para. 4 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-667e70e00f4339348d5ddcad523f3d22]: Commencement: Sch. 1 para. 4 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-a6debe3480f4959aa339791818747bfb]: Commencement: Sch. 2 para. 1 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-a6debe3480f4959aa339791818747bfb]: Commencement: Sch. 2 para. 1 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-dacfbcd4fd68afadd97572e0c11d1692]: Commencement: Sch. 2 para. 2 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-dacfbcd4fd68afadd97572e0c11d1692]: Commencement: Sch. 2 para. 2 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-d740063ababd23d352377044b6d961e8]: Commencement: Sch. 2 para. 3 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-d740063ababd23d352377044b6d961e8]: Commencement: Sch. 2 para. 3 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-9948443d89849741834f03bcca5b6873]: Commencement: Sch. 2 para. 4 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-9948443d89849741834f03bcca5b6873]: Commencement: Sch. 2 para. 4 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-8603161673b1e510fc5101791bbccbb4]: Commencement: Sch. 2 para. 5 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-8603161673b1e510fc5101791bbccbb4]: Commencement: Sch. 2 para. 5 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
 
-[^key-fe2f98be4dfd7510f171bde4e1056ab6]: Commencement: Sch. 2 para. 6 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)
+[^c-fe2f98be4dfd7510f171bde4e1056ab6]: Commencement: Sch. 2 para. 6 in force at 1.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1737/article/1)

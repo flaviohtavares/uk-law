@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Sanctions for the purposes of Scottish non-domestic energy efficiency regulations[^key-66993104f9139f6da74c12d72fc1515d]
+## 63. Sanctions for the purposes of Scottish non-domestic energy efficiency regulations[^c-66993104f9139f6da74c12d72fc1515d]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ including, in cases falling within paragraph (b) or (c), the imposition of a civ
 
 ## Annotations
 
-[^key-66993104f9139f6da74c12d72fc1515d]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2011/16/section/63) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)
+[^c-66993104f9139f6da74c12d72fc1515d]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2011/16/section/63) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)

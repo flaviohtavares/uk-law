@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Introduction of the levy and changes to or abolition of the levy[^key-33f44d47db68af855c86c9864fbd0c7c]
+## 48. Introduction of the levy and changes to or abolition of the levy[^c-33f44d47db68af855c86c9864fbd0c7c]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33f44d47db68af855c86c9864fbd0c7c]: Commencement: S. 48 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-33f44d47db68af855c86c9864fbd0c7c]: Commencement: S. 48 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

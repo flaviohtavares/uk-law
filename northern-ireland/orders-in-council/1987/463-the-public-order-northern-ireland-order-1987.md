@@ -137,14 +137,14 @@ shall be guilty of an offence.
 
 ### Acts intended or likely to stir up hatred or arouse fear
 
-#### 8. Meaning of “fear” and “hatred” etc.[^key-c54011e379b156e13cf8f09d9913f2c6]
+#### 8. Meaning of “fear” and “hatred” etc.[^c-c54011e379b156e13cf8f09d9913f2c6]
 
-(1)[^key-2ce444014201d126daf26fdf4d76284b] In this Part—
+(1)[^c-2ce444014201d126daf26fdf4d76284b] In this Part—
 
 - “fear” means fear of a group of persons[^c16981361]. . . defined by reference to religious belief, sexual orientation, disability[^c16981371] colour, race, nationality (including citizenship) or ethnic or national origins;
 - “hatred” means hatred against a group of persons[^c16981361]. . . defined by reference to religious belief, sexual orientation, disability colour, race, nationality (including citizenship) or ethnic or national origins.
 
-(2)[^key-a09ef79d492a66c812fce0177738f700] For the purposes of this Part, any discussion or criticism of marriage which concerns the sex of the parties to marriage is not to be taken of itself to be—
+(2)[^c-a09ef79d492a66c812fce0177738f700] For the purposes of this Part, any discussion or criticism of marriage which concerns the sex of the parties to marriage is not to be taken of itself to be—
 
 - (a) threatening, abusive or insulting, or
 - (b) intended to stir up hatred or arouse fear.
@@ -580,15 +580,15 @@ The Flags and Emblems (Display) Act (Northern Ireland) 1954 shall cease to have 
 
 [^c16981351]: Textual amendment: [1998 c. 2](https://www.legislation.gov.uk/ukpga/1998/2)
 
-[^key-c54011e379b156e13cf8f09d9913f2c6]: Textual amendment: Word in art. 8 heading inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [142(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/142/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-c54011e379b156e13cf8f09d9913f2c6]: Textual amendment: Word in art. 8 heading inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [142(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/142/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-2ce444014201d126daf26fdf4d76284b]: Textual amendment: Art. 8(1): art.8 renumbered as art. 8(1) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [142(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/142/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-2ce444014201d126daf26fdf4d76284b]: Textual amendment: Art. 8(1): art.8 renumbered as art. 8(1) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [142(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/142/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c16981361]: Textual amendment: [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24)
 
 [^c16981371]: Textual amendment: [2004 NI 15](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-a09ef79d492a66c812fce0177738f700]: Textual amendment: Art. 8(2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [142(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/142/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-a09ef79d492a66c812fce0177738f700]: Textual amendment: Art. 8(2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [142(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/142/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c16981421]: Textual amendment: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42)
 

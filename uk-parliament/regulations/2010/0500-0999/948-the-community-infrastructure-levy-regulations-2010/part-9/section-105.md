@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Insolvency[^key-7a24de4eb1fb41dfeabdf7e58edd7eb0]
+## 105. Insolvency[^c-7a24de4eb1fb41dfeabdf7e58edd7eb0]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a24de4eb1fb41dfeabdf7e58edd7eb0]: Commencement: Reg. 105 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-7a24de4eb1fb41dfeabdf7e58edd7eb0]: Commencement: Reg. 105 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00052]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).

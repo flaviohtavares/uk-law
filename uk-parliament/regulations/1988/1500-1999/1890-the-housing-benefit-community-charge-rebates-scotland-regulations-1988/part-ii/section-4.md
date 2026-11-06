@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Persons of prescribed description[^key-058b8d3e81f95b70258f5d43b82fe43f]
+## 4. Persons of prescribed description[^c-058b8d3e81f95b70258f5d43b82fe43f]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-058b8d3e81f95b70258f5d43b82fe43f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1988/1890/regulation/4) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-058b8d3e81f95b70258f5d43b82fe43f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1988/1890/regulation/4) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00020]: Footnote: [1975 c. 61](https://www.legislation.gov.uk/ukpga/1975/61), as amended by sections 4, 8 and 21 and Schedule 5 Part I of the Social Security Act [1980 (c. 30)](https://www.legislation.gov.uk/ukpga/1980/30) and by section 70 of the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50) and by section 4(4) of the Social Security Act [1988 (c. 7)](https://www.legislation.gov.uk/ukpga/1988/7).

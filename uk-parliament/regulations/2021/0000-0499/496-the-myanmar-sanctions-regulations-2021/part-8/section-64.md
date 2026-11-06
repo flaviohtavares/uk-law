@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Time limit for proceedings for summary offences[^key-e947b9e78abe2dc9b266b90f15b86e07]
+## 64. Time limit for proceedings for summary offences[^c-e947b9e78abe2dc9b266b90f15b86e07]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e947b9e78abe2dc9b266b90f15b86e07]: Commencement: Reg. 64 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-e947b9e78abe2dc9b266b90f15b86e07]: Commencement: Reg. 64 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

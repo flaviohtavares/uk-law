@@ -33,12 +33,12 @@ summary: ''
 
 (5) Where the circumstances in paragraph (2) apply, the maximum additional amount that the current system student may borrow in respect of the academic year to which that student transfers, provided that the student qualifies for a fee loan in respect of that year, is determined by deducting the amount of any fee loan the student has taken out under these Regulations in respect of the academic year from which the student is transferring from the lesser of—
 
-- (a) the maximum amount specified in paragraphs (3) to (6C)[^key-9c36070138c31637bf787a777e7828c4] of regulation 23 applicable in the student's case; and
+- (a) the maximum amount specified in paragraphs (3) to (6C)[^c-9c36070138c31637bf787a777e7828c4] of regulation 23 applicable in the student's case; and
 - (b) the fees payable by the student in respect of the academic year to which the student is transferring.
 
 (6) Where the circumstances in paragraph (4) apply, the maximum amount of fee loan that a current system student may borrow in respect of the academic year to which that student transfers provided that the student qualifies for a fee loan in respect of that year is the lesser of—
 
-- (a) the amount specified in paragraphs (3) to (6C)[^key-2a55208030bdd3eb48a175a9a5a79f5f] of regulation 23 applicable in the student's case; and
+- (a) the amount specified in paragraphs (3) to (6C)[^c-2a55208030bdd3eb48a175a9a5a79f5f] of regulation 23 applicable in the student's case; and
 - (b) the fees payable by the student in connection with that year.
 
 (7) Where a current system student has applied for a fee loan of less than the maximum amount available in relation to an academic year, that student may apply to borrow an additional amount which when added to the amount already applied for does not exceed the relevant maximum applicable in that student's case.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c36070138c31637bf787a777e7828c4]: Textual amendment: Words in [reg. 24(5)(a)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/24/5/a) substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [27(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/27/a)
+[^c-9c36070138c31637bf787a777e7828c4]: Textual amendment: Words in [reg. 24(5)(a)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/24/5/a) substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [27(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/27/a)
 
-[^key-2a55208030bdd3eb48a175a9a5a79f5f]: Textual amendment: Words in [reg. 24(6)(a)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/24/6/a) substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [27(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/27/a)
+[^c-2a55208030bdd3eb48a175a9a5a79f5f]: Textual amendment: Words in [reg. 24(6)(a)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/24/6/a) substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [27(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/27/a)

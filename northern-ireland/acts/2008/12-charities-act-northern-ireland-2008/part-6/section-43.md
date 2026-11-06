@@ -36,7 +36,7 @@ summary: ''
 (5) In this section “**appropriate body**” means—
 
 - (a) a Scottish recognised body, ...
-- (b) an England and Wales charity,; or[^key-f80d8dd0b82a30c9145152a3d27c3bb9]
+- (b) an England and Wales charity,; or[^c-f80d8dd0b82a30c9145152a3d27c3bb9]
 - (c) any body of persons or trust that—
   - (i) is established in an EEA state other than the United Kingdom, and
   - (ii) is a charity as defined by paragraph 1 of Schedule 6 to the Finance Act 2010,
@@ -66,4 +66,4 @@ and, in the application of the relevant provisions in relation to a scheme which
 
 ## Annotations
 
-[^key-f80d8dd0b82a30c9145152a3d27c3bb9]: Textual amendment: S. 43(5)(c) and preceding word inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 43(b)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/43/b)
+[^c-f80d8dd0b82a30c9145152a3d27c3bb9]: Textual amendment: S. 43(5)(c) and preceding word inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 43(b)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/43/b)

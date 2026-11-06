@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies to information which is required to be delivered to HMRC[^key-b4fdf5bc0e4ef442a2f2621633dbd03f] under a provision of these Regulations.
+(1) This regulation applies to information which is required to be delivered to HMRC[^c-b4fdf5bc0e4ef442a2f2621633dbd03f] under a provision of these Regulations.
 
 (2) The use of a method of electronic communications for the purpose of delivering such information is conclusively presumed not to have resulted in the delivery of that information, unless that method of electronic communications is for the time being approved for delivery of information of that kind under that provision.
 
 ## Annotations
 
-[^key-b4fdf5bc0e4ef442a2f2621633dbd03f]: Textual amendment: Word in reg. 198(1) substituted (24.11.2025) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2025 (S.I. 2025/1144)](https://www.legislation.gov.uk/uksi/2025/1144), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1144/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/1144/regulation/2/3)
+[^c-b4fdf5bc0e4ef442a2f2621633dbd03f]: Textual amendment: Word in reg. 198(1) substituted (24.11.2025) by [The Income Tax (Pay As You Earn) (Amendment No. 2) Regulations 2025 (S.I. 2025/1144)](https://www.legislation.gov.uk/uksi/2025/1144), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1144/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/1144/regulation/2/3)

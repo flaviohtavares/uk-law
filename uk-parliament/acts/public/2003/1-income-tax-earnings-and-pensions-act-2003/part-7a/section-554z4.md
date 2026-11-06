@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554Z4. Residence issues[^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554Z4. Residence issues[^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) For this purpose, apply sections 16(1) to (4) and 17(1) to (3) as if the value of the relevant step were general earnings.
 
-(3)[^key-80100bc0259aeb6b9c654e9ebc3c4282] Subsection (4) applies if the value of the relevant step, or a part of it, is “for”—
+(3)[^c-80100bc0259aeb6b9c654e9ebc3c4282] Subsection (4) applies if the value of the relevant step, or a part of it, is “for”—
 
 - (a) a tax year for which A is non-UK resident, or
 - (b) a tax year that is a split year as respects A.
@@ -43,7 +43,7 @@ summary: ''
 
 is to be determined on a just and reasonable basis.
 
-(5A)[^key-7607c745caf372217ec869216bea3662] Any attribution required for the purposes of subsection (4)(b)(i) is to be done on a just and reasonable basis.
+(5A)[^c-7607c745caf372217ec869216bea3662] Any attribution required for the purposes of subsection (4)(b)(i) is to be done on a just and reasonable basis.
 
 (5B) “**UK duties**” means duties performed in the United Kingdom.
 
@@ -76,10 +76,10 @@ R is the amount which (ignoring this subsection) is given by subsection (4) as t
 
 ## Annotations
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
 
-[^key-80100bc0259aeb6b9c654e9ebc3c4282]: Textual amendment: S. 554Z4(3)-(5) substituted (with effect in accordance with Sch. 45 para. 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 68(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/68/2)
+[^c-80100bc0259aeb6b9c654e9ebc3c4282]: Textual amendment: S. 554Z4(3)-(5) substituted (with effect in accordance with Sch. 45 para. 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 68(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/68/2)
 
-[^key-7607c745caf372217ec869216bea3662]: Textual amendment: S. 554Z4(5A)(5B) inserted (with effect in accordance with Sch. 45 para. 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 68(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/68/3)
+[^c-7607c745caf372217ec869216bea3662]: Textual amendment: S. 554Z4(5A)(5B) inserted (with effect in accordance with Sch. 45 para. 153(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 68(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/68/3)
 
 [^M_F_6d4882b0-60e5-42e3-d29b-f33cda04fce8]: Textual amendment: S. 554Z4(7)-(10) inserted (27.4.2017) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2017/10/schedule/3/paragraph/7)

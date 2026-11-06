@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Amounts set aside—interests in a regulated company[^key-254b662836d491cbcca3983bb4a5c680]
+## 129. Amounts set aside—interests in a regulated company[^c-254b662836d491cbcca3983bb4a5c680]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ In determining their adjusted credit ceiling at any time, a local authority shal
 
 ## Annotations
 
-[^key-254b662836d491cbcca3983bb4a5c680]: Commencement: Reg. 129 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-254b662836d491cbcca3983bb4a5c680]: Commencement: Reg. 129 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00112]: Footnote: [S.I. 1995/849](https://www.legislation.gov.uk/uksi/1995/849); amended by [S.I. 1996/621](https://www.legislation.gov.uk/uksi/1996/621).

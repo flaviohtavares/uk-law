@@ -34,7 +34,7 @@ summary: ''
 
 (4) In paragraphs (2) and (3) “prescribed” means prescribed by regulations made in accordance with paragraph (1).
 
-(5)[^c16879781][^key-88caa72c4a5a43dea50b1f763b0b8978] Paragraph (1)(b) shall be included among the provisions with respect to which the Department of Finance and Personnel may make an order under section 6(1) of the Administration of Estates (Small Payments) Act (Northern Ireland) 1967[^c16879791] substituting, for references to the amount for the time being provided for, references to such higher amount as may be specified in the order.
+(5)[^c16879781][^c-88caa72c4a5a43dea50b1f763b0b8978] Paragraph (1)(b) shall be included among the provisions with respect to which the Department of Finance and Personnel may make an order under section 6(1) of the Administration of Estates (Small Payments) Act (Northern Ireland) 1967[^c16879791] substituting, for references to the amount for the time being provided for, references to such higher amount as may be specified in the order.
 
 ## Annotations
 
@@ -42,6 +42,6 @@ summary: ''
 
 [^c16879781]: Textual amendment: mod. by SR 2004/68
 
-[^key-88caa72c4a5a43dea50b1f763b0b8978]: Modification: [Art. 104(5)](https://www.legislation.gov.uk/nisi/1992/807/article/104/5) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(e)](https://www.legislation.gov.uk/nisr/2020/280/article/2/e)
+[^c-88caa72c4a5a43dea50b1f763b0b8978]: Modification: [Art. 104(5)](https://www.legislation.gov.uk/nisi/1992/807/article/104/5) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(e)](https://www.legislation.gov.uk/nisr/2020/280/article/2/e)
 
 [^c16879791]: Textual amendment: [1967 c.5 (NI)](https://www.legislation.gov.uk/apni/1967/5)

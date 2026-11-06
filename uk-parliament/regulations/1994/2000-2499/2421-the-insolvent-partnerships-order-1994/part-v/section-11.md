@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Insolvency proceedings not involving winding up of insolvent partnership as unregistered company where individual members present joint bankruptcy petition[^key-5468d43a69cdd3f105befdb15c4fe832]
+## 11. Insolvency proceedings not involving winding up of insolvent partnership as unregistered company where individual members present joint bankruptcy petition[^c-5468d43a69cdd3f105befdb15c4fe832]
 
 *Extent: E+W*
 
@@ -24,17 +24,17 @@ summary: ''
 
 (2) The provisions referred to in paragraph (1) are—
 
-- (a) Part IX (other than section[^key-6836e888748b44cfc33dcbd88ab446ff] 287), and
+- (a) Part IX (other than section[^c-6836e888748b44cfc33dcbd88ab446ff] 287), and
 - (b) Parts X to XIX,
 
-insofar as they relate to the insolvency of individuals in England and Wales where a bankruptcy application is made[^key-c190935273096ee4896d9aa16604abf0] by a debtor.
+insofar as they relate to the insolvency of individuals in England and Wales where a bankruptcy application is made[^c-c190935273096ee4896d9aa16604abf0] by a debtor.
 
 (3) Certain of the provisions referred to in paragraph (1) are modified in their application in relation to the individual members of insolvent partnerships in such manner that, after modification, they are as set out in Schedule 7 to this Order.
 
 ## Annotations
 
-[^key-5468d43a69cdd3f105befdb15c4fe832]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/1994/2421/article/11) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-5468d43a69cdd3f105befdb15c4fe832]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/1994/2421/article/11) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-6836e888748b44cfc33dcbd88ab446ff]: Textual amendment: Word in [art. 11(2)](https://www.legislation.gov.uk/uksi/1994/2421/article/11/2) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/5/3/a)
+[^c-6836e888748b44cfc33dcbd88ab446ff]: Textual amendment: Word in [art. 11(2)](https://www.legislation.gov.uk/uksi/1994/2421/article/11/2) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/5/3/a)
 
-[^key-c190935273096ee4896d9aa16604abf0]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/1994/2421/article/11/2) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/5/3/b)
+[^c-c190935273096ee4896d9aa16604abf0]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/1994/2421/article/11/2) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/5/3/b)

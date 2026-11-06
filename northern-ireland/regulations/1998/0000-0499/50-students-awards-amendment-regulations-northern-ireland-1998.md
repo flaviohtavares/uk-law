@@ -30,7 +30,7 @@ summary: ''
 
 EDUCATION
 
-Students Awards (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-78e0e2886d0f1515138e25996a27c76e]
+Students Awards (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-78e0e2886d0f1515138e25996a27c76e]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 27th March 1998
 
-[^key-78e0e2886d0f1515138e25996a27c76e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78e0e2886d0f1515138e25996a27c76e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-78e0e2886d0f1515138e25996a27c76e]
+## 1. Citation and commencement[^c-78e0e2886d0f1515138e25996a27c76e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Students Awards Regulations (Northern Ireland) 1997[^key-78e0e2886d0f1515138e25996a27c76e]
+## 2. Amendment of the Students Awards Regulations (Northern Ireland) 1997[^c-78e0e2886d0f1515138e25996a27c76e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-78e0e2886d0f1515138e25996a27c76e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78e0e2886d0f1515138e25996a27c76e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-78e0e2886d0f1515138e25996a27c76e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78e0e2886d0f1515138e25996a27c76e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-78e0e2886d0f1515138e25996a27c76e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/50) revoked (1.9.1998) by [Students Awards Regulations (Northern Ireland) 1998 (S.R. 1998/273)](https://www.legislation.gov.uk/nisr/1998/273), [regs. 1](https://www.legislation.gov.uk/nisr/1998/273/regulation/1), [2](https://www.legislation.gov.uk/nisr/1998/273/regulation/2)
+[^c-78e0e2886d0f1515138e25996a27c76e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/50) revoked (1.9.1998) by [Students Awards Regulations (Northern Ireland) 1998 (S.R. 1998/273)](https://www.legislation.gov.uk/nisr/1998/273), [regs. 1](https://www.legislation.gov.uk/nisr/1998/273/regulation/1), [2](https://www.legislation.gov.uk/nisr/1998/273/regulation/2)

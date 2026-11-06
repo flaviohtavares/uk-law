@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Authorised self-driving entities[^key-af323122597ce5e3f7c307e53a64c7dc]
+## 6. Authorised self-driving entities[^c-af323122597ce5e3f7c307e53a64c7dc]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af323122597ce5e3f7c307e53a64c7dc]: Commencement: S. 6 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-af323122597ce5e3f7c307e53a64c7dc]: Commencement: S. 6 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

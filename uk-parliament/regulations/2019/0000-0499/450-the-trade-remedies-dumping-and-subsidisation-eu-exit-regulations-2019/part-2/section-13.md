@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Adjustments[^key-cf35b905dbfb2e9ab5f61b2589e2b7a4]
+## 13. Adjustments[^c-cf35b905dbfb2e9ab5f61b2589e2b7a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf35b905dbfb2e9ab5f61b2589e2b7a4]: Commencement: Reg. 13 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-cf35b905dbfb2e9ab5f61b2589e2b7a4]: Commencement: Reg. 13 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

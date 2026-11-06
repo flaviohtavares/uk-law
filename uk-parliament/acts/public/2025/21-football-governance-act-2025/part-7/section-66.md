@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Reports on clubs by expert reporters[^key-fb1ae8e777638c29c8e37d24f0349ed3][^key-9a6df51b0744c15d50900aae4f577e74]
+## 66. Reports on clubs by expert reporters[^c-fb1ae8e777638c29c8e37d24f0349ed3][^c-9a6df51b0744c15d50900aae4f577e74]
 
 *Extent: E+W*
 
@@ -77,6 +77,6 @@ to be payable by the club concerned.
 
 ## Annotations
 
-[^key-fb1ae8e777638c29c8e37d24f0349ed3]: Commencement: S. 66 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-fb1ae8e777638c29c8e37d24f0349ed3]: Commencement: S. 66 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-9a6df51b0744c15d50900aae4f577e74]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2025/21/section/66) in force at 1.11.2025 in so far as not already in force by [S.I. 2025/1134](https://www.legislation.gov.uk/uksi/2025/1134), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1134/regulation/2/b)
+[^c-9a6df51b0744c15d50900aae4f577e74]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2025/21/section/66) in force at 1.11.2025 in so far as not already in force by [S.I. 2025/1134](https://www.legislation.gov.uk/uksi/2025/1134), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1134/regulation/2/b)

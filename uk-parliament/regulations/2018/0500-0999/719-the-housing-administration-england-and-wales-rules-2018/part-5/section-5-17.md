@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.17. Secured creditor: redemption by housing administrator[^key-27d16fc11f34d8f8c066c0d12b439c84]
+## 5.17. Secured creditor: redemption by housing administrator[^c-27d16fc11f34d8f8c066c0d12b439c84]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27d16fc11f34d8f8c066c0d12b439c84]: Commencement: Rule 5.17 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-27d16fc11f34d8f8c066c0d12b439c84]: Commencement: Rule 5.17 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

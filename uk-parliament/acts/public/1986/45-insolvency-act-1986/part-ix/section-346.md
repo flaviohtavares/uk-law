@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to section 285 in Chapter II (restriction on proceedings and remedies) and to the following provisions of this section, where the creditor of any person who is made[^key-1a8839945c5c87ef5de4836b9667e9e2] bankrupt has, before the commencement of the bankruptcy—
+(1) Subject to section 285 in Chapter II (restriction on proceedings and remedies) and to the following provisions of this section, where the creditor of any person who is made[^c-1a8839945c5c87ef5de4836b9667e9e2] bankrupt has, before the commencement of the bankruptcy—
 
 - (a) issued execution against the goods or land of that person, or
 - (b) attached a debt due to that person from another person,
 
 that creditor is not entitled, as against the official reciever or trustee of the bankrupt’s estate, to retain the benefit of the execution or attachment, or any sums paid to avoid it, unless the execution or attachment was completed, or the sums were paid, before the commencement of the bankruptcy.
 
-(1A)[^key-f4bf37701ac312a61cd917a3eaefcd38] For the purposes of this section, Her Majesty's Revenue and Customs is to be regarded as having attached a debt due to a person if it has taken action under Part 1 of Schedule 8 to the Finance (No. 2) Act 2015 (enforcement by deduction from accounts) as a result of which an amount standing to the credit of an account held by that person is—
+(1A)[^c-f4bf37701ac312a61cd917a3eaefcd38] For the purposes of this section, Her Majesty's Revenue and Customs is to be regarded as having attached a debt due to a person if it has taken action under Part 1 of Schedule 8 to the Finance (No. 2) Act 2015 (enforcement by deduction from accounts) as a result of which an amount standing to the credit of an account held by that person is—
 
 - (a) subject to arrangements made under paragraph 6(3) of that Schedule, or
 - (b) the subject of a deduction notice under paragraph 13 of that Schedule.
@@ -40,14 +40,14 @@ that creditor is not entitled, as against the official reciever or trustee of th
 (3) Subject to subsection (6) below, where—
 
 - (a) under an execution in respect of a judgment for a sum exceeding such sum as may be prescribed for the purposes of this subsection, the goods of any person are sold or money is paid in order to avoid a sale, and
-- (b) before the end of the period of 14 days beginning with the day of the sale or payment the enforcement officer or other officer charged with the execution is given notice that a bankruptcy application has been made or a[^key-ee67a7536372b803d87bf661b8e2db94] bankruptcy petition has been presented in relation to that person, and
-- (c) a bankruptcy order is or has been made as a result of that application or[^key-cf2fdb5615bc765707e82b81c8d04814] on that petition,
+- (b) before the end of the period of 14 days beginning with the day of the sale or payment the enforcement officer or other officer charged with the execution is given notice that a bankruptcy application has been made or a[^c-ee67a7536372b803d87bf661b8e2db94] bankruptcy petition has been presented in relation to that person, and
+- (c) a bankruptcy order is or has been made as a result of that application or[^c-cf2fdb5615bc765707e82b81c8d04814] on that petition,
 
 the balance of the proceeds of sale or money paid, after deducting the costs of execution, shall (in priority to the claim of the execution creditor) be comprised in the bankrupt’s estate.
 
 (4) Accordingly, in the case of an execution in respect of a judgment for a sum exceeding the sum prescribed for the purposes of subsection (3), the enforcement officer or other officer charged with the execution—
 
-- (a) shall not dispose of the balance mentioned in subsection (3) at any time within the period of 14 days so mentioned or while proceedings on a bankruptcy application are ongoing or (as the case may be)[^key-6beefd9bc3c48ff1ab46203b22e3f73f] there is pending a bankruptcy petition of which he has been given notice under that subsection, and
+- (a) shall not dispose of the balance mentioned in subsection (3) at any time within the period of 14 days so mentioned or while proceedings on a bankruptcy application are ongoing or (as the case may be)[^c-6beefd9bc3c48ff1ab46203b22e3f73f] there is pending a bankruptcy petition of which he has been given notice under that subsection, and
 - (b) shall pay that balance, where by virtue of that subsection it is comprised, in the bankrupt’s estate, to the official receiver or (if there is one) to the trustee or that estate.
 
 (5) For the purposes of this section—
@@ -69,17 +69,17 @@ the balance of the proceeds of sale or money paid, after deducting the costs of 
 
 ## Annotations
 
-[^key-1a8839945c5c87ef5de4836b9667e9e2]: Textual amendment: Word in s. 346(1)(2) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 39(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/39/2); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-1a8839945c5c87ef5de4836b9667e9e2]: Textual amendment: Word in s. 346(1)(2) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 39(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/39/2); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
-[^key-f4bf37701ac312a61cd917a3eaefcd38]: Textual amendment: S. 346(1A) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/2015/33/schedule/8/paragraph/32)
+[^c-f4bf37701ac312a61cd917a3eaefcd38]: Textual amendment: S. 346(1A) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/2015/33/schedule/8/paragraph/32)
 
 [^c18410161]: Textual amendment: Words in s. 346(2)(3)(b)(4)(8)(b) substituted (15.3.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 297(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/297/2); [S.I. 2004/401](https://www.legislation.gov.uk/uksi/2004/401), [art. 2](https://www.legislation.gov.uk/uksi/2004/401/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/401/article/3))
 
-[^key-ee67a7536372b803d87bf661b8e2db94]: Textual amendment: Words in s. 346(3)(b) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 39(3)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/39/3/a); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-ee67a7536372b803d87bf661b8e2db94]: Textual amendment: Words in s. 346(3)(b) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 39(3)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/39/3/a); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
-[^key-cf2fdb5615bc765707e82b81c8d04814]: Textual amendment: Words in s. 346(3)(c) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 39(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/39/3/b); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-cf2fdb5615bc765707e82b81c8d04814]: Textual amendment: Words in s. 346(3)(c) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 39(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/39/3/b); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
-[^key-6beefd9bc3c48ff1ab46203b22e3f73f]: Textual amendment: Words in s. 346(4)(a) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 39(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/39/4); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-6beefd9bc3c48ff1ab46203b22e3f73f]: Textual amendment: Words in s. 346(4)(a) inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 39(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/39/4); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
 [^c15580731]: Marginal citation: [1979 c. 53](https://www.legislation.gov.uk/ukpga/1979/53).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Social Security Contributions and Benefits Act 1992[^key-dc1c82d64adcbee86305a81143892343]
+## 65. Social Security Contributions and Benefits Act 1992[^c-dc1c82d64adcbee86305a81143892343]
 
 *Extent: E+W+S*
 
@@ -27,6 +27,6 @@ In section 171ZL(4B) of the Social Security Contributions and Benefits Act 1992[
 
 ## Annotations
 
-[^key-dc1c82d64adcbee86305a81143892343]: Commencement: Reg. 65 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-dc1c82d64adcbee86305a81143892343]: Commencement: Reg. 65 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00095]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 171ZL was inserted by section 4 of the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) and subsection (4B) was inserted by [S.I. 2006/2012](https://www.legislation.gov.uk/uksi/2006/2012) and amended by [S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740).

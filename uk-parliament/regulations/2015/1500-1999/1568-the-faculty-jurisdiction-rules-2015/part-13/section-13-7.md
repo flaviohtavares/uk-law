@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 13.7. Treatment of non-party witness[^key-9c488451374cc381c61a7bf5a2dba414]
+## 13.7. Treatment of non-party witness[^c-9c488451374cc381c61a7bf5a2dba414]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ A witness who gives evidence under any of rules 13.2 to 13.4 may ask questions o
 
 ## Annotations
 
-[^key-9c488451374cc381c61a7bf5a2dba414]: Commencement: [Rule 13.7](https://www.legislation.gov.uk/uksi/2015/1568/article/13.7) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-9c488451374cc381c61a7bf5a2dba414]: Commencement: [Rule 13.7](https://www.legislation.gov.uk/uksi/2015/1568/article/13.7) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

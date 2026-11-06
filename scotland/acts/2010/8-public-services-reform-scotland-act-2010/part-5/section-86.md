@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Applications under Chapter 4 in respect of conditions[^key-54f14f500b25a3c27f2ab7990a7a0be8][^key-6e24b2546414306bda7dbfd0957eb999]
+## 86. Applications under Chapter 4 in respect of conditions[^c-54f14f500b25a3c27f2ab7990a7a0be8][^c-6e24b2546414306bda7dbfd0957eb999]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54f14f500b25a3c27f2ab7990a7a0be8]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2010/8/section/86) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-54f14f500b25a3c27f2ab7990a7a0be8]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2010/8/section/86) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-6e24b2546414306bda7dbfd0957eb999]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2010/8/section/86) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-6e24b2546414306bda7dbfd0957eb999]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2010/8/section/86) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

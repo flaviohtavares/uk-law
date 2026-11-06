@@ -25,9 +25,9 @@ summary: ''
 - (a) an employed earner by reason of two or more employed earner’s employments, whether under the same employer or different employers; or
 - (b) two or more employed earners concurrently by reason of their respective employed earner’s employments under the same employer,
 
-and all of those employed earner’s employments are employments other than excluded employments within the meaning of the benefits code (see Chapter 2 of Part 3 of[^key-c3b58ffb08e9095ad3cb7b4d458851f1] ITEPA 2003).
+and all of those employed earner’s employments are employments other than excluded employments within the meaning of the benefits code (see Chapter 2 of Part 3 of[^c-c3b58ffb08e9095ad3cb7b4d458851f1] ITEPA 2003).
 
-(2) If this regulation applies the amount of any Class 1A contribution payable for the year by the person liable to pay such contribution shall be reduced [^key-30ccb800ce40ff4d063114ad6fde39aa]... by deducting from that amount an amount equal to the fraction—
+(2) If this regulation applies the amount of any Class 1A contribution payable for the year by the person liable to pay such contribution shall be reduced [^c-30ccb800ce40ff4d063114ad6fde39aa]... by deducting from that amount an amount equal to the fraction—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2001/1004)
 
@@ -37,6 +37,6 @@ Here X is the total number of employments in respect of which the thing is provi
 
 ## Annotations
 
-[^key-c3b58ffb08e9095ad3cb7b4d458851f1]: Textual amendment: Words in reg. 36(1) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2004/770/regulation/7/a)
+[^c-c3b58ffb08e9095ad3cb7b4d458851f1]: Textual amendment: Words in reg. 36(1) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2004/770/regulation/7/a)
 
-[^key-30ccb800ce40ff4d063114ad6fde39aa]: Textual amendment: Words in reg. 36(2) omitted (6.4.2004) by virtue of [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2004/770/regulation/7/b)
+[^c-30ccb800ce40ff4d063114ad6fde39aa]: Textual amendment: Words in reg. 36(2) omitted (6.4.2004) by virtue of [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2004/770/regulation/7/b)

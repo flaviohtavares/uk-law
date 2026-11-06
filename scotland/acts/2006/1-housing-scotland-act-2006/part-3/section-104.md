@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Information to be held or provided to potential buyers[^c1897771][^key-7bd1a2a5aaceef2e87bc4ab0ecd09b2a]
+## 104. Information to be held or provided to potential buyers[^c1897771][^c-7bd1a2a5aaceef2e87bc4ab0ecd09b2a]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c1897771]: Commencement: s. 104 not in force at Royal Assent see s. 195(3); s. 104 in force for certain purposes at 4.12.2006 by [S.S.I. 2006/569](https://www.legislation.gov.uk/ssi/2006/569), [art. 2](https://www.legislation.gov.uk/ssi/2006/569/article/2)
 
-[^key-7bd1a2a5aaceef2e87bc4ab0ecd09b2a]: Commencement: S. 104 in force at 1.12.2008 in so far as not already in force by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))
+[^c-7bd1a2a5aaceef2e87bc4ab0ecd09b2a]: Commencement: S. 104 in force at 1.12.2008 in so far as not already in force by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))

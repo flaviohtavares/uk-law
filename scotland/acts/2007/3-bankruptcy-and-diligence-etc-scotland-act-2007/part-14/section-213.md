@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 213. Admiralty actions and the arrestment of ships: modification of enactments[^key-6440ef78d3c486cebfa6af659430aa9b]
+## 213. Admiralty actions and the arrestment of ships: modification of enactments[^c-6440ef78d3c486cebfa6af659430aa9b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 4 makes modifications of enactments relating to admiralty actions and t
 
 ## Annotations
 
-[^key-6440ef78d3c486cebfa6af659430aa9b]: Commencement: [S. 213](https://www.legislation.gov.uk/asp/2007/3/section/213) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-6440ef78d3c486cebfa6af659430aa9b]: Commencement: [S. 213](https://www.legislation.gov.uk/asp/2007/3/section/213) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253. Financial provisions[^key-8ebb857db99a41f799818449d70f0fad]
+## 253. Financial provisions[^c-8ebb857db99a41f799818449d70f0fad]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ebb857db99a41f799818449d70f0fad]: Commencement: S. 253 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-8ebb857db99a41f799818449d70f0fad]: Commencement: S. 253 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)

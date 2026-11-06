@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1067B. Disqualification from delivering documents[^key-a808e960978a216406f3ee513df05bd2]
+## 1067B. Disqualification from delivering documents[^c-a808e960978a216406f3ee513df05bd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a808e960978a216406f3ee513df05bd2]: Textual amendment: [S. 1067B](https://www.legislation.gov.uk/ukpga/2006/46/section/1067B) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 73](https://www.legislation.gov.uk/ukpga/2023/56/section/73), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-a808e960978a216406f3ee513df05bd2]: Textual amendment: [S. 1067B](https://www.legislation.gov.uk/ukpga/2006/46/section/1067B) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 73](https://www.legislation.gov.uk/ukpga/2023/56/section/73), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Chapter 5: key definitions[^key-0f57aa5c3901607de2bec25d98a097d2]
+## 107. Chapter 5: key definitions[^c-0f57aa5c3901607de2bec25d98a097d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f57aa5c3901607de2bec25d98a097d2]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2023/52/section/107) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-0f57aa5c3901607de2bec25d98a097d2]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2023/52/section/107) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

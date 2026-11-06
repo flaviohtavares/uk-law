@@ -23,7 +23,7 @@ summary: ''
 (1) In this Act—
 
 - [^M_F_e19e01d5-9842-47cb-cea7-ec53f3c14c49]...
-- “[^key-dcdcc15055a28c96fa6270ebbd39a858] **assured tenancy** ” has the same meaning as in Part 1 of the Housing Act 1988;
+- “[^c-dcdcc15055a28c96fa6270ebbd39a858] **assured tenancy** ” has the same meaning as in Part 1 of the Housing Act 1988;
 - “**caution against first registration**” means a caution lodged under section 15;
 - “**cautions register**” means the register kept under section 19(1);
 - “**charge**” means any mortgage, charge or lien for securing money or money’s worth;
@@ -65,7 +65,7 @@ summary: ''
 
 (3) In this Act—
 
-- (a) references to the court are to the High Court or the county court[^key-04f1c122bb212c0df15f6a16ee04347c],
+- (a) references to the court are to the High Court or the county court[^c-04f1c122bb212c0df15f6a16ee04347c],
 - (b) references to an interest affecting an estate or charge are to an adverse right affecting the title to the estate or charge, and
 - (c) references to the right to object to an application to the registrar are to the right under section 73.
 
@@ -73,6 +73,6 @@ summary: ''
 
 [^M_F_e19e01d5-9842-47cb-cea7-ec53f3c14c49]: Textual amendment: Words in s. 132(1) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), art. 1, Sch. 1 para. 236 (with Sch. 3)
 
-[^key-dcdcc15055a28c96fa6270ebbd39a858]: Textual amendment: Words in s. 132(1) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 157(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/157/6), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9,](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11,](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14,](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15,](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-dcdcc15055a28c96fa6270ebbd39a858]: Textual amendment: Words in s. 132(1) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 157(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/157/6), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9,](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11,](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14,](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15,](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-04f1c122bb212c0df15f6a16ee04347c]: Textual amendment: Words in s. 132(3)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-04f1c122bb212c0df15f6a16ee04347c]: Textual amendment: Words in s. 132(3)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

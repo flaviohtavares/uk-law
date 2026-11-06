@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31N. Schedule 1B[^key-cbd587a2ddd5805ac892a01382fd8b5c]
+## 31N. Schedule 1B[^c-cbd587a2ddd5805ac892a01382fd8b5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ Schedule 1B to the Act applies to LLPs, but with the omission of paragraph (6) a
 >
 > (1) This paragraph applies if—
 >
-> - (a) a notice under section 790D , 790DA, 790E or 790EA[^key-d38d29f81f20a087a48ccf74b547afad] is served by an LLP on a person who has a relevant interest in the LLP, and
+> - (a) a notice under section 790D , 790DA, 790E or 790EA[^c-d38d29f81f20a087a48ccf74b547afad] is served by an LLP on a person who has a relevant interest in the LLP, and
 > - (b) the person fails to comply with that notice within the time specified in it.
 >
 > (2) The LLP may give the person a notice under this paragraph (a “warning notice”) informing the person that it is proposing to issue the person with a notice (a “restrictions notice”) with respect to the relevant interest.
@@ -135,7 +135,7 @@ Schedule 1B to the Act applies to LLPs, but with the omission of paragraph (6) a
 >
 > (3) The court must not make an order under this paragraph unless—
 >
-> - (a) it is satisfied that the information required by the notice served under section 790D , 790DA, 790E or 790EA[^key-da1e9591bd10a40a83dc0ee09d829769] has been disclosed to the LLP and no unfair advantage has accrued to any person as a result of the earlier failure to make that disclosure, or
+> - (a) it is satisfied that the information required by the notice served under section 790D , 790DA, 790E or 790EA[^c-da1e9591bd10a40a83dc0ee09d829769] has been disclosed to the LLP and no unfair advantage has accrued to any person as a result of the earlier failure to make that disclosure, or
 > - (b) the relevant interest is to be transferred for valuable consideration and the court approves the transfer.
 >
 > (4) An order under this paragraph made by virtue of sub-paragraph (3)(b) may continue, in whole or in part, the restrictions mentioned in paragraph 3(1)(c) so far as they relate to a right acquired or offer made before the transfer.
@@ -176,7 +176,7 @@ Schedule 1B to the Act applies to LLPs, but with the omission of paragraph (6) a
 >
 > An LLP that issues a person with a restrictions notice under paragraph 1 must by notice withdraw the restrictions notice if—
 >
-> - (a) it is satisfied that there is a valid reason sufficient to justify the person’s failure to comply with the notice served under section 790D , 790DA, 790E or 790EA[^key-a9014e96f9c2bc57212a6c3b9691544a],
+> - (a) it is satisfied that there is a valid reason sufficient to justify the person’s failure to comply with the notice served under section 790D , 790DA, 790E or 790EA[^c-a9014e96f9c2bc57212a6c3b9691544a],
 > - (b) the notice served under section 790D , 790DA, 790E or 790EA is complied with, or
 > - (c) it discovers that the rights of a third party in respect of the relevant interest are being unfairly affected by the restrictions notice.
 >
@@ -184,7 +184,7 @@ Schedule 1B to the Act applies to LLPs, but with the omission of paragraph (6) a
 >
 > In issuing and withdrawing restriction notices, LLPs must follow the procedures prescribed by Part 5 of the PSC Regulations.
 >
-> **13.[^key-234a77663dab3728352ff2fa2617c49a]**
+> **13.[^c-234a77663dab3728352ff2fa2617c49a]**
 >
 > (1) A person to whom a notice under section 790D, 790DA, 790E or 790EA is addressed commits an offence if the person fails, without reasonable excuse, to comply with the notice.
 >
@@ -234,12 +234,12 @@ Schedule 1B to the Act applies to LLPs, but with the omission of paragraph (6) a
 
 ## Annotations
 
-[^key-cbd587a2ddd5805ac892a01382fd8b5c]: Textual amendment: Pt. 8A inserted (6.4.2016 except paras. 31E and 31K for specified purposes which come into force otherwise at 30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1)
+[^c-cbd587a2ddd5805ac892a01382fd8b5c]: Textual amendment: Pt. 8A inserted (6.4.2016 except paras. 31E and 31K for specified purposes which come into force otherwise at 30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1)
 
-[^key-d38d29f81f20a087a48ccf74b547afad]: Textual amendment: Words in [reg. 31N](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31N) substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/c), [8(8)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/8/8/a/i) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)
+[^c-d38d29f81f20a087a48ccf74b547afad]: Textual amendment: Words in [reg. 31N](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31N) substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/c), [8(8)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/8/8/a/i) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)
 
-[^key-da1e9591bd10a40a83dc0ee09d829769]: Textual amendment: Words in [reg. 31N](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31N) substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/c), [8(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/8/8/a/ii) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)
+[^c-da1e9591bd10a40a83dc0ee09d829769]: Textual amendment: Words in [reg. 31N](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31N) substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/c), [8(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/8/8/a/ii) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)
 
-[^key-a9014e96f9c2bc57212a6c3b9691544a]: Textual amendment: Words in [reg. 31N](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31N) substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/c), [8(8)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/8/8/a/iii) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)
+[^c-a9014e96f9c2bc57212a6c3b9691544a]: Textual amendment: Words in [reg. 31N](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31N) substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/c), [8(8)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/8/8/a/iii) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)
 
-[^key-234a77663dab3728352ff2fa2617c49a]: Textual amendment: Words in [reg. 31N](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31N) substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/c), [8(8)(b)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/8/8/b) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)
+[^c-234a77663dab3728352ff2fa2617c49a]: Textual amendment: Words in [reg. 31N](https://www.legislation.gov.uk/uksi/2009/1804/regulation/31N) substituted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/3/c), [8(8)(b)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/8/8/b) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)

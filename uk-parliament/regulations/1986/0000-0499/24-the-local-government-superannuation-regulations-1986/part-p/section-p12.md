@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## P12. Liability for combined benefits[^key-682581547db29d4e73a7b0423da68d16]
+## P12. Liability for combined benefits[^c-682581547db29d4e73a7b0423da68d16]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ the new authority may require the previous authority to pay interest, calculated
 
 ## Annotations
 
-[^key-682581547db29d4e73a7b0423da68d16]: Commencement: [Reg. P12](https://www.legislation.gov.uk/uksi/1986/24/regulation/P12) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-682581547db29d4e73a7b0423da68d16]: Commencement: [Reg. P12](https://www.legislation.gov.uk/uksi/1986/24/regulation/P12) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

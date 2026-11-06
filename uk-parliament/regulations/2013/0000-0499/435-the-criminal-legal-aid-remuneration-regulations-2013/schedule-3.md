@@ -125,7 +125,7 @@ and a QC agrees to appear as the single advocate or as a leading junior, that QC
 
 | Class of work | Grade of fee earner | Rate | Variations |
 | --- | --- | --- | --- |
-| Preparation[^key-d2cee795466ce7c9447dd52725bb3a74] | Senior solicitor | £61.17 per hour | £64.35 per hour for a litigator whose office is situated within the City of London or a London borough |
+| Preparation[^c-d2cee795466ce7c9447dd52725bb3a74] | Senior solicitor | £61.17 per hour | £64.35 per hour for a litigator whose office is situated within the City of London or a London borough |
 |  | Solicitor, legal executive or fee earner of equivalent experience | £51.94 per hour | £54.55 per hour for a litigator whose office is situated within the City of London or a London borough |
 |  | Trainee or fee earner of equivalent experience | £34.34 per hour | £39.25 per hour for a litigator whose office is situated within the City of London or a London borough |
 | Advocacy | Senior solicitor | £73.88 per hour |  |
@@ -142,7 +142,7 @@ and a QC agrees to appear as the single advocate or as a leading junior, that QC
 
 ### 8. Allowance of litigators' fees at more than the prescribed rate
 
-(1) Upon a determination of fees the appropriate officer may, subject to the provisions of this paragraph, allow fees at more than the relevant prescribed rate specified in paragraph 7 for preparation, advocacy, attendance at court where more than one representative is assigned, routine letters written and routine telephone calls, in respect of offences in Class A, B, C, D, G, I, J or K in the LGFS Table of Offences[^key-27aeb257ab9d16535acc55e34d527869].
+(1) Upon a determination of fees the appropriate officer may, subject to the provisions of this paragraph, allow fees at more than the relevant prescribed rate specified in paragraph 7 for preparation, advocacy, attendance at court where more than one representative is assigned, routine letters written and routine telephone calls, in respect of offences in Class A, B, C, D, G, I, J or K in the LGFS Table of Offences[^c-27aeb257ab9d16535acc55e34d527869].
 
 (2) The appropriate officer may allow fees at more than the prescribed rate where it appears to the appropriate officer, taking into account all the relevant circumstances of the case, that—
 
@@ -168,7 +168,7 @@ and a QC agrees to appear as the single advocate or as a leading junior, that QC
 
 (1) Subject to sub-paragraph 9(4), for proceedings in the Court of Appeal the appropriate officer must allow fees for work by advocates at the following prescribed rates—
 
-Junior Counsel[^key-2e738db55184033f7193b0dca512d5a6]
+Junior Counsel[^c-2e738db55184033f7193b0dca512d5a6]
 
 <table>
 <thead>
@@ -180,7 +180,7 @@ Junior Counsel[^key-2e738db55184033f7193b0dca512d5a6]
 </tbody>
 </table>
 
-QC[^key-8d8e0f03c2795b1dabd238b64f6cba76]
+QC[^c-8d8e0f03c2795b1dabd238b64f6cba76]
 
 | Type of proceedings | Basic fee | Full day refresher | Subsidiary fees |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -226,10 +226,10 @@ a representative who is dissatisfied with that decision may appeal to a Costs Ju
 
 [^c21713861]: Marginal citation: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23).
 
-[^key-d2cee795466ce7c9447dd52725bb3a74]: Textual amendment: [Sch. 3 para. 7(1)](https://www.legislation.gov.uk/uksi/2013/435/schedule/3/paragraph/7/1) table substituted (22.12.2025) by [The Criminal Legal Aid (General and Remuneration) (Amendment) Regulations 2025 (S.I. 2025/1251)](https://www.legislation.gov.uk/uksi/2025/1251), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/1251/regulation/2/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/1251/schedule/1/paragraph/1) (with [reg. 5](https://www.legislation.gov.uk/uksi/2025/1251/regulation/5))
+[^c-d2cee795466ce7c9447dd52725bb3a74]: Textual amendment: [Sch. 3 para. 7(1)](https://www.legislation.gov.uk/uksi/2013/435/schedule/3/paragraph/7/1) table substituted (22.12.2025) by [The Criminal Legal Aid (General and Remuneration) (Amendment) Regulations 2025 (S.I. 2025/1251)](https://www.legislation.gov.uk/uksi/2025/1251), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/1251/regulation/2/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/1251/schedule/1/paragraph/1) (with [reg. 5](https://www.legislation.gov.uk/uksi/2025/1251/regulation/5))
 
-[^key-27aeb257ab9d16535acc55e34d527869]: Textual amendment: Words in Sch. 3 para. 8(1) substituted (1.4.2018) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2018 (S.I. 2018/220)](https://www.legislation.gov.uk/uksi/2018/220), [regs. 1](https://www.legislation.gov.uk/uksi/2018/220/regulation/1), [32](https://www.legislation.gov.uk/uksi/2018/220/regulation/32) (with [reg. 34](https://www.legislation.gov.uk/uksi/2018/220/regulation/34))
+[^c-27aeb257ab9d16535acc55e34d527869]: Textual amendment: Words in Sch. 3 para. 8(1) substituted (1.4.2018) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2018 (S.I. 2018/220)](https://www.legislation.gov.uk/uksi/2018/220), [regs. 1](https://www.legislation.gov.uk/uksi/2018/220/regulation/1), [32](https://www.legislation.gov.uk/uksi/2018/220/regulation/32) (with [reg. 34](https://www.legislation.gov.uk/uksi/2018/220/regulation/34))
 
-[^key-2e738db55184033f7193b0dca512d5a6]: Textual amendment: [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/uksi/2013/435/schedule/3/paragraph/9/1) table substituted (30.9.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2022 (S.I. 2022/848)](https://www.legislation.gov.uk/uksi/2022/848), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/848/regulation/3)) (as amended by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) Regulations 2022 (S.I. 2022/1010)](https://www.legislation.gov.uk/uksi/2022/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/2/3); and (31.10.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1035)](https://www.legislation.gov.uk/uksi/2022/1035), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/2/1))
+[^c-2e738db55184033f7193b0dca512d5a6]: Textual amendment: [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/uksi/2013/435/schedule/3/paragraph/9/1) table substituted (30.9.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2022 (S.I. 2022/848)](https://www.legislation.gov.uk/uksi/2022/848), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/848/regulation/3)) (as amended by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) Regulations 2022 (S.I. 2022/1010)](https://www.legislation.gov.uk/uksi/2022/1010), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1010/regulation/2/3); and (31.10.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1035)](https://www.legislation.gov.uk/uksi/2022/1035), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/2/1))
 
-[^key-8d8e0f03c2795b1dabd238b64f6cba76]: Textual amendment: [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/uksi/2013/435/schedule/3/paragraph/9/1) table substituted (30.9.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2022 (S.I. 2022/848)](https://www.legislation.gov.uk/uksi/2022/848), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/848/regulation/3)) (as amended (31.10.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1035)](https://www.legislation.gov.uk/uksi/2022/1035), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/2/1))
+[^c-8d8e0f03c2795b1dabd238b64f6cba76]: Textual amendment: [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/uksi/2013/435/schedule/3/paragraph/9/1) table substituted (30.9.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2022 (S.I. 2022/848)](https://www.legislation.gov.uk/uksi/2022/848), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2022/848/schedule/3/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/848/regulation/3)) (as amended (31.10.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1035)](https://www.legislation.gov.uk/uksi/2022/1035), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/2/1))

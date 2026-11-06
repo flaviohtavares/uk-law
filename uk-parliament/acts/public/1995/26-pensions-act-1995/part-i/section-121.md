@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Crown application.[^key-225accf0f398d7e38d6a3153ca0dc8e9][^key-295fbd3e385b62d750636777f5281624]
+## 121. Crown application.[^c-225accf0f398d7e38d6a3153ca0dc8e9][^c-295fbd3e385b62d750636777f5281624]
 
 *Extent: E+W+S*
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-225accf0f398d7e38d6a3153ca0dc8e9]: Commencement: S. 121 in force at 4.12.1995 for specified purposes and 1.1.1996 for specified purposes by [S.I. 1995/3104](https://www.legislation.gov.uk/uksi/1995/3104), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/3104/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/1995/3104/article/2/2)
+[^c-225accf0f398d7e38d6a3153ca0dc8e9]: Commencement: S. 121 in force at 4.12.1995 for specified purposes and 1.1.1996 for specified purposes by [S.I. 1995/3104](https://www.legislation.gov.uk/uksi/1995/3104), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/3104/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/1995/3104/article/2/2)
 
-[^key-295fbd3e385b62d750636777f5281624]: Commencement: S. 121 in force at 6.4.1996 in so far as not already in force by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(4)](https://www.legislation.gov.uk/uksi/1996/778/article/2/4), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/IV)
+[^c-295fbd3e385b62d750636777f5281624]: Commencement: S. 121 in force at 6.4.1996 in so far as not already in force by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(4)](https://www.legislation.gov.uk/uksi/1996/778/article/2/4), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/IV)
 
 [^c2136324]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).

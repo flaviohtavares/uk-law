@@ -112,7 +112,7 @@ There shall be excluded from the value of the assets of the Pension Protection F
 
 ## 6. The appointed actuary
 
-For the purposes of paragraph 22(4)(a) of Schedule 5 to the Act, the prescribed qualification to act as the appointed actuary is Fellowship of the Institute and Faculty of Actuaries.[^key-81f338ef713eb57bf96f39ff7586d735]
+For the purposes of paragraph 22(4)(a) of Schedule 5 to the Act, the prescribed qualification to act as the appointed actuary is Fellowship of the Institute and Faculty of Actuaries.[^c-81f338ef713eb57bf96f39ff7586d735]
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -158,4 +158,4 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1543611]: Marginal citation: The Royal Institution of Chartered Surveyors is located at RICS Contact Centre, Surveyor Court, Westwood Way, Coventry CV4 8JE.
 
-[^key-81f338ef713eb57bf96f39ff7586d735]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2006/597/regulation/6) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers – Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2012/692/regulation/14)
+[^c-81f338ef713eb57bf96f39ff7586d735]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2006/597/regulation/6) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers – Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2012/692/regulation/14)

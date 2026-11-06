@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Temporary stopping up and restriction of use of streets[^key-7f3bd77499df2c945f45cceaa8face33][^key-526691dfa1bb56b92be04c3540b26cf9]
+## 16. Temporary stopping up and restriction of use of streets[^c-7f3bd77499df2c945f45cceaa8face33][^c-526691dfa1bb56b92be04c3540b26cf9]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7f3bd77499df2c945f45cceaa8face33]: Commencement: Art. 16 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-7f3bd77499df2c945f45cceaa8face33]: Commencement: Art. 16 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-526691dfa1bb56b92be04c3540b26cf9]: Textual amendment: Words in [art. 16](https://www.legislation.gov.uk/uksi/2022/1070/article/16) heading substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)
+[^c-526691dfa1bb56b92be04c3540b26cf9]: Textual amendment: Words in [art. 16](https://www.legislation.gov.uk/uksi/2022/1070/article/16) heading substituted (31.7.2023) by [The A47/A11 Thickthorn Junction Development Consent (Correction) Order 2023 (S.I. 2023/886)](https://www.legislation.gov.uk/uksi/2023/886), [art. 1](https://www.legislation.gov.uk/uksi/2023/886/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/886/schedule)

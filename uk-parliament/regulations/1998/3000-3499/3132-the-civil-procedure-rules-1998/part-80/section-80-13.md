@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80.13. Scope of this section[^key-b0028ea3ea761f9d3071a1825db0843b]
+## 80.13. Scope of this section[^c-b0028ea3ea761f9d3071a1825db0843b]
 
 *Extent: E+W*
 
 This section applies to—
 
-- (a) TPIM proceedings or relevant proceedings[^key-0f8783ed3680cf50fede3cccf1bb4e78] in the High Court; and
+- (a) TPIM proceedings or relevant proceedings[^c-0f8783ed3680cf50fede3cccf1bb4e78] in the High Court; and
 - (b) appeals to the Court of Appeal against an order of the High Court in such proceedings.
 
 ## Annotations
 
-[^key-b0028ea3ea761f9d3071a1825db0843b]: Textual amendment: Pt. 80 inserted (15.12.2011) by [The Civil Procedure (Amendment No. 3) Rules 2011 (S.I. 2011/2970)](https://www.legislation.gov.uk/uksi/2011/2970), [rule 1](https://www.legislation.gov.uk/uksi/2011/2970/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2970/schedule)
+[^c-b0028ea3ea761f9d3071a1825db0843b]: Textual amendment: Pt. 80 inserted (15.12.2011) by [The Civil Procedure (Amendment No. 3) Rules 2011 (S.I. 2011/2970)](https://www.legislation.gov.uk/uksi/2011/2970), [rule 1](https://www.legislation.gov.uk/uksi/2011/2970/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2970/schedule)
 
-[^key-0f8783ed3680cf50fede3cccf1bb4e78]: Textual amendment: Words in rule 80.13(a) inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [18](https://www.legislation.gov.uk/uksi/2023/1397/rule/18)
+[^c-0f8783ed3680cf50fede3cccf1bb4e78]: Textual amendment: Words in rule 80.13(a) inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [18](https://www.legislation.gov.uk/uksi/2023/1397/rule/18)

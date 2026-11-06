@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265. Meaning of “initial cooling-off period” and “renewal cooling-off period”[^key-dd8ee1a65b592cba4310c4842e0d7c26]
+## 265. Meaning of “initial cooling-off period” and “renewal cooling-off period”[^c-dd8ee1a65b592cba4310c4842e0d7c26]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd8ee1a65b592cba4310c4842e0d7c26]: Commencement: S. 265 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-dd8ee1a65b592cba4310c4842e0d7c26]: Commencement: S. 265 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

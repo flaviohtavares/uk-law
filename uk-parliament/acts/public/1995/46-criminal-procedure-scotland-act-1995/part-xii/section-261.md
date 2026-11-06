@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261. Statements by co-accused[^c14474681][^key-f54be96da8f6806810acb840292009a8]
+## 261. Statements by co-accused[^c14474681][^c-f54be96da8f6806810acb840292009a8]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c14474681]: Modification: Ss. 259-261 excluded (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 3](https://www.legislation.gov.uk/ukpga/1995/40/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 3 Pt. II para. 14](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/part/II/paragraph/14)
 
-[^key-f54be96da8f6806810acb840292009a8]: Textual amendment: S. 261 title substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 109(2)](https://www.legislation.gov.uk/asp/2016/1/section/109/2), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2017/345/article/9))
+[^c-f54be96da8f6806810acb840292009a8]: Textual amendment: S. 261 title substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 109(2)](https://www.legislation.gov.uk/asp/2016/1/section/109/2), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2017/345/article/9))

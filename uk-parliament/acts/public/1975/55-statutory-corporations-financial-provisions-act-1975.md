@@ -41,9 +41,9 @@ An Act to provide further (by extending section 2 of the Statutory Corporations 
 
 ## 5. Miscellaneous provisions as to borrowing in public sector.
 
-(1 (Extent: E+W) (affected by repeal, see note))[^key-8dac103d4be3219bb192b9e1118861ea] In the case of any of the bodies corporate specified in Schedule 2 to this Act, its power to borrow money in a currency other than sterling shall not be subject to any statutory restriction as to the persons from whom, or the terms on which, it may borrow; but the power shall be exercisable only with the consent of the Secretary of State and that consent shall require the Treasury’s approval. *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dac103d4be3219bb192b9e1118861ea]
+(1 (Extent: E+W) (affected by repeal, see note))[^c-8dac103d4be3219bb192b9e1118861ea] In the case of any of the bodies corporate specified in Schedule 2 to this Act, its power to borrow money in a currency other than sterling shall not be subject to any statutory restriction as to the persons from whom, or the terms on which, it may borrow; but the power shall be exercisable only with the consent of the Secretary of State and that consent shall require the Treasury’s approval. *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dac103d4be3219bb192b9e1118861ea]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-8dac103d4be3219bb192b9e1118861ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^key-8dac103d4be3219bb192b9e1118861ea] [^c718668]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-8dac103d4be3219bb192b9e1118861ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^c-8dac103d4be3219bb192b9e1118861ea] [^c718668]
 
 ## 6. Consultative and Consumers’ Councils (electricity and gas).
 
@@ -74,7 +74,7 @@ SCHEDULES
 
 ## SCHEDULE 1 — . . .[^c718675]
 
-## SCHEDULE 2 (Extent: E+W) (affected by repeal, see note) — Bodies corporate affected by section 5 as to their Power to borrow in Currencies other than Sterling (Extent: E+W) (affected by repeal, see note)[^key-0c1dc7fde737abd599a929cb1842aa7d][^key-0c1dc7fde737abd599a929cb1842aa7d]
+## SCHEDULE 2 (Extent: E+W) (affected by repeal, see note) — Bodies corporate affected by section 5 as to their Power to borrow in Currencies other than Sterling (Extent: E+W) (affected by repeal, see note)[^c-0c1dc7fde737abd599a929cb1842aa7d][^c-0c1dc7fde737abd599a929cb1842aa7d]
 
 Section 5(1).
 
@@ -82,7 +82,7 @@ Section 5(1).
 | --- | --- |
 | . . . [^c718686] | The Housing Corporation. |
 |  | [^c718687]. . . |
-| . . . [^c718688] | . . . [^key-3d045f34b15842decfaf105cd14e7791] |
+| . . . [^c718688] | . . . [^c-3d045f34b15842decfaf105cd14e7791] |
 | . . . [^c718690] | . . . [^c718691] |
 | . . . [^c718692] | . . . [^c718693] |
 | . . . [^c718694] | . . . [^c718691] |
@@ -146,13 +146,13 @@ Section 7(1)
 
 **1.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c718714]
 
-### 2. The Coal Industry Act 1965 (c. 82)[^key-2662cfa3699b776c38b38819cf147787]
+### 2. The Coal Industry Act 1965 (c. 82)[^c-2662cfa3699b776c38b38819cf147787]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c718720]
 
-### 4. The Gas and Electricity Act 1968 (c.39).[^key-827231830ac0a461e182400fdecdd56b]
+### 4. The Gas and Electricity Act 1968 (c.39).[^c-827231830ac0a461e182400fdecdd56b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -202,7 +202,7 @@ Section 7(2)
 
 [^c718667]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1975/55/section/4) repealed by [Transport (Finance) Act 1982 (c. 6, SIF 102)](https://www.legislation.gov.uk/ukpga/1982/6), [s. 6](https://www.legislation.gov.uk/ukpga/1982/6/section/6), [Sch. Pt. I](https://www.legislation.gov.uk/ukpga/1982/6/schedule/part/I)
 
-[^key-8dac103d4be3219bb192b9e1118861ea]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1975/55/section/5) repealed (E.W.) (1.4.2009) by [Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2)
+[^c-8dac103d4be3219bb192b9e1118861ea]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1975/55/section/5) repealed (E.W.) (1.4.2009) by [Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2)
 
 [^c718668]: Textual amendment: Ss. 5(2), 6(1) repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(3)(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3/4), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 
@@ -220,7 +220,7 @@ Section 7(2)
 
 [^c718675]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1975/55/schedule/1) repealed by [Statute Law (Repeals) Act 1989 (c. 3)](https://www.legislation.gov.uk/ukpga/1989/3), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/3/section/1/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/II)
 
-[^key-0c1dc7fde737abd599a929cb1842aa7d]: Textual amendment: Sch. 2 repealed (E.W.) (1.4.2009) by [Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2)
+[^c-0c1dc7fde737abd599a929cb1842aa7d]: Textual amendment: Sch. 2 repealed (E.W.) (1.4.2009) by [Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2)
 
 [^c718686]: Textual amendment: Words repealed by [Airports Authority Act 1975 (c. 78)](https://www.legislation.gov.uk/ukpga/1975/78), [Sch. 6](https://www.legislation.gov.uk/ukpga/1975/78/schedule/6)
 
@@ -228,7 +228,7 @@ Section 7(2)
 
 [^c718688]: Textual amendment: Words repealed by [British Airways Board Act 1977 (c. 13)](https://www.legislation.gov.uk/ukpga/1977/13), [Sch. 2](https://www.legislation.gov.uk/ukpga/1977/13/schedule/2)
 
-[^key-3d045f34b15842decfaf105cd14e7791]: Textual amendment: Words repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-3d045f34b15842decfaf105cd14e7791]: Textual amendment: Words repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c718690]: Textual amendment: Words repealed by [Iron and Steel Act 1975 (c. 64)](https://www.legislation.gov.uk/ukpga/1975/64), [Sch. 7](https://www.legislation.gov.uk/ukpga/1975/64/schedule/7)
 
@@ -258,11 +258,11 @@ Section 7(2)
 
 [^c718714]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1975/55/schedule/4/paragraph/1) repealed by [Electricity (Scotland) Act 1979 (c. 11)](https://www.legislation.gov.uk/ukpga/1979/11), [s. 46](https://www.legislation.gov.uk/ukpga/1979/11/section/46), [Sch. 12](https://www.legislation.gov.uk/ukpga/1979/11/schedule/12)
 
-[^key-2662cfa3699b776c38b38819cf147787]: Textual amendment: Sch. 4 para. 2 repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-2662cfa3699b776c38b38819cf147787]: Textual amendment: Sch. 4 para. 2 repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c718720]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/1975/55/schedule/4/paragraph/3) repealed by [Iron and Steel Act 1975 (c. 64)](https://www.legislation.gov.uk/ukpga/1975/64), [Sch. 7](https://www.legislation.gov.uk/ukpga/1975/64/schedule/7)
 
-[^key-827231830ac0a461e182400fdecdd56b]: Textual amendment: Sch. 4 para. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-827231830ac0a461e182400fdecdd56b]: Textual amendment: Sch. 4 para. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c718722]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/1975/55/schedule/4/paragraph/5) repealed by [British Telecommunications Act 1981 (c. 38, SIF 96)](https://www.legislation.gov.uk/ukpga/1981/38), [s. 89](https://www.legislation.gov.uk/ukpga/1981/38/section/89), [Sch. 6 Pt. II](https://www.legislation.gov.uk/ukpga/1981/38/schedule/6/part/II)
 

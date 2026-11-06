@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11.2A. Directions about service[^key-2ca2a6d4f09fc27e5b57ca1ff476542d]
+## 11.2A. Directions about service[^c-2ca2a6d4f09fc27e5b57ca1ff476542d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ the court must give directions about the persons who are to be served or informe
 
 ## Annotations
 
-[^key-2ca2a6d4f09fc27e5b57ca1ff476542d]: Textual amendment: [Rule 11.2A](https://www.legislation.gov.uk/uksi/2010/2955/rule/11.2A) inserted (17.7.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(2)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2015/1420/rule/6)
+[^c-2ca2a6d4f09fc27e5b57ca1ff476542d]: Textual amendment: [Rule 11.2A](https://www.legislation.gov.uk/uksi/2010/2955/rule/11.2A) inserted (17.7.2015) by [The Family Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/1420)](https://www.legislation.gov.uk/uksi/2015/1420), [rules 1(2)](https://www.legislation.gov.uk/uksi/2015/1420/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2015/1420/rule/6)

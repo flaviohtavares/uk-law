@@ -23,7 +23,7 @@ summary: ''
 (1) Subject to this Part of this Act—
 
 - (a) after the termination of a protected tenancy of a dwelling-house the person who, immediately before that termination, was the protected tenant of the dwelling-house shall, if and so long as he occupies the dwelling-house as his residence, be the statutory tenant of it: and
-- (b)[^key-ff9438e9c9f5728516afeed875031ddb] Part 1 of Schedule 1 to this Act shall have effect for determining what person (if any)—
+- (b)[^c-ff9438e9c9f5728516afeed875031ddb] Part 1 of Schedule 1 to this Act shall have effect for determining what person (if any)—
   - (i) is the statutory tenant of the dwelling-house, or (as the case may be),
   - (ii) in the case of a dwelling-house in England, is entitled to an assured tenancy of a dwelling-house by succession, or
   - (iii) in the case of a dwelling-house in Wales, is entitled to a secure contract of a dwelling-house by succession,
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff9438e9c9f5728516afeed875031ddb]: Textual amendment: [S. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1977/42/section/2/1/b) substituted (18.5.2023) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2023 (S.I. 2023/550)](https://www.legislation.gov.uk/wsi/2023/550), [regs. 1](https://www.legislation.gov.uk/wsi/2023/550/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2023/550/regulation/2/2)
+[^c-ff9438e9c9f5728516afeed875031ddb]: Textual amendment: [S. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1977/42/section/2/1/b) substituted (18.5.2023) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2023 (S.I. 2023/550)](https://www.legislation.gov.uk/wsi/2023/550), [regs. 1](https://www.legislation.gov.uk/wsi/2023/550/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2023/550/regulation/2/2)
 
 [^c16034491]: Marginal citation: [1968 c. 23](https://www.legislation.gov.uk/ukpga/1968/23).

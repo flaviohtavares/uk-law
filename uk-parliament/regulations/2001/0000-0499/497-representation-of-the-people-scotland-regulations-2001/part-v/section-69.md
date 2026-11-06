@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Agents of candidates who may attend proceedings on receipt of postal ballot papers[^key-d6e32a6d60d0f673cb9a3c051e084b02][^key-d3284b77e177f5f9689217d9b63f8782]
+## 69. Agents of candidates who may attend proceedings on receipt of postal ballot papers[^c-d6e32a6d60d0f673cb9a3c051e084b02][^c-d3284b77e177f5f9689217d9b63f8782]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Notice in writing of the appointment stating the names and addresses of the persons appointed shall be given by the candidate to the returning officer before the time fixed for the opening of the postal voters' ballot box.
 
-(3)[^key-91c2f6eb0b890c3410db6a66f61f0fd5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-91c2f6eb0b890c3410db6a66f61f0fd5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If an agent dies or becomes incapable of acting, the candidate may appoint another agent in his place and shall forthwith give to the returning officer notice in writing of the name and address of the agent appointed.
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d6e32a6d60d0f673cb9a3c051e084b02]: Commencement: Reg. 69 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-d6e32a6d60d0f673cb9a3c051e084b02]: Commencement: Reg. 69 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-d3284b77e177f5f9689217d9b63f8782]: Modification: [Reg. 69](https://www.legislation.gov.uk/uksi/2001/497/regulation/69) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/23)
+[^c-d3284b77e177f5f9689217d9b63f8782]: Modification: [Reg. 69](https://www.legislation.gov.uk/uksi/2001/497/regulation/69) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/23)
 
-[^key-91c2f6eb0b890c3410db6a66f61f0fd5]: Textual amendment: [Reg. 69(3)](https://www.legislation.gov.uk/uksi/2001/497/regulation/69/3) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-91c2f6eb0b890c3410db6a66f61f0fd5]: Textual amendment: [Reg. 69(3)](https://www.legislation.gov.uk/uksi/2001/497/regulation/69/3) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

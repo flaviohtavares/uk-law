@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Financial support for trade[^key-8a5ad7680f7ab81038f32c44c4a7c014][^key-e6206c7a139f5510840ae8e349b9c049]
+## 57. Financial support for trade[^c-8a5ad7680f7ab81038f32c44c4a7c014][^c-e6206c7a139f5510840ae8e349b9c049]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a5ad7680f7ab81038f32c44c4a7c014]: Commencement: Reg. 57 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-8a5ad7680f7ab81038f32c44c4a7c014]: Commencement: Reg. 57 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-e6206c7a139f5510840ae8e349b9c049]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2019/411/regulation/57) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6206c7a139f5510840ae8e349b9c049]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2019/411/regulation/57) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

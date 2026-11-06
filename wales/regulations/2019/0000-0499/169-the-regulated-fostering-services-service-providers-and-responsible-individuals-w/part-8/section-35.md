@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Restrictions on employment[^key-d9732966186914f04973282bb589287e]
+## 35. Restrictions on employment[^c-d9732966186914f04973282bb589287e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9732966186914f04973282bb589287e]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2019/169/regulation/35) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-d9732966186914f04973282bb589287e]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2019/169/regulation/35) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

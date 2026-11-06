@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-6277400d0ea39c1d3499130ef2775ff8] An application for an authorisation order in respect of a body may be made to the Authority for—
+(A1)[^c-6277400d0ea39c1d3499130ef2775ff8] An application for an authorisation order in respect of a body may be made to the Authority for—
 
 - (a) an order declaring the body to be an open-ended investment company;
 - (b) an order declaring the body to be a money market fund.
 
-(1) Any application for an authorisation order [^key-d1f03d3039b92be36ee421d35b7d1079]...—
+(1) Any application for an authorisation order [^c-d1f03d3039b92be36ee421d35b7d1079]...—
 
 - (a) must be made in such manner as the Authority may direct;
 - (b) must state with respect to each person proposed in the application as a director of the company the particulars set out in regulation 13;
@@ -52,6 +52,6 @@ he furnishes information which he knows to be false or misleading in a material 
 
 ## Annotations
 
-[^key-6277400d0ea39c1d3499130ef2775ff8]: Textual amendment: Reg. 12(A1) inserted (28.6.2018 for specified purposes, 21.7.2018 in so far as not already in force) by [The Money Market Funds Regulations 2018 (S.I. 2018/698)](https://www.legislation.gov.uk/uksi/2018/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/698/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/698/regulation/3/3/a)
+[^c-6277400d0ea39c1d3499130ef2775ff8]: Textual amendment: Reg. 12(A1) inserted (28.6.2018 for specified purposes, 21.7.2018 in so far as not already in force) by [The Money Market Funds Regulations 2018 (S.I. 2018/698)](https://www.legislation.gov.uk/uksi/2018/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/698/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/698/regulation/3/3/a)
 
-[^key-d1f03d3039b92be36ee421d35b7d1079]: Textual amendment: Words in reg. 12(1) omitted (28.6.2018 for specified purposes, 21.7.2018 in so far as not already in force) by virtue of [The Money Market Funds Regulations 2018 (S.I. 2018/698)](https://www.legislation.gov.uk/uksi/2018/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/698/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/698/regulation/3/3/b)
+[^c-d1f03d3039b92be36ee421d35b7d1079]: Textual amendment: Words in reg. 12(1) omitted (28.6.2018 for specified purposes, 21.7.2018 in so far as not already in force) by virtue of [The Money Market Funds Regulations 2018 (S.I. 2018/698)](https://www.legislation.gov.uk/uksi/2018/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/698/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/698/regulation/3/3/b)

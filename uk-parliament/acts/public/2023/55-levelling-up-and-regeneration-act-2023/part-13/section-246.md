@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Data protection[^key-4ce6ce50109b3c4e9759dfd4a505f9d2]
+## 246. Data protection[^c-4ce6ce50109b3c4e9759dfd4a505f9d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ce6ce50109b3c4e9759dfd4a505f9d2]: Commencement: S. 246 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-4ce6ce50109b3c4e9759dfd4a505f9d2]: Commencement: S. 246 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)

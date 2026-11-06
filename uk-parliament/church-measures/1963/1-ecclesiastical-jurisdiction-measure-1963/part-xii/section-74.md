@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England.
 
-## 74. Restrictions during a period of suspension or inhibition.[^key-730b8debd0553a4ec40a1fde7b2bcea1]
+## 74. Restrictions during a period of suspension or inhibition.[^c-730b8debd0553a4ec40a1fde7b2bcea1]
 
 *Extent: E*
 
-(1) In any case in which by reason of a censure pronounced against him a person is suspended or inhibited under this Measure for a specified time[^key-d2cdefe92a5ecfd79bfcf23eefb4595d] from discharging all or any of the duties attached to any office held by him:—
+(1) In any case in which by reason of a censure pronounced against him a person is suspended or inhibited under this Measure for a specified time[^c-d2cdefe92a5ecfd79bfcf23eefb4595d] from discharging all or any of the duties attached to any office held by him:—
 
 - (a) he shall not interfere with any other person who may be appointed to discharge any of the said duties;
 - (b) subject to the provisions of the following subsection he shall not reside in or occupy any house of residence belonging to his office; and
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-730b8debd0553a4ec40a1fde7b2bcea1]: Modification: S. 74 applied (with modifications) (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [ss. 35(1)](https://www.legislation.gov.uk/ukcm/2003/3/section/35/1), [48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-730b8debd0553a4ec40a1fde7b2bcea1]: Modification: S. 74 applied (with modifications) (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [ss. 35(1)](https://www.legislation.gov.uk/ukcm/2003/3/section/35/1), [48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-d2cdefe92a5ecfd79bfcf23eefb4595d]: Textual amendment: Words in s. 74(1) inserted (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/13) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-d2cdefe92a5ecfd79bfcf23eefb4595d]: Textual amendment: Words in s. 74(1) inserted (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/13) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops

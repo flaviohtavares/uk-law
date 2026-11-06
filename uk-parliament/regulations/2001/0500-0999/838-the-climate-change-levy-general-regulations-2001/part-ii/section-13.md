@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**13.**[^key-983e9c70f356e8dd1028cdffcf0939bd] A tax credit shall only arise under regulation 10 or 11 if a claim is made by the supplier acting in accordance with regulation 14 or 15, as the case requires.
+**13.**[^c-983e9c70f356e8dd1028cdffcf0939bd] A tax credit shall only arise under regulation 10 or 11 if a claim is made by the supplier acting in accordance with regulation 14 or 15, as the case requires.
 
 ## Annotations
 
-[^key-983e9c70f356e8dd1028cdffcf0939bd]: Commencement: Reg. 13 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-983e9c70f356e8dd1028cdffcf0939bd]: Commencement: Reg. 13 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

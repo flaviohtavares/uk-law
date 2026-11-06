@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Obstruction etc. of constable or officer[^key-b41e3a6a80ed9e39169e686852f50816]
+## 104. Obstruction etc. of constable or officer[^c-b41e3a6a80ed9e39169e686852f50816]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-b41e3a6a80ed9e39169e686852f50816]: Commencement: [S. 104](https://www.legislation.gov.uk/anaw/2017/2/section/104) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)
+[^c-b41e3a6a80ed9e39169e686852f50816]: Commencement: [S. 104](https://www.legislation.gov.uk/anaw/2017/2/section/104) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)

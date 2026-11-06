@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Meaning of “enforcement authority”[^key-cd325994e83a547b3cfc8d5216141dac]
+## 37. Meaning of “enforcement authority”[^c-cd325994e83a547b3cfc8d5216141dac]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Part, the “**enforcement authority**” means—
 
 ## Annotations
 
-[^key-cd325994e83a547b3cfc8d5216141dac]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2021/9/section/37) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-cd325994e83a547b3cfc8d5216141dac]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2021/9/section/37) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

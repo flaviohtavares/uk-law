@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. The Wales procurement policy statement[^key-9516b01fef7d47f6bba162c845a7530c][^key-67b9d2c7b44601c565edefb9c379b7e7]
+## 14. The Wales procurement policy statement[^c-9516b01fef7d47f6bba162c845a7530c][^c-67b9d2c7b44601c565edefb9c379b7e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9516b01fef7d47f6bba162c845a7530c]: Commencement: S. 14 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-9516b01fef7d47f6bba162c845a7530c]: Commencement: S. 14 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-67b9d2c7b44601c565edefb9c379b7e7]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/54/section/14) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/e)
+[^c-67b9d2c7b44601c565edefb9c379b7e7]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/54/section/14) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/e)

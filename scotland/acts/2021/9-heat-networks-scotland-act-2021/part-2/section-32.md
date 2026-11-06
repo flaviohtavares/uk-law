@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Compensation on modification or revocation of heat network consent[^key-559463413d8369e28984e14bbb211947]
+## 32. Compensation on modification or revocation of heat network consent[^c-559463413d8369e28984e14bbb211947]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-559463413d8369e28984e14bbb211947]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2021/9/section/32) in force at 16.1.2023 by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-559463413d8369e28984e14bbb211947]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2021/9/section/32) in force at 16.1.2023 by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

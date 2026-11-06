@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Financial services and funds relating to military goods and military technology[^key-4edb0c7f7ad20d5b76e53e039f3ab377][^key-8fef06d42995431d3461c5a9917e5cff]
+## 26. Financial services and funds relating to military goods and military technology[^c-4edb0c7f7ad20d5b76e53e039f3ab377][^c-8fef06d42995431d3461c5a9917e5cff]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4edb0c7f7ad20d5b76e53e039f3ab377]: Commencement: Reg. 26 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-4edb0c7f7ad20d5b76e53e039f3ab377]: Commencement: Reg. 26 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-8fef06d42995431d3461c5a9917e5cff]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2019/433/regulation/26) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8fef06d42995431d3461c5a9917e5cff]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2019/433/regulation/26) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

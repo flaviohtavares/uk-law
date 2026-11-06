@@ -41,13 +41,13 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 68(2)(e), 75(1)(b), (5) and (10), 75A(1) to (8), 115(1)(a) and (b), 116, 122(3) and 166(2) and (3) of the Pensions (Northern Ireland) Order 1995[^f00001], and now vested in it[^f00002], and Articles 2(5)(a), 64(2)(a) and (3)(a), 88(2)(q), 110(5), 211, 280(1)(b) and 287(1) to (3) of, and paragraph 2(d) of Schedule 1 to, the Pensions (Northern Ireland) Order 2005[^f00003].
 
-## 1. Citation and interpretation[^key-eb2849e46cc246ad0a752c7327ac1319]
+## 1. Citation and interpretation[^c-eb2849e46cc246ad0a752c7327ac1319]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008.
 
 (2) In these Regulations “the Employer Debt Regulations” means the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005[^f00004].
 
-## 2. Commencement and transitional provisions[^key-8209268bfb35d36952d91b9198f01de8]
+## 2. Commencement and transitional provisions[^c-8209268bfb35d36952d91b9198f01de8]
 
 (1) Subject to the transitional provisions in paragraphs (3) to (8), these Regulations shall come into operation on 6th April 2008 (“the commencement date”).
 
@@ -95,7 +95,7 @@ The Department for Social Development makes the following Regulations in exercis
 - (a) any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 1995 bearing that number;
 - (b) references to the old Regulations are to the Employer Debt Regulations as they existed before the commencement date.
 
-## 3. Application of the Employer Debt Regulations[^key-1bf480cf7935faee3e84d856f27a0a04]
+## 3. Application of the Employer Debt Regulations[^c-1bf480cf7935faee3e84d856f27a0a04]
 
 In regulation 1(2) of the Employer Debt Regulations (application) for sub-paragraph (a) substitute—
 
@@ -103,7 +103,7 @@ In regulation 1(2) of the Employer Debt Regulations (application) for sub-paragr
 
 .
 
-## 4. Interpretation of the Employer Debt Regulations[^key-a02ff7250c815d045aa2957895659296]
+## 4. Interpretation of the Employer Debt Regulations[^c-a02ff7250c815d045aa2957895659296]
 
 (1) Regulation 2 of the Employer Debt Regulations (interpretation) shall be amended in accordance with paragraphs (2) to (5).
 
@@ -222,7 +222,7 @@ In regulation 1(2) of the Employer Debt Regulations (application) for sub-paragr
 
   .
 
-(3)[^key-129397ba48aeec4e48458e66cbf2e166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-129397ba48aeec4e48458e66cbf2e166] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Omit paragraph (4) and insert—
 
@@ -251,7 +251,7 @@ In regulation 1(2) of the Employer Debt Regulations (application) for sub-paragr
 
 .
 
-## 5. Valuation of assets and liabilities[^key-2d5155522abd70c76e8ca36bbd9b8184]
+## 5. Valuation of assets and liabilities[^c-2d5155522abd70c76e8ca36bbd9b8184]
 
 For regulation 5[^f00011] of the Employer Debt Regulations (calculation of the value of scheme liabilities and assets: defined benefit schemes) substitute—
 
@@ -339,7 +339,7 @@ For regulation 5[^f00011] of the Employer Debt Regulations (calculation of the v
 
 .
 
-## 6. Multi-employer schemes: general[^key-c44c0c567632c1f4972a6c92882e8d09]
+## 6. Multi-employer schemes: general[^c-c44c0c567632c1f4972a6c92882e8d09]
 
 In regulation 6 of the Employer Debt Regulations (multi-employer schemes: general) for paragraphs (2) to (5) substitute—
 
@@ -381,7 +381,7 @@ In regulation 6 of the Employer Debt Regulations (multi-employer schemes: genera
 
 .
 
-## 7. Employment-cessation events, scheme apportionment arrangements, withdrawal arrangements and notifiable events[^key-9499e8c4d284f889993ea1d89af818a1]
+## 7. Employment-cessation events, scheme apportionment arrangements, withdrawal arrangements and notifiable events[^c-9499e8c4d284f889993ea1d89af818a1]
 
 After regulation 6 of the Employer Debt Regulations insert—
 
@@ -438,7 +438,7 @@ After regulation 6 of the Employer Debt Regulations insert—
 
 .
 
-## 8. Approved withdrawal arrangements and regulated apportionment arrangements[^key-ec8daceda3ee3a9467a5e5c87ca3a528]
+## 8. Approved withdrawal arrangements and regulated apportionment arrangements[^c-ec8daceda3ee3a9467a5e5c87ca3a528]
 
 For regulations 7[^f00015] (multi-employer schemes: employment-cessation events and withdrawal arrangements), 7A (calculation of amounts due from cessation employer by virtue of regulation 7) and 7B (calculation of amounts due from guarantors by virtue of regulation 7) of the Employer Debt Regulations substitute—
 
@@ -507,7 +507,7 @@ For regulations 7[^f00015] (multi-employer schemes: employment-cessation events 
 
 .
 
-## 9. Single employer sections, multi-employer sections, etc.[^key-92b7ba52a3d10cd6eb9ba39f0cd713d8]
+## 9. Single employer sections, multi-employer sections, etc.[^c-92b7ba52a3d10cd6eb9ba39f0cd713d8]
 
 For regulation 8 (multi-employer schemes: sectionalised schemes) of the Employer Debt Regulations substitute—
 
@@ -537,7 +537,7 @@ For regulation 8 (multi-employer schemes: sectionalised schemes) of the Employer
 
 .
 
-## 10. Former employers[^key-d126a9b571a61311385dd8b4d470e399]
+## 10. Former employers[^c-d126a9b571a61311385dd8b4d470e399]
 
 For regulation 9 of the Employer Debt Regulations (former employers) substitute—
 
@@ -590,7 +590,7 @@ For regulation 9 of the Employer Debt Regulations (former employers) substitute�
 
 .
 
-## 11. Multi-employer money purchase schemes[^key-ab715dbe15a95b83c72759e8c4204457]
+## 11. Multi-employer money purchase schemes[^c-ab715dbe15a95b83c72759e8c4204457]
 
 (1) In regulation 11(1) of the Employer Debt Regulations (money purchase schemes: valuations etc.) for “regulations 5 and 7” substitute “regulation 5”.
 
@@ -603,19 +603,19 @@ For regulation 9 of the Employer Debt Regulations (former employers) substitute�
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Form of actuary’s certificate[^key-a962a368f6ab952ad22bc0559a865078]
+## 13. Form of actuary’s certificate[^c-a962a368f6ab952ad22bc0559a865078]
 
 For Schedule 1[^f00019] to the Employer Debt Regulations (form of actuary’s certificate) substitute the Schedule set out in Schedule 1 to these Regulations.
 
-## 14. Withdrawal arrangements and approved withdrawal arrangements[^key-f227a815545d4c58459055b380789b8d]
+## 14. Withdrawal arrangements and approved withdrawal arrangements[^c-f227a815545d4c58459055b380789b8d]
 
 For Schedule 1A[^f00020] to the Employer Debt Regulations (multi-employer schemes: employer-cessation events and approved withdrawal arrangements) substitute the Schedule set out in Schedule 2 to these Regulations.
 
-## 15. Notifiable events, form of actuary’s certificate etc.[^key-668a7bf9d433aef6c720b7b5251ec9f5]
+## 15. Notifiable events, form of actuary’s certificate etc.[^c-668a7bf9d433aef6c720b7b5251ec9f5]
 
 For Schedule 1B[^f00021] to the Employer Debt Regulations (form of actuary’s certificate: scheme funding basis debts in approved withdrawal arrangement cases) substitute the Schedules set out in Schedule 3 to these Regulations.
 
-## 16. The Pensions Regulator’s functions under the Employer Debt Regulations[^key-aa03e2479a3ed045123b9ff38758d3ac]
+## 16. The Pensions Regulator’s functions under the Employer Debt Regulations[^c-aa03e2479a3ed045123b9ff38758d3ac]
 
 (1) The following functions under the Employer Debt Regulations are regulatory functions of the Pensions Regulator for the purposes of Part II of the Pensions (Northern Ireland) Order 2005[^f00022]—
 
@@ -628,14 +628,14 @@ For Schedule 1B[^f00021] to the Employer Debt Regulations (form of actuary’s c
 
 (2) The Pensions Regulator may, if it thinks fit, delegate the functions specified in paragraph (1) to the Determinations Panel.
 
-## 17. Amendment of the Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations[^key-204801b6319e935b0d95753d27a14724]
+## 17. Amendment of the Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations[^c-204801b6319e935b0d95753d27a14724]
 
 In the Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations (Northern Ireland) 2005[^f00023]—
 
 - (a) in regulation 15(3)[^f00024] (segregated schemes: notification of insolvency events, confirmation of scheme status etc.) omit sub-paragraph (a);
 - (b) in regulation 62(3)[^f00025] (non-segregated schemes: notification of insolvency events, confirmation of scheme status etc.) omit sub-paragraph (a).
 
-## 18. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^key-00708e178c26e5be7a824d7f1534a879]
+## 18. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^c-00708e178c26e5be7a824d7f1534a879]
 
 In regulation 2 of the Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005[^f00026] (schemes which are not eligible schemes) for paragraph (4) substitute—
 
@@ -648,7 +648,7 @@ In regulation 2 of the Pension Protection Fund (Entry Rules) Regulations (Northe
 
 .
 
-## 19. Amendment of the Pensions Regulator (Financial Support Directions, etc.) Regulations[^key-da5c8d705054000b393fca139dc1efe2]
+## 19. Amendment of the Pensions Regulator (Financial Support Directions, etc.) Regulations[^c-da5c8d705054000b393fca139dc1efe2]
 
 In regulation 15(2) of the Pensions Regulator (Financial Support Directions, etc.) Regulations (Northern Ireland) 2005[^f00028] (former employers)—
 
@@ -666,7 +666,7 @@ In regulation 15(2) of the Pensions Regulator (Financial Support Directions, etc
 
   .
 
-## 20. Amendment of the Occupational Pension Schemes (Scheme Funding) Regulations[^key-cea06fb9ff3354380c01e2c7f8083d49]
+## 20. Amendment of the Occupational Pension Schemes (Scheme Funding) Regulations[^c-cea06fb9ff3354380c01e2c7f8083d49]
 
 In Schedule 2 to the Occupational Pension Schemes (Scheme Funding) Regulations (Northern Ireland) 2005[^f00030] (frozen or paid-up schemes) for paragraph 3 substitute—
 
@@ -676,7 +676,7 @@ In Schedule 2 to the Occupational Pension Schemes (Scheme Funding) Regulations (
 
 .
 
-## 21. Revocations[^key-396ecfdd32eb32fea6a8c2ef501fa040]
+## 21. Revocations[^c-396ecfdd32eb32fea6a8c2ef501fa040]
 
 The following provisions are revoked—
 
@@ -691,7 +691,7 @@ John O’Neill
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE 1 — Schedule to be substituted for Schedule 1 to the Employer Debt Regulations[^key-a30e3c6aa7b801e7300fb2fb37d37628]
+## SCHEDULE 1 — Schedule to be substituted for Schedule 1 to the Employer Debt Regulations[^c-a30e3c6aa7b801e7300fb2fb37d37628]
 
 Regulation 13
 
@@ -701,7 +701,7 @@ Regulation 13
 >
 > [image: see source](https://www.legislation.gov.uk/nisr/2008/132/images/nisr_20080132_en_001) [image: see source](https://www.legislation.gov.uk/nisr/2008/132/images/nisr_20080132_en_002)
 
-## SCHEDULE 2 — Schedule to be substituted for Schedule 1A to the Employer Debt Regulations[^key-44d720ee3fff83a2a74dbb9335675af0]
+## SCHEDULE 2 — Schedule to be substituted for Schedule 1A to the Employer Debt Regulations[^c-44d720ee3fff83a2a74dbb9335675af0]
 
 Regulation 14
 
@@ -813,7 +813,7 @@ Regulation 14
 >
 > Where a withdrawal arrangement is replaced with an amended withdrawal arrangement or an amended approved withdrawal arrangement, paragraph 1, regulation 6B and regulation 7 shall apply to the amended withdrawal arrangement or amended approved withdrawal arrangement as they applied to the original arrangement.
 
-## SCHEDULE 3 — Schedules to be substituted for Schedule 1B to the Employer Debt Regulations[^key-afc221d08279676139649da7cceb9b9d]
+## SCHEDULE 3 — Schedules to be substituted for Schedule 1B to the Employer Debt Regulations[^c-afc221d08279676139649da7cceb9b9d]
 
 Regulation 15
 
@@ -919,11 +919,11 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00003]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-eb2849e46cc246ad0a752c7327ac1319]: Commencement: Reg. 1 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-eb2849e46cc246ad0a752c7327ac1319]: Commencement: Reg. 1 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00004]: Footnote: [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168); relevant amending Regulations are [S.R. 2005 No. 387](https://www.legislation.gov.uk/nisr/2005/387) and [S.R. 2007 No. 64](https://www.legislation.gov.uk/nisr/2007/64)
 
-[^key-8209268bfb35d36952d91b9198f01de8]: Commencement: Reg. 2 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-8209268bfb35d36952d91b9198f01de8]: Commencement: Reg. 2 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^M_F_1e40919e-de03-4348-a800-ef6c493ba96d]: Textual amendment: Words in reg. 2(3)(a) substituted (6.4.2010) by[The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/111)](https://editorial.legislation.gov.uk/nisr/2010/111/contents), [regs. 1(1)](https://editorial.legislation.gov.uk/nisr/2010/111/regulation/1), [24(a)(i)](https://editorial.legislation.gov.uk/nisr/2010/111/regulation/24)
 
@@ -933,9 +933,9 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^M_F_a70b9540-f87d-43c3-b48f-88a4240668d0]: Textual amendment: Reg. 2(4A) inserted (6.4.2010) by[The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/111)](https://editorial.legislation.gov.uk/nisr/2010/111/contents), [regs. 1(1)](https://editorial.legislation.gov.uk/nisr/2010/111/regulation/1), [24(c)](https://editorial.legislation.gov.uk/nisr/2010/111/regulation/24)
 
-[^key-1bf480cf7935faee3e84d856f27a0a04]: Commencement: Reg. 3 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-1bf480cf7935faee3e84d856f27a0a04]: Commencement: Reg. 3 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
-[^key-a02ff7250c815d045aa2957895659296]: Commencement: Reg. 4 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-a02ff7250c815d045aa2957895659296]: Commencement: Reg. 4 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00005]: Footnote: The definition of “the Board for Actuarial Standards” was inserted by paragraph 14(a)(i) of the Schedule to [S.R. 2007 No. 64](https://www.legislation.gov.uk/nisr/2007/64)
 
@@ -945,11 +945,11 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00008]: Footnote: The definition of ““withdrawal arrangement” and “approved withdrawal arrangement”” was added by regulation 2(2) of [S.R. 2005 No. 387](https://www.legislation.gov.uk/nisr/2005/387)
 
-[^key-129397ba48aeec4e48458e66cbf2e166]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2008/132/regulation/4/3) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/b)
+[^c-129397ba48aeec4e48458e66cbf2e166]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2008/132/regulation/4/3) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/b)
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2d5155522abd70c76e8ca36bbd9b8184]: Commencement: Reg. 5 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-2d5155522abd70c76e8ca36bbd9b8184]: Commencement: Reg. 5 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00011]: Footnote: Regulation 5 was amended by regulation 2(4) of [S.R. 2005 No. 387](https://www.legislation.gov.uk/nisr/2005/387)
 
@@ -957,19 +957,19 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00013]: Footnote: Article 74(3)(c) was amended by Article 60 of [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555)
 
-[^key-c44c0c567632c1f4972a6c92882e8d09]: Commencement: Reg. 6 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-c44c0c567632c1f4972a6c92882e8d09]: Commencement: Reg. 6 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
-[^key-9499e8c4d284f889993ea1d89af818a1]: Commencement: Reg. 7 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-9499e8c4d284f889993ea1d89af818a1]: Commencement: Reg. 7 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00014]: Footnote: Article 75 was amended by Article 248 of the Pensions (Northern Ireland) Order 2005 and is modified by [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168)
 
-[^key-ec8daceda3ee3a9467a5e5c87ca3a528]: Commencement: Reg. 8 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-ec8daceda3ee3a9467a5e5c87ca3a528]: Commencement: Reg. 8 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00015]: Footnote: Regulation 7 was substituted with regulations 7, 7A and 7B by regulation 2(5) of [S.R. 2005 No. 387](https://www.legislation.gov.uk/nisr/2005/387)
 
-[^key-92b7ba52a3d10cd6eb9ba39f0cd713d8]: Commencement: Reg. 9 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-92b7ba52a3d10cd6eb9ba39f0cd713d8]: Commencement: Reg. 9 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
-[^key-d126a9b571a61311385dd8b4d470e399]: Commencement: Reg. 10 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-d126a9b571a61311385dd8b4d470e399]: Commencement: Reg. 10 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00016]: Footnote: Article 75 was amended by Article 248 of the Pensions (Northern Ireland) Order 2005 and is modified by [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168)
 
@@ -977,27 +977,27 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00018]: Footnote: *See* the event described in Article 75(3)(b)(i) of the Pensions (Northern Ireland) Order 1995 as modified by regulation 4(3) of [S.R. 1996 No. 585](https://www.legislation.gov.uk/nisr/1996/585)
 
-[^key-ab715dbe15a95b83c72759e8c4204457]: Commencement: Reg. 11 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-ab715dbe15a95b83c72759e8c4204457]: Commencement: Reg. 11 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^M_F_692db9d8-5fa3-4d8c-b073-2bd24a48c24f]: Textual amendment: Reg. 12 revoked (6/4/2010) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/111)](https://editorial.legislation.gov.uk/nisr/2010/111/contents), [regs. 1(1)](https://editorial.legislation.gov.uk/nisr/2010/111/regulation/1), [25](https://editorial.legislation.gov.uk/nisr/2010/111/regulation/25)
 
-[^key-a962a368f6ab952ad22bc0559a865078]: Commencement: Reg. 13 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-a962a368f6ab952ad22bc0559a865078]: Commencement: Reg. 13 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00019]: Footnote: Schedule 1 was amended by paragraph 14(b) of the Schedule to [S.R. 2007 No. 64](https://www.legislation.gov.uk/nisr/2007/64)
 
-[^key-f227a815545d4c58459055b380789b8d]: Commencement: Reg. 14 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-f227a815545d4c58459055b380789b8d]: Commencement: Reg. 14 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00020]: Footnote: Schedule 1A was inserted by regulation 2(8) of [S.R. 2005 No. 387](https://www.legislation.gov.uk/nisr/2005/387)
 
-[^key-668a7bf9d433aef6c720b7b5251ec9f5]: Commencement: Reg. 15 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-668a7bf9d433aef6c720b7b5251ec9f5]: Commencement: Reg. 15 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00021]: Footnote: Schedule 1B was inserted by regulation 2(8) of [S.R. 2005 No. 387](https://www.legislation.gov.uk/nisr/2005/387) and amended by paragraph 14(b) of the Schedule to [S.R. 2007 No. 64](https://www.legislation.gov.uk/nisr/2007/64)
 
-[^key-aa03e2479a3ed045123b9ff38758d3ac]: Commencement: Reg. 16 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-aa03e2479a3ed045123b9ff38758d3ac]: Commencement: Reg. 16 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00022]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-204801b6319e935b0d95753d27a14724]: Commencement: Reg. 17 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-204801b6319e935b0d95753d27a14724]: Commencement: Reg. 17 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00023]: Footnote: [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91); relevant amending Regulations are [S.R. 2005 No. 357](https://www.legislation.gov.uk/nisr/2005/357)
 
@@ -1005,13 +1005,13 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00025]: Footnote: Regulation 62 was substituted by regulation 3(4) of [S.R. 2005 No. 357](https://www.legislation.gov.uk/nisr/2005/357)
 
-[^key-00708e178c26e5be7a824d7f1534a879]: Commencement: Reg. 18 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-00708e178c26e5be7a824d7f1534a879]: Commencement: Reg. 18 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00026]: Footnote: [S.R. 2005 No. 126](https://www.legislation.gov.uk/nisr/2005/126); relevant amending Regulations are [S.R. 2005 No. 364](https://www.legislation.gov.uk/nisr/2005/364)
 
 [^f00027]: Footnote: [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168)
 
-[^key-da5c8d705054000b393fca139dc1efe2]: Commencement: Reg. 19 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-da5c8d705054000b393fca139dc1efe2]: Commencement: Reg. 19 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00028]: Footnote: [S.R. 2005 No. 378](https://www.legislation.gov.uk/nisr/2005/378); regulation 15(2) was amended by regulation 6(a) of [S.R. 2005 No. 387](https://www.legislation.gov.uk/nisr/2005/387)
 
@@ -1019,23 +1019,23 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00029]: Footnote: Sub-paragraph (aa) was inserted by regulation 6(b) of [S.R. 2005 No. 387](https://www.legislation.gov.uk/nisr/2005/387)
 
-[^key-cea06fb9ff3354380c01e2c7f8083d49]: Commencement: Reg. 20 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-cea06fb9ff3354380c01e2c7f8083d49]: Commencement: Reg. 20 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00030]: Footnote: [S.R. 2005 No. 568](https://www.legislation.gov.uk/nisr/2005/568)
 
-[^key-396ecfdd32eb32fea6a8c2ef501fa040]: Commencement: Reg. 21 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-396ecfdd32eb32fea6a8c2ef501fa040]: Commencement: Reg. 21 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00031]: Footnote: [S.R. 2005 No. 387](https://www.legislation.gov.uk/nisr/2005/387)
 
 [^f00032]: Footnote: [S.R. 2007 No. 64](https://www.legislation.gov.uk/nisr/2007/64)
 
-[^key-a30e3c6aa7b801e7300fb2fb37d37628]: Commencement: Sch. 1 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-a30e3c6aa7b801e7300fb2fb37d37628]: Commencement: Sch. 1 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
-[^key-44d720ee3fff83a2a74dbb9335675af0]: Commencement: Sch. 2 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-44d720ee3fff83a2a74dbb9335675af0]: Commencement: Sch. 2 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00033]: Footnote: [S.R. 2005 No. 131](https://www.legislation.gov.uk/nisr/2005/131); relevant amending Regulations are [S.R. 2006 No. 155](https://www.legislation.gov.uk/nisr/2006/155) and [2007 No. 193](https://www.legislation.gov.uk/nisr/2007/193)
 
-[^key-afc221d08279676139649da7cceb9b9d]: Commencement: Sch. 3 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
+[^c-afc221d08279676139649da7cceb9b9d]: Commencement: Sch. 3 in operation at 6.4.2008, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1)
 
 [^f00034]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); Article 178 was modified by Schedule 15 to the Building Societies Act [1986 (c.53)](https://www.legislation.gov.uk/ukpga/1986/53) as amended by Article 381 of, and Part II of Schedule 9 to, the Insolvency (Northern Ireland) Order 1989 and by section 23 of, and Schedule 10 to, the Friendly Societies Act [1992 (c.40)](https://www.legislation.gov.uk/ukpga/1992/40). Regulation 5 of [S.R. 2004 No. 307](https://www.legislation.gov.uk/nisr/2004/307) applies Article 178 to limited liability partnerships with modifications including that references to a company include references to such partnerships and references to a director include references to a member (*see* regulation 5(2)(a) and (b))
 

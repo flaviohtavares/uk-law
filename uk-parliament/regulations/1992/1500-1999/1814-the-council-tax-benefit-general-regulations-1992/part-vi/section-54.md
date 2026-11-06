@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Alternative maximum council tax benefit[^key-a4bf2db03d85ec39140976d53ee9e6f1]
+## 54. Alternative maximum council tax benefit[^c-a4bf2db03d85ec39140976d53ee9e6f1]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4bf2db03d85ec39140976d53ee9e6f1]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1992/1814/regulation/54) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-a4bf2db03d85ec39140976d53ee9e6f1]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1992/1814/regulation/54) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

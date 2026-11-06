@@ -41,11 +41,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by section 22(1) and (2) of the Petroleum Act 1987[^f00001] (hereinafter referred to as “the Act”) and of all other powers enabling him in that behalf, and for the purpose of giving effect to proposals submitted to him by the Health and Safety Commission under section 24(2A) of the Act, hereby makes the following order:
 
-## 1. Citation and commencement[^key-11225ed45603287c6bf1295b71b2fe98]
+## 1. Citation and commencement[^c-11225ed45603287c6bf1295b71b2fe98]
 
 This order may be cited as the Offshore Installations (Safety Zones) (No. 2) Order 2004 and shall come into force on 3rd June 2004.
 
-## 2. Establishment of safety zones[^key-1ec873d9ee7bd6f71734708be8492b33]
+## 2. Establishment of safety zones[^c-1ec873d9ee7bd6f71734708be8492b33]
 
 A safety zone is hereby established around each installation specified in column 1 of the Schedule hereto (being an installation stationed in waters to which subsection (7) of section 21 of the Act applies) having a radius of five hundred metres from the point as respects that installation which has the co-ordinates of latitude and longitude according to European Datum (1950) specified in columns 2 and 3 of the Schedule.
 
@@ -57,7 +57,7 @@ Department for Work and Pensions
 
 20th May 2004
 
-## SCHEDULE — SAFETY ZONES[^key-eee12d9a12f6649b0399ae30b2cb5469]
+## SCHEDULE — SAFETY ZONES[^c-eee12d9a12f6649b0399ae30b2cb5469]
 
 Article 2
 
@@ -72,7 +72,7 @@ Article 2
 </tbody>
 </table>
 
-[^key-affed63e517bf15ddf675e88437a8551]
+[^c-affed63e517bf15ddf675e88437a8551]
 
 (This note is not part of the order)
 
@@ -84,10 +84,10 @@ Vessels, which for this purpose include hovercraft, submersible apparatus and in
 
 [^f00001]: Footnote: [1987 c. 12](https://www.legislation.gov.uk/ukpga/1987/12); section 24(2A) was inserted by S.I. [1993/1823](https://www.legislation.gov.uk/uksi/1993/1823).
 
-[^key-11225ed45603287c6bf1295b71b2fe98]: Commencement: Art. 1 in force at 3.6.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1409/article/1)
+[^c-11225ed45603287c6bf1295b71b2fe98]: Commencement: Art. 1 in force at 3.6.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1409/article/1)
 
-[^key-1ec873d9ee7bd6f71734708be8492b33]: Commencement: Art. 2 in force at 3.6.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1409/article/1)
+[^c-1ec873d9ee7bd6f71734708be8492b33]: Commencement: Art. 2 in force at 3.6.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1409/article/1)
 
-[^key-eee12d9a12f6649b0399ae30b2cb5469]: Commencement: Sch. in force at 3.6.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1409/article/1)
+[^c-eee12d9a12f6649b0399ae30b2cb5469]: Commencement: Sch. in force at 3.6.2004, see [art. 1](https://www.legislation.gov.uk/uksi/2004/1409/article/1)
 
-[^key-affed63e517bf15ddf675e88437a8551]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2004/1409/schedule) substituted (21.7.2004) by [The Offshore Installations (Safety Zones) (No. 3) Order 2004 (S.I. 2004/1746)](https://www.legislation.gov.uk/uksi/2004/1746), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1746/article/1), [3](https://www.legislation.gov.uk/uksi/2004/1746/article/3)
+[^c-affed63e517bf15ddf675e88437a8551]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2004/1409/schedule) substituted (21.7.2004) by [The Offshore Installations (Safety Zones) (No. 3) Order 2004 (S.I. 2004/1746)](https://www.legislation.gov.uk/uksi/2004/1746), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1746/article/1), [3](https://www.legislation.gov.uk/uksi/2004/1746/article/3)

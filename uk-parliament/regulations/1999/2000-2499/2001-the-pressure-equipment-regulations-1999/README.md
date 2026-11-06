@@ -52,7 +52,7 @@ remaining regulations
 
 ## Contents
 
-### PART I — PRELIMINARY[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### PART I — PRELIMINARY[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ remaining regulations
 - [Section 1 — Citation and commencement](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 
-### PART II — APPLICATION[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### PART II — APPLICATION[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,7 +72,7 @@ remaining regulations
 - [Section 5 — Pressure equipment and assemblies placed on the market before 29th November 1999](part-ii/section-5.md)
 - [Section 6 — Exclusion until 30th May 2002 of pressure equipment and assemblies complying with provisions in force on 28th November 1999](part-ii/section-6.md)
 
-### PART III — GENERAL REQUIREMENTS[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### PART III — GENERAL REQUIREMENTS[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,7 +96,7 @@ remaining regulations
 - [Section 22 — User inspectorates](part-iii/section-22.md)
 - [Section 23 — Conditions for pressure equipment and assemblies being taken to conform with the provisions of these Regulations](part-iii/section-23.md)
 
-### PART IV — ENFORCEMENT[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]
+### PART IV — ENFORCEMENT[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,14 +122,14 @@ remaining regulations
 
 **No longer in force.**
 
-[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
-[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^M_F_caeae2cc-f086-4ee4-abfa-32dfc8712174]: Textual amendment: Regulations revoked (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [90(1)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/1) (with [regs. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88), [90(2)(2A)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/2/2A) (as substituted ([31](https://www.legislation.gov.uk/uksi/2016/1105/regulation/31).[12](https://www.legislation.gov.uk/uksi/2016/1105/regulation/12).[2020](https://www.legislation.gov.uk/uksi/2016/1105/regulation/2020)) by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 42](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/42) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-7ac0b5d8f0bbb2379414454dec7cbe6e]: Textual amendment: Regulations revoked (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [90(1)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/1) (with [regs. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88), [90(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/2))
+[^c-7ac0b5d8f0bbb2379414454dec7cbe6e]: Textual amendment: Regulations revoked (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [90(1)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/1) (with [regs. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88), [90(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/90/2))

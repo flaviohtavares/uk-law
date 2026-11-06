@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Further amendment of Regulation [(EC) No 549/2004](https://www.legislation.gov.uk/eur/2004/549)[^key-acd261f234b6084a2affc03633483217]
+## 18. Further amendment of Regulation [(EC) No 549/2004](https://www.legislation.gov.uk/eur/2004/549)[^c-acd261f234b6084a2affc03633483217]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 14 omit the sentence which begins “This Regulation shall be bind
 
 ## Annotations
 
-[^key-acd261f234b6084a2affc03633483217]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-acd261f234b6084a2affc03633483217]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

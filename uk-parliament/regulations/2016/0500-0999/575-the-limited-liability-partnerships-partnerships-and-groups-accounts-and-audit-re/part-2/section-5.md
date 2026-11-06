@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. LLPs subject to the small LLPs regime[^key-464ac8f86a9962ff7fd45c08a4fcd943]
+## 5. LLPs subject to the small LLPs regime[^c-464ac8f86a9962ff7fd45c08a4fcd943]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-464ac8f86a9962ff7fd45c08a4fcd943]: Commencement: Reg. 5 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-464ac8f86a9962ff7fd45c08a4fcd943]: Commencement: Reg. 5 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

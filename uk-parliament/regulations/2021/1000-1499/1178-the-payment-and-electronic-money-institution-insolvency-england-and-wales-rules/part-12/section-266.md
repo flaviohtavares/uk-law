@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 266. Contents of notices to be gazetted[^key-8a3e20690fd966a64fb80756766e6160]
+## 266. Contents of notices to be gazetted[^c-8a3e20690fd966a64fb80756766e6160]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a3e20690fd966a64fb80756766e6160]: Commencement: Rule 266 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-8a3e20690fd966a64fb80756766e6160]: Commencement: Rule 266 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

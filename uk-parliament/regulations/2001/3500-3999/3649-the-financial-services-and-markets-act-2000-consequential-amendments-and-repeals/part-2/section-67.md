@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Application of Article 669 to insurers[^key-a481df56153d7ba899c584dbd8456195]
+## 67. Application of Article 669 to insurers[^c-a481df56153d7ba899c584dbd8456195]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a481df56153d7ba899c584dbd8456195]: Commencement: Art. 67 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a481df56153d7ba899c584dbd8456195]: Commencement: Art. 67 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

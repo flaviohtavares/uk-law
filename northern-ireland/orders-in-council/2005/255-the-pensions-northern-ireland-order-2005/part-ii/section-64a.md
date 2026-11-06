@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64A. Duty to give notices and statements to the Regulator in respect of certain events[^key-7331de6b15f387d7092a4c7ed6d976c6]
+## 64A. Duty to give notices and statements to the Regulator in respect of certain events[^c-7331de6b15f387d7092a4c7ed6d976c6]
 
 *Extent: N.I.*
 
@@ -81,4 +81,4 @@ This is subject to Article 283 (protected items).
 
 ## Annotations
 
-[^key-7331de6b15f387d7092a4c7ed6d976c6]: Textual amendment: [Art. 64A](https://www.legislation.gov.uk/nisi/2005/255/article/64A) inserted (1.9.2021 for specified purposes) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/8/1); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/d)
+[^c-7331de6b15f387d7092a4c7ed6d976c6]: Textual amendment: [Art. 64A](https://www.legislation.gov.uk/nisi/2005/255/article/64A) inserted (1.9.2021 for specified purposes) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/8/1); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/d)

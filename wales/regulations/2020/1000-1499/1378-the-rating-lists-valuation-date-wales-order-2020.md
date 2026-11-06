@@ -31,7 +31,7 @@ summary: ''
 
 Rating And Valuation, Wales
 
-The Rating Lists (Valuation Date) (Wales) Order 2020 (revoked)[^key-9bfa02608ae13b83330251cc9a9e8822]
+The Rating Lists (Valuation Date) (Wales) Order 2020 (revoked)[^c-9bfa02608ae13b83330251cc9a9e8822]
 
 Made
 
@@ -45,26 +45,26 @@ Coming into force
 
 23 December 2020
 
-[^key-9bfa02608ae13b83330251cc9a9e8822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bfa02608ae13b83330251cc9a9e8822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-9bfa02608ae13b83330251cc9a9e8822]
+## 1. Title and commencement[^c-9bfa02608ae13b83330251cc9a9e8822]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Valuation date[^key-9bfa02608ae13b83330251cc9a9e8822]
+## 2. Valuation date[^c-9bfa02608ae13b83330251cc9a9e8822]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-9bfa02608ae13b83330251cc9a9e8822]
+## 3. Revocation[^c-9bfa02608ae13b83330251cc9a9e8822]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9bfa02608ae13b83330251cc9a9e8822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bfa02608ae13b83330251cc9a9e8822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9bfa02608ae13b83330251cc9a9e8822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9bfa02608ae13b83330251cc9a9e8822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bfa02608ae13b83330251cc9a9e8822]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2020/1378) revoked (11.10.2023) by [The Rating Lists (Valuation Date) (Wales) Order 2023 (S.I. 2023/1010)](https://www.legislation.gov.uk/wsi/2023/1010), [arts. 1](https://www.legislation.gov.uk/wsi/2023/1010/article/1), [3](https://www.legislation.gov.uk/wsi/2023/1010/article/3)
+[^c-9bfa02608ae13b83330251cc9a9e8822]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2020/1378) revoked (11.10.2023) by [The Rating Lists (Valuation Date) (Wales) Order 2023 (S.I. 2023/1010)](https://www.legislation.gov.uk/wsi/2023/1010), [arts. 1](https://www.legislation.gov.uk/wsi/2023/1010/article/1), [3](https://www.legislation.gov.uk/wsi/2023/1010/article/3)

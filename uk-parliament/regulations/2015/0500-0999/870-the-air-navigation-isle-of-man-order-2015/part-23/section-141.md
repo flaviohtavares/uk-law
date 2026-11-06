@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Restriction on aerial photography, aerial survey and aerial work in aircraft registered elsewhere than in the Isle of Man[^key-e37f27c22bf76ae30954838ae1c07f90]
+## 141. Restriction on aerial photography, aerial survey and aerial work in aircraft registered elsewhere than in the Isle of Man[^c-e37f27c22bf76ae30954838ae1c07f90]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e37f27c22bf76ae30954838ae1c07f90]: Textual amendment: [Art. 141](https://www.legislation.gov.uk/uksi/2015/870/article/141) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 8](https://www.legislation.gov.uk/uksi/2022/172/article/8)
+[^c-e37f27c22bf76ae30954838ae1c07f90]: Textual amendment: [Art. 141](https://www.legislation.gov.uk/uksi/2015/870/article/141) omitted (coming into force in accordance with art. 1(4) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 8](https://www.legislation.gov.uk/uksi/2022/172/article/8)

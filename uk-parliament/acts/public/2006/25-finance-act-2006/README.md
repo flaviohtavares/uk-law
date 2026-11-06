@@ -124,7 +124,7 @@ We, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 
 - [Section 30 — Temporary increase in amount of first-year allowances for small enterprises](part-3/section-30.md)
 
-#### Chapter 3 — Films and sound recordings[^c19543901][^key-9e91a0eeb71b6f3352507470cef2ae9c]
+#### Chapter 3 — Films and sound recordings[^c19543901][^c-9e91a0eeb71b6f3352507470cef2ae9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -511,4 +511,4 @@ SCHEDULES
 
 [^c19543901]: Modification: Pt. 3 Ch. 3 applied (with modifications) (29.3.2007) by [The Corporation Tax (Taxation of Films) (Transitional Provisions) Regulations 2007 (S.I. 2007/1050)](https://www.legislation.gov.uk/uksi/2007/1050), [reg. 3-12](https://www.legislation.gov.uk/uksi/2007/1050/regulation/3) (with effect [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/1050/regulation/1/2)) (as amended by Corporation Tax Act 2009 (c. 4), Sch. 2 para. 131)
 
-[^key-9e91a0eeb71b6f3352507470cef2ae9c]: Modification: Pt. 3 Ch. 3 power to apply (with modifications) conferred (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 2 para. 130](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/paragraph/130) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9e91a0eeb71b6f3352507470cef2ae9c]: Modification: Pt. 3 Ch. 3 power to apply (with modifications) conferred (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 2 para. 130](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/paragraph/130) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

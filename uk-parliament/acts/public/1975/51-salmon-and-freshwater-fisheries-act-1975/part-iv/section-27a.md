@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27A. Authorisation of fishing otherwise than by licensable means[^key-4f65a97cf65ec7dc02180ed3f6255dbc]
+## 27A. Authorisation of fishing otherwise than by licensable means[^c-4f65a97cf65ec7dc02180ed3f6255dbc]
 
 *Extent: E+W*
 
-(1) The appropriate agency[^key-7561df404fe84fba90acd211ffb3756c] may authorise a person to use any means, other than a licensable means of fishing, to fish for—
+(1) The appropriate agency[^c-7561df404fe84fba90acd211ffb3756c] may authorise a person to use any means, other than a licensable means of fishing, to fish for—
 
 - (a) salmon, trout, eels, lampreys, smelt and freshwater fish; and
 - (b) fish of such other description as may be specified for the purposes of this section by order under section 40A below.
@@ -64,6 +64,6 @@ it may charge a fee of another amount.
 
 ## Annotations
 
-[^key-4f65a97cf65ec7dc02180ed3f6255dbc]: Textual amendment: S. 27A - S. 27B inserted (1.1.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 219(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/219/2), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/13)
+[^c-4f65a97cf65ec7dc02180ed3f6255dbc]: Textual amendment: S. 27A - S. 27B inserted (1.1.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 219(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/219/2), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/13)
 
-[^key-7561df404fe84fba90acd211ffb3756c]: Textual amendment: Words in [s. 27A](https://www.legislation.gov.uk/ukpga/1975/51/section/27A) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 141](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/141) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7561df404fe84fba90acd211ffb3756c]: Textual amendment: Words in [s. 27A](https://www.legislation.gov.uk/ukpga/1975/51/section/27A) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 141](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/141) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

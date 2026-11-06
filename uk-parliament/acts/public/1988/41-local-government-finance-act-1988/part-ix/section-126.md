@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 126. Variation of multipliers in supplementary reports.[^key-03f0e2dc1c97fa57eb1290fae67170fb]
+## 126. Variation of multipliers in supplementary reports.[^c-03f0e2dc1c97fa57eb1290fae67170fb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03f0e2dc1c97fa57eb1290fae67170fb]: Textual amendment: [S. 126](https://www.legislation.gov.uk/ukpga/1988/41/section/126) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-03f0e2dc1c97fa57eb1290fae67170fb]: Textual amendment: [S. 126](https://www.legislation.gov.uk/ukpga/1988/41/section/126) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Meaning of “small producer”[^key-e6892b5e8acb6125f1f25acf919b69fe]
+## 38. Meaning of “small producer”[^c-e6892b5e8acb6125f1f25acf919b69fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ will not exceed the small producer threshold.
 
 ## Annotations
 
-[^key-e6892b5e8acb6125f1f25acf919b69fe]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/10/section/38) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-e6892b5e8acb6125f1f25acf919b69fe]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/10/section/38) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

@@ -39,7 +39,7 @@ summary: ''
 
   where—
 
-  A is the deceased’s annual pension not including any Tier 2 addition determined in accordance with regulation 92(3);[^key-2e974c063a62b7af5fbe92a854521241]
+  A is the deceased’s annual pension not including any Tier 2 addition determined in accordance with regulation 92(3);[^c-2e974c063a62b7af5fbe92a854521241]
 
   C is the total period of pensionable service counted in days over which the pensions aggregated to find A were accrued,
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e974c063a62b7af5fbe92a854521241]: Textual amendment: Words in [reg. 124(3)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/124/3/b) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [72](https://www.legislation.gov.uk/uksi/2016/245/regulation/72) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-2e974c063a62b7af5fbe92a854521241]: Textual amendment: Words in [reg. 124(3)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/124/3/b) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [72](https://www.legislation.gov.uk/uksi/2016/245/regulation/72) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

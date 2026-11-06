@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 101. Reference of disagreement to the Secretary of State[^key-14480a17b91dfa5ba2e75ca5568199db]
+## 101. Reference of disagreement to the Secretary of State[^c-14480a17b91dfa5ba2e75ca5568199db]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ the relevant date is the date on which that period expires.
 
 ## Annotations
 
-[^key-14480a17b91dfa5ba2e75ca5568199db]: Commencement: Reg. 101 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-14480a17b91dfa5ba2e75ca5568199db]: Commencement: Reg. 101 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

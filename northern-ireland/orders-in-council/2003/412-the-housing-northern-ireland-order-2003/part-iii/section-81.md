@@ -23,7 +23,7 @@ summary: ''
 (1) It is a condition of an HMO grant that throughout the grant condition period—
 
 - (a) the house is occupied or available for residential occupation in accordance with the intention stated in the certificate of future occupation that accompanied the application (see Article 57(2)); and
-- (b)[^key-3a2d8bd79b35a7618717d1ff88f547be] that the house is not occupied by more than the number of persons who are authorised to occupy it under the HMO licence for the house (see section 7 of the Act of 2016).
+- (b)[^c-3a2d8bd79b35a7618717d1ff88f547be] that the house is not occupied by more than the number of persons who are authorised to occupy it under the HMO licence for the house (see section 7 of the Act of 2016).
 
 (2) It is also a condition of the grant that if at any time within the grant condition period the Executive serves notice on the owner of the house requiring him to do so, he will within the period of 21 days beginning on the date on which the notice was served furnish to the Executive a statement showing how the condition in paragraph (1)(a) is being fulfilled.
 
@@ -42,4 +42,4 @@ any amount of grant and interest which is repayable under paragraph (4) shall, u
 
 ## Annotations
 
-[^key-3a2d8bd79b35a7618717d1ff88f547be]: Textual amendment: [Art. 81(1)(b)](https://www.legislation.gov.uk/nisi/2003/412/article/81/1/b) substituted (1.4.2019) by [Houses in Multiple Occupation Act (Northern Ireland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 6(7)](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/6/7); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-3a2d8bd79b35a7618717d1ff88f547be]: Textual amendment: [Art. 81(1)(b)](https://www.legislation.gov.uk/nisi/2003/412/article/81/1/b) substituted (1.4.2019) by [Houses in Multiple Occupation Act (Northern Ireland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 7 para. 6(7)](https://www.legislation.gov.uk/nia/2016/22/schedule/7/paragraph/6/7); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

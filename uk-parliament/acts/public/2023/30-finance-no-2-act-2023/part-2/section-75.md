@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Alcoholic ingredients[^M_I_26ae4716-1722-4b5c-d519-ec6a83c401a1][^key-ffe5681e45ed39fc50ea751bf4707074]
+## 75. Alcoholic ingredients[^M_I_26ae4716-1722-4b5c-d519-ec6a83c401a1][^c-ffe5681e45ed39fc50ea751bf4707074]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 [^M_I_26ae4716-1722-4b5c-d519-ec6a83c401a1]: Commencement: S. 75 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-ffe5681e45ed39fc50ea751bf4707074]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2023/30/section/75) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-ffe5681e45ed39fc50ea751bf4707074]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2023/30/section/75) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

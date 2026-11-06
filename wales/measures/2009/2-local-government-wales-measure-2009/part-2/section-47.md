@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Part 2: interpretation etc[^key-a65877c8fc9023715a1a3cd7318dd941]
+## 47. Part 2: interpretation etc[^c-a65877c8fc9023715a1a3cd7318dd941]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a65877c8fc9023715a1a3cd7318dd941]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/mwa/2009/2/part/2) repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/21); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-a65877c8fc9023715a1a3cd7318dd941]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/mwa/2009/2/part/2) repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/21); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

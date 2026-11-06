@@ -37,7 +37,7 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (4) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^f00001], make the following Order:
 
-## 1. Title and interpretation[^key-44d5e1d8f8e60083cfd51806f0294a7e]
+## 1. Title and interpretation[^c-44d5e1d8f8e60083cfd51806f0294a7e]
 
 (1) The title of this Order is the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 13 and Transitional and Saving Provisions) Order 2022.
 
@@ -109,7 +109,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (
 
 (7) This Order does not apply to a person in relation to whom provisions of the Act were commenced by the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 5 and Transitional and Saving Provisions) Order 2021[^f00016].
 
-## 2. Meaning of identified special educational needs[^key-f1cf3551979e9c1eedca9edea68749ef]
+## 2. Meaning of identified special educational needs[^c-f1cf3551979e9c1eedca9edea68749ef]
 
 (1) For the purposes of this Order, a child (“**C**”) has “identified special educational needs” if C is a registered pupil at a maintained school in Wales and has a learning difficulty identified by the governing body which calls for special educational provision to be made for C.
 
@@ -168,7 +168,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (
   - (iii) a mediation certificate has been issued under section 55(4) of the 2014 Act in relation to that determination and the period for submitting an appeal to the First-tier Tribunal under section 51 of the 2014 Act has not ended;
   - (iv) an appeal to the First-tier Tribunal under section 51(2)(f) of the 2014 Act in relation to that determination has been brought but not finally determined.
 
-## 3. Provisions coming into force on 1 September 2022[^key-0b6ef213d8f7fa7ece22928e53f2ca09]
+## 3. Provisions coming into force on 1 September 2022[^c-0b6ef213d8f7fa7ece22928e53f2ca09]
 
 The following provisions of the Act come into force on 1 September 2022 in relation to a child who has identified special educational needs on 1 September 2022—
 
@@ -214,25 +214,25 @@ The following provisions of the Act come into force on 1 September 2022 in relat
   - (xxv) paragraph 24(1) for the purposes of the provisions in sub-paragraph (xxvi);
   - (xxvi) paragraph 24(3) and (6)(a).
 
-## 4. Saving provision[^key-986285d7f142731929ed9103fbddf696]
+## 4. Saving provision[^c-986285d7f142731929ed9103fbddf696]
 
 Subject to articles 9 to 11 and articles 13 to 18, despite the disapplication by section 96 and paragraph 4(9) of the Schedule to the Act of Chapter 1 of Part 4 of the 1996 Act[^f00019] in relation to a child who has identified special educational needs—
 
 - (a) the old law continues to have effect in relation to that child; and
 - (b) the new law does not have effect in relation to that child.
 
-## 5. IDP notice[^key-997f7447b1eb731bc78bc64f74616ca0]
+## 5. IDP notice[^c-997f7447b1eb731bc78bc64f74616ca0]
 
 An IDP notice is a notice given to a child and a child’s parent which confirms that—
 
 - (a) the child has additional learning needs for the purposes of Chapter 2 of Part 2 of the Act; and
 - (b) an individual development plan will be prepared for the child (unless a local authority is required to secure an EHC plan following a request under section 12(2)(c) of the Act).
 
-## 6. No IDP notice[^key-68d2d4b65a6189e4f7cf9aa011903b4f]
+## 6. No IDP notice[^c-68d2d4b65a6189e4f7cf9aa011903b4f]
 
 A No IDP notice is a notice given to a child and a child’s parent which confirms that the governing body has decided that the child does not have additional learning needs for the purposes of Chapter 2 of Part 2 of the Act.
 
-## 7. Effect of IDP notice[^key-9493abbff904fca1a6713a09c7b23835]
+## 7. Effect of IDP notice[^c-9493abbff904fca1a6713a09c7b23835]
 
 The effect of the IDP notice is that—
 
@@ -240,7 +240,7 @@ The effect of the IDP notice is that—
 - (b) the new law applies in relation to the child on that date; and
 - (c) the old law ceases to apply in relation to the child on that date.
 
-## 8. Effect of No IDP notice[^key-70d928d01766fd0833dac1f63e23d891]
+## 8. Effect of No IDP notice[^c-70d928d01766fd0833dac1f63e23d891]
 
 The effect of the No IDP notice is that—
 
@@ -248,25 +248,25 @@ The effect of the No IDP notice is that—
 - (b) the new law applies in relation to the child on that date; and
 - (c) the old law ceases to apply in relation to the child on that date.
 
-## 9. Duty to give a notice[^key-4b068d139e64ae6bf7923ec27853f046]
+## 9. Duty to give a notice[^c-4b068d139e64ae6bf7923ec27853f046]
 
 (1) This article applies to a child who on 1 September 2022 has identified special educational needs and who is in a nursery class, a reception class, year 2, year 4, year 6, year 8, year 10 or year 11.
 
 (2) Unless the new law applies in relation to the child, the governing body which provides the special educational provision to the child must either give an IDP notice or a No IDP notice to the child and the child’s parent during the 2022-2023 school year.
 
-**9A.**[^key-623e16a0bc844e3cd5896bc02dbb0ef8] (1) This article applies to a child who on 1 September 2023 has identified special educational needs and who is in year 6 or in year 10 during the 2023-2024 school year.
+**9A.**[^c-623e16a0bc844e3cd5896bc02dbb0ef8] (1) This article applies to a child who on 1 September 2023 has identified special educational needs and who is in year 6 or in year 10 during the 2023-2024 school year.
 
 (2) Unless the new law applies in relation to the child, the governing body which provides the special educational provision to the child must either give an IDP notice or a No IDP notice to the child and the child’s parent during the 2023-2024 school year.
 
-**10.**[^key-9f28526e0eeb483a6bdaf65570e53d5a] (1) This article applies to a child who on 1 September 2023 has identified special educational needs and who did not come within article 9 or 9A[^M_F_333189fa-cef0-4869-acec-093a8b17e754].
+**10.**[^c-9f28526e0eeb483a6bdaf65570e53d5a] (1) This article applies to a child who on 1 September 2023 has identified special educational needs and who did not come within article 9 or 9A[^M_F_333189fa-cef0-4869-acec-093a8b17e754].
 
 (2) Unless the new law applies in relation to the child, the governing body which provides the special educational provision to the child must either give an IDP notice or a No IDP notice to the child and the child’s parent during the 2023-2024 school year or the 2024-2025 school year[^M_F_f3a3d0c9-4e04-4f14-dac8-cf49263eb475] .
 
-## 11. Right to request an IDP notice or a No IDP notice[^key-6ca8d8f3dd111571b961f53639856ca3]
+## 11. Right to request an IDP notice or a No IDP notice[^c-6ca8d8f3dd111571b961f53639856ca3]
 
 A child who on 1 September 2022 had identified special educational needs, or that child’s parent, may request that the governing body of the school at which the child is a registered pupil gives an IDP notice or a No IDP notice and the governing body must give either an IDP notice or a No IDP notice within 15 school days of the request.
 
-## 12. Time for giving an individual development plan[^key-95cbc0a0dad42c4f30f756a714005b5e]
+## 12. Time for giving an individual development plan[^c-95cbc0a0dad42c4f30f756a714005b5e]
 
 (1) When an IDP notice is given pursuant to articles 9, 9A,[^M_F_5f86ea28-02a3-4d35-8ad0-1cb2d28ac179] 10 or 11 the governing body must give a copy of the individual development plan to the child and the child’s parent within 35 school days of the date of the notice unless—
 
@@ -278,7 +278,7 @@ A child who on 1 September 2022 had identified special educational needs, or tha
 
 (3) Any timescales in the code relating to the preparation by a governing body of an individual development plan do not apply when an individual development plan is prepared following the giving of an IDP notice.
 
-## 13. ALN Notice[^key-a40d23a6978dbef30737bb95a9b6be45]
+## 13. ALN Notice[^c-a40d23a6978dbef30737bb95a9b6be45]
 
 (1) This article applies to a child who on 1 September 2022 had identified special educational needs.
 
@@ -298,7 +298,7 @@ A child who on 1 September 2022 had identified special educational needs, or tha
 - (a) the local authority in Wales which is responsible for the child, or
 - (b) where a local authority in Wales is not responsible for the child, a local authority in Wales in whose area the maintained school at which the child is a registered pupil is located.
 
-## 14. Children for whom the new law does not apply by a certain date[^key-cbfeec3da7575cd5508e7440b6d31f91]
+## 14. Children for whom the new law does not apply by a certain date[^c-cbfeec3da7575cd5508e7440b6d31f91]
 
 (1) This article applies to a child—
 
@@ -311,7 +311,7 @@ A child who on 1 September 2022 had identified special educational needs, or tha
 - (a) the new law applies in relation to the child, and
 - (b) the old law ceases to apply in relation to the child.
 
-**14A.**[^key-2bb803844edaa1f95af2aa4c12c1084e] (1) This article applies to a child—
+**14A.**[^c-2bb803844edaa1f95af2aa4c12c1084e] (1) This article applies to a child—
 
 - (a) who had identified special educational needs on 1 September 2022,
 - (b) who was in year 6 or in year 10 during the 2023-2024 school year, and
@@ -322,7 +322,7 @@ A child who on 1 September 2022 had identified special educational needs, or tha
 - (a) the new law applies in relation to the child, and
 - (b) the old law ceases to apply in relation to the child.
 
-**15.**[^key-b95b311257747d0660c3f6cf375be0ea] (1) This article applies to a child—
+**15.**[^c-b95b311257747d0660c3f6cf375be0ea] (1) This article applies to a child—
 
 - (a) who had identified special educational needs on 1 September 2022, and
 - (b) in relation to whom the new law does not apply on 30 August 2025[^M_F_2eb35c7c-193d-42f5-8c3c-6e74f1d93273].
@@ -332,7 +332,7 @@ A child who on 1 September 2022 had identified special educational needs, or tha
 - (a) the new law applies in relation to the child, and
 - (b) the old law ceases to apply in relation to the child.
 
-## 16. Change of circumstances[^key-8634cb278d77d83acce6c2571d154112]
+## 16. Change of circumstances[^c-8634cb278d77d83acce6c2571d154112]
 
 (1) This article applies to a child who had identified special educational needs on 1 September 2022—
 
@@ -352,7 +352,7 @@ A child who on 1 September 2022 had identified special educational needs, or tha
 - (iii) the school being discontinued as a result of a direction made under section 16 (power of Welsh Ministers to direct closure of school) or section 81 (direction requiring discontinuance of community special school) of the School Standards and Organisation (Wales) Act 2013;
 - (iv) the pupil referral unit being permanently closed.
 
-**17.**[^key-9961fd7202dcbe11ebb5fe63cc5e87ec] (1) This article applies to a child who had identified special educational needs on 1 September 2022—
+**17.**[^c-9961fd7202dcbe11ebb5fe63cc5e87ec] (1) This article applies to a child who had identified special educational needs on 1 September 2022—
 
 - (a) who becomes a registered pupil or an enrolled student at another institution (that institution being a school or institution in the further education sector),
 - (b) for whom a local authority in Wales is responsible,
@@ -364,7 +364,7 @@ A child who on 1 September 2022 had identified special educational needs, or tha
 - (a) the new law applies in relation to the child, and
 - (b) the old law ceases to apply in relation to the child.
 
-**18.**[^key-e0eff619bf01890690d358d5da1ccb6a] (1) This article applies to a child who had identified special educational needs on 1 September 2022—
+**18.**[^c-e0eff619bf01890690d358d5da1ccb6a] (1) This article applies to a child who had identified special educational needs on 1 September 2022—
 
 - (a) who becomes a looked after child,
 - (b) for whom a request for an IDP notice or a No IDP notice has not been made, and
@@ -375,13 +375,13 @@ A child who on 1 September 2022 had identified special educational needs, or tha
 - (a) the new law applies in relation to the child, and
 - (b) the old law ceases to apply in relation to the child.
 
-## 19. Regard to special educational provision provided before IDP notice[^key-c8d8506225d77896b129718bb4774c8a]
+## 19. Regard to special educational provision provided before IDP notice[^c-c8d8506225d77896b129718bb4774c8a]
 
 Where a governing body is required to prepare an individual development plan for a child within 35 school days of moving to the new law, the governing body must have regard to the special educational provision provided to the child immediately before moving to the new law.
 
-**20.**[^key-5398f5dd06d54af49a21c05393e2343f] Where a local authority is required to prepare an individual development plan for a child within 12 weeks of moving to the new law, the local authority must have regard to the special educational provision provided to the child immediately before moving to the new law.
+**20.**[^c-5398f5dd06d54af49a21c05393e2343f] Where a local authority is required to prepare an individual development plan for a child within 12 weeks of moving to the new law, the local authority must have regard to the special educational provision provided to the child immediately before moving to the new law.
 
-## 21. Capacity of children[^key-dc7afa9330bccd52679783a1c09791d9]
+## 21. Capacity of children[^c-dc7afa9330bccd52679783a1c09791d9]
 
 (1) Subject to paragraph (2), paragraph (3) applies to a child who had identified special educational needs on 1 September 2022.
 
@@ -401,7 +401,7 @@ Where a governing body is required to prepare an individual development plan for
 
 (7) Where paragraph (3) applies in relation to a duty in paragraph (4)(a) or (b), the first reference to a child in article 6 is to be read as if it were omitted.
 
-## 22. Children who become young persons before the new law applies[^key-187ccb786fbef05d45a35a6c0ec3e9e8]
+## 22. Children who become young persons before the new law applies[^c-187ccb786fbef05d45a35a6c0ec3e9e8]
 
 (1) Paragraph (2) applies to a child who had a identified special educational needs on 1 September 2022.
 
@@ -409,7 +409,7 @@ Where a governing body is required to prepare an individual development plan for
 
 (3) The duties referred to in paragraph (2) are—
 
-- (a) the duty to give a parent an IDP notice or a No IDP notice in articles 9(2), 9A(2)[^key-9530304b42a5e0b0a9bde98754eb980c] and 10(2);
+- (a) the duty to give a parent an IDP notice or a No IDP notice in articles 9(2), 9A(2)[^c-9530304b42a5e0b0a9bde98754eb980c] and 10(2);
 - (b) the duty to give a notice following a request by a parent under article 11;
 - (c) the duty to give a parent a copy of the individual development plan within 35 school days in article 12(1).
 
@@ -616,7 +616,7 @@ The following provisions of the Act have been brought into force by Commencement
 
 [^f00001]: Footnote: [2018 anaw 2](https://www.legislation.gov.uk/anaw/2018/2).
 
-[^key-44d5e1d8f8e60083cfd51806f0294a7e]: Commencement: Art. 1 in force at made date
+[^c-44d5e1d8f8e60083cfd51806f0294a7e]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -648,73 +648,73 @@ The following provisions of the Act have been brought into force by Commencement
 
 [^f00016]: Footnote: [S.I. 2021/1243 (W. 315) (C. 68)](https://www.legislation.gov.uk/wsi/2021/1243) amended by [S.I. 2021/1428 (W. 369) (C. 80)](https://www.legislation.gov.uk/wsi/2021/1428).
 
-[^key-f1cf3551979e9c1eedca9edea68749ef]: Commencement: Art. 2 in force at made date
+[^c-f1cf3551979e9c1eedca9edea68749ef]: Commencement: Art. 2 in force at made date
 
 [^f00017]: Footnote: [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21).
 
-[^key-0b6ef213d8f7fa7ece22928e53f2ca09]: Commencement: Art. 3 in force at made date
+[^c-0b6ef213d8f7fa7ece22928e53f2ca09]: Commencement: Art. 3 in force at made date
 
 [^f00018]: Footnote: Paragraph 4(7) (“the provision”) has been repealed by paragraph 75 of Schedule 2 to the Curriculum and Assessment (Wales) Act 2021 (asc 4) (“**the 2021 Act**”). However, the provision has been saved by the Curriculum and Assessment (Wales) Act 2021 (Transitional and Saving Provision) Regulations 2022 ([S.I. 2022/111 (W. 39)](https://www.legislation.gov.uk/wsi/2022/111)) in relation to a child or pupil provided with education under the old curriculum (i.e. in relation to whom the 2021 Act has not been commenced). The effect of that saving provision is that paragraph 4(7) of the Schedule to the Act remains in force until such time as the child or pupil is provided with education under the 2021 Act.
 
-[^key-986285d7f142731929ed9103fbddf696]: Commencement: Art. 4 in force at made date
+[^c-986285d7f142731929ed9103fbddf696]: Commencement: Art. 4 in force at made date
 
 [^f00019]: Footnote: *See* article 3 of this Order which commenced those provisions.
 
-[^key-997f7447b1eb731bc78bc64f74616ca0]: Commencement: Art. 5 in force at made date
+[^c-997f7447b1eb731bc78bc64f74616ca0]: Commencement: Art. 5 in force at made date
 
-[^key-68d2d4b65a6189e4f7cf9aa011903b4f]: Commencement: Art. 6 in force at made date
+[^c-68d2d4b65a6189e4f7cf9aa011903b4f]: Commencement: Art. 6 in force at made date
 
-[^key-9493abbff904fca1a6713a09c7b23835]: Commencement: Art. 7 in force at made date
+[^c-9493abbff904fca1a6713a09c7b23835]: Commencement: Art. 7 in force at made date
 
-[^key-70d928d01766fd0833dac1f63e23d891]: Commencement: Art. 8 in force at made date
+[^c-70d928d01766fd0833dac1f63e23d891]: Commencement: Art. 8 in force at made date
 
-[^key-4b068d139e64ae6bf7923ec27853f046]: Commencement: Art. 9 in force at made date
+[^c-4b068d139e64ae6bf7923ec27853f046]: Commencement: Art. 9 in force at made date
 
-[^key-623e16a0bc844e3cd5896bc02dbb0ef8]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/wsi/2022/896/article/9A) inserted (21.8.2023) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Orders No. 5, No. 6, No. 8, No. 13 and No. 14) Order 2023 (S.I. 2023/932)](https://www.legislation.gov.uk/wsi/2023/932), [art. 5(2)](https://www.legislation.gov.uk/wsi/2023/932/article/5/2)
+[^c-623e16a0bc844e3cd5896bc02dbb0ef8]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/wsi/2022/896/article/9A) inserted (21.8.2023) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Orders No. 5, No. 6, No. 8, No. 13 and No. 14) Order 2023 (S.I. 2023/932)](https://www.legislation.gov.uk/wsi/2023/932), [art. 5(2)](https://www.legislation.gov.uk/wsi/2023/932/article/5/2)
 
-[^key-9f28526e0eeb483a6bdaf65570e53d5a]: Commencement: Art. 10 in force at made date
+[^c-9f28526e0eeb483a6bdaf65570e53d5a]: Commencement: Art. 10 in force at made date
 
 [^M_F_333189fa-cef0-4869-acec-093a8b17e754]: Textual amendment: Word in [art. 10(1)(a)](https://www.legislation.gov.uk/wsi/2022/896/article/10/1/a) inserted (21.8.2023) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Orders No. 5, No. 6, No. 8, No. 13 and No. 14) Order 2023 (S.I. 2023/932)](https://www.legislation.gov.uk/wsi/2023/932), [art. 5(3)(a)](https://www.legislation.gov.uk/wsi/2023/932/article/5/3)
 
 [^M_F_f3a3d0c9-4e04-4f14-dac8-cf49263eb475]: Textual amendment: Word in [art. 10(1)(b)](https://www.legislation.gov.uk/wsi/2022/896/article/10/1/b) inserted (21.8.2023) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Orders No. 5, No. 6, No. 8, No. 13 and No. 14) Order 2023 (S.I. 2023/932)](https://www.legislation.gov.uk/wsi/2023/932), [art. 5(3)(b)](https://www.legislation.gov.uk/wsi/2023/932/article/5/3)
 
-[^key-6ca8d8f3dd111571b961f53639856ca3]: Commencement: Art. 11 in force at made date
+[^c-6ca8d8f3dd111571b961f53639856ca3]: Commencement: Art. 11 in force at made date
 
-[^key-95cbc0a0dad42c4f30f756a714005b5e]: Commencement: Art. 12 in force at made date
+[^c-95cbc0a0dad42c4f30f756a714005b5e]: Commencement: Art. 12 in force at made date
 
 [^M_F_5f86ea28-02a3-4d35-8ad0-1cb2d28ac179]: Textual amendment: Word in [art. 12(1)](https://www.legislation.gov.uk/wsi/2022/896/article/12/1) inserted (21.8.2023) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Orders No. 5, No. 6, No. 8, No. 13 and No. 14) Order 2023 (S.I. 2023/932)](https://www.legislation.gov.uk/wsi/2023/932), [art. 5(4)](https://www.legislation.gov.uk/wsi/2023/932/article/5/4)
 
-[^key-a40d23a6978dbef30737bb95a9b6be45]: Commencement: Art. 13 in force at made date
+[^c-a40d23a6978dbef30737bb95a9b6be45]: Commencement: Art. 13 in force at made date
 
-[^key-cbfeec3da7575cd5508e7440b6d31f91]: Commencement: Art. 14 in force at made date
+[^c-cbfeec3da7575cd5508e7440b6d31f91]: Commencement: Art. 14 in force at made date
 
-[^key-2bb803844edaa1f95af2aa4c12c1084e]: Textual amendment: [Art. 14A](https://www.legislation.gov.uk/wsi/2022/896/article/14A) inserted (21.8.2023) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Orders No. 5, No. 6, No. 8, No. 13 and No. 14) Order 2023 (S.I. 2023/932)](https://www.legislation.gov.uk/wsi/2023/932), [art. 5(5)](https://www.legislation.gov.uk/wsi/2023/932/article/5/5)
+[^c-2bb803844edaa1f95af2aa4c12c1084e]: Textual amendment: [Art. 14A](https://www.legislation.gov.uk/wsi/2022/896/article/14A) inserted (21.8.2023) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Orders No. 5, No. 6, No. 8, No. 13 and No. 14) Order 2023 (S.I. 2023/932)](https://www.legislation.gov.uk/wsi/2023/932), [art. 5(5)](https://www.legislation.gov.uk/wsi/2023/932/article/5/5)
 
-[^key-b95b311257747d0660c3f6cf375be0ea]: Commencement: Art. 15 in force at made date
+[^c-b95b311257747d0660c3f6cf375be0ea]: Commencement: Art. 15 in force at made date
 
 [^M_F_2eb35c7c-193d-42f5-8c3c-6e74f1d93273]: Textual amendment: Words in [art. 15](https://www.legislation.gov.uk/wsi/2022/896/article/15) substituted (21.8.2023) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Orders No. 5, No. 6, No. 8, No. 13 and No. 14) Order 2023 (S.I. 2023/932)](https://www.legislation.gov.uk/wsi/2023/932), [art. 5(6)](https://www.legislation.gov.uk/wsi/2023/932/article/5/6)
 
-[^key-8634cb278d77d83acce6c2571d154112]: Commencement: Art. 16 in force at made date
+[^c-8634cb278d77d83acce6c2571d154112]: Commencement: Art. 16 in force at made date
 
 [^f00020]: Footnote: [S.I. 2010/1954 (W. 187)](https://www.legislation.gov.uk/wsi/2010/1954).
 
 [^f00021]: Footnote: [2013 anaw 1](https://www.legislation.gov.uk/anaw/2013/1).
 
-[^key-9961fd7202dcbe11ebb5fe63cc5e87ec]: Commencement: Art. 17 in force at made date
+[^c-9961fd7202dcbe11ebb5fe63cc5e87ec]: Commencement: Art. 17 in force at made date
 
-[^key-e0eff619bf01890690d358d5da1ccb6a]: Commencement: Art. 18 in force at made date
+[^c-e0eff619bf01890690d358d5da1ccb6a]: Commencement: Art. 18 in force at made date
 
-[^key-c8d8506225d77896b129718bb4774c8a]: Commencement: Art. 19 in force at made date
+[^c-c8d8506225d77896b129718bb4774c8a]: Commencement: Art. 19 in force at made date
 
-[^key-5398f5dd06d54af49a21c05393e2343f]: Commencement: Art. 20 in force at made date
+[^c-5398f5dd06d54af49a21c05393e2343f]: Commencement: Art. 20 in force at made date
 
-[^key-dc7afa9330bccd52679783a1c09791d9]: Commencement: Art. 21 in force at made date
+[^c-dc7afa9330bccd52679783a1c09791d9]: Commencement: Art. 21 in force at made date
 
 [^M_F_7de5f3d4-2a89-4b9e-f799-b09e529f95be]: Textual amendment: Word in [art. 21(4)(a)](https://www.legislation.gov.uk/wsi/2022/896/article/21/4) inserted (21.8.2023) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Orders No. 5, No. 6, No. 8, No. 13 and No. 14) Order 2023 (S.I. 2023/932)](https://www.legislation.gov.uk/wsi/2023/932), [art. 5(7)](https://www.legislation.gov.uk/wsi/2023/932/article/5/7)
 
-[^key-187ccb786fbef05d45a35a6c0ec3e9e8]: Commencement: Art. 22 in force at made date
+[^c-187ccb786fbef05d45a35a6c0ec3e9e8]: Commencement: Art. 22 in force at made date
 
-[^key-9530304b42a5e0b0a9bde98754eb980c]: Textual amendment: Word in [art. 22(3)(a)](https://www.legislation.gov.uk/wsi/2022/896/article/22/3/a) inserted (21.8.2023) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Orders No. 5, No. 6, No. 8, No. 13 and No. 14) Order 2023 (S.I. 2023/932)](https://www.legislation.gov.uk/wsi/2023/932), [art. 5(8)](https://www.legislation.gov.uk/wsi/2023/932/article/5/8)
+[^c-9530304b42a5e0b0a9bde98754eb980c]: Textual amendment: Word in [art. 22(3)(a)](https://www.legislation.gov.uk/wsi/2022/896/article/22/3/a) inserted (21.8.2023) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Amendment of Commencement Orders No. 5, No. 6, No. 8, No. 13 and No. 14) Order 2023 (S.I. 2023/932)](https://www.legislation.gov.uk/wsi/2023/932), [art. 5(8)](https://www.legislation.gov.uk/wsi/2023/932/article/5/8)
 
 [^f00022]: Footnote: See the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 8 and Transitional and Saving Provisions) Order 2022 ([S.I. 2022/891 (W. 188) (C. 55)](https://www.legislation.gov.uk/wsi/2022/891)), Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 9 and Transitional and Saving Provisions) Order 2022 ([S.I. 2022/892 (W. 189) (C. 56)](https://www.legislation.gov.uk/wsi/2022/892)), the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 10) Order 2022 ([S.I. 2022/893 (W. 190) (C. 57)](https://www.legislation.gov.uk/wsi/2022/893)), the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 11) Order 2022 ([S.I. 2022/894 (W. 191) (C. 58)](https://www.legislation.gov.uk/wsi/2022/894)), the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 12) Order 2022 ([S.I. 2022/895 (W. 192) (C. 59)](https://www.legislation.gov.uk/wsi/2022/895)), the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 14 and Transitional and Saving Provisions) Order 2022 ([S.I. 2022/897 (W. 194) (C. 61)](https://www.legislation.gov.uk/wsi/2022/897)) and the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 15) Order 2022 ([S.I. 2022/898 (W. 195) (C. 62)](https://www.legislation.gov.uk/wsi/2022/898)) which bring provisions into force for certain purposes on the same date as this Order.
 

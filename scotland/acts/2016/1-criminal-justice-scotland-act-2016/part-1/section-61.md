@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Further provision about vulnerable persons[^key-60a1a8c0e17fa23b42a725ef3c9c7f5e]
+## 61. Further provision about vulnerable persons[^c-60a1a8c0e17fa23b42a725ef3c9c7f5e]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60a1a8c0e17fa23b42a725ef3c9c7f5e]: Commencement: S. 61 in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-60a1a8c0e17fa23b42a725ef3c9c7f5e]: Commencement: S. 61 in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

@@ -31,7 +31,7 @@ summary: ''
 
 Fire And Rescue Services, Wales
 
-The Fire and Rescue Services (Appointment of Inspector) (Wales) Order 2013 (revoked)[^key-f810693d65d8964c44f8a0142a884e3f]
+The Fire and Rescue Services (Appointment of Inspector) (Wales) Order 2013 (revoked)[^c-f810693d65d8964c44f8a0142a884e3f]
 
 Made
 
@@ -45,28 +45,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-f810693d65d8964c44f8a0142a884e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f810693d65d8964c44f8a0142a884e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-f810693d65d8964c44f8a0142a884e3f]
+## 1. Citation and Commencement[^c-f810693d65d8964c44f8a0142a884e3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment of inspector[^key-f810693d65d8964c44f8a0142a884e3f]
+## 2. Appointment of inspector[^c-f810693d65d8964c44f8a0142a884e3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of appointment[^key-f810693d65d8964c44f8a0142a884e3f]
+## 3. Revocation of appointment[^c-f810693d65d8964c44f8a0142a884e3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f810693d65d8964c44f8a0142a884e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f810693d65d8964c44f8a0142a884e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f810693d65d8964c44f8a0142a884e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f810693d65d8964c44f8a0142a884e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f810693d65d8964c44f8a0142a884e3f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/3155) revoked (16.7.2015) by [The Fire and Rescue Services (Appointment of Inspector) (Wales) Order 2015 (S.I. 2015/1524)](https://www.legislation.gov.uk/uksi/2015/1524), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1524/article/1), [3](https://www.legislation.gov.uk/uksi/2015/1524/article/3)
+[^c-f810693d65d8964c44f8a0142a884e3f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/3155) revoked (16.7.2015) by [The Fire and Rescue Services (Appointment of Inspector) (Wales) Order 2015 (S.I. 2015/1524)](https://www.legislation.gov.uk/uksi/2015/1524), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1524/article/1), [3](https://www.legislation.gov.uk/uksi/2015/1524/article/3)

@@ -22,13 +22,13 @@ summary: ''
 
 Articles 14
 
-### PART 1 — PERMANENT OR TEMPORARY ALTERATION OF LAYOUT[^key-e44ac2726399d11abcc8e4167bc51312]
+### PART 1 — PERMANENT OR TEMPORARY ALTERATION OF LAYOUT[^c-e44ac2726399d11abcc8e4167bc51312]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street subject to alteration of layout* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
 | London Borough of Bexley | Norman Road | Works for the provision of one or multiple means of access to the authorised development at any location on the street between points E to K shown on the access and rights of way plan. |
 
-### PART 2 — PERMANENT OR TEMPORARY ALTERATION OF LAYOUT[^key-022b223efefe0b1e5c747a141779fbc1]
+### PART 2 — PERMANENT OR TEMPORARY ALTERATION OF LAYOUT[^c-022b223efefe0b1e5c747a141779fbc1]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street subject to alteration of layout* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -36,6 +36,6 @@ Articles 14
 
 ## Annotations
 
-[^key-e44ac2726399d11abcc8e4167bc51312]: Commencement: Sch. 5 Pt. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-e44ac2726399d11abcc8e4167bc51312]: Commencement: Sch. 5 Pt. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-022b223efefe0b1e5c747a141779fbc1]: Commencement: Sch. 5 Pt. 2 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-022b223efefe0b1e5c747a141779fbc1]: Commencement: Sch. 5 Pt. 2 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**133.**[^key-a6a68dca55e9c880e88ad4e8c75efe92] In section 171ZE[^f00150] (rate and period of pay) at the end insert—
+**133.**[^c-a6a68dca55e9c880e88ad4e8c75efe92] In section 171ZE[^f00150] (rate and period of pay) at the end insert—
 
 > (13) Where statutory paternity pay is payable to a person by virtue of section 171ZB(10), this section has effect as if—
 >
@@ -27,6 +27,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6a68dca55e9c880e88ad4e8c75efe92]: Commencement: Reg. 133 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-a6a68dca55e9c880e88ad4e8c75efe92]: Commencement: Reg. 133 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00150]: Footnote: Subsection (12) of section171ZE was inserted by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 121(4).

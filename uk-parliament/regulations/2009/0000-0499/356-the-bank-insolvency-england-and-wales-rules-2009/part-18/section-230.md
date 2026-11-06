@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 230. Security in court[^key-8d049deb4fd33d44f537303a5f85dc43]
+## 230. Security in court[^c-8d049deb4fd33d44f537303a5f85dc43]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.58 of the 1986 Rules.
 
 ## Annotations
 
-[^key-8d049deb4fd33d44f537303a5f85dc43]: Commencement: Rule 230 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-8d049deb4fd33d44f537303a5f85dc43]: Commencement: Rule 230 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

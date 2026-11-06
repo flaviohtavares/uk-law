@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**244.**[^key-fda4c4925a49b7decab626756aec3c67] The National Health Service (Wales) Act 2006 is amended as follows.
+**244.**[^c-fda4c4925a49b7decab626756aec3c67] The National Health Service (Wales) Act 2006 is amended as follows.
 
 ## Annotations
 
-[^key-fda4c4925a49b7decab626756aec3c67]: Commencement: Reg. 244 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-fda4c4925a49b7decab626756aec3c67]: Commencement: Reg. 244 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

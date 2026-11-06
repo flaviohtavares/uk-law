@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 7 — PUNISHMENT OF OFFENCES UNDER THIS ORDER[^key-bbf57482d96c68eea16266a4bef4d6bf]
+## SCHEDULE 7 — PUNISHMENT OF OFFENCES UNDER THIS ORDER[^c-bbf57482d96c68eea16266a4bef4d6bf]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ Article 373.
 
 | Article of Order creating offence | General nature of offence | Mode of prosecution | Punishment | Daily default fine (where applicable) |
 | --- | --- | --- | --- | --- |
-| 13BE(4)[^key-ec110c2ae7ec837e9054863ae86c7af5] | Directors failing to notify monitor of beginning of moratorium. | 1\. On indictment.<br>2\. Summary. | 2 years or a fine or both.<br>6 months or the statutory maximum or both. |  |
+| 13BE(4)[^c-ec110c2ae7ec837e9054863ae86c7af5] | Directors failing to notify monitor of beginning of moratorium. | 1\. On indictment.<br>2\. Summary. | 2 years or a fine or both.<br>6 months or the statutory maximum or both. |  |
 | 13BE(5) | Monitor failing to notify creditors etc of beginning of moratorium. | Summary. | Level 3 on the standard scale. |  |
 | 13CH(6) | Directors failing to notify monitor of change in end of moratorium. | 1\. On indictment.<br>2\. Summary. | 2 years or a fine or both.<br>6 months or the statutory maximum or both. |  |
 | 13CH(7) | Monitor failing to notify creditors etc of change in end of moratorium. | Summary. | Level 3 on the standard scale. |  |
@@ -114,7 +114,7 @@ Article 373.
 | 208R(2) | Obtaining property in respect of which money is owed by a person in respect of whom a debt relief order is made. | **1.** On indictment<br>**2.** Summary | 7 years or a fine, or both.<br>6 months or the statutory maximum, or both. |  |
 | 208S(1) | Person in respect of whom a debt relief order is made obtaining credit or engaging in business without disclosing his status or name. | **1.** On indictment<br>**2.** Summary | 2 years or a fine, or both.<br>6 months or the statutory maximum, or both. |  |
 | 217(2) | Default in compliance with Article 374 as to notification that deed is void. | Summary. | One‐fifth of the statutory maximum. |  |
-| [^key-486f668f92efdb05a6f7d5ed420ee8e2]. . . | [^key-486f668f92efdb05a6f7d5ed420ee8e2]. . . | [^key-486f668f92efdb05a6f7d5ed420ee8e2]. . . | [^key-486f668f92efdb05a6f7d5ed420ee8e2]. . . | [^key-486f668f92efdb05a6f7d5ed420ee8e2]. . . |
+| [^c-486f668f92efdb05a6f7d5ed420ee8e2]. . . | [^c-486f668f92efdb05a6f7d5ed420ee8e2]. . . | [^c-486f668f92efdb05a6f7d5ed420ee8e2]. . . | [^c-486f668f92efdb05a6f7d5ed420ee8e2]. . . | [^c-486f668f92efdb05a6f7d5ed420ee8e2]. . . |
 | 222(3) | Failing to transmit accounts. | Summary. | One‐fifth of the statutory maximum. | One‐fiftieth of the statutory maximum. |
 | 223 | Preferential payment to creditor. | 1\. On indictment.<br>2\. Summary. | A fine.<br>The statutory maximum. |  |
 | 236A(1). | False representation or fraud for purpose of obtaining creditor's approval of proposed voluntary arrangement. | **1.** On indictment.<br>**2.** Summary. | 7 years or a fine, or both.<br>6 months or the statutory maximum, or both. |  |
@@ -137,27 +137,27 @@ Article 373.
 | [^c20272301]. . . | [^c20272301]. . . | [^c20272301]. . . | [^c20272301]. . . |  |
 | [^c20272301]. . . | [^c20272301]. . . | [^c20272301]. . . | [^c20272301]. . . |  |
 | 348(1) | Acting as insolvency practitioner when not qualified. | 1\. On indictment.<br>2\. Summary. | 2 years or a fine, or both.<br>6 months or the statutory maximum, or both. |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
-| [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^key-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
+| [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . | [^c-c7e60ca50a343a543a8c17d79f4467e1]. . . |  |
 | Sch.[^c20268341] B1, para. 19(7). | Making false statement in statutory declaration where administrator appointed by holder of floating charge. | 1\. On indictment.<br>2\. Summary. | 2 years, or a fine or both.<br>6 months, or the statutory maximum or both. |  |
 | Sch. B1, para. 21. | Holder of floating charge failing to notify administrator or others of commencement of appointment. | 1\. On indictment.<br>2\. Summary. | 2 years, or a fine or both.<br>6 months, or the statutory maximum or both. | One-tenth of the statutory maximum. |
 | Sch. B1, para. 28(4). | Making false statement in statutory declaration where appointment of administrator proposed by company or directors. | 1\. On indictment.<br>2\. Summary. | 2 years, or a fine or both.<br>6 months, or the statutory maximum or both. |  |
@@ -182,9 +182,9 @@ Article 373.
 
 ## Annotations
 
-[^key-bbf57482d96c68eea16266a4bef4d6bf]: Modification: [Sch. 7](https://www.legislation.gov.uk/nisi/1989/2405/schedule/7) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-bbf57482d96c68eea16266a4bef4d6bf]: Modification: [Sch. 7](https://www.legislation.gov.uk/nisi/1989/2405/schedule/7) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
-[^key-ec110c2ae7ec837e9054863ae86c7af5]: Textual amendment: Entries in [Sch. 7](https://www.legislation.gov.uk/nisi/1989/2405/schedule/7) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 29(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/29/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-ec110c2ae7ec837e9054863ae86c7af5]: Textual amendment: Entries in [Sch. 7](https://www.legislation.gov.uk/nisi/1989/2405/schedule/7) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 29(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/29/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^c17605071]: Textual amendment: [2002 NI 6](https://www.legislation.gov.uk/2002/ni6)
 
@@ -202,10 +202,10 @@ Article 373.
 
 [^c22530761]: Textual amendment: Entries in Sch. 7 inserted (30.6.2011) by [Debt Relief Act (Northern Ireland) 2010 (c. 16)](https://www.legislation.gov.uk/nia/2010/16), [ss. 6](https://www.legislation.gov.uk/nia/2010/16/section/6), [7(1)](https://www.legislation.gov.uk/nia/2010/16/section/7/1), [Sch. para. 4(15)(b)](https://www.legislation.gov.uk/nia/2010/16/schedule/paragraph/4/15/b); [S.R. 2011/13](https://www.legislation.gov.uk/nisr/2011/13), [art. 2](https://www.legislation.gov.uk/nisr/2011/13/article/2)
 
-[^key-486f668f92efdb05a6f7d5ed420ee8e2]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/nisi/1989/2405/schedule/7) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-486f668f92efdb05a6f7d5ed420ee8e2]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/nisi/1989/2405/schedule/7) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
 [^c20272301]: Textual amendment: Entries in Sch. 7 repealed (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [25](https://www.legislation.gov.uk/nisi/2005/1455/article/25), [31](https://www.legislation.gov.uk/nisi/2005/1455/article/31), [Sch. 8 para. 17(b)](https://www.legislation.gov.uk/nisi/2005/1455/schedule/8/paragraph/17/b), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2)-7)
 
-[^key-c7e60ca50a343a543a8c17d79f4467e1]: Textual amendment: Entries in [Sch. 7](https://www.legislation.gov.uk/nisi/1989/2405/schedule/7) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 29(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/29/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-c7e60ca50a343a543a8c17d79f4467e1]: Textual amendment: Entries in [Sch. 7](https://www.legislation.gov.uk/nisi/1989/2405/schedule/7) omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 7 para. 29(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/7/paragraph/29/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^c20268341]: Textual amendment: Entries in Sch. 7 inserted (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [3(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/3/3), [Sch. 2 para. 47(2)](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2/paragraph/47/2) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2)-7)

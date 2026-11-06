@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.12. Sist of appeals[^key-04134b4f19f734356536ecefe53624a2]
+## 6.12. Sist of appeals[^c-04134b4f19f734356536ecefe53624a2]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04134b4f19f734356536ecefe53624a2]: Commencement: Para. 6.12 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-04134b4f19f734356536ecefe53624a2]: Commencement: Para. 6.12 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

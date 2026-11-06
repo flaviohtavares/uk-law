@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 271. Orders enforcing compliance with the Rules[^key-c8ffd0d99f5a60865f9d9b0c989fdb3d]
+## 271. Orders enforcing compliance with the Rules[^c-c8ffd0d99f5a60865f9d9b0c989fdb3d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8ffd0d99f5a60865f9d9b0c989fdb3d]: Commencement: [Rule 271](https://www.legislation.gov.uk/uksi/2011/1301/rule/271) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-c8ffd0d99f5a60865f9d9b0c989fdb3d]: Commencement: [Rule 271](https://www.legislation.gov.uk/uksi/2011/1301/rule/271) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

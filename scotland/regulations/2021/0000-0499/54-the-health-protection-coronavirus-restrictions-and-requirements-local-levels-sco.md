@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Amendment (No. 15) Regulations 2021 (revoked)[^key-a594b0a68427c3844c080a7e255fd5ed]
+The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Amendment (No. 15) Regulations 2021 (revoked)[^c-a594b0a68427c3844c080a7e255fd5ed]
 
 Approved by the Scottish Parliament
 
@@ -48,26 +48,26 @@ Coming into force
 
 30th January 2021
 
-[^key-a594b0a68427c3844c080a7e255fd5ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a594b0a68427c3844c080a7e255fd5ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a594b0a68427c3844c080a7e255fd5ed]
+## 1. Citation and commencement[^c-a594b0a68427c3844c080a7e255fd5ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020[^key-a594b0a68427c3844c080a7e255fd5ed]
+## 2. Amendment of the Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020[^c-a594b0a68427c3844c080a7e255fd5ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Changes to levels of areas[^key-a594b0a68427c3844c080a7e255fd5ed]
+## 3. Changes to levels of areas[^c-a594b0a68427c3844c080a7e255fd5ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a594b0a68427c3844c080a7e255fd5ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a594b0a68427c3844c080a7e255fd5ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a594b0a68427c3844c080a7e255fd5ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a594b0a68427c3844c080a7e255fd5ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a594b0a68427c3844c080a7e255fd5ed]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2021/54) revoked (10.4.2023) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2023 (S.S.I. 2023/19)](https://www.legislation.gov.uk/ssi/2023/19), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/19/regulation/1/1), [6(a)](https://www.legislation.gov.uk/ssi/2023/19/regulation/6/a)
+[^c-a594b0a68427c3844c080a7e255fd5ed]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2021/54) revoked (10.4.2023) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2023 (S.S.I. 2023/19)](https://www.legislation.gov.uk/ssi/2023/19), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/19/regulation/1/1), [6(a)](https://www.legislation.gov.uk/ssi/2023/19/regulation/6/a)

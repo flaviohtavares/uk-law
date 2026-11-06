@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Establishment of demarcated areas and measures to be taken in those areas[^key-a98f8b25214d76cc8633dae7767b219c]
+## 17. Establishment of demarcated areas and measures to be taken in those areas[^c-a98f8b25214d76cc8633dae7767b219c]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a98f8b25214d76cc8633dae7767b219c]: Commencement: Reg. 17 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-a98f8b25214d76cc8633dae7767b219c]: Commencement: Reg. 17 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

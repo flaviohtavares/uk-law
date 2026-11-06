@@ -79,7 +79,7 @@ In these Regulations—
 - “**key decision**” has the meaning given in regulation 21 (key decisions);
 - “**newspaper**” has the meaning specified by section 52 of the 2014 Act (interpretation and application of this Part);
 - “**nominating officer**” has the same meaning as in paragraph 16(1) of Schedule 1 to the 2014 Act (interpretation);
-- “[^key-58445882043d9b60b963822430c50238]**open to the public**” includes access through remote means including (but not limited to) video conferencing, live webcast and live interactive streaming and where a meeting is accessible to the public through such remote means the meeting is open to the public whether or not members of the public are able to attend in person;
+- “[^c-58445882043d9b60b963822430c50238]**open to the public**” includes access through remote means including (but not limited to) video conferencing, live webcast and live interactive streaming and where a meeting is accessible to the public through such remote means the meeting is open to the public whether or not members of the public are able to attend in person;
 - “**party**” has the same meaning as in paragraph 16(1) of Schedule 1 to the 2014 Act (interpretation);
 - “**planning decision**” means—
   - (a) any decision on an application under the Planning Act for any agreement, approval, consent or permission; or
@@ -410,7 +410,7 @@ A matter does not fall within a description in regulation 17(a) to (c) if it con
 
 #### 19. Admission of the public to meetings of council executives and their sub-committees
 
-A decision-making body may hold a meeting in public , open to the public[^key-28977a045757ae165ee1090a3b12a167] or in private.
+A decision-making body may hold a meeting in public , open to the public[^c-28977a045757ae165ee1090a3b12a167] or in private.
 
 #### 20. Procedures prior to private meetings
 
@@ -862,13 +862,13 @@ Regulation 32 makes general provision regarding the non-disclosure of confidenti
 
 [^c22351451]: Marginal citation: [2011 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
 
-[^key-58445882043d9b60b963822430c50238]: Textual amendment: Words in reg. 2 inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2020/74/regulation/12)
+[^c-58445882043d9b60b963822430c50238]: Textual amendment: Words in reg. 2 inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2020/74/regulation/12)
 
 [^c22351461]: Marginal citation: [S.I. 1996/1297 (N.I. 7)](https://www.legislation.gov.uk/nisi/1996/1297)
 
 [^c22351471]: Marginal citation: S.R. [2012 No. 85](https://www.legislation.gov.uk/nisr/2012/85)
 
-[^key-28977a045757ae165ee1090a3b12a167]: Textual amendment: Words in reg. 19 inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2020/74/regulation/13)
+[^c-28977a045757ae165ee1090a3b12a167]: Textual amendment: Words in reg. 19 inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2020/74/regulation/13)
 
 [^M_C_939c7980-ef5b-4ee3-dfcb-1fdb4fea38c2]: Modification: Reg. 20(2) modified (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [14(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/1)[(2)(a)](https://www.legislation.gov.uk/nisr/2020/74/regulation/14/2/a)
 

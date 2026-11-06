@@ -61,12 +61,12 @@ These Regulations may be cited as the Civil Aviation (Access to Air Travel for D
 - “**the Articles**” means Articles 2 to 15 of the EC Regulation;
 - “**the CAA**” means the Civil Aviation Authority;
 - “**the EC Regulation**” means Regulation (EC) No.1107/2006 of the European Parliament and of the Council of 5th July 2006 concerning the rights of disabled persons and persons with reduced mobility when travelling by air [^c22232271];
-- [^key-fe637476fea3e2519a7de718bbce49d5]...
-- [^key-adc9a0f813b00c01ec25c7d4e46f3d8d]...
-- [^key-34ce15200083bad6ddc4f8c1edc5dfa3]...
-- [^key-81740efa72122c460ed7bfce2e71c6a8]...
-- [^key-b178da8713af41807d768fd3a546f8b2]...
-- [^key-4bb31dbcddf988da854368d15f48bf77]...
+- [^c-fe637476fea3e2519a7de718bbce49d5]...
+- [^c-adc9a0f813b00c01ec25c7d4e46f3d8d]...
+- [^c-34ce15200083bad6ddc4f8c1edc5dfa3]...
+- [^c-81740efa72122c460ed7bfce2e71c6a8]...
+- [^c-b178da8713af41807d768fd3a546f8b2]...
+- [^c-4bb31dbcddf988da854368d15f48bf77]...
 - “**the Montreal Convention**” means the Montreal Convention for the Unification of Certain Rules for International Carriage which was made on 28<sup>th</sup> May 1999 [^c22232291].
 
 (2) In these Regulations “air carrier”, “**airport**”, “**disabled person**”, “**managing body of an airport**”, “**operating air carrier**”, “**person with reduced mobility**” and “**tour operator**” have the same meaning as in the EC Regulation.
@@ -79,93 +79,93 @@ These Regulations may be cited as the Civil Aviation (Access to Air Travel for D
 
 (1) The CAA is the designated body for the purposes of Article 14 and it and any person authorised to act on its behalf are to have access at all reasonable times to any part of an airport or aircraft for the purposes of carrying out the CAA's function under that Article.
 
-(2)[^key-f02697490bf2d7509eca5b5feea50511] Subject to paragraphs (3) and (5), the CAA and the bodies listed in paragraph (4) are designated bodies for the purposes of Article 15(2).
+(2)[^c-f02697490bf2d7509eca5b5feea50511] Subject to paragraphs (3) and (5), the CAA and the bodies listed in paragraph (4) are designated bodies for the purposes of Article 15(2).
 
 (3) The General Consumer Council for Northern Ireland is the designated body for those purposes in respect of a complaint made under the EC Regulation relating to—
 
 - (a) an airport in Northern Ireland, or
 - (b) a flight departing from an airport in Northern Ireland.
 
-(4)[^key-cdc0286ef8caf07183d2406897de48ea] The bodies referred to in paragraph (2) are—
+(4)[^c-cdc0286ef8caf07183d2406897de48ea] The bodies referred to in paragraph (2) are—
 
 - (a) CEDR Services Limited (company registration number 03271988);
 - (b) Consumer Dispute Resolution Limited (company registration number 09189773).
 
 (5) The designation by paragraph (2) of a body listed in paragraph (4) only applies in so far as any contract entered into by that body with an operating air carrier provides for that body to deal with complaints made in accordance with Article 15(2) in relation to that carrier.
 
-## 5. Consultation[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 5. Consultation[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Request for consultation[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 6. Request for consultation[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Person to whom a request for consultation is to be made[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 7. Person to whom a request for consultation is to be made[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Address for service[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 8. Address for service[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Date of receipt of request[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 9. Date of receipt of request[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Applications[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 10. Applications[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Enforcement Orders[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 11. Enforcement Orders[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Interim Enforcement Orders[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 12. Interim Enforcement Orders[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Undertakings to the CAA[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 13. Undertakings to the CAA[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Further proceedings[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 14. Further proceedings[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Bodies corporate: orders[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 15. Bodies corporate: orders[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Information[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 16. Information[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Notices: procedure[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 17. Notices: procedure[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Notices: enforcement[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 18. Notices: enforcement[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Evidence[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 19. Evidence[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. General restriction[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 20. General restriction[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Consent[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 21. Consent[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Civil proceedings[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 22. Civil proceedings[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Criminal proceedings[^key-c72c4b06e230538cd439ea2d7a6f57e6]
+## 23. Criminal proceedings[^c-c72c4b06e230538cd439ea2d7a6f57e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -187,7 +187,7 @@ These Regulations may be cited as the Civil Aviation (Access to Air Travel for D
 
 (8) A court may consider any claim under this regulation which is out of time if, in all the circumstances of the case, it considers that it is just and equitable to do so.
 
-## 25. Review[^key-0983ecd6b2bd10ec5f5b841bc53b343c]
+## 25. Review[^c-0983ecd6b2bd10ec5f5b841bc53b343c]
 
 (1) The Secretary of State must from time to time—
 
@@ -242,26 +242,26 @@ An impact assessment of the effect that the instrument will have on the costs of
 
 [^c22232271]: Marginal citation: OJ No. L.204, 26.7.2006, p1.
 
-[^key-fe637476fea3e2519a7de718bbce49d5]: Textual amendment: Words in reg. 3(1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-fe637476fea3e2519a7de718bbce49d5]: Textual amendment: Words in reg. 3(1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-adc9a0f813b00c01ec25c7d4e46f3d8d]: Textual amendment: Words in reg. 3(1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/2/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-adc9a0f813b00c01ec25c7d4e46f3d8d]: Textual amendment: Words in reg. 3(1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/2/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-34ce15200083bad6ddc4f8c1edc5dfa3]: Textual amendment: Words in reg. 3(1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/2/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-34ce15200083bad6ddc4f8c1edc5dfa3]: Textual amendment: Words in reg. 3(1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/2/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-81740efa72122c460ed7bfce2e71c6a8]: Textual amendment: Words in reg. 3(1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(2)(d)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/2/d) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-81740efa72122c460ed7bfce2e71c6a8]: Textual amendment: Words in reg. 3(1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(2)(d)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/2/d) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-b178da8713af41807d768fd3a546f8b2]: Textual amendment: Words in reg. 3(1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(2)(e)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/2/e) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-b178da8713af41807d768fd3a546f8b2]: Textual amendment: Words in reg. 3(1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(2)(e)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/2/e) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-4bb31dbcddf988da854368d15f48bf77]: Textual amendment: Words in reg. 3(1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(2)(f)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/2/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-4bb31dbcddf988da854368d15f48bf77]: Textual amendment: Words in reg. 3(1) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(2)(f)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/2/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
 [^c22232291]: Marginal citation: Cm. 4651.
 
-[^key-f02697490bf2d7509eca5b5feea50511]: Textual amendment: Reg. 4(2) substituted (4.8.2016) by [The Civil Aviation (Denied Boarding, Compensation and Assistance and Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) (Amendment) Regulations 2016 (S.I. 2016/729)](https://www.legislation.gov.uk/uksi/2016/729), [regs. 1](https://www.legislation.gov.uk/uksi/2016/729/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/729/regulation/3/2/a)
+[^c-f02697490bf2d7509eca5b5feea50511]: Textual amendment: Reg. 4(2) substituted (4.8.2016) by [The Civil Aviation (Denied Boarding, Compensation and Assistance and Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) (Amendment) Regulations 2016 (S.I. 2016/729)](https://www.legislation.gov.uk/uksi/2016/729), [regs. 1](https://www.legislation.gov.uk/uksi/2016/729/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/729/regulation/3/2/a)
 
-[^key-cdc0286ef8caf07183d2406897de48ea]: Textual amendment: Reg. 4(4)(5) added (4.8.2016) by [The Civil Aviation (Denied Boarding, Compensation and Assistance and Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) (Amendment) Regulations 2016 (S.I. 2016/729)](https://www.legislation.gov.uk/uksi/2016/729), [regs. 1](https://www.legislation.gov.uk/uksi/2016/729/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/729/regulation/3/2/b)
+[^c-cdc0286ef8caf07183d2406897de48ea]: Textual amendment: Reg. 4(4)(5) added (4.8.2016) by [The Civil Aviation (Denied Boarding, Compensation and Assistance and Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) (Amendment) Regulations 2016 (S.I. 2016/729)](https://www.legislation.gov.uk/uksi/2016/729), [regs. 1](https://www.legislation.gov.uk/uksi/2016/729/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/729/regulation/3/2/b)
 
-[^key-c72c4b06e230538cd439ea2d7a6f57e6]: Textual amendment: [Regs. 5-23](https://www.legislation.gov.uk/uksi/2014/2833/regulation/5) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
+[^c-c72c4b06e230538cd439ea2d7a6f57e6]: Textual amendment: [Regs. 5-23](https://www.legislation.gov.uk/uksi/2014/2833/regulation/5) omitted (2.6.2020) by virtue of [The Consumer Protection (Enforcement) (Amendment etc.) Regulations 2020 (S.I. 2020/484)](https://www.legislation.gov.uk/uksi/2020/484), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/484/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/484/regulation/7/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2020/484/regulation/8))
 
-[^key-0983ecd6b2bd10ec5f5b841bc53b343c]: Textual amendment: Reg. 25 added (4.8.2016) by [The Civil Aviation (Denied Boarding, Compensation and Assistance and Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) (Amendment) Regulations 2016 (S.I. 2016/729)](https://www.legislation.gov.uk/uksi/2016/729), [regs. 1](https://www.legislation.gov.uk/uksi/2016/729/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2016/729/regulation/3/5)
+[^c-0983ecd6b2bd10ec5f5b841bc53b343c]: Textual amendment: Reg. 25 added (4.8.2016) by [The Civil Aviation (Denied Boarding, Compensation and Assistance and Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) (Amendment) Regulations 2016 (S.I. 2016/729)](https://www.legislation.gov.uk/uksi/2016/729), [regs. 1](https://www.legislation.gov.uk/uksi/2016/729/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2016/729/regulation/3/5)
 
 [^c22232381]: Marginal citation: OJ L No. 204, 26.7.06, p1.

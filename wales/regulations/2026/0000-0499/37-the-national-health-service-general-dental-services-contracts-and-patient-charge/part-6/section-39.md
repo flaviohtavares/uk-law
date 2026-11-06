@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Disqualification provisions[^key-693b1a07b2f95a68ec46fc5fd628cee7]
+## 39. Disqualification provisions[^c-693b1a07b2f95a68ec46fc5fd628cee7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-693b1a07b2f95a68ec46fc5fd628cee7]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2026/37/regulation/39) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-693b1a07b2f95a68ec46fc5fd628cee7]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2026/37/regulation/39) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

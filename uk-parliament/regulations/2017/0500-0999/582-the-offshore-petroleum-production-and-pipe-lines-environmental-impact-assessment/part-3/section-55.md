@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. New review regulation[^key-3e9988a7b8f006e6638cfab446320720]
+## 55. New review regulation[^c-3e9988a7b8f006e6638cfab446320720]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ After regulation 15 (service of notices), insert—
 
 ## Annotations
 
-[^key-3e9988a7b8f006e6638cfab446320720]: Commencement: Reg. 55 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-3e9988a7b8f006e6638cfab446320720]: Commencement: Reg. 55 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
 
 [^f00024]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26); section 30 was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), section 19.

@@ -33,17 +33,17 @@ of 18 July 2018
 
 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (revoked)
 
-[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART ONE — FINANCIAL REGULATION[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+### PART ONE — FINANCIAL REGULATION[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE I — SUBJECT MATTER, DEFINITIONS AND GENERAL PRINCIPLES[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE I — SUBJECT MATTER, DEFINITIONS AND GENERAL PRINCIPLES[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 4 — Periods, dates and time limits](section-article-4.md)
 - [Section Article 5 — Protection of personal data](section-article-5.md)
 
-#### TITLE II — BUDGET AND BUDGETARY PRINCIPLES[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE II — BUDGET AND BUDGETARY PRINCIPLES[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,7 +63,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 
 - [Section Article 6 — Respect for budgetary principles](section-article-6.md)
 
-##### CHAPTER 1 — Principles of unity and of budgetary accuracy[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 1 — Principles of unity and of budgetary accuracy[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,7 +72,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 7 — Scope of the budget](section-article-7.md)
 - [Section Article 8 — Specific rules on the principles of unity and budgetary accuracy](section-article-8.md)
 
-##### CHAPTER 2 — Principle of annuality[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 2 — Principle of annuality[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,7 +87,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 15 — Making appropriations corresponding to decommitments available again](section-article-15.md)
 - [Section Article 16 — Rules applicable in the event of late adoption of the budget](section-article-16.md)
 
-##### CHAPTER 3 — Principle of equilibrium[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 3 — Principle of equilibrium[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,7 +96,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 17 — Definition and scope](section-article-17.md)
 - [Section Article 18 — Balance from financial year](section-article-18.md)
 
-##### CHAPTER 4 — Principle of unit of account[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 4 — Principle of unit of account[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,7 +104,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 
 - [Section Article 19 — Use of euro](section-article-19.md)
 
-##### CHAPTER 5 — Principle of universality[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 5 — Principle of universality[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,7 +119,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 26 — Corporate sponsorship](section-article-26.md)
 - [Section Article 27 — Rules on deductions and exchange rate adjustments](section-article-27.md)
 
-##### CHAPTER 6 — Principle of specification[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 6 — Principle of specification[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -131,7 +131,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 31 — Transfer proposals submitted to the European Parliament and to the Council by Union institutions](section-article-31.md)
 - [Section Article 32 — Transfers subject to special provisions](section-article-32.md)
 
-##### CHAPTER 7 — Principle of sound financial management and performance[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 7 — Principle of sound financial management and performance[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -142,7 +142,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 35 — Compulsory financial statement](section-article-35.md)
 - [Section Article 36 — Internal control of budget implementation](section-article-36.md)
 
-##### CHAPTER 8 — Principle of transparency[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 8 — Principle of transparency[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -151,13 +151,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 37 — Publication of accounts and budgets](section-article-37.md)
 - [Section Article 38 — Publication of information on recipients and other information](section-article-38.md)
 
-#### TITLE III — ESTABLISHMENT AND STRUCTURE OF THE BUDGET[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE III — ESTABLISHMENT AND STRUCTURE OF THE BUDGET[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Establishment of the budget[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 1 — Establishment of the budget[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -171,7 +171,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 44 — Draft amending budgets](section-article-44.md)
 - [Section Article 45 — Early transmission of estimates and draft budgets](section-article-45.md)
 
-##### CHAPTER 2 — Structure and presentation of the budget[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 2 — Structure and presentation of the budget[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -186,7 +186,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 52 — Presentation of the budget](section-article-52.md)
 - [Section Article 53 — Rules on the establishment plans for staff](section-article-53.md)
 
-##### CHAPTER 3 — Budgetary discipline[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 3 — Budgetary discipline[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -195,13 +195,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 54 — Compliance with the multiannual financial framework and Decision 2014/335/EU, Euratom](section-article-54.md)
 - [Section Article 55 — Compliance of Union acts with the budget](section-article-55.md)
 
-#### TITLE IV — BUDGET IMPLEMENTATION[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE IV — BUDGET IMPLEMENTATION[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — General provisions[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 1 — General provisions[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -214,7 +214,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 60 — Delegation of budget implementation powers](section-article-60.md)
 - [Section Article 61 — Conflict of interests](section-article-61.md)
 
-##### CHAPTER 2 — Methods of implementation[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 2 — Methods of implementation[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -223,13 +223,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 62 — Methods of budget implementation](section-article-62.md)
 - [Section Article 63 — Shared management with Member States](section-article-63.md)
 
-##### CHAPTER 3 — European offices and Union bodies[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 3 — European offices and Union bodies[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — European offices[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 1 — European offices[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -240,7 +240,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 66 — Non-obligatory tasks](section-article-66.md)
 - [Section Article 67 — Accounting records of European offices](section-article-67.md)
 
-###### Section 2 — Agencies and Union bodies[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 2 — Agencies and Union bodies[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -251,13 +251,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 70 — Bodies set up under the TFEU and the Euratom Treaty](section-article-70.md)
 - [Section Article 71 — Public-private partnership bodies](section-article-71.md)
 
-##### CHAPTER 4 — Financial actors[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 4 — Financial actors[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — Principle of segregation of duties[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 1 — Principle of segregation of duties[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -265,7 +265,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 
 - [Section Article 72 — Segregation of duties](section-article-72.md)
 
-###### Section 2 — Authorising officer[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 2 — Authorising officer[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -276,7 +276,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 75 — Keeping of supporting documents by authorising officers](section-article-75.md)
 - [Section Article 76 — Powers and duties of Heads of Union Delegations](section-article-76.md)
 
-###### Section 3 — Accounting officer[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 3 — Accounting officer[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -294,7 +294,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 86 — Treasury management](section-article-86.md)
 - [Section Article 87 — The inventory of assets](section-article-87.md)
 
-###### Section 4 — Imprest administrator[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 4 — Imprest administrator[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -303,13 +303,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 88 — Imprest accounts](section-article-88.md)
 - [Section Article 89 — Creation and administration of imprest accounts](section-article-89.md)
 
-##### CHAPTER 5 — Liability of financial actors[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 5 — Liability of financial actors[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — General rules[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 1 — General rules[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -318,7 +318,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 90 — Withdrawal of delegation of powers to and suspension of duties of financial actors](section-article-90.md)
 - [Section Article 91 — Liability of financial actors for illegal activity, fraud or corruption](section-article-91.md)
 
-###### Section 2 — Rules applicable to authorising officers responsible[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 2 — Rules applicable to authorising officers responsible[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -327,7 +327,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 92 — Rules applicable to authorising officers](section-article-92.md)
 - [Section Article 93 — Treatment of financial irregularities on the part of a member of staff](section-article-93.md)
 
-###### Section 3 — Rules applicable to accounting officers and imprest administrators[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 3 — Rules applicable to accounting officers and imprest administrators[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -336,13 +336,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 94 — Rules applicable to accounting officers](section-article-94.md)
 - [Section Article 95 — Rules applicable to imprest administrators](section-article-95.md)
 
-##### CHAPTER 6 — Revenue operations[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 6 — Revenue operations[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — Making own resources available[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 1 — Making own resources available[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -350,7 +350,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 
 - [Section Article 96 — Own resources](section-article-96.md)
 
-###### Section 2 — Estimate of amounts receivable[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 2 — Estimate of amounts receivable[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -358,7 +358,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 
 - [Section Article 97 — Estimate of amounts receivable](section-article-97.md)
 
-###### Section 3 — Establishment of amounts receivable[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 3 — Establishment of amounts receivable[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -367,7 +367,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 98 — Establishment of amounts receivable](section-article-98.md)
 - [Section Article 99 — Default interest](section-article-99.md)
 
-###### Section 4 — Authorisation of recovery[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 4 — Authorisation of recovery[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -375,7 +375,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 
 - [Section Article 100 — Authorisation of recovery](section-article-100.md)
 
-###### Section 5 — Recovery[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 5 — Recovery[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -391,7 +391,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 108 — Recovery of fines, other penalties or sanctions imposed by Union institutions](section-article-108.md)
 - [Section Article 109 — Compensatory interests](section-article-109.md)
 
-##### CHAPTER 7 — Expenditure operations[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 7 — Expenditure operations[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -405,7 +405,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 115 — Types of payments](section-article-115.md)
 - [Section Article 116 — Time limits for payments](section-article-116.md)
 
-##### CHAPTER 8 — Internal auditor[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 8 — Internal auditor[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -419,13 +419,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 122 — Action before the Court of Justice of the European Union](section-article-122.md)
 - [Section Article 123 — Internal audit progress committees](section-article-123.md)
 
-#### TITLE V — COMMON RULES[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE V — COMMON RULES[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Rules applicable to direct, indirect and shared management[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 1 — Rules applicable to direct, indirect and shared management[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -438,13 +438,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 128 — Use of already available information](section-article-128.md)
 - [Section Article 129 — Cooperation for protection of the financial interests of the Union](section-article-129.md)
 
-##### CHAPTER 2 — Rules applicable to direct and indirect management[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 2 — Rules applicable to direct and indirect management[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — Rules on procedures and management[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 1 — Rules on procedures and management[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -456,7 +456,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 133 — Adversarial procedure and means of redress](section-article-133.md)
 - [Section Article 134 — Interest rate rebates and guarantee fee subsidies](section-article-134.md)
 
-###### Section 2 — Early-detection and exclusion system[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 2 — Early-detection and exclusion system[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -474,7 +474,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 144 — Functioning of the database for the early-detection and exclusion system](section-article-144.md)
 - [Section Article 145 — Exception applicable to the Joint Research Centre](section-article-145.md)
 
-###### Section 3 — IT systems and e-government[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 3 — IT systems and e-government[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -485,7 +485,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 148 — Electronic exchange systems](section-article-148.md)
 - [Section Article 149 — Submission of application documents](section-article-149.md)
 
-##### CHAPTER 3 — Rules applicable to direct management[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 3 — Rules applicable to direct management[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -496,7 +496,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 152 — Guarantees](section-article-152.md)
 - [Section Article 153 — Guarantee on pre-financing](section-article-153.md)
 
-#### TITLE VI — INDIRECT MANAGEMENT[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE VI — INDIRECT MANAGEMENT[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -509,13 +509,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 158 — Indirect management with third countries](section-article-158.md)
 - [Section Article 159 — Blending operations](section-article-159.md)
 
-#### TITLE VII — PROCUREMENT AND CONCESSIONS[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE VII — PROCUREMENT AND CONCESSIONS[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Common provisions[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 1 — Common provisions[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -536,7 +536,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 172 — Performance and modifications of the contract](section-article-172.md)
 - [Section Article 173 — Performance guarantees and retention money guarantees](section-article-173.md)
 
-##### CHAPTER 2 — Provisions applicable to contracts awarded by Union institutions on their own account[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 2 — Provisions applicable to contracts awarded by Union institutions on their own account[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -547,7 +547,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 176 — Rules on access to procurement](section-article-176.md)
 - [Section Article 177 — Procurement rules of the World Trade Organisation](section-article-177.md)
 
-##### CHAPTER 3 — Provisions applicable for procurement in the field of external actions[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 3 — Provisions applicable for procurement in the field of external actions[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -556,13 +556,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 178 — External action procurement](section-article-178.md)
 - [Section Article 179 — Rules on access to procurement in the field of external actions](section-article-179.md)
 
-#### TITLE VIII — GRANTS[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE VIII — GRANTS[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Scope and form of grants[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 1 — Scope and form of grants[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -577,7 +577,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 186 — Eligible costs](section-article-186.md)
 - [Section Article 187 — Affiliated entities and sole beneficiary](section-article-187.md)
 
-##### CHAPTER 2 — Principles[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 2 — Principles[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -590,7 +590,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 192 — No-profit principle](section-article-192.md)
 - [Section Article 193 — Principle of non-retroactivity](section-article-193.md)
 
-##### CHAPTER 3 — Grant award procedure and grant agreement[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 3 — Grant award procedure and grant agreement[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -605,7 +605,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 200 — Evaluation procedure](section-article-200.md)
 - [Section Article 201 — Grant agreement](section-article-201.md)
 
-##### CHAPTER 4 — Implementation of grants[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 4 — Implementation of grants[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -616,7 +616,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 204 — Financial support to third parties](section-article-204.md)
 - [Section Article 205 — Implementation contracts](section-article-205.md)
 
-#### TITLE IX — PRIZES[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE IX — PRIZES[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -625,13 +625,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 206 — General rules](section-article-206.md)
 - [Section Article 207 — Rules of contest, award and publication](section-article-207.md)
 
-#### TITLE X — FINANCIAL INSTRUMENTS, BUDGETARY GUARANTEES AND FINANCIAL ASSISTANCE[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE X — FINANCIAL INSTRUMENTS, BUDGETARY GUARANTEES AND FINANCIAL ASSISTANCE[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Common provisions[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 1 — Common provisions[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -645,13 +645,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 213 — Effective provisioning rate](section-article-213.md)
 - [Section Article 214 — Annual reporting](section-article-214.md)
 
-##### CHAPTER 2 — Specific provisions[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 2 — Specific provisions[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — Financial instruments[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 1 — Financial instruments[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -661,7 +661,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 216 — Financial instruments directly implemented by the Commission](section-article-216.md)
 - [Section Article 217 — Treatment of contributions from funds implemented under shared management](section-article-217.md)
 
-###### Section 2 — Budgetary guarantees[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 2 — Budgetary guarantees[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -670,7 +670,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 218 — Rules for budgetary guarantees](section-article-218.md)
 - [Section Article 219 — Implementation of budgetary guarantees](section-article-219.md)
 
-###### Section 3 — Financial assistance[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 3 — Financial assistance[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -678,7 +678,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 
 - [Section Article 220 — Rules and implementation](section-article-220.md)
 
-#### TITLE XI — CONTRIBUTIONS TO EUROPEAN POLITICAL PARTIES[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE XI — CONTRIBUTIONS TO EUROPEAN POLITICAL PARTIES[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -698,7 +698,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 232 — Record keeping](section-article-232.md)
 - [Section Article 233 — Selection of external audit bodies or experts](section-article-233.md)
 
-#### TITLE XII — OTHER BUDGET IMPLEMENTATION INSTRUMENTS[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE XII — OTHER BUDGET IMPLEMENTATION INSTRUMENTS[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -712,19 +712,19 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 239 — Membership fees and other payments of subscriptions](section-article-239.md)
 - [Section Article 240 — Expenditure on the members and staff of Union institutions](section-article-240.md)
 
-#### TITLE XIII — ANNUAL ACCOUNTS AND OTHER FINANCIAL REPORTING[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE XIII — ANNUAL ACCOUNTS AND OTHER FINANCIAL REPORTING[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — Annual accounts[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 1 — Annual accounts[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — Accounting framework[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 1 — Accounting framework[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -734,7 +734,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 242 — Supporting documents](section-article-242.md)
 - [Section Article 243 — Financial statements](section-article-243.md)
 
-###### Section 2 — Budget implementation reports[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 2 — Budget implementation reports[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -742,7 +742,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 
 - [Section Article 244 — Budget implementation reports](section-article-244.md)
 
-###### Section 3 — Annual accounts timetable[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+###### Section 3 — Annual accounts timetable[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -751,7 +751,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 245 — Provisional accounts](section-article-245.md)
 - [Section Article 246 — Approval of the final consolidated accounts](section-article-246.md)
 
-##### CHAPTER 2 — Integrated financial and accountability reporting[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 2 — Integrated financial and accountability reporting[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -759,7 +759,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 
 - [Section Article 247 — Integrated financial and accountability reporting](section-article-247.md)
 
-##### CHAPTER 3 — Budgetary and other financial reporting[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 3 — Budgetary and other financial reporting[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -772,13 +772,13 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 252 — Reporting on Union trust funds for external actions](section-article-252.md)
 - [Section Article 253 — Publication of information on recipients](section-article-253.md)
 
-#### TITLE XIV — EXTERNAL AUDIT AND DISCHARGE[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE XIV — EXTERNAL AUDIT AND DISCHARGE[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### CHAPTER 1 — External audit[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 1 — External audit[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -791,7 +791,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 258 — Annual report of the Court of Auditors](section-article-258.md)
 - [Section Article 259 — Special reports of the Court of Auditors](section-article-259.md)
 
-##### CHAPTER 2 — Discharge[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+##### CHAPTER 2 — Discharge[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -802,7 +802,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 262 — Follow-up measures](section-article-262.md)
 - [Section Article 263 — Specific provisions regarding the EEAS](section-article-263.md)
 
-#### TITLE XV — ADMINISTRATIVE APPROPRIATIONS[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE XV — ADMINISTRATIVE APPROPRIATIONS[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -813,7 +813,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 266 — Specific provisions regarding building projects](section-article-266.md)
 - [Section Article 267 — Early information procedure and prior approval procedure](section-article-267.md)
 
-#### TITLE XVI — INFORMATION REQUESTS AND DELEGATED ACTS[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+#### TITLE XVI — INFORMATION REQUESTS AND DELEGATED ACTS[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -822,7 +822,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 268 — Information requests by the European Parliament and by the Council](section-article-268.md)
 - [Section Article 269 — Exercise of the delegation](section-article-269.md)
 
-### PART TWO — AMENDMENTS TO SECTOR-SPECIFIC RULES[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+### PART TWO — AMENDMENTS TO SECTOR-SPECIFIC RULES[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -838,7 +838,7 @@ on the financial rules applicable to the general budget of the Union, amending R
 - [Section Article 277 — Amendments to Regulation (EU) No 283/2014](section-article-277.md)
 - [Section Article 278 — Amendment to Decision No 541/2014/EU](section-article-278.md)
 
-### PART THREE — FINAL AND TRANSITIONAL PROVISIONS[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]
+### PART THREE — FINAL AND TRANSITIONAL PROVISIONS[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]
 
 *Extent: E+W+S+N.I.*
 
@@ -856,8 +856,8 @@ on the financial rules applicable to the general budget of the Union, amending R
 
 **No longer in force.**
 
-[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa9bca3e43bbfbb4daf55a5dd8e2874c]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(l)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/l); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa9bca3e43bbfbb4daf55a5dd8e2874c]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(l)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/l); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

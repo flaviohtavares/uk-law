@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Power of members of staff of further education institutions to use force[^key-511b1f77221a99888bd0abb5357200ab]
+## 165. Power of members of staff of further education institutions to use force[^c-511b1f77221a99888bd0abb5357200ab]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ After section 85B of the Further and Higher Education Act 1992 (c. 13) insert—
 
 ## Annotations
 
-[^key-511b1f77221a99888bd0abb5357200ab]: Commencement: S. 165 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/935/article/4/b)
+[^c-511b1f77221a99888bd0abb5357200ab]: Commencement: S. 165 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/935/article/4/b)

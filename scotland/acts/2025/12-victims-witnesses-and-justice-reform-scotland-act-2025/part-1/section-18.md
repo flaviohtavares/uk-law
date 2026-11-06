@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Annual Report[^key-8beb6bde606f26b533d0047c9cd71898]
+## 18. Annual Report[^c-8beb6bde606f26b533d0047c9cd71898]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ not less than 5 days before publishing the report under subsection (1)(a).
 
 ## Annotations
 
-[^key-8beb6bde606f26b533d0047c9cd71898]: Commencement: S. 18 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-8beb6bde606f26b533d0047c9cd71898]: Commencement: S. 18 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

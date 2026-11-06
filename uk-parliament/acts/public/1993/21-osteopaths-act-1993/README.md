@@ -33,7 +33,7 @@ An Act to establish a body to be known as the General Osteopathic Council; to pr
 
 \[1st July 1993\] [^c10494611]
 
-[^c10494621][^c10494631]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-691fa13cd70defb2edcde2b664e80026]
+[^c10494621][^c10494631]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-691fa13cd70defb2edcde2b664e80026]
 
 ## Contents
 
@@ -134,4 +134,4 @@ An Act to establish a body to be known as the General Osteopathic Council; to pr
 
 [^c10494631]: Modification: Act: power to modify conferred (15.3.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 60(2)](https://www.legislation.gov.uk/ukpga/1999/8/section/60/2); [S.I. 2000/779](https://www.legislation.gov.uk/uksi/2000/779), [art. 2](https://www.legislation.gov.uk/uksi/2000/779/article/2)
 
-[^key-691fa13cd70defb2edcde2b664e80026]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-691fa13cd70defb2edcde2b664e80026]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

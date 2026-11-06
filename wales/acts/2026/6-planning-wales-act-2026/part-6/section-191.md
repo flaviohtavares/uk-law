@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 191. Powers of entry[^key-5b006c68a9c32f75d7ef60b59be9625e]
+## 191. Powers of entry[^c-5b006c68a9c32f75d7ef60b59be9625e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b006c68a9c32f75d7ef60b59be9625e]: Commencement: S. 191 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5b006c68a9c32f75d7ef60b59be9625e]: Commencement: S. 191 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

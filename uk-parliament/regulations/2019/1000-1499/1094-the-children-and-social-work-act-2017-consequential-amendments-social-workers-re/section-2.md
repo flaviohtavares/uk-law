@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Consequential amendments[^key-6c28fea4a3c98c756ba9984099aa49ab]
+## 2. Consequential amendments[^c-6c28fea4a3c98c756ba9984099aa49ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ The following have effect—
 
 ## Annotations
 
-[^key-6c28fea4a3c98c756ba9984099aa49ab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/1094/regulation/2) in force at 2.12.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1)
+[^c-6c28fea4a3c98c756ba9984099aa49ab]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/1094/regulation/2) in force at 2.12.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254); the Order was re-named by section 213(4) and (6) of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), and by paragraphs 45 and 46 of Schedule 5 to the Act. The Orders of Council make provision about the functioning of the Health and Care Professions Council.
 

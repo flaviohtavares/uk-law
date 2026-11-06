@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 69. Amendment of pastoral (church buildings disposal) schemes and provisions[^key-68a33f067549000a8f3a72d42b541575]
+## 69. Amendment of pastoral (church buildings disposal) schemes and provisions[^c-68a33f067549000a8f3a72d42b541575]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ Before preparing a draft of such a scheme the Commissioners shall consult the Tr
 
 ## Annotations
 
-[^key-68a33f067549000a8f3a72d42b541575]: Commencement: S. 69 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-68a33f067549000a8f3a72d42b541575]: Commencement: S. 69 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

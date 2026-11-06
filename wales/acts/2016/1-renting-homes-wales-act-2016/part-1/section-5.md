@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Overview of Parts 3 to 9: operation and termination of occupation contracts[^key-45638efaef4e351ddc19cac667a44c89]
+## 5. Overview of Parts 3 to 9: operation and termination of occupation contracts[^c-45638efaef4e351ddc19cac667a44c89]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45638efaef4e351ddc19cac667a44c89]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2016/1/section/5) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-45638efaef4e351ddc19cac667a44c89]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2016/1/section/5) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

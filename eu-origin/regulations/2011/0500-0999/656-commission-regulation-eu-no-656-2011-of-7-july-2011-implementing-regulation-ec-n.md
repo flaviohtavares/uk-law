@@ -35,20 +35,20 @@ implementing Regulation (EC) No 1185/2009 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-f0bd30fd9d5de4993291d46691e66c4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0bd30fd9d5de4993291d46691e66c4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f0bd30fd9d5de4993291d46691e66c4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f0bd30fd9d5de4993291d46691e66c4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f0bd30fd9d5de4993291d46691e66c4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f0bd30fd9d5de4993291d46691e66c4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-f0bd30fd9d5de4993291d46691e66c4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-f0bd30fd9d5de4993291d46691e66c4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0bd30fd9d5de4993291d46691e66c4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0bd30fd9d5de4993291d46691e66c4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-f0bd30fd9d5de4993291d46691e66c4b]
+## ANNEX[^c-f0bd30fd9d5de4993291d46691e66c4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0bd30fd9d5de4993291d46691e66c4b]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 192](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/192); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f0bd30fd9d5de4993291d46691e66c4b]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 192](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/192); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

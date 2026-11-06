@@ -72,18 +72,18 @@ Sections 231 and 234.
 
 #### Appeals
 
-**4.** (1) Where the Board serve notice on an electing participator under paragraph 3 above rejecting an election, he may appeal [^key-a2d8961e30439c72449ff1631fef7de9]... against the notice.
+**4.** (1) Where the Board serve notice on an electing participator under paragraph 3 above rejecting an election, he may appeal [^c-a2d8961e30439c72449ff1631fef7de9]... against the notice.
 
 (2) An appeal under sub-paragraph (1) above shall be made by notice of appeal served on the Board within thirty days beginning on the date of the notice in respect of which the appeal is brought.
 
-(3) Where, at any time after the service of notice of appeal under this paragraph and before the determination of the appeal by the tribunal[^key-bff4cb81715f939ebb63a3b4b32b6502] , the Board and the appellant agree that the notice in respect of which the appeal is brought should stand or that the election to which it related should be accepted with or without modification, the same consequences shall ensue as if the tribunal had determined the appeal to that effect.
+(3) Where, at any time after the service of notice of appeal under this paragraph and before the determination of the appeal by the tribunal[^c-bff4cb81715f939ebb63a3b4b32b6502] , the Board and the appellant agree that the notice in respect of which the appeal is brought should stand or that the election to which it related should be accepted with or without modification, the same consequences shall ensue as if the tribunal had determined the appeal to that effect.
 
-(4) On the hearing of an appeal under this paragraph, the tribunal[^key-6bb361c32a4f034f507b0a8fb0edf4a4] shall either dismiss the appeal or allow it; and if the tribunal allows[^key-3a2cfe961472c0f92dc45d24db2eb7de] the appeal, the tribunal shall[^key-d0c81c66c1afe3938b9fead13bd0df81] direct either—
+(4) On the hearing of an appeal under this paragraph, the tribunal[^c-6bb361c32a4f034f507b0a8fb0edf4a4] shall either dismiss the appeal or allow it; and if the tribunal allows[^c-3a2cfe961472c0f92dc45d24db2eb7de] the appeal, the tribunal shall[^c-d0c81c66c1afe3938b9fead13bd0df81] direct either—
 
 - (a) that the election shall be accepted; or
 - (b) that the election shall have effect subject to such modifications as may be specified in the direction and shall be accepted in its modified form.
 
-(5)[^key-001243f1c816fbe7a51bad1d86036987] In an appeal under sub-paragraph (1)—
+(5)[^c-001243f1c816fbe7a51bad1d86036987] In an appeal under sub-paragraph (1)—
 
 - (a) paragraphs 14(2), (8) and (11) and 14A to 14I of Schedule 2 to the principal Act shall apply as they apply in relation to an appeal against an assessment or determination made under that Act subject to any necessary modifications including the following;
 - (b) any reference in those paragraphs to an agreement under paragraph 14(9) shall be construed as a reference to an agreement under sub-paragraph (3) above.
@@ -136,32 +136,32 @@ the election shall be treated as having been made and accepted subject to such m
 (5) A notice served under sub-paragraph (2) or sub-paragraph (4) above shall become effective either—
 
 - (a) on the expiry of the period during which notice of appeal against the notice may be served on the Board under paragraph 8 below without such notice of appeal being served; or
-- (b) where such notice of appeal is served, when the notice can no longer be varied or quashed by the tribunal[^key-928774ab4a6de229b7d2f3972c3ce7ac] or by the order of any court.
+- (b) where such notice of appeal is served, when the notice can no longer be varied or quashed by the tribunal[^c-928774ab4a6de229b7d2f3972c3ce7ac] or by the order of any court.
 
 #### Appeals against re-opening notices
 
 **8.** (1) This paragraph applies where the Board serve notice under sub-paragraph (2) or sub-paragraph (4) of paragraph 7 above; and in the following provisions of this paragraph such a notice is referred to as a “re-opening notice”.
 
-(2) The electing participator may, by notice of appeal served on the Board within thirty days beginning on the date of the re-opening notice, appeal [^key-739847de81d36215c736492fdc127569]... against the re-opening notice.
+(2) The electing participator may, by notice of appeal served on the Board within thirty days beginning on the date of the re-opening notice, appeal [^c-739847de81d36215c736492fdc127569]... against the re-opening notice.
 
 (3) A notice of appeal under sub-paragraph (2) above shall state the grounds on which the appeal is brought.
 
-(4) An appeal under this paragraph may at any time before it is notified to the tribunal[^key-ebef0a28b68580da71bc9679a85fa921] be abandoned by notice served on the Board by the electing participator.
+(4) An appeal under this paragraph may at any time before it is notified to the tribunal[^c-ebef0a28b68580da71bc9679a85fa921] be abandoned by notice served on the Board by the electing participator.
 
 (5) A re-opening notice may be withdrawn at any time before it becomes effective.
 
 (6) In any case where—
 
 - (a) the electing participator serves notice of appeal against a re-opening notice served under sub-paragraph (4) of paragraph 7 above, and
-- (b) before the appeal is determined by the tribunal[^key-fcd2d5b2bf3472ba55df2d85e94b3296] , the Board and the electing participator agree as to the modifications necessary to correct the effect of the error concerned,
+- (b) before the appeal is determined by the tribunal[^c-fcd2d5b2bf3472ba55df2d85e94b3296] , the Board and the electing participator agree as to the modifications necessary to correct the effect of the error concerned,
 
 the re-opening notice shall take effect subject to such modifications as may be necessary to give effect to that agreement; and thereupon the appeal shall be treated as having been abandoned.
 
-(7) Subject to sub-paragraph (8) below, on an appeal against a re-opening notice the tribunal[^key-a96f01ca76ff3e24eaf57ba6d4378c79] may vary the notice, quash the notice or dismiss the appeal; and the notice may be varied whether or not the variation is to the advantage of the electing participator.
+(7) Subject to sub-paragraph (8) below, on an appeal against a re-opening notice the tribunal[^c-a96f01ca76ff3e24eaf57ba6d4378c79] may vary the notice, quash the notice or dismiss the appeal; and the notice may be varied whether or not the variation is to the advantage of the electing participator.
 
 (8) The provisions relating to the variation of a re-opening notice referred to in sub-paragraph (7) above shall not apply in respect of any such notice served under sub-paragraph (2) of paragraph 7 above.
 
-(9)[^key-d818d0c0d00be8d7720cf0bc30d1b4e5] In an appeal under sub-paragraph (2)—
+(9)[^c-d818d0c0d00be8d7720cf0bc30d1b4e5] In an appeal under sub-paragraph (2)—
 
 - (a) paragraphs 14A to 14I of Schedule 2 to the principal Act shall apply as they apply in relation to an appeal against an assessment or determination made under that Act subject to any necessary modifications including the following;
 - (b) any reference in those paragraphs to an agreement under paragraph 14(9) shall be construed as a reference to an agreement under sub-paragraph (6) above.
@@ -231,29 +231,29 @@ the re-opening notice shall take effect subject to such modifications as may be 
 
 ## Annotations
 
-[^key-a2d8961e30439c72449ff1631fef7de9]: Textual amendment: Words in Sch. 22 para. 4(1) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 211(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/211/2)
+[^c-a2d8961e30439c72449ff1631fef7de9]: Textual amendment: Words in Sch. 22 para. 4(1) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 211(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/211/2)
 
-[^key-bff4cb81715f939ebb63a3b4b32b6502]: Textual amendment: Word in Sch. 22 para. 4(3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 211(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/211/3)
+[^c-bff4cb81715f939ebb63a3b4b32b6502]: Textual amendment: Word in Sch. 22 para. 4(3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 211(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/211/3)
 
-[^key-6bb361c32a4f034f507b0a8fb0edf4a4]: Textual amendment: Word in Sch. 22 para. 4(4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 211(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/211/4/a)
+[^c-6bb361c32a4f034f507b0a8fb0edf4a4]: Textual amendment: Word in Sch. 22 para. 4(4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 211(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/211/4/a)
 
-[^key-3a2cfe961472c0f92dc45d24db2eb7de]: Textual amendment: Words in Sch. 22 para. 4(4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 211(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/211/4/b)
+[^c-3a2cfe961472c0f92dc45d24db2eb7de]: Textual amendment: Words in Sch. 22 para. 4(4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 211(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/211/4/b)
 
-[^key-d0c81c66c1afe3938b9fead13bd0df81]: Textual amendment: Words in Sch. 22 para. 4(4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 211(4)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/211/4/c)
+[^c-d0c81c66c1afe3938b9fead13bd0df81]: Textual amendment: Words in Sch. 22 para. 4(4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 211(4)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/211/4/c)
 
-[^key-001243f1c816fbe7a51bad1d86036987]: Textual amendment: Sch. 22 para. 4(5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 211(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/211/5)
+[^c-001243f1c816fbe7a51bad1d86036987]: Textual amendment: Sch. 22 para. 4(5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 211(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/211/5)
 
-[^key-928774ab4a6de229b7d2f3972c3ce7ac]: Textual amendment: Word in Sch. 22 para. 7(5)(b) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 212](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/212)
+[^c-928774ab4a6de229b7d2f3972c3ce7ac]: Textual amendment: Word in Sch. 22 para. 7(5)(b) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 212](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/212)
 
-[^key-739847de81d36215c736492fdc127569]: Textual amendment: Words in Sch. 22 para. 8(2) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 213(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/213/2)
+[^c-739847de81d36215c736492fdc127569]: Textual amendment: Words in Sch. 22 para. 8(2) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 213(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/213/2)
 
-[^key-ebef0a28b68580da71bc9679a85fa921]: Textual amendment: Words in Sch. 22 para. 8(4) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 213(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/213/3)
+[^c-ebef0a28b68580da71bc9679a85fa921]: Textual amendment: Words in Sch. 22 para. 8(4) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 213(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/213/3)
 
-[^key-fcd2d5b2bf3472ba55df2d85e94b3296]: Textual amendment: Word in Sch. 22 para. 8(6)(b) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 213(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/213/4)
+[^c-fcd2d5b2bf3472ba55df2d85e94b3296]: Textual amendment: Word in Sch. 22 para. 8(6)(b) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 213(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/213/4)
 
-[^key-a96f01ca76ff3e24eaf57ba6d4378c79]: Textual amendment: Word in Sch. 22 para. 8(7) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 213(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/213/4)
+[^c-a96f01ca76ff3e24eaf57ba6d4378c79]: Textual amendment: Word in Sch. 22 para. 8(7) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 213(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/213/4)
 
-[^key-d818d0c0d00be8d7720cf0bc30d1b4e5]: Textual amendment: Sch. 22 para. 8(9) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 213(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/213/5)
+[^c-d818d0c0d00be8d7720cf0bc30d1b4e5]: Textual amendment: Sch. 22 para. 8(9) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 213(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/213/5)
 
 [^c14461521]: Marginal citation: [1980 c. 48](https://www.legislation.gov.uk/ukpga/1980/48).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Duty of company to notify recognised investment exchange of certain matters concerning directors notified to the company[^key-a153473292ac91e14b4034b4b9badc9d]
+## 20. Duty of company to notify recognised investment exchange of certain matters concerning directors notified to the company[^c-a153473292ac91e14b4034b4b9badc9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a153473292ac91e14b4034b4b9badc9d]: Commencement: Art. 20 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a153473292ac91e14b4034b4b9badc9d]: Commencement: Art. 20 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00024]: Footnote: Amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), Schedule 16, paragraph 20.

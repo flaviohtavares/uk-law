@@ -22,15 +22,15 @@ summary: ''
 
 Regulation 4
 
-**1.**[^key-28cce73d0e0511e724b6fb6b42e6d0af] After Article 127 of the REACH Regulation insert—
+**1.**[^c-28cce73d0e0511e724b6fb6b42e6d0af] After Article 127 of the REACH Regulation insert—
 
 > **TITLE 14A — EU withdrawal: transitional provision**
 >
-> **Article 127A — Existing EU registrations which have effect as GB registrations[^key-f1d2f7e9fc9ed7e717271cd0b87046af]**
+> **Article 127A — Existing EU registrations which have effect as GB registrations[^c-f1d2f7e9fc9ed7e717271cd0b87046af]**
 >
-> **1.** An existing EU registration under Articles 6, 7(1), 7(5) or 24(1) of EU REACH has effect on and after IP completion day[^key-5e6c0e6f8ca3e0493ad41a6dd402ac73] as a GB registration (the “transferred GB registration”) if the registration—
+> **1.** An existing EU registration under Articles 6, 7(1), 7(5) or 24(1) of EU REACH has effect on and after IP completion day[^c-5e6c0e6f8ca3e0493ad41a6dd402ac73] as a GB registration (the “transferred GB registration”) if the registration—
 >
-> - (a) has a current connection with Great Britain[^key-0b310f81ff2844ad3898766fa02e1024], or
+> - (a) has a current connection with Great Britain[^c-0b310f81ff2844ad3898766fa02e1024], or
 > - (b) has a relevant past connection with Great Britain (but does not have a current connection with Great Britain).
 >
 > **2.** A registration has a current connection with Great Britain if—
@@ -40,7 +40,7 @@ Regulation 4
 >
 > **3.** A registration has a relevant past connection with Great Britain if—
 >
-> - (a) the registrant at any time in the period beginning with 29 March 2017 and ending immediately[^key-424db793175c4a8ed09162699ff0c712] before IP completion day was a person established in Great Britain (a “former GB registrant”), and
+> - (a) the registrant at any time in the period beginning with 29 March 2017 and ending immediately[^c-424db793175c4a8ed09162699ff0c712] before IP completion day was a person established in Great Britain (a “former GB registrant”), and
 > - (b) a registration of the substance concerned by the former GB registrant is a registration of a kind that could be submitted on IP completion day under Article 6 or 7(1) or (5) of this Regulation.
 >
 > **4.** Where an existing EU registration has effect by virtue of this Article as a transferred GB registration, it has effect—
@@ -54,7 +54,7 @@ Regulation 4
 >
 > **6.** Where a registration that has a relevant past connection with Great Britain has effect as a transferred GB registration by virtue of this Article, the former GB registrant becomes the registrant in relation to the transferred GB registration on IP completion day.
 >
-> If two or more persons have been former GB registrants at different times in the period beginning with 29 March 2017 and ending immediately before[^key-d899a66ed30ab7a0f46b3a76dc4a49ad] IP completion day, only the person who was the former GB registrant most recently before IP completion day is to become registrant in relation to the transferred GB registration by virtue of this paragraph.
+> If two or more persons have been former GB registrants at different times in the period beginning with 29 March 2017 and ending immediately before[^c-d899a66ed30ab7a0f46b3a76dc4a49ad] IP completion day, only the person who was the former GB registrant most recently before IP completion day is to become registrant in relation to the transferred GB registration by virtue of this paragraph.
 >
 > **Article 127B — Application of this Regulation to transferred GB registrations**
 >
@@ -74,8 +74,8 @@ Regulation 4
 >
 > **4.** The registrant must submit—
 >
-> - (a) the Article 10 information referred to in Article 10(a)(i), (ii), and (iii), and any relevant indication under Article 10(a)(viii), to the Agency within the 120 day post-IP completion[^key-65e1f063c4bd0cf4ba04550572ff95d8] period;
-> - (b) the other Article 10 information to the Agency within the relevant[^key-99ed0914fe83a283791479b9f1c5ddfd] post-IP completion period.
+> - (a) the Article 10 information referred to in Article 10(a)(i), (ii), and (iii), and any relevant indication under Article 10(a)(viii), to the Agency within the 120 day post-IP completion[^c-65e1f063c4bd0cf4ba04550572ff95d8] period;
+> - (b) the other Article 10 information to the Agency within the relevant[^c-99ed0914fe83a283791479b9f1c5ddfd] post-IP completion period.
 >
 > Where the existing EU registration existed by virtue of Article 24(1) of EU REACH, the duty under this paragraph does not apply in relation to a transferred GB registration unless Article 24(2) applied in relation to the notified substance concerned before IP completion day.
 >
@@ -133,7 +133,7 @@ Regulation 4
 > - “**transferred GB registration**” has the meaning given in Article 127A(1);
 > - “**GB registration**” means a registration of a substance with the Agency.
 >
-> **Article 127E — Pre-IP completion downstream users and distributors that are to continue to be regarded as downstream users[^key-a99f455bdd7d3e44517cbe4111129b5c][^key-9793f54b4fc060eba7f19f4c1a774e05]**
+> **Article 127E — Pre-IP completion downstream users and distributors that are to continue to be regarded as downstream users[^c-a99f455bdd7d3e44517cbe4111129b5c][^c-9793f54b4fc060eba7f19f4c1a774e05]**
 >
 > **1.** This Article applies in a case where—
 >
@@ -148,7 +148,7 @@ Regulation 4
 >
 > - (a) the substance is imported to Great Britain on its own, in a mixture or in an article,
 > - (b) the GB user or distributor is the importer in relation to the import,
-> - (c) the import occurs during the relevant[^key-64fc4b19182591feb062449d69584c88] post-IP completion period, and
+> - (c) the import occurs during the relevant[^c-64fc4b19182591feb062449d69584c88] post-IP completion period, and
 > - (d) either—
 >   - (i) the person who supplies the substance, mixture or article to the GB user or distributor for the import is a registrant or a downstream user under EU REACH as respects the substance as it is imported (the “relevant supplier”), or
 >   - (ii) an only representative appointed under Article 8(1) of EU REACH by the manufacturer, formulator or producer of the substance, mixture or article is a registrant under EU REACH as respects the substance as it is imported.
@@ -168,18 +168,18 @@ Regulation 4
 > - (a) the person who was the manufacturer, formulator or producer of supplies of the substance, mixture or article which the GB user or distributor obtained before IP completion day, or
 > - (b) a different person.
 >
-> **6.** The provisions of this Regulation that apply to importers , including in respect of protected NI imports,[^key-1b2006c9eed7e4e2f3c5246fd9c8488a] do not apply to the GB user or distributor in relation to the protected transitional import of the substance by the GB user or distributor.
+> **6.** The provisions of this Regulation that apply to importers , including in respect of protected NI imports,[^c-1b2006c9eed7e4e2f3c5246fd9c8488a] do not apply to the GB user or distributor in relation to the protected transitional import of the substance by the GB user or distributor.
 >
-> **7.** If the GB user or distributor imports the substance into Great Britain in quantities of 1 to 10 tonnes per year, they must within the 300[^key-b960e57e6d7841c166047635845fa97e] day post-IP completion period—
+> **7.** If the GB user or distributor imports the substance into Great Britain in quantities of 1 to 10 tonnes per year, they must within the 300[^c-b960e57e6d7841c166047635845fa97e] day post-IP completion period—
 >
 > - (a) supply the Agency with the information referred to in point (a)(i) of Article 10;
 > - (b) supply the Agency with the information referred to in points (a)(ii) and (iv) of Article 10 to the extent that information is available to the GB user or distributor;
 > - (c) supply the Agency with the information referred to in points (a) to (d) of Article 32(1) and otherwise comply with Article 32;
 > - (d) supply the Agency with the relevant registration number for the substance under EU REACH to the extent that information is available to the GB user or distributor;
-> - (e) supply the Agency with such other evidence as the Agency may require demonstrating that the information supplied in accordance with subparagraph (c) complies with the requirements of Articles 10, 12 and 14 (as they apply to the tonnage of the substance which the GB user or distributor imports into Great Britain by protected transitional imports);[^key-df2e1b726c31f294ff8143c316a2dc85]
-> - (f)[^key-903b518662b0ef117a7a1b78a7c92630] if any part of the import is a protected NI import, notify the Agency of the quantity of the import that is a protected NI import.
+> - (e) supply the Agency with such other evidence as the Agency may require demonstrating that the information supplied in accordance with subparagraph (c) complies with the requirements of Articles 10, 12 and 14 (as they apply to the tonnage of the substance which the GB user or distributor imports into Great Britain by protected transitional imports);[^c-df2e1b726c31f294ff8143c316a2dc85]
+> - (f)[^c-903b518662b0ef117a7a1b78a7c92630] if any part of the import is a protected NI import, notify the Agency of the quantity of the import that is a protected NI import.
 >
-> **8.** If the GB user or distributor imports the substance into Great Britain in quantities of 10 tonnes or more per year, they must within the 300[^key-cfef28a79f66130d7d874635a9e3ec43] day post-IP completion period—
+> **8.** If the GB user or distributor imports the substance into Great Britain in quantities of 10 tonnes or more per year, they must within the 300[^c-cfef28a79f66130d7d874635a9e3ec43] day post-IP completion period—
 >
 > - (a) supply the Agency with the information referred to in point (a)(i) of Article 10;
 > - (b) supply the Agency with the information referred to in points (a)(ii) and (iv) of Article 10 to the extent that information is available to the GB user or distributor;
@@ -189,19 +189,19 @@ Regulation 4
 >   - (iii) Article 32(1)(a) to (d);
 > - (d) otherwise comply with Articles 14(6), 31 and 32;
 > - (e) supply the Agency with the relevant registration number for the substance under EU REACH to the extent that information is available to the GB user or distributor;
-> - (f) supply the Agency with such other evidence as the Agency may require demonstrating that the information supplied in accordance with subparagraph (c) complies with the requirements of Articles 10, 12 and 14 (as they apply to the tonnage of the substance which the GB user or distributor imports into Great Britain by protected transitional imports);[^key-6bc17f512a3f07ba9e53e242300849dd]
-> - (g)[^key-17172a9a296a79b42a071f79527d41a0] if any part of the import is a protected NI import, notify the Agency of the quantity of the import that is a protected NI import.
+> - (f) supply the Agency with such other evidence as the Agency may require demonstrating that the information supplied in accordance with subparagraph (c) complies with the requirements of Articles 10, 12 and 14 (as they apply to the tonnage of the substance which the GB user or distributor imports into Great Britain by protected transitional imports);[^c-6bc17f512a3f07ba9e53e242300849dd]
+> - (g)[^c-17172a9a296a79b42a071f79527d41a0] if any part of the import is a protected NI import, notify the Agency of the quantity of the import that is a protected NI import.
 >
 > **9.** The GB user or distributor must provide the Agency with updated information of the kind required by paragraph 7 or 8, in particular where the GB user or distributor begins to import the substance—
 >
 > - (a) from a different relevant supplier, or
 > - (b) from a different manufacturer, formulator or producer who (as described in paragraph 2(d)(ii)) has appointed an only representative that is a registrant under EU REACH.
 >
-> **10.** This Article ceases to apply to the GB user or distributor as respects a protected transitional import of the substance by them if they become a registrant or downstream user under this Regulation , or a notification is made under Article 139A,[^key-185f07ca7b86da0467a23fab9bc9cc42] in relation to the substance as so imported by them.
+> **10.** This Article ceases to apply to the GB user or distributor as respects a protected transitional import of the substance by them if they become a registrant or downstream user under this Regulation , or a notification is made under Article 139A,[^c-185f07ca7b86da0467a23fab9bc9cc42] in relation to the substance as so imported by them.
 >
 > For that purpose, a person is not to be treated as having become a downstream user because they are treated as one in accordance with paragraph 3(a).
 >
-> **11.** Paragraphs 7, 8 and 9 are subject to paragraph 3 of Article 127EA and paragraph 6 of Article 127EB[^key-100d76b1113b96c976fe9583db120cdc].
+> **11.** Paragraphs 7, 8 and 9 are subject to paragraph 3 of Article 127EA and paragraph 6 of Article 127EB[^c-100d76b1113b96c976fe9583db120cdc].
 >
 > **12.** In this Article—
 >
@@ -210,9 +210,9 @@ Regulation 4
 > - “**relevant supplier**” has the meaning given in paragraph 2(d)(i);
 > - “**GB user or distributor**” has the meaning given in paragraph 1(a).
 >
-> **Article 127EA — Appointment of only representative where Article 127E applies[^key-d654896f8649b8bd228f036014685ed0]**
+> **Article 127EA — Appointment of only representative where Article 127E applies[^c-d654896f8649b8bd228f036014685ed0]**
 >
-> **1.** This Article applies in relation to a protected transitional import of a substance by a GB user or distributor (within the meaning of Article 127E) that is not a protected NI import[^key-eda0ccf43aefd59f08950dc780a9cf4c].
+> **1.** This Article applies in relation to a protected transitional import of a substance by a GB user or distributor (within the meaning of Article 127E) that is not a protected NI import[^c-eda0ccf43aefd59f08950dc780a9cf4c].
 >
 > **2.** If, or to the extent that, the appointment of an only representative by the manufacturer, formulator or producer relates to the substance as imported, Article 8 has effect as if the following provision were substituted for paragraphs 1 to 3 of that Article—
 >
@@ -220,7 +220,7 @@ Regulation 4
 > >
 > > A person established outside Great Britain who manufactures a substance on its own, in mixtures or in articles, formulates a mixture or produces an article that is imported into Great Britain may by mutual agreement appoint a person established in Great Britain to fulfil, as his only representative, the obligations on the GB user or distributor under Article 127E.
 > >
-> > **1A.[^key-a0ab5f47c54b0d2819a655ca7aab99eb]**
+> > **1A.[^c-a0ab5f47c54b0d2819a655ca7aab99eb]**
 > >
 > > Article 36 applies to the representative.
 > >
@@ -230,13 +230,13 @@ Regulation 4
 > >
 > > **3.**
 > >
-> > If a representative is appointed in accordance with paragraphs 1 and 2, the non-Great British[^key-dceea26fbaf778d5bbed024550bcaa04] manufacturer shall inform the GB user or distributor of the appointment.
+> > If a representative is appointed in accordance with paragraphs 1 and 2, the non-Great British[^c-dceea26fbaf778d5bbed024550bcaa04] manufacturer shall inform the GB user or distributor of the appointment.
 >
 > .
 >
 > **3.** If the GB user or distributor is informed of the appointment of the only representative in accordance with paragraph 3 of Article 8 (as set out above), paragraphs 7, 8 and 9 of Article 127E cease to apply to the GB user or distributor as respects any protected transitional import where the manufacturer, formulator or producer is the person who appointed the representative.
 >
-> **Article 127EB — Import from Northern Ireland where Article 127E applies[^key-67a7e514fe243abb69d5ffb132c34fa4]**
+> **Article 127EB — Import from Northern Ireland where Article 127E applies[^c-67a7e514fe243abb69d5ffb132c34fa4]**
 >
 > **1.** This Article applies in relation to a protected transitional import of a substance by a GB user or distributor (within the meaning of Article 127E) that is also a protected NI import.
 >
@@ -294,7 +294,7 @@ Regulation 4
 >
 > **6.** In this Article “**existing application for an EU authorisation**” means an application made before IP completion day for the grant of an authorisation in accordance with Articles 60 to 64 of EU REACH.
 >
-> **Article 127GA — Substances of very high concern: sunset dates and latest application dates[^key-70e7a4248db9b94addb173ed513c26ea]**
+> **Article 127GA — Substances of very high concern: sunset dates and latest application dates[^c-70e7a4248db9b94addb173ed513c26ea]**
 >
 > **1.** Paragraphs 2 and 3 apply where—
 >
@@ -458,7 +458,7 @@ Regulation 4
 > **3.** Where paragraph 2 operates on a registration the manufacturer concerned must give the Agency—
 >
 > - (a) the information referred to in Article 17(2)(a), (b), (e) and (f) and the confirmation referred to in Article 17(3), within the 120 day post-IP completion period, and
-> - (b) the information referred to in Article 17(2)(c) and (d) within the relevant[^key-78c10d7554a8bc44c3b505dd8e79d2aa] post-IP completion period.
+> - (b) the information referred to in Article 17(2)(c) and (d) within the relevant[^c-78c10d7554a8bc44c3b505dd8e79d2aa] post-IP completion period.
 >
 > **4.** Article 19(1) does not apply to the giving of information in accordance with paragraph 3 of this Article.
 >
@@ -500,7 +500,7 @@ Regulation 4
 > **3.** Where paragraph 2 operates on a registration, the manufacturer or importer concerned must give the Agency—
 >
 > - (a) the information referred to in Article 18(2)(a), (b), (e) and (f) and the confirmation referred to in Article 18(4), within the 120 day post-IP completion period, and
-> - (b) the information referred to in Article 18(2)(c) and (d) and 18(3) within the relevant[^key-2fcbe9066bb089c30fe7cb44950684e3] post-IP completion period.
+> - (b) the information referred to in Article 18(2)(c) and (d) and 18(3) within the relevant[^c-2fcbe9066bb089c30fe7cb44950684e3] post-IP completion period.
 >
 > **4.** Article 19(1) does not apply to the giving of information in accordance with paragraph 3 of this Article.
 >
@@ -539,7 +539,7 @@ Regulation 4
 >
 > **3.** A registration under Article 17 or 18 of EU REACH (as the case may be) has a relevant past connection with Great Britain if—
 >
-> - (a) the registrant at any time in the period beginning with 29 March 2017 and ending immediately[^key-f09d657c0734adb8e5677c30d11e85c4] before IP completion day was a person established in Great Britain (a “former GB registrant”), and
+> - (a) the registrant at any time in the period beginning with 29 March 2017 and ending immediately[^c-f09d657c0734adb8e5677c30d11e85c4] before IP completion day was a person established in Great Britain (a “former GB registrant”), and
 > - (b) a registration of the substance concerned by the former GB registrant is a registration of a kind that could be submitted on IP completion day—
 >   - (i) under Article 17 of this Regulation if the former GB registrant was the manufacturer of the on-site intermediate concerned on IP completion day, or
 >   - (ii) under Article 18 of this Regulation if the former GB registrant was the manufacturer or importer of the transported isolated intermediate concerned on IP completion day.
@@ -548,7 +548,7 @@ Regulation 4
 >
 > **5.** Where a registration that has a relevant past connection with Great Britain has effect as a registration with the Agency by virtue of Article 127L or 127M, the former GB registrant becomes the registrant in relation to the registration with the Agency on IP completion day.
 >
-> If two or more persons have been former GB registrants at different times in the period beginning with 29 March 2017 and ending immediately[^key-a7bc79fd9425f8566fd1c2842236eb85] before IP completion day, only the person who was the former GB registrant most recently before IP completion day is to become the registrant in relation to the registration with the Agency by virtue of this paragraph.
+> If two or more persons have been former GB registrants at different times in the period beginning with 29 March 2017 and ending immediately[^c-a7bc79fd9425f8566fd1c2842236eb85] before IP completion day, only the person who was the former GB registrant most recently before IP completion day is to become the registrant in relation to the registration with the Agency by virtue of this paragraph.
 >
 > **Article 127O — Obligation to keep information**
 >
@@ -558,7 +558,7 @@ Regulation 4
 >
 > **3.** Where paragraph 2 applies to a person, the person is not bound by the obligation imposed by Article 36(1) of this Regulation after the end of a 10 year period under Article 36(1) of EU REACH that was running at IP completion day (and the reference to the 10 year period in Article 36(1) of this Regulation is accordingly to be read as a reference to the remainder of the 10 year period under EU REACH that falls after IP completion day).
 >
-> **Article 127P — Post-IP completion periods used in this Title[^key-91a93d96a89aa3412e8a37817e56fd56]**
+> **Article 127P — Post-IP completion periods used in this Title[^c-91a93d96a89aa3412e8a37817e56fd56]**
 >
 > In this Title—
 >
@@ -570,7 +570,7 @@ Regulation 4
 >
 > (4) “**180 day post-IP completion period**” means the period of 180 days beginning with the day after that on which IP completion day falls;
 >
-> (4A)[^key-a8a7231a00c7f3e66f7b69ec64730a51] “300 day post-IP completion period” means the period of 300 days beginning with the day after that on which IP completion day falls;
+> (4A)[^c-a8a7231a00c7f3e66f7b69ec64730a51] “300 day post-IP completion period” means the period of 300 days beginning with the day after that on which IP completion day falls;
 >
 > (4B) “relevant post-IP completion period” means the period beginning with the day after that on which IP completion day falls and ending—
 >
@@ -584,78 +584,78 @@ Regulation 4
 >   - (ii) substances manufactured in Great Britain or imported, in quantities reaching 100 tonnes or more per year per manufacturer or importer, at least once after IP completion day,
 > - (c) six years after the end of the 300 day post-IP completion period in respect of substances manufactured in Great Britain or imported, in quantities reaching 1 tonne or more per year per manufacturer or importer, at least once after IP completion day.
 >
-> (5)[^key-8661416c1f6003d5d1e673c1ba3d9ce8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (5)[^c-8661416c1f6003d5d1e673c1ba3d9ce8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (6)[^key-6082042d01095de5c0b91a8c70282a28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (6)[^c-6082042d01095de5c0b91a8c70282a28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
 ## Annotations
 
-[^key-28cce73d0e0511e724b6fb6b42e6d0af]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-28cce73d0e0511e724b6fb6b42e6d0af]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-f1d2f7e9fc9ed7e717271cd0b87046af]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/3)
+[^c-f1d2f7e9fc9ed7e717271cd0b87046af]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/3)
 
-[^key-5e6c0e6f8ca3e0493ad41a6dd402ac73]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/6/2)
+[^c-5e6c0e6f8ca3e0493ad41a6dd402ac73]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/6/2)
 
-[^key-0b310f81ff2844ad3898766fa02e1024]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/2)
+[^c-0b310f81ff2844ad3898766fa02e1024]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/2)
 
-[^key-424db793175c4a8ed09162699ff0c712]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1144)](https://www.legislation.gov.uk/uksi/2019/1144), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1144/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/1144/regulation/4/2/a) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/2))
+[^c-424db793175c4a8ed09162699ff0c712]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1144)](https://www.legislation.gov.uk/uksi/2019/1144), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1144/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2019/1144/regulation/4/2/a) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/2))
 
-[^key-d899a66ed30ab7a0f46b3a76dc4a49ad]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1144)](https://www.legislation.gov.uk/uksi/2019/1144), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1144/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/1144/regulation/4/2/b) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/2))
+[^c-d899a66ed30ab7a0f46b3a76dc4a49ad]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1144)](https://www.legislation.gov.uk/uksi/2019/1144), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1144/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/1144/regulation/4/2/b) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/2))
 
-[^key-65e1f063c4bd0cf4ba04550572ff95d8]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [6(3)(a)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/6/3/a)
+[^c-65e1f063c4bd0cf4ba04550572ff95d8]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [6(3)(a)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/6/3/a)
 
-[^key-99ed0914fe83a283791479b9f1c5ddfd]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(4)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/4)
+[^c-99ed0914fe83a283791479b9f1c5ddfd]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(4)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/4)
 
-[^key-a99f455bdd7d3e44517cbe4111129b5c]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [Pt. 2](https://www.legislation.gov.uk/uksi/2020/1577/part/2) comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/858)](https://www.legislation.gov.uk/uksi/2019/858), [regs. 1](https://www.legislation.gov.uk/uksi/2019/858/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/858/regulation/4/2) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-a99f455bdd7d3e44517cbe4111129b5c]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [Pt. 2](https://www.legislation.gov.uk/uksi/2020/1577/part/2) comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/858)](https://www.legislation.gov.uk/uksi/2019/858), [regs. 1](https://www.legislation.gov.uk/uksi/2019/858/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/858/regulation/4/2) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
-[^key-9793f54b4fc060eba7f19f4c1a774e05]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [6(3)(b)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/6/3/b)
+[^c-9793f54b4fc060eba7f19f4c1a774e05]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [6(3)(b)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/6/3/b)
 
-[^key-64fc4b19182591feb062449d69584c88]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/a)
+[^c-64fc4b19182591feb062449d69584c88]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/a)
 
-[^key-1b2006c9eed7e4e2f3c5246fd9c8488a]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/b)
+[^c-1b2006c9eed7e4e2f3c5246fd9c8488a]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/b)
 
-[^key-b960e57e6d7841c166047635845fa97e]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/c/i)
+[^c-b960e57e6d7841c166047635845fa97e]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/c/i)
 
-[^key-df2e1b726c31f294ff8143c316a2dc85]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/c/ii)
+[^c-df2e1b726c31f294ff8143c316a2dc85]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/c/ii)
 
-[^key-903b518662b0ef117a7a1b78a7c92630]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/c/iii)
+[^c-903b518662b0ef117a7a1b78a7c92630]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/c/iii)
 
-[^key-cfef28a79f66130d7d874635a9e3ec43]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/d/i)
+[^c-cfef28a79f66130d7d874635a9e3ec43]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/d/i)
 
-[^key-6bc17f512a3f07ba9e53e242300849dd]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/d/ii)
+[^c-6bc17f512a3f07ba9e53e242300849dd]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/d/ii)
 
-[^key-17172a9a296a79b42a071f79527d41a0]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/d/iii)
+[^c-17172a9a296a79b42a071f79527d41a0]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/d/iii)
 
-[^key-185f07ca7b86da0467a23fab9bc9cc42]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(e)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/e)
+[^c-185f07ca7b86da0467a23fab9bc9cc42]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(e)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/e)
 
-[^key-100d76b1113b96c976fe9583db120cdc]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(f)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/f)
+[^c-100d76b1113b96c976fe9583db120cdc]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(5)(f)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/5/f)
 
-[^key-d654896f8649b8bd228f036014685ed0]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/858)](https://www.legislation.gov.uk/uksi/2019/858), [regs. 1](https://www.legislation.gov.uk/uksi/2019/858/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/858/regulation/4/3) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
+[^c-d654896f8649b8bd228f036014685ed0]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/858)](https://www.legislation.gov.uk/uksi/2019/858), [regs. 1](https://www.legislation.gov.uk/uksi/2019/858/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/858/regulation/4/3) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [12(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/12/2))
 
-[^key-eda0ccf43aefd59f08950dc780a9cf4c]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(6)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/6/a)
+[^c-eda0ccf43aefd59f08950dc780a9cf4c]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(6)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/6/a)
 
-[^key-a0ab5f47c54b0d2819a655ca7aab99eb]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/6/b/i)
+[^c-a0ab5f47c54b0d2819a655ca7aab99eb]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/6/b/i)
 
-[^key-dceea26fbaf778d5bbed024550bcaa04]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/6/b/ii)
+[^c-dceea26fbaf778d5bbed024550bcaa04]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/6/b/ii)
 
-[^key-67a7e514fe243abb69d5ffb132c34fa4]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(7)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/7)
+[^c-67a7e514fe243abb69d5ffb132c34fa4]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(7)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/7)
 
-[^key-70e7a4248db9b94addb173ed513c26ea]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1144)](https://www.legislation.gov.uk/uksi/2019/1144), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1144/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/1144/regulation/4/3) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/2))
+[^c-70e7a4248db9b94addb173ed513c26ea]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1144)](https://www.legislation.gov.uk/uksi/2019/1144), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1144/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/1144/regulation/4/3) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/2))
 
-[^key-78c10d7554a8bc44c3b505dd8e79d2aa]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(8)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/8)
+[^c-78c10d7554a8bc44c3b505dd8e79d2aa]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(8)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/8)
 
-[^key-2fcbe9066bb089c30fe7cb44950684e3]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(9)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/9)
+[^c-2fcbe9066bb089c30fe7cb44950684e3]: Textual amendment: Word in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(9)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/9)
 
-[^key-f09d657c0734adb8e5677c30d11e85c4]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1144)](https://www.legislation.gov.uk/uksi/2019/1144), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1144/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/1144/regulation/4/4/a) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/2))
+[^c-f09d657c0734adb8e5677c30d11e85c4]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1144)](https://www.legislation.gov.uk/uksi/2019/1144), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1144/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/1144/regulation/4/4/a) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/2))
 
-[^key-a7bc79fd9425f8566fd1c2842236eb85]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1144)](https://www.legislation.gov.uk/uksi/2019/1144), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1144/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/1144/regulation/4/4/b) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/2))
+[^c-a7bc79fd9425f8566fd1c2842236eb85]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before S.I. 2020/1577, Pt. 2 comes into force) by [The REACH etc. (Amendment etc.) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1144)](https://www.legislation.gov.uk/uksi/2019/1144), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1144/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2019/1144/regulation/4/4/b) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [13(2)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/13/2))
 
-[^key-91a93d96a89aa3412e8a37817e56fd56]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [6(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/6/3/c/i)
+[^c-91a93d96a89aa3412e8a37817e56fd56]: Textual amendment: Words in Sch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [6(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/6/3/c/i)
 
-[^key-a8a7231a00c7f3e66f7b69ec64730a51]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(10)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/10/a)
+[^c-a8a7231a00c7f3e66f7b69ec64730a51]: Textual amendment: Words in Sch. 2 inserted (31.12.2020 immediately before IP completion day) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(10)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/10/a)
 
-[^key-8661416c1f6003d5d1e673c1ba3d9ce8]: Textual amendment: Words in Sch. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [6(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/6/3/c/ii)
+[^c-8661416c1f6003d5d1e673c1ba3d9ce8]: Textual amendment: Words in Sch. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [6(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/6/3/c/ii)
 
-[^key-6082042d01095de5c0b91a8c70282a28]: Textual amendment: Words in Sch. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(10)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/10/b)
+[^c-6082042d01095de5c0b91a8c70282a28]: Textual amendment: Words in Sch. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/b), [5(10)(b)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/5/10/b)

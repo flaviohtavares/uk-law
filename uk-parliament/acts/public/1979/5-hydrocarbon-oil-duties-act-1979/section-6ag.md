@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6AG. Excise duty on aqua methanol[^key-9a9c1bd8a0acadd303d130827f85e283][^key-ce471d0dc36ff895d4319738b9cdcaa1]
+## 6AG. Excise duty on aqua methanol[^c-9a9c1bd8a0acadd303d130827f85e283][^c-ce471d0dc36ff895d4319738b9cdcaa1]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a9c1bd8a0acadd303d130827f85e283]: Modification: [S. 6AG](https://www.legislation.gov.uk/ukpga/1979/5/section/6AG) modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 4(1)(2)(l)(3)](https://www.legislation.gov.uk/ukpga/2020/26/section/4/2/l), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-9a9c1bd8a0acadd303d130827f85e283]: Modification: [S. 6AG](https://www.legislation.gov.uk/ukpga/1979/5/section/6AG) modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 4(1)(2)(l)(3)](https://www.legislation.gov.uk/ukpga/2020/26/section/4/2/l), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-ce471d0dc36ff895d4319738b9cdcaa1]: Textual amendment: Ss. 6AG, 6AH inserted (15.9.2016 for specified purposes, 14.11.2016 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 17 paras. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/4), [14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/14)
+[^c-ce471d0dc36ff895d4319738b9cdcaa1]: Textual amendment: Ss. 6AG, 6AH inserted (15.9.2016 for specified purposes, 14.11.2016 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 17 paras. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/4), [14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/14)

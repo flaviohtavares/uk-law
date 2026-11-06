@@ -33,7 +33,7 @@ SEA FISHERIES
 
 BOATS AND METHODS OF FISHING
 
-The Foreign Fishing Boats (Stowage of Gear) Order 1970 (revoked)[^key-1938c78927e4684ef203f71dcfdc9211]
+The Foreign Fishing Boats (Stowage of Gear) Order 1970 (revoked)[^c-1938c78927e4684ef203f71dcfdc9211]
 
 Made
 
@@ -47,26 +47,26 @@ Coming into Operation
 
 10th March 1970
 
-[^key-1938c78927e4684ef203f71dcfdc9211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1938c78927e4684ef203f71dcfdc9211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-1938c78927e4684ef203f71dcfdc9211]
+## 1. Citation and Commencement[^c-1938c78927e4684ef203f71dcfdc9211]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1938c78927e4684ef203f71dcfdc9211]
+## 2. Interpretation[^c-1938c78927e4684ef203f71dcfdc9211]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Stowage of Gear[^key-1938c78927e4684ef203f71dcfdc9211]
+## 3. Stowage of Gear[^c-1938c78927e4684ef203f71dcfdc9211]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1938c78927e4684ef203f71dcfdc9211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1938c78927e4684ef203f71dcfdc9211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1938c78927e4684ef203f71dcfdc9211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1938c78927e4684ef203f71dcfdc9211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1938c78927e4684ef203f71dcfdc9211]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1970/318) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 paras. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1), [4(d)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/4/d) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-1938c78927e4684ef203f71dcfdc9211]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1970/318) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 paras. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1), [4(d)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/4/d) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

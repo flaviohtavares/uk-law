@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 28
 
-### 1. Interpretation[^key-b108bdf2787afd16e696a0b47cf9a2bf]
+### 1. Interpretation[^c-b108bdf2787afd16e696a0b47cf9a2bf]
 
 In this Schedule—
 
@@ -32,11 +32,11 @@ In this Schedule—
   - (iii) poultry, rabbits or hares killed elsewhere than in a slaughterhouse by their owner for the owner’s private domestic consumption; and
 - (b) “killing” (“*lladd*”), “poultry” (“*dofednod*”), “restraint” (“*ffrwyno*”) and “stunning” (“*stynio*”) have the same meanings as in the EU Regulation.
 
-### 2. Scope[^key-05c8a54514d379475fc7ff2c9082a2b7]
+### 2. Scope[^c-05c8a54514d379475fc7ff2c9082a2b7]
 
 Subject to paragraph 3, this Schedule applies to the killing of animals which are bred or kept for the production of meat, skin or other products.
 
-### 3. Exemptions[^key-18beefa17459349b92a53ac68f45c0c1]
+### 3. Exemptions[^c-18beefa17459349b92a53ac68f45c0c1]
 
 This Schedule does not apply to animals which are killed—
 
@@ -44,7 +44,7 @@ This Schedule does not apply to animals which are killed—
 - (b) during hunting or recreational fishing activities; or
 - (c) during sporting events.
 
-### 4. Humane killing[^key-d25e532f086fe3a62ea0c7092f7a62d9]
+### 4. Humane killing[^c-d25e532f086fe3a62ea0c7092f7a62d9]
 
 (1) No person engaged in the restraint, stunning or killing of an animal may—
 
@@ -53,7 +53,7 @@ This Schedule does not apply to animals which are killed—
 
 (2) No person may engage in the restraint, stunning or killing of an animal unless that person has the knowledge and skill necessary to perform those operations humanely and efficiently.
 
-### 5. Poultry, rabbits or hares bled for private domestic consumption[^key-510607372d2c5dad14c317940566c7b5]
+### 5. Poultry, rabbits or hares bled for private domestic consumption[^c-510607372d2c5dad14c317940566c7b5]
 
 Poultry, rabbits or hares which are bled by their owner outside a slaughterhouse for the owner’s private domestic consumption must be—
 
@@ -62,12 +62,12 @@ Poultry, rabbits or hares which are bled by their owner outside a slaughterhouse
 
 ## Annotations
 
-[^key-b108bdf2787afd16e696a0b47cf9a2bf]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2014/951/schedule/4/paragraph/1) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-b108bdf2787afd16e696a0b47cf9a2bf]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2014/951/schedule/4/paragraph/1) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-05c8a54514d379475fc7ff2c9082a2b7]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/wsi/2014/951/schedule/4/paragraph/2) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-05c8a54514d379475fc7ff2c9082a2b7]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/wsi/2014/951/schedule/4/paragraph/2) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-18beefa17459349b92a53ac68f45c0c1]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/wsi/2014/951/schedule/4/paragraph/3) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-18beefa17459349b92a53ac68f45c0c1]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/wsi/2014/951/schedule/4/paragraph/3) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-d25e532f086fe3a62ea0c7092f7a62d9]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/wsi/2014/951/schedule/4/paragraph/4) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-d25e532f086fe3a62ea0c7092f7a62d9]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/wsi/2014/951/schedule/4/paragraph/4) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-510607372d2c5dad14c317940566c7b5]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/wsi/2014/951/schedule/4/paragraph/5) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-510607372d2c5dad14c317940566c7b5]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/wsi/2014/951/schedule/4/paragraph/5) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

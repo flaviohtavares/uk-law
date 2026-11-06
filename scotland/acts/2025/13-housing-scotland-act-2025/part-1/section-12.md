@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Variation of rent controls in existing rent control area: consultation[^key-b70f056449176bf2dd4f7af1318ec149][^key-33b0adc3ee3d2172efd2564c51391320]
+## 12. Variation of rent controls in existing rent control area: consultation[^c-b70f056449176bf2dd4f7af1318ec149][^c-33b0adc3ee3d2172efd2564c51391320]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b70f056449176bf2dd4f7af1318ec149]: Commencement: S. 12 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-b70f056449176bf2dd4f7af1318ec149]: Commencement: S. 12 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-33b0adc3ee3d2172efd2564c51391320]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2025/13/section/12) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-33b0adc3ee3d2172efd2564c51391320]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2025/13/section/12) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

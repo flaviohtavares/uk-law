@@ -45,9 +45,9 @@ summary: ''
 (6) For the purposes of subsection (5)—
 
 - (a) it is to be assumed that the chargeable period (within the meaning of CAA 2001) of the partnership ends on the relevant day (“the old chargeable period”) and a new one begins on the following day (“the new chargeable period”), and
-- (b)[^key-625a0e80baf39369b478ef970cd173f5] in calculating the amounts of unrelieved qualifying expenditure mentioned in subsection (5)(a) to (c), any part of those amounts that is relevant new expenditure is to be left out of account.
+- (b)[^c-625a0e80baf39369b478ef970cd173f5] in calculating the amounts of unrelieved qualifying expenditure mentioned in subsection (5)(a) to (c), any part of those amounts that is relevant new expenditure is to be left out of account.
 
-(6A)[^key-2aa3baeb160c05e2dbf684af7a101f26] Relevant new expenditure” means—
+(6A)[^c-2aa3baeb160c05e2dbf684af7a101f26] Relevant new expenditure” means—
 
 - (a) expenditure attributable to plant or machinery acquired by the partnership on the relevant day except for plant or machinery acquired on that day from a qualifying company, and
 - (b) expenditure incurred on the relevant day but attributable to plant or machinery acquired by the partnership before that day.
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-625a0e80baf39369b478ef970cd173f5]: Textual amendment: S. 421(6)(b) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 15(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/15/2)
+[^c-625a0e80baf39369b478ef970cd173f5]: Textual amendment: S. 421(6)(b) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 15(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/15/2)
 
-[^key-2aa3baeb160c05e2dbf684af7a101f26]: Textual amendment: S. 421(6A)(6B) inserted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 15(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/15/3)
+[^c-2aa3baeb160c05e2dbf684af7a101f26]: Textual amendment: S. 421(6A)(6B) inserted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 15(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/15/3)

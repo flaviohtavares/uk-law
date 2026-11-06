@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Power to amend licence conditions etc: procedure[^key-428af92430e59fd31b4a04f7caa7113a]
+## 42. Power to amend licence conditions etc: procedure[^c-428af92430e59fd31b4a04f7caa7113a]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-428af92430e59fd31b4a04f7caa7113a]: Commencement: S. 42 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2009/45/article/2/a/iv)
+[^c-428af92430e59fd31b4a04f7caa7113a]: Commencement: S. 42 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2009/45/article/2/a/iv)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 298. Removal under section 297: further provision[^key-89f2e1c41c683729bc6e27b9505d2663][^key-ec4b0d8d981ef44047918946479698b0]
+## 298. Removal under section 297: further provision[^c-89f2e1c41c683729bc6e27b9505d2663][^c-ec4b0d8d981ef44047918946479698b0]
 
 *Extent: S*
 
@@ -49,7 +49,7 @@ the constable shall, as soon as reasonably practicable after removing the releva
 
 - (a) the person—
   - (i) resides with the relevant person; or
-  - (ii) provides a care service or, independent health care service[^key-94eceb081d200459ec72214a9cfd82ed] to the relevant person; or
+  - (ii) provides a care service or, independent health care service[^c-94eceb081d200459ec72214a9cfd82ed] to the relevant person; or
 - (b) the person is an individual who, otherwise than—
   - (i) by virtue of a contract of employment, or other contract, with any person; or
   - (ii) as a volunteer for a voluntary organisation,
@@ -58,8 +58,8 @@ the constable shall, as soon as reasonably practicable after removing the releva
 
 (6) In this section—
 
-- “**care service**” has the meaning given by section[^key-da268c6c3084a31448c9c10f7737d3e2] 47(1) of the Public Services Reform (Scotland) Act 2010 (asp 8);
-- “independent health care service” means any of the following—[^key-cb94ceb7c9b0b54ebe174704e76a7eb5]
+- “**care service**” has the meaning given by section[^c-da268c6c3084a31448c9c10f7737d3e2] 47(1) of the Public Services Reform (Scotland) Act 2010 (asp 8);
+- “independent health care service” means any of the following—[^c-cb94ceb7c9b0b54ebe174704e76a7eb5]
   - (a) an independent hospital;
   - (b) a private psychiatric hospital;
   - (c) an independent clinic; or
@@ -71,12 +71,12 @@ the constable shall, as soon as reasonably practicable after removing the releva
 
 ## Annotations
 
-[^key-89f2e1c41c683729bc6e27b9505d2663]: Commencement: S. 298 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-89f2e1c41c683729bc6e27b9505d2663]: Commencement: S. 298 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-ec4b0d8d981ef44047918946479698b0]: Commencement: S. 298 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-ec4b0d8d981ef44047918946479698b0]: Commencement: S. 298 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-94eceb081d200459ec72214a9cfd82ed]: Textual amendment: Words in s. 298(5)(a)(ii) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 8(4)(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/8/4/a)
+[^c-94eceb081d200459ec72214a9cfd82ed]: Textual amendment: Words in s. 298(5)(a)(ii) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 8(4)(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/8/4/a)
 
-[^key-da268c6c3084a31448c9c10f7737d3e2]: Textual amendment: Words in s. 298(6) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 13(4)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/13/4)
+[^c-da268c6c3084a31448c9c10f7737d3e2]: Textual amendment: Words in s. 298(6) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 13(4)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/13/4)
 
-[^key-cb94ceb7c9b0b54ebe174704e76a7eb5]: Textual amendment: Words in s. 298(6) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 8(4)(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/8/4/b)
+[^c-cb94ceb7c9b0b54ebe174704e76a7eb5]: Textual amendment: Words in s. 298(6) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 8(4)(b)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/8/4/b)

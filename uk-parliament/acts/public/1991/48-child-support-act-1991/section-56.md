@@ -25,11 +25,11 @@ summary: ''
 - (a) shall not be subject to sub-paragraphs (4) and (5) of paragraph 1 of that Schedule (affirmative resolution of both Houses of Parliament); but
 - (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2)[^key-3e4900baa3b592cf52b85ec5b873ae06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3e4900baa3b592cf52b85ec5b873ae06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3e4900baa3b592cf52b85ec5b873ae06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3e4900baa3b592cf52b85ec5b873ae06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3e4900baa3b592cf52b85ec5b873ae06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3e4900baa3b592cf52b85ec5b873ae06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c21359601]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
 
-[^key-3e4900baa3b592cf52b85ec5b873ae06]: Textual amendment: S. 56(2)-(4) repealed (2.12.1999) by [Northern Ireland Act 1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47), [ss. 87(8)(c)](https://www.legislation.gov.uk/ukpga/1998/47/section/87/8/c), [101(3)](https://www.legislation.gov.uk/ukpga/1998/47/section/101/3), [Sch. 15](https://www.legislation.gov.uk/ukpga/1998/47/schedule/15) (with [s. 95](https://www.legislation.gov.uk/ukpga/1998/47/section/95), [Sch. 14](https://www.legislation.gov.uk/ukpga/1998/47/schedule/14)); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), art. 2, Sch.
+[^c-3e4900baa3b592cf52b85ec5b873ae06]: Textual amendment: S. 56(2)-(4) repealed (2.12.1999) by [Northern Ireland Act 1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47), [ss. 87(8)(c)](https://www.legislation.gov.uk/ukpga/1998/47/section/87/8/c), [101(3)](https://www.legislation.gov.uk/ukpga/1998/47/section/101/3), [Sch. 15](https://www.legislation.gov.uk/ukpga/1998/47/schedule/15) (with [s. 95](https://www.legislation.gov.uk/ukpga/1998/47/section/95), [Sch. 14](https://www.legislation.gov.uk/ukpga/1998/47/schedule/14)); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), art. 2, Sch.

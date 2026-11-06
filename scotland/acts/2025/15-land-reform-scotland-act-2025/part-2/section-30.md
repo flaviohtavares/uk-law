@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Resumption and termination of relevant tenancies and small landholdings[^key-38dac4d50452dda7a05c868a299979ea]
+## 30. Resumption and termination of relevant tenancies and small landholdings[^c-38dac4d50452dda7a05c868a299979ea]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38dac4d50452dda7a05c868a299979ea]: Commencement: S. 30 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-38dac4d50452dda7a05c868a299979ea]: Commencement: S. 30 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

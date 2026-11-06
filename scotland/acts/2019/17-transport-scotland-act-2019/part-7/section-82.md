@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Accounts[^key-af40dd0fdd8ede8bd8162c7898502581]
+## 82. Accounts[^c-af40dd0fdd8ede8bd8162c7898502581]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af40dd0fdd8ede8bd8162c7898502581]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2019/17/section/82) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-af40dd0fdd8ede8bd8162c7898502581]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2019/17/section/82) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

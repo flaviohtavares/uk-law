@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Offence[^key-50018dc6c60d5ea329c0319715177f5f][^key-57393a2f10b5830756d8856f549005d3]
+## 21. Offence[^c-50018dc6c60d5ea329c0319715177f5f][^c-57393a2f10b5830756d8856f549005d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,14 +32,14 @@ summary: ''
 - (a) on conviction on indictment, to a fine, or
 - (b) on summary conviction, to a fine not exceeding £20,000.
 
-(4) A court by or before which a person is convicted of an offence under subsection (1) may require him to pay to *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-122bcca5492f22d7631a8e1d2d4fb7ca] a local policing body,[^key-bc89eb9aa4ba40394b088a98bef30599] *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-122bcca5492f22d7631a8e1d2d4fb7ca] a police authority or to the Olympic Delivery Authority sums in respect of expenses reasonably incurred in taking action under section 22(1) in relation to the matters to which the offence relates. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-122bcca5492f22d7631a8e1d2d4fb7ca]
+(4) A court by or before which a person is convicted of an offence under subsection (1) may require him to pay to *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-122bcca5492f22d7631a8e1d2d4fb7ca] a local policing body,[^c-bc89eb9aa4ba40394b088a98bef30599] *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-122bcca5492f22d7631a8e1d2d4fb7ca] a police authority or to the Olympic Delivery Authority sums in respect of expenses reasonably incurred in taking action under section 22(1) in relation to the matters to which the offence relates. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-122bcca5492f22d7631a8e1d2d4fb7ca]
 
 ## Annotations
 
-[^key-50018dc6c60d5ea329c0319715177f5f]: Commencement: S. 21 in force at 30.5.2006 for E.W.N.I. by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1118/article/3/1)
+[^c-50018dc6c60d5ea329c0319715177f5f]: Commencement: S. 21 in force at 30.5.2006 for E.W.N.I. by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1118/article/3/1)
 
-[^key-57393a2f10b5830756d8856f549005d3]: Commencement: S. 21 in force at 31.12.2006 for S. by [S.S.I. 2006/611](https://www.legislation.gov.uk/ssi/2006/611), [art. 2](https://www.legislation.gov.uk/ssi/2006/611/article/2)
+[^c-57393a2f10b5830756d8856f549005d3]: Commencement: S. 21 in force at 31.12.2006 for S. by [S.S.I. 2006/611](https://www.legislation.gov.uk/ssi/2006/611), [art. 2](https://www.legislation.gov.uk/ssi/2006/611/article/2)
 
-[^key-122bcca5492f22d7631a8e1d2d4fb7ca]: Textual amendment: [S. 21(4)](https://www.legislation.gov.uk/ukpga/2006/12/section/21/4) omitted (E.W.S.) (14.2.2012) by virtue of [London Olympic Games and Paralympic Games (Amendment) Act 2011 (c. 22)](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/1), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1)
+[^c-122bcca5492f22d7631a8e1d2d4fb7ca]: Textual amendment: [S. 21(4)](https://www.legislation.gov.uk/ukpga/2006/12/section/21/4) omitted (E.W.S.) (14.2.2012) by virtue of [London Olympic Games and Paralympic Games (Amendment) Act 2011 (c. 22)](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/1), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1)
 
-[^key-bc89eb9aa4ba40394b088a98bef30599]: Textual amendment: Words in s. 21(4) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 355](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/355); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-bc89eb9aa4ba40394b088a98bef30599]: Textual amendment: Words in s. 21(4) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 355](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/355); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

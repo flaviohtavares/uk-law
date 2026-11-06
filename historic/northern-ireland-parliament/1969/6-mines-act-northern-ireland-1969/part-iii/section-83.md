@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Restrictions on use below ground of certain engines, &c.[^key-d9e51d1171e0c254d340ddc5e78d88f9]
+## 83. Restrictions on use below ground of certain engines, &c.[^c-d9e51d1171e0c254d340ddc5e78d88f9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9e51d1171e0c254d340ddc5e78d88f9]: Textual amendment: [S. 83](https://www.legislation.gov.uk/apni/1969/6/section/83) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-d9e51d1171e0c254d340ddc5e78d88f9]: Textual amendment: [S. 83](https://www.legislation.gov.uk/apni/1969/6/section/83) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

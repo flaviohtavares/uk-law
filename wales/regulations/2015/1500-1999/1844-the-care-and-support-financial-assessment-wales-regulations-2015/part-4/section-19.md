@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Income treated as capital[^key-9a56f015b7058e26603c8595c1b2c3a4]
+## 19. Income treated as capital[^c-9a56f015b7058e26603c8595c1b2c3a4]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9a56f015b7058e26603c8595c1b2c3a4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2015/1844/regulation/19) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-9a56f015b7058e26603c8595c1b2c3a4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2015/1844/regulation/19) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
 
 [^f00030]: Footnote: [1998 c. 1](https://www.legislation.gov.uk/ukpga/1998/1).
 

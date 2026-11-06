@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Membership of redress schemes: supplementary[^key-5728e4301ae73040ef5c83c5237bd464]
+## 48. Membership of redress schemes: supplementary[^c-5728e4301ae73040ef5c83c5237bd464]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ and references to approval of a redress scheme are to approval of the scheme for
 
 ## Annotations
 
-[^key-5728e4301ae73040ef5c83c5237bd464]: Commencement: S. 48 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)
+[^c-5728e4301ae73040ef5c83c5237bd464]: Commencement: S. 48 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)

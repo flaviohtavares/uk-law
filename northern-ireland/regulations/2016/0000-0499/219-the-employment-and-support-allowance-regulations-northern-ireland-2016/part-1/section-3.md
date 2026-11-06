@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Further interpretation[^key-d4d16e2c50d75d1eac5e1bac5c4e855d]
+## 3. Further interpretation[^c-d4d16e2c50d75d1eac5e1bac5c4e855d]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4d16e2c50d75d1eac5e1bac5c4e855d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/219/regulation/3) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-d4d16e2c50d75d1eac5e1bac5c4e855d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/219/regulation/3) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00033]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)

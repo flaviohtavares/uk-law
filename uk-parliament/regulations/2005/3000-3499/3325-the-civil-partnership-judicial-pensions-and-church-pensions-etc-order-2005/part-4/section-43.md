@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: N.I.*
 
-**43.**[^key-333a529cc039d923d99bca16777cf36e] In section 21A (appeals), in subsection (3)(b), for “or widower” substitute “, widower or surviving civil partner”.
+**43.**[^c-333a529cc039d923d99bca16777cf36e] In section 21A (appeals), in subsection (3)(b), for “or widower” substitute “, widower or surviving civil partner”.
 
 ## Annotations
 
-[^key-333a529cc039d923d99bca16777cf36e]: Commencement: Art. 43 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-333a529cc039d923d99bca16777cf36e]: Commencement: Art. 43 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

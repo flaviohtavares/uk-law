@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — OFFENCE PROVISIONS[^key-c6c40e6728df302277b9552e5be48675]
+## SCHEDULE 6 — OFFENCE PROVISIONS[^c-c6c40e6728df302277b9552e5be48675]
 
 *Extent: E+W*
 
@@ -24,150 +24,150 @@ summary: ''
 
 Regulations 56 and 57
 
-### PART I — PROVISIONS WHERE DUE DILIGENCE DEFENCE IS AVAILABLE[^key-c6c40e6728df302277b9552e5be48675]
+### PART I — PROVISIONS WHERE DUE DILIGENCE DEFENCE IS AVAILABLE[^c-c6c40e6728df302277b9552e5be48675]
 
-#### Regulations—[^key-c6c40e6728df302277b9552e5be48675]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-c6c40e6728df302277b9552e5be48675]
+#### Regulations—[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — PROVISIONS WHERE DUE DILIGENCE DEFENCE IS NOT AVAILABLE[^key-c6c40e6728df302277b9552e5be48675]
-
-#### Regulations—[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+### PART II — PROVISIONS WHERE DUE DILIGENCE DEFENCE IS NOT AVAILABLE[^c-c6c40e6728df302277b9552e5be48675]
+
+#### Regulations—[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c40e6728df302277b9552e5be48675]
+[^c-c6c40e6728df302277b9552e5be48675]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c6c40e6728df302277b9552e5be48675]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c6c40e6728df302277b9552e5be48675]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/1387) revoked (31.5.2004) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2004 (revoked) 2004 (S.I. 2004/1430)](https://www.legislation.gov.uk/wsi/2004/1430), [reg. 1](https://www.legislation.gov.uk/wsi/2004/1430/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2004/1430/schedule/6)
+[^c-c6c40e6728df302277b9552e5be48675]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/1387) revoked (31.5.2004) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2004 (revoked) 2004 (S.I. 2004/1430)](https://www.legislation.gov.uk/wsi/2004/1430), [reg. 1](https://www.legislation.gov.uk/wsi/2004/1430/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2004/1430/schedule/6)

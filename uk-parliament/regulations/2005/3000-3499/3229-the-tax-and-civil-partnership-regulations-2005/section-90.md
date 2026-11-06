@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90.[^key-306bf2cf4412a14bfcbae6a3b46f3d57]
+## 90.[^c-306bf2cf4412a14bfcbae6a3b46f3d57]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 644 (meaning of “relevant earnings”), in subsection (6F)(c), afte
 
 ## Annotations
 
-[^key-306bf2cf4412a14bfcbae6a3b46f3d57]: Commencement: Reg. 90 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-306bf2cf4412a14bfcbae6a3b46f3d57]: Commencement: Reg. 90 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

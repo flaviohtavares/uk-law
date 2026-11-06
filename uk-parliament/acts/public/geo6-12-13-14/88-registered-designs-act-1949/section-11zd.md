@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subsections (2) and (3) below apply where the registrar intends to declare the registration of a design invalid under section 11ZA(1)(b) or (c), (1A), (3) or (4)[^key-762547a27bcc9bde8bed140b54c8f5dc] of this Act.
+(1) Subsections (2) and (3) below apply where the registrar intends to declare the registration of a design invalid under section 11ZA(1)(b) or (c), (1A), (3) or (4)[^c-762547a27bcc9bde8bed140b54c8f5dc] of this Act.
 
 (2) The registrar shall inform the registered proprietor of that fact.
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c1323168]: Textual amendment: Ss. 11-11ZF substituted (9.12.2001) for s. 11 by [S.I. 2001/3949](https://www.legislation.gov.uk/uksi/2001/3949), [reg. 7](https://www.legislation.gov.uk/uksi/2001/3949/regulation/7) (with transitional provisions in [regs. 10-14](https://www.legislation.gov.uk/uksi/2001/3949/regulation/10))
 
-[^key-762547a27bcc9bde8bed140b54c8f5dc]: Textual amendment: Words in s. 11ZD(1) substituted (1.10.2006) by [Regulatory Reform (Registered Designs) Order 2006 (S.I. 2006/1974)](https://www.legislation.gov.uk/uksi/2006/1974), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1974/article/1/1), [9](https://www.legislation.gov.uk/uksi/2006/1974/article/9) (with [art. 18](https://www.legislation.gov.uk/uksi/2006/1974/article/18))
+[^c-762547a27bcc9bde8bed140b54c8f5dc]: Textual amendment: Words in s. 11ZD(1) substituted (1.10.2006) by [Regulatory Reform (Registered Designs) Order 2006 (S.I. 2006/1974)](https://www.legislation.gov.uk/uksi/2006/1974), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1974/article/1/1), [9](https://www.legislation.gov.uk/uksi/2006/1974/article/9) (with [art. 18](https://www.legislation.gov.uk/uksi/2006/1974/article/18))

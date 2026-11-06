@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 394A. Temporary non-residents[^key-a96a96375182d4d318f1f10ba9018919]
+## 394A. Temporary non-residents[^c-a96a96375182d4d318f1f10ba9018919]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a96a96375182d4d318f1f10ba9018919]: Textual amendment: S. 394A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 125](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/125)
+[^c-a96a96375182d4d318f1f10ba9018919]: Textual amendment: S. 394A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 125](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/125)

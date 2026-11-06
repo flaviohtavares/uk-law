@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Directions by NDA to the person with control[^key-ac8c872b4ce23011e0e623fd9d86c64d]
+## 18. Directions by NDA to the person with control[^c-ac8c872b4ce23011e0e623fd9d86c64d]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ he must consult before preparing the plans, or before submitting them to the NDA
 
 ## Annotations
 
-[^key-ac8c872b4ce23011e0e623fd9d86c64d]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2004/20/section/18) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-ac8c872b4ce23011e0e623fd9d86c64d]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2004/20/section/18) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

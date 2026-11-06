@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Sale of vaping or nicotine products to under 18s[^key-db771f0c67a50c7a7b0361af8df55b37][^key-0a8040563dc9baabaf009be22ef37c85]
+## 80. Sale of vaping or nicotine products to under 18s[^c-db771f0c67a50c7a7b0361af8df55b37][^c-0a8040563dc9baabaf009be22ef37c85]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ After Article 4G of Health and Personal Social Services (Northern Ireland) Order
 
 ## Annotations
 
-[^key-db771f0c67a50c7a7b0361af8df55b37]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-db771f0c67a50c7a7b0361af8df55b37]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-0a8040563dc9baabaf009be22ef37c85]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2026/18/section/80) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-0a8040563dc9baabaf009be22ef37c85]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2026/18/section/80) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

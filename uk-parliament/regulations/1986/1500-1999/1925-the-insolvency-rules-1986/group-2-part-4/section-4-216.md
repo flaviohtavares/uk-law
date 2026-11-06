@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.216. Adjournment[^key-d9f6d421424e4ab4cba7c53df64a7645]
+## 4.216. Adjournment[^c-d9f6d421424e4ab4cba7c53df64a7645]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d9f6d421424e4ab4cba7c53df64a7645]: Commencement: [Rule 4.216](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.216) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d9f6d421424e4ab4cba7c53df64a7645]: Commencement: [Rule 4.216](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.216) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00116]: Marginal citation: \[FORM 4.66\]
 

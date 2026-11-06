@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Extension of BID arrangements: England[^key-55d06ae34ab9dcadfbf73e5209befb12]
+## 79. Extension of BID arrangements: England[^c-55d06ae34ab9dcadfbf73e5209befb12]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55d06ae34ab9dcadfbf73e5209befb12]: Textual amendment: S. 79 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/856/regulation/4/b)
+[^c-55d06ae34ab9dcadfbf73e5209befb12]: Textual amendment: S. 79 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/856/regulation/4/b)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Where, as a result of any discharge or escape of oil from a ship or as a result of any relevant threat of contamination, the registered owner[^key-3a840d3971d93f636d4604246fd63955] of the ship incurs a liability under section 153 and any other person incurs a liability, otherwise than under that section, for any such damage or cost as is mentioned in subsection (1) or (2) of that section then, if—
+Where, as a result of any discharge or escape of oil from a ship or as a result of any relevant threat of contamination, the registered owner[^c-3a840d3971d93f636d4604246fd63955] of the ship incurs a liability under section 153 and any other person incurs a liability, otherwise than under that section, for any such damage or cost as is mentioned in subsection (1) or (2) of that section then, if—
 
 - (a) the registered owner has been found, in proceedings under section 158 to be entitled to limit his liability to any amount and has paid into court a sum not less than that amount; and
 - (b) the other person is entitled to limit his liability in connection with the ship by virtue of section 185 or 186;
@@ -59,4 +59,4 @@ no proceedings shall be taken against the other person in respect of his liabili
 
     S. 160 extended (with modifications) to Saint Helena (20.5.1998) by [S.I. 1998/1263](https://www.legislation.gov.uk/uksi/1998/1263), [art. 2](https://www.legislation.gov.uk/uksi/1998/1263/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1263/schedule)
 
-[^key-3a840d3971d93f636d4604246fd63955]: Textual amendment: Words in [s. 160](https://www.legislation.gov.uk/ukpga/1995/21/section/160) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2006/1244/regulation/13) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-3a840d3971d93f636d4604246fd63955]: Textual amendment: Words in [s. 160](https://www.legislation.gov.uk/ukpga/1995/21/section/160) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2006/1244/regulation/13) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))

@@ -132,7 +132,7 @@ In these Regulations, unless otherwise stated—
 
 (4) The company need not pay the postage in respect of the return of the card or form in the following circumstances—
 
-- (a) if the address of a member to which notices are sent in accordance with the company's constitution is not within the United Kingdom or[^key-6862a87b1b197f5f4c260344e0c0cc9c] an EEA State,
+- (a) if the address of a member to which notices are sent in accordance with the company's constitution is not within the United Kingdom or[^c-6862a87b1b197f5f4c260344e0c0cc9c] an EEA State,
 - (b) if the address of a debenture holder to which notices are sent in accordance with the terms of any instrument constituting or otherwise governing the debentures of which the person is a holder is not within the United Kingdom or an EEA State, or
 - (c) if the address of a person to whom paragraph (2) applies to which notices are sent, in accordance with the contractual provisions under which the person has a right (conditionally or unconditionally) to become a person specified in section 423(l) of the 2006 Act, is not within the United Kingdom or an EEA State.
 
@@ -162,4 +162,4 @@ An impact assessment of the effect that the 2013 Regulations will have on the co
 
 [^c21880081]: Marginal citation: [Section 496](https://www.legislation.gov.uk/uksi/2013/1973/section/496) was amended by paragraph 21 of the Schedule to S.I 2013/xxx).
 
-[^key-6862a87b1b197f5f4c260344e0c0cc9c]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2013/1973/regulation/9/4) inserted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 34](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6862a87b1b197f5f4c260344e0c0cc9c]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2013/1973/regulation/9/4) inserted (31.12.2020) by [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 34](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

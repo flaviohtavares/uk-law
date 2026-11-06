@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Endangering another during sea crossing to United Kingdom[^key-fe53f22d144434ee6a9b1900f79e8010][^key-e497dd77d841702a33a0975f0ab8f0b3]
+## 21. Endangering another during sea crossing to United Kingdom[^c-fe53f22d144434ee6a9b1900f79e8010][^c-e497dd77d841702a33a0975f0ab8f0b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe53f22d144434ee6a9b1900f79e8010]: Commencement: S. 21 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-fe53f22d144434ee6a9b1900f79e8010]: Commencement: S. 21 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-e497dd77d841702a33a0975f0ab8f0b3]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/31/section/21) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/d)
+[^c-e497dd77d841702a33a0975f0ab8f0b3]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/31/section/21) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/d)

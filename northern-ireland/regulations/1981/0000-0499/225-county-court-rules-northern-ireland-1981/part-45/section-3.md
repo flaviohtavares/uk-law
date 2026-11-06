@@ -28,7 +28,7 @@ summary: ''
 - “**gilt unit trust scheme**” means an authorised unit trust scheme, or a recognised scheme, the objective of which is—
   - (a) to invest at least 90% of the property of the scheme in loan stock, bonds or other instruments creating indebtedness which—
     - (i) are transferable; and
-    - (ii) are issued or guaranteed by the Government of the United Kingdom or of any other country or territory, by a local authority in the United Kingdom [^key-31af3a6080a29a2dec218ba637167380]..., or by an international organisation the members of which include the United Kingdom [^key-31af3a6080a29a2dec218ba637167380]...;
+    - (ii) are issued or guaranteed by the Government of the United Kingdom or of any other country or territory, by a local authority in the United Kingdom [^c-31af3a6080a29a2dec218ba637167380]..., or by an international organisation the members of which include the United Kingdom [^c-31af3a6080a29a2dec218ba637167380]...;
   - (b) to invest the remainder of the property of the scheme in shares, debentures or other instruments creating or acknowledging indebtedness, certificates representing securities or units in a collective investment scheme.
 
   Sub-paragraphs (a) and (b) must be read with—
@@ -42,10 +42,10 @@ summary: ''
 - “**Treasury Bills**” includes bills issued by Her Majesty’s Government in the United Kingdom and Northern Ireland Treasury Bills;
 - “**variable-interest securities**” means securities which under the terms of issue bear a variable rate of interest.
 
-(2)[^key-ef27e2ba3058e67961f81523bb834f48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ef27e2ba3058e67961f81523bb834f48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-31af3a6080a29a2dec218ba637167380]: Textual amendment: Words in Order 45 rule 3(1) omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2019/234/article/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31af3a6080a29a2dec218ba637167380]: Textual amendment: Words in Order 45 rule 3(1) omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2019/234/article/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ef27e2ba3058e67961f81523bb834f48]: Textual amendment: Order 45 rule 3(2) omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(7)(b)](https://www.legislation.gov.uk/nisr/2019/234/article/3/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ef27e2ba3058e67961f81523bb834f48]: Textual amendment: Order 45 rule 3(2) omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(7)(b)](https://www.legislation.gov.uk/nisr/2019/234/article/3/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

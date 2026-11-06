@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Contributors to political fund[^key-1541561a3b52e6858bb5534e1e04984d]
+## 84. Contributors to political fund[^c-1541561a3b52e6858bb5534e1e04984d]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1541561a3b52e6858bb5534e1e04984d]: Textual amendment: S. 84 substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/62/3), [159(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/b) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 paras. 2-4](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/2))
+[^c-1541561a3b52e6858bb5534e1e04984d]: Textual amendment: S. 84 substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 62(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/62/3), [159(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/b) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 paras. 2-4](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/2))

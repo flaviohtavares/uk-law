@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.B.7A. Cases with non-concurrent officer service between periods of practitioner service[^key-a5544516e0a263a5a4ddf2fe0173f869]
+## 4.B.7A. Cases with non-concurrent officer service between periods of practitioner service[^c-a5544516e0a263a5a4ddf2fe0173f869]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ the reference amount in respect of such part of that officer service that is not
 
 ## Annotations
 
-[^key-a5544516e0a263a5a4ddf2fe0173f869]: Textual amendment: [Reg. 4.B.7A](https://www.legislation.gov.uk/uksi/2008/653/regulation/4) and cross-heading inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [99](https://www.legislation.gov.uk/uksi/2009/2446/regulation/99)
+[^c-a5544516e0a263a5a4ddf2fe0173f869]: Textual amendment: [Reg. 4.B.7A](https://www.legislation.gov.uk/uksi/2008/653/regulation/4) and cross-heading inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [99](https://www.legislation.gov.uk/uksi/2009/2446/regulation/99)

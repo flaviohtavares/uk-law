@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health
 
-The Plant Health (Amendment No.3) Order (Northern Ireland) 2012 (revoked)[^key-5c14683da70ba50c8e67d72d6e3021cd]
+The Plant Health (Amendment No.3) Order (Northern Ireland) 2012 (revoked)[^c-5c14683da70ba50c8e67d72d6e3021cd]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 26th October 2012
 
-[^key-5c14683da70ba50c8e67d72d6e3021cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c14683da70ba50c8e67d72d6e3021cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5c14683da70ba50c8e67d72d6e3021cd]
+## 1. Citation and commencement[^c-5c14683da70ba50c8e67d72d6e3021cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments of the Plant Health Order (Northern Ireland) 2006[^key-5c14683da70ba50c8e67d72d6e3021cd]
+## 2. Amendments of the Plant Health Order (Northern Ireland) 2006[^c-5c14683da70ba50c8e67d72d6e3021cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5c14683da70ba50c8e67d72d6e3021cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c14683da70ba50c8e67d72d6e3021cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5c14683da70ba50c8e67d72d6e3021cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c14683da70ba50c8e67d72d6e3021cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c14683da70ba50c8e67d72d6e3021cd]: Textual amendment: Order revoked (10.5.2013) by [The Plant Health (Amendment No.2) Order (Northern Ireland) 2013 (S.R. 2013/103)](https://www.legislation.gov.uk/nisr/2013/103), [arts. 1](https://www.legislation.gov.uk/nisr/2013/103/article/1), [3](https://www.legislation.gov.uk/nisr/2013/103/article/3)
+[^c-5c14683da70ba50c8e67d72d6e3021cd]: Textual amendment: Order revoked (10.5.2013) by [The Plant Health (Amendment No.2) Order (Northern Ireland) 2013 (S.R. 2013/103)](https://www.legislation.gov.uk/nisr/2013/103), [arts. 1](https://www.legislation.gov.uk/nisr/2013/103/article/1), [3](https://www.legislation.gov.uk/nisr/2013/103/article/3)

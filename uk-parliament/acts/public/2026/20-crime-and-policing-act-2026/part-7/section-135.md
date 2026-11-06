@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Encouraging or assisting serious self-harm[^key-5485ce5ff8504e9d139b5c5c5b472757]
+## 135. Encouraging or assisting serious self-harm[^c-5485ce5ff8504e9d139b5c5c5b472757]
 
 *Extent: E+W+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5485ce5ff8504e9d139b5c5c5b472757]: Commencement: S. 135 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(k)
+[^c-5485ce5ff8504e9d139b5c5c5b472757]: Commencement: S. 135 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(k)

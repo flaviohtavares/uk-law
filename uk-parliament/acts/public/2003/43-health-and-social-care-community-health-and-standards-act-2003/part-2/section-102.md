@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Transfer of functions to CHAI and CSCI[^key-ad3e48c1826a464aac01822cc5772c5d]
+## 102. Transfer of functions to CHAI and CSCI[^c-ad3e48c1826a464aac01822cc5772c5d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad3e48c1826a464aac01822cc5772c5d]: Textual amendment: Ss. 102-104 repealed (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/44), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 paras. 35(r)](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35/r), [36](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/36)
+[^c-ad3e48c1826a464aac01822cc5772c5d]: Textual amendment: Ss. 102-104 repealed (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 44](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/44), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 paras. 35(r)](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35/r), [36](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/36)

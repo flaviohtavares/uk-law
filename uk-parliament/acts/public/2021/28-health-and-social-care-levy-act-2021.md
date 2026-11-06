@@ -32,38 +32,38 @@ Health and Social Care Levy Act 2021 (repealed)
 
 2021 Chapter 28
 
-[^key-e2ccc501cb7966b4c4472803435daf4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2ccc501cb7966b4c4472803435daf4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Health and social care levy[^key-e2ccc501cb7966b4c4472803435daf4b]
+## 1. Health and social care levy[^c-e2ccc501cb7966b4c4472803435daf4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Destination of proceeds of health and social care levy[^key-e2ccc501cb7966b4c4472803435daf4b]
+## 2. Destination of proceeds of health and social care levy[^c-e2ccc501cb7966b4c4472803435daf4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of national insurance contributions legislation[^key-e2ccc501cb7966b4c4472803435daf4b]
+## 3. Application of national insurance contributions legislation[^c-e2ccc501cb7966b4c4472803435daf4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Regulations[^key-e2ccc501cb7966b4c4472803435daf4b]
+## 4. Regulations[^c-e2ccc501cb7966b4c4472803435daf4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional provision: temporary increase in rates of NICs payable to NHS[^key-e2ccc501cb7966b4c4472803435daf4b]
+## 5. Transitional provision: temporary increase in rates of NICs payable to NHS[^c-e2ccc501cb7966b4c4472803435daf4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Interpretation[^key-e2ccc501cb7966b4c4472803435daf4b]
+## 6. Interpretation[^c-e2ccc501cb7966b4c4472803435daf4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Short title and Crown application[^key-e2ccc501cb7966b4c4472803435daf4b]
+## 7. Short title and Crown application[^c-e2ccc501cb7966b4c4472803435daf4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e2ccc501cb7966b4c4472803435daf4b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2021/28) repealed (25.10.2022) by [Health and Social Care Levy (Repeal) Act 2022 (c. 43)](https://www.legislation.gov.uk/ukpga/2022/43), [s. 1](https://www.legislation.gov.uk/ukpga/2022/43/section/1) (with [s. 2(1)](https://www.legislation.gov.uk/ukpga/2022/43/section/2/1))
+[^c-e2ccc501cb7966b4c4472803435daf4b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2021/28) repealed (25.10.2022) by [Health and Social Care Levy (Repeal) Act 2022 (c. 43)](https://www.legislation.gov.uk/ukpga/2022/43), [s. 1](https://www.legislation.gov.uk/ukpga/2022/43/section/1) (with [s. 2(1)](https://www.legislation.gov.uk/ukpga/2022/43/section/2/1))

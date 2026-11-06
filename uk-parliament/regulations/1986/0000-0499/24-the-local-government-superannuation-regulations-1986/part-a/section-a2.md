@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## A2. Interpretation[^key-0a22f58c869a8b58d23d18e0e39d246a]
+## A2. Interpretation[^c-0a22f58c869a8b58d23d18e0e39d246a]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a22f58c869a8b58d23d18e0e39d246a]: Commencement: [Reg. A2](https://www.legislation.gov.uk/uksi/1986/24/regulation/A2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-0a22f58c869a8b58d23d18e0e39d246a]: Commencement: [Reg. A2](https://www.legislation.gov.uk/uksi/1986/24/regulation/A2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00003]: Footnote: [S.I. 1973/1996](https://www.legislation.gov.uk/uksi/1973/1996).

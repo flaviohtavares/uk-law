@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Administering etc harmful substances (including by spiking)[^key-74b82e60ed7439e1c8d7c53f82d7cc30]
+## 134. Administering etc harmful substances (including by spiking)[^c-74b82e60ed7439e1c8d7c53f82d7cc30]
 
 *Extent: E+W+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74b82e60ed7439e1c8d7c53f82d7cc30]: Commencement: S. 134 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(k)
+[^c-74b82e60ed7439e1c8d7c53f82d7cc30]: Commencement: S. 134 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(k)

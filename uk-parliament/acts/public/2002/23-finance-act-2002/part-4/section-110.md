@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Land in disadvantaged areas[^key-9b514375253b9f8d2acaf0cf8e7d1825]
+## 110. Land in disadvantaged areas[^c-9b514375253b9f8d2acaf0cf8e7d1825]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b514375253b9f8d2acaf0cf8e7d1825]: Textual amendment: [S. 110](https://www.legislation.gov.uk/ukpga/2002/23/section/110) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/7/2/a) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-9b514375253b9f8d2acaf0cf8e7d1825]: Textual amendment: [S. 110](https://www.legislation.gov.uk/ukpga/2002/23/section/110) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/7/2/a) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

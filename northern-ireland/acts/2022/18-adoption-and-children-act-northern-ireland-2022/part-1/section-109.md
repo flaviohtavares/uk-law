@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 109. Effect of certain Scottish orders and provisions[^key-b35daa179b7888507baaf1166cce293d]
+## 109. Effect of certain Scottish orders and provisions[^c-b35daa179b7888507baaf1166cce293d]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b35daa179b7888507baaf1166cce293d]: Commencement: S. 109 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-b35daa179b7888507baaf1166cce293d]: Commencement: S. 109 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019[^key-3cd5a50dea2683d80aeb4f0f9a7a115f]
+## 5. The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019[^c-3cd5a50dea2683d80aeb4f0f9a7a115f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Official Controls (Plant Health and Genetically Modified Organisms) (England
 
 ## Annotations
 
-[^key-3cd5a50dea2683d80aeb4f0f9a7a115f]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-3cd5a50dea2683d80aeb4f0f9a7a115f]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24374911]: Marginal citation: [S.I. 2019/1517](https://www.legislation.gov.uk/uksi/2019/1517), amended by [S.I. 2020/381](https://www.legislation.gov.uk/uksi/2020/381), 1014; there are other amending instruments but none is relevant.

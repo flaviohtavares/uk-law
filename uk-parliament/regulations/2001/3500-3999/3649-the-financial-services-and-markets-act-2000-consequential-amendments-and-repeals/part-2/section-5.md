@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Meaning of “offer to the public”[^key-59a719784a74b7a6f379a4ba3cc1cc28]
+## 5. Meaning of “offer to the public”[^c-59a719784a74b7a6f379a4ba3cc1cc28]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Sections 59 and 60 of the 1985 Act[^f00012] (so far as those sections continue t
 
 ## Annotations
 
-[^key-59a719784a74b7a6f379a4ba3cc1cc28]: Commencement: Art. 5 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-59a719784a74b7a6f379a4ba3cc1cc28]: Commencement: Art. 5 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00012]: Footnote: Repealed in part by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), Schedule 17; section 60 was amended by [S.I. 1991/2000](https://www.legislation.gov.uk/uksi/1991/2000), regulation 5.

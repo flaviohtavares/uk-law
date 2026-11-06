@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Notification for registration[^key-85752bcae80aeabf2db448f6cb7b9891]
+## 36. Notification for registration[^c-85752bcae80aeabf2db448f6cb7b9891]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,11 +31,11 @@ as the FCA may direct.
 
 (3) For the purposes of paragraph (1), the final day is—
 
-- (a) the day before the day on which IP completion day[^key-cd1a394fd058b7848576b94aa816ff4f] occurs, or
+- (a) the day before the day on which IP completion day[^c-cd1a394fd058b7848576b94aa816ff4f] occurs, or
 - (b) such earlier day as the FCA may direct.
 
 ## Annotations
 
-[^key-85752bcae80aeabf2db448f6cb7b9891]: Commencement: Reg. 36 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-85752bcae80aeabf2db448f6cb7b9891]: Commencement: Reg. 36 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
 
-[^key-cd1a394fd058b7848576b94aa816ff4f]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2019/266/regulation/36) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [11(f)](https://www.legislation.gov.uk/uksi/2020/56/regulation/11/f)
+[^c-cd1a394fd058b7848576b94aa816ff4f]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2019/266/regulation/36) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [11(f)](https://www.legislation.gov.uk/uksi/2020/56/regulation/11/f)

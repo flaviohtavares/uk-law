@@ -50,11 +50,11 @@ The Secretary of State has consulted in accordance with section 10 of the Act.
 
 A draft of this Order, and an explanatory document containing the information required by section 11(2) of the Act, have been laid before Parliament in accordance with section 11(1) of the Act after the end of the period of twelve weeks mentioned in section 11(3) of the Act. In accordance with section 11(4) of the Act, the draft of this Order has been approved by a resolution of each House of Parliament after the expiry of the 40-day period referred to in that provision.
 
-## 1. Citation and commencement[^key-28aed2a18cdd73d068c3b8f634e8920a]
+## 1. Citation and commencement[^c-28aed2a18cdd73d068c3b8f634e8920a]
 
 This Order may be cited as the Public Bodies (Marine Management Organisation) (Fees) Order 2014 and comes into force on the day after the date on which it was made.
 
-## 2. Interpretation[^key-6aa44335c8618bfa49513335672f8719]
+## 2. Interpretation[^c-6aa44335c8618bfa49513335672f8719]
 
 In this Order—
 
@@ -65,20 +65,20 @@ In this Order—
   - (a) for the purposes of determining the environmental, economic or social consequences of any activity permitted by that licence; or
   - (b) for the purposes of determining whether the holder of that licence is complying with any conditions attached to that licence under section 71(1)(b) of the 2009 Act or, in the case of a licence which is deemed to have been issued by provision in a development consent order made by virtue of section 149A of the Planning Act 2008, with any conditions deemed to be attached to that licence under subsection (3) of that section.
 
-## 3. Application[^key-6a9a4f5fb0712937ad5f84082cbc2693]
+## 3. Application[^c-6a9a4f5fb0712937ad5f84082cbc2693]
 
 This Order applies in relation to any licence in relation to which the Secretary of State is the appropriate licensing authority under section 113 of the 2009 Act[^f00005], other than any such licence relating to an activity falling within the subject matter of—
 
 - (a) the Petroleum Act 1998[^f00006]; or
 - (b) Part 1 (gas importation or storage), Part 4 (provisions relating to oil and gas storage) or Part 4A (works detrimental to navigation) of the Energy Act 2008[^f00007].
 
-## 4. Fee payable for monitoring[^key-56902a10dcd0f7ab3f266efa890f9e3f]
+## 4. Fee payable for monitoring[^c-56902a10dcd0f7ab3f266efa890f9e3f]
 
 (1) The MMO may charge the holder of a licence a fee for monitoring an activity authorised by that licence.
 
 (2) The fee payable in respect of monitoring of a description specified in the first column of Schedule 1 in relation to licences of a description specified in the second column of that Schedule are set out in the third column of that Schedule.
 
-## 5. Fee payable for variation or transfer[^key-de1590f1b7bce4e52cd9228d277cee06]
+## 5. Fee payable for variation or transfer[^c-de1590f1b7bce4e52cd9228d277cee06]
 
 (1) The MMO may charge a fee in respect of determining an application for—
 
@@ -89,7 +89,7 @@ This Order applies in relation to any licence in relation to which the Secretary
 
 (3) Paragraph (1) does not apply in relation to any application received before the date on which these Regulations come into force.
 
-## 6. Calculation and determination of fees[^key-5ab0218ebd1e1cee94cc543f1e2ae673]
+## 6. Calculation and determination of fees[^c-5ab0218ebd1e1cee94cc543f1e2ae673]
 
 (1) Where a fee is to be calculated at an hourly rate, the total number of hours worked may be expressed as a fraction where—
 
@@ -102,7 +102,7 @@ This Order applies in relation to any licence in relation to which the Secretary
 
 (4) Where monitoring in relation to a licence of a kind mentioned in the first entry in the second column of Schedule 1 is carried out on more than one occasion, the maximum specified in the third column of that Schedule in relation to the fee for such monitoring applies in relation to the aggregate of the various amounts that (but for that limit) would be payable by way of fees in respect of the monitoring carried out on those occasions.
 
-## 7. Deposits[^key-19a5d784c8d5b9780f61872812f9f69c]
+## 7. Deposits[^c-19a5d784c8d5b9780f61872812f9f69c]
 
 (1) The MMO may require the holder of a licence to pay a deposit of such amount as it may determine on account of any fee payable under article 4 or 5 which—
 
@@ -115,7 +115,7 @@ This Order applies in relation to any licence in relation to which the Secretary
 
 (3) The amount of the deposit must be calculated on the basis of an estimate of the total amount of the fee.
 
-## 8. Payment of fees[^key-8baa0084d22a6cf94a509192c9978f98]
+## 8. Payment of fees[^c-8baa0084d22a6cf94a509192c9978f98]
 
 (1) Any fee charged under this Order must be paid on demand to the MMO.
 
@@ -131,13 +131,13 @@ This Order applies in relation to any licence in relation to which the Secretary
 
 (7) If a holder of a licence who makes an application for the variation of a licence under section 72(3) of the 2009 Act, or an application under section 72(7) of that Act, fails to comply with a requirement to pay a fee charged under article 5(1) or a deposit payable under article 7(1) on account of that fee, the MMO may refuse to proceed with the application until the fee is paid in full.
 
-## 9. Repayment, waiver or reduction of fee[^key-11dbcac762907543613a212a5f0d4915]
+## 9. Repayment, waiver or reduction of fee[^c-11dbcac762907543613a212a5f0d4915]
 
 (1) The MMO must refund any amount paid in excess of the fee payable, but fees paid are not otherwise refundable.
 
 (2) The MMO may waive or reduce any fee if it sees fit.
 
-## 10. Appeals[^key-387c16f6fab547de2fda7cf4f3a4383c]
+## 10. Appeals[^c-387c16f6fab547de2fda7cf4f3a4383c]
 
 (1) The holder of a licence may appeal against a notice issued by the MMO under article 8(6) (variation, suspension or revocation of a licence).
 
@@ -151,7 +151,7 @@ Department for Environment, Food and Rural Affairs
 
 14th September 2014
 
-## SCHEDULE 1 — Fee payable for monitoring[^key-5c3c5713ab37cfc1d18899f1ed4dd580]
+## SCHEDULE 1 — Fee payable for monitoring[^c-5c3c5713ab37cfc1d18899f1ed4dd580]
 
 Article 4(2)
 
@@ -162,7 +162,7 @@ Article 4(2)
 |  | A licence deemed to have been issued by provision in a development consent order made by virtue of section 149A of the Planning Act 2008[^f00010]. | A fee calculated at a rate of £94 per hour. |
 | In relation to a licensable activity of a kind mentioned in item 1 of section 66(1) of the 2009 Act, inspecting the licensable activity or place where it is or was carried on; analysing any samples taken or further information gathered; and preparing a report. | Any licence. | A fee of A x B, where A is the amount of the tonnage of material disposed of at sea in any relevant year and B is £0.01,<br>subject to a maximum of £15,000.<br>For this purpose, “relevant year” means the year in respect of which the fee is charged, beginning with the date on which monitoring begins or any anniversary of that date |
 
-## SCHEDULE 2 — Fee payable for variation or transfer[^key-90390880545b030647532b3058ed8514]
+## SCHEDULE 2 — Fee payable for variation or transfer[^c-90390880545b030647532b3058ed8514]
 
 Article 5(2)
 
@@ -188,9 +188,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2011 c.24](https://www.legislation.gov.uk/ukpga/2011/24). Section 36(1) contains a definition of “Minister”.
 
-[^key-28aed2a18cdd73d068c3b8f634e8920a]: Commencement: Art. 1 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
+[^c-28aed2a18cdd73d068c3b8f634e8920a]: Commencement: Art. 1 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
 
-[^key-6aa44335c8618bfa49513335672f8719]: Commencement: Art. 2 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
+[^c-6aa44335c8618bfa49513335672f8719]: Commencement: Art. 2 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
 
 [^f00002]: Footnote: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23).
 
@@ -198,7 +198,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00004]: Footnote: The MMO was established by section 1 of the 2009 Act. The functions of the Secretary of State under Chapter 4 of the 2009 Act have (with some exceptions) been delegated to the MMO by [S.I. 2011/627](https://www.legislation.gov.uk/uksi/2011/627).
 
-[^key-6a9a4f5fb0712937ad5f84082cbc2693]: Commencement: Art. 3 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
+[^c-6a9a4f5fb0712937ad5f84082cbc2693]: Commencement: Art. 3 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
 
 [^f00005]: Footnote: By virtue of section 113(2)(a), 4(a), (6)(a) and (8) of the 2009 Act, the Secretary of State is the appropriate licensing authority as respects anything done in the course of carrying on certain activities in the Scottish offshore region, Wales and the Welsh inshore region, Northern Ireland and the Northern Ireland inshore region, and in relation to any other area not mentioned in subsection (2), (4) or (6). See section 322(1) for the definition of those regions.
 
@@ -206,28 +206,28 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00007]: Footnote: [2008 c.32](https://www.legislation.gov.uk/ukpga/2008/32). In Part 1, sections 1 and 35(1) were amended by section 41(8) of, and paragraph 5 of Schedule 4 to, the 2009 Act. Part 4A was inserted by section 314(1) of the Act. Section 30 was amended, and sections 30A and 30B were inserted, by section 107 of the Energy Act 2011; section 46 was amended by section 106 of that Act; and section 88 was amended by section 73 of that Act. Sections 41, 46, 49, 50, 54, 59, 63, 65 and 66 were amended by sections 116, 146 and 149 of the Energy Act 2013 and section 45A was inserted by section 149 of that Act. Sections 17 to 19, 21 to 23, 26 to 28, 30, 31 and 35 were amended by [S.I. 2011/2453](https://www.legislation.gov.uk/uksi/2011/2453) and [SSI 2011/224](https://www.legislation.gov.uk/ssi/2011/224). Section 100 was amended by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195).
 
-[^key-56902a10dcd0f7ab3f266efa890f9e3f]: Commencement: Art. 4 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
+[^c-56902a10dcd0f7ab3f266efa890f9e3f]: Commencement: Art. 4 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
 
-[^key-de1590f1b7bce4e52cd9228d277cee06]: Commencement: Art. 5 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
+[^c-de1590f1b7bce4e52cd9228d277cee06]: Commencement: Art. 5 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
 
-[^key-5ab0218ebd1e1cee94cc543f1e2ae673]: Commencement: Art. 6 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
+[^c-5ab0218ebd1e1cee94cc543f1e2ae673]: Commencement: Art. 6 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
 
-[^key-19a5d784c8d5b9780f61872812f9f69c]: Commencement: Art. 7 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
+[^c-19a5d784c8d5b9780f61872812f9f69c]: Commencement: Art. 7 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
 
-[^key-8baa0084d22a6cf94a509192c9978f98]: Commencement: Art. 8 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
+[^c-8baa0084d22a6cf94a509192c9978f98]: Commencement: Art. 8 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
 
-[^key-11dbcac762907543613a212a5f0d4915]: Commencement: Art. 9 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
+[^c-11dbcac762907543613a212a5f0d4915]: Commencement: Art. 9 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
 
-[^key-387c16f6fab547de2fda7cf4f3a4383c]: Commencement: Art. 10 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
+[^c-387c16f6fab547de2fda7cf4f3a4383c]: Commencement: Art. 10 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
 
 [^f00008]: Footnote: [S.I. 2011/936](https://www.legislation.gov.uk/uksi/2011/936).
 
-[^key-5c3c5713ab37cfc1d18899f1ed4dd580]: Commencement: Sch. 1 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
+[^c-5c3c5713ab37cfc1d18899f1ed4dd580]: Commencement: Sch. 1 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
 
 [^f00009]: Footnote: [S.I. 2014/615](https://www.legislation.gov.uk/uksi/2014/615).
 
 [^f00010]: Footnote: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-90390880545b030647532b3058ed8514]: Commencement: Sch. 2 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
+[^c-90390880545b030647532b3058ed8514]: Commencement: Sch. 2 in force at 15.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2555/article/1)
 
 [^f00011]: Footnote: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29).

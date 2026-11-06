@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32D. Penalties for contravention of information requirements[^key-acdfbb0ad383a15662c5d0f1df750079]
+## 32D. Penalties for contravention of information requirements[^c-acdfbb0ad383a15662c5d0f1df750079]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acdfbb0ad383a15662c5d0f1df750079]: Textual amendment: Ss. 32A-32E inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/10) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-acdfbb0ad383a15662c5d0f1df750079]: Textual amendment: Ss. 32A-32E inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/10) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

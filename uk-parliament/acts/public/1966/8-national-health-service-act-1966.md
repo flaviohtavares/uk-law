@@ -41,7 +41,7 @@ An Act to facilitate the financing of premises and equipment used by practitione
 
 ## Remuneration of general practitioners
 
-### 10. Modification of prohibition of full-time salaried practitioner service.[^M_F_2bf27347-6fa3-4976-f2d0-c42d4b9776bf][^key-c6f0fe7be43b64127c336e0431282032]
+### 10. Modification of prohibition of full-time salaried practitioner service.[^M_F_2bf27347-6fa3-4976-f2d0-c42d4b9776bf][^c-c6f0fe7be43b64127c336e0431282032]
 
 *Extent: E+W*
 
@@ -75,7 +75,7 @@ An Act to facilitate the financing of premises and equipment used by practitione
 
 [^M_F_2bf27347-6fa3-4976-f2d0-c42d4b9776bf]: Textual amendment: S. 10 repealed (S.) (1.10.1999) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [s. 65](https://www.legislation.gov.uk/ukpga/1999/8/section/65), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/1999/8/schedule/4/paragraph/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2](https://www.legislation.gov.uk/ssi/1999/90/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/1999/90/schedule/1), [sch. 2](https://www.legislation.gov.uk/ssi/1999/90/schedule/2)
 
-[^key-c6f0fe7be43b64127c336e0431282032]: Textual amendment: S. 10 repealed (E.W) (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-c6f0fe7be43b64127c336e0431282032]: Textual amendment: S. 10 repealed (E.W) (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
 [^c6680411]: Textual amendment: [Ss. 11](https://www.legislation.gov.uk/ukpga/1966/8/section/11), [12(2)(3)](https://www.legislation.gov.uk/ukpga/1966/8/section/12/2/3) and Schedule repealed by [Health and Medicines Act 1988 (c. 49, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1988/49), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1988/49/section/25/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1988/49/schedule/3)
 

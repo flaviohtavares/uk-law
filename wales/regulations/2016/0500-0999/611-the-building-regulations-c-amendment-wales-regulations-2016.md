@@ -47,7 +47,7 @@ The Welsh Ministers are designated[^f00001] for the purposes of section 2(2) of 
 
 The Welsh Ministers, in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972 and by sections 1, 34, 35 and 47 of, and paragraphs 1, 2, 4, 4A, 7 and 10 of Schedule 1 to, the Building Act 1984[^f00003], now exercisable by them[^f00004], having consulted the Building Regulations Advisory Committee for Wales and such other bodies as appear to them to be representative of the interests concerned in accordance with section 14(7) of the Building Act 1984[^f00005], make the following Regulations.
 
-## 1. Title, application and commencement[^key-de9162f782b0f13726a729869fe0b339]
+## 1. Title, application and commencement[^c-de9162f782b0f13726a729869fe0b339]
 
 (1) The title of these Regulations is the Building Regulations &c. (Amendment) (Wales) Regulations 2016.
 
@@ -57,7 +57,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by section 2(2)
 
 (4) These Regulations come into force on 17 June 2016.
 
-## 2. Amendments to the Building Regulations 2010[^key-1959db1ff8b13cfb6910ad6a97847b23]
+## 2. Amendments to the Building Regulations 2010[^c-1959db1ff8b13cfb6910ad6a97847b23]
 
 (1) The Building Regulations 2010[^f00007] are amended in accordance with the following paragraphs.
 
@@ -157,7 +157,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by section 2(2)
 
 (22) In Schedule 3 (self-certification schemes and exemptions from requirement to give building notice or deposit full plans), in column 2 of items 8 and 10 omit “BSI Assurance UK Limited,”.
 
-## 3. Amendments to the Building (Approved Inspectors etc.) Regulations 2010[^key-9707d8896ac5858d3677f9a8ae3d6cca]
+## 3. Amendments to the Building (Approved Inspectors etc.) Regulations 2010[^c-9707d8896ac5858d3677f9a8ae3d6cca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -201,14 +201,14 @@ No impact assessment has been produced for these Regulations as no impact, or mi
 
 [^f00005]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). Section 14(7) was inserted by article 8(5) of the Welsh Ministers (Transfer of Functions) (No. 2) Order 2009 ([S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019)).
 
-[^key-de9162f782b0f13726a729869fe0b339]: Commencement: Reg. 1 in force at 17.6.2016, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/611/regulation/1/4)
+[^c-de9162f782b0f13726a729869fe0b339]: Commencement: Reg. 1 in force at 17.6.2016, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/611/regulation/1/4)
 
 [^f00006]: Footnote: [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019).
 
-[^key-1959db1ff8b13cfb6910ad6a97847b23]: Commencement: Reg. 2 in force at 17.6.2016, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/611/regulation/1/4)
+[^c-1959db1ff8b13cfb6910ad6a97847b23]: Commencement: Reg. 2 in force at 17.6.2016, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2016/611/regulation/1/4)
 
 [^f00007]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), relevant amending instruments are [S.I. 2013/747 (W. 89)](https://www.legislation.gov.uk/wsi/2013/747), [S.I. 2013/2621 (W. 258)](https://www.legislation.gov.uk/wsi/2013/2621), [S.I. 2014/110 (W. 10)](https://www.legislation.gov.uk/wsi/2014/110), [S.I. 2015/1486 (W. 165)](https://www.legislation.gov.uk/wsi/2015/1486) and [S.I. 2016/361 (W. 113)](https://www.legislation.gov.uk/wsi/2016/361). There are other amending instruments that are not relevant to this instrument.
 
 [^f00008]: Footnote: [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118), as amended by [S.I. 2013/10](https://www.legislation.gov.uk/uksi/2013/10); [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181); [S.I. 2013/603](https://www.legislation.gov.uk/uksi/2013/603); [S.I. 2014/880](https://www.legislation.gov.uk/uksi/2014/880); [S.I. 2015/609](https://www.legislation.gov.uk/uksi/2015/609); [S.I. 2015/1681](https://www.legislation.gov.uk/uksi/2015/1681) and [S.I. 2016/284](https://www.legislation.gov.uk/uksi/2016/284).
 
-[^key-9707d8896ac5858d3677f9a8ae3d6cca]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/611/regulation/3) revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(d)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/d)
+[^c-9707d8896ac5858d3677f9a8ae3d6cca]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/611/regulation/3) revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(d)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/d)

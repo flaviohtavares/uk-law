@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 161. Energy administrator’s security[^key-c635659bd1eea1d51b5feec40ff5453f]
+## 161. Energy administrator’s security[^c-c635659bd1eea1d51b5feec40ff5453f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c635659bd1eea1d51b5feec40ff5453f]: Commencement: Rule 161 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-c635659bd1eea1d51b5feec40ff5453f]: Commencement: Rule 161 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

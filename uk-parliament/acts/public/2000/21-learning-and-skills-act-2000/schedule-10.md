@@ -78,13 +78,13 @@ Section 151.
 - (a) it were made under section 18(4) of this Act, and
 - (b) it conferred or imposed the function on the new Council.
 
-### Part II — WELSH COUNCILS[^key-36358fc1c02ede6a1822ed6085e01063]
+### Part II — WELSH COUNCILS[^c-36358fc1c02ede6a1822ed6085e01063]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III — Adult Learning Inspectorate
 
-**...**[^key-dddb013225240b078f1d2cb56814dc04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**...**[^c-dddb013225240b078f1d2cb56814dc04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part IV — Student loans
 
@@ -98,9 +98,9 @@ Section 151.
 
 [^c13167741]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-36358fc1c02ede6a1822ed6085e01063]: Textual amendment: Sch. 10 Pt. II omitted (1.4.2006) by virtue of [National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 84](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/84) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))
+[^c-36358fc1c02ede6a1822ed6085e01063]: Textual amendment: Sch. 10 Pt. II omitted (1.4.2006) by virtue of [National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 84](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/84) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))
 
-[^key-dddb013225240b078f1d2cb56814dc04]: Textual amendment: Sch. 10 Pt. III repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 67](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/67), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)
+[^c-dddb013225240b078f1d2cb56814dc04]: Textual amendment: Sch. 10 Pt. III repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 67](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/67), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)
 
 [^c13167771]: Marginal citation: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6).
 

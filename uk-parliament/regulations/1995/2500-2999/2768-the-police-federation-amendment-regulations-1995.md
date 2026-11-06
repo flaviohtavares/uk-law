@@ -30,7 +30,7 @@ summary: ''
 
 POLICE
 
-The Police Federation (Amendment) Regulations 1995 (revoked)[^key-0e061b792cfc4835eab390df1c7b85f1]
+The Police Federation (Amendment) Regulations 1995 (revoked)[^c-0e061b792cfc4835eab390df1c7b85f1]
 
 Made
 
@@ -44,36 +44,36 @@ Coming into force
 
 15th November 1995
 
-[^key-0e061b792cfc4835eab390df1c7b85f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e061b792cfc4835eab390df1c7b85f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-0e061b792cfc4835eab390df1c7b85f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e061b792cfc4835eab390df1c7b85f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e061b792cfc4835eab390df1c7b85f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0e061b792cfc4835eab390df1c7b85f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e061b792cfc4835eab390df1c7b85f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0e061b792cfc4835eab390df1c7b85f1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/2768) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+[^c-0e061b792cfc4835eab390df1c7b85f1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1995/2768) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))

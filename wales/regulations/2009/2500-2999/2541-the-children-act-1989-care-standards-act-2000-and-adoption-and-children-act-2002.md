@@ -49,7 +49,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement and application[^key-b5f9fdd4e6fdb09b516c4074f4c93f11]
+### 1. Title, commencement and application[^c-b5f9fdd4e6fdb09b516c4074f4c93f11]
 
 (1) The title of these Regulations is the Children Act 1989, Care Standards Act 2000 and Adoption and Children Act 2002 (Miscellaneous Amendments) (Wales) Regulations 2009 and they come into force on 12 October 2009.
 
@@ -57,11 +57,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 2 — Child minding and day care
 
-### 2. Amendments to the Child Minding and Day Care (Wales) Regulations 2002[^key-fcb6ad4b79876b0257dfe648529c9a37]
+### 2. Amendments to the Child Minding and Day Care (Wales) Regulations 2002[^c-fcb6ad4b79876b0257dfe648529c9a37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendments to the Disqualification from Caring for Children (Wales) Regulations 2004[^key-6268bf44274f1650c81b5fd40ad30438]
+### 3. Amendments to the Disqualification from Caring for Children (Wales) Regulations 2004[^c-6268bf44274f1650c81b5fd40ad30438]
 
 (1) The Schedule to the Disqualification from Caring for Children (Wales) Regulations 2004[^f00010] is amended as follows.
 
@@ -81,7 +81,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 3 — Establishments and agencies — children
 
-### 4. Amendment to the Adoption Agencies (Wales) Regulations 2005[^key-dcdb386a8c496bdb22c7770d657101ee]
+### 4. Amendment to the Adoption Agencies (Wales) Regulations 2005[^c-dcdb386a8c496bdb22c7770d657101ee]
 
 (1) The Adoption Agencies (Wales) Regulations 2005[^f00013] are amended as follows.
 
@@ -91,7 +91,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 .
 
-### 5. Amendment to the Adoption Support Agencies (Wales) Regulations 2005[^key-2efcbe4ea2b52af722db1a4ae5e5923e]
+### 5. Amendment to the Adoption Support Agencies (Wales) Regulations 2005[^c-2efcbe4ea2b52af722db1a4ae5e5923e]
 
 (1) The Adoption Support Agencies (Wales) Regulations 2005[^f00014] are amended as follows.
 
@@ -104,7 +104,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 .
 
-### 6. Amendments to the Children’s Homes (Wales) Regulations 2002[^key-ed7eac1ab80b8f14a1f58551902bc9bd]
+### 6. Amendments to the Children’s Homes (Wales) Regulations 2002[^c-ed7eac1ab80b8f14a1f58551902bc9bd]
 
 (1) The Children’s Homes (Wales) Regulations 2002[^f00015] are amended as follows.
 
@@ -153,7 +153,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
   ;
 - (b) omit paragraphs 7 and 8.
 
-### 7. Amendments to the Fostering Services (Wales) Regulations 2003[^key-99593c4e98d2b12e456e95f06fb7c698]
+### 7. Amendments to the Fostering Services (Wales) Regulations 2003[^c-99593c4e98d2b12e456e95f06fb7c698]
 
 (1) The Fostering Services (Wales) Regulations 2003[^f00017] are amended as follows.
 
@@ -172,7 +172,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 .
 
-### 8. Amendment to the Local Authority Adoption Service (Wales) Regulations 2007[^key-8cdcda286bde7348b9a762062c3392e1]
+### 8. Amendment to the Local Authority Adoption Service (Wales) Regulations 2007[^c-8cdcda286bde7348b9a762062c3392e1]
 
 (1) The Local Authority Adoption Service (Wales) Regulations 2007[^f00018] are amended as follows.
 
@@ -185,7 +185,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 .
 
-### 9. Amendments to the Residential Family Centres (Wales) Regulations 2003[^key-e02e758f1dbe29d725313ab633587235]
+### 9. Amendments to the Residential Family Centres (Wales) Regulations 2003[^c-e02e758f1dbe29d725313ab633587235]
 
 (1) The Residential Family Centres (Wales) Regulations 2003[^f00019] are amended as follows.
 
@@ -219,7 +219,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 4 — Establishments and agencies, services and facilities — adult social care and health
 
-### 10. Amendment to the Adult Placement Schemes (Wales) Regulations 2004[^key-54c86290aace8e2f67d5a327ee8b5c44]
+### 10. Amendment to the Adult Placement Schemes (Wales) Regulations 2004[^c-54c86290aace8e2f67d5a327ee8b5c44]
 
 (1) The Adult Placement Schemes (Wales) Regulations 2004[^f00020] are amended as follows.
 
@@ -232,7 +232,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 .
 
-### 11. Amendments to the Care Homes (Wales) Regulations 2002[^key-98dacbab86d12d34e4a8fbab49c0081c]
+### 11. Amendments to the Care Homes (Wales) Regulations 2002[^c-98dacbab86d12d34e4a8fbab49c0081c]
 
 (1) The Care Homes (Wales) Regulations 2002[^f00021] are amended as follows.
 
@@ -328,7 +328,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
   ;
 - (b) omit paragraphs 7 and 8 .
 
-### 12. Amendments to the Domiciliary Care Agencies (Wales) Regulations 2004[^key-86d7df5da38699145606431144e2ec16]
+### 12. Amendments to the Domiciliary Care Agencies (Wales) Regulations 2004[^c-86d7df5da38699145606431144e2ec16]
 
 (1) The Domiciliary Care Agencies (Wales) Regulations 2004[^f00022] are amended as follows.
 
@@ -356,7 +356,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
   ;
 - (b) omit paragraph 13.
 
-### 13. Amendments to the Nurses Agencies (Wales) Regulations 2003[^key-32768cc422c21631c8e33e59eea60b7f]
+### 13. Amendments to the Nurses Agencies (Wales) Regulations 2003[^c-32768cc422c21631c8e33e59eea60b7f]
 
 (1) The Nurses Agencies (Wales) Regulations 2003[^f00023] are amended as follows.
 
@@ -457,7 +457,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
   ;
 - (b) omit paragraphs 5 and 14.
 
-### 14. Amendments to the Private and Voluntary Health Care (Wales) Regulations 2002[^key-bb4f0adfec961305ea0528ef4db69e6a]
+### 14. Amendments to the Private and Voluntary Health Care (Wales) Regulations 2002[^c-bb4f0adfec961305ea0528ef4db69e6a]
 
 (1) The Private and Voluntary Health Care (Wales) Regulations 2002[^f00024] are amended as follows.
 
@@ -547,7 +547,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
   ;
 - (b) omit paragraphs 8 and 9 .
 
-### 15. Amendments to the Private Dentistry (Wales) Regulations 2008[^key-c5dbb24ce74f7d0b68838956d88aaa0c]
+### 15. Amendments to the Private Dentistry (Wales) Regulations 2008[^c-c5dbb24ce74f7d0b68838956d88aaa0c]
 
 (1) The Private Dentistry (Wales) Regulations 2008[^f00025] are amended as follows.
 
@@ -571,7 +571,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 5 — General
 
-### 16. Amendments to the Registration of Social Care and Independent Health Care (Wales) Regulations 2002[^key-47dc2f64142bce926c6da5ca20e8b45d]
+### 16. Amendments to the Registration of Social Care and Independent Health Care (Wales) Regulations 2002[^c-47dc2f64142bce926c6da5ca20e8b45d]
 
 (1) The Registration of Social Care and Independent Health Care (Wales) Regulations 2002[^f00026] are amended as follows.
 
@@ -675,11 +675,11 @@ These Regulations also make an amendment to regulation 43 of the Care Homes (Wal
 
 [^f00003]: Footnote: [2002 c 38](https://www.legislation.gov.uk/ukpga/2002/38). Functions of the National Assembly for Wales under these sections of the Adoption and Children Act 2002 were transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-b5f9fdd4e6fdb09b516c4074f4c93f11]: Commencement: Reg. 1 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-b5f9fdd4e6fdb09b516c4074f4c93f11]: Commencement: Reg. 1 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
-[^key-fcb6ad4b79876b0257dfe648529c9a37]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2009/2541/regulation/2) revoked (1.4.2011) by [The Child Minding and Day Care (Wales) Regulations 2010 (S.I. 2010/2574)](https://www.legislation.gov.uk/wsi/2010/2574), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/2574/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2010/2574/schedule/6)
+[^c-fcb6ad4b79876b0257dfe648529c9a37]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2009/2541/regulation/2) revoked (1.4.2011) by [The Child Minding and Day Care (Wales) Regulations 2010 (S.I. 2010/2574)](https://www.legislation.gov.uk/wsi/2010/2574), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/2574/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2010/2574/schedule/6)
 
-[^key-6268bf44274f1650c81b5fd40ad30438]: Commencement: Reg. 3 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-6268bf44274f1650c81b5fd40ad30438]: Commencement: Reg. 3 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00010]: Footnote: S.I. [2004/2695 (W.235)](https://www.legislation.gov.uk/wsi/2004/2695).
 
@@ -687,56 +687,56 @@ These Regulations also make an amendment to regulation 43 of the Care Homes (Wal
 
 [^f00012]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
 
-[^key-dcdb386a8c496bdb22c7770d657101ee]: Commencement: Reg. 4 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-dcdb386a8c496bdb22c7770d657101ee]: Commencement: Reg. 4 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00013]: Footnote: S.I. [2005/1313 (W.95)](https://www.legislation.gov.uk/wsi/2005/1313).
 
-[^key-2efcbe4ea2b52af722db1a4ae5e5923e]: Commencement: Reg. 5 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-2efcbe4ea2b52af722db1a4ae5e5923e]: Commencement: Reg. 5 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00014]: Footnote: S.I. [2005/1514 (W.118)](https://www.legislation.gov.uk/wsi/2005/1514).
 
-[^key-ed7eac1ab80b8f14a1f58551902bc9bd]: Commencement: Reg. 6 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-ed7eac1ab80b8f14a1f58551902bc9bd]: Commencement: Reg. 6 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00015]: Footnote: S.I. [2002/327 (W.40)](https://www.legislation.gov.uk/wsi/2002/327). Relevant amending instruments are S.I. [2002/2622 (W.254)](https://www.legislation.gov.uk/wsi/2002/2622), S.I. [2004/2414 (W.222)](https://www.legislation.gov.uk/wsi/2004/2414) and S.I. [2007/311 (W.28)](https://www.legislation.gov.uk/wsi/2007/311).
 
 [^f00016]: Footnote: Paragraph (2E) of regulation 8 was inserted by S.I. [2007/311 (W.28)](https://www.legislation.gov.uk/wsi/2007/311).
 
-[^key-99593c4e98d2b12e456e95f06fb7c698]: Commencement: Reg. 7 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-99593c4e98d2b12e456e95f06fb7c698]: Commencement: Reg. 7 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00017]: Footnote: S.I. [2003/237 (W.35)](https://www.legislation.gov.uk/wsi/2003/237).
 
-[^key-8cdcda286bde7348b9a762062c3392e1]: Commencement: Reg. 8 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-8cdcda286bde7348b9a762062c3392e1]: Commencement: Reg. 8 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00018]: Footnote: S.I. [2007/1357 (W.128)](https://www.legislation.gov.uk/wsi/2007/1357).
 
-[^key-e02e758f1dbe29d725313ab633587235]: Commencement: Reg. 9 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-e02e758f1dbe29d725313ab633587235]: Commencement: Reg. 9 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00019]: Footnote: S.I. [2003/781 (W.92)](https://www.legislation.gov.uk/wsi/2003/781).
 
-[^key-54c86290aace8e2f67d5a327ee8b5c44]: Commencement: Reg. 10 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-54c86290aace8e2f67d5a327ee8b5c44]: Commencement: Reg. 10 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00020]: Footnote: S.I. [2004/1756 (W.188)](https://www.legislation.gov.uk/wsi/2004/1756).
 
-[^key-98dacbab86d12d34e4a8fbab49c0081c]: Commencement: Reg. 11 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-98dacbab86d12d34e4a8fbab49c0081c]: Commencement: Reg. 11 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00021]: Footnote: S.I. [2002/324 (W.37)](https://www.legislation.gov.uk/wsi/2002/324). Relevant amending instruments are S.I. [2002/2622 (W.254)](https://www.legislation.gov.uk/wsi/2002/2622) and [2004/2414 (W.222)](https://www.legislation.gov.uk/wsi/2004/2414).
 
-[^key-86d7df5da38699145606431144e2ec16]: Commencement: Reg. 12 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-86d7df5da38699145606431144e2ec16]: Commencement: Reg. 12 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00022]: Footnote: S.I. [2004/219 (W.23)](https://www.legislation.gov.uk/wsi/2004/219). Relevant amending instrument is S.I. [2004/2414 (W.222)](https://www.legislation.gov.uk/wsi/2004/2414).
 
-[^key-32768cc422c21631c8e33e59eea60b7f]: Commencement: Reg. 13 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-32768cc422c21631c8e33e59eea60b7f]: Commencement: Reg. 13 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00023]: Footnote: S.I. [2003/2527 (W.242)](https://www.legislation.gov.uk/wsi/2003/2527). Relevant amending instruments are S.I. [2003/3054 (W.292)](https://www.legislation.gov.uk/wsi/2003/3054) and S.I. [2004/2414 (W.222)](https://www.legislation.gov.uk/wsi/2004/2414).
 
-[^key-bb4f0adfec961305ea0528ef4db69e6a]: Commencement: Reg. 14 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-bb4f0adfec961305ea0528ef4db69e6a]: Commencement: Reg. 14 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00024]: Footnote: S.I. [2002/325 (W.38)](https://www.legislation.gov.uk/wsi/2002/325). Relevant amending instruments are S.I. [2002/2622 (W.254)](https://www.legislation.gov.uk/wsi/2002/2622) and [2004/2414 (W.222)](https://www.legislation.gov.uk/wsi/2004/2414).
 
-[^key-c5dbb24ce74f7d0b68838956d88aaa0c]: Commencement: Reg. 15 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-c5dbb24ce74f7d0b68838956d88aaa0c]: Commencement: Reg. 15 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00025]: Footnote: S.I. [2008/1976 (W.185)](https://www.legislation.gov.uk/wsi/2008/1976).
 
-[^key-47dc2f64142bce926c6da5ca20e8b45d]: Commencement: Reg. 16 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
+[^c-47dc2f64142bce926c6da5ca20e8b45d]: Commencement: Reg. 16 in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2541/regulation/1/1)
 
 [^f00026]: Footnote: S.I. [2002/919 (W.107)](https://www.legislation.gov.uk/wsi/2002/919). Relevant amending instrument is S.I. [2002/2622 (W.254)](https://www.legislation.gov.uk/wsi/2002/2622).

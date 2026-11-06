@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Applications for consent to release genetically modified organisms – general provisions[^key-635a954f229dcd5b9bbcbc2065fa98dd]
+## 10. Applications for consent to release genetically modified organisms – general provisions[^c-635a954f229dcd5b9bbcbc2065fa98dd]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-635a954f229dcd5b9bbcbc2065fa98dd]: Commencement: Reg. 10 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-635a954f229dcd5b9bbcbc2065fa98dd]: Commencement: Reg. 10 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

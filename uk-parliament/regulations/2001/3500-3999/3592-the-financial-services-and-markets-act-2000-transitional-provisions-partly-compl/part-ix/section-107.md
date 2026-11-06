@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Appropriate decisions on determination of transitional reference[^key-e36617ff00b62a9a14de76f8e5b29ddc]
+## 107. Appropriate decisions on determination of transitional reference[^c-e36617ff00b62a9a14de76f8e5b29ddc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e36617ff00b62a9a14de76f8e5b29ddc]: Commencement: Art. 107 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-e36617ff00b62a9a14de76f8e5b29ddc]: Commencement: Art. 107 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

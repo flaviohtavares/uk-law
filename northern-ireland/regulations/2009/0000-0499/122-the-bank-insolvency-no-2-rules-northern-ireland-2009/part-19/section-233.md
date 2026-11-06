@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 233. Issue and use of forms[^key-b86d7c411955b60a3da24b50e25858e6]
+## 233. Issue and use of forms[^c-b86d7c411955b60a3da24b50e25858e6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 8.2 of the 1991 Rules.
 
 ## Annotations
 
-[^key-b86d7c411955b60a3da24b50e25858e6]: Commencement: Rule 233 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-b86d7c411955b60a3da24b50e25858e6]: Commencement: Rule 233 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

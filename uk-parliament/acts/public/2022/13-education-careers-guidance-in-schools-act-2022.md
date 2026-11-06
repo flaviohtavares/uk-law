@@ -36,7 +36,7 @@ An Act to extend the duty to provide careers guidance in schools.
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Extension of duty to provide careers guidance in schools[^key-52612a39b7149c0e38cce47312ada233][^key-d89e3d8fb7ff4e886320929b6481f273]
+## 1. Extension of duty to provide careers guidance in schools[^c-52612a39b7149c0e38cce47312ada233][^c-d89e3d8fb7ff4e886320929b6481f273]
 
 (1) Section 42A of the Education Act 1997 (duty to provide careers guidance in schools in England) is amended as follows.
 
@@ -59,7 +59,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) In subsection (7) omit the definition of “class”.
 
-## 2. Consequential amendments[^key-b10d06c952cbec5d29d700cf37ec0881][^key-a2b41dc86b5001d7a9f6abf6038f0a31]
+## 2. Consequential amendments[^c-b10d06c952cbec5d29d700cf37ec0881][^c-a2b41dc86b5001d7a9f6abf6038f0a31]
 
 (1) In section 43(6) of the Education Act 1997 (careers education in Welsh schools) for the definition of “class” substitute—
 
@@ -76,7 +76,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (3) The Careers Guidance in Schools Regulations 2013 ([S.I. 2013/709](https://www.legislation.gov.uk/uksi/2013/709)) are revoked.
 
-## 3. Extent, commencement and short title[^key-bd12e5841bf643f3964e3cbbc71cf7ba]
+## 3. Extent, commencement and short title[^c-bd12e5841bf643f3964e3cbbc71cf7ba]
 
 (1) This Act extends to England and Wales.
 
@@ -88,12 +88,12 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Annotations
 
-[^key-52612a39b7149c0e38cce47312ada233]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2022/13/section/3/2)
+[^c-52612a39b7149c0e38cce47312ada233]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2022/13/section/3/2)
 
-[^key-d89e3d8fb7ff4e886320929b6481f273]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/13/section/1) in force at 1.9.2022 by [S.I. 2022/724](https://www.legislation.gov.uk/uksi/2022/724), [reg. 2](https://www.legislation.gov.uk/uksi/2022/724/regulation/2)
+[^c-d89e3d8fb7ff4e886320929b6481f273]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/13/section/1) in force at 1.9.2022 by [S.I. 2022/724](https://www.legislation.gov.uk/uksi/2022/724), [reg. 2](https://www.legislation.gov.uk/uksi/2022/724/regulation/2)
 
-[^key-b10d06c952cbec5d29d700cf37ec0881]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2022/13/section/3/2)
+[^c-b10d06c952cbec5d29d700cf37ec0881]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2022/13/section/3/2)
 
-[^key-a2b41dc86b5001d7a9f6abf6038f0a31]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/13/section/2) in force at 1.9.2022 by [S.I. 2022/724](https://www.legislation.gov.uk/uksi/2022/724), [reg. 2](https://www.legislation.gov.uk/uksi/2022/724/regulation/2)
+[^c-a2b41dc86b5001d7a9f6abf6038f0a31]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/13/section/2) in force at 1.9.2022 by [S.I. 2022/724](https://www.legislation.gov.uk/uksi/2022/724), [reg. 2](https://www.legislation.gov.uk/uksi/2022/724/regulation/2)
 
-[^key-bd12e5841bf643f3964e3cbbc71cf7ba]: Commencement: S. 3 in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2022/13/section/3/3)
+[^c-bd12e5841bf643f3964e3cbbc71cf7ba]: Commencement: S. 3 in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2022/13/section/3/3)

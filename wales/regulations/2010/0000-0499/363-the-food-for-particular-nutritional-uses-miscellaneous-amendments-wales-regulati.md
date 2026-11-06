@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food for Particular Nutritional Uses (Miscellaneous Amendments) (Wales) Regulations 2010 (revoked)[^key-06f1fd8f85bff41348a08cc5c4435c6e]
+The Food for Particular Nutritional Uses (Miscellaneous Amendments) (Wales) Regulations 2010 (revoked)[^c-06f1fd8f85bff41348a08cc5c4435c6e]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 15 March 2010
 
-[^key-06f1fd8f85bff41348a08cc5c4435c6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06f1fd8f85bff41348a08cc5c4435c6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-06f1fd8f85bff41348a08cc5c4435c6e]
+## 1. Title, application and commencement[^c-06f1fd8f85bff41348a08cc5c4435c6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-06f1fd8f85bff41348a08cc5c4435c6e]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-06f1fd8f85bff41348a08cc5c4435c6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Notification of Marketing of Food for Particular Nutritional Uses (Wales) Regulations 2007[^key-06f1fd8f85bff41348a08cc5c4435c6e]
+## 3. Amendment of the Notification of Marketing of Food for Particular Nutritional Uses (Wales) Regulations 2007[^c-06f1fd8f85bff41348a08cc5c4435c6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06f1fd8f85bff41348a08cc5c4435c6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06f1fd8f85bff41348a08cc5c4435c6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-06f1fd8f85bff41348a08cc5c4435c6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06f1fd8f85bff41348a08cc5c4435c6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06f1fd8f85bff41348a08cc5c4435c6e]: Textual amendment: Regulations revoked (2.8.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 (S.I. 2016/639)](https://www.legislation.gov.uk/uksi/2016/639), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/639/regulation/1/3), [5(c)](https://www.legislation.gov.uk/uksi/2016/639/regulation/5/c)
+[^c-06f1fd8f85bff41348a08cc5c4435c6e]: Textual amendment: Regulations revoked (2.8.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 (S.I. 2016/639)](https://www.legislation.gov.uk/uksi/2016/639), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/639/regulation/1/3), [5(c)](https://www.legislation.gov.uk/uksi/2016/639/regulation/5/c)

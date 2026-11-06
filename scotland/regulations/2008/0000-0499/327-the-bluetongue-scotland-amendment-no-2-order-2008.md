@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Bluetongue (Scotland) Amendment (No. 2) Order 2008 (revoked)[^key-52d33790f38c62b7c8e86439630d60a9]
+The Bluetongue (Scotland) Amendment (No. 2) Order 2008 (revoked)[^c-52d33790f38c62b7c8e86439630d60a9]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 4th October 2008
 
-[^key-52d33790f38c62b7c8e86439630d60a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52d33790f38c62b7c8e86439630d60a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-52d33790f38c62b7c8e86439630d60a9]
+## 1. Citation and commencement[^c-52d33790f38c62b7c8e86439630d60a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Bluetongue (Scotland) Order 2008[^key-52d33790f38c62b7c8e86439630d60a9]
+## 2. Amendment of the Bluetongue (Scotland) Order 2008[^c-52d33790f38c62b7c8e86439630d60a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52d33790f38c62b7c8e86439630d60a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52d33790f38c62b7c8e86439630d60a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-52d33790f38c62b7c8e86439630d60a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52d33790f38c62b7c8e86439630d60a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52d33790f38c62b7c8e86439630d60a9]: Textual amendment: Order revoked (24.9.2012) by [The Bluetongue (Scotland) Order 2012 (S.S.I. 2012/199)](https://www.legislation.gov.uk/ssi/2012/199), [arts. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b), [34(1)(c)](https://www.legislation.gov.uk/ssi/2012/199/article/34/1/c) (with [art. 8](https://www.legislation.gov.uk/ssi/2012/199/article/8))
+[^c-52d33790f38c62b7c8e86439630d60a9]: Textual amendment: Order revoked (24.9.2012) by [The Bluetongue (Scotland) Order 2012 (S.S.I. 2012/199)](https://www.legislation.gov.uk/ssi/2012/199), [arts. 1(b)](https://www.legislation.gov.uk/ssi/2012/199/article/1/b), [34(1)(c)](https://www.legislation.gov.uk/ssi/2012/199/article/34/1/c) (with [art. 8](https://www.legislation.gov.uk/ssi/2012/199/article/8))

@@ -22,7 +22,7 @@ summary: ''
 
 Articles 45 and 46
 
-### PART 1 — REMOVAL OF HEDGEROWS[^key-ce3605c50e129ab89cb12338a7097823]
+### PART 1 — REMOVAL OF HEDGEROWS[^c-ce3605c50e129ab89cb12338a7097823]
 
 <table>
 <thead>
@@ -69,7 +69,7 @@ Articles 45 and 46
 </tbody>
 </table>
 
-### PART 2 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-449a911d548ee19c10505b417013c774]
+### PART 2 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-449a911d548ee19c10505b417013c774]
 
 <table>
 <thead>
@@ -139,6 +139,6 @@ Articles 45 and 46
 
 ## Annotations
 
-[^key-ce3605c50e129ab89cb12338a7097823]: Commencement: Sch. 8 Pt. 1 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-ce3605c50e129ab89cb12338a7097823]: Commencement: Sch. 8 Pt. 1 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-449a911d548ee19c10505b417013c774]: Commencement: Sch. 8 Pt. 2 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-449a911d548ee19c10505b417013c774]: Commencement: Sch. 8 Pt. 2 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

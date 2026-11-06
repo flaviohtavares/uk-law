@@ -22,13 +22,13 @@ summary: ''
 
 (1) The functions to which this section applies are those of—
 
-- (a) making and varying partnership schemes[^key-c3a464fffe9192f4c8cfb6fd15629c56];
+- (a) making and varying partnership schemes[^c-c3a464fffe9192f4c8cfb6fd15629c56];
 - (b) making and varying ticketing schemes; and
 - (c) inviting and accepting tenders under section 89 or 91 of the 1985 Act (subsidised services).
 
 (2) For the purposes of this section an authority or authorities propose to exercise a function to which this section applies—
 
-- (a) in the case of the function of making or varying a partnership scheme[^key-16022ea57c0623d4be11cdcfedba9dad], once notice of a proposal to make or vary it has been given under paragraph 6(2) or, as the case may be, 14(1) of schedule A1[^key-9ef4723cb440a4b8885701366e7cc198] of this Act;
+- (a) in the case of the function of making or varying a partnership scheme[^c-16022ea57c0623d4be11cdcfedba9dad], once notice of a proposal to make or vary it has been given under paragraph 6(2) or, as the case may be, 14(1) of schedule A1[^c-9ef4723cb440a4b8885701366e7cc198] of this Act;
 - (b) in the case of the function of making or varying a ticketing scheme, once notice of a proposal to make or vary it has been given under section 30(1) of this Act; and
 - (c) in the case of the function of inviting or accepting tenders under section 89 or 91 of the 1985 Act, once it is proposed to invite tenders under section 89(2) or 91(3) of that Act or to accept or not to accept a tender under section 89 of that Act.
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c3a464fffe9192f4c8cfb6fd15629c56]: Textual amendment: Words in s. 37(1)(a) substituted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 3(3)(a)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/3/a) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-c3a464fffe9192f4c8cfb6fd15629c56]: Textual amendment: Words in s. 37(1)(a) substituted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 3(3)(a)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/3/a) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-16022ea57c0623d4be11cdcfedba9dad]: Textual amendment: Words in s. 37(2)(a) substituted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 3(3)(b)(i)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/3/b/i) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-16022ea57c0623d4be11cdcfedba9dad]: Textual amendment: Words in s. 37(2)(a) substituted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 3(3)(b)(i)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/3/b/i) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-9ef4723cb440a4b8885701366e7cc198]: Textual amendment: Words in s. 37(2)(a) substituted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 3(3)(b)(ii)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/3/b/ii) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-9ef4723cb440a4b8885701366e7cc198]: Textual amendment: Words in s. 37(2)(a) substituted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 3(3)(b)(ii)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/3/b/ii) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

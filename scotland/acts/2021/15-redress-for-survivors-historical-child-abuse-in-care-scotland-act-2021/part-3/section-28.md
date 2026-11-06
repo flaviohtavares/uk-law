@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Meaning of “specified next of kin”[^key-d15d6d06815c00373887ad199cdc40cd]
+## 28. Meaning of “specified next of kin”[^c-d15d6d06815c00373887ad199cdc40cd]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d15d6d06815c00373887ad199cdc40cd]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2021/15/section/28) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-d15d6d06815c00373887ad199cdc40cd]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2021/15/section/28) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

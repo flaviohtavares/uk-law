@@ -66,16 +66,16 @@ where it is required to restore or maintain historic textures or finishes.
   - (c) the Scottish Ministers if the historic building, scheduled monument or work of art is in Scotland;
   - (d) the Department of the Environment if the historic building, scheduled monument or work of art is in Northern Ireland;
 - “historic building” means—
-  - (a) in relation to England [^key-7ddf6e2a77d39448913d347c507dcc43]..., a listed building within the meaning of section 1(5) of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00054] which is classified as Grade I or Grade II (starred);
-  - (ea) in relation to Wales, a listed building within the meaning of section 76 of the Historic Environment (Wales) Act 2023 which is classified as Grade I or Grade II (starred);[^key-33ff7e92f79d81bbbd6c3362b4af814d]
+  - (a) in relation to England [^c-7ddf6e2a77d39448913d347c507dcc43]..., a listed building within the meaning of section 1(5) of the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00054] which is classified as Grade I or Grade II (starred);
+  - (ea) in relation to Wales, a listed building within the meaning of section 76 of the Historic Environment (Wales) Act 2023 which is classified as Grade I or Grade II (starred);[^c-33ff7e92f79d81bbbd6c3362b4af814d]
   - (c) in relation to Scotland, a listed building within the meaning of section 1(4) of the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997[^f00055] which is classified as category A;
   - (d) in relation to Northern Ireland, a listed building within the meaning of article 42(7) of the Planning (Northern Ireland) Order 1991[^f00056];
-- “leaded paint” means paint containing lead carbonates[^key-930989c81ec0f68ee32e449107accece] or lead sulphates listed at points 16 and 17 of Annex XVII of REACH;
+- “leaded paint” means paint containing lead carbonates[^c-930989c81ec0f68ee32e449107accece] or lead sulphates listed at points 16 and 17 of Annex XVII of REACH;
 - “notification” means a written notification that contains the matters in Part 3 of this Schedule;
 - “relevant declaration” means a written declaration that contains the matters in Part 2 of this Schedule ;
 - “scheduled monument” has the same meaning—
-  - (a) in England [^key-ee585f34f6f3052b731448efaf1f78de]... and Scotland, as it has in section 1(11) of the Ancient Monuments and Archaeological Areas Act 1979[^f00057];
-  - (ha) in Wales, as it has in section 3 of the Historic Environment (Wales) Act 2023;[^key-5f98479e34619e562a1d3fcb8f29547a]
+  - (a) in England [^c-ee585f34f6f3052b731448efaf1f78de]... and Scotland, as it has in section 1(11) of the Ancient Monuments and Archaeological Areas Act 1979[^f00057];
+  - (ha) in Wales, as it has in section 3 of the Historic Environment (Wales) Act 2023;[^c-5f98479e34619e562a1d3fcb8f29547a]
   - (c) in Northern Ireland, as it has in article 3(2) of the Historic Monuments and Archaeological Objects (Northern Ireland) Order 1995[^f00058].
 
 ### PART 2 — Contents of a relevant declaration
@@ -104,22 +104,22 @@ where it is required to restore or maintain historic textures or finishes.
 
 ## Annotations
 
-[^key-7ddf6e2a77d39448913d347c507dcc43]: Textual amendment: Words in Sch. 5 Pt. 1 para. 8 omitted (W.) (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [44(a)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/44/a/i)
+[^c-7ddf6e2a77d39448913d347c507dcc43]: Textual amendment: Words in Sch. 5 Pt. 1 para. 8 omitted (W.) (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [44(a)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/44/a/i)
 
 [^f00054]: Footnote: [1990 c.9](https://www.legislation.gov.uk/ukpga/1990/9).
 
-[^key-33ff7e92f79d81bbbd6c3362b4af814d]: Textual amendment: Words in Sch. 5 Pt. 1 para. 8 inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [44(a)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/44/a/ii)
+[^c-33ff7e92f79d81bbbd6c3362b4af814d]: Textual amendment: Words in Sch. 5 Pt. 1 para. 8 inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [44(a)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/44/a/ii)
 
 [^f00055]: Footnote: [1997 c.9](https://www.legislation.gov.uk/ukpga/1997/9).
 
 [^f00056]: Footnote: [S.I.1991/1220 (N.I.11)](https://www.legislation.gov.uk/nisi/1991/1220).
 
-[^key-930989c81ec0f68ee32e449107accece]: Textual amendment: Words in Sch. 5 Pt.1 para. 8 substituted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [10](https://www.legislation.gov.uk/uksi/2013/2919/regulation/10)
+[^c-930989c81ec0f68ee32e449107accece]: Textual amendment: Words in Sch. 5 Pt.1 para. 8 substituted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [10](https://www.legislation.gov.uk/uksi/2013/2919/regulation/10)
 
-[^key-ee585f34f6f3052b731448efaf1f78de]: Textual amendment: Words in Sch. 5 Pt. 1 para. 8 omitted (W.) (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [44(b)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/44/b/i)
+[^c-ee585f34f6f3052b731448efaf1f78de]: Textual amendment: Words in Sch. 5 Pt. 1 para. 8 omitted (W.) (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [44(b)(i)](https://www.legislation.gov.uk/wsi/2024/924/regulation/44/b/i)
 
 [^f00057]: Footnote: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46).
 
-[^key-5f98479e34619e562a1d3fcb8f29547a]: Textual amendment: Words in Sch. 5 Pt. 1 para. 8 inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [44(b)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/44/b/ii)
+[^c-5f98479e34619e562a1d3fcb8f29547a]: Textual amendment: Words in Sch. 5 Pt. 1 para. 8 inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [44(b)(ii)](https://www.legislation.gov.uk/wsi/2024/924/regulation/44/b/ii)
 
 [^f00058]: Footnote: [S.I.1995/1625 (N.I.9)](https://www.legislation.gov.uk/nisi/1995/1625).

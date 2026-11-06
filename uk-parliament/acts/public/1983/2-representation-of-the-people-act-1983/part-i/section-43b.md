@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43B. Power of returning officers to postpone election for their area[^key-9de1ffc09711f52e20de875a46a966d2][^c14479931]
+## 43B. Power of returning officers to postpone election for their area[^c-9de1ffc09711f52e20de875a46a966d2][^c14479931]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ subsection (1) applies as if the reference to the first Thursday in May were a r
 
 ## Annotations
 
-[^key-9de1ffc09711f52e20de875a46a966d2]: Textual amendment: [S. 43B](https://www.legislation.gov.uk/ukpga/1983/2/section/43B) inserted (S.) (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 33(2)](https://www.legislation.gov.uk/asp/2025/4/section/33/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-9de1ffc09711f52e20de875a46a966d2]: Textual amendment: [S. 43B](https://www.legislation.gov.uk/ukpga/1983/2/section/43B) inserted (S.) (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 33(2)](https://www.legislation.gov.uk/asp/2025/4/section/33/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Commission Implementing Regulation (EU) No 139/2013 laying down animal health conditions for imports of certain birds into the Union and the quarantine conditions thereof[^key-eca6bf2c404ca65bf6038eee7a7b4adb]
+## 63. Commission Implementing Regulation (EU) No 139/2013 laying down animal health conditions for imports of certain birds into the Union and the quarantine conditions thereof[^c-eca6bf2c404ca65bf6038eee7a7b4adb]
 
 *Extent: E+W+S+N.I.*
 
@@ -137,4 +137,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eca6bf2c404ca65bf6038eee7a7b4adb]: Commencement: Reg. 63 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-eca6bf2c404ca65bf6038eee7a7b4adb]: Commencement: Reg. 63 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

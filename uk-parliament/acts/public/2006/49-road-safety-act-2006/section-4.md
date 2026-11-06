@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Graduated fixed penalty points[^key-e977185d66cb9cbb44124f4a8acedd7f]
+## 4. Graduated fixed penalty points[^c-e977185d66cb9cbb44124f4a8acedd7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e977185d66cb9cbb44124f4a8acedd7f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2006/49/section/4) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/a)
+[^c-e977185d66cb9cbb44124f4a8acedd7f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2006/49/section/4) in force at 31.3.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/3164/article/3/a)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**45.**[^key-47c0a2b1cdd9c15cde68176b04b7cfbb] In section 137(1) (general interpretation), in the definition of “social services functions” at the end insert “or the Social Services and Well-being (Wales) Act 2014”.
+**45.**[^c-47c0a2b1cdd9c15cde68176b04b7cfbb] In section 137(1) (general interpretation), in the definition of “social services functions” at the end insert “or the Social Services and Well-being (Wales) Act 2014”.
 
 ## Annotations
 
-[^key-47c0a2b1cdd9c15cde68176b04b7cfbb]: Commencement: Reg. 45 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-47c0a2b1cdd9c15cde68176b04b7cfbb]: Commencement: Reg. 45 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

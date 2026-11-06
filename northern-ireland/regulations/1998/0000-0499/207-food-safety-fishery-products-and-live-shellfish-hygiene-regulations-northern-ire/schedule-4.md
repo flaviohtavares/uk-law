@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — Hygiene Conditions for Fishing Vessels[^key-bd6c9a3c412887066ff577b3352f31ca]
+## SCHEDULE 4 — Hygiene Conditions for Fishing Vessels[^c-bd6c9a3c412887066ff577b3352f31ca]
 
 *Extent: N.I.*
 
@@ -24,48 +24,48 @@ summary: ''
 
 Regulations 22(1), (2) and (4), and 36(1)(*a*)(i)
 
-### Part I — General Hygiene Conditions Applicable to Fishery Products on board Fishing Vessels[^key-bd6c9a3c412887066ff577b3352f31ca]
+### Part I — General Hygiene Conditions Applicable to Fishery Products on board Fishing Vessels[^c-bd6c9a3c412887066ff577b3352f31ca]
 
-**1.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Additional Hygiene Conditions Applicable to Article 1.2 Fishing Vessels[^key-bd6c9a3c412887066ff577b3352f31ca]
+### Part II — Additional Hygiene Conditions Applicable to Article 1.2 Fishing Vessels[^c-bd6c9a3c412887066ff577b3352f31ca]
 
-**1.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bd6c9a3c412887066ff577b3352f31ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd6c9a3c412887066ff577b3352f31ca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/207) revoked (1.1.2006) by [The Food Hygiene Regulations (Northern Ireland) 2005 (S.R. 2005/356)](https://www.legislation.gov.uk/nisr/2005/356), [regs. 1](https://www.legislation.gov.uk/nisr/2005/356/regulation/1), [29](https://www.legislation.gov.uk/nisr/2005/356/regulation/29), [Sch. 7](https://www.legislation.gov.uk/nisr/2005/356/schedule/7);
+[^c-bd6c9a3c412887066ff577b3352f31ca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/207) revoked (1.1.2006) by [The Food Hygiene Regulations (Northern Ireland) 2005 (S.R. 2005/356)](https://www.legislation.gov.uk/nisr/2005/356), [regs. 1](https://www.legislation.gov.uk/nisr/2005/356/regulation/1), [29](https://www.legislation.gov.uk/nisr/2005/356/regulation/29), [Sch. 7](https://www.legislation.gov.uk/nisr/2005/356/schedule/7);
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.R. made prior to its final revocation. A revised version of how the S.R. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

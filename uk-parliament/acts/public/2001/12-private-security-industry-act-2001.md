@@ -39,7 +39,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S*
 
-### 1. The Security Industry Authority[^c10295971][^key-688e4e3c2eab58bbdbe9d82a821cc6d6][^key-d4bd7f534e22adb88c051ff062dad54f][^key-eeb8dd3f3871f5dbc055a89be24b4c5d]
+### 1. The Security Industry Authority[^c10295971][^c-688e4e3c2eab58bbdbe9d82a821cc6d6][^c-d4bd7f534e22adb88c051ff062dad54f][^c-eeb8dd3f3871f5dbc055a89be24b4c5d]
 
 (1) There shall be a body corporate to be known as the Security Industry Authority (in this Act referred to as “**the Authority**”).
 
@@ -73,24 +73,24 @@ and the property of the Authority shall not be regarded as property of, or prope
 
 (6) Schedule 1 (which makes provision about the Authority) shall have effect.
 
-### 2. Directions etc. by the Secretary of State[^key-a37a6a193b9539d9744171252f5ffa61][^key-2bd1f2d235b1488c26a1d288fcce0e3f]
+### 2. Directions etc. by the Secretary of State[^c-a37a6a193b9539d9744171252f5ffa61][^c-2bd1f2d235b1488c26a1d288fcce0e3f]
 
 (1) In carrying out its functions the Authority shall comply with any general or specific directions given to it in writing by the Secretary of State.
 
 (2) Before giving directions under subsection (1), the Secretary of State
 
-- (a)[^key-4911f10c87b9df4d30dd65d886bf3a43] shall consult the Authority, and[^key-ff35623411b2f5551249efc7449a7375]
+- (a)[^c-4911f10c87b9df4d30dd65d886bf3a43] shall consult the Authority, and[^c-ff35623411b2f5551249efc7449a7375]
 - (b) where any of those directions relates wholly or mainly to the exercise of the Authority's activities in or as regards Scotland, shall obtain the consent of the Scottish Ministers.
 
-(2A)[^key-628b5b17b062434310bcbbfae3000414] Before giving a direction under subsection (1) the Secretary of State must obtain the consent of the Department of Justice so far as the direction relates to the Authority’s activities in or as regards Northern Ireland.
+(2A)[^c-628b5b17b062434310bcbbfae3000414] Before giving a direction under subsection (1) the Secretary of State must obtain the consent of the Department of Justice so far as the direction relates to the Authority’s activities in or as regards Northern Ireland.
 
 (3) The Authority shall provide
 
-- (a)[^key-bf38bb34bc46f2f190b0dd14a5c16d77] the Secretary of State with such information about its activities as he may request, and[^key-9fe0ece9a04d0334c56081dd16dc3313]
-- (b) the Scottish Ministers with such information about its activities in or as regards Scotland as they may request. and[^key-8cde330d92554c345ed146b2841004ff]
-- (c)[^key-536a7ef5a53de099f5db989f33963fc4] the Department of Justice with such information about the Authority’s activities in or as regards Northern Ireland as the Department of Justice may request.
+- (a)[^c-bf38bb34bc46f2f190b0dd14a5c16d77] the Secretary of State with such information about its activities as he may request, and[^c-9fe0ece9a04d0334c56081dd16dc3313]
+- (b) the Scottish Ministers with such information about its activities in or as regards Scotland as they may request. and[^c-8cde330d92554c345ed146b2841004ff]
+- (c)[^c-536a7ef5a53de099f5db989f33963fc4] the Department of Justice with such information about the Authority’s activities in or as regards Northern Ireland as the Department of Justice may request.
 
-### 2A. Authority to be treated as cross-border public authority etc. for certain purposes[^key-c7941286bbb8c22ec7687b331667a27f]
+### 2A. Authority to be treated as cross-border public authority etc. for certain purposes[^c-c7941286bbb8c22ec7687b331667a27f]
 
 For the purposes of—
 
@@ -106,80 +106,80 @@ the Authority is to be treated as a cross-border public authority within the mea
 
 *Extent: E+W+S*
 
-### 3. Conduct prohibited without a licence[^key-f06e84224f81cf384b3d157a9ec2598a][^key-13b388d30e32f29363e6edbb1ae75976][^key-102a5a5580ffda2e1077386ab76277fa]
+### 3. Conduct prohibited without a licence[^c-f06e84224f81cf384b3d157a9ec2598a][^c-13b388d30e32f29363e6edbb1ae75976][^c-102a5a5580ffda2e1077386ab76277fa]
 
-(1)[^key-c059b89c0f8fffeacfdb5177bf52b69a][^key-7728284989c0bc83836d8ca15b138ccd][^key-e95309e1a108adbe7c05b44d9b38b970][^key-d2a64eb31b742835a1fa8883c8da5369][^key-f48b834b9630c5f6eb2d05ef8a6baac7][^key-1b0877f78f6ceedb8a40b2db47db26d9][^key-807244f21e065cb4cc8382d2d1750d93][^key-a435021c06ccbe1a181b354944428cab] Subject to the following provisions of this Act, it shall be an offence for a person to engage in any licensable conduct except under and in accordance with a licence.
+(1)[^c-c059b89c0f8fffeacfdb5177bf52b69a][^c-7728284989c0bc83836d8ca15b138ccd][^c-e95309e1a108adbe7c05b44d9b38b970][^c-d2a64eb31b742835a1fa8883c8da5369][^c-f48b834b9630c5f6eb2d05ef8a6baac7][^c-1b0877f78f6ceedb8a40b2db47db26d9][^c-807244f21e065cb4cc8382d2d1750d93][^c-a435021c06ccbe1a181b354944428cab] Subject to the following provisions of this Act, it shall be an offence for a person to engage in any licensable conduct except under and in accordance with a licence.
 
 (2) For the purposes of this Act a person engages in licensable conduct if—
 
-- (a)[^key-efbf6b7b600f020f1a671bca4cb5cf2f][^key-715309db6e1aadb5cd60e81ac5d63d9c][^key-e95309e1a108adbe7c05b44d9b38b970][^key-d2a64eb31b742835a1fa8883c8da5369][^key-f48b834b9630c5f6eb2d05ef8a6baac7][^key-1b0877f78f6ceedb8a40b2db47db26d9][^key-807244f21e065cb4cc8382d2d1750d93][^key-79327416b79cce6a2e1f1bfe8f36a9f9][^key-06ae2e659f9d06a330968e7020bbd8df] he carries out any designated activities for the purposes of, or in connection with, any contract for the supply of services under which—
+- (a)[^c-efbf6b7b600f020f1a671bca4cb5cf2f][^c-715309db6e1aadb5cd60e81ac5d63d9c][^c-e95309e1a108adbe7c05b44d9b38b970][^c-d2a64eb31b742835a1fa8883c8da5369][^c-f48b834b9630c5f6eb2d05ef8a6baac7][^c-1b0877f78f6ceedb8a40b2db47db26d9][^c-807244f21e065cb4cc8382d2d1750d93][^c-79327416b79cce6a2e1f1bfe8f36a9f9][^c-06ae2e659f9d06a330968e7020bbd8df] he carries out any designated activities for the purposes of, or in connection with, any contract for the supply of services under which—
   - (i) he,
   - (ii) a body corporate of which he is a director, or
   - (iii) a firm of which he is a partner,
 
   is or may be required to secure that any such activities are carried out;
-- (b)[^key-efbf6b7b600f020f1a671bca4cb5cf2f][^key-715309db6e1aadb5cd60e81ac5d63d9c][^key-e95309e1a108adbe7c05b44d9b38b970][^key-d2a64eb31b742835a1fa8883c8da5369][^key-f48b834b9630c5f6eb2d05ef8a6baac7][^key-1b0877f78f6ceedb8a40b2db47db26d9][^key-807244f21e065cb4cc8382d2d1750d93][^key-79327416b79cce6a2e1f1bfe8f36a9f9][^key-06ae2e659f9d06a330968e7020bbd8df] in the course of any employment of his by any person he carries out any designated activities for the purposes of, or in connection with, any contract for the supply of services under which his employer is or may be so required;
-- (c)[^key-efbf6b7b600f020f1a671bca4cb5cf2f][^key-715309db6e1aadb5cd60e81ac5d63d9c][^key-e95309e1a108adbe7c05b44d9b38b970][^key-d2a64eb31b742835a1fa8883c8da5369][^key-f48b834b9630c5f6eb2d05ef8a6baac7][^key-1b0877f78f6ceedb8a40b2db47db26d9][^key-807244f21e065cb4cc8382d2d1750d93][^key-79327416b79cce6a2e1f1bfe8f36a9f9][^key-06ae2e659f9d06a330968e7020bbd8df] he carries out any designated activities in accordance with directions given to him by or on behalf of a person to whom his services are supplied (whether or not for the carrying out of any such activities) by—
+- (b)[^c-efbf6b7b600f020f1a671bca4cb5cf2f][^c-715309db6e1aadb5cd60e81ac5d63d9c][^c-e95309e1a108adbe7c05b44d9b38b970][^c-d2a64eb31b742835a1fa8883c8da5369][^c-f48b834b9630c5f6eb2d05ef8a6baac7][^c-1b0877f78f6ceedb8a40b2db47db26d9][^c-807244f21e065cb4cc8382d2d1750d93][^c-79327416b79cce6a2e1f1bfe8f36a9f9][^c-06ae2e659f9d06a330968e7020bbd8df] in the course of any employment of his by any person he carries out any designated activities for the purposes of, or in connection with, any contract for the supply of services under which his employer is or may be so required;
+- (c)[^c-efbf6b7b600f020f1a671bca4cb5cf2f][^c-715309db6e1aadb5cd60e81ac5d63d9c][^c-e95309e1a108adbe7c05b44d9b38b970][^c-d2a64eb31b742835a1fa8883c8da5369][^c-f48b834b9630c5f6eb2d05ef8a6baac7][^c-1b0877f78f6ceedb8a40b2db47db26d9][^c-807244f21e065cb4cc8382d2d1750d93][^c-79327416b79cce6a2e1f1bfe8f36a9f9][^c-06ae2e659f9d06a330968e7020bbd8df] he carries out any designated activities in accordance with directions given to him by or on behalf of a person to whom his services are supplied (whether or not for the carrying out of any such activities) by—
   - (i) a body corporate of which he is a director,
   - (ii) a firm of which he is a partner,
   - (iii) a person by whom he is employed, or
   - (iv) a person to whom he supplies his services under a contract for the purposes of which, or in connection with which, he is or may be required to work in accordance with the directions of another;
-- (d)[^key-efbf6b7b600f020f1a671bca4cb5cf2f][^key-715309db6e1aadb5cd60e81ac5d63d9c][^key-e95309e1a108adbe7c05b44d9b38b970][^key-d2a64eb31b742835a1fa8883c8da5369][^key-f48b834b9630c5f6eb2d05ef8a6baac7][^key-1b0877f78f6ceedb8a40b2db47db26d9][^key-807244f21e065cb4cc8382d2d1750d93][^key-79327416b79cce6a2e1f1bfe8f36a9f9][^key-06ae2e659f9d06a330968e7020bbd8df] he acts—
+- (d)[^c-efbf6b7b600f020f1a671bca4cb5cf2f][^c-715309db6e1aadb5cd60e81ac5d63d9c][^c-e95309e1a108adbe7c05b44d9b38b970][^c-d2a64eb31b742835a1fa8883c8da5369][^c-f48b834b9630c5f6eb2d05ef8a6baac7][^c-1b0877f78f6ceedb8a40b2db47db26d9][^c-807244f21e065cb4cc8382d2d1750d93][^c-79327416b79cce6a2e1f1bfe8f36a9f9][^c-06ae2e659f9d06a330968e7020bbd8df] he acts—
   - (i) in the course of any employment of his by any person, or
   - (ii) in accordance with any directions given as mentioned in paragraph (c),
 
   as the manager or supervisor of one or more individuals required in the course of their employment to engage in licensable conduct falling within paragraph (b);
-- (e)[^key-efbf6b7b600f020f1a671bca4cb5cf2f][^key-715309db6e1aadb5cd60e81ac5d63d9c][^key-e95309e1a108adbe7c05b44d9b38b970][^key-d2a64eb31b742835a1fa8883c8da5369][^key-f48b834b9630c5f6eb2d05ef8a6baac7][^key-1b0877f78f6ceedb8a40b2db47db26d9][^key-807244f21e065cb4cc8382d2d1750d93][^key-79327416b79cce6a2e1f1bfe8f36a9f9][^key-06ae2e659f9d06a330968e7020bbd8df] he acts—
+- (e)[^c-efbf6b7b600f020f1a671bca4cb5cf2f][^c-715309db6e1aadb5cd60e81ac5d63d9c][^c-e95309e1a108adbe7c05b44d9b38b970][^c-d2a64eb31b742835a1fa8883c8da5369][^c-f48b834b9630c5f6eb2d05ef8a6baac7][^c-1b0877f78f6ceedb8a40b2db47db26d9][^c-807244f21e065cb4cc8382d2d1750d93][^c-79327416b79cce6a2e1f1bfe8f36a9f9][^c-06ae2e659f9d06a330968e7020bbd8df] he acts—
   - (i) in the course of any employment of his by any person, or
   - (ii) in accordance with any directions given as mentioned in paragraph (c),
 
   as the manager or supervisor of individuals who are required in accordance with any such directions to engage in conduct which would be licensable conduct falling within paragraph (b) if they were required to engage in that conduct as the employees of the person to whom their services are supplied;
-- (f)[^key-efbf6b7b600f020f1a671bca4cb5cf2f][^key-715309db6e1aadb5cd60e81ac5d63d9c][^key-e95309e1a108adbe7c05b44d9b38b970][^key-d2a64eb31b742835a1fa8883c8da5369][^key-f48b834b9630c5f6eb2d05ef8a6baac7][^key-1b0877f78f6ceedb8a40b2db47db26d9][^key-807244f21e065cb4cc8382d2d1750d93][^key-79327416b79cce6a2e1f1bfe8f36a9f9][^key-06ae2e659f9d06a330968e7020bbd8df] he is the director of any body corporate or the partner of any firm at a time when another of the directors or partners of the body or firm, or any employee of the body or firm, engages in licensable conduct falling within any of paragraphs (a) to (e);
-- (g)[^key-efbf6b7b600f020f1a671bca4cb5cf2f][^key-715309db6e1aadb5cd60e81ac5d63d9c][^key-e95309e1a108adbe7c05b44d9b38b970][^key-d2a64eb31b742835a1fa8883c8da5369][^key-f48b834b9630c5f6eb2d05ef8a6baac7][^key-1b0877f78f6ceedb8a40b2db47db26d9][^key-807244f21e065cb4cc8382d2d1750d93][^key-79327416b79cce6a2e1f1bfe8f36a9f9][^key-06ae2e659f9d06a330968e7020bbd8df] he is the employer of an individual who in the course of any employment of his with that employer carries out any designated activities subject to additional controls;
-- (h)[^key-efbf6b7b600f020f1a671bca4cb5cf2f][^key-715309db6e1aadb5cd60e81ac5d63d9c][^key-e95309e1a108adbe7c05b44d9b38b970][^key-d2a64eb31b742835a1fa8883c8da5369][^key-f48b834b9630c5f6eb2d05ef8a6baac7][^key-1b0877f78f6ceedb8a40b2db47db26d9][^key-807244f21e065cb4cc8382d2d1750d93][^key-79327416b79cce6a2e1f1bfe8f36a9f9][^key-06ae2e659f9d06a330968e7020bbd8df] in the course of any employment of his, or for purposes connected with his being a director or partner of a body corporate or firm, he carries out designated activities subject to additional controls; or[^key-ced8b357fa13583cb1a75e4a42824226]
-- (i)[^key-efbf6b7b600f020f1a671bca4cb5cf2f][^key-715309db6e1aadb5cd60e81ac5d63d9c][^key-e95309e1a108adbe7c05b44d9b38b970][^key-d2a64eb31b742835a1fa8883c8da5369][^key-f48b834b9630c5f6eb2d05ef8a6baac7][^key-1b0877f78f6ceedb8a40b2db47db26d9][^key-807244f21e065cb4cc8382d2d1750d93][^key-79327416b79cce6a2e1f1bfe8f36a9f9][^key-06ae2e659f9d06a330968e7020bbd8df] in the course of any employment of his by any person he acts as the manager or supervisor of one or more individuals the duties of whose employment involve the carrying out of any designated activities subject to additional controls;[^key-d6d3440f9c0b1716044fab3b41bba38f]...
-- (j)[^key-d6d3440f9c0b1716044fab3b41bba38f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-efbf6b7b600f020f1a671bca4cb5cf2f][^c-715309db6e1aadb5cd60e81ac5d63d9c][^c-e95309e1a108adbe7c05b44d9b38b970][^c-d2a64eb31b742835a1fa8883c8da5369][^c-f48b834b9630c5f6eb2d05ef8a6baac7][^c-1b0877f78f6ceedb8a40b2db47db26d9][^c-807244f21e065cb4cc8382d2d1750d93][^c-79327416b79cce6a2e1f1bfe8f36a9f9][^c-06ae2e659f9d06a330968e7020bbd8df] he is the director of any body corporate or the partner of any firm at a time when another of the directors or partners of the body or firm, or any employee of the body or firm, engages in licensable conduct falling within any of paragraphs (a) to (e);
+- (g)[^c-efbf6b7b600f020f1a671bca4cb5cf2f][^c-715309db6e1aadb5cd60e81ac5d63d9c][^c-e95309e1a108adbe7c05b44d9b38b970][^c-d2a64eb31b742835a1fa8883c8da5369][^c-f48b834b9630c5f6eb2d05ef8a6baac7][^c-1b0877f78f6ceedb8a40b2db47db26d9][^c-807244f21e065cb4cc8382d2d1750d93][^c-79327416b79cce6a2e1f1bfe8f36a9f9][^c-06ae2e659f9d06a330968e7020bbd8df] he is the employer of an individual who in the course of any employment of his with that employer carries out any designated activities subject to additional controls;
+- (h)[^c-efbf6b7b600f020f1a671bca4cb5cf2f][^c-715309db6e1aadb5cd60e81ac5d63d9c][^c-e95309e1a108adbe7c05b44d9b38b970][^c-d2a64eb31b742835a1fa8883c8da5369][^c-f48b834b9630c5f6eb2d05ef8a6baac7][^c-1b0877f78f6ceedb8a40b2db47db26d9][^c-807244f21e065cb4cc8382d2d1750d93][^c-79327416b79cce6a2e1f1bfe8f36a9f9][^c-06ae2e659f9d06a330968e7020bbd8df] in the course of any employment of his, or for purposes connected with his being a director or partner of a body corporate or firm, he carries out designated activities subject to additional controls; or[^c-ced8b357fa13583cb1a75e4a42824226]
+- (i)[^c-efbf6b7b600f020f1a671bca4cb5cf2f][^c-715309db6e1aadb5cd60e81ac5d63d9c][^c-e95309e1a108adbe7c05b44d9b38b970][^c-d2a64eb31b742835a1fa8883c8da5369][^c-f48b834b9630c5f6eb2d05ef8a6baac7][^c-1b0877f78f6ceedb8a40b2db47db26d9][^c-807244f21e065cb4cc8382d2d1750d93][^c-79327416b79cce6a2e1f1bfe8f36a9f9][^c-06ae2e659f9d06a330968e7020bbd8df] in the course of any employment of his by any person he acts as the manager or supervisor of one or more individuals the duties of whose employment involve the carrying out of any designated activities subject to additional controls;[^c-d6d3440f9c0b1716044fab3b41bba38f]...
+- (j)[^c-d6d3440f9c0b1716044fab3b41bba38f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^c10295981][^key-82e4d52dd5330165cf4d28956fe20970] In this Act “**designated activities**” means such of the activities of a security operative as are for the time being designated for the purposes of this section by an order made by the Secretary of State; and an order under this subsection may designate different activities for the purposes of different paragraphs of subsection (2).
+(3)[^c10295981][^c-82e4d52dd5330165cf4d28956fe20970] In this Act “**designated activities**” means such of the activities of a security operative as are for the time being designated for the purposes of this section by an order made by the Secretary of State; and an order under this subsection may designate different activities for the purposes of different paragraphs of subsection (2).
 
-(3A)[^key-0d87c10aaf449a32f1bc21b2edc54c72] In the application of this Act to Scotland—
+(3A)[^c-0d87c10aaf449a32f1bc21b2edc54c72] In the application of this Act to Scotland—
 
 - (a) the reference in subsection (3) to the Secretary of State must be construed as a reference to the Scottish Ministers; but
 - (b) before making any order under subsection (3) the Scottish Ministers are to consult the Secretary of State.
 
-(3B)[^key-6c29dc211adcd40f690561f9c385762e] In the application of this Act to Northern Ireland—
+(3B)[^c-6c29dc211adcd40f690561f9c385762e] In the application of this Act to Northern Ireland—
 
 - (a) the reference in subsection (3) to the Secretary of State must be construed as a reference to the Department of Justice;
 - (b) before making any order under subsection (3) the Department of Justice must consult the Secretary of State.
 
-(4)[^key-77045de563ce6842a14eb151301c9fbb] For the purposes of this section a person shall not be treated as acting as the manager or supervisor of an individual by reason only of his giving directions to that individual in a case in which—
+(4)[^c-77045de563ce6842a14eb151301c9fbb] For the purposes of this section a person shall not be treated as acting as the manager or supervisor of an individual by reason only of his giving directions to that individual in a case in which—
 
 - (a) the directions are given on behalf of a person to whom the individual’s services are provided under a contract for services, and
 - (b) the person who under the contract provides the individual’s services or another person acting on his behalf, acts as the manager or supervisor of that individual in relation to the activities carried out by him in accordance with those directions.
 
-(5)[^key-77045de563ce6842a14eb151301c9fbb] Schedule 2 (which defines the activities that are to be treated as the activities of a security operative for the purposes of this Act and those which, so far as they are designated, are subject to additional controls) shall have effect.
+(5)[^c-77045de563ce6842a14eb151301c9fbb] Schedule 2 (which defines the activities that are to be treated as the activities of a security operative for the purposes of this Act and those which, so far as they are designated, are subject to additional controls) shall have effect.
 
-(6)[^key-77045de563ce6842a14eb151301c9fbb] A person guilty of an offence under this section shall be liable, on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
+(6)[^c-77045de563ce6842a14eb151301c9fbb] A person guilty of an offence under this section shall be liable, on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
 
-### 4. Exemptions from licensing requirement[^c10295991][^key-ee4ffa3f8a398132416d378fc66a1635][^key-a4fbf5c35b98998847374bc8e1a4fab4][^key-6b622aa282d0b4149f5c057e7ee5a6dd]
+### 4. Exemptions from licensing requirement[^c10295991][^c-ee4ffa3f8a398132416d378fc66a1635][^c-a4fbf5c35b98998847374bc8e1a4fab4][^c-6b622aa282d0b4149f5c057e7ee5a6dd]
 
-(1)[^key-b6bbadaa65dd688ffdebef6ff563dfe5] If—
+(1)[^c-b6bbadaa65dd688ffdebef6ff563dfe5] If—
 
 - (a) it appears to the Secretary of State that there are circumstances in which licensable conduct is engaged in only by persons to whom suitable alternative arrangements will apply, and
 - (b) the Secretary of State is satisfied that, as a consequence, it is unnecessary for persons engaging in any such conduct in those circumstances to be required to be licensed under this Act,
 
 then he may by regulations prescribing those circumstances provide that a person shall not be guilty of an offence under section 3 in respect of any conduct engaged in by him in those circumstances.
 
-(2)[^key-b6bbadaa65dd688ffdebef6ff563dfe5] The provision that may be made by regulations under subsection (1) includes provision that a person is not to be guilty of an offence in respect of any conduct which is engaged in by him in the course of his employment by, or otherwise under the direction of, a person who is certified by the Authority in accordance with the regulations to be a person who the Authority is satisfied will secure that suitable alternative arrangements apply.
+(2)[^c-b6bbadaa65dd688ffdebef6ff563dfe5] The provision that may be made by regulations under subsection (1) includes provision that a person is not to be guilty of an offence in respect of any conduct which is engaged in by him in the course of his employment by, or otherwise under the direction of, a person who is certified by the Authority in accordance with the regulations to be a person who the Authority is satisfied will secure that suitable alternative arrangements apply.
 
-(3)[^key-b6bbadaa65dd688ffdebef6ff563dfe5] In subsections (1) and (2) references to suitable alternative arrangements are references to arrangements that the Secretary of State or, as the case may be, the Authority is satisfied are equivalent, for all practical purposes so far as the protection of the public is concerned, to those applying to persons applying for and granted licences.
+(3)[^c-b6bbadaa65dd688ffdebef6ff563dfe5] In subsections (1) and (2) references to suitable alternative arrangements are references to arrangements that the Secretary of State or, as the case may be, the Authority is satisfied are equivalent, for all practical purposes so far as the protection of the public is concerned, to those applying to persons applying for and granted licences.
 
-(3A)[^key-74b44d2eba50baa50b5ddf5b8b174def] In the application of this section to Northern Ireland—
+(3A)[^c-74b44d2eba50baa50b5ddf5b8b174def] In the application of this section to Northern Ireland—
 
 - (a) the reference in subsection (2)(c) to the Secretary of State must be construed as a reference to the Department of Justice in Northern Ireland; but
 - (b) before making any order under subsection (2)(c) the Department of Justice in Northern Ireland must consult the Secretary of State.
 
-(4)[^key-48e9a12d7eb88d58edd6ff66ad314c7a] A person shall not be guilty of an offence under section 3 in respect of any activities of his as a security operative if—
+(4)[^c-48e9a12d7eb88d58edd6ff66ad314c7a] A person shall not be guilty of an offence under section 3 in respect of any activities of his as a security operative if—
 
 - (a) he carries out those activities in his capacity as the director of a body corporate, the partner of any firm or the employee of any person;
 - (b) he has applied to the Authority for the grant of a licence and that application is pending;
@@ -187,9 +187,9 @@ then he may by regulations prescribing those circumstances provide that a person
 - (d) the body, firm or, as the case may be, the employer is a person who is for the time being registered under section 14 as an approved provider of security industry services; and
 - (e) the Authority has given notice to the body, firm or employer that it has authorised that body, firm or employer to use directors, partners or employees whose applications are pending to carry out activities that consist in or include those activities.
 
-(5)[^key-48e9a12d7eb88d58edd6ff66ad314c7a] Subsection (4) shall apply in the case of a person who carries out activities under directions given by or on behalf of another person in pursuance of a contract for the supply of the services of the first person as if the first person were an employee of the other one.
+(5)[^c-48e9a12d7eb88d58edd6ff66ad314c7a] Subsection (4) shall apply in the case of a person who carries out activities under directions given by or on behalf of another person in pursuance of a contract for the supply of the services of the first person as if the first person were an employee of the other one.
 
-(6)[^key-5e80c94f20c1f63ecf1efb2a9fdd4e99] A relevant employee who engages in licensable conduct shall not be guilty of an offence under section 3 in respect of that conduct if it is carried out in connection with the use of a certified sports ground or certified sports stand for purposes for which its safety certificate has effect.
+(6)[^c-5e80c94f20c1f63ecf1efb2a9fdd4e99] A relevant employee who engages in licensable conduct shall not be guilty of an offence under section 3 in respect of that conduct if it is carried out in connection with the use of a certified sports ground or certified sports stand for purposes for which its safety certificate has effect.
 
 (7) An employee for a visiting team who engages in licensable conduct shall not be guilty of an offence under section 3 in respect of that conduct if—
 
@@ -218,7 +218,7 @@ then he may by regulations prescribing those circumstances provide that a person
 
 - “**certified sports ground**” means a sports ground in respect of which a safety certificate is in force;
 - “**certified sports stand**” means a sports stand in respect of which a safety certificate is in force;
-- “**company**”, “**holding company**” and “**subsidiary**” have the same meanings as in section 1159 of the Companies Act 2006[^key-145f4fe429448ac190e976c86d613ff8] ;
+- “**company**”, “**holding company**” and “**subsidiary**” have the same meanings as in section 1159 of the Companies Act 2006[^c-145f4fe429448ac190e976c86d613ff8] ;
 - “**group**”, in relation to a company, means a holding company and all of its subsidiaries;
 - “safety certificate”, “general safety certificate” and “special safety certificate”—
   - (a) in relation to a sports ground, have the same meanings as in the Safety of Sports Grounds Act 1975 (see sections 1(4) and 17(1) of that Act); and
@@ -232,7 +232,7 @@ then he may by regulations prescribing those circumstances provide that a person
 
 *Extent: N.I.*
 
-(13)[^key-fd3dbf8c8c25c1ca80c50048860d6f36] In its application to Northern Ireland subsection (12) has effect as if—
+(13)[^c-fd3dbf8c8c25c1ca80c50048860d6f36] In its application to Northern Ireland subsection (12) has effect as if—
 
 - (a) for the definitions of “safety certificate”, “general safety certificate” and “special safety certificate” there were substituted—
 
@@ -253,7 +253,7 @@ then he may by regulations prescribing those circumstances provide that a person
 
   .
 
-### 5. Offence of using unlicensed security operative[^key-033b4293ee1e943e23db1d3315f7aba9][^key-d1fb62d7e63fe3dbdeb0c4acd6acdd65][^key-c9e46f1897c5dd80d2362475493ec859][^key-0865d3830c9001e47a29d2a85a8eca4b][^key-e42c0c21ddfa66b51978f3d16212c2e0][^key-871ec5b47be0fabf52bea448b51f17a2][^key-0941c7979614542cb837c523cf575ced]
+### 5. Offence of using unlicensed security operative[^c-033b4293ee1e943e23db1d3315f7aba9][^c-d1fb62d7e63fe3dbdeb0c4acd6acdd65][^c-c9e46f1897c5dd80d2362475493ec859][^c-0865d3830c9001e47a29d2a85a8eca4b][^c-e42c0c21ddfa66b51978f3d16212c2e0][^c-871ec5b47be0fabf52bea448b51f17a2][^c-0941c7979614542cb837c523cf575ced]
 
 (1) A person is guilty of an offence if—
 
@@ -273,7 +273,7 @@ then he may by regulations prescribing those circumstances provide that a person
 - (a) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum, or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding five years or to a fine, or to both.
 
-### 6. Offence of using unlicensed wheel-clampers[^key-cb179216658ae15cedd8a9b13e5688f4]
+### 6. Offence of using unlicensed wheel-clampers[^c-cb179216658ae15cedd8a9b13e5688f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -281,7 +281,7 @@ then he may by regulations prescribing those circumstances provide that a person
 
 *Extent: E+W+S*
 
-### 7. Licensing criteria[^key-33dfc6254d6cbc6ce1e8d43976899121][^key-57329d2af58d936b52a1ea8f132de245][^key-0cc563c1f14dbd55572fc5817569ee3f][^key-6c10fec6dfe52a978ee2bc7e1907f98d]
+### 7. Licensing criteria[^c-33dfc6254d6cbc6ce1e8d43976899121][^c-57329d2af58d936b52a1ea8f132de245][^c-0cc563c1f14dbd55572fc5817569ee3f][^c-6c10fec6dfe52a978ee2bc7e1907f98d]
 
 (1) It shall be the duty of the Authority, before granting any licences, to prepare and publish a document setting out—
 
@@ -303,30 +303,30 @@ then he may by regulations prescribing those circumstances provide that a person
 
 (5) Criteria or revised criteria set out under this section shall not have effect for the purposes of this Act unless the Secretary of State has approved them.
 
-(5A)[^key-893a25ab17366a8c3d6418e6da17697e] Before giving approval under subsection (5), the Secretary of State shall consult the Scottish Ministers and the Department of Justice[^key-69bf06be31f6ff7d28065c6c5fec0649].
+(5A)[^c-893a25ab17366a8c3d6418e6da17697e] Before giving approval under subsection (5), the Secretary of State shall consult the Scottish Ministers and the Department of Justice[^c-69bf06be31f6ff7d28065c6c5fec0649].
 
 (6) The publication in accordance with this section of any document setting out any criteria or revised criteria must be in such manner as the Authority considers appropriate for bringing it to the attention of the persons likely to be affected by it.
 
-### 8. Licences to engage in licensable conduct[^key-6922c498a816d2c7136ff65a71868cec][^key-929b7e0c86e421822c3663cb94097c2d][^key-c430c4ad699d4be8e5d197e42426c9d7]
+### 8. Licences to engage in licensable conduct[^c-6922c498a816d2c7136ff65a71868cec][^c-929b7e0c86e421822c3663cb94097c2d][^c-c430c4ad699d4be8e5d197e42426c9d7]
 
-(1)[^key-91fcb99f4b841c1a0be45e86e45121f0] The Authority may, on an application made to it, grant to the applicant a licence to engage in any such licensable conduct as may be described in the licence.
+(1)[^c-91fcb99f4b841c1a0be45e86e45121f0] The Authority may, on an application made to it, grant to the applicant a licence to engage in any such licensable conduct as may be described in the licence.
 
-(2)[^c10296001][^key-104aeea10d03a67f5020175e45815c77] An application to the Authority for the grant of a licence—
+(2)[^c10296001][^c-104aeea10d03a67f5020175e45815c77] An application to the Authority for the grant of a licence—
 
 - (a) must be in such form, and
 - (b) must be accompanied by such information,
 
 as may be prescribed.
 
-(3)[^key-91fcb99f4b841c1a0be45e86e45121f0] In determining whether or not to grant a licence the Authority shall apply the criteria for the time being applicable under section 7.
+(3)[^c-91fcb99f4b841c1a0be45e86e45121f0] In determining whether or not to grant a licence the Authority shall apply the criteria for the time being applicable under section 7.
 
 (4) The Authority may refuse to grant a licence until—
 
-- (a)[^key-2ae3c34c2062da39648c4739c554e610][^key-104aeea10d03a67f5020175e45815c77] it has been satisfied as to the identity of the applicant in such manner as may be prescribed;
-- (b)[^key-91fcb99f4b841c1a0be45e86e45121f0] the applicant has supplemented his application with such further information (if any) as the Authority may request after receiving the application; and
-- (c)[^key-91fcb99f4b841c1a0be45e86e45121f0] the Authority has been able to carry out such further inquiries (if any) in relation to the applicant as it considers appropriate.
+- (a)[^c-2ae3c34c2062da39648c4739c554e610][^c-104aeea10d03a67f5020175e45815c77] it has been satisfied as to the identity of the applicant in such manner as may be prescribed;
+- (b)[^c-91fcb99f4b841c1a0be45e86e45121f0] the applicant has supplemented his application with such further information (if any) as the Authority may request after receiving the application; and
+- (c)[^c-91fcb99f4b841c1a0be45e86e45121f0] the Authority has been able to carry out such further inquiries (if any) in relation to the applicant as it considers appropriate.
 
-(5)[^key-104aeea10d03a67f5020175e45815c77] A licence granted by the Authority to engage in any description of licensable conduct—
+(5)[^c-104aeea10d03a67f5020175e45815c77] A licence granted by the Authority to engage in any description of licensable conduct—
 
 - (a) must be in such form,
 - (b) must contain such information, and
@@ -334,18 +334,18 @@ as may be prescribed.
 
 as may be prescribed in relation to licences to engage in that description of licensable conduct.
 
-(6)[^key-91fcb99f4b841c1a0be45e86e45121f0] Such a licence may be granted subject to such conditions, in addition to the prescribed conditions, as the Authority considers appropriate in relation to the licence in question.
+(6)[^c-91fcb99f4b841c1a0be45e86e45121f0] Such a licence may be granted subject to such conditions, in addition to the prescribed conditions, as the Authority considers appropriate in relation to the licence in question.
 
-(7)[^key-104aeea10d03a67f5020175e45815c77] On the making of an application for the grant of a licence, the applicant shall pay to the Authority such fee as may be prescribed.
+(7)[^c-104aeea10d03a67f5020175e45815c77] On the making of an application for the grant of a licence, the applicant shall pay to the Authority such fee as may be prescribed.
 
-(8)[^key-104aeea10d03a67f5020175e45815c77] Subject to section 10, a licence shall remain in force—
+(8)[^c-104aeea10d03a67f5020175e45815c77] Subject to section 10, a licence shall remain in force—
 
 - (a) except in a case to which paragraph (b) applies, for a period of three years beginning with the day on which it is granted; and
 - (b) in any case for which provision as to the duration of the licence is made by the Secretary of State by order, for such other period beginning with that day as may be specified in the order.
 
-### 9. Licence conditions[^c10296011][^key-dac14f247a548a1e733c928781fb3b54][^key-82dd63490f76e1f5695ea2d16a255bd9][^key-8d61ba980cad8413141ede0d9bd55921]
+### 9. Licence conditions[^c10296011][^c-dac14f247a548a1e733c928781fb3b54][^c-82dd63490f76e1f5695ea2d16a255bd9][^c-8d61ba980cad8413141ede0d9bd55921]
 
-(1)[^key-8b707255e2627a890d15d70b04e79d30] The power of the Secretary of State to prescribe the conditions on which a licence must be granted and the power of the Authority to impose additional conditions for such a licence shall include power to prescribe or impose—
+(1)[^c-8b707255e2627a890d15d70b04e79d30] The power of the Secretary of State to prescribe the conditions on which a licence must be granted and the power of the Authority to impose additional conditions for such a licence shall include power to prescribe or impose—
 
 - (a) conditions containing requirements as to the training, registration and insurances which the licensee is to undergo, or to maintain, while the licence remains in force;
 - (b) conditions as to the manner in which the licensee is to carry out specified activities of a security operative that he is licensed to carry out;
@@ -353,17 +353,17 @@ as may be prescribed in relation to licences to engage in that description of li
 - (d) conditions imposing obligations as to the information to be provided from time to time by the licensee to the Authority; and
 - (e) such other conditions (whether or not relating to the criteria that would be applied by the Authority in determining whether to grant the licence) as the Secretary of State or the Authority thinks fit.
 
-(2)[^key-8b707255e2627a890d15d70b04e79d30] The conditions that may be prescribed or imposed in relation to any description of licence may include conditions imposing obligations on a licensee by reference to requirements made or directions given by the Authority.
+(2)[^c-8b707255e2627a890d15d70b04e79d30] The conditions that may be prescribed or imposed in relation to any description of licence may include conditions imposing obligations on a licensee by reference to requirements made or directions given by the Authority.
 
-(2D)[^key-90721727503a140216bf5277404db1f8] The Secretary of State must consult the Department of Justice in Northern Ireland before approving a nomination under subsection (2B) affecting persons carrying out activities in Northern Ireland.
+(2D)[^c-90721727503a140216bf5277404db1f8] The Secretary of State must consult the Department of Justice in Northern Ireland before approving a nomination under subsection (2B) affecting persons carrying out activities in Northern Ireland.
 
-(3)[^key-8b707255e2627a890d15d70b04e79d30] In relation to a licence authorising licensable conduct falling within subsection (2)(g) of section 3, the references in subsection (1) of this section to the licensee include references to any of his employees who carry out any designated activities subject to additional controls.
+(3)[^c-8b707255e2627a890d15d70b04e79d30] In relation to a licence authorising licensable conduct falling within subsection (2)(g) of section 3, the references in subsection (1) of this section to the licensee include references to any of his employees who carry out any designated activities subject to additional controls.
 
-(4)[^key-3cb1fe4e78df0665fc6f5d0948c4b690] Any person who contravenes the conditions of any licence granted to him shall be guilty of an offence and liable, on summary conviction, to a term of imprisonment not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
+(4)[^c-3cb1fe4e78df0665fc6f5d0948c4b690] Any person who contravenes the conditions of any licence granted to him shall be guilty of an offence and liable, on summary conviction, to a term of imprisonment not exceeding six months or to a fine not exceeding level 5 on the standard scale, or to both.
 
-(5)[^key-3cb1fe4e78df0665fc6f5d0948c4b690] In proceedings against any person for an offence under subsection (4) it shall be a defence for that person to show that he exercised all due diligence to avoid a contravention of the conditions of the licence.
+(5)[^c-3cb1fe4e78df0665fc6f5d0948c4b690] In proceedings against any person for an offence under subsection (4) it shall be a defence for that person to show that he exercised all due diligence to avoid a contravention of the conditions of the licence.
 
-### 10. Revocation and modification of licences[^key-0ec17feb7773ec4948a375e6c6f04a81][^key-ebe13adf05b627c95db3bf426a2151c1][^key-6244bec81f9c74caf81a6fa6335bd431]
+### 10. Revocation and modification of licences[^c-0ec17feb7773ec4948a375e6c6f04a81][^c-ebe13adf05b627c95db3bf426a2151c1][^c-6244bec81f9c74caf81a6fa6335bd431]
 
 (1) The Authority may by notice in writing to the licensee modify or revoke any licence granted to him (including any of the conditions of that licence).
 
@@ -371,7 +371,7 @@ as may be prescribed in relation to licences to engage in that description of li
 
 (3) The modifications that may be made under this section include one suspending the effect of the licence for such period as the Authority may determine.
 
-### 11. Appeals in licensing matters[^key-97ba4210cebde3c656132e467bf603bd][^key-3121cc165b72ff2c0541eadaec554109][^key-26fdd65fb67d7435ae76bf66444a0bec]
+### 11. Appeals in licensing matters[^c-97ba4210cebde3c656132e467bf603bd][^c-3121cc165b72ff2c0541eadaec554109][^c-26fdd65fb67d7435ae76bf66444a0bec]
 
 (1) Where—
 
@@ -379,15 +379,15 @@ as may be prescribed in relation to licences to engage in that description of li
 - (b) a licence is granted subject to conditions imposed under section 8(6), or
 - (c) a licence is modified or revoked,
 
-the applicant or, as the case may be, the holder of the licence may appeal to a[^key-2fb669d86787847c1641e3835740ece5] magistrates’ court (in Scotland, to the sheriff)[^key-66adad8ef4cdc33fee23822a36345b21] against the Authority’s decision to refuse to grant the licence, to impose those conditions or, as the case may be, to modify or to revoke the licence.
+the applicant or, as the case may be, the holder of the licence may appeal to a[^c-2fb669d86787847c1641e3835740ece5] magistrates’ court (in Scotland, to the sheriff)[^c-66adad8ef4cdc33fee23822a36345b21] against the Authority’s decision to refuse to grant the licence, to impose those conditions or, as the case may be, to modify or to revoke the licence.
 
 (2) An appeal under subsection (1) must be brought before the end of the period of twenty-one days beginning with the day on which the decision appealed against was first notified to the appellant by the Authority.
 
-(3)[^key-9776ebc96ef350b3426639457138a303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9776ebc96ef350b3426639457138a303] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where
 
-- (a)[^key-cb532fb9fe43bcfbb1e3a300a43aef13] a magistrates’ court makes a decision on an appeal under subsection (1), an appeal to the Crown Court, or[^key-8fef08a919ed5215e01fb4102f828958]
+- (a)[^c-cb532fb9fe43bcfbb1e3a300a43aef13] a magistrates’ court makes a decision on an appeal under subsection (1), an appeal to the Crown Court, or[^c-8fef08a919ed5215e01fb4102f828958]
 - (b) the sheriff makes a decision on an appeal under that subsection, an appeal to the Sheriff Principal,
 
 may be brought against that decision either by the Authority or by the person on whose appeal that decision was made.
@@ -400,12 +400,12 @@ may be brought against that decision either by the Authority or by the person on
 - (b) for the period from the bringing of any such appeal until it is determined or abandoned;
 - (c) for the period from any determination on appeal that a licence should be granted until effect is given to that determination, or it is overturned on a further appeal;
 - (d) during any such period as
-  - (i)[^key-aead1b60a532c051f98961e5cd2d1119] the [^key-3f5d8f82bb0c65f9d56ce111914d5061]... magistrates’ court or the Crown Court may direct, pending an appeal from a determination made on an appeal to the[^key-48836eb869d754af5adb9dd51895bf69] magistrates’ court, or[^key-b068b766dcdb2ed5fac22e1db422236d]
+  - (i)[^c-aead1b60a532c051f98961e5cd2d1119] the [^c-3f5d8f82bb0c65f9d56ce111914d5061]... magistrates’ court or the Crown Court may direct, pending an appeal from a determination made on an appeal to the[^c-48836eb869d754af5adb9dd51895bf69] magistrates’ court, or[^c-b068b766dcdb2ed5fac22e1db422236d]
   - (ii) the sheriff or the Sheriff Principal may direct pending an appeal from a determination made on an appeal to the sheriff.
 
-(7)[^key-0fdf40630c0ccdf6507e53b8e84ee2df] In the application of this section to Northern Ireland a reference to the Crown Court shall be taken as a reference to a county court.
+(7)[^c-0fdf40630c0ccdf6507e53b8e84ee2df] In the application of this section to Northern Ireland a reference to the Crown Court shall be taken as a reference to a county court.
 
-### 12. Register of licences[^key-3aa901b24aa200cd52efd10fed966fab][^key-1b08841ec808460a6286da5462b51579][^key-743a8c07367be4f463cffee0c156f884]
+### 12. Register of licences[^c-3aa901b24aa200cd52efd10fed966fab][^c-1b08841ec808460a6286da5462b51579][^c-743a8c07367be4f463cffee0c156f884]
 
 (1) It shall be the duty of the Authority to establish and maintain a register of persons licensed under this Act.
 
@@ -429,24 +429,24 @@ may be brought against that decision either by the Authority or by the person on
 
 *Extent: E+W*
 
-(1)[^key-3f0b2179db79355b80f0a4c6bf0610c8] The Secretary of State may by order make provision for local authorities to carry out some or all of the Authority’s relevant licensing functions in relation to such cases and such areas, and for such purposes, as may be specified or described in the order.
+(1)[^c-3f0b2179db79355b80f0a4c6bf0610c8] The Secretary of State may by order make provision for local authorities to carry out some or all of the Authority’s relevant licensing functions in relation to such cases and such areas, and for such purposes, as may be specified or described in the order.
 
-(2)[^key-3f0b2179db79355b80f0a4c6bf0610c8] References in this section to the Authority’s relevant licensing functions are references to such of its functions under this Act (other than section 7) as relate to the grant, revocation or modification of licences to engage in any such licensable conduct as will or may involve, or relate to, the carrying out of activities to which paragraph 8 of Schedule 2 (door supervisors etc. for public houses and clubs and comparable venues) applies.
+(2)[^c-3f0b2179db79355b80f0a4c6bf0610c8] References in this section to the Authority’s relevant licensing functions are references to such of its functions under this Act (other than section 7) as relate to the grant, revocation or modification of licences to engage in any such licensable conduct as will or may involve, or relate to, the carrying out of activities to which paragraph 8 of Schedule 2 (door supervisors etc. for public houses and clubs and comparable venues) applies.
 
-(3)[^key-3f0b2179db79355b80f0a4c6bf0610c8] An order under this section may—
+(3)[^c-3f0b2179db79355b80f0a4c6bf0610c8] An order under this section may—
 
 - (a) impose such conditions and requirements in respect of the carrying out of any of the Authority’s relevant licensing functions by a local authority as the Secretary of State thinks fit;
 - (b) provide for any of those conditions or requirements to be framed by reference to directions given by the Secretary of State in accordance with the order;
 - (c) provide for any of the powers exercisable by a local authority by virtue of such an order to be exercisable concurrently in relation to the same case by the Authority and that local authority; and
 - (d) authorise a local authority to retain any fee paid to them by virtue of section 8(7).
 
-(4)[^key-3f0b2179db79355b80f0a4c6bf0610c8] Section 11 shall apply in relation to a decision made by a local authority in accordance with an order under subsection (1) as it applies in relation to a decision of the Authority; and where it so applies it shall have effect as if the references in subsections (2) and (4) of that section to the Authority were a reference to the local authority that made the decision in question.
+(4)[^c-3f0b2179db79355b80f0a4c6bf0610c8] Section 11 shall apply in relation to a decision made by a local authority in accordance with an order under subsection (1) as it applies in relation to a decision of the Authority; and where it so applies it shall have effect as if the references in subsections (2) and (4) of that section to the Authority were a reference to the local authority that made the decision in question.
 
-(5)[^c10296021][^key-231246868751dfb1bf9c0859043dbad5] The Secretary of State may by order make such provision repealing or modifying the provisions of any local enactment as he considers appropriate in consequence of the coming into force of any of the provisions of this Act or of an order under subsection (1).
+(5)[^c10296021][^c-231246868751dfb1bf9c0859043dbad5] The Secretary of State may by order make such provision repealing or modifying the provisions of any local enactment as he considers appropriate in consequence of the coming into force of any of the provisions of this Act or of an order under subsection (1).
 
-(6)[^key-231246868751dfb1bf9c0859043dbad5] The Secretary of State shall consult the Authority before making an order under this section.
+(6)[^c-231246868751dfb1bf9c0859043dbad5] The Secretary of State shall consult the Authority before making an order under this section.
 
-(7)[^key-3f0b2179db79355b80f0a4c6bf0610c8] In this section “**local authority**” means—
+(7)[^c-3f0b2179db79355b80f0a4c6bf0610c8] In this section “**local authority**” means—
 
 - (a) the council for any county or district in England other than a metropolitan county the districts comprised in which are districts for which there are councils;
 - (b) the council for any London borough;
@@ -454,13 +454,13 @@ may be brought against that decision either by the Authority or by the person on
 - (d) the Council of the Isles of Scilly;
 - (e) the council for any county or county borough in Wales.
 
-(8)[^key-3beb1b2a539fe0a21f073fee03b53366] This section does not apply to Scotland or Northern Ireland[^key-b645e9a8731cbf1b7134a15afccb52d4] .
+(8)[^c-3beb1b2a539fe0a21f073fee03b53366] This section does not apply to Scotland or Northern Ireland[^c-b645e9a8731cbf1b7134a15afccb52d4] .
 
 ## Approved contractors
 
 *Extent: E+W+S*
 
-### 14. Register of approved contractors[^key-9689ee1967efc2ec702ac500f70306d5][^key-5dab8fffe55647bb5465dbc538b90103][^key-0b1bc1ddd8aedd47654fc048a019dbf1]
+### 14. Register of approved contractors[^c-9689ee1967efc2ec702ac500f70306d5][^c-5dab8fffe55647bb5465dbc538b90103][^c-0b1bc1ddd8aedd47654fc048a019dbf1]
 
 (1) It shall be the duty of the Authority to establish and maintain a register of approved providers of security industry services.
 
@@ -481,51 +481,51 @@ may be brought against that decision either by the Authority or by the person on
 
 (5) The Authority may impose such fee as it considers reasonable for allowing a person to inspect the register or to take a copy of any part of it.
 
-### 15. Arrangements for the grant of approvals[^c10296031][^key-310dde3df2afe906d2ee9520c40f3910][^key-2a53f5168241dab886a262715696ca79][^key-24709645344ea83560bf69ca31d0335d][^key-b5b5fc0d5e1da5b38ea7acd1b6951897]
+### 15. Arrangements for the grant of approvals[^c10296031][^c-310dde3df2afe906d2ee9520c40f3910][^c-2a53f5168241dab886a262715696ca79][^c-24709645344ea83560bf69ca31d0335d][^c-b5b5fc0d5e1da5b38ea7acd1b6951897]
 
-(1)[^key-bd41d3b100c4c353e5709da6494536d1] It shall be the duty of the Authority to secure that there are arrangements in force for granting approvals to persons who—
+(1)[^c-bd41d3b100c4c353e5709da6494536d1] It shall be the duty of the Authority to secure that there are arrangements in force for granting approvals to persons who—
 
-- (a) are providing security industry services in the United Kingdom[^key-e217779b66ffe0decada61b8cb614e5b] ; and
+- (a) are providing security industry services in the United Kingdom[^c-e217779b66ffe0decada61b8cb614e5b] ; and
 - (b) seek approval in respect of any such services that they are providing, or are proposing to provide.
 
 (2) The arrangements must—
 
-- (a)[^key-bd41d3b100c4c353e5709da6494536d1] allow for an approval to be granted either in respect of all the services in respect of which it is sought or in respect of only some of them;
-- (b)[^key-bd41d3b100c4c353e5709da6494536d1] ensure that an approval is granted to a person in respect of any services only if the condition for the grant of an approval is satisfied in accordance with subsection (3);
-- (c)[^key-bd41d3b100c4c353e5709da6494536d1] provide for an approval granted to any person to have effect subject to such conditions (whether or not connected with the provision of the services in respect of which the approval is granted) as may be contained in the approval;
-- (d)[^key-bd41d3b100c4c353e5709da6494536d1] enable a person to whom the Authority is proposing to grant an approval to refuse it if the proposal is in different terms from the approval which was sought;
-- (e)[^key-bd41d3b100c4c353e5709da6494536d1] make provision for the handling of complaints and disputes which—
+- (a)[^c-bd41d3b100c4c353e5709da6494536d1] allow for an approval to be granted either in respect of all the services in respect of which it is sought or in respect of only some of them;
+- (b)[^c-bd41d3b100c4c353e5709da6494536d1] ensure that an approval is granted to a person in respect of any services only if the condition for the grant of an approval is satisfied in accordance with subsection (3);
+- (c)[^c-bd41d3b100c4c353e5709da6494536d1] provide for an approval granted to any person to have effect subject to such conditions (whether or not connected with the provision of the services in respect of which the approval is granted) as may be contained in the approval;
+- (d)[^c-bd41d3b100c4c353e5709da6494536d1] enable a person to whom the Authority is proposing to grant an approval to refuse it if the proposal is in different terms from the approval which was sought;
+- (e)[^c-bd41d3b100c4c353e5709da6494536d1] make provision for the handling of complaints and disputes which—
   - (i) are required by the conditions of an approved person’s approval to be dealt with in accordance with a procedure maintained by him in pursuance of those conditions; but
   - (ii) are not disposed of by the application of that procedure;
 - (f) provide for an approval to cease to have effect (unless renewed)—
-  - (i)[^key-bd41d3b100c4c353e5709da6494536d1] except in a case to which sub-paragraph (ii) applies, at the end of the period of three years beginning with the day on which it is granted; and
-  - (ii)[^key-a0b8eba0fc91700caa2f961768918b06] in a case for which provision as to the duration of the approval is made by the Secretary of State by order, for such other period beginning with that day as may be specified in the order;
+  - (i)[^c-bd41d3b100c4c353e5709da6494536d1] except in a case to which sub-paragraph (ii) applies, at the end of the period of three years beginning with the day on which it is granted; and
+  - (ii)[^c-a0b8eba0fc91700caa2f961768918b06] in a case for which provision as to the duration of the approval is made by the Secretary of State by order, for such other period beginning with that day as may be specified in the order;
 - (g) provide for the modification and withdrawal of approvals.
 
 (3) The condition that must be fulfilled before an approval is granted to any person is that the Authority is satisfied that he—
 
-- (a)[^key-a0b8eba0fc91700caa2f961768918b06] will comply, in providing the services in respect of which he is approved, with such technical and other requirements as may be prescribed;
-- (b)[^key-a0b8eba0fc91700caa2f961768918b06] is a person in relation to whom such other requirements as may be prescribed are, and will continue to be, satisfied;
-- (c)[^key-bd41d3b100c4c353e5709da6494536d1] is, and will continue to be, able and willing to comply with any requirements that the Authority is proposing to impose by means of conditions of the approval; and
-- (d)[^key-bd41d3b100c4c353e5709da6494536d1] is otherwise a fit and proper person to be approved in respect of those services.
+- (a)[^c-a0b8eba0fc91700caa2f961768918b06] will comply, in providing the services in respect of which he is approved, with such technical and other requirements as may be prescribed;
+- (b)[^c-a0b8eba0fc91700caa2f961768918b06] is a person in relation to whom such other requirements as may be prescribed are, and will continue to be, satisfied;
+- (c)[^c-bd41d3b100c4c353e5709da6494536d1] is, and will continue to be, able and willing to comply with any requirements that the Authority is proposing to impose by means of conditions of the approval; and
+- (d)[^c-bd41d3b100c4c353e5709da6494536d1] is otherwise a fit and proper person to be approved in respect of those services.
 
-(4)[^key-a0b8eba0fc91700caa2f961768918b06] Regulations made by virtue of paragraph (a) or (b) of subsection (3) may frame a requirement for the purposes of that subsection by reference to the opinion of a person specified in the regulations, or of a person chosen in a manner determined in accordance with the regulations.
+(4)[^c-a0b8eba0fc91700caa2f961768918b06] Regulations made by virtue of paragraph (a) or (b) of subsection (3) may frame a requirement for the purposes of that subsection by reference to the opinion of a person specified in the regulations, or of a person chosen in a manner determined in accordance with the regulations.
 
-(5)[^key-bd41d3b100c4c353e5709da6494536d1] The requirements which (subject to subsection (6)) may be imposed by conditions contained in an approval in accordance with the arrangements include—
+(5)[^c-bd41d3b100c4c353e5709da6494536d1] The requirements which (subject to subsection (6)) may be imposed by conditions contained in an approval in accordance with the arrangements include—
 
 - (a) requirements to provide information to such persons, in such form, at such times and in response to such requests as may be specified in or determined under the terms of the condition;
 - (b) requirements framed by reference to the opinion or directions of a person specified in or chosen in accordance with provision contained in the conditions.
 
-(6)[^key-bd41d3b100c4c353e5709da6494536d1] Nothing in the arrangements shall authorise the imposition, by conditions contained in an approval, of any requirements for—
+(6)[^c-bd41d3b100c4c353e5709da6494536d1] Nothing in the arrangements shall authorise the imposition, by conditions contained in an approval, of any requirements for—
 
 - (a) the provision of information, or
 - (b) the maintenance of a procedure for handling complaints or disputes,
 
 in relation to any matter other than one appearing to the Authority to be relevant to the matters mentioned in subsection (3)(a) to (d).
 
-(7)[^key-bd41d3b100c4c353e5709da6494536d1] Any requirement to provide information that is imposed in accordance with the arrangements on any person by the conditions of his approval shall be enforceable at the suit or instance of the Authority.
+(7)[^c-bd41d3b100c4c353e5709da6494536d1] Any requirement to provide information that is imposed in accordance with the arrangements on any person by the conditions of his approval shall be enforceable at the suit or instance of the Authority.
 
-(8)[^key-a0b8eba0fc91700caa2f961768918b06] Where any arrangements under this section so provide, a person who—
+(8)[^c-a0b8eba0fc91700caa2f961768918b06] Where any arrangements under this section so provide, a person who—
 
 - (a) seeks an approval under the arrangements,
 - (b) applies for a modification of such an approval,
@@ -534,7 +534,7 @@ in relation to any matter other than one appearing to the Authority to be releva
 
 shall pay to the Authority, at such time or times as may be prescribed, such fee or fees as may be prescribed in relation to that time or those times.
 
-### 16. Right to use approved status[^key-39c66e6d20ac53d8cadf1fbe58467ea0][^key-c342a4a3d9413e883e989438f8b45d15][^key-639a64e14454a2d382f4d40c1fd4acab]
+### 16. Right to use approved status[^c-39c66e6d20ac53d8cadf1fbe58467ea0][^c-c342a4a3d9413e883e989438f8b45d15][^c-639a64e14454a2d382f4d40c1fd4acab]
 
 (1) The Authority may approve the terms in which a person who is for the time being registered under section 14 as an approved provider of security industry services may hold himself out as so registered.
 
@@ -550,7 +550,7 @@ shall pay to the Authority, at such time or times as may be prescribed, such fee
 
 (4) For the purposes of this section references in this section to a person’s holding himself out as registered as an approved provider of any services include references to his holding himself out to be a person who is for the time being approved in respect of those services in accordance with arrangements under section 15.
 
-### 17. Imposition of requirements for approval[^c10296041][^key-5617511473d0fe6c7a696a047e110c39][^key-4b038af0cbf06528ecfc7872e3dccd6a]
+### 17. Imposition of requirements for approval[^c10296041][^c-5617511473d0fe6c7a696a047e110c39][^c-4b038af0cbf06528ecfc7872e3dccd6a]
 
 (1) The Secretary of State may by regulations provide that persons of prescribed descriptions are to be prohibited from providing prescribed security industry services unless they are for the time being approved in respect of those services in accordance with arrangements under section 15.
 
@@ -573,7 +573,7 @@ is guilty of an offence if he contravenes any of the conditions of his approval 
 - (a) for the conditions that are to be contained in his approval in relation to the handling of complaints made about the provision of those services; and
 - (b) generally in relation to the arrangements under that section that are to be made for such cases.
 
-### 18. Appeals relating to approvals[^key-10378cdcaab84c22d4b856c90c8f9236][^key-7bb59673c91c7a8518eff78fcbb6fd43][^key-cc3d4fcde06a35890417b7d640ceb0a7]
+### 18. Appeals relating to approvals[^c-10378cdcaab84c22d4b856c90c8f9236][^c-7bb59673c91c7a8518eff78fcbb6fd43][^c-cc3d4fcde06a35890417b7d640ceb0a7]
 
 (1) Where—
 
@@ -581,17 +581,17 @@ is guilty of an offence if he contravenes any of the conditions of his approval 
 - (b) conditions are included as conditions of such an approval, or
 - (c) such an approval is modified or withdrawn,
 
-the applicant or, as the case may be, the approved person may appeal to a[^key-db33bd545241a4033b4aa78419eb5bba] magistrates’ court (in Scotland, to the sheriff)[^key-7951fc49742237d8cec84ee5597ab1f0] against the Authority’s decision to refuse to grant the approval, to include those conditions or, as the case may be, to modify or to withdraw the approval.
+the applicant or, as the case may be, the approved person may appeal to a[^c-db33bd545241a4033b4aa78419eb5bba] magistrates’ court (in Scotland, to the sheriff)[^c-7951fc49742237d8cec84ee5597ab1f0] against the Authority’s decision to refuse to grant the approval, to include those conditions or, as the case may be, to modify or to withdraw the approval.
 
 (2) An appeal under subsection (1) must be brought before the end of the period of twenty-one days beginning with the day on which the decision appealed against was first notified to the appellant by the Authority.
 
-(3)[^key-0026175558525da1c63ad6346c9b7e72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0026175558525da1c63ad6346c9b7e72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where a
 
 magistrates’ court makes a decision on an appeal under subsection (1), an appeal to the Crown Court
 
-- (a)[^key-14775ae2e9e6fd62889e3436ba7d917d] magistrates’ court makes a decision on an appeal under subsection (1), an appeal to the Crown Court, or[^key-ea3628bb0e35ceae697e78843a33e974]
+- (a)[^c-14775ae2e9e6fd62889e3436ba7d917d] magistrates’ court makes a decision on an appeal under subsection (1), an appeal to the Crown Court, or[^c-ea3628bb0e35ceae697e78843a33e974]
 - (b) the sheriff makes a decision on an appeal under that subsection, an appeal to the Sheriff Principal,
 
 may be brought against that decision either by the Authority or by the person on whose appeal that decision was made.
@@ -602,16 +602,16 @@ may be brought against that decision either by the Authority or by the person on
 - (b) for the period from the bringing of any such appeal until it is determined or abandoned;
 - (c) for the period from any determination on appeal that an approval should be granted until effect is given to that determination, or it is overturned on a further appeal;
 - (d) during any such period as
-  - (i)[^key-93c58741a8a6eddde8b0755457c1b7a9] the [^key-5e269cdeaf25f70e64a6000b0ec33357]... magistrates’ court or the Crown Court may direct, pending an appeal from a determination made on an appeal to the[^key-62b5d7261d95d0c96f31460e3f7e893a] magistrates’ court, or[^key-2214ce9b8256a3b85b22f80fb37b15ec]
+  - (i)[^c-93c58741a8a6eddde8b0755457c1b7a9] the [^c-5e269cdeaf25f70e64a6000b0ec33357]... magistrates’ court or the Crown Court may direct, pending an appeal from a determination made on an appeal to the[^c-62b5d7261d95d0c96f31460e3f7e893a] magistrates’ court, or[^c-2214ce9b8256a3b85b22f80fb37b15ec]
   - (ii) the sheriff or the Sheriff Principal may direct pending an appeal from a determination made on an appeal to the sheriff.
 
-(6)[^key-ac6497b8b287a39b30a7d8f23e296dbb] In the application of this section to Northern Ireland a reference to the Crown Court shall be taken as a reference to a county court.
+(6)[^c-ac6497b8b287a39b30a7d8f23e296dbb] In the application of this section to Northern Ireland a reference to the Crown Court shall be taken as a reference to a county court.
 
 ## Entry, inspection and information
 
 *Extent: E+W+S*
 
-### 19. Powers of entry and inspection[^key-c4388cceea2e4e0280e204438ffe817e][^key-a525ae8d6c8dc22ab56ec8260cee440a][^key-4dca0924dcff9af68f406716a68d7ab0]
+### 19. Powers of entry and inspection[^c-c4388cceea2e4e0280e204438ffe817e][^c-a525ae8d6c8dc22ab56ec8260cee440a][^c-4dca0924dcff9af68f406716a68d7ab0]
 
 (1) Subject to subsections (3) and (4), a person authorised in writing for the purpose by the Authority may enter any premises owned or occupied by any person appearing to him to be a regulated person other than premises occupied exclusively for residential purposes as a private dwelling.
 
@@ -652,7 +652,7 @@ may be brought against that decision either by the Authority or by the person on
 - (c) any person who is for the time being approved in accordance with arrangements under section 15 in respect of any services which regulations under section 17 prohibit him from providing unless so approved; or
 - (d) any person who is not so approved but provides security industry services which he is prohibited by any such regulations from providing.
 
-### 20. Guidance as to exercise of power of entry[^key-7aa48e8c9ef5bd383cf554eadb8b2597][^key-c46342251364fe8d8aa1abe1259edbe2][^key-bfab02df113c3ad56ac098f7ee0567b2]
+### 20. Guidance as to exercise of power of entry[^c-7aa48e8c9ef5bd383cf554eadb8b2597][^c-c46342251364fe8d8aa1abe1259edbe2][^c-bfab02df113c3ad56ac098f7ee0567b2]
 
 (1) It shall be the duty of the Authority to prepare and publish a document containing its guidance as to the manner in which persons authorised to enter premises under subsection (1) of section 19 should—
 
@@ -669,11 +669,11 @@ may be brought against that decision either by the Authority or by the person on
 
 **Not yet in force.**
 
-In section 115(5) of the Police Act 1997 (c. 50) (matters in respect of which an enhanced criminal record certificate may be required), after paragraph (g) there shall be inserted— *(Extent: E+W)* *(affected by repeal, see note)*[^key-268ed8ed56d060e9139f1333f2c72833]
+In section 115(5) of the Police Act 1997 (c. 50) (matters in respect of which an enhanced criminal record certificate may be required), after paragraph (g) there shall be inserted— *(Extent: E+W)* *(affected by repeal, see note)*[^c-268ed8ed56d060e9139f1333f2c72833]
 
-> - (ga (Extent: E+W) (affected by repeal, see note))[^key-268ed8ed56d060e9139f1333f2c72833] a licence under the Private Security Industry Act 2001 to engage in any such licensable conduct (within the meaning of that Act) as will or may involve, or relate to, activities to which paragraph 8 of Schedule 2 to that Act applies (door supervisors *(Extent: E+W)* *(affected by repeal, see note)*[^key-268ed8ed56d060e9139f1333f2c72833] etc. *(Extent: E+W)* *(affected by repeal, see note)*[^key-268ed8ed56d060e9139f1333f2c72833] for public houses and clubs and comparable venues). *(Extent: E+W)* *(affected by repeal, see note)*[^key-268ed8ed56d060e9139f1333f2c72833]
+> - (ga (Extent: E+W) (affected by repeal, see note))[^c-268ed8ed56d060e9139f1333f2c72833] a licence under the Private Security Industry Act 2001 to engage in any such licensable conduct (within the meaning of that Act) as will or may involve, or relate to, activities to which paragraph 8 of Schedule 2 to that Act applies (door supervisors *(Extent: E+W)* *(affected by repeal, see note)*[^c-268ed8ed56d060e9139f1333f2c72833] etc. *(Extent: E+W)* *(affected by repeal, see note)*[^c-268ed8ed56d060e9139f1333f2c72833] for public houses and clubs and comparable venues). *(Extent: E+W)* *(affected by repeal, see note)*[^c-268ed8ed56d060e9139f1333f2c72833]
 
-### 22. False information[^key-916a68c0d39e920c3b7d07c7ae620296][^key-f0f9f88d052c68d796b19c3e4115fef9][^key-9af9bcbf09c3a8e5ce96bdf02b89e1c5]
+### 22. False information[^c-916a68c0d39e920c3b7d07c7ae620296][^c-f0f9f88d052c68d796b19c3e4115fef9][^c-9af9bcbf09c3a8e5ce96bdf02b89e1c5]
 
 (1) A person is guilty of an offence if for any purposes connected with the carrying out by the Authority of any of its functions under this Act—
 
@@ -686,41 +686,41 @@ In section 115(5) of the Police Act 1997 (c. 50) (matters in respect of which an
 
 *Extent: E+W+S*
 
-### 23. Criminal liability of directors etc[^key-d58c3ceaf024f8982c95ec052653fe86][^key-777f790cb1472ac8e6cdc4ee23d450f5][^key-405fb2f7e8263a2b26b975bdecc3bd54]
+### 23. Criminal liability of directors etc[^c-d58c3ceaf024f8982c95ec052653fe86][^c-777f790cb1472ac8e6cdc4ee23d450f5][^c-405fb2f7e8263a2b26b975bdecc3bd54]
 
-(1)[^key-cb2f18d7fbec8d3efd1ebc0773c6e788] Where an offence under any provision of this Act is committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+(1)[^c-cb2f18d7fbec8d3efd1ebc0773c6e788] Where an offence under any provision of this Act is committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
 
 - (a) a director, manager, secretary or other similar officer of the body corporate, or
 - (b) any person who was purporting to act in any such capacity,
 
 he (as well as the partnership) shall be guilty of that offence and liable to be proceeded against and punished accordingly.
 
-(2)[^key-c50a2d38304b4ca0f8c47783e315343a] Where an offence under any provision of this Act is committed by a Scottish partnership and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+(2)[^c-c50a2d38304b4ca0f8c47783e315343a] Where an offence under any provision of this Act is committed by a Scottish partnership and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
 
 - (a) a partner; or
 - (b) any person who was purporting to be a partner,
 
 he (as well as the partnership) shall be guilty of that offence and liable to be proceeded against and punished accordingly.
 
-### 24. Orders and regulations[^key-9727c579929be229e441aadf28a53b7f][^key-1dd0aac6522058e26f1653cfc231d582][^key-a51a94ea7d27b71fcac43141b8fa009b]
+### 24. Orders and regulations[^c-9727c579929be229e441aadf28a53b7f][^c-1dd0aac6522058e26f1653cfc231d582][^c-a51a94ea7d27b71fcac43141b8fa009b]
 
 (1) In this Act “**prescribed**” means prescribed by regulations made by the Secretary of State, or determined in any such manner and by such person as may be provided for in any such regulations; and “**prescribe**” shall be construed accordingly.
 
-(1A)[^key-5c78be877310e0b50c1d5d3571f13a57] But in Scotland “**prescribed**” in paragraph 8(3)(d) of Schedule 2 to this Act includes prescribed by regulations made by the Scottish Ministers; and in Northern Ireland “prescribed” in that paragraph includes prescribed by regulations made by the Department of Justice[^key-82da763f5c8f29533b933331b89711ab].
+(1A)[^c-5c78be877310e0b50c1d5d3571f13a57] But in Scotland “**prescribed**” in paragraph 8(3)(d) of Schedule 2 to this Act includes prescribed by regulations made by the Scottish Ministers; and in Northern Ireland “prescribed” in that paragraph includes prescribed by regulations made by the Department of Justice[^c-82da763f5c8f29533b933331b89711ab].
 
-(2) Every power of the Secretary of State or the Scottish Ministers[^key-f36b262090845132cf713ea7cc1047bb] under this Act to make an order or regulations shall be exercisable by statutory instrument.
+(2) Every power of the Secretary of State or the Scottish Ministers[^c-f36b262090845132cf713ea7cc1047bb] under this Act to make an order or regulations shall be exercisable by statutory instrument.
 
 (3) A statutory instrument containing any order or regulations made under any provision of this Act, other than one containing either—
 
 - (a) an order under section 26(2); or
-- (b) an order a draft of which has been approved for the purposes of paragraph 1(3) or 7(3) of Schedule 2, or[^key-3cde3623ec38fbd70aa1629e282744d2]
+- (b) an order a draft of which has been approved for the purposes of paragraph 1(3) or 7(3) of Schedule 2, or[^c-3cde3623ec38fbd70aa1629e282744d2]
 - (c) an order or regulations made by the Scottish Ministers,
 
 shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(3A)[^key-ab5d520887b5efa25669f41f1fa7a032] A statutory instrument containing an order or regulations made by the Scottish Ministers, other than an order under section 26(2), shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
+(3A)[^c-ab5d520887b5efa25669f41f1fa7a032] A statutory instrument containing an order or regulations made by the Scottish Ministers, other than an order under section 26(2), shall be subject to annulment in pursuance of a resolution of the Scottish Parliament.
 
-(3B)[^key-45c570108055d1eaf45fd7ab8a6b38bd] Any power of the Department of Justice to make orders or regulations under this Act shall be exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
+(3B)[^c-45c570108055d1eaf45fd7ab8a6b38bd] Any power of the Department of Justice to make orders or regulations under this Act shall be exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
 
 (3C) Orders and regulations made by the Department of Justice under this Act are subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954).
 
@@ -730,16 +730,16 @@ shall be subject to annulment in pursuance of a resolution of either House of Pa
 - (b) making any order under any provision of this Act other than paragraph 1(2) or 7(2) of Schedule 2, or
 - (c) laying any draft order under paragraph 1(2) or 7(2) of Schedule 2 before Parliament,
 
-the Secretary of State shall consult the Scottish Ministers[^key-b8752d9b38249e355b94d1f1a262acea] (except where the order is made by virtue of section 3(2)(j)) *(affected by repeal, see note)*[^key-d3b9c2d2d377e5f0a0e887308df427ae] , the Department of Justice[^key-763ed7fbff53280a443c64b57135a617] and the Authority.
+the Secretary of State shall consult the Scottish Ministers[^c-b8752d9b38249e355b94d1f1a262acea] (except where the order is made by virtue of section 3(2)(j)) *(affected by repeal, see note)*[^c-d3b9c2d2d377e5f0a0e887308df427ae] , the Department of Justice[^c-763ed7fbff53280a443c64b57135a617] and the Authority.
 
-(4A)[^key-d96047603fcc9f750c84828561f7e598] Before making any order or regulations under any provision of this Act, the Department of Justice shall consult the Authority.
+(4A)[^c-d96047603fcc9f750c84828561f7e598] Before making any order or regulations under any provision of this Act, the Department of Justice shall consult the Authority.
 
 (5) Any order or regulations made under any of the preceding provisions of this Act or any provision contained in a Schedule to this Act may—
 
 - (a) make different provisions for different cases;
-- (b) contain such incidental, supplemental, consequential and transitional provision as the Secretary of State thinks fit (or where the order is, or regulations are, made by the Scottish Ministers, as the Scottish Ministers think fit[^key-af04cfa908d282635b4bf57c21e2a52c], or where the order is, or the regulations are, made by the Department of Justice, as the Department of Justice thinks fit[^key-e6474b0a42e5e84daa7815955de37549]).
+- (b) contain such incidental, supplemental, consequential and transitional provision as the Secretary of State thinks fit (or where the order is, or regulations are, made by the Scottish Ministers, as the Scottish Ministers think fit[^c-af04cfa908d282635b4bf57c21e2a52c], or where the order is, or the regulations are, made by the Department of Justice, as the Department of Justice thinks fit[^c-e6474b0a42e5e84daa7815955de37549]).
 
-### 25. Interpretation[^key-72449b65520582072c4c8193778e9be8][^key-750a8686d508fda2342c30e3ae1bd8a1][^key-f8c19f6be0ac43cdb326e05883113b73]
+### 25. Interpretation[^c-72449b65520582072c4c8193778e9be8][^c-750a8686d508fda2342c30e3ae1bd8a1][^c-f8c19f6be0ac43cdb326e05883113b73]
 
 (1) In this Act—
 
@@ -747,10 +747,10 @@ the Secretary of State shall consult the Scottish Ministers[^key-b8752d9b38249e3
 - “**activities subject to additional controls**” shall be construed in accordance with Part 2 of that Schedule;
 - “**the Authority**” means the Security Industry Authority;
 - “**contravention**” includes a failure to comply, and cognate expressions shall be construed accordingly;
-- “the Department of Justice” means the Department of Justice in Northern Ireland;[^key-cc2d87b078481735822a22a1af7bd0fe]
+- “the Department of Justice” means the Department of Justice in Northern Ireland;[^c-cc2d87b078481735822a22a1af7bd0fe]
 - “**designated activities**” has the meaning given by section 3(3);
 - “**director**”—
-  - (a) in relation to a company (as defined in section 1(1) of the Companies Act 2006[^key-3eda8e1b0e34bf7acf9aa407ea02f981]), includes a shadow director;
+  - (a) in relation to a company (as defined in section 1(1) of the Companies Act 2006[^c-3eda8e1b0e34bf7acf9aa407ea02f981]), includes a shadow director;
   - (b) in relation to any such company that is a subsidiary of another, includes any director or shadow director of the other company; and
   - (c) in relation to a body corporate whose affairs are managed by its members, means a member of that body corporate;
 - “**information**” includes reports, references and other documents, photographs and data of any description;
@@ -761,7 +761,7 @@ the Secretary of State shall consult the Scottish Ministers[^key-b8752d9b38249e3
   - (b) a provision of any instrument in the nature of a local enactment;
   - (c) a provision of any instrument made under a local statutory provision;
 - “**modification**” includes amendments, additions and omissions, and cognate expressions shall be construed accordingly;
-- [^key-cdc0ab4eb59a8444f5d1524558bde21c]...
+- [^c-cdc0ab4eb59a8444f5d1524558bde21c]...
 - “**premises**” includes any vehicle or moveable structure and any other place whatever, whether or not occupied as land;
 - “**relevant accountancy body**” means any of the following—
   - (a) the Institute of Chartered Accountants in England and Wales;
@@ -774,13 +774,13 @@ the Secretary of State shall consult the Scottish Ministers[^key-b8752d9b38249e3
   - (a) that the activities of a security operative are carried out; or
   - (b) that a person is made available to carry out, under directions given by or on behalf of another person, any activities which will or are likely to consist of or include the activities of a security operative;
 - “**surveillance**” includes covertly listening to or recording conversations or other sounds and any method of covertly obtaining information;
-- “**shadow director**” means a shadow director as defined in section 251 of the Companies Act 2006[^key-90bffecf57e8621405b4162750a124bd] ;
-- “**subsidiary**” means a subsidiary as defined in section 1159 of the Companies Act 2006[^key-6becb3b44469e11a2ab1f4c8ef78778b];
+- “**shadow director**” means a shadow director as defined in section 251 of the Companies Act 2006[^c-90bffecf57e8621405b4162750a124bd] ;
+- “**subsidiary**” means a subsidiary as defined in section 1159 of the Companies Act 2006[^c-6becb3b44469e11a2ab1f4c8ef78778b];
 - “**vehicle**” includes any vessel, aircraft or hovercraft.
 
 (2) In this Act references, in relation to a firm, to a member of the firm include references to any person who, in relation to that firm, is liable as a partner under section 14 of the Partnership Act 1890 (c. 39) (persons liable by “**holding out**”).
 
-(3)[^key-64f83c1697a2e450a1b7806c1511edc3] In the application of this section to Northern Ireland, a reference to an Act that does not extend there shall be taken as a reference to the equivalent (or nearest equivalent) legislation that does.
+(3)[^c-64f83c1697a2e450a1b7806c1511edc3] In the application of this section to Northern Ireland, a reference to an Act that does not extend there shall be taken as a reference to the equivalent (or nearest equivalent) legislation that does.
 
 ### 26. Short title, commencement and extent
 
@@ -788,12 +788,12 @@ the Secretary of State shall consult the Scottish Ministers[^key-b8752d9b38249e3
 
 (2)[^c10296051] The provisions of this Act, other than this section, shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint; and different days may be appointed under this subsection for different purposes.
 
-(2A)[^key-f752c5f4772fc52a4851919cb7ed83f8] In the application of this Act to Scotland—
+(2A)[^c-f752c5f4772fc52a4851919cb7ed83f8] In the application of this Act to Scotland—
 
 - (a) the reference in subsection (2) to the Secretary of State must be construed as a reference to the Scottish Ministers; but
 - (b) before making any order under subsection (2) the Scottish Ministers are to consult the Secretary of State.
 
-(3)[^key-29f96502997f76503d5e5700ef2a99a7] This Act extends to—
+(3)[^c-29f96502997f76503d5e5700ef2a99a7] This Act extends to—
 
 - (a) England and Wales,
 - (b) Scotland, and
@@ -805,7 +805,7 @@ SCHEDULES
 
 Section 1
 
-### 1. Membership and chairman[^key-bf2fb594229a99ea86b9d26a79b9614e][^key-3c4978d30357dabc85c18f764ad1d430]
+### 1. Membership and chairman[^c-bf2fb594229a99ea86b9d26a79b9614e][^c-3c4978d30357dabc85c18f764ad1d430]
 
 *Extent: E+W+S*
 
@@ -815,9 +815,9 @@ Section 1
 
 (3) The Secretary of State shall appoint one of the members of the Authority to be its chairman.
 
-(4)[^key-37af0ca29024efec5abe80d9f4901c59] Before appointing the chairman, the Secretary of State shall consult the Scottish Ministers and the Department of Justice[^key-028ffe2574ab251a3bf3156e45bbb3cb].
+(4)[^c-37af0ca29024efec5abe80d9f4901c59] Before appointing the chairman, the Secretary of State shall consult the Scottish Ministers and the Department of Justice[^c-028ffe2574ab251a3bf3156e45bbb3cb].
 
-### 2. Tenure of office[^key-d894a15055d4eab4644d692ed3f8937c][^key-e3b871e433eb4ff5ce7e173f78a31b5d]
+### 2. Tenure of office[^c-d894a15055d4eab4644d692ed3f8937c][^c-e3b871e433eb4ff5ce7e173f78a31b5d]
 
 *Extent: E+W+S*
 
@@ -835,23 +835,23 @@ Section 1
 
 *Extent: E+W+S*
 
-**3.**[^key-4842eded29d918a945868ea5359a36ae][^key-b44314dc6c21c629f7d710b1804c084a] (1)[^key-3537080bebe14fd621c84cfef7e82455] The Secretary of State may remove a person from office as a member or as chairman of the Authority if satisfied that—
+**3.**[^c-4842eded29d918a945868ea5359a36ae][^c-b44314dc6c21c629f7d710b1804c084a] (1)[^c-3537080bebe14fd621c84cfef7e82455] The Secretary of State may remove a person from office as a member or as chairman of the Authority if satisfied that—
 
 - (a) he has without reasonable excuse failed, for a continuous period of three months, to carry out his functions as a member or (as the case may be) as chairman;
 - (b) he has without reasonable excuse been absent from three consecutive meetings of the Authority;
 - (c) he has been convicted (whether before or after his appointment) of a criminal offence;
 - (d) he is an undischarged bankrupt or his estate has been sequestrated and he has not been discharged, or he has made an arrangement with, or granted a trust deed for, his creditors;
-- (da)[^key-b7bcabe092bb137015aae726f86f9de3] a moratorium period under a debt relief order applies in relation to him (under Part 7A of the Insolvency Act 1986),
+- (da)[^c-b7bcabe092bb137015aae726f86f9de3] a moratorium period under a debt relief order applies in relation to him (under Part 7A of the Insolvency Act 1986),
 - (e) he has failed to comply with the terms of his appointment; or
 - (f) he is otherwise unable or unfit to carry out his functions as a member or (as the case may be) as chairman.
 
-(2)[^key-508b6bff8edf3260802a06f9566a7c02] Before removing a person from office as chairman of the Authority, the Secretary of State shall consult the Scottish Ministers and the Department of Justice[^key-58b6b9b1f690ca5b496ff93370c5d369].
+(2)[^c-508b6bff8edf3260802a06f9566a7c02] Before removing a person from office as chairman of the Authority, the Secretary of State shall consult the Scottish Ministers and the Department of Justice[^c-58b6b9b1f690ca5b496ff93370c5d369].
 
 *Extent: E+W+S*
 
-**4.**[^key-214c741b3bf0c6dfb6333139076c7743][^key-a2aaade1df7cf8541ca8e2e2dc82a0c5] A person who ceases (otherwise than by virtue of paragraph 3) to be a member or to be the chairman of the Authority shall be eligible for re-appointment.
+**4.**[^c-214c741b3bf0c6dfb6333139076c7743][^c-a2aaade1df7cf8541ca8e2e2dc82a0c5] A person who ceases (otherwise than by virtue of paragraph 3) to be a member or to be the chairman of the Authority shall be eligible for re-appointment.
 
-### 5. Remuneration, pensions etc. of members[^key-fe998a5e7064b2682b7f660840ffe1b7][^key-a720ceea3ef5cc9dc8fcef449d98586f]
+### 5. Remuneration, pensions etc. of members[^c-fe998a5e7064b2682b7f660840ffe1b7][^c-a720ceea3ef5cc9dc8fcef449d98586f]
 
 *Extent: E+W+S*
 
@@ -866,7 +866,7 @@ Section 1
 
 the Secretary of State may direct the Authority to make a payment of such amount as he may determine.
 
-### 6. Staff etc.[^c10296061][^key-abd247efec48bbe4ab2e8a4ba43ec86c][^key-3560b61f2464a4bb1ea7151753633b49]
+### 6. Staff etc.[^c10296061][^c-abd247efec48bbe4ab2e8a4ba43ec86c][^c-3560b61f2464a4bb1ea7151753633b49]
 
 *Extent: E+W+S*
 
@@ -877,13 +877,13 @@ the Secretary of State may direct the Authority to make a payment of such amount
 
 (2) The first appointment of a chief executive shall be made by the Secretary of State; but, subject to obtaining the Secretary of State’s consent to the appointment, every subsequent appointment of a chief executive shall be made by the Authority itself.
 
-(2A)[^key-e17b2678e9661694a3bf6dffdd116b3b] Before giving consent under sub-paragraph (2), the Secretary of State shall consult the Scottish Ministers and the Department of Justice[^key-27b52d64082c5314249b4433bc8e1865].
+(2A)[^c-e17b2678e9661694a3bf6dffdd116b3b] Before giving consent under sub-paragraph (2), the Secretary of State shall consult the Scottish Ministers and the Department of Justice[^c-27b52d64082c5314249b4433bc8e1865].
 
 (3) References in this Schedule to the employees of the Authority include references to its chief executive (whether appointed by the Secretary of State or by the Authority).
 
 *Extent: E+W+S*
 
-**7.**[^key-6de431bb21f080d63c9ea20e3250f860][^key-434ac6fb16acf843949dcbf1ceeec70d] (1) The Authority shall pay to its employees such remuneration and allowances as it may, with the consent of the Secretary of State, determine.
+**7.**[^c-6de431bb21f080d63c9ea20e3250f860][^c-434ac6fb16acf843949dcbf1ceeec70d] (1) The Authority shall pay to its employees such remuneration and allowances as it may, with the consent of the Secretary of State, determine.
 
 (2) The Authority shall—
 
@@ -901,7 +901,7 @@ the Authority may, with the consent of the Secretary of State, make provision fo
 
 (5) Any provision made by virtue of sub-paragraph (4) is without prejudice to paragraph 5.
 
-### 8. Committees[^key-041f8c6d731d5ce9e48e8ad32e1c7bf2][^key-3e6f8bdacb8fdc0a88415c70ccf83bd9]
+### 8. Committees[^c-041f8c6d731d5ce9e48e8ad32e1c7bf2][^c-3e6f8bdacb8fdc0a88415c70ccf83bd9]
 
 *Extent: E+W+S*
 
@@ -913,7 +913,7 @@ the Authority may, with the consent of the Secretary of State, make provision fo
 
 (4) The Authority may pay to members of its committees or sub-committees who are neither members nor employees of the Authority such remuneration and allowances as the Secretary of State may determine.
 
-### 9. Delegation to committees and staff[^key-12b9e114cd9379d7aea30369de5fdc2b][^key-45f134cd288b404580fa1cd4d489fc99]
+### 9. Delegation to committees and staff[^c-12b9e114cd9379d7aea30369de5fdc2b][^c-45f134cd288b404580fa1cd4d489fc99]
 
 *Extent: E+W+S*
 
@@ -923,7 +923,7 @@ the Authority may, with the consent of the Secretary of State, make provision fo
 
 (3) Any sub-committee of the Authority may, to such extent as the sub-committee may determine, delegate any functions conferred on the sub-committee to any employee of the Authority.
 
-### 10. Proceedings[^key-e324ddf106cc5e27696e1b8d23b29d7b][^key-4fdb49d9a2f750673dfc913eed4d2da1]
+### 10. Proceedings[^c-e324ddf106cc5e27696e1b8d23b29d7b][^c-4fdb49d9a2f750673dfc913eed4d2da1]
 
 *Extent: E+W+S*
 
@@ -938,13 +938,13 @@ the Authority may, with the consent of the Secretary of State, make provision fo
 
 *Extent: E+W+S*
 
-**11.**[^key-f38d164ace945934200b8ba836b0def5][^key-a17bf2fde7b2b35cc30a65a580697035] The validity of any proceedings of the Authority, or of any of its committees or sub-committees, shall not be affected by—
+**11.**[^c-f38d164ace945934200b8ba836b0def5][^c-a17bf2fde7b2b35cc30a65a580697035] The validity of any proceedings of the Authority, or of any of its committees or sub-committees, shall not be affected by—
 
 - (a) any vacancy among the members of the Authority or of members of the committee or sub-committee;
 - (b) any vacancy in the office of the chairman of the Authority; or
 - (c) any defect in the appointment of any one or more members or of the chairman of the Authority.
 
-### 12. Application of seal and evidence[^key-f8409ab705ad6afc3f7fc6c60c2f3948][^key-82b350995167bb473ba7472410f8d4eb]
+### 12. Application of seal and evidence[^c-f8409ab705ad6afc3f7fc6c60c2f3948][^c-82b350995167bb473ba7472410f8d4eb]
 
 *Extent: E+W+S*
 
@@ -955,28 +955,28 @@ The application of the seal of the Authority shall be authenticated by the signa
 
 *Extent: E+W+S*
 
-**13.**[^key-71714be0d834d21a6b9f15b4eddb1e4d][^key-3afd113edabdaf48ebb80811f6bbd706] A document purporting to be—
+**13.**[^c-71714be0d834d21a6b9f15b4eddb1e4d][^c-3afd113edabdaf48ebb80811f6bbd706] A document purporting to be—
 
 - (a) duly executed by the Authority under its seal, or
 - (b) signed on its behalf,
 
 shall be received in evidence and shall, unless the contrary is proved, be taken to be so executed or signed.
 
-### 14. Money[^key-f9b117131c8b4ab8d0af664e11b8635e][^key-3f6f78aad8f7d3174adcbc884b30205a]
+### 14. Money[^c-f9b117131c8b4ab8d0af664e11b8635e][^c-3f6f78aad8f7d3174adcbc884b30205a]
 
 *Extent: E+W+S*
 
 (1) The Secretary of State may make payments to the Authority out of money provided by Parliament.
 
-(1A)[^key-fbd460bdbe1514bd58c0a45ceba5960e] The Scottish Ministers may make payments to the Authority out of the Scottish Consolidated Fund in relation to the exercise by the Authority of its functions in or as regards Scotland.
+(1A)[^c-fbd460bdbe1514bd58c0a45ceba5960e] The Scottish Ministers may make payments to the Authority out of the Scottish Consolidated Fund in relation to the exercise by the Authority of its functions in or as regards Scotland.
 
-(1B)[^key-29143d2b94b6157d04cb7374647b9996] The Department of Justice may make payments to the Authority in relation to the exercise by the Authority of its functions in or as regards Northern Ireland.
+(1B)[^c-29143d2b94b6157d04cb7374647b9996] The Department of Justice may make payments to the Authority in relation to the exercise by the Authority of its functions in or as regards Northern Ireland.
 
 (2) The Authority shall not borrow money except with the consent of the Secretary of State.
 
 *Extent: E+W+S*
 
-**15.**[^key-7c07b9f386c6a5e765a381e51f444ccb][^key-10ed95e6f20c53ea485750608aa33a91] (1) The Authority may impose such charges as it considers appropriate in connection with the carrying out of any of its functions.
+**15.**[^c-7c07b9f386c6a5e765a381e51f444ccb][^c-10ed95e6f20c53ea485750608aa33a91] (1) The Authority may impose such charges as it considers appropriate in connection with the carrying out of any of its functions.
 
 (2) The Authority shall pay to the Secretary of State all sums received by it (otherwise than under paragraph 14) in the course of, or in connection with, the carrying out of its functions.
 
@@ -986,18 +986,18 @@ shall be received in evidence and shall, unless the contrary is proved, be taken
 
 *Extent: E+W+S*
 
-**16.**[^key-3259227f4e732103fe82785c317de512][^key-a6b0746e59712190a93812842c85983e] (1) The Authority shall—
+**16.**[^c-3259227f4e732103fe82785c317de512][^c-a6b0746e59712190a93812842c85983e] (1) The Authority shall—
 
 - (a) keep proper accounts and proper records in relation to the accounts; and
 - (b) prepare a statement of accounts in respect of each financial year.
 
 (2) The statement of accounts shall be in such form, and shall contain such information, as the Secretary of State may direct.
 
-(3) The Authority shall, within such period after the end of each financial year as the Secretary of State may direct, send copies of the statement of accounts relating to that year to the Secretary of State , to the Scottish Ministers[^key-1b589bb0c56866c0fcd8abb8550f8d4f], to the Department of Justice[^key-460ad68cad1193586ceb2f15448fa385] and to the Comptroller and Auditor General.
+(3) The Authority shall, within such period after the end of each financial year as the Secretary of State may direct, send copies of the statement of accounts relating to that year to the Secretary of State , to the Scottish Ministers[^c-1b589bb0c56866c0fcd8abb8550f8d4f], to the Department of Justice[^c-460ad68cad1193586ceb2f15448fa385] and to the Comptroller and Auditor General.
 
-(3A)[^key-946129990780dc942fe0a8eea0361af6] The Scottish Ministers shall present documents received by them under sub-paragraph (3) to the Scottish Parliament.
+(3A)[^c-946129990780dc942fe0a8eea0361af6] The Scottish Ministers shall present documents received by them under sub-paragraph (3) to the Scottish Parliament.
 
-(3B)[^key-6e028049b03e7e0ddc14527ded30524f] The Department of Justice shall lay documents received by it under sub-paragraph (3) before the Northern Ireland Assembly.
+(3B)[^c-6e028049b03e7e0ddc14527ded30524f] The Department of Justice shall lay documents received by it under sub-paragraph (3) before the Northern Ireland Assembly.
 
 (3C) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of sub-paragraph (3B) in relation to the laying of documents received under sub-paragraph (3) as it applies in relation to the laying of a statutory document under an enactment.
 
@@ -1006,21 +1006,21 @@ shall be received in evidence and shall, unless the contrary is proved, be taken
 - (a) examine, certify and report on every statement of accounts sent to him by the Authority under this paragraph; and
 - (b) lay copies of each such statement and of his report on it before each House of Parliament.
 
-### 17. Annual report[^key-03eea4aa092a016fcc298856cadac237][^key-2698e65abea203ef22b8cdfac7220ab0]
+### 17. Annual report[^c-03eea4aa092a016fcc298856cadac237][^c-2698e65abea203ef22b8cdfac7220ab0]
 
 *Extent: E+W+S*
 
-(1) As soon as practicable after the end of each financial year, the Authority shall send to the Secretary of State, the Scottish Ministers and the Department of Justice[^key-75bcb52be90771d28c74b9705f85f6e9] a report on the carrying out of its functions during that year.
+(1) As soon as practicable after the end of each financial year, the Authority shall send to the Secretary of State, the Scottish Ministers and the Department of Justice[^c-75bcb52be90771d28c74b9705f85f6e9] a report on the carrying out of its functions during that year.
 
 (2) The Secretary of State shall lay a copy of each such report before each House of Parliament.
 
-(3)[^key-74602670ae029c77cd572a3fcc4a0740] The Scottish Ministers shall lay a copy of each such report before the Scottish Parliament.
+(3)[^c-74602670ae029c77cd572a3fcc4a0740] The Scottish Ministers shall lay a copy of each such report before the Scottish Parliament.
 
-(4)[^key-a4ba762c4e3130b499ec5256c0d2a768] The Department of Justice shall lay a copy of each such report before the Northern Ireland Assembly.
+(4)[^c-a4ba762c4e3130b499ec5256c0d2a768] The Department of Justice shall lay a copy of each such report before the Northern Ireland Assembly.
 
 (5) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of sub-paragraph (4) in relation to the laying of a copy of a report as it applies in relation to the laying of a statutory document under an enactment.
 
-### 18. The Public Records Act 1958 (c. 51)[^key-c8b5c63db2535902c94b6c224086b0af][^key-004875a6445599eff86f350589d6ad25]
+### 18. The Public Records Act 1958 (c. 51)[^c-c8b5c63db2535902c94b6c224086b0af][^c-004875a6445599eff86f350589d6ad25]
 
 *Extent: E+W+S+NI*
 
@@ -1030,7 +1030,7 @@ In Schedule 1 to the Public Records Act 1958 (definition of public records), in 
 
 .
 
-### 19. The Parliamentary Commissioner Act 1967 (c. 13)[^key-07ebe776967b49808f0736e35acdb5df][^key-8e0280ed73a2758437eb9ef13d18b3b0]
+### 19. The Parliamentary Commissioner Act 1967 (c. 13)[^c-07ebe776967b49808f0736e35acdb5df][^c-8e0280ed73a2758437eb9ef13d18b3b0]
 
 *Extent: E+W+S+NI*
 
@@ -1040,7 +1040,7 @@ In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc. subje
 
 .
 
-### 20. The Superannuation Act 1972 (c. 11)[^key-7410ce4adb4bf6c5db891e70230352dc][^key-306113e7345f997e19f81643dc5d3b87]
+### 20. The Superannuation Act 1972 (c. 11)[^c-7410ce4adb4bf6c5db891e70230352dc][^c-306113e7345f997e19f81643dc5d3b87]
 
 *Extent: E+W+S+NI*
 
@@ -1050,7 +1050,7 @@ In Schedule 1 to the Superannuation Act 1972 (kinds of employment to which that 
 
 .
 
-### 21. The House of Commons Disqualification Act 1975 (c. 24)[^key-ab08cfbe769709123262466778211202][^key-2ce12a94275c49d2a4d7a2ecbf86c49e]
+### 21. The House of Commons Disqualification Act 1975 (c. 24)[^c-ab08cfbe769709123262466778211202][^c-2ce12a94275c49d2a4d7a2ecbf86c49e]
 
 *Extent: E+W+S+NI*
 
@@ -1060,7 +1060,7 @@ In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodie
 
 .
 
-### 22. The Northern Ireland Assembly Disqualification Act 1975 (c. 25)[^key-73561fe5c87c7cccbb8b97e77aaee814][^key-2a3314bcc78730533fea869c7f783935]
+### 22. The Northern Ireland Assembly Disqualification Act 1975 (c. 25)[^c-73561fe5c87c7cccbb8b97e77aaee814][^c-2a3314bcc78730533fea869c7f783935]
 
 *Extent: E+W+S+NI*
 
@@ -1070,7 +1070,7 @@ In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 19
 
 .
 
-### 23. The Freedom of Information Act 2000 (c. 36)[^key-099e6fcdf4b0c0f88439bada41de236e][^key-b98982ab11df86bb93c0e38716c6223c]
+### 23. The Freedom of Information Act 2000 (c. 36)[^c-099e6fcdf4b0c0f88439bada41de236e][^c-b98982ab11df86bb93c0e38716c6223c]
 
 *Extent: E+W+S+NI*
 
@@ -1080,7 +1080,7 @@ In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (bodies etc. whic
 
 .
 
-### 24. Interpretation[^key-45e98a4437872698dac259b7b414c0db][^key-77c43010a4728cd7db5c4b46e4f820be]
+### 24. Interpretation[^c-45e98a4437872698dac259b7b414c0db][^c-77c43010a4728cd7db5c4b46e4f820be]
 
 *Extent: E+W+S*
 
@@ -1100,7 +1100,7 @@ Section 3
 
 ### Part 1 — Activities of security operatives
 
-#### 1. General[^c10296071][^key-54dbc15abf421e80c40d257a491992d4][^key-dd8c38d7f9418e5eb934c91fe4dfe4a4][^key-22398648a92388d00f1f3660b119f87b][^key-085c0c4933cda70f4c187d888f3a2ec6]
+#### 1. General[^c10296071][^c-54dbc15abf421e80c40d257a491992d4][^c-dd8c38d7f9418e5eb934c91fe4dfe4a4][^c-22398648a92388d00f1f3660b119f87b][^c-085c0c4933cda70f4c187d888f3a2ec6]
 
 (1) Subject to sub-paragraph (2), the activities which are referred to in this Act as the activities of a security operative are those to which any one or more of the following paragraphs of this Part of this Schedule applies.
 
@@ -1108,7 +1108,7 @@ Section 3
 
 (3) The Secretary of State shall not make an order containing (with or without any other provision) any provision authorised by sub-paragraph (2) unless a draft of the order has been laid before Parliament and approved by a resolution of each House.
 
-#### 2. Manned guarding[^key-c5928ba8daa1e531f63cfa427d95c4db][^key-a20fbdf06e0cc7c9d6485f252419b6b8][^key-3abe3230133bed1c8813bcf97e3a714f][^key-7212813de23f3c5f8f18350790c5623a]
+#### 2. Manned guarding[^c-c5928ba8daa1e531f63cfa427d95c4db][^c-a20fbdf06e0cc7c9d6485f252419b6b8][^c-3abe3230133bed1c8813bcf97e3a714f][^c-7212813de23f3c5f8f18350790c5623a]
 
 (1) This paragraph applies (subject to the following provisions of this paragraph) to any of the following activities—
 
@@ -1137,60 +1137,60 @@ maintains order or discipline amongst those individuals.
 
 (6) This paragraph does not apply to the activities of a person who, incidentally to the carrying out of activities which (disregarding this sub-paragraph) are not wholly or mainly the activities of a security operative, responds to a sudden or unexpected occurrence.
 
-(7)[^key-4f816735988dbb5600cdc80df57fc0a1] This paragraph does not apply to—
+(7)[^c-4f816735988dbb5600cdc80df57fc0a1] This paragraph does not apply to—
 
 - (a) activities that are carried out by virtue of an arrangement made by the Secretary of State under section 80 of the Criminal Justice Act 1991 (arrangements for the provision of prisoner escorts) or section 12(1) of, and Schedule 1 to, the Criminal Justice and Public Order Act 1994 (escort arrangements for offenders: England and Wales);
-- (aa)[^key-b7d7c4d6f55d7ee3c0489a5b4e460bcf] activities that are carried out by virtue of an arrangement made by the Scottish Ministers under section 102 of the Criminal Justice and Public Order Act 1994 (arrangements for the provision of prisoner escorts: Scotland);
+- (aa)[^c-b7d7c4d6f55d7ee3c0489a5b4e460bcf] activities that are carried out by virtue of an arrangement made by the Scottish Ministers under section 102 of the Criminal Justice and Public Order Act 1994 (arrangements for the provision of prisoner escorts: Scotland);
 
 *Extent: E+W*
 
-- (ab)[^key-7f80480b35b90fd670587a808b9447b2] activities that are carried out by virtue of an arrangement made under section 118 of the Criminal Justice and Public Order Act 1994 (arrangements for the provision of prisoner escorts: Northern Ireland);
+- (ab)[^c-7f80480b35b90fd670587a808b9447b2] activities that are carried out by virtue of an arrangement made under section 118 of the Criminal Justice and Public Order Act 1994 (arrangements for the provision of prisoner escorts: Northern Ireland);
 - (b) activities that are carried out for the purposes of the performance of a contract entered into under, or for the purposes of, section 84 (contracting out prisons etc.) of the Criminal Justice Act 1991 or section 88A (contracted out functions at directly managed prisons) of that Act;
 - (c) activities that are carried out for the purposes of the performance of a contract entered into under, or for the purposes of, section 7 (contracting out of secure training centres) of the Criminal Justice and Public Order Act 1994 or section 11 (contracted out functions at directly managed secure training centres) of that Act;
-- (cza)[^key-0ef6b3cb9618b69dd93785664d3c8ceb] activities that are carried out for the purposes of the performance of a contract entered into under, or for the purposes of, paragraph 1 of Schedule 10 to the Criminal Justice and Courts Act 2015 (contracting out of secure colleges) or paragraph 20 of that Schedule (contracted-out functions at directly managed secure colleges);
-- (ca)[^key-53df05919b9f0ab7057d5a164ce5b408] activities that are carried out for the purposes of the performance of a contract entered into under, or for the purposes of, section 106 of the Criminal Justice and Public Order Act 1994 (contracting out of prisons in Scotland) or section 112 (contracted out functions at directly managed prisons in Scotland) of that Act;
+- (cza)[^c-0ef6b3cb9618b69dd93785664d3c8ceb] activities that are carried out for the purposes of the performance of a contract entered into under, or for the purposes of, paragraph 1 of Schedule 10 to the Criminal Justice and Courts Act 2015 (contracting out of secure colleges) or paragraph 20 of that Schedule (contracted-out functions at directly managed secure colleges);
+- (ca)[^c-53df05919b9f0ab7057d5a164ce5b408] activities that are carried out for the purposes of the performance of a contract entered into under, or for the purposes of, section 106 of the Criminal Justice and Public Order Act 1994 (contracting out of prisons in Scotland) or section 112 (contracted out functions at directly managed prisons in Scotland) of that Act;
 
 *Extent: E+W*
 
-- (cb)[^key-580291553c6a4fa78083315916f67f5b] activities that are carried out by virtue of an arrangement made under Article 50(2) of the Criminal Justice (Children) (Northern Ireland) Order 1998(attendance centres) or Article 51(2) of that Order (juvenile justice centres);
+- (cb)[^c-580291553c6a4fa78083315916f67f5b] activities that are carried out by virtue of an arrangement made under Article 50(2) of the Criminal Justice (Children) (Northern Ireland) Order 1998(attendance centres) or Article 51(2) of that Order (juvenile justice centres);
 - (d) activities carried out by a detainee custody officer (within the meaning of Part 8 of the Immigration and Asylum Act 1999 (removal centres and detained persons))—
   - (i) in the performance of escort functions or custodial functions or both (in each case within the meaning of that Part of that Act) which he is authorised to perform under section 154 of that Act (detainee custody officers);
   - (ii) in the performance of a function for the purposes of a contract entered into by the Secretary of State under section 150(1) of that Act (contracted out functions at directly managed removal centres);
 - (e) activities carried out by a prisoner custody officer (within the meaning of Part 8 of the Immigration and Asylum Act 1999 (removal centres and detained persons))—
   - (i) in the performance of a function conferred on him by the Secretary of State under section 154(5) of that Act (functions of detainee custody officers); or
   - (ii) in the performance of a function for the purposes of a contract entered into by the Secretary of State under section 150(1) of that Act (contracted out functions at directly managed removal centres);
-- (f)[^key-c09abb2c5c783ff4cc57b558f3894e2a] activities of a person designated under section 38 of the Police Reform Act 2002 (police powers for civilian staff and volunteers) which are carried out by virtue of the designation;
-- (fa)[^key-5b45fa525dff64c52d9bb36713913756] activities of a person employed or appointed in accordance with section 9(1) of the Police (Scotland) Act 1967 (civilian employees) and certified in accordance with section 9(1A) of that Act as a police custody and security officer, which are carried out in the course of that employment or appointment;
+- (f)[^c-c09abb2c5c783ff4cc57b558f3894e2a] activities of a person designated under section 38 of the Police Reform Act 2002 (police powers for civilian staff and volunteers) which are carried out by virtue of the designation;
+- (fa)[^c-5b45fa525dff64c52d9bb36713913756] activities of a person employed or appointed in accordance with section 9(1) of the Police (Scotland) Act 1967 (civilian employees) and certified in accordance with section 9(1A) of that Act as a police custody and security officer, which are carried out in the course of that employment or appointment;
 
 *Extent: E+W*
 
-- (fb)[^key-d8035271da121d3093d44d2ce7ae50b2] activities of a person designated by the Chief Constable of the Police Service of Northern Ireland under section 30 of the Police (Northern Ireland) Act 2003 (police powers for designated police support staff) which are carried out in the course of that person’s employment as a member of the police support staff;
+- (fb)[^c-d8035271da121d3093d44d2ce7ae50b2] activities of a person designated by the Chief Constable of the Police Service of Northern Ireland under section 30 of the Police (Northern Ireland) Act 2003 (police powers for designated police support staff) which are carried out in the course of that person’s employment as a member of the police support staff;
 - (fc (Extent: E+W)) activities of a person designated by the Chief Constable of the Police Service of Northern Ireland under section 30A of the Police (Northern Ireland) Act 2003 (community support officers) which are carried out in the course of that person’s employment as a member of the police support staff; *(Extent: E+W)*
 - (g) activities of a person who is designated by a chief officer of police under section 39(2) of the Police Reform Act 2002 (police powers for contracted-out staff) which are carried out for the purposes of the performance of a contract entered into under section 39(1) of that Act by that person’s employer;
 
 *Extent: E+W*
 
-- (ga)[^key-9bac6e32a69709dc505e811b3ff47d2b] activities of a person designated by the Chief Constable of the Police Service of Northern Ireland under section 31(2) of the Police (Northern Ireland) Act 2003 (police powers for designated contracted-out staff) which are carried out for the purposes of the performance of a contract entered into under section 31(1) of that Act by that person’s employer;
+- (ga)[^c-9bac6e32a69709dc505e811b3ff47d2b] activities of a person designated by the Chief Constable of the Police Service of Northern Ireland under section 31(2) of the Police (Northern Ireland) Act 2003 (police powers for designated contracted-out staff) which are carried out for the purposes of the performance of a contract entered into under section 31(1) of that Act by that person’s employer;
 - (h) activities of a person who is appointed under section 24 (constables), 25 (special constables) or 26 (cadets) of the Railways and Transport Safety Act 2003 which are carried out in the course of his employment by the British Transport Police Authority;
-- (i) activities of a person who is employed by the British Transport Police Authority under section 27 of the Railways and Transport Safety Act 2003 (civilian employees) and who is designated by the chief constable of the British Transport Police Force under section 38 of the Police Reform Act 2002 (police powers for civilian staff[^key-1deafaf88ae6c9630df49ee636dd0fb7]) where those activities are carried out in the course of that employment;
+- (i) activities of a person who is employed by the British Transport Police Authority under section 27 of the Railways and Transport Safety Act 2003 (civilian employees) and who is designated by the chief constable of the British Transport Police Force under section 38 of the Police Reform Act 2002 (police powers for civilian staff[^c-1deafaf88ae6c9630df49ee636dd0fb7]) where those activities are carried out in the course of that employment;
 - (j) activities of a person who is employed by the Civil Nuclear Police Authority under section 55 of the Energy Act 2004 (members of the constabulary) which are carried out in the course of that employment;
 - (k) activities of a person who is employed as a constable by a harbour authority, within the meaning of section 57 of the Harbours Act 1964 (interpretation), which are carried out in the course of that employment;
 
 *Extent: E+W*
 
-- (ka)[^key-3f44d7e1b886fe7b5ba67cea1a52b998] activities of a person appointed as a special constable in Northern Ireland by virtue of provision incorporating section 79 of the Harbours, Docks, and Piers Clauses Act 1847 (harbour and dock police) which are carried out in the execution of that office;
+- (ka)[^c-3f44d7e1b886fe7b5ba67cea1a52b998] activities of a person appointed as a special constable in Northern Ireland by virtue of provision incorporating section 79 of the Harbours, Docks, and Piers Clauses Act 1847 (harbour and dock police) which are carried out in the execution of that office;
 - (l) activities of a person who is not a constable or an officer of Her Majesty’s Revenue and Customs but is authorised for the purposes of section 40 of the Immigration, Asylum and Nationality Act 2006 (searches: contracting out) which are carried out for the purposes of arrangements made under section 40(6)(c) of that Act.
-- (m)[^key-82a22d85ac7e008e0f43ed3c47f7e66e] activities of a person who is acting as a manager of any approved premises (within the meaning of section 13 of the Offender Management Act 2007).
+- (m)[^c-82a22d85ac7e008e0f43ed3c47f7e66e] activities of a person who is acting as a manager of any approved premises (within the meaning of section 13 of the Offender Management Act 2007).
 
-#### 3. Immobilisation of vehicles[^key-f03adb5af7ac6d4aae3b6a27df230278]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 3A. Restriction and removal of vehicles[^key-b4c8c88e2ccc56f336d618b171f8f83c]
+#### 3. Immobilisation of vehicles[^c-f03adb5af7ac6d4aae3b6a27df230278]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Private investigations[^key-53d52fb073c6d8716d06dfdfa51a43a1][^key-5f462d1ca439e6c04cad0664f97150c6][^key-4fc9ec9eaebe04ea155e8c74e042f872][^key-aeeb63e8f52e7df2fd031ef8bbe85c50]
+#### 3A. Restriction and removal of vehicles[^c-b4c8c88e2ccc56f336d618b171f8f83c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Private investigations[^c-53d52fb073c6d8716d06dfdfa51a43a1][^c-5f462d1ca439e6c04cad0664f97150c6][^c-4fc9ec9eaebe04ea155e8c74e042f872][^c-aeeb63e8f52e7df2fd031ef8bbe85c50]
 
 (1) This paragraph applies (subject to the following provisions of this paragraph) to any surveillance, inquiries or investigations that are carried out for the purpose of—
 
@@ -1207,13 +1207,13 @@ maintains order or discipline amongst those individuals.
 - (b) by any firm of which he is a partner or by which he is employed;
 - (c) by any body corporate of which he is a director or member or by which he is employed.
 
-(4A)[^key-f50fa94d756106b9a0fef00cab1a8029] This paragraph does not apply to any activities of a person who is an advocate or solicitor in Scotland in the provision of legal services—
+(4A)[^c-f50fa94d756106b9a0fef00cab1a8029] This paragraph does not apply to any activities of a person who is an advocate or solicitor in Scotland in the provision of legal services—
 
 - (a) by him;
 - (b) by any firm of which he is a partner or by which he is employed;
 - (c) by any body corporate of which he is a director or member or by which he is employed.
 
-(4B)[^key-2b871d0919343a0b7d992a9300c07cdf] This paragraph does not apply to any activities, of a person who is a barrister-at-law or solicitor in Northern Ireland, which are carried out for the purposes of the provision of legal services—
+(4B)[^c-2b871d0919343a0b7d992a9300c07cdf] This paragraph does not apply to any activities, of a person who is a barrister-at-law or solicitor in Northern Ireland, which are carried out for the purposes of the provision of legal services—
 
 - (a) by him;
 - (b) by any firm of which he is a partner or by which he is employed;
@@ -1245,16 +1245,16 @@ maintains order or discipline amongst those individuals.
 - (a) discovering whether a person is a potential customer for any goods or services or the extent of his satisfaction with goods or services supplied to him; and
 - (b) obtaining information from any person for the purpose of analysing public opinion on any matter (whether or not relating to the market for any goods or services).
 
-#### 4A. Taking precognitions[^key-1769c3726e90ae9ecd720fb4ff6fd6b2]
+#### 4A. Taking precognitions[^c-1769c3726e90ae9ecd720fb4ff6fd6b2]
 
 (1) This paragraph applies (subject to sub-paragraph (2)) to the taking, other than on behalf of the Crown, of a precognition for the purposes of, or in anticipation of—
 
 - (a) criminal or civil proceedings in Scotland; or
-- (b) proceedings on an application to the sheriff by virtue of section 93(2)(a) or 94(2)(a) of the Children’s Hearings (Scotland) Act 2011.[^key-80477d4d9b4be00e12820f62170b971a]
+- (b) proceedings on an application to the sheriff by virtue of section 93(2)(a) or 94(2)(a) of the Children’s Hearings (Scotland) Act 2011.[^c-80477d4d9b4be00e12820f62170b971a]
 
 (2) This paragraph does not apply to any activities of a person who is an advocate or solicitor in Scotland.
 
-#### 5. Security consultants[^key-b7657ac1ad7447d220362dbae588f528][^key-0b88d1a763162ce612abd750d5dc4ccc][^key-147c5f6df5043145608f59234c385647][^key-9534c11f90d435e15c45a6d51650d741]
+#### 5. Security consultants[^c-b7657ac1ad7447d220362dbae588f528][^c-0b88d1a763162ce612abd750d5dc4ccc][^c-147c5f6df5043145608f59234c385647][^c-9534c11f90d435e15c45a6d51650d741]
 
 (1) This paragraph applies (subject to the following provisions of this paragraph) to the giving of advice about—
 
@@ -1271,7 +1271,7 @@ maintains order or discipline amongst those individuals.
 
 (4) This paragraph does not apply to the provision of training to persons for the purpose of giving them qualifications, knowledge or skill for use in the carrying out of the activities of a security operative for others.
 
-#### 6. Keyholders[^key-587620e61693f980e1ed4dd166080aed][^key-37076079e4be009aeebe4a027cf48c76][^key-4f22ee61d0dd4282c561f3ff9d53b46d][^key-a8e1a9d0c8bf3c474bbcf498c11fab6c]
+#### 6. Keyholders[^c-587620e61693f980e1ed4dd166080aed][^c-37076079e4be009aeebe4a027cf48c76][^c-4f22ee61d0dd4282c561f3ff9d53b46d][^c-a8e1a9d0c8bf3c474bbcf498c11fab6c]
 
 (1) This paragraph applies (subject to the following provisions of this paragraph) to keeping custody of, or controlling access to, any key or similar device for operating (whether mechanically, electronically or otherwise) any lock.
 
@@ -1286,7 +1286,7 @@ maintains order or discipline amongst those individuals.
 
 ### Part 2 — Activities subject to additional controls
 
-#### 7. General[^c10296081][^key-c2a45d96863bd817891cfade06e9a903][^key-4522788c2b2ab353be2e7ddd86b772d0][^key-95de5d5bd4109f7491d11c7531826531][^key-5eca7258cb6a0ff81ec6f10df83f955b]
+#### 7. General[^c10296081][^c-c2a45d96863bd817891cfade06e9a903][^c-4522788c2b2ab353be2e7ddd86b772d0][^c-95de5d5bd4109f7491d11c7531826531][^c-5eca7258cb6a0ff81ec6f10df83f955b]
 
 (1) Subject to sub-paragraph (2), the activities which are referred to in this Act as activities subject to additional controls are any activities which, so far as they are designated activities, are activities to which any one or more of the following paragraphs of this Part of this Schedule applies.
 
@@ -1294,18 +1294,18 @@ maintains order or discipline amongst those individuals.
 
 (3) The Secretary of State shall not make an order containing (with or without any other provision) any provision authorised by sub-paragraph (2) unless a draft of the order has been laid before Parliament and approved by a resolution of each House.
 
-#### 8. Door supervisors etc for public houses, clubs and comparable venues[^key-5dfb9761df0ab7cd68413a89d5db3c54][^key-8029788ca0445e9d85bd0ab0ca72abe1][^key-047ad83778bcacac25db8e9c3d48bc1b][^key-8dc9694a056b12b4f928881138513af3]
+#### 8. Door supervisors etc for public houses, clubs and comparable venues[^c-5dfb9761df0ab7cd68413a89d5db3c54][^c-8029788ca0445e9d85bd0ab0ca72abe1][^c-047ad83778bcacac25db8e9c3d48bc1b][^c-8dc9694a056b12b4f928881138513af3]
 
-(1) This paragraph applies (subject to the following provisions of this paragraph)[^key-2f72303b59e3dc22141c6cf79a075d95] to any activities which are activities of a security operative by virtue of paragraph 2 of this Schedule and are carried out—
+(1) This paragraph applies (subject to the following provisions of this paragraph)[^c-2f72303b59e3dc22141c6cf79a075d95] to any activities which are activities of a security operative by virtue of paragraph 2 of this Schedule and are carried out—
 
 - (a) in relation to licensed premises; and
 - (b) at or in relation to times when those premises are open to the public.
 
-(1A)[^key-d880d9494f38dbdce7325588a8706da2] This paragraph applies to activities carried out in relation to premises referred to in sub-paragraph (2)(a) only if they are carried out at or in relation to times when alcohol is being supplied (within the meaning of section 14 of the Licensing Act 2003 (meaning of “supply of alcohol”)) for consumption on the premises.
+(1A)[^c-d880d9494f38dbdce7325588a8706da2] This paragraph applies to activities carried out in relation to premises referred to in sub-paragraph (2)(a) only if they are carried out at or in relation to times when alcohol is being supplied (within the meaning of section 14 of the Licensing Act 2003 (meaning of “supply of alcohol”)) for consumption on the premises.
 
 (1B) This paragraph applies to activities carried out in relation to premises referred to in sub-paragraph (2)(b) only if they are carried out at or in relation to times when regulated entertainment is being provided on the premises.
 
-(1BA)[^key-633e54619cf15b9035bcaf5bc73f3b72] This paragraph applies to activities carried out in relation to premises referred to in paragraphs (f) to (j) of sub-paragraph (2) only if they are carried out at or in relation to times when alcoholic liquor (within the meaning of the Licensing (Scotland) Act 1976) is being sold or supplied for consumption on the premises. *(Extent: S)* *(affected by repeal, see note)*[^key-dfb4343f6ea656b62c0f53703478ad52]
+(1BA)[^c-633e54619cf15b9035bcaf5bc73f3b72] This paragraph applies to activities carried out in relation to premises referred to in paragraphs (f) to (j) of sub-paragraph (2) only if they are carried out at or in relation to times when alcoholic liquor (within the meaning of the Licensing (Scotland) Act 1976) is being sold or supplied for consumption on the premises. *(Extent: S)* *(affected by repeal, see note)*[^c-dfb4343f6ea656b62c0f53703478ad52]
 
 This paragraph applies to activities carried out in relation to premises referred to in sub-paragraph (2)(f) only if they are carried out at or in relation to times when alcohol (within the meaning given by section 2 of the Licensing (Scotland) Act 2005) is being sold or supplied (in terms of section 3 of the Licensing (Scotland) Act 2005) for consumption on the premises. *(Extent: S)*
 
@@ -1315,44 +1315,44 @@ This paragraph applies to activities carried out in relation to premises referre
 
 *Extent: E.W.*
 
-(1BD)[^key-cbf957dbc1ad997af6b034720834566e] This paragraph applies to activities carried out in relation to licensed premises in Northern Ireland only if they are carried out at or in relation to times when—
+(1BD)[^c-cbf957dbc1ad997af6b034720834566e] This paragraph applies to activities carried out in relation to licensed premises in Northern Ireland only if they are carried out at or in relation to times when—
 
 - (a) intoxicating liquor (within the meaning of the Licensing (Northern Ireland) Order 1996 is being sold or supplied for consumption on the premises; or
 - (b) an entertainment to which paragraph 1 or 2 of Schedule 1 to the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1985 applies is being provided on the premises.
 
 (1C) This paragraph does not apply to—
 
-- (a)[^key-8013baeefe55cc64f6ea9dfa49ee7a11] activities which only involve the use of closed circuit television equipment.
-- (b)[^key-356cf42f881324e5d9b7ef71ad59421a] activities referred to in paragraph 2(1)(b) of this Schedule and which involve the secure transportation of property in vehicles specially manufactured or adapted so as to have secure transportation as their primary function; or
+- (a)[^c-8013baeefe55cc64f6ea9dfa49ee7a11] activities which only involve the use of closed circuit television equipment.
+- (b)[^c-356cf42f881324e5d9b7ef71ad59421a] activities referred to in paragraph 2(1)(b) of this Schedule and which involve the secure transportation of property in vehicles specially manufactured or adapted so as to have secure transportation as their primary function; or
 - (c) activities referred to in paragraph 2(1)(c) of this Schedule.
 
 (2) In this paragraph “**licensed premises**” means (subject to sub-paragraph (3))—
 
-- (a)[^key-ec56324144b049b3d45ff48e80df570e] any premises in respect of which a premises licence or temporary event notice has effect under the Licensing Act 2003 to authorise the supply of alcohol (within the meaning of section 14 of that Act) for consumption on the premises;
+- (a)[^c-ec56324144b049b3d45ff48e80df570e] any premises in respect of which a premises licence or temporary event notice has effect under the Licensing Act 2003 to authorise the supply of alcohol (within the meaning of section 14 of that Act) for consumption on the premises;
 - (b) any premises in respect of which a premises licence or temporary event notice has effect under that Act to authorise the provision of regulated entertainment;
-- (c)[^key-ec56324144b049b3d45ff48e80df570e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-ec56324144b049b3d45ff48e80df570e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ec56324144b049b3d45ff48e80df570e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-ec56324144b049b3d45ff48e80df570e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) any premises in respect of which a licence of a prescribed description under any prescribed local statutory provision is for the time being in force;
-- (f)[^key-02b43ea19f4f683056192e392fc784ee] any premises specified in a public house licence (within the meaning of the Licensing (Scotland) Act 1976) which is for the time being in force; *(Extent: S)* *(affected by repeal, see note)*[^key-8c02665488d1c399106be3fe00d6151d]
+- (f)[^c-02b43ea19f4f683056192e392fc784ee] any premises specified in a public house licence (within the meaning of the Licensing (Scotland) Act 1976) which is for the time being in force; *(Extent: S)* *(affected by repeal, see note)*[^c-8c02665488d1c399106be3fe00d6151d]
 
   any premises within the meaning given to “licensed premises” in section 147(1) of the Licensing (Scotland) Act 2005; *(Extent: S)*
-- (g) any premises specified in an hotel licence (within the meaning of that Act) which is for the time being in force; *(Extent: S)* *(affected by repeal, see note)*[^key-1d5b57911487d6271315e8c5f9c5f052]
-- (h (Extent: S) (affected by repeal, see note))[^key-1d5b57911487d6271315e8c5f9c5f052] any premises specified in an entertainment licence (within the meaning of that Act) which is for the time being in force if they comprise a dance hall; *(Extent: S)* *(affected by repeal, see note)*[^key-1d5b57911487d6271315e8c5f9c5f052]
-- (i (Extent: S) (affected by repeal, see note))[^key-1d5b57911487d6271315e8c5f9c5f052] any premises comprised in a place to which an occasional licence granted under section 33(1) of that Act (occasional licence for premises other than licensed premises or clubs) to the holder of a public house licence or hotel licence extends; *(Extent: S)* *(affected by repeal, see note)*[^key-1d5b57911487d6271315e8c5f9c5f052]
-- (j (Extent: S) (affected by repeal, see note))[^key-1d5b57911487d6271315e8c5f9c5f052] any premises comprised in a place to which an occasional permission granted under section 34(1) of that Act (occasional permission for sale of alcohol in the course of catering for events arising from or related to the activities of a voluntary organisation) extends; *(Extent: S)* *(affected by repeal, see note)*[^key-1d5b57911487d6271315e8c5f9c5f052]
+- (g) any premises specified in an hotel licence (within the meaning of that Act) which is for the time being in force; *(Extent: S)* *(affected by repeal, see note)*[^c-1d5b57911487d6271315e8c5f9c5f052]
+- (h (Extent: S) (affected by repeal, see note))[^c-1d5b57911487d6271315e8c5f9c5f052] any premises specified in an entertainment licence (within the meaning of that Act) which is for the time being in force if they comprise a dance hall; *(Extent: S)* *(affected by repeal, see note)*[^c-1d5b57911487d6271315e8c5f9c5f052]
+- (i (Extent: S) (affected by repeal, see note))[^c-1d5b57911487d6271315e8c5f9c5f052] any premises comprised in a place to which an occasional licence granted under section 33(1) of that Act (occasional licence for premises other than licensed premises or clubs) to the holder of a public house licence or hotel licence extends; *(Extent: S)* *(affected by repeal, see note)*[^c-1d5b57911487d6271315e8c5f9c5f052]
+- (j (Extent: S) (affected by repeal, see note))[^c-1d5b57911487d6271315e8c5f9c5f052] any premises comprised in a place to which an occasional permission granted under section 34(1) of that Act (occasional permission for sale of alcohol in the course of catering for events arising from or related to the activities of a voluntary organisation) extends; *(Extent: S)* *(affected by repeal, see note)*[^c-1d5b57911487d6271315e8c5f9c5f052]
 - (k) any premises comprised in a place or class of place for the time being specified by resolution under section 9(5)(b) of the Civic Government (Scotland) Act 1982 (resolution specifying place or class of place falling to be licensed if to be used as place of public entertainment);
 - (l) any premises comprised in a place where an activity for the time being designated under section 44(1) of that Act (additional activities for which a licence is required) is carried on provided that, in the case of an activity designated under paragraph (a) of that section, the requisite resolution under section 9 of that Act has been obtained.
 
 *Extent: N.I.*
 
-- (m)[^key-1e868852821dd0af04cf88a4f730b494] any premises in respect of which a licence under the Licensing (Northern Ireland) Order 1996 (S.I. 1996/3158 (N.I.22)) is in force;
+- (m)[^c-1e868852821dd0af04cf88a4f730b494] any premises in respect of which a licence under the Licensing (Northern Ireland) Order 1996 (S.I. 1996/3158 (N.I.22)) is in force;
 - (n (Extent: N.I.)) any place in respect of which an occasional licence under that Order is in force. *(Extent: N.I.)*
 
 *Extent: E.W.*
 
-- (o)[^key-406872c48092d55ebff5ea8bdf497e12] any place in respect of which an entertainments licence within the meaning of Schedule 1 to the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1985 is in force.
+- (o)[^c-406872c48092d55ebff5ea8bdf497e12] any place in respect of which an entertainments licence within the meaning of Schedule 1 to the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1985 is in force.
 
-(3)[^key-f1c18049be9699911fbf75c7bbc8e065] For the purposes of this paragraph, premises are not licensed premises—
+(3)[^c-f1c18049be9699911fbf75c7bbc8e065] For the purposes of this paragraph, premises are not licensed premises—
 
 - (a) if there is in force in respect of the premises a premises licence which authorises regulated entertainment within paragraph 2(1)(a) or (b) of Schedule 1 to the Licensing Act 2003 (plays and films);
 - (b) in relation to any occasion on which the premises are being used—
@@ -1361,15 +1361,15 @@ This paragraph applies to activities carried out in relation to premises referre
 
 *Extent: E+W*
 
-- (ba)[^key-c6ada091bf9aca48944209b290b2424d] in relation to any occasion on which the premises are being used exclusively for the purposes of a registered club within the meaning of the Registration of Clubs (Northern Ireland) Order 1996;
-- (c) in relation to any occasion on which a casino premises licence or a bingo premises licence is in force in respect of the premises under the Gambling Act 2005 and the premises are being used wholly or mainly for the purposes for which such a licence is required;[^key-ae9b664f0cbc2171485e45ab960a500b]
-- (ca)[^key-e4913457944e7919296545ead52f35b0] in relation to any occasion on which a licence is in force in respect of the premises under the Theatres Act 1968 and the premises are being used wholly or mainly for the purposes for which the licence is required;
-- (cb) in relation to any occasion on which a licence is in force in respect of the premises under the Cinemas Act 1985 and the premises are being used wholly or mainly for the purposes for which such a licence is required; or *(Extent: S)* *(affected by repeal, see note)*[^key-3e5619194d277002952e0c6705f3d4d3]
-- (cc) if the premises are premises to which section 125(1) of the Licensing (Scotland) Act 2005 applies; *(Extent: S)*[^key-0fd23db72e183b4fc85570bbc08fa1ae] or *(Extent: E+W)* *(affected by repeal, see note)*[^key-7af77540d8bbdd9eb57ee83d01a711ad] *(Extent: S)*
+- (ba)[^c-c6ada091bf9aca48944209b290b2424d] in relation to any occasion on which the premises are being used exclusively for the purposes of a registered club within the meaning of the Registration of Clubs (Northern Ireland) Order 1996;
+- (c) in relation to any occasion on which a casino premises licence or a bingo premises licence is in force in respect of the premises under the Gambling Act 2005 and the premises are being used wholly or mainly for the purposes for which such a licence is required;[^c-ae9b664f0cbc2171485e45ab960a500b]
+- (ca)[^c-e4913457944e7919296545ead52f35b0] in relation to any occasion on which a licence is in force in respect of the premises under the Theatres Act 1968 and the premises are being used wholly or mainly for the purposes for which the licence is required;
+- (cb) in relation to any occasion on which a licence is in force in respect of the premises under the Cinemas Act 1985 and the premises are being used wholly or mainly for the purposes for which such a licence is required; or *(Extent: S)* *(affected by repeal, see note)*[^c-3e5619194d277002952e0c6705f3d4d3]
+- (cc) if the premises are premises to which section 125(1) of the Licensing (Scotland) Act 2005 applies; *(Extent: S)*[^c-0fd23db72e183b4fc85570bbc08fa1ae] or *(Extent: E+W)* *(affected by repeal, see note)*[^c-7af77540d8bbdd9eb57ee83d01a711ad] *(Extent: S)*
 
 *Extent: E*
 
-- (cd)[^key-799941d22b07f650eb8721facb3ac550] in relation to any occasion on which a bingo club licence within the meaning of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 is in force in respect of the premises and the premises are being used wholly or mainly for the purposes for which the licence is required;
+- (cd)[^c-799941d22b07f650eb8721facb3ac550] in relation to any occasion on which a bingo club licence within the meaning of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 is in force in respect of the premises and the premises are being used wholly or mainly for the purposes for which the licence is required;
 - (ce (Extent: E)) in relation to any occasion on which a licence permitting theatrical performances is in force in respect of the premises under the Local Government (Miscellanous Provisions) (Northern Ireland) Order 1985 and the premises are being used wholly or mainly for the purposes of a theatrical performance for which the licence is required; *(Extent: E)*
 - (cf (Extent: E)) in relation to any occasion on which a licence within the meaning of the Cinemas (Northern Ireland) Order 1991 is in force in respect of the premises and the premises are being used wholly or mainly for the purposes for which the licence is required; or *(Extent: E)*
 - (d) in relation to any such other occasion as may be prescribed for the purposes of this sub-paragraph.
@@ -1378,17 +1378,17 @@ This paragraph applies to activities carried out in relation to premises referre
 
 (5) References in this paragraph to the occasion on which any premises are being used for a particular purpose include references to any time on that occasion when the premises are about to be used for that purpose, or have just been used for that purpose.
 
-(6)[^key-9cfc06b5d1781f4c2516a5bde8106d74] Sub-paragraphs (1A), (1B),[^key-465932d184ef901945f480d97e3e4cea] (2)(a) and (b) and (3)(a) and (b) are to be construed in accordance with the Licensing Act 2003.
+(6)[^c-9cfc06b5d1781f4c2516a5bde8106d74] Sub-paragraphs (1A), (1B),[^c-465932d184ef901945f480d97e3e4cea] (2)(a) and (b) and (3)(a) and (b) are to be construed in accordance with the Licensing Act 2003.
 
-#### 9. Immobilisation of vehicles[^key-ac1ab9ab93505b9310a532c35c6b347a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 9A. Restriction and removal of vehicles[^key-223fcffbc4533092d5f1437f666d6dd9]
+#### 9. Immobilisation of vehicles[^c-ac1ab9ab93505b9310a532c35c6b347a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Taking precognitions[^key-b348e91b07788a558e5007b0a14aee0e]
+#### 9A. Restriction and removal of vehicles[^c-223fcffbc4533092d5f1437f666d6dd9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. Taking precognitions[^c-b348e91b07788a558e5007b0a14aee0e]
 
 This paragraph applies to any activities which are activities of a security operative by virtue of paragraph 4A of this Schedule.
 
@@ -1396,622 +1396,622 @@ This paragraph applies to any activities which are activities of a security oper
 
 [^c10295971]: Commencement: S. 1 wholly in force; s. 1 not in force at Royal Assent, see s. 26(2); s. 1(6) in force at 1.1.2003 for certain purposes by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 2(a)](https://www.legislation.gov.uk/uksi/2002/3125/article/2/a); s. 1 in force at 1.4.2003 in so far as not already in force by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2002/3125/article/3/a)
 
-[^key-688e4e3c2eab58bbdbe9d82a821cc6d6]: Commencement: S. 1 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-688e4e3c2eab58bbdbe9d82a821cc6d6]: Commencement: S. 1 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-d4bd7f534e22adb88c051ff062dad54f]: Commencement: S. 1 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-d4bd7f534e22adb88c051ff062dad54f]: Commencement: S. 1 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-eeb8dd3f3871f5dbc055a89be24b4c5d]: Commencement: S. 1 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-eeb8dd3f3871f5dbc055a89be24b4c5d]: Commencement: S. 1 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-a37a6a193b9539d9744171252f5ffa61]: Commencement: S. 2 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-a37a6a193b9539d9744171252f5ffa61]: Commencement: S. 2 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-2bd1f2d235b1488c26a1d288fcce0e3f]: Commencement: S. 2 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-2bd1f2d235b1488c26a1d288fcce0e3f]: Commencement: S. 2 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-4911f10c87b9df4d30dd65d886bf3a43]: Textual amendment: Words in s. 2(2) renumbered as s. 2(2)(a) (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 2(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/2/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-4911f10c87b9df4d30dd65d886bf3a43]: Textual amendment: Words in s. 2(2) renumbered as s. 2(2)(a) (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 2(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/2/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-ff35623411b2f5551249efc7449a7375]: Textual amendment: S. 2(2)(b) and word added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 2(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/2/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-ff35623411b2f5551249efc7449a7375]: Textual amendment: S. 2(2)(b) and word added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 2(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/2/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-628b5b17b062434310bcbbfae3000414]: Textual amendment: S. 2(2A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 2(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/2/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-628b5b17b062434310bcbbfae3000414]: Textual amendment: S. 2(2A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 2(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/2/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-bf38bb34bc46f2f190b0dd14a5c16d77]: Textual amendment: Words in s. 2(3) renumbered as s. 2(3)(a) (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 2(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/2/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-bf38bb34bc46f2f190b0dd14a5c16d77]: Textual amendment: Words in s. 2(3) renumbered as s. 2(3)(a) (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 2(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/2/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-9fe0ece9a04d0334c56081dd16dc3313]: Textual amendment: S. 2(3)(b) and word added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 2(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/2/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-9fe0ece9a04d0334c56081dd16dc3313]: Textual amendment: S. 2(3)(b) and word added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 2(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/2/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-8cde330d92554c345ed146b2841004ff]: Textual amendment: Word in s. 2(3)(b) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/2/3/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-8cde330d92554c345ed146b2841004ff]: Textual amendment: Word in s. 2(3)(b) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/2/3/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-536a7ef5a53de099f5db989f33963fc4]: Textual amendment: S. 2(3)(c) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/2/3/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-536a7ef5a53de099f5db989f33963fc4]: Textual amendment: S. 2(3)(c) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/2/3/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-c7941286bbb8c22ec7687b331667a27f]: Textual amendment: S. 2A inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/3); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-c7941286bbb8c22ec7687b331667a27f]: Textual amendment: S. 2A inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/3); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-f06e84224f81cf384b3d157a9ec2598a]: Commencement: S. 3 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-f06e84224f81cf384b3d157a9ec2598a]: Commencement: S. 3 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-13b388d30e32f29363e6edbb1ae75976]: Commencement: S. 3 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-13b388d30e32f29363e6edbb1ae75976]: Commencement: S. 3 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-102a5a5580ffda2e1077386ab76277fa]: Commencement: S. 3 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-102a5a5580ffda2e1077386ab76277fa]: Commencement: S. 3 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-c059b89c0f8fffeacfdb5177bf52b69a]: Commencement: S. 3(1) in force at 4.6.2004 for specified purposes by [S.I. 2004/1431](https://www.legislation.gov.uk/uksi/2004/1431), [art. 4](https://www.legislation.gov.uk/uksi/2004/1431/article/4)
+[^c-c059b89c0f8fffeacfdb5177bf52b69a]: Commencement: S. 3(1) in force at 4.6.2004 for specified purposes by [S.I. 2004/1431](https://www.legislation.gov.uk/uksi/2004/1431), [art. 4](https://www.legislation.gov.uk/uksi/2004/1431/article/4)
 
-[^key-7728284989c0bc83836d8ca15b138ccd]: Commencement: S. 3(1) in force at 13.9.2004 for specified purposes by [S.I. 2004/2191](https://www.legislation.gov.uk/uksi/2004/2191), [art. 2](https://www.legislation.gov.uk/uksi/2004/2191/article/2)
+[^c-7728284989c0bc83836d8ca15b138ccd]: Commencement: S. 3(1) in force at 13.9.2004 for specified purposes by [S.I. 2004/2191](https://www.legislation.gov.uk/uksi/2004/2191), [art. 2](https://www.legislation.gov.uk/uksi/2004/2191/article/2)
 
-[^key-e95309e1a108adbe7c05b44d9b38b970]: Commencement: S. 3(1)(2)(a)-(i) in force at 27.9.2004 for specified purposes by [S.I. 2004/2191](https://www.legislation.gov.uk/uksi/2004/2191), [art. 3](https://www.legislation.gov.uk/uksi/2004/2191/article/3)
+[^c-e95309e1a108adbe7c05b44d9b38b970]: Commencement: S. 3(1)(2)(a)-(i) in force at 27.9.2004 for specified purposes by [S.I. 2004/2191](https://www.legislation.gov.uk/uksi/2004/2191), [art. 3](https://www.legislation.gov.uk/uksi/2004/2191/article/3)
 
-[^key-d2a64eb31b742835a1fa8883c8da5369]: Commencement: S. 3(1)(2)(a)-(i) in force at 18.10.2004 for specified purposes by [S.I. 2004/2591](https://www.legislation.gov.uk/uksi/2004/2591), [art. 2](https://www.legislation.gov.uk/uksi/2004/2591/article/2)
+[^c-d2a64eb31b742835a1fa8883c8da5369]: Commencement: S. 3(1)(2)(a)-(i) in force at 18.10.2004 for specified purposes by [S.I. 2004/2591](https://www.legislation.gov.uk/uksi/2004/2591), [art. 2](https://www.legislation.gov.uk/uksi/2004/2591/article/2)
 
-[^key-f48b834b9630c5f6eb2d05ef8a6baac7]: Commencement: S. 3(1)(2)(a)-(i) in force at 15.11.2004 for specified purposes by [S.I. 2004/2591](https://www.legislation.gov.uk/uksi/2004/2591), [art. 3](https://www.legislation.gov.uk/uksi/2004/2591/article/3)
+[^c-f48b834b9630c5f6eb2d05ef8a6baac7]: Commencement: S. 3(1)(2)(a)-(i) in force at 15.11.2004 for specified purposes by [S.I. 2004/2591](https://www.legislation.gov.uk/uksi/2004/2591), [art. 3](https://www.legislation.gov.uk/uksi/2004/2591/article/3)
 
-[^key-1b0877f78f6ceedb8a40b2db47db26d9]: Commencement: S. 3(1)(2)(a)-(i) in force at 13.12.2004 for specified purposes by [S.I. 2004/3141](https://www.legislation.gov.uk/uksi/2004/3141), [art. 3](https://www.legislation.gov.uk/uksi/2004/3141/article/3)
+[^c-1b0877f78f6ceedb8a40b2db47db26d9]: Commencement: S. 3(1)(2)(a)-(i) in force at 13.12.2004 for specified purposes by [S.I. 2004/3141](https://www.legislation.gov.uk/uksi/2004/3141), [art. 3](https://www.legislation.gov.uk/uksi/2004/3141/article/3)
 
-[^key-807244f21e065cb4cc8382d2d1750d93]: Commencement: S. 3(1)(2)(a)-(i) in force at 3.1.2005 for specified purposes by [S.I. 2004/3141](https://www.legislation.gov.uk/uksi/2004/3141), [art. 4](https://www.legislation.gov.uk/uksi/2004/3141/article/4)
+[^c-807244f21e065cb4cc8382d2d1750d93]: Commencement: S. 3(1)(2)(a)-(i) in force at 3.1.2005 for specified purposes by [S.I. 2004/3141](https://www.legislation.gov.uk/uksi/2004/3141), [art. 4](https://www.legislation.gov.uk/uksi/2004/3141/article/4)
 
-[^key-a435021c06ccbe1a181b354944428cab]: Commencement: S. 3(1) in force at 28.2.2005 in so far as not already in force by [S.I. 2005/243](https://www.legislation.gov.uk/uksi/2005/243), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/243/article/2/a)
+[^c-a435021c06ccbe1a181b354944428cab]: Commencement: S. 3(1) in force at 28.2.2005 in so far as not already in force by [S.I. 2005/243](https://www.legislation.gov.uk/uksi/2005/243), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/243/article/2/a)
 
-[^key-efbf6b7b600f020f1a671bca4cb5cf2f]: Commencement: S. 3(2)(a)-(i) in force at 24.5.2004 for specified purposes by [S.I. 2004/1431](https://www.legislation.gov.uk/uksi/2004/1431), [art. 2](https://www.legislation.gov.uk/uksi/2004/1431/article/2)
+[^c-efbf6b7b600f020f1a671bca4cb5cf2f]: Commencement: S. 3(2)(a)-(i) in force at 24.5.2004 for specified purposes by [S.I. 2004/1431](https://www.legislation.gov.uk/uksi/2004/1431), [art. 2](https://www.legislation.gov.uk/uksi/2004/1431/article/2)
 
-[^key-715309db6e1aadb5cd60e81ac5d63d9c]: Commencement: S. 3(2)(a)-(i) in force at 1.6.2004 for specified purposes by [S.I. 2004/1431](https://www.legislation.gov.uk/uksi/2004/1431), [art. 3](https://www.legislation.gov.uk/uksi/2004/1431/article/3)
+[^c-715309db6e1aadb5cd60e81ac5d63d9c]: Commencement: S. 3(2)(a)-(i) in force at 1.6.2004 for specified purposes by [S.I. 2004/1431](https://www.legislation.gov.uk/uksi/2004/1431), [art. 3](https://www.legislation.gov.uk/uksi/2004/1431/article/3)
 
-[^key-79327416b79cce6a2e1f1bfe8f36a9f9]: Commencement: S. 3(2)(a)-(i) in force at 28.2.2005 for specified purposes by [S.I. 2005/243](https://www.legislation.gov.uk/uksi/2005/243), [art. 3](https://www.legislation.gov.uk/uksi/2005/243/article/3)
+[^c-79327416b79cce6a2e1f1bfe8f36a9f9]: Commencement: S. 3(2)(a)-(i) in force at 28.2.2005 for specified purposes by [S.I. 2005/243](https://www.legislation.gov.uk/uksi/2005/243), [art. 3](https://www.legislation.gov.uk/uksi/2005/243/article/3)
 
-[^key-06ae2e659f9d06a330968e7020bbd8df]: Commencement: S. 3(2)(a)-(i) in force at 11.4.2005 for E.W. in so far as not already in force by [S.I. 2005/243](https://www.legislation.gov.uk/uksi/2005/243), [art. 5](https://www.legislation.gov.uk/uksi/2005/243/article/5)
+[^c-06ae2e659f9d06a330968e7020bbd8df]: Commencement: S. 3(2)(a)-(i) in force at 11.4.2005 for E.W. in so far as not already in force by [S.I. 2005/243](https://www.legislation.gov.uk/uksi/2005/243), [art. 5](https://www.legislation.gov.uk/uksi/2005/243/article/5)
 
-[^key-ced8b357fa13583cb1a75e4a42824226]: Textual amendment: Word in s. 3(2)(h) inserted (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/2/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
+[^c-ced8b357fa13583cb1a75e4a42824226]: Textual amendment: Word in s. 3(2)(h) inserted (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/2/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
 
-[^key-d6d3440f9c0b1716044fab3b41bba38f]: Textual amendment: S. 3(2)(j) and preceding word repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/2/b), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
+[^c-d6d3440f9c0b1716044fab3b41bba38f]: Textual amendment: S. 3(2)(j) and preceding word repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/2/b), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
 
 [^c10295981]: Commencement: S. 3(3) in force for certain purposes at 1.4.2003 by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 4(a)](https://www.legislation.gov.uk/uksi/2002/3125/article/4/a)
 
-[^key-82e4d52dd5330165cf4d28956fe20970]: Commencement: S. 3(3) in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/a)
+[^c-82e4d52dd5330165cf4d28956fe20970]: Commencement: S. 3(3) in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/a)
 
-[^key-0d87c10aaf449a32f1bc21b2edc54c72]: Textual amendment: S. 3(3A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/4); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-0d87c10aaf449a32f1bc21b2edc54c72]: Textual amendment: S. 3(3A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/4); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-6c29dc211adcd40f690561f9c385762e]: Textual amendment: S. 3(3B) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 3](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-6c29dc211adcd40f690561f9c385762e]: Textual amendment: S. 3(3B) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 3](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-77045de563ce6842a14eb151301c9fbb]: Commencement: S. 3(4)-(6) in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/a)
+[^c-77045de563ce6842a14eb151301c9fbb]: Commencement: S. 3(4)-(6) in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/a)
 
 [^c10295991]: Commencement: S. 4(1)-(3) in force at 1.4.2003 for certain purposes by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 4(b)](https://www.legislation.gov.uk/uksi/2002/3125/article/4/b)
 
-[^key-ee4ffa3f8a398132416d378fc66a1635]: Commencement: S. 4 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-ee4ffa3f8a398132416d378fc66a1635]: Commencement: S. 4 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-a4fbf5c35b98998847374bc8e1a4fab4]: Commencement: S. 4 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-a4fbf5c35b98998847374bc8e1a4fab4]: Commencement: S. 4 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-6b622aa282d0b4149f5c057e7ee5a6dd]: Commencement: S. 4 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-6b622aa282d0b4149f5c057e7ee5a6dd]: Commencement: S. 4 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-b6bbadaa65dd688ffdebef6ff563dfe5]: Commencement: S. 4(1)-(3) in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/b)
+[^c-b6bbadaa65dd688ffdebef6ff563dfe5]: Commencement: S. 4(1)-(3) in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/b)
 
-[^key-74b44d2eba50baa50b5ddf5b8b174def]: Textual amendment: S. 4(3A) inserted by 2010 c. 17 s. 42(2) (as inserted) (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2012/2595/article/22/3/a) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-74b44d2eba50baa50b5ddf5b8b174def]: Textual amendment: S. 4(3A) inserted by 2010 c. 17 s. 42(2) (as inserted) (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [22(3)(a)](https://www.legislation.gov.uk/uksi/2012/2595/article/22/3/a) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-48e9a12d7eb88d58edd6ff66ad314c7a]: Commencement: S. 4(4)(5) in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/b)
+[^c-48e9a12d7eb88d58edd6ff66ad314c7a]: Commencement: S. 4(4)(5) in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/b)
 
-[^key-5e80c94f20c1f63ecf1efb2a9fdd4e99]: Textual amendment: S. 4(6)-(12) inserted (8.11.2006) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 63](https://www.legislation.gov.uk/ukpga/2006/38/section/63)
+[^c-5e80c94f20c1f63ecf1efb2a9fdd4e99]: Textual amendment: S. 4(6)-(12) inserted (8.11.2006) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 63](https://www.legislation.gov.uk/ukpga/2006/38/section/63)
 
-[^key-145f4fe429448ac190e976c86d613ff8]: Textual amendment: Words in s. 4(12) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 188(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/188/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-145f4fe429448ac190e976c86d613ff8]: Textual amendment: Words in s. 4(12) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 188(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/188/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-fd3dbf8c8c25c1ca80c50048860d6f36]: Textual amendment: S. 4(13) inserted (N.I.) (18.11.2009) by [The Private Security Industry Act 2001 (Amendment) (Northern Ireland) Order 2009 (S.I. 2009/3017)](https://www.legislation.gov.uk/nisi/2009/3017), [arts. 1(1)](https://www.legislation.gov.uk/nisi/2009/3017/article/1/1), [2](https://www.legislation.gov.uk/nisi/2009/3017/article/2)
+[^c-fd3dbf8c8c25c1ca80c50048860d6f36]: Textual amendment: S. 4(13) inserted (N.I.) (18.11.2009) by [The Private Security Industry Act 2001 (Amendment) (Northern Ireland) Order 2009 (S.I. 2009/3017)](https://www.legislation.gov.uk/nisi/2009/3017), [arts. 1(1)](https://www.legislation.gov.uk/nisi/2009/3017/article/1/1), [2](https://www.legislation.gov.uk/nisi/2009/3017/article/2)
 
-[^key-033b4293ee1e943e23db1d3315f7aba9]: Commencement: S. 5 in force at 1.12.2004 for specified purposes by [S.I. 2004/3141](https://www.legislation.gov.uk/uksi/2004/3141), [art. 2](https://www.legislation.gov.uk/uksi/2004/3141/article/2)
+[^c-033b4293ee1e943e23db1d3315f7aba9]: Commencement: S. 5 in force at 1.12.2004 for specified purposes by [S.I. 2004/3141](https://www.legislation.gov.uk/uksi/2004/3141), [art. 2](https://www.legislation.gov.uk/uksi/2004/3141/article/2)
 
-[^key-d1fb62d7e63fe3dbdeb0c4acd6acdd65]: Commencement: S. 5 in force at 13.12.2004 for specified purposes by [S.I. 2004/3141](https://www.legislation.gov.uk/uksi/2004/3141), [art. 3](https://www.legislation.gov.uk/uksi/2004/3141/article/3); [S.I. 2004/3230](https://www.legislation.gov.uk/uksi/2004/3230), [art. 2](https://www.legislation.gov.uk/uksi/2004/3230/article/2)
+[^c-d1fb62d7e63fe3dbdeb0c4acd6acdd65]: Commencement: S. 5 in force at 13.12.2004 for specified purposes by [S.I. 2004/3141](https://www.legislation.gov.uk/uksi/2004/3141), [art. 3](https://www.legislation.gov.uk/uksi/2004/3141/article/3); [S.I. 2004/3230](https://www.legislation.gov.uk/uksi/2004/3230), [art. 2](https://www.legislation.gov.uk/uksi/2004/3230/article/2)
 
-[^key-c9e46f1897c5dd80d2362475493ec859]: Commencement: S. 5 in force at 3.1.2005 for specified purposes by [S.I. 2004/3141](https://www.legislation.gov.uk/uksi/2004/3141), [art. 4](https://www.legislation.gov.uk/uksi/2004/3141/article/4)
+[^c-c9e46f1897c5dd80d2362475493ec859]: Commencement: S. 5 in force at 3.1.2005 for specified purposes by [S.I. 2004/3141](https://www.legislation.gov.uk/uksi/2004/3141), [art. 4](https://www.legislation.gov.uk/uksi/2004/3141/article/4)
 
-[^key-0865d3830c9001e47a29d2a85a8eca4b]: Commencement: S. 5 in force at 28.2.2005 for specified purposes by [S.I. 2005/243](https://www.legislation.gov.uk/uksi/2005/243), [art. 3](https://www.legislation.gov.uk/uksi/2005/243/article/3)
+[^c-0865d3830c9001e47a29d2a85a8eca4b]: Commencement: S. 5 in force at 28.2.2005 for specified purposes by [S.I. 2005/243](https://www.legislation.gov.uk/uksi/2005/243), [art. 3](https://www.legislation.gov.uk/uksi/2005/243/article/3)
 
-[^key-e42c0c21ddfa66b51978f3d16212c2e0]: Commencement: S. 5 in force at 11.4.2005 in so far as not already in force by [S.I. 2005/243](https://www.legislation.gov.uk/uksi/2005/243), [art. 5](https://www.legislation.gov.uk/uksi/2005/243/article/5)
+[^c-e42c0c21ddfa66b51978f3d16212c2e0]: Commencement: S. 5 in force at 11.4.2005 in so far as not already in force by [S.I. 2005/243](https://www.legislation.gov.uk/uksi/2005/243), [art. 5](https://www.legislation.gov.uk/uksi/2005/243/article/5)
 
-[^key-871ec5b47be0fabf52bea448b51f17a2]: Commencement: S. 5 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-871ec5b47be0fabf52bea448b51f17a2]: Commencement: S. 5 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-0941c7979614542cb837c523cf575ced]: Commencement: S. 5 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-0941c7979614542cb837c523cf575ced]: Commencement: S. 5 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-cb179216658ae15cedd8a9b13e5688f4]: Textual amendment: S. 6 repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/4), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
+[^c-cb179216658ae15cedd8a9b13e5688f4]: Textual amendment: S. 6 repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/4), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
 
-[^key-33dfc6254d6cbc6ce1e8d43976899121]: Commencement: S. 7 in force at 1.11.2003 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/2710/article/2/a)
+[^c-33dfc6254d6cbc6ce1e8d43976899121]: Commencement: S. 7 in force at 1.11.2003 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/2710/article/2/a)
 
-[^key-57329d2af58d936b52a1ea8f132de245]: Commencement: S. 7 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-57329d2af58d936b52a1ea8f132de245]: Commencement: S. 7 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-0cc563c1f14dbd55572fc5817569ee3f]: Commencement: S. 7 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-0cc563c1f14dbd55572fc5817569ee3f]: Commencement: S. 7 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-6c10fec6dfe52a978ee2bc7e1907f98d]: Commencement: S. 7 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-6c10fec6dfe52a978ee2bc7e1907f98d]: Commencement: S. 7 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-893a25ab17366a8c3d6418e6da17697e]: Textual amendment: S. 7(5A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/5); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-893a25ab17366a8c3d6418e6da17697e]: Textual amendment: S. 7(5A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/5); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-69bf06be31f6ff7d28065c6c5fec0649]: Textual amendment: Words in s. 7(5A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 4](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-69bf06be31f6ff7d28065c6c5fec0649]: Textual amendment: Words in s. 7(5A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 4](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-6922c498a816d2c7136ff65a71868cec]: Commencement: S. 8 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-6922c498a816d2c7136ff65a71868cec]: Commencement: S. 8 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-929b7e0c86e421822c3663cb94097c2d]: Commencement: S. 8 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-929b7e0c86e421822c3663cb94097c2d]: Commencement: S. 8 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-c430c4ad699d4be8e5d197e42426c9d7]: Commencement: S. 8 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-c430c4ad699d4be8e5d197e42426c9d7]: Commencement: S. 8 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-91fcb99f4b841c1a0be45e86e45121f0]: Commencement: S. 8(1)(3)(4)(b)(c)(6) in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(c)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/c)
+[^c-91fcb99f4b841c1a0be45e86e45121f0]: Commencement: S. 8(1)(3)(4)(b)(c)(6) in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(c)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/c)
 
 [^c10296001]: Commencement: S. 8(2)(5)(7)(8) in force at 1.4.2003 for certain purposes by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 4(c)](https://www.legislation.gov.uk/uksi/2002/3125/article/4/c)
 
-[^key-104aeea10d03a67f5020175e45815c77]: Commencement: S. 8(2)(4)(a)(5)(7)(8) in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(c)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/c)
+[^c-104aeea10d03a67f5020175e45815c77]: Commencement: S. 8(2)(4)(a)(5)(7)(8) in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(c)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/c)
 
-[^key-2ae3c34c2062da39648c4739c554e610]: Commencement: S. 8(4)(a) in force at 1.11.2003 for specified purposes by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/2710/article/2/b)
+[^c-2ae3c34c2062da39648c4739c554e610]: Commencement: S. 8(4)(a) in force at 1.11.2003 for specified purposes by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/2710/article/2/b)
 
 [^c10296011]: Commencement: S. 9(1)-(3) in force at 1.4.2003 for certain purposes by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 4(d)](https://www.legislation.gov.uk/uksi/2002/3125/article/4/d)
 
-[^key-dac14f247a548a1e733c928781fb3b54]: Commencement: S. 9 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-dac14f247a548a1e733c928781fb3b54]: Commencement: S. 9 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-82dd63490f76e1f5695ea2d16a255bd9]: Commencement: S. 9 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-82dd63490f76e1f5695ea2d16a255bd9]: Commencement: S. 9 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-8d61ba980cad8413141ede0d9bd55921]: Commencement: S. 9 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-8d61ba980cad8413141ede0d9bd55921]: Commencement: S. 9 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-8b707255e2627a890d15d70b04e79d30]: Commencement: S. 9(1)-(3) in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(d)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/d)
+[^c-8b707255e2627a890d15d70b04e79d30]: Commencement: S. 9(1)-(3) in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(d)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/d)
 
-[^key-90721727503a140216bf5277404db1f8]: Textual amendment: [S. 9(2D)](https://www.legislation.gov.uk/ukpga/2001/12/section/9/2D) inserted by 2010 c. 17 s. 42(4) (as inserted) (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2012/2595/article/22/3/b) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-90721727503a140216bf5277404db1f8]: Textual amendment: [S. 9(2D)](https://www.legislation.gov.uk/ukpga/2001/12/section/9/2D) inserted by 2010 c. 17 s. 42(4) (as inserted) (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [22(3)(b)](https://www.legislation.gov.uk/uksi/2012/2595/article/22/3/b) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-3cb1fe4e78df0665fc6f5d0948c4b690]: Commencement: S. 9(4)(5) in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(d)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/d)
+[^c-3cb1fe4e78df0665fc6f5d0948c4b690]: Commencement: S. 9(4)(5) in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(d)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/d)
 
-[^key-0ec17feb7773ec4948a375e6c6f04a81]: Commencement: S. 10 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(e)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/e)
+[^c-0ec17feb7773ec4948a375e6c6f04a81]: Commencement: S. 10 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(e)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/e)
 
-[^key-ebe13adf05b627c95db3bf426a2151c1]: Commencement: S. 10 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-ebe13adf05b627c95db3bf426a2151c1]: Commencement: S. 10 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-6244bec81f9c74caf81a6fa6335bd431]: Commencement: S. 10 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-6244bec81f9c74caf81a6fa6335bd431]: Commencement: S. 10 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-97ba4210cebde3c656132e467bf603bd]: Commencement: S. 11 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(f)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/f)
+[^c-97ba4210cebde3c656132e467bf603bd]: Commencement: S. 11 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(f)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/f)
 
-[^key-3121cc165b72ff2c0541eadaec554109]: Commencement: S. 11 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-3121cc165b72ff2c0541eadaec554109]: Commencement: S. 11 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-26fdd65fb67d7435ae76bf66444a0bec]: Commencement: S. 11 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-26fdd65fb67d7435ae76bf66444a0bec]: Commencement: S. 11 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-2fb669d86787847c1641e3835740ece5]: Textual amendment: Word in s. 11(1) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 395(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/395/1)[(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/395/2); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-2fb669d86787847c1641e3835740ece5]: Textual amendment: Word in s. 11(1) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 395(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/395/1)[(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/395/2); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-66adad8ef4cdc33fee23822a36345b21]: Textual amendment: Words in s. 11(1) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 6(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-66adad8ef4cdc33fee23822a36345b21]: Textual amendment: Words in s. 11(1) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 6(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-9776ebc96ef350b3426639457138a303]: Textual amendment: S. 11(3) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 395(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/395/1)[(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/395/3), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-9776ebc96ef350b3426639457138a303]: Textual amendment: S. 11(3) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 395(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/395/1)[(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/395/3), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-cb532fb9fe43bcfbb1e3a300a43aef13]: Textual amendment: Words in s. 11(4) renumbered as s. 11(4)(a) (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 6(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-cb532fb9fe43bcfbb1e3a300a43aef13]: Textual amendment: Words in s. 11(4) renumbered as s. 11(4)(a) (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 6(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-8fef08a919ed5215e01fb4102f828958]: Textual amendment: S. 11(4)(b) and word inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 6(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-8fef08a919ed5215e01fb4102f828958]: Textual amendment: S. 11(4)(b) and word inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 6(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-aead1b60a532c051f98961e5cd2d1119]: Textual amendment: Words in s. 11(6)(d) renumbered as s. 11(6)(d)(i) (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 6(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-aead1b60a532c051f98961e5cd2d1119]: Textual amendment: Words in s. 11(6)(d) renumbered as s. 11(6)(d)(i) (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 6(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-3f5d8f82bb0c65f9d56ce111914d5061]: Textual amendment: Word in s. 11(6)(d) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [para. 395(4)(a)](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/395/4/a), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 395(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/395/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-3f5d8f82bb0c65f9d56ce111914d5061]: Textual amendment: Word in s. 11(6)(d) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [para. 395(4)(a)](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/395/4/a), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 395(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/395/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-48836eb869d754af5adb9dd51895bf69]: Textual amendment: Word in s. 11(6)(d) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [para. 395(4)(b)](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/395/4/b), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 395(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/395/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-48836eb869d754af5adb9dd51895bf69]: Textual amendment: Word in s. 11(6)(d) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [para. 395(4)(b)](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/395/4/b), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 395(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/395/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-b068b766dcdb2ed5fac22e1db422236d]: Textual amendment: S. 11(6)(d)(ii) and word inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 6(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-b068b766dcdb2ed5fac22e1db422236d]: Textual amendment: S. 11(6)(d)(ii) and word inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 6(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-0fdf40630c0ccdf6507e53b8e84ee2df]: Textual amendment: S. 11(7) added (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6), [49(2)](https://www.legislation.gov.uk/ukpga/2007/6/section/49/2); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/b)
+[^c-0fdf40630c0ccdf6507e53b8e84ee2df]: Textual amendment: S. 11(7) added (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6), [49(2)](https://www.legislation.gov.uk/ukpga/2007/6/section/49/2); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/b)
 
-[^key-3aa901b24aa200cd52efd10fed966fab]: Commencement: S. 12 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(g)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/g)
+[^c-3aa901b24aa200cd52efd10fed966fab]: Commencement: S. 12 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(g)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/g)
 
-[^key-1b08841ec808460a6286da5462b51579]: Commencement: S. 12 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-1b08841ec808460a6286da5462b51579]: Commencement: S. 12 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-743a8c07367be4f463cffee0c156f884]: Commencement: S. 12 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-743a8c07367be4f463cffee0c156f884]: Commencement: S. 12 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-3f0b2179db79355b80f0a4c6bf0610c8]: Commencement: S. 13(1)-(4) (7) in force at 1.2.2004 [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(h)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/h)
+[^c-3f0b2179db79355b80f0a4c6bf0610c8]: Commencement: S. 13(1)-(4) (7) in force at 1.2.2004 [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(h)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/h)
 
 [^c10296021]: Commencement: S. 13(5)(6) in force at 1.4.2003 for certain purposes by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 4(e)](https://www.legislation.gov.uk/uksi/2002/3125/article/4/e)
 
-[^key-231246868751dfb1bf9c0859043dbad5]: Commencement: S. 13(5)(6) in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(h)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/h)
+[^c-231246868751dfb1bf9c0859043dbad5]: Commencement: S. 13(5)(6) in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(h)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/h)
 
-[^key-3beb1b2a539fe0a21f073fee03b53366]: Textual amendment: S. 13(8) added (6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/7); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-3beb1b2a539fe0a21f073fee03b53366]: Textual amendment: S. 13(8) added (6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/7); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-b645e9a8731cbf1b7134a15afccb52d4]: Textual amendment: Words in s. 13(8) inserted (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6), [49(3)](https://www.legislation.gov.uk/ukpga/2007/6/section/49/3); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/b)
+[^c-b645e9a8731cbf1b7134a15afccb52d4]: Textual amendment: Words in s. 13(8) inserted (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6), [49(3)](https://www.legislation.gov.uk/ukpga/2007/6/section/49/3); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/b)
 
-[^key-9689ee1967efc2ec702ac500f70306d5]: Commencement: S. 14 in force at 20.3.2006 by [S.I. 2006/392](https://www.legislation.gov.uk/uksi/2006/392), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/392/article/2/a)
+[^c-9689ee1967efc2ec702ac500f70306d5]: Commencement: S. 14 in force at 20.3.2006 by [S.I. 2006/392](https://www.legislation.gov.uk/uksi/2006/392), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/392/article/2/a)
 
-[^key-5dab8fffe55647bb5465dbc538b90103]: Commencement: S. 14 in force at 6.4.2007 for S. by [S.S.I. 2007/242](https://www.legislation.gov.uk/ssi/2007/242), [art. 3(a)](https://www.legislation.gov.uk/ssi/2007/242/article/3/a)
+[^c-5dab8fffe55647bb5465dbc538b90103]: Commencement: S. 14 in force at 6.4.2007 for S. by [S.S.I. 2007/242](https://www.legislation.gov.uk/ssi/2007/242), [art. 3(a)](https://www.legislation.gov.uk/ssi/2007/242/article/3/a)
 
-[^key-0b1bc1ddd8aedd47654fc048a019dbf1]: Commencement: S. 14 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-0b1bc1ddd8aedd47654fc048a019dbf1]: Commencement: S. 14 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
 [^c10296031]: Commencement: S. 15(2)(f)(ii)(3)(a)(b)(4)(8) in force at 1.4.2003 for certain purposes by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 4(f)](https://www.legislation.gov.uk/uksi/2002/3125/article/4/f)
 
-[^key-310dde3df2afe906d2ee9520c40f3910]: Commencement: S. 15 in force at 6.7.2006 for specified purposes for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/382/article/3/b)
+[^c-310dde3df2afe906d2ee9520c40f3910]: Commencement: S. 15 in force at 6.7.2006 for specified purposes for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/382/article/3/b)
 
-[^key-2a53f5168241dab886a262715696ca79]: Commencement: S. 15 in force at 6.4.2007 for S. in so far as not already in force by [S.S.I. 2007/242](https://www.legislation.gov.uk/ssi/2007/242), [art. 3(b)](https://www.legislation.gov.uk/ssi/2007/242/article/3/b)
+[^c-2a53f5168241dab886a262715696ca79]: Commencement: S. 15 in force at 6.4.2007 for S. in so far as not already in force by [S.S.I. 2007/242](https://www.legislation.gov.uk/ssi/2007/242), [art. 3(b)](https://www.legislation.gov.uk/ssi/2007/242/article/3/b)
 
-[^key-24709645344ea83560bf69ca31d0335d]: Commencement: S. 15 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-24709645344ea83560bf69ca31d0335d]: Commencement: S. 15 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-b5b5fc0d5e1da5b38ea7acd1b6951897]: Commencement: S. 15 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-b5b5fc0d5e1da5b38ea7acd1b6951897]: Commencement: S. 15 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-bd41d3b100c4c353e5709da6494536d1]: Commencement: S. 15(1)(2)(a)-(e)(f)(i)(3)(c)(d (5)-(7) in force at 20.3.2006 by [S.I. 2006/392](https://www.legislation.gov.uk/uksi/2006/392), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/392/article/2/b)
+[^c-bd41d3b100c4c353e5709da6494536d1]: Commencement: S. 15(1)(2)(a)-(e)(f)(i)(3)(c)(d (5)-(7) in force at 20.3.2006 by [S.I. 2006/392](https://www.legislation.gov.uk/uksi/2006/392), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/392/article/2/b)
 
-[^key-e217779b66ffe0decada61b8cb614e5b]: Textual amendment: Words in s. 15(1)(a) substituted (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6), [49(4)](https://www.legislation.gov.uk/ukpga/2007/6/section/49/4); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/b)
+[^c-e217779b66ffe0decada61b8cb614e5b]: Textual amendment: Words in s. 15(1)(a) substituted (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6), [49(4)](https://www.legislation.gov.uk/ukpga/2007/6/section/49/4); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/b)
 
-[^key-a0b8eba0fc91700caa2f961768918b06]: Commencement: S. 15(2)(f)(ii)(3)(a)(b)(4)(8) in force at 20.3.2006 in so far as not already in force by [S.I. 2006/392](https://www.legislation.gov.uk/uksi/2006/392), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/392/article/2/b)
+[^c-a0b8eba0fc91700caa2f961768918b06]: Commencement: S. 15(2)(f)(ii)(3)(a)(b)(4)(8) in force at 20.3.2006 in so far as not already in force by [S.I. 2006/392](https://www.legislation.gov.uk/uksi/2006/392), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/392/article/2/b)
 
-[^key-39c66e6d20ac53d8cadf1fbe58467ea0]: Commencement: S. 16 in force at 20.3.2006 by [S.I. 2006/392](https://www.legislation.gov.uk/uksi/2006/392), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/392/article/2/c)
+[^c-39c66e6d20ac53d8cadf1fbe58467ea0]: Commencement: S. 16 in force at 20.3.2006 by [S.I. 2006/392](https://www.legislation.gov.uk/uksi/2006/392), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/392/article/2/c)
 
-[^key-c342a4a3d9413e883e989438f8b45d15]: Commencement: S. 16 in force at 6.4.2007 for S. by [S.S.I. 2007/242](https://www.legislation.gov.uk/ssi/2007/242), [art. 3(a)](https://www.legislation.gov.uk/ssi/2007/242/article/3/a)
+[^c-c342a4a3d9413e883e989438f8b45d15]: Commencement: S. 16 in force at 6.4.2007 for S. by [S.S.I. 2007/242](https://www.legislation.gov.uk/ssi/2007/242), [art. 3(a)](https://www.legislation.gov.uk/ssi/2007/242/article/3/a)
 
-[^key-639a64e14454a2d382f4d40c1fd4acab]: Commencement: S. 16 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-639a64e14454a2d382f4d40c1fd4acab]: Commencement: S. 16 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
 [^c10296041]: Commencement: S. 17 partly in force; s. 17 not in force at Royal Assent, see s. 26(2); s. 17(1)(5) in force at 1.4.2003 for certain purposes by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 4(g)](https://www.legislation.gov.uk/uksi/2002/3125/article/4/g)
 
-[^key-5617511473d0fe6c7a696a047e110c39]: Commencement: S. 17 in force at 6.7.2006 for specified purposes for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/382/article/3/b)
+[^c-5617511473d0fe6c7a696a047e110c39]: Commencement: S. 17 in force at 6.7.2006 for specified purposes for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/382/article/3/b)
 
-[^key-4b038af0cbf06528ecfc7872e3dccd6a]: Commencement: S. 17 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-4b038af0cbf06528ecfc7872e3dccd6a]: Commencement: S. 17 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-10378cdcaab84c22d4b856c90c8f9236]: Commencement: S. 18 in force at 20.3.2006 by [S.I. 2006/392](https://www.legislation.gov.uk/uksi/2006/392), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/392/article/2/d)
+[^c-10378cdcaab84c22d4b856c90c8f9236]: Commencement: S. 18 in force at 20.3.2006 by [S.I. 2006/392](https://www.legislation.gov.uk/uksi/2006/392), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/392/article/2/d)
 
-[^key-7bb59673c91c7a8518eff78fcbb6fd43]: Commencement: S. 18 in force at 6.4.2007 for S. by [S.S.I. 2007/242](https://www.legislation.gov.uk/ssi/2007/242), [art. 3(a)](https://www.legislation.gov.uk/ssi/2007/242/article/3/a)
+[^c-7bb59673c91c7a8518eff78fcbb6fd43]: Commencement: S. 18 in force at 6.4.2007 for S. by [S.S.I. 2007/242](https://www.legislation.gov.uk/ssi/2007/242), [art. 3(a)](https://www.legislation.gov.uk/ssi/2007/242/article/3/a)
 
-[^key-cc3d4fcde06a35890417b7d640ceb0a7]: Commencement: S. 18 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-cc3d4fcde06a35890417b7d640ceb0a7]: Commencement: S. 18 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-db33bd545241a4033b4aa78419eb5bba]: Textual amendment: Word in s. 18(1) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 396(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/396/1)[(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/396/2); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-db33bd545241a4033b4aa78419eb5bba]: Textual amendment: Word in s. 18(1) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 396(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/396/1)[(2)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/396/2); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-7951fc49742237d8cec84ee5597ab1f0]: Textual amendment: Words in s. 18(1) inserted (30.6.2006 for S., 6.4.2007 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 9(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i); [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
+[^c-7951fc49742237d8cec84ee5597ab1f0]: Textual amendment: Words in s. 18(1) inserted (30.6.2006 for S., 6.4.2007 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 9(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i); [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
 
-[^key-0026175558525da1c63ad6346c9b7e72]: Textual amendment: S. 18(3) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 396(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/396/1)[(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/396/3), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-0026175558525da1c63ad6346c9b7e72]: Textual amendment: S. 18(3) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 396(1)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/396/1)[(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/396/3), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-14775ae2e9e6fd62889e3436ba7d917d]: Textual amendment: Words in s. 18(4) renumbered as s. 18(4)(a) (30.6.2006 for S., 6.4.2007 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 9(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i); [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
+[^c-14775ae2e9e6fd62889e3436ba7d917d]: Textual amendment: Words in s. 18(4) renumbered as s. 18(4)(a) (30.6.2006 for S., 6.4.2007 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 9(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i); [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
 
-[^key-ea3628bb0e35ceae697e78843a33e974]: Textual amendment: S. 18(4)(b) and word inserted (30.6.2006 for S., 6.4.2007 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 9(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i); [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
+[^c-ea3628bb0e35ceae697e78843a33e974]: Textual amendment: S. 18(4)(b) and word inserted (30.6.2006 for S., 6.4.2007 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 9(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i); [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
 
-[^key-93c58741a8a6eddde8b0755457c1b7a9]: Textual amendment: Words in s. 18(5)(d) renumbered as s. 18(5)(d)(i) (30.6.2006 for S., 6.4.2007 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 9(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i); [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
+[^c-93c58741a8a6eddde8b0755457c1b7a9]: Textual amendment: Words in s. 18(5)(d) renumbered as s. 18(5)(d)(i) (30.6.2006 for S., 6.4.2007 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 9(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i); [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
 
-[^key-5e269cdeaf25f70e64a6000b0ec33357]: Textual amendment: Word in s. 18(5)(d) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [para. 396(4)(a)](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/396/4/a), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para.](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-5e269cdeaf25f70e64a6000b0ec33357]: Textual amendment: Word in s. 18(5)(d) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [para. 396(4)(a)](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/396/4/a), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para.](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-62b5d7261d95d0c96f31460e3f7e893a]: Textual amendment: Word in s. 18(5)(d) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [para. 396(4)(b)](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/396/4/b), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para.](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph) 396(1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-62b5d7261d95d0c96f31460e3f7e893a]: Textual amendment: Word in s. 18(5)(d) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [para. 396(4)(b)](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/396/4/b), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para.](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph) 396(1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-2214ce9b8256a3b85b22f80fb37b15ec]: Textual amendment: S. 18(5)(d)(ii) and word added (30.6.2006 for S., 6.4.2007 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 9(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i); [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
+[^c-2214ce9b8256a3b85b22f80fb37b15ec]: Textual amendment: S. 18(5)(d)(ii) and word added (30.6.2006 for S., 6.4.2007 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 9(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i); [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
 
-[^key-ac6497b8b287a39b30a7d8f23e296dbb]: Textual amendment: S. 18(6) added (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6), [49(5)](https://www.legislation.gov.uk/ukpga/2007/6/section/49/5); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/b)
+[^c-ac6497b8b287a39b30a7d8f23e296dbb]: Textual amendment: S. 18(6) added (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6), [49(5)](https://www.legislation.gov.uk/ukpga/2007/6/section/49/5); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/b)
 
-[^key-c4388cceea2e4e0280e204438ffe817e]: Commencement: S. 19 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(i)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/i)
+[^c-c4388cceea2e4e0280e204438ffe817e]: Commencement: S. 19 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(i)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/i)
 
-[^key-a525ae8d6c8dc22ab56ec8260cee440a]: Commencement: S. 19 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-a525ae8d6c8dc22ab56ec8260cee440a]: Commencement: S. 19 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-4dca0924dcff9af68f406716a68d7ab0]: Commencement: S. 19 in force at 1.12.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 4](https://www.legislation.gov.uk/uksi/2009/1058/article/4)
+[^c-4dca0924dcff9af68f406716a68d7ab0]: Commencement: S. 19 in force at 1.12.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 4](https://www.legislation.gov.uk/uksi/2009/1058/article/4)
 
-[^key-7aa48e8c9ef5bd383cf554eadb8b2597]: Commencement: S. 20 in force at 1.11.2003 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 2(c)](https://www.legislation.gov.uk/uksi/2003/2710/article/2/c)
+[^c-7aa48e8c9ef5bd383cf554eadb8b2597]: Commencement: S. 20 in force at 1.11.2003 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 2(c)](https://www.legislation.gov.uk/uksi/2003/2710/article/2/c)
 
-[^key-c46342251364fe8d8aa1abe1259edbe2]: Commencement: S. 20 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-c46342251364fe8d8aa1abe1259edbe2]: Commencement: S. 20 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-bfab02df113c3ad56ac098f7ee0567b2]: Commencement: S. 20 in force at 1.12.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 4](https://www.legislation.gov.uk/uksi/2009/1058/article/4)
+[^c-bfab02df113c3ad56ac098f7ee0567b2]: Commencement: S. 20 in force at 1.12.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 4](https://www.legislation.gov.uk/uksi/2009/1058/article/4)
 
-[^key-268ed8ed56d060e9139f1333f2c72833]: Textual amendment: S. 21 repealed (E.W.) (6.4.2006) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 11](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/11); [S.I. 2006/751](https://www.legislation.gov.uk/uksi/2006/751), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2006/751/article/2/d/ii)
+[^c-268ed8ed56d060e9139f1333f2c72833]: Textual amendment: S. 21 repealed (E.W.) (6.4.2006) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 11](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/11); [S.I. 2006/751](https://www.legislation.gov.uk/uksi/2006/751), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2006/751/article/2/d/ii)
 
-[^key-916a68c0d39e920c3b7d07c7ae620296]: Commencement: S. 22 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(j)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/j)
+[^c-916a68c0d39e920c3b7d07c7ae620296]: Commencement: S. 22 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(j)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/j)
 
-[^key-f0f9f88d052c68d796b19c3e4115fef9]: Commencement: S. 22 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-f0f9f88d052c68d796b19c3e4115fef9]: Commencement: S. 22 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-9af9bcbf09c3a8e5ce96bdf02b89e1c5]: Commencement: S. 22 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-9af9bcbf09c3a8e5ce96bdf02b89e1c5]: Commencement: S. 22 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-d58c3ceaf024f8982c95ec052653fe86]: Commencement: S. 23 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(k)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/k)
+[^c-d58c3ceaf024f8982c95ec052653fe86]: Commencement: S. 23 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(k)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/k)
 
-[^key-777f790cb1472ac8e6cdc4ee23d450f5]: Commencement: S. 23 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-777f790cb1472ac8e6cdc4ee23d450f5]: Commencement: S. 23 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-405fb2f7e8263a2b26b975bdecc3bd54]: Commencement: S. 23 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-405fb2f7e8263a2b26b975bdecc3bd54]: Commencement: S. 23 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-cb2f18d7fbec8d3efd1ebc0773c6e788]: Textual amendment: S. 23 renumbered as s. 23(1) (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/10); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-cb2f18d7fbec8d3efd1ebc0773c6e788]: Textual amendment: S. 23 renumbered as s. 23(1) (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/10); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-c50a2d38304b4ca0f8c47783e315343a]: Textual amendment: S. 23(2) added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/10); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-c50a2d38304b4ca0f8c47783e315343a]: Textual amendment: S. 23(2) added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/10); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-9727c579929be229e441aadf28a53b7f]: Commencement: S. 24 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-9727c579929be229e441aadf28a53b7f]: Commencement: S. 24 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-1dd0aac6522058e26f1653cfc231d582]: Commencement: S. 24 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-1dd0aac6522058e26f1653cfc231d582]: Commencement: S. 24 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-a51a94ea7d27b71fcac43141b8fa009b]: Commencement: S. 24 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-a51a94ea7d27b71fcac43141b8fa009b]: Commencement: S. 24 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-5c78be877310e0b50c1d5d3571f13a57]: Textual amendment: S. 24(1A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 11(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-5c78be877310e0b50c1d5d3571f13a57]: Textual amendment: S. 24(1A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 11(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-82da763f5c8f29533b933331b89711ab]: Textual amendment: Words in s. 24(1A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/5/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-82da763f5c8f29533b933331b89711ab]: Textual amendment: Words in s. 24(1A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/5/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-f36b262090845132cf713ea7cc1047bb]: Textual amendment: Words in s. 24(2) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 11(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-f36b262090845132cf713ea7cc1047bb]: Textual amendment: Words in s. 24(2) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 11(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-3cde3623ec38fbd70aa1629e282744d2]: Textual amendment: S. 24(3)(c) and word inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 11(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-3cde3623ec38fbd70aa1629e282744d2]: Textual amendment: S. 24(3)(c) and word inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 11(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-ab5d520887b5efa25669f41f1fa7a032]: Textual amendment: S. 24(3A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 11(d)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11/d); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-ab5d520887b5efa25669f41f1fa7a032]: Textual amendment: S. 24(3A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 11(d)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11/d); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-45c570108055d1eaf45fd7ab8a6b38bd]: Textual amendment: S. 24(3B)(3C) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 5(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/5/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-45c570108055d1eaf45fd7ab8a6b38bd]: Textual amendment: S. 24(3B)(3C) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 5(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/5/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-b8752d9b38249e355b94d1f1a262acea]: Textual amendment: Words in s. 24(4) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 11(e)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11/e); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-b8752d9b38249e355b94d1f1a262acea]: Textual amendment: Words in s. 24(4) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 11(e)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11/e); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-d3b9c2d2d377e5f0a0e887308df427ae]: Textual amendment: Words in s. 24(4) repealed (E.W.) (1.10.2012) by virtue of [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(6)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/6), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
+[^c-d3b9c2d2d377e5f0a0e887308df427ae]: Textual amendment: Words in s. 24(4) repealed (E.W.) (1.10.2012) by virtue of [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(6)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/6), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
 
-[^key-763ed7fbff53280a443c64b57135a617]: Textual amendment: Words in s. 24(4) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 5(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/5/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-763ed7fbff53280a443c64b57135a617]: Textual amendment: Words in s. 24(4) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 5(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/5/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-d96047603fcc9f750c84828561f7e598]: Textual amendment: S. 24(4A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 5(5)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/5/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-d96047603fcc9f750c84828561f7e598]: Textual amendment: S. 24(4A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 5(5)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/5/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-af04cfa908d282635b4bf57c21e2a52c]: Textual amendment: Words in s. 24(5)(b) added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 11(f)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11/f); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-af04cfa908d282635b4bf57c21e2a52c]: Textual amendment: Words in s. 24(5)(b) added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 11(f)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11/f); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-e6474b0a42e5e84daa7815955de37549]: Textual amendment: Words in s. 24(5)(b) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 5(6)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/5/6) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-e6474b0a42e5e84daa7815955de37549]: Textual amendment: Words in s. 24(5)(b) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 5(6)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/5/6) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-72449b65520582072c4c8193778e9be8]: Commencement: S. 25 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-72449b65520582072c4c8193778e9be8]: Commencement: S. 25 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-750a8686d508fda2342c30e3ae1bd8a1]: Commencement: S. 25 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-750a8686d508fda2342c30e3ae1bd8a1]: Commencement: S. 25 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-f8c19f6be0ac43cdb326e05883113b73]: Commencement: S. 25 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-f8c19f6be0ac43cdb326e05883113b73]: Commencement: S. 25 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-cc2d87b078481735822a22a1af7bd0fe]: Textual amendment: Words in s. 25(1) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 6](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/6) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-cc2d87b078481735822a22a1af7bd0fe]: Textual amendment: Words in s. 25(1) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 6](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/6) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-3eda8e1b0e34bf7acf9aa407ea02f981]: Textual amendment: Words in s. 25(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 188(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/188/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-3eda8e1b0e34bf7acf9aa407ea02f981]: Textual amendment: Words in s. 25(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 188(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/188/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-cdc0ab4eb59a8444f5d1524558bde21c]: Textual amendment: Words in s. 25(1) repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(7)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/7), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
+[^c-cdc0ab4eb59a8444f5d1524558bde21c]: Textual amendment: Words in s. 25(1) repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(7)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/7), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
 
-[^key-90bffecf57e8621405b4162750a124bd]: Textual amendment: Words in s. 25(1) substituted (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 96](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/96) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
+[^c-90bffecf57e8621405b4162750a124bd]: Textual amendment: Words in s. 25(1) substituted (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 96](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/96) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
-[^key-6becb3b44469e11a2ab1f4c8ef78778b]: Textual amendment: Words in s. 25(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 188(3)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/188/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-6becb3b44469e11a2ab1f4c8ef78778b]: Textual amendment: Words in s. 25(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 188(3)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/188/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-64f83c1697a2e450a1b7806c1511edc3]: Textual amendment: S. 25(3) added (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6), [49(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/49/6); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/b)
+[^c-64f83c1697a2e450a1b7806c1511edc3]: Textual amendment: S. 25(3) added (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6), [49(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/49/6); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/b)
 
 [^c10296051]: Subordinate legislation: S. 26(2) power partly exercised: different dates appointed for certain purposes by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [arts. 2](https://www.legislation.gov.uk/uksi/2002/3125/article/2), [3](https://www.legislation.gov.uk/uksi/2002/3125/article/3), [4](https://www.legislation.gov.uk/uksi/2002/3125/article/4)
 
-[^key-f752c5f4772fc52a4851919cb7ed83f8]: Textual amendment: S. 26(2A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 12(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/12/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-f752c5f4772fc52a4851919cb7ed83f8]: Textual amendment: S. 26(2A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 12(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/12/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-29f96502997f76503d5e5700ef2a99a7]: Textual amendment: S. 26(3) substituted for s. 26(3)(4) (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/3)[(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/a)
+[^c-29f96502997f76503d5e5700ef2a99a7]: Textual amendment: S. 26(3) substituted for s. 26(3)(4) (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/3)[(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/a)
 
-[^key-bf2fb594229a99ea86b9d26a79b9614e]: Commencement: Sch. 1 para. 1 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-bf2fb594229a99ea86b9d26a79b9614e]: Commencement: Sch. 1 para. 1 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-3c4978d30357dabc85c18f764ad1d430]: Commencement: Sch. 1 para. 1 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-3c4978d30357dabc85c18f764ad1d430]: Commencement: Sch. 1 para. 1 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-37af0ca29024efec5abe80d9f4901c59]: Textual amendment: Sch. 1 para. 1(4) added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-37af0ca29024efec5abe80d9f4901c59]: Textual amendment: Sch. 1 para. 1(4) added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/a); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-028ffe2574ab251a3bf3156e45bbb3cb]: Textual amendment: Words in [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/1/4) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-028ffe2574ab251a3bf3156e45bbb3cb]: Textual amendment: Words in [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/1/4) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-d894a15055d4eab4644d692ed3f8937c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/2) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-d894a15055d4eab4644d692ed3f8937c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/2) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-e3b871e433eb4ff5ce7e173f78a31b5d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/2) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-e3b871e433eb4ff5ce7e173f78a31b5d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/2) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-4842eded29d918a945868ea5359a36ae]: Commencement: Sch. 1 para. 3 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-4842eded29d918a945868ea5359a36ae]: Commencement: Sch. 1 para. 3 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-b44314dc6c21c629f7d710b1804c084a]: Commencement: Sch. 1 para. 3 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-b44314dc6c21c629f7d710b1804c084a]: Commencement: Sch. 1 para. 3 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-3537080bebe14fd621c84cfef7e82455]: Textual amendment: Sch. 1 para. 3 renumbered as Sch. 1 para. 3(1) (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-3537080bebe14fd621c84cfef7e82455]: Textual amendment: Sch. 1 para. 3 renumbered as Sch. 1 para. 3(1) (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-b7bcabe092bb137015aae726f86f9de3]: Textual amendment: [Sch. 1 para. 3(1)(da)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/3/1/da) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/45) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-b7bcabe092bb137015aae726f86f9de3]: Textual amendment: [Sch. 1 para. 3(1)(da)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/3/1/da) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/45) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
-[^key-508b6bff8edf3260802a06f9566a7c02]: Textual amendment: Sch. 1 para. 3(2) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-508b6bff8edf3260802a06f9566a7c02]: Textual amendment: Sch. 1 para. 3(2) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-58b6b9b1f690ca5b496ff93370c5d369]: Textual amendment: Words in Sch. 1 para. 3(2) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-58b6b9b1f690ca5b496ff93370c5d369]: Textual amendment: Words in Sch. 1 para. 3(2) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-214c741b3bf0c6dfb6333139076c7743]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/4) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-214c741b3bf0c6dfb6333139076c7743]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/4) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-a2aaade1df7cf8541ca8e2e2dc82a0c5]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/4) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-a2aaade1df7cf8541ca8e2e2dc82a0c5]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/4) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-fe998a5e7064b2682b7f660840ffe1b7]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/5) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-fe998a5e7064b2682b7f660840ffe1b7]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/5) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-a720ceea3ef5cc9dc8fcef449d98586f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/5) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-a720ceea3ef5cc9dc8fcef449d98586f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/5) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
 [^c10296061]: Commencement: Sch. 1 para. 6 wholly in force; Sch. 1 para. 6 not in force at Royal Assent, see s. 26(2); Sch. 1 para. 6(1)(a)(2) in force at 1.1.2003 by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 2(d)](https://www.legislation.gov.uk/uksi/2002/3125/article/2/d); Sch. 1 para. 6 in force at 1.4.2003 in so far as not already in force by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 3(d)](https://www.legislation.gov.uk/uksi/2002/3125/article/3/d)
 
-[^key-abd247efec48bbe4ab2e8a4ba43ec86c]: Commencement: Sch. 1 para. 6 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-abd247efec48bbe4ab2e8a4ba43ec86c]: Commencement: Sch. 1 para. 6 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-3560b61f2464a4bb1ea7151753633b49]: Commencement: Sch. 1 para. 6 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-3560b61f2464a4bb1ea7151753633b49]: Commencement: Sch. 1 para. 6 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-e17b2678e9661694a3bf6dffdd116b3b]: Textual amendment: Sch. 1 para. 6(2A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-e17b2678e9661694a3bf6dffdd116b3b]: Textual amendment: Sch. 1 para. 6(2A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-27b52d64082c5314249b4433bc8e1865]: Textual amendment: Words in [Sch. 1 para. 6(2A)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/6/2A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-27b52d64082c5314249b4433bc8e1865]: Textual amendment: Words in [Sch. 1 para. 6(2A)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/6/2A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-6de431bb21f080d63c9ea20e3250f860]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/7) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-6de431bb21f080d63c9ea20e3250f860]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/7) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-434ac6fb16acf843949dcbf1ceeec70d]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/7) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-434ac6fb16acf843949dcbf1ceeec70d]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/7) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-041f8c6d731d5ce9e48e8ad32e1c7bf2]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/8) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-041f8c6d731d5ce9e48e8ad32e1c7bf2]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/8) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-3e6f8bdacb8fdc0a88415c70ccf83bd9]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/8) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-3e6f8bdacb8fdc0a88415c70ccf83bd9]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/8) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-12b9e114cd9379d7aea30369de5fdc2b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/9) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-12b9e114cd9379d7aea30369de5fdc2b]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/9) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-45f134cd288b404580fa1cd4d489fc99]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/9) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-45f134cd288b404580fa1cd4d489fc99]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/9) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-e324ddf106cc5e27696e1b8d23b29d7b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/10) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-e324ddf106cc5e27696e1b8d23b29d7b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/10) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-4fdb49d9a2f750673dfc913eed4d2da1]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/10) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-4fdb49d9a2f750673dfc913eed4d2da1]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/10) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-f38d164ace945934200b8ba836b0def5]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/11) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-f38d164ace945934200b8ba836b0def5]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/11) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-a17bf2fde7b2b35cc30a65a580697035]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/11) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-a17bf2fde7b2b35cc30a65a580697035]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/11) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-f8409ab705ad6afc3f7fc6c60c2f3948]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/12) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-f8409ab705ad6afc3f7fc6c60c2f3948]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/12) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-82b350995167bb473ba7472410f8d4eb]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/12) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-82b350995167bb473ba7472410f8d4eb]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/12) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-71714be0d834d21a6b9f15b4eddb1e4d]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/13) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-71714be0d834d21a6b9f15b4eddb1e4d]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/13) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-3afd113edabdaf48ebb80811f6bbd706]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/13) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-3afd113edabdaf48ebb80811f6bbd706]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/13) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-f9b117131c8b4ab8d0af664e11b8635e]: Commencement: Sch. 1 para. 14 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-f9b117131c8b4ab8d0af664e11b8635e]: Commencement: Sch. 1 para. 14 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-3f6f78aad8f7d3174adcbc884b30205a]: Commencement: Sch. 1 para. 14 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-3f6f78aad8f7d3174adcbc884b30205a]: Commencement: Sch. 1 para. 14 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-fbd460bdbe1514bd58c0a45ceba5960e]: Textual amendment: Sch. 1 para. 14(1A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(d)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/d); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-fbd460bdbe1514bd58c0a45ceba5960e]: Textual amendment: Sch. 1 para. 14(1A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(d)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/d); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-29143d2b94b6157d04cb7374647b9996]: Textual amendment: [Sch. 1 para. 14(1B)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/14/1B) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(5)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-29143d2b94b6157d04cb7374647b9996]: Textual amendment: [Sch. 1 para. 14(1B)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/14/1B) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(5)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-7c07b9f386c6a5e765a381e51f444ccb]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/15) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-7c07b9f386c6a5e765a381e51f444ccb]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/15) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-10ed95e6f20c53ea485750608aa33a91]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/15) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-10ed95e6f20c53ea485750608aa33a91]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/15) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-3259227f4e732103fe82785c317de512]: Commencement: Sch. 1 para. 16 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-3259227f4e732103fe82785c317de512]: Commencement: Sch. 1 para. 16 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-a6b0746e59712190a93812842c85983e]: Commencement: Sch. 1 para. 16 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-a6b0746e59712190a93812842c85983e]: Commencement: Sch. 1 para. 16 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-1b589bb0c56866c0fcd8abb8550f8d4f]: Textual amendment: Words in Sch. 1 para. 16(3) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(e)(i)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/e/i); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-1b589bb0c56866c0fcd8abb8550f8d4f]: Textual amendment: Words in Sch. 1 para. 16(3) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(e)(i)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/e/i); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-460ad68cad1193586ceb2f15448fa385]: Textual amendment: Words in [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/16/3) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(6)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/6/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-460ad68cad1193586ceb2f15448fa385]: Textual amendment: Words in [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/16/3) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(6)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/6/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-946129990780dc942fe0a8eea0361af6]: Textual amendment: Sch. 1 para. 16(3A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(e)(ii)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/e/ii); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-946129990780dc942fe0a8eea0361af6]: Textual amendment: Sch. 1 para. 16(3A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(e)(ii)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/e/ii); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-6e028049b03e7e0ddc14527ded30524f]: Textual amendment: [Sch. 1 para. 16(3B)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/16/3B)[(3C)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/16/3C) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(6)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/6/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-6e028049b03e7e0ddc14527ded30524f]: Textual amendment: [Sch. 1 para. 16(3B)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/16/3B)[(3C)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/16/3C) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(6)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/6/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-03eea4aa092a016fcc298856cadac237]: Commencement: Sch. 1 para. 17 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-03eea4aa092a016fcc298856cadac237]: Commencement: Sch. 1 para. 17 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-2698e65abea203ef22b8cdfac7220ab0]: Commencement: Sch. 1 para. 17 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-2698e65abea203ef22b8cdfac7220ab0]: Commencement: Sch. 1 para. 17 in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-75bcb52be90771d28c74b9705f85f6e9]: Textual amendment: Words in [Sch. 1 para. 17(1)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/17/1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(7)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/7/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-75bcb52be90771d28c74b9705f85f6e9]: Textual amendment: Words in [Sch. 1 para. 17(1)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/17/1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(7)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/7/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-74602670ae029c77cd572a3fcc4a0740]: Textual amendment: Sch. 1 para. 17(3) added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(f)(ii)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/f/ii); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-74602670ae029c77cd572a3fcc4a0740]: Textual amendment: Sch. 1 para. 17(3) added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 13(f)(ii)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13/f/ii); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-a4ba762c4e3130b499ec5256c0d2a768]: Textual amendment: [Sch. 1 para. 17(4)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/17/4)[(5)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/17/5) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(7)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/7/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-a4ba762c4e3130b499ec5256c0d2a768]: Textual amendment: [Sch. 1 para. 17(4)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/17/4)[(5)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/17/5) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 16 para. 7(7)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/16/paragraph/7/7/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-c8b5c63db2535902c94b6c224086b0af]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/18) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-c8b5c63db2535902c94b6c224086b0af]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/18) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-004875a6445599eff86f350589d6ad25]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/18) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-004875a6445599eff86f350589d6ad25]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/18) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-07ebe776967b49808f0736e35acdb5df]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/19) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-07ebe776967b49808f0736e35acdb5df]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/19) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-8e0280ed73a2758437eb9ef13d18b3b0]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/19) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-8e0280ed73a2758437eb9ef13d18b3b0]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/19) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-7410ce4adb4bf6c5db891e70230352dc]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/20) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-7410ce4adb4bf6c5db891e70230352dc]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/20) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-306113e7345f997e19f81643dc5d3b87]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/20) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-306113e7345f997e19f81643dc5d3b87]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/20) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-ab08cfbe769709123262466778211202]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/21) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-ab08cfbe769709123262466778211202]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/21) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-2ce12a94275c49d2a4d7a2ecbf86c49e]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/21) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-2ce12a94275c49d2a4d7a2ecbf86c49e]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/21) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-73561fe5c87c7cccbb8b97e77aaee814]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/22) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-73561fe5c87c7cccbb8b97e77aaee814]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/22) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-2a3314bcc78730533fea869c7f783935]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/22) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-2a3314bcc78730533fea869c7f783935]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/22) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-099e6fcdf4b0c0f88439bada41de236e]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/23) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-099e6fcdf4b0c0f88439bada41de236e]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/23) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-b98982ab11df86bb93c0e38716c6223c]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/23) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-b98982ab11df86bb93c0e38716c6223c]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/23) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-45e98a4437872698dac259b7b414c0db]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/24) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-45e98a4437872698dac259b7b414c0db]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/24) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-77c43010a4728cd7db5c4b46e4f820be]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/24) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-77c43010a4728cd7db5c4b46e4f820be]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2001/12/schedule/1/paragraph/24) in force at 1.5.2009 for N.I. by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
 [^c10296071]: Commencement: Sch. 2 para. 1 in force at 1.4.2003 for certain purposes by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 4(h)](https://www.legislation.gov.uk/uksi/2002/3125/article/4/h)
 
-[^key-54dbc15abf421e80c40d257a491992d4]: Commencement: Sch. 2 para. 1 in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
+[^c-54dbc15abf421e80c40d257a491992d4]: Commencement: Sch. 2 para. 1 in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
 
-[^key-dd8c38d7f9418e5eb934c91fe4dfe4a4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/1) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-dd8c38d7f9418e5eb934c91fe4dfe4a4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/1) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-22398648a92388d00f1f3660b119f87b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/1) in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-22398648a92388d00f1f3660b119f87b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/1) in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-085c0c4933cda70f4c187d888f3a2ec6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/1) in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-085c0c4933cda70f4c187d888f3a2ec6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/1) in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-c5928ba8daa1e531f63cfa427d95c4db]: Commencement: Sch. 2 para. 2 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
+[^c-c5928ba8daa1e531f63cfa427d95c4db]: Commencement: Sch. 2 para. 2 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
 
-[^key-a20fbdf06e0cc7c9d6485f252419b6b8]: Commencement: Sch. 2 para. 2 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-a20fbdf06e0cc7c9d6485f252419b6b8]: Commencement: Sch. 2 para. 2 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-3abe3230133bed1c8813bcf97e3a714f]: Commencement: Sch. 2 para. 2 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-3abe3230133bed1c8813bcf97e3a714f]: Commencement: Sch. 2 para. 2 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-7212813de23f3c5f8f18350790c5623a]: Commencement: Sch. 2 para. 2 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-7212813de23f3c5f8f18350790c5623a]: Commencement: Sch. 2 para. 2 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-4f816735988dbb5600cdc80df57fc0a1]: Textual amendment: Sch. 2 para. 2(7) inserted (11.7.2006) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2006 (S.I. 2006/1831)](https://www.legislation.gov.uk/uksi/2006/1831), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1831/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/1831/article/2)
+[^c-4f816735988dbb5600cdc80df57fc0a1]: Textual amendment: Sch. 2 para. 2(7) inserted (11.7.2006) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2006 (S.I. 2006/1831)](https://www.legislation.gov.uk/uksi/2006/1831), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1831/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/1831/article/2)
 
-[^key-b7d7c4d6f55d7ee3c0489a5b4e460bcf]: Textual amendment: Sch. 2 para. 2(7)(aa) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2007/2201/article/2/2)
+[^c-b7d7c4d6f55d7ee3c0489a5b4e460bcf]: Textual amendment: Sch. 2 para. 2(7)(aa) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2007/2201/article/2/2)
 
-[^key-7f80480b35b90fd670587a808b9447b2]: Textual amendment: Sch. 2 para. 2(7)(ab) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/3043/article/2/2)
+[^c-7f80480b35b90fd670587a808b9447b2]: Textual amendment: Sch. 2 para. 2(7)(ab) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/3043/article/2/2)
 
-[^key-0ef6b3cb9618b69dd93785664d3c8ceb]: Textual amendment: Sch. 2 para. 2(7)(cza) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 32](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/32); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
+[^c-0ef6b3cb9618b69dd93785664d3c8ceb]: Textual amendment: Sch. 2 para. 2(7)(cza) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 32](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/32); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
 
-[^key-53df05919b9f0ab7057d5a164ce5b408]: Textual amendment: Sch. 2 para. 2(7)(ca) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/2/3)
+[^c-53df05919b9f0ab7057d5a164ce5b408]: Textual amendment: Sch. 2 para. 2(7)(ca) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/2/3)
 
-[^key-580291553c6a4fa78083315916f67f5b]: Textual amendment: Sch. 2 para. 2(7)(cb) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/3043/article/2/3)
+[^c-580291553c6a4fa78083315916f67f5b]: Textual amendment: Sch. 2 para. 2(7)(cb) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/3043/article/2/3)
 
-[^key-c09abb2c5c783ff4cc57b558f3894e2a]: Textual amendment: Sch. 2 para. 2(7)(f) substituted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/14); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+[^c-c09abb2c5c783ff4cc57b558f3894e2a]: Textual amendment: Sch. 2 para. 2(7)(f) substituted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/14); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
 
-[^key-5b45fa525dff64c52d9bb36713913756]: Textual amendment: Sch. 2 para. 2(7)(fa) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2007/2201/article/2/4)
+[^c-5b45fa525dff64c52d9bb36713913756]: Textual amendment: Sch. 2 para. 2(7)(fa) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2007/2201/article/2/4)
 
-[^key-d8035271da121d3093d44d2ce7ae50b2]: Textual amendment: Sch. 2 para. 2(7)(fb)(fc) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/3043/article/2/4)
+[^c-d8035271da121d3093d44d2ce7ae50b2]: Textual amendment: Sch. 2 para. 2(7)(fb)(fc) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/3043/article/2/4)
 
-[^key-9bac6e32a69709dc505e811b3ff47d2b]: Textual amendment: Sch. 2 para. 2(7)(ga) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2009/3043/article/2/5)
+[^c-9bac6e32a69709dc505e811b3ff47d2b]: Textual amendment: Sch. 2 para. 2(7)(ga) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2009/3043/article/2/5)
 
-[^key-1deafaf88ae6c9630df49ee636dd0fb7]: Textual amendment: Words in Sch. 2 para. 2(7)(i) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 273(2)(b)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/273/2/b); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-1deafaf88ae6c9630df49ee636dd0fb7]: Textual amendment: Words in Sch. 2 para. 2(7)(i) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 273(2)(b)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/273/2/b); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-3f44d7e1b886fe7b5ba67cea1a52b998]: Textual amendment: Sch. 2 para. 2(7)(ka) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2009/3043/article/2/6)
+[^c-3f44d7e1b886fe7b5ba67cea1a52b998]: Textual amendment: Sch. 2 para. 2(7)(ka) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2009/3043/article/2/6)
 
-[^key-82a22d85ac7e008e0f43ed3c47f7e66e]: Textual amendment: Sch. 2 para. 2(7)(m) inserted (1.4.2008) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [ss. 13(7)](https://www.legislation.gov.uk/ukpga/2007/21/section/13/7), [41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1); [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(e)](https://www.legislation.gov.uk/uksi/2008/504/article/3/e)
+[^c-82a22d85ac7e008e0f43ed3c47f7e66e]: Textual amendment: Sch. 2 para. 2(7)(m) inserted (1.4.2008) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [ss. 13(7)](https://www.legislation.gov.uk/ukpga/2007/21/section/13/7), [41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1); [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(e)](https://www.legislation.gov.uk/uksi/2008/504/article/3/e)
 
-[^key-f03adb5af7ac6d4aae3b6a27df230278]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/3) repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(8)(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/8/a), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
+[^c-f03adb5af7ac6d4aae3b6a27df230278]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/3) repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(8)(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/8/a), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
 
-[^key-b4c8c88e2ccc56f336d618b171f8f83c]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/3A) repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(8)(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/8/b), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
+[^c-b4c8c88e2ccc56f336d618b171f8f83c]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/3A) repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(8)(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/8/b), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
 
-[^key-53d52fb073c6d8716d06dfdfa51a43a1]: Commencement: Sch. 2 para. 4 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
+[^c-53d52fb073c6d8716d06dfdfa51a43a1]: Commencement: Sch. 2 para. 4 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
 
-[^key-5f462d1ca439e6c04cad0664f97150c6]: Commencement: Sch. 2 para. 4 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-5f462d1ca439e6c04cad0664f97150c6]: Commencement: Sch. 2 para. 4 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-4fc9ec9eaebe04ea155e8c74e042f872]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/4) in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-4fc9ec9eaebe04ea155e8c74e042f872]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/4) in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-aeeb63e8f52e7df2fd031ef8bbe85c50]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/4) in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-aeeb63e8f52e7df2fd031ef8bbe85c50]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/4) in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-f50fa94d756106b9a0fef00cab1a8029]: Textual amendment: Sch. 2 para. 4(4A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 14(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/14/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-f50fa94d756106b9a0fef00cab1a8029]: Textual amendment: Sch. 2 para. 4(4A) inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 14(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/14/b); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-2b871d0919343a0b7d992a9300c07cdf]: Textual amendment: [Sch. 2 para. 4(4B)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/4/4B) inserted (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6), [49(7)](https://www.legislation.gov.uk/ukpga/2007/6/section/49/7); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/b)
+[^c-2b871d0919343a0b7d992a9300c07cdf]: Textual amendment: [Sch. 2 para. 4(4B)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/4/4B) inserted (8.3.2009) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 48(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/48/6), [49(7)](https://www.legislation.gov.uk/ukpga/2007/6/section/49/7); [S.I. 2009/446](https://www.legislation.gov.uk/uksi/2009/446), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/446/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2009/446/article/2/2/b)
 
-[^key-1769c3726e90ae9ecd720fb4ff6fd6b2]: Textual amendment: Sch. 2 para. 4A and cross-heading inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 14(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/14/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-1769c3726e90ae9ecd720fb4ff6fd6b2]: Textual amendment: Sch. 2 para. 4A and cross-heading inserted (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 14(c)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/14/c); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-80477d4d9b4be00e12820f62170b971a]: Textual amendment: Words in [Sch. 2 para. 4A(1)(b)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/4A/1/b) substituted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/7)
+[^c-80477d4d9b4be00e12820f62170b971a]: Textual amendment: Words in [Sch. 2 para. 4A(1)(b)](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/4A/1/b) substituted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/7)
 
-[^key-b7657ac1ad7447d220362dbae588f528]: Commencement: Sch. 2 para. 5 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
+[^c-b7657ac1ad7447d220362dbae588f528]: Commencement: Sch. 2 para. 5 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
 
-[^key-0b88d1a763162ce612abd750d5dc4ccc]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/5) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-0b88d1a763162ce612abd750d5dc4ccc]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/5) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-147c5f6df5043145608f59234c385647]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/5) in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-147c5f6df5043145608f59234c385647]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/5) in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-9534c11f90d435e15c45a6d51650d741]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/5) in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-9534c11f90d435e15c45a6d51650d741]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/5) in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-587620e61693f980e1ed4dd166080aed]: Commencement: Sch. 2 para. 6 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
+[^c-587620e61693f980e1ed4dd166080aed]: Commencement: Sch. 2 para. 6 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
 
-[^key-37076079e4be009aeebe4a027cf48c76]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/6) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-37076079e4be009aeebe4a027cf48c76]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/6) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-4f22ee61d0dd4282c561f3ff9d53b46d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/6) in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-4f22ee61d0dd4282c561f3ff9d53b46d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/6) in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-a8e1a9d0c8bf3c474bbcf498c11fab6c]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/6) in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-a8e1a9d0c8bf3c474bbcf498c11fab6c]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/6) in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
 [^c10296081]: Commencement: Sch. 2 para. 7 in force at 1.4.2003 for certain purposes by [S.I. 2002/3125](https://www.legislation.gov.uk/uksi/2002/3125), [art. 4(i)](https://www.legislation.gov.uk/uksi/2002/3125/article/4/i)
 
-[^key-c2a45d96863bd817891cfade06e9a903]: Commencement: Sch. 2 para. 7 in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
+[^c-c2a45d96863bd817891cfade06e9a903]: Commencement: Sch. 2 para. 7 in force at 1.2.2004 in so far as not already in force by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
 
-[^key-4522788c2b2ab353be2e7ddd86b772d0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/7) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-4522788c2b2ab353be2e7ddd86b772d0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/7) in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-95de5d5bd4109f7491d11c7531826531]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/7) in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-95de5d5bd4109f7491d11c7531826531]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/7) in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-5eca7258cb6a0ff81ec6f10df83f955b]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/7) in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-5eca7258cb6a0ff81ec6f10df83f955b]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/7) in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-5dfb9761df0ab7cd68413a89d5db3c54]: Commencement: Sch. 2 para. 8 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
+[^c-5dfb9761df0ab7cd68413a89d5db3c54]: Commencement: Sch. 2 para. 8 in force at 1.2.2004 by [S.I. 2003/2710](https://www.legislation.gov.uk/uksi/2003/2710), [art. 3(l)](https://www.legislation.gov.uk/uksi/2003/2710/article/3/l)
 
-[^key-8029788ca0445e9d85bd0ab0ca72abe1]: Commencement: Sch. 2 para. 8 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
+[^c-8029788ca0445e9d85bd0ab0ca72abe1]: Commencement: Sch. 2 para. 8 in force at 6.7.2006 for S. by [S.S.I. 2006/382](https://www.legislation.gov.uk/ssi/2006/382), [art. 3(a)](https://www.legislation.gov.uk/ssi/2006/382/article/3/a)
 
-[^key-047ad83778bcacac25db8e9c3d48bc1b]: Commencement: Sch. 2 para. 8 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
+[^c-047ad83778bcacac25db8e9c3d48bc1b]: Commencement: Sch. 2 para. 8 in force at 11.3.2009 for specified purposes for N.I. by [S.I. 2009/644](https://www.legislation.gov.uk/uksi/2009/644), [art. 3](https://www.legislation.gov.uk/uksi/2009/644/article/3)
 
-[^key-8dc9694a056b12b4f928881138513af3]: Commencement: Sch. 2 para. 8 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
+[^c-8dc9694a056b12b4f928881138513af3]: Commencement: Sch. 2 para. 8 in force at 1.5.2009 for N.I. In so far as not already in force by [S.I. 2009/1058](https://www.legislation.gov.uk/uksi/2009/1058), [art. 3](https://www.legislation.gov.uk/uksi/2009/1058/article/3)
 
-[^key-2f72303b59e3dc22141c6cf79a075d95]: Textual amendment: Words in Sch. 2 para. 8(1) inserted (11.7.2006) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2006 (S.I. 2006/1831)](https://www.legislation.gov.uk/uksi/2006/1831), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1831/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2006/1831/article/5/2)
+[^c-2f72303b59e3dc22141c6cf79a075d95]: Textual amendment: Words in Sch. 2 para. 8(1) inserted (11.7.2006) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2006 (S.I. 2006/1831)](https://www.legislation.gov.uk/uksi/2006/1831), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1831/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2006/1831/article/5/2)
 
-[^key-d880d9494f38dbdce7325588a8706da2]: Textual amendment: Sch. 2 para. 8(1A)-(1C) inserted (11.7.2006) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2006 (S.I. 2006/1831)](https://www.legislation.gov.uk/uksi/2006/1831), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1831/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2006/1831/article/5/3)
+[^c-d880d9494f38dbdce7325588a8706da2]: Textual amendment: Sch. 2 para. 8(1A)-(1C) inserted (11.7.2006) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2006 (S.I. 2006/1831)](https://www.legislation.gov.uk/uksi/2006/1831), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1831/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2006/1831/article/5/3)
 
-[^key-633e54619cf15b9035bcaf5bc73f3b72]: Textual amendment: Sch. 2 para. 8(1BA)-(1BC) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2007/2201/article/5/2)
+[^c-633e54619cf15b9035bcaf5bc73f3b72]: Textual amendment: Sch. 2 para. 8(1BA)-(1BC) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2007/2201/article/5/2)
 
-[^key-dfb4343f6ea656b62c0f53703478ad52]: Textual amendment: Sch. 2 para. 8(1BA) substituted (S.) (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/8/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
+[^c-dfb4343f6ea656b62c0f53703478ad52]: Textual amendment: Sch. 2 para. 8(1BA) substituted (S.) (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/8/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
 
-[^key-cbf957dbc1ad997af6b034720834566e]: Textual amendment: Sch. 2 para. 8(1BD) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [5](https://www.legislation.gov.uk/uksi/2009/3043/article/5)
+[^c-cbf957dbc1ad997af6b034720834566e]: Textual amendment: Sch. 2 para. 8(1BD) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [5](https://www.legislation.gov.uk/uksi/2009/3043/article/5)
 
-[^key-8013baeefe55cc64f6ea9dfa49ee7a11]: Textual amendment: Word in Sch. 2 para. 8(1C) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2007/2201/article/5/3/a)
+[^c-8013baeefe55cc64f6ea9dfa49ee7a11]: Textual amendment: Word in Sch. 2 para. 8(1C) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2007/2201/article/5/3/a)
 
-[^key-356cf42f881324e5d9b7ef71ad59421a]: Textual amendment: Sch. 2 para. 8(1C)(b)(c) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [5(3)(b)](https://www.legislation.gov.uk/uksi/2007/2201/article/5/3/b)
+[^c-356cf42f881324e5d9b7ef71ad59421a]: Textual amendment: Sch. 2 para. 8(1C)(b)(c) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [5(3)(b)](https://www.legislation.gov.uk/uksi/2007/2201/article/5/3/b)
 
-[^key-ec56324144b049b3d45ff48e80df570e]: Textual amendment: Sch. 2 para. 8(2)(a)(b) substituted for Sch. 2 para. 8(2)(a)-(d) (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 118(2)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/118/2) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
+[^c-ec56324144b049b3d45ff48e80df570e]: Textual amendment: Sch. 2 para. 8(2)(a)(b) substituted for Sch. 2 para. 8(2)(a)-(d) (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 118(2)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/118/2) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
-[^key-02b43ea19f4f683056192e392fc784ee]: Textual amendment: Sch. 2 para. 8(2)(f)-(l) added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 14(d)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/14/d); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-02b43ea19f4f683056192e392fc784ee]: Textual amendment: Sch. 2 para. 8(2)(f)-(l) added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 14(d)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/14/d); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-8c02665488d1c399106be3fe00d6151d]: Textual amendment: Sch. 2 para. 8(2)(f) substituted (S.) (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [sch. 1 para. 8(3)](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/8/3) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
+[^c-8c02665488d1c399106be3fe00d6151d]: Textual amendment: Sch. 2 para. 8(2)(f) substituted (S.) (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [sch. 1 para. 8(3)](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/8/3) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
 
-[^key-1d5b57911487d6271315e8c5f9c5f052]: Textual amendment: Sch. 2 para. 8(2)(g)-(j) repealed (S.) (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2009/248/schedule/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
+[^c-1d5b57911487d6271315e8c5f9c5f052]: Textual amendment: Sch. 2 para. 8(2)(g)-(j) repealed (S.) (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2009/248/schedule/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
 
-[^key-1e868852821dd0af04cf88a4f730b494]: Textual amendment: Sch. 2 para. 8(2)(m)(n) inserted (N.I.) (18.11.2009) by [The Private Security Industry Act 2001 (Amendment) (Northern Ireland) Order 2009 (S.I. 2009/3017)](https://www.legislation.gov.uk/nisi/2009/3017), [arts. 1(1)](https://www.legislation.gov.uk/nisi/2009/3017/article/1/1), [3](https://www.legislation.gov.uk/nisi/2009/3017/article/3)
+[^c-1e868852821dd0af04cf88a4f730b494]: Textual amendment: Sch. 2 para. 8(2)(m)(n) inserted (N.I.) (18.11.2009) by [The Private Security Industry Act 2001 (Amendment) (Northern Ireland) Order 2009 (S.I. 2009/3017)](https://www.legislation.gov.uk/nisi/2009/3017), [arts. 1(1)](https://www.legislation.gov.uk/nisi/2009/3017/article/1/1), [3](https://www.legislation.gov.uk/nisi/2009/3017/article/3)
 
-[^key-406872c48092d55ebff5ea8bdf497e12]: Textual amendment: Sch. 2 para. 8(2)(o) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [6](https://www.legislation.gov.uk/uksi/2009/3043/article/6)
+[^c-406872c48092d55ebff5ea8bdf497e12]: Textual amendment: Sch. 2 para. 8(2)(o) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [6](https://www.legislation.gov.uk/uksi/2009/3043/article/6)
 
-[^key-f1c18049be9699911fbf75c7bbc8e065]: Textual amendment: Sch. 2 para. 8(3) substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 118(3)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/118/3) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
+[^c-f1c18049be9699911fbf75c7bbc8e065]: Textual amendment: Sch. 2 para. 8(3) substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 118(3)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/118/3) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
-[^key-c6ada091bf9aca48944209b290b2424d]: Textual amendment: Sch. 2 para. 8(3)(ba) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2009/3043/article/7/2)
+[^c-c6ada091bf9aca48944209b290b2424d]: Textual amendment: Sch. 2 para. 8(3)(ba) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2009/3043/article/7/2)
 
-[^key-ae9b664f0cbc2171485e45ab960a500b]: Textual amendment: Sch. 2 para. 8(3)(c) substituted (1.9.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2007/2201/article/5/4)
+[^c-ae9b664f0cbc2171485e45ab960a500b]: Textual amendment: Sch. 2 para. 8(3)(c) substituted (1.9.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2007/2201/article/5/4)
 
-[^key-e4913457944e7919296545ead52f35b0]: Textual amendment: Sch. 2 para. 8(3)(ca)(cb) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2007/2201/article/5/5)
+[^c-e4913457944e7919296545ead52f35b0]: Textual amendment: Sch. 2 para. 8(3)(ca)(cb) inserted (1.10.2007) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2007 (S.I. 2007/2201)](https://www.legislation.gov.uk/uksi/2007/2201), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2201/article/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2007/2201/article/5/5)
 
-[^key-3e5619194d277002952e0c6705f3d4d3]: Textual amendment: Word in Sch. 2 para. 8(3)(cb) omitted (S.) (1.9.2009 at 5.00 a.m.) by virtue of [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [sch. 1 para. 8(4)(a)](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/8/4/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
+[^c-3e5619194d277002952e0c6705f3d4d3]: Textual amendment: Word in Sch. 2 para. 8(3)(cb) omitted (S.) (1.9.2009 at 5.00 a.m.) by virtue of [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [sch. 1 para. 8(4)(a)](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/8/4/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
 
-[^key-0fd23db72e183b4fc85570bbc08fa1ae]: Textual amendment: Sch. 2 para. 8(3)(cc) inserted (S.) (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [sch. 1 para. 8(4)(b)](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/8/4/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
+[^c-0fd23db72e183b4fc85570bbc08fa1ae]: Textual amendment: Sch. 2 para. 8(3)(cc) inserted (S.) (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [sch. 1 para. 8(4)(b)](https://www.legislation.gov.uk/ssi/2009/248/schedule/1/paragraph/8/4/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2009/248/article/3))
 
-[^key-7af77540d8bbdd9eb57ee83d01a711ad]: Textual amendment: Word in Sch. 2 para. 8(3)(cc) omitted (E.W.) (19.11.2009) by virtue of [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2009/3043/article/7/3)
+[^c-7af77540d8bbdd9eb57ee83d01a711ad]: Textual amendment: Word in Sch. 2 para. 8(3)(cc) omitted (E.W.) (19.11.2009) by virtue of [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2009/3043/article/7/3)
 
-[^key-799941d22b07f650eb8721facb3ac550]: Textual amendment: Sch. 2 para. 8(3)(cd)-(cf) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2009/3043/article/7/4)
+[^c-799941d22b07f650eb8721facb3ac550]: Textual amendment: Sch. 2 para. 8(3)(cd)-(cf) inserted (E.W.) (19.11.2009) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2009 (S.I. 2009/3043)](https://www.legislation.gov.uk/uksi/2009/3043), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3043/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2009/3043/article/7/4)
 
-[^key-9cfc06b5d1781f4c2516a5bde8106d74]: Textual amendment: Sch. 2 para. 8(6) inserted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 118(4)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/118/4) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
+[^c-9cfc06b5d1781f4c2516a5bde8106d74]: Textual amendment: Sch. 2 para. 8(6) inserted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 118(4)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/118/4) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
-[^key-465932d184ef901945f480d97e3e4cea]: Textual amendment: Words in Sch. 2 para. 8(6) inserted (11.7.2006) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2006 (S.I. 2006/1831)](https://www.legislation.gov.uk/uksi/2006/1831), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1831/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2006/1831/article/5/4)
+[^c-465932d184ef901945f480d97e3e4cea]: Textual amendment: Words in Sch. 2 para. 8(6) inserted (11.7.2006) by [The Private Security Industry Act 2001 (Amendments to Schedule 2) Order 2006 (S.I. 2006/1831)](https://www.legislation.gov.uk/uksi/2006/1831), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1831/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2006/1831/article/5/4)
 
-[^key-ac1ab9ab93505b9310a532c35c6b347a]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/9) repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(8)(c)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/8/c), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
+[^c-ac1ab9ab93505b9310a532c35c6b347a]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/9) repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(8)(c)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/8/c), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
 
-[^key-223fcffbc4533092d5f1437f666d6dd9]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/9A) repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(8)(d)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/8/d), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
+[^c-223fcffbc4533092d5f1437f666d6dd9]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/ukpga/2001/12/schedule/2/paragraph/9A) repealed (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 20(8)(d)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/20/8/d), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(g)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/g)
 
-[^key-b348e91b07788a558e5007b0a14aee0e]: Textual amendment: Sch. 2 para. 10 and cross-heading added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 14(e)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/14/e); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-b348e91b07788a558e5007b0a14aee0e]: Textual amendment: Sch. 2 para. 10 and cross-heading added (30.6.2006 for S., 6.7.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(6)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/6/b), [Sch. 15 para. 14(e)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/14/e); [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)[(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)

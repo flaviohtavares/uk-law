@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Assignation, sublet and joint tenancy of Scottish secure tenancy[^key-f3a60b74c837706e59a2415a010c8ad1]
+## 12. Assignation, sublet and joint tenancy of Scottish secure tenancy[^c-f3a60b74c837706e59a2415a010c8ad1]
 
 *Extent: S*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3a60b74c837706e59a2415a010c8ad1]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/14/section/12) in force at 1.11.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 6](https://www.legislation.gov.uk/ssi/2018/153/article/6), [7](https://www.legislation.gov.uk/ssi/2018/153/article/7), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-f3a60b74c837706e59a2415a010c8ad1]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/14/section/12) in force at 1.11.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 6](https://www.legislation.gov.uk/ssi/2018/153/article/6), [7](https://www.legislation.gov.uk/ssi/2018/153/article/7), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Street litter control notices[^key-e1346106c2c768a442a870e90bfe383f]
+## 18. Street litter control notices[^c-e1346106c2c768a442a870e90bfe383f]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1346106c2c768a442a870e90bfe383f]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2011/23/section/18) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-e1346106c2c768a442a870e90bfe383f]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2011/23/section/18) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

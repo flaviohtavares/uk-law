@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Surveillance[^key-d25ec4d8274b3b6dc5250babdcd5347d]
+## 44. Surveillance[^c-d25ec4d8274b3b6dc5250babdcd5347d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person carrying out a clinical examination or serological sampling for the pur
 
 ## Annotations
 
-[^key-d25ec4d8274b3b6dc5250babdcd5347d]: Commencement: Reg. 44 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-d25ec4d8274b3b6dc5250babdcd5347d]: Commencement: Reg. 44 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

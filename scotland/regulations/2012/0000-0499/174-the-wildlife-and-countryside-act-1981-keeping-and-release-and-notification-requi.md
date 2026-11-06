@@ -48,29 +48,29 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 26(4A) of the Wildlife and Countryside Act 1981[^f00003], they have consulted Scottish Natural Heritage and any other person appearing to them to have an interest in the making of the Order.
 
-## 1. Citation, commencement and interpretation[^key-10d93e32270212f1839dbccd4e894dae]
+## 1. Citation, commencement and interpretation[^c-10d93e32270212f1839dbccd4e894dae]
 
 (1) This Order may be cited as the Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Order 2012, and comes into force on 2nd July 2012.
 
 (2) In this Order, “the 1981 Act” means the Wildlife and Countryside Act 1981.
 
-## 2. Prohibition on releasing certain animals[^key-897db0b86443ca621fb2f865b55c4afc]
+## 2. Prohibition on releasing certain animals[^c-897db0b86443ca621fb2f865b55c4afc]
 
-The types of animals listed in column (1) (whose Scientific[^key-901c01ccda15d9c0100d50620ee15b04] name is listed in column (2)) of the table in Part 1 of Schedule 1 are specified for the purposes of section 14(1)(a)(ii) of the 1981 Act, to the extent mentioned in column (3) of that table.
+The types of animals listed in column (1) (whose Scientific[^c-901c01ccda15d9c0100d50620ee15b04] name is listed in column (2)) of the table in Part 1 of Schedule 1 are specified for the purposes of section 14(1)(a)(ii) of the 1981 Act, to the extent mentioned in column (3) of that table.
 
-## 3. Prohibition on keeping invasive animals[^key-535adf646282ff4e63b6963f31ee4b14]
+## 3. Prohibition on keeping invasive animals[^c-535adf646282ff4e63b6963f31ee4b14]
 
-The types of invasive animals listed column (1) (whose Scientific[^key-58736633822bbfc36fab2878c51ba507] name is listed in column (2)) of the table in Part 2 of Schedule 1 are specified for the purposes of section 14ZC(1)(a) of the 1981 Act.
+The types of invasive animals listed column (1) (whose Scientific[^c-58736633822bbfc36fab2878c51ba507] name is listed in column (2)) of the table in Part 2 of Schedule 1 are specified for the purposes of section 14ZC(1)(a) of the 1981 Act.
 
-## 3A. Prohibition on keeping invasive plants[^key-93214e5ba7d902d7e709193cd8936b19]
+## 3A. Prohibition on keeping invasive plants[^c-93214e5ba7d902d7e709193cd8936b19]
 
 The types of invasive plants listed in column (1) (whose Scientific name is listed in column (2)) of the table in Part 2A of Schedule 1 are specified for the purposes of section 14ZC(1)(b) of the 1981 Act.
 
-## 4. Notification requirements in relation to the presence of invasive animals[^key-c98ea407ad602d1d1da90bcd9f765fa2]
+## 4. Notification requirements in relation to the presence of invasive animals[^c-c98ea407ad602d1d1da90bcd9f765fa2]
 
 Where an occupier of land is, or becomes, aware of the presence of an invasive animal of a type listed in Part 3 of Schedule 1, that person must notify Scottish Natural Heritage without delay.
 
-## 5. Revocation[^key-0a806dc541ac045875cf218c05ad435e]
+## 5. Revocation[^c-0a806dc541ac045875cf218c05ad435e]
 
 Subject to article 3 (savings) of the Wildlife and Natural Environment (Scotland) Act 2011 (Commencement No. 4, Saving and Transitional Provisions) Order 2012[^f00004], the enactments listed in Schedule 2 are revoked.
 
@@ -88,7 +88,7 @@ Edinburgh
 
 Articles 2, 3 and 4
 
-### PART 1 — Types of animals specified for the purposes of section 14(1)(a)(ii) of the 1981 Act (types of animal which it is an offence for a person to release or allow to escape from captivity)[^key-2d1d2630ec342e251823ae15828ae462]
+### PART 1 — Types of animals specified for the purposes of section 14(1)(a)(ii) of the 1981 Act (types of animal which it is an offence for a person to release or allow to escape from captivity)[^c-2d1d2630ec342e251823ae15828ae462]
 
 | *Common name*<br>*Column (1)* | *Scientific name*<br>*Column (2)* | *Extent*<br>*Column (3)* |
 | --- | --- | --- |
@@ -98,7 +98,7 @@ Articles 2, 3 and 4
 
 | *Common name*<br>*Column (1)* | *Scientific name*<br>*Column (2)* |
 | --- | --- |
-| American bullfrog[^key-5d6eaf996233dff42705a0625c2309b1] | Lithobates catesbeianus |
+| American bullfrog[^c-5d6eaf996233dff42705a0625c2309b1] | Lithobates catesbeianus |
 | Asian hornet | Vespa velutina nigrithorax |
 | Asp | *Aspius aspius* |
 | Barbel | species of the genus *Barbus* (excluding *Barbus barbus*) |
@@ -163,7 +163,7 @@ Articles 2, 3 and 4
 | Weatherfish | *Misgurnus fossilis* |
 | Whitefish | species of the genus *Coregonus* (excluding *Coregonus lavaretus* and *Coregonus albula)* |
 
-### PART 2A — Types of invasive plants specified for the purposes of section 14ZC(1)(b) of the 1981 Act (types of plant which it is an offence for a person to keep, have in their possession or have under their control)[^key-35fe6aa63388c70e04e9f62b60b1a645]
+### PART 2A — Types of invasive plants specified for the purposes of section 14ZC(1)(b) of the 1981 Act (types of plant which it is an offence for a person to keep, have in their possession or have under their control)[^c-35fe6aa63388c70e04e9f62b60b1a645]
 
 <table>
 <thead>
@@ -188,7 +188,7 @@ Articles 2, 3 and 4
 </tbody>
 </table>
 
-### PART 3 — Types of invasive animals which require notification under article 4 of this Order[^key-ca7732c793f79315bc6c2928c87acd56]
+### PART 3 — Types of invasive animals which require notification under article 4 of this Order[^c-ca7732c793f79315bc6c2928c87acd56]
 
 | *Common name*<br>*Column (1)* | *Scientific name*<br>*Column (2)* |
 | --- | --- |
@@ -199,7 +199,7 @@ Articles 2, 3 and 4
 
 NOTE: The common name or names given in Column (1) of the tables in Parts 1, 2 and 3 of this Schedule are included by way of guidance only; in the event of any dispute or proceedings, the common name or names shall not be taken into account.
 
-## SCHEDULE 2 — REVOCATIONS[^key-736cd542bdcd17e12d3c538a21085991]
+## SCHEDULE 2 — REVOCATIONS[^c-736cd542bdcd17e12d3c538a21085991]
 
 Article 5
 
@@ -244,30 +244,30 @@ Article 5 and Schedule 2 revoke the enactments governing the keeping and release
 
 [^f00003]: Footnote: Section 26(4A) was inserted by section 17(6) of the 2011 Act.
 
-[^key-10d93e32270212f1839dbccd4e894dae]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2012/174/article/1) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+[^c-10d93e32270212f1839dbccd4e894dae]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2012/174/article/1) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
 
-[^key-897db0b86443ca621fb2f865b55c4afc]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2012/174/article/2) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+[^c-897db0b86443ca621fb2f865b55c4afc]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2012/174/article/2) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
 
-[^key-901c01ccda15d9c0100d50620ee15b04]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/ssi/2012/174/article/2) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2012 (S.S.I. 2012/206)](https://www.legislation.gov.uk/ssi/2012/206), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/206/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/206/article/2/2)
+[^c-901c01ccda15d9c0100d50620ee15b04]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/ssi/2012/174/article/2) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2012 (S.S.I. 2012/206)](https://www.legislation.gov.uk/ssi/2012/206), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/206/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/206/article/2/2)
 
-[^key-535adf646282ff4e63b6963f31ee4b14]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2012/174/article/3) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+[^c-535adf646282ff4e63b6963f31ee4b14]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2012/174/article/3) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
 
-[^key-58736633822bbfc36fab2878c51ba507]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/ssi/2012/174/article/3) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2012 (S.S.I. 2012/206)](https://www.legislation.gov.uk/ssi/2012/206), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/206/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/206/article/2/2)
+[^c-58736633822bbfc36fab2878c51ba507]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/ssi/2012/174/article/3) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2012 (S.S.I. 2012/206)](https://www.legislation.gov.uk/ssi/2012/206), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/206/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/206/article/2/2)
 
-[^key-93214e5ba7d902d7e709193cd8936b19]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/ssi/2012/174/article/3A) inserted (1.4.2019) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2019 (S.S.I. 2019/37)](https://www.legislation.gov.uk/ssi/2019/37), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/37/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/37/article/2/2)
+[^c-93214e5ba7d902d7e709193cd8936b19]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/ssi/2012/174/article/3A) inserted (1.4.2019) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2019 (S.S.I. 2019/37)](https://www.legislation.gov.uk/ssi/2019/37), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/37/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/37/article/2/2)
 
-[^key-c98ea407ad602d1d1da90bcd9f765fa2]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2012/174/article/4) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+[^c-c98ea407ad602d1d1da90bcd9f765fa2]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2012/174/article/4) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
 
-[^key-0a806dc541ac045875cf218c05ad435e]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2012/174/article/5) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+[^c-0a806dc541ac045875cf218c05ad435e]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2012/174/article/5) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
 
 [^f00004]: Footnote: [S.S.I. 2012/175 (C. 16)](https://www.legislation.gov.uk/ssi/2012/175).
 
-[^key-2d1d2630ec342e251823ae15828ae462]: Textual amendment: [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/1), [2](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/2) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2012 (S.S.I. 2012/206)](https://www.legislation.gov.uk/ssi/2012/206), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/206/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/206/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2012/206/schedule)
+[^c-2d1d2630ec342e251823ae15828ae462]: Textual amendment: [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/1), [2](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/2) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2012 (S.S.I. 2012/206)](https://www.legislation.gov.uk/ssi/2012/206), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/206/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/206/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2012/206/schedule)
 
-[^key-5d6eaf996233dff42705a0625c2309b1]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/2) inserted (1.4.2019) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2019 (S.S.I. 2019/37)](https://www.legislation.gov.uk/ssi/2019/37), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/37/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/37/article/2/3)
+[^c-5d6eaf996233dff42705a0625c2309b1]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/2) inserted (1.4.2019) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2019 (S.S.I. 2019/37)](https://www.legislation.gov.uk/ssi/2019/37), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2019/37/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/37/article/2/3)
 
-[^key-35fe6aa63388c70e04e9f62b60b1a645]: Textual amendment: [Sch. 1 Pt. 2A](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/2A) inserted (1.4.2019) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2019 (S.S.I. 2019/37)](https://www.legislation.gov.uk/ssi/2019/37), [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/37/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2019/37/schedule)
+[^c-35fe6aa63388c70e04e9f62b60b1a645]: Textual amendment: [Sch. 1 Pt. 2A](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/2A) inserted (1.4.2019) by [The Wildlife and Countryside Act 1981 (Keeping and Release and Notification Requirements) (Scotland) Amendment Order 2019 (S.S.I. 2019/37)](https://www.legislation.gov.uk/ssi/2019/37), [art. 1(1)](https://www.legislation.gov.uk/ssi/2019/37/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2019/37/schedule)
 
-[^key-ca7732c793f79315bc6c2928c87acd56]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/3) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+[^c-ca7732c793f79315bc6c2928c87acd56]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ssi/2012/174/schedule/1/part/3) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
 
-[^key-736cd542bdcd17e12d3c538a21085991]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2012/174/schedule/2) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)
+[^c-736cd542bdcd17e12d3c538a21085991]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2012/174/schedule/2) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/174/article/1/1)

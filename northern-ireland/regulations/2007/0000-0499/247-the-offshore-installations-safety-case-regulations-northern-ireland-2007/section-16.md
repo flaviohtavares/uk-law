@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Duty to conform with safety case[^key-76d9927d343a5794783653bbc3e0025a]
+## 16. Duty to conform with safety case[^c-76d9927d343a5794783653bbc3e0025a]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76d9927d343a5794783653bbc3e0025a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2007/247/regulation/16) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-76d9927d343a5794783653bbc3e0025a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2007/247/regulation/16) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

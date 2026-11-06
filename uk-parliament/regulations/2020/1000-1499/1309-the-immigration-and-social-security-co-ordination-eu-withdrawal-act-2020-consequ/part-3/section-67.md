@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Amendment of the Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (England) Regulations 2006[^key-920252eef1cb0b730dec53c5cd370191][^M_I_70f760c1-94c0-4f93-efb8-a85777b95f5a]
+## 67. Amendment of the Licensing and Management of Houses in Multiple Occupation and Other Houses (Miscellaneous Provisions) (England) Regulations 2006[^c-920252eef1cb0b730dec53c5cd370191][^M_I_70f760c1-94c0-4f93-efb8-a85777b95f5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-920252eef1cb0b730dec53c5cd370191]: Commencement: Reg. 67 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-920252eef1cb0b730dec53c5cd370191]: Commencement: Reg. 67 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_70f760c1-94c0-4f93-efb8-a85777b95f5a]: Commencement: Reg. 67 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

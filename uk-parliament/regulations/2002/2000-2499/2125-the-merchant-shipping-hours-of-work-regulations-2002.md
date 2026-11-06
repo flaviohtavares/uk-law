@@ -43,129 +43,129 @@ Coming into force
 
 7th September 2002
 
-[^key-6b3a9906dad675ecee1f5e24ca7cec7f] Whereas the Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^c9615761] in relation to measures relating to the safety of ships and the health and safety of persons on them[^c9615771] and to the employment of children and young persons[^c9615781]:
+[^c-6b3a9906dad675ecee1f5e24ca7cec7f] Whereas the Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^c9615761] in relation to measures relating to the safety of ships and the health and safety of persons on them[^c9615771] and to the employment of children and young persons[^c9615781]:
 
 And whereas, in so far as the following Regulations are made in exercise of the powers conferred by section 85 of the Merchant Shipping Act 1995[^c9615791], the Secretary of State has in pursuance of section 86(4) of that Act consulted the persons referred to in that subsection:
 
 Now, therefore, the Secretary of State, in exercise of the powers conferred by the said section 2(2) of the European Communities Act 1972, and by sections 85(1)(a) and (b), (3), (5) and (7) and 86(1) and (2) of the Merchant Shipping Act 1995 and of all other powers enabling him in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 1. Citation and commencement[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 2. Interpretation[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 3. Application[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3A. Northern Ireland[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 3A. Northern Ireland[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. General duty of shipowner, master, employer[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 4. General duty of shipowner, master, employer[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Minimum hours of rest[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 5. Minimum hours of rest[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Minimum hours of rest: further provision[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 6. Minimum hours of rest: further provision[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Posting-up of table[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 7. Posting-up of table[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Exception for emergencies[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 8. Exception for emergencies[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Records[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 9. Records[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Working at night[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 10. Working at night[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Power to require information[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 11. Power to require information[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Entitlement to annual and additional leave[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 12. Entitlement to annual and additional leave[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12A. Shore leave[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 12A. Shore leave[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Entitlements under other provisions[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 13. Entitlements under other provisions[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Inspection of United Kingdom ships and certain other ships[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 14. Inspection of United Kingdom ships and certain other ships[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14A. Inspection of non-United Kingdom ships with Maritime Labour Convention documentation[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 14A. Inspection of non-United Kingdom ships with Maritime Labour Convention documentation[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Inspection of ships other than United Kingdom ships[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 15. Inspection of ships other than United Kingdom ships[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Rectification of deficiencies[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 16. Rectification of deficiencies[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Enforcement of detention[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 17. Enforcement of detention[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17A. Detention of United Kingdom ships and other ships without Maritime Labour Convention documentation[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 17A. Detention of United Kingdom ships and other ships without Maritime Labour Convention documentation[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17B. Detention of non-United Kingdom ships with Maritime Labour Convention documentation[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 17B. Detention of non-United Kingdom ships with Maritime Labour Convention documentation[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Arbitration and compensation[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 18. Arbitration and compensation[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Release of information[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 19. Release of information[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Penalties[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 20. Penalties[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 21. Miscellaneous amendments
 
-Schedule 2 (Miscellaneous Amendments) shall have effect. *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+Schedule 2 (Miscellaneous Amendments) shall have effect. *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
-## 22. Remedies[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 22A. Extension of time limits to facilitate conciliation before institution of proceedings[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 22. Remedies[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Restriction on contracting out[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 22A. Extension of time limits to facilitate conciliation before institution of proceedings[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Review[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## 23. Restriction on contracting out[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 24. Review[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -177,7 +177,7 @@ Parliamentary Under Secretary of State,
 
 Department for Transport
 
-## SCHEDULE 1 — WORKFORCE AGREEMENTS[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+## SCHEDULE 1 — WORKFORCE AGREEMENTS[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 Regulation 2(1)
 
@@ -193,51 +193,51 @@ Regulation 2(1)
 
 Regulation 21
 
-**l.** Section 55 of the Act is amended as follows— *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+**l.** Section 55 of the Act is amended as follows— *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
-- (a) at the beginning of subsection (1) there shall be inserted “Subject to subsection (1A),”; *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-- (b) after subsection (1) there shall be inserted— *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+- (a) at the beginning of subsection (1) there shall be inserted “Subject to subsection (1A),”; *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+- (b) after subsection (1) there shall be inserted— *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
-  > (1A) A person under 16 years of age shall not be employed in any sea-going United Kingdom ship. *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+  > (1A) A person under 16 years of age shall not be employed in any sea-going United Kingdom ship. *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
   ;
 
-  and *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-- (c) in subsection (2)— *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-  - (i) in paragraph (a), after “in a ship” there shall be inserted *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f] “ which is not a sea-going United Kingdom ship ” *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f],
-  - (ii (affected by repeal, see note))[^key-6b3a9906dad675ecee1f5e24ca7cec7f] in paragraph (b), after “in a United Kingdom ship” there shall be inserted *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f] “ which is not a sea-going ship ” *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]; and *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-  - (iii (affected by repeal, see note))[^key-6b3a9906dad675ecee1f5e24ca7cec7f] after paragraph (b) there shall be inserted— *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+  and *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+- (c) in subsection (2)— *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+  - (i) in paragraph (a), after “in a ship” there shall be inserted *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f] “ which is not a sea-going United Kingdom ship ” *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f],
+  - (ii (affected by repeal, see note))[^c-6b3a9906dad675ecee1f5e24ca7cec7f] in paragraph (b), after “in a United Kingdom ship” there shall be inserted *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f] “ which is not a sea-going ship ” *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]; and *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+  - (iii (affected by repeal, see note))[^c-6b3a9906dad675ecee1f5e24ca7cec7f] after paragraph (b) there shall be inserted— *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
-    > - (c) prescribing circumstances and capacities in which persons of at least the age of 16 but under the age of 18 or under such lower age as may be specified in the regulations must not be employed in a sea-going United Kingdom ship or may be so employed only subject to such conditions as may be specified in the regulations. *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+    > - (c) prescribing circumstances and capacities in which persons of at least the age of 16 but under the age of 18 or under such lower age as may be specified in the regulations must not be employed in a sea-going United Kingdom ship or may be so employed only subject to such conditions as may be specified in the regulations. *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
     .
 
-**2.**[^key-31ed2de0f67b0e04d59e0052a0e9844c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-31ed2de0f67b0e04d59e0052a0e9844c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** In the Merchant Shipping (Safe Manning, Hours of Work and Watchkeeping) Regulations 1997 *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f] [^c9615931] the following provisions shall be omitted— *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+**3.** In the Merchant Shipping (Safe Manning, Hours of Work and Watchkeeping) Regulations 1997 *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f] [^c9615931] the following provisions shall be omitted— *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
-- (a) in regulation 2(l), the definition of “safety committee”; *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-- (b) regulations 6 to 10; and *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-- (c) in regulation 17— *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-  - (i) in paragraph (1), “9”; *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-  - (ii (affected by repeal, see note))[^key-6b3a9906dad675ecee1f5e24ca7cec7f] in paragraph (2), “7(2)”; and *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-  - (iii (affected by repeal, see note))[^key-6b3a9906dad675ecee1f5e24ca7cec7f] paragraphs (2A) and (5) to (8). *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+- (a) in regulation 2(l), the definition of “safety committee”; *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+- (b) regulations 6 to 10; and *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+- (c) in regulation 17— *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+  - (i) in paragraph (1), “9”; *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+  - (ii (affected by repeal, see note))[^c-6b3a9906dad675ecee1f5e24ca7cec7f] in paragraph (2), “7(2)”; and *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+  - (iii (affected by repeal, see note))[^c-6b3a9906dad675ecee1f5e24ca7cec7f] paragraphs (2A) and (5) to (8). *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
-**4.** The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998 shall be amended as follows— *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+**4.** The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998 shall be amended as follows— *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
-- (a) for the definition of “young person” in regulation 2(2) there shall be substituted— *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+- (a) for the definition of “young person” in regulation 2(2) there shall be substituted— *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
-  > “young person” means— *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+  > “young person” means— *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
   >
-  > - (a) in relation to employment on a sea-going United Kingdom ship, any person who is of the age of 16 or 17; or *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-  > - (b) in relation to employment on any other United Kingdom ship, any person who is under the age of 18 and, in Great Britain is over school-leaving age for the purposes of section 55 of the Act or, in Northern Ireland, is over compulsory school age within the meaning in Article 46 of the Education and Libraries (Northern Ireland) Order 1986 *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f] [^c9615941]
+  > - (a) in relation to employment on a sea-going United Kingdom ship, any person who is of the age of 16 or 17; or *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+  > - (b) in relation to employment on any other United Kingdom ship, any person who is under the age of 18 and, in Great Britain is over school-leaving age for the purposes of section 55 of the Act or, in Northern Ireland, is over compulsory school age within the meaning in Article 46 of the Education and Libraries (Northern Ireland) Order 1986 *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f] [^c9615941]
 
   ;
-- (b) in regulation 6— *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-  - (i) paragraph (6), and *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
-  - (ii (affected by repeal, see note))[^key-6b3a9906dad675ecee1f5e24ca7cec7f] in paragraph (7) the words “Where paragraph (6) does not apply,”, *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+- (b) in regulation 6— *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+  - (i) paragraph (6), and *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
+  - (ii (affected by repeal, see note))[^c-6b3a9906dad675ecee1f5e24ca7cec7f] in paragraph (7) the words “Where paragraph (6) does not apply,”, *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
-  shall be omitted. *(affected by repeal, see note)*[^key-6b3a9906dad675ecee1f5e24ca7cec7f]
+  shall be omitted. *(affected by repeal, see note)*[^c-6b3a9906dad675ecee1f5e24ca7cec7f]
 
 *(This note is not part of the Regulations)*
 
@@ -271,7 +271,7 @@ A transposition note has been prepared and copies may be obtained from the Seafa
 
 ## Annotations
 
-[^key-6b3a9906dad675ecee1f5e24ca7cec7f]: Textual amendment: Regulations (except reg. 21, Sch. 2) revoked (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 30(a)](https://www.legislation.gov.uk/uksi/2018/58/regulation/30/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
+[^c-6b3a9906dad675ecee1f5e24ca7cec7f]: Textual amendment: Regulations (except reg. 21, Sch. 2) revoked (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 30(a)](https://www.legislation.gov.uk/uksi/2018/58/regulation/30/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
 
 [^c9615761]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
@@ -281,7 +281,7 @@ A transposition note has been prepared and copies may be obtained from the Seafa
 
 [^c9615791]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); sections 85 and 86 were amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [section 8](https://www.legislation.gov.uk/ukpga/1997/28/section/8), and are applied to hovercraft by virtue of the [Hovercraft (Application of Enactments) Order 1989 (S.I. 1989/1350)](https://www.legislation.gov.uk/uksi/1989/1350) to which there are amendments not relevant to these Regulations.
 
-[^key-31ed2de0f67b0e04d59e0052a0e9844c]: Textual amendment: Sch. 2 para. 2 revoked (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [2](https://www.legislation.gov.uk/uksi/2006/3223/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3223/schedule/1)
+[^c-31ed2de0f67b0e04d59e0052a0e9844c]: Textual amendment: Sch. 2 para. 2 revoked (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [2](https://www.legislation.gov.uk/uksi/2006/3223/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3223/schedule/1)
 
 [^c9615931]: Marginal citation: [S.I. 1997/1320](https://www.legislation.gov.uk/uksi/1997/1320); amended by [S.I. 1997/1911](https://www.legislation.gov.uk/uksi/1997/1911), 2000/484.
 

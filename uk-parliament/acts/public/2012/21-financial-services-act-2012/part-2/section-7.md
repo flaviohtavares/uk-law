@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Extension of scope of regulation[^key-fc174e2a150a3aee3d03c7a6fdb175cd]
+## 7. Extension of scope of regulation[^c-fc174e2a150a3aee3d03c7a6fdb175cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -120,4 +120,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc174e2a150a3aee3d03c7a6fdb175cd]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2012/21/section/7) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-fc174e2a150a3aee3d03c7a6fdb175cd]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2012/21/section/7) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)

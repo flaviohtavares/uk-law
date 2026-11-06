@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127BA. Restriction of relief: cash basis[^key-d227766f59d82d3e0514d288d41ccfff]
+## 127BA. Restriction of relief: cash basis[^c-d227766f59d82d3e0514d288d41ccfff]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d227766f59d82d3e0514d288d41ccfff]: Textual amendment: [S. 127BA](https://www.legislation.gov.uk/ukpga/2007/3/section/127BA) inserted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 62(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/62/3)
+[^c-d227766f59d82d3e0514d288d41ccfff]: Textual amendment: [S. 127BA](https://www.legislation.gov.uk/ukpga/2007/3/section/127BA) inserted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 62(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/62/3)

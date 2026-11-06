@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 2(3) of the British Nationality Act 1981[^f00001], makes the following Order:
 
-## 1. Citation and commencement[^key-ba5fa1f6372998f053659aefabe1885f]
+## 1. Citation and commencement[^c-ba5fa1f6372998f053659aefabe1885f]
 
 This Order may be cited as the British Citizenship (Designated Service) (Amendment) Order 2008 and shall come into force on 14th February 2008.
 
-## 2. Amendment[^key-cbc1659153f4962a54af3c69fdcdc2c9]
+## 2. Amendment[^c-cbc1659153f4962a54af3c69fdcdc2c9]
 
 At the end of Schedule 2 to the British Citizenship (Designated Service) Order 2006[^f00002] (which specifies descriptions of service designated for the purposes of section 2 of the British Nationality Act 1981), add the following paragraph—
 
@@ -78,8 +78,8 @@ This Order amends that Order so as to include in the types of service so designa
 
 [^f00001]: Footnote: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61); section 2(3) was amended by section 5 of, and Schedule 1 to, the British Overseas Territories Act [2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8).
 
-[^key-ba5fa1f6372998f053659aefabe1885f]: Commencement: Art. 1 in force at 14.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/135/article/1)
+[^c-ba5fa1f6372998f053659aefabe1885f]: Commencement: Art. 1 in force at 14.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/135/article/1)
 
-[^key-cbc1659153f4962a54af3c69fdcdc2c9]: Commencement: Art. 2 in force at 14.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/135/article/1)
+[^c-cbc1659153f4962a54af3c69fdcdc2c9]: Commencement: Art. 2 in force at 14.2.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/135/article/1)
 
 [^f00002]: Footnote: [S.I. 2006/1390](https://www.legislation.gov.uk/uksi/2006/1390), as amended by [S.I. 2007/744](https://www.legislation.gov.uk/uksi/2007/744).

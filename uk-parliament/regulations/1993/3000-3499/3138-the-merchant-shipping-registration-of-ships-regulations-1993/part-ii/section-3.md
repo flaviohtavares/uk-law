@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Registration of fishing vessels to be of two kinds[^key-04bb62ad33c4e9de6526f29b1e78a300]
+## 3. Registration of fishing vessels to be of two kinds[^c-04bb62ad33c4e9de6526f29b1e78a300]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Registration on Part II of the Register shall be of two kinds:—
 
 ## Annotations
 
-[^key-04bb62ad33c4e9de6526f29b1e78a300]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1993/3138/regulation/3) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-04bb62ad33c4e9de6526f29b1e78a300]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1993/3138/regulation/3) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

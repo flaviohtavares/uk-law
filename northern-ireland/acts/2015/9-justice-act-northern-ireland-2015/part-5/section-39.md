@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Additional grounds for refusing an application to be registered[^key-500a0fc3b24dc7287d29026f26d5c1bd]
+## 39. Additional grounds for refusing an application to be registered[^c-500a0fc3b24dc7287d29026f26d5c1bd]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ After subsection (3) of section 120AA of the Police Act 1997 (refusal, etc. of r
 
 ## Annotations
 
-[^key-500a0fc3b24dc7287d29026f26d5c1bd]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2015/9/section/39) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/358/article/2/d)
+[^c-500a0fc3b24dc7287d29026f26d5c1bd]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2015/9/section/39) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/358/article/2/d)

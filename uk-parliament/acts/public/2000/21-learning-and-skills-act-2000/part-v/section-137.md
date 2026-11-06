@@ -26,7 +26,7 @@ summary: ''
 
 (3) After subsection (1) insert—
 
-> (1A) A local authority[^key-35207b0165f4bf8683c697e9c46b3e8b] may provide facilities for recreation and social and physical training as part of the facilities for further education provided (whether or not by them) for their area.
+> (1A) A local authority[^c-35207b0165f4bf8683c697e9c46b3e8b] may provide facilities for recreation and social and physical training as part of the facilities for further education provided (whether or not by them) for their area.
 
 (4) In subsection (2) for “For that purpose” substitute “ For the purpose of subsection (1) or (1A) ”.
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c13165391]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-35207b0165f4bf8683c697e9c46b3e8b]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46/2)
+[^c-35207b0165f4bf8683c697e9c46b3e8b]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46/2)

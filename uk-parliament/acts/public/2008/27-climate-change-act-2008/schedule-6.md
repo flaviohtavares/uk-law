@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Charges for single use carrier bags (Extent: N.I.) (affected by repeal, see note)carrier bags (Extent: N.I.)[^key-2c34b23b8118b1e8a2763ba07943ad2e]
+## SCHEDULE 6 — Charges for single use carrier bags (Extent: N.I.) (affected by repeal, see note)carrier bags (Extent: N.I.)[^c-2c34b23b8118b1e8a2763ba07943ad2e]
 
 *Extent: E+W+N.I.*
 
@@ -26,20 +26,20 @@ Section 77
 
 #### General power
 
-**1.** The relevant national authority may make provision by regulations about charging by sellers of goods for the supply of single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^key-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)*.
+**1.** The relevant national authority may make provision by regulations about charging by sellers of goods for the supply of single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^c-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)*.
 
 #### Requirement to charge
 
-**2.** The regulations may make provision requiring sellers of goods to charge for single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^key-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)* supplied—
+**2.** The regulations may make provision requiring sellers of goods to charge for single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^c-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)* supplied—
 
-- (a (Extent: N.I.))[^key-c4e2f1286aecc91a366d77fe004c3ba5] at a place where goods are sold, for the purpose of enabling goods to be taken away, or *(Extent: N.I.)*
+- (a (Extent: N.I.))[^c-c4e2f1286aecc91a366d77fe004c3ba5] at a place where goods are sold, for the purpose of enabling goods to be taken away, or *(Extent: N.I.)*
 
-  at the place where the goods are sold, for the purpose of enabling the goods to be taken away, or *(Extent: N.I.)* *(affected by repeal, see note)*[^key-c4e2f1286aecc91a366d77fe004c3ba5]
+  at the place where the goods are sold, for the purpose of enabling the goods to be taken away, or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-c4e2f1286aecc91a366d77fe004c3ba5]
 - (b (Extent: N.I.)) for the purpose of enabling goods to be delivered. *(Extent: N.I.)*
 
-  for the purpose of enabling the goods to be delivered. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-c4e2f1286aecc91a366d77fe004c3ba5]
+  for the purpose of enabling the goods to be delivered. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-c4e2f1286aecc91a366d77fe004c3ba5]
 
-**2A (Extent: N.I.).**[^key-41877654fb6f629ed1514b07f75b0511] The regulations may make provision for treating carrier bags as having been supplied for the purpose of enabling goods to be taken away if the carrier bags have been designed for that purpose. *(Extent: N.I.)*
+**2A (Extent: N.I.).**[^c-41877654fb6f629ed1514b07f75b0511] The regulations may make provision for treating carrier bags as having been supplied for the purpose of enabling goods to be taken away if the carrier bags have been designed for that purpose. *(Extent: N.I.)*
 
 #### Sellers of goods
 
@@ -64,26 +64,26 @@ or any combination of those factors.
 - (b) the type of goods that a seller supplies;
 - (c) the value of goods that a seller supplies;
 - (d) a seller's turnover or any part of that turnover.
-- (e (Extent: N.I.))[^key-ad6fa7d0957eb322437031b994a85778] the number of a seller's full-time equivalent employees. *(Extent: N.I.)*
+- (e (Extent: N.I.))[^c-ad6fa7d0957eb322437031b994a85778] the number of a seller's full-time equivalent employees. *(Extent: N.I.)*
 
 (4) In this Schedule “**specified**” means specified in regulations under this Schedule.
 
-(5 (Extent: N.I.))[^key-490f072736db1b1ed082d4ac0b181541] For the purposes of sub-paragraph (3)(e), the number of a seller's full-time equivalent employees is calculated as follows— *(Extent: N.I.)*
+(5 (Extent: N.I.))[^c-490f072736db1b1ed082d4ac0b181541] For the purposes of sub-paragraph (3)(e), the number of a seller's full-time equivalent employees is calculated as follows— *(Extent: N.I.)*
 
 - *Step 1 *(Extent: N.I.)** Find the number for full-time employees of the seller. *(Extent: N.I.)*
 - *Step 2 *(Extent: N.I.)** Add, for each employee of the seller who is not a full-time employee, such fraction as is just and reasonable. The result is the number of full-time equivalent employees. *(Extent: N.I.)*
 
 #### Amount of charge
 
-**4.** The regulations may specify the minimum amount that a seller must charge for each single use carrier bag *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d06b1f4a1d400119e4bfa6459630b941]carrier bag *(Extent: N.I.)*, or provide for that amount to be determined in accordance with the regulations.
+**4.** The regulations may specify the minimum amount that a seller must charge for each single use carrier bag *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d06b1f4a1d400119e4bfa6459630b941]carrier bag *(Extent: N.I.)*, or provide for that amount to be determined in accordance with the regulations.
 
-#### 4A (Extent: E+W). Destination of proceeds – Wales (Extent: E+W)[^key-b3cf9aef11ec5fbea31e04f78e27c1bf]
+#### 4A (Extent: E+W). Destination of proceeds – Wales (Extent: E+W)[^c-b3cf9aef11ec5fbea31e04f78e27c1bf]
 
 (1 (Extent: E+W)) This paragraph applies to regulations made by the Welsh Ministers in relation to Wales. *(Extent: E+W)*
 
 (2 (Extent: E+W)) The regulations may provide for the application of the net proceeds of the charge to specified purposes. *(Extent: E+W)*
 
-(2A (Extent: N.I.) (Extent: E+W))[^key-37bd0e4f98433d06eee3f420afa0940e] The regulations may— *(Extent: N.I.)* *(Extent: E+W)*
+(2A (Extent: N.I.) (Extent: E+W))[^c-37bd0e4f98433d06eee3f420afa0940e] The regulations may— *(Extent: N.I.)* *(Extent: E+W)*
 
 - (a (Extent: N.I.) (Extent: E+W)) provide for the time when and manner in which the gross or net proceeds of the charge are to be paid to the Department; *(Extent: N.I.)* *(Extent: E+W)*
 - (b (Extent: N.I.) (Extent: E+W)) provide for the payment of interest for late payment of the gross or net proceeds of the charge to the Department. *(Extent: N.I.)* *(Extent: E+W)*
@@ -118,7 +118,7 @@ or any combination of those factors.
 
 (8 (Extent: E+W)) The regulations may provide for exceptions and exemptions. *(Extent: E+W)*
 
-**4A (Extent: N.I.).**[^key-690a87fcc2d14bd2a219f353fa93a4af] (1 (Extent: N.I.)) This paragraph applies to regulations made by the Department in relation to Northern Ireland. *(Extent: N.I.)*
+**4A (Extent: N.I.).**[^c-690a87fcc2d14bd2a219f353fa93a4af] (1 (Extent: N.I.)) This paragraph applies to regulations made by the Department in relation to Northern Ireland. *(Extent: N.I.)*
 
 (2 (Extent: N.I.)) The regulations may require the seller to pay to the Department— *(Extent: N.I.)*
 
@@ -130,7 +130,7 @@ or any combination of those factors.
 (4 (Extent: N.I.)) In this paragraph— *(Extent: N.I.)*
 
 - “ *(Extent: N.I.)* **the Department *(Extent: N.I.)*** ” means the Department of the Environment in Northern Ireland; *(Extent: N.I.)*
-- “ *(Extent: N.I.)* **gross proceeds of the charge *(Extent: N.I.)*** ” means the amount received by the seller by way of charges for *(Extent: N.I.)* single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^key-2c34b23b8118b1e8a2763ba07943ad2e] *(Extent: N.I.)* carrier bags *(Extent: N.I.)* *(Extent: N.I.)* ; *(Extent: N.I.)*
+- “ *(Extent: N.I.)* **gross proceeds of the charge *(Extent: N.I.)*** ” means the amount received by the seller by way of charges for *(Extent: N.I.)* single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^c-2c34b23b8118b1e8a2763ba07943ad2e] *(Extent: N.I.)* carrier bags *(Extent: N.I.)* *(Extent: N.I.)* ; *(Extent: N.I.)*
 - “ *(Extent: N.I.)* **net proceeds of the charge *(Extent: N.I.)*** ” means the seller's gross proceeds of the charge reduced by such amounts as may be specified. *(Extent: N.I.)*
 
 #### 4B (Extent: E+W). Interpretation of paragraph 4A (Extent: E+W)
@@ -160,17 +160,17 @@ or any combination of those factors.
 
 (8 (Extent: E+W)) “ *(Extent: E+W)* **Young people *(Extent: E+W)*** ” means persons who have attained the age of 18, but not the age of 25. *(Extent: E+W)*
 
-#### Single use carrier bags (Extent: N.I.) (affected by repeal, see note)Carrier bags (Extent: N.I.)[^key-2c34b23b8118b1e8a2763ba07943ad2e]
+#### Single use carrier bags (Extent: N.I.) (affected by repeal, see note)Carrier bags (Extent: N.I.)[^c-2c34b23b8118b1e8a2763ba07943ad2e]
 
-**5.** (1 (Extent: N.I.))[^key-36dc2a90a2e895cfe63e10949deac55f] “**Single use carrier bag *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d06b1f4a1d400119e4bfa6459630b941]Carrier bag *(Extent: N.I.)***” has the meaning given by the regulations, which may define that term by reference (in particular) to—
+**5.** (1 (Extent: N.I.))[^c-36dc2a90a2e895cfe63e10949deac55f] “**Single use carrier bag *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d06b1f4a1d400119e4bfa6459630b941]Carrier bag *(Extent: N.I.)***” has the meaning given by the regulations, which may define that term by reference (in particular) to—
 
-- (a) a bag's size, thickness, construction, composition or other characteristics, or *(Extent: N.I.)* *(affected by repeal, see note)*[^key-9d417fa73b81ec136c669e3463a6e09f]
-- (b) its intended use, or *(Extent: N.I.)*[^key-cc0c55fa0c7746e1efd8640f0c472701]
+- (a) a bag's size, thickness, construction, composition or other characteristics, or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-9d417fa73b81ec136c669e3463a6e09f]
+- (b) its intended use, or *(Extent: N.I.)*[^c-cc0c55fa0c7746e1efd8640f0c472701]
 - (c (Extent: N.I.)) its price, *(Extent: N.I.)*
 
 or any combination of those factors.
 
-(2 (Extent: N.I.))[^key-4f1ae3406b47e31b58944b8ad29a8eef] In this paragraph “ *(Extent: N.I.)* **price *(Extent: N.I.)*** ” means the price paid by a specified person, excluding any minimum charge that may be applicable by virtue of paragraph 4. *(Extent: N.I.)*
+(2 (Extent: N.I.))[^c-4f1ae3406b47e31b58944b8ad29a8eef] In this paragraph “ *(Extent: N.I.)* **price *(Extent: N.I.)*** ” means the price paid by a specified person, excluding any minimum charge that may be applicable by virtue of paragraph 4. *(Extent: N.I.)*
 
 #### Administration
 
@@ -185,7 +185,7 @@ or any combination of those factors.
 
 (4) References in this Schedule to an administrator include a person appointed by an administrator.
 
-#### Registration[^key-28b377a60c75895cf79dd4a0117c72cf]
+#### Registration[^c-28b377a60c75895cf79dd4a0117c72cf]
 
 **6A.** (1) This paragraph applies to regulations made by—
 
@@ -206,7 +206,7 @@ or any combination of those factors.
 
 #### Record-keeping and publication of records
 
-**7.** (1) The regulations may require records to be kept relating to charges made for single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^key-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)*.
+**7.** (1) The regulations may require records to be kept relating to charges made for single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^c-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)*.
 
 (2) The regulations may require—
 
@@ -218,16 +218,16 @@ or any combination of those factors.
 
 (3) The regulations may (in particular) require the publication or supply of records or information relating to any of the following—
 
-- (a) the amount received by a seller by way of charges for single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^key-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)*;
+- (a) the amount received by a seller by way of charges for single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^c-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)*;
 - (b) the seller's gross or net proceeds of the charge;
 - (c) the uses to which the net proceeds of the charge have been put.
-- (d (Extent: N.I.))[^key-f42d4d38222c00bfb774610c89c044da] payments of the gross or net proceeds of the charge made to the Department of the Environment in Northern Ireland. *(Extent: N.I.)*
+- (d (Extent: N.I.))[^c-f42d4d38222c00bfb774610c89c044da] payments of the gross or net proceeds of the charge made to the Department of the Environment in Northern Ireland. *(Extent: N.I.)*
 
-(3A (Extent: E+W))[^key-3f21959a3425b839b63c72316ca3fb3d] Regulations made by the Welsh Ministers may also require the publication or supply of records or information relating to the amount received by a person from a seller by way of net proceeds of the charge to be applied to purposes specified under paragraph 4A(2). *(Extent: E+W)*
+(3A (Extent: E+W))[^c-3f21959a3425b839b63c72316ca3fb3d] Regulations made by the Welsh Ministers may also require the publication or supply of records or information relating to the amount received by a person from a seller by way of net proceeds of the charge to be applied to purposes specified under paragraph 4A(2). *(Extent: E+W)*
 
 (4) In this paragraph—
 
-- “**gross proceeds of the charge**” means the amount received by the seller by way of charges for single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^key-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)*;
+- “**gross proceeds of the charge**” means the amount received by the seller by way of charges for single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^c-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)*;
 - “**net proceeds of the charge**” means the seller's gross proceeds of the charge reduced by such amounts as may be specified.
 
 #### Enforcement
@@ -236,13 +236,13 @@ or any combination of those factors.
 
 (2) The regulations may (in particular) confer powers on an administrator to—
 
-- (a) require the production of documents or the provision of information, or *(Extent: N.I.)* *(affected by repeal, see note)*[^key-caf440957473142694acc047ec6f688a]
-- (aa (Extent: N.I.))[^key-afb856fce71debdb01e1162a0a78455c] inspect, retain or copy such documents, or *(Extent: N.I.)*
+- (a) require the production of documents or the provision of information, or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-caf440957473142694acc047ec6f688a]
+- (aa (Extent: N.I.))[^c-afb856fce71debdb01e1162a0a78455c] inspect, retain or copy such documents, or *(Extent: N.I.)*
 - (b) question a seller or officers or employees of a seller.
 
-(2A (Extent: E+W))[^key-3d58def489db88f6505dbce885c6d3a0] Regulations made by the Welsh Ministers may also confer powers on an administrator to question a person the administrator reasonably believes has received any net proceeds of the charge or officers or employees of such a person. *(Extent: E+W)*
+(2A (Extent: E+W))[^c-3d58def489db88f6505dbce885c6d3a0] Regulations made by the Welsh Ministers may also confer powers on an administrator to question a person the administrator reasonably believes has received any net proceeds of the charge or officers or employees of such a person. *(Extent: E+W)*
 
-(3 (Extent: N.I.) (affected by repeal, see note))[^key-57b18aafc2abda2586108062cccaf89a] Regulations under sub-paragraph (2) must contain provision for ensuring that the power in question is exercised by a person only where the person reasonably believes there has been a failure to comply with a requirement of regulations under this Schedule. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-57b18aafc2abda2586108062cccaf89a]
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-57b18aafc2abda2586108062cccaf89a] Regulations under sub-paragraph (2) must contain provision for ensuring that the power in question is exercised by a person only where the person reasonably believes there has been a failure to comply with a requirement of regulations under this Schedule. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-57b18aafc2abda2586108062cccaf89a]
 
 ### Part 2 — Civil sanctions
 
@@ -548,13 +548,13 @@ in such circumstances as may be specified.
 
 (4) In conducting a review under this paragraph the relevant national authority must consult such persons as the authority considers appropriate.
 
-(5) The relevant national authority must publish the results of a review under this section *(Extent: N.I.)* *(affected by repeal, see note)*[^key-3f9bc29ca09bc7bffc60b241f9b1bd97]paragraph *(Extent: N.I.)*.
+(5) The relevant national authority must publish the results of a review under this section *(Extent: N.I.)* *(affected by repeal, see note)*[^c-3f9bc29ca09bc7bffc60b241f9b1bd97]paragraph *(Extent: N.I.)*.
 
-(6 (Extent: N.I.) (affected by repeal, see note))[^key-52997665d87885c92e721c44f3a736df] The relevant national authority must lay a copy of a review under this paragraph before— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-52997665d87885c92e721c44f3a736df]
+(6 (Extent: N.I.) (affected by repeal, see note))[^c-52997665d87885c92e721c44f3a736df] The relevant national authority must lay a copy of a review under this paragraph before— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-52997665d87885c92e721c44f3a736df]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-52997665d87885c92e721c44f3a736df] Parliament (where the relevant national authority is the Secretary of State); *(Extent: N.I.)* *(affected by repeal, see note)*[^key-52997665d87885c92e721c44f3a736df]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-52997665d87885c92e721c44f3a736df] the National Assembly for Wales (where the relevant national authority is the Welsh Ministers); *(Extent: N.I.)* *(affected by repeal, see note)*[^key-52997665d87885c92e721c44f3a736df]
-- (c (Extent: N.I.) (affected by repeal, see note))[^key-52997665d87885c92e721c44f3a736df] the Northern Ireland Assembly (where the relevant national authority is the Department of the Environment in Northern Ireland) *(Extent: N.I.)* *(affected by repeal, see note)*[^key-52997665d87885c92e721c44f3a736df].
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-52997665d87885c92e721c44f3a736df] Parliament (where the relevant national authority is the Secretary of State); *(Extent: N.I.)* *(affected by repeal, see note)*[^c-52997665d87885c92e721c44f3a736df]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-52997665d87885c92e721c44f3a736df] the National Assembly for Wales (where the relevant national authority is the Welsh Ministers); *(Extent: N.I.)* *(affected by repeal, see note)*[^c-52997665d87885c92e721c44f3a736df]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-52997665d87885c92e721c44f3a736df] the Northern Ireland Assembly (where the relevant national authority is the Department of the Environment in Northern Ireland) *(Extent: N.I.)* *(affected by repeal, see note)*[^c-52997665d87885c92e721c44f3a736df].
 
 #### Suspension
 
@@ -582,7 +582,7 @@ in such circumstances as may be specified.
 - (b) the National Assembly for Wales (where the relevant national authority is the Welsh Ministers);
 - (c) the Northern Ireland Assembly (where the relevant national authority is the Department of the Environment in Northern Ireland).
 
-(6) Where the relevant national authority gives a direction under this section *(Extent: N.I.)* *(affected by repeal, see note)*[^key-11a440f213c4e0f3637079e75f212c0f]paragraph *(Extent: N.I.)*, the administrator must—
+(6) Where the relevant national authority gives a direction under this section *(Extent: N.I.)* *(affected by repeal, see note)*[^c-11a440f213c4e0f3637079e75f212c0f]paragraph *(Extent: N.I.)*, the administrator must—
 
 - (a) publish the direction in such manner as the authority thinks fit, and
 - (b) take such other steps as the administrator thinks fit or the authority may require to bring the direction to the attention of other persons likely to be affected by it.
@@ -660,48 +660,48 @@ nothing further is to be done under the instrument after the date of the resolut
 
 ## Annotations
 
-[^key-2c34b23b8118b1e8a2763ba07943ad2e]: Textual amendment: Words in Sch. 6 para. 2 substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 1(b)](https://www.legislation.gov.uk/nia/2014/7/section/1/b)
+[^c-2c34b23b8118b1e8a2763ba07943ad2e]: Textual amendment: Words in Sch. 6 para. 2 substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 1(b)](https://www.legislation.gov.uk/nia/2014/7/section/1/b)
 
-[^key-c4e2f1286aecc91a366d77fe004c3ba5]: Textual amendment: Sch. 6 para. 2(a)(b) substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 3(1)](https://www.legislation.gov.uk/nia/2014/7/section/3/1)
+[^c-c4e2f1286aecc91a366d77fe004c3ba5]: Textual amendment: Sch. 6 para. 2(a)(b) substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 3(1)](https://www.legislation.gov.uk/nia/2014/7/section/3/1)
 
-[^key-41877654fb6f629ed1514b07f75b0511]: Textual amendment: Sch. 6 para. 2A inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 3(2)](https://www.legislation.gov.uk/nia/2014/7/section/3/2)
+[^c-41877654fb6f629ed1514b07f75b0511]: Textual amendment: Sch. 6 para. 2A inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 3(2)](https://www.legislation.gov.uk/nia/2014/7/section/3/2)
 
-[^key-ad6fa7d0957eb322437031b994a85778]: Textual amendment: Sch. 6 para. 3(5) inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 4(3)](https://www.legislation.gov.uk/nia/2014/7/section/4/3)
+[^c-ad6fa7d0957eb322437031b994a85778]: Textual amendment: Sch. 6 para. 3(5) inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 4(3)](https://www.legislation.gov.uk/nia/2014/7/section/4/3)
 
-[^key-490f072736db1b1ed082d4ac0b181541]: Textual amendment: Sch. 6 para. 3(3)(e) inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 4(2)](https://www.legislation.gov.uk/nia/2014/7/section/4/2)
+[^c-490f072736db1b1ed082d4ac0b181541]: Textual amendment: Sch. 6 para. 3(3)(e) inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 4(2)](https://www.legislation.gov.uk/nia/2014/7/section/4/2)
 
-[^key-d06b1f4a1d400119e4bfa6459630b941]: Textual amendment: Words in Act substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7) , [s. 1(a)](https://www.legislation.gov.uk/nia/2014/7/section/1/a)
+[^c-d06b1f4a1d400119e4bfa6459630b941]: Textual amendment: Words in Act substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7) , [s. 1(a)](https://www.legislation.gov.uk/nia/2014/7/section/1/a)
 
-[^key-b3cf9aef11ec5fbea31e04f78e27c1bf]: Textual amendment: Sch. 6 paras. 4A, 4B inserted (E.W.) (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [ss. 1(2)](https://www.legislation.gov.uk/mwa/2010/8/section/1/2), [21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2)
+[^c-b3cf9aef11ec5fbea31e04f78e27c1bf]: Textual amendment: Sch. 6 paras. 4A, 4B inserted (E.W.) (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [ss. 1(2)](https://www.legislation.gov.uk/mwa/2010/8/section/1/2), [21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2)
 
-[^key-37bd0e4f98433d06eee3f420afa0940e]: Textual amendment: Sch. 6 para. 4A(2A) inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 5](https://www.legislation.gov.uk/nia/2014/7/section/5)
+[^c-37bd0e4f98433d06eee3f420afa0940e]: Textual amendment: Sch. 6 para. 4A(2A) inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 5](https://www.legislation.gov.uk/nia/2014/7/section/5)
 
-[^key-690a87fcc2d14bd2a219f353fa93a4af]: Textual amendment: Sch. 6 para. 4A inserted (N.I.) (4.5.2011) by [Single Use Carrier Bags Act (Northern Ireland) 2011 (c. 26)](https://www.legislation.gov.uk/nia/2011/26), [s. 1(1)](https://www.legislation.gov.uk/nia/2011/26/section/1/1)
+[^c-690a87fcc2d14bd2a219f353fa93a4af]: Textual amendment: Sch. 6 para. 4A inserted (N.I.) (4.5.2011) by [Single Use Carrier Bags Act (Northern Ireland) 2011 (c. 26)](https://www.legislation.gov.uk/nia/2011/26), [s. 1(1)](https://www.legislation.gov.uk/nia/2011/26/section/1/1)
 
-[^key-36dc2a90a2e895cfe63e10949deac55f]: Textual amendment: Sch. 6 para. 5 renumbered as Sch. 6 para. 5(1) (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7) , [s. 6(2)](https://www.legislation.gov.uk/nia/2014/7/section/6/2)
+[^c-36dc2a90a2e895cfe63e10949deac55f]: Textual amendment: Sch. 6 para. 5 renumbered as Sch. 6 para. 5(1) (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7) , [s. 6(2)](https://www.legislation.gov.uk/nia/2014/7/section/6/2)
 
-[^key-9d417fa73b81ec136c669e3463a6e09f]: Textual amendment: Word in Sch. 6 para. 5(1)(a) omitted (N.I.) (28.4.2014) by virtue of [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7) , [s. 6(3)(a)](https://www.legislation.gov.uk/nia/2014/7/section/6/3/a)
+[^c-9d417fa73b81ec136c669e3463a6e09f]: Textual amendment: Word in Sch. 6 para. 5(1)(a) omitted (N.I.) (28.4.2014) by virtue of [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7) , [s. 6(3)(a)](https://www.legislation.gov.uk/nia/2014/7/section/6/3/a)
 
-[^key-cc0c55fa0c7746e1efd8640f0c472701]: Textual amendment: Sch. 6 para. 5(1)(c) and preceding word inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7) , [s. 6(3)(b)](https://www.legislation.gov.uk/nia/2014/7/section/6/3/b)
+[^c-cc0c55fa0c7746e1efd8640f0c472701]: Textual amendment: Sch. 6 para. 5(1)(c) and preceding word inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7) , [s. 6(3)(b)](https://www.legislation.gov.uk/nia/2014/7/section/6/3/b)
 
-[^key-4f1ae3406b47e31b58944b8ad29a8eef]: Textual amendment: Sch. 6 para. 5(2) inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7) , [s. 6(4)](https://www.legislation.gov.uk/nia/2014/7/section/6/4)
+[^c-4f1ae3406b47e31b58944b8ad29a8eef]: Textual amendment: Sch. 6 para. 5(2) inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7) , [s. 6(4)](https://www.legislation.gov.uk/nia/2014/7/section/6/4)
 
-[^key-28b377a60c75895cf79dd4a0117c72cf]: Textual amendment: [Sch. 6 para. 6A and cross-heading](https://www.legislation.gov.uk/ukpga/2008/27/schedule/6/part/1/crossheading/registration) inserted (9.1.2022 for E.W., 28.2.2022 for N.I.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 56](https://www.legislation.gov.uk/ukpga/2021/30/section/56), [147(2)(f)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/f)[(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(h)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/h)
+[^c-28b377a60c75895cf79dd4a0117c72cf]: Textual amendment: [Sch. 6 para. 6A and cross-heading](https://www.legislation.gov.uk/ukpga/2008/27/schedule/6/part/1/crossheading/registration) inserted (9.1.2022 for E.W., 28.2.2022 for N.I.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 56](https://www.legislation.gov.uk/ukpga/2021/30/section/56), [147(2)(f)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/f)[(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(h)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/h)
 
-[^key-f42d4d38222c00bfb774610c89c044da]: Textual amendment: Sch. 6 para. 7(3)(d) inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 7(2)](https://www.legislation.gov.uk/nia/2014/7/section/7/2)
+[^c-f42d4d38222c00bfb774610c89c044da]: Textual amendment: Sch. 6 para. 7(3)(d) inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 7(2)](https://www.legislation.gov.uk/nia/2014/7/section/7/2)
 
-[^key-3f21959a3425b839b63c72316ca3fb3d]: Textual amendment: Sch. 6 para. 7(3A) inserted (E.W.) (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [ss. 1(3)](https://www.legislation.gov.uk/mwa/2010/8/section/1/3), [21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2)
+[^c-3f21959a3425b839b63c72316ca3fb3d]: Textual amendment: Sch. 6 para. 7(3A) inserted (E.W.) (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [ss. 1(3)](https://www.legislation.gov.uk/mwa/2010/8/section/1/3), [21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2)
 
-[^key-caf440957473142694acc047ec6f688a]: Textual amendment: Word in Sch. 6 para. 8(2)(a) omitted (N.I.) (28.4.2014) by virtue of [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 7(3)(a)](https://www.legislation.gov.uk/nia/2014/7/section/7/3/a)
+[^c-caf440957473142694acc047ec6f688a]: Textual amendment: Word in Sch. 6 para. 8(2)(a) omitted (N.I.) (28.4.2014) by virtue of [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 7(3)(a)](https://www.legislation.gov.uk/nia/2014/7/section/7/3/a)
 
-[^key-afb856fce71debdb01e1162a0a78455c]: Textual amendment: Sch. 6 para. 8(2)(aa) inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 7(3)(b)](https://www.legislation.gov.uk/nia/2014/7/section/7/3/b)
+[^c-afb856fce71debdb01e1162a0a78455c]: Textual amendment: Sch. 6 para. 8(2)(aa) inserted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 7(3)(b)](https://www.legislation.gov.uk/nia/2014/7/section/7/3/b)
 
-[^key-3d58def489db88f6505dbce885c6d3a0]: Textual amendment: Sch. 6 para. 8(2A) inserted (E.W.) (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [ss. 1(4)](https://www.legislation.gov.uk/mwa/2010/8/section/1/4), [21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2)
+[^c-3d58def489db88f6505dbce885c6d3a0]: Textual amendment: Sch. 6 para. 8(2A) inserted (E.W.) (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [ss. 1(4)](https://www.legislation.gov.uk/mwa/2010/8/section/1/4), [21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2)
 
-[^key-57b18aafc2abda2586108062cccaf89a]: Textual amendment: Sch. 6 para. 8(3) omitted (N.I.) (28.4.2014) by virtue of [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 7(3)(c)](https://www.legislation.gov.uk/nia/2014/7/section/7/3/c)
+[^c-57b18aafc2abda2586108062cccaf89a]: Textual amendment: Sch. 6 para. 8(3) omitted (N.I.) (28.4.2014) by virtue of [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 7(3)(c)](https://www.legislation.gov.uk/nia/2014/7/section/7/3/c)
 
-[^key-3f9bc29ca09bc7bffc60b241f9b1bd97]: Textual amendment: Word in Sch. 6 para. 24(5) substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 8(2)(a)](https://www.legislation.gov.uk/nia/2014/7/section/8/2/a)
+[^c-3f9bc29ca09bc7bffc60b241f9b1bd97]: Textual amendment: Word in Sch. 6 para. 24(5) substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 8(2)(a)](https://www.legislation.gov.uk/nia/2014/7/section/8/2/a)
 
-[^key-52997665d87885c92e721c44f3a736df]: Textual amendment: Sch. 6 para. 24(6) omitted (N.I.) (28.4.2014) by virtue of [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 8(2)(b)](https://www.legislation.gov.uk/nia/2014/7/section/8/2/b)
+[^c-52997665d87885c92e721c44f3a736df]: Textual amendment: Sch. 6 para. 24(6) omitted (N.I.) (28.4.2014) by virtue of [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 8(2)(b)](https://www.legislation.gov.uk/nia/2014/7/section/8/2/b)
 
-[^key-11a440f213c4e0f3637079e75f212c0f]: Textual amendment: Word in Sch. 6 para. 25(6) substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 8(3)](https://www.legislation.gov.uk/nia/2014/7/section/8/3)
+[^c-11a440f213c4e0f3637079e75f212c0f]: Textual amendment: Word in Sch. 6 para. 25(6) substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 8(3)](https://www.legislation.gov.uk/nia/2014/7/section/8/3)

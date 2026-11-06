@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In this Part[^key-5dab8189628f7d9f78e7685902753da0]...—
+(1) In this Part[^c-5dab8189628f7d9f78e7685902753da0]...—
 
-- “[^key-8fa4d41f587cc8477105bd88f7393aba]**approved manufacturer**” in relation to a medicinal substance means a manufacturer who—
+- “[^c-8fa4d41f587cc8477105bd88f7393aba]**approved manufacturer**” in relation to a medicinal substance means a manufacturer who—
   - (a) holds a manufacturing authorisation which permits the manufacturer to manufacture that substance for inclusion in an authorised medicinal product; or
   - (b) holds an examination certificate for a device incorporating that medicinal substance and that certificate was issued by an approved body or notified body after consultation with the Secretary of State in respect of that substance;
 - “**authorised medicinal product**” means a medicinal product in respect of which a marketing authorisation has been granted;
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5dab8189628f7d9f78e7685902753da0]: Textual amendment: Words in reg. 52(1) omitted (1.9.2003) by virtue of [The Medical Devices (Amendment) Regulations 2003 (S.I. 2003/1697)](https://www.legislation.gov.uk/uksi/2003/1697), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/1697/regulation/1/1/a), [15](https://www.legislation.gov.uk/uksi/2003/1697/regulation/15)
+[^c-5dab8189628f7d9f78e7685902753da0]: Textual amendment: Words in reg. 52(1) omitted (1.9.2003) by virtue of [The Medical Devices (Amendment) Regulations 2003 (S.I. 2003/1697)](https://www.legislation.gov.uk/uksi/2003/1697), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/1697/regulation/1/1/a), [15](https://www.legislation.gov.uk/uksi/2003/1697/regulation/15)
 
-[^key-8fa4d41f587cc8477105bd88f7393aba]: Textual amendment: Words in [reg. 52(1)](https://www.legislation.gov.uk/uksi/2002/618/regulation/52/1) inserted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2023/377/regulation/7)
+[^c-8fa4d41f587cc8477105bd88f7393aba]: Textual amendment: Words in [reg. 52(1)](https://www.legislation.gov.uk/uksi/2002/618/regulation/52/1) inserted (1.4.2023) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2023 (S.I. 2023/377)](https://www.legislation.gov.uk/uksi/2023/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/377/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2023/377/regulation/7)

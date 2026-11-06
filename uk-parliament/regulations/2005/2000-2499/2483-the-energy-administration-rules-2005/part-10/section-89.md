@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Notification and advertisement of appointment of joint energy administrator[^key-1eee751da4d6fdc2d69741f863777c90]
+## 89. Notification and advertisement of appointment of joint energy administrator[^c-1eee751da4d6fdc2d69741f863777c90]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where, after an initial appointment has been made, an additional person or perso
 
 ## Annotations
 
-[^key-1eee751da4d6fdc2d69741f863777c90]: Commencement: Rule 89 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-1eee751da4d6fdc2d69741f863777c90]: Commencement: Rule 89 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

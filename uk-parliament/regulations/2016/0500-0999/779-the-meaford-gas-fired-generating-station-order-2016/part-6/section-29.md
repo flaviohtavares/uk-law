@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Felling or lopping of trees[^key-f2c4db97ed26d58c8a6c78a8543f8910]
+## 29. Felling or lopping of trees[^c-f2c4db97ed26d58c8a6c78a8543f8910]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2c4db97ed26d58c8a6c78a8543f8910]: Commencement: Art. 29 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-f2c4db97ed26d58c8a6c78a8543f8910]: Commencement: Art. 29 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)

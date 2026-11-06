@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**179.**[^key-90f247ba96e384a5cdbc9cfac78d3895] Part 4 of the Health and Social Care Act 2001 (social care) is amended as follows.
+**179.**[^c-90f247ba96e384a5cdbc9cfac78d3895] Part 4 of the Health and Social Care Act 2001 (social care) is amended as follows.
 
 ## Annotations
 
-[^key-90f247ba96e384a5cdbc9cfac78d3895]: Commencement: Reg. 179 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-90f247ba96e384a5cdbc9cfac78d3895]: Commencement: Reg. 179 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

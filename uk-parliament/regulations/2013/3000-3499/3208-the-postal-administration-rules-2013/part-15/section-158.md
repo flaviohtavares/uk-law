@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 158. Non-receipt of notice of meeting[^key-b843e126a83e40734f06658ed45f14f0]
+## 158. Non-receipt of notice of meeting[^c-b843e126a83e40734f06658ed45f14f0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where in accordance with the 1986 Act or the Rules, a meeting of creditors or ot
 
 ## Annotations
 
-[^key-b843e126a83e40734f06658ed45f14f0]: Commencement: [Rule 158](https://www.legislation.gov.uk/uksi/2013/3208/rule/158) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-b843e126a83e40734f06658ed45f14f0]: Commencement: [Rule 158](https://www.legislation.gov.uk/uksi/2013/3208/rule/158) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

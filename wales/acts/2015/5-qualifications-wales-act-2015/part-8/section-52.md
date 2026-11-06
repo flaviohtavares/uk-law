@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Joint working[^key-df7187088fdd4d2782ecd83e75972c4c]
+## 52. Joint working[^c-df7187088fdd4d2782ecd83e75972c4c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Qualifications Wales may work jointly with another person if Qualifications Wale
 
 ## Annotations
 
-[^key-df7187088fdd4d2782ecd83e75972c4c]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2015/5/section/52) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-df7187088fdd4d2782ecd83e75972c4c]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2015/5/section/52) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

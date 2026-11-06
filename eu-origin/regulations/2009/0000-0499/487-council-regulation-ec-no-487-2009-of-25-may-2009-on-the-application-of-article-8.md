@@ -37,36 +37,36 @@ on the application of Article 81(3) of the Treaty to certain categories of agree
 
 (Text with EEA relevance) (revoked)
 
-[^key-8508a2d7cc80d1e7fcbba4118c9affdd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8508a2d7cc80d1e7fcbba4118c9affdd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-8508a2d7cc80d1e7fcbba4118c9affdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8508a2d7cc80d1e7fcbba4118c9affdd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8508a2d7cc80d1e7fcbba4118c9affdd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-8508a2d7cc80d1e7fcbba4118c9affdd]
+## ANNEX I[^c-8508a2d7cc80d1e7fcbba4118c9affdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-8508a2d7cc80d1e7fcbba4118c9affdd]
+## ANNEX II[^c-8508a2d7cc80d1e7fcbba4118c9affdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8508a2d7cc80d1e7fcbba4118c9affdd]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(i)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8508a2d7cc80d1e7fcbba4118c9affdd]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(i)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

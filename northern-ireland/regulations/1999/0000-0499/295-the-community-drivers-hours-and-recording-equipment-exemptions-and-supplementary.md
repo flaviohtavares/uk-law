@@ -32,7 +32,7 @@ EUROPEAN COMMUNITIES
 
 ROAD TRAFFIC AND VEHICLES
 
-The Community Drivers' Hours and Recording Equipment (Exemptions and Supplementary Provisions) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-84403e77d197c5f86ec74b35f8ec5e3f]
+The Community Drivers' Hours and Recording Equipment (Exemptions and Supplementary Provisions) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-84403e77d197c5f86ec74b35f8ec5e3f]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 9th August 1999
 
-[^key-84403e77d197c5f86ec74b35f8ec5e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84403e77d197c5f86ec74b35f8ec5e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-84403e77d197c5f86ec74b35f8ec5e3f]
+## 1. Citation and commencement[^c-84403e77d197c5f86ec74b35f8ec5e3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exemptions for vehicles used by health and social services bodies[^key-84403e77d197c5f86ec74b35f8ec5e3f]
+## 2. Exemptions for vehicles used by health and social services bodies[^c-84403e77d197c5f86ec74b35f8ec5e3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84403e77d197c5f86ec74b35f8ec5e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84403e77d197c5f86ec74b35f8ec5e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-84403e77d197c5f86ec74b35f8ec5e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84403e77d197c5f86ec74b35f8ec5e3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-84403e77d197c5f86ec74b35f8ec5e3f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/295) revoked (23.4.2009) by [The Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/91)](https://www.legislation.gov.uk/nisr/2009/91), [regs. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1), [8(c)](https://www.legislation.gov.uk/nisr/2009/91/regulation/8/c)
+[^c-84403e77d197c5f86ec74b35f8ec5e3f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/295) revoked (23.4.2009) by [The Community Drivers’ Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/91)](https://www.legislation.gov.uk/nisr/2009/91), [regs. 1](https://www.legislation.gov.uk/nisr/2009/91/regulation/1), [8(c)](https://www.legislation.gov.uk/nisr/2009/91/regulation/8/c)

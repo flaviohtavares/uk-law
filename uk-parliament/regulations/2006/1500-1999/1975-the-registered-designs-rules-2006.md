@@ -64,11 +64,11 @@ These Rules may be cited as the Registered Designs Rules 2006 and shall come int
 
 (2) Where a time or period has been altered under rules 19(1) or 39 to 41, any reference in these Rules to the time or period shall be construed as a reference to the time or period as altered.
 
-### 2A. Directions of the registrar[^key-a9eb895928e01010330a5f3a513f6fa6]
+### 2A. Directions of the registrar[^c-a9eb895928e01010330a5f3a513f6fa6]
 
 Any directions given by the registrar under sections 31A or 39 must be published on such website as the registrar considers to be likely to bring them to the attention of those persons likely to be affected by them.
 
-### 2B. Re-registered designs[^key-900ea1ef9bfa9c31450eca4bbe0d8f29]
+### 2B. Re-registered designs[^c-900ea1ef9bfa9c31450eca4bbe0d8f29]
 
 Except where provided to the contrary, these Rules apply to a re-registered design and a re-registered international design as they apply to other registered designs.
 
@@ -148,7 +148,7 @@ An application for the registration of a design may be accompanied by a disclaim
 - (a) the date of making of each convention application; and
 - (b) the country it was made in or in respect of.
 
-(3) The applicant shall, before the end of the period of 3 months beginning immediately after[^key-7312727642e2e80641195ded85dac0d4] the date on which the application was filed, file at the Patent Office a copy of the representation of the design that was the subject of each convention application.
+(3) The applicant shall, before the end of the period of 3 months beginning immediately after[^c-7312727642e2e80641195ded85dac0d4] the date on which the application was filed, file at the Patent Office a copy of the representation of the design that was the subject of each convention application.
 
 (4) A copy of the representation filed under paragraph (3) shall be—
 
@@ -159,7 +159,7 @@ An application for the registration of a design may be accompanied by a disclaim
 
 (6) Where any document relating to the convention application is in a language other than English or Welsh, the registrar may direct the applicant to provide a translation of the whole or any part of that document.
 
-(7) The translation shall be filed before the end of the period of 3 months beginning immediately after[^key-27b39ecbab759fe3f835baa1eeaf63a6] the date of the direction.
+(7) The translation shall be filed before the end of the period of 3 months beginning immediately after[^c-27b39ecbab759fe3f835baa1eeaf63a6] the date of the direction.
 
 (8) Where the applicant—
 
@@ -183,7 +183,7 @@ he shall notify the applicant accordingly.
 
 (2) The notification shall include a statement of why it appears to the registrar that he should refuse to register the design (for the purposes of this rule the “statement of objections”).
 
-(3) The applicant may, before the end of the period of 2 months beginning immediately after[^key-8c78d7794530ce9245763fecb0a3026a] the date of the notification, send his written observations on the statement of objections to the registrar.
+(3) The applicant may, before the end of the period of 2 months beginning immediately after[^c-8c78d7794530ce9245763fecb0a3026a] the date of the notification, send his written observations on the statement of objections to the registrar.
 
 (4) The registrar shall give the applicant an opportunity to be heard.
 
@@ -210,9 +210,9 @@ the registrar shall direct the applicant to provide a suitable representation.
 
 #### 10. Time limits under section 3(5) and section 3B
 
-(1) The time prescribed for the purposes of section 3(5) shall be 12 months beginning immediately after[^key-879e679c76b9f5b936017801811f0a07] the date on which the application for registration of the design was made or treated as made (disregarding section 14).
+(1) The time prescribed for the purposes of section 3(5) shall be 12 months beginning immediately after[^c-879e679c76b9f5b936017801811f0a07] the date on which the application for registration of the design was made or treated as made (disregarding section 14).
 
-(2) The period prescribed for the purposes of section 3B(3) shall be the period of 2 months beginning immediately after[^key-120a7eb44918c0ea2e4f2af8f6dea0ec] the date on which the earlier application was modified under section 3B(3).
+(2) The period prescribed for the purposes of section 3B(3) shall be the period of 2 months beginning immediately after[^c-120a7eb44918c0ea2e4f2af8f6dea0ec] the date on which the earlier application was modified under section 3B(3).
 
 ## PART 3 — DESIGNS AFTER REGISTRATION
 
@@ -236,7 +236,7 @@ the registrar shall direct the applicant to provide a suitable representation.
 
 (3) On receipt of the prescribed renewal fee the registrar shall notify the registered proprietor of the extension of the right in the registered design.
 
-(4) Where the right in a registered design has ceased to have effect by reason of section 8(3), the registrar shall, before the end of the period of 6 weeks beginning immediately after[^key-396a8374eeec509cc423d5816022932a] the date on which the right ceased, send written notice to the registered proprietor of that fact.
+(4) Where the right in a registered design has ceased to have effect by reason of section 8(3), the registrar shall, before the end of the period of 6 weeks beginning immediately after[^c-396a8374eeec509cc423d5816022932a] the date on which the right ceased, send written notice to the registered proprietor of that fact.
 
 (5) But paragraph (4) shall not apply where the renewal fee and the prescribed additional fee is paid before a notice is sent.
 
@@ -247,15 +247,15 @@ the registrar shall direct the applicant to provide a suitable representation.
 - (a) be made on Form DF29; and
 - (b) be supported by evidence of the statements made in the application.
 
-(2) The period prescribed for the purposes of section 8A(1) shall be the period of 12 months beginning immediately after[^key-a814c1f3c5d31d9c3fe2a5b2718e0a0d] the date on which the registered design ceased to have effect except where the registered design is a re-registered design or a re-registered international design where the duration of the right in the design ends within the period of six months beginning with IP completion day (as defined in section 20(1) of the European Union (Withdrawal) Act 2018) and ending with the end of the period of six months beginning with the day after that on which IP completion day falls (a “relevant re-registered design”)[^key-363db8b86d259a949b7f38e662991e9e]
+(2) The period prescribed for the purposes of section 8A(1) shall be the period of 12 months beginning immediately after[^c-a814c1f3c5d31d9c3fe2a5b2718e0a0d] the date on which the registered design ceased to have effect except where the registered design is a re-registered design or a re-registered international design where the duration of the right in the design ends within the period of six months beginning with IP completion day (as defined in section 20(1) of the European Union (Withdrawal) Act 2018) and ending with the end of the period of six months beginning with the day after that on which IP completion day falls (a “relevant re-registered design”)[^c-363db8b86d259a949b7f38e662991e9e]
 
-(2A)[^key-ec9b486944b9ba8d2db2df2182a184c1] The period prescribed for the purposes of section 8A(1) in respect of a relevant re-registered design or a re-registered international design shall be the period of 12 months beginning immediately after the date on which the registrar gave notice under section 8(3).
+(2A)[^c-ec9b486944b9ba8d2db2df2182a184c1] The period prescribed for the purposes of section 8A(1) in respect of a relevant re-registered design or a re-registered international design shall be the period of 12 months beginning immediately after the date on which the registrar gave notice under section 8(3).
 
 (3) The notice of the application shall be published in the journal.
 
 (4) Where, upon consideration of that evidence, the registrar is not satisfied that a case for an order under section 8A has been made out, he shall notify the applicant accordingly.
 
-(5) The applicant may, before the end of the period of 1 month beginning immediately after[^key-e0181ac1740c172ba2094930af41d094] the date of that notification, request to be heard by the registrar.
+(5) The applicant may, before the end of the period of 1 month beginning immediately after[^c-e0181ac1740c172ba2094930af41d094] the date of that notification, request to be heard by the registrar.
 
 (6) Where the applicant requests a hearing, the registrar shall give him an opportunity to be heard; after which the registrar shall determine whether the application under section 8A shall be granted or refused.
 
@@ -303,7 +303,7 @@ and it shall be verified by a statement of truth.
 - (a) “**statement of case**” means the statement of grounds filed by the applicant or the counter-statement filed by the registered proprietor; and
 - (b) references to the statement of case include part of the statement of case.
 
-#### 15A. Invalidation of existing registered Community design: invalidation notice and procedure on application for derogation; Schedule 1A paragraph 9A[^key-815b8cd0c02faae67d6786b736d96d36]
+#### 15A. Invalidation of existing registered Community design: invalidation notice and procedure on application for derogation; Schedule 1A paragraph 9A[^c-815b8cd0c02faae67d6786b736d96d36]
 
 (1) An invalidation notice under paragraph 9A of Schedule 1A must—
 
@@ -405,7 +405,7 @@ and where the application is granted the hearing shall be in private.
 
 (5) In this rule a reference to a hearing includes any part of a hearing.
 
-(6)[^key-8a8b212d3ba345d98597013f657c2af8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8a8b212d3ba345d98597013f657c2af8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 21. Evidence in proceedings before the registrar
 
@@ -433,7 +433,7 @@ and where the application is granted the hearing shall be in private.
 
 The registrar may, in any proceedings before him under the Act, award to any party by order such costs as he considers reasonable, and direct how and by what parties they are to be paid.
 
-#### 23. Security for costs[^key-f8402db3dd80514caf3c795239f20e0b]
+#### 23. Security for costs[^c-f8402db3dd80514caf3c795239f20e0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -469,7 +469,7 @@ The registrar shall not give a person less than 14 days notice of any hearing un
 
 (3) Before considering the request, the registrar may require the person making the request to provide such information or evidence as the registrar thinks fit.
 
-(4)[^key-32d2ce3459e5e75946b24a55638f3d59] This rule shall not apply to re-registered designs or re-registered international designs.
+(4)[^c-32d2ce3459e5e75946b24a55638f3d59] This rule shall not apply to re-registered designs or re-registered international designs.
 
 #### 27. Registration of interests
 
@@ -478,8 +478,8 @@ The registrar shall not give a person less than 14 days notice of any hearing un
 - (a) the registered proprietor's address for service;
 - (b) the grant or cancellation of a licence under a registered design;
 - (c) the granting or cancelling of a security interest (whether fixed or floating) over a registered design or any right in or under it;
-- (d) an order of a court or other competent authority transferring a registered design or any right in or under it;[^key-607f6fb995cfb4458f2fefa2a10b9bde]
-- (e)[^key-d11c5c40c7dd53361db1b3259662354b] where the design to be registered is a re-registered design (within the meaning of “re-registered design” in paragraph 1(2) of Schedule 1A) an indication that the re-registered design was on IP completion day the subject of a registration at the European Union Intellectual Property Office, including the number of the registration of the registered Community design from which the re-registered design derives.
+- (d) an order of a court or other competent authority transferring a registered design or any right in or under it;[^c-607f6fb995cfb4458f2fefa2a10b9bde]
+- (e)[^c-d11c5c40c7dd53361db1b3259662354b] where the design to be registered is a re-registered design (within the meaning of “re-registered design” in paragraph 1(2) of Schedule 1A) an indication that the re-registered design was on IP completion day the subject of a registration at the European Union Intellectual Property Office, including the number of the registration of the registered Community design from which the re-registered design derives.
 
 (2) An application to the registrar to enter in the register a matter not mentioned in section 17(1)(a) or (b) or paragraph (1) shall be made in writing.
 
@@ -504,7 +504,7 @@ The registrar shall not give a person less than 14 days notice of any hearing un
 
 (2) But no document may be inspected—
 
-- (a) before the end of the period of 14 days beginning immediately after[^key-fc1e27af0a2a8143ef606c031d492bae] the day—
+- (a) before the end of the period of 14 days beginning immediately after[^c-fc1e27af0a2a8143ef606c031d492bae] the day—
   - (i) it was filed at the Patent Office; or
   - (ii) received by the registrar or the Patent Office;
 - (b) where that document was prepared by the registrar or the Patent Office for internal use only;
@@ -527,7 +527,7 @@ The registrar shall not give a person less than 14 days notice of any hearing un
 
 (2) A request to treat a document as confidential shall—
 
-- (a) be made before the end of the period of 14 days beginning immediately after[^key-e1932f55f66306a35cf2b2025ed9e0ac] the date on which the document was filed at the Patent Office or received by the registrar or at the Patent Office;
+- (a) be made before the end of the period of 14 days beginning immediately after[^c-e1932f55f66306a35cf2b2025ed9e0ac] the date on which the document was filed at the Patent Office or received by the registrar or at the Patent Office;
 - (b) include reasons for the request.
 
 (3) Where a request has been made under paragraph (1), the document shall be treated as confidential until the registrar refuses that request or makes a direction under paragraph (4).
@@ -559,7 +559,7 @@ An application under section 17(5) for a certified copy of an entry in the regis
 
 (2) An application under paragraph (1) shall be made in writing and be accompanied by the prescribed fee.
 
-(3)[^key-47b8b7040c12e771114b4a984052624f] This rule shall not apply to re-registered designs or re-registered international designs.
+(3)[^c-47b8b7040c12e771114b4a984052624f] This rule shall not apply to re-registered designs or re-registered international designs.
 
 ### Alterations and rectification
 
@@ -678,16 +678,16 @@ as the registrar may direct.
 
 - (a) an applicant for the registration of a design;
 - (b) a person who makes an application under section 11ZB for a declaration of invalidity of a registered design;
-- (c) the registered proprietor of the design who opposes such an application ;[^key-195e91bb32cbe0d54a1b328e66420bab]
-- (d)[^key-9ed83795f1d7011acab96b0a3418ed35] a proprietor of a re-registered design who sends a derogation notice to the registrar under rule 15A.
+- (c) the registered proprietor of the design who opposes such an application ;[^c-195e91bb32cbe0d54a1b328e66420bab]
+- (d)[^c-9ed83795f1d7011acab96b0a3418ed35] a proprietor of a re-registered design who sends a derogation notice to the registrar under rule 15A.
 
 (2) The proprietor of a registered design, or any person who has registered any interest in a registered design, may furnish an address for service on Form DF1A.
 
 (3) Where a person has furnished an address for service under paragraph (1) or (2), he may substitute a new address for service by notifying the registrar on Form DF1A.
 
-(4)[^key-df7f3cd52b8380bd29528eb48c9b9557] An address for service furnished under this Rule shall be an address in the United Kingdom, Gibraltar[^key-548ef19d0f0637985081f5cd9201f8bb] or the Channel Islands.
+(4)[^c-df7f3cd52b8380bd29528eb48c9b9557] An address for service furnished under this Rule shall be an address in the United Kingdom, Gibraltar[^c-548ef19d0f0637985081f5cd9201f8bb] or the Channel Islands.
 
-(6)[^key-22bfbd90944e0cf4452e81df312e8799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-22bfbd90944e0cf4452e81df312e8799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 43. Failure to furnish an address for service
 
@@ -698,7 +698,7 @@ as the registrar may direct.
 
 the registrar shall direct that person to furnish an address for service.
 
-(2) Where a direction has been given under paragraph (1), the person directed shall, before the end of the period of 2 months beginning immediately after[^key-1e92e603d280c527fd43f18c6cb97757] the date of the direction, furnish an address for service.
+(2) Where a direction has been given under paragraph (1), the person directed shall, before the end of the period of 2 months beginning immediately after[^c-1e92e603d280c527fd43f18c6cb97757] the date of the direction, furnish an address for service.
 
 (3) Paragraph (4) applies where—
 
@@ -711,10 +711,10 @@ and the person has failed to furnish an address for service.
 
 - (a) in the case of an applicant for the registration of a design, the application shall be treated as withdrawn;
 - (b) in the case of a person applying under section 11ZB for a declaration of invalidity, his application shall be treated as withdrawn; and
-- (c) in the case of the proprietor who is opposing an application under section 11ZB, he shall be deemed to have withdrawn from the proceedings;[^key-bbf212a0610e886d86645d10b4194b82]
-- (d)[^key-d7caa1103e4c18d53d7c37774238ab77] in the case of a proprietor who sends a derogation notice to the registrar, the registrar must proceed as if the proprietor had not sent a derogation notice.
+- (c) in the case of the proprietor who is opposing an application under section 11ZB, he shall be deemed to have withdrawn from the proceedings;[^c-bbf212a0610e886d86645d10b4194b82]
+- (d)[^c-d7caa1103e4c18d53d7c37774238ab77] in the case of a proprietor who sends a derogation notice to the registrar, the registrar must proceed as if the proprietor had not sent a derogation notice.
 
-(5) In this rule an “**address for service**” means an address which complies with the requirements of rule 42(4) [^key-906e3adc7fce06a3e65d8e45730d153f]....
+(5) In this rule an “**address for service**” means an address which complies with the requirements of rule 42(4) [^c-906e3adc7fce06a3e65d8e45730d153f]....
 
 ### Miscellaneous
 
@@ -919,75 +919,75 @@ These Rules are made under the Registered Designs Act 1949 (c. 88). They regulat
 
 [^M_C_7f72302c-aaec-4ff2-ed02-5b6579ca3af2]: Modification: Rules applied (in part) (with modifications) by [The Designs (International Registration of Industrial Designs) Order 2018 (S.I. 2018/23)](https://www.legislation.gov.uk/uksi/2018/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/23/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/23/article/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/23/schedule/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2018/23/schedule/2)
 
-[^key-a9eb895928e01010330a5f3a513f6fa6]: Textual amendment: Rule 2A inserted (1.10.2014) by [The Registered Designs (Amendment) Rules 2014 (S.I. 2014/2405)](https://www.legislation.gov.uk/uksi/2014/2405), [rules 1](https://www.legislation.gov.uk/uksi/2014/2405/article/1), [3](https://www.legislation.gov.uk/uksi/2014/2405/article/3)
+[^c-a9eb895928e01010330a5f3a513f6fa6]: Textual amendment: Rule 2A inserted (1.10.2014) by [The Registered Designs (Amendment) Rules 2014 (S.I. 2014/2405)](https://www.legislation.gov.uk/uksi/2014/2405), [rules 1](https://www.legislation.gov.uk/uksi/2014/2405/article/1), [3](https://www.legislation.gov.uk/uksi/2014/2405/article/3)
 
-[^key-900ea1ef9bfa9c31450eca4bbe0d8f29]: Textual amendment: [Rule 2B](https://www.legislation.gov.uk/uksi/2006/1975/rule/2B) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-900ea1ef9bfa9c31450eca4bbe0d8f29]: Textual amendment: [Rule 2B](https://www.legislation.gov.uk/uksi/2006/1975/rule/2B) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7312727642e2e80641195ded85dac0d4]: Textual amendment: Words in rule 7(3) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-7312727642e2e80641195ded85dac0d4]: Textual amendment: Words in rule 7(3) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-27b39ecbab759fe3f835baa1eeaf63a6]: Textual amendment: Words in rule 7(7) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-27b39ecbab759fe3f835baa1eeaf63a6]: Textual amendment: Words in rule 7(7) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-8c78d7794530ce9245763fecb0a3026a]: Textual amendment: Words in rule 8(3) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+[^c-8c78d7794530ce9245763fecb0a3026a]: Textual amendment: Words in rule 8(3) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
 
 [^M_F_123a758e-8a5d-431c-d94c-c5f6354e0d73]: Textual amendment: Words in rule 9(2) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
 
-[^key-879e679c76b9f5b936017801811f0a07]: Textual amendment: Words in rule 10(1) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [7](https://www.legislation.gov.uk/uksi/2013/444/article/7), Sch. 2 (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-879e679c76b9f5b936017801811f0a07]: Textual amendment: Words in rule 10(1) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [7](https://www.legislation.gov.uk/uksi/2013/444/article/7), Sch. 2 (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-120a7eb44918c0ea2e4f2af8f6dea0ec]: Textual amendment: Words in rule 10(2) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [7](https://www.legislation.gov.uk/uksi/2013/444/article/7), Sch. 2 (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-120a7eb44918c0ea2e4f2af8f6dea0ec]: Textual amendment: Words in rule 10(2) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [7](https://www.legislation.gov.uk/uksi/2013/444/article/7), Sch. 2 (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-396a8374eeec509cc423d5816022932a]: Textual amendment: Words in rule 12(4) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+[^c-396a8374eeec509cc423d5816022932a]: Textual amendment: Words in rule 12(4) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
 
-[^key-a814c1f3c5d31d9c3fe2a5b2718e0a0d]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2006/1975/rule/13/2) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+[^c-a814c1f3c5d31d9c3fe2a5b2718e0a0d]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2006/1975/rule/13/2) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
 
-[^key-363db8b86d259a949b7f38e662991e9e]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2006/1975/rule/13/2) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/3/a) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-363db8b86d259a949b7f38e662991e9e]: Textual amendment: Words in [rule 13(2)](https://www.legislation.gov.uk/uksi/2006/1975/rule/13/2) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/3/a) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ec9b486944b9ba8d2db2df2182a184c1]: Textual amendment: [Rule 13(2A)](https://www.legislation.gov.uk/uksi/2006/1975/rule/13/2A) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec9b486944b9ba8d2db2df2182a184c1]: Textual amendment: [Rule 13(2A)](https://www.legislation.gov.uk/uksi/2006/1975/rule/13/2A) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e0181ac1740c172ba2094930af41d094]: Textual amendment: Words in rule 13(5) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [7](https://www.legislation.gov.uk/uksi/2013/444/article/7), Sch. 2 (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
+[^c-e0181ac1740c172ba2094930af41d094]: Textual amendment: Words in rule 13(5) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/article/1), [7](https://www.legislation.gov.uk/uksi/2013/444/article/7), Sch. 2 (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/article/8))
 
-[^key-815b8cd0c02faae67d6786b736d96d36]: Textual amendment: [Rule 15A](https://www.legislation.gov.uk/uksi/2006/1975/rule/15A) inserted by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 3A](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/3A) (as inserted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-815b8cd0c02faae67d6786b736d96d36]: Textual amendment: [Rule 15A](https://www.legislation.gov.uk/uksi/2006/1975/rule/15A) inserted by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 3A](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/3A) (as inserted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_C_2298a627-ff45-4e89-f253-6dbfdf0b2f68]: Modification: Rule 19 applied (6.4.2015) by [The Appointed Person (Designs) Rules 2015 (S.I. 2015/169)](https://www.legislation.gov.uk/uksi/2015/169), [rules 1](https://www.legislation.gov.uk/uksi/2015/169/rule/1), [7(4)](https://www.legislation.gov.uk/uksi/2015/169/rule/7/4)
 
 [^M_C_4a3f5eeb-c993-48c6-9811-e2df1a12edba]: Modification: Rule 20 applied (6.4.2015) by [The Appointed Person (Designs) Rules 2015 (S.I. 2015/169)](https://www.legislation.gov.uk/uksi/2015/169), [rules 1](https://www.legislation.gov.uk/uksi/2015/169/rule/1), [7(5)](https://www.legislation.gov.uk/uksi/2015/169/rule/7/5)
 
-[^key-8a8b212d3ba345d98597013f657c2af8]: Textual amendment: Rule 20(6) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 318](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/318)
+[^c-8a8b212d3ba345d98597013f657c2af8]: Textual amendment: Rule 20(6) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 318](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/318)
 
 [^M_C_3a0c853f-cab7-4643-b129-e7e8cae9abe0]: Modification: Rule 22 applied (6.4.2015) by [The Appointed Person (Designs) Rules 2015 (S.I. 2015/169)](https://www.legislation.gov.uk/uksi/2015/169), [rules 1](https://www.legislation.gov.uk/uksi/2015/169/rule/1), [7(4)](https://www.legislation.gov.uk/uksi/2015/169/rule/7/4)
 
-[^key-f8402db3dd80514caf3c795239f20e0b]: Textual amendment: [Rule 23](https://www.legislation.gov.uk/uksi/2006/1975/rule/23) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f8402db3dd80514caf3c795239f20e0b]: Textual amendment: [Rule 23](https://www.legislation.gov.uk/uksi/2006/1975/rule/23) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_C_4a269cea-c8d1-449d-e74b-bfe8bf5f7fbc]: Modification: Rule 24 applied (6.4.2015) by [The Appointed Person (Designs) Rules 2015 (S.I. 2015/169)](https://www.legislation.gov.uk/uksi/2015/169), [rules 1](https://www.legislation.gov.uk/uksi/2015/169/rule/1), [7(4)](https://www.legislation.gov.uk/uksi/2015/169/rule/7/4)
 
-[^key-32d2ce3459e5e75946b24a55638f3d59]: Textual amendment: [Rule 26(4)](https://www.legislation.gov.uk/uksi/2006/1975/rule/26/4) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32d2ce3459e5e75946b24a55638f3d59]: Textual amendment: [Rule 26(4)](https://www.legislation.gov.uk/uksi/2006/1975/rule/26/4) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-607f6fb995cfb4458f2fefa2a10b9bde]: Textual amendment: [Rule 27(1)(d)](https://www.legislation.gov.uk/uksi/2006/1975/rule/27/1/d): semicolon substituted for full stop (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-607f6fb995cfb4458f2fefa2a10b9bde]: Textual amendment: [Rule 27(1)(d)](https://www.legislation.gov.uk/uksi/2006/1975/rule/27/1/d): semicolon substituted for full stop (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d11c5c40c7dd53361db1b3259662354b]: Textual amendment: [Rule 27(1)(e)](https://www.legislation.gov.uk/uksi/2006/1975/rule/27/1/e) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/6/b) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d11c5c40c7dd53361db1b3259662354b]: Textual amendment: [Rule 27(1)(e)](https://www.legislation.gov.uk/uksi/2006/1975/rule/27/1/e) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/6/b) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fc1e27af0a2a8143ef606c031d492bae]: Textual amendment: Words in rule 29(2)(a) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+[^c-fc1e27af0a2a8143ef606c031d492bae]: Textual amendment: Words in rule 29(2)(a) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
 
-[^key-e1932f55f66306a35cf2b2025ed9e0ac]: Textual amendment: Words in rule 30(2)(a) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+[^c-e1932f55f66306a35cf2b2025ed9e0ac]: Textual amendment: Words in rule 30(2)(a) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
 
-[^key-47b8b7040c12e771114b4a984052624f]: Textual amendment: [Rule 33(3)](https://www.legislation.gov.uk/uksi/2006/1975/rule/33/3) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47b8b7040c12e771114b4a984052624f]: Textual amendment: [Rule 33(3)](https://www.legislation.gov.uk/uksi/2006/1975/rule/33/3) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-195e91bb32cbe0d54a1b328e66420bab]: Textual amendment: [Rule 42(1)(c)](https://www.legislation.gov.uk/uksi/2006/1975/rule/42/1/c): semicolon substituted for word by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 8(2)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/8/2) (as substituted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(d)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-195e91bb32cbe0d54a1b328e66420bab]: Textual amendment: [Rule 42(1)(c)](https://www.legislation.gov.uk/uksi/2006/1975/rule/42/1/c): semicolon substituted for word by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 8(2)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/8/2) (as substituted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(d)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ed83795f1d7011acab96b0a3418ed35]: Textual amendment: [Rule 42(1)(d)](https://www.legislation.gov.uk/uksi/2006/1975/rule/42/1/d) inserted by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/8/3) (as substituted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(d)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ed83795f1d7011acab96b0a3418ed35]: Textual amendment: [Rule 42(1)(d)](https://www.legislation.gov.uk/uksi/2006/1975/rule/42/1/d) inserted by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/8/3) (as substituted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(d)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df7f3cd52b8380bd29528eb48c9b9557]: Textual amendment: Rule 42(4) substituted for rule 42(4)(5) (6.4.2009) by [The Patents, Trade Marks and Designs (Address for Service) Rules 2009 (S.I. 2009/546)](https://www.legislation.gov.uk/uksi/2009/546), [rules 1](https://www.legislation.gov.uk/uksi/2009/546/rule/1), [6](https://www.legislation.gov.uk/uksi/2009/546/rule/6)
+[^c-df7f3cd52b8380bd29528eb48c9b9557]: Textual amendment: Rule 42(4) substituted for rule 42(4)(5) (6.4.2009) by [The Patents, Trade Marks and Designs (Address for Service) Rules 2009 (S.I. 2009/546)](https://www.legislation.gov.uk/uksi/2009/546), [rules 1](https://www.legislation.gov.uk/uksi/2009/546/rule/1), [6](https://www.legislation.gov.uk/uksi/2009/546/rule/6)
 
-[^key-548ef19d0f0637985081f5cd9201f8bb]: Textual amendment: Word in [rule 42(4)](https://www.legislation.gov.uk/uksi/2006/1975/rule/42/4) substituted (1.1.2021) by [The Patents, Trade Marks and Designs (Address for Service) (Amendment) (EU Exit) Rules 2020 (S.I. 2020/1317)](https://www.legislation.gov.uk/uksi/2020/1317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/1317/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1317/rule/4/a) (with [rules 6-8](https://www.legislation.gov.uk/uksi/2020/1317/rule/6))
+[^c-548ef19d0f0637985081f5cd9201f8bb]: Textual amendment: Word in [rule 42(4)](https://www.legislation.gov.uk/uksi/2006/1975/rule/42/4) substituted (1.1.2021) by [The Patents, Trade Marks and Designs (Address for Service) (Amendment) (EU Exit) Rules 2020 (S.I. 2020/1317)](https://www.legislation.gov.uk/uksi/2020/1317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/1317/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1317/rule/4/a) (with [rules 6-8](https://www.legislation.gov.uk/uksi/2020/1317/rule/6))
 
-[^key-22bfbd90944e0cf4452e81df312e8799]: Textual amendment: [Rule 42(6)](https://www.legislation.gov.uk/uksi/2006/1975/rule/42/6) omitted (1.1.2021) by virtue of [The Patents, Trade Marks and Designs (Address for Service) (Amendment) (EU Exit) Rules 2020 (S.I. 2020/1317)](https://www.legislation.gov.uk/uksi/2020/1317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/1317/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/1317/rule/4/b) (with [rules 6-8](https://www.legislation.gov.uk/uksi/2020/1317/rule/6))
+[^c-22bfbd90944e0cf4452e81df312e8799]: Textual amendment: [Rule 42(6)](https://www.legislation.gov.uk/uksi/2006/1975/rule/42/6) omitted (1.1.2021) by virtue of [The Patents, Trade Marks and Designs (Address for Service) (Amendment) (EU Exit) Rules 2020 (S.I. 2020/1317)](https://www.legislation.gov.uk/uksi/2020/1317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/1317/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/1317/rule/4/b) (with [rules 6-8](https://www.legislation.gov.uk/uksi/2020/1317/rule/6))
 
-[^key-1e92e603d280c527fd43f18c6cb97757]: Textual amendment: Words in rule 43(2) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
+[^c-1e92e603d280c527fd43f18c6cb97757]: Textual amendment: Words in rule 43(2) substituted (31.3.2013) by virtue of [The Trade Marks and Registered Designs (Amendment) Rules 2013 (S.I. 2013/444)](https://www.legislation.gov.uk/uksi/2013/444), [rules 1](https://www.legislation.gov.uk/uksi/2013/444/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/444/rule/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/444/schedule/2) (with [rule 8](https://www.legislation.gov.uk/uksi/2013/444/rule/8))
 
-[^key-bbf212a0610e886d86645d10b4194b82]: Textual amendment: [Rule 43(4)(c)](https://www.legislation.gov.uk/uksi/2006/1975/rule/43/4/c): semicolon substituted for word by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 9(2)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/9/2) (as inserted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(e)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/e)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bbf212a0610e886d86645d10b4194b82]: Textual amendment: [Rule 43(4)(c)](https://www.legislation.gov.uk/uksi/2006/1975/rule/43/4/c): semicolon substituted for word by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 9(2)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/9/2) (as inserted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(e)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/e)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d7caa1103e4c18d53d7c37774238ab77]: Textual amendment: [Rule 43(4)(d)](https://www.legislation.gov.uk/uksi/2006/1975/rule/43/4/d) inserted by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 9(3)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/9/3) (as inserted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(e)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/e)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d7caa1103e4c18d53d7c37774238ab77]: Textual amendment: [Rule 43(4)(d)](https://www.legislation.gov.uk/uksi/2006/1975/rule/43/4/d) inserted by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 6 para. 9(3)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/9/3) (as inserted by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(e)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/e)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-906e3adc7fce06a3e65d8e45730d153f]: Textual amendment: Words in rule 43(5) omitted (6.4.2009) by virtue of [The Patents, Trade Marks and Designs (Address for Service) Rules 2009 (S.I. 2009/546)](https://www.legislation.gov.uk/uksi/2009/546), [rules 1](https://www.legislation.gov.uk/uksi/2009/546/rule/1), [7](https://www.legislation.gov.uk/uksi/2009/546/rule/7)
+[^c-906e3adc7fce06a3e65d8e45730d153f]: Textual amendment: Words in rule 43(5) omitted (6.4.2009) by virtue of [The Patents, Trade Marks and Designs (Address for Service) Rules 2009 (S.I. 2009/546)](https://www.legislation.gov.uk/uksi/2009/546), [rules 1](https://www.legislation.gov.uk/uksi/2009/546/rule/1), [7](https://www.legislation.gov.uk/uksi/2009/546/rule/7)
 
 [^c16504701]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 

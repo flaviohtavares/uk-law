@@ -31,7 +31,7 @@ summary: ''
 
 COUNTRYSIDE, ENGLAND
 
-The Access to the Countryside (Maps in Draft Form) (England) Regulations 2001 (revoked)[^key-317d353a5a0401635f886803258f5293]
+The Access to the Countryside (Maps in Draft Form) (England) Regulations 2001 (revoked)[^c-317d353a5a0401635f886803258f5293]
 
 Made
 
@@ -45,86 +45,86 @@ Coming into force
 
 1st November 2001
 
-[^key-317d353a5a0401635f886803258f5293]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-317d353a5a0401635f886803258f5293]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-317d353a5a0401635f886803258f5293]
+## 1. Citation, commencement and extent[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-317d353a5a0401635f886803258f5293]
+## 2. Interpretation[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Preparation and scale of maps in draft form[^key-317d353a5a0401635f886803258f5293]
+## 3. Preparation and scale of maps in draft form[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consultation on maps in draft form[^key-317d353a5a0401635f886803258f5293]
+## 4. Consultation on maps in draft form[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Informing the public of the issue of maps in draft form[^key-317d353a5a0401635f886803258f5293]
+## 5. Informing the public of the issue of maps in draft form[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Where maps in draft form are to be available for inspection[^key-317d353a5a0401635f886803258f5293]
+## 6. Where maps in draft form are to be available for inspection[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Supply of reduced scale maps to members of the public[^key-317d353a5a0401635f886803258f5293]
+## 7. Supply of reduced scale maps to members of the public[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Reduced scale maps on the internet[^key-317d353a5a0401635f886803258f5293]
+## 8. Reduced scale maps on the internet[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Deposit of reduced scale maps with county councils, district councils, London borough councils and National Park authorities[^key-317d353a5a0401635f886803258f5293]
+## 9. Deposit of reduced scale maps with county councils, district councils, London borough councils and National Park authorities[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Deposit of reduced scale maps with library authorities[^key-317d353a5a0401635f886803258f5293]
+## 10. Deposit of reduced scale maps with library authorities[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Deposit of reduced scale maps with commons registration authorities[^key-317d353a5a0401635f886803258f5293]
+## 11. Deposit of reduced scale maps with commons registration authorities[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Representations on maps in draft form[^key-317d353a5a0401635f886803258f5293]
+## 12. Representations on maps in draft form[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Certification of copies of maps issued in draft form[^key-317d353a5a0401635f886803258f5293]
+## 13. Certification of copies of maps issued in draft form[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Maps in electronic form[^key-317d353a5a0401635f886803258f5293]
+## 14. Maps in electronic form[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-317d353a5a0401635f886803258f5293]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-317d353a5a0401635f886803258f5293]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PERSONS TO BE CONSULTED ON MAPS ISSUED IN DRAFT FORM[^key-317d353a5a0401635f886803258f5293]
+## SCHEDULE — PERSONS TO BE CONSULTED ON MAPS ISSUED IN DRAFT FORM[^c-317d353a5a0401635f886803258f5293]
 
 Regulation 4
 
-### PART 1 — PERSONS EXERCISING FUNCTIONS FOR A PARTICULAR AREA[^key-317d353a5a0401635f886803258f5293]
+### PART 1 — PERSONS EXERCISING FUNCTIONS FOR A PARTICULAR AREA[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — OTHER PERSONS[^key-317d353a5a0401635f886803258f5293]
+### PART 2 — OTHER PERSONS[^c-317d353a5a0401635f886803258f5293]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-317d353a5a0401635f886803258f5293]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-317d353a5a0401635f886803258f5293]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-317d353a5a0401635f886803258f5293]: Textual amendment: Regulations revoked (1.10.2013) by The Access to the [Countryside (Maps) (England) Regulations 2013 (S.I. 2013/1798)](https://www.legislation.gov.uk/uksi/2013/1798), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1798/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/1798/regulation/6/a)
+[^c-317d353a5a0401635f886803258f5293]: Textual amendment: Regulations revoked (1.10.2013) by The Access to the [Countryside (Maps) (England) Regulations 2013 (S.I. 2013/1798)](https://www.legislation.gov.uk/uksi/2013/1798), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1798/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/1798/regulation/6/a)

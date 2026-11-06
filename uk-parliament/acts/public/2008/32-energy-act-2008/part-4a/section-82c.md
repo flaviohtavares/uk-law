@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82C. Determination of applications for consent under section 82A[^key-c6edb742658f858855d9a38ca3936ae8]
+## 82C. Determination of applications for consent under section 82A[^c-c6edb742658f858855d9a38ca3936ae8]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6edb742658f858855d9a38ca3936ae8]: Textual amendment: Pt. 4A inserted (12.11.2009 for specified purposes, 6.4.2011 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/314/1), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [324(1)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/c)
+[^c-c6edb742658f858855d9a38ca3936ae8]: Textual amendment: Pt. 4A inserted (12.11.2009 for specified purposes, 6.4.2011 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/314/1), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [324(1)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/c)

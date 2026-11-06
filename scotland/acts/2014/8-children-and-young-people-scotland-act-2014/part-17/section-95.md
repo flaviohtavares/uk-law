@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Consideration of wellbeing in exercising certain functions[^key-48fcb5164a11e6e09517525026c0af76]
+## 95. Consideration of wellbeing in exercising certain functions[^c-48fcb5164a11e6e09517525026c0af76]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ After section 23 of the 1995 Act, insert—
 
 ## Annotations
 
-[^key-48fcb5164a11e6e09517525026c0af76]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2014/8/section/95) in force at 31.8.2016 by [S.S.I. 2016/60](https://www.legislation.gov.uk/ssi/2016/60), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/60/article/2/b)
+[^c-48fcb5164a11e6e09517525026c0af76]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2014/8/section/95) in force at 31.8.2016 by [S.S.I. 2016/60](https://www.legislation.gov.uk/ssi/2016/60), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/60/article/2/b)

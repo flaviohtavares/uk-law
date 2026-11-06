@@ -47,7 +47,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-8450acfd385c1f86bbff0ca5eb2a07dd]
+### 1. Citation, commencement and interpretation[^c-8450acfd385c1f86bbff0ca5eb2a07dd]
 
 (1) These Regulations may be cited as the Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations (Northern Ireland) 2006 and shall come into operation on 6th April 2006.
 
@@ -55,7 +55,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 ## PART 2 — DEFERRAL OF RETIREMENT PENSIONS AND SHARED ADDITIONAL PENSION
 
-### 2. Interpretation[^key-99173bf9b5275f34f50f56f7e38563a9]
+### 2. Interpretation[^c-99173bf9b5275f34f50f56f7e38563a9]
 
 (1) In this Part—
 
@@ -64,7 +64,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (2) In this Part, references to Schedule 5 and Schedule 5A are to Schedule 5 and Schedule 5A to the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
-### 3. Timing of election[^key-324ea3c6c9ca3fad79a8502c5d0945c9]
+### 3. Timing of election[^c-324ea3c6c9ca3fad79a8502c5d0945c9]
 
 (1) Subject to paragraph (4), the period for making an election under—
 
@@ -81,14 +81,14 @@ is 3 months beginning on the date shown on the notice issued by the Department f
 
 (5) Nothing in this regulation shall prevent the making of an election on or after claiming retirement pension or shared additional pension but before the issue of the notice referred to in paragraph (1) or (2).
 
-### 4. Manner of making election[^key-cc6f5d306b6756d1e9a35084b212a3bf]
+### 4. Manner of making election[^c-cc6f5d306b6756d1e9a35084b212a3bf]
 
 An election under paragraph A1(1) or 3C(2) of Schedule 5 or paragraph 1(1) of Schedule 5A may be made—
 
 - (a) in writing to an office specified by the Department for accepting such elections; or
 - (b) except where the Department directs in any particular case that the election must be made in accordance with paragraph (a), by telephone call to the telephone number specified by the Department.
 
-### 5. Change of election[^key-71f60471a7150cea834b9ba7ac17e8e9]
+### 5. Change of election[^c-71f60471a7150cea834b9ba7ac17e8e9]
 
 (1) Subject to paragraphs (2) and (6), this regulation applies in the case of an election which—
 
@@ -121,13 +121,13 @@ An election under paragraph A1(1) or 3C(2) of Schedule 5 or paragraph 1(1) of Sc
 - (a) in writing to an office specified by the Department for accepting such applications; or
 - (b) except where the Department directs in any particular case that the application must be made in accordance with sub-paragraph (a), by telephone call to the telephone number specified by the Department.
 
-### 6. Amendment of the Social Security (Retirement Pensions etc.) (Transitional Provisions) Regulations[^key-28b8a5bcf4ee4640419a53e50b1f78e2]
+### 6. Amendment of the Social Security (Retirement Pensions etc.) (Transitional Provisions) Regulations[^c-28b8a5bcf4ee4640419a53e50b1f78e2]
 
 In regulation 2(6) of the Social Security (Retirement Pensions etc.) (Transitional Provisions) Regulations (Northern Ireland) 2005[^f00014] (modification of Schedule 5 to the Act), sub-paragraph (a) shall be omitted.
 
 ## PART 3 — DEFERRAL OF GRADUATED RETIREMENT BENEFIT
 
-### 7. Amendment of the Social Security (Graduated Retirement Benefit) Regulations[^key-e958398442f59c3c91989f62f146bf2e]
+### 7. Amendment of the Social Security (Graduated Retirement Benefit) Regulations[^c-e958398442f59c3c91989f62f146bf2e]
 
 (1) The Social Security (Graduated Retirement Benefit) Regulations (Northern Ireland) 2005[^f00015] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -226,7 +226,7 @@ In regulation 2(6) of the Social Security (Retirement Pensions etc.) (Transition
 
 ## PART 4 — PAYMENTS
 
-### 8. Amendment of the Claims and Payments Regulations[^key-4398e4ef74ce43f12dfda698f4377806]
+### 8. Amendment of the Claims and Payments Regulations[^c-4398e4ef74ce43f12dfda698f4377806]
 
 In the Claims and Payments Regulations[^f00017] after regulation 21 (direct credit transfer) there shall be inserted the following regulation—
 
@@ -270,7 +270,7 @@ In the Claims and Payments Regulations[^f00017] after regulation 21 (direct cred
 
 ## PART 5 — DECISIONS
 
-### 9. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-5a60c0f8e54faf8588a3f9ea89d4fd5c]
+### 9. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-5a60c0f8e54faf8588a3f9ea89d4fd5c]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00024] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -346,7 +346,7 @@ In the Claims and Payments Regulations[^f00017] after regulation 21 (direct cred
 
 .
 
-### 10. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^key-45a9780c9cf5ac4ebdad2e7550e047bc]
+### 10. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^c-45a9780c9cf5ac4ebdad2e7550e047bc]
 
 (1) The Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^f00027] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -384,39 +384,39 @@ In the Claims and Payments Regulations[^f00017] after regulation 21 (direct cred
 
 ## PART 6 — AMENDMENT OF BENEFIT REGULATIONS
 
-### 11. Amendment of the Housing Benefit Regulations[^key-80ae34a29f72eaa499c0bd92dae4b1ce]
+### 11. Amendment of the Housing Benefit Regulations[^c-80ae34a29f72eaa499c0bd92dae4b1ce]
 
-(1)[^key-8f7eabf1133a7a3f48e52f269edc9e81] The Housing Benefit (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81][^f00031], as modified in their application to persons to whom regulation 2(1) of the Housing Benefit (State Pension Credit) Regulations (Northern Ireland) 2003 *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81][^f00032] applies, shall be amended in accordance with paragraphs (2) to (4). *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]
+(1)[^c-8f7eabf1133a7a3f48e52f269edc9e81] The Housing Benefit (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81][^f00031], as modified in their application to persons to whom regulation 2(1) of the Housing Benefit (State Pension Credit) Regulations (Northern Ireland) 2003 *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81][^f00032] applies, shall be amended in accordance with paragraphs (2) to (4). *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]
 
-(2) In regulation 2(1) (interpretation), after the definition of “the Fund” *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81][^f00033] there shall be inserted the following definition— *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]
+(2) In regulation 2(1) (interpretation), after the definition of “the Fund” *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81][^f00033] there shall be inserted the following definition— *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]
 
-> - “the *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81] Graduated Retirement Benefit Regulations *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]” means the Social Security (Graduated Retirement Benefit) Regulations (Northern Ireland) 2005; *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]
+> - “the *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81] Graduated Retirement Benefit Regulations *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]” means the Social Security (Graduated Retirement Benefit) Regulations (Northern Ireland) 2005; *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]
 
 .
 
-(3) In regulation 36 (notional income)— *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]
+(3) In regulation 36 (notional income)— *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]
 
-- (a) in paragraph (6), at the beginning there shall be inserted “Subject to paragraph (6A),”; *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]
-- (b) after paragraph (6) there shall be inserted the following paragraphs— *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]
+- (a) in paragraph (6), at the beginning there shall be inserted “Subject to paragraph (6A),”; *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]
+- (b) after paragraph (6) there shall be inserted the following paragraphs— *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]
 
-  > (6A) Paragraph (6) shall not apply in respect of the amount of an increase of pension or benefit where a person, having made an election in favour of that increase of pension or benefit under Schedule 5 or 5A to the Contributions and Benefits Act *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81][^f00034] or under Schedule 1 to the *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81] Graduated Retirement Benefit Regulations *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81], changes that election in accordance with regulations made under Schedule 5 or 5A to that Act in favour of a lump sum. *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]
+  > (6A) Paragraph (6) shall not apply in respect of the amount of an increase of pension or benefit where a person, having made an election in favour of that increase of pension or benefit under Schedule 5 or 5A to the Contributions and Benefits Act *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81][^f00034] or under Schedule 1 to the *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81] Graduated Retirement Benefit Regulations *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81], changes that election in accordance with regulations made under Schedule 5 or 5A to that Act in favour of a lump sum. *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]
   >
-  > (6B) In paragraph (6A), “lump sum” means a lump sum under Schedule 5 or 5A to the Contributions and Benefits Act or under Schedule 1 to the *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81] Graduated Retirement Benefit Regulations *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81].
+  > (6B) In paragraph (6A), “lump sum” means a lump sum under Schedule 5 or 5A to the Contributions and Benefits Act or under Schedule 1 to the *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81] Graduated Retirement Benefit Regulations *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81].
 
   .
 
-(4) In Schedule 5ZA *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81][^f00035] (capital to be disregarded), after paragraph 25A *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81][^f00036] there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]
+(4) In Schedule 5ZA *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81][^f00035] (capital to be disregarded), after paragraph 25A *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81][^f00036] there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]
 
-> **25B.** Where a person elects to be entitled to a lump sum under Schedule 5 or 5A to the Contributions and Benefits Act or under Schedule 1 to the *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81] Graduated Retirement Benefit Regulations *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81], or is treated as having made such an election, and a payment has been made pursuant to that election, an amount equal to— *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]
+> **25B.** Where a person elects to be entitled to a lump sum under Schedule 5 or 5A to the Contributions and Benefits Act or under Schedule 1 to the *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81] Graduated Retirement Benefit Regulations *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81], or is treated as having made such an election, and a payment has been made pursuant to that election, an amount equal to— *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]
 >
-> - (a) except where sub-paragraph (b) applies, the amount of any payment or payments made on account of that lump sum; *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]
-> - (b) the amount of that lump sum, *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]
+> - (a) except where sub-paragraph (b) applies, the amount of any payment or payments made on account of that lump sum; *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]
+> - (b) the amount of that lump sum, *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]
 >
-> but only for so long as that person does not change that election in favour of an increase of pension or benefit. *(affected by repeal, see note)*[^key-8f7eabf1133a7a3f48e52f269edc9e81]
+> but only for so long as that person does not change that election in favour of an increase of pension or benefit. *(affected by repeal, see note)*[^c-8f7eabf1133a7a3f48e52f269edc9e81]
 
 .
 
-### 12. Amendment of the State Pension Credit Regulations[^key-1c026508d32c213d3246484d898fd671]
+### 12. Amendment of the State Pension Credit Regulations[^c-1c026508d32c213d3246484d898fd671]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00037] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -506,35 +506,35 @@ In so far as these Regulations are required, for the purposes of regulations 10 
 
 [^f00009]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-8450acfd385c1f86bbff0ca5eb2a07dd]: Commencement: Reg. 1 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
+[^c-8450acfd385c1f86bbff0ca5eb2a07dd]: Commencement: Reg. 1 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 2005 No. 541](https://www.legislation.gov.uk/nisr/2005/541)
 
-[^key-99173bf9b5275f34f50f56f7e38563a9]: Commencement: Reg. 2 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
+[^c-99173bf9b5275f34f50f56f7e38563a9]: Commencement: Reg. 2 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
 
-[^key-324ea3c6c9ca3fad79a8502c5d0945c9]: Commencement: Reg. 3 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
+[^c-324ea3c6c9ca3fad79a8502c5d0945c9]: Commencement: Reg. 3 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
 
 [^f00011]: Footnote: “W” and “S” have the same meaning as in paragraph 3C of Schedule 5 to the Social Security Contribution and Benefits (Northern Ireland) Act 1992
 
-[^key-cc6f5d306b6756d1e9a35084b212a3bf]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
+[^c-cc6f5d306b6756d1e9a35084b212a3bf]: Commencement: Reg. 4 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
 
-[^key-71f60471a7150cea834b9ba7ac17e8e9]: Commencement: Reg. 5 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
+[^c-71f60471a7150cea834b9ba7ac17e8e9]: Commencement: Reg. 5 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
 
 [^f00012]: Footnote: Paragraphs (5A) to (5G) were substituted by regulation 3(b) of [S.R. 2005 No. 541](https://www.legislation.gov.uk/nisr/2005/541)
 
 [^f00013]: Footnote: Paragraphs 3A and 7A were inserted respectively by paragraphs 7(1) and 10(1) of Schedule 9 to the Pensions (Northern Ireland) Order 2005
 
-[^key-28b8a5bcf4ee4640419a53e50b1f78e2]: Commencement: Reg. 6 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
+[^c-28b8a5bcf4ee4640419a53e50b1f78e2]: Commencement: Reg. 6 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 2005 No. 123](https://www.legislation.gov.uk/nisr/2005/123)
 
-[^key-e958398442f59c3c91989f62f146bf2e]: Commencement: Reg. 7 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
+[^c-e958398442f59c3c91989f62f146bf2e]: Commencement: Reg. 7 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 2005 No. 121](https://www.legislation.gov.uk/nisr/2005/121) as amended by S.R [2005 No. 541](https://www.legislation.gov.uk/nisr/2005/541). Schedule 1 has effect by virtue of section 35(4) of the National Insurance Act (Northern Ireland) [1966 (c. 6 (N.I.))](https://www.legislation.gov.uk/apni/1966/6). Sections 35 and 36 were repealed by the Social Security Act [1973 (c. 38)](https://www.legislation.gov.uk/ukpga/1973/38) but are continued in force by regulation 2 of the Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978 ([S.R. 1978 No. 105](https://www.legislation.gov.uk/nisr/1978/105))
 
 [^f00016]: Footnote: Paragraphs 20A and 20B were inserted by regulation 4(10) of [S.R. 2005 No. 541](https://www.legislation.gov.uk/nisr/2005/541)
 
-[^key-4398e4ef74ce43f12dfda698f4377806]: Commencement: Reg. 8 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
+[^c-4398e4ef74ce43f12dfda698f4377806]: Commencement: Reg. 8 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
 
@@ -550,7 +550,7 @@ In so far as these Regulations are required, for the purposes of regulations 10 
 
 [^f00023]: Footnote: Regulation 30 was amended by regulation 3(6) of [S.R. 1988 No. 369](https://www.legislation.gov.uk/nisr/1988/369), regulation 7(5) of [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), regulation 15 of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), regulation 3(7) of [S.R. 1993 No. 375](https://www.legislation.gov.uk/nisr/1993/375), regulation 2(5) of [S.R. 1994 No. 345](https://www.legislation.gov.uk/nisr/1994/345), regulation 2(15) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), regulation 2(7) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365), regulation 2(7) of [S.R. 2002 No. 297](https://www.legislation.gov.uk/nisr/2002/297), [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and regulation 5(6) of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
 
-[^key-5a60c0f8e54faf8588a3f9ea89d4fd5c]: Commencement: Reg. 9 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
+[^c-5a60c0f8e54faf8588a3f9ea89d4fd5c]: Commencement: Reg. 9 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
 
 [^f00024]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
 
@@ -558,7 +558,7 @@ In so far as these Regulations are required, for the purposes of regulations 10 
 
 [^f00026]: Footnote: Sub-paragraph (m) was added by regulation 7(4)(a)(iii) of [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46)
 
-[^key-45a9780c9cf5ac4ebdad2e7550e047bc]: Commencement: Reg. 10 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
+[^c-45a9780c9cf5ac4ebdad2e7550e047bc]: Commencement: Reg. 10 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
 
 [^f00027]: Footnote: [S.R. 2001 No. 213](https://www.legislation.gov.uk/nisr/2001/213); relevant amending Regulations are [S.R. 2003 Nos. 224](https://www.legislation.gov.uk/nisr/2003/224) and [418](https://www.legislation.gov.uk/nisr/2003/418)
 
@@ -568,9 +568,9 @@ In so far as these Regulations are required, for the purposes of regulations 10 
 
 [^f00030]: Footnote: Paragraph (10) was inserted by regulation 4(3) of [S.R. 2003 No. 224](https://www.legislation.gov.uk/nisr/2003/224)
 
-[^key-80ae34a29f72eaa499c0bd92dae4b1ce]: Commencement: Reg. 11 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
+[^c-80ae34a29f72eaa499c0bd92dae4b1ce]: Commencement: Reg. 11 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
 
-[^key-8f7eabf1133a7a3f48e52f269edc9e81]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/104/regulation/11) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-8f7eabf1133a7a3f48e52f269edc9e81]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/104/regulation/11) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00031]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending Regulations are [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201) and [S.R. 2003 No. 197](https://www.legislation.gov.uk/nisr/2003/197)
 
@@ -584,6 +584,6 @@ In so far as these Regulations are required, for the purposes of regulations 10 
 
 [^f00036]: Footnote: Paragraph 25A was inserted by regulation 2(14) of [S.R. 2003 No. 418](https://www.legislation.gov.uk/nisr/2003/418)
 
-[^key-1c026508d32c213d3246484d898fd671]: Commencement: Reg. 12 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
+[^c-1c026508d32c213d3246484d898fd671]: Commencement: Reg. 12 in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/104/regulation/1/1)
 
 [^f00037]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28)

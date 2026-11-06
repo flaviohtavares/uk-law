@@ -33,74 +33,74 @@ of 16 February 2011
 
 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (revoked)
 
-[^key-34ec78e49d4b414c8cd1a125ee221e50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34ec78e49d4b414c8cd1a125ee221e50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject-matter[^key-34ec78e49d4b414c8cd1a125ee221e50]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Selection of procedures[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 1. Subject-matter[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Common provisions[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 2. Selection of procedures[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Advisory procedure[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 3. Common provisions[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Examination procedure[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 4. Advisory procedure[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Referral to the appeal committee[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 5. Examination procedure[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Adoption of implementing acts in exceptional cases[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 6. Referral to the appeal committee[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Immediately applicable implementing acts[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 7. Adoption of implementing acts in exceptional cases[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Rules of procedure[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 8. Immediately applicable implementing acts[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Information on committee proceedings[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 9. Rules of procedure[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Right of scrutiny for the European Parliament and the Council[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 10. Information on committee proceedings[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Repeal of Decision 1999/468/EC[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 11. Right of scrutiny for the European Parliament and the Council[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Transitional provisions: adaptation of existing basic acts[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 12. Repeal of Decision 1999/468/EC[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Transitional arrangement[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 13. Transitional provisions: adaptation of existing basic acts[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Review[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 14. Transitional arrangement[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Entry into force[^key-34ec78e49d4b414c8cd1a125ee221e50]
+## Article 15. Review[^c-34ec78e49d4b414c8cd1a125ee221e50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34ec78e49d4b414c8cd1a125ee221e50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 16. Entry into force[^c-34ec78e49d4b414c8cd1a125ee221e50]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-34ec78e49d4b414c8cd1a125ee221e50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-34ec78e49d4b414c8cd1a125ee221e50]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34ec78e49d4b414c8cd1a125ee221e50]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

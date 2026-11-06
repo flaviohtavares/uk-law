@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Amendment to regulation 53[^key-f2d6a18daa8318c05a7757376ceea488]
+## 40. Amendment to regulation 53[^c-f2d6a18daa8318c05a7757376ceea488]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 53(3) (application for UKMA(NI) relating to similar biological med
 
 ## Annotations
 
-[^key-f2d6a18daa8318c05a7757376ceea488]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2024/832/regulation/40) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-f2d6a18daa8318c05a7757376ceea488]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2024/832/regulation/40) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00051]: Footnote: Regulation 53 was substituted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

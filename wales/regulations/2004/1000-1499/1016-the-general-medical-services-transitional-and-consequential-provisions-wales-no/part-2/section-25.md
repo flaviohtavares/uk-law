@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Inquiries about prescriptions and referrals[^key-edc402510fc56589af62a38abad3822b]
+## 25. Inquiries about prescriptions and referrals[^c-edc402510fc56589af62a38abad3822b]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Where, on or before 31st March 2004, a relevant medical practitioner had receive
 
 ## Annotations
 
-[^key-edc402510fc56589af62a38abad3822b]: Commencement: Art. 25 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-edc402510fc56589af62a38abad3822b]: Commencement: Art. 25 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00034]: Footnote: Paragraph 49 was amended by [S.I. 2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).

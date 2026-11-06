@@ -22,11 +22,11 @@ summary: ''
 
 Section 43
 
-### 1. Introductory[^key-b7089bd6b04f91ee44affc89de8098a5][^key-871ac3289d036b298292cb420edbeac0]
+### 1. Introductory[^c-b7089bd6b04f91ee44affc89de8098a5][^c-871ac3289d036b298292cb420edbeac0]
 
 The Immigration and Asylum Act 1999 is amended as follows.
 
-### 2. Power to amend definition of “relevant matters”[^key-057c533175cfe253c5c9c05542bacd15][^key-c445361ed8bc4294829213e52be42233]
+### 2. Power to amend definition of “relevant matters”[^c-057c533175cfe253c5c9c05542bacd15][^c-c445361ed8bc4294829213e52be42233]
 
 In section 82 (interpretation of Part 5), after subsection (3) insert—
 
@@ -34,7 +34,7 @@ In section 82 (interpretation of Part 5), after subsection (3) insert—
 >
 > (5) Regulations under subsection (4) may make consequential amendments to this section.
 
-**3.**[^key-68f68c86ad547d1d5c51ec661177af15][^key-92cea553f0db6e46b3ed6ffa1c82e7a1] (1) In section 166(5) (regulations subject to the affirmative procedure), after paragraph (c) insert—
+**3.**[^c-68f68c86ad547d1d5c51ec661177af15][^c-92cea553f0db6e46b3ed6ffa1c82e7a1] (1) In section 166(5) (regulations subject to the affirmative procedure), after paragraph (c) insert—
 
 > - (cza) section 82(4),
 
@@ -42,13 +42,13 @@ In section 82 (interpretation of Part 5), after subsection (3) insert—
 
 (2) If sub-paragraph (1) comes into force before the coming into force of paragraph 24(2) of Schedule 11 to the Immigration Act 2016, sub-paragraph (1) has effect as if after “procedure),” there were inserted “omit the “or” at the end of paragraph (c) and”.
 
-### 4. Suspension etc of registration[^key-b00c34ce67f0fd47fee49c2270515f2e]
+### 4. Suspension etc of registration[^c-b00c34ce67f0fd47fee49c2270515f2e]
 
 **Not yet in force.**
 
 In section 84(3)(b) (effect of suspension of registration on person’s registration), for “4B(5)” substitute “4C(1)”.
 
-**5.**[^key-6eeaf6475015b6fad45cbe64532b84c6] (1) Section 87 (appeals to First-tier Tribunal) is amended as follows.
+**5.**[^c-6eeaf6475015b6fad45cbe64532b84c6] (1) Section 87 (appeals to First-tier Tribunal) is amended as follows.
 
 (2) After subsection (3A) insert—
 
@@ -79,7 +79,7 @@ In section 84(3)(b) (effect of suspension of registration on person’s registra
 > - (a) abuse of a procedure operating in the United Kingdom in connection with immigration or asylum (including any appellate or other judicial procedure), or
 > - (b) advice to any person to do something which would amount to such an abuse.
 
-**6.**[^key-2148b19b67bc70fdad32e6d0db6043f1] (1) Schedule 6 (registration) is amended as follows.
+**6.**[^c-2148b19b67bc70fdad32e6d0db6043f1] (1) Schedule 6 (registration) is amended as follows.
 
 (2) Before paragraph 4B (but after the italic heading before that paragraph) insert—
 
@@ -135,7 +135,7 @@ In section 84(3)(b) (effect of suspension of registration on person’s registra
 >
 > (3) Where a suspension under paragraph 4AA or 4B ceases to have effect (and the person’s registration is not cancelled) the Commissioner must as soon as reasonably practicable remove the record of suspension from the register.
 
-### 7. Provision of immigration advice or immigration services under supervision[^key-abea08ec57e9f73e1418b9967679ac69]
+### 7. Provision of immigration advice or immigration services under supervision[^c-abea08ec57e9f73e1418b9967679ac69]
 
 **Not yet in force.**
 
@@ -143,7 +143,7 @@ In section 84 (provision of immigration services), after subsection (3B) insert�
 
 > (3C) A person’s entitlement to provide immigration advice or immigration services by virtue of subsection (2)(e) is subject to section 84A and regulations under section 84B.
 
-**8.**[^key-86a856b8f77c489e2114711ed6f28793] After section 84 insert—
+**8.**[^c-86a856b8f77c489e2114711ed6f28793] After section 84 insert—
 
 > **84A. Limitations on acting under supervision: sanctions under this Part**
 >
@@ -228,7 +228,7 @@ In section 84 (provision of immigration services), after subsection (3B) insert�
 >   - (b) persons regulated by a designated qualifying regulator;
 > - “**relevant profession**” means a profession which is regulated by a designated professional body or a designated qualifying regulator.
 
-### 9. Monetary penalties[^key-ccd8f9c6d248c5d614abb6609022c6c1]
+### 9. Monetary penalties[^c-ccd8f9c6d248c5d614abb6609022c6c1]
 
 After section 92B insert—
 
@@ -362,7 +362,7 @@ After section 92B insert—
 >
 > A person who is required to pay a penalty under a penalty notice given under section 92C(5) (penalty in respect of offence under section 91 or 92B) may not at any time be convicted of an offence under section 91 or, as the case may be, 92B in respect of the act or omission in relation to which the notice was given.
 
-**10.**[^key-b8042181b83697f577bb62f3d2ec0cd6] (1) In section 166(5) (regulations subject to the affirmative procedure), after paragraph (cza) (as inserted by paragraph 3) insert—
+**10.**[^c-b8042181b83697f577bb62f3d2ec0cd6] (1) In section 166(5) (regulations subject to the affirmative procedure), after paragraph (cza) (as inserted by paragraph 3) insert—
 
 > - (czb) section 92C(3)(a) or (8),
 
@@ -370,7 +370,7 @@ After section 92B insert—
 
 (2) If sub-paragraph (1) comes into force before the coming into force of paragraph 24(2) of Schedule 11 to the Immigration Act 2016, paragraph 24(2) of that Schedule has effect on its coming into force as if for “for the “or” at the end of paragraph (c) substitute” there were substituted “after paragraph (czb) insert”.
 
-**11.**[^key-3de64d4e074fc2cc7c35b2727c659c2e] (1) Schedule 5 is amended as follows.
+**11.**[^c-3de64d4e074fc2cc7c35b2727c659c2e] (1) Schedule 5 is amended as follows.
 
 (2) In paragraph 6(3) (investigations under the complaints scheme), after paragraph (c) (and on a new line) insert—
 
@@ -380,7 +380,7 @@ After section 92B insert—
 
 > (See also section 92C (which confers a power to impose monetary penalties for breaching the Code or otherwise failing to comply with requirements imposed by or under this Part).)
 
-### 12. Fees[^key-91e1ffcbf6e508194613e903da99186a][^key-8b05e114cc380746530e605e433c75f6]
+### 12. Fees[^c-91e1ffcbf6e508194613e903da99186a][^c-8b05e114cc380746530e605e433c75f6]
 
 After section 93 insert—
 
@@ -411,11 +411,11 @@ After section 93 insert—
 >
 > (6) In this section “**registration**” means registration with the Commissioner under section 85.
 
-**13.**[^key-9d8f10a6ec6407194d1adaa9cc918e42][^key-21c45663ab05ece603e36c392e04de6e] In Schedule 6, for paragraph 5 substitute—
+**13.**[^c-9d8f10a6ec6407194d1adaa9cc918e42][^c-21c45663ab05ece603e36c392e04de6e] In Schedule 6, for paragraph 5 substitute—
 
 > **5.** No application under paragraph 1 or 3 is to be entertained by the Commissioner unless it is accompanied by the fee specified for that application by order under section 93A (but this is subject to any waiver in accordance with provision by virtue of subsection (2)(i) of that section).
 
-### 14. The complaints scheme[^key-0ae46cc2263069715f80074db973fbc5]
+### 14. The complaints scheme[^c-0ae46cc2263069715f80074db973fbc5]
 
 (1) Schedule 5 is amended as follows.
 
@@ -513,7 +513,7 @@ After section 93 insert—
 >   - (ii) in Scotland, the Court of Session or the sheriff;
 >   - (iii) in Northern Ireland, the High Court or a county court.
 
-**15.**[^key-f6e712c6314ce3643c9ed6dbfc178541] (1) In section 166(5) (regulations subject to the affirmative procedure), at the end of paragraph (d) insert
+**15.**[^c-f6e712c6314ce3643c9ed6dbfc178541] (1) In section 166(5) (regulations subject to the affirmative procedure), at the end of paragraph (d) insert
 
 > or
 >
@@ -525,15 +525,15 @@ After section 93 insert—
 
 (3) If sub-paragraph (1) comes into force at the same time as or after the coming into force of paragraph 24(2) of Schedule 11 to the Immigration Act 2016, omit the “or” at the end of section 166(5)(ca) of the Immigration and Asylum Act 1999 (as inserted by paragraph 24(2) of that Schedule).
 
-### 16. Appointment of Immigration Services Commissioner[^key-8c8048861de220f54a41cf89c7b44956]
+### 16. Appointment of Immigration Services Commissioner[^c-8c8048861de220f54a41cf89c7b44956]
 
 In Schedule 5, in paragraph 12(1)(a) (period of office) for “of five years” substitute “not exceeding five years”.
 
-### 17. Appointment of Deputy Immigration Services Commissioner[^key-88ab2a998a8f42e35bcea6e01b61e9e8]
+### 17. Appointment of Deputy Immigration Services Commissioner[^c-88ab2a998a8f42e35bcea6e01b61e9e8]
 
 In Schedule 5, in paragraph 16(1) (Deputy Commissioner) for “must” substitute “may”.
 
-### 18. Acting as Commissioner during vacancy etc[^key-d90bf8890f9848572fb2a0438c72a9ab]
+### 18. Acting as Commissioner during vacancy etc[^c-d90bf8890f9848572fb2a0438c72a9ab]
 
 In Schedule 5, after paragraph 17 insert—
 
@@ -548,48 +548,48 @@ In Schedule 5, after paragraph 17 insert—
 
 ## Annotations
 
-[^key-b7089bd6b04f91ee44affc89de8098a5]: Commencement: Sch. 1 para. 1 in force at Royal Assent for specified purposes, see [s. 65(3)(e)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/e)(f)
+[^c-b7089bd6b04f91ee44affc89de8098a5]: Commencement: Sch. 1 para. 1 in force at Royal Assent for specified purposes, see [s. 65(3)(e)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/e)(f)
 
-[^key-871ac3289d036b298292cb420edbeac0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/1) in force at 2.2.2026 for specified purposes by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/d)
+[^c-871ac3289d036b298292cb420edbeac0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/1) in force at 2.2.2026 for specified purposes by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/d)
 
-[^key-057c533175cfe253c5c9c05542bacd15]: Commencement: Sch. 1 para. 2 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-057c533175cfe253c5c9c05542bacd15]: Commencement: Sch. 1 para. 2 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-c445361ed8bc4294829213e52be42233]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/2) in force at 2.2.2026 in so far as not already in force by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(e)(i)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/e/i)
+[^c-c445361ed8bc4294829213e52be42233]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/2) in force at 2.2.2026 in so far as not already in force by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(e)(i)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/e/i)
 
-[^key-68f68c86ad547d1d5c51ec661177af15]: Commencement: Sch. 1 para. 3 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-68f68c86ad547d1d5c51ec661177af15]: Commencement: Sch. 1 para. 3 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-92cea553f0db6e46b3ed6ffa1c82e7a1]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/3) in force at 2.2.2026 in so far as not already in force by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(e)(i)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/e/i)
+[^c-92cea553f0db6e46b3ed6ffa1c82e7a1]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/3) in force at 2.2.2026 in so far as not already in force by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(e)(i)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/e/i)
 
-[^key-b00c34ce67f0fd47fee49c2270515f2e]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-b00c34ce67f0fd47fee49c2270515f2e]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-6eeaf6475015b6fad45cbe64532b84c6]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-6eeaf6475015b6fad45cbe64532b84c6]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-2148b19b67bc70fdad32e6d0db6043f1]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-2148b19b67bc70fdad32e6d0db6043f1]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-abea08ec57e9f73e1418b9967679ac69]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-abea08ec57e9f73e1418b9967679ac69]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-86a856b8f77c489e2114711ed6f28793]: Commencement: Sch. 1 para. 8 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-86a856b8f77c489e2114711ed6f28793]: Commencement: Sch. 1 para. 8 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-ccd8f9c6d248c5d614abb6609022c6c1]: Commencement: Sch. 1 para. 9 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-ccd8f9c6d248c5d614abb6609022c6c1]: Commencement: Sch. 1 para. 9 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-b8042181b83697f577bb62f3d2ec0cd6]: Commencement: Sch. 1 para. 10 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-b8042181b83697f577bb62f3d2ec0cd6]: Commencement: Sch. 1 para. 10 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-3de64d4e074fc2cc7c35b2727c659c2e]: Commencement: Sch. 1 para. 11 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-3de64d4e074fc2cc7c35b2727c659c2e]: Commencement: Sch. 1 para. 11 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-91e1ffcbf6e508194613e903da99186a]: Commencement: Sch. 1 para. 12 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-91e1ffcbf6e508194613e903da99186a]: Commencement: Sch. 1 para. 12 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-8b05e114cc380746530e605e433c75f6]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/12) in force at 2.2.2026 in so far as not already in force by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/e/ii)
+[^c-8b05e114cc380746530e605e433c75f6]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/12) in force at 2.2.2026 in so far as not already in force by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/e/ii)
 
-[^key-9d8f10a6ec6407194d1adaa9cc918e42]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-9d8f10a6ec6407194d1adaa9cc918e42]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-21c45663ab05ece603e36c392e04de6e]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/13) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/e/ii)
+[^c-21c45663ab05ece603e36c392e04de6e]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2025/31/schedule/1/paragraph/13) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/e/ii)
 
-[^key-0ae46cc2263069715f80074db973fbc5]: Commencement: Sch. 1 para. 14 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-0ae46cc2263069715f80074db973fbc5]: Commencement: Sch. 1 para. 14 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-f6e712c6314ce3643c9ed6dbfc178541]: Commencement: Sch. 1 para. 15 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-f6e712c6314ce3643c9ed6dbfc178541]: Commencement: Sch. 1 para. 15 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-8c8048861de220f54a41cf89c7b44956]: Commencement: Sch. 1 para. 16 in force at Royal Assent, see [s. 65(3)(e)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/e)
+[^c-8c8048861de220f54a41cf89c7b44956]: Commencement: Sch. 1 para. 16 in force at Royal Assent, see [s. 65(3)(e)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/e)
 
-[^key-88ab2a998a8f42e35bcea6e01b61e9e8]: Commencement: Sch. 1 para. 17 in force at Royal Assent, see [s. 65(3)(e)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/e)
+[^c-88ab2a998a8f42e35bcea6e01b61e9e8]: Commencement: Sch. 1 para. 17 in force at Royal Assent, see [s. 65(3)(e)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/e)
 
-[^key-d90bf8890f9848572fb2a0438c72a9ab]: Commencement: Sch. 1 para. 18 in force at Royal Assent, see [s. 65(3)(e)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/e)
+[^c-d90bf8890f9848572fb2a0438c72a9ab]: Commencement: Sch. 1 para. 18 in force at Royal Assent, see [s. 65(3)(e)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/e)

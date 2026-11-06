@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**25.**[^key-0dbfa015b81e2beb1ab92ab521e9bd14] The Chronically Sick and Disabled Persons Act 1970 is amended as follows.
+**25.**[^c-0dbfa015b81e2beb1ab92ab521e9bd14] The Chronically Sick and Disabled Persons Act 1970 is amended as follows.
 
 ## Annotations
 
-[^key-0dbfa015b81e2beb1ab92ab521e9bd14]: Commencement: Reg. 25 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-0dbfa015b81e2beb1ab92ab521e9bd14]: Commencement: Reg. 25 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

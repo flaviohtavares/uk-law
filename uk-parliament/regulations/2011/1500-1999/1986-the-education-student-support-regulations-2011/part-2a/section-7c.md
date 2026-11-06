@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7C. Restriction of designation of courses taught or delivered by franchised providers[^key-9290e5ec28838b5346be54dbe6f64ad7]
+## 7C. Restriction of designation of courses taught or delivered by franchised providers[^c-9290e5ec28838b5346be54dbe6f64ad7]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ unless that franchised provider is a qualifying franchised provider.
 
 ## Annotations
 
-[^key-9290e5ec28838b5346be54dbe6f64ad7]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2011/1986/part/2A) inserted (19.5.2026) by [The Education (Student Support) (Amendment) Regulations 2026 (S.I. 2026/459)](https://www.legislation.gov.uk/uksi/2026/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/459/regulation/6)
+[^c-9290e5ec28838b5346be54dbe6f64ad7]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2011/1986/part/2A) inserted (19.5.2026) by [The Education (Student Support) (Amendment) Regulations 2026 (S.I. 2026/459)](https://www.legislation.gov.uk/uksi/2026/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/459/regulation/6)

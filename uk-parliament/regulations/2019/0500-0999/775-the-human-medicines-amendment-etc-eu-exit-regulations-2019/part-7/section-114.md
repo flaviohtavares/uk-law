@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Amendment of regulation 128 (accompanying material)[^M_I_6fbc7ee7-8169-422c-a96d-e3ef1606ffe6][^key-dfca67c0bbf317ff65ff40db277a70fc]
+## 114. Amendment of regulation 128 (accompanying material)[^M_I_6fbc7ee7-8169-422c-a96d-e3ef1606ffe6][^c-dfca67c0bbf317ff65ff40db277a70fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^M_I_6fbc7ee7-8169-422c-a96d-e3ef1606ffe6]: Commencement: Reg. 114 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-dfca67c0bbf317ff65ff40db277a70fc]: Textual amendment: Reg. 114 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 85](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/85)
+[^c-dfca67c0bbf317ff65ff40db277a70fc]: Textual amendment: Reg. 114 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 85](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/85)

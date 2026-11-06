@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Procedure when refusing approval of proposed changes[^key-8e3368e1c486d4894e634c3a946db25a]
+## 22. Procedure when refusing approval of proposed changes[^c-8e3368e1c486d4894e634c3a946db25a]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e3368e1c486d4894e634c3a946db25a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2004/335/regulation/22) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-8e3368e1c486d4894e634c3a946db25a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2004/335/regulation/22) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Best value grant: communities[^key-9720b853c5aac058881726b65d51c099]
+## 35. Best value grant: communities[^c-9720b853c5aac058881726b65d51c099]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9720b853c5aac058881726b65d51c099]: Textual amendment: S. 35 repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/7/paragraph/3/2), [Sch. 18 Pt. 8](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/8); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/a/i)[(v)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/a/v)
+[^c-9720b853c5aac058881726b65d51c099]: Textual amendment: S. 35 repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/7/paragraph/3/2), [Sch. 18 Pt. 8](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/8); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/a/i)[(v)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/a/v)

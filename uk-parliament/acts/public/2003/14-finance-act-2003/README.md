@@ -35,7 +35,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 Most Gracious Sovereign,
 
-We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and to grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-3ffeb02d1438ca52de8074c4829abba2][^key-a8d4c027f1e18f85abb31c89ffb8e5ca][^key-80385168d3d34ee272fc668b1cbaed30]
+We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and to grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-3ffeb02d1438ca52de8074c4829abba2][^c-a8d4c027f1e18f85abb31c89ffb8e5ca][^c-80385168d3d34ee272fc668b1cbaed30]
 
 ## Contents
 
@@ -82,7 +82,7 @@ We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 22 — Non-business use of business property](part-2/section-22.md)
 - [Section 23 — Supply of electronic services in member States: special accounting scheme](part-2/section-23.md)
 
-### Part 3 — Taxes and duties on importation and exportation: penalties[^key-2aa33b44296caac0f00136612182ac47][^key-6d3fb379168fa318b8e49c16fb890824]
+### Part 3 — Taxes and duties on importation and exportation: penalties[^c-2aa33b44296caac0f00136612182ac47][^c-6d3fb379168fa318b8e49c16fb890824]
 
 *Extent: E+W+S+N.I.*
 
@@ -113,7 +113,7 @@ We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 31 — Time limits for demands for penalties](part-3/section-31.md)
 - [Section 32 — No prosecution after demand notice for penalty under section 26](part-3/section-32.md)
 
-#### Appeals and reviews[^key-87d444ab9f837506a33e12374c0a6daf]
+#### Appeals and reviews[^c-87d444ab9f837506a33e12374c0a6daf]
 
 *Extent: E+W+S+N.I.*
 
@@ -141,7 +141,7 @@ We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 40 — Penalties not to be deducted for income tax or corporation tax purposes](part-3/section-40.md)
 - [Section 41 — Regulations and orders](part-3/section-41.md)
 
-### Part 4 — Stamp duty land tax[^key-c35dfaa9b3608e2ec27bd625bae4ab46][^key-d1315efee4ea32abb6e5af69693fec67][^key-2345bf0c5dad9eaa04ad72cf54e9ec34][^key-990291befe4a1eb2acd8f4dc8ca19b3f][^key-fa6d4f9a013f788d94fcad7aa562b960][^key-7db3422404acc9cf0eb8e1d64b39fcf5][^key-567f3af7e8eff16a066d0a1e74d10f10][^key-63b5832859374a1bcee7249b0247f252]
+### Part 4 — Stamp duty land tax[^c-c35dfaa9b3608e2ec27bd625bae4ab46][^c-d1315efee4ea32abb6e5af69693fec67][^c-2345bf0c5dad9eaa04ad72cf54e9ec34][^c-990291befe4a1eb2acd8f4dc8ca19b3f][^c-fa6d4f9a013f788d94fcad7aa562b960][^c-7db3422404acc9cf0eb8e1d64b39fcf5][^c-567f3af7e8eff16a066d0a1e74d10f10][^c-63b5832859374a1bcee7249b0247f252]
 
 *Extent: E+W+S+N.I.*
 
@@ -222,11 +222,11 @@ We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 74 — Exercise of collective rights by tenants of flats](part-4/section-74.md)
 - [Section 75 — Crofting community right to buy](part-4/section-75.md)
 
-#### Increased rates for non-resident transactions[^key-e381cbd7572399b5098cbf7fc12a4c0a]
+#### Increased rates for non-resident transactions[^c-e381cbd7572399b5098cbf7fc12a4c0a]
 
 - [Section 75ZA — Increased rates for non-resident transactions](part-4/section-75za.md)
 
-#### Anti-avoidance[^key-e381cbd7572399b5098cbf7fc12a4c0a]
+#### Anti-avoidance[^c-e381cbd7572399b5098cbf7fc12a4c0a]
 
 - [Section 75A — Anti-avoidance](part-4/section-75a.md)
 - [Section 75B — Anti-avoidance: incidental transactions](part-4/section-75b.md)
@@ -541,32 +541,32 @@ SCHEDULES
 
 ## Annotations
 
-[^key-3ffeb02d1438ca52de8074c4829abba2]: Modification: Act modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+[^c-3ffeb02d1438ca52de8074c4829abba2]: Modification: Act modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-a8d4c027f1e18f85abb31c89ffb8e5ca]: Modification: Act applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-a8d4c027f1e18f85abb31c89ffb8e5ca]: Modification: Act applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-80385168d3d34ee272fc668b1cbaed30]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+[^c-80385168d3d34ee272fc668b1cbaed30]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
 
-[^key-2aa33b44296caac0f00136612182ac47]: Modification: Pt. 3 modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 158(7)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/158/7) (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/6) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642) [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
+[^c-2aa33b44296caac0f00136612182ac47]: Modification: Pt. 3 modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 158(7)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/158/7) (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/6) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642) [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
 
-[^key-6d3fb379168fa318b8e49c16fb890824]: Modification: Pt. 3 continued (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3/1/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6d3fb379168fa318b8e49c16fb890824]: Modification: Pt. 3 continued (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3/1/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-87d444ab9f837506a33e12374c0a6daf]: Textual amendment: S. 33 crossheading substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 362](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/362) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-87d444ab9f837506a33e12374c0a6daf]: Textual amendment: S. 33 crossheading substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 362](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/362) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-c35dfaa9b3608e2ec27bd625bae4ab46]: Modification: Pt. 4 construed as one with [S.I. 2006/575](https://www.legislation.gov.uk/uksi/2006/575), [reg. 43](https://www.legislation.gov.uk/uksi/2006/575/regulation/43/4) (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [43(4)](https://www.legislation.gov.uk/uksi/2006/575/regulation/43/4)
+[^c-c35dfaa9b3608e2ec27bd625bae4ab46]: Modification: Pt. 4 construed as one with [S.I. 2006/575](https://www.legislation.gov.uk/uksi/2006/575), [reg. 43](https://www.legislation.gov.uk/uksi/2006/575/regulation/43/4) (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [43(4)](https://www.legislation.gov.uk/uksi/2006/575/regulation/43/4)
 
-[^key-d1315efee4ea32abb6e5af69693fec67]: Modification: Pt. 4 modified (coming into force at 2 p.m. on 6.12.2006) by [The Stamp Duty Land Tax (Variation of the Finance Act 2003) Regulations 2006 (S.I. 2006/3237)](https://www.legislation.gov.uk/uksi/2006/3237), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3237/regulation/1), [2](https://www.legislation.gov.uk/uksi/2006/3237/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/3237/schedule)
+[^c-d1315efee4ea32abb6e5af69693fec67]: Modification: Pt. 4 modified (coming into force at 2 p.m. on 6.12.2006) by [The Stamp Duty Land Tax (Variation of the Finance Act 2003) Regulations 2006 (S.I. 2006/3237)](https://www.legislation.gov.uk/uksi/2006/3237), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3237/regulation/1), [2](https://www.legislation.gov.uk/uksi/2006/3237/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/3237/schedule)
 
-[^key-2345bf0c5dad9eaa04ad72cf54e9ec34]: Modification: Pt. 4 modified (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 194(8)-(12)](https://www.legislation.gov.uk/ukpga/2013/29/section/194/8)
+[^c-2345bf0c5dad9eaa04ad72cf54e9ec34]: Modification: Pt. 4 modified (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 194(8)-(12)](https://www.legislation.gov.uk/ukpga/2013/29/section/194/8)
 
-[^key-990291befe4a1eb2acd8f4dc8ca19b3f]: Modification: Pt. 4 applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [ss. 223(8)](https://www.legislation.gov.uk/ukpga/2014/26/section/223/8)[(9)(d)](https://www.legislation.gov.uk/ukpga/2014/26/section/223/9/d)
+[^c-990291befe4a1eb2acd8f4dc8ca19b3f]: Modification: Pt. 4 applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [ss. 223(8)](https://www.legislation.gov.uk/ukpga/2014/26/section/223/8)[(9)(d)](https://www.legislation.gov.uk/ukpga/2014/26/section/223/9/d)
 
-[^key-fa6d4f9a013f788d94fcad7aa562b960]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) modified (temp.) (22.7.2020) by [Stamp Duty Land Tax (Temporary Relief) Act 2020 (c. 15)](https://www.legislation.gov.uk/ukpga/2020/15), [s. 1](https://www.legislation.gov.uk/ukpga/2020/15/section/1) (as amended (10.6.2021) by [2021 c. 26](https://www.legislation.gov.uk/ukpga/2021/26), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/87/2))
+[^c-fa6d4f9a013f788d94fcad7aa562b960]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) modified (temp.) (22.7.2020) by [Stamp Duty Land Tax (Temporary Relief) Act 2020 (c. 15)](https://www.legislation.gov.uk/ukpga/2020/15), [s. 1](https://www.legislation.gov.uk/ukpga/2020/15/section/1) (as amended (10.6.2021) by [2021 c. 26](https://www.legislation.gov.uk/ukpga/2021/26), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/87/2))
 
-[^key-7db3422404acc9cf0eb8e1d64b39fcf5]: Modification: Pt. 4 modified (temp.) (10.6.2021) by 2020 c. 15, s. 1A (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 87(3)](https://www.legislation.gov.uk/ukpga/2021/26/section/87/3))
+[^c-7db3422404acc9cf0eb8e1d64b39fcf5]: Modification: Pt. 4 modified (temp.) (10.6.2021) by 2020 c. 15, s. 1A (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 87(3)](https://www.legislation.gov.uk/ukpga/2021/26/section/87/3))
 
-[^key-567f3af7e8eff16a066d0a1e74d10f10]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) applied (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/29/2)[(5)](https://www.legislation.gov.uk/uksi/2025/200/regulation/29/5) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-567f3af7e8eff16a066d0a1e74d10f10]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) applied (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/29/2)[(5)](https://www.legislation.gov.uk/uksi/2025/200/regulation/29/5) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-63b5832859374a1bcee7249b0247f252]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) modified (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2025/200/regulation/28), [30](https://www.legislation.gov.uk/uksi/2025/200/regulation/30) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-63b5832859374a1bcee7249b0247f252]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/14/part/4) modified (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2025/200/regulation/28), [30](https://www.legislation.gov.uk/uksi/2025/200/regulation/30) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-e381cbd7572399b5098cbf7fc12a4c0a]: Textual amendment: S. 75ZA and cross-heading inserted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/2) (with [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/6))
+[^c-e381cbd7572399b5098cbf7fc12a4c0a]: Textual amendment: S. 75ZA and cross-heading inserted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/2) (with [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/6))

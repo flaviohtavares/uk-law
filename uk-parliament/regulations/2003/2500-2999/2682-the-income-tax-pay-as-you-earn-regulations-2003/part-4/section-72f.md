@@ -27,7 +27,7 @@ summary: ''
 (3) A direction must be made by notice to both the employer and the employee, stating—
 
 - (a) the date the notice was issued;
-- (b)[^key-3f165a6ff1d4edd39bcea49319da9e56] the—
+- (b)[^c-3f165a6ff1d4edd39bcea49319da9e56] the—
   - (i) amount (or amounts) within regulation 72E(1)(b) to which it relates, or
   - (ii) employment in respect of which the relevant payment within regulation 72E(1)(a) was received and in respect of which the amount within regulation 72E(1)(b)(i) is likely to have been self-assessed, and
 - (c) which of conditions A, B and C in regulation 72E have been met.
@@ -42,4 +42,4 @@ summary: ''
 
 [^M_F_e5066a3d-bb59-4bf4-92c5-5a552d10c20a]: Textual amendment: Regs. 72E-72G inserted (6.4.2008) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2008 (S.I. 2008/782)](https://www.legislation.gov.uk/uksi/2008/782), [regs. 1](https://www.legislation.gov.uk/uksi/2008/782/regulation/1), [7](https://www.legislation.gov.uk/uksi/2008/782/regulation/7)
 
-[^key-3f165a6ff1d4edd39bcea49319da9e56]: Textual amendment: [Reg. 72F(3)(b)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72F/3/b) substituted (6.4.2014) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2014/472/regulation/9)
+[^c-3f165a6ff1d4edd39bcea49319da9e56]: Textual amendment: [Reg. 72F(3)(b)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72F/3/b) substituted (6.4.2014) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2014/472/regulation/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Enforcement[^key-e3ebe0671d1630b001006a34f6fb91fd]
+## 9. Enforcement[^c-e3ebe0671d1630b001006a34f6fb91fd]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Each district council shall enforce and execute these Regulations in its own dis
 
 ## Annotations
 
-[^key-e3ebe0671d1630b001006a34f6fb91fd]: Commencement: Reg. 9 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-e3ebe0671d1630b001006a34f6fb91fd]: Commencement: Reg. 9 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

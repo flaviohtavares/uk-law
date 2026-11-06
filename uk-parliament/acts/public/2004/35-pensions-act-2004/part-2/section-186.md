@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Interim payments[^key-d75d0a5ef33c666576bc164f868e6be0][^key-9f7630100fb0bee3a3dbda1545f54369][^key-85813573544152d94d8068f5d8d11a27][^M_I_b8ac3531-91d5-45da-acf7-6ac9bd27e16d][^key-9f7630100fb0bee3a3dbda1545f54369]
+## 186. Interim payments[^c-d75d0a5ef33c666576bc164f868e6be0][^c-9f7630100fb0bee3a3dbda1545f54369][^c-85813573544152d94d8068f5d8d11a27][^M_I_b8ac3531-91d5-45da-acf7-6ac9bd27e16d][^c-9f7630100fb0bee3a3dbda1545f54369]
 
 *Extent: E+W+S*
 
@@ -38,10 +38,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d75d0a5ef33c666576bc164f868e6be0]: Commencement: S. 186 in force at 1.9.2005 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/3/a)
+[^c-d75d0a5ef33c666576bc164f868e6be0]: Commencement: S. 186 in force at 1.9.2005 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/3/a)
 
-[^key-9f7630100fb0bee3a3dbda1545f54369]: Modification: Pt. 2 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
+[^c-9f7630100fb0bee3a3dbda1545f54369]: Modification: Pt. 2 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
 
-[^key-85813573544152d94d8068f5d8d11a27]: Modification: Ss. 182-187: power to modify conferred (5.9.2018 for specified purposes, 1.10.2018 so far as not already in force) by [Pension Schemes Act 2017 (c. 17)](https://www.legislation.gov.uk/ukpga/2017/17), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/36/1), [44(2)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/2); [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-85813573544152d94d8068f5d8d11a27]: Modification: Ss. 182-187: power to modify conferred (5.9.2018 for specified purposes, 1.10.2018 so far as not already in force) by [Pension Schemes Act 2017 (c. 17)](https://www.legislation.gov.uk/ukpga/2017/17), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/36/1), [44(2)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/2); [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
 [^M_I_b8ac3531-91d5-45da-acf7-6ac9bd27e16d]: Commencement: S. 186 in force at 12.7.2005 for specified purposes by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/3/a)

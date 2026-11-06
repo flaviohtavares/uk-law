@@ -38,7 +38,7 @@ Made
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 59(2) of the Planning etc. (Scotland) Act 2006[^f00001].
 
-## 1. Citation and interpretation[^key-7b2709dc6cd70dad72cbc15e1856c708]
+## 1. Citation and interpretation[^c-7b2709dc6cd70dad72cbc15e1856c708]
 
 (1) This Order may be cited as the Planning etc. (Scotland) Act 2006 (Commencement No. 10) Order 2010.
 
@@ -48,7 +48,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “the Act” means the Planning etc. (Scotland) Act 2006; and
 - “the Schedule” means the Schedule to this Order.
 
-## 2. Commencement – 26th November 2010[^key-a4ef00d0835f76ec62576c72d0cc4a03]
+## 2. Commencement – 26th November 2010[^c-a4ef00d0835f76ec62576c72d0cc4a03]
 
 (1) The provisions of the Act specified in paragraph (2), to the extent not already in force, come into force on 26th November 2010 for all purposes.
 
@@ -57,7 +57,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - (a) section 28(2)(c) (regulations relating to applications for consent under a tree preservation order); and
 - (b) section 50 (national scenic areas).
 
-## 3. Commencement – 1st February 2011[^key-150f017ea41a928ccbe8e9ca2b6deeaa]
+## 3. Commencement – 1st February 2011[^c-150f017ea41a928ccbe8e9ca2b6deeaa]
 
 (1) Subject to paragraph (2), the provisions of the Act specified in column 1 of the Schedule (and the subject matter of which is described in column 2 of the Schedule), to the extent not already in force on 1st February 2011, come into force on that date for all purposes.
 
@@ -73,7 +73,7 @@ Edinburgh
 
 11th November 2010
 
-## SCHEDULE[^key-c1a4b02c2e23e3e582774671e686a409]
+## SCHEDULE[^c-c1a4b02c2e23e3e582774671e686a409]
 
 Article 3
 
@@ -87,7 +87,7 @@ Article 3
 |  |  |  |
 | Section 28(1)(d), (2)(a) and (b) and (3) to (6) | Tree preservation orders |  |
 |  |  |  |
-| Section 54(11)(b)(ii), (17)(a)(iv) and (b) and (18)(b)(i)[^key-ecf3ff27813c65a42e6f0fc3f742547b] | Further amendment of the principal Act |  |
+| Section 54(11)(b)(ii), (17)(a)(iv) and (b) and (18)(b)(i)[^c-ecf3ff27813c65a42e6f0fc3f742547b] | Further amendment of the principal Act |  |
 |  |  |  |
 | Section 56 and the schedule | Repeals | For the purpose of the repeal of sections 163 and 252(2)(a) of the 1997 Act and the repeal of the word ‘other’ in section 252(2)(b) of the 1997 Act. |
 
@@ -142,14 +142,14 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00001]: Footnote: [2006 asp 17](https://www.legislation.gov.uk/asp/2006/17).
 
-[^key-7b2709dc6cd70dad72cbc15e1856c708]: Commencement: Art. 1 in force at made date
+[^c-7b2709dc6cd70dad72cbc15e1856c708]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8).
 
-[^key-a4ef00d0835f76ec62576c72d0cc4a03]: Commencement: Art. 2 in force at made date
+[^c-a4ef00d0835f76ec62576c72d0cc4a03]: Commencement: Art. 2 in force at made date
 
-[^key-150f017ea41a928ccbe8e9ca2b6deeaa]: Commencement: Art. 3 in force at made date
+[^c-150f017ea41a928ccbe8e9ca2b6deeaa]: Commencement: Art. 3 in force at made date
 
-[^key-c1a4b02c2e23e3e582774671e686a409]: Commencement: Sch. in force at made date
+[^c-c1a4b02c2e23e3e582774671e686a409]: Commencement: Sch. in force at made date
 
-[^key-ecf3ff27813c65a42e6f0fc3f742547b]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule) substituted (2.12.2010) by [The Planning etc. (Scotland) Act 2006 (Commencement No. 11) Order 2010 (S.S.I. 2010/430)](https://www.legislation.gov.uk/ssi/2010/430), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/430/article/3/2)
+[^c-ecf3ff27813c65a42e6f0fc3f742547b]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule) substituted (2.12.2010) by [The Planning etc. (Scotland) Act 2006 (Commencement No. 11) Order 2010 (S.S.I. 2010/430)](https://www.legislation.gov.uk/ssi/2010/430), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/430/article/3/2)

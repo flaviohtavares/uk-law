@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Membership and proceedings of panels[^key-bae3495590c878fdaf397d936f0b4894]
+## 37. Membership and proceedings of panels[^c-bae3495590c878fdaf397d936f0b4894]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bae3495590c878fdaf397d936f0b4894]: Commencement: S. 37 in force at 12.4.2015, see s. 52(2)(a)
+[^c-bae3495590c878fdaf397d936f0b4894]: Commencement: S. 37 in force at 12.4.2015, see s. 52(2)(a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — ENACTMENTS WHERE FOR “HEALTH AUTHORITY”, “DISTRICT HEALTH AUTHORITY”, “HEALTH AUTHORITIES” OR “HEALTH AUTHORITY'S” THERE IS SUBSTITUTED “PRIMARY CARE TRUST”, “PRIMARY CARE TRUSTS” OR “PRIMARY CARE TRUST'S”[^key-e7c5b56172ea77b7131b7f42e20bb9f4]
+## SCHEDULE 7 — ENACTMENTS WHERE FOR “HEALTH AUTHORITY”, “DISTRICT HEALTH AUTHORITY”, “HEALTH AUTHORITIES” OR “HEALTH AUTHORITY'S” THERE IS SUBSTITUTED “PRIMARY CARE TRUST”, “PRIMARY CARE TRUSTS” OR “PRIMARY CARE TRUST'S”[^c-e7c5b56172ea77b7131b7f42e20bb9f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ Regulation 10
 
 ## Annotations
 
-[^key-e7c5b56172ea77b7131b7f42e20bb9f4]: Commencement: Sch. 7 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-e7c5b56172ea77b7131b7f42e20bb9f4]: Commencement: Sch. 7 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00207]: Footnote: [S.I. 1982/286](https://www.legislation.gov.uk/uksi/1982/286).
 

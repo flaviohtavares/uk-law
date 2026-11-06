@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82A. Pharmaceutical needs assessments[^key-4aa56d83d563f23e46b4f145d28f7bb6]
+## 82A. Pharmaceutical needs assessments[^c-4aa56d83d563f23e46b4f145d28f7bb6]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4aa56d83d563f23e46b4f145d28f7bb6]: Textual amendment: S. 82A inserted (1.4.2019) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [ss. 111(1)](https://www.legislation.gov.uk/anaw/2017/2/section/111/1), [126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2); [S.I. 2019/829](https://www.legislation.gov.uk/wsi/2019/829), [art. 2](https://www.legislation.gov.uk/wsi/2019/829/article/2)
+[^c-4aa56d83d563f23e46b4f145d28f7bb6]: Textual amendment: S. 82A inserted (1.4.2019) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [ss. 111(1)](https://www.legislation.gov.uk/anaw/2017/2/section/111/1), [126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2); [S.I. 2019/829](https://www.legislation.gov.uk/wsi/2019/829), [art. 2](https://www.legislation.gov.uk/wsi/2019/829/article/2)

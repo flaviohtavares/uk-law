@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Driving tests[^key-f0e4adbb21531b3033a27a275d76fb17]
+## 36. Driving tests[^c-f0e4adbb21531b3033a27a275d76fb17]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0e4adbb21531b3033a27a275d76fb17]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2006/49/section/36) in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/237/article/2/b)
+[^c-f0e4adbb21531b3033a27a275d76fb17]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2006/49/section/36) in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/237/article/2/b)

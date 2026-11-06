@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**2A.**[^M_C_bfaf98de-1816-4253-910b-1aa0e7118925][^key-9fadd6a7859e8a3c3468d41634441782] (1) In this Order “ **regulated airport** ” means an airport in respect of which a certificate has been granted under this Article (and has not been withdrawn).
+**2A.**[^M_C_bfaf98de-1816-4253-910b-1aa0e7118925][^c-9fadd6a7859e8a3c3468d41634441782] (1) In this Order “ **regulated airport** ” means an airport in respect of which a certificate has been granted under this Article (and has not been withdrawn).
 
 (2) The CAA must grant a certificate under this Article in respect of an airport if, but only if—
 
@@ -55,4 +55,4 @@ summary: ''
 
 [^M_C_bfaf98de-1816-4253-910b-1aa0e7118925]: Modification: Art. 2A power to modify conferred (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/11) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-9fadd6a7859e8a3c3468d41634441782]: Textual amendment: Art. 2A and cross-heading inserted (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/8) (with [Sch. 8 paras. 10](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/10), [12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [15](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/15), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-9fadd6a7859e8a3c3468d41634441782]: Textual amendment: Art. 2A and cross-heading inserted (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/8) (with [Sch. 8 paras. 10](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/10), [12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [15](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/15), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

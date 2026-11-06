@@ -37,7 +37,7 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 49(1) and (2) of the Sentencing Act 2026[^f00001].
 
-## 1. Citation and interpretation[^key-3390e550a5f8bb2f0c73f4e8d7a9bcfc]
+## 1. Citation and interpretation[^c-3390e550a5f8bb2f0c73f4e8d7a9bcfc]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (2) In these Regulations, “**the Act**” means the Sentencing Act 2026.
 
-## 2. Extent[^key-ed56859835f7a4b01aa3351e8365f551]
+## 2. Extent[^c-ed56859835f7a4b01aa3351e8365f551]
 
 *Extent: E+W*
 
@@ -55,9 +55,9 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) Regulations 3(e) and 4(b) extend to England and Wales, Scotland, Northern Ireland, the Isle of Man and the British overseas territories, except Gibraltar.
 
-## 3. Provisions coming into force on 1st October 2026[^key-3b3c1ca77242c1fb050d053eabe78b52][^key-cce341db86b75961b2bd739100833ff0]
+## 3. Provisions coming into force on 1st October 2026[^c-3b3c1ca77242c1fb050d053eabe78b52][^c-cce341db86b75961b2bd739100833ff0]
 
-The following provisions of the Act come into force on 1st October[^key-88f868208c028f98a5c4f3be01e7a737] 2026—
+The following provisions of the Act come into force on 1st October[^c-88f868208c028f98a5c4f3be01e7a737] 2026—
 
 *Extent: E+W*
 
@@ -86,7 +86,7 @@ The following provisions of the Act come into force on 1st October[^key-88f86820
 
 - (i) section 27 (licence conditions).
 
-## 4. Provisions coming into force on 5th October 2026[^key-4ddf9a796123a9630e073f5f96e521d3]
+## 4. Provisions coming into force on 5th October 2026[^c-4ddf9a796123a9630e073f5f96e521d3]
 
 The following provisions of the Act come into force on 5th October 2026—
 
@@ -95,7 +95,7 @@ The following provisions of the Act come into force on 5th October 2026—
 - (a) section 6(1) (finding of domestic abuse);
 - (b) section 6(2) (finding of domestic abuse in the service justice system).
 
-## 5. Provisions coming into force on 18th January 2027[^key-a3c74a6524c268e5be1db81b37b17951]
+## 5. Provisions coming into force on 18th January 2027[^c-a3c74a6524c268e5be1db81b37b17951]
 
 *Extent: E+W*
 
@@ -160,16 +160,16 @@ The following provisions of the Sentencing Act 2026 have been brought into force
 
 [^f00001]: Footnote: [2026 c. 2](https://www.legislation.gov.uk/ukpga/2026/2).
 
-[^key-3390e550a5f8bb2f0c73f4e8d7a9bcfc]: Commencement: Reg. 1 in force at made date
+[^c-3390e550a5f8bb2f0c73f4e8d7a9bcfc]: Commencement: Reg. 1 in force at made date
 
-[^key-ed56859835f7a4b01aa3351e8365f551]: Commencement: Reg. 2 in force at made date
+[^c-ed56859835f7a4b01aa3351e8365f551]: Commencement: Reg. 2 in force at made date
 
-[^key-3b3c1ca77242c1fb050d053eabe78b52]: Commencement: Reg. 3 in force at made date
+[^c-3b3c1ca77242c1fb050d053eabe78b52]: Commencement: Reg. 3 in force at made date
 
-[^key-cce341db86b75961b2bd739100833ff0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2026/772/regulation/3) heading substituted (1.9.2026) by [The Sentencing Act 2026 (Commencement No. 5) (Amendment) Regulations 2026 (S.I. 2026/948)](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/948/regulation/2/2)
+[^c-cce341db86b75961b2bd739100833ff0]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2026/772/regulation/3) heading substituted (1.9.2026) by [The Sentencing Act 2026 (Commencement No. 5) (Amendment) Regulations 2026 (S.I. 2026/948)](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/948/regulation/2/2)
 
-[^key-88f868208c028f98a5c4f3be01e7a737]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2026/772/regulation/3) substituted (1.9.2026) by [The Sentencing Act 2026 (Commencement No. 5) (Amendment) Regulations 2026 (S.I. 2026/948)](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/948/regulation/2/2)
+[^c-88f868208c028f98a5c4f3be01e7a737]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2026/772/regulation/3) substituted (1.9.2026) by [The Sentencing Act 2026 (Commencement No. 5) (Amendment) Regulations 2026 (S.I. 2026/948)](https://www.legislation.gov.uk/uksi/2026/948), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/948/regulation/2/2)
 
-[^key-4ddf9a796123a9630e073f5f96e521d3]: Commencement: Reg. 4 in force at made date
+[^c-4ddf9a796123a9630e073f5f96e521d3]: Commencement: Reg. 4 in force at made date
 
-[^key-a3c74a6524c268e5be1db81b37b17951]: Commencement: Reg. 5 in force at made date
+[^c-a3c74a6524c268e5be1db81b37b17951]: Commencement: Reg. 5 in force at made date

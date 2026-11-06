@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Meaning of “owner”, determination of liability etc.[^key-9b84ffafe5ddadc3a901eefb4167e8fd]
+## 28. Meaning of “owner”, determination of liability etc.[^c-9b84ffafe5ddadc3a901eefb4167e8fd]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b84ffafe5ddadc3a901eefb4167e8fd]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2004/11/section/28) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-9b84ffafe5ddadc3a901eefb4167e8fd]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2004/11/section/28) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

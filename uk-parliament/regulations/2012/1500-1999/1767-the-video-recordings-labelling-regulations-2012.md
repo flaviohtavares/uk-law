@@ -147,19 +147,19 @@ The “Explanatory Statement” is the following—
 - (a) With respect to a classification certificate containing a statement described in section 7(2)(a) of the Act that the video work concerned is suitable for general viewing and unrestricted supply without any advice of a kind mentioned in that section, the capital letter “U”.
 - (b) With respect to a classification certificate containing a statement described in section 7(2)(a) of the Act with advice as to the desirability of parental guidance with regard to the viewing of the work by young children, the capital letters “PG”.
 - (c) With respect to a classification certificate containing a statement described in section 7(2)(b) of the Act without the other statement mentioned in section 7(2)(c) of the Act, the age (in numbers) specified in the certificate.
-- (d) With respect to a classification certificate containing the statements described in section 7(2)(c) of the Act, [^key-a7447eae36606b3dceb81c436d77e070]... the age (in numbers) specified in the certificate after a capital letter “R”.
+- (d) With respect to a classification certificate containing the statements described in section 7(2)(c) of the Act, [^c-a7447eae36606b3dceb81c436d77e070]... the age (in numbers) specified in the certificate after a capital letter “R”.
 
 (2) In the case of a double-sided disc “the classification symbol” is the symbol specified within paragraphs (1)(a) to (d) above, with respect to the classification certificate referred to in those paragraphs, but with the letters “UK” in capitals inserted immediately before it.
 
 ## 13.
 
-(1) Except in the case of a double-sided disc, “the classification symbol” must be of a minimum height of 4 millimetres[^key-28c3e9a127f074e8ae8d6242c55e39e9] and is required to be shown in the following manner—
+(1) Except in the case of a double-sided disc, “the classification symbol” must be of a minimum height of 4 millimetres[^c-28c3e9a127f074e8ae8d6242c55e39e9] and is required to be shown in the following manner—
 
 - (a) in the case of the symbol described in regulation 12(1)(a) it must be black or white, and set on a green coloured triangular shaped background;
 - (b) in the case of the symbol described in regulation 12(1)(b) it must be black or white, and set on a yellow coloured triangular shaped background;
 - (c) in the case of the symbol described in regulation 12(1)(c)—
   - (i) where the age specified in the classification certificate is 18 years, it must be black or white, and set on a red coloured circular shaped background;
-  - (ii)[^key-c27ccd30abf86f6233a464906c8fb0d3] where the age specified in the classification certificate is less than 18 years but is 15 years or above, it must be white and set on a pink coloured circular shaped background
+  - (ii)[^c-c27ccd30abf86f6233a464906c8fb0d3] where the age specified in the classification certificate is less than 18 years but is 15 years or above, it must be white and set on a pink coloured circular shaped background
   - (iii) where the age specified in the classification certificate is less than 15 years but is 12 years or above, it must be white and set on an orange coloured circular shaped background;
 - (d) in the case of the symbol described in regulation 12(1)(d) it must be black or white, and set on a blue coloured rectangular shaped background.
 
@@ -249,10 +249,10 @@ An Explanatory Memorandum is published alongside these Regulations on www.legisl
 
 [^c21306801]: Marginal citation: [1984 c.39](https://www.legislation.gov.uk/ukpga/1984/39). as amended by the [Video Recordings Act 1993 (c.24)](https://www.legislation.gov.uk/ukpga/1993/24), the [Criminal Justice and Public Order Act 1994 (c.33) and the Digital Economy Act 2010 (c.24)](https://www.legislation.gov.uk/ukpga/2010/24); and as repealed and revived by the [Video Recordings Act 2010 (c.1)](https://www.legislation.gov.uk/ukpga/2010/1).
 
-[^key-a7447eae36606b3dceb81c436d77e070]: Textual amendment: Words in reg. 12(1)(d) omitted (6.4.2020) by virtue of [The Video Recordings (Labelling) (Amendment) Regulations 2020 (S.I. 2020/187)](https://www.legislation.gov.uk/uksi/2020/187), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/187/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/187/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/187/regulation/3))
+[^c-a7447eae36606b3dceb81c436d77e070]: Textual amendment: Words in reg. 12(1)(d) omitted (6.4.2020) by virtue of [The Video Recordings (Labelling) (Amendment) Regulations 2020 (S.I. 2020/187)](https://www.legislation.gov.uk/uksi/2020/187), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/187/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/187/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/187/regulation/3))
 
-[^key-28c3e9a127f074e8ae8d6242c55e39e9]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2012/1767/regulation/13/1) substituted (6.4.2020) by [The Video Recordings (Labelling) (Amendment) Regulations 2020 (S.I. 2020/187)](https://www.legislation.gov.uk/uksi/2020/187), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/187/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/187/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/187/regulation/3))
+[^c-28c3e9a127f074e8ae8d6242c55e39e9]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2012/1767/regulation/13/1) substituted (6.4.2020) by [The Video Recordings (Labelling) (Amendment) Regulations 2020 (S.I. 2020/187)](https://www.legislation.gov.uk/uksi/2020/187), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/187/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/187/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/187/regulation/3))
 
-[^key-c27ccd30abf86f6233a464906c8fb0d3]: Textual amendment: [Reg. 13(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/1767/regulation/13/1/c/ii)[(iii)](https://www.legislation.gov.uk/uksi/2012/1767/regulation/13/1/c/iii) substituted for [reg. 13(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/1767/regulation/13/1/c/ii) (6.4.2020) by [The Video Recordings (Labelling) (Amendment) Regulations 2020 (S.I. 2020/187)](https://www.legislation.gov.uk/uksi/2020/187), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/187/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/187/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/187/regulation/3))
+[^c-c27ccd30abf86f6233a464906c8fb0d3]: Textual amendment: [Reg. 13(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/1767/regulation/13/1/c/ii)[(iii)](https://www.legislation.gov.uk/uksi/2012/1767/regulation/13/1/c/iii) substituted for [reg. 13(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/1767/regulation/13/1/c/ii) (6.4.2020) by [The Video Recordings (Labelling) (Amendment) Regulations 2020 (S.I. 2020/187)](https://www.legislation.gov.uk/uksi/2020/187), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/187/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/187/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/187/regulation/3))
 
 [^c21306811]: Marginal citation: [S.I. 2010/115](https://www.legislation.gov.uk/uksi/2010/115).

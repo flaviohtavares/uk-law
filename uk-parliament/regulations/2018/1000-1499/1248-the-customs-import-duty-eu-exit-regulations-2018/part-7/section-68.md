@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Interest payable by HMRC[^key-8541071626a0374f9dd2814cb700e6b2][^key-302606d159bff3b39c5b1dbf0584ce62][^key-806ea56ba6fed7aeaf9bcd0baf723099][^key-302606d159bff3b39c5b1dbf0584ce62]
+## 68. Interest payable by HMRC[^c-8541071626a0374f9dd2814cb700e6b2][^c-302606d159bff3b39c5b1dbf0584ce62][^c-806ea56ba6fed7aeaf9bcd0baf723099][^c-302606d159bff3b39c5b1dbf0584ce62]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,10 +36,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8541071626a0374f9dd2814cb700e6b2]: Commencement: Reg. 68 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-8541071626a0374f9dd2814cb700e6b2]: Commencement: Reg. 68 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-806ea56ba6fed7aeaf9bcd0baf723099]: Modification: [Regs. 68-70](https://www.legislation.gov.uk/uksi/2018/1248/regulation/68) applied (with modifications) (24.12.2024) by [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [reg. 32A](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32A) (as inserted by [The Customs (Miscellaneous Amendments) (No. 3) Regulations 2024 (S.I. 2024/1265)](https://www.legislation.gov.uk/uksi/2024/1265), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1265/regulation/1), [6](https://www.legislation.gov.uk/uksi/2024/1265/regulation/6))
+[^c-806ea56ba6fed7aeaf9bcd0baf723099]: Modification: [Regs. 68-70](https://www.legislation.gov.uk/uksi/2018/1248/regulation/68) applied (with modifications) (24.12.2024) by [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [reg. 32A](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32A) (as inserted by [The Customs (Miscellaneous Amendments) (No. 3) Regulations 2024 (S.I. 2024/1265)](https://www.legislation.gov.uk/uksi/2024/1265), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1265/regulation/1), [6](https://www.legislation.gov.uk/uksi/2024/1265/regulation/6))
 
 [^c23522051]: Marginal citation: [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8). At the time these Regulations are made, the rate is provided by regulation 5(1)(e) of [S.I. 1998/1461](https://www.legislation.gov.uk/uksi/1998/1461) as 5% per annum. Regulation 5 was substituted by [S.I. 2001/631](https://www.legislation.gov.uk/uksi/2001/631) and regulation 5(1)(e) amended by [S.I. 2003/230](https://www.legislation.gov.uk/uksi/2003/230).

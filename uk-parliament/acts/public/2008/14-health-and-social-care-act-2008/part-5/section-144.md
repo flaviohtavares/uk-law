@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Weighing and measuring of children: Wales[^c1942121][^key-937f383e0a03f88611de6b0873e74d4a]
+## 144. Weighing and measuring of children: Wales[^c1942121][^c-937f383e0a03f88611de6b0873e74d4a]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ In Schedule 1 to the National Health Service (Wales) Act 2006 (c. 42) (further p
 
 > **7A. Weighing and measuring of children**
 >
-> (1) The Welsh Ministers may, by arrangement with any local authority[^key-399310e8945cef02dd3aeabb9868405d], provide for the weighing and measuring of junior pupils in attendance at any school which is maintained by the authority.
+> (1) The Welsh Ministers may, by arrangement with any local authority[^c-399310e8945cef02dd3aeabb9868405d], provide for the weighing and measuring of junior pupils in attendance at any school which is maintained by the authority.
 >
 > (2) The Welsh Ministers may, by arrangement with the proprietor of any school which is not maintained by a local authority, provide for the weighing and measuring of junior pupils in attendance at that school.
 >
@@ -49,6 +49,6 @@ In Schedule 1 to the National Health Service (Wales) Act 2006 (c. 42) (further p
 
 [^c1942121]: Commencement: S. 144 partly in force; s. 144 in force for specified purposes at Royal Assent, see s. 170
 
-[^key-937f383e0a03f88611de6b0873e74d4a]: Commencement: S. 144 in force at 1.8.2011 in so far as not already in force by [S.I. 2011/986](https://www.legislation.gov.uk/wsi/2011/986), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/986/article/2/2)
+[^c-937f383e0a03f88611de6b0873e74d4a]: Commencement: S. 144 in force at 1.8.2011 in so far as not already in force by [S.I. 2011/986](https://www.legislation.gov.uk/wsi/2011/986), [art. 2(2)](https://www.legislation.gov.uk/wsi/2011/986/article/2/2)
 
-[^key-399310e8945cef02dd3aeabb9868405d]: Textual amendment: Words in s. 144 substituted (5.5.2010) by [The Local Education Authorities and Children'€™s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/64)
+[^c-399310e8945cef02dd3aeabb9868405d]: Textual amendment: Words in s. 144 substituted (5.5.2010) by [The Local Education Authorities and Children'€™s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/64)

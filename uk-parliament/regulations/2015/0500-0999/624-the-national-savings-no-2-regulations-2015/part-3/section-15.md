@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Keeping of the register[^key-b7c3b53b9d3ba21fbfd42defe236a3ee]
+## 15. Keeping of the register[^c-b7c3b53b9d3ba21fbfd42defe236a3ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7c3b53b9d3ba21fbfd42defe236a3ee]: Commencement: Reg. 15 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-b7c3b53b9d3ba21fbfd42defe236a3ee]: Commencement: Reg. 15 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

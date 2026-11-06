@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Nuclear site health and safety purposes[^key-67d466c12eeebec7c3240222c81229df]
+## 69. Nuclear site health and safety purposes[^c-67d466c12eeebec7c3240222c81229df]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67d466c12eeebec7c3240222c81229df]: Commencement: S. 69 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-67d466c12eeebec7c3240222c81229df]: Commencement: S. 69 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

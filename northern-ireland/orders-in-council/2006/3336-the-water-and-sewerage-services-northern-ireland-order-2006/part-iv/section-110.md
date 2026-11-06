@@ -32,10 +32,10 @@ summary: ''
 - (a) had no reasonable grounds for suspecting that the water would be used for human consumption; or
 - (b) took all reasonable steps and exercised all due diligence for securing that the water was fit for human consumption on leaving its pipes or was not used for human consumption.
 
-(4) Proceedings for an offence under this Article shall not be instituted except by DOE[^key-620dd5a26ba3bfb525fe83a0e723a800] or the Director of Public Prosecutions for Northern Ireland.
+(4) Proceedings for an offence under this Article shall not be instituted except by DOE[^c-620dd5a26ba3bfb525fe83a0e723a800] or the Director of Public Prosecutions for Northern Ireland.
 
 ## Annotations
 
 [^c20596491]: Commencement: Art. 110 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-620dd5a26ba3bfb525fe83a0e723a800]: Textual amendment: Word in [art. 110(4)](https://www.legislation.gov.uk/nisi/2006/3336/article/110/4) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(7)](https://www.legislation.gov.uk/nia/2016/13/section/19/7), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(1) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
+[^c-620dd5a26ba3bfb525fe83a0e723a800]: Textual amendment: Word in [art. 110(4)](https://www.legislation.gov.uk/nisi/2006/3336/article/110/4) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(7)](https://www.legislation.gov.uk/nia/2016/13/section/19/7), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(1) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))

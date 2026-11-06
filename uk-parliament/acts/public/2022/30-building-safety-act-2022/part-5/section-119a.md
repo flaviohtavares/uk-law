@@ -59,7 +59,7 @@ summary: ''
 
 (8) Where a dwelling is at any time on or after 14 February 2022 let under two or more leases to which subsection (1)(a) and (b) apply, any of the leases which is superior to any of the other leases is not a connected replacement lease.
 
-(9) For the purposes of sections 122 to 124[^key-b406126418140a794b48ed73798cf022] and Schedule 8, all of the leases in a chain of qualifying leases are to be treated as a single qualifying lease which has a term that—
+(9) For the purposes of sections 122 to 124[^c-b406126418140a794b48ed73798cf022] and Schedule 8, all of the leases in a chain of qualifying leases are to be treated as a single qualifying lease which has a term that—
 
 - (a) began when the term of the initial qualifying lease in that chain began, and
 - (b) ends when the term of the current connected replacement lease in that chain ends.
@@ -100,4 +100,4 @@ summary: ''
 
 [^M_F_49437a57-2edb-4602-b3df-7658f6ea8bbc]: Textual amendment: S. 119A inserted (retrospectively) by [Levelling-Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 243(3)(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/243/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-b406126418140a794b48ed73798cf022]: Textual amendment: Word in [s. 119A(9)](https://www.legislation.gov.uk/ukpga/2022/30/section/119A/9) substituted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(2)(e)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/2/e), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)
+[^c-b406126418140a794b48ed73798cf022]: Textual amendment: Word in [s. 119A(9)](https://www.legislation.gov.uk/ukpga/2022/30/section/119A/9) substituted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(2)(e)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/2/e), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)

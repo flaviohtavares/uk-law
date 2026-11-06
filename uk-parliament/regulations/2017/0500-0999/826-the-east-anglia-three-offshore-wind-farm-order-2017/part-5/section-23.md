@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Temporary use of land for carrying out the authorised project[^key-91c0615cd2376212c7f9a26b7412a425]
+## 23. Temporary use of land for carrying out the authorised project[^c-91c0615cd2376212c7f9a26b7412a425]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (4) Before giving up possession of land of which temporary possession has been taken under this article, the undertaker must remove all temporary works and restore the land to the reasonable satisfaction of the owners of the land; but the undertaker is not required to replace a building removed under this article.
 
-(5) The undertaker must pay compensation to the owners and occupiers of land of which temporary possession is taken[^key-20f4a46ef89ec99a204c8801c60e6c86] under this article for any loss or damage arising from the exercise in relation to the land of the provisions of any power conferred by this article.
+(5) The undertaker must pay compensation to the owners and occupiers of land of which temporary possession is taken[^c-20f4a46ef89ec99a204c8801c60e6c86] under this article for any loss or damage arising from the exercise in relation to the land of the provisions of any power conferred by this article.
 
 (6) Any dispute as to a person’s entitlement to compensation under paragraph (5), or as to the amount of the compensation, must be determined under Part 1 of the 1961 Act.
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91c0615cd2376212c7f9a26b7412a425]: Commencement: Art. 23 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-91c0615cd2376212c7f9a26b7412a425]: Commencement: Art. 23 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-20f4a46ef89ec99a204c8801c60e6c86]: Textual amendment: Words in art. 23(5) substituted (13.7.2018) by [The East Anglia THREE Offshore Wind Farm (Correction) Order 2018 (S.I. 2018/843)](https://www.legislation.gov.uk/uksi/2018/843), [art. 1](https://www.legislation.gov.uk/uksi/2018/843/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/843/schedule)
+[^c-20f4a46ef89ec99a204c8801c60e6c86]: Textual amendment: Words in art. 23(5) substituted (13.7.2018) by [The East Anglia THREE Offshore Wind Farm (Correction) Order 2018 (S.I. 2018/843)](https://www.legislation.gov.uk/uksi/2018/843), [art. 1](https://www.legislation.gov.uk/uksi/2018/843/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/843/schedule)

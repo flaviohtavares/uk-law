@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Power of the Secretary of State to protect others[^key-b3fbc5e1c0613631e012f393e22a254e][^key-b86d08ceb1a489fa7d7fe02fb2289366]
+## 39. Power of the Secretary of State to protect others[^c-b3fbc5e1c0613631e012f393e22a254e][^c-b86d08ceb1a489fa7d7fe02fb2289366]
 
 *Extent: E+W*
 
@@ -69,6 +69,6 @@ but regulations under this section may make provision corresponding to the provi
 
 ## Annotations
 
-[^key-b3fbc5e1c0613631e012f393e22a254e]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-b3fbc5e1c0613631e012f393e22a254e]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-b86d08ceb1a489fa7d7fe02fb2289366]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/26/section/39) in force at 1.5.2026 in so far as not already in force by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)
+[^c-b86d08ceb1a489fa7d7fe02fb2289366]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/26/section/39) in force at 1.5.2026 in so far as not already in force by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)

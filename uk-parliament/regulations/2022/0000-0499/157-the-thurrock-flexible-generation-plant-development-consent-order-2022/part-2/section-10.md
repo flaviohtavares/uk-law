@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Disapplication of legislation etc.[^key-5a41a6c5a940f8547ed516cc40d2ef69]
+## 10. Disapplication of legislation etc.[^c-5a41a6c5a940f8547ed516cc40d2ef69]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ is not to be regarded as conflicting, or constituting non-compliance by Port of 
 
 ## Annotations
 
-[^key-5a41a6c5a940f8547ed516cc40d2ef69]: Commencement: Art. 10 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-5a41a6c5a940f8547ed516cc40d2ef69]: Commencement: Art. 10 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
 
 [^f00020]: Footnote: [1893 c. 102](https://www.legislation.gov.uk/ukpga/1893/102).
 

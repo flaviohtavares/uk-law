@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Determination of suitability required for new owner[^key-68b0c2b92b5c37c385e9d8c5336bd043][^key-128873300f6427790564db7edcc537ac]
+## 28. Determination of suitability required for new owner[^c-68b0c2b92b5c37c385e9d8c5336bd043][^c-128873300f6427790564db7edcc537ac]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68b0c2b92b5c37c385e9d8c5336bd043]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-68b0c2b92b5c37c385e9d8c5336bd043]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-128873300f6427790564db7edcc537ac]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2025/21/section/28) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/ii)
+[^c-128873300f6427790564db7edcc537ac]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2025/21/section/28) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/ii)

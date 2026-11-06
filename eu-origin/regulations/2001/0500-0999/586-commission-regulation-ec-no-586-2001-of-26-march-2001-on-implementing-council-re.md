@@ -34,34 +34,34 @@ of 26 March 2001
 
 on implementing Council Regulation (EC) No 1165/98 concerning short-term statistics as regards the definition of Main Industrial Groupings (MIGS) (revoked)
 
-[^key-2b3d20d296dedceed96cdca80c7d2229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b3d20d296dedceed96cdca80c7d2229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definition of Main Industrial Groupings (MIGS)[^key-2b3d20d296dedceed96cdca80c7d2229]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Non-availability of data on NACE Rev. 2 Group level[^key-2b3d20d296dedceed96cdca80c7d2229]
+## Article 1. Definition of Main Industrial Groupings (MIGS)[^c-2b3d20d296dedceed96cdca80c7d2229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Implementation of the definitions[^key-2b3d20d296dedceed96cdca80c7d2229]
+## Article 2. Non-availability of data on NACE Rev. 2 Group level[^c-2b3d20d296dedceed96cdca80c7d2229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Information on conformance to the definitions[^key-2b3d20d296dedceed96cdca80c7d2229]
+## Article 3. Implementation of the definitions[^c-2b3d20d296dedceed96cdca80c7d2229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-2b3d20d296dedceed96cdca80c7d2229]
+## Article 4. Information on conformance to the definitions[^c-2b3d20d296dedceed96cdca80c7d2229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b3d20d296dedceed96cdca80c7d2229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force[^c-2b3d20d296dedceed96cdca80c7d2229]
 
-## ANNEX[^key-2b3d20d296dedceed96cdca80c7d2229]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2b3d20d296dedceed96cdca80c7d2229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-2b3d20d296dedceed96cdca80c7d2229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b3d20d296dedceed96cdca80c7d2229]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b3d20d296dedceed96cdca80c7d2229]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

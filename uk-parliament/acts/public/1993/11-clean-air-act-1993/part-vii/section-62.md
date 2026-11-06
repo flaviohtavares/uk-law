@@ -52,7 +52,7 @@ section 305 (protection of members and officers of local authorities from person
   - (i) in the [^c10491451]Public Health (Scotland) Act 1897, section 161 (joint owners) and section 164 (compensation); and
   - (ii) in the [^c10491461]Housing (Scotland) Act 1987, section 131 and Schedule 9 (charging orders), section 319 (penalty for preventing execution of works), section 325 (furnishing information for service of documents), section 329 (default powers), section 330 (form of notices) and section 336 (limitation on liability of trustee);
 - (b) for the purposes of the application of section 329 of the Housing (Scotland) Act 1987 by virtue of paragraph (a) above, subsections (1) and (3) of section 196 of the [^c10491471]Housing (Scotland) Act 1966 shall apply to section 329 as they originally applied to the provisions which it re-enacted;
-- (c)[^key-c8ac7fc27c62b8af927a02717b8258eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+- (c)[^c-c8ac7fc27c62b8af927a02717b8258eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
 - (d) section 319 of that Act (penalty for preventing execution of works) shall have effect as if subsection (1) of that section included a reference to this Act (apart from Parts IV and V) and as if sub-paragraphs (b) and (c) were omitted.
 
 ## Annotations
@@ -67,4 +67,4 @@ section 305 (protection of members and officers of local authorities from person
 
 [^c10491471]: Marginal citation: [1966 c. 49](https://www.legislation.gov.uk/ukpga/1966/49).
 
-[^key-c8ac7fc27c62b8af927a02717b8258eb]: Textual amendment: S. 62(2)(c) repealed (S.) (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-c8ac7fc27c62b8af927a02717b8258eb]: Textual amendment: S. 62(2)(c) repealed (S.) (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

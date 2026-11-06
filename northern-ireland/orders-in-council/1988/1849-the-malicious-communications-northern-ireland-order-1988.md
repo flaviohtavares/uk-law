@@ -47,13 +47,13 @@ The Interpretation Act (Northern Ireland) 1954[^c547124] shall apply to Articles
 
 - (a) a letter or other article which conveys—
   - (i) a message which is indecent or grossly offensive;
-  - (ii)[^key-7891182d0a38d06662b89789e1baa4eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iii)[^key-73d9be6abb441e6e96c082a4a1873e1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-7891182d0a38d06662b89789e1baa4eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-73d9be6abb441e6e96c082a4a1873e1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any other article which is, in whole or part, of an indecent or grossly offensive nature,
 
 is guilty of an offence if his purpose, or one of his purposes, in sending it is that it should, so far as falling within sub‐paragraph ( *a)* or ( *b),* cause distress or anxiety to the recipient or to any other person to whom he intends that it or its contents or nature should be communicated.
 
-(2)[^key-ee7f74b0666bb2e2627840babd99056e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ee7f74b0666bb2e2627840babd99056e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this Article references to sending include references to delivering and to causing to be sent or delivered.
 
@@ -63,8 +63,8 @@ is guilty of an offence if his purpose, or one of his purposes, in sending it is
 
 [^c547124]: Textual amendment: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-7891182d0a38d06662b89789e1baa4eb]: Textual amendment: [Art. 3(1)(a)(ii)](https://www.legislation.gov.uk/nisi/1988/1849/article/3/1/a/ii) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 189(3)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/189/3/a), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-7891182d0a38d06662b89789e1baa4eb]: Textual amendment: [Art. 3(1)(a)(ii)](https://www.legislation.gov.uk/nisi/1988/1849/article/3/1/a/ii) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 189(3)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/189/3/a), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
-[^key-73d9be6abb441e6e96c082a4a1873e1e]: Textual amendment: [Art. 3(1)(a)(iii)](https://www.legislation.gov.uk/nisi/1988/1849/article/3/1/a/iii) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 189(3)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/189/3/b), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-73d9be6abb441e6e96c082a4a1873e1e]: Textual amendment: [Art. 3(1)(a)(iii)](https://www.legislation.gov.uk/nisi/1988/1849/article/3/1/a/iii) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 189(3)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/189/3/b), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
-[^key-ee7f74b0666bb2e2627840babd99056e]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/nisi/1988/1849/article/3/2) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 189(3)(c)](https://www.legislation.gov.uk/ukpga/2023/50/section/189/3/c), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-ee7f74b0666bb2e2627840babd99056e]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/nisi/1988/1849/article/3/2) repealed (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 189(3)(c)](https://www.legislation.gov.uk/ukpga/2023/50/section/189/3/c), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

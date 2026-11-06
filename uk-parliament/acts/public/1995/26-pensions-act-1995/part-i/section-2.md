@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Reports to Secretary of State.[^key-bc05f5a31aa49711d4c10af1681cf755]
+## 2. Reports to Secretary of State.[^c-bc05f5a31aa49711d4c10af1681cf755]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc05f5a31aa49711d4c10af1681cf755]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1995/26/section/2) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1) (with [arts.](https://www.legislation.gov.uk/uksi/2005/695/article), [4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3))
+[^c-bc05f5a31aa49711d4c10af1681cf755]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1995/26/section/2) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1) (with [arts.](https://www.legislation.gov.uk/uksi/2005/695/article), [4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3))

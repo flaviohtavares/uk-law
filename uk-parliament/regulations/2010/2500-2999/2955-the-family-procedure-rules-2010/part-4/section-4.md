@@ -28,7 +28,7 @@ summary: ''
 
 - (a) extend or shorten the time for compliance with any rule, practice direction or court order (even if an application for extension is made after the time for compliance has expired);
 - (b) make such order for disclosure and inspection, including specific disclosure of documents, as it thinks fit;
-- (bb)[^key-41722bce08d087893ce21eb82923d166] direct that any proceedings in the High Court be heard by a Divisional Court of the High Court;
+- (bb)[^c-41722bce08d087893ce21eb82923d166] direct that any proceedings in the High Court be heard by a Divisional Court of the High Court;
 - (c) adjourn or bring forward a hearing;
 - (d) require a party or a party's legal representative to attend the court;
 - (e) hold a hearing and receive evidence by telephone or by using any other method of direct oral communication;
@@ -45,14 +45,14 @@ summary: ''
 
 (Rule 21.1 explains what is meant by disclosure and inspection.)
 
-(Rule 37.15(6)(b) makes specific provision in relation to Divisional Courts.)[^key-0480b5a6c97172f263dd7c9d02d8b279]
+(Rule 37.15(6)(b) makes specific provision in relation to Divisional Courts.)[^c-0480b5a6c97172f263dd7c9d02d8b279]
 
 (4) When the court makes an order, it may—
 
 - (a) make it subject to conditions, including a condition to pay a sum of money into court; and
 - (b) specify the consequence of failure to comply with the order or a condition.
 
-(4A)[^key-b1c523b5397d5f5860f7f71876ad1178] Where the court has made a direction in accordance with paragraph (3)(bb) the proceedings shall be heard by a Divisional Court of the High Court and not by a single judge.
+(4A)[^c-b1c523b5397d5f5860f7f71876ad1178] Where the court has made a direction in accordance with paragraph (3)(bb) the proceedings shall be heard by a Divisional Court of the High Court and not by a single judge.
 
 (5) Where the court gives directions it will take into account whether or not a party has complied with any relevant pre-action protocol<sup>(GL)</sup>.
 
@@ -63,7 +63,7 @@ summary: ''
 - (a) requiring or permitting directions to be given by the court is to be taken as including provision for such directions to be varied or revoked; and
 - (b) requiring or permitting a date to be set is to be taken as including provision for that date to be changed or cancelled.
 
-(8) The court may not extend the period within which an application for[^key-a7e4a394e3ca7cd7975a76f2a9a9f553] a section 89 order must be made.
+(8) The court may not extend the period within which an application for[^c-a7e4a394e3ca7cd7975a76f2a9a9f553] a section 89 order must be made.
 
 ## 4.2. Court officer's power to refer to the court
 
@@ -80,7 +80,7 @@ Where a step is to be taken by a court officer—
 
 (1) Except where an enactment provides otherwise, the court may exercise its powers on an application or of its own initiative. (Part 18 sets out the procedure for making an application.)
 
-(2) Subject to rule 29.17, where[^key-4d6a5198b950ff417c461e047a1af87b] the court proposes to make an order of its own initiative—
+(2) Subject to rule 29.17, where[^c-4d6a5198b950ff417c461e047a1af87b] the court proposes to make an order of its own initiative—
 
 - (a) it may give any person likely to be affected by the order an opportunity to make representations; and
 - (b) where it does so it must specify the time by and the manner in which the representations must be made.
@@ -104,7 +104,7 @@ it must give each party likely to be affected by the order at least 5 days' noti
 - (a) within such period as may be specified by the court; or
 - (b) if the court does not specify a period, within 7 days beginning with the date on which the order was served on the party making the application.
 
-(7) If the court[^key-bc6f7dddb7b6d45a57ecf907e2043f07] of its own initiative strikes out a statement of case or dismisses an application (including an application for permission to appeal) and it considers that the application is totally without merit—
+(7) If the court[^c-bc6f7dddb7b6d45a57ecf907e2043f07] of its own initiative strikes out a statement of case or dismisses an application (including an application for permission to appeal) and it considers that the application is totally without merit—
 
 - (a) the court's order must record that fact; and
 - (b) the court must at the same time consider whether it is appropriate to make a civil restraint order.
@@ -120,7 +120,7 @@ it must give each party likely to be affected by the order at least 5 days' noti
 - (c) that there has been a failure to comply with a rule, practice direction or court order; or
 - (d) in relation to applications for matrimonial and civil partnership orders and answers to such applications, that the parties to the proceedings consent.
 
-(1A)[^key-871e93080997f3fccff02d67ad7b8174] When the court is considering whether to exercise the power to strike out a statement of case, it must take into account any written evidence filed in relation to the application or answer.
+(1A)[^c-871e93080997f3fccff02d67ad7b8174] When the court is considering whether to exercise the power to strike out a statement of case, it must take into account any written evidence filed in relation to the application or answer.
 
 (2) When the court strikes out a statement of case it may make any consequential order it considers appropriate.
 
@@ -134,7 +134,7 @@ the court may, on the application of the respondent, stay<sup>(GL)</sup> that ot
 
 (4) Paragraph (1) does not limit any other power of the court to strike out<sup> (GL) </sup>a statement of case.
 
-(5) If the court[^key-fa14b98a2fd99a97b556e2aa10d0a9ed] strikes out an applicant's statement of case and it considers that the application is totally without merit—
+(5) If the court[^c-fa14b98a2fd99a97b556e2aa10d0a9ed] strikes out an applicant's statement of case and it considers that the application is totally without merit—
 
 - (a) the court's order must record that fact; and
 - (b) the court must at the same time consider whether it is appropriate to make a civil restraint order.
@@ -187,26 +187,26 @@ Where there has been an error of procedure such as a failure to comply with a ru
 
 Practice Direction 4B sets out—
 
-- (a) the circumstances in which the court[^key-9c1fb6c8217e73b2172503bb956caaac] has the power to make a civil restraint order against a party to proceedings;
+- (a) the circumstances in which the court[^c-9c1fb6c8217e73b2172503bb956caaac] has the power to make a civil restraint order against a party to proceedings;
 - (b) the procedure where a party applies for a civil restraint order against another party; and
 - (c) the consequences of the court making a civil restraint order.
 
 ## Annotations
 
-[^key-41722bce08d087893ce21eb82923d166]: Textual amendment: [Rule 4.1(3)(bb)](https://www.legislation.gov.uk/uksi/2010/2955/rule/4.1/3/bb) inserted (4.6.2018) by [The Family Procedure (Amendment) Rules 2018 (S.I. 2018/440)](https://www.legislation.gov.uk/uksi/2018/440), [rules 1](https://www.legislation.gov.uk/uksi/2018/440/rule/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2018/440/rule/3/a/i)
+[^c-41722bce08d087893ce21eb82923d166]: Textual amendment: [Rule 4.1(3)(bb)](https://www.legislation.gov.uk/uksi/2010/2955/rule/4.1/3/bb) inserted (4.6.2018) by [The Family Procedure (Amendment) Rules 2018 (S.I. 2018/440)](https://www.legislation.gov.uk/uksi/2018/440), [rules 1](https://www.legislation.gov.uk/uksi/2018/440/rule/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2018/440/rule/3/a/i)
 
-[^key-0480b5a6c97172f263dd7c9d02d8b279]: Textual amendment: Words in [rule 4.1(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/4.1/3) inserted (4.6.2018) by [The Family Procedure (Amendment) Rules 2018 (S.I. 2018/440)](https://www.legislation.gov.uk/uksi/2018/440), [rules 1](https://www.legislation.gov.uk/uksi/2018/440/rule/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2018/440/rule/3/a/ii)
+[^c-0480b5a6c97172f263dd7c9d02d8b279]: Textual amendment: Words in [rule 4.1(3)](https://www.legislation.gov.uk/uksi/2010/2955/rule/4.1/3) inserted (4.6.2018) by [The Family Procedure (Amendment) Rules 2018 (S.I. 2018/440)](https://www.legislation.gov.uk/uksi/2018/440), [rules 1](https://www.legislation.gov.uk/uksi/2018/440/rule/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2018/440/rule/3/a/ii)
 
-[^key-b1c523b5397d5f5860f7f71876ad1178]: Textual amendment: [Rule 4.1(4A)](https://www.legislation.gov.uk/uksi/2010/2955/rule/4.1/4A) inserted (4.6.2018) by [The Family Procedure (Amendment) Rules 2018 (S.I. 2018/440)](https://www.legislation.gov.uk/uksi/2018/440), [rules 1](https://www.legislation.gov.uk/uksi/2018/440/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/440/rule/3/b)
+[^c-b1c523b5397d5f5860f7f71876ad1178]: Textual amendment: [Rule 4.1(4A)](https://www.legislation.gov.uk/uksi/2010/2955/rule/4.1/4A) inserted (4.6.2018) by [The Family Procedure (Amendment) Rules 2018 (S.I. 2018/440)](https://www.legislation.gov.uk/uksi/2018/440), [rules 1](https://www.legislation.gov.uk/uksi/2018/440/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/440/rule/3/b)
 
-[^key-a7e4a394e3ca7cd7975a76f2a9a9f553]: Textual amendment: Words in rule 4.1(8) inserted (6.4.2012) by [The Family Procedure (Amendment) Rules 2012 (S.I. 2012/679)](https://www.legislation.gov.uk/uksi/2012/679), [rules 1](https://www.legislation.gov.uk/uksi/2012/679/rule/1), [4](https://www.legislation.gov.uk/uksi/2012/679/rule/4) (with [rule 30](https://www.legislation.gov.uk/uksi/2012/679/rule/30))
+[^c-a7e4a394e3ca7cd7975a76f2a9a9f553]: Textual amendment: Words in rule 4.1(8) inserted (6.4.2012) by [The Family Procedure (Amendment) Rules 2012 (S.I. 2012/679)](https://www.legislation.gov.uk/uksi/2012/679), [rules 1](https://www.legislation.gov.uk/uksi/2012/679/rule/1), [4](https://www.legislation.gov.uk/uksi/2012/679/rule/4) (with [rule 30](https://www.legislation.gov.uk/uksi/2012/679/rule/30))
 
-[^key-4d6a5198b950ff417c461e047a1af87b]: Textual amendment: Words in rule 4.3(2) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/3204/rule/6/a) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-4d6a5198b950ff417c461e047a1af87b]: Textual amendment: Words in rule 4.3(2) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/3204/rule/6/a) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-bc6f7dddb7b6d45a57ecf907e2043f07]: Textual amendment: Words in rule 4.3(7) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [6(b)](https://www.legislation.gov.uk/uksi/2013/3204/rule/6/b) (with [art. 137](https://www.legislation.gov.uk/uksi/2013/3204/article/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-bc6f7dddb7b6d45a57ecf907e2043f07]: Textual amendment: Words in rule 4.3(7) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [6(b)](https://www.legislation.gov.uk/uksi/2013/3204/rule/6/b) (with [art. 137](https://www.legislation.gov.uk/uksi/2013/3204/article/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-871e93080997f3fccff02d67ad7b8174]: Textual amendment: [Rule 4.4(1A)](https://www.legislation.gov.uk/uksi/2010/2955/rule/4.4/1A) inserted (6.4.2016) by [The Family Procedure (Amendment) Rules 2016 (S.I. 2016/355)](https://www.legislation.gov.uk/uksi/2016/355), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/355/rule/1/2), [3](https://www.legislation.gov.uk/uksi/2016/355/rule/3) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/355/rule/9))
+[^c-871e93080997f3fccff02d67ad7b8174]: Textual amendment: [Rule 4.4(1A)](https://www.legislation.gov.uk/uksi/2010/2955/rule/4.4/1A) inserted (6.4.2016) by [The Family Procedure (Amendment) Rules 2016 (S.I. 2016/355)](https://www.legislation.gov.uk/uksi/2016/355), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/355/rule/1/2), [3](https://www.legislation.gov.uk/uksi/2016/355/rule/3) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/355/rule/9))
 
-[^key-fa14b98a2fd99a97b556e2aa10d0a9ed]: Textual amendment: Words in rule 4.4(5) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/3204/rule/7) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-fa14b98a2fd99a97b556e2aa10d0a9ed]: Textual amendment: Words in rule 4.4(5) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [7](https://www.legislation.gov.uk/uksi/2013/3204/rule/7) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-9c1fb6c8217e73b2172503bb956caaac]: Textual amendment: Words in rule 4.8(a) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [8](https://www.legislation.gov.uk/uksi/2013/3204/rule/8) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-9c1fb6c8217e73b2172503bb956caaac]: Textual amendment: Words in rule 4.8(a) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [8](https://www.legislation.gov.uk/uksi/2013/3204/rule/8) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159A. Disposals of interests in UK land by non-residents: roll-over relief[^key-01f0ecd39f267021056a01c1172165c1]
+## 159A. Disposals of interests in UK land by non-residents: roll-over relief[^c-01f0ecd39f267021056a01c1172165c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01f0ecd39f267021056a01c1172165c1]: Textual amendment: S. 159A substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 53](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/53)
+[^c-01f0ecd39f267021056a01c1172165c1]: Textual amendment: S. 159A substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 53](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/53)

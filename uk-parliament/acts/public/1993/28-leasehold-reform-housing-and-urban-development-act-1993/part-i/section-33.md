@@ -38,7 +38,7 @@ but this subsection shall not apply to any costs if on a sale made voluntarily a
 
 (4) The nominee purchaser shall not be liable for any costs under this section if the initial notice ceases to have effect by virtue of section 23(4) or 30(4).
 
-(5) The nominee purchaser shall not be liable under this section for any costs which a party to any proceedings under this Chapter before the appropriate tribunal[^key-28e956749dfd29d4ad3583f5887fbc54] incurs in connection with the proceedings.
+(5) The nominee purchaser shall not be liable under this section for any costs which a party to any proceedings under this Chapter before the appropriate tribunal[^c-28e956749dfd29d4ad3583f5887fbc54] incurs in connection with the proceedings.
 
 (6) In this section references to the nominee purchaser include references to any person whose appointment has terminated in accordance with section 15(3) or 16(1); but this section shall have effect in relation to such a person subject to section 15(7).
 
@@ -46,4 +46,4 @@ but this subsection shall not apply to any costs if on a sale made voluntarily a
 
 ## Annotations
 
-[^key-28e956749dfd29d4ad3583f5887fbc54]: Textual amendment: Words in [s. 33(5)](https://www.legislation.gov.uk/ukpga/1993/28/section/33/5) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 104](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/104) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-28e956749dfd29d4ad3583f5887fbc54]: Textual amendment: Words in [s. 33(5)](https://www.legislation.gov.uk/ukpga/1993/28/section/33/5) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 104](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/104) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

@@ -46,33 +46,33 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-9b8b41f70651bf8b4cd692c7816fbf1e]
+### 1. Citation and commencement[^c-9b8b41f70651bf8b4cd692c7816fbf1e]
 
 These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. Amendment of the Export Control Act 2002[^key-2c165db9007640423b3ae4c42da5889f]
+### 2. Amendment of the Export Control Act 2002[^c-2c165db9007640423b3ae4c42da5889f]
 
 (1) The Export Control Act 2002 [^c23692421] is amended as follows.
 
-(2)[^key-f27083b7c59b2c497d10e55fe146552c] In section 5 (general restriction on control powers), omit subsection (3).
+(2)[^c-f27083b7c59b2c497d10e55fe146552c] In section 5 (general restriction on control powers), omit subsection (3).
 
-(3)[^key-2be4d0167c910e6efbf868c85314f174] In section 11 (interpretation), for the definition of “EU provision”, substitute—
+(3)[^c-2be4d0167c910e6efbf868c85314f174] In section 11 (interpretation), for the definition of “EU provision”, substitute—
 
 > “**EU provision**” means a provision of an EU instrument as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement;
 
 .
 
-(4)[^key-0ce82b32d07cbd61e288a83971130f94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0ce82b32d07cbd61e288a83971130f94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-0ce82b32d07cbd61e288a83971130f94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0ce82b32d07cbd61e288a83971130f94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-0ce82b32d07cbd61e288a83971130f94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0ce82b32d07cbd61e288a83971130f94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-0ce82b32d07cbd61e288a83971130f94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-0ce82b32d07cbd61e288a83971130f94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-0ce82b32d07cbd61e288a83971130f94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-0ce82b32d07cbd61e288a83971130f94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In the Schedule (categories of goods, technology and technical assistance), in paragraph 3(2), in entry A of the Table—
 
@@ -81,7 +81,7 @@ These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms 
 
 ## PART 3 — Amendment of retained EU law
 
-### 3. Amendment of Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428)[^key-bb7a7d524f89b0a4623edf21596b8461]
+### 3. Amendment of Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428)[^c-bb7a7d524f89b0a4623edf21596b8461]
 
 (1) Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transfer, brokering and transit of dual-use items is amended as follows.
 
@@ -168,7 +168,7 @@ These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms 
   - (iii) for “from the territory of that Member State without authorisation or in violation of an authorisation prescribed by national legislation of that Member State”, substitute “ without authorisation or in violation of an authorisation granted by the Secretary of State ”;
 - (d) in paragraph 4, for “authorities referred to in paragraph 1”, substitute “ Secretary of State ”;
 - (e) omit paragraphs 5 to 7; and
-- (f)[^key-ce40a58064f06d3988c88e63bdef5721] in paragraph 8, for the words from “the right” to the end substitute “Article 10 of Regulation (EU) 2015/479”.
+- (f)[^c-ce40a58064f06d3988c88e63bdef5721] in paragraph 8, for the words from “the right” to the end substitute “Article 10 of Regulation (EU) 2015/479”.
 
 (6) In Article 5 (authorisation requirements for brokering services)—
 
@@ -249,7 +249,7 @@ These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms 
 
 (14) In Article 14 (issuance of authorisations), omit paragraph 2.
 
-(15)[^key-99a7e777c4d55801b8bcdc4b6daf3158] For Article 15 (updating of list of dual-use items) substitute—
+(15)[^c-99a7e777c4d55801b8bcdc4b6daf3158] For Article 15 (updating of list of dual-use items) substitute—
 
 > **1.** The Secretary of State may by regulations update the list of dual-use items set out in Annex I in conformity with the relevant obligations and commitments, and any modification thereof, that the United Kingdom has accepted as a member of the international non-proliferation regimes and export control arrangements, or by ratification of relevant international treaties.
 >
@@ -292,7 +292,7 @@ These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms 
 
 (21) Omit Articles 23b (delegated acts), 24 (enforcement), 25 (role of Commission), 25a (negotiation of third country agreements), 26 (relationship to other treaty provisions) and 28 (entry into force).
 
-(21A)[^key-12303cfd98dee73bcef27c61cbe523b8] After Article 28, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
+(21A)[^c-12303cfd98dee73bcef27c61cbe523b8] After Article 28, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
 (22) In Annex I (list of dual-use items)—
 
@@ -309,7 +309,7 @@ These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms 
   - (i) in paragraph 9A001.a—
     - (aa) in Note 1, in both places it occurs, omit “EU Member States or”;
     - (bb) in Note 2, omit “a EU Member states or”;
-  - (ii)[^key-eb644edc20b6ded69e7dc02de8e59f05] in paragraph 9A003.b, for “either non- *EU Member States or Wassenaar*” substitute “non-*Wassenaar*”;
+  - (ii)[^c-eb644edc20b6ded69e7dc02de8e59f05] in paragraph 9A003.b, for “either non- *EU Member States or Wassenaar*” substitute “non-*Wassenaar*”;
   - (iii) in paragraph 9E003.h, in the Note, omit “*one or more EU Member States or*”.
 
 (23) In Annex IIa (Union general export authorisation No EU001)—
@@ -521,7 +521,7 @@ These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms 
   - (ii) omit “IN NATIONAL OFFICIAL JOURNALS”;
 - (b) omit paragraph 3.
 
-(32)[^key-6abfbe5224b5a63d01e8172a760abfa7] In Annex IV (items of stealth technology, strategic control, cryptography etc.)—
+(32)[^c-6abfbe5224b5a63d01e8172a760abfa7] In Annex IV (items of stealth technology, strategic control, cryptography etc.)—
 
 - (a) in the words before Part I, omit “(List referred to in Article 22(1) of this Regulation)”;
 - (b) in Part I, in the words before the first table, omit “(possibility of National General Authorisation for intra-Community trade)”;
@@ -534,7 +534,7 @@ These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms 
   - (iv) omit paragraph (4);
 - (f) in Part II, in the words before the first table, omit “(no National General Authorisation for intra-Community trade)”.
 
-### 4. Amendment of Regulation (EU) No 258/2012[^key-4a3b21e287fc511984bb9f24498bfca0]
+### 4. Amendment of Regulation (EU) No 258/2012[^c-4a3b21e287fc511984bb9f24498bfca0]
 
 (1) Regulation (EU) No 258/2012 of 14 March 2012 of the European Parliament and of the Council implementing Article 10 of the United Nations' Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition is amended as follows.
 
@@ -695,7 +695,7 @@ These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms 
 
 (17) Omit Article 22 (entering into force of Regulation).
 
-(17A)[^key-6dcd003dd747613e37969985190e1c45] After Article 22, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
+(17A)[^c-6dcd003dd747613e37969985190e1c45] After Article 22, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
 (18) In Annex I, in the table, for “CN CODE” substitute “ Commodity Code ”.
 
@@ -709,9 +709,9 @@ These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms 
 
 ## PART 4 — Transitional provisions
 
-### 5. Transitional provision relating to Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428)[^key-1c729ddafe18946ea41fd44ec96917a5]
+### 5. Transitional provision relating to Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428)[^c-1c729ddafe18946ea41fd44ec96917a5]
 
-(1) A pre-exit global export authorisation which had effect immediately before IP completion day[^key-83130dff60b2bc6f50b95f540c98fd1c] continues to have effect on and after IP completion day as if it were a assimilated[^key-864fed584711ab606ed6a43d218ea9d1] global export authorisation.
+(1) A pre-exit global export authorisation which had effect immediately before IP completion day[^c-83130dff60b2bc6f50b95f540c98fd1c] continues to have effect on and after IP completion day as if it were a assimilated[^c-864fed584711ab606ed6a43d218ea9d1] global export authorisation.
 
 (2) A person registered to use a Union general export authorisation immediately before IP completion day is to be treated on and after IP completion day as being registered to use the corresponding assimilated general export authorisation.
 
@@ -727,7 +727,7 @@ These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms 
 
 (8) In this regulation—
 
-- “**corresponding assimilated[^key-4d344bd84f13bb90eb616fb08ee7b012] export authorisation**” means—
+- “**corresponding assimilated[^c-4d344bd84f13bb90eb616fb08ee7b012] export authorisation**” means—
   - (a) in relation to a pre-exit individual export authorisation, a assimilated individual export authorisation; and
   - (b) in relation to a pre-exit global export authorisation, a assimilated global export authorisation;
 - “**EU Dual-Use Regulation**” means Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transfer, brokering and transit of dual-use items as it had effect immediately before IP completion day;
@@ -736,20 +736,20 @@ These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms 
 - “**pre-exit individual export authorisation**” means an export authorisation within the meaning given by Article 2(10) of the EU Dual-Use Regulation granted by the Secretary of State before IP completion day under article 26(4) of the Export Control Order 2008;
 - “**pre-exit national general export authorisation**” means an export authorisation within the meaning given by Article 2(11) of the EU Dual-Use Regulation granted by the Secretary of State before IP completion day under article 26(4) of the Export Control Order 2008;
 - “**relevant pre-exit export authorisation**” means a pre-exit individual export authorisation or a pre-exit global export authorisation;
-- [^key-6d698129fb9f358ba96d18f4f5bb937c]...
-- “[^key-421ecdb8707fc20f4a996e274e5a8b4f]**replacement dual-use Regulation**”, in relation to—
+- [^c-6d698129fb9f358ba96d18f4f5bb937c]...
+- “[^c-421ecdb8707fc20f4a996e274e5a8b4f]**replacement dual-use Regulation**”, in relation to—
   - ((a)) England and Wales and Scotland, means Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items ;
   - ((b)) Northern Ireland, means Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/eur/2009/428) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement;
 - “**assimilated authorisation for brokering services**” means an authorisation granted by the Secretary of State on or after IP completion day under Article 10 of the replacement dual-use Regulation;
-- “**assimilated general export authorisation**” means an export authorisation established under Article 9(1) of the replacement dual-use Regulation[^key-c376d501bd9972276dc720c38f230847];
+- “**assimilated general export authorisation**” means an export authorisation established under Article 9(1) of the replacement dual-use Regulation[^c-c376d501bd9972276dc720c38f230847];
 - “**assimilated global export authorisation**” means an export authorisation by Article 2(10) of the replacement dual-use Regulation granted by the Secretary of State on or after IP completion day under article 26(4) of the Export Control Order 2008;
 - “**assimilated individual export authorisation**” means an export authorisation within the meaning given by Article 2(10) of the replacement dual-use Regulation granted by the Secretary of State on or after IP completion day under article 26(4) of the Export Control Order 2008;
 - “**assimilated national general export authorisation**” means an export authorisation within the meaning given by Article 2(11) of the replacement dual-use Regulation granted by the Secretary of State on or after IP completion day under article 26(4) of the Export Control Order 2008;
 - “**Union general export authorisation**” means an export authorisation established under Article 9(1) of the EU Dual-Use Regulation.
 
-### 6. Transitional provision relating to Regulation (EU) No 258/2012[^key-13306ae72978e9747047f9df6a399769]
+### 6. Transitional provision relating to Regulation (EU) No 258/2012[^c-13306ae72978e9747047f9df6a399769]
 
-(1) A pre-exit firearms export authorisation which had effect immediately before IP completion day[^key-e1bd0fa6f8dedf1b69e3921ac8e7f788] continues to have effect on and after IP completion day as if it were a assimilated[^key-34ca7a80f17e48899bc231f7ee0c0f80] firearms export authorisation.
+(1) A pre-exit firearms export authorisation which had effect immediately before IP completion day[^c-e1bd0fa6f8dedf1b69e3921ac8e7f788] continues to have effect on and after IP completion day as if it were a assimilated[^c-34ca7a80f17e48899bc231f7ee0c0f80] firearms export authorisation.
 
 (2) An application for a pre-exit firearms export authorisation which is made but not determined or withdrawn before IP completion day is to be treated on and after IP completion day as an application for a assimilated firearms export authorisation.
 
@@ -757,11 +757,11 @@ These Regulations may be cited as the Trade etc. in Dual-Use Items and Firearms 
 
 - “**EU Firearms Regulation**” means Regulation (EU) No 258/2012 of 14 March 2012 of the European Parliament and of the Council implementing Article 10 of the United Nations' Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition as it had effect immediately before IP completion day;
 - “**pre-exit firearms export authorisation**” means an export authorisation within the meaning given by Article 2(14) of the EU Firearms Regulation granted by the Secretary of State before IP completion day under Article 4 of the EU Firearms Regulation;
-- “[^key-91aae5a564e1c1c98b93a5e20afda636] **replacement firearms Regulation**”, in relation to—
+- “[^c-91aae5a564e1c1c98b93a5e20afda636] **replacement firearms Regulation**”, in relation to—
   - ((a)) England and Wales and Scotland, means Regulation (EU) No 258/2012 of the European Parliament and of the Council of 14 March 2012 implementing Article 10 of the United Nations' Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition, supplementing the United Nations Convention against Transnational Organised Crime (UN Firearms Protocol), and establishing export authorisation, and import and transit measures for firearms, their parts and components and ammunition;
   - ((b)) Northern Ireland, means Regulation (EU) No 258/2012 of the European Parliament and of the Council of 14 March 2012 implementing Article 10 of the United Nations' Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition, supplementing the United Nations Convention against Transnational Organised Crime (UN Firearms Protocol), and establishing export authorisation, and import and transit measures for firearms, their parts and components and ammunition as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement;
-- “[^key-2fbe156cb9f92c71a47a0b2a3fba1557]**assimilated[^key-f9dd7594132d14b6f433a84c8a15a703] firearms export authorisation**” means an export authorisation within the meaning given by Article 2(14) of the replacement firearms Regulation granted by the Secretary of State on or after IP completion day under Article 4 of the replacement firearms Regulation;
-- [^key-2518a38cd50723e07103c467c03fdbe6]...
+- “[^c-2fbe156cb9f92c71a47a0b2a3fba1557]**assimilated[^c-f9dd7594132d14b6f433a84c8a15a703] firearms export authorisation**” means an export authorisation within the meaning given by Article 2(14) of the replacement firearms Regulation granted by the Secretary of State on or after IP completion day under Article 4 of the replacement firearms Regulation;
+- [^c-2518a38cd50723e07103c467c03fdbe6]...
 
 Graham Stuart
 
@@ -787,62 +787,62 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23692411]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-9b8b41f70651bf8b4cd692c7816fbf1e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9b8b41f70651bf8b4cd692c7816fbf1e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2c165db9007640423b3ae4c42da5889f]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2c165db9007640423b3ae4c42da5889f]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23692421]: Marginal citation: [2002 c. 28](https://www.legislation.gov.uk/ukpga/2002/28). The Export Control Act was amended by the [Treaty of Lisbon (Changes in Terminology or Numbering) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [article 6(2)(c)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/2/c), and by the [Treaty of Lisbon (Changes of Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [articles 3](https://www.legislation.gov.uk/uksi/2012/1809/article/3) and Part 1 of the Schedule.
 
-[^key-f27083b7c59b2c497d10e55fe146552c]: Textual amendment: Reg. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [9(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/9/a)
+[^c-f27083b7c59b2c497d10e55fe146552c]: Textual amendment: Reg. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [9(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/9/a)
 
-[^key-2be4d0167c910e6efbf868c85314f174]: Textual amendment: Reg. 2(3) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [9(b)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/9/b)
+[^c-2be4d0167c910e6efbf868c85314f174]: Textual amendment: Reg. 2(3) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [9(b)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/9/b)
 
-[^key-0ce82b32d07cbd61e288a83971130f94]: Textual amendment: Reg. 2(4)-(8) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [9(c)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/9/c)
+[^c-0ce82b32d07cbd61e288a83971130f94]: Textual amendment: Reg. 2(4)-(8) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [9(c)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/9/c)
 
-[^key-bb7a7d524f89b0a4623edf21596b8461]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-bb7a7d524f89b0a4623edf21596b8461]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23692431]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-ce40a58064f06d3988c88e63bdef5721]: Textual amendment: Reg. 3(5)(f) substituted (31.1.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/806)](https://www.legislation.gov.uk/uksi/2019/806), [regs. 1](https://www.legislation.gov.uk/uksi/2019/806/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/806/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce40a58064f06d3988c88e63bdef5721]: Textual amendment: Reg. 3(5)(f) substituted (31.1.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/806)](https://www.legislation.gov.uk/uksi/2019/806), [regs. 1](https://www.legislation.gov.uk/uksi/2019/806/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/806/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99a7e777c4d55801b8bcdc4b6daf3158]: Textual amendment: Reg. 3(15) substituted (31.1.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/806)](https://www.legislation.gov.uk/uksi/2019/806), [regs. 1](https://www.legislation.gov.uk/uksi/2019/806/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/806/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99a7e777c4d55801b8bcdc4b6daf3158]: Textual amendment: Reg. 3(15) substituted (31.1.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/806)](https://www.legislation.gov.uk/uksi/2019/806), [regs. 1](https://www.legislation.gov.uk/uksi/2019/806/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/806/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-12303cfd98dee73bcef27c61cbe523b8]: Textual amendment: Reg. 3(21A) inserted (31.1.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/806)](https://www.legislation.gov.uk/uksi/2019/806), [regs. 1](https://www.legislation.gov.uk/uksi/2019/806/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/806/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-12303cfd98dee73bcef27c61cbe523b8]: Textual amendment: Reg. 3(21A) inserted (31.1.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/806)](https://www.legislation.gov.uk/uksi/2019/806), [regs. 1](https://www.legislation.gov.uk/uksi/2019/806/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/806/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb644edc20b6ded69e7dc02de8e59f05]: Textual amendment: Reg. 3(22)(h)(ii) substituted (31.1.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/806)](https://www.legislation.gov.uk/uksi/2019/806), [regs. 1](https://www.legislation.gov.uk/uksi/2019/806/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/806/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb644edc20b6ded69e7dc02de8e59f05]: Textual amendment: Reg. 3(22)(h)(ii) substituted (31.1.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/806)](https://www.legislation.gov.uk/uksi/2019/806), [regs. 1](https://www.legislation.gov.uk/uksi/2019/806/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/806/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6abfbe5224b5a63d01e8172a760abfa7]: Textual amendment: Reg. 3(32) substituted (31.1.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/806)](https://www.legislation.gov.uk/uksi/2019/806), [regs. 1](https://www.legislation.gov.uk/uksi/2019/806/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/806/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6abfbe5224b5a63d01e8172a760abfa7]: Textual amendment: Reg. 3(32) substituted (31.1.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/806)](https://www.legislation.gov.uk/uksi/2019/806), [regs. 1](https://www.legislation.gov.uk/uksi/2019/806/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/806/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a3b21e287fc511984bb9f24498bfca0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4a3b21e287fc511984bb9f24498bfca0]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23692441]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231).
 
-[^key-6dcd003dd747613e37969985190e1c45]: Textual amendment: Reg. 4(17A) inserted (31.1.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/806)](https://www.legislation.gov.uk/uksi/2019/806), [regs. 1](https://www.legislation.gov.uk/uksi/2019/806/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/806/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6dcd003dd747613e37969985190e1c45]: Textual amendment: Reg. 4(17A) inserted (31.1.2020) by [The Trade etc. in Dual-Use Items and Firearms etc. (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/806)](https://www.legislation.gov.uk/uksi/2019/806), [regs. 1](https://www.legislation.gov.uk/uksi/2019/806/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/806/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1c729ddafe18946ea41fd44ec96917a5]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1c729ddafe18946ea41fd44ec96917a5]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-83130dff60b2bc6f50b95f540c98fd1c]: Textual amendment: Words in reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [10(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/10/a)
+[^c-83130dff60b2bc6f50b95f540c98fd1c]: Textual amendment: Words in reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [10(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/10/a)
 
-[^key-864fed584711ab606ed6a43d218ea9d1]: Textual amendment: Word in [reg. 5(1)-(7)](https://www.legislation.gov.uk/uksi/2019/771/regulation/5/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/13/2/a)
+[^c-864fed584711ab606ed6a43d218ea9d1]: Textual amendment: Word in [reg. 5(1)-(7)](https://www.legislation.gov.uk/uksi/2019/771/regulation/5/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/13/2/a)
 
-[^key-4d344bd84f13bb90eb616fb08ee7b012]: Textual amendment: Word in [reg. 5(8)](https://www.legislation.gov.uk/uksi/2019/771/regulation/5/8) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/13/2/b)
+[^c-4d344bd84f13bb90eb616fb08ee7b012]: Textual amendment: Word in [reg. 5(8)](https://www.legislation.gov.uk/uksi/2019/771/regulation/5/8) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/13/2/b)
 
-[^key-6d698129fb9f358ba96d18f4f5bb937c]: Textual amendment: Words in reg. 5(8) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [10(b)(i)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/10/b/i)
+[^c-6d698129fb9f358ba96d18f4f5bb937c]: Textual amendment: Words in reg. 5(8) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [10(b)(i)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/10/b/i)
 
-[^key-421ecdb8707fc20f4a996e274e5a8b4f]: Textual amendment: Words in reg. 5(8) inserted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/10/b/ii)
+[^c-421ecdb8707fc20f4a996e274e5a8b4f]: Textual amendment: Words in reg. 5(8) inserted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/10/b/ii)
 
-[^key-c376d501bd9972276dc720c38f230847]: Textual amendment: Words in reg. 5(8) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [10(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/10/b/iii)
+[^c-c376d501bd9972276dc720c38f230847]: Textual amendment: Words in reg. 5(8) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [10(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/10/b/iii)
 
-[^key-13306ae72978e9747047f9df6a399769]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-13306ae72978e9747047f9df6a399769]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e1bd0fa6f8dedf1b69e3921ac8e7f788]: Textual amendment: Words in reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [11(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/11/a)
+[^c-e1bd0fa6f8dedf1b69e3921ac8e7f788]: Textual amendment: Words in reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [11(a)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/11/a)
 
-[^key-34ca7a80f17e48899bc231f7ee0c0f80]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2019/771/regulation/6/1)[(2)](https://www.legislation.gov.uk/uksi/2019/771/regulation/6/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 13(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/13/2/c)
+[^c-34ca7a80f17e48899bc231f7ee0c0f80]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2019/771/regulation/6/1)[(2)](https://www.legislation.gov.uk/uksi/2019/771/regulation/6/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 13(2)(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/13/2/c)
 
-[^key-91aae5a564e1c1c98b93a5e20afda636]: Textual amendment: Words in reg. 6(3) inserted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [11(b)(i)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/11/b/i)
+[^c-91aae5a564e1c1c98b93a5e20afda636]: Textual amendment: Words in reg. 6(3) inserted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [11(b)(i)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/11/b/i)
 
-[^key-2fbe156cb9f92c71a47a0b2a3fba1557]: Textual amendment: Words in reg. 6(3) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/11/b/ii)
+[^c-2fbe156cb9f92c71a47a0b2a3fba1557]: Textual amendment: Words in reg. 6(3) substituted (31.12.2020 immediately before IP completion day) by [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/11/b/ii)
 
-[^key-f9dd7594132d14b6f433a84c8a15a703]: Textual amendment: Word in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/771/regulation/6/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 13(2)(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/13/2/d)
+[^c-f9dd7594132d14b6f433a84c8a15a703]: Textual amendment: Word in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2019/771/regulation/6/3) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 13(2)(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/13/2/d)
 
-[^key-2518a38cd50723e07103c467c03fdbe6]: Textual amendment: Words in reg. 6(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [11(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/11/b/iii)
+[^c-2518a38cd50723e07103c467c03fdbe6]: Textual amendment: Words in reg. 6(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Export Control (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1502)](https://www.legislation.gov.uk/uksi/2020/1502), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/2/3), [11(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1502/regulation/11/b/iii)

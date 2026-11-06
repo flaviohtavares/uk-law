@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Enforceability of agreements resulting from unlawful communications.[^key-5d5139b8bd7811e4d17cc54e5fdb667c]
+## 30. Enforceability of agreements resulting from unlawful communications.[^c-5d5139b8bd7811e4d17cc54e5fdb667c]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ if it is satisfied that it is just and equitable in the circumstances of the cas
 
 ## Annotations
 
-[^key-5d5139b8bd7811e4d17cc54e5fdb667c]: Modification: S. 30 applied (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [52(5)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/52/5)
+[^c-5d5139b8bd7811e4d17cc54e5fdb667c]: Modification: S. 30 applied (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [52(5)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/52/5)

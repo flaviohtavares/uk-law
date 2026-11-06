@@ -43,28 +43,28 @@ summary: ''
 
 (4) In subsection (3) “**financing costs**” means the cost of debt finance.
 
-(4A)[^key-c357e1e46310aa65ef194f360b9782d6] But property financing costs do not (for the purposes of section 543) include any expense for which a deduction would not be allowed in calculating profits in accordance with section 599, other than an expense which is disallowed only as a result of the application of Part 10 of TIOPA 2010 (corporate interest restriction).
+(4A)[^c-c357e1e46310aa65ef194f360b9782d6] But property financing costs do not (for the purposes of section 543) include any expense for which a deduction would not be allowed in calculating profits in accordance with section 599, other than an expense which is disallowed only as a result of the application of Part 10 of TIOPA 2010 (corporate interest restriction).
 
-(5) In calculating the costs of debt finance in relation to an accounting period the matters to be taken into account are—[^key-da3e2a191f0ec24b7843bafc43898982]
+(5) In calculating the costs of debt finance in relation to an accounting period the matters to be taken into account are—[^c-da3e2a191f0ec24b7843bafc43898982]
 
 - (a) interest payable on borrowing,
 - (b) amortisation of discounts relating to borrowing,
 - (c) amortisation of premiums relating to borrowing,
-- (d) the financing expense implicit in payments made under finance leases, [^key-e83996403602c78e652a50cf42273296]...
+- (d) the financing expense implicit in payments made under finance leases, [^c-e83996403602c78e652a50cf42273296]...
 - (e) alternative finance return (as defined in sections 511 to 513 of CTA 2009),
-- (f)[^key-e392125890345f870d269d81b95fac05] periodic payments or receipts so far as they—
+- (f)[^c-e392125890345f870d269d81b95fac05] periodic payments or receipts so far as they—
   - (i) are from any derivative contract or other arrangement entered into as a hedge of risk in connection with borrowing, and
   - (ii) are attributable to the hedge, and
 - (g) amortisation of discounts and premiums relating to a derivative contract or other arrangement within paragraph (f).
 
-(5A)[^key-842f8acdfde9656100585ca8feb09844] In subsection (5) “finance lease” means—
+(5A)[^c-842f8acdfde9656100585ca8feb09844] In subsection (5) “finance lease” means—
 
 - (a) in relation to any person, a lease that, in accordance with generally accepted accounting practice, falls (or would fall) to be treated in the accounts of that person as a finance lease or loan, or
 - (b) in relation to a lessee under a right-of-use lease, a lease that would fall to be treated in the accounts of the lessee as a finance lease if the lessee were required under generally accepted accounting practice to determine whether the lease falls to be so treated.
 
 (5B) In subsection (5A)(b) “right-of-use lease” has the meaning given in Part 2 of CAA 2001 (see section 70YI(1) of that Act).
 
-(6)[^key-63a7b0ac865fde87961b769eae81494c] The Treasury may by regulations amend the list of matters in subsection (5) by inserting, omitting or amending a description of a matter.
+(6)[^c-63a7b0ac865fde87961b769eae81494c] The Treasury may by regulations amend the list of matters in subsection (5) by inserting, omitting or amending a description of a matter.
 
 ## Annotations
 
@@ -72,14 +72,14 @@ summary: ''
 
 [^M_F_d515ee1f-1d06-44cf-b150-76a80603dfdf]: Textual amendment: S. 544(3A) inserted (retrospectively) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 7(3)(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/7/3)
 
-[^key-c357e1e46310aa65ef194f360b9782d6]: Textual amendment: [S. 544(4A)](https://www.legislation.gov.uk/ukpga/2010/4/section/544/4A) inserted (with effect in accordance with Sch. 7 para. 7(6) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 7(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/7/5)
+[^c-c357e1e46310aa65ef194f360b9782d6]: Textual amendment: [S. 544(4A)](https://www.legislation.gov.uk/ukpga/2010/4/section/544/4A) inserted (with effect in accordance with Sch. 7 para. 7(6) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 7(5)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/7/5)
 
-[^key-da3e2a191f0ec24b7843bafc43898982]: Textual amendment: Words in s. 544(5) substituted (with effect in accordance with Sch. 4 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 41(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/41/2)
+[^c-da3e2a191f0ec24b7843bafc43898982]: Textual amendment: Words in s. 544(5) substituted (with effect in accordance with Sch. 4 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 41(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/41/2)
 
-[^key-e83996403602c78e652a50cf42273296]: Textual amendment: Word in [s. 544(5)(d)](https://www.legislation.gov.uk/ukpga/2010/4/section/544/5/d) omitted (1.4.2014) by virtue of [The Real Estate Investment Trust (Amendments to the Corporation Tax Act 2010 and Consequential Amendments) Regulations 2014 (S.I. 2014/518)](https://www.legislation.gov.uk/uksi/2014/518), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/518/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/518/regulation/2/3/a) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2014/518/regulation/1/2))
+[^c-e83996403602c78e652a50cf42273296]: Textual amendment: Word in [s. 544(5)(d)](https://www.legislation.gov.uk/ukpga/2010/4/section/544/5/d) omitted (1.4.2014) by virtue of [The Real Estate Investment Trust (Amendments to the Corporation Tax Act 2010 and Consequential Amendments) Regulations 2014 (S.I. 2014/518)](https://www.legislation.gov.uk/uksi/2014/518), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/518/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/518/regulation/2/3/a) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2014/518/regulation/1/2))
 
-[^key-e392125890345f870d269d81b95fac05]: Textual amendment: S. 544(5)(f)(g) inserted (1.4.2014) by [The Real Estate Investment Trust (Amendments to the Corporation Tax Act 2010 and Consequential Amendments) Regulations 2014 (S.I. 2014/518)](https://www.legislation.gov.uk/uksi/2014/518), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/518/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/518/regulation/2/3/b) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2014/518/regulation/1/2))
+[^c-e392125890345f870d269d81b95fac05]: Textual amendment: S. 544(5)(f)(g) inserted (1.4.2014) by [The Real Estate Investment Trust (Amendments to the Corporation Tax Act 2010 and Consequential Amendments) Regulations 2014 (S.I. 2014/518)](https://www.legislation.gov.uk/uksi/2014/518), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/518/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/518/regulation/2/3/b) (with [reg. 1(2)-(4)](https://www.legislation.gov.uk/uksi/2014/518/regulation/1/2))
 
-[^key-842f8acdfde9656100585ca8feb09844]: Textual amendment: S. 544(5A)(5B) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(8)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/8)
+[^c-842f8acdfde9656100585ca8feb09844]: Textual amendment: S. 544(5A)(5B) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(8)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/8)
 
-[^key-63a7b0ac865fde87961b769eae81494c]: Textual amendment: S. 544(6) inserted (with effect in accordance with Sch. 4 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 41(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/41/3)
+[^c-63a7b0ac865fde87961b769eae81494c]: Textual amendment: S. 544(6) inserted (with effect in accordance with Sch. 4 para. 42 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 41(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/41/3)

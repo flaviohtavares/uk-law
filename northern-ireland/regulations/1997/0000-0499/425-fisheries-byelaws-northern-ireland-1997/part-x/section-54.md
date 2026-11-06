@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**54.**[^key-f09d4f1e314962125973071fd0a3494a] Where any draft net is used in the course of any fishing operations conducted by means of a boat used for commercial fishing and any trout of a size less than 35.5 centimetres is taken on board, the master, owner, charterer or other person in charge of the boat shall, without avoidable injury, cause such trout to be returned immediately to the water from which it was taken.
+**54.**[^c-f09d4f1e314962125973071fd0a3494a] Where any draft net is used in the course of any fishing operations conducted by means of a boat used for commercial fishing and any trout of a size less than 35.5 centimetres is taken on board, the master, owner, charterer or other person in charge of the boat shall, without avoidable injury, cause such trout to be returned immediately to the water from which it was taken.
 
 ## Annotations
 
-[^key-f09d4f1e314962125973071fd0a3494a]: Commencement: S. 54 in operation at 1.11.1997, see byelaw 1
+[^c-f09d4f1e314962125973071fd0a3494a]: Commencement: S. 54 in operation at 1.11.1997, see byelaw 1

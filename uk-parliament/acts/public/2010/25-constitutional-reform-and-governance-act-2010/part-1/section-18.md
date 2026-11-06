@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Definitions etc[^key-e4d4790066a20b31c75265d1c03746c9]
+## 18. Definitions etc[^c-e4d4790066a20b31c75265d1c03746c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4d4790066a20b31c75265d1c03746c9]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2010/25/section/18) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-e4d4790066a20b31c75265d1c03746c9]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2010/25/section/18) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

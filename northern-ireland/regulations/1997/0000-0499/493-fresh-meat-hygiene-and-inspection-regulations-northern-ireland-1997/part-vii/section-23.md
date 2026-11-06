@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Fresh meat from Great Britain, the Isle of Man and the Channel Islands[^key-9ad6addcefd8bf2bbf6a7bfb29a0945b]
+## 23. Fresh meat from Great Britain, the Isle of Man and the Channel Islands[^c-9ad6addcefd8bf2bbf6a7bfb29a0945b]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ad6addcefd8bf2bbf6a7bfb29a0945b]: Commencement: Reg. 23 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-9ad6addcefd8bf2bbf6a7bfb29a0945b]: Commencement: Reg. 23 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

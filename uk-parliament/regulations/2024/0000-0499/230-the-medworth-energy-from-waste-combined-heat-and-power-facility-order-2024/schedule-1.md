@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-### 1. Authorised Development[^key-5179c6d3d44c6e2408d280ee12410b1e]
+### 1. Authorised Development[^c-5179c6d3d44c6e2408d280ee12410b1e]
 
 In the County of Cambridgeshire and the County of Norfolk a nationally significant infrastructure project as defined in section 14(1)(a) (nationally significant infrastructure projects: general) and section 15 (generating stations) of the 2008 Act and associated development within the meaning of section 115(2) (development for which development consent may be granted) of the 2008 Act comprising all or part of—
 
@@ -151,4 +151,4 @@ In connection with and in addition to Work Nos 1, 1A, 1B, 2A, 2B, 3, 3A, 3B, 4A,
 
 ## Annotations
 
-[^key-5179c6d3d44c6e2408d280ee12410b1e]: Commencement: Sch. 1 para. 1 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-5179c6d3d44c6e2408d280ee12410b1e]: Commencement: Sch. 1 para. 1 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

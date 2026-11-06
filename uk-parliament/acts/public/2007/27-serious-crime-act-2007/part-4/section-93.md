@@ -29,7 +29,7 @@ summary: ''
 
 (2) The following provisions extend to England and Wales and Northern Ireland only—
 
-- (a)[^key-a0256edd3466b565c1581ca48b5ab324] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a0256edd3466b565c1581ca48b5ab324] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) Part 2 (including Schedules 3 and 4 and Part 1 of Schedule 6) but excluding sections 60 and 61, Schedule 5 and Part 2 of Schedule 6;
 - (c) section 75(2) and (3);
 - (d) section 76(1) to (3);
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0256edd3466b565c1581ca48b5ab324]: Textual amendment: [S. 93(2)(a)](https://www.legislation.gov.uk/ukpga/2007/27/section/93/2/a) omitted (1.3.2016) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/30); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
+[^c-a0256edd3466b565c1581ca48b5ab324]: Textual amendment: [S. 93(2)(a)](https://www.legislation.gov.uk/ukpga/2007/27/section/93/2/a) omitted (1.3.2016) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/30); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)

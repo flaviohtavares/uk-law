@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Particulars to be entered in public registers[^key-42ab014527293f1d0cee06cf82efa033]
+## 9. Particulars to be entered in public registers[^c-42ab014527293f1d0cee06cf82efa033]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
   - (i) remedial or preventive action taken by the Department under Article 16(2) of the 1997 Order;
   - (ii) notices issued by the Department under Article 16(4) of the 1997 Order;
 - (h) any monitoring information relating to the carrying on of any activity under a licence granted by the Department which was obtained by the Department as a result of its own monitoring or was furnished to the Department in writing by virtue of any condition of the licence or Article 44(1) of the 1997 Order;
-- (i) any summary prepared by the Department of the amount of hazardous waste[^key-1a84b88c67438c3fb441c07708cdfc1d] produced or disposed of;
+- (i) any summary prepared by the Department of the amount of hazardous waste[^c-1a84b88c67438c3fb441c07708cdfc1d] produced or disposed of;
 - (j) registers and records provided to any district council under regulation 14(5) or 15(1) of the Special Waste Regulations (Northern Ireland) 1998;
 - (k) applications to the Department under Article 13 of the 1997 Order for the surrender of licences, including details of –
   - (i) documents submitted by applicants containing supporting information and evidence;
@@ -45,7 +45,7 @@ summary: ''
   - (iv) notices of determination and certificates of completion issued under Article 13(8) of the 1997 Order;
 - (l) reports produced under Article 73(2) of the 1997 Order by a person authorised under that Article;
 - (m) information on exempt activities in accordance with regulation 18(2);
-- (n)[^key-79aa51bc2f84a9c40262b8effc3cfbdf][^M_F_9656d324-906a-4d2d-9821-752f20fe361f] all particulars of any conditioning plan submitted to the Department under paragraph 1(3) of Schedule 4 to the 2003 Landfill Regulations or notice given under paragraph 1(5) of Schedule 4 to the 2003 Landfill Regulations.
+- (n)[^c-79aa51bc2f84a9c40262b8effc3cfbdf][^M_F_9656d324-906a-4d2d-9821-752f20fe361f] all particulars of any conditioning plan submitted to the Department under paragraph 1(3) of Schedule 4 to the 2003 Landfill Regulations or notice given under paragraph 1(5) of Schedule 4 to the 2003 Landfill Regulations.
 - (o) all particulars of any notice of a decision under paragraph 1(6) of Schedule 4 to the 2003 Landfill Regulations;
 - (p) all particulars of any notification or report required before definitive closure of a landfill under regulation 15(4) of the 2003 Landfill Regulations.
 
@@ -58,12 +58,12 @@ summary: ''
 
 ## Annotations
 
-[^key-42ab014527293f1d0cee06cf82efa033]: Commencement: Reg. 9 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-42ab014527293f1d0cee06cf82efa033]: Commencement: Reg. 9 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
 [^M_F_cc89e8b5-a282-46f3-d083-27f23bff337e]: Textual amendment: Words in reg. 9(1)(f) inserted (6.1.2004) by [The Landfill Regulations (Northern Ireland) 2003 (S.R. 2003/496)](https://www.legislation.gov.uk/nisr/2003/496), [reg. 1](https://www.legislation.gov.uk/nisr/2003/496/regulation/1), [Sch. 5 para. 2(3)(a)](https://www.legislation.gov.uk/nisr/2003/496/schedule/5/paragraph/2/3/a) (with [Sch. 4](https://www.legislation.gov.uk/nisr/2003/496/schedule/4))
 
-[^key-1a84b88c67438c3fb441c07708cdfc1d]: Textual amendment: Words in Regulations substituted (16.7.2005) by virtue of [The Hazardous Waste Regulations (Northern Ireland) 2005 (S.R. 2005/300)](https://www.legislation.gov.uk/nisr/2005/300), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/300/regulation/1/1), [Sch. 10 para. 9(2)(4)](https://www.legislation.gov.uk/nisr/2005/300/schedule/10/paragraph/9/2)
+[^c-1a84b88c67438c3fb441c07708cdfc1d]: Textual amendment: Words in Regulations substituted (16.7.2005) by virtue of [The Hazardous Waste Regulations (Northern Ireland) 2005 (S.R. 2005/300)](https://www.legislation.gov.uk/nisr/2005/300), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/300/regulation/1/1), [Sch. 10 para. 9(2)(4)](https://www.legislation.gov.uk/nisr/2005/300/schedule/10/paragraph/9/2)
 
-[^key-79aa51bc2f84a9c40262b8effc3cfbdf]: Textual amendment: Reg. 9(1)(n) substituted (4.6.2007) by virtue of [The Landfill (Amendment No.2) Regulations (Northern Ireland) 2007 (S.R. 2007/258)](https://www.legislation.gov.uk/nisr/2007/258), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/258/regulation/1/1), [16(1)](https://www.legislation.gov.uk/nisr/2007/258/regulation/16/1)
+[^c-79aa51bc2f84a9c40262b8effc3cfbdf]: Textual amendment: Reg. 9(1)(n) substituted (4.6.2007) by virtue of [The Landfill (Amendment No.2) Regulations (Northern Ireland) 2007 (S.R. 2007/258)](https://www.legislation.gov.uk/nisr/2007/258), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/258/regulation/1/1), [16(1)](https://www.legislation.gov.uk/nisr/2007/258/regulation/16/1)
 
 [^M_F_9656d324-906a-4d2d-9821-752f20fe361f]: Textual amendment: Reg. 9(1)(n)-(p) inserted (6.1.2004) by [The Landfill Regulations (Northern Ireland) 2003 (S.R. 2003/496)](https://www.legislation.gov.uk/nisr/2003/496), [reg. 1](https://www.legislation.gov.uk/nisr/2003/496/regulation/1), [Sch. 5 para. 2(3)(a)](https://www.legislation.gov.uk/nisr/2003/496/schedule/5/paragraph/2/3/a) (as amended 16.7.2004) by [S.R. 2004/297](https://www.legislation.gov.uk/nisr/2004/297), [regs. 1](https://www.legislation.gov.uk/nisr/2004/297/regulation/1), [9(6)](https://www.legislation.gov.uk/nisr/2004/297/regulation/9/6)) (with [Sch. 4](https://www.legislation.gov.uk/nisr/2003/496/schedule/4))

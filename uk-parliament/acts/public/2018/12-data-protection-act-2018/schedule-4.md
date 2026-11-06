@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Exemptions etc from the UK GDPR: disclosure prohibited or restricted by an enactment[^key-5ebc40ae0ba03aa3d9abb7a5c47c27a0]
+## SCHEDULE 4 — Exemptions etc from the UK GDPR: disclosure prohibited or restricted by an enactment[^c-5ebc40ae0ba03aa3d9abb7a5c47c27a0]
 
 *Extent: E+W+S+N.I.*
 
 Section 15
 
-### UK GDPR provisions to be restricted: “the listed GDPR provisions”[^key-3322ebf4c927f1806b05df81f4e0343f]
+### UK GDPR provisions to be restricted: “the listed GDPR provisions”[^c-3322ebf4c927f1806b05df81f4e0343f]
 
-**1.**[^M_I_20e5dcba-2a1d-4359-aac2-ad45a251cc65] In this Schedule “**the listed GDPR provisions**” means the following provisions of the UK GDPR[^key-0a802107ab2c08fc27b1ddde01f85aa8] (the rights and obligations in which may be restricted by virtue of Article 23(1) of the UK GDPR)—
+**1.**[^M_I_20e5dcba-2a1d-4359-aac2-ad45a251cc65] In this Schedule “**the listed GDPR provisions**” means the following provisions of the UK GDPR[^c-0a802107ab2c08fc27b1ddde01f85aa8] (the rights and obligations in which may be restricted by virtue of Article 23(1) of the UK GDPR)—
 
 - (a) Article 15(1) to (3) (confirmation of processing, access to data and safeguards for third country transfers);
 - (b) Article 5 (general principles) so far as its provisions correspond to the rights and obligations provided for in Article 15(1) to (3).
@@ -112,13 +112,13 @@ Section 15
 
 ## Annotations
 
-[^key-5ebc40ae0ba03aa3d9abb7a5c47c27a0]: Textual amendment: Words in Sch. 4 heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 94(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/94/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ebc40ae0ba03aa3d9abb7a5c47c27a0]: Textual amendment: Words in Sch. 4 heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 94(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/94/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3322ebf4c927f1806b05df81f4e0343f]: Textual amendment: Words in Sch. 4 para. 1 cross-heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 94(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/94/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3322ebf4c927f1806b05df81f4e0343f]: Textual amendment: Words in Sch. 4 para. 1 cross-heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 94(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/94/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_I_20e5dcba-2a1d-4359-aac2-ad45a251cc65]: Commencement: Sch. 4 para. 1 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/b)
 
-[^key-0a802107ab2c08fc27b1ddde01f85aa8]: Textual amendment: Words in Sch. 4 para. 1 substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 94(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/94/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a802107ab2c08fc27b1ddde01f85aa8]: Textual amendment: Words in Sch. 4 para. 1 substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 94(4)](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/94/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_I_5dd63e8c-7050-440c-ffbc-309ef77d1ea8]: Commencement: Sch. 4 para. 2 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/b)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. FSO authorised persons: assistance etc to regulator[^key-119ebad0b41ed95677bcc0ab618b562a][^key-1c78fc3f1929b7daf7d9336e276cd3e2]
+## 14. FSO authorised persons: assistance etc to regulator[^c-119ebad0b41ed95677bcc0ab618b562a][^c-1c78fc3f1929b7daf7d9336e276cd3e2]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-119ebad0b41ed95677bcc0ab618b562a]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-119ebad0b41ed95677bcc0ab618b562a]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-1c78fc3f1929b7daf7d9336e276cd3e2]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/30/section/14) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/c)
+[^c-1c78fc3f1929b7daf7d9336e276cd3e2]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/30/section/14) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Other voting offences[^key-7dde8ce4c8c9afe26aa3000741a6539e]
+## 26. Other voting offences[^c-7dde8ce4c8c9afe26aa3000741a6539e]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7dde8ce4c8c9afe26aa3000741a6539e]: Commencement: Art. 26 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7dde8ce4c8c9afe26aa3000741a6539e]: Commencement: Art. 26 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00030]: Footnote: Section 173 is applied by article 84 of and Schedule 6 to this Order. Section 173 was substituted by the 2000 Political Parties Act, section 136 and was amended by [S.I. 2007/931](https://www.legislation.gov.uk/uksi/2007/931), article 2(4).

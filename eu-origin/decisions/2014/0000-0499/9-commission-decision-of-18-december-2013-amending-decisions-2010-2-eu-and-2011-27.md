@@ -39,34 +39,34 @@ amending Decisions 2010/2/EU and 2011/278/EU as regards the sectors and subsecto
 
 (2014/9/EU) (revoked)
 
-[^key-8a04b47c0b3a8f14ec985447a5a2fe5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a04b47c0b3a8f14ec985447a5a2fe5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Decision 2010/2/EU[^key-8a04b47c0b3a8f14ec985447a5a2fe5f]
+## Article 1. Amendments to Decision 2010/2/EU[^c-8a04b47c0b3a8f14ec985447a5a2fe5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendments to Decision 2011/278/EU[^key-8a04b47c0b3a8f14ec985447a5a2fe5f]
+## Article 2. Amendments to Decision 2011/278/EU[^c-8a04b47c0b3a8f14ec985447a5a2fe5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Addressees[^key-8a04b47c0b3a8f14ec985447a5a2fe5f]
+## Article 3. Addressees[^c-8a04b47c0b3a8f14ec985447a5a2fe5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8a04b47c0b3a8f14ec985447a5a2fe5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a04b47c0b3a8f14ec985447a5a2fe5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-8a04b47c0b3a8f14ec985447a5a2fe5f]
+## ANNEX I[^c-8a04b47c0b3a8f14ec985447a5a2fe5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-8a04b47c0b3a8f14ec985447a5a2fe5f]
+## ANNEX II[^c-8a04b47c0b3a8f14ec985447a5a2fe5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8a04b47c0b3a8f14ec985447a5a2fe5f]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-8a04b47c0b3a8f14ec985447a5a2fe5f]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

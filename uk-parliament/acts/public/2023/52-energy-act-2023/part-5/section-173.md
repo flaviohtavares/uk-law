@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Duty to keep developments in energy sector under review[^key-3f4e2bc80498306623ea806519e5bcde][^key-4e7fc2e53c86e73462d97a79f73db533]
+## 173. Duty to keep developments in energy sector under review[^c-3f4e2bc80498306623ea806519e5bcde][^c-4e7fc2e53c86e73462d97a79f73db533]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The ISOP must keep under review developments relating to the energy sector that 
 
 ## Annotations
 
-[^key-3f4e2bc80498306623ea806519e5bcde]: Commencement: S. 173 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-3f4e2bc80498306623ea806519e5bcde]: Commencement: S. 173 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-4e7fc2e53c86e73462d97a79f73db533]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2023/52/section/173) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/vi)
+[^c-4e7fc2e53c86e73462d97a79f73db533]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2023/52/section/173) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/vi)

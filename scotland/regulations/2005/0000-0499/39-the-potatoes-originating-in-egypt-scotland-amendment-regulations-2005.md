@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Potatoes Originating in Egypt (Scotland) Amendment Regulations 2005 (revoked)[^key-5f3b099b96c44237f11b3ca36d888a86]
+The Potatoes Originating in Egypt (Scotland) Amendment Regulations 2005 (revoked)[^c-5f3b099b96c44237f11b3ca36d888a86]
 
 Made
 
@@ -45,22 +45,22 @@ Coming into force
 
 28th February 2005
 
-[^key-5f3b099b96c44237f11b3ca36d888a86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f3b099b96c44237f11b3ca36d888a86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5f3b099b96c44237f11b3ca36d888a86]
+## 1. Citation and commencement[^c-5f3b099b96c44237f11b3ca36d888a86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Potatoes Originating in Egypt (Scotland) Regulations 2004[^key-5f3b099b96c44237f11b3ca36d888a86]
+## 2. Amendment of the Potatoes Originating in Egypt (Scotland) Regulations 2004[^c-5f3b099b96c44237f11b3ca36d888a86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f3b099b96c44237f11b3ca36d888a86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f3b099b96c44237f11b3ca36d888a86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f3b099b96c44237f11b3ca36d888a86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f3b099b96c44237f11b3ca36d888a86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f3b099b96c44237f11b3ca36d888a86]: Textual amendment: Regulations revoked (17.3.2007) by The Potatoes Originating in [Egypt (Scotland) Amendment Regulations 2007 (S.S.I. 2007/94)](https://www.legislation.gov.uk/ssi/2007/94), [regs. 1](https://www.legislation.gov.uk/ssi/2007/94/regulation/1), [3](https://www.legislation.gov.uk/ssi/2007/94/regulation/3)
+[^c-5f3b099b96c44237f11b3ca36d888a86]: Textual amendment: Regulations revoked (17.3.2007) by The Potatoes Originating in [Egypt (Scotland) Amendment Regulations 2007 (S.S.I. 2007/94)](https://www.legislation.gov.uk/ssi/2007/94), [regs. 1](https://www.legislation.gov.uk/ssi/2007/94/regulation/1), [3](https://www.legislation.gov.uk/ssi/2007/94/regulation/3)

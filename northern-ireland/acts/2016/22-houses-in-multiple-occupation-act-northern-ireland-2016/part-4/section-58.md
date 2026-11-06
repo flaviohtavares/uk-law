@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Works requirement[^key-3812b13735d345466aef7035042a54fd]
+## 58. Works requirement[^c-3812b13735d345466aef7035042a54fd]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3812b13735d345466aef7035042a54fd]: Commencement: [S. 58](https://www.legislation.gov.uk/nia/2016/22/section/58) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-3812b13735d345466aef7035042a54fd]: Commencement: [S. 58](https://www.legislation.gov.uk/nia/2016/22/section/58) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

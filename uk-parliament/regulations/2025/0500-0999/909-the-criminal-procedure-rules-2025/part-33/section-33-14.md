@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.14. Application for new calculation of available amount[^key-55667de6955c85063059df880f241fdc]
+## 33.14. Application for new calculation of available amount[^c-55667de6955c85063059df880f241fdc]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55667de6955c85063059df880f241fdc]: Commencement: [Rule 33.14](https://www.legislation.gov.uk/uksi/2025/909/rule/33.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-55667de6955c85063059df880f241fdc]: Commencement: [Rule 33.14](https://www.legislation.gov.uk/uksi/2025/909/rule/33.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00804]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 22 was amended by section 74(2) of, and paragraph 11 of Schedule 8 to, the Serious Crime Act 2007 (c. 27).

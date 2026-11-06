@@ -22,18 +22,18 @@ summary: ''
 
 Article 2
 
-### 1. Interpretation[^key-ad43f386e005ba81f4f6bdd9422007ea]
+### 1. Interpretation[^c-ad43f386e005ba81f4f6bdd9422007ea]
 
 In this Schedule—
 
 - “**county authority**” means Lincolnshire County Council;
 - “**both relevant planning authorities**” means North Kesteven District Council and Boston Borough Council each being the relevant planning authority for part of the authorised development.
 
-### 2. Commencement of the authorised development[^key-79f6a6c6d6e603fa4064515165d083f0]
+### 2. Commencement of the authorised development[^c-79f6a6c6d6e603fa4064515165d083f0]
 
 The authorised development must commence no later than the expiration of five years beginning with the date this Order comes into force.
 
-### 3. Phasing the authorised development and date of final commissioning[^key-74c3fb10cbac74c5a02016f98d756906]
+### 3. Phasing the authorised development and date of final commissioning[^c-74c3fb10cbac74c5a02016f98d756906]
 
 (1) No part of the authorised development may commence until a written scheme setting out the phase or phases of construction of the authorised development has been submitted to both relevant planning authorities and the county authority.
 
@@ -49,17 +49,17 @@ The authorised development must commence no later than the expiration of five ye
 
 (5) In respect of the phase or phases, the undertaker must give notice to both relevant planning authorities within 21 days of the date of final commissioning that final commissioning of the phase or, where there is more than one phase, each phase has taken place.
 
-### 4. Requirement for written approval[^key-dcddd17d66216a75495d69a0136731e3]
+### 4. Requirement for written approval[^c-dcddd17d66216a75495d69a0136731e3]
 
 Where under any of the requirements the approval, agreement or confirmation of both relevant planning authorities or the county authority or relevant planning authority (as applicable) or another person is required, that approval, agreement or confirmation must be provided in writing.
 
-### 5. Approved details and amendments to them[^key-7763d70c680b1736fedd432d1b67bfce]
+### 5. Approved details and amendments to them[^c-7763d70c680b1736fedd432d1b67bfce]
 
 (1) With respect to the documents certified under article 37 (certification of plans and documents, etc.) and any plans, details or schemes which have been approved pursuant to any requirement (together the “Approved Documents, Plans, Details or Schemes”), the undertaker may submit to the county authority or relevant planning authority or both relevant planning authorities (as applicable) for approval any amendments to any of the Approved Documents, Plans, Details or Schemes and, following approval by the county authority or relevant planning authority or both relevant planning authorities (as applicable), the relevant Approved Documents, Plans, Details or Schemes is to be taken to include the amendments as so approved pursuant to this paragraph.
 
 (2) Approval under sub-paragraph (1) for the amendments to any of the Approved Documents, Plans, Details or Schemes must not be given except where it has been demonstrated to the satisfaction of the county authority, the relevant planning authority or both relevant planning authorities (as applicable) that the subject matter of the approval sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
-### 6. Detailed design approval[^key-70439022457b59121d87155dcb670633]
+### 6. Detailed design approval[^c-70439022457b59121d87155dcb670633]
 
 (1) No phase of the authorised development may commence until details of—
 
@@ -81,7 +81,7 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (4) Sub-paragraph (1) does not apply to the matters listed under sub-paragraph (1)(f) if consent has already been given to the details of those works pursuant to articles 9, 10, or 12.
 
-### 7. Fire safety management[^key-be358731a1accb5ac422257b22f96e07]
+### 7. Fire safety management[^c-be358731a1accb5ac422257b22f96e07]
 
 (1) Work No. 2 must not commence until an energy storage safety management plan (ESSMP), substantially in accordance with the outline energy storage safety management plan, has been submitted to and approved by the county authority in consultation with North Kesteven District Council, Boston Borough Council, and the Lincolnshire Fire and Rescue Service.
 
@@ -89,7 +89,7 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (3) The ESSMP must be implemented as approved.
 
-### 8. Landscape ecological management plan[^key-649bd79078766065fe778b05f4823699]
+### 8. Landscape ecological management plan[^c-649bd79078766065fe778b05f4823699]
 
 (1) No phase of the authorised development may commence until a written landscape ecological management plan (which is substantially in accordance with the outline landscape ecological management plan) has been submitted to and approved by the relevant planning authority for that phase or, where the phase falls within the administrative areas of both the District of North Kesteven and the Borough of Boston, both relevant planning authorities.
 
@@ -104,11 +104,11 @@ relating to that phase have been submitted and approved in writing by the releva
 
 (4) The landscape ecological management plan must be implemented as approved.
 
-### 9. Implementation and maintenance of landscaping[^key-5a939b7bcf43d27babc0833c9a6fc094]
+### 9. Implementation and maintenance of landscaping[^c-5a939b7bcf43d27babc0833c9a6fc094]
 
 All landscaping works must be carried out in accordance with the landscape ecological management plan approved under requirement 8 (landscape ecological management plan) as relevant to that phase.
 
-### 10. Fencing and other means of enclosure[^key-a4dc0d8df513791ab7bc5159593d5e83]
+### 10. Fencing and other means of enclosure[^c-a4dc0d8df513791ab7bc5159593d5e83]
 
 (1) No phase of the authorised development may commence until written details of all proposed temporary fences, walls or other means of enclosure, including those set out in the construction environmental management plan, for that phase have been submitted to and approved by the relevant planning authority or, where the phase falls within the administrative areas of both the District of North Kesteven and the Borough of Boston, both relevant planning authorities.
 
@@ -120,13 +120,13 @@ All landscaping works must be carried out in accordance with the landscape ecolo
 
 (5) In the event that temporary fences, walls or other means of enclosure are required for the permitted preliminary works, no permitted preliminary works may take place until written details of all proposed temporary fences, walls or other means of enclosure required for such works have been submitted to and approved by the relevant planning authority or, where the permitted preliminary works fall within the administrative areas of both the District of North Kesteven and the Borough of Boston, both relevant planning authorities.
 
-### 11. Surface and foul water drainage[^key-1ff7d604327697e5a66bdc0c374d3a33]
+### 11. Surface and foul water drainage[^c-1ff7d604327697e5a66bdc0c374d3a33]
 
 (1) No phase of the authorised development may commence until details of the surface water drainage strategy and (if any) foul water drainage system (including means of pollution control) (which must be substantially in accordance with the outline drainage strategy in the flood risk assessment) for that phase have been submitted to and approved by the county authority, such approval to be in consultation with the Black Sluice Internal Drainage Board and Anglian Water (in respect of its sewerage undertaker functions).
 
 (2) Any scheme approved pursuant to sub-paragraph (1) must be implemented as approved and maintained throughout the construction and operation of the authorised development.
 
-### 12. Archaeology[^key-d4105232e1a840fb9cb37719d5c9c948]
+### 12. Archaeology[^c-d4105232e1a840fb9cb37719d5c9c948]
 
 (1) Any part of Work No. 5, Work No. 5A, and Work No. 5B that has not already been subject to archaeological evaluation must not commence until a written scheme of archaeological investigation (which must accord with the outline written scheme of investigation – evaluation) has been submitted to and approved by the county authority, in consultation with the relevant planning authority.
 
@@ -144,25 +144,25 @@ All landscaping works must be carried out in accordance with the landscape ecolo
 
 (5) No pre-commencement intrusive archaeological surveys, site preparation works and archaeological investigations may take place until a specific scheme(s) of investigations which is in accordance with the relevant details set out in the outline written scheme of investigations has been submitted to and approved by the county authority, in consultation with the relevant planning authority.
 
-### 13. Construction environmental management plan[^key-ef5e65090911e919dfbcc16effa22a77]
+### 13. Construction environmental management plan[^c-ef5e65090911e919dfbcc16effa22a77]
 
 (1) No phase of the authorised development may commence until a construction environmental management plan (which must be substantially in accordance with the outline construction environmental management plan) for that phase has been submitted to and approved by the relevant planning authority for that phase or, where the phase falls within the administrative areas of both the District of North Kesteven and the Borough of Boston, both relevant planning authorities, such approval to be in consultation with the county authority and the Environment Agency.
 
 (2) All construction works associated with the authorised development must be carried out in accordance with the approved construction environmental management plan.
 
-### 14. Construction traffic management plan[^key-e52c4b2e6616eab0b06f50711f256982]
+### 14. Construction traffic management plan[^c-e52c4b2e6616eab0b06f50711f256982]
 
 (1) No phase of the authorised development may commence until a construction traffic management plan (which must be substantially in accordance with the outline construction traffic management plan) for that phase has been submitted to and approved by the county authority, such approval to be in consultation with the relevant planning authority for that phase or, where the phase falls within the administrative areas of both the District of North Kesteven and the Borough of Boston, both relevant planning authorities.
 
 (2) The construction traffic management plan must be implemented as approved.
 
-### 15. Operational noise[^key-15836a49f8a651292a0325dbdc331fe7]
+### 15. Operational noise[^c-15836a49f8a651292a0325dbdc331fe7]
 
 (1) Work No. 1A, Work No. 2, and Work No. 4 must not begin operating until an operational noise assessment containing details of how the design of Work No. 1A, Work No. 2 and Work No. 4 ensures the operational noise rating levels set out in Table 12.8 of Chapter 12 of the environmental statement are to be complied with has been submitted to and approved by both relevant planning authorities.
 
 (2) The measures as described in the operational noise assessment must be implemented and maintained as approved throughout the operation of the authorised development.
 
-### 16. Supply chain, employment and skills[^key-6bed63fe47e9251fca8989cf27503bd0]
+### 16. Supply chain, employment and skills[^c-6bed63fe47e9251fca8989cf27503bd0]
 
 (1) No part of Works No. 1, 2, 3, 4, 5, 5A and 5B may commence until a supply chain, employment, and skills plan (which must be substantially in accordance with the outline supply chain, employment, and skills plan) has been submitted to and approved by both relevant planning authorities, such approval to be in consultation with the county authority.
 
@@ -170,7 +170,7 @@ All landscaping works must be carried out in accordance with the landscape ecolo
 
 (3) The supply chain, employment, and skills plan must be implemented as approved.
 
-### 17. Permissive path[^key-820c3d5509dc54ac14493c242436c35b]
+### 17. Permissive path[^c-820c3d5509dc54ac14493c242436c35b]
 
 (1) Prior to the construction of the permissive path, the undertaker must submit details of the permissive path to the county authority for approval, such approval to be in consultation with North Kesteven District Council, such details to cover—
 
@@ -182,7 +182,7 @@ All landscaping works must be carried out in accordance with the landscape ecolo
 
 (3) The permissive path must be provided and maintained in accordance with the permissive path details and retained until the part of the authorised development in which the permissive path is located is decommissioned pursuant to requirement 18 (decommissioning and restoration).
 
-### 18. Decommissioning and restoration[^key-6b09d651ea29e802be1ac450964f1748]
+### 18. Decommissioning and restoration[^c-6b09d651ea29e802be1ac450964f1748]
 
 (1) No later than 12 months prior to the date the undertaker intends to decommission any part of the authorised development, the undertaker must notify the relevant planning authority and county authority of the intended date of decommissioning.
 
@@ -198,7 +198,7 @@ All landscaping works must be carried out in accordance with the landscape ecolo
 
 (7) This requirement is without prejudice to any other consents or permissions which may be required to decommission any part of the authorised development.
 
-### 19. Operational Environmental Management Plan[^key-fa38e65c3c25e8827bd63834a1948736]
+### 19. Operational Environmental Management Plan[^c-fa38e65c3c25e8827bd63834a1948736]
 
 (1) Prior to the date of final commissioning for any phase of the authorised development, an operational environmental management plan (which must be substantially in accordance with the outline operational environmental management plan) for that phase must be submitted to and approved by the relevant planning authority for that phase or, where the phase falls within the administrative areas of both the District of North Kesteven and the Borough of Boston, both relevant planning authorities.
 
@@ -206,13 +206,13 @@ All landscaping works must be carried out in accordance with the landscape ecolo
 
 (3) The operation of any phase of the authorised development must be carried out and maintained in accordance with the approved operational environmental management plan for that phase.
 
-### 20. Soil Management Plan[^key-42926b743129ea0c4f584ddcad9c67f6]
+### 20. Soil Management Plan[^c-42926b743129ea0c4f584ddcad9c67f6]
 
 (1) No phase of the authorised development may commence until a soil management plan (which must be substantially in accordance with the relevant part of the outline soil management plan) for that phase has been submitted to and approved by the relevant planning authority for that phase or, where the phase falls within the administrative areas of both the District of North Kesteven and the Borough of Boston, both relevant planning authorities.
 
 (2) The construction of any phase of the authorised development must be carried out in accordance with the approved soil management plan for that phase.
 
-### 21. Community Orchard[^key-0fb879f8a62cf22272ffb44248a265d1]
+### 21. Community Orchard[^c-0fb879f8a62cf22272ffb44248a265d1]
 
 (1) Prior to the construction of the community orchard, the undertaker must submit the community orchard details to North Kesteven District Council for approval, such details to cover—
 
@@ -225,44 +225,44 @@ All landscaping works must be carried out in accordance with the landscape ecolo
 
 ## Annotations
 
-[^key-ad43f386e005ba81f4f6bdd9422007ea]: Commencement: Sch. 2 para. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-ad43f386e005ba81f4f6bdd9422007ea]: Commencement: Sch. 2 para. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-79f6a6c6d6e603fa4064515165d083f0]: Commencement: Sch. 2 para. 2 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-79f6a6c6d6e603fa4064515165d083f0]: Commencement: Sch. 2 para. 2 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-74c3fb10cbac74c5a02016f98d756906]: Commencement: Sch. 2 para. 3 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-74c3fb10cbac74c5a02016f98d756906]: Commencement: Sch. 2 para. 3 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-dcddd17d66216a75495d69a0136731e3]: Commencement: Sch. 2 para. 4 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-dcddd17d66216a75495d69a0136731e3]: Commencement: Sch. 2 para. 4 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-7763d70c680b1736fedd432d1b67bfce]: Commencement: Sch. 2 para. 5 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-7763d70c680b1736fedd432d1b67bfce]: Commencement: Sch. 2 para. 5 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-70439022457b59121d87155dcb670633]: Commencement: Sch. 2 para. 6 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-70439022457b59121d87155dcb670633]: Commencement: Sch. 2 para. 6 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-be358731a1accb5ac422257b22f96e07]: Commencement: Sch. 2 para. 7 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-be358731a1accb5ac422257b22f96e07]: Commencement: Sch. 2 para. 7 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-649bd79078766065fe778b05f4823699]: Commencement: Sch. 2 para. 8 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-649bd79078766065fe778b05f4823699]: Commencement: Sch. 2 para. 8 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-5a939b7bcf43d27babc0833c9a6fc094]: Commencement: Sch. 2 para. 9 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-5a939b7bcf43d27babc0833c9a6fc094]: Commencement: Sch. 2 para. 9 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-a4dc0d8df513791ab7bc5159593d5e83]: Commencement: Sch. 2 para. 10 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-a4dc0d8df513791ab7bc5159593d5e83]: Commencement: Sch. 2 para. 10 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-1ff7d604327697e5a66bdc0c374d3a33]: Commencement: Sch. 2 para. 11 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-1ff7d604327697e5a66bdc0c374d3a33]: Commencement: Sch. 2 para. 11 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-d4105232e1a840fb9cb37719d5c9c948]: Commencement: Sch. 2 para. 12 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-d4105232e1a840fb9cb37719d5c9c948]: Commencement: Sch. 2 para. 12 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-ef5e65090911e919dfbcc16effa22a77]: Commencement: Sch. 2 para. 13 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-ef5e65090911e919dfbcc16effa22a77]: Commencement: Sch. 2 para. 13 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-e52c4b2e6616eab0b06f50711f256982]: Commencement: Sch. 2 para. 14 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-e52c4b2e6616eab0b06f50711f256982]: Commencement: Sch. 2 para. 14 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-15836a49f8a651292a0325dbdc331fe7]: Commencement: Sch. 2 para. 15 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-15836a49f8a651292a0325dbdc331fe7]: Commencement: Sch. 2 para. 15 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-6bed63fe47e9251fca8989cf27503bd0]: Commencement: Sch. 2 para. 16 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-6bed63fe47e9251fca8989cf27503bd0]: Commencement: Sch. 2 para. 16 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-820c3d5509dc54ac14493c242436c35b]: Commencement: Sch. 2 para. 17 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-820c3d5509dc54ac14493c242436c35b]: Commencement: Sch. 2 para. 17 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-6b09d651ea29e802be1ac450964f1748]: Commencement: Sch. 2 para. 18 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-6b09d651ea29e802be1ac450964f1748]: Commencement: Sch. 2 para. 18 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-fa38e65c3c25e8827bd63834a1948736]: Commencement: Sch. 2 para. 19 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-fa38e65c3c25e8827bd63834a1948736]: Commencement: Sch. 2 para. 19 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-42926b743129ea0c4f584ddcad9c67f6]: Commencement: Sch. 2 para. 20 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-42926b743129ea0c4f584ddcad9c67f6]: Commencement: Sch. 2 para. 20 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-0fb879f8a62cf22272ffb44248a265d1]: Commencement: Sch. 2 para. 21 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-0fb879f8a62cf22272ffb44248a265d1]: Commencement: Sch. 2 para. 21 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

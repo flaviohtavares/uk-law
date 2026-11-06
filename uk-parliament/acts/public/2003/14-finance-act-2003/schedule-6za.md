@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6ZA — Relief for first-time buyers[^key-281014502f0178c711a4ee1d73e95594][^key-eef9df9473b5836ab6eba3f020cb0ea8]
+## SCHEDULE 6ZA — Relief for first-time buyers[^c-281014502f0178c711a4ee1d73e95594][^c-eef9df9473b5836ab6eba3f020cb0ea8]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,7 +64,7 @@ summary: ''
 - “**financial institution**” has the meaning it has in those sections (see section 73BA), and
 - “**first transaction**”, in relation to an alternative finance arrangement, has the meaning given by section 71A(1)(a) or (as the case may be) section 73(1)(a)(i).
 
-#### Eligibility for relief: acquisition of new lease on bare trust[^key-1b971723fe9a68a44213ce35e14111ce]
+#### Eligibility for relief: acquisition of new lease on bare trust[^c-1b971723fe9a68a44213ce35e14111ce]
 
 **3A.** In determining who is the purchaser for the purposes of paragraphs 1(4) and 2(2), paragraph 3 of Schedule 16 is to have effect as if sub-paragraphs (2) and (3) (trustee of bare trust granted a lease treated as purchaser of the whole of the interest acquired) were omitted.
 
@@ -105,7 +105,7 @@ summary: ''
 
 (2) For the purposes of sub-paragraph (1)(b) and (d), ignore a lease or, in the case of a dwelling situated in Wales, a term of years absolute[^M_F_c056cb80-92e1-4fd6-a762-954ffd61ca05] which has less than 21 years to run at the beginning of the day after the date on which it is acquired.
 
-(3)[^key-7bd065ad75b4cd267b2df9b7d2696a9f] In determining any question for the purposes of sub-paragraph (1), paragraph 3 of Schedule 16 is to have effect as if sub-paragraphs (2) and (3) (trustee of bare trust granted a lease treated as purchaser of the whole of the interest acquired) were omitted.
+(3)[^c-7bd065ad75b4cd267b2df9b7d2696a9f] In determining any question for the purposes of sub-paragraph (1), paragraph 3 of Schedule 16 is to have effect as if sub-paragraphs (2) and (3) (trustee of bare trust granted a lease treated as purchaser of the whole of the interest acquired) were omitted.
 
 #### “Relevant consideration”
 
@@ -149,11 +149,11 @@ summary: ''
 
 ## Annotations
 
-[^key-281014502f0178c711a4ee1d73e95594]: Modification: [Sch. 6ZA](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6ZA) modified (temp.) (8.2.2023) by [Stamp Duty Land Tax (Temporary Relief) Act 2023 (c. 2)](https://www.legislation.gov.uk/ukpga/2023/2), [s. 1](https://www.legislation.gov.uk/ukpga/2023/2/section/1)
+[^c-281014502f0178c711a4ee1d73e95594]: Modification: [Sch. 6ZA](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6ZA) modified (temp.) (8.2.2023) by [Stamp Duty Land Tax (Temporary Relief) Act 2023 (c. 2)](https://www.legislation.gov.uk/ukpga/2023/2), [s. 1](https://www.legislation.gov.uk/ukpga/2023/2/section/1)
 
-[^key-eef9df9473b5836ab6eba3f020cb0ea8]: Textual amendment: Sch. 6ZA inserted (with effect in accordance with s. 41(8) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2018/3/section/41/3)
+[^c-eef9df9473b5836ab6eba3f020cb0ea8]: Textual amendment: Sch. 6ZA inserted (with effect in accordance with s. 41(8) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2018/3/section/41/3)
 
-[^key-1b971723fe9a68a44213ce35e14111ce]: Textual amendment: [Sch. 6ZA para. 3A](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6ZA/paragraph/3A) and cross-heading inserted (with effect in accordance with s. 8(4) of the amending Act) by [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2024/12/section/8/2)
+[^c-1b971723fe9a68a44213ce35e14111ce]: Textual amendment: [Sch. 6ZA para. 3A](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6ZA/paragraph/3A) and cross-heading inserted (with effect in accordance with s. 8(4) of the amending Act) by [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2024/12/section/8/2)
 
 [^M_F_5ae8b3e7-4845-4ad6-c140-670688094d83]: Textual amendment: Words in Sch. 6ZA para. 6(1)(b) inserted (1.4.2018 with effect in accordance with [s. 16(4)(5)](https://www.legislation.gov.uk/ukpga/2014/29/section/16/4/5) of the amending Act) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b/3), [Sch. 2 para. 9A(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/9A/2/a); [S.I. 2018/214](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
@@ -161,4 +161,4 @@ summary: ''
 
 [^M_F_c056cb80-92e1-4fd6-a762-954ffd61ca05]: Textual amendment: Words in Sch. 6ZA para. 6(2) inserted (1.4.2018 with effect in accordance with [s. 16(4)(5)](https://www.legislation.gov.uk/ukpga/2014/29/section/16/4/5) of the amending Act) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b/3), [Sch. 2 para. 9A(3)](https://www.legislation.gov.uk/ukpga/2014/29/schedule/2/paragraph/9A/3); [S.I. 2018/214](https://www.legislation.gov.uk/uksi/2018/214), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/214/article/2/a)
 
-[^key-7bd065ad75b4cd267b2df9b7d2696a9f]: Textual amendment: [Sch. 6ZA para. 6(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6ZA/paragraph/6/3) inserted (with effect in accordance with s. 8(5)(6) of the amending Act) by [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 8(3)](https://www.legislation.gov.uk/ukpga/2024/12/section/8/3)
+[^c-7bd065ad75b4cd267b2df9b7d2696a9f]: Textual amendment: [Sch. 6ZA para. 6(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6ZA/paragraph/6/3) inserted (with effect in accordance with s. 8(5)(6) of the amending Act) by [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 8(3)](https://www.legislation.gov.uk/ukpga/2024/12/section/8/3)

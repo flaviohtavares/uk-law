@@ -22,7 +22,7 @@ summary: ''
 
 Section 244
 
-### 1. Appealable decisions[^key-81ee2f8db4efe5c2d4bb69b2decb16d0][^key-935aae22d4709963e88a2372a662d0ce]
+### 1. Appealable decisions[^c-81ee2f8db4efe5c2d4bb69b2decb16d0][^c-935aae22d4709963e88a2372a662d0ce]
 
 A person may appeal to the tribunal against a decision of an officer of Revenue and Customs in respect of any of the following matters—
 
@@ -35,7 +35,7 @@ A person may appeal to the tribunal against a decision of an officer of Revenue 
 - (g) whether to approve an application under paragraph 10 (temporary relief from suspension of registration pending review or appeal: cases other than amount of tax etc overdue);
 - (h) whether to revoke such an approval, or to impose or vary any conditions or restrictions that such an approval is subject to, under paragraph 10.
 
-### 2. Offer of review[^key-c78d8947d8aad6568eaae66718e92f4c][^key-78b0cfe0e1f4ea0a9daec78068c1bf02]
+### 2. Offer of review[^c-c78d8947d8aad6568eaae66718e92f4c][^c-78b0cfe0e1f4ea0a9daec78068c1bf02]
 
 (1) HMRC must offer a person a review of a decision that has been notified to the person if an appeal against the decision may be brought under paragraph 1.
 
@@ -46,7 +46,7 @@ A person may appeal to the tribunal against a decision of an officer of Revenue 
 - (a) a decision mentioned in paragraph 1(g) or (h) (temporary relief from suspension of registration pending review or appeal: cases other than amount of tax etc overdue), or
 - (b) a decision consisting of a conclusion of a review under this Schedule.
 
-### 3. Time to accept offer of review[^key-f9021818fd20ef92441b97018c97fba2][^key-c35992611d4059ce0ed800d96363a4ef]
+### 3. Time to accept offer of review[^c-f9021818fd20ef92441b97018c97fba2][^c-c35992611d4059ce0ed800d96363a4ef]
 
 (1) Where HMRC have offered a person a review of a decision under paragraph 2, the person may accept the offer by notice to HMRC within the period of 30 days beginning with the day on which notice of the offer was issued.
 
@@ -57,7 +57,7 @@ A person may appeal to the tribunal against a decision of an officer of Revenue 
 
 (3) But an officer may not give a notice under sub-paragraph (2) after the period within which a person may accept the offer has ended.
 
-### 4. Review out of time[^key-0c1d030373f4781f30921b9b929f1cf1][^key-f319a82f62dfe4e2e270faa09ccba01d]
+### 4. Review out of time[^c-0c1d030373f4781f30921b9b929f1cf1][^c-f319a82f62dfe4e2e270faa09ccba01d]
 
 (1) Where HMRC have offered a person a review of a decision under paragraph 2, the person may accept the offer by notice to HMRC after the period for accepting the offer has ended if an officer of Revenue and Customs agrees.
 
@@ -68,11 +68,11 @@ A person may appeal to the tribunal against a decision of an officer of Revenue 
 
 (3) If a request of the kind mentioned in sub-paragraph (2) is made, an officer of Revenue and Customs must notify the person whether they agree to the request.
 
-### 5. No review after appeal to the tribunal[^key-d2239f7ceb5c474c855a98c5e23991df][^key-c3d42aea51ca94d41ddd38dac48c884e]
+### 5. No review after appeal to the tribunal[^c-d2239f7ceb5c474c855a98c5e23991df][^c-c3d42aea51ca94d41ddd38dac48c884e]
 
 Where HMRC have offered a person a review of a decision under paragraph 2, the person may not accept the offer under paragraph 3 or 4 if they have appealed to the tribunal against the decision.
 
-### 6. Review[^key-d7088e690c8a07237aa0b947c3c38588][^key-cae706519b9d5ae48ed060b5decaf7d0]
+### 6. Review[^c-d7088e690c8a07237aa0b947c3c38588][^c-cae706519b9d5ae48ed060b5decaf7d0]
 
 (1) This paragraph applies if a person accepts an offer under paragraph 3 or 4 to review a decision.
 
@@ -97,7 +97,7 @@ Where HMRC have offered a person a review of a decision under paragraph 2, the p
 
 (8) If sub-paragraph (7) applies, an officer of Revenue and Customs must notify the person of the conclusion which the review is treated as having reached.
 
-### 7. Bringing of appeals[^key-bf3707b05a0dbf14901e179c2e835492][^key-eeb4cc1535ba61855415138fdb85c77f]
+### 7. Bringing of appeals[^c-bf3707b05a0dbf14901e179c2e835492][^c-eeb4cc1535ba61855415138fdb85c77f]
 
 (1) This paragraph applies where HMRC have offered to review a decision that a person may appeal against to the tribunal.
 
@@ -120,11 +120,11 @@ Where HMRC have offered a person a review of a decision under paragraph 2, the p
 - (a) the period of 30 days beginning with the day on which notice of the conclusions of the review was issued by an officer of Revenue and Customs, or
 - (b) where paragraph 6(7) applies, the period beginning with the end of the period specified in paragraph 6(6) and ending 30 days after the day on which the notification under paragraph 6(8) is issued by an officer of Revenue and Customs.
 
-### 8. Powers of tribunal[^key-67f8bb9bc9c944fe4f691b3afc852e87][^key-864afc511ba27523c701da9d96cc13e8]
+### 8. Powers of tribunal[^c-67f8bb9bc9c944fe4f691b3afc852e87][^c-864afc511ba27523c701da9d96cc13e8]
 
 On an appeal under paragraph 1 that is notified to the tribunal, the tribunal may confirm, vary or cancel the decision.
 
-### 9. Temporary relief from suspension of registration pending review or appeal: amount of tax etc overdue[^key-8d1c8f429a04d07b1b368b6adc6c487a][^key-198945515f098e7394e46f42a363ad8c]
+### 9. Temporary relief from suspension of registration pending review or appeal: amount of tax etc overdue[^c-8d1c8f429a04d07b1b368b6adc6c487a][^c-198945515f098e7394e46f42a363ad8c]
 
 (1) This paragraph applies where—
 
@@ -151,7 +151,7 @@ On an appeal under paragraph 1 that is notified to the tribunal, the tribunal ma
 
 (6) HMRC may specify in a notice published by them provision about the form, manner, timing and content of applications under this paragraph.
 
-### 10. Temporary relief from suspension of registration pending review or appeal: other cases[^key-552b519a512d25e015e81d2605161cdc][^key-7cac796eb2bb79fe912ac56a27608d1d]
+### 10. Temporary relief from suspension of registration pending review or appeal: other cases[^c-552b519a512d25e015e81d2605161cdc][^c-7cac796eb2bb79fe912ac56a27608d1d]
 
 (1) This paragraph applies where—
 
@@ -193,42 +193,42 @@ On an appeal under paragraph 1 that is notified to the tribunal, the tribunal ma
 
 ## Annotations
 
-[^key-81ee2f8db4efe5c2d4bb69b2decb16d0]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/1) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-81ee2f8db4efe5c2d4bb69b2decb16d0]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/1) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-935aae22d4709963e88a2372a662d0ce]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/1) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-935aae22d4709963e88a2372a662d0ce]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/1) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
 
-[^key-c78d8947d8aad6568eaae66718e92f4c]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/2) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-c78d8947d8aad6568eaae66718e92f4c]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/2) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-78b0cfe0e1f4ea0a9daec78068c1bf02]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/2) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-78b0cfe0e1f4ea0a9daec78068c1bf02]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/2) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
 
-[^key-f9021818fd20ef92441b97018c97fba2]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/3) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-f9021818fd20ef92441b97018c97fba2]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/3) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-c35992611d4059ce0ed800d96363a4ef]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/3) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-c35992611d4059ce0ed800d96363a4ef]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/3) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
 
-[^key-0c1d030373f4781f30921b9b929f1cf1]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/4) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-0c1d030373f4781f30921b9b929f1cf1]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/4) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-f319a82f62dfe4e2e270faa09ccba01d]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/4) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-f319a82f62dfe4e2e270faa09ccba01d]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/4) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
 
-[^key-d2239f7ceb5c474c855a98c5e23991df]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/5) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-d2239f7ceb5c474c855a98c5e23991df]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/5) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-c3d42aea51ca94d41ddd38dac48c884e]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/5) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-c3d42aea51ca94d41ddd38dac48c884e]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/5) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
 
-[^key-d7088e690c8a07237aa0b947c3c38588]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/6) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-d7088e690c8a07237aa0b947c3c38588]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/6) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-cae706519b9d5ae48ed060b5decaf7d0]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/6) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-cae706519b9d5ae48ed060b5decaf7d0]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/6) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
 
-[^key-bf3707b05a0dbf14901e179c2e835492]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/7) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-bf3707b05a0dbf14901e179c2e835492]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/7) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-eeb4cc1535ba61855415138fdb85c77f]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/7) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-eeb4cc1535ba61855415138fdb85c77f]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/7) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
 
-[^key-67f8bb9bc9c944fe4f691b3afc852e87]: Commencement: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/8) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-67f8bb9bc9c944fe4f691b3afc852e87]: Commencement: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/8) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-864afc511ba27523c701da9d96cc13e8]: Commencement: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/8) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-864afc511ba27523c701da9d96cc13e8]: Commencement: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/8) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
 
-[^key-8d1c8f429a04d07b1b368b6adc6c487a]: Commencement: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/9) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-8d1c8f429a04d07b1b368b6adc6c487a]: Commencement: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/9) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-198945515f098e7394e46f42a363ad8c]: Commencement: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/9) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-198945515f098e7394e46f42a363ad8c]: Commencement: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/9) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
 
-[^key-552b519a512d25e015e81d2605161cdc]: Commencement: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/10) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-552b519a512d25e015e81d2605161cdc]: Commencement: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/10) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-7cac796eb2bb79fe912ac56a27608d1d]: Commencement: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/10) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-7cac796eb2bb79fe912ac56a27608d1d]: Commencement: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/21/paragraph/10) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

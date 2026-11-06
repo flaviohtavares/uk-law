@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The relevant competent authorities of the United Kingdom[^key-e9c9a516b1a8d435e5a5a59240d530f9] shall recognise marking methods approved by the competent authorities of third countries that comply with Article 66.
+1. The relevant competent authorities of the United Kingdom[^c-e9c9a516b1a8d435e5a5a59240d530f9] shall recognise marking methods approved by the competent authorities of third countries that comply with Article 66.
 
 2. Where a permit or certificate is required pursuant to this Regulation, full details of the marking of the specimen shall be provided on such a document.
 
 ## Annotations
 
-[^key-e9c9a516b1a8d435e5a5a59240d530f9]: Textual amendment: Words in [Art. 68(1)](https://www.legislation.gov.uk/eur/2006/865/article/68/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(66)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/66)
+[^c-e9c9a516b1a8d435e5a5a59240d530f9]: Textual amendment: Words in [Art. 68(1)](https://www.legislation.gov.uk/eur/2006/865/article/68/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(66)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/66)

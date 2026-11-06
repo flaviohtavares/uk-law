@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Article 25 substituted[^key-f99f7bedf2de706865717d2fce0313d1]
+## 14. Article 25 substituted[^c-f99f7bedf2de706865717d2fce0313d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ For article 25 substitute—
 
 ## Annotations
 
-[^key-f99f7bedf2de706865717d2fce0313d1]: Commencement: Art. 14 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-f99f7bedf2de706865717d2fce0313d1]: Commencement: Art. 14 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E1. Guaranteed minimum pension for certain pensionable employees and their widows[^key-50494a4bd7419cd469e8ad1429679eab]
+## E1. Guaranteed minimum pension for certain pensionable employees and their widows[^c-50494a4bd7419cd469e8ad1429679eab]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50494a4bd7419cd469e8ad1429679eab]: Commencement: [Reg. E1](https://www.legislation.gov.uk/uksi/1986/24/regulation/E1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-50494a4bd7419cd469e8ad1429679eab]: Commencement: [Reg. E1](https://www.legislation.gov.uk/uksi/1986/24/regulation/E1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

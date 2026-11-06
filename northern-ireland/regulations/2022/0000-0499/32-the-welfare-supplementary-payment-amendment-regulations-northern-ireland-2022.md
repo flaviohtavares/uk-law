@@ -44,19 +44,19 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 In accordance with Article 137(5) and 137A(9) of that Order, a draft of these Regulations has been laid before, and approved by a resolution of, the Assembly.
 
-## 1. Citation, commencement and cessation[^key-ef4138c26ffb52d17372f35408f23388]
+## 1. Citation, commencement and cessation[^c-ef4138c26ffb52d17372f35408f23388]
 
 (1) These Regulations may be cited as the Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2022.
 
 (2) They come into operation on the day after the day they are made.
 
-(3)[^key-5b7f6519e3783c83d90edfe37b9e9e0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5b7f6519e3783c83d90edfe37b9e9e0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Non-retrospective effect of provisions[^key-b833b92b9129352d0ed8bbf02a03dbfe]
+## 2. Non-retrospective effect of provisions[^c-b833b92b9129352d0ed8bbf02a03dbfe]
 
 No provision of these Regulations is to be regarded as having effect at any time before it came into operation.
 
-## 3. Amendments to the Welfare Supplementary Payments Regulations (Northern Ireland) 2016[^key-819c798ee8882a8f5ff0640932acfd13]
+## 3. Amendments to the Welfare Supplementary Payments Regulations (Northern Ireland) 2016[^c-819c798ee8882a8f5ff0640932acfd13]
 
 (1) The Welfare Supplementary Payments Regulations (Northern Ireland) 2016[^f00003] are amended in accordance with paragraphs (2) to (5).
 
@@ -94,7 +94,7 @@ No provision of these Regulations is to be regarded as having effect at any time
   ; and
 - (b) at the end of paragraph (3)(b) insert “or (2A)”.
 
-## 4. Amendments to the Housing Benefit (Welfare Supplementary Payment) Regulations (Northern Ireland) 2017[^key-6bfd1bc51eb465030222a2913e72c587]
+## 4. Amendments to the Housing Benefit (Welfare Supplementary Payment) Regulations (Northern Ireland) 2017[^c-6bfd1bc51eb465030222a2913e72c587]
 
 (1) The Housing Benefit (Welfare Supplementary Payment) Regulations (Northern Ireland) 2017[^f00007] are amended in accordance with paragraphs (2) and (3).
 
@@ -151,13 +151,13 @@ Regulation 4(3) amends regulation 7 and will remove the regulation that allowed 
 
 [^f00002]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006); Article 137 was amended by Article 18(2) of the Welfare Reform and Work (Northern Ireland) Order 2016 ([S.I. 2016/999 (N.I. 1)](https://www.legislation.gov.uk/nisi/2016/999)) and Article 137A was inserted by Article 19(2) of that Order
 
-[^key-ef4138c26ffb52d17372f35408f23388]: Commencement: Reg. 1 in operation at 10.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2)
+[^c-ef4138c26ffb52d17372f35408f23388]: Commencement: Reg. 1 in operation at 10.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2)
 
-[^key-5b7f6519e3783c83d90edfe37b9e9e0b]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/3) omitted (20.3.2025) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2025 (S.R. 2025/59)](https://www.legislation.gov.uk/nisr/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/59/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2025/59/regulation/3)
+[^c-5b7f6519e3783c83d90edfe37b9e9e0b]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/3) omitted (20.3.2025) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2025 (S.R. 2025/59)](https://www.legislation.gov.uk/nisr/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/59/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2025/59/regulation/3)
 
-[^key-b833b92b9129352d0ed8bbf02a03dbfe]: Commencement: Reg. 2 in operation at 10.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2)
+[^c-b833b92b9129352d0ed8bbf02a03dbfe]: Commencement: Reg. 2 in operation at 10.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2)
 
-[^key-819c798ee8882a8f5ff0640932acfd13]: Commencement: Reg. 3 in operation at 10.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2)
+[^c-819c798ee8882a8f5ff0640932acfd13]: Commencement: Reg. 3 in operation at 10.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2016 No. 178](https://www.legislation.gov.uk/nisr/2016/178); relevant amending Regulations are [S.R. 2016 No. 389](https://www.legislation.gov.uk/nisr/2016/389), [S.R. 2017 No.28](https://www.legislation.gov.uk/nisr/2017/28) and [S.R. 2022 No.25](https://www.legislation.gov.uk/nisr/2022/25)
 
@@ -167,6 +167,6 @@ Regulation 4(3) amends regulation 7 and will remove the regulation that allowed 
 
 [^f00006]: Footnote: Regulation 4H was inserted by regulation 23 of [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28)
 
-[^key-6bfd1bc51eb465030222a2913e72c587]: Commencement: Reg. 4 in operation at 10.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2)
+[^c-6bfd1bc51eb465030222a2913e72c587]: Commencement: Reg. 4 in operation at 10.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/32/regulation/1/2)
 
 [^f00007]: Footnote: [S.R. 2017 No.35](https://www.legislation.gov.uk/nisr/2017/35)

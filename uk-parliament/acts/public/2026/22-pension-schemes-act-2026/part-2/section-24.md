@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Transfer notices[^key-f3acddaad5657f2c30f5cbfa0f03ff02]
+## 24. Transfer notices[^c-f3acddaad5657f2c30f5cbfa0f03ff02]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3acddaad5657f2c30f5cbfa0f03ff02]: Commencement: S. 24 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-f3acddaad5657f2c30f5cbfa0f03ff02]: Commencement: S. 24 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

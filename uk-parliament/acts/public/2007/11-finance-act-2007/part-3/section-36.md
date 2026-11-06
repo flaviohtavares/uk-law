@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Industrial and agricultural buildings allowances[^key-3eecb30281a137dfd9d70bd4c95b3799]
+## 36. Industrial and agricultural buildings allowances[^c-3eecb30281a137dfd9d70bd4c95b3799]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3eecb30281a137dfd9d70bd4c95b3799]: Textual amendment: S. 36 omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 28](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/28)
+[^c-3eecb30281a137dfd9d70bd4c95b3799]: Textual amendment: S. 36 omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 28](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/28)

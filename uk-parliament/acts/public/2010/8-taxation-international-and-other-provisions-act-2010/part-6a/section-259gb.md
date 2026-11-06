@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259GB. Hybrid payee deduction/non-inclusion mismatches and their extent[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259GB. Hybrid payee deduction/non-inclusion mismatches and their extent[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,14 +25,14 @@ summary: ''
 - (a) the relevant deduction exceeds the sum of the amounts of ordinary income that, by reason of the payment or quasi-payment, arise to each payee for a permitted taxable period, and
 - (b) all or part of that excess arises by reason of one or more payees being hybrid entities.
 
-(1A)[^key-662cf106e321c64e27ee31be71b94b34] But there is no hybrid payee deduction/non-inclusion mismatch so far as the relevant deduction is—
+(1A)[^c-662cf106e321c64e27ee31be71b94b34] But there is no hybrid payee deduction/non-inclusion mismatch so far as the relevant deduction is—
 
 - (a) a debit in respect of amortisation that is brought into account under section 729 or 731 of CTA 2009 (writing down the capitalised cost of an intangible fixed asset), or
 - (b) an amount that is deductible in respect of amortisation under a provision of the law of a territory outside the United Kingdom that is equivalent to either of those sections.
 
 (2) The extent of the hybrid payee deduction/non-inclusion mismatch is equal to the excess that arises as mentioned in subsection (1)(b).
 
-(2A)[^key-9d82c5188b931dc4ad03b15fa4d85289] No excess is to be taken to arise by reason of a hybrid payee being a hybrid entity for the purposes of subsection (1)(b) so far as it is attributable to a qualifying institutional investor based in a territory under the law of which—
+(2A)[^c-9d82c5188b931dc4ad03b15fa4d85289] No excess is to be taken to arise by reason of a hybrid payee being a hybrid entity for the purposes of subsection (1)(b) so far as it is attributable to a qualifying institutional investor based in a territory under the law of which—
 
 - (a) the income or profits of the hybrid entity are not treated as income or profits of the investor, or
 - (b) the hybrid entity is regarded as a distinct and separate person to the investor.
@@ -48,7 +48,7 @@ summary: ''
 
 - (a) a payee is a hybrid entity,
 - (b) there is no territory—
-  - (i) where that payee is resident for the purposes of a tax charged at a higher rate than nil[^key-d10f824c64e7b502c8e6136a172ac5d3] under the law of that territory, or
+  - (i) where that payee is resident for the purposes of a tax charged at a higher rate than nil[^c-d10f824c64e7b502c8e6136a172ac5d3] under the law of that territory, or
   - (ii) under the law of which ordinary income arises to that payee, by reason of the payment or quasi-payment, for the purposes of a tax that is charged on that payee by virtue of that payee having a permanent establishment in that territory, and
 - (c) no income arising to that payee, by reason of the payment or quasi-payment, is brought into account in calculating chargeable profits for the purposes of the CFC charge or a foreign CFC charge.
 
@@ -59,7 +59,7 @@ summary: ''
   - (i) the payee were a company, and
   - (ii) the payment or quasi-payment were made in connection with a trade carried on by the payee in the United Kingdom through a permanent establishment in the United Kingdom.
 
-(4A)[^key-42c0a95cfb40d36347a74dd81c3da9c0] In applying subsection (4)(b) in a case where the payee is a partnership or a relevant transparent entity[^M_F_3b4d6d88-48d0-4b1f-c0e3-8f62a4e790c1], it is to be assumed that no amount of ordinary income arises to the payee, by reason of the payment or quasi-payment, if—
+(4A)[^c-42c0a95cfb40d36347a74dd81c3da9c0] In applying subsection (4)(b) in a case where the payee is a partnership or a relevant transparent entity[^M_F_3b4d6d88-48d0-4b1f-c0e3-8f62a4e790c1], it is to be assumed that no amount of ordinary income arises to the payee, by reason of the payment or quasi-payment, if—
 
 - (a) a partner in the partnership , or a member of the entity,[^M_F_e38f9fcf-9149-443e-e7fa-5bea25c79e96] is entitled to the amount, and
 - (b) having regard only to—
@@ -107,15 +107,15 @@ summary: ''
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-662cf106e321c64e27ee31be71b94b34]: Textual amendment: S. 259GB(1A) inserted (retrospectively) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 24(7)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/7)[(13)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/13)
+[^c-662cf106e321c64e27ee31be71b94b34]: Textual amendment: S. 259GB(1A) inserted (retrospectively) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 24(7)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/7)[(13)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/13)
 
-[^key-9d82c5188b931dc4ad03b15fa4d85289]: Textual amendment: S. 259GB(2A)-(2C) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/28)
+[^c-9d82c5188b931dc4ad03b15fa4d85289]: Textual amendment: S. 259GB(2A)-(2C) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/28)
 
-[^key-d10f824c64e7b502c8e6136a172ac5d3]: Textual amendment: Words in s. 259GB(3)(b)(i) inserted (with effect in accordance with Sch. 7 para. 19(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/5)
+[^c-d10f824c64e7b502c8e6136a172ac5d3]: Textual amendment: Words in s. 259GB(3)(b)(i) inserted (with effect in accordance with Sch. 7 para. 19(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/5)
 
-[^key-42c0a95cfb40d36347a74dd81c3da9c0]: Textual amendment: S. 259GB(4A)(4B) inserted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/11), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)
+[^c-42c0a95cfb40d36347a74dd81c3da9c0]: Textual amendment: S. 259GB(4A)(4B) inserted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/11), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)
 
 [^M_F_3b4d6d88-48d0-4b1f-c0e3-8f62a4e790c1]: Textual amendment: Words in s. 259GB(4A) inserted (retrospectively) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 26(2)(a)(6)](https://www.legislation.gov.uk/ukpga/2022/3/section/26/2/a) (with [s. 26(7)-(10)](https://www.legislation.gov.uk/ukpga/2022/3/section/26/7))
 

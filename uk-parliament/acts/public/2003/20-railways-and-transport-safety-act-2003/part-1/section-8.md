@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Investigator’s powers[^key-eb4ee17ff7ee69d455ee40c9936c6668]
+## 8. Investigator’s powers[^c-eb4ee17ff7ee69d455ee40c9936c6668]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb4ee17ff7ee69d455ee40c9936c6668]: Commencement: S. 8 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(viii)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/viii)
+[^c-eb4ee17ff7ee69d455ee40c9936c6668]: Commencement: S. 8 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(viii)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/viii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Consequential provision[^key-4168965873a549f930c3e106706c5a67][^key-3008ef7df53359a0022ac3f9cdb9278b]
+## 47. Consequential provision[^c-4168965873a549f930c3e106706c5a67][^c-3008ef7df53359a0022ac3f9cdb9278b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4168965873a549f930c3e106706c5a67]: Commencement: S. 47 in force at 31.7.2017 for specified purposes by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/p)
+[^c-4168965873a549f930c3e106706c5a67]: Commencement: S. 47 in force at 31.7.2017 for specified purposes by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/p)
 
-[^key-3008ef7df53359a0022ac3f9cdb9278b]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2017/30/section/47) in force at 1.5.2018 in so far as not already in force except for the purposes of N.I. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/l)
+[^c-3008ef7df53359a0022ac3f9cdb9278b]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2017/30/section/47) in force at 1.5.2018 in so far as not already in force except for the purposes of N.I. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/l)

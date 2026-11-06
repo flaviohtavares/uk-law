@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.110-CVL. Action following acceptance of resignation[^key-0973e954a0ab6638990b26b9d2852846]
+## 4.110-CVL. Action following acceptance of resignation[^c-0973e954a0ab6638990b26b9d2852846]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0973e954a0ab6638990b26b9d2852846]: Commencement: [Rule 4.110CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.110CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0973e954a0ab6638990b26b9d2852846]: Commencement: [Rule 4.110CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.110CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00064]: Marginal citation: \[FORM 4.33\]

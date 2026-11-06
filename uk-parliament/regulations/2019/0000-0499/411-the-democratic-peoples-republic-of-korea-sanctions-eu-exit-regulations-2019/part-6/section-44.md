@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Armed forces goods and technology[^key-d6b9e9f9aa720e6312e1a85235782cfe][^key-dc198abc4fbe60ae28c51e07f0bf0f3d]
+## 44. Armed forces goods and technology[^c-d6b9e9f9aa720e6312e1a85235782cfe][^c-dc198abc4fbe60ae28c51e07f0bf0f3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d6b9e9f9aa720e6312e1a85235782cfe]: Commencement: Reg. 44 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-d6b9e9f9aa720e6312e1a85235782cfe]: Commencement: Reg. 44 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-dc198abc4fbe60ae28c51e07f0bf0f3d]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2019/411/regulation/44) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc198abc4fbe60ae28c51e07f0bf0f3d]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2019/411/regulation/44) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

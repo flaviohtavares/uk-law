@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Amount of the fee contribution loan[^key-36f9a04f098b0099b9299b8f5d4cc128]
+## 35. Amount of the fee contribution loan[^c-36f9a04f098b0099b9299b8f5d4cc128]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36f9a04f098b0099b9299b8f5d4cc128]: Textual amendment: Pt. 4 Ch. 5 omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(5)(h)(ii)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/5/h/ii)
+[^c-36f9a04f098b0099b9299b8f5d4cc128]: Textual amendment: Pt. 4 Ch. 5 omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(5)(h)(ii)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/5/h/ii)

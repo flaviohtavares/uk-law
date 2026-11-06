@@ -45,15 +45,15 @@ In accordance with paragraph 2(2) of that Schedule they have consulted with suc
 
 In accordance with paragraph 2(3) of that Schedule[^f00002], a draft of this Order has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation and commencement[^key-135604aeb9d0275684ff976b277eafa3]
+## 1. Citation and commencement[^c-135604aeb9d0275684ff976b277eafa3]
 
 This Order may be cited as the Local Government Finance (Scotland) Order 2013 and comes into force on the day after the day on which it is made.
 
-## 2. Revenue support grant for 2013-2014[^key-a77952572c47dc8b8e6c079f522b848d]
+## 2. Revenue support grant for 2013-2014[^c-a77952572c47dc8b8e6c079f522b848d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Distribution of non-domestic rate income for 2013-2014[^key-49ff900d7e6438d2650f9aeb95d8a69e]
+## 3. Distribution of non-domestic rate income for 2013-2014[^c-49ff900d7e6438d2650f9aeb95d8a69e]
 
 (1) The distributable amount of non‑domestic rate income arrived at under paragraph 9 of Schedule 12 to the Local Government Finance Act 1992 in respect of the financial year 2013-2014 is £2,435,000,000.
 
@@ -61,13 +61,13 @@ This Order may be cited as the Local Government Finance (Scotland) Order 2013 a
 
 (3) The amount of non‑domestic rate income distributed to each local authority specified in column 1 of Schedule 1 in respect of the financial year 2013-2014 is that part of the distributable amount for that year determined in relation to that local authority set out in column 3 of that Schedule opposite the name of that local authority.
 
-## 4. Revenue support grant for 2012-2013[^key-8f35e795ca43d2629eeab819fe9c7a18]
+## 4. Revenue support grant for 2012-2013[^c-8f35e795ca43d2629eeab819fe9c7a18]
 
 (1) The local authorities to which revenue support grant is payable in respect of the financial year 2012-2013 are specified in column 1 of Schedule 2.
 
 (2) The amount of the revenue support grant payable to each local authority specified in column 1 of Schedule 2 in respect of the financial year 2012-2013 is the amount redetermined in relation to that local authority set out in column 2 of that Schedule opposite the name of that local authority.
 
-## 5. Revocations[^key-4e206f9aeffa570382299dfaf8c27fc7]
+## 5. Revocations[^c-4e206f9aeffa570382299dfaf8c27fc7]
 
 Article 2 of, and column 2 of Schedule 1 to, the Local Government Finance (Scotland) Order 2012[^f00003] (which previously determined the amount of revenue support grant payable to each local authority in respect of the financial year 2012-2013) are revoked.
 
@@ -81,7 +81,7 @@ Edinburgh
 
 7th February 2013
 
-## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2013-2014[^key-fb1853606a50e46d158e3357a75721aa]
+## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2013-2014[^c-fb1853606a50e46d158e3357a75721aa]
 
 Articles 2 and 3
 
@@ -127,9 +127,9 @@ Articles 2 and 3
 </tbody>
 </table>
 
-[^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b][^key-66f70dcbdadb0f03f320e76bbc39ba8b]
+[^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b][^c-66f70dcbdadb0f03f320e76bbc39ba8b]
 
-## SCHEDULE 2 — REVENUE SUPPORT GRANT 2012-13[^key-6da4e518bb0fb4adc80938707ae19f9e]
+## SCHEDULE 2 — REVENUE SUPPORT GRANT 2012-13[^c-6da4e518bb0fb4adc80938707ae19f9e]
 
 Article4
 
@@ -192,20 +192,20 @@ This Order—
 
 [^f00002]: Footnote: Paragraph 2(3) has been modified by paragraph 6 of schedule 3 to the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-135604aeb9d0275684ff976b277eafa3]: Commencement: Art. 1 in force at 8.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/44/article/1)
+[^c-135604aeb9d0275684ff976b277eafa3]: Commencement: Art. 1 in force at 8.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/44/article/1)
 
-[^key-a77952572c47dc8b8e6c079f522b848d]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2013/44/article/2) revoked (12.2.2014) by [The Local Government Finance (Scotland) Order 2014 (S.S.I. 2014/36)](https://www.legislation.gov.uk/ssi/2014/36), [arts. 1](https://www.legislation.gov.uk/ssi/2014/36/article/1), [5](https://www.legislation.gov.uk/ssi/2014/36/article/5)
+[^c-a77952572c47dc8b8e6c079f522b848d]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2013/44/article/2) revoked (12.2.2014) by [The Local Government Finance (Scotland) Order 2014 (S.S.I. 2014/36)](https://www.legislation.gov.uk/ssi/2014/36), [arts. 1](https://www.legislation.gov.uk/ssi/2014/36/article/1), [5](https://www.legislation.gov.uk/ssi/2014/36/article/5)
 
-[^key-49ff900d7e6438d2650f9aeb95d8a69e]: Commencement: Art. 3 in force at 8.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/44/article/1)
+[^c-49ff900d7e6438d2650f9aeb95d8a69e]: Commencement: Art. 3 in force at 8.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/44/article/1)
 
-[^key-8f35e795ca43d2629eeab819fe9c7a18]: Commencement: Art. 4 in force at 8.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/44/article/1)
+[^c-8f35e795ca43d2629eeab819fe9c7a18]: Commencement: Art. 4 in force at 8.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/44/article/1)
 
-[^key-4e206f9aeffa570382299dfaf8c27fc7]: Commencement: Art. 5 in force at 8.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/44/article/1)
+[^c-4e206f9aeffa570382299dfaf8c27fc7]: Commencement: Art. 5 in force at 8.2.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/44/article/1)
 
 [^f00003]: Footnote: [S.S.I.2012/41](https://www.legislation.gov.uk/ssi/2012/41); Schedule 1 was amended by [S.S.I.2012/94](https://www.legislation.gov.uk/ssi/2012/94).
 
-[^key-fb1853606a50e46d158e3357a75721aa]: Textual amendment: Sch. 1 substituted (20.3.2013) by [The Local Government Finance (Scotland) Amendment Order 2013 (S.S.I. 2013/107)](https://www.legislation.gov.uk/ssi/2013/107), [arts. 1](https://www.legislation.gov.uk/ssi/2013/107/article/1), [2](https://www.legislation.gov.uk/ssi/2013/107/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2013/107/schedule/1)
+[^c-fb1853606a50e46d158e3357a75721aa]: Textual amendment: Sch. 1 substituted (20.3.2013) by [The Local Government Finance (Scotland) Amendment Order 2013 (S.S.I. 2013/107)](https://www.legislation.gov.uk/ssi/2013/107), [arts. 1](https://www.legislation.gov.uk/ssi/2013/107/article/1), [2](https://www.legislation.gov.uk/ssi/2013/107/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2013/107/schedule/1)
 
-[^key-66f70dcbdadb0f03f320e76bbc39ba8b]: Textual amendment: Sch. 1 column 2 revoked (12.2.2014) by [The Local Government Finance (Scotland) Order 2014 (S.S.I. 2014/36)](https://www.legislation.gov.uk/ssi/2014/36), [arts. 1](https://www.legislation.gov.uk/ssi/2014/36/article/1), [5](https://www.legislation.gov.uk/ssi/2014/36/article/5)
+[^c-66f70dcbdadb0f03f320e76bbc39ba8b]: Textual amendment: Sch. 1 column 2 revoked (12.2.2014) by [The Local Government Finance (Scotland) Order 2014 (S.S.I. 2014/36)](https://www.legislation.gov.uk/ssi/2014/36), [arts. 1](https://www.legislation.gov.uk/ssi/2014/36/article/1), [5](https://www.legislation.gov.uk/ssi/2014/36/article/5)
 
-[^key-6da4e518bb0fb4adc80938707ae19f9e]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2013/44/schedule/2) substituted (20.3.2013) by [The Local Government Finance (Scotland) Amendment Order 2013 (S.S.I. 2013/107)](https://www.legislation.gov.uk/ssi/2013/107), [arts. 1](https://www.legislation.gov.uk/ssi/2013/107/article/1), [3](https://www.legislation.gov.uk/ssi/2013/107/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2013/107/schedule/2)
+[^c-6da4e518bb0fb4adc80938707ae19f9e]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2013/44/schedule/2) substituted (20.3.2013) by [The Local Government Finance (Scotland) Amendment Order 2013 (S.S.I. 2013/107)](https://www.legislation.gov.uk/ssi/2013/107), [arts. 1](https://www.legislation.gov.uk/ssi/2013/107/article/1), [3](https://www.legislation.gov.uk/ssi/2013/107/article/3), [sch. 2](https://www.legislation.gov.uk/ssi/2013/107/schedule/2)

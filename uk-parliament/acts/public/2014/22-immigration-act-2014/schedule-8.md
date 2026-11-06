@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Embarkation checks[^M_C_ff13efa8-d8f8-42c5-c6bf-c3d3bd3a4b29][^key-3f0849df106b7029fa0d804e363a32e6][^key-9c26a6ad841a4c959cad6699cb738a20]
+## SCHEDULE 8 — Embarkation checks[^M_C_ff13efa8-d8f8-42c5-c6bf-c3d3bd3a4b29][^c-3f0849df106b7029fa0d804e363a32e6][^c-9c26a6ad841a4c959cad6699cb738a20]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,11 +26,11 @@ Section 67
 
 #### Introduction
 
-**1.**[^key-a681d7fe966178b86888568284e16ddb] Schedule 2 to the Immigration Act 1971 (administrative provisions as to control on entry etc) is amended in accordance with this Part of this Schedule.
+**1.**[^c-a681d7fe966178b86888568284e16ddb] Schedule 2 to the Immigration Act 1971 (administrative provisions as to control on entry etc) is amended in accordance with this Part of this Schedule.
 
 #### Examinations by designated person
 
-**2.**[^key-1e33d192be49a740d452df5c751e8696] (1) Paragraph 3 is amended as follows.
+**2.**[^c-1e33d192be49a740d452df5c751e8696] (1) Paragraph 3 is amended as follows.
 
 (2) In sub-paragraph (1), after “immigration officer” insert “ or designated person ”.
 
@@ -42,7 +42,7 @@ Section 67
 
 #### Information and documents
 
-**3.**[^key-62b16f9f2625f7c9f488ff9248bc572b] (1) Paragraph 4 is amended as follows.
+**3.**[^c-62b16f9f2625f7c9f488ff9248bc572b] (1) Paragraph 4 is amended as follows.
 
 (2) In sub-paragraph (1), for “his functions” substitute “ that or any other person's functions ”.
 
@@ -74,7 +74,7 @@ Section 67
 
 #### Embarkation cards
 
-**4.**[^key-c958ba3e373dafba6814229b5253d09b] (1) Paragraph 5 is amended in accordance with sub-paragraphs (2) and (3).
+**4.**[^c-c958ba3e373dafba6814229b5253d09b] (1) Paragraph 5 is amended in accordance with sub-paragraphs (2) and (3).
 
 (2) For “requiring passengers” substitute
 
@@ -96,7 +96,7 @@ Section 67
 
 #### Designations
 
-**5.**[^key-46447b37104091df3bc915e267b49bd9] After paragraph 5 insert—
+**5.**[^c-46447b37104091df3bc915e267b49bd9] After paragraph 5 insert—
 
 > **Designated persons**
 >
@@ -124,7 +124,7 @@ Section 67
 
 #### Directions to carriers and operators of ports
 
-**6.**[^key-e54ab893c1dfbe72a30eca0a6dce0e67] After paragraph 5A (inserted by paragraph 5 above) insert—
+**6.**[^c-e54ab893c1dfbe72a30eca0a6dce0e67] After paragraph 5A (inserted by paragraph 5 above) insert—
 
 > **Directions to carriers and operators of ports etc**
 >
@@ -161,7 +161,7 @@ Section 67
 
 #### Offences
 
-**7.**[^key-004d6e8fbfa73e8eb658af77fd8adbfb] (1) Section 27 of the Immigration Act 1971 (offences by persons connected with ships or aircraft or with ports) is amended as follows.
+**7.**[^c-004d6e8fbfa73e8eb658af77fd8adbfb] (1) Section 27 of the Immigration Act 1971 (offences by persons connected with ships or aircraft or with ports) is amended as follows.
 
 (2) In paragraph (b)—
 
@@ -182,20 +182,20 @@ Section 67
 
 [^M_C_ff13efa8-d8f8-42c5-c6bf-c3d3bd3a4b29]: Modification: Sch. 8 extended (with modifications) to Jersey (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2015 (S.I. 2015/1532)](https://www.legislation.gov.uk/uksi/2015/1532), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1532/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1532/article/2/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1532/schedule/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2015/1532/article/2/3))
 
-[^key-3f0849df106b7029fa0d804e363a32e6]: Modification: Sch. 8 extended (with modifications) to Guernsey (coming into force in accordance with art. 1 of the amending S.I.) by [The Immigration (Guernsey) Order 2015 (S.I. 2015/1533)](https://www.legislation.gov.uk/uksi/2015/1533), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1533/article/1), [5](https://www.legislation.gov.uk/uksi/2015/1533/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1533/schedule/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/1533/article/6))
+[^c-3f0849df106b7029fa0d804e363a32e6]: Modification: Sch. 8 extended (with modifications) to Guernsey (coming into force in accordance with art. 1 of the amending S.I.) by [The Immigration (Guernsey) Order 2015 (S.I. 2015/1533)](https://www.legislation.gov.uk/uksi/2015/1533), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1533/article/1), [5](https://www.legislation.gov.uk/uksi/2015/1533/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1533/schedule/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/1533/article/6))
 
-[^key-9c26a6ad841a4c959cad6699cb738a20]: Modification: Sch. 8 amendment to earlier affecting S.I. 2015/1532, Sch. 2 (coming into force in accordance with art. 1 of the amending S.I.) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+[^c-9c26a6ad841a4c959cad6699cb738a20]: Modification: Sch. 8 amendment to earlier affecting S.I. 2015/1532, Sch. 2 (coming into force in accordance with art. 1 of the amending S.I.) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
 
-[^key-a681d7fe966178b86888568284e16ddb]: Commencement: Sch. 8 para. 1 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
+[^c-a681d7fe966178b86888568284e16ddb]: Commencement: Sch. 8 para. 1 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
 
-[^key-1e33d192be49a740d452df5c751e8696]: Commencement: Sch. 8 para. 2 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
+[^c-1e33d192be49a740d452df5c751e8696]: Commencement: Sch. 8 para. 2 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
 
-[^key-62b16f9f2625f7c9f488ff9248bc572b]: Commencement: Sch. 8 para. 3 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
+[^c-62b16f9f2625f7c9f488ff9248bc572b]: Commencement: Sch. 8 para. 3 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
 
-[^key-c958ba3e373dafba6814229b5253d09b]: Commencement: Sch. 8 para. 4 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
+[^c-c958ba3e373dafba6814229b5253d09b]: Commencement: Sch. 8 para. 4 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
 
-[^key-46447b37104091df3bc915e267b49bd9]: Commencement: Sch. 8 para. 5 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
+[^c-46447b37104091df3bc915e267b49bd9]: Commencement: Sch. 8 para. 5 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
 
-[^key-e54ab893c1dfbe72a30eca0a6dce0e67]: Commencement: Sch. 8 para. 6 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
+[^c-e54ab893c1dfbe72a30eca0a6dce0e67]: Commencement: Sch. 8 para. 6 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
 
-[^key-004d6e8fbfa73e8eb658af77fd8adbfb]: Commencement: Sch. 8 para. 7 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)
+[^c-004d6e8fbfa73e8eb658af77fd8adbfb]: Commencement: Sch. 8 para. 7 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(bb)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/bb)

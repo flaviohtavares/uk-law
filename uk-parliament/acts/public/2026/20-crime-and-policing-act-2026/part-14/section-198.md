@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Conditions for notification of Director of Public Prosecutions of investigation report[^key-6471a2d63bd886291f9622c934402ee4][^key-b4c7eea25f3cc8c0d589ed05e935d0d8]
+## 198. Conditions for notification of Director of Public Prosecutions of investigation report[^c-6471a2d63bd886291f9622c934402ee4][^c-b4c7eea25f3cc8c0d589ed05e935d0d8]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ Here, “the appropriate authority” and “the Director General” have the me
 
 ## Annotations
 
-[^key-6471a2d63bd886291f9622c934402ee4]: Commencement: S. 198 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6471a2d63bd886291f9622c934402ee4]: Commencement: S. 198 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-b4c7eea25f3cc8c0d589ed05e935d0d8]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2026/20/section/198) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/c)
+[^c-b4c7eea25f3cc8c0d589ed05e935d0d8]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2026/20/section/198) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/c)

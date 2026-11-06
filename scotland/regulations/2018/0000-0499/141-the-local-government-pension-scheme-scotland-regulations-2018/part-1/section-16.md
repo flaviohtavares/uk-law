@@ -45,8 +45,8 @@ summary: ''
 
 (7) The amount of the contributions to be paid in respect of arrangements under this regulation is to be determined in accordance with actuarial guidance issued by the Scottish Ministers based on—
 
-- (a) the age of the member at the time the arrangements commence [^key-781e7efa7d45bea910fcc8c619b109fc]...
-- [^key-781e7efa7d45bea910fcc8c619b109fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the age of the member at the time the arrangements commence [^c-781e7efa7d45bea910fcc8c619b109fc]...
+- [^c-781e7efa7d45bea910fcc8c619b109fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Actuarial guidance issued by the Scottish Ministers under paragraph (7) may be revised at any time and if so, from the 1st April following any such revision, any contributions payable are to be based on the revised actuarial guidance.
 
@@ -63,7 +63,7 @@ summary: ''
 - (b) they are terminated by the member giving one month's written notice to the administering authority;
 - (c) the member begins to pay reduced contributions under regulation 10 (temporary reduction in contributions) unless the arrangement was to cover a period of absence of the description in regulation 11(4)(b) or (c) (contributions during absence from work);
 - (d) the member ceases to be an active member in the employment to which the APC is attached;
-- (e) the member draws benefits under regulation 29(7)[^key-13704051a23a2528aea6ed6024f65d12] (flexible retirement) in the employment to which the APC is attached;
+- (e) the member draws benefits under regulation 29(7)[^c-13704051a23a2528aea6ed6024f65d12] (flexible retirement) in the employment to which the APC is attached;
 - (f) the member leaves the employment to which the APC is attached; or
 - (g) the member dies.
 
@@ -75,11 +75,11 @@ summary: ''
 
 (15) If a member fails to pay all the additional contributions due under arrangements made under paragraph (1), and paragraph (14) does not apply to that member, the member's active member pension account must be credited with additional pension of an amount calculated in accordance with actuarial guidance issued by the Scottish Ministers.
 
-(16) Where an arrangement is one to which regulation 15(5) (employer contributions during absences) applies, an[^key-ff73449b9ce980b43624fd67d67b244c] application by an active member to make the arrangements under this regulation must be made before the expiry of a period of 30 days beginning with the day on which the person returns to work or such longer period as the Scheme employer allows.
+(16) Where an arrangement is one to which regulation 15(5) (employer contributions during absences) applies, an[^c-ff73449b9ce980b43624fd67d67b244c] application by an active member to make the arrangements under this regulation must be made before the expiry of a period of 30 days beginning with the day on which the person returns to work or such longer period as the Scheme employer allows.
 
 (17) Where an active member to whom regulation 11(4) applies (contributions during absence from work) has an arrangement under this regulation which was entered into prior to the commencement of the period of absence, the APCs under that arrangement—
 
-- (a) must be paid by the member during any period of child-related leave, which for this regulation includes any period of additional maternity leave, additional adoption leave,parental bereavement leave[^key-85f2607bfa2d46015b58e0a91fc60ef3] or shared parental leave during which the member receives no pensionable pay;
+- (a) must be paid by the member during any period of child-related leave, which for this regulation includes any period of additional maternity leave, additional adoption leave,parental bereavement leave[^c-85f2607bfa2d46015b58e0a91fc60ef3] or shared parental leave during which the member receives no pensionable pay;
 - (b) must be paid by the member during any period of reserve forces service leave where regulation 13(1) (contributions during reserve forces service leave) applies;
 - (c) must be paid by the member during any period of absence for illness or injury where regulation 14(1)(contributions during absence or illness etc.) applies; and
 - (d) must be paid by the member during any period of absence of the description in regulation 11(4)(b) or (c) (contributions during absence from work).
@@ -90,10 +90,10 @@ summary: ''
 
 [^c22970651]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-781e7efa7d45bea910fcc8c619b109fc]: Textual amendment: Reg. 16(7)(b) and word omitted (1.6.2022) (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by virtue of [The Local Government Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/153)](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/153/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2022/153/regulation/7)
+[^c-781e7efa7d45bea910fcc8c619b109fc]: Textual amendment: Reg. 16(7)(b) and word omitted (1.6.2022) (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by virtue of [The Local Government Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/153)](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/153/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2022/153/regulation/7)
 
-[^key-13704051a23a2528aea6ed6024f65d12]: Textual amendment: Word in reg. 16(11)(e) substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/9/a)
+[^c-13704051a23a2528aea6ed6024f65d12]: Textual amendment: Word in reg. 16(11)(e) substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/9/a)
 
-[^key-ff73449b9ce980b43624fd67d67b244c]: Textual amendment: Word in reg. 16(16) inserted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/9/b)
+[^c-ff73449b9ce980b43624fd67d67b244c]: Textual amendment: Word in reg. 16(16) inserted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/9/b)
 
-[^key-85f2607bfa2d46015b58e0a91fc60ef3]: Textual amendment: Words in reg. 16(17)(a) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [41(5)](https://www.legislation.gov.uk/uksi/2020/354/regulation/41/5)
+[^c-85f2607bfa2d46015b58e0a91fc60ef3]: Textual amendment: Words in reg. 16(17)(a) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [41(5)](https://www.legislation.gov.uk/uksi/2020/354/regulation/41/5)

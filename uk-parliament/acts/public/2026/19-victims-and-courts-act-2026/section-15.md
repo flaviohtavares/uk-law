@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Terms of imprisonment for certain offences on summary conviction[^key-3dfec2f5711a376b8558187ded2067c8]
+## 15. Terms of imprisonment for certain offences on summary conviction[^c-3dfec2f5711a376b8558187ded2067c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dfec2f5711a376b8558187ded2067c8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2026/19/section/15) in force at 29.6.2026, see [s. 18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+[^c-3dfec2f5711a376b8558187ded2067c8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2026/19/section/15) in force at 29.6.2026, see [s. 18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)

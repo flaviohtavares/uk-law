@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Insertion of sections 50A to 50D[^key-ca72a35dbb2a658e0a90cc0b8ef9cf7e]
+## 43. Insertion of sections 50A to 50D[^c-ca72a35dbb2a658e0a90cc0b8ef9cf7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -135,4 +135,4 @@ After section 50 insert—
 
 ## Annotations
 
-[^key-ca72a35dbb2a658e0a90cc0b8ef9cf7e]: Commencement: Art. 43 in force at made date for specified purposes, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3/b)
+[^c-ca72a35dbb2a658e0a90cc0b8ef9cf7e]: Commencement: Art. 43 in force at made date for specified purposes, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3/b)

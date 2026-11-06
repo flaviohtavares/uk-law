@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The Education (Hazardous Equipment in Schools) (Removal of Restrictions on Use) (Wales) Regulations 2017 (revoked)[^key-a9a8abf89e38833aee0bad5c06558e46]
+The Education (Hazardous Equipment in Schools) (Removal of Restrictions on Use) (Wales) Regulations 2017 (revoked)[^c-a9a8abf89e38833aee0bad5c06558e46]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1 November 2017
 
-[^key-a9a8abf89e38833aee0bad5c06558e46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9a8abf89e38833aee0bad5c06558e46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-a9a8abf89e38833aee0bad5c06558e46]
+## 1. Title, commencement and application[^c-a9a8abf89e38833aee0bad5c06558e46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-a9a8abf89e38833aee0bad5c06558e46]
+## 2. Revocation[^c-a9a8abf89e38833aee0bad5c06558e46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Education (Special Educational Needs) (Approval of Independent Schools) Regulations 1994[^key-a9a8abf89e38833aee0bad5c06558e46]
+## 3. Amendment of the Education (Special Educational Needs) (Approval of Independent Schools) Regulations 1994[^c-a9a8abf89e38833aee0bad5c06558e46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9a8abf89e38833aee0bad5c06558e46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9a8abf89e38833aee0bad5c06558e46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a9a8abf89e38833aee0bad5c06558e46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9a8abf89e38833aee0bad5c06558e46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9a8abf89e38833aee0bad5c06558e46]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2017/965) revoked (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021 (S.I. 2021/933)](https://www.legislation.gov.uk/wsi/2021/933), [reg. 7(d)](https://www.legislation.gov.uk/wsi/2021/933/regulation/7/d)
+[^c-a9a8abf89e38833aee0bad5c06558e46]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2017/965) revoked (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) (No. 2) Regulations 2021 (S.I. 2021/933)](https://www.legislation.gov.uk/wsi/2021/933), [reg. 7(d)](https://www.legislation.gov.uk/wsi/2021/933/regulation/7/d)

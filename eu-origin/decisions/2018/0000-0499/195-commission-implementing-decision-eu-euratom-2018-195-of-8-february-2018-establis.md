@@ -33,28 +33,28 @@ of 8 February 2018
 
 establishing forms for reporting on fraud and irregularities affecting entitlements to traditional own resources and on inspections relating to traditional own resources pursuant to Council Regulation (EU, Euratom) No 608/2014 (revoked)
 
-[^key-9dd2b6a2a686048f16414fdc481ccd47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9dd2b6a2a686048f16414fdc481ccd47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9dd2b6a2a686048f16414fdc481ccd47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9dd2b6a2a686048f16414fdc481ccd47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9dd2b6a2a686048f16414fdc481ccd47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9dd2b6a2a686048f16414fdc481ccd47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-9dd2b6a2a686048f16414fdc481ccd47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-9dd2b6a2a686048f16414fdc481ccd47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-9dd2b6a2a686048f16414fdc481ccd47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-9dd2b6a2a686048f16414fdc481ccd47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-9dd2b6a2a686048f16414fdc481ccd47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-9dd2b6a2a686048f16414fdc481ccd47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9dd2b6a2a686048f16414fdc481ccd47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9dd2b6a2a686048f16414fdc481ccd47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Form for reporting fraud and irregularities under Article 5(1) of Regulation (EU, Euratom) No 608/2014[^key-9dd2b6a2a686048f16414fdc481ccd47]
+## ANNEX I — Form for reporting fraud and irregularities under Article 5(1) of Regulation (EU, Euratom) No 608/2014[^c-9dd2b6a2a686048f16414fdc481ccd47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — ANNUAL REPORT REFERRED TO IN ARTICLE 6(1) OF REGULATION (EU, Euratom) No 608/2014[^key-9dd2b6a2a686048f16414fdc481ccd47]
+## ANNEX II — ANNUAL REPORT REFERRED TO IN ARTICLE 6(1) OF REGULATION (EU, Euratom) No 608/2014[^c-9dd2b6a2a686048f16414fdc481ccd47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9dd2b6a2a686048f16414fdc481ccd47]: Textual amendment: Decision revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(k)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9dd2b6a2a686048f16414fdc481ccd47]: Textual amendment: Decision revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(k)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

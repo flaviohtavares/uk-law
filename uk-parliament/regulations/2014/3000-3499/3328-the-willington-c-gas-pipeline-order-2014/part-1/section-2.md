@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-bb53ebb59b87e0db1974dfeeb00f464e]
+## 2. Interpretation[^c-bb53ebb59b87e0db1974dfeeb00f464e]
 
 *Extent: E+W+S*
 
@@ -52,7 +52,7 @@ summary: ''
 - “highway” has the same meaning as in the 1980 Act[^f00012];
 - “land plans” means the plans certified as the land plans by the Secretary of State for the purposes of this Order;
 - “limits of deviation” means the areas shown on the works plans (within a broken red line) and referred to in article 7 (limits of deviation);
-- “local highway authority” means Staffordshire County Council or Derbyshire County Council as appropriate for the area in which the land to which the provisions of this Order apply is situated or any successors to their statutory functions as highway authorities[^key-d3ee28dac3ae91edbdf91c9c265de6e1];
+- “local highway authority” means Staffordshire County Council or Derbyshire County Council as appropriate for the area in which the land to which the provisions of this Order apply is situated or any successors to their statutory functions as highway authorities[^c-d3ee28dac3ae91edbdf91c9c265de6e1];
 - “maintain” (except as provided in Part 5 of Schedule 9) includes inspect, maintain, adjust, alter, repair, test, cleanse, re-lay, divert (in accordance with articles 5 (maintenance and diversion of authorised development) and 7 (limits of deviation)), make safe, decommission, reconstruct, demolish, abandon, replace, remove and improve the authorised development or any of its parts (but not so as to vary from the description of the authorised development in Schedule 1); and any derivative of “maintain” must be construed accordingly;
 - “National Grid Electricity” means National Grid Electricity Transmission plc (company registration number 02366977) or any successor company performing the same functions;
 - “National Grid Gas” means National Grid Gas plc (company registration number 02006000) or any successor company performing the same functions;
@@ -83,7 +83,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bb53ebb59b87e0db1974dfeeb00f464e]: Commencement: Art. 2 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-bb53ebb59b87e0db1974dfeeb00f464e]: Commencement: Art. 2 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
 
 [^f00003]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -105,7 +105,7 @@ summary: ''
 
 [^f00012]: Footnote: “Highway” is defined in section 328.
 
-[^key-d3ee28dac3ae91edbdf91c9c265de6e1]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3328/article/2/1) inserted (19.8.2015) by [The Willington C Gas Pipeline (Correction) Order 2015 (S.I. 2015/1616)](https://www.legislation.gov.uk/uksi/2015/1616), [art. 1](https://www.legislation.gov.uk/uksi/2015/1616/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1616/schedule)
+[^c-d3ee28dac3ae91edbdf91c9c265de6e1]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3328/article/2/1) inserted (19.8.2015) by [The Willington C Gas Pipeline (Correction) Order 2015 (S.I. 2015/1616)](https://www.legislation.gov.uk/uksi/2015/1616), [art. 1](https://www.legislation.gov.uk/uksi/2015/1616/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1616/schedule)
 
 [^f00013]: Footnote: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67). The definition was amended by paragraph 9 of Schedule 15 to the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). Paragraph 1(5) of Part 1 of Schedule 2 was amended by section 67 of, and paragraph 27(3) of Schedule 9 to, the Coal Industry Act [1994 (c.21)](https://www.legislation.gov.uk/ukpga/1994/21).
 

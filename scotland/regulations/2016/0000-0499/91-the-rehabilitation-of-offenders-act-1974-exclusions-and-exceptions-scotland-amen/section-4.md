@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Substitution of Schedule A1 to the 2013 Order[^key-d8a9e594ebde4fa497f222522a8ad406]
+## 4. Substitution of Schedule A1 to the 2013 Order[^c-d8a9e594ebde4fa497f222522a8ad406]
 
 *Extent: S*
 
@@ -307,7 +307,7 @@ For Schedule A1 to the 2013 Order (offences which must always be disclosed) subs
 
 ## Annotations
 
-[^key-d8a9e594ebde4fa497f222522a8ad406]: Commencement: Art. 4 in force at 8.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/91/article/1/1)
+[^c-d8a9e594ebde4fa497f222522a8ad406]: Commencement: Art. 4 in force at 8.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/91/article/1/1)
 
 [^f00004]: Footnote: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52).
 

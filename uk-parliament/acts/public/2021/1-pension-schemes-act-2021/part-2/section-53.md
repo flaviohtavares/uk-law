@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Qualifying benefits[^c24459321][^key-e29a760dd9d7d77923b723a48b38e0c9][^key-f68b62a417d4eea59565362eaf54cba5]
+## 53. Qualifying benefits[^c24459321][^c-e29a760dd9d7d77923b723a48b38e0c9][^c-f68b62a417d4eea59565362eaf54cba5]
 
 *Extent: N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c24459321]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2021/1/section/53) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-e29a760dd9d7d77923b723a48b38e0c9]: Modification: [S. 53](https://www.legislation.gov.uk/ukpga/2021/1/section/53): power to amend conferred (11.2.2021 for specified purposes) by 2012 c. 3 (N.I.), s. 30(1)(b) (as inserted by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 57(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/1/section/57/2/a/ii), [131(2)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/a)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a))
+[^c-e29a760dd9d7d77923b723a48b38e0c9]: Modification: [S. 53](https://www.legislation.gov.uk/ukpga/2021/1/section/53): power to amend conferred (11.2.2021 for specified purposes) by 2012 c. 3 (N.I.), s. 30(1)(b) (as inserted by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 57(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/1/section/57/2/a/ii), [131(2)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/a)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a))
 
-[^key-f68b62a417d4eea59565362eaf54cba5]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2021/1/section/53) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-f68b62a417d4eea59565362eaf54cba5]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2021/1/section/53) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

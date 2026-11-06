@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Amendment of section 66 (Welsh text)[^key-33afaf326bf4f8c20f515813448bad65]
+## 121. Amendment of section 66 (Welsh text)[^c-33afaf326bf4f8c20f515813448bad65]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33afaf326bf4f8c20f515813448bad65]: Commencement: Reg. 121 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-33afaf326bf4f8c20f515813448bad65]: Commencement: Reg. 121 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

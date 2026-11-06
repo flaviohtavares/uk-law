@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Power to direct preparation of joint development plan documents[^c22730121][^key-03facca41e35acdd6f7aa0f124b89ece]
+## 9. Power to direct preparation of joint development plan documents[^c22730121][^c-03facca41e35acdd6f7aa0f124b89ece]
 
 *Extent: E+W*
 
@@ -124,4 +124,4 @@ summary: ''
 
 [^c22730121]: Commencement: S. 9 in force on for specified purposes at Royal Assent, see s. 46
 
-[^key-03facca41e35acdd6f7aa0f124b89ece]: Commencement: S. 9 in force at 16.1.2018 in so far as not already in force by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/b)
+[^c-03facca41e35acdd6f7aa0f124b89ece]: Commencement: S. 9 in force at 16.1.2018 in so far as not already in force by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/b)

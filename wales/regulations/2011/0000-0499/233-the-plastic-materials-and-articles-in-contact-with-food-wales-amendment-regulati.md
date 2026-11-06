@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Plastic Materials and Articles in Contact with Food (Wales) (Amendment) Regulations 2011 (revoked)[^key-c8787a62769f87296fbfe885e66acc75]
+The Plastic Materials and Articles in Contact with Food (Wales) (Amendment) Regulations 2011 (revoked)[^c-c8787a62769f87296fbfe885e66acc75]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 March 2011
 
-[^key-c8787a62769f87296fbfe885e66acc75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8787a62769f87296fbfe885e66acc75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-c8787a62769f87296fbfe885e66acc75]
+## 1. Title and commencement[^c-c8787a62769f87296fbfe885e66acc75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Plastic Materials and Articles in Contact with Food (Wales) Regulations 2009[^key-c8787a62769f87296fbfe885e66acc75]
+## 2. Amendment to the Plastic Materials and Articles in Contact with Food (Wales) Regulations 2009[^c-c8787a62769f87296fbfe885e66acc75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8787a62769f87296fbfe885e66acc75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8787a62769f87296fbfe885e66acc75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c8787a62769f87296fbfe885e66acc75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8787a62769f87296fbfe885e66acc75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8787a62769f87296fbfe885e66acc75]: Textual amendment: Regulations revoked (20.11.2012) by [The Materials and Articles in Contact with Food (Wales) Regulations 2012 (S.I. 2012/2705)](https://www.legislation.gov.uk/wsi/2012/2705), [reg. 30(d)](https://www.legislation.gov.uk/wsi/2012/2705/regulation/30/d) (with [reg. 3](https://www.legislation.gov.uk/wsi/2012/2705/regulation/3))
+[^c-c8787a62769f87296fbfe885e66acc75]: Textual amendment: Regulations revoked (20.11.2012) by [The Materials and Articles in Contact with Food (Wales) Regulations 2012 (S.I. 2012/2705)](https://www.legislation.gov.uk/wsi/2012/2705), [reg. 30(d)](https://www.legislation.gov.uk/wsi/2012/2705/regulation/30/d) (with [reg. 3](https://www.legislation.gov.uk/wsi/2012/2705/regulation/3))

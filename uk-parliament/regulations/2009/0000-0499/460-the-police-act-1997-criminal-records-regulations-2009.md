@@ -46,22 +46,22 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on her by section 113B(9) and (11)(c) and section 118(2) of the Police Act 1997[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and extent[^key-53166430354413c2224a9a8e9bf38631]
+## 1. Citation, commencement and extent[^c-53166430354413c2224a9a8e9bf38631]
 
 (1) These Regulations may be cited as the Police Act 1997 (Criminal Records) Regulations 2009 and shall come into force on 1st April 2009.
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Enhanced criminal record certificates: police forces[^key-ec0634fdb8fc7727ff86df83c757a469]
+## 2. Enhanced criminal record certificates: police forces[^c-ec0634fdb8fc7727ff86df83c757a469]
 
 For the purposes of section 113B of the Police Act 1997 (enhanced criminal records)—
 
 - (a) the Criminal Records Bureau must be treated as if it were a police force;
 - (b) any reference to the chief officer of police, in relation to the Criminal Records Bureau, is to be taken to be the Chief Executive of the Criminal Records Bureau;
-- (c)[^key-119d4cc2d50d7de03b875ef470d19913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-119d4cc2d50d7de03b875ef470d19913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-119d4cc2d50d7de03b875ef470d19913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-119d4cc2d50d7de03b875ef470d19913] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Police Act 1997 (Criminal Records) Regulations 2002[^key-1fd09a67cd42e973abfcaad8204d4f0a]
+## 3. Amendment of the Police Act 1997 (Criminal Records) Regulations 2002[^c-1fd09a67cd42e973abfcaad8204d4f0a]
 
 (1) The Police Act 1997 (Criminal Records) Regulations 2002[^f00002] are amended as follows:
 
@@ -105,12 +105,12 @@ Regulation 3(3) and (4) provides that an applicant for a criminal record certifi
 
 [^f00001]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50); section 113B was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and amended by [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203).
 
-[^key-53166430354413c2224a9a8e9bf38631]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/460/regulation/1/1)
+[^c-53166430354413c2224a9a8e9bf38631]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/460/regulation/1/1)
 
-[^key-ec0634fdb8fc7727ff86df83c757a469]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/460/regulation/1/1)
+[^c-ec0634fdb8fc7727ff86df83c757a469]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/460/regulation/1/1)
 
-[^key-119d4cc2d50d7de03b875ef470d19913]: Textual amendment: [Reg. 2(c)(d)](https://www.legislation.gov.uk/uksi/2009/460/regulation/2/c/d) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/92)
+[^c-119d4cc2d50d7de03b875ef470d19913]: Textual amendment: [Reg. 2(c)(d)](https://www.legislation.gov.uk/uksi/2009/460/regulation/2/c/d) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/92)
 
-[^key-1fd09a67cd42e973abfcaad8204d4f0a]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/460/regulation/1/1)
+[^c-1fd09a67cd42e973abfcaad8204d4f0a]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/460/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2002/233](https://www.legislation.gov.uk/uksi/2002/233); regulation 10 was amended by [S.I. 2006/2181](https://www.legislation.gov.uk/uksi/2006/2181), [S.I. 2006/748](https://www.legislation.gov.uk/uksi/2006/748) and [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203).

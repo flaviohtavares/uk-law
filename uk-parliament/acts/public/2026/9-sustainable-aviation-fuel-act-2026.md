@@ -38,7 +38,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Revenue certainty contracts
 
-### 1. Direction to offer revenue certainty contract[^key-e3890172ffdf07f90e8ef6c7339ae924]
+### 1. Direction to offer revenue certainty contract[^c-e3890172ffdf07f90e8ef6c7339ae924]
 
 (1) The Secretary of State may direct the designated counterparty (see section 4) to offer to enter into a revenue certainty contract with a producer of sustainable aviation fuel.
 
@@ -72,7 +72,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (8) The Secretary of State may by regulations amend subsection (7) so as to extend the period during which a direction may be given by up to 5 years at a time.
 
-### 2. Notice of directions and revocation[^key-f1b148eb3653dc5801b8f4d30b087e5f]
+### 2. Notice of directions and revocation[^c-f1b148eb3653dc5801b8f4d30b087e5f]
 
 (1) The Secretary of State must send a copy of a direction under section 1(1) to the producer named in the direction.
 
@@ -80,7 +80,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) If a direction is revoked, any offer made in pursuance of the direction but not yet accepted lapses.
 
-### 3. Registration and publication of contracts[^key-39e5ca47d42e2f493f123e7c49fa0613]
+### 3. Registration and publication of contracts[^c-39e5ca47d42e2f493f123e7c49fa0613]
 
 (1) The Secretary of State may make regulations requiring the designated counterparty to—
 
@@ -101,7 +101,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Designated counterparty
 
-### 4. Designation of counterparty[^key-83950448722eaaf8899f3a4193a02335]
+### 4. Designation of counterparty[^c-83950448722eaaf8899f3a4193a02335]
 
 (1) The Secretary of State may designate a company as the counterparty for revenue certainty contracts by giving it a notice under this subsection.
 
@@ -125,7 +125,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (8) The Secretary of State must ensure that, at all times after the first designation under this section takes effect, there is a designation that has effect.
 
-### 5. Transfer schemes[^key-6848efbcf574aa551a2d758a53b55a6f]
+### 5. Transfer schemes[^c-6848efbcf574aa551a2d758a53b55a6f]
 
 (1) Where a company’s designation under section 4 is revoked, the Secretary of State may make one or more schemes for the transfer of the company’s property, rights and liabilities to the new designated counterparty.
 
@@ -153,7 +153,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Levy funding
 
-### 6. Levy on suppliers[^key-a216608f829916f1ec605250b3376ec4]
+### 6. Levy on suppliers[^c-a216608f829916f1ec605250b3376ec4]
 
 (1) The Secretary of State may make regulations (“**levy regulations**”) requiring relevant suppliers of aviation fuel to pay a levy to the designated counterparty for the purpose of enabling the counterparty to meet—
 
@@ -180,13 +180,13 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (8) In subsection (7) “**renewable transport fuel obligation**” has the meaning given by [section 124](https://www.legislation.gov.uk/ukpga/2004/20/section/124)[(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/124) of the [Energy Act 2004](https://www.legislation.gov.uk/ukpga/2004/20/contents).
 
-### 7. Collateral for levy[^key-7ae349d796fa591a27226b73869e779d]
+### 7. Collateral for levy[^c-7ae349d796fa591a27226b73869e779d]
 
 (1) Levy regulations may require a person to provide financial collateral to the designated counterparty (whether in cash, securities or any other form) in respect of any liability of the person to pay the levy.
 
 (2) The provision that may be made under subsection (1) includes provision for the designated counterparty to determine the form and terms of any financial collateral.
 
-### 8. Administration etc of levy and disputes[^key-5faeae83199b79a0f5f980d960ecf746]
+### 8. Administration etc of levy and disputes[^c-5faeae83199b79a0f5f980d960ecf746]
 
 (1) Levy regulations may—
 
@@ -197,7 +197,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) Levy regulations may make provision about the resolution of disputes, including provision about arbitration and appeals.
 
-### 9. Calculation or determination of matters under levy regulations[^key-e33f955eb1b109ed34255cd076f84ce3]
+### 9. Calculation or determination of matters under levy regulations[^c-e33f955eb1b109ed34255cd076f84ce3]
 
 Levy regulations may provide for anything which is to be calculated or determined under the regulations to be calculated or determined—
 
@@ -209,7 +209,7 @@ as may be specified in the regulations.
 
 ## Surpluses
 
-### 10. Payment of surpluses to levy payers[^key-c55748513821868dfae93dd4da018f7b]
+### 10. Payment of surpluses to levy payers[^c-c55748513821868dfae93dd4da018f7b]
 
 (1) The Secretary of State may by regulations—
 
@@ -225,7 +225,7 @@ as may be specified in the regulations.
 
 ## Financial penalties
 
-### 11. Financial penalties[^key-c6ca7a637665ebde73cd80e216f4562f]
+### 11. Financial penalties[^c-c6ca7a637665ebde73cd80e216f4562f]
 
 (1) The Secretary of State may impose a financial penalty on a person other than the designated counterparty if—
 
@@ -248,13 +248,13 @@ as may be specified in the regulations.
 
 ## Directions, information and advice
 
-### 12. Power to direct designated counterparty[^key-3491d455cc17c4de629466d3d06a8bf5]
+### 12. Power to direct designated counterparty[^c-3491d455cc17c4de629466d3d06a8bf5]
 
 (1) The Secretary of State may give the designated counterparty directions as to the exercise of any of the functions conferred on it under or by virtue of this Act.
 
 (2) The Secretary of State must publish any direction given under subsection (1).
 
-### 13. Information and advice[^key-a6ff12460ac2e1e0d553d8c9ca698f39]
+### 13. Information and advice[^c-a6ff12460ac2e1e0d553d8c9ca698f39]
 
 (1) The designated counterparty must comply with any requirement imposed by the Secretary of State to provide the Secretary of State with information or advice in connection with the exercise of the counterparty’s functions.
 
@@ -262,7 +262,7 @@ as may be specified in the regulations.
 
 ## Financial assistance
 
-### 14. Financial assistance for designated counterparty[^key-83bd250bb0e401d0df4489c43aabfad8]
+### 14. Financial assistance for designated counterparty[^c-83bd250bb0e401d0df4489c43aabfad8]
 
 (1) The Secretary of State may provide financial assistance to the designated counterparty.
 
@@ -277,7 +277,7 @@ as may be specified in the regulations.
 
 ## General
 
-### 15. Duty to consult about regulations[^key-e3bcc9a4bb1c06678c6a6ce088a6ab32]
+### 15. Duty to consult about regulations[^c-e3bcc9a4bb1c06678c6a6ce088a6ab32]
 
 (1) Before making regulations under this Act the Secretary of State must consult any persons the Secretary of State considers appropriate.
 
@@ -287,7 +287,7 @@ as may be specified in the regulations.
 - (b) the Scottish Ministers, and
 - (c) the Department for the Economy in Northern Ireland.
 
-### 16. Regulations[^key-d5a2540a6486c40034ee576013a14c12]
+### 16. Regulations[^c-d5a2540a6486c40034ee576013a14c12]
 
 (1) A power to make regulations under any provision of this Act includes power to make—
 
@@ -305,7 +305,7 @@ as may be specified in the regulations.
 
 (4) Any other statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 17. Interpretation[^key-f46450b385f2f10d4ae67b2b4289e784]
+### 17. Interpretation[^c-f46450b385f2f10d4ae67b2b4289e784]
 
 In this Act—
 
@@ -322,17 +322,17 @@ In this Act—
 - “**revenue certainty contract**” has the meaning given by section 1(2);
 - “**sustainable aviation fuel**” means aviation fuel that is renewable transport fuel.
 
-### 18. Extent[^key-ec226c4beec0c525b8fdfca9e5227f1d]
+### 18. Extent[^c-ec226c4beec0c525b8fdfca9e5227f1d]
 
 This Act extends to England and Wales, Scotland and Northern Ireland.
 
-### 19. Commencement[^key-49824662379b2a3c12d7a4ba40f62c9a]
+### 19. Commencement[^c-49824662379b2a3c12d7a4ba40f62c9a]
 
 (1) This Act, apart from section 1, comes into force on the day on which it is passed.
 
 (2) Section 1 comes into force at the end of the period of two months beginning with the day on which this Act is passed.
 
-### 20. Short title[^key-d308464d4059b4d2d2312db191393c12]
+### 20. Short title[^c-d308464d4059b4d2d2312db191393c12]
 
 This Act may be cited as the Sustainable Aviation Fuel Act 2026.
 
@@ -340,11 +340,11 @@ This Act may be cited as the Sustainable Aviation Fuel Act 2026.
 
 Section 11
 
-### 1. Introduction[^key-7de2b89e936952f83837e511b3173f2b]
+### 1. Introduction[^c-7de2b89e936952f83837e511b3173f2b]
 
 This Schedule makes further provision in connection with financial penalties under section 11.
 
-### 2. Notices of intent[^key-ce2e55b1d1018bd150d31084f26799f1]
+### 2. Notices of intent[^c-ce2e55b1d1018bd150d31084f26799f1]
 
 (1) The Secretary of State must, before imposing a financial penalty on a person, give the person a written notice (a “notice of intent”) of the proposed financial penalty.
 
@@ -359,13 +359,13 @@ This Schedule makes further provision in connection with financial penalties und
 
 (4) The Secretary of State may at any time withdraw the notice of intent, or amend it to reduce the amount of the proposed financial penalty, by giving written notice to the person.
 
-### 3. Right to make representations[^key-f877f3b2d6bb43f7881748b23721a954]
+### 3. Right to make representations[^c-f877f3b2d6bb43f7881748b23721a954]
 
 (1) A person who is given a notice of intent under paragraph 2 may make written representations to the Secretary of State about the proposal to impose a financial penalty.
 
 (2) Any representations must be made within the period (“the period for representations”) ending with the date specified under paragraph 2(2)(d).
 
-### 4. Final notices[^key-c833aec84fc8db4b7e2baf1d88922929]
+### 4. Final notices[^c-c833aec84fc8db4b7e2baf1d88922929]
 
 (1) After the end of the period for representations the Secretary of State must decide whether to impose a financial penalty on the person.
 
@@ -385,7 +385,7 @@ This Schedule makes further provision in connection with financial penalties und
 
 (6) A final notice may not be given more than 28 days after the last day of the period for representations.
 
-### 5. Appeals[^key-5a56783f003e99d843a4511d36216c30]
+### 5. Appeals[^c-5a56783f003e99d843a4511d36216c30]
 
 (1) A person on whom a financial penalty is imposed under section 11 may appeal to the court against—
 
@@ -403,7 +403,7 @@ This Schedule makes further provision in connection with financial penalties und
 - (a) in England and Wales or Northern Ireland, the High Court;
 - (b) in Scotland, the Court of Session.
 
-### 6. Recovery[^key-df22701244b4e01c17e6f41385e6d10a]
+### 6. Recovery[^c-df22701244b4e01c17e6f41385e6d10a]
 
 (1) This paragraph applies if a person fails to pay the whole or part of a financial penalty before the end of the period within which the person is required to pay the penalty.
 
@@ -411,62 +411,62 @@ This Schedule makes further provision in connection with financial penalties und
 
 (3) In Scotland, the unpaid amount may be enforced in the same manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff of any sheriffdom.
 
-### 7. Payment of proceeds into Consolidated Fund[^key-facf908a93fffff617da426ad607e66a]
+### 7. Payment of proceeds into Consolidated Fund[^c-facf908a93fffff617da426ad607e66a]
 
 Any sums received in pursuance of final notices given under paragraph 4 must be paid into the Consolidated Fund.
 
 ## Annotations
 
-[^key-e3890172ffdf07f90e8ef6c7339ae924]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/9/section/1) in force at 5.5.2026, see [s. 19(2)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/2)
+[^c-e3890172ffdf07f90e8ef6c7339ae924]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/9/section/1) in force at 5.5.2026, see [s. 19(2)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/2)
 
-[^key-f1b148eb3653dc5801b8f4d30b087e5f]: Commencement: S. 2 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-f1b148eb3653dc5801b8f4d30b087e5f]: Commencement: S. 2 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-39e5ca47d42e2f493f123e7c49fa0613]: Commencement: S. 3 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-39e5ca47d42e2f493f123e7c49fa0613]: Commencement: S. 3 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-83950448722eaaf8899f3a4193a02335]: Commencement: S. 4 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-83950448722eaaf8899f3a4193a02335]: Commencement: S. 4 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-6848efbcf574aa551a2d758a53b55a6f]: Commencement: S. 5 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-6848efbcf574aa551a2d758a53b55a6f]: Commencement: S. 5 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-a216608f829916f1ec605250b3376ec4]: Commencement: S. 6 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-a216608f829916f1ec605250b3376ec4]: Commencement: S. 6 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-7ae349d796fa591a27226b73869e779d]: Commencement: S. 7 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-7ae349d796fa591a27226b73869e779d]: Commencement: S. 7 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-5faeae83199b79a0f5f980d960ecf746]: Commencement: S. 8 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-5faeae83199b79a0f5f980d960ecf746]: Commencement: S. 8 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-e33f955eb1b109ed34255cd076f84ce3]: Commencement: S. 9 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-e33f955eb1b109ed34255cd076f84ce3]: Commencement: S. 9 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-c55748513821868dfae93dd4da018f7b]: Commencement: S. 10 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-c55748513821868dfae93dd4da018f7b]: Commencement: S. 10 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-c6ca7a637665ebde73cd80e216f4562f]: Commencement: S. 11 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-c6ca7a637665ebde73cd80e216f4562f]: Commencement: S. 11 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-3491d455cc17c4de629466d3d06a8bf5]: Commencement: S. 12 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-3491d455cc17c4de629466d3d06a8bf5]: Commencement: S. 12 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-a6ff12460ac2e1e0d553d8c9ca698f39]: Commencement: S. 13 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-a6ff12460ac2e1e0d553d8c9ca698f39]: Commencement: S. 13 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-83bd250bb0e401d0df4489c43aabfad8]: Commencement: S. 14 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-83bd250bb0e401d0df4489c43aabfad8]: Commencement: S. 14 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-e3bcc9a4bb1c06678c6a6ce088a6ab32]: Commencement: S. 15 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-e3bcc9a4bb1c06678c6a6ce088a6ab32]: Commencement: S. 15 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-d5a2540a6486c40034ee576013a14c12]: Commencement: S. 16 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-d5a2540a6486c40034ee576013a14c12]: Commencement: S. 16 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-f46450b385f2f10d4ae67b2b4289e784]: Commencement: S. 17 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-f46450b385f2f10d4ae67b2b4289e784]: Commencement: S. 17 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-ec226c4beec0c525b8fdfca9e5227f1d]: Commencement: S. 18 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-ec226c4beec0c525b8fdfca9e5227f1d]: Commencement: S. 18 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-49824662379b2a3c12d7a4ba40f62c9a]: Commencement: S. 19 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-49824662379b2a3c12d7a4ba40f62c9a]: Commencement: S. 19 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-d308464d4059b4d2d2312db191393c12]: Commencement: S. 20 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-d308464d4059b4d2d2312db191393c12]: Commencement: S. 20 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-7de2b89e936952f83837e511b3173f2b]: Commencement: Sch. para. 1 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-7de2b89e936952f83837e511b3173f2b]: Commencement: Sch. para. 1 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-ce2e55b1d1018bd150d31084f26799f1]: Commencement: Sch. para. 2 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-ce2e55b1d1018bd150d31084f26799f1]: Commencement: Sch. para. 2 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-f877f3b2d6bb43f7881748b23721a954]: Commencement: Sch. para. 3 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-f877f3b2d6bb43f7881748b23721a954]: Commencement: Sch. para. 3 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-c833aec84fc8db4b7e2baf1d88922929]: Commencement: Sch. para. 4 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-c833aec84fc8db4b7e2baf1d88922929]: Commencement: Sch. para. 4 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-5a56783f003e99d843a4511d36216c30]: Commencement: Sch. para. 5 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-5a56783f003e99d843a4511d36216c30]: Commencement: Sch. para. 5 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-df22701244b4e01c17e6f41385e6d10a]: Commencement: Sch. para. 6 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-df22701244b4e01c17e6f41385e6d10a]: Commencement: Sch. para. 6 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
 
-[^key-facf908a93fffff617da426ad607e66a]: Commencement: Sch. para. 7 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)
+[^c-facf908a93fffff617da426ad607e66a]: Commencement: Sch. para. 7 in force at Royal Assent, see [s. 19(1)](https://www.legislation.gov.uk/ukpga/2026/9/section/19/1)

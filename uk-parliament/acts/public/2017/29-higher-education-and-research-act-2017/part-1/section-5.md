@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. The initial and general ongoing registration conditions[^key-b462fb3180d107dca43048a604a6b0f7]
+## 5. The initial and general ongoing registration conditions[^c-b462fb3180d107dca43048a604a6b0f7]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b462fb3180d107dca43048a604a6b0f7]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/29/section/5) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)
+[^c-b462fb3180d107dca43048a604a6b0f7]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/29/section/5) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)

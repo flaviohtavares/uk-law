@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.J.2. Claims for benefits[^key-4ea3236418632dd2efa6b752030460e1][^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.J.2. Claims for benefits[^c-4ea3236418632dd2efa6b752030460e1][^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ as the Secretary of State may from time to time require for the purposes of this
 
 ## Annotations
 
-[^key-4ea3236418632dd2efa6b752030460e1]: Textual amendment: [Regs. 3.J.2(1)-(5)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.J.2/1) substituted for [reg. 3.J.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.J.2) (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [79](https://www.legislation.gov.uk/uksi/2008/2263/regulation/79) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-4ea3236418632dd2efa6b752030460e1]: Textual amendment: [Regs. 3.J.2(1)-(5)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.J.2/1) substituted for [reg. 3.J.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.J.2) (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [79](https://www.legislation.gov.uk/uksi/2008/2263/regulation/79) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

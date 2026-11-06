@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Goods Vehicles (Authorisation of International Journeys) (Fees) Regulations 2001 (revoked)[^key-6f88a3d8abd54f9200cc9a1fbab27524]
+The Goods Vehicles (Authorisation of International Journeys) (Fees) Regulations 2001 (revoked)[^c-6f88a3d8abd54f9200cc9a1fbab27524]
 
 Made
 
@@ -45,34 +45,34 @@ Coming into force
 
 1st December 2001
 
-[^key-6f88a3d8abd54f9200cc9a1fbab27524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f88a3d8abd54f9200cc9a1fbab27524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and revocation[^key-6f88a3d8abd54f9200cc9a1fbab27524]
+## 1. Citation, commencement and revocation[^c-6f88a3d8abd54f9200cc9a1fbab27524]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6f88a3d8abd54f9200cc9a1fbab27524]
+## 2. Interpretation[^c-6f88a3d8abd54f9200cc9a1fbab27524]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees[^key-6f88a3d8abd54f9200cc9a1fbab27524]
+## 3. Fees[^c-6f88a3d8abd54f9200cc9a1fbab27524]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f88a3d8abd54f9200cc9a1fbab27524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f88a3d8abd54f9200cc9a1fbab27524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — IN THIS SCHEDULE, “HER MAJESTY'S GOVERNMENT” MEANS THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND[^key-6f88a3d8abd54f9200cc9a1fbab27524]
+## SCHEDULE — IN THIS SCHEDULE, “HER MAJESTY'S GOVERNMENT” MEANS THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND[^c-6f88a3d8abd54f9200cc9a1fbab27524]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f88a3d8abd54f9200cc9a1fbab27524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f88a3d8abd54f9200cc9a1fbab27524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f88a3d8abd54f9200cc9a1fbab27524]: Textual amendment: Regulations revoked (21.11.2018) by [The International Road Transport Permits (EU Exit) Regulations 2018 (S.I. 2018/1204)](https://www.legislation.gov.uk/uksi/2018/1204), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/1204/schedule/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1204/regulation/3))
+[^c-6f88a3d8abd54f9200cc9a1fbab27524]: Textual amendment: Regulations revoked (21.11.2018) by [The International Road Transport Permits (EU Exit) Regulations 2018 (S.I. 2018/1204)](https://www.legislation.gov.uk/uksi/2018/1204), [Sch. 3](https://www.legislation.gov.uk/uksi/2018/1204/schedule/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1204/regulation/3))

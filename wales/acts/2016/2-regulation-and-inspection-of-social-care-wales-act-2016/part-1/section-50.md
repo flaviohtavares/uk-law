@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Offences related to inspections and investigations[^key-5538053f502cb2a559874e1339e940af][^key-76d24dabeb51eee2e73bb7cc071f6ac8]
+## 50. Offences related to inspections and investigations[^c-5538053f502cb2a559874e1339e940af][^c-76d24dabeb51eee2e73bb7cc071f6ac8]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5538053f502cb2a559874e1339e940af]: Commencement: S. 50 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)
+[^c-5538053f502cb2a559874e1339e940af]: Commencement: S. 50 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)
 
-[^key-76d24dabeb51eee2e73bb7cc071f6ac8]: Textual amendment: Words in [s. 50](https://www.legislation.gov.uk/anaw/2016/2/section/50) heading inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 7(8)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/8); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/c)
+[^c-76d24dabeb51eee2e73bb7cc071f6ac8]: Textual amendment: Words in [s. 50](https://www.legislation.gov.uk/anaw/2016/2/section/50) heading inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 7(8)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/8); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/c)

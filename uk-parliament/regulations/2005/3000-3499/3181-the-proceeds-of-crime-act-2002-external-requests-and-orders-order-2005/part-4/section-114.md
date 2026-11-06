@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Powers of enforcement receivers in respect of monetary external orders[^key-34f7048ca94be3656c85f6c717d5e111]
+## 114. Powers of enforcement receivers in respect of monetary external orders[^c-34f7048ca94be3656c85f6c717d5e111]
 
 *Extent: E+W+S+N.I.*
 
-(1) If the court appoints a receiver under article 113, it may act under this article on the application of the relevant Director [^key-1ef17ac5712b2fab8c75c62d58912f0f]... where the external order is for the recovery of a specified sum of money.
+(1) If the court appoints a receiver under article 113, it may act under this article on the application of the relevant Director [^c-1ef17ac5712b2fab8c75c62d58912f0f]... where the external order is for the recovery of a specified sum of money.
 
 (2) The court may by order confer on the receiver the following powers in relation to any realisable property—
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) power to manage or otherwise deal with the property;
 - (c) power to realise the property, in such manner as the court may specify;
 - (d) power to start, carry on or defend any legal proceedings in respect of the property;
-- (e)[^key-416d053ec6c06faebfc33a226b3db592] so far as the property consists of cryptoassets, power to destroy the property.
+- (e)[^c-416d053ec6c06faebfc33a226b3db592] so far as the property consists of cryptoassets, power to destroy the property.
 
 (3) The court may by order confer on the receiver power to enter any premises in Northern Ireland and to do any of the following—
 
@@ -62,19 +62,19 @@ summary: ''
 
 (8) The court must not—
 
-- (a) confer the power mentioned in paragraph (2)(b) , (c) or (e)[^key-206c6a28de25b2c9befc4cc21ad4a43c] in respect of property, or
+- (a) confer the power mentioned in paragraph (2)(b) , (c) or (e)[^c-206c6a28de25b2c9befc4cc21ad4a43c] in respect of property, or
 - (b) exercise the power conferred on it by paragraph (6) in respect of property,
 
 unless it gives persons holding interests in the property a reasonable opportunity to make representations to it.
 
-(8A)[^key-fcc2b75aba4c458ae02bbc2ff0d20023] Paragraph (8), so far as relating to the power mentioned in paragraph (2)(b), does not apply to property which—
+(8A)[^c-fcc2b75aba4c458ae02bbc2ff0d20023] Paragraph (8), so far as relating to the power mentioned in paragraph (2)(b), does not apply to property which—
 
 - (a) is perishable; or
 - (b) ought to be disposed of before its value diminishes.
 
 (9) The court may order that a power conferred by an order under this article is subject to such conditions and exceptions as it specifies.
 
-(9A)[^key-a81b72bc816ee52076f800b22bf4afcc] The court may confer the power mentioned in paragraph (2)(e) only where—
+(9A)[^c-a81b72bc816ee52076f800b22bf4afcc] The court may confer the power mentioned in paragraph (2)(e) only where—
 
 - (a) it is not reasonably practicable to realise the cryptoassets in question, or
 - (b) there are reasonable grounds to believe that the realisation of the cryptoassets would be contrary to the public interest, having regard in particular to how likely it is that the entry of the cryptoassets into general circulation would facilitate criminal conduct by any person.
@@ -94,14 +94,14 @@ unless it gives persons holding interests in the property a reasonable opportuni
 
 ## Annotations
 
-[^key-34f7048ca94be3656c85f6c717d5e111]: Commencement: [Art. 114](https://www.legislation.gov.uk/uksi/2005/3181/article/114) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-34f7048ca94be3656c85f6c717d5e111]: Commencement: [Art. 114](https://www.legislation.gov.uk/uksi/2005/3181/article/114) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-1ef17ac5712b2fab8c75c62d58912f0f]: Textual amendment: Words in [art. 114(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/114/1) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(24)](https://www.legislation.gov.uk/uksi/2008/302/article/2/24)
+[^c-1ef17ac5712b2fab8c75c62d58912f0f]: Textual amendment: Words in [art. 114(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/114/1) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(24)](https://www.legislation.gov.uk/uksi/2008/302/article/2/24)
 
-[^key-416d053ec6c06faebfc33a226b3db592]: Textual amendment: [Art. 114(2)(e)](https://www.legislation.gov.uk/uksi/2005/3181/article/114/2/e) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/1127/article/11/a)
+[^c-416d053ec6c06faebfc33a226b3db592]: Textual amendment: [Art. 114(2)(e)](https://www.legislation.gov.uk/uksi/2005/3181/article/114/2/e) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/1127/article/11/a)
 
-[^key-206c6a28de25b2c9befc4cc21ad4a43c]: Textual amendment: Words in [art. 114(8)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/114/8/a) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/1127/article/11/b)
+[^c-206c6a28de25b2c9befc4cc21ad4a43c]: Textual amendment: Words in [art. 114(8)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/114/8/a) substituted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/1127/article/11/b)
 
-[^key-fcc2b75aba4c458ae02bbc2ff0d20023]: Textual amendment: [Art. 114(8A)](https://www.legislation.gov.uk/uksi/2005/3181/article/114/8A) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(25)](https://www.legislation.gov.uk/uksi/2008/302/article/2/25)
+[^c-fcc2b75aba4c458ae02bbc2ff0d20023]: Textual amendment: [Art. 114(8A)](https://www.legislation.gov.uk/uksi/2005/3181/article/114/8A) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(25)](https://www.legislation.gov.uk/uksi/2008/302/article/2/25)
 
-[^key-a81b72bc816ee52076f800b22bf4afcc]: Textual amendment: [Art. 114(9A)-(9C)](https://www.legislation.gov.uk/uksi/2005/3181/article/114/9A) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2024/1127/article/11/c)
+[^c-a81b72bc816ee52076f800b22bf4afcc]: Textual amendment: [Art. 114(9A)-(9C)](https://www.legislation.gov.uk/uksi/2005/3181/article/114/9A) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2024/1127/article/11/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. London Assembly police and crime panel[^key-e89950a4bc7a2e8af696482073e45a8f]
+## 32. London Assembly police and crime panel[^c-e89950a4bc7a2e8af696482073e45a8f]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e89950a4bc7a2e8af696482073e45a8f]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2011/13/section/32) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-e89950a4bc7a2e8af696482073e45a8f]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2011/13/section/32) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

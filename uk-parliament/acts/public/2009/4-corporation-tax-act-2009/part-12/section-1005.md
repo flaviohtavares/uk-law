@@ -27,7 +27,7 @@ In this Part—
   - (a) convertible securities, or
   - (b) an interest in convertible securities,
 - “**the employee**” has the meaning given by section 1007(1)(a) or 1015(1)(a) (as the case may be) (see also sections 1025A(7) and 1030A(8))[^M_F_4b511da4-b386-4ae7-91e2-85a54a8bf826],
-- [^key-c7e65c4e0ba0897bad018ef68d2888de]...
+- [^c-c7e65c4e0ba0897bad018ef68d2888de]...
 - “**the employing company**” has the meaning given by section 1007(1) or 1015(1) (as the case may be),
 - “**listed company**” means a company—
   - (a) whose shares are listed on a recognised stock exchange, and
@@ -48,6 +48,6 @@ In this Part—
 
 [^M_F_4b511da4-b386-4ae7-91e2-85a54a8bf826]: Textual amendment: Words in s. 1005 inserted (6.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 41(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/41/a), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
 
-[^key-c7e65c4e0ba0897bad018ef68d2888de]: Textual amendment: Words in s. 1005 omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(a)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/a)
+[^c-c7e65c4e0ba0897bad018ef68d2888de]: Textual amendment: Words in s. 1005 omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(a)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/a)
 
 [^M_F_f2ead065-4825-47d0-ba76-d5b14c4bc261]: Textual amendment: Words in s. 1005 substituted (6.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 41(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/41/b), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)

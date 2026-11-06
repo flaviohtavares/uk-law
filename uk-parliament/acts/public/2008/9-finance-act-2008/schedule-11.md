@@ -150,7 +150,7 @@ Section 32
 **12.** And the amendments made by paragraphs 8 and 9 do not have effect in relation to—
 
 - (a) a relevant holding issued before that date, or
-- (b) a relevant holding acquired by a company (“the investing company”) before 6 April 2018[^key-997db35f8acfff9222a36671aec12b2f] by means of the investment of protected money.
+- (b) a relevant holding acquired by a company (“the investing company”) before 6 April 2018[^c-997db35f8acfff9222a36671aec12b2f] by means of the investment of protected money.
 
 **13.** For the purposes of paragraph 12(b) “protected money” is—
 
@@ -159,4 +159,4 @@ Section 32
 
 ## Annotations
 
-[^key-997db35f8acfff9222a36671aec12b2f]: Textual amendment: Words in [Sch. 11 para. 12(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/12/b) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/10), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)
+[^c-997db35f8acfff9222a36671aec12b2f]: Textual amendment: Words in [Sch. 11 para. 12(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/12/b) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/10), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/e)

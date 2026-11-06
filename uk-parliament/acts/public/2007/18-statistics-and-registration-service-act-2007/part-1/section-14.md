@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Re-assessment[^key-6a51e67c04a0aac7d9e4337abeec6618]
+## 14. Re-assessment[^c-6a51e67c04a0aac7d9e4337abeec6618]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a51e67c04a0aac7d9e4337abeec6618]: Commencement: S. 14 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-6a51e67c04a0aac7d9e4337abeec6618]: Commencement: S. 14 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79.[^key-0012fcfee0bdc3f961d47b1624ec0ac7]
+## 79.[^c-0012fcfee0bdc3f961d47b1624ec0ac7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 590 (conditions for approval of retirement benefit schemes) —
 
 ## Annotations
 
-[^key-0012fcfee0bdc3f961d47b1624ec0ac7]: Commencement: Reg. 79 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-0012fcfee0bdc3f961d47b1624ec0ac7]: Commencement: Reg. 79 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

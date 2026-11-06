@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. The 2050 target[^key-c32ee4e57a86af4842bb2f6133f42437]
+## 1. The 2050 target[^c-c32ee4e57a86af4842bb2f6133f42437]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c32ee4e57a86af4842bb2f6133f42437]: Textual amendment: S. 1 and cross-heading repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 2](https://www.legislation.gov.uk/asp/2019/15/section/2), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-c32ee4e57a86af4842bb2f6133f42437]: Textual amendment: S. 1 and cross-heading repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 2](https://www.legislation.gov.uk/asp/2019/15/section/2), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

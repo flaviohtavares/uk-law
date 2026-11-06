@@ -279,7 +279,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - [Section 89 — Joint processing by intelligence services and competent authorities](part-5/section-89.md)
 - [Section 90 — Joint processing: consequential amendments](part-5/section-90.md)
 
-##### Information Commission's role[^key-6686a97f18983e6f8aadc9afd301ba2b]
+##### Information Commission's role[^c-6686a97f18983e6f8aadc9afd301ba2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -440,4 +440,4 @@ Schedules
 
 ## Annotations
 
-[^key-6686a97f18983e6f8aadc9afd301ba2b]: Textual amendment: Word in s. 91 cross-heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 28(2)(3)(e)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-6686a97f18983e6f8aadc9afd301ba2b]: Textual amendment: Word in s. 91 cross-heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 28(2)(3)(e)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

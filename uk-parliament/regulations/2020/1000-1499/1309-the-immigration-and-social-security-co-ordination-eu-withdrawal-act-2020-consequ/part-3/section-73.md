@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Amendment of the Employment and Support Allowance Regulations 2008[^key-5417afa1266951cb1db12f3513a29574][^M_I_2b8eaad4-26c7-4799-c208-94de2cb01f98]
+## 73. Amendment of the Employment and Support Allowance Regulations 2008[^c-5417afa1266951cb1db12f3513a29574][^M_I_2b8eaad4-26c7-4799-c208-94de2cb01f98]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5417afa1266951cb1db12f3513a29574]: Commencement: Reg. 73 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-5417afa1266951cb1db12f3513a29574]: Commencement: Reg. 73 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_2b8eaad4-26c7-4799-c208-94de2cb01f98]: Commencement: Reg. 73 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 453B. Certain offences in relation to SFO officers[^key-7a1ccd0602b5b0533199bb677dfb8505]
+## 453B. Certain offences in relation to SFO officers[^c-7a1ccd0602b5b0533199bb677dfb8505]
 
 *Extent: E.W.N.I*
 
@@ -43,7 +43,7 @@ summary: ''
 - (e) section 303C (powers to search for a listed asset);
 - (f) section 303J (powers to seize property);
 - (g) section 303K (powers to detain seized property);
-- (ga)[^key-2fdd0a877fab524db82b426c3966a8c1] section 303Z21 (powers to search for cryptoasset-related items);
+- (ga)[^c-2fdd0a877fab524db82b426c3966a8c1] section 303Z21 (powers to search for cryptoasset-related items);
 - (gb) section 303Z26 (powers to seize cryptoasset-related items);
 - (gc) section 303Z27 (powers to detain cryptoasset-related items);
 - (h) a search and seizure warrant issued under section 352.
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a1ccd0602b5b0533199bb677dfb8505]: Textual amendment: S. 453B inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W. for specified purposes, 28.6.2021 for N.I. in so far as not already in force, 28.6.2021 for E.W. for specified purposes) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 23](https://www.legislation.gov.uk/ukpga/2017/22/section/23), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/h); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/k)[(2)(b)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/2/b)
+[^c-7a1ccd0602b5b0533199bb677dfb8505]: Textual amendment: S. 453B inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W. for specified purposes, 28.6.2021 for N.I. in so far as not already in force, 28.6.2021 for E.W. for specified purposes) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 23](https://www.legislation.gov.uk/ukpga/2017/22/section/23), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/h); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/k)[(2)(b)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/2/b)
 
-[^key-2fdd0a877fab524db82b426c3966a8c1]: Textual amendment: [S. 453B(5)(ga)-(gc)](https://www.legislation.gov.uk/ukpga/2002/29/section/453B/5/ga) inserted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 for E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b), [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/13); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)
+[^c-2fdd0a877fab524db82b426c3966a8c1]: Textual amendment: [S. 453B(5)(ga)-(gc)](https://www.legislation.gov.uk/ukpga/2002/29/section/453B/5/ga) inserted (26.10.2023 for specified purposes, 26.4.2024 for S. for specified purposes, 26.4.2024 for E.W.N.I. in so far as not already in force, 7.11.2024 for S. in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b), [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2023/56/schedule/9/paragraph/13); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(b)(i)(ii)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/b/i/ii); [S.I. 2024/1108](https://www.legislation.gov.uk/uksi/2024/1108), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1108/regulation/2)

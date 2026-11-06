@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Power to make byelaws[^key-71ec8edf37bea889d8ddd8ba068f5eaf][^key-7f075672d2de8b7905713d52bd6744de][^key-fa3ca8f0265c241397481d1d891eccd3]
+## 155. Power to make byelaws[^c-71ec8edf37bea889d8ddd8ba068f5eaf][^c-7f075672d2de8b7905713d52bd6744de][^c-fa3ca8f0265c241397481d1d891eccd3]
 
 *Extent: E+W*
 
@@ -34,8 +34,8 @@ This is subject to section 157 (emergency byelaws).
 
 ## Annotations
 
-[^key-71ec8edf37bea889d8ddd8ba068f5eaf]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2009/23/section/155) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)
+[^c-71ec8edf37bea889d8ddd8ba068f5eaf]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2009/23/section/155) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)
 
-[^key-7f075672d2de8b7905713d52bd6744de]: Modification: [S. 155](https://www.legislation.gov.uk/ukpga/2009/23/section/155) modified by SI 2010/675 Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
+[^c-7f075672d2de8b7905713d52bd6744de]: Modification: [S. 155](https://www.legislation.gov.uk/ukpga/2009/23/section/155) modified by SI 2010/675 Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
 
-[^key-fa3ca8f0265c241397481d1d891eccd3]: Modification: [S. 155](https://www.legislation.gov.uk/ukpga/2009/23/section/155) modified (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-fa3ca8f0265c241397481d1d891eccd3]: Modification: [S. 155](https://www.legislation.gov.uk/ukpga/2009/23/section/155) modified (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

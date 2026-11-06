@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Exemptions from requirement for heat network consent[^key-d371312c78ba02f9838012b500204024]
+## 19. Exemptions from requirement for heat network consent[^c-d371312c78ba02f9838012b500204024]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d371312c78ba02f9838012b500204024]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2021/9/section/19) in force at 16.1.2023 by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-d371312c78ba02f9838012b500204024]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2021/9/section/19) in force at 16.1.2023 by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

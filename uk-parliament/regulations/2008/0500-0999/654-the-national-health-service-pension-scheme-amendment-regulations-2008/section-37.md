@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Amendment of regulation K2[^key-46568acff7f7d6d3b80efaadcad1fa53]
+## 37. Amendment of regulation K2[^c-46568acff7f7d6d3b80efaadcad1fa53]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46568acff7f7d6d3b80efaadcad1fa53]: Commencement: Reg. 37 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-46568acff7f7d6d3b80efaadcad1fa53]: Commencement: Reg. 37 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

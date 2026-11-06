@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Limit on compensation payable under compensation order of magistrates' court: offences committed before 11 December 2013[^key-ce559d5c602bd6fc6b37587f512bbd06][^key-2c52f38c099ecdd1a417dd24bdb2979d]
+## 142. Limit on compensation payable under compensation order of magistrates' court: offences committed before 11 December 2013[^c-ce559d5c602bd6fc6b37587f512bbd06][^c-2c52f38c099ecdd1a417dd24bdb2979d]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce559d5c602bd6fc6b37587f512bbd06]: Commencement: S. 142 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ce559d5c602bd6fc6b37587f512bbd06]: Commencement: S. 142 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-2c52f38c099ecdd1a417dd24bdb2979d]: Modification: Ss. 141-143 applied (with modifications) by 2013 c. 3, s. 4(12) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 290](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/290) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-2c52f38c099ecdd1a417dd24bdb2979d]: Modification: Ss. 141-143 applied (with modifications) by 2013 c. 3, s. 4(12) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 290](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/290) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))

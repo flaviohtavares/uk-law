@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Orders of Tribunal.[^c13350742][^key-5dc43b2b1af4ada4c72430c1c16c6f3b]
+## 48. Orders of Tribunal.[^c13350742][^c-5dc43b2b1af4ada4c72430c1c16c6f3b]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 [^c13350742]: Modification: [S. 48](https://www.legislation.gov.uk/ukpga/1974/47/section/48) extended (22.5.2000) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1119/regulation/1), [37(3)](https://www.legislation.gov.uk/uksi/2000/1119/regulation/37/3), [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/10) (as amended (1.7.2009) by [The Legal Services Act 2007 (Registered European Lawyers) Order 2009 (S.I. 2009/1587)](https://www.legislation.gov.uk/uksi/2009/1587), [art. 3(10)](https://www.legislation.gov.uk/uksi/2009/1587/article/3/10))
 
-[^key-5dc43b2b1af4ada4c72430c1c16c6f3b]: Modification: [S. 48](https://www.legislation.gov.uk/ukpga/1974/47/section/48) applied (with modifications) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-5dc43b2b1af4ada4c72430c1c16c6f3b]: Modification: [S. 48](https://www.legislation.gov.uk/ukpga/1974/47/section/48) applied (with modifications) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
 
 [^c13350751]: Textual amendment: In s. 48(2), “(a) to (i)” substituted for “(a) to (e)” by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 92(5)(a)](https://www.legislation.gov.uk/ukpga/1990/41/section/92/5/a)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Community Drivers' Hours and Recording Equipment Regulations 2007[^key-993b46567a3183c2a02d896b48d41d9d]
+## 28. Community Drivers' Hours and Recording Equipment Regulations 2007[^c-993b46567a3183c2a02d896b48d41d9d]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ In regulation 3 of the Community Drivers' Hours and Recording Equipment Regulati
 
 ## Annotations
 
-[^key-993b46567a3183c2a02d896b48d41d9d]: Commencement: Reg. 28 in force at 26.3.2019, see reg. 1(2)
+[^c-993b46567a3183c2a02d896b48d41d9d]: Commencement: Reg. 28 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620881]: Marginal citation: [S.I. 2007/1819](https://www.legislation.gov.uk/uksi/2007/1819), amended by [S.I. 2016/248](https://www.legislation.gov.uk/uksi/2016/248). There are other amendments which are not relevant to these Regulations.

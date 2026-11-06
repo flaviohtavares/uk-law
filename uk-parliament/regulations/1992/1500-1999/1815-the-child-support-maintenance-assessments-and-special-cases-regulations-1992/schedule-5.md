@@ -14,34 +14,34 @@ summary: ''
 
 > Text as at 2022-07-01.
 
-## SCHEDULE 5 — PROVISIONS APPLYING TO CASES TO WHICH SECTION 43 OF THE ACT AND REGULATION 28 APPLY[^key-bab5af3e8a6adea88e6160abf42224a0]
+## SCHEDULE 5 — PROVISIONS APPLYING TO CASES TO WHICH SECTION 43 OF THE ACT AND REGULATION 28 APPLY[^c-bab5af3e8a6adea88e6160abf42224a0]
 
 Regulation 28(5)
 
-**1.**[^key-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3A.**[^key-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3A.**[^c-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7A.**[^key-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7A.**[^c-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1d733ed54f9bdbd919ec8abb67976dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** The provisions of paragraphs (1) and (2) of regulation 5 of the Child Support (Collection and Enforcement) Regulations 1992 shall apply to the transmission of payments in place of payments of child support maintenance under section 43 of the Act and regulation 28 as they apply to the transmission of payments of child support maintenance.
 
 ## Annotations
 
-[^key-bab5af3e8a6adea88e6160abf42224a0]: Textual amendment: Sch. 5 inserted (5.4.1993) by [The Child Support (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/913)](https://www.legislation.gov.uk/uksi/1993/913), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/913/regulation/1/1), [26(3)](https://www.legislation.gov.uk/uksi/1993/913/regulation/26/3), Sch.
+[^c-bab5af3e8a6adea88e6160abf42224a0]: Textual amendment: Sch. 5 inserted (5.4.1993) by [The Child Support (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/913)](https://www.legislation.gov.uk/uksi/1993/913), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/913/regulation/1/1), [26(3)](https://www.legislation.gov.uk/uksi/1993/913/regulation/26/3), Sch.
 
-[^key-1d733ed54f9bdbd919ec8abb67976dd6]: Textual amendment: [Sch. 5 paras. 1-8](https://www.legislation.gov.uk/uksi/1992/1815/schedule/5/paragraph/1) omitted (1.6.1999) by virtue of [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [23](https://www.legislation.gov.uk/uksi/1999/1510/article/23)
+[^c-1d733ed54f9bdbd919ec8abb67976dd6]: Textual amendment: [Sch. 5 paras. 1-8](https://www.legislation.gov.uk/uksi/1992/1815/schedule/5/paragraph/1) omitted (1.6.1999) by virtue of [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [23](https://www.legislation.gov.uk/uksi/1999/1510/article/23)

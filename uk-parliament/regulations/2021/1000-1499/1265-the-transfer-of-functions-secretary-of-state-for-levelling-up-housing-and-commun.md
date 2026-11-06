@@ -52,17 +52,17 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred by sections 1 and 2 of the Ministers of the Crown Act 1975[^f00001], is pleased, by and with the advice of Her Privy Council, to order as follows:
 
-## 1. Citation and commencement[^key-20173fe57c2d77e59d3d1491ca0e97d0]
+## 1. Citation and commencement[^c-20173fe57c2d77e59d3d1491ca0e97d0]
 
 (1) This Order may be cited as the Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021.
 
 (2) This Order comes into force on 8th December 2021.
 
-## 2. Interpretation[^key-35cc850d8655f8c8741a75e0fa81b34a]
+## 2. Interpretation[^c-35cc850d8655f8c8741a75e0fa81b34a]
 
 In this Order “**instrument**” includes Royal Charters, Royal Warrants, Orders in Council, Letters Patent, judgments, decrees, orders, rules, regulations, schemes, bye-laws, awards, licences, authorisations, consents, approvals, contracts and other agreements, memoranda and articles of association, certificates, deeds and other documents.
 
-## 3. Incorporation of the Secretary of State for Levelling Up, Housing and Communities[^key-f62a4e879f0ba4f7923074c67c9c0545]
+## 3. Incorporation of the Secretary of State for Levelling Up, Housing and Communities[^c-f62a4e879f0ba4f7923074c67c9c0545]
 
 (1) The person who at the coming into force of this Order is the Secretary of State for Levelling Up, Housing and Communities and any successor to that person is by that name a corporation sole.
 
@@ -95,15 +95,15 @@ was so made or issued is conclusive evidence of that fact.
 - (a) as if references to regulations and orders included references to any document, and
 - (b) as if the officers mentioned in column 2 of the Schedule included any officer authorised to act on behalf of the Secretary of State.
 
-## 4. Transfer of functions of Secretary of State for Housing, Communities and Local Government[^key-0d241aef4a3e1188f7a9f6473d3850e4]
+## 4. Transfer of functions of Secretary of State for Housing, Communities and Local Government[^c-0d241aef4a3e1188f7a9f6473d3850e4]
 
 The functions of the Secretary of State for Housing, Communities and Local Government are transferred to the Secretary of State for Levelling Up, Housing and Communities.
 
-## 5. Transfer of property, rights and liabilities of Secretary of State for Housing, Communities and Local Government[^key-eb8b98bf68cab79c07887a60c458a8ac]
+## 5. Transfer of property, rights and liabilities of Secretary of State for Housing, Communities and Local Government[^c-eb8b98bf68cab79c07887a60c458a8ac]
 
 There are transferred to the Secretary of State for Levelling Up, Housing and Communities all property, rights and liabilities to which the Secretary of State for Housing, Communities and Local Government is entitled or subject at the coming into force of this Order.
 
-## 6. Supplementary provision in connection with articles 4 and 5[^key-76b88e46ecdf74bbb7bdea96bc8b0ba4]
+## 6. Supplementary provision in connection with articles 4 and 5[^c-76b88e46ecdf74bbb7bdea96bc8b0ba4]
 
 (1) In this article “**MHCLG function**” means any function so far as—
 
@@ -127,13 +127,13 @@ as if references to (and references which are to be read as references to) the S
 
 (7) In paragraphs (2) to (6) references to a Secretary of State include references to the department or an officer of that Secretary of State.
 
-## 7. Transfer of functions of Minister for the Cabinet Office[^key-e6590cd051cac98e477cdf09b06a0627]
+## 7. Transfer of functions of Minister for the Cabinet Office[^c-e6590cd051cac98e477cdf09b06a0627]
 
 (1) The functions of the Minister for the Cabinet Office under section 2(2)(b) of the Political Parties, Elections and Referendums Act 2000[^f00003]—
 
 - (a) are transferred to the Secretary of State for Levelling Up, Housing and Communities,
-- (b)[^key-9f3d553cfb090dfca43528f1a1e66716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-9f3d553cfb090dfca43528f1a1e66716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9f3d553cfb090dfca43528f1a1e66716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9f3d553cfb090dfca43528f1a1e66716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The functions of the Minister for the Cabinet Office under—
 
@@ -149,11 +149,11 @@ other than the functions mentioned in paragraph (3), are transferred to the Secr
 
 are transferred to the Secretary of State for Levelling Up, Housing and Communities.
 
-## 8. Transfer of property, rights and liabilities in connection with article 7(2) and (3)[^key-102d7108889689937060af6420c3cd32]
+## 8. Transfer of property, rights and liabilities in connection with article 7(2) and (3)[^c-102d7108889689937060af6420c3cd32]
 
 There are transferred to the Secretary of State for Levelling Up, Housing and Communities all property, rights and liabilities to which the Minister for the Cabinet Office is entitled or subject at the coming into force of this Order in connection with a function transferred by article 7(2) or (3).
 
-## 9. Functions of Secretary of State to cease to be exercisable concurrently with Minister for the Cabinet Office[^key-6013cce321a4948c75ac1416ed894aba]
+## 9. Functions of Secretary of State to cease to be exercisable concurrently with Minister for the Cabinet Office[^c-6013cce321a4948c75ac1416ed894aba]
 
 The functions of the Secretary of State under—
 
@@ -162,11 +162,11 @@ The functions of the Secretary of State under—
 
 which are exercisable concurrently with the Minister for the Cabinet Office are to cease to be exercisable concurrently with the Minister for the Cabinet Office and are instead to be exercisable only by the Secretary of State[^f00008].
 
-## 10. Transfer of property, rights and liabilities in connection with article 9[^key-80ac299929d9330a2c45b711dcdde72d]
+## 10. Transfer of property, rights and liabilities in connection with article 9[^c-80ac299929d9330a2c45b711dcdde72d]
 
 There are transferred to the Secretary of State for Levelling Up, Housing and Communities all property, rights and liabilities to which the Minister for the Cabinet Office is entitled or subject at the coming into force of this Order in connection with a function which is directed by article 9 to be exercisable only by the Secretary of State.
 
-## 11. Supplementary provision in connection with articles 7 to 10[^key-ade213a8b7b62fc1d1a0101318198bd5]
+## 11. Supplementary provision in connection with articles 7 to 10[^c-ade213a8b7b62fc1d1a0101318198bd5]
 
 (1) This article applies to—
 
@@ -198,7 +198,7 @@ There are transferred to the Secretary of State for Levelling Up, Housing and Co
 - (a) references to the Minister for the Cabinet Office include references to the Cabinet Office or an officer of that office, and
 - (b) references to a Secretary of State include references to the department or an officer of that Secretary of State accordingly.
 
-## 12. Supplementary: validity of things done before coming into force of order[^key-9b5ed766fa44eadcfa7b7030dd5b57b3]
+## 12. Supplementary: validity of things done before coming into force of order[^c-9b5ed766fa44eadcfa7b7030dd5b57b3]
 
 (1) This Order does not affect the validity of anything done (or having effect as if done) by or in relation to—
 
@@ -212,7 +212,7 @@ before the coming into force of this Order.
 - (a) the reference to the Secretary of State for Housing, Communities and Local Government includes a reference to the department or an officer of that Secretary of State, and
 - (b) the reference to the Minister for the Cabinet Office includes a reference to the Cabinet Office or an officer of that office.
 
-## 13. Consequential amendments[^key-1f3986afbdf231451615392749950dfb]
+## 13. Consequential amendments[^c-1f3986afbdf231451615392749950dfb]
 
 Schedule 2 has effect.
 
@@ -222,11 +222,11 @@ Deputy Clerk to the Privy Council
 
 SCHEDULES
 
-## SCHEDULE 1 — Acts and provisions referred to in article 9[^key-de02b0f0954b7eeefd15e0ee55de2390]
+## SCHEDULE 1 — Acts and provisions referred to in article 9[^c-de02b0f0954b7eeefd15e0ee55de2390]
 
 Article 9
 
-[^key-de02b0f0954b7eeefd15e0ee55de2390]The Acts and provisions referred to in article 9 are—
+[^c-de02b0f0954b7eeefd15e0ee55de2390]The Acts and provisions referred to in article 9 are—
 
 - (a) the Representation of the People Act 1983[^f00009];
 - (b) the Representation of the People Act 1985[^f00010];
@@ -251,26 +251,26 @@ Article 13
 
 ### PART 1 — Primary legislation
 
-#### 1. Transport Act 1962 (c. 46)[^key-d1c4ad0d1f6668fb4f9efefe364e913c]
+#### 1. Transport Act 1962 (c. 46)[^c-d1c4ad0d1f6668fb4f9efefe364e913c]
 
 In section 86(6A) of the Transport Act 1962[^f00025], for “Housing, Communities and Local Government” substitute “Levelling Up, Housing and Communities”.
 
-#### 2. Parliamentary Commissioner Act 1967 (c. 13)[^key-97fa88f67ea6855023f3700c16e8653c]
+#### 2. Parliamentary Commissioner Act 1967 (c. 13)[^c-97fa88f67ea6855023f3700c16e8653c]
 
 In Schedule 2 to the Parliamentary Commissioner Act 1967[^f00026]—
 
 - (a) omit “Ministry of Housing, Communities and Local Government”[^f00027], and
 - (b) at the appropriate place insert “Department for Levelling Up, Housing and Communities”.
 
-#### 3. Representation of the People Act 1983 (c. 2)[^key-8da7ccab8ab2a2e473120a901682061f]
+#### 3. Representation of the People Act 1983 (c. 2)[^c-8da7ccab8ab2a2e473120a901682061f]
 
 In the Representation of the People Act 1983, omit section 199ZA[^f00028].
 
-#### 4. Representation of the People Act 1985 (c. 50)[^key-3c4c9832d7c2c078d81dbcb28bcf232d]
+#### 4. Representation of the People Act 1985 (c. 50)[^c-3c4c9832d7c2c078d81dbcb28bcf232d]
 
 In section 27 of the Representation of the People Act 1985, omit subsection (2ZA)[^f00029].
 
-#### 5. Parliamentary Constituencies Act 1986 (c. 56)[^key-1275bb329fac638b2114341f0eac7010]
+#### 5. Parliamentary Constituencies Act 1986 (c. 56)[^c-1275bb329fac638b2114341f0eac7010]
 
 (1) The Parliamentary Constituencies Act 1986 is amended as follows.
 
@@ -285,7 +285,7 @@ In section 27 of the Representation of the People Act 1985, omit subsection (2ZA
 
 (5) In Schedule 1[^f00033], in paragraphs 2, 4A, 6(1) and (2) and 7, omit “or the Minister for the Cabinet Office”.
 
-#### 6. Town and Country Planning Act 1990 (c. 8)[^key-2589866c5b87fb3c9c200b6a93aeb1d1]
+#### 6. Town and Country Planning Act 1990 (c. 8)[^c-2589866c5b87fb3c9c200b6a93aeb1d1]
 
 (1) The Town and Country Planning Act 1990 is amended as follows.
 
@@ -299,15 +299,15 @@ In section 27 of the Representation of the People Act 1985, omit subsection (2ZA
 
 (4) In paragraph 8(2) of Schedule 6[^f00038], for “the Ministry of Housing, Communities and Local Government” substitute “the Department for Levelling Up, Housing and Communities”.
 
-#### 7. Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)[^key-629ecfb8774e349399b1299f33ffb3bf]
+#### 7. Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)[^c-629ecfb8774e349399b1299f33ffb3bf]
 
 In paragraph 7(2) of Schedule 3 to the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00039], for “the Ministry of Housing, Communities and Local Government” substitute “the Department for Levelling Up, Housing and Communities”.
 
-#### 8. Planning (Hazardous Substances) Act 1990 (c. 10)[^key-f27955a356f33789763cdaccfb86e9cc]
+#### 8. Planning (Hazardous Substances) Act 1990 (c. 10)[^c-f27955a356f33789763cdaccfb86e9cc]
 
 In paragraph 7(2) of the Schedule to the Planning (Hazardous Substances) Act 1990[^f00040], for “the Ministry of Housing, Communities and Local Government” substitute “the Department for Levelling Up, Housing and Communities”.
 
-#### 9. Local Government Finance Act 1992 (c. 14)[^key-d763d6b42b3fe2ea34169898c6cdf1f1]
+#### 9. Local Government Finance Act 1992 (c. 14)[^c-d763d6b42b3fe2ea34169898c6cdf1f1]
 
 (1) The Local Government Finance Act 1992 is amended as follows.
 
@@ -315,19 +315,19 @@ In paragraph 7(2) of the Schedule to the Planning (Hazardous Substances) Act 199
 
 (3) In section 113(1), (2) and (3)[^f00042], omit “, the Minister for the Cabinet Office”.
 
-#### 10. Transport and Works Act 1992 (c. 42)[^key-681cf8a245b7fc71b8dff7252ef60233]
+#### 10. Transport and Works Act 1992 (c. 42)[^c-681cf8a245b7fc71b8dff7252ef60233]
 
 In section 23(10) of the Transport and Works Act 1992[^f00043], for “the Ministry of Housing, Communities and Local Government”, in both places, substitute “the Department for Levelling Up, Housing and Communities”.
 
-#### 11. Greater London Authority Act 1999 (c. 29)[^key-36bd6ee3993e1b3bd0fac2d920dee7aa]
+#### 11. Greater London Authority Act 1999 (c. 29)[^c-36bd6ee3993e1b3bd0fac2d920dee7aa]
 
 In section 17A(3) and (6) of the Greater London Authority Act 1999[^f00044], omit “or the Minister for the Cabinet Office”.
 
-#### 12. Representation of the People Act 2000 (c. 2)[^key-da3dcb92754755d9743efb844936ee43]
+#### 12. Representation of the People Act 2000 (c. 2)[^c-da3dcb92754755d9743efb844936ee43]
 
 In the Representation of the People Act 2000, omit section 16A[^f00045].
 
-#### 13. Local Government Act 2000 (c. 22)[^key-8fc8009a071ed5aa0f7d865d8e012024]
+#### 13. Local Government Act 2000 (c. 22)[^c-8fc8009a071ed5aa0f7d865d8e012024]
 
 (1) The Local Government Act 2000 is amended as follows.
 
@@ -339,7 +339,7 @@ In the Representation of the People Act 2000, omit section 16A[^f00045].
 
 (3) In section 105, omit subsection (2A)[^f00049].
 
-#### 14. Regulation of Investigatory Powers Act 2000 (c. 23)[^key-6612b253ad6bdc0e5df1e0ff51c1e761]
+#### 14. Regulation of Investigatory Powers Act 2000 (c. 23)[^c-6612b253ad6bdc0e5df1e0ff51c1e761]
 
 In Part 1 of Schedule 1 to the Regulation of Investigatory Powers Act 2000 for paragraph 9A[^f00050] substitute—
 
@@ -347,7 +347,7 @@ In Part 1 of Schedule 1 to the Regulation of Investigatory Powers Act 2000 for p
 
 .
 
-#### 15. Political Parties, Elections and Referendums Act 2000 (c. 41)[^key-3730bc17226a75415e0227695d45e0a1]
+#### 15. Political Parties, Elections and Referendums Act 2000 (c. 41)[^c-3730bc17226a75415e0227695d45e0a1]
 
 (1) The Political Parties, Elections and Referendums Act 2000 is amended as follows.
 
@@ -357,24 +357,24 @@ In Part 1 of Schedule 1 to the Regulation of Investigatory Powers Act 2000 for p
 
 (4) In paragraph 2(1)(c) of Schedule 2[^f00053], for “Minister for the Cabinet Office” substitute “Secretary of State for Levelling Up, Housing and Communities”.
 
-#### 16. Domestic Violence, Crime and Victims Act 2004 (c. 28)[^key-30044e0221e15cfd731ab4623bae6a5d]
+#### 16. Domestic Violence, Crime and Victims Act 2004 (c. 28)[^c-30044e0221e15cfd731ab4623bae6a5d]
 
 In Schedule 9 to the Domestic Violence, Crime and Victims Act 2004, for paragraph 8B[^f00054] substitute—
 
 > **8B.** The Department for Levelling Up, Housing and Communities.
 
-#### 17. Electoral Administration Act 2006 (c. 22)[^key-2fa9909c894bfa0ae5f8cc6a0d2422da]
+#### 17. Electoral Administration Act 2006 (c. 22)[^c-2fa9909c894bfa0ae5f8cc6a0d2422da]
 
 In the Electoral Administration Act 2006, omit section 74A[^f00055].
 
-#### 18. Corporate Manslaughter and Corporate Homicide Act 2007 (c. 19)[^key-4d9150806b0dc8e6e9a2103859ca9bf8]
+#### 18. Corporate Manslaughter and Corporate Homicide Act 2007 (c. 19)[^c-4d9150806b0dc8e6e9a2103859ca9bf8]
 
 In Schedule 1 to the Corporate Manslaughter and Corporate Homicide Act 2007—
 
 - (a) omit “Ministry of Housing, Communities and Local Government”[^f00056], and
 - (b) at the appropriate place insert “Department for Levelling Up, Housing and Communities”.
 
-#### 19. Crossrail Act 2008 (c. 18)[^key-4f7a1848c3a235094806fb505b72f60e]
+#### 19. Crossrail Act 2008 (c. 18)[^c-4f7a1848c3a235094806fb505b72f60e]
 
 In the following provisions of the Crossrail Act 2008, for “Housing, Communities and Local Government” substitute “Levelling Up, Housing and Communities”—
 
@@ -383,11 +383,11 @@ In the following provisions of the Crossrail Act 2008, for “Housing, Communiti
 - (c) paragraph 2(8) of Schedule 5 (in the definition of “appropriate Ministers”)[^f00059];
 - (d) paragraph 37(2) of Schedule 7[^f00060].
 
-#### 20. Political Parties and Elections Act 2009 (c. 12)[^key-20a41f7a5885ff34479731e30497b244]
+#### 20. Political Parties and Elections Act 2009 (c. 12)[^c-20a41f7a5885ff34479731e30497b244]
 
 In the Political Parties and Elections Act 2009, omit section 38A[^f00061].
 
-#### 21. Local Democracy, Economic Development and Construction Act 2009 (c. 20)[^key-50cbd9b5fd78f29ee1707920a07b35ca]
+#### 21. Local Democracy, Economic Development and Construction Act 2009 (c. 20)[^c-50cbd9b5fd78f29ee1707920a07b35ca]
 
 (1) The Local Democracy, Economic Development and Construction Act 2009 is amended as follows.
 
@@ -397,7 +397,7 @@ In the Political Parties and Elections Act 2009, omit section 38A[^f00061].
 
 (4) In Schedule 5B[^f00064], in paragraphs 3 and 12(1), (4) and (5) (in both places), omit “or the Minister for the Cabinet Office”.
 
-#### 22. Police Reform and Social Responsibility Act 2011 (c. 13)[^key-dbebc973d56736d2484653b67ccb52e0]
+#### 22. Police Reform and Social Responsibility Act 2011 (c. 13)[^c-dbebc973d56736d2484653b67ccb52e0]
 
 (1) The Police Reform and Social Responsibility Act 2011 is amended as follows.
 
@@ -421,7 +421,7 @@ In the Political Parties and Elections Act 2009, omit section 38A[^f00061].
 - (f) section 75(1)[^f00073];
 - (g) section 154(1) and (5)[^f00074].
 
-#### 23. Electoral Registration and Administration Act 2013 (c. 6)[^key-1a009c78c08fe848420b47cafc98a91f]
+#### 23. Electoral Registration and Administration Act 2013 (c. 6)[^c-1a009c78c08fe848420b47cafc98a91f]
 
 (1) The Electoral Registration and Administration Act 2013 is amended as follows.
 
@@ -436,14 +436,14 @@ In the Political Parties and Elections Act 2009, omit section 38A[^f00061].
 
 (4) In section 27(1) and (10), for “Minister” substitute “Secretary of State”.
 
-#### 24. Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)[^key-8a13382309e259b1d6cc4744860532eb]
+#### 24. Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)[^c-8a13382309e259b1d6cc4744860532eb]
 
 In section 33 of the Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014—
 
 - (a) in subsections (10) and (11)(b), for “Minister”, in each place, substitute “Secretary of State”, and
 - (b) omit subsection (13)[^f00076].
 
-#### 25. High Speed Rail (London – West Midlands) Act 2017 (c. 7)[^key-9848e52b36224b1b30adc5a40ec16b48]
+#### 25. High Speed Rail (London – West Midlands) Act 2017 (c. 7)[^c-9848e52b36224b1b30adc5a40ec16b48]
 
 In the following provisions of the High Speed Rail (London – West Midlands) Act 2017, for “Housing, Communities and Local Government” substitute “Levelling Up, Housing and Communities”—
 
@@ -451,7 +451,7 @@ In the following provisions of the High Speed Rail (London – West Midlands) Ac
 - (b) paragraph 5(9) of Schedule 16 (in the definition of “appropriate Ministers”)[^f00078];
 - (c) paragraph 30 of Schedule 17 (in the definition of “appropriate Ministers”)[^f00079].
 
-#### 26. Digital Economy Act 2017 (c. 30)[^key-9f62114e87bf9d9ee228b61e8ee381c6]
+#### 26. Digital Economy Act 2017 (c. 30)[^c-9f62114e87bf9d9ee228b61e8ee381c6]
 
 In the following provisions of the Digital Economy Act 2017, for “Housing, Communities and Local Government” substitute “Levelling Up, Housing and Communities”—
 
@@ -460,7 +460,7 @@ In the following provisions of the Digital Economy Act 2017, for “Housing, Com
 - (c) paragraph 2 of Schedule 6[^f00082];
 - (d) paragraph 9 of Schedule 8[^f00083].
 
-#### 27. High Speed Rail (West Midlands – Crewe) Act 2021 (c. 2)[^key-6750887a875d037fdbd58dfec758e0d2]
+#### 27. High Speed Rail (West Midlands – Crewe) Act 2021 (c. 2)[^c-6750887a875d037fdbd58dfec758e0d2]
 
 In the following provisions of the High Speed Rail (West Midlands – Crewe) Act 2021, for “Housing, Communities and Local Government” substitute “Levelling Up, Housing and Communities”—
 
@@ -470,7 +470,7 @@ In the following provisions of the High Speed Rail (West Midlands – Crewe) Act
 
 ### PART 2 — Secondary legislation
 
-#### 28. Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341)[^key-d2d8d01b90170ec9131967751dceaa4d]
+#### 28. Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341)[^c-d2d8d01b90170ec9131967751dceaa4d]
 
 (1) The Representation of the People (England and Wales) Regulations 2001 are amended as follows.
 
@@ -536,7 +536,7 @@ In the following provisions of the High Speed Rail (West Midlands – Crewe) Act
 - (a) in paragraph (1)(b), for “Minister for the Cabinet Office” substitute “Secretary of State”, and
 - (b) in paragraph (1A), for “Minister” substitute “Secretary of State”.
 
-#### 29. Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497)[^key-2e6ea76fe5434452e6427918c0a0430a]
+#### 29. Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497)[^c-2e6ea76fe5434452e6427918c0a0430a]
 
 (1) The Representation of the People (Scotland) Regulations 2001 are amended as follows.
 
@@ -592,7 +592,7 @@ In the following provisions of the High Speed Rail (West Midlands – Crewe) Act
 
 (12) In regulation 32ZC[^f00107], in paragraphs (1)(b) and (1A), for “Minister for the Cabinet Office” substitute “Secretary of State”.
 
-#### 30. Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)[^key-a10fbfccdace5e8347b78b4353bd09e2]
+#### 30. Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)[^c-a10fbfccdace5e8347b78b4353bd09e2]
 
 (1) The Police and Crime Commissioner Elections Order 2012 is amended as follows.
 
@@ -613,11 +613,11 @@ In the following provisions of the High Speed Rail (West Midlands – Crewe) Act
 - (k) in Part 1 of Schedule 9, in the table, in the modifications to sections 131, 132, 133 and 181 of the Representation of the People Act 1983[^f00119];
 - (l) paragraph 1(3) of Schedule 10[^f00120].
 
-#### 31. Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2012 (S.I. 2012/2088)[^key-5d71c2db789501e2f4641203bfc1d72c]
+#### 31. Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2012 (S.I. 2012/2088)[^c-5d71c2db789501e2f4641203bfc1d72c]
 
 In regulation 3 of the Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2012[^f00121], omit “or the Minister for the Cabinet Office”.
 
-#### 32. Postponed Elections and Referendums (Coronavirus) and Policy Development Grants (Amendment) Regulations 2020 (S.I. 2020/926)[^key-6a894bdedbd8ace21ac6f0b2d35672ca]
+#### 32. Postponed Elections and Referendums (Coronavirus) and Policy Development Grants (Amendment) Regulations 2020 (S.I. 2020/926)[^c-6a894bdedbd8ace21ac6f0b2d35672ca]
 
 In article 10 of the Postponed Elections and Referendums (Coronavirus) and Policy Development Grants (Amendment) Regulations 2020—
 
@@ -654,25 +654,25 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26). Section 1 was amended by section 20 of the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-20173fe57c2d77e59d3d1491ca0e97d0]: Commencement: Art. 1 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-20173fe57c2d77e59d3d1491ca0e97d0]: Commencement: Art. 1 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
-[^key-35cc850d8655f8c8741a75e0fa81b34a]: Commencement: Art. 2 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-35cc850d8655f8c8741a75e0fa81b34a]: Commencement: Art. 2 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
-[^key-f62a4e879f0ba4f7923074c67c9c0545]: Commencement: Art. 3 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-f62a4e879f0ba4f7923074c67c9c0545]: Commencement: Art. 3 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00002]: Footnote: [1868 c. 37](https://www.legislation.gov.uk/ukpga/1868/37).
 
-[^key-0d241aef4a3e1188f7a9f6473d3850e4]: Commencement: Art. 4 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-0d241aef4a3e1188f7a9f6473d3850e4]: Commencement: Art. 4 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
-[^key-eb8b98bf68cab79c07887a60c458a8ac]: Commencement: Art. 5 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-eb8b98bf68cab79c07887a60c458a8ac]: Commencement: Art. 5 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
-[^key-76b88e46ecdf74bbb7bdea96bc8b0ba4]: Commencement: Art. 6 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-76b88e46ecdf74bbb7bdea96bc8b0ba4]: Commencement: Art. 6 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
-[^key-e6590cd051cac98e477cdf09b06a0627]: Commencement: Art. 7 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-e6590cd051cac98e477cdf09b06a0627]: Commencement: Art. 7 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00003]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41). Section 2(2)(b) was amended by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), Schedule 2, substituted by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Schedule 2 and amended by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Schedule, [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2. By article 2 of [S.I. 2021/310](https://www.legislation.gov.uk/uksi/2021/310) the Minister for the Cabinet Office’s functions under section 2(2)(b) were made exercisable concurrently with any Minister of the Crown in the Cabinet Office with responsibilities in relation to the constitution.
 
-[^key-9f3d553cfb090dfca43528f1a1e66716]: Textual amendment: [Art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2021/1265/article/7/1/b)[(c)](https://www.legislation.gov.uk/uksi/2021/1265/article/7/1/c) revoked (19.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/18/3/b), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)
+[^c-9f3d553cfb090dfca43528f1a1e66716]: Textual amendment: [Art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2021/1265/article/7/1/b)[(c)](https://www.legislation.gov.uk/uksi/2021/1265/article/7/1/c) revoked (19.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/18/3/b), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)
 
 [^f00004]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341) as amended by [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910), [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198), [S.I. 2015/467](https://www.legislation.gov.uk/uksi/2015/467), [S.I. 2015/1971](https://www.legislation.gov.uk/uksi/2015/1971), [S.I. 2016/694](https://www.legislation.gov.uk/uksi/2016/694), [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), [S.I. 2018/272](https://www.legislation.gov.uk/uksi/2018/272), [S.I. 2018/312](https://www.legislation.gov.uk/uksi/2018/312), [S.I. 2018/644](https://www.legislation.gov.uk/uksi/2018/644), the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [S.I. 2019/1451](https://www.legislation.gov.uk/uksi/2019/1451), [S.I. 2020/50](https://www.legislation.gov.uk/uksi/2020/50) and the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1); there are other amending instruments but none is relevant. The functions that are to be transferred to the Secretary of State were transferred to the Minister for the Cabinet Office by article 7(c)(i) of [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997).
 
@@ -682,21 +682,21 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: Regulation 29ZA was inserted by [S.I. 2013/3206](https://www.legislation.gov.uk/uksi/2013/3206), regulation 14(1) and amended by [S.I. 2015/450](https://www.legislation.gov.uk/uksi/2015/450), regulation 4, [S.I. 2015/1966](https://www.legislation.gov.uk/uksi/2015/1966), regulation 5, the Scottish Elections (Reduction of Voting Age) Act [2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7), section 5(5) and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2. Regulation 29ZB was inserted by [S.I. 2013/3206](https://www.legislation.gov.uk/uksi/2013/3206), regulation 14(1) and amended by [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2. The functions under regulations 29ZA and 29ZB that are to be transferred to the Secretary of State were transferred to the Minister for the Cabinet Office by article 7(c)(ii) of [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997). Regulation 32ZBB was inserted by [S.I. 2019/1451](https://www.legislation.gov.uk/uksi/2019/1451), regulation 18 and amended by [S.S.I. 2020/113](https://www.legislation.gov.uk/ssi/2020/113), regulation 8. Regulation 32ZBC was inserted by [S.I. 2019/1451](https://www.legislation.gov.uk/uksi/2019/1451), regulation 18 and amended by [S.S.I. 2020/113](https://www.legislation.gov.uk/ssi/2020/113), regulation 9.
 
-[^key-102d7108889689937060af6420c3cd32]: Commencement: Art. 8 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-102d7108889689937060af6420c3cd32]: Commencement: Art. 8 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
-[^key-6013cce321a4948c75ac1416ed894aba]: Commencement: Art. 9 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-6013cce321a4948c75ac1416ed894aba]: Commencement: Art. 9 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00008]: Footnote: The functions that are to be exercisable by the Secretary of State alone include functions which were made exercisable concurrently by the Secretary of State and the Minister for the Cabinet Office by [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), article 3 and [S.I. 2018/780](https://www.legislation.gov.uk/uksi/2018/780), article 3.
 
-[^key-80ac299929d9330a2c45b711dcdde72d]: Commencement: Art. 10 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-80ac299929d9330a2c45b711dcdde72d]: Commencement: Art. 10 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
-[^key-ade213a8b7b62fc1d1a0101318198bd5]: Commencement: Art. 11 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-ade213a8b7b62fc1d1a0101318198bd5]: Commencement: Art. 11 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
-[^key-9b5ed766fa44eadcfa7b7030dd5b57b3]: Commencement: Art. 12 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-9b5ed766fa44eadcfa7b7030dd5b57b3]: Commencement: Art. 12 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
-[^key-1f3986afbdf231451615392749950dfb]: Commencement: Art. 13 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-1f3986afbdf231451615392749950dfb]: Commencement: Art. 13 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
-[^key-de02b0f0954b7eeefd15e0ee55de2390]: Commencement: Sch. 1 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-de02b0f0954b7eeefd15e0ee55de2390]: Commencement: Sch. 1 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00009]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
@@ -730,25 +730,25 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00024]: Footnote: [S.I. 2020/926](https://www.legislation.gov.uk/uksi/2020/926).
 
-[^key-d1c4ad0d1f6668fb4f9efefe364e913c]: Commencement: Sch. 2 para. 1 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-d1c4ad0d1f6668fb4f9efefe364e913c]: Commencement: Sch. 2 para. 1 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00025]: Footnote: Section 86(6A) was inserted by [S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681), Schedule 3 and amended by [S.I. 1976/1775](https://www.legislation.gov.uk/uksi/1976/1775), Schedule 3, [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), Schedule, [S.I. 2001/2568](https://www.legislation.gov.uk/uksi/2001/2568), Schedule, [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Schedule 2, [S.I. 2006/1926](https://www.legislation.gov.uk/uksi/2006/1926), Schedule and [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
-[^key-97fa88f67ea6855023f3700c16e8653c]: Commencement: Sch. 2 para. 2 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-97fa88f67ea6855023f3700c16e8653c]: Commencement: Sch. 2 para. 2 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00026]: Footnote: Schedule 2 was substituted by [S.I. 2011/2986](https://www.legislation.gov.uk/uksi/2011/2986), Schedule. Other amendments have been made to Schedule 2 which are not relevant to this Order.
 
 [^f00027]: Footnote: The entry for the Ministry of Housing, Communities and Local Government was inserted by [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
-[^key-8da7ccab8ab2a2e473120a901682061f]: Commencement: Sch. 2 para. 3 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-8da7ccab8ab2a2e473120a901682061f]: Commencement: Sch. 2 para. 3 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00028]: Footnote: Section 199ZA was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Schedule and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
-[^key-3c4c9832d7c2c078d81dbcb28bcf232d]: Commencement: Sch. 2 para. 4 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-3c4c9832d7c2c078d81dbcb28bcf232d]: Commencement: Sch. 2 para. 4 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00029]: Footnote: Section 27(2ZA) was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Schedule and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2. Section 27 is applied with modifications by [S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599), article 3 and Schedule 1.
 
-[^key-1275bb329fac638b2114341f0eac7010]: Commencement: Sch. 2 para. 5 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-1275bb329fac638b2114341f0eac7010]: Commencement: Sch. 2 para. 5 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00030]: Footnote: Section 3(2ZA) was inserted by the Parliamentary Constituencies Act [2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), section 1(4).
 
@@ -758,7 +758,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00033]: Footnote: Paragraph 2 of Schedule 1 was amended by the Parliamentary Constituencies Act 2020 (“**the 2020 Act**”), Schedule. Paragraph 4A was inserted by the Boundary Commissions Act [1992 (c. 55)](https://www.legislation.gov.uk/ukpga/1992/55), section 1 and amended by the 2020 Act, Schedule. Paragraphs 6(1) and (2) and 7 were amended by the 2020 Act, Schedule. Other amendments have been made to Schedule 1 which are not relevant to this Order.
 
-[^key-2589866c5b87fb3c9c200b6a93aeb1d1]: Commencement: Sch. 2 para. 6 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-2589866c5b87fb3c9c200b6a93aeb1d1]: Commencement: Sch. 2 para. 6 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00034]: Footnote: Section 228 was amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), Schedule, [S.I. 2006/1926](https://www.legislation.gov.uk/uksi/2006/1926), Schedule and [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
@@ -770,33 +770,33 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00038]: Footnote: Paragraph 8(2) was amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), Schedule, [S.I. 2001/2568](https://www.legislation.gov.uk/uksi/2001/2568), Schedule, [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Schedule 2, [S.I. 2006/1926](https://www.legislation.gov.uk/uksi/2006/1926), Schedule and [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
-[^key-629ecfb8774e349399b1299f33ffb3bf]: Commencement: Sch. 2 para. 7 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-629ecfb8774e349399b1299f33ffb3bf]: Commencement: Sch. 2 para. 7 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00039]: Footnote: Paragraph 7(2) was amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), Schedule, [S.I. 2001/2568](https://www.legislation.gov.uk/uksi/2001/2568), Schedule, [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Schedule 2, [S.I. 2006/1926](https://www.legislation.gov.uk/uksi/2006/1926), Schedule and [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
-[^key-f27955a356f33789763cdaccfb86e9cc]: Commencement: Sch. 2 para. 8 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-f27955a356f33789763cdaccfb86e9cc]: Commencement: Sch. 2 para. 8 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00040]: Footnote: Paragraph 7(2) was amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), Schedule, [S.I. 2001/2568](https://www.legislation.gov.uk/uksi/2001/2568), Schedule, [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Schedule 2, [S.I. 2006/1926](https://www.legislation.gov.uk/uksi/2006/1926), Schedule and [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
-[^key-d763d6b42b3fe2ea34169898c6cdf1f1]: Commencement: Sch. 2 para. 9 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-d763d6b42b3fe2ea34169898c6cdf1f1]: Commencement: Sch. 2 para. 9 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00041]: Footnote: Section 52ZQ was inserted by Schedule 5 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and amended by [S.I. 2013/2597](https://www.legislation.gov.uk/uksi/2013/2597), Schedule, [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
 [^f00042]: Footnote: Section 113 was amended by the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), Schedule 7, the Localism Act 2011, Schedule 6, [S.I. 2013/2597](https://www.legislation.gov.uk/uksi/2013/2597), Schedule, [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2. Other amendments have been made to section 113 which are not relevant to this Order.
 
-[^key-681cf8a245b7fc71b8dff7252ef60233]: Commencement: Sch. 2 para. 10 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-681cf8a245b7fc71b8dff7252ef60233]: Commencement: Sch. 2 para. 10 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00043]: Footnote: Section 23(10) was amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), Schedule, [S.I. 2001/2568](https://www.legislation.gov.uk/uksi/2001/2568), Schedule, [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Schedule 2, [S.I. 2006/1926](https://www.legislation.gov.uk/uksi/2006/1926), Schedule and [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
-[^key-36bd6ee3993e1b3bd0fac2d920dee7aa]: Commencement: Sch. 2 para. 11 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-36bd6ee3993e1b3bd0fac2d920dee7aa]: Commencement: Sch. 2 para. 11 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00044]: Footnote: Section 17A was inserted by the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2), section 14 and amended by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Schedule, [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2. Other amendments have been made to section 17A which are not relevant to this Order.
 
-[^key-da3dcb92754755d9743efb844936ee43]: Commencement: Sch. 2 para. 12 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-da3dcb92754755d9743efb844936ee43]: Commencement: Sch. 2 para. 12 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00045]: Footnote: Section 16A was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Schedule and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2, and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
-[^key-8fc8009a071ed5aa0f7d865d8e012024]: Commencement: Sch. 2 para. 13 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-8fc8009a071ed5aa0f7d865d8e012024]: Commencement: Sch. 2 para. 13 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00046]: Footnote: Section 9HE was inserted by the Localism Act 2011, Schedule 2 and amended by [S.I. 2013/2597](https://www.legislation.gov.uk/uksi/2013/2597), Schedule, [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
@@ -806,11 +806,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00049]: Footnote: Section 105(2A) was inserted by [S.I. 2013/2597](https://www.legislation.gov.uk/uksi/2013/2597), Schedule and amended by S.I 2015/1376, Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
-[^key-6612b253ad6bdc0e5df1e0ff51c1e761]: Commencement: Sch. 2 para. 14 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-6612b253ad6bdc0e5df1e0ff51c1e761]: Commencement: Sch. 2 para. 14 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00050]: Footnote: Paragraph 9A was inserted by [S.I. 2006/1926](https://www.legislation.gov.uk/uksi/2006/1926), Schedule and substituted by [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule
 
-[^key-3730bc17226a75415e0227695d45e0a1]: Commencement: Sch. 2 para. 15 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-3730bc17226a75415e0227695d45e0a1]: Commencement: Sch. 2 para. 15 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00051]: Footnote: Section 2(2)(b) was amended by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), Schedule 2, substituted by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Schedule 2 and amended by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Schedule, [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
@@ -818,19 +818,19 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00053]: Footnote: Paragraph 2(1)(c) was amended by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), Schedule 2, [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), Schedule 2, [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Schedule, [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
-[^key-30044e0221e15cfd731ab4623bae6a5d]: Commencement: Sch. 2 para. 16 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-30044e0221e15cfd731ab4623bae6a5d]: Commencement: Sch. 2 para. 16 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00054]: Footnote: Paragraph 8B was inserted by [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
-[^key-2fa9909c894bfa0ae5f8cc6a0d2422da]: Commencement: Sch. 2 para. 17 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-2fa9909c894bfa0ae5f8cc6a0d2422da]: Commencement: Sch. 2 para. 17 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00055]: Footnote: Section 74A was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Schedule and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
-[^key-4d9150806b0dc8e6e9a2103859ca9bf8]: Commencement: Sch. 2 para. 18 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-4d9150806b0dc8e6e9a2103859ca9bf8]: Commencement: Sch. 2 para. 18 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00056]: Footnote: The entry for the Ministry of Housing, Communities and Local Government was inserted by [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
-[^key-4f7a1848c3a235094806fb505b72f60e]: Commencement: Sch. 2 para. 19 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-4f7a1848c3a235094806fb505b72f60e]: Commencement: Sch. 2 para. 19 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00057]: Footnote: Section 12(6) was amended by [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
@@ -840,11 +840,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00060]: Footnote: Paragraph 37(2) was amended by [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
-[^key-20a41f7a5885ff34479731e30497b244]: Commencement: Sch. 2 para. 20 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-20a41f7a5885ff34479731e30497b244]: Commencement: Sch. 2 para. 20 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00061]: Footnote: Section 38A was inserted by [S.I. 2010/1837](https://www.legislation.gov.uk/uksi/2010/1837), Schedule and substituted by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
-[^key-50cbd9b5fd78f29ee1707920a07b35ca]: Commencement: Sch. 2 para. 21 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-50cbd9b5fd78f29ee1707920a07b35ca]: Commencement: Sch. 2 para. 21 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00062]: Footnote: Section 114(1A) was inserted by the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), Schedule 5 and amended by [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
@@ -852,7 +852,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00064]: Footnote: Schedule 5B was inserted by the Cities and Local Government Devolution Act 2016, Schedule 1 and amended by [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
-[^key-dbebc973d56736d2484653b67ccb52e0]: Commencement: Sch. 2 para. 22 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-dbebc973d56736d2484653b67ccb52e0]: Commencement: Sch. 2 para. 22 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00065]: Footnote: Section 50(4) was amended by [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526), Schedule and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
@@ -874,15 +874,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00074]: Footnote: Section 154(1) and (5) were amended by [S.I. 2014/268](https://www.legislation.gov.uk/uksi/2014/268), article 4(3), [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2, and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
-[^key-1a009c78c08fe848420b47cafc98a91f]: Commencement: Sch. 2 para. 23 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-1a009c78c08fe848420b47cafc98a91f]: Commencement: Sch. 2 para. 23 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00075]: Footnote: Section 25(1) was amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
-[^key-8a13382309e259b1d6cc4744860532eb]: Commencement: Sch. 2 para. 24 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-8a13382309e259b1d6cc4744860532eb]: Commencement: Sch. 2 para. 24 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00076]: Footnote: Section 33(13) was amended by [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
-[^key-9848e52b36224b1b30adc5a40ec16b48]: Commencement: Sch. 2 para. 25 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-9848e52b36224b1b30adc5a40ec16b48]: Commencement: Sch. 2 para. 25 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00077]: Footnote: Section 64(5) was amended by [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
@@ -890,7 +890,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00079]: Footnote: Paragraph 30 was amended by [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
-[^key-9f62114e87bf9d9ee228b61e8ee381c6]: Commencement: Sch. 2 para. 26 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-9f62114e87bf9d9ee228b61e8ee381c6]: Commencement: Sch. 2 para. 26 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00080]: Footnote: Paragraph 8 was amended by [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
@@ -900,9 +900,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00083]: Footnote: Paragraph 9 was amended by [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378), Schedule.
 
-[^key-6750887a875d037fdbd58dfec758e0d2]: Commencement: Sch. 2 para. 27 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-6750887a875d037fdbd58dfec758e0d2]: Commencement: Sch. 2 para. 27 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
-[^key-d2d8d01b90170ec9131967751dceaa4d]: Commencement: Sch. 2 para. 28 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-d2d8d01b90170ec9131967751dceaa4d]: Commencement: Sch. 2 para. 28 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00084]: Footnote: The definition of “digital service” was inserted by [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198), regulation 3 and amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2 and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
@@ -928,7 +928,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00095]: Footnote: Regulation 32ZC was inserted by [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198), regulation 22. Paragraph (1) was amended by [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2. Paragraph (1A) was inserted by [S.I. 2018/644](https://www.legislation.gov.uk/uksi/2018/644), Schedule 2.
 
-[^key-2e6ea76fe5434452e6427918c0a0430a]: Commencement: Sch. 2 para. 29 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-2e6ea76fe5434452e6427918c0a0430a]: Commencement: Sch. 2 para. 29 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00096]: Footnote: The definition of “digital service” was inserted by [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198), regulation 3 and amended by [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), Schedule 2, [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2, [S.I. 2019/1451](https://www.legislation.gov.uk/uksi/2019/1451), regulation 14 and [S.S.I. 2020/113](https://www.legislation.gov.uk/ssi/2020/113), regulation 3.
 
@@ -954,7 +954,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00107]: Footnote: Regulation 32ZC was inserted by [S.I. 2013/3206](https://www.legislation.gov.uk/uksi/2013/3206), regulation 22. Paragraph (1) was amended by [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2. Paragraph (1A) was inserted by [S.I. 2017/602](https://www.legislation.gov.uk/uksi/2017/602), regulation 8.
 
-[^key-a10fbfccdace5e8347b78b4353bd09e2]: Commencement: Sch. 2 para. 30 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-a10fbfccdace5e8347b78b4353bd09e2]: Commencement: Sch. 2 para. 30 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00108]: Footnote: The definition of “the Minister” was inserted in article 2(1) by [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526), Schedule and amended by [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
@@ -982,8 +982,8 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00120]: Footnote: Paragraph 1(3) was amended by [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526), Schedule.
 
-[^key-5d71c2db789501e2f4641203bfc1d72c]: Commencement: Sch. 2 para. 31 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-5d71c2db789501e2f4641203bfc1d72c]: Commencement: Sch. 2 para. 31 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
 
 [^f00121]: Footnote: Regulation 3 was amended by [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526), Schedule, and [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), Schedule 2.
 
-[^key-6a894bdedbd8ace21ac6f0b2d35672ca]: Commencement: Sch. 2 para. 32 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)
+[^c-6a894bdedbd8ace21ac6f0b2d35672ca]: Commencement: Sch. 2 para. 32 in force at 8.12.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2)

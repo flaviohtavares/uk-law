@@ -42,10 +42,10 @@ An Act to extend and amend the provisions of the Hill Farming Act, 1946, relatin
 - (a)[^c601121] in subsection (3) of section one of the principal Act, for the definitions of hill farming land and hill farming purposes there shall be substituted respectively the definitions of livestock rearing purposes set out in the next following subsection; and
 - (b) for references in the principal Act (elsewhere than in the said subsection (3)) to hill farming land and hill farming purposes there shall be substituted respectively references to livestock rearing land and livestock rearing purposes, and for references in that Act, in paragraph ([^c601122]*d*) of subsection (1) of section nine of the [^c601123]Agricultural Holdings Act, 1948, and in paragraph ([^c601124]*d*) of subsection (1) of section eight of the [^c601125]Agricultural Holdings (Scotland) Act, 1949, to hill farming land improvement schemes there shall be substituted references to livestock rearing land improvement schemes.
 
-(3)[^c601126][^key-716ab25a19544711ffb7b8af7725ade0] In this section— *(affected by repeal, see note)*[^key-716ab25a19544711ffb7b8af7725ade0]
+(3)[^c601126][^c-716ab25a19544711ffb7b8af7725ade0] In this section— *(affected by repeal, see note)*[^c-716ab25a19544711ffb7b8af7725ade0]
 
-- (a) the expression “livestock rearing” means land situated in an area consisting of mountains, hills or heath, being land which is, or by improvement could be made, suitable for use for the breeeding, rearing and maintainance of sheep or cattle but not for the carrying on, to any material extent, of dairy farming, the production, to any material extent, of fat sheep or fat cattle or the production of crops in quantity materially greater than that necessary to feed the number of sheep or cattle capable of being maintained on the land; *(affected by repeal, see note)*[^key-716ab25a19544711ffb7b8af7725ade0]
-- (b) the expression “livestock rearing purposes” means the breeding, rearing and maintainance of sheep or cattle, and includes other activities carried on in connection therewith. *(affected by repeal, see note)*[^key-716ab25a19544711ffb7b8af7725ade0]
+- (a) the expression “livestock rearing” means land situated in an area consisting of mountains, hills or heath, being land which is, or by improvement could be made, suitable for use for the breeeding, rearing and maintainance of sheep or cattle but not for the carrying on, to any material extent, of dairy farming, the production, to any material extent, of fat sheep or fat cattle or the production of crops in quantity materially greater than that necessary to feed the number of sheep or cattle capable of being maintained on the land; *(affected by repeal, see note)*[^c-716ab25a19544711ffb7b8af7725ade0]
+- (b) the expression “livestock rearing purposes” means the breeding, rearing and maintainance of sheep or cattle, and includes other activities carried on in connection therewith. *(affected by repeal, see note)*[^c-716ab25a19544711ffb7b8af7725ade0]
 
 ## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c601127]
 
@@ -83,14 +83,14 @@ The First Schedule to the principal Act (in which are specified the improvements
 
 (2) Where regulations made under subsection (1) of the said section eighteen contain provisions enabling a person upon whom a requisition for the slaughter or castration of a ram or lamb is served under regulations so made to apply for a referee’s inspection of the ram or lamb, no such requisition so served shall take effect until either the time within which an application for such an inspection may be made has expired or, if such an application is duly made, until the applicant has been notified of a decision to confirm the requisition.
 
-## 8. Exercise of certain powers of Ministers to be subject to Treasury approval. (affected by repeal, see note)[^key-245d9fa39d0e57d3695ea380ca6e98f4][^key-245d9fa39d0e57d3695ea380ca6e98f4]
+## 8. Exercise of certain powers of Ministers to be subject to Treasury approval. (affected by repeal, see note)[^c-245d9fa39d0e57d3695ea380ca6e98f4][^c-245d9fa39d0e57d3695ea380ca6e98f4]
 
-The powers conferred— *(affected by repeal, see note)*[^key-245d9fa39d0e57d3695ea380ca6e98f4]
+The powers conferred— *(affected by repeal, see note)*[^c-245d9fa39d0e57d3695ea380ca6e98f4]
 
-- (a) by subsection (4) of section one of the principal Act on the Ministers to make orders modifying the kinds of operations that are to be treated as improvements for the purposes of that Act; and *(affected by repeal, see note)*[^key-245d9fa39d0e57d3695ea380ca6e98f4]
+- (a) by subsection (4) of section one of the principal Act on the Ministers to make orders modifying the kinds of operations that are to be treated as improvements for the purposes of that Act; and *(affected by repeal, see note)*[^c-245d9fa39d0e57d3695ea380ca6e98f4]
 - (b)[^c601132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-shall be exercised subject to the approval of the Treasury. *(affected by repeal, see note)*[^key-245d9fa39d0e57d3695ea380ca6e98f4]
+shall be exercised subject to the approval of the Treasury. *(affected by repeal, see note)*[^c-245d9fa39d0e57d3695ea380ca6e98f4]
 
 ## 9, 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c601133]
 
@@ -131,7 +131,7 @@ shall be exercised subject to the approval of the Treasury. *(affected by repeal
 
 [^c601126]: Modification: The text of s. 1(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-716ab25a19544711ffb7b8af7725ade0]: Textual amendment: S. 1(3) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-716ab25a19544711ffb7b8af7725ade0]: Textual amendment: S. 1(3) repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c601127]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Geo6/14-15/18/section/2) repealed by [Agriculture Act 1970 (c. 40)](https://www.legislation.gov.uk/ukpga/1970/40), [ss. 35(1)](https://www.legislation.gov.uk/ukpga/1970/40/section/35/1), [113(3)](https://www.legislation.gov.uk/ukpga/1970/40/section/113/3), [Sch. Pt. 5](https://www.legislation.gov.uk/ukpga/1970/40/schedule/part/5) II
 
@@ -143,7 +143,7 @@ shall be exercised subject to the approval of the Treasury. *(affected by repeal
 
 [^c601131]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/Geo6/14-15/18/section/6) repealed by [Agriculture (Miscellaneous Provisions) Act 1963 (c. 11)](https://www.legislation.gov.uk/ukpga/1963/11), [Sch. Pt. II](https://www.legislation.gov.uk/ukpga/1963/11/schedule/part/II)
 
-[^key-245d9fa39d0e57d3695ea380ca6e98f4]: Textual amendment: S. 8 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-245d9fa39d0e57d3695ea380ca6e98f4]: Textual amendment: S. 8 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c601132]: Textual amendment: S. 8(b) repealed by [Statute Law (Repeals) Act 1986 (c.12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/II)
 

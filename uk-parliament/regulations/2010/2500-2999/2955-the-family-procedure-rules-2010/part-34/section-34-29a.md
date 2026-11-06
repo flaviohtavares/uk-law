@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34.29A. Application under Article 30 of the Maintenance Regulation or under Article 23 of the 2007 Hague Convention for a declaration of enforceability[^key-9ff02230c853f937e7d7f7a08fe14ddd]
+## 34.29A. Application under Article 30 of the Maintenance Regulation or under Article 23 of the 2007 Hague Convention for a declaration of enforceability[^c-9ff02230c853f937e7d7f7a08fe14ddd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ff02230c853f937e7d7f7a08fe14ddd]: Textual amendment: Rule 34.29A omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [126](https://www.legislation.gov.uk/uksi/2013/3204/rule/126) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-9ff02230c853f937e7d7f7a08fe14ddd]: Textual amendment: Rule 34.29A omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [126](https://www.legislation.gov.uk/uksi/2013/3204/rule/126) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

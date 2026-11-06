@@ -460,7 +460,7 @@ Department of Trade and Industry
 - paragraph 18(1), (1A) and (4) of Schedule 2;
 - paragraph 19(2), (3) and (4) of Schedule 2;
 - paragraph 19A(1) of Schedule 2;
-- [^key-b670c4b59d9dd9b91a20a3659a11e14f]...
+- [^c-b670c4b59d9dd9b91a20a3659a11e14f]...
 - paragraph 21(1) of Schedule 2;
 - paragraph 1(1) and (2) of Schedule 2A.
 
@@ -488,4 +488,4 @@ These Regulations divide up Part 2 of the 1988 Act into four chapters and make a
 
 [^c15401151]: Marginal citation: Section 191A and 192A of the Copyright, Designs and Patents Act 1988 were inserted by regulation 21(1) of the Copyright and Related Rights Regulations 1996.
 
-[^key-b670c4b59d9dd9b91a20a3659a11e14f]: Textual amendment: Words in Sch. para. 9(2) revoked (1.6.2014 at 00.01) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8)
+[^c-b670c4b59d9dd9b91a20a3659a11e14f]: Textual amendment: Words in Sch. para. 9(2) revoked (1.6.2014 at 00.01) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8)

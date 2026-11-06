@@ -33,11 +33,11 @@ An Act to consolidate certain enactments relating to the prosecution and punishm
 
 \[15th November 1988\]
 
-[^c18157111][^c18157121][^c18157131][^c18157141][^c18157151][^c18157161]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-bc6923bcc8ae3a2a10a153a0c21e6a39][^key-8ef6f8f9b35f15c507003b3074a1138a][^key-e5ad575b3defbf5589166bb062ecf2b3][^key-7eb779465e50f4dd383bf95fa08206ee]
+[^c18157111][^c18157121][^c18157131][^c18157141][^c18157151][^c18157161]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-bc6923bcc8ae3a2a10a153a0c21e6a39][^c-8ef6f8f9b35f15c507003b3074a1138a][^c-e5ad575b3defbf5589166bb062ecf2b3][^c-7eb779465e50f4dd383bf95fa08206ee]
 
 ## Contents
 
-### Part I — Trial[^key-8a66af06c8a695a98e608283db34cf39]
+### Part I — Trial[^c-8a66af06c8a695a98e608283db34cf39]
 
 #### Introductory
 
@@ -147,7 +147,7 @@ An Act to consolidate certain enactments relating to the prosecution and punishm
 - [Section 49 — Offender escaping consequences of endorseable offence by deception.](part-ii/section-49.md)
 - [Section 50 — Powers of district court in Scotland.](part-ii/section-50.md)
 
-### Part III — Fixed Penalties[^c18163571][^key-9c4f3a9d3439e75b18e9aee7055ee55f][^c18163581]
+### Part III — Fixed Penalties[^c18163571][^c-9c4f3a9d3439e75b18e9aee7055ee55f][^c18163581]
 
 *Extent: E+W+S*
 
@@ -225,7 +225,7 @@ An Act to consolidate certain enactments relating to the prosecution and punishm
 - [Section 89 — Interpretation.](part-iii/section-89.md)
 - [Section 90 — Index to Part III.](part-iii/section-90.md)
 
-### Part 3A — Financial penalty deposits[^key-7e4701d4c4581e712655451dc56d1312]
+### Part 3A — Financial penalty deposits[^c-7e4701d4c4581e712655451dc56d1312]
 
 - [Section 90A — Power to impose financial penalty deposit requirement](part-3a/section-90a.md)
 - [Section 90B — Financial penalty deposit requirement](part-3a/section-90b.md)
@@ -234,7 +234,7 @@ An Act to consolidate certain enactments relating to the prosecution and punishm
 - [Section 90E — Orders about financial penalty deposits](part-3a/section-90e.md)
 - [Section 90F — Financial penalty deposits: interpretation](part-3a/section-90f.md)
 
-### PART 3B — Courses offered as alternative to prosecution[^M_C_4afdb12a-aea0-4bac-aad3-53df22159fb1][^key-3c7eae2abd1034c00bd690149804cb22]
+### PART 3B — Courses offered as alternative to prosecution[^M_C_4afdb12a-aea0-4bac-aad3-53df22159fb1][^c-3c7eae2abd1034c00bd690149804cb22]
 
 - [Section 90G — Power to charge fees: England and Wales](part-3b/section-90g.md)
 - [Section 90H — Power to prevent courses being offered for repeat offences: England and Wales](part-3b/section-90h.md)
@@ -285,28 +285,28 @@ SCHEDULES
 
 [^c18157161]: Commencement: Act partly in force at 15.5.89; see s. 99(2).
 
-[^key-bc6923bcc8ae3a2a10a153a0c21e6a39]: Modification: Act applied (26.8.2005) by [River Tyne (Tunnels) Order 2005 (S.I. 2005/2222)](https://www.legislation.gov.uk/uksi/2005/2222), [art. 41(16)](https://www.legislation.gov.uk/uksi/2005/2222/article/41/16) (with [arts. 45(1)](https://www.legislation.gov.uk/uksi/2005/2222/article/45/1), [48](https://www.legislation.gov.uk/uksi/2005/2222/article/48), [Sch. 10 paras. 21](https://www.legislation.gov.uk/uksi/2005/2222/schedule/10/paragraph/21), [29](https://www.legislation.gov.uk/uksi/2005/2222/schedule/10/paragraph/29))
+[^c-bc6923bcc8ae3a2a10a153a0c21e6a39]: Modification: Act applied (26.8.2005) by [River Tyne (Tunnels) Order 2005 (S.I. 2005/2222)](https://www.legislation.gov.uk/uksi/2005/2222), [art. 41(16)](https://www.legislation.gov.uk/uksi/2005/2222/article/41/16) (with [arts. 45(1)](https://www.legislation.gov.uk/uksi/2005/2222/article/45/1), [48](https://www.legislation.gov.uk/uksi/2005/2222/article/48), [Sch. 10 paras. 21](https://www.legislation.gov.uk/uksi/2005/2222/schedule/10/paragraph/21), [29](https://www.legislation.gov.uk/uksi/2005/2222/schedule/10/paragraph/29))
 
-[^key-8ef6f8f9b35f15c507003b3074a1138a]: Modification: Act modified (16.8.2006) by [Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2167/article/1/1), [27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)
+[^c-8ef6f8f9b35f15c507003b3074a1138a]: Modification: Act modified (16.8.2006) by [Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2167/article/1/1), [27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)
 
-[^key-e5ad575b3defbf5589166bb062ecf2b3]: Modification: Act: transfer of functions (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/2/1)
+[^c-e5ad575b3defbf5589166bb062ecf2b3]: Modification: Act: transfer of functions (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/2/1)
 
-[^key-7eb779465e50f4dd383bf95fa08206ee]: Modification: Act applied (1.2.2011) by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [art. 40(17)](https://www.legislation.gov.uk/uksi/2011/41/article/40/17) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68), [85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85))
+[^c-7eb779465e50f4dd383bf95fa08206ee]: Modification: Act applied (1.2.2011) by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [art. 40(17)](https://www.legislation.gov.uk/uksi/2011/41/article/40/17) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68), [85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85))
 
-[^key-8a66af06c8a695a98e608283db34cf39]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1988/53/part/1) applied (E.W.S.) (30.5.2024) by [The Rixton and Warburton Bridge Order 2024 (S.I. 2024/630)](https://www.legislation.gov.uk/uksi/2024/630), [arts. 1](https://www.legislation.gov.uk/uksi/2024/630/article/1), [3(16)](https://www.legislation.gov.uk/uksi/2024/630/article/3/16)
+[^c-8a66af06c8a695a98e608283db34cf39]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1988/53/part/1) applied (E.W.S.) (30.5.2024) by [The Rixton and Warburton Bridge Order 2024 (S.I. 2024/630)](https://www.legislation.gov.uk/uksi/2024/630), [arts. 1](https://www.legislation.gov.uk/uksi/2024/630/article/1), [3(16)](https://www.legislation.gov.uk/uksi/2024/630/article/3/16)
 
 [^c18163571]: Modification: Pt. III (ss. 51–90) amended by (E.W.) [S.I. 1990/335](https://www.legislation.gov.uk/uksi/1990/335), [art. 2(1)](https://www.legislation.gov.uk/uksi/1990/335/article/2/1) and (S.) [S.I. 1990/466](https://www.legislation.gov.uk/uksi/1990/466), [art. 2(1)](https://www.legislation.gov.uk/uksi/1990/466/article/2/1)
 
     Pt. III (ss. 51-90) amended (1.8.1999) by [S.I. 1999/1851](https://www.legislation.gov.uk/uksi/1999/1851), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1851/article/2/1)
 
-[^key-9c4f3a9d3439e75b18e9aee7055ee55f]: Modification: [Pt. III](https://www.legislation.gov.uk/ukpga/1988/53/part/III) modified (16.8.2013) by [The Fixed Penalty Offences Order 2013 (S.I. 2013/1565)](https://www.legislation.gov.uk/uksi/2013/1565), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1565/article/1), [2](https://www.legislation.gov.uk/uksi/2013/1565/article/2)
+[^c-9c4f3a9d3439e75b18e9aee7055ee55f]: Modification: [Pt. III](https://www.legislation.gov.uk/ukpga/1988/53/part/III) modified (16.8.2013) by [The Fixed Penalty Offences Order 2013 (S.I. 2013/1565)](https://www.legislation.gov.uk/uksi/2013/1565), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1565/article/1), [2](https://www.legislation.gov.uk/uksi/2013/1565/article/2)
 
 [^c18163581]: Modification: Definition in Pt. III (ss. 51-90) applied (E.W.) (1.10.1992) by [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [ss. 18(7)(b)](https://www.legislation.gov.uk/ukpga/1991/53/section/18/7/b), [101(1)](https://www.legislation.gov.uk/ukpga/1991/53/section/101/1) (with [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/6)); [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch.2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2)
 
 [^c18164781]: Textual amendment: Ss. 75-77 substituted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s.34](https://www.legislation.gov.uk/ukpga/1991/40/section/34); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2),Sch.
 
-[^key-7e4701d4c4581e712655451dc56d1312]: Textual amendment: Pt. 3A (ss. 90A-90F) inserted (5.1.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/11/1), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10) (with [s. 61(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/3)); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
+[^c-7e4701d4c4581e712655451dc56d1312]: Textual amendment: Pt. 3A (ss. 90A-90F) inserted (5.1.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/11/1), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10) (with [s. 61(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/3)); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/b)
 
 [^M_C_4afdb12a-aea0-4bac-aad3-53df22159fb1]: Modification: [Pt. 3B](https://www.legislation.gov.uk/ukpga/1988/53/part/3B): power to amend conferred (26.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 89(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/89/3), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/f)
 
-[^key-3c7eae2abd1034c00bd690149804cb22]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/1988/53/part/3B) inserted (26.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 89(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/89/1), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/f)
+[^c-3c7eae2abd1034c00bd690149804cb22]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/1988/53/part/3B) inserted (26.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 89(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/89/1), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/f)

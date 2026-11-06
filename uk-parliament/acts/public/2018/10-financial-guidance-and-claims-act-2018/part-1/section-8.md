@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Guidance and directions from the Secretary of State[^key-4f5a1a9c21abd831d1e97004fcd13ec7]
+## 8. Guidance and directions from the Secretary of State[^c-4f5a1a9c21abd831d1e97004fcd13ec7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f5a1a9c21abd831d1e97004fcd13ec7]: Commencement: S. 8 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/f)
+[^c-4f5a1a9c21abd831d1e97004fcd13ec7]: Commencement: S. 8 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/f)

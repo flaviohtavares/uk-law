@@ -31,7 +31,7 @@ summary: ''
 
 INTERNATIONAL IMMUNITIES AND PRIVILEGES
 
-The European Police College (Immunities and Privileges) Order 2004 (revoked)[^key-4c4c3c2974267a2fff190af99a39adce]
+The European Police College (Immunities and Privileges) Order 2004 (revoked)[^c-4c4c3c2974267a2fff190af99a39adce]
 
 Made
 
@@ -45,54 +45,54 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-4c4c3c2974267a2fff190af99a39adce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c4c3c2974267a2fff190af99a39adce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — GENERAL[^key-4c4c3c2974267a2fff190af99a39adce]
+## PART I — GENERAL[^c-4c4c3c2974267a2fff190af99a39adce]
 
-**1.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — CEPOL[^key-4c4c3c2974267a2fff190af99a39adce]
+## PART II — CEPOL[^c-4c4c3c2974267a2fff190af99a39adce]
 
-**3.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — MEMBERS OF STAFF[^key-4c4c3c2974267a2fff190af99a39adce]
+## PART III — MEMBERS OF STAFF[^c-4c4c3c2974267a2fff190af99a39adce]
 
-**15.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-4c4c3c2974267a2fff190af99a39adce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c4c3c2974267a2fff190af99a39adce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c4c3c2974267a2fff190af99a39adce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c4c3c2974267a2fff190af99a39adce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c4c3c2974267a2fff190af99a39adce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c4c3c2974267a2fff190af99a39adce]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2004/3334) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/742/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c4c3c2974267a2fff190af99a39adce]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2004/3334) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/742/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

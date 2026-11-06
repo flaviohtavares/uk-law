@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71B. Patient access: other availability of directly bookable appointments[^key-f13d3119af9b5b6b3d1485ee6e935c32]
+## 71B. Patient access: other availability of directly bookable appointments[^c-f13d3119af9b5b6b3d1485ee6e935c32]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A contractor must ensure that all of its directly bookable appointments are made
 
 ## Annotations
 
-[^key-f13d3119af9b5b6b3d1485ee6e935c32]: Textual amendment: Reg. 71B inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2022/935/schedule/1/paragraph/14)
+[^c-f13d3119af9b5b6b3d1485ee6e935c32]: Textual amendment: Reg. 71B inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2022/935/schedule/1/paragraph/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Pensioners[^key-30ff78da32233dfb7a0bb9090ce28cc2]
+## 11. Pensioners[^c-30ff78da32233dfb7a0bb9090ce28cc2]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30ff78da32233dfb7a0bb9090ce28cc2]: Commencement: Reg. 11 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-30ff78da32233dfb7a0bb9090ce28cc2]: Commencement: Reg. 11 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
 [^f00078]: Footnote: Schedule 1A was inserted by section 9 of, and Schedule 4 to, the [Local Government Finance Act 2012 (c. )](https://www.legislation.gov.uk/ukpga/2012/17).

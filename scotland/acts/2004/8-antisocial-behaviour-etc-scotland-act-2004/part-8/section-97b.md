@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97B. Power to obtain information: service of requirement[^key-b6acba142f84442fb82cfa74624fb401]
+## 97B. Power to obtain information: service of requirement[^c-b6acba142f84442fb82cfa74624fb401]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6acba142f84442fb82cfa74624fb401]: Textual amendment: Ss. 97A, 97B and cross-heading inserted (1.4.2013) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 9](https://www.legislation.gov.uk/asp/2011/14/section/9), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-b6acba142f84442fb82cfa74624fb401]: Textual amendment: Ss. 97A, 97B and cross-heading inserted (1.4.2013) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 9](https://www.legislation.gov.uk/asp/2011/14/section/9), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)

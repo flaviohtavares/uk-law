@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Consequences of review[^key-def58ab1bdf36081ca6e2fe57a448763]
+## 78. Consequences of review[^c-def58ab1bdf36081ca6e2fe57a448763]
 
 *Extent: E+W*
 
@@ -40,14 +40,14 @@ L’s entitlement to a lower tier ill-health pension must cease whether L accept
 
 (6) Where a member declines a paragraph (3)(b) offer, a deferred member’s account must be established under regulation 57 (account established after ill-health award ceases to be payable) from the date on which that member’s ill-health award ceases to be payable in accordance with paragraph (5).
 
-(6A)[^key-dfb9cd88dcd57c16f62ff408dcefd5e5] Where L is entitled to an equivalent amount to the NFPS lower tier ill-health pension or to an equivalent amount to the 1992 Scheme lower tier ill-health pension, paragraphs (3) and (5) apply as if the reference to “lower tier ill-health pension” included an equivalent amount to the NFPS lower tier ill-health pension or an equivalent amount to the 1992 Scheme lower tier ill-health pension, as the case may be.
+(6A)[^c-dfb9cd88dcd57c16f62ff408dcefd5e5] Where L is entitled to an equivalent amount to the NFPS lower tier ill-health pension or to an equivalent amount to the 1992 Scheme lower tier ill-health pension, paragraphs (3) and (5) apply as if the reference to “lower tier ill-health pension” included an equivalent amount to the NFPS lower tier ill-health pension or an equivalent amount to the 1992 Scheme lower tier ill-health pension, as the case may be.
 
 (7) If, on such consideration as is mentioned in regulation 77(2) (review of ill-health award or early payment of retirement pension), the scheme manager has obtained the IQMP’s opinion which states that a deferred member (P) whose deferred pension is being paid early has become capable of undertaking regular employment, P’s entitlement to early payment of the pension must cease with immediate effect and P’s deferred member’s account must be adjusted under regulation 56 (adjustment of account after early payment of deferred pension ceases).
 
 ## Annotations
 
-[^key-def58ab1bdf36081ca6e2fe57a448763]: Commencement: Reg. 78 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-def58ab1bdf36081ca6e2fe57a448763]: Commencement: Reg. 78 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00054]: Footnote: Regulation 162 (role of IQMP in determinations by the scheme manager) requires the scheme manager to obtain the opinion of the IQMP in certain circumstances.
 
-[^key-dfb9cd88dcd57c16f62ff408dcefd5e5]: Textual amendment: [Reg. 78(6A)](https://www.legislation.gov.uk/wsi/2015/622/regulation/78/6A) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 5(e)](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/5/e)
+[^c-dfb9cd88dcd57c16f62ff408dcefd5e5]: Textual amendment: [Reg. 78(6A)](https://www.legislation.gov.uk/wsi/2015/622/regulation/78/6A) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 5(e)](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/5/e)

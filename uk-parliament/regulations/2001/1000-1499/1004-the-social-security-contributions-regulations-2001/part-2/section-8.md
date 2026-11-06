@@ -40,7 +40,7 @@ the earnings period in respect of all those earnings shall be the period determi
 
 (6) Without prejudice to the paragraphs (1) to (5), a director and any company employing him may pay on account of any earnings-related contributions that may become payable by them such amounts as would be payable by way of such contributions if those paragraphs did not apply.
 
-(7)[^key-e30a8ffd3823b61c95d4575beb0d9ccc] If a full gender recognition certificate is issued under the Gender Recognition Act 2004 to a person aged at least 60 but not more than 64—
+(7)[^c-e30a8ffd3823b61c95d4575beb0d9ccc] If a full gender recognition certificate is issued under the Gender Recognition Act 2004 to a person aged at least 60 but not more than 64—
 
 - (a) whose gender before its issue was female; and
 - (b) whose acquired gender is male;
@@ -49,4 +49,4 @@ the periods in the year of issue respectively falling before and after its issue
 
 ## Annotations
 
-[^key-e30a8ffd3823b61c95d4575beb0d9ccc]: Textual amendment: Reg. 8(7) added (6.4.2005) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2005 (S.I. 2005/778)](https://www.legislation.gov.uk/uksi/2005/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/778/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/778/regulation/4)
+[^c-e30a8ffd3823b61c95d4575beb0d9ccc]: Textual amendment: Reg. 8(7) added (6.4.2005) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2005 (S.I. 2005/778)](https://www.legislation.gov.uk/uksi/2005/778), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/778/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/778/regulation/4)

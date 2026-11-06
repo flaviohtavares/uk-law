@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Offences by associations or body of persons[^key-93525555c91c3a8e31e49c93ffa43ee1]
+## 129. Offences by associations or body of persons[^c-93525555c91c3a8e31e49c93ffa43ee1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93525555c91c3a8e31e49c93ffa43ee1]: Commencement: Art. 129 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-93525555c91c3a8e31e49c93ffa43ee1]: Commencement: Art. 129 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

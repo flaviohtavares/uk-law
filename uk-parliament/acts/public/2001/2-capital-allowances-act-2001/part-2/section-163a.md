@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163A. Expenditure in anticipation of approval of abandonment programme[^key-642a27ee5f1a49935d6c54d91d292c21]
+## 163A. Expenditure in anticipation of approval of abandonment programme[^c-642a27ee5f1a49935d6c54d91d292c21]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-642a27ee5f1a49935d6c54d91d292c21]: Textual amendment: [S. 163A](https://www.legislation.gov.uk/ukpga/2001/2/section/163A) inserted (with effect in accordance with s. 16(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 16(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/16/9)
+[^c-642a27ee5f1a49935d6c54d91d292c21]: Textual amendment: [S. 163A](https://www.legislation.gov.uk/ukpga/2001/2/section/163A) inserted (with effect in accordance with s. 16(10) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 16(9)](https://www.legislation.gov.uk/ukpga/2021/26/section/16/9)

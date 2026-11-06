@@ -80,11 +80,11 @@ For subsections (1) to (5) of section 6 of the [^c921766] Church CommissionersMe
 
 (2)[^c921768] Rules made by the Estates and Finance Committee under subsection (1) of section 17 of the said Measure shall continue in force and shall have effect as if they had been made by the General Purposes Committee.
 
-(3)[^key-32867729bd16e0a0ba6a87fdeab589bb][^c921768][^c921767] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-32867729bd16e0a0ba6a87fdeab589bb][^c921768][^c921767] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c921768] References in any Act or Measure other than the said Measure to the Estates and Finance Committee shall be construed as references to the Assets Committee.
 
-## 3. Pension for widow of Church Estates Commissioner dying in service.[^key-4a215fcbbc2dd1f4458bea211007d535]
+## 3. Pension for widow of Church Estates Commissioner dying in service.[^c-4a215fcbbc2dd1f4458bea211007d535]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -102,6 +102,6 @@ This Measure may be cited as the Church Commissioners Measure 1964.
 
 [^c921768]: Modification: The “said measure” means the [Church Commissioners Measure 1947 (No. 2)](https://www.legislation.gov.uk/ukcm/1947/2)
 
-[^key-32867729bd16e0a0ba6a87fdeab589bb]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukcm/1964/8/section/2/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
+[^c-32867729bd16e0a0ba6a87fdeab589bb]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukcm/1964/8/section/2/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
 
-[^key-4a215fcbbc2dd1f4458bea211007d535]: Textual amendment: S. 3 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
+[^c-4a215fcbbc2dd1f4458bea211007d535]: Textual amendment: S. 3 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)

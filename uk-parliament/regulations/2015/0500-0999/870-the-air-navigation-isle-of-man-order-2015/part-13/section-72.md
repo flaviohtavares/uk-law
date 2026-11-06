@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Definitions[^key-ed76d1f0bf13f096400e09fe9c2f9542]
+## 72. Definitions[^c-ed76d1f0bf13f096400e09fe9c2f9542]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ In this Part—
 
 ## Annotations
 
-[^key-ed76d1f0bf13f096400e09fe9c2f9542]: Commencement: [Art. 72](https://www.legislation.gov.uk/uksi/2015/870/article/72) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-ed76d1f0bf13f096400e09fe9c2f9542]: Commencement: [Art. 72](https://www.legislation.gov.uk/uksi/2015/870/article/72) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

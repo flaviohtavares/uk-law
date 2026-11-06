@@ -30,7 +30,7 @@ summary: ''
 
 SHERIFF COURT, SCOTLAND
 
-Act of Sederunt (Child Care and Maintenance Rules) (Amendment) 1998 (revoked)[^key-010838dbc8087f3c75897c3410aa738d]
+Act of Sederunt (Child Care and Maintenance Rules) (Amendment) 1998 (revoked)[^c-010838dbc8087f3c75897c3410aa738d]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into force
 
 1st September 1998
 
-[^key-010838dbc8087f3c75897c3410aa738d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-010838dbc8087f3c75897c3410aa738d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-010838dbc8087f3c75897c3410aa738d]
+## 1. Citation and commencement[^c-010838dbc8087f3c75897c3410aa738d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Child Care and Maintenance Rules 1997[^key-010838dbc8087f3c75897c3410aa738d]
+## 2. Amendment of Child Care and Maintenance Rules 1997[^c-010838dbc8087f3c75897c3410aa738d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-010838dbc8087f3c75897c3410aa738d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-010838dbc8087f3c75897c3410aa738d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-010838dbc8087f3c75897c3410aa738d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-010838dbc8087f3c75897c3410aa738d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-010838dbc8087f3c75897c3410aa738d]: Textual amendment: Act of Sederunt revoked (1.9.1998) by [Act of Sederunt (Child Care and Maintenance Rules) (Amendment No. 2) 1998 (S.I. 1998/2130)](https://www.legislation.gov.uk/uksi/1998/2130), [paras. 1(1)](https://www.legislation.gov.uk/uksi/1998/2130/paragraph/1/1), [3](https://www.legislation.gov.uk/uksi/1998/2130/paragraph/3)
+[^c-010838dbc8087f3c75897c3410aa738d]: Textual amendment: Act of Sederunt revoked (1.9.1998) by [Act of Sederunt (Child Care and Maintenance Rules) (Amendment No. 2) 1998 (S.I. 1998/2130)](https://www.legislation.gov.uk/uksi/1998/2130), [paras. 1(1)](https://www.legislation.gov.uk/uksi/1998/2130/paragraph/1/1), [3](https://www.legislation.gov.uk/uksi/1998/2130/paragraph/3)

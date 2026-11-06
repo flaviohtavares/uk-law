@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Subsequent changes to bidder groups[^key-de43a2b9f54e88b5b3a24099cc1471fb]
+## 7. Subsequent changes to bidder groups[^c-de43a2b9f54e88b5b3a24099cc1471fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de43a2b9f54e88b5b3a24099cc1471fb]: Commencement: Reg. 7 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-de43a2b9f54e88b5b3a24099cc1471fb]: Commencement: Reg. 7 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**84.**[^key-3b6820ec946f625d92002992777f6f32] In section 24C[^f00099] (information)—
+**84.**[^c-3b6820ec946f625d92002992777f6f32] In section 24C[^f00099] (information)—
 
 - (a) in subsection (1) after “area of another local authority” insert “, or in the area of a local authority in Wales”;
 - (b) for subsection (2)[^f00100] substitute—
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3b6820ec946f625d92002992777f6f32]: Commencement: Reg. 84 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-3b6820ec946f625d92002992777f6f32]: Commencement: Reg. 84 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00099]: Footnote: Section 24C was substituted, together with sections 24, 24A and 24B, for section 24, as originally enacted by the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 4(1).
 

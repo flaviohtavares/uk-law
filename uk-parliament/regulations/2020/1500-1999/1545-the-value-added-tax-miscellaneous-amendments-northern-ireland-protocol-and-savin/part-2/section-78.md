@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78.[^key-c0797de39302efc5c4a63845ef165b14]
+## 78.[^c-c0797de39302efc5c4a63845ef165b14]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In regulation 145J (payment on removal of goods from a fiscal warehousing regime
 
 ## Annotations
 
-[^key-c0797de39302efc5c4a63845ef165b14]: Commencement: Reg. 78 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-c0797de39302efc5c4a63845ef165b14]: Commencement: Reg. 78 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395471]: Marginal citation: Schedule 9ZA was inserted by paragraph 2 of Schedule 2 to TPTPA.

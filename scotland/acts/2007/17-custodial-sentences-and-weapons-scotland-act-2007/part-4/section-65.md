@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: S*
 
-(1) The powers conferred by this Act on the Scottish Ministers to make [^key-75122d0a27223edbbb9cd8a361a280aa]... regulations and orders are exercisable by statutory instrument.
+(1) The powers conferred by this Act on the Scottish Ministers to make [^c-75122d0a27223edbbb9cd8a361a280aa]... regulations and orders are exercisable by statutory instrument.
 
 (2) Each of those powers includes power to make—
 
 - (a) different provision for different purposes,
 - (b) supplementary, incidental, consequential, transitory, transitional or saving provision.
 
-(3) Subject to subsection (4), a statutory instrument containing [^key-75122d0a27223edbbb9cd8a361a280aa]... regulations or an order under this Act (other than an order under section 67) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
+(3) Subject to subsection (4), a statutory instrument containing [^c-75122d0a27223edbbb9cd8a361a280aa]... regulations or an order under this Act (other than an order under section 67) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
 
 (4) A statutory instrument containing—
 
@@ -39,4 +39,4 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 ## Annotations
 
-[^key-75122d0a27223edbbb9cd8a361a280aa]: Textual amendment: Word in [s. 65(1)](https://www.legislation.gov.uk/asp/2007/17/section/65/1)[(3)](https://www.legislation.gov.uk/asp/2007/17/section/65/3) repealed (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 47(3)](https://www.legislation.gov.uk/asp/2019/14/section/47/3), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/l)
+[^c-75122d0a27223edbbb9cd8a361a280aa]: Textual amendment: Word in [s. 65(1)](https://www.legislation.gov.uk/asp/2007/17/section/65/1)[(3)](https://www.legislation.gov.uk/asp/2007/17/section/65/3) repealed (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 47(3)](https://www.legislation.gov.uk/asp/2019/14/section/47/3), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/l)

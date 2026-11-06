@@ -16,26 +16,26 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8[^key-9672ddb96a610b476dbeeeee382470c1]
+## SCHEDULE 8[^c-9672ddb96a610b476dbeeeee382470c1]
 
 *Extent: E+W+S+N.I.*
 
 Section 72(3).
 
-### Transfer of functions under Part VI[^key-9672ddb96a610b476dbeeeee382470c1]
+### Transfer of functions under Part VI[^c-9672ddb96a610b476dbeeeee382470c1]
 
 **No longer in force.**
 
-#### The power to transfer[^key-9672ddb96a610b476dbeeeee382470c1]
+#### The power to transfer[^c-9672ddb96a610b476dbeeeee382470c1]
 
-**1.**[^key-9672ddb96a610b476dbeeeee382470c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9672ddb96a610b476dbeeeee382470c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Supplemental[^key-9672ddb96a610b476dbeeeee382470c1]
+#### Supplemental[^c-9672ddb96a610b476dbeeeee382470c1]
 
-**2.**[^key-9672ddb96a610b476dbeeeee382470c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9672ddb96a610b476dbeeeee382470c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9672ddb96a610b476dbeeeee382470c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9672ddb96a610b476dbeeeee382470c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9672ddb96a610b476dbeeeee382470c1]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/8/schedule/8) omitted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 16(14)(l)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/14/l), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9672ddb96a610b476dbeeeee382470c1]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/8/schedule/8) omitted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 16(14)(l)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/14/l), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Status etc[^key-4f191f3e7dcb6b9ba4f01debff55bbd5]
+## 12. Status etc[^c-4f191f3e7dcb6b9ba4f01debff55bbd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ But section 4(4) of the House of Commons (Administration) Act 1978 (which provid
 
 ## Annotations
 
-[^key-4f191f3e7dcb6b9ba4f01debff55bbd5]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2011/4/section/12) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-4f191f3e7dcb6b9ba4f01debff55bbd5]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2011/4/section/12) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)

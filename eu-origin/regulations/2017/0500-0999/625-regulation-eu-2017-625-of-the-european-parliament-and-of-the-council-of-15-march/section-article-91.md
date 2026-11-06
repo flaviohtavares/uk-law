@@ -25,7 +25,7 @@ summary: ''
 2. Official attestations shall:
 
 - (a) be authentic and accurate;
-- (b) be drawn up in English and one of the official languages of the country of destination and may also be in Welsh;[^key-75401510170f0bac63ba33bf4878f3d9] and
+- (b) be drawn up in English and one of the official languages of the country of destination and may also be in Welsh;[^c-75401510170f0bac63ba33bf4878f3d9] and
 - (c) where they relate to a consignment or a lot, allow the verification of the link between the official attestation and that consignment or lot.
 
 3. Competent authorities shall ensure that the staff performing official controls to supervise the issuance of official attestations or, where the official attestations are issued by the competent authorities, the staff involved in the issuance of those official attestations:
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75401510170f0bac63ba33bf4878f3d9]: Textual amendment: [Art. 91(2)(b)](https://www.legislation.gov.uk/eur/2017/625/article/91/2/b) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [17(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/17/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-75401510170f0bac63ba33bf4878f3d9]: Textual amendment: [Art. 91(2)(b)](https://www.legislation.gov.uk/eur/2017/625/article/91/2/b) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [17(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/17/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

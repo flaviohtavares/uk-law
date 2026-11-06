@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Acts of public authorities to be compatible with the UNCRC requirements[^key-2e189abdf32fe8b987ab12204eb04c22]
+## 6. Acts of public authorities to be compatible with the UNCRC requirements[^c-2e189abdf32fe8b987ab12204eb04c22]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e189abdf32fe8b987ab12204eb04c22]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/1/section/6) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-2e189abdf32fe8b987ab12204eb04c22]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/1/section/6) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

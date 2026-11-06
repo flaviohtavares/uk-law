@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 345. Sexual harm prevention order: availability on conviction[^key-4b11d270ce477379eb3d879bbdb4a10c]
+## 345. Sexual harm prevention order: availability on conviction[^c-4b11d270ce477379eb3d879bbdb4a10c]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ that condition is to be disregarded in determining for the purposes of subsectio
 
 ## Annotations
 
-[^key-4b11d270ce477379eb3d879bbdb4a10c]: Commencement: [S. 345](https://www.legislation.gov.uk/ukpga/2020/17/section/345) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4b11d270ce477379eb3d879bbdb4a10c]: Commencement: [S. 345](https://www.legislation.gov.uk/ukpga/2020/17/section/345) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

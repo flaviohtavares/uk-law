@@ -33,24 +33,24 @@ concerning the authorisation of vitamin B<sub>6</sub> as a feed additive for all
 
 (Text with EEA relevance) (revoked)
 
-[^key-c8a4c01f2999a62157aaf8cb292bb213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8a4c01f2999a62157aaf8cb292bb213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-c8a4c01f2999a62157aaf8cb292bb213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c8a4c01f2999a62157aaf8cb292bb213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c8a4c01f2999a62157aaf8cb292bb213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c8a4c01f2999a62157aaf8cb292bb213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c8a4c01f2999a62157aaf8cb292bb213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c8a4c01f2999a62157aaf8cb292bb213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8a4c01f2999a62157aaf8cb292bb213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8a4c01f2999a62157aaf8cb292bb213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-c8a4c01f2999a62157aaf8cb292bb213]
+## ANNEX[^c-c8a4c01f2999a62157aaf8cb292bb213]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8a4c01f2999a62157aaf8cb292bb213]: Textual amendment: [Regulation](https://www.legislation.gov.uk/eur/2011/515) revoked: (W.) (24.11.2022) by [The Feed Additives (Authorisations) (Wales) Regulations 2022 (S.I. 2022/1118)](https://www.legislation.gov.uk/wsi/2022/1118), [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2022/1118/regulation/1/2/c), [Sch. 12](https://www.legislation.gov.uk/wsi/2022/1118/schedule/12) (with [regs. 9](https://www.legislation.gov.uk/wsi/2022/1118/regulation/9), [10(2)-(5)](https://www.legislation.gov.uk/wsi/2022/1118/regulation/10/2), [11](https://www.legislation.gov.uk/wsi/2022/1118/regulation/11)); (S.) (24.11.2022) by [The Feed Additives (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/288)](https://www.legislation.gov.uk/ssi/2022/288), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/288/regulation/1/1), [sch. 12 para. 8](https://www.legislation.gov.uk/ssi/2022/288/schedule/12/paragraph/8) (with [regs. 8](https://www.legislation.gov.uk/ssi/2022/288/regulation/8), [9(2)-(5)](https://www.legislation.gov.uk/ssi/2022/288/regulation/9/2), [10](https://www.legislation.gov.uk/ssi/2022/288/regulation/10)); and (E.) (25.11.2022) by [The Feed Additives (Authorisations) (England) Regulations 2022 (S.I. 2022/1129)](https://www.legislation.gov.uk/uksi/2022/1129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/1/1), [Sch. 12](https://www.legislation.gov.uk/uksi/2022/1129/schedule/12) (with [regs. 8(2)-(5)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/8/2), [9](https://www.legislation.gov.uk/uksi/2022/1129/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/1129/regulation/10))
+[^c-c8a4c01f2999a62157aaf8cb292bb213]: Textual amendment: [Regulation](https://www.legislation.gov.uk/eur/2011/515) revoked: (W.) (24.11.2022) by [The Feed Additives (Authorisations) (Wales) Regulations 2022 (S.I. 2022/1118)](https://www.legislation.gov.uk/wsi/2022/1118), [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2022/1118/regulation/1/2/c), [Sch. 12](https://www.legislation.gov.uk/wsi/2022/1118/schedule/12) (with [regs. 9](https://www.legislation.gov.uk/wsi/2022/1118/regulation/9), [10(2)-(5)](https://www.legislation.gov.uk/wsi/2022/1118/regulation/10/2), [11](https://www.legislation.gov.uk/wsi/2022/1118/regulation/11)); (S.) (24.11.2022) by [The Feed Additives (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/288)](https://www.legislation.gov.uk/ssi/2022/288), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/288/regulation/1/1), [sch. 12 para. 8](https://www.legislation.gov.uk/ssi/2022/288/schedule/12/paragraph/8) (with [regs. 8](https://www.legislation.gov.uk/ssi/2022/288/regulation/8), [9(2)-(5)](https://www.legislation.gov.uk/ssi/2022/288/regulation/9/2), [10](https://www.legislation.gov.uk/ssi/2022/288/regulation/10)); and (E.) (25.11.2022) by [The Feed Additives (Authorisations) (England) Regulations 2022 (S.I. 2022/1129)](https://www.legislation.gov.uk/uksi/2022/1129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/1/1), [Sch. 12](https://www.legislation.gov.uk/uksi/2022/1129/schedule/12) (with [regs. 8(2)-(5)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/8/2), [9](https://www.legislation.gov.uk/uksi/2022/1129/regulation/9), [10](https://www.legislation.gov.uk/uksi/2022/1129/regulation/10))

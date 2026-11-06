@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Pensionable earnings[^key-46329cdb783847521f4bd1487733815a]
+## 16. Pensionable earnings[^c-46329cdb783847521f4bd1487733815a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For the purpose of calculating a member’s pension or other benefits under this
 
 ## Annotations
 
-[^key-46329cdb783847521f4bd1487733815a]: Commencement: Reg. 16 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-46329cdb783847521f4bd1487733815a]: Commencement: Reg. 16 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

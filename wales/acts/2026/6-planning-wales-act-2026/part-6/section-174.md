@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 174. Terms relating to liability[^key-f7c00e75bcfa469acdb5bec7963c6a4f]
+## 174. Terms relating to liability[^c-f7c00e75bcfa469acdb5bec7963c6a4f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7c00e75bcfa469acdb5bec7963c6a4f]: Commencement: S. 174 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f7c00e75bcfa469acdb5bec7963c6a4f]: Commencement: S. 174 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

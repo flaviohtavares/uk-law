@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. New section 67 ground established: sheriff to refer to children's hearing[^key-926b82b2fe2f9ba23ae4525e939dbefe]
+## 117. New section 67 ground established: sheriff to refer to children's hearing[^c-926b82b2fe2f9ba23ae4525e939dbefe]
 
 *Extent: S*
 
@@ -34,10 +34,10 @@ summary: ''
 
 (4) If the sheriff is satisfied that there is reason to believe that the child would not otherwise attend the children's hearing, the sheriff may grant a warrant to secure attendance.
 
-(5)[^key-13bc29fcd2278ff174672278d5f734dd] If the sheriff makes an interim compulsory supervision order under subsection (3) specifying that the child is to reside at a place of safety, the children’s hearing must be arranged to take place no later than the third day after the day on which the child begins to reside at the place of safety.
+(5)[^c-13bc29fcd2278ff174672278d5f734dd] If the sheriff makes an interim compulsory supervision order under subsection (3) specifying that the child is to reside at a place of safety, the children’s hearing must be arranged to take place no later than the third day after the day on which the child begins to reside at the place of safety.
 
 ## Annotations
 
-[^key-926b82b2fe2f9ba23ae4525e939dbefe]: Commencement: S. 117 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-926b82b2fe2f9ba23ae4525e939dbefe]: Commencement: S. 117 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-13bc29fcd2278ff174672278d5f734dd]: Textual amendment: S. 117(5) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(12)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/12)
+[^c-13bc29fcd2278ff174672278d5f734dd]: Textual amendment: S. 117(5) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(12)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/12)

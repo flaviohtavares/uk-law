@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20.1. Scope of this Part[^key-8e3e17cd800fee288217e1f51a0abf28]
+## 20.1. Scope of this Part[^c-8e3e17cd800fee288217e1f51a0abf28]
 
 *Extent: E+W*
 
@@ -128,8 +128,8 @@ the interim injunction<sup>(GL) </sup>will be set aside<sup>(GL) </sup>unless th
 (2) The conditions are—
 
 - (a) the applicant is—
-  - (i) resident out of the jurisdiction; [^key-e23b64c2d53ab6aa992116c89d8cf77f]...
-  - (ii)[^key-e23b64c2d53ab6aa992116c89d8cf77f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) resident out of the jurisdiction; [^c-e23b64c2d53ab6aa992116c89d8cf77f]...
+  - (ii)[^c-e23b64c2d53ab6aa992116c89d8cf77f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the applicant has changed address since the application was started with a view to evading the consequences of the litigation;
 - (c) the applicant failed to give an address in the application form, or gave an incorrect address in that form;
 - (d) the applicant has taken steps in relation to the applicant's assets that would make it difficult to enforce an order for costs against the applicant.
@@ -138,7 +138,7 @@ the interim injunction<sup>(GL) </sup>will be set aside<sup>(GL) </sup>unless th
 
 (Rule 4.4 allows the court to strike out<sup>(GL) </sup>a statement of case.)
 
-([^key-6353407fec277c961c55c42ebbc20606]...)
+([^c-6353407fec277c961c55c42ebbc20606]...)
 
 ## 20.8. Security for costs of an appeal
 
@@ -153,7 +153,7 @@ on the same grounds as it may order security for costs against an applicant unde
 
 ## Annotations
 
-[^key-8e3e17cd800fee288217e1f51a0abf28]: Textual amendment: Rule 20.1 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [67](https://www.legislation.gov.uk/uksi/2013/3204/rule/67) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-8e3e17cd800fee288217e1f51a0abf28]: Textual amendment: Rule 20.1 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [67](https://www.legislation.gov.uk/uksi/2013/3204/rule/67) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
 [^c20648861]: Marginal citation: [1977 c. 32](https://www.legislation.gov.uk/ukpga/1977/32).
 
@@ -165,6 +165,6 @@ on the same grounds as it may order security for costs against an applicant unde
 
 [^c20648901]: Marginal citation: [Section 52](https://www.legislation.gov.uk/uksi/2010/2955/section/52) was amended by section 10 of and paragraph 2(2) of Schedule 2 to the Civil Procedure Act 1997 and by article 6(b) of the Civil Procedure (Modification of Enactments) Order 1998 and by section 125(3) of and paragraph 43 of Schedule 18 to the Courts and Legal Services Act 1990.
 
-[^key-e23b64c2d53ab6aa992116c89d8cf77f]: Textual amendment: [Rule 20.7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/2955/rule/20.7/2/a/ii) and word omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/517/regulation/12/2/a) (with [reg. 24](https://www.legislation.gov.uk/uksi/2019/517/regulation/24)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e23b64c2d53ab6aa992116c89d8cf77f]: Textual amendment: [Rule 20.7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/2955/rule/20.7/2/a/ii) and word omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/517/regulation/12/2/a) (with [reg. 24](https://www.legislation.gov.uk/uksi/2019/517/regulation/24)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6353407fec277c961c55c42ebbc20606]: Textual amendment: Words in [rule 20.7](https://www.legislation.gov.uk/uksi/2010/2955/rule/20.7) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/517/regulation/12/2/b) (with [reg. 24](https://www.legislation.gov.uk/uksi/2019/517/regulation/24)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6353407fec277c961c55c42ebbc20606]: Textual amendment: Words in [rule 20.7](https://www.legislation.gov.uk/uksi/2010/2955/rule/20.7) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/517/regulation/12/2/b) (with [reg. 24](https://www.legislation.gov.uk/uksi/2019/517/regulation/24)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

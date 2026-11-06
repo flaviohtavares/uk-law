@@ -54,17 +54,17 @@ Under Article 41 of the Charter of the United Nations the Security Council of th
 
 Her Majesty, in exercise of the powers conferred on Her by section 1 of the United Nations Act 1946[^f00002] and section 63(3)(c) and (4) of the Sanctions and Anti-Money Laundering Act 2018[^f00003], is pleased, by and with the advice of Her Privy Council, to make the following Order:
 
-## 1. Citation, commencement and extent[^key-cc451161eed7c8b6b1a28c46a78aa758]
+## 1. Citation, commencement and extent[^c-cc451161eed7c8b6b1a28c46a78aa758]
 
 (1) This Order may be cited as the South Sudan (Sanctions) (Overseas Territories) Order 2020 and comes into force immediately after both the Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020[^f00004] and the Sanctions (EU Exit) (Miscellaneous Amendments) (No. 3) Regulations 2020[^f00005] have come into force in the United Kingdom.
 
 (2) This Order extends to each British overseas territory listed in Schedule 1.
 
-## 2. Extension of the South Sudan (Sanctions) (EU Exit) Regulations 2019[^key-2eaf18102bd620581b3a4a34beb4c753]
+## 2. Extension of the South Sudan (Sanctions) (EU Exit) Regulations 2019[^c-2eaf18102bd620581b3a4a34beb4c753]
 
 The South Sudan (Sanctions) (EU Exit) Regulations 2019[^f00006] as amended from time to time extend to each British overseas territory listed in Schedule 1 with the modifications specified in Schedule 2.
 
-## 3. Extension of the Sanctions and Anti-Money Laundering Act 2018[^key-d8edf8a0d33c4644af198bc595055287]
+## 3. Extension of the Sanctions and Anti-Money Laundering Act 2018[^c-d8edf8a0d33c4644af198bc595055287]
 
 Subject to the modification set out in paragraph (c), the following provisions of the Sanctions and Anti-Money Laundering Act 2018 extend to each British overseas territory listed in Schedule 1 for the purposes of the South Sudan (Sanctions) (EU Exit) Regulations 2019 as modified and extended to the territories by this Order—
 
@@ -72,7 +72,7 @@ Subject to the modification set out in paragraph (c), the following provisions o
 - (b) section 52(3) (Crown application);
 - (c) section 53 (saving for prerogative powers), except that, in its application to a particular British overseas territory, the reference in subsection (1) of that section to the United Kingdom is to be read as a reference to that territory.
 
-## 4. Exclusion of UN designated persons from the Territory[^key-9f1c08b488a5524f1e6071a4139466ad]
+## 4. Exclusion of UN designated persons from the Territory[^c-9f1c08b488a5524f1e6071a4139466ad]
 
 (1) A person who is for the time being named for the purposes of paragraph 16 of resolution 2206 by the Security Council or the Committee must not enter, transit or remain in the Territory.
 
@@ -133,11 +133,11 @@ Richard Tilbrook
 
 Clerk of the Privy Council
 
-## SCHEDULE 1 — British overseas territories[^key-770a675bc8134afc7a094b0e162b023b]
+## SCHEDULE 1 — British overseas territories[^c-770a675bc8134afc7a094b0e162b023b]
 
 Article 1(2)
 
-[^key-770a675bc8134afc7a094b0e162b023b]
+[^c-770a675bc8134afc7a094b0e162b023b]
 
 - Anguilla
 - British Antarctic Territory
@@ -156,12 +156,12 @@ Article 1(2)
 
 Article 2
 
-**1.**[^key-0c56f570f25ae5b0b915e21b821c46bc] In regulation 1 (citation and commencement)—
+**1.**[^c-0c56f570f25ae5b0b915e21b821c46bc] In regulation 1 (citation and commencement)—
 
 - (a) in the heading, omit “and commencement”;
 - (b) omit paragraph (2).
 
-**2.**[^key-a9df1fbc4c3cc8fc1bc6d1892ecd5a83] In regulation 2 (interpretation)—
+**2.**[^c-a9df1fbc4c3cc8fc1bc6d1892ecd5a83] In regulation 2 (interpretation)—
 
 - (a) the existing text becomes paragraph (1);
 - (b) in that paragraph—
@@ -180,7 +180,7 @@ Article 2
     >     - (iii) regulation 44 (trade: information powers),
     >     - (iv) regulation 46 (general trade licences: inspection of records),
     >     - (v) regulation 47 (disclosure of information),
-    >     - (va) regulation 47A (finance: disclosure to the Governor),[^key-edb8cb4f26c271113f909fd7387f385f]
+    >     - (va) regulation 47A (finance: disclosure to the Governor),[^c-edb8cb4f26c271113f909fd7387f385f]
     >     - (vii) regulation 48A (suspected ships, aircraft or vehicles), or
     >     - (viii) regulation 48B (search warrants), or
     >   - (d) any person acting under the authority of a person falling within any of paragraphs (a) to (c);
@@ -237,7 +237,7 @@ Article 2
 
   > (2) In the application of these Regulations to a particular British overseas territory, the expression “**the Territory**” means that territory.
 
-**3.**[^key-c023b30b23afdfb2b991b807c43e32eb] In regulation 3 (application of prohibitions and requirements outside the United Kingdom)—
+**3.**[^c-c023b30b23afdfb2b991b807c43e32eb] In regulation 3 (application of prohibitions and requirements outside the United Kingdom)—
 
 - (a) in the heading, for “United Kingdom” substitute “Territory”;
 - (b) in paragraphs (1) and (4), for “United Kingdom person” substitute “Territory person”;
@@ -245,9 +245,9 @@ Article 2
 - (d) in paragraphs (2) and (5), after “in the territorial sea” insert “of the Territory”;
 - (e) in paragraphs (3) and (6), for “Treasury licence” substitute “financial sanctions licence”.
 
-**4.**[^key-42f4251447dc7dfe124f1f1b8fe4e5fd] In regulation 4 (purposes), for “The regulations contained in this instrument that are made under section 1 of the Act” substitute “These Regulations”.
+**4.**[^c-42f4251447dc7dfe124f1f1b8fe4e5fd] In regulation 4 (purposes), for “The regulations contained in this instrument that are made under section 1 of the Act” substitute “These Regulations”.
 
-**5.**[^key-daf0d6bdc953fc09afc25c3cfc3bf436] At the end of Part 1 (General), insert—
+**5.**[^c-daf0d6bdc953fc09afc25c3cfc3bf436] At the end of Part 1 (General), insert—
 
 > **4A. Functions of the Governor**
 >
@@ -257,13 +257,13 @@ Article 2
 >
 > (3) In the exercise of any power conferred on the Governor by these Regulations, the Governor is to act in their discretion.
 
-**6.**[^key-a27ba450c87738dc5c2e3ccd7f70da31] Omit regulation 5 (power to designate persons) (including the heading).
+**6.**[^c-a27ba450c87738dc5c2e3ccd7f70da31] Omit regulation 5 (power to designate persons) (including the heading).
 
-**6A.**[^key-e28e51e0724c37dc1d1d76827cfdbf68] Omit regulation 5A (conditions for the designation of persons by name) (including the heading).
+**6A.**[^c-e28e51e0724c37dc1d1d76827cfdbf68] Omit regulation 5A (conditions for the designation of persons by name) (including the heading).
 
-**7.**[^key-8462c9a7c78255c5c9bc62361d992a93] Omit regulation 6 (criteria for designating a person) (including the heading).
+**7.**[^c-8462c9a7c78255c5c9bc62361d992a93] Omit regulation 6 (criteria for designating a person) (including the heading).
 
-**8.**[^key-eab83a1e5ea398c97bddb6e0f23f54be] For regulation 8 (notification and publicity where designation power used), substitute—
+**8.**[^c-eab83a1e5ea398c97bddb6e0f23f54be] For regulation 8 (notification and publicity where designation power used), substitute—
 
 > **8. Requirement to publish a list of designated persons**
 >
@@ -281,7 +281,7 @@ Article 2
 > - (a) any person for the time being designated by the Secretary of State under regulation 5 (power to designate persons) (as it has effect in the United Kingdom), and
 > - (b) a person who is a designated person for the purposes of regulations 12 to 16 (asset-freeze etc.) by reason of regulation 10 (designation of persons named by or under UN Security Council Resolutions).
 
-**9.**[^key-f9dd99047c583298be3f0434939738f6] In regulation 9 (confidential information in certain cases where designation power used)—
+**9.**[^c-f9dd99047c583298be3f0434939738f6] In regulation 9 (confidential information in certain cases where designation power used)—
 
 - (a) in the heading, omit “where designation power used”;
 - (b) omit paragraph (1);
@@ -298,16 +298,16 @@ Article 2
   > - (c) in relation to the British Antarctic Territory, the British Indian Ocean Territory, the Falkland Islands, Pitcairn, Henderson, Ducie and Oeno Islands, St Helena, Ascension and Tristan da Cunha, South Georgia and the South Sandwich Islands and the Turks and Caicos Islands, the Supreme Court of that territory;
   > - (d) in relation to the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus, the Senior Judges’ Court of those Areas.
 
-**10.**[^key-893c0994ca11eab7e32990cf47a056de] In regulation 10 (designation of persons named by or under UN Security Council Resolutions), omit paragraph (2).
+**10.**[^c-893c0994ca11eab7e32990cf47a056de] In regulation 10 (designation of persons named by or under UN Security Council Resolutions), omit paragraph (2).
 
-**11.**[^key-f76c3bea8eda7b9a84da0cf6d1fd1bb4] For regulation 11 (meaning of “**designated person**” in Part 3) substitute—
+**11.**[^c-f76c3bea8eda7b9a84da0cf6d1fd1bb4] For regulation 11 (meaning of “**designated person**” in Part 3) substitute—
 
 > **11.** In this Part, a “**designated person**” means—
 >
 > - (a) a person who is designated from time to time by the Secretary of State under regulation 5 (power to designate persons) (as it has effect in the United Kingdom) for the purposes of regulations 12 to 16 (asset-freeze etc.) (as they have effect in the United Kingdom), or
 > - (b) a person who is a designated person for the purposes of regulations 12 to 16 by reason of regulation 10 (designation of persons named by or under UN Security Council Resolutions).
 
-**12.**[^key-9da5ae1cc4c5f6b1c1ad571215398e18] For regulation 18 (immigration) substitute—
+**12.**[^c-9da5ae1cc4c5f6b1c1ad571215398e18] For regulation 18 (immigration) substitute—
 
 > **18.** (1) A person who is designated from time to time by the Secretary of State under regulation 5 (power to designate persons) (as it has effect in the United Kingdom) for the purposes of regulation 18 (immigration) (as it has effect in the United Kingdom) must not enter, transit or remain in the Territory.
 >
@@ -342,7 +342,7 @@ Article 2
 > - “**Pitcairn**” means Pitcairn, Henderson, Ducie and Oeno Islands;
 > - “**the Sovereign Base Areas**” means the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus.
 
-**13.**[^key-4947bccac25539ecd5067d702f35fb03] In regulation 20 (interpretation of other expressions used in this Part)—
+**13.**[^c-4947bccac25539ecd5067d702f35fb03] In regulation 20 (interpretation of other expressions used in this Part)—
 
 - (a) for paragraph (1) substitute—
 
@@ -355,13 +355,13 @@ Article 2
 
   > (2) In this Part, any reference to the Territory includes a reference to the territorial sea of the Territory.
 
-**14.**[^key-22e863ed16bb5bf1c99b9488254cefb8] In regulation 21 (export of military goods), at the end insert—
+**14.**[^c-22e863ed16bb5bf1c99b9488254cefb8] In regulation 21 (export of military goods), at the end insert—
 
 > (3) A person who contravenes a prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the export was to, or the goods were for use in, South Sudan (as the case may be).
 
-**15.**[^key-1d5f943aa5401457d549cfd1fb8581d0] In regulation 22 (supply and delivery of military goods), in paragraph (4) for “United Kingdom, the Isle of Man” substitute “Territory”.
+**15.**[^c-1d5f943aa5401457d549cfd1fb8581d0] In regulation 22 (supply and delivery of military goods), in paragraph (4) for “United Kingdom, the Isle of Man” substitute “Territory”.
 
-**16.**[^key-f2f8d35da0847329fbec1173d9b85122] In regulation 27 (brokering services: non-UK activity relating to military goods and military technology)—
+**16.**[^c-f2f8d35da0847329fbec1173d9b85122] In regulation 27 (brokering services: non-UK activity relating to military goods and military technology)—
 
 - (a) in the heading, for “non-UK” substitute “non-Territory”;
 - (b) in paragraph (1), for “non-UK country”, in each place it occurs, substitute “non-Territory country”;
@@ -372,7 +372,7 @@ Article 2
   > - “**non-Territory country**” means a country that is not the Territory;
   > - “**third country**” means a country that is not the Territory or South Sudan.
 
-**17.**[^key-a22ccb4e1efc565599a57efdef09e925] In regulation 28 (enabling or facilitating the conduct of armed hostilities)—
+**17.**[^c-a22ccb4e1efc565599a57efdef09e925] In regulation 28 (enabling or facilitating the conduct of armed hostilities)—
 
 - (a) in paragraph (1)(d), for “non-UK country” substitute “non-Territory country”;
 - (b) in paragraph (4), for the definition of “non-UK country” substitute—
@@ -381,7 +381,7 @@ Article 2
 
   .
 
-**18.**[^key-878f8779120d83d19a8abc817706351f] In regulation 31 (finance: exceptions from prohibitions)—
+**18.**[^c-878f8779120d83d19a8abc817706351f] In regulation 31 (finance: exceptions from prohibitions)—
 
 - (a) omit paragraph (6);
 - (b) in paragraph (7), for the definition of “relevant institution” substitute—
@@ -389,7 +389,7 @@ Article 2
   > - “**relevant institution**”, in relation to the Territory, means a person domiciled in the Territory who would satisfy the threshold conditions for permission under Part 4A of the Financial Services and Markets Act 2000[^f00012] if it had its registered office (or if it does not have one, its head office) in the United Kingdom.
 - (c) omit paragraph (8).
 
-**18A.**[^key-291c622c825e847e9e3c7ecce5910272] For regulation 31ZZA (finance: exception from prohibitions for required payments) substitute—
+**18A.**[^c-291c622c825e847e9e3c7ecce5910272] For regulation 31ZZA (finance: exception from prohibitions for required payments) substitute—
 
 > **31ZZA. Finance: exception from prohibitions for required payments**
 >
@@ -432,7 +432,7 @@ Article 2
 
 .
 
-**19.**[^key-1af2c9a8db57e8c8514c6041a18f7f9b] For regulation 31A (exception for authorised conduct in a relevant country) substitute—
+**19.**[^c-1af2c9a8db57e8c8514c6041a18f7f9b] For regulation 31A (exception for authorised conduct in a relevant country) substitute—
 
 > **31A. Exceptions for authorised conduct outside the Territory**
 >
@@ -452,7 +452,7 @@ Article 2
 >
 > (4) Nothing in this regulation affects the application of a prohibition in a case where it would be incompatible with a UN obligation for the prohibition not to apply.
 
-**20.**[^key-1fe558403e665a16805d9a8dea0dd8ee] For regulation 32 (exception for acts done for purposes of national security or prevention of serious crime), substitute—
+**20.**[^c-1fe558403e665a16805d9a8dea0dd8ee] For regulation 32 (exception for acts done for purposes of national security or prevention of serious crime), substitute—
 
 > **32.** (1) Where an act would, in the absence of this paragraph, be prohibited by regulation 9(2) (confidentiality) or any prohibition in Part 3 (Finance) or Part 5 (Trade), that prohibition does not apply to the act if the act is one which—
 >
@@ -472,7 +472,7 @@ Article 2
 >
 > (4) Nothing in this regulation affects the application of a prohibition or requirement in a case where it would be incompatible with a UN obligation for the prohibition or requirement not to apply.
 
-**21.**[^key-7fc3a9839c2380f3c6d9daf7045ade91] For regulation 33 (Treasury licences), substitute—
+**21.**[^c-7fc3a9839c2380f3c6d9daf7045ade91] For regulation 33 (Treasury licences), substitute—
 
 > **33. Financial sanctions licences**
 >
@@ -489,7 +489,7 @@ Article 2
 > - (a) a person who is a designated person for the purposes of regulations 12 to 16 by reason of regulation 10 (designation of persons named by or under UN Security Council resolutions), or
 > - (b) a person who is designated under regulation 5 (power to designate persons) (as it has effect in the United Kingdom) for the purposes of regulations 12 to 16 (as they have effect in the United Kingdom) and whose designation is (in the opinion of the Secretary of State) required by a provision mentioned in regulation 4(3).
 
-**22.**[^key-46443dc1119e1d31150874f4e4356646] In regulation 34 (trade licences)—
+**22.**[^c-46443dc1119e1d31150874f4e4356646] In regulation 34 (trade licences)—
 
 - (a) the existing text becomes paragraph (1);
 - (b) in that paragraph, for “Secretary of State” substitute “Governor”;
@@ -497,14 +497,14 @@ Article 2
 
   > (2) The Governor may issue a licence under paragraph (1) only with the consent of the Secretary of State.
 
-**23.**[^key-5d5a7687f3104cb415af5299c3fc0df2] In regulation 35 (licences: general provisions)—
+**23.**[^c-5d5a7687f3104cb415af5299c3fc0df2] In regulation 35 (licences: general provisions)—
 
 - (a) in paragraph (1), for “Treasury licences” substitute “financial sanctions licences”;
 - (b) in paragraph (5), after “a licence may” insert “, with the consent of the Secretary of State,”.
 
-**24.**[^key-566dcf72b6d202515b6547ed66b27e77] In regulation 36 (finance: licensing offences), for “Treasury licence”, in both places it occurs, substitute “financial sanctions licence”.
+**24.**[^c-566dcf72b6d202515b6547ed66b27e77] In regulation 36 (finance: licensing offences), for “Treasury licence”, in both places it occurs, substitute “financial sanctions licence”.
 
-**25.**[^key-db0853073ac72a8d5f994ab5a13714d1] For regulation 38 (section 8B(1) to (3) of Immigration Act 1971: directions) substitute—
+**25.**[^c-db0853073ac72a8d5f994ab5a13714d1] For regulation 38 (section 8B(1) to (3) of Immigration Act 1971: directions) substitute—
 
 > **38. Immigration directions**
 >
@@ -521,19 +521,19 @@ Article 2
 >
 > (5) In this regulation, “**specified**” means specified in a direction under this regulation.
 
-**26.**[^key-1968a12cda1e5fb11739a51ba2692976] In regulation 39 (finance: reporting obligations)—
+**26.**[^c-1968a12cda1e5fb11739a51ba2692976] In regulation 39 (finance: reporting obligations)—
 
 - (a) for “Treasury”, in each place it occurs, substitute “Governor”;
 - (b) for paragraph (5) substitute—
 
   > (5) A relevant institution must inform the Governor without delay if that institution credits a frozen account in accordance with regulation 31(4) (finance: exceptions from prohibitions).
 
-**26A.**[^key-946c3acb13e5247f666624a59bcd2f41] In regulation 39A (finance: reporting obligations for required payments)—
+**26A.**[^c-946c3acb13e5247f666624a59bcd2f41] In regulation 39A (finance: reporting obligations for required payments)—
 
 - (a) in paragraphs (1), (2) and (3), for “Treasury” substitute “Governor”;
 - (b) in paragraph (5), for “31ZZA(8)”, in both places it occurs, substitute “31ZZA(7)”.
 
-**27.**[^key-a0c6ea31e4a022314518a4fe1bf090a2] For regulation 40 (“relevant firm”) substitute—
+**27.**[^c-a0c6ea31e4a022314518a4fe1bf090a2] For regulation 40 (“relevant firm”) substitute—
 
 > **40.** (1) The following are relevant firms for the purposes of regulation 39—
 >
@@ -553,7 +553,7 @@ Article 2
 > - (f) a person engaged in the business of making, supplying, selling (including selling by auction) or exchanging—
 >   - (i) articles made from gold, silver, platinum or palladium, or
 >   - (ii) precious stones or pearls.
-> - (g)[^key-a893670c9ca32ef25e5d7475565ec639] a cryptoasset exchange provider;
+> - (g)[^c-a893670c9ca32ef25e5d7475565ec639] a cryptoasset exchange provider;
 > - (h) a custodian wallet provider;
 > - (i) a high value dealer;
 > - (j) an art market participant;
@@ -576,7 +576,7 @@ Article 2
 >     - (i) a trustee of an express trust or similar legal arrangement, or
 >     - (ii) a nominee shareholder for a person.
 >
-> (2A)[^key-aef4b60ed4636f4032c044feff95e3be] In paragraph (1), a “**cryptoasset exchange provider**” means a firm or sole practitioner that by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
+> (2A)[^c-aef4b60ed4636f4032c044feff95e3be] In paragraph (1), a “**cryptoasset exchange provider**” means a firm or sole practitioner that by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
 >
 > - (a) exchanging, or arranging or making arrangements with a view to the exchange of, cryptoassets for money or money for cryptoassets,
 > - (b) exchanging, or arranging or making arrangements with a view to the exchange of, one cryptoasset for another, or
@@ -653,13 +653,13 @@ Article 2
 >
 > (3) For the purposes of regulation 39(1), information or another matter comes to a relevant firm “in the course of carrying on its business” if the information or other matter comes to the firm—
 >
-> - (a) in the case of a relevant firm within paragraph (1)(a), in the course of carrying on an activity in respect of which permission under Part 4A of the Financial Services and Markets Act 2000 would be required if it had its registered office (or if it does not have one, its head office) in the United Kingdom, [^key-c024a4ea270d638632d042a9cdaba41c]...
-> - (aa)[^key-a3db4b8b21822ec99d543c03ebfd1797] in the case of a relevant firm within paragraph (1)(j)—
+> - (a) in the case of a relevant firm within paragraph (1)(a), in the course of carrying on an activity in respect of which permission under Part 4A of the Financial Services and Markets Act 2000 would be required if it had its registered office (or if it does not have one, its head office) in the United Kingdom, [^c-c024a4ea270d638632d042a9cdaba41c]...
+> - (aa)[^c-a3db4b8b21822ec99d543c03ebfd1797] in the case of a relevant firm within paragraph (1)(j)—
 >   - (i) in the course of trading, or acting as an intermediary in the sale or purchase of, works of art when the value of the transaction, or a series of linked transactions, amounts to 10,000 euros or more, or
 >   - (ii) in the course of storing works of art where the value of the works of art so stored for a person amounts to 10,000 euros or more, and
 > - (b) in the case of a relevant firm within any other provision of paragraph (1), in the course of carrying on an activity mentioned in that provision.
 
-**28.**[^key-9513fd089360114336755b3a93181bd2] In regulation 41 (finance: powers to request information)—
+**28.**[^c-9513fd089360114336755b3a93181bd2] In regulation 41 (finance: powers to request information)—
 
 - (a) in paragraph (1), for “The Treasury” substitute “An authorised officer”;
 - (b) in paragraph (2)—
@@ -678,7 +678,7 @@ Article 2
 - (g) in paragraph (8), for “The Treasury” substitute “The authorised officer”;
 - (h) in paragraph (10), for “the Treasury”, in both places it occurs, substitute “the authorised officer”.
 
-**29.**[^key-9618966eab01a52ea4f15e7f5d2ba962] In regulation 42 (finance: production of documents)—
+**29.**[^c-9618966eab01a52ea4f15e7f5d2ba962] In regulation 42 (finance: production of documents)—
 
 - (a) in paragraph (2), for “the Treasury request that documents be produced, the Treasury” substitute “an authorised officer requests that documents be produced, the authorised officer”;
 - (b) for paragraph (3), substitute—
@@ -688,9 +688,9 @@ Article 2
   > - (a) take reasonable steps to obtain the documents (if they are not already in the person’s possession or control);
   > - (b) keep the documents under the person’s possession or control (except for the purpose of providing them to the authorised officer or as the authorised officer may otherwise permit).
 
-**30.**[^key-7ee3a57461bd75f4ca1ec3596b197cce] In regulation 43 (finance: information offences), in paragraph (1)(d), for “the Treasury” substitute “an authorised officer”.
+**30.**[^c-7ee3a57461bd75f4ca1ec3596b197cce] In regulation 43 (finance: information offences), in paragraph (1)(d), for “the Treasury” substitute “an authorised officer”.
 
-**31.**[^key-b37b6ebfe6093fe3c23f3065c213c318] For regulation 44 (trade: application of information powers in CEMA) substitute—
+**31.**[^c-b37b6ebfe6093fe3c23f3065c213c318] For regulation 44 (trade: application of information powers in CEMA) substitute—
 
 > **44. Trade: information powers**
 >
@@ -725,7 +725,7 @@ Article 2
 > - (a) which would, unless done under the authority of a trade licence, constitute a contravention of any prohibition in Chapter 2 or 3 of Part 5 (Trade), or
 > - (b) which would constitute a contravention of the prohibition in regulation 29 (circumventing etc prohibitions).
 
-**32.**[^key-2fb80b6057a7491bcbfa467c6d2af43b] After regulation 44 (trade: information powers) insert—
+**32.**[^c-2fb80b6057a7491bcbfa467c6d2af43b] After regulation 44 (trade: information powers) insert—
 
 > **44A. Trade: information offences**
 >
@@ -738,15 +738,15 @@ Article 2
 >
 > (2) Where a person is convicted of an offence under this regulation, the court may make an order requiring that person, within such period as may be specified in the order, to comply with the request.
 
-**33.**[^key-e89a9faaea86310b879aafe3fa3e2afb] In regulation 45(4) (general trade licences: records), for “Secretary of State” substitute “Governor”.
+**33.**[^c-e89a9faaea86310b879aafe3fa3e2afb] In regulation 45(4) (general trade licences: records), for “Secretary of State” substitute “Governor”.
 
-**34.**[^key-a558a68f1ebe76cb982abfcb3050b6a9] In regulation 46(1) (general trade licences: inspection of records)—
+**34.**[^c-a558a68f1ebe76cb982abfcb3050b6a9] In regulation 46(1) (general trade licences: inspection of records)—
 
 - (a) in paragraph (1), for “A person authorised by the Secretary of State or the Commissioners (an “official”)” substitute “An authorised officer”;
 - (b) in paragraphs (2) to (5), for “official”, in each place it occurs, substitute “authorised officer”;
 - (c) in paragraph (5)(a), for “official’s functions” substitute “authorised officer’s functions”.
 
-**35.**[^key-dd8fdc3885a99d6909e3cd01925da06f] In regulation 47 (disclosure of information)—
+**35.**[^c-dd8fdc3885a99d6909e3cd01925da06f] In regulation 47 (disclosure of information)—
 
 - (a) in paragraph (1), for “Secretary of State, the Treasury or the Commissioners” substitute “Governor or an authorised officer”;
 - (b) in paragraph (2)—
@@ -762,7 +762,7 @@ Article 2
   - (iv) in sub-paragraph (g), for “United Kingdom” substitute “Territory”;
 - (c) in paragraph (3)(j), for “Secretary of State, the Treasury or the Commissioners (as the case may be)” substitute “Governor”.
 
-**35A.**[^key-06c94bfff1a979443e99622240be2c7e] For regulation 47A (finance: disclosure to the Treasury) substitute—
+**35A.**[^c-06c94bfff1a979443e99622240be2c7e] For regulation 47A (finance: disclosure to the Treasury) substitute—
 
 > **47A. Finance: disclosure to the Governor**
 >
@@ -777,7 +777,7 @@ Article 2
 
 .
 
-**36.**[^key-4ce5f47b1056268634bc999b218d98d3] In regulation 48 (Part 7: supplementary)—
+**36.**[^c-4ce5f47b1056268634bc999b218d98d3] In regulation 48 (Part 7: supplementary)—
 
 - (a) for paragraph (2) substitute—
 
@@ -788,7 +788,7 @@ Article 2
   > (5A) An authorised officer must, if requested to do so, produce evidence of their authority before exercising any power conferred by this Part.
 - (d) in paragraph (6), in the definition of “privileged information”, omit “(in Scotland, to confidentiality of communications)”.
 
-**37.**[^key-b067ed597112a8f1a3c1445b8d3b0438] In Part 8 (Enforcement), at the beginning insert—
+**37.**[^c-b067ed597112a8f1a3c1445b8d3b0438] In Part 8 (Enforcement), at the beginning insert—
 
 > **48A. Suspected ships, aircraft or vehicles**
 >
@@ -878,7 +878,7 @@ Article 2
 > - “**military goods**” has the meaning given in regulation 19 (definition of “military goods” and “military technology”);
 > - “**relevant offence**” means an offence which is punishable with a term of imprisonment of more than 6 months.
 
-**38.**[^key-4002361c027806130eeda66982e78029] For regulation 49 (penalties for offences) substitute—
+**38.**[^c-4002361c027806130eeda66982e78029] For regulation 49 (penalties for offences) substitute—
 
 > **49.** (1) Paragraphs (3) to (7) apply to—
 >
@@ -929,14 +929,14 @@ Article 2
 >
 > (13) Where a fine in this regulation is expressed to be a sum in sterling or its equivalent in the currency of the Territory, the Governor may issue guidance specifying how to calculate the amount in the currency of the Territory which is to be considered equivalent to that sum in sterling.
 
-**39.**[^key-915158788757c75fd0ddfe7c0e1fd1b4] In regulation 50 (liability of officers of bodies corporate etc), omit paragraph (4).
+**39.**[^c-915158788757c75fd0ddfe7c0e1fd1b4] In regulation 50 (liability of officers of bodies corporate etc), omit paragraph (4).
 
-**40.**[^key-9f29ccfd144d2d6a7006c26ea9e6ea40] In regulation 51 (jurisdiction to try offences)—
+**40.**[^c-9f29ccfd144d2d6a7006c26ea9e6ea40] In regulation 51 (jurisdiction to try offences)—
 
 - (a) in paragraphs (1) and (2), for “United Kingdom”, in each place it occurs, substitute “Territory”;
 - (b) omit paragraphs (3) and (4).
 
-**41.**[^key-d9fa500d3285caa0cf80b281f041940d] After regulation 51 (jurisdiction to try offences), insert—
+**41.**[^c-d9fa500d3285caa0cf80b281f041940d] After regulation 51 (jurisdiction to try offences), insert—
 
 > **51A. Consent to prosecutions**
 >
@@ -947,21 +947,21 @@ Article 2
 > - (a) the arrest, or the issue or execution of a warrant for the arrest, of any person in respect of an offence under these Regulations, or
 > - (b) the remand in custody or on bail of any person charged with such an offence.
 
-**42.**[^key-ada8e8719304557a2d13c4d77d2f2c69] For regulation 52 (procedure for offences by unincorporated bodies) substitute—
+**42.**[^c-ada8e8719304557a2d13c4d77d2f2c69] For regulation 52 (procedure for offences by unincorporated bodies) substitute—
 
 > **52.** Any provision in an enactment which applies in the Territory in relation to criminal proceedings brought against a body corporate applies also for the purposes of proceedings in the Territory for an offence under these Regulations brought against an unincorporated body.
 
-**43.**[^key-4b768a44f07f62f7ce908c12ff929315] In regulation 53 (time limit for proceedings for summary offences), omit paragraph (4).
+**43.**[^c-4b768a44f07f62f7ce908c12ff929315] In regulation 53 (time limit for proceedings for summary offences), omit paragraph (4).
 
-**44.**[^key-6ab5396123d0606f4b6256fd238cdf01] Omit regulation 54 (trade enforcement: application of CEMA) (including the heading).
+**44.**[^c-6ab5396123d0606f4b6256fd238cdf01] Omit regulation 54 (trade enforcement: application of CEMA) (including the heading).
 
-**45.**[^key-39208cf1ad1d3f29097073e2774add6e] Omit regulation 55 (trade offences in CEMA: modification of penalty) (including the heading).
+**45.**[^c-39208cf1ad1d3f29097073e2774add6e] Omit regulation 55 (trade offences in CEMA: modification of penalty) (including the heading).
 
-**46.**[^key-deae2643c7e107a0e4e2f1452681df50] Omit regulation 56 (application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005[^f00014]) (including the heading).
+**46.**[^c-deae2643c7e107a0e4e2f1452681df50] Omit regulation 56 (application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005[^f00014]) (including the heading).
 
-**47.**[^key-59276bee3ce96c30e6dc17b811849a27] Omit regulation 57 (monetary penalties) (including the heading).
+**47.**[^c-59276bee3ce96c30e6dc17b811849a27] Omit regulation 57 (monetary penalties) (including the heading).
 
-**48.**[^key-383cf0257a1557368b206213710e8d25] In regulation 58 (exercise of maritime enforcement powers)—
+**48.**[^c-383cf0257a1557368b206213710e8d25] In regulation 58 (exercise of maritime enforcement powers)—
 
 - (a) for paragraph (1) substitute—
 
@@ -971,7 +971,7 @@ Article 2
 
   > (6) In this Part, “**a relevant ship**” means, in relation to the Territory, a Territory ship.
 
-**49.**[^key-2d957e68f7c2135a66b127be1ec667a0] In regulation 59 (maritime enforcement officers)—
+**49.**[^c-2d957e68f7c2135a66b127be1ec667a0] In regulation 59 (maritime enforcement officers)—
 
 - (a) in paragraph (1)—
   - (i) omit sub-paragraphs (b), (d), (e), (f) and (h);
@@ -987,21 +987,21 @@ Article 2
     ;
 - (b) omit paragraph (2).
 
-**50.**[^key-996f61f164e5d8bb62709dbde1bc5a21] In regulation 60(2)(c) (power to stop, board, search etc), for “United Kingdom” substitute “Territory”.
+**50.**[^c-996f61f164e5d8bb62709dbde1bc5a21] In regulation 60(2)(c) (power to stop, board, search etc), for “United Kingdom” substitute “Territory”.
 
-**51.**[^key-abf0531592e0646ba0b98ce16a9be3f7] Omit regulation 62 (restrictions on exercise of maritime enforcement powers) (including the heading).
+**51.**[^c-abf0531592e0646ba0b98ce16a9be3f7] Omit regulation 62 (restrictions on exercise of maritime enforcement powers) (including the heading).
 
-**52.**[^key-07017be1ae86d6440a4afe9397374b17] In regulation 64 (notices), for “United Kingdom”, in each place it occurs, substitute “Territory”.
+**52.**[^c-07017be1ae86d6440a4afe9397374b17] In regulation 64 (notices), for “United Kingdom”, in each place it occurs, substitute “Territory”.
 
-**53.**[^key-47521c89a5a8407b006746f199ea0a26] Omit regulation 65 (article 20 of the Export Control Order 2008) (including the heading).
+**53.**[^c-47521c89a5a8407b006746f199ea0a26] Omit regulation 65 (article 20 of the Export Control Order 2008) (including the heading).
 
-**54.**[^key-76e0df99125a37b7c54a9ad275e2b50d] Omit regulation 66 (trade: overlapping offences) (including the heading).
+**54.**[^c-76e0df99125a37b7c54a9ad275e2b50d] Omit regulation 66 (trade: overlapping offences) (including the heading).
 
-**55.**[^key-1eeb925e6e680bd38b7005ad943b41f1] Omit regulation 67 (revocations) (including the heading).
+**55.**[^c-1eeb925e6e680bd38b7005ad943b41f1] Omit regulation 67 (revocations) (including the heading).
 
-**56.**[^key-524440db0d1b36dc3cc6ccfb073e8571] Omit regulation 68 (amendments) (including the heading).
+**56.**[^c-524440db0d1b36dc3cc6ccfb073e8571] Omit regulation 68 (amendments) (including the heading).
 
-**57.**[^key-aee10f0a33141a0ddbea3cbf3551ec11] In regulation 69 (transitional provision: Treasury licences)—
+**57.**[^c-aee10f0a33141a0ddbea3cbf3551ec11] In regulation 69 (transitional provision: Treasury licences)—
 
 - (a) in the heading, for “Treasury licences” substitute “financial sanctions licences”;
 - (b) in paragraph (1)(a), for “, or deemed to be granted, by the Treasury under regulation 9 of the 2015 Regulations” substitute “by the Governor under article 10 of the 2014 Order”;
@@ -1025,7 +1025,7 @@ Article 2
 
     > - “**the relevant date**” means the date on which Part 3 comes into force.
 
-**58.**[^key-199a82c186965bd64c75b9b07d249a25] For regulation 70 (transitional provision: trade licences) substitute—
+**58.**[^c-199a82c186965bd64c75b9b07d249a25] For regulation 70 (transitional provision: trade licences) substitute—
 
 > **70.** (1) Paragraphs (2) and (3) apply to a licence which—
 >
@@ -1044,7 +1044,7 @@ Article 2
 > - “**the 2014 Order**” has the meaning it has in regulation 69 (transitional provision: financial sanctions licences);
 > - “**the relevant date**” means the date on which Part 5 comes into force.
 
-**59.**[^key-6856116826570f1e8531b1773b145d45] For regulation 71 (transitional provision: pending applications for trade licences) substitute—
+**59.**[^c-6856116826570f1e8531b1773b145d45] For regulation 71 (transitional provision: pending applications for trade licences) substitute—
 
 > **71.** (1) Paragraph (2) applies where—
 >
@@ -1059,19 +1059,19 @@ Article 2
 > - “**the 2014 Order**” has the meaning it has in regulation 69 (transitional provision: financial sanctions licences);
 > - “**the relevant date**” means the date on which Part 5 comes into force.
 
-**60.**[^key-265d367b506e9c665538cf522cb3323e] In regulation 72 (transitional provisions: prior obligations)—
+**60.**[^c-265d367b506e9c665538cf522cb3323e] In regulation 72 (transitional provisions: prior obligations)—
 
 - (a) in paragraph (3)(b), for “(Treasury licences: purposes)” substitute “(financial sanctions licences: purposes)”;
 - (b) in paragraph (4), for the definition of “the relevant date” substitute—
 
   > - “**the relevant date**” means the date on which Part 3 comes into force.
 
-**61.**[^key-8b12485fbd1a1fec464c8fb0f1b2c066] In Schedule 2 (Treasury licences: purposes)—
+**61.**[^c-8b12485fbd1a1fec464c8fb0f1b2c066] In Schedule 2 (Treasury licences: purposes)—
 
 - (a) in the heading, for “Treasury licences” substitute “Financial sanctions licences”;
-- (b) in the definition of “frozen funds or economic resources” in paragraph 1(1)[^key-9335ba686af030737d6b33f2eb18cf60], for “the designation of that person for the purpose of that regulation” substitute “that person being a designated person for the purposes of Part 3 (Finance) as defined in regulation 11 (meaning of “**designated person**” in Part 3)”;
-- (c) in paragraphs 6B (pre-existing judicial decisions etc.) and 11 (judicial decisions etc.)[^key-83c8240bfb86323ced94b591ef610f07], for “United Kingdom” substitute “Territory”.
-- (d)[^key-f601f423fb0ccea6597e8e5b3a3048a0] for paragraph 10 (insolvency) substitute—
+- (b) in the definition of “frozen funds or economic resources” in paragraph 1(1)[^c-9335ba686af030737d6b33f2eb18cf60], for “the designation of that person for the purpose of that regulation” substitute “that person being a designated person for the purposes of Part 3 (Finance) as defined in regulation 11 (meaning of “**designated person**” in Part 3)”;
+- (c) in paragraphs 6B (pre-existing judicial decisions etc.) and 11 (judicial decisions etc.)[^c-83c8240bfb86323ced94b591ef610f07], for “United Kingdom” substitute “Territory”.
+- (d)[^c-f601f423fb0ccea6597e8e5b3a3048a0] for paragraph 10 (insolvency) substitute—
 
   > **10. Insolvency**
   >
@@ -1131,182 +1131,182 @@ An Impact Assessment has not been prepared for this instrument: the territorial 
 
 [^f00003]: Footnote: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-cc451161eed7c8b6b1a28c46a78aa758]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/1287/article/1) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-cc451161eed7c8b6b1a28c46a78aa758]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/1287/article/1) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2020/591](https://www.legislation.gov.uk/uksi/2020/591). Regulation 4 prospectively amends [S.I. 2019/438](https://www.legislation.gov.uk/uksi/2019/438).
 
 [^f00005]: Footnote: [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950). Regulation 4 prospectively amends [S.I. 2019/438](https://www.legislation.gov.uk/uksi/2019/438).
 
-[^key-2eaf18102bd620581b3a4a34beb4c753]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2020/1287/article/2) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-2eaf18102bd620581b3a4a34beb4c753]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2020/1287/article/2) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
 [^f00006]: Footnote: [S.I. 2019/438](https://www.legislation.gov.uk/uksi/2019/438), prospectively amended by [S.I. 2020/591](https://www.legislation.gov.uk/uksi/2020/591) and [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950).
 
-[^key-d8edf8a0d33c4644af198bc595055287]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/1287/article/3) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-d8edf8a0d33c4644af198bc595055287]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/1287/article/3) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-9f1c08b488a5524f1e6071a4139466ad]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2020/1287/article/4) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-9f1c08b488a5524f1e6071a4139466ad]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2020/1287/article/4) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
 [^f00007]: Footnote: ETS Numbers 005, 009, 046, 114, 117, 177, 187 and CETS Numbers 194, 213 and 214.
 
 [^f00008]: Footnote: United Nations Treaty Series, vol. 189, p. 137 and vol. 606, p. 267.
 
-[^key-770a675bc8134afc7a094b0e162b023b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1287/schedule/1) in force at 31.12.2020, [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-770a675bc8134afc7a094b0e162b023b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1287/schedule/1) in force at 31.12.2020, [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-0c56f570f25ae5b0b915e21b821c46bc]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/1) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-0c56f570f25ae5b0b915e21b821c46bc]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/1) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-a9df1fbc4c3cc8fc1bc6d1892ecd5a83]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/2) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-a9df1fbc4c3cc8fc1bc6d1892ecd5a83]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/2) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-edb8cb4f26c271113f909fd7387f385f]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/2/b/i) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/1)
+[^c-edb8cb4f26c271113f909fd7387f385f]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/2/b/i) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/1)
 
 [^f00009]: Footnote: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61). Part IV has been amended by the British Overseas Territories Act [2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8), section 1(1)(b); and the Nationality, Immigration and Asylum Act [2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41), Schedule 2, paragraph 1(i).
 
-[^key-c023b30b23afdfb2b991b807c43e32eb]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/3) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-c023b30b23afdfb2b991b807c43e32eb]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/3) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-42f4251447dc7dfe124f1f1b8fe4e5fd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/4) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-42f4251447dc7dfe124f1f1b8fe4e5fd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/4) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-daf0d6bdc953fc09afc25c3cfc3bf436]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/5) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-daf0d6bdc953fc09afc25c3cfc3bf436]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/5) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-a27ba450c87738dc5c2e3ccd7f70da31]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/6) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-a27ba450c87738dc5c2e3ccd7f70da31]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/6) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-e28e51e0724c37dc1d1d76827cfdbf68]: Textual amendment: [Sch. 2 para. 6A](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/6A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/2)
+[^c-e28e51e0724c37dc1d1d76827cfdbf68]: Textual amendment: [Sch. 2 para. 6A](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/6A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/2)
 
-[^key-8462c9a7c78255c5c9bc62361d992a93]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/7) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-8462c9a7c78255c5c9bc62361d992a93]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/7) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-eab83a1e5ea398c97bddb6e0f23f54be]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/8) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-eab83a1e5ea398c97bddb6e0f23f54be]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/8) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-f9dd99047c583298be3f0434939738f6]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/9) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-f9dd99047c583298be3f0434939738f6]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/9) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-893c0994ca11eab7e32990cf47a056de]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/10) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-893c0994ca11eab7e32990cf47a056de]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/10) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-f76c3bea8eda7b9a84da0cf6d1fd1bb4]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/11) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-f76c3bea8eda7b9a84da0cf6d1fd1bb4]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/11) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-9da5ae1cc4c5f6b1c1ad571215398e18]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/12) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-9da5ae1cc4c5f6b1c1ad571215398e18]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/12) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
 [^f00010]: Footnote: ETS Numbers 005, 009, 046, 114, 117, 177, 187 and CETS Numbers 194, 213 and 214.
 
 [^f00011]: Footnote: United Nations Treaty Series, vol. 189, p. 137 and vol. 606, p. 267.
 
-[^key-4947bccac25539ecd5067d702f35fb03]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/13) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-4947bccac25539ecd5067d702f35fb03]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/13) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-22e863ed16bb5bf1c99b9488254cefb8]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/14) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-22e863ed16bb5bf1c99b9488254cefb8]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/14) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-1d5f943aa5401457d549cfd1fb8581d0]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/15) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-1d5f943aa5401457d549cfd1fb8581d0]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/15) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-f2f8d35da0847329fbec1173d9b85122]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/16) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-f2f8d35da0847329fbec1173d9b85122]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/16) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-a22ccb4e1efc565599a57efdef09e925]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/17) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-a22ccb4e1efc565599a57efdef09e925]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/17) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-878f8779120d83d19a8abc817706351f]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/18) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-878f8779120d83d19a8abc817706351f]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/18) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
 [^f00012]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Part 4A was inserted by the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), section 11(2) and most recently amended by [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149); it is prospectively amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-291c622c825e847e9e3c7ecce5910272]: Textual amendment: [Sch. 2 para. 18A](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/18A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/3)
+[^c-291c622c825e847e9e3c7ecce5910272]: Textual amendment: [Sch. 2 para. 18A](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/18A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/3)
 
-[^key-1af2c9a8db57e8c8514c6041a18f7f9b]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/19) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-1af2c9a8db57e8c8514c6041a18f7f9b]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/19) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-1fe558403e665a16805d9a8dea0dd8ee]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/20) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-1fe558403e665a16805d9a8dea0dd8ee]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/20) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-7fc3a9839c2380f3c6d9daf7045ade91]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/21) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-7fc3a9839c2380f3c6d9daf7045ade91]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/21) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-46443dc1119e1d31150874f4e4356646]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/22) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-46443dc1119e1d31150874f4e4356646]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/22) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-5d5a7687f3104cb415af5299c3fc0df2]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/23) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-5d5a7687f3104cb415af5299c3fc0df2]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/23) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-566dcf72b6d202515b6547ed66b27e77]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/24) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-566dcf72b6d202515b6547ed66b27e77]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/24) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-db0853073ac72a8d5f994ab5a13714d1]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/25) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-db0853073ac72a8d5f994ab5a13714d1]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/25) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-1968a12cda1e5fb11739a51ba2692976]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/26) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-1968a12cda1e5fb11739a51ba2692976]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/26) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-946c3acb13e5247f666624a59bcd2f41]: Textual amendment: [Sch. 2 para. 26A](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/26A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/4)
+[^c-946c3acb13e5247f666624a59bcd2f41]: Textual amendment: [Sch. 2 para. 26A](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/26A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/4)
 
-[^key-a0c6ea31e4a022314518a4fe1bf090a2]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/27) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-a0c6ea31e4a022314518a4fe1bf090a2]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/27) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-a893670c9ca32ef25e5d7475565ec639]: Textual amendment: Words in [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/27) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 5(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/5/a)
+[^c-a893670c9ca32ef25e5d7475565ec639]: Textual amendment: Words in [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/27) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 5(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/5/a)
 
 [^f00013]: Footnote: [1979 c. 38](https://www.legislation.gov.uk/ukpga/1979/38). Section 1 was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c.73)](https://www.legislation.gov.uk/ukpga/1985/73), Schedule 1, paragraph 40; the Planning (Consequential Provisions) Act [1990 (c.11)](https://www.legislation.gov.uk/ukpga/1990/11), Schedule 2, paragraph 42; the Planning (Consequential Provisions) (Scotland) Act [1997 (c.11)](https://www.legislation.gov.uk/ukpga/1997/11), Schedule 2, paragraph 28; the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), section 70; [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684); [S.I. 2000/121](https://www.legislation.gov.uk/uksi/2000/121); and [S.I. 2001/1283](https://www.legislation.gov.uk/uksi/2001/1283).
 
-[^key-aef4b60ed4636f4032c044feff95e3be]: Textual amendment: Words in [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/27) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 5(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/5/b)
+[^c-aef4b60ed4636f4032c044feff95e3be]: Textual amendment: Words in [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/27) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 5(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/5/b)
 
-[^key-c024a4ea270d638632d042a9cdaba41c]: Textual amendment: Word in [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/27) omitted (11.12.2025) by virtue of [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 5(c)(i)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/5/c/i)
+[^c-c024a4ea270d638632d042a9cdaba41c]: Textual amendment: Word in [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/27) omitted (11.12.2025) by virtue of [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 5(c)(i)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/5/c/i)
 
-[^key-a3db4b8b21822ec99d543c03ebfd1797]: Textual amendment: Words in [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/27) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 5(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/5/c/ii)
+[^c-a3db4b8b21822ec99d543c03ebfd1797]: Textual amendment: Words in [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/27) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 5(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/5/c/ii)
 
-[^key-9513fd089360114336755b3a93181bd2]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/28) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-9513fd089360114336755b3a93181bd2]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/28) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-9618966eab01a52ea4f15e7f5d2ba962]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/29) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-9618966eab01a52ea4f15e7f5d2ba962]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/29) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-7ee3a57461bd75f4ca1ec3596b197cce]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/30) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-7ee3a57461bd75f4ca1ec3596b197cce]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/30) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-b37b6ebfe6093fe3c23f3065c213c318]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/31) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-b37b6ebfe6093fe3c23f3065c213c318]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/31) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-2fb80b6057a7491bcbfa467c6d2af43b]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/32) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-2fb80b6057a7491bcbfa467c6d2af43b]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/32) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-e89a9faaea86310b879aafe3fa3e2afb]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/33) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-e89a9faaea86310b879aafe3fa3e2afb]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/33) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-a558a68f1ebe76cb982abfcb3050b6a9]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/34) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-a558a68f1ebe76cb982abfcb3050b6a9]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/34) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-dd8fdc3885a99d6909e3cd01925da06f]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/35) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-dd8fdc3885a99d6909e3cd01925da06f]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/35) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-06c94bfff1a979443e99622240be2c7e]: Textual amendment: [Sch. 2 para. 35A](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/35A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/6)
+[^c-06c94bfff1a979443e99622240be2c7e]: Textual amendment: [Sch. 2 para. 35A](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/35A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/6)
 
-[^key-4ce5f47b1056268634bc999b218d98d3]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/36) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-4ce5f47b1056268634bc999b218d98d3]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/36) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-b067ed597112a8f1a3c1445b8d3b0438]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/37) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-b067ed597112a8f1a3c1445b8d3b0438]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/37) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-4002361c027806130eeda66982e78029]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/38) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-4002361c027806130eeda66982e78029]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/38) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-915158788757c75fd0ddfe7c0e1fd1b4]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/39) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-915158788757c75fd0ddfe7c0e1fd1b4]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/39) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-9f29ccfd144d2d6a7006c26ea9e6ea40]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/40) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-9f29ccfd144d2d6a7006c26ea9e6ea40]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/40) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-d9fa500d3285caa0cf80b281f041940d]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/41) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-d9fa500d3285caa0cf80b281f041940d]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/41) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-ada8e8719304557a2d13c4d77d2f2c69]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/42) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-ada8e8719304557a2d13c4d77d2f2c69]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/42) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-4b768a44f07f62f7ce908c12ff929315]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/43) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-4b768a44f07f62f7ce908c12ff929315]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/43) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-6ab5396123d0606f4b6256fd238cdf01]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/44) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-6ab5396123d0606f4b6256fd238cdf01]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/44) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-39208cf1ad1d3f29097073e2774add6e]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/45) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-39208cf1ad1d3f29097073e2774add6e]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/45) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-deae2643c7e107a0e4e2f1452681df50]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/46) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-deae2643c7e107a0e4e2f1452681df50]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/46) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
 [^f00014]: Footnote: [2005 c.15](https://www.legislation.gov.uk/ukpga/2005/15). Chapter 1 of Part 2 has been amended by the Terrorism Act [2006 (c.11)](https://www.legislation.gov.uk/ukpga/2006/11), section 33(2) to (4); the Northern Ireland (Miscellaneous Provisions) Act [2006 (c.33)](https://www.legislation.gov.uk/ukpga/2006/33), sections 26(2) and 30(2) and Schedules 3 and 5; the Bribery Act [2010 (c.23)](https://www.legislation.gov.uk/ukpga/2010/23), section 17(2) and Schedule 1; the Criminal Justice and Licensing (Scotland) Act 2010 (asp.13), section 203 and Schedule 7, paragraph 77; the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), section 15 and Schedule 8, paragraphs 157 and 159; the Criminal Finances Act [2017 (c.22)](https://www.legislation.gov.uk/ukpga/2017/22), section 51(1); the Sanctions and Anti-Money Laundering Act 2018, section 59(4) and Schedule 3, paragraph 4; [S.I. 2006/1629](https://www.legislation.gov.uk/uksi/2006/1629) and [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834).
 
-[^key-59276bee3ce96c30e6dc17b811849a27]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/47) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-59276bee3ce96c30e6dc17b811849a27]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/47) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-383cf0257a1557368b206213710e8d25]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/48) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-383cf0257a1557368b206213710e8d25]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/48) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-2d957e68f7c2135a66b127be1ec667a0]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/49) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-2d957e68f7c2135a66b127be1ec667a0]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/49) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-996f61f164e5d8bb62709dbde1bc5a21]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/50) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-996f61f164e5d8bb62709dbde1bc5a21]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/50) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-abf0531592e0646ba0b98ce16a9be3f7]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/51) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-abf0531592e0646ba0b98ce16a9be3f7]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/51) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-07017be1ae86d6440a4afe9397374b17]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/52) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-07017be1ae86d6440a4afe9397374b17]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/52) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-47521c89a5a8407b006746f199ea0a26]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/53) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-47521c89a5a8407b006746f199ea0a26]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/53) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-76e0df99125a37b7c54a9ad275e2b50d]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/54) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-76e0df99125a37b7c54a9ad275e2b50d]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/54) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-1eeb925e6e680bd38b7005ad943b41f1]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/55) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-1eeb925e6e680bd38b7005ad943b41f1]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/55) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-524440db0d1b36dc3cc6ccfb073e8571]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/56) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-524440db0d1b36dc3cc6ccfb073e8571]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/56) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-aee10f0a33141a0ddbea3cbf3551ec11]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/57) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-aee10f0a33141a0ddbea3cbf3551ec11]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/57) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
 [^f00015]: Footnote: [S.I. 2014/2703](https://www.legislation.gov.uk/uksi/2014/2703), as amended by [S.I. 2015/1527](https://www.legislation.gov.uk/uksi/2015/1527).
 
-[^key-199a82c186965bd64c75b9b07d249a25]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/58) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-199a82c186965bd64c75b9b07d249a25]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/58) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-6856116826570f1e8531b1773b145d45]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/59) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-6856116826570f1e8531b1773b145d45]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/59) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-265d367b506e9c665538cf522cb3323e]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/60) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-265d367b506e9c665538cf522cb3323e]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/60) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-8b12485fbd1a1fec464c8fb0f1b2c066]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/61) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
+[^c-8b12485fbd1a1fec464c8fb0f1b2c066]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/61) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1287/article/1/1)
 
-[^key-9335ba686af030737d6b33f2eb18cf60]: Textual amendment: Words in [Sch. 2 para. 61(b)](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/61/b) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 7(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/7/a)
+[^c-9335ba686af030737d6b33f2eb18cf60]: Textual amendment: Words in [Sch. 2 para. 61(b)](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/61/b) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 7(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/7/a)
 
-[^key-83c8240bfb86323ced94b591ef610f07]: Textual amendment: Words in [Sch. 2 para. 61(c)](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/61/c) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 7(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/7/b)
+[^c-83c8240bfb86323ced94b591ef610f07]: Textual amendment: Words in [Sch. 2 para. 61(c)](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/61/c) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 7(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/7/b)
 
-[^key-f601f423fb0ccea6597e8e5b3a3048a0]: Textual amendment: [Sch. 2 para. 61(d)](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/61/d) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 7(c)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/7/c)
+[^c-f601f423fb0ccea6597e8e5b3a3048a0]: Textual amendment: [Sch. 2 para. 61(d)](https://www.legislation.gov.uk/uksi/2020/1287/schedule/2/paragraph/61/d) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 5 para. 7(c)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/5/paragraph/7/c)

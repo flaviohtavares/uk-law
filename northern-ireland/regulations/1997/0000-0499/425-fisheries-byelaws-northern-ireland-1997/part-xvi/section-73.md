@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**73.**[^key-56e8d2d52df99054c988af41315c7a85] In that part of Lough Melvin which is situate in County Fermanagh the annual close season for angling for salmon, trout and rainbow trout shall be from 1st October in each year to 31st January in the next following year, both dates inclusive.
+**73.**[^c-56e8d2d52df99054c988af41315c7a85] In that part of Lough Melvin which is situate in County Fermanagh the annual close season for angling for salmon, trout and rainbow trout shall be from 1st October in each year to 31st January in the next following year, both dates inclusive.
 
 ## Annotations
 
-[^key-56e8d2d52df99054c988af41315c7a85]: Commencement: S. 73 in operation at 1.11.1997, see byelaw 1
+[^c-56e8d2d52df99054c988af41315c7a85]: Commencement: S. 73 in operation at 1.11.1997, see byelaw 1

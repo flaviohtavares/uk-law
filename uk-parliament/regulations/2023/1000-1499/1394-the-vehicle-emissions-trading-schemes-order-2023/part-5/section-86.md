@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Power to require production of documents or provision of information[^key-264af6b1293339a719edd0b2c7123296]
+## 86. Power to require production of documents or provision of information[^c-264af6b1293339a719edd0b2c7123296]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The administrator or an authorised person may, by a written notice given to P, r
 
 ## Annotations
 
-[^key-264af6b1293339a719edd0b2c7123296]: Commencement: Art. 86 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-264af6b1293339a719edd0b2c7123296]: Commencement: Art. 86 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

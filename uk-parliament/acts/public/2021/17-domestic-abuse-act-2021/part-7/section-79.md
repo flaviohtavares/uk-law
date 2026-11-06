@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Grant of secure tenancies in cases of domestic abuse[^key-638290b1991f9324592e17e576caceb4]
+## 79. Grant of secure tenancies in cases of domestic abuse[^c-638290b1991f9324592e17e576caceb4]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-638290b1991f9324592e17e576caceb4]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2021/17/section/79) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/c)
+[^c-638290b1991f9324592e17e576caceb4]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2021/17/section/79) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/c)

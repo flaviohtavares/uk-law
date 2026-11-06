@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Round price for 3.6 GHz lots[^key-db26806cb1ce33d67242bc1781d21405]
+## 26. Round price for 3.6 GHz lots[^c-db26806cb1ce33d67242bc1781d21405]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db26806cb1ce33d67242bc1781d21405]: Commencement: Reg. 26 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-db26806cb1ce33d67242bc1781d21405]: Commencement: Reg. 26 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

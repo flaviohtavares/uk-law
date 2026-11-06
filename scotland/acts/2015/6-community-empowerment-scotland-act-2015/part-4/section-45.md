@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Notice of expiry of registration[^key-702fd8401ee641744e0e431372327f7c]
+## 45. Notice of expiry of registration[^c-702fd8401ee641744e0e431372327f7c]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ In section 44 of the 2003 Act (duration and renewal of registration), after subs
 
 ## Annotations
 
-[^key-702fd8401ee641744e0e431372327f7c]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2015/6/section/45) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-702fd8401ee641744e0e431372327f7c]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2015/6/section/45) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

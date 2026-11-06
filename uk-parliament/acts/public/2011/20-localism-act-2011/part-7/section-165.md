@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Assured shorthold tenancies: rights to acquire[^key-d0b72bc7b26299ecca56658f88cab0a9][^key-430a212bc9959bc1a23d43326637d27e]
+## 165. Assured shorthold tenancies: rights to acquire[^c-d0b72bc7b26299ecca56658f88cab0a9][^c-430a212bc9959bc1a23d43326637d27e]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d0b72bc7b26299ecca56658f88cab0a9]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2011/20/section/165) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(r)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/r) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-d0b72bc7b26299ecca56658f88cab0a9]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2011/20/section/165) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(r)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/r) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-430a212bc9959bc1a23d43326637d27e]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2011/20/section/165) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(c)](https://www.legislation.gov.uk/uksi/2012/628/article/6/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-430a212bc9959bc1a23d43326637d27e]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2011/20/section/165) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(c)](https://www.legislation.gov.uk/uksi/2012/628/article/6/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

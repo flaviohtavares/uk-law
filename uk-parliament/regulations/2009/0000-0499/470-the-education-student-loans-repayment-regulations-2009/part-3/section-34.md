@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Assessment, claims and appeals[^key-9b30dd17993505f39a6352a32d6428e5]
+## 34. Assessment, claims and appeals[^c-9b30dd17993505f39a6352a32d6428e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ as if any reference to an assessment or a self-assessment included a reference t
 
 ## Annotations
 
-[^key-9b30dd17993505f39a6352a32d6428e5]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2009/470/regulation/34) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-9b30dd17993505f39a6352a32d6428e5]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2009/470/regulation/34) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

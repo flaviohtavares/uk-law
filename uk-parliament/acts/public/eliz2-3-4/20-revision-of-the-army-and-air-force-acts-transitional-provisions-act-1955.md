@@ -33,11 +33,11 @@ An Act to continue the Army and Air Force Acts until the appointed day, and to m
 
 \[6th May 1955\][^c620604][^c620605]
 
-## 1. Interim continuation of Army and Air Force Acts.[^key-0c6c5ef1ac0bde2c32f35961353e9df3]
+## 1. Interim continuation of Army and Air Force Acts.[^c-0c6c5ef1ac0bde2c32f35961353e9df3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transitional provisions and savings.[^key-437395902b52ada6713d604580831313]
+## 2. Transitional provisions and savings.[^c-437395902b52ada6713d604580831313]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -63,65 +63,65 @@ This Act, except section one thereof, shall come into operation on the appointed
 
 SCHEDULES
 
-## FIRST SCHEDULE — Transitional Provisions and Savings[^key-3653d85f2d3314efa3b5b7bb49aeb343]
+## FIRST SCHEDULE — Transitional Provisions and Savings[^c-3653d85f2d3314efa3b5b7bb49aeb343]
 
 Section 2.
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**8.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**9.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**10.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**11.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**12.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**13.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**14.**[^key-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-3653d85f2d3314efa3b5b7bb49aeb343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SECOND SCHEDULE — Adaptation of Enactments
 
@@ -143,7 +143,7 @@ and for the words “the Army Act” there shall be substituted the words “ th
 
 ### The Criminal Evidence Act, 1898 61 & 62 Vict. c. 36.
 
-**5.**[^key-d5f6416c31bfe950bc9050884fcd3cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d5f6416c31bfe950bc9050884fcd3cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c620618]
 
@@ -155,7 +155,7 @@ and for the words “the Army Act” there shall be substituted the words “ th
 
 ### The Visiting Forces (British Commonwealth) Act, 1933 23 & 24 Geo. 5. c. 6
 
-**9.**[^key-460ab675e56b98882ef2422e8345bb45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-460ab675e56b98882ef2422e8345bb45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c620622]
 
@@ -205,15 +205,15 @@ Section 4.
 
 [^c620605]: Modification: Act amended (women's services) by [Armed Forces Act 1981 (c. 55, SIF 7:1)](https://www.legislation.gov.uk/ukpga/1981/55), [s. 20](https://www.legislation.gov.uk/ukpga/1981/55/section/20), [Sch. 3 Pt. I para. 1](https://www.legislation.gov.uk/ukpga/1981/55/schedule/3/part/I/paragraph/1)
 
-[^key-0c6c5ef1ac0bde2c32f35961353e9df3]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Eliz2/3-4/20/section/1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0c6c5ef1ac0bde2c32f35961353e9df3]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Eliz2/3-4/20/section/1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-437395902b52ada6713d604580831313]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Eliz2/3-4/20/section/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-437395902b52ada6713d604580831313]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Eliz2/3-4/20/section/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c620606]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/Eliz2/3-4/20/section/4) extended by [Greater Manchester Act 1981 (c. ix)](https://www.legislation.gov.uk/ukla/1981/9), [s. 114(1)](https://www.legislation.gov.uk/ukla/1981/9/section/114/1)
 
 [^c620607]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Eliz2/3-4/20/section/5) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 
-[^key-3653d85f2d3314efa3b5b7bb49aeb343]: Textual amendment: Sch. 1 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); S.I. 2009/1167, art. 4
+[^c-3653d85f2d3314efa3b5b7bb49aeb343]: Textual amendment: Sch. 1 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); S.I. 2009/1167, art. 4
 
 [^c620613]: Textual amendment: Sch. 2 paras. 1, 7 repealed by [Naval Discipline Act 1957 (c. 53)](https://www.legislation.gov.uk/ukpga/1957/53), [Sch. 6](https://www.legislation.gov.uk/ukpga/1957/53/schedule/6)
 
@@ -223,7 +223,7 @@ Section 4.
 
 [^c620616]: Modification: The text of Sch. 2 paras. 3–5, 8, 9(2), 16, 17 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-d5f6416c31bfe950bc9050884fcd3cf4]: Textual amendment: Sch. 2 para. 5 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-d5f6416c31bfe950bc9050884fcd3cf4]: Textual amendment: Sch. 2 para. 5 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c620618]: Textual amendment: Sch. 2 para. 6 repealed by [Armed Forces Act 1971 (c. 33)](https://www.legislation.gov.uk/ukpga/1971/33), [s. 77(2)](https://www.legislation.gov.uk/ukpga/1971/33/section/77/2), [Sch. 4 Pt. II](https://www.legislation.gov.uk/ukpga/1971/33/schedule/4/part/II)
 
@@ -231,7 +231,7 @@ Section 4.
 
 [^c620620]: Modification: The text of Sch. 2 paras. 3–5, 8, 9(2), 16, 17 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-460ab675e56b98882ef2422e8345bb45]: Textual amendment: Sch. 2 para. 9 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-460ab675e56b98882ef2422e8345bb45]: Textual amendment: Sch. 2 para. 9 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c620622]: Textual amendment: Sch. 2 paras. 10, 15 repealed by [Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1977/18/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1977/18/schedule/1/part/I)
 

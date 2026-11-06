@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37ZZA. Finance: exception from prohibitions for required payments[^key-b778360c0cfaabd9a397ec5d87c7f88e]
+## 37ZZA. Finance: exception from prohibitions for required payments[^c-b778360c0cfaabd9a397ec5d87c7f88e]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,7 +73,7 @@ summary: ''
     - (iv) an application for review or approval of a document relating to listing;
     - (v) an application for approval as a sponsor or primary information provider;
     - (vi) an application for review or approval of—
-      - (aa) a document under rules made by the Financial Conduct Authority by virtue of Part 3 of the Public Offers and Admissions to Trading Regulations 2024;[^key-da2fbf28bdbd1f4336eb4b1d1ec8f2d6]
+      - (aa) a document under rules made by the Financial Conduct Authority by virtue of Part 3 of the Public Offers and Admissions to Trading Regulations 2024;[^c-da2fbf28bdbd1f4336eb4b1d1ec8f2d6]
       - (bb) listing particulars under section 79 of the Financial Services and Markets Act 2000 or supplementary listing particulars under section 81 of that Act;
   - (c) the Secretary of State or the Welsh Ministers, a payment that a non-UN designated person is required to make under or by virtue of an enactment other than a payment under or by virtue of Part 3 of the Local Government Finance Act 1988;
   - (d) the Department of Finance in Northern Ireland, a payment that a non-UN designated person is required to make under or by virtue of an enactment other than a payment under or by virtue of Part 2 of the Rates (Northern Ireland) Order 1977;
@@ -98,8 +98,8 @@ summary: ''
   - (c) in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 or a person appointed by such a council for the purposes of the administration, collection and recovery of a BID levy;
   - (d) in relation to Northern Ireland, a district council;
 - “**primary information provider**” has the meaning given in section 89P(2) of the Financial Services and Markets Act 2000;
-- [^key-5a68a2d8ee41940a40d4313a52b73ff5]...
-- [^key-5a68a2d8ee41940a40d4313a52b73ff5]...
+- [^c-5a68a2d8ee41940a40d4313a52b73ff5]...
+- [^c-5a68a2d8ee41940a40d4313a52b73ff5]...
 - “**registrar of companies**” has the meaning given in section 1060 of the Companies Act 2006 (the registrar);
 - “**reimbursement payment**” means a repayment from the non-UN designated person to the person who made a required payment which is of the same amount as that required payment;
 - “**scheme manager**” has the meaning given in section 212 of the Financial Services and Markets Act 2000;
@@ -108,8 +108,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b778360c0cfaabd9a397ec5d87c7f88e]: Textual amendment: Reg. 37ZZA inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/6/5)
+[^c-b778360c0cfaabd9a397ec5d87c7f88e]: Textual amendment: Reg. 37ZZA inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/6/5)
 
-[^key-da2fbf28bdbd1f4336eb4b1d1ec8f2d6]: Textual amendment: Words in [reg. 37ZZA(8)](https://www.legislation.gov.uk/uksi/2019/461/regulation/37ZZA/8) substituted (19.1.2026) by The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 15(a)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/15/a); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-da2fbf28bdbd1f4336eb4b1d1ec8f2d6]: Textual amendment: Words in [reg. 37ZZA(8)](https://www.legislation.gov.uk/uksi/2019/461/regulation/37ZZA/8) substituted (19.1.2026) by The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 15(a)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/15/a); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
 
-[^key-5a68a2d8ee41940a40d4313a52b73ff5]: Textual amendment: Words in [reg. 37ZZA(8)](https://www.legislation.gov.uk/uksi/2019/461/regulation/37ZZA/8) omitted (19.1.2026) by virtue of The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 15(b)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/15/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-5a68a2d8ee41940a40d4313a52b73ff5]: Textual amendment: Words in [reg. 37ZZA(8)](https://www.legislation.gov.uk/uksi/2019/461/regulation/37ZZA/8) omitted (19.1.2026) by virtue of The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 15(b)](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/15/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)

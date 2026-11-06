@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Conduct of administration[^key-7a5a9bc00e0adf3021290904c620be38]
+## 26. Conduct of administration[^c-7a5a9bc00e0adf3021290904c620be38]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a5a9bc00e0adf3021290904c620be38]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/19/section/26) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-7a5a9bc00e0adf3021290904c620be38]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/19/section/26) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

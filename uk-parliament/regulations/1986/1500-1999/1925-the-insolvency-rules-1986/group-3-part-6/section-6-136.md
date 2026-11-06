@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.136. Release of official receiver[^key-57c541cb8bfd14f74526f11c25049dbe]
+## 6.136. Release of official receiver[^c-57c541cb8bfd14f74526f11c25049dbe]
 
 *Extent: E+W*
 
-(1) The official receiver shall, before giving notice to the Secretary of State under section 299(2) (that the administration of the estate is for practical purposes complete), send out notice of his intention to do so to all creditors of which he is aware[^key-ad0a56f1b6da2f0ab5a8c6bc7c382a8f], and to the bankrupt.
+(1) The official receiver shall, before giving notice to the Secretary of State under section 299(2) (that the administration of the estate is for practical purposes complete), send out notice of his intention to do so to all creditors of which he is aware[^c-ad0a56f1b6da2f0ab5a8c6bc7c382a8f], and to the bankrupt.
 
 (2) The notice shall in each case be accompanied by a summary of the official receiver's receipts and payments as trustee.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57c541cb8bfd14f74526f11c25049dbe]: Commencement: [Rule 6.136](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.136) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-57c541cb8bfd14f74526f11c25049dbe]: Commencement: [Rule 6.136](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.136) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-ad0a56f1b6da2f0ab5a8c6bc7c382a8f]: Textual amendment: Words in [rule 6.136(1)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.136/1) substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [30](https://www.legislation.gov.uk/uksi/2004/584/article/30)
+[^c-ad0a56f1b6da2f0ab5a8c6bc7c382a8f]: Textual amendment: Words in [rule 6.136(1)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.136/1) substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [30](https://www.legislation.gov.uk/uksi/2004/584/article/30)

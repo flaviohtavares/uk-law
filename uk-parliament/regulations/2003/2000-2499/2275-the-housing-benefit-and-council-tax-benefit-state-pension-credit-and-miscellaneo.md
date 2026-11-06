@@ -57,36 +57,36 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (2) In these Regulations—
 
-- [^key-624a4d7dcbba3d8e7aa03b4366429b9a]...
+- [^c-624a4d7dcbba3d8e7aa03b4366429b9a]...
 - “**the Decisions and Appeals Regulations**” means the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 [^c507860];
-- [^key-624a4d7dcbba3d8e7aa03b4366429b9a]...
-- [^key-624a4d7dcbba3d8e7aa03b4366429b9a]...
+- [^c-624a4d7dcbba3d8e7aa03b4366429b9a]...
+- [^c-624a4d7dcbba3d8e7aa03b4366429b9a]...
 
-## 2. Amendment of the State Pension Credit Regulations[^key-a1f75999f42432669ce2128bc967c73a]
+## 2. Amendment of the State Pension Credit Regulations[^c-a1f75999f42432669ce2128bc967c73a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Amendment of the Housing Benefit Regulations
 
-(1) The Housing Benefit Regulations shall be amended in accordance with the following provisions of this regulation. *(affected by repeal, see note)*[^key-a1f75999f42432669ce2128bc967c73a]
+(1) The Housing Benefit Regulations shall be amended in accordance with the following provisions of this regulation. *(affected by repeal, see note)*[^c-a1f75999f42432669ce2128bc967c73a]
 
-(2) In regulation 4(5) (remunerative work), after the words “income support”, insert *(affected by repeal, see note)*[^key-a1f75999f42432669ce2128bc967c73a] “ , state pension credit ” *(affected by repeal, see note)*[^key-a1f75999f42432669ce2128bc967c73a] .
+(2) In regulation 4(5) (remunerative work), after the words “income support”, insert *(affected by repeal, see note)*[^c-a1f75999f42432669ce2128bc967c73a] “ , state pension credit ” *(affected by repeal, see note)*[^c-a1f75999f42432669ce2128bc967c73a] .
 
-(3) In regulation 63(7) *(affected by repeal, see note)*[^key-a1f75999f42432669ce2128bc967c73a] [^c507876] after sub-paragraph (d), insert the following sub-paragraph— *(affected by repeal, see note)*[^key-a1f75999f42432669ce2128bc967c73a]
+(3) In regulation 63(7) *(affected by repeal, see note)*[^c-a1f75999f42432669ce2128bc967c73a] [^c507876] after sub-paragraph (d), insert the following sub-paragraph— *(affected by repeal, see note)*[^c-a1f75999f42432669ce2128bc967c73a]
 
-> - (dd (affected by repeal, see note))[^key-a1f75999f42432669ce2128bc967c73a] he is a full-time student and the claimant or his partner has attained the age of 65; or *(affected by repeal, see note)*[^key-a1f75999f42432669ce2128bc967c73a]
+> - (dd (affected by repeal, see note))[^c-a1f75999f42432669ce2128bc967c73a] he is a full-time student and the claimant or his partner has attained the age of 65; or *(affected by repeal, see note)*[^c-a1f75999f42432669ce2128bc967c73a]
 
 .
 
 ## 4. Amendment of the Council Tax Benefit Regulations
 
-(1)[^key-bd74daa5c3d20f5239610d4faf7f51d3] The Council Tax Benefit Regulations shall be amended in accordance with the following provisions of this regulation. *(affected by repeal, see note)*[^key-bd74daa5c3d20f5239610d4faf7f51d3]
+(1)[^c-bd74daa5c3d20f5239610d4faf7f51d3] The Council Tax Benefit Regulations shall be amended in accordance with the following provisions of this regulation. *(affected by repeal, see note)*[^c-bd74daa5c3d20f5239610d4faf7f51d3]
 
-(2) In regulation 4(5) (remunerative work), after the words “income support” insert *(affected by repeal, see note)*[^key-bd74daa5c3d20f5239610d4faf7f51d3] “, state pension credit ” *(affected by repeal, see note)*[^key-bd74daa5c3d20f5239610d4faf7f51d3] .
+(2) In regulation 4(5) (remunerative work), after the words “income support” insert *(affected by repeal, see note)*[^c-bd74daa5c3d20f5239610d4faf7f51d3] “, state pension credit ” *(affected by repeal, see note)*[^c-bd74daa5c3d20f5239610d4faf7f51d3] .
 
-(3) In regulation 52(8), after sub-paragraph (b); insert— *(affected by repeal, see note)*[^key-bd74daa5c3d20f5239610d4faf7f51d3]
+(3) In regulation 52(8), after sub-paragraph (b); insert— *(affected by repeal, see note)*[^c-bd74daa5c3d20f5239610d4faf7f51d3]
 
-> - (c) who is on state pension credit and would not be treated as being in remunerative work, if they were not in receipt of that benefit *(affected by repeal, see note)*[^key-bd74daa5c3d20f5239610d4faf7f51d3]
+> - (c) who is on state pension credit and would not be treated as being in remunerative work, if they were not in receipt of that benefit *(affected by repeal, see note)*[^c-bd74daa5c3d20f5239610d4faf7f51d3]
 
 .
 
@@ -116,7 +116,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 >
 > the relevant authority may revise or further revise that original decision at any time.
 >
-> (7C) Where entitlement to housing benefit or council tax benefit has ceased (“decision A”) because entitlement to a relevant benefit within the meaning of section 8(3) of the 1998 Act has ceased (“decision B”), decision A may be revised at any time if the entitlement to the relevant benefit to which decision B applies has been reinstated in consequence of a decision made under section 9 or 10 of the 1998 Act or on an appeal under section 12 of that Act[^key-65ff45ba123860fa7966aeeb2cb5c6b5]
+> (7C) Where entitlement to housing benefit or council tax benefit has ceased (“decision A”) because entitlement to a relevant benefit within the meaning of section 8(3) of the 1998 Act has ceased (“decision B”), decision A may be revised at any time if the entitlement to the relevant benefit to which decision B applies has been reinstated in consequence of a decision made under section 9 or 10 of the 1998 Act or on an appeal under section 12 of that Act[^c-65ff45ba123860fa7966aeeb2cb5c6b5]
 
 .
 
@@ -175,15 +175,15 @@ These Regulations do not impose a charge on business.
 
 [^c507858]: Marginal citation: *See* sections 170 and 173(1)(b) of the Social Security Administration Act 1992.
 
-[^key-624a4d7dcbba3d8e7aa03b4366429b9a]: Textual amendment: Words in reg. 1(2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-624a4d7dcbba3d8e7aa03b4366429b9a]: Textual amendment: Words in reg. 1(2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c507860]: Marginal citation: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
 
-[^key-a1f75999f42432669ce2128bc967c73a]: Textual amendment: Regs. 2, 3 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-a1f75999f42432669ce2128bc967c73a]: Textual amendment: Regs. 2, 3 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c507876]: Marginal citation: Regulation 63(7) was amended by [S.I. 1990/546](https://www.legislation.gov.uk/uksi/1990/546), 1991/387, 1992/50 and 1998/563.
 
-[^key-bd74daa5c3d20f5239610d4faf7f51d3]: Textual amendment: Reg. 4 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-bd74daa5c3d20f5239610d4faf7f51d3]: Textual amendment: Reg. 4 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c507878]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
 
@@ -191,7 +191,7 @@ These Regulations do not impose a charge on business.
 
 [^c507880]: Marginal citation: Paragraph (7A) was inserted by [S.I. 2002/490](https://www.legislation.gov.uk/uksi/2002/490).
 
-[^key-65ff45ba123860fa7966aeeb2cb5c6b5]: Textual amendment: Words in reg. 5(3) inserted (5.10.2003) by [The Housing Benefit and Council Tax Benefit (State Pension Credit and Miscellaneous Amendments) (Amendment) Regulations 2003 (S.I. 2003/2526)](https://www.legislation.gov.uk/uksi/2003/2526), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2526/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/2526/regulation/2)
+[^c-65ff45ba123860fa7966aeeb2cb5c6b5]: Textual amendment: Words in reg. 5(3) inserted (5.10.2003) by [The Housing Benefit and Council Tax Benefit (State Pension Credit and Miscellaneous Amendments) (Amendment) Regulations 2003 (S.I. 2003/2526)](https://www.legislation.gov.uk/uksi/2003/2526), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2526/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/2526/regulation/2)
 
 [^c507881]: Marginal citation: Sub-paragraph (h) was inserted by [S.I. 2002/490](https://www.legislation.gov.uk/uksi/2002/490).
 

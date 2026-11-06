@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 33. Administration of scheme etc.[^key-14dfaf79f4fa1e379361629db2b97a4a]
+## 33. Administration of scheme etc.[^c-14dfaf79f4fa1e379361629db2b97a4a]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14dfaf79f4fa1e379361629db2b97a4a]: Commencement: [S. 33](https://www.legislation.gov.uk/ukcm/2018/9/section/33) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-14dfaf79f4fa1e379361629db2b97a4a]: Commencement: [S. 33](https://www.legislation.gov.uk/ukcm/2018/9/section/33) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

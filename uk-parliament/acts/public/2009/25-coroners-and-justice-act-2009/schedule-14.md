@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 14 — Schedule 1A to the Youth Justice and Criminal Evidence Act 1999[^key-a79d2921266175cc2aa568beade503ee]
+## Schedule 14 — Schedule 1A to the Youth Justice and Criminal Evidence Act 1999[^c-a79d2921266175cc2aa568beade503ee]
 
 *Extent: E+W*
 
 Section 99
 
-[^key-a79d2921266175cc2aa568beade503ee]
+[^c-a79d2921266175cc2aa568beade503ee]
 
 The following is the Schedule to be inserted as Schedule 1A to the Youth Justice and Criminal Evidence Act 1999 (c. 23)—
 
@@ -129,4 +129,4 @@ The following is the Schedule to be inserted as Schedule 1A to the Youth Justice
 
 ## Annotations
 
-[^key-a79d2921266175cc2aa568beade503ee]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ukpga/2009/25/schedule/14) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(f)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/f)
+[^c-a79d2921266175cc2aa568beade503ee]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ukpga/2009/25/schedule/14) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(f)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/f)

@@ -32,7 +32,7 @@ The sum of those amounts and values is “the total benefits”.
 
 Deduct from the total benefits the total amount of income treated as arising to the individual under section 732(2) for earlier tax years as a result of the relevant transfer or associated operations.
 
-The result is “the total untaxed benefits” [^key-f97411932bd0c3ec175cc32e214b1fa6]....
+The result is “the total untaxed benefits” [^c-f97411932bd0c3ec175cc32e214b1fa6]....
 
 *Step 3*
 
@@ -68,7 +68,7 @@ If the available relevant income is lower, it is the amount of income treated as
 
 (2) Subsection (1) is subject to section 734 (reduction in amount charged: previous capital gains tax charge).
 
-(2A)[^key-d7b8645c842515aa8807e415bc2afca0] For the purposes of subsection (1), the amount deducted at Step 2 does not include the amount of any income on which tax was not charged under section 731 by virtue of—
+(2A)[^c-d7b8645c842515aa8807e415bc2afca0] For the purposes of subsection (1), the amount deducted at Step 2 does not include the amount of any income on which tax was not charged under section 731 by virtue of—
 
 - (a) section 735AD(2) (transferor not taxable under benefits charge except where benefit matched to protected foreign-source income etc), or
 - (b) section 731(1A) (equivalent provision for tax years 2024-25 and earlier).
@@ -95,9 +95,9 @@ the income is treated for later tax years as not having been charged to income t
 
 [^M_C_7dff7fa6-8e3e-4a26-a3f6-5ec0a63ac0b7]: Modification: S. 733(1) modified (retrospective to 6.4.2025 for the tax year 2025-26 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 53(8)(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/53/8)
 
-[^key-f97411932bd0c3ec175cc32e214b1fa6]: Textual amendment: Words in [s. 733(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/733/1) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 40(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/40/2), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-f97411932bd0c3ec175cc32e214b1fa6]: Textual amendment: Words in [s. 733(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/733/1) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 40(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/40/2), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
 
-[^key-d7b8645c842515aa8807e415bc2afca0]: Textual amendment: [S. 733(2A)-(2D)](https://www.legislation.gov.uk/ukpga/2007/3/section/733/2A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 40(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/40/3), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-d7b8645c842515aa8807e415bc2afca0]: Textual amendment: [S. 733(2A)-(2D)](https://www.legislation.gov.uk/ukpga/2007/3/section/733/2A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 40(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/40/3), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
 
 [^M_F_94133dff-0cb4-4503-c92e-5e6d865e05e4]: Textual amendment: Words in s. 733(2B)(a) substituted (retrospective to 6.4.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 44(2)(a)(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/2/a)
 

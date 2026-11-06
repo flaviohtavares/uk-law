@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Duties to notify IFR of change in circumstances relating to incumbent owner or officer[^key-7aedf7cf8d0ac47696c55c2d3a1db178][^key-cbe10d366b596307c901e3748c8eca26]
+## 33. Duties to notify IFR of change in circumstances relating to incumbent owner or officer[^c-7aedf7cf8d0ac47696c55c2d3a1db178][^c-cbe10d366b596307c901e3748c8eca26]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7aedf7cf8d0ac47696c55c2d3a1db178]: Commencement: S. 33 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-7aedf7cf8d0ac47696c55c2d3a1db178]: Commencement: S. 33 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-cbe10d366b596307c901e3748c8eca26]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2025/21/section/33) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/ii)
+[^c-cbe10d366b596307c901e3748c8eca26]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2025/21/section/33) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/ii)

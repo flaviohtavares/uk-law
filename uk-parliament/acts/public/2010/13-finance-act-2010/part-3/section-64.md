@@ -31,7 +31,7 @@ summary: ''
 (3) In this section—
 
 - “**the FSCS**” means the Financial Services Compensation Scheme (established under Part 15 of FISMA 2000);
-- “**protected contracts of insurance**” has the same meaning as in the PRA Handbook made by the Prudential Regulation Authority[^key-2faaa7d4156c916d360ca2a381a8212b] under that Act as it has effect from time to time.
+- “**protected contracts of insurance**” has the same meaning as in the PRA Handbook made by the Prudential Regulation Authority[^c-2faaa7d4156c916d360ca2a381a8212b] under that Act as it has effect from time to time.
 
 (4) The provision that may be made by regulations under this section includes provision imposing any of the relevant taxes (as well as provisions for exemptions or reliefs).
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2faaa7d4156c916d360ca2a381a8212b]: Textual amendment: Words in [s. 64(3)](https://www.legislation.gov.uk/ukpga/2010/13/section/64/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 14(2)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/14/2)
+[^c-2faaa7d4156c916d360ca2a381a8212b]: Textual amendment: Words in [s. 64(3)](https://www.legislation.gov.uk/ukpga/2010/13/section/64/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 14(2)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/14/2)

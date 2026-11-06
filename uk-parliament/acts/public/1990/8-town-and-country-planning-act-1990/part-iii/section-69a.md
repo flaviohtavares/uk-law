@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69A. The register: additional requirements in relation to England[^key-e99a1165dcf8a8b4ef165924e68f7368]
+## 69A. The register: additional requirements in relation to England[^c-e99a1165dcf8a8b4ef165924e68f7368]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e99a1165dcf8a8b4ef165924e68f7368]: Textual amendment: S. 69A inserted (27.4.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 17](https://www.legislation.gov.uk/ukpga/2017/20/section/17), [46(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/3)
+[^c-e99a1165dcf8a8b4ef165924e68f7368]: Textual amendment: S. 69A inserted (27.4.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 17](https://www.legislation.gov.uk/ukpga/2017/20/section/17), [46(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/3)

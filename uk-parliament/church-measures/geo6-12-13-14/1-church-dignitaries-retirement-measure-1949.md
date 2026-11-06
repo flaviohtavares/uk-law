@@ -28,7 +28,7 @@ Church Dignitaries (Retirement) Measure 1949
 
 1949 No. 1
 
-A Measure passed by the National Assembly of the Church of England To make provision for the retirement of deans, provosts, archdeacons, canons, prebendaries and other church dignitaries if incapacitated by age or physical or mental infirmity, or if guilty of unbecoming conduct or neglect of duty, and for purposes connected with the matters aforesaid.[^key-158fb28d1defa664ffed38b97cedfb32]
+A Measure passed by the National Assembly of the Church of England To make provision for the retirement of deans, provosts, archdeacons, canons, prebendaries and other church dignitaries if incapacitated by age or physical or mental infirmity, or if guilty of unbecoming conduct or neglect of duty, and for purposes connected with the matters aforesaid.[^c-158fb28d1defa664ffed38b97cedfb32]
 
 \[14th July 1949\]
 
@@ -152,7 +152,7 @@ This Measure may be cited as the Church Dignitaries (Retirement) Measure 1949.
 
 ## Annotations
 
-[^key-158fb28d1defa664ffed38b97cedfb32]: Modification: Measure restricted (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 3(7)](https://www.legislation.gov.uk/ukcm/2009/1/section/3/7), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-158fb28d1defa664ffed38b97cedfb32]: Modification: Measure restricted (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 3(7)](https://www.legislation.gov.uk/ukcm/2009/1/section/3/7), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
 [^c920736]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/ukcm/Geo6/12-13-14/1/section/3/1)(*a*) substituted by [Clergy Pensions Measure 1961 (No. 3)](https://www.legislation.gov.uk/ukcm/1961/3), [Sch. 2](https://www.legislation.gov.uk/ukcm/1961/3/schedule/2)
 

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Designation criteria: meaning of “involved person”[^key-34ad665f91276485194974bb71ba1b42][^key-3cb757b6a37409e7f0d186c65c1db0f5]
+## 6. Designation criteria: meaning of “involved person”[^c-34ad665f91276485194974bb71ba1b42][^c-3cb757b6a37409e7f0d186c65c1db0f5]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5bc6ce5f76d2de04b327ec161109eb5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-5bc6ce5f76d2de04b327ec161109eb5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) For the purposes of regulation 5A (conditions for the designation of persons by name)[^key-ddf379bb149667404522f48cb92f609b] an “**involved person**” means a person who—
+(2) For the purposes of regulation 5A (conditions for the designation of persons by name)[^c-ddf379bb149667404522f48cb92f609b] an “**involved person**” means a person who—
 
 - (a) is or has been involved in—
   - (i) the commission of a serious human rights violation or abuse in Libya;
@@ -59,13 +59,13 @@ summary: ''
 
 ## Annotations
 
-[^key-34ad665f91276485194974bb71ba1b42]: Commencement: Reg. 6 in force at 30.12.2020, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/2/e)
+[^c-34ad665f91276485194974bb71ba1b42]: Commencement: Reg. 6 in force at 30.12.2020, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/2/e)
 
-[^key-3cb757b6a37409e7f0d186c65c1db0f5]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1665/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [26(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/26/4/a)
+[^c-3cb757b6a37409e7f0d186c65c1db0f5]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1665/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [26(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/26/4/a)
 
-[^key-5bc6ce5f76d2de04b327ec161109eb5d]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [26(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/26/4/b)
+[^c-5bc6ce5f76d2de04b327ec161109eb5d]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [26(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/26/4/b)
 
-[^key-ddf379bb149667404522f48cb92f609b]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [26(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/26/4/c)
+[^c-ddf379bb149667404522f48cb92f609b]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [26(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/26/4/c)
 
 [^c24411711]: Marginal citation: “Financial services” is defined in section 61 of the Act.
 

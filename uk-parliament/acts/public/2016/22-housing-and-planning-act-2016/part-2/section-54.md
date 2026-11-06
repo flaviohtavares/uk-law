@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Meaning of “letting agent” and related expressions[^key-e9f0828dba1e2bde95b9cc3f8445f247]
+## 54. Meaning of “letting agent” and related expressions[^c-e9f0828dba1e2bde95b9cc3f8445f247]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9f0828dba1e2bde95b9cc3f8445f247]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2016/22/section/54) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/e)
+[^c-e9f0828dba1e2bde95b9cc3f8445f247]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2016/22/section/54) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/e)

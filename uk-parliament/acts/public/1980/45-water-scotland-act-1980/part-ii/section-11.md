@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Power of Secretary of State on default of authority or board.[^c13458311][^key-b56baf4969b9867bb0e2124f2f8e9c67][^c13458301]
+## 11. Power of Secretary of State on default of authority or board.[^c13458311][^c-b56baf4969b9867bb0e2124f2f8e9c67][^c13458301]
 
 *Extent: S*
 
@@ -52,7 +52,7 @@ or[^c18121531]
 
 [^c13458311]: Modification: S. 11: Transfer of functions (*temp.* from 6.5.1999 until 1.7.1999) by [S.I. 1999/901](https://www.legislation.gov.uk/uksi/1999/901), [arts. 2](https://www.legislation.gov.uk/uksi/1999/901/article/2), [5](https://www.legislation.gov.uk/uksi/1999/901/article/5), [Sch.](https://www.legislation.gov.uk/uksi/1999/901/schedule); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-b56baf4969b9867bb0e2124f2f8e9c67]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1980/45/section/11) modified (1.1.2015) by [The Public Water Supplies (Scotland) Regulations 2014 (S.S.I. 2014/364)](https://www.legislation.gov.uk/ssi/2014/364), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/1), [46(2)](https://www.legislation.gov.uk/ssi/2014/364/regulation/46/2) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/3)[(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/4))
+[^c-b56baf4969b9867bb0e2124f2f8e9c67]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1980/45/section/11) modified (1.1.2015) by [The Public Water Supplies (Scotland) Regulations 2014 (S.S.I. 2014/364)](https://www.legislation.gov.uk/ssi/2014/364), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/1), [46(2)](https://www.legislation.gov.uk/ssi/2014/364/regulation/46/2) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/3)[(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/4))
 
 [^c13458301]: Modification: S. 11 extended (1.10.1991) by [Natural Heritage (Scotland) Act 1991 (c. 28, SIF 46:1, 130)](https://www.legislation.gov.uk/ukpga/1991/28), [s. 20(6)(b)](https://www.legislation.gov.uk/ukpga/1991/28/section/20/6/b)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37A. Disclosure of Revenue and Customs information[^key-2e25586515503988fceb2de4dac2d3c5]
+## 37A. Disclosure of Revenue and Customs information[^c-2e25586515503988fceb2de4dac2d3c5]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e25586515503988fceb2de4dac2d3c5]: Textual amendment: [Ss. 37A-37C](https://www.legislation.gov.uk/ukpga/1991/59/section/37A) and cross-heading inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 97(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/97/2), [147(2)(n)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/n) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-2e25586515503988fceb2de4dac2d3c5]: Textual amendment: [Ss. 37A-37C](https://www.legislation.gov.uk/ukpga/1991/59/section/37A) and cross-heading inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 97(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/97/2), [147(2)(n)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/n) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))

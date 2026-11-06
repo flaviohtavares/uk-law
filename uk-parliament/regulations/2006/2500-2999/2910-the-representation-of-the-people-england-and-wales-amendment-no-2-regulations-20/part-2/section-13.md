@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Amendment to registration appeals[^key-6741a17a0fdcf1d142ea532f2e02b34a]
+## 13. Amendment to registration appeals[^c-6741a17a0fdcf1d142ea532f2e02b34a]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ For regulation 32(1) substitute—
 
 ## Annotations
 
-[^key-6741a17a0fdcf1d142ea532f2e02b34a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/2910/regulation/13) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-6741a17a0fdcf1d142ea532f2e02b34a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2006/2910/regulation/13) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00027]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); subsection (1)(a) was amended by paragraph 14(1) and (2) of Schedule 1 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2).
 

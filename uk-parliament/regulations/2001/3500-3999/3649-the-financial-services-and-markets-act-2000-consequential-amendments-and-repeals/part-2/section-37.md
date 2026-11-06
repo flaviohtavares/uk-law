@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Share dealing by directors etc.: supplementary provision[^key-892859cc1a47fa289272686b0b430db0]
+## 37. Share dealing by directors etc.: supplementary provision[^c-892859cc1a47fa289272686b0b430db0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-892859cc1a47fa289272686b0b430db0]: Commencement: Art. 37 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-892859cc1a47fa289272686b0b430db0]: Commencement: Art. 37 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00042]: Footnote: Amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), Schedule 16, paragraph 25.

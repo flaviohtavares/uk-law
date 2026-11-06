@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Staffing of the residential family centre[^key-7d2e5d5e51466b8e59a092af50599602]
+## 17. Staffing of the residential family centre[^c-7d2e5d5e51466b8e59a092af50599602]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d2e5d5e51466b8e59a092af50599602]: Commencement: Reg. 17 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-7d2e5d5e51466b8e59a092af50599602]: Commencement: Reg. 17 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)

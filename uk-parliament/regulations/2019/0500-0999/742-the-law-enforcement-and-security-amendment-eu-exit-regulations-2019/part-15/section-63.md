@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Amendment to the Firearms (Amendment) Act 1988 (Amendment) Regulations 2011[^key-a6bd169d7a49ebc0e7c3049ca8319746]
+## 63. Amendment to the Firearms (Amendment) Act 1988 (Amendment) Regulations 2011[^c-a6bd169d7a49ebc0e7c3049ca8319746]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Firearms (Amendment) Act 1988 (Amendment) Regulations 2011 [^c23691581], 
 
 ## Annotations
 
-[^key-a6bd169d7a49ebc0e7c3049ca8319746]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a6bd169d7a49ebc0e7c3049ca8319746]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691581]: Marginal citation: [S.I. 2011/2175](https://www.legislation.gov.uk/uksi/2011/2175).

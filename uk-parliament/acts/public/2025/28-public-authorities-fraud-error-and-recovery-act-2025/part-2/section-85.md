@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 85. Amendments to the Criminal Justice and Police Act 2001[^key-db59f838fca2076283e562854f434129]
+## 85. Amendments to the Criminal Justice and Police Act 2001[^c-db59f838fca2076283e562854f434129]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db59f838fca2076283e562854f434129]: Commencement: S. 85 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-db59f838fca2076283e562854f434129]: Commencement: S. 85 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

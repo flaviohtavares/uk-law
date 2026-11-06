@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Functions of Governor[^key-c7c183f0792e32ec18969a0443bab2e1]
+## 13. Functions of Governor[^c-c7c183f0792e32ec18969a0443bab2e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where, prior to the general election referred to in section 8(1), the Governor i
 
 ## Annotations
 
-[^key-c7c183f0792e32ec18969a0443bab2e1]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2011/1681/article/13) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
+[^c-c7c183f0792e32ec18969a0443bab2e1]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2011/1681/article/13) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)

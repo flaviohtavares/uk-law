@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Power of the Scottish Ministers to adjust restricted legal services[^key-10a22d0f9db544722a72508990dae548]
+## 94. Power of the Scottish Ministers to adjust restricted legal services[^c-10a22d0f9db544722a72508990dae548]
 
 *Extent: S*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10a22d0f9db544722a72508990dae548]: Commencement: S. 94 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-10a22d0f9db544722a72508990dae548]: Commencement: S. 94 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

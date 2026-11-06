@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Notification of beginning and ending of certain mining operations.[^key-c982cb3183422ea41d8d019494fb5fdd]
+## 118. Notification of beginning and ending of certain mining operations.[^c-c982cb3183422ea41d8d019494fb5fdd]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c982cb3183422ea41d8d019494fb5fdd]: Textual amendment: [S. 118](https://www.legislation.gov.uk/apni/1969/6/section/118) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-c982cb3183422ea41d8d019494fb5fdd]: Textual amendment: [S. 118](https://www.legislation.gov.uk/apni/1969/6/section/118) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

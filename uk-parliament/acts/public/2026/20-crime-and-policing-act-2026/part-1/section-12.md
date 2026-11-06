@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Arranging or facilitating begging for gain[^key-013b498926989fbba4f39d1580f2bce9][^key-4bf3c340e105bb9e95ac04b3886b437d]
+## 12. Arranging or facilitating begging for gain[^c-013b498926989fbba4f39d1580f2bce9][^c-4bf3c340e105bb9e95ac04b3886b437d]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-013b498926989fbba4f39d1580f2bce9]: Commencement: S. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-013b498926989fbba4f39d1580f2bce9]: Commencement: S. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-4bf3c340e105bb9e95ac04b3886b437d]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2026/20/section/12) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/e)
+[^c-4bf3c340e105bb9e95ac04b3886b437d]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2026/20/section/12) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/e)

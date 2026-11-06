@@ -40,11 +40,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W+S*
 
-### 1. Maternity pay period[^key-4ec02530ba41f8c5a7207aaab0b3f890][^key-badbe696c5bd74367a85c23df3035696]
+### 1. Maternity pay period[^c-4ec02530ba41f8c5a7207aaab0b3f890][^c-badbe696c5bd74367a85c23df3035696]
 
 In the Social Security Contributions and Benefits Act 1992 (c. 4) (in this Act referred to as “**SSCBA 1992**”), in section 165(1) (which specifies the maximum period that may be prescribed as the period for which statutory maternity pay and, by virtue of section 35(2) of that Act, maternity allowance, is payable), for “26 weeks” substitute “ 52 weeks ”.
 
-### 2. Adoption pay period[^key-14623576777e7f62ddd479aa73df6d64][^key-b8f3e1cb4e4d2792038c6be51b15baf3]
+### 2. Adoption pay period[^c-14623576777e7f62ddd479aa73df6d64][^c-b8f3e1cb4e4d2792038c6be51b15baf3]
 
 In section 171ZN(2) of SSCBA 1992 (which specifies the maximum period that may be prescribed as the period for which statutory adoption pay is payable), for “26 weeks” substitute “ 52 weeks ”.
 
@@ -52,53 +52,53 @@ In section 171ZN(2) of SSCBA 1992 (which specifies the maximum period that may b
 
 *Extent: E+W+S*
 
-### 3. Additional paternity leave: birth[^key-ce7c0ab6a70659181d24df6096c3304e]
+### 3. Additional paternity leave: birth[^c-ce7c0ab6a70659181d24df6096c3304e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Additional paternity leave: adoption[^key-ce7c0ab6a70659181d24df6096c3304e]
+### 4. Additional paternity leave: adoption[^c-ce7c0ab6a70659181d24df6096c3304e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Rights during and after additional paternity leave[^key-ce7c0ab6a70659181d24df6096c3304e]
+### 5. Rights during and after additional paternity leave[^c-ce7c0ab6a70659181d24df6096c3304e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Entitlement to additional statutory paternity pay: birth[^key-ce7c0ab6a70659181d24df6096c3304e]
+### 6. Entitlement to additional statutory paternity pay: birth[^c-ce7c0ab6a70659181d24df6096c3304e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Entitlement to additional statutory paternity pay: adoption[^key-ce7c0ab6a70659181d24df6096c3304e]
+### 7. Entitlement to additional statutory paternity pay: adoption[^c-ce7c0ab6a70659181d24df6096c3304e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Entitlement to additional statutory paternity pay: general[^key-ce7c0ab6a70659181d24df6096c3304e]
+### 8. Entitlement to additional statutory paternity pay: general[^c-ce7c0ab6a70659181d24df6096c3304e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Liability to make payments of additional statutory paternity pay[^key-ce7c0ab6a70659181d24df6096c3304e]
+### 9. Liability to make payments of additional statutory paternity pay[^c-ce7c0ab6a70659181d24df6096c3304e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Additional statutory paternity pay: rate and period of pay[^key-ce7c0ab6a70659181d24df6096c3304e]
+### 10. Additional statutory paternity pay: rate and period of pay[^c-ce7c0ab6a70659181d24df6096c3304e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Leave and pay related to birth or adoption: further amendments
 
-### 11. Leave and pay related to birth or adoption: further amendments[^key-03756ac210d5b34835f0a1b0598e8a39][^key-efcf5f5a3135de03f952c3afa4c3acab][^key-6828965cdde290cc5dd661dda8e16858]
+### 11. Leave and pay related to birth or adoption: further amendments[^c-03756ac210d5b34835f0a1b0598e8a39][^c-efcf5f5a3135de03f952c3afa4c3acab][^c-6828965cdde290cc5dd661dda8e16858]
 
-(1)[^key-f3b95c0a180761a62b15595ff8956192][^M_I_369038f6-f1d2-4420-8220-1fd40348b251] Schedule 1 (which contains further amendments relating to statutory leave and pay) has effect.
+(1)[^c-f3b95c0a180761a62b15595ff8956192][^M_I_369038f6-f1d2-4420-8220-1fd40348b251] Schedule 1 (which contains further amendments relating to statutory leave and pay) has effect.
 
-(2)[^key-72e52274294c55dd8ce62f23b9d82776][^key-9260b80acf0ac694524a45afeb48f8f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-72e52274294c55dd8ce62f23b9d82776][^c-9260b80acf0ac694524a45afeb48f8f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9260b80acf0ac694524a45afeb48f8f5] Any reference to ordinary statutory paternity pay in any enactment (including this Act and any enactment amended by this Act) or any instrument or document is to be read, in relation to any time before the commencement of paragraphs 12 and 13 of Schedule 1, as a reference to statutory paternity pay.
+(3)[^c-9260b80acf0ac694524a45afeb48f8f5] Any reference to ordinary statutory paternity pay in any enactment (including this Act and any enactment amended by this Act) or any instrument or document is to be read, in relation to any time before the commencement of paragraphs 12 and 13 of Schedule 1, as a reference to statutory paternity pay.
 
 ## Miscellaneous provisions about employment rights
 
 *Extent: E+W+S*
 
-### 12. Flexible working[^key-72cb432b9d9d82899a0e5bd8c2b0cc81]
+### 12. Flexible working[^c-72cb432b9d9d82899a0e5bd8c2b0cc81]
 
 (1) Section 80F of ERA 1996 (statutory right to request contract variation) is amended as follows.
 
@@ -121,7 +121,7 @@ In section 171ZN(2) of SSCBA 1992 (which specifies the maximum period that may b
 > - “**child**” means a person aged under 18;
 > - “**prescribed**” means prescribed by regulations made by the Secretary of State.
 
-### 13. Annual leave[^key-3012882fb36fc0474e88fec21c826052]
+### 13. Annual leave[^c-3012882fb36fc0474e88fec21c826052]
 
 (1) The Secretary of State may by regulations make provision conferring on workers the right, except in prescribed cases, to a prescribed amount of annual leave in each leave year, as defined for the purposes of the regulations.
 
@@ -133,7 +133,7 @@ In section 171ZN(2) of SSCBA 1992 (which specifies the maximum period that may b
 - (d) make provision for the payment of compensation in prescribed cases to a worker who has not taken leave to which he is entitled;
 - (e) make provision as to the relationship between the rights conferred by the regulations and a worker's rights to leave, pay or compensation under any contract or under any Act or subordinate legislation;
 - (f) enable a worker to present a complaint to an employment tribunal that his employer has refused to permit him to exercise any right he has under the regulations, or has failed to pay him any amount due to him under the regulations;
-- (g)[^key-fdcb63b8867b0ae05f3efe9addf84171] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-fdcb63b8867b0ae05f3efe9addf84171] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Regulations under this section may make provision as to—
 
@@ -145,7 +145,7 @@ In section 171ZN(2) of SSCBA 1992 (which specifies the maximum period that may b
 - (a) make provision applying to—
   - (i) Crown employment and persons in Crown employment;
   - (ii) service as a member of the armed forces;
-- (b)[^key-79ea7cbfce66aac050e4798d8d38a0ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-79ea7cbfce66aac050e4798d8d38a0ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Regulations under this section may not make provision in relation to the subject-matter of the Agricultural Wages (Scotland) Act 1949 (c. 30) (as that Act had effect on 1st July 1999).
 
@@ -159,12 +159,12 @@ In section 171ZN(2) of SSCBA 1992 (which specifies the maximum period that may b
 
 (8) In this section—
 
-- [^key-7bc3ee3b4b2724e350bc73d25326cdde]...
+- [^c-7bc3ee3b4b2724e350bc73d25326cdde]...
 - “**the armed forces**” means any of the naval, military or air forces of the Crown;
 - “**Crown employment**” has the meaning given by section 191(3) of ERA 1996;
 - “**subordinate legislation**” has the same meaning as in the Interpretation Act 1978 (c. 30).
 
-### 14. Increase of maximum amount of a week's pay for certain purposes[^key-bd28b7df715ab9156c5226120841ab45]
+### 14. Increase of maximum amount of a week's pay for certain purposes[^c-bd28b7df715ab9156c5226120841ab45]
 
 (1) This section applies to the sums specified in the following provisions—
 
@@ -187,7 +187,7 @@ In section 171ZN(2) of SSCBA 1992 (which specifies the maximum period that may b
 
 ## Supplementary
 
-### 15. Repeals[^key-03497e59bc97c593ce139d863855a288][^key-c61cdd605812153cabcaf304df45388d]
+### 15. Repeals[^c-03497e59bc97c593ce139d863855a288][^c-c61cdd605812153cabcaf304df45388d]
 
 The enactments specified in Schedule 2 are repealed to the extent specified.
 
@@ -249,7 +249,7 @@ Section 11
 
 *Extent: E+W+S*
 
-**1.**[^key-080a8d66521f64c3a7bcd859d59fcbad] (1) In Schedule 5 to the Social Security Act 1989 (employment-related schemes for pensions and other benefits: equal treatment for men and women), paragraph 5A (unfair paternity leave provisions) is amended as follows.
+**1.**[^c-080a8d66521f64c3a7bcd859d59fcbad] (1) In Schedule 5 to the Social Security Act 1989 (employment-related schemes for pensions and other benefits: equal treatment for men and women), paragraph 5A (unfair paternity leave provisions) is amended as follows.
 
 (2) In sub-paragraph (3), for “or statutory paternity pay” substitute “ , ordinary statutory paternity pay or additional statutory paternity pay ”.
 
@@ -258,11 +258,11 @@ Section 11
 - (a) in paragraph (a), for “or (7)” substitute “ , (7) or (8) ”, and
 - (b) in paragraph (b), for “or statutory paternity pay” substitute “ , ordinary statutory paternity pay or additional statutory paternity pay ”.
 
-(4)[^key-7d5e98394b935387f95427f2dd748db3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7d5e98394b935387f95427f2dd748db3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Finance Act 1989 (c. 26)
 
-**2.**[^key-3b335e08d5d9b42cf1b02e64a2fd6f50] In section 182 of the Finance Act 1989 (disclosure of information), in each of the following provisions—
+**2.**[^c-3b335e08d5d9b42cf1b02e64a2fd6f50] In section 182 of the Finance Act 1989 (disclosure of information), in each of the following provisions—
 
 - (a) subsection (1)(c),
 - (b) subsection (2A)(a),
@@ -276,9 +276,9 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 *Extent: E+W+S*
 
-**3.**[^key-4d8c6ec738a048e271beb8f0bd787358] In section 1(5) of SSCBA 1992 (which provides for payment by way of additional contributions out of money provided by Parliament of an annual amount equal to statutory sick pay, statutory maternity pay, statutory paternity pay and statutory adoption pay recovered by employers and others), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
+**3.**[^c-4d8c6ec738a048e271beb8f0bd787358] In section 1(5) of SSCBA 1992 (which provides for payment by way of additional contributions out of money provided by Parliament of an annual amount equal to statutory sick pay, statutory maternity pay, statutory paternity pay and statutory adoption pay recovered by employers and others), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
-**4.**[^key-f8a0afacb14383912746b617adb4b152] In section 4(1) of SSCBA 1992 (payments treated as remuneration and earnings), in paragraph (a), for sub-paragraphs (iii) and (iv) substitute—
+**4.**[^c-f8a0afacb14383912746b617adb4b152] In section 4(1) of SSCBA 1992 (payments treated as remuneration and earnings), in paragraph (a), for sub-paragraphs (iii) and (iv) substitute—
 
 > - (iii) ordinary statutory paternity pay;
 > - (iv) additional statutory paternity pay; or
@@ -286,16 +286,16 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 .
 
-**5.**[^key-66fc6d4ea32baf295d1f03095d3c6f1b] In section 4C of SSCBA 1992 (power to make provision in consequence of provision made by or by virtue of section 4B(2)), in subsection (11), in the definition of “statutory payment”, for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
+**5.**[^c-66fc6d4ea32baf295d1f03095d3c6f1b] In section 4C of SSCBA 1992 (power to make provision in consequence of provision made by or by virtue of section 4B(2)), in subsection (11), in the definition of “statutory payment”, for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
-**6.**[^key-29c5a28b7287fc0c1b8ef2f7d91f9941][^key-25076785e97dccc0f2f2bb7e9663327c] In section 35 of SSCBA 1992 (state maternity allowance), in subsection (3)(a) (power by regulations to prescribe cases in which a woman is disqualified from receiving a maternity allowance), for sub-paragraph (i) substitute—
+**6.**[^c-29c5a28b7287fc0c1b8ef2f7d91f9941][^c-25076785e97dccc0f2f2bb7e9663327c] In section 35 of SSCBA 1992 (state maternity allowance), in subsection (3)(a) (power by regulations to prescribe cases in which a woman is disqualified from receiving a maternity allowance), for sub-paragraph (i) substitute—
 
 > - (i) during the maternity allowance period, except in prescribed cases, she does any work in employment as an employed or self-employed earner;
 > - (ia) during the maternity allowance period she fails without good cause to observe any prescribed rules of behaviour; or
 
 .
 
-**7.**[^key-5156c8871188fa4fa64fb1a6ba2095db][^key-db34164cff76ad835445a63fe7edb35f] (1) Section 165 of SSCBA 1992 (the maternity pay period) is amended as follows.
+**7.**[^c-5156c8871188fa4fa64fb1a6ba2095db][^c-db34164cff76ad835445a63fe7edb35f] (1) Section 165 of SSCBA 1992 (the maternity pay period) is amended as follows.
 
 (2) For subsections (2) and (3) substitute—
 
@@ -309,7 +309,7 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 > (8) In subsections (1), (4) and (6) “**week**” means a period of seven days beginning with the day of the week on which the maternity pay period begins.
 
-**8.**[^key-cbd5d2671b05e91d8062e5020f2934b2] (1) Section 166 of SSCBA 1992 (rate of statutory maternity pay) is amended as follows.
+**8.**[^c-cbd5d2671b05e91d8062e5020f2934b2] (1) Section 166 of SSCBA 1992 (rate of statutory maternity pay) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -319,7 +319,7 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 > (4) Where for any purpose of this Part of this Act or of regulations it is necessary to calculate the daily rate of statutory maternity pay, the amount payable by way of statutory maternity pay for any day shall be taken as one seventh of the weekly rate.
 
-**9.**[^key-92203f67257444de29deb2dc93d9f0e4][^key-bd7ff0231c4853ca8937aaf9dba3dd8f] (1) Section 171 of SSCBA 1992 (interpretation of Part 12) is amended as follows.
+**9.**[^c-92203f67257444de29deb2dc93d9f0e4][^c-bd7ff0231c4853ca8937aaf9dba3dd8f] (1) Section 171 of SSCBA 1992 (interpretation of Part 12) is amended as follows.
 
 (2) In subsection (1), omit the definition of “week”.
 
@@ -327,17 +327,17 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 > (1A) In this Part, except section 165(1), (4) and (6), section 166(1) and paragraph 3(2) of Schedule 13, “**week**” means a period of 7 days beginning with Sunday or such other period as may be prescribed in relation to any particular case or class of case.
 
-**10.**[^key-773483891341d7641b4da8667c7d23db] For the heading to Part 12ZA of SSCBA 1992 (statutory paternity pay), substitute “ ORDINARY AND ADDITIONAL STATUTORY PATERNITY PAY ”.
+**10.**[^c-773483891341d7641b4da8667c7d23db] For the heading to Part 12ZA of SSCBA 1992 (statutory paternity pay), substitute “ ORDINARY AND ADDITIONAL STATUTORY PATERNITY PAY ”.
 
-**11.**[^key-6f35194eba33fee11fbda3fec6308bd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-6f35194eba33fee11fbda3fec6308bd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-749b01c8946d69af616fffc259b826f3] In section 171ZA of SSCBA 1992 (entitlement: birth), in subsections (1) and (4), for “statutory paternity pay” substitute “ ordinary statutory paternity pay ”.
+**12.**[^c-749b01c8946d69af616fffc259b826f3] In section 171ZA of SSCBA 1992 (entitlement: birth), in subsections (1) and (4), for “statutory paternity pay” substitute “ ordinary statutory paternity pay ”.
 
-**13.**[^key-f094e98705dd927ef9ae2d8c8e54281d] In section 171ZB of SSCBA 1992 (entitlement: adoption), in subsections (1), (4) and (6), for “statutory paternity pay” substitute “ ordinary statutory paternity pay ”.
+**13.**[^c-f094e98705dd927ef9ae2d8c8e54281d] In section 171ZB of SSCBA 1992 (entitlement: adoption), in subsections (1), (4) and (6), for “statutory paternity pay” substitute “ ordinary statutory paternity pay ”.
 
-**14.**[^key-bf84290bd06da6602d02173e7918bff5] In section 171ZC of SSCBA 1992 (entitlement: general), for “statutory paternity pay” (wherever occurring) substitute “ ordinary statutory paternity pay ”.
+**14.**[^c-bf84290bd06da6602d02173e7918bff5] In section 171ZC of SSCBA 1992 (entitlement: general), for “statutory paternity pay” (wherever occurring) substitute “ ordinary statutory paternity pay ”.
 
-**15.**[^key-1bdc21c6bcf713f34b47850f82465d7d] (1) Section 171ZD of SSCBA 1992 (liability to make payments) is amended as follows.
+**15.**[^c-1bdc21c6bcf713f34b47850f82465d7d] (1) Section 171ZD of SSCBA 1992 (liability to make payments) is amended as follows.
 
 (2) In subsection (1), after “payments of” insert “ ordinary ”.
 
@@ -346,27 +346,27 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 - (a) for “statutory paternity pay”, where first occurring, substitute “ ordinary statutory paternity pay ”, and
 - (b) for “liability for statutory paternity pay” substitute “ liability for ordinary statutory paternity pay or additional statutory paternity pay (or both) ”.
 
-**16.** (1)[^key-98a17e60c1d81cccaba23a5b7a3509e6][^key-a446d50288eaf420e70c8ef9642af0f2] Section 171ZE of SSCBA 1992 (rate and period of statutory paternity pay) is amended as follows.
+**16.** (1)[^c-98a17e60c1d81cccaba23a5b7a3509e6][^c-a446d50288eaf420e70c8ef9642af0f2] Section 171ZE of SSCBA 1992 (rate and period of statutory paternity pay) is amended as follows.
 
-(2)[^key-a843344979808208c8dc7bf5facb770c] For “statutory paternity pay”, wherever occurring, substitute “ ordinary statutory paternity pay ”.
+(2)[^c-a843344979808208c8dc7bf5facb770c] For “statutory paternity pay”, wherever occurring, substitute “ ordinary statutory paternity pay ”.
 
-(3)[^key-0f72cd215eb88b38e4d235365bc7644b] After subsection (10) insert—
+(3)[^c-0f72cd215eb88b38e4d235365bc7644b] After subsection (10) insert—
 
 > (10A) Where for any purpose of this Part of this Act or of regulations it is necessary to calculate the daily rate of ordinary statutory paternity pay, the amount payable by way of ordinary statutory paternity pay for any day shall be taken as one seventh of the weekly rate.
 
-**17.**[^key-7f455fc2782a016814c7671d9f23268d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-7f455fc2782a016814c7671d9f23268d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-03b08befa4661346818ea099fd267f5c] In section 171ZF of SSCBA 1992 (restrictions on contracting out), in subsection (2), for “statutory paternity pay” substitute “ ordinary statutory paternity pay or additional statutory paternity pay ”.
+**18.**[^c-03b08befa4661346818ea099fd267f5c] In section 171ZF of SSCBA 1992 (restrictions on contracting out), in subsection (2), for “statutory paternity pay” substitute “ ordinary statutory paternity pay or additional statutory paternity pay ”.
 
-**19.**[^key-ab3738b0aca21df1107a22b1dd9b6b00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-ab3738b0aca21df1107a22b1dd9b6b00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-6a9e53a268fea63baf1d20ba1ee79647] (1) Section 171ZJ of SSCBA 1992 (Part 12ZA: supplementary) is amended as follows.
+**20.**[^c-6a9e53a268fea63baf1d20ba1ee79647] (1) Section 171ZJ of SSCBA 1992 (Part 12ZA: supplementary) is amended as follows.
 
 (2) In subsection (5), for “section 171ZE” substitute “ sections 171ZE and 171ZEE ”.
 
 (3) In subsection (10)(f), for “statutory paternity pay” substitute “ ordinary statutory paternity pay or additional statutory paternity pay ”.
 
-**21.**[^key-a164ae4966bcd58b53bca83dc2a8dada][^key-ebe1c2376f8b30dac00ada833b110be5] (1) Section 171ZN of SSCBA 1992 (rate and period of statutory adoption pay) is amended as follows.
+**21.**[^c-a164ae4966bcd58b53bca83dc2a8dada][^c-ebe1c2376f8b30dac00ada833b110be5] (1) Section 171ZN of SSCBA 1992 (rate and period of statutory adoption pay) is amended as follows.
 
 (2) At the beginning of subsection (3) insert “ Except in such cases as may be prescribed, ”.
 
@@ -374,9 +374,9 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 > (6A) Where for any purpose of this Part of this Act or of regulations it is necessary to calculate the daily rate of statutory adoption pay, the amount payable by way of statutory adoption pay for any day shall be taken as one seventh of the weekly rate.
 
-**22.**[^key-fbd17a6a7875962f2f508d856c0170c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-fbd17a6a7875962f2f508d856c0170c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-c8fc87133151fd5e2b1d65d5d036c418] In Schedule 13 to SSCBA 1992 (relationship of statutory maternity pay with benefits and other payments etc.), in paragraph 3 (contractual remuneration), after sub-paragraph (2) insert—
+**23.**[^c-c8fc87133151fd5e2b1d65d5d036c418] In Schedule 13 to SSCBA 1992 (relationship of statutory maternity pay with benefits and other payments etc.), in paragraph 3 (contractual remuneration), after sub-paragraph (2) insert—
 
 > (2A) In sub-paragraph (2) “**week**” means a period of seven days beginning with the day of the week on which the maternity pay period begins.
 
@@ -384,15 +384,15 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 *Extent: E+W+S*
 
-**24.**[^key-cfd4c70235d62fca80fbd0d7034493e2] In section 5 of the Social Security Administration Act 1992 (regulations about claims for and payments of benefit) in subsection (5) for “statutory paternity pay” substitute “ , ordinary statutory paternity pay, additional statutory paternity pay ”.
+**24.**[^c-cfd4c70235d62fca80fbd0d7034493e2] In section 5 of the Social Security Administration Act 1992 (regulations about claims for and payments of benefit) in subsection (5) for “statutory paternity pay” substitute “ , ordinary statutory paternity pay, additional statutory paternity pay ”.
 
-**25.**[^key-8de98a9fe3f2945cee1d463d3acdefbe] In section 122AA(1) of the Social Security Administration Act 1992 (disclosure of contributions information by Her Majesty's Revenue and Customs), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
+**25.**[^c-8de98a9fe3f2945cee1d463d3acdefbe] In section 122AA(1) of the Social Security Administration Act 1992 (disclosure of contributions information by Her Majesty's Revenue and Customs), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
-**26.**[^key-0cdbd698badc484a78808fc38f111ae5] In section 150 of the Social Security Administration Act 1992 (annual up-rating of benefits), in subsection (1)(j), after “171ZE(1)” insert “ , 171ZEE(1) ”.
+**26.**[^c-0cdbd698badc484a78808fc38f111ae5] In section 150 of the Social Security Administration Act 1992 (annual up-rating of benefits), in subsection (1)(j), after “171ZE(1)” insert “ , 171ZEE(1) ”.
 
-**27.**[^key-d58e5695936e5e4139587ba51df033ad] In section 163(1) of the Social Security Administration Act 1992 (sums payable out of National Insurance Fund), in paragraph (d) for “or statutory paternity pay” substitute “ , ordinary statutory paternity pay or additional statutory paternity pay ”.
+**27.**[^c-d58e5695936e5e4139587ba51df033ad] In section 163(1) of the Social Security Administration Act 1992 (sums payable out of National Insurance Fund), in paragraph (d) for “or statutory paternity pay” substitute “ , ordinary statutory paternity pay or additional statutory paternity pay ”.
 
-**28.**[^key-ca33ff7c2978c91fbc3ca3f9876434c0] (1) Section 165 of the Social Security Administration Act 1992 (adjustments between National Insurance Fund and Consolidated Fund) is amended as follows.
+**28.**[^c-ca33ff7c2978c91fbc3ca3f9876434c0] (1) Section 165 of the Social Security Administration Act 1992 (adjustments between National Insurance Fund and Consolidated Fund) is amended as follows.
 
 (2) In subsection (1)(b) (adjustments in respect of the operation of legislation relating to statutory sick pay, statutory maternity pay, statutory paternity pay and statutory adoption pay), for sub-paragraphs (iii) and (iv) substitute—
 
@@ -406,15 +406,15 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 *Extent: E+W+S*
 
-**29.**[^key-30b6d4e6d91063386cbd58b8ca2d5f25] In section 27(1) of ERA 1996 (meaning of “wages” etc.), in paragraph (ca), for “statutory paternity pay” substitute “ ordinary statutory paternity pay or additional statutory paternity pay ”.
+**29.**[^c-30b6d4e6d91063386cbd58b8ca2d5f25] In section 27(1) of ERA 1996 (meaning of “wages” etc.), in paragraph (ca), for “statutory paternity pay” substitute “ ordinary statutory paternity pay or additional statutory paternity pay ”.
 
-**30.**[^key-e4a8b6ef419a5cc95733e4fe8c3a2861] In section 47C of ERA 1996 (leave for domestic and family reasons), in subsection (2), for paragraph (ca) substitute—
+**30.**[^c-e4a8b6ef419a5cc95733e4fe8c3a2861] In section 47C of ERA 1996 (leave for domestic and family reasons), in subsection (2), for paragraph (ca) substitute—
 
 > - (ca) ordinary or additional paternity leave, or
 
 .
 
-**31.**[^key-37db9bc3eab246c44fc58059fd1cc042][^key-f29450da575346d4d0fb5e35efffaa7c] In section 71 of ERA 1996 (ordinary maternity leave), for subsection (3) substitute—
+**31.**[^c-37db9bc3eab246c44fc58059fd1cc042][^c-f29450da575346d4d0fb5e35efffaa7c] In section 71 of ERA 1996 (ordinary maternity leave), for subsection (3) substitute—
 
 > (3) Regulations under subsection (2)—
 >
@@ -422,73 +422,73 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 > - (b) may allow an employee to choose, subject to prescribed restrictions, the date on which an ordinary maternity leave period starts;
 > - (c) may specify circumstances in which an employee may work for her employer during an ordinary maternity leave period without bringing the period to an end.
 
-**32.**[^key-f4f3d1ecd2d2211e6758855da946914e][^key-2921a940bb3329e1f2a39adcab179dc7] In section 73 of ERA 1996 (additional maternity leave), for subsection (3) substitute—
+**32.**[^c-f4f3d1ecd2d2211e6758855da946914e][^c-2921a940bb3329e1f2a39adcab179dc7] In section 73 of ERA 1996 (additional maternity leave), for subsection (3) substitute—
 
 > (3) Regulations under subsection (2)—
 >
 > - (a) may allow an employee to choose, subject to prescribed restrictions, the date on which an additional maternity leave period ends;
 > - (b) may specify circumstances in which an employee may work for her employer during an additional maternity leave period without bringing the period to an end.
 
-**33.**[^key-78a4cced6c6a6cb3386536098d4eff12][^key-5e86385a2f43dff4b9f627a3ba9a2e6a] In section 75A of ERA 1996 (ordinary adoption leave), after subsection (2) insert—
+**33.**[^c-78a4cced6c6a6cb3386536098d4eff12][^c-5e86385a2f43dff4b9f627a3ba9a2e6a] In section 75A of ERA 1996 (ordinary adoption leave), after subsection (2) insert—
 
 > (2A) Regulations under subsection (2) may specify circumstances in which an employee may work for his employer during an ordinary adoption leave period without bringing the period to an end.
 
-**34.**[^key-f297279ca82cf0204820823d71c59a39][^key-03683afc817be4c7aad5baa12141c2f9] In section 75B of ERA 1996 (additional adoption leave), for subsection (3) substitute—
+**34.**[^c-f297279ca82cf0204820823d71c59a39][^c-03683afc817be4c7aad5baa12141c2f9] In section 75B of ERA 1996 (additional adoption leave), for subsection (3) substitute—
 
 > (3) Regulations under subsection (2)—
 >
 > - (a) may allow an employee to choose, subject to prescribed restrictions, the date on which an additional adoption leave period ends;
 > - (b) may specify circumstances in which an employee may work for his employer during an additional adoption leave period without bringing the period to an end.
 
-**35.**[^key-bd4c54f63599237b55c5d76ba5e45ae3] In the heading to section 80A of ERA 1996 (entitlement to paternity leave: birth), after “to” insert “ ordinary ”.
+**35.**[^c-bd4c54f63599237b55c5d76ba5e45ae3] In the heading to section 80A of ERA 1996 (entitlement to paternity leave: birth), after “to” insert “ ordinary ”.
 
-**36.**[^key-81e50038eeb76ababd24e004f8602c50] In the heading to section 80B of ERA 1996 (entitlement to paternity leave: adoption), after “to” insert “ ordinary ”.
+**36.**[^c-81e50038eeb76ababd24e004f8602c50] In the heading to section 80B of ERA 1996 (entitlement to paternity leave: adoption), after “to” insert “ ordinary ”.
 
-**37.**[^key-476a5bb274bb79bbf689cf13c3210d25] In section 80D of ERA 1996 (special cases), in subsection (1) for “80A or 80B” substitute “ 80A, 80AA, 80B or 80BB ”.
+**37.**[^c-476a5bb274bb79bbf689cf13c3210d25] In section 80D of ERA 1996 (special cases), in subsection (1) for “80A or 80B” substitute “ 80A, 80AA, 80B or 80BB ”.
 
-**38.**[^key-88b24e8d3d10d808c72441d43130002b] (1) Section 80E of ERA 1996 (Chapter 3: supplemental) is amended as follows.
+**38.**[^c-88b24e8d3d10d808c72441d43130002b] (1) Section 80E of ERA 1996 (Chapter 3: supplemental) is amended as follows.
 
 (2) For “section 80A or 80B”, wherever occurring, substitute “ any of sections 80A to 80BB ”.
 
-(3)[^key-05e0dee0da6370902d2a6b75fe9a5eb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-05e0dee0da6370902d2a6b75fe9a5eb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-1b6127a7c2522d2218911c8aeb7c56f9] (1) Section 88 of ERA 1996 (employments with normal working hours) is amended as follows.
+**39.**[^c-1b6127a7c2522d2218911c8aeb7c56f9] (1) Section 88 of ERA 1996 (employments with normal working hours) is amended as follows.
 
 (2) In subsection (1)(c), for “paternity leave” substitute “ ordinary or additional paternity leave ”.
 
 (3) In subsection (2), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
-**40.**[^key-a3910ddd56f1e36aef0224b99f1257d9] (1) Section 89 of ERA 1996 (employments without normal working hours) is amended as follows.
+**40.**[^c-a3910ddd56f1e36aef0224b99f1257d9] (1) Section 89 of ERA 1996 (employments without normal working hours) is amended as follows.
 
 (2) In subsection (3)(b), for “paternity leave” substitute “ ordinary or additional paternity leave ”.
 
 (3) In subsection (4), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
-**41.**[^key-94cd6910c6b85630b55c7ecf37d557cf] In section 99 of ERA 1996 (leave for family reasons), in subsection (3), for paragraph (ca) substitute—
+**41.**[^c-94cd6910c6b85630b55c7ecf37d557cf] In section 99 of ERA 1996 (leave for family reasons), in subsection (3), for paragraph (ca) substitute—
 
 > - (ca) ordinary or additional paternity leave, or
 
 .
 
-**42.**[^key-861a417f74e9fa0a311ba2d00b2c5c5b] In section 106 of ERA 1996 (replacements), in subsection (2)(a) after “adoption leave” insert “ or leave under section 80AA or 80BB (additional paternity leave) ”.
+**42.**[^c-861a417f74e9fa0a311ba2d00b2c5c5b] In section 106 of ERA 1996 (replacements), in subsection (2)(a) after “adoption leave” insert “ or leave under section 80AA or 80BB (additional paternity leave) ”.
 
-**43.**[^key-8a7ee69b6542fe89f10a59af1b772180] In section 235 of ERA 1996 (other definitions), for the definition of “paternity leave” substitute—
+**43.**[^c-8a7ee69b6542fe89f10a59af1b772180] In section 235 of ERA 1996 (other definitions), for the definition of “paternity leave” substitute—
 
 > “**ordinary or additional paternity leave**” means leave under any of sections 80A to 80BB,
 
 .
 
-**44.**[^key-f0bcce12b340393b291cdd3f7969c930] In section 236 of ERA 1996 (orders and regulations), in subsection (3) (affirmative procedure), for “80A, 80B, 80G” substitute “ 80A, 80AA, 80B, 80BB, 80G ”.
+**44.**[^c-f0bcce12b340393b291cdd3f7969c930] In section 236 of ERA 1996 (orders and regulations), in subsection (3) (affirmative procedure), for “80A, 80B, 80G” substitute “ 80A, 80AA, 80B, 80BB, 80G ”.
 
 ### Finance Act 1997 (c. 16)
 
-**45.**[^key-fb5b9fea9eb5390cfcb2d20abdd31314][^key-542e9dcd546183dd4cb56cacbab3114e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-fb5b9fea9eb5390cfcb2d20abdd31314][^c-542e9dcd546183dd4cb56cacbab3114e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)
 
 *Extent: E+W+S*
 
-**46.**[^key-f30baadec04aa0dac5fe5ab9d7c3dcc5] (1) Section 8 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (decisions by officers of Revenue and Customs) is amended as follows.
+**46.**[^c-f30baadec04aa0dac5fe5ab9d7c3dcc5] (1) Section 8 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (decisions by officers of Revenue and Customs) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -497,19 +497,19 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 (3) In subsection (3)(b), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
-**47.**[^key-d960503bf29b98d754834f90ec0b45db] In section 11(2)(a) of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (appeals against decisions of Her Majesty's Revenue and Customs), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
+**47.**[^c-d960503bf29b98d754834f90ec0b45db] In section 11(2)(a) of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (appeals against decisions of Her Majesty's Revenue and Customs), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
-**48.**[^key-82596f553fc1c1135f9f1da7c765d029] In section 14 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (matters arising as respects decisions), in subsections (1)(a)(i) and (3), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
+**48.**[^c-82596f553fc1c1135f9f1da7c765d029] In section 14 of the Social Security Contributions (Transfer of Functions, etc.) Act 1999 (matters arising as respects decisions), in subsections (1)(a)(i) and (3), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
 ### Finance Act 1999 (c. 16)
 
-**49.**[^key-42840276f943ed59f6d35a0d17509652][^key-137e7b7434813e7bd4b16d1704ea1f56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-42840276f943ed59f6d35a0d17509652][^c-137e7b7434813e7bd4b16d1704ea1f56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Employment Act 2002 (c. 22)
 
 *Extent: E+W+S*
 
-**50.**[^key-d455718dce91a564edf5bad8c2623292] (1) Section 7 of the Employment Act 2002 (funding of employers' liabilities) is amended as follows.
+**50.**[^c-d455718dce91a564edf5bad8c2623292] (1) Section 7 of the Employment Act 2002 (funding of employers' liabilities) is amended as follows.
 
 (2) In subsection (1), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
@@ -522,19 +522,19 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 *Extent: E+W+S*
 
-**51.**[^key-4451d8babf5602677b7a50217345cf36] In section 8 of the Employment Act 2002 (regulations about payment), for “statutory paternity pay”, wherever occurring, substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
+**51.**[^c-4451d8babf5602677b7a50217345cf36] In section 8 of the Employment Act 2002 (regulations about payment), for “statutory paternity pay”, wherever occurring, substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
 *Extent: E+W+S*
 
-**52.**[^key-4c821a097b67ba637b9818a9ae6d4598] In section 10 of the Employment Act 2002 (powers to require information), for “statutory paternity pay”, in both places, substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
+**52.**[^c-4c821a097b67ba637b9818a9ae6d4598] In section 10 of the Employment Act 2002 (powers to require information), for “statutory paternity pay”, in both places, substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
 *Extent: E+W+S*
 
-**53.**[^key-5471c9bccfef62a7d6682c75c6a0d611] In section 11 of the Employment Act 2002 (penalties: failure to comply), in subsection (6), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
+**53.**[^c-5471c9bccfef62a7d6682c75c6a0d611] In section 11 of the Employment Act 2002 (penalties: failure to comply), in subsection (6), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
 *Extent: E+W+S*
 
-**54.**[^key-5085cfb877bb3563490bcd5c4dbf0c93] (1) Section 12 of the Employment Act 2002 (penalties: fraud etc.) is amended as follows.
+**54.**[^c-5085cfb877bb3563490bcd5c4dbf0c93] (1) Section 12 of the Employment Act 2002 (penalties: fraud etc.) is amended as follows.
 
 (2) In subsections (1) and (3), for “statutory paternity pay” substitute “ ordinary statutory paternity pay ”.
 
@@ -542,20 +542,20 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 (4) In subsection (5), for “statutory paternity pay” substitute “ ordinary statutory paternity pay ”.
 
-**55.**[^key-9abe4c60c5dc002826de34df14a228f8] In section 13 of the Employment Act 2002 (supply of information held by Commissioners for Her Majesty's Revenue and Customs), in subsection (1) for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
+**55.**[^c-9abe4c60c5dc002826de34df14a228f8] In section 13 of the Employment Act 2002 (supply of information held by Commissioners for Her Majesty's Revenue and Customs), in subsection (1) for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
-**56.**[^key-8ef4b5b4e8d298885b8315b52216f07b] In section 14 of the Employment Act 2002 (supply of information held by Secretary of State), for “statutory paternity pay”, in both places, substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
+**56.**[^c-8ef4b5b4e8d298885b8315b52216f07b] In section 14 of the Employment Act 2002 (supply of information held by Secretary of State), for “statutory paternity pay”, in both places, substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
-**57.**[^key-6b21c4450e88bdec4d0d5542f8d3bd7d] In section 15 of the Employment Act 2002 (use of information by the Commissioners), in subsection (2)—
+**57.**[^c-6b21c4450e88bdec4d0d5542f8d3bd7d] In section 15 of the Employment Act 2002 (use of information by the Commissioners), in subsection (2)—
 
 - (a) in paragraph (a), after “to” insert “ ordinary ”, and
-- (b)[^key-5753a665e6540b8d4681d4b29c032ee9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5753a665e6540b8d4681d4b29c032ee9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**58.**[^key-acf899f7f57f700d01f64a5489283b1f] In section 55(8) of the Employment Act 2002 (references to statutory paternity pay or statutory adoption pay to include statutory pay under corresponding Northern Ireland legislation), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
+**58.**[^c-acf899f7f57f700d01f64a5489283b1f] In section 55(8) of the Employment Act 2002 (references to statutory paternity pay or statutory adoption pay to include statutory pay under corresponding Northern Ireland legislation), for “statutory paternity pay” substitute “ ordinary statutory paternity pay, additional statutory paternity pay ”.
 
 ### Proceeds of Crime Act 2002 (c. 29)
 
-**59.**[^key-c9ab346a0b155660838ecea24057201e] (1) Section 323 of the Proceeds of Crime Act 2002 (functions) is amended as follows.
+**59.**[^c-c9ab346a0b155660838ecea24057201e] (1) Section 323 of the Proceeds of Crime Act 2002 (functions) is amended as follows.
 
 (2) In subsection (1), for paragraph (g) substitute—
 
@@ -575,7 +575,7 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 ### Income Tax (Earnings and Pensions) Act 2003 (c. 1)
 
-**60.**[^key-97a69351b436e61a159a64f1142a7234] (1) Section 660 of the Income Tax (Earnings and Pensions) Act 2003 (taxable benefits: UK benefits) is amended as follows.
+**60.**[^c-97a69351b436e61a159a64f1142a7234] (1) Section 660 of the Income Tax (Earnings and Pensions) Act 2003 (taxable benefits: UK benefits) is amended as follows.
 
 (2) Table A in subsection (1) is amended in accordance with sub-paragraphs (3) to (5).
 
@@ -613,13 +613,13 @@ for “statutory paternity pay” substitute “ ordinary statutory paternity pa
 
 ### Commissioners for Revenue and Customs Act 2005 (c. 11)
 
-**61.**[^key-7af097102c1566d8c40a2e1955c53f77] In Schedule 1 to the Commissioners for Revenue and Customs Act 2005 (which lists former Inland Revenue matters), for paragraph 26 substitute—
+**61.**[^c-7af097102c1566d8c40a2e1955c53f77] In Schedule 1 to the Commissioners for Revenue and Customs Act 2005 (which lists former Inland Revenue matters), for paragraph 26 substitute—
 
 > **26.** Ordinary statutory paternity pay.
 >
 > **26A.** Additional statutory paternity pay.
 
-## SCHEDULE 2 — Repeals[^key-6165614f75aafe53034272bb20edf6aa][^key-c598bfcfa7c1274a0b3d1e0a02d22c82][^key-a2a2def7895aed3a4cf1b46d3b32b6fa]
+## SCHEDULE 2 — Repeals[^c-6165614f75aafe53034272bb20edf6aa][^c-c598bfcfa7c1274a0b3d1e0a02d22c82][^c-a2a2def7895aed3a4cf1b46d3b32b6fa]
 
 Section 15
 
@@ -632,202 +632,202 @@ Section 15
 
 ## Annotations
 
-[^key-4ec02530ba41f8c5a7207aaab0b3f890]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2006/18/section/1) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/a)
+[^c-4ec02530ba41f8c5a7207aaab0b3f890]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2006/18/section/1) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/a)
 
-[^key-badbe696c5bd74367a85c23df3035696]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2006/18/section/1) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(a)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/a)
+[^c-badbe696c5bd74367a85c23df3035696]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2006/18/section/1) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(a)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/a)
 
-[^key-14623576777e7f62ddd479aa73df6d64]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2006/18/section/2) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/b)
+[^c-14623576777e7f62ddd479aa73df6d64]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2006/18/section/2) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/b)
 
-[^key-b8f3e1cb4e4d2792038c6be51b15baf3]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2006/18/section/2) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(b)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/b)
+[^c-b8f3e1cb4e4d2792038c6be51b15baf3]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2006/18/section/2) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(b)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/b)
 
-[^key-ce7c0ab6a70659181d24df6096c3304e]: Textual amendment: Ss. 3-10 repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 66](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/66); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(ll)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/ll) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-ce7c0ab6a70659181d24df6096c3304e]: Textual amendment: Ss. 3-10 repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 66](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/66); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(ll)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/ll) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
-[^key-03756ac210d5b34835f0a1b0598e8a39]: Commencement: S. 11 in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/c)
+[^c-03756ac210d5b34835f0a1b0598e8a39]: Commencement: S. 11 in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/c)
 
-[^key-efcf5f5a3135de03f952c3afa4c3acab]: Commencement: S. 11 in force at 1.10.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(c)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/c)
+[^c-efcf5f5a3135de03f952c3afa4c3acab]: Commencement: S. 11 in force at 1.10.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(c)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/c)
 
-[^key-6828965cdde290cc5dd661dda8e16858]: Commencement: S. 11 in force at 1.10.2006 for specified purposes by [S.I. 2006/2232](https://www.legislation.gov.uk/uksi/2006/2232), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2232/article/2/a)
+[^c-6828965cdde290cc5dd661dda8e16858]: Commencement: S. 11 in force at 1.10.2006 for specified purposes by [S.I. 2006/2232](https://www.legislation.gov.uk/uksi/2006/2232), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2232/article/2/a)
 
-[^key-f3b95c0a180761a62b15595ff8956192]: Commencement: S. 11(1) in force at 3.3.2010 for specified purposes by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/495/article/3/b)
+[^c-f3b95c0a180761a62b15595ff8956192]: Commencement: S. 11(1) in force at 3.3.2010 for specified purposes by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/495/article/3/b)
 
 [^M_I_369038f6-f1d2-4420-8220-1fd40348b251]: Commencement: S. 11(1) in force at 6.4.2010 for specified purposes by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/495/article/4/b)
 
-[^key-72e52274294c55dd8ce62f23b9d82776]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/ukpga/2006/18/section/11/2) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 67](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/67); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(ll)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/ll) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-72e52274294c55dd8ce62f23b9d82776]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/ukpga/2006/18/section/11/2) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 67](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/67); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(ll)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/ll) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
-[^key-9260b80acf0ac694524a45afeb48f8f5]: Commencement: S. 11(2)(3) in force at 6.4.2010 in so far as not already in force by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(b)](https://www.legislation.gov.uk/uksi/2010/495/article/4/b)
+[^c-9260b80acf0ac694524a45afeb48f8f5]: Commencement: S. 11(2)(3) in force at 6.4.2010 in so far as not already in force by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(b)](https://www.legislation.gov.uk/uksi/2010/495/article/4/b)
 
-[^key-72cb432b9d9d82899a0e5bd8c2b0cc81]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/18/section/12) in force at 6.4.2007 by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 4(a)](https://www.legislation.gov.uk/uksi/2006/1682/article/4/a)
+[^c-72cb432b9d9d82899a0e5bd8c2b0cc81]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/18/section/12) in force at 6.4.2007 by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 4(a)](https://www.legislation.gov.uk/uksi/2006/1682/article/4/a)
 
-[^key-3012882fb36fc0474e88fec21c826052]: Commencement: S. 13 in force at 1.10.2006 by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(f)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/f)
+[^c-3012882fb36fc0474e88fec21c826052]: Commencement: S. 13 in force at 1.10.2006 by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(f)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/f)
 
-[^key-fdcb63b8867b0ae05f3efe9addf84171]: Textual amendment: [S. 13(2)(g)](https://www.legislation.gov.uk/ukpga/2006/18/section/13/2/g) omitted (31.1.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/2/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/536/schedule/part/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fdcb63b8867b0ae05f3efe9addf84171]: Textual amendment: [S. 13(2)(g)](https://www.legislation.gov.uk/ukpga/2006/18/section/13/2/g) omitted (31.1.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/2/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/536/schedule/part/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-79ea7cbfce66aac050e4798d8d38a0ca]: Textual amendment: [S. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2006/18/section/13/4/b) omitted (31.1.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/2/b) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/536/schedule/part/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-79ea7cbfce66aac050e4798d8d38a0ca]: Textual amendment: [S. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2006/18/section/13/4/b) omitted (31.1.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/2/b) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/536/schedule/part/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7bc3ee3b4b2724e350bc73d25326cdde]: Textual amendment: Words in [s. 13(8)](https://www.legislation.gov.uk/ukpga/2006/18/section/13/8) omitted (31.1.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/2/c) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/536/schedule/part/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7bc3ee3b4b2724e350bc73d25326cdde]: Textual amendment: Words in [s. 13(8)](https://www.legislation.gov.uk/ukpga/2006/18/section/13/8) omitted (31.1.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/536)](https://www.legislation.gov.uk/uksi/2019/536), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/536/regulation/1/1), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2019/536/schedule/paragraph/2/c) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/536/schedule/part/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bd28b7df715ab9156c5226120841ab45]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/18/section/14) in force at 1.10.2006 by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/g)
+[^c-bd28b7df715ab9156c5226120841ab45]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/18/section/14) in force at 1.10.2006 by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(g)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/g)
 
-[^key-03497e59bc97c593ce139d863855a288]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/18/section/15) in force at 1.10.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(h)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/h)
+[^c-03497e59bc97c593ce139d863855a288]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/18/section/15) in force at 1.10.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(h)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/h)
 
-[^key-c61cdd605812153cabcaf304df45388d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/18/section/15) in force at 6.4.2010 for specified purposes by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(c)](https://www.legislation.gov.uk/uksi/2010/495/article/4/c)
+[^c-c61cdd605812153cabcaf304df45388d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/18/section/15) in force at 6.4.2010 for specified purposes by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(c)](https://www.legislation.gov.uk/uksi/2010/495/article/4/c)
 
-[^key-080a8d66521f64c3a7bcd859d59fcbad]: Commencement: Sch. 1 para. 1 in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-080a8d66521f64c3a7bcd859d59fcbad]: Commencement: Sch. 1 para. 1 in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-7d5e98394b935387f95427f2dd748db3]: Textual amendment: [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/1/4) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(mm)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/mm) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-7d5e98394b935387f95427f2dd748db3]: Textual amendment: [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/1/4) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(mm)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/mm) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
-[^key-3b335e08d5d9b42cf1b02e64a2fd6f50]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/2) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-3b335e08d5d9b42cf1b02e64a2fd6f50]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/2) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-4d8c6ec738a048e271beb8f0bd787358]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/3) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-4d8c6ec738a048e271beb8f0bd787358]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/3) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-f8a0afacb14383912746b617adb4b152]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/4) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-f8a0afacb14383912746b617adb4b152]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/4) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-66fc6d4ea32baf295d1f03095d3c6f1b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/5) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-66fc6d4ea32baf295d1f03095d3c6f1b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/5) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-29c5a28b7287fc0c1b8ef2f7d91f9941]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/6) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
+[^c-29c5a28b7287fc0c1b8ef2f7d91f9941]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/6) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
 
-[^key-25076785e97dccc0f2f2bb7e9663327c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/6) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
+[^c-25076785e97dccc0f2f2bb7e9663327c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/6) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
 
-[^key-5156c8871188fa4fa64fb1a6ba2095db]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/7) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
+[^c-5156c8871188fa4fa64fb1a6ba2095db]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/7) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
 
-[^key-db34164cff76ad835445a63fe7edb35f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/7) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
+[^c-db34164cff76ad835445a63fe7edb35f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/7) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
 
-[^key-cbd5d2671b05e91d8062e5020f2934b2]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/8) in force at 1.10.2006 by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(e)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/e)
+[^c-cbd5d2671b05e91d8062e5020f2934b2]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/8) in force at 1.10.2006 by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(e)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/e)
 
-[^key-92203f67257444de29deb2dc93d9f0e4]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/9) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
+[^c-92203f67257444de29deb2dc93d9f0e4]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/9) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
 
-[^key-bd7ff0231c4853ca8937aaf9dba3dd8f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/9) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
+[^c-bd7ff0231c4853ca8937aaf9dba3dd8f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/9) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
 
-[^key-773483891341d7641b4da8667c7d23db]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/10) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-773483891341d7641b4da8667c7d23db]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/10) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-6f35194eba33fee11fbda3fec6308bd7]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/11) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(mm)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/mm) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-6f35194eba33fee11fbda3fec6308bd7]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/11) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(mm)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/mm) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
-[^key-749b01c8946d69af616fffc259b826f3]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/12) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-749b01c8946d69af616fffc259b826f3]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/12) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-f094e98705dd927ef9ae2d8c8e54281d]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/13) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-f094e98705dd927ef9ae2d8c8e54281d]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/13) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-bf84290bd06da6602d02173e7918bff5]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/14) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-bf84290bd06da6602d02173e7918bff5]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/14) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-1bdc21c6bcf713f34b47850f82465d7d]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/15) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-1bdc21c6bcf713f34b47850f82465d7d]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/15) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-98a17e60c1d81cccaba23a5b7a3509e6]: Commencement: [Sch. 1 para. 16(1)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/16/1) in force at 1.10.2006 for specified purposes by [S.I. 2006/2232](https://www.legislation.gov.uk/uksi/2006/2232), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2232/article/2/b)
+[^c-98a17e60c1d81cccaba23a5b7a3509e6]: Commencement: [Sch. 1 para. 16(1)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/16/1) in force at 1.10.2006 for specified purposes by [S.I. 2006/2232](https://www.legislation.gov.uk/uksi/2006/2232), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2232/article/2/b)
 
-[^key-a446d50288eaf420e70c8ef9642af0f2]: Commencement: [Sch. 1 para. 16(1)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/16/1) in force at 6.4.2010 for specified purposes by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-a446d50288eaf420e70c8ef9642af0f2]: Commencement: [Sch. 1 para. 16(1)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/16/1) in force at 6.4.2010 for specified purposes by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-a843344979808208c8dc7bf5facb770c]: Commencement: [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/16/2) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-a843344979808208c8dc7bf5facb770c]: Commencement: [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/16/2) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-0f72cd215eb88b38e4d235365bc7644b]: Commencement: [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/16/3) in force at 1.10.2006 by [S.I. 2006/2232](https://www.legislation.gov.uk/uksi/2006/2232), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2232/article/2/c)
+[^c-0f72cd215eb88b38e4d235365bc7644b]: Commencement: [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/16/3) in force at 1.10.2006 by [S.I. 2006/2232](https://www.legislation.gov.uk/uksi/2006/2232), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2232/article/2/c)
 
-[^key-7f455fc2782a016814c7671d9f23268d]: Textual amendment: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/17) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(mm)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/mm) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-7f455fc2782a016814c7671d9f23268d]: Textual amendment: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/17) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(mm)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/mm) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
-[^key-03b08befa4661346818ea099fd267f5c]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/18) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-03b08befa4661346818ea099fd267f5c]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/18) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-ab3738b0aca21df1107a22b1dd9b6b00]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/19) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(mm)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/mm) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-ab3738b0aca21df1107a22b1dd9b6b00]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/19) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(mm)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/mm) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
-[^key-6a9e53a268fea63baf1d20ba1ee79647]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/20) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
+[^c-6a9e53a268fea63baf1d20ba1ee79647]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/20) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-a164ae4966bcd58b53bca83dc2a8dada]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/21) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
+[^c-a164ae4966bcd58b53bca83dc2a8dada]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/21) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
 
-[^key-ebe1c2376f8b30dac00ada833b110be5]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/21) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
+[^c-ebe1c2376f8b30dac00ada833b110be5]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/21) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
 
-[^key-fbd17a6a7875962f2f508d856c0170c5]: Textual amendment: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/22) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(mm)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/mm) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-fbd17a6a7875962f2f508d856c0170c5]: Textual amendment: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/22) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(mm)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/mm) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
-[^key-c8fc87133151fd5e2b1d65d5d036c418]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/23) in force at 1.10.2006 by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(e)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/e)
+[^c-c8fc87133151fd5e2b1d65d5d036c418]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/23) in force at 1.10.2006 by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(e)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/e)
 
-[^key-cfd4c70235d62fca80fbd0d7034493e2]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/24) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
+[^c-cfd4c70235d62fca80fbd0d7034493e2]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/24) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-8de98a9fe3f2945cee1d463d3acdefbe]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/25) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-8de98a9fe3f2945cee1d463d3acdefbe]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/25) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-0cdbd698badc484a78808fc38f111ae5]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/26) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-0cdbd698badc484a78808fc38f111ae5]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/26) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-d58e5695936e5e4139587ba51df033ad]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/27) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-d58e5695936e5e4139587ba51df033ad]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/27) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-ca33ff7c2978c91fbc3ca3f9876434c0]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/28) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-ca33ff7c2978c91fbc3ca3f9876434c0]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/28) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-30b6d4e6d91063386cbd58b8ca2d5f25]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/29) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-30b6d4e6d91063386cbd58b8ca2d5f25]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/29) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-e4a8b6ef419a5cc95733e4fe8c3a2861]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/30) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
+[^c-e4a8b6ef419a5cc95733e4fe8c3a2861]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/30) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-37db9bc3eab246c44fc58059fd1cc042]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/31) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
+[^c-37db9bc3eab246c44fc58059fd1cc042]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/31) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
 
-[^key-f29450da575346d4d0fb5e35efffaa7c]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/31) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
+[^c-f29450da575346d4d0fb5e35efffaa7c]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/31) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
 
-[^key-f4f3d1ecd2d2211e6758855da946914e]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/32) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
+[^c-f4f3d1ecd2d2211e6758855da946914e]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/32) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
 
-[^key-2921a940bb3329e1f2a39adcab179dc7]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/32) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
+[^c-2921a940bb3329e1f2a39adcab179dc7]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/32) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
 
-[^key-78a4cced6c6a6cb3386536098d4eff12]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/33) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
+[^c-78a4cced6c6a6cb3386536098d4eff12]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/33) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
 
-[^key-5e86385a2f43dff4b9f627a3ba9a2e6a]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/33) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
+[^c-5e86385a2f43dff4b9f627a3ba9a2e6a]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/33) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
 
-[^key-f297279ca82cf0204820823d71c59a39]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/34) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
+[^c-f297279ca82cf0204820823d71c59a39]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/34) in force at 27.6.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/d)
 
-[^key-03683afc817be4c7aad5baa12141c2f9]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/34) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
+[^c-03683afc817be4c7aad5baa12141c2f9]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/34) in force at 1.10.2006 in so far as not already in force by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/d)
 
-[^key-bd4c54f63599237b55c5d76ba5e45ae3]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/35) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-bd4c54f63599237b55c5d76ba5e45ae3]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/35) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-81e50038eeb76ababd24e004f8602c50]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/36) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-81e50038eeb76ababd24e004f8602c50]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/36) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-476a5bb274bb79bbf689cf13c3210d25]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/37) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
+[^c-476a5bb274bb79bbf689cf13c3210d25]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/37) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-88b24e8d3d10d808c72441d43130002b]: Commencement: Sch. 1 para. 38 in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
+[^c-88b24e8d3d10d808c72441d43130002b]: Commencement: Sch. 1 para. 38 in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-05e0dee0da6370902d2a6b75fe9a5eb4]: Textual amendment: [Sch. 1 para. 38(3)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/38/3) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(mm)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/mm) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-05e0dee0da6370902d2a6b75fe9a5eb4]: Textual amendment: [Sch. 1 para. 38(3)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/38/3) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(mm)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/mm) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
-[^key-1b6127a7c2522d2218911c8aeb7c56f9]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/39) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-1b6127a7c2522d2218911c8aeb7c56f9]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/39) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-a3910ddd56f1e36aef0224b99f1257d9]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/40) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-a3910ddd56f1e36aef0224b99f1257d9]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/40) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-94cd6910c6b85630b55c7ecf37d557cf]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/41) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
+[^c-94cd6910c6b85630b55c7ecf37d557cf]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/41) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-861a417f74e9fa0a311ba2d00b2c5c5b]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/42) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-861a417f74e9fa0a311ba2d00b2c5c5b]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/42) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-8a7ee69b6542fe89f10a59af1b772180]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/43) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
+[^c-8a7ee69b6542fe89f10a59af1b772180]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/43) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-f0bcce12b340393b291cdd3f7969c930]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/44) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
+[^c-f0bcce12b340393b291cdd3f7969c930]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/44) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-fb5b9fea9eb5390cfcb2d20abdd31314]: Textual amendment: [Sch. 1 para. 45](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/45) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
+[^c-fb5b9fea9eb5390cfcb2d20abdd31314]: Textual amendment: [Sch. 1 para. 45](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/45) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
 
-[^key-542e9dcd546183dd4cb56cacbab3114e]: Commencement: Sch. 1 para. 45 in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-542e9dcd546183dd4cb56cacbab3114e]: Commencement: Sch. 1 para. 45 in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-f30baadec04aa0dac5fe5ab9d7c3dcc5]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/46) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
+[^c-f30baadec04aa0dac5fe5ab9d7c3dcc5]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/46) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-d960503bf29b98d754834f90ec0b45db]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/47) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-d960503bf29b98d754834f90ec0b45db]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/47) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-82596f553fc1c1135f9f1da7c765d029]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/48) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-82596f553fc1c1135f9f1da7c765d029]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/48) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-42840276f943ed59f6d35a0d17509652]: Textual amendment: [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/49) repealed (15.3.2015 being the date on which 1992 c. 7, Pt. 12ZC comes into force by virtue of S.R. 2015/86, art. 3(1)(d)) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 8(e)](https://www.legislation.gov.uk/uksi/2014/1640/article/8/e)
+[^c-42840276f943ed59f6d35a0d17509652]: Textual amendment: [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/49) repealed (15.3.2015 being the date on which 1992 c. 7, Pt. 12ZC comes into force by virtue of S.R. 2015/86, art. 3(1)(d)) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 8(e)](https://www.legislation.gov.uk/uksi/2014/1640/article/8/e)
 
-[^key-137e7b7434813e7bd4b16d1704ea1f56]: Commencement: Sch. 1 para. 49 in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-137e7b7434813e7bd4b16d1704ea1f56]: Commencement: Sch. 1 para. 49 in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-d455718dce91a564edf5bad8c2623292]: Commencement: [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/50) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
+[^c-d455718dce91a564edf5bad8c2623292]: Commencement: [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/50) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-4451d8babf5602677b7a50217345cf36]: Commencement: [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/51) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
+[^c-4451d8babf5602677b7a50217345cf36]: Commencement: [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/51) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-4c821a097b67ba637b9818a9ae6d4598]: Commencement: [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/52) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
+[^c-4c821a097b67ba637b9818a9ae6d4598]: Commencement: [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/52) in force at 3.3.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/495/article/3/c)
 
-[^key-5471c9bccfef62a7d6682c75c6a0d611]: Commencement: [Sch. 1 para. 53](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/53) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-5471c9bccfef62a7d6682c75c6a0d611]: Commencement: [Sch. 1 para. 53](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/53) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-5085cfb877bb3563490bcd5c4dbf0c93]: Commencement: [Sch. 1 para. 54](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/54) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-5085cfb877bb3563490bcd5c4dbf0c93]: Commencement: [Sch. 1 para. 54](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/54) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-9abe4c60c5dc002826de34df14a228f8]: Commencement: [Sch. 1 para. 55](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/55) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-9abe4c60c5dc002826de34df14a228f8]: Commencement: [Sch. 1 para. 55](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/55) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-8ef4b5b4e8d298885b8315b52216f07b]: Commencement: [Sch. 1 para. 56](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/56) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-8ef4b5b4e8d298885b8315b52216f07b]: Commencement: [Sch. 1 para. 56](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/56) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-6b21c4450e88bdec4d0d5542f8d3bd7d]: Commencement: Sch. 1 para. 57 in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-6b21c4450e88bdec4d0d5542f8d3bd7d]: Commencement: Sch. 1 para. 57 in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-5753a665e6540b8d4681d4b29c032ee9]: Textual amendment: [Sch. 1 para. 57(b)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/57/b) repealed (15.3.2015 being the date on which 1992 c. 7, Pt. 12ZC comes into force by virtue of S.R. 2015/86, art. 3(1)(d)) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 8(e)](https://www.legislation.gov.uk/uksi/2014/1640/article/8/e)
+[^c-5753a665e6540b8d4681d4b29c032ee9]: Textual amendment: [Sch. 1 para. 57(b)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/57/b) repealed (15.3.2015 being the date on which 1992 c. 7, Pt. 12ZC comes into force by virtue of S.R. 2015/86, art. 3(1)(d)) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 68](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/68); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 8(e)](https://www.legislation.gov.uk/uksi/2014/1640/article/8/e)
 
-[^key-acf899f7f57f700d01f64a5489283b1f]: Commencement: [Sch. 1 para. 58](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/58) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-acf899f7f57f700d01f64a5489283b1f]: Commencement: [Sch. 1 para. 58](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/58) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-c9ab346a0b155660838ecea24057201e]: Commencement: [Sch. 1 para. 59](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/59) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-c9ab346a0b155660838ecea24057201e]: Commencement: [Sch. 1 para. 59](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/59) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-97a69351b436e61a159a64f1142a7234]: Commencement: [Sch. 1 para. 60](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/60) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-97a69351b436e61a159a64f1142a7234]: Commencement: [Sch. 1 para. 60](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/60) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-7af097102c1566d8c40a2e1955c53f77]: Commencement: [Sch. 1 para. 61](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/61) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
+[^c-7af097102c1566d8c40a2e1955c53f77]: Commencement: [Sch. 1 para. 61](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/61) in force at 6.4.2010 by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-6165614f75aafe53034272bb20edf6aa]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/18/schedule/2) in force at 1.10.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(i)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/i)
+[^c-6165614f75aafe53034272bb20edf6aa]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/18/schedule/2) in force at 1.10.2006 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 3(i)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/i)
 
-[^key-c598bfcfa7c1274a0b3d1e0a02d22c82]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/18/schedule/2) in force at 6.4.2007 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 4(b)](https://www.legislation.gov.uk/uksi/2006/1682/article/4/b)
+[^c-c598bfcfa7c1274a0b3d1e0a02d22c82]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/18/schedule/2) in force at 6.4.2007 for specified purposes by [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 4(b)](https://www.legislation.gov.uk/uksi/2006/1682/article/4/b)
 
-[^key-a2a2def7895aed3a4cf1b46d3b32b6fa]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/18/schedule/2) in force at 6.4.2010 for specified purposes by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/495/article/4/e)
+[^c-a2a2def7895aed3a4cf1b46d3b32b6fa]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/18/schedule/2) in force at 6.4.2010 for specified purposes by [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/495/article/4/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Approval and signing of abbreviated accounts[^key-cfba3920daa63801f8e4b998f1d1be9b]
+## 21. Approval and signing of abbreviated accounts[^c-cfba3920daa63801f8e4b998f1d1be9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfba3920daa63801f8e4b998f1d1be9b]: Textual amendment: Reg. 21 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [16(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/16/1)
+[^c-cfba3920daa63801f8e4b998f1d1be9b]: Textual amendment: Reg. 21 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [16(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/16/1)

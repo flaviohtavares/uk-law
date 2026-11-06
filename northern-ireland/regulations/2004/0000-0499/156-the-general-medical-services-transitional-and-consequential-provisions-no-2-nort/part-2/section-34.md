@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Annual reports[^key-c3ffa7ed262fb7fd554208675e4d8bb4]
+## 34. Annual reports[^c-c3ffa7ed262fb7fd554208675e4d8bb4]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Notwithstanding the revocation of the 1997 Regulations, any medical practitioner
 
 ## Annotations
 
-[^key-c3ffa7ed262fb7fd554208675e4d8bb4]: Commencement: Art. 34 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-c3ffa7ed262fb7fd554208675e4d8bb4]: Commencement: Art. 34 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

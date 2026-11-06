@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Notice to be given to bidders before each principal stage round[^key-58ef1dff186d3e045fc925d6067e9b5a]
+## 45. Notice to be given to bidders before each principal stage round[^c-58ef1dff186d3e045fc925d6067e9b5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ Before the start of each principal stage round, OFCOM shall notify each bidder o
 
 ## Annotations
 
-[^key-58ef1dff186d3e045fc925d6067e9b5a]: Commencement: Reg. 45 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-58ef1dff186d3e045fc925d6067e9b5a]: Commencement: Reg. 45 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

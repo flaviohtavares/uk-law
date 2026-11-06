@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 305. Contents of notices to be gazetted[^key-7e0c58a6c52a847d9bd7f488af1da665]
+## 305. Contents of notices to be gazetted[^c-7e0c58a6c52a847d9bd7f488af1da665]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e0c58a6c52a847d9bd7f488af1da665]: Commencement: [Rule 305](https://www.legislation.gov.uk/uksi/2011/1301/rule/305) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-7e0c58a6c52a847d9bd7f488af1da665]: Commencement: [Rule 305](https://www.legislation.gov.uk/uksi/2011/1301/rule/305) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Individual culpability for offending by an organisation[^key-c3ff7d80bdc20de0a22d54deb174e5ab][^key-33ec5c634fa315760dc2fa13f3f20b30]
+## 49. Individual culpability for offending by an organisation[^c-c3ff7d80bdc20de0a22d54deb174e5ab][^c-33ec5c634fa315760dc2fa13f3f20b30]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3ff7d80bdc20de0a22d54deb174e5ab]: Commencement: S. 49 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-c3ff7d80bdc20de0a22d54deb174e5ab]: Commencement: S. 49 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-33ec5c634fa315760dc2fa13f3f20b30]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2022/9/section/49) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)
+[^c-33ec5c634fa315760dc2fa13f3f20b30]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2022/9/section/49) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)

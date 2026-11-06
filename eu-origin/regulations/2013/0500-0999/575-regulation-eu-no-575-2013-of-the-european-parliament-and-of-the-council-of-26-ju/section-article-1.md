@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-This Regulation lays down uniform rules concerning general prudential requirements that CRR firms, financial holding companies set up in the United Kingdom, and mixed financial holding companies set up in the United Kingdom[^key-7d3b6559f1601789168bbc13a6f32064] shall comply with in relation to the following items:
+This Regulation lays down uniform rules concerning general prudential requirements that CRR firms, financial holding companies set up in the United Kingdom, and mixed financial holding companies set up in the United Kingdom[^c-7d3b6559f1601789168bbc13a6f32064] shall comply with in relation to the following items:
 
-- ((a)) own funds requirements relating to entirely quantifiable, uniform and standardised elements of credit risk, market risk, operational risk and settlement risk[^key-eef7f712015f2e04bc894494ba8beaa1];
-- ((b)) [^key-546720e4555da0b69737a8ba64b23083]...
-- ((c)) [^key-546720e4555da0b69737a8ba64b23083]...
-- ((d)) [^key-546720e4555da0b69737a8ba64b23083]...
-- ((e)) [^key-546720e4555da0b69737a8ba64b23083]...
+- ((a)) own funds requirements relating to entirely quantifiable, uniform and standardised elements of credit risk, market risk, operational risk and settlement risk[^c-eef7f712015f2e04bc894494ba8beaa1];
+- ((b)) [^c-546720e4555da0b69737a8ba64b23083]...
+- ((c)) [^c-546720e4555da0b69737a8ba64b23083]...
+- ((d)) [^c-546720e4555da0b69737a8ba64b23083]...
+- ((e)) [^c-546720e4555da0b69737a8ba64b23083]...
 
-This Regulation lays down uniform rules concerning the own funds and eligible liabilities requirements that resolution entities that are global systemically important institutions (G-SIIs) or part of G-SIIs and material subsidiaries of non-UK[^key-7f20961db3b7788570246ae3c9444f81] G-SIIs shall comply with.
+This Regulation lays down uniform rules concerning the own funds and eligible liabilities requirements that resolution entities that are global systemically important institutions (G-SIIs) or part of G-SIIs and material subsidiaries of non-UK[^c-7f20961db3b7788570246ae3c9444f81] G-SIIs shall comply with.
 
-[^key-dcd0a974cb67cb34943e045b49b8de2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcd0a974cb67cb34943e045b49b8de2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -38,12 +38,12 @@ This Regulation lays down uniform rules concerning the own funds and eligible li
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-7d3b6559f1601789168bbc13a6f32064]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2013/575/article/1) substituted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1232)](https://www.legislation.gov.uk/uksi/2019/1232), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d3b6559f1601789168bbc13a6f32064]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2013/575/article/1) substituted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1232)](https://www.legislation.gov.uk/uksi/2019/1232), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eef7f712015f2e04bc894494ba8beaa1]: Textual amendment: Words in [Art. 1(a)](https://www.legislation.gov.uk/eur/2013/575/article/1/a) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(2)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/2/a)
+[^c-eef7f712015f2e04bc894494ba8beaa1]: Textual amendment: Words in [Art. 1(a)](https://www.legislation.gov.uk/eur/2013/575/article/1/a) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(2)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/2/a)
 
-[^key-546720e4555da0b69737a8ba64b23083]: Textual amendment: [Arts. 1(b)-(e)](https://www.legislation.gov.uk/eur/2013/575/article/1/b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(2)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/2/b)
+[^c-546720e4555da0b69737a8ba64b23083]: Textual amendment: [Arts. 1(b)-(e)](https://www.legislation.gov.uk/eur/2013/575/article/1/b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(2)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/2/b)
 
-[^key-7f20961db3b7788570246ae3c9444f81]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2013/575/article/1) substituted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1232)](https://www.legislation.gov.uk/uksi/2019/1232), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f20961db3b7788570246ae3c9444f81]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2013/575/article/1) substituted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1232)](https://www.legislation.gov.uk/uksi/2019/1232), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dcd0a974cb67cb34943e045b49b8de2a]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2013/575/article/1) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1232)](https://www.legislation.gov.uk/uksi/2019/1232), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/1/3), [9(4)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dcd0a974cb67cb34943e045b49b8de2a]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2013/575/article/1) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1232)](https://www.legislation.gov.uk/uksi/2019/1232), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/1/3), [9(4)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/9/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

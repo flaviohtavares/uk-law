@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.17. Amendment and abandonment of appeal[^key-25ca21901ddf2dfd0d2b36005608dffe]
+## 42.17. Amendment and abandonment of appeal[^c-25ca21901ddf2dfd0d2b36005608dffe]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ by serving notice in writing on the Registrar.
 
 ## Annotations
 
-[^key-25ca21901ddf2dfd0d2b36005608dffe]: Commencement: [Rule 42.17](https://www.legislation.gov.uk/uksi/2025/909/rule/42.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-25ca21901ddf2dfd0d2b36005608dffe]: Commencement: [Rule 42.17](https://www.legislation.gov.uk/uksi/2025/909/rule/42.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

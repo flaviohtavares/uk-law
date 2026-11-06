@@ -39,7 +39,7 @@ Coming into operation in accordance with Rule 1
 
 The Lord Chancellor, in exercise of the powers conferred upon him by Article 13 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00001] and all other powers enabling him in that behalf, on the advice of the Magistrates' Courts Rules Committee and after consultation with the Lord Chief Justice, hereby makes the following Rules:
 
-## 1. Citation, commencement and interpretation[^key-d26f4cee73b2ff368813afc6f16fedaa]
+## 1. Citation, commencement and interpretation[^c-d26f4cee73b2ff368813afc6f16fedaa]
 
 (1) These Rules may be cited as the Magistrates' Courts (Anti-social Behaviour Orders) Rules (Northern Ireland) 2004 and shall come into operation on the same day as Article 3 of the Anti-social Behaviour (Northern Ireland) Order 2004[^f00002] comes into operation.
 
@@ -48,9 +48,9 @@ The Lord Chancellor, in exercise of the powers conferred upon him by Article 13 
 - (a) “the 2004 Order” means the Anti-social Behaviour (Northern Ireland) Order 2004 and expressions used in these Rules and in the 2004 Order have the same meaning as in the 2004 Order; and
 - (b) a reference to a Form by number means the Form so numbered in the Schedule to these Rules or a Form to the like effect.
 
-## 2. Forms[^key-b14e1a8970f904fc7e0cc5372f100609]
+## 2. Forms[^c-b14e1a8970f904fc7e0cc5372f100609]
 
-(1) A summons issued on complaint for an anti-social behaviour order under Article 3 or an interim anti-social behaviour order under Article 4[^key-ec76398897c4ccd42720d648dc366f42] of the 2004 Order shall be in Form 1.
+(1) A summons issued on complaint for an anti-social behaviour order under Article 3 or an interim anti-social behaviour order under Article 4[^c-ec76398897c4ccd42720d648dc366f42] of the 2004 Order shall be in Form 1.
 
 (2) An anti-social behaviour order under Article 3 of the 2004 Order shall be in Form 2.
 
@@ -58,30 +58,30 @@ The Lord Chancellor, in exercise of the powers conferred upon him by Article 13 
 
 (4) An anti-social behaviour order under Article 6 of the 2004 Order made on conviction in criminal proceedings shall be in Form 4.
 
-(5)[^key-4535ba2bdddd9a7c833afb5704c06281] An interim anti-social behaviour order under Article 6A of the 2004 Order made on conviction in criminal proceedings shall be in Form 4A.
+(5)[^c-4535ba2bdddd9a7c833afb5704c06281] An interim anti-social behaviour order under Article 6A of the 2004 Order made on conviction in criminal proceedings shall be in Form 4A.
 
-## 3. Application for variation or discharge[^key-6f9856fc56856bd616c1605b5aca31aa]
+## 3. Application for variation or discharge[^c-6f9856fc56856bd616c1605b5aca31aa]
 
 (1) A summons issued on complaint for the variation or discharge of –
 
 - (a) an anti-social behaviour order under Article 3 of the 2004 Order;
-- (b) an interim anti-social behaviour order under Article 4 of the 2004 Order; [^key-a8d830bb9f71e5100edc6804ad2e3e87]...
-- (c) an anti-social behaviour order under Article 6 of the 2004 Order made on conviction in criminal proceedings ; or[^key-eb15844cca463135b45eebaa1769daee]
-- (d)[^key-c25af9b7d644bf079615abf66d91691d] an interim anti-social behaviour order under Article 6A of the 2004 Order made on conviction in criminal proceedings,
+- (b) an interim anti-social behaviour order under Article 4 of the 2004 Order; [^c-a8d830bb9f71e5100edc6804ad2e3e87]...
+- (c) an anti-social behaviour order under Article 6 of the 2004 Order made on conviction in criminal proceedings ; or[^c-eb15844cca463135b45eebaa1769daee]
+- (d)[^c-c25af9b7d644bf079615abf66d91691d] an interim anti-social behaviour order under Article 6A of the 2004 Order made on conviction in criminal proceedings,
 
-shall be in Form 5[^key-2b96165719151c29e0b4f6d196cfcf72]....
+shall be in Form 5[^c-2b96165719151c29e0b4f6d196cfcf72]....
 
-## 4. Service of documents[^key-2ee20c6e03a2375586dcfb9ea3ca9b1a]
+## 4. Service of documents[^c-2ee20c6e03a2375586dcfb9ea3ca9b1a]
 
 (1) Service of any summons under these Rules may be effected –
 
 - (a) by serving a copy of the summons on the person or body to be served in person; or
 - (b) by sending a copy of the summons by ordinary first class post to the person or body to be served at his last-known address (in which cases the summons shall be deemed to have been received by him in the ordinary course of post, unless he proves that he did not receive it).
 
-(1A)[^key-fa08f0b26abd57797274758cb0c4c522] Any summons issued in accordance with paragraph (1) may be served by—
+(1A)[^c-fa08f0b26abd57797274758cb0c4c522] Any summons issued in accordance with paragraph (1) may be served by—
 
 - (a) the complainant or employee of the complainant;
-- (b) the summons server of the administrative court division[^key-f62138511721a3601d9f76002abce1af] in which the proceedings are brought or in which the defendant or witness resides; or
+- (b) the summons server of the administrative court division[^c-f62138511721a3601d9f76002abce1af] in which the proceedings are brought or in which the defendant or witness resides; or
 - (c) any person who has received permission from a resident magistrate or lay magistrate or from the clerk of petty sessions to serve the summons;
 
 and any such permission shall be endorsed on the original summons and signed by the person giving it.
@@ -89,10 +89,10 @@ and any such permission shall be endorsed on the original summons and signed by 
 (2) As soon as reasonably practicable after the making of:
 
 - (a) an anti-social behaviour order under Article 3 of the 2004 Order;
-- (b) an interim anti-social behaviour order under Article 4 of the 2004 Order; [^key-26667f58d298456954d0b983b8fa9195]...
-- (c) an anti-social behaviour order under Article 6 of the 2004 Order made on conviction in criminal proceedings ; or[^key-f2907b7c6da1ca13a4429bc11d617c94]
+- (b) an interim anti-social behaviour order under Article 4 of the 2004 Order; [^c-26667f58d298456954d0b983b8fa9195]...
+- (c) an anti-social behaviour order under Article 6 of the 2004 Order made on conviction in criminal proceedings ; or[^c-f2907b7c6da1ca13a4429bc11d617c94]
 
-  an interim anti-social behaviour order under Article 6A of the 2004 Order made on conviction in criminal proceedings,[^key-ae567a5ff0c65d25f37677e07b93667f]
+  an interim anti-social behaviour order under Article 6A of the 2004 Order made on conviction in criminal proceedings,[^c-ae567a5ff0c65d25f37677e07b93667f]
 
 the clerk of petty sessions shall serve a copy of that order on the defendant –
 
@@ -106,11 +106,11 @@ and shall send a copy by ordinary first class post to the complainant.
 - (a) where the defendant is present, in person if practicable; or
 - (b) by sending it by ordinary first class post to the defendant at either his last known address (in which cases the order shall be deemed to have been received by him in the ordinary course of post unless the defendant proves that he did not receive it),
 
-and shall send a copy by ordinary first class post to the complainant or, where appropriate, other specified authority[^key-642d21ca1c8016da90468831f6d42b80].
+and shall send a copy by ordinary first class post to the complainant or, where appropriate, other specified authority[^c-642d21ca1c8016da90468831f6d42b80].
 
 (4) In paragraph (3) references to the complainant and the defendant are references to the complainant and the defendant in the proceedings in which the order was originally made.
 
-## 5. Special measures for witnesses[^key-b59314c2d3db2160f3dc6e67ee9640f6]
+## 5. Special measures for witnesses[^c-b59314c2d3db2160f3dc6e67ee9640f6]
 
 Rules 149AA to 149AH (*special measures for vulnerable or intimidated witnesses*) of the Magistrates’ Courts Rules (Northern Ireland) 1984 shall apply in relation to proceedings on an application for, or relating to the issue whether to make, vary or discharge an anti-social behaviour order as they apply in relation to criminal proceedings, subject to the following omissions and modifications—
 
@@ -133,13 +133,13 @@ Department for Constitutional Affairs
 
 Dated 3rd August 2004
 
-## SCHEDULE[^key-0ea9910a2f0a6add85f6f0031f5e6640][^key-34b7584fb4eea5b8cb8fea601ab555f9][^key-5cd01823a8f813cac67b15b1964f3341][^key-9644eb2218cbcc0c903fda119a795521]
+## SCHEDULE[^c-0ea9910a2f0a6add85f6f0031f5e6640][^c-34b7584fb4eea5b8cb8fea601ab555f9][^c-5cd01823a8f813cac67b15b1964f3341][^c-9644eb2218cbcc0c903fda119a795521]
 
-[^key-de3a8fa7bb688c6f0aa41d55a2002df9][^key-9be52deefa498af7a1868011e1d9bfbd][^key-ef7ecc539b8c0591a1b6732997b09567][^key-f5f33267e1226dcc472442d0806db27c]FORM 1
+[^c-de3a8fa7bb688c6f0aa41d55a2002df9][^c-9be52deefa498af7a1868011e1d9bfbd][^c-ef7ecc539b8c0591a1b6732997b09567][^c-f5f33267e1226dcc472442d0806db27c]FORM 1
 
 [image: see source](https://www.legislation.gov.uk/nisr/2004/324/images/nisr_20040324_en_epp_006.gif)[image: see source](https://www.legislation.gov.uk/nisr/2004/324/images/nisr_20040324_en_epp_007.gif)
 
-[^key-7fa7c7838c95f4088a8ad8fa504484cf][^key-d25a6d67ca4a2299e1bb761e5e93ea0f]FORM 2
+[^c-7fa7c7838c95f4088a8ad8fa504484cf][^c-d25a6d67ca4a2299e1bb761e5e93ea0f]FORM 2
 
 ANTI-SOCIAL BEHAVIOUR (NORTHERN IRELAND) ORDER 2004
 
@@ -149,7 +149,7 @@ MAGISTRATES' COURTS (ANTI-SOCIAL BEHAVIOUR ORDERS) RULES (NORTHERN IRELAND) 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/2004/324/images/nisr_20040324_en_002)
 
-[^key-d9149fa6040123d50d02553a184b6de3]FORM 3
+[^c-d9149fa6040123d50d02553a184b6de3]FORM 3
 
 ANTI-SOCIAL BEHAVIOUR (NORTHERN IRELAND) ORDER 2004
 
@@ -159,7 +159,7 @@ MAGISTRATES'COURTS (ANTI-SOCIAL BEHAVIOUR ORDERS) RULES (NORTHERN IRELAND) 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/2004/324/images/nisr_20040324_en_003)
 
-[^key-ee1e8013abf8856f8007b7a087bdc7a6]FORM 4
+[^c-ee1e8013abf8856f8007b7a087bdc7a6]FORM 4
 
 ANTI-SOCIAL BEHAVIOUR (NORTHERN IRELAND) ORDER 2004
 
@@ -171,7 +171,7 @@ MAGISTRATES' COURTS (ANTI-SOCIAL BEHAVIOUR ORDERS) RULES (NORTHERN IRELAND) 2004
 
 [image: see source](https://www.legislation.gov.uk/nisr/2004/324/images/nisr_20040324_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/nisr/2004/324/images/nisr_20040324_en_epp_002.gif)
 
-[^key-b18a8178df4a98d4dec1238a41e73282][^key-e201cc164948af696b0928cff612a5cf][^key-720872653810cf7c4001138d72663569]FORM 5
+[^c-b18a8178df4a98d4dec1238a41e73282][^c-e201cc164948af696b0928cff612a5cf][^c-720872653810cf7c4001138d72663569]FORM 5
 
 [image: see source](https://www.legislation.gov.uk/nisr/2004/324/images/nisr_20040324_en_epp_003.gif)[image: see source](https://www.legislation.gov.uk/nisr/2004/324/images/nisr_20040324_en_epp_004.gif)
 
@@ -195,68 +195,68 @@ Rule 4 prescribes the manner in which a summons or an order required to be serve
 
 [^f00001]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-d26f4cee73b2ff368813afc6f16fedaa]: Commencement: Rule 1 in operation at 25.8.2004, see [Rule 1(1)](https://www.legislation.gov.uk/nisr/2004/324/article/1/1)
+[^c-d26f4cee73b2ff368813afc6f16fedaa]: Commencement: Rule 1 in operation at 25.8.2004, see [Rule 1(1)](https://www.legislation.gov.uk/nisr/2004/324/article/1/1)
 
 [^f00002]: Footnote: S.I. [2004/1988 (N.I. 12)](https://www.legislation.gov.uk/nisi/2004/1988)
 
-[^key-b14e1a8970f904fc7e0cc5372f100609]: Commencement: Rule 2 in operation at 25.8.2004, see [Rule 1(1)](https://www.legislation.gov.uk/nisr/2004/324/article/1/1)
+[^c-b14e1a8970f904fc7e0cc5372f100609]: Commencement: Rule 2 in operation at 25.8.2004, see [Rule 1(1)](https://www.legislation.gov.uk/nisr/2004/324/article/1/1)
 
-[^key-ec76398897c4ccd42720d648dc366f42]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2004/324/article/2/1) inserted (16.7.2008) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/253)](https://www.legislation.gov.uk/nisr/2008/253), [rules 1](https://www.legislation.gov.uk/nisr/2008/253/article/1), [2(1)](https://www.legislation.gov.uk/nisr/2008/253/article/2/1)
+[^c-ec76398897c4ccd42720d648dc366f42]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/nisr/2004/324/article/2/1) inserted (16.7.2008) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/253)](https://www.legislation.gov.uk/nisr/2008/253), [rules 1](https://www.legislation.gov.uk/nisr/2008/253/article/1), [2(1)](https://www.legislation.gov.uk/nisr/2008/253/article/2/1)
 
-[^key-4535ba2bdddd9a7c833afb5704c06281]: Textual amendment: [Rule 2(5)](https://www.legislation.gov.uk/nisr/2004/324/article/2/5) inserted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(1)](https://www.legislation.gov.uk/nisr/2006/414/article/2/1)
+[^c-4535ba2bdddd9a7c833afb5704c06281]: Textual amendment: [Rule 2(5)](https://www.legislation.gov.uk/nisr/2004/324/article/2/5) inserted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(1)](https://www.legislation.gov.uk/nisr/2006/414/article/2/1)
 
-[^key-6f9856fc56856bd616c1605b5aca31aa]: Commencement: Rule 3 in operation at 25.8.2004, see [Rule 1(1)](https://www.legislation.gov.uk/nisr/2004/324/article/1/1)
+[^c-6f9856fc56856bd616c1605b5aca31aa]: Commencement: Rule 3 in operation at 25.8.2004, see [Rule 1(1)](https://www.legislation.gov.uk/nisr/2004/324/article/1/1)
 
-[^key-a8d830bb9f71e5100edc6804ad2e3e87]: Textual amendment: Word in [rule 3(1)(b)](https://www.legislation.gov.uk/nisr/2004/324/article/3/1/b) omitted (15.11.2006) by virtue of [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2006/414/article/2/2/a)
+[^c-a8d830bb9f71e5100edc6804ad2e3e87]: Textual amendment: Word in [rule 3(1)(b)](https://www.legislation.gov.uk/nisr/2004/324/article/3/1/b) omitted (15.11.2006) by virtue of [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2006/414/article/2/2/a)
 
-[^key-eb15844cca463135b45eebaa1769daee]: Textual amendment: Word in [rule 3(1)(c)](https://www.legislation.gov.uk/nisr/2004/324/article/3/1/c) substituted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2006/414/article/2/2/b)
+[^c-eb15844cca463135b45eebaa1769daee]: Textual amendment: Word in [rule 3(1)(c)](https://www.legislation.gov.uk/nisr/2004/324/article/3/1/c) substituted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2006/414/article/2/2/b)
 
-[^key-c25af9b7d644bf079615abf66d91691d]: Textual amendment: [Rule 3(1)(d)](https://www.legislation.gov.uk/nisr/2004/324/article/3/1/d) inserted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2006/414/article/2/2/c)
+[^c-c25af9b7d644bf079615abf66d91691d]: Textual amendment: [Rule 3(1)(d)](https://www.legislation.gov.uk/nisr/2004/324/article/3/1/d) inserted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2006/414/article/2/2/c)
 
-[^key-2b96165719151c29e0b4f6d196cfcf72]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/nisr/2004/324/article/3/1) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(1)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-2b96165719151c29e0b4f6d196cfcf72]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/nisr/2004/324/article/3/1) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(1)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-2ee20c6e03a2375586dcfb9ea3ca9b1a]: Commencement: Rule 4 in operation at 25.8.2004, see [Rule 1(1)](https://www.legislation.gov.uk/nisr/2004/324/article/1/1)
+[^c-2ee20c6e03a2375586dcfb9ea3ca9b1a]: Commencement: Rule 4 in operation at 25.8.2004, see [Rule 1(1)](https://www.legislation.gov.uk/nisr/2004/324/article/1/1)
 
-[^key-fa08f0b26abd57797274758cb0c4c522]: Textual amendment: [Rule 4(1A)](https://www.legislation.gov.uk/nisr/2004/324/article/4/1A) inserted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2006/414/article/2/3/a)
+[^c-fa08f0b26abd57797274758cb0c4c522]: Textual amendment: [Rule 4(1A)](https://www.legislation.gov.uk/nisr/2004/324/article/4/1A) inserted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2006/414/article/2/3/a)
 
-[^key-f62138511721a3601d9f76002abce1af]: Textual amendment: Words in [rule 4(1A)(b)](https://www.legislation.gov.uk/nisr/2004/324/article/4/1A/b) substituted (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(2)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-f62138511721a3601d9f76002abce1af]: Textual amendment: Words in [rule 4(1A)(b)](https://www.legislation.gov.uk/nisr/2004/324/article/4/1A/b) substituted (31.10.2016) by [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(2)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/2); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-26667f58d298456954d0b983b8fa9195]: Textual amendment: Word in [rule 4(2)(b)](https://www.legislation.gov.uk/nisr/2004/324/article/4/2/b) omitted (15.11.2006) by virtue of [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2006/414/article/2/3/b)
+[^c-26667f58d298456954d0b983b8fa9195]: Textual amendment: Word in [rule 4(2)(b)](https://www.legislation.gov.uk/nisr/2004/324/article/4/2/b) omitted (15.11.2006) by virtue of [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2006/414/article/2/3/b)
 
-[^key-f2907b7c6da1ca13a4429bc11d617c94]: Textual amendment: Word in [rule 4(2)(c)](https://www.legislation.gov.uk/nisr/2004/324/article/4/2/c) substituted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2006/414/article/2/3/c)
+[^c-f2907b7c6da1ca13a4429bc11d617c94]: Textual amendment: Word in [rule 4(2)(c)](https://www.legislation.gov.uk/nisr/2004/324/article/4/2/c) substituted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2006/414/article/2/3/c)
 
-[^key-ae567a5ff0c65d25f37677e07b93667f]: Textual amendment: Words in [rule 4(2)](https://www.legislation.gov.uk/nisr/2004/324/article/4/2) inserted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(3)(d)](https://www.legislation.gov.uk/nisr/2006/414/article/2/3/d)
+[^c-ae567a5ff0c65d25f37677e07b93667f]: Textual amendment: Words in [rule 4(2)](https://www.legislation.gov.uk/nisr/2004/324/article/4/2) inserted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(3)(d)](https://www.legislation.gov.uk/nisr/2006/414/article/2/3/d)
 
-[^key-642d21ca1c8016da90468831f6d42b80]: Textual amendment: Words in [rule 4(3)](https://www.legislation.gov.uk/nisr/2004/324/article/4/3) inserted (15.11.2006) by virtue of [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(3)(e)](https://www.legislation.gov.uk/nisr/2006/414/article/2/3/e)
+[^c-642d21ca1c8016da90468831f6d42b80]: Textual amendment: Words in [rule 4(3)](https://www.legislation.gov.uk/nisr/2004/324/article/4/3) inserted (15.11.2006) by virtue of [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(3)(e)](https://www.legislation.gov.uk/nisr/2006/414/article/2/3/e)
 
-[^key-b59314c2d3db2160f3dc6e67ee9640f6]: Textual amendment: [Rule 5](https://www.legislation.gov.uk/nisr/2004/324/rule/5) inserted (16.7.2008) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/253)](https://www.legislation.gov.uk/nisr/2008/253), [rules 1](https://www.legislation.gov.uk/nisr/2008/253/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2008/253/article/2/2)
+[^c-b59314c2d3db2160f3dc6e67ee9640f6]: Textual amendment: [Rule 5](https://www.legislation.gov.uk/nisr/2004/324/rule/5) inserted (16.7.2008) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/253)](https://www.legislation.gov.uk/nisr/2008/253), [rules 1](https://www.legislation.gov.uk/nisr/2008/253/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2008/253/article/2/2)
 
-[^key-0ea9910a2f0a6add85f6f0031f5e6640]: Commencement: Sch. in operation at 25.8.2004, see [Rule 1(1)](https://www.legislation.gov.uk/nisr/2004/324/article/1/1)
+[^c-0ea9910a2f0a6add85f6f0031f5e6640]: Commencement: Sch. in operation at 25.8.2004, see [Rule 1(1)](https://www.legislation.gov.uk/nisr/2004/324/article/1/1)
 
-[^key-34b7584fb4eea5b8cb8fea601ab555f9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 4A inserted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2006/414/article/2/4/a), [Sch.](https://www.legislation.gov.uk/nisr/2006/414/schedule)
+[^c-34b7584fb4eea5b8cb8fea601ab555f9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 4A inserted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2006/414/article/2/4/a), [Sch.](https://www.legislation.gov.uk/nisr/2006/414/schedule)
 
-[^key-5cd01823a8f813cac67b15b1964f3341]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 6 inserted (16.7.2008) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/253)](https://www.legislation.gov.uk/nisr/2008/253), [rules 1](https://www.legislation.gov.uk/nisr/2008/253/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2008/253/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/253/schedule)
+[^c-5cd01823a8f813cac67b15b1964f3341]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 6 inserted (16.7.2008) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/253)](https://www.legislation.gov.uk/nisr/2008/253), [rules 1](https://www.legislation.gov.uk/nisr/2008/253/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2008/253/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/253/schedule)
 
-[^key-9644eb2218cbcc0c903fda119a795521]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 4A heading: the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(c)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/c); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-9644eb2218cbcc0c903fda119a795521]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 4A heading: the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(c)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/c); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-de3a8fa7bb688c6f0aa41d55a2002df9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 1 substituted (16.7.2008) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/253)](https://www.legislation.gov.uk/nisr/2008/253), [rules 1](https://www.legislation.gov.uk/nisr/2008/253/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2008/253/article/2/3/a), [Sch.](https://www.legislation.gov.uk/nisr/2008/253/schedule)
+[^c-de3a8fa7bb688c6f0aa41d55a2002df9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 1 substituted (16.7.2008) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2008 (S.R. 2008/253)](https://www.legislation.gov.uk/nisr/2008/253), [rules 1](https://www.legislation.gov.uk/nisr/2008/253/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2008/253/article/2/3/a), [Sch.](https://www.legislation.gov.uk/nisr/2008/253/schedule)
 
-[^key-9be52deefa498af7a1868011e1d9bfbd]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 1: the words “issue a warrant for your arrest or” in the Note omitted (1.3.2010) by virtue of [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2010 (S.R. 2010/16)](https://www.legislation.gov.uk/nisr/2010/16), [rules 1](https://www.legislation.gov.uk/nisr/2010/16/article/1), [2](https://www.legislation.gov.uk/nisr/2010/16/article/2)
+[^c-9be52deefa498af7a1868011e1d9bfbd]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 1: the words “issue a warrant for your arrest or” in the Note omitted (1.3.2010) by virtue of [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2010 (S.R. 2010/16)](https://www.legislation.gov.uk/nisr/2010/16), [rules 1](https://www.legislation.gov.uk/nisr/2010/16/article/1), [2](https://www.legislation.gov.uk/nisr/2010/16/article/2)
 
-[^key-ef7ecc539b8c0591a1b6732997b09567]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 1 heading: the large bracket and the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(a)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/a/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-ef7ecc539b8c0591a1b6732997b09567]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 1 heading: the large bracket and the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(a)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/a/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-f5f33267e1226dcc472442d0806db27c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 1: the words “for the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/a/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-f5f33267e1226dcc472442d0806db27c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 1: the words “for the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/a/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-7fa7c7838c95f4088a8ad8fa504484cf]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 2 heading: the large bracket and the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(a)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/a/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-7fa7c7838c95f4088a8ad8fa504484cf]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 2 heading: the large bracket and the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(a)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/a/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-d25a6d67ca4a2299e1bb761e5e93ea0f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 2: the words “for the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/a/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-d25a6d67ca4a2299e1bb761e5e93ea0f]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 2: the words “for the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/a/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-d9149fa6040123d50d02553a184b6de3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 3 heading: the large bracket and the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-d9149fa6040123d50d02553a184b6de3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 3 heading: the large bracket and the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-ee1e8013abf8856f8007b7a087bdc7a6]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 4 heading: the large bracket and the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-ee1e8013abf8856f8007b7a087bdc7a6]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 4 heading: the large bracket and the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(b)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b18a8178df4a98d4dec1238a41e73282]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 5 substituted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2006/414/article/2/4/b), [Sch.](https://www.legislation.gov.uk/nisr/2006/414/schedule)
+[^c-b18a8178df4a98d4dec1238a41e73282]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 5 substituted (15.11.2006) by [The Magistrates’ Courts (Anti-social Behaviour Orders) (Amendment) Rules (Northern Ireland) 2006 (S.R. 2006/414)](https://www.legislation.gov.uk/nisr/2006/414), [rules 1](https://www.legislation.gov.uk/nisr/2006/414/article/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2006/414/article/2/4/b), [Sch.](https://www.legislation.gov.uk/nisr/2006/414/schedule)
 
-[^key-e201cc164948af696b0928cff612a5cf]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 5 heading: the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(d)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/d/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-e201cc164948af696b0928cff612a5cf]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 5 heading: the words “Petty Sessions District of” and “County Court Division of” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(d)(i)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/d/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-720872653810cf7c4001138d72663569]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 5: the words “for the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(d)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/d/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-720872653810cf7c4001138d72663569]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2004/324/schedule) Form 5: the words “for the said petty sessions district” omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [34(3)(d)(ii)](https://www.legislation.gov.uk/nisr/2016/303/rule/34/3/d/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

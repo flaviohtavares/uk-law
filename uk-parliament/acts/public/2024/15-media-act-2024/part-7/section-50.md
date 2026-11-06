@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Awards of costs[^key-3c06836939c140b9c9f57d8ff585db1a]
+## 50. Awards of costs[^c-3c06836939c140b9c9f57d8ff585db1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c06836939c140b9c9f57d8ff585db1a]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2024/15/section/50) in force at 24.7.2024, see [s. 55(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/2)
+[^c-3c06836939c140b9c9f57d8ff585db1a]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2024/15/section/50) in force at 24.7.2024, see [s. 55(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/2)

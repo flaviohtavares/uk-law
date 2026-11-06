@@ -40,51 +40,51 @@ authorising the placing on the market of products containing, consisting of, or 
 
 (Text with EEA relevance) (revoked)
 
-[^key-99d51ce29b45ccdf61dd025c2ef895bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99d51ce29b45ccdf61dd025c2ef895bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Genetically modified organism and unique identifier[^key-99d51ce29b45ccdf61dd025c2ef895bc]
+## Article 1. Genetically modified organism and unique identifier[^c-99d51ce29b45ccdf61dd025c2ef895bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Authorisation[^key-99d51ce29b45ccdf61dd025c2ef895bc]
+## Article 2. Authorisation[^c-99d51ce29b45ccdf61dd025c2ef895bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-99d51ce29b45ccdf61dd025c2ef895bc]
+## Article 3. Labelling[^c-99d51ce29b45ccdf61dd025c2ef895bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Monitoring for environmental effects[^key-99d51ce29b45ccdf61dd025c2ef895bc]
+## Article 4. Monitoring for environmental effects[^c-99d51ce29b45ccdf61dd025c2ef895bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Post-market monitoring in accordance with Article 6(5)(e) of Regulation (EC) No 1829/2003[^key-99d51ce29b45ccdf61dd025c2ef895bc]
+## Article 5. Post-market monitoring in accordance with Article 6(5)(e) of Regulation (EC) No 1829/2003[^c-99d51ce29b45ccdf61dd025c2ef895bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Register[^key-99d51ce29b45ccdf61dd025c2ef895bc]
+## Article 6. Register[^c-99d51ce29b45ccdf61dd025c2ef895bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Authorisation holder[^key-99d51ce29b45ccdf61dd025c2ef895bc]
+## Article 7. Authorisation holder[^c-99d51ce29b45ccdf61dd025c2ef895bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Validity[^key-99d51ce29b45ccdf61dd025c2ef895bc]
+## Article 8. Validity[^c-99d51ce29b45ccdf61dd025c2ef895bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Addressee[^key-99d51ce29b45ccdf61dd025c2ef895bc]
+## Article 9. Addressee[^c-99d51ce29b45ccdf61dd025c2ef895bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-99d51ce29b45ccdf61dd025c2ef895bc]
+## ANNEX[^c-99d51ce29b45ccdf61dd025c2ef895bc]
 
-[^key-99d51ce29b45ccdf61dd025c2ef895bc]
+[^c-99d51ce29b45ccdf61dd025c2ef895bc]
 
 - ((a)) **Applicant and Authorisation holder:**
 
@@ -133,4 +133,4 @@ authorising the placing on the market of products containing, consisting of, or 
 
 ## Annotations
 
-[^key-99d51ce29b45ccdf61dd025c2ef895bc]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 42](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/42) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-99d51ce29b45ccdf61dd025c2ef895bc]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 42](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/42) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

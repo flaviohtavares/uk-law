@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 60. Determination of co-financing rates[^key-eeefbebac57d9c62a5df7b7ec73df9e5]
+## Article 60. Determination of co-financing rates[^c-eeefbebac57d9c62a5df7b7ec73df9e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eeefbebac57d9c62a5df7b7ec73df9e5]: Textual amendment: [Art. 60](https://www.legislation.gov.uk/eur/2013/1303/article/60) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [11(1)](https://www.legislation.gov.uk/uksi/2019/785/regulation/11/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eeefbebac57d9c62a5df7b7ec73df9e5]: Textual amendment: [Art. 60](https://www.legislation.gov.uk/eur/2013/1303/article/60) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [11(1)](https://www.legislation.gov.uk/uksi/2019/785/regulation/11/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

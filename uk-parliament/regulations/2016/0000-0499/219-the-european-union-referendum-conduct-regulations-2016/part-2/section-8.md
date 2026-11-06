@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Notice of referendum[^key-1485074c722e66f53df7bedc1943570a]
+## 8. Notice of referendum[^c-1485074c722e66f53df7bedc1943570a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ Each counting officer must give public notice of the referendum stating—
 
 ## Annotations
 
-[^key-1485074c722e66f53df7bedc1943570a]: Commencement: Reg. 8 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-1485074c722e66f53df7bedc1943570a]: Commencement: Reg. 8 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) A reference to the High Court under section 273 is to be determined by a single judge of that court without an oral hearing.
 
-(2) In relation to a reference under that section, any reference to “the court” in sections 321 to 323 of the Sentencing Code[^key-6bb2e010b21af66858cb0fe48607bd32] is to be read as a reference to the High Court.
+(2) In relation to a reference under that section, any reference to “the court” in sections 321 to 323 of the Sentencing Code[^c-6bb2e010b21af66858cb0fe48607bd32] is to be read as a reference to the High Court.
 
 (3) A person in respect of whom a reference has been made under section 273 may with the leave of the Court of Appeal appeal to the Court of Appeal against the decision of the High Court on the reference.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6bb2e010b21af66858cb0fe48607bd32]: Textual amendment: Words in s. 274(2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 240](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/240) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6bb2e010b21af66858cb0fe48607bd32]: Textual amendment: Words in s. 274(2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 240](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/240) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19173561]: Textual amendment: Words in s. 274 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/40/4), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 82(5)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/82/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

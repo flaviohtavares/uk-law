@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Enforcement[^key-41274fc76c9bb1d1cd89a7576e2d6bf0]
+## 11. Enforcement[^c-41274fc76c9bb1d1cd89a7576e2d6bf0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41274fc76c9bb1d1cd89a7576e2d6bf0]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1991/2197/regulation/11) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/9)
+[^c-41274fc76c9bb1d1cd89a7576e2d6bf0]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1991/2197/regulation/11) omitted (15.3.2019) by virtue of [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/601)](https://www.legislation.gov.uk/uksi/2019/601), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/601/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2019/601/regulation/2/9)

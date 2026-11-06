@@ -31,7 +31,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police and Crime Commissioner Elections (Designation of Local Authorities) Order 2020 (revoked)[^key-183991028c7b6ece9dbbd41cf2e9c68d]
+The Police and Crime Commissioner Elections (Designation of Local Authorities) Order 2020 (revoked)[^c-183991028c7b6ece9dbbd41cf2e9c68d]
 
 Made
 
@@ -39,44 +39,44 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-183991028c7b6ece9dbbd41cf2e9c68d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-183991028c7b6ece9dbbd41cf2e9c68d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-183991028c7b6ece9dbbd41cf2e9c68d]
+## 1. Citation, commencement and interpretation[^c-183991028c7b6ece9dbbd41cf2e9c68d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of local authorities in England[^key-183991028c7b6ece9dbbd41cf2e9c68d]
+## 2. Designation of local authorities in England[^c-183991028c7b6ece9dbbd41cf2e9c68d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of local authorities in Wales[^key-183991028c7b6ece9dbbd41cf2e9c68d]
+## 3. Designation of local authorities in Wales[^c-183991028c7b6ece9dbbd41cf2e9c68d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation and saving[^key-183991028c7b6ece9dbbd41cf2e9c68d]
+## 4. Revocation and saving[^c-183991028c7b6ece9dbbd41cf2e9c68d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-183991028c7b6ece9dbbd41cf2e9c68d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-183991028c7b6ece9dbbd41cf2e9c68d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Designated local authorities in England[^key-183991028c7b6ece9dbbd41cf2e9c68d]
+## SCHEDULE 1 — Designated local authorities in England[^c-183991028c7b6ece9dbbd41cf2e9c68d]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Designated Local Authorities in Wales[^key-183991028c7b6ece9dbbd41cf2e9c68d]
+## SCHEDULE 2 — Designated Local Authorities in Wales[^c-183991028c7b6ece9dbbd41cf2e9c68d]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-183991028c7b6ece9dbbd41cf2e9c68d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-183991028c7b6ece9dbbd41cf2e9c68d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-183991028c7b6ece9dbbd41cf2e9c68d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/134) revoked (22.2.2024) by [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) Order 2024 (S.I. 2024/186)](https://www.legislation.gov.uk/uksi/2024/186), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2024/186/article/7/1/a) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/186/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2024/186/article/7/3))
+[^c-183991028c7b6ece9dbbd41cf2e9c68d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/134) revoked (22.2.2024) by [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) Order 2024 (S.I. 2024/186)](https://www.legislation.gov.uk/uksi/2024/186), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2024/186/article/7/1/a) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/186/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2024/186/article/7/3))

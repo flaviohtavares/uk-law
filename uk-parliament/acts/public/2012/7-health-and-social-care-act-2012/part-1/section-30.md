@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Appointment of directors of public health[^key-465da681a528028f26cb8e3b3e153b0b][^c2191284]
+## 30. Appointment of directors of public health[^c-465da681a528028f26cb8e3b3e153b0b][^c2191284]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ In Part 3 of the National Health Service Act 2006 (local authorities and the NHS
 
 ## Annotations
 
-[^key-465da681a528028f26cb8e3b3e153b0b]: Commencement: S. 30 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-465da681a528028f26cb8e3b3e153b0b]: Commencement: S. 30 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191284]: Commencement: S. 30 partly in force; s. 30 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

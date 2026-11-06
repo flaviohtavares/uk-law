@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — STREETS SUBJECT TO PERMANENT ALTERATION OF LAYOUT[^key-34fbec72c08e6dfc951cfcff0536ed4e]
+## SCHEDULE 4 — STREETS SUBJECT TO PERMANENT ALTERATION OF LAYOUT[^c-34fbec72c08e6dfc951cfcff0536ed4e]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Table 4
 
 ## Annotations
 
-[^key-34fbec72c08e6dfc951cfcff0536ed4e]: Commencement: Sch. 4 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-34fbec72c08e6dfc951cfcff0536ed4e]: Commencement: Sch. 4 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)

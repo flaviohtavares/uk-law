@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-24cd8f83a05b7b6223d41f8f4e33b10a] Where a flow-through entity is the ultimate parent of a multinational group, or[^key-8c5bf05034e091f68908931df25e35cb] would be a responsible member of a multinational group if the entity were located in the territory in which it is created, the entity is treated as located in the territory in which it is created[^key-c1663023b3f8b534d209a989e41d9879].
+(1)[^c-24cd8f83a05b7b6223d41f8f4e33b10a] Where a flow-through entity is the ultimate parent of a multinational group, or[^c-8c5bf05034e091f68908931df25e35cb] would be a responsible member of a multinational group if the entity were located in the territory in which it is created, the entity is treated as located in the territory in which it is created[^c-c1663023b3f8b534d209a989e41d9879].
 
 (2) Any other flow-through entity is a stateless entity.
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-24cd8f83a05b7b6223d41f8f4e33b10a]: Textual amendment: S. 240(1) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 32(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/32/2)
+[^c-24cd8f83a05b7b6223d41f8f4e33b10a]: Textual amendment: S. 240(1) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 32(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/32/2)
 
-[^key-8c5bf05034e091f68908931df25e35cb]: Textual amendment: Words in s. 240(1) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 17(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/17/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-8c5bf05034e091f68908931df25e35cb]: Textual amendment: Words in s. 240(1) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 17(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/17/a), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-c1663023b3f8b534d209a989e41d9879]: Textual amendment: Words in s. 240(1) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 17(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/17/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-c1663023b3f8b534d209a989e41d9879]: Textual amendment: Words in s. 240(1) substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 17(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/17/b), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

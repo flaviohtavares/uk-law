@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-8e11fada613bf4beaf3c7e332d2d28ac] The Authority shall prepare—
+(1)[^c-8e11fada613bf4beaf3c7e332d2d28ac] The Authority shall prepare—
 
 - (a) a report for the period beginning with the 1 August preceding the relevant commencement date (or if that date is a 1 August, beginning with that date) and ending with the next 31 March, and
 - (b) a report for each succeeding period of 12 months ending with 31 March.
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e11fada613bf4beaf3c7e332d2d28ac]: Textual amendment: S. 7(1)-(1B) substituted for s. 7(1) (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
+[^c-8e11fada613bf4beaf3c7e332d2d28ac]: Textual amendment: S. 7(1)-(1B) substituted for s. 7(1) (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/3); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)

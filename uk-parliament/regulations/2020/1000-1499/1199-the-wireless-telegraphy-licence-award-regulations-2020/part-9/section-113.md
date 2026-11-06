@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Particular frequencies to be included in 700 MHz lot licence granted to a winning bidder[^key-c97a9619c5320994cc9c5ce6f82e8ce9]
+## 113. Particular frequencies to be included in 700 MHz lot licence granted to a winning bidder[^c-c97a9619c5320994cc9c5ce6f82e8ce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Where a winning bidder won 700 MHz individual frequency lots or 700 MHz paired f
 
 ## Annotations
 
-[^key-c97a9619c5320994cc9c5ce6f82e8ce9]: Commencement: Reg. 113 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-c97a9619c5320994cc9c5ce6f82e8ce9]: Commencement: Reg. 113 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## E11B. Increase in pensionable pay following exercise of option under regulation E11A[^key-0388b3316485bfbc503f38a304127153]
+## E11B. Increase in pensionable pay following exercise of option under regulation E11A[^c-0388b3316485bfbc503f38a304127153]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ where—
 
 ## Annotations
 
-[^key-0388b3316485bfbc503f38a304127153]: Textual amendment: Regs. E11A-E11C inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [11](https://www.legislation.gov.uk/ssi/2024/272/regulation/11)
+[^c-0388b3316485bfbc503f38a304127153]: Textual amendment: Regs. E11A-E11C inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [11](https://www.legislation.gov.uk/ssi/2024/272/regulation/11)

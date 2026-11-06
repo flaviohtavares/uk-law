@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Election to accelerate receipts under s.26(4)[^key-955d807dbaee1ad9d28290f11a2fa725]
+## 27. Election to accelerate receipts under s.26(4)[^c-955d807dbaee1ad9d28290f11a2fa725]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-955d807dbaee1ad9d28290f11a2fa725]: Modification: [S. 27](https://www.legislation.gov.uk/ukpga/2012/14/section/27) applied (with modifications) (1.1.2016) by [The Lloyds Underwriters (Transitional Equalisation Reserves) (Tax) Regulations 2015 (S.I. 2015/1983)](https://www.legislation.gov.uk/uksi/2015/1983), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1983/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/1983/regulation/3), [4](https://www.legislation.gov.uk/uksi/2015/1983/regulation/4)
+[^c-955d807dbaee1ad9d28290f11a2fa725]: Modification: [S. 27](https://www.legislation.gov.uk/ukpga/2012/14/section/27) applied (with modifications) (1.1.2016) by [The Lloyds Underwriters (Transitional Equalisation Reserves) (Tax) Regulations 2015 (S.I. 2015/1983)](https://www.legislation.gov.uk/uksi/2015/1983), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1983/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/1983/regulation/3), [4](https://www.legislation.gov.uk/uksi/2015/1983/regulation/4)

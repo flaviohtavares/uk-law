@@ -32,7 +32,7 @@ summary: ''
 
 Plant health
 
-The Plant Health (Forestry) (Amendment) Order 2006 (revoked)[^key-d2c5dcf657679de150f4ced79d65fc5c]
+The Plant Health (Forestry) (Amendment) Order 2006 (revoked)[^c-d2c5dcf657679de150f4ced79d65fc5c]
 
 Made
 
@@ -46,25 +46,25 @@ Coming into force
 
 6th November 2006
 
-[^key-d2c5dcf657679de150f4ced79d65fc5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2c5dcf657679de150f4ced79d65fc5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d2c5dcf657679de150f4ced79d65fc5c]
+## 1. Title and commencement[^c-d2c5dcf657679de150f4ced79d65fc5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Forestry) Order 2005[^key-d2c5dcf657679de150f4ced79d65fc5c]
+## 2. Amendment of the Plant Health (Forestry) Order 2005[^c-d2c5dcf657679de150f4ced79d65fc5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d2c5dcf657679de150f4ced79d65fc5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2c5dcf657679de150f4ced79d65fc5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d2c5dcf657679de150f4ced79d65fc5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2c5dcf657679de150f4ced79d65fc5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d2c5dcf657679de150f4ced79d65fc5c]: Textual amendment: Order revoked (S.) (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6)
+[^c-d2c5dcf657679de150f4ced79d65fc5c]: Textual amendment: Order revoked (S.) (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6)
 
     Order revoked (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)
 

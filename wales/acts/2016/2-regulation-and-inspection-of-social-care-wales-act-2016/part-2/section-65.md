@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Overview of Parts 3 to 8[^key-6950823b297b5bb94c61ece5640dd36f]
+## 65. Overview of Parts 3 to 8[^c-6950823b297b5bb94c61ece5640dd36f]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6950823b297b5bb94c61ece5640dd36f]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2016/2/section/65) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/309/article/2/a) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-6950823b297b5bb94c61ece5640dd36f]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2016/2/section/65) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/309/article/2/a) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

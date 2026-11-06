@@ -55,45 +55,45 @@ Her Majesty, in exercise of Her powers under section 2(2) of the European Commun
 
 This Order may be cited as the Veterinary Surgeons' Qualifications (European Recognition) Order 2003 and shall come into force on 17 December 2003.
 
-## 2. Interpretation[^key-38587623f41591ed3406faa1cd7e006a]
+## 2. Interpretation[^c-38587623f41591ed3406faa1cd7e006a]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Registration under section 5A[^key-38587623f41591ed3406faa1cd7e006a]
+## 3. Registration under section 5A[^c-38587623f41591ed3406faa1cd7e006a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Registration under section 5B[^key-38587623f41591ed3406faa1cd7e006a]
+## 4. Registration under section 5B[^c-38587623f41591ed3406faa1cd7e006a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Disqualifying decision[^key-38587623f41591ed3406faa1cd7e006a]
+## 5. Disqualifying decision[^c-38587623f41591ed3406faa1cd7e006a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Referral to the preliminary investigation committee[^key-38587623f41591ed3406faa1cd7e006a]
+## 6. Referral to the preliminary investigation committee[^c-38587623f41591ed3406faa1cd7e006a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Referral to the disciplinary committee[^key-38587623f41591ed3406faa1cd7e006a]
+## 7. Referral to the disciplinary committee[^c-38587623f41591ed3406faa1cd7e006a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Removal of name from the register[^key-38587623f41591ed3406faa1cd7e006a]
+## 8. Removal of name from the register[^c-38587623f41591ed3406faa1cd7e006a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Notification of decision[^key-38587623f41591ed3406faa1cd7e006a]
+## 9. Notification of decision[^c-38587623f41591ed3406faa1cd7e006a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Rights of nationals of member States to render veterinary services in the United Kingdom temporarily[^key-38587623f41591ed3406faa1cd7e006a]
+## 10. Rights of nationals of member States to render veterinary services in the United Kingdom temporarily[^c-38587623f41591ed3406faa1cd7e006a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Disciplinary provisions affecting practitioners who render services while visiting the United Kingdom temporarily[^key-38587623f41591ed3406faa1cd7e006a]
+## 11. Disciplinary provisions affecting practitioners who render services while visiting the United Kingdom temporarily[^c-38587623f41591ed3406faa1cd7e006a]
 
 **No longer in force.**
 
@@ -125,11 +125,11 @@ Clerk of the Privy Council
 
 .
 
-**2.**[^key-d5cb4160da255cb7b57904faa46dfa4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d5cb4160da255cb7b57904faa46dfa4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d5cb4160da255cb7b57904faa46dfa4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d5cb4160da255cb7b57904faa46dfa4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d5cb4160da255cb7b57904faa46dfa4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d5cb4160da255cb7b57904faa46dfa4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** After the new section 5C, there is inserted—
 
@@ -154,14 +154,14 @@ Clerk of the Privy Council
 **7.** Section 27(1) (interpretation) is amended as follows—
 
 - (a) The definition of “Commonwealth qualification” and “foreign qualification” is omitted.
-- (b)[^key-12411359876ab99bedbf6977bc99cfb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-12411359876ab99bedbf6977bc99cfb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 -
   - (c) The following definitions are inserted in the appropriate places in alphabetical order—
-- [^key-b2744105571303e22375e2837aa371d7]...
+- [^c-b2744105571303e22375e2837aa371d7]...
 - “**registration appeals committee**” means the committee of the Council referred to in section 5D of this Act;
 
-**8.**[^key-4d27742a6931fc2b6481e76c13816b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4d27742a6931fc2b6481e76c13816b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Order)*
 
@@ -192,7 +192,7 @@ Clerk of the Privy Council
 
 [^c5096871]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-38587623f41591ed3406faa1cd7e006a]: Textual amendment: Arts. 2-11 revoked (6.8.2008) by [The Veterinary Surgeons Qualifications (European Recognition) Regulations 2008 (S.I. 2008/1824)](https://www.legislation.gov.uk/uksi/2008/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1824/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2008/1824/regulation/3/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2008/1824/regulation/4))
+[^c-38587623f41591ed3406faa1cd7e006a]: Textual amendment: Arts. 2-11 revoked (6.8.2008) by [The Veterinary Surgeons Qualifications (European Recognition) Regulations 2008 (S.I. 2008/1824)](https://www.legislation.gov.uk/uksi/2008/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1824/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2008/1824/regulation/3/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2008/1824/regulation/4))
 
 [^c5096901]: Marginal citation: [S.I. 1980/1951](https://www.legislation.gov.uk/uksi/1980/1951).
 
@@ -204,10 +204,10 @@ Clerk of the Privy Council
 
 [^c5096941]: Marginal citation: [S.I. 1993/596](https://www.legislation.gov.uk/uksi/1993/596).
 
-[^key-d5cb4160da255cb7b57904faa46dfa4b]: Textual amendment: Sch. paras. 2-4 revoked (6.8.2008) by [The Veterinary Surgeons Qualifications (European Recognition) Regulations 2008 (S.I. 2008/1824)](https://www.legislation.gov.uk/uksi/2008/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1824/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/1824/regulation/3/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2008/1824/regulation/4))
+[^c-d5cb4160da255cb7b57904faa46dfa4b]: Textual amendment: Sch. paras. 2-4 revoked (6.8.2008) by [The Veterinary Surgeons Qualifications (European Recognition) Regulations 2008 (S.I. 2008/1824)](https://www.legislation.gov.uk/uksi/2008/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1824/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/1824/regulation/3/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2008/1824/regulation/4))
 
-[^key-12411359876ab99bedbf6977bc99cfb4]: Textual amendment: Sch. para. 7(b) revoked (6.8.2008) by [The Veterinary Surgeons Qualifications (European Recognition) Regulations 2008 (S.I. 2008/1824)](https://www.legislation.gov.uk/uksi/2008/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1824/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/1824/regulation/3/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2008/1824/regulation/4))
+[^c-12411359876ab99bedbf6977bc99cfb4]: Textual amendment: Sch. para. 7(b) revoked (6.8.2008) by [The Veterinary Surgeons Qualifications (European Recognition) Regulations 2008 (S.I. 2008/1824)](https://www.legislation.gov.uk/uksi/2008/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1824/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/1824/regulation/3/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2008/1824/regulation/4))
 
-[^key-b2744105571303e22375e2837aa371d7]: Textual amendment: Words in Sch. para. 7(c) revoked (6.8.2008) by [The Veterinary Surgeons Qualifications (European Recognition) Regulations 2008 (S.I. 2008/1824)](https://www.legislation.gov.uk/uksi/2008/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1824/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2008/1824/regulation/3/1/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2008/1824/regulation/4))
+[^c-b2744105571303e22375e2837aa371d7]: Textual amendment: Words in Sch. para. 7(c) revoked (6.8.2008) by [The Veterinary Surgeons Qualifications (European Recognition) Regulations 2008 (S.I. 2008/1824)](https://www.legislation.gov.uk/uksi/2008/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1824/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2008/1824/regulation/3/1/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2008/1824/regulation/4))
 
-[^key-4d27742a6931fc2b6481e76c13816b06]: Textual amendment: Sch. para. 8 revoked (6.8.2008) by [The Veterinary Surgeons Qualifications (European Recognition) Regulations 2008 (S.I. 2008/1824)](https://www.legislation.gov.uk/uksi/2008/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1824/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/1824/regulation/3/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2008/1824/regulation/4))
+[^c-4d27742a6931fc2b6481e76c13816b06]: Textual amendment: Sch. para. 8 revoked (6.8.2008) by [The Veterinary Surgeons Qualifications (European Recognition) Regulations 2008 (S.I. 2008/1824)](https://www.legislation.gov.uk/uksi/2008/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1824/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2008/1824/regulation/3/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2008/1824/regulation/4))

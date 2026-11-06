@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Authorised persons[^key-b5527c37dbb3e5d02ac160d53a6aed0b]
+## 38. Authorised persons[^c-b5527c37dbb3e5d02ac160d53a6aed0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5527c37dbb3e5d02ac160d53a6aed0b]: Commencement: Art. 38 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-b5527c37dbb3e5d02ac160d53a6aed0b]: Commencement: Art. 38 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
 [^c24438161]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25); [section 108(1)](https://www.legislation.gov.uk/uksi/2020/1265/section/108/1) was relevantly amended by section 46(2)(a) of the [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3).

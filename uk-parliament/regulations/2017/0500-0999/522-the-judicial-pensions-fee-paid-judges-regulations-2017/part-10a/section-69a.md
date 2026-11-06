@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69A. Commutation of small pensions[^key-95bee346daba50644525b8f7e701d18e]
+## 69A. Commutation of small pensions[^c-95bee346daba50644525b8f7e701d18e]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,13 +48,13 @@ summary: ''
 
 - “**beneficiary**” includes a transferee within the meaning of regulation 29(1);
 - “**the commutation provisions**” means the provisions permitting the commutation of pensions set out in—
-  - (a) paragraph 7 of Schedule 29 (registered pension schemes: authorised lump sums - supplementary) to the Finance Act 2004 (which defines trivial commutation lump sums for the purposes of Part 4 of that Act) and, in relation to a pension payable under Chapter 2 of Part 2B or Part 6 of these Regulations[^key-42518e5f20c67c3147556745802b8287], paragraph 20 of that Schedule (which defines trivial commutation lump sum death benefit for the purposes of Part 4 of that Act); and
+  - (a) paragraph 7 of Schedule 29 (registered pension schemes: authorised lump sums - supplementary) to the Finance Act 2004 (which defines trivial commutation lump sums for the purposes of Part 4 of that Act) and, in relation to a pension payable under Chapter 2 of Part 2B or Part 6 of these Regulations[^c-42518e5f20c67c3147556745802b8287], paragraph 20 of that Schedule (which defines trivial commutation lump sum death benefit for the purposes of Part 4 of that Act); and
   - (b) Part 2 (commutation payments) of the Registered Pension Schemes (Authorised Payments) Regulations 2009;
 - “**retirement benefits**” means all benefits payable under these Regulations, including any additional benefits purchased by the member;
 - “**the small pensions commutation maximum**” means the amount that is permitted to be commuted taking account of all sources of pension and having regard to the commutation provisions that apply in the circumstances, had this scheme been a registered pension scheme.
 
 ## Annotations
 
-[^key-95bee346daba50644525b8f7e701d18e]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/2017/522/part/10A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2023/403/regulation/43)
+[^c-95bee346daba50644525b8f7e701d18e]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/2017/522/part/10A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2023/403/regulation/43)
 
-[^key-42518e5f20c67c3147556745802b8287]: Textual amendment: Words in [reg. 69A(7)](https://www.legislation.gov.uk/uksi/2017/522/regulation/69A/7) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2024/1358/regulation/19)
+[^c-42518e5f20c67c3147556745802b8287]: Textual amendment: Words in [reg. 69A(7)](https://www.legislation.gov.uk/uksi/2017/522/regulation/69A/7) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2024/1358/regulation/19)

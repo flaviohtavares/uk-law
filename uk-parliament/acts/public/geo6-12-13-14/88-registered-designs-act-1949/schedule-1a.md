@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — EUROPEAN COMMUNITY REGISTERED DESIGNS[^key-712b8b3fa9c188757a4480b09e4034e7]
+## SCHEDULE 1A — EUROPEAN COMMUNITY REGISTERED DESIGNS[^c-712b8b3fa9c188757a4480b09e4034e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Section 12A
 
 #### 1. Designs registered as Community designs to be treated as registered under the Act
 
-(1) A design which, immediately before IP completion day[^key-af568c71e43b60d43b1bfdd105179d8e], is entered in the RCD register and has been published in the Community Designs Bulletin as mentioned in Article 73(1) (an “existing registered Community design”) is to be treated on and after IP completion day as if an application for its registration had been made, and it had been registered, under this Act.
+(1) A design which, immediately before IP completion day[^c-af568c71e43b60d43b1bfdd105179d8e], is entered in the RCD register and has been published in the Community Designs Bulletin as mentioned in Article 73(1) (an “existing registered Community design”) is to be treated on and after IP completion day as if an application for its registration had been made, and it had been registered, under this Act.
 
 (2) A registered design which comes into being by virtue of sub-paragraph (1) is referred to in this Schedule as a “**re-registered design**”.
 
@@ -141,7 +141,7 @@ Section 12A
 
 (6) For the purposes of this paragraph proceedings are treated as pending on IP completion day if they were instituted but not finally determined before IP completion day.
 
-#### 9A. Existing registered Community design: effect of invalidity[^key-97ea63a6a02a14e388dbffa80cfd8f8c]
+#### 9A. Existing registered Community design: effect of invalidity[^c-97ea63a6a02a14e388dbffa80cfd8f8c]
 
 (1) This paragraph applies where, on IP completion day, an existing registered Community design is the subject of proceedings under Article 25 (Grounds for invalidity) which have been instituted but not finally determined before IP completion day (“invalidation proceedings”).
 
@@ -325,8 +325,8 @@ In this Schedule—
 
 ## Annotations
 
-[^key-712b8b3fa9c188757a4480b09e4034e7]: Textual amendment: Schs. 1A, 1B inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/638/schedule/3/paragraph/3) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2019/638/schedule/5/part/1)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2020/1050/regulation/23)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-712b8b3fa9c188757a4480b09e4034e7]: Textual amendment: Schs. 1A, 1B inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/638/schedule/3/paragraph/3) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2019/638/schedule/5/part/1)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2020/1050/regulation/23)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af568c71e43b60d43b1bfdd105179d8e]: Textual amendment: Words in [Sch. 1A](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/schedule/1A) substituted in earlier amending provision S.I. 2019/638, Sch. 3 para. 3 (31.12.2020) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [21(c)(i)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/21/c/i)
+[^c-af568c71e43b60d43b1bfdd105179d8e]: Textual amendment: Words in [Sch. 1A](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/schedule/1A) substituted in earlier amending provision S.I. 2019/638, Sch. 3 para. 3 (31.12.2020) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [21(c)(i)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/21/c/i)
 
-[^key-97ea63a6a02a14e388dbffa80cfd8f8c]: Textual amendment: [Sch. 1A para. 9A](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/schedule/1A/paragraph/9A) inserted in earlier amending provision S.I. 2019/638, Sch. 3 para. 3 (31.12.2020) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [21(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/21/c/ii)
+[^c-97ea63a6a02a14e388dbffa80cfd8f8c]: Textual amendment: [Sch. 1A para. 9A](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/schedule/1A/paragraph/9A) inserted in earlier amending provision S.I. 2019/638, Sch. 3 para. 3 (31.12.2020) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [21(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/21/c/ii)

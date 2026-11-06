@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Time for payment[^key-13164a03cc611416779c803ac4cdf2a3]
+## 72. Time for payment[^c-13164a03cc611416779c803ac4cdf2a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ must be paid to the appropriate clerk of court on the date on which the notice u
 
 ## Annotations
 
-[^key-13164a03cc611416779c803ac4cdf2a3]: Commencement: [Art. 72](https://www.legislation.gov.uk/uksi/2005/3181/article/72) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-13164a03cc611416779c803ac4cdf2a3]: Commencement: [Art. 72](https://www.legislation.gov.uk/uksi/2005/3181/article/72) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Amendment of regulation 168 (use of non-prescription medicines in the course of a business)[^M_I_23fe2b4c-8159-4e7b-ed0a-c076257877be][^key-d1a792b11e620c67a279797b9b9bff54]
+## 135. Amendment of regulation 168 (use of non-prescription medicines in the course of a business)[^M_I_23fe2b4c-8159-4e7b-ed0a-c076257877be][^c-d1a792b11e620c67a279797b9b9bff54]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ In regulation 168 (use of non-prescription medicines in the course of a business
 
 [^M_I_23fe2b4c-8159-4e7b-ed0a-c076257877be]: Commencement: Reg. 135 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d1a792b11e620c67a279797b9b9bff54]: Textual amendment: Reg. 135 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 103](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/103)
+[^c-d1a792b11e620c67a279797b9b9bff54]: Textual amendment: Reg. 135 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 103](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/103)

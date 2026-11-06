@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Powers of unincorporated charities[^key-a58181799aa6ee156f9204b89c36c359][^key-14524781e3aaac8896c73ef8d6df6a68]
+## 3. Powers of unincorporated charities[^c-a58181799aa6ee156f9204b89c36c359][^c-14524781e3aaac8896c73ef8d6df6a68]
 
 *Extent: E+W*
 
@@ -107,6 +107,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a58181799aa6ee156f9204b89c36c359]: Commencement: S. 3 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-a58181799aa6ee156f9204b89c36c359]: Commencement: S. 3 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-14524781e3aaac8896c73ef8d6df6a68]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/6/section/3) in force at 7.3.2024 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/265/regulation/8))
+[^c-14524781e3aaac8896c73ef8d6df6a68]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/6/section/3) in force at 7.3.2024 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/265/regulation/8))

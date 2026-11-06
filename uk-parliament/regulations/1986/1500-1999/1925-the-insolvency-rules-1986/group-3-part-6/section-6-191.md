@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.191. Variation of order[^key-9833d0d4cd89d5e74093e48f137dd099]
+## 6.191. Variation of order[^c-9833d0d4cd89d5e74093e48f137dd099]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9833d0d4cd89d5e74093e48f137dd099]: Commencement: [Rule 6.191](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.191) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-9833d0d4cd89d5e74093e48f137dd099]: Commencement: [Rule 6.191](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.191) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00190]: Marginal citation: \[FORM 6.67\]

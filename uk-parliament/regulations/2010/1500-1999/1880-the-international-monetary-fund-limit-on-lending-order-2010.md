@@ -32,7 +32,7 @@ summary: ''
 
 International Monetary Fund
 
-The International Monetary Fund (Limit on Lending) Order 2010 (revoked)[^key-f32b69644987560c3bb6de27cf568921]
+The International Monetary Fund (Limit on Lending) Order 2010 (revoked)[^c-f32b69644987560c3bb6de27cf568921]
 
 Made
 
@@ -40,28 +40,28 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-f32b69644987560c3bb6de27cf568921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f32b69644987560c3bb6de27cf568921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f32b69644987560c3bb6de27cf568921]
+## 1. Citation and commencement[^c-f32b69644987560c3bb6de27cf568921]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increase in limit on lending[^key-f32b69644987560c3bb6de27cf568921]
+## 2. Increase in limit on lending[^c-f32b69644987560c3bb6de27cf568921]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-f32b69644987560c3bb6de27cf568921]
+## 3. Revocation[^c-f32b69644987560c3bb6de27cf568921]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f32b69644987560c3bb6de27cf568921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f32b69644987560c3bb6de27cf568921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f32b69644987560c3bb6de27cf568921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f32b69644987560c3bb6de27cf568921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f32b69644987560c3bb6de27cf568921]: Textual amendment: Order revoked (1.10.2020) by [The International Monetary Fund (Limit on Lending) Order 2020 (S.I. 2020/1054)](https://www.legislation.gov.uk/uksi/2020/1054), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1054/article/1), [3](https://www.legislation.gov.uk/uksi/2020/1054/article/3)
+[^c-f32b69644987560c3bb6de27cf568921]: Textual amendment: Order revoked (1.10.2020) by [The International Monetary Fund (Limit on Lending) Order 2020 (S.I. 2020/1054)](https://www.legislation.gov.uk/uksi/2020/1054), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1054/article/1), [3](https://www.legislation.gov.uk/uksi/2020/1054/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Existing public body pension schemes: pension age[^key-1cc95c834b69154d80469cf766882476]
+## 32. Existing public body pension schemes: pension age[^c-1cc95c834b69154d80469cf766882476]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cc95c834b69154d80469cf766882476]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2013/25/section/32) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/4/article/5/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2015/4/article/5/2/c)
+[^c-1cc95c834b69154d80469cf766882476]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2013/25/section/32) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/4/article/5/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2015/4/article/5/2/c)

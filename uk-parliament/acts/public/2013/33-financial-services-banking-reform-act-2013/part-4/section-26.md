@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Variation of approval[^key-e8ef410d59fd2163f180287d429d4902]
+## 26. Variation of approval[^c-e8ef410d59fd2163f180287d429d4902]
 
 *Extent: E+W+S+N.I.*
 
@@ -135,4 +135,4 @@ After section 63 of FSMA 2000 insert—
 
 ## Annotations
 
-[^key-e8ef410d59fd2163f180287d429d4902]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2013/33/section/26) in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
+[^c-e8ef410d59fd2163f180287d429d4902]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2013/33/section/26) in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))

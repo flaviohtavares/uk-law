@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Review by regulator of certain decisions made by it[^key-9fd20045cc84d56d72641b76fe546934][^key-3b207b74954c4bb463e8668030ecf686]
+## 25. Review by regulator of certain decisions made by it[^c-9fd20045cc84d56d72641b76fe546934][^c-3b207b74954c4bb463e8668030ecf686]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9fd20045cc84d56d72641b76fe546934]: Commencement: S. 25 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-9fd20045cc84d56d72641b76fe546934]: Commencement: S. 25 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-3b207b74954c4bb463e8668030ecf686]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/30/section/25) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(j)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/j)
+[^c-3b207b74954c4bb463e8668030ecf686]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/30/section/25) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(j)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/j)

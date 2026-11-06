@@ -45,11 +45,11 @@ Coming into Operation
 
 The Secretary of State, in exercise of the powers conferred on him by sections 76(3) and (5), 87(4), 88(1) and (4), 98(3) and (5), 182(2) and 189(1) of the Consumer Credit Act 1974 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-**1.**[^key-5ef3497f59261be61f52882ac1f4d3f5] (1) These Regulations may be cited as the Consumer Credit (Enforcement, Default and Termination Notices) Regulations 1983 and shall come into operation on 19th May 1985.
+**1.**[^c-5ef3497f59261be61f52882ac1f4d3f5] (1) These Regulations may be cited as the Consumer Credit (Enforcement, Default and Termination Notices) Regulations 1983 and shall come into operation on 19th May 1985.
 
 (2) In these Regulations, “**the Act**” means the Consumer Credit Act 1974.
 
-**2.**[^key-f347c8dfcbfaf6ade89d8013137d1b27] (1) Any notice to be given by a creditor or owner in relation to a regulated agreement to a debtor or hirer under section 76(1) of the Act (which relates to the duty to give notice to the debtor or hirer (non-default cases) before taking certain action to enforce a term of an agreement) shall contain—
+**2.**[^c-f347c8dfcbfaf6ade89d8013137d1b27] (1) Any notice to be given by a creditor or owner in relation to a regulated agreement to a debtor or hirer under section 76(1) of the Act (which relates to the duty to give notice to the debtor or hirer (non-default cases) before taking certain action to enforce a term of an agreement) shall contain—
 
 - (a) a statement that the notice is served under section 76(1) of the Consumer Credit Act 1974;
 - (b) the information set out in paragraphs 1 to 5 of Schedule 1 to these Regulations; and
@@ -59,7 +59,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 - (a) a statement that the notice is a default notice served under section 87(1) of the Consumer Credit Act 1974;
 - (b) the information set out in paragraphs 1 to 3, 6 and 8 of Schedule 2 to these Regulations; and
-- (c) statements in the form specified in paragraphs 4, 5, 7 and 9 to 13[^key-8c667e0a0a95246187e14e4a761c15ee] of that Schedule.
+- (c) statements in the form specified in paragraphs 4, 5, 7 and 9 to 13[^c-8c667e0a0a95246187e14e4a761c15ee] of that Schedule.
 
 (3) Any notice to be given by a creditor or owner in relation to a regulated agreement to a debtor or hirer under section 98(1) of the Act (which relates to the duty to give notice to the debtor or hirer (non-default cases) of termination of an agreement) shall contain—
 
@@ -69,16 +69,16 @@ The Secretary of State, in exercise of the powers conferred on him by sections 7
 
 (4) The lettering in any notice given under paragraph (1), (2) or (3) above shall, apart from any signature, be easily legible and of a colour which is readily distinguishable from the colour of the paper.
 
-(4A)[^key-3e3e89ddb44961effc2741ad53a21e10] Any notice to be given under a provision of these Regulations shall be in writing and given to the debtor or hirer in paper form.
+(4A)[^c-3e3e89ddb44961effc2741ad53a21e10] Any notice to be given under a provision of these Regulations shall be in writing and given to the debtor or hirer in paper form.
 
-(5) Where any statement is required to be given prominence by[^key-83579f492dea6aa85c481e955f88400a] a Schedule to these Regulations and is reproduced in the notice, then apart from any heading to the notice , sub-heading within the notice[^key-507ef97c4e635e0c6022da582b9ee4ce], trade names or names of parties to the agreement—
+(5) Where any statement is required to be given prominence by[^c-83579f492dea6aa85c481e955f88400a] a Schedule to these Regulations and is reproduced in the notice, then apart from any heading to the notice , sub-heading within the notice[^c-507ef97c4e635e0c6022da582b9ee4ce], trade names or names of parties to the agreement—
 
-- (a) the lettering in the statement shall be afforded more prominence [^key-0fd5790f5ea7c1fa3a599e0b9fe7a85a]... than any other lettering in the notice; and
-- (b)[^key-cf4f6a07f485322005bb56dec6730d37] such prominence is only to be afforded by bold print or underlining.
+- (a) the lettering in the statement shall be afforded more prominence [^c-0fd5790f5ea7c1fa3a599e0b9fe7a85a]... than any other lettering in the notice; and
+- (b)[^c-cf4f6a07f485322005bb56dec6730d37] such prominence is only to be afforded by bold print or underlining.
 
-(6) Where any statement is required to be in a form specified in a Schedule to these Regulations and is reproduced in the notice, its wording[^key-20b151d95e925a2819e9911150f747de] shall be reproduced in the notice without any alteration or addition , in the same letter case[^key-aacac3406fe19c6a5a6aca96a6a3c72f], and in relation to any statement to be contained in the notice the requirements of any note shall be complied with, except that the words “the creditor” may be replaced by the name of the creditor, by the expression by which he is referred to in the agreement or by an appropriate pronoun, and any consequential changes to pronouns and verbs may be used.
+(6) Where any statement is required to be in a form specified in a Schedule to these Regulations and is reproduced in the notice, its wording[^c-20b151d95e925a2819e9911150f747de] shall be reproduced in the notice without any alteration or addition , in the same letter case[^c-aacac3406fe19c6a5a6aca96a6a3c72f], and in relation to any statement to be contained in the notice the requirements of any note shall be complied with, except that the words “the creditor” may be replaced by the name of the creditor, by the expression by which he is referred to in the agreement or by an appropriate pronoun, and any consequential changes to pronouns and verbs may be used.
 
-(6A)[^key-8f1b736c37099d39bd59557dbb207275] Despite paragraph (6)—
+(6A)[^c-8f1b736c37099d39bd59557dbb207275] Despite paragraph (6)—
 
 - (a) the words “or a surety” may—
   - (i) be omitted where there is no surety, or
@@ -105,21 +105,21 @@ Regulation 2(1)
 
 ### Details of agreement
 
-**1.**[^key-b197e58c6f059f3549adb17a5ed547de] A description of the agreement sufficient to identify it.
+**1.**[^c-b197e58c6f059f3549adb17a5ed547de] A description of the agreement sufficient to identify it.
 
 ### Parties to agreement
 
-**2.**[^key-91dcbcf41b9c22059be08aa2a0309be4] (1) The name and a postal address of the creditor or owner.
+**2.**[^c-91dcbcf41b9c22059be08aa2a0309be4] (1) The name and a postal address of the creditor or owner.
 
 (2) The name and a postal address of the debtor or hirer.
 
 ### Term of agreement to be enforced
 
-**3.**[^key-1a9d40ae18d6b40c358917ad7320d59e] The term of the agreement to be enforced, or a reference to and a short description of that term.
+**3.**[^c-1a9d40ae18d6b40c358917ad7320d59e] The term of the agreement to be enforced, or a reference to and a short description of that term.
 
 ### Action intended to be taken by creditor or owner
 
-**4.**[^key-1c2d0343ff6694b0e6b5b6de0591d8b2] A clear and unambiguous statement by the creditor or owner indicating—
+**4.**[^c-1c2d0343ff6694b0e6b5b6de0591d8b2] A clear and unambiguous statement by the creditor or owner indicating—
 
 - (a) which (one or more) of the following types of action he intends to take, in order to enforce the term of the agreement,—
   - (i) to demand earlier payment of any sum;
@@ -130,24 +130,24 @@ Regulation 2(1)
 
 ### Demanding earlier payment of any sum
 
-**5.**[^key-310ca9add383de288e885b7aff6ff2e5] Where the creditor or owner states that he intends to demand earlier payment of any sum,
+**5.**[^c-310ca9add383de288e885b7aff6ff2e5] Where the creditor or owner states that he intends to demand earlier payment of any sum,
 
 - (a) the amount of the sum before deducting the amount of any rebate on early settlement;
 - (b) where any rebate on early settlement is allowable under the agreement or by virtue of section 95 of the Act—
   - (i) the amount of the rebate allowable calculated on the assumption that early settlement takes place on the date specified in the notice for earlier payment of the sum; and
   - (ii) the total amount to be paid by the debtor after taking into account the amount of any rebate on early settlement, namely the difference between the amount shown in paragraph (a) above and the amount shown in sub-paragraph (i).
 
-**6.**[^key-ada7331c8be0024303dc9d20272cda53][^key-0a6700d5086f90ca1e8c768ddc9d69df] A statement in the following form—
+**6.**[^c-ada7331c8be0024303dc9d20272cda53][^c-0a6700d5086f90ca1e8c768ddc9d69df] A statement in the following form—
 
-> If you are not sure what to do, you should get help as soon as possible. The Government’s Money Advice Service can help you find free debt advice and support.[^key-e130e1b6f7a66c6005ea22d9631ab713]
+> If you are not sure what to do, you should get help as soon as possible. The Government’s Money Advice Service can help you find free debt advice and support.[^c-e130e1b6f7a66c6005ea22d9631ab713]
 
 .
 
 ### Time order
 
-**7.**[^key-249a3e461ad23c6fd567347e138eaa5f][^key-177b07c93f62677429ffc480dd31a51c] A statement in the following form indicating that the debtor or hirer is entitled to apply under section 129 of the Act in England and Wales to the county court, in Scotland to the sheriff court or in Northern Ireland to the High Court or the county court for a time order—
+**7.**[^c-249a3e461ad23c6fd567347e138eaa5f][^c-177b07c93f62677429ffc480dd31a51c] A statement in the following form indicating that the debtor or hirer is entitled to apply under section 129 of the Act in England and Wales to the county court, in Scotland to the sheriff court or in Northern Ireland to the High Court or the county court for a time order—
 
-> If you have difficulty in paying any sum owed under this agreement, you can apply to the court for an order to give you \[or a surety\] more time to pay any sum owed or take any other action required by this notice. The Government’s Money Advice Service can help you explore this option.[^key-4b96a24bb1f302f9fcbfda7f5ceaf4c8]
+> If you have difficulty in paying any sum owed under this agreement, you can apply to the court for an order to give you \[or a surety\] more time to pay any sum owed or take any other action required by this notice. The Government’s Money Advice Service can help you explore this option.[^c-4b96a24bb1f302f9fcbfda7f5ceaf4c8]
 >
 > \[A surety, typically a guarantor, is someone who provided security to help ensure any amount you owe under this agreement is repaid.\]”
 >
@@ -160,9 +160,9 @@ Regulation 2(1)
 
 ### General
 
-**8.**[^key-7be3d2b0ba2fbaff9ff111c5dfc47289] A statement in the following form—
+**8.**[^c-7be3d2b0ba2fbaff9ff111c5dfc47289] A statement in the following form—
 
-> **Important –you should read this carefully[^key-042a32eb7509c55918172d695fdc12d7]**
+> **Important –you should read this carefully[^c-042a32eb7509c55918172d695fdc12d7]**
 >
 > Notes:
 >
@@ -171,7 +171,7 @@ Regulation 2(1)
 
 .
 
-## SCHEDULE 2 — FORM OF DEFAULT NOTICE BEFORE A CREDITOR OR OWNER CAN BECOME ENTITLED, BY REASON OF ANY BREACH BY THE DEBTOR OR HIRER OF A REGULATED AGREEMENT, TO TERMINATE THE AGREEMENT, DEMAND EARLIER PAYMENT OF ANY SUM, RECOVER POSSESSION OF ANY GOODS OR LAND, TREAT ANY RIGHT CONFERRED ON THE DEBTOR OR HIRER BY THE AGREEMENT AS TERMINATED, RESTRICTED OR DEFERRED OR ENFORCE ANY SECURITY[^key-f88c7860d39df7473a9a05f009a274f9]
+## SCHEDULE 2 — FORM OF DEFAULT NOTICE BEFORE A CREDITOR OR OWNER CAN BECOME ENTITLED, BY REASON OF ANY BREACH BY THE DEBTOR OR HIRER OF A REGULATED AGREEMENT, TO TERMINATE THE AGREEMENT, DEMAND EARLIER PAYMENT OF ANY SUM, RECOVER POSSESSION OF ANY GOODS OR LAND, TREAT ANY RIGHT CONFERRED ON THE DEBTOR OR HIRER BY THE AGREEMENT AS TERMINATED, RESTRICTED OR DEFERRED OR ENFORCE ANY SECURITY[^c-f88c7860d39df7473a9a05f009a274f9]
 
 Regulation 2(2)
 
@@ -327,28 +327,28 @@ Regulation 2(3)
 
 ### Details of agreement
 
-**1.**[^key-13a7e57cbbdc388ba529c29b11dbf340] A description of the agreement sufficient to identify it.
+**1.**[^c-13a7e57cbbdc388ba529c29b11dbf340] A description of the agreement sufficient to identify it.
 
 ### Parties to agreement
 
-**2.**[^key-d837e95495df9be8fcf31cad3c0fa30d] (1) The name and a postal address of the creditor or owner.
+**2.**[^c-d837e95495df9be8fcf31cad3c0fa30d] (1) The name and a postal address of the creditor or owner.
 
 (2) The name and a postal address of the debtor or hirer.
 
 ### Term of the agreement providing for termination
 
-**3.**[^key-ee4ce4ca4eec47075fc102401411bb88] The term of the agreement providing for termination of the agreement by the creditor or owner, or a reference to and a short description of that term.
+**3.**[^c-ee4ce4ca4eec47075fc102401411bb88] The term of the agreement providing for termination of the agreement by the creditor or owner, or a reference to and a short description of that term.
 
 ### Action to terminate the agreement
 
-**4.**[^key-830c3fd3e23d431fd99f5fb6936e78ff] A clear and unambiguous statement by the creditor or owner—
+**4.**[^c-830c3fd3e23d431fd99f5fb6936e78ff] A clear and unambiguous statement by the creditor or owner—
 
 - (a) indicating that by the giving of the notice he is terminating the agreement and indicating any steps that he intends to take to effect the termination or, as the case may be, indicating the manner and circumstances in which he intends to take action to terminate the agreement; and
 - (b) indicating the date, being a date not less than seven days after the giving of the notice, of the termination or, as the case may be, the date on or after which he intends to take action to terminate the agreement.
 
 ### Rights and liabilities arising by reason of the termination of the agreement
 
-**5.**[^key-afc58487c2c89531be9d76f2e67095fd] Any right or liability that will arise by reason of the termination of the agreement and the date by which the right or liability will arise, including—
+**5.**[^c-afc58487c2c89531be9d76f2e67095fd] Any right or liability that will arise by reason of the termination of the agreement and the date by which the right or liability will arise, including—
 
 - (a) the amount of any sum payable by the debtor or hirer before deducting the amount of any rebate on early settlement;
 - (b) where any rebate on early settlement is allowable under the agreement or by virtue of section 95 of the Act—
@@ -357,9 +357,9 @@ Regulation 2(3)
 
 ### Time order
 
-**7.**[^key-0dc4dc8b7ed1eee35d662608f42e0764][^key-33594fab5c45df1ff94d5968c93180cd] A statement in the following form indicating that the debtor or hirer is entitled to apply under section 129 of the Act in England and Wales to the county court, in Scotland to the sheriff court or in Northern Ireland to the High Court or the county court for a time order—
+**7.**[^c-0dc4dc8b7ed1eee35d662608f42e0764][^c-33594fab5c45df1ff94d5968c93180cd] A statement in the following form indicating that the debtor or hirer is entitled to apply under section 129 of the Act in England and Wales to the county court, in Scotland to the sheriff court or in Northern Ireland to the High Court or the county court for a time order—
 
-> “If you have difficulty in paying any sum owed under this agreement, you can apply to the court for an order to give you \[or a surety\] more time to pay any sum owed or take any other action required by this notice. The Government’s Money Advice Service can help you explore this option.[^key-1ac08a4cbbe7405da82cde715d0f3aff]
+> “If you have difficulty in paying any sum owed under this agreement, you can apply to the court for an order to give you \[or a surety\] more time to pay any sum owed or take any other action required by this notice. The Government’s Money Advice Service can help you explore this option.[^c-1ac08a4cbbe7405da82cde715d0f3aff]
 >
 > \[A surety, typically a guarantor, is someone who provided security to help ensure any amount you owe under this agreement is repaid.\]
 >
@@ -372,15 +372,15 @@ Regulation 2(3)
 
 ### General
 
-**6.**[^key-6301bd082eeb13a8c0bf435a184da228][^key-15e097c395a48d7463e089235be1810b] A statement in the following form—
+**6.**[^c-6301bd082eeb13a8c0bf435a184da228][^c-15e097c395a48d7463e089235be1810b] A statement in the following form—
 
-> If you are not sure what to do, you should get help as soon as possible. The Government’s Money Advice Service can help you find free debt advice and support.[^key-4e98ce069bcd43e1f71175b6024b98e8]
+> If you are not sure what to do, you should get help as soon as possible. The Government’s Money Advice Service can help you find free debt advice and support.[^c-4e98ce069bcd43e1f71175b6024b98e8]
 
 .
 
-**8.**[^key-8115d4bb8fd4fd4f418cf9eb8bcc57f5] A statement in the following form—
+**8.**[^c-8115d4bb8fd4fd4f418cf9eb8bcc57f5] A statement in the following form—
 
-> **Important –you should read this carefully[^key-d35b9f2b0363e9fcc05b8a1db5cd7c5e]**
+> **Important –you should read this carefully[^c-d35b9f2b0363e9fcc05b8a1db5cd7c5e]**
 >
 > Notes:
 >
@@ -399,78 +399,78 @@ By virtue of paragraphs 16(2) and 35 of Schedule 3 to the Act, sections 76, 87 a
 
 ## Annotations
 
-[^key-5ef3497f59261be61f52882ac1f4d3f5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-5ef3497f59261be61f52882ac1f4d3f5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-f347c8dfcbfaf6ade89d8013137d1b27]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-f347c8dfcbfaf6ade89d8013137d1b27]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-8c667e0a0a95246187e14e4a761c15ee]: Textual amendment: Words in [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/2/c) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1248/regulation/4) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-8c667e0a0a95246187e14e4a761c15ee]: Textual amendment: Words in [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/2/c) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1248/regulation/4) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-3e3e89ddb44961effc2741ad53a21e10]: Textual amendment: [Reg. 2(4A)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/4A) inserted (31.12.2004) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Amendment) Regulations 2004 (S.I. 2004/3237)](https://www.legislation.gov.uk/uksi/2004/3237), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3237/regulation/1), [3](https://www.legislation.gov.uk/uksi/2004/3237/regulation/3)
+[^c-3e3e89ddb44961effc2741ad53a21e10]: Textual amendment: [Reg. 2(4A)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/4A) inserted (31.12.2004) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Amendment) Regulations 2004 (S.I. 2004/3237)](https://www.legislation.gov.uk/uksi/2004/3237), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3237/regulation/1), [3](https://www.legislation.gov.uk/uksi/2004/3237/regulation/3)
 
-[^key-83579f492dea6aa85c481e955f88400a]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/5) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/5/2/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-83579f492dea6aa85c481e955f88400a]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/5) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/5/2/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-507ef97c4e635e0c6022da582b9ee4ce]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/5) inserted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/5/2/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-507ef97c4e635e0c6022da582b9ee4ce]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/5) inserted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/5/2/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-0fd5790f5ea7c1fa3a599e0b9fe7a85a]: Textual amendment: Words in [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/5/a) omitted (2.12.2020) by virtue of [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/5/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-0fd5790f5ea7c1fa3a599e0b9fe7a85a]: Textual amendment: Words in [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/5/a) omitted (2.12.2020) by virtue of [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/5/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-cf4f6a07f485322005bb56dec6730d37]: Textual amendment: [Reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/5/b) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/5/4) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-cf4f6a07f485322005bb56dec6730d37]: Textual amendment: [Reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/5/b) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/5/4) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-20b151d95e925a2819e9911150f747de]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/6) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/6/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-20b151d95e925a2819e9911150f747de]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/6) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/6/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-aacac3406fe19c6a5a6aca96a6a3c72f]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/6) inserted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/6/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-aacac3406fe19c6a5a6aca96a6a3c72f]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/6) inserted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1248/regulation/6/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-8f1b736c37099d39bd59557dbb207275]: Textual amendment: [Reg. 2(6A)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/6A) inserted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/1248/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-8f1b736c37099d39bd59557dbb207275]: Textual amendment: [Reg. 2(6A)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/2/6A) inserted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/1248/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-b197e58c6f059f3549adb17a5ed547de]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-b197e58c6f059f3549adb17a5ed547de]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-91dcbcf41b9c22059be08aa2a0309be4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-91dcbcf41b9c22059be08aa2a0309be4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-1a9d40ae18d6b40c358917ad7320d59e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/3) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-1a9d40ae18d6b40c358917ad7320d59e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/3) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-1c2d0343ff6694b0e6b5b6de0591d8b2]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/4) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-1c2d0343ff6694b0e6b5b6de0591d8b2]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/4) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-310ca9add383de288e885b7aff6ff2e5]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/5) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-310ca9add383de288e885b7aff6ff2e5]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/5) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-ada7331c8be0024303dc9d20272cda53]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/6) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-ada7331c8be0024303dc9d20272cda53]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/6) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-0a6700d5086f90ca1e8c768ddc9d69df]: Textual amendment: Sch. 1 para. 7 renumbered as Sch. 1 para. 6 (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/2/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-0a6700d5086f90ca1e8c768ddc9d69df]: Textual amendment: Sch. 1 para. 7 renumbered as Sch. 1 para. 6 (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/2/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-e130e1b6f7a66c6005ea22d9631ab713]: Textual amendment: Words in renumbered Sch. 1 para. 6 substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/3/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-e130e1b6f7a66c6005ea22d9631ab713]: Textual amendment: Words in renumbered Sch. 1 para. 6 substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/3/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-249a3e461ad23c6fd567347e138eaa5f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/7) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-249a3e461ad23c6fd567347e138eaa5f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/7) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-177b07c93f62677429ffc480dd31a51c]: Textual amendment: Sch. 1 para. 6 renumbered as Sch. 1 para. 7 (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/3/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-177b07c93f62677429ffc480dd31a51c]: Textual amendment: Sch. 1 para. 6 renumbered as Sch. 1 para. 7 (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/3/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-4b96a24bb1f302f9fcbfda7f5ceaf4c8]: Textual amendment: Words in renumbered Sch. 1 para. 7 substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/2/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-4b96a24bb1f302f9fcbfda7f5ceaf4c8]: Textual amendment: Words in renumbered Sch. 1 para. 7 substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/2/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-7be3d2b0ba2fbaff9ff111c5dfc47289]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/8) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-7be3d2b0ba2fbaff9ff111c5dfc47289]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/8) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-042a32eb7509c55918172d695fdc12d7]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/8) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/4) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-042a32eb7509c55918172d695fdc12d7]: Textual amendment: Words in [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1983/1561/schedule/1/paragraph/8) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/1/paragraph/4) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-f88c7860d39df7473a9a05f009a274f9]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1983/1561/schedule/2) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/2/paragraph/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-f88c7860d39df7473a9a05f009a274f9]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1983/1561/schedule/2) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/2/paragraph/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-13a7e57cbbdc388ba529c29b11dbf340]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-13a7e57cbbdc388ba529c29b11dbf340]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-d837e95495df9be8fcf31cad3c0fa30d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-d837e95495df9be8fcf31cad3c0fa30d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-ee4ce4ca4eec47075fc102401411bb88]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/3) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-ee4ce4ca4eec47075fc102401411bb88]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/3) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-830c3fd3e23d431fd99f5fb6936e78ff]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/4) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-830c3fd3e23d431fd99f5fb6936e78ff]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/4) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-afc58487c2c89531be9d76f2e67095fd]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/5) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-afc58487c2c89531be9d76f2e67095fd]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/5) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-0dc4dc8b7ed1eee35d662608f42e0764]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/6) (which is subsequently renumbered as Sch. 3 para. 7) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-0dc4dc8b7ed1eee35d662608f42e0764]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/6) (which is subsequently renumbered as Sch. 3 para. 7) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-33594fab5c45df1ff94d5968c93180cd]: Textual amendment: Sch. 3 para. 6 renumbered as Sch. 3 para. 7 (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/2/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-33594fab5c45df1ff94d5968c93180cd]: Textual amendment: Sch. 3 para. 6 renumbered as Sch. 3 para. 7 (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/2/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-1ac08a4cbbe7405da82cde715d0f3aff]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/6) (which is subsequently renumbered as Sch. 3 para. 7) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/2/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-1ac08a4cbbe7405da82cde715d0f3aff]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/6) (which is subsequently renumbered as Sch. 3 para. 7) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 2(1)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/2/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-6301bd082eeb13a8c0bf435a184da228]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/7) (which is subsequently renumbered as Sch. 3 para. 6) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-6301bd082eeb13a8c0bf435a184da228]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/7) (which is subsequently renumbered as Sch. 3 para. 6) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-15e097c395a48d7463e089235be1810b]: Textual amendment: Sch. 3 para. 7 renumbered as Sch. 3 para. 6 (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/3/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-15e097c395a48d7463e089235be1810b]: Textual amendment: Sch. 3 para. 7 renumbered as Sch. 3 para. 6 (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 3(2)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/3/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-4e98ce069bcd43e1f71175b6024b98e8]: Textual amendment: Words in [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/7) (which is subsequently renumbered as Sch. 3 para. 6) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 3(1)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/3/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-4e98ce069bcd43e1f71175b6024b98e8]: Textual amendment: Words in [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/7) (which is subsequently renumbered as Sch. 3 para. 6) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 3(1)](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/3/1) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
 
-[^key-8115d4bb8fd4fd4f418cf9eb8bcc57f5]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/8) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
+[^c-8115d4bb8fd4fd4f418cf9eb8bcc57f5]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/8) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1561/regulation/1/1)
 
-[^key-d35b9f2b0363e9fcc05b8a1db5cd7c5e]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/8) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/4) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))
+[^c-d35b9f2b0363e9fcc05b8a1db5cd7c5e]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1983/1561/schedule/3/paragraph/8) substituted (2.12.2020) by [The Consumer Credit (Enforcement, Default and Termination Notices) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/1248)](https://www.legislation.gov.uk/uksi/2020/1248), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1248/regulation/1), [Sch. Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2020/1248/schedule/part/3/paragraph/4) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1248/regulation/9))

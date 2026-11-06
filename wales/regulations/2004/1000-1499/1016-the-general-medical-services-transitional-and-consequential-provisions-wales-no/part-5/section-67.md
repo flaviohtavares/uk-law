@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Sub-contracting of out of hours services under general medical services contracts[^key-d790137cf1b63d36fd43d4ba4241f379]
+## 67. Sub-contracting of out of hours services under general medical services contracts[^c-d790137cf1b63d36fd43d4ba4241f379]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d790137cf1b63d36fd43d4ba4241f379]: Commencement: Art. 67 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-d790137cf1b63d36fd43d4ba4241f379]: Commencement: Art. 67 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

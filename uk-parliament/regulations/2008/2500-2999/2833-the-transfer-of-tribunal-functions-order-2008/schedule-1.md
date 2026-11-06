@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Functions transferred to the First-tier Tribunal and Upper Tribunal[^key-215129c4aae0b9fa8b4580c0c826b5c1]
+## SCHEDULE 1 — Functions transferred to the First-tier Tribunal and Upper Tribunal[^c-215129c4aae0b9fa8b4580c0c826b5c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ Table 2: Functions transferred to the Upper Tribunal
 
 ## Annotations
 
-[^key-215129c4aae0b9fa8b4580c0c826b5c1]: Commencement: Sch. 1 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+[^c-215129c4aae0b9fa8b4580c0c826b5c1]: Commencement: Sch. 1 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)

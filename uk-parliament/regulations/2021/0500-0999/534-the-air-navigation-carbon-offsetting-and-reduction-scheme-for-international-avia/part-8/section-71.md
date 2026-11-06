@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Revocation of retained EU law[^key-c4c618d34240f1063d5669fc9d3da148]
+## 71. Revocation of retained EU law[^c-c4c618d34240f1063d5669fc9d3da148]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4c618d34240f1063d5669fc9d3da148]: Commencement: Art. 71 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-c4c618d34240f1063d5669fc9d3da148]: Commencement: Art. 71 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00049]: Footnote: OJ L 250, 30.9.2019, p. 10-13.

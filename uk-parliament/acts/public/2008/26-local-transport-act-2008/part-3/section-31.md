@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Continuation of schemes for further periods[^key-faa034ed1319061c449a39efc5216c6e]
+## 31. Continuation of schemes for further periods[^c-faa034ed1319061c449a39efc5216c6e]
 
 *Extent: E+W*
 
@@ -87,4 +87,4 @@ After section 131 of the TA 2000 insert—
 
 ## Annotations
 
-[^key-faa034ed1319061c449a39efc5216c6e]: Commencement: S. 31 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-faa034ed1319061c449a39efc5216c6e]: Commencement: S. 31 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Disclosure of information and co-operation with other customs services[^key-723c3850de9efa992e38d39c98413643]
+## 20. Disclosure of information and co-operation with other customs services[^c-723c3850de9efa992e38d39c98413643]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,4 +108,4 @@ summary: ''
 
 ## Annotations
 
-[^key-723c3850de9efa992e38d39c98413643]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2020/29/section/20) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/s)
+[^c-723c3850de9efa992e38d39c98413643]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2020/29/section/20) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/s)

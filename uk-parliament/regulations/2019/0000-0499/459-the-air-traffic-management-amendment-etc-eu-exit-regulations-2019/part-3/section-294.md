@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 294. Commission Implementing Regulation (EU) No 923/2012: introduction[^key-de6fdc5ee2b5db92913739190647b22a]
+## 294. Commission Implementing Regulation (EU) No 923/2012: introduction[^c-de6fdc5ee2b5db92913739190647b22a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Regulation (EU) No 923/2012 of 26 September 2012 laying 
 
 ## Annotations
 
-[^key-de6fdc5ee2b5db92913739190647b22a]: Commencement: Reg. 294 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-de6fdc5ee2b5db92913739190647b22a]: Commencement: Reg. 294 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

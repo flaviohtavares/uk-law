@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Licensed CLC practitioners[^key-cb4deb900281b7212b2b14a9eb12b571]
+## 87. Licensed CLC practitioners[^c-cb4deb900281b7212b2b14a9eb12b571]
 
 *Extent: E+W+S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb4deb900281b7212b2b14a9eb12b571]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2015/20/section/87) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/a)
+[^c-cb4deb900281b7212b2b14a9eb12b571]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2015/20/section/87) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/a)

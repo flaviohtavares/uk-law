@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Statement of entitlement[^key-d8396bf30c4d941d1a2efaa6dd24b635]
+## 135. Statement of entitlement[^c-d8396bf30c4d941d1a2efaa6dd24b635]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8396bf30c4d941d1a2efaa6dd24b635]: Commencement: [Reg. 135](https://www.legislation.gov.uk/uksi/2015/182/regulation/135) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-d8396bf30c4d941d1a2efaa6dd24b635]: Commencement: [Reg. 135](https://www.legislation.gov.uk/uksi/2015/182/regulation/135) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

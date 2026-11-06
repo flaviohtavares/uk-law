@@ -22,13 +22,13 @@ summary: ''
 
 Regulation 39
 
-### 1. Freedom of Information Act 2000[^key-6aa98e641b9a5240283fcca6e4c3ab14]
+### 1. Freedom of Information Act 2000[^c-6aa98e641b9a5240283fcca6e4c3ab14]
 
 (1) The Freedom of Information Act 2000[^f00063] is amended as follows.
 
 (2) In Schedule 1 (public authorities), in paragraph 44, after “National Health Service (Wales) Act 2006,” insert “or providing both general ophthalmic services and other ophthalmic services in accordance with arrangements made with a Local Health Board in Wales under the National Health Service (Wales) Act 2006,”.
 
-### 2. Commissioner for Older People (Wales) Act 2006[^key-dc7dc193582f3d18e3fd4587181e1d51]
+### 2. Commissioner for Older People (Wales) Act 2006[^c-dc7dc193582f3d18e3fd4587181e1d51]
 
 (1) The Commissioner for Older People (Wales) Act 2006[^f00064] is amended as follows.
 
@@ -37,7 +37,7 @@ Regulation 39
 - (a) after “general ophthalmic services” insert “, or both general ophthalmic services and other ophthalmic services in accordance with arrangements made with a Local Health Board,”;
 - (b) omit “Part 6 of”.
 
-### 3. Public Services Ombudsman (Wales) Act 2019[^key-e8d30e5617bdee66708b3692c1e4907c]
+### 3. Public Services Ombudsman (Wales) Act 2019[^c-e8d30e5617bdee66708b3692c1e4907c]
 
 (1) The Public Services Ombudsman (Wales) Act 2019[^f00065] is amended as follows.
 
@@ -45,14 +45,14 @@ Regulation 39
 
 ## Annotations
 
-[^key-6aa98e641b9a5240283fcca6e4c3ab14]: Commencement: Sch. 5 para. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-6aa98e641b9a5240283fcca6e4c3ab14]: Commencement: Sch. 5 para. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00063]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-dc7dc193582f3d18e3fd4587181e1d51]: Commencement: Sch. 5 para. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-dc7dc193582f3d18e3fd4587181e1d51]: Commencement: Sch. 5 para. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00064]: Footnote: [2006 c. 30](https://www.legislation.gov.uk/ukpga/2006/30).
 
-[^key-e8d30e5617bdee66708b3692c1e4907c]: Commencement: Sch. 5 para. 3 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-e8d30e5617bdee66708b3692c1e4907c]: Commencement: Sch. 5 para. 3 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00065]: Footnote: [2019 anaw 3](https://www.legislation.gov.uk/anaw/2019/3).

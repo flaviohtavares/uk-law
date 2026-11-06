@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.8.10. Hearing[^key-8bee114f6d3e7c194b34d9f3da9a2287]
+## 3.8.10. Hearing[^c-8bee114f6d3e7c194b34d9f3da9a2287]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bee114f6d3e7c194b34d9f3da9a2287]: Commencement: Rule 3.8.10 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-8bee114f6d3e7c194b34d9f3da9a2287]: Commencement: Rule 3.8.10 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

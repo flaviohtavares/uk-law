@@ -29,7 +29,7 @@ summary: ''
 - (c) the chief officers, and
 - (d) such other members of staff (whether lay or clergy) as the Chapter considers appropriate.
 
-(1A)[^key-a7cc0e8d815e96d458c9951d341ea3e5] A lay residentiary canon is entitled to have responsibility of a kind referred to in subsection (1)(b), except in so far as the constitution provides otherwise.
+(1A)[^c-a7cc0e8d815e96d458c9951d341ea3e5] A lay residentiary canon is entitled to have responsibility of a kind referred to in subsection (1)(b), except in so far as the constitution provides otherwise.
 
 (2) The statutes must make provision as to—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7cc0e8d815e96d458c9951d341ea3e5]: Textual amendment: [S. 19(1A)](https://www.legislation.gov.uk/ukcm/2021/2/section/19/1A) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/21)
+[^c-a7cc0e8d815e96d458c9951d341ea3e5]: Textual amendment: [S. 19(1A)](https://www.legislation.gov.uk/ukcm/2021/2/section/19/1A) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/21)

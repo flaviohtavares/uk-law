@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Overall bid constraint rule[^key-c769bea09c24920d6fb26dff4db5948d]
+## 37. Overall bid constraint rule[^c-c769bea09c24920d6fb26dff4db5948d]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c769bea09c24920d6fb26dff4db5948d]: Commencement: Reg. 37 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-c769bea09c24920d6fb26dff4db5948d]: Commencement: Reg. 37 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

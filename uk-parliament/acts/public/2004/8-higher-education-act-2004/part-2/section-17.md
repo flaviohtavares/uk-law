@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Privilege in relation to law of defamation[^key-01ddd7d74ad577bf74101edf1ceb85e4][^key-17aa4ff64d434eccb0c2cab1656cc983]
+## 17. Privilege in relation to law of defamation[^c-01ddd7d74ad577bf74101edf1ceb85e4][^c-17aa4ff64d434eccb0c2cab1656cc983]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01ddd7d74ad577bf74101edf1ceb85e4]: Commencement: S. 17 in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-01ddd7d74ad577bf74101edf1ceb85e4]: Commencement: S. 17 in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-17aa4ff64d434eccb0c2cab1656cc983]: Commencement: S. 17 in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/1)
+[^c-17aa4ff64d434eccb0c2cab1656cc983]: Commencement: S. 17 in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/1)

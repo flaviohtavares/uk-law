@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Direction to co-operate in airspace change proposal[^key-74d4c3e9e14f9fbbb1881b6289dbd73e]
+## 3. Direction to co-operate in airspace change proposal[^c-74d4c3e9e14f9fbbb1881b6289dbd73e]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74d4c3e9e14f9fbbb1881b6289dbd73e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/12/section/3) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/c)
+[^c-74d4c3e9e14f9fbbb1881b6289dbd73e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/12/section/3) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/c)

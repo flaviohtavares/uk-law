@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Correction and amendment of tax returns[^key-b28c0ca17def3027ce751bc8984235b3]
+## 119. Correction and amendment of tax returns[^c-b28c0ca17def3027ce751bc8984235b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,8 +102,8 @@ summary: ''
 (12) In the following provisions, for “34(2)” substitute “ 34 ”
 
 - (a) in TMA 1970—
-  - (i)[^key-b80b7ce2e6359a768f9662e5e6672cf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-b80b7ce2e6359a768f9662e5e6672cf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-b80b7ce2e6359a768f9662e5e6672cf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-b80b7ce2e6359a768f9662e5e6672cf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) section 46D(2)(aa) (questions to be determined by Land Tribunal), and
   - (iv) section 55(1)(a)(ii) (recovery of tax not postponed), and
 - (b) in ICTA, section 754(2E) (assessment, recovery and postponement of tax).
@@ -112,6 +112,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b28c0ca17def3027ce751bc8984235b3]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2008/9/section/119) in force at 1.4.2010 for the purposes of the amendments made by that section by [S.I. 2009/405](https://www.legislation.gov.uk/uksi/2009/405), [art. 2](https://www.legislation.gov.uk/uksi/2009/405/article/2)
+[^c-b28c0ca17def3027ce751bc8984235b3]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2008/9/section/119) in force at 1.4.2010 for the purposes of the amendments made by that section by [S.I. 2009/405](https://www.legislation.gov.uk/uksi/2009/405), [art. 2](https://www.legislation.gov.uk/uksi/2009/405/article/2)
 
-[^key-b80b7ce2e6359a768f9662e5e6672cf2]: Textual amendment: [S. 119(12)(a)(i)](https://www.legislation.gov.uk/ukpga/2008/9/section/119/12/a/i)[(ii)](https://www.legislation.gov.uk/ukpga/2008/9/section/119/12/a/ii) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 469](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/469)
+[^c-b80b7ce2e6359a768f9662e5e6672cf2]: Textual amendment: [S. 119(12)(a)(i)](https://www.legislation.gov.uk/ukpga/2008/9/section/119/12/a/i)[(ii)](https://www.legislation.gov.uk/ukpga/2008/9/section/119/12/a/ii) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 469](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/469)

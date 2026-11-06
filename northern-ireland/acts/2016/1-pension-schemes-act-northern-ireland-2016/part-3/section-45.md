@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Rules about modification of schemes[^key-ed9774c2e2e890e681aac025006d7355]
+## 45. Rules about modification of schemes[^c-ed9774c2e2e890e681aac025006d7355]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed9774c2e2e890e681aac025006d7355]: Textual amendment: [Ss. 39-45](https://www.legislation.gov.uk/nia/2016/1/section/39) omitted (1.8.2022 for specified purposes) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 16(c)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/16/c); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(f)](https://www.legislation.gov.uk/nisr/2022/197/article/3/f)
+[^c-ed9774c2e2e890e681aac025006d7355]: Textual amendment: [Ss. 39-45](https://www.legislation.gov.uk/nia/2016/1/section/39) omitted (1.8.2022 for specified purposes) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 16(c)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/16/c); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(f)](https://www.legislation.gov.uk/nisr/2022/197/article/3/f)

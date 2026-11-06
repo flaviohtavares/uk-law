@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 19. Limitation periods[^key-32eebbe28d50e75f0a07788975d9fea0]
+## 19. Limitation periods[^c-32eebbe28d50e75f0a07788975d9fea0]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32eebbe28d50e75f0a07788975d9fea0]: Commencement: S. 19 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-32eebbe28d50e75f0a07788975d9fea0]: Commencement: S. 19 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

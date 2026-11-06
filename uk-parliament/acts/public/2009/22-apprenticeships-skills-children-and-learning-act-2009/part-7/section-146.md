@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Criteria for assignment of number of hours of guided learning[^key-0c1f73f0decb72d15a24fc598e285ff8]
+## 146. Criteria for assignment of number of hours of guided learning[^c-0c1f73f0decb72d15a24fc598e285ff8]
 
 *Extent: E+W+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c1f73f0decb72d15a24fc598e285ff8]: Commencement: S. 146 in force at 31.5.2013 by [S.I. 2013/975](https://www.legislation.gov.uk/uksi/2013/975), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/975/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/975/article/3))
+[^c-0c1f73f0decb72d15a24fc598e285ff8]: Commencement: S. 146 in force at 31.5.2013 by [S.I. 2013/975](https://www.legislation.gov.uk/uksi/2013/975), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/975/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/975/article/3))

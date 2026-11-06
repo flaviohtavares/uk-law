@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 213A. Pension payable when member dies on or after reaching age 75[^key-86dd90b55d19e5dde88f18bae9e85d94]
+## 213A. Pension payable when member dies on or after reaching age 75[^c-86dd90b55d19e5dde88f18bae9e85d94]
 
 *Extent: N.I.*
 
-(1) If, on or before 5th April 2011,[^key-eedd96b4dc09e516be86fe40c8981f6a] a pensioner member or a pension credit member dies—
+(1) If, on or before 5th April 2011,[^c-eedd96b4dc09e516be86fe40c8981f6a] a pensioner member or a pension credit member dies—
 
 - (a) on or after reaching age 75; and
 - (b) before the fifth anniversary of the date on which the member’s pension became payable,
@@ -38,6 +38,6 @@ an annual pension, calculated in accordance with paragraph (2), may be payable f
 
 ## Annotations
 
-[^key-86dd90b55d19e5dde88f18bae9e85d94]: Textual amendment: [Reg. 213A](https://www.legislation.gov.uk/nisr/2008/256/regulation/213A) inserted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [67](https://www.legislation.gov.uk/nisr/2009/65/regulation/67) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
+[^c-86dd90b55d19e5dde88f18bae9e85d94]: Textual amendment: [Reg. 213A](https://www.legislation.gov.uk/nisr/2008/256/regulation/213A) inserted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) and Health and Personal Social Services (Injury Benefits) (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/65)](https://www.legislation.gov.uk/nisr/2009/65), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/65/regulation/1/2), [67](https://www.legislation.gov.uk/nisr/2009/65/regulation/67) (with [reg. 89](https://www.legislation.gov.uk/nisr/2009/65/regulation/89))
 
-[^key-eedd96b4dc09e516be86fe40c8981f6a]: Textual amendment: Words in [reg. 213A(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/213A/1) inserted (6.4.2012) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/42)](https://www.legislation.gov.uk/nisr/2012/42), [reg. 27](https://www.legislation.gov.uk/nisr/2012/42/regulation/27)
+[^c-eedd96b4dc09e516be86fe40c8981f6a]: Textual amendment: Words in [reg. 213A(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/213A/1) inserted (6.4.2012) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/42)](https://www.legislation.gov.uk/nisr/2012/42), [reg. 27](https://www.legislation.gov.uk/nisr/2012/42/regulation/27)

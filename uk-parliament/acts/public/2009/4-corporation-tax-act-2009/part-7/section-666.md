@@ -25,9 +25,9 @@ summary: ''
 (2) In this section—
 
 - A is the amount paid as mentioned in section 665(5) reduced (but not below nil) by an amount equal to the fair value of the host contract at the time that amount is paid,
-- B is the amount treated as the tax-adjusted carrying value[^key-c37455ab2ed0ec560ffb1bef63506e52] of the relevant contract mentioned in section 665(4) at the time the company became a party to the debtor relationship mentioned in section 665(2), and
+- B is the amount treated as the tax-adjusted carrying value[^c-c37455ab2ed0ec560ffb1bef63506e52] of the relevant contract mentioned in section 665(4) at the time the company became a party to the debtor relationship mentioned in section 665(2), and
 - “**the host contract**” means the loan relationship to which the company is treated as a party under section 415(2) (loan relationships with embedded derivatives) because of the debtor relationship.
 
 ## Annotations
 
-[^key-c37455ab2ed0ec560ffb1bef63506e52]: Textual amendment: Words in s. 666(2) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 84](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/84)
+[^c-c37455ab2ed0ec560ffb1bef63506e52]: Textual amendment: Words in s. 666(2) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 84](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/84)

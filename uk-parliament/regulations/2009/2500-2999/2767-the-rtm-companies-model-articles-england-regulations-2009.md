@@ -46,19 +46,19 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 74(2), (4) and (6) and 178(1) of the Commonhold and Leasehold Reform Act 2002[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-e76086b759b5c432b55932465d051b31]
+## 1. Citation, commencement and application[^c-e76086b759b5c432b55932465d051b31]
 
 (1) These Regulations may be cited as the RTM Companies (Model Articles) (England) Regulations 2009 and shall come into force on 9th November 2009.
 
 (2) These Regulations apply to RTM companies[^f00002] which exercise the right to manage premises[^f00003] in England.
 
-## 2. Form and content of articles of association of RTM companies[^key-78a9858a609fa48e7dc38d53ae6f06be]
+## 2. Form and content of articles of association of RTM companies[^c-78a9858a609fa48e7dc38d53ae6f06be]
 
 (1) The articles of association of a RTM company shall take the form, and include the provisions, set out in the Schedule to these Regulations.
 
 (2) Subject to regulation 3(2), the provisions referred to in paragraph (1) shall have effect for a RTM company whether or not they are adopted by the company.
 
-## 3. Revocation of instrument and transitional provisions[^key-ff161cf863bf9ae88c68f739058f00fe]
+## 3. Revocation of instrument and transitional provisions[^c-ff161cf863bf9ae88c68f739058f00fe]
 
 (1) The RTM Companies (Memorandum and Articles of Association) (England) Regulations 2003[^f00004] (“the 2003 Regulations”) are revoked.
 
@@ -88,7 +88,7 @@ A COMPANY LIMITED BY GUARANTEE AND NOT HAVING A SHARE CAPITAL
 
 ### PART 1 — INTERPRETATION, NAMES AND OBJECTS OF RTM COMPANY AND LIMITATION OF LIABILITY
 
-#### 1. Defined terms[^key-c7f35a78a45f0477a92e182cf7491658]
+#### 1. Defined terms[^c-c7f35a78a45f0477a92e182cf7491658]
 
 (1) In the articles, unless the context requires otherwise—
 
@@ -103,7 +103,7 @@ A COMPANY LIMITED BY GUARANTEE AND NOT HAVING A SHARE CAPITAL
 - “immediate landlord” in relation to a unit in the Premises, means the person who—
   - (a) if the unit is subject to a lease, is the landlord under the lease; or
   - (b) if the unit is subject to two or more leases, is the landlord under whichever of the leases is inferior to the others;
-- “[^key-5eadb36c7152cde8fef22da96afae710]**lease**” means a long lease within the meaning of sections 76 and 77 of the 2002 Act;
+- “[^c-5eadb36c7152cde8fef22da96afae710]**lease**” means a long lease within the meaning of sections 76 and 77 of the 2002 Act;
 - “member” has the meaning given in section 112 of the 2006 Act;
 - “ordinary resolution” has the meaning given in section 282 of the 2006 Act;
 - “participate”, in relation to a directors’ meeting, has the meaning given in article 15;
@@ -120,18 +120,18 @@ A COMPANY LIMITED BY GUARANTEE AND NOT HAVING A SHARE CAPITAL
 
 #### NAME AND OBJECTS OF RTM COMPANY
 
-**2.**[^key-51a8e503f78944c0e7d59f8216318356] The name of the company is
+**2.**[^c-51a8e503f78944c0e7d59f8216318356] The name of the company is
 
 - \[*name*\] \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 - RTM Company Limited.
 
-**3.**[^key-834bed6c5fa390a462b05fdf597bfbb5] The registered office of the company will be situated at
+**3.**[^c-834bed6c5fa390a462b05fdf597bfbb5] The registered office of the company will be situated at
 
 - \[*address*\]\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**4.**[^key-c9094c7fc2809e15427710d61367f998] The objects for which the company is established are to acquire and exercise in accordance with the 2002 Act the right to manage the Premises.
+**4.**[^c-c9094c7fc2809e15427710d61367f998] The objects for which the company is established are to acquire and exercise in accordance with the 2002 Act the right to manage the Premises.
 
-**5.**[^key-516ede0a806cc8a39258f72e4db63861] These objects shall not be restrictively construed but the widest interpretation shall be given to them. In furtherance of the objects, but not otherwise, the company shall have power to do all such things as may be authorised or required to be done by a RTM company by and under the 2002 Act, and in particular (but without derogation from the generality of the foregoing)—
+**5.**[^c-516ede0a806cc8a39258f72e4db63861] These objects shall not be restrictively construed but the widest interpretation shall be given to them. In furtherance of the objects, but not otherwise, the company shall have power to do all such things as may be authorised or required to be done by a RTM company by and under the 2002 Act, and in particular (but without derogation from the generality of the foregoing)—
 
 - (a) to prepare, make, pursue or withdraw a claim to acquire the right to manage the Premises;
 - (b) to exercise management functions under leases of the whole or any part of the Premises in accordance with sections 96 and 97 of the 2002 Act;
@@ -163,11 +163,11 @@ A COMPANY LIMITED BY GUARANTEE AND NOT HAVING A SHARE CAPITAL
 - (bb) to do or procure or arrange for the doing of all or any of the things or matters mentioned above in any part of the world and either as principals, agents, contractors or otherwise, and by or through agents, brokers, sub-contractors or otherwise and either alone or in conjunction with others; and
 - (cc) to do all such other lawful things as may be incidental or conducive to the pursuit or attainment of the company’s objects.
 
-**6.**[^key-1ecd4c3b5021563c49a3924eda355be7] The income of the company, from wherever derived, shall be applied solely in promoting the company’s objects, and, save on a winding up of the company, no distribution shall be made to its members in cash or otherwise.
+**6.**[^c-1ecd4c3b5021563c49a3924eda355be7] The income of the company, from wherever derived, shall be applied solely in promoting the company’s objects, and, save on a winding up of the company, no distribution shall be made to its members in cash or otherwise.
 
 #### LIMITATION OF LIABILITY
 
-##### 7. Liability of members[^key-d2a29138965be7ae4e65783e8b2795ef]
+##### 7. Liability of members[^c-d2a29138965be7ae4e65783e8b2795ef]
 
 The liability of each member is limited to £1, being the amount that each member undertakes to contribute to the assets of the company in the event of its being wound up while he is a member or within one year after he ceases to be a member, for—
 
@@ -179,17 +179,17 @@ The liability of each member is limited to £1, being the amount that each membe
 
 #### DIRECTORS’ POWERS AND RESPONSIBILITIES
 
-##### 8. Directors’ general authority[^key-9d8945decf83ee33d3fa60b014ea997f]
+##### 8. Directors’ general authority[^c-9d8945decf83ee33d3fa60b014ea997f]
 
 Subject to the articles, the directors are responsible for the management of the company’s business, for which purpose they may exercise all the powers of the company.
 
-##### 9. Members’ reserve power[^key-807ef7794292ca381d778713752dd6f3]
+##### 9. Members’ reserve power[^c-807ef7794292ca381d778713752dd6f3]
 
 (1) The members may, by special resolution, direct the directors to take, or refrain from taking, specified action.
 
 (2) No such special resolution invalidates anything which the directors have done before the passing of the resolution.
 
-##### 10. Directors may delegate[^key-31a79e9fc5a35a309157a5bd548893af]
+##### 10. Directors may delegate[^c-31a79e9fc5a35a309157a5bd548893af]
 
 (1) Subject to the articles, the directors may delegate any of the powers which are conferred on them under the articles—
 
@@ -205,13 +205,13 @@ Subject to the articles, the directors are responsible for the management of the
 
 (3) The directors may revoke any delegation in whole or part, or alter its terms and conditions.
 
-##### 11. Committees[^key-1a70cb90b36282e2b5751d8451efaabd]
+##### 11. Committees[^c-1a70cb90b36282e2b5751d8451efaabd]
 
 (1) Committees to which the directors delegate any of their powers must follow procedures which are based, so far as they are applicable, on those provisions of the articles which govern the taking of decisions by directors.
 
 #### DECISION-MAKING BY DIRECTORS
 
-##### 12. Directors to take decisions collectively[^key-be79ad7b67ea26b542aa1571683e0523]
+##### 12. Directors to take decisions collectively[^c-be79ad7b67ea26b542aa1571683e0523]
 
 (1) The general rule about decision-making by directors is that any decision of the directors must be either a majority decision at a meeting or a decision taken in accordance with article 13.
 
@@ -222,7 +222,7 @@ Subject to the articles, the directors are responsible for the management of the
 
 the general rule does not apply, and the director may take decisions without regard to any of the provisions of the articles relating to directors’ decision-making.
 
-##### 13. Unanimous decisions[^key-c2b4562435171f6feec5ef1935cf555f]
+##### 13. Unanimous decisions[^c-c2b4562435171f6feec5ef1935cf555f]
 
 (1) A decision of the directors is taken in accordance with this article when all eligible directors indicate to each other by any means that they share a common view on a matter.
 
@@ -232,7 +232,7 @@ the general rule does not apply, and the director may take decisions without reg
 
 (4) A decision may not be taken in accordance with this article if the eligible directors would not have formed a quorum at such a meeting.
 
-##### 14. Calling a directors’ meeting[^key-a237da4892ba52dd65fca4c4d23377db]
+##### 14. Calling a directors’ meeting[^c-a237da4892ba52dd65fca4c4d23377db]
 
 (1) Any director may call a directors’ meeting by giving notice of the meeting to the directors or by authorising the company secretary (if any) to give such notice.
 
@@ -246,7 +246,7 @@ the general rule does not apply, and the director may take decisions without reg
 
 (4) Notice of a directors’ meeting need not be given to directors who waive their entitlement to notice of that meeting, by giving notice to that effect to the company not more than 7 days after the date on which the meeting is held. Where such notice is given after the meeting has been held, that does not affect the validity of the meeting, or of any business conducted at it.
 
-##### 15. Participation in directors’ meetings[^key-4bc55c49aefa81a29654e74677d68d0a]
+##### 15. Participation in directors’ meetings[^c-4bc55c49aefa81a29654e74677d68d0a]
 
 (1) Subject to the articles, directors participate in a directors’ meeting, or part of a directors’ meeting, when—
 
@@ -257,7 +257,7 @@ the general rule does not apply, and the director may take decisions without reg
 
 (3) If all the directors participating in a meeting are not in the same place, they may decide that the meeting is to be treated as taking place wherever any of them is.
 
-##### 16. Quorum for directors’ meetings[^key-be26d850b3f610ac3114bd5c93a95360]
+##### 16. Quorum for directors’ meetings[^c-be26d850b3f610ac3114bd5c93a95360]
 
 (1) At a directors’ meeting, unless a quorum is participating, no proposal is to be voted on, except a proposal to call another meeting.
 
@@ -268,7 +268,7 @@ the general rule does not apply, and the director may take decisions without reg
 - (a) to appoint further directors, or
 - (b) to call a general meeting so as to enable the members to appoint further directors.
 
-##### 17. Chairing of directors’ meetings[^key-1df6ae0307941c7ad45cc93e51accb86]
+##### 17. Chairing of directors’ meetings[^c-1df6ae0307941c7ad45cc93e51accb86]
 
 (1) The directors may appoint a director to chair their meetings.
 
@@ -278,13 +278,13 @@ the general rule does not apply, and the director may take decisions without reg
 
 (4) If the chairman is not participating in a directors’ meeting within ten minutes of the time at which it was to start, the participating directors must appoint one of themselves to chair it.
 
-##### 18. Casting vote[^key-4198c9dadab132e8c5ba71966e54284e]
+##### 18. Casting vote[^c-4198c9dadab132e8c5ba71966e54284e]
 
 (1) If the numbers of votes for and against a proposal are equal, the chairman or other director chairing the meeting has a casting vote.
 
 (2) But this does not apply if, in accordance with the articles, the chairman or other director is not to be counted as participating in the decision-making process for quorum or voting purposes.
 
-##### 19. Conflicts of interest[^key-9bf74207fdfaa12799321a2b62a58de5]
+##### 19. Conflicts of interest[^c-9bf74207fdfaa12799321a2b62a58de5]
 
 (1) If a proposed decision of the directors is concerned with an actual or proposed transaction or arrangement with the company in which a director is interested, that director is not to be counted as participating in the decision-making process for quorum or voting purposes.
 
@@ -308,17 +308,17 @@ the general rule does not apply, and the director may take decisions without reg
 
 (7) If any question as to the right to participate in the meeting (or part of the meeting) should arise in respect of the chairman, the question is to be decided by a decision of the directors at that meeting, for which purpose the chairman is not to be counted as participating in the meeting (or that part of the meeting) for voting or quorum purposes.
 
-##### 20. Records of decisions to be kept[^key-bbcf37ff32f03bc5d8f7ea544c7e7deb]
+##### 20. Records of decisions to be kept[^c-bbcf37ff32f03bc5d8f7ea544c7e7deb]
 
 The directors must ensure that the company keeps a record, in writing, for at least 10 years from the date of the decision recorded, of every unanimous or majority decision taken by the directors.
 
-##### 21. Directors’ discretion to make further rules[^key-cde04546ab291fcffaa1aefaf28465eb]
+##### 21. Directors’ discretion to make further rules[^c-cde04546ab291fcffaa1aefaf28465eb]
 
 Subject to the articles, the directors may make any rule which they think fit about how they take decisions, and about how such rules are to be recorded or communicated to directors.
 
 #### APPOINTMENT OF DIRECTORS
 
-##### 22. Methods of appointing directors[^key-b1db74364ba7c080d21b3808b971833b]
+##### 22. Methods of appointing directors[^c-b1db74364ba7c080d21b3808b971833b]
 
 (1) Any person who is willing to act as a director, and is permitted by law to do so, may be appointed to be a director—
 
@@ -329,7 +329,7 @@ Subject to the articles, the directors may make any rule which they think fit ab
 
 (3) For the purposes of paragraph (2), where 2 or more members die in circumstances rendering it uncertain who was the last to die, a younger member is deemed to have survived an older member.
 
-##### 23. Termination of director’s appointment[^key-f6b654150f731944573a38e4dd57ab28]
+##### 23. Termination of director’s appointment[^c-f6b654150f731944573a38e4dd57ab28]
 
 A person ceases to be a director as soon as—
 
@@ -337,14 +337,14 @@ A person ceases to be a director as soon as—
 - (b) a bankruptcy order is made against that person;
 - (c) a composition is made with that person’s creditors generally in satisfaction of that person’s debts;
 - (d) a registered medical practitioner who is treating that person gives a written opinion to the company stating that that person has become physically or mentally incapable of acting as a director and may remain so for more than three months;
-- (e)[^key-9a03d6863f06ffa1967327367716c8bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-9a03d6863f06ffa1967327367716c8bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) notification is received by the company from the director that the director is resigning from office, and such resignation has taken effect in accordance with its terms.
 
-##### 24. Directors’ remuneration[^key-4c48c48f585eecd8d0654b644e998738]
+##### 24. Directors’ remuneration[^c-4c48c48f585eecd8d0654b644e998738]
 
 Except with the consent of the company in general meeting, the directors shall not be entitled to any remuneration. Any resolution giving such consent shall specify the amount of remuneration to be paid to the directors, and unless the resolution provides otherwise, the remuneration shall be deemed to accrue from day to day.
 
-##### 25. Directors’ expenses[^key-efbcd71db4a5bfbdb5f2a7cdfc2a091f]
+##### 25. Directors’ expenses[^c-efbcd71db4a5bfbdb5f2a7cdfc2a091f]
 
 The company may pay any reasonable expenses which the directors properly incur in connection with their attendance at—
 
@@ -356,7 +356,7 @@ or otherwise in connection with the exercise of their powers and the discharge o
 
 ### PART 3 — BECOMING AND CEASING TO BE A MEMBER
 
-#### 26. Becoming a member[^key-0d505c9bf3bcb4f6504aaf832eef711a]
+#### 26. Becoming a member[^c-0d505c9bf3bcb4f6504aaf832eef711a]
 
 (1) Every person who is entitled to be, and who wishes to become, a member of the company shall deliver to the company an application for membership executed by him in the following form (or in a form as near to the following form as circumstances allow or in any other form which is usual or which the directors may approve:)
 
@@ -371,11 +371,11 @@ To the Board of \[name of company\]I, \[name\]of \[address\]am a qualifying tena
 
 (4) A person who, together with another or others, is to be regarded as jointly being the qualifying tenant of a flat, or as jointly constituting the landlord under a lease of the whole or any part of the Premises, shall, once admitted, be regarded as jointly being a member of the company in respect of that flat or lease (as the case may be).
 
-(5) Applications for membership by persons who are to be regarded as jointly being the qualifying tenant of a flat, or who jointly constitute the landlord under a lease of the whole or any part of the Premises, shall state the names and addresses of all others who are jointly interested with them, and the order in which they wish to appear on the register of members (or, if an election under section 128B of the Companies Act 2006 is in force in respect of the company, in the register kept by the registrar under section 1080 of that Act)[^key-a4e70added059e91aa55c498b6600d11] in respect of such flat or lease (as the case may be.)
+(5) Applications for membership by persons who are to be regarded as jointly being the qualifying tenant of a flat, or who jointly constitute the landlord under a lease of the whole or any part of the Premises, shall state the names and addresses of all others who are jointly interested with them, and the order in which they wish to appear on the register of members (or, if an election under section 128B of the Companies Act 2006 is in force in respect of the company, in the register kept by the registrar under section 1080 of that Act)[^c-a4e70added059e91aa55c498b6600d11] in respect of such flat or lease (as the case may be.)
 
 (6) The directors shall, upon being satisfied as to a person’s application and entitlement to membership, register such person as a member of the company.
 
-#### 27. Ceasing to be a member[^key-01cfbcc8c0a8dc1e2a4393de7d122d51]
+#### 27. Ceasing to be a member[^c-01cfbcc8c0a8dc1e2a4393de7d122d51]
 
 (1) A member who at any time fails to satisfy the requirements for membership set out in article 26 shall cease to be a member of the company with immediate effect.
 
@@ -398,7 +398,7 @@ those persons shall, unless they are otherwise entitled to be members of the com
 
 #### ORGANISATION OF GENERAL MEETINGS
 
-##### 28. Attendance and speaking at general meetings[^key-3981106a905b9b497e95b861f2120861]
+##### 28. Attendance and speaking at general meetings[^c-3981106a905b9b497e95b861f2120861]
 
 (1) A person is able to exercise the right to speak at a general meeting when that person is in a position to communicate to all those attending the meeting, during the meeting, any information or opinions which that person has on the business of the meeting.
 
@@ -413,13 +413,13 @@ those persons shall, unless they are otherwise entitled to be members of the com
 
 (5) Two or more persons who are not in the same place as each other attend a general meeting if their circumstances are such that if they have (or were to have) rights to speak and vote at that meeting, they are (or would be) able to exercise them.
 
-##### 29. Quorum for general meetings[^key-c23c30ea5e0c941d235ecd443734fa64]
+##### 29. Quorum for general meetings[^c-c23c30ea5e0c941d235ecd443734fa64]
 
 (1) No business other than the appointment of the chairman of the meeting is to be transacted at a general meeting if the persons attending it do not constitute a quorum as set out at 29 paragraph (2).
 
 (2) The quorum for the meeting shall be 20 per cent of the members of the company entitled to vote upon the business to be transacted, or two members of the company so entitled (whichever is the greater) present in person or by proxy.
 
-##### 30. Chairing general meetings[^key-21154fe59b0f178d7f9cc84ba69fffbb]
+##### 30. Chairing general meetings[^c-21154fe59b0f178d7f9cc84ba69fffbb]
 
 (1) If the directors have appointed a chairman, the chairman shall chair general meetings if present and willing to do so.
 
@@ -432,13 +432,13 @@ must appoint a director or member to chair the meeting, and the appointment of t
 
 (3) The person chairing a meeting in accordance with this article is referred to as “the chairman of the meeting”.
 
-##### 31. Attendance and speaking by directors and non-members[^key-2c0e8c68583d05a683872b56f5d13bc0]
+##### 31. Attendance and speaking by directors and non-members[^c-2c0e8c68583d05a683872b56f5d13bc0]
 
 (1) Directors may attend and speak at general meetings, whether or not they are members.
 
 (2) The chairman of the meeting may permit other persons who are not members of the company to attend and speak at a general meeting.
 
-##### 32. Adjournment[^key-32600156ad920fabf6a6d86603ec9c46]
+##### 32. Adjournment[^c-32600156ad920fabf6a6d86603ec9c46]
 
 (1) If the persons attending a general meeting within half an hour of the time at which the meeting was due to start do not constitute a quorum, or if during a meeting a quorum ceases to be present, the chairman of the meeting must adjourn it.
 
@@ -463,7 +463,7 @@ must appoint a director or member to chair the meeting, and the appointment of t
 
 #### VOTING AT GENERAL MEETINGS
 
-##### 33. Voting: general[^key-59ac00fc7569fa9b2a3ebb4923baf437]
+##### 33. Voting: general[^c-59ac00fc7569fa9b2a3ebb4923baf437]
 
 (1) A resolution put to the vote of a general meeting must be decided on a show of hands unless a poll is duly demanded in accordance with the articles.
 
@@ -476,21 +476,21 @@ must appoint a director or member to chair the meeting, and the appointment of t
 - (c) the votes allocated to each residential unit shall be entitled to be cast by the member who is the qualifying tenant of that unit, or if there is no qualifying tenant of the unit, by the member who is the immediate landlord. The immediate landlord will not be entitled to the vote of a residential unit held by a qualifying tenant who is not a member of the RTM company;
 - (d) the votes allocated to any non-residential part included in the Premises shall be entitled to be cast by the immediate landlord of that part, or where there is no lease of a non-residential part, by the freeholder. Where there is more than one such person, the total number of votes allocated to the non-residential part shall be divided between them in proportion to the internal floor area of their respective parts. Any resulting entitlement to a fraction of a vote shall be ignored;
 - (e) if a residential unit is not subject to any lease, no votes shall be entitled to be cast in respect of it;
-- (f)[^key-74f6ee9770ac6c85a99b6024419dee9e] any person who is not otherwise entitled to any vote shall be entitled to one vote if that person—
+- (f)[^c-74f6ee9770ac6c85a99b6024419dee9e] any person who is not otherwise entitled to any vote shall be entitled to one vote if that person—
   - (i) is the freeholder of the Premises,
   - (ii) is a landlord under a lease or leases of the whole or any part of the Premises, and
   - (iii) is a member of the company;
 - (g) the votes exercisable by landlords under leases of the whole or any part of the Premises shall be capped at one third of the votes exercisable by qualifying tenants.
 
-(4) In the case of any persons who are to be regarded as jointly being members of the company, any such person may exercise the voting rights to which such members are jointly entitled, but where more than one such person tenders a vote, whether in person or by proxy, the vote of the senior shall be accepted to the exclusion of the votes of the others, and seniority shall be determined by the order in which the names of such persons appear in the register of members (or, if an election under section 128B of the Companies Act 2006 is in force in respect of the company, in the register kept by the registrar under section 1080 of that Act)[^key-0a815074b1d5bc4309b675e73f1b5f19] in respect of the flat or lease (as the case may be) in which they are interested.
+(4) In the case of any persons who are to be regarded as jointly being members of the company, any such person may exercise the voting rights to which such members are jointly entitled, but where more than one such person tenders a vote, whether in person or by proxy, the vote of the senior shall be accepted to the exclusion of the votes of the others, and seniority shall be determined by the order in which the names of such persons appear in the register of members (or, if an election under section 128B of the Companies Act 2006 is in force in respect of the company, in the register kept by the registrar under section 1080 of that Act)[^c-0a815074b1d5bc4309b675e73f1b5f19] in respect of the flat or lease (as the case may be) in which they are interested.
 
-##### 34. Errors and disputes[^key-4f147b33e410c4274b23e6e12e1a537d]
+##### 34. Errors and disputes[^c-4f147b33e410c4274b23e6e12e1a537d]
 
 (1) No objection may be raised to the qualification of any person voting at a general meeting except at the meeting or adjourned meeting at which the vote objected to is tendered, and every vote not disallowed at the meeting is valid.
 
 (2) Any such objection must be referred to the chairman of the meeting whose decision is final.
 
-##### 35. Poll votes[^key-6dd47daf4879a0f210974fdd6aa29e60]
+##### 35. Poll votes[^c-6dd47daf4879a0f210974fdd6aa29e60]
 
 (1) A poll on a resolution may be demanded—
 
@@ -511,7 +511,7 @@ must appoint a director or member to chair the meeting, and the appointment of t
 
 (4) Polls must be taken immediately and in such manner as the chairman of the meeting directs.
 
-##### 36. Content of proxy notices[^key-4c1b3561d3afecd453def952790fa5d7]
+##### 36. Content of proxy notices[^c-4c1b3561d3afecd453def952790fa5d7]
 
 (1) Proxies may only validly be appointed by a notice in writing (a “proxy notice”) which—
 
@@ -529,7 +529,7 @@ must appoint a director or member to chair the meeting, and the appointment of t
 - (a) allowing the person appointed under it as a proxy discretion as to how to vote on any ancillary or procedural resolutions put to the meeting, and
 - (b) appointing that person as a proxy in relation to any adjournment of the general meeting to which it relates as well as the meeting itself.
 
-##### 37. Delivery of proxy notices[^key-730c53f488cd2221b7bf5db74bd63c92]
+##### 37. Delivery of proxy notices[^c-730c53f488cd2221b7bf5db74bd63c92]
 
 (1) A person who is entitled to attend, speak or vote (either on a show of hands or on a poll) at a general meeting remains so entitled in respect of that meeting or any adjournment of it, even though a valid proxy notice has been delivered to the company by or on behalf of that person.
 
@@ -539,7 +539,7 @@ must appoint a director or member to chair the meeting, and the appointment of t
 
 (4) If a proxy notice is not executed by the person appointing the proxy, it must be accompanied by written evidence of the authority of the person who executed it to execute it on the appointor’s behalf.
 
-##### 38. Amendments to resolutions[^key-4454ef7d9e309ce4ecec18824f17f95d]
+##### 38. Amendments to resolutions[^c-4454ef7d9e309ce4ecec18824f17f95d]
 
 (1) An ordinary resolution to be proposed at a general meeting may be amended by ordinary resolution if—
 
@@ -555,7 +555,7 @@ must appoint a director or member to chair the meeting, and the appointment of t
 
 ### PART 5 — ADMINISTRATIVE ARRANGEMENTS
 
-#### 39. Means of communication to be used[^key-0273e49ae415517c886b432800cde91c]
+#### 39. Means of communication to be used[^c-0273e49ae415517c886b432800cde91c]
 
 (1) Subject to the articles, anything sent or supplied by or to the company under the articles may be sent or supplied in any way in which the Companies Acts provides for documents or information which are authorised or required by any provision of those Acts to be sent or supplied by or to the company.
 
@@ -563,7 +563,7 @@ must appoint a director or member to chair the meeting, and the appointment of t
 
 (3) A director may agree with the company that notices or documents sent to that director in a particular way are to be deemed to have been received within a specified time of their being sent, and for the specified time to be less than 48 hours.
 
-#### 40. Company seals[^key-b366ca7f9dba0419f9676394df0e9865]
+#### 40. Company seals[^c-b366ca7f9dba0419f9676394df0e9865]
 
 (1) Any common seal may only be used by the authority of the directors.
 
@@ -577,19 +577,19 @@ must appoint a director or member to chair the meeting, and the appointment of t
 - (b) the company secretary (if any); or
 - (c) any person authorised by the directors for the purpose of signing documents to which the common seal is applied.
 
-#### 41. Inspection and copying of accounts and other records[^key-89f2b7031703de084c47e289fa5e25e7]
+#### 41. Inspection and copying of accounts and other records[^c-89f2b7031703de084c47e289fa5e25e7]
 
 (1) In addition to, and without derogation from, any right conferred by statute, any member shall have the right, on reasonable notice, at such time and place as shall be convenient to the company, to inspect, and to be provided with a copy of, any book, minute, document or accounting record of the company, upon payment of any reasonable charge for copying. Such rights shall be subject to any resolution of the company in general meeting.
 
 (2) In the case of any book, minute, document or accounting record which the directors reasonably consider contains confidential material, the disclosure of which would be contrary to the interests of the company, to the exclusion or excision of such confidential material (the fact of such exclusion or excision being disclosed to the member), and to any other reasonable conditions that the directors may impose.
 
-#### 42. Provision for employees on cessation of business[^key-57fb5a7df935314e951a96a34fe8e32e]
+#### 42. Provision for employees on cessation of business[^c-57fb5a7df935314e951a96a34fe8e32e]
 
 The directors may decide to make provision for the benefit of persons employed or formerly employed by the company or any of its subsidiaries (other than a director or former director or shadow director) in connection with the cessation or transfer to any person of the whole or part of the undertaking of the company or that subsidiary.
 
 ### PART 6 — DIRECTORS’ INDEMNITY AND INSURANCE
 
-#### 43. Indemnity[^key-afab2df8928f3f579ed3636285e4f01a]
+#### 43. Indemnity[^c-afab2df8928f3f579ed3636285e4f01a]
 
 (1) Subject to paragraph (2), a relevant director of the company or an associated company may be indemnified out of the company’s assets against—
 
@@ -604,7 +604,7 @@ The directors may decide to make provision for the benefit of persons employed o
 - (a) companies are associated if one is a subsidiary of the other or both are subsidiaries of the same body corporate, and
 - (b) a “relevant director” means any director or former director of the company or an associated company.
 
-#### 44. Insurance[^key-b9d4402b02defa507f93f0bef365ab6d]
+#### 44. Insurance[^c-b9d4402b02defa507f93f0bef365ab6d]
 
 (1) The directors may decide to purchase and maintain insurance, at the expense of the company, for the benefit of any relevant director in respect of any relevant loss.
 
@@ -630,114 +630,114 @@ A full impact assessment of the effect that this instrument will have on busines
 
 [^f00001]: Footnote: [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15). The “appropriate national authority”, in respect of England, is the Secretary of State and, in respect of Wales, is the Welsh Ministers. *See* section 179(1) of the Commonhold and Leasehold Reform Act 2002. By virtue of paragraph 30(2)(c) of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32) the functions formerly exercised by the National Assembly for Wales are now exercisable by the Welsh Ministers.
 
-[^key-e76086b759b5c432b55932465d051b31]: Commencement: Reg. 1 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-e76086b759b5c432b55932465d051b31]: Commencement: Reg. 1 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
 [^f00002]: Footnote: For the definition of “RTM company” *see* sections 71(1) and 73 of the 2002 Act.
 
 [^f00003]: Footnote: For the premises relevant to RTM companies, *see* section 72 of, and Schedule 6 to, the Commonhold and Leasehold Reform Act 2002.
 
-[^key-78a9858a609fa48e7dc38d53ae6f06be]: Commencement: Reg. 2 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-78a9858a609fa48e7dc38d53ae6f06be]: Commencement: Reg. 2 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-ff161cf863bf9ae88c68f739058f00fe]: Commencement: Reg. 3 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-ff161cf863bf9ae88c68f739058f00fe]: Commencement: Reg. 3 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2003/2120](https://www.legislation.gov.uk/uksi/2003/2120).
 
-[^key-c7f35a78a45f0477a92e182cf7491658]: Commencement: Sch. art. 1 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-c7f35a78a45f0477a92e182cf7491658]: Commencement: Sch. art. 1 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
 [^f00005]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-5eadb36c7152cde8fef22da96afae710]: Textual amendment: Words in [Sch. art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/schedule/article/1/1) inserted (3.3.2025) by [The RTM Companies (Model Articles) (England) (Amendment) Regulations 2025 (S.I. 2025/130)](https://www.legislation.gov.uk/uksi/2025/130), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/130/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/130/regulation/2/2/a)
+[^c-5eadb36c7152cde8fef22da96afae710]: Textual amendment: Words in [Sch. art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/schedule/article/1/1) inserted (3.3.2025) by [The RTM Companies (Model Articles) (England) (Amendment) Regulations 2025 (S.I. 2025/130)](https://www.legislation.gov.uk/uksi/2025/130), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/130/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/130/regulation/2/2/a)
 
-[^key-51a8e503f78944c0e7d59f8216318356]: Commencement: Sch. art. 2 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-51a8e503f78944c0e7d59f8216318356]: Commencement: Sch. art. 2 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-834bed6c5fa390a462b05fdf597bfbb5]: Commencement: Sch. art. 3 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-834bed6c5fa390a462b05fdf597bfbb5]: Commencement: Sch. art. 3 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-c9094c7fc2809e15427710d61367f998]: Commencement: Sch. art. 4 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-c9094c7fc2809e15427710d61367f998]: Commencement: Sch. art. 4 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-516ede0a806cc8a39258f72e4db63861]: Commencement: Sch. art. 5 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-516ede0a806cc8a39258f72e4db63861]: Commencement: Sch. art. 5 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-1ecd4c3b5021563c49a3924eda355be7]: Commencement: Sch. art. 6 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-1ecd4c3b5021563c49a3924eda355be7]: Commencement: Sch. art. 6 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-d2a29138965be7ae4e65783e8b2795ef]: Commencement: Sch. art. 7 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-d2a29138965be7ae4e65783e8b2795ef]: Commencement: Sch. art. 7 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-9d8945decf83ee33d3fa60b014ea997f]: Commencement: Sch. art. 8 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-9d8945decf83ee33d3fa60b014ea997f]: Commencement: Sch. art. 8 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-807ef7794292ca381d778713752dd6f3]: Commencement: Sch. art. 9 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-807ef7794292ca381d778713752dd6f3]: Commencement: Sch. art. 9 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-31a79e9fc5a35a309157a5bd548893af]: Commencement: Sch. art. 10 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-31a79e9fc5a35a309157a5bd548893af]: Commencement: Sch. art. 10 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-1a70cb90b36282e2b5751d8451efaabd]: Commencement: Sch. art. 11 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-1a70cb90b36282e2b5751d8451efaabd]: Commencement: Sch. art. 11 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-be79ad7b67ea26b542aa1571683e0523]: Commencement: Sch. art. 12 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-be79ad7b67ea26b542aa1571683e0523]: Commencement: Sch. art. 12 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-c2b4562435171f6feec5ef1935cf555f]: Commencement: Sch. art. 13 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-c2b4562435171f6feec5ef1935cf555f]: Commencement: Sch. art. 13 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-a237da4892ba52dd65fca4c4d23377db]: Commencement: Sch. art. 14 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-a237da4892ba52dd65fca4c4d23377db]: Commencement: Sch. art. 14 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-4bc55c49aefa81a29654e74677d68d0a]: Commencement: Sch. art. 15 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-4bc55c49aefa81a29654e74677d68d0a]: Commencement: Sch. art. 15 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-be26d850b3f610ac3114bd5c93a95360]: Commencement: Sch. art. 16 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-be26d850b3f610ac3114bd5c93a95360]: Commencement: Sch. art. 16 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-1df6ae0307941c7ad45cc93e51accb86]: Commencement: Sch. art. 17 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-1df6ae0307941c7ad45cc93e51accb86]: Commencement: Sch. art. 17 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-4198c9dadab132e8c5ba71966e54284e]: Commencement: Sch. art. 18 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-4198c9dadab132e8c5ba71966e54284e]: Commencement: Sch. art. 18 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-9bf74207fdfaa12799321a2b62a58de5]: Commencement: Sch. art. 19 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-9bf74207fdfaa12799321a2b62a58de5]: Commencement: Sch. art. 19 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-bbcf37ff32f03bc5d8f7ea544c7e7deb]: Commencement: Sch. art. 20 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-bbcf37ff32f03bc5d8f7ea544c7e7deb]: Commencement: Sch. art. 20 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-cde04546ab291fcffaa1aefaf28465eb]: Commencement: Sch. art. 21 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-cde04546ab291fcffaa1aefaf28465eb]: Commencement: Sch. art. 21 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-b1db74364ba7c080d21b3808b971833b]: Commencement: Sch. art. 22 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-b1db74364ba7c080d21b3808b971833b]: Commencement: Sch. art. 22 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-f6b654150f731944573a38e4dd57ab28]: Commencement: Sch. art. 23 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-f6b654150f731944573a38e4dd57ab28]: Commencement: Sch. art. 23 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-9a03d6863f06ffa1967327367716c8bc]: Textual amendment: [Sch. art. 23(e)](https://www.legislation.gov.uk/uksi/2009/2767/schedule/paragraph/23/e) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/3/2), [4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1)
+[^c-9a03d6863f06ffa1967327367716c8bc]: Textual amendment: [Sch. art. 23(e)](https://www.legislation.gov.uk/uksi/2009/2767/schedule/paragraph/23/e) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2013/8/section/3/2), [4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1)
 
-[^key-4c48c48f585eecd8d0654b644e998738]: Commencement: Sch. art. 24 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-4c48c48f585eecd8d0654b644e998738]: Commencement: Sch. art. 24 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-efbcd71db4a5bfbdb5f2a7cdfc2a091f]: Commencement: Sch. art. 25 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-efbcd71db4a5bfbdb5f2a7cdfc2a091f]: Commencement: Sch. art. 25 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-0d505c9bf3bcb4f6504aaf832eef711a]: Commencement: Sch. art. 26 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-0d505c9bf3bcb4f6504aaf832eef711a]: Commencement: Sch. art. 26 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-a4e70added059e91aa55c498b6600d11]: Textual amendment: Words in Sch. art. 26(5) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 8(a)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/8/a)
+[^c-a4e70added059e91aa55c498b6600d11]: Textual amendment: Words in Sch. art. 26(5) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 8(a)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/8/a)
 
-[^key-01cfbcc8c0a8dc1e2a4393de7d122d51]: Commencement: Sch. art. 27 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-01cfbcc8c0a8dc1e2a4393de7d122d51]: Commencement: Sch. art. 27 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-3981106a905b9b497e95b861f2120861]: Commencement: Sch. art. 28 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-3981106a905b9b497e95b861f2120861]: Commencement: Sch. art. 28 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-c23c30ea5e0c941d235ecd443734fa64]: Commencement: Sch. art. 29 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-c23c30ea5e0c941d235ecd443734fa64]: Commencement: Sch. art. 29 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-21154fe59b0f178d7f9cc84ba69fffbb]: Commencement: Sch. art. 30 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-21154fe59b0f178d7f9cc84ba69fffbb]: Commencement: Sch. art. 30 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-2c0e8c68583d05a683872b56f5d13bc0]: Commencement: Sch. art. 31 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-2c0e8c68583d05a683872b56f5d13bc0]: Commencement: Sch. art. 31 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-32600156ad920fabf6a6d86603ec9c46]: Commencement: Sch. art. 32 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-32600156ad920fabf6a6d86603ec9c46]: Commencement: Sch. art. 32 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-59ac00fc7569fa9b2a3ebb4923baf437]: Commencement: Sch. art. 33 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-59ac00fc7569fa9b2a3ebb4923baf437]: Commencement: Sch. art. 33 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-74f6ee9770ac6c85a99b6024419dee9e]: Textual amendment: Sch. art. 33(3)(f)(g) substituted for art. 33(3)(f) (3.3.2025) by [The RTM Companies (Model Articles) (England) (Amendment) Regulations 2025 (S.I. 2025/130)](https://www.legislation.gov.uk/uksi/2025/130), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/130/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/130/regulation/2/2/b)
+[^c-74f6ee9770ac6c85a99b6024419dee9e]: Textual amendment: Sch. art. 33(3)(f)(g) substituted for art. 33(3)(f) (3.3.2025) by [The RTM Companies (Model Articles) (England) (Amendment) Regulations 2025 (S.I. 2025/130)](https://www.legislation.gov.uk/uksi/2025/130), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/130/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/130/regulation/2/2/b)
 
-[^key-0a815074b1d5bc4309b675e73f1b5f19]: Textual amendment: Words in Sch. art. 33(4) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 8(b)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/8/b)
+[^c-0a815074b1d5bc4309b675e73f1b5f19]: Textual amendment: Words in Sch. art. 33(4) inserted (30.6.2016) by [The Companies and Limited Liability Partnerships (Filing Requirements) Regulations 2016 (S.I. 2016/599)](https://www.legislation.gov.uk/uksi/2016/599), [reg. 1](https://www.legislation.gov.uk/uksi/2016/599/regulation/1), [Sch. 3 para. 8(b)](https://www.legislation.gov.uk/uksi/2016/599/schedule/3/paragraph/8/b)
 
-[^key-4f147b33e410c4274b23e6e12e1a537d]: Commencement: Sch. art. 34 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-4f147b33e410c4274b23e6e12e1a537d]: Commencement: Sch. art. 34 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-6dd47daf4879a0f210974fdd6aa29e60]: Commencement: Sch. art. 35 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-6dd47daf4879a0f210974fdd6aa29e60]: Commencement: Sch. art. 35 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-4c1b3561d3afecd453def952790fa5d7]: Commencement: Sch. art. 36 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-4c1b3561d3afecd453def952790fa5d7]: Commencement: Sch. art. 36 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-730c53f488cd2221b7bf5db74bd63c92]: Commencement: Sch. art. 37 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-730c53f488cd2221b7bf5db74bd63c92]: Commencement: Sch. art. 37 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-4454ef7d9e309ce4ecec18824f17f95d]: Commencement: Sch. art. 38 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-4454ef7d9e309ce4ecec18824f17f95d]: Commencement: Sch. art. 38 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-0273e49ae415517c886b432800cde91c]: Commencement: Sch. art. 39 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-0273e49ae415517c886b432800cde91c]: Commencement: Sch. art. 39 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-b366ca7f9dba0419f9676394df0e9865]: Commencement: Sch. art. 40 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-b366ca7f9dba0419f9676394df0e9865]: Commencement: Sch. art. 40 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-89f2b7031703de084c47e289fa5e25e7]: Commencement: Sch. art. 41 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-89f2b7031703de084c47e289fa5e25e7]: Commencement: Sch. art. 41 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-57fb5a7df935314e951a96a34fe8e32e]: Commencement: Sch. art. 42 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-57fb5a7df935314e951a96a34fe8e32e]: Commencement: Sch. art. 42 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-afab2df8928f3f579ed3636285e4f01a]: Commencement: Sch. art. 43 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-afab2df8928f3f579ed3636285e4f01a]: Commencement: Sch. art. 43 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
 
-[^key-b9d4402b02defa507f93f0bef365ab6d]: Commencement: Sch. art. 44 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)
+[^c-b9d4402b02defa507f93f0bef365ab6d]: Commencement: Sch. art. 44 in force at 9.11.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/2767/regulation/1/1)

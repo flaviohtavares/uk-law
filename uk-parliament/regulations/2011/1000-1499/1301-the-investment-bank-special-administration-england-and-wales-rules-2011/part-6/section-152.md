@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 152. Proving a debt[^key-cee70de932d097e04637c063d6d7d2ed]
+## 152. Proving a debt[^c-cee70de932d097e04637c063d6d7d2ed]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cee70de932d097e04637c063d6d7d2ed]: Commencement: [Rule 152](https://www.legislation.gov.uk/uksi/2011/1301/rule/152) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-cee70de932d097e04637c063d6d7d2ed]: Commencement: [Rule 152](https://www.legislation.gov.uk/uksi/2011/1301/rule/152) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

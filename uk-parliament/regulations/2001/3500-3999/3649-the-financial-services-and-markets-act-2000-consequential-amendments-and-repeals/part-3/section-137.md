@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Interpretation of expressions relating to insurance[^key-1ed5affae127cc836024461174715551]
+## 137. Interpretation of expressions relating to insurance[^c-1ed5affae127cc836024461174715551]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ed5affae127cc836024461174715551]: Commencement: Art. 137 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1ed5affae127cc836024461174715551]: Commencement: Art. 137 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

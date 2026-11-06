@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Health Boards.[^c14158001][^key-1f8c68ad8ba1d176cc77ed82f5dcecfa][^key-046ff196cf20fcbfdda9dbc11f657411]
+## 2. Health Boards.[^c14158001][^c-1f8c68ad8ba1d176cc77ed82f5dcecfa][^c-046ff196cf20fcbfdda9dbc11f657411]
 
 *Extent: S*
 
@@ -40,9 +40,9 @@ summary: ''
 
 (4)[^c14158071][^c14158081] Any order under subsection (3) may make provision for any supplementary and incidental matters for which it appears to the Secretary of State to be necessary or expedient to provide, in particular for the transfer of officers and of property and liabilities.
 
-(5)[^c14158071][^c14158121][^c14158081] In carrying out the purposes mentioned in subsection (1) and in exercising any function otherwise conferred on them by or under this Act[^c14158141] or by or under the 2021 Act[^key-3d21ec3c139f34824793568334cf2e9d] each Health Board shall act subject to, and in accordance with, such regulations as may be made, and such directions as may be given, by the Secretary of State; and such regulations and directions may be made or given generally or to meet the circumstances of a particular area or matter.
+(5)[^c14158071][^c14158121][^c14158081] In carrying out the purposes mentioned in subsection (1) and in exercising any function otherwise conferred on them by or under this Act[^c14158141] or by or under the 2021 Act[^c-3d21ec3c139f34824793568334cf2e9d] each Health Board shall act subject to, and in accordance with, such regulations as may be made, and such directions as may be given, by the Secretary of State; and such regulations and directions may be made or given generally or to meet the circumstances of a particular area or matter.
 
-(6) Regulations under subsection (5) shall make provision requiring each Health Board to submit to the Secretary of State a scheme for the exercise of their functions (other than functions conferred on them by or under the 2021 Act)[^key-870ffbbd57cfed09a707c8158109736f], and enabling the Secretary of State to approve any such scheme with or without modifications, and to make such a scheme in the event of the failure of any Health Board to do so.
+(6) Regulations under subsection (5) shall make provision requiring each Health Board to submit to the Secretary of State a scheme for the exercise of their functions (other than functions conferred on them by or under the 2021 Act)[^c-870ffbbd57cfed09a707c8158109736f], and enabling the Secretary of State to approve any such scheme with or without modifications, and to make such a scheme in the event of the failure of any Health Board to do so.
 
 (7) A Health Board may at any time, and if directed by the Secretary of State shall, within such period as he may specify, submit a new scheme for the exercise of their functions, and regulations making the provision mentioned in subsection (6) shall, with any necessary modifications, apply to any such scheme.
 
@@ -60,9 +60,9 @@ summary: ''
 
 [^c14158001]: Modification: S. 2 modified (15.8.1997) by [1997 c. 46](https://www.legislation.gov.uk/ukpga/1997/46), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1997/46/section/10/2); [S.I. 1997/1780](https://www.legislation.gov.uk/uksi/1997/1780), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/1780/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1997/1780/schedule)
 
-[^key-1f8c68ad8ba1d176cc77ed82f5dcecfa]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1978/29/section/2) applied in part (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-1f8c68ad8ba1d176cc77ed82f5dcecfa]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1978/29/section/2) applied in part (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
-[^key-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
 [^c14158011]: Textual amendment: Words in s. 2(1) renumbered as s. 2(1)(a) by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 28(a)(i)](https://www.legislation.gov.uk/ukpga/1990/19/section/28/a/i)
 
@@ -102,9 +102,9 @@ summary: ''
 
 [^c14158141]: Textual amendment: Words inserted by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 66(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/1), [Sch. 9 para. 19(1)](https://www.legislation.gov.uk/ukpga/1990/19/schedule/9/paragraph/19/1)
 
-[^key-3d21ec3c139f34824793568334cf2e9d]: Textual amendment: Words in [s. 2(5)](https://www.legislation.gov.uk/ukpga/1978/29/section/2/5) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 1(2)(a)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/1/2/a) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-3d21ec3c139f34824793568334cf2e9d]: Textual amendment: Words in [s. 2(5)](https://www.legislation.gov.uk/ukpga/1978/29/section/2/5) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 1(2)(a)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/1/2/a) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-870ffbbd57cfed09a707c8158109736f]: Textual amendment: Words in [s. 2(6)](https://www.legislation.gov.uk/ukpga/1978/29/section/2/6) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 1(2)(b)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/1/2/b) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-870ffbbd57cfed09a707c8158109736f]: Textual amendment: Words in [s. 2(6)](https://www.legislation.gov.uk/ukpga/1978/29/section/2/6) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 1(2)(b)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/1/2/b) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
 [^c14158171]: Textual amendment: S. 2(9) repealed (1.4.1991) by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 66(2)](https://www.legislation.gov.uk/ukpga/1990/19/section/66/2), [Sch. 10](https://www.legislation.gov.uk/ukpga/1990/19/schedule/10)
 

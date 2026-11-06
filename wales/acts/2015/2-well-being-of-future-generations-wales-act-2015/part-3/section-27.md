@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Appointed members[^key-040f57d55453b8678f2c21dd98626598]
+## 27. Appointed members[^c-040f57d55453b8678f2c21dd98626598]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-040f57d55453b8678f2c21dd98626598]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2015/2/section/27) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(i)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/i)
+[^c-040f57d55453b8678f2c21dd98626598]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2015/2/section/27) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(i)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/i)

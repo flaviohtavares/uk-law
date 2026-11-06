@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Power to interview[^key-bbb69a42cea26c399ad7c41b488ce34f][^key-4e38d2ffb4b0ce420eface2a13f02d37]
+## 72. Power to interview[^c-bbb69a42cea26c399ad7c41b488ce34f][^c-4e38d2ffb4b0ce420eface2a13f02d37]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bbb69a42cea26c399ad7c41b488ce34f]: Commencement: S. 72 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-bbb69a42cea26c399ad7c41b488ce34f]: Commencement: S. 72 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-4e38d2ffb4b0ce420eface2a13f02d37]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2024/13/section/72) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-4e38d2ffb4b0ce420eface2a13f02d37]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2024/13/section/72) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Appeals[^key-3a1f14e4880780ccc960202136113d80]
+## 67. Appeals[^c-3a1f14e4880780ccc960202136113d80]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ the applicant may make an appeal under this section as if the council had refuse
 
 ## Annotations
 
-[^key-3a1f14e4880780ccc960202136113d80]: Commencement: [S. 67](https://www.legislation.gov.uk/nia/2016/22/section/67) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-3a1f14e4880780ccc960202136113d80]: Commencement: [S. 67](https://www.legislation.gov.uk/nia/2016/22/section/67) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

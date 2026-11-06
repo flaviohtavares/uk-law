@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 315. Amendments of the Harbours Act 1964[^key-c4ca9f65943630dc9e122f1003231387]
+## 315. Amendments of the Harbours Act 1964[^c-c4ca9f65943630dc9e122f1003231387]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 21 (which contains amendments of the Harbours Act 1964 (c. 40)) has eff
 
 ## Annotations
 
-[^key-c4ca9f65943630dc9e122f1003231387]: Commencement: [S. 315](https://www.legislation.gov.uk/ukpga/2009/23/section/315) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
+[^c-c4ca9f65943630dc9e122f1003231387]: Commencement: [S. 315](https://www.legislation.gov.uk/ukpga/2009/23/section/315) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)

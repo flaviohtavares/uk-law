@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Purported transfer value payment[^key-22be51d8ba64c474840e12a36254527d]
+## 36A. Purported transfer value payment[^c-22be51d8ba64c474840e12a36254527d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In this Chapter, “**purported transfer value payment**” means a payment—
 
 ## Annotations
 
-[^key-22be51d8ba64c474840e12a36254527d]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2015/182/regulation/36A) inserted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/3)
+[^c-22be51d8ba64c474840e12a36254527d]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2015/182/regulation/36A) inserted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/3)

@@ -59,7 +59,7 @@ where—
 
 (9)[^M_F_bd5af73a-4c56-4079-c10d-6167ee57c5f5] In this regulation, “the consumer prices index” means the all items consumer prices index published by the Statistics Board, a body corporate established by section 1 of the Statistics and Registration Service Act 2007.
 
-Contributions table for scheme year 1st April 2020 to 31st March 2021[^key-aaa936edd375eb0d57df50900607a7d1]
+Contributions table for scheme year 1st April 2020 to 31st March 2021[^c-aaa936edd375eb0d57df50900607a7d1]
 
 | *Column 1*<br>*Annualised rate of pensionable earnings* | *Column 2*<br>*Member contributions rate* |
 | --- | --- |
@@ -80,4 +80,4 @@ Contributions table for scheme year 1st April 2020 to 31st March 2021[^key-aaa93
 
 [^M_F_bd5af73a-4c56-4079-c10d-6167ee57c5f5]: Textual amendment: Reg. 124(9) inserted (1.4.2020) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/10)](https://www.legislation.gov.uk/nisr/2020/10), [regs. 1](https://www.legislation.gov.uk/nisr/2020/10/regulation/1), [2(c)](https://www.legislation.gov.uk/nisr/2020/10/regulation/2/c)
 
-[^key-aaa936edd375eb0d57df50900607a7d1]: Textual amendment: Reg. 124 Table substituted (1.4.2020) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/10)](https://www.legislation.gov.uk/nisr/2020/10), [regs. 1](https://www.legislation.gov.uk/nisr/2020/10/regulation/1), [2(d)](https://www.legislation.gov.uk/nisr/2020/10/regulation/2/d)
+[^c-aaa936edd375eb0d57df50900607a7d1]: Textual amendment: Reg. 124 Table substituted (1.4.2020) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/10)](https://www.legislation.gov.uk/nisr/2020/10), [regs. 1](https://www.legislation.gov.uk/nisr/2020/10/regulation/1), [2(d)](https://www.legislation.gov.uk/nisr/2020/10/regulation/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Public processions and assemblies: duty to take account of cumulative disruption[^key-be21fd20dd5ecb3d85cb117049c21f81][^key-0a1752a6a934caa51246f669f14b257a]
+## 165. Public processions and assemblies: duty to take account of cumulative disruption[^c-be21fd20dd5ecb3d85cb117049c21f81][^c-0a1752a6a934caa51246f669f14b257a]
 
 *Extent: E+W+S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be21fd20dd5ecb3d85cb117049c21f81]: Commencement: S. 165 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-be21fd20dd5ecb3d85cb117049c21f81]: Commencement: S. 165 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0a1752a6a934caa51246f669f14b257a]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2026/20/section/165) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(q)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/q)
+[^c-0a1752a6a934caa51246f669f14b257a]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2026/20/section/165) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(q)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/q)

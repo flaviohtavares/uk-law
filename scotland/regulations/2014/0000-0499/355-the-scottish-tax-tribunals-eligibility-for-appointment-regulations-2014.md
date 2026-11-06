@@ -32,7 +32,7 @@ summary: ''
 
 Tribunals And Inquiries
 
-The Scottish Tax Tribunals (Eligibility for Appointment) Regulations 2014 (revoked)[^key-726268146e9db6adbe55918796b9b558]
+The Scottish Tax Tribunals (Eligibility for Appointment) Regulations 2014 (revoked)[^c-726268146e9db6adbe55918796b9b558]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st February 2015
 
-[^key-726268146e9db6adbe55918796b9b558]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-726268146e9db6adbe55918796b9b558]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-726268146e9db6adbe55918796b9b558]
+## 1. Citation, commencement and interpretation[^c-726268146e9db6adbe55918796b9b558]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Eligibility for appointment as ordinary member of the First-tier Tax Tribunal for Scotland[^key-726268146e9db6adbe55918796b9b558]
+## 2. Eligibility for appointment as ordinary member of the First-tier Tax Tribunal for Scotland[^c-726268146e9db6adbe55918796b9b558]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Means of calculating 5-year period of legal practice in connection with eligibility for appointment as legal member of the First-tier Tax Tribunal for Scotland[^key-726268146e9db6adbe55918796b9b558]
+## 3. Means of calculating 5-year period of legal practice in connection with eligibility for appointment as legal member of the First-tier Tax Tribunal for Scotland[^c-726268146e9db6adbe55918796b9b558]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Means of calculating 10-year period of legal practice in connection with eligibility for appointment as President of the Tax Tribunals or appointment as legal member of the Upper Tax Tribunal for Scotland[^key-726268146e9db6adbe55918796b9b558]
+## 4. Means of calculating 10-year period of legal practice in connection with eligibility for appointment as President of the Tax Tribunals or appointment as legal member of the Upper Tax Tribunal for Scotland[^c-726268146e9db6adbe55918796b9b558]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-726268146e9db6adbe55918796b9b558]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-726268146e9db6adbe55918796b9b558]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-726268146e9db6adbe55918796b9b558]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-726268146e9db6adbe55918796b9b558]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-726268146e9db6adbe55918796b9b558]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/355) revoked (24.4.2017) by [The Tribunals (Scotland) Act 2014 (Ancillary Provisions) Regulations 2017 (S.S.I. 2017/108)](https://www.legislation.gov.uk/ssi/2017/108), [reg. 1](https://www.legislation.gov.uk/ssi/2017/108/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2017/108/schedule)
+[^c-726268146e9db6adbe55918796b9b558]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/355) revoked (24.4.2017) by [The Tribunals (Scotland) Act 2014 (Ancillary Provisions) Regulations 2017 (S.S.I. 2017/108)](https://www.legislation.gov.uk/ssi/2017/108), [reg. 1](https://www.legislation.gov.uk/ssi/2017/108/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2017/108/schedule)

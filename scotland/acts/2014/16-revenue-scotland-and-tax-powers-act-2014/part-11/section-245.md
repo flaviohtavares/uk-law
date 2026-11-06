@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 245. Reviews and appeals not to postpone recovery of tax[^key-c7b92203534b72375c8f827e34b4471f][^key-7be10e7bcb35081bce5ba5a02c644306]
+## 245. Reviews and appeals not to postpone recovery of tax[^c-c7b92203534b72375c8f827e34b4471f][^c-7be10e7bcb35081bce5ba5a02c644306]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7b92203534b72375c8f827e34b4471f]: Commencement: [S. 245](https://www.legislation.gov.uk/asp/2014/16/section/245) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-c7b92203534b72375c8f827e34b4471f]: Commencement: [S. 245](https://www.legislation.gov.uk/asp/2014/16/section/245) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-7be10e7bcb35081bce5ba5a02c644306]: Commencement: [S. 245](https://www.legislation.gov.uk/asp/2014/16/section/245) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-7be10e7bcb35081bce5ba5a02c644306]: Commencement: [S. 245](https://www.legislation.gov.uk/asp/2014/16/section/245) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

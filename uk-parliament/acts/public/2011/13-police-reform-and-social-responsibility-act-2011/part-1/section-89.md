@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Collaboration agreements[^key-108fde4a4e1a22120d2a79a126d1bd6f]
+## 89. Collaboration agreements[^c-108fde4a4e1a22120d2a79a126d1bd6f]
 
 *Extent: E+W*
 
@@ -147,4 +147,4 @@ summary: ''
 
 ## Annotations
 
-[^key-108fde4a4e1a22120d2a79a126d1bd6f]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2011/13/section/89) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-108fde4a4e1a22120d2a79a126d1bd6f]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2011/13/section/89) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

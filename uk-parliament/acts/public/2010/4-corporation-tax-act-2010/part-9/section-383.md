@@ -26,7 +26,7 @@ summary: ''
 - (b) the company is within the charge to corporation tax in respect of the business, and
 - (c) there is a qualifying change of ownership in relation to the company.
 
-(1A)[^key-9d1e5a898b8d52478e726ba47661c1c2] For the meaning of “qualifying change of ownership”, see sections 394A to 398A.
+(1A)[^c-9d1e5a898b8d52478e726ba47661c1c2] For the meaning of “qualifying change of ownership”, see sections 394A to 398A.
 
 (2) On the relevant day—
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d1e5a898b8d52478e726ba47661c1c2]: Textual amendment: S. 383(1A) inserted (with effect in accordance with Sch. 18 para. 9 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/18/paragraph/3)
+[^c-9d1e5a898b8d52478e726ba47661c1c2]: Textual amendment: S. 383(1A) inserted (with effect in accordance with Sch. 18 para. 9 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/18/paragraph/3)

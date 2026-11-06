@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90C. Secure transportation: reports[^key-79b36aaffc0ece1a587921837ee842c3]
+## 90C. Secure transportation: reports[^c-79b36aaffc0ece1a587921837ee842c3]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79b36aaffc0ece1a587921837ee842c3]: Textual amendment: [Pt. 16A](https://www.legislation.gov.uk/asp/2014/8/part/16A) inserted (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 25(2)](https://www.legislation.gov.uk/asp/2024/5/section/25/2), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/a)
+[^c-79b36aaffc0ece1a587921837ee842c3]: Textual amendment: [Pt. 16A](https://www.legislation.gov.uk/asp/2014/8/part/16A) inserted (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 25(2)](https://www.legislation.gov.uk/asp/2024/5/section/25/2), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/a)

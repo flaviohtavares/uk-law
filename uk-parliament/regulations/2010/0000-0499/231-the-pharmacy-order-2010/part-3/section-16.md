@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Appeals against improvement notices[^key-3e97a32255bd2901f780594551b07cd3][^key-0f34a606cebbac48200fe9d02f91f767]
+## 16. Appeals against improvement notices[^c-3e97a32255bd2901f780594551b07cd3][^c-0f34a606cebbac48200fe9d02f91f767]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e97a32255bd2901f780594551b07cd3]: Commencement: Art. 16 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-3e97a32255bd2901f780594551b07cd3]: Commencement: Art. 16 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-0f34a606cebbac48200fe9d02f91f767]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2010/231/article/16) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-0f34a606cebbac48200fe9d02f91f767]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2010/231/article/16) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

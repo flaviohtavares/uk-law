@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Applications to the schools forum and the Secretary of State[^key-ce34d7261a5d6845bd1a944db2bff993]
+## 14. Applications to the schools forum and the Secretary of State[^c-ce34d7261a5d6845bd1a944db2bff993]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the authority may make an application to the Secretary of State for such authori
 
 ## Annotations
 
-[^key-ce34d7261a5d6845bd1a944db2bff993]: Commencement: Reg. 14 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-ce34d7261a5d6845bd1a944db2bff993]: Commencement: Reg. 14 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

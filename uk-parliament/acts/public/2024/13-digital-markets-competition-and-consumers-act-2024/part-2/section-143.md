@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Civil penalties etc in connection with competition matters[^key-13f6344636de5fbcdc5167c2f0357d9d][^key-904cdf852607d4bf018f444c8dc07fd6]
+## 143. Civil penalties etc in connection with competition matters[^c-13f6344636de5fbcdc5167c2f0357d9d][^c-904cdf852607d4bf018f444c8dc07fd6]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13f6344636de5fbcdc5167c2f0357d9d]: Commencement: S. 143 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-13f6344636de5fbcdc5167c2f0357d9d]: Commencement: S. 143 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-904cdf852607d4bf018f444c8dc07fd6]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2024/13/section/143) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 13-16](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/13), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-904cdf852607d4bf018f444c8dc07fd6]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2024/13/section/143) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 13-16](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/13), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

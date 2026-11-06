@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transitional provisions[^key-dd8e163d7f3bb450efa205b49b292751]
+## 5. Transitional provisions[^c-dd8e163d7f3bb450efa205b49b292751]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd8e163d7f3bb450efa205b49b292751]: Commencement: Art. 5 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-dd8e163d7f3bb450efa205b49b292751]: Commencement: Art. 5 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00010]: Footnote: Section 44 was amended by [S.I. 1973/338](https://www.legislation.gov.uk/uksi/1973/338), the Transport Act [1980 (c. 34)](https://www.legislation.gov.uk/ukpga/1980/34), [S.I. 1991/510](https://www.legislation.gov.uk/uksi/1991/510) and [S.S.I. 2002/263](https://www.legislation.gov.uk/ssi/2002/263).

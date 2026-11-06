@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Sections 95 and 96: review and appeal[^key-a4356c78a5b6bda20bfd14f0a4841aa7]
+## 97. Sections 95 and 96: review and appeal[^c-a4356c78a5b6bda20bfd14f0a4841aa7]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4356c78a5b6bda20bfd14f0a4841aa7]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2016/21/section/97) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-a4356c78a5b6bda20bfd14f0a4841aa7]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2016/21/section/97) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

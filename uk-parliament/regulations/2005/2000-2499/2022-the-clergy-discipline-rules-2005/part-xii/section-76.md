@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 76. Inclusion of name in list under section 38(1)(e) of the Measure[^key-69ccb20c5081852195f5e080de5545be]
+## 76. Inclusion of name in list under section 38(1)(e) of the Measure[^c-69ccb20c5081852195f5e080de5545be]
 
 *Extent: E*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) with the agreement of the other archbishop give a decision whether or not to include that person in the list, and
 - (b) inform the person in writing of the decision.
 
-(3) If the decision under paragraph[^key-90b266f712d96ec42b936c45f6a4f59f] (2) is that the person is to be included in the list then the archbishop of the relevant province shall notify the person in writing of—
+(3) If the decision under paragraph[^c-90b266f712d96ec42b936c45f6a4f59f] (2) is that the person is to be included in the list then the archbishop of the relevant province shall notify the person in writing of—
 
 - (a) the particulars to be recorded, and
 - (b) the person’s right to request the President in writing to review the decision.
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69ccb20c5081852195f5e080de5545be]: Commencement: [Rule 76](https://www.legislation.gov.uk/uksi/2005/2022/rule/76) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-69ccb20c5081852195f5e080de5545be]: Commencement: [Rule 76](https://www.legislation.gov.uk/uksi/2005/2022/rule/76) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-90b266f712d96ec42b936c45f6a4f59f]: Textual amendment: Word in Rules substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2021/557/rule/14/a)
+[^c-90b266f712d96ec42b936c45f6a4f59f]: Textual amendment: Word in Rules substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2021/557/rule/14/a)

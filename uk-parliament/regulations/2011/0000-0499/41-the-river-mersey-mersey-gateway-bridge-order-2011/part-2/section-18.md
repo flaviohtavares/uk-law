@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Prohibitions within the new crossing area, etc.[^key-e3c6f2fe4a9030a63214a94a3d6129a5]
+## 18. Prohibitions within the new crossing area, etc.[^c-e3c6f2fe4a9030a63214a94a3d6129a5]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ unless that person does so in compliance with any direction which the relevant n
 
 ## Annotations
 
-[^key-e3c6f2fe4a9030a63214a94a3d6129a5]: Commencement: Art. 18 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-e3c6f2fe4a9030a63214a94a3d6129a5]: Commencement: Art. 18 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

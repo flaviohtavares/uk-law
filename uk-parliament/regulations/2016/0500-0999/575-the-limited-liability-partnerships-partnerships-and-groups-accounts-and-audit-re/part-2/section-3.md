@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendments to the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^key-982fc26b3b8c2a9de7ce4cdd3b802641]
+## 3. Amendments to the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^c-982fc26b3b8c2a9de7ce4cdd3b802641]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-982fc26b3b8c2a9de7ce4cdd3b802641]: Commencement: Reg. 3 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-982fc26b3b8c2a9de7ce4cdd3b802641]: Commencement: Reg. 3 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

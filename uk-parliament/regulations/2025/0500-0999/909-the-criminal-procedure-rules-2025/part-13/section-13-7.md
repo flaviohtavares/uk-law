@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.7. Warrant issued when the court office is closed[^key-49160d61c58633bef3755619707b93ea]
+## 13.7. Warrant issued when the court office is closed[^c-49160d61c58633bef3755619707b93ea]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49160d61c58633bef3755619707b93ea]: Commencement: [Rule 13.7](https://www.legislation.gov.uk/uksi/2025/909/rule/13.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-49160d61c58633bef3755619707b93ea]: Commencement: [Rule 13.7](https://www.legislation.gov.uk/uksi/2025/909/rule/13.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

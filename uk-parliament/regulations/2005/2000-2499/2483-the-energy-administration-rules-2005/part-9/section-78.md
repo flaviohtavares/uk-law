@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Moving from energy administration to creditors' voluntary liquidation[^key-4e33cdfaec0e76e9c61165c8ebc1d4b1]
+## 78. Moving from energy administration to creditors' voluntary liquidation[^c-4e33cdfaec0e76e9c61165c8ebc1d4b1]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e33cdfaec0e76e9c61165c8ebc1d4b1]: Commencement: Rule 78 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-4e33cdfaec0e76e9c61165c8ebc1d4b1]: Commencement: Rule 78 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

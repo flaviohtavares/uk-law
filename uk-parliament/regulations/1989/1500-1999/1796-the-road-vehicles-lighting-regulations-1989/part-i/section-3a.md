@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3A. Equivalent standards[^key-a2f432010490e016704503d159331f97]
+## 3A. Equivalent standards[^c-a2f432010490e016704503d159331f97]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ where the standard, code of practice, international standard or technical specif
 
 ## Annotations
 
-[^key-a2f432010490e016704503d159331f97]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/1989/1796/regulation/3A) inserted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/1994/2280/regulation/4)
+[^c-a2f432010490e016704503d159331f97]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/1989/1796/regulation/3A) inserted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/1994/2280/regulation/4)

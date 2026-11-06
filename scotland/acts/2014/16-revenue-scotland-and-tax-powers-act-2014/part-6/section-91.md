@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Effect of determination[^key-cfa927873f146ed43ff3fb7d0fcc2d8c]
+## 91. Effect of determination[^c-cfa927873f146ed43ff3fb7d0fcc2d8c]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfa927873f146ed43ff3fb7d0fcc2d8c]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2014/16/section/91) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-cfa927873f146ed43ff3fb7d0fcc2d8c]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2014/16/section/91) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

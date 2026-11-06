@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Forfeiture of fish failing to meet size requirements[^key-d2a2cee58fede74b32f1900d8607ce8f]
+## 47. Forfeiture of fish failing to meet size requirements[^c-d2a2cee58fede74b32f1900d8607ce8f]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2a2cee58fede74b32f1900d8607ce8f]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2013/7/section/47) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-d2a2cee58fede74b32f1900d8607ce8f]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2013/7/section/47) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

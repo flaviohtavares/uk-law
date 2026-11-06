@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Amendment to the Justices of the Peace (Size and Chairmanship of Bench) Rules 2005[^key-c18fc412c99d940aaca22201aa2a2955]
+## 91. Amendment to the Justices of the Peace (Size and Chairmanship of Bench) Rules 2005[^c-c18fc412c99d940aaca22201aa2a2955]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In rule 3(2) of the Justices of the Peace (Size and Chairmanship of Bench) Rules
 
 ## Annotations
 
-[^key-c18fc412c99d940aaca22201aa2a2955]: Commencement: Art. 91 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-c18fc412c99d940aaca22201aa2a2955]: Commencement: Art. 91 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00027]: Footnote: [S.I. 2005/553](https://www.legislation.gov.uk/uksi/2005/553).

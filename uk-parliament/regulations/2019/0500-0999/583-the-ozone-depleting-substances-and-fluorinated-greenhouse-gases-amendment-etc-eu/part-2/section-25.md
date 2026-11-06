@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Article 25 (committee)[^key-231e35c978a6cc7d23401b9dfb25be27]
+## 25. Article 25 (committee)[^c-231e35c978a6cc7d23401b9dfb25be27]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,9 +28,9 @@ For Article 25 substitute—
 >
 > A function conferred by or under this Regulation—
 >
-> - (a) on the Scottish Ministers is exercisable only so far as it is exercisable within devolved competence in or as regards Scotland; and[^key-06d9a930227bc74873b45ed18e3b012f]
-> - (b) on the Welsh Ministers is exercisable only so far as it is exercisable within devolved competence in or as regards Wales.[^key-a535f231c847fbea8e0d193b9addc7a7]
-> - (c)[^key-76df8ae83772c3f8733fa99b13def1da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (a) on the Scottish Ministers is exercisable only so far as it is exercisable within devolved competence in or as regards Scotland; and[^c-06d9a930227bc74873b45ed18e3b012f]
+> - (b) on the Welsh Ministers is exercisable only so far as it is exercisable within devolved competence in or as regards Wales.[^c-a535f231c847fbea8e0d193b9addc7a7]
+> - (c)[^c-76df8ae83772c3f8733fa99b13def1da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **2.**
 >
@@ -38,15 +38,15 @@ For Article 25 substitute—
 >
 > - (a) on a person or body by virtue of a direction of the Scottish Ministers is exercisable only in or as regards Scotland; and
 > - (b) on a person or body by virtue of a direction of the Welsh Ministers is exercisable only in or as regards Wales.
-> - (c)[^key-76df8ae83772c3f8733fa99b13def1da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-76df8ae83772c3f8733fa99b13def1da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **3.**
 >
 > In this Article and Articles 25A to 25C, “within devolved competence”—
 >
 > - (a) in or as regards Scotland, is to be construed in accordance with section 54 of the Scotland Act 1998;
-> - (b) in or as regards Wales, is to be construed in accordance with section 108A of the Government of Wales Act 2006.[^key-d86b76b9a78c332d74d2819608ab071b]
-> - (c)[^key-76df8ae83772c3f8733fa99b13def1da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (b) in or as regards Wales, is to be construed in accordance with section 108A of the Government of Wales Act 2006.[^c-d86b76b9a78c332d74d2819608ab071b]
+> - (c)[^c-76df8ae83772c3f8733fa99b13def1da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **Article 25A — Exercise of functions: Scotland**
 >
@@ -86,19 +86,19 @@ For Article 25 substitute—
 >
 > **Article 25C — Exercise of functions: Northern Ireland**
 >
-> **1.[^key-2b8c65d3e476f95d1f151f87a628c7a6]**
+> **1.[^c-2b8c65d3e476f95d1f151f87a628c7a6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.[^key-2b8c65d3e476f95d1f151f87a628c7a6]**
+> **2.[^c-2b8c65d3e476f95d1f151f87a628c7a6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.[^key-2b8c65d3e476f95d1f151f87a628c7a6]**
+> **3.[^c-2b8c65d3e476f95d1f151f87a628c7a6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.[^key-2b8c65d3e476f95d1f151f87a628c7a6]**
+> **4.[^c-2b8c65d3e476f95d1f151f87a628c7a6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -112,7 +112,7 @@ For Article 25 substitute—
 >
 > For regulations made under this Regulation by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 [^c23643311].
 >
-> **3.[^key-dc9a5a659e780c9c2c9dbf41a0f6eabd]**
+> **3.[^c-dc9a5a659e780c9c2c9dbf41a0f6eabd]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -128,7 +128,7 @@ For Article 25 substitute—
 >
 > Regulations made by the Scottish Ministers under this Regulation are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
 >
-> **7.[^key-dc9a5a659e780c9c2c9dbf41a0f6eabd]**
+> **7.[^c-dc9a5a659e780c9c2c9dbf41a0f6eabd]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -150,18 +150,18 @@ For Article 25 substitute—
 
 ## Annotations
 
-[^key-231e35c978a6cc7d23401b9dfb25be27]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-231e35c978a6cc7d23401b9dfb25be27]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-06d9a930227bc74873b45ed18e3b012f]: Textual amendment: Word in reg. 25 inserted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(14)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/14/a/i)
+[^c-06d9a930227bc74873b45ed18e3b012f]: Textual amendment: Word in reg. 25 inserted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(14)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/14/a/i)
 
-[^key-a535f231c847fbea8e0d193b9addc7a7]: Textual amendment: Full stop in reg. 25 substituted for semicolon (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(14)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/14/a/ii)
+[^c-a535f231c847fbea8e0d193b9addc7a7]: Textual amendment: Full stop in reg. 25 substituted for semicolon (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(14)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/14/a/ii)
 
-[^key-76df8ae83772c3f8733fa99b13def1da]: Textual amendment: Words in reg. 25 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(14)(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/14/a/iv)
+[^c-76df8ae83772c3f8733fa99b13def1da]: Textual amendment: Words in reg. 25 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(14)(a)(iv)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/14/a/iv)
 
-[^key-d86b76b9a78c332d74d2819608ab071b]: Textual amendment: Full stop in reg. 25 substituted for semicolon (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(14)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/14/a/iii)
+[^c-d86b76b9a78c332d74d2819608ab071b]: Textual amendment: Full stop in reg. 25 substituted for semicolon (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(14)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/14/a/iii)
 
-[^key-2b8c65d3e476f95d1f151f87a628c7a6]: Textual amendment: Words in reg. 25 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(14)(b)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/14/b)
+[^c-2b8c65d3e476f95d1f151f87a628c7a6]: Textual amendment: Words in reg. 25 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(14)(b)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/14/b)
 
 [^c23643311]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-dc9a5a659e780c9c2c9dbf41a0f6eabd]: Textual amendment: Words in reg. 25 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(14)(c)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/14/c)
+[^c-dc9a5a659e780c9c2c9dbf41a0f6eabd]: Textual amendment: Words in reg. 25 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(14)(c)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/14/c)

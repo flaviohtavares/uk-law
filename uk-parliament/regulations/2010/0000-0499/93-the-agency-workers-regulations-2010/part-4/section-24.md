@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Police service[^key-c7f74ec3741d84490706c951df604559]
+## 24. Police service[^c-c7f74ec3741d84490706c951df604559]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7f74ec3741d84490706c951df604559]: Modification: [Reg. 24](https://www.legislation.gov.uk/uksi/2010/93/regulation/24) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/6/1) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-c7f74ec3741d84490706c951df604559]: Modification: [Reg. 24](https://www.legislation.gov.uk/uksi/2010/93/regulation/24) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/6/1) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))

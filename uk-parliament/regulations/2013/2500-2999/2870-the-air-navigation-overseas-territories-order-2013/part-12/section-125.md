@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Definitions and interpretation[^key-37b18633781bb3c1834eb66c3fd0f042]
+## 125. Definitions and interpretation[^c-37b18633781bb3c1834eb66c3fd0f042]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,12 +38,12 @@ In this Part—
   - (d) involves injury to any internal organ; or
   - (e) involves second or third degree burns, or any burns affecting more than 5 per cent of the body surface; or
   - (f) involves verified exposure to infectious substances or injurious radiation.
-- “Technical Instructions” means the English language edition of the[^key-b0e87117a0d259163f9772c523ce34ba] 2023-2024[^key-cf7234dea876191b11fbb3a15d623c84] Edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air as approved and published by decision of the Council of the International Civil Aviation Organization and as amended from time to time.
+- “Technical Instructions” means the English language edition of the[^c-b0e87117a0d259163f9772c523ce34ba] 2023-2024[^c-cf7234dea876191b11fbb3a15d623c84] Edition of the Technical Instructions for the Safe Transport of Dangerous Goods by Air as approved and published by decision of the Council of the International Civil Aviation Organization and as amended from time to time.
 
 ## Annotations
 
-[^key-37b18633781bb3c1834eb66c3fd0f042]: Commencement: [Art. 125](https://www.legislation.gov.uk/uksi/2013/2870/article/125) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-37b18633781bb3c1834eb66c3fd0f042]: Commencement: [Art. 125](https://www.legislation.gov.uk/uksi/2013/2870/article/125) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-b0e87117a0d259163f9772c523ce34ba]: Textual amendment: Words in [art. 125](https://www.legislation.gov.uk/uksi/2013/2870/article/125) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2021/755/article/13/3)
+[^c-b0e87117a0d259163f9772c523ce34ba]: Textual amendment: Words in [art. 125](https://www.legislation.gov.uk/uksi/2013/2870/article/125) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2021/755/article/13/3)
 
-[^key-cf7234dea876191b11fbb3a15d623c84]: Textual amendment: Word in [art. 125](https://www.legislation.gov.uk/uksi/2013/2870/article/125) substituted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [9(3)](https://www.legislation.gov.uk/uksi/2024/384/article/9/3)
+[^c-cf7234dea876191b11fbb3a15d623c84]: Textual amendment: Word in [art. 125](https://www.legislation.gov.uk/uksi/2013/2870/article/125) substituted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [9(3)](https://www.legislation.gov.uk/uksi/2024/384/article/9/3)

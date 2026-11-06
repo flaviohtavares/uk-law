@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Refusal of a needs assessment for a child aged 16 or 17[^key-b691e9305f12651fffca4634c6d60ce4]
+## 22. Refusal of a needs assessment for a child aged 16 or 17[^c-b691e9305f12651fffca4634c6d60ce4]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ the duty under that section to assess the child's needs does not apply.
 
 ## Annotations
 
-[^key-b691e9305f12651fffca4634c6d60ce4]: Commencement: S. 22 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-b691e9305f12651fffca4634c6d60ce4]: Commencement: S. 22 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

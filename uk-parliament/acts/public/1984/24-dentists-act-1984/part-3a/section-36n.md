@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36N. Allegations[^key-ab4407b8a03d50859e6c0a0648ea6539]
+## 36N. Allegations[^c-ab4407b8a03d50859e6c0a0648ea6539]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,9 +49,9 @@ and in such a case this Act shall apply as if an allegation or allegations to th
 (5) The registrar—
 
 - (a) shall refer the allegation to the Investigating Committee; and
-- (b)[^key-1012d43e461b21706b9a6949207d9066] may, at any time before the Investigating Committee have begun to consider the allegation, refer the allegation to the Interim Orders Committee if he considers it appropriate.
+- (b)[^c-1012d43e461b21706b9a6949207d9066] may, at any time before the Investigating Committee have begun to consider the allegation, refer the allegation to the Interim Orders Committee if he considers it appropriate.
 
-(6)[^key-fd435aa8f08ad34c177944d8386bdffa] The registrar shall investigate the allegation for the purpose of—
+(6)[^c-fd435aa8f08ad34c177944d8386bdffa] The registrar shall investigate the allegation for the purpose of—
 
 - (a) determining whether it is an allegation in relation to which this section applies, and
 - (b) if he determines that it is, determining whether to refer the allegation to the Interim Orders Committee under subsection (5)(b).
@@ -68,8 +68,8 @@ and in such a case this Act shall apply as if an allegation or allegations to th
 
 ## Annotations
 
-[^key-ab4407b8a03d50859e6c0a0648ea6539]: Textual amendment: Ss. 36K-36V and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 31](https://www.legislation.gov.uk/uksi/2005/2011/article/31) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-ab4407b8a03d50859e6c0a0648ea6539]: Textual amendment: Ss. 36K-36V and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 31](https://www.legislation.gov.uk/uksi/2005/2011/article/31) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-1012d43e461b21706b9a6949207d9066]: Textual amendment: [S. 36N(5)(b)](https://www.legislation.gov.uk/ukpga/1984/24/section/36N/5/b) substituted (13.4.2016) by [The General Dental Council (Fitness to Practise etc.) Order 2016 (S.I. 2016/496)](https://www.legislation.gov.uk/uksi/2016/496), [arts. 1](https://www.legislation.gov.uk/uksi/2016/496/article/1), [16](https://www.legislation.gov.uk/uksi/2016/496/article/16)
+[^c-1012d43e461b21706b9a6949207d9066]: Textual amendment: [S. 36N(5)(b)](https://www.legislation.gov.uk/ukpga/1984/24/section/36N/5/b) substituted (13.4.2016) by [The General Dental Council (Fitness to Practise etc.) Order 2016 (S.I. 2016/496)](https://www.legislation.gov.uk/uksi/2016/496), [arts. 1](https://www.legislation.gov.uk/uksi/2016/496/article/1), [16](https://www.legislation.gov.uk/uksi/2016/496/article/16)
 
-[^key-fd435aa8f08ad34c177944d8386bdffa]: Textual amendment: [S. 36N(6)](https://www.legislation.gov.uk/ukpga/1984/24/section/36N/6)[(6A)](https://www.legislation.gov.uk/ukpga/1984/24/section/36N/6A) substituted for [s. 36N(6)](https://www.legislation.gov.uk/ukpga/1984/24/section/36N/6) (13.4.2016) by [The General Dental Council (Fitness to Practise etc.) Order 2016 (S.I. 2016/496)](https://www.legislation.gov.uk/uksi/2016/496), [arts. 1](https://www.legislation.gov.uk/uksi/2016/496/article/1), [12](https://www.legislation.gov.uk/uksi/2016/496/article/12)
+[^c-fd435aa8f08ad34c177944d8386bdffa]: Textual amendment: [S. 36N(6)](https://www.legislation.gov.uk/ukpga/1984/24/section/36N/6)[(6A)](https://www.legislation.gov.uk/ukpga/1984/24/section/36N/6A) substituted for [s. 36N(6)](https://www.legislation.gov.uk/ukpga/1984/24/section/36N/6) (13.4.2016) by [The General Dental Council (Fitness to Practise etc.) Order 2016 (S.I. 2016/496)](https://www.legislation.gov.uk/uksi/2016/496), [arts. 1](https://www.legislation.gov.uk/uksi/2016/496/article/1), [12](https://www.legislation.gov.uk/uksi/2016/496/article/12)

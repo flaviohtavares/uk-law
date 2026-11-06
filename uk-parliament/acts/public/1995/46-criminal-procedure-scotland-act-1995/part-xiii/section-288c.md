@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-b2c35d817932c1e8e29632751dd8a7ef] An accused charged with a sexual offence to which this section applies is prohibited from conducting his case in person at, or for the purposes of, any relevant hearing in the course of proceedings (other than proceedings in a JP court) in respect of the offence.
+(1)[^c-b2c35d817932c1e8e29632751dd8a7ef] An accused charged with a sexual offence to which this section applies is prohibited from conducting his case in person at, or for the purposes of, any relevant hearing in the course of proceedings (other than proceedings in a JP court) in respect of the offence.
 
 (1A) In subsection (1), “**relevant hearing**” means a hearing at, or for the purposes of, which a witness is to give evidence.
 
@@ -93,7 +93,7 @@ summary: ''
 
 (7) No such statutory instrument shall be made, however, unless a draft of it has been laid before and approved by resolution of the Scottish Parliament.
 
-(8)[^c19022671] [^key-d5f7367fb375eaf0b49b16c8956a8327]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c19022671] [^c-d5f7367fb375eaf0b49b16c8956a8327]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9)[^c20917481] In subsection (2)—
 
@@ -106,7 +106,7 @@ summary: ''
 
 [^c16045391]: Textual amendment: S. 288C and cross-heading inserted (1.11.2002) by [Sexual Offences (Procedure and Evidence) (Scotland) Act 2002 (asp 9)](https://www.legislation.gov.uk/asp/2002/9), [s. 1](https://www.legislation.gov.uk/asp/2002/9/section/1); [S.S.I. 2002/443](https://www.legislation.gov.uk/ssi/2002/443), [art. 3](https://www.legislation.gov.uk/ssi/2002/443/article/3) (with [art. 4(1)(2)](https://www.legislation.gov.uk/ssi/2002/443/article/4/1/2))
 
-[^key-b2c35d817932c1e8e29632751dd8a7ef]: Textual amendment: S. 288C(1)(1A) substituted for s. 288C(1) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 69(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/69/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-b2c35d817932c1e8e29632751dd8a7ef]: Textual amendment: S. 288C(1)(1A) substituted for s. 288C(1) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 69(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/69/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c20453521]: Textual amendment: Words in s. 288C(2)(a) inserted (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [ss. 61](https://www.legislation.gov.uk/asp/2009/9/section/61), [62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [Sch. 5 para. 2(7)(a)](https://www.legislation.gov.uk/asp/2009/9/schedule/5/paragraph/2/7/a); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
 
@@ -122,6 +122,6 @@ summary: ''
 
 [^c19022671]: Textual amendment: S. 288C(8) inserted (1.2.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 25](https://www.legislation.gov.uk/asp/2004/5/section/25), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1), [Sch. para. 55(b)](https://www.legislation.gov.uk/asp/2004/5/schedule/paragraph/55/b); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with savings in [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
 
-[^key-d5f7367fb375eaf0b49b16c8956a8327]: Textual amendment: S. 288C(8) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 69(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/69/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-d5f7367fb375eaf0b49b16c8956a8327]: Textual amendment: S. 288C(8) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 69(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/69/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c20917481]: Textual amendment: S. 288C(9) inserted (1.12.2010) by [The Sexual Offences (Scotland) Act 2009 (Supplemental and Consequential Provisions) Order 2010 (S.S.I. 2010/421)](https://www.legislation.gov.uk/ssi/2010/421), [art. 2](https://www.legislation.gov.uk/ssi/2010/421/article/2), [Sch. para. 1(4)(b)](https://www.legislation.gov.uk/ssi/2010/421/schedule/paragraph/1/4/b)

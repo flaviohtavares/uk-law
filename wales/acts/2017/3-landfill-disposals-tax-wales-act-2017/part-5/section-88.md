@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Adjustment of contracts[^key-c666a640150fc68b1a8aea3fde6ace0f]
+## 88. Adjustment of contracts[^c-c666a640150fc68b1a8aea3fde6ace0f]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ the amount of the payment provided for under the contract is to be adjusted, unl
 
 ## Annotations
 
-[^key-c666a640150fc68b1a8aea3fde6ace0f]: Commencement: [S. 88](https://www.legislation.gov.uk/anaw/2017/3/section/88) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-c666a640150fc68b1a8aea3fde6ace0f]: Commencement: [S. 88](https://www.legislation.gov.uk/anaw/2017/3/section/88) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

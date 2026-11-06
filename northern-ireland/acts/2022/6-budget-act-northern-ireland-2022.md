@@ -36,7 +36,7 @@ An Act to authorise the issue out of the Consolidated Fund of certain sums for t
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Issue of sum out of the Consolidated Fund for the year ending 31 March 2022 and appropriation of that sum[^key-3cc23be2c1a3be55b9170c34e62f5ed7]
+## 1. Issue of sum out of the Consolidated Fund for the year ending 31 March 2022 and appropriation of that sum[^c-3cc23be2c1a3be55b9170c34e62f5ed7]
 
 (1) The Department of Finance may issue out of the Consolidated Fund and apply to the service of the year ending 31 March 2022 the sum of £21,827,567,000.
 
@@ -44,7 +44,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) The authorisation and appropriations in this section supersede those made by section 4 of the Budget Act (Northern Ireland) 2021 and section 1 of the Budget (No. 2) Act (Northern Ireland) 2021; and, in relation to any amount specified in column 2 of Schedule 1, any increase or decrease in the amount appropriated is given in brackets after the amount.
 
-## 2. Use of resources (other than accruing resources) in the year ending 31 March 2022[^key-100c443f6d4dafff6e1329660fefea73]
+## 2. Use of resources (other than accruing resources) in the year ending 31 March 2022[^c-100c443f6d4dafff6e1329660fefea73]
 
 (1) For the purposes of section 6(1) of the 2001 Act, this section authorises the use of resources in the year ending 31 March 2022 by the persons mentioned in subsection (3) to the amount of £24,645,707,000.
 
@@ -64,7 +64,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) In this section, “**resources**” does not include accruing resources within the meaning of section 8(1) of the 2001 Act.
 
-## 3. Revised limits on use of certain accruing resources in the year ending 31 March 2022[^key-d0d21d20a62e470d431c5527e1bde809]
+## 3. Revised limits on use of certain accruing resources in the year ending 31 March 2022[^c-d0d21d20a62e470d431c5527e1bde809]
 
 (1) For the purposes of section 8(1) of the 2001 Act, this section sets the relevant limits on the accruing resources that may be directed to be used for certain purposes in the year ending 31 March 2022 in addition to resources authorised by this Act or any other statutory provision to be used for those purposes in that year.
 
@@ -72,31 +72,31 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) The limits set by this section supersede those set by section 4 of the Budget (No. 2) Act (Northern Ireland) 2021; and, in relation to any amount specified in column 3 of Schedule 2 any increase or decrease by virtue of this section in the amount of the limit is given in brackets after the amount.
 
-## 4. Issue of sum out of the Consolidated Fund for the year ending 31 March 2023 and appropriation of that sum[^key-a98d0a0d0861c1e11163de9e3000d521]
+## 4. Issue of sum out of the Consolidated Fund for the year ending 31 March 2023 and appropriation of that sum[^c-a98d0a0d0861c1e11163de9e3000d521]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Power of the Department of Finance to borrow[^key-a98d0a0d0861c1e11163de9e3000d521]
+## 5. Power of the Department of Finance to borrow[^c-a98d0a0d0861c1e11163de9e3000d521]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Use of resources (other than accruing resources) in the year ending 31 March 2023[^key-a98d0a0d0861c1e11163de9e3000d521]
+## 6. Use of resources (other than accruing resources) in the year ending 31 March 2023[^c-a98d0a0d0861c1e11163de9e3000d521]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Interpretation[^key-6448e8a2a28fbbf1400b91125b101f81]
+## 7. Interpretation[^c-6448e8a2a28fbbf1400b91125b101f81]
 
 In this Act, “**the 2001 Act**” means the Government Resources and Accounts Act (Northern Ireland) 2001.
 
-## 8. Short title[^key-5df2f5e70e737ba62cf9daa80a8486c0]
+## 8. Short title[^c-5df2f5e70e737ba62cf9daa80a8486c0]
 
 This Act may be cited as the Budget Act (Northern Ireland) 2022.
 
 SCHEDULES
 
-## SCHEDULE 1 — Sums granted for the year ending 31 March 2022[^key-035f94b2c6f7ba988ff771dc023cb045]
+## SCHEDULE 1 — Sums granted for the year ending 31 March 2022[^c-035f94b2c6f7ba988ff771dc023cb045]
 
 Section 1
 
@@ -150,7 +150,7 @@ Section 1
 | For expenditure by the Public Prosecution Service for Northern Ireland on the prosecution of offences; legal services; employment of independent counsel; court costs and costs awarded; payments and services to other departments and public sector bodies; trainee grants; payments under the Asset Recovery Incentivisation Scheme; staffing; expenditure on activities that are required as a result of the United Kingdom’s exit from the European Union; administration costs; Governmental response to the coronavirus COVID-19 pandemic; settlement of holiday pay claims; settlement of other claims; severance payments; other related services. | 39,138,000<br>(+2,303,000) |
 | TOTAL | 21,827,567,000 |
 
-## SCHEDULE 2 — Amounts of resources authorised for use and amounts of accruing resources which may be used in the year ending 31 March 2022[^key-eb82087ab999ec29373a30c038e902f4]
+## SCHEDULE 2 — Amounts of resources authorised for use and amounts of accruing resources which may be used in the year ending 31 March 2022[^c-eb82087ab999ec29373a30c038e902f4]
 
 Sections 2 and 3
 
@@ -204,7 +204,7 @@ Sections 2 and 3
 | A. For use by the Public Prosecution Service for Northern Ireland on the prosecution of offences; legal services; employment of independent counsel; court costs and costs awarded; payments and services to other departments and public sector bodies; trainee grants; payments under the Asset Recovery Incentivisation Scheme; staffing; expenditure on activities that are required as a result of the United Kingdom’s exit from the European Union; administration costs; Governmental response to the coronavirus COVID-19 pandemic; settlement of holiday pay claims; settlement of other claims; severance payments; other related services; associated non-cash items. | 40,438,000<br>(+1,613,000) | 401,000<br>(+320,000) |
 | TOTAL | 24,645,707,000 | 3,176,162,000 |
 
-## SCHEDULE 3 — Sums granted for the year ending 31 March 2023[^key-1a9d49d6c641b78056700f6aae9c0c52]
+## SCHEDULE 3 — Sums granted for the year ending 31 March 2023[^c-1a9d49d6c641b78056700f6aae9c0c52]
 
 **No longer in force.**
 
@@ -212,7 +212,7 @@ Section 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Amounts of resources authorised for use in the year ending 31 March 2023[^key-d090db506c9957205f2dad0e1eed9b2d]
+## SCHEDULE 4 — Amounts of resources authorised for use in the year ending 31 March 2023[^c-d090db506c9957205f2dad0e1eed9b2d]
 
 **No longer in force.**
 
@@ -222,22 +222,22 @@ Section 6.
 
 ## Annotations
 
-[^key-3cc23be2c1a3be55b9170c34e62f5ed7]: Commencement: S. 1 in operation at Royal Assent
+[^c-3cc23be2c1a3be55b9170c34e62f5ed7]: Commencement: S. 1 in operation at Royal Assent
 
-[^key-100c443f6d4dafff6e1329660fefea73]: Commencement: S. 2 in operation at Royal Assent
+[^c-100c443f6d4dafff6e1329660fefea73]: Commencement: S. 2 in operation at Royal Assent
 
-[^key-d0d21d20a62e470d431c5527e1bde809]: Commencement: S. 3 in operation at Royal Assent
+[^c-d0d21d20a62e470d431c5527e1bde809]: Commencement: S. 3 in operation at Royal Assent
 
-[^key-a98d0a0d0861c1e11163de9e3000d521]: Textual amendment: [Ss. 4-6](https://www.legislation.gov.uk/nia/2022/6/section/4) omitted (8.2.2023) by virtue of [Northern Ireland Budget Act 2023 (c. 3)](https://www.legislation.gov.uk/ukpga/2023/3), [s. 14](https://www.legislation.gov.uk/ukpga/2023/3/section/14)
+[^c-a98d0a0d0861c1e11163de9e3000d521]: Textual amendment: [Ss. 4-6](https://www.legislation.gov.uk/nia/2022/6/section/4) omitted (8.2.2023) by virtue of [Northern Ireland Budget Act 2023 (c. 3)](https://www.legislation.gov.uk/ukpga/2023/3), [s. 14](https://www.legislation.gov.uk/ukpga/2023/3/section/14)
 
-[^key-6448e8a2a28fbbf1400b91125b101f81]: Commencement: S. 7 in operation at Royal Assent
+[^c-6448e8a2a28fbbf1400b91125b101f81]: Commencement: S. 7 in operation at Royal Assent
 
-[^key-5df2f5e70e737ba62cf9daa80a8486c0]: Commencement: S. 8 in operation at Royal Assent
+[^c-5df2f5e70e737ba62cf9daa80a8486c0]: Commencement: S. 8 in operation at Royal Assent
 
-[^key-035f94b2c6f7ba988ff771dc023cb045]: Commencement: Sch. 1 in operation at Royal Assent
+[^c-035f94b2c6f7ba988ff771dc023cb045]: Commencement: Sch. 1 in operation at Royal Assent
 
-[^key-eb82087ab999ec29373a30c038e902f4]: Commencement: Sch. 2 in operation at Royal Assent
+[^c-eb82087ab999ec29373a30c038e902f4]: Commencement: Sch. 2 in operation at Royal Assent
 
-[^key-1a9d49d6c641b78056700f6aae9c0c52]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nia/2022/6/schedule/3) omitted (8.2.2023) by virtue of [Northern Ireland Budget Act 2023 (c. 3)](https://www.legislation.gov.uk/ukpga/2023/3), [s. 14](https://www.legislation.gov.uk/ukpga/2023/3/section/14)
+[^c-1a9d49d6c641b78056700f6aae9c0c52]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nia/2022/6/schedule/3) omitted (8.2.2023) by virtue of [Northern Ireland Budget Act 2023 (c. 3)](https://www.legislation.gov.uk/ukpga/2023/3), [s. 14](https://www.legislation.gov.uk/ukpga/2023/3/section/14)
 
-[^key-d090db506c9957205f2dad0e1eed9b2d]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nia/2022/6/schedule/4) omitted (8.2.2023) by virtue of [Northern Ireland Budget Act 2023 (c. 3)](https://www.legislation.gov.uk/ukpga/2023/3), [s. 14](https://www.legislation.gov.uk/ukpga/2023/3/section/14)
+[^c-d090db506c9957205f2dad0e1eed9b2d]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nia/2022/6/schedule/4) omitted (8.2.2023) by virtue of [Northern Ireland Budget Act 2023 (c. 3)](https://www.legislation.gov.uk/ukpga/2023/3), [s. 14](https://www.legislation.gov.uk/ukpga/2023/3/section/14)

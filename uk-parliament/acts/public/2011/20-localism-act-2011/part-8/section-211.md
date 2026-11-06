@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Adoption of private streets[^key-3375e98e1835a6eefd480721b74ed6ec]
+## 211. Adoption of private streets[^c-3375e98e1835a6eefd480721b74ed6ec]
 
 *Extent: E+W*
 
-[^key-eada4f88f4769f792731d2fc31c590a2][^key-250b381cc6b3a829195738e959b9cac8]
+[^c-eada4f88f4769f792731d2fc31c590a2][^c-250b381cc6b3a829195738e959b9cac8]
 
 (1) Where any street works have been executed on any land in a Mayoral development area which was then or has since become a private street (or part of a private street), the MDC for the area may serve a notice (an “adoption notice”) on the street works authority requiring the authority to declare the private street (or part) to be a highway which for the purposes of the Highways Act 1980 is a highway maintainable at the public expense.
 
@@ -30,8 +30,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3375e98e1835a6eefd480721b74ed6ec]: Modification: Pt. 8 Ch. 2 applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1432/schedule/3)
+[^c-3375e98e1835a6eefd480721b74ed6ec]: Modification: Pt. 8 Ch. 2 applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/11/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1432/schedule/3)
 
-[^key-eada4f88f4769f792731d2fc31c590a2]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(1)](https://www.legislation.gov.uk/uksi/2024/402/article/40/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-eada4f88f4769f792731d2fc31c590a2]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(1)](https://www.legislation.gov.uk/uksi/2024/402/article/40/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
-[^key-250b381cc6b3a829195738e959b9cac8]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(2)](https://www.legislation.gov.uk/uksi/2024/402/article/40/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-250b381cc6b3a829195738e959b9cac8]: Modification: Pt. 8 Ch. 2 applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [40(2)](https://www.legislation.gov.uk/uksi/2024/402/article/40/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2024/402/schedule/6) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))

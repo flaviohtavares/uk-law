@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Order in which applications are to be dealt with[^key-ccda4f64b2ed51083aecb29ca68870a7]
+## 39. Order in which applications are to be dealt with[^c-ccda4f64b2ed51083aecb29ca68870a7]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccda4f64b2ed51083aecb29ca68870a7]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2012/5/section/39) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-ccda4f64b2ed51083aecb29ca68870a7]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2012/5/section/39) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

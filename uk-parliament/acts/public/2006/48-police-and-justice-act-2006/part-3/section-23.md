@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Parenting contracts: local authorities and registered social landlords[^key-310b9d1fa54f948169dfdd505fcda235]
+## 23. Parenting contracts: local authorities and registered social landlords[^c-310b9d1fa54f948169dfdd505fcda235]
 
 *Extent: E+W*
 
@@ -107,4 +107,4 @@ summary: ''
 
 ## Annotations
 
-[^key-310b9d1fa54f948169dfdd505fcda235]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2006/48/section/23) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)
+[^c-310b9d1fa54f948169dfdd505fcda235]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2006/48/section/23) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)

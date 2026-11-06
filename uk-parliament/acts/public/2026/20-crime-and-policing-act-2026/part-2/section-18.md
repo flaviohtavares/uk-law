@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Duty to notify changes in required information[^key-bb3b8e86ec23ff590915eefeed94d1a9]
+## 18. Duty to notify changes in required information[^c-bb3b8e86ec23ff590915eefeed94d1a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb3b8e86ec23ff590915eefeed94d1a9]: Commencement: S. 18 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-bb3b8e86ec23ff590915eefeed94d1a9]: Commencement: S. 18 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

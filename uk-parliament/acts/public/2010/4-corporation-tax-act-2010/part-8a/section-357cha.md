@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357CHA. Shortfall in qualifying expenditure[^key-56f8e06b08f7151872db1e5c3153b5e7][^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357CHA. Shortfall in qualifying expenditure[^c-56f8e06b08f7151872db1e5c3153b5e7][^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,6 +88,6 @@ the additional amount is to be added to the actual qualifying expenditure for th
 
 ## Annotations
 
-[^key-56f8e06b08f7151872db1e5c3153b5e7]: Textual amendment: S. 357CHA inserted (with effect in accordance with Sch. 18 para. 23 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 18 paras. 19](https://www.legislation.gov.uk/ukpga/2013/29/schedule/18/paragraph/19), [22](https://www.legislation.gov.uk/ukpga/2013/29/schedule/18/paragraph/22); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2); S.I. 2014/1962, art. 2(3)
+[^c-56f8e06b08f7151872db1e5c3153b5e7]: Textual amendment: S. 357CHA inserted (with effect in accordance with Sch. 18 para. 23 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 18 paras. 19](https://www.legislation.gov.uk/ukpga/2013/29/schedule/18/paragraph/19), [22](https://www.legislation.gov.uk/ukpga/2013/29/schedule/18/paragraph/22); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2); S.I. 2014/1962, art. 2(3)
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)

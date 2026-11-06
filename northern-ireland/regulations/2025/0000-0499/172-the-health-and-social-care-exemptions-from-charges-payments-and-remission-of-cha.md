@@ -44,7 +44,7 @@ The Department of Health[^f00001] makes the following Regulations in exercise of
 
 In accordance with Article 62(3) of that Order it has consulted with such organisations as appear to it to be representative of medical practitioners practising as ophthalmic medical practitioners and ophthalmic opticians.
 
-## 1. Citation, commencement and interpretation[^key-37adce8a6379d6c3c602ed097d63bb84]
+## 1. Citation, commencement and interpretation[^c-37adce8a6379d6c3c602ed097d63bb84]
 
 (1) These Regulations may be cited as the Health and Social Care (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations (Northern Ireland) 2025 and shall come into operation on 1<sup>st</sup> December 2025.
 
@@ -60,7 +60,7 @@ In accordance with Article 62(3) of that Order it has consulted with such organi
 - “**the Travelling Expenses Regulations**” means the Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 2004[^f00008]; and
 - “**voucher**” has the meaning given in regulation 1(2) of the Optical Charges and Payments Regulations (Northern Ireland) 1997.
 
-## 2. Amendment of the Optical Charges Regulations[^key-b811d2cac5e24e8fd490235e49f8bda2]
+## 2. Amendment of the Optical Charges Regulations[^c-b811d2cac5e24e8fd490235e49f8bda2]
 
 (1) The Optical Charges Regulations are amended in accordance with this regulation.
 
@@ -115,7 +115,7 @@ In accordance with Article 62(3) of that Order it has consulted with such organi
   > - “**single person**” is to be construed in accordance with Article 6(2)(a) of the Welfare (Northern Ireland) Order 2015 (Universal credit); and
   > - “**universal credit**” means universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015 (Universal credit).
 
-## 3. Amendment of the Travelling Expenses Regulations[^key-ddfbd94a6f245cdca86f2865bc60d468]
+## 3. Amendment of the Travelling Expenses Regulations[^c-ddfbd94a6f245cdca86f2865bc60d468]
 
 (1) The Travelling Expenses Regulations are amended in accordance with this regulation.
 
@@ -188,7 +188,7 @@ In accordance with Article 62(3) of that Order it has consulted with such organi
 
 (4) In regulation 12 (Reimbursement of payments made in respect of HS travel expenses), omit “or (2) or a repayment under regulation 11(1)(a)”.
 
-## 4. Amendment of the Ophthalmic Regulations[^key-36b881a10ea5d6b25b32ce61d932ba48]
+## 4. Amendment of the Ophthalmic Regulations[^c-36b881a10ea5d6b25b32ce61d932ba48]
 
 (1) The Ophthalmic Regulations are amended in accordance with this regulation.
 
@@ -237,7 +237,7 @@ In accordance with Article 62(3) of that Order it has consulted with such organi
 
   .
 
-## 5. Transitional provision relating to the amendment of the Optical Charges Regulations[^key-a535157d6eda7f339a2814a25d661079]
+## 5. Transitional provision relating to the amendment of the Optical Charges Regulations[^c-a535157d6eda7f339a2814a25d661079]
 
 (1) This paragraph applies where a cost is incurred by a person in respect of the supply, replacement or repair of an optical appliance[^f00028] before 1 December 2025 and—
 
@@ -253,7 +253,7 @@ In accordance with Article 62(3) of that Order it has consulted with such organi
 
 (4) Where paragraph (3) applies such a voucher must be processed in accordance with the provisions of the Optical Charges Regulations as if the amendments made by regulation 2 had not come into operation.
 
-## 6. Transitional provision relating to the amendment of the Travelling Expenses Regulations[^key-ba78eebb994b2b56cdb2ce8158524ebb]
+## 6. Transitional provision relating to the amendment of the Travelling Expenses Regulations[^c-ba78eebb994b2b56cdb2ce8158524ebb]
 
 (1) This regulation applies where HS travel expenses are incurred or a HS charge is paid before 1 December 2025 and—
 
@@ -262,7 +262,7 @@ In accordance with Article 62(3) of that Order it has consulted with such organi
 
 (2) Where this regulation applies, regulation 5 of the Travelling Expenses Regulations continues to have effect as if the amendment made by regulation 3 had not come into operation.
 
-## 7. Transitional provision relating to the amendment of the Ophthalmic Regulations[^key-da3cbebd1f33e51730bd7566370cbc1c]
+## 7. Transitional provision relating to the amendment of the Ophthalmic Regulations[^c-da3cbebd1f33e51730bd7566370cbc1c]
 
 (1) This regulation applies where, before 1 December 2025, a cost is incurred by a person in respect of a sight test by an ophthalmic medical practitioner or optician without a voucher being completed, and—
 
@@ -304,7 +304,7 @@ Regulations 5 to 7 make transitional provision to ensure that persons whose enti
 
 [^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); relevant amending Instruments are Article 13 of [S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907); Article 3 of, and Schedule 1 to [S.I. 1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158); Article 14 of [S.I. 1988/594 (N.I. 2)](https://www.legislation.gov.uk/nisi/1988/594); Article 8 of [S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249); Articles 34 and 35 of, and Schedules 5 and 6 to [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194); Article 41(4) of [2001 c.3 (NI)](https://www.legislation.gov.uk/nia/2001/3); [S.R. 1999 No. 11](https://www.legislation.gov.uk/nisr/1999/11) and [S.R. 2004 No. 259](https://www.legislation.gov.uk/nisr/2004/259)
 
-[^key-37adce8a6379d6c3c602ed097d63bb84]: Commencement: Reg. 1 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
+[^c-37adce8a6379d6c3c602ed097d63bb84]: Commencement: Reg. 1 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 2004 No. 91](https://www.legislation.gov.uk/nisr/2004/91)
 
@@ -318,7 +318,7 @@ Regulations 5 to 7 make transitional provision to ensure that persons whose enti
 
 [^f00008]: Footnote: [S.R. 2004 No. 91](https://www.legislation.gov.uk/nisr/2004/91); relevant amending Regulations are S.R 2005 Nos. [107](https://www.legislation.gov.uk/nisr/2005/107) and [386](https://www.legislation.gov.uk/nisr/2005/386); S.R. 2006 Nos. [136](https://www.legislation.gov.uk/nisr/2006/136) and [190](https://www.legislation.gov.uk/nisr/2006/190); [S.R. 2005 No. 71](https://www.legislation.gov.uk/nisr/2005/71); [S.R. 2008 No. 391](https://www.legislation.gov.uk/nisr/2008/391) and S.R. 2009 Nos. [52](https://www.legislation.gov.uk/nisr/2009/52) and [151](https://www.legislation.gov.uk/nisr/2009/151)
 
-[^key-b811d2cac5e24e8fd490235e49f8bda2]: Commencement: Reg. 2 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
+[^c-b811d2cac5e24e8fd490235e49f8bda2]: Commencement: Reg. 2 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
 
 [^f00009]: Footnote: Sub-paragraphs (n) and (o) were inserted by regulation 2(3) of [S.R. 2008 No. 423](https://www.legislation.gov.uk/nisr/2008/423)
 
@@ -342,7 +342,7 @@ Regulations 5 to 7 make transitional provision to ensure that persons whose enti
 
 [^f00019]: Footnote: Reg 28 was substituted by reg 2 of, and saved by para 1 of Sch 2 to, the Universal Credit (Miscellaneous Amendments and Transitional and Savings Provisions) Regulations (Northern Ireland) 2017 ([S.R. 2017 No.146](https://www.legislation.gov.uk/nisr/2017/146))
 
-[^key-ddfbd94a6f245cdca86f2865bc60d468]: Commencement: Reg. 3 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
+[^c-ddfbd94a6f245cdca86f2865bc60d468]: Commencement: Reg. 3 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
 
 [^f00020]: Footnote: Definition inserted by regulation 2(3) of [S.R. 2005 No. 107](https://www.legislation.gov.uk/nisr/2005/107)
 
@@ -354,7 +354,7 @@ Regulations 5 to 7 make transitional provision to ensure that persons whose enti
 
 [^f00024]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
 
-[^key-36b881a10ea5d6b25b32ce61d932ba48]: Commencement: Reg. 4 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
+[^c-36b881a10ea5d6b25b32ce61d932ba48]: Commencement: Reg. 4 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
 
 [^f00025]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
@@ -362,10 +362,10 @@ Regulations 5 to 7 make transitional provision to ensure that persons whose enti
 
 [^f00027]: Footnote: Reg 28 was substituted by reg 2 of, and saved by para 1 of Sch 2 to, the Universal Credit (Miscellaneous Amendments and Transitional and Savings Provisions) Regulations (Northern Ireland) 2017 ([S.R. 2017 No. 146](https://www.legislation.gov.uk/nisr/2017/146))
 
-[^key-a535157d6eda7f339a2814a25d661079]: Commencement: Reg. 5 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
+[^c-a535157d6eda7f339a2814a25d661079]: Commencement: Reg. 5 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
 
 [^f00028]: Footnote: Optical appliance is defined in section 36(1) of the Opticians Act 1989
 
-[^key-ba78eebb994b2b56cdb2ce8158524ebb]: Commencement: Reg. 6 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
+[^c-ba78eebb994b2b56cdb2ce8158524ebb]: Commencement: Reg. 6 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
 
-[^key-da3cbebd1f33e51730bd7566370cbc1c]: Commencement: Reg. 7 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)
+[^c-da3cbebd1f33e51730bd7566370cbc1c]: Commencement: Reg. 7 in operation at 1.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/172/regulation/1/1)

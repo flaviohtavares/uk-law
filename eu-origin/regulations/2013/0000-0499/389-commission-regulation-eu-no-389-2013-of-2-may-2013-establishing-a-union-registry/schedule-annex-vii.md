@@ -16,26 +16,26 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX VII — Information to be provided for opening an aircraft operator holding account (Article 17)[^key-7fab6f804de2951eb7d43a8a33673a6e]
+## ANNEX VII — Information to be provided for opening an aircraft operator holding account (Article 17)[^c-7fab6f804de2951eb7d43a8a33673a6e]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-7fab6f804de2951eb7d43a8a33673a6e]1.
+[^c-7fab6f804de2951eb7d43a8a33673a6e]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fab6f804de2951eb7d43a8a33673a6e]2.
+[^c-7fab6f804de2951eb7d43a8a33673a6e]2.
 
 Under the data provided in accordance with Table III-I, the aircraft operator shall be named as the account holder. The name recorded for the account holder shall be identical to the name in the Monitoring Plan. In case the name in the Monitoring Plan is obsolete, the name in the trading registry or the name used by Eurocontrol shall be used.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fab6f804de2951eb7d43a8a33673a6e]3.
+[^c-7fab6f804de2951eb7d43a8a33673a6e]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7fab6f804de2951eb7d43a8a33673a6e]: Textual amendment: Annexes 5-7 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/5)
+[^c-7fab6f804de2951eb7d43a8a33673a6e]: Textual amendment: Annexes 5-7 omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/5)

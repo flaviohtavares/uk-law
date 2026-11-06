@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.10. Adjournment of hearing; directions[^key-349f144d0904911a6e51cf36b6a5c35a]
+## 7.10. Adjournment of hearing; directions[^c-349f144d0904911a6e51cf36b6a5c35a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-349f144d0904911a6e51cf36b6a5c35a]: Commencement: [Rule 7.10](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.10) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-349f144d0904911a6e51cf36b6a5c35a]: Commencement: [Rule 7.10](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.10) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3401a6e8549164bd859f70842f094c8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3401a6e8549164bd859f70842f094c8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-3401a6e8549164bd859f70842f094c8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3401a6e8549164bd859f70842f094c8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Schedule 19 (which makes amendments relating to venture capital trusts) has effect.
 
 ## Annotations
 
-[^key-3401a6e8549164bd859f70842f094c8b]: Textual amendment: S. 94(1)(2) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-3401a6e8549164bd859f70842f094c8b]: Textual amendment: S. 94(1)(2) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

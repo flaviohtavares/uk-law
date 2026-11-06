@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 13 — DOCUMENTS AND PLANS TO BE CERTIFIED[^key-9f1ed4365bb3fb7347e7e6a17824a913]
+## SCHEDULE 13 — DOCUMENTS AND PLANS TO BE CERTIFIED[^c-9f1ed4365bb3fb7347e7e6a17824a913]
 
 *Extent: E+W+S*
 
@@ -33,8 +33,8 @@ Table 10
 | combined heat and power embedded design measures | 14.7 (Appendix A) | 1 | June 2023 |
 | combined heat and power assessment | 7.6 | 1 | June 2022 |
 | design and access statement | 7.5 | 1 | June 2022 |
-| environmental statement | 6.1, 6.2 | 2[^key-9cac966f9f7c13660da062329228ddbf] | June 2023 |
-| environmental statement figures | 6.3 | 2 | May 2023[^key-f89a822a4430fa86d583ae3946711275] |
+| environmental statement | 6.1, 6.2 | 2[^c-9cac966f9f7c13660da062329228ddbf] | June 2023 |
+| environmental statement figures | 6.3 | 2 | May 2023[^c-f89a822a4430fa86d583ae3946711275] |
 | environmental statement appendices | 6.4 | 2 | March 2023 |
 | flood risk assessment | 6.4 (ES Appendix 12A) | 1 | June 2022 |
 | land plans | 2.2 | 5 | August 2023 |
@@ -59,8 +59,8 @@ Table 10
 
 ## Annotations
 
-[^key-9f1ed4365bb3fb7347e7e6a17824a913]: Commencement: Sch. 13 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-9f1ed4365bb3fb7347e7e6a17824a913]: Commencement: Sch. 13 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-9cac966f9f7c13660da062329228ddbf]: Textual amendment: Words in [Sch. 13](https://www.legislation.gov.uk/uksi/2024/230/schedule/13) Table 10 substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-9cac966f9f7c13660da062329228ddbf]: Textual amendment: Words in [Sch. 13](https://www.legislation.gov.uk/uksi/2024/230/schedule/13) Table 10 substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-f89a822a4430fa86d583ae3946711275]: Textual amendment: Word in [Sch. 13](https://www.legislation.gov.uk/uksi/2024/230/schedule/13) Table 10 substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-f89a822a4430fa86d583ae3946711275]: Textual amendment: Word in [Sch. 13](https://www.legislation.gov.uk/uksi/2024/230/schedule/13) Table 10 substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Heat network supply targets[^key-a64f2da6edff998ccc43111f67e75559]
+## 92. Heat network supply targets[^c-a64f2da6edff998ccc43111f67e75559]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) 2.6 terawatt hours of output by 2027,
 - (b) 6 terawatt hours of output by 2030,
-- (c)[^key-1c658f1921812faa4e7f2865d5f6a526] 7 terawatt hours of output by 2035.
+- (c)[^c-1c658f1921812faa4e7f2865d5f6a526] 7 terawatt hours of output by 2035.
 
 (2) The Scottish Ministers may by regulations modify subsection (1) so as to—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a64f2da6edff998ccc43111f67e75559]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2021/9/section/92) in force at 31.3.2023 by [S.S.I. 2023/77](https://www.legislation.gov.uk/ssi/2023/77), [reg. 2](https://www.legislation.gov.uk/ssi/2023/77/regulation/2)
+[^c-a64f2da6edff998ccc43111f67e75559]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2021/9/section/92) in force at 31.3.2023 by [S.S.I. 2023/77](https://www.legislation.gov.uk/ssi/2023/77), [reg. 2](https://www.legislation.gov.uk/ssi/2023/77/regulation/2)
 
-[^key-1c658f1921812faa4e7f2865d5f6a526]: Textual amendment: [S. 92(1)(c)](https://www.legislation.gov.uk/asp/2021/9/section/92/1/c) inserted (24.11.2023) by [The Heat Networks (Supply Targets) (Scotland) Regulations 2023 (S.S.I. 2023/358)](https://www.legislation.gov.uk/ssi/2023/358), [regs. 1](https://www.legislation.gov.uk/ssi/2023/358/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/358/regulation/2/2)
+[^c-1c658f1921812faa4e7f2865d5f6a526]: Textual amendment: [S. 92(1)(c)](https://www.legislation.gov.uk/asp/2021/9/section/92/1/c) inserted (24.11.2023) by [The Heat Networks (Supply Targets) (Scotland) Regulations 2023 (S.S.I. 2023/358)](https://www.legislation.gov.uk/ssi/2023/358), [regs. 1](https://www.legislation.gov.uk/ssi/2023/358/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/358/regulation/2/2)

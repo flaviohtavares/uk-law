@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40B. Libraries and educational establishments etc : making works available through dedicated terminals[^key-f95234c2454a3e5b74f3e5f647b3f6ef]
+## 40B. Libraries and educational establishments etc : making works available through dedicated terminals[^c-f95234c2454a3e5b74f3e5f647b3f6ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f95234c2454a3e5b74f3e5f647b3f6ef]: Textual amendment: S. 40B inserted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/5/1)
+[^c-f95234c2454a3e5b74f3e5f647b3f6ef]: Textual amendment: S. 40B inserted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/5/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Leases under which the consideration given mostly in first year[^key-63ce1cef0a22384f1bfffcfbc47aae01]
+## 19. Leases under which the consideration given mostly in first year[^c-63ce1cef0a22384f1bfffcfbc47aae01]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A lease is excluded from section 48 (credit arrangements) if, on the date on whi
 
 ## Annotations
 
-[^key-63ce1cef0a22384f1bfffcfbc47aae01]: Commencement: Reg. 19 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-63ce1cef0a22384f1bfffcfbc47aae01]: Commencement: Reg. 19 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

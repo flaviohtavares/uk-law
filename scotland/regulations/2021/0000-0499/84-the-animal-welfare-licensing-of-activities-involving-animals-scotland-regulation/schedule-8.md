@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-f4e0cafede369e327df8fe4aebda2650]
+### 1. Interpretation[^c-f4e0cafede369e327df8fe4aebda2650]
 
 In this schedule—
 
 - “adult rabbit” means a rabbit aged 3 months or more,
 - “nesting box” means a fully-enclosed indoor area in which a rabbit can rest and sleep.
 
-### 2. Advertisements and sales[^key-cd66dd695fd973a860dcf8d09ea5df9b]
+### 2. Advertisements and sales[^c-cd66dd695fd973a860dcf8d09ea5df9b]
 
 (1) No kit aged under 8 weeks may be—
 
@@ -46,11 +46,11 @@ In this schedule—
 - (a) include the number of the licence holder’s licence, and
 - (b) specify the local authority that issued the licence.
 
-### 3. Number of breeding female rabbits[^key-1e58d3a529dbe29915c9ba291e4f0b7e]
+### 3. Number of breeding female rabbits[^c-1e58d3a529dbe29915c9ba291e4f0b7e]
 
 The number of breeding female rabbits kept in relation to the licensable activity of breeding rabbits at any time on the premises specified in the licence and on which the licensable activity is carried on must not exceed the number specified by the local authority in the licence.
 
-### 4. Suitable environment[^key-b9324bfd9c48ab4189388ecae6ec60d1]
+### 4. Suitable environment[^c-b9324bfd9c48ab4189388ecae6ec60d1]
 
 (1) Each rabbit must have access to—
 
@@ -76,7 +76,7 @@ without touching another rabbit or the walls of the sleeping area.
 
 (6) In this paragraph, “exercise area” means a secure area where rabbits can hop, scratch, forage and stretch to their full height.
 
-### 5. Training and exercise[^key-549de470b2d2c7a7977e9b0ae69054fe]
+### 5. Training and exercise[^c-549de470b2d2c7a7977e9b0ae69054fe]
 
 (1) Opportunities to exercise which benefit the rabbits’ physical and mental health must be provided, unless advice from a veterinarian suggests otherwise.
 
@@ -87,7 +87,7 @@ without touching another rabbit or the walls of the sleeping area.
 
 (3) All rabbits must have at least daily opportunities to interact with people where such interaction benefits their welfare.
 
-### 6. Suitable diet[^key-afc14afa2f176454ec9998dd5a36e3e3]
+### 6. Suitable diet[^c-afc14afa2f176454ec9998dd5a36e3e3]
 
 (1) All adult rabbits must have continuous access to clean and safe drinking water.
 
@@ -95,7 +95,7 @@ without touching another rabbit or the walls of the sleeping area.
 
 (3) Each kit must be provided with feed appropriate for its stage of development.
 
-### 7. Protection from suffering, injury and disease[^key-eeaf0e55da1854c064d8715d88b6754d]
+### 7. Protection from suffering, injury and disease[^c-eeaf0e55da1854c064d8715d88b6754d]
 
 (1) All rabbits for sale must be in good health.
 
@@ -122,16 +122,16 @@ until it has recovered, ceased to require isolation or, where there is no need f
 
 ## Annotations
 
-[^key-f4e0cafede369e327df8fe4aebda2650]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-f4e0cafede369e327df8fe4aebda2650]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-cd66dd695fd973a860dcf8d09ea5df9b]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-cd66dd695fd973a860dcf8d09ea5df9b]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-1e58d3a529dbe29915c9ba291e4f0b7e]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-1e58d3a529dbe29915c9ba291e4f0b7e]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-b9324bfd9c48ab4189388ecae6ec60d1]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-b9324bfd9c48ab4189388ecae6ec60d1]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-549de470b2d2c7a7977e9b0ae69054fe]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-549de470b2d2c7a7977e9b0ae69054fe]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-afc14afa2f176454ec9998dd5a36e3e3]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-afc14afa2f176454ec9998dd5a36e3e3]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-eeaf0e55da1854c064d8715d88b6754d]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-eeaf0e55da1854c064d8715d88b6754d]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ssi/2021/84/schedule/8/paragraph/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

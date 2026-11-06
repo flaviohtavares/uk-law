@@ -39,7 +39,7 @@ Section 170A(1) and (2).
 **5.**[^c20267281] In this Schedule—
 
 - “the applicant” has the meaning given in paragraph 1;
-- “the court” means a court of summary jurisdiction [^key-78441374334e3fde732a36fe1bf8ef22]....
+- “the court” means a court of summary jurisdiction [^c-78441374334e3fde732a36fe1bf8ef22]....
 
 ## Annotations
 
@@ -61,4 +61,4 @@ Section 170A(1) and (2).
 
 [^c20267281]: Textual amendment: [1991 NI 13](https://www.legislation.gov.uk/nisi/1991)
 
-[^key-78441374334e3fde732a36fe1bf8ef22]: Textual amendment: Words in [Sch. 5A(5)](https://www.legislation.gov.uk/apni/1966/17/schedule/5A/5) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 58(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/58/5), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-78441374334e3fde732a36fe1bf8ef22]: Textual amendment: Words in [Sch. 5A(5)](https://www.legislation.gov.uk/apni/1966/17/schedule/5A/5) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 58(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/58/5), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

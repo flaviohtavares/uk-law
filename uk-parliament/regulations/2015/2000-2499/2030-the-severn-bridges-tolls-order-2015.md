@@ -31,7 +31,7 @@ summary: ''
 
 Highways, England
 
-The Severn Bridges Tolls Order 2015 (revoked)[^key-028eddf61f47d3b3825e652b08cdc57d]
+The Severn Bridges Tolls Order 2015 (revoked)[^c-028eddf61f47d3b3825e652b08cdc57d]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 1st January 2016
 
-[^key-028eddf61f47d3b3825e652b08cdc57d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-028eddf61f47d3b3825e652b08cdc57d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-028eddf61f47d3b3825e652b08cdc57d]
+## 1. Citation and commencement[^c-028eddf61f47d3b3825e652b08cdc57d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Level of tolls[^key-028eddf61f47d3b3825e652b08cdc57d]
+## 2. Level of tolls[^c-028eddf61f47d3b3825e652b08cdc57d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-028eddf61f47d3b3825e652b08cdc57d]
+## 3. Revocation[^c-028eddf61f47d3b3825e652b08cdc57d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-028eddf61f47d3b3825e652b08cdc57d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-028eddf61f47d3b3825e652b08cdc57d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-028eddf61f47d3b3825e652b08cdc57d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-028eddf61f47d3b3825e652b08cdc57d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-028eddf61f47d3b3825e652b08cdc57d]: Textual amendment: Order revoked (1.1.2017) by [The Severn Bridges Tolls Order 2016 (S.I. 2016/1204)](https://www.legislation.gov.uk/uksi/2016/1204), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1204/article/1), [3](https://www.legislation.gov.uk/uksi/2016/1204/article/3)
+[^c-028eddf61f47d3b3825e652b08cdc57d]: Textual amendment: Order revoked (1.1.2017) by [The Severn Bridges Tolls Order 2016 (S.I. 2016/1204)](https://www.legislation.gov.uk/uksi/2016/1204), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1204/article/1), [3](https://www.legislation.gov.uk/uksi/2016/1204/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 69. Bishop makes decision on imposition of penalty[^key-ebd69486d62dbff6e449512280b3c740]
+## 69. Bishop makes decision on imposition of penalty[^c-ebd69486d62dbff6e449512280b3c740]
 
 *Extent: E*
 
@@ -27,4 +27,4 @@ After expiry of the 28 days specified in rule 68 the bishop shall decide whether
 
 ## Annotations
 
-[^key-ebd69486d62dbff6e449512280b3c740]: Commencement: [Rule 69](https://www.legislation.gov.uk/uksi/2005/2022/rule/69) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-ebd69486d62dbff6e449512280b3c740]: Commencement: [Rule 69](https://www.legislation.gov.uk/uksi/2005/2022/rule/69) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

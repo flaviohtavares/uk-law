@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7.[^key-a9e66f4de1ded387766311e814bf0ca8]
+## 7.[^c-a9e66f4de1ded387766311e814bf0ca8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 504(1) (senior statutory auditor)—
 
 ## Annotations
 
-[^key-a9e66f4de1ded387766311e814bf0ca8]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-a9e66f4de1ded387766311e814bf0ca8]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Reports on international environmental protection legislation[^key-86be3dc29f2092d171fbe6b7d79c61b8][^key-3e3a696dabc977b91eda8cd562effc10]
+## 21. Reports on international environmental protection legislation[^c-86be3dc29f2092d171fbe6b7d79c61b8][^c-3e3a696dabc977b91eda8cd562effc10]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ as the Secretary of State considers appropriate.
 
 ## Annotations
 
-[^key-86be3dc29f2092d171fbe6b7d79c61b8]: Commencement: S. 21 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-86be3dc29f2092d171fbe6b7d79c61b8]: Commencement: S. 21 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-3e3a696dabc977b91eda8cd562effc10]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/30/section/21) in force at 1.4.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 3](https://www.legislation.gov.uk/uksi/2022/48/regulation/3)
+[^c-3e3a696dabc977b91eda8cd562effc10]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/30/section/21) in force at 1.4.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 3](https://www.legislation.gov.uk/uksi/2022/48/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Repeal of provisions of Telecommunications Act 1984[^key-9adf310deaaf1a1aa3a0055632b82ebc][^key-5db03fa558cf74f5ae023be46cc5c0d9]
+## 147. Repeal of provisions of Telecommunications Act 1984[^c-9adf310deaaf1a1aa3a0055632b82ebc][^c-5db03fa558cf74f5ae023be46cc5c0d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ The following provisions of the Telecommunications Act 1984 (c. 12) shall cease 
 
 ## Annotations
 
-[^key-9adf310deaaf1a1aa3a0055632b82ebc]: Commencement: S. 147 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-9adf310deaaf1a1aa3a0055632b82ebc]: Commencement: S. 147 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-5db03fa558cf74f5ae023be46cc5c0d9]: Commencement: S. 147 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5db03fa558cf74f5ae023be46cc5c0d9]: Commencement: S. 147 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Obstruction of persons[^key-36d72c169f5f52c0ad0b5e05a78ea600]
+## 182. Obstruction of persons[^c-36d72c169f5f52c0ad0b5e05a78ea600]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not intentionally obstruct or impede any person acting in the exer
 
 ## Annotations
 
-[^key-36d72c169f5f52c0ad0b5e05a78ea600]: Commencement: [Art. 182](https://www.legislation.gov.uk/uksi/2013/2870/article/182) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-36d72c169f5f52c0ad0b5e05a78ea600]: Commencement: [Art. 182](https://www.legislation.gov.uk/uksi/2013/2870/article/182) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

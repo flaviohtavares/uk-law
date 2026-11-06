@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Obstructive witnesses[^key-a5003bdc55e0df05f80127fbf73d5ddc]
+## 11. Obstructive witnesses[^c-a5003bdc55e0df05f80127fbf73d5ddc]
 
 *Extent: S*
 
@@ -228,4 +228,4 @@ After section 90 (death or illness of jurors) of the 1995 Act insert—
 
 ## Annotations
 
-[^key-a5003bdc55e0df05f80127fbf73d5ddc]: Commencement: S. 11 in force at 1.2.2005 for specified purposes by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-a5003bdc55e0df05f80127fbf73d5ddc]: Commencement: S. 11 in force at 1.2.2005 for specified purposes by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

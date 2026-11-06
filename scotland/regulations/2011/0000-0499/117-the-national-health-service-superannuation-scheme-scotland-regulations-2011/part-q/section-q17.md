@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Q17. Revaluation of increases bought under options: members' pensions[^key-ad5e6d979e76f8dfedff43e3d84d67a2]
+## Q17. Revaluation of increases bought under options: members' pensions[^c-ad5e6d979e76f8dfedff43e3d84d67a2]
 
 *Extent: S*
 
@@ -66,7 +66,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ad5e6d979e76f8dfedff43e3d84d67a2]: Modification: Reg. Q17 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-ad5e6d979e76f8dfedff43e3d84d67a2]: Modification: Reg. Q17 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
 
 [^c21042131]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 

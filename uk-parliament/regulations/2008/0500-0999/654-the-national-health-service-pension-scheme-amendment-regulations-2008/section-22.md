@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Amendment of regulation G4[^key-02b605fb186cef76ac2c969651d083c7]
+## 22. Amendment of regulation G4[^c-02b605fb186cef76ac2c969651d083c7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ For paragraph (2) of regulation G4 (member dies with preserved pension) substitu
 
 ## Annotations
 
-[^key-02b605fb186cef76ac2c969651d083c7]: Commencement: Reg. 22 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-02b605fb186cef76ac2c969651d083c7]: Commencement: Reg. 22 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

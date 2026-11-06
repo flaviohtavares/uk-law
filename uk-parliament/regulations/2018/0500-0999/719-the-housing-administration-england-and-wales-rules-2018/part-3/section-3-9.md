@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.9. Statement of pre-administration costs[^key-d3b9da45c548a0cee745bc570773129e]
+## 3.9. Statement of pre-administration costs[^c-d3b9da45c548a0cee745bc570773129e]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ A statement of pre-administration costs under rule 3.8(10) must include—
 
 ## Annotations
 
-[^key-d3b9da45c548a0cee745bc570773129e]: Commencement: Rule 3.9 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-d3b9da45c548a0cee745bc570773129e]: Commencement: Rule 3.9 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

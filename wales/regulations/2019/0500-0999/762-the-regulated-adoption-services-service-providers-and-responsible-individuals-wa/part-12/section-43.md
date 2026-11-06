@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Oversight of adequate resources[^key-530e7945f7e166fe9644f088abea86c1]
+## 43. Oversight of adequate resources[^c-530e7945f7e166fe9644f088abea86c1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-530e7945f7e166fe9644f088abea86c1]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2019/762/regulation/43) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-530e7945f7e166fe9644f088abea86c1]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2019/762/regulation/43) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

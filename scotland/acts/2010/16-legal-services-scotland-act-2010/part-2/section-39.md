@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Surrender of authorisation[^key-e09f75c2859e202cfa0c0d4a8301a314]
+## 39. Surrender of authorisation[^c-e09f75c2859e202cfa0c0d4a8301a314]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e09f75c2859e202cfa0c0d4a8301a314]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/16/section/39) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-e09f75c2859e202cfa0c0d4a8301a314]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/16/section/39) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

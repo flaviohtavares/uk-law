@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Police and crime commissioner functions[^key-4c5217118ee65b005b795f3d8cc0b8b2]
+## 4. Police and crime commissioner functions[^c-4c5217118ee65b005b795f3d8cc0b8b2]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4c5217118ee65b005b795f3d8cc0b8b2]: Commencement: Art. 4 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
+[^c-4c5217118ee65b005b795f3d8cc0b8b2]: Commencement: Art. 4 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
 
 [^f00011]: Footnote: Section 50 was amended by section 8(1) to (4) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 

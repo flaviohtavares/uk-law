@@ -239,7 +239,7 @@ shall be guilty of an offence of cruelty within the meaning of this Part.
 
 [^c22499731]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Traps and snares.[^key-2497e088dcb30a40ed462775ab19b7ed]
+### 21. Traps and snares.[^c-2497e088dcb30a40ed462775ab19b7ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -404,7 +404,7 @@ Section 14(1)(a).
 
 [^c22499731]: Textual amendment: [S. 20](https://www.legislation.gov.uk/apni/1972/7/section/20) repealed (11.7.2011) by [Welfare of Animals Act (Northern Ireland) 2011 (c. 16)](https://www.legislation.gov.uk/nia/2011/16), [ss. 57(2)](https://www.legislation.gov.uk/nia/2011/16/section/57/2), [59](https://www.legislation.gov.uk/nia/2011/16/section/59), [Sch. 5](https://www.legislation.gov.uk/nia/2011/16/schedule/5) (with [ss. 1(2)](https://www.legislation.gov.uk/nia/2011/16/section/1/2), [52(1)](https://www.legislation.gov.uk/nia/2011/16/section/52/1), [53](https://www.legislation.gov.uk/nia/2011/16/section/53), [54](https://www.legislation.gov.uk/nia/2011/16/section/54)); [S.R. 2011/245](https://www.legislation.gov.uk/nisr/2011/245), [arts. 2](https://www.legislation.gov.uk/nisr/2011/245/article/2), [3](https://www.legislation.gov.uk/nisr/2011/245/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2011/245/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/245/schedule/2)
 
-[^key-2497e088dcb30a40ed462775ab19b7ed]: Textual amendment: [S. 21](https://www.legislation.gov.uk/apni/1972/7/section/21) repealed (12.3.2012) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [s. 40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2011/15/schedule/3/part/1); [S.R. 2012/21](https://www.legislation.gov.uk/nisr/2012/21), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/21/article/2/2/b)
+[^c-2497e088dcb30a40ed462775ab19b7ed]: Textual amendment: [S. 21](https://www.legislation.gov.uk/apni/1972/7/section/21) repealed (12.3.2012) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [s. 40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2011/15/schedule/3/part/1); [S.R. 2012/21](https://www.legislation.gov.uk/nisr/2012/21), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/21/article/2/2/b)
 
 [^c22499751]: Textual amendment: [S. 22](https://www.legislation.gov.uk/apni/1972/7/section/22) repealed (11.7.2011) by [Welfare of Animals Act (Northern Ireland) 2011 (c. 16)](https://www.legislation.gov.uk/nia/2011/16), [ss. 57(2)](https://www.legislation.gov.uk/nia/2011/16/section/57/2), [59](https://www.legislation.gov.uk/nia/2011/16/section/59), [Sch. 5](https://www.legislation.gov.uk/nia/2011/16/schedule/5) (with [ss. 1(2)](https://www.legislation.gov.uk/nia/2011/16/section/1/2), [52(1)](https://www.legislation.gov.uk/nia/2011/16/section/52/1), [53](https://www.legislation.gov.uk/nia/2011/16/section/53), [54](https://www.legislation.gov.uk/nia/2011/16/section/54)); [S.R. 2011/245](https://www.legislation.gov.uk/nisr/2011/245), [arts. 2](https://www.legislation.gov.uk/nisr/2011/245/article/2), [3](https://www.legislation.gov.uk/nisr/2011/245/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2011/245/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/245/schedule/2)
 

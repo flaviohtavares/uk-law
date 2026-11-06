@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65A. Time limit for proceedings[^key-900140704bc963cb86f063ffd2a8a86c]
+## 65A. Time limit for proceedings[^c-900140704bc963cb86f063ffd2a8a86c]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-900140704bc963cb86f063ffd2a8a86c]: Textual amendment: [S. 65A](https://www.legislation.gov.uk/asp/2002/13/section/65A) inserted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 5](https://www.legislation.gov.uk/asp/2013/2/section/5), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/136/article/3))
+[^c-900140704bc963cb86f063ffd2a8a86c]: Textual amendment: [S. 65A](https://www.legislation.gov.uk/asp/2002/13/section/65A) inserted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 5](https://www.legislation.gov.uk/asp/2013/2/section/5), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/136/article/3))

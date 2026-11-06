@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Restriction on buying controlled alcoholic products wholesale[^M_I_14502ab4-71f0-4857-fc1f-b281248d1a85][^key-73779420378539ccbf824a88346aaa81]
+## 103. Restriction on buying controlled alcoholic products wholesale[^M_I_14502ab4-71f0-4857-fc1f-b281248d1a85][^c-73779420378539ccbf824a88346aaa81]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^M_I_14502ab4-71f0-4857-fc1f-b281248d1a85]: Commencement: S. 103 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-73779420378539ccbf824a88346aaa81]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2023/30/section/103) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-73779420378539ccbf824a88346aaa81]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2023/30/section/103) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

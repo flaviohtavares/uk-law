@@ -45,7 +45,7 @@ Coming into force
 
 2nd January 2004
 
-The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to matters relating to water resources, in exercise of the powers conferred upon her by that section[^f00003], hereby makes the following Regulations:[^key-0c366eda940bbe655594a084861cb643]
+The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to matters relating to water resources, in exercise of the powers conferred upon her by that section[^f00003], hereby makes the following Regulations:[^c-0c366eda940bbe655594a084861cb643]
 
 ## 1. Title, commencement and extent
 
@@ -57,19 +57,19 @@ The Secretary of State, being a Minister designated[^f00001] for the purposes of
 
 In these Regulations—
 
-- “the Agency” means the Environment Agency;[^key-6bb4761d8c9dd70f902baf47d6dd7b25]
-- “the Directive” means[^key-c5aa79285b5934ff80054c970209f898] [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy[^f00006];
+- “the Agency” means the Environment Agency;[^c-6bb4761d8c9dd70f902baf47d6dd7b25]
+- “the Directive” means[^c-c5aa79285b5934ff80054c970209f898] [Directive 2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy[^f00006];
 - “the EQS Directive” means [Directive 2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council on environmental quality standards in the field of water policy[^f00007];
 - “the Groundwater Directive” means [Directive 2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration;
-- “the principal Regulations” means the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^key-e97517bbfb3928ac60dfa0b638d96063];
+- “the principal Regulations” means the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^c-e97517bbfb3928ac60dfa0b638d96063];
 - “the Northumbria River Basin District” means the area identified by regulation 3(1);
 - “relevant functions” means—
-  - (a) in relation to the Secretary of State and the Agency, functions under regulations[^key-c56b1e1a7072c3e0f33d604f480e5886] 5 to 36 of the principal Regulations and, so far as material, the enactments listed in Parts 1 and 2 of Schedule 2 to those Regulations (which relate to statutes and subordinate instruments respectively); and
+  - (a) in relation to the Secretary of State and the Agency, functions under regulations[^c-c56b1e1a7072c3e0f33d604f480e5886] 5 to 36 of the principal Regulations and, so far as material, the enactments listed in Parts 1 and 2 of Schedule 2 to those Regulations (which relate to statutes and subordinate instruments respectively); and
   - (b) in relation to the Scottish Ministers and the Scottish Environment Protection Agency, functions under Part 1 of the Scottish Act, as applied by regulation 6;
 - “the Scottish Act” means the Water Environment and Water Services (Scotland) Act 2003[^f00006]; and
 - “the Scottish Ministers” has the meaning given by section 127 of the Scotland Act 1998[^f00007].
 
-## 3. River basin districts[^key-de34a7a022b3e218849863c746727782]
+## 3. River basin districts[^c-de34a7a022b3e218849863c746727782]
 
 (1) The area shown on the official map is identified as a river basin district for the purposes of these Regulations and shall be known as the Northumbria River Basin District.
 
@@ -86,10 +86,10 @@ In these Regulations—
 
 (1) The Secretary of State, the Scottish Ministers, the Agency and the Scottish Environment Protection Agency must exercise their relevant functions so as to secure—
 
-- (a) that the requirements of the Directive and of the EQS Directive for the achievement of the[^key-2943b28115a9010ad4c6f0dcd5c36017] environmental objectives, and in particular the programme of measures, are co-ordinated for the whole of the Northumbria River Basin District; and
-- (b) compliance in relation to that district with the other requirements of the Directive, the EQS Directive and the Groundwater Directive[^key-fba73d17e20232a67288e5567999f14a].
+- (a) that the requirements of the Directive and of the EQS Directive for the achievement of the[^c-2943b28115a9010ad4c6f0dcd5c36017] environmental objectives, and in particular the programme of measures, are co-ordinated for the whole of the Northumbria River Basin District; and
+- (b) compliance in relation to that district with the other requirements of the Directive, the EQS Directive and the Groundwater Directive[^c-fba73d17e20232a67288e5567999f14a].
 
-(2)[^key-e6ff33798c32fb185b387de8bc6a7998] In this regulation—
+(2)[^c-e6ff33798c32fb185b387de8bc6a7998] In this regulation—
 
 - (a) “**environmental objectives**” means the objectives set under regulation 12, in accordance with regulation 13, of the principal Regulations (as applied by regulation 5 of these Regulations);
 - (b) “**programme of measures**” means the programme of measures established under regulation 12, in accordance with regulation 20, of the principal Regulations (as applied by regulation 5 of these Regulations);
@@ -97,29 +97,29 @@ In these Regulations—
 
 ## 5. Application of provisions of the principal Regulations to the Northumbria River Basin District
 
-(1)[^key-d97e9358e8dc264961ad767b9d25d09d] Subject to the modifications in paragraphs (2) to (5), the provisions of the principal Regulations[^f00009] set out in paragraph (1A) apply to the Northumbria River Basin District as they apply to river basin districts identified by regulation 4(1) of the principal Regulations.
+(1)[^c-d97e9358e8dc264961ad767b9d25d09d] Subject to the modifications in paragraphs (2) to (5), the provisions of the principal Regulations[^f00009] set out in paragraph (1A) apply to the Northumbria River Basin District as they apply to river basin districts identified by regulation 4(1) of the principal Regulations.
 
 (1A) The provisions of the principal Regulations referred to in paragraph (1) are—
 
-- (a) regulations 2, 5 to 22, 24 to 36, 38 and[^key-122fc57d7a6bbaa658057d9c16846db6] Schedules 1, 3 and 5[^key-0b0fffaf2e4a4c92ba26c8497bbd29b6], in relation to the whole of the Northumbria River Basin District;
-- (b)[^key-60104ed4d1372c1738e7e9efd2f04827] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) regulations 2, 5 to 22, 24 to 36, 38 and[^c-122fc57d7a6bbaa658057d9c16846db6] Schedules 1, 3 and 5[^c-0b0fffaf2e4a4c92ba26c8497bbd29b6], in relation to the whole of the Northumbria River Basin District;
+- (b)[^c-60104ed4d1372c1738e7e9efd2f04827] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Regulation 2 (interpretation) shall have effect as if—
 
 - (a) in paragraph (1), the definitions of “the appropriate authority”, “the appropriate agency” and “the NRBW” were omitted; and
-- (b) paragraph (2)[^key-999838ffba0c61d3b0f81d3886f60cff] were omitted.
+- (b) paragraph (2)[^c-999838ffba0c61d3b0f81d3886f60cff] were omitted.
 
 (2A) The principal Regulations shall have effect as if, for each reference to “the appropriate agency”, there were substituted a reference to “the Agency”.
 
 (2B) The principal Regulations shall have effect as if, for each reference to “the appropriate authority”, there were substituted a reference to “the Secretary of State”.
 
-(2C) Regulation 9[^key-a3724cea2c1986f2a5e31dd73b52d368] (designation of shellfish waters) shall have effect as if paragraph (8)[^key-7852322dd0851aa9327ca03103fdc093] were omitted.
+(2C) Regulation 9[^c-a3724cea2c1986f2a5e31dd73b52d368] (designation of shellfish waters) shall have effect as if paragraph (8)[^c-7852322dd0851aa9327ca03103fdc093] were omitted.
 
-(3) Regulation 29[^key-dc4d04373bacee4f28efc79dea3ced0c] (river basin management plans: public participation) shall have effect as if—
+(3) Regulation 29[^c-dc4d04373bacee4f28efc79dea3ced0c] (river basin management plans: public participation) shall have effect as if—
 
 - (a) after paragraph (2)(a) there were inserted—
 
-  > - (aa) send copies of the statement, summary or draft plan to the Scottish Environment Protection Agency which shall make them accessible to the public free of charge through its website, at its principal office [^key-afbc50e24935878c9fcd71c7ad57be8d]...;
+  > - (aa) send copies of the statement, summary or draft plan to the Scottish Environment Protection Agency which shall make them accessible to the public free of charge through its website, at its principal office [^c-afbc50e24935878c9fcd71c7ad57be8d]...;
 
   ;
 - (b) after paragraph (3)(a) “and” were omitted and there were inserted—
@@ -142,24 +142,24 @@ In these Regulations—
     ;
   - (iii) after sub-paragraph (f) there were inserted—
 
-    > - (ff) the River Tweed Commission[^key-0b8959c3f161f2a6f4ba1f4a753c42c9];
+    > - (ff) the River Tweed Commission[^c-0b8959c3f161f2a6f4ba1f4a753c42c9];
 
     ; and
-  - (iv)[^key-08c3b7e27e168ab4885735fdbdd9ae5b] after sub-paragraph (j) there were inserted—
+  - (iv)[^c-08c3b7e27e168ab4885735fdbdd9ae5b] after sub-paragraph (j) there were inserted—
 
     > - (ja) Scottish Water;
 - (d) for paragraph (5) there were substituted—
 
   > (5) In this regulation—
   >
-  > - (a) “appropriate nature conservation bodies” means the Joint Nature Conservation Committee, Natural England[^key-96fecf4184099018eb0d49a0756cb45f] and Scottish Natural Heritage;
+  > - (a) “appropriate nature conservation bodies” means the Joint Nature Conservation Committee, Natural England[^c-96fecf4184099018eb0d49a0756cb45f] and Scottish Natural Heritage;
   > - (b) “harbour” and “harbour authority” have the meanings given by section 57 of the Harbours Act 1964[^f00008];
-  > - (c)[^key-48fc49bc846479763c7c19f7a01ad319] “the River Tweed Commission” means the body constituted in accordance with article 5 of the Scotland Act 1998 (River Tweed) Order 2006[^f00010];
+  > - (c)[^c-48fc49bc846479763c7c19f7a01ad319] “the River Tweed Commission” means the body constituted in accordance with article 5 of the Scotland Act 1998 (River Tweed) Order 2006[^f00010];
   > - (d) “local authority” means, in relation to England, the council of any county, county borough or district and, in relation to Scotland, any council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00010];
   > - (e) “local fisheries committee” and “sea fisheries district” mean a local fisheries committee constituted, and a sea fisheries committee created, by an order under section 1 of the Sea Fisheries Regulation Act 1966[^f00011];
   > - (f) “local planning authority” has the meaning given by section 1 of the Town and Country Planning Act 1990[^f00012];
   > - (g) “navigation authority” has the meaning given by section 221(1) of the Water Resources Act 1991[^f00013];
-  > - (h)[^key-897f0b9693f7b84e531dd80d5f3f71ef] “the relevant date”, in relation to a plan, means—
+  > - (h)[^c-897f0b9693f7b84e531dd80d5f3f71ef] “the relevant date”, in relation to a plan, means—
   >   - (i) if a period of time has been directed under regulation 27(1)(a), the date on which that period begins, or
   >   - (ii) otherwise, the date by which the Secretary of State is next required under regulation 31(5) to publish an updated plan;
   > - (i) “responsible authority” has the meaning given by section 2(8) of the Water Environment and Water Services (Scotland) Act 2003; and
@@ -167,21 +167,21 @@ In these Regulations—
 
   .
 
-(4) Regulation 30[^key-9cd218261fb8d86c05159b826ec34b00] (river basin management plans: submission for approval) shall have effect as if after paragraph (1)(a) there were inserted—
+(4) Regulation 30[^c-9cd218261fb8d86c05159b826ec34b00] (river basin management plans: submission for approval) shall have effect as if after paragraph (1)(a) there were inserted—
 
-> - (aa) send a copy of the plan to the Scottish Environment Protection Agency which shall make it accessible to the public free of charge through its website, at its principal office [^key-595dc474f1ab4e221683d3c681900979]...;
-
-.
-
-(5) Regulation 31[^key-4c8ad75589c2b6b6615893911c6aeaa4] (river basin management plans: approval) shall have effect as if after sub-paragraph 4(a)[^key-d482d19e7e45467363bb4ace92314f86] “and” were omitted and there were inserted—
-
-> - (aa) send a copy of the approved plan to the Scottish Environment Protection Agency which shall make it accessible to the public free of charge through its website, at its principal office [^key-cec3cc99e39ab38b4e080bd2ee7e826f]...; and
+> - (aa) send a copy of the plan to the Scottish Environment Protection Agency which shall make it accessible to the public free of charge through its website, at its principal office [^c-595dc474f1ab4e221683d3c681900979]...;
 
 .
 
-(6)[^key-9fc651cf9e170b814da420bafe412a84] Regulation 33[^key-140d33063552751b0dc40b27fd46fdeb] (duty to have regard to plans) shall have effect as if “the Welsh Ministers,” and “, NRW[^key-e3ca720192a5d0423ffa5002e18788b2]” were omitted.
+(5) Regulation 31[^c-4c8ad75589c2b6b6615893911c6aeaa4] (river basin management plans: approval) shall have effect as if after sub-paragraph 4(a)[^c-d482d19e7e45467363bb4ace92314f86] “and” were omitted and there were inserted—
 
-(7)[^key-152a9a1dd41c819cc03334f82e955b27] Schedule 5 (modification of directives) has effect as if, in each of paragraphs 2(a), 18(a) and 26(a), for “England or Wales” there were substituted “ the Northumbria River Basin District ”.
+> - (aa) send a copy of the approved plan to the Scottish Environment Protection Agency which shall make it accessible to the public free of charge through its website, at its principal office [^c-cec3cc99e39ab38b4e080bd2ee7e826f]...; and
+
+.
+
+(6)[^c-9fc651cf9e170b814da420bafe412a84] Regulation 33[^c-140d33063552751b0dc40b27fd46fdeb] (duty to have regard to plans) shall have effect as if “the Welsh Ministers,” and “, NRW[^c-e3ca720192a5d0423ffa5002e18788b2]” were omitted.
+
+(7)[^c-152a9a1dd41c819cc03334f82e955b27] Schedule 5 (modification of directives) has effect as if, in each of paragraphs 2(a), 18(a) and 26(a), for “England or Wales” there were substituted “ the Northumbria River Basin District ”.
 
 ## 6. Application of Part 1 of the Scottish Act to the Northumbria River Basin District
 
@@ -193,7 +193,7 @@ In these Regulations—
 
 - (a) references to a river basin district included references to the Northumbria River Basin District; and
 - (b) in relation to that district—
-  - (i) in paragraph (a), the reference to the river basin management plan were a reference to the river basin management plan for that district as approved under regulation 31 *(Extent: E+W)*[^key-cf380eb0b471c29074444d8a30ae590f] of the principal Regulations and any supplementary plan prepared under regulation 32[^key-b08038424f33db32f452ff035dc9b89a] of the principal Regulations; and
+  - (i) in paragraph (a), the reference to the river basin management plan were a reference to the river basin management plan for that district as approved under regulation 31 *(Extent: E+W)*[^c-cf380eb0b471c29074444d8a30ae590f] of the principal Regulations and any supplementary plan prepared under regulation 32[^c-b08038424f33db32f452ff035dc9b89a] of the principal Regulations; and
   - (ii) paragraphs (b) and (c) were omitted.
 
 (4) Section 18 shall apply as if—
@@ -203,9 +203,9 @@ In these Regulations—
 
 were a reference to the Scottish Environment Protection Agency’s relevant functions and its duty under regulation 4.
 
-(5) Sections 20(2)(b) (regulation of controlled activities) and 22(1) (remedial and restoration measures) and paragraph 2(2) of Schedule 2 (regulators to exercise functions with a view to achieving environmental objectives set out in river basin management plans) shall have effect as if references to environmental objectives set out in river basin management plans included references to environmental objectives set out in any river basin management plan for the Northumbria River Basin District approved under regulation 31[^key-00a1c01b87acadcc2aac8be4c67fc158] of the principal Regulations.
+(5) Sections 20(2)(b) (regulation of controlled activities) and 22(1) (remedial and restoration measures) and paragraph 2(2) of Schedule 2 (regulators to exercise functions with a view to achieving environmental objectives set out in river basin management plans) shall have effect as if references to environmental objectives set out in river basin management plans included references to environmental objectives set out in any river basin management plan for the Northumbria River Basin District approved under regulation 31[^c-00a1c01b87acadcc2aac8be4c67fc158] of the principal Regulations.
 
-(6)[^key-07fe91ef5a77a663317774da2ad181fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-07fe91ef5a77a663317774da2ad181fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Section 27 shall have effect as if the reference to Part 1 (protection of the water environment) included a reference to that Part as applied by these Regulations.
 
@@ -243,57 +243,57 @@ A Regulatory Impact Assessment and a Transposition Note have been prepared in co
 
 [^f00003]: Footnote: The power of the Minister to make regulations in relation to matters as regards Scotland is preserved by section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-0c366eda940bbe655594a084861cb643]: Modification: Regulations: power to amend or modify conferred (9.1.2022 for specified purposes, 28.2.2022 in so far as not already in force for N.I.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 89](https://www.legislation.gov.uk/ukpga/2021/30/section/89), [147(2)(l)(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/l/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/n)
+[^c-0c366eda940bbe655594a084861cb643]: Modification: Regulations: power to amend or modify conferred (9.1.2022 for specified purposes, 28.2.2022 in so far as not already in force for N.I.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 89](https://www.legislation.gov.uk/ukpga/2021/30/section/89), [147(2)(l)(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/l/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/n)
 
-[^key-6bb4761d8c9dd70f902baf47d6dd7b25]: Textual amendment: Words in reg. 2 inserted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/1/b)
+[^c-6bb4761d8c9dd70f902baf47d6dd7b25]: Textual amendment: Words in reg. 2 inserted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/1/b)
 
-[^key-c5aa79285b5934ff80054c970209f898]: Textual amendment: Words in reg. 2 substituted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/1/a)
+[^c-c5aa79285b5934ff80054c970209f898]: Textual amendment: Words in reg. 2 substituted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/1/a)
 
 [^f00006]: Footnote: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3).
 
 [^f00007]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-e97517bbfb3928ac60dfa0b638d96063]: Textual amendment: Words in reg. 2 substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/2/a) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-e97517bbfb3928ac60dfa0b638d96063]: Textual amendment: Words in reg. 2 substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/2/a) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-c56b1e1a7072c3e0f33d604f480e5886]: Textual amendment: Words in reg. 2 substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/2/b) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-c56b1e1a7072c3e0f33d604f480e5886]: Textual amendment: Words in reg. 2 substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/2/b) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-de34a7a022b3e218849863c746727782]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/3245/regulation/3) substituted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/2)
+[^c-de34a7a022b3e218849863c746727782]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/3245/regulation/3) substituted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/2)
 
-[^key-2943b28115a9010ad4c6f0dcd5c36017]: Textual amendment: Words in reg. 4(1)(a) substituted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/3/a/i)
+[^c-2943b28115a9010ad4c6f0dcd5c36017]: Textual amendment: Words in reg. 4(1)(a) substituted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/3/a/i)
 
-[^key-fba73d17e20232a67288e5567999f14a]: Textual amendment: Words in reg. 4(1)(b) inserted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/3/a/ii)
+[^c-fba73d17e20232a67288e5567999f14a]: Textual amendment: Words in reg. 4(1)(b) inserted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/3/a/ii)
 
-[^key-e6ff33798c32fb185b387de8bc6a7998]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/4/2) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/558/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6ff33798c32fb185b387de8bc6a7998]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/4/2) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/558/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d97e9358e8dc264961ad767b9d25d09d]: Textual amendment: Reg. 5(1)-(2C) substituted for reg. 5(1) (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/a)
+[^c-d97e9358e8dc264961ad767b9d25d09d]: Textual amendment: Reg. 5(1)-(2C) substituted for reg. 5(1) (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/a)
 
 [^f00009]: Footnote: [1969 c. 24](https://www.legislation.gov.uk/ukpga/1969/24).
 
-[^key-122fc57d7a6bbaa658057d9c16846db6]: Textual amendment: Words in reg. 5(1A)(a) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/a/i) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-122fc57d7a6bbaa658057d9c16846db6]: Textual amendment: Words in reg. 5(1A)(a) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/a/i) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-0b0fffaf2e4a4c92ba26c8497bbd29b6]: Textual amendment: Words in [reg. 5(1A)(a)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/5/1A/a) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/558/regulation/10/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b0fffaf2e4a4c92ba26c8497bbd29b6]: Textual amendment: Words in [reg. 5(1A)(a)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/5/1A/a) substituted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/558/regulation/10/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-60104ed4d1372c1738e7e9efd2f04827]: Textual amendment: [Reg. 5(1A)(b)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/5/1A/b) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/558/regulation/10/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-60104ed4d1372c1738e7e9efd2f04827]: Textual amendment: [Reg. 5(1A)(b)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/5/1A/b) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/558/regulation/10/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-999838ffba0c61d3b0f81d3886f60cff]: Textual amendment: Words in reg. 5(2)(b) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/b) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-999838ffba0c61d3b0f81d3886f60cff]: Textual amendment: Words in reg. 5(2)(b) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/b) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-a3724cea2c1986f2a5e31dd73b52d368]: Textual amendment: Words in reg. 5(2C) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(c)(i)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/c/i) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-a3724cea2c1986f2a5e31dd73b52d368]: Textual amendment: Words in reg. 5(2C) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(c)(i)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/c/i) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-7852322dd0851aa9327ca03103fdc093]: Textual amendment: Words in reg. 5(2C) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/c/ii) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-7852322dd0851aa9327ca03103fdc093]: Textual amendment: Words in reg. 5(2C) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/c/ii) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-dc4d04373bacee4f28efc79dea3ced0c]: Textual amendment: Words in reg. 5(3) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(d)(i)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/d/i) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-dc4d04373bacee4f28efc79dea3ced0c]: Textual amendment: Words in reg. 5(3) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(d)(i)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/d/i) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-afbc50e24935878c9fcd71c7ad57be8d]: Textual amendment: Words in reg. 5(3)(a) omitted (3.3.2016) by virtue of [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/b/i)
+[^c-afbc50e24935878c9fcd71c7ad57be8d]: Textual amendment: Words in reg. 5(3)(a) omitted (3.3.2016) by virtue of [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/b/i)
 
-[^key-0b8959c3f161f2a6f4ba1f4a753c42c9]: Textual amendment: Word in reg. 5(3)(c)(iii) substituted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/b/ii)
+[^c-0b8959c3f161f2a6f4ba1f4a753c42c9]: Textual amendment: Word in reg. 5(3)(c)(iii) substituted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/b/ii)
 
-[^key-08c3b7e27e168ab4885735fdbdd9ae5b]: Textual amendment: Reg. 5(3)(c)(iv) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/d/ii) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-08c3b7e27e168ab4885735fdbdd9ae5b]: Textual amendment: Reg. 5(3)(c)(iv) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/d/ii) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-96fecf4184099018eb0d49a0756cb45f]: Textual amendment: Words in reg. 5(3)(d) substituted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/b/aa)
+[^c-96fecf4184099018eb0d49a0756cb45f]: Textual amendment: Words in reg. 5(3)(d) substituted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/b/aa)
 
 [^f00008]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-48fc49bc846479763c7c19f7a01ad319]: Textual amendment: Words in reg. 5(3)(d) substituted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/b/bb)
+[^c-48fc49bc846479763c7c19f7a01ad319]: Textual amendment: Words in reg. 5(3)(d) substituted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/b/bb)
 
 [^f00010]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
@@ -303,30 +303,30 @@ A Regulatory Impact Assessment and a Transposition Note have been prepared in co
 
 [^f00013]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-897f0b9693f7b84e531dd80d5f3f71ef]: Textual amendment: Words in reg. 5(3)(d) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/d/iii) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-897f0b9693f7b84e531dd80d5f3f71ef]: Textual amendment: Words in reg. 5(3)(d) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(d)(iii)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/d/iii) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-9cd218261fb8d86c05159b826ec34b00]: Textual amendment: Words in reg. 5(4) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(e)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/e) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-9cd218261fb8d86c05159b826ec34b00]: Textual amendment: Words in reg. 5(4) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(e)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/e) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-595dc474f1ab4e221683d3c681900979]: Textual amendment: Words in reg. 5(4) omitted (3.3.2016) by virtue of [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(c)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/c)
+[^c-595dc474f1ab4e221683d3c681900979]: Textual amendment: Words in reg. 5(4) omitted (3.3.2016) by virtue of [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(c)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/c)
 
-[^key-4c8ad75589c2b6b6615893911c6aeaa4]: Textual amendment: Words in reg. 5(5) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/f/i) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-4c8ad75589c2b6b6615893911c6aeaa4]: Textual amendment: Words in reg. 5(5) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/f/i) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-d482d19e7e45467363bb4ace92314f86]: Textual amendment: Words in reg. 5(5) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/f/ii) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-d482d19e7e45467363bb4ace92314f86]: Textual amendment: Words in reg. 5(5) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/f/ii) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-cec3cc99e39ab38b4e080bd2ee7e826f]: Textual amendment: Words in reg. 5(5) omitted (3.3.2016) by virtue of [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(d)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/d)
+[^c-cec3cc99e39ab38b4e080bd2ee7e826f]: Textual amendment: Words in reg. 5(5) omitted (3.3.2016) by virtue of [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(d)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/d)
 
-[^key-9fc651cf9e170b814da420bafe412a84]: Textual amendment: Reg. 5(6) inserted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(e)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/e)
+[^c-9fc651cf9e170b814da420bafe412a84]: Textual amendment: Reg. 5(6) inserted (3.3.2016) by [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 4(e)](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/4/e)
 
-[^key-140d33063552751b0dc40b27fd46fdeb]: Textual amendment: Words in reg. 5(6) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(g)(i)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/g/i) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-140d33063552751b0dc40b27fd46fdeb]: Textual amendment: Words in reg. 5(6) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(g)(i)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/g/i) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-e3ca720192a5d0423ffa5002e18788b2]: Textual amendment: Word in reg. 5(6) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(g)(ii)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/g/ii) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-e3ca720192a5d0423ffa5002e18788b2]: Textual amendment: Word in reg. 5(6) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(3)(g)(ii)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/3/g/ii) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-152a9a1dd41c819cc03334f82e955b27]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/5/7) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-152a9a1dd41c819cc03334f82e955b27]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/5/7) inserted (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/558/regulation/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cf380eb0b471c29074444d8a30ae590f]: Textual amendment: Words in [reg. 6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/6/3/b/i) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/4/a/i) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-cf380eb0b471c29074444d8a30ae590f]: Textual amendment: Words in [reg. 6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/6/3/b/i) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(4)(a)(i)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/4/a/i) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-b08038424f33db32f452ff035dc9b89a]: Textual amendment: Words in [reg. 6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/6/3/b/i) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/4/a/ii) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-b08038424f33db32f452ff035dc9b89a]: Textual amendment: Words in [reg. 6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/6/3/b/i) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/4/a/ii) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-00a1c01b87acadcc2aac8be4c67fc158]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/6/5) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(4)(b)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/4/b) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
+[^c-00a1c01b87acadcc2aac8be4c67fc158]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2003/3245/regulation/6/5) substituted (E.W.) (10.4.2017) by [The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 (S.I. 2017/407)](https://www.legislation.gov.uk/uksi/2017/407), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/a), [Sch. 4 para. 1(4)(b)](https://www.legislation.gov.uk/uksi/2017/407/schedule/4/paragraph/1/4/b) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2017/407/regulation/1/c))
 
-[^key-07fe91ef5a77a663317774da2ad181fa]: Textual amendment: Reg. 6(6) omitted (3.3.2016) by virtue of [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/5)
+[^c-07fe91ef5a77a663317774da2ad181fa]: Textual amendment: Reg. 6(6) omitted (3.3.2016) by virtue of [The Water Environment (Water Framework Directive) (Northumbria and Solway Tweed River Basin Districts) (Amendment) Regulations 2016 (S.I. 2016/139)](https://www.legislation.gov.uk/uksi/2016/139), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/139/regulation/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/139/schedule/1/paragraph/5)

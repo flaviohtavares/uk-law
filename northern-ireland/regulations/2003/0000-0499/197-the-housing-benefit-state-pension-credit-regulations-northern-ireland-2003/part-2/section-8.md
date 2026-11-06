@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Income and capital[^key-97071868db5505f757d7baa2f59155f1]
+## 8. Income and capital[^c-97071868db5505f757d7baa2f59155f1]
 
 *Extent: N.I.*
 
@@ -664,7 +664,7 @@ For regulations 21 to 44, there shall be substituted the following regulations â
 
 ## Annotations
 
-[^key-97071868db5505f757d7baa2f59155f1]: Commencement: Reg. 8 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-97071868db5505f757d7baa2f59155f1]: Commencement: Reg. 8 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00023]: Footnote: S.I. [2002/2005](https://www.legislation.gov.uk/uksi/2002/2005)
 

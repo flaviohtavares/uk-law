@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Consequential and related amendments[^key-8bb1f7a012104e33c1c78cae8c3be0ac]
+## 41. Consequential and related amendments[^c-8bb1f7a012104e33c1c78cae8c3be0ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In Schedule 3—
 
 ## Annotations
 
-[^key-8bb1f7a012104e33c1c78cae8c3be0ac]: Commencement: Reg. 41 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-8bb1f7a012104e33c1c78cae8c3be0ac]: Commencement: Reg. 41 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)

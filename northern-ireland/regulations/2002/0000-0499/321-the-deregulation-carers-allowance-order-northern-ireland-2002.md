@@ -41,7 +41,7 @@ Whereas the Secretary of State has made an Order[^f00001] under section 1 of the
 
 Now, therefore, the Department for Social Development, in exercise of the powers conferred by Article 17(1) to (3) of the Deregulation and Contracting Out (Northern Ireland) Order 1996[^f00003], and now vested in it[^f00004], hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-c7cefe54d815bf293634971f2db05fb4]
+## 1. Citation, commencement and interpretation[^c-c7cefe54d815bf293634971f2db05fb4]
 
 (1) This Order may be cited as the Deregulation (Carer’s Allowance) Order (Northern Ireland) 2002 and shall come into operation –
 
@@ -55,7 +55,7 @@ Now, therefore, the Department for Social Development, in exercise of the powers
 - “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00005]; and
 - “subordinate legislation” means orders, rules, regulations and other instruments made under any statutory provision.
 
-## 2. Invalid care allowance to be known as carer’s allowance[^key-d589386c0c3ce3e259340eb23e88c349][^key-815fdaf3bb5f0b74e07b1b2eed27c7ab][^key-d589386c0c3ce3e259340eb23e88c349]
+## 2. Invalid care allowance to be known as carer’s allowance[^c-d589386c0c3ce3e259340eb23e88c349][^c-815fdaf3bb5f0b74e07b1b2eed27c7ab][^c-d589386c0c3ce3e259340eb23e88c349]
 
 (1) Invalid care allowance shall be known as carer’s allowance.
 
@@ -65,7 +65,7 @@ Now, therefore, the Department for Social Development, in exercise of the powers
   - (i) section 44A(2)(b)[^f00006] (deemed earnings factors);
   - (ii) section 63(c) (descriptions of non-contributory benefits);
   - (iii) the cross heading and shoulder heading preceding section 70 (invalid care allowance) and subsections (1) and (9) of that section;
-  - (iv)[^key-2cc255baf543f84ebd2e842dd379c558] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-2cc255baf543f84ebd2e842dd379c558] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (v) section 146(1)(e) (interpretation of Part X);
   - (vi) Schedule 4, Part III, paragraph 4 (non-contributory periodical benefits); and
   - (vii) Schedule 4, Part IV, paragraph 9 (increases for dependants);
@@ -74,7 +74,7 @@ Now, therefore, the Department for Social Development, in exercise of the powers
   - (ii) section 2AA(2)(e)[^f00010] (work-focused interviews for partners); and
 - (c) in Schedule 2 to the Social Security (Northern Ireland) Order 1998[^f00011] (decisions against which no appeal lies), the cross heading preceding paragraph 3.
 
-## 3. Amendment of section 70 of the Contributions and Benefits Act[^key-98c0d3e1d5653d843dace91d090dcc7d]
+## 3. Amendment of section 70 of the Contributions and Benefits Act[^c-98c0d3e1d5653d843dace91d090dcc7d]
 
 (1) Section 70 of the Contributions and Benefits Act (invalid care allowance) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -91,7 +91,7 @@ Now, therefore, the Department for Social Development, in exercise of the powers
 
 (3) Subsections (5) and (6)[^f00012] are hereby repealed.
 
-## 4. Transitional provision[^key-8a5bec2e1503baaeb5def153cb070895]
+## 4. Transitional provision[^c-8a5bec2e1503baaeb5def153cb070895]
 
 Notwithstanding the repeal of section 70(6) of the Contributions and Benefits Act, a person who had attained the age of 65 and was entitled to an allowance under that section immediately before 28th October 2002 shall continue to be so entitled, notwithstanding that he is not caring for a severely disabled person or no longer satisfies the requirements of subsection (1)(a) or (b) of that section, for as long as he continues to satisfy the other requirements for entitlement to the allowance specified in or under that section.
 
@@ -125,17 +125,17 @@ Article 4 preserves entitlement to the allowance in the case of any person over 
 
 [^f00004]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-c7cefe54d815bf293634971f2db05fb4]: Commencement: Art. 1 in operation at 28.10.2002, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/321/article/1/1/a)
+[^c-c7cefe54d815bf293634971f2db05fb4]: Commencement: Art. 1 in operation at 28.10.2002, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/321/article/1/1/a)
 
 [^f00005]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-d589386c0c3ce3e259340eb23e88c349]: Commencement: Art. 2 in operation at 21.10.2002 for specified purposes, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/321/article/1/1/b)(i)
+[^c-d589386c0c3ce3e259340eb23e88c349]: Commencement: Art. 2 in operation at 21.10.2002 for specified purposes, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/321/article/1/1/b)(i)
 
-[^key-815fdaf3bb5f0b74e07b1b2eed27c7ab]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2002/321/article/2) in operation at 1.4.2003 coming into force in accordance with , see [art. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2002/321/article/1/1/b/ii)
+[^c-815fdaf3bb5f0b74e07b1b2eed27c7ab]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2002/321/article/2) in operation at 1.4.2003 coming into force in accordance with , see [art. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2002/321/article/1/1/b/ii)
 
 [^f00006]: Footnote: Section 44A was inserted by section 29(3) of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-2cc255baf543f84ebd2e842dd379c558]: Textual amendment: [Art. 2(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2002/321/article/2/2/a/iv) revoked (14.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 34(2)(d)](https://www.legislation.gov.uk/nia/2010/13/section/34/2/d), [36(1)](https://www.legislation.gov.uk/nia/2010/13/section/36/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2010/13/schedule/4/part/2)
+[^c-2cc255baf543f84ebd2e842dd379c558]: Textual amendment: [Art. 2(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2002/321/article/2/2/a/iv) revoked (14.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 34(2)(d)](https://www.legislation.gov.uk/nia/2010/13/section/34/2/d), [36(1)](https://www.legislation.gov.uk/nia/2010/13/section/36/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2010/13/schedule/4/part/2)
 
 [^f00008]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
@@ -145,8 +145,8 @@ Article 4 preserves entitlement to the allowance in the case of any person over 
 
 [^f00011]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-98c0d3e1d5653d843dace91d090dcc7d]: Commencement: Art. 3 in operation at 28.10.2002, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/321/article/1/1/a)
+[^c-98c0d3e1d5653d843dace91d090dcc7d]: Commencement: Art. 3 in operation at 28.10.2002, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/321/article/1/1/a)
 
 [^f00012]: Footnote: Subsections (5) and (6) were amended by regulation 2(3) of the Social Security (Severe Disablement Allowance and Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 1994 ([S.R. 1994 No. 370](https://www.legislation.gov.uk/nisr/1994/370))
 
-[^key-8a5bec2e1503baaeb5def153cb070895]: Commencement: Art. 4 in operation at 28.10.2002, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/321/article/1/1/a)
+[^c-8a5bec2e1503baaeb5def153cb070895]: Commencement: Art. 4 in operation at 28.10.2002, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2002/321/article/1/1/a)

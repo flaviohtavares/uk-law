@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22A. Trading allowance[^key-802f1b78b9885516847c52467929d7a0]
+## 22A. Trading allowance[^c-802f1b78b9885516847c52467929d7a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-802f1b78b9885516847c52467929d7a0]: Textual amendment: [S. 22A](https://www.legislation.gov.uk/ukpga/2005/5/section/22A) and cross-heading inserted (16.11.2017) (with effect in accordance with Sch. 3 para. 13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2017/32/schedule/3/paragraph/4)
+[^c-802f1b78b9885516847c52467929d7a0]: Textual amendment: [S. 22A](https://www.legislation.gov.uk/ukpga/2005/5/section/22A) and cross-heading inserted (16.11.2017) (with effect in accordance with Sch. 3 para. 13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2017/32/schedule/3/paragraph/4)

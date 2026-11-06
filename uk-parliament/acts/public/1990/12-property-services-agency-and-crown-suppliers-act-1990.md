@@ -58,7 +58,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (1) No scheme under section 1 above shall provide for the transfer of any rights or liabilities relating to a person’s employment.
 
-(2) Where by reason of the operation of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-8be1c196002ddf8013b6c1197cbc5b51] in relation to the transfer of any such property, rights or liabilities as are mentioned in section 1(1) above a person ceases to be employed in the civil service of the State and becomes employed by a transferee—
+(2) Where by reason of the operation of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-8be1c196002ddf8013b6c1197cbc5b51] in relation to the transfer of any such property, rights or liabilities as are mentioned in section 1(1) above a person ceases to be employed in the civil service of the State and becomes employed by a transferee—
 
 - (a) he shall not, on so ceasing, be treated for the purposes of any scheme under section 1 of the [^c807384]Superannuation Act 1972 as having retired on redundancy; and
 - (b) his ceasing to be employed in that service shall not be regarded as an occasion of redundancy for the purpose of the agreed redundancy procedures applicable to persons employed in that service.
@@ -149,7 +149,7 @@ shall be taken on and after that day to refer to the transferee concerned.
 
 ## Annotations
 
-[^key-8be1c196002ddf8013b6c1197cbc5b51]: Textual amendment: Words in s. 2(2) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/a)
+[^c-8be1c196002ddf8013b6c1197cbc5b51]: Textual amendment: Words in s. 2(2) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/a)
 
 [^c807384]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 

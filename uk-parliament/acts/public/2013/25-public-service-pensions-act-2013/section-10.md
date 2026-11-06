@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Pension age[^key-d1f31d05281fc80f5c88a010c04222ad][^key-f9f3b365a15486e3d14aebb838dfbfe1]
+## 10. Pension age[^c-d1f31d05281fc80f5c88a010c04222ad][^c-f9f3b365a15486e3d14aebb838dfbfe1]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ the change to the person's normal or deferred pension age must under the scheme 
 
 ## Annotations
 
-[^key-d1f31d05281fc80f5c88a010c04222ad]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/25/section/10) in force at 28.2.2014 for specified purposes by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 3(2)(e)](https://www.legislation.gov.uk/uksi/2014/433/article/3/2/e)
+[^c-d1f31d05281fc80f5c88a010c04222ad]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/25/section/10) in force at 28.2.2014 for specified purposes by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 3(2)(e)](https://www.legislation.gov.uk/uksi/2014/433/article/3/2/e)
 
-[^key-f9f3b365a15486e3d14aebb838dfbfe1]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/25/section/10) in force at 1.4.2014 for specified purposes by [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2014/839/article/3/2/a)[(3)](https://www.legislation.gov.uk/uksi/2014/839/article/3/3)
+[^c-f9f3b365a15486e3d14aebb838dfbfe1]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/25/section/10) in force at 1.4.2014 for specified purposes by [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2014/839/article/3/2/a)[(3)](https://www.legislation.gov.uk/uksi/2014/839/article/3/3)

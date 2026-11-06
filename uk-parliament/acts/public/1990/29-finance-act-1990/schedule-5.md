@@ -36,7 +36,7 @@ Section 30.
 
 (2) This paragraph shall apply as regards any time falling on or after 6th April 1991.
 
-**4.**[^key-1a9f917206ac4d982f60154b63824bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1a9f917206ac4d982f60154b63824bb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Deposit-takers
 
@@ -48,17 +48,17 @@ Section 30.
 
 (2) This paragraph shall apply as regards any time falling on or after 6th April 1991.
 
-**7.**[^key-576a28150e64713916909fb4bc620abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-576a28150e64713916909fb4bc620abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-576a28150e64713916909fb4bc620abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-576a28150e64713916909fb4bc620abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-576a28150e64713916909fb4bc620abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-576a28150e64713916909fb4bc620abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### General
 
-**10.**[^key-576a28150e64713916909fb4bc620abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-576a28150e64713916909fb4bc620abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-576a28150e64713916909fb4bc620abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-576a28150e64713916909fb4bc620abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** (1) In section 483 (determination of reduced rate for building societies and composite rate for banks etc.) subsections (1) to (3) and (5) shall cease to have effect.
 
@@ -78,14 +78,14 @@ Section 30.
 
 ### Transitional provision
 
-**16.**[^key-c6971044281bb05ba0ff22c98cdd759d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-c6971044281bb05ba0ff22c98cdd759d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a9f917206ac4d982f60154b63824bb0]: Textual amendment: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/1990/29/schedule/5/paragraph/4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1a9f917206ac4d982f60154b63824bb0]: Textual amendment: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/1990/29/schedule/5/paragraph/4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-576a28150e64713916909fb4bc620abb]: Textual amendment: [Sch. 5 paras. 7-11](https://www.legislation.gov.uk/ukpga/1990/29/schedule/5/paragraph/7) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-576a28150e64713916909fb4bc620abb]: Textual amendment: [Sch. 5 paras. 7-11](https://www.legislation.gov.uk/ukpga/1990/29/schedule/5/paragraph/7) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c12832411]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-c6971044281bb05ba0ff22c98cdd759d]: Textual amendment: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/1990/29/schedule/5/paragraph/16) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-c6971044281bb05ba0ff22c98cdd759d]: Textual amendment: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/1990/29/schedule/5/paragraph/16) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

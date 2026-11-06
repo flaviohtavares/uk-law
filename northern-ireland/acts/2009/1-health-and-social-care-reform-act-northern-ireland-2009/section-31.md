@@ -34,7 +34,7 @@ summary: ''
 - “**the Order of 1972**” means the Health and Personal Social Services (Northern Ireland) Order 1972 (NI 14);
 - “**prescribed**” means prescribed by regulations;
 - “**the Regional Agency**” means the Regional Agency for Public Health and Social Well-being established under section 12;
-- [^key-30a35ccde31faf86f33b5ae43705b52d]...
+- [^c-30a35ccde31faf86f33b5ae43705b52d]...
 - “**RBSO**” means the Regional Business Services Organisation established under section 14;
 - “**RQIA**” means the Health and Social Care Regulation and Quality Improvement Authority;
 - “**regulations**” means regulations made by the Department;
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30a35ccde31faf86f33b5ae43705b52d]: Textual amendment: Words in [s. 31](https://www.legislation.gov.uk/nia/2009/1/section/31) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 240](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/240); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-30a35ccde31faf86f33b5ae43705b52d]: Textual amendment: Words in [s. 31](https://www.legislation.gov.uk/nia/2009/1/section/31) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 240](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/240); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

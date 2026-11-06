@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Compensation in respect of land subject to business tenancy[^key-c8d89709c1a6d0055e13b69178bd91c0]
+## 47. Compensation in respect of land subject to business tenancy[^c-c8d89709c1a6d0055e13b69178bd91c0]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8d89709c1a6d0055e13b69178bd91c0]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/1973/26/section/47) substituted (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 35](https://www.legislation.gov.uk/ukpga/2017/20/section/35), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/936/regulation/4))
+[^c-c8d89709c1a6d0055e13b69178bd91c0]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/1973/26/section/47) substituted (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 35](https://www.legislation.gov.uk/ukpga/2017/20/section/35), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/936/regulation/4))

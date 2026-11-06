@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Matters within Negotiating Body’s remit[^key-f92503673d480f8f25dc7a2c5ffc2a80][^key-27cb7d72f5c5c687cae1f3c1f75096a8]
+## 41. Matters within Negotiating Body’s remit[^c-f92503673d480f8f25dc7a2c5ffc2a80][^c-27cb7d72f5c5c687cae1f3c1f75096a8]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f92503673d480f8f25dc7a2c5ffc2a80]: Commencement: S. 41 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-f92503673d480f8f25dc7a2c5ffc2a80]: Commencement: S. 41 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-27cb7d72f5c5c687cae1f3c1f75096a8]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2025/36/section/41) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(11)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/11)
+[^c-27cb7d72f5c5c687cae1f3c1f75096a8]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2025/36/section/41) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(11)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/11)

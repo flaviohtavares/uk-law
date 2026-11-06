@@ -37,9 +37,9 @@ but nothing in this subsection shall authorise him to do anything if he ceased t
 - (d) Vice Judge Advocate General;
 - (e) Assistant Judge Advocate General;
 - (f)[^c13955101] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ff)[^key-cf8c9d5e60a311b1a836b7339fd614c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ff)[^c-cf8c9d5e60a311b1a836b7339fd614c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) Chairman of the Criminal Injuries Compensation Board.
-- (h)[^key-b9c67a45ae821ca5b5a078bde2a10a28] Chief Coroner;
+- (h)[^c-b9c67a45ae821ca5b5a078bde2a10a28] Chief Coroner;
 - (i) Deputy Chief Coroner;
 - (j) senior coroners, area coroners and assistant coroners;
 - (k) traffic commissioners.
@@ -50,6 +50,6 @@ but nothing in this subsection shall authorise him to do anything if he ceased t
 
 [^c13955101]: Textual amendment: S. 27(3)(f) repealed (1.10.2001) by [2001 c. 19](https://www.legislation.gov.uk/ukpga/2001/19), [ss. 34](https://www.legislation.gov.uk/ukpga/2001/19/section/34), [38](https://www.legislation.gov.uk/ukpga/2001/19/section/38), [Sch. 6 Pt. 2 para. 10](https://www.legislation.gov.uk/ukpga/2001/19/schedule/6/part/2/paragraph/10), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2001/19/schedule/7/part/3); [S.I. 2001/3234](https://www.legislation.gov.uk/uksi/2001/3234), [art. 2](https://www.legislation.gov.uk/uksi/2001/3234/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2001/3234/article/3))
 
-[^key-cf8c9d5e60a311b1a836b7339fd614c2]: Textual amendment: S. 27(3)(ff) repealed (S.) (30.5.2014) by [The Judicial Pensions and Retirement Act 1993 (Part-time Sheriff, Stipendiary Magistrate and Justice of the Peace) Order 2014 (S.S.I. 2014/155)](https://www.legislation.gov.uk/ssi/2014/155), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/155/article/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2014/155/article/2/2)
+[^c-cf8c9d5e60a311b1a836b7339fd614c2]: Textual amendment: S. 27(3)(ff) repealed (S.) (30.5.2014) by [The Judicial Pensions and Retirement Act 1993 (Part-time Sheriff, Stipendiary Magistrate and Justice of the Peace) Order 2014 (S.S.I. 2014/155)](https://www.legislation.gov.uk/ssi/2014/155), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/155/article/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2014/155/article/2/2)
 
-[^key-b9c67a45ae821ca5b5a078bde2a10a28]: Textual amendment: [S. 27(3)(h)-(k)](https://www.legislation.gov.uk/ukpga/1993/8/section/27/3/h) inserted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/i), [Sch. 1 para. 25(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/25/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-b9c67a45ae821ca5b5a078bde2a10a28]: Textual amendment: [S. 27(3)(h)-(k)](https://www.legislation.gov.uk/ukpga/1993/8/section/27/3/h) inserted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/i), [Sch. 1 para. 25(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/25/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))

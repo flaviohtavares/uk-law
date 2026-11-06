@@ -37,11 +37,11 @@ Made
 
 The Department of Justice, in exercise of the powers conferred by section 5(2) of the Criminal Justice (Committal Reform) Act (Northern Ireland) 2022[^f00001], makes the following Order.
 
-## 1. Citation[^key-d2c2e2f8324db09960e5d6eb20ddef25]
+## 1. Citation[^c-d2c2e2f8324db09960e5d6eb20ddef25]
 
 This Order may be cited as the Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (Commencement No. 1) Order (Northern Ireland) 2022.
 
-## 2. Appointed Day[^key-8600e4bab46e6db559b0ff6a166fa722]
+## 2. Appointed Day[^c-8600e4bab46e6db559b0ff6a166fa722]
 
 The day appointed for the coming into operation of the following provisions of the Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 is 17th October 2022–
 
@@ -66,6 +66,6 @@ This Order brings into operation sections 1 to 3 of, and the Schedule to, the Cr
 
 [^f00001]: Footnote: [2022.c.4 (N.I.)](https://www.legislation.gov.uk/nia/2022/4).
 
-[^key-d2c2e2f8324db09960e5d6eb20ddef25]: Commencement: Art. 1 in operation at made date
+[^c-d2c2e2f8324db09960e5d6eb20ddef25]: Commencement: Art. 1 in operation at made date
 
-[^key-8600e4bab46e6db559b0ff6a166fa722]: Commencement: Art. 2 in operation at made date
+[^c-8600e4bab46e6db559b0ff6a166fa722]: Commencement: Art. 2 in operation at made date

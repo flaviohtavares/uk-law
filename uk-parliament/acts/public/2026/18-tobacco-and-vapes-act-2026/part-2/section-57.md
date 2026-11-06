@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Power to make provision about warning statements[^key-e8b358f624d25dff856fec5d114b574e][^key-ad15f53543cdaeb63716adde6567a3ad]
+## 57. Power to make provision about warning statements[^c-e8b358f624d25dff856fec5d114b574e][^c-ad15f53543cdaeb63716adde6567a3ad]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8b358f624d25dff856fec5d114b574e]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-e8b358f624d25dff856fec5d114b574e]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-ad15f53543cdaeb63716adde6567a3ad]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2026/18/section/57) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-ad15f53543cdaeb63716adde6567a3ad]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2026/18/section/57) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

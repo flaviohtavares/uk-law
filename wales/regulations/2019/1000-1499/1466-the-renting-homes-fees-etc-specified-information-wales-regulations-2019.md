@@ -31,7 +31,7 @@ summary: ''
 
 Housing, Wales
 
-The Renting Homes (Fees etc.) (Specified Information) (Wales) Regulations 2019 (revoked)[^key-07f3d89530cc1132b4bf964dce26cfd1]
+The Renting Homes (Fees etc.) (Specified Information) (Wales) Regulations 2019 (revoked)[^c-07f3d89530cc1132b4bf964dce26cfd1]
 
 Made
 
@@ -45,15 +45,15 @@ Coming into force
 
 13th December 2019
 
-[^key-07f3d89530cc1132b4bf964dce26cfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07f3d89530cc1132b4bf964dce26cfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Title and commencement[^key-07f3d89530cc1132b4bf964dce26cfd1]
+## 1. Title and commencement[^c-07f3d89530cc1132b4bf964dce26cfd1]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specified Information[^key-07f3d89530cc1132b4bf964dce26cfd1]
+## 2. Specified Information[^c-07f3d89530cc1132b4bf964dce26cfd1]
 
 **Not yet in force.**
 
@@ -61,12 +61,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-07f3d89530cc1132b4bf964dce26cfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07f3d89530cc1132b4bf964dce26cfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-07f3d89530cc1132b4bf964dce26cfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07f3d89530cc1132b4bf964dce26cfd1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-07f3d89530cc1132b4bf964dce26cfd1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2019/1466) revoked (10.12.2019) by [The Renting Homes (Fees etc.) (Holding Deposit) (Specified Information) (Wales) Regulations 2019 (S.I. 2019/1493)](https://www.legislation.gov.uk/wsi/2019/1493), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1493/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/1493/regulation/2)
+[^c-07f3d89530cc1132b4bf964dce26cfd1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2019/1466) revoked (10.12.2019) by [The Renting Homes (Fees etc.) (Holding Deposit) (Specified Information) (Wales) Regulations 2019 (S.I. 2019/1493)](https://www.legislation.gov.uk/wsi/2019/1493), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1493/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/1493/regulation/2)

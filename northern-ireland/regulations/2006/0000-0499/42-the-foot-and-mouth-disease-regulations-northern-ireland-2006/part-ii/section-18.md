@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Declaration of supplementary movement control zone[^key-e701bd98a234c83c5a2b2a7035f92953]
+## 18. Declaration of supplementary movement control zone[^c-e701bd98a234c83c5a2b2a7035f92953]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e701bd98a234c83c5a2b2a7035f92953]: Commencement: Reg. 18 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-e701bd98a234c83c5a2b2a7035f92953]: Commencement: Reg. 18 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

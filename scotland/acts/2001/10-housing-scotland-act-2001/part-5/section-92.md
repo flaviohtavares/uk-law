@@ -33,7 +33,7 @@ summary: ''
 
 or related matters.
 
-(3)[^key-24388a1dc33d9d257d4a3156bfa0bc95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-24388a1dc33d9d257d4a3156bfa0bc95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Assistance under subsection (2) may, in particular, be in the form of—
 
@@ -54,12 +54,12 @@ or related matters.
 
 may be provided only with the consent of the Scottish Ministers.
 
-(6)[^key-5ffc03f3ad73bc1aa7053ede254e3547] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-5ffc03f3ad73bc1aa7053ede254e3547] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c286669]: Commencement: S. 92 wholly in force at 1.11.2001, see s. 113 and [S.S.I. 2001/336](https://www.legislation.gov.uk/ssi/2001/336), [art. 2(3)](https://www.legislation.gov.uk/ssi/2001/336/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2001/336/schedule/part/II) (subject to transitional provisions in [art. 3](https://www.legislation.gov.uk/ssi/2001/336/article/3)) (as amended by [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397), [art. 7(b)](https://www.legislation.gov.uk/ssi/2001/397/article/7/b))
 
-[^key-24388a1dc33d9d257d4a3156bfa0bc95]: Textual amendment: S. 92(3) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-24388a1dc33d9d257d4a3156bfa0bc95]: Textual amendment: S. 92(3) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-5ffc03f3ad73bc1aa7053ede254e3547]: Textual amendment: S. 92(6) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-5ffc03f3ad73bc1aa7053ede254e3547]: Textual amendment: S. 92(6) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

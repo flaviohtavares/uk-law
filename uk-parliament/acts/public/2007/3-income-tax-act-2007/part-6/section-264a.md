@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264A. Restricting relief where there is a linked sale[^key-a74a05a1f2e8268d6dd026eb2937817a]
+## 264A. Restricting relief where there is a linked sale[^c-a74a05a1f2e8268d6dd026eb2937817a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ This is subject to subsection (3).
 (5) Condition A is that the sold shares are in—
 
 - (a) the VCT, or
-- (b) if subsection (7A) applies,[^key-6846d96b73ff2a007dedaab274e585be] a company which is (or later becomes) a successor or predecessor of the VCT.
+- (b) if subsection (7A) applies,[^c-6846d96b73ff2a007dedaab274e585be] a company which is (or later becomes) a successor or predecessor of the VCT.
 
 (6) Condition B is that—
 
@@ -57,7 +57,7 @@ This is subject to subsection (3).
   - (i) the VCT is “the old company” and company X is “**the new company**” for the purposes of that section, or
   - (ii) company X is “the old company” and the VCT is “the new company” for those purposes.
 
-(7A)[^key-4dbb534bf9d309b7430a0dffa7c28ab3] This subsection applies if—
+(7A)[^c-4dbb534bf9d309b7430a0dffa7c28ab3] This subsection applies if—
 
 - (a) the date of the merger or restructuring referred to in subsection (7) (“D2”) is before, or the same as, the date when the individual subscribes for the relevant shares (“D1”), or
 - (b) D2 is after D1 but no more than two years after, and either—
@@ -77,8 +77,8 @@ This is subject to subsection (3).
 
 ## Annotations
 
-[^key-a74a05a1f2e8268d6dd026eb2937817a]: Textual amendment: S. 264A inserted (with effect in accordance with Sch. 10 para. 2(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 2(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/2/1)
+[^c-a74a05a1f2e8268d6dd026eb2937817a]: Textual amendment: S. 264A inserted (with effect in accordance with Sch. 10 para. 2(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 10 para. 2(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/10/paragraph/2/1)
 
-[^key-6846d96b73ff2a007dedaab274e585be]: Textual amendment: Words in [s. 264A(5)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/264A/5/b) inserted (with effect in accordance with Sch. 5 para. 12 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/1/2), [12](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/12)
+[^c-6846d96b73ff2a007dedaab274e585be]: Textual amendment: Words in [s. 264A(5)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/264A/5/b) inserted (with effect in accordance with Sch. 5 para. 12 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/1/2), [12](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/12)
 
-[^key-4dbb534bf9d309b7430a0dffa7c28ab3]: Textual amendment: [S. 264A(7A)](https://www.legislation.gov.uk/ukpga/2007/3/section/264A/7A)[(7B)](https://www.legislation.gov.uk/ukpga/2007/3/section/264A/7B) inserted (with effect in accordance with Sch. 5 para. 12 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/1/3), [12](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/12)
+[^c-4dbb534bf9d309b7430a0dffa7c28ab3]: Textual amendment: [S. 264A(7A)](https://www.legislation.gov.uk/ukpga/2007/3/section/264A/7A)[(7B)](https://www.legislation.gov.uk/ukpga/2007/3/section/264A/7B) inserted (with effect in accordance with Sch. 5 para. 12 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/1/3), [12](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/12)

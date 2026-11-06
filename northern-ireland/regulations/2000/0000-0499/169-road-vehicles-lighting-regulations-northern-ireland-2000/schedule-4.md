@@ -77,9 +77,9 @@ Regulations 21 and 23
 </tbody>
 </table>
 
-[^key-9b2c1dceeaa7e34a208615318c6bb6e0]
+[^c-9b2c1dceeaa7e34a208615318c6bb6e0]
 
-**12.**[^key-de1e6b97831c66a911aa788e27cee577] Other requirements—
+**12.**[^c-de1e6b97831c66a911aa788e27cee577] Other requirements—
 
 - (a) every dipped-beam headlamp shall be so constructed that the direction of the beam of light emitted therefrom can be adjusted whilst the vehicle is stationary.
 - (b) every vehicle which—
@@ -93,7 +93,7 @@ Regulations 21 and 23
 - (c) Every dipped-beam headlamp fitted to a vehicle first used on or after 24th January 1996 in accordance with this part of this Schedule shall be designed for a vehicle which is intended to be driven on the left-hand side of the road.
 - (d) Where two dipped-beam headlamps are required to be fitted they shall form a matched pair.
 
-**13.**[^key-ffcef1adce1048c4e0dcc884dda7a5b1] Definitions—
+**13.**[^c-ffcef1adce1048c4e0dcc884dda7a5b1] Definitions—
 
 In this Schedule—
 
@@ -104,23 +104,23 @@ In this Schedule—
 
 ### Part II — Requirements Relating to Optional Dipped-Beam Headlamps
 
-**1.**[^key-b42a478eb73d534f9da8e7a9e480fa60] In the case of a vehicle with three or more wheels having a maximum speed exceeding 25 mph first used on or after 24th January 1996, two and not more than two may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are—
+**1.**[^c-b42a478eb73d534f9da8e7a9e480fa60] In the case of a vehicle with three or more wheels having a maximum speed exceeding 25 mph first used on or after 24th January 1996, two and not more than two may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are—
 
 - (a) those specified in paragraphs 2(*c*), 4, 7, 10 and 12(*a*) of Part I,
 - (b) that they are designed for a vehicle which is intended to be driven on the right-hand side of the road,
 - (c) that they form a matched pair, and
 - (d) that their electrical connections are such that not more than one pair of dipped-beam headlamps is capable of being illuminated at a time.
 
-**2.**[^key-de9a135f3c05a20d1f63a13a3b9a6f6b] In the case of any other vehicle, any number may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 2(*c*), 4, 7 and 12(*a*) of Part I.
+**2.**[^c-de9a135f3c05a20d1f63a13a3b9a6f6b] In the case of any other vehicle, any number may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 2(*c*), 4, 7 and 12(*a*) of Part I.
 
 ## Annotations
 
-[^key-9b2c1dceeaa7e34a208615318c6bb6e0]: Textual amendment: Words in [Sch. 4 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/4/part/I) substituted (31.3.2005) by [Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/1)](https://www.legislation.gov.uk/nisr/2005/1), [regs. 1](https://www.legislation.gov.uk/nisr/2005/1/regulation/1), [2](https://www.legislation.gov.uk/nisr/2005/1/regulation/2)
+[^c-9b2c1dceeaa7e34a208615318c6bb6e0]: Textual amendment: Words in [Sch. 4 Pt. I](https://www.legislation.gov.uk/nisr/2000/169/schedule/4/part/I) substituted (31.3.2005) by [Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/1)](https://www.legislation.gov.uk/nisr/2005/1), [regs. 1](https://www.legislation.gov.uk/nisr/2005/1/regulation/1), [2](https://www.legislation.gov.uk/nisr/2005/1/regulation/2)
 
-[^key-de1e6b97831c66a911aa788e27cee577]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/4/paragraph/12) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-de1e6b97831c66a911aa788e27cee577]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/4/paragraph/12) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-ffcef1adce1048c4e0dcc884dda7a5b1]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/4/paragraph/13) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-ffcef1adce1048c4e0dcc884dda7a5b1]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/4/paragraph/13) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-b42a478eb73d534f9da8e7a9e480fa60]: Commencement: [Sch. 4 Pt. II para. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/4/part/II/paragraph/1) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-b42a478eb73d534f9da8e7a9e480fa60]: Commencement: [Sch. 4 Pt. II para. 1](https://www.legislation.gov.uk/nisr/2000/169/schedule/4/part/II/paragraph/1) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-de9a135f3c05a20d1f63a13a3b9a6f6b]: Commencement: [Sch. 4 Pt. II para. 2](https://www.legislation.gov.uk/nisr/2000/169/schedule/4/part/II/paragraph/2) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-de9a135f3c05a20d1f63a13a3b9a6f6b]: Commencement: [Sch. 4 Pt. II para. 2](https://www.legislation.gov.uk/nisr/2000/169/schedule/4/part/II/paragraph/2) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

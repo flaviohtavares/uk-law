@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104A. The United Kingdom’s financial intelligence unit[^key-b53bf72c91906698f02d5e4c80cde8c1]
+## 104A. The United Kingdom’s financial intelligence unit[^c-b53bf72c91906698f02d5e4c80cde8c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6A makes provision in relation to the NCA in its capacity as the United
 
 ## Annotations
 
-[^key-b53bf72c91906698f02d5e4c80cde8c1]: Textual amendment: Reg. 104A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/1511/regulation/10)
+[^c-b53bf72c91906698f02d5e4c80cde8c1]: Textual amendment: Reg. 104A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/1511/regulation/10)

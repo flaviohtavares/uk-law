@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Overseas entities: further information for transitional cases[^key-b2d5c255dac9ac305dc0796ec93e64e8]
+## 174. Overseas entities: further information for transitional cases[^c-b2d5c255dac9ac305dc0796ec93e64e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 (overseas entities: further information for transitional cases) amend
 
 ## Annotations
 
-[^key-b2d5c255dac9ac305dc0796ec93e64e8]: Commencement: S. 174 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b2d5c255dac9ac305dc0796ec93e64e8]: Commencement: S. 174 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Meaning of threat of material injury[^key-f8fc6963e46f555b5d08030a76b888e3]
+## 28. Meaning of threat of material injury[^c-f8fc6963e46f555b5d08030a76b888e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8fc6963e46f555b5d08030a76b888e3]: Commencement: Reg. 28 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-f8fc6963e46f555b5d08030a76b888e3]: Commencement: Reg. 28 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

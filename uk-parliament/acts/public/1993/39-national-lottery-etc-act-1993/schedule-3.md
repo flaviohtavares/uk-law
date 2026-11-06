@@ -36,13 +36,13 @@ was false in a material particular.
 
 **3.** (1) A proposal for a voluntary arrangement under Part I of the [^c1528752]Insolvency Act 1986 or Part II of the [^c1528753]Insolvency (Northern Ireland) Order 1989 has been made in relation to the licensee.
 
-(2) A petition [^key-1107c4c6788f55ff4b153ce34f685877]... for the winding up of the licensee has been presented to the court.
+(2) A petition [^c-1107c4c6788f55ff4b153ce34f685877]... for the winding up of the licensee has been presented to the court.
 
 (3) A resolution for the voluntary winding up of the licensee has been passed.
 
 (4) A receiver or manager of the whole or any part of the licensee’s property has been appointed.
 
-(5)[^key-6bd094b5d28fa323021d8e275376a12d] An administration application has been made or a notice of intention to appoint an administrator or a notice of an appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45) has been filed.
+(5)[^c-6bd094b5d28fa323021d8e275376a12d] An administration application has been made or a notice of intention to appoint an administrator or a notice of an appointment of an administrator under paragraph 14 or 22 of Schedule B1 to the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45) has been filed.
 
 **4.** In the case of a licence granted under section 5—
 
@@ -129,9 +129,9 @@ whichever is the later.
 
 [^c1528753]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
-[^key-1107c4c6788f55ff4b153ce34f685877]: Textual amendment: Words in Sch. 3 para. 3(2) omitted (15.9.2003) by virtue of [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 21(a)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/21/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+[^c-1107c4c6788f55ff4b153ce34f685877]: Textual amendment: Words in Sch. 3 para. 3(2) omitted (15.9.2003) by virtue of [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 21(a)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/21/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
 
-[^key-6bd094b5d28fa323021d8e275376a12d]: Textual amendment: Sch. 3 para. 3(5) inserted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 21(b)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/21/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
+[^c-6bd094b5d28fa323021d8e275376a12d]: Textual amendment: Sch. 3 para. 3(5) inserted (15.9.2003) by [The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096)](https://www.legislation.gov.uk/uksi/2003/2096), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2096/article/1/1), [Sch. para. 21(b)](https://www.legislation.gov.uk/uksi/2003/2096/schedule/paragraph/21/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/2096/article/6))
 
 [^c1528754]: Textual amendment: Word in Sch. 3 Pt. II para. 6(1)(c) repealed (2.9.1998) by [1998 c. 22](https://www.legislation.gov.uk/ukpga/1998/22), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/1998/22/section/4/2), [26](https://www.legislation.gov.uk/ukpga/1998/22/section/26), [27(5)](https://www.legislation.gov.uk/ukpga/1998/22/section/27/5), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1998/22/schedule/5/part/II).
 

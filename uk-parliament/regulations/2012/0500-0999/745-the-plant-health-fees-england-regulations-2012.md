@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health, England
 
-The Plant Health (Fees) (England) Regulations 2012 (revoked)[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+The Plant Health (Fees) (England) Regulations 2012 (revoked)[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 Made
 
@@ -46,67 +46,67 @@ Coming into force
 
 6th April 2012
 
-[^key-852f41f5a8d2ac9dc3f3138bd4512272]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-852f41f5a8d2ac9dc3f3138bd4512272]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application, commencement and interpretation[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+## 1. Title, application, commencement and interpretation[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Import inspection fees[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+## 2. Import inspection fees[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Seed potatoes: fees[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+## 3. Seed potatoes: fees[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Plant health licence fees[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+## 4. Plant health licence fees[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Plant passport authorisation fees[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+## 5. Plant passport authorisation fees[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Potatoes originating in Egypt: fees[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+## 6. Potatoes originating in Egypt: fees[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+## 7. Revocations[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-852f41f5a8d2ac9dc3f3138bd4512272]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-852f41f5a8d2ac9dc3f3138bd4512272]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Import Inspection Fees[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+## SCHEDULE 1 — Import Inspection Fees[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 Regulation 2(1)(a), (2)(a)(i) and (3)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Import Inspection Fees: Reduced Rates[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+## SCHEDULE 2 — Import Inspection Fees: Reduced Rates[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 Regulation 2(2)(a)(ii) and (3)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Import Inspection Fees: Documentary and Identity Checks[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+## SCHEDULE 3 — Import Inspection Fees: Documentary and Identity Checks[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 Regulation 2(2)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Seed Potatoes: Fees[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+## SCHEDULE 4 — Seed Potatoes: Fees[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 Regulation 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Plant Health Licence Fees[^key-852f41f5a8d2ac9dc3f3138bd4512272]
+## SCHEDULE 5 — Plant Health Licence Fees[^c-852f41f5a8d2ac9dc3f3138bd4512272]
 
 Regulation 4(2)
 
@@ -114,7 +114,7 @@ Regulation 4(2)
 
 **No longer in force.**
 
-[^key-852f41f5a8d2ac9dc3f3138bd4512272]EXPLANATORY NOTE
+[^c-852f41f5a8d2ac9dc3f3138bd4512272]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -144,4 +144,4 @@ The impact assessments are published with the Explanatory Memorandum alongside t
 
 ## Annotations
 
-[^key-852f41f5a8d2ac9dc3f3138bd4512272]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2012/745) revoked (6.4.2013) by [The Plant Health (Fees) (England) Regulations 2013 (S.I. 2013/494)](https://www.legislation.gov.uk/uksi/2013/494), [reg. 7](https://www.legislation.gov.uk/uksi/2013/494/regulation/7)
+[^c-852f41f5a8d2ac9dc3f3138bd4512272]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2012/745) revoked (6.4.2013) by [The Plant Health (Fees) (England) Regulations 2013 (S.I. 2013/494)](https://www.legislation.gov.uk/uksi/2013/494), [reg. 7](https://www.legislation.gov.uk/uksi/2013/494/regulation/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118A. Extradition following appeal: Scotland[^key-9f087c82a2a35aae1321f324a0e5b91d]
+## 118A. Extradition following appeal: Scotland[^c-9f087c82a2a35aae1321f324a0e5b91d]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ the decision in those proceedings becomes final when it is made.
 
 ## Annotations
 
-[^key-9f087c82a2a35aae1321f324a0e5b91d]: Textual amendment: S. 118A inserted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 27(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/27/2) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(8)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/8))
+[^c-9f087c82a2a35aae1321f324a0e5b91d]: Textual amendment: S. 118A inserted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 27(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/27/2) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(8)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/8))

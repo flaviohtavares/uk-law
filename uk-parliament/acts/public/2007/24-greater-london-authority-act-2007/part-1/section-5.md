@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Power to require attendance at Assembly meetings: time limits[^key-3b17ac10221c80d7ee49aa37ef36509e]
+## 5. Power to require attendance at Assembly meetings: time limits[^c-3b17ac10221c80d7ee49aa37ef36509e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b17ac10221c80d7ee49aa37ef36509e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2007/24/section/5) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-3b17ac10221c80d7ee49aa37ef36509e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2007/24/section/5) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)

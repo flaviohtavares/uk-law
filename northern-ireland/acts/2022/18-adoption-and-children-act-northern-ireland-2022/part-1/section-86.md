@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Declaration of special restrictions on adoptions from abroad[^key-dcd3651c6b24d09d65f7c546c84a4fa5]
+## 86. Declaration of special restrictions on adoptions from abroad[^c-dcd3651c6b24d09d65f7c546c84a4fa5]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcd3651c6b24d09d65f7c546c84a4fa5]: Commencement: S. 86 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-dcd3651c6b24d09d65f7c546c84a4fa5]: Commencement: S. 86 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

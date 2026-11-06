@@ -37,9 +37,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Part I — Powers of ECGD[^c932914]
 
-### 1. Arrangements for the support and development of supplies, etc[^c932915][^key-bccebe55909330eb39e6035605a9c00b]
+### 1. Arrangements for the support and development of supplies, etc[^c932915][^c-bccebe55909330eb39e6035605a9c00b]
 
-(1)[^key-5acf5070295f606e1ef312699ff9968e] The Secretary of State may make arrangements under this section which the Secretary of State considers are conducive to supporting or developing (whether directly or indirectly) supplies or potential supplies by persons carrying on business in the United Kingdom of goods, services or intangible assets (including intellectual property) to persons carrying on business outside the United Kingdom.
+(1)[^c-5acf5070295f606e1ef312699ff9968e] The Secretary of State may make arrangements under this section which the Secretary of State considers are conducive to supporting or developing (whether directly or indirectly) supplies or potential supplies by persons carrying on business in the United Kingdom of goods, services or intangible assets (including intellectual property) to persons carrying on business outside the United Kingdom.
 
 (2) The Secretary of State may make arrangements under this section for the purpose of rendering economic assistance to countries outside the United Kingdom.
 
@@ -50,7 +50,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) The arrangements that may be made under this section are arrangements for providing financial facilities or assistance for, or for the benefit of, persons carrying on business; and the facilities or assistance may be provided in any form, including guarantees, insurance, grants or loans.
 
-(5)[^key-5b418ae8b1180f7d44573c528144211b] The arrangements that may be made under this section also include the provision of advice or information.
+(5)[^c-5b418ae8b1180f7d44573c528144211b] The arrangements that may be made under this section also include the provision of advice or information.
 
 ### 2. Insurance in connection with overseas investment.[^c932916]
 
@@ -116,35 +116,35 @@ and may make such charges for doing so as he may determine.
 
 ### 6. Commitment limits.[^c932925]
 
-(1) The aggregate amount of the Secretary of State’s commitments at any time under arrangements relating to exports and insurance shall not exceed £160 billion[^key-78a7b389aa33628dc865acc1c4e78c96].
+(1) The aggregate amount of the Secretary of State’s commitments at any time under arrangements relating to exports and insurance shall not exceed £160 billion[^c-78a7b389aa33628dc865acc1c4e78c96].
 
 (2) In subsection (1) above, “**arrangements relating to exports and insurance**” means—
 
 - (a) arrangements under section 1 or 2 of this Act, other than arrangements for giving grants or arrangements under section 1(3), and
 - (b) arrangements under the old law, other than arrangements for giving grants.
 
-(3) The aggregate amount of the Secretary of State’s commitments at any time under section 3 of this Act shall not exceed 26,200 million special drawing rights[^key-044eec7678d438a941f769885b057992]
+(3) The aggregate amount of the Secretary of State’s commitments at any time under section 3 of this Act shall not exceed 26,200 million special drawing rights[^c-044eec7678d438a941f769885b057992]
 
 (4) The Secretary of State may by order increase or further increase—
 
-- (a) the limit[^key-52897c239d780687bda9529845d7c2e0] in subsection (1) above by a sum not exceeding £15 billion[^key-36e6fe5706fe5759d42502f07b67145f],
-- (b) the limit[^key-0c4278576e83fdcc6283f41eef981244] in subsection (3) above by a sum specified in the order not exceeding [^key-70dc085f1e5b09518412eab51b086713]... 2,000 million special drawing rights.
+- (a) the limit[^c-52897c239d780687bda9529845d7c2e0] in subsection (1) above by a sum not exceeding £15 billion[^c-36e6fe5706fe5759d42502f07b67145f],
+- (b) the limit[^c-0c4278576e83fdcc6283f41eef981244] in subsection (3) above by a sum specified in the order not exceeding [^c-70dc085f1e5b09518412eab51b086713]... 2,000 million special drawing rights.
 
-[^key-568b6b5111e048e868be499a9e17b235]...
+[^c-568b6b5111e048e868be499a9e17b235]...
 
-after the commencement of section 12 of the Small Business, Enterprise and Employment Act 2015[^key-b20a625ed51071cfe043682c714bc946]
+after the commencement of section 12 of the Small Business, Enterprise and Employment Act 2015[^c-b20a625ed51071cfe043682c714bc946]
 
-(4A)[^key-43a4858e8b6e162865c9cc26cccc4711] The Secretary of State must not in respect of the limit in subsection (3)[^key-1fdf60b0d5e77398aa274825477f2605] exercise the power to make an order on more than three occasions.
+(4A)[^c-43a4858e8b6e162865c9cc26cccc4711] The Secretary of State must not in respect of the limit in subsection (3)[^c-1fdf60b0d5e77398aa274825477f2605] exercise the power to make an order on more than three occasions.
 
 (5) For the purposes of this section and section 7 of this Act—
 
 - (a) the commitments of the Secretary of State under any arrangements are his rights and liabilities relating to the arrangements,
 - (b) the amount of any commitments shall be ascertained in accordance with principles determined from time to time by the Secretary of State with the consent of the Treasury,
-- (c)[^key-7e55b7663990aef0f20d599abc296020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7e55b7663990aef0f20d599abc296020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e) the equivalent in sterling or[^key-4316c9837efd7ee150e0b32f1fcf8ab7] special drawing rights of the amount of any commitments [^key-7c5d698809660aece785bd88dd65a3ad]... shall be ascertained at intervals determined from time to time by the Secretary of State with the consent of the Treasury and in accordance with principles so determined.
+- (c)[^c-7e55b7663990aef0f20d599abc296020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7e55b7663990aef0f20d599abc296020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the equivalent in sterling or[^c-4316c9837efd7ee150e0b32f1fcf8ab7] special drawing rights of the amount of any commitments [^c-7c5d698809660aece785bd88dd65a3ad]... shall be ascertained at intervals determined from time to time by the Secretary of State with the consent of the Treasury and in accordance with principles so determined.
 
-(6) A determination under subsection (5)(e) above may provide for leaving out of account for the purposes of the limit in subsection (1) or (3)[^key-bf25bc81fb48b7ef01d42ef38caccf98] above any amount by which the limit would otherwise be exceeded to the extent that the amount is attributable to—
+(6) A determination under subsection (5)(e) above may provide for leaving out of account for the purposes of the limit in subsection (1) or (3)[^c-bf25bc81fb48b7ef01d42ef38caccf98] above any amount by which the limit would otherwise be exceeded to the extent that the amount is attributable to—
 
 - (a) a revaluation of commitments under subsection (5)(e) above, or
 - (b) the fulfillment of an undertaking which, had it been fulfilled when given, would not have caused the limit to be exceeded.
@@ -155,11 +155,11 @@ after the commencement of section 12 of the Small Business, Enterprise and Emplo
 
 (1) The Secretary of State shall prepare an annual report on the discharge of his functions under sections 1 to 5 of this Act.
 
-(2) The Secretary of State shall prepare, as soon as practicable after 31st March in each year, a return showing separately the aggregate amounts of the commitments [^key-ebac68d6706bbc2ac4afeb3e7f923444]... on that date for the purposes of the limits in section 6(1) and (3) of this Act.
+(2) The Secretary of State shall prepare, as soon as practicable after 31st March in each year, a return showing separately the aggregate amounts of the commitments [^c-ebac68d6706bbc2ac4afeb3e7f923444]... on that date for the purposes of the limits in section 6(1) and (3) of this Act.
 
 (3) Any return under this section may also give such further information as to the amounts of his commitments for the purposes of those limits as the Secretary of State may determine for that return.
 
-(4)[^key-11959a63aa27802462d5e9ae5ec542e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-11959a63aa27802462d5e9ae5ec542e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Reports and returns prepared under this section shall be laid before Parliament.
 
@@ -189,7 +189,7 @@ after the commencement of section 12 of the Small Business, Enterprise and Emplo
 
 ### 9. Transferred staff.[^c932930]
 
-(1) No scheme under section 8 of this Act shall provide for the transfer of any rights or liabilities relating to a person’s employment, but the [^c932931]Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-a734763fe65d1b5e0a3abe3bc55cc435] shall apply to the transfer of property, rights or liabilities by virtue of such a scheme whether or not the transfer would, apart from this subsection, be a relevant transfer for the purposes of those regulations.
+(1) No scheme under section 8 of this Act shall provide for the transfer of any rights or liabilities relating to a person’s employment, but the [^c932931]Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-a734763fe65d1b5e0a3abe3bc55cc435] shall apply to the transfer of property, rights or liabilities by virtue of such a scheme whether or not the transfer would, apart from this subsection, be a relevant transfer for the purposes of those regulations.
 
 (2) Where, by reason of the operation of those regulations in relation to a transfer of property, rights or liabilities by virtue of such a scheme, a person ceases to be employed in the civil service of the State and becomes employed by a transferee—
 
@@ -252,7 +252,7 @@ after the commencement of section 12 of the Small Business, Enterprise and Emplo
 
 (3) The function of the Council shall be to give advice to the Secretary of State, at his request, in respect of any matter relating to the exercise of his functions under this Act.
 
-(4)[^key-61a8f452908ca71f082b8b56d7baceb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-61a8f452908ca71f082b8b56d7baceb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 14. Expenses.[^c932938]
 
@@ -272,7 +272,7 @@ after the commencement of section 12 of the Small Business, Enterprise and Emplo
 
 (5) Subsection (4) above does not affect any power exercisable by the Secretary of State in respect of arrangements made under the old law.
 
-(6)[^key-dc9382272912344854c783d71640adf2][^c932941] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-dc9382272912344854c783d71640adf2][^c932941] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE — Scheme of transfer: Supplementary provisions[^c932942]
 
@@ -308,11 +308,11 @@ shall be taken on and after that day to refer to the transferee.
 
 [^c932915]: Commencement: S. 1 wholly in force at 23.10.1991 see s. 15(6) and [S.I. 1991/2430](https://www.legislation.gov.uk/uksi/1991/2430) , [art. 2](https://www.legislation.gov.uk/uksi/1991/2430/article/2)
 
-[^key-bccebe55909330eb39e6035605a9c00b]: Textual amendment: S. 1 heading substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26) , [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/11/4) , [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-bccebe55909330eb39e6035605a9c00b]: Textual amendment: S. 1 heading substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26) , [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/11/4) , [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
-[^key-5acf5070295f606e1ef312699ff9968e]: Textual amendment: S. 1(1) substituted for s. 1(1) (1A) (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26) , [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/11/2) , [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-5acf5070295f606e1ef312699ff9968e]: Textual amendment: S. 1(1) substituted for s. 1(1) (1A) (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26) , [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/11/2) , [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
-[^key-5b418ae8b1180f7d44573c528144211b]: Textual amendment: S. 1(5) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26) , [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/11/3) , [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-5b418ae8b1180f7d44573c528144211b]: Textual amendment: S. 1(5) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26) , [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/11/3) , [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
 [^c932916]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/1991/67/section/2) wholly in force at 23.10.1991 see [s. 15(6)](https://www.legislation.gov.uk/ukpga/1991/67/section/15/6) and [S.I. 1991/2430](https://www.legislation.gov.uk/uksi/1991/2430), [art. 2](https://www.legislation.gov.uk/uksi/1991/2430/article/2)
 
@@ -324,39 +324,39 @@ shall be taken on and after that day to refer to the transferee.
 
 [^c932925]: Commencement: S. 6 wholly in force at 23.10.1991 see s. 15(6) and [S.I. 1991/2430](https://www.legislation.gov.uk/uksi/1991/2430), [art. 2](https://www.legislation.gov.uk/uksi/1991/2430/article/2)
 
-[^key-78a7b389aa33628dc865acc1c4e78c96]: Textual amendment: Sum in [S. 6(1)](https://www.legislation.gov.uk/ukpga/1991/67/section/6/1) substituted (18.5.2026) by [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2026/14/section/2/1/a), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
+[^c-78a7b389aa33628dc865acc1c4e78c96]: Textual amendment: Sum in [S. 6(1)](https://www.legislation.gov.uk/ukpga/1991/67/section/6/1) substituted (18.5.2026) by [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2026/14/section/2/1/a), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
 
-[^key-044eec7678d438a941f769885b057992]: Textual amendment: Words in s. 6(3) substituted for s. 6(3)(a)(b) (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/3), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-044eec7678d438a941f769885b057992]: Textual amendment: Words in s. 6(3) substituted for s. 6(3)(a)(b) (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/3), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
-[^key-52897c239d780687bda9529845d7c2e0]: Textual amendment: Words in s. 6(4)(a) substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/4/a/i), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-52897c239d780687bda9529845d7c2e0]: Textual amendment: Words in s. 6(4)(a) substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/4/a/i), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
-[^key-36e6fe5706fe5759d42502f07b67145f]: Textual amendment: Words in [s. 6(4)(a)](https://www.legislation.gov.uk/ukpga/1991/67/section/6/4/a) substituted (18.5.2026) by [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2026/14/section/2/1/b), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
+[^c-36e6fe5706fe5759d42502f07b67145f]: Textual amendment: Words in [s. 6(4)(a)](https://www.legislation.gov.uk/ukpga/1991/67/section/6/4/a) substituted (18.5.2026) by [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2026/14/section/2/1/b), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
 
-[^key-0c4278576e83fdcc6283f41eef981244]: Textual amendment: Words in s. 6(4)(b) substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/4/b/i), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-0c4278576e83fdcc6283f41eef981244]: Textual amendment: Words in s. 6(4)(b) substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/4/b/i), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
-[^key-70dc085f1e5b09518412eab51b086713]: Textual amendment: Words in s. 6(4)(b) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/4/b/ii), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-70dc085f1e5b09518412eab51b086713]: Textual amendment: Words in s. 6(4)(b) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/4/b/ii), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
-[^key-568b6b5111e048e868be499a9e17b235]: Textual amendment: Words in s. 6(4) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(4)(c)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/4/c), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-568b6b5111e048e868be499a9e17b235]: Textual amendment: Words in s. 6(4) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(4)(c)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/4/c), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
-[^key-b20a625ed51071cfe043682c714bc946]: Textual amendment: Words in s. 6(4) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(5)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/5), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-b20a625ed51071cfe043682c714bc946]: Textual amendment: Words in s. 6(4) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(5)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/5), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
-[^key-43a4858e8b6e162865c9cc26cccc4711]: Textual amendment: S. 6(4A) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(6)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/6), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-43a4858e8b6e162865c9cc26cccc4711]: Textual amendment: S. 6(4A) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(6)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/6), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
-[^key-1fdf60b0d5e77398aa274825477f2605]: Textual amendment: Words in [s. 6(4A)](https://www.legislation.gov.uk/ukpga/1991/67/section/6/4A) substituted (18.5.2026) by [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 2(1)(c)](https://www.legislation.gov.uk/ukpga/2026/14/section/2/1/c), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
+[^c-1fdf60b0d5e77398aa274825477f2605]: Textual amendment: Words in [s. 6(4A)](https://www.legislation.gov.uk/ukpga/1991/67/section/6/4A) substituted (18.5.2026) by [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 2(1)(c)](https://www.legislation.gov.uk/ukpga/2026/14/section/2/1/c), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
 
-[^key-7e55b7663990aef0f20d599abc296020]: Textual amendment: S. 6(5)(c)(d) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(7)(a)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/7/a), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-7e55b7663990aef0f20d599abc296020]: Textual amendment: S. 6(5)(c)(d) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(7)(a)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/7/a), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
-[^key-4316c9837efd7ee150e0b32f1fcf8ab7]: Textual amendment: Words in [s. 6(5)(e)](https://www.legislation.gov.uk/ukpga/1991/67/section/6/5/e) inserted (18.5.2026) by [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 2(1)(d)](https://www.legislation.gov.uk/ukpga/2026/14/section/2/1/d), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
+[^c-4316c9837efd7ee150e0b32f1fcf8ab7]: Textual amendment: Words in [s. 6(5)(e)](https://www.legislation.gov.uk/ukpga/1991/67/section/6/5/e) inserted (18.5.2026) by [Industry and Exports (Financial Assistance) Act 2026 (c. 14)](https://www.legislation.gov.uk/ukpga/2026/14), [ss. 2(1)(d)](https://www.legislation.gov.uk/ukpga/2026/14/section/2/1/d), [3(2)](https://www.legislation.gov.uk/ukpga/2026/14/section/3/2)
 
-[^key-7c5d698809660aece785bd88dd65a3ad]: Textual amendment: Words in s. 6(5)(e) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(7)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/7/b), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-7c5d698809660aece785bd88dd65a3ad]: Textual amendment: Words in s. 6(5)(e) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(7)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/7/b), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
-[^key-bf25bc81fb48b7ef01d42ef38caccf98]: Textual amendment: Words in s. 6(6) substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/8), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-bf25bc81fb48b7ef01d42ef38caccf98]: Textual amendment: Words in s. 6(6) substituted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/8), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
 [^c932927]: Commencement: S. 7 wholly in force at 23.10.1991 see s. 15(6) and [S.I. 1991/2430](https://www.legislation.gov.uk/uksi/1991/2430), [art. 2](https://www.legislation.gov.uk/uksi/1991/2430/article/2)
 
-[^key-ebac68d6706bbc2ac4afeb3e7f923444]: Textual amendment: Words in s. 7(2) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(9)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/9), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-ebac68d6706bbc2ac4afeb3e7f923444]: Textual amendment: Words in s. 7(2) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(9)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/9), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
-[^key-11959a63aa27802462d5e9ae5ec542e3]: Textual amendment: S. 7(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-11959a63aa27802462d5e9ae5ec542e3]: Textual amendment: S. 7(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c932928]: Commencement: Part II wholly in force at 23.10.1991 see [s. 15(6)](https://www.legislation.gov.uk/ukpga/1991/67/section/15/6) and [S.I. 1991/2430](https://www.legislation.gov.uk/uksi/1991/2430) art. 2
 
@@ -366,7 +366,7 @@ shall be taken on and after that day to refer to the transferee.
 
 [^c932931]: Marginal citation: [S.I. 1981/1794](https://www.legislation.gov.uk/uksi/1981/1794).
 
-[^key-a734763fe65d1b5e0a3abe3bc55cc435]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/1991/67/section/9/1) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(d)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/d)
+[^c-a734763fe65d1b5e0a3abe3bc55cc435]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/1991/67/section/9/1) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(d)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/d)
 
 [^c932932]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
@@ -380,7 +380,7 @@ shall be taken on and after that day to refer to the transferee.
 
 [^c932937]: Commencement: S. 13 wholly in force at 23.10.1991 see s. 15(6) and [S.I. 1991/2430](https://www.legislation.gov.uk/uksi/1991/2430), [art. 2](https://www.legislation.gov.uk/uksi/1991/2430/article/2)
 
-[^key-61a8f452908ca71f082b8b56d7baceb3]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/ukpga/1991/67/section/13/4) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(10)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/10), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
+[^c-61a8f452908ca71f082b8b56d7baceb3]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/ukpga/1991/67/section/13/4) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 12(10)](https://www.legislation.gov.uk/ukpga/2015/26/section/12/10), [164(3)(a)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/a/iv)
 
 [^c932938]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/1991/67/section/14) wholly in force at 23.10.1991 see [s. 15(6)](https://www.legislation.gov.uk/ukpga/1991/67/section/15/6) and [S.I. 1991/2430](https://www.legislation.gov.uk/uksi/1991/2430), [art. 2](https://www.legislation.gov.uk/uksi/1991/2430/article/2)
 
@@ -388,7 +388,7 @@ shall be taken on and after that day to refer to the transferee.
 
 [^c932940]: Marginal citation: [1978 c. 18](https://www.legislation.gov.uk/ukpga/1978/18).
 
-[^key-dc9382272912344854c783d71640adf2]: Textual amendment: [S. 15(6)](https://www.legislation.gov.uk/ukpga/1991/67/section/15/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-dc9382272912344854c783d71640adf2]: Textual amendment: [S. 15(6)](https://www.legislation.gov.uk/ukpga/1991/67/section/15/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c932941]: Subordinate legislation: S. 15(6) power exercised by [S.I.1991/2430](https://www.legislation.gov.uk/uksi/1991/2430)
 

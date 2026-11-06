@@ -40,7 +40,7 @@ summary: ''
 (6) Where any such condition precedent is not fulfilled, or the party preparing the draft case does not submit it to \[[^f00293] the judge\] for approval and settlement, within the time fixed by the enactment or by these Rules or such longer time as \[[^f00293] the judge\] may allow, the application shall be deemed to be withdrawn and thereupon, if the case was stated—
 
 - (a) after the determination of the proceedings, that determination shall stand affirmed;
-- (b) before the determination of the proceedings, the proceedings, shall stand adjourned until the next succeeding sittings [^key-1e949097201a11cb3d400f9e38df9d1d]....
+- (b) before the determination of the proceedings, the proceedings, shall stand adjourned until the next succeeding sittings [^c-1e949097201a11cb3d400f9e38df9d1d]....
 
 (7) Where the party to whom a draft case states has been submitted under Rule 5(5) makes default in complying with that Rule, the party having carriage may proceed in accordance with paragraph (1).
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^f00293]: Footnote: Words amended by [S.R. 2013 No. 19](https://www.legislation.gov.uk/nisr/2013/19) with effect from 25.2.13
 
-[^key-1e949097201a11cb3d400f9e38df9d1d]: Textual amendment: Words in Order 32 rule 6(6) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-1e949097201a11cb3d400f9e38df9d1d]: Textual amendment: Words in Order 32 rule 6(6) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.21. Location of meetings[^key-4e07dcefb0f5fb22f787507fe35de19f]
+## 3.21. Location of meetings[^c-4e07dcefb0f5fb22f787507fe35de19f]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ and the notices required by sub-paragraphs (a) to (c) may be delivered at the sa
 
 ## Annotations
 
-[^key-4e07dcefb0f5fb22f787507fe35de19f]: Commencement: Rule 3.21 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-4e07dcefb0f5fb22f787507fe35de19f]: Commencement: Rule 3.21 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 98. General[^key-8854e7ac4f65b16865a84623bccacabf]
+## 98. General[^c-8854e7ac4f65b16865a84623bccacabf]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8854e7ac4f65b16865a84623bccacabf]: Commencement: [Reg. 98](https://www.legislation.gov.uk/nisr/2007/195/regulation/98) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-8854e7ac4f65b16865a84623bccacabf]: Commencement: [Reg. 98](https://www.legislation.gov.uk/nisr/2007/195/regulation/98) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

@@ -37,7 +37,7 @@ but this is subject to subsection (6) below.
 
 (6) If it is so specified in the declaration, he is entitled to be discharged at the end of three months’ notice given by him to his commanding officer.
 
-(7) In subsections (3) to (5)—[^key-788cc932b4e9ecb17e4da02ec5e2dba1]
+(7) In subsections (3) to (5)—[^c-788cc932b4e9ecb17e4da02ec5e2dba1]
 
 - “**the competent air force authority**” means the Defence Council or any officer of a description prescribed by regulations of the Defence Council;
 - “**prescribed**” means prescribed by regulations of the Defence Council.
@@ -56,4 +56,4 @@ but this is subject to subsection (6) below.
 
 [^c11525031]: Textual amendment: S. 21A inserted (1.1.1999) by [S.I. 1998/3086](https://www.legislation.gov.uk/uksi/1998/3086), [reg. 11](https://www.legislation.gov.uk/uksi/1998/3086/regulation/11), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/1998/3086/schedule/paragraph/7/2)
 
-[^key-788cc932b4e9ecb17e4da02ec5e2dba1]: Textual amendment: S. 21A(7) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/7); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-788cc932b4e9ecb17e4da02ec5e2dba1]: Textual amendment: S. 21A(7) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/7); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

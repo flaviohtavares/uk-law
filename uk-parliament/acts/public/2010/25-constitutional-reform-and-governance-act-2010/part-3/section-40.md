@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Parliamentary and other pensions[^key-d7d5c13af89fb63ab5276f010bd8f3ba][^key-7a32450ef598627e0431f88caff8160a]
+## 40. Parliamentary and other pensions[^c-d7d5c13af89fb63ab5276f010bd8f3ba][^c-7a32450ef598627e0431f88caff8160a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 6 (which makes provision about pensions for members of the House of Com
 
 ## Annotations
 
-[^key-d7d5c13af89fb63ab5276f010bd8f3ba]: Commencement: S. 40 in force at 24.10.2011 for specified purposes by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/a)
+[^c-d7d5c13af89fb63ab5276f010bd8f3ba]: Commencement: S. 40 in force at 24.10.2011 for specified purposes by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/a)
 
-[^key-7a32450ef598627e0431f88caff8160a]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2010/25/section/40) in force at 1.11.2013 in so far as not already in force by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+[^c-7a32450ef598627e0431f88caff8160a]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2010/25/section/40) in force at 1.11.2013 in so far as not already in force by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))

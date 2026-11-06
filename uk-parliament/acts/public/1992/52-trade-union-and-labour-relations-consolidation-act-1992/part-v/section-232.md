@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A trade union which has overseas members may choose whether or not to accord any of those members entitlement to vote in a ballot; and nothing in sections 226ZA, 226B to 230H, 231B and 232B[^key-f08531bc534dbe95b77fad12f013261e] applies in relation to an overseas member or a vote cast by such a member.
+(1) A trade union which has overseas members may choose whether or not to accord any of those members entitlement to vote in a ballot; and nothing in sections 226ZA, 226B to 230H, 231B and 232B[^c-f08531bc534dbe95b77fad12f013261e] applies in relation to an overseas member or a vote cast by such a member.
 
 (2)[^c14520681] Where overseas members have voted in the ballot—
 
@@ -45,6 +45,6 @@ For this purpose—
 
 [^c14520661]: Modification: S. 232 applied (14.8.2000) by [S.I. 2000/1828](https://www.legislation.gov.uk/uksi/2000/1828), [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2000/1828/article/2/5/c)
 
-[^key-f08531bc534dbe95b77fad12f013261e]: Textual amendment: Words in s. 232(1) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(14)](https://www.legislation.gov.uk/uksi/2026/881/article/7/14) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-f08531bc534dbe95b77fad12f013261e]: Textual amendment: Words in s. 232(1) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(14)](https://www.legislation.gov.uk/uksi/2026/881/article/7/14) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
 [^c14520681]: Textual amendment: S. 232(2) substituted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/2), [Sch. 8 para. 74(b)](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/74/b); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)

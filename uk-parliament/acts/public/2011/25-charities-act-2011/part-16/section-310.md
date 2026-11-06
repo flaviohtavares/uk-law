@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 310. Pre-merger vesting declarations[^key-00f4ab84906de3ec5290490583a7c1d6]
+## 310. Pre-merger vesting declarations[^c-00f4ab84906de3ec5290490583a7c1d6]
 
 *Extent: E+W*
 
@@ -32,8 +32,8 @@ This is subject to subsections (3) and (4).
 
 (3) Subsection (2) does not apply to—
 
-- (a)[^key-d13395e962f75f3ab7bc73bc4ab6f17f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-41706b196519b36cd25b569068290bd1] any land held by the transferor under a lease or agreement if, had the transferor assigned its interest in the land on the specified date to the transferee, that assignment would have given rise to—
+- (a)[^c-d13395e962f75f3ab7bc73bc4ab6f17f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-41706b196519b36cd25b569068290bd1] any land held by the transferor under a lease or agreement if, had the transferor assigned its interest in the land on the specified date to the transferee, that assignment would have given rise to—
   - (i) an actionable breach of covenant or condition against alienation, or
   - (ii) a forfeiture, or
 - (c) any shares, stock, annuity or other property which is only transferable in books kept by a company or other body or in a manner directed by or under any enactment.
@@ -42,8 +42,8 @@ This is subject to subsections (3) and (4).
 
 ## Annotations
 
-[^key-00f4ab84906de3ec5290490583a7c1d6]: Modification: S. 310 applied (with modifications) (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [61](https://www.legislation.gov.uk/uksi/2012/3012/regulation/61)
+[^c-00f4ab84906de3ec5290490583a7c1d6]: Modification: S. 310 applied (with modifications) (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [61](https://www.legislation.gov.uk/uksi/2012/3012/regulation/61)
 
-[^key-d13395e962f75f3ab7bc73bc4ab6f17f]: Textual amendment: S. 310(3)(a) and word omitted (7.3.2024) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 34(a)](https://www.legislation.gov.uk/ukpga/2022/6/section/34/a), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/9)
+[^c-d13395e962f75f3ab7bc73bc4ab6f17f]: Textual amendment: S. 310(3)(a) and word omitted (7.3.2024) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 34(a)](https://www.legislation.gov.uk/ukpga/2022/6/section/34/a), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/9)
 
-[^key-41706b196519b36cd25b569068290bd1]: Textual amendment: S. 310(3)(b) substituted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 34(b)](https://www.legislation.gov.uk/ukpga/2022/6/section/34/b), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/9)
+[^c-41706b196519b36cd25b569068290bd1]: Textual amendment: S. 310(3)(b) substituted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 34(b)](https://www.legislation.gov.uk/ukpga/2022/6/section/34/b), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Powers in relation to watercourses[^key-ea7b7304ac695aef02003036140197bd]
+## 20. Powers in relation to watercourses[^c-ea7b7304ac695aef02003036140197bd]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ in such manner and to such extent as may appear to it to be necessary or conveni
 
 ## Annotations
 
-[^key-ea7b7304ac695aef02003036140197bd]: Commencement: Art. 20 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-ea7b7304ac695aef02003036140197bd]: Commencement: Art. 20 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)

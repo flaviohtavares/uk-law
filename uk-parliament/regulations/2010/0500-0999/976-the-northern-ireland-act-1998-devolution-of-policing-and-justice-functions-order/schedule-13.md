@@ -22,14 +22,14 @@ summary: ''
 
 Article 11
 
-**1.**[^key-50c362297ba22f7ab3b493394e8167fe] Amend the Justice (Northern Ireland) Act 2002[^f00284] as follows.
+**1.**[^c-50c362297ba22f7ab3b493394e8167fe] Amend the Justice (Northern Ireland) Act 2002[^f00284] as follows.
 
-**2.**[^key-7cbee2daeed28da766729055e2d08f3a] In section 29 (Public Prosecution Service)—
+**2.**[^c-7cbee2daeed28da766729055e2d08f3a] In section 29 (Public Prosecution Service)—
 
 - (a) in subsection (3) for “by the Secretary of State” substitute “out of money appropriated for that purpose by Act of the Northern Ireland Assembly”; and
 - (b) in subsection (4) for “Secretary of State” substitute “Department of Finance and Personnel”.
 
-**3.**[^key-bd86f9ac1a3711ec4de75110c8ea6288] For section 30(9) (Director of Public Prosecutions: payment of salary etc.) substitute—
+**3.**[^c-bd86f9ac1a3711ec4de75110c8ea6288] For section 30(9) (Director of Public Prosecutions: payment of salary etc.) substitute—
 
 > (9) There is to be paid (out of money appropriated as mentioned in section 29(3)) to or in respect of the Director, the Deputy Director and any person appointed to act as Deputy Director any such—
 >
@@ -39,17 +39,17 @@ Article 11
 >
 > as the Department of Finance and Personnel may determine.
 
-**4.**[^key-04133261ab66926344cc3534a30d125e] (1) Amend section 45 (Chief Inspector of Criminal Justice) as follows.
+**4.**[^c-04133261ab66926344cc3534a30d125e] (1) Amend section 45 (Chief Inspector of Criminal Justice) as follows.
 
 (2) In subsection (2) for “Secretary of State” substitute “Department of Justice”.
 
-**5.**[^key-09093fe584cf3d7e14637f97956ed566] (1) Amend section 46[^f00285] (functions of Chief Inspector of Criminal Justice) as follows.
+**5.**[^c-09093fe584cf3d7e14637f97956ed566] (1) Amend section 46[^f00285] (functions of Chief Inspector of Criminal Justice) as follows.
 
 (2) In subsection (1)(h) for “Secretary of State” substitute “Department of Justice”.
 
 (3) In subsection (6) for “Secretary of State” substitute “Department of Justice”.
 
-**6.**[^key-83679d7baeeb5df8b60d633081e2d368] (1) Amend section 47[^f00286] (further provisions about functions of Chief Inspector of Criminal Justice) as follows.
+**6.**[^c-83679d7baeeb5df8b60d633081e2d368] (1) Amend section 47[^f00286] (further provisions about functions of Chief Inspector of Criminal Justice) as follows.
 
 (2) In subsection (1) for “Secretary of State” substitute “Department of Justice”.
 
@@ -68,7 +68,7 @@ Article 11
 
 (5) In subsections (3), (4), (5) and (7) for “Secretary of State” substitute “Department of Justice”.
 
-**7.**[^key-7b73fbe4e18c608661ebe4c8638061aa] (1) Amend section 49[^f00287] (reports by Chief Inspector of Criminal Justice) as follows.
+**7.**[^c-7b73fbe4e18c608661ebe4c8638061aa] (1) Amend section 49[^f00287] (reports by Chief Inspector of Criminal Justice) as follows.
 
 (2) For subsections (1) to (4) substitute—
 
@@ -128,11 +128,11 @@ Article 11
 >
 > (1L) Section 41(3) of the Interpretation Act (Northern Ireland) 1954[^f00288] applies for the purposes of subsections (1I) and (1K) in relation to the laying of a copy of a report or a statement as it applies in relation to the laying of a statutory document under an enactment.
 
-**8.**[^key-e5967cbfa23ccd2eb62143fe40a698a7] (1) Amend section 50 (Northern Ireland Law Commission) as follows.
+**8.**[^c-e5967cbfa23ccd2eb62143fe40a698a7] (1) Amend section 50 (Northern Ireland Law Commission) as follows.
 
 (2) In subsections (2), (4)(a), (b) and (c), (5) and (6) for “Secretary of State” substitute “Department of Justice”.
 
-**9.**[^key-63eac3a636a7ba3c21a7ac3d8f545309] (1) Amend section 51 (duties of Northern Ireland Law Commission) as follows.
+**9.**[^c-63eac3a636a7ba3c21a7ac3d8f545309] (1) Amend section 51 (duties of Northern Ireland Law Commission) as follows.
 
 (2) In subsection (2)—
 
@@ -161,7 +161,7 @@ Article 11
 >
 > (3B) For the purposes of subsection (3A) “reserved matter” and “excepted matter” have the meanings given by section 4 of the Northern Ireland Act 1998[^f00289].
 
-**10.**[^key-afc08bea6f125bda93b890ef5da55071] For section 52 (reports etc. by Northern Ireland Law Commission) substitute—
+**10.**[^c-afc08bea6f125bda93b890ef5da55071] For section 52 (reports etc. by Northern Ireland Law Commission) substitute—
 
 > **52. Reports etc.**
 >
@@ -194,17 +194,17 @@ Article 11
 >
 > (7) Section 41(3) of the Interpretation Act (Northern Ireland) 1954[^f00290] applies for the purposes of subsection (2) in relation to the laying of a copy of a document as it applies in relation to the laying of a statutory document under an enactment.
 
-**11.**[^key-ac9c5a8476a0184721362f00962d1140] (1) Amend section 56 (custody care orders) as follows.
+**11.**[^c-ac9c5a8476a0184721362f00962d1140] (1) Amend section 56 (custody care orders) as follows.
 
 (2) In the inserted Articles 44A to 44G for “Secretary of State” (wherever occurring) substitute “Department of Justice”.
 
 (3) In the inserted Article 44E(5) for the words from “annulment” to “such rules” substitute “negative resolution”.
 
-**12.**[^key-13970a49be7dfe3ccde04c0132cd46c1] (1) Amend section 63 (extension of youth justice system to 17 year olds) as follows.
+**12.**[^c-13970a49be7dfe3ccde04c0132cd46c1] (1) Amend section 63 (extension of youth justice system to 17 year olds) as follows.
 
 (2) In subsection (2) for “Secretary of State” substitute “Department of Justice”.
 
-**13.**[^key-94b9e23ad06164dc90ff1af7ced96a30] (1) Amend section 68 (information about discharge and temporary release of prisoners) as follows.
+**13.**[^c-94b9e23ad06164dc90ff1af7ced96a30] (1) Amend section 68 (information about discharge and temporary release of prisoners) as follows.
 
 (2) In subsections (1), (2), (4), (5) and (6) for “Secretary of State” substitute “Department of Justice”.
 
@@ -214,13 +214,13 @@ Article 11
 - (b) in paragraph (a) for “he” substitute “the Department of Justice”;
 - (c) in paragraph (b) for “he” substitute “the Department of Justice”.
 
-**14.**[^key-e0532698c883647051febb921c8558e8] (1) Amend section 69 (views on temporary release) as follows.
+**14.**[^c-e0532698c883647051febb921c8558e8] (1) Amend section 69 (views on temporary release) as follows.
 
 (2) In subsection (1) for “Secretary of State” (in both places) substitute “Department of Justice”.
 
 (3) In subsection (3) for “Secretary of State” substitute “Department of Justice”.
 
-**15.**[^key-f22b1d9710ad6af4e79f8477569274bd] (1) Amend section 69A[^f00291] (information about discharge and leave of absence of mentally disordered persons) as follows.
+**15.**[^c-f22b1d9710ad6af4e79f8477569274bd] (1) Amend section 69A[^f00291] (information about discharge and leave of absence of mentally disordered persons) as follows.
 
 (2) In subsections (1), (4) and (6) for “Secretary of State” (in all places) substitute “Department of Justice”.
 
@@ -231,7 +231,7 @@ Article 11
 
 (4) In subsection (11) for “Secretary of State” substitute “Department of Justice”.
 
-**16.**[^key-57c0476f834fb32c6b6411122cd16170] (1) Amend section 69B[^f00292] (views on leave of absence) as follows.
+**16.**[^c-57c0476f834fb32c6b6411122cd16170] (1) Amend section 69B[^f00292] (views on leave of absence) as follows.
 
 (2) In subsection (1) for “Secretary of State” (in both places) substitute “Department of Justice”.
 
@@ -240,9 +240,9 @@ Article 11
 - (a) for “Secretary of State” substitute “Department of Justice”;
 - (b) for “he should give his” substitute “the Department should give its”.
 
-**17.**[^key-0c34a0f645e20df5f011f3ce68213ac7] In section 70(1)(a) (victims of crime: supplementary) omit “of the Secretary of State”.
+**17.**[^c-0c34a0f645e20df5f011f3ce68213ac7] In section 70(1)(a) (victims of crime: supplementary) omit “of the Secretary of State”.
 
-**18.**[^key-6deaf582bd37a2c61ba1745f27e43507] (1) Amend section 71 (community safety strategy) as follows.
+**18.**[^c-6deaf582bd37a2c61ba1745f27e43507] (1) Amend section 71 (community safety strategy) as follows.
 
 (2) In subsections (1), (3) and (4) for “Secretary of State” substitute “Department of Justice”.
 
@@ -252,7 +252,7 @@ Article 11
 - (b) for “him” substitute “the Department”;
 - (c) for “he” substitute “the Department”.
 
-**19.**[^key-c2ee80394c5434284f0721fc4e689e25] (1) Amend section 72 (local community safety partnerships) as follows.
+**19.**[^c-c2ee80394c5434284f0721fc4e689e25] (1) Amend section 72 (local community safety partnerships) as follows.
 
 (2) In subsections (1), (2) and (3) for “Secretary of State” substitute “Department of Justice”.
 
@@ -265,22 +265,22 @@ Article 11
 
 (4) In subsections (6), (7), (8), (9) and (10) for “Secretary of State” substitute “Department of Justice”.
 
-**20.**[^key-ae1649f6fe1318e5b12482876e2d3400] (1) Amend section 85 (youth justice: minor and consequential amendments) as follows.
+**20.**[^c-ae1649f6fe1318e5b12482876e2d3400] (1) Amend section 85 (youth justice: minor and consequential amendments) as follows.
 
 (2) In subsection (2)—
 
 - (a) for “Secretary of State” substitute “Department of Justice”;
 - (b) for “him” substitute “the Department of Justice”.
 
-**21.**[^key-b3207e9e5fafee3c5211167d345e4e2f] (1) Amend section 87 (commencement) as follows.
+**21.**[^c-b3207e9e5fafee3c5211167d345e4e2f] (1) Amend section 87 (commencement) as follows.
 
 (2) In subsection (1) after “Secretary of State” insert “or the Department of Justice”.
 
-**22.**[^key-a2cc54da23c6a2bf51ef84bb18473f19] (1) Amend section 89 (transitionals and savings) as follows.
+**22.**[^c-a2cc54da23c6a2bf51ef84bb18473f19] (1) Amend section 89 (transitionals and savings) as follows.
 
 (2) In subsection (1) after “Secretary of State” insert “or the Department of Justice”.
 
-**23.**[^key-b01ac010627b5e195185fae92102f04d] In section 90[^f00293] (statutory rules) (as amended by the Northern Ireland Act 2009[^f00294] and the Department of Justice Act (Northern Ireland) 2010[^f00295])—
+**23.**[^c-b01ac010627b5e195185fae92102f04d] In section 90[^f00293] (statutory rules) (as amended by the Northern Ireland Act 2009[^f00294] and the Department of Justice Act (Northern Ireland) 2010[^f00295])—
 
 - (a) for subsection (1A) substitute—
 
@@ -297,7 +297,7 @@ Article 11
 
   > (6) An order under section 28(2) shall be subject to annulment in pursuance of a resolution of either House of Parliament in the same manner as a statutory instrument; and section 5 of the Statutory Instruments Act 1946[^f00298] applies accordingly.
 
-**24.**[^key-6b7b8016dd07e311a7c155d129e1105e] (1) Amend Schedule 8 (Chief Inspector of Criminal Justice) as follows.
+**24.**[^c-6b7b8016dd07e311a7c155d129e1105e] (1) Amend Schedule 8 (Chief Inspector of Criminal Justice) as follows.
 
 (2) In paragraph 1(3) and (4) (resignation and dismissal of Chief Inspector) for “Secretary of State” substitute “Department of Justice”.
 
@@ -393,7 +393,7 @@ Article 11
 - (a) for “Secretary of State” substitute “Department of Justice”;
 - (b) for “his” substitute “the Department’s”.
 
-**25.**[^key-fcbd535d27c3b7118b672dfe5aa9d91d] (1) Amend Schedule 9 (Northern Ireland Law Commission) as follows.
+**25.**[^c-fcbd535d27c3b7118b672dfe5aa9d91d] (1) Amend Schedule 9 (Northern Ireland Law Commission) as follows.
 
 (2) In paragraph 1(3) and (4) (resignation and dismissal of Commissioners) for “Secretary of State” substitute “Department of Justice”.
 
@@ -436,7 +436,7 @@ Article 11
 
   > (4A) Section 41(3) of the Interpretation Act (Northern Ireland) 1954[^f00304] applies for the purposes of sub-paragraph (4)(b) in relation to the laying of a copy of a statement or report as it applies in relation to the laying of a statutory document under an enactment.
 
-**26.**[^key-9b142d45909c89c5d58a0a53d7ded02c] (1) Paragraphs 24(3)(c) and (4)(c) and 25(3)(c) and (4)(c) above do not affect the position of any person under the Superannuation Act 1972 in relation to the person’s employment by the Chief Inspector or the Commission, or the person’s service as the Chief Inspector or a Commissioner, before the coming into force of this Order.
+**26.**[^c-9b142d45909c89c5d58a0a53d7ded02c] (1) Paragraphs 24(3)(c) and (4)(c) and 25(3)(c) and (4)(c) above do not affect the position of any person under the Superannuation Act 1972 in relation to the person’s employment by the Chief Inspector or the Commission, or the person’s service as the Chief Inspector or a Commissioner, before the coming into force of this Order.
 
 (2) The Chief Inspector and the Commission must, accordingly, continue to make payments to the Minister for the Civil Service under the following provisions despite their repeal by the provisions mentioned in sub-paragraph (1) above—
 
@@ -459,73 +459,73 @@ Article 11
 
 includes, in particular, expenditure attributable to sub-paragraph (5) above.
 
-**27.**[^key-c14ce9574626df0e1ce1618def2a1b2d] Neither paragraph 24(7) nor paragraph 25(6) above applies in relation to a financial year ending before the coming into force of this Order.
+**27.**[^c-c14ce9574626df0e1ce1618def2a1b2d] Neither paragraph 24(7) nor paragraph 25(6) above applies in relation to a financial year ending before the coming into force of this Order.
 
 ## Annotations
 
-[^key-50c362297ba22f7ab3b493394e8167fe]: Commencement: Sch. 13 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-50c362297ba22f7ab3b493394e8167fe]: Commencement: Sch. 13 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00284]: Footnote: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26).
 
-[^key-7cbee2daeed28da766729055e2d08f3a]: Commencement: Sch. 13 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-7cbee2daeed28da766729055e2d08f3a]: Commencement: Sch. 13 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-bd86f9ac1a3711ec4de75110c8ea6288]: Commencement: Sch. 13 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-bd86f9ac1a3711ec4de75110c8ea6288]: Commencement: Sch. 13 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-04133261ab66926344cc3534a30d125e]: Commencement: Sch. 13 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-04133261ab66926344cc3534a30d125e]: Commencement: Sch. 13 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-09093fe584cf3d7e14637f97956ed566]: Commencement: Sch. 13 para. 5 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-09093fe584cf3d7e14637f97956ed566]: Commencement: Sch. 13 para. 5 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00285]: Footnote: Section 46(1) was amended by [S.R. (N.I.) 2003 No. 552](https://www.legislation.gov.uk/nisr/2003/552); section 9(1) and (3) of, and Schedule 4 to, the Justice (Northern Ireland) Act [2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4); section 45 of the Justice and Security (Northern Ireland) Act [2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6); [S.I. 2008/1216 (N.I. 11)](https://www.legislation.gov.uk/nisi/2008/1216).
 
-[^key-83679d7baeeb5df8b60d633081e2d368]: Commencement: Sch. 13 para. 6 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-83679d7baeeb5df8b60d633081e2d368]: Commencement: Sch. 13 para. 6 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00286]: Footnote: Section 47 was amended by section 45 of the Justice and Security (Northern Ireland) Act [2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6).
 
-[^key-7b73fbe4e18c608661ebe4c8638061aa]: Commencement: Sch. 13 para. 7 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-7b73fbe4e18c608661ebe4c8638061aa]: Commencement: Sch. 13 para. 7 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00287]: Footnote: Section 49 was amended by section 45 of the Justice and Security (Northern Ireland) Act [2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6).
 
 [^f00288]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-e5967cbfa23ccd2eb62143fe40a698a7]: Commencement: Sch. 13 para. 8 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e5967cbfa23ccd2eb62143fe40a698a7]: Commencement: Sch. 13 para. 8 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-63eac3a636a7ba3c21a7ac3d8f545309]: Commencement: Sch. 13 para. 9 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-63eac3a636a7ba3c21a7ac3d8f545309]: Commencement: Sch. 13 para. 9 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00289]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-afc08bea6f125bda93b890ef5da55071]: Commencement: Sch. 13 para. 10 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-afc08bea6f125bda93b890ef5da55071]: Commencement: Sch. 13 para. 10 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00290]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-ac9c5a8476a0184721362f00962d1140]: Commencement: Sch. 13 para. 11 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-ac9c5a8476a0184721362f00962d1140]: Commencement: Sch. 13 para. 11 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-13970a49be7dfe3ccde04c0132cd46c1]: Commencement: Sch. 13 para. 12 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-13970a49be7dfe3ccde04c0132cd46c1]: Commencement: Sch. 13 para. 12 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-94b9e23ad06164dc90ff1af7ced96a30]: Commencement: Sch. 13 para. 13 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-94b9e23ad06164dc90ff1af7ced96a30]: Commencement: Sch. 13 para. 13 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-e0532698c883647051febb921c8558e8]: Commencement: Sch. 13 para. 14 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e0532698c883647051febb921c8558e8]: Commencement: Sch. 13 para. 14 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-f22b1d9710ad6af4e79f8477569274bd]: Commencement: Sch. 13 para. 15 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-f22b1d9710ad6af4e79f8477569274bd]: Commencement: Sch. 13 para. 15 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00291]: Footnote: Section 69A was inserted by section 46 of the Domestic Violence, Crime and Victims Act [2003 (c. 28)](https://www.legislation.gov.uk/ukpga/2003/28).
 
-[^key-57c0476f834fb32c6b6411122cd16170]: Commencement: Sch. 13 para. 16 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-57c0476f834fb32c6b6411122cd16170]: Commencement: Sch. 13 para. 16 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00292]: Footnote: Section 69B was inserted by section 46 of the Domestic Violence, Crime and Victims Act [2003 (c. 28)](https://www.legislation.gov.uk/ukpga/2003/28).
 
-[^key-0c34a0f645e20df5f011f3ce68213ac7]: Commencement: Sch. 13 para. 17 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-0c34a0f645e20df5f011f3ce68213ac7]: Commencement: Sch. 13 para. 17 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-6deaf582bd37a2c61ba1745f27e43507]: Commencement: Sch. 13 para. 18 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-6deaf582bd37a2c61ba1745f27e43507]: Commencement: Sch. 13 para. 18 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-c2ee80394c5434284f0721fc4e689e25]: Commencement: Sch. 13 para. 19 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-c2ee80394c5434284f0721fc4e689e25]: Commencement: Sch. 13 para. 19 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-ae1649f6fe1318e5b12482876e2d3400]: Commencement: Sch. 13 para. 20 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-ae1649f6fe1318e5b12482876e2d3400]: Commencement: Sch. 13 para. 20 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-b3207e9e5fafee3c5211167d345e4e2f]: Commencement: Sch. 13 para. 21 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-b3207e9e5fafee3c5211167d345e4e2f]: Commencement: Sch. 13 para. 21 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-a2cc54da23c6a2bf51ef84bb18473f19]: Commencement: Sch. 13 para. 22 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-a2cc54da23c6a2bf51ef84bb18473f19]: Commencement: Sch. 13 para. 22 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-b01ac010627b5e195185fae92102f04d]: Commencement: Sch. 13 para. 23 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-b01ac010627b5e195185fae92102f04d]: Commencement: Sch. 13 para. 23 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00293]: Footnote: Section 90 was amended by the Justice (Northern Ireland) Order [2004 (c. 4)](https://www.legislation.gov.uk/ukpga/2004/4), Schedule 1, paragraph 4; section 46 of the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28); section 61 of the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15); the Northern Ireland Act [2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), Schedule 4, paragraph 34 and the Department of Justice Act (Northern Ireland) [2010 (c. 3) (N.I.)](https://www.legislation.gov.uk/nia/2010/3), Schedule, paragraph 14(4) .
 
@@ -539,7 +539,7 @@ includes, in particular, expenditure attributable to sub-paragraph (5) above.
 
 [^f00298]: Footnote: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36).
 
-[^key-6b7b8016dd07e311a7c155d129e1105e]: Commencement: Sch. 13 para. 24 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-6b7b8016dd07e311a7c155d129e1105e]: Commencement: Sch. 13 para. 24 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00299]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073).
 
@@ -547,7 +547,7 @@ includes, in particular, expenditure attributable to sub-paragraph (5) above.
 
 [^f00301]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-fcbd535d27c3b7118b672dfe5aa9d91d]: Commencement: Sch. 13 para. 25 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-fcbd535d27c3b7118b672dfe5aa9d91d]: Commencement: Sch. 13 para. 25 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00302]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073).
 
@@ -555,10 +555,10 @@ includes, in particular, expenditure attributable to sub-paragraph (5) above.
 
 [^f00304]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-9b142d45909c89c5d58a0a53d7ded02c]: Commencement: Sch. 13 para. 26 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-9b142d45909c89c5d58a0a53d7ded02c]: Commencement: Sch. 13 para. 26 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00305]: Footnote: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
 [^f00306]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073).
 
-[^key-c14ce9574626df0e1ce1618def2a1b2d]: Commencement: Sch. 13 para. 27 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-c14ce9574626df0e1ce1618def2a1b2d]: Commencement: Sch. 13 para. 27 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

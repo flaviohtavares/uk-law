@@ -91,11 +91,11 @@ and subsections (2) to (5) of section 250 of the [^c765017]Local Government Act 
 
 revoke an order made by them under this section with the effect that, on such date as the order takes effect in accordance with those provisions, the way designated by the original order as a cycle track shall revert to being a footpath or a part of a footpath (as the case may be) and, as such, it shall only be maintainable at the public expense for the purposes of the 1980 Act if, prior to the original order taking effect, it constituted a highway so maintainable or, on the order under this subsection taking effect, it forms part of a highway so maintainable.
 
-(10)[^c765018][^key-fb0bf9a7b7c5c5bbdc6e95e922667be4][^key-426b6751762459ec633b73f8b40c7d2e] A local highway authority shall have power to carry out any works necessary for giving effect to an order under this section; and in so far as the carrying out of any such works, or any change in the use of land resulting from any such order, constitutes development within the meaning of the Town and Country Planning Act 1990[^c765019], permission for that development shall be deemed to be granted under Part III of that Act.
+(10)[^c765018][^c-fb0bf9a7b7c5c5bbdc6e95e922667be4][^c-426b6751762459ec633b73f8b40c7d2e] A local highway authority shall have power to carry out any works necessary for giving effect to an order under this section; and in so far as the carrying out of any such works, or any change in the use of land resulting from any such order, constitutes development within the meaning of the Town and Country Planning Act 1990[^c765019], permission for that development shall be deemed to be granted under Part III of that Act.
 
 (11) The power to make regulations under subsection (4) above shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 4. Provision of barriers in cycle tracks, etc.[^c765020][^key-c56c2e5cc07e8e0cdf0784a0aa83ea77][^key-d5c87302339209746267929ade593be9]
+## 4. Provision of barriers in cycle tracks, etc.[^c765020][^c-c56c2e5cc07e8e0cdf0784a0aa83ea77][^c-d5c87302339209746267929ade593be9]
 
 (1) A highway authority may provide and maintain in any cycle track such barriers as they think necessary for the purpose of safeguarding persons using the cycle track.
 
@@ -107,14 +107,14 @@ revoke an order made by them under this section with the effect that, on such da
 
 ## 5. Compensation.
 
-(1)[^c765021][^key-dc3e73762494173a6c516927708968dc][^key-2e8ddf12691295b53c22384842e50986] Where any person suffers damage by reason of the execution by a highway authority of any works under section 3(10) or 4 above, he shall be entitled to recover compensation in respect of that damage from that authority.
+(1)[^c765021][^c-dc3e73762494173a6c516927708968dc][^c-2e8ddf12691295b53c22384842e50986] Where any person suffers damage by reason of the execution by a highway authority of any works under section 3(10) or 4 above, he shall be entitled to recover compensation in respect of that damage from that authority.
 
 (2) Where in consequence of the coming into operation of an order under section 3 above any person suffers damage by the depreciation in value of any interest in land to which he is entitled, he shall be entitled to recover compensation in respect of that damage from the local highway authority which made the order; but a person shall not be entitled to recover any compensation under this subsection in respect of any depreciation—
 
 - (a) in respect of which compensation is recoverable by him under subsection (1) above; or
 - (b) which is attributable to the prospect of the execution of any such works as are referred to in that subsection.
 
-(3) Subsections (1) to (3) of section 307 of the 1980 Act (disputes as to compensation to be referred to Upper Tribunal[^key-926085b0fb80b2c1448baf5fba30c184]) shall apply in relation to any dispute arising on a claim for compensation under subsection (1) or (2) above as they apply in relation to any dispute arisising as mentioned in subsection (1) of that section.
+(3) Subsections (1) to (3) of section 307 of the 1980 Act (disputes as to compensation to be referred to Upper Tribunal[^c-926085b0fb80b2c1448baf5fba30c184]) shall apply in relation to any dispute arising on a claim for compensation under subsection (1) or (2) above as they apply in relation to any dispute arisising as mentioned in subsection (1) of that section.
 
 ## 6. Application to Crown land.
 
@@ -173,9 +173,9 @@ There shall be paid out of money provided by Parliament—
 
 [^c765018]: Modification: [S. 3(10)](https://www.legislation.gov.uk/ukpga/1984/38/section/3/10) restricted (30.10.1994) by [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2716/regulation/1/2),70
 
-[^key-fb0bf9a7b7c5c5bbdc6e95e922667be4]: Modification: [S. 3(10)](https://www.legislation.gov.uk/ukpga/1984/38/section/3/10) restricted (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [85](https://www.legislation.gov.uk/uksi/2010/490/regulation/85) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-fb0bf9a7b7c5c5bbdc6e95e922667be4]: Modification: [S. 3(10)](https://www.legislation.gov.uk/ukpga/1984/38/section/3/10) restricted (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [85](https://www.legislation.gov.uk/uksi/2010/490/regulation/85) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-426b6751762459ec633b73f8b40c7d2e]: Modification: [S. 3(10)](https://www.legislation.gov.uk/ukpga/1984/38/section/3/10) restricted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [88](https://www.legislation.gov.uk/uksi/2017/1012/regulation/88)
+[^c-426b6751762459ec633b73f8b40c7d2e]: Modification: [S. 3(10)](https://www.legislation.gov.uk/ukpga/1984/38/section/3/10) restricted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [88](https://www.legislation.gov.uk/uksi/2017/1012/regulation/88)
 
 [^c765019]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 66](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/66)
 
@@ -183,19 +183,19 @@ There shall be paid out of money provided by Parliament—
 
     S. 4: power conferred (23.7.1999) by [S.I. 1999/2106](https://www.legislation.gov.uk/uksi/1999/2106), [art. 2](https://www.legislation.gov.uk/uksi/1999/2106/article/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1999/2106/schedule/3/paragraph/8)
 
-[^key-c56c2e5cc07e8e0cdf0784a0aa83ea77]: Modification: S. 4: functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/8)
+[^c-c56c2e5cc07e8e0cdf0784a0aa83ea77]: Modification: S. 4: functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/8)
 
-[^key-d5c87302339209746267929ade593be9]: Modification: S. 4: functions made exercisable as specified (E.) (1.4.2015) by [The Delegation of Functions (Strategic Highways Companies) (England) Regulations 2015 (S.I. 2015/378)](https://www.legislation.gov.uk/uksi/2015/378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/378/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/378/regulation/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2015/378/schedule/3/paragraph/6)
+[^c-d5c87302339209746267929ade593be9]: Modification: S. 4: functions made exercisable as specified (E.) (1.4.2015) by [The Delegation of Functions (Strategic Highways Companies) (England) Regulations 2015 (S.I. 2015/378)](https://www.legislation.gov.uk/uksi/2015/378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/378/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/378/regulation/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2015/378/schedule/3/paragraph/6)
 
 [^c765021]: Modification: S. 5(1): certain functions of the Secretary of State for Transport made exercisable (25.7.1995) by [S.I. 1995/1986](https://www.legislation.gov.uk/uksi/1995/1986), [art. 2](https://www.legislation.gov.uk/uksi/1995/1986/article/2), [Sch. 3 para.8](https://www.legislation.gov.uk/uksi/1995/1986/schedule/3/paragraph/8)
 
     S. 5(1): power conferred (23.7.1999) by [S.I. 1999/2106](https://www.legislation.gov.uk/uksi/1999/2106), [art. 2](https://www.legislation.gov.uk/uksi/1999/2106/article/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1999/2106/schedule/3/paragraph/8)
 
-[^key-dc3e73762494173a6c516927708968dc]: Modification: S. 5(1): functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/8)
+[^c-dc3e73762494173a6c516927708968dc]: Modification: S. 5(1): functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/8)
 
-[^key-2e8ddf12691295b53c22384842e50986]: Modification: S. 5(1): functions made exercisable as specified (E.) (1.4.2015) by [The Delegation of Functions (Strategic Highways Companies) (England) Regulations 2015 (S.I. 2015/378)](https://www.legislation.gov.uk/uksi/2015/378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/378/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/378/regulation/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2015/378/schedule/3/paragraph/6)
+[^c-2e8ddf12691295b53c22384842e50986]: Modification: S. 5(1): functions made exercisable as specified (E.) (1.4.2015) by [The Delegation of Functions (Strategic Highways Companies) (England) Regulations 2015 (S.I. 2015/378)](https://www.legislation.gov.uk/uksi/2015/378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/378/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/378/regulation/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2015/378/schedule/3/paragraph/6)
 
-[^key-926085b0fb80b2c1448baf5fba30c184]: Textual amendment: Words in s. 5(3) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 166](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/166) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-926085b0fb80b2c1448baf5fba30c184]: Textual amendment: Words in s. 5(3) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 166](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/166) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c765022]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 

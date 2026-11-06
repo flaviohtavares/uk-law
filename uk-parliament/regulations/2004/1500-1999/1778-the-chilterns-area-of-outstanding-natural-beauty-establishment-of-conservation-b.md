@@ -68,13 +68,13 @@ On the establishment day there shall be established a conservation board for the
 
 ### 4. Specified number of Board members
 
-(1) The specified number of local authority members of the Board shall be 13[^key-c09cb74715599443b9c48f38618d8469] .
+(1) The specified number of local authority members of the Board shall be 13[^c-c09cb74715599443b9c48f38618d8469] .
 
 (2) The specified number of members of the Board to be appointed by the Secretary of State shall be 8.
 
 (3) The specified number of parish members of the Board shall be 6.
 
-### 5. Appointment of local authority members[^key-bc47b2fb2897c08ba85dd76e122726e3]
+### 5. Appointment of local authority members[^c-bc47b2fb2897c08ba85dd76e122726e3]
 
 (1) Subject to paragraph (2), each local authority specified in Schedule 1 (being collectively the local authorities for the areas wholly or partly comprised in the Chilterns Area of Outstanding Natural Beauty) shall appoint one member to the Board.
 
@@ -297,7 +297,7 @@ a copy of any report, return or information which the Board is required to send 
 
 (4) Nothing in paragraph (2)(a) shall be construed as requiring or authorising the Board to apply or dispose of the surplus revenue arising from any undertaking carried on by them otherwise than in accordance with any enactment or instrument applicable to the undertaking.
 
-### 23A. Retirement Benefits[^key-157bf1e4b2d2a5f7825b7158ee6fb6d3]
+### 23A. Retirement Benefits[^c-157bf1e4b2d2a5f7825b7158ee6fb6d3]
 
  Regulation 30 (retirement benefits) of the Local Authorities (Capital Finance and Accounting) (England) Regulations 2003 shall apply in relation to the Board as if the Board were a local authority for the purposes of that regulation.
 
@@ -459,39 +459,39 @@ Department for Environment, Food and Rural Affairs
 
 Article 5
 
-[^key-22e8993ae880a490f13ca476e647c2bb]...
+[^c-22e8993ae880a490f13ca476e647c2bb]...
 
-[^key-23f508d4d4b1273469a90a9c1929c91c]...
+[^c-23f508d4d4b1273469a90a9c1929c91c]...
 
 Hertfordshire County Council
 
 Oxfordshire County Council
 
-Buckinghamshire Council[^key-2d8b781f6ad688852058fbcf7636a870]
+Buckinghamshire Council[^c-2d8b781f6ad688852058fbcf7636a870]
 
-[^key-23f508d4d4b1273469a90a9c1929c91c]...
+[^c-23f508d4d4b1273469a90a9c1929c91c]...
 
-the Central Bedfordshire Council[^key-e50d1cc533f1cc291d18eea5dc3f49c6]
+the Central Bedfordshire Council[^c-e50d1cc533f1cc291d18eea5dc3f49c6]
 
-[^key-23f508d4d4b1273469a90a9c1929c91c]...
+[^c-23f508d4d4b1273469a90a9c1929c91c]...
 
 Dacorum Borough Council
 
 Luton Borough Council
 
-[^key-de4679fa019c555b5f9754f8843d50bb]...
+[^c-de4679fa019c555b5f9754f8843d50bb]...
 
 North Hertfordshire District Council
 
-[^key-de4679fa019c555b5f9754f8843d50bb]...
+[^c-de4679fa019c555b5f9754f8843d50bb]...
 
-[^key-23f508d4d4b1273469a90a9c1929c91c]...
+[^c-23f508d4d4b1273469a90a9c1929c91c]...
 
 South Oxfordshire District Council
 
 Three Rivers District Council
 
-[^key-23f508d4d4b1273469a90a9c1929c91c]...
+[^c-23f508d4d4b1273469a90a9c1929c91c]...
 
 ## SCHEDULE 2 — PROVISIONS FOR APPOINTMENT OF PARISH MEMBERS OF THE BOARD
 
@@ -1019,11 +1019,11 @@ Article 16
 
 **2.** (1) The first meeting of the Board, as provided for by paragraph 1(1), shall be the annual general meeting of the Board for 2004.
 
-(2)[^key-9b5d45f61bc69bba7f6047049e7c3153] In 2005 and each subsequent year the Board shall hold an annual general meeting.
+(2)[^c-9b5d45f61bc69bba7f6047049e7c3153] In 2005 and each subsequent year the Board shall hold an annual general meeting.
 
 (3) An annual general meeting shall be held at such hour as the Board may fix or, if no hour is so fixed, at twelve noon.
 
-**3.**[^key-1b42167461c109af0be517cbe7bbf8e8] (1) In 2005 and in each succeeding year the Board shall hold, in addition to the annual general meeting for that year, at least two other meetings for the transaction of business.
+**3.**[^c-1b42167461c109af0be517cbe7bbf8e8] (1) In 2005 and in each succeeding year the Board shall hold, in addition to the annual general meeting for that year, at least two other meetings for the transaction of business.
 
 (2) Every such additional meeting shall be held at such hour and on such days as the Board may determine but shall be held as near as may be at regular intervals.
 
@@ -1051,7 +1051,7 @@ Article 16
 
 ### Calling of meetings
 
-**6.**[^key-a2ff5da051bcedb6d26580c586c6b594] (1) Meetings of the Board shall be held at such place, either within or outside the Chilterns Area of Outstanding Natural Beauty, as the Board may direct.
+**6.**[^c-a2ff5da051bcedb6d26580c586c6b594] (1) Meetings of the Board shall be held at such place, either within or outside the Chilterns Area of Outstanding Natural Beauty, as the Board may direct.
 
 (2) At least three clear days (excluding any day which is a Saturday, Sunday, bank holiday, Christmas Day or Good Friday) before a meeting of the Board—
 
@@ -1144,9 +1144,9 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c5248661]: Marginal citation: The designation order was confirmed on 16th December 1965 and the variation order was confirmed on 14th March 1990. These orders, which were made under section 87 of the National Parks and Access to the [Countryside Act 1949 (c. 97)](https://www.legislation.gov.uk/ukpga/1949/97), are, as a result of paragraph 16 of Schedule 15 to the 2000 Act, to be taken to have been made under section 82 of the 2000 Act.
 
-[^key-c09cb74715599443b9c48f38618d8469]: Textual amendment: Word in art. 4(1) substituted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [20(2)](https://www.legislation.gov.uk/uksi/2009/837/article/20/2)
+[^c-c09cb74715599443b9c48f38618d8469]: Textual amendment: Word in art. 4(1) substituted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [20(2)](https://www.legislation.gov.uk/uksi/2009/837/article/20/2)
 
-[^key-bc47b2fb2897c08ba85dd76e122726e3]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2004/1778/article/5) substituted (1.4.2020) by [The Buckinghamshire (Structural Changes) (Supplementary Provision and Amendment) Order 2020 (S.I. 2020/348)](https://www.legislation.gov.uk/uksi/2020/348), [arts. 1](https://www.legislation.gov.uk/uksi/2020/348/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/348/article/2/2)
+[^c-bc47b2fb2897c08ba85dd76e122726e3]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2004/1778/article/5) substituted (1.4.2020) by [The Buckinghamshire (Structural Changes) (Supplementary Provision and Amendment) Order 2020 (S.I. 2020/348)](https://www.legislation.gov.uk/uksi/2020/348), [arts. 1](https://www.legislation.gov.uk/uksi/2020/348/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/348/article/2/2)
 
 [^c5248671]: Marginal citation: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
@@ -1164,7 +1164,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c5248741]: Marginal citation: Part VA of the 1972 Act was inserted by the [Local Government (Access to Information) Act 1985 (c. 43)](https://www.legislation.gov.uk/ukpga/1985/43), [section 1](https://www.legislation.gov.uk/ukpga/1985/43/section/1).
 
-[^key-157bf1e4b2d2a5f7825b7158ee6fb6d3]: Textual amendment: [Art. 23A](https://www.legislation.gov.uk/uksi/2004/1778/article/23A) inserted (25.6.2009) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) (Amendment) Order 2009 (S.I. 2009/1578)](https://www.legislation.gov.uk/uksi/2009/1578), [arts.](https://www.legislation.gov.uk/uksi/2009/1578/article), [2](https://www.legislation.gov.uk/uksi/2009/1578/article/2)
+[^c-157bf1e4b2d2a5f7825b7158ee6fb6d3]: Textual amendment: [Art. 23A](https://www.legislation.gov.uk/uksi/2004/1778/article/23A) inserted (25.6.2009) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) (Amendment) Order 2009 (S.I. 2009/1578)](https://www.legislation.gov.uk/uksi/2009/1578), [arts.](https://www.legislation.gov.uk/uksi/2009/1578/article), [2](https://www.legislation.gov.uk/uksi/2009/1578/article/2)
 
 [^c5248751]: Marginal citation: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
@@ -1210,20 +1210,20 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c5248961]: Marginal citation: [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40).
 
-[^key-22e8993ae880a490f13ca476e647c2bb]: Textual amendment: Words in Sch. 1 omitted (1.4.2009) by virtue of [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [20(3)(a)](https://www.legislation.gov.uk/uksi/2009/837/article/20/3/a)
+[^c-22e8993ae880a490f13ca476e647c2bb]: Textual amendment: Words in Sch. 1 omitted (1.4.2009) by virtue of [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [20(3)(a)](https://www.legislation.gov.uk/uksi/2009/837/article/20/3/a)
 
-[^key-23f508d4d4b1273469a90a9c1929c91c]: Textual amendment: Words in Sch. 1 omitted (1.4.2020) by virtue of [The Buckinghamshire (Structural Changes) (Supplementary Provision and Amendment) Order 2020 (S.I. 2020/348)](https://www.legislation.gov.uk/uksi/2020/348), [arts. 1](https://www.legislation.gov.uk/uksi/2020/348/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/348/article/2/3/a)
+[^c-23f508d4d4b1273469a90a9c1929c91c]: Textual amendment: Words in Sch. 1 omitted (1.4.2020) by virtue of [The Buckinghamshire (Structural Changes) (Supplementary Provision and Amendment) Order 2020 (S.I. 2020/348)](https://www.legislation.gov.uk/uksi/2020/348), [arts. 1](https://www.legislation.gov.uk/uksi/2020/348/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/348/article/2/3/a)
 
-[^key-2d8b781f6ad688852058fbcf7636a870]: Textual amendment: Words in Sch. 1 inserted (1.4.2020) by [The Buckinghamshire (Structural Changes) (Supplementary Provision and Amendment) Order 2020 (S.I. 2020/348)](https://www.legislation.gov.uk/uksi/2020/348), [arts. 1](https://www.legislation.gov.uk/uksi/2020/348/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/348/article/2/3/b)
+[^c-2d8b781f6ad688852058fbcf7636a870]: Textual amendment: Words in Sch. 1 inserted (1.4.2020) by [The Buckinghamshire (Structural Changes) (Supplementary Provision and Amendment) Order 2020 (S.I. 2020/348)](https://www.legislation.gov.uk/uksi/2020/348), [arts. 1](https://www.legislation.gov.uk/uksi/2020/348/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/348/article/2/3/b)
 
-[^key-e50d1cc533f1cc291d18eea5dc3f49c6]: Textual amendment: Words in Sch. 1 inserted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [20(3)(b)](https://www.legislation.gov.uk/uksi/2009/837/article/20/3/b)
+[^c-e50d1cc533f1cc291d18eea5dc3f49c6]: Textual amendment: Words in Sch. 1 inserted (1.4.2009) by [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [20(3)(b)](https://www.legislation.gov.uk/uksi/2009/837/article/20/3/b)
 
-[^key-de4679fa019c555b5f9754f8843d50bb]: Textual amendment: Words in Sch. 1 omitted (1.4.2009) by virtue of [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [20(3)(c)](https://www.legislation.gov.uk/uksi/2009/837/article/20/3/c)
+[^c-de4679fa019c555b5f9754f8843d50bb]: Textual amendment: Words in Sch. 1 omitted (1.4.2009) by virtue of [The Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [20(3)(c)](https://www.legislation.gov.uk/uksi/2009/837/article/20/3/c)
 
-[^key-9b5d45f61bc69bba7f6047049e7c3153]: Modification: Sch. 3 para. 2(2) disapplied (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/10/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-9b5d45f61bc69bba7f6047049e7c3153]: Modification: Sch. 3 para. 2(2) disapplied (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/10/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-1b42167461c109af0be517cbe7bbf8e8]: Modification: Sch. 3 para. 3 disapplied (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/10/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-1b42167461c109af0be517cbe7bbf8e8]: Modification: Sch. 3 para. 3 disapplied (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2020/392/regulation/10/a) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-a2ff5da051bcedb6d26580c586c6b594]: Modification: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2004/1778/schedule/3/paragraph/6) modified (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/10/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-a2ff5da051bcedb6d26580c586c6b594]: Modification: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2004/1778/schedule/3/paragraph/6) modified (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/10/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
 [^c5248971]: Marginal citation: [S.I. 1981/1794](https://www.legislation.gov.uk/uksi/1981/1794), amended by the [Trade Union Reform and Employment Rights Act 1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19) and [S.I. 1995/2587](https://www.legislation.gov.uk/uksi/1995/2587); there are other amending instruments but none is directly relevant to this Order.

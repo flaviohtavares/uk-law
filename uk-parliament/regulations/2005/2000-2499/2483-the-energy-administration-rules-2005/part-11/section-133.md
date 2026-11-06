@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Formal defects[^key-ed7627b4f8c61278c6d886dd50768fc9]
+## 133. Formal defects[^c-ed7627b4f8c61278c6d886dd50768fc9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ No energy administration proceedings shall be invalidated by any formal defect o
 
 ## Annotations
 
-[^key-ed7627b4f8c61278c6d886dd50768fc9]: Commencement: Rule 133 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-ed7627b4f8c61278c6d886dd50768fc9]: Commencement: Rule 133 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

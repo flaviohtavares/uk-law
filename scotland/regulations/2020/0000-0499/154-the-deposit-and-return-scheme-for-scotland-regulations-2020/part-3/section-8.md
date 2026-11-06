@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Producer registration[^key-7949c40aa680d7fc7455f6e855d4e509]
+## 8. Producer registration[^c-7949c40aa680d7fc7455f6e855d4e509]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7949c40aa680d7fc7455f6e855d4e509]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2020/154/regulation/8) omitted (20.6.2025) by virtue of [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [10](https://www.legislation.gov.uk/ssi/2025/188/regulation/10)
+[^c-7949c40aa680d7fc7455f6e855d4e509]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2020/154/regulation/8) omitted (20.6.2025) by virtue of [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [10](https://www.legislation.gov.uk/ssi/2025/188/regulation/10)

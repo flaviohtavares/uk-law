@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217L. Closure notices: rules relating to period for amendments[^key-8549cc37654bf5f63020dff266b5dc12]
+## 217L. Closure notices: rules relating to period for amendments[^c-8549cc37654bf5f63020dff266b5dc12]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8549cc37654bf5f63020dff266b5dc12]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/ukpga/2010/8/part/4A) inserted (for accounting periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/46/2), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/5/paragraph/1/1)
+[^c-8549cc37654bf5f63020dff266b5dc12]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/ukpga/2010/8/part/4A) inserted (for accounting periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/46/2), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/5/paragraph/1/1)

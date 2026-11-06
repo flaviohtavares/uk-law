@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 286. Guidance: Parliamentary scrutiny[^key-ce9ae1dfb1353780fdb07fcd301263aa][^key-600ab53baebfe209ed180c2876db6588]
+## 286. Guidance: Parliamentary scrutiny[^c-ce9ae1dfb1353780fdb07fcd301263aa][^c-600ab53baebfe209ed180c2876db6588]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce9ae1dfb1353780fdb07fcd301263aa]: Commencement: S. 286 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-ce9ae1dfb1353780fdb07fcd301263aa]: Commencement: S. 286 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-600ab53baebfe209ed180c2876db6588]: Commencement: [S. 286](https://www.legislation.gov.uk/ukpga/2023/52/section/286) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(viii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/viii)
+[^c-600ab53baebfe209ed180c2876db6588]: Commencement: [S. 286](https://www.legislation.gov.uk/ukpga/2023/52/section/286) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(viii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/viii)

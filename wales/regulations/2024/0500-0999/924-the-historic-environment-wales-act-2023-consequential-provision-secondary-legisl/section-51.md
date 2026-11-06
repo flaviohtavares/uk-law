@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**51.**[^key-e0ace553dd2406b1406f5f768d0e0f61] In regulation 37A, in paragraph (4)—
+**51.**[^c-e0ace553dd2406b1406f5f768d0e0f61] In regulation 37A, in paragraph (4)—
 
 - (a) in sub-paragraph (a), for “section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990 substitute “section 76 of the Historic Environment (Wales) Act 2023”;
 - (b) in sub-paragraph (b), for “section 69 of that Act” substitute “section 158 of the Historic Environment (Wales) Act 2023”;
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0ace553dd2406b1406f5f768d0e0f61]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2024/924/regulation/51) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-e0ace553dd2406b1406f5f768d0e0f61]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2024/924/regulation/51) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

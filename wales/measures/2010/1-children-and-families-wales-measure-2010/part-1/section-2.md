@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Strategies for contributing to the eradication of child poverty[^c2016641][^key-5eb8cfed26d7b55fe0026a04341b73e9]
+## 2. Strategies for contributing to the eradication of child poverty[^c2016641][^c-5eb8cfed26d7b55fe0026a04341b73e9]
 
 *Extent: E+W*
 
@@ -46,12 +46,12 @@ summary: ''
 
 (7) For the purposes of this section, a reference to an action to be performed or a function to be exercised by a Welsh authority is a reference to an action or function which is within the powers of the Welsh authority.
 
-(8) For provision about the preparation and publication of strategies, see sections 3 to 5 of this Measure [^key-5fdfaecc957f412cc9b33917ceb884c7]....
+(8) For provision about the preparation and publication of strategies, see sections 3 to 5 of this Measure [^c-5fdfaecc957f412cc9b33917ceb884c7]....
 
 ## Annotations
 
 [^c2016641]: Commencement: S. 2 partly in force; s. 2 in force for specified purposes at 10.4.2010 see s. 75(1)
 
-[^key-5eb8cfed26d7b55fe0026a04341b73e9]: Commencement: S. 2 in force at 10.1.2011 for specified purposes by [S.I. 2010/2994](https://www.legislation.gov.uk/uksi/2010/2994), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2994/article/2/a)
+[^c-5eb8cfed26d7b55fe0026a04341b73e9]: Commencement: S. 2 in force at 10.1.2011 for specified purposes by [S.I. 2010/2994](https://www.legislation.gov.uk/uksi/2010/2994), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2994/article/2/a)
 
-[^key-5fdfaecc957f412cc9b33917ceb884c7]: Textual amendment: Words in [s. 2(8)](https://www.legislation.gov.uk/mwa/2010/1/section/2/8) repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 25](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/25); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-5fdfaecc957f412cc9b33917ceb884c7]: Textual amendment: Words in [s. 2(8)](https://www.legislation.gov.uk/mwa/2010/1/section/2/8) repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 25](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/25); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

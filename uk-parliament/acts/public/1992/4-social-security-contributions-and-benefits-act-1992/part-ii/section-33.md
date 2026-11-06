@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Invalidity pension.[^key-12bbfbcee8717641c6b39d39d4530232]
+## 33. Invalidity pension.[^c-12bbfbcee8717641c6b39d39d4530232]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12bbfbcee8717641c6b39d39d4530232]: Textual amendment: Ss. 31-34 repealed (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1995/18/section/16/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1995/18/schedule/1/paragraph/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)
+[^c-12bbfbcee8717641c6b39d39d4530232]: Textual amendment: Ss. 31-34 repealed (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1995/18/section/16/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1995/18/schedule/1/paragraph/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)

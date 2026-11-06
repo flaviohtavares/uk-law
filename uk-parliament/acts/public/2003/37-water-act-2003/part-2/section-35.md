@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-f84b995ec38086a6eb73ec09d5d36b9b][^key-242bea4d75bc54b5ca887198f976292c][^key-35006a05582dd162b6847d2bf57e4acd] After section 27 of the WIA there is inserted—
+(1)[^c-f84b995ec38086a6eb73ec09d5d36b9b][^c-242bea4d75bc54b5ca887198f976292c][^c-35006a05582dd162b6847d2bf57e4acd] After section 27 of the WIA there is inserted—
 
 > **The Consumer Council for Water**
 >
@@ -90,18 +90,18 @@ summary: ''
 >
 > (7) The Secretary of State shall lay a copy of every memorandum or revised memorandum under this section before each House of Parliament.
 
-(2)[^key-52cbd55c8039a07f116c060c941428af] Schedule 2 (which inserts the new Schedule 3A into the WIA) is to have effect.
+(2)[^c-52cbd55c8039a07f116c060c941428af] Schedule 2 (which inserts the new Schedule 3A into the WIA) is to have effect.
 
-(3)[^key-52cbd55c8039a07f116c060c941428af] The customer service committees established under section 28(1) of the WIA are abolished.
+(3)[^c-52cbd55c8039a07f116c060c941428af] The customer service committees established under section 28(1) of the WIA are abolished.
 
-(4)[^key-52cbd55c8039a07f116c060c941428af] Section 28 of, and Schedule 4 to, the WIA shall cease to have effect.
+(4)[^c-52cbd55c8039a07f116c060c941428af] Section 28 of, and Schedule 4 to, the WIA shall cease to have effect.
 
 ## Annotations
 
-[^key-f84b995ec38086a6eb73ec09d5d36b9b]: Commencement: [S. 35(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/35/1) in force at 1.8.2005 for specified purposes by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/968/article/3/a)
+[^c-f84b995ec38086a6eb73ec09d5d36b9b]: Commencement: [S. 35(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/35/1) in force at 1.8.2005 for specified purposes by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/968/article/3/a)
 
-[^key-242bea4d75bc54b5ca887198f976292c]: Commencement: [S. 35(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/35/1) in force at 1.10.2005 for specified purposes by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/a/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-242bea4d75bc54b5ca887198f976292c]: Commencement: [S. 35(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/35/1) in force at 1.10.2005 for specified purposes by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/a/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-35006a05582dd162b6847d2bf57e4acd]: Commencement: [S. 35(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/35/1) in force at 1.4.2006 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(b)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/b) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-35006a05582dd162b6847d2bf57e4acd]: Commencement: [S. 35(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/35/1) in force at 1.4.2006 in so far as not already in force by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(b)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/b) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-52cbd55c8039a07f116c060c941428af]: Commencement: [S. 35(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/35/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/35/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/35/4) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/a/ii) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/4)[8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-52cbd55c8039a07f116c060c941428af]: Commencement: [S. 35(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/35/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/35/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/35/4) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/a/ii) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/4)[8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))

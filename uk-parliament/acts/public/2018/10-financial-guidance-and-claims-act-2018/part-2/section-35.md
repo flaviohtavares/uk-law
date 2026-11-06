@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Cold calling about claims management services[^key-ed85aa43f42a1a05ec386eaa6c633cb7]
+## 35. Cold calling about claims management services[^c-ed85aa43f42a1a05ec386eaa6c633cb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed85aa43f42a1a05ec386eaa6c633cb7]: Commencement: S. 35 in force at 8.9.2018 by [S.I. 2018/987](https://www.legislation.gov.uk/uksi/2018/987), [reg. 3](https://www.legislation.gov.uk/uksi/2018/987/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/987/regulation/4))
+[^c-ed85aa43f42a1a05ec386eaa6c633cb7]: Commencement: S. 35 in force at 8.9.2018 by [S.I. 2018/987](https://www.legislation.gov.uk/uksi/2018/987), [reg. 3](https://www.legislation.gov.uk/uksi/2018/987/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/987/regulation/4))

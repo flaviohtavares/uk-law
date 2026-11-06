@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Compulsory acquisition of rights and imposition of restrictive covenants[^key-f2d6bf3535e02ef649a945c8740a7859]
+## 28. Compulsory acquisition of rights and imposition of restrictive covenants[^c-f2d6bf3535e02ef649a945c8740a7859]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2d6bf3535e02ef649a945c8740a7859]: Commencement: Art. 28 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-f2d6bf3535e02ef649a945c8740a7859]: Commencement: Art. 28 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

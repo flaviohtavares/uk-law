@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9.26E. Enforcement and apportionment where periodical payments are made under more than one order[^key-e0c15b9f99f06ee7a3de9aab766522d7]
+## 9.26E. Enforcement and apportionment where periodical payments are made under more than one order[^c-e0c15b9f99f06ee7a3de9aab766522d7]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0c15b9f99f06ee7a3de9aab766522d7]: Textual amendment: Rules 9.26C-9.26E inserted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [13](https://www.legislation.gov.uk/uksi/2014/667/rule/13) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-e0c15b9f99f06ee7a3de9aab766522d7]: Textual amendment: Rules 9.26C-9.26E inserted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [13](https://www.legislation.gov.uk/uksi/2014/667/rule/13) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))

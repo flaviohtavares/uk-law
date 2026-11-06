@@ -36,7 +36,7 @@ summary: ''
 
 - (a) a payment under this Part or under corresponding provision made for Northern Ireland;
 - (b) a payment under the 1979 Act or under corresponding provision made for Northern Ireland;
-- (ba)[^key-cfd9a2ba90e55e6403f03925946216b6] a payment under the Diffuse Mesothelioma Payment Scheme (for the scheme, see the Mesothelioma Act 2014);
+- (ba)[^c-cfd9a2ba90e55e6403f03925946216b6] a payment under the Diffuse Mesothelioma Payment Scheme (for the scheme, see the Mesothelioma Act 2014);
 - (c) an extra-statutory payment;
 - (d) damages or a payment in settlement of a claim for damages;
 - (e) a payment of a description prescribed by regulations.
@@ -54,4 +54,4 @@ summary: ''
 
 [^c2175976]: Commencement: S. 47 wholly in force; s. 47 not in force at Royal Assent see s. 62; s. 47(1)(b)(c)(2)(b)(c)(3)(e)(4)(d) in force for certain purposes at 10.6.2008 and otherwise at 1.10.2008 by [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2008/1476/article/3/1/a){(2)(a)}, Sch.
 
-[^key-cfd9a2ba90e55e6403f03925946216b6]: Textual amendment: [S. 47(3)(ba)](https://www.legislation.gov.uk/ukpga/2008/6/section/47/3/ba) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/2); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-cfd9a2ba90e55e6403f03925946216b6]: Textual amendment: [S. 47(3)(ba)](https://www.legislation.gov.uk/ukpga/2008/6/section/47/3/ba) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/2); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)

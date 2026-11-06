@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Financial services and funds relating to restricted goods and restricted technology[^key-b6f806e377a5684a414804e6aae0bd97][^key-e9307d84760750830bea606a6350e5c2]
+## 41. Financial services and funds relating to restricted goods and restricted technology[^c-b6f806e377a5684a414804e6aae0bd97][^c-e9307d84760750830bea606a6350e5c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b6f806e377a5684a414804e6aae0bd97]: Commencement: Reg. 41 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-b6f806e377a5684a414804e6aae0bd97]: Commencement: Reg. 41 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-e9307d84760750830bea606a6350e5c2]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2019/411/regulation/41) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e9307d84760750830bea606a6350e5c2]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2019/411/regulation/41) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

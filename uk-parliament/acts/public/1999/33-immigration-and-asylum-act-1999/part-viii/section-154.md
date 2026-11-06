@@ -34,7 +34,7 @@ summary: ''
 
 (4) A certificate which authorises the performance of both escort functions and custodial functions may specify one date or event for one of those functions and a different date or event for the other.
 
-(5)[^key-4987b39210e65ba808e6abc7035cd524] The Secretary of State may confer functions of detainee custody officers on prison officers or prisoner custody officers.
+(5)[^c-4987b39210e65ba808e6abc7035cd524] The Secretary of State may confer functions of detainee custody officers on prison officers or prisoner custody officers.
 
 (6) A prison officer acting under arrangements made under subsection (5) has all the powers, authority, protection and privileges of a constable.
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c11434771]: Commencement: S. 154 wholly in force at 2.4.2001; s. 154 not in force at Royal Assent; s. 154(1)-(6) fully in force and s. 154(7) in force for certain purposes at 3.4.2000 and s. 154(7) in force for certain purposes at 1.8.2000 by [S.I. 2000/1985](https://www.legislation.gov.uk/uksi/2000/1985), [art. 2](https://www.legislation.gov.uk/uksi/2000/1985/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1985/schedule); s. 154 in force so far as not already in force at 2.4.2001 by [S.I. 2001/239](https://www.legislation.gov.uk/uksi/2001/239), [art. 2](https://www.legislation.gov.uk/uksi/2001/239/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/239/schedule)
 
-[^key-4987b39210e65ba808e6abc7035cd524]: Textual amendment: S. 154(5) substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/65/1), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
+[^c-4987b39210e65ba808e6abc7035cd524]: Textual amendment: S. 154(5) substituted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/65/1), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)

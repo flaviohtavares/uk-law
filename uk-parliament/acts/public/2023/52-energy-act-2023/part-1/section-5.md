@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Exemption from prohibition[^key-8c3da7c9f9da5d5ccc5b187f82f02b27]
+## 5. Exemption from prohibition[^c-8c3da7c9f9da5d5ccc5b187f82f02b27]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ and must consider any representations which are duly made in respect of the prop
 
 ## Annotations
 
-[^key-8c3da7c9f9da5d5ccc5b187f82f02b27]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/52/section/5) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-8c3da7c9f9da5d5ccc5b187f82f02b27]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/52/section/5) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

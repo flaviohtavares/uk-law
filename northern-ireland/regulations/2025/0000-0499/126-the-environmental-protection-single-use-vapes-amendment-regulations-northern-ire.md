@@ -44,15 +44,15 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 
 In accordance with Article 32(3) of that Order, the Department has published a notice indicating the effect of these Regulations and has taken into consideration the representations made to it in accordance with the notice.
 
-## 1. Citation and commencement[^key-9e2ad14a1f050f37dab948befb30c39c]
+## 1. Citation and commencement[^c-9e2ad14a1f050f37dab948befb30c39c]
 
 These Regulations may be cited as the Environmental Protection (Single-use Vapes) (Amendment) Regulations (Northern Ireland) 2025 and come into operation in 29th July 2025.
 
-## 2. Amendment of the Environmental Protection (Single-use Vapes) Regulations (Northern Ireland) 2024[^key-74c848f7afebd65e387b8ad05c17951f]
+## 2. Amendment of the Environmental Protection (Single-use Vapes) Regulations (Northern Ireland) 2024[^c-74c848f7afebd65e387b8ad05c17951f]
 
 The Environmental Protection (Single-use Vapes) Regulations (Northern Ireland) 2024[^f00002] are amended in accordance with regulations 3 to 5.
 
-**3.**[^key-56eb7fc1e0692629853a3b7bcc1264fd][^key-74c848f7afebd65e387b8ad05c17951f] In regulation 4—
+**3.**[^c-56eb7fc1e0692629853a3b7bcc1264fd][^c-74c848f7afebd65e387b8ad05c17951f] In regulation 4—
 
 - (a) for paragraph (1), substitute—
 
@@ -65,7 +65,7 @@ The Environmental Protection (Single-use Vapes) Regulations (Northern Ireland) 2
 
   .
 
-**4.**[^key-a7364b4e0eccbe666009133a84e1dcff][^key-74c848f7afebd65e387b8ad05c17951f] In regulation 6—
+**4.**[^c-a7364b4e0eccbe666009133a84e1dcff][^c-74c848f7afebd65e387b8ad05c17951f] In regulation 6—
 
 - (a) in paragraph (1), for enforcement”, substitute “enforcing”;
 - (b) after paragraph (2), insert—
@@ -74,7 +74,7 @@ The Environmental Protection (Single-use Vapes) Regulations (Northern Ireland) 2
 
   .
 
-**5.**[^key-9db62d2ec69077bb2f6678a8594b53c1][^key-74c848f7afebd65e387b8ad05c17951f] After regulation 6, insert—
+**5.**[^c-9db62d2ec69077bb2f6678a8594b53c1][^c-74c848f7afebd65e387b8ad05c17951f] After regulation 6, insert—
 
 > **7. Offences by partnerships and other unincorporated associations**
 >
@@ -137,17 +137,17 @@ Regulation 5 inserts provisions to bring partnerships and unincorporated associa
 
 [^f00001]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
-[^key-9e2ad14a1f050f37dab948befb30c39c]: Commencement: Reg. 1 in operation at 29.7.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1)
+[^c-9e2ad14a1f050f37dab948befb30c39c]: Commencement: Reg. 1 in operation at 29.7.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1)
 
-[^key-74c848f7afebd65e387b8ad05c17951f]: Commencement: Reg. 2 in operation at 29.7.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1)
+[^c-74c848f7afebd65e387b8ad05c17951f]: Commencement: Reg. 2 in operation at 29.7.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2024 No. 212](https://www.legislation.gov.uk/nisr/2024/212)
 
-[^key-56eb7fc1e0692629853a3b7bcc1264fd]: Commencement: Reg. 3 in operation at 29.7.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1)
+[^c-56eb7fc1e0692629853a3b7bcc1264fd]: Commencement: Reg. 3 in operation at 29.7.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1)
 
-[^key-a7364b4e0eccbe666009133a84e1dcff]: Commencement: Reg. 4 in operation at 29.7.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1)
+[^c-a7364b4e0eccbe666009133a84e1dcff]: Commencement: Reg. 4 in operation at 29.7.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1)
 
-[^key-9db62d2ec69077bb2f6678a8594b53c1]: Commencement: Reg. 5 in operation at 29.7.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1)
+[^c-9db62d2ec69077bb2f6678a8594b53c1]: Commencement: Reg. 5 in operation at 29.7.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1)
 
 [^f00003]: Footnote: [1945 c. 15](https://www.legislation.gov.uk/ukpga/1945/15)
 

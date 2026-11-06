@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Exceptions from the duty in section 2[^key-ef44ca611d194ed6d4f21bbd59daf01b]
+## 3. Exceptions from the duty in section 2[^c-ef44ca611d194ed6d4f21bbd59daf01b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ The duty in section 2 does not apply to the following functions—
 
 ## Annotations
 
-[^key-ef44ca611d194ed6d4f21bbd59daf01b]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2023/4/section/3) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)
+[^c-ef44ca611d194ed6d4f21bbd59daf01b]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2023/4/section/3) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)

@@ -95,7 +95,7 @@ The provisions of this Regulation shall, in the field of transport by rail, road
 
 ## Article 2. Exception for technical agreements
 
-1. The prohibition in imposed by section 2(1) of the Competition Act 1998[^key-ce3fcdbd58194d1bab39be70d0c49b99] shall not apply to agreements, decisions or concerted practices the object and effect of which is to apply technical improvements or to achieve technical cooperation by means of:
+1. The prohibition in imposed by section 2(1) of the Competition Act 1998[^c-ce3fcdbd58194d1bab39be70d0c49b99] shall not apply to agreements, decisions or concerted practices the object and effect of which is to apply technical improvements or to achieve technical cooperation by means of:
 
 - (a) the standardisation of equipment, transport supplies, vehicles or fixed installations;
 - (b) the exchange or pooling, for the purpose of operating transport services, of staff, equipment, vehicles or fixed installations;
@@ -105,11 +105,11 @@ The provisions of this Regulation shall, in the field of transport by rail, road
 - (f) the grouping of single consignments;
 - (g) the establishment of uniform rules as to the structure of tariffs and their conditions of application, provided such rules do not lay down transport rates and conditions.
 
-2.[^key-c30b3f45b73e3c3c9668b1a690c718f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-c30b3f45b73e3c3c9668b1a690c718f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 3. Exemption for groups of small and medium-sized undertakings
 
-1. Agreements, decisions and concerted practices as referred to in section 2(1) of the Competition Act 1998 are exempt from the prohibition imposed by that provision[^key-ab88a598896533201a9d79843192992e] where their purpose is:
+1. Agreements, decisions and concerted practices as referred to in section 2(1) of the Competition Act 1998 are exempt from the prohibition imposed by that provision[^c-ab88a598896533201a9d79843192992e] where their purpose is:
 
 - ((a)) the constitution and operation of groupings of road or inland waterway transport undertakings with a view to carrying on transport activities;
 - ((b)) the joint financing or acquisition of transport equipment or supplies, where these operations are directly related to the provision of transport services and are necessary for the joint operations of the aforesaid groupings;
@@ -121,7 +121,7 @@ always provided that the total carrying capacity of any grouping does not exceed
 
 The individual capacity of each undertaking belonging to a grouping shall not exceed 1 000 metric tons in the case of road transport or 50 000 metric tons in the case of transport by inland waterway.
 
-2.[^key-0c9f7b0f661ecc0b48b6ccf0550e4779] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-0c9f7b0f661ecc0b48b6ccf0550e4779] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 4. Repeal
 
@@ -133,9 +133,9 @@ References to the repealed Regulation shall be construed as references to this R
 
 1. This Regulation shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
 
-2.[^key-7fa5d5eb7bc0339f1d4bbbf037482e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-7fa5d5eb7bc0339f1d4bbbf037482e2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8350047e35787db4f47c9cd469b6268e]...
+[^c-8350047e35787db4f47c9cd469b6268e]...
 
 Done at Brussels, 26 February 2009.
 
@@ -195,14 +195,14 @@ CORRELATION TABLE
 
 [^f00004]: Footnote: See Annex I.
 
-[^key-ce3fcdbd58194d1bab39be70d0c49b99]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eur/2009/169/article/2/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce3fcdbd58194d1bab39be70d0c49b99]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eur/2009/169/article/2/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c30b3f45b73e3c3c9668b1a690c718f0]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/eur/2009/169/article/2/2) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c30b3f45b73e3c3c9668b1a690c718f0]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/eur/2009/169/article/2/2) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab88a598896533201a9d79843192992e]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2009/169/article/3/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab88a598896533201a9d79843192992e]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2009/169/article/3/1) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0c9f7b0f661ecc0b48b6ccf0550e4779]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/eur/2009/169/article/3/2) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c9f7b0f661ecc0b48b6ccf0550e4779]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/eur/2009/169/article/3/2) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7fa5d5eb7bc0339f1d4bbbf037482e2d]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/eur/2009/169/article/5/2) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7fa5d5eb7bc0339f1d4bbbf037482e2d]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/eur/2009/169/article/5/2) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8350047e35787db4f47c9cd469b6268e]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/169/signature) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 3(5)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8350047e35787db4f47c9cd469b6268e]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/169/signature) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 3(5)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

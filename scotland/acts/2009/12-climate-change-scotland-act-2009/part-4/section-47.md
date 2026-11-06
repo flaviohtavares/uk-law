@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Appointment of monitoring body[^key-72ecc99011b181d23e642c9df9c66db1]
+## 47. Appointment of monitoring body[^c-72ecc99011b181d23e642c9df9c66db1]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72ecc99011b181d23e642c9df9c66db1]: Commencement: S. 47 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)
+[^c-72ecc99011b181d23e642c9df9c66db1]: Commencement: S. 47 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)

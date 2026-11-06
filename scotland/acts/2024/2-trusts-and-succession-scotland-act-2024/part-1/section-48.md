@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Application to reform trust[^key-e811f3cb64211269497b99d22d178a76]
+## 48. Application to reform trust[^c-e811f3cb64211269497b99d22d178a76]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ the trustees or (unless the trust deed expressly or impliedly excludes the possi
 
 ## Annotations
 
-[^key-e811f3cb64211269497b99d22d178a76]: Commencement: S. 48 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-e811f3cb64211269497b99d22d178a76]: Commencement: S. 48 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

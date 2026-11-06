@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Finance: information offences[^key-a41372de2d9047010aaa7333f2104d74][^key-a1a7a8f963743a5c8180a1a04a1e05c5]
+## 104. Finance: information offences[^c-a41372de2d9047010aaa7333f2104d74][^c-a1a7a8f963743a5c8180a1a04a1e05c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a41372de2d9047010aaa7333f2104d74]: Commencement: Reg. 104 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-a41372de2d9047010aaa7333f2104d74]: Commencement: Reg. 104 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-a1a7a8f963743a5c8180a1a04a1e05c5]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/2019/411/regulation/104) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1a7a8f963743a5c8180a1a04a1e05c5]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/2019/411/regulation/104) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

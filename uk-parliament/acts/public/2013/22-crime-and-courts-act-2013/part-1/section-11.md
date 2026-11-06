@@ -20,27 +20,27 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3619a2d1d11546d12f84829b88835ef2] Her Majesty's Inspectors of Constabulary (“HMIC”) must carry out inspections of the NCA.
+(1)[^c-3619a2d1d11546d12f84829b88835ef2] Her Majesty's Inspectors of Constabulary (“HMIC”) must carry out inspections of the NCA.
 
-(2)[^key-3619a2d1d11546d12f84829b88835ef2] HMIC must also carry out an inspection of the NCA if requested to do so by the Secretary of State either—
+(2)[^c-3619a2d1d11546d12f84829b88835ef2] HMIC must also carry out an inspection of the NCA if requested to do so by the Secretary of State either—
 
 - (a) generally, or
 - (b) in respect of a particular matter.
 
-(2A)[^key-3da01f119684490b8f87eb20daa3f5e4] The Secretary of State must consult the Department of Justice in Northern Ireland before requesting HMIC to carry out an inspection in respect of a particular matter which relates only to the exercise of NCA functions in Northern Ireland.
+(2A)[^c-3da01f119684490b8f87eb20daa3f5e4] The Secretary of State must consult the Department of Justice in Northern Ireland before requesting HMIC to carry out an inspection in respect of a particular matter which relates only to the exercise of NCA functions in Northern Ireland.
 
 (2B) The Department of Justice may request that HMIC carry out an inspection in respect of a particular matter that relates only to the exercise of NCA functions in Northern Ireland, but only with the consent of the Secretary of State.
 
-(3)[^key-3619a2d1d11546d12f84829b88835ef2] Following an inspection under this section, HMIC must report to the Secretary of State on the efficiency and effectiveness of the NCA either—
+(3)[^c-3619a2d1d11546d12f84829b88835ef2] Following an inspection under this section, HMIC must report to the Secretary of State on the efficiency and effectiveness of the NCA either—
 
 - (a) generally, or
 - (b) in the case of an inspection under subsection (2)(b), in respect of the matter to which the inspection related.
 
-(4)[^key-3619a2d1d11546d12f84829b88835ef2] HMIC must carry out such other duties for the purpose of furthering the efficiency and effectiveness of the NCA as the Secretary of State may from time to time direct.
+(4)[^c-3619a2d1d11546d12f84829b88835ef2] HMIC must carry out such other duties for the purpose of furthering the efficiency and effectiveness of the NCA as the Secretary of State may from time to time direct.
 
-(5)[^key-3619a2d1d11546d12f84829b88835ef2] Paragraphs 2 and 5 of Schedule 4A to the Police Act 1996 (inspection programmes and inspection frameworks) apply to functions of inspection and reporting under this section as they apply to other such functions.
+(5)[^c-3619a2d1d11546d12f84829b88835ef2] Paragraphs 2 and 5 of Schedule 4A to the Police Act 1996 (inspection programmes and inspection frameworks) apply to functions of inspection and reporting under this section as they apply to other such functions.
 
-(6)[^key-8ed50dc62d2bb771ef81879800ed7949][^key-f9e403ebe0c5b17794266ac7f480a3fe] In the Police Reform Act 2002, after section 26B insert—
+(6)[^c-8ed50dc62d2bb771ef81879800ed7949][^c-f9e403ebe0c5b17794266ac7f480a3fe] In the Police Reform Act 2002, after section 26B insert—
 
 > **26C. The National Crime Agency**
 >
@@ -79,34 +79,34 @@ summary: ''
 >
 > (9) In this section “**NCA complaints function**” means a function in relation to the exercise of functions by the Director General or any other National Crime Agency officer.
 
-(7)[^key-3619a2d1d11546d12f84829b88835ef2] In the Police, Public Order and Criminal Justice (Scotland) Act 2006 (Consequential Provisions and Modifications) Order 2007, in article 4(4) (agreements to establish complaints procedures)—
+(7)[^c-3619a2d1d11546d12f84829b88835ef2] In the Police, Public Order and Criminal Justice (Scotland) Act 2006 (Consequential Provisions and Modifications) Order 2007, in article 4(4) (agreements to establish complaints procedures)—
 
 - (a) for “SOCA” (in the first place) substitute “ the National Crime Agency ”;
 - (b) for “SOCA and members of the staff of SOCA” substitute “ the National Crime Agency and National Crime Agency officers ”.
 
-(8)[^key-3619a2d1d11546d12f84829b88835ef2][^key-d0539d3e07a780a7234c13103d50b922] In section 60ZA of the Police (Northern Ireland) Act 1998 (Serious Organised Crime Agency: complaints)—
+(8)[^c-3619a2d1d11546d12f84829b88835ef2][^c-d0539d3e07a780a7234c13103d50b922] In section 60ZA of the Police (Northern Ireland) Act 1998 (Serious Organised Crime Agency: complaints)—
 
 - (a) in the title, for “Serious Organised Crime Agency” substitute “ The National Crime Agency ”;
 - (b) in subsection (1), for “members of the staff of the Serious Organised Crime Agency” substitute “ National Crime Agency officers ”;
 - (c) in subsection (6), for “member of the staff of the Agency” substitute “ National Crime Agency officer ”;
 - (d) omit subsection (7).
 
-(9)[^key-de258f1f482cd71127c038624ba7f48e][^key-adbc32445e40c676d11ca051e021aabd] Schedule 6 (inspections and complaints) has effect.
+(9)[^c-de258f1f482cd71127c038624ba7f48e][^c-adbc32445e40c676d11ca051e021aabd] Schedule 6 (inspections and complaints) has effect.
 
 ## Annotations
 
 [^c2194790]: Extent: S. 11(8): "the relevant NCA provisions" as specified in the table in Sch. 24 para. 9, and to the extent there specified, do not extend to Northern Ireland, see Sch. 24 paras. 1, 2
 
-[^key-3619a2d1d11546d12f84829b88835ef2]: Commencement: S. 11(1)-(5)(7)-(8) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(o)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/o)
+[^c-3619a2d1d11546d12f84829b88835ef2]: Commencement: S. 11(1)-(5)(7)-(8) in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(o)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/o)
 
-[^key-3da01f119684490b8f87eb20daa3f5e4]: Textual amendment: S. 11(2A)(2B) inserted (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2015/798/schedule/2/paragraph/14)
+[^c-3da01f119684490b8f87eb20daa3f5e4]: Textual amendment: S. 11(2A)(2B) inserted (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2015/798/schedule/2/paragraph/14)
 
-[^key-8ed50dc62d2bb771ef81879800ed7949]: Commencement: S. 11(6) in force at 8.5.2013 for specified purposes by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1042/article/2/d)
+[^c-8ed50dc62d2bb771ef81879800ed7949]: Commencement: S. 11(6) in force at 8.5.2013 for specified purposes by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1042/article/2/d)
 
-[^key-f9e403ebe0c5b17794266ac7f480a3fe]: Commencement: S. 11(6) in force at 7.10.2013 in so far as not already in force by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(p)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/p)
+[^c-f9e403ebe0c5b17794266ac7f480a3fe]: Commencement: S. 11(6) in force at 7.10.2013 in so far as not already in force by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(p)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/p)
 
-[^key-d0539d3e07a780a7234c13103d50b922]: Extent: S. 11(8) extended (N.I.) (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [4(1)(a)](https://www.legislation.gov.uk/uksi/2015/798/article/4/1/a)
+[^c-d0539d3e07a780a7234c13103d50b922]: Extent: S. 11(8) extended (N.I.) (19.5.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/798/article/1/3), [4(1)(a)](https://www.legislation.gov.uk/uksi/2015/798/article/4/1/a)
 
-[^key-de258f1f482cd71127c038624ba7f48e]: Commencement: S. 11(9) in force at 8.5.2013 for specified purposes by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/1042/article/2/e)
+[^c-de258f1f482cd71127c038624ba7f48e]: Commencement: S. 11(9) in force at 8.5.2013 for specified purposes by [S.I. 2013/1042](https://www.legislation.gov.uk/uksi/2013/1042), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/1042/article/2/e)
 
-[^key-adbc32445e40c676d11ca051e021aabd]: Commencement: S. 11(9) in force at 7.10.2013 in so far as not already in force by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(q)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/q)
+[^c-adbc32445e40c676d11ca051e021aabd]: Commencement: S. 11(9) in force at 7.10.2013 in so far as not already in force by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(q)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/q)

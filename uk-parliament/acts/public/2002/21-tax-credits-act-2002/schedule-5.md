@@ -31,7 +31,7 @@ Information which is held for the purposes of any functions relating to tax cred
 
 may be used, or supplied to any person providing services to the Board, for the purposes of, or for any purposes connected with, the exercise of any such functions.
 
-**2.**[^key-47a1b14f588a7e228464e7a1f4f4612a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-47a1b14f588a7e228464e7a1f4f4612a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.**[^c18672371] (1) Information which is held for the purposes of any functions relating to social security (including child benefit and guardian’s allowance) or tax credits—
 
@@ -53,30 +53,30 @@ may be used, or supplied to any person providing services to the Secretary of St
 - (a) by the Board, or
 - (b) by a person providing services to the Board, in connection with the provision of those services.
 
-(2)[^key-cbffc8b850a5475e122f74159a3e860e] Information to which this paragraph applies may be supplied—
+(2)[^c-cbffc8b850a5475e122f74159a3e860e] Information to which this paragraph applies may be supplied—
 
 - (a) to the Secretary of State, or
 - (b) to a person providing services to the Secretary of State,
 
-for use for the purposes of functions relating to [^key-e500f0433e5075b63a60246d47672a4c]... war pensions or for such purposes relating to evaluation or statistical studies as may be prescribed.
+for use for the purposes of functions relating to [^c-e500f0433e5075b63a60246d47672a4c]... war pensions or for such purposes relating to evaluation or statistical studies as may be prescribed.
 
-(3)[^key-448720157fae8d86d06cedf6d98545f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-448720157fae8d86d06cedf6d98545f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3A) Information to which this paragraph applies may be supplied—
 
 - (a) to the Northern Ireland Department, or
 - (b) to a person providing services to the Northern Ireland Department,
 
-for use for the purposes of functions relating to [^key-22918c37ea837f2d44b29b696bbf9124]... child support or war pensions or for such purposes relating to evaluation or statistical studies as may be prescribed.
+for use for the purposes of functions relating to [^c-22918c37ea837f2d44b29b696bbf9124]... child support or war pensions or for such purposes relating to evaluation or statistical studies as may be prescribed.
 
 (3B) An authorised officer may require information to which this paragraph applies to be supplied—
 
 - (a) to the Northern Ireland Department, or
 - (b) to a person providing services to the Northern Ireland Department,
 
-for use for the purposes of functions relating to [^key-dedf2d0a4ade2d00db567a5a5e9cc20f]... child support.
+for use for the purposes of functions relating to [^c-dedf2d0a4ade2d00db567a5a5e9cc20f]... child support.
 
-(4) In sub-paragraphs[^key-0256d8b7a430d3f973235eaa3a90e59e] [^key-bc002a490437a59a0e3314315170834b]... (3B) “**authorised officer**” means an officer of the Secretary of State or the Northern Ireland Department authorised for the purposes of this paragraph by the Secretary of State or the Northern Ireland Department.
+(4) In sub-paragraphs[^c-0256d8b7a430d3f973235eaa3a90e59e] [^c-bc002a490437a59a0e3314315170834b]... (3B) “**authorised officer**” means an officer of the Secretary of State or the Northern Ireland Department authorised for the purposes of this paragraph by the Secretary of State or the Northern Ireland Department.
 
 (5) In this paragraph “**war pension**” has the meaning given by section 25(4) of the Social Security Act 1989 (c. 24).
 
@@ -92,12 +92,12 @@ for use for the purposes of functions relating to [^key-dedf2d0a4ade2d00db567a5a
 
 for use for the purposes of such functions relating to employment or training as may be prescribed.
 
-**6.**[^c18672401] (1)[^key-2ce96580596144e3701eb9439914e9a9] This paragraph applies to information which is held for the purposes of functions relating to [^key-7042c91e93cd90d2e9e9397d26bf4e87]... war pensions or employment or training—
+**6.**[^c18672401] (1)[^c-2ce96580596144e3701eb9439914e9a9] This paragraph applies to information which is held for the purposes of functions relating to [^c-7042c91e93cd90d2e9e9397d26bf4e87]... war pensions or employment or training—
 
 - (a) by the Secretary of State, or
 - (b) by a person providing services to the Secretary of State, in connection with the provision of those services.
 
-(1A) This paragraph also applies to information which is held for the purposes of functions relating to [^key-d0bb039f550448f5aa960e17cdbbef76]... child support, war pensions or employment or training—
+(1A) This paragraph also applies to information which is held for the purposes of functions relating to [^c-d0bb039f550448f5aa960e17cdbbef76]... child support, war pensions or employment or training—
 
 - (a) by the Northern Ireland Department or the Department for Employment and Learning in Northern Ireland, or
 - (b) by a person providing services to either of those Departments, in connection with the provision of those services.
@@ -109,7 +109,7 @@ for use for the purposes of such functions relating to employment or training as
 
 for use for the purposes of functions relating to tax credits, child benefit or guardian’s allowance.
 
-(3) The Board may require information to which this paragraph applies to be so supplied if the information is held for the purposes of functions relating to [^key-874a06173fb65c983d77c66440e18ad4]... child support.
+(3) The Board may require information to which this paragraph applies to be so supplied if the information is held for the purposes of functions relating to [^c-874a06173fb65c983d77c66440e18ad4]... child support.
 
 (4) In this paragraph “**war pension**” has the meaning given by section 25(4) of the Social Security Act 1989.
 
@@ -177,7 +177,7 @@ and is not to be so supplied in those circumstances without the authority of the
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years, to a fine or to both, or
 - (b) on summary conviction, to imprisonment for a term not exceeding six months, to a fine not exceeding the statutory maximum or to both.
 
-### 10. Provision of information by Board for education purposes[^key-5756d3fc6fe71b4d4a1dab071fc36e11]
+### 10. Provision of information by Board for education purposes[^c-5756d3fc6fe71b4d4a1dab071fc36e11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -191,7 +191,7 @@ and is not to be so supplied in those circumstances without the authority of the
 (2) Information to which this paragraph applies may be supplied to—
 
 - (a) a local authority in England and Wales for use for the purpose of any enquiry or investigation under Part 5 of the Children Act 1989 relating to the welfare of a child;
-- (b) a local authority in Scotland for use for the purpose of any enquiry or investigation under Chapter 3 of Part 2 of the Children (Scotland) Act 1995 , or Part 5, 6, 13 or 14 of the Children’s Hearings (Scotland) Act 2011,[^key-bfdfe8e15f10976d5bf9822ae2c98e79] relating to the welfare of a child;
+- (b) a local authority in Scotland for use for the purpose of any enquiry or investigation under Chapter 3 of Part 2 of the Children (Scotland) Act 1995 , or Part 5, 6, 13 or 14 of the Children’s Hearings (Scotland) Act 2011,[^c-bfdfe8e15f10976d5bf9822ae2c98e79] relating to the welfare of a child;
 - (c) an authority in Northern Ireland for use for the purpose of any enquiry or investigation under Part 6 of the Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I.2)) relating to the welfare of a child.
 
 (3) Information supplied under this paragraph is not to be supplied by the recipient to any other person or body unless it is supplied—
@@ -269,7 +269,7 @@ and is not to be so supplied in those circumstances without the authority of the
 
 .
 
-### 12. Consequential amendments[^key-0ca53bcc4969e2896d6c217083ab0f31]
+### 12. Consequential amendments[^c-0ca53bcc4969e2896d6c217083ab0f31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -279,37 +279,37 @@ and is not to be so supplied in those circumstances without the authority of the
 
 [^c18672351]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) wholly in force at 1.4.2003; [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) not in force at Royal Assent, see [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain purposes at 1.8.2002 by [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain further purposes at 26.2.2003 and otherwise in force at 1.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
-[^key-47a1b14f588a7e228464e7a1f4f4612a]: Textual amendment: Sch. 5 para. 2 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 91](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/91), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-47a1b14f588a7e228464e7a1f4f4612a]: Textual amendment: Sch. 5 para. 2 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 91](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/91), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
 
 [^c18672371]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) wholly in force at 1.4.2003; [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) not in force at Royal Assent, see [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain purposes at 1.8.2002 by [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain further purposes at 26.2.2003 and otherwise in force at 1.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
 [^c18672381]: Commencement: Sch. 5 wholly in force at 1.4.2003; Sch. 5 not in force at Royal Assent, see s. 61; Sch. 5 in force for certain purposes at 1.8.2002 by [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2); Sch. 5 in force for certain further purposes at 26.2.2003 and otherwise in force at 1.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
-[^key-cbffc8b850a5475e122f74159a3e860e]: Textual amendment: Sch. 5 para. 4(2)-(3B) substituted for Sch. 5 para. 4(2) (1.6.2009) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2008/6/schedule/7/paragraph/4/2); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/2/b/i)
+[^c-cbffc8b850a5475e122f74159a3e860e]: Textual amendment: Sch. 5 para. 4(2)-(3B) substituted for Sch. 5 para. 4(2) (1.6.2009) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2008/6/schedule/7/paragraph/4/2); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/2/b/i)
 
-[^key-e500f0433e5075b63a60246d47672a4c]: Textual amendment: Words in [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/4/2) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
+[^c-e500f0433e5075b63a60246d47672a4c]: Textual amendment: Words in [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/4/2) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
 
-[^key-448720157fae8d86d06cedf6d98545f8]: Textual amendment: [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/4/3) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
+[^c-448720157fae8d86d06cedf6d98545f8]: Textual amendment: [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/4/3) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
 
-[^key-22918c37ea837f2d44b29b696bbf9124]: Textual amendment: Words in [Sch. 5 para. 4(3A)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/4/3A) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
+[^c-22918c37ea837f2d44b29b696bbf9124]: Textual amendment: Words in [Sch. 5 para. 4(3A)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/4/3A) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
 
-[^key-dedf2d0a4ade2d00db567a5a5e9cc20f]: Textual amendment: Words in [Sch. 5 para. 4(3B)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/4/3B) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
+[^c-dedf2d0a4ade2d00db567a5a5e9cc20f]: Textual amendment: Words in [Sch. 5 para. 4(3B)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/4/3B) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
 
-[^key-0256d8b7a430d3f973235eaa3a90e59e]: Textual amendment: Words in Sch. 5 para. 4(4) substituted (1.6.2009) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 7 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/6/schedule/7/paragraph/4/3); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/2/b/i)
+[^c-0256d8b7a430d3f973235eaa3a90e59e]: Textual amendment: Words in Sch. 5 para. 4(4) substituted (1.6.2009) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 7 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/6/schedule/7/paragraph/4/3); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/2/b/i)
 
-[^key-bc002a490437a59a0e3314315170834b]: Textual amendment: Words in [Sch. 5 para. 4(4)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/4/4) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
+[^c-bc002a490437a59a0e3314315170834b]: Textual amendment: Words in [Sch. 5 para. 4(4)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/4/4) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
 
 [^c18672391]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) wholly in force at 1.4.2003; [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) not in force at Royal Assent, see [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain purposes at 1.8.2002 by [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain further purposes at 26.2.2003 and otherwise in force at 1.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
 [^c18672401]: Commencement: Sch. 5 wholly in force at 1.4.2003; Sch. 5 not in force at Royal Assent, see s. 61; Sch. 5 in force for certain purposes at 1.8.2002 by [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2); Sch. 5 in force for certain further purposes at 26.2.2003 and otherwise in force at 1.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
-[^key-2ce96580596144e3701eb9439914e9a9]: Textual amendment: Sch. 5 para. 6(1)(1A) substituted for Sch. 5 para. 6(1) (1.6.2009) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/ukpga/2008/6/schedule/7/paragraph/4/4); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/2/b/i)
+[^c-2ce96580596144e3701eb9439914e9a9]: Textual amendment: Sch. 5 para. 6(1)(1A) substituted for Sch. 5 para. 6(1) (1.6.2009) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 7 para. 4(4)](https://www.legislation.gov.uk/ukpga/2008/6/schedule/7/paragraph/4/4); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/2/b/i)
 
-[^key-7042c91e93cd90d2e9e9397d26bf4e87]: Textual amendment: Words in [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/6/1) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
+[^c-7042c91e93cd90d2e9e9397d26bf4e87]: Textual amendment: Words in [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/6/1) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
 
-[^key-d0bb039f550448f5aa960e17cdbbef76]: Textual amendment: Words in [Sch. 5 para. 6(1A)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/6/1A) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
+[^c-d0bb039f550448f5aa960e17cdbbef76]: Textual amendment: Words in [Sch. 5 para. 6(1A)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/6/1A) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
 
-[^key-874a06173fb65c983d77c66440e18ad4]: Textual amendment: Words in [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/6/3) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
+[^c-874a06173fb65c983d77c66440e18ad4]: Textual amendment: Words in [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5/paragraph/6/3) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(f)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/f), [Sch. 14 Pt. 13](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/13)
 
 [^c18672411]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) wholly in force at 1.4.2003; [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) not in force at Royal Assent, see [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain purposes at 1.8.2002 by [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain further purposes at 26.2.2003 and otherwise in force at 1.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
@@ -317,14 +317,14 @@ and is not to be so supplied in those circumstances without the authority of the
 
 [^c18672431]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) wholly in force at 1.4.2003; [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) not in force at Royal Assent, see [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain purposes at 1.8.2002 by [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain further purposes at 26.2.2003 and otherwise in force at 1.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
-[^key-5756d3fc6fe71b4d4a1dab071fc36e11]: Textual amendment: Sch. 5 para. 10 repealed (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4)[(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 78](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/78), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(g)(h)(v)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/g/h/v)
+[^c-5756d3fc6fe71b4d4a1dab071fc36e11]: Textual amendment: Sch. 5 para. 10 repealed (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4)[(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 78](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/78), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(g)(h)(v)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/g/h/v)
 
 [^c22566571]: Textual amendment: Sch. 5 para. 10A inserted (15.11.2004) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [ss. 63](https://www.legislation.gov.uk/ukpga/2004/31/section/63), [67(7)(k)](https://www.legislation.gov.uk/ukpga/2004/31/section/67/7/k)
 
-[^key-bfdfe8e15f10976d5bf9822ae2c98e79]: Textual amendment: Words in Sch. 5 para. 10A(2)(b) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/8)
+[^c-bfdfe8e15f10976d5bf9822ae2c98e79]: Textual amendment: Words in Sch. 5 para. 10A(2)(b) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/8)
 
 [^c18672451]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) wholly in force at 1.4.2003; [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) not in force at Royal Assent, see [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain purposes at 1.8.2002 by [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain further purposes at 26.2.2003 and otherwise in force at 1.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
-[^key-0ca53bcc4969e2896d6c217083ab0f31]: Textual amendment: Sch. 5 para. 12 repealed (N.I.) (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)
+[^c-0ca53bcc4969e2896d6c217083ab0f31]: Textual amendment: Sch. 5 para. 12 repealed (N.I.) (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)
 
 [^c18672471]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) wholly in force at 1.4.2003; [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) not in force at Royal Assent, see [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain purposes at 1.8.2002 by [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2); [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/21/schedule/5) in force for certain further purposes at 26.2.2003 and otherwise in force at 1.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)

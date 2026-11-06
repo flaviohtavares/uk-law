@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31A. Prescription of certain matters in respect of prisoners’ earnings[^key-5a72ae26965f3c0fc5afae3a5e6c17d4]
+## 31A. Prescription of certain matters in respect of prisoners’ earnings[^c-5a72ae26965f3c0fc5afae3a5e6c17d4]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a72ae26965f3c0fc5afae3a5e6c17d4]: Textual amendment: [Rule 31A](https://www.legislation.gov.uk/uksi/1999/728/rule/31A) inserted (26.9.2011) by [The Prison and Young Offender Institution (Amendment) Rules 2011 (S.I. 2011/1663)](https://www.legislation.gov.uk/uksi/2011/1663), [rule 1](https://www.legislation.gov.uk/uksi/2011/1663/rule/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1663/schedule/1/paragraph/2)
+[^c-5a72ae26965f3c0fc5afae3a5e6c17d4]: Textual amendment: [Rule 31A](https://www.legislation.gov.uk/uksi/1999/728/rule/31A) inserted (26.9.2011) by [The Prison and Young Offender Institution (Amendment) Rules 2011 (S.I. 2011/1663)](https://www.legislation.gov.uk/uksi/2011/1663), [rule 1](https://www.legislation.gov.uk/uksi/2011/1663/rule/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1663/schedule/1/paragraph/2)

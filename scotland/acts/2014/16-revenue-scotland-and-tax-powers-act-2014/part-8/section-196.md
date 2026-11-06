@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 196. Daily default penalties for failure to comply or obstruction[^key-2c5c09ae3770302254354a5eca49620f]
+## 196. Daily default penalties for failure to comply or obstruction[^c-2c5c09ae3770302254354a5eca49620f]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c5c09ae3770302254354a5eca49620f]: Commencement: [S. 196](https://www.legislation.gov.uk/asp/2014/16/section/196) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-2c5c09ae3770302254354a5eca49620f]: Commencement: [S. 196](https://www.legislation.gov.uk/asp/2014/16/section/196) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

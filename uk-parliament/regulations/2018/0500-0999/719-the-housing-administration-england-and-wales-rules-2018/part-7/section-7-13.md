@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.13. Standard contents of notices to be delivered to persons other than the relevant registry[^key-db27dc54cf434fdaf94deb6c5bbcf09c]
+## 7.13. Standard contents of notices to be delivered to persons other than the relevant registry[^c-db27dc54cf434fdaf94deb6c5bbcf09c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db27dc54cf434fdaf94deb6c5bbcf09c]: Commencement: Rule 7.13 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-db27dc54cf434fdaf94deb6c5bbcf09c]: Commencement: Rule 7.13 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

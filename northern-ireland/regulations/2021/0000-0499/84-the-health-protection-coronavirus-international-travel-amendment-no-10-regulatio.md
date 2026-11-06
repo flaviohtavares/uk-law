@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, International Travel) (Amendment No. 10) Regulations (Northern Ireland) 2021 (revoked)[^key-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]
+The Health Protection (Coronavirus, International Travel) (Amendment No. 10) Regulations (Northern Ireland) 2021 (revoked)[^c-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]
 
 Made
 
@@ -42,36 +42,36 @@ Coming into operation
 
 at 4.00 a.m. on 27th March 2021
 
-[^key-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]
+## 1. Citation, commencement and interpretation[^c-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2020[^key-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]
+## 2. Amendment of the Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2020[^c-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to regulation 4[^key-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]
+## 3. Amendment to regulation 4[^c-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to Schedule 2[^key-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]
+## 4. Amendments to Schedule 2[^c-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional and saving provision[^key-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]
+## 5. Transitional and saving provision[^c-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]: Textual amendment: Regulations revoked (16.4.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2021 (S.R. 2021/99)](https://www.legislation.gov.uk/nisr/2021/99), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2021/99/regulation/1/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nisr/2021/99/schedule/9/part/1) (with [regs. 37](https://www.legislation.gov.uk/nisr/2021/99/regulation/37), [39](https://www.legislation.gov.uk/nisr/2021/99/regulation/39), [40](https://www.legislation.gov.uk/nisr/2021/99/regulation/40))
+[^c-cc4cf2e69d6f8c1c2cfc68bc3b2f175e]: Textual amendment: Regulations revoked (16.4.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2021 (S.R. 2021/99)](https://www.legislation.gov.uk/nisr/2021/99), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2021/99/regulation/1/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nisr/2021/99/schedule/9/part/1) (with [regs. 37](https://www.legislation.gov.uk/nisr/2021/99/regulation/37), [39](https://www.legislation.gov.uk/nisr/2021/99/regulation/39), [40](https://www.legislation.gov.uk/nisr/2021/99/regulation/40))

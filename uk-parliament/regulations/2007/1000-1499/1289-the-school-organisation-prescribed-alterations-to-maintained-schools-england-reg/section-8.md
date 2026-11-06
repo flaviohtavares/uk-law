@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Regard to guidance[^key-40d8cac2ff29db0a6b2c85652dabc1ea]
+## 8. Regard to guidance[^c-40d8cac2ff29db0a6b2c85652dabc1ea]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ must have regard to any guidance given from time to time by the Secretary of Sta
 
 ## Annotations
 
-[^key-40d8cac2ff29db0a6b2c85652dabc1ea]: Commencement: Reg. 8 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-40d8cac2ff29db0a6b2c85652dabc1ea]: Commencement: Reg. 8 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)

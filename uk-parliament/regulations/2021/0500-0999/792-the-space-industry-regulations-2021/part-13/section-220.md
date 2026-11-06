@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Limit on the amount of operator’s liability[^key-b0ab40d1221f1b3642566d8a824cd819]
+## 220. Limit on the amount of operator’s liability[^c-b0ab40d1221f1b3642566d8a824cd819]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0ab40d1221f1b3642566d8a824cd819]: Commencement: Reg. 220 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-b0ab40d1221f1b3642566d8a824cd819]: Commencement: Reg. 220 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00065]: Footnote: See definitions of “carry out” at section 1(2) and “spaceflight activities” at section 1(6) of the Space Industry Act 2018.

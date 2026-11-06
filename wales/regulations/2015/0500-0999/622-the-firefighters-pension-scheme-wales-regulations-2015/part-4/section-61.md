@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Establishment of survivor member’s account[^key-cfd0ea16207b79a62daca738c848235e]
+## 61. Establishment of survivor member’s account[^c-cfd0ea16207b79a62daca738c848235e]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfd0ea16207b79a62daca738c848235e]: Commencement: Reg. 61 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-cfd0ea16207b79a62daca738c848235e]: Commencement: Reg. 61 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

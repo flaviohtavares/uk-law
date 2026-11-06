@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.11. General power of transfer[^key-6f62e7e84f672c29becebce66b41849c]
+## 7.11. General power of transfer[^c-6f62e7e84f672c29becebce66b41849c]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f62e7e84f672c29becebce66b41849c]: Commencement: [Rule 7.11](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.11) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-6f62e7e84f672c29becebce66b41849c]: Commencement: [Rule 7.11](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.11) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14D. Determination of applications for building control approval with full plans: Wales[^key-78691abd323c97c00d01e1cf610c7aa0]
+## 14D. Determination of applications for building control approval with full plans: Wales[^c-78691abd323c97c00d01e1cf610c7aa0]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) is not sufficiently detailed in any respect to allow the building control authority to determine whether the proposed work would contravene any applicable requirement of the building regulations;
 - (c) shows that—
   - (i) the proposed work would contravene any applicable requirements of these Regulations, or
-  - (ii) where the statement regarding commencement includes the client’s assessment of when building control input is required, the building control authority is of the opinion that input[^key-f01ccaa42f06e551a225c43fed4bad20] will be required at a different point, be that earlier or later, than the point described in the application.
+  - (ii) where the statement regarding commencement includes the client’s assessment of when building control input is required, the building control authority is of the opinion that input[^c-f01ccaa42f06e551a225c43fed4bad20] will be required at a different point, be that earlier or later, than the point described in the application.
 
 (2) If the application for building control approval with full plans (or any plans or other documents which accompany it) is defective or shows that the proposed work would contravene any requirement of these Regulations, the building control authority may—
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78691abd323c97c00d01e1cf610c7aa0]: Textual amendment: [Regs. 14D](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14D), [14E](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14E) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/7/2) (with [regs. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19), [21](https://www.legislation.gov.uk/wsi/2025/1320/regulation/21))
+[^c-78691abd323c97c00d01e1cf610c7aa0]: Textual amendment: [Regs. 14D](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14D), [14E](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14E) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/7/2) (with [regs. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19), [21](https://www.legislation.gov.uk/wsi/2025/1320/regulation/21))
 
-[^key-f01ccaa42f06e551a225c43fed4bad20]: Textual amendment: Word in [reg. 14D(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14D/1/c/ii) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2026/112/regulation/3/5)
+[^c-f01ccaa42f06e551a225c43fed4bad20]: Textual amendment: Word in [reg. 14D(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/14D/1/c/ii) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2026/112/regulation/3/5)

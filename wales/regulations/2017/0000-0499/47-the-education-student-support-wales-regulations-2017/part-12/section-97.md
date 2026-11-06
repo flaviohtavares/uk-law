@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Part-time grants for dependants - application of contribution[^key-a4ed114372df0d4d29e6685c39d94c73]
+## 97. Part-time grants for dependants - application of contribution[^c-a4ed114372df0d4d29e6685c39d94c73]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4ed114372df0d4d29e6685c39d94c73]: Commencement: Reg. 97 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-a4ed114372df0d4d29e6685c39d94c73]: Commencement: Reg. 97 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

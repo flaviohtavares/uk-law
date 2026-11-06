@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Prohibition of commercial dealings in parts of a human body for transplantation[^key-91c72bf36ecbb9aa0ca6f8968a7d5748]
+## 20. Prohibition of commercial dealings in parts of a human body for transplantation[^c-91c72bf36ecbb9aa0ca6f8968a7d5748]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91c72bf36ecbb9aa0ca6f8968a7d5748]: Commencement: S. 20 in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-91c72bf36ecbb9aa0ca6f8968a7d5748]: Commencement: S. 20 in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Revision of register following notification of change[^key-213c06ac2730960df54101f22a759c20]
+## 22. Revision of register following notification of change[^c-213c06ac2730960df54101f22a759c20]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-213c06ac2730960df54101f22a759c20]: Commencement: S. 22 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-213c06ac2730960df54101f22a759c20]: Commencement: S. 22 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

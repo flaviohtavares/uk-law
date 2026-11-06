@@ -31,7 +31,7 @@ summary: ''
 
 INTERNATIONAL IMMUNITIES AND PRIVILEGES
 
-The European Communities (Definition of Treaties) (North Atlantic Salmon Conservation Organization) Order 2001 (revoked)[^key-c8a7b66be0037a1bc6e0c686e47949bd]
+The European Communities (Definition of Treaties) (North Atlantic Salmon Conservation Organization) Order 2001 (revoked)[^c-c8a7b66be0037a1bc6e0c686e47949bd]
 
 Made
 
@@ -47,24 +47,24 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-c8a7b66be0037a1bc6e0c686e47949bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8a7b66be0037a1bc6e0c686e47949bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-c8a7b66be0037a1bc6e0c686e47949bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c8a7b66be0037a1bc6e0c686e47949bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c8a7b66be0037a1bc6e0c686e47949bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c8a7b66be0037a1bc6e0c686e47949bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8a7b66be0037a1bc6e0c686e47949bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8a7b66be0037a1bc6e0c686e47949bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-c8a7b66be0037a1bc6e0c686e47949bd]
+## SCHEDULE[^c-c8a7b66be0037a1bc6e0c686e47949bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8a7b66be0037a1bc6e0c686e47949bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8a7b66be0037a1bc6e0c686e47949bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8a7b66be0037a1bc6e0c686e47949bd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/3672) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8a7b66be0037a1bc6e0c686e47949bd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/3672) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

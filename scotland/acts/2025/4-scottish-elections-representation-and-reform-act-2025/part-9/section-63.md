@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Boundaries Scotland: reports on Parliament boundaries before a general election[^key-7a7c0a74b5cf72abfa407cfa09ab61b0][^key-279a78fe52e6efd9f2dbf31152873c67]
+## 63. Boundaries Scotland: reports on Parliament boundaries before a general election[^c-7a7c0a74b5cf72abfa407cfa09ab61b0][^c-279a78fe52e6efd9f2dbf31152873c67]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a7c0a74b5cf72abfa407cfa09ab61b0]: Commencement: S. 63 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-7a7c0a74b5cf72abfa407cfa09ab61b0]: Commencement: S. 63 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-279a78fe52e6efd9f2dbf31152873c67]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2025/4/section/63) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-279a78fe52e6efd9f2dbf31152873c67]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2025/4/section/63) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

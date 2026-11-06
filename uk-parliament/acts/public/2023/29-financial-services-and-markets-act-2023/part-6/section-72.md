@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Liability of payment service providers for fraudulent transactions[^key-985c9068ed9109663c976f7a67ed6508]
+## 72. Liability of payment service providers for fraudulent transactions[^c-985c9068ed9109663c976f7a67ed6508]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-985c9068ed9109663c976f7a67ed6508]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2023/29/section/72) in force at 29.8.2023, see [s. 86(2)(i)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/i)
+[^c-985c9068ed9109663c976f7a67ed6508]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2023/29/section/72) in force at 29.8.2023, see [s. 86(2)(i)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/i)

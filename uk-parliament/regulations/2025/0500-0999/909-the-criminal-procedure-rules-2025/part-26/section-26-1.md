@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26.1. Appeal against officer’s refusal to excuse or postpone jury service[^key-07560beab746452dc535162d24b1eb64]
+## 26.1. Appeal against officer’s refusal to excuse or postpone jury service[^c-07560beab746452dc535162d24b1eb64]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07560beab746452dc535162d24b1eb64]: Commencement: [Rule 26.1](https://www.legislation.gov.uk/uksi/2025/909/rule/26.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-07560beab746452dc535162d24b1eb64]: Commencement: [Rule 26.1](https://www.legislation.gov.uk/uksi/2025/909/rule/26.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00624]: Footnote: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23); section 9 was amended by paragraphs 1, 3, 4, 5 and 6 of Schedule 33, and Part 10 of Schedule 37, to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and paragraph 172 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39). Section 9A was inserted by section 120 of the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33) and amended by paragraphs 1, 7, 8, 9, 10 and 11 of Schedule 33 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and paragraph 172 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).

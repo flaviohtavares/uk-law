@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Approval by the schools forum or the Secretary of State of proposals to revise schemes[^key-7cb026ddd1f00712cba2f8f572fd74c0]
+## 27. Approval by the schools forum or the Secretary of State of proposals to revise schemes[^c-7cb026ddd1f00712cba2f8f572fd74c0]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ the authority may apply to the Secretary of State for approval of such proposals
 
 ## Annotations
 
-[^key-7cb026ddd1f00712cba2f8f572fd74c0]: Commencement: Reg. 27 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-7cb026ddd1f00712cba2f8f572fd74c0]: Commencement: Reg. 27 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
 [^f00035]: Footnote: Paragraph 2A was inserted by section 57 of, and paragraph 5 of Schedule 5 to, the 2006 Act.

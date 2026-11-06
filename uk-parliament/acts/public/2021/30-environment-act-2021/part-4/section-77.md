@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Interpretation of sections 74 to 76[^key-48487f02a0b8165d780f0c3b8ab0f4ee][^key-7144dbad5ef28b0b7cff20a13e742a93]
+## 77. Interpretation of sections 74 to 76[^c-48487f02a0b8165d780f0c3b8ab0f4ee][^c-7144dbad5ef28b0b7cff20a13e742a93]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ In sections 74 to 76—
 
 ## Annotations
 
-[^key-48487f02a0b8165d780f0c3b8ab0f4ee]: Commencement: S. 77 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-48487f02a0b8165d780f0c3b8ab0f4ee]: Commencement: S. 77 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-7144dbad5ef28b0b7cff20a13e742a93]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2021/30/section/77) in force at 17.5.2024 by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/b)
+[^c-7144dbad5ef28b0b7cff20a13e742a93]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2021/30/section/77) in force at 17.5.2024 by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1107. Penalties[^key-d00b1c5cfe100626fe8646d9a4818b21]
+## 1107. Penalties[^c-d00b1c5cfe100626fe8646d9a4818b21]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d00b1c5cfe100626fe8646d9a4818b21]: Modification: S. 1107 applied (with modifications) (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [28(2)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/28/2)
+[^c-d00b1c5cfe100626fe8646d9a4818b21]: Modification: S. 1107 applied (with modifications) (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [28(2)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/28/2)

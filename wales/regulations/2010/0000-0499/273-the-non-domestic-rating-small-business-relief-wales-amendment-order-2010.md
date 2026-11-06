@@ -31,7 +31,7 @@ summary: ''
 
 RATING AND VALUATION, WALES
 
-The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2010 (revoked)[^key-c95ce93a8b9e0ed99ba4c0633bb32ed6]
+The Non-Domestic Rating (Small Business Relief) (Wales) (Amendment) Order 2010 (revoked)[^c-c95ce93a8b9e0ed99ba4c0633bb32ed6]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 April 2010
 
-[^key-c95ce93a8b9e0ed99ba4c0633bb32ed6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c95ce93a8b9e0ed99ba4c0633bb32ed6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, and application[^key-c95ce93a8b9e0ed99ba4c0633bb32ed6]
+## 1. Title, commencement, and application[^c-c95ce93a8b9e0ed99ba4c0633bb32ed6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to The Non-Domestic Rating (Small Business Relief) (Wales) Order 2008[^key-c95ce93a8b9e0ed99ba4c0633bb32ed6]
+## 2. Amendments to The Non-Domestic Rating (Small Business Relief) (Wales) Order 2008[^c-c95ce93a8b9e0ed99ba4c0633bb32ed6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c95ce93a8b9e0ed99ba4c0633bb32ed6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c95ce93a8b9e0ed99ba4c0633bb32ed6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c95ce93a8b9e0ed99ba4c0633bb32ed6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c95ce93a8b9e0ed99ba4c0633bb32ed6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c95ce93a8b9e0ed99ba4c0633bb32ed6]: Textual amendment: Order revoked (with effect in accordance with art. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Small Business Relief) (Wales) Order 2015 (S.I. 2015/229)](https://www.legislation.gov.uk/uksi/2015/229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/229/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/229/schedule/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2015/229/article/17))
+[^c-c95ce93a8b9e0ed99ba4c0633bb32ed6]: Textual amendment: Order revoked (with effect in accordance with art. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Small Business Relief) (Wales) Order 2015 (S.I. 2015/229)](https://www.legislation.gov.uk/uksi/2015/229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/229/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/229/schedule/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2015/229/article/17))

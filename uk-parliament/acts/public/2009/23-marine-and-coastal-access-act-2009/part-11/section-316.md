@@ -31,14 +31,14 @@ summary: ''
 
 (4) Subsections (2) and (3) do not apply to—
 
-- (a) an order made under any of sections 116 to 137G[^key-d9756ff5f05dfa9b46f9d1960957f6bb] (orders made for the purpose of designating, or furthering the objectives of, MCZs etc[^key-dbe0143c13d8d619614a75c0a1173f56]);
+- (a) an order made under any of sections 116 to 137G[^c-d9756ff5f05dfa9b46f9d1960957f6bb] (orders made for the purpose of designating, or furthering the objectives of, MCZs etc[^c-dbe0143c13d8d619614a75c0a1173f56]);
 - (b) an order made under section 159 (orders amending or revoking byelaws made by IFC authorities).
 
 (5) Any regulations or order made under this Act by a Northern Ireland department are to be a statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1513 (N.I. 12)).
 
 (6) A statutory instrument or statutory rule which contains (whether alone or with other provisions)—
 
-- (za)[^key-ee32c9dbd0dc3e1ff4f122a6d7edb3b0] any order under section 137E that contains provision for the charging of fees for permits (including provision changing the levels of fees),
+- (za)[^c-ee32c9dbd0dc3e1ff4f122a6d7edb3b0] any order under section 137E that contains provision for the charging of fees for permits (including provision changing the levels of fees),
 - (a) any regulation or order which by virtue of subsection (2) or section 188(2)(d) makes provision amending primary legislation, or
 - (b) any regulation or order under any of the provisions specified in subsection (7),
 
@@ -92,8 +92,8 @@ is subject to negative resolution procedure.
 
 ## Annotations
 
-[^key-d9756ff5f05dfa9b46f9d1960957f6bb]: Textual amendment: Word in s. 316(4)(a) substituted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 31(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/31/2/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-d9756ff5f05dfa9b46f9d1960957f6bb]: Textual amendment: Word in s. 316(4)(a) substituted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 31(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/31/2/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-dbe0143c13d8d619614a75c0a1173f56]: Textual amendment: Word in s. 316(4)(a) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 31(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/31/2/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-dbe0143c13d8d619614a75c0a1173f56]: Textual amendment: Word in s. 316(4)(a) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 31(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/31/2/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-ee32c9dbd0dc3e1ff4f122a6d7edb3b0]: Textual amendment: S. 316(6)(za) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 31(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/31/3) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-ee32c9dbd0dc3e1ff4f122a6d7edb3b0]: Textual amendment: S. 316(6)(za) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 31(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/31/3) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

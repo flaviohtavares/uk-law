@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Disclosure of confidential information[^key-a7cf12ade6b49e80a51bbf608aedeea8]
+## 54. Disclosure of confidential information[^c-a7cf12ade6b49e80a51bbf608aedeea8]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-a7cf12ade6b49e80a51bbf608aedeea8]: Commencement: Art. 54 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-a7cf12ade6b49e80a51bbf608aedeea8]: Commencement: Art. 54 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

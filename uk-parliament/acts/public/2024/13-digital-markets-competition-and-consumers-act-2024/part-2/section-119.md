@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Removal of requirement for agreements etc to be implemented in the UK[^key-11c1f84a257f6162f541b0a2f84957eb][^key-c5e7764f153736c9b5a0a805897f7a0b]
+## 119. Removal of requirement for agreements etc to be implemented in the UK[^c-11c1f84a257f6162f541b0a2f84957eb][^c-c5e7764f153736c9b5a0a805897f7a0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11c1f84a257f6162f541b0a2f84957eb]: Commencement: S. 119 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-11c1f84a257f6162f541b0a2f84957eb]: Commencement: S. 119 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-c5e7764f153736c9b5a0a805897f7a0b]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2024/13/section/119) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-c5e7764f153736c9b5a0a805897f7a0b]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2024/13/section/119) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

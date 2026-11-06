@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40B. Information about overheating[^key-6ad1f17ba604e0406e51932078683f99]
+## 40B. Information about overheating[^c-6ad1f17ba604e0406e51932078683f99]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ad1f17ba604e0406e51932078683f99]: Textual amendment: [Regs. 40A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/40A), [40B](https://www.legislation.gov.uk/uksi/2010/2214/regulation/40B) inserted (E.) (15.6.2022) by [The Building Regulations etc. (Amendment) (England) Regulations 2021 (S.I. 2021/1391)](https://www.legislation.gov.uk/uksi/2021/1391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2021/1391/regulation/8) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2021/1391/regulation/17)) (as amended (5.6.2023) by [S.I. 2023/520](https://www.legislation.gov.uk/uksi/2023/520), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/520/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/520/regulation/3))
+[^c-6ad1f17ba604e0406e51932078683f99]: Textual amendment: [Regs. 40A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/40A), [40B](https://www.legislation.gov.uk/uksi/2010/2214/regulation/40B) inserted (E.) (15.6.2022) by [The Building Regulations etc. (Amendment) (England) Regulations 2021 (S.I. 2021/1391)](https://www.legislation.gov.uk/uksi/2021/1391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2021/1391/regulation/8) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2021/1391/regulation/17)) (as amended (5.6.2023) by [S.I. 2023/520](https://www.legislation.gov.uk/uksi/2023/520), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/520/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/520/regulation/3))
 
     [Regs. 40A](https://www.legislation.gov.uk/uksi/2010/2214/regulation/40A), [40B](https://www.legislation.gov.uk/uksi/2010/2214/regulation/40B) inserted (W.) (with a difference in the wording of reg. 40B(1)) (23.11.2022) by [The Building (Amendment) (Wales) Regulations 2022 (S.I. 2022/564)](https://www.legislation.gov.uk/wsi/2022/564), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/564/regulation/1/3), [12](https://www.legislation.gov.uk/wsi/2022/564/regulation/12) (with [reg. 21](https://www.legislation.gov.uk/wsi/2022/564/regulation/21))

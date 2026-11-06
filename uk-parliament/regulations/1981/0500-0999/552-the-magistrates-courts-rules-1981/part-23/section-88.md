@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Release when recognizances have been taken or requirements complied with[^key-8371dd52bd9e63da30ae513c698b6c43]
+## 88. Release when recognizances have been taken or requirements complied with[^c-8371dd52bd9e63da30ae513c698b6c43]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8371dd52bd9e63da30ae513c698b6c43]: Textual amendment: [Rules 84-90A](https://www.legislation.gov.uk/uksi/1981/552/rule/84) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(l)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/l)
+[^c-8371dd52bd9e63da30ae513c698b6c43]: Textual amendment: [Rules 84-90A](https://www.legislation.gov.uk/uksi/1981/552/rule/84) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(l)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/l)

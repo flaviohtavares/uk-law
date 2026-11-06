@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Application for authorisation of unit trust scheme[^key-eef6cf93a2fb1d7c5b561f03921f0ba6]
+## 39. Application for authorisation of unit trust scheme[^c-eef6cf93a2fb1d7c5b561f03921f0ba6]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ that application is to be treated after commencement as an application under sec
 
 ## Annotations
 
-[^key-eef6cf93a2fb1d7c5b561f03921f0ba6]: Commencement: Art. 39 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-eef6cf93a2fb1d7c5b561f03921f0ba6]: Commencement: Art. 39 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

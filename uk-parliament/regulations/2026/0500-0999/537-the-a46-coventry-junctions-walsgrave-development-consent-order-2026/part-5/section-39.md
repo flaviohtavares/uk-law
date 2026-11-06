@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Temporary use of land for maintaining the authorised development[^key-f40d4fde9cc6e5e8e303f2614469bf65]
+## 39. Temporary use of land for maintaining the authorised development[^c-f40d4fde9cc6e5e8e303f2614469bf65]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ and in such circumstances, the undertaker may enter the land under paragraph (1)
 
 (8) The undertaker must pay compensation to the owners and occupiers of land of which temporary possession is taken under this article for any loss or damage arising from the exercise in relation to the land of the powers conferred by this article.
 
-(9) Any dispute as to a person’s entitlement to compensation under paragraph (8)[^key-efa2c87ecde1e0304b6b3d50ea3dcb51], or as to the amount of the compensation, is to be determined as if it were a dispute under Part 1 (determination of questions of disputed compensation) of the 1961 Act.
+(9) Any dispute as to a person’s entitlement to compensation under paragraph (8)[^c-efa2c87ecde1e0304b6b3d50ea3dcb51], or as to the amount of the compensation, is to be determined as if it were a dispute under Part 1 (determination of questions of disputed compensation) of the 1961 Act.
 
 (10) Nothing in this article affects any liability to pay compensation under section 152 (compensation in case where no right to claim in nuisance) of the 2008 Act or under any other enactment in respect of loss or damage arising from the execution of any works, other than loss or damage for which compensation is payable under paragraph (8).
 
@@ -61,6 +61,6 @@ and in such circumstances, the undertaker may enter the land under paragraph (1)
 
 ## Annotations
 
-[^key-f40d4fde9cc6e5e8e303f2614469bf65]: Commencement: Art. 39 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-f40d4fde9cc6e5e8e303f2614469bf65]: Commencement: Art. 39 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
-[^key-efa2c87ecde1e0304b6b3d50ea3dcb51]: Textual amendment: Words in [art. 39(9)](https://www.legislation.gov.uk/uksi/2026/537/article/39/9) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-efa2c87ecde1e0304b6b3d50ea3dcb51]: Textual amendment: Words in [art. 39(9)](https://www.legislation.gov.uk/uksi/2026/537/article/39/9) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)

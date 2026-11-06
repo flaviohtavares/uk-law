@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## P11. Extra charges resulting from early retirement of chief officers[^key-0dc2409c85111f3ad179368974e3bf25]
+## P11. Extra charges resulting from early retirement of chief officers[^c-0dc2409c85111f3ad179368974e3bf25]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0dc2409c85111f3ad179368974e3bf25]: Commencement: [Reg. P11](https://www.legislation.gov.uk/uksi/1986/24/regulation/P11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-0dc2409c85111f3ad179368974e3bf25]: Commencement: [Reg. P11](https://www.legislation.gov.uk/uksi/1986/24/regulation/P11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00079]: Footnote: [S.I. 1973/1260](https://www.legislation.gov.uk/uksi/1973/1260).
 

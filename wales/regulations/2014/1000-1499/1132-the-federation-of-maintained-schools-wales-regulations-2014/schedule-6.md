@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 23
 
-**1.**[^key-3d8ccc490eb07cb3233899106bde0b38] (1) In relation to a community special school established in a hospital, the local authority must designate as the appropriate body—
+**1.**[^c-3d8ccc490eb07cb3233899106bde0b38] (1) In relation to a community special school established in a hospital, the local authority must designate as the appropriate body—
 
 - (a) one local health board or more than one board to act jointly; or
 - (b) the National Health Service trust;
@@ -31,15 +31,15 @@ with which the school is most closely associated and the appropriate body must a
 
 (2) For the purposes of this Schedule “National Health Service trust” (“*ymddiriedolaeth Gwasanaeth Iechyd Gwladol*”) means a body established by the Welsh Ministers under section 18 of the National Health Service (Wales) Act 2006[^f00048].
 
-**2.**[^key-cc295e486c1f7dc501b8e1f87a1a88c6] Where a community special school is not established in a hospital—
+**2.**[^c-cc295e486c1f7dc501b8e1f87a1a88c6] Where a community special school is not established in a hospital—
 
 - (a) the local authority may designate one voluntary organisation or more than one such organisation to act jointly as the appropriate voluntary organisation concerned with matters in respect of which the school is specially organised; and
 - (b) where an appropriate voluntary organisation is so designated, it must appoint the representative governor to take the place of one of the number of community governors appointed in accordance with regulation 26.
 
 ## Annotations
 
-[^key-3d8ccc490eb07cb3233899106bde0b38]: Commencement: Sch. 6 para. 1 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-3d8ccc490eb07cb3233899106bde0b38]: Commencement: Sch. 6 para. 1 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00048]: Footnote: [2006.c.42](https://www.legislation.gov.uk/ukpga/20056/42).
 
-[^key-cc295e486c1f7dc501b8e1f87a1a88c6]: Commencement: Sch. 6 para. 2 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-cc295e486c1f7dc501b8e1f87a1a88c6]: Commencement: Sch. 6 para. 2 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

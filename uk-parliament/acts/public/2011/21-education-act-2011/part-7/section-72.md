@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Consultation by Chief Executive of Skills Funding[^key-3fe30cecba248a1bd0f13f898d946baa]
+## 72. Consultation by Chief Executive of Skills Funding[^c-3fe30cecba248a1bd0f13f898d946baa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fe30cecba248a1bd0f13f898d946baa]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/2011/21/section/72) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 65(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/65/c)
+[^c-3fe30cecba248a1bd0f13f898d946baa]: Textual amendment: [S. 72](https://www.legislation.gov.uk/ukpga/2011/21/section/72) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 65(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/65/c)

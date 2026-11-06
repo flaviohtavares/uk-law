@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Extraordinary functions of judges of High Court.[^key-cb63c4d691bee6e31cc8c61b68899973]
+## 44. Extraordinary functions of judges of High Court.[^c-cb63c4d691bee6e31cc8c61b68899973]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb63c4d691bee6e31cc8c61b68899973]: Modification: [S. 44](https://www.legislation.gov.uk/ukpga/1981/54/section/44) modified (7.1.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 24](https://www.legislation.gov.uk/ukpga/2013/22/section/24), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/3176](https://www.legislation.gov.uk/uksi/2013/3176), [art. 2](https://www.legislation.gov.uk/uksi/2013/3176/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/3176/article/3))
+[^c-cb63c4d691bee6e31cc8c61b68899973]: Modification: [S. 44](https://www.legislation.gov.uk/ukpga/1981/54/section/44) modified (7.1.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 24](https://www.legislation.gov.uk/ukpga/2013/22/section/24), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2013/3176](https://www.legislation.gov.uk/uksi/2013/3176), [art. 2](https://www.legislation.gov.uk/uksi/2013/3176/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/3176/article/3))
 
 [^c20687201]: Textual amendment: Words in [s. 44(2)](https://www.legislation.gov.uk/ukpga/1981/54/section/44/2) repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [146](https://www.legislation.gov.uk/ukpga/2005/4/section/146), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 126](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/126), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(p)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/p), [30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)

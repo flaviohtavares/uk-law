@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 294. Administrative penalty schemes[^c2007980][^key-8c282974b321d0ed84201e4cd2739b07]
+## 294. Administrative penalty schemes[^c2007980][^c-8c282974b321d0ed84201e4cd2739b07]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ summary: ''
 
 [^c2007980]: Commencement: [S. 294](https://www.legislation.gov.uk/ukpga/2009/23/section/294) partly in force; [s. 294](https://www.legislation.gov.uk/ukpga/2009/23/section/294) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-8c282974b321d0ed84201e4cd2739b07]: Commencement: S. 294 in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/24)
+[^c-8c282974b321d0ed84201e4cd2739b07]: Commencement: S. 294 in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/24)

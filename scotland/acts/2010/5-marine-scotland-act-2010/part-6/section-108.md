@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Exceptions: alleviating suffering[^key-bbef147f51b6da00353e67c1ee7bb4a9]
+## 108. Exceptions: alleviating suffering[^c-bbef147f51b6da00353e67c1ee7bb4a9]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbef147f51b6da00353e67c1ee7bb4a9]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2010/5/section/108) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(a)](https://www.legislation.gov.uk/ssi/2010/230/article/4/a)
+[^c-bbef147f51b6da00353e67c1ee7bb4a9]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2010/5/section/108) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(a)](https://www.legislation.gov.uk/ssi/2010/230/article/4/a)

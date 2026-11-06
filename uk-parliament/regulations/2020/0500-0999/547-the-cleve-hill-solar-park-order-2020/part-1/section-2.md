@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-aecac9ee13d84eda71170416d2a0984b]
+## 2. Interpretation[^c-aecac9ee13d84eda71170416d2a0984b]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,7 +79,7 @@ summary: ''
 - “**watercourse**” has the meaning given in the Land Drainage Act 1991 [^c24507861]; and
 - “**works plan**” means the plan certified as the works plan by the Secretary of State for the purposes of the Order under article 34 (certification of plans and documents, etc.).
 
-(2) References in this Order to rights over land include references to rights to do or restrain or to place and maintain, anything in, on or under land or in the air-space above its surface and references in this Order to the imposition of restrictive covenants are references to the creation of rights over the land which interfere with the interests or rights of another and are for the benefit of land which is acquired under this Order or which is an interest otherwise comprised in the Order land[^key-9fa03d7f5e5fbd91f31eb6e6c2448235].
+(2) References in this Order to rights over land include references to rights to do or restrain or to place and maintain, anything in, on or under land or in the air-space above its surface and references in this Order to the imposition of restrictive covenants are references to the creation of rights over the land which interfere with the interests or rights of another and are for the benefit of land which is acquired under this Order or which is an interest otherwise comprised in the Order land[^c-9fa03d7f5e5fbd91f31eb6e6c2448235].
 
 (3) All distances, directions, capacities and lengths referred to in this Order are approximate and distances between points on a work comprised in the authorised development are to be taken to be measured along that work.
 
@@ -91,7 +91,7 @@ summary: ''
 
 ## Annotations
 
-[^key-aecac9ee13d84eda71170416d2a0984b]: Commencement: Art. 2 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-aecac9ee13d84eda71170416d2a0984b]: Commencement: Art. 2 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
 [^c24507741]: Marginal citation: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -129,4 +129,4 @@ summary: ''
 
 [^c24507861]: Marginal citation: [1991 c.59](https://www.legislation.gov.uk/ukpga/1991/59), [section 72(1)](https://www.legislation.gov.uk/ukpga/1991/59/section/72/1).
 
-[^key-9fa03d7f5e5fbd91f31eb6e6c2448235]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2020/547/article/2/2) substituted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)
+[^c-9fa03d7f5e5fbd91f31eb6e6c2448235]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2020/547/article/2/2) substituted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)

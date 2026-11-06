@@ -44,11 +44,11 @@ Coming into force in accordance with regulation 1
 
 [^c23634011]The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 .
 
-In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972 and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018 a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^key-0bf70075c185c5aab1da612b93bfe0e7]
+In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972 and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018 a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^c-0bf70075c185c5aab1da612b93bfe0e7]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-10ee5a4bf5866691b1a4a93ee79fdb29]
+### 1. Citation and commencement[^c-10ee5a4bf5866691b1a4a93ee79fdb29]
 
 (1) These Regulations may be cited as the Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019.
 
@@ -58,7 +58,7 @@ In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 
 
 ## PART 2 — Amendments made under the European Union (Withdrawal) Act 2018 to legislation relating to the storage of carbon dioxide
 
-### 2. Amendments to the Storage of Carbon Dioxide (Licensing etc.) Regulations 2010[^key-15f39c0593f99c00878a5dc1d6f94d71]
+### 2. Amendments to the Storage of Carbon Dioxide (Licensing etc.) Regulations 2010[^c-15f39c0593f99c00878a5dc1d6f94d71]
 
 (1) The Storage of Carbon Dioxide (Licensing etc.) Regulations 2010 [^c23634021] are amended as follows.
 
@@ -160,7 +160,7 @@ In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 
 
   .
 
-### 3. Amendments to the Storage of Carbon Dioxide (Termination of Licences) Regulations 2011[^key-020cc753ad25f808683cb93b536411ec]
+### 3. Amendments to the Storage of Carbon Dioxide (Termination of Licences) Regulations 2011[^c-020cc753ad25f808683cb93b536411ec]
 
 (1) The Storage of Carbon Dioxide (Termination of Licences) Regulations 2011 [^c23634041] are amended as follows.
 
@@ -195,7 +195,7 @@ In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 
 
   .
 
-### 4. Amendments to the Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011[^key-b672db4647317ba48e07cf7a4ae92bce]
+### 4. Amendments to the Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011[^c-b672db4647317ba48e07cf7a4ae92bce]
 
 (1) The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 [^c23634051] are amended as follows.
 
@@ -203,7 +203,7 @@ In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 
 
 ## PART 3 — Amendments made under section 2(2) of the European Communities Act 1972 to legislation relating to the storage of carbon dioxide
 
-### 5. Amendments to the Storage of Carbon Dioxide (Licensing etc.) Regulations 2010[^key-ac8c8d818060f79c508767678aac8f88]
+### 5. Amendments to the Storage of Carbon Dioxide (Licensing etc.) Regulations 2010[^c-ac8c8d818060f79c508767678aac8f88]
 
 (1) The Storage of Carbon Dioxide (Licensing etc.) Regulations 2010 are amended as follows.
 
@@ -213,7 +213,7 @@ In accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 
 
 ## PART 4 — Power to modify application of Annexes I and II to the Directive
 
-### 6. Power to modify application of Annexes I and II to the Directive[^key-e7aeecf2a4be15c7487e57987f2b9294]
+### 6. Power to modify application of Annexes I and II to the Directive[^c-e7aeecf2a4be15c7487e57987f2b9294]
 
 (1) This regulation applies to activities in respect of which the OGA is the licencing authority under section 18(2) of the Energy Act 2008 [^c23634071].
 
@@ -260,29 +260,29 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23634011]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-0bf70075c185c5aab1da612b93bfe0e7]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after both [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590) and [S.I. 2020/951](https://www.legislation.gov.uk/uksi/2020/951) have come into force) by [The Republic of Guinea-Bissau (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1587)](https://www.legislation.gov.uk/uksi/2020/1587), [art. 2](https://www.legislation.gov.uk/uksi/2020/1587/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1587/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1587/schedule/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-0bf70075c185c5aab1da612b93bfe0e7]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after both [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590) and [S.I. 2020/951](https://www.legislation.gov.uk/uksi/2020/951) have come into force) by [The Republic of Guinea-Bissau (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1587)](https://www.legislation.gov.uk/uksi/2020/1587), [art. 2](https://www.legislation.gov.uk/uksi/2020/1587/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1587/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1587/schedule/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
-[^key-10ee5a4bf5866691b1a4a93ee79fdb29]: Commencement: Reg. 1 in force at 30.12.2020 on the day before the day on which IP completion day falls (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-10ee5a4bf5866691b1a4a93ee79fdb29]: Commencement: Reg. 1 in force at 30.12.2020 on the day before the day on which IP completion day falls (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-15f39c0593f99c00878a5dc1d6f94d71]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-15f39c0593f99c00878a5dc1d6f94d71]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23634021]: Marginal citation: [S.I. 2010/2221](https://www.legislation.gov.uk/uksi/2010/2221), amended by the [Energy Act 2016 (c. 70)](https://www.legislation.gov.uk/ukpga/2016/70), [Schedule 1](https://www.legislation.gov.uk/ukpga/2016/70/schedule/1), [Part 2](https://www.legislation.gov.uk/ukpga/2016/70/part/2), [paragraphs 77-80](https://www.legislation.gov.uk/ukpga/2016/70/paragraph/77), [S.I](https://www.legislation.gov.uk/ukpga/2016/70/section/I). 2012/461 and [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912).
 
 [^c23634031]: Marginal citation: [2008 c. 27](https://www.legislation.gov.uk/ukpga/2008/27), to which there are amendments not relevant to these Regulations.
 
-[^key-020cc753ad25f808683cb93b536411ec]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-020cc753ad25f808683cb93b536411ec]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23634041]: Marginal citation: [S.I. 2011/1483](https://www.legislation.gov.uk/uksi/2011/1483), amended by [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912).
 
-[^key-b672db4647317ba48e07cf7a4ae92bce]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-b672db4647317ba48e07cf7a4ae92bce]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23634051]: Marginal citation: [S.I. 2011/2305](https://www.legislation.gov.uk/uksi/2011/2305).
 
-[^key-ac8c8d818060f79c508767678aac8f88]: Commencement: Reg. 5 in force at 30.12.2020 on the day before the day on which IP completion day falls (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ac8c8d818060f79c508767678aac8f88]: Commencement: Reg. 5 in force at 30.12.2020 on the day before the day on which IP completion day falls (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23634061]: Marginal citation: OJ No. L 26, 28.1.2012, p. 1, as amended by Directive 2014/52/EU.
 
-[^key-e7aeecf2a4be15c7487e57987f2b9294]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-e7aeecf2a4be15c7487e57987f2b9294]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23634071]: Marginal citation: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32). Section 18(2) was amended by Energy Act 2016, Schedule 1, Part 1, paragraph 53, [S.I. 2011/2453](https://www.legislation.gov.uk/uksi/2011/2453), [S.I](https://www.legislation.gov.uk/uksi/2011/2453/section/I). 2017/524 and [S.S.I. 2011/224](https://www.legislation.gov.uk/ssi/2011/224)
 

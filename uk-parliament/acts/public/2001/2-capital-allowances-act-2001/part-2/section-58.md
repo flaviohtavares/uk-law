@@ -28,7 +28,7 @@ summary: ''
 
 (4) Qualifying expenditure is not to be allocated to a pool for a chargeable period unless the person owns the plant or machinery at some time in that period.
 
-(4A)[^key-399e75afe34192b512e75fefee69d9f1] If an annual investment allowance is made to a person for a chargeable period—
+(4A)[^c-399e75afe34192b512e75fefee69d9f1] If an annual investment allowance is made to a person for a chargeable period—
 
 - (a) the AIA qualifying expenditure in respect of which the allowance is made must be allocated to the appropriate pool (or pools) in that chargeable period, and
 - (b) the available qualifying expenditure in a pool to which the expenditure (or some of it) is allocated is reduced by the amount of that expenditure.
@@ -52,4 +52,4 @@ the balance (or some of it) must be allocated to a pool for the chargeable perio
 
 ## Annotations
 
-[^key-399e75afe34192b512e75fefee69d9f1]: Textual amendment: S. 58(4A) inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/5)
+[^c-399e75afe34192b512e75fefee69d9f1]: Textual amendment: S. 58(4A) inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/5)

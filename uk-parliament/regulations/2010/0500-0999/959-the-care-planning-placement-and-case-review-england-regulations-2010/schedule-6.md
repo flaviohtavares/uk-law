@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Matters to be considered before placing C in accommodation in accordance with other arrangements under section 22C(6)(d)[^key-339f904080c86ac062f802d6e91ea094]
+## SCHEDULE 6 — Matters to be considered before placing C in accommodation in accordance with other arrangements under section 22C(6)(d)[^c-339f904080c86ac062f802d6e91ea094]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ Regulation 27
 
 ## Annotations
 
-[^key-339f904080c86ac062f802d6e91ea094]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2010/959/schedule/6) heading substituted (9.9.2021) by [The Care Planning, Placement and Case Review (England) (Amendment) Regulations 2021 (S.I. 2021/161)](https://www.legislation.gov.uk/uksi/2021/161), [regs. 1](https://www.legislation.gov.uk/uksi/2021/161/regulation/1), [5](https://www.legislation.gov.uk/uksi/2021/161/regulation/5)
+[^c-339f904080c86ac062f802d6e91ea094]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2010/959/schedule/6) heading substituted (9.9.2021) by [The Care Planning, Placement and Case Review (England) (Amendment) Regulations 2021 (S.I. 2021/161)](https://www.legislation.gov.uk/uksi/2021/161), [regs. 1](https://www.legislation.gov.uk/uksi/2021/161/regulation/1), [5](https://www.legislation.gov.uk/uksi/2021/161/regulation/5)

@@ -24,12 +24,12 @@ summary: ''
 
 (2) In particular, but without prejudice to the generality of subsection (1) above, the regulations may make provision with respect to—
 
-- (a)[^c13985511] licences under this Part of this Act, Northern Ireland licences,[^c19154851] and Community licences[^key-e5f1537cc8b4bea00013fe604cc21333],
+- (a)[^c13985511] licences under this Part of this Act, Northern Ireland licences,[^c19154851] and Community licences[^c-e5f1537cc8b4bea00013fe604cc21333],
 - (b) [^c20359191]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) preventing a person holding more than one licence,
 - (d) facilitating identification of holders of licences,
-- (e) providing for the issue of [^c13985541]. . . licences[^c13985531] [^key-dd48767da1c32c0c48e9a69b2f19043a]... in the place of licences [^key-dd48767da1c32c0c48e9a69b2f19043a]... lost or defaced on payment of such fee , and compliance with such requirements,[^c13985551] as may be prescribed,
-- (ea)[^key-390771c828643067a2e88698e533aeec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) providing for the issue of [^c13985541]. . . licences[^c13985531] [^c-dd48767da1c32c0c48e9a69b2f19043a]... in the place of licences [^c-dd48767da1c32c0c48e9a69b2f19043a]... lost or defaced on payment of such fee , and compliance with such requirements,[^c13985551] as may be prescribed,
+- (ea)[^c-390771c828643067a2e88698e533aeec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (ee)[^c13985571] the correspondence [^c13985581]. . . of one class of motor vehicle with another class of motor vehicle or of one test of competence to drive with another (whatever the law under which the classification is made or the test conducted),
 - (f) the effect of a change in the classification of motor vehicles [^c13985591]. . . on licences then in force or issued or on the right to or the subsequent granting of licences or on[^c13985601] Northern Ireland licences or[^c19154991] Community licences then in force, and
 - (g) enabling a person—
@@ -50,7 +50,7 @@ and nothing in the other provisions of this Part of this Act shall be construed 
 
 (4) Any fee prescribed under this Part of this Act shall be of an amount approved by the Treasury, and different fees may be prescribed for different circumstances and (in particular) in relation to licences in different forms[^c13985611].
 
-(5) In subsection (1) above “**the relevant provisions of the [^c13985621]Road Traffic Offenders Act 1988**” means the following provisions of that Act: sections 2, 7, 8, 23 to 26, 27, 31 , 34[^c13985631] , 35[^c19155231] to 48, 91ZA and 91A[^key-ccb3a04a506f3a08d2e5663f18481770] .
+(5) In subsection (1) above “**the relevant provisions of the [^c13985621]Road Traffic Offenders Act 1988**” means the following provisions of that Act: sections 2, 7, 8, 23 to 26, 27, 31 , 34[^c13985631] , 35[^c19155231] to 48, 91ZA and 91A[^c-ccb3a04a506f3a08d2e5663f18481770] .
 
 ## Annotations
 
@@ -60,7 +60,7 @@ and nothing in the other provisions of this Part of this Act shall be construed 
 
 [^c19154851]: Textual amendment: Words in s. 105(2)(a) inserted (11.10.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [ss. 91(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/91/1), [94](https://www.legislation.gov.uk/ukpga/2003/32/section/94), [Sch. 5 para. 23(a)(i)](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/23/a/i); [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/b)
 
-[^key-e5f1537cc8b4bea00013fe604cc21333]: Textual amendment: Words in s. 105(2)(a) substituted (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/13/2/a); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/560/article/3/a) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-e5f1537cc8b4bea00013fe604cc21333]: Textual amendment: Words in s. 105(2)(a) substituted (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/13/2/a); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/560/article/3/a) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
 [^c20359191]: Textual amendment: S. 105(2)(b) repealed (12.1.2010) by [Policing and Crime Act 2009 (c. 26, ss. 112(1)](https://www.legislation.gov.uk/ukpga/2009/26)(2), 116(6), Sch. 7 para. 130, {Sch. 8 Pt. 13}
 
@@ -68,11 +68,11 @@ and nothing in the other provisions of this Part of this Act shall be construed 
 
 [^c13985531]: Textual amendment: Words substituted by [S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144), [regs. 2(1)](https://www.legislation.gov.uk/uksi/1990/144/regulation/2/1), [3](https://www.legislation.gov.uk/uksi/1990/144/regulation/3), [Sch. 1 para. 6(c)](https://www.legislation.gov.uk/uksi/1990/144/schedule/1/paragraph/6/c)
 
-[^key-dd48767da1c32c0c48e9a69b2f19043a]: Textual amendment: Words in s. 105(2)(e) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 13(2)(c)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/13/2/c), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-dd48767da1c32c0c48e9a69b2f19043a]: Textual amendment: Words in s. 105(2)(e) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 13(2)(c)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/13/2/c), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
 [^c13985551]: Textual amendment: Words in s. 105(2)(e) inserted (1.7.1998) by [S.I. 1998/1420](https://www.legislation.gov.uk/uksi/1998/1420), [reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/1998/1420/regulation/10/2/b)
 
-[^key-390771c828643067a2e88698e533aeec]: Textual amendment: S. 105(2)(ea) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 13(2)(d)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/13/2/d), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-390771c828643067a2e88698e533aeec]: Textual amendment: S. 105(2)(ea) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 13(2)(d)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/13/2/d), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
 [^c13985571]: Textual amendment: S. 105(2)(ee) inserted by [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1989/22), [s. 7](https://www.legislation.gov.uk/ukpga/1989/22/section/7), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/1989/22/schedule/3/paragraph/14)
 
@@ -92,4 +92,4 @@ and nothing in the other provisions of this Part of this Act shall be construed 
 
 [^c19155231]: Textual amendment: Words in s. 105(5) inserted (8.11.2006) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2006/49/section/58/2), [61(9)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/9)
 
-[^key-ccb3a04a506f3a08d2e5663f18481770]: Textual amendment: Words in s. 105(5) substituted (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 13(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/13/3); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/560/article/3/a) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-ccb3a04a506f3a08d2e5663f18481770]: Textual amendment: Words in s. 105(5) substituted (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 13(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/13/3); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/560/article/3/a) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))

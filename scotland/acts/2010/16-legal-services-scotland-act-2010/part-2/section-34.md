@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Steps open to Society[^key-56cf4650dbf218346086c3467694f04a]
+## 34. Steps open to Society[^c-56cf4650dbf218346086c3467694f04a]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ the Society may refer the circumstances to the Scottish Ministers.
 
 ## Annotations
 
-[^key-56cf4650dbf218346086c3467694f04a]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/16/section/34) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-56cf4650dbf218346086c3467694f04a]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2010/16/section/34) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

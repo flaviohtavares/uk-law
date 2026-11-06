@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Amendment of regulation 75 (obligation to provide information relating to safety etc)[^key-dcddaac9bb6fb29df3e6ba27cd1ba6c9]
+## 83. Amendment of regulation 75 (obligation to provide information relating to safety etc)[^c-dcddaac9bb6fb29df3e6ba27cd1ba6c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In regulation 75(5) [^c23884951]—
 
 ## Annotations
 
-[^key-dcddaac9bb6fb29df3e6ba27cd1ba6c9]: Commencement: Reg. 83 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dcddaac9bb6fb29df3e6ba27cd1ba6c9]: Commencement: Reg. 83 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884951]: Marginal citation: Regulation 75 was amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).

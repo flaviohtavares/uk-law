@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169B. Charity: change to trusts etc[^key-6b01e3f38dfa96409bd69ee18a1a7bcd]
+## 169B. Charity: change to trusts etc[^c-6b01e3f38dfa96409bd69ee18a1a7bcd]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b01e3f38dfa96409bd69ee18a1a7bcd]: Textual amendment: [S. 169B](https://www.legislation.gov.uk/ukpga/2008/17/section/169B) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/19/3), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/l)
+[^c-6b01e3f38dfa96409bd69ee18a1a7bcd]: Textual amendment: [S. 169B](https://www.legislation.gov.uk/ukpga/2008/17/section/169B) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/19/3), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/l)

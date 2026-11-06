@@ -31,22 +31,22 @@ Ombudsman and Commissioner for Complaints (Amendment) Act (Northern Ireland) 20
 
 2015 CHAPTER 6
 
-[^key-d50c409388a451287ab4119e8bc4de63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d50c409388a451287ab4119e8bc4de63]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Extension of period for which acting Ombudsman and acting Commissioner may hold office[^key-d50c409388a451287ab4119e8bc4de63]
+## 1. Extension of period for which acting Ombudsman and acting Commissioner may hold office[^c-d50c409388a451287ab4119e8bc4de63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Retrospective operation of section 1[^key-d50c409388a451287ab4119e8bc4de63]
+## 2. Retrospective operation of section 1[^c-d50c409388a451287ab4119e8bc4de63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Commencement and short title[^key-d50c409388a451287ab4119e8bc4de63]
+## 3. Commencement and short title[^c-d50c409388a451287ab4119e8bc4de63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d50c409388a451287ab4119e8bc4de63]: Textual amendment: Act repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)(with s. 23,50(3))
+[^c-d50c409388a451287ab4119e8bc4de63]: Textual amendment: Act repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)(with s. 23,50(3))

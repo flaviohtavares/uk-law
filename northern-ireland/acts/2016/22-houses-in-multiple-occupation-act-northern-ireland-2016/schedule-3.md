@@ -26,7 +26,7 @@ Sections 17, 35, 53 and 58.
 
 #### Application of Part of Schedule
 
-**1.**[^key-47d7e97ca0fe5aeb1b844c67d609b5e8] This Part of this Schedule applies to—
+**1.**[^c-47d7e97ca0fe5aeb1b844c67d609b5e8] This Part of this Schedule applies to—
 
 - (a) a temporary exemption notice that includes a requirement under section 17 (works to improve safety or security);
 - (b) a rectification notice that requires the carrying out of work;
@@ -35,7 +35,7 @@ Sections 17, 35, 53 and 58.
 
 #### Listed buildings etc
 
-**2.**[^key-3f29c4a7ed953c8354395627650b51a6] (1) In this paragraph “**protected building**” means a building—
+**2.**[^c-3f29c4a7ed953c8354395627650b51a6] (1) In this paragraph “**protected building**” means a building—
 
 - (a) which is included in any list of buildings of special architectural or historic interest compiled under section 80 of the Planning Act (Northern Ireland) 2011 (“**the 2011 Act**”),
 - (b) which is subject to a building preservation notice under section 83 of the 2011 Act, or
@@ -52,7 +52,7 @@ Sections 17, 35, 53 and 58.
 
 #### Extension of date for completion of works
 
-**3.**[^key-4f4494cd59c4351396484d3dea08228f] (1) The council may, in accordance with this paragraph, extend the date by which any work must be completed—
+**3.**[^c-4f4494cd59c4351396484d3dea08228f] (1) The council may, in accordance with this paragraph, extend the date by which any work must be completed—
 
 - (a) as required by a temporary exemption notice, a rectification notice or a hazard notice, or
 - (b) as specified in a statement of remedial work under section 53.
@@ -79,14 +79,14 @@ Sections 17, 35, 53 and 58.
 
 #### Application of Part of Schedule
 
-**4.**[^key-3a188fccf94fc5d800c100225d1c3a06] This Part of this Schedule applies if the owner of living accommodation fails to comply with—
+**4.**[^c-3a188fccf94fc5d800c100225d1c3a06] This Part of this Schedule applies if the owner of living accommodation fails to comply with—
 
 - (a) a requirement in a rectification notice to carry out works in or to an HMO, or
 - (b) a works requirement in a hazard notice.
 
 #### Carrying out of work by council
 
-**5.**[^key-b5a6e1c15dcf661567e3a758eded6cf5] (1) The council may carry out any work required by the notice.
+**5.**[^c-b5a6e1c15dcf661567e3a758eded6cf5] (1) The council may carry out any work required by the notice.
 
 (2) But the council may do so only if one of the following three conditions is met.
 
@@ -101,7 +101,7 @@ Sections 17, 35, 53 and 58.
 
 #### Vacation of land or premises to allow work to be carried out
 
-**6.**[^key-b8d182275993557c97fd0e38dd25cfe3] (1) Where the council—
+**6.**[^c-b8d182275993557c97fd0e38dd25cfe3] (1) Where the council—
 
 - (a) is authorised by paragraph 5 to carry out work, and
 - (b) considers that doing so is likely to endanger any occupant of any land or premises,
@@ -120,7 +120,7 @@ it must require that occupant to move from the land or premises.
 
 #### Warrants requiring occupant to vacate land or premises
 
-**7.**[^key-5e56e0f73a9b318aedb282c36b725402] (1) Where an occupant has not complied with a requirement under paragraph 6(1), the council may apply to a court of summary jurisdiction for a warrant requiring the occupant—
+**7.**[^c-5e56e0f73a9b318aedb282c36b725402] (1) Where an occupant has not complied with a requirement under paragraph 6(1), the council may apply to a court of summary jurisdiction for a warrant requiring the occupant—
 
 - (a) to move from the land or premises in question by such date as the court may determine, and
 - (b) not to return until the work is completed.
@@ -148,7 +148,7 @@ it must require that occupant to move from the land or premises.
 
 #### Unlawful occupation etc
 
-**8.**[^key-f04045fc504dd2355a774a1576cc4114] (1) A person commits an offence if the person—
+**8.**[^c-f04045fc504dd2355a774a1576cc4114] (1) A person commits an offence if the person—
 
 - (a) knows that a requirement under paragraph 6(1) has effect in relation to any land or premises, and
 - (b) occupies the land or premises.
@@ -166,7 +166,7 @@ it must require that occupant to move from the land or premises.
 
 #### Recovery of expenses etc from owner
 
-**9.**[^key-8f5302736393ef1ceb9d4cad9ee2581c] (1) The council may recover from the owner of the HMO in question—
+**9.**[^c-8f5302736393ef1ceb9d4cad9ee2581c] (1) The council may recover from the owner of the HMO in question—
 
 - (a) any expenses that the council incurs in or in connection with carrying out work that it is authorised to carry out by paragraph 5, and
 - (b) any expenses that it incurs in applying for or executing a warrant issued under paragraph 7.
@@ -193,7 +193,7 @@ it must require that occupant to move from the land or premises.
 
 #### Recovery of expenses etc from other person benefiting from works
 
-**10.**[^key-d6e2179f2964c70b34233d5b843e3b02] (1) This paragraph applies if a court of summary jurisdiction is satisfied, on the application of the council, that—
+**10.**[^c-d6e2179f2964c70b34233d5b843e3b02] (1) This paragraph applies if a court of summary jurisdiction is satisfied, on the application of the council, that—
 
 - (a) any sums which the council is entitled to recover under paragraph 9 have not been, and are unlikely to be, recovered, and
 - (b) some person is profiting by the execution of the works in respect of which the sums were incurred to obtain rents or other payments which would not have been obtainable if the number of persons occupying the HMO was limited to that appropriate for the HMO in its state before the works were executed.
@@ -204,22 +204,22 @@ it must require that occupant to move from the land or premises.
 
 ## Annotations
 
-[^key-47d7e97ca0fe5aeb1b844c67d609b5e8]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/1) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-47d7e97ca0fe5aeb1b844c67d609b5e8]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/1) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-3f29c4a7ed953c8354395627650b51a6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/2) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-3f29c4a7ed953c8354395627650b51a6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/2) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-4f4494cd59c4351396484d3dea08228f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/3) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-4f4494cd59c4351396484d3dea08228f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/3) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-3a188fccf94fc5d800c100225d1c3a06]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/4) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-3a188fccf94fc5d800c100225d1c3a06]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/4) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-b5a6e1c15dcf661567e3a758eded6cf5]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/5) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-b5a6e1c15dcf661567e3a758eded6cf5]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/5) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-b8d182275993557c97fd0e38dd25cfe3]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/6) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-b8d182275993557c97fd0e38dd25cfe3]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/6) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-5e56e0f73a9b318aedb282c36b725402]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/7) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-5e56e0f73a9b318aedb282c36b725402]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/7) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-f04045fc504dd2355a774a1576cc4114]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/8) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-f04045fc504dd2355a774a1576cc4114]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/8) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-8f5302736393ef1ceb9d4cad9ee2581c]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/9) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-8f5302736393ef1ceb9d4cad9ee2581c]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/9) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-d6e2179f2964c70b34233d5b843e3b02]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/10) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-d6e2179f2964c70b34233d5b843e3b02]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2016/22/schedule/3/paragraph/10) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

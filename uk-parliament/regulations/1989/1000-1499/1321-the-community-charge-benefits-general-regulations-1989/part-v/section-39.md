@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Calculation of covenant income where a contribution is assessed[^key-d6a4e961a0d84ba3755c0f04621cc634]
+## 39. Calculation of covenant income where a contribution is assessed[^c-d6a4e961a0d84ba3755c0f04621cc634]
 
 *Extent: E+W+S*
 
@@ -27,10 +27,10 @@ summary: ''
 - (a) by dividing the amount of income which falls to be taken into account under paragraph (1) by 52 or 53, whichever is reasonable in the circumstances; and
 - (b) by disregarding from the resulting amount, £5.
 
-(3) For the purposes of paragraph (1), the contribution shall be treated as increased by the amount (if any) by which the amount excluded under regulation 38(2)(h) (calculation of grant income) falls short of the amount specified in paragraph 7(4)(i) of Schedule 2 to the Education (Mandatory Awards) Regulations 1991 (travel expenditure).[^key-0d6941927a9bfd6caf499a047804c610]
+(3) For the purposes of paragraph (1), the contribution shall be treated as increased by the amount (if any) by which the amount excluded under regulation 38(2)(h) (calculation of grant income) falls short of the amount specified in paragraph 7(4)(i) of Schedule 2 to the Education (Mandatory Awards) Regulations 1991 (travel expenditure).[^c-0d6941927a9bfd6caf499a047804c610]
 
 ## Annotations
 
-[^key-d6a4e961a0d84ba3755c0f04621cc634]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1989/1321/regulation/39) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-d6a4e961a0d84ba3755c0f04621cc634]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1989/1321/regulation/39) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
-[^key-0d6941927a9bfd6caf499a047804c610]: Textual amendment: Words in [reg. 39(3)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/39/3) substituted (6.4.1992) by [The Housing Benefit and Community Charge Benefits (Miscellaneous Amendments) Regulations 1992 (S.I. 1992/432)](https://www.legislation.gov.uk/uksi/1992/432), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1992/432/regulation/1/1/c), [22](https://www.legislation.gov.uk/uksi/1992/432/regulation/22)
+[^c-0d6941927a9bfd6caf499a047804c610]: Textual amendment: Words in [reg. 39(3)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/39/3) substituted (6.4.1992) by [The Housing Benefit and Community Charge Benefits (Miscellaneous Amendments) Regulations 1992 (S.I. 1992/432)](https://www.legislation.gov.uk/uksi/1992/432), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1992/432/regulation/1/1/c), [22](https://www.legislation.gov.uk/uksi/1992/432/regulation/22)

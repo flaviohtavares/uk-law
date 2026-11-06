@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126A. Duty of authorities, undertakers etc. to ensure competence of employees etc.[^key-2ae08ab389c8eba3bcb746e8b916e2f7]
+## 126A. Duty of authorities, undertakers etc. to ensure competence of employees etc.[^c-2ae08ab389c8eba3bcb746e8b916e2f7]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ Each of the authorities and other persons set out in the first column below shal
 
 ## Annotations
 
-[^key-2ae08ab389c8eba3bcb746e8b916e2f7]: Textual amendment: [S. 126A](https://www.legislation.gov.uk/ukpga/1991/22/section/126A) inserted (S.) (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 27](https://www.legislation.gov.uk/asp/2005/12/section/27), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-2ae08ab389c8eba3bcb746e8b916e2f7]: Textual amendment: [S. 126A](https://www.legislation.gov.uk/ukpga/1991/22/section/126A) inserted (S.) (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 27](https://www.legislation.gov.uk/asp/2005/12/section/27), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

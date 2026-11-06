@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Power to make provision about checking eligibility for support, etc.[^key-c6f95d2a30d0372a93ddf75b2f44713d]
+## 12. Power to make provision about checking eligibility for support, etc.[^c-c6f95d2a30d0372a93ddf75b2f44713d]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6f95d2a30d0372a93ddf75b2f44713d]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2023/4/section/12) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)
+[^c-c6f95d2a30d0372a93ddf75b2f44713d]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2023/4/section/12) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)

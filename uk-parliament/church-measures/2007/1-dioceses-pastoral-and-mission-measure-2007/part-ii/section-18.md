@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 18. Provisions with respect to creation of suffragan sees[^key-d8b6761f0b387e3699628a92bda16858]
+## 18. Provisions with respect to creation of suffragan sees[^c-d8b6761f0b387e3699628a92bda16858]
 
 *Extent: E*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8b6761f0b387e3699628a92bda16858]: Commencement: [S. 18](https://www.legislation.gov.uk/ukcm/2007/1/section/18) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-d8b6761f0b387e3699628a92bda16858]: Commencement: [S. 18](https://www.legislation.gov.uk/ukcm/2007/1/section/18) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops

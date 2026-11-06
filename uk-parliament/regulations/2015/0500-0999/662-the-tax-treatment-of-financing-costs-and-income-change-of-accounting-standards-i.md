@@ -46,24 +46,24 @@ Coming into force
 
 2nd April 2015
 
-[^key-b6b8dd002f3b3a7fb6c523443fd65efe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6b8dd002f3b3a7fb6c523443fd65efe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-b6b8dd002f3b3a7fb6c523443fd65efe]
+## 1. Citation, commencement and effect[^c-b6b8dd002f3b3a7fb6c523443fd65efe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to Part 7 of the Taxation (International and Other Provisions) Act 2010[^key-b6b8dd002f3b3a7fb6c523443fd65efe]
+## 2. Amendment to Part 7 of the Taxation (International and Other Provisions) Act 2010[^c-b6b8dd002f3b3a7fb6c523443fd65efe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b6b8dd002f3b3a7fb6c523443fd65efe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6b8dd002f3b3a7fb6c523443fd65efe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b6b8dd002f3b3a7fb6c523443fd65efe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6b8dd002f3b3a7fb6c523443fd65efe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6b8dd002f3b3a7fb6c523443fd65efe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/662) revoked (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(3)(i)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/3/i)
+[^c-b6b8dd002f3b3a7fb6c523443fd65efe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/662) revoked (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(3)(i)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/3/i)

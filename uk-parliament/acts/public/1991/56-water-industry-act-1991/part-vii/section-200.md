@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Provision of sewer maps to local authorities.[^key-0c0c3e59d2725fc56759b3a35384d242]
+## 200. Provision of sewer maps to local authorities.[^c-0c0c3e59d2725fc56759b3a35384d242]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ as to ensure that every local authority to whose area any of those records relat
 
 ## Annotations
 
-[^key-0c0c3e59d2725fc56759b3a35384d242]: Modification: [S. 200](https://www.legislation.gov.uk/ukpga/1991/56/section/200) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 14(4)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/14/4) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-0c0c3e59d2725fc56759b3a35384d242]: Modification: [S. 200](https://www.legislation.gov.uk/ukpga/1991/56/section/200) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 14(4)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/14/4) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))

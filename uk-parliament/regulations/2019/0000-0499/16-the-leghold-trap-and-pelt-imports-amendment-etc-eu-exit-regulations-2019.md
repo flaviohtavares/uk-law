@@ -54,19 +54,19 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-28165d6c5ec23ec54eacf9d96e34e675]
+### 1. Citation and commencement[^c-28165d6c5ec23ec54eacf9d96e34e675]
 
 These Regulations may be cited as the Leghold Trap and Pelt Imports (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
 
 ## PART 2 — Amendment of retained direct EU legislation
 
-### 2. Council Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254) prohibiting the use of leghold traps in the Community and the introduction into the Community of pelts and manufactured goods of certain wild animal species originating in countries which catch them by means of leghold traps or trapping methods which do not meet international humane trapping standards[^key-e6b90c0542e0708bd5570fd29f0cd8a6]
+### 2. Council Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254) prohibiting the use of leghold traps in the Community and the introduction into the Community of pelts and manufactured goods of certain wild animal species originating in countries which catch them by means of leghold traps or trapping methods which do not meet international humane trapping standards[^c-e6b90c0542e0708bd5570fd29f0cd8a6]
 
 (1) Council Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254) prohibiting the use of leghold traps in the Community and the introduction into the Community of pelts and manufactured goods of certain wild animal species originating in countries which catch them by means of leghold traps or trapping methods which do not meet international humane trapping standards is amended as follows.
 
 (2) In Article 2—
 
-- (a)[^key-ca033da9724765666c43b79aea2459c8] for the words “the Community” substitute “Great Britain”;
+- (a)[^c-ca033da9724765666c43b79aea2459c8] for the words “the Community” substitute “Great Britain”;
 - (b) omit the words “by 1 January 1995 at the latest”.
 
 (3) In Article 3—
@@ -76,7 +76,7 @@ These Regulations may be cited as the Leghold Trap and Pelt Imports (Amendment e
   - (ii) for the words “inasmuch as” substitute “ where ”;
   - (iii) omit the words “as of 1 January 1995”;
 - (b) omit paragraph (2);
-- (c)[^key-6a5ad16d54de0163908581798b307fd8] after paragraph (2), insert—
+- (c)[^c-6a5ad16d54de0163908581798b307fd8] after paragraph (2), insert—
 
   > **3.** Paragraph 1 does not apply—
   >
@@ -96,7 +96,7 @@ These Regulations may be cited as the Leghold Trap and Pelt Imports (Amendment e
 
 (4) In Article 4, for the first paragraph substitute—
 
-> For the purposes of Article 3, pelts are to be considered to originate from an approved country only where the designated competent authority of the country from which the pelts, or the goods into which the pelts has been incorporated, have been exported or re-exported to the UK has certified, in accordance with[^key-a079ae57b5a57e38658a5d8efa037c20] [Commission Regulation (EC) No 35/97](https://www.legislation.gov.uk/eur/1997/0035) laying down provisions on the certification of pelts and goods covered by [Council Regulation (EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254), that such pelts originate in—
+> For the purposes of Article 3, pelts are to be considered to originate from an approved country only where the designated competent authority of the country from which the pelts, or the goods into which the pelts has been incorporated, have been exported or re-exported to the UK has certified, in accordance with[^c-a079ae57b5a57e38658a5d8efa037c20] [Commission Regulation (EC) No 35/97](https://www.legislation.gov.uk/eur/1997/0035) laying down provisions on the certification of pelts and goods covered by [Council Regulation (EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254), that such pelts originate in—
 >
 > - (a) an approved country; or
 > - (b) the United Kingdom.
@@ -107,7 +107,7 @@ These Regulations may be cited as the Leghold Trap and Pelt Imports (Amendment e
 
 (6) After Article 6, omit the words from “This Regulation” to “Member States.”.
 
-### 3. Commission Regulation [(EC) No 35/97](https://www.legislation.gov.uk/eur/1997/35) laying down provisions on the certification of pelts and goods covered by Council Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254).[^key-2bca055c6fc1559df180e36b8d08f95b]
+### 3. Commission Regulation [(EC) No 35/97](https://www.legislation.gov.uk/eur/1997/35) laying down provisions on the certification of pelts and goods covered by Council Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254).[^c-2bca055c6fc1559df180e36b8d08f95b]
 
 (1) Commission Regulation [(EC) No 35/97](https://www.legislation.gov.uk/eur/1997/35) laying down provisions on the certification of pelts and goods covered by Council Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254) is amended as follows.
 
@@ -116,7 +116,7 @@ These Regulations may be cited as the Leghold Trap and Pelt Imports (Amendment e
 - (a) in paragraph 1—
   - (i) for “that for external transit” substitute “ a transit procedure ”;
   - (ii) for “customs territory of the Community” substitute “ United Kingdom ”;
-  - (iii) in subparagraph (a), for the words from “a country appearing in the list” to “that country” substitute "an approved country or the United Kingdom"[^key-b7b059f886fd84fc824e02527b0ed97e];
+  - (iii) in subparagraph (a), for the words from “a country appearing in the list” to “that country” substitute "an approved country or the United Kingdom"[^c-b7b059f886fd84fc824e02527b0ed97e];
   - (iv) omit subparagraph (b);
 - (b) in paragraph 2, for the words from “shall surrender” to “Community” substitute “ must, on the importation of goods into the United Kingdom, present to the border customs office a certificate ”;
 - (c) after paragraph 2, insert—
@@ -148,7 +148,7 @@ These Regulations may be cited as the Leghold Trap and Pelt Imports (Amendment e
 
 (7) Omit the Annex.
 
-### 4. Council Decision [(EC) No 97/602](https://www.legislation.gov.uk/eur/19602/97) concerning the list referred to in the second subparagraph of Article 3(1) of Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254) and in Article 1(1)(a) of Commission Regulation [(EC) No 35/97](https://www.legislation.gov.uk/eur/1997/35)[^key-f84b014cb2632913b9babc12dfdc681a]
+### 4. Council Decision [(EC) No 97/602](https://www.legislation.gov.uk/eur/19602/97) concerning the list referred to in the second subparagraph of Article 3(1) of Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254) and in Article 1(1)(a) of Commission Regulation [(EC) No 35/97](https://www.legislation.gov.uk/eur/1997/35)[^c-f84b014cb2632913b9babc12dfdc681a]
 
 (1) Council Decision [(EC) No 97/602](https://www.legislation.gov.uk/eur/19602/97) concerning the list referred to in the second subparagraph of Article 3(1) of Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254) and in Article 1(1)(a) of Commission Regulation [(EC) No 35/97](https://www.legislation.gov.uk/eur/1997/35) is amended as follows.
 
@@ -156,7 +156,7 @@ These Regulations may be cited as the Leghold Trap and Pelt Imports (Amendment e
 
 > **1.**
 >
-> The Annex to this Decision lists the approved countries referred to in Article 3(3)[^key-3b1be2a2c844eb5af9eebac083721be4] of Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254), and specifies in respect of each country the species in relation to the pelts of which the country in question is approved.
+> The Annex to this Decision lists the approved countries referred to in Article 3(3)[^c-3b1be2a2c844eb5af9eebac083721be4] of Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254), and specifies in respect of each country the species in relation to the pelts of which the country in question is approved.
 
 .
 
@@ -166,7 +166,7 @@ These Regulations may be cited as the Leghold Trap and Pelt Imports (Amendment e
 
 ## PART 3 — Revocation of retained direct EU legislation
 
-### 5.[^key-17d1c33ecd7ff7238050d99a0a3ed9b1]
+### 5.[^c-17d1c33ecd7ff7238050d99a0a3ed9b1]
 
 The following instruments are revoked—
 
@@ -180,7 +180,7 @@ Parliamentary Under Secretary of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE 1 — Substituted Annex to Council Decision [(EC) No 97/602](https://www.legislation.gov.uk/european/regulation/19602/0097)/EC concerning the list referred to in the second subparagraph of Article 3(1) of Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/european/regulation/1991/3254) and in Article 1(1)(a) of Commission Regulation [(EC) No 35/97](https://www.legislation.gov.uk/european/regulation/1997/0035)[^key-9afac22ff825a1ef64d25b7a5a014416][^key-811b081e75bb30c180f0ab0680523837]
+## SCHEDULE 1 — Substituted Annex to Council Decision [(EC) No 97/602](https://www.legislation.gov.uk/european/regulation/19602/0097)/EC concerning the list referred to in the second subparagraph of Article 3(1) of Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/european/regulation/1991/3254) and in Article 1(1)(a) of Commission Regulation [(EC) No 35/97](https://www.legislation.gov.uk/european/regulation/1997/0035)[^c-9afac22ff825a1ef64d25b7a5a014416][^c-811b081e75bb30c180f0ab0680523837]
 
 Regulation 4(4)
 
@@ -221,26 +221,26 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23520381]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-28165d6c5ec23ec54eacf9d96e34e675]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-28165d6c5ec23ec54eacf9d96e34e675]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e6b90c0542e0708bd5570fd29f0cd8a6]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e6b90c0542e0708bd5570fd29f0cd8a6]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ca033da9724765666c43b79aea2459c8]: Textual amendment: Reg. 2(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/4/2/a)
+[^c-ca033da9724765666c43b79aea2459c8]: Textual amendment: Reg. 2(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/4/2/a)
 
-[^key-6a5ad16d54de0163908581798b307fd8]: Textual amendment: Reg. 2(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/4/2/b)
+[^c-6a5ad16d54de0163908581798b307fd8]: Textual amendment: Reg. 2(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/4/2/b)
 
-[^key-a079ae57b5a57e38658a5d8efa037c20]: Textual amendment: Words in reg. 2(4) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [4(2)(c)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/4/2/c)
+[^c-a079ae57b5a57e38658a5d8efa037c20]: Textual amendment: Words in reg. 2(4) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [4(2)(c)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/4/2/c)
 
-[^key-2bca055c6fc1559df180e36b8d08f95b]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2bca055c6fc1559df180e36b8d08f95b]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b7b059f886fd84fc824e02527b0ed97e]: Textual amendment: Words in reg. 3(2)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [4(3)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/4/3)
+[^c-b7b059f886fd84fc824e02527b0ed97e]: Textual amendment: Words in reg. 3(2)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [4(3)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/4/3)
 
-[^key-f84b014cb2632913b9babc12dfdc681a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f84b014cb2632913b9babc12dfdc681a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3b1be2a2c844eb5af9eebac083721be4]: Textual amendment: Words in reg. 4(2) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [4(4)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/4/4)
+[^c-3b1be2a2c844eb5af9eebac083721be4]: Textual amendment: Words in reg. 4(2) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [4(4)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/4/4)
 
-[^key-17d1c33ecd7ff7238050d99a0a3ed9b1]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-17d1c33ecd7ff7238050d99a0a3ed9b1]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9afac22ff825a1ef64d25b7a5a014416]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)) , see [reg. 1](https://www.legislation.gov.uk/uksi/2019/16/regulation/1)
+[^c-9afac22ff825a1ef64d25b7a5a014416]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)) , see [reg. 1](https://www.legislation.gov.uk/uksi/2019/16/regulation/1)
 
-[^key-811b081e75bb30c180f0ab0680523837]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2019/16/schedule/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/16/regulation/1)
+[^c-811b081e75bb30c180f0ab0680523837]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2019/16/schedule/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/16/regulation/1)

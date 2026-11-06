@@ -24,9 +24,9 @@ Section 303
 
 ### Landlord and Tenant Act 1985 (c. 70)
 
-**1.**[^key-57aa37659795fb4170e7e2d20f2bd415] The Landlord and Tenant Act 1985 is amended as follows.
+**1.**[^c-57aa37659795fb4170e7e2d20f2bd415] The Landlord and Tenant Act 1985 is amended as follows.
 
-**2.**[^key-f79ad42bdc5286a4b8058adbf417f15a] For section 21 (as substituted by section 152 of the Commonhold and Leasehold Reform Act 2002 (c. 15)) (regular statements of account) substitute—
+**2.**[^c-f79ad42bdc5286a4b8058adbf417f15a] For section 21 (as substituted by section 152 of the Commonhold and Leasehold Reform Act 2002 (c. 15)) (regular statements of account) substitute—
 
 > **21. Service charge information**
 >
@@ -73,7 +73,7 @@ Section 303
 >   - (b) in relation to Wales, means the Welsh Ministers,
 > - “**associated service charges**”, in relation to a tenant by whom a contribution to relevant costs is payable as a service charge, means service charges of other tenants so far as relating to the same costs.
 
-**3.**[^key-c190a11e153543447c9b7a24ee635e0a] (1) Section 21A (withholding of service charges) is amended as follows.
+**3.**[^c-c190a11e153543447c9b7a24ee635e0a] (1) Section 21A (withholding of service charges) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -100,7 +100,7 @@ Section 303
 
   > - (b) in a case within paragraph (b) of that subsection, after information or a report conforming exactly or substantially with requirements prescribed by regulations under section 21 has been provided to the tenant by the landlord by way of replacement of that previously provided.
 
-**4.**[^key-3f476fece709763c9ec54994f3d90ec6] (1) Section 22 (as substituted by section 154 of the Commonhold and Leasehold Reform Act 2002 (c. 15)) (inspection etc. of documents) is amended as follows.
+**4.**[^c-3f476fece709763c9ec54994f3d90ec6] (1) Section 22 (as substituted by section 154 of the Commonhold and Leasehold Reform Act 2002 (c. 15)) (inspection etc. of documents) is amended as follows.
 
 (2) In subsection (1)(a) for the words from “the matters” to “under” substitute “ information required to be provided to him by virtue of ”.
 
@@ -112,12 +112,12 @@ Section 303
 - (b) for “supplied”, wherever it appears, substitute “ provided ”, and
 - (c) in paragraph (b) for “21(4)” substitute “ 21 ”.
 
-**5.**[^key-97a3a36e823c8da246103eb100c82ec3] In section 23(1) (as substituted by paragraph 1 of Schedule 10 to the Commonhold and Leasehold Reform Act 2002 (c. 15) (information held by superior landlord))—
+**5.**[^c-97a3a36e823c8da246103eb100c82ec3] In section 23(1) (as substituted by paragraph 1 of Schedule 10 to the Commonhold and Leasehold Reform Act 2002 (c. 15) (information held by superior landlord))—
 
 - (a) for “a statement of account which the landlord is required to supply under” substitute “ information which the landlord is required to provide by virtue of ”, and
 - (b) after “of the relevant information” insert “ which relates to those matters ”.
 
-**6.**[^key-357a93b5a562925e990ce27bd17c9f07] In section 23A(4) (effect of change of landlord)—
+**6.**[^c-357a93b5a562925e990ce27bd17c9f07] In section 23A(4) (effect of change of landlord)—
 
 - (a) in paragraph (a) after “23” insert “ and any regulations under section 21 ”, and
 - (b) after paragraph (b) insert
@@ -126,19 +126,19 @@ Section 303
   >
   > - (c) any regulations under section 21 apply subject to any modifications contained in the regulations.
 
-**7.**[^key-ef3f22a96a4fc14f9292fc2d4dd6e336] In section 26(1) (exception: tenants of certain public authorities) for “statements of account” substitute “ service charge information, reports on such information ”.
+**7.**[^c-ef3f22a96a4fc14f9292fc2d4dd6e336] In section 26(1) (exception: tenants of certain public authorities) for “statements of account” substitute “ service charge information, reports on such information ”.
 
-**8.**[^key-54e826cb714b1d0db9aec60593a90040] In section 27 (exception: rent registered and not entered as variable) for “statements of account” substitute “ service charge information, reports on such information ”.
+**8.**[^c-54e826cb714b1d0db9aec60593a90040] In section 27 (exception: rent registered and not entered as variable) for “statements of account” substitute “ service charge information, reports on such information ”.
 
-**9.**[^key-ecf747dd7123fc3381310f80711b2b34] Omit section 28 (meaning of “qualified accountant”).
+**9.**[^c-ecf747dd7123fc3381310f80711b2b34] Omit section 28 (meaning of “qualified accountant”).
 
-**10.**[^key-dedd481d4a5204de17a915dae2662943] In section 39 (index of defined expressions) omit the entry in the Table for “qualified accountant”.
+**10.**[^c-dedd481d4a5204de17a915dae2662943] In section 39 (index of defined expressions) omit the entry in the Table for “qualified accountant”.
 
 ### Landlord and Tenant Act 1987 (c. 31)
 
-**11.**[^key-60d969f559c911a10dbc2e996e246f5e] The Landlord and Tenant Act 1987 is amended as follows.
+**11.**[^c-60d969f559c911a10dbc2e996e246f5e] The Landlord and Tenant Act 1987 is amended as follows.
 
-**12.**[^key-9c5d00e859e9a42597a598ded038af07] (1) Section 42A (service charge contributions to be held in designated account) is amended as follows.
+**12.**[^c-9c5d00e859e9a42597a598ded038af07] (1) Section 42A (service charge contributions to be held in designated account) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -199,7 +199,7 @@ Section 303
   , and
 - (b) in the definition of “relevant financial institution” for “Secretary of State” substitute “ appropriate national authority ”.
 
-**13.**[^key-4b9b060de10b8329f07076d0abc2e490] (1) Section 53 (regulations and orders) is amended as follows.
+**13.**[^c-4b9b060de10b8329f07076d0abc2e490] (1) Section 53 (regulations and orders) is amended as follows.
 
 (2) In subsection (2)(b) omit “or 42A”.
 
@@ -254,28 +254,28 @@ Section 303
 
 ## Annotations
 
-[^key-57aa37659795fb4170e7e2d20f2bd415]: Commencement: Sch. 12 para. 1 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-57aa37659795fb4170e7e2d20f2bd415]: Commencement: Sch. 12 para. 1 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-f79ad42bdc5286a4b8058adbf417f15a]: Commencement: Sch. 12 para. 2 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-f79ad42bdc5286a4b8058adbf417f15a]: Commencement: Sch. 12 para. 2 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-c190a11e153543447c9b7a24ee635e0a]: Commencement: Sch. 12 para. 3 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-c190a11e153543447c9b7a24ee635e0a]: Commencement: Sch. 12 para. 3 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-3f476fece709763c9ec54994f3d90ec6]: Commencement: Sch. 12 para. 4 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-3f476fece709763c9ec54994f3d90ec6]: Commencement: Sch. 12 para. 4 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-97a3a36e823c8da246103eb100c82ec3]: Commencement: Sch. 12 para. 5 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-97a3a36e823c8da246103eb100c82ec3]: Commencement: Sch. 12 para. 5 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-357a93b5a562925e990ce27bd17c9f07]: Commencement: Sch. 12 para. 6 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-357a93b5a562925e990ce27bd17c9f07]: Commencement: Sch. 12 para. 6 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-ef3f22a96a4fc14f9292fc2d4dd6e336]: Commencement: Sch. 12 para. 7 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-ef3f22a96a4fc14f9292fc2d4dd6e336]: Commencement: Sch. 12 para. 7 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-54e826cb714b1d0db9aec60593a90040]: Commencement: Sch. 12 para. 8 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-54e826cb714b1d0db9aec60593a90040]: Commencement: Sch. 12 para. 8 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-ecf747dd7123fc3381310f80711b2b34]: Commencement: Sch. 12 para. 9 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-ecf747dd7123fc3381310f80711b2b34]: Commencement: Sch. 12 para. 9 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-dedd481d4a5204de17a915dae2662943]: Commencement: Sch. 12 para. 10 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-dedd481d4a5204de17a915dae2662943]: Commencement: Sch. 12 para. 10 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-60d969f559c911a10dbc2e996e246f5e]: Commencement: Sch. 12 para. 11 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(7)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/7) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-60d969f559c911a10dbc2e996e246f5e]: Commencement: Sch. 12 para. 11 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(7)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/7) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-9c5d00e859e9a42597a598ded038af07]: Commencement: Sch. 12 para. 12 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(7)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/7) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-9c5d00e859e9a42597a598ded038af07]: Commencement: Sch. 12 para. 12 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(7)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/7) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-4b9b060de10b8329f07076d0abc2e490]: Commencement: Sch. 12 para. 13 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(7)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/7) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-4b9b060de10b8329f07076d0abc2e490]: Commencement: Sch. 12 para. 13 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(7)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/7) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

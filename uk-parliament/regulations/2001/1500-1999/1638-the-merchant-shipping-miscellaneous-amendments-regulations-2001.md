@@ -49,19 +49,19 @@ Coming into force
 
 The Secretary of State for the Environment, Transport and the Regions, after such consultation as is required by section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred upon him by sections 85(1)(a) and (b), (3) and (7) and 86(1) of that Act[^f00002] hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-660abbfc66c3eb7e801c37bcee521182]
+## 1. Citation and commencement[^c-660abbfc66c3eb7e801c37bcee521182]
 
 These Regulations may be cited as the Merchant Shipping (Miscellaneous Amendments) Regulations 2001 and shall come into force on 11th June 2001.
 
-## 2. Amendment of the Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995[^key-b92c8162d86f123a53d1d31408480102]
+## 2. Amendment of the Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995[^c-b92c8162d86f123a53d1d31408480102]
 
 In regulation 15(4B)(b) of the Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995[^f00003], for “not exceeding the statutory maximum” there shall be substituted “not exceeding level 5 on the standard scale”.
 
-## 3. Amendment of the Merchant Shipping (Fire Protection: Large Ships) Regulations 1998[^key-33ee8afd35ae8f5cf45adc912bf98a78]
+## 3. Amendment of the Merchant Shipping (Fire Protection: Large Ships) Regulations 1998[^c-33ee8afd35ae8f5cf45adc912bf98a78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Merchant Shipping (Radio Installations) Regulations 1998[^key-f2b9254d8ebb1e1fd6193b122418e2c4]
+## 4. Amendment of the Merchant Shipping (Radio Installations) Regulations 1998[^c-f2b9254d8ebb1e1fd6193b122418e2c4]
 
 The Merchant Shipping (Radio Installations) Regulations 1998[^f00005] shall be amended as follows—
 
@@ -70,7 +70,7 @@ The Merchant Shipping (Radio Installations) Regulations 1998[^f00005] shall be a
 - (c) in regulation 45(6)(a) “or” shall be inserted before “aggregate of periods”; and
 - (d) in regulation 47(2), for “Schedule 6” there shall be substituted “Schedule 7”.
 
-## 5. Amendment of the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998[^key-a6333a26fe07f9bf13780aa08b12351d]
+## 5. Amendment of the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998[^c-a6333a26fe07f9bf13780aa08b12351d]
 
 The Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998[^f00006] shall be amended as follows—
 
@@ -87,18 +87,18 @@ The Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and I
   ; and
 - (h) in regulation 91(5) for “not exceeding level 5 or, on conviction or indictment,” there shall be substituted “not exceeding the statutory maximum or, on conviction on indictment,”.
 
-## 6. Amendment of the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998[^key-e47d07b948404671cab0480619c618d4]
+## 6. Amendment of the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998[^c-e47d07b948404671cab0480619c618d4]
 
 The Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998[^f00008] shall be amended as follows—
 
 - (a) paragraph (2) of regulation 32 shall be omitted; and
 - (b) in regulation 73(1), for “statutory minimum” there shall be substituted “statutory maximum”.
 
-## 7. Amendment of the Merchant Shipping (Fire Protection) (Amendment) Regulations 1999[^key-958e0aa834258e036bc852500958f012]
+## 7. Amendment of the Merchant Shipping (Fire Protection) (Amendment) Regulations 1999[^c-958e0aa834258e036bc852500958f012]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Merchant Shipping (Marine Equipment) Regulations 1999[^key-746c4ffb83b126133f462ebf4b16d65d]
+## 8. Amendment of the Merchant Shipping (Marine Equipment) Regulations 1999[^c-746c4ffb83b126133f462ebf4b16d65d]
 
 In regulation 23(3) of the Merchant Shipping (Marine Equipment) Regulations 1999[^f00010] “19(4) or” shall be omitted.
 
@@ -136,30 +136,30 @@ Regulation 8 amends the Merchant Shipping (Marine Equipment) Regulations 1999 to
 
 [^f00002]: Footnote: Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 8.
 
-[^key-660abbfc66c3eb7e801c37bcee521182]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1) in force at 11.6.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1)
+[^c-660abbfc66c3eb7e801c37bcee521182]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1) in force at 11.6.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1)
 
-[^key-b92c8162d86f123a53d1d31408480102]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/1638/regulation/2) in force at 11.6.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1)
+[^c-b92c8162d86f123a53d1d31408480102]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/1638/regulation/2) in force at 11.6.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1)
 
 [^f00003]: Footnote: S.I. [1995/2498](https://www.legislation.gov.uk/uksi/1995/2498), regulation 15(4B) was inserted by S.I. [1999/2121](https://www.legislation.gov.uk/uksi/1999/2121), regulation 8(c).
 
-[^key-33ee8afd35ae8f5cf45adc912bf98a78]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/1638/regulation/3) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+[^c-33ee8afd35ae8f5cf45adc912bf98a78]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/1638/regulation/3) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
 
-[^key-f2b9254d8ebb1e1fd6193b122418e2c4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/1638/regulation/4) in force at 11.6.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1)
+[^c-f2b9254d8ebb1e1fd6193b122418e2c4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/1638/regulation/4) in force at 11.6.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1)
 
 [^f00005]: Footnote: S.I. [1998/2070](https://www.legislation.gov.uk/uksi/1998/2070), to which there are amendments not relevant to these Regulations.
 
-[^key-a6333a26fe07f9bf13780aa08b12351d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/1638/regulation/5) in force at 11.6.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1)
+[^c-a6333a26fe07f9bf13780aa08b12351d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/1638/regulation/5) in force at 11.6.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1)
 
 [^f00006]: Footnote: S.I. [1998/2514](https://www.legislation.gov.uk/uksi/1998/2514). By virtue of regulation 5(1)(a) of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. [2000/2687](https://www.legislation.gov.uk/uksi/2000/2687)) S.I. [1998/2514](https://www.legislation.gov.uk/uksi/1998/2514) ceases to apply to certain types of passenger ship of 24 metres or over in length engaged on certain domestic voyages from dates specified in regulation 4 of S.I. [2000/2687](https://www.legislation.gov.uk/uksi/2000/2687).
 
 [^f00007]: Footnote: S.I. [1998/2241](https://www.legislation.gov.uk/uksi/1998/2241).
 
-[^key-e47d07b948404671cab0480619c618d4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/1638/regulation/6) in force at 11.6.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1)
+[^c-e47d07b948404671cab0480619c618d4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/1638/regulation/6) in force at 11.6.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1)
 
 [^f00008]: Footnote: S.I. [1998/2515](https://www.legislation.gov.uk/uksi/1998/2515). By virtue of regulation 5(1)(b) of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 S.I. [1998/2515](https://www.legislation.gov.uk/uksi/1998/2515) ceases to apply to certain types of passenger ship of 24 metres or over in length engaged on certain domestic voyages from dates specified in regulation 4 of S.I. [2000/2687](https://www.legislation.gov.uk/uksi/2000/2687).
 
-[^key-958e0aa834258e036bc852500958f012]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/1638/regulation/7) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+[^c-958e0aa834258e036bc852500958f012]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/1638/regulation/7) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
 
-[^key-746c4ffb83b126133f462ebf4b16d65d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2001/1638/regulation/8) in force at 11.6.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1)
+[^c-746c4ffb83b126133f462ebf4b16d65d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2001/1638/regulation/8) in force at 11.6.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1638/regulation/1)
 
 [^f00010]: Footnote: S.I. [1999/1957](https://www.legislation.gov.uk/uksi/1999/1957).

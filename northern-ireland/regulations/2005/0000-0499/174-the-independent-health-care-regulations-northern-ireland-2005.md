@@ -43,26 +43,26 @@ The Department of Health, Social Services and Public Safety, in exercise of powe
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and extent[^key-abe7c34c726fa6a0e037490b63f3249d]
+### 1. Citation, commencement and extent[^c-abe7c34c726fa6a0e037490b63f3249d]
 
 These Regulations may be cited as the Independent Health Care Regulations (Northern Ireland) 2005 and shall come into operation on 1st April 2005.
 
-### 2. Interpretation[^key-ebf47b6837901a4ea11931b7fb525504]
+### 2. Interpretation[^c-ebf47b6837901a4ea11931b7fb525504]
 
 (1) In these Regulations –
 
 - “agency” means an independent medical agency;
-- “[^key-83ac62e8388518966c8ca64c9430a269]**bankruptcy restrictions order**” means an order made under Schedule 2A of the Insolvency (Northern Ireland) Order 1989 or Schedule 4A of the Insolvency Act 1986;
-- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^key-11c0c3ad6e53304010d447a9b52aac8e]
+- “[^c-83ac62e8388518966c8ca64c9430a269]**bankruptcy restrictions order**” means an order made under Schedule 2A of the Insolvency (Northern Ireland) Order 1989 or Schedule 4A of the Insolvency Act 1986;
+- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^c-11c0c3ad6e53304010d447a9b52aac8e]
 - “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989, or Schedule 4ZB to the Insolvency Act 1986;
 - “dentist” means dental practitioner;
 - “establishment” means an independent hospital, or an independent clinic;
-- “[^key-99b976c2fe2885ddac764640cda86e85]**ethics committee**” means a group of persons which assesses the ethics of research involving individuals and which is recognised for that purpose by or on behalf of the Department of Health, Social Services and Public Safety;
+- “[^c-99b976c2fe2885ddac764640cda86e85]**ethics committee**” means a group of persons which assesses the ethics of research involving individuals and which is recognised for that purpose by or on behalf of the Department of Health, Social Services and Public Safety;
 - “Fire Authority” means the Fire Authority for Northern Ireland within the meaning of the Fire Services (Northern Ireland) Order 1984[^f00003];
 - “general practitioner” means a medical practitioner providing primary medical services;
 - “health care professional” means a person who is registered as a member of any profession which is regulated by a body mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 or who is a clinical psychologist or child psychotherapist[^f00004];
-- “insurance provider” means—[^key-2147bb0144194ec70527074c35e100a1]
-  - (a) a person regulated by the Financial Conduct Authority or the Prudential Regulation Authority[^key-6d74040e5d73e948162a34a8fe821a5d] who sells insurance, or underwrites the risk of such an insurance, or
+- “insurance provider” means—[^c-2147bb0144194ec70527074c35e100a1]
+  - (a) a person regulated by the Financial Conduct Authority or the Prudential Regulation Authority[^c-6d74040e5d73e948162a34a8fe821a5d] who sells insurance, or underwrites the risk of such an insurance, or
   - (b) the agent of such a person;
 - “medical device” has the same meaning as in the Medical Devices Regulations 2002[^f00005];
 - “the Order” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
@@ -70,19 +70,19 @@ These Regulations may be cited as the Independent Health Care Regulations (North
 - “organisation” means a body corporate or any unincorporated association other than a partnership;
 - “patient”, in relation to any establishment or agency, means a person for whom treatment is provided in or for the purposes of the establishment, or for the purposes of the agency;
 - “patient’s guide” means the guide compiled in accordance with regulation 8;
-- “personal dental services” has the same meaning as in Article 3(7) of the Health Services (Primary Care) (Northern Ireland) Order 1997 ;[^key-0cb4008a29f36f117108e599a8917ad9]
+- “personal dental services” has the same meaning as in Article 3(7) of the Health Services (Primary Care) (Northern Ireland) Order 1997 ;[^c-0cb4008a29f36f117108e599a8917ad9]
 - “practising privileges” in relation to a medical practitioner, refers to the grant to a person who is not employed in an independent hospital of permission to practise in that hospital;
 - “registered manager”, in relation to an establishment or agency, means a person who is registered under Part III of the Order as the manager of the establishment or agency;
 - “registered person”, in relation to an establishment or agency, means any person who is the registered provider or the registered manager of the establishment or agency;
 - “registered provider” in relation to an establishment or agency, means a person who is registered under Part III of the Order as the person carrying on the establishment or agency;
-- “[^key-4d7e673db683b059ad5e7ab2984f6f88]RQIA” means the Health and Social Care Regulation and Quality Improvement Authority;
+- “[^c-4d7e673db683b059ad5e7ab2984f6f88]RQIA” means the Health and Social Care Regulation and Quality Improvement Authority;
 - “responsible individual” shall be construed in accordance with regulation 10(2)(c)(i);
 - “statement of purpose” means the written statement compiled in accordance with regulation 7;
 - “treatment” includes palliative care and nursing and listed services within the meaning of Article 2 of the Order.
 
 (2) In these Regulations, references to employing a person include employing a person whether under a contract of service or a contract for services.
 
-### 3. Exceptions to the definition of independent hospital[^key-344c1203903d514280ff3f8f364a7c71]
+### 3. Exceptions to the definition of independent hospital[^c-344c1203903d514280ff3f8f364a7c71]
 
 For the purposes of Article 2 of the Order, establishments of the following descriptions are excepted from being independent hospitals –
 
@@ -92,23 +92,23 @@ For the purposes of Article 2 of the Order, establishments of the following desc
 - (d) an establishment which is an independent clinic by virtue of regulation 5;
 - (e) an establishment (not being a hospital which is vested in the Department or managed by an HSS trust) which has as its sole or main purpose the provision by a general practitioner of primary medical services; and such an establishment shall not become an independent hospital as a result of the provision of listed services to a patient by such a general practitioner;
 - (f) the private residence of a patient in which treatment is provided to such patient, but to no one else;
-- (g) sports grounds and gymnasia where health professionals provide treatment to persons taking part in sporting activities and events; [^key-10d7e136afc281ebf7f4aa071d66ec6b]...
-- (h)[^key-60df514e0093e5d3ca2fdbb6dee04bda] a surgery or consulting room (which is not part of a hospital) in which a medical practitioner provides medical services only under arrangements made on behalf of the patients by —
+- (g) sports grounds and gymnasia where health professionals provide treatment to persons taking part in sporting activities and events; [^c-10d7e136afc281ebf7f4aa071d66ec6b]...
+- (h)[^c-60df514e0093e5d3ca2fdbb6dee04bda] a surgery or consulting room (which is not part of a hospital) in which a medical practitioner provides medical services only under arrangements made on behalf of the patients by —
   - (i) their employer;
   - (ii) a Northern Ireland department;
   - (iii) a prison or other establishment in which the patients are held in custody, other than pursuant to any provision of the Mental Health Order (Northern Ireland) 1986; or
   - (iv) an insurance provider with whom the patients hold an insurance policy, other than a insurance policy which is solely or primarily intended to provide benefits in connection with the diagnosis or treatment of physical or mental illness, disability or infirmity; and
 - (i) an establishment which has as its sole purpose the provision by a dental practitioner of general dental services , or personal dental services and such an establishment shall not become an independent hospital as a result of the provision of listed services to a patient by such a dental practitioner
 
-### 4. Prescribed techniques or technology[^key-00632d3204f70fb89142beb8e2e1042c]
+### 4. Prescribed techniques or technology[^c-00632d3204f70fb89142beb8e2e1042c]
 
 (1) Subject to paragraph (2), for the purposes of Article 2 of the Order, “listed services” include treatment using any of the following techniques or technology –
 
 - (a) a Class 3B or Class 4 laser product, as defined in Part I of British Standard EN 60825-1 (Radiation safety of laser products and systems)[^f00010];
 - (b) an intense light, being broadband non-coherent light which is filtered to produce a specified range of wavelengths; such filtered radiation being delivered to the body with the aim of causing thermal, mechanical or chemical damage to structures such as hair follicles and skin blemishes while sparing surrounding tissues;
-- (c) endoscopy; [^key-09a6ae0a0d2675515c0c46821881290e]...
+- (c) endoscopy; [^c-09a6ae0a0d2675515c0c46821881290e]...
 - (d) in vitro fertilisation techniques, being treatment services for which a licence may be granted under paragraph 1 of Schedule 2 to the Human Fertilisation and Embryology Act 1990[^f00011].
-- (e)[^key-b401e8319376d32abcc4508380cb01f2] haemodialysis or peritoneal dialysis; and
+- (e)[^c-b401e8319376d32abcc4508380cb01f2] haemodialysis or peritoneal dialysis; and
 - (f) hyperbaric therapy, being the administration of oxygen (whether or not combined with one or more other gases) through a mask to a patient who is in a sealed chamber which is gradually pressurised with compressed air, where such therapy is carried out by or under the supervision or direction of a medical practitioner, except where the primary use of that chamber is—
   - (i) pursuant to regulation 6(3)(b) of the Diving at Work Regulations (Northern Ireland) 2005 or regulation 8 or 12 of the Work in Compressed Air Regulations (Northern Ireland) 2004; or
   - (ii) otherwise for the treatment of workers in connection with the work which they perform.
@@ -127,7 +127,7 @@ For the purposes of Article 2 of the Order, establishments of the following desc
 >   - (iii) the subcutaneous injection of a substance into the skin for cosmetic purposes; and
 >   - (iv) the removal of hair roots or small blemishes on the skin by the application of heat using an electric current.
 
-### 4A. Modification of Article 2(7) of the Order[^key-184fc741c363f2c29ae8dcbf9865e097]
+### 4A. Modification of Article 2(7) of the Order[^c-184fc741c363f2c29ae8dcbf9865e097]
 
 Paragraph (7) of Article 2 of the Order shall be modified by substituting for sub-paragraph (b), the following sub-paragraph—
 
@@ -135,14 +135,14 @@ Paragraph (7) of Article 2 of the Order shall be modified by substituting for su
 
 .
 
-### 5. Meaning of independent clinic[^key-5adea077e75307cf9984f6b2257f2aaa]
+### 5. Meaning of independent clinic[^c-5adea077e75307cf9984f6b2257f2aaa]
 
 (1) For the purposes of the definition of independent clinic under Article 2(2) of the Order, establishment of the following kinds are prescribed –
 
 - (a) a walk-in centre, in which one or more medical practitioners provide services of a kind which, if provided in pursuance of the 1972 Order, would be provided as primary medical services; and
-- (b)[^key-cd2444a57c9f0bc2c95ebc817fafed6b] unless paragraph (1A) applies, a surgery or consulting room in which a medical practitioner who provides no services in pursuance of the 1972 Order provides medical services of any kind (including psychiatric treatment).
+- (b)[^c-cd2444a57c9f0bc2c95ebc817fafed6b] unless paragraph (1A) applies, a surgery or consulting room in which a medical practitioner who provides no services in pursuance of the 1972 Order provides medical services of any kind (including psychiatric treatment).
 
-(1A)[^key-3285eeb0ec1778d69b0c9728887eb008] Paragraph (1)(b) does not apply to an establishment where medical services are provided only under arrangements made on behalf of the patients by—
+(1A)[^c-3285eeb0ec1778d69b0c9728887eb008] Paragraph (1)(b) does not apply to an establishment where medical services are provided only under arrangements made on behalf of the patients by—
 
 - (a) their employer;
 - (b) a Northern Ireland department;
@@ -151,7 +151,7 @@ Paragraph (7) of Article 2 of the Order shall be modified by substituting for su
 
 (2) Where two or more medical practitioners use different parts of the same premises as a surgery or consulting room, or use the same surgery or consulting room at different times, each of the medical practitioners shall be regarded as carrying on a separate independent clinic unless they are in practice together.
 
-### 6. Exception of undertaking from the definition of independent medical agency[^key-d4b1761c1e323c587a60b3a167bc3966]
+### 6. Exception of undertaking from the definition of independent medical agency[^c-d4b1761c1e323c587a60b3a167bc3966]
 
 For the purposes of the Order, any undertaking which consists of the provision of medical services by a medical practitioner only under arrangements made on behalf of the patients by—
 
@@ -162,18 +162,18 @@ For the purposes of the Order, any undertaking which consists of the provision o
 
   shall be excepted from being an independent medical agency.
 
-### 7. Statement of purpose[^key-ce873399d22070ed84ffe5e77de593d4]
+### 7. Statement of purpose[^c-ce873399d22070ed84ffe5e77de593d4]
 
 (1) The registered person shall compile in relation to the establishment or agency written statement which shall consist of a statement as to the matters listed in Schedule 1.
 
-(2) The registered person shall supply a copy of the statement of purpose to the RQIA[^key-46aebe72bf741494338e237189b6254b] and shall make the statement available for inspection by every patient and any person acting on behalf of a patient.
+(2) The registered person shall supply a copy of the statement of purpose to the RQIA[^c-46aebe72bf741494338e237189b6254b] and shall make the statement available for inspection by every patient and any person acting on behalf of a patient.
 
 (3) Nothing in regulation 15(1) or 25(1) and (2) shall require or authorise the registered person to contravene, or not to comply with –
 
 - (a) any other provision of these Regulations; or
 - (b) the conditions for the time being in operation in relation to the registration of the registered person under Part III of the Order.
 
-### 8. Patient’s guide[^key-767cdb3edf999c7f738f9120c35c29f1]
+### 8. Patient’s guide[^c-767cdb3edf999c7f738f9120c35c29f1]
 
 (1) The registered person shall produce a written guide to the establishment or agency which shall consist of –
 
@@ -187,14 +187,14 @@ For the purposes of the Order, any undertaking which consists of the provision o
 
 (2) The registered person shall supply a copy of the patient’s guide to the RQIA, and shall make the patient’s guide available for inspection by every patient and any person acting on behalf of a patient.
 
-### 9. Review of statement of purpose and patient’s guide[^key-f90133c8a64821d6afadf107f472655b]
+### 9. Review of statement of purpose and patient’s guide[^c-f90133c8a64821d6afadf107f472655b]
 
 The registered person shall –
 
 - (a) keep under review and, where appropriate, revise the statement of purpose, and the content of the patient’s guide; and
 - (b) notify the RQIA of any such revision.
 
-### 9A. Requirements for statements of policies & procedures[^key-73ba3514e5e1e71335c92c8479ff2fe6]
+### 9A. Requirements for statements of policies & procedures[^c-73ba3514e5e1e71335c92c8479ff2fe6]
 
 (1) The registered person shall implement written statements of the policies to be applied and the procedures to be followed in or for the purposes of an establishment in relation to—
 
@@ -233,7 +233,7 @@ at intervals of not more than three years and shall, where appropriate, prepare 
 
 ## PART II — REGISTERED PERSONS
 
-### 10. Fitness of registered person provider[^key-085e06b8b38c1df3122ff195a3b42a14]
+### 10. Fitness of registered person provider[^c-085e06b8b38c1df3122ff195a3b42a14]
 
 (1) A person shall not carry on an establishment or agency unless he is fit to do so.
 
@@ -256,11 +256,11 @@ at intervals of not more than three years and shall, where appropriate, prepare 
 (4) A person shall not carry on an establishment or agency if –
 
 - (a) he has been adjudged bankrupt or sequestration of his estate has been awarded and (in either case) he has not been discharged and the bankruptcy order has not been annulled or rescinded; or
-- (ab)[^key-6edfabd12dcc0174ce1de868e59ea3da] he is the subject of a bankruptcy restrictions order; or
-- (ac)[^key-2443301fae49c3470d0cf1e6bc63c552] he is a person in relation to whom a moratorium period under a debt relief order applies or he is the subject of a debt relief restrictions order ; or
+- (ab)[^c-6edfabd12dcc0174ce1de868e59ea3da] he is the subject of a bankruptcy restrictions order; or
+- (ac)[^c-2443301fae49c3470d0cf1e6bc63c552] he is a person in relation to whom a moratorium period under a debt relief order applies or he is the subject of a debt relief restrictions order ; or
 - (b) he has made a composition or arrangement with his creditors and has not been discharged in respect of it.
 
-### 11. Appointment of manager[^key-8d0fb2ab172f8966d6a3f1bb39409637]
+### 11. Appointment of manager[^c-8d0fb2ab172f8966d6a3f1bb39409637]
 
 (1) The registered provider shall appoint an individual to manage an establishment or agency if –
 
@@ -275,7 +275,7 @@ at intervals of not more than three years and shall, where appropriate, prepare 
 - (a) the name of the person so appointed; and
 - (b) the date on which the appointment is to take effect.
 
-### 12. Fitness of registered manager[^key-00f572b6ed5831bcf018a29a1fe32dea]
+### 12. Fitness of registered manager[^c-00f572b6ed5831bcf018a29a1fe32dea]
 
 (1) A person shall not manage an establishment or agency unless he is fit to do so.
 
@@ -287,7 +287,7 @@ at intervals of not more than three years and shall, where appropriate, prepare 
   - (ii) he is physically and mentally fit to do so; and
 - (c) full and satisfactory information is available in relation to him in respect of each of the matters specified in Schedule 2.
 
-### 13. Registered person: general requirements[^key-08f65f5a2a8bb1ea4b5007f888756891]
+### 13. Registered person: general requirements[^c-08f65f5a2a8bb1ea4b5007f888756891]
 
 (1) The registered provider and the registered manager shall, having regard to the size of the establishment or agency, the statement of purpose and the number and needs of the patients, carry on or (as the case may be) manage the establishment or agency with sufficient care, competence and skill.
 
@@ -301,7 +301,7 @@ from time to time such training as is appropriate to ensure that he has the skil
 
 (3) The registered manager shall undertake from time to time such training as is appropriate to ensure that he has the skills necessary for managing the establishment or agency.
 
-### 14. Registered person: notification of offences[^key-76db72cc98582a5c59c7513da7d1d029]
+### 14. Registered person: notification of offences[^c-76db72cc98582a5c59c7513da7d1d029]
 
 Where the registered person or the responsible individual is convicted of any criminal offence whether in Northern Ireland or elsewhere, he shall forthwith give notice in writing to the RQIA of –
 
@@ -313,7 +313,7 @@ Where the registered person or the responsible individual is convicted of any cr
 
 ### QUALITY OF SERVICE PROVISION
 
-#### 15. Quality of treatment and other service provision[^key-4b799d11b312f405e8eae77fc9cefd1d]
+#### 15. Quality of treatment and other service provision[^c-4b799d11b312f405e8eae77fc9cefd1d]
 
 (1) Subject to regulation 7(3), the registered person shall provide treatment and any other services to patients in accordance with the statement of purpose, and shall ensure that the treatment and any other services provided to each patient –
 
@@ -346,7 +346,7 @@ Where the registered person or the responsible individual is convicted of any cr
 
 and that the menu is varied at suitable intervals.
 
-#### 16. Care and welfare of patients[^key-5415d83e15b7356c11e2cde3fcbb2064]
+#### 16. Care and welfare of patients[^c-5415d83e15b7356c11e2cde3fcbb2064]
 
 (1) The registered person shall, so far as practicable, enable each patient to make decisions about matters affecting the way in which he is cared for and his general welfare.
 
@@ -368,7 +368,7 @@ and that the menu is varied at suitable intervals.
 
 (7) The registered person shall ensure that the information and communication procedures for the establishment or agency meet the needs of patients, their families and staff
 
-#### 17. Review of quality of treatment and other services[^key-d74cfa2be2dc207ca77c91c1e4866b86]
+#### 17. Review of quality of treatment and other services[^c-d74cfa2be2dc207ca77c91c1e4866b86]
 
 (1) The registered person shall introduce and maintain a system for reviewing at appropriate intervals the quality of treatment and other services provided in or for the purposes of an establishment or for the purposes of an agency.
 
@@ -380,7 +380,7 @@ and that the menu is varied at suitable intervals.
 
 (5) The registered person shall ensure there are arrangements for identifying, recording, analysing and learning from adverse incidents.
 
-#### 18. Staffing[^key-9f164213fbe6f79ba3113e3dd3413e77]
+#### 18. Staffing[^c-9f164213fbe6f79ba3113e3dd3413e77]
 
 (1) The registered person shall, having regard to the nature of the establishment or agency, the statement of purpose and the number and needs of patients, ensure that there is at all times an appropriate number of suitably qualified, skilled and experienced persons employed in or for the purposes of the establishment or, as the case may be, for the purposes of the agency.
 
@@ -401,7 +401,7 @@ which is found to be unsatisfactory.
 
 (5) The registered person shall maintain a record of the rostered shifts for each employee and a record of the hours worked by each person.
 
-#### 19. Fitness of workers[^key-c0172bae10370f68875426c65b444f47]
+#### 19. Fitness of workers[^c-c0172bae10370f68875426c65b444f47]
 
 (1) The registered person shall ensure that –
 
@@ -418,11 +418,11 @@ which is found to be unsatisfactory.
 
 (3) The registered person shall ensure that all healthcare professionals are covered by appropriate professional indemnity.
 
-#### 20. Guidance for health care professionals.[^key-15a1bd45f4392c209286bf99cd200bf0]
+#### 20. Guidance for health care professionals.[^c-15a1bd45f4392c209286bf99cd200bf0]
 
 The registered person shall ensure that any code of ethics or professional practice prepared by a body which is responsible for regulation of members of a health care profession is made available in the establishment or agency to members of the health care profession in question.
 
-#### 21. Records[^key-b636ac357c99fdff63cbeaaa3551fd56]
+#### 21. Records[^c-b636ac357c99fdff63cbeaaa3551fd56]
 
 (1) The registered person shall ensure that –
 
@@ -442,13 +442,13 @@ The registered person shall ensure that any code of ethics or professional pract
 - (b) at all times available for inspection in the establishment or the agency premises by any person authorised by the RQIA to enter and inspect the establishment or agency premises; and
 - (c) retained for a period of time not less than three years beginning on the date of the last entry.
 
-#### 22. Staff views as to conduct of establishment or agency[^key-7201a4fbd3165ad31da0db04abb0faba]
+#### 22. Staff views as to conduct of establishment or agency[^c-7201a4fbd3165ad31da0db04abb0faba]
 
 (1) This regulation applies to any matter relating to the conduct of the establishment or agency so far as it may affect the health and welfare of patients.
 
 (2) The registered person shall make arrangements to enable any person employed in or for the purposes of the establishment, or for the purposes of the agency, and any medical practitioner with practising privileges to inform the registered person and the RQIA of their views about any matter to which this regulation applies.
 
-#### 23. Complaints[^key-53ee43a4fb2cbe7905e20aaf3a7e82f6]
+#### 23. Complaints[^c-53ee43a4fb2cbe7905e20aaf3a7e82f6]
 
 (1) The registered person shall establish a procedure (in these Regulations referred to as “the complaints procedure”) for receiving, managing and responding to complaints made to the registered person by a patient or a person acting on behalf of a patient.
 
@@ -472,7 +472,7 @@ The registered person shall ensure that any code of ethics or professional pract
 
 (8) The registered person shall supply to the RQIA annually a statement containing a summary of the complaints made during the preceding twelve months and the action taken in response.
 
-#### 24. Clinical trials and research[^key-f8d19727dc8d4276e9dcca22544bfdfa]
+#### 24. Clinical trials and research[^c-f8d19727dc8d4276e9dcca22544bfdfa]
 
 The registered person shall ensure that –
 
@@ -481,7 +481,7 @@ The registered person shall ensure that –
 
 ### PREMISES
 
-#### 25. Fitness of premises[^key-ef385ba910109511eb1abbc999ecc439]
+#### 25. Fitness of premises[^c-ef385ba910109511eb1abbc999ecc439]
 
 (1) Subject to regulation 7(3), the premises used as an establishment or agency must be in a location and of a physical design and layout, which are suitable for the purpose of achieving the aims and objectives set out in the statement of purpose.
 
@@ -511,7 +511,7 @@ The registered person shall ensure that –
 
 ### MANAGEMENT
 
-#### 26. Visits by registered provider[^key-d61c09e3ede1c395018e4f2d0183c10c]
+#### 26. Visits by registered provider[^c-d61c09e3ede1c395018e4f2d0183c10c]
 
 (1) Where the registered provider is an individual but is not in day-to-day charge of the establishment or agency, he shall visit the establishment or agency premises in accordance with this regulation.
 
@@ -540,7 +540,7 @@ The registered person shall ensure that –
 - (i) where the registered provider is an organisation, to each of the directors or other persons responsible for the management of the organisation; and
 - (ii) where the registered provider is a partnership, to each of the partners.
 
-#### 27. Financial position[^key-2397c89cf82051f99be3dd867bf3d659]
+#### 27. Financial position[^c-2397c89cf82051f99be3dd867bf3d659]
 
 (1) The registered provider shall carry on the establishment or agency in such manner as is likely to ensure that the establishment or agency will be financially viable for the purpose of achieving the aims and objectives set out in the statement of purpose.
 
@@ -560,7 +560,7 @@ The registered person shall ensure that –
 
 ### NOTICES TO BE GIVEN TO THE RQIA
 
-#### 28. Notification of deaths and other events[^key-70b5d454fdbb18ec360cc5813078ff6d]
+#### 28. Notification of deaths and other events[^c-70b5d454fdbb18ec360cc5813078ff6d]
 
 (1) The registered person shall give notice to the RQIA of –
 
@@ -576,7 +576,7 @@ The registered person shall ensure that –
 
 (2) Notice under paragraph (1) shall be given within the period of 24 hours beginning with the event in question and, if given orally, shall be confirmed in writing as soon as practicable.
 
-#### 29. Notice of absence[^key-2c2174dbb2a714e36fa78250c0522942]
+#### 29. Notice of absence[^c-2c2174dbb2a714e36fa78250c0522942]
 
 (1) Where –
 
@@ -604,7 +604,7 @@ has been absent from the establishment or agency for a continuous period of 28 d
 
 (5) The registered person shall notify the RQIA of the return to duty of the registered provider or (as the case may be) the registered manager not later than 7 days after the date of his return.
 
-#### 30. Notice of changes[^key-76b3d3ab3e971332d1c82ccdf2e390a7]
+#### 30. Notice of changes[^c-76b3d3ab3e971332d1c82ccdf2e390a7]
 
 The registered person shall give notice in writing to the RQIAas soon as it is practicable to do so if any of the following events take place or are proposed to take place –
 
@@ -617,11 +617,11 @@ The registered person shall give notice in writing to the RQIAas soon as it is p
   - (ii) there is any change of director, manager, secretary or other similar officer of the organisation;
   - (iii) there is any change in the identity of the responsible individual;
 - (f) where the registered provider is an individual, a trustee in bankruptcy is appointed;
-- (fa)[^key-8eace516480d3ed3b8a52b9691abcf56] where the registered provider is an individual, a debt relief order is made in respect of him;
+- (fa)[^c-8eace516480d3ed3b8a52b9691abcf56] where the registered provider is an individual, a debt relief order is made in respect of him;
 - (g) where the registered provider is a company or partnership, a receiver, manager, liquidator or provisional liquidator is appointed; or
 - (h) the premises of the establishment or agency are significantly altered or extended, or additional premises are acquired.
 
-#### 31. Appointment of liquidators etc[^key-0786c52e5c26e79bb4999a4c6a6d44e7]
+#### 31. Appointment of liquidators etc[^c-0786c52e5c26e79bb4999a4c6a6d44e7]
 
 (1) Any person to whom paragraph (2) applies must –
 
@@ -635,7 +635,7 @@ The registered person shall give notice in writing to the RQIAas soon as it is p
 - (b) liquidator or provisional liquidator of a company which is the registered provider of an establishment or agency;
 - (c) the trustee in bankruptcy of a registered provider of an establishment or agency.
 
-#### 32. Death of registered person[^key-143d3adf5e3bef1db69b596433c7011a]
+#### 32. Death of registered person[^c-143d3adf5e3bef1db69b596433c7011a]
 
 (1) If more than one person is registered in respect of an establishment or agency, and a registered person dies, the surviving registered person shall without delay notify the RQIAof the death in writing.
 
@@ -657,7 +657,7 @@ The registered person shall give notice in writing to the RQIAas soon as it is p
 
 ### PATHOLOGY SERVICES, RESUSCITATION AND TREATMENT OF CHILDREN IN INDEPENDENT HOSPITALS
 
-#### 33. Application of regulations 34 to 36[^key-11e1d06c6dc91277ff913e955f446b36]
+#### 33. Application of regulations 34 to 36[^c-11e1d06c6dc91277ff913e955f446b36]
 
 (1) Regulations 34 to 36 apply to independent hospitals of the following kinds –
 
@@ -666,7 +666,7 @@ The registered person shall give notice in writing to the RQIAas soon as it is p
 
 (2) Regulation 34 also applies to any establishment or agency which provides pathology services.
 
-#### 34. Pathology services[^key-d1e7dcd82a8d7844065a228dc5dd3e51]
+#### 34. Pathology services[^c-d1e7dcd82a8d7844065a228dc5dd3e51]
 
 The registered person shall ensure that –
 
@@ -675,7 +675,7 @@ The registered person shall ensure that –
 - (c) appropriate arrangements are made for the collection, and (where pathology services are provided outside the hospital) transportation of pathology specimens; and
 - (d) the patient from whom a specimen was taken and such specimen, is identifiable at all times.
 
-#### 35. Resuscitation[^key-da932b638c8b3a65d96dfedf7fe498e1]
+#### 35. Resuscitation[^c-da932b638c8b3a65d96dfedf7fe498e1]
 
 (1) The registered person shall prepare and implement a written statement of the policies to be applied and the procedures to be followed in the hospital in relation to resuscitation of patients, and shall review such statement annually.
 
@@ -685,7 +685,7 @@ The registered person shall ensure that –
 - (b) are available on request to every patient and any person acting on behalf of a patient; and
 - (c) are communicated to and understood by all employees and all medical practitioners with practising privileges who may be involved in decisions about resuscitation of a patient.
 
-#### 36. Treatment of children[^key-398bd25789923860e4b2c9bb198674ef]
+#### 36. Treatment of children[^c-398bd25789923860e4b2c9bb198674ef]
 
 The registered person shall ensure that, where a child is treated in an independent hospital –
 
@@ -696,7 +696,7 @@ The registered person shall ensure that, where a child is treated in an independ
 
 ### INDEPENDENT HOSPITALS IN WHICH CERTAIN LISTED SERVICES ARE PROVIDED
 
-#### 37. Surgical procedures[^key-141843fd86d856bc0ca2d50bd987e310]
+#### 37. Surgical procedures[^c-141843fd86d856bc0ca2d50bd987e310]
 
 (1) Where medical treatment (including cosmetic surgery) is provided under anaesthesia or sedation in an independent hospital, the registered person shall ensure that –
 
@@ -713,14 +713,14 @@ The registered person shall ensure that, where a child is treated in an independ
 
 (3) In the case of a patient who is not competent to consent to surgery, the information mentioned in paragraph (2) shall, wherever possible, be provided to his representative.
 
-#### 38. Dental treatment under general anaesthesia or sedation[^key-78b471a0e782409af06fa3d840a1d417]
+#### 38. Dental treatment under general anaesthesia or sedation[^c-78b471a0e782409af06fa3d840a1d417]
 
 Where the treatment provided in an independent hospital includes dental treatment under general anaesthesia or sedation, the registered person shall ensure that –
 
 - (a) the dentist and any employees assisting him are suitable, qualified, skilled and experienced to deal with any emergency which occurs during or as a result of the general anaesthesia, sedation or treatment; and
 - (b) adequate facilities, drugs and equipment are available to deal with any such emergency.
 
-#### 39. Use of certain techniques or technology[^key-d99aa6f92029688af1466e180c9d1d4e]
+#### 39. Use of certain techniques or technology[^c-d99aa6f92029688af1466e180c9d1d4e]
 
 (1) The registered person shall ensure that no Class 3B or Class 4 laser or intense light source (within the meaning of regulation 4(1)), is used in or for the purposes of an independent hospital unless that hospital has in place a professional protocol drawn up by a trained and experienced medical practitioner or dentist from the relevant discipline in accordance with which treatment is to be provided, and is so provided.
 
@@ -732,7 +732,7 @@ Where the treatment provided in an independent hospital includes dental treatmen
 - (d) precautions to be taken before and during use of a laser or intense light source; and
 - (e) action to be taken in the event of an accident, emergency, or other adverse incident.
 
-#### 39A. ”INDEPENDENT HOSPITALS THE MAIN PURPOSE OF WHICH IS TO PROVIDE MEDICAL OR PSYCHIATRIC TREATMENT FOR MENTAL DISORDER[^key-e587330009823f6575152f8ed2bf1500]
+#### 39A. ”INDEPENDENT HOSPITALS THE MAIN PURPOSE OF WHICH IS TO PROVIDE MEDICAL OR PSYCHIATRIC TREATMENT FOR MENTAL DISORDER[^c-e587330009823f6575152f8ed2bf1500]
 
 Regulations 39B to 39E apply to independent hospitals the main purpose of which, is to provide medical or psychiatric treatment for mental disorder.
 
@@ -771,19 +771,19 @@ The registered person shall ensure that any records which are required to be mad
 
 ## PART V — ADDITIONAL REQUIREMENTS APPLYING TO INDEPENDENT MEDICAL AGENCIES
 
-### 40. Independent medical agencies[^key-c8a1cb7be5dfb50ad35d1bcc9ad39fc5]
+### 40. Independent medical agencies[^c-c8a1cb7be5dfb50ad35d1bcc9ad39fc5]
 
 The registered person shall ensure that the register of patients to be maintained in relation to an independent medical agency under Part II of Schedule 3 includes the name of the medical practitioner by whom each patient is treated.
 
 ## PART VI — MISCELLANEOUS
 
-### 41. Compliance with regulations[^key-3444eb52844649d1e1e534efd0cda7fe]
+### 41. Compliance with regulations[^c-3444eb52844649d1e1e534efd0cda7fe]
 
 Where there is more than one registered person in respect of an establishment or agency, anything which is required under these Regulations to be done by the registered person shall, if done by one of the registered persons, not be required to be done by any of the other registered persons.
 
-### 42. Offences[^key-28b25fbbee4a724e08e3a3b51ed0bdad]
+### 42. Offences[^c-28b25fbbee4a724e08e3a3b51ed0bdad]
 
-(1)[^key-c3d6774f5d0a0eb3fb079f3c71fdcdc4] A contravention of any of the provisions of regulations 7, 8, 9A, 14, 15, 16(1) to (4), 17 to 32 and 34 to 40 shall be an offence.
+(1)[^c-c3d6774f5d0a0eb3fb079f3c71fdcdc4] A contravention of any of the provisions of regulations 7, 8, 9A, 14, 15, 16(1) to (4), 17 to 32 and 34 to 40 shall be an offence.
 
 (2) The RQIA shall not bring proceedings against a person in respect of any contravention of these regulations unless –
 
@@ -812,61 +812,61 @@ Department of Health, Social Services and Public Safety
 
 Regulation 7
 
-**1.**[^key-0a34b6bcb839a44f7f65e8f8394e3a32] The aims and objectives of the establishment or agency.
+**1.**[^c-0a34b6bcb839a44f7f65e8f8394e3a32] The aims and objectives of the establishment or agency.
 
-**2.**[^key-a61dd2fe2fafc446cd64a6f5e336f307] The name and address of the registered provider and of any registered manager.
+**2.**[^c-a61dd2fe2fafc446cd64a6f5e336f307] The name and address of the registered provider and of any registered manager.
 
-**3.**[^key-1fed2655c5945abc81c1f3776a79a558] The relevant qualifications and experience of the registered provider and any registered manager.
+**3.**[^c-1fed2655c5945abc81c1f3776a79a558] The relevant qualifications and experience of the registered provider and any registered manager.
 
-**4.**[^key-ff861d3b1b67219fed72b346dcea12f1] The number, relevant qualifications and experience of the staff working in the establishment, or for the purposes of the agency.
+**4.**[^c-ff861d3b1b67219fed72b346dcea12f1] The number, relevant qualifications and experience of the staff working in the establishment, or for the purposes of the agency.
 
-**5.**[^key-78f6e6f62801a3cb486d2a43be69ce73] The organisational structure of the establishment or agency.
+**5.**[^c-78f6e6f62801a3cb486d2a43be69ce73] The organisational structure of the establishment or agency.
 
-**6.**[^key-fc9080293aa63472c4875325dfbb1dfd] The kinds of treatment and any other services provided for the purposes of the establishment or agency, the range of needs which those services are intended to meet and the facilities which are available for the benefit of patients.
+**6.**[^c-fc9080293aa63472c4875325dfbb1dfd] The kinds of treatment and any other services provided for the purposes of the establishment or agency, the range of needs which those services are intended to meet and the facilities which are available for the benefit of patients.
 
-**7.**[^key-96cdc72b0b35e255a152d6961f8b94e6] The arrangements made for consultation with patients about the operation of the establishment or agency.
+**7.**[^c-96cdc72b0b35e255a152d6961f8b94e6] The arrangements made for consultation with patients about the operation of the establishment or agency.
 
-**8.**[^key-3e3eb7c2475631828d1c5059a6b18c8a] The arrangements made for contact between any in-patients and their relatives, friends and representatives.
+**8.**[^c-3e3eb7c2475631828d1c5059a6b18c8a] The arrangements made for contact between any in-patients and their relatives, friends and representatives.
 
-**9.**[^key-3a5fe595f299170b8d669b99a5831630] The arrangements for dealing with complaints.
+**9.**[^c-3a5fe595f299170b8d669b99a5831630] The arrangements for dealing with complaints.
 
-**10.**[^key-06e878c60027fdad8e5577477965833c] The arrangements for respecting the privacy and dignity of patients.
+**10.**[^c-06e878c60027fdad8e5577477965833c] The arrangements for respecting the privacy and dignity of patients.
 
 ## SCHEDULE 2 — INFORMATION REQUIRED IN RESPECT OF PERSONS SEEKING TO CARRY ON, MANAGE OR WORK AT AN ESTABLISHMENT OR AGENCY
 
 Regulations 10(3), 12(2) and 19(2)
 
-**1.**[^key-8b27402d5b4e61dd856d46ad989c81c5] Positive proof of identity including a recent photograph.
+**1.**[^c-8b27402d5b4e61dd856d46ad989c81c5] Positive proof of identity including a recent photograph.
 
-**2.**[^key-d59683703856a9877f54e19528502c75] Either—
+**2.**[^c-d59683703856a9877f54e19528502c75] Either—
 
 - (a) where a certificate is required for a position that falls within Regulation 9 of the Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2008 , an enhanced criminal record certificate issued under section 113B of the Police Act 1997 which includes, as applicable, suitability information relating to adults (within the meaning of sections 113BB(2) of that Act) or suitability information relating to children (within the meaning of section 113BA(2) of that Act) or both; or
 - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997.
 
-**3.**[^key-6320e2c027c8deac98592c6181565dd6] Two written references relating to the person, including a reference from the person’s present or most recent employers, if any.
+**3.**[^c-6320e2c027c8deac98592c6181565dd6] Two written references relating to the person, including a reference from the person’s present or most recent employers, if any.
 
-**4.**[^key-42a3cfb797e54081bc14efdd99c4d353] Where a person has previously worked in a position whose duties which involved work with children or vulnerable adults, verification, so far as reasonably practicable, of the reason why he ceased to work in that position.
+**4.**[^c-42a3cfb797e54081bc14efdd99c4d353] Where a person has previously worked in a position whose duties which involved work with children or vulnerable adults, verification, so far as reasonably practicable, of the reason why he ceased to work in that position.
 
-**5.**[^key-7a39f5008dbccad8af93cb49e74815dd] Documentary evidence of any relevant qualifications or accredited training.
+**5.**[^c-7a39f5008dbccad8af93cb49e74815dd] Documentary evidence of any relevant qualifications or accredited training.
 
-**6.**[^key-4ec6a353fee53a0e821391c548b7e828] A full employment history, together with a satisfactory written explanation of any gaps in employment.
+**6.**[^c-4ec6a353fee53a0e821391c548b7e828] A full employment history, together with a satisfactory written explanation of any gaps in employment.
 
-**7.**[^key-643109c0a46bb502a88e5164ef7cd5ba] Where he is a health care professional, details of his registration with the body (if any) responsible for regulation of members of the health care profession in question.
+**7.**[^c-643109c0a46bb502a88e5164ef7cd5ba] Where he is a health care professional, details of his registration with the body (if any) responsible for regulation of members of the health care profession in question.
 
-**8.**[^key-3cc446762b52b80cbf4610bbf1b80277] Details of any criminal offences –
+**8.**[^c-3cc446762b52b80cbf4610bbf1b80277] Details of any criminal offences –
 
 - (a) of which the person has been convicted, including details of any convictions which are spent within the meaning of Article 3 of the Rehabilitation of Offenders (Northern Ireland) Order 1978[^f00016] and which may be disclosed by virtue of the Rehabilitation of Offenders (Exceptions) Order (Northern Ireland 1979)[^f00017]; or
 - (b) in respect of which he has been cautioned by a constable and which, at the time the caution was given, he admitted.
 
-**9.**[^key-13349b70240826b244c7e7bffe56e7f2] Confirmation that he is physically and mentally fit to fulfil his duties and responsibilities.
+**9.**[^c-13349b70240826b244c7e7bffe56e7f2] Confirmation that he is physically and mentally fit to fulfil his duties and responsibilities.
 
-**10.**[^key-712a6b0eb3b4e794093c20d727bfe4e8] Details of any professional indemnity insurance.
+**10.**[^c-712a6b0eb3b4e794093c20d727bfe4e8] Details of any professional indemnity insurance.
 
 ## SCHEDULE 3
 
 Regulation 21(1), (3)
 
-### PART 1[^key-53fe3396bb67484df933b59068fd37f8]
+### PART 1[^c-53fe3396bb67484df933b59068fd37f8]
 
 PERIOD FOR WHICH MEDICAL RECORDS MUST BE RETAINED
 
@@ -888,7 +888,7 @@ PERIOD FOR WHICH MEDICAL RECORDS MUST BE RETAINED
 
 ### PART II — records to be maintained for inspection
 
-**1.**[^key-a945cb3af3e3d4653048ff97cff42ebe] A register of patients, including –
+**1.**[^c-a945cb3af3e3d4653048ff97cff42ebe] A register of patients, including –
 
 - (a) the name, address, telephone number, date of birth and marital status of each patient;
 - (b) the name, address and telephone number of the patient’s next of kin or any person authorised by the patient to act on his behalf;
@@ -900,9 +900,9 @@ PERIOD FOR WHICH MEDICAL RECORDS MUST BE RETAINED
 - (h) where the patient has been an in-patient in an independent hospital, the date of his discharge;
 - (i) if the patient has been transferred to a hospital (including a hospital vested in the Department or managed by an HSS trust), the date of the transfer, the reasons for it and the name of the hospital to which the patient was transferred;
 - (j) if the patient dies whilst in an establishment or during treatment provided for the purposes of an establishment or agency, the date, time and cause of his death.
-- (k)[^key-ed957dc76e51589eddc600ff26545cbb] Where a patient has been received into guardianship under the Mental Health (Northern Ireland) Order 1986, the name, address and telephone number of the guardian.
+- (k)[^c-ed957dc76e51589eddc600ff26545cbb] Where a patient has been received into guardianship under the Mental Health (Northern Ireland) Order 1986, the name, address and telephone number of the guardian.
 
-**2.**[^key-ea9fe463e0effafc50a6d9f3f6265e9f] A register of all surgical operations performed in an establishment or by an agency, including –
+**2.**[^c-ea9fe463e0effafc50a6d9f3f6265e9f] A register of all surgical operations performed in an establishment or by an agency, including –
 
 - (a) the name of the patient on whom the operation was performed;
 - (b) the nature of the surgical procedure and the date on which it took place;
@@ -911,34 +911,34 @@ PERIOD FOR WHICH MEDICAL RECORDS MUST BE RETAINED
 - (e) the name and signature of the person responsible for checking that all needles, swabs and equipment used during the operation have been recovered from the patient;
 - (f) details of all implanted medical devices, except where this would entail the disclosure of information contrary to the provisions of section 33(5) of the Human Fertilisation and Embryology Act 1990[^f00018] (restrictions on disclosure of information).
 
-**3.**[^key-20a7e96bf6bdb2dda880582e150216c6] A register of each occasion on which a technique or technology to which regulation 39 applies has been used; including –
+**3.**[^c-20a7e96bf6bdb2dda880582e150216c6] A register of each occasion on which a technique or technology to which regulation 39 applies has been used; including –
 
 - (a) the name of the patient in connection with whose treatment the technique or technology was used;
 - (b) the nature of the technique or technology in question and the date on which it was used; and
 - (c) the name of the person using it.
 
-**4.**[^key-d1f5e17adc7d85acd4ce73cede3f7579] A register of all mechanical and technical equipment used for the purposes of treatment provided by the establishment or agency including –
+**4.**[^c-d1f5e17adc7d85acd4ce73cede3f7579] A register of all mechanical and technical equipment used for the purposes of treatment provided by the establishment or agency including –
 
 - (a) the date of purchase of the equipment;
 - (b) the date of installation of the equipment;
 - (c) details of maintenance of the equipment and the dates on which maintenance work was carried out.
 
-**5.**[^key-3f8613c4dabe9c8ac77594579d725069] A register of all events which must be notified to the RQIA in accordance with regulation 28.
+**5.**[^c-3f8613c4dabe9c8ac77594579d725069] A register of all events which must be notified to the RQIA in accordance with regulation 28.
 
-**6.**[^key-97dd4a0e6e9485f0d1f440faff6e50d5] A register of each person employed in or for the purposes of the establishment, or for the purposes of the agency and each medical practitioner to whom practising privileges have been granted, including –
+**6.**[^c-97dd4a0e6e9485f0d1f440faff6e50d5] A register of each person employed in or for the purposes of the establishment, or for the purposes of the agency and each medical practitioner to whom practising privileges have been granted, including –
 
 - (a) his name and date of birth;
 - (b) details of his position in the establishment or agency;
 - (c) dates of employment; and
 - (d) in respect of a health care professional, details of his professional qualifications and registration with his professional regulatory body.
 
-**7.**[^key-a7c0b7367d0a8754849bc100344fde45] A written record of suspected, alleged or actual incidents of abuse including details of the investigation, the outcome and action taken.
+**7.**[^c-a7c0b7367d0a8754849bc100344fde45] A written record of suspected, alleged or actual incidents of abuse including details of the investigation, the outcome and action taken.
 
-**8.**[^key-ab039110e44a9079461ceb04e4705256] A record of all documentation relating to the recruitment process.
+**8.**[^c-ab039110e44a9079461ceb04e4705256] A record of all documentation relating to the recruitment process.
 
-**9.**[^key-7c39b92e30d3867882765b8f3ad76647] A record of all training and professional development activities completed by staff.
+**9.**[^c-7c39b92e30d3867882765b8f3ad76647] A record of all training and professional development activities completed by staff.
 
-**10.**[^key-23786eacefa3b78347a581a75d5412a3] A record of the annual appraisal for each member of staff.
+**10.**[^c-23786eacefa3b78347a581a75d5412a3] A record of the annual appraisal for each member of staff.
 
 (This note is not part of the Regulations)
 
@@ -964,33 +964,33 @@ Part VI deals with miscellaneous matters. In particular, regulation 42 provides 
 
 [^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-abe7c34c726fa6a0e037490b63f3249d]: Commencement: Reg. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-abe7c34c726fa6a0e037490b63f3249d]: Commencement: Reg. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-ebf47b6837901a4ea11931b7fb525504]: Commencement: Reg. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-ebf47b6837901a4ea11931b7fb525504]: Commencement: Reg. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-83ac62e8388518966c8ca64c9430a269]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/2/1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 36(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/36/2)
+[^c-83ac62e8388518966c8ca64c9430a269]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/2/1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 36(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/36/2)
 
-[^key-11c0c3ad6e53304010d447a9b52aac8e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/2/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 43(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/43/2)
+[^c-11c0c3ad6e53304010d447a9b52aac8e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/2/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 43(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/43/2)
 
-[^key-99b976c2fe2885ddac764640cda86e85]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/2/1) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127](https://www.legislation.gov.uk/ukpga/2014/23/section/127), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2014/23/schedule/8/paragraph/6) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(n)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/n)
+[^c-99b976c2fe2885ddac764640cda86e85]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/2/1) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127](https://www.legislation.gov.uk/ukpga/2014/23/section/127), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2014/23/schedule/8/paragraph/6) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(n)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/n)
 
 [^f00003]: Footnote: S.I. [1984/1821 (N.I. 11)](https://www.legislation.gov.uk/nisi/1984/1821)
 
 [^f00004]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17)
 
-[^key-2147bb0144194ec70527074c35e100a1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/2/1) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/2/a)
+[^c-2147bb0144194ec70527074c35e100a1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/2/1) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/2/a)
 
-[^key-6d74040e5d73e948162a34a8fe821a5d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/174/regulation/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 100](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/100)
+[^c-6d74040e5d73e948162a34a8fe821a5d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/174/regulation/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 100](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/100)
 
 [^f00005]: Footnote: S.I. [2002/618](https://www.legislation.gov.uk/uksi/2002/618)
 
 [^f00006]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-0cb4008a29f36f117108e599a8917ad9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/2/1) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/2/b)
+[^c-0cb4008a29f36f117108e599a8917ad9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/2/1) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/2/b)
 
-[^key-4d7e673db683b059ad5e7ab2984f6f88]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/2/1) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/2/c)
+[^c-4d7e673db683b059ad5e7ab2984f6f88]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/2/1) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/2/c)
 
-[^key-344c1203903d514280ff3f8f364a7c71]: Commencement: Reg. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-344c1203903d514280ff3f8f364a7c71]: Commencement: Reg. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
 [^f00007]: Footnote: [1981 c. 55](https://www.legislation.gov.uk/ukpga/1981/55)
 
@@ -998,184 +998,184 @@ Part VI deals with miscellaneous matters. In particular, regulation 42 provides 
 
 [^f00009]: Footnote: [1968 c. 29](https://www.legislation.gov.uk/apni/1968/29)
 
-[^key-10d7e136afc281ebf7f4aa071d66ec6b]: Textual amendment: Word in [reg. 3(g)](https://www.legislation.gov.uk/nisr/2005/174/regulation/3/g) omitted (1.4.2011) by virtue of [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/3/a)
+[^c-10d7e136afc281ebf7f4aa071d66ec6b]: Textual amendment: Word in [reg. 3(g)](https://www.legislation.gov.uk/nisr/2005/174/regulation/3/g) omitted (1.4.2011) by virtue of [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/3/a)
 
-[^key-60df514e0093e5d3ca2fdbb6dee04bda]: Textual amendment: [Reg. 3(h)(i)](https://www.legislation.gov.uk/nisr/2005/174/regulation/3/h/i) substituted for [reg. 3(h)](https://www.legislation.gov.uk/nisr/2005/174/regulation/3/h) (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/3/b)
+[^c-60df514e0093e5d3ca2fdbb6dee04bda]: Textual amendment: [Reg. 3(h)(i)](https://www.legislation.gov.uk/nisr/2005/174/regulation/3/h/i) substituted for [reg. 3(h)](https://www.legislation.gov.uk/nisr/2005/174/regulation/3/h) (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/3/b)
 
-[^key-00632d3204f70fb89142beb8e2e1042c]: Commencement: Reg. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-00632d3204f70fb89142beb8e2e1042c]: Commencement: Reg. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
 [^f00010]: Footnote: Copies of BS EN 60825-1 may be obtained from BSI Customer Services, 389 Chiswick Road, London W4 4AL
 
-[^key-09a6ae0a0d2675515c0c46821881290e]: Textual amendment: Word in [reg. 4(1)(c)](https://www.legislation.gov.uk/nisr/2005/174/regulation/4/1/c) deleted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/4/a)
+[^c-09a6ae0a0d2675515c0c46821881290e]: Textual amendment: Word in [reg. 4(1)(c)](https://www.legislation.gov.uk/nisr/2005/174/regulation/4/1/c) deleted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/4/a)
 
 [^f00011]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37)
 
-[^key-b401e8319376d32abcc4508380cb01f2]: Textual amendment: [Reg. 4(e)](https://www.legislation.gov.uk/nisr/2005/174/regulation/4/e)[(f)](https://www.legislation.gov.uk/nisr/2005/174/regulation/4/f) added (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/4/b)
+[^c-b401e8319376d32abcc4508380cb01f2]: Textual amendment: [Reg. 4(e)](https://www.legislation.gov.uk/nisr/2005/174/regulation/4/e)[(f)](https://www.legislation.gov.uk/nisr/2005/174/regulation/4/f) added (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/4/b)
 
-[^key-184fc741c363f2c29ae8dcbf9865e097]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2005/174/regulation/4A) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/5)
+[^c-184fc741c363f2c29ae8dcbf9865e097]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2005/174/regulation/4A) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/5)
 
-[^key-5adea077e75307cf9984f6b2257f2aaa]: Commencement: Reg. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-5adea077e75307cf9984f6b2257f2aaa]: Commencement: Reg. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-cd2444a57c9f0bc2c95ebc817fafed6b]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/nisr/2005/174/regulation/5/1/b) substituted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/6/a)
+[^c-cd2444a57c9f0bc2c95ebc817fafed6b]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/nisr/2005/174/regulation/5/1/b) substituted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/6/a)
 
-[^key-3285eeb0ec1778d69b0c9728887eb008]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/nisr/2005/174/regulation/5/1A) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/6/b)
+[^c-3285eeb0ec1778d69b0c9728887eb008]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/nisr/2005/174/regulation/5/1A) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/6/b)
 
-[^key-d4b1761c1e323c587a60b3a167bc3966]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/174/regulation/6) substituted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/7)
+[^c-d4b1761c1e323c587a60b3a167bc3966]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/174/regulation/6) substituted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(7)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/7)
 
-[^key-ce873399d22070ed84ffe5e77de593d4]: Commencement: Reg. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-ce873399d22070ed84ffe5e77de593d4]: Commencement: Reg. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-46aebe72bf741494338e237189b6254b]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-46aebe72bf741494338e237189b6254b]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
-[^key-767cdb3edf999c7f738f9120c35c29f1]: Commencement: Reg. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-767cdb3edf999c7f738f9120c35c29f1]: Commencement: Reg. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-f90133c8a64821d6afadf107f472655b]: Commencement: Reg. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-f90133c8a64821d6afadf107f472655b]: Commencement: Reg. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-73ba3514e5e1e71335c92c8479ff2fe6]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2005/174/regulation/9A) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/8)
+[^c-73ba3514e5e1e71335c92c8479ff2fe6]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/nisr/2005/174/regulation/9A) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(8)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/8)
 
-[^key-085e06b8b38c1df3122ff195a3b42a14]: Commencement: Reg. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-085e06b8b38c1df3122ff195a3b42a14]: Commencement: Reg. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-6edfabd12dcc0174ce1de868e59ea3da]: Textual amendment: [Reg. 10(4)(ab)](https://www.legislation.gov.uk/nisr/2005/174/regulation/10/4/ab) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 36(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/36/3)
+[^c-6edfabd12dcc0174ce1de868e59ea3da]: Textual amendment: [Reg. 10(4)(ab)](https://www.legislation.gov.uk/nisr/2005/174/regulation/10/4/ab) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 36(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/36/3)
 
-[^key-2443301fae49c3470d0cf1e6bc63c552]: Textual amendment: [Reg. 10(4)(ac)](https://www.legislation.gov.uk/nisr/2005/174/regulation/10/4/ac) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 43(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/43/3)
+[^c-2443301fae49c3470d0cf1e6bc63c552]: Textual amendment: [Reg. 10(4)(ac)](https://www.legislation.gov.uk/nisr/2005/174/regulation/10/4/ac) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 43(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/43/3)
 
-[^key-8d0fb2ab172f8966d6a3f1bb39409637]: Commencement: Reg. 11 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-8d0fb2ab172f8966d6a3f1bb39409637]: Commencement: Reg. 11 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-00f572b6ed5831bcf018a29a1fe32dea]: Commencement: Reg. 12 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-00f572b6ed5831bcf018a29a1fe32dea]: Commencement: Reg. 12 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-08f65f5a2a8bb1ea4b5007f888756891]: Commencement: Reg. 13 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-08f65f5a2a8bb1ea4b5007f888756891]: Commencement: Reg. 13 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-76db72cc98582a5c59c7513da7d1d029]: Commencement: Reg. 14 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-76db72cc98582a5c59c7513da7d1d029]: Commencement: Reg. 14 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-4b799d11b312f405e8eae77fc9cefd1d]: Commencement: Reg. 15 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-4b799d11b312f405e8eae77fc9cefd1d]: Commencement: Reg. 15 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-5415d83e15b7356c11e2cde3fcbb2064]: Commencement: Reg. 16 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-5415d83e15b7356c11e2cde3fcbb2064]: Commencement: Reg. 16 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-d74cfa2be2dc207ca77c91c1e4866b86]: Commencement: Reg. 17 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-d74cfa2be2dc207ca77c91c1e4866b86]: Commencement: Reg. 17 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-9f164213fbe6f79ba3113e3dd3413e77]: Commencement: Reg. 18 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-9f164213fbe6f79ba3113e3dd3413e77]: Commencement: Reg. 18 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-c0172bae10370f68875426c65b444f47]: Commencement: Reg. 19 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-c0172bae10370f68875426c65b444f47]: Commencement: Reg. 19 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-15a1bd45f4392c209286bf99cd200bf0]: Commencement: Reg. 20 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-15a1bd45f4392c209286bf99cd200bf0]: Commencement: Reg. 20 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-b636ac357c99fdff63cbeaaa3551fd56]: Commencement: Reg. 21 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-b636ac357c99fdff63cbeaaa3551fd56]: Commencement: Reg. 21 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-7201a4fbd3165ad31da0db04abb0faba]: Commencement: Reg. 22 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-7201a4fbd3165ad31da0db04abb0faba]: Commencement: Reg. 22 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-53ee43a4fb2cbe7905e20aaf3a7e82f6]: Commencement: Reg. 23 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-53ee43a4fb2cbe7905e20aaf3a7e82f6]: Commencement: Reg. 23 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-f8d19727dc8d4276e9dcca22544bfdfa]: Commencement: Reg. 24 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-f8d19727dc8d4276e9dcca22544bfdfa]: Commencement: Reg. 24 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
 [^f00012]: Footnote: S.I. [2004/1031](https://www.legislation.gov.uk/uksi/2004/1031)
 
-[^key-ef385ba910109511eb1abbc999ecc439]: Commencement: Reg. 25 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-ef385ba910109511eb1abbc999ecc439]: Commencement: Reg. 25 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-d61c09e3ede1c395018e4f2d0183c10c]: Commencement: Reg. 26 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-d61c09e3ede1c395018e4f2d0183c10c]: Commencement: Reg. 26 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-2397c89cf82051f99be3dd867bf3d659]: Commencement: Reg. 27 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-2397c89cf82051f99be3dd867bf3d659]: Commencement: Reg. 27 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-70b5d454fdbb18ec360cc5813078ff6d]: Commencement: Reg. 28 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-70b5d454fdbb18ec360cc5813078ff6d]: Commencement: Reg. 28 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-2c2174dbb2a714e36fa78250c0522942]: Commencement: Reg. 29 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-2c2174dbb2a714e36fa78250c0522942]: Commencement: Reg. 29 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-76b3d3ab3e971332d1c82ccdf2e390a7]: Commencement: Reg. 30 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-76b3d3ab3e971332d1c82ccdf2e390a7]: Commencement: Reg. 30 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-8eace516480d3ed3b8a52b9691abcf56]: Textual amendment: [Reg. 30(fa)](https://www.legislation.gov.uk/nisr/2005/174/regulation/30/fa) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 43(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/43/4)
+[^c-8eace516480d3ed3b8a52b9691abcf56]: Textual amendment: [Reg. 30(fa)](https://www.legislation.gov.uk/nisr/2005/174/regulation/30/fa) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 43(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/43/4)
 
-[^key-0786c52e5c26e79bb4999a4c6a6d44e7]: Commencement: Reg. 31 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-0786c52e5c26e79bb4999a4c6a6d44e7]: Commencement: Reg. 31 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-143d3adf5e3bef1db69b596433c7011a]: Commencement: Reg. 32 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-143d3adf5e3bef1db69b596433c7011a]: Commencement: Reg. 32 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-11e1d06c6dc91277ff913e955f446b36]: Commencement: Reg. 33 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-11e1d06c6dc91277ff913e955f446b36]: Commencement: Reg. 33 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-d1e7dcd82a8d7844065a228dc5dd3e51]: Commencement: Reg. 34 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-d1e7dcd82a8d7844065a228dc5dd3e51]: Commencement: Reg. 34 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-da932b638c8b3a65d96dfedf7fe498e1]: Commencement: Reg. 35 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-da932b638c8b3a65d96dfedf7fe498e1]: Commencement: Reg. 35 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-398bd25789923860e4b2c9bb198674ef]: Commencement: Reg. 36 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-398bd25789923860e4b2c9bb198674ef]: Commencement: Reg. 36 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-141843fd86d856bc0ca2d50bd987e310]: Commencement: Reg. 37 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-141843fd86d856bc0ca2d50bd987e310]: Commencement: Reg. 37 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-78b471a0e782409af06fa3d840a1d417]: Commencement: Reg. 38 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-78b471a0e782409af06fa3d840a1d417]: Commencement: Reg. 38 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-d99aa6f92029688af1466e180c9d1d4e]: Commencement: Reg. 39 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-d99aa6f92029688af1466e180c9d1d4e]: Commencement: Reg. 39 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-e587330009823f6575152f8ed2bf1500]: Textual amendment: [Regs. 39A-39E](https://www.legislation.gov.uk/nisr/2005/174/regulation/39A) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(9)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/9)
+[^c-e587330009823f6575152f8ed2bf1500]: Textual amendment: [Regs. 39A-39E](https://www.legislation.gov.uk/nisr/2005/174/regulation/39A) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(9)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/9)
 
-[^key-c8a1cb7be5dfb50ad35d1bcc9ad39fc5]: Commencement: Reg. 40 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-c8a1cb7be5dfb50ad35d1bcc9ad39fc5]: Commencement: Reg. 40 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-3444eb52844649d1e1e534efd0cda7fe]: Commencement: Reg. 41 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-3444eb52844649d1e1e534efd0cda7fe]: Commencement: Reg. 41 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-28b25fbbee4a724e08e3a3b51ed0bdad]: Commencement: Reg. 42 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-28b25fbbee4a724e08e3a3b51ed0bdad]: Commencement: Reg. 42 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-c3d6774f5d0a0eb3fb079f3c71fdcdc4]: Textual amendment: [Reg. 42(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/42/1) substituted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/10)
+[^c-c3d6774f5d0a0eb3fb079f3c71fdcdc4]: Textual amendment: [Reg. 42(1)](https://www.legislation.gov.uk/nisr/2005/174/regulation/42/1) substituted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(10)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/10)
 
-[^key-0a34b6bcb839a44f7f65e8f8394e3a32]: Commencement: Sch. 1 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-0a34b6bcb839a44f7f65e8f8394e3a32]: Commencement: Sch. 1 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-a61dd2fe2fafc446cd64a6f5e336f307]: Commencement: Sch. 1 para. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-a61dd2fe2fafc446cd64a6f5e336f307]: Commencement: Sch. 1 para. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-1fed2655c5945abc81c1f3776a79a558]: Commencement: Sch. 1 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-1fed2655c5945abc81c1f3776a79a558]: Commencement: Sch. 1 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-ff861d3b1b67219fed72b346dcea12f1]: Commencement: Sch. 1 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-ff861d3b1b67219fed72b346dcea12f1]: Commencement: Sch. 1 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-78f6e6f62801a3cb486d2a43be69ce73]: Commencement: Sch. 1 para. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-78f6e6f62801a3cb486d2a43be69ce73]: Commencement: Sch. 1 para. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-fc9080293aa63472c4875325dfbb1dfd]: Commencement: Sch. 1 para. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-fc9080293aa63472c4875325dfbb1dfd]: Commencement: Sch. 1 para. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-96cdc72b0b35e255a152d6961f8b94e6]: Commencement: Sch. 1 para. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-96cdc72b0b35e255a152d6961f8b94e6]: Commencement: Sch. 1 para. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-3e3eb7c2475631828d1c5059a6b18c8a]: Commencement: Sch. 1 para. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-3e3eb7c2475631828d1c5059a6b18c8a]: Commencement: Sch. 1 para. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-3a5fe595f299170b8d669b99a5831630]: Commencement: Sch. 1 para. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-3a5fe595f299170b8d669b99a5831630]: Commencement: Sch. 1 para. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-06e878c60027fdad8e5577477965833c]: Commencement: Sch. 1 para. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-06e878c60027fdad8e5577477965833c]: Commencement: Sch. 1 para. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-8b27402d5b4e61dd856d46ad989c81c5]: Commencement: Sch. 2 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-8b27402d5b4e61dd856d46ad989c81c5]: Commencement: Sch. 2 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-d59683703856a9877f54e19528502c75]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/174/schedule/2/paragraph/2) substituted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(11)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/11)
+[^c-d59683703856a9877f54e19528502c75]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/174/schedule/2/paragraph/2) substituted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(11)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/11)
 
-[^key-6320e2c027c8deac98592c6181565dd6]: Commencement: Sch. 2 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-6320e2c027c8deac98592c6181565dd6]: Commencement: Sch. 2 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-42a3cfb797e54081bc14efdd99c4d353]: Commencement: Sch. 2 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-42a3cfb797e54081bc14efdd99c4d353]: Commencement: Sch. 2 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-7a39f5008dbccad8af93cb49e74815dd]: Commencement: Sch. 2 para. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-7a39f5008dbccad8af93cb49e74815dd]: Commencement: Sch. 2 para. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-4ec6a353fee53a0e821391c548b7e828]: Commencement: Sch. 2 para. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-4ec6a353fee53a0e821391c548b7e828]: Commencement: Sch. 2 para. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-643109c0a46bb502a88e5164ef7cd5ba]: Commencement: Sch. 2 para. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-643109c0a46bb502a88e5164ef7cd5ba]: Commencement: Sch. 2 para. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-3cc446762b52b80cbf4610bbf1b80277]: Commencement: Sch. 2 para. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-3cc446762b52b80cbf4610bbf1b80277]: Commencement: Sch. 2 para. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
 [^f00016]: Footnote: S.I. [1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908)
 
 [^f00017]: Footnote: [S.R. 1979 No. 195](https://www.legislation.gov.uk/nisr/1979/195); amended by the Osteopaths Act [1993 (c. 21)](https://www.legislation.gov.uk/ukpga/1993/21) section 39; the Chiropractors Act [1994 (c. 17)](https://www.legislation.gov.uk/ukpga/1994/17) section 40; [S.R. 1987 No. 393](https://www.legislation.gov.uk/nisr/1987/393), [S.R. 2001 No. 248](https://www.legislation.gov.uk/nisr/2001/248), and [S.R. 2001 No. 400](https://www.legislation.gov.uk/nisr/2001/400). The relevant provisions of the Osteopaths Act 1993 and the Chiropractors Act 1994 are repealed by section 133 of, and Schedule 10 to, the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50)
 
-[^key-13349b70240826b244c7e7bffe56e7f2]: Commencement: Sch. 2 para. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-13349b70240826b244c7e7bffe56e7f2]: Commencement: Sch. 2 para. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-712a6b0eb3b4e794093c20d727bfe4e8]: Commencement: Sch. 2 para. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-712a6b0eb3b4e794093c20d727bfe4e8]: Commencement: Sch. 2 para. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-53fe3396bb67484df933b59068fd37f8]: Textual amendment: [Sch. 3 Pt. I](https://www.legislation.gov.uk/nisr/2005/174/schedule/3/part/I) substituted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(12)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/12)
+[^c-53fe3396bb67484df933b59068fd37f8]: Textual amendment: [Sch. 3 Pt. I](https://www.legislation.gov.uk/nisr/2005/174/schedule/3/part/I) substituted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(12)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/12)
 
-[^key-a945cb3af3e3d4653048ff97cff42ebe]: Commencement: Sch. 3 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-a945cb3af3e3d4653048ff97cff42ebe]: Commencement: Sch. 3 para. 1 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-ed957dc76e51589eddc600ff26545cbb]: Textual amendment: [Sch. 3 Pt. II para. 1(k)](https://www.legislation.gov.uk/nisr/2005/174/schedule/3/part/II/paragraph/1/k) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(13)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/13)
+[^c-ed957dc76e51589eddc600ff26545cbb]: Textual amendment: [Sch. 3 Pt. II para. 1(k)](https://www.legislation.gov.uk/nisr/2005/174/schedule/3/part/II/paragraph/1/k) inserted (1.4.2011) by [The Regulation and Improvement Authority (Independent Health Care) (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/17)](https://www.legislation.gov.uk/nisr/2011/17), [regs. 1](https://www.legislation.gov.uk/nisr/2011/17/regulation/1), [2(13)](https://www.legislation.gov.uk/nisr/2011/17/regulation/2/13)
 
-[^key-ea9fe463e0effafc50a6d9f3f6265e9f]: Commencement: Sch. 3 para. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-ea9fe463e0effafc50a6d9f3f6265e9f]: Commencement: Sch. 3 para. 2 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
 [^f00018]: Footnote: [1997 c. 37](https://www.legislation.gov.uk/ukpga/1997/37)
 
-[^key-20a7e96bf6bdb2dda880582e150216c6]: Commencement: Sch. 3 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-20a7e96bf6bdb2dda880582e150216c6]: Commencement: Sch. 3 para. 3 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-d1f5e17adc7d85acd4ce73cede3f7579]: Commencement: Sch. 3 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-d1f5e17adc7d85acd4ce73cede3f7579]: Commencement: Sch. 3 para. 4 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-3f8613c4dabe9c8ac77594579d725069]: Commencement: Sch. 3 para. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-3f8613c4dabe9c8ac77594579d725069]: Commencement: Sch. 3 para. 5 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-97dd4a0e6e9485f0d1f440faff6e50d5]: Commencement: Sch. 3 para. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-97dd4a0e6e9485f0d1f440faff6e50d5]: Commencement: Sch. 3 para. 6 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-a7c0b7367d0a8754849bc100344fde45]: Commencement: Sch. 3 para. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-a7c0b7367d0a8754849bc100344fde45]: Commencement: Sch. 3 para. 7 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-ab039110e44a9079461ceb04e4705256]: Commencement: Sch. 3 para. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-ab039110e44a9079461ceb04e4705256]: Commencement: Sch. 3 para. 8 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-7c39b92e30d3867882765b8f3ad76647]: Commencement: Sch. 3 para. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-7c39b92e30d3867882765b8f3ad76647]: Commencement: Sch. 3 para. 9 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
 
-[^key-23786eacefa3b78347a581a75d5412a3]: Commencement: Sch. 3 para. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)
+[^c-23786eacefa3b78347a581a75d5412a3]: Commencement: Sch. 3 para. 10 in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/174/regulation/1)

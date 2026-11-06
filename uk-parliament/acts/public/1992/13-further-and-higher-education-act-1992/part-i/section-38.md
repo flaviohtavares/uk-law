@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Payments ... in respect of loan liabilities.[^key-21b74dc1c40176b09386c6bdf2764b54]
+## 38. Payments ... in respect of loan liabilities.[^c-21b74dc1c40176b09386c6bdf2764b54]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21b74dc1c40176b09386c6bdf2764b54]: Textual amendment: S. 38 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(5)(d)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/5/d)
+[^c-21b74dc1c40176b09386c6bdf2764b54]: Textual amendment: S. 38 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(5)(d)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/5/d)

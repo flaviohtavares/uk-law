@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Interpretation[^key-76043f0b7c5b692bcef4e8c81b87fb9f]
+## 64. Interpretation[^c-76043f0b7c5b692bcef4e8c81b87fb9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-76043f0b7c5b692bcef4e8c81b87fb9f]: Commencement: Art. 64 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-76043f0b7c5b692bcef4e8c81b87fb9f]: Commencement: Art. 64 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

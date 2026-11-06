@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 145. Request for transfer payment to be made[^key-0fbd4186dff5faed7be81bdc8d6264c5]
+## 145. Request for transfer payment to be made[^c-0fbd4186dff5faed7be81bdc8d6264c5]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fbd4186dff5faed7be81bdc8d6264c5]: Commencement: Reg. 145 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-0fbd4186dff5faed7be81bdc8d6264c5]: Commencement: Reg. 145 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

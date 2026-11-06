@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Payments: VCTS[^key-99acb4cb7747ee490f4bc1dc29127292]
+## 71. Payments: VCTS[^c-99acb4cb7747ee490f4bc1dc29127292]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99acb4cb7747ee490f4bc1dc29127292]: Commencement: Art. 71 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-99acb4cb7747ee490f4bc1dc29127292]: Commencement: Art. 71 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

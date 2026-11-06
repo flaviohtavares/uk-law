@@ -46,7 +46,7 @@ The following shall be substituted for section 261 of the Insolvency Act 1986 (e
 >
 > (4) Where this section applies the court may give such directions about the conduct of the bankruptcy and the administration of the bankrupt’s estate as it thinks appropriate for facilitating the implementation of the approved voluntary arrangement.
 
-### 2. ...[^key-ebc205de75ec88d09f9436890fec3f9c][^key-3aea5791e7632415fc4b815e6d2ba4cb]
+### 2. ...[^c-ebc205de75ec88d09f9436890fec3f9c][^c-3aea5791e7632415fc4b815e6d2ba4cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -67,6 +67,6 @@ The following shall be inserted after section 389A of that Act (authorisation of
 
 ## Annotations
 
-[^key-ebc205de75ec88d09f9436890fec3f9c]: Textual amendment: Sch. 22 para. 2 omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 135(3)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/3/b), [164(3)(i)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/iv) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/4))
+[^c-ebc205de75ec88d09f9436890fec3f9c]: Textual amendment: Sch. 22 para. 2 omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 135(3)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/3/b), [164(3)(i)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/iv) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/4))
 
-[^key-3aea5791e7632415fc4b815e6d2ba4cb]: Textual amendment: Sch. 22 para. 2 heading omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 135(3)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/3/b), [164(3)(i)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/iv) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/4))
+[^c-3aea5791e7632415fc4b815e6d2ba4cb]: Textual amendment: Sch. 22 para. 2 heading omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 135(3)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/3/b), [164(3)(i)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/iv) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/4))

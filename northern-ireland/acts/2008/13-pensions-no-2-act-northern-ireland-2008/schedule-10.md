@@ -22,7 +22,7 @@ summary: ''
 
 Section 116.
 
-### PART 1 — PENSION SCHEME MEMBERSHIP FOR JOBHOLDERS[^key-30f8447de4524d34601bf4deacb5181d]
+### PART 1 — PENSION SCHEME MEMBERSHIP FOR JOBHOLDERS[^c-30f8447de4524d34601bf4deacb5181d]
 
 | Short Title | Extent of repeal |
 | --- | --- |
@@ -40,7 +40,7 @@ Section 116.
 | The Proceeds of Crime Act 2002 (c. 29) | In Schedule 11, paragraph 23(5). |
 | The Pensions Act (Northern Ireland) 2008 (c. 1) | In Schedule 4–<br>- (a) paragraph 27;<br>- (b) paragraph 39. |
 
-### PART 3 — CONTRACTING-OUT: ABOLITION OF ALL PROTECTED RIGHTS[^key-b94eab91b93695e91d88416205f33cb1]
+### PART 3 — CONTRACTING-OUT: ABOLITION OF ALL PROTECTED RIGHTS[^c-b94eab91b93695e91d88416205f33cb1]
 
 <table>
 <tfoot>
@@ -104,9 +104,9 @@ have effect in relation to payments made in a tax week falling in 2009–10 or a
 
 ## Annotations
 
-[^key-30f8447de4524d34601bf4deacb5181d]: Commencement: [Sch. 10 Pt. 1](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/1) in operation at 1.10.2012 for specified purposes by [S.R. 2012/372](https://www.legislation.gov.uk/nisr/2012/372), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/372/article/2/b)
+[^c-30f8447de4524d34601bf4deacb5181d]: Commencement: [Sch. 10 Pt. 1](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/1) in operation at 1.10.2012 for specified purposes by [S.R. 2012/372](https://www.legislation.gov.uk/nisr/2012/372), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/372/article/2/b)
 
-[^key-b94eab91b93695e91d88416205f33cb1]: Commencement: [Sch. 10 Pt. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/3) in operation at 6.4.2012 by [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/119/article/2/c)
+[^c-b94eab91b93695e91d88416205f33cb1]: Commencement: [Sch. 10 Pt. 3](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/3) in operation at 6.4.2012 by [S.R. 2012/119](https://www.legislation.gov.uk/nisr/2012/119), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/119/article/2/c)
 
 [^c19554171]: Commencement: [Sch. 10 Pt. 5](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/5) partly in operation; [Sch. 10 Pt. 5](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/5) in operation for certain purposes at Royal Assent see [s. 118(2)(3)(c)](https://www.legislation.gov.uk/nia/2008/13/section/118/2/3/c); [Sch. 10 Pt. 5](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/5) in operation for certain purposes at 6.4.2009 by [S.R. 2009/22](https://www.legislation.gov.uk/nisr/2009/22), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2009/22/article/2/2/d)
 

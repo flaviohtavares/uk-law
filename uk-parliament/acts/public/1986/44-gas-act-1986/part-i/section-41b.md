@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41B. Orders: supplementary.[^key-eccb7117cee72ae2d3e86f83f1353385]
+## 41B. Orders: supplementary.[^c-eccb7117cee72ae2d3e86f83f1353385]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eccb7117cee72ae2d3e86f83f1353385]: Textual amendment: S. 41B omitted (8.6.2010) by virtue of [Energy Act 2010 (c. 27)](https://www.legislation.gov.uk/ukpga/2010/27), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2010/27/section/38/3), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/3)
+[^c-eccb7117cee72ae2d3e86f83f1353385]: Textual amendment: S. 41B omitted (8.6.2010) by virtue of [Energy Act 2010 (c. 27)](https://www.legislation.gov.uk/ukpga/2010/27), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2010/27/section/38/3), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/3)

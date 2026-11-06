@@ -22,7 +22,7 @@ summary: ''
 
 Section 40
 
-**1.**[^key-fb604e6036b9bf973dfcb7faad123381] In Part 5 of the Local Government Finance Act 1988 (c. 41) (grants), after section 84C there is inserted—
+**1.**[^c-fb604e6036b9bf973dfcb7faad123381] In Part 5 of the Local Government Finance Act 1988 (c. 41) (grants), after section 84C there is inserted—
 
 > **84D. Application of Chapter 3**
 >
@@ -178,7 +178,7 @@ Section 40
 >
 > (5) When making a calculation in relation to which a deadline under subsection (1) has effect, the Assembly shall leave information to which the deadline applies out of account if it is received after the passing of the deadline.
 
-**2.**[^key-d2ee9f6538954796228b754010742ecc] (1) In Schedule 8 to the Local Government Finance Act 1988 (c. 41) (non-domestic rates: pooling), Part 3 (distribution of non-domestic rates to be dealt with in local government finance reports) is amended as follows.
+**2.**[^c-d2ee9f6538954796228b754010742ecc] (1) In Schedule 8 to the Local Government Finance Act 1988 (c. 41) (non-domestic rates: pooling), Part 3 (distribution of non-domestic rates to be dealt with in local government finance reports) is amended as follows.
 
 (2) In paragraph 8(2) (meaning of “local government finance report” in Part 3 of the Schedule), after “section 78A” there is inserted “ or 84G ”.
 
@@ -283,6 +283,6 @@ Section 40
 
 ## Annotations
 
-[^key-fb604e6036b9bf973dfcb7faad123381]: Commencement: Sch. 2 para. 1 in force W. at 27.11.2003 for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-fb604e6036b9bf973dfcb7faad123381]: Commencement: Sch. 2 para. 1 in force W. at 27.11.2003 for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-d2ee9f6538954796228b754010742ecc]: Commencement: Sch. 2 para. 2 in force W. at 27.11.2003 for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-d2ee9f6538954796228b754010742ecc]: Commencement: Sch. 2 para. 2 in force W. at 27.11.2003 for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)

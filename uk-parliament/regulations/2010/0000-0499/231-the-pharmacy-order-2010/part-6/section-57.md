@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Restoration of names to the Register: fitness to practise[^key-b27b69b9f583197a5eb87492e98fef55][^key-06fe89ce020aff5060b9a25b6a1c6768]
+## 57. Restoration of names to the Register: fitness to practise[^c-b27b69b9f583197a5eb87492e98fef55][^c-06fe89ce020aff5060b9a25b6a1c6768]
 
 *Extent: E+W+S*
 
@@ -67,6 +67,6 @@ the Fitness to Practise Committee may direct that the person may make no further
 
 ## Annotations
 
-[^key-b27b69b9f583197a5eb87492e98fef55]: Commencement: Art. 57 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-b27b69b9f583197a5eb87492e98fef55]: Commencement: Art. 57 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-06fe89ce020aff5060b9a25b6a1c6768]: Commencement: [Art. 57](https://www.legislation.gov.uk/uksi/2010/231/article/57) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-06fe89ce020aff5060b9a25b6a1c6768]: Commencement: [Art. 57](https://www.legislation.gov.uk/uksi/2010/231/article/57) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

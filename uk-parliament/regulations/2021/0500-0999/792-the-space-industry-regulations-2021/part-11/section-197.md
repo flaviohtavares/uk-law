@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Restrictions on the use of and access to US technology[^key-03559aee0eaacdad70178a74fd2ab6cd]
+## 197. Restrictions on the use of and access to US technology[^c-03559aee0eaacdad70178a74fd2ab6cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03559aee0eaacdad70178a74fd2ab6cd]: Commencement: Reg. 197 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-03559aee0eaacdad70178a74fd2ab6cd]: Commencement: Reg. 197 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

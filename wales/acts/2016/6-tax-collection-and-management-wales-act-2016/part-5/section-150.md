@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 150. Increased daily default penalty for failure to comply with information notice[^key-729a88b08634b1a32877a643a7d6de49]
+## 150. Increased daily default penalty for failure to comply with information notice[^c-729a88b08634b1a32877a643a7d6de49]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-729a88b08634b1a32877a643a7d6de49]: Commencement: S. 150 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/33/article/2/d)
+[^c-729a88b08634b1a32877a643a7d6de49]: Commencement: S. 150 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/33/article/2/d)

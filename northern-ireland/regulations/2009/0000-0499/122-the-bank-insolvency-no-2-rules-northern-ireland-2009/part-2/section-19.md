@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Expenses of voluntary arrangement[^key-c5aa939c6285cf09d3fb8af1b19e6006]
+## 19. Expenses of voluntary arrangement[^c-c5aa939c6285cf09d3fb8af1b19e6006]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.022 of the 1991 Rules.
 
 ## Annotations
 
-[^key-c5aa939c6285cf09d3fb8af1b19e6006]: Commencement: Rule 19 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-c5aa939c6285cf09d3fb8af1b19e6006]: Commencement: Rule 19 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

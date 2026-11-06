@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Service of documents on charity trustees etc[^key-bdcc19d5783a695d5aba2c815f75b388]
+## 48. Service of documents on charity trustees etc[^c-bdcc19d5783a695d5aba2c815f75b388]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdcc19d5783a695d5aba2c815f75b388]: Commencement: Reg. 48 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-bdcc19d5783a695d5aba2c815f75b388]: Commencement: Reg. 48 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

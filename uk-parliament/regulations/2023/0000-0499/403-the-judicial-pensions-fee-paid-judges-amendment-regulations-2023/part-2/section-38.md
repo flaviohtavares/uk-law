@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Amendment of regulation 56[^key-a2e21dcb8981962287f7ecdf77833daf]
+## 38. Amendment of regulation 56[^c-a2e21dcb8981962287f7ecdf77833daf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 56(1), for “regulations 54 and 55” substitute “regulations 5
 
 ## Annotations
 
-[^key-a2e21dcb8981962287f7ecdf77833daf]: Commencement: Reg. 38 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-a2e21dcb8981962287f7ecdf77833daf]: Commencement: Reg. 38 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

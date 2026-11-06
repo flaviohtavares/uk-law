@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Management of burial ground[^key-f684481b27f9b046eb17e7f708fad77d]
+## 6. Management of burial ground[^c-f684481b27f9b046eb17e7f708fad77d]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f684481b27f9b046eb17e7f708fad77d]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/20/section/6) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))
+[^c-f684481b27f9b046eb17e7f708fad77d]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/20/section/6) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.F.13. Public sector transfer arrangements[^key-96f4aea021c7a3ba509dea668ee77922]
+## 2.F.13. Public sector transfer arrangements[^c-96f4aea021c7a3ba509dea668ee77922]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96f4aea021c7a3ba509dea668ee77922]: Textual amendment: [Reg. 2.F.13](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.13) substituted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2015/95/schedule/2/paragraph/14)
+[^c-96f4aea021c7a3ba509dea668ee77922]: Textual amendment: [Reg. 2.F.13](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.13) substituted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2015/95/schedule/2/paragraph/14)

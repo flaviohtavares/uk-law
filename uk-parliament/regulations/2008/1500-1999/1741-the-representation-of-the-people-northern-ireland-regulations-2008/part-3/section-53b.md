@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53B. Duties of registration officer and his staff in relation to record of anonymous entries[^key-ced95e4297f718d971186127dd7fe513][^key-900b66b31865ce9a037a25c80875f1bc]
+## 53B. Duties of registration officer and his staff in relation to record of anonymous entries[^c-ced95e4297f718d971186127dd7fe513][^c-900b66b31865ce9a037a25c80875f1bc]
 
 *Extent: N.I.*
 
@@ -48,6 +48,6 @@ otherwise than in accordance with an enactment (including these Regulations) or 
 
 ## Annotations
 
-[^key-ced95e4297f718d971186127dd7fe513]: Textual amendment: [Regs. 53A-53D](https://www.legislation.gov.uk/uksi/2008/1741/regulation/53A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2014/1808/regulation/15)
+[^c-ced95e4297f718d971186127dd7fe513]: Textual amendment: [Regs. 53A-53D](https://www.legislation.gov.uk/uksi/2008/1741/regulation/53A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2014/1808/regulation/15)
 
-[^key-900b66b31865ce9a037a25c80875f1bc]: Modification: [Reg. 53B](https://www.legislation.gov.uk/uksi/2008/1741/regulation/53B) applied (15.9.2014) by [S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2001/1184/schedule) (as inserted by [S.I. 2014/1803](https://www.legislation.gov.uk/uksi/2014/1803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/8/3/b))
+[^c-900b66b31865ce9a037a25c80875f1bc]: Modification: [Reg. 53B](https://www.legislation.gov.uk/uksi/2008/1741/regulation/53B) applied (15.9.2014) by [S.I. 2001/1184](https://www.legislation.gov.uk/uksi/2001/1184), [reg. 9](https://www.legislation.gov.uk/uksi/2001/1184/regulation/9), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2001/1184/schedule) (as inserted by [S.I. 2014/1803](https://www.legislation.gov.uk/uksi/2014/1803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2014/1803/regulation/8/3/b))

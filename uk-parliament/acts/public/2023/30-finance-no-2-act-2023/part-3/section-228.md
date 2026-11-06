@@ -36,8 +36,8 @@ M is the minority owned parent of a minority subgroup, and the minority owned me
 
 (4) For the purposes of determining the effective tax rate and top-up amounts of a minority owned member that is not a member of a minority subgroup, this Part applies as if references to standard members of a multinational group were instead to that member.
 
-(5)[^key-ed8488eda190d2b5fcd0d8ab653ccee9] But neither subsection (3) nor (4) applies to the reference to “standard member” in section 199(2A) (election to treat top-up amounts of relevant members as nil).
+(5)[^c-ed8488eda190d2b5fcd0d8ab653ccee9] But neither subsection (3) nor (4) applies to the reference to “standard member” in section 199(2A) (election to treat top-up amounts of relevant members as nil).
 
 ## Annotations
 
-[^key-ed8488eda190d2b5fcd0d8ab653ccee9]: Textual amendment: S. 228(5) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 45(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/45/2), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-ed8488eda190d2b5fcd0d8ab653ccee9]: Textual amendment: S. 228(5) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 45(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/45/2), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

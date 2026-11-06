@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Transitional provision: Treasury licences[^key-4a186e0d85d19a479baaa6f9b0879f0b]
+## 98. Transitional provision: Treasury licences[^c-4a186e0d85d19a479baaa6f9b0879f0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ and such a licence is referred to in this regulation as “**an existing financi
 
 ## Annotations
 
-[^key-4a186e0d85d19a479baaa6f9b0879f0b]: Commencement: Reg. 98 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-4a186e0d85d19a479baaa6f9b0879f0b]: Commencement: Reg. 98 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

@@ -50,7 +50,7 @@ In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union
 
 ## Part 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-abcc1d9171ed6b6075000bdbe3e7add6]
+### 1. Citation, commencement and extent[^c-abcc1d9171ed6b6075000bdbe3e7add6]
 
 (1) These Regulations may be cited as the Detergents (Amendment) (EU Exit) Regulations 2020.
 
@@ -64,7 +64,7 @@ In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union
 
 ## Part 2 — Amendment of secondary legislation related to EU Exit
 
-### 2. Amendment of the Detergents (Amendment) (EU Exit) Regulations 2019[^key-1c1c4408a041de1701096d6ea5069420]
+### 2. Amendment of the Detergents (Amendment) (EU Exit) Regulations 2019[^c-1c1c4408a041de1701096d6ea5069420]
 
 (1) The Detergents (Amendment) (EU Exit) Regulations 2019 [^c24404601] are amended as follows.
 
@@ -145,7 +145,7 @@ In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union
 
   .
 
-### 3. Amendment of the Detergents (Safeguarding) (Amendment) (EU Exit) Regulations 2019[^key-7cf5dda902299cb0d9bfbdad9faf8393]
+### 3. Amendment of the Detergents (Safeguarding) (Amendment) (EU Exit) Regulations 2019[^c-7cf5dda902299cb0d9bfbdad9faf8393]
 
 (1) The Detergents (Amendment) (EU Exit) Regulations 2019 [^c24404611] are amended as follows.
 
@@ -158,7 +158,7 @@ In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union
 
 ## Part 3 — Amendment of the Detergents Regulations 2010
 
-### 4. Amendment of the Detergents Regulations 2010: Great Britain[^key-66f10336fb225f546c6346db7a9207aa]
+### 4. Amendment of the Detergents Regulations 2010: Great Britain[^c-66f10336fb225f546c6346db7a9207aa]
 
 *Extent: E+W+S*
 
@@ -223,7 +223,7 @@ In accordance with paragraphs 1(1) and 8F(1) of Schedule 7 to the European Union
 - (b) in the entry for Article 3, in the second column, omit “and (2)”;
 - (c) in the entry for Article 11(5), in the second column, for “the national language of the member State” substitute “ English ”.
 
-### 5. Amendment of the Detergents Regulations 2010: Northern Ireland[^key-1a1fa1f62377c4ae38af9eab33f1ba26]
+### 5. Amendment of the Detergents Regulations 2010: Northern Ireland[^c-1a1fa1f62377c4ae38af9eab33f1ba26]
 
 *Extent: N.I.*
 
@@ -284,22 +284,22 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24404591]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-abcc1d9171ed6b6075000bdbe3e7add6]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-abcc1d9171ed6b6075000bdbe3e7add6]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
-[^key-1c1c4408a041de1701096d6ea5069420]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-1c1c4408a041de1701096d6ea5069420]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
 [^c24404601]: Marginal citation: [S.I. 2019/672](https://www.legislation.gov.uk/uksi/2019/672).
 
-[^key-7cf5dda902299cb0d9bfbdad9faf8393]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
+[^c-7cf5dda902299cb0d9bfbdad9faf8393]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day, see reg. 1(2)
 
 [^c24404611]: Marginal citation: [S.I. 2019/671](https://www.legislation.gov.uk/uksi/2019/671).
 
-[^key-66f10336fb225f546c6346db7a9207aa]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see reg. 1(3)
+[^c-66f10336fb225f546c6346db7a9207aa]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see reg. 1(3)
 
 [^c24404621]: Marginal citation: [S.I. 2010/740](https://www.legislation.gov.uk/uksi/2010/740), amended by [S.I. 2013/1244](https://www.legislation.gov.uk/uksi/2013/1244) and 2016/1165.
 
 [^c24404631]: Marginal citation: EUR 2004/648.
 
-[^key-1a1fa1f62377c4ae38af9eab33f1ba26]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see reg. 1(3)
+[^c-1a1fa1f62377c4ae38af9eab33f1ba26]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see reg. 1(3)
 
 [^c24404641]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).

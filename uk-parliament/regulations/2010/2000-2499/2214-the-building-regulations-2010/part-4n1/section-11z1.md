@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11Z1. General duty: Wales[^key-c11d774deacad6db46aea43624c4bf0a]
+## 11Z1. General duty: Wales[^c-c11d774deacad6db46aea43624c4bf0a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c11d774deacad6db46aea43624c4bf0a]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/uksi/2010/2214/part/2B) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2025/1320/regulation/5) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
+[^c-c11d774deacad6db46aea43624c4bf0a]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/uksi/2010/2214/part/2B) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2025/1320/regulation/5) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))

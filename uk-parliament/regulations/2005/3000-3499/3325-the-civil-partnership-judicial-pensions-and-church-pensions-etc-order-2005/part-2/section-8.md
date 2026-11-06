@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**8.**[^key-63a7cf2898bba8793d74322641ef5dc7] (1) In section 8 (children’s pension: beneficiaries), subsection (4) is amended as follows.
+**8.**[^c-63a7cf2898bba8793d74322641ef5dc7] (1) In section 8 (children’s pension: beneficiaries), subsection (4) is amended as follows.
 
 (2) After “married” insert “or a person who at the time of the death of the deceased was a civil partner”.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63a7cf2898bba8793d74322641ef5dc7]: Commencement: Art. 8 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-63a7cf2898bba8793d74322641ef5dc7]: Commencement: Art. 8 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

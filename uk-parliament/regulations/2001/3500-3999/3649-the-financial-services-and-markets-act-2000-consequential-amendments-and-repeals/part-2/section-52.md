@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Limitations on exemptions for small and medium-sized groups[^key-c665e0908598f4be58b102736d033185]
+## 52. Limitations on exemptions for small and medium-sized groups[^c-c665e0908598f4be58b102736d033185]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In paragraph (2) of Article 256 of the 1986 Order (exemption for small and mediu
 
 ## Annotations
 
-[^key-c665e0908598f4be58b102736d033185]: Commencement: Art. 52 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c665e0908598f4be58b102736d033185]: Commencement: Art. 52 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00057]: Footnote: Article 256 was inserted by the Companies (Northern Ireland) Order 1990 ([S.I. 1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)), Articles 3(a), 15(3).

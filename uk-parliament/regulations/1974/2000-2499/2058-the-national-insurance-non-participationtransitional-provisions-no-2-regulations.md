@@ -65,7 +65,7 @@ For the purposes of facilitating the winding up of the system of insurance under
 
 ## 3. Continuance and modification of sections of the Act
 
-(1) Sections 56(5) (issue and cancellation of certificates of non-participation), 74(1) and (2)[^key-aeaa6920984a20b8d0e04d92a73ab83d] (determination of certain questions under Part III of the Act), 82 (saving for Tribunals and Inquiries Act 1971), 85(1) and (4) to (7) (expenses), 114(1) (interpretation) and 117(3) (except paragraph (b) thereof) (amendments to the House of Commons Disqualification Act 1957) of the Act shall continue in force.
+(1) Sections 56(5) (issue and cancellation of certificates of non-participation), 74(1) and (2)[^c-aeaa6920984a20b8d0e04d92a73ab83d] (determination of certain questions under Part III of the Act), 82 (saving for Tribunals and Inquiries Act 1971), 85(1) and (4) to (7) (expenses), 114(1) (interpretation) and 117(3) (except paragraph (b) thereof) (amendments to the House of Commons Disqualification Act 1957) of the Act shall continue in force.
 
 (2) Section 56(5) shall be so modified—
 
@@ -74,7 +74,7 @@ For the purposes of facilitating the winding up of the system of insurance under
 
 (3) Section 74 shall be modified so that the Arbitration Act 1950 shall not apply to any proceedings under it.
 
-(4)[^key-eef17b71b650886a4dfe6393ca4a4d58] Sub-section (1) of section 74 shall continue in force in the modified form set out in the Schedule to these regulations.
+(4)[^c-eef17b71b650886a4dfe6393ca4a4d58] Sub-section (1) of section 74 shall continue in force in the modified form set out in the Schedule to these regulations.
 
 ## 4. Continuance of certain provisions of the Tribunals and Inquiries Act 1971
 
@@ -104,7 +104,7 @@ Barbara Castle
 
 Secretary of State for Social Services
 
-## SCHEDULE — SECTION 74(1) OF THE NATIONAL INSURANCE ACT 1965 AS CONTINUED IN FORCE BY THESE REGULATIONS[^key-6c997e5a2ec320dfe8928654723ea8ec]
+## SCHEDULE — SECTION 74(1) OF THE NATIONAL INSURANCE ACT 1965 AS CONTINUED IN FORCE BY THESE REGULATIONS[^c-6c997e5a2ec320dfe8928654723ea8ec]
 
 Regulation 3(4)
 
@@ -128,8 +128,8 @@ These Regulations make provision for transitional matters arising out of the par
 
 [^f00003]: Footnote: (1961 I, p. 194).
 
-[^key-aeaa6920984a20b8d0e04d92a73ab83d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1974/2058/regulation/3/1) inserted (10.3.1983) by [The National Insurance (Non-participation—Transfer of Functions) (Transitional) Regulations 1983 (S.I. 1983/118)](https://www.legislation.gov.uk/uksi/1983/118), [regs. 1](https://www.legislation.gov.uk/uksi/1983/118/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1983/118/regulation/3/2)
+[^c-aeaa6920984a20b8d0e04d92a73ab83d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1974/2058/regulation/3/1) inserted (10.3.1983) by [The National Insurance (Non-participation—Transfer of Functions) (Transitional) Regulations 1983 (S.I. 1983/118)](https://www.legislation.gov.uk/uksi/1983/118), [regs. 1](https://www.legislation.gov.uk/uksi/1983/118/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1983/118/regulation/3/2)
 
-[^key-eef17b71b650886a4dfe6393ca4a4d58]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/1974/2058/regulation/3/4) inserted (10.3.1983) by [The National Insurance (Non-participation—Transfer of Functions) (Transitional) Regulations 1983 (S.I. 1983/118)](https://www.legislation.gov.uk/uksi/1983/118), [regs. 1](https://www.legislation.gov.uk/uksi/1983/118/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1983/118/regulation/3/3)
+[^c-eef17b71b650886a4dfe6393ca4a4d58]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/1974/2058/regulation/3/4) inserted (10.3.1983) by [The National Insurance (Non-participation—Transfer of Functions) (Transitional) Regulations 1983 (S.I. 1983/118)](https://www.legislation.gov.uk/uksi/1983/118), [regs. 1](https://www.legislation.gov.uk/uksi/1983/118/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1983/118/regulation/3/3)
 
-[^key-6c997e5a2ec320dfe8928654723ea8ec]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1974/2058/schedule) inserted (10.3.1983) by [The National Insurance (Non-participation—Transfer of Functions) (Transitional) Regulations 1983 (S.I. 1983/118)](https://www.legislation.gov.uk/uksi/1983/118), [regs. 1](https://www.legislation.gov.uk/uksi/1983/118/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/1983/118/regulation/3/4)
+[^c-6c997e5a2ec320dfe8928654723ea8ec]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1974/2058/schedule) inserted (10.3.1983) by [The National Insurance (Non-participation—Transfer of Functions) (Transitional) Regulations 1983 (S.I. 1983/118)](https://www.legislation.gov.uk/uksi/1983/118), [regs. 1](https://www.legislation.gov.uk/uksi/1983/118/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/1983/118/regulation/3/4)

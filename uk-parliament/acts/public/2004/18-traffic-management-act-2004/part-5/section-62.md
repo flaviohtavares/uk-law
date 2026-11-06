@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. London borough council exercising powers under Highways Act 1980 so as to affect strategic roads[^key-795940363907ea90b44cf18dbab3af81]
+## 62. London borough council exercising powers under Highways Act 1980 so as to affect strategic roads[^c-795940363907ea90b44cf18dbab3af81]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-795940363907ea90b44cf18dbab3af81]: Commencement: S. 62 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/e)
+[^c-795940363907ea90b44cf18dbab3af81]: Commencement: S. 62 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/e)

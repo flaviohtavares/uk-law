@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Duty to prepare and publish National Development Framework[^key-9af0ab6fca1dae49b6f616e0b0cda8ed]
+## 12. Duty to prepare and publish National Development Framework[^c-9af0ab6fca1dae49b6f616e0b0cda8ed]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9af0ab6fca1dae49b6f616e0b0cda8ed]: Commencement: S. 12 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9af0ab6fca1dae49b6f616e0b0cda8ed]: Commencement: S. 12 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

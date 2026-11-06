@@ -35,96 +35,96 @@ establishing, pursuant to Regulation (EU) No 517/2014 of the European Parliament
 
 (Text with EEA relevance) (revoked)
 
-[^key-28709cb527fcbef291863a28b3a3599d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28709cb527fcbef291863a28b3a3599d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-28709cb527fcbef291863a28b3a3599d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-28709cb527fcbef291863a28b3a3599d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-28709cb527fcbef291863a28b3a3599d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-28709cb527fcbef291863a28b3a3599d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-28709cb527fcbef291863a28b3a3599d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-28709cb527fcbef291863a28b3a3599d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28709cb527fcbef291863a28b3a3599d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28709cb527fcbef291863a28b3a3599d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — STATIONARY REFRIGERATION, AIR CONDITIONING AND HEAT PUMP EQUIPMENT AND REFRIGERATION UNITS OF REFRIGERATED TRUCKS AND TRAILERS[^key-28709cb527fcbef291863a28b3a3599d]
+## ANNEX I — STATIONARY REFRIGERATION, AIR CONDITIONING AND HEAT PUMP EQUIPMENT AND REFRIGERATION UNITS OF REFRIGERATED TRUCKS AND TRAILERS[^c-28709cb527fcbef291863a28b3a3599d]
 
-[^key-28709cb527fcbef291863a28b3a3599d]NOTIFICATION
+[^c-28709cb527fcbef291863a28b3a3599d]NOTIFICATION
 
 **FOR THE ESTABLISHMENT OR ADAPTATION BY MEMBER STATES OF THEIR TRAINING AND CERTIFICATION REQUIREMENTS FOR COMPANIES AND NATURAL PERSONS INVOLVED IN ACTIVITIES COVERED BY ARTICLE 10(1) OF REGULATION (EU) No 517/2014 ON FLUORINATED GREENHOUSE GASES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28709cb527fcbef291863a28b3a3599d] GENERAL INFORMATION
+[^c-28709cb527fcbef291863a28b3a3599d] GENERAL INFORMATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28709cb527fcbef291863a28b3a3599d] Part A — Natural persons
+[^c-28709cb527fcbef291863a28b3a3599d] Part A — Natural persons
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28709cb527fcbef291863a28b3a3599d] Part B — Companies
+[^c-28709cb527fcbef291863a28b3a3599d] Part B — Companies
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — STATIONARY FIRE PROTECTION EQUIPMENT[^key-28709cb527fcbef291863a28b3a3599d]
+## ANNEX II — STATIONARY FIRE PROTECTION EQUIPMENT[^c-28709cb527fcbef291863a28b3a3599d]
 
-[^key-28709cb527fcbef291863a28b3a3599d]NOTIFICATION
+[^c-28709cb527fcbef291863a28b3a3599d]NOTIFICATION
 
 **FOR THE ESTABLISHMENT/ADAPTATION BY MEMBER STATES OF THEIR TRAINING AND CERTIFICATION REQUIREMENTS FOR COMPANIES AND NATURAL PERSONS INVOLVED IN ACTIVITIES COVERED BY ARTICLE 10(1) OF REGULATION (EU) No 517/2014 ON FLUORINATED GREENHOUSE GASES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28709cb527fcbef291863a28b3a3599d] GENERAL INFORMATION
+[^c-28709cb527fcbef291863a28b3a3599d] GENERAL INFORMATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28709cb527fcbef291863a28b3a3599d] Part A — Natural persons
+[^c-28709cb527fcbef291863a28b3a3599d] Part A — Natural persons
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28709cb527fcbef291863a28b3a3599d] Part B — Companies
+[^c-28709cb527fcbef291863a28b3a3599d] Part B — Companies
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — ELECTRICAL SWITCHGEAR[^key-28709cb527fcbef291863a28b3a3599d]
+## ANNEX III — ELECTRICAL SWITCHGEAR[^c-28709cb527fcbef291863a28b3a3599d]
 
-[^key-28709cb527fcbef291863a28b3a3599d]NOTIFICATION
+[^c-28709cb527fcbef291863a28b3a3599d]NOTIFICATION
 
 **FOR THE ESTABLISHMENT/ADAPTATION BY MEMBER STATES OF THEIR TRAINING AND CERTIFICATION REQUIREMENTS FOR NATURAL PERSONS INVOLVED IN ACTIVITIES COVERED BY ARTICLE 10(1) OF REGULATION (EU) No 517/2014 ON FLUORINATED GREENHOUSE GASES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28709cb527fcbef291863a28b3a3599d] GENERAL INFORMATION
+[^c-28709cb527fcbef291863a28b3a3599d] GENERAL INFORMATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — EQUIPMENT CONTAINING FLUORINATED GREENHOUSE GAS-BASED SOLVENTS[^key-28709cb527fcbef291863a28b3a3599d]
+## ANNEX IV — EQUIPMENT CONTAINING FLUORINATED GREENHOUSE GAS-BASED SOLVENTS[^c-28709cb527fcbef291863a28b3a3599d]
 
-[^key-28709cb527fcbef291863a28b3a3599d]NOTIFICATION
+[^c-28709cb527fcbef291863a28b3a3599d]NOTIFICATION
 
 **FOR THE ESTABLISHMENT/ADAPTATION BY MEMBER STATES OF THEIR TRAINING AND CERTIFICATION REQUIREMENTS FOR NATURAL PERSONS INVOLVED IN ACTIVITIES COVERED BY ARTICLE 10(1) OF REGULATION (EU) No 517/2014 ON FLUORINATED GREENHOUSE GASES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28709cb527fcbef291863a28b3a3599d] GENERAL INFORMATION
+[^c-28709cb527fcbef291863a28b3a3599d] GENERAL INFORMATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V — AIR-CONDITIONING SYSTEMS IN MOTOR VEHICLES[^key-28709cb527fcbef291863a28b3a3599d]
+## ANNEX V — AIR-CONDITIONING SYSTEMS IN MOTOR VEHICLES[^c-28709cb527fcbef291863a28b3a3599d]
 
-[^key-28709cb527fcbef291863a28b3a3599d]NOTIFICATION
+[^c-28709cb527fcbef291863a28b3a3599d]NOTIFICATION
 
 **FOR THE ESTABLISHMENT/ADAPTATION BY MEMBER STATES OF THEIR TRAINING AND QUALIFICATION REQUIREMENTS FOR NATURAL PERSONS INVOLVED IN ACTIVITIES COVERED BY ARTICLE 10(1) OF REGULATION (EU) No 517/2014 ON FLUORINATED GREENHOUSE GASES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28709cb527fcbef291863a28b3a3599d] GENERAL INFORMATION
+[^c-28709cb527fcbef291863a28b3a3599d] GENERAL INFORMATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI — Correlation table[^key-28709cb527fcbef291863a28b3a3599d]
+## ANNEX VI — Correlation table[^c-28709cb527fcbef291863a28b3a3599d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-28709cb527fcbef291863a28b3a3599d]: Textual amendment: Regulation revoked (31.12.2020) by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [67](https://www.legislation.gov.uk/uksi/2019/583/regulation/67); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28709cb527fcbef291863a28b3a3599d]: Textual amendment: Regulation revoked (31.12.2020) by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [67](https://www.legislation.gov.uk/uksi/2019/583/regulation/67); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

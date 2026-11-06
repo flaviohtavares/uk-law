@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Expenses incurred otherwise than for election purposes[^key-f1761f1da27ecbb75e3a8e7a8aa5ee85]
+## 40. Expenses incurred otherwise than for election purposes[^c-f1761f1da27ecbb75e3a8e7a8aa5ee85]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1761f1da27ecbb75e3a8e7a8aa5ee85]: Commencement: Art. 40 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-f1761f1da27ecbb75e3a8e7a8aa5ee85]: Commencement: Art. 40 in force at 16.12.2015 in accordance with art. 1(1)

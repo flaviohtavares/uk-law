@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Other procedure[^key-ba5b9584332d3848ebb6519b913a0192][^key-8b5f0d88e5e3880685921437689bc789]
+## 24. Other procedure[^c-ba5b9584332d3848ebb6519b913a0192][^c-8b5f0d88e5e3880685921437689bc789]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba5b9584332d3848ebb6519b913a0192]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2013/25/section/24) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(i)](https://www.legislation.gov.uk/uksi/2014/433/article/2/i)
+[^c-ba5b9584332d3848ebb6519b913a0192]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2013/25/section/24) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(i)](https://www.legislation.gov.uk/uksi/2014/433/article/2/i)
 
-[^key-8b5f0d88e5e3880685921437689bc789]: Modification: [S. 24](https://www.legislation.gov.uk/ukpga/2013/25/section/24) excluded (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 107(7)](https://www.legislation.gov.uk/ukpga/2022/7/section/107/7), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-8b5f0d88e5e3880685921437689bc789]: Modification: [S. 24](https://www.legislation.gov.uk/ukpga/2013/25/section/24) excluded (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 107(7)](https://www.legislation.gov.uk/ukpga/2022/7/section/107/7), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Finance[^key-dd331ba2bfba168dcf018951f22cf01e]
+## 23. Finance[^c-dd331ba2bfba168dcf018951f22cf01e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The contract must contain a term to the effect that where, pursuant to any direc
 
 ## Annotations
 
-[^key-dd331ba2bfba168dcf018951f22cf01e]: Commencement: Reg. 23 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-dd331ba2bfba168dcf018951f22cf01e]: Commencement: Reg. 23 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

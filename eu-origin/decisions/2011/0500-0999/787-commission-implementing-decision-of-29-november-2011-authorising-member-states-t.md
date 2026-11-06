@@ -37,105 +37,105 @@ authorising Member States temporarily to take emergency measures against the dis
 
 (2011/787/EU) (revoked)
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e1b4c8c260263fb8aab4c32a4116869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Pest-free areas[^key-3e1b4c8c260263fb8aab4c32a4116869]
+## Article 1. Pest-free areas[^c-3e1b4c8c260263fb8aab4c32a4116869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Submission of information and notifications[^key-3e1b4c8c260263fb8aab4c32a4116869]
+## Article 2. Submission of information and notifications[^c-3e1b4c8c260263fb8aab4c32a4116869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Repeal[^key-3e1b4c8c260263fb8aab4c32a4116869]
+## Article 3. Repeal[^c-3e1b4c8c260263fb8aab4c32a4116869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Review[^key-3e1b4c8c260263fb8aab4c32a4116869]
+## Article 4. Review[^c-3e1b4c8c260263fb8aab4c32a4116869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Addressees[^key-3e1b4c8c260263fb8aab4c32a4116869]
+## Article 5. Addressees[^c-3e1b4c8c260263fb8aab4c32a4116869]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e1b4c8c260263fb8aab4c32a4116869]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-3e1b4c8c260263fb8aab4c32a4116869]
+## ANNEX[^c-3e1b4c8c260263fb8aab4c32a4116869]
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]Requirements to be complied with, as referred to in Article 1, in addition to the requirements for tubers of *Solanum tuberosum* L. laid down in parts A and B of Annexes I, II and IV to Directive 2000/29/EC:
+[^c-3e1b4c8c260263fb8aab4c32a4116869]Requirements to be complied with, as referred to in Article 1, in addition to the requirements for tubers of *Solanum tuberosum* L. laid down in parts A and B of Annexes I, II and IV to Directive 2000/29/EC:
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]1.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]1.
 
 **Requirements concerning the pest-free areas**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]2.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]2.
 
 **Requirements concerning the tubers of *Solanum tuberosum* L. to be imported**
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]2.1.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]2.2.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]2.2.
 
 The tubers of *Solanum tuberosum* L. to be imported into the Union shall have been:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]3.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]3.
 
 **Requirements concerning points of entry**
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]3.1.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]3.2.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]4.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]4.
 
 **Requirements concerning inspections**
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]4.1.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]4.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]4.2.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]4.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]4.3.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]4.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]5.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]5.
 
 **Requirements concerning testing for latent infection**
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]5.1.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]5.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]5.2.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]5.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]6.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]6.
 
 **Requirements concerning notifications**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]7.
+[^c-3e1b4c8c260263fb8aab4c32a4116869]7.
 
 **Labelling requirements**
 
@@ -143,4 +143,4 @@ The tubers of *Solanum tuberosum* L. to be imported into the Union shall have be
 
 ## Annotations
 
-[^key-3e1b4c8c260263fb8aab4c32a4116869]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/12) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-3e1b4c8c260263fb8aab4c32a4116869]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/12) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

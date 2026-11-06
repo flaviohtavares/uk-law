@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 394. The Airport Charges (Amendment) (EU Exit) Regulations 2018[^key-eee8e804cf17ed4b77a44138e7c0ba7c]
+## 394. The Airport Charges (Amendment) (EU Exit) Regulations 2018[^c-eee8e804cf17ed4b77a44138e7c0ba7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit regulation 3(1) of the Airport Charges (Amendment) (EU Exit) Regulations 20
 
 ## Annotations
 
-[^key-eee8e804cf17ed4b77a44138e7c0ba7c]: Commencement: Reg. 394 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-eee8e804cf17ed4b77a44138e7c0ba7c]: Commencement: Reg. 394 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24460851]: Marginal citation: [S.I. 2018/1081](https://www.legislation.gov.uk/uksi/2018/1081).

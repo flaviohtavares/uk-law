@@ -43,8 +43,8 @@ summary: ''
 </tbody>
 </table>
 
-[^key-c674319bc1bc5bc678789578171b33de]
+[^c-c674319bc1bc5bc678789578171b33de]
 
 ## Annotations
 
-[^key-c674319bc1bc5bc678789578171b33de]: Textual amendment: Words in [reg. 214(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/214/2) Table 12 inserted (27.10.2008) by [The Income Tax (Pay As You Earn) (Amendment) (No.2) Regulations 2008 (S.I. 2008/2601)](https://www.legislation.gov.uk/uksi/2008/2601), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2601/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2008/2601/regulation/5/2)
+[^c-c674319bc1bc5bc678789578171b33de]: Textual amendment: Words in [reg. 214(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/214/2) Table 12 inserted (27.10.2008) by [The Income Tax (Pay As You Earn) (Amendment) (No.2) Regulations 2008 (S.I. 2008/2601)](https://www.legislation.gov.uk/uksi/2008/2601), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2601/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2008/2601/regulation/5/2)

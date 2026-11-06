@@ -56,7 +56,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and interpretation[^key-780eda110e7f6fc19cae1828dcfd85a6]
+### 1. Citation, commencement and interpretation[^c-780eda110e7f6fc19cae1828dcfd85a6]
 
 (1) This Order may be cited as the General Medical Council (Fitness to Practise and Over-arching Objective) and the Professional Standards Authority for Health and Social Care (References to Court) Order 2015.
 
@@ -72,23 +72,23 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 ## PART 2 — The Medical Practitioners Tribunal Service
 
-### 2. Establishment of the MPTS as a committee of the General Medical Council[^key-8d2737e32f860d22791b0a974ba3db7e]
+### 2. Establishment of the MPTS as a committee of the General Medical Council[^c-8d2737e32f860d22791b0a974ba3db7e]
 
-(1)[^key-bb4769a2d3b999abc4c878db3179bc7f] In section 1 of the Medical Act (the GMC: constitution etc.), in subsection (3)[^f00003], before “constituted in accordance with” insert—
+(1)[^c-bb4769a2d3b999abc4c878db3179bc7f] In section 1 of the Medical Act (the GMC: constitution etc.), in subsection (3)[^f00003], before “constituted in accordance with” insert—
 
 > - (g) the Medical Practitioners Tribunal Service (“the MPTS”),
 
 .
 
-(2)[^key-bb4769a2d3b999abc4c878db3179bc7f] In subsection (3A) of that section, omit “paragraphs (c), (d) and (e) of”.
+(2)[^c-bb4769a2d3b999abc4c878db3179bc7f] In subsection (3A) of that section, omit “paragraphs (c), (d) and (e) of”.
 
-(3)[^key-bb4769a2d3b999abc4c878db3179bc7f] In section 55(1) of that Act (interpretation), at the appropriate place insert—
+(3)[^c-bb4769a2d3b999abc4c878db3179bc7f] In section 55(1) of that Act (interpretation), at the appropriate place insert—
 
 > - “the MPTS” means the Medical Practitioners Tribunal Service
 
 ;.
 
-(4)[^key-852827d3ee4d6a39c13112519cdb3107] In Part 3 of Schedule 1 to that Act (committees of the GMC)[^f00004], before paragraph 23 (and the preceding cross-heading) insert—
+(4)[^c-852827d3ee4d6a39c13112519cdb3107] In Part 3 of Schedule 1 to that Act (committees of the GMC)[^f00004], before paragraph 23 (and the preceding cross-heading) insert—
 
 > **19F. Medical Practitioners Tribunal Service**
 >
@@ -137,15 +137,15 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 >
 > (13) Rules under this paragraph may make different provision for different cases or different classes of case and may contain such incidental, consequential, transitional, transitory, saving or supplementary provisions as appear to the General Council to be necessary or expedient.
 
-(5)[^key-bb4769a2d3b999abc4c878db3179bc7f] In paragraph 15 of that Schedule (standing orders of the GMC)[^f00005], in sub-paragraph (3), at the end insert “, except in so far as is necessary for enabling standing orders to make provision with regard to the financial affairs of the MPTS or to make provision by virtue of paragraph 19F(9)(c).”
+(5)[^c-bb4769a2d3b999abc4c878db3179bc7f] In paragraph 15 of that Schedule (standing orders of the GMC)[^f00005], in sub-paragraph (3), at the end insert “, except in so far as is necessary for enabling standing orders to make provision with regard to the financial affairs of the MPTS or to make provision by virtue of paragraph 19F(9)(c).”
 
-(6)[^key-bb4769a2d3b999abc4c878db3179bc7f] In paragraph 16 of that Schedule (officers of the GMC)[^f00006], after sub-paragraph (3) insert—
+(6)[^c-bb4769a2d3b999abc4c878db3179bc7f] In paragraph 16 of that Schedule (officers of the GMC)[^f00006], after sub-paragraph (3) insert—
 
 > (3A) A deputy or assistant registrar who is authorised in accordance with provision made by virtue of paragraph 19F(7) to act on behalf of the MPTS may not, while so authorised, act for the Registrar in any matter.
 
-### 3. Medical Practitioners Tribunals and Interim Orders Tribunals: establishment etc.[^key-5b95342fa585a5840e96a15d4250e968]
+### 3. Medical Practitioners Tribunals and Interim Orders Tribunals: establishment etc.[^c-5b95342fa585a5840e96a15d4250e968]
 
-(1)[^key-ee14c67f49d6cca984a4bb417f068c34] In section 1 of the Medical Act (GMC: constitution etc.), in subsection (3)—
+(1)[^c-ee14c67f49d6cca984a4bb417f068c34] In section 1 of the Medical Act (GMC: constitution etc.), in subsection (3)—
 
 - (a) omit paragraphs (b) and (f), and
 - (b) after paragraph (g) (inserted by article 2(1)) insert—
@@ -155,9 +155,9 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
   .
 
-(2)[^key-ee14c67f49d6cca984a4bb417f068c34] In Part 3 of Schedule 1 to that Act (committees of the GMC), omit paragraphs 19A and 19E[^f00007] and the preceding cross-heading in each case.
+(2)[^c-ee14c67f49d6cca984a4bb417f068c34] In Part 3 of Schedule 1 to that Act (committees of the GMC), omit paragraphs 19A and 19E[^f00007] and the preceding cross-heading in each case.
 
-(3)[^key-65649e73ae59f61e83d80e76538be6ac] After paragraph 19F of that Schedule (inserted by article 2(4)) insert—
+(3)[^c-65649e73ae59f61e83d80e76538be6ac] After paragraph 19F of that Schedule (inserted by article 2(4)) insert—
 
 > **19G. Medical Practitioners Tribunals and Interim Orders Tribunals**
 >
@@ -205,44 +205,44 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 >
 > (15) Rules under this paragraph may make different provision for different cases or different classes of case and may contain such incidental, consequential, transitional, transitory, saving or supplementary provisions as appear to the General Council to be necessary or expedient.
 
-### 4. Articles 2 and 3: consequential provision[^key-de3acd946ecd821ff900ed22d9f21d54]
+### 4. Articles 2 and 3: consequential provision[^c-de3acd946ecd821ff900ed22d9f21d54]
 
-(1)[^key-4d74d5db77e198183e9aa59ad94d654c] In Part 3 of Schedule 1 to the Medical Act (committees of the GMC), in paragraph 23 (membership)[^f00008]—
+(1)[^c-4d74d5db77e198183e9aa59ad94d654c] In Part 3 of Schedule 1 to the Medical Act (committees of the GMC), in paragraph 23 (membership)[^f00008]—
 
 - (a) for “paragraphs 19A, 19C and 19E” substitute “paragraph 19C”,
 - (b) in paragraphs (a) and (c), omit “an Interim Orders Panel,” and “or a Fitness to Practise Panel”, and
 - (c) omit paragraph (b) (but not the following “and”).
 
-(2)[^key-4d74d5db77e198183e9aa59ad94d654c] In paragraph 23B of that Schedule (quorum)[^f00009], for “19A, 19B, 19C, 19D or 19E” substitute “19B, 19C or 19D”.
+(2)[^c-4d74d5db77e198183e9aa59ad94d654c] In paragraph 23B of that Schedule (quorum)[^f00009], for “19A, 19B, 19C, 19D or 19E” substitute “19B, 19C or 19D”.
 
-(3)[^key-4b6770ed908e20a5866788fd835de87f] In paragraph 23C of that Schedule (assistance with appointment functions)[^f00010], after “paragraph 23B” insert “or under paragraph 19F”.
+(3)[^c-4b6770ed908e20a5866788fd835de87f] In paragraph 23C of that Schedule (assistance with appointment functions)[^f00010], after “paragraph 23B” insert “or under paragraph 19F”.
 
-(4)[^key-4b6770ed908e20a5866788fd835de87f] After that paragraph insert—
+(4)[^c-4b6770ed908e20a5866788fd835de87f] After that paragraph insert—
 
 > **23D.** The overriding objective of the General Council in exercising the power to make rules under paragraph 19F or 19G is to secure that Medical Practitioners Tribunals and Interim Orders Tribunals deal with cases fairly and justly.
 
-(5)[^key-4b6770ed908e20a5866788fd835de87f] In paragraph 24 of that Schedule (requirement for Privy Council approval of rules)[^f00011], for “19A, 19B, 19C, 19D or 19E” substitute “19B, 19C, 19D, 19F or 19G”.
+(5)[^c-4b6770ed908e20a5866788fd835de87f] In paragraph 24 of that Schedule (requirement for Privy Council approval of rules)[^f00011], for “19A, 19B, 19C, 19D or 19E” substitute “19B, 19C, 19D, 19F or 19G”.
 
-(6)[^key-4d74d5db77e198183e9aa59ad94d654c] In paragraph 25 of that Schedule (supplementary provisions relating to committees)[^f00012], in sub-paragraph (2), for “paragraph 23” substitute “paragraphs 19B, 19C, 19D, 19F, 19G and 23”.
+(6)[^c-4d74d5db77e198183e9aa59ad94d654c] In paragraph 25 of that Schedule (supplementary provisions relating to committees)[^f00012], in sub-paragraph (2), for “paragraph 23” substitute “paragraphs 19B, 19C, 19D, 19F, 19G and 23”.
 
-(7)[^key-4d74d5db77e198183e9aa59ad94d654c] In sub-paragraph (3) of that paragraph, after “any committee of the Council” insert “(other than the MPTS or a Medical Practitioners Tribunal or Interim Orders Tribunal)”.
+(7)[^c-4d74d5db77e198183e9aa59ad94d654c] In sub-paragraph (3) of that paragraph, after “any committee of the Council” insert “(other than the MPTS or a Medical Practitioners Tribunal or Interim Orders Tribunal)”.
 
-(8)[^key-4d74d5db77e198183e9aa59ad94d654c] In sub-paragraph (4) of that paragraph, after “rules made” insert “under paragraph 19F(3)(f) or 19G(2)(d) or”.
+(8)[^c-4d74d5db77e198183e9aa59ad94d654c] In sub-paragraph (4) of that paragraph, after “rules made” insert “under paragraph 19F(3)(f) or 19G(2)(d) or”.
 
-(9)[^key-4d74d5db77e198183e9aa59ad94d654c] In sections 35B(4), 38(1), (2) and (4), 44(5), 47(4) and 53(2) of the Medical Act, for “Fitness to Practise Panel”, in each place it appears, substitute “Medical Practitioners Tribunal”.
+(9)[^c-4d74d5db77e198183e9aa59ad94d654c] In sections 35B(4), 38(1), (2) and (4), 44(5), 47(4) and 53(2) of the Medical Act, for “Fitness to Practise Panel”, in each place it appears, substitute “Medical Practitioners Tribunal”.
 
-(10)[^key-4d74d5db77e198183e9aa59ad94d654c] In section 44(5) of that Act—
+(10)[^c-4d74d5db77e198183e9aa59ad94d654c] In section 44(5) of that Act—
 
 - (a) for “the Panel” substitute “the Tribunal”, and
 - (b) for “the Panel’s” substitute “the Tribunal’s”.
 
-(11)[^key-4d74d5db77e198183e9aa59ad94d654c] In sections 35B(4) and 47(4) of that Act, for “Interim Orders Panel” substitute “Interim Orders Tribunal”.
+(11)[^c-4d74d5db77e198183e9aa59ad94d654c] In sections 35B(4) and 47(4) of that Act, for “Interim Orders Panel” substitute “Interim Orders Tribunal”.
 
-(12)[^key-4b6770ed908e20a5866788fd835de87f] In section 35CC of that Act (provisions supplementary to section 35C)[^f00013], after subsection (1) insert—
+(12)[^c-4b6770ed908e20a5866788fd835de87f] In section 35CC of that Act (provisions supplementary to section 35C)[^f00013], after subsection (1) insert—
 
 > (1A) The reference in subsection (1) to an officer of the General Council does not include a reference to the chair of the MPTS or any other officer of the Council to whom functions of the MPTS have been delegated by virtue of paragraph 19F(7) of Schedule 1.
 
-### 5. Allegations of impaired fitness to practise: consideration by Medical Practitioners Tribunal[^key-a68ff7ccb789aa1ced430d0b9a0dfd58][^key-6b1a9ffcf8e00040b568f4593e0df544]
+### 5. Allegations of impaired fitness to practise: consideration by Medical Practitioners Tribunal[^c-a68ff7ccb789aa1ced430d0b9a0dfd58][^c-6b1a9ffcf8e00040b568f4593e0df544]
 
 (1) In section 35C of the Medical Act (functions of the Investigation Committee)[^f00014], in subsection (5)(b), after “refer the allegation to” insert “the MPTS for them to arrange for the allegation to be considered by”.
 
@@ -363,7 +363,7 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 - (c) after “the Registrar” insert “or (as the case may be) the MPTS”, and
 - (d) for “he thinks” substitute “he or they think”.
 
-### 6. Interim orders[^key-44aab9e13a82b9da8bac6372b0c1db23][^key-20718e837267ff8919dd6bf798dd2bce]
+### 6. Interim orders[^c-44aab9e13a82b9da8bac6372b0c1db23][^c-20718e837267ff8919dd6bf798dd2bce]
 
 (1) In section 35C of the Medical Act (functions of the Investigation Committee), in subsection (8)—
 
@@ -399,15 +399,15 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 (7) In subsection (5) of that section, for “the Registrar” substitute “the MPTS”.
 
-### 7. Proceedings in fitness to practise cases: overriding objective of procedural rules[^key-47f04af5ffad1097081a1a2be4df17d6][^key-c9d71f1d7765f3394fc827a85bc5ab95]
+### 7. Proceedings in fitness to practise cases: overriding objective of procedural rules[^c-47f04af5ffad1097081a1a2be4df17d6][^c-c9d71f1d7765f3394fc827a85bc5ab95]
 
 In Schedule 4 to the Medical Act (the title to which becomes “Proceedings before the Investigation Committee, Medical Practitioners Tribunals and Interim Orders Tribunals”), in paragraph 1, after sub-paragraph (1) insert—
 
 > (1A) The overriding objective of the General Council in making rules under this Schedule with respect to the procedure to be followed in proceedings before a Medical Practitioners Tribunal or an Interim Orders Tribunal, or with respect to the procedure to be followed by the Investigation Committee when deciding whether to give a warning under section 35C(6), is to secure that the Tribunal or Committee (as the case may be) deals with cases fairly and justly.
 
-### 8. Proceedings in fitness to practise cases: procedural rules[^key-5131dc78d35ac676d8c69e527ebbe790]
+### 8. Proceedings in fitness to practise cases: procedural rules[^c-5131dc78d35ac676d8c69e527ebbe790]
 
-(1)[^key-a3ff568c13eb217ccfdc9f11c003594a] In paragraph 1 of Schedule 4 to the Medical Act (the cross-heading preceding which becomes “Procedure of and evidence before the Investigation Committee, Medical Practitioners Tribunals and Interim Orders Tribunals”)[^f00019], in sub-paragraph (1)—
+(1)[^c-a3ff568c13eb217ccfdc9f11c003594a] In paragraph 1 of Schedule 4 to the Medical Act (the cross-heading preceding which becomes “Procedure of and evidence before the Investigation Committee, Medical Practitioners Tribunals and Interim Orders Tribunals”)[^f00019], in sub-paragraph (1)—
 
 - (a) omit “for the Investigation Committee, Interim Orders Panels and Fitness to Practise Panels”,
 - (b) in paragraph (a), for “, an Interim Orders Panel or a Fitness to Practise Panel” substitute “or the MPTS”,
@@ -418,7 +418,7 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
   , and
 - (d) in paragraph (b), for “that Committee or such a Panel” substitute “the Investigation Committee or a Medical Practitioners Tribunal or Interim Orders Tribunal”.
 
-(2)[^key-0d8ac7fcf38f613d89edb352601ec1cc] After sub-paragraph (2) of that paragraph insert—
+(2)[^c-0d8ac7fcf38f613d89edb352601ec1cc] After sub-paragraph (2) of that paragraph insert—
 
 > (2ZA) Rules made under this paragraph in connection with the referral of a matter to, or the consideration of a matter by, a Medical Practitioners Tribunal or Interim Orders Tribunal may include provision for—
 >
@@ -427,18 +427,18 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 >
 > (2ZB) Section 35CC(1) applies to functions of the Investigation Committee by virtue of sub-paragraph (2ZA) as it applies to their functions under section 35C.
 
-(3)[^key-a3ff568c13eb217ccfdc9f11c003594a] In sub-paragraph (3) of that paragraph—
+(3)[^c-a3ff568c13eb217ccfdc9f11c003594a] In sub-paragraph (3) of that paragraph—
 
 - (a) for “an Interim Orders Panel or a Fitness to Practise Panel” substitute “an Interim Orders Tribunal or a Medical Practitioners Tribunal”, and
 - (b) for “the Panel”, in each place it appears, substitute “the Tribunal”.
 
-(4)[^key-a3ff568c13eb217ccfdc9f11c003594a] In sub-paragraph (4) of that paragraph—
+(4)[^c-a3ff568c13eb217ccfdc9f11c003594a] In sub-paragraph (4) of that paragraph—
 
 - (a) for “a Fitness to Practise Panel” substitute “a Medical Practitioners Tribunal”,
 - (b) for “a Panel”, in each place it appears, substitute “a Tribunal”, and
 - (c) for “the Panel” substitute “the Tribunal”.
 
-(5)[^key-0d8ac7fcf38f613d89edb352601ec1cc] After that sub-paragraph insert—
+(5)[^c-0d8ac7fcf38f613d89edb352601ec1cc] After that sub-paragraph insert—
 
 > (4A) Rules made under this paragraph in connection with any proceedings before a Medical Practitioners Tribunal may include provision for preliminary hearings.
 >
@@ -458,7 +458,7 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 > - (d) provision conferring on either party a right of appeal against an award of costs to the High Court (or, in Scotland, against an award of expenses to the Court of Session);
 > - (e) provision for the enforcement of an award of costs (or, in Scotland, expenses) in the same manner as if the award had been made by order of the county court (or, in Scotland, by decree of the sheriff court or, in Northern Ireland, by order of a county court).
 
-(6)[^key-0d8ac7fcf38f613d89edb352601ec1cc] After sub-paragraph (4D) of paragraph 1 of that Schedule (inserted by paragraph (5) above) insert—
+(6)[^c-0d8ac7fcf38f613d89edb352601ec1cc] After sub-paragraph (4D) of paragraph 1 of that Schedule (inserted by paragraph (5) above) insert—
 
 > (4E) Rules made under this paragraph in connection with any proceedings before a Medical Practitioners Tribunal or Interim Orders Tribunal may contain such provisions as appear to the General Council expedient for securing that, where the chair of the Tribunal is a legally qualified person and the chair advises the Tribunal on any question of law as to evidence, procedure or any other matter specified in the rules, the chair shall either—
 >
@@ -469,13 +469,13 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 >
 > (4F) In sub-paragraph (4E), “legally qualified person” means a person who satisfies the criteria set under paragraph 7(1C) in relation to legal qualifications and legal experience.
 
-(7)[^key-a3ff568c13eb217ccfdc9f11c003594a] In paragraph 2 of that Schedule (oaths etc.)—
+(7)[^c-a3ff568c13eb217ccfdc9f11c003594a] In paragraph 2 of that Schedule (oaths etc.)—
 
 - (a) for “an Interim Orders Panel”, in each place it appears, substitute “an Interim Orders Tribunal”,
 - (b) for “a Fitness to Practise Panel”, in each place it appears, substitute “a Medical Practitioners Tribunal”, and
 - (c) for “or Panel”, in each place it appears, substitute “or Tribunal”.
 
-(8)[^key-a3ff568c13eb217ccfdc9f11c003594a] In paragraph 3 of that Schedule (validity of meetings where different members attend different meetings)—
+(8)[^c-a3ff568c13eb217ccfdc9f11c003594a] In paragraph 3 of that Schedule (validity of meetings where different members attend different meetings)—
 
 - (a) in paragraph (a), for “an Interim Orders Panel or a Fitness to Practise Panel” substitute “a Medical Practitioners Tribunal or an Interim Orders Tribunal”,
 - (b) in that paragraph, omit “or the General Council” and “or the Council”,
@@ -487,21 +487,21 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 - (h) for “Committee, Panel”, in each place it appears, substitute “Committee or Tribunal”, and
 - (i) omit “or Council” in each place it appears.
 
-(9)[^key-a3ff568c13eb217ccfdc9f11c003594a] Omit paragraph 3A of that Schedule (reference and transfer of cases to Investigation Committee).
+(9)[^c-a3ff568c13eb217ccfdc9f11c003594a] Omit paragraph 3A of that Schedule (reference and transfer of cases to Investigation Committee).
 
-(10)[^key-a3ff568c13eb217ccfdc9f11c003594a] In paragraph 10 of that Schedule (taking effect of directions etc.)[^f00020], in sub-paragraph (1), for “a Fitness to Practise Panel”, in each place it appears, substitute “a Medical Practitioners Tribunal”.
+(10)[^c-a3ff568c13eb217ccfdc9f11c003594a] In paragraph 10 of that Schedule (taking effect of directions etc.)[^f00020], in sub-paragraph (1), for “a Fitness to Practise Panel”, in each place it appears, substitute “a Medical Practitioners Tribunal”.
 
-(11)[^key-a3ff568c13eb217ccfdc9f11c003594a] In paragraph 10B of that Schedule (language cases: directions for suspension or conditional registration)[^f00021], in sub-paragraph (1), for “the Fitness to Practise Panel” substitute “the Medical Practitioners Tribunal”.
+(11)[^c-a3ff568c13eb217ccfdc9f11c003594a] In paragraph 10B of that Schedule (language cases: directions for suspension or conditional registration)[^f00021], in sub-paragraph (1), for “the Fitness to Practise Panel” substitute “the Medical Practitioners Tribunal”.
 
-(12)[^key-a3ff568c13eb217ccfdc9f11c003594a] In paragraph 13 of that Schedule (meaning of “party”), for “an Interim Orders Panel or Fitness to Practise Panel” substitute “a Medical Practitioners Tribunal or Interim Orders Tribunal”.
+(12)[^c-a3ff568c13eb217ccfdc9f11c003594a] In paragraph 13 of that Schedule (meaning of “party”), for “an Interim Orders Panel or Fitness to Practise Panel” substitute “a Medical Practitioners Tribunal or Interim Orders Tribunal”.
 
-(13)[^key-a3ff568c13eb217ccfdc9f11c003594a] In section 43 of the Medical Act (the title to which becomes “Proceedings before the Investigation Committee, Medical Practitioners Tribunals and Interim Orders Tribunals”)[^f00022], for “Interim Orders Panels and Fitness to Practise Panels” substitute “Medical Practitioners Tribunals and Interim Orders Tribunals”.
+(13)[^c-a3ff568c13eb217ccfdc9f11c003594a] In section 43 of the Medical Act (the title to which becomes “Proceedings before the Investigation Committee, Medical Practitioners Tribunals and Interim Orders Tribunals”)[^f00022], for “Interim Orders Panels and Fitness to Practise Panels” substitute “Medical Practitioners Tribunals and Interim Orders Tribunals”.
 
-(14)[^key-a3ff568c13eb217ccfdc9f11c003594a] In section 44 of that Act (effect of disqualification in another relevant European State on registration in UK)[^f00023], in subsection (5)(b), after “paragraphs 1, 2,” insert “3,”.
+(14)[^c-a3ff568c13eb217ccfdc9f11c003594a] In section 44 of that Act (effect of disqualification in another relevant European State on registration in UK)[^f00023], in subsection (5)(b), after “paragraphs 1, 2,” insert “3,”.
 
-### 9. Proceedings in fitness to practise cases: undertakings[^key-5d1cea222bb6f58e026f455773982a7a]
+### 9. Proceedings in fitness to practise cases: undertakings[^c-5d1cea222bb6f58e026f455773982a7a]
 
-(1)[^key-7a56271edc4096a1b519c4f747b700ba] In paragraph 1 of Schedule 4 to the Medical Act (proceedings before the Investigation Committee etc: procedure, evidence etc.), for sub-paragraph (2A) substitute—
+(1)[^c-7a56271edc4096a1b519c4f747b700ba] In paragraph 1 of Schedule 4 to the Medical Act (proceedings before the Investigation Committee etc: procedure, evidence etc.), for sub-paragraph (2A) substitute—
 
 > (2A) Rules made under this paragraph may include provision—
 >
@@ -528,16 +528,16 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 >
 > (2E) For the purposes of sub-paragraph (2D), the rules may apply sections 35D and 35E with such modifications, and may make such consequential modifications of this Act, as the Council think fit; and accordingly where the rules make such provision, references in this Act to section 35D or 35E include a reference to that section as so applied.
 
-(2)[^key-75256e9ae34482e1df47aafbc1f322e9] In section 35B of the Medical Act (publications etc. by GMC)[^f00024], in subsection (4)(g), after “paragraph 1(2A)” insert “or (2C)”.
+(2)[^c-75256e9ae34482e1df47aafbc1f322e9] In section 35B of the Medical Act (publications etc. by GMC)[^f00024], in subsection (4)(g), after “paragraph 1(2A)” insert “or (2C)”.
 
-### 10. Assessments of professional performance or health[^key-36d55c945000d39819bc5d15c3e0bf6e]
+### 10. Assessments of professional performance or health[^c-36d55c945000d39819bc5d15c3e0bf6e]
 
 (1) In paragraph 5A of Schedule 4 to the Medical Act (the cross-heading before which becomes “Professional performance assessments and health assessments”)[^f00025], in sub-paragraph (1), in paragraph (a)—
 
-- (a)[^key-b93adfa2235dbeb45a6b191f1aa87c5c] in sub-paragraph (ii), for “a Fitness to Practise Panel” substitute “a Medical Practitioners Tribunal”, and
-- (b)[^key-34d6db016d5f022d4449e11960590dca] for “an assessment of the standard of a registered person’s professional performance” substitute “an assessment of a kind referred to in sub-paragraph (1A)”.
+- (a)[^c-b93adfa2235dbeb45a6b191f1aa87c5c] in sub-paragraph (ii), for “a Fitness to Practise Panel” substitute “a Medical Practitioners Tribunal”, and
+- (b)[^c-34d6db016d5f022d4449e11960590dca] for “an assessment of the standard of a registered person’s professional performance” substitute “an assessment of a kind referred to in sub-paragraph (1A)”.
 
-(2)[^key-34d6db016d5f022d4449e11960590dca] After sub-paragraph (1) of that paragraph insert—
+(2)[^c-34d6db016d5f022d4449e11960590dca] After sub-paragraph (1) of that paragraph insert—
 
 > (1A) The assessments referred to in sub-paragraph (1) are—
 >
@@ -545,7 +545,7 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 > - (b) in the case of a person applying under section 41, or by virtue of section 31(8) or 31A(1)(c), for his name to be restored to the register, an assessment of the standard of professional performance of which the person would be capable if the person’s name were to be restored to the register;
 > - (c) in either case, an assessment of the person’s physical or mental health.
 
-(3)[^key-8b26e64ff474144eeb07fa8f88a48c3a][^key-51da133ce2637556c47b3dfe48337da7] For sub-paragraph (2) of that paragraph substitute—
+(3)[^c-8b26e64ff474144eeb07fa8f88a48c3a][^c-51da133ce2637556c47b3dfe48337da7] For sub-paragraph (2) of that paragraph substitute—
 
 > (2) An assessment by virtue of this paragraph is to be carried out in accordance with such directions as the Registrar may give as to—
 >
@@ -569,11 +569,11 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 >
 > (2ZE) The General Council may make rules authorising the Assessment Team which, or individual assessor who, is to carry out an assessment by virtue of this paragraph to determine the procedure to be followed in carrying out the assessment in so far as it is not provided for in rules under sub-paragraph (2ZC)(b).
 
-(4)[^key-34d6db016d5f022d4449e11960590dca] After sub-paragraph (2A) of that paragraph insert—
+(4)[^c-34d6db016d5f022d4449e11960590dca] After sub-paragraph (2A) of that paragraph insert—
 
 > (2B) An assessment of a person’s physical or mental health may include an assessment of the person’s physical or mental health at any time prior to the assessment and may include an assessment of the person’s physical or mental health at the time of the assessment.
 
-(5)[^key-b93adfa2235dbeb45a6b191f1aa87c5c] For sub-paragraphs (3) and (3A) of that paragraph substitute—
+(5)[^c-b93adfa2235dbeb45a6b191f1aa87c5c] For sub-paragraphs (3) and (3A) of that paragraph substitute—
 
 > (3) If the Registrar is of the opinion that a registered person who is required to submit to an assessment by virtue of this paragraph has failed to submit to that assessment or to comply with requirements imposed in respect of the assessment, the Registrar—
 >
@@ -603,75 +603,75 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 > - (a) the person is to be treated as not being registered in the register notwithstanding that the person’s name still appears in it, but
 > - (b) sections 31A, 35C, 35CC, 35D, 35E and 39 are to continue to apply to the person.
 
-(6)[^key-b93adfa2235dbeb45a6b191f1aa87c5c] In sub-paragraph (5) of that paragraph—
+(6)[^c-b93adfa2235dbeb45a6b191f1aa87c5c] In sub-paragraph (5) of that paragraph—
 
 - (a) for “a Fitness to Practise Panel”, in each place it appears, substitute “a Medical Practitioners Tribunal”,
 - (b) for “by virtue of sub-paragraph (3)” substitute “under sub-paragraph (3D)”, and
 - (c) for “the Panel” substitute “the Tribunal”.
 
-(7)[^key-b93adfa2235dbeb45a6b191f1aa87c5c] In that sub-paragraph, in paragraph (c)—
+(7)[^c-b93adfa2235dbeb45a6b191f1aa87c5c] In that sub-paragraph, in paragraph (c)—
 
 - (a) for “the Registrar for him to refer it to” substitute “the MPTS for them to arrange for”, and
 - (b) for “be disposed of” substitute “dispose of it”.
 
-(8)[^key-b93adfa2235dbeb45a6b191f1aa87c5c] After that sub-paragraph insert—
+(8)[^c-b93adfa2235dbeb45a6b191f1aa87c5c] After that sub-paragraph insert—
 
 > (5A) Subject to paragraph 9, an appeal under sub-paragraph (5) must be brought before the end of 28 days beginning with the date on which notification of the direction was served under sub-paragraph (3E).
 
-(9)[^key-b93adfa2235dbeb45a6b191f1aa87c5c] In sub-paragraph (6) of that paragraph—
+(9)[^c-b93adfa2235dbeb45a6b191f1aa87c5c] In sub-paragraph (6) of that paragraph—
 
 - (a) after “Assessment Team” insert “or an individual assessor”, and
 - (b) in paragraph (b), after “the Team” insert “or the assessor”.
 
-(10)[^key-b93adfa2235dbeb45a6b191f1aa87c5c] In sub-paragraphs (7) and (8) of that paragraph—
+(10)[^c-b93adfa2235dbeb45a6b191f1aa87c5c] In sub-paragraphs (7) and (8) of that paragraph—
 
 - (a) after “Assessment Team” insert “or an individual assessor”, and
 - (b) omit “their”.
 
-(11)[^key-b93adfa2235dbeb45a6b191f1aa87c5c] In paragraph 5B of Schedule 4 to the Medical Act (issue of warrant), in sub-paragraph (1)—
+(11)[^c-b93adfa2235dbeb45a6b191f1aa87c5c] In paragraph 5B of Schedule 4 to the Medical Act (issue of warrant), in sub-paragraph (1)—
 
 - (a) after “Assessment Team” insert “or an individual assessor”, and
 - (b) after “the team” insert “or assessor”.
 
-(12)[^key-b93adfa2235dbeb45a6b191f1aa87c5c] In sub-paragraph (2) of that paragraph, after “themselves)” insert “, or (as the case may be) an individual assessor (who must, if so required, produce documents identifying himself),”.
+(12)[^c-b93adfa2235dbeb45a6b191f1aa87c5c] In sub-paragraph (2) of that paragraph, after “themselves)” insert “, or (as the case may be) an individual assessor (who must, if so required, produce documents identifying himself),”.
 
-### 11. Assessments of knowledge of English[^key-78c7d4abc191f1be1bdee8a673a88947]
+### 11. Assessments of knowledge of English[^c-78c7d4abc191f1be1bdee8a673a88947]
 
-(1)[^key-841d165ef02dc5bad1f73c3ce6ee60d2] In paragraph 5A of Schedule 4 to the Medical Act (professional performance assessments), in sub-paragraph (10), omit “registered”.
+(1)[^c-841d165ef02dc5bad1f73c3ce6ee60d2] In paragraph 5A of Schedule 4 to the Medical Act (professional performance assessments), in sub-paragraph (10), omit “registered”.
 
-(2)[^key-841d165ef02dc5bad1f73c3ce6ee60d2] In sub-paragraph (11) of that paragraph, after “But an assessment” insert “of a person’s professional performance”.
+(2)[^c-841d165ef02dc5bad1f73c3ce6ee60d2] In sub-paragraph (11) of that paragraph, after “But an assessment” insert “of a person’s professional performance”.
 
-(3)[^key-841d165ef02dc5bad1f73c3ce6ee60d2] In sub-paragraph (12) of that paragraph, for “shall not be carried out by an Assessment Team” substitute “shall not be undertaken as part of an assessment carried out by virtue of this paragraph”.
+(3)[^c-841d165ef02dc5bad1f73c3ce6ee60d2] In sub-paragraph (12) of that paragraph, for “shall not be carried out by an Assessment Team” substitute “shall not be undertaken as part of an assessment carried out by virtue of this paragraph”.
 
-(4)[^key-841d165ef02dc5bad1f73c3ce6ee60d2] After that sub-paragraph insert—
+(4)[^c-841d165ef02dc5bad1f73c3ce6ee60d2] After that sub-paragraph insert—
 
 > (13) The General Council may by rules provide that an assessment of a person’s knowledge of English undertaken as part of an assessment of the person’s professional performance by virtue of this paragraph is to be undertaken in accordance with such provision as is made in rules under paragraph 5C(2) subject to such modifications as the General Council consider necessary or expedient.
 
 (5) In paragraph 5C of Schedule 4 to the Medical Act (knowledge of English assessments)[^f00026], in sub-paragraph (1), in paragraph (a)—
 
-- (a)[^key-cb91887e4464805ad404a56814dafc2f] in sub-paragraph (ii), for “a Fitness to Practise Panel” substitute “a Medical Practitioners Tribunal”, and
-- (b)[^key-841d165ef02dc5bad1f73c3ce6ee60d2] after “a registered person” insert “or a person seeking restoration to the register”.
+- (a)[^c-cb91887e4464805ad404a56814dafc2f] in sub-paragraph (ii), for “a Fitness to Practise Panel” substitute “a Medical Practitioners Tribunal”, and
+- (b)[^c-841d165ef02dc5bad1f73c3ce6ee60d2] after “a registered person” insert “or a person seeking restoration to the register”.
 
-(6)[^key-841d165ef02dc5bad1f73c3ce6ee60d2] After that sub-paragraph insert—
+(6)[^c-841d165ef02dc5bad1f73c3ce6ee60d2] After that sub-paragraph insert—
 
 > (1A) The reference in sub-paragraph (1) to a person seeking restoration to the register is a reference to a person applying under section 41, or by virtue of section 31(8) or 31A(1)(c), for the person’s name to be restored to the register.
 
-(7)[^key-841d165ef02dc5bad1f73c3ce6ee60d2] In sub-paragraph (2) of that paragraph—
+(7)[^c-841d165ef02dc5bad1f73c3ce6ee60d2] In sub-paragraph (2) of that paragraph—
 
 - (a) in paragraph (a), omit “by such persons”, and
 - (b) in paragraphs (a) and (b), omit “registered”.
 
 (8) In sub-paragraph (3) of that paragraph—
 
-- (a)[^key-841d165ef02dc5bad1f73c3ce6ee60d2] before “person who is required to undertake” insert “registered”,
-- (b)[^key-cb91887e4464805ad404a56814dafc2f] omit “may”, and
-- (c)[^key-cb91887e4464805ad404a56814dafc2f] for paragraph (a) (but not the following “and”) substitute—
+- (a)[^c-841d165ef02dc5bad1f73c3ce6ee60d2] before “person who is required to undertake” insert “registered”,
+- (b)[^c-cb91887e4464805ad404a56814dafc2f] omit “may”, and
+- (c)[^c-cb91887e4464805ad404a56814dafc2f] for paragraph (a) (but not the following “and”) substitute—
 
   > - (a) may refer that matter to the MPTS for them to arrange for it to be considered by a Medical Practitioners Tribunal,
 
   .
 
-(9)[^key-cb91887e4464805ad404a56814dafc2f] After that sub-paragraph insert—
+(9)[^c-cb91887e4464805ad404a56814dafc2f] After that sub-paragraph insert—
 
 > (3A) If the Investigation Committee are of the opinion that a registered person who is required to undertake an assessment of that person’s knowledge of English has failed to undertake that assessment or has undertaken the assessment but has failed to provide the information requested in respect of that assessment—
 >
@@ -682,30 +682,30 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 >
 > (3C) If a Medical Practitioners Tribunal, having given a direction by virtue of this paragraph to require a person to undertake an assessment of that person’s knowledge of English, are of the opinion that the person concerned has failed to undertake that assessment or has undertaken the assessment but has failed to provide the information required in respect of that assessment, the Tribunal must consider that matter.
 
-(10)[^key-cb91887e4464805ad404a56814dafc2f] In sub-paragraph (4) of that paragraph—
+(10)[^c-cb91887e4464805ad404a56814dafc2f] In sub-paragraph (4) of that paragraph—
 
 - (a) for the words from the beginning to “they may” substitute “The Medical Practitioners Tribunal, on their consideration of a matter under sub-paragraph (3B) or (3C) may”, and
 - (b) in paragraph (b), for “the Fitness to Practise Panel” substitute “the Tribunal”.
 
-(11)[^key-cb91887e4464805ad404a56814dafc2f] In sub-paragraph (5) of that paragraph—
+(11)[^c-cb91887e4464805ad404a56814dafc2f] In sub-paragraph (5) of that paragraph—
 
 - (a) for “the Fitness to Practise Panel” substitute “the Medical Practitioners Tribunal”, and
 - (b) for “the Registrar” substitute “the MPTS”.
 
-(12)[^key-cb91887e4464805ad404a56814dafc2f] After that sub-paragraph insert—
+(12)[^c-cb91887e4464805ad404a56814dafc2f] After that sub-paragraph insert—
 
 > (5A) Where, under sub-paragraph (4), the Medical Practitioners Tribunal give a direction for suspension or a direction for conditional registration, or where the Tribunal decide not to give a direction under that sub-paragraph, the MPTS must without delay serve on the Registrar and the Professional Standards Authority for Health and Social Care notification of the direction or decision.
 
-(13)[^key-cb91887e4464805ad404a56814dafc2f] In sub-paragraph (7) of that paragraph—
+(13)[^c-cb91887e4464805ad404a56814dafc2f] In sub-paragraph (7) of that paragraph—
 
 - (a) for “a Fitness to Practise Panel”, in each place it appears, substitute “a Medical Practitioners Tribunal”,
 - (b) in paragraph (b), for “the Panel” substitute “the Tribunal”,
 - (c) in paragraph (c), for “the Registrar for him to refer it to” substitute “the MPTS for them to arrange for”, and
 - (d) in that paragraph, for “be disposed of” substitute “dispose of it”.
 
-### 12. Assessments: consequential provision[^key-5ce80bf0727d771255f07fbfe2732b2e]
+### 12. Assessments: consequential provision[^c-5ce80bf0727d771255f07fbfe2732b2e]
 
-(1)[^key-0f995618443514b0ac112b731268644f] In section 31 of the Medical Act (power to make regulations with respect to the registers), in subsection (9)[^f00027], after paragraph (b) insert—
+(1)[^c-0f995618443514b0ac112b731268644f] In section 31 of the Medical Act (power to make regulations with respect to the registers), in subsection (9)[^f00027], after paragraph (b) insert—
 
 > ; and
 >
@@ -716,7 +716,7 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 
 .
 
-(2)[^key-0f995618443514b0ac112b731268644f] In section 31A of that Act (voluntary removal from any of the registers)[^f00028], after subsection (1B) insert—
+(2)[^c-0f995618443514b0ac112b731268644f] In section 31A of that Act (voluntary removal from any of the registers)[^f00028], after subsection (1B) insert—
 
 > (1C) Regulations under subsection (1)(c) above may include provision, where the person concerned is required to submit to or undertake an assessment by virtue of paragraph 5A or 5C of Schedule 4, for requiring the General Council or a committee of the Council to take into account—
 >
@@ -724,27 +724,27 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 > - (b) whether any requirements imposed in respect of the assessment were complied with, and
 > - (c) if the assessment was carried out, the results of the assessment.
 
-(3)[^key-103ccc17c352351f60a94dceaa13524f] In section 35B of that Act (notification and disclosure by GMC)[^f00029], in subsection (4), after paragraph (d) insert—
+(3)[^c-103ccc17c352351f60a94dceaa13524f] In section 35B of that Act (notification and disclosure by GMC)[^f00029], in subsection (4), after paragraph (d) insert—
 
 > - (da) decisions of a Medical Practitioners Tribunal to make a direction under paragraph 5A(3D) or 5C(4) of Schedule 4 and decisions of a Medical Practitioners Tribunal under section 35D that relate to such a direction;
 
 .
 
-(4)[^key-103ccc17c352351f60a94dceaa13524f] In section 35D of that Act (functions of a Medical Practitioners Tribunal)[^f00030], in subsections (4)(c) and (9)(a)(iii), for “rules made by virtue of paragraph 5A(3)” substitute “paragraph 5A(3D) or 5C(4)”.
+(4)[^c-103ccc17c352351f60a94dceaa13524f] In section 35D of that Act (functions of a Medical Practitioners Tribunal)[^f00030], in subsections (4)(c) and (9)(a)(iii), for “rules made by virtue of paragraph 5A(3)” substitute “paragraph 5A(3D) or 5C(4)”.
 
-(5)[^key-103ccc17c352351f60a94dceaa13524f] In subsections (5)(b), (6), (10)(a) and (12)(a) of that section, after “a health case or language case” insert “or a case of suspension under paragraph 5A(3D) or 5C(4) of Schedule 4”.
+(5)[^c-103ccc17c352351f60a94dceaa13524f] In subsections (5)(b), (6), (10)(a) and (12)(a) of that section, after “a health case or language case” insert “or a case of suspension under paragraph 5A(3D) or 5C(4) of Schedule 4”.
 
-(6)[^key-103ccc17c352351f60a94dceaa13524f] In section 38 of that Act (the title to which becomes “Power to order immediate suspension etc.”)[^f00031], in subsections (1) and (2), for “rules made by virtue of paragraph 5A(3)” substitute “paragraph 5A(3D) or 5C(4)”.
+(6)[^c-103ccc17c352351f60a94dceaa13524f] In section 38 of that Act (the title to which becomes “Power to order immediate suspension etc.”)[^f00031], in subsections (1) and (2), for “rules made by virtue of paragraph 5A(3)” substitute “paragraph 5A(3D) or 5C(4)”.
 
-(7)[^key-103ccc17c352351f60a94dceaa13524f] In subsection (3) of that section—
+(7)[^c-103ccc17c352351f60a94dceaa13524f] In subsection (3) of that section—
 
 - (a) in paragraph (a), in sub-paragraph (i), after “10” insert “, 10A or 10B”,
 - (b) in that paragraph, omit sub-paragraph (ii) and the preceding “or”, and
 - (c) in paragraph (b), for “paragraph 5A(4) of that Schedule” substitute “paragraph 5A(5) or 5C(7) of Schedule 4”.
 
-(8)[^key-103ccc17c352351f60a94dceaa13524f] In subsection (4) of that section, for “the Registrar” substitute “the MPTS”.
+(8)[^c-103ccc17c352351f60a94dceaa13524f] In subsection (4) of that section, for “the Registrar” substitute “the MPTS”.
 
-(9)[^key-0f995618443514b0ac112b731268644f] In section 41 of that Act (restoration to the register)[^f00032], after subsection (6) insert—
+(9)[^c-0f995618443514b0ac112b731268644f] In section 41 of that Act (restoration to the register)[^f00032], after subsection (6) insert—
 
 > (6A) Where the applicant is required to submit to or undertake an assessment by virtue of paragraph 5A or 5C of Schedule 4, a Medical Practitioners Tribunal, before deciding whether to give a direction under subsection (1), shall take into account—
 >
@@ -752,22 +752,22 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 > - (b) whether any requirements imposed in respect of the assessment were complied with, and
 > - (c) if the assessment was carried out, the results of the assessment.
 
-(10)[^key-103ccc17c352351f60a94dceaa13524f] In section 41C of that Act (effect of directions or orders on licence to practise)[^f00033], in subsection (1), omit “or under rules made by virtue of paragraph 5A(3) of Schedule 4 to this Act”.
+(10)[^c-103ccc17c352351f60a94dceaa13524f] In section 41C of that Act (effect of directions or orders on licence to practise)[^f00033], in subsection (1), omit “or under rules made by virtue of paragraph 5A(3) of Schedule 4 to this Act”.
 
-(11)[^key-103ccc17c352351f60a94dceaa13524f] In section 47 of that Act (appointment to be held only by fully registered and licensed person), in subsection (4)(a)(ii), for “rules made by virtue of paragraph 5A(3)” substitute “paragraph 5A(3D) or 5C(4)”.
+(11)[^c-103ccc17c352351f60a94dceaa13524f] In section 47 of that Act (appointment to be held only by fully registered and licensed person), in subsection (4)(a)(ii), for “rules made by virtue of paragraph 5A(3)” substitute “paragraph 5A(3D) or 5C(4)”.
 
-(12)[^key-103ccc17c352351f60a94dceaa13524f] In paragraph 8 of Schedule 4 to the Medical Act (service of notifications of decisions)[^f00034], in sub-paragraph (1)—
+(12)[^c-103ccc17c352351f60a94dceaa13524f] In paragraph 8 of Schedule 4 to the Medical Act (service of notifications of decisions)[^f00034], in sub-paragraph (1)—
 
 - (a) after “paragraph”, in the second place it appears, insert “5A(3), (3A) or (3E) or”, and
 - (b) after “5C(3)” insert “, (3A)”.
 
-(13)[^key-103ccc17c352351f60a94dceaa13524f] In paragraph 9 of that Schedule (extension of time for appealing)[^f00035]—
+(13)[^c-103ccc17c352351f60a94dceaa13524f] In paragraph 9 of that Schedule (extension of time for appealing)[^f00035]—
 
 - (a) in paragraph (a), after “paragraph” insert “5A(3E) or”,
 - (b) before “5C(7)” insert “5A(5) or”, and
 - (c) omit “or under rules made by virtue of paragraph 5A(3) above”.
 
-(14)[^key-103ccc17c352351f60a94dceaa13524f] After paragraph 10 of that Schedule insert—
+(14)[^c-103ccc17c352351f60a94dceaa13524f] After paragraph 10 of that Schedule insert—
 
 > **10A.** (1) A direction for suspension or for conditional registration given by a Medical Practitioners Tribunal under paragraph 5A(3D) is to take effect—
 >
@@ -782,7 +782,7 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 >
 > and any reference in this Act to the time when such a direction takes effect in accordance with this paragraph is to be construed accordingly.
 
-(15)[^key-103ccc17c352351f60a94dceaa13524f] In paragraph 11 of that Schedule (timing of suspension or conditional registration)[^f00036], in sub-paragraph (1)—
+(15)[^c-103ccc17c352351f60a94dceaa13524f] In paragraph 11 of that Schedule (timing of suspension or conditional registration)[^f00036], in sub-paragraph (1)—
 
 - (a) for “section 35D(2)” substitute “section 35D”,
 - (b) before “5C(4)” insert “5A(3D) or”,
@@ -790,21 +790,21 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 - (d) for “subsection (5)” substitute “subsection (5)(a), (b) or (c)”, and
 - (e) for “that section” substitute “section 35D”.
 
-(16)[^key-103ccc17c352351f60a94dceaa13524f] In sub-paragraph (3) of that paragraph—
+(16)[^c-103ccc17c352351f60a94dceaa13524f] In sub-paragraph (3) of that paragraph—
 
 - (a) for “section 35D(2)” substitute “section 35D”,
 - (b) before “5C(4)” insert “5A(3D) or”,
 - (c) omit “or under rules made by virtue of paragraph 5A(3) above”, and
 - (d) for “that section” substitute “section 35D”.
 
-(17)[^key-103ccc17c352351f60a94dceaa13524f] In paragraph 12 of that Schedule (recording of directions for suspension or conditional registration)[^f00037]—
+(17)[^c-103ccc17c352351f60a94dceaa13524f] In paragraph 12 of that Schedule (recording of directions for suspension or conditional registration)[^f00037]—
 
 - (a) before “5C(4)” insert “5A(3D) or”, and
 - (b) omit “or under rules made by virtue of paragraph 5A(3) of this Schedule”.
 
-### 13. Legal assessors[^key-921c9f21b812d2e18e69a59fcdd7e784]
+### 13. Legal assessors[^c-921c9f21b812d2e18e69a59fcdd7e784]
 
-(1)[^key-a7b3149142e866b97f56feb3a7b8549c] In paragraph 7 of Schedule 4 to the Medical Act (legal assessors)[^f00038], in sub-paragraph (1)—
+(1)[^c-a7b3149142e866b97f56feb3a7b8549c] In paragraph 7 of Schedule 4 to the Medical Act (legal assessors)[^f00038], in sub-paragraph (1)—
 
 - (a) omit paragraph (b),
 - (b) omit paragraph (c) and the preceding “or”,
@@ -812,11 +812,11 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 - (d) for “the Panel” substitute “the Committee”, and
 - (e) omit the words from “and shall be” to the end.
 
-(2)[^key-a7b3149142e866b97f56feb3a7b8549c] After that sub-paragraph insert—
+(2)[^c-a7b3149142e866b97f56feb3a7b8549c] After that sub-paragraph insert—
 
 > (1A) The General Council must set and publish the criteria which a person must satisfy (whether in relation to qualifications, experience, competencies or other matters) in order to be eligible for appointment under sub-paragraph (1).
 
-(3)[^key-a7b3149142e866b97f56feb3a7b8549c] After sub-paragraph (1A) of that paragraph (inserted by paragraph (2) above) insert—
+(3)[^c-a7b3149142e866b97f56feb3a7b8549c] After sub-paragraph (1A) of that paragraph (inserted by paragraph (2) above) insert—
 
 > (1B) The MPTS must appoint a person as an assessor to a Medical Practitioners Tribunal or an Interim Orders Tribunal for the purpose of advising the Tribunal on questions of law arising in proceedings before them—
 >
@@ -827,18 +827,18 @@ In Schedule 4 to the Medical Act (the title to which becomes “Proceedings befo
 >
 > (1D) In sub-paragraph (1B), “legally qualified person” means a person who satisfies such criteria as are set under sub-paragraph (1C) in relation to legal qualifications and legal experience.
 
-(4)[^key-0db5fde70e839880d1742efc07aa10f9] After sub-paragraph (2) of that paragraph insert—
+(4)[^c-0db5fde70e839880d1742efc07aa10f9] After sub-paragraph (2) of that paragraph insert—
 
 > (2A) The General Council may make rules containing provision for a body (including a committee of the General Council which is not one of the statutory committees) to assist the MPTS in connection with the exercise of any function relating to the appointment of a person as an assessor.
 
-(5)[^key-a7b3149142e866b97f56feb3a7b8549c] In sub-paragraph (4) of that paragraph—
+(5)[^c-a7b3149142e866b97f56feb3a7b8549c] In sub-paragraph (4) of that paragraph—
 
 - (a) for “an Interim Orders Panel or a Fitness to Practise Panel” substitute “a Medical Practitioners Tribunal or an Interim Orders Tribunal”, and
 - (b) for “a Panel” substitute “a Tribunal” and for “the Panel”, in each place it appears, substitute “the Tribunal”.
 
-(6)[^key-a7b3149142e866b97f56feb3a7b8549c] In section 44 of the Medical Act (effect of disqualification in another relevant European State on registration in UK)[^f00039], in subsection (5)(b), before “8” insert “7,”.
+(6)[^c-a7b3149142e866b97f56feb3a7b8549c] In section 44 of the Medical Act (effect of disqualification in another relevant European State on registration in UK)[^f00039], in subsection (5)(b), before “8” insert “7,”.
 
-### 14. Case managers[^key-6ab38c60b0d0349799a73bfdf92c0ae7][^key-c831a25d694e99f20fce739216f1961a][^key-cc64785da3c31fc6d5e8e76699d70160]
+### 14. Case managers[^c-6ab38c60b0d0349799a73bfdf92c0ae7][^c-c831a25d694e99f20fce739216f1961a][^c-cc64785da3c31fc6d5e8e76699d70160]
 
 After paragraph 7 of Schedule 4 to the Medical Act insert—
 
@@ -871,7 +871,7 @@ After paragraph 7 of Schedule 4 to the Medical Act insert—
 >
 > (10) Rules under this paragraph do not come into force until approved by order of the Privy Council.
 
-### 15. Disclosure of information[^key-faac4806417fdfbfcbed6a61c3ff42d0][^key-da2d23d125442aa20b2b3a16d3ff4c60]
+### 15. Disclosure of information[^c-faac4806417fdfbfcbed6a61c3ff42d0][^c-da2d23d125442aa20b2b3a16d3ff4c60]
 
 (1) In section 35A of the Medical Act (GMC’s power to require disclosure of information)[^f00040], after subsection (1) insert—
 
@@ -892,7 +892,7 @@ After paragraph 7 of Schedule 4 to the Medical Act insert—
 >
 > (6E) Sub-paragraphs (3D) to (5A) of paragraph 5A of Schedule 4 apply to a matter being considered by a Medical Practitioners Tribunal under subsection (6D) as if it were a matter being considered by the Tribunal under sub-paragraph (3B) of that paragraph; and a reference in this Act to any of sub-paragraphs (3D) to (5A) of that paragraph is to be read as including a reference to that sub-paragraph as so applied.
 
-### 16. Appeals by persons subject to decisions by Tribunals[^key-3c88f6b4f40c64e40e20239db448441d][^key-a2231c48e0bd89f2f9bbd04250942fbc]
+### 16. Appeals by persons subject to decisions by Tribunals[^c-3c88f6b4f40c64e40e20239db448441d][^c-a2231c48e0bd89f2f9bbd04250942fbc]
 
 (1) In section 40 of the Medical Act (the title to which becomes “Appeals by persons subject to decisions by Tribunals”)[^f00041], in subsection (1), for “a Fitness to Practise Panel”, in each place it appears, substitute “a Medical Practitioners Tribunal”.
 
@@ -907,7 +907,7 @@ After paragraph 7 of Schedule 4 to the Medical Act insert—
 
 (4) In subsection (9) of that section, for “a Fitness to Practise Panel” substitute “a Medical Practitioners Tribunal”.
 
-### 17. Appeals by the General Medical Council[^key-d5d75ed7a6096ae5e6e5c2a8349d0a18][^key-057a017e00f063c3699ebe8c98a94273]
+### 17. Appeals by the General Medical Council[^c-d5d75ed7a6096ae5e6e5c2a8349d0a18][^c-057a017e00f063c3699ebe8c98a94273]
 
 (1) After section 40 of the Medical Act insert—
 
@@ -984,7 +984,7 @@ After paragraph 7 of Schedule 4 to the Medical Act insert—
 
 > (5) A reference in this paragraph to an appeal under this Act does not include a reference to an appeal under section 40A.
 
-### 18. References to court by the Professional Standards Authority for Health and Social Care[^key-02f5b0f617e559082ea6acc79395c2ba][^key-bfd455b42e71f64375e751358c34e5f3]
+### 18. References to court by the Professional Standards Authority for Health and Social Care[^c-02f5b0f617e559082ea6acc79395c2ba][^c-bfd455b42e71f64375e751358c34e5f3]
 
 (1) In section 29 of the National Health Service Reform and Health Care Professions Act 2002 (reference of disciplinary cases by the Professional Standards Authority for Health and Social Care to court)[^f00042], in subsection (1)(c), for “a Fitness to Practise Panel” substitute “a Medical Practitioners Tribunal”.
 
@@ -1059,7 +1059,7 @@ After paragraph 7 of Schedule 4 to the Medical Act insert—
 >
 > (8) In this section, “relevant court” and “relevant decision” each have the same meaning as in section 29.
 
-### 19. Restoration of names to the register[^key-afed6ae072b2153a07cbe5ef41447520][^key-d1cd0bfd80dad0a71ac8885f708d9ba4]
+### 19. Restoration of names to the register[^c-afed6ae072b2153a07cbe5ef41447520][^c-d1cd0bfd80dad0a71ac8885f708d9ba4]
 
 (1) In section 41 of the Medical Act (restoration of names to the register)[^f00043], in subsections (1), (3), (6), (7), (9), (10) and (11), for “Fitness to Practise Panel” substitute “Medical Practitioners Tribunal”.
 
@@ -1079,7 +1079,7 @@ After paragraph 7 of Schedule 4 to the Medical Act insert—
 
 (7) In subsection (11) of that section, after “for that direction to be” insert “referred to the MPTS for them to arrange for the direction to be”.
 
-### 20. Annual reports of the MPTS[^key-ae4c6f5d2a8598829979aa46b00676d1][^key-b9c88b0a115cfb37ed4f7e77ff8b9fe0]
+### 20. Annual reports of the MPTS[^c-ae4c6f5d2a8598829979aa46b00676d1][^c-b9c88b0a115cfb37ed4f7e77ff8b9fe0]
 
 After section 52A of the Medical Act insert—
 
@@ -1095,9 +1095,9 @@ After section 52A of the Medical Act insert—
 
 ## PART 3 — The General Medical Council: over-arching objective
 
-### 21. The over-arching objective[^key-c6c01571765c33953591020b00481d05]
+### 21. The over-arching objective[^c-c6c01571765c33953591020b00481d05]
 
-(1)[^key-4c1d1b3c3176e73f5b16c92e231d7062] In section 1 of the Medical Act (the GMC: constitution etc.), for subsection (1A)[^f00044] substitute—
+(1)[^c-4c1d1b3c3176e73f5b16c92e231d7062] In section 1 of the Medical Act (the GMC: constitution etc.), for subsection (1A)[^f00044] substitute—
 
 > (1A) The over-arching objective of the General Council in exercising their functions is the protection of the public.
 >
@@ -1107,53 +1107,53 @@ After section 52A of the Medical Act insert—
 > - (b) to promote and maintain public confidence in the medical profession, and
 > - (c) to promote and maintain proper professional standards and conduct for members of that profession.
 
-(2)[^key-4c1d1b3c3176e73f5b16c92e231d7062] In section 34H(2) of that Act (objectives of GMC in establishing standards of postgraduate medical education and training)[^f00045], for “that required by section 1(1A)” substitute “the over-arching objective”.
+(2)[^c-4c1d1b3c3176e73f5b16c92e231d7062] In section 34H(2) of that Act (objectives of GMC in establishing standards of postgraduate medical education and training)[^f00045], for “that required by section 1(1A)” substitute “the over-arching objective”.
 
-(3)[^key-4c1d1b3c3176e73f5b16c92e231d7062] In section 35C of that Act (functions of the Investigation Committee)[^f00046], after subsection (6) insert—
+(3)[^c-4c1d1b3c3176e73f5b16c92e231d7062] In section 35C of that Act (functions of the Investigation Committee)[^f00046], after subsection (6) insert—
 
 > (6A) In deciding whether to give a warning under subsection (6), the Investigation Committee must have regard to the over-arching objective.
 
-(4)[^key-4c1d1b3c3176e73f5b16c92e231d7062] In section 35E of that Act (provisions supplementary to section 35D)[^f00047], after subsection (3) insert—
+(4)[^c-4c1d1b3c3176e73f5b16c92e231d7062] In section 35E of that Act (provisions supplementary to section 35D)[^f00047], after subsection (3) insert—
 
 > (3A) In exercising a function under section 35D, a Medical Practitioners Tribunal must have regard to the over-arching objective.
 
-(5)[^key-4c1d1b3c3176e73f5b16c92e231d7062] In section 41 of that Act (restoration of names to the register)[^f00048], after subsection (11) insert—
+(5)[^c-4c1d1b3c3176e73f5b16c92e231d7062] In section 41 of that Act (restoration of names to the register)[^f00048], after subsection (11) insert—
 
 > (12) In exercising a function under this section, a Medical Practitioners Tribunal must have regard to the over-arching objective.
 
-(6)[^key-4c1d1b3c3176e73f5b16c92e231d7062] In section 44 of that Act (effect of disqualification in another relevant European State on registration in UK)[^f00049], after subsection (5) insert—
+(6)[^c-4c1d1b3c3176e73f5b16c92e231d7062] In section 44 of that Act (effect of disqualification in another relevant European State on registration in UK)[^f00049], after subsection (5) insert—
 
 > (5A) In deciding whether to give a direction under subsection (5)(a), a Medical Practitioners Tribunal must have regard to the over-arching objective.
 
-(7)[^key-4c1d1b3c3176e73f5b16c92e231d7062] In paragraph 23D of Schedule 1 to that Act (overriding objective of GMC in making rules about constitution of MPTS and Tribunals) (inserted by article 4(4)), at the end insert “; and where the General Council consider that there is a conflict between meeting the objective under this paragraph and the over-arching objective, they must give priority to meeting the objective under this paragraph.”
+(7)[^c-4c1d1b3c3176e73f5b16c92e231d7062] In paragraph 23D of Schedule 1 to that Act (overriding objective of GMC in making rules about constitution of MPTS and Tribunals) (inserted by article 4(4)), at the end insert “; and where the General Council consider that there is a conflict between meeting the objective under this paragraph and the over-arching objective, they must give priority to meeting the objective under this paragraph.”
 
-(8)[^key-4c1d1b3c3176e73f5b16c92e231d7062] In paragraph 1 of Schedule 4 to that Act (fitness to practise proceedings: procedure, evidence etc.)[^f00050], after sub-paragraph (1A) (inserted by article 7) insert—
+(8)[^c-4c1d1b3c3176e73f5b16c92e231d7062] In paragraph 1 of Schedule 4 to that Act (fitness to practise proceedings: procedure, evidence etc.)[^f00050], after sub-paragraph (1A) (inserted by article 7) insert—
 
 > (1B) Where the General Council consider that there is a conflict between meeting the objective under sub-paragraph (1A) and the over-arching objective, they must give priority to meeting the objective under sub-paragraph (1A).
 
-(9)[^key-4c1d1b3c3176e73f5b16c92e231d7062] In that paragraph, after sub-paragraph (2E) (inserted by article 9(1)) insert—
+(9)[^c-4c1d1b3c3176e73f5b16c92e231d7062] In that paragraph, after sub-paragraph (2E) (inserted by article 9(1)) insert—
 
 > (2F) Where rules made under this paragraph include provision under sub-paragraph (2A)(a), the Investigation Committee or such person as is by virtue of sub-paragraph (2B) exercising the function conferred by the provision must, in exercising the function, have regard to the over-arching objective.
 >
 > (2G) Where rules made under this paragraph include provision under sub-paragraph (2C)(b), or provision under sub-paragraph (2C)(c) of the kind mentioned in sub-paragraph (2D), a Medical Practitioners Tribunal must, in exercising the function conferred by the provision, have regard to the over-arching objective.
 
-(10)[^key-052f402fb52cb577565788e9b086ba48] In paragraph 5A of that Schedule (professional performance assessments and health assessments)[^f00051], after sub-paragraph (3G) (inserted by article 10(5)) insert—
+(10)[^c-052f402fb52cb577565788e9b086ba48] In paragraph 5A of that Schedule (professional performance assessments and health assessments)[^f00051], after sub-paragraph (3G) (inserted by article 10(5)) insert—
 
 > (3H) In deciding whether to give a direction under sub-paragraph (3D), a Medical Practitioners Tribunal must have regard to the over-arching objective.
 
-(11)[^key-4c1d1b3c3176e73f5b16c92e231d7062] In paragraph 5C of that Schedule (knowledge of English assessments)[^f00052], after sub-paragraph (4) insert—
+(11)[^c-4c1d1b3c3176e73f5b16c92e231d7062] In paragraph 5C of that Schedule (knowledge of English assessments)[^f00052], after sub-paragraph (4) insert—
 
 > (4A) In deciding whether to give a direction under sub-paragraph (4), a Medical Practitioners Tribunal must have regard to the over-arching objective.
 
-(12)[^key-4c1d1b3c3176e73f5b16c92e231d7062] In section 55 of the Medical Act, after subsection (1) insert—
+(12)[^c-4c1d1b3c3176e73f5b16c92e231d7062] In section 55 of the Medical Act, after subsection (1) insert—
 
 > (1A) References in this Act to the over-arching objective are to the over-arching objective of the General Council under section 1(1A) (read with section 1(1B)).
 
 ## PART 4 — Other matters relating to fitness to practise
 
-### 22. Investigation Committee: vexatious allegations, facts more than 5 years old, reviews[^key-a079a36f1a9aa26b7b673320b0ce7664]
+### 22. Investigation Committee: vexatious allegations, facts more than 5 years old, reviews[^c-a079a36f1a9aa26b7b673320b0ce7664]
 
-(1)[^key-0998c14530ad6b0728db75dd33898151] In section 35CC of the Medical Act (provisions supplementary to section 35C)[^f00053], after subsection (3) insert—
+(1)[^c-0998c14530ad6b0728db75dd33898151] In section 35CC of the Medical Act (provisions supplementary to section 35C)[^f00053], after subsection (3) insert—
 
 > (4) Rules under paragraph 1 of Schedule 4 may make provision for section 35C(4) to (8) not to apply in relation to an allegation if the Investigation Committee consider the allegation to be vexatious.
 >
@@ -1168,15 +1168,15 @@ After section 52A of the Medical Act insert—
 >
 > (8) Where the rules include provision by virtue of any of subsections (4) to (7), the reference in subsection (1) to the functions of the Investigation Committee under section 35C is to be read as including a reference to the functions conferred by such provision.
 
-(2)[^key-0fef7f2afb4d1d88b35627d4e661bc27] In paragraph 8 of Schedule 4 to the Medical Act (service of notifications of decisions)[^f00054], in sub-paragraph (1), at the end insert “or by virtue of section 35CC(6)”.
+(2)[^c-0fef7f2afb4d1d88b35627d4e661bc27] In paragraph 8 of Schedule 4 to the Medical Act (service of notifications of decisions)[^f00054], in sub-paragraph (1), at the end insert “or by virtue of section 35CC(6)”.
 
-### 23. Registration Appeals Panels[^key-4eded3f0743d8c4769431fe1eb360753][^key-758dc3807f30e8814d006343200dd483]
+### 23. Registration Appeals Panels[^c-4eded3f0743d8c4769431fe1eb360753][^c-758dc3807f30e8814d006343200dd483]
 
 (1) In paragraph 4 of Schedule 3A to the Medical Act (registration and training: appeals from appealable registration decisions)[^f00055], in sub-paragraph (7), for “a Fitness to Practise Panel” substitute “the Investigation Committee (where, in the case of paragraph 7, the Committee are considering giving a warning to a person)”.
 
 (2) In Schedule 3B to that Act (licence to practise and revalidation: appeals)[^f00056], in paragraph 3(4), for “a Fitness to Practise Panel” substitute “the Investigation Committee (where, in the case of paragraph 7, the Committee are considering giving a warning to a person)”.
 
-### 24. Service of notification of decisions by email[^key-de19aeeb895e3307c23441dd71b84d8d][^key-aef63f7c95d3aa0709f3b9fbb7f8d32e]
+### 24. Service of notification of decisions by email[^c-de19aeeb895e3307c23441dd71b84d8d][^c-aef63f7c95d3aa0709f3b9fbb7f8d32e]
 
 (1) In paragraph 8 of Schedule 4 to the Medical Act (service of notifications of decisions), in sub-paragraph (2)—
 
@@ -1193,7 +1193,7 @@ After section 52A of the Medical Act insert—
 
 > (6) For the purposes of this paragraph, service of a notice sent by email is effected only if there is an electronic receipt showing that the email has been opened (or if the recipient acknowledges receipt in some other way).
 
-### 25. Appeal of review orders[^key-369deddfac9e9a28bf5b7729c3d38d1d][^key-c9f4e9bc4cdd1e174de7c668b32ae1ff]
+### 25. Appeal of review orders[^c-369deddfac9e9a28bf5b7729c3d38d1d][^c-c9f4e9bc4cdd1e174de7c668b32ae1ff]
 
 In paragraph 11 of Schedule 4 to the Medical Act (proceedings before Investigation Committee etc: appeal of review orders)[^f00057], in sub-paragraphs (1) and (3), for the words from “the direction takes effect” to the end substitute
 
@@ -1203,7 +1203,7 @@ In paragraph 11 of Schedule 4 to the Medical Act (proceedings before Investigati
 > - (b) where on an appeal under this Act against the direction the MPTS arrange for the matter to be disposed of by a Medical Practitioners Tribunal, the Tribunal dispose of the matter and their decision on doing so takes effect, or
 > - (c) an appeal under this Act against the direction is determined (otherwise than by the dismissal of the appeal or by the disposal of the matter by a Medical Practitioners Tribunal).
 
-### 26. Minor corrections etc.[^key-e42b595b3a3a645d079c40368c581c98][^key-12824e629d81ffeb9a47d434a5b860dc]
+### 26. Minor corrections etc.[^c-e42b595b3a3a645d079c40368c581c98][^c-12824e629d81ffeb9a47d434a5b860dc]
 
 (1) In paragraph 3(3)(b) of Schedule 3B to the Medical Act (licence to practise and revalidation: appeals), omit “the Solicitor to”.
 
@@ -1211,7 +1211,7 @@ In paragraph 11 of Schedule 4 to the Medical Act (proceedings before Investigati
 
 ## PART 5 — Supplementary
 
-### 27. Orders by the Privy Council: procedure[^key-558b081af6ded79ce1c106d956b17f47]
+### 27. Orders by the Privy Council: procedure[^c-558b081af6ded79ce1c106d956b17f47]
 
 (1) A power of the Privy Council to make an order under this Order is exercisable by statutory instrument.
 
@@ -1279,17 +1279,17 @@ A full impact assessment has not been produced for this instrument as no or no s
 
 [^f00001]: Footnote: [1999 c.8](https://www.legislation.gov.uk/ukpga/1999/8). Section 60 was amended by paragraph 16 of Schedule 5 to the Nursing and Midwifery Order 2001 ([S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253)); section 26(9) of the National Health Service Reform and Health Care Professions Act [2002 (c.17)](https://www.legislation.gov.uk/ukpga/2002/17); paragraph 1 of Schedule 8 to the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14); sections 209, 210 and 213 of, and paragraphs 60 and 72 of Schedule 15 to, the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7); paragraph 7 of Schedule 4 to the Pharmacy Order 2010 ([S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231)); paragraph 43 of Schedule 34 to the Human Medicines Regulations 2012 ([S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916)). Section 62 was amended by paragraph 1 of Schedule 4 to the National Health Service (Consequential Provisions) Act [2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43); and paragraph 2 of Schedule 8 to the Health and Social Care Act 2008. Section 62(4) and (4A) was substituted by paragraph 11 of Schedule 10 the Health and Social Care Act 2008. Schedule 3 was amended by section 26(10) of the National Health Service Reform and Health Care Professions Act 2002; paragraph 8(b) of Schedule 4 to the Health and Social Work Professions Order 2002 ([S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254)); paragraph 67 of Schedule 11, and paragraph 1 of Schedule 14, to the Health and Social Care (Community Health and Standards) Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43); Schedule 9 to the Health Act [2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28); paragraphs 4 to 10 of Schedule 8, and paragraph 1 of Schedule 15, to the Health and Social Care Act 2008; section 211 of, and paragraphs 61 and 72 of Schedule 15 to, the Health and Social Care Act 2012.
 
-[^key-780eda110e7f6fc19cae1828dcfd85a6]: Commencement: Art. 1 in force at 20.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/794/article/1/2)
+[^c-780eda110e7f6fc19cae1828dcfd85a6]: Commencement: Art. 1 in force at 20.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/794/article/1/2)
 
 [^f00002]: Footnote: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54). A number of amendments were made by Schedules 6 and 7 to the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) to provisions of the Medical Act 1983 amended by this Order but those amendments were not commenced and have now been repealed by section 231 of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-8d2737e32f860d22791b0a974ba3db7e]: Commencement: Art. 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-8d2737e32f860d22791b0a974ba3db7e]: Commencement: Art. 2 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-bb4769a2d3b999abc4c878db3179bc7f]: Commencement: [Art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2015/794/article/2/1), [(5)](https://www.legislation.gov.uk/uksi/2015/794/article/2/5)[(6)](https://www.legislation.gov.uk/uksi/2015/794/article/2/6) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/a)
+[^c-bb4769a2d3b999abc4c878db3179bc7f]: Commencement: [Art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2015/794/article/2/1), [(5)](https://www.legislation.gov.uk/uksi/2015/794/article/2/5)[(6)](https://www.legislation.gov.uk/uksi/2015/794/article/2/6) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/a)
 
 [^f00003]: Footnote: Section 1(3) and (3A) as substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) was amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131).
 
-[^key-852827d3ee4d6a39c13112519cdb3107]: Commencement: [Art. 2(4)](https://www.legislation.gov.uk/uksi/2015/794/article/2/4) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/a)
+[^c-852827d3ee4d6a39c13112519cdb3107]: Commencement: [Art. 2(4)](https://www.legislation.gov.uk/uksi/2015/794/article/2/4) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/a)
 
 [^f00004]: Footnote: Part 3 of Schedule 1 was amended by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
@@ -1297,23 +1297,23 @@ A full impact assessment has not been produced for this instrument as no or no s
 
 [^f00006]: Footnote: Paragraph 16 of Schedule 1 was amended by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and [2008/1774](https://www.legislation.gov.uk/uksi/2008/1774).
 
-[^key-5b95342fa585a5840e96a15d4250e968]: Commencement: Art. 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-5b95342fa585a5840e96a15d4250e968]: Commencement: Art. 3 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-ee14c67f49d6cca984a4bb417f068c34]: Commencement: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2015/794/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2015/794/article/3/2) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/b)
+[^c-ee14c67f49d6cca984a4bb417f068c34]: Commencement: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2015/794/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2015/794/article/3/2) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/b)
 
 [^f00007]: Footnote: Paragraphs 19A and 19E of Schedule 1 were substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-65649e73ae59f61e83d80e76538be6ac]: Commencement: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2015/794/article/3/3) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/b)
+[^c-65649e73ae59f61e83d80e76538be6ac]: Commencement: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2015/794/article/3/3) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/b)
 
-[^key-de3acd946ecd821ff900ed22d9f21d54]: Commencement: Art. 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-de3acd946ecd821ff900ed22d9f21d54]: Commencement: Art. 4 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-4d74d5db77e198183e9aa59ad94d654c]: Commencement: [Art. 4(1)](https://www.legislation.gov.uk/uksi/2015/794/article/4/1)[(2)](https://www.legislation.gov.uk/uksi/2015/794/article/4/2), [(6)-(11)](https://www.legislation.gov.uk/uksi/2015/794/article/4/6) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/c)
+[^c-4d74d5db77e198183e9aa59ad94d654c]: Commencement: [Art. 4(1)](https://www.legislation.gov.uk/uksi/2015/794/article/4/1)[(2)](https://www.legislation.gov.uk/uksi/2015/794/article/4/2), [(6)-(11)](https://www.legislation.gov.uk/uksi/2015/794/article/4/6) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/c)
 
 [^f00008]: Footnote: Paragraph 23 of Schedule 1 was amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
 [^f00009]: Footnote: Paragraph 23B of Schedule 1 was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-4b6770ed908e20a5866788fd835de87f]: Commencement: [Art. 4(3)-(5)](https://www.legislation.gov.uk/uksi/2015/794/article/4/3), [(12)](https://www.legislation.gov.uk/uksi/2015/794/article/4/12) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/1579/article/3))
+[^c-4b6770ed908e20a5866788fd835de87f]: Commencement: [Art. 4(3)-(5)](https://www.legislation.gov.uk/uksi/2015/794/article/4/3), [(12)](https://www.legislation.gov.uk/uksi/2015/794/article/4/12) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/1579/article/3))
 
 [^f00010]: Footnote: Paragraph 23C of Schedule 1 was inserted by [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774).
 
@@ -1323,9 +1323,9 @@ A full impact assessment has not been produced for this instrument as no or no s
 
 [^f00013]: Footnote: Section 35CC was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-a68ff7ccb789aa1ced430d0b9a0dfd58]: Commencement: Art. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-a68ff7ccb789aa1ced430d0b9a0dfd58]: Commencement: Art. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-6b1a9ffcf8e00040b568f4593e0df544]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/794/article/5) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/d)
+[^c-6b1a9ffcf8e00040b568f4593e0df544]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/794/article/5) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/d)
 
 [^f00014]: Footnote: Section 35C was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [S.I. 2008/3131](https://www.legislation.gov.uk/uksi/2008/3131) and [S.I. 2014/1101](https://www.legislation.gov.uk/uksi/2014/1101).
 
@@ -1335,23 +1335,23 @@ A full impact assessment has not been produced for this instrument as no or no s
 
 [^f00017]: Footnote: Schedule 4 was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-44aab9e13a82b9da8bac6372b0c1db23]: Commencement: Art. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-44aab9e13a82b9da8bac6372b0c1db23]: Commencement: Art. 6 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-20718e837267ff8919dd6bf798dd2bce]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/794/article/6) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/d)
+[^c-20718e837267ff8919dd6bf798dd2bce]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/794/article/6) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/d)
 
 [^f00018]: Footnote: Section 41A was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-47f04af5ffad1097081a1a2be4df17d6]: Commencement: Art. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-47f04af5ffad1097081a1a2be4df17d6]: Commencement: Art. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-c9d71f1d7765f3394fc827a85bc5ab95]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/794/article/7) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/1579/article/3))
+[^c-c9d71f1d7765f3394fc827a85bc5ab95]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2015/794/article/7) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/1579/article/3))
 
-[^key-5131dc78d35ac676d8c69e527ebbe790]: Commencement: Art. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-5131dc78d35ac676d8c69e527ebbe790]: Commencement: Art. 8 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-a3ff568c13eb217ccfdc9f11c003594a]: Commencement: [Art. 8(1)](https://www.legislation.gov.uk/uksi/2015/794/article/8/1)[(3)](https://www.legislation.gov.uk/uksi/2015/794/article/8/3)[(4)](https://www.legislation.gov.uk/uksi/2015/794/article/8/4), [(7)-(14)](https://www.legislation.gov.uk/uksi/2015/794/article/8/7) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/e)
+[^c-a3ff568c13eb217ccfdc9f11c003594a]: Commencement: [Art. 8(1)](https://www.legislation.gov.uk/uksi/2015/794/article/8/1)[(3)](https://www.legislation.gov.uk/uksi/2015/794/article/8/3)[(4)](https://www.legislation.gov.uk/uksi/2015/794/article/8/4), [(7)-(14)](https://www.legislation.gov.uk/uksi/2015/794/article/8/7) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/e)
 
 [^f00019]: Footnote: Paragraph 1 of Schedule 4 was amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-0d8ac7fcf38f613d89edb352601ec1cc]: Commencement: [Art. 8(2)](https://www.legislation.gov.uk/uksi/2015/794/article/8/2)[(5)](https://www.legislation.gov.uk/uksi/2015/794/article/8/5)[(6)](https://www.legislation.gov.uk/uksi/2015/794/article/8/6) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/e)
+[^c-0d8ac7fcf38f613d89edb352601ec1cc]: Commencement: [Art. 8(2)](https://www.legislation.gov.uk/uksi/2015/794/article/8/2)[(5)](https://www.legislation.gov.uk/uksi/2015/794/article/8/5)[(6)](https://www.legislation.gov.uk/uksi/2015/794/article/8/6) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/e)
 
 [^f00020]: Footnote: Paragraph 10 of Schedule 4 was amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
@@ -1361,43 +1361,43 @@ A full impact assessment has not been produced for this instrument as no or no s
 
 [^f00023]: Footnote: Section 44 was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-5d1cea222bb6f58e026f455773982a7a]: Commencement: Art. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-5d1cea222bb6f58e026f455773982a7a]: Commencement: Art. 9 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-7a56271edc4096a1b519c4f747b700ba]: Commencement: [Art. 9(1)](https://www.legislation.gov.uk/uksi/2015/794/article/9/1) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/f)
+[^c-7a56271edc4096a1b519c4f747b700ba]: Commencement: [Art. 9(1)](https://www.legislation.gov.uk/uksi/2015/794/article/9/1) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/f)
 
-[^key-75256e9ae34482e1df47aafbc1f322e9]: Commencement: [Art. 9(2)](https://www.legislation.gov.uk/uksi/2015/794/article/9/2) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/f)
+[^c-75256e9ae34482e1df47aafbc1f322e9]: Commencement: [Art. 9(2)](https://www.legislation.gov.uk/uksi/2015/794/article/9/2) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/f)
 
 [^f00024]: Footnote: Section 35B was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-36d55c945000d39819bc5d15c3e0bf6e]: Commencement: Art. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-36d55c945000d39819bc5d15c3e0bf6e]: Commencement: Art. 10 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
 [^f00025]: Footnote: Paragraph 5A of Schedule 4 was amended by [S.I. 2014/1011](https://www.legislation.gov.uk/uksi/2014/1011).
 
-[^key-b93adfa2235dbeb45a6b191f1aa87c5c]: Commencement: [Art. 10(1)(a)](https://www.legislation.gov.uk/uksi/2015/794/article/10/1/a), [(5)-(12)](https://www.legislation.gov.uk/uksi/2015/794/article/10/5) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/g)
+[^c-b93adfa2235dbeb45a6b191f1aa87c5c]: Commencement: [Art. 10(1)(a)](https://www.legislation.gov.uk/uksi/2015/794/article/10/1/a), [(5)-(12)](https://www.legislation.gov.uk/uksi/2015/794/article/10/5) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/g)
 
-[^key-34d6db016d5f022d4449e11960590dca]: Commencement: [Art. 10(1)(b)](https://www.legislation.gov.uk/uksi/2015/794/article/10/1/b)[(2)](https://www.legislation.gov.uk/uksi/2015/794/article/10/2)[(4)](https://www.legislation.gov.uk/uksi/2015/794/article/10/4) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/g)
+[^c-34d6db016d5f022d4449e11960590dca]: Commencement: [Art. 10(1)(b)](https://www.legislation.gov.uk/uksi/2015/794/article/10/1/b)[(2)](https://www.legislation.gov.uk/uksi/2015/794/article/10/2)[(4)](https://www.legislation.gov.uk/uksi/2015/794/article/10/4) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/g)
 
-[^key-8b26e64ff474144eeb07fa8f88a48c3a]: Commencement: [Art. 10(3)](https://www.legislation.gov.uk/uksi/2015/794/article/10/3) in force at 3.8.2015 for specified purposes by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/g)
+[^c-8b26e64ff474144eeb07fa8f88a48c3a]: Commencement: [Art. 10(3)](https://www.legislation.gov.uk/uksi/2015/794/article/10/3) in force at 3.8.2015 for specified purposes by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/g)
 
-[^key-51da133ce2637556c47b3dfe48337da7]: Commencement: [Art. 10(3)](https://www.legislation.gov.uk/uksi/2015/794/article/10/3) in force at 31.12.2015 in so far as not already in force by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/g)
+[^c-51da133ce2637556c47b3dfe48337da7]: Commencement: [Art. 10(3)](https://www.legislation.gov.uk/uksi/2015/794/article/10/3) in force at 31.12.2015 in so far as not already in force by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/g)
 
-[^key-78c7d4abc191f1be1bdee8a673a88947]: Commencement: Art. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-78c7d4abc191f1be1bdee8a673a88947]: Commencement: Art. 11 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-841d165ef02dc5bad1f73c3ce6ee60d2]: Commencement: [Art. 11(1)-(4)](https://www.legislation.gov.uk/uksi/2015/794/article/11/1), [(5)(b)](https://www.legislation.gov.uk/uksi/2015/794/article/11/5/b)[(6)](https://www.legislation.gov.uk/uksi/2015/794/article/11/6)[(7)](https://www.legislation.gov.uk/uksi/2015/794/article/11/7)[(8)(a)](https://www.legislation.gov.uk/uksi/2015/794/article/11/8/a) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/h)
+[^c-841d165ef02dc5bad1f73c3ce6ee60d2]: Commencement: [Art. 11(1)-(4)](https://www.legislation.gov.uk/uksi/2015/794/article/11/1), [(5)(b)](https://www.legislation.gov.uk/uksi/2015/794/article/11/5/b)[(6)](https://www.legislation.gov.uk/uksi/2015/794/article/11/6)[(7)](https://www.legislation.gov.uk/uksi/2015/794/article/11/7)[(8)(a)](https://www.legislation.gov.uk/uksi/2015/794/article/11/8/a) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/h)
 
 [^f00026]: Footnote: Paragraph 5C of Schedule 4 was inserted by [S.I. 2014/1011](https://www.legislation.gov.uk/uksi/2014/1011).
 
-[^key-cb91887e4464805ad404a56814dafc2f]: Commencement: [Art. 11(5)(a)](https://www.legislation.gov.uk/uksi/2015/794/article/11/5/a)[(8)(b)](https://www.legislation.gov.uk/uksi/2015/794/article/11/8/b)[(c)](https://www.legislation.gov.uk/uksi/2015/794/article/11/8/c), [(9)-(13)](https://www.legislation.gov.uk/uksi/2015/794/article/11/9) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/h)
+[^c-cb91887e4464805ad404a56814dafc2f]: Commencement: [Art. 11(5)(a)](https://www.legislation.gov.uk/uksi/2015/794/article/11/5/a)[(8)(b)](https://www.legislation.gov.uk/uksi/2015/794/article/11/8/b)[(c)](https://www.legislation.gov.uk/uksi/2015/794/article/11/8/c), [(9)-(13)](https://www.legislation.gov.uk/uksi/2015/794/article/11/9) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/h)
 
-[^key-5ce80bf0727d771255f07fbfe2732b2e]: Commencement: Art. 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-5ce80bf0727d771255f07fbfe2732b2e]: Commencement: Art. 12 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-0f995618443514b0ac112b731268644f]: Commencement: [Art. 12(1)](https://www.legislation.gov.uk/uksi/2015/794/article/12/1)[(2)](https://www.legislation.gov.uk/uksi/2015/794/article/12/2)[(9)](https://www.legislation.gov.uk/uksi/2015/794/article/12/9) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(i)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/1579/article/3))
+[^c-0f995618443514b0ac112b731268644f]: Commencement: [Art. 12(1)](https://www.legislation.gov.uk/uksi/2015/794/article/12/1)[(2)](https://www.legislation.gov.uk/uksi/2015/794/article/12/2)[(9)](https://www.legislation.gov.uk/uksi/2015/794/article/12/9) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(i)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/1579/article/3))
 
 [^f00027]: Footnote: Section 31(9) was amended by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
 
 [^f00028]: Footnote: Section 31A was inserted by section 2 of the Medical (Professional Performance) Act [1995 (c.51)](https://www.legislation.gov.uk/ukpga/1995/51) and amended by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
 
-[^key-103ccc17c352351f60a94dceaa13524f]: Commencement: [Art. 12(3)-(8)](https://www.legislation.gov.uk/uksi/2015/794/article/12/3), [(10)-(17)](https://www.legislation.gov.uk/uksi/2015/794/article/12/10) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(i)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/i)
+[^c-103ccc17c352351f60a94dceaa13524f]: Commencement: [Art. 12(3)-(8)](https://www.legislation.gov.uk/uksi/2015/794/article/12/3), [(10)-(17)](https://www.legislation.gov.uk/uksi/2015/794/article/12/10) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(i)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/i)
 
 [^f00029]: Footnote: Section 35B was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
@@ -1417,57 +1417,57 @@ A full impact assessment has not been produced for this instrument as no or no s
 
 [^f00037]: Footnote: Paragraph 12 of Schedule 4 was amended by [S.I. 2014/1011](https://www.legislation.gov.uk/uksi/2014/1011).
 
-[^key-921c9f21b812d2e18e69a59fcdd7e784]: Commencement: Art. 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-921c9f21b812d2e18e69a59fcdd7e784]: Commencement: Art. 13 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-a7b3149142e866b97f56feb3a7b8549c]: Commencement: [Art. 13(1)-(3)](https://www.legislation.gov.uk/uksi/2015/794/article/13/1), [(5)](https://www.legislation.gov.uk/uksi/2015/794/article/13/5)[(6)](https://www.legislation.gov.uk/uksi/2015/794/article/13/6) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(j)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/j)
+[^c-a7b3149142e866b97f56feb3a7b8549c]: Commencement: [Art. 13(1)-(3)](https://www.legislation.gov.uk/uksi/2015/794/article/13/1), [(5)](https://www.legislation.gov.uk/uksi/2015/794/article/13/5)[(6)](https://www.legislation.gov.uk/uksi/2015/794/article/13/6) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(j)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/j)
 
 [^f00038]: Footnote: Paragraph 7 of Schedule 4 was amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-0db5fde70e839880d1742efc07aa10f9]: Commencement: [Art. 13(4)](https://www.legislation.gov.uk/uksi/2015/794/article/13/4) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(j)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/j)
+[^c-0db5fde70e839880d1742efc07aa10f9]: Commencement: [Art. 13(4)](https://www.legislation.gov.uk/uksi/2015/794/article/13/4) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(j)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/j)
 
 [^f00039]: Footnote: Section 44 was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-6ab38c60b0d0349799a73bfdf92c0ae7]: Commencement: Art. 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-6ab38c60b0d0349799a73bfdf92c0ae7]: Commencement: Art. 14 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-c831a25d694e99f20fce739216f1961a]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2015/794/article/14) in force at 3.8.2015 for specified purposes by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(k)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/k)
+[^c-c831a25d694e99f20fce739216f1961a]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2015/794/article/14) in force at 3.8.2015 for specified purposes by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(k)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/k)
 
-[^key-cc64785da3c31fc6d5e8e76699d70160]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2015/794/article/14) in force at 31.12.2015 in so far as not already in force by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(k)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/k)
+[^c-cc64785da3c31fc6d5e8e76699d70160]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2015/794/article/14) in force at 31.12.2015 in so far as not already in force by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(k)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/k)
 
-[^key-faac4806417fdfbfcbed6a61c3ff42d0]: Commencement: Art. 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-faac4806417fdfbfcbed6a61c3ff42d0]: Commencement: Art. 15 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-da2d23d125442aa20b2b3a16d3ff4c60]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2015/794/article/15) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l)
+[^c-da2d23d125442aa20b2b3a16d3ff4c60]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2015/794/article/15) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l)
 
 [^f00040]: Footnote: Section 35A was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [S.I. 2008/1774](https://www.legislation.gov.uk/uksi/2008/1774).
 
-[^key-3c88f6b4f40c64e40e20239db448441d]: Commencement: Art. 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-3c88f6b4f40c64e40e20239db448441d]: Commencement: Art. 16 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-a2231c48e0bd89f2f9bbd04250942fbc]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2015/794/article/16) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l)
+[^c-a2231c48e0bd89f2f9bbd04250942fbc]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2015/794/article/16) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l)
 
 [^f00041]: Footnote: Section 40 was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
 
-[^key-d5d75ed7a6096ae5e6e5c2a8349d0a18]: Commencement: Art. 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-d5d75ed7a6096ae5e6e5c2a8349d0a18]: Commencement: Art. 17 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-057a017e00f063c3699ebe8c98a94273]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2015/794/article/17) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/1952/schedule/paragraph/2))
+[^c-057a017e00f063c3699ebe8c98a94273]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2015/794/article/17) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/1952/schedule/paragraph/2))
 
-[^key-02f5b0f617e559082ea6acc79395c2ba]: Commencement: Art. 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-02f5b0f617e559082ea6acc79395c2ba]: Commencement: Art. 18 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-bfd455b42e71f64375e751358c34e5f3]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2015/794/article/18) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1952/schedule/paragraph/3))
+[^c-bfd455b42e71f64375e751358c34e5f3]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2015/794/article/18) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1952/schedule/paragraph/3))
 
 [^f00042]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17); section 29 was amended by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [S.I. 2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848), [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621) and by section 118 of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) and paragraphs 62 and 73 of Schedule 15 to the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-afed6ae072b2153a07cbe5ef41447520]: Commencement: Art. 19 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-afed6ae072b2153a07cbe5ef41447520]: Commencement: Art. 19 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-d1cd0bfd80dad0a71ac8885f708d9ba4]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2015/794/article/19) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l)
+[^c-d1cd0bfd80dad0a71ac8885f708d9ba4]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2015/794/article/19) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l)
 
 [^f00043]: Footnote: Section 41 was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135) and amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-ae4c6f5d2a8598829979aa46b00676d1]: Commencement: Art. 20 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-ae4c6f5d2a8598829979aa46b00676d1]: Commencement: Art. 20 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-b9c88b0a115cfb37ed4f7e77ff8b9fe0]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2015/794/article/20) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l)
+[^c-b9c88b0a115cfb37ed4f7e77ff8b9fe0]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2015/794/article/20) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l)
 
-[^key-c6c01571765c33953591020b00481d05]: Commencement: Art. 21 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-c6c01571765c33953591020b00481d05]: Commencement: Art. 21 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-4c1d1b3c3176e73f5b16c92e231d7062]: Commencement: [Art. 21(1)-(9)](https://www.legislation.gov.uk/uksi/2015/794/article/21/1), [(11)](https://www.legislation.gov.uk/uksi/2015/794/article/21/11)[(12)](https://www.legislation.gov.uk/uksi/2015/794/article/21/12) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/l)
+[^c-4c1d1b3c3176e73f5b16c92e231d7062]: Commencement: [Art. 21(1)-(9)](https://www.legislation.gov.uk/uksi/2015/794/article/21/1), [(11)](https://www.legislation.gov.uk/uksi/2015/794/article/21/11)[(12)](https://www.legislation.gov.uk/uksi/2015/794/article/21/12) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/l)
 
 [^f00044]: Footnote: Subsection (1A) of section 1 was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
@@ -1483,44 +1483,44 @@ A full impact assessment has not been produced for this instrument as no or no s
 
 [^f00050]: Footnote: Paragraph 1 of Schedule 4 was amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-052f402fb52cb577565788e9b086ba48]: Commencement: [Art. 21(10)](https://www.legislation.gov.uk/uksi/2015/794/article/21/10) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(m)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/m)
+[^c-052f402fb52cb577565788e9b086ba48]: Commencement: [Art. 21(10)](https://www.legislation.gov.uk/uksi/2015/794/article/21/10) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(m)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/m)
 
 [^f00051]: Footnote: Paragraph 5A of Schedule 4 was amended by [S.I. 2014/1011](https://www.legislation.gov.uk/uksi/2014/1011).
 
 [^f00052]: Footnote: Paragraph 5C of Schedule 4 was inserted by [S.I. 2014/1011](https://www.legislation.gov.uk/uksi/2014/1011).
 
-[^key-a079a36f1a9aa26b7b673320b0ce7664]: Commencement: Art. 22 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-a079a36f1a9aa26b7b673320b0ce7664]: Commencement: Art. 22 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-0998c14530ad6b0728db75dd33898151]: Commencement: [Art. 22(1)](https://www.legislation.gov.uk/uksi/2015/794/article/22/1) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(m)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/m)
+[^c-0998c14530ad6b0728db75dd33898151]: Commencement: [Art. 22(1)](https://www.legislation.gov.uk/uksi/2015/794/article/22/1) in force at 3.8.2015 by [S.I. 2015/1579](https://www.legislation.gov.uk/uksi/2015/1579), [art. 2(m)](https://www.legislation.gov.uk/uksi/2015/1579/article/2/m)
 
 [^f00053]: Footnote: Section 35CC was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-0fef7f2afb4d1d88b35627d4e661bc27]: Commencement: [Art. 22(2)](https://www.legislation.gov.uk/uksi/2015/794/article/22/2) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(n)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/n)
+[^c-0fef7f2afb4d1d88b35627d4e661bc27]: Commencement: [Art. 22(2)](https://www.legislation.gov.uk/uksi/2015/794/article/22/2) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(n)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/n)
 
 [^f00054]: Footnote: Paragraph 8 of Schedule 4 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and [S.I. 2014/1011](https://www.legislation.gov.uk/uksi/2014/1011).
 
-[^key-4eded3f0743d8c4769431fe1eb360753]: Commencement: Art. 23 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-4eded3f0743d8c4769431fe1eb360753]: Commencement: Art. 23 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-758dc3807f30e8814d006343200dd483]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2015/794/article/23) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(o)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/o)
+[^c-758dc3807f30e8814d006343200dd483]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2015/794/article/23) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(o)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/o)
 
 [^f00055]: Footnote: Schedule 3A was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135); paragraph 4 was amended by [S.I. 2010/234](https://www.legislation.gov.uk/uksi/2010/234).
 
 [^f00056]: Footnote: Schedule 3B was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135); paragraph 3 was amended by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 
-[^key-de19aeeb895e3307c23441dd71b84d8d]: Commencement: Art. 24 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-de19aeeb895e3307c23441dd71b84d8d]: Commencement: Art. 24 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-aef63f7c95d3aa0709f3b9fbb7f8d32e]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2015/794/article/24) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(o)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/o)
+[^c-aef63f7c95d3aa0709f3b9fbb7f8d32e]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2015/794/article/24) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(o)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/o)
 
-[^key-369deddfac9e9a28bf5b7729c3d38d1d]: Commencement: Art. 25 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-369deddfac9e9a28bf5b7729c3d38d1d]: Commencement: Art. 25 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-c9f4e9bc4cdd1e174de7c668b32ae1ff]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2015/794/article/25) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(o)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/o)
+[^c-c9f4e9bc4cdd1e174de7c668b32ae1ff]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2015/794/article/25) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(o)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/o)
 
 [^f00057]: Footnote: Paragraph 11 of Schedule 4 was amended by [S.I. 2014/1101](https://www.legislation.gov.uk/uksi/2014/1101).
 
-[^key-e42b595b3a3a645d079c40368c581c98]: Commencement: Art. 26 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
+[^c-e42b595b3a3a645d079c40368c581c98]: Commencement: Art. 26 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3)
 
-[^key-12824e629d81ffeb9a47d434a5b860dc]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2015/794/article/26) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(o)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/o)
+[^c-12824e629d81ffeb9a47d434a5b860dc]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2015/794/article/26) in force at 31.12.2015 by [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(o)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/o)
 
-[^key-558b081af6ded79ce1c106d956b17f47]: Commencement: Art. 27 in force at 20.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/794/article/1/2)
+[^c-558b081af6ded79ce1c106d956b17f47]: Commencement: Art. 27 in force at 20.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/794/article/1/2)
 
 [^f00058]: Footnote: [1946 c.36](https://www.legislation.gov.uk/ukpga/1946/36).

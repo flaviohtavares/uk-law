@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Disregard of certain improvements, etc[^key-a39ffd6e7b67eaa5c57be50e8e24e124]
+## 53. Disregard of certain improvements, etc[^c-a39ffd6e7b67eaa5c57be50e8e24e124]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-a39ffd6e7b67eaa5c57be50e8e24e124]: Commencement: Art. 53 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-a39ffd6e7b67eaa5c57be50e8e24e124]: Commencement: Art. 53 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

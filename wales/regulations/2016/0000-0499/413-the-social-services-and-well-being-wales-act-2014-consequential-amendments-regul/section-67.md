@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**67.**[^key-4fa5d9b73383a8ccddfa9d031c82caab] In section 20 (provision of accommodation for children: general)—
+**67.**[^c-4fa5d9b73383a8ccddfa9d031c82caab] In section 20 (provision of accommodation for children: general)—
 
 - (a) in subsection (2)(b) after “prescribed” insert “in regulations made by the Secretary of State”;
 - (b) after subsection (2) insert—
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fa5d9b73383a8ccddfa9d031c82caab]: Commencement: Reg. 67 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-4fa5d9b73383a8ccddfa9d031c82caab]: Commencement: Reg. 67 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

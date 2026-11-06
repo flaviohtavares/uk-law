@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.11. Bind over: refusal or breach[^key-e8784ab1f6b225d9d23026a512253bbc]
+## 31.11. Bind over: refusal or breach[^c-e8784ab1f6b225d9d23026a512253bbc]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8784ab1f6b225d9d23026a512253bbc]: Commencement: [Rule 31.11](https://www.legislation.gov.uk/uksi/2025/909/rule/31.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e8784ab1f6b225d9d23026a512253bbc]: Commencement: [Rule 31.11](https://www.legislation.gov.uk/uksi/2025/909/rule/31.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00782]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 58 was amended by section 17 of, and paragraphs 39 and 40 of Schedule 10 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).

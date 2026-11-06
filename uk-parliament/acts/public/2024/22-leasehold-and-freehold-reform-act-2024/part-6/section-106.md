@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Financial penalties: maximum amounts[^key-566d927cb8a523cd52722b52b6f2a219]
+## 106. Financial penalties: maximum amounts[^c-566d927cb8a523cd52722b52b6f2a219]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-566d927cb8a523cd52722b52b6f2a219]: Commencement: S. 106 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-566d927cb8a523cd52722b52b6f2a219]: Commencement: S. 106 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

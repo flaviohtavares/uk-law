@@ -189,7 +189,7 @@ For the purposes of sections 22 to 26 of the 1995 Act and these Regulations refe
 
 (4) The appointed trustee must furnish any of the information specified in paragraph (2) in writing to any member or prospective member or relevant trade union on request (not being a request made less than 12 months after the last occasion on which such information was furnished to the same person or trade union) within a reasonable period following the request being made.
 
-(5) Where the appointed trustee fails to take all reasonable steps to comply with any requirement imposed upon him by this regulation, the Regulator may by notice in writing[^key-6013699601d19f14ea86275aca1ecc09] require him to pay, within 28 days, a penalty which—
+(5) Where the appointed trustee fails to take all reasonable steps to comply with any requirement imposed upon him by this regulation, the Regulator may by notice in writing[^c-6013699601d19f14ea86275aca1ecc09] require him to pay, within 28 days, a penalty which—
 
 - (a) in the case of an individual, shall not exceed £5,000; and
 - (b) in any other case, shall not exceed £50,000.
@@ -211,7 +211,7 @@ For the purposes of sections 22 to 26 of the 1995 Act and these Regulations refe
 
 (8) Any information which this regulation requires the appointed trustee to furnish as of course to a member who is not in any employment to which the scheme relates shall be deemed to have been so furnished if it was sent to him by post to his last address known to the trustees.
 
-(9)[^key-e52619e45114a346a6acbce10e27770a] The appointed trustee may give any information under this regulation in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (giving information and documents).
+(9)[^c-e52619e45114a346a6acbce10e27770a] The appointed trustee may give any information under this regulation in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (giving information and documents).
 
 ## 14. Revocation
 
@@ -291,9 +291,9 @@ An assessment of the impact on business, charities or the voluntary sector of th
 
 [^c1188984]: Marginal citation: Section 7(1) is amended by sections 319(1) and 320 of, and paragraphs 34 and 36(a) of Schedule 12 and Part 1 of Schedule 13 to, the 2004 Act.
 
-[^key-6013699601d19f14ea86275aca1ecc09]: Textual amendment: Words in reg. 13(5) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/17/2)
+[^c-6013699601d19f14ea86275aca1ecc09]: Textual amendment: Words in reg. 13(5) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/17/2)
 
-[^key-e52619e45114a346a6acbce10e27770a]: Textual amendment: [Reg. 13(9)](https://www.legislation.gov.uk/uksi/2005/703/regulation/13/9) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 12](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/12)
+[^c-e52619e45114a346a6acbce10e27770a]: Textual amendment: [Reg. 13(9)](https://www.legislation.gov.uk/uksi/2005/703/regulation/13/9) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 12](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/12)
 
 [^c1188985]: Marginal citation: [S.I. 1997/252](https://www.legislation.gov.uk/uksi/1997/252), as amended by section 1(2)(a) of the Employment Rights (Dispute Resolution) Act 1998 and [S.I. 1997/3038](https://www.legislation.gov.uk/uksi/1997/3038).
 

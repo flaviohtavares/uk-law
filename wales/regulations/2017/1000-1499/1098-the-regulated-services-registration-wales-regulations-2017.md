@@ -45,22 +45,22 @@ In accordance with section 187(2)(e) of that Act, a draft of this instrument has
 
 ## PART 1 — GENERAL
 
-### 1. Title, commencement and application[^key-70ca5ccd941c8df25cbcfce82e6a007b]
+### 1. Title, commencement and application[^c-70ca5ccd941c8df25cbcfce82e6a007b]
 
 (1) The title of these Regulations is the Regulated Services (Registration) (Wales) Regulations 2017 and they come into force on 1 February 2018.
 
 (2) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-833cb61521e44ec3400f45b3d80da701]
+### 2. Interpretation[^c-833cb61521e44ec3400f45b3d80da701]
 
 (1) In these Regulations—
 
 - “the Act” (“y *Ddeddf* ”) means the Regulation and Inspection of Social Care (Wales) Act 2016;
-- “applicant” (“*ymgeisydd*”) means [^key-c549a95885d17d0d5826f57d04e84597]...—
-  - (a) the person making an application for registration as a service provider in accordance with section 6 of the Act, [^key-d0462df175bd18cc21c88e69db9be2d4]...
-  - (b) the person making an application for variation of registration in accordance with section 11 of the Act , or[^key-bc1e3081d0a73a17a81b524cdedea16b]
-  - (c) the person making an application under section 6C of, and paragraph (4) of Schedule 1A to, the Act, for the provider’s registration, in respect of the existing service, to be subject to the requirement in section 6A(1) of the Act;[^key-955e5f81afcb9a6ec6a7c923670eb560]
-- “[^key-d05c30e57ac7f41673e7810bb93623ac]**charitable company limited by guarantee without a share capital**” (“***cwmni elusennol cyfyngedig drwy warant heb gyfalaf cyfrannau***”) has the meaning given in section 6B(2) of the Act;
+- “applicant” (“*ymgeisydd*”) means [^c-c549a95885d17d0d5826f57d04e84597]...—
+  - (a) the person making an application for registration as a service provider in accordance with section 6 of the Act, [^c-d0462df175bd18cc21c88e69db9be2d4]...
+  - (b) the person making an application for variation of registration in accordance with section 11 of the Act , or[^c-bc1e3081d0a73a17a81b524cdedea16b]
+  - (c) the person making an application under section 6C of, and paragraph (4) of Schedule 1A to, the Act, for the provider’s registration, in respect of the existing service, to be subject to the requirement in section 6A(1) of the Act;[^c-955e5f81afcb9a6ec6a7c923670eb560]
+- “[^c-d05c30e57ac7f41673e7810bb93623ac]**charitable company limited by guarantee without a share capital**” (“***cwmni elusennol cyfyngedig drwy warant heb gyfalaf cyfrannau***”) has the meaning given in section 6B(2) of the Act;
 - “**charitable incorporated organisation**” (“***sefydliad elusennol corfforedig***”) has the meaning given in section 6B(3) of the Act;
 - “**charitable registered society**” (“***cymdeithas gofrestredig elusennol***”) has the meaning given in section 6B(4) of the Act;
 - “**community interest company limited by guarantee without a share capital**” (“***cwmni buddiant cymunedol cyfyngedig drwy warant heb gyfalaf cyfrannau***”) has the meaning given in section 6B(5) of the Act;
@@ -77,16 +77,16 @@ In accordance with section 187(2)(e) of that Act, a draft of this instrument has
 
 ## PART 2 — Application for Registration as a Service Provider
 
-### 3. Information to be provided by an applicant[^key-ee66a12134de8c286ce0652b07b7da4d]
+### 3. Information to be provided by an applicant[^c-ee66a12134de8c286ce0652b07b7da4d]
 
 A person who wants to provide a regulated service[^f00002] must, in addition to the information set out in section 6(1)(a) to (c) provide the Welsh Ministers with the following—
 
 - (a) the information listed in Schedule 1;
-- (b) in respect of applicants for registration as the provider of a care home service, a secure accommodation service , special school residential service[^key-79a485b881199fd6049a955ae4847a4f] or a residential family centre service, a statement of purpose for each place at which the service is to be provided;
-- (c) in respect of applicants for registration as the provider of an adoption service, a fostering service, an adult placement service or an advocacy service, a statement of purpose for each place in relation to[^key-016429b1481067f2b796f4ee16222a22] which the service is to be provided;
+- (b) in respect of applicants for registration as the provider of a care home service, a secure accommodation service , special school residential service[^c-79a485b881199fd6049a955ae4847a4f] or a residential family centre service, a statement of purpose for each place at which the service is to be provided;
+- (c) in respect of applicants for registration as the provider of an adoption service, a fostering service, an adult placement service or an advocacy service, a statement of purpose for each place in relation to[^c-016429b1481067f2b796f4ee16222a22] which the service is to be provided;
 - (d) in respect of applicants for registration as the provider of a domiciliary support service, a statement of purpose for each place in relation to which the service is to be provided.
 
-### 3A.[^key-8c1a30f6eccaa24f919358ac6be37ace]
+### 3A.[^c-8c1a30f6eccaa24f919358ac6be37ace]
 
 (1) This regulation applies where the applicant, within the meaning of paragraph (a) of the definition of “applicant” in regulation 2, is an organisation.
 
@@ -106,7 +106,7 @@ A person who wants to provide a regulated service[^f00002] must, in addition to 
 - (b) where the organisation is an unincorporated body, each person who is concerned in the management and control of the body,
 - (c) where the organisation is a partnership, each partner.
 
-### 3B.[^key-4a3394cdbb964f4bed83e08f82b6a1bd]
+### 3B.[^c-4a3394cdbb964f4bed83e08f82b6a1bd]
 
 (1) This regulation applies where the application is an application to register to provide a service which is a restricted children’s service.
 
@@ -119,39 +119,39 @@ A person who wants to provide a regulated service[^f00002] must, in addition to 
 - (c) it appears to the Welsh Ministers that the intention of the applicant is to take over the provision of the restricted children’s service at, from or in relation to the place where it is being provided, under an agreement with the existing provider, and
 - (d) the Welsh Ministers consider that it is appropriate to waive the requirement, having regard to information which the Welsh Ministers hold about the existing provider.
 
-### 4.[^key-2cb8a0ed0b7bc896800b2ab509b740a9]
+### 4.[^c-2cb8a0ed0b7bc896800b2ab509b740a9]
 
 The statement of purpose which is required to be provided in accordance with regulation 3(b), (c) or (d) must contain the information described in Schedule 2.
 
-### 5. Form of application[^key-7af5a7be0391a7944fa9f5b1541c6ce9]
+### 5. Form of application[^c-7af5a7be0391a7944fa9f5b1541c6ce9]
 
 An application for registration as a service provider must be in the form of an on-line application which is accessed from the pages of the website maintained by the Welsh Government which have been established for the purpose of informing applicants about the procedure for registration under Part 1 of the Act.
 
 ## PART 3 — Application for variation of registration as a service provider
 
-### 6. Information to be provided by a service provider for variation of registration – section 11(1)(a)(i) and (ii)[^key-5c9879e952052b1d6ba7843d1f25d47d]
+### 6. Information to be provided by a service provider for variation of registration – section 11(1)(a)(i) and (ii)[^c-5c9879e952052b1d6ba7843d1f25d47d]
 
 An application for variation of registration made pursuant to section 11(1)(a)(i) must, in addition to the information set out in section 11(3)(a)(i) and, where appropriate, section 11(3)(a)(ii), contain the following—
 
 - (a) the information listed in Schedule 1;
-- (b) in respect of applications for variation of registration to provide a care home service, a secure accommodation service , special school residential service[^key-5a569da090463febe63b332cec918aa7] or a residential family centre service, a statement of purpose for each place at which the service is to be provided;
-- (c) in respect of applications for variation of registration to provide an adoption service, a fostering service, an adult placement service or an advocacy service, a statement of purpose for each place in relation to[^key-c9ee6eaaf556ac6c0e62ae3c43760b9e] which the service is to be provided;
+- (b) in respect of applications for variation of registration to provide a care home service, a secure accommodation service , special school residential service[^c-5a569da090463febe63b332cec918aa7] or a residential family centre service, a statement of purpose for each place at which the service is to be provided;
+- (c) in respect of applications for variation of registration to provide an adoption service, a fostering service, an adult placement service or an advocacy service, a statement of purpose for each place in relation to[^c-c9ee6eaaf556ac6c0e62ae3c43760b9e] which the service is to be provided;
 - (d) in respect of applications for variation of registration to provide a domiciliary support service, a statement of purpose for each place in relation to which the service is to be provided.
 
-### 7.[^key-6bae2d752393aecc6e37a93fe4a66792]
+### 7.[^c-6bae2d752393aecc6e37a93fe4a66792]
 
 An application for variation of registration made pursuant to section 11(1)(a)(ii) must, in addition to the information set out in section 11(3)(a)(i), contain the following—
 
 - (a) the information listed in Schedule 1;
-- (b) in respect of an application for variation of registration to provide a care home service, a secure accommodation service , special school residential service[^key-e9a7fcb4fbea434cf695355ebb1db620] or a residential family centre service at a place which is not already specified in the provider’s registration in relation to that service, a statement of purpose for that place;
+- (b) in respect of an application for variation of registration to provide a care home service, a secure accommodation service , special school residential service[^c-e9a7fcb4fbea434cf695355ebb1db620] or a residential family centre service at a place which is not already specified in the provider’s registration in relation to that service, a statement of purpose for that place;
 - (c) in respect of an applications for variation of registration to provide an adoption service, a fostering service, an adult placement service or an advocacy service in relation to[^M_F_c3b65fc8-6c8d-4a5d-ba89-ab9df7813401] a place which is not already specified in the provider’s registration in relation to that service, a statement of purpose for that place;
 - (d) in respect of an application for variation of registration as the provider of a domiciliary support service in relation to a place which is not already specified in the provider’s registration in relation to that service, a statement of purpose for that place.
 
-### 8.[^key-3d4e13ac0f68f40d0c78c4e154ac3c81]
+### 8.[^c-3d4e13ac0f68f40d0c78c4e154ac3c81]
 
 The statement of purpose which is required to be provided in accordance with regulation 6(b), (c) or (d) or in accordance with regulation 7(b), (c) or (d) must contain the information described in Schedule 2.
 
-### 9. Information to be provided by a service provider for variation – section 11(1)(a)(iii) and (iv)[^key-2518090d91e6fa2ef56af4609c499a34]
+### 9. Information to be provided by a service provider for variation – section 11(1)(a)(iii) and (iv)[^c-2518090d91e6fa2ef56af4609c499a34]
 
 (1) An application for variation of registration made pursuant to section 11(1)(a)(iii) or (iv) must, in addition to the information set out in section 11(3)(a)(i), contain the following—
 
@@ -167,7 +167,7 @@ The statement of purpose which is required to be provided in accordance with reg
 
 (2) For the purpose of this regulation and regulation 10 “proposed effective date” means the date requested by the service provider as the date on which the variation applied for is to take effect.
 
-### 10. Information to be provided by a service provider for variation – section 11(1)(b)[^key-fa918829b78bc36583c4b30d5a96a009]
+### 10. Information to be provided by a service provider for variation – section 11(1)(b)[^c-fa918829b78bc36583c4b30d5a96a009]
 
 An application for variation of registration made pursuant to section 11(1)(b) must, in addition to the information set out in section 11(3)(a)(i), contain the following—
 
@@ -178,25 +178,25 @@ An application for variation of registration made pursuant to section 11(1)(b) m
   - (ii) any additional staffing, facilities or equipment or changes to the management that are required to ensure that the proposed changes are carried into effect;
 - (d) any supporting documentation which the service provider considers will assist the Welsh Ministers in making a decision whether to approve the application to vary or remove a condition.
 
-### 11. Information to be provided by a service provider for variation – section 11(1)(c)[^key-7d618ab9facaa568c9ce759e6d2bbc7c]
+### 11. Information to be provided by a service provider for variation – section 11(1)(c)[^c-7d618ab9facaa568c9ce759e6d2bbc7c]
 
 An application for variation of registration made pursuant to section 11(1)(c) must, in addition to the information set out in section 11(3)(a)(i), contain the information listed in paragraphs 23 to 28 and paragraphs 38 to 49 of Schedule 1.
 
-### 11A. Information to be provided by a service provider for variation – section 6C and paragraph 4 of Schedule 1A[^key-187a801b2814ab2107133ec44cd89aae]
+### 11A. Information to be provided by a service provider for variation – section 6C and paragraph 4 of Schedule 1A[^c-187a801b2814ab2107133ec44cd89aae]
 
 An application for variation of registration made pursuant to section 6C of, and paragraph 4 of Schedule 1A to, the Act must contain the information listed in paragraphs 7 and 7A of Schedule 1 to these Regulations.
 
-### 12. Form of application[^key-449a71017fde8e2387e6cb2a17291eb5]
+### 12. Form of application[^c-449a71017fde8e2387e6cb2a17291eb5]
 
 (1) An application for variation of registration as a service provider must be made in the form of an on-line application which is accessed from the pages of the website maintained by the Welsh Government which have been established for the purposes of informing service providers about the procedure for variation of registration under Part 1 of the Act.
 
 (2) Paragraph (1) also applies to an application for variation of registration made pursuant to section 6C of, and paragraph (4) of Schedule 1A to, the Act.
 
-### 13. Time limit within which application to vary must be made where there is no designated responsible individual[^key-8354561c489aaa3693600e6547cb7e0b]
+### 13. Time limit within which application to vary must be made where there is no designated responsible individual[^c-8354561c489aaa3693600e6547cb7e0b]
 
 The time limit prescribed for the purposes of section 11(2) is 28 days from the date upon which there is no individual designated as responsible individual in respect of the regulated service or place at, from or in relation to which the regulated service is provided.
 
-## PART 4 — Application for cancellation of registration as a service provider[^key-10a28d8ab6d0be81249cb212d0b1ed53]
+## PART 4 — Application for cancellation of registration as a service provider[^c-10a28d8ab6d0be81249cb212d0b1ed53]
 
 ### 14. Information to be provided by a service provider for cancellation of registration - section 14(1)
 
@@ -225,23 +225,23 @@ Minister for Children and Social Care, under authority of the Cabinet Secretary 
 
 Regulations 3, 6, 7 and 11
 
-### 1. Information required about the applicant where the applicant is an individual[^key-d17595bc594e52ab96a4939581b2efdc]
+### 1. Information required about the applicant where the applicant is an individual[^c-d17595bc594e52ab96a4939581b2efdc]
 
 The applicant’s full name, date of birth, home address, electronic mail address and telephone number.
 
-### 2.[^key-0920438f6ad96e38bd7cac40149b5d01]
+### 2.[^c-0920438f6ad96e38bd7cac40149b5d01]
 
 Details of the applicant’s professional or technical qualifications and experience so far as such qualifications and experience are relevant to providing the regulated service or services in respect of which the applicant is applying to be registered as a service provider.
 
-### 3.[^key-a31c481b6c2bf787cbc324a341ba4e01]
+### 3.[^c-a31c481b6c2bf787cbc324a341ba4e01]
 
 Details of the applicant’s employment history, including the name and address of his or her present employer and of any previous employers.
 
-### 4.[^key-ac2e28cb3461de3e43e511ed6b4d4d3f]
+### 4.[^c-ac2e28cb3461de3e43e511ed6b4d4d3f]
 
 Details of any business the applicant carries on or has carried on.
 
-### 5.[^key-1333f8bce48463e74257546a4cd932e9]
+### 5.[^c-1333f8bce48463e74257546a4cd932e9]
 
 The name and addresses of two referees—
 
@@ -249,7 +249,7 @@ The name and addresses of two referees—
 - (b) each of whom is able to provide a reference as to the applicant’s competence to provide the regulated service or services that the applicant has applied to provide; and
 - (c) one of whom has employed the applicant for a period of at least 3 months unless it is not practicable to obtain such a reference.
 
-### 6.[^key-c5a75ee947def3f42db623b697993611]
+### 6.[^c-c5a75ee947def3f42db623b697993611]
 
 Details as to whether the applicant—
 
@@ -258,7 +258,7 @@ Details as to whether the applicant—
 - (c) is subject to a moratorium period under a debt relief order (within the meaning of section 251A of the Insolvency Act 1986); or
 - (d) has made a composition or arrangement with creditors and has not been discharged in respect of the composition or arrangement.
 
-### 7. Information required about the applicant where the applicant is an organisation[^key-a67c1acc8d5b2bdc7dc61b27d9fade3f]
+### 7. Information required about the applicant where the applicant is an organisation[^c-a67c1acc8d5b2bdc7dc61b27d9fade3f]
 
 (1) Where the organisation is a body corporate other than a local authority or Local Health Board—
 
@@ -280,7 +280,7 @@ Details as to whether the applicant—
 
 (2) In this paragraph, “**exempt charity**” has the meaning given in section 22 of the Charities Act 2011.
 
-### 7A.[^key-f04bb6934399bac2a065fcdeb9f2cfef]
+### 7A.[^c-f04bb6934399bac2a065fcdeb9f2cfef]
 
 Where the organisation is a not-for-profit entity and the application relates to a regulated service that is a restricted children’s service—
 
@@ -289,7 +289,7 @@ Where the organisation is a not-for-profit entity and the application relates to
   - (i) evidence of registration with the Financial Conduct Authority, and
   - (ii) evidence that the Commissioners for His Majesty’s Revenue and Customs have recognised that the organisation is a charity for the purposes of any relief or exemption under an enactment relating to taxation.
 
-### 8.[^key-49d1a466bd02382486151cecd92dc98d]
+### 8.[^c-49d1a466bd02382486151cecd92dc98d]
 
 Where the organisation is a local authority—
 
@@ -297,7 +297,7 @@ Where the organisation is a local authority—
 - (b) the electronic mail address and telephone number of the authority;
 - (c) details of the leader of the Council and the Director of Social Services.
 
-### 9.[^key-db5edfd02b5ac0e1fd3a66d94ee4c32d]
+### 9.[^c-db5edfd02b5ac0e1fd3a66d94ee4c32d]
 
 Where the organisation is a Local Health Board—
 
@@ -305,7 +305,7 @@ Where the organisation is a Local Health Board—
 - (b) the electronic mail address and telephone number of the Board;
 - (c) details of the chairperson and chief executive.
 
-### 10.[^key-ef9e4cedfcfaa36d27e698f78826e6e8]
+### 10.[^c-ef9e4cedfcfaa36d27e698f78826e6e8]
 
 Where the organisation is a partnership—
 
@@ -313,7 +313,7 @@ Where the organisation is a partnership—
 - (b) the address of the principal office of the partnership;
 - (c) the electronic mail address and telephone number of the partnership.
 
-### 11.[^key-a6a42cc3ec0561d0c05f2cfbddfcc556]
+### 11.[^c-a6a42cc3ec0561d0c05f2cfbddfcc556]
 
 Where the organisation is an unincorporated body—
 
@@ -321,62 +321,62 @@ Where the organisation is an unincorporated body—
 - (b) the address of the principal office of the body;
 - (c) the electronic mail address and telephone number of the body.
 
-### 12.[^key-bb7107c8bc5b51f7c009ce8705d2af25]
+### 12.[^c-bb7107c8bc5b51f7c009ce8705d2af25]
 
 In all cases where the applicant is an organisation, information about the governance arrangements of the organisation, including details of any delegations of the responsibilities of the organisation.
 
-### 13. Information required about all applicants[^key-d2e5c4f77e5a367c477ace85eabd09b2]
+### 13. Information required about all applicants[^c-d2e5c4f77e5a367c477ace85eabd09b2]
 
 Details of any previous applications for registration as a service provider under the Act.
 
-### 14.[^key-5372365ae58c8fcbb4c8e93a114e8dcc]
+### 14.[^c-5372365ae58c8fcbb4c8e93a114e8dcc]
 
 Details of any registrations as a service provider under the Act.
 
-### 15.[^key-a3d4d8f2a9ab021817051fa981f84e6a]
+### 15.[^c-a3d4d8f2a9ab021817051fa981f84e6a]
 
 Details of any previous application for registration under Part 2 of the Care Standards Act 2000.
 
-### 16.[^key-000859c11c514b710726361e4c19d036]
+### 16.[^c-000859c11c514b710726361e4c19d036]
 
 Details of any registrations under Part 2 of the Care Standards Act 2000.
 
-### 17.[^key-e8ed11673a039715b30ae4a8599cf13c]
+### 17.[^c-e8ed11673a039715b30ae4a8599cf13c]
 
 Details of any previous applications for registration as a service provider under the Health and Social Care Act 2008.
 
-### 18.[^key-213cd47091d5d2eac092bc8852b3104e]
+### 18.[^c-213cd47091d5d2eac092bc8852b3104e]
 
 Details of any registrations as a service provider under the Health and Social Care Act 2008.
 
-### 19.[^key-a4bf96bfa4e377c6e4cdee0c5d67101e]
+### 19.[^c-a4bf96bfa4e377c6e4cdee0c5d67101e]
 
 Details of any previous applications for registration as a person providing a care service under Part 5 of the Public Services Reform (Scotland) Act 2010.
 
-### 20.[^key-9a170239083fbc3a09ac316a6e988854]
+### 20.[^c-9a170239083fbc3a09ac316a6e988854]
 
 Details of any registrations as a person providing a care service under Part 5 of the Public Services Reform (Scotland) Act 2010.
 
-### 21.[^key-0b3161399401a67f316776c892158910]
+### 21.[^c-0b3161399401a67f316776c892158910]
 
 Details of any previous applications for registration under Part 3 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003.
 
-### 22.[^key-1a34bbecf267a47a1ae371c23d98da5d]
+### 22.[^c-1a34bbecf267a47a1ae371c23d98da5d]
 
 Details of any registrations under Part 3 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003.
 
-### 23. Information required in respect of each individual designated by the applicant to be a responsible individual[^key-0bb15b4fa7d8801aac29108b109172d3]
+### 23. Information required in respect of each individual designated by the applicant to be a responsible individual[^c-0bb15b4fa7d8801aac29108b109172d3]
 
 Date of birth, telephone number, correspondence address and electronic mail address of each individual designated by the applicant to be a responsible individual.
 
-### 24.[^key-65f6d3a8be37464f1db5181c7e4ee3a3]
+### 24.[^c-65f6d3a8be37464f1db5181c7e4ee3a3]
 
 Details of the professional or technical qualifications and experience of each individual designated by the applicant to be a responsible individual so far as such qualifications and experience are relevant to—
 
 - (a) the performance and functions of the responsible individual conferred by the regulations under section 28; and
 - (b) the service to be provided at the place in respect of which the responsible individual is designated.
 
-### 25.[^key-9dc8c05f131c06555f728fe8db5d7174]
+### 25.[^c-9dc8c05f131c06555f728fe8db5d7174]
 
 Details as to whether each individual designated by the applicant to be a responsible individual—
 
@@ -385,15 +385,15 @@ Details as to whether each individual designated by the applicant to be a respon
 - (c) is subject to a moratorium period under a debt relief order (within the meaning of section 251A of the Insolvency Act 1986); or
 - (d) has made a composition or arrangement with creditors and has not been discharged in respect of the composition or arrangement.
 
-### 26.[^key-99a7893e2ebad91942e4e945fddff542]
+### 26.[^c-99a7893e2ebad91942e4e945fddff542]
 
 Details of the employment history of each individual designated by the applicant to be the responsible individual, including the name and address of his or her present employer and of any previous employers.
 
-### 27.[^key-c72bfe4ce64c0068a0e921f2077ccd32]
+### 27.[^c-c72bfe4ce64c0068a0e921f2077ccd32]
 
 Details of any business which is being carried on or has been carried on by each individual designated by the applicant to be the responsible individual.
 
-### 28.[^key-c60767691c0b61c9377eef1e5c058616]
+### 28.[^c-c60767691c0b61c9377eef1e5c058616]
 
 In respect of each individual designated by the applicant to be the responsible individual, the name and addresses of two referees—
 
@@ -401,27 +401,27 @@ In respect of each individual designated by the applicant to be the responsible 
 - (b) each of whom is able to provide a reference as to the individual’s competence to perform the duties of a responsible individual for the place or places in respect of which the individual has been designated by the applicant to be the responsible individual; and
 - (c) one of whom has employed the individual for a period of at least 3 months unless it is not practicable to obtain such a reference.
 
-### 29. Information about the service to be provided[^key-5089db2962c5b8fd3b5c3b98e26a5a74]
+### 29. Information about the service to be provided[^c-5089db2962c5b8fd3b5c3b98e26a5a74]
 
 Details of the scale of charges that are intended to be payable by service users.
 
-### 30.[^key-c90a67875066894fd465dc3cdcc55512]
+### 30.[^c-c90a67875066894fd465dc3cdcc55512]
 
-In the case of a care home service, secure accommodation service , special school residential service[^key-66c913b61ac6fc5a6e5c72787347177f] or residential family centre service, the date on which it is intended to begin providing the service at each place specified in the application.
+In the case of a care home service, secure accommodation service , special school residential service[^c-66c913b61ac6fc5a6e5c72787347177f] or residential family centre service, the date on which it is intended to begin providing the service at each place specified in the application.
 
-### 31.[^key-c77eb747c469510b81f03e05b79507fc]
+### 31.[^c-c77eb747c469510b81f03e05b79507fc]
 
 In the case of a domiciliary support service, the date on which it is intended to begin providing the service in relation to each place specified in the application.
 
-### 31A.[^key-e74f5c8ab44e05cd8f2d52e412ffef93]
+### 31A.[^c-e74f5c8ab44e05cd8f2d52e412ffef93]
 
 In the case of an adoption service, a fostering service, an adult placement service or an advocacy service, the date on which it is intended to begin providing the service in relation to each place specified in the application.
 
-### 32. Information about the accommodation at which the service is to be provided[^key-2fb8185279779e4010fac50cfeb57157]
+### 32. Information about the accommodation at which the service is to be provided[^c-2fb8185279779e4010fac50cfeb57157]
 
-Where the applicant is seeking to provide a care home service[^f00009], a secure accommodation service[^f00010] , special school residential service[^key-1e84928405743dac9aa54114241e92f6] or a residential family centre service[^f00011]—
+Where the applicant is seeking to provide a care home service[^f00009], a secure accommodation service[^f00010] , special school residential service[^c-1e84928405743dac9aa54114241e92f6] or a residential family centre service[^f00011]—
 
-- (a) the proposed name, address , electronic mail address[^key-5e568efe0227c0deb767da6d986da107] and telephone number of the premises at which it is intended to provide the regulated service;
+- (a) the proposed name, address , electronic mail address[^c-5e568efe0227c0deb767da6d986da107] and telephone number of the premises at which it is intended to provide the regulated service;
 - (b) a description of the premises, including a statement as to whether the premises are purpose-built or have been or are intended to be converted for use as the place at which the service is to be provided;
 - (c) evidence of the following—
   - (i) a completed risk assessment as required under the Regulatory Reform (Fire Safety) Order 2005[^f00012];
@@ -432,11 +432,11 @@ Where the applicant is seeking to provide a care home service[^f00009], a secure
 - (e) details of any other business that is or will be provided at the same premises at which it is intended that the regulated service will be provided;
 - (f) details and documentary evidence of ownership status of the building including, if leased or rented, the length of any notice period.
 
-### 33. Information about the offices from which the service is to be provided[^key-cd88d23fc35d2838b66f016bee36681b]
+### 33. Information about the offices from which the service is to be provided[^c-cd88d23fc35d2838b66f016bee36681b]
 
 Where the applicant is seeking to provide an adoption service, a fostering service, an adult placement service, an advocacy service or a domiciliary support service, the address, telephone number and electronic mail address of the office or offices from which the service is to be provided.
 
-### 34. Documents required from the applicant[^key-fac011432a6f22d6f74cfe24840296d0]
+### 34. Documents required from the applicant[^c-fac011432a6f22d6f74cfe24840296d0]
 
 Where the applicant is an individual—
 
@@ -451,11 +451,11 @@ Where the applicant is an individual—
 
   For the purposes of this sub-paragraph and for the purposes of paragraph 43, “the appointed day” means the day on which section 30A of the Safeguarding Vulnerable Groups Act 2006 comes into force.
 
-### 35.[^key-ad4a8d3f4ef42429397dc5b53747497a]
+### 35.[^c-ad4a8d3f4ef42429397dc5b53747497a]
 
 Where the applicant is an organisation other than a local authority or Local Health Board, the last two annual reports and accounts, if any.
 
-### 36.[^key-74c6af76ef52d4c7015600aeff05fe88]
+### 36.[^c-74c6af76ef52d4c7015600aeff05fe88]
 
 In respect of applicants other than local authorities and Local Health Boards—
 
@@ -463,70 +463,70 @@ In respect of applicants other than local authorities and Local Health Boards—
 - (b) a reference from a bank expressing an opinion as to the applicant’s financial standing;
 - (c) details as to projected cash flow in respect of the individual or organisation applying to be registered as a service provider.
 
-### 37.[^key-6456b08967c58319f07cbd2a449920dd]
+### 37.[^c-6456b08967c58319f07cbd2a449920dd]
 
 In respect of all applicants, a certificate of insurance in respect of liability which may be incurred in respect of death, injury, public liability, damage or other loss.
 
-### 38. Documents required in respect of each individual designated by the applicant as a responsible individual.[^key-6de5d7038995717f0e5e75d6566ea874]
+### 38. Documents required in respect of each individual designated by the applicant as a responsible individual.[^c-6de5d7038995717f0e5e75d6566ea874]
 
 Evidence of the person’s identity to include a photograph.
 
-### 39.[^key-40b097d59e99cc42a5ac41e68ad892d8]
+### 39.[^c-40b097d59e99cc42a5ac41e68ad892d8]
 
 Documentary evidence of all qualifications the applicant has provided details about in paragraph 24 of this Schedule.
 
-### 40.[^key-0ad218e2b03d4632211ef94196c9455a]
+### 40.[^c-0ad218e2b03d4632211ef94196c9455a]
 
 Subject to paragraph 41 a report by a general medical practitioner as to whether the responsible individual is physically and mentally fit to comply with their duties in regulations under section 28.
 
-### 41.[^key-a85a8cb8aefea076a99da3c767c09be8]
+### 41.[^c-a85a8cb8aefea076a99da3c767c09be8]
 
 Where the responsible individual is unable to obtain the report referred to in paragraph 40 a statement by the responsible individual as to the state of his or her physical and mental health.
 
-### 42.[^key-f481f10bae768467fad67e31750899fa]
+### 42.[^c-f481f10bae768467fad67e31750899fa]
 
 Where required for the purposes of an exempted question asked for a prescribed purpose under section 113B(2)(b) of the Police Act 1997, a copy of an enhanced criminal record certificate issued under section 113B of that Act together with, where applicable, suitability information relating to children or vulnerable adults.
 
-### 43.[^key-90a7a09993cfcd989f455a42766c084b]
+### 43.[^c-90a7a09993cfcd989f455a42766c084b]
 
 Where required for the purposes of an exempted question in accordance with section 113A(2)(b) of the Police Act 1997, a copy of a criminal record certificate issued under section 113A of that Act together with, after the appointed day and where applicable, the information mentioned in section 30A(3) of the Safeguarding Vulnerable Groups Act 2006 (provision of barring information on request).
 
-### 44.[^key-b60b4505f604a65899a22c55570fa9ba]
+### 44.[^c-b60b4505f604a65899a22c55570fa9ba]
 
 In relation to an applicant who is a body corporate other than a local authority, a signed declaration by each of the persons mentioned in paragraph 45 to the effect that they have read and understood the requirements imposed on responsible individuals by regulations under section 28 and that they intend to support the individual designated as responsible individual in the exercise of their duties as set out in those regulations.
 
-### 45.[^key-a0b9499b4b06e7b7149cb94e1f9f1369]
+### 45.[^c-a0b9499b4b06e7b7149cb94e1f9f1369]
 
 Those persons are—
 
 - (a) any person who has been appointed as a director, manager or secretary of the body corporate;
-- (b) any person who has been appointed as a trustee of the body corporate ;[^key-5c86683693efc14d0b43c172cb7ab683]
-- (c)[^key-50c8570e8d9676a7e1a0b933df3723b6] any person who is a member of the managing committee of the body corporate.
+- (b) any person who has been appointed as a trustee of the body corporate ;[^c-5c86683693efc14d0b43c172cb7ab683]
+- (c)[^c-50c8570e8d9676a7e1a0b933df3723b6] any person who is a member of the managing committee of the body corporate.
 
-### 46.[^key-37d865f78c36e11135b12037f9acb718]
+### 46.[^c-37d865f78c36e11135b12037f9acb718]
 
 In relation to an applicant who is a local authority, a signed declaration by the person described in paragraph 47 to the effect that they have read and understood the requirements imposed on responsible individuals by regulations under section 28 and that they intend to support the individual designated as responsible individual in the exercise of their duties as set out in those regulations.
 
-### 47.[^key-e6386e223bdcc4bc5061251929191139]
+### 47.[^c-e6386e223bdcc4bc5061251929191139]
 
 The person is either—
 
 - (a) the director of social services of the authority, or
 - (b) if the director of social services is the responsible individual, the chief executive of the authority.
 
-### 48.[^key-21d33412afc29f25a6f99d14dda1a2e5]
+### 48.[^c-21d33412afc29f25a6f99d14dda1a2e5]
 
-In relation to an applicant who is an unincorporated body, a signed declaration[^key-4abb460ff595c864eae68aaedf6b71cb] by each of those persons who are concerned in the management and control of the body to the effect that they have read and understood the requirements imposed on responsible individuals by regulations under section 28 and that they intend to support the individual designated as responsible individual in the exercise of their duties as set out in those regulations.
+In relation to an applicant who is an unincorporated body, a signed declaration[^c-4abb460ff595c864eae68aaedf6b71cb] by each of those persons who are concerned in the management and control of the body to the effect that they have read and understood the requirements imposed on responsible individuals by regulations under section 28 and that they intend to support the individual designated as responsible individual in the exercise of their duties as set out in those regulations.
 
-### 49.[^key-0ee85b1515af8147e3851c5fa99fe3cf]
+### 49.[^c-0ee85b1515af8147e3851c5fa99fe3cf]
 
 In relation to an applicant who is a partnership, a signed declaration by each partner to the effect that they have read and understood the requirements imposed on responsible individuals by regulations under section 28 and that they intend to support the individual designated as responsible individual in the exercise of their duties as set out in those regulations.
 
-## SCHEDULE 2 — Information required to be contained in a statement of purpose[^key-f99aacbbba9a4e3a34a2f8d5d74ef260]
+## SCHEDULE 2 — Information required to be contained in a statement of purpose[^c-f99aacbbba9a4e3a34a2f8d5d74ef260]
 
 Regulations 4 and 8
 
-[^key-f99aacbbba9a4e3a34a2f8d5d74ef260]
+[^c-f99aacbbba9a4e3a34a2f8d5d74ef260]
 
 The information that is required to be contained in a statement of purpose is as follows—
 
@@ -539,18 +539,18 @@ The information that is required to be contained in a statement of purpose is as
   - (ii) the area in relation to which the service is provided;
   - (iii) the addresses of the office or offices from which the service will be provided;
   - (iv) the addresses of any other office or offices which are used in connection with the provision of the service;
-- (ea)[^key-0333f6de6416a10961b28792b7ccbe6b] in the case of an adoption service, a fostering service, an adult placement service or an advocacy service—
+- (ea)[^c-0333f6de6416a10961b28792b7ccbe6b] in the case of an adoption service, a fostering service, an adult placement service or an advocacy service—
   - (i) the name of the service;
   - (ii) the area in relation to which the service is provided;
   - (iii) the addresses of the office or offices from which the service will be provided;
   - (iv) the addresses of any other office or offices which are used in connection with the provision of the service;
-- (eb)[^key-87e40c3e559f99c201b8a5ba5fdf73c7] in the case of a special school residential service, a description of how the arrangements for the provision of education and the arrangements for the provision of the residential service are coordinated;
+- (eb)[^c-87e40c3e559f99c201b8a5ba5fdf73c7] in the case of a special school residential service, a description of how the arrangements for the provision of education and the arrangements for the provision of the residential service are coordinated;
 - (f) the name of the individual designated by the applicant as the responsible individual for the place at, from or in relation to which the service is to be provided;
 - (g) a statement of the range of needs of the individuals for whom the regulated service is to be provided to include the age range, number and sex of such individuals;
 - (h) how the service is to be provided to meet the needs of individuals and support them to achieve their personal outcomes, as required by regulations under section 27 and taking into account the range of needs set out in the statement of purpose (see paragraph (g));
 - (i) details of the proposed management and staffing structure of the service;
 - (j) details of the premises, facilities and equipment that will be available to individuals in accordance with the requirements of the regulations made under section 27 and taking into account the range of needs set out in the statement of purpose (see paragraph (g));
-- (k) in the case of a care home service, a secure accommodation service , special school residential service[^key-313b9fc9127610e063ff1f196cdee945] or a residential family centre service, a description of the area in which the service is located and the community facilities and services available there;
+- (k) in the case of a care home service, a secure accommodation service , special school residential service[^c-313b9fc9127610e063ff1f196cdee945] or a residential family centre service, a description of the area in which the service is located and the community facilities and services available there;
 - (l) details of the arrangements made to support the cultural, linguistic and religious needs of the individuals;
 - (m) details of the arrangements made for consulting individuals about the operation of the regulated service;
 - (n) details of how the provider will meet individuals language and communication needs, including through the medium of Welsh;
@@ -588,194 +588,194 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 2](https://www.legislation.gov.uk/anaw/2016/2).
 
-[^key-70ca5ccd941c8df25cbcfce82e6a007b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-70ca5ccd941c8df25cbcfce82e6a007b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-833cb61521e44ec3400f45b3d80da701]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/1098/regulation/2) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-833cb61521e44ec3400f45b3d80da701]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/1098/regulation/2) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-c549a95885d17d0d5826f57d04e84597]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/2/1) omitted (1.4.2026) by virtue of [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/wsi/2026/38/regulation/4/a/i)
+[^c-c549a95885d17d0d5826f57d04e84597]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/2/1) omitted (1.4.2026) by virtue of [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/wsi/2026/38/regulation/4/a/i)
 
-[^key-d0462df175bd18cc21c88e69db9be2d4]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/2/1) omitted (1.4.2026) by virtue of [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/wsi/2026/38/regulation/4/a/ii)
+[^c-d0462df175bd18cc21c88e69db9be2d4]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/2/1) omitted (1.4.2026) by virtue of [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/wsi/2026/38/regulation/4/a/ii)
 
-[^key-bc1e3081d0a73a17a81b524cdedea16b]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/2/1) substituted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [4(a)(iii)](https://www.legislation.gov.uk/wsi/2026/38/regulation/4/a/iii)
+[^c-bc1e3081d0a73a17a81b524cdedea16b]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/2/1) substituted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [4(a)(iii)](https://www.legislation.gov.uk/wsi/2026/38/regulation/4/a/iii)
 
-[^key-955e5f81afcb9a6ec6a7c923670eb560]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/2/1) inserted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [4(a)(iv)](https://www.legislation.gov.uk/wsi/2026/38/regulation/4/a/iv)
+[^c-955e5f81afcb9a6ec6a7c923670eb560]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/2/1) inserted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [4(a)(iv)](https://www.legislation.gov.uk/wsi/2026/38/regulation/4/a/iv)
 
-[^key-d05c30e57ac7f41673e7810bb93623ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/2/1) inserted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2026/38/regulation/4/b)
+[^c-d05c30e57ac7f41673e7810bb93623ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/2/1) inserted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [4(b)](https://www.legislation.gov.uk/wsi/2026/38/regulation/4/b)
 
-[^key-ee66a12134de8c286ce0652b07b7da4d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/1098/regulation/3) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-ee66a12134de8c286ce0652b07b7da4d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/1098/regulation/3) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
 [^f00002]: Footnote: *See* section 2 of and Schedule 1 to the Act for the definition of “regulated service”.
 
-[^key-79a485b881199fd6049a955ae4847a4f]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/3/b) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/a)
+[^c-79a485b881199fd6049a955ae4847a4f]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/3/b) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/a)
 
-[^key-016429b1481067f2b796f4ee16222a22]: Textual amendment: Words in [reg. 3(c)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/3/c) substituted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2019/233/regulation/7)
+[^c-016429b1481067f2b796f4ee16222a22]: Textual amendment: Words in [reg. 3(c)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/3/c) substituted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2019/233/regulation/7)
 
-[^key-8c1a30f6eccaa24f919358ac6be37ace]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/wsi/2017/1098/regulation/3A) inserted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2020/389/regulation/5) (with [reg. 7](https://www.legislation.gov.uk/wsi/2020/389/regulation/7))
+[^c-8c1a30f6eccaa24f919358ac6be37ace]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/wsi/2017/1098/regulation/3A) inserted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2020/389/regulation/5) (with [reg. 7](https://www.legislation.gov.uk/wsi/2020/389/regulation/7))
 
-[^key-4a3394cdbb964f4bed83e08f82b6a1bd]: Textual amendment: [Reg. 3B](https://www.legislation.gov.uk/wsi/2017/1098/regulation/3B) inserted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2026/38/regulation/5)
+[^c-4a3394cdbb964f4bed83e08f82b6a1bd]: Textual amendment: [Reg. 3B](https://www.legislation.gov.uk/wsi/2017/1098/regulation/3B) inserted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2026/38/regulation/5)
 
-[^key-2cb8a0ed0b7bc896800b2ab509b740a9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/1098/regulation/4) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-2cb8a0ed0b7bc896800b2ab509b740a9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/1098/regulation/4) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-7af5a7be0391a7944fa9f5b1541c6ce9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/1098/regulation/5) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-7af5a7be0391a7944fa9f5b1541c6ce9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/1098/regulation/5) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-5c9879e952052b1d6ba7843d1f25d47d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/1098/regulation/6) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-5c9879e952052b1d6ba7843d1f25d47d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/1098/regulation/6) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-5a569da090463febe63b332cec918aa7]: Textual amendment: Words in [reg. 6(b)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/6/b) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/b)
+[^c-5a569da090463febe63b332cec918aa7]: Textual amendment: Words in [reg. 6(b)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/6/b) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/b)
 
-[^key-c9ee6eaaf556ac6c0e62ae3c43760b9e]: Textual amendment: Words in [reg. 6(c)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/6/c) substituted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2019/233/regulation/8)
+[^c-c9ee6eaaf556ac6c0e62ae3c43760b9e]: Textual amendment: Words in [reg. 6(c)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/6/c) substituted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2019/233/regulation/8)
 
-[^key-6bae2d752393aecc6e37a93fe4a66792]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2017/1098/regulation/7) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-6bae2d752393aecc6e37a93fe4a66792]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2017/1098/regulation/7) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-e9a7fcb4fbea434cf695355ebb1db620]: Textual amendment: Words in [reg. 7(b)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/7/b) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(c)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/c)
+[^c-e9a7fcb4fbea434cf695355ebb1db620]: Textual amendment: Words in [reg. 7(b)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/7/b) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(c)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/c)
 
 [^M_F_c3b65fc8-6c8d-4a5d-ba89-ab9df7813401]: Textual amendment: Words in [reg. 7(c)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/6/c) substituted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2019/233/regulation/8)
 
-[^key-3d4e13ac0f68f40d0c78c4e154ac3c81]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2017/1098/regulation/8) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-3d4e13ac0f68f40d0c78c4e154ac3c81]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2017/1098/regulation/8) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-2518090d91e6fa2ef56af4609c499a34]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2017/1098/regulation/9) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-2518090d91e6fa2ef56af4609c499a34]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2017/1098/regulation/9) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-fa918829b78bc36583c4b30d5a96a009]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2017/1098/regulation/10) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-fa918829b78bc36583c4b30d5a96a009]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2017/1098/regulation/10) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-7d618ab9facaa568c9ce759e6d2bbc7c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2017/1098/regulation/11) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-7d618ab9facaa568c9ce759e6d2bbc7c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2017/1098/regulation/11) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-187a801b2814ab2107133ec44cd89aae]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/wsi/2017/1098/regulation/11A) inserted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2026/38/regulation/6)
+[^c-187a801b2814ab2107133ec44cd89aae]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/wsi/2017/1098/regulation/11A) inserted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2026/38/regulation/6)
 
-[^key-449a71017fde8e2387e6cb2a17291eb5]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/wsi/2017/1098/regulation/12) substituted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2026/38/regulation/7)
+[^c-449a71017fde8e2387e6cb2a17291eb5]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/wsi/2017/1098/regulation/12) substituted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2026/38/regulation/7)
 
-[^key-8354561c489aaa3693600e6547cb7e0b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2017/1098/regulation/13) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-8354561c489aaa3693600e6547cb7e0b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2017/1098/regulation/13) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-10a28d8ab6d0be81249cb212d0b1ed53]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2017/1098/part/4) inserted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2026/38/regulation/8)
+[^c-10a28d8ab6d0be81249cb212d0b1ed53]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2017/1098/part/4) inserted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2026/38/regulation/8)
 
-[^key-d17595bc594e52ab96a4939581b2efdc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/1) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-d17595bc594e52ab96a4939581b2efdc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/1) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-0920438f6ad96e38bd7cac40149b5d01]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/2) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-0920438f6ad96e38bd7cac40149b5d01]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/2) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-a31c481b6c2bf787cbc324a341ba4e01]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/3) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-a31c481b6c2bf787cbc324a341ba4e01]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/3) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-ac2e28cb3461de3e43e511ed6b4d4d3f]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/4) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-ac2e28cb3461de3e43e511ed6b4d4d3f]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/4) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-1333f8bce48463e74257546a4cd932e9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/5) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-1333f8bce48463e74257546a4cd932e9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/5) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-c5a75ee947def3f42db623b697993611]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/6) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-c5a75ee947def3f42db623b697993611]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/6) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-a67c1acc8d5b2bdc7dc61b27d9fade3f]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/7) substituted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2026/38/regulation/9)
+[^c-a67c1acc8d5b2bdc7dc61b27d9fade3f]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/7) substituted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2026/38/regulation/9)
 
-[^key-f04bb6934399bac2a065fcdeb9f2cfef]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/7A) inserted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2026/38/regulation/10)
+[^c-f04bb6934399bac2a065fcdeb9f2cfef]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/7A) inserted (1.4.2026) by [The Regulated Services (Registration) (Wales) (Amendment) (No. 2) Regulations 2026 (W.S.I. 2026/38)](https://www.legislation.gov.uk/wsi/2026/38), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/38/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2026/38/regulation/10)
 
-[^key-49d1a466bd02382486151cecd92dc98d]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/8) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-49d1a466bd02382486151cecd92dc98d]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/8) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-db5edfd02b5ac0e1fd3a66d94ee4c32d]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/9) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-db5edfd02b5ac0e1fd3a66d94ee4c32d]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/9) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-ef9e4cedfcfaa36d27e698f78826e6e8]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/10) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-ef9e4cedfcfaa36d27e698f78826e6e8]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/10) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-a6a42cc3ec0561d0c05f2cfbddfcc556]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/11) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-a6a42cc3ec0561d0c05f2cfbddfcc556]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/11) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-bb7107c8bc5b51f7c009ce8705d2af25]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/12) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-bb7107c8bc5b51f7c009ce8705d2af25]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/12) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-d2e5c4f77e5a367c477ace85eabd09b2]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/13) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-d2e5c4f77e5a367c477ace85eabd09b2]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/13) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-5372365ae58c8fcbb4c8e93a114e8dcc]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/14) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-5372365ae58c8fcbb4c8e93a114e8dcc]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/14) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-a3d4d8f2a9ab021817051fa981f84e6a]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/15) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-a3d4d8f2a9ab021817051fa981f84e6a]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/15) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-000859c11c514b710726361e4c19d036]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/16) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-000859c11c514b710726361e4c19d036]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/16) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-e8ed11673a039715b30ae4a8599cf13c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/17) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-e8ed11673a039715b30ae4a8599cf13c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/17) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-213cd47091d5d2eac092bc8852b3104e]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/18) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-213cd47091d5d2eac092bc8852b3104e]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/18) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-a4bf96bfa4e377c6e4cdee0c5d67101e]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/19) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-a4bf96bfa4e377c6e4cdee0c5d67101e]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/19) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-9a170239083fbc3a09ac316a6e988854]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/20) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-9a170239083fbc3a09ac316a6e988854]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/20) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-0b3161399401a67f316776c892158910]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/21) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-0b3161399401a67f316776c892158910]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/21) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-1a34bbecf267a47a1ae371c23d98da5d]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/22) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-1a34bbecf267a47a1ae371c23d98da5d]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/22) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-0bb15b4fa7d8801aac29108b109172d3]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/23) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-0bb15b4fa7d8801aac29108b109172d3]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/23) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-65f6d3a8be37464f1db5181c7e4ee3a3]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/24) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-65f6d3a8be37464f1db5181c7e4ee3a3]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/24) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-9dc8c05f131c06555f728fe8db5d7174]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/25) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-9dc8c05f131c06555f728fe8db5d7174]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/25) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-99a7893e2ebad91942e4e945fddff542]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/26) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-99a7893e2ebad91942e4e945fddff542]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/26) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-c72bfe4ce64c0068a0e921f2077ccd32]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/27) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-c72bfe4ce64c0068a0e921f2077ccd32]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/27) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-c60767691c0b61c9377eef1e5c058616]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/28) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-c60767691c0b61c9377eef1e5c058616]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/28) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-5089db2962c5b8fd3b5c3b98e26a5a74]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/29) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-5089db2962c5b8fd3b5c3b98e26a5a74]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/29) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-c90a67875066894fd465dc3cdcc55512]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/30) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-c90a67875066894fd465dc3cdcc55512]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/30) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-66c913b61ac6fc5a6e5c72787347177f]: Textual amendment: Words in [Sch. 1 para. 30](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/30) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(d)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/d)
+[^c-66c913b61ac6fc5a6e5c72787347177f]: Textual amendment: Words in [Sch. 1 para. 30](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/30) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(d)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/d)
 
-[^key-c77eb747c469510b81f03e05b79507fc]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/31) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-c77eb747c469510b81f03e05b79507fc]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/31) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-e74f5c8ab44e05cd8f2d52e412ffef93]: Textual amendment: [Sch. 1 para. 31A](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/31A) inserted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2019/233/regulation/10)
+[^c-e74f5c8ab44e05cd8f2d52e412ffef93]: Textual amendment: [Sch. 1 para. 31A](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/31A) inserted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2019/233/regulation/10)
 
-[^key-2fb8185279779e4010fac50cfeb57157]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/32) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-2fb8185279779e4010fac50cfeb57157]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/32) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
 [^f00009]: Footnote: *See* section 2(1)(a) of and paragraph 1 of Schedule 1 to the Act for the definition of “care home service”.
 
 [^f00010]: Footnote: *See* section 2(1)(b) of and paragraph 2 of Schedule 1 to the Act for the definition of “secure accommodation service”.
 
-[^key-1e84928405743dac9aa54114241e92f6]: Textual amendment: Words in [Sch. 1 para. 32](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/32) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(e)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/e)
+[^c-1e84928405743dac9aa54114241e92f6]: Textual amendment: Words in [Sch. 1 para. 32](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/32) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(e)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/e)
 
 [^f00011]: Footnote: *See* section 2(1)(c) of and paragraph 3 of Schedule 1 to the Act for the definition of “residential family centre service”.
 
-[^key-5e568efe0227c0deb767da6d986da107]: Textual amendment: Words in [Sch. 1 para. 32(a)](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/32/a) inserted (31.12.2023) by [The Register of Service Providers (Prescribed Information and Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1325)](https://www.legislation.gov.uk/wsi/2023/1325), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1325/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2023/1325/regulation/4)
+[^c-5e568efe0227c0deb767da6d986da107]: Textual amendment: Words in [Sch. 1 para. 32(a)](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/32/a) inserted (31.12.2023) by [The Register of Service Providers (Prescribed Information and Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1325)](https://www.legislation.gov.uk/wsi/2023/1325), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1325/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2023/1325/regulation/4)
 
 [^f00012]: Footnote: [S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541), to which there are amendments not relevant to these Regulations.
 
-[^key-cd88d23fc35d2838b66f016bee36681b]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/33) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-cd88d23fc35d2838b66f016bee36681b]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/33) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-fac011432a6f22d6f74cfe24840296d0]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/34) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-fac011432a6f22d6f74cfe24840296d0]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/34) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
 [^f00013]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
 [^f00014]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47). Sections 30 to 32 of the Safeguarding Vulnerable Groups Act 2006 as originally enacted are to be replaced by new sections 30A and 30B as a result of the substitutions made by section 72(1) of the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9). Section 72(1) is to be commenced on a day to be appointed.
 
-[^key-ad4a8d3f4ef42429397dc5b53747497a]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/35) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-ad4a8d3f4ef42429397dc5b53747497a]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/35) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-74c6af76ef52d4c7015600aeff05fe88]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/36) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-74c6af76ef52d4c7015600aeff05fe88]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/36) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-6456b08967c58319f07cbd2a449920dd]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/37) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-6456b08967c58319f07cbd2a449920dd]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/37) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-6de5d7038995717f0e5e75d6566ea874]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/38) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-6de5d7038995717f0e5e75d6566ea874]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/38) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-40b097d59e99cc42a5ac41e68ad892d8]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/39) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-40b097d59e99cc42a5ac41e68ad892d8]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/39) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-0ad218e2b03d4632211ef94196c9455a]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/40) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-0ad218e2b03d4632211ef94196c9455a]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/40) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-a85a8cb8aefea076a99da3c767c09be8]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/41) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-a85a8cb8aefea076a99da3c767c09be8]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/41) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-f481f10bae768467fad67e31750899fa]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/42) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-f481f10bae768467fad67e31750899fa]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/42) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-90a7a09993cfcd989f455a42766c084b]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/43) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-90a7a09993cfcd989f455a42766c084b]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/43) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-b60b4505f604a65899a22c55570fa9ba]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/44) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-b60b4505f604a65899a22c55570fa9ba]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/44) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-a0b9499b4b06e7b7149cb94e1f9f1369]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/45) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-a0b9499b4b06e7b7149cb94e1f9f1369]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/45) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-5c86683693efc14d0b43c172cb7ab683]: Textual amendment: Semicolon in Sch. 1 para. 45(b) substituted for full stop (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/uksi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/389/regulation/1/2), [6(a)(i)](https://www.legislation.gov.uk/uksi/2020/389/regulation/6/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/389/regulation/7))
+[^c-5c86683693efc14d0b43c172cb7ab683]: Textual amendment: Semicolon in Sch. 1 para. 45(b) substituted for full stop (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/uksi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/389/regulation/1/2), [6(a)(i)](https://www.legislation.gov.uk/uksi/2020/389/regulation/6/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/389/regulation/7))
 
-[^key-50c8570e8d9676a7e1a0b933df3723b6]: Textual amendment: [Sch. 1 para. 45(c)](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/45/c) inserted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [6(a)(ii)](https://www.legislation.gov.uk/wsi/2020/389/regulation/6/a/ii) (with [reg. 7](https://www.legislation.gov.uk/wsi/2020/389/regulation/7))
+[^c-50c8570e8d9676a7e1a0b933df3723b6]: Textual amendment: [Sch. 1 para. 45(c)](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/45/c) inserted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [6(a)(ii)](https://www.legislation.gov.uk/wsi/2020/389/regulation/6/a/ii) (with [reg. 7](https://www.legislation.gov.uk/wsi/2020/389/regulation/7))
 
-[^key-37d865f78c36e11135b12037f9acb718]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/46) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-37d865f78c36e11135b12037f9acb718]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/46) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-e6386e223bdcc4bc5061251929191139]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/47) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-e6386e223bdcc4bc5061251929191139]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/47) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-21d33412afc29f25a6f99d14dda1a2e5]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/48) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-21d33412afc29f25a6f99d14dda1a2e5]: Commencement: [Sch. 1 para. 48](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/48) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-4abb460ff595c864eae68aaedf6b71cb]: Textual amendment: Word in [Sch. 1 para. 48](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/48) substituted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2020/389/regulation/6/b) (with [reg. 7](https://www.legislation.gov.uk/wsi/2020/389/regulation/7))
+[^c-4abb460ff595c864eae68aaedf6b71cb]: Textual amendment: Word in [Sch. 1 para. 48](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/48) substituted (1.4.2020) by [The Regulation and Inspection of Social Care (Wales) Act 2016 and Regulated Services (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/389)](https://www.legislation.gov.uk/wsi/2020/389), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/389/regulation/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2020/389/regulation/6/b) (with [reg. 7](https://www.legislation.gov.uk/wsi/2020/389/regulation/7))
 
-[^key-0ee85b1515af8147e3851c5fa99fe3cf]: Commencement: [Sch. 1 para. 49](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/49) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-0ee85b1515af8147e3851c5fa99fe3cf]: Commencement: [Sch. 1 para. 49](https://www.legislation.gov.uk/wsi/2017/1098/schedule/1/paragraph/49) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-f99aacbbba9a4e3a34a2f8d5d74ef260]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2017/1098/schedule/2) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
+[^c-f99aacbbba9a4e3a34a2f8d5d74ef260]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2017/1098/schedule/2) in force at 1.2.2018, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2017/1098/regulation/1/1)
 
-[^key-0333f6de6416a10961b28792b7ccbe6b]: Textual amendment: [Sch. 2(ea)](https://www.legislation.gov.uk/wsi/2017/1098/schedule/2/ea) inserted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2019/233/regulation/11)
+[^c-0333f6de6416a10961b28792b7ccbe6b]: Textual amendment: [Sch. 2(ea)](https://www.legislation.gov.uk/wsi/2017/1098/schedule/2/ea) inserted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2019/233/regulation/11)
 
-[^key-87e40c3e559f99c201b8a5ba5fdf73c7]: Textual amendment: [Sch. 2(eb)](https://www.legislation.gov.uk/wsi/2017/1098/schedule/2) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(f)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/f)
+[^c-87e40c3e559f99c201b8a5ba5fdf73c7]: Textual amendment: [Sch. 2(eb)](https://www.legislation.gov.uk/wsi/2017/1098/schedule/2) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(f)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/f)
 
-[^key-313b9fc9127610e063ff1f196cdee945]: Textual amendment: Words in [Sch. 2(k)](https://www.legislation.gov.uk/wsi/2017/1098/schedule/2) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(g)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/g)
+[^c-313b9fc9127610e063ff1f196cdee945]: Textual amendment: Words in [Sch. 2(k)](https://www.legislation.gov.uk/wsi/2017/1098/schedule/2) inserted (31.12.2023) by [The Regulated Services (Registration) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1336)](https://www.legislation.gov.uk/wsi/2023/1336), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/1/2), [2(g)](https://www.legislation.gov.uk/wsi/2023/1336/regulation/2/g)

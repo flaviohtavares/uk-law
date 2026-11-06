@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12ZB. Procurement regulations[^key-e8a263d827f1e306f985b06a04ef3783]
+## 12ZB. Procurement regulations[^c-e8a263d827f1e306f985b06a04ef3783]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8a263d827f1e306f985b06a04ef3783]: Textual amendment: [S. 12ZB](https://www.legislation.gov.uk/ukpga/2006/41/section/12ZB) and cross-heading inserted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 79](https://www.legislation.gov.uk/ukpga/2022/31/section/79), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/b)
+[^c-e8a263d827f1e306f985b06a04ef3783]: Textual amendment: [S. 12ZB](https://www.legislation.gov.uk/ukpga/2006/41/section/12ZB) and cross-heading inserted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 79](https://www.legislation.gov.uk/ukpga/2022/31/section/79), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/b)
 
 [^M_F_64b577a5-ebee-4aa2-9f36-db0c89606fe5]: Textual amendment: Words in s. 12ZB(7) inserted (26.12.2023) by [Levelling-Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 164](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/164) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

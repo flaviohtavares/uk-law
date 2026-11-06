@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 16 — Schedule to be inserted as Schedule 7B to the Criminal Justice and Public Order Act 1994[^c22720301][^key-446db52cd700772c4fec1c0f037cbea1]
+## SCHEDULE 16 — Schedule to be inserted as Schedule 7B to the Criminal Justice and Public Order Act 1994[^c22720301][^c-446db52cd700772c4fec1c0f037cbea1]
 
 *Extent: E+W+S+N.I.*
 
@@ -189,4 +189,4 @@ Section 116(3)
 
 [^c22720301]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-446db52cd700772c4fec1c0f037cbea1]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)
+[^c-446db52cd700772c4fec1c0f037cbea1]: Commencement: [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/227/article/2/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Application of the Bankruptcy Act[^key-23e875c4be8f4d4ad60a5e1b018dd7ca]
+## 29. Application of the Bankruptcy Act[^c-23e875c4be8f4d4ad60a5e1b018dd7ca]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-23e875c4be8f4d4ad60a5e1b018dd7ca]: Commencement: Rule 29 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-23e875c4be8f4d4ad60a5e1b018dd7ca]: Commencement: Rule 29 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00018]: Footnote: Rule 4.16 was amended by paragraph 15 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), and rule 3 of [S.S.I. 2008/393](https://www.legislation.gov.uk/ssi/2008/393).

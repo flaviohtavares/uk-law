@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Civil liability[^key-56f8bf463df5b931fa07dd03c805f136]
+## 51. Civil liability[^c-56f8bf463df5b931fa07dd03c805f136]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56f8bf463df5b931fa07dd03c805f136]: Commencement: S. 51 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-56f8bf463df5b931fa07dd03c805f136]: Commencement: S. 51 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

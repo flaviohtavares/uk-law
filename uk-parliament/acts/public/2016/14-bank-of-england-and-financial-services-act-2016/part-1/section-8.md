@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Monetary Policy Committee: procedure[^key-ebe6d765b6fcd54a6e2428e276cd70c1]
+## 8. Monetary Policy Committee: procedure[^c-ebe6d765b6fcd54a6e2428e276cd70c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebe6d765b6fcd54a6e2428e276cd70c1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/14/section/8) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/i)
+[^c-ebe6d765b6fcd54a6e2428e276cd70c1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/14/section/8) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/i)

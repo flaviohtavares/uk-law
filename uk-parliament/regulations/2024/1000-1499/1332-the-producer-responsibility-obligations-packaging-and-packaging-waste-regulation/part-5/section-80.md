@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Recalculations: chargeable disposal costs[^key-da3842fd311a839e9208c0191274637a]
+## 80. Recalculations: chargeable disposal costs[^c-da3842fd311a839e9208c0191274637a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da3842fd311a839e9208c0191274637a]: Commencement: Reg. 80 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-da3842fd311a839e9208c0191274637a]: Commencement: Reg. 80 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

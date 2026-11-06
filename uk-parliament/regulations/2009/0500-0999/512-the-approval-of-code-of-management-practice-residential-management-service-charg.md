@@ -33,7 +33,7 @@ summary: ''
 
 Housing, England
 
-The Approval of Code of Management Practice (Residential Management) (Service Charges) (England) Order 2009 (revoked)[^key-ad39635c3fc97111e166ae891d8f126c]
+The Approval of Code of Management Practice (Residential Management) (Service Charges) (England) Order 2009 (revoked)[^c-ad39635c3fc97111e166ae891d8f126c]
 
 Made
 
@@ -47,32 +47,32 @@ Coming into force
 
 6th April 2009
 
-[^key-ad39635c3fc97111e166ae891d8f126c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad39635c3fc97111e166ae891d8f126c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-ad39635c3fc97111e166ae891d8f126c]
+## 1. Citation, commencement and application[^c-ad39635c3fc97111e166ae891d8f126c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval of code of practice[^key-ad39635c3fc97111e166ae891d8f126c]
+## 2. Approval of code of practice[^c-ad39635c3fc97111e166ae891d8f126c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Withdrawal of approval[^key-ad39635c3fc97111e166ae891d8f126c]
+## 3. Withdrawal of approval[^c-ad39635c3fc97111e166ae891d8f126c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Saving and transitional provision[^key-ad39635c3fc97111e166ae891d8f126c]
+## 4. Saving and transitional provision[^c-ad39635c3fc97111e166ae891d8f126c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad39635c3fc97111e166ae891d8f126c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad39635c3fc97111e166ae891d8f126c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ad39635c3fc97111e166ae891d8f126c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad39635c3fc97111e166ae891d8f126c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad39635c3fc97111e166ae891d8f126c]: Textual amendment: Order revoked (7.4.2026) by [The Approval of Code of Management Practice (Residential Management) (Service Charges) (England) Order 2026 (S.I. 2026/298)](https://www.legislation.gov.uk/uksi/2026/298), [art. 4(b)](https://www.legislation.gov.uk/uksi/2026/298/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2026/298/article/5))
+[^c-ad39635c3fc97111e166ae891d8f126c]: Textual amendment: Order revoked (7.4.2026) by [The Approval of Code of Management Practice (Residential Management) (Service Charges) (England) Order 2026 (S.I. 2026/298)](https://www.legislation.gov.uk/uksi/2026/298), [art. 4(b)](https://www.legislation.gov.uk/uksi/2026/298/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2026/298/article/5))

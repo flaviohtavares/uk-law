@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Minerals[^key-4b09d5ae8a79ddaefc296e1314d0134b]
+## 48. Minerals[^c-4b09d5ae8a79ddaefc296e1314d0134b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Order shall affect the right of any person entitled to any mine 
 
 ## Annotations
 
-[^key-4b09d5ae8a79ddaefc296e1314d0134b]: Commencement: Art. 48 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-4b09d5ae8a79ddaefc296e1314d0134b]: Commencement: Art. 48 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

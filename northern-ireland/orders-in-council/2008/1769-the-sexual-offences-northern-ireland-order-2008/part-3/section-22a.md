@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22A. Sexual communication with a child[^key-54722924b98e73d9b2a523de55249f0f]
+## 22A. Sexual communication with a child[^c-54722924b98e73d9b2a523de55249f0f]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ and in sub-paragraph (a) “**sexual activity**” means an activity that a reas
 
 ## Annotations
 
-[^key-54722924b98e73d9b2a523de55249f0f]: Textual amendment: [Art. 22A](https://www.legislation.gov.uk/nisi/2008/1769/article/22A) inserted (25.7.2015) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 90(1)](https://www.legislation.gov.uk/nia/2015/9/section/90/1), [106(1)(b)](https://www.legislation.gov.uk/nia/2015/9/section/106/1/b)
+[^c-54722924b98e73d9b2a523de55249f0f]: Textual amendment: [Art. 22A](https://www.legislation.gov.uk/nisi/2008/1769/article/22A) inserted (25.7.2015) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 90(1)](https://www.legislation.gov.uk/nia/2015/9/section/90/1), [106(1)(b)](https://www.legislation.gov.uk/nia/2015/9/section/106/1/b)

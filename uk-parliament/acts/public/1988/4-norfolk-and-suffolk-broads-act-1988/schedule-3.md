@@ -49,7 +49,7 @@ Section 2(5), (6).
 
 #### The Land Compensation Act 1961[^c10506571]
 
-**3.**[^key-a3bae5b9a01374b5c7632f872ba56e64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a3bae5b9a01374b5c7632f872ba56e64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c10506581]
 
@@ -121,15 +121,15 @@ Section 2(5), (6).
 
 #### Land Drainage
 
-**33.** (1) The Authority may[^key-57f2117653563795f2ccda689f9cda13], after consulting—
+**33.** (1) The Authority may[^c-57f2117653563795f2ccda689f9cda13], after consulting—
 
 - (a) the internal drainage board for each internal drainage district which is wholly or partly within the Broads;
-- (b)[^key-613f044e532dbad1ff64dabc0aadf2c1] Natural England;
+- (b)[^c-613f044e532dbad1ff64dabc0aadf2c1] Natural England;
 - (d)[^c10506711] The National Rivers Authority;
 
 and with the agreement of the Minister of Agriculture, Fisheries and Food, prepare and issue (in such form and in such manner as it considers appropriate) a code of practice for the construction, alteration, renewal, maintenance or extension of drainage works within the Broads.
 
-(2) The Authority shall from time to time review any code of practice issued under sub-paragraph (1) above[^key-952fd67c043646ff8bd2ad4caeaf2e7d] and, where it considers it appropriate, issue a revised code.
+(2) The Authority shall from time to time review any code of practice issued under sub-paragraph (1) above[^c-952fd67c043646ff8bd2ad4caeaf2e7d] and, where it considers it appropriate, issue a revised code.
 
 (3) Before issuing a revised code the Authority shall consult the bodies mentioned in sub-paragraph (1) above.
 
@@ -180,9 +180,9 @@ as it thinks fit. [^c10506721]
 **38.** (1) In relation to any registered common within the Broads which is not owned by, or vested in, a local authority and which is not a staithe, the Authority shall be treated as a local authority for the purposes of the following enactments—
 
 - (a) section 1 of the [^c10506751]Commons Act 1899 (scheme for regulation);
-- (b)[^key-8c28bf62fabd66f8a21c378ba6482ffc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8c28bf62fabd66f8a21c378ba6482ffc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 23 of the [^c10506771]Caravan Sites and Control of Development Act 1960 (power of district council to prohibit caravans on commons); and
-- (d) section 45 of the Commons Act 2006[^key-9285ea4be58fc5c81c2b132914ef11d1] (protection of unclaimed common land).
+- (d) section 45 of the Commons Act 2006[^c-9285ea4be58fc5c81c2b132914ef11d1] (protection of unclaimed common land).
 
 (2) No local authority shall exercise any of its functions under the enactments mentioned in sub-paragraph (1) above, in relation to any staithe which is within the Broads and which is registered as a common, except jointly with the Authority or with the Authority’s consent.
 
@@ -195,7 +195,7 @@ as it thinks fit. [^c10506721]
 **40.** (1) Subject to sub-paragraphs (3) and (4) below, the Authority may make arrangements for securing the provision within the Broads, or within the neighbourhood of the Broads, (and whether by the Authority or by others) of—
 
 - (a) moorings;
-- (b) accommodation, meals and refreshments (including alcohol (within the meaning of the Licensing Act 2003)[^key-a15f91c20c16708c7cc3caca4fa1a502]);
+- (b) accommodation, meals and refreshments (including alcohol (within the meaning of the Licensing Act 2003)[^c-a15f91c20c16708c7cc3caca4fa1a502]);
 - (c) camping sites;
 - (d) parking places and means of access to, and egress from, them;
 - (e) sanitary conveniences for use by the public; and
@@ -250,7 +250,7 @@ as it thinks fit. [^c10506721]
 
 #### Footpaths and bridleways
 
-**47.** (1) The Authority shall be treated as a local authority for the purposes of sections 25 to 29 of the [^c10506861]Highways Act 1980 (public path creation agreements); and sections 72(2) (widening of footpaths etc.) and 118 to 121E[^key-c8a268213398f4715bb01c1ce335325f] (stopping up of footpaths etc.) , except sections 118B and 119B of that Act (stopping up and diversion for purposes of crime prevention,[^key-a9a418006b86e31e053f6452d10742c1] etc.), of that Act shall have effect in relation to the Authority as if it were a county council.
+**47.** (1) The Authority shall be treated as a local authority for the purposes of sections 25 to 29 of the [^c10506861]Highways Act 1980 (public path creation agreements); and sections 72(2) (widening of footpaths etc.) and 118 to 121E[^c-c8a268213398f4715bb01c1ce335325f] (stopping up of footpaths etc.) , except sections 118B and 119B of that Act (stopping up and diversion for purposes of crime prevention,[^c-a9a418006b86e31e053f6452d10742c1] etc.), of that Act shall have effect in relation to the Authority as if it were a county council.
 
 (2) Without prejudice to the powers of any other body, the Authority shall have the power to maintain any public path within the Broads.
 
@@ -275,7 +275,7 @@ as it thinks fit. [^c10506721]
 
 [^c10506571]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
-[^key-a3bae5b9a01374b5c7632f872ba56e64]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/3) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [12](https://www.legislation.gov.uk/uksi/2012/628/article/12) [13](https://www.legislation.gov.uk/uksi/2012/628/article/13) [16](https://www.legislation.gov.uk/uksi/2012/628/article/16) [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-a3bae5b9a01374b5c7632f872ba56e64]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/3) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [12](https://www.legislation.gov.uk/uksi/2012/628/article/12) [13](https://www.legislation.gov.uk/uksi/2012/628/article/13) [16](https://www.legislation.gov.uk/uksi/2012/628/article/16) [arts. 18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
 [^c10506581]: Textual amendment: [Sch. 3 paras. 4](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/4), [7–28](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/7), [32](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/32) repealed by [Planning (Consequential Provisions) Act 1990 (c.11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 3](https://www.legislation.gov.uk/ukpga/1990/11/section/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1990/11/schedule/1/part/I), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/2), [4](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/6)
 
@@ -295,13 +295,13 @@ as it thinks fit. [^c10506721]
 
 [^c10506661]: Textual amendment: [Sch. 3 paras. 4](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/4), [7–28](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/7), [32](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/32) repealed by [Planning (Consequential Provisions) Act 1990 (c.11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 3](https://www.legislation.gov.uk/ukpga/1990/11/section/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1990/11/schedule/1/part/I), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/2), [4](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/6)
 
-[^key-57f2117653563795f2ccda689f9cda13]: Textual amendment: Words in [Sch. 3 para. 33(1)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/33/1) substituted (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [Sch. 7 para. 11(1)](https://www.legislation.gov.uk/ukla/2009/1/schedule/7/paragraph/11/1) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [3(1)](https://www.legislation.gov.uk/ukla/2009/1/section/3/1), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6 Pts. 2](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/2), [3](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/3))
+[^c-57f2117653563795f2ccda689f9cda13]: Textual amendment: Words in [Sch. 3 para. 33(1)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/33/1) substituted (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [Sch. 7 para. 11(1)](https://www.legislation.gov.uk/ukla/2009/1/schedule/7/paragraph/11/1) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [3(1)](https://www.legislation.gov.uk/ukla/2009/1/section/3/1), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6 Pts. 2](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/2), [3](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/3))
 
-[^key-613f044e532dbad1ff64dabc0aadf2c1]: Textual amendment: Sch. 3 para. 33(1)(b)(c) substituted for Sch. 3 para. 33(1)(b) (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 114](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/114); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-613f044e532dbad1ff64dabc0aadf2c1]: Textual amendment: Sch. 3 para. 33(1)(b)(c) substituted for Sch. 3 para. 33(1)(b) (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 114](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/114); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c10506711]: Textual amendment: Sch. 3 para. 33(1)(d) substituted by [S.I. 1989/1380](https://www.legislation.gov.uk/uksi/1989/1380), [regs. 3(1)](https://www.legislation.gov.uk/uksi/1989/1380/regulation/3/1), [4(c)](https://www.legislation.gov.uk/uksi/1989/1380/regulation/4/c)
 
-[^key-952fd67c043646ff8bd2ad4caeaf2e7d]: Textual amendment: Words in [Sch. 3 para. 33(2)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/33/2) substituted (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [Sch. 7 para. 11(2)](https://www.legislation.gov.uk/ukla/2009/1/schedule/7/paragraph/11/2) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [3(1)](https://www.legislation.gov.uk/ukla/2009/1/section/3/1), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6 Pts. 2](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/2), [3](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/3))
+[^c-952fd67c043646ff8bd2ad4caeaf2e7d]: Textual amendment: Words in [Sch. 3 para. 33(2)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/33/2) substituted (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [Sch. 7 para. 11(2)](https://www.legislation.gov.uk/ukla/2009/1/schedule/7/paragraph/11/2) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [3(1)](https://www.legislation.gov.uk/ukla/2009/1/section/3/1), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6 Pts. 2](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/2), [3](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/3))
 
 [^c10506721]: Textual amendment: [Sch. 3 para. 34(2)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/34/2) substituted by [S.I. 1989/1380](https://www.legislation.gov.uk/uksi/1989/1380), [regs. 3(1)](https://www.legislation.gov.uk/uksi/1989/1380/regulation/3/1), [4(d)](https://www.legislation.gov.uk/uksi/1989/1380/regulation/4/d)
 
@@ -311,15 +311,15 @@ as it thinks fit. [^c10506721]
 
 [^c10506751]: Marginal citation: [1899 c. 30](https://www.legislation.gov.uk/ukpga/1899/30).
 
-[^key-8c28bf62fabd66f8a21c378ba6482ffc]: Textual amendment: [Sch. 3 para. 38(1)(b)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/38/1/b) repealed (1.10.2007 for E., 1.4.2012 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/2) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/d/ii); [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h)
+[^c-8c28bf62fabd66f8a21c378ba6482ffc]: Textual amendment: [Sch. 3 para. 38(1)(b)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/38/1/b) repealed (1.10.2007 for E., 1.4.2012 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/26/schedule/6/part/2) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2007/2584/article/2/d/ii); [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h)
 
 [^c10506771]: Marginal citation: [1960 c. 62](https://www.legislation.gov.uk/ukpga/1960/62).
 
-[^key-9285ea4be58fc5c81c2b132914ef11d1]: Textual amendment: Words in Sch. 3 para. 38(1)(d) substituted (20.2.2007 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2006/26/schedule/5/paragraph/4) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/456](https://www.legislation.gov.uk/uksi/2007/456), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2007/456/article/2/a/i); [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 3(o)(i)](https://www.legislation.gov.uk/uksi/2007/2386/article/3/o/i)
+[^c-9285ea4be58fc5c81c2b132914ef11d1]: Textual amendment: Words in Sch. 3 para. 38(1)(d) substituted (20.2.2007 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [s. 56](https://www.legislation.gov.uk/ukpga/2006/26/section/56), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2006/26/schedule/5/paragraph/4) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2007/456](https://www.legislation.gov.uk/uksi/2007/456), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2007/456/article/2/a/i); [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 3(o)(i)](https://www.legislation.gov.uk/uksi/2007/2386/article/3/o/i)
 
 [^c10506791]: Marginal citation: [1906 c. 25](https://www.legislation.gov.uk/ukpga/1906/25).
 
-[^key-a15f91c20c16708c7cc3caca4fa1a502]: Textual amendment: Words in [Sch. 3 para. 40(1)(b)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/40/1/b) substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 107](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/107) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
+[^c-a15f91c20c16708c7cc3caca4fa1a502]: Textual amendment: Words in [Sch. 3 para. 40(1)(b)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/40/1/b) substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 107](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/107) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
 [^c10506801]: Marginal citation: [1960 c. 62](https://www.legislation.gov.uk/ukpga/1960/62).
 
@@ -333,8 +333,8 @@ as it thinks fit. [^c10506721]
 
 [^c10506861]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-c8a268213398f4715bb01c1ce335325f]: Textual amendment: Words in Sch. 3 para. 47 substituted (12.2.2003 for E.) by [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3), [Sch. 6 para. 25(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/25/a); [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(r)](https://www.legislation.gov.uk/uksi/2003/272/article/2/r)
+[^c-c8a268213398f4715bb01c1ce335325f]: Textual amendment: Words in Sch. 3 para. 47 substituted (12.2.2003 for E.) by [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3), [Sch. 6 para. 25(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/25/a); [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(r)](https://www.legislation.gov.uk/uksi/2003/272/article/2/r)
 
-[^key-a9a418006b86e31e053f6452d10742c1]: Textual amendment: Words in Sch. 3 para. 47 inserted (12.2.2003 for E.) by [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3), [Sch. 6 para. 25(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/25/b); [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(r)](https://www.legislation.gov.uk/uksi/2003/272/article/2/r)
+[^c-a9a418006b86e31e053f6452d10742c1]: Textual amendment: Words in Sch. 3 para. 47 inserted (12.2.2003 for E.) by [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3), [Sch. 6 para. 25(b)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/6/paragraph/25/b); [S.I. 2003/272](https://www.legislation.gov.uk/uksi/2003/272), [art. 2(r)](https://www.legislation.gov.uk/uksi/2003/272/article/2/r)
 
 [^c10506901]: Textual amendment: [Sch. 3 para. 48](https://www.legislation.gov.uk/ukpga/1988/4/schedule/3/paragraph/48) repealed by [Planning (Consequential Provisions) Act 1990 (c.11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 3](https://www.legislation.gov.uk/ukpga/1990/11/section/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1990/11/schedule/1/part/I), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/2), [4](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3/paragraph/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Making of referral order: general[^key-f0c969d643a323bf74940bf838f2421f]
+## 86. Making of referral order: general[^c-f0c969d643a323bf74940bf838f2421f]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ Nothing in this subsection affects the court's duty under section 52 (duty to gi
 
 ## Annotations
 
-[^key-f0c969d643a323bf74940bf838f2421f]: Commencement: S. 86 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f0c969d643a323bf74940bf838f2421f]: Commencement: S. 86 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

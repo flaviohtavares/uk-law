@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 34. Consent to dealings under section 33[^key-1c9f7e04a1f0da5d49507c97c6c30a5a]
+## 34. Consent to dealings under section 33[^c-1c9f7e04a1f0da5d49507c97c6c30a5a]
 
 *Extent: E*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) The second condition is that the person entitled to exercise the power—
 
-- (a) has obtained a written report on the proposed transaction from a designated adviser[^key-58c7f7881d253666196457d662bd15d5] instructed by and acting exclusively for that person, and
+- (a) has obtained a written report on the proposed transaction from a designated adviser[^c-58c7f7881d253666196457d662bd15d5] instructed by and acting exclusively for that person, and
 - (b) having considered the report, is satisfied that the terms of the proposed transaction are the best that can be reasonably obtained for that person.
 
 (5) In the case of land which has vested in the incumbent of a benefice, a power under section 33 may not be exercised without the consent of the bishop of the diocese to which the benefice belongs.
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c9f7e04a1f0da5d49507c97c6c30a5a]: Commencement: [S. 34](https://www.legislation.gov.uk/ukcm/2018/8/section/34) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-1c9f7e04a1f0da5d49507c97c6c30a5a]: Commencement: [S. 34](https://www.legislation.gov.uk/ukcm/2018/8/section/34) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-58c7f7881d253666196457d662bd15d5]: Textual amendment: Words in [s. 34(4)(a)](https://www.legislation.gov.uk/ukcm/2018/8/section/34/4/a) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/4), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-58c7f7881d253666196457d662bd15d5]: Textual amendment: Words in [s. 34(4)(a)](https://www.legislation.gov.uk/ukcm/2018/8/section/34/4/a) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/4), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)

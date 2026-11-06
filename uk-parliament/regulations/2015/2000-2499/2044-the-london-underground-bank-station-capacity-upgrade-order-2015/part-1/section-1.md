@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-8e28b3fae87633a5798f074cb946b356]
+## 1. Citation and commencement[^c-8e28b3fae87633a5798f074cb946b356]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the London Underground (Bank Station Capacity Upgrade
 
 ## Annotations
 
-[^key-8e28b3fae87633a5798f074cb946b356]: Commencement: Art. 1 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-8e28b3fae87633a5798f074cb946b356]: Commencement: Art. 1 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

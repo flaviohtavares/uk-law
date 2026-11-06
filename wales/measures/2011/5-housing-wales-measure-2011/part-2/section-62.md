@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Enforcement[^key-eea632e94b598a646156bf1ead5a9e64]
+## 62. Enforcement[^c-eea632e94b598a646156bf1ead5a9e64]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ After section 50L of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-eea632e94b598a646156bf1ead5a9e64]: Commencement: [S. 62](https://www.legislation.gov.uk/mwa/2011/5/section/62) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(l)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/l)
+[^c-eea632e94b598a646156bf1ead5a9e64]: Commencement: [S. 62](https://www.legislation.gov.uk/mwa/2011/5/section/62) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(l)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/l)

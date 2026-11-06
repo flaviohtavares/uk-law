@@ -23,7 +23,7 @@ summary: ''
 (1) Subsection (2) below has effect in any case where—
 
 - (a) a claim is made for industrial injuries benefit in respect of an accident, or of a prescribed disease or injury; or
-- (b) an application is made under section 29 of the Social Security Act 1998[^key-ffc050762b88283427f64b976cbe9c9f] for a declaration that an accident was an industrial accident, or for a corresponding declaration as to a prescribed disease or injury.
+- (b) an application is made under section 29 of the Social Security Act 1998[^c-ffc050762b88283427f64b976cbe9c9f] for a declaration that an accident was an industrial accident, or for a corresponding declaration as to a prescribed disease or injury.
 
 (2) The Secretary of State may direct that the relevant employment shall, in relation to that accident, disease or injury, be treated as having been employed earner’s employment notwithstanding that by reason of a contravention of, or non-compliance with, some provision contained in or having effect under an enactment passed for the protection of employed persons or any class of employed persons, either—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffc050762b88283427f64b976cbe9c9f]: Textual amendment: Words in s. 97(1)(b) substituted (5.7.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 7 para. 64](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/64); [S.I. 1999/1958](https://www.legislation.gov.uk/uksi/1999/1958), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/1999/1958/article/2/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1958/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/1958/article/3))
+[^c-ffc050762b88283427f64b976cbe9c9f]: Textual amendment: Words in s. 97(1)(b) substituted (5.7.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 7 para. 64](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/64); [S.I. 1999/1958](https://www.legislation.gov.uk/uksi/1999/1958), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/1999/1958/article/2/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1958/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/1999/1958/article/3))

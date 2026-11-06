@@ -53,25 +53,25 @@ Now, therefore, Her Majesty Queen Elizabeth The Queen Mother and His Royal Highn
 
 ## PART I — general
 
-**1.**[^key-0ebc6c05fd5bc576dbb4069f3800590b] This Order may be cited as the European Communities (Privileges of the European School) Order 1990 and shall come into force on the day after the day on which it is made.
+**1.**[^c-0ebc6c05fd5bc576dbb4069f3800590b] This Order may be cited as the European Communities (Privileges of the European School) Order 1990 and shall come into force on the day after the day on which it is made.
 
-**2.**[^key-b202e7690d30dfec64df5015d7074ec4] (1) For the purposes of this Order, “the School” means the European School established at Culham; “staff members” means the headmaster, deputy heads, secondary school teachers, primary school teachers, kindergarten teachers and educational advisers appointed, assigned or seconded to the School in accordance with Article 12(2) and (3) of the Statute of the European School[^f00002].
+**2.**[^c-b202e7690d30dfec64df5015d7074ec4] (1) For the purposes of this Order, “the School” means the European School established at Culham; “staff members” means the headmaster, deputy heads, secondary school teachers, primary school teachers, kindergarten teachers and educational advisers appointed, assigned or seconded to the School in accordance with Article 12(2) and (3) of the Statute of the European School[^f00002].
 
 (2) In this Order “the 1961 Convention Articles” means the Articles (being certain Articles of the Vienna Convention on Diplomatic Relations signed in 1961) which are set out in Schedule 1 to the Diplomatic Privileges Act 1964[^f00003].
 
 ## PART II — the school
 
-**3.**[^key-b11dad17097459d8f1dfa741c093e4c7] The School shall have the legal capacities of a body corporate.
+**3.**[^c-b11dad17097459d8f1dfa741c093e4c7] The School shall have the legal capacities of a body corporate.
 
-**4.**[^key-8c60c3fc3a4205fb081483759f07bde1] Within the scope of its official activities, the School shall have exemption from taxes on income and capital gains.
+**4.**[^c-8c60c3fc3a4205fb081483759f07bde1] Within the scope of its official activities, the School shall have exemption from taxes on income and capital gains.
 
-**5.**[^key-cec17718a60c80016c66634e5373238b] The School shall have relief, under arrangements made by the Secretary of State, by way of refund of value added tax paid on the supply of goods or services of substantial value which are necessary for the official activities of the School, such relief to be subject to compliance with such conditions as may be imposed in accordance with the arrangements; provided that no refund shall be made in respect of any claim for goods or services where the value of the goods or services does not amount in the aggregate to £100.
+**5.**[^c-cec17718a60c80016c66634e5373238b] The School shall have relief, under arrangements made by the Secretary of State, by way of refund of value added tax paid on the supply of goods or services of substantial value which are necessary for the official activities of the School, such relief to be subject to compliance with such conditions as may be imposed in accordance with the arrangements; provided that no refund shall be made in respect of any claim for goods or services where the value of the goods or services does not amount in the aggregate to £100.
 
-**6.**[^key-eef8d72c595e31a6fef1c4aea85037e5] The School shall have exemption from duties (whether of customs or excise) and taxes on the importation of goods imported by or on behalf of the School and necessary for the exercise of its official activities, such exemption to be subject to compliance with such conditions as the Commissioners of Customs and Excise may prescribe for the protection of the Revenue.
+**6.**[^c-eef8d72c595e31a6fef1c4aea85037e5] The School shall have exemption from duties (whether of customs or excise) and taxes on the importation of goods imported by or on behalf of the School and necessary for the exercise of its official activities, such exemption to be subject to compliance with such conditions as the Commissioners of Customs and Excise may prescribe for the protection of the Revenue.
 
 ## PART III — staff members
 
-**7.**[^key-df3ff15b9643bc4509a3430fdb22ed10] Staff members shall enjoy:
+**7.**[^c-df3ff15b9643bc4509a3430fdb22ed10] Staff members shall enjoy:
 
 - (a) provided that they are seconded to the School by a member State other than the United Kingdom and are subject to its social security legislation, exemptions whereby for the purposes of the enactments relating to social security including enactments in force in Northern Ireland—
   - (i) services rendered for the School by them shall be deemed to be excepted from any class of employment in respect of which contributions or premiums under those enactments are payable, but
@@ -98,20 +98,20 @@ This Order confers privileges on the European School at Culham, and on its staff
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-0ebc6c05fd5bc576dbb4069f3800590b]: Commencement: Art. 1 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
+[^c-0ebc6c05fd5bc576dbb4069f3800590b]: Commencement: Art. 1 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
 
-[^key-b202e7690d30dfec64df5015d7074ec4]: Commencement: Art. 2 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
+[^c-b202e7690d30dfec64df5015d7074ec4]: Commencement: Art. 2 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
 
 [^f00002]: Footnote: Cmnd. 5145.
 
 [^f00003]: Footnote: [1964 c. 81](https://www.legislation.gov.uk/ukpga/1964/81).
 
-[^key-b11dad17097459d8f1dfa741c093e4c7]: Commencement: Art. 3 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
+[^c-b11dad17097459d8f1dfa741c093e4c7]: Commencement: Art. 3 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
 
-[^key-8c60c3fc3a4205fb081483759f07bde1]: Commencement: Art. 4 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
+[^c-8c60c3fc3a4205fb081483759f07bde1]: Commencement: Art. 4 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
 
-[^key-cec17718a60c80016c66634e5373238b]: Commencement: Art. 5 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
+[^c-cec17718a60c80016c66634e5373238b]: Commencement: Art. 5 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
 
-[^key-eef8d72c595e31a6fef1c4aea85037e5]: Commencement: Art. 6 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
+[^c-eef8d72c595e31a6fef1c4aea85037e5]: Commencement: Art. 6 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
 
-[^key-df3ff15b9643bc4509a3430fdb22ed10]: Commencement: Art. 7 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)
+[^c-df3ff15b9643bc4509a3430fdb22ed10]: Commencement: Art. 7 in force at 15.2.1990, see [art. 1](https://www.legislation.gov.uk/uksi/1990/237/article/1)

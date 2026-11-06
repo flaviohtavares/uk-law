@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Interpretation: EU instruments relating to plant health[^key-3a00488e85a20b82821e871dff6cc519]
+## 3. Interpretation: EU instruments relating to plant health[^c-3a00488e85a20b82821e871dff6cc519]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a00488e85a20b82821e871dff6cc519]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/1517/regulation/3) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/6/3)
+[^c-3a00488e85a20b82821e871dff6cc519]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/1517/regulation/3) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/6/3)

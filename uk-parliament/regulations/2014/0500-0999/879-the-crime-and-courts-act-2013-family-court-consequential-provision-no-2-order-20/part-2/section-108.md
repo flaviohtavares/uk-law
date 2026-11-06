@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**108.**[^key-64e7ff87da0770f933fe6cd806478c18] In paragraph 15—
+**108.**[^c-64e7ff87da0770f933fe6cd806478c18] In paragraph 15—
 
 - (a) in the substituted section 17(5A) of the 1972 Act, for “a magistrates’ court in England and Wales”, in both places, substitute “the family court”; and
 - (b) in the substituted section 17(7) of the 1972 Act, for “a magistrates’ court” substitute “the family court in England and Wales or a magistrates’ court in Northern Ireland”.
 
 ## Annotations
 
-[^key-64e7ff87da0770f933fe6cd806478c18]: Commencement: Art. 108 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-64e7ff87da0770f933fe6cd806478c18]: Commencement: Art. 108 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

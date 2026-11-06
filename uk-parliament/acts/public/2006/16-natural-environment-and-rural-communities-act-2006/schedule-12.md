@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 12 — Repeals and revocations[^key-a805478b7edaf0ec585c9f39cc0aa54c][^key-5139afb460957bf6132ef5f2d68cab9b][^key-e14ca04e2c4562e53f36775476dc912c]
+## SCHEDULE 12 — Repeals and revocations[^c-a805478b7edaf0ec585c9f39cc0aa54c][^c-5139afb460957bf6132ef5f2d68cab9b][^c-e14ca04e2c4562e53f36775476dc912c]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,8 +71,8 @@ Revocations
 
 ## Annotations
 
-[^key-a805478b7edaf0ec585c9f39cc0aa54c]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12) in force at 2.5.2006 for E. for specified purposes immediately after the coming into force of 2000 c. 37, ss. 47-50 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 6](https://www.legislation.gov.uk/uksi/2006/1176/article/6)
+[^c-a805478b7edaf0ec585c9f39cc0aa54c]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12) in force at 2.5.2006 for E. for specified purposes immediately after the coming into force of 2000 c. 37, ss. 47-50 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 6](https://www.legislation.gov.uk/uksi/2006/1176/article/6)
 
-[^key-5139afb460957bf6132ef5f2d68cab9b]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12) in force at 1.10.2006 for specified purposes by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-5139afb460957bf6132ef5f2d68cab9b]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12) in force at 1.10.2006 for specified purposes by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-e14ca04e2c4562e53f36775476dc912c]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/816](https://www.legislation.gov.uk/uksi/2007/816), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/816/article/2/c)
+[^c-e14ca04e2c4562e53f36775476dc912c]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/816](https://www.legislation.gov.uk/uksi/2007/816), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/816/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Removal of requirement for children’s certificate, etc.[^key-4467d10863100bef705068858b080fe7][^key-6db82666540074a7f5e14a53ef32aa25]
+## 35. Removal of requirement for children’s certificate, etc.[^c-4467d10863100bef705068858b080fe7][^c-6db82666540074a7f5e14a53ef32aa25]
 
 *Extent: N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4467d10863100bef705068858b080fe7]: Commencement: S. 35 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-4467d10863100bef705068858b080fe7]: Commencement: S. 35 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-6db82666540074a7f5e14a53ef32aa25]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2021/7/section/35) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-6db82666540074a7f5e14a53ef32aa25]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2021/7/section/35) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

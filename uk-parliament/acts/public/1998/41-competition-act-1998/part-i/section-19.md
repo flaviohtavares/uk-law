@@ -30,10 +30,10 @@ summary: ''
 - (a) providing for one or more additional exclusions; or
 - (b) amending or removing any provision (whether or not it has been added by an order under this subsection).
 
-(3)[^key-21adba2ad95497063329d8b7c980adeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-21adba2ad95497063329d8b7c980adeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Schedule 3 also gives the Secretary of State power to provide that the Chapter II prohibition is not to apply in certain circumstances.
 
 ## Annotations
 
-[^key-21adba2ad95497063329d8b7c980adeb]: Textual amendment: S. 19(3) omitted (1.1.2025) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 120(4)](https://www.legislation.gov.uk/ukpga/2024/13/section/120/4), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-21adba2ad95497063329d8b7c980adeb]: Textual amendment: S. 19(3) omitted (1.1.2025) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 120(4)](https://www.legislation.gov.uk/ukpga/2024/13/section/120/4), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.7. Costs on an application[^key-554b9aa53906a6f22a75fb4eb40b986c]
+## 45.7. Costs on an application[^c-554b9aa53906a6f22a75fb4eb40b986c]
 
 *Extent: E+W*
 
@@ -76,7 +76,7 @@ summary: ''
 
 ## Annotations
 
-[^key-554b9aa53906a6f22a75fb4eb40b986c]: Commencement: [Rule 45.7](https://www.legislation.gov.uk/uksi/2025/909/rule/45.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-554b9aa53906a6f22a75fb4eb40b986c]: Commencement: [Rule 45.7](https://www.legislation.gov.uk/uksi/2025/909/rule/45.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01084]: Footnote: [1879 c. 11](https://www.legislation.gov.uk/ukpga/1879/11).
 

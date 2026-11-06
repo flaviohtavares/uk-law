@@ -38,7 +38,7 @@ Section 1(5).
 
 - (a) in a period of six months beginning not more than nine months previously he has, without the consent of the other members of the Authority, failed to attend the meetings of the Authority;
 - (b) he is an undischarged bankrupt or has made an arrangement with his creditors or is insolvent within the meaning of paragraph 9(2)(a) of Schedule 3 to the [^c8103001]Conveyancing and Feudal Reform (Scotland) Act 1970;
-- (ba)[^key-27025657d40504c1a83de765638b7232] a moratorium period under a debt relief order applies in relation to him (under Part 7A of the Insolvency Act 1986);
+- (ba)[^c-27025657d40504c1a83de765638b7232] a moratorium period under a debt relief order applies in relation to him (under Part 7A of the Insolvency Act 1986);
 - (c) he is by reason of physical or mental illness or for any other reason incapable of carrying out his duties; or
 - (d) he has been convicted of such criminal offence, or his conduct has been such, that it is not in the Ministers’ opinion fitting that he should remain a member.
 
@@ -94,7 +94,7 @@ Section 1(5).
 
 [^c8103001]: Marginal citation: [1970 c. 35](https://www.legislation.gov.uk/ukpga/1970/35).
 
-[^key-27025657d40504c1a83de765638b7232]: Textual amendment: [Sch. 1 para. 5(ba)](https://www.legislation.gov.uk/ukpga/1981/29/schedule/1/paragraph/5/ba) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/14) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-27025657d40504c1a83de765638b7232]: Textual amendment: [Sch. 1 para. 5(ba)](https://www.legislation.gov.uk/ukpga/1981/29/schedule/1/paragraph/5/ba) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/14) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
 [^c8103011]: Modification: The text of s. 3(6), 19–26, 28, 29, 35(2)–(7), 36(2), 37–39, 45, 46(2), Sch. 1 para. 10, Sch. 3 para. 8(2)(3), Sch. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

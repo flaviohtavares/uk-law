@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-d128efe96044b73a91d566ff20e7e985] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-d128efe96044b73a91d566ff20e7e985] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A constable may arrest a person without warrant if—
 
 - (a) as a result of a breath test under section 29 above he has reasonable cause to suspect that the proportion of alcohol in that person’s breath or blood exceeds the prescribed limit, or
 - (b) that person has failed to provide a specimen of breath for a breath test when required to do so in pursuance of section 29 above and the constable has reasonable cause to suspect that he has alcohol in his body.
 
-(3)[^key-05455911635bceb3dd840855a1313d83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-05455911635bceb3dd840855a1313d83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A constable may, for the purpose of—
 
@@ -40,6 +40,6 @@ enter (if need be by force) any place where that person is or where the constabl
 
 [^c8595941]: Commencement: Pt. II Ch. 1 (ss. 26-40) wholly in force at 7. 12. 1992 see s. 70 and [S.I. 1992/2043](https://www.legislation.gov.uk/uksi/1992/2043), [art. 2(a)](https://www.legislation.gov.uk/uksi/1992/2043/article/2/a).
 
-[^key-d128efe96044b73a91d566ff20e7e985]: Textual amendment: S. 30(1) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/29), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-d128efe96044b73a91d566ff20e7e985]: Textual amendment: S. 30(1) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/29), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
-[^key-05455911635bceb3dd840855a1313d83]: Textual amendment: S. 30(3) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/29), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-05455911635bceb3dd840855a1313d83]: Textual amendment: S. 30(3) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/29), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)

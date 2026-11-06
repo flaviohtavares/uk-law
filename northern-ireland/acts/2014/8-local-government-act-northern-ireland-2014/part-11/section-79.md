@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Council's general power of competence[^key-e538c52a31586982567afef3d237aaae]
+## 79. Council's general power of competence[^c-e538c52a31586982567afef3d237aaae]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e538c52a31586982567afef3d237aaae]: Commencement: [S. 79](https://www.legislation.gov.uk/nia/2014/8/section/79) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-e538c52a31586982567afef3d237aaae]: Commencement: [S. 79](https://www.legislation.gov.uk/nia/2014/8/section/79) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 261. Execution overtaken by judgment debtor’s insolvency[^key-9da1f8ae6918460ff1ff1dfdb38d2b90]
+## 261. Execution overtaken by judgment debtor’s insolvency[^c-9da1f8ae6918460ff1ff1dfdb38d2b90]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9da1f8ae6918460ff1ff1dfdb38d2b90]: Commencement: [Rule 261](https://www.legislation.gov.uk/nisr/2026/11/rule/261) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-9da1f8ae6918460ff1ff1dfdb38d2b90]: Commencement: [Rule 261](https://www.legislation.gov.uk/nisr/2026/11/rule/261) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

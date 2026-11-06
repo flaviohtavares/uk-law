@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Transfer by disposition[^key-872e6c71a30a0e6d7ed1555e35003370]
+## 50. Transfer by disposition[^c-872e6c71a30a0e6d7ed1555e35003370]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-872e6c71a30a0e6d7ed1555e35003370]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2012/5/section/50) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-872e6c71a30a0e6d7ed1555e35003370]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2012/5/section/50) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

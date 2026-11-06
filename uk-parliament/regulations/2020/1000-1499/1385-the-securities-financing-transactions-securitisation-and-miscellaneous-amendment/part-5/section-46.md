@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018[^key-e538267e19bfa36847d190a0e9238aab]
+## 46. The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018[^c-e538267e19bfa36847d190a0e9238aab]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In regulation 5(5) of the Deposit Guarantee Scheme and Miscellaneous Provisions 
 
 ## Annotations
 
-[^key-e538267e19bfa36847d190a0e9238aab]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2020/1385/regulation/46) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-e538267e19bfa36847d190a0e9238aab]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2020/1385/regulation/46) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00024]: Footnote: [S.I. 2018/1285](https://www.legislation.gov.uk/uksi/2018/1285).

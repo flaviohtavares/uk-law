@@ -32,7 +32,7 @@ summary: ''
 - (a) is not legally represented, he may be present at the hearing and determination by the High Court of the application;
 - (b) is legally represented, he shall not be entitled to be present without leave of the court.
 
-(3A)[^key-86789c80d4f49fd10fe09db4c11c6847] Subsection (3) does not entitle an applicant to be present at the hearing and determination of an application under section 111(2) unless the High Court has made a direction under section 111(4)(b).
+(3A)[^c-86789c80d4f49fd10fe09db4c11c6847] Subsection (3) does not entitle an applicant to be present at the hearing and determination of an application under section 111(2) unless the High Court has made a direction under section 111(4)(b).
 
 (4) When an applicant duly completes and returns to the Clerk of Justiciary within the prescribed time the form expressing a desire to be present at the hearing and determination by the court of the applications mentioned in this section, the form shall be deemed to be an application by the applicant for leave to be so present, and the Clerk of Justiciary, on receiving the form, shall take the necessary steps for placing the application before the court.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86789c80d4f49fd10fe09db4c11c6847]: Textual amendment: [S. 105(3A)](https://www.legislation.gov.uk/ukpga/1995/46/section/105/3A) inserted (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(1)](https://www.legislation.gov.uk/asp/2016/1/section/90/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-86789c80d4f49fd10fe09db4c11c6847]: Textual amendment: [S. 105(3A)](https://www.legislation.gov.uk/ukpga/1995/46/section/105/3A) inserted (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 90(1)](https://www.legislation.gov.uk/asp/2016/1/section/90/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
 
 [^c18925581]: Textual amendment: S. 105(4A) inserted (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) , [ss. 66(3)](https://www.legislation.gov.uk/asp/2003/7/section/66/3) , [89](https://www.legislation.gov.uk/asp/2003/7/section/89) ; [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288) , [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)

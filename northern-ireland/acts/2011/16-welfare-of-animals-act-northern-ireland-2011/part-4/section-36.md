@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The court by or before which a person is convicted of an offence under any of sections 4, 5, 6(1), (2), (11) and (15), 7, 8[^key-f9068997bc7356d8f9e11874e58be451] , 9, 10(6) and 14 may order the destruction of an animal in relation to which the offence was committed if it is satisfied, on the basis of evidence given by a veterinary surgeon, that it is appropriate to do so in the interests of the animal.
+(1) The court by or before which a person is convicted of an offence under any of sections 4, 5, 6(1), (2), (11) and (15), 7, 8[^c-f9068997bc7356d8f9e11874e58be451] , 9, 10(6) and 14 may order the destruction of an animal in relation to which the offence was committed if it is satisfied, on the basis of evidence given by a veterinary surgeon, that it is appropriate to do so in the interests of the animal.
 
 (2) A court may not make an order under subsection (1) unless—
 
@@ -42,10 +42,10 @@ summary: ''
 
 (5) Subsection (4) does not apply if the court by which the order is made directs that it is appropriate in the interests of the animal that the carrying out of the order should not be delayed.
 
-(6) In subsection (1), the reference to an animal in relation to which an offence was committed includes, in the case of an offence under section 8[^key-af4c86e2b2ac5a72b0998d212c84dda6] , an animal which took part in an animal fight in relation to which the offence was committed.
+(6) In subsection (1), the reference to an animal in relation to which an offence was committed includes, in the case of an offence under section 8[^c-af4c86e2b2ac5a72b0998d212c84dda6] , an animal which took part in an animal fight in relation to which the offence was committed.
 
 ## Annotations
 
-[^key-f9068997bc7356d8f9e11874e58be451]: Textual amendment: Word in [s. 36(1)](https://www.legislation.gov.uk/nia/2011/16/section/36/1) substituted (1.8.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 48(5)(c)](https://www.legislation.gov.uk/nia/2016/21/section/48/5/c), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2); [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 2](https://www.legislation.gov.uk/nisr/2016/248/article/2)
+[^c-f9068997bc7356d8f9e11874e58be451]: Textual amendment: Word in [s. 36(1)](https://www.legislation.gov.uk/nia/2011/16/section/36/1) substituted (1.8.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 48(5)(c)](https://www.legislation.gov.uk/nia/2016/21/section/48/5/c), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2); [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 2](https://www.legislation.gov.uk/nisr/2016/248/article/2)
 
-[^key-af4c86e2b2ac5a72b0998d212c84dda6]: Textual amendment: Word in [s. 36(6)](https://www.legislation.gov.uk/nia/2011/16/section/36/6) substituted (1.8.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 48(6)(a)](https://www.legislation.gov.uk/nia/2016/21/section/48/6/a), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2); [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 2](https://www.legislation.gov.uk/nisr/2016/248/article/2)
+[^c-af4c86e2b2ac5a72b0998d212c84dda6]: Textual amendment: Word in [s. 36(6)](https://www.legislation.gov.uk/nia/2011/16/section/36/6) substituted (1.8.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 48(6)(a)](https://www.legislation.gov.uk/nia/2016/21/section/48/6/a), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2); [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 2](https://www.legislation.gov.uk/nisr/2016/248/article/2)

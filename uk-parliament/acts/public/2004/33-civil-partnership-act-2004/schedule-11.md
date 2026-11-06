@@ -33,7 +33,7 @@ Section 125
 
 ### Part 2 — Circumstances in which court may entertain application for financial provision
 
-**2.** (1) Subject to sub-paragraph (3A)[^key-fd8f9c39bd56e272bb2e183a3b779bea], if the jurisdictional requirements and the conditions set out in sub-paragraphs (2) and (3), respectively, are satisfied, the court may entertain an application by one of the former civil partners or former ostensible civil partners, (here “A”) for an order for financial provision.
+**2.** (1) Subject to sub-paragraph (3A)[^c-fd8f9c39bd56e272bb2e183a3b779bea], if the jurisdictional requirements and the conditions set out in sub-paragraphs (2) and (3), respectively, are satisfied, the court may entertain an application by one of the former civil partners or former ostensible civil partners, (here “A”) for an order for financial provision.
 
 (2) The jurisdictional requirements are—
 
@@ -54,11 +54,11 @@ Section 125
 - (d) A and B are alive when the application is made, and
 - (e) (taking Part 3 of this Act to have been in force) a court in Scotland would have had jurisdiction to entertain an action for dissolution or annulment of the civil partnership, if such an action had been brought immediately before the overseas determination took effect.
 
-(3A)[^c21547341] If an application or part of an application relates to a matter in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18[^key-1a8565394e764e99d9f56902a32cd34f]
+(3A)[^c21547341] If an application or part of an application relates to a matter in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18[^c-1a8565394e764e99d9f56902a32cd34f]
 
-(4)[^key-b11685d052d8d1aebd8de49361e19e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b11685d052d8d1aebd8de49361e19e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^c21547421] In this paragraph “the 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague[^key-a292882de92a45c7964fc566c9b6dff5].
+(5)[^c21547421] In this paragraph “the 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague[^c-a292882de92a45c7964fc566c9b6dff5].
 
 ### Part 3 — Disposal of applications
 
@@ -89,14 +89,14 @@ Section 125
 
 ## Annotations
 
-[^key-fd8f9c39bd56e272bb2e183a3b779bea]: Textual amendment: Words in Sch. 11 para. 2(1) substituted (31.12.2020) by S.I. 2019/519, reg. 1(1), Sch. para. 25(7)(a) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(iv)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/iv))
+[^c-fd8f9c39bd56e272bb2e183a3b779bea]: Textual amendment: Words in Sch. 11 para. 2(1) substituted (31.12.2020) by S.I. 2019/519, reg. 1(1), Sch. para. 25(7)(a) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(iv)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/iv))
 
 [^c21547341]: Textual amendment: Sch. 11 para. 2(3A) inserted (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 9](https://www.legislation.gov.uk/uksi/2011/1484/regulation/9), [Sch. 7 para. 16(7)(b)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/16/7/b)
 
-[^key-1a8565394e764e99d9f56902a32cd34f]: Textual amendment: Words in Sch. 11 para. 2(3A) substituted (31.12.2020) by S.I. 2019/519, reg. 1(1), Sch. para. 25(7)(b) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(iv)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/iv))
+[^c-1a8565394e764e99d9f56902a32cd34f]: Textual amendment: Words in Sch. 11 para. 2(3A) substituted (31.12.2020) by S.I. 2019/519, reg. 1(1), Sch. para. 25(7)(b) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(iv)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/iv))
 
-[^key-b11685d052d8d1aebd8de49361e19e0e]: Textual amendment: Sch. 11 para. 2(4) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [68](https://www.legislation.gov.uk/uksi/2019/479/regulation/68) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b11685d052d8d1aebd8de49361e19e0e]: Textual amendment: Sch. 11 para. 2(4) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [68](https://www.legislation.gov.uk/uksi/2019/479/regulation/68) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21547421]: Textual amendment: Sch. 11 para. 2(5) inserted (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 9](https://www.legislation.gov.uk/uksi/2011/1484/regulation/9), [Sch. 7 para. 16(7)(d)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/16/7/d)
 
-[^key-a292882de92a45c7964fc566c9b6dff5]: Textual amendment: Words in Sch. 11 para. 2(5) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 25(7)(c) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(iv)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/iv))
+[^c-a292882de92a45c7964fc566c9b6dff5]: Textual amendment: Words in Sch. 11 para. 2(5) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 25(7)(c) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(iv)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/iv))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88A. Application of Part 12A[^key-983f1a934bf9a85f10973b5c194f3240]
+## 88A. Application of Part 12A[^c-983f1a934bf9a85f10973b5c194f3240]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Part applies where the court has, on or after 13th November 2023, awarded a
 
 ## Annotations
 
-[^key-983f1a934bf9a85f10973b5c194f3240]: Textual amendment: [Pt. 12A](https://www.legislation.gov.uk/uksi/2009/1211/part/12A) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1097/rule/13)
+[^c-983f1a934bf9a85f10973b5c194f3240]: Textual amendment: [Pt. 12A](https://www.legislation.gov.uk/uksi/2009/1211/part/12A) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1097/rule/13)

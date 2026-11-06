@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Directions: funding of qualifications[^key-f17c1b122b027ad51f2d69417185781c]
+## 119. Directions: funding of qualifications[^c-f17c1b122b027ad51f2d69417185781c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f17c1b122b027ad51f2d69417185781c]: Textual amendment: Ss. 117-120 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 25](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/25)
+[^c-f17c1b122b027ad51f2d69417185781c]: Textual amendment: Ss. 117-120 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 25](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/25)

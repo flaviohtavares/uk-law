@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## (not yet in force: 41C). (not yet in force: Breach of requirement as to speed assessment equipment detection devices)[^key-700dc55eb20fcbac8de34348ad2bfa98][^c19271991]
+## (not yet in force: 41C). (not yet in force: Breach of requirement as to speed assessment equipment detection devices)[^c-700dc55eb20fcbac8de34348ad2bfa98][^c19271991]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-700dc55eb20fcbac8de34348ad2bfa98]: Modification: S. 41C excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-700dc55eb20fcbac8de34348ad2bfa98]: Modification: S. 41C excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
 
 [^c19271991]: Textual amendment: S. 41C inserted (prosp.) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2006/49/section/18/2), [61](https://www.legislation.gov.uk/ukpga/2006/49/section/61)

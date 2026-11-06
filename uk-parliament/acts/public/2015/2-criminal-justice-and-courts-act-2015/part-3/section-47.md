@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Instituting proceedings: further provision[^key-c96d98c5bcd646eb7cf8a347afb7143a]
+## 47. Instituting proceedings: further provision[^c-c96d98c5bcd646eb7cf8a347afb7143a]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c96d98c5bcd646eb7cf8a347afb7143a]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2015/2/section/47) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/38)
+[^c-c96d98c5bcd646eb7cf8a347afb7143a]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2015/2/section/47) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/38)

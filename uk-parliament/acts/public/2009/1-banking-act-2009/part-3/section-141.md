@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Bank administration order[^key-c9ed70a9b6b4f7fb8301e17ab34647fd]
+## 141. Bank administration order[^c-c9ed70a9b6b4f7fb8301e17ab34647fd]
 
 *Extent: E+W+S+N.I.*
 
 (1) A bank administration order is an order appointing a person as the bank administrator of a bank.
 
-(2) A person is eligible for appointment as a bank administrator if qualified to act as an insolvency practitioner in relation to the bank[^key-52ab8cf299193235c9ce2d96ea275aea].
+(2) A person is eligible for appointment as a bank administrator if qualified to act as an insolvency practitioner in relation to the bank[^c-52ab8cf299193235c9ce2d96ea275aea].
 
 (3) An appointment may be made only if the person has consented to act.
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9ed70a9b6b4f7fb8301e17ab34647fd]: Commencement: S. 141 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-c9ed70a9b6b4f7fb8301e17ab34647fd]: Commencement: S. 141 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
 
-[^key-52ab8cf299193235c9ce2d96ea275aea]: Textual amendment: Words in s. 141(2) inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2017/400/regulation/5/7)
+[^c-52ab8cf299193235c9ce2d96ea275aea]: Textual amendment: Words in s. 141(2) inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2017/400/regulation/5/7)

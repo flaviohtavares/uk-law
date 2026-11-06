@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Voters waiting at polling station at close of poll[^key-c5faf28e05e83764c279a102f9ffae2d]
+## 19. Voters waiting at polling station at close of poll[^c-c5faf28e05e83764c279a102f9ffae2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5faf28e05e83764c279a102f9ffae2d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/6/section/19) in force at 22.5.2014 by [S.I. 2014/336](https://www.legislation.gov.uk/uksi/2014/336), [art. 2](https://www.legislation.gov.uk/uksi/2014/336/article/2)
+[^c-c5faf28e05e83764c279a102f9ffae2d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/6/section/19) in force at 22.5.2014 by [S.I. 2014/336](https://www.legislation.gov.uk/uksi/2014/336), [art. 2](https://www.legislation.gov.uk/uksi/2014/336/article/2)

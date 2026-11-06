@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: S*
 
-(1) Without prejudice to section 299 of this Act, where, on an application in accordance with subsection (2) below, the Sheriff Appeal Court[^key-6ab931b6191b82a45d5fde37a6dad450] is satisfied that a record of conviction or sentence in summary proceedings inaccurately records the identity of any person, it may authorise the clerk of the court which convicted or, as the case may be, sentenced the person to correct the record.
+(1) Without prejudice to section 299 of this Act, where, on an application in accordance with subsection (2) below, the Sheriff Appeal Court[^c-6ab931b6191b82a45d5fde37a6dad450] is satisfied that a record of conviction or sentence in summary proceedings inaccurately records the identity of any person, it may authorise the clerk of the court which convicted or, as the case may be, sentenced the person to correct the record.
 
 (2) An application under subsection (1) above shall be made after the determination of the summary prosecution and may be made by any party to the summary proceedings or any other person having an interest in the correction of the alleged inaccuracy.
 
-(3) The Sheriff Appeal Court[^key-d86aed567dbb095155248d15ab2fe3ff] shall order intimation of an application under subsection (1) above to such persons as it considers appropriate and shall not determine the application without affording to the parties to the summary proceedings and to any other person having an interest in the correction of the alleged inaccuracy an opportunity to be heard.
+(3) The Sheriff Appeal Court[^c-d86aed567dbb095155248d15ab2fe3ff] shall order intimation of an application under subsection (1) above to such persons as it considers appropriate and shall not determine the application without affording to the parties to the summary proceedings and to any other person having an interest in the correction of the alleged inaccuracy an opportunity to be heard.
 
 (4) The power of the High Court under this section may be exercised by a single judge of the High Court in the same manner as it may be exercised by the High Court, and subject to the same provisions.
 
 ## Annotations
 
-[^key-6ab931b6191b82a45d5fde37a6dad450]: Textual amendment: Words in s. 300(1) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(18)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/18) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-6ab931b6191b82a45d5fde37a6dad450]: Textual amendment: Words in s. 300(1) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(18)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/18) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-d86aed567dbb095155248d15ab2fe3ff]: Textual amendment: Words in s. 300(3) substituted (22.9.2015) by virtue of [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(18)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/18) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-d86aed567dbb095155248d15ab2fe3ff]: Textual amendment: Words in s. 300(3) substituted (22.9.2015) by virtue of [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(18)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/18) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))

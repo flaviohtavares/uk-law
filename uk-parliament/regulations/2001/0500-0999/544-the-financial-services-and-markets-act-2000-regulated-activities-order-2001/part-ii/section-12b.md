@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12B. Transformer vehicles: insurance risk transformation[^key-daf859bf1bf47f35aadd02e1f165a490]
+## 12B. Transformer vehicles: insurance risk transformation[^c-daf859bf1bf47f35aadd02e1f165a490]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A transformer vehicle does not carry on an activity of a kind specified by artic
 
 ## Annotations
 
-[^key-daf859bf1bf47f35aadd02e1f165a490]: Textual amendment: Art. 12B inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/5/2)
+[^c-daf859bf1bf47f35aadd02e1f165a490]: Textual amendment: Art. 12B inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/5/2)

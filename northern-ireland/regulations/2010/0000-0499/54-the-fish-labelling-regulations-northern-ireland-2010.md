@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Fish Labelling Regulations (Northern Ireland) 2010 (revoked)[^key-1bfbf3466ecd73339093fc64866dfc76]
+The Fish Labelling Regulations (Northern Ireland) 2010 (revoked)[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 Made
 
@@ -42,70 +42,70 @@ Coming into operation
 
 6th April 2010
 
-[^key-1bfbf3466ecd73339093fc64866dfc76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bfbf3466ecd73339093fc64866dfc76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1bfbf3466ecd73339093fc64866dfc76]
+## 1. Citation and commencement[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1bfbf3466ecd73339093fc64866dfc76]
+## 2. Interpretation[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences relating to consumer information[^key-1bfbf3466ecd73339093fc64866dfc76]
+## 3. Offences relating to consumer information[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Lists of commercial designations[^key-1bfbf3466ecd73339093fc64866dfc76]
+## 4. Lists of commercial designations[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Omission of reference to the production method[^key-1bfbf3466ecd73339093fc64866dfc76]
+## 5. Omission of reference to the production method[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Small quantities of products[^key-1bfbf3466ecd73339093fc64866dfc76]
+## 6. Small quantities of products[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Additional information relating to the catch area[^key-1bfbf3466ecd73339093fc64866dfc76]
+## 7. Additional information relating to the catch area[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Provisional commercial designations[^key-1bfbf3466ecd73339093fc64866dfc76]
+## 8. Provisional commercial designations[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Enforcement[^key-1bfbf3466ecd73339093fc64866dfc76]
+## 9. Enforcement[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^key-1bfbf3466ecd73339093fc64866dfc76]
+## 10. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocation[^key-1bfbf3466ecd73339093fc64866dfc76]
+## 11. Revocation[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1bfbf3466ecd73339093fc64866dfc76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bfbf3466ecd73339093fc64866dfc76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Commercial Designations[^key-1bfbf3466ecd73339093fc64866dfc76]
+## SCHEDULE — Commercial Designations[^c-1bfbf3466ecd73339093fc64866dfc76]
 
 Regulation 4
 
-**1.**[^key-1bfbf3466ecd73339093fc64866dfc76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1bfbf3466ecd73339093fc64866dfc76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1bfbf3466ecd73339093fc64866dfc76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1bfbf3466ecd73339093fc64866dfc76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1bfbf3466ecd73339093fc64866dfc76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1bfbf3466ecd73339093fc64866dfc76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1bfbf3466ecd73339093fc64866dfc76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1bfbf3466ecd73339093fc64866dfc76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1bfbf3466ecd73339093fc64866dfc76]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/54) revoked (7.10.2013) by [The Fish Labelling Regulations (Northern Ireland) 2013 (S.R. 2013/219)](https://www.legislation.gov.uk/nisr/2013/219), [reg. 11](https://www.legislation.gov.uk/nisr/2013/219/regulation/11)
+[^c-1bfbf3466ecd73339093fc64866dfc76]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/54) revoked (7.10.2013) by [The Fish Labelling Regulations (Northern Ireland) 2013 (S.R. 2013/219)](https://www.legislation.gov.uk/nisr/2013/219), [reg. 11](https://www.legislation.gov.uk/nisr/2013/219/regulation/11)

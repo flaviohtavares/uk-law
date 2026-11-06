@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38B. Obligations which are met by complying with obligations in the Directive that relate to the registration number[^key-3c6b9581de1cc9355962501a52a7d89b]
+## 38B. Obligations which are met by complying with obligations in the Directive that relate to the registration number[^c-3c6b9581de1cc9355962501a52a7d89b]
 
 *Extent: E+W+S*
 
 (1) In this regulation—
 
 - (a) any reference to an Article is a reference to an Article of the Directive; and
-- (b) “**registration number**” means a number comprising the elements set out in Article 1 of Commission Implementing Directive 2014/58/EU of 16 April 2014 setting up a system for the traceability of pyrotechnic articles [^key-4c4a93a77bfbd01b9a1fb17f7eb602ae]....
+- (b) “**registration number**” means a number comprising the elements set out in Article 1 of Commission Implementing Directive 2014/58/EU of 16 April 2014 setting up a system for the traceability of pyrotechnic articles [^c-4c4a93a77bfbd01b9a1fb17f7eb602ae]....
 
 (2) Paragraph (3) applies where, before placing a pyrotechnic article on the market, the manufacturer labels the pyrotechnic article with a registration number in accordance with Article 10(2) or Article 11(1), as applicable.
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c6b9581de1cc9355962501a52a7d89b]: Textual amendment: Regs. 38A-38F inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 22](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/22) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/11/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c6b9581de1cc9355962501a52a7d89b]: Textual amendment: Regs. 38A-38F inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 22](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/22) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/11/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4c4a93a77bfbd01b9a1fb17f7eb602ae]: Textual amendment: Words in reg. 38B(1)(b) omitted (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2024/696/regulation/10/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-4c4a93a77bfbd01b9a1fb17f7eb602ae]: Textual amendment: Words in reg. 38B(1)(b) omitted (1.10.2024) by virtue of [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2024/696/regulation/10/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Preparation and maintenance of pharmaceutical lists[^key-bfc7d33947f87442d319ffd585403ad3]
+## 10. Preparation and maintenance of pharmaceutical lists[^c-bfc7d33947f87442d319ffd585403ad3]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfc7d33947f87442d319ffd585403ad3]: Commencement: Reg. 10 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-bfc7d33947f87442d319ffd585403ad3]: Commencement: Reg. 10 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

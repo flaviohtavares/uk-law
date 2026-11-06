@@ -35,44 +35,44 @@ amending Regulation (EU) No 333/2010, Implementing Regulation (EU) 2017/2312, Im
 
 (Text with EEA relevance) (revoked)
 
-[^key-1ccfe996e433f7c3fa833810eefd2a87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ccfe996e433f7c3fa833810eefd2a87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Regulation (EU) No 333/2010[^key-1ccfe996e433f7c3fa833810eefd2a87]
+## Article 1. Amendments to Regulation (EU) No 333/2010[^c-1ccfe996e433f7c3fa833810eefd2a87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendments to Regulation (EU) No 184/2011[^key-1ccfe996e433f7c3fa833810eefd2a87]
+## Article 2. Amendments to Regulation (EU) No 184/2011[^c-1ccfe996e433f7c3fa833810eefd2a87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendments to Implementing Regulation (EU) 2016/897[^key-1ccfe996e433f7c3fa833810eefd2a87]
+## Article 3. Amendments to Implementing Regulation (EU) 2016/897[^c-1ccfe996e433f7c3fa833810eefd2a87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendments to Implementing Regulation (EU) 2017/2312[^key-1ccfe996e433f7c3fa833810eefd2a87]
+## Article 4. Amendments to Implementing Regulation (EU) 2017/2312[^c-1ccfe996e433f7c3fa833810eefd2a87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Amendments to Implementing Regulation (EU) 2018/1081[^key-1ccfe996e433f7c3fa833810eefd2a87]
+## Article 5. Amendments to Implementing Regulation (EU) 2018/1081[^c-1ccfe996e433f7c3fa833810eefd2a87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Amendments to Implementing Regulation (EU) 2019/893[^key-1ccfe996e433f7c3fa833810eefd2a87]
+## Article 6. Amendments to Implementing Regulation (EU) 2019/893[^c-1ccfe996e433f7c3fa833810eefd2a87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Transitional measures[^key-1ccfe996e433f7c3fa833810eefd2a87]
+## Article 7. Transitional measures[^c-1ccfe996e433f7c3fa833810eefd2a87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-1ccfe996e433f7c3fa833810eefd2a87]
+## Article 8. Entry into force[^c-1ccfe996e433f7c3fa833810eefd2a87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ccfe996e433f7c3fa833810eefd2a87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ccfe996e433f7c3fa833810eefd2a87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ccfe996e433f7c3fa833810eefd2a87]: Textual amendment: Regulation revoked (E.) (20.12.2024) by [The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Amendment of Commission Regulation (EU) 2020/354) (England) Regulations 2024 (S.I. 2024/1101)](https://www.legislation.gov.uk/uksi/2024/1101), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1), [Sch. 21 para. 9](https://www.legislation.gov.uk/uksi/2024/1101/schedule/21/paragraph/9) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2024/1101/part/5)); and Regulation revoked (W.) (20.12.2024) by [The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Amendment of Commission Regulation (EU) 2020/354) (Wales) Regulations 2024 (S.I. 2024/1251)](https://www.legislation.gov.uk/wsi/2024/1251), [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1251/regulation/1/2/c), [Sch. 21](https://www.legislation.gov.uk/wsi/2024/1251/schedule/21) (with [Pt. 3](https://www.legislation.gov.uk/wsi/2024/1251/part/3)); and Regulation revoked (S.) (20.12.2024) by [The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/330)](https://www.legislation.gov.uk/ssi/2024/330), [reg. 1](https://www.legislation.gov.uk/ssi/2024/330/regulation/1), [sch. 21 para. 11](https://www.legislation.gov.uk/ssi/2024/330/schedule/21/paragraph/11)
+[^c-1ccfe996e433f7c3fa833810eefd2a87]: Textual amendment: Regulation revoked (E.) (20.12.2024) by [The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Amendment of Commission Regulation (EU) 2020/354) (England) Regulations 2024 (S.I. 2024/1101)](https://www.legislation.gov.uk/uksi/2024/1101), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1101/regulation/1/1), [Sch. 21 para. 9](https://www.legislation.gov.uk/uksi/2024/1101/schedule/21/paragraph/9) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2024/1101/part/5)); and Regulation revoked (W.) (20.12.2024) by [The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Amendment of Commission Regulation (EU) 2020/354) (Wales) Regulations 2024 (S.I. 2024/1251)](https://www.legislation.gov.uk/wsi/2024/1251), [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2024/1251/regulation/1/2/c), [Sch. 21](https://www.legislation.gov.uk/wsi/2024/1251/schedule/21) (with [Pt. 3](https://www.legislation.gov.uk/wsi/2024/1251/part/3)); and Regulation revoked (S.) (20.12.2024) by [The Feed Additives (Authorisations) and Uses of Feed Intended for Particular Nutritional Purposes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/330)](https://www.legislation.gov.uk/ssi/2024/330), [reg. 1](https://www.legislation.gov.uk/ssi/2024/330/regulation/1), [sch. 21 para. 11](https://www.legislation.gov.uk/ssi/2024/330/schedule/21/paragraph/11)

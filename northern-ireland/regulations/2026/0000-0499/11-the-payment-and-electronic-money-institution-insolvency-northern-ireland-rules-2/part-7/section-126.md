@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 126. Exclusion of proof by the court[^key-2bdc1b90054faa7b1f33a050a499a0e9]
+## 126. Exclusion of proof by the court[^c-2bdc1b90054faa7b1f33a050a499a0e9]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bdc1b90054faa7b1f33a050a499a0e9]: Commencement: [Rule 126](https://www.legislation.gov.uk/nisr/2026/11/rule/126) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-2bdc1b90054faa7b1f33a050a499a0e9]: Commencement: [Rule 126](https://www.legislation.gov.uk/nisr/2026/11/rule/126) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

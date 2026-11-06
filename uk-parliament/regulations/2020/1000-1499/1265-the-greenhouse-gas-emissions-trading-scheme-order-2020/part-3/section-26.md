@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Installations: requirement for permit to carry out regulated activity[^key-23bb02755a7b08f1176a73191acfd87c]
+## 26. Installations: requirement for permit to carry out regulated activity[^c-23bb02755a7b08f1176a73191acfd87c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23bb02755a7b08f1176a73191acfd87c]: Commencement: Art. 26 in force at 12.11.2020, see art. 2(1)
+[^c-23bb02755a7b08f1176a73191acfd87c]: Commencement: Art. 26 in force at 12.11.2020, see art. 2(1)

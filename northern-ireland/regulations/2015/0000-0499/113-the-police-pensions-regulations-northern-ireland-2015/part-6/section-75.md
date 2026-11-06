@@ -30,11 +30,11 @@ summary: ''
 - (a) a question as to whether a member of the police service is permanently medically unfit is referred to a selected medical practitioner for decision; and
 - (b) the member wilfully or negligently fails to submit to any medical examination or to attend any interviews that the selected medical practitioner considers necessary in order to make a decision.
 
-(3)[^key-cba6180a5813ca2e24feb3323e3e84e7] An appeal under Schedule 1 against a decision of a selected medical practitioner is taken to be withdrawn if—
+(3)[^c-cba6180a5813ca2e24feb3323e3e84e7] An appeal under Schedule 1 against a decision of a selected medical practitioner is taken to be withdrawn if—
 
 - (a) a question as to whether a member of the police service is permanently medically unfit is referred to an IMR for decision; and
 - (b) the person wilfully or negligently fails to submit to any medical examination or to attend any interviews that the IMR considers necessary in order to make a decision.
 
 ## Annotations
 
-[^key-cba6180a5813ca2e24feb3323e3e84e7]: Textual amendment: [Reg. 75(3)](https://www.legislation.gov.uk/nisr/2015/113/regulation/75/3) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [13](https://www.legislation.gov.uk/nisr/2024/38/regulation/13)
+[^c-cba6180a5813ca2e24feb3323e3e84e7]: Textual amendment: [Reg. 75(3)](https://www.legislation.gov.uk/nisr/2015/113/regulation/75/3) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [13](https://www.legislation.gov.uk/nisr/2024/38/regulation/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Disability[^key-107ad408a636893d8703dd2b1e7a71de]
+## 75. Disability[^c-107ad408a636893d8703dd2b1e7a71de]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ If a spaceflight participant with a disability or reduced mobility has been cert
 
 ## Annotations
 
-[^key-107ad408a636893d8703dd2b1e7a71de]: Commencement: Reg. 75 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-107ad408a636893d8703dd2b1e7a71de]: Commencement: Reg. 75 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

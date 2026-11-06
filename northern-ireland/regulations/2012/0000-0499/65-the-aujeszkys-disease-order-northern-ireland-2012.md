@@ -181,7 +181,7 @@ takes all biosecurity precautions notified by the inspector under paragraph (2) 
 
 #### 9. Disease investigation
 
-(1) A veterinary inspector shall begin an investigation in any suspect infected premises to establish whether the Aujeszky's Disease virus is present. This shall include taking samples from any pigs or carcases on the premises and having them tested at a designated laboratory in accordance with Annex III of Commission[^key-247cd9cd1e550cd8ff81c65a85762ed5] [Decision 2008/185/EC](https://www.legislation.gov.uk/eudn/2008/0185), as amended by Commission Implementing Decision (EU) 2016/1782.
+(1) A veterinary inspector shall begin an investigation in any suspect infected premises to establish whether the Aujeszky's Disease virus is present. This shall include taking samples from any pigs or carcases on the premises and having them tested at a designated laboratory in accordance with Annex III of Commission[^c-247cd9cd1e550cd8ff81c65a85762ed5] [Decision 2008/185/EC](https://www.legislation.gov.uk/eudn/2008/0185), as amended by Commission Implementing Decision (EU) 2016/1782.
 
 (2) If the tests carried out under paragraph 1 demonstrate that Aujeszky's Disease virus is present, the veterinary inspector shall serve a notice on the keeper, or if different from the keeper the owner or occupier of the premises, declaring those premises to be an infected premises and imposing the measures in Schedule 1.
 
@@ -249,7 +249,7 @@ When a veterinary inspector is satisfied that there is no further risk of spread
 
 (1) The operator shall ensure that the parts of the slaughterhouse used to slaughter and store the carcases of the pigs suspected of being infected with Aujeszky's Disease virus are not used until the operator has cleansed and disinfected them to the satisfaction of the veterinary inspector, and failure to comply with this provision is an offence.
 
-(2) A veterinary inspector shall take samples (the samples may be from pigs and carcases at the slaughterhouse) and have them tested at a designated laboratory in accordance with Annex III of Commission[^key-6e4d202eeb12a16d64d06a5181c82e12] [Decision 2008/185/EC](https://www.legislation.gov.uk/eudn/2008/0185), as amended by Commission Implementing Decision (EU) 2016/1782.
+(2) A veterinary inspector shall take samples (the samples may be from pigs and carcases at the slaughterhouse) and have them tested at a designated laboratory in accordance with Annex III of Commission[^c-6e4d202eeb12a16d64d06a5181c82e12] [Decision 2008/185/EC](https://www.legislation.gov.uk/eudn/2008/0185), as amended by Commission Implementing Decision (EU) 2016/1782.
 
 (3) A veterinary inspector may revoke the controls in this article at any time by service of a notice.
 
@@ -458,9 +458,9 @@ The main provisions of the Order are as follows:—
 
 [^c21189051]: Marginal citation: S.R. [2012 No. 67](https://www.legislation.gov.uk/ukcm/2012/67)
 
-[^key-247cd9cd1e550cd8ff81c65a85762ed5]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/nisr/2012/65/article/9/1) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 33](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/33)
+[^c-247cd9cd1e550cd8ff81c65a85762ed5]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/nisr/2012/65/article/9/1) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 33](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/33)
 
-[^key-6e4d202eeb12a16d64d06a5181c82e12]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/nisr/2012/65/article/16/2) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 34](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/34)
+[^c-6e4d202eeb12a16d64d06a5181c82e12]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/nisr/2012/65/article/16/2) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 34](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/34)
 
 [^c21189071]: Marginal citation: S.R. [1975 No. 294](https://www.legislation.gov.uk/ukcm/1975/294) as amended
 

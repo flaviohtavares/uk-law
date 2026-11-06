@@ -33,7 +33,7 @@ This Statutory Instrument has been printed to correct errors in [S.I. 2019/1454]
 
 Representation Of The People
 
-The Parliamentary Elections (Returning Officers’ Charges) (Amendment) Order 2019 (revoked)[^key-7340a8008c5f83f98ee774d169fd8d66]
+The Parliamentary Elections (Returning Officers’ Charges) (Amendment) Order 2019 (revoked)[^c-7340a8008c5f83f98ee774d169fd8d66]
 
 Made
 
@@ -41,22 +41,22 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-7340a8008c5f83f98ee774d169fd8d66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7340a8008c5f83f98ee774d169fd8d66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-7340a8008c5f83f98ee774d169fd8d66]
+## 1. Citation, commencement and extent[^c-7340a8008c5f83f98ee774d169fd8d66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Parliamentary Elections (Returning Officers’ Charges) Order 2019[^key-7340a8008c5f83f98ee774d169fd8d66]
+## 2. Amendment to the Parliamentary Elections (Returning Officers’ Charges) Order 2019[^c-7340a8008c5f83f98ee774d169fd8d66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7340a8008c5f83f98ee774d169fd8d66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7340a8008c5f83f98ee774d169fd8d66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7340a8008c5f83f98ee774d169fd8d66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7340a8008c5f83f98ee774d169fd8d66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7340a8008c5f83f98ee774d169fd8d66]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2019/1470) revoked (24.5.2024) by [The Parliamentary Elections (Returning Officers’ Charges) Order 2024 (S.I. 2024/693)](https://www.legislation.gov.uk/uksi/2024/693), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/693/article/1/1), [6(1)(c)](https://www.legislation.gov.uk/uksi/2024/693/article/6/1/c) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2024/693/article/6/2))
+[^c-7340a8008c5f83f98ee774d169fd8d66]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2019/1470) revoked (24.5.2024) by [The Parliamentary Elections (Returning Officers’ Charges) Order 2024 (S.I. 2024/693)](https://www.legislation.gov.uk/uksi/2024/693), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/693/article/1/1), [6(1)(c)](https://www.legislation.gov.uk/uksi/2024/693/article/6/1/c) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2024/693/article/6/2))

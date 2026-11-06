@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Principal Reporter’s power to initiate review of compulsory supervision order[^key-251cb6ee5d1a6c8eb52fe9c718bf3a94]
+## 56. Principal Reporter’s power to initiate review of compulsory supervision order[^c-251cb6ee5d1a6c8eb52fe9c718bf3a94]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-251cb6ee5d1a6c8eb52fe9c718bf3a94]: Commencement: S. 56 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-251cb6ee5d1a6c8eb52fe9c718bf3a94]: Commencement: S. 56 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

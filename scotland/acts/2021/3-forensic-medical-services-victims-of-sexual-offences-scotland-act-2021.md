@@ -32,11 +32,11 @@ Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021
 
 An Act of the Scottish Parliament to confer on health boards functions relating to the provision of forensic medical services to victims of sexual offences; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 10th December 2020 and received Royal Assent on 20th January 2021[^key-1d335c60965e0da383d4013e6ca181e0]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 10th December 2020 and received Royal Assent on 20th January 2021[^c-1d335c60965e0da383d4013e6ca181e0]
 
 ## Duty to provide certain forensic medical services
 
-### 1. Provision of certain forensic medical services[^key-a6dc726fdcdb294831430f4c56ad21b5]
+### 1. Provision of certain forensic medical services[^c-a6dc726fdcdb294831430f4c56ad21b5]
 
 (1) Every health board must, in respect of its area—
 
@@ -50,7 +50,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## The examination service
 
-### 2. The examination service[^key-ff33070d65363fb9d69e7c2fe0ed9997]
+### 2. The examination service[^c-ff33070d65363fb9d69e7c2fe0ed9997]
 
 (1) The examination service consists of providing forensic medical examinations to persons falling within subsection (2) (but see section 3).
 
@@ -107,20 +107,20 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   the reference to the age of criminal responsibility is a reference to the age of criminal responsibility in Scotland (as specified in section 41 of the Criminal Procedure (Scotland) Act 1995).
 
-(12)[^key-318123c9512e523d1f21d8852d050382] In this section a reference to a constable includes a reference to—
+(12)[^c-318123c9512e523d1f21d8852d050382] In this section a reference to a constable includes a reference to—
 
 - (a) a member of a service police force;
 - (b) a constable of the Ministry of Defence Police;
 - (c) a constable of the British Transport Police.
 
-### 3. Limitation on provision of forensic medical examinations[^key-76cab5bf1425a2483ba55a9a33cccd51]
+### 3. Limitation on provision of forensic medical examinations[^c-76cab5bf1425a2483ba55a9a33cccd51]
 
 Nothing in this Act requires—
 
 - (a) a forensic medical examination to be carried out where a professional judgement is made that the examination should not be carried out, or
 - (b) a particular action to be carried out as part of a forensic medical examination where a professional judgement is made that the action should not be carried out.
 
-### 4. Information to be provided before examination[^key-3bed34f3d8663bb29a8150faebf8b158]
+### 4. Information to be provided before examination[^c-3bed34f3d8663bb29a8150faebf8b158]
 
 (1) This section applies where a person is referred for or requests a forensic medical examination as mentioned in section 2(2).
 
@@ -140,7 +140,7 @@ Nothing in this Act requires—
 
 (4) Failure to comply with subsection (2) does not by itself render any evidence collected during the examination inadmissible in any proceedings in relation to the incident which gave rise to the need for the examination.
 
-### 5. Health care needs[^key-694b7eefe090989dc22335981d98ada0]
+### 5. Health care needs[^c-694b7eefe090989dc22335981d98ada0]
 
 (1) A health board must take such steps as are reasonably practicable to ensure that, where a person is referred for or requests a forensic medical examination as mentioned in section 2(2), any health care needs of the person arising from the incident which gave rise to the need for the examination are identified and, to the extent that it is a function of the health board to provide for the health care of the person, addressed by the health board.
 
@@ -152,7 +152,7 @@ Nothing in this Act requires—
 
 ## The retention service
 
-### 6. The retention service[^key-1bc056b21176fc13d979e155c6a22612]
+### 6. The retention service[^c-1bc056b21176fc13d979e155c6a22612]
 
 (1) The retention service consists of storing, for the purpose mentioned in subsection (2), evidence which—
 
@@ -164,7 +164,7 @@ Nothing in this Act requires—
 - (a) any investigation of the incident which gave rise to the need for the examination, or
 - (b) any proceedings in relation to the incident.
 
-### 7. Return of certain items of evidence[^key-d5d9d72ccd969a9590b4e3574527f953]
+### 7. Return of certain items of evidence[^c-d5d9d72ccd969a9590b4e3574527f953]
 
 (1) This section applies where evidence collected during a forensic medical examination carried out by virtue of section 2(2)(b) and stored by a health board under section 6 includes an item which was worn or otherwise present during the incident which gave rise to the need for the examination.
 
@@ -185,7 +185,7 @@ Nothing in this Act requires—
 
 (5) Otherwise, the health board must comply with the request as soon as reasonably practicable.
 
-### 8. Destruction of evidence[^key-2a232a25cc4ab111fdb437727d152586]
+### 8. Destruction of evidence[^c-2a232a25cc4ab111fdb437727d152586]
 
 (1) A health board must ensure that any evidence collected during a forensic medical examination carried out by virtue of section 2(2)(b) and stored by the health board under section 6 is destroyed as soon as reasonably practicable after whichever of the following occurs first—
 
@@ -218,7 +218,7 @@ Nothing in this Act requires—
 
 ## Transfer of evidence
 
-### 9. Transfer of evidence to police[^key-6b6d40fc93404e05178cb31550ee04ba]
+### 9. Transfer of evidence to police[^c-6b6d40fc93404e05178cb31550ee04ba]
 
 (1) This section applies—
 
@@ -238,13 +238,13 @@ Nothing in this Act requires—
 
 (3) The health board must comply with the request as soon as reasonably practicable.
 
-(4)[^key-a65ae6a04e1b7866fc6e9424829096a0] In this section a reference to a constable includes a reference to a member of a service police force.
+(4)[^c-a65ae6a04e1b7866fc6e9424829096a0] In this section a reference to a constable includes a reference to a member of a service police force.
 
 (5) Where a constable of the British Transport Police or the Ministry of Defence Police has made a request under subsection (2), the health board must comply with the request as soon as reasonably practicable.
 
 ## Provision of examination and retention services: health care principles
 
-### 10. Trauma-informed care[^key-fd347b5f335a8416126864d42a8e3279]
+### 10. Trauma-informed care[^c-fd347b5f335a8416126864d42a8e3279]
 
 (1) The Patient Rights (Scotland) Act 2011 is amended as follows (see also paragraph 4 of the schedule).
 
@@ -260,7 +260,7 @@ Nothing in this Act requires—
 
 ## Examination of under-age persons
 
-### 11. Examination of under-age person under section 2(2)(b)[^key-65617c09cd12b8254ac5dc9302370e4a]
+### 11. Examination of under-age person under section 2(2)(b)[^c-65617c09cd12b8254ac5dc9302370e4a]
 
 (1) Subsection (2) applies where—
 
@@ -282,7 +282,7 @@ Nothing in this Act requires—
 
 ## Victim support information and referrals
 
-### 12. Victim support information and referrals[^key-063d699d9d183f5a099f627fd98685db]
+### 12. Victim support information and referrals[^c-063d699d9d183f5a099f627fd98685db]
 
 (1) Subsection (2) applies where—
 
@@ -333,7 +333,7 @@ Nothing in this Act requires—
 
 ## Section 1 functions: conferral of related functions and co-operation
 
-### 13. Power to confer functions on other bodies[^key-8b5a96080f41a4df0066fad7fb78dff4]
+### 13. Power to confer functions on other bodies[^c-8b5a96080f41a4df0066fad7fb78dff4]
 
 (1) The Scottish Ministers may by regulations confer on the bodies listed in subsection (2) functions relating to the services mentioned in section 1.
 
@@ -354,7 +354,7 @@ Nothing in this Act requires—
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) otherwise, are subject to the negative procedure.
 
-### 14. Co-operation[^key-9a6c1565c101a2e08d7b09b1f7311047]
+### 14. Co-operation[^c-9a6c1565c101a2e08d7b09b1f7311047]
 
 (1) Health boards must co-operate with one another, and with the bodies listed in subsection (2), in relation to the planning and provision of the services mentioned in section 1, with a view to securing, across Scotland, adequate provision and continuous improvement in the delivery of those services.
 
@@ -368,7 +368,7 @@ Nothing in this Act requires—
 
 ## Reports
 
-### 15. Report on operation of Act[^key-d5996109422afd496bd3ba96207c4c25]
+### 15. Report on operation of Act[^c-d5996109422afd496bd3ba96207c4c25]
 
 (1) Public Health Scotland must—
 
@@ -384,7 +384,7 @@ Nothing in this Act requires—
 
 ## General provisions
 
-### 16. Minor and consequential modifications[^key-1504c48d404dea8ec834a56a22b169ff]
+### 16. Minor and consequential modifications[^c-1504c48d404dea8ec834a56a22b169ff]
 
 The schedule makes minor and consequential modifications of other enactments.
 
@@ -411,7 +411,7 @@ during or in connection with the examination.
 
 - “**1978 Act**” means the National Health Service (Scotland) Act 1978,
 - “**the Agency**” means the Common Services Agency for the Scottish Health Service,
-- “[^key-bb7e69b4813691dffcf290fd8575fd0d]**constable**” has the same meaning as in section 99(1) of the Police and Fire Reform (Scotland) Act 2012 (but see sections 2(12) and 9(4)),
+- “[^c-bb7e69b4813691dffcf290fd8575fd0d]**constable**” has the same meaning as in section 99(1) of the Police and Fire Reform (Scotland) Act 2012 (but see sections 2(12) and 9(4)),
 - “**forensic medical examination**” has the meaning given by section 2(3),
 - “**health board**” means a board constituted under section 2(1)(a) of the 1978 Act,
 - “**HIS**” means Healthcare Improvement Scotland,
@@ -421,7 +421,7 @@ during or in connection with the examination.
 - “**proceedings**” means—
   - (a) criminal proceedings, or
   - (b) proceedings under the Children's Hearings (Scotland) Act 2011,
-- “[^key-24b6295cc9e53b7ecb79fcdf9d9827b5]**service police force**” means—
+- “[^c-24b6295cc9e53b7ecb79fcdf9d9827b5]**service police force**” means—
   - (a) the Royal Navy Police,
   - (b) the Royal Military Police, or
   - (c) the Royal Air Force Police,
@@ -433,7 +433,7 @@ during or in connection with the examination.
 
 (4) Sections 6, 7, 8 and 9 are to be read as if a forensic medical examination has been carried out, and references to the person undergoing the examination are to be construed accordingly.
 
-(5)[^key-83e1578129ee8c9073b15fc85c0e7fd3] In this Act a reference to a sexual offence includes a service offence which involves—
+(5)[^c-83e1578129ee8c9073b15fc85c0e7fd3] In this Act a reference to a sexual offence includes a service offence which involves—
 
 - (a) an element of physical, sexual contact, or
 - (b) the ejaculation of semen, or the emission of urine or saliva sexually, onto a person.
@@ -490,7 +490,7 @@ The short title of this Act is the Forensic Medical Services (Victims of Sexual 
 
 #### The 1978 Act
 
-**1.**[^key-87f5d54996c2d1e9fdc4244b57102955] (1) The 1978 Act is amended as follows.
+**1.**[^c-87f5d54996c2d1e9fdc4244b57102955] (1) The 1978 Act is amended as follows.
 
 (2) In section 2 (health boards: regulations and directions)—
 
@@ -535,7 +535,7 @@ The short title of this Act is the Forensic Medical Services (Victims of Sexual 
 
 #### The Functions of Health Boards (Scotland) Order 1991
 
-**2.**[^key-e4c567b73535aac948bab6b8fcd7b90f] (1) The Functions of Health Boards (Scotland) Order 1991 (S.I. 1991/570) is amended as follows.
+**2.**[^c-e4c567b73535aac948bab6b8fcd7b90f] (1) The Functions of Health Boards (Scotland) Order 1991 (S.I. 1991/570) is amended as follows.
 
 (2) In article 1(2) (interpretation), after the definition of “the Act” insert—
 
@@ -575,7 +575,7 @@ The short title of this Act is the Forensic Medical Services (Victims of Sexual 
 
 #### The National Health Service (Clinical Negligence and Other Risks Indemnity Scheme) (Scotland) Regulations 2000
 
-**3.**[^key-374cfb74f14b57f69a0df6a3d28bf1b9] (1) The National Health Service (Clinical Negligence and Other Risks Indemnity Scheme) (Scotland) Regulations 2000 (S.S.I. 2000/54) are amended as follows.
+**3.**[^c-374cfb74f14b57f69a0df6a3d28bf1b9] (1) The National Health Service (Clinical Negligence and Other Risks Indemnity Scheme) (Scotland) Regulations 2000 (S.S.I. 2000/54) are amended as follows.
 
 (2) In regulation 1(2) (interpretation), in the definition of “relevant function”, after sub-paragraph (i) of paragraph (a) insert—
 
@@ -587,7 +587,7 @@ The short title of this Act is the Forensic Medical Services (Victims of Sexual 
 
 #### Patient Rights (Scotland) Act 2011
 
-**4.**[^key-4fa1dff84936895c2c6b875033131508] (1) The Patient Rights (Scotland) Act 2011 is amended as follows.
+**4.**[^c-4fa1dff84936895c2c6b875033131508] (1) The Patient Rights (Scotland) Act 2011 is amended as follows.
 
 (2) In section 3 (patient rights)—
 
@@ -642,7 +642,7 @@ The short title of this Act is the Forensic Medical Services (Victims of Sexual 
 
 #### Victims and Witnesses (Scotland) Act 2014
 
-**5.**[^key-a99ff978bfd7f72ab594bcf849f81375] (1) The Victims and Witnesses (Scotland) Act 2014 is amended as follows.
+**5.**[^c-a99ff978bfd7f72ab594bcf849f81375] (1) The Victims and Witnesses (Scotland) Act 2014 is amended as follows.
 
 (2) Before section 9 insert—
 
@@ -684,56 +684,56 @@ The short title of this Act is the Forensic Medical Services (Victims of Sexual 
 
 ## Annotations
 
-[^key-1d335c60965e0da383d4013e6ca181e0]: Modification: [Act](https://www.legislation.gov.uk/asp/2021/3) applied (with modifications) (19.6.2023) by [The Service Police (Complaints etc.) Regulations 2023 (S.I. 2023/624)](https://www.legislation.gov.uk/uksi/2023/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2023/624/schedule/1/paragraph/8)
+[^c-1d335c60965e0da383d4013e6ca181e0]: Modification: [Act](https://www.legislation.gov.uk/asp/2021/3) applied (with modifications) (19.6.2023) by [The Service Police (Complaints etc.) Regulations 2023 (S.I. 2023/624)](https://www.legislation.gov.uk/uksi/2023/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2023/624/schedule/1/paragraph/8)
 
-[^key-a6dc726fdcdb294831430f4c56ad21b5]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/3/section/1) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-a6dc726fdcdb294831430f4c56ad21b5]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2021/3/section/1) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-ff33070d65363fb9d69e7c2fe0ed9997]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/3/section/2) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-ff33070d65363fb9d69e7c2fe0ed9997]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2021/3/section/2) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-318123c9512e523d1f21d8852d050382]: Textual amendment: [S. 2(12)](https://www.legislation.gov.uk/asp/2021/3/section/2/12) inserted (1.4.2022) by [The Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (Consequential Modifications) Order 2022 (S.I. 2022/261)](https://www.legislation.gov.uk/uksi/2022/261), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/261/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/261/article/3)
+[^c-318123c9512e523d1f21d8852d050382]: Textual amendment: [S. 2(12)](https://www.legislation.gov.uk/asp/2021/3/section/2/12) inserted (1.4.2022) by [The Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (Consequential Modifications) Order 2022 (S.I. 2022/261)](https://www.legislation.gov.uk/uksi/2022/261), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/261/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/261/article/3)
 
-[^key-76cab5bf1425a2483ba55a9a33cccd51]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/3/section/3) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-76cab5bf1425a2483ba55a9a33cccd51]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2021/3/section/3) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-3bed34f3d8663bb29a8150faebf8b158]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2021/3/section/4) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-3bed34f3d8663bb29a8150faebf8b158]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2021/3/section/4) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-694b7eefe090989dc22335981d98ada0]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2021/3/section/5) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-694b7eefe090989dc22335981d98ada0]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2021/3/section/5) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-1bc056b21176fc13d979e155c6a22612]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/3/section/6) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-1bc056b21176fc13d979e155c6a22612]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2021/3/section/6) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-d5d9d72ccd969a9590b4e3574527f953]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/3/section/7) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-d5d9d72ccd969a9590b4e3574527f953]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2021/3/section/7) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-2a232a25cc4ab111fdb437727d152586]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/3/section/8) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-2a232a25cc4ab111fdb437727d152586]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/3/section/8) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-6b6d40fc93404e05178cb31550ee04ba]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2021/3/section/9) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-6b6d40fc93404e05178cb31550ee04ba]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2021/3/section/9) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-a65ae6a04e1b7866fc6e9424829096a0]: Textual amendment: [S. 9(4)](https://www.legislation.gov.uk/asp/2021/3/section/9/4)[(5)](https://www.legislation.gov.uk/asp/2021/3/section/9/5) inserted (1.4.2022) by [The Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (Consequential Modifications) Order 2022 (S.I. 2022/261)](https://www.legislation.gov.uk/uksi/2022/261), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/261/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/261/article/4)
+[^c-a65ae6a04e1b7866fc6e9424829096a0]: Textual amendment: [S. 9(4)](https://www.legislation.gov.uk/asp/2021/3/section/9/4)[(5)](https://www.legislation.gov.uk/asp/2021/3/section/9/5) inserted (1.4.2022) by [The Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (Consequential Modifications) Order 2022 (S.I. 2022/261)](https://www.legislation.gov.uk/uksi/2022/261), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/261/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/261/article/4)
 
-[^key-fd347b5f335a8416126864d42a8e3279]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2021/3/section/10) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-fd347b5f335a8416126864d42a8e3279]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2021/3/section/10) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-65617c09cd12b8254ac5dc9302370e4a]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2021/3/section/11) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-65617c09cd12b8254ac5dc9302370e4a]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2021/3/section/11) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-063d699d9d183f5a099f627fd98685db]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2021/3/section/12) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-063d699d9d183f5a099f627fd98685db]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2021/3/section/12) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-8b5a96080f41a4df0066fad7fb78dff4]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2021/3/section/13) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-8b5a96080f41a4df0066fad7fb78dff4]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2021/3/section/13) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-9a6c1565c101a2e08d7b09b1f7311047]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2021/3/section/14) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-9a6c1565c101a2e08d7b09b1f7311047]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2021/3/section/14) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-d5996109422afd496bd3ba96207c4c25]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/3/section/15) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-d5996109422afd496bd3ba96207c4c25]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/3/section/15) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-1504c48d404dea8ec834a56a22b169ff]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2021/3/section/16) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-1504c48d404dea8ec834a56a22b169ff]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2021/3/section/16) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-bb7e69b4813691dffcf290fd8575fd0d]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/asp/2021/3/section/18) substituted (1.4.2022) by [The Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (Consequential Modifications) Order 2022 (S.I. 2022/261)](https://www.legislation.gov.uk/uksi/2022/261), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/261/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2022/261/article/5/2)
+[^c-bb7e69b4813691dffcf290fd8575fd0d]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/asp/2021/3/section/18) substituted (1.4.2022) by [The Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (Consequential Modifications) Order 2022 (S.I. 2022/261)](https://www.legislation.gov.uk/uksi/2022/261), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/261/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2022/261/article/5/2)
 
-[^key-24b6295cc9e53b7ecb79fcdf9d9827b5]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/asp/2021/3/section/18) inserted (1.4.2022) by [The Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (Consequential Modifications) Order 2022 (S.I. 2022/261)](https://www.legislation.gov.uk/uksi/2022/261), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/261/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2022/261/article/5/3)
+[^c-24b6295cc9e53b7ecb79fcdf9d9827b5]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/asp/2021/3/section/18) inserted (1.4.2022) by [The Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (Consequential Modifications) Order 2022 (S.I. 2022/261)](https://www.legislation.gov.uk/uksi/2022/261), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/261/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2022/261/article/5/3)
 
-[^key-83e1578129ee8c9073b15fc85c0e7fd3]: Textual amendment: [S. 18(5)-(7)](https://www.legislation.gov.uk/asp/2021/3/section/18/5) inserted (1.4.2022) by [The Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (Consequential Modifications) Order 2022 (S.I. 2022/261)](https://www.legislation.gov.uk/uksi/2022/261), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/261/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2022/261/article/5/4)
+[^c-83e1578129ee8c9073b15fc85c0e7fd3]: Textual amendment: [S. 18(5)-(7)](https://www.legislation.gov.uk/asp/2021/3/section/18/5) inserted (1.4.2022) by [The Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (Consequential Modifications) Order 2022 (S.I. 2022/261)](https://www.legislation.gov.uk/uksi/2022/261), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/261/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2022/261/article/5/4)
 
-[^key-87f5d54996c2d1e9fdc4244b57102955]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/1) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-87f5d54996c2d1e9fdc4244b57102955]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/1) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-e4c567b73535aac948bab6b8fcd7b90f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/2) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-e4c567b73535aac948bab6b8fcd7b90f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/2) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-374cfb74f14b57f69a0df6a3d28bf1b9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/3) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-374cfb74f14b57f69a0df6a3d28bf1b9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/3) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-4fa1dff84936895c2c6b875033131508]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-4fa1dff84936895c2c6b875033131508]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/4) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
 
-[^key-a99ff978bfd7f72ab594bcf849f81375]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/5) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-a99ff978bfd7f72ab594bcf849f81375]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/5) in force at 1.4.2022 by [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)

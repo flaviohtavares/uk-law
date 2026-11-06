@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 120. The Chair at meetings[^key-5f68d749d647efb730f388d1a95c4126]
+## 120. The Chair at meetings[^c-5f68d749d647efb730f388d1a95c4126]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.165 of the 1991 Rules.
 
 ## Annotations
 
-[^key-5f68d749d647efb730f388d1a95c4126]: Commencement: Rule 120 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-5f68d749d647efb730f388d1a95c4126]: Commencement: Rule 120 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

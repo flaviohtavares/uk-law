@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Ancillary provision[^key-d6e8148b8b0c2df8620340652b6a17db][^key-d6e8148b8b0c2df8620340652b6a17db]
+## 46. Ancillary provision[^c-d6e8148b8b0c2df8620340652b6a17db][^c-d6e8148b8b0c2df8620340652b6a17db]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6e8148b8b0c2df8620340652b6a17db]: Commencement: S. 46 in force at 17.1.2024, see [s. 47(1)](https://www.legislation.gov.uk/asp/2024/1/section/47/1)
+[^c-d6e8148b8b0c2df8620340652b6a17db]: Commencement: S. 46 in force at 17.1.2024, see [s. 47(1)](https://www.legislation.gov.uk/asp/2024/1/section/47/1)

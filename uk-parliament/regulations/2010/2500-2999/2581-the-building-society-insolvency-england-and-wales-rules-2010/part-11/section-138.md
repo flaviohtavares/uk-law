@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. General qualification on powers[^key-4212ed7b21d6e9326c46fc3833234e2d]
+## 138. General qualification on powers[^c-4212ed7b21d6e9326c46fc3833234e2d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In exercising any power conferred on the building society liquidator by this Par
 
 ## Annotations
 
-[^key-4212ed7b21d6e9326c46fc3833234e2d]: Commencement: Rule 138 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-4212ed7b21d6e9326c46fc3833234e2d]: Commencement: Rule 138 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

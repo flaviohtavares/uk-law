@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Medical surveillance[^key-17098853dcddb5e4bf5d2b6d4f52431c]
+## 144. Medical surveillance[^c-17098853dcddb5e4bf5d2b6d4f52431c]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17098853dcddb5e4bf5d2b6d4f52431c]: Commencement: Reg. 144 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-17098853dcddb5e4bf5d2b6d4f52431c]: Commencement: Reg. 144 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

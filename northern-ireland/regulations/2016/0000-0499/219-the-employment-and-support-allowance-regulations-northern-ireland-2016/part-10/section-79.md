@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Calculation of weekly amount of income[^key-f61a660f1c4d5eab39b37c238e078625]
+## 79. Calculation of weekly amount of income[^c-f61a660f1c4d5eab39b37c238e078625]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f61a660f1c4d5eab39b37c238e078625]: Commencement: [Reg. 79](https://www.legislation.gov.uk/nisr/2016/219/regulation/79) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-f61a660f1c4d5eab39b37c238e078625]: Commencement: [Reg. 79](https://www.legislation.gov.uk/nisr/2016/219/regulation/79) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

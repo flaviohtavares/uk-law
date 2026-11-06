@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**20A.**[^key-db982af2c4ce2693d2c0444f4d964ef5] After regulation 21 insert
+**20A.**[^c-db982af2c4ce2693d2c0444f4d964ef5] After regulation 21 insert
 
 > **21A. Partial losses due to the nature of goods**
 >
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db982af2c4ce2693d2c0444f4d964ef5]: Textual amendment: Reg. 20A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/12)
+[^c-db982af2c4ce2693d2c0444f4d964ef5]: Textual amendment: Reg. 20A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/12)

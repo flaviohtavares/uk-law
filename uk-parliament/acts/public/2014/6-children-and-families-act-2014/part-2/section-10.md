@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Family mediation information and assessment meetings[^key-a10a86148a6701cf695a0651fab7979a]
+## 10. Family mediation information and assessment meetings[^c-a10a86148a6701cf695a0651fab7979a]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a10a86148a6701cf695a0651fab7979a]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/6/section/10) in force at 22.4.2014 by [S.I. 2014/793](https://www.legislation.gov.uk/uksi/2014/793), [art. 2](https://www.legislation.gov.uk/uksi/2014/793/article/2) (with transitional provisions in S.I. 2014/1042, arts. 5, 11)
+[^c-a10a86148a6701cf695a0651fab7979a]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2014/6/section/10) in force at 22.4.2014 by [S.I. 2014/793](https://www.legislation.gov.uk/uksi/2014/793), [art. 2](https://www.legislation.gov.uk/uksi/2014/793/article/2) (with transitional provisions in S.I. 2014/1042, arts. 5, 11)

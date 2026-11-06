@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Commencement and transitional provision[^key-a6b15c05730d64549fccb1589e6195f4]
+## 118. Commencement and transitional provision[^c-a6b15c05730d64549fccb1589e6195f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,4 +109,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6b15c05730d64549fccb1589e6195f4]: Commencement: S. 118 in force at Royal Assent, see [s. 118(6)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/6/b)
+[^c-a6b15c05730d64549fccb1589e6195f4]: Commencement: S. 118 in force at Royal Assent, see [s. 118(6)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/6/b)

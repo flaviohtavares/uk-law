@@ -22,7 +22,7 @@ summary: ''
 
 Section 65
 
-**1.**[^key-30746625430c3646fdcb8e168ffaef5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-30746625430c3646fdcb8e168ffaef5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** In ITTOIA 2005, after section 148FC insert—
 
@@ -32,14 +32,14 @@ Section 65
 >
 > (2) “**Film**” has the same meaning as in Part 15 of CTA 2009 (see section 1181 of that Act).
 
-**3.** The amendments made by paragraph[^key-91935d87afe918eeec8ec2efdfa0d27a] 2 have effect where the inception of the long funding lease is on or after 13 November 2008 (“**the relevant date**”).
+**3.** The amendments made by paragraph[^c-91935d87afe918eeec8ec2efdfa0d27a] 2 have effect where the inception of the long funding lease is on or after 13 November 2008 (“**the relevant date**”).
 
 **4.** Paragraphs 5 to 8 apply in respect of a long funding finance lease of a film—
 
 - (a) whose inception is before the relevant date, and
 - (b) which has not terminated before that date.
 
-**5.** (1) [^key-b19ca8217569b27d6d980b193f7ddee7]...section 148A of ITTOIA 2005 (rental earnings) does not apply to a period of account within sub-paragraph (2).
+**5.** (1) [^c-b19ca8217569b27d6d980b193f7ddee7]...section 148A of ITTOIA 2005 (rental earnings) does not apply to a period of account within sub-paragraph (2).
 
 (2) A period of account is within this sub-paragraph if—
 
@@ -51,7 +51,7 @@ Section 65
 - (a) that ends on or after the relevant date, and
 - (b) that is not within paragraph 5(2),
 
-treat the lessor as receiving for that period of account income attributable to the lease of an amount equal to the relevant amount (in addition to any amount brought into account under [^key-4a73a6591bf3d783840eb896367a83e8]... section 148A(2) of ITTOIA 2005).
+treat the lessor as receiving for that period of account income attributable to the lease of an amount equal to the relevant amount (in addition to any amount brought into account under [^c-4a73a6591bf3d783840eb896367a83e8]... section 148A(2) of ITTOIA 2005).
 
 (2) The “relevant amount” is an amount equal to so much of the rentals as—
 
@@ -67,30 +67,30 @@ as would not reasonably be regarded as reflected in the rental earnings for that
 
 for the purposes of sub-paragraph (2) treat the amount of that rental as equal to the amount apportioned (on a time basis) in respect of so much of the rental period as falls on or after the relevant date and within the period of account.
 
-**7.** [^key-513a8ac7984585c5d6e8bd995f19111f]... section 148B of ITTOIA 2005 (exceptional items) does not apply in relation to any profit or loss arising on or after the relevant date.
+**7.** [^c-513a8ac7984585c5d6e8bd995f19111f]... section 148B of ITTOIA 2005 (exceptional items) does not apply in relation to any profit or loss arising on or after the relevant date.
 
-**8.** (1) If [^key-94e5c0b0dc8fb6af1c7815aa9e267ca6]...section 148C of ITTOIA 2005 (lessor making termination payment) applies in respect of the termination of the lease on or after the relevant date, a deduction is allowed (in calculating the profits of the lessor) in respect of any sum calculated by reference to the termination value paid to the lessee.
+**8.** (1) If [^c-94e5c0b0dc8fb6af1c7815aa9e267ca6]...section 148C of ITTOIA 2005 (lessor making termination payment) applies in respect of the termination of the lease on or after the relevant date, a deduction is allowed (in calculating the profits of the lessor) in respect of any sum calculated by reference to the termination value paid to the lessee.
 
 (2) The amount of the deduction is (if it would otherwise exceed that amount) limited to the total amount brought into account in respect of the lease by virtue of paragraph 5 or 6.
 
 **9.** For the purposes of paragraphs 3 to 8—
 
 - (a) “**film**” has the same meaning as in Part 15 of CTA 2009 (see section 1181 of that Act),
-- (b) “**rental earnings**” has the same meaning as in [^key-f3e4c888f1108cb50a85817418d8238b]... section 148A of ITTOIA 2005, and
+- (b) “**rental earnings**” has the same meaning as in [^c-f3e4c888f1108cb50a85817418d8238b]... section 148A of ITTOIA 2005, and
 - (c) Chapter 6A of Part 2 of CAA 2001 (interpretation of provisions about long funding leases) applies.
 
 ## Annotations
 
-[^key-30746625430c3646fdcb8e168ffaef5c]: Textual amendment: Sch. 33 para. 1 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-30746625430c3646fdcb8e168ffaef5c]: Textual amendment: Sch. 33 para. 1 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-91935d87afe918eeec8ec2efdfa0d27a]: Textual amendment: Words in Sch. 33 para. 3 substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 718(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/718/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-91935d87afe918eeec8ec2efdfa0d27a]: Textual amendment: Words in Sch. 33 para. 3 substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 718(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/718/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-b19ca8217569b27d6d980b193f7ddee7]: Textual amendment: Words in Sch. 33 para. 5(1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 718(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/718/3), [3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b19ca8217569b27d6d980b193f7ddee7]: Textual amendment: Words in Sch. 33 para. 5(1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 718(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/718/3), [3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-4a73a6591bf3d783840eb896367a83e8]: Textual amendment: Words in Sch. 33 para. 6(1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 718(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/718/4), [3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4a73a6591bf3d783840eb896367a83e8]: Textual amendment: Words in Sch. 33 para. 6(1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 718(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/718/4), [3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-513a8ac7984585c5d6e8bd995f19111f]: Textual amendment: Words in Sch. 33 para. 7 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 718(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/718/5), [3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-513a8ac7984585c5d6e8bd995f19111f]: Textual amendment: Words in Sch. 33 para. 7 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 718(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/718/5), [3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-94e5c0b0dc8fb6af1c7815aa9e267ca6]: Textual amendment: Words in Sch. 33 para. 8(1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 718(6)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/718/6), [3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-94e5c0b0dc8fb6af1c7815aa9e267ca6]: Textual amendment: Words in Sch. 33 para. 8(1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 718(6)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/718/6), [3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f3e4c888f1108cb50a85817418d8238b]: Textual amendment: Words in Sch. 33 para. 9(b) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 718(7)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/718/7), [3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f3e4c888f1108cb50a85817418d8238b]: Textual amendment: Words in Sch. 33 para. 9(b) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 718(7)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/718/7), [3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

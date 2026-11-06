@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Categorisation of Earners) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-a8007a7dbb6277a54860255ab8b5749f]
+The Social Security (Categorisation of Earners) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-a8007a7dbb6277a54860255ab8b5749f]
 
 Made
 
@@ -40,38 +40,38 @@ Coming into operation
 
 17th July 1998
 
-[^key-a8007a7dbb6277a54860255ab8b5749f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8007a7dbb6277a54860255ab8b5749f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a8007a7dbb6277a54860255ab8b5749f]
+## 1. Citation, commencement and interpretation[^c-a8007a7dbb6277a54860255ab8b5749f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 1 of the principal Regulations[^key-a8007a7dbb6277a54860255ab8b5749f]
+## 2. Amendment of regulation 1 of the principal Regulations[^c-a8007a7dbb6277a54860255ab8b5749f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 1 to the principal Regulations[^key-a8007a7dbb6277a54860255ab8b5749f]
+## 3. Amendment of Schedule 1 to the principal Regulations[^c-a8007a7dbb6277a54860255ab8b5749f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Schedule 3 to the principal Regulations[^key-a8007a7dbb6277a54860255ab8b5749f]
+## 4. Amendment of Schedule 3 to the principal Regulations[^c-a8007a7dbb6277a54860255ab8b5749f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Expiry of Regulations[^key-a8007a7dbb6277a54860255ab8b5749f]
+## 5. Expiry of Regulations[^c-a8007a7dbb6277a54860255ab8b5749f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a8007a7dbb6277a54860255ab8b5749f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8007a7dbb6277a54860255ab8b5749f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a8007a7dbb6277a54860255ab8b5749f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8007a7dbb6277a54860255ab8b5749f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a8007a7dbb6277a54860255ab8b5749f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/250) revoked (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [reg. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/635/schedule)
+[^c-a8007a7dbb6277a54860255ab8b5749f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/250) revoked (6.4.2014) by [The Social Security (Categorisation of Earners) (Amendment) Regulations 2014 (S.I. 2014/635)](https://www.legislation.gov.uk/uksi/2014/635), [reg. 1](https://www.legislation.gov.uk/uksi/2014/635/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/635/schedule)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.R. made prior to its final revocation. A revised version of how the S.R. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

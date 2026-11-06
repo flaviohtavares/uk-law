@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Surrender of vehicle licences[^key-0ae6863cb484fbe7aed6737dabf96c53]
+## 14. Surrender of vehicle licences[^c-0ae6863cb484fbe7aed6737dabf96c53]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ae6863cb484fbe7aed6737dabf96c53]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/2001/9/section/14) omitted (1.1.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 144(6)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/6)[(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/7)
+[^c-0ae6863cb484fbe7aed6737dabf96c53]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/2001/9/section/14) omitted (1.1.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 144(6)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/6)[(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/7)

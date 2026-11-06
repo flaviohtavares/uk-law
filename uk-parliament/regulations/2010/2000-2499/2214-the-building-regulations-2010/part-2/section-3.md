@@ -45,8 +45,8 @@ summary: ''
 - paragraph B4 (external fire spread)
 - paragraph B5 (access and facilities for the fire service)
 - Part M (access to and use of buildings).
-- Part T (Toilet Accommodation) *(Extent: E)*[^key-01b520d78954e489c6ef12d1893ccc79]
+- Part T (Toilet Accommodation) *(Extent: E)*[^c-01b520d78954e489c6ef12d1893ccc79]
 
 ## Annotations
 
-[^key-01b520d78954e489c6ef12d1893ccc79]: Textual amendment: Words in reg. 3(3) inserted (E.) (1.10.2024) by [The Building (Amendment) (England) Regulations 2024 (S.I. 2024/645)](https://www.legislation.gov.uk/uksi/2024/645), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/645/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/645/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/645/regulation/3))
+[^c-01b520d78954e489c6ef12d1893ccc79]: Textual amendment: Words in reg. 3(3) inserted (E.) (1.10.2024) by [The Building (Amendment) (England) Regulations 2024 (S.I. 2024/645)](https://www.legislation.gov.uk/uksi/2024/645), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/645/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/645/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/645/regulation/3))

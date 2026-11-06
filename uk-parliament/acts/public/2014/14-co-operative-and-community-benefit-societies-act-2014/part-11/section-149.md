@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Interpretation of Act[^key-c380ab7bcbd519b5b176951b2eaccdc8]
+## 149. Interpretation of Act[^c-c380ab7bcbd519b5b176951b2eaccdc8]
 
 *Extent: E+W+S*
 
@@ -52,7 +52,7 @@ In this Act, except where the context otherwise requires—
 - “**Gazette**”, in relation to a registered society, means such one or more of the following as apply—
   - (a) the London Gazette, if the society's registered office is in England, Wales or the Channel Islands or it carries on business there;
   - (b) the Edinburgh Gazette, if the society's registered office is in Scotland or it carries on business there;
-  - (c) the Belfast Gazette, if a notice given by the society has been filed under section 102 (Great Britain societies carrying on business in Northern Ireland) of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969;[^key-54d8c583401e85bfb66793ee8cd2e360]
+  - (c) the Belfast Gazette, if a notice given by the society has been filed under section 102 (Great Britain societies carrying on business in Northern Ireland) of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969;[^c-54d8c583401e85bfb66793ee8cd2e360]
 - “**heritable security**” has the same meaning as in the Conveyancing (Scotland) Act 1924 except that it includes a security constituted by ex facie absolute disposition or assignation;
 - “**meeting**”, in relation to a society, includes (where the society's rules allow it) a meeting of delegates appointed by members;
 - “**officer**”, in relation to a registered society—
@@ -69,6 +69,6 @@ In this Act, except where the context otherwise requires—
 
 ## Annotations
 
-[^key-c380ab7bcbd519b5b176951b2eaccdc8]: Modification: S. 149 applied by 1979 c. 34, s. 31(2) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 16(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/16/3) (with [Sch. 5)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-c380ab7bcbd519b5b176951b2eaccdc8]: Modification: S. 149 applied by 1979 c. 34, s. 31(2) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 16(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/16/3) (with [Sch. 5)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-54d8c583401e85bfb66793ee8cd2e360]: Textual amendment: [Words in the definition of “Gazette” in s. 149](https://www.legislation.gov.uk/ukpga/2014/14/section/149/c) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-54d8c583401e85bfb66793ee8cd2e360]: Textual amendment: [Words in the definition of “Gazette” in s. 149](https://www.legislation.gov.uk/ukpga/2014/14/section/149/c) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2018/323/schedule/4/paragraph/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

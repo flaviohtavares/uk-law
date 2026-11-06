@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Advice on good practice[^key-05ca49f35d3888c3cbe04150c4ffc38c]
+## 35. Advice on good practice[^c-05ca49f35d3888c3cbe04150c4ffc38c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05ca49f35d3888c3cbe04150c4ffc38c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/29/section/35) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)
+[^c-05ca49f35d3888c3cbe04150c4ffc38c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/29/section/35) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)

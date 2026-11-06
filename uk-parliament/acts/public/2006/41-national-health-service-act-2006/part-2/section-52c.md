@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52C. Grounds for de-authorisation notice[^key-f9618691455f529b67ddf4d1b5e23d88]
+## 52C. Grounds for de-authorisation notice[^c-f9618691455f529b67ddf4d1b5e23d88]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9618691455f529b67ddf4d1b5e23d88]: Textual amendment: S. 52C omitted (1.11.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 173(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/173/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)
+[^c-f9618691455f529b67ddf4d1b5e23d88]: Textual amendment: S. 52C omitted (1.11.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 173(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/173/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)

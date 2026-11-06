@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Refusal to pay charges for landing place etc.[^key-e268cf08dff3fc9c5f936c7a5a48dcd8]
+## 46. Refusal to pay charges for landing place etc.[^c-e268cf08dff3fc9c5f936c7a5a48dcd8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The harbour master may prevent a vessel from entering the harbours or using a la
 
 ## Annotations
 
-[^key-e268cf08dff3fc9c5f936c7a5a48dcd8]: Commencement: Art. 46 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-e268cf08dff3fc9c5f936c7a5a48dcd8]: Commencement: Art. 46 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

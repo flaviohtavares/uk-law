@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A member who requires a transfer value payment to be made must apply in writing to the Department for a statement of the amount of the cash equivalent of the member's accrued benefits under this Section of[^key-b3ed39535ffb86412cfd3118eea1eaf6] the Scheme at the guarantee date (“a statement of entitlement”).
+(1) A member who requires a transfer value payment to be made must apply in writing to the Department for a statement of the amount of the cash equivalent of the member's accrued benefits under this Section of[^c-b3ed39535ffb86412cfd3118eea1eaf6] the Scheme at the guarantee date (“a statement of entitlement”).
 
 (2) In this Part, “**the guarantee date**” means any date that—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3ed39535ffb86412cfd3118eea1eaf6]: Textual amendment: Words in [reg. 221(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/221/1) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-b3ed39535ffb86412cfd3118eea1eaf6]: Textual amendment: Words in [reg. 221(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/221/1) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

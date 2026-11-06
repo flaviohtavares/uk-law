@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Fund Winter Fuel Payment (Temporary Increase) Regulations (Northern Ireland) 2010 (revoked)[^key-48c5818567651ebd2f10a7390b8a68bf]
+The Social Fund Winter Fuel Payment (Temporary Increase) Regulations (Northern Ireland) 2010 (revoked)[^c-48c5818567651ebd2f10a7390b8a68bf]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 20th September 2010
 
-[^key-48c5818567651ebd2f10a7390b8a68bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48c5818567651ebd2f10a7390b8a68bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-48c5818567651ebd2f10a7390b8a68bf]
+## 1. Citation, commencement and interpretation[^c-48c5818567651ebd2f10a7390b8a68bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the Social Fund Winter Fuel Payment Regulations[^key-48c5818567651ebd2f10a7390b8a68bf]
+## 2. Modification of the Social Fund Winter Fuel Payment Regulations[^c-48c5818567651ebd2f10a7390b8a68bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-48c5818567651ebd2f10a7390b8a68bf]
+## 3. Revocation[^c-48c5818567651ebd2f10a7390b8a68bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48c5818567651ebd2f10a7390b8a68bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48c5818567651ebd2f10a7390b8a68bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48c5818567651ebd2f10a7390b8a68bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48c5818567651ebd2f10a7390b8a68bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-48c5818567651ebd2f10a7390b8a68bf]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2010/185) revoked (19.9.2022) by [The Social Fund Winter Fuel Payment (Temporary Increase) Regulations (Northern Ireland) 2022 (S.R. 2022/215)](https://www.legislation.gov.uk/nisr/2022/215), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/215/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/215/regulation/3)
+[^c-48c5818567651ebd2f10a7390b8a68bf]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2010/185) revoked (19.9.2022) by [The Social Fund Winter Fuel Payment (Temporary Increase) Regulations (Northern Ireland) 2022 (S.R. 2022/215)](https://www.legislation.gov.uk/nisr/2022/215), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/215/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/215/regulation/3)

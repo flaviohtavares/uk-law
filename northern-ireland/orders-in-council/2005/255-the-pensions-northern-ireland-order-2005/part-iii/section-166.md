@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 166. Board's duties in respect of certain applications under Article 165[^key-c1e86350f4e9b8733335efe5130a730b][^key-6fe7d1aaa5e7d13be425361a8783a86f][^key-4ebf52de680fac4661a350be4c65f70d][^key-3594c832ac8a19e72c29504e936dce1d][^key-d3bb06bf02ec5290b332ccf9c93bdbce]
+## 166. Board's duties in respect of certain applications under Article 165[^c-c1e86350f4e9b8733335efe5130a730b][^c-6fe7d1aaa5e7d13be425361a8783a86f][^c-4ebf52de680fac4661a350be4c65f70d][^c-3594c832ac8a19e72c29504e936dce1d][^c-d3bb06bf02ec5290b332ccf9c93bdbce]
 
 *Extent: N.I.*
 
@@ -54,14 +54,14 @@ it must, as soon as reasonably practicable, issue a notice to that effect.
 
 ## Annotations
 
-[^key-c1e86350f4e9b8733335efe5130a730b]: Modification: [Art. 166](https://www.legislation.gov.uk/nisi/2005/255/article/166) modified (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (revoked) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [23(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2022/121/regulation/23/2/a/iv)
+[^c-c1e86350f4e9b8733335efe5130a730b]: Modification: [Art. 166](https://www.legislation.gov.uk/nisi/2005/255/article/166) modified (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (revoked) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [23(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2022/121/regulation/23/2/a/iv)
 
-[^key-6fe7d1aaa5e7d13be425361a8783a86f]: Modification: [Art. 166](https://www.legislation.gov.uk/nisi/2005/255/article/166) modified (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2022/234/regulation/23/2/a)
+[^c-6fe7d1aaa5e7d13be425361a8783a86f]: Modification: [Art. 166](https://www.legislation.gov.uk/nisi/2005/255/article/166) modified (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2022/234/regulation/23/2/a)
 
-[^key-4ebf52de680fac4661a350be4c65f70d]: Modification: [Art. 166](https://www.legislation.gov.uk/nisi/2005/255/article/166) modified (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [23(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2023/59/regulation/23/2/a/iv)
+[^c-4ebf52de680fac4661a350be4c65f70d]: Modification: [Art. 166](https://www.legislation.gov.uk/nisi/2005/255/article/166) modified (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [23(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2023/59/regulation/23/2/a/iv)
 
-[^key-3594c832ac8a19e72c29504e936dce1d]: Modification: [Art. 166](https://www.legislation.gov.uk/nisi/2005/255/article/166) applied (with modifications) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [23(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2023/148/regulation/23/2/a/iv)
+[^c-3594c832ac8a19e72c29504e936dce1d]: Modification: [Art. 166](https://www.legislation.gov.uk/nisi/2005/255/article/166) applied (with modifications) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [23(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2023/148/regulation/23/2/a/iv)
 
-[^key-d3bb06bf02ec5290b332ccf9c93bdbce]: Modification: [Art. 166](https://www.legislation.gov.uk/nisi/2005/255/article/166) modifed (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [23(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2024/78/regulation/23/2/a/iv)
+[^c-d3bb06bf02ec5290b332ccf9c93bdbce]: Modification: [Art. 166](https://www.legislation.gov.uk/nisi/2005/255/article/166) modifed (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [23(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2024/78/regulation/23/2/a/iv)
 
 [^c17105711]: Textual amendment: mod. by SR 2005/381

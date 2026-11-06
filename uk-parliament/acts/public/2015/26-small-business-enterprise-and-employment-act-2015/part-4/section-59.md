@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Recovery of investigation costs[^key-99a5948bd00f306a557f2d43fb7c1fa1]
+## 59. Recovery of investigation costs[^c-99a5948bd00f306a557f2d43fb7c1fa1]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99a5948bd00f306a557f2d43fb7c1fa1]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2015/26/section/59) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-99a5948bd00f306a557f2d43fb7c1fa1]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2015/26/section/59) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

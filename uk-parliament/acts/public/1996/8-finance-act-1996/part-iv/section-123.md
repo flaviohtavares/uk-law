@@ -70,9 +70,9 @@ and
 
 (11) In subsection (7) of that section, for the words “the representative partner had a reasonable excuse for not delivering the return” there shall be substituted the words “ the person for the time being required to deliver the return (whether the representative partner or a successor of his) had a reasonable excuse for not delivering it ”.
 
-(12)[^key-9a5590b8a50ea59087ffa324aeb051ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-9a5590b8a50ea59087ffa324aeb051ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-cc8af2ae28096d124136ccaf1ba20e50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-cc8af2ae28096d124136ccaf1ba20e50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (14) In subsection (1) of section 118 of that Act (interpretation), for the definition of “successor” there shall be substituted the following definition—
 
@@ -86,6 +86,6 @@ and
 
 [^c14611861]: Textual amendment: S. 123(6)(7) repealed (11.5.2001 with effect as mentioned in Sch. 33 Pt. 2(13), Note of the amending Act) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 110](https://www.legislation.gov.uk/ukpga/2001/9/section/110), [Sch. 33 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/2/13)
 
-[^key-9a5590b8a50ea59087ffa324aeb051ef]: Textual amendment: S. 123(12) repealed (with effect in accordance with s. 97 of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
+[^c-9a5590b8a50ea59087ffa324aeb051ef]: Textual amendment: S. 123(12) repealed (with effect in accordance with s. 97 of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
 
-[^key-cc8af2ae28096d124136ccaf1ba20e50]: Textual amendment: S. 123(13) repealed (with effect in accordance with s. 97 of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)
+[^c-cc8af2ae28096d124136ccaf1ba20e50]: Textual amendment: S. 123(13) repealed (with effect in accordance with s. 97 of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/5)

@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 23(2)(c) of the Education (Additional Support for Learning) (Scotland) Act 2004[^f00001] and of all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-ba06ccdc4fca7ea7294a5619e370404e]
+## 1. Citation and commencement[^c-ba06ccdc4fca7ea7294a5619e370404e]
 
-This Order may be cited as the Additional Support for Learning (Appropriate Agencies) (Scotland) Amendment Order 2010 and shall come into force on 14th November[^key-7678cf64927f75482d14b2b84a695674] 2010.
+This Order may be cited as the Additional Support for Learning (Appropriate Agencies) (Scotland) Amendment Order 2010 and shall come into force on 14th November[^c-7678cf64927f75482d14b2b84a695674] 2010.
 
-## 2. Amendment of paragraph 2 of the Additional Support for Learning (Appropriate Agencies) (Scotland) Order 2005[^key-ba7826d1286bff99afa480bad07b3747]
+## 2. Amendment of paragraph 2 of the Additional Support for Learning (Appropriate Agencies) (Scotland) Order 2005[^c-ba7826d1286bff99afa480bad07b3747]
 
 For paragraph 2(c) of the Additional Support for Learning (Appropriate Agencies) (Scotland) Order 2005[^f00002] (appropriate agencies) substitute—
 
@@ -78,10 +78,10 @@ This Order specifies that The Skills Development (Scotland) Co. Limited is an �
 
 [^f00001]: Footnote: [2004 asp 4](https://www.legislation.gov.uk/asp/2004/4).
 
-[^key-ba06ccdc4fca7ea7294a5619e370404e]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2010/143/article/1) in force at 14.11.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/143/article/1) (as amended by [S.S.I. 2010/276](https://www.legislation.gov.uk/ssi/2010/276), [art. 2(2)](https://www.legislation.gov.uk/ssi/2010/276/article/2/2))
+[^c-ba06ccdc4fca7ea7294a5619e370404e]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2010/143/article/1) in force at 14.11.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/143/article/1) (as amended by [S.S.I. 2010/276](https://www.legislation.gov.uk/ssi/2010/276), [art. 2(2)](https://www.legislation.gov.uk/ssi/2010/276/article/2/2))
 
-[^key-7678cf64927f75482d14b2b84a695674]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/ssi/2010/143/article/1) substituted (15.8.2010) by [The Additional Support for Learning (Appropriate Agencies and Sources of Information) (Scotland) Amendment of Commencement Dates Order 2010 (S.S.I. 2010/276)](https://www.legislation.gov.uk/ssi/2010/276), [arts. 1](https://www.legislation.gov.uk/ssi/2010/276/article/1), [2](https://www.legislation.gov.uk/ssi/2010/276/article/2)
+[^c-7678cf64927f75482d14b2b84a695674]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/ssi/2010/143/article/1) substituted (15.8.2010) by [The Additional Support for Learning (Appropriate Agencies and Sources of Information) (Scotland) Amendment of Commencement Dates Order 2010 (S.S.I. 2010/276)](https://www.legislation.gov.uk/ssi/2010/276), [arts. 1](https://www.legislation.gov.uk/ssi/2010/276/article/1), [2](https://www.legislation.gov.uk/ssi/2010/276/article/2)
 
-[^key-ba7826d1286bff99afa480bad07b3747]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2010/143/article/2) in force at 14.11.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/143/article/1) (as amended by [S.S.I. 2010/276](https://www.legislation.gov.uk/ssi/2010/276), [art. 2(2)](https://www.legislation.gov.uk/ssi/2010/276/article/2/2))
+[^c-ba7826d1286bff99afa480bad07b3747]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2010/143/article/2) in force at 14.11.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/143/article/1) (as amended by [S.S.I. 2010/276](https://www.legislation.gov.uk/ssi/2010/276), [art. 2(2)](https://www.legislation.gov.uk/ssi/2010/276/article/2/2))
 
 [^f00002]: Footnote: [S.S.I. 2005/325](https://www.legislation.gov.uk/ssi/2005/325).

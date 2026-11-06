@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Joint liability[^key-82e4ab0f73e2053d0b0856b49d4837d9]
+## 37. Joint liability[^c-82e4ab0f73e2053d0b0856b49d4837d9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82e4ab0f73e2053d0b0856b49d4837d9]: Commencement: Reg. 37 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-82e4ab0f73e2053d0b0856b49d4837d9]: Commencement: Reg. 37 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

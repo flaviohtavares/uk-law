@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 676BA. Introduction to Chapter[^key-eb24ef32b9dcbde9cc8ec23b4f56806e]
+## 676BA. Introduction to Chapter[^c-eb24ef32b9dcbde9cc8ec23b4f56806e]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ applies to the acquisition.
 
 ## Annotations
 
-[^key-eb24ef32b9dcbde9cc8ec23b4f56806e]: Textual amendment: Pt. 14 Ch. 2B inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 76](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/76)
+[^c-eb24ef32b9dcbde9cc8ec23b4f56806e]: Textual amendment: Pt. 14 Ch. 2B inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 76](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/76)

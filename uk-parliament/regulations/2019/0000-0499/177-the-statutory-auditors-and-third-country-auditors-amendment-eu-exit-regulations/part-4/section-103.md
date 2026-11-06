@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103.[^key-917650b18875b291af5da547fccaf19b]
+## 103.[^c-917650b18875b291af5da547fccaf19b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Chapter III (cooperation between competent authorities and relations with E
 
 ## Annotations
 
-[^key-917650b18875b291af5da547fccaf19b]: Commencement: Reg. 103 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-917650b18875b291af5da547fccaf19b]: Commencement: Reg. 103 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

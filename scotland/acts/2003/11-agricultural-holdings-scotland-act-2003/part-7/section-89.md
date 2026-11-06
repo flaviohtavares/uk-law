@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Expenses in sheriff court and Court of Session[^key-c34151488b5a9203147e57e41c825a47]
+## 89. Expenses in sheriff court and Court of Session[^c-c34151488b5a9203147e57e41c825a47]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the matter to which an action in the sheriff court or before the Court of 
 
 ## Annotations
 
-[^key-c34151488b5a9203147e57e41c825a47]: Commencement: S. 89 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-c34151488b5a9203147e57e41c825a47]: Commencement: S. 89 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

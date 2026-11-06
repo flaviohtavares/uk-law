@@ -47,13 +47,13 @@ An Act to amend the law regarding valuation and rating in Scotland; to amend the
 
 ### 6. Ascertainment of gross annual value, net annual value and rateable value of lands and heritages.[^c693988][^c693989][^c693990]
 
-(1)[^c693991] For the purpose of making up any valuation roll for the year 1961–62 or any subsequent year [^c693992]. . ., the net annual value and the rateable value of any lands and heritages shall, subject to sections 7 to 7B[^c693993] of this Act and to any Order made under section 6 of the Local Government (Scotland) Act[^key-85d6c3a0b9e500766ff459bcc736bbb9] [1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), be ascertained in accordance with the provisions of this section.
+(1)[^c693991] For the purpose of making up any valuation roll for the year 1961–62 or any subsequent year [^c693992]. . ., the net annual value and the rateable value of any lands and heritages shall, subject to sections 7 to 7B[^c693993] of this Act and to any Order made under section 6 of the Local Government (Scotland) Act[^c-85d6c3a0b9e500766ff459bcc736bbb9] [1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), be ascertained in accordance with the provisions of this section.
 
 (2)–(7)[^c693994] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^c693995][^key-452fd814501de1267a22ec536a7d557d] Subject to the provisions of subsection (8ZA) and[^key-9abc4b31fc8b3c6ee684358f64edbbf4] of Part III of this Act, the net annual value of any lands and heritages, [^c693996]. . . shall be the rent at which the lands and heritages might reasonably be expected to let from year to year if no grassum or consideration other than the rent were payable in respect of the lease and if the tenant undertook to pay all rates and to bear the cost of the repairs and insurance and the other expenses, if any, necessary to maintain the lands and heritages in a state to command that rent.
+(8)[^c693995][^c-452fd814501de1267a22ec536a7d557d] Subject to the provisions of subsection (8ZA) and[^c-9abc4b31fc8b3c6ee684358f64edbbf4] of Part III of this Act, the net annual value of any lands and heritages, [^c693996]. . . shall be the rent at which the lands and heritages might reasonably be expected to let from year to year if no grassum or consideration other than the rent were payable in respect of the lease and if the tenant undertook to pay all rates and to bear the cost of the repairs and insurance and the other expenses, if any, necessary to maintain the lands and heritages in a state to command that rent.
 
-(8ZA)[^key-9e5ae93175d714ad365379624f469387] In arriving at the net annual value under subsection (8) of lands and heritages consisting of deer forests, regard may be had to such factors relating to deer management as the assessor considers appropriate.
+(8ZA)[^c-9e5ae93175d714ad365379624f469387] In arriving at the net annual value under subsection (8) of lands and heritages consisting of deer forests, regard may be had to such factors relating to deer management as the assessor considers appropriate.
 
 (8A)[^c693997] The Secretary of State may by regulations made under this subsection prescribe—
 
@@ -77,7 +77,7 @@ An Act to amend the law regarding valuation and rating in Scotland; to amend the
 
 (10) Where the amount of the net annual value and of the rateable value in a case where those values are the same, or in any other case the amount of the rateable value, includes a fraction of a pound, the amount of both those values or of the rateable value, as the case may be, shall be increased or reduced, as the case may be, to the nearest complete pound, or if the fraction is ten shillings, the fraction shall be disregarded.
 
-(10A)[^key-af4d2b1a45429690ad01ec86c444ba0d] In subsection (8ZA), “ **assessor** ” means the assessor appointed under section 27(2) of the Local Government etc. (Scotland) Act 1994 for each valuation area.
+(10A)[^c-af4d2b1a45429690ad01ec86c444ba0d] In subsection (8ZA), “ **assessor** ” means the assessor appointed under section 27(2) of the Local Government etc. (Scotland) Act 1994 for each valuation area.
 
 (11)[^c694003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -86,7 +86,7 @@ An Act to amend the law regarding valuation and rating in Scotland; to amend the
 (1) The Secretary of State may by order provide that, for all purposes of the Valuation Acts—
 
 - (a) lands and heritages specified in the order which would, apart from the order, be treated as justifying separate entries in the valuation roll shall be treated as justifying only one such entry;
-- (aa)[^key-5775ab3704403704aaaad497999700ef] lands and heritages so specified which would, apart from the order, be treated as justifying separate entries in two or more valuation rolls shall, subject to subsection (1B)(b) below, be treated as if they justified only one entry in a single valuation roll;
+- (aa)[^c-5775ab3704403704aaaad497999700ef] lands and heritages so specified which would, apart from the order, be treated as justifying separate entries in two or more valuation rolls shall, subject to subsection (1B)(b) below, be treated as if they justified only one entry in a single valuation roll;
 
   and
 - (b) lands and heritages so specified which would, apart from the order, be treated as justifying only one entry in the valuation roll shall be treated as justifying separate entries,
@@ -95,7 +95,7 @@ and an order under paragraph (b) above shall specify which parts of the lands an
 
 (1A)[^c694006] An order specifying lands and heritages for the purposes of paragraph (a) of subsection (1) above may also provide rules to determine who is to be treated as owner or occupier of any of the specified lands and heritages.
 
-(1B)[^key-7f3cfb64e50257422c457580732fa06e] An order specifying lands and heritages for the purposes of paragraph (aa) of subsection (1) above may provide that the lands and heritages are to be entered—
+(1B)[^c-7f3cfb64e50257422c457580732fa06e] An order specifying lands and heritages for the purposes of paragraph (aa) of subsection (1) above may provide that the lands and heritages are to be entered—
 
 - (a) in the valuation roll for the area of the rating authority specified in the order; or
 - (b) subject to subsection (1C) below, in each of the valuation rolls in which they would, apart from the order, be entered separately at a proportion, calculated in the manner set out in the order, of the rateable value assessed by virtue of paragraph (aa) above.
@@ -200,7 +200,7 @@ There shall not be entered separately in the valuation roll any part of a covere
 
 (2) Lands and heritages such as are mentioned in subsection (1)(b) above do not include office buildings.
 
-### 8C. Exclusion of automatic telling machine sites from valuation roll[^key-edae95bfd504defd1f2425fc5eaa9d05]
+### 8C. Exclusion of automatic telling machine sites from valuation roll[^c-edae95bfd504defd1f2425fc5eaa9d05]
 
 (1) There shall not, subject to subsection (2) of this section, be entered in the valuation roll for any year beginning on or after 1st April 2003 any lands or heritages which—
 
@@ -211,7 +211,7 @@ There shall not be entered separately in the valuation roll any part of a covere
 
 (3) For the purposes of this section, an “**automatic telling machine**” is a machine which provides automatic telling and other services on behalf of a bank or building society.
 
-### 8D. Power of Scottish Ministers to remove exempt status of lands and heritages[^key-1de7198bbbfdee230058137fc6667074]
+### 8D. Power of Scottish Ministers to remove exempt status of lands and heritages[^c-1de7198bbbfdee230058137fc6667074]
 
 (1) The Scottish Ministers may by regulations make provision requiring lands and heritages falling within subsection (2) to be entered in the valuation roll.
 
@@ -264,18 +264,18 @@ the Scottish Ministers must consult such persons as they consider appropriate.
 
 (3) Nothing in this section shall apply to any notice or thing required to be given or done for the purpose of any such appeal as is mentioned in section six of the [^c694038]Rating and Valuation (Scotland) Act, 1952.
 
-(3A)[^key-f1b81c6f17b6ffd634c68fe75490503e] This section does not apply to any notice or thing required to be given or done in relation to—
+(3A)[^c-f1b81c6f17b6ffd634c68fe75490503e] This section does not apply to any notice or thing required to be given or done in relation to—
 
 - (a) a proposal under section 3ZA of the Local Government (Scotland) Act 1975,
 - (b) an appeal under section 3ZB of that Act.
 
-(3B)[^key-d85aa3720fd3851b52f11d94fdc369d6] This section does not apply to any notice or thing required to be given or done in relation to an appeal under section 31 or 34 of the Non-Domestic Rates (Scotland) Act 2020.
+(3B)[^c-d85aa3720fd3851b52f11d94fdc369d6] This section does not apply to any notice or thing required to be given or done in relation to an appeal under section 31 or 34 of the Non-Domestic Rates (Scotland) Act 2020.
 
 (4) The power to make orders conferred on the Secretary of State by this section shall be exercisable by statutory instrument.
 
 ### 14. Stated case to Lands Valuation Appeal Court to set forth reasons for decision.
 
-In addition to the matters required by section nine of the [^c694039]Valuation of Lands (Scotland) Amendment Act, 1879, to be set forth in a stated case, there shall also be set forth a statment of the reasons for the decision of the First-tier Tribunal for Scotland[^key-3e6f5255390bb621ce9f9569d8244ff2].
+In addition to the matters required by section nine of the [^c694039]Valuation of Lands (Scotland) Amendment Act, 1879, to be set forth in a stated case, there shall also be set forth a statment of the reasons for the decision of the First-tier Tribunal for Scotland[^c-3e6f5255390bb621ce9f9569d8244ff2].
 
 ### 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c694040]
 
@@ -295,7 +295,7 @@ shall be reduced in accordance with the provisions of Schedule 3 to this Act and
 
 (3) Nothing in this section shall affect any right of a rating authority under any provision . . . [^c694046] or of the Act of 1947 or any other enactment, to recover the rates levied in respect of any lands and heritages from the owner thereof or the right of such owner to recover the same from the occupier or from the rating authority.
 
-(4)[^key-0bdaa271387eb6df52fc3bc16a2ef8e3] In the case of any lands and heritages that have no occupier, subsection (1) is subject to section 24ZA of the Local Government (Scotland) Act 1966.
+(4)[^c-0bdaa271387eb6df52fc3bc16a2ef8e3] In the case of any lands and heritages that have no occupier, subsection (1) is subject to section 24ZA of the Local Government (Scotland) Act 1966.
 
 ### 17. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c694047]
 
@@ -451,7 +451,7 @@ There shall be paid out of moneys provided by Parliament—
 - [^c694111]. . .
 - . . . [^c694112]
 - “**drain**” means a drain used for the drainage of one building or of any buildings or yards pertaining to buildings within the same curtilage;
-- “[^key-7dc5ce2f7c2d7bb1e855b8772bb63e26]**First-tier Tribunal for Scotland**” means the First-tier Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014;
+- “[^c-7dc5ce2f7c2d7bb1e855b8772bb63e26]**First-tier Tribunal for Scotland**” means the First-tier Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014;
 - . . . [^c694113]
 - “[^c694114] **gas** ” includes gas in a liquid state, but—
 - (a) the liquefaction of gas, and
@@ -473,7 +473,7 @@ shall not of themselves be taken to constitute the manufacture of gas or the app
 
   - “**sewer**” does not include a drain as defined in this section but, save as aforesaid, includes all sewers and drains used for the drainage of buildings and yards pertaining to buildings;
   - “[^c694121] **the Valuation Acts** ” means the [^c694122] Lands Valuation (Scotland) Act 1854, the Acts amending that Act and any other enactment relating to valuation;
-  - [^key-61ca661a19f0c16e7307a2e287c714e6]...
+  - [^c-61ca661a19f0c16e7307a2e287c714e6]...
   - “**valuation area**” has the meaning assigned to it by section one of this Act;
   - “**valuation authority**” has the meaning assigned to it by section 27 of the Local Government[^c694123] etc. (Scotland) Act 1994;
   - “**year**” means a period of twelve months beginning with the sixteenth day of May, and “**the year 1956–57**” means the year beginning with the sixteenth day of May, nineteen hundred and fifty–six, and any corresponding expression in which two years are similarly mentioned means the year beginning with the sixteenth day of May in the first mentioned of those two years.
@@ -695,19 +695,19 @@ Provided that a group of premises shall not be treated as being otherwise than w
 
 [^c693993]: Textual amendment: Words substituted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 145](https://www.legislation.gov.uk/ukpga/1989/42/section/145), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/1989/42/schedule/6/paragraph/3)
 
-[^key-85d6c3a0b9e500766ff459bcc736bbb9]: Textual amendment: Words in s. 6(1) inserted (31.3.2003 with effect in accordance with arts. 1, 6 of the amending S.S.I.) by [The Water Undertakings (Rateable Values) (Scotland) Order 2003 (S.S.I. 2003/187)](https://www.legislation.gov.uk/ssi/2003/187), [art. 7](https://www.legislation.gov.uk/ssi/2003/187/article/7)
+[^c-85d6c3a0b9e500766ff459bcc736bbb9]: Textual amendment: Words in s. 6(1) inserted (31.3.2003 with effect in accordance with arts. 1, 6 of the amending S.S.I.) by [The Water Undertakings (Rateable Values) (Scotland) Order 2003 (S.S.I. 2003/187)](https://www.legislation.gov.uk/ssi/2003/187), [art. 7](https://www.legislation.gov.uk/ssi/2003/187/article/7)
 
 [^c693994]: Textual amendment: S. 6(2)–(7) repealed by [Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 103:2)](https://www.legislation.gov.uk/ukpga/1987/47), [s. 34](https://www.legislation.gov.uk/ukpga/1987/47/section/34), [Sch. 6](https://www.legislation.gov.uk/ukpga/1987/47/schedule/6)
 
 [^c693995]: Modification: Power to amend s. 6(8) given by [Local Government (Financial Provisions) (Scotland) Act 1963 (c. 12)](https://www.legislation.gov.uk/ukpga/1963/12), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1963/12/section/10/2)
 
-[^key-452fd814501de1267a22ec536a7d557d]: Modification: [S. 6(8)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/6/8) restricted (1.4.2023) by [The Non-Domestic Rating (Valuation of Sites of Reverse Vending Machines) (Scotland) Regulations 2023 (S.S.I. 2023/26)](https://www.legislation.gov.uk/ssi/2023/26), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/26/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2023/26/regulation/2)
+[^c-452fd814501de1267a22ec536a7d557d]: Modification: [S. 6(8)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/6/8) restricted (1.4.2023) by [The Non-Domestic Rating (Valuation of Sites of Reverse Vending Machines) (Scotland) Regulations 2023 (S.S.I. 2023/26)](https://www.legislation.gov.uk/ssi/2023/26), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/26/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2023/26/regulation/2)
 
-[^key-9abc4b31fc8b3c6ee684358f64edbbf4]: Textual amendment: Words in s. 6(8) inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 76(2)(a)](https://www.legislation.gov.uk/asp/2016/18/section/76/2/a), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))
+[^c-9abc4b31fc8b3c6ee684358f64edbbf4]: Textual amendment: Words in s. 6(8) inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 76(2)(a)](https://www.legislation.gov.uk/asp/2016/18/section/76/2/a), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))
 
 [^c693996]: Textual amendment: Words repealed by [Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 103:2)](https://www.legislation.gov.uk/ukpga/1987/47), [s. 34](https://www.legislation.gov.uk/ukpga/1987/47/section/34), [Sch. 6](https://www.legislation.gov.uk/ukpga/1987/47/schedule/6)
 
-[^key-9e5ae93175d714ad365379624f469387]: Textual amendment: S. 6(8ZA) inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 76(2)(b)](https://www.legislation.gov.uk/asp/2016/18/section/76/2/b), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))
+[^c-9e5ae93175d714ad365379624f469387]: Textual amendment: S. 6(8ZA) inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 76(2)(b)](https://www.legislation.gov.uk/asp/2016/18/section/76/2/b), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))
 
 [^c693997]: Textual amendment: S. 6(8A)(8B) inserted by [Local Government Finance Act 1988 (c. 41, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/41), [s. 137](https://www.legislation.gov.uk/ukpga/1988/41/section/137), [Sch. 12 Pt. II para. 4](https://www.legislation.gov.uk/ukpga/1988/41/schedule/12/part/II/paragraph/4)
 
@@ -719,17 +719,17 @@ Provided that a group of premises shall not be treated as being otherwise than w
 
 [^c694001]: Textual amendment: Words repealed by [Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 103:2)](https://www.legislation.gov.uk/ukpga/1987/47), [s. 34](https://www.legislation.gov.uk/ukpga/1987/47/section/34), [Sch. 6](https://www.legislation.gov.uk/ukpga/1987/47/schedule/6)
 
-[^key-af4d2b1a45429690ad01ec86c444ba0d]: Textual amendment: S. 6(10A) inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 76(2)(c)](https://www.legislation.gov.uk/asp/2016/18/section/76/2/c), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))
+[^c-af4d2b1a45429690ad01ec86c444ba0d]: Textual amendment: S. 6(10A) inserted (28.6.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 76(2)(c)](https://www.legislation.gov.uk/asp/2016/18/section/76/2/c), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))
 
 [^c694003]: Textual amendment: S. 6(11) repealed by [Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 103:2)](https://www.legislation.gov.uk/ukpga/1987/47), [s. 34](https://www.legislation.gov.uk/ukpga/1987/47/section/34), [Sch. 6](https://www.legislation.gov.uk/ukpga/1987/47/schedule/6)
 
 [^c694005]: Textual amendment: S. 6A inserted (4.1.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 161](https://www.legislation.gov.uk/ukpga/1994/39/section/161); [S.I. 1994/3150](https://www.legislation.gov.uk/uksi/1994/3150), [art. 3](https://www.legislation.gov.uk/uksi/1994/3150/article/3)
 
-[^key-5775ab3704403704aaaad497999700ef]: Textual amendment: S. 6A(1)(aa) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 32(1)(b)](https://www.legislation.gov.uk/asp/2003/1/section/32/1/b), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), art. 2(1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-5775ab3704403704aaaad497999700ef]: Textual amendment: S. 6A(1)(aa) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 32(1)(b)](https://www.legislation.gov.uk/asp/2003/1/section/32/1/b), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), art. 2(1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
 [^c694006]: Textual amendment: S. 6A(1A) inserted (19.5.1997) by [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [s. 33(1)](https://www.legislation.gov.uk/ukpga/1997/29/section/33/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/1); [S.I. 1997/1097](https://www.legislation.gov.uk/uksi/1997/1097), [art. 3(c)](https://www.legislation.gov.uk/uksi/1997/1097/article/3/c)
 
-[^key-7f3cfb64e50257422c457580732fa06e]: Textual amendment: S. 6A(1B)-(1D) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 32(1)(a)](https://www.legislation.gov.uk/asp/2003/1/section/32/1/a), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), art. 2(1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-7f3cfb64e50257422c457580732fa06e]: Textual amendment: S. 6A(1B)-(1D) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 32(1)(a)](https://www.legislation.gov.uk/asp/2003/1/section/32/1/a), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), art. 2(1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
 [^c694007]: Textual amendment: Words repealed by [Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 103:2)](https://www.legislation.gov.uk/ukpga/1987/47), [s. 34](https://www.legislation.gov.uk/ukpga/1987/47/section/34), [Sch. 6](https://www.legislation.gov.uk/ukpga/1987/47/schedule/6)
 
@@ -769,9 +769,9 @@ Provided that a group of premises shall not be treated as being otherwise than w
 
 [^c694025]: Textual amendment: S. 8B inserted (1.4.2001) by [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2), [s. 59](https://www.legislation.gov.uk/asp/2001/2/section/59) (with [s. 66](https://www.legislation.gov.uk/asp/2001/2/section/66)); [S.S.I. 2001/132](https://www.legislation.gov.uk/ssi/2001/132), [art. 2(2)](https://www.legislation.gov.uk/ssi/2001/132/article/2/2), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2001/132/schedule/part/I)
 
-[^key-edae95bfd504defd1f2425fc5eaa9d05]: Textual amendment: S. 8C inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 30](https://www.legislation.gov.uk/asp/2003/1/section/30), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), art. 2(1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-edae95bfd504defd1f2425fc5eaa9d05]: Textual amendment: S. 8C inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 30](https://www.legislation.gov.uk/asp/2003/1/section/30), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), art. 2(1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-1de7198bbbfdee230058137fc6667074]: Textual amendment: [S. 8D](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/8D) inserted (1.4.2022) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 4](https://www.legislation.gov.uk/asp/2020/4/section/4), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-1de7198bbbfdee230058137fc6667074]: Textual amendment: [S. 8D](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/8D) inserted (1.4.2022) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 4](https://www.legislation.gov.uk/asp/2020/4/section/4), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
 [^c694026]: Textual amendment: S. 9 (1) (2) (4) (7) repealed by [Local Government (Scotland) Act 1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), [s. 39](https://www.legislation.gov.uk/ukpga/1975/30/section/39) (2), Sch. 7
 
@@ -793,13 +793,13 @@ Provided that a group of premises shall not be treated as being otherwise than w
 
 [^c694038]: Marginal citation: [1952 c. 47](https://www.legislation.gov.uk/ukpga/1952/47).
 
-[^key-f1b81c6f17b6ffd634c68fe75490503e]: Textual amendment: [S. 13(3A)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/13/3A) inserted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 11(1)](https://www.legislation.gov.uk/asp/2020/4/section/11/1), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 3(4)(a)](https://www.legislation.gov.uk/ssi/2022/23/regulation/3/4/a) and [S.S.I. 2022/301](https://www.legislation.gov.uk/ssi/2022/301), [reg. 2(4)(a)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/4/a))
+[^c-f1b81c6f17b6ffd634c68fe75490503e]: Textual amendment: [S. 13(3A)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/13/3A) inserted (1.4.2023) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 11(1)](https://www.legislation.gov.uk/asp/2020/4/section/11/1), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (as amended by [S.S.I. 2022/23](https://www.legislation.gov.uk/ssi/2022/23), [reg. 3(4)(a)](https://www.legislation.gov.uk/ssi/2022/23/regulation/3/4/a) and [S.S.I. 2022/301](https://www.legislation.gov.uk/ssi/2022/301), [reg. 2(4)(a)](https://www.legislation.gov.uk/ssi/2022/301/regulation/2/4/a))
 
-[^key-d85aa3720fd3851b52f11d94fdc369d6]: Textual amendment: [S. 13(3B)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/13/3B) inserted (1.4.2021) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 36(1)](https://www.legislation.gov.uk/asp/2020/4/section/36/1), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
+[^c-d85aa3720fd3851b52f11d94fdc369d6]: Textual amendment: [S. 13(3B)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/13/3B) inserted (1.4.2021) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 36(1)](https://www.legislation.gov.uk/asp/2020/4/section/36/1), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule)
 
 [^c694039]: Marginal citation: [1879 c. 42](https://www.legislation.gov.uk/ukpga/1879/42).
 
-[^key-3e6f5255390bb621ce9f9569d8244ff2]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/14) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 2(2)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/2/2) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-3e6f5255390bb621ce9f9569d8244ff2]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/14) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 2(2)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/2/2) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
 [^c694040]: Textual amendment: Ss. 9 (3) (5), 11, 15 repealed by [Local Government (Scotland) Act 1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), [Sch. 7](https://www.legislation.gov.uk/ukpga/1975/30/schedule/7)
 
@@ -813,7 +813,7 @@ Provided that a group of premises shall not be treated as being otherwise than w
 
 [^c694046]: Textual amendment: Words repealed by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29)
 
-[^key-0bdaa271387eb6df52fc3bc16a2ef8e3]: Textual amendment: [S. 16(4)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/16/4) inserted (8.1.2026 with effect in accordance with [s. 1(5)](https://www.legislation.gov.uk/asp/2026/1/section/1/5)) by [Non-Domestic Rates (Liability for Unoccupied Properties) (Scotland) Act 2026 (asp 1)](https://www.legislation.gov.uk/asp/2026/1), [ss. 1(4)](https://www.legislation.gov.uk/asp/2026/1/section/1/4), [3](https://www.legislation.gov.uk/asp/2026/1/section/3)
+[^c-0bdaa271387eb6df52fc3bc16a2ef8e3]: Textual amendment: [S. 16(4)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/16/4) inserted (8.1.2026 with effect in accordance with [s. 1(5)](https://www.legislation.gov.uk/asp/2026/1/section/1/5)) by [Non-Domestic Rates (Liability for Unoccupied Properties) (Scotland) Act 2026 (asp 1)](https://www.legislation.gov.uk/asp/2026/1), [ss. 1(4)](https://www.legislation.gov.uk/asp/2026/1/section/1/4), [3](https://www.legislation.gov.uk/asp/2026/1/section/3)
 
 [^c694047]: Textual amendment: S. 17 repealed by [Local Government (Scotland) Act 1966 (c. 51)](https://www.legislation.gov.uk/ukpga/1966/51), [s. 24](https://www.legislation.gov.uk/ukpga/1966/51/section/24), [Sch. 6](https://www.legislation.gov.uk/ukpga/1966/51/schedule/6)
 
@@ -899,7 +899,7 @@ Provided that a group of premises shall not be treated as being otherwise than w
 
 [^c694112]: Textual amendment: Definitions of “burgh” and “large burgh” repealed by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [s. 122](https://www.legislation.gov.uk/ukpga/1973/65/section/122), [Sch. 9 para. 50](https://www.legislation.gov.uk/ukpga/1973/65/schedule/9/paragraph/50), [Sch. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/29)
 
-[^key-7dc5ce2f7c2d7bb1e855b8772bb63e26]: Textual amendment: Words in [s. 43](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/43) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 2(3)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/2/3/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-7dc5ce2f7c2d7bb1e855b8772bb63e26]: Textual amendment: Words in [s. 43](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/43) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 2(3)(b)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/2/3/b) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
 [^c694113]: Textual amendment: Definition of “Gas Board” repealed by [Gas Act 1972 (c. 60)](https://www.legislation.gov.uk/ukpga/1972/60), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/1972/60/schedule/6/paragraph/6) (2), Sch. 8
 
@@ -919,7 +919,7 @@ Provided that a group of premises shall not be treated as being otherwise than w
 
 [^c694122]: Marginal citation: 1854, c. 91
 
-[^key-61ca661a19f0c16e7307a2e287c714e6]: Textual amendment: Words in [s. 43](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/43) omitted (1.4.2023) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 2(3)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/2/3/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-61ca661a19f0c16e7307a2e287c714e6]: Textual amendment: Words in [s. 43](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/section/43) omitted (1.4.2023) by virtue of [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 2(3)(a)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/2/3/a) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
 [^c694123]: Textual amendment: S. 43(1): words in definition of “valuation authority” substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 46](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/46); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
 

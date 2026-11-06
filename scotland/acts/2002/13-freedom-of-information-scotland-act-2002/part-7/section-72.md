@@ -25,7 +25,7 @@ summary: ''
 (2) A statutory instrument—
 
 - (a) made in exercise of any of the powers conferred by sections 4(1) (except in the case mentioned in subsection (3)), 13(1) or 62(3) is subject to annulment in pursuance of a resolution of the Parliament;
-- (b) containing an order under section 4(1) (but only in the case so mentioned), 5(1), 7(2) or (4)(b), 59(1) or (1A)[^key-6c16c59ae2cb07e222a26c8fe6b03514] or 64(1) or regulations under section 9(4), 10(4), 12, 20(7), 21(6) or 47(6) is not made unless a draft of the instrument has been—
+- (b) containing an order under section 4(1) (but only in the case so mentioned), 5(1), 7(2) or (4)(b), 59(1) or (1A)[^c-6c16c59ae2cb07e222a26c8fe6b03514] or 64(1) or regulations under section 9(4), 10(4), 12, 20(7), 21(6) or 47(6) is not made unless a draft of the instrument has been—
   - (i) laid before; and
   - (ii) approved by resolution of,
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c16c59ae2cb07e222a26c8fe6b03514]: Textual amendment: Words in [s. 72(2)(b)](https://www.legislation.gov.uk/asp/2002/13/section/72/2/b) inserted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 4(2)](https://www.legislation.gov.uk/asp/2013/2/section/4/2), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
+[^c-6c16c59ae2cb07e222a26c8fe6b03514]: Textual amendment: Words in [s. 72(2)(b)](https://www.legislation.gov.uk/asp/2002/13/section/72/2/b) inserted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 4(2)](https://www.legislation.gov.uk/asp/2013/2/section/4/2), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)

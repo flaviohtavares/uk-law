@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Looked after children to whom section 87(2) of SSFA 1998 applies[^key-58c844738b582ef7ef5085be3b92d84f]
+## 48. Looked after children to whom section 87(2) of SSFA 1998 applies[^c-58c844738b582ef7ef5085be3b92d84f]
 
 *Extent: E+W*
 
 (1) In section 95 of SSFA 1998 (appeals relating to children to whom section 87(2) applies) after subsection (2) insert—
 
-> (2A) Subsection (2) does not apply in relation to a decision made by or on behalf of a local authority[^key-0ea7acc4831332590d0c9da4689eca3c] in England to admit to a school a child who is looked after by a local authority in England (provision for references to the adjudicator in relation to such a decision being made by section 95A).
+> (2A) Subsection (2) does not apply in relation to a decision made by or on behalf of a local authority[^c-0ea7acc4831332590d0c9da4689eca3c] in England to admit to a school a child who is looked after by a local authority in England (provision for references to the adjudicator in relation to such a decision being made by section 95A).
 
 (2) After that section insert—
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-58c844738b582ef7ef5085be3b92d84f]: Commencement: S. 48 in force at 8.1.2007 by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(a)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/a)
+[^c-58c844738b582ef7ef5085be3b92d84f]: Commencement: S. 48 in force at 8.1.2007 by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(a)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/a)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

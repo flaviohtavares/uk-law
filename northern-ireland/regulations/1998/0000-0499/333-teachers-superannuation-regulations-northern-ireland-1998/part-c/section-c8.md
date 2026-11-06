@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C8. Contributions for family benefits[^key-aac002106d593a1d83fb54c985b73129]
+## C8. Contributions for family benefits[^c-aac002106d593a1d83fb54c985b73129]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aac002106d593a1d83fb54c985b73129]: Commencement: Reg. C8 in operation at 2.11.1998, see reg. A1
+[^c-aac002106d593a1d83fb54c985b73129]: Commencement: Reg. C8 in operation at 2.11.1998, see reg. A1

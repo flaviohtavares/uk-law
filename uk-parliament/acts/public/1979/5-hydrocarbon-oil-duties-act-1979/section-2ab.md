@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2AB. Bioethanol[^key-0ebaded4329c0d1c9de4f5d235c0d40c]
+## 2AB. Bioethanol[^c-0ebaded4329c0d1c9de4f5d235c0d40c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ebaded4329c0d1c9de4f5d235c0d40c]: Textual amendment: S. 2AB inserted (1.1.2005) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 10(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/10/1)[(10)](https://www.legislation.gov.uk/ukpga/2004/12/section/10/10)
+[^c-0ebaded4329c0d1c9de4f5d235c0d40c]: Textual amendment: S. 2AB inserted (1.1.2005) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 10(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/10/1)[(10)](https://www.legislation.gov.uk/ukpga/2004/12/section/10/10)

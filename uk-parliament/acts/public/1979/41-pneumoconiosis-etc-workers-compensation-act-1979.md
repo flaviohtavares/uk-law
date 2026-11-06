@@ -51,7 +51,7 @@ An Act to make provision for lump sum payments to or in respect of certain perso
 
 - (a) that disablement benefit is payable to him in respect of the disease or, subject to subsection (3A) below, would be payable to him in respect of it but for his disablement amounting to less than the appropriate percentage[^c912460];
 - (b) that every relevant employer of his has ceased to carry on business;
-- (ba)[^key-6bad558ed742f3ff2fe3de5c06ba48cb] that no application has been made for a payment under the Diffuse Mesothelioma Payment Scheme in respect of the disease (for the scheme, see the Mesothelioma Act 2014); and
+- (ba)[^c-6bad558ed742f3ff2fe3de5c06ba48cb] that no application has been made for a payment under the Diffuse Mesothelioma Payment Scheme in respect of the disease (for the scheme, see the Mesothelioma Act 2014); and
 - (c) that he has not brought any action, or compromised any claim, for damages in respect of the disablement.
 
 (2) In the case of the dependant of a person who, immediately before he died, was disabled by a disease to which this Act applies, the conditions of entitlement are—
@@ -62,7 +62,7 @@ An Act to make provision for lump sum payments to or in respect of certain perso
   - (ii) but for his not having claimed the benefit; or
   - (iii) but for his having died before he had suffered from the disease for the appropriate period;
 - (c) that every relevant employer of the deceased has ceased to carry on business;
-- (ca)[^key-b9e628415c9358a92d4638301b64e225] that no application has been made by the deceased, or any dependant, for a payment under the Diffuse Mesothelioma Payment Scheme in respect of the disease (for the scheme, see the Mesothelioma Act 2014); and
+- (ca)[^c-b9e628415c9358a92d4638301b64e225] that no application has been made by the deceased, or any dependant, for a payment under the Diffuse Mesothelioma Payment Scheme in respect of the disease (for the scheme, see the Mesothelioma Act 2014); and
 - (d) that neither the deceased nor his personal representatives nor any relative of his has brought any action, or compromised any claim, for damages in respect of the disablement or death.
 
 (3) In this section—
@@ -73,7 +73,7 @@ An Act to make provision for lump sum payments to or in respect of certain perso
 - “**disablement benefit**” means disablement benefit under section 76 of the Social Security Act 1975 or section 108 of the Social Security Contributions and Benefits Act 1992[^c912467] or under any corresponding provision of the former Industrial Injuries Acts, or an allowance under a scheme made, or having effect as if made, under section 5 of the Industrial Injuries and Diseases (Old Cases) Act 1975 or paragraph 4 of Schedule 8 to the Social Security Contributions and Benefits Act 1992 or under any corresponding provision of the former Old Cases Acts;
 - “**the former Industrial Injuries Acts**” means the [^c912469]National Insurance (Industrial Injuries) Act 1946 and the [^c912470]National Insurance (Industrial Injuries) Act 1965;
 - “**the former Old Cases Acts**” means the [^c912471]Pneumoconiosis and Byssinosis Benefit Act 1951 and the [^c912472]Industrial Injuries and Diseases (Old Cases) Act 1967;
-- “relevant employer” has the meaning given in the Schedule to this Act.[^key-55906118c60d7ef3e93486ffab2412e8]
+- “relevant employer” has the meaning given in the Schedule to this Act.[^c-55906118c60d7ef3e93486ffab2412e8]
 
 (3A)[^c912473] No amount is payable under this Act in respect of disablement amounting to less than 1 per cent.
 
@@ -83,9 +83,9 @@ An Act to make provision for lump sum payments to or in respect of certain perso
 
 (1) In this Act “**dependant**”, in relation to a person who, immediately before he died, was disabled by a disease to which this Act applies, means—
 
-- (a) if he left a spouse or civil partner[^key-68a7fa770e1214c3d6c5e2d135b909c2] who was residing with him or was receiving or entitled to receive from him periodical payments for her maintenance, that spouse or civil partner;
+- (a) if he left a spouse or civil partner[^c-68a7fa770e1214c3d6c5e2d135b909c2] who was residing with him or was receiving or entitled to receive from him periodical payments for her maintenance, that spouse or civil partner;
 - (b) if paragraph (a) above does not apply but he left a child or children who fall within subsection (2) below, that child or those children;
-- (c)[^key-37ef1fba08deaba6a9e3b06b4195094b] if neither of the preceding paragraphs applies but he left a person who was residing with him and with whom he was in a qualifying relationship, that person;
+- (c)[^c-37ef1fba08deaba6a9e3b06b4195094b] if neither of the preceding paragraphs applies but he left a person who was residing with him and with whom he was in a qualifying relationship, that person;
 - (d) if none of the preceding paragraphs applies, any relative or relatives of his who fall within subsection (2) below and who were, in the opinion of the Secretary of State, wholly or mainly dependent on him at the date of his death.
 
 (2) A person falls within this subsection if, at the relevant date, he was
@@ -98,16 +98,16 @@ and in this subsection “**relevant date**” means the date of the deceased’
 
 *Extent: E+W*
 
-(2A)[^key-54e1edac24f913e068292bcfdd0f71ae] For the purposes of subsection (1)(c)—
+(2A)[^c-54e1edac24f913e068292bcfdd0f71ae] For the purposes of subsection (1)(c)—
 
 - (a) two persons of the opposite sex are in a qualifying relationship if they are living together as husband and wife;
 - (b) two persons of the same sex are in a qualifying relationship if they are living together as if they were civil partners.
 
 *Extent: S*
 
-(2A)[^key-daf7709c9f25ffa8381812a8e87f3e7f] For the purposes of subsection (1)(c) two persons are in a qualifying relationship if they are living together as if they were a married couple or civil partners[^key-1bb9d1a86dc828fe1ebfe3d09876531d].
+(2A)[^c-daf7709c9f25ffa8381812a8e87f3e7f] For the purposes of subsection (1)(c) two persons are in a qualifying relationship if they are living together as if they were a married couple or civil partners[^c-1bb9d1a86dc828fe1ebfe3d09876531d].
 
-(2B)[^key-aa4e016eae198314959f658890014c13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-aa4e016eae198314959f658890014c13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where any payment under this Act falls to be made to two or more persons, the payment shall be made to one of them or divided between some or all of them as the Secretary of State thinks fit.
 
@@ -118,7 +118,7 @@ and in this subsection “**relevant date**” means the date of the deceased’
 
 and for the purposes of this section a relationship shall be established as if any illegitimate child or step child of a person had been a child born to him in wedlock.
 
-(5)[^key-86a7c09291e6f04db6c87c40d70edd31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-86a7c09291e6f04db6c87c40d70edd31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Determination of claims.
 
@@ -168,7 +168,7 @@ Where a payment under this Act falls to be made to a person who is under the age
 
 (2) Any power of the Secretary of State to make regulations under this Act shall be exercisable by statutory instrument and includes power to make such incidental, supplementary or transitional provision as the Secretary of State thinks fit.
 
-(3) No regulations shall be made under section 1 above or paragraph 9 of the Schedule to this Act[^key-69432b86fa66bc4d56ac53c6f5e54eb9] unless a draft of the regulations has been laid before, and approved by a resolution of, each House of Parliament.
+(3) No regulations shall be made under section 1 above or paragraph 9 of the Schedule to this Act[^c-69432b86fa66bc4d56ac53c6f5e54eb9] unless a draft of the regulations has been laid before, and approved by a resolution of, each House of Parliament.
 
 (4) Any statutory instrument containing regulations made under any other provision of this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -200,7 +200,7 @@ shall be liable on summary conviction to a fine not exceeding level 5 on the sta
 
 (4) This Act does not extend to Northern Ireland.
 
-## THE SCHEDULE — Definition of “relevant employer”[^key-94510ead451f7065bfdd6aa8d0bd8c78]
+## THE SCHEDULE — Definition of “relevant employer”[^c-94510ead451f7065bfdd6aa8d0bd8c78]
 
 Section 2(3)
 
@@ -273,11 +273,11 @@ shall be subject to annulment in pursuance of a resolution of either House of Pa
 
 [^c912460]: Textual amendment: Words added by [Social Security Act 1986 (c. 50, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/50), [s. 39](https://www.legislation.gov.uk/ukpga/1986/50/section/39), [Sch. 3 para. 17(2)](https://www.legislation.gov.uk/ukpga/1986/50/schedule/3/paragraph/17/2)
 
-[^key-6bad558ed742f3ff2fe3de5c06ba48cb]: Textual amendment: S. 2(1)(ba) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/1/a); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-6bad558ed742f3ff2fe3de5c06ba48cb]: Textual amendment: S. 2(1)(ba) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/1/a); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
 
 [^c912461]: Textual amendment: Words and sub-paragraphs (i)–(iii) added by [Social Security Act 1986 (c. 50, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/50), [s. 39](https://www.legislation.gov.uk/ukpga/1986/50/section/39), [Sch. 3 para. 17(3)](https://www.legislation.gov.uk/ukpga/1986/50/schedule/3/paragraph/17/3)
 
-[^key-b9e628415c9358a92d4638301b64e225]: Textual amendment: S. 2(2)(ca) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/1/b); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
+[^c-b9e628415c9358a92d4638301b64e225]: Textual amendment: S. 2(2)(ca) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/2/paragraph/1/b); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/459/article/3/d)
 
 [^c912462]: Textual amendment: Definitions inserted by [Social Security Act 1986 (c. 50, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/50), [s. 39](https://www.legislation.gov.uk/ukpga/1986/50/section/39), [Sch. 3 para. 17(4)](https://www.legislation.gov.uk/ukpga/1986/50/schedule/3/paragraph/17/4)
 
@@ -297,23 +297,23 @@ shall be subject to annulment in pursuance of a resolution of either House of Pa
 
 [^c912472]: Marginal citation: [1967 c. 34](https://www.legislation.gov.uk/ukpga/1967/34).
 
-[^key-55906118c60d7ef3e93486ffab2412e8]: Textual amendment: Words in s. 2(3) substituted (12.7.2007 for specified purposes, 10.8.2007 in so far as not already in force) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/58/2), [70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2); [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/2)
+[^c-55906118c60d7ef3e93486ffab2412e8]: Textual amendment: Words in s. 2(3) substituted (12.7.2007 for specified purposes, 10.8.2007 in so far as not already in force) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/58/2), [70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2); [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/2)
 
 [^c912473]: Textual amendment: S. 2(3A) inserted by [Social Security Act 1986 (c. 50, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/50), [s. 39](https://www.legislation.gov.uk/ukpga/1986/50/section/39), [Sch. 3 para. 17(5)](https://www.legislation.gov.uk/ukpga/1986/50/schedule/3/paragraph/17/5)
 
-[^key-68a7fa770e1214c3d6c5e2d135b909c2]: Textual amendment: Words in s. 3(1)(a) inserted (3.7.2007) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 59(1)(a)](https://www.legislation.gov.uk/ukpga/2007/5/section/59/1/a), [70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1)
+[^c-68a7fa770e1214c3d6c5e2d135b909c2]: Textual amendment: Words in s. 3(1)(a) inserted (3.7.2007) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 59(1)(a)](https://www.legislation.gov.uk/ukpga/2007/5/section/59/1/a), [70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1)
 
-[^key-37ef1fba08deaba6a9e3b06b4195094b]: Textual amendment: S. 3(1)(c) substituted (3.7.2007) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 59(1)(b)](https://www.legislation.gov.uk/ukpga/2007/5/section/59/1/b), [70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1)
+[^c-37ef1fba08deaba6a9e3b06b4195094b]: Textual amendment: S. 3(1)(c) substituted (3.7.2007) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 59(1)(b)](https://www.legislation.gov.uk/ukpga/2007/5/section/59/1/b), [70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1)
 
-[^key-54e1edac24f913e068292bcfdd0f71ae]: Textual amendment: S. 3(2A) substituted (E.W) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 18(a)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/18/a)
+[^c-54e1edac24f913e068292bcfdd0f71ae]: Textual amendment: S. 3(2A) substituted (E.W) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 18(a)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/18/a)
 
-[^key-daf7709c9f25ffa8381812a8e87f3e7f]: Textual amendment: S. 3(2A) substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 5 para. 7(a)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/5/paragraph/7/a)
+[^c-daf7709c9f25ffa8381812a8e87f3e7f]: Textual amendment: S. 3(2A) substituted (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 5 para. 7(a)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/5/paragraph/7/a)
 
-[^key-1bb9d1a86dc828fe1ebfe3d09876531d]: Textual amendment: Words in [s. 3(2A)](https://www.legislation.gov.uk/ukpga/1979/41/section/3/2A) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/7)
+[^c-1bb9d1a86dc828fe1ebfe3d09876531d]: Textual amendment: Words in [s. 3(2A)](https://www.legislation.gov.uk/ukpga/1979/41/section/3/2A) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/7)
 
-[^key-aa4e016eae198314959f658890014c13]: Textual amendment: S. 3(2B) omitted (E.W) (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 18(b)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/18/b); and (S.) (16.12.2014) by virtue of [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 5 para. 7(b)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/5/paragraph/7/b)
+[^c-aa4e016eae198314959f658890014c13]: Textual amendment: S. 3(2B) omitted (E.W) (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560)](https://www.legislation.gov.uk/uksi/2014/560), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/560/article/1/2), [Sch. 1 para. 18(b)](https://www.legislation.gov.uk/uksi/2014/560/schedule/1/paragraph/18/b); and (S.) (16.12.2014) by virtue of [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 5 para. 7(b)](https://www.legislation.gov.uk/uksi/2014/3229/schedule/5/paragraph/7/b)
 
-[^key-86a7c09291e6f04db6c87c40d70edd31]: Textual amendment: S. 3(5) repealed (3.7.2007) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 59(3)](https://www.legislation.gov.uk/ukpga/2007/5/section/59/3), [70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1), [Schs. 8](https://www.legislation.gov.uk/ukpga/2007/5/schedule/8)
+[^c-86a7c09291e6f04db6c87c40d70edd31]: Textual amendment: S. 3(5) repealed (3.7.2007) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 59(3)](https://www.legislation.gov.uk/ukpga/2007/5/section/59/3), [70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1), [Schs. 8](https://www.legislation.gov.uk/ukpga/2007/5/schedule/8)
 
 [^c912478]: Textual amendment: Words in s. 4(3) substituted (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 4](https://www.legislation.gov.uk/ukpga/1992/6/section/4), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2), [para. 56(a)(b)](https://www.legislation.gov.uk/ukpga/1992/6/paragraph/56/a/b)
 
@@ -325,10 +325,10 @@ shall be subject to annulment in pursuance of a resolution of either House of Pa
 
     S. 7 : for previous exercises of power see Index to Government Orders
 
-[^key-69432b86fa66bc4d56ac53c6f5e54eb9]: Textual amendment: Words in s. 7(3) inserted (12.7.2007 for specified purposes) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 58(4)](https://www.legislation.gov.uk/ukpga/2007/5/section/58/4), [70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2); [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/1)
+[^c-69432b86fa66bc4d56ac53c6f5e54eb9]: Textual amendment: Words in s. 7(3) inserted (12.7.2007 for specified purposes) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 58(4)](https://www.legislation.gov.uk/ukpga/2007/5/section/58/4), [70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2); [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/1)
 
 [^c912484]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) (as inserted by [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 54](https://www.legislation.gov.uk/ukpga/1982/48/section/54))
 
 [^c912486]: Textual amendment: Words in s. 10(2) substituted (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 4](https://www.legislation.gov.uk/ukpga/1992/6/section/4), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2), [para. 57(a)(b)](https://www.legislation.gov.uk/ukpga/1992/6/paragraph/57/a/b)
 
-[^key-94510ead451f7065bfdd6aa8d0bd8c78]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ukpga/1979/41/schedule) inserted (12.7.2007 for specified purposes, 10.8.2007 in so far as not already in force) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2007/5/section/58/3), [70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2007/5/schedule/6); [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/2)
+[^c-94510ead451f7065bfdd6aa8d0bd8c78]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ukpga/1979/41/schedule) inserted (12.7.2007 for specified purposes, 10.8.2007 in so far as not already in force) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2007/5/section/58/3), [70(2)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2007/5/schedule/6); [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/2)

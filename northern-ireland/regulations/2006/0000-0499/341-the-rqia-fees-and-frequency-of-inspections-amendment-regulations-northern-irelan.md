@@ -29,7 +29,7 @@ summary: ''
 
 HEALTH AND PERSONAL SOCIAL SERVICES
 
-The RQIA[^key-92072a22cc1875ce0aefc4bee486f09d] (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2006
+The RQIA[^c-92072a22cc1875ce0aefc4bee486f09d] (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2006
 
 Made
 
@@ -41,13 +41,13 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety makes the following Regulations in exercise of the powers conferred by Articles 17(3) and 48(2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-9e9f03e0a74eb97a9a6dac089fa280c6]
+## 1. Citation, commencement and interpretation[^c-9e9f03e0a74eb97a9a6dac089fa280c6]
 
 (1) These Regulations may be cited as the RQIA (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 29th September 2006.
 
 (2) In these regulations, “the principal regulations” means the RQIA (Fees and Frequency of Inspections) Regulations (Northern Ireland) 2005[^f00002].
 
-## 2. Amendment of the RQIA (Fees and Frequency of Inspections) Regulations (Northern Ireland) 2005[^key-1fe0d345ccbd0720b1fe8174fcb37aaa]
+## 2. Amendment of the RQIA (Fees and Frequency of Inspections) Regulations (Northern Ireland) 2005[^c-1fe0d345ccbd0720b1fe8174fcb37aaa]
 
 (1) The principal regulations shall be amended in accordance with the following paragraphs:
 
@@ -93,12 +93,12 @@ The annual fee for Residential Care Homes, Nursing Homes, Children’s Homes and
 
 ## Annotations
 
-[^key-92072a22cc1875ce0aefc4bee486f09d]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-92072a22cc1875ce0aefc4bee486f09d]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
 [^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-9e9f03e0a74eb97a9a6dac089fa280c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/341/regulation/1) in operation at 29.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/341/regulation/1/1)
+[^c-9e9f03e0a74eb97a9a6dac089fa280c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/341/regulation/1) in operation at 29.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/341/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 2005 No. 182](https://www.legislation.gov.uk/nisr/2005/182)
 
-[^key-1fe0d345ccbd0720b1fe8174fcb37aaa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/341/regulation/2) in operation at 29.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/341/regulation/1/1)
+[^c-1fe0d345ccbd0720b1fe8174fcb37aaa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/341/regulation/2) in operation at 29.9.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/341/regulation/1/1)

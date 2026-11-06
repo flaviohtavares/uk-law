@@ -48,7 +48,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 3(1) of Schedule 5B to that Act, the Secretary of State has consulted the Gas and Electricity Markets Authority.
 
-## 1. Citation, commencement and extent[^key-475579ed4764ecb3260d1be833ad19cf]
+## 1. Citation, commencement and extent[^c-475579ed4764ecb3260d1be833ad19cf]
 
 (1) These Regulations may be cited as the Electricity (Connection Charges) (Amendment) Regulations 2022.
 
@@ -56,15 +56,15 @@ In accordance with paragraph 3(1) of Schedule 5B to that Act, the Secretary of S
 
 (3) These Regulations extend to England and Wales and Scotland.
 
-## 2. Application[^key-a8b1b250d17625683b35cffae9715f7f]
+## 2. Application[^c-a8b1b250d17625683b35cffae9715f7f]
 
 These Regulations apply in relation to a second connection[^f00002] required under section 16 of the Electricity Act 1989 by virtue of a notice given under section 16A(1) of that Act on or after 1st April 2023.
 
-## 3. Amendment of the Electricity (Connection Charges) Regulations 2017[^key-429ff121677fea0a053c6433c4e0a5e7]
+## 3. Amendment of the Electricity (Connection Charges) Regulations 2017[^c-429ff121677fea0a053c6433c4e0a5e7]
 
 The Electricity (Connection Charges) Regulations 2017[^f00003] are amended in accordance with regulations 4 and 5.
 
-## 4. Amendment of regulation 2 (interpretation)[^key-134b12e1910220606b819e49b8b6c4ee]
+## 4. Amendment of regulation 2 (interpretation)[^c-134b12e1910220606b819e49b8b6c4ee]
 
 In regulation 2 (interpretation)—
 
@@ -83,7 +83,7 @@ In regulation 2 (interpretation)—
 
   .
 
-## 5. Amendment of regulation 7 (demanding a reimbursement payment)[^key-02de7c9f854088d8f4521313a68776e3]
+## 5. Amendment of regulation 7 (demanding a reimbursement payment)[^c-02de7c9f854088d8f4521313a68776e3]
 
 For regulation 7(5) substitute—
 
@@ -121,17 +121,17 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29) (“**the 1989 Act**”). Section 19 was amended by the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), section 46, and by the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), section 52. Section 60(3) was amended by the Utilities Act 2000, section 3. See section 64(1) for the definition of “prescribed”; the definition was amended by the Utilities Act 2000, Schedule 6, Part 2, paragraph 38(6). Schedule 5B was inserted by the Infrastructure Act 2015, section 52.
 
-[^key-475579ed4764ecb3260d1be833ad19cf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2)
+[^c-475579ed4764ecb3260d1be833ad19cf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2)
 
-[^key-a8b1b250d17625683b35cffae9715f7f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2)
+[^c-a8b1b250d17625683b35cffae9715f7f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2)
 
 [^f00002]: Footnote: See paragraph 1(4) of Schedule 5B to the 1989 Act for the meaning of “second connection”.
 
-[^key-429ff121677fea0a053c6433c4e0a5e7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1265/regulation/3) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2)
+[^c-429ff121677fea0a053c6433c4e0a5e7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1265/regulation/3) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2017/106](https://www.legislation.gov.uk/uksi/2017/106).
 
-[^key-134b12e1910220606b819e49b8b6c4ee]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/1265/regulation/4) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2)
+[^c-134b12e1910220606b819e49b8b6c4ee]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/1265/regulation/4) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2)
 
 [^f00004]: Footnote: See paragraph 1 of Schedule 5B to the 1989 Act for the meaning of “first connection expenses”, “first connection” and “second connection”.
 
@@ -141,4 +141,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: See section 64 of the Act for the meanings of “electrical plant” and electric line”.
 
-[^key-02de7c9f854088d8f4521313a68776e3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/1265/regulation/5) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2)
+[^c-02de7c9f854088d8f4521313a68776e3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/1265/regulation/5) in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2)

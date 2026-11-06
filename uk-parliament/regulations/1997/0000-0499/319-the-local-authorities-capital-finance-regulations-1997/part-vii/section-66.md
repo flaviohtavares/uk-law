@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Disposal of share and loan capital[^key-ef28aeef6e26381c31a0c4cf42103b96]
+## 66. Disposal of share and loan capital[^c-ef28aeef6e26381c31a0c4cf42103b96]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ef28aeef6e26381c31a0c4cf42103b96]: Commencement: Reg. 66 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-ef28aeef6e26381c31a0c4cf42103b96]: Commencement: Reg. 66 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00058]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).
 

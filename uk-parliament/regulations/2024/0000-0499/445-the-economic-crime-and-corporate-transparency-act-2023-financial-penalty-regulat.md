@@ -46,7 +46,7 @@ In accordance with sections 1132A(7) and 1290 of the Companies Act 2006, and sec
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-536c1efa0a97b09bf11bf401e4c9dfd8]
+### 1. Citation, commencement and extent[^c-536c1efa0a97b09bf11bf401e4c9dfd8]
 
 (1) These Regulations may be cited as the Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 and come into force—
 
@@ -55,7 +55,7 @@ In accordance with sections 1132A(7) and 1290 of the Companies Act 2006, and sec
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-32f914611b70c0896e72c94611ae037d]
+### 2. Interpretation[^c-32f914611b70c0896e72c94611ae037d]
 
 In these Regulations—
 
@@ -67,7 +67,7 @@ In these Regulations—
 
 ## PART 2 — Financial Penalties
 
-### 3. The registrar’s powers[^key-b3e1d6e38a1a6f6a364ab77e548a8b51]
+### 3. The registrar’s powers[^c-b3e1d6e38a1a6f6a364ab77e548a8b51]
 
 (1) Subject to paragraph (2) and regulations 4, 5 and 7, the registrar may impose a financial penalty on a person if satisfied beyond reasonable doubt, that the person has engaged in conduct amounting to a relevant offence[^f00003].
 
@@ -78,7 +78,7 @@ In these Regulations—
 
 (3) No proceedings may be brought against a person in respect of conduct amounting to an offence if the person has been given a financial penalty under these Regulations in respect of that conduct.
 
-### 4. Warning and penalty notices[^key-87061b0756e8fddc91cb2a229b751350]
+### 4. Warning and penalty notices[^c-87061b0756e8fddc91cb2a229b751350]
 
 (1) If the registrar suspects that a person has engaged in conduct amounting to a relevant offence, the registrar may issue a warning notice in writing to that person.
 
@@ -88,7 +88,7 @@ In these Regulations—
 - (b) the period within which the person may make written representations to the registrar about their conduct (which must be at least 28 days beginning on the day after the date of the warning notice) and how such representations may be delivered; and
 - (c) a warning that at the end of the period referred to in sub-paragraph (b) above, the registrar may impose a financial penalty.
 
-**5.**[^key-6f141253f1f9c4b050fd263831cf6f95] (1) After the end of the period stated in the warning notice, the registrar, if satisfied beyond reasonable doubt that the person has engaged in conduct amounting to a relevant offence, may issue a penalty notice to the person who was issued the warning notice.
+**5.**[^c-6f141253f1f9c4b050fd263831cf6f95] (1) After the end of the period stated in the warning notice, the registrar, if satisfied beyond reasonable doubt that the person has engaged in conduct amounting to a relevant offence, may issue a penalty notice to the person who was issued the warning notice.
 
 (2) The penalty notice referred to in paragraph (1) above must be in writing and must set out—
 
@@ -101,7 +101,7 @@ In these Regulations—
 - (g) rights of appeal; and
 - (h) the consequences of non-payment.
 
-### 6. Variation and revocation of financial penalties[^key-9687d3c40c87494a3d46b8d4fe65cc1b]
+### 6. Variation and revocation of financial penalties[^c-9687d3c40c87494a3d46b8d4fe65cc1b]
 
 (1) Subject to regulation 7, the registrar may vary or revoke the penalty notice as the registrar considers appropriate.
 
@@ -109,7 +109,7 @@ In these Regulations—
 
 (3) If a financial penalty, or the period within which a financial penalty is to be paid, is varied under this regulation, the registrar must, as soon as practicable, issue a new penalty notice which, in addition to the information referred to in regulation 5(2), must state the variation and the reasons for the variation.
 
-### 7. Penalties[^key-d0ae7070274c13c6d00a8929b2a20816]
+### 7. Penalties[^c-d0ae7070274c13c6d00a8929b2a20816]
 
 (1) A financial penalty must not exceed the maximum fine that could be imposed by a court for the same offence under criminal proceedings in the jurisdiction in which the offence was committed and, in any event, must not exceed £10,000.
 
@@ -128,7 +128,7 @@ In these Regulations—
 
 ## PART 3 — Appeals
 
-**8.**[^key-8d086ef793bd243584193acd35f7d63a] (1) Subject to paragraph (3), a person who has received a penalty notice under regulations 5 or 6(3) may appeal to the County Court or, in Scotland, the Sheriff Court on the grounds mentioned in paragraph (2).
+**8.**[^c-8d086ef793bd243584193acd35f7d63a] (1) Subject to paragraph (3), a person who has received a penalty notice under regulations 5 or 6(3) may appeal to the County Court or, in Scotland, the Sheriff Court on the grounds mentioned in paragraph (2).
 
 (2) The grounds referred to in paragraph (1) are that the decision to issue a financial penalty, the level or type of financial penalty or any condition stated in the penalty notice—
 
@@ -151,7 +151,7 @@ In these Regulations—
 
 ## PART 4 — Enforcement
 
-### 9. Recovering penalties[^key-c88818d6947d53a43b4ed436ee3b5f36]
+### 9. Recovering penalties[^c-c88818d6947d53a43b4ed436ee3b5f36]
 
 (1) The registrar may recover any of the amount of the financial penalty and any interest that has not been paid if—
 
@@ -169,11 +169,11 @@ In these Regulations—
 
 ## PART 5 — Register of Overseas Entities Financial Penalties
 
-### 10. Amendments to the Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023[^key-a909d33824dba3bea8aed56a809e96d1]
+### 10. Amendments to the Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023[^c-a909d33824dba3bea8aed56a809e96d1]
 
 The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023[^f00007] are amended as follows.
 
-**11.**[^key-576c8368436dcbfc16f4b73ddad4ec4c] For regulation 3(2) substitute—
+**11.**[^c-576c8368436dcbfc16f4b73ddad4ec4c] For regulation 3(2) substitute—
 
 > (2) No financial penalty may be imposed on a person in respect of conduct amounting to an offence if—
 >
@@ -182,27 +182,27 @@ The Register of Overseas Entities (Penalties and Northern Ireland Dispositions) 
 
 .
 
-**12.**[^key-7a1c44716fd44fbc68d40ab53891a96f] In regulation 5(2) for “contain” substitute “set out”.
+**12.**[^c-7a1c44716fd44fbc68d40ab53891a96f] In regulation 5(2) for “contain” substitute “set out”.
 
-**13.**[^key-21c74d88c80a3bfeaa09b7243f30d48b] In regulation 5(2)(d) for “starts” substitute “started” and for “ceases” substitute “ceased”.
+**13.**[^c-21c74d88c80a3bfeaa09b7243f30d48b] In regulation 5(2)(d) for “starts” substitute “started” and for “ceases” substitute “ceased”.
 
-**14.**[^key-2337ca76ae3a0668d58e72c88b6badac] In regulation 5(2)(f) after “sooner than” insert “the end of the period of” and after “penalty notice” insert “is given”.
+**14.**[^c-2337ca76ae3a0668d58e72c88b6badac] In regulation 5(2)(f) after “sooner than” insert “the end of the period of” and after “penalty notice” insert “is given”.
 
-**15.**[^key-dc22ac19a176d01a00866dfc366bace4] For regulation 7(4)(a) substitute—
+**15.**[^c-dc22ac19a176d01a00866dfc366bace4] For regulation 7(4)(a) substitute—
 
 > - (a) the first day from which the amount may start to accumulate is the day after the day the registrar determines to be the day on which the person first engaged in the conduct amounting to a relevant offence;
 
 .
 
-**16.**[^key-d9363f4cd21afb471907f96fa636e0da] In regulation 7(5) after “accrues on” insert “the amount of”.
+**16.**[^c-d9363f4cd21afb471907f96fa636e0da] In regulation 7(5) after “accrues on” insert “the amount of”.
 
-**17.**[^key-15356006244bdd2bddcb6615e4ebc5da] In regulation 8(4) after “penalty notice” insert “is given”.
+**17.**[^c-15356006244bdd2bddcb6615e4ebc5da] In regulation 8(4) after “penalty notice” insert “is given”.
 
-**18.**[^key-302e83806350ad9b5b60f3d9a0c36b5b] In regulation 8(6)(b) after “the amount” insert “of”.
+**18.**[^c-302e83806350ad9b5b60f3d9a0c36b5b] In regulation 8(6)(b) after “the amount” insert “of”.
 
-**19.**[^key-1d64574d068474a821e0578ce1db33e2] In regulation 9(1) after “any of” insert “the amount of”.
+**19.**[^c-1d64574d068474a821e0578ce1db33e2] In regulation 9(1) after “any of” insert “the amount of”.
 
-**20.**[^key-36fee11ad6b0303d2745468e2c918bde] In regulation 9(2) after “Northern Ireland,” insert “the amount of”.
+**20.**[^c-36fee11ad6b0303d2745468e2c918bde] In regulation 9(2) after “Northern Ireland,” insert “the amount of”.
 
 Kevin Hollinrake
 
@@ -242,52 +242,52 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [2022 c. 10](https://www.legislation.gov.uk/ukpga/2022/10). Section 39 was amended by section 175 of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-536c1efa0a97b09bf11bf401e4c9dfd8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/445/regulation/1) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-536c1efa0a97b09bf11bf401e4c9dfd8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/445/regulation/1) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-32f914611b70c0896e72c94611ae037d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/445/regulation/2) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-32f914611b70c0896e72c94611ae037d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/445/regulation/2) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-b3e1d6e38a1a6f6a364ab77e548a8b51]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/445/regulation/3) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-b3e1d6e38a1a6f6a364ab77e548a8b51]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/445/regulation/3) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
 [^f00003]: Footnote: Relevant offence is defined in section 1132A of the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-87061b0756e8fddc91cb2a229b751350]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/445/regulation/4) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-87061b0756e8fddc91cb2a229b751350]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/445/regulation/4) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-6f141253f1f9c4b050fd263831cf6f95]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/445/regulation/5) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-6f141253f1f9c4b050fd263831cf6f95]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/445/regulation/5) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-9687d3c40c87494a3d46b8d4fe65cc1b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/445/regulation/6) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-9687d3c40c87494a3d46b8d4fe65cc1b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/445/regulation/6) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-d0ae7070274c13c6d00a8929b2a20816]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/445/regulation/7) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-d0ae7070274c13c6d00a8929b2a20816]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/445/regulation/7) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
 [^f00004]: Footnote: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110). Section 17 was amended by [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564) and [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940).
 
-[^key-8d086ef793bd243584193acd35f7d63a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/445/regulation/8) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-8d086ef793bd243584193acd35f7d63a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/445/regulation/8) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-c88818d6947d53a43b4ed436ee3b5f36]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/445/regulation/9) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-c88818d6947d53a43b4ed436ee3b5f36]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/445/regulation/9) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
 [^f00005]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
 
 [^f00006]: Footnote: [S.I. 1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226).
 
-[^key-a909d33824dba3bea8aed56a809e96d1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/445/regulation/10) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-a909d33824dba3bea8aed56a809e96d1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/445/regulation/10) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
 [^f00007]: Footnote: [S.I. 2023/696](https://www.legislation.gov.uk/uksi/2023/696).
 
-[^key-576c8368436dcbfc16f4b73ddad4ec4c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/445/regulation/11) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-576c8368436dcbfc16f4b73ddad4ec4c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/445/regulation/11) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-7a1c44716fd44fbc68d40ab53891a96f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/445/regulation/12) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-7a1c44716fd44fbc68d40ab53891a96f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/445/regulation/12) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-21c74d88c80a3bfeaa09b7243f30d48b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/445/regulation/13) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-21c74d88c80a3bfeaa09b7243f30d48b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/445/regulation/13) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-2337ca76ae3a0668d58e72c88b6badac]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/445/regulation/14) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-2337ca76ae3a0668d58e72c88b6badac]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2024/445/regulation/14) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-dc22ac19a176d01a00866dfc366bace4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/445/regulation/15) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-dc22ac19a176d01a00866dfc366bace4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2024/445/regulation/15) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-d9363f4cd21afb471907f96fa636e0da]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/445/regulation/16) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-d9363f4cd21afb471907f96fa636e0da]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2024/445/regulation/16) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-15356006244bdd2bddcb6615e4ebc5da]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/445/regulation/17) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-15356006244bdd2bddcb6615e4ebc5da]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2024/445/regulation/17) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-302e83806350ad9b5b60f3d9a0c36b5b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/445/regulation/18) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-302e83806350ad9b5b60f3d9a0c36b5b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2024/445/regulation/18) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-1d64574d068474a821e0578ce1db33e2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/445/regulation/19) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-1d64574d068474a821e0578ce1db33e2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/445/regulation/19) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
 
-[^key-36fee11ad6b0303d2745468e2c918bde]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/445/regulation/20) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)
+[^c-36fee11ad6b0303d2745468e2c918bde]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/445/regulation/20) in force at 2.5.2024, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1/a)

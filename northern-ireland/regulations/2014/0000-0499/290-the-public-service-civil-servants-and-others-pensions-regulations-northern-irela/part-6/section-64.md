@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Exercise of partial retirement option[^key-848bbdbf63135c6543159605836fbb32]
+## 64. Exercise of partial retirement option[^c-848bbdbf63135c6543159605836fbb32]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-848bbdbf63135c6543159605836fbb32]: Commencement: [Reg. 64](https://www.legislation.gov.uk/nisr/2014/290/regulation/64) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-848bbdbf63135c6543159605836fbb32]: Commencement: [Reg. 64](https://www.legislation.gov.uk/nisr/2014/290/regulation/64) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

@@ -109,7 +109,7 @@ the land is brought to the required standard when its physical characteristics a
 
 (3) The planning authority shall also consult the Forestry Commission—
 
-- (a) as to the steps to be specified in an aftercare condition which specifies a use [^key-bc8436d72075b82582961040be22ab15]... for forestry, and
+- (a) as to the steps to be specified in an aftercare condition which specifies a use [^c-bc8436d72075b82582961040be22ab15]... for forestry, and
 - (b) before approving an aftercare scheme submitted in accordance with an aftercare condition which specifies such a use.
 
 (4) The planning authority shall also, from time to time as they consider expedient, consult the Forestry Commission as to whether the steps specified in an aftercare condition or an aftercare scheme are being taken.
@@ -135,4 +135,4 @@ the land is brought to the required standard when its physical characteristics a
 
 ## Annotations
 
-[^key-bc8436d72075b82582961040be22ab15]: Textual amendment: Words in [Sch. 3 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/3/paragraph/4/3/a) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-bc8436d72075b82582961040be22ab15]: Textual amendment: Words in [Sch. 3 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/3/paragraph/4/3/a) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

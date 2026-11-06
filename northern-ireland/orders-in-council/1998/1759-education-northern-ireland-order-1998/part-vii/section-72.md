@@ -28,7 +28,7 @@ summary: ''
 
 may make available educational facilities or services to any other school, institution, body or person and, subject to paragraphs (3) and (4), may make charges for any facilities or services made available under this paragraph.
 
-(2) The Authority[^key-ed55e84b71ab4865bb54e5f4d498b9b5] may make available educational facilities or services in a controlled school which is under the management of the Authority and does not have a delegated budget, to any school, institution, body or person and, subject to paragraphs (3) and (4), may make charges for any facilities or services made available under this paragraph.
+(2) The Authority[^c-ed55e84b71ab4865bb54e5f4d498b9b5] may make available educational facilities or services in a controlled school which is under the management of the Authority and does not have a delegated budget, to any school, institution, body or person and, subject to paragraphs (3) and (4), may make charges for any facilities or services made available under this paragraph.
 
 (3) Charges under paragraphs (1) and (2)—
 
@@ -58,7 +58,7 @@ and references to a school which has a delegated budget shall be construed in ac
 
 ## Annotations
 
-[^key-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^m00016]: Marginal citation: 1993 NI 12.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Ways of taking rights to cash equivalent: members of occupational pension schemes[^key-51eca81206e00c3a88856cc6f79fd3e9]
+## 133. Ways of taking rights to cash equivalent: members of occupational pension schemes[^c-51eca81206e00c3a88856cc6f79fd3e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 91(2)(c) of the Pension Schemes (Northern Ireland) Act 1993 (ways of 
 
 ## Annotations
 
-[^key-51eca81206e00c3a88856cc6f79fd3e9]: Commencement: Art. 133 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-51eca81206e00c3a88856cc6f79fd3e9]: Commencement: Art. 133 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

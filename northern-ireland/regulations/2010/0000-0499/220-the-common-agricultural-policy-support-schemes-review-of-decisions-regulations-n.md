@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community and in relation to the promotion of rural development, in exercise of the powers conferred on it by the said section 2(2), hereby makes the following Regulations.
 
-## 1. Title and commencement[^key-4ebd63aaf6f8cff1b64d9834b0d89299]
+## 1. Title and commencement[^c-4ebd63aaf6f8cff1b64d9834b0d89299]
 
 These Regulations may be cited as the Common Agricultural Policy Support Schemes (Review of Decisions) Regulations (Northern Ireland) 2010 and shall come into operation on 14 July 2010.
 
-## 2. Interpretation[^key-91a86c39a84d2fa6fd27431523c483cf]
+## 2. Interpretation[^c-91a86c39a84d2fa6fd27431523c483cf]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
@@ -59,7 +59,7 @@ These Regulations may be cited as the Common Agricultural Policy Support Schemes
 
 (3) Any reference in these Regulations to a Community instrument is a reference to that instrument as amended on the date these Regulations are made.
 
-## 3. Application[^key-db25b2fa267ce91cc5cd5c3be2a1409d]
+## 3. Application[^c-db25b2fa267ce91cc5cd5c3be2a1409d]
 
 These Regulations shall apply in relation to any initial determination made by or on behalf of the Department—
 
@@ -68,11 +68,11 @@ These Regulations shall apply in relation to any initial determination made by o
 
 which relates to a holding or part of a holding within Northern Ireland.
 
-## 4. Review of Determinations[^key-97ffd99a42f51a1f0d9d7b33cb2610b0]
+## 4. Review of Determinations[^c-97ffd99a42f51a1f0d9d7b33cb2610b0]
 
 (1) The Department may establish such procedure as it thinks appropriate for the review by it or on its behalf of a relevant determination.
 
-(2)[^key-b99fcd6f6020e33b0e3485f2f5a222c0] The procedures established under paragraph (1) shall–
+(2)[^c-b99fcd6f6020e33b0e3485f2f5a222c0] The procedures established under paragraph (1) shall–
 
 - (a) provide for a review of a relevant determination to be carried out on the application of the person to whom it was directed,
 - (b) provide for the manner of making such application; and
@@ -94,7 +94,7 @@ which relates to a holding or part of a holding within Northern Ireland.
 
 any fee payable by a person under paragraph (4)(b) in respect of the review shall be refunded to that person.
 
-## 5. Revocation and Savings[^key-cbf18bdd4cd1fee79cf59cc8e64abdcc]
+## 5. Revocation and Savings[^c-cbf18bdd4cd1fee79cf59cc8e64abdcc]
 
 (1) Subject to paragraph (2)–
 
@@ -129,7 +129,7 @@ Department
 
 A senior officer of the Department of Agriculture and Rural Development
 
-## SCHEDULE — Community Instruments to which these Regulations apply[^key-f5f6705b6e2febc9ce5ed22a1b5e8a70]
+## SCHEDULE — Community Instruments to which these Regulations apply[^c-f5f6705b6e2febc9ce5ed22a1b5e8a70]
 
 Regulation 3
 
@@ -163,20 +163,20 @@ Regulation 5 inserts a savings provision in relation to a review of a decision m
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-4ebd63aaf6f8cff1b64d9834b0d89299]: Commencement: Reg. 1 in operation at 14.7.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/220/regulation/1)
+[^c-4ebd63aaf6f8cff1b64d9834b0d89299]: Commencement: Reg. 1 in operation at 14.7.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/220/regulation/1)
 
-[^key-91a86c39a84d2fa6fd27431523c483cf]: Commencement: Reg. 2 in operation at 14.7.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/220/regulation/1)
+[^c-91a86c39a84d2fa6fd27431523c483cf]: Commencement: Reg. 2 in operation at 14.7.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/220/regulation/1)
 
 [^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00004]: Footnote: O.J. No. L30, 31.01.2009, p.16 as last amended by [Commission Regulation (EC) No 992/2009](https://www.legislation.gov.uk/european/regulation/2009/0992) (OJ No L 278, 23.10.2009, p.7)
 
-[^key-db25b2fa267ce91cc5cd5c3be2a1409d]: Commencement: Reg. 3 in operation at 14.7.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/220/regulation/1)
+[^c-db25b2fa267ce91cc5cd5c3be2a1409d]: Commencement: Reg. 3 in operation at 14.7.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/220/regulation/1)
 
-[^key-97ffd99a42f51a1f0d9d7b33cb2610b0]: Commencement: Reg. 4 in operation at 14.7.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/220/regulation/1)
+[^c-97ffd99a42f51a1f0d9d7b33cb2610b0]: Commencement: Reg. 4 in operation at 14.7.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/220/regulation/1)
 
-[^key-b99fcd6f6020e33b0e3485f2f5a222c0]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2010/220/regulation/4/2) substituted (1.2.2013) by [The Common Agricultural Policy Support Schemes (Review of Decisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/457)](https://www.legislation.gov.uk/nisr/2012/457), [regs. 1](https://www.legislation.gov.uk/nisr/2012/457/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2012/457/regulation/4/2)
+[^c-b99fcd6f6020e33b0e3485f2f5a222c0]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2010/220/regulation/4/2) substituted (1.2.2013) by [The Common Agricultural Policy Support Schemes (Review of Decisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/457)](https://www.legislation.gov.uk/nisr/2012/457), [regs. 1](https://www.legislation.gov.uk/nisr/2012/457/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2012/457/regulation/4/2)
 
-[^key-cbf18bdd4cd1fee79cf59cc8e64abdcc]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/220/regulation/5) substituted (1.2.2013) by [The Common Agricultural Policy Support Schemes (Review of Decisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/457)](https://www.legislation.gov.uk/nisr/2012/457), [regs. 1](https://www.legislation.gov.uk/nisr/2012/457/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/457/regulation/5)
+[^c-cbf18bdd4cd1fee79cf59cc8e64abdcc]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/220/regulation/5) substituted (1.2.2013) by [The Common Agricultural Policy Support Schemes (Review of Decisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/457)](https://www.legislation.gov.uk/nisr/2012/457), [regs. 1](https://www.legislation.gov.uk/nisr/2012/457/regulation/1), [5](https://www.legislation.gov.uk/nisr/2012/457/regulation/5)
 
-[^key-f5f6705b6e2febc9ce5ed22a1b5e8a70]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/220/schedule) substituted (1.2.2013) by [The Common Agricultural Policy Support Schemes (Review of Decisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/457)](https://www.legislation.gov.uk/nisr/2012/457), [regs. 1](https://www.legislation.gov.uk/nisr/2012/457/regulation/1), [6](https://www.legislation.gov.uk/nisr/2012/457/regulation/6), [Sch.](https://www.legislation.gov.uk/nisr/2012/457/schedule)
+[^c-f5f6705b6e2febc9ce5ed22a1b5e8a70]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2010/220/schedule) substituted (1.2.2013) by [The Common Agricultural Policy Support Schemes (Review of Decisions) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/457)](https://www.legislation.gov.uk/nisr/2012/457), [regs. 1](https://www.legislation.gov.uk/nisr/2012/457/regulation/1), [6](https://www.legislation.gov.uk/nisr/2012/457/regulation/6), [Sch.](https://www.legislation.gov.uk/nisr/2012/457/schedule)

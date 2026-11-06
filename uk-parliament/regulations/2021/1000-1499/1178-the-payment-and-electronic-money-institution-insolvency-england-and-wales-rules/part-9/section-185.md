@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 185. Notification by administrator of court order[^key-844b82b19566a4a1ee60793ec2095b52]
+## 185. Notification by administrator of court order[^c-844b82b19566a4a1ee60793ec2095b52]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Where the court makes an order to end the special administration, the administra
 
 ## Annotations
 
-[^key-844b82b19566a4a1ee60793ec2095b52]: Commencement: Rule 185 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-844b82b19566a4a1ee60793ec2095b52]: Commencement: Rule 185 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

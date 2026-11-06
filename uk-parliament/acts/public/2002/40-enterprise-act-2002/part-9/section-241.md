@@ -24,7 +24,7 @@ summary: ''
 
 (2) If information is disclosed under subsection (1) so that it is not made available to the public it must not be further disclosed by a person to whom it is so disclosed other than with the agreement of the public authority for the purpose mentioned in that subsection.
 
-(2A)[^key-98bffefb63abad98dd696a8017d82dac] Information disclosed under subsection (1) so that it is not made available to the public must not be used by the person to whom it is disclosed for any purpose other than that mentioned in subsection (1).
+(2A)[^c-98bffefb63abad98dd696a8017d82dac] Information disclosed under subsection (1) so that it is not made available to the public must not be used by the person to whom it is disclosed for any purpose other than that mentioned in subsection (1).
 
 (3) A public authority which holds information to which section 237 applies may disclose that information to any other person for the purpose of facilitating the exercise by that person of any function he has under or by virtue of—
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98bffefb63abad98dd696a8017d82dac]: Textual amendment: [S. 241(2A)](https://www.legislation.gov.uk/ukpga/2002/40/section/241/2A) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 55](https://www.legislation.gov.uk/ukpga/2013/24/section/55), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-98bffefb63abad98dd696a8017d82dac]: Textual amendment: [S. 241(2A)](https://www.legislation.gov.uk/ukpga/2002/40/section/241/2A) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 55](https://www.legislation.gov.uk/ukpga/2013/24/section/55), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

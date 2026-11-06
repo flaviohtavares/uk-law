@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Amendment of regulation 13 (projects affecting other states)[^key-4132a1520ac496316322dff65847a558]
+## 37. Amendment of regulation 13 (projects affecting other states)[^c-4132a1520ac496316322dff65847a558]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ In regulation 13—
 
 ## Annotations
 
-[^key-4132a1520ac496316322dff65847a558]: Commencement: Reg. 37 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-4132a1520ac496316322dff65847a558]: Commencement: Reg. 37 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

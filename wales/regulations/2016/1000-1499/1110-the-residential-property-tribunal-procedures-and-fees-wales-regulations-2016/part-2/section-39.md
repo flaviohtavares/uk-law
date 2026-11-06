@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Requirements for supply of notices and documents[^key-37df6220d81ee867b0302e548f54dd7c]
+## 39. Requirements for supply of notices and documents[^c-37df6220d81ee867b0302e548f54dd7c]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37df6220d81ee867b0302e548f54dd7c]: Commencement: Reg. 39 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-37df6220d81ee867b0302e548f54dd7c]: Commencement: Reg. 39 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

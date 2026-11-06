@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Amendment of regulation 8 (further information and evidence respecting environmental statements)[^key-0a42e99401593309c6f9fde86f61d1e6]
+## 52. Amendment of regulation 8 (further information and evidence respecting environmental statements)[^c-0a42e99401593309c6f9fde86f61d1e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ In regulation 8—
 
 ## Annotations
 
-[^key-0a42e99401593309c6f9fde86f61d1e6]: Commencement: Reg. 52 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-0a42e99401593309c6f9fde86f61d1e6]: Commencement: Reg. 52 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

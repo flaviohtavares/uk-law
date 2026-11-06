@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 133. Amount payable under court order to former spouse or civil partner[^key-eada884b63e0dfb8328242dc02e8e630]
+## 133. Amount payable under court order to former spouse or civil partner[^c-eada884b63e0dfb8328242dc02e8e630]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eada884b63e0dfb8328242dc02e8e630]: Commencement: [Reg. 133](https://www.legislation.gov.uk/nisr/2014/290/regulation/133) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-eada884b63e0dfb8328242dc02e8e630]: Commencement: [Reg. 133](https://www.legislation.gov.uk/nisr/2014/290/regulation/133) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

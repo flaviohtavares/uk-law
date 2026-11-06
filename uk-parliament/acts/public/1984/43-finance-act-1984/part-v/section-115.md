@@ -30,7 +30,7 @@ summary: ''
 - (a) one is under the control of the other; or
 - (b) both are under the control of the same person or persons;
 
-and in this subsection “**control**” has the meaning given by section 1124 of the Corporation Tax Act 2010[^key-f42f4804e43bcb84459b05e764849a5e] .
+and in this subsection “**control**” has the meaning given by section 1124 of the Corporation Tax Act 2010[^c-f42f4804e43bcb84459b05e764849a5e] .
 
 (3) In any case where a company (in this subsection and subsection (4) below referred to as “the participator company") is or has been a participator in an oil field and—
 
@@ -52,23 +52,23 @@ the Board may, by notice in writing given to any company referred to in paragrap
 
 the Board shall direct that the company need not comply with the requirement.
 
-(6) If, on an application under subsection (5) above, the Board refuse to give a direction under that subsection, the company concerned may appeal, by notice[^key-b6bf73f8353e0d4a76badcfc00446daa] in writing given to the Board within thirty days after the refusal, and, where such an appeal is notified to the tribunal, the tribunal[^key-e2a233bef46cb19adda8ac282fad5230] , if satisfied that the requirement in question ought in the circumstances not to have effect, may determine accordingly.
+(6) If, on an application under subsection (5) above, the Board refuse to give a direction under that subsection, the company concerned may appeal, by notice[^c-b6bf73f8353e0d4a76badcfc00446daa] in writing given to the Board within thirty days after the refusal, and, where such an appeal is notified to the tribunal, the tribunal[^c-e2a233bef46cb19adda8ac282fad5230] , if satisfied that the requirement in question ought in the circumstances not to have effect, may determine accordingly.
 
-(6A)[^key-b9f28c5d9f5004ba637b0f474e07fdb6] The provisions of paragraphs 14A to 14I of Schedule 2 to the principal Act shall apply to appeals under this paragraph subject to any necessary modifications.
+(6A)[^c-b9f28c5d9f5004ba637b0f474e07fdb6] The provisions of paragraphs 14A to 14I of Schedule 2 to the principal Act shall apply to appeals under this paragraph subject to any necessary modifications.
 
 (7) In this section—
 
 - “**company**” means any body corporate; and
-- “51 per cent. subsidiary" shall be construed in accordance with Chapter 3 of Part 24 of the Corporation Tax Act 2010[^key-4883be6cfc4361fa87431a9811b5bc9c] (subsidiaries).
+- “51 per cent. subsidiary" shall be construed in accordance with Chapter 3 of Part 24 of the Corporation Tax Act 2010[^c-4883be6cfc4361fa87431a9811b5bc9c] (subsidiaries).
 
 ## Annotations
 
-[^key-f42f4804e43bcb84459b05e764849a5e]: Textual amendment: Words in [s. 115(2)](https://www.legislation.gov.uk/ukpga/1984/43/section/115/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 187(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/187/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f42f4804e43bcb84459b05e764849a5e]: Textual amendment: Words in [s. 115(2)](https://www.legislation.gov.uk/ukpga/1984/43/section/115/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 187(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/187/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-b6bf73f8353e0d4a76badcfc00446daa]: Textual amendment: Words in s. 115(6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 104(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/104/2/a)
+[^c-b6bf73f8353e0d4a76badcfc00446daa]: Textual amendment: Words in s. 115(6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 104(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/104/2/a)
 
-[^key-e2a233bef46cb19adda8ac282fad5230]: Textual amendment: Words in s. 115(6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 104(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/104/2/b)
+[^c-e2a233bef46cb19adda8ac282fad5230]: Textual amendment: Words in s. 115(6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 104(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/104/2/b)
 
-[^key-b9f28c5d9f5004ba637b0f474e07fdb6]: Textual amendment: S. 115(6A) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 104(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/104/3)
+[^c-b9f28c5d9f5004ba637b0f474e07fdb6]: Textual amendment: S. 115(6A) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 104(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/104/3)
 
-[^key-4883be6cfc4361fa87431a9811b5bc9c]: Textual amendment: Words in [s. 115(7)](https://www.legislation.gov.uk/ukpga/1984/43/section/115/7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 187(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/187/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4883be6cfc4361fa87431a9811b5bc9c]: Textual amendment: Words in [s. 115(7)](https://www.legislation.gov.uk/ukpga/1984/43/section/115/7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 187(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/187/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

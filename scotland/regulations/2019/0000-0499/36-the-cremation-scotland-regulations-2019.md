@@ -48,7 +48,7 @@ In accordance with section 106(2) of that Act a draft of this instrument has bee
 
 ## General
 
-### 1. Citation, commencement and interpretation[^key-4031befd8742585adbc07222e4e533a6]
+### 1. Citation, commencement and interpretation[^c-4031befd8742585adbc07222e4e533a6]
 
 (1) These Regulations may be cited as the Cremation (Scotland) Regulations 2019 and come into force on 4 April 2019.
 
@@ -74,7 +74,7 @@ and must be the signatory's handwritten signature.
 
 ## Management and operation of crematoriums
 
-### 2. Management of crematoriums[^key-eb7616933b1751e8b2b31b202e73cf86]
+### 2. Management of crematoriums[^c-eb7616933b1751e8b2b31b202e73cf86]
 
 (1) Each cremation authority must—
 
@@ -107,7 +107,7 @@ and must be the signatory's handwritten signature.
 
 (6) In paragraph (4)(a) “**address**” includes the email address (if any) of the crematorium.
 
-### 3. Records[^key-621784712a8d6c4ae1bd7b916a1bd3c7]
+### 3. Records[^c-621784712a8d6c4ae1bd7b916a1bd3c7]
 
 (1) For each cremation it carries out each cremation authority must retain for a period of 50 years beginning with the date on which the cremation is carried out the cremation application form submitted in accordance with regulation 8 and any accompanying documentation or certificates.
 
@@ -115,7 +115,7 @@ and must be the signatory's handwritten signature.
 
 (3) The cremation authority must ensure that all documentation retained under paragraph (1) is at all times kept in an accessible form in secure conditions and that all appropriate measures are taken to prevent theft, unauthorised disclosure, damage, loss or destruction.
 
-### 4. Maintenance and operation of crematoriums[^key-5acadbdf66f98777e283469a7dcf23ae]
+### 4. Maintenance and operation of crematoriums[^c-5acadbdf66f98777e283469a7dcf23ae]
 
 (1) The cremation authority must, in respect of each crematorium for which it is the cremation authority, ensure—
 
@@ -131,7 +131,7 @@ and must be the signatory's handwritten signature.
 - (a) all training undertaken by staff operating at the crematorium, and
 - (b) each service check carried out in accordance with paragraph (1)(c).
 
-### 5. Operation of cremator[^key-04a4f8ff4bcd6df1c86819ca5d3ae5f2]
+### 5. Operation of cremator[^c-04a4f8ff4bcd6df1c86819ca5d3ae5f2]
 
 (1) This regulation applies where a cremation is carried out.
 
@@ -145,7 +145,7 @@ and must be the signatory's handwritten signature.
 - (a) a joint cremation, or
 - (b) a shared cremation.
 
-### 6. Joint cremations[^key-b4d9c268082624764649802e67bc0795]
+### 6. Joint cremations[^c-b4d9c268082624764649802e67bc0795]
 
 (1) Where paragraph (2) applies a cremation authority may—
 
@@ -167,7 +167,7 @@ and must be the signatory's handwritten signature.
 - (b) for a child, a person who may submit an application for cremation in respect of the child by virtue of regulation 8(2)(b),
 - (c) for a still-born child or fetus, a person who may submit an application for cremation in respect of the still-born child or fetus by virtue of regulation 8(2)(c).
 
-### 7. Shared cremations[^key-a57b31b6f2cb4144f842a399fd05dd9b]
+### 7. Shared cremations[^c-a57b31b6f2cb4144f842a399fd05dd9b]
 
 (1) Where paragraph (2) applies a cremation authority may cremate together the remains of more than one fetus.
 
@@ -180,7 +180,7 @@ and must be the signatory's handwritten signature.
 
 ## Cremation applications
 
-### 8. Application for cremation[^key-b79a5db11b1dc7f894b8d239dc51bef0]
+### 8. Application for cremation[^c-b79a5db11b1dc7f894b8d239dc51bef0]
 
 (1) An application under section 48(1) of the Act (application for cremation) is to be made in accordance with this regulation.
 
@@ -197,7 +197,7 @@ and must be the signatory's handwritten signature.
 
 (3) An application for—
 
-- (a)[^key-30e0e39d31a9729a59d0b8672b4ef863] the cremation of an adult or child (other than an application made by a local authority) must—
+- (a)[^c-30e0e39d31a9729a59d0b8672b4ef863] the cremation of an adult or child (other than an application made by a local authority) must—
   - (i) be in the form set out in schedule 1,
   - (ii) contain the information specified in sections 1 to 5 of that form,
   - (iii) be accompanied by the relevant documentation specified in that form,
@@ -242,11 +242,11 @@ and must be the signatory's handwritten signature.
   - (i) where the Scottish Ministers have delegated the management of the hospital to a Health Board, Special Health Board, National Health Service or the Common Services Agency for the Scottish Health Service, that Board, trust or agency,
   - (ii) where the management of the hospital has not been so delegated, the Scottish Ministers.
 
-### 9. Deaths investigated by the procurator fiscal: requirements for cremation[^key-20ff87886e326e47d55e6e56a4f92d7c]
+### 9. Deaths investigated by the procurator fiscal: requirements for cremation[^c-20ff87886e326e47d55e6e56a4f92d7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Cremation following warrant to disinter[^key-8e45d409060a532b7be66b55cd3e2fdf]
+### 10. Cremation following warrant to disinter[^c-8e45d409060a532b7be66b55cd3e2fdf]
 
 (1) This regulation applies where—
 
@@ -255,13 +255,13 @@ and must be the signatory's handwritten signature.
 
 (2) The cremation authority may only carry out the cremation after the warrant to disinter has been received by the cremation authority.
 
-### 11. Cremation applications: further inquiry[^key-078d2df7a7be700297e92cd7875bddee]
+### 11. Cremation applications: further inquiry[^c-078d2df7a7be700297e92cd7875bddee]
 
 A cremation authority may make any inquiry in respect of an application made under regulation 8 and any accompanying documentation, evidence or certificates.
 
 ## Handling of ashes
 
-### 12. Handling of ashes: notices[^key-ea723a92497efddfc6d1e39139f05851]
+### 12. Handling of ashes: notices[^c-ea723a92497efddfc6d1e39139f05851]
 
 (1) Where, by virtue of section 52(3) (duty of cremation authority following cremation) of the Act, a funeral director has collected ashes from a cremation authority, the funeral director must as soon as reasonably practicable after collecting the ashes from the cremation authority give written notice to the applicant that the ashes are available for collection by the applicant from the funeral director.
 
@@ -279,29 +279,29 @@ A cremation authority may make any inquiry in respect of an application made und
 
 (5) In this regulation reference to a written notice includes an electronic communication.
 
-### 13. Handling of ashes: time periods for collection of ashes (specified period)[^key-9c0317896e69cf03105f2303eb2e1548]
+### 13. Handling of ashes: time periods for collection of ashes (specified period)[^c-9c0317896e69cf03105f2303eb2e1548]
 
 (1) For the purposes of sections 51(3)(a) and (b) (duty of cremation authority before carrying out cremation) and 52(2) and (3) (duty of cremation authority following cremation) of the Act the specified period during which ashes are to be retained by the cremation authority and made available for collection is 4 weeks beginning with the day after the day on which the cremation took place.
 
-(2)[^key-1c3ea3436cf28b31370a230d8ba9b5e5][^key-21c27fca0bc05cd3361fb30ae3d8d57b] For the purposes of section 53(2)(a) and (b) (failure to collect ashes) of the Act the further period is 4 weeks beginning with the day after the end of the specified period mentioned in paragraph (1).
+(2)[^c-1c3ea3436cf28b31370a230d8ba9b5e5][^c-21c27fca0bc05cd3361fb30ae3d8d57b] For the purposes of section 53(2)(a) and (b) (failure to collect ashes) of the Act the further period is 4 weeks beginning with the day after the end of the specified period mentioned in paragraph (1).
 
-(3)[^key-1c3ea3436cf28b31370a230d8ba9b5e5][^key-21c27fca0bc05cd3361fb30ae3d8d57b] For the purposes of section 54(1)(b) (power of funeral director in relation to ashes) of the Act the specified period for the applicant to collect the ashes from the funeral director is 4 weeks beginning with the day written notice is given to the applicant by the funeral director under regulation 12(1).
+(3)[^c-1c3ea3436cf28b31370a230d8ba9b5e5][^c-21c27fca0bc05cd3361fb30ae3d8d57b] For the purposes of section 54(1)(b) (power of funeral director in relation to ashes) of the Act the specified period for the applicant to collect the ashes from the funeral director is 4 weeks beginning with the day written notice is given to the applicant by the funeral director under regulation 12(1).
 
-(4)[^key-1c3ea3436cf28b31370a230d8ba9b5e5][^key-21c27fca0bc05cd3361fb30ae3d8d57b] For the purposes of section 55(2)(a) and (3) (duties of cremation authority where ashes returned) of the Act the specified period during which ashes are to be retained by the cremation authority and made available for collection is 4 weeks beginning with the day written notice is given to the applicant by the cremation authority under regulation 12(3).
+(4)[^c-1c3ea3436cf28b31370a230d8ba9b5e5][^c-21c27fca0bc05cd3361fb30ae3d8d57b] For the purposes of section 55(2)(a) and (3) (duties of cremation authority where ashes returned) of the Act the specified period during which ashes are to be retained by the cremation authority and made available for collection is 4 weeks beginning with the day written notice is given to the applicant by the cremation authority under regulation 12(3).
 
 (5) In this regulation “**applicant**” has the meaning given by section 52(5) of the Act.
 
-### 14. Disposal of ashes by cremation authority (specified manner)[^key-27e80d3f8072b02bd8be550c0b85dfb8]
+### 14. Disposal of ashes by cremation authority (specified manner)[^c-27e80d3f8072b02bd8be550c0b85dfb8]
 
 For the purposes of section 51(3)(c) (disposal of ashes by cremation authority), 53(6)(b) (failure to collect ashes) and 55(2)(b), (4) and (5)(b) (duties of cremation authorities where ashes returned) of the Act the specified manner for the disposal of ashes by the cremation authority is the burial or scattering of the ashes by the cremation authority.
 
 ## Cremation register
 
-### 15. Cremation register[^key-42f478dae85c7af2eccc776c53e85d28]
+### 15. Cremation register[^c-42f478dae85c7af2eccc776c53e85d28]
 
 (1) For the purpose of section 57(1) of the Act a cremation register must—
 
-- (a)[^key-42eb10df6ae52ac9b250eca7f8791235] for the cremation of an adult or child, contain the information specified in schedule 9 (cremation register – whole bodies),
+- (a)[^c-42eb10df6ae52ac9b250eca7f8791235] for the cremation of an adult or child, contain the information specified in schedule 9 (cremation register – whole bodies),
 - (b) for the cremation of a body part, or body parts, contain the information specified in schedule 10 (cremation register – body parts),
 - (c) for the cremation of a fetus or still-born child, contain the information specified in schedule 11 (cremation register – stillbirth and pregnancy loss).
 
@@ -309,7 +309,7 @@ For the purposes of section 51(3)(c) (disposal of ashes by cremation authority),
 
 (3) The cremation authority must—
 
-- (a) review the[^key-a4b0a7ca2cb13eedfc746383938d691c] register from time to time, and
+- (a) review the[^c-a4b0a7ca2cb13eedfc746383938d691c] register from time to time, and
 - (b) ensure that the information in the register is accurate and up to date.
 
 JOE FITZPATRICK
@@ -376,17 +376,17 @@ Regulation 8(3)(h)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2019/36/images/ssi_20190036_en_epp_038.gif)[image: see source](https://www.legislation.gov.uk/ssi/2019/36/images/ssi_20190036_en_epp_039.gif)[image: see source](https://www.legislation.gov.uk/ssi/2019/36/images/ssi_20190036_en_epp_040.gif)
 
-## SCHEDULE 8 — DEATH INVESTIGATED BY PROCURATOR FISCAL – FORM E1[^key-f2c69d7ee8a5c9676ec3decbdcb436bf]
+## SCHEDULE 8 — DEATH INVESTIGATED BY PROCURATOR FISCAL – FORM E1[^c-f2c69d7ee8a5c9676ec3decbdcb436bf]
 
 **No longer in force.**
 
 Regulation 9
 
-[^key-f2c69d7ee8a5c9676ec3decbdcb436bf]
+[^c-f2c69d7ee8a5c9676ec3decbdcb436bf]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2019/36/images/ssi_20190036_en_sld_055)
 
-## SCHEDULE 9 — CREMATION REGISTER – WHOLE BODIES[^key-9a9ecb8d735ca81b36976557e9fef03e]
+## SCHEDULE 9 — CREMATION REGISTER – WHOLE BODIES[^c-9a9ecb8d735ca81b36976557e9fef03e]
 
 Regulation 15(1)(a)
 
@@ -410,7 +410,7 @@ Regulation 15(1)(a)
 
 **10.** Name and contact details of funeral director (if used).
 
-## SCHEDULE 10 — CREMATION REGISTER – BODY PARTS[^key-75a73680b843ba233e037d5074353b7c]
+## SCHEDULE 10 — CREMATION REGISTER – BODY PARTS[^c-75a73680b843ba233e037d5074353b7c]
 
 Regulation 15(1)(b)
 
@@ -438,7 +438,7 @@ Regulation 15(1)(b)
 
 **12.** Name and contact details of funeral director (if used).
 
-## SCHEDULE 11 — CREMATION REGISTER – STILLBIRTH AND PREGNANCY LOSS[^key-b9a07d347ef5ce4f02cd466a4b472da1]
+## SCHEDULE 11 — CREMATION REGISTER – STILLBIRTH AND PREGNANCY LOSS[^c-b9a07d347ef5ce4f02cd466a4b472da1]
 
 Regulation 15(1)(c)
 
@@ -489,29 +489,29 @@ Regulation 15 prescribes the form of, and the information which must be recorded
 
 [^c23559591]: Marginal citation: The powers to make these Regulations are exercised together by virtue of section 33(2) of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). By virtue of that section the Regulations are subject to the affirmative procedure.
 
-[^key-4031befd8742585adbc07222e4e533a6]: Commencement: Reg. 1 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-4031befd8742585adbc07222e4e533a6]: Commencement: Reg. 1 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
 [^c23559601]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of schedule 17 of the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-eb7616933b1751e8b2b31b202e73cf86]: Commencement: Reg. 2 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-eb7616933b1751e8b2b31b202e73cf86]: Commencement: Reg. 2 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
-[^key-621784712a8d6c4ae1bd7b916a1bd3c7]: Commencement: Reg. 3 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-621784712a8d6c4ae1bd7b916a1bd3c7]: Commencement: Reg. 3 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
-[^key-5acadbdf66f98777e283469a7dcf23ae]: Commencement: Reg. 4 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-5acadbdf66f98777e283469a7dcf23ae]: Commencement: Reg. 4 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
-[^key-04a4f8ff4bcd6df1c86819ca5d3ae5f2]: Commencement: Reg. 5 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-04a4f8ff4bcd6df1c86819ca5d3ae5f2]: Commencement: Reg. 5 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
-[^key-b4d9c268082624764649802e67bc0795]: Commencement: Reg. 6 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-b4d9c268082624764649802e67bc0795]: Commencement: Reg. 6 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
-[^key-a57b31b6f2cb4144f842a399fd05dd9b]: Commencement: Reg. 7 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-a57b31b6f2cb4144f842a399fd05dd9b]: Commencement: Reg. 7 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
-[^key-b79a5db11b1dc7f894b8d239dc51bef0]: Commencement: Reg. 8 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-b79a5db11b1dc7f894b8d239dc51bef0]: Commencement: Reg. 8 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
 [^c23559611]: Marginal citation: An “arrangements on death declaration” is defined in section 65(8) of the Burial and Cremation (Scotland) Act [2016 asp 20](https://www.legislation.gov.uk/asp/2016/20).
 
 [^c23559621]: Marginal citation: [1984 c.14](https://www.legislation.gov.uk/ukpga/1984/14).
 
-[^key-30e0e39d31a9729a59d0b8672b4ef863]: Textual amendment: Reg. 8(3)(a)-(h) substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2025/360/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2025/360/regulation/5))
+[^c-30e0e39d31a9729a59d0b8672b4ef863]: Textual amendment: Reg. 8(3)(a)-(h) substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2025/360/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2025/360/regulation/5))
 
 [^c23559631]: Marginal citation: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
@@ -521,29 +521,29 @@ Regulation 15 prescribes the form of, and the information which must be recorded
 
 [^c23559661]: Marginal citation: Sections 10Q and 10P were inserted by the [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [section 108](https://www.legislation.gov.uk/asp/2010/8/section/108).
 
-[^key-20ff87886e326e47d55e6e56a4f92d7c]: Textual amendment: Reg. 9 omitted (2.3.2026) by virtue of [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2026/50/regulation/12)
+[^c-20ff87886e326e47d55e6e56a4f92d7c]: Textual amendment: Reg. 9 omitted (2.3.2026) by virtue of [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2026/50/regulation/12)
 
-[^key-8e45d409060a532b7be66b55cd3e2fdf]: Commencement: Reg. 10 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-8e45d409060a532b7be66b55cd3e2fdf]: Commencement: Reg. 10 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
-[^key-078d2df7a7be700297e92cd7875bddee]: Commencement: Reg. 11 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-078d2df7a7be700297e92cd7875bddee]: Commencement: Reg. 11 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
-[^key-ea723a92497efddfc6d1e39139f05851]: Commencement: Reg. 12 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-ea723a92497efddfc6d1e39139f05851]: Commencement: Reg. 12 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
 [^c23559681]: Marginal citation: Regulation 13(4) makes provision for the specified period for the purpose of section 55(2)(a) and (3) of the Act. Regulation 14 makes provision for the specified manner of disposal of ashes for the purpose of section 55 (and sections 51 and 53) of the Act.
 
-[^key-9c0317896e69cf03105f2303eb2e1548]: Commencement: Reg. 13 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-9c0317896e69cf03105f2303eb2e1548]: Commencement: Reg. 13 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
-[^key-1c3ea3436cf28b31370a230d8ba9b5e5]: Modification: Reg. 13(2)(3)(4): power to suspend conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2020/7/schedule/14/paragraph/9) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88)) (which affecting provision expires (25.3.2022) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90)))
+[^c-1c3ea3436cf28b31370a230d8ba9b5e5]: Modification: Reg. 13(2)(3)(4): power to suspend conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2020/7/schedule/14/paragraph/9) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88)) (which affecting provision expires (25.3.2022) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90)))
 
-[^key-21c27fca0bc05cd3361fb30ae3d8d57b]: Modification: [Reg. 13(2)](https://www.legislation.gov.uk/ssi/2019/36/regulation/13/2)[(3)](https://www.legislation.gov.uk/ssi/2019/36/regulation/13/3)[(4)](https://www.legislation.gov.uk/ssi/2019/36/regulation/13/4) expiry of earlier affecting provision 2020 c. 7, Sch. 14 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-21c27fca0bc05cd3361fb30ae3d8d57b]: Modification: [Reg. 13(2)](https://www.legislation.gov.uk/ssi/2019/36/regulation/13/2)[(3)](https://www.legislation.gov.uk/ssi/2019/36/regulation/13/3)[(4)](https://www.legislation.gov.uk/ssi/2019/36/regulation/13/4) expiry of earlier affecting provision 2020 c. 7, Sch. 14 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-27e80d3f8072b02bd8be550c0b85dfb8]: Commencement: Reg. 14 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-27e80d3f8072b02bd8be550c0b85dfb8]: Commencement: Reg. 14 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
-[^key-42f478dae85c7af2eccc776c53e85d28]: Commencement: Reg. 15 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
+[^c-42f478dae85c7af2eccc776c53e85d28]: Commencement: Reg. 15 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
-[^key-42eb10df6ae52ac9b250eca7f8791235]: Textual amendment: [Reg. 15(1)(a)-(c)](https://www.legislation.gov.uk/ssi/2019/36/regulation/15/1/a) substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/360/regulation/3/2) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/360/regulation/6))
+[^c-42eb10df6ae52ac9b250eca7f8791235]: Textual amendment: [Reg. 15(1)(a)-(c)](https://www.legislation.gov.uk/ssi/2019/36/regulation/15/1/a) substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2025/360/regulation/3/2) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/360/regulation/6))
 
-[^key-a4b0a7ca2cb13eedfc746383938d691c]: Textual amendment: Word in reg. 15(3) substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2025/360/regulation/3/3) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/360/regulation/6))
+[^c-a4b0a7ca2cb13eedfc746383938d691c]: Textual amendment: Word in reg. 15(3) substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2025/360/regulation/3/3) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/360/regulation/6))
 
 [^M_I_5404526f-42f0-4975-e5d1-40f2cff9d7bd]: Commencement: Sch. 1 in force at 4.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/36/regulation/1/1)
 
@@ -573,10 +573,10 @@ Regulation 15 prescribes the form of, and the information which must be recorded
 
 [^M_F_1dc3ceb5-c782-414e-abb7-7c101dee3e48]: Textual amendment: Sch. 7 Form A7 substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 7](https://www.legislation.gov.uk/ssi/2025/360/schedule/7) (with [reg. 5](https://www.legislation.gov.uk/ssi/2025/360/regulation/5))
 
-[^key-f2c69d7ee8a5c9676ec3decbdcb436bf]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ssi/2019/36/schedule/8) omitted (2.3.2026) by virtue of [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2026/50/regulation/12)
+[^c-f2c69d7ee8a5c9676ec3decbdcb436bf]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ssi/2019/36/schedule/8) omitted (2.3.2026) by virtue of [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2026/50/regulation/12)
 
-[^key-9a9ecb8d735ca81b36976557e9fef03e]: Textual amendment: Sch. 9 substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 8](https://www.legislation.gov.uk/ssi/2025/360/schedule/8) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/360/regulation/6))
+[^c-9a9ecb8d735ca81b36976557e9fef03e]: Textual amendment: Sch. 9 substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 8](https://www.legislation.gov.uk/ssi/2025/360/schedule/8) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/360/regulation/6))
 
-[^key-75a73680b843ba233e037d5074353b7c]: Textual amendment: Sch. 10 substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 9](https://www.legislation.gov.uk/ssi/2025/360/schedule/9) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/360/regulation/6))
+[^c-75a73680b843ba233e037d5074353b7c]: Textual amendment: Sch. 10 substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 9](https://www.legislation.gov.uk/ssi/2025/360/schedule/9) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/360/regulation/6))
 
-[^key-b9a07d347ef5ce4f02cd466a4b472da1]: Textual amendment: Sch. 11 substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2025/360/schedule/10) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/360/regulation/6))
+[^c-b9a07d347ef5ce4f02cd466a4b472da1]: Textual amendment: Sch. 11 substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2025/360/schedule/10) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/360/regulation/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Annual rate of pension credit member’s pension[^key-c49f3d45baf4eda3dcb3a14d6b548519]
+## 115. Annual rate of pension credit member’s pension[^c-c49f3d45baf4eda3dcb3a14d6b548519]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The annual rate of a pension credit member’s pension is calculated by—
 
 ## Annotations
 
-[^key-c49f3d45baf4eda3dcb3a14d6b548519]: Commencement: Reg. 115 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-c49f3d45baf4eda3dcb3a14d6b548519]: Commencement: Reg. 115 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

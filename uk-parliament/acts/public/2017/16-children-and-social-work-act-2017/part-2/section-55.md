@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-7279e1de9d4956bbab96ed4f1d73f0c0] The Secretary of State may give the regulator a remedial direction if the regulator—
+(1)[^c-7279e1de9d4956bbab96ed4f1d73f0c0] The Secretary of State may give the regulator a remedial direction if the regulator—
 
 - (a) has defaulted in performing any functions and has not remedied the default, or
 - (b) is likely to default in performing any function.
 
-(2)[^key-646529844c1d8e0ce08c1f939590b5a9] The Secretary of State may by regulations make further provision about remedial directions and their enforcement.
+(2)[^c-646529844c1d8e0ce08c1f939590b5a9] The Secretary of State may by regulations make further provision about remedial directions and their enforcement.
 
-(3)[^key-646529844c1d8e0ce08c1f939590b5a9] For example, the regulations may make provision about—
+(3)[^c-646529844c1d8e0ce08c1f939590b5a9] For example, the regulations may make provision about—
 
 - (a) the procedure for determining whether the regulator has defaulted or is likely to default;
 - (b) the procedure for giving remedial directions;
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7279e1de9d4956bbab96ed4f1d73f0c0]: Commencement: [S. 55(1)](https://www.legislation.gov.uk/ukpga/2017/16/section/55/1) in force at 2.12.2019 by [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/l)
+[^c-7279e1de9d4956bbab96ed4f1d73f0c0]: Commencement: [S. 55(1)](https://www.legislation.gov.uk/ukpga/2017/16/section/55/1) in force at 2.12.2019 by [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/l)
 
-[^key-646529844c1d8e0ce08c1f939590b5a9]: Commencement: [S. 55(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/55/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/16/section/55/3) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(v)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/v)
+[^c-646529844c1d8e0ce08c1f939590b5a9]: Commencement: [S. 55(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/55/2)[(3)](https://www.legislation.gov.uk/ukpga/2017/16/section/55/3) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(v)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/v)

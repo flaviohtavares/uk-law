@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Exclusions[^key-987a78fc554302b14867cee4efe9b93d]
+## 8. Exclusions[^c-987a78fc554302b14867cee4efe9b93d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ These Regulations do not apply to the following EEE—
 
 ## Annotations
 
-[^key-987a78fc554302b14867cee4efe9b93d]: Commencement: Reg. 8 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-987a78fc554302b14867cee4efe9b93d]: Commencement: Reg. 8 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

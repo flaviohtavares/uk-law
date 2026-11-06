@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 83. Meaning of excess benefit[^key-33ff13f90572fdc04a5a192a45a3f18e]
+## 83. Meaning of excess benefit[^c-33ff13f90572fdc04a5a192a45a3f18e]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In this Part “excess benefit” means any amount which has been allowed by way
 
 ## Annotations
 
-[^key-33ff13f90572fdc04a5a192a45a3f18e]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/1992/1814/regulation/83) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-33ff13f90572fdc04a5a192a45a3f18e]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/1992/1814/regulation/83) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

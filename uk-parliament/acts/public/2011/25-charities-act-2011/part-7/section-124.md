@@ -57,20 +57,20 @@ unless they have, before entering into the transaction, obtained and considered 
 - (a) who is reasonably believed by the charity trustees to be qualified by ability in and practical experience of financial matters, and
 - (b) who has no financial interest in relation to the loan, grant or other transaction in connection with which the advice is given.
 
-[^key-9ebbf4c7940bb1f19e32740db4397d51]...
+[^c-9ebbf4c7940bb1f19e32740db4397d51]...
 
 (9) This section applies regardless of anything in the trusts of a charity; but nothing in this section applies to any mortgage—
 
 - (a) for which general or special authority is given as mentioned in section 117(3)(a), or
-- (aa)[^key-3854378207bb0e7ec87826b79457dc52] granted by a liquidator, provisional liquidator, receiver, mortgagee or an administrator.
-- (b)[^key-acd15b499f9ad54eed0265f1b1549f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-3854378207bb0e7ec87826b79457dc52] granted by a liquidator, provisional liquidator, receiver, mortgagee or an administrator.
+- (b)[^c-acd15b499f9ad54eed0265f1b1549f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) Nothing in this section applies to an exempt charity.
 
 ## Annotations
 
-[^key-9ebbf4c7940bb1f19e32740db4397d51]: Textual amendment: Words in s. 124(8) omitted (14.6.2023) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2022/6/section/21/3), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/10)
+[^c-9ebbf4c7940bb1f19e32740db4397d51]: Textual amendment: Words in s. 124(8) omitted (14.6.2023) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2022/6/section/21/3), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/10)
 
-[^key-3854378207bb0e7ec87826b79457dc52]: Textual amendment: S. 124(9)(aa) inserted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2022/6/section/18/3/a), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 4(d)](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/4/d)
+[^c-3854378207bb0e7ec87826b79457dc52]: Textual amendment: S. 124(9)(aa) inserted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2022/6/section/18/3/a), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 4(d)](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/4/d)
 
-[^key-acd15b499f9ad54eed0265f1b1549f4b]: Textual amendment: S. 124(9)(b) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2022/6/section/18/3/b), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/1)
+[^c-acd15b499f9ad54eed0265f1b1549f4b]: Textual amendment: S. 124(9)(b) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2022/6/section/18/3/b), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/1)

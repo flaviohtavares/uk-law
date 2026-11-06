@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## H5. Extension of time[^key-481780d39effb2c5020297f32907bbcb]
+## H5. Extension of time[^c-481780d39effb2c5020297f32907bbcb]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The Department may in any particular case extend, or treat as having been extend
 
 ## Annotations
 
-[^key-481780d39effb2c5020297f32907bbcb]: Commencement: Reg. H5 in operation at 2.11.1998, see reg. A1
+[^c-481780d39effb2c5020297f32907bbcb]: Commencement: Reg. H5 in operation at 2.11.1998, see reg. A1

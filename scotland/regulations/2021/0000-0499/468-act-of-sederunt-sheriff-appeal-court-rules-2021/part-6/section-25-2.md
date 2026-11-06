@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25.2. Preparation for proof[^key-38d6daf7ae596eae76e2828bf3747a8b]
+## 25.2. Preparation for proof[^c-38d6daf7ae596eae76e2828bf3747a8b]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38d6daf7ae596eae76e2828bf3747a8b]: Commencement: Para. 25.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-38d6daf7ae596eae76e2828bf3747a8b]: Commencement: Para. 25.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

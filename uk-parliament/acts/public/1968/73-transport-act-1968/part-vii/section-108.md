@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Subject to subsection (3) of this section, any inland waterway in England or Wales comprised in the undertaking of Canal & River Trust[^key-fa492bc9a2633ab7f9680ed400a1fd8a] which is not a commercial waterway or cruising waterway shall be deemed to be—
+(1) Subject to subsection (3) of this section, any inland waterway in England or Wales comprised in the undertaking of Canal & River Trust[^c-fa492bc9a2633ab7f9680ed400a1fd8a] which is not a commercial waterway or cruising waterway shall be deemed to be—
 
 - (a) a watercourse for the purposes of section 259 of the [^c15328431]Public Health Act 1936; and
 - (b)[^c15328441] land to which section 215 of the Town and Country Planning Act 1990 applies;
@@ -29,7 +29,7 @@ and the provisions of Part III of the Environmental Protection Act 1990[^c153284
 
 (2) Subject to subsection (3) of this section, any inland waterway in Scotland comprised in the undertaking of the Board which is not a commercial waterway or cruising waterway shall be deemed to be—
 
-- (a)[^key-12b6a60520ba8caf531ab63fcd69cbb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-12b6a60520ba8caf531ab63fcd69cbb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b)[^c15328491] land to which section 179 of the Town and Country Planning (Scotland) Act 1997 applies;
 
 and any local authority within the meaning of the said Act of 1997[^c15328501] (and not only the local planning authority) shall be entitled to enforce the provisions of the said section 179[^c15328511] as it applies by virtue of this subsection.
@@ -40,7 +40,7 @@ and any local authority within the meaning of the said Act of 1997[^c15328501] (
 
 ## Annotations
 
-[^key-fa492bc9a2633ab7f9680ed400a1fd8a]: Textual amendment: Words in s. 108(1) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/41) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-fa492bc9a2633ab7f9680ed400a1fd8a]: Textual amendment: Words in s. 108(1) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/41) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c15328431]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 
@@ -50,7 +50,7 @@ and any local authority within the meaning of the said Act of 1997[^c15328501] (
 
 [^c15328461]: Textual amendment: Words substituted by virtue of [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 22(2)(a)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/22/2/a)
 
-[^key-12b6a60520ba8caf531ab63fcd69cbb8]: Textual amendment: S. 108(2)(a) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-12b6a60520ba8caf531ab63fcd69cbb8]: Textual amendment: S. 108(2)(a) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c15328491]: Textual amendment: S. 108(2)(b) substituted (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 4](https://www.legislation.gov.uk/ukpga/1997/11/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 2 para. 17(1)(a)(i)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/17/1/a/i)
 

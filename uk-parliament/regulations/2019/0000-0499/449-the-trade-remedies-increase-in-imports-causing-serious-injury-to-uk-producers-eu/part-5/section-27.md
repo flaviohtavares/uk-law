@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Authentication visit and authentication visit report[^key-3de43a4f81aa686d45808a14a6a7f35f]
+## 27. Authentication visit and authentication visit report[^c-3de43a4f81aa686d45808a14a6a7f35f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3de43a4f81aa686d45808a14a6a7f35f]: Commencement: Reg. 27 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-3de43a4f81aa686d45808a14a6a7f35f]: Commencement: Reg. 27 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL ASSISTANCE SERVICES, WALES
 
-The National Assistance (Assessment of Resources and Sums for Personal Requirements) (Amendment) (Wales) Regulations 2010 (revoked)[^key-df92d8ca1cef4fe85ee1d307033ca1b4]
+The National Assistance (Assessment of Resources and Sums for Personal Requirements) (Amendment) (Wales) Regulations 2010 (revoked)[^c-df92d8ca1cef4fe85ee1d307033ca1b4]
 
 Made
 
@@ -51,38 +51,38 @@ For all other purposes
 
 12 April 2010
 
-[^key-df92d8ca1cef4fe85ee1d307033ca1b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df92d8ca1cef4fe85ee1d307033ca1b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, interpretation and application[^key-df92d8ca1cef4fe85ee1d307033ca1b4]
+## 1. Title, commencement, interpretation and application[^c-df92d8ca1cef4fe85ee1d307033ca1b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Sums needed for personal requirements[^key-df92d8ca1cef4fe85ee1d307033ca1b4]
+## 2. Sums needed for personal requirements[^c-df92d8ca1cef4fe85ee1d307033ca1b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-df92d8ca1cef4fe85ee1d307033ca1b4]
+## 3. Revocation[^c-df92d8ca1cef4fe85ee1d307033ca1b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-df92d8ca1cef4fe85ee1d307033ca1b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-df92d8ca1cef4fe85ee1d307033ca1b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Increase in amount of savings credit to be disregarded[^key-df92d8ca1cef4fe85ee1d307033ca1b4]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 6. Other Amendments to the Principal Regulations[^key-df92d8ca1cef4fe85ee1d307033ca1b4]
+## 5. Increase in amount of savings credit to be disregarded[^c-df92d8ca1cef4fe85ee1d307033ca1b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df92d8ca1cef4fe85ee1d307033ca1b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 6. Other Amendments to the Principal Regulations[^c-df92d8ca1cef4fe85ee1d307033ca1b4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-df92d8ca1cef4fe85ee1d307033ca1b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-df92d8ca1cef4fe85ee1d307033ca1b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df92d8ca1cef4fe85ee1d307033ca1b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df92d8ca1cef4fe85ee1d307033ca1b4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/799) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-df92d8ca1cef4fe85ee1d307033ca1b4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/799) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

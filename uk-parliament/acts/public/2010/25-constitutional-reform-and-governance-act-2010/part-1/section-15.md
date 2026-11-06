@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Definition of “special adviser”[^key-20a15f7ebb20f63a97f4f807c05b9b8a]
+## 15. Definition of “special adviser”[^c-20a15f7ebb20f63a97f4f807c05b9b8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ The requirements are—
 
 ## Annotations
 
-[^key-20a15f7ebb20f63a97f4f807c05b9b8a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2010/25/section/15) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-20a15f7ebb20f63a97f4f807c05b9b8a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2010/25/section/15) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

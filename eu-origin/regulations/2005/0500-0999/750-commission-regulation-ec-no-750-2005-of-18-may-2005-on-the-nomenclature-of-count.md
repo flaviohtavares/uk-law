@@ -35,22 +35,22 @@ on the nomenclature of countries and territories for the external trade statisti
 
 (Text with EEA relevance) (revoked)
 
-[^key-f0afdb15b80e1fdda9e598b72148c453]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0afdb15b80e1fdda9e598b72148c453]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-f0afdb15b80e1fdda9e598b72148c453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f0afdb15b80e1fdda9e598b72148c453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f0afdb15b80e1fdda9e598b72148c453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f0afdb15b80e1fdda9e598b72148c453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0afdb15b80e1fdda9e598b72148c453]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0afdb15b80e1fdda9e598b72148c453]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-f0afdb15b80e1fdda9e598b72148c453]
+## ANNEX[^c-f0afdb15b80e1fdda9e598b72148c453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0afdb15b80e1fdda9e598b72148c453]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/49)
+[^c-f0afdb15b80e1fdda9e598b72148c453]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/49)

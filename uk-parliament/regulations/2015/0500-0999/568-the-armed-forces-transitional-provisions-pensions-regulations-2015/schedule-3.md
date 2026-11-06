@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Schedule to be inserted in the Reserve Forces (Full-Time Reserve Service) Pension Scheme 1997[^key-2db10283247fa9ed9ba7c511ddcf8908]
+## SCHEDULE 3 — Schedule to be inserted in the Reserve Forces (Full-Time Reserve Service) Pension Scheme 1997[^c-2db10283247fa9ed9ba7c511ddcf8908]
 
 *Extent: E+W+S+N.I.*
 
@@ -1145,7 +1145,7 @@ Regulation 26
 
 ## Annotations
 
-[^key-2db10283247fa9ed9ba7c511ddcf8908]: Commencement: Sch. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-2db10283247fa9ed9ba7c511ddcf8908]: Commencement: Sch. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00047]: Footnote: [S.I. 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336).
 

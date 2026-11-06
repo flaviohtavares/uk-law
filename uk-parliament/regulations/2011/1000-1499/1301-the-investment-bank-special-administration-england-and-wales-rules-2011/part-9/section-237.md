@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 237. Service of orders staying proceedings[^key-32b958dc8ce570fd56663725ab692ff5]
+## 237. Service of orders staying proceedings[^c-32b958dc8ce570fd56663725ab692ff5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the court makes an order staying any action, execution or other legal proc
 
 ## Annotations
 
-[^key-32b958dc8ce570fd56663725ab692ff5]: Commencement: [Rule 237](https://www.legislation.gov.uk/uksi/2011/1301/rule/237) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-32b958dc8ce570fd56663725ab692ff5]: Commencement: [Rule 237](https://www.legislation.gov.uk/uksi/2011/1301/rule/237) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

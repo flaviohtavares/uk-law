@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Cash basis: capital expenditure[^key-baf77581bc3532828b765ee4e3c8654d]
+## 33A. Cash basis: capital expenditure[^c-baf77581bc3532828b765ee4e3c8654d]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,4 +92,4 @@ any intangible asset that consists of a licence or other right granted to the tr
 
 ## Annotations
 
-[^key-baf77581bc3532828b765ee4e3c8654d]: Textual amendment: S. 33A substituted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/2)
+[^c-baf77581bc3532828b765ee4e3c8654d]: Textual amendment: S. 33A substituted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/2)

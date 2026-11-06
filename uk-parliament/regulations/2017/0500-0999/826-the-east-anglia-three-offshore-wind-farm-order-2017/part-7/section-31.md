@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Felling or lopping of trees and removal of hedgerows[^key-94026f7cc13c44264b67634874b78dcc]
+## 31. Felling or lopping of trees and removal of hedgerows[^c-94026f7cc13c44264b67634874b78dcc]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94026f7cc13c44264b67634874b78dcc]: Commencement: Art. 31 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-94026f7cc13c44264b67634874b78dcc]: Commencement: Art. 31 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
 [^f00028]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).

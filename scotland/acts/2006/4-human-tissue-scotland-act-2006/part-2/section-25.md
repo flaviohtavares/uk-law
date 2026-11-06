@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Disapplication of sections 27 to 35 and 37: bodies of persons dead for at least 100 years[^key-348770c0541b813e5ff34fa7111d4490]
+## 25. Disapplication of sections 27 to 35 and 37: bodies of persons dead for at least 100 years[^c-348770c0541b813e5ff34fa7111d4490]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Sections 27 to 35 and 37 do not apply as respects a post-mortem examination of a
 
 ## Annotations
 
-[^key-348770c0541b813e5ff34fa7111d4490]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2006/4/section/25) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-348770c0541b813e5ff34fa7111d4490]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2006/4/section/25) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

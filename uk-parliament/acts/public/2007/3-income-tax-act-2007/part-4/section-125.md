@@ -44,10 +44,10 @@ the company is treated for the purposes of this section as permanently ceasing t
 
 - (a) section 97 (meaning of “qualifying payment”),
 - (b) section 98 (meaning of “qualifying event” etc),
-- (ba)[^key-db006b062c4c7c3bbaca9801ec17c3f3] section 98A (denial of relief for tax-generated payments or events),
+- (ba)[^c-db006b062c4c7c3bbaca9801ec17c3f3] section 98A (denial of relief for tax-generated payments or events),
 - (c) section 99 (reduction of relief for unpaid trade expenses), and
 - (d) section 100 (prohibition against double counting).
 
 ## Annotations
 
-[^key-db006b062c4c7c3bbaca9801ec17c3f3]: Textual amendment: S. 125(6)(ba) inserted (17.7.2012) (with effect in accordance with s. 9(6)-(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/9/4)
+[^c-db006b062c4c7c3bbaca9801ec17c3f3]: Textual amendment: S. 125(6)(ba) inserted (17.7.2012) (with effect in accordance with s. 9(6)-(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/9/4)

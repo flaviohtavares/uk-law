@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 383. Advice and information in relation to media mergers[^key-5f4693137d1fd6224633a7197699790d]
+## 383. Advice and information in relation to media mergers[^c-5f4693137d1fd6224633a7197699790d]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ After section 106 of the Enterprise Act 2002 (c. 40) there shall be inserted—
 
 ## Annotations
 
-[^key-5f4693137d1fd6224633a7197699790d]: Commencement: S. 383 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5f4693137d1fd6224633a7197699790d]: Commencement: S. 383 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Payments to increase total membership[^key-6cbb2bf2a0d0c24260ef6aaca307e534]
+## 54. Payments to increase total membership[^c-6cbb2bf2a0d0c24260ef6aaca307e534]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ the election is void.
 
 ## Annotations
 
-[^key-6cbb2bf2a0d0c24260ef6aaca307e534]: Commencement: Reg. 54 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-6cbb2bf2a0d0c24260ef6aaca307e534]: Commencement: Reg. 54 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

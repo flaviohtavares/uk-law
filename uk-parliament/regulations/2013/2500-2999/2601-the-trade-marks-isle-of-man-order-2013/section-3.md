@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Revocation[^key-0ba41014ec19444cc84f3c7ee4dc1d4b]
+## 3. Revocation[^c-0ba41014ec19444cc84f3c7ee4dc1d4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ The following instruments are revoked―
 
 ## Annotations
 
-[^key-0ba41014ec19444cc84f3c7ee4dc1d4b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2601/article/3) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-0ba41014ec19444cc84f3c7ee4dc1d4b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2601/article/3) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
 [^f00002]: Footnote: [S.I. 1996/729](https://www.legislation.gov.uk/uksi/1996/729).
 

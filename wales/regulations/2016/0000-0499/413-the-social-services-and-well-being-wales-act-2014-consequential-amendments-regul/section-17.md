@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**17.**[^key-76f883b447bf978eb57a0cdfa486e3e4] In section 65 (financial assistance by local authorities to certain voluntary organisations), in subsection (3)(b)—
+**17.**[^c-76f883b447bf978eb57a0cdfa486e3e4] In section 65 (financial assistance by local authorities to certain voluntary organisations), in subsection (3)(b)—
 
 - (a) omit sub-paragraph (iii);
 - (b) after sub-paragraph (xxii) insert—
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76f883b447bf978eb57a0cdfa486e3e4]: Commencement: Reg. 17 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-76f883b447bf978eb57a0cdfa486e3e4]: Commencement: Reg. 17 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

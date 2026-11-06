@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Short-term employment.[^key-7423ca7f28f8565876ee3c0f8f60560b]
+## 198. Short-term employment.[^c-7423ca7f28f8565876ee3c0f8f60560b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7423ca7f28f8565876ee3c0f8f60560b]: Textual amendment: [S. 198](https://www.legislation.gov.uk/ukpga/1996/18/section/198) repealed (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/1378/regulation/7)
+[^c-7423ca7f28f8565876ee3c0f8f60560b]: Textual amendment: [S. 198](https://www.legislation.gov.uk/ukpga/1996/18/section/198) repealed (6.4.2020) by [The Employment Rights (Employment Particulars and Paid Annual Leave) (Amendment) Regulations 2018 (S.I. 2018/1378)](https://www.legislation.gov.uk/uksi/2018/1378), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1378/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/1378/regulation/7)

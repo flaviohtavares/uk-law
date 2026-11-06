@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Payment of awards otherwise than to beneficiary and application of payments[^key-ca552275c5c778180d7a80731b724728]
+## 41. Payment of awards otherwise than to beneficiary and application of payments[^c-ca552275c5c778180d7a80731b724728]
 
 *Extent: N.I.*
 
@@ -50,6 +50,6 @@ and, in the event of any dispute as to the amount of that loss, the power confer
 
 ## Annotations
 
-[^key-ca552275c5c778180d7a80731b724728]: Commencement: Reg. 41 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-ca552275c5c778180d7a80731b724728]: Commencement: Reg. 41 in operation at 25.7.2006 with effect in accordance with reg. 1
 
 [^f00016]: Footnote: [1967 c.35](https://www.legislation.gov.uk/apni/1967/35)

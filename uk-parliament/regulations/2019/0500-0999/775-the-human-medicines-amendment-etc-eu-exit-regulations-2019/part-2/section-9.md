@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Amendment of regulation 6 (the licensing authority and the Ministers)[^key-bb030381d68fee3ec1bdb759da20ae4e]
+## 9. Amendment of regulation 6 (the licensing authority and the Ministers)[^c-bb030381d68fee3ec1bdb759da20ae4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb030381d68fee3ec1bdb759da20ae4e]: Textual amendment: Reg. 9 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/6)
+[^c-bb030381d68fee3ec1bdb759da20ae4e]: Textual amendment: Reg. 9 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/6)

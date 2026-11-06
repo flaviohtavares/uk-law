@@ -30,7 +30,7 @@ summary: ''
 
 (3) A report under paragraph (1)(b) must contain a statement of the demographic assumptions used in making the valuation; and the statement must show how the assumptions relate to the events which have actually occurred in relation to members of the Scheme since the last valuation.
 
-(3A)[^key-6711cc6473857a76dbfd7399a932e5df] A report under paragraph (1)(b) must also contain a report on the gender pension gap within the fund, in accordance with actuarial guidance published by the Secretary of State.
+(3A)[^c-6711cc6473857a76dbfd7399a932e5df] A report under paragraph (1)(b) must also contain a report on the gender pension gap within the fund, in accordance with actuarial guidance published by the Secretary of State.
 
 (4) A rates and adjustments certificate is a certificate specifying—
 
@@ -44,11 +44,11 @@ for each year of the period of three years beginning with 1st April in the year 
 (6) The actuary must have regard to—
 
 - (a) the existing and prospective liabilities arising from circumstances common to all those bodies;
-- (b) the desirability of maintaining as nearly constant a primary[^key-1084e5f91f831a31128fb3fdc7123d5d] rate as possible;
+- (b) the desirability of maintaining as nearly constant a primary[^c-1084e5f91f831a31128fb3fdc7123d5d] rate as possible;
 - (c) the current version of the administering authority's funding strategy mentioned in regulation 58 (funding strategy statements); and
 - (d) the requirement to secure the solvency of the pension fund and the long term cost efficiency of the Scheme, so far as relating to the pension fund.
 
-(6A)[^key-635b5c5ce8cb90f97584d095416222ac] Compensation paid by the scheme to a person by virtue of section 82(1) of PSPJOA 2022 or additional benefits payable by virtue of regulation 4S of the 2014 Regulations are liabilities for the purpose of the actuarial valuation under paragraph (1)(a).
+(6A)[^c-635b5c5ce8cb90f97584d095416222ac] Compensation paid by the scheme to a person by virtue of section 82(1) of PSPJOA 2022 or additional benefits payable by virtue of regulation 4S of the 2014 Regulations are liabilities for the purpose of the actuarial valuation under paragraph (1)(a).
 
 (7) The secondary rate of an employer's contributions is any percentage or amount by which, in the actuary's opinion, contributions at the primary rate should, in the case of a Scheme employer, be increased or reduced by reason of any circumstances peculiar to that employer.
 
@@ -63,8 +63,8 @@ during the period covered by the certificate.
 
 ## Annotations
 
-[^key-6711cc6473857a76dbfd7399a932e5df]: Textual amendment: [Reg. 62(3A)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/62/3A) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [26](https://www.legislation.gov.uk/uksi/2026/226/regulation/26)
+[^c-6711cc6473857a76dbfd7399a932e5df]: Textual amendment: [Reg. 62(3A)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/62/3A) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [26](https://www.legislation.gov.uk/uksi/2026/226/regulation/26)
 
-[^key-1084e5f91f831a31128fb3fdc7123d5d]: Textual amendment: Word in [reg. 62(6)(b)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/62/6/b) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [21](https://www.legislation.gov.uk/uksi/2015/755/regulation/21)
+[^c-1084e5f91f831a31128fb3fdc7123d5d]: Textual amendment: Word in [reg. 62(6)(b)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/62/6/b) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [21](https://www.legislation.gov.uk/uksi/2015/755/regulation/21)
 
-[^key-635b5c5ce8cb90f97584d095416222ac]: Textual amendment: [Reg. 62(6A)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/62/6A) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [3(12)](https://www.legislation.gov.uk/uksi/2023/972/regulation/3/12)
+[^c-635b5c5ce8cb90f97584d095416222ac]: Textual amendment: [Reg. 62(6A)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/62/6A) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [3(12)](https://www.legislation.gov.uk/uksi/2023/972/regulation/3/12)

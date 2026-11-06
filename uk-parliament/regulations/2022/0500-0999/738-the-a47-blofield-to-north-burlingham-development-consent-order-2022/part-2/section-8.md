@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Limits of deviation[^key-c145a3649a9bfd357a340f4ccadcfd10]
+## 8. Limits of deviation[^c-c145a3649a9bfd357a340f4ccadcfd10]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ except that the maximum limits of vertical deviation do not apply where it is de
 
 ## Annotations
 
-[^key-c145a3649a9bfd357a340f4ccadcfd10]: Commencement: Art. 8 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-c145a3649a9bfd357a340f4ccadcfd10]: Commencement: Art. 8 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)

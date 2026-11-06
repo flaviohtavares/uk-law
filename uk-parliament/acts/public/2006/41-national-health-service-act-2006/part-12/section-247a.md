@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247A. Application to certain other local authorities without overview and scrutiny committees[^key-92eb2e9a2ed98e0c029a3ad033d8d647]
+## 247A. Application to certain other local authorities without overview and scrutiny committees[^c-92eb2e9a2ed98e0c029a3ad033d8d647]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92eb2e9a2ed98e0c029a3ad033d8d647]: Textual amendment: S. 247A omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 191(14)](https://www.legislation.gov.uk/ukpga/2012/7/section/191/14), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-92eb2e9a2ed98e0c029a3ad033d8d647]: Textual amendment: S. 247A omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 191(14)](https://www.legislation.gov.uk/ukpga/2012/7/section/191/14), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

@@ -44,13 +44,13 @@ Whereas the Secretary of State for Social Security has made an Order[^f00001] un
 
 Now, therefore, the Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by section 41A of the Pension Schemes (Northern Ireland) Act 1993[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-31838421323999b13d0993a3ca34b7df]
+## 1. Citation, commencement and interpretation[^c-31838421323999b13d0993a3ca34b7df]
 
 (1) This Order may be cited as the Social Security (Minimum Contributions to Appropriate Personal Pension Schemes) Order (Northern Ireland) 1996 and shall come into operation on 6th April 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to this Order as it applies to a Measure of the Assembly.
 
-## 2. Appropriate age-related percentage[^key-680918cba2f25c2955dce979aaaaf5a5]
+## 2. Appropriate age-related percentage[^c-680918cba2f25c2955dce979aaaaf5a5]
 
 For the purposes of section 41 of the Pension Schemes (Northern Ireland) Act 1993[^f00005] (amount of minimum contributions) the appropriate age-related percentages in respect of earners in the tax years 1997-98 to 2001-02 are those specified in the table in the Schedule by reference to their ages on the last day of the preceding tax year.
 
@@ -62,7 +62,7 @@ Assistant Secretary
 
 4th April 1996
 
-## SCHEDULE — TABLE[^key-ad9c7132678fd6f9324701d8a85d54cf]
+## SCHEDULE — TABLE[^c-ad9c7132678fd6f9324701d8a85d54cf]
 
 Article 2
 
@@ -140,12 +140,12 @@ Section 41A of the Pension Schemes (Northern Ireland) Act 1993, the enabling pro
 
 [^f00003]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 41A was inserted by Article 135(5) of the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
-[^key-31838421323999b13d0993a3ca34b7df]: Commencement: Art. 1 in operation at 6.4.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/151/article/1/1)
+[^c-31838421323999b13d0993a3ca34b7df]: Commencement: Art. 1 in operation at 6.4.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/151/article/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-680918cba2f25c2955dce979aaaaf5a5]: Commencement: Art. 2 in operation at 6.4.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/151/article/1/1)
+[^c-680918cba2f25c2955dce979aaaaf5a5]: Commencement: Art. 2 in operation at 6.4.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/151/article/1/1)
 
 [^f00005]: Footnote: Section 41 is amended by Article 135(2) to (4) of, and paragraph 35 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995
 
-[^key-ad9c7132678fd6f9324701d8a85d54cf]: Commencement: Sch. in operation at 6.4.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/151/article/1/1)
+[^c-ad9c7132678fd6f9324701d8a85d54cf]: Commencement: Sch. in operation at 6.4.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/151/article/1/1)

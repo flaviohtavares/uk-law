@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21.7. Court’s power to change a litigation friend and to prevent person acting as a litigation friend[^key-45ca8667c1772b0ff63d17f60708884a]
+## 21.7. Court’s power to change a litigation friend and to prevent person acting as a litigation friend[^c-45ca8667c1772b0ff63d17f60708884a]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) direct that a person may not act as a litigation friend;
 - (b) terminate a litigation friend’s appointment; or
-- (c) appoint a new litigation friend instead of[^key-990ddce3ef50823c63cd269cdae76786] an existing one.
+- (c) appoint a new litigation friend instead of[^c-990ddce3ef50823c63cd269cdae76786] an existing one.
 
 (2) An application for an order under paragraph (1) must be supported by evidence.
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45ca8667c1772b0ff63d17f60708884a]: Textual amendment: Pt. 21 substituted (1.10.2007) by [The Civil Procedure (Amendment) Rules 2007 (S.I. 2007/2204)](https://www.legislation.gov.uk/uksi/2007/2204), [rule 1](https://www.legislation.gov.uk/uksi/2007/2204/rule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/2204/schedule/2)
+[^c-45ca8667c1772b0ff63d17f60708884a]: Textual amendment: Pt. 21 substituted (1.10.2007) by [The Civil Procedure (Amendment) Rules 2007 (S.I. 2007/2204)](https://www.legislation.gov.uk/uksi/2007/2204), [rule 1](https://www.legislation.gov.uk/uksi/2007/2204/rule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/2204/schedule/2)
 
-[^key-990ddce3ef50823c63cd269cdae76786]: Textual amendment: Words in [rule 21.7(1)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.7/1/c) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [14(8)](https://www.legislation.gov.uk/uksi/2023/105/rule/14/8)
+[^c-990ddce3ef50823c63cd269cdae76786]: Textual amendment: Words in [rule 21.7(1)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/21.7/1/c) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [14(8)](https://www.legislation.gov.uk/uksi/2023/105/rule/14/8)

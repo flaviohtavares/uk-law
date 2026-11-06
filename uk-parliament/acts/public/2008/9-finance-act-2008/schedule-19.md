@@ -30,15 +30,15 @@ Section 53
 
 (3) Condition B is that the charity makes a claim for the donation to be exempt from tax by virtue of—
 
-- (a)[^key-e791a6cf3b9670160e98050ed9fdef88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e791a6cf3b9670160e98050ed9fdef88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 521(4) of ITA 2007 (charitable trusts), [^M_F_4d5e1392-46c6-43d3-d4f0-ba87eaed7bf1]...
-- (ba)[^key-c579360b9dc1df2be2127d426e814e88] section 472 of CTA 2010 (charitable companies),
+- (ba)[^c-c579360b9dc1df2be2127d426e814e88] section 472 of CTA 2010 (charitable companies),
 - (bb) section 475 of CTA 2010 (eligible bodies), or
-- (c) section 664(1) of CTA 2010[^key-959caaf15ece317c04dbc33507c5fb3e] (community amateur sports clubs).
+- (c) section 664(1) of CTA 2010[^c-959caaf15ece317c04dbc33507c5fb3e] (community amateur sports clubs).
 
 (4) Condition C is that the claim is made within the period of two years beginning immediately after the end of—
 
-- (a) the accounting period to which the claim relates (in a case falling within sub-paragraph (3)(ba), (bb) or (c)[^key-4502a723c08396f008dbc8dd79aa7f7b]), or
+- (a) the accounting period to which the claim relates (in a case falling within sub-paragraph (3)(ba), (bb) or (c)[^c-4502a723c08396f008dbc8dd79aa7f7b]), or
 - (b) the tax year to which the claim relates (in a case falling within sub-paragraph (3)(b)).
 
 (5) Condition D is that the claim is allowed.
@@ -109,7 +109,7 @@ DGA the amount of the gift aid donation grossed up by reference to the actual ba
 
 ### Amendments
 
-**8.**[^key-17d445fc6f976da29110c5237bc27741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-17d445fc6f976da29110c5237bc27741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** In section 521 of ITA 2007 (gifts entitling donor to gift aid relief: income tax liability and exemption of charity), after subsection (6) insert—
 
@@ -117,14 +117,14 @@ DGA the amount of the gift aid donation grossed up by reference to the actual ba
 
 ## Annotations
 
-[^key-e791a6cf3b9670160e98050ed9fdef88]: Textual amendment: [Sch. 19 para. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/1/3/a) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 580(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/580/2/a), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e791a6cf3b9670160e98050ed9fdef88]: Textual amendment: [Sch. 19 para. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/1/3/a) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 580(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/580/2/a), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^M_F_4d5e1392-46c6-43d3-d4f0-ba87eaed7bf1]: Textual amendment: Word in [Sch. 19 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/1/3/a) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 580(2)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/580/2/a), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-c579360b9dc1df2be2127d426e814e88]: Textual amendment: [Sch. 19 para. 1(3)(ba)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/1/3/ba)[(bb)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/1/3/bb) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 580(2)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/580/2/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c579360b9dc1df2be2127d426e814e88]: Textual amendment: [Sch. 19 para. 1(3)(ba)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/1/3/ba)[(bb)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/1/3/bb) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 580(2)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/580/2/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-959caaf15ece317c04dbc33507c5fb3e]: Textual amendment: Words in [Sch. 19 para. 1(3)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/1/3/c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 580(2)(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/580/2/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-959caaf15ece317c04dbc33507c5fb3e]: Textual amendment: Words in [Sch. 19 para. 1(3)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/1/3/c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 580(2)(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/580/2/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-4502a723c08396f008dbc8dd79aa7f7b]: Textual amendment: Words in [Sch. 19 para. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/1/4/a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 580(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/580/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4502a723c08396f008dbc8dd79aa7f7b]: Textual amendment: Words in [Sch. 19 para. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/1/4/a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 580(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/580/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-17d445fc6f976da29110c5237bc27741]: Textual amendment: [Sch. 19 para. 8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/8) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-17d445fc6f976da29110c5237bc27741]: Textual amendment: [Sch. 19 para. 8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/19/paragraph/8) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

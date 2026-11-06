@@ -43,7 +43,7 @@ Coming into force in accordance with paragraph 1(2), (3) and (4)
 
 The Lords of Council and Session, under and by virtue of the powers conferred by section 54 of the Sheriff Courts (Scotland) Act 1876[^f00001] and of all other powers enabling them in that behalf, do hereby enact and declare:
 
-## 1. Citation, commencement and effect[^key-87b031e53e862f78b206c24470cdce55]
+## 1. Citation, commencement and effect[^c-87b031e53e862f78b206c24470cdce55]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Commissary Business) 2013.
 
@@ -55,7 +55,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (5) A certified copy of this Act of Sederunt is to be inserted in the Books of Sederunt.
 
-## 2. Interpretation[^key-7d3acdfd4d07ce1eccd6aeda6f9990be]
+## 2. Interpretation[^c-7d3acdfd4d07ce1eccd6aeda6f9990be]
 
 In this Act of Sederunt—
 
@@ -63,19 +63,19 @@ In this Act of Sederunt—
 - “presentation of petitions for appointment of executors dative” includes the conduct of proceedings in respect of such petitions;
 - “sheriff clerk” includes sheriff clerk depute.
 
-## 3. Places where commissary business may be conducted[^key-407a5bc1bb71c7490b2471cf2c25e84a][^key-46db26570455f6f7cfe0b1a713664101][^key-c99395c2e55b57948e40d3a8e3302b56]
+## 3. Places where commissary business may be conducted[^c-407a5bc1bb71c7490b2471cf2c25e84a][^c-46db26570455f6f7cfe0b1a713664101][^c-c99395c2e55b57948e40d3a8e3302b56]
 
-(1)[^key-0a52753f1685564cfae66a9da7781c03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0a52753f1685564cfae66a9da7781c03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-c1a2acbb06a9ab3567fefb442bccaedc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c1a2acbb06a9ab3567fefb442bccaedc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c99395c2e55b57948e40d3a8e3302b56] With effect from 31st January 2015, commissary business may be conducted in the commissariot of each sheriffdom listed in column 1 of Schedule 3 at the places specified in column 2.
+(3)[^c-c99395c2e55b57948e40d3a8e3302b56] With effect from 31st January 2015, commissary business may be conducted in the commissariot of each sheriffdom listed in column 1 of Schedule 3 at the places specified in column 2.
 
-## 4. Presentation of petitions for the appointment of executors dative[^key-dc9a6c733d299c6838d79582459ca0ef]
+## 4. Presentation of petitions for the appointment of executors dative[^c-dc9a6c733d299c6838d79582459ca0ef]
 
 The presentation of petitions for appointment of executors dative may occur at any place in each sheriffdom where sheriff courts are held.
 
-## 5. Caveats[^key-cbf042f8db5799749d0f7083e4dc8eb0]
+## 5. Caveats[^c-cbf042f8db5799749d0f7083e4dc8eb0]
 
 (1) This paragraph applies where commissary business, including the presentation of petitions for appointment of executors dative, may be conducted at more than one place in a sheriffdom.
 
@@ -85,7 +85,7 @@ The presentation of petitions for appointment of executors dative may occur at a
 
 (4) In this paragraph, “commissary application” has the meaning given by rule 2(2)(b) of the Act of Sederunt (Sheriff Court Caveat Rules) 2006[^f00002].
 
-## 6. Transitional, savings and revocation provisions[^key-f1df9958cfd9d264602623816001b681]
+## 6. Transitional, savings and revocation provisions[^c-f1df9958cfd9d264602623816001b681]
 
 (1) Commissary business, including the presentation of petitions for appointment of executors dative, commenced but not disposed of by the relevant date specified in column 3 of Part 1 of Schedule 4 at a place mentioned in column 1 of Part 1 is to continue at the place mentioned in column 2 of Part 1 as if commenced there.
 
@@ -105,7 +105,7 @@ Edinburgh
 
 11th October 2013
 
-## SCHEDULE 1 — Places where commissary business may be conducted from 30th November 2013[^key-967511e04621b956c558a2ac7e6d4d3a]
+## SCHEDULE 1 — Places where commissary business may be conducted from 30th November 2013[^c-967511e04621b956c558a2ac7e6d4d3a]
 
 **No longer in force.**
 
@@ -113,7 +113,7 @@ Paragraph 3(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Places where commissary business may be conducted from 31st May 2014[^key-4e6e5ee1fc1d609ccc0444359452cfd0]
+## SCHEDULE 2 — Places where commissary business may be conducted from 31st May 2014[^c-4e6e5ee1fc1d609ccc0444359452cfd0]
 
 **No longer in force.**
 
@@ -121,7 +121,7 @@ Paragraph 3(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Places where commissary business may be conducted from 31st January 2015[^key-4cd43c1d35016fa9eb3d2056b4b84fa4]
+## SCHEDULE 3 — Places where commissary business may be conducted from 31st January 2015[^c-4cd43c1d35016fa9eb3d2056b4b84fa4]
 
 Paragraph 3(3)
 
@@ -144,7 +144,7 @@ Paragraph 3(3)
 
 Paragraph 6(1) and (2)
 
-### PART 1[^key-fcec2fb93a284a4cfe49c0b7f86293b9]
+### PART 1[^c-fcec2fb93a284a4cfe49c0b7f86293b9]
 
 <table>
 <thead>
@@ -163,9 +163,9 @@ Paragraph 6(1) and (2)
 </tbody>
 </table>
 
-[^key-06f0781a2605e9145c2c245d9f0cc17f]
+[^c-06f0781a2605e9145c2c245d9f0cc17f]
 
-### PART 2[^key-90a497dfa1d3750eb97cfe0ae3b41e0e]
+### PART 2[^c-90a497dfa1d3750eb97cfe0ae3b41e0e]
 
 <table>
 <thead>
@@ -178,7 +178,7 @@ Paragraph 6(1) and (2)
 </tbody>
 </table>
 
-## SCHEDULE 5 — Revocations[^key-ec6307ce1fd8ba563776b8d5d394269a]
+## SCHEDULE 5 — Revocations[^c-ec6307ce1fd8ba563776b8d5d394269a]
 
 Paragraph 6(3)
 
@@ -225,42 +225,42 @@ Paragraph 6(4) makes transitional provision in respect of commissary business c
 
 [^f00001]: Footnote: [1876 c.70](https://www.legislation.gov.uk/ukpga/1876/70). Section 54 was repealed, except in so far as it relates to commissary regulations, by the Sheriff Courts (Scotland) Act [1907 (c.51)](https://www.legislation.gov.uk/ukpga/1907/51), Schedule 2. Section 54 was amended by the Public Records (Scotland) Act [1937 (c.43)](https://www.legislation.gov.uk/ukpga/1937/43), Schedule 2 and the Sheriff Courts (Scotland) Act [1971 (c.58)](https://www.legislation.gov.uk/ukpga/1971/58), Schedule 1, paragraph 1.
 
-[^key-87b031e53e862f78b206c24470cdce55]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1) in force at 30.11.2013, see [para. 1](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1)
+[^c-87b031e53e862f78b206c24470cdce55]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1) in force at 30.11.2013, see [para. 1](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1)
 
-[^key-7d3acdfd4d07ce1eccd6aeda6f9990be]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2013/291/paragraph/2) in force at 30.11.2013, see [para. 1](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1)
+[^c-7d3acdfd4d07ce1eccd6aeda6f9990be]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2013/291/paragraph/2) in force at 30.11.2013, see [para. 1](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1)
 
-[^key-407a5bc1bb71c7490b2471cf2c25e84a]: Commencement: Para. 3(1) in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
+[^c-407a5bc1bb71c7490b2471cf2c25e84a]: Commencement: Para. 3(1) in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
 
-[^key-46db26570455f6f7cfe0b1a713664101]: Commencement: Para. 3(2) in force at 31.5.2014, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/3)
+[^c-46db26570455f6f7cfe0b1a713664101]: Commencement: Para. 3(2) in force at 31.5.2014, see [para. 1(3)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/3)
 
-[^key-c99395c2e55b57948e40d3a8e3302b56]: Commencement: Para. 3(3) in force at 31.1.2015, see [para. 1(4)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/4)
+[^c-c99395c2e55b57948e40d3a8e3302b56]: Commencement: Para. 3(3) in force at 31.1.2015, see [para. 1(4)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/4)
 
-[^key-0a52753f1685564cfae66a9da7781c03]: Textual amendment: Para. 3(1) ceases to have effect (31.5.2014) by virtue of [Act of Sederunt (Commissary Business) 2013 (S.S.I. 2013/291)](https://www.legislation.gov.uk/ssi/2013/291), [para. 1(3)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/3)
+[^c-0a52753f1685564cfae66a9da7781c03]: Textual amendment: Para. 3(1) ceases to have effect (31.5.2014) by virtue of [Act of Sederunt (Commissary Business) 2013 (S.S.I. 2013/291)](https://www.legislation.gov.uk/ssi/2013/291), [para. 1(3)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/3)
 
-[^key-c1a2acbb06a9ab3567fefb442bccaedc]: Textual amendment: Para. 3(2) ceases to have effect (31.1.2015) by virtue of [Act of Sederunt (Commissary Business) 2013 (S.S.I. 2013/291)](https://www.legislation.gov.uk/ssi/2013/291), [para. 1(4)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/4)
+[^c-c1a2acbb06a9ab3567fefb442bccaedc]: Textual amendment: Para. 3(2) ceases to have effect (31.1.2015) by virtue of [Act of Sederunt (Commissary Business) 2013 (S.S.I. 2013/291)](https://www.legislation.gov.uk/ssi/2013/291), [para. 1(4)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/4)
 
-[^key-dc9a6c733d299c6838d79582459ca0ef]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2013/291/paragraph/4) in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
+[^c-dc9a6c733d299c6838d79582459ca0ef]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2013/291/paragraph/4) in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
 
-[^key-cbf042f8db5799749d0f7083e4dc8eb0]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2013/291/paragraph/5) in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
+[^c-cbf042f8db5799749d0f7083e4dc8eb0]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2013/291/paragraph/5) in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
 
 [^f00002]: Footnote: [S.S.I. 2006/198](https://www.legislation.gov.uk/ssi/2006/198).
 
-[^key-f1df9958cfd9d264602623816001b681]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2013/291/paragraph/6) in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
+[^c-f1df9958cfd9d264602623816001b681]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2013/291/paragraph/6) in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
 
 [^f00003]: Footnote: [S.I. 1975/539](https://www.legislation.gov.uk/uksi/1975/539), as amended by [S.I. 1978/1509](https://www.legislation.gov.uk/uksi/1978/1509), [1979/1405](https://www.legislation.gov.uk/uksi/1979/1405), [1984/969](https://www.legislation.gov.uk/uksi/1984/969), [1986/267](https://www.legislation.gov.uk/uksi/1986/267) and [S.S.I. 2009/292](https://www.legislation.gov.uk/ssi/2009/292).
 
-[^key-967511e04621b956c558a2ac7e6d4d3a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2013/291/schedule/1) ceases to have effect (31.5.2014) by virtue of [Act of Sederunt (Commissary Business) 2013 (S.S.I. 2013/291)](https://www.legislation.gov.uk/ssi/2013/291), [para. 1(3)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/3)
+[^c-967511e04621b956c558a2ac7e6d4d3a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2013/291/schedule/1) ceases to have effect (31.5.2014) by virtue of [Act of Sederunt (Commissary Business) 2013 (S.S.I. 2013/291)](https://www.legislation.gov.uk/ssi/2013/291), [para. 1(3)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/3)
 
-[^key-4e6e5ee1fc1d609ccc0444359452cfd0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2013/291/schedule/2) ceases to have effect (31.1.2015) by virtue of [Act of Sederunt (Commissary Business) 2013 (S.S.I. 2013/291)](https://www.legislation.gov.uk/ssi/2013/291), [para. 1(4)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/4)
+[^c-4e6e5ee1fc1d609ccc0444359452cfd0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2013/291/schedule/2) ceases to have effect (31.1.2015) by virtue of [Act of Sederunt (Commissary Business) 2013 (S.S.I. 2013/291)](https://www.legislation.gov.uk/ssi/2013/291), [para. 1(4)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/4)
 
-[^key-4cd43c1d35016fa9eb3d2056b4b84fa4]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2013/291/schedule/3) in force at 31.1.2015, see [para. 1(4)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/4)
+[^c-4cd43c1d35016fa9eb3d2056b4b84fa4]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2013/291/schedule/3) in force at 31.1.2015, see [para. 1(4)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/4)
 
-[^key-fcec2fb93a284a4cfe49c0b7f86293b9]: Commencement: Sch. 4 Pt. 1 in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
+[^c-fcec2fb93a284a4cfe49c0b7f86293b9]: Commencement: Sch. 4 Pt. 1 in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
 
-[^key-06f0781a2605e9145c2c245d9f0cc17f]: Textual amendment: Word in sch. 4 Pt. 1 substituted (1.12.2014) by [Act of Sederunt (Commissary Business) (Amendment) 2014 (S.S.I. 2014/265)](https://www.legislation.gov.uk/ssi/2014/265), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/265/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2014/265/paragraph/2/2)
+[^c-06f0781a2605e9145c2c245d9f0cc17f]: Textual amendment: Word in sch. 4 Pt. 1 substituted (1.12.2014) by [Act of Sederunt (Commissary Business) (Amendment) 2014 (S.S.I. 2014/265)](https://www.legislation.gov.uk/ssi/2014/265), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/265/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2014/265/paragraph/2/2)
 
-[^key-90a497dfa1d3750eb97cfe0ae3b41e0e]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ssi/2013/291/schedule/4/part/2) in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
+[^c-90a497dfa1d3750eb97cfe0ae3b41e0e]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ssi/2013/291/schedule/4/part/2) in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
 
-[^key-ec6307ce1fd8ba563776b8d5d394269a]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2013/291/schedule/5) in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
+[^c-ec6307ce1fd8ba563776b8d5d394269a]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2013/291/schedule/5) in force at 30.11.2013, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2013/291/paragraph/1/2)
 
 [^f00004]: Footnote: [S.S.I. 2013/152](https://www.legislation.gov.uk/ssi/2013/152).

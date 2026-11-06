@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Option to commute whole of member’s accrued pensions (serious ill-health)[^key-bb0982d7083b57bca25711f4366e2fce]
+## 85. Option to commute whole of member’s accrued pensions (serious ill-health)[^c-bb0982d7083b57bca25711f4366e2fce]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ where—
 
 ## Annotations
 
-[^key-bb0982d7083b57bca25711f4366e2fce]: Commencement: [Reg. 85](https://www.legislation.gov.uk/nisr/2014/290/regulation/85) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-bb0982d7083b57bca25711f4366e2fce]: Commencement: [Reg. 85](https://www.legislation.gov.uk/nisr/2014/290/regulation/85) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

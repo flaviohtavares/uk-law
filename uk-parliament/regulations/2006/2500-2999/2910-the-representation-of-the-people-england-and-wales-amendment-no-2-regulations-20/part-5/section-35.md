@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. The personal identifiers record[^key-9033d86e2fa1981f9a7178c5ee63ae5a]
+## 35. The personal identifiers record[^c-9033d86e2fa1981f9a7178c5ee63ae5a]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ After regulation 61A[^f00054] insert—
 
 ## Annotations
 
-[^key-9033d86e2fa1981f9a7178c5ee63ae5a]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2006/2910/regulation/35) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-9033d86e2fa1981f9a7178c5ee63ae5a]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2006/2910/regulation/35) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00054]: Footnote: Regulation 61A is inserted by regulation 56 of these Regulations.
 

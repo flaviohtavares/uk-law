@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^c10714591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-feb774e96a0f1d0620ab847cfa7139bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-feb774e96a0f1d0620ab847cfa7139bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where any provision of this Act, other than a provision contained in Schedule 11, refers to the commencement of this Act, it shall be construed as referring to the day appointed under this section for the coming into operation of that provision.
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c10714591]: Textual amendment: S. 140(2) repealed by [Restrictive Trade Practices Act 1976 (c. 34)](https://www.legislation.gov.uk/ukpga/1976/34), [Sch. 6](https://www.legislation.gov.uk/ukpga/1976/34/schedule/6)
 
-[^key-feb774e96a0f1d0620ab847cfa7139bb]: Textual amendment: S. 140(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-feb774e96a0f1d0620ab847cfa7139bb]: Textual amendment: S. 140(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2

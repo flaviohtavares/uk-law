@@ -44,11 +44,11 @@ The Lord Chief Justice agrees to the making of these Regulations in accordance w
 
 A draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament in accordance with section 144(4) and (5)(e) of the Constitutional Reform Act 2005[^f00002].
 
-## 1. Citation and commencement[^key-73454bc0120c4ad8d2eb6298d6badc62]
+## 1. Citation and commencement[^c-73454bc0120c4ad8d2eb6298d6badc62]
 
 These Regulations may be cited as the Judicial Appointments Commission Regulations 2013 and shall come into force on the day after the day on which they are made.
 
-## 2. Interpretation[^key-5d73137c859f474b736d88b8bab632e7]
+## 2. Interpretation[^c-5d73137c859f474b736d88b8bab632e7]
 
 In these Regulations—
 
@@ -59,17 +59,17 @@ In these Regulations—
 - “non-legally qualified person” has the same meaning as in section 27(11) of the 2005 Act[^f00003];
 - “senior tribunal office-holder member” has the meaning given by regulation 5.
 
-## 3. Number of Commissioners[^key-62093d0bf86b1c8ab52057a35bc1a3fe]
+## 3. Number of Commissioners[^c-62093d0bf86b1c8ab52057a35bc1a3fe]
 
-There are 16[^key-72af7be2332323189f2b652c50effc18] Commissioners including the chairman.
+There are 16[^c-72af7be2332323189f2b652c50effc18] Commissioners including the chairman.
 
-## 4. Composition of the Commission[^key-664591a376737f01c7f9d59166394eff]
+## 4. Composition of the Commission[^c-664591a376737f01c7f9d59166394eff]
 
-(1) Of the 15[^key-7c40e191ef2e7fc038758a06f3ea1a97] other Commissioners—
+(1) Of the 15[^c-7c40e191ef2e7fc038758a06f3ea1a97] other Commissioners—
 
 - (a) 7 must be holders of judicial office,
 - (b) 5 must be lay members, and
-- (c) 3[^key-d27c8c56590ea926a10c02033ea5050a] must be persons practising or employed as lawyers.
+- (c) 3[^c-d27c8c56590ea926a10c02033ea5050a] must be persons practising or employed as lawyers.
 
 (2) Of the 7 Commissioners who are appointed as holders of judicial office—
 
@@ -88,10 +88,10 @@ There are 16[^key-72af7be2332323189f2b652c50effc18] Commissioners including the 
 - (c) Regional Employment Judge appointed under regulation 6(1) of the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^f00007];
 - (d) Employment Judge (England and Wales) appointed under regulation 8(1) and (3)(a) of those Regulations[^f00008].
 
-(4) Of the 3[^key-d4851ce2471933fc215fb2c57d1182b5] Commissioners appointed who are persons practising or employed as lawyers—
+(4) Of the 3[^c-d4851ce2471933fc215fb2c57d1182b5] Commissioners appointed who are persons practising or employed as lawyers—
 
 - (a) each person must hold a qualification listed in paragraph (5),
-- (b)[^key-6e13121a2ed5758efea1c64adde38bc7] but they must each hold a different qualification.
+- (b)[^c-6e13121a2ed5758efea1c64adde38bc7] but they must each hold a different qualification.
 
 (5) The qualifications referred to in paragraph (4) are—
 
@@ -99,20 +99,20 @@ There are 16[^key-72af7be2332323189f2b652c50effc18] Commissioners including the 
 - (b) solicitor of the Senior Courts of England and Wales;
 - (c) fellow of the Chartered Institute of Legal Executives.
 
-## 5. Senior tribunal office-holder member[^key-43931af7462293f3ebf5b6b17aa6082d]
+## 5. Senior tribunal office-holder member[^c-43931af7462293f3ebf5b6b17aa6082d]
 
 A senior tribunal office-holder member is a person who holds one of the following offices—
 
 - (a) judge of the Upper Tribunal appointed under paragraph 1(1) of Schedule 3 to the Tribunals, Courts and Enforcement Act 2007[^f00009];
 - (b) transferred-in judge of the Upper Tribunal (see section 31(2) of that Act)[^f00010];
 - (c) Chamber President of a chamber of the First-tier Tribunal, or of a chamber of the Upper Tribunal, by appointment under section 7(7) of that Act (but not where appointed in accordance with paragraph 2(2) to (5) of Schedule 4 to that Act)[^f00011];
-- (ca)[^key-0cbdbaf15c9cccf9342b9ccf18b5c1f8] Deputy Chamber President of a chamber of the First-tier Tribunal, or of a chamber of the Upper Tribunal, by appointment under paragraph 5(1) of Schedule 4 to the Tribunals, Courts and Enforcement Act 2007, but not where appointed in accordance with paragraph 5(5) to (7) of Schedule 4 to that Act;
+- (ca)[^c-0cbdbaf15c9cccf9342b9ccf18b5c1f8] Deputy Chamber President of a chamber of the First-tier Tribunal, or of a chamber of the Upper Tribunal, by appointment under paragraph 5(1) of Schedule 4 to the Tribunals, Courts and Enforcement Act 2007, but not where appointed in accordance with paragraph 5(5) to (7) of Schedule 4 to that Act;
 - (cb) other member of the Upper Tribunal, who holds that position on a salaried basis, appointed under paragraph 2 of Schedule 3 to [that Act](https://www.legislation.gov.uk/ukpga/2007/15), or transferred-in (see section 31(2) of that Act);
 - (d) President of Employment Tribunals (England and Wales) appointed under regulation 4(1) of the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^f00012];
 - (e) President of Employment Tribunals (Scotland) appointed under regulation 4(2) of the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^f00013];
-- (f)[^key-9a56d87f458d7239adb497941b59c089] judge of the Employment Appeal Tribunal nominated under section 22(1)(a) of the Employment Tribunals Act 1996 who is a judge within section 22(2A)(c), (d), (i) or (j) of that Act.
+- (f)[^c-9a56d87f458d7239adb497941b59c089] judge of the Employment Appeal Tribunal nominated under section 22(1)(a) of the Employment Tribunals Act 1996 who is a judge within section 22(2A)(c), (d), (i) or (j) of that Act.
 
-## 6. Non-legally qualified judicial member[^key-d7476c4c4fe9c9c3d470702ffa71820b]
+## 6. Non-legally qualified judicial member[^c-d7476c4c4fe9c9c3d470702ffa71820b]
 
 (1) A non-legally qualified judicial member is a person who—
 
@@ -127,13 +127,13 @@ A senior tribunal office-holder member is a person who holds one of the followin
 - (d) member of the Employment Appeal Tribunal appointed under section 22(1)(c) of the Employment Tribunals Act 1996[^f00014];
 - (e) member of a panel appointed under regulation 8(1) and (3)(b) and (c) of the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^f00015].
 
-## 7. Holder of judicial office[^key-23266c4e999cdacdb78fae97f156a96a]
+## 7. Holder of judicial office[^c-23266c4e999cdacdb78fae97f156a96a]
 
 (1) Subject to paragraph (2), a holder of judicial office is a person who holds an office listed in regulation 4(2) and does not include a person who is appointed as a Commissioner as a person who is practising or employed as a lawyer.
 
 (2) For the purposes of sub-paragraph (5) of paragraph 20 (Committees of the Judicial Appointments Commission) of Schedule 12 to the 2005 Act[^f00016], a holder of judicial office is a person who holds an office listed in regulation 4(2)(a) to (f) of these Regulations.
 
-## 8. Lay member[^key-dbf70b4c609d9a1035ae9587b1e106b7]
+## 8. Lay member[^c-dbf70b4c609d9a1035ae9587b1e106b7]
 
 For the purposes of Part 1 of Schedule12 to the 2005 Act and sub-paragraph (5) of paragraph 20 (Committees of the Judicial Appointments Commission) of Schedule 12 to the 2005 Act, a lay member is a person who lives in England or Wales who has never—
 
@@ -141,7 +141,7 @@ For the purposes of Part 1 of Schedule12 to the 2005 Act and sub-paragraph (5) o
 - (b) been a member of a panel appointed under regulation 8(1) and (3)(b) and (c) of the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^f00017], or
 - (c) practised or been employed as a lawyer.
 
-## 9. Selection of Commissioners by a panel[^key-477a740eca979dd91f72c9e48c9248fe]
+## 9. Selection of Commissioners by a panel[^c-477a740eca979dd91f72c9e48c9248fe]
 
 (1) This regulation applies to the selection of a person as the chairman of the Commission and any other Commissioner except a Commissioner who is a Lord Justice of Appeal, a puisne judge of the High Court or a senior tribunal office-holder member.
 
@@ -152,7 +152,7 @@ For the purposes of Part 1 of Schedule12 to the 2005 Act and sub-paragraph (5) o
 
 (3) The Lord Chancellor may appoint different panels for the purposes of different requests.
 
-## 10. Selection of Commissioners by the Judges’ Council[^key-2f0652809c01e214c73e4ae2bbe67c30]
+## 10. Selection of Commissioners by the Judges’ Council[^c-2f0652809c01e214c73e4ae2bbe67c30]
 
 (1) This regulation applies to the selection of a person for appointment as a Commissioner who is a Lord Justice of Appeal or a puisne judge of the High Court.
 
@@ -166,7 +166,7 @@ For the purposes of Part 1 of Schedule12 to the 2005 Act and sub-paragraph (5) o
 
 (4) In this regulation the Judges’ Council means a body designated for the purposes of these Regulations by the Lord Chief Justice.
 
-## 11. Selection of Commissioners by the Tribunals’ Council[^key-811f7395428104d3f35342db59960040]
+## 11. Selection of Commissioners by the Tribunals’ Council[^c-811f7395428104d3f35342db59960040]
 
 (1) This regulation applies to the selection of a senior tribunal office-holder member as a Commissioner.
 
@@ -180,7 +180,7 @@ For the purposes of Part 1 of Schedule12 to the 2005 Act and sub-paragraph (5) o
 
 (4) In this regulation the Tribunal Judges’ Council means a body designated for the purposes of these Regulations by the Senior President of Tribunals.
 
-## 12. Requests[^key-06685f9368191ee4a4d82af637905cd5]
+## 12. Requests[^c-06685f9368191ee4a4d82af637905cd5]
 
 (1) This regulation applies to a request to select a person under regulation 9, 10 or 11.
 
@@ -188,7 +188,7 @@ For the purposes of Part 1 of Schedule12 to the 2005 Act and sub-paragraph (5) o
 
 (3) A request may specify the time within which a person is to be selected.
 
-## 13. Panels[^key-14206faf5492f1e63deb14159b832ecd]
+## 13. Panels[^c-14206faf5492f1e63deb14159b832ecd]
 
 (1) A panel appointed under regulation 9(2) must have four members (subject to paragraph (9)).
 
@@ -240,13 +240,13 @@ For the purposes of Part 1 of Schedule12 to the 2005 Act and sub-paragraph (5) o
 - (a) the Master of the Rolls,
 - (b) if that office is vacant, the President of the Queen’s Bench Division;
 - (c) if both those offices are vacant, the President of the Family Division;
-- (d) if all of those offices are vacant, the President of the Business and Property Division[^key-913c4861d4f6027ff6474a4a4fc521e9].
+- (d) if all of those offices are vacant, the President of the Business and Property Division[^c-913c4861d4f6027ff6474a4a4fc521e9].
 
-## 14. Remuneration[^key-7d3683cc9f10e1ae885364278f1e4914]
+## 14. Remuneration[^c-7d3683cc9f10e1ae885364278f1e4914]
 
 The Lord Chancellor may pay to a member of a panel appointed under regulation 9(2) such remuneration, fees or expenses as he or she may determine.
 
-## 15. Considerations by a selection panel[^key-9388430374d9e4203d507d6829fdf7e6]
+## 15. Considerations by a selection panel[^c-9388430374d9e4203d507d6829fdf7e6]
 
 (1) This regulation applies to selection by a panel appointed under regulation 9(2).
 
@@ -264,18 +264,18 @@ The Lord Chancellor may pay to a member of a panel appointed under regulation 9(
 
 (4) The panel must select persons for appointment as lay members (including the chairman) with a view to securing, so far as practicable, that the persons so appointed include at any time at least one who appears to the panel to have special knowledge of Wales.
 
-## 16. Vice-chairman[^key-337fc035eac3d21ee66a353e962a14ea]
+## 16. Vice-chairman[^c-337fc035eac3d21ee66a353e962a14ea]
 
 For the purposes of sub-paragraph (1) of paragraph 11 (Vice-chairman) of Schedule 12 to the 2005 Act[^f00018] seniority is by office held at the time (first Lord Justice of Appeal, then puisne judge, then the offices mentioned in regulation 5, then circuit judge, then the offices mentioned in regulation 4(2)(e), then the offices mentioned in regulation 4(3) and then the offices mentioned in regulation 6(2) but only where the office-holder has never practised or been employed as a lawyer).
 
-## 17. Term of office of Commissioners[^key-db5c95ed53331d85efcb042300377992]
+## 17. Term of office of Commissioners[^c-db5c95ed53331d85efcb042300377992]
 
 A person—
 
 - (a) may not be appointed as a Commissioner for more than 5 years at a time, and
 - (b) may not hold office as a Commissioner for periods (whether or not consecutive) totalling more than 10 years.
 
-## 18. Cessation of office[^key-1b992ea20ca0a580b9882440c39aa465]
+## 18. Cessation of office[^c-1b992ea20ca0a580b9882440c39aa465]
 
 (1) A Commissioner—
 
@@ -286,7 +286,7 @@ A person—
 
 (2) But if (before or after an event within paragraph (1)) the Lord Chancellor directs in a particular case that that paragraph is to be disregarded for a period specified in the direction, the person continues to be a Commissioner until the end of that period, subject to the terms of his or her appointment.
 
-## 19. Transitional provision[^key-28d6c13e162e1c7e5fb8b2459c6b9274]
+## 19. Transitional provision[^c-28d6c13e162e1c7e5fb8b2459c6b9274]
 
 (1) Each Commissioner (including the chairman) holding office as at the commencement of these Regulations is to continue to hold their office until they complete their term of office as a Commissioner to which they were appointed or where they cease to be a Commissioner for any other reason.
 
@@ -334,7 +334,7 @@ Lord Chief Justice
 
 3rd September 2013
 
-## SCHEDULE — Transitional provision[^key-bda986b241d0cea169bf736ed088e352]
+## SCHEDULE — Transitional provision[^c-bda986b241d0cea169bf736ed088e352]
 
 Regulation 19(8)
 
@@ -370,21 +370,21 @@ Regulation 19 provides for transitional provision. All Commissioners in office a
 
 [^f00002]: Footnote: [2005 c.4](https://www.legislation.gov.uk/ukpga/2005/4); section 144 was amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 13, paragraph 27.
 
-[^key-73454bc0120c4ad8d2eb6298d6badc62]: Commencement: Reg. 1 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-73454bc0120c4ad8d2eb6298d6badc62]: Commencement: Reg. 1 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
-[^key-5d73137c859f474b736d88b8bab632e7]: Commencement: Reg. 2 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-5d73137c859f474b736d88b8bab632e7]: Commencement: Reg. 2 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
 [^f00003]: Footnote: [2005 c.4](https://www.legislation.gov.uk/ukpga/2005/4); section 27 was amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 13, paragraph 4(2).
 
-[^key-62093d0bf86b1c8ab52057a35bc1a3fe]: Commencement: Reg. 3 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-62093d0bf86b1c8ab52057a35bc1a3fe]: Commencement: Reg. 3 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
-[^key-72af7be2332323189f2b652c50effc18]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2013/2191/regulation/3) substituted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/2)
+[^c-72af7be2332323189f2b652c50effc18]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2013/2191/regulation/3) substituted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/2)
 
-[^key-664591a376737f01c7f9d59166394eff]: Commencement: Reg. 4 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-664591a376737f01c7f9d59166394eff]: Commencement: Reg. 4 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
-[^key-7c40e191ef2e7fc038758a06f3ea1a97]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/4/1) substituted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/3/a)
+[^c-7c40e191ef2e7fc038758a06f3ea1a97]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/4/1) substituted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/3/a)
 
-[^key-d27c8c56590ea926a10c02033ea5050a]: Textual amendment: Word in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/4/1/c) substituted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/3/b)
+[^c-d27c8c56590ea926a10c02033ea5050a]: Textual amendment: Word in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/4/1/c) substituted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/3/b)
 
 [^f00004]: Footnote: [1981 c.54](https://www.legislation.gov.uk/ukpga/1981/54); section 89 was amended by the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 3, paragraph 3 and by Schedule 11, paragraph 26.
 
@@ -396,11 +396,11 @@ Regulation 19 provides for transitional provision. All Commissioners in office a
 
 [^f00008]: Footnote: [S.I. 2004/1861](https://www.legislation.gov.uk/uksi/2004/1861), amended by [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683) and [2008/3240](https://www.legislation.gov.uk/uksi/2008/3240).
 
-[^key-d4851ce2471933fc215fb2c57d1182b5]: Textual amendment: Word in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/4/4) substituted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/3/c)
+[^c-d4851ce2471933fc215fb2c57d1182b5]: Textual amendment: Word in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/4/4) substituted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/3/c)
 
-[^key-6e13121a2ed5758efea1c64adde38bc7]: Textual amendment: [Reg. 4(b)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/4/b) substituted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(3)(d)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/3/d)
+[^c-6e13121a2ed5758efea1c64adde38bc7]: Textual amendment: [Reg. 4(b)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/4/b) substituted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(3)(d)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/3/d)
 
-[^key-43931af7462293f3ebf5b6b17aa6082d]: Commencement: Reg. 5 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-43931af7462293f3ebf5b6b17aa6082d]: Commencement: Reg. 5 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
 [^f00009]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
@@ -408,58 +408,58 @@ Regulation 19 provides for transitional provision. All Commissioners in office a
 
 [^f00011]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-0cbdbaf15c9cccf9342b9ccf18b5c1f8]: Textual amendment: [Reg. 5(ca)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/5/ca)[(cb)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/5/cb) inserted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/4/a)
+[^c-0cbdbaf15c9cccf9342b9ccf18b5c1f8]: Textual amendment: [Reg. 5(ca)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/5/ca)[(cb)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/5/cb) inserted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/4/a)
 
 [^f00012]: Footnote: [S.I. 2004/1861](https://www.legislation.gov.uk/uksi/2004/1861), amended by [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
 
 [^f00013]: Footnote: [S.I. 2004/1861](https://www.legislation.gov.uk/uksi/2004/1861), amended by [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
 
-[^key-9a56d87f458d7239adb497941b59c089]: Textual amendment: [Reg. 5(f)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/5/f) inserted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(4)(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/4/b)
+[^c-9a56d87f458d7239adb497941b59c089]: Textual amendment: [Reg. 5(f)](https://www.legislation.gov.uk/uksi/2013/2191/regulation/5/f) inserted (17.12.2025) by [The Judicial Appointments Commission (Amendment) Regulations 2025 (S.I. 2025/1335)](https://www.legislation.gov.uk/uksi/2025/1335), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/1/b), [2(4)(b)](https://www.legislation.gov.uk/uksi/2025/1335/regulation/2/4/b)
 
-[^key-d7476c4c4fe9c9c3d470702ffa71820b]: Commencement: Reg. 6 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-d7476c4c4fe9c9c3d470702ffa71820b]: Commencement: Reg. 6 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
 [^f00014]: Footnote: [1996 c.17](https://www.legislation.gov.uk/ukpga/1996/17); section 22 was amended by the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 4, paragraphs 245 and 246.
 
 [^f00015]: Footnote: [S.I. 2004/1861](https://www.legislation.gov.uk/uksi/2004/1861), amended by [S.I. 2008/2771](https://www.legislation.gov.uk/uksi/2008/2771) and [2008/3240](https://www.legislation.gov.uk/uksi/2008/3240).
 
-[^key-23266c4e999cdacdb78fae97f156a96a]: Commencement: Reg. 7 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-23266c4e999cdacdb78fae97f156a96a]: Commencement: Reg. 7 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
 [^f00016]: Footnote: [2005 c.4](https://www.legislation.gov.uk/ukpga/2005/4); paragraph 20 of Schedule 12 was amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 13, paragraph 25.
 
-[^key-dbf70b4c609d9a1035ae9587b1e106b7]: Commencement: Reg. 8 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-dbf70b4c609d9a1035ae9587b1e106b7]: Commencement: Reg. 8 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
 [^f00017]: Footnote: [S.I. 2004/1861](https://www.legislation.gov.uk/uksi/2004/1861), amended by [S.I. 2008/2771](https://www.legislation.gov.uk/uksi/2008/2771) and [2008/3240](https://www.legislation.gov.uk/uksi/2008/3240).
 
-[^key-477a740eca979dd91f72c9e48c9248fe]: Commencement: Reg. 9 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-477a740eca979dd91f72c9e48c9248fe]: Commencement: Reg. 9 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
-[^key-2f0652809c01e214c73e4ae2bbe67c30]: Commencement: Reg. 10 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-2f0652809c01e214c73e4ae2bbe67c30]: Commencement: Reg. 10 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
-[^key-811f7395428104d3f35342db59960040]: Commencement: Reg. 11 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-811f7395428104d3f35342db59960040]: Commencement: Reg. 11 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
-[^key-06685f9368191ee4a4d82af637905cd5]: Commencement: Reg. 12 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-06685f9368191ee4a4d82af637905cd5]: Commencement: Reg. 12 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
-[^key-14206faf5492f1e63deb14159b832ecd]: Commencement: Reg. 13 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-14206faf5492f1e63deb14159b832ecd]: Commencement: Reg. 13 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
-[^key-913c4861d4f6027ff6474a4a4fc521e9]: Textual amendment: Words in reg. 13(15)(d) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/13)
+[^c-913c4861d4f6027ff6474a4a4fc521e9]: Textual amendment: Words in reg. 13(15)(d) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/13)
 
-[^key-7d3683cc9f10e1ae885364278f1e4914]: Commencement: Reg. 14 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-7d3683cc9f10e1ae885364278f1e4914]: Commencement: Reg. 14 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
-[^key-9388430374d9e4203d507d6829fdf7e6]: Commencement: Reg. 15 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-9388430374d9e4203d507d6829fdf7e6]: Commencement: Reg. 15 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
-[^key-337fc035eac3d21ee66a353e962a14ea]: Commencement: Reg. 16 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-337fc035eac3d21ee66a353e962a14ea]: Commencement: Reg. 16 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
 [^f00018]: Footnote: [2005 c.4](https://www.legislation.gov.uk/ukpga/2005/4); paragraph 11 of Schedule 12 was amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 13, paragraph 21.
 
-[^key-db5c95ed53331d85efcb042300377992]: Commencement: Reg. 17 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-db5c95ed53331d85efcb042300377992]: Commencement: Reg. 17 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
-[^key-1b992ea20ca0a580b9882440c39aa465]: Commencement: Reg. 18 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-1b992ea20ca0a580b9882440c39aa465]: Commencement: Reg. 18 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
-[^key-28d6c13e162e1c7e5fb8b2459c6b9274]: Commencement: Reg. 19 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-28d6c13e162e1c7e5fb8b2459c6b9274]: Commencement: Reg. 19 in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
 [^f00019]: Footnote: [2013 c.22](https://www.legislation.gov.uk/ukpga/2013/22).
 
 [^f00020]: Footnote: [2013 c.22](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-bda986b241d0cea169bf736ed088e352]: Commencement: Sch. in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
+[^c-bda986b241d0cea169bf736ed088e352]: Commencement: Sch. in force at 4.9.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/2191/regulation/1)
 
 [^f00021]: Footnote: [1981 c.54](https://www.legislation.gov.uk/ukpga/1981/54); section 89 was amended by the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 3, paragraph 3 and by Schedule 11, paragraph 26.

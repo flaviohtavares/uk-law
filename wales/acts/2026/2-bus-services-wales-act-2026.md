@@ -44,7 +44,7 @@ An Act of Senedd Cymru to make provision in connection with the regulation and p
 
 ### Key concepts
 
-#### 1. Meaning of “local bus service”[^key-08ea8241adcacd077d43c56a4e5c184a]
+#### 1. Meaning of “local bus service”[^c-08ea8241adcacd077d43c56a4e5c184a]
 
 (1) For the purposes of this Act, a local bus service is a service for the carriage of passengers by road at separate fares, using one or more public service vehicles, that—
 
@@ -75,14 +75,14 @@ An Act of Senedd Cymru to make provision in connection with the regulation and p
 
 (7) Subsection (5)(b) and (c) of section 1 of the 1981 Act (meaning of “**fares**”) applies for the purposes of this section.
 
-#### 2. Meaning of “embarkation point” and “disembarkation point”[^key-b5934d861ed19f519878264ba482023f]
+#### 2. Meaning of “embarkation point” and “disembarkation point”[^c-b5934d861ed19f519878264ba482023f]
 
 In this Act—
 
 - (a) references to an “**embarkation point**”, in relation to a service, are to any point on its route at which embarkation onto the service is permitted (whether or not passengers are also permitted to disembark from the service at that point);
 - (b) references to a “**disembarkation point**”, in relation to a service, are to any point on its route at which disembarkation from the service is permitted, otherwise than in the case of an emergency (whether or not passengers are also permitted to embark on the service at that point).
 
-#### 3. Meaning of “flexible local bus service” and “standard local bus service”[^key-39aeb9f51fa783c86336030a552b53ec]
+#### 3. Meaning of “flexible local bus service” and “standard local bus service”[^c-39aeb9f51fa783c86336030a552b53ec]
 
 In this Act—
 
@@ -91,7 +91,7 @@ In this Act—
 
 ### Objectives
 
-#### 4. Welsh Ministers’ duty to have regard to objectives[^key-2d258b221eab6c7a236dd8a3548da6ea]
+#### 4. Welsh Ministers’ duty to have regard to objectives[^c-2d258b221eab6c7a236dd8a3548da6ea]
 
 (1) In exercising any function under this Act, the Welsh Ministers must have regard to the following objectives.
 
@@ -122,15 +122,15 @@ In this Act—
 
 ### Core duties of the Welsh Ministers
 
-#### 5. Local bus services: core duties[^key-4871c7b3fa7b8012ed58082f226c4aeb]
+#### 5. Local bus services: core duties[^c-4871c7b3fa7b8012ed58082f226c4aeb]
 
 (1) The Welsh Ministers must—
 
-- (a)[^key-bf6b09293b380cebb53a6f62a02b46e1] determine the local bus services that they consider are required for the purpose of securing safe, integrated, sustainable, efficient and economic transport in Wales,
-- (b)[^key-bf6b09293b380cebb53a6f62a02b46e1] publish a plan (to be known as the “**Welsh Bus Network Plan**”) setting out the key particulars of those local bus services, and
+- (a)[^c-bf6b09293b380cebb53a6f62a02b46e1] determine the local bus services that they consider are required for the purpose of securing safe, integrated, sustainable, efficient and economic transport in Wales,
+- (b)[^c-bf6b09293b380cebb53a6f62a02b46e1] publish a plan (to be known as the “**Welsh Bus Network Plan**”) setting out the key particulars of those local bus services, and
 - (c) so far as reasonably practicable, secure the provision of those local bus services.
 
-(2)[^key-bf6b09293b380cebb53a6f62a02b46e1] For the purposes of subsection (1)(b), the key particulars of a service are—
+(2)[^c-bf6b09293b380cebb53a6f62a02b46e1] For the purposes of subsection (1)(b), the key particulars of a service are—
 
 - (a) in the case of a standard local bus service, the route and principal embarkation and disembarkation points that the Welsh Ministers consider are required for the purposes of the provision of that service;
 - (b) in the case of a flexible local bus service—
@@ -138,7 +138,7 @@ In this Act—
   - (ii) any fixed sections of route that the Welsh Ministers consider to be required for the purposes of the provision of that service;
   - (iii) any fixed embarkation or disembarkation points that the Welsh Ministers consider to be required for the purposes of the provision of that service.
 
-(3)[^key-bf6b09293b380cebb53a6f62a02b46e1] For further provision relating to the Welsh Bus Network Plan, see sections 6 to 8.
+(3)[^c-bf6b09293b380cebb53a6f62a02b46e1] For further provision relating to the Welsh Bus Network Plan, see sections 6 to 8.
 
 (4) For an exception to the duty in subsection (1)(c) in the case of cross-border services, see section 20 (cross-border services and the duty to secure the provision of services).
 
@@ -149,13 +149,13 @@ In this Act—
 - (c) providing a local bus service under section 18;
 - (d) relying on the provision of a service as described in section 19.
 
-(6)[^key-4871c7b3fa7b8012ed58082f226c4aeb] The Welsh Ministers must, before the end of the period of 12 months beginning on the day after the day on which this Act receives Royal Assent, lay before Senedd Cymru a statement on preparations for the coming into force of section 5(1)(c).
+(6)[^c-4871c7b3fa7b8012ed58082f226c4aeb] The Welsh Ministers must, before the end of the period of 12 months beginning on the day after the day on which this Act receives Royal Assent, lay before Senedd Cymru a statement on preparations for the coming into force of section 5(1)(c).
 
-(7)[^key-4871c7b3fa7b8012ed58082f226c4aeb] The statement must, in particular, address preparations in relation to organisational capacity.
+(7)[^c-4871c7b3fa7b8012ed58082f226c4aeb] The statement must, in particular, address preparations in relation to organisational capacity.
 
 ### Welsh Bus Network Plan
 
-#### 6. Preparation of Welsh Bus Network Plan[^key-2fb77df114af9e0483037aeb4b29e485][^key-d7db4f1c37439db332500b0b8995fd12]
+#### 6. Preparation of Welsh Bus Network Plan[^c-2fb77df114af9e0483037aeb4b29e485][^c-d7db4f1c37439db332500b0b8995fd12]
 
 (1) Before publishing the Welsh Bus Network Plan under section 5(1)(b), the Welsh Ministers must prepare a draft of the Plan.
 
@@ -187,7 +187,7 @@ In this Act—
 
 (9) The requirement imposed by subsection (4) to consult on a draft of the Welsh Bus Network Plan may be satisfied by consultation carried out before the coming into force of this section.
 
-#### 7. Review and revision of Welsh Bus Network Plan[^key-c411e3781d301c993aa31c835bef2d51][^key-362fdd59911bbdfcf3ffa425b68f0dba]
+#### 7. Review and revision of Welsh Bus Network Plan[^c-c411e3781d301c993aa31c835bef2d51][^c-362fdd59911bbdfcf3ffa425b68f0dba]
 
 (1) The Welsh Ministers must keep the Welsh Bus Network Plan under review.
 
@@ -213,7 +213,7 @@ In this Act—
 
 (7) Section 8 makes further provision about revisions to the Welsh Bus Network Plan.
 
-#### 8. Further provision about revisions to the Welsh Bus Network Plan[^key-5beca86f94209691b07761c5c7c6d3f7][^key-b9619583ef68b9c3e91a40f1ff0e8883]
+#### 8. Further provision about revisions to the Welsh Bus Network Plan[^c-5beca86f94209691b07761c5c7c6d3f7][^c-b9619583ef68b9c3e91a40f1ff0e8883]
 
 (1) This section applies in relation to any revision to the Welsh Bus Network Plan that the Welsh Ministers propose to make (a “proposed revision”), unless the Welsh Ministers consider—
 
@@ -240,7 +240,7 @@ In this Act—
 
 (7) In this section, references to “**affected local bus services**”, in relation to consultation on a proposed revision, are to local bus services that the Welsh Ministers consider would be affected by the proposed revision.
 
-#### 9. Revision of Welsh Bus Network Plan: local authority duties[^key-31977fd1e1aefb4b3199c04d861f824b][^key-12236c2245a9337ff1bf8749730143c6]
+#### 9. Revision of Welsh Bus Network Plan: local authority duties[^c-31977fd1e1aefb4b3199c04d861f824b][^c-12236c2245a9337ff1bf8749730143c6]
 
 (1) This section applies where the views of a local authority are sought under section 8(3).
 
@@ -248,7 +248,7 @@ In this Act—
 
 ### Local bus service contracts
 
-#### 10. Local bus service contracts[^key-7db81c65a3c8be85bb3b0045776af51a]
+#### 10. Local bus service contracts[^c-7db81c65a3c8be85bb3b0045776af51a]
 
 **Not yet in force.**
 
@@ -274,7 +274,7 @@ In this Act—
 - (a) a licence to which a condition is attached under section 26(1A) of the 1985 Act (power of traffic commissioner to attach conditions to licences) prohibiting the holder from using vehicles under the licence to provide local bus services of all descriptions, or of a description specified in the condition;
 - (b) a licence that has been suspended under section 17(2) of the 1981 Act or section 28(2) of the 1985 Act.
 
-#### 11. Power to make supplementary provision about local bus service contracts[^key-d9bc11309db95c53c5f1c5671e9ce0a8]
+#### 11. Power to make supplementary provision about local bus service contracts[^c-d9bc11309db95c53c5f1c5671e9ce0a8]
 
 (1) Regulations may make provision about terms that must be included in a local bus service contract.
 
@@ -305,7 +305,7 @@ In this Act—
 
 ### Local bus service permits
 
-#### 12. Local bus service permits[^key-6e52d2a262f301fe84d8265219e5933a]
+#### 12. Local bus service permits[^c-6e52d2a262f301fe84d8265219e5933a]
 
 **Not yet in force.**
 
@@ -330,7 +330,7 @@ In this Act—
 
 (6) The Welsh Ministers may grant a permit to which conditions are attached (for further provision about conditions see section 14).
 
-#### 13. Period for which local bus service permit has effect[^key-c66cb395814d2978fba4ba3f20f2ad9c]
+#### 13. Period for which local bus service permit has effect[^c-c66cb395814d2978fba4ba3f20f2ad9c]
 
 **Not yet in force.**
 
@@ -343,16 +343,16 @@ In this Act—
 
 (3) A local bus service permit that has been suspended under section 16 has no effect during any period for which the suspension has effect.
 
-#### 14. Conditions attached to local bus service permits[^key-1b17c63c7010b89e17f1d9bed57e117c]
+#### 14. Conditions attached to local bus service permits[^c-1b17c63c7010b89e17f1d9bed57e117c]
 
 (1) In the case of a local bus service permit granted to a person within section 12(4)(a) in respect of a service that is a community bus service, the Welsh Ministers must attach a condition to the permit requiring that—
 
 - (a) the service in question is provided as a community bus service, and
 - (b) each vehicle used in providing the service is so used under and in accordance with the terms of‍ a community bus permit.
 
-(2)[^key-1b17c63c7010b89e17f1d9bed57e117c] Regulations may make provision about further conditions that must be attached to a local bus service permit.
+(2)[^c-1b17c63c7010b89e17f1d9bed57e117c] Regulations may make provision about further conditions that must be attached to a local bus service permit.
 
-(3)[^key-1b17c63c7010b89e17f1d9bed57e117c] That provision may relate to any of the following matters (among others)—
+(3)[^c-1b17c63c7010b89e17f1d9bed57e117c] That provision may relate to any of the following matters (among others)—
 
 - (a) punctuality, reliability and safety;
 - (b) frequency and timing;
@@ -388,11 +388,11 @@ In this Act—
 
 (8) The date specified in a notice given under subsection (4) or (5) may be either the date on which the notice is given, or a subsequent date.
 
-#### 15. Applications for local bus service permits[^key-85a394e819d247c04ee73fc6ce9e2ed0]
+#### 15. Applications for local bus service permits[^c-85a394e819d247c04ee73fc6ce9e2ed0]
 
-(1)[^key-85a394e819d247c04ee73fc6ce9e2ed0] Regulations may make provision about applications for local bus service permits.
+(1)[^c-85a394e819d247c04ee73fc6ce9e2ed0] Regulations may make provision about applications for local bus service permits.
 
-(2)[^key-85a394e819d247c04ee73fc6ce9e2ed0] Regulations under this section may, among other things, make provision about—
+(2)[^c-85a394e819d247c04ee73fc6ce9e2ed0] Regulations under this section may, among other things, make provision about—
 
 - (a) the form and content of an application;
 - (b) when and how an application is to be made;
@@ -400,7 +400,7 @@ In this Act—
 
 (3) If the Welsh Ministers refuse an application for a local bus service permit they must give notice of their reasons to the applicant.
 
-#### 16. Revocation and suspension of local bus service permits[^key-f450b492851f79336a9f3c97531328a5]
+#### 16. Revocation and suspension of local bus service permits[^c-f450b492851f79336a9f3c97531328a5]
 
 **Not yet in force.**
 
@@ -433,7 +433,7 @@ In this Act—
 - (a) may modify subsection (3);
 - (b) may make provision about when the revocation or suspension of a local bus service permit takes effect.
 
-#### 17. Local bus service permits: appeals[^key-eb87208842a1bd59683f1b27e3bce483]
+#### 17. Local bus service permits: appeals[^c-eb87208842a1bd59683f1b27e3bce483]
 
 **Not yet in force.**
 
@@ -463,7 +463,7 @@ In this Act—
 
 **Not yet in force.**
 
-#### 18. Provision of local bus services by the Welsh Ministers[^key-f5ffbea934e39230f0336520418132ed]
+#### 18. Provision of local bus services by the Welsh Ministers[^c-f5ffbea934e39230f0336520418132ed]
 
 (1) The Welsh Ministers may, for the purposes of fulfilling their duty under section 5(1)(c) in respect of a local bus service, provide a local bus service if they are satisfied that doing so would be a more effective way of fulfilling that duty than entering into a local bus service contract under section 10 in respect of the service.
 
@@ -473,7 +473,7 @@ In this Act—
 
 **Not yet in force.**
 
-#### 19. Reliance on community bus services and certain other services for the purposes of the section 5(1)(c) duty[^key-188f79cffb650fd8f797868e4b376708]
+#### 19. Reliance on community bus services and certain other services for the purposes of the section 5(1)(c) duty[^c-188f79cffb650fd8f797868e4b376708]
 
 (1) The Welsh Ministers may, for the purposes of fulfilling their duty under section 5(1)(c) in respect of a local bus service, rely on the provision by any person of a service within subsection (2) (without, in the case of a service in respect of which the powers in section 10 or 12 are available, entering into a local bus service contract or granting a local bus service permit in respect of the service).
 
@@ -488,7 +488,7 @@ In this Act—
 
 **Not yet in force.**
 
-#### 20. Cross-border services and the duty to secure the provision of services[^key-86922ba173bedefc711bb01e26c65391]
+#### 20. Cross-border services and the duty to secure the provision of services[^c-86922ba173bedefc711bb01e26c65391]
 
 (1) For the purposes of this section—
 
@@ -512,7 +512,7 @@ In this Act—
 
 ### Reporting requirements
 
-#### 21. Report on progress towards section 4 objectives[^key-320c5fa98ad7d3beee89e57ad46a9e1b]
+#### 21. Report on progress towards section 4 objectives[^c-320c5fa98ad7d3beee89e57ad46a9e1b]
 
 (1) The Welsh Ministers must prepare a report under this section, in relation to each reporting period, setting out the Welsh Ministers’ assessment of the way in which, and the extent to which, the exercise by the Welsh Ministers of functions under this Act during the reporting period has contributed to achieving the objectives in section 4.
 
@@ -532,7 +532,7 @@ In this Act—
 
 **Not yet in force.**
 
-#### 22. Notification to be given to traffic commissioner of certain matters relating to local bus service contracts and permits[^key-93c168745dfce3091014625dde8e7a33]
+#### 22. Notification to be given to traffic commissioner of certain matters relating to local bus service contracts and permits[^c-93c168745dfce3091014625dde8e7a33]
 
 The Welsh Ministers must—
 
@@ -545,7 +545,7 @@ The Welsh Ministers must—
 
 **Not yet in force.**
 
-### 23. Restriction on providing local bus services[^key-8684f2f51c6d22eb156a74ae7497a4f5]
+### 23. Restriction on providing local bus services[^c-8684f2f51c6d22eb156a74ae7497a4f5]
 
 (1) A local bus service must not be provided in Wales unless—
 
@@ -560,11 +560,11 @@ The Welsh Ministers must—
 
 (3) Regulations may amend this section for the purposes of providing that subsection (1) applies or does not apply to a specified description of local bus service, or does or does not apply to a local bus service that is provided in a specified manner.
 
-### 24. Duty on Welsh Ministers to inform traffic commissioner of any breach of the restriction[^key-e70ba95aa7c73d556ee73ac1ab5bff3c]
+### 24. Duty on Welsh Ministers to inform traffic commissioner of any breach of the restriction[^c-e70ba95aa7c73d556ee73ac1ab5bff3c]
 
 If the Welsh Ministers consider that a person is operating or has operated a local bus service in contravention of section 23 they must inform a traffic commissioner.
 
-### 25. Enforcement of the restriction[^key-56ff38572fc567013c0da0e73032a911]
+### 25. Enforcement of the restriction[^c-56ff38572fc567013c0da0e73032a911]
 
 (1) If a traffic commissioner is satisfied that—
 
@@ -613,7 +613,7 @@ the traffic commissioner may make one or more orders under subsection (2).
 - (a) in the case of an order made under subsection (2)(a), the time at which that order is made;
 - (b) in the case of an order made under subsection (3) in respect of failure to comply with an order under subsection (2), the time at which that order under subsection (2) was made.
 
-### 26. Enforcement of restriction: appeals[^key-893e92c6a86232e7f39fb1789ab383e1]
+### 26. Enforcement of restriction: appeals[^c-893e92c6a86232e7f39fb1789ab383e1]
 
 (1) A person with respect to whom an order has been made under subsection (2) or (3) of section 25 may appeal to the Upper Tribunal against the making of the order.
 
@@ -627,7 +627,7 @@ the traffic commissioner may make one or more orders under subsection (2).
 
 ### Provision of information to the Welsh Ministers for the purposes of exercising certain functions
 
-#### 27. Provision of information to the Welsh Ministers by current and former operators for the purposes of functions under Part 2 or 3[^key-e4282827c323703cd9b94fb14238a92d]
+#### 27. Provision of information to the Welsh Ministers by current and former operators for the purposes of functions under Part 2 or 3[^c-e4282827c323703cd9b94fb14238a92d]
 
 (1) The Welsh Ministers may give notice under this section to—
 
@@ -645,9 +645,9 @@ requiring the person to provide the Welsh Ministers with information specified i
 (3) Information may not be specified in the notice unless—
 
 - (a) the Welsh Ministers consider that the information is needed for the purpose of the exercise of a relevant function, and
-- (b)[^key-e4282827c323703cd9b94fb14238a92d] the information is of a kind that is specified in regulations under this section.
+- (b)[^c-e4282827c323703cd9b94fb14238a92d] the information is of a kind that is specified in regulations under this section.
 
-(4)[^key-e4282827c323703cd9b94fb14238a92d] Regulations under this section may specify information about (among other things)—
+(4)[^c-e4282827c323703cd9b94fb14238a92d] Regulations under this section may specify information about (among other things)—
 
 - (a) timetables and frequencies of service, and punctuality of services;
 - (b) routes and areas of operation;
@@ -664,7 +664,7 @@ requiring the person to provide the Welsh Ministers with information specified i
 - (m) workforce composition;
 - (n) forecasts relating to any of the above matters.
 
-(5)[^key-e4282827c323703cd9b94fb14238a92d] The regulations—
+(5)[^c-e4282827c323703cd9b94fb14238a92d] The regulations—
 
 - (a) must make provision about appeals;
 - (b) may make provision about the disclosure of information (including, among other things, about the use of information by persons to whom it is disclosed).
@@ -676,7 +676,7 @@ requiring the person to provide the Welsh Ministers with information specified i
 
 (7) In this Part, “active travel route” and “related facilities” have the meaning given in section 2 of the Active Travel (Wales) Act [2013 (anaw 7)](https://www.legislation.gov.uk/anaw/2013/7).
 
-#### 28. Provision of information about infrastructure and certain other matters to the Welsh Ministers by local authorities and community councils for the purposes of functions under Part 2[^key-f058e88394202cf730e2a16c3175bdd6]
+#### 28. Provision of information about infrastructure and certain other matters to the Welsh Ministers by local authorities and community councils for the purposes of functions under Part 2[^c-f058e88394202cf730e2a16c3175bdd6]
 
 (1) The Welsh Ministers may give notice under this section to a local authority or a community council requiring the authority or the council to provide the Welsh Ministers with information specified in the notice.
 
@@ -685,9 +685,9 @@ requiring the person to provide the Welsh Ministers with information specified i
 (3) Information may not be specified in the notice unless—
 
 - (a) the Welsh Ministers consider that the information is needed for the purposes of the exercise of their functions under Part 2, and
-- (b)[^key-f058e88394202cf730e2a16c3175bdd6] the information is of a kind that is specified in regulations under this section.
+- (b)[^c-f058e88394202cf730e2a16c3175bdd6] the information is of a kind that is specified in regulations under this section.
 
-(4)[^key-f058e88394202cf730e2a16c3175bdd6] Regulations under this section may specify information about (among other things)—
+(4)[^c-f058e88394202cf730e2a16c3175bdd6] Regulations under this section may specify information about (among other things)—
 
 - (a) routes;
 - (b) points where passengers are permitted to embark onto, and disembark from, bus services;
@@ -698,19 +698,19 @@ requiring the person to provide the Welsh Ministers with information specified i
 
 ### Information to be made available to the public
 
-#### 29. Duty to secure that information is made available to the public[^key-ea23f953f5342bc0d614b7b8e9ae4ee2]
+#### 29. Duty to secure that information is made available to the public[^c-ea23f953f5342bc0d614b7b8e9ae4ee2]
 
 (1) The Welsh Ministers must make arrangements to secure that the information specified in regulations under this section is made available to the public.
 
-(2)[^key-ea23f953f5342bc0d614b7b8e9ae4ee2] Regulations under this section may specify information relating to a service within subsection (3).
+(2)[^c-ea23f953f5342bc0d614b7b8e9ae4ee2] Regulations under this section may specify information relating to a service within subsection (3).
 
-(3)[^key-ea23f953f5342bc0d614b7b8e9ae4ee2] The services are—
+(3)[^c-ea23f953f5342bc0d614b7b8e9ae4ee2] The services are—
 
 - (a) a local bus service;
 - (b) a section 19 service that is being relied upon as described in section 19;
 - (c) a Part 3 of Schedule 1 service that is being relied upon as described in section 19.
 
-(4)[^key-ea23f953f5342bc0d614b7b8e9ae4ee2] The information that may be specified in the regulations includes information about (among other things)—
+(4)[^c-ea23f953f5342bc0d614b7b8e9ae4ee2] The information that may be specified in the regulations includes information about (among other things)—
 
 - (a) timetables and frequencies of service, and punctuality of services;
 - (b) routes and areas of operation;
@@ -725,9 +725,9 @@ requiring the person to provide the Welsh Ministers with information specified i
 - (i) connections to public passenger transport services and to section 19 services;
 - (j) amenities and facilities (including active travel routes and related facilities) that are available in the vicinity of embarkation and disembarkation points.
 
-(5)[^key-ea23f953f5342bc0d614b7b8e9ae4ee2] The regulations must make provision specifying how and when the information is to be made available to the public.
+(5)[^c-ea23f953f5342bc0d614b7b8e9ae4ee2] The regulations must make provision specifying how and when the information is to be made available to the public.
 
-#### 30. Provision of information to the Welsh Ministers for the purposes of section 29[^key-d454d4f9200c1d14b46240bdf8c01346]
+#### 30. Provision of information to the Welsh Ministers for the purposes of section 29[^c-d454d4f9200c1d14b46240bdf8c01346]
 
 (1) Regulations under this section may require—
 
@@ -760,20 +760,20 @@ to provide specified information in relation to the service to the Welsh Ministe
 
 **Not yet in force.**
 
-#### 31. Provision of information: exclusion on grounds of legal privilege[^key-6f048d31842651a1943ea3da986e9b56]
+#### 31. Provision of information: exclusion on grounds of legal privilege[^c-6f048d31842651a1943ea3da986e9b56]
 
 A requirement imposed on a person under section 27, 28 or 30 does not apply to information that the person would in legal proceedings be entitled to refuse to provide on grounds of legal privilege.
 
 ### Enforcement
 
-#### 32. Enforcement of information requirements[^key-305cd8d770f1593e92d00a69b5481b6c]
+#### 32. Enforcement of information requirements[^c-305cd8d770f1593e92d00a69b5481b6c]
 
 (1) If a traffic commissioner is satisfied that a person who is operating or has operated a bus service has, without reasonable excuse, failed to comply with a requirement to provide information in accordance with a notice given under section 27 or regulations made under section 30, the traffic commissioner may make one or more orders under subsection (2).
 
 (2) The orders are—
 
 - (a) an order that the person pay, within a time specified in the order, a penalty of any amount that the traffic commissioner thinks appropriate in all the circumstances of the case, but which does not exceed the upper limit;
-- (b)[^key-305cd8d770f1593e92d00a69b5481b6c] an order of any other description prescribed in regulations.
+- (b)[^c-305cd8d770f1593e92d00a69b5481b6c] an order of any other description prescribed in regulations.
 
 (3) If a person fails to comply with an order under subsection (2), and the condition in subsection (5) is met in respect of the order, a traffic commissioner may make an order under this subsection ordering the person to pay, within a period specified in the order, an additional penalty.
 
@@ -791,7 +791,7 @@ A requirement imposed on a person under section 27, 28 or 30 does not apply to i
 
 (7) Except to any extent provided for in regulations under this section, an amount ordered to be paid under subsection (2) or (3) is payable to the Welsh Ministers and recoverable, on the order of a court, as if payable under a court order.
 
-(8)[^key-305cd8d770f1593e92d00a69b5481b6c] Regulations under this subsection may make provision about orders under this section including provision about (among other things)—
+(8)[^c-305cd8d770f1593e92d00a69b5481b6c] Regulations under this subsection may make provision about orders under this section including provision about (among other things)—
 
 - (a) the form and content of an order;
 - (b) the procedure to be followed by a traffic commissioner in relation to an order.
@@ -799,10 +799,10 @@ A requirement imposed on a person under section 27, 28 or 30 does not apply to i
 (9) The upper limit, for the purposes of a penalty that a person is ordered to pay under this section, is—
 
 - (a) in the case of a person who, at the relevant time, was licensed to use vehicles under a PSV operator’s licence, the sum that is calculated by multiplying the total number of vehicles that the person was licensed to use under all the PSV operator’s licences held by the person at the relevant time by either—
-  - (i) [^key-305cd8d770f1593e92d00a69b5481b6c]an amount specified in regulations under this sub-paragraph, or
+  - (i) [^c-305cd8d770f1593e92d00a69b5481b6c]an amount specified in regulations under this sub-paragraph, or
   - (ii) in the absence of any amount being so specified, £550;
 - (b) in the case of a person who, at the relevant time, was not licensed to use vehicles under a PSV operator’s licence—
-  - (i) [^key-305cd8d770f1593e92d00a69b5481b6c]an amount specified in regulations under this sub-paragraph, or
+  - (i) [^c-305cd8d770f1593e92d00a69b5481b6c]an amount specified in regulations under this sub-paragraph, or
   - (ii) in the absence of any amount being so specified, £550.
 
 (10) For the purposes of subsection (9), the “relevant time” is—
@@ -810,7 +810,7 @@ A requirement imposed on a person under section 27, 28 or 30 does not apply to i
 - (a) in the case of a failure to comply with a requirement to provide information in accordance with a notice given under section 27, the time at which the notice was given;
 - (b) in the case of a failure to comply with a requirement to provide information in accordance with regulations made under section 30, the time at which the person failed to comply with that requirement.
 
-#### 33. Enforcement of information requirements: appeals[^key-1546f6c056b179410f709e17a805c18d]
+#### 33. Enforcement of information requirements: appeals[^c-1546f6c056b179410f709e17a805c18d]
 
 **Not yet in force.**
 
@@ -824,13 +824,13 @@ A requirement imposed on a person under section 27, 28 or 30 does not apply to i
 
 ## PART 5 — LOCAL AUTHORITY POWERS AND DUTIES
 
-### 34. Provision of bus services by local authorities: removal of restriction[^key-916ccb9f4aa6503025362fc1bccb6350][^key-b6d79b0b8205048af53948d5e0d9469b]
+### 34. Provision of bus services by local authorities: removal of restriction[^c-916ccb9f4aa6503025362fc1bccb6350][^c-b6d79b0b8205048af53948d5e0d9469b]
 
 (1) The 1985 Act is amended as follows.
 
 (2) In section 66 (exclusion of powers of certain councils to run bus undertakings), in subsection (1), omit “a county council or county borough council in Wales”.
 
-### 35. Removal of duty to secure local bus services[^key-390e74a84d26d6f128feeace07258a16]
+### 35. Removal of duty to secure local bus services[^c-390e74a84d26d6f128feeace07258a16]
 
 **Not yet in force.**
 
@@ -838,7 +838,7 @@ In the 1985 Act, in section 63 (functions of local councils with respect to pass
 
 > (1A) The duty in subsection (1) does not require a council in Wales to secure the provision of a service that is a local bus service for the purposes of section 1 of the Bus Services (Wales) Act 2026 (asc \[X\]).
 
-### 36. Financial assistance in connection with local bus services[^key-80950fd1aa8a2271bed8d932dfd42aaf]
+### 36. Financial assistance in connection with local bus services[^c-80950fd1aa8a2271bed8d932dfd42aaf]
 
 **Not yet in force.**
 
@@ -854,7 +854,7 @@ In the 1985 Act, in section 63 (functions of local councils with respect to pass
 
 **Not yet in force.**
 
-#### 37. Application of TUPE[^key-b1062909ca69f814fb8ebd5564c2193a]
+#### 37. Application of TUPE[^c-b1062909ca69f814fb8ebd5564c2193a]
 
 (1) Regulations must make provision for circumstances in which a relevant transfer is to be treated (to the extent that‍ this would not otherwise be the case) as taking place for the purposes of TUPE, upon—
 
@@ -876,7 +876,7 @@ In the 1985 Act, in section 63 (functions of local councils with respect to pass
 
 **Not yet in force.**
 
-#### 38. Transport Act 1985: removal of requirements relating to registration[^key-629edab9c8e1eb6d87378845acb39eb5]
+#### 38. Transport Act 1985: removal of requirements relating to registration[^c-629edab9c8e1eb6d87378845acb39eb5]
 
 (1) The 1985 Act is amended as follows.
 
@@ -903,7 +903,7 @@ In the 1985 Act, in section 63 (functions of local councils with respect to pass
   >
   > (1K) In the case of a service that is a flexible local bus service for the purposes of the Bus Services (Wales) Act 2026, any part of its area of operation which is outside Wales is to be treated as a separate service for the purposes of subsection (1F) (and is therefore not a local bus service for the purposes of that subsection).
 
-#### 39. Transport Act 1985: existing registration etc. ceasing to have effect[^key-083eb13d90f3639c8961a4909dd02f08]
+#### 39. Transport Act 1985: existing registration etc. ceasing to have effect[^c-083eb13d90f3639c8961a4909dd02f08]
 
 (1) This section applies where–
 
@@ -919,7 +919,7 @@ In the 1985 Act, in section 63 (functions of local councils with respect to pass
 
 **Not yet in force.**
 
-#### 40. Restriction on the power to secure the provision of public passenger transport services under section 7 of the Transport (Wales) Act 2006[^key-8193f77d99eb7a52bc846c0cd9465d92]
+#### 40. Restriction on the power to secure the provision of public passenger transport services under section 7 of the Transport (Wales) Act 2006[^c-8193f77d99eb7a52bc846c0cd9465d92]
 
 (1) Section 7 (provision of public passenger transport services) of the Transport (Wales) Act [2006 (c. 5)](https://www.legislation.gov.uk/ukpga/2006/5) is amended as follows.
 
@@ -937,7 +937,7 @@ In the 1985 Act, in section 63 (functions of local councils with respect to pass
 
 **Not yet in force.**
 
-#### 41. Transport Act 2000: removal of certain local authority schemes[^key-4a51b51713ddb08f23d2b211188897a7]
+#### 41. Transport Act 2000: removal of certain local authority schemes[^c-4a51b51713ddb08f23d2b211188897a7]
 
 (1) In the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38)—
 
@@ -949,7 +949,7 @@ In the 1985 Act, in section 63 (functions of local councils with respect to pass
 
 ### General
 
-#### 42. Regulations under this Act[^key-aada60314eaee6f6e6b8c98137576884]
+#### 42. Regulations under this Act[^c-aada60314eaee6f6e6b8c98137576884]
 
 (1) A power to make regulations under this Act is exercisable by Welsh statutory instrument.
 
@@ -989,7 +989,7 @@ In the 1985 Act, in section 63 (functions of local councils with respect to pass
 - (b) an Assembly Measure;
 - (c) an Act of the Parliament of the United Kingdom.
 
-#### 43. Giving notices etc.[^key-d3bca40105c85880c3269e030155c3f1]
+#### 43. Giving notices etc.[^c-d3bca40105c85880c3269e030155c3f1]
 
 (1) This section applies where a provision of this Act or of regulations made under this Act requires or authorises a person to—
 
@@ -1036,7 +1036,7 @@ In the 1985 Act, in section 63 (functions of local councils with respect to pass
 - (a) the principal office of a company registered outside the United Kingdom or of a partnership carrying on business outside the United Kingdom is their principal office within the United Kingdom;
 - (b) “**officer**”, in relation to a body corporate, means a director, manager, secretary or other similar officer of the body.
 
-#### 44. General interpretation[^key-ab16e9598f49372e3ee928285b2438ef]
+#### 44. General interpretation[^c-ab16e9598f49372e3ee928285b2438ef]
 
 (1) In this Act—
 
@@ -1061,7 +1061,7 @@ In the 1985 Act, in section 63 (functions of local councils with respect to pass
 
 (3) Regulations may make provision about circumstances in which a person of a specified description is to be treated for the purposes of subsection (2) as providing or not providing a service
 
-#### 45. Index of defined terms[^key-a68da65f7ed3afbd73ec7ac7245bb714]
+#### 45. Index of defined terms[^c-a68da65f7ed3afbd73ec7ac7245bb714]
 
 The Table below lists provisions in this Act that define or otherwise explain terms used in this Act (other than a term used only in a section where that term is defined or explained)—
 
@@ -1098,7 +1098,7 @@ TABLE
 | Wales Transport Strategy (“***Strategaeth Drafnidiaeth Cymru***”) | Section 44(1) |
 | Welsh Bus Network Plan (“***Cynllun Rhwydwaith Bysiau Cymru***”) | Section 5(1)(b) |
 
-#### 46. Power to make consequential, transitional etc. provision[^key-e0e4f4f5614ce245aab370e00a561636]
+#### 46. Power to make consequential, transitional etc. provision[^c-e0e4f4f5614ce245aab370e00a561636]
 
 (1) If the Welsh Ministers consider it necessary or appropriate for the purposes of, or in consequence of, or for giving full effect to any provision of this Act, they may by regulations make—
 
@@ -1107,13 +1107,13 @@ TABLE
 
 (2) Regulations under subsection (1) may modify any enactment (whenever enacted or made, and including this Act).
 
-#### 47. Minor and consequential amendments[^key-db757f50ebf5a444ed13dbace8b1605e]
+#### 47. Minor and consequential amendments[^c-db757f50ebf5a444ed13dbace8b1605e]
 
 **Not yet in force.**
 
 The Schedule (which makes minor and consequential amendments etc.) has effect.
 
-#### 48. Coming into force[^key-a5c632c36c889dd7161e004cbebe15d8]
+#### 48. Coming into force[^c-a5c632c36c889dd7161e004cbebe15d8]
 
 (1) The following provisions come into force on the day after the day on which this Act receives Royal Assent—
 
@@ -1143,7 +1143,7 @@ The Schedule (which makes minor and consequential amendments etc.) has effect.
 - (a) may make transitional or saving provision;
 - (b) may appoint different days for different purposes and different areas.
 
-#### 49. Short title[^key-a9a230ff61e3d7439c4c33ca07e9bd6f]
+#### 49. Short title[^c-a9a230ff61e3d7439c4c33ca07e9bd6f]
 
 This Act may be referred to as—
 
@@ -1156,7 +1156,7 @@ This Act may be referred to as—
 
 (introduced by section 47)
 
-### 1. Road Traffic Regulation Act [1984 (c. 27)](https://www.legislation.gov.uk/ukpga/1984/27)[^key-7bef6bd342df291dc2212452d5fc199c]
+### 1. Road Traffic Regulation Act [1984 (c. 27)](https://www.legislation.gov.uk/ukpga/1984/27)[^c-7bef6bd342df291dc2212452d5fc199c]
 
 (1) The Road Traffic Regulation Act 1984 is amended as follows.
 
@@ -1167,7 +1167,7 @@ This Act may be referred to as—
 
 (3) In Schedule 9, in paragraph 27, omit sub-paragraph (3).
 
-### 2. Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67)[^key-7019a66bebede254ff36154f67b3bae8]
+### 2. Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67)[^c-7019a66bebede254ff36154f67b3bae8]
 
 (1) The Transport Act 1985 is amended as follows.
 
@@ -1210,7 +1210,7 @@ This Act may be referred to as—
 
 (10) In section 135 (procedure for making regulations, rules and orders), in subsection (8), omit paragraph (c).
 
-### 3. Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38)[^key-141f195a7c99256bf573b0939ec52d54]
+### 3. Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38)[^c-141f195a7c99256bf573b0939ec52d54]
 
 (1) The Transport Act 2000 is amended as follows.
 
@@ -1267,7 +1267,7 @@ This Act may be referred to as—
 
 (9) In Schedule 11 (minor and consequential amendments), omit paragraph 8.
 
-### 4. Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26)[^key-88eccaa87087b8d06c91eb4e77f7081a]
+### 4. Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26)[^c-88eccaa87087b8d06c91eb4e77f7081a]
 
 (1) The Local Transport Act 2008 is amended as follows.
 
@@ -1285,120 +1285,120 @@ This Act may be referred to as—
 
 ## Annotations
 
-[^key-08ea8241adcacd077d43c56a4e5c184a]: Commencement: S. 1 in force at 3.2.2026, see [s. 48(1)(a)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/a)
+[^c-08ea8241adcacd077d43c56a4e5c184a]: Commencement: S. 1 in force at 3.2.2026, see [s. 48(1)(a)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/a)
 
-[^key-b5934d861ed19f519878264ba482023f]: Commencement: S. 2 in force at 3.2.2026, see [s. 48(1)(a)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/a)
+[^c-b5934d861ed19f519878264ba482023f]: Commencement: S. 2 in force at 3.2.2026, see [s. 48(1)(a)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/a)
 
-[^key-39aeb9f51fa783c86336030a552b53ec]: Commencement: S. 3 in force at 3.2.2026, see [s. 48(1)(a)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/a)
+[^c-39aeb9f51fa783c86336030a552b53ec]: Commencement: S. 3 in force at 3.2.2026, see [s. 48(1)(a)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/a)
 
-[^key-2d258b221eab6c7a236dd8a3548da6ea]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2026/2/section/4) in force at 2.4.2026, see [s. 48(2)(a)](https://www.legislation.gov.uk/asc/2026/2/section/48/2/a)
+[^c-2d258b221eab6c7a236dd8a3548da6ea]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2026/2/section/4) in force at 2.4.2026, see [s. 48(2)(a)](https://www.legislation.gov.uk/asc/2026/2/section/48/2/a)
 
-[^key-4871c7b3fa7b8012ed58082f226c4aeb]: Commencement: S. 5(6)(7) in force at 3.2.2026, see [s. 48(1)(c)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/c)
+[^c-4871c7b3fa7b8012ed58082f226c4aeb]: Commencement: S. 5(6)(7) in force at 3.2.2026, see [s. 48(1)(c)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/c)
 
-[^key-bf6b09293b380cebb53a6f62a02b46e1]: Commencement: S. 5(1)(a)(b)(2)(3) in force at 30.6.2026 by [W.S.I. 2026/109](https://www.legislation.gov.uk/wsi/2026/109), [art. 2(a)](https://www.legislation.gov.uk/wsi/2026/109/article/2/a)
+[^c-bf6b09293b380cebb53a6f62a02b46e1]: Commencement: S. 5(1)(a)(b)(2)(3) in force at 30.6.2026 by [W.S.I. 2026/109](https://www.legislation.gov.uk/wsi/2026/109), [art. 2(a)](https://www.legislation.gov.uk/wsi/2026/109/article/2/a)
 
-[^key-2fb77df114af9e0483037aeb4b29e485]: Commencement: S. 6 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-2fb77df114af9e0483037aeb4b29e485]: Commencement: S. 6 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-d7db4f1c37439db332500b0b8995fd12]: Commencement: S. 6 in force at 30.6.2026 by [W.S.I. 2026/109](https://www.legislation.gov.uk/wsi/2026/109), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/109/article/2/b)
+[^c-d7db4f1c37439db332500b0b8995fd12]: Commencement: S. 6 in force at 30.6.2026 by [W.S.I. 2026/109](https://www.legislation.gov.uk/wsi/2026/109), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/109/article/2/b)
 
-[^key-c411e3781d301c993aa31c835bef2d51]: Commencement: S. 7 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-c411e3781d301c993aa31c835bef2d51]: Commencement: S. 7 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-362fdd59911bbdfcf3ffa425b68f0dba]: Commencement: S. 7 in force at 30.6.2026 by [W.S.I. 2026/109](https://www.legislation.gov.uk/wsi/2026/109), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/109/article/2/c)
+[^c-362fdd59911bbdfcf3ffa425b68f0dba]: Commencement: S. 7 in force at 30.6.2026 by [W.S.I. 2026/109](https://www.legislation.gov.uk/wsi/2026/109), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/109/article/2/c)
 
-[^key-5beca86f94209691b07761c5c7c6d3f7]: Commencement: S. 8 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-5beca86f94209691b07761c5c7c6d3f7]: Commencement: S. 8 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-b9619583ef68b9c3e91a40f1ff0e8883]: Commencement: S. 8 in force at 30.6.2026 by [W.S.I. 2026/109](https://www.legislation.gov.uk/wsi/2026/109), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/109/article/2/d)
+[^c-b9619583ef68b9c3e91a40f1ff0e8883]: Commencement: S. 8 in force at 30.6.2026 by [W.S.I. 2026/109](https://www.legislation.gov.uk/wsi/2026/109), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/109/article/2/d)
 
-[^key-31977fd1e1aefb4b3199c04d861f824b]: Commencement: S. 9 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-31977fd1e1aefb4b3199c04d861f824b]: Commencement: S. 9 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-12236c2245a9337ff1bf8749730143c6]: Commencement: S. 9 in force at 30.6.2026 by [W.S.I. 2026/109](https://www.legislation.gov.uk/wsi/2026/109), [art. 2(e)](https://www.legislation.gov.uk/wsi/2026/109/article/2/e)
+[^c-12236c2245a9337ff1bf8749730143c6]: Commencement: S. 9 in force at 30.6.2026 by [W.S.I. 2026/109](https://www.legislation.gov.uk/wsi/2026/109), [art. 2(e)](https://www.legislation.gov.uk/wsi/2026/109/article/2/e)
 
-[^key-7db81c65a3c8be85bb3b0045776af51a]: Commencement: S. 10 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-7db81c65a3c8be85bb3b0045776af51a]: Commencement: S. 10 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-d9bc11309db95c53c5f1c5671e9ce0a8]: Commencement: S. 11 in force at 3.2.2026, see [s. 48(1)(c)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/c)
+[^c-d9bc11309db95c53c5f1c5671e9ce0a8]: Commencement: S. 11 in force at 3.2.2026, see [s. 48(1)(c)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/c)
 
-[^key-6e52d2a262f301fe84d8265219e5933a]: Commencement: S. 12 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-6e52d2a262f301fe84d8265219e5933a]: Commencement: S. 12 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-c66cb395814d2978fba4ba3f20f2ad9c]: Commencement: S. 13 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-c66cb395814d2978fba4ba3f20f2ad9c]: Commencement: S. 13 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-1b17c63c7010b89e17f1d9bed57e117c]: Commencement: S. 14(2)(3) in force at 3.2.2026, see [s. 48(1)(d)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/d)
+[^c-1b17c63c7010b89e17f1d9bed57e117c]: Commencement: S. 14(2)(3) in force at 3.2.2026, see [s. 48(1)(d)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/d)
 
-[^key-85a394e819d247c04ee73fc6ce9e2ed0]: Commencement: S. 15(1)(2) in force at 3.2.2026, see [s. 48(1)(e)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/e)
+[^c-85a394e819d247c04ee73fc6ce9e2ed0]: Commencement: S. 15(1)(2) in force at 3.2.2026, see [s. 48(1)(e)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/e)
 
-[^key-f450b492851f79336a9f3c97531328a5]: Commencement: S. 16 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-f450b492851f79336a9f3c97531328a5]: Commencement: S. 16 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-eb87208842a1bd59683f1b27e3bce483]: Commencement: S. 17 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-eb87208842a1bd59683f1b27e3bce483]: Commencement: S. 17 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-f5ffbea934e39230f0336520418132ed]: Commencement: S. 18 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-f5ffbea934e39230f0336520418132ed]: Commencement: S. 18 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-188f79cffb650fd8f797868e4b376708]: Commencement: S. 19 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-188f79cffb650fd8f797868e4b376708]: Commencement: S. 19 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-86922ba173bedefc711bb01e26c65391]: Commencement: S. 20 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-86922ba173bedefc711bb01e26c65391]: Commencement: S. 20 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-320c5fa98ad7d3beee89e57ad46a9e1b]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2026/2/section/21) in force at 2.4.2026, see [s. 48(2)(b)](https://www.legislation.gov.uk/asc/2026/2/section/48/2/b)
+[^c-320c5fa98ad7d3beee89e57ad46a9e1b]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2026/2/section/21) in force at 2.4.2026, see [s. 48(2)(b)](https://www.legislation.gov.uk/asc/2026/2/section/48/2/b)
 
-[^key-93c168745dfce3091014625dde8e7a33]: Commencement: S. 22 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-93c168745dfce3091014625dde8e7a33]: Commencement: S. 22 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-8684f2f51c6d22eb156a74ae7497a4f5]: Commencement: S. 23 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-8684f2f51c6d22eb156a74ae7497a4f5]: Commencement: S. 23 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-e70ba95aa7c73d556ee73ac1ab5bff3c]: Commencement: S. 24 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-e70ba95aa7c73d556ee73ac1ab5bff3c]: Commencement: S. 24 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-56ff38572fc567013c0da0e73032a911]: Commencement: S. 25 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-56ff38572fc567013c0da0e73032a911]: Commencement: S. 25 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-893e92c6a86232e7f39fb1789ab383e1]: Commencement: S. 26 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-893e92c6a86232e7f39fb1789ab383e1]: Commencement: S. 26 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-e4282827c323703cd9b94fb14238a92d]: Commencement: S. 27(3)(b)(4)(5) in force at 3.2.2026, see [s. 48(1)(f)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/f)
+[^c-e4282827c323703cd9b94fb14238a92d]: Commencement: S. 27(3)(b)(4)(5) in force at 3.2.2026, see [s. 48(1)(f)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/f)
 
-[^key-f058e88394202cf730e2a16c3175bdd6]: Commencement: S. 28(3)(b)(4) in force at 3.2.2026, see [s. 48(1)(g)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/g)
+[^c-f058e88394202cf730e2a16c3175bdd6]: Commencement: S. 28(3)(b)(4) in force at 3.2.2026, see [s. 48(1)(g)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/g)
 
-[^key-ea23f953f5342bc0d614b7b8e9ae4ee2]: Commencement: S. 29(2)-(5) in force at 3.2.2026, see [s. 48(1)(h)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/h)
+[^c-ea23f953f5342bc0d614b7b8e9ae4ee2]: Commencement: S. 29(2)-(5) in force at 3.2.2026, see [s. 48(1)(h)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/h)
 
-[^key-d454d4f9200c1d14b46240bdf8c01346]: Commencement: S. 30 in force at 3.2.2026, see [s. 48(1)(i)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/i)
+[^c-d454d4f9200c1d14b46240bdf8c01346]: Commencement: S. 30 in force at 3.2.2026, see [s. 48(1)(i)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/i)
 
-[^key-6f048d31842651a1943ea3da986e9b56]: Commencement: S. 31 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-6f048d31842651a1943ea3da986e9b56]: Commencement: S. 31 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-305cd8d770f1593e92d00a69b5481b6c]: Commencement: S. 32(2)(b)(8)(9)(a)(i)(b)(i) in force at 3.2.2026, see [s. 48(1)(j)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/j)
+[^c-305cd8d770f1593e92d00a69b5481b6c]: Commencement: S. 32(2)(b)(8)(9)(a)(i)(b)(i) in force at 3.2.2026, see [s. 48(1)(j)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/j)
 
-[^key-1546f6c056b179410f709e17a805c18d]: Commencement: S. 33 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-1546f6c056b179410f709e17a805c18d]: Commencement: S. 33 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-916ccb9f4aa6503025362fc1bccb6350]: Commencement: S. 34 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-916ccb9f4aa6503025362fc1bccb6350]: Commencement: S. 34 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-b6d79b0b8205048af53948d5e0d9469b]: Commencement: S. 34 in force at 30.6.2026 by [W.S.I. 2026/109](https://www.legislation.gov.uk/wsi/2026/109), [art. 2(f)](https://www.legislation.gov.uk/wsi/2026/109/article/2/f)
+[^c-b6d79b0b8205048af53948d5e0d9469b]: Commencement: S. 34 in force at 30.6.2026 by [W.S.I. 2026/109](https://www.legislation.gov.uk/wsi/2026/109), [art. 2(f)](https://www.legislation.gov.uk/wsi/2026/109/article/2/f)
 
-[^key-390e74a84d26d6f128feeace07258a16]: Commencement: S. 35 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-390e74a84d26d6f128feeace07258a16]: Commencement: S. 35 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-80950fd1aa8a2271bed8d932dfd42aaf]: Commencement: S. 36 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-80950fd1aa8a2271bed8d932dfd42aaf]: Commencement: S. 36 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-b1062909ca69f814fb8ebd5564c2193a]: Commencement: S. 37 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-b1062909ca69f814fb8ebd5564c2193a]: Commencement: S. 37 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-629edab9c8e1eb6d87378845acb39eb5]: Commencement: S. 38 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-629edab9c8e1eb6d87378845acb39eb5]: Commencement: S. 38 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-083eb13d90f3639c8961a4909dd02f08]: Commencement: S. 39 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-083eb13d90f3639c8961a4909dd02f08]: Commencement: S. 39 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-8193f77d99eb7a52bc846c0cd9465d92]: Commencement: S. 40 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-8193f77d99eb7a52bc846c0cd9465d92]: Commencement: S. 40 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-4a51b51713ddb08f23d2b211188897a7]: Commencement: S. 41 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-4a51b51713ddb08f23d2b211188897a7]: Commencement: S. 41 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-aada60314eaee6f6e6b8c98137576884]: Commencement: S. 42 in force at 3.2.2026, see [s. 48(1)(k)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/k)
+[^c-aada60314eaee6f6e6b8c98137576884]: Commencement: S. 42 in force at 3.2.2026, see [s. 48(1)(k)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/k)
 
-[^key-d3bca40105c85880c3269e030155c3f1]: Commencement: S. 43 in force at 3.2.2026, see [s. 48(1)(k)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/k)
+[^c-d3bca40105c85880c3269e030155c3f1]: Commencement: S. 43 in force at 3.2.2026, see [s. 48(1)(k)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/k)
 
-[^key-ab16e9598f49372e3ee928285b2438ef]: Commencement: S. 44 in force at 3.2.2026, see [s. 48(1)(k)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/k)
+[^c-ab16e9598f49372e3ee928285b2438ef]: Commencement: S. 44 in force at 3.2.2026, see [s. 48(1)(k)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/k)
 
-[^key-a68da65f7ed3afbd73ec7ac7245bb714]: Commencement: S. 45 in force at 3.2.2026, see [s. 48(1)(k)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/k)
+[^c-a68da65f7ed3afbd73ec7ac7245bb714]: Commencement: S. 45 in force at 3.2.2026, see [s. 48(1)(k)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/k)
 
-[^key-e0e4f4f5614ce245aab370e00a561636]: Commencement: S. 46 in force at 3.2.2026, see [s. 48(1)(k)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/k)
+[^c-e0e4f4f5614ce245aab370e00a561636]: Commencement: S. 46 in force at 3.2.2026, see [s. 48(1)(k)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/k)
 
-[^key-db757f50ebf5a444ed13dbace8b1605e]: Commencement: S. 47 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-db757f50ebf5a444ed13dbace8b1605e]: Commencement: S. 47 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-a5c632c36c889dd7161e004cbebe15d8]: Commencement: S. 48 in force at 3.2.2026, see [s. 48(1)(l)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/l)
+[^c-a5c632c36c889dd7161e004cbebe15d8]: Commencement: S. 48 in force at 3.2.2026, see [s. 48(1)(l)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/l)
 
-[^key-a9a230ff61e3d7439c4c33ca07e9bd6f]: Commencement: S. 49 in force at 3.2.2026, see [s. 48(1)(m)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/m)
+[^c-a9a230ff61e3d7439c4c33ca07e9bd6f]: Commencement: S. 49 in force at 3.2.2026, see [s. 48(1)(m)](https://www.legislation.gov.uk/asc/2026/2/section/48/1/m)
 
-[^key-7bef6bd342df291dc2212452d5fc199c]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-7bef6bd342df291dc2212452d5fc199c]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-7019a66bebede254ff36154f67b3bae8]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-7019a66bebede254ff36154f67b3bae8]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-141f195a7c99256bf573b0939ec52d54]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-141f195a7c99256bf573b0939ec52d54]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
 
-[^key-88eccaa87087b8d06c91eb4e77f7081a]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)
+[^c-88eccaa87087b8d06c91eb4e77f7081a]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 48(3)](https://www.legislation.gov.uk/asc/2026/2/section/48/3)

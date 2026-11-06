@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Flow monitoring devices[^key-cc6852d206fbe93fb562508eacde49dc]
+## 51. Flow monitoring devices[^c-cc6852d206fbe93fb562508eacde49dc]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc6852d206fbe93fb562508eacde49dc]: Commencement: Reg. 51 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-cc6852d206fbe93fb562508eacde49dc]: Commencement: Reg. 51 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00025]: Footnote: Section 68(9) of SBEEA 2015 defines “alcohol”.

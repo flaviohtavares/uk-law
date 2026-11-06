@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Temporary use of land for construction of works[^key-703f5b30264f549d375792c0c4a94b44]
+## 27. Temporary use of land for construction of works[^c-703f5b30264f549d375792c0c4a94b44]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-703f5b30264f549d375792c0c4a94b44]: Commencement: Art. 27 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-703f5b30264f549d375792c0c4a94b44]: Commencement: Art. 27 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
 [^f00021]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).

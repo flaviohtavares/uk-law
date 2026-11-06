@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Consultation[^key-4d52d0bdd5c80a83e2c1af395d6399c1]
+## 8. Consultation[^c-4d52d0bdd5c80a83e2c1af395d6399c1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d52d0bdd5c80a83e2c1af395d6399c1]: Commencement: Reg. 8 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-4d52d0bdd5c80a83e2c1af395d6399c1]: Commencement: Reg. 8 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

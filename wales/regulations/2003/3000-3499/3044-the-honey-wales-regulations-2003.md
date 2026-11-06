@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Honey (Wales) Regulations 2003 (revoked)[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+The Honey (Wales) Regulations 2003 (revoked)[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 Made
 
@@ -41,98 +41,98 @@ Coming into force
 
 28th November 2003
 
-[^key-f499010ec0edcd26caa6fbcbfdea0eaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f499010ec0edcd26caa6fbcbfdea0eaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## 1. Title, commencement and application[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## 2. Interpretation[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Reserved descriptions[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## 3. Reserved descriptions[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Labelling and description of specified honey products[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## 4. Labelling and description of specified honey products[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Sale of filtered honey or baker’s honey in bulk containers or packs[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## 5. Sale of filtered honey or baker’s honey in bulk containers or packs[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Manner of marking or labelling[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## 6. Manner of marking or labelling[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalties and enforcement[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## 7. Penalties and enforcement[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Defence in relation to exports[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## 8. Defence in relation to exports[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application of various provisions of the Act[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## 9. Application of various provisions of the Act[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment and revocations[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## 10. Amendment and revocations[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Transitional provisions[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## 11. Transitional provisions[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f499010ec0edcd26caa6fbcbfdea0eaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f499010ec0edcd26caa6fbcbfdea0eaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — SPECIFIED HONEY PRODUCTS AND THEIR RESERVED DESCRIPTIONS[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## SCHEDULE 1 — SPECIFIED HONEY PRODUCTS AND THEIR RESERVED DESCRIPTIONS[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 Regulation 2(1)
 
-[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — SPECIFICATIONS FOR SPECIFIED HONEY PRODUCTS[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+## SCHEDULE 2 — SPECIFICATIONS FOR SPECIFIED HONEY PRODUCTS[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 Regulation 2(2)
 
-[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f499010ec0edcd26caa6fbcbfdea0eaa]
+[^c-f499010ec0edcd26caa6fbcbfdea0eaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f499010ec0edcd26caa6fbcbfdea0eaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f499010ec0edcd26caa6fbcbfdea0eaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f499010ec0edcd26caa6fbcbfdea0eaa]: Textual amendment: Regulations revoked (3.8.2015) by [The Honey (Wales) Regulations 2015 (S.I. 2015/1507)](https://www.legislation.gov.uk/wsi/2015/1507), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2), [20(1)(a)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/20/1/a)
+[^c-f499010ec0edcd26caa6fbcbfdea0eaa]: Textual amendment: Regulations revoked (3.8.2015) by [The Honey (Wales) Regulations 2015 (S.I. 2015/1507)](https://www.legislation.gov.uk/wsi/2015/1507), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2), [20(1)(a)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/20/1/a)

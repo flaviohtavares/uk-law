@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 282. Notice of order under section 176A(5)[^key-bb9306b0377694af27069e8c2688f3a8]
+## 282. Notice of order under section 176A(5)[^c-bb9306b0377694af27069e8c2688f3a8]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb9306b0377694af27069e8c2688f3a8]: Commencement: Rule 282 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-bb9306b0377694af27069e8c2688f3a8]: Commencement: Rule 282 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00095]: Footnote: Rule 12.22 was inserted by [S.I. 2003/1730](https://www.legislation.gov.uk/uksi/2003/1730).

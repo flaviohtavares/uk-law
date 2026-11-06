@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Access to safeguards equipment[^key-5fc49a2bb385110b1b8d8eacedb8b9ee]
+## 37. Access to safeguards equipment[^c-5fc49a2bb385110b1b8d8eacedb8b9ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ An operator must permit the ONR to have reasonable access to the safeguards equi
 
 ## Annotations
 
-[^key-5fc49a2bb385110b1b8d8eacedb8b9ee]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-5fc49a2bb385110b1b8d8eacedb8b9ee]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

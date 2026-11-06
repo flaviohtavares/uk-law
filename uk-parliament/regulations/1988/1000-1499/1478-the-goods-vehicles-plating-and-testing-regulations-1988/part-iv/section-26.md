@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Periodical tests, and issue of test certificates (or notices of refusal)[^key-7aa5ce7019caa841918ec9adbe1dc660]
+## 26. Periodical tests, and issue of test certificates (or notices of refusal)[^c-7aa5ce7019caa841918ec9adbe1dc660]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ On the submission of a vehicle for a periodical test a goods vehicle examiner sh
 
 ## Annotations
 
-[^key-7aa5ce7019caa841918ec9adbe1dc660]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1988/1478/regulation/26) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-7aa5ce7019caa841918ec9adbe1dc660]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1988/1478/regulation/26) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)

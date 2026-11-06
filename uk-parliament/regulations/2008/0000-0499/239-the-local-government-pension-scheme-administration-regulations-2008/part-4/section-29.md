@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. The pension funds[^key-91f9119533b3257fe6bf1f81daec5462]
+## 29. The pension funds[^c-91f9119533b3257fe6bf1f81daec5462]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ The bodies responsible for maintaining pension funds for the Scheme immediately 
 
 ## Annotations
 
-[^key-91f9119533b3257fe6bf1f81daec5462]: Commencement: Reg. 29 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-91f9119533b3257fe6bf1f81daec5462]: Commencement: Reg. 29 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

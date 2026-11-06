@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Felling or lopping of trees and removal of hedgerows[^key-9cfec71ee8128ebff58063bcd19f66fc]
+## 18. Felling or lopping of trees and removal of hedgerows[^c-9cfec71ee8128ebff58063bcd19f66fc]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cfec71ee8128ebff58063bcd19f66fc]: Commencement: Art. 18 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-9cfec71ee8128ebff58063bcd19f66fc]: Commencement: Art. 18 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

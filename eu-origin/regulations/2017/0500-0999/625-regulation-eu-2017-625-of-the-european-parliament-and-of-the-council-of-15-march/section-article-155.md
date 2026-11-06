@@ -22,12 +22,12 @@ summary: ''
 
 1. Articles 26 and 27, Article 28(1) and (2) and Article 30 of Regulation (EC) No 396/2005 are deleted.
 
-2. Article 26, Article 27(1) and Article 30 of Regulation (EC) No 396/2005 shall continue to apply instead of the corresponding provisions of this Regulation until such date as may be specified in regulations made by the appropriate authority[^key-ca41861c047ad9d99109fd8309419c12] paragraph 3 of this Article.
+2. Article 26, Article 27(1) and Article 30 of Regulation (EC) No 396/2005 shall continue to apply instead of the corresponding provisions of this Regulation until such date as may be specified in regulations made by the appropriate authority[^c-ca41861c047ad9d99109fd8309419c12] paragraph 3 of this Article.
 
-3.[^key-70d870cad350e880aa7e81be690dbf77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-70d870cad350e880aa7e81be690dbf77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ca41861c047ad9d99109fd8309419c12]: Textual amendment: Words in [Art. 155(2)](https://www.legislation.gov.uk/eur/2017/625/article/155/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [28(6)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/28/6/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-ca41861c047ad9d99109fd8309419c12]: Textual amendment: Words in [Art. 155(2)](https://www.legislation.gov.uk/eur/2017/625/article/155/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [28(6)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/28/6/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-70d870cad350e880aa7e81be690dbf77]: Textual amendment: [Art. 155(3)](https://www.legislation.gov.uk/eur/2017/625/article/155/3) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [28(6)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/28/6/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-70d870cad350e880aa7e81be690dbf77]: Textual amendment: [Art. 155(3)](https://www.legislation.gov.uk/eur/2017/625/article/155/3) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [28(6)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/28/6/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

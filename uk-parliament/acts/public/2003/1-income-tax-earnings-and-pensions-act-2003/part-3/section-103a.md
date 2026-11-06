@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103A. Accommodation provided pursuant to optional remuneration arrangements: relevant amount[^key-975d8ddc1b30fd3b3ddbbf6e8a3c6612]
+## 103A. Accommodation provided pursuant to optional remuneration arrangements: relevant amount[^c-975d8ddc1b30fd3b3ddbbf6e8a3c6612]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ In this subsection “earnings” is to be interpreted in accordance with sectio
 
 ## Annotations
 
-[^key-975d8ddc1b30fd3b3ddbbf6e8a3c6612]: Textual amendment: [S. 103A](https://www.legislation.gov.uk/ukpga/2003/1/section/103A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/15)
+[^c-975d8ddc1b30fd3b3ddbbf6e8a3c6612]: Textual amendment: [S. 103A](https://www.legislation.gov.uk/ukpga/2003/1/section/103A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/15)

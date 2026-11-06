@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Panel reports[^key-c8e840505c5de18e066ed1bbb9d1002f][^key-225d305fe9fe9ef68f1ba95ecd67973a]
+## 47. Panel reports[^c-c8e840505c5de18e066ed1bbb9d1002f][^c-225d305fe9fe9ef68f1ba95ecd67973a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8e840505c5de18e066ed1bbb9d1002f]: Commencement: S. 47 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c8e840505c5de18e066ed1bbb9d1002f]: Commencement: S. 47 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-225d305fe9fe9ef68f1ba95ecd67973a]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2023/29/section/47) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(kk)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/kk)
+[^c-225d305fe9fe9ef68f1ba95ecd67973a]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2023/29/section/47) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(kk)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/kk)

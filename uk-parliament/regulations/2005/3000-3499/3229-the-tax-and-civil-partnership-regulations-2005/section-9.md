@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9.[^key-b37101675ab8a6c36be3ff4c3d8461d0]
+## 9.[^c-b37101675ab8a6c36be3ff4c3d8461d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 23 (gifts to charities), in subsection (4)(a), after “spouse” ins
 
 ## Annotations
 
-[^key-b37101675ab8a6c36be3ff4c3d8461d0]: Commencement: Reg. 9 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-b37101675ab8a6c36be3ff4c3d8461d0]: Commencement: Reg. 9 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 133. Covenant income where no grant income or no contribution is assessed[^key-e5601d2310a3487f32360a2c1fb4c004]
+## 133. Covenant income where no grant income or no contribution is assessed[^c-e5601d2310a3487f32360a2c1fb4c004]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5601d2310a3487f32360a2c1fb4c004]: Commencement: Reg. 133 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-e5601d2310a3487f32360a2c1fb4c004]: Commencement: Reg. 133 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

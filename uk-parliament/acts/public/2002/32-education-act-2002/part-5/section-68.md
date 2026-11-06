@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. City colleges[^key-3b4041aa266e9eea98b95c15e8dbf2c0]
+## 68. City colleges[^c-3b4041aa266e9eea98b95c15e8dbf2c0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b4041aa266e9eea98b95c15e8dbf2c0]: Textual amendment: [S. 68](https://www.legislation.gov.uk/ukpga/2002/32/section/68) repealed (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2010/32/schedule/2/paragraph/14); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
+[^c-3b4041aa266e9eea98b95c15e8dbf2c0]: Textual amendment: [S. 68](https://www.legislation.gov.uk/ukpga/2002/32/section/68) repealed (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2010/32/schedule/2/paragraph/14); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)

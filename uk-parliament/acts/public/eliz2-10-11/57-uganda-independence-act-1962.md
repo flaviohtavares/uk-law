@@ -49,9 +49,9 @@ An Act to make provision for, and in connection with, the attainment by Uganda o
 
 (1)[^c651663] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-8373396af423096244d8e38659a95d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8373396af423096244d8e38659a95d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-41940ecd24b354d9f12996f7cefa77af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-41940ecd24b354d9f12996f7cefa77af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) As from the appointed day, the provisions specified in the Third Schedule to this Act shall have effect subject to the amendments respectively specified in that Schedule, . . . [^c651668]
 
@@ -160,9 +160,9 @@ and, until express provision with respect to Uganda is made by Order in Council 
 
 [^c651663]: Textual amendment: S. 3(1) repealed by Interpretation Act 1978 (c. 30 SIF 115:1), Sch. 3
 
-[^key-8373396af423096244d8e38659a95d7e]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/57/section/3/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-8373396af423096244d8e38659a95d7e]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/57/section/3/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-41940ecd24b354d9f12996f7cefa77af]: Textual amendment: [S. 3(3)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/57/section/3/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-41940ecd24b354d9f12996f7cefa77af]: Textual amendment: [S. 3(3)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/57/section/3/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c651668]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1969 (c. 52)](https://www.legislation.gov.uk/ukpga/1969/52), [Sch. Pt. VI](https://www.legislation.gov.uk/ukpga/1969/52/schedule/part/VI).
 

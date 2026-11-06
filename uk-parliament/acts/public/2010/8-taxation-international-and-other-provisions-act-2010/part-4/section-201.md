@@ -30,21 +30,21 @@ summary: ''
 
 (5) Condition D is that the actual provision is made or imposed by means of a series of transactions which include—
 
-- (a) borrowing (“the relevant borrowing”)[^key-55d5e6c664681eedc20d085c98cd2bfb] by one of the affected persons [^key-a60cd107ea302d5982df902e3a2f5c2d]..., and
+- (a) borrowing (“the relevant borrowing”)[^c-55d5e6c664681eedc20d085c98cd2bfb] by one of the affected persons [^c-a60cd107ea302d5982df902e3a2f5c2d]..., and
 - (b) the provision of a guarantee by the other affected person.
 
 (6) Condition E is that the capital market condition is met (see section 204).
 
-(7)[^key-a48553b52771d28892c270d0f54555b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-a48553b52771d28892c270d0f54555b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-a48553b52771d28892c270d0f54555b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-a48553b52771d28892c270d0f54555b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-a48553b52771d28892c270d0f54555b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-a48553b52771d28892c270d0f54555b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-55d5e6c664681eedc20d085c98cd2bfb]: Textual amendment: Words in [s. 201(5)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/201/5/a) substituted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 11(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/11/7/a/i), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)
+[^c-55d5e6c664681eedc20d085c98cd2bfb]: Textual amendment: Words in [s. 201(5)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/201/5/a) substituted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 11(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/11/7/a/i), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)
 
-[^key-a60cd107ea302d5982df902e3a2f5c2d]: Textual amendment: Words in [s. 201(5)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/201/5/a) omitted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 11(7)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/11/7/a/ii), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)
+[^c-a60cd107ea302d5982df902e3a2f5c2d]: Textual amendment: Words in [s. 201(5)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/201/5/a) omitted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 11(7)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/11/7/a/ii), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)
 
-[^key-a48553b52771d28892c270d0f54555b9]: Textual amendment: [S. 201(7)-(9)](https://www.legislation.gov.uk/ukpga/2010/8/section/201/7) omitted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 11(7)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/11/7/b), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)
+[^c-a48553b52771d28892c270d0f54555b9]: Textual amendment: [S. 201(7)-(9)](https://www.legislation.gov.uk/ukpga/2010/8/section/201/7) omitted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 11(7)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/11/7/b), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)

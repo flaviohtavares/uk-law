@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 403B. Acquisition of land by MDC and TfL for shared purposes[^key-e00f5c3835c3cf4aff9169b59bbe8cbc]
+## 403B. Acquisition of land by MDC and TfL for shared purposes[^c-e00f5c3835c3cf4aff9169b59bbe8cbc]
 
 *Extent: E+W*
 
@@ -49,10 +49,10 @@ would be advanced by one or both of them acquiring land for a joint project.
 
 (9) The joint project mentioned in subsection (1) is to be treated as the scheme for the purposes of the no-scheme principle in section 6A of the Land Compensation Act 1961 (impact of scheme to be disregarded when assessing value of land for compulsory purchase).
 
-(10)[^key-8e32e292e215f06a1402b5159d186e6a] In this section “**Mayoral development corporation**” means a Mayoral development corporation for an area in Greater London.
+(10)[^c-8e32e292e215f06a1402b5159d186e6a] In this section “**Mayoral development corporation**” means a Mayoral development corporation for an area in Greater London.
 
 ## Annotations
 
-[^key-e00f5c3835c3cf4aff9169b59bbe8cbc]: Textual amendment: Ss. 403A, 403B and cross-heading inserted (E.W.) (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/36/2), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/f)
+[^c-e00f5c3835c3cf4aff9169b59bbe8cbc]: Textual amendment: Ss. 403A, 403B and cross-heading inserted (E.W.) (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/36/2), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/f)
 
-[^key-8e32e292e215f06a1402b5159d186e6a]: Textual amendment: S. 403B(10) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 20 para. 20(6)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/20/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-8e32e292e215f06a1402b5159d186e6a]: Textual amendment: S. 403B(10) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 20 para. 20(6)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/20/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

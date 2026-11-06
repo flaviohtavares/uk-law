@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. General requirements for electrical connections[^key-4e1fd9b778d58e879e4def4b4d513387]
+## 18. General requirements for electrical connections[^c-4e1fd9b778d58e879e4def4b4d513387]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e1fd9b778d58e879e4def4b4d513387]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2000/169/regulation/18) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-4e1fd9b778d58e879e4def4b4d513387]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2000/169/regulation/18) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

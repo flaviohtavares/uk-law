@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Variation or discharge[^key-e7ce64477d6ceb61a8bf8eaa9a59cf4a]
+## 30. Variation or discharge[^c-e7ce64477d6ceb61a8bf8eaa9a59cf4a]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ as it applies to a confiscation order made under the Proceeds of Crime Act 2002.
 
 ## Annotations
 
-[^key-e7ce64477d6ceb61a8bf8eaa9a59cf4a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2015/9/section/30) in force at 1.6.2015 by [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(d)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/d)
+[^c-e7ce64477d6ceb61a8bf8eaa9a59cf4a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2015/9/section/30) in force at 1.6.2015 by [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(d)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/d)

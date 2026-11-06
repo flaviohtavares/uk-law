@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Funding[^key-5e3a7fc2fcfcd5f5cd3d5261781aae0d]
+## 23. Funding[^c-5e3a7fc2fcfcd5f5cd3d5261781aae0d]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e3a7fc2fcfcd5f5cd3d5261781aae0d]: Commencement: Art. 23 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-5e3a7fc2fcfcd5f5cd3d5261781aae0d]: Commencement: Art. 23 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

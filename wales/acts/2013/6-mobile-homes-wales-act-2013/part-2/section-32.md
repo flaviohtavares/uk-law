@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Power of entry of officers of local authorities[^key-56eab62d761ad9e29058977adfb60ef9]
+## 32. Power of entry of officers of local authorities[^c-56eab62d761ad9e29058977adfb60ef9]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ the justice of the peace may by warrant authorise the local authority by any aut
 
 ## Annotations
 
-[^key-56eab62d761ad9e29058977adfb60ef9]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2013/6/section/32) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-56eab62d761ad9e29058977adfb60ef9]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2013/6/section/32) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

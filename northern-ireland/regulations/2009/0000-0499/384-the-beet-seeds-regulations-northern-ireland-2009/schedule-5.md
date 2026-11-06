@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — RE-GRADING OF SEED[^key-c3f0050130b836abe8b6f3a6b527f9fd]
+## SCHEDULE 5 — RE-GRADING OF SEED[^c-c3f0050130b836abe8b6f3a6b527f9fd]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Regulations 12(1) and 21(1)(b)
 
 ## Annotations
 
-[^key-c3f0050130b836abe8b6f3a6b527f9fd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/384) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(b)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/b)
+[^c-c3f0050130b836abe8b6f3a6b527f9fd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/384) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(b)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/b)

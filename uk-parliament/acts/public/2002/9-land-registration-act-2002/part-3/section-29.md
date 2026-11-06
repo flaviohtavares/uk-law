@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Effect of registered dispositions: estates[^key-9463c4888634b1e63e8039695ea831c1]
+## 29. Effect of registered dispositions: estates[^c-9463c4888634b1e63e8039695ea831c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9463c4888634b1e63e8039695ea831c1]: Modification: [Ss. 28-30](https://www.legislation.gov.uk/ukpga/2002/9/section/28) applied (E.W.) (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 17(2)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/17/2/b), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
+[^c-9463c4888634b1e63e8039695ea831c1]: Modification: [Ss. 28-30](https://www.legislation.gov.uk/ukpga/2002/9/section/28) applied (E.W.) (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 17(2)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/17/2/b), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
 
 [^c21160371]: Modification: [S. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2002/9/section/29/2/a) modified (10.11.2008) by [The Land Registration Rules 2003 (S.I. 2003/1417)](https://www.legislation.gov.uk/uksi/2003/1417), [rule 196B](https://www.legislation.gov.uk/uksi/2003/1417/rule/196B) (as inserted by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rules 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [4(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/4/1), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/63))

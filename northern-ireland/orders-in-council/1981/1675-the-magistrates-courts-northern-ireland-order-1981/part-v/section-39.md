@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A magistrates' court conducting a preliminary [^key-82b0a34037cb822b8e041d80a0bf99cf]... inquiry shall bind each witness whose deposition it has taken, other than the accused and any witness merely as to his character, by a recognizance to attend and to give evidence at the trial of any indictment against the accused and, except where the complainant is a public or local authority or an officer of a public or local authority acting as such or is a constable acting as such, it shall bind the complainant by a recognizance to prosecute the accused at the trial.
+(1) A magistrates' court conducting a preliminary [^c-82b0a34037cb822b8e041d80a0bf99cf]... inquiry shall bind each witness whose deposition it has taken, other than the accused and any witness merely as to his character, by a recognizance to attend and to give evidence at the trial of any indictment against the accused and, except where the complainant is a public or local authority or an officer of a public or local authority acting as such or is a constable acting as such, it shall bind the complainant by a recognizance to prosecute the accused at the trial.
 
 (2) Where it appears to the court, after taking into account any representation made by or on behalf of the accused or the prosecution, that the attendance at the trial of any witness examined before the court is unnecessary by reason of any statement by the accused, or of the accused having admitted before the court the truth of the charge or of the evidence of the witness being merely of a formal nature, the court shall—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82b0a34037cb822b8e041d80a0bf99cf]: Textual amendment: Words in [art. 39(1)](https://www.legislation.gov.uk/nisi/1981/1675/article/39/1) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(3)(g)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/3/g); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-82b0a34037cb822b8e041d80a0bf99cf]: Textual amendment: Words in [art. 39(1)](https://www.legislation.gov.uk/nisi/1981/1675/article/39/1) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(3)(g)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/3/g); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)

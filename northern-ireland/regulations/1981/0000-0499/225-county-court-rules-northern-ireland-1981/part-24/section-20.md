@@ -25,7 +25,7 @@ summary: ''
 (2) The examination may be ordered to take place before—
 
 - (a) any officer of the court making the order; or
-- (b) the \[[^f00236] district judge\] or chief clerk [^key-5ecb225e87f9ff7c5b56cf0fcd924fd4]...; or
+- (b) the \[[^f00236] district judge\] or chief clerk [^c-5ecb225e87f9ff7c5b56cf0fcd924fd4]...; or
 - (c) in special circumstances such other person as \[[^f00234] the judge or district judge as the case may be\] may appoint.
 
 (3) The order may require the attendance of the witness—
@@ -90,7 +90,7 @@ but, subject as aforesaid, the deposition shall be admissible in evidence, savin
 
 [^f00236]: Footnote: To be construed as such by [S.R. 1991 No. 230](https://www.legislation.gov.uk/nisr/1991/230) with effect from 28.06.91
 
-[^key-5ecb225e87f9ff7c5b56cf0fcd924fd4]: Textual amendment: Words in Order 24 rule 20(2)(b) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/6/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-5ecb225e87f9ff7c5b56cf0fcd924fd4]: Textual amendment: Words in Order 24 rule 20(2)(b) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/6/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
 [^f00237]: Footnote: Words amended by [S.R. 2013 No. 19](https://www.legislation.gov.uk/nisr/2013/19) with effect from 25.02.13
 

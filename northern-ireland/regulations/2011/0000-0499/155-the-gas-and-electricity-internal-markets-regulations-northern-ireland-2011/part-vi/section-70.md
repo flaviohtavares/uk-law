@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Authority’s dispute resolution functions in relation to gas[^key-6ad0e1bff72807b2244165bf0b97bc73]
+## 70. Authority’s dispute resolution functions in relation to gas[^c-6ad0e1bff72807b2244165bf0b97bc73]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ For Article 27A(1) of the Gas Order there shall be substituted the following par
 
 ## Annotations
 
-[^key-6ad0e1bff72807b2244165bf0b97bc73]: Commencement: Reg. 70 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-6ad0e1bff72807b2244165bf0b97bc73]: Commencement: Reg. 70 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Technical requirements for equipment used in fish farming[^key-902df03dd7b415059411afafbff8ee6e]
+## 3. Technical requirements for equipment used in fish farming[^c-902df03dd7b415059411afafbff8ee6e]
 
 *Extent: S*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-902df03dd7b415059411afafbff8ee6e]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2013/7/section/3) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-902df03dd7b415059411afafbff8ee6e]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2013/7/section/3) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

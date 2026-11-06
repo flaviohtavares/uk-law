@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3C. The 1996 Hague Convention to have the force of law[^key-d37a2f16ba3012d42bab67057416a582]
+## 3C. The 1996 Hague Convention to have the force of law[^c-d37a2f16ba3012d42bab67057416a582]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d37a2f16ba3012d42bab67057416a582]: Textual amendment: [Ss. 3C-3E](https://www.legislation.gov.uk/ukpga/1982/27/section/3C) inserted (31.12.2020) by [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2020/24/section/1/2), [4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3) (with [s. 3(1)](https://www.legislation.gov.uk/ukpga/2020/24/section/3/1), [Sch. 5 paras. 7](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/8))
+[^c-d37a2f16ba3012d42bab67057416a582]: Textual amendment: [Ss. 3C-3E](https://www.legislation.gov.uk/ukpga/1982/27/section/3C) inserted (31.12.2020) by [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2020/24/section/1/2), [4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3) (with [s. 3(1)](https://www.legislation.gov.uk/ukpga/2020/24/section/3/1), [Sch. 5 paras. 7](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/8))

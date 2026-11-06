@@ -52,21 +52,21 @@ The Scottish Ministers consider that the restrictions and requirements imposed b
 
 In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottish Ministers are of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft having been laid before, and approved by, a resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-ec31b0fa08e2e9dc09d18cf7b8b6e18e]
+## 1. Citation and commencement[^c-ec31b0fa08e2e9dc09d18cf7b8b6e18e]
 
 (1) These Regulations may be cited as the Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Amendment (No. 18) Regulations 2021.
 
-(2) With the exception of the provisions mentioned in paragraphs (3) and (4)[^key-350a7fdd67e21c3cf29f0383f915e5ec], these Regulations come into force on 26 March 2021.
+(2) With the exception of the provisions mentioned in paragraphs (3) and (4)[^c-350a7fdd67e21c3cf29f0383f915e5ec], these Regulations come into force on 26 March 2021.
 
 (3) Regulation 8 comes into force at 6.00 p.m. on 24 March 2021.
 
-(4)[^key-4401e9434182419069c433e78b31855c] Regulation 7(2), (3), (4)(a)(i), (5)(a)(i) and (6)(a)(i) comes into force on 25 March 2021.
+(4)[^c-4401e9434182419069c433e78b31855c] Regulation 7(2), (3), (4)(a)(i), (5)(a)(i) and (6)(a)(i) comes into force on 25 March 2021.
 
-## 2. Amendment of the Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020[^key-2a3053850f83420caa7d1d586f23b260]
+## 2. Amendment of the Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020[^c-2a3053850f83420caa7d1d586f23b260]
 
 The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 [^c24536561] are amended in accordance with regulations 3 to 8.
 
-## 3. Amendment of schedule 1: Level 0 restrictions[^key-01201fa3808ebcfc8eedf127b701e8b7]
+## 3. Amendment of schedule 1: Level 0 restrictions[^c-01201fa3808ebcfc8eedf127b701e8b7]
 
 In paragraph 7 of schedule 1 (restriction on public gatherings outdoors in a level 0 area)—
 
@@ -84,7 +84,7 @@ In paragraph 7 of schedule 1 (restriction on public gatherings outdoors in a lev
 
   .
 
-## 4. Amendment of schedule 2: Level 1 restrictions[^key-c78bf3a1327e978884f6a57b450ece26]
+## 4. Amendment of schedule 2: Level 1 restrictions[^c-c78bf3a1327e978884f6a57b450ece26]
 
 In paragraph 8 of schedule 2 (restriction on public gatherings outdoors in a level 1 area)—
 
@@ -102,7 +102,7 @@ In paragraph 8 of schedule 2 (restriction on public gatherings outdoors in a lev
 
   .
 
-## 5. Amendment of schedule 3: Level 2 restrictions[^key-2b5841452e6a46911db2a8441bf2345a]
+## 5. Amendment of schedule 3: Level 2 restrictions[^c-2b5841452e6a46911db2a8441bf2345a]
 
 In paragraph 12 of schedule 3 (restriction on public gatherings outdoors in a level 2 area)—
 
@@ -120,7 +120,7 @@ In paragraph 12 of schedule 3 (restriction on public gatherings outdoors in a le
 
   .
 
-## 6. Amendment of schedule 4: Level 3 restrictions[^key-7465353d670f26e1bf475e6cf368ba08]
+## 6. Amendment of schedule 4: Level 3 restrictions[^c-7465353d670f26e1bf475e6cf368ba08]
 
 (1) Schedule 4 (level 3 restrictions) is amended in accordance with paragraphs (2) and (3).
 
@@ -157,7 +157,7 @@ In paragraph 12 of schedule 3 (restriction on public gatherings outdoors in a le
 
   .
 
-## 7. Amendment of schedule 5: Level 4 restrictions[^key-4f29fc1759c4ba51e9eb36cbcf30b5f2]
+## 7. Amendment of schedule 5: Level 4 restrictions[^c-4f29fc1759c4ba51e9eb36cbcf30b5f2]
 
 (1) Schedule 5 (level 4 restrictions) is amended in accordance with paragraphs (2) to (6).
 
@@ -230,7 +230,7 @@ In paragraph 12 of schedule 3 (restriction on public gatherings outdoors in a le
 
   .
 
-## 8. Change to level of area[^key-9ea896d712c8e1f097510768f8a5f343][^key-9ea896d712c8e1f097510768f8a5f343]
+## 8. Change to level of area[^c-9ea896d712c8e1f097510768f8a5f343][^c-9ea896d712c8e1f097510768f8a5f343]
 
 In the table in schedule 6 (areas), in column 3 (level of area) of entry 34 (Na h-Eileanan Siar), for “4”[^c24536621] substitute “3”.
 
@@ -256,27 +256,27 @@ Regulation 8 amends the table at schedule 6 of the Local Levels Regulations, to 
 
 [^c24536551]: Marginal citation: [2020 c.7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-ec31b0fa08e2e9dc09d18cf7b8b6e18e]: Commencement: Reg. 1 in force at 26.3.2021, see reg. 1(2)
+[^c-ec31b0fa08e2e9dc09d18cf7b8b6e18e]: Commencement: Reg. 1 in force at 26.3.2021, see reg. 1(2)
 
-[^key-350a7fdd67e21c3cf29f0383f915e5ec]: Textual amendment: Words in reg. 1(2) substituted (25.3.2021) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Amendment (No. 18) Amendment Regulations 2021 (S.S.I. 2021/168)](https://www.legislation.gov.uk/ssi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/168/regulation/1/2), [2(a)](https://www.legislation.gov.uk/ssi/2021/168/regulation/2/a)
+[^c-350a7fdd67e21c3cf29f0383f915e5ec]: Textual amendment: Words in reg. 1(2) substituted (25.3.2021) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Amendment (No. 18) Amendment Regulations 2021 (S.S.I. 2021/168)](https://www.legislation.gov.uk/ssi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/168/regulation/1/2), [2(a)](https://www.legislation.gov.uk/ssi/2021/168/regulation/2/a)
 
-[^key-4401e9434182419069c433e78b31855c]: Textual amendment: Reg. 1(4) inserted (25.3.2021) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Amendment (No. 18) Amendment Regulations 2021 (S.S.I. 2021/168)](https://www.legislation.gov.uk/ssi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/168/regulation/1/2), [2(b)](https://www.legislation.gov.uk/ssi/2021/168/regulation/2/b)
+[^c-4401e9434182419069c433e78b31855c]: Textual amendment: Reg. 1(4) inserted (25.3.2021) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Amendment (No. 18) Amendment Regulations 2021 (S.S.I. 2021/168)](https://www.legislation.gov.uk/ssi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/168/regulation/1/2), [2(b)](https://www.legislation.gov.uk/ssi/2021/168/regulation/2/b)
 
-[^key-2a3053850f83420caa7d1d586f23b260]: Commencement: Reg. 2 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/166/regulation/1/2)
+[^c-2a3053850f83420caa7d1d586f23b260]: Commencement: Reg. 2 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/166/regulation/1/2)
 
 [^c24536561]: Marginal citation: [S.S.I. 2020/344](https://www.legislation.gov.uk/ssi/2020/344), last amended by [S.S.I. 2021/136](https://www.legislation.gov.uk/ssi/2021/136).
 
-[^key-01201fa3808ebcfc8eedf127b701e8b7]: Commencement: Reg. 3 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/166/regulation/1/2)
+[^c-01201fa3808ebcfc8eedf127b701e8b7]: Commencement: Reg. 3 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/166/regulation/1/2)
 
 [^c24536571]: Marginal citation: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-c78bf3a1327e978884f6a57b450ece26]: Commencement: Reg. 4 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/166/regulation/1/2)
+[^c-c78bf3a1327e978884f6a57b450ece26]: Commencement: Reg. 4 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/166/regulation/1/2)
 
-[^key-2b5841452e6a46911db2a8441bf2345a]: Commencement: Reg. 5 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/166/regulation/1/2)
+[^c-2b5841452e6a46911db2a8441bf2345a]: Commencement: Reg. 5 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/166/regulation/1/2)
 
-[^key-7465353d670f26e1bf475e6cf368ba08]: Commencement: Reg. 6 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/166/regulation/1/2)
+[^c-7465353d670f26e1bf475e6cf368ba08]: Commencement: Reg. 6 in force at 26.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/166/regulation/1/2)
 
-[^key-4f29fc1759c4ba51e9eb36cbcf30b5f2]: Commencement: Reg. 7(2)(3)(4)(a)(i)(5)(a)(i)(6)(a)(i) in force at 25.3.2021 and reg. 7 otherwise in force at 26.3.2021, see reg. 1(2)(4) (as amended by [S.S.I. 2021/168](https://www.legislation.gov.uk/ssi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/168/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2021/168/regulation/2))
+[^c-4f29fc1759c4ba51e9eb36cbcf30b5f2]: Commencement: Reg. 7(2)(3)(4)(a)(i)(5)(a)(i)(6)(a)(i) in force at 25.3.2021 and reg. 7 otherwise in force at 26.3.2021, see reg. 1(2)(4) (as amended by [S.S.I. 2021/168](https://www.legislation.gov.uk/ssi/2021/168), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/168/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2021/168/regulation/2))
 
 [^c24536581]: Marginal citation: Paragraph 1A was inserted by [S.S.I. 2021/3](https://www.legislation.gov.uk/ssi/2021/3) and amended by [S.S.I. 2021/17](https://www.legislation.gov.uk/ssi/2021/17) and [S.S.I. 2021/49](https://www.legislation.gov.uk/ssi/2021/49).
 
@@ -286,6 +286,6 @@ Regulation 8 amends the table at schedule 6 of the Local Levels Regulations, to 
 
 [^c24536611]: Marginal citation: Paragraph 18 was inserted by [S.S.I. 2021/1](https://www.legislation.gov.uk/ssi/2021/1) and amended by [S.S.I. 2021/3](https://www.legislation.gov.uk/ssi/2021/3), [S.S.I. 2021/17](https://www.legislation.gov.uk/ssi/2021/17), [S.S.I. 2021/86](https://www.legislation.gov.uk/ssi/2021/86), [S.S.I. 2021/117](https://www.legislation.gov.uk/ssi/2021/117) and [S.S.I. 2021/136](https://www.legislation.gov.uk/ssi/2021/136).
 
-[^key-9ea896d712c8e1f097510768f8a5f343]: Commencement: Reg. 8 in force at 24.3.2021 at 6.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2021/166/regulation/1/3)
+[^c-9ea896d712c8e1f097510768f8a5f343]: Commencement: Reg. 8 in force at 24.3.2021 at 6.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2021/166/regulation/1/3)
 
 [^c24536621]: Marginal citation: The figure “4” was substituted by [S.S.I. 2021/54](https://www.legislation.gov.uk/ssi/2021/54).

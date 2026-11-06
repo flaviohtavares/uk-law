@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Continuation of pre-contract disputes relating to general medical services contracts[^key-f2da94dc4c9214302504e0e463b0a185]
+## 40. Continuation of pre-contract disputes relating to general medical services contracts[^c-f2da94dc4c9214302504e0e463b0a185]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ the dispute shall, notwithstanding that the parties to the dispute have entered 
 
 ## Annotations
 
-[^key-f2da94dc4c9214302504e0e463b0a185]: Commencement: Art. 40 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-f2da94dc4c9214302504e0e463b0a185]: Commencement: Art. 40 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

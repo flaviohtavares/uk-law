@@ -35,11 +35,11 @@ An Act to amend the European Communities Act 1972 so as to include in the defini
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Extended meaning of “the Treaties” and “the Community Treaties”.[^key-6c7034117b0ebb81918cb73e31dedf4f]
+## 1. Extended meaning of “the Treaties” and “the Community Treaties”.[^c-6c7034117b0ebb81918cb73e31dedf4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extensions of provisions to courts attached to European Court.[^key-3a086c30265c0a38eb589adb7ae622d9]
+## 2. Extensions of provisions to courts attached to European Court.[^c-3a086c30265c0a38eb589adb7ae622d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -58,7 +58,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (3) On and after the day mentioned in subsection (1) above the enactments and instruments amended by this section shall have effect as if the Assembly of the European Communities had always been named the European Parliament.
 
-(4)[^key-14c7aff97ada04db5b276b1abb286717] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-14c7aff97ada04db5b276b1abb286717] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Short title interpretation and repeals.
 
@@ -91,8 +91,8 @@ Section 4(3)
 
 ## Annotations
 
-[^key-6c7034117b0ebb81918cb73e31dedf4f]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1986/58/section/1) repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c7034117b0ebb81918cb73e31dedf4f]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1986/58/section/1) repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3a086c30265c0a38eb589adb7ae622d9]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1986/58/section/2) repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a086c30265c0a38eb589adb7ae622d9]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1986/58/section/2) repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-14c7aff97ada04db5b276b1abb286717]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/1986/58/section/3/4) repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1) (with [Sch. Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/3/paragraph/1)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14c7aff97ada04db5b276b1abb286717]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/1986/58/section/3/4) repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1) (with [Sch. Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/3/paragraph/1)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

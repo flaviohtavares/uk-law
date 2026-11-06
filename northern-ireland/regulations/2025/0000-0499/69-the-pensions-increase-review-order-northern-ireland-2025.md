@@ -44,17 +44,17 @@ In accordance with section 132 of the Social Security Administration (Northern I
 
 The Department of Finance now makes the following Order in exercise of the powers conferred by Article 69(1), (2), (5) and (5ZA) of the Social Security Pensions (Northern Ireland) Order 1975[^f00004] and now vested in it[^f00005].
 
-## 1. Citation and commencement[^key-4efe68b6481f96a8be01061c7fb49cb3]
+## 1. Citation and commencement[^c-4efe68b6481f96a8be01061c7fb49cb3]
 
 This Order may be cited as the Pensions Increase (Review) Order (Northern Ireland) 2025 and shall come into operation on 7th April 2025.
 
-## 2. Interpretation[^key-4ad318aa2a4a755f0fbf41c8c5022c27]
+## 2. Interpretation[^c-4ad318aa2a4a755f0fbf41c8c5022c27]
 
 (1) In this Order, “**the 1975 Order**” means the Social Security Pensions (Northern Ireland) Order 1975.
 
 (2) In this Order, any reference to a pension is a reference to a pension which began before 7th April 2025[^f00006].
 
-## 3. Pension increases: annual rate and lump sums[^key-d76d9f371f260f3dc6dc22f77c6ba9e8]
+## 3. Pension increases: annual rate and lump sums[^c-d76d9f371f260f3dc6dc22f77c6ba9e8]
 
 (1) This article applies to an official pension if—
 
@@ -79,7 +79,7 @@ This Order may be cited as the Pensions Increase (Review) Order (Northern Irelan
 
 where A is the number of complete months[^f00010] in the period between the beginning date of the lump sum (or, if later, 8th April 2024) and the date on which it becomes payable.
 
-## 4. Reductions in respect of guaranteed minimum pensions[^key-d88885e97c8e818a7a22dea9ec91827a]
+## 4. Reductions in respect of guaranteed minimum pensions[^c-d88885e97c8e818a7a22dea9ec91827a]
 
 (1) Where—
 
@@ -143,13 +143,13 @@ The Order also makes provision for the amount by reference to which any increase
 
 [^f00005]: Footnote: By [S.R. 1976 No. 281](https://www.legislation.gov.uk/nisr/1976/281) Art. 3 and Sch. 1, [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Art 3 and 4, and [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5).
 
-[^key-4efe68b6481f96a8be01061c7fb49cb3]: Commencement: Art. 1 in operation at 7.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/69/article/1)
+[^c-4efe68b6481f96a8be01061c7fb49cb3]: Commencement: Art. 1 in operation at 7.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/69/article/1)
 
-[^key-4ad318aa2a4a755f0fbf41c8c5022c27]: Commencement: Art. 2 in operation at 7.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/69/article/1)
+[^c-4ad318aa2a4a755f0fbf41c8c5022c27]: Commencement: Art. 2 in operation at 7.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/69/article/1)
 
 [^f00006]: Footnote: By virtue of article 69(7) of the Social Security Pensions (Northern Ireland) Order [1975 (c.15)](https://www.legislation.gov.uk/ukpga/1975/15), sections 69 and 69A of that Order have effect as if they were contained in Part 1 of the Pensions (Increase) Act (Northern Ireland) [1971 (c.35(NI))](https://www.legislation.gov.uk/apni/1971/35). Consequently, for the purposes of section 33 of the Interpretation Act (Northern Ireland) [1954 (c. 33)(NI)](https://www.legislation.gov.uk/apni/1954/33) the following expressions used in this Order have the meaning which they bear in section 69 of the Social Security Pensions (Northern Ireland) Order 1975 and the Pensions (Increase) Act (Northern Ireland) 1971: “beginning date”, “derivative pension”, “employment”, “guaranteed minimum pension”, “official pension”, “pension authority”, “qualifying condition”, “relevant injury pension”, “substituted pension” and “transfer credit”. Section 8(2) of the Pensions (Increase) Act (Northern Ireland) 1971 also makes provision about when a pension begins for the purposes of that Act. Section 8(2) was amended by section 3(5) of the Pensions (Miscellaneous Provisions) (Northern Ireland) Order 1990 (N.I. 13) and by the Welfare Reform and Pensions (Northern Ireland) Order 1999 (N.I. 11), section 36(1) and (3)(b)&(c). Section 8 was also amended by the Public Service Pensions Act (Northern Ireland) [2014 (c.2)](https://www.legislation.gov.uk/ukpga/2014/2), Schedule 8, paragraph 2 (which inserted section 8A).
 
-[^key-d76d9f371f260f3dc6dc22f77c6ba9e8]: Commencement: Art. 3 in operation at 7.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/69/article/1)
+[^c-d76d9f371f260f3dc6dc22f77c6ba9e8]: Commencement: Art. 3 in operation at 7.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/69/article/1)
 
 [^f00007]: Footnote: Section 69(5) of the Social Security Pensions (Northern Ireland) Order 1975 provides that the increases in the rate of a pension are to be calculated by reference to the basic rate of the pension as authorised to be increased by section 1 of the Pensions (Increase) Act (Northern Ireland) 1971 or by any order under section 2 of that Act or section 69 of the Social Security Pensions (Northern Ireland) Order 1975.
 
@@ -159,7 +159,7 @@ The Order also makes provision for the amount by reference to which any increase
 
 [^f00010]: Footnote: By virtue of section 69(8) of the Social Security Pensions (Northern Ireland) Order 1975, where is it necessary to calculate the number of complete months in any period, an incomplete month shall be treated as a complete month if it consists of at least 16 days.
 
-[^key-d88885e97c8e818a7a22dea9ec91827a]: Commencement: Art. 4 in operation at 7.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/69/article/1)
+[^c-d88885e97c8e818a7a22dea9ec91827a]: Commencement: Art. 4 in operation at 7.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/69/article/1)
 
 [^f00011]: Footnote: Inserted by [S.I. 1979/396 (N.I. 5)](https://www.legislation.gov.uk/nisi/1979/396) Art. 10 and amended by [S.I. 1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888) Art. 11(9) and [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49) section 184 and paragraph 15(2) of sch. 7.
 

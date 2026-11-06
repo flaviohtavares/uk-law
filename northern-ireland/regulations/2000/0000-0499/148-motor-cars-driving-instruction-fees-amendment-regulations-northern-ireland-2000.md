@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Cars (Driving Instruction) (Fees) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-8c8084e14b2e462e98615e2e280cff04]
+Motor Cars (Driving Instruction) (Fees) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-8c8084e14b2e462e98615e2e280cff04]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 19th June 2000
 
-[^key-8c8084e14b2e462e98615e2e280cff04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c8084e14b2e462e98615e2e280cff04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8c8084e14b2e462e98615e2e280cff04]
+## 1. Citation and commencement[^c-8c8084e14b2e462e98615e2e280cff04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Motor Cars (Driving Instruction) Regulations (Northern Ireland) 1991[^key-8c8084e14b2e462e98615e2e280cff04]
+## 2. Amendment of the Motor Cars (Driving Instruction) Regulations (Northern Ireland) 1991[^c-8c8084e14b2e462e98615e2e280cff04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-8c8084e14b2e462e98615e2e280cff04]
+## 3. Revocation[^c-8c8084e14b2e462e98615e2e280cff04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8c8084e14b2e462e98615e2e280cff04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c8084e14b2e462e98615e2e280cff04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8c8084e14b2e462e98615e2e280cff04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c8084e14b2e462e98615e2e280cff04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8c8084e14b2e462e98615e2e280cff04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/148) revoked (5.5.2004) by [Motor Cars (Driving Instruction) Regulations (Northern Ireland) 2004 (S.R. 2004/179)](https://www.legislation.gov.uk/nisr/2004/179), [reg. 1](https://www.legislation.gov.uk/nisr/2004/179/regulation/1), [Sch. 5 Pt. I](https://www.legislation.gov.uk/nisr/2004/179/schedule/5/part/I) (with [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisr/2004/179/schedule/5/part/II))
+[^c-8c8084e14b2e462e98615e2e280cff04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/148) revoked (5.5.2004) by [Motor Cars (Driving Instruction) Regulations (Northern Ireland) 2004 (S.R. 2004/179)](https://www.legislation.gov.uk/nisr/2004/179), [reg. 1](https://www.legislation.gov.uk/nisr/2004/179/regulation/1), [Sch. 5 Pt. I](https://www.legislation.gov.uk/nisr/2004/179/schedule/5/part/I) (with [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisr/2004/179/schedule/5/part/II))

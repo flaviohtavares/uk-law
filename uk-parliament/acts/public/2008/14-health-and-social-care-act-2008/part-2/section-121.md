@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Co-operation between prescribed bodies[^c1942064][^key-8aea6fc9ddd0d350227c212145b22a0d]
+## 121. Co-operation between prescribed bodies[^c1942064][^c-8aea6fc9ddd0d350227c212145b22a0d]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 [^c1942064]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2008/14/section/121) partly in force; [s. 121](https://www.legislation.gov.uk/ukpga/2008/14/section/121) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-8aea6fc9ddd0d350227c212145b22a0d]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2008/14/section/121) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/708/article/3/c)
+[^c-8aea6fc9ddd0d350227c212145b22a0d]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2008/14/section/121) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/708/article/3/c)

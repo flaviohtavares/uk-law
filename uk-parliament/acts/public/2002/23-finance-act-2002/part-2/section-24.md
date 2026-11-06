@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Invoices[^key-ad4896f134839908455689db2c6262b1]
+## 24. Invoices[^c-ad4896f134839908455689db2c6262b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,4 +122,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad4896f134839908455689db2c6262b1]: Commencement: S. 24 in force at 1.12.2003 by [S.I. 2003/3043](https://www.legislation.gov.uk/uksi/2003/3043), [art. 2](https://www.legislation.gov.uk/uksi/2003/3043/article/2)
+[^c-ad4896f134839908455689db2c6262b1]: Commencement: S. 24 in force at 1.12.2003 by [S.I. 2003/3043](https://www.legislation.gov.uk/uksi/2003/3043), [art. 2](https://www.legislation.gov.uk/uksi/2003/3043/article/2)

@@ -33,14 +33,14 @@ of 27 March 2017
 
 on the launch of automated data exchange with regard to vehicle registration data in Denmark (revoked)
 
-[^key-df142d5bbe040d00fb109b5cb764c939]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df142d5bbe040d00fb109b5cb764c939]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-df142d5bbe040d00fb109b5cb764c939] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-df142d5bbe040d00fb109b5cb764c939] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-df142d5bbe040d00fb109b5cb764c939] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-df142d5bbe040d00fb109b5cb764c939] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df142d5bbe040d00fb109b5cb764c939]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df142d5bbe040d00fb109b5cb764c939]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df142d5bbe040d00fb109b5cb764c939]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [117(h)](https://www.legislation.gov.uk/uksi/2019/742/regulation/117/h) (with [regs. 117A](https://www.legislation.gov.uk/uksi/2019/742/regulation/117A), [117B](https://www.legislation.gov.uk/uksi/2019/742/regulation/117B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [34](https://www.legislation.gov.uk/uksi/2020/1408/regulation/34)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df142d5bbe040d00fb109b5cb764c939]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [117(h)](https://www.legislation.gov.uk/uksi/2019/742/regulation/117/h) (with [regs. 117A](https://www.legislation.gov.uk/uksi/2019/742/regulation/117A), [117B](https://www.legislation.gov.uk/uksi/2019/742/regulation/117B)) (as inserted by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [34](https://www.legislation.gov.uk/uksi/2020/1408/regulation/34)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

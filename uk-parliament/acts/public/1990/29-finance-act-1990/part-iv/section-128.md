@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Repayment of fees and charges.[^c12832011][^key-9f63e8e87be3a471510a32af0bc40080]
+## 128. Repayment of fees and charges.[^c12832011][^c-9f63e8e87be3a471510a32af0bc40080]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,7 +58,7 @@ summary: ''
 
     [S. 128](https://www.legislation.gov.uk/ukpga/1990/29/section/128) amended (1.9.1994) by [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/1994/22/section/58/2), [66(1)](https://www.legislation.gov.uk/ukpga/1994/22/section/66/1) (with [s. 57(4)](https://www.legislation.gov.uk/ukpga/1994/22/section/57/4))
 
-[^key-9f63e8e87be3a471510a32af0bc40080]: Modification: [S. 128](https://www.legislation.gov.uk/ukpga/1990/29/section/128) applied (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2006/36/section/70/3), [126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2)
+[^c-9f63e8e87be3a471510a32af0bc40080]: Modification: [S. 128](https://www.legislation.gov.uk/ukpga/1990/29/section/128) applied (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2006/36/section/70/3), [126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2)
 
 [^c12832021]: Marginal citation: [1973 c. 63](https://www.legislation.gov.uk/ukpga/1973/63).
 

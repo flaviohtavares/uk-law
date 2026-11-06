@@ -34,7 +34,7 @@ summary: ''
 
 - (a) football matches anywhere in the United Kingdom where one or both of the participating teams—
   - (i) represents a country or territory;
-  - (ii)[^key-790fe5efcb4f75cfcd2e2c74622dd8c4] represents a club which is for the time being a member of the Scottish Professional Football League;
+  - (ii)[^c-790fe5efcb4f75cfcd2e2c74622dd8c4] represents a club which is for the time being a member of the Scottish Professional Football League;
   - (iii) represents a club which is for the time being a member (whether a full or associate member) of the Football League, the Football Association Premier League, the Football Conference or the League of Wales;
 - (aa)[^c21043501] football matches anywhere in the United Kingdom, not falling within paragraph (a)–
   - (i) which are part of a competition or tournament organised by, or under the authority of, the Federation Internationale de Football Associations (“FIFA”) or the Union of European Football Associations (“UEFA”); and
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-790fe5efcb4f75cfcd2e2c74622dd8c4]: Textual amendment: [S. 55(3)(a)(ii)](https://www.legislation.gov.uk/asp/2006/10/section/55/3/a/ii) substituted (9.7.2013) by [The Football Banning Orders (Regulated Football Matches) (Scotland) Order 2013 (S.S.I. 2013/228)](https://www.legislation.gov.uk/ssi/2013/228), [arts. 1](https://www.legislation.gov.uk/ssi/2013/228/article/1), [2](https://www.legislation.gov.uk/ssi/2013/228/article/2)
+[^c-790fe5efcb4f75cfcd2e2c74622dd8c4]: Textual amendment: [S. 55(3)(a)(ii)](https://www.legislation.gov.uk/asp/2006/10/section/55/3/a/ii) substituted (9.7.2013) by [The Football Banning Orders (Regulated Football Matches) (Scotland) Order 2013 (S.S.I. 2013/228)](https://www.legislation.gov.uk/ssi/2013/228), [arts. 1](https://www.legislation.gov.uk/ssi/2013/228/article/1), [2](https://www.legislation.gov.uk/ssi/2013/228/article/2)
 
 [^c21043501]: Textual amendment: S. 55(3)(aa) inserted (1.4.2007) by [The Football Banning Orders (Regulated Football Matches) (Scotland) Order 2007 (S.S.I. 2007/125)](https://www.legislation.gov.uk/ssi/2007/125), [art. 2](https://www.legislation.gov.uk/ssi/2007/125/article/2)

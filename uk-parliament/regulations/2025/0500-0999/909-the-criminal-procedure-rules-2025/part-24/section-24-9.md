@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.9. Single justice procedure: special rules[^key-1b7d5e7262799bed67d93bed0a8783a4]
+## 24.9. Single justice procedure: special rules[^c-1b7d5e7262799bed67d93bed0a8783a4]
 
 *Extent: E+W*
 
@@ -120,7 +120,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1b7d5e7262799bed67d93bed0a8783a4]: Commencement: [Rule 24.9](https://www.legislation.gov.uk/uksi/2025/909/rule/24.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1b7d5e7262799bed67d93bed0a8783a4]: Commencement: [Rule 24.9](https://www.legislation.gov.uk/uksi/2025/909/rule/24.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00547]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 16B was inserted by section 48 of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).
 

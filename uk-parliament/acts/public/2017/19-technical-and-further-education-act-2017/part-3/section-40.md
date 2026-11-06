@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Information for Secretary of State about further education[^key-09a0f81a4e1251ed5bcffaee0d655b28]
+## 40. Information for Secretary of State about further education[^c-09a0f81a4e1251ed5bcffaee0d655b28]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09a0f81a4e1251ed5bcffaee0d655b28]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/19/section/40) in force at 12.11.2018 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1161/regulation/2)
+[^c-09a0f81a4e1251ed5bcffaee0d655b28]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/19/section/40) in force at 12.11.2018 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1161/regulation/2)

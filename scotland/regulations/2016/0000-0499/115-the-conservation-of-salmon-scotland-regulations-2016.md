@@ -52,17 +52,17 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with paragraphs 10, 11, 12 and 14(1) of schedule 1 to that Act they have consulted such persons as they considered appropriate, directed that notice be given of the general effect of these Regulations and considered representations and objections made.
 
-## 1. Citation, commencement and interpretation[^key-cfda837544deedda790c6a7e4c6ede19]
+## 1. Citation, commencement and interpretation[^c-cfda837544deedda790c6a7e4c6ede19]
 
 (1) These Regulations may be cited as the Conservation of Salmon (Scotland) Regulations 2016 and come into force on 31st March 2016.
 
 (2) In these Regulations—
 
-- “fish farming” means the breeding, rearing or cultivating of fish, whether or not for the purpose of producing food for human consumption but does not include fish bred, reared or cultivated in captivity which have later been released to the wild; [^key-249e79210a6851298441f2889f83d3c9]...
-- “grid reference” means Ordnance Survey National Grid reference[^f00002]; and[^key-5afd86815c28a6cd6a9ebfb3cad3434b]
+- “fish farming” means the breeding, rearing or cultivating of fish, whether or not for the purpose of producing food for human consumption but does not include fish bred, reared or cultivated in captivity which have later been released to the wild; [^c-249e79210a6851298441f2889f83d3c9]...
+- “grid reference” means Ordnance Survey National Grid reference[^f00002]; and[^c-5afd86815c28a6cd6a9ebfb3cad3434b]
 - “salmon” means fish of the species *Salmo salar* (commonly known as salmon) or any part of such fish and excludes the migratory fish of the species *Salmo trutta* (commonly known as sea trout) or any part of such fish.
 
-## 2. Conservation status assessment[^key-e0ad709c21b0c4bd84fcb5744ff3f5d0]
+## 2. Conservation status assessment[^c-e0ad709c21b0c4bd84fcb5744ff3f5d0]
 
 (1) The Scottish Ministers must carry out, or arrange for the carrying out of, an assessment of the conservation status of salmon in inland waters described in Parts 1 and 2 of Schedule 1.
 
@@ -73,16 +73,16 @@ In accordance with paragraphs 10, 11, 12 and 14(1) of schedule 1 to that Act the
 - (a) “conservation status” means, in relation to salmon,—
   - (i) the stock levels of the salmon; and
   - (ii) the condition of the salmon;
-- (b) “special area of conservation” means an area designated as a special area of conservation within the meaning of [^key-d2cf22059094b4e04491c6934bea4f74]... the Conservation (Natural Habitats &c.) Regulations 1994[^f00005]; and
+- (b) “special area of conservation” means an area designated as a special area of conservation within the meaning of [^c-d2cf22059094b4e04491c6934bea4f74]... the Conservation (Natural Habitats &c.) Regulations 1994[^f00005]; and
 - (c) “salmon” does not include any salmon produced by fish farming.
 
-## 3. Prohibition on retaining salmon[^key-95e45b3b318a43fdb9fe764ace02155b]
+## 3. Prohibition on retaining salmon[^c-95e45b3b318a43fdb9fe764ace02155b]
 
-(1) Subject to paragraph (3), no[^key-6776fada9efa976f88fc58a9fa800ac4] person may retain any salmon caught in any coastal waters in a salmon fishery district.
+(1) Subject to paragraph (3), no[^c-6776fada9efa976f88fc58a9fa800ac4] person may retain any salmon caught in any coastal waters in a salmon fishery district.
 
-(2) Subject to[^key-d8664c1a06bb2d6693f26164c4533de6] paragraph (3)[^key-943b0b0ed876a5cced44fba90efe5d40], no person may retain any salmon caught in any inland waters described in Schedule 2.
+(2) Subject to[^c-d8664c1a06bb2d6693f26164c4533de6] paragraph (3)[^c-943b0b0ed876a5cced44fba90efe5d40], no person may retain any salmon caught in any inland waters described in Schedule 2.
 
-(2A)[^key-eae51b33c20ecf67204caad048a61db4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-eae51b33c20ecf67204caad048a61db4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Paragraphs (1) and (2) do not apply where a salmon is retained—
 
@@ -97,7 +97,7 @@ In accordance with paragraphs 10, 11, 12 and 14(1) of schedule 1 to that Act the
 - “Environment Agency” means the body corporate known as the Environment Agency established under section 1 of the Environment Act 1995[^f00008]; and
 - “retain” means failing to return the fish at once to the river or other water from which it came and with the least possible injury.
 
-## 4. Conservation plans[^key-9724e59db1f07e3828a7dfb423642032]
+## 4. Conservation plans[^c-9724e59db1f07e3828a7dfb423642032]
 
 (1) The Scottish Ministers may agree a conservation plan in respect of an area of inland waters listed and described in Part 1 or Part 2 of Schedule 1 with—
 
@@ -111,7 +111,7 @@ In accordance with paragraphs 10, 11, 12 and 14(1) of schedule 1 to that Act the
   - (ii) the conservation of salmon in that area; and
 - (b) “salmon” does not include any salmon produced by fish farming.
 
-## 5. Consequential amendment[^key-b630bcd5d243f7a2aed0426877eaed92]
+## 5. Consequential amendment[^c-b630bcd5d243f7a2aed0426877eaed92]
 
 In regulation 2(3) of the Conservation of Salmon (Annual Close Time and Catch and Release) (Scotland) Regulations 2014[^f00009] after “line” insert “in inland waters”.
 
@@ -123,7 +123,7 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE 1 — CONSERVATION STATUS AREAS[^key-28a72310b51f6e359b791b28b2eb9181]
+## SCHEDULE 1 — CONSERVATION STATUS AREAS[^c-28a72310b51f6e359b791b28b2eb9181]
 
 Regulations 2(1), (2) and4(1)
 
@@ -314,7 +314,7 @@ Regulations 2(1), (2) and4(1)
 </tbody>
 </table>
 
-## Schedule 2 — INLAND WATERS: PROHIBITION ON RETAINING SALMON[^key-9c3ca31d9ba209e604612c4065bf668d]
+## Schedule 2 — INLAND WATERS: PROHIBITION ON RETAINING SALMON[^c-9c3ca31d9ba209e604612c4065bf668d]
 
 Regulation 3(2)
 
@@ -446,31 +446,31 @@ A Business Regulatory Impact Assessment in relation to these Regulations has bee
 
 [^f00001]: Footnote: [2003 asp 15](https://www.legislation.gov.uk/asp/2003/15). Section 38 was amended by the Aquaculture and Fisheries (Scotland) Act [2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7).
 
-[^key-cfda837544deedda790c6a7e4c6ede19]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/115/regulation/1) in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/1)
+[^c-cfda837544deedda790c6a7e4c6ede19]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/115/regulation/1) in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/1)
 
-[^key-249e79210a6851298441f2889f83d3c9]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/2) omitted (1.4.2018) by virtue of [The Conservation of Salmon (Scotland) Amendment Regulations 2018 (S.S.I. 2018/37)](https://www.legislation.gov.uk/ssi/2018/37), [regs. 1](https://www.legislation.gov.uk/ssi/2018/37/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2018/37/regulation/2/2/a)
+[^c-249e79210a6851298441f2889f83d3c9]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/2) omitted (1.4.2018) by virtue of [The Conservation of Salmon (Scotland) Amendment Regulations 2018 (S.S.I. 2018/37)](https://www.legislation.gov.uk/ssi/2018/37), [regs. 1](https://www.legislation.gov.uk/ssi/2018/37/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2018/37/regulation/2/2/a)
 
 [^f00002]: Footnote: The National Grid is the map reference system used on all Ordnance Survey maps to identify the position of a feature. Further information may be found at www.ordnancesurvey.co.uk.
 
-[^key-5afd86815c28a6cd6a9ebfb3cad3434b]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/2) inserted (1.4.2018) by [The Conservation of Salmon (Scotland) Amendment Regulations 2018 (S.S.I. 2018/37)](https://www.legislation.gov.uk/ssi/2018/37), [regs. 1](https://www.legislation.gov.uk/ssi/2018/37/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2018/37/regulation/2/2/b)
+[^c-5afd86815c28a6cd6a9ebfb3cad3434b]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/2) inserted (1.4.2018) by [The Conservation of Salmon (Scotland) Amendment Regulations 2018 (S.S.I. 2018/37)](https://www.legislation.gov.uk/ssi/2018/37), [regs. 1](https://www.legislation.gov.uk/ssi/2018/37/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2018/37/regulation/2/2/b)
 
-[^key-e0ad709c21b0c4bd84fcb5744ff3f5d0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/115/regulation/2) in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/1)
+[^c-e0ad709c21b0c4bd84fcb5744ff3f5d0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/115/regulation/2) in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/1)
 
 [^f00003]: Footnote: The conservation objectives for special areas of conservation in Scotland may be viewed at https://gateway.snh.gov.uk/sitelink.
 
-[^key-d2cf22059094b4e04491c6934bea4f74]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/ssi/2016/115/regulation/2/3/b) omitted (31.12.2020) by virtue of [The Conservation (Natural Habitats, &c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [regs. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [27(2)](https://www.legislation.gov.uk/ssi/2019/113/regulation/27/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d2cf22059094b4e04491c6934bea4f74]: Textual amendment: Words in [reg. 2(3)(b)](https://www.legislation.gov.uk/ssi/2016/115/regulation/2/3/b) omitted (31.12.2020) by virtue of [The Conservation (Natural Habitats, &c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [regs. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [27(2)](https://www.legislation.gov.uk/ssi/2019/113/regulation/27/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716) to which there are amendments not relevant to these Regulations.
 
-[^key-95e45b3b318a43fdb9fe764ace02155b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/115/regulation/3) in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/1)
+[^c-95e45b3b318a43fdb9fe764ace02155b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/115/regulation/3) in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/1)
 
-[^key-6776fada9efa976f88fc58a9fa800ac4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/3/1) substituted (1.4.2018) by [The Conservation of Salmon (Scotland) Amendment Regulations 2018 (S.S.I. 2018/37)](https://www.legislation.gov.uk/ssi/2018/37), [regs. 1](https://www.legislation.gov.uk/ssi/2018/37/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2018/37/regulation/2/3)
+[^c-6776fada9efa976f88fc58a9fa800ac4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/3/1) substituted (1.4.2018) by [The Conservation of Salmon (Scotland) Amendment Regulations 2018 (S.S.I. 2018/37)](https://www.legislation.gov.uk/ssi/2018/37), [regs. 1](https://www.legislation.gov.uk/ssi/2018/37/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2018/37/regulation/2/3)
 
-[^key-d8664c1a06bb2d6693f26164c4533de6]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2016/115/regulation/3/2) substituted (1.4.2017) by [The Conservation of Salmon (Scotland) Amendment Regulations 2016 (S.S.I. 2016/392)](https://www.legislation.gov.uk/ssi/2016/392), [regs. 1](https://www.legislation.gov.uk/ssi/2016/392/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2016/392/regulation/2/2/a)
+[^c-d8664c1a06bb2d6693f26164c4533de6]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2016/115/regulation/3/2) substituted (1.4.2017) by [The Conservation of Salmon (Scotland) Amendment Regulations 2016 (S.S.I. 2016/392)](https://www.legislation.gov.uk/ssi/2016/392), [regs. 1](https://www.legislation.gov.uk/ssi/2016/392/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2016/392/regulation/2/2/a)
 
-[^key-943b0b0ed876a5cced44fba90efe5d40]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2016/115/regulation/3/2) substituted (1.4.2019) by [The Conservation of Salmon (Scotland) Amendment Regulations 2019 (S.S.I. 2019/56)](https://www.legislation.gov.uk/ssi/2019/56), [regs. 1](https://www.legislation.gov.uk/ssi/2019/56/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/56/regulation/2/2)
+[^c-943b0b0ed876a5cced44fba90efe5d40]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/ssi/2016/115/regulation/3/2) substituted (1.4.2019) by [The Conservation of Salmon (Scotland) Amendment Regulations 2019 (S.S.I. 2019/56)](https://www.legislation.gov.uk/ssi/2019/56), [regs. 1](https://www.legislation.gov.uk/ssi/2019/56/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/56/regulation/2/2)
 
-[^key-eae51b33c20ecf67204caad048a61db4]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/ssi/2016/115/regulation/3/2A) omitted (1.4.2019) by virtue of [The Conservation of Salmon (Scotland) Amendment Regulations 2019 (S.S.I. 2019/56)](https://www.legislation.gov.uk/ssi/2019/56), [regs. 1](https://www.legislation.gov.uk/ssi/2019/56/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/56/regulation/2/3)
+[^c-eae51b33c20ecf67204caad048a61db4]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/ssi/2016/115/regulation/3/2A) omitted (1.4.2019) by virtue of [The Conservation of Salmon (Scotland) Amendment Regulations 2019 (S.S.I. 2019/56)](https://www.legislation.gov.uk/ssi/2019/56), [regs. 1](https://www.legislation.gov.uk/ssi/2019/56/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/56/regulation/2/3)
 
 [^f00006]: Footnote: [1975, c.51](https://www.legislation.gov.uk/ukpga/1975/51). There are amendments to section 25 which are not relevant to these Regulations. By virtue of article 6(4) of the Scotland Act 1998 (Border Rivers) Order 1999 ([S.I. 1999/1746](https://www.legislation.gov.uk/uksi/1999/1746)) the Environment Agency authorises fishing in that part of the Lower Esk lying on or towards the south of a line representing the *medium filum*, at low water, of the main channel of the River Esk and of the main channel of the River Eden downstream of its confluence at low water with the main channel of the River Esk, wherever that may be from time to time. Article 6(1) provides that no person shall fish for or take salmon or sea trout in the Lower Esk unless under a licence granted by the Environment Agency or where that person has a legal right to fish for salmon or written permission from a person having such a right.
 
@@ -478,12 +478,12 @@ A Business Regulatory Impact Assessment in relation to these Regulations has bee
 
 [^f00008]: Footnote: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-9724e59db1f07e3828a7dfb423642032]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/115/regulation/4) in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/1)
+[^c-9724e59db1f07e3828a7dfb423642032]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/115/regulation/4) in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/1)
 
-[^key-b630bcd5d243f7a2aed0426877eaed92]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/115/regulation/5) in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/1)
+[^c-b630bcd5d243f7a2aed0426877eaed92]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/115/regulation/5) in force at 31.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/115/regulation/1/1)
 
 [^f00009]: Footnote: [S.S.I. 2014/327](https://www.legislation.gov.uk/ssi/2014/327) as amended by [S.S.I. 2014/357](https://www.legislation.gov.uk/ssi/2014/357).
 
-[^key-28a72310b51f6e359b791b28b2eb9181]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/115/schedule/1) substituted (1.4.2018) by [The Conservation of Salmon (Scotland) Amendment Regulations 2018 (S.S.I. 2018/37)](https://www.legislation.gov.uk/ssi/2018/37), [reg. 1](https://www.legislation.gov.uk/ssi/2018/37/regulation/1), [sch. 1](https://www.legislation.gov.uk/ssi/2018/37/schedule/1)
+[^c-28a72310b51f6e359b791b28b2eb9181]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/115/schedule/1) substituted (1.4.2018) by [The Conservation of Salmon (Scotland) Amendment Regulations 2018 (S.S.I. 2018/37)](https://www.legislation.gov.uk/ssi/2018/37), [reg. 1](https://www.legislation.gov.uk/ssi/2018/37/regulation/1), [sch. 1](https://www.legislation.gov.uk/ssi/2018/37/schedule/1)
 
-[^key-9c3ca31d9ba209e604612c4065bf668d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/115/schedule/2) substituted (1.4.2026) by [The Conservation of Salmon (Scotland) Amendment Regulations 2025 (S.S.I. 2025/390)](https://www.legislation.gov.uk/ssi/2025/390), [reg. 1](https://www.legislation.gov.uk/ssi/2025/390/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2025/390/schedule)
+[^c-9c3ca31d9ba209e604612c4065bf668d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/115/schedule/2) substituted (1.4.2026) by [The Conservation of Salmon (Scotland) Amendment Regulations 2025 (S.S.I. 2025/390)](https://www.legislation.gov.uk/ssi/2025/390), [reg. 1](https://www.legislation.gov.uk/ssi/2025/390/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2025/390/schedule)

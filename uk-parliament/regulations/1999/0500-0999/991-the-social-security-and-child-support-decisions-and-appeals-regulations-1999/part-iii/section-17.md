@@ -20,37 +20,37 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-aa7fdfd431c1c81325c172e07ebba6fd] This regulation applies where the Secretary of State requires information or evidence for a determination whether a decision awarding a relevant benefit should be— *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+(1)[^c-aa7fdfd431c1c81325c172e07ebba6fd] This regulation applies where the Secretary of State requires information or evidence for a determination whether a decision awarding a relevant benefit should be— *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-- (a) revised under section 9; or *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
-- (b) superseded under section 10. *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+- (a) revised under section 9; or *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
+- (b) superseded under section 10. *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-(2) For the purposes of paragraph (1), the following persons must satisfy the requirements of paragraph (4)— *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+(2) For the purposes of paragraph (1), the following persons must satisfy the requirements of paragraph (4)— *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-- (a) a person in respect of whom payment of a benefit has been suspended in the circumstances prescribed in regulation 16(3)(a); *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
-- (b) a person who has made an application for a decision of the Secretary of State to be revised or superseded; *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
-- (c)[^key-caa8b0d0eb3bb482806e6b59b615cb78] a person from whom the Secretary of State requires information or evidence under regulation 32(1) of the Claims and Payments Regulations; *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
-- (ca (affected by repeal, see note))[^key-aa7fdfd431c1c81325c172e07ebba6fd] a person from whom the Secretary of State requires documents, certificates or other evidence under regulation 24(5) or (5A) of the Jobseeker’s Allowance Regulations; *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
-- (d) a person who qualifies for income support by virtue of paragraph 7 of Schedule 1B to the Income Support Regulations *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd] [^c1661858] ;
-- (e) a person whose entitlement to benefit is conditional upon his being, or being treated as, incapable of work. *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
-- (f)[^key-470f27bbf4f5f2cecfc449fa85b6754d] a person whose entitlement to an employment and support allowance is conditional on his having, or being treated as having, limited capability for work. *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+- (a) a person in respect of whom payment of a benefit has been suspended in the circumstances prescribed in regulation 16(3)(a); *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
+- (b) a person who has made an application for a decision of the Secretary of State to be revised or superseded; *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
+- (c)[^c-caa8b0d0eb3bb482806e6b59b615cb78] a person from whom the Secretary of State requires information or evidence under regulation 32(1) of the Claims and Payments Regulations; *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
+- (ca (affected by repeal, see note))[^c-aa7fdfd431c1c81325c172e07ebba6fd] a person from whom the Secretary of State requires documents, certificates or other evidence under regulation 24(5) or (5A) of the Jobseeker’s Allowance Regulations; *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
+- (d) a person who qualifies for income support by virtue of paragraph 7 of Schedule 1B to the Income Support Regulations *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd] [^c1661858] ;
+- (e) a person whose entitlement to benefit is conditional upon his being, or being treated as, incapable of work. *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
+- (f)[^c-470f27bbf4f5f2cecfc449fa85b6754d] a person whose entitlement to an employment and support allowance is conditional on his having, or being treated as having, limited capability for work. *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-(3) The Secretary of State shall notify any person to whom paragraph (2) refers of the requirements of this regulation. *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+(3) The Secretary of State shall notify any person to whom paragraph (2) refers of the requirements of this regulation. *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-(4) A person to whom paragraph (2) refers must either— *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+(4) A person to whom paragraph (2) refers must either— *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-- (a) supply the information or evidence within— *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
-  - (i)[^key-0535eb15afe049269e3170bda0f9d5a4] a period of 14 days beginning with the date on which the notification under paragraph (3) was sent to him or such longer period as the Secretary of State allows in that notification; or *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
-  - (ii (affected by repeal, see note))[^key-aa7fdfd431c1c81325c172e07ebba6fd] such longer period as he satisfies the Secretary of State is necessary in order to enable him to comply with the requirement; or *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
-- (b) satisfy the Secretary of State within the *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd] period applicable under[^key-adfe51acd817813fc825d45be8ce0e10] *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd] sub-paragraph (a)(i) that either— *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
-  - (i) the information or evidence required of him does not exist; or *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
-  - (ii (affected by repeal, see note))[^key-aa7fdfd431c1c81325c172e07ebba6fd] that it is not possible for him to obtain it. *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+- (a) supply the information or evidence within— *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
+  - (i)[^c-0535eb15afe049269e3170bda0f9d5a4] a period of 14 days beginning with the date on which the notification under paragraph (3) was sent to him or such longer period as the Secretary of State allows in that notification; or *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
+  - (ii (affected by repeal, see note))[^c-aa7fdfd431c1c81325c172e07ebba6fd] such longer period as he satisfies the Secretary of State is necessary in order to enable him to comply with the requirement; or *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
+- (b) satisfy the Secretary of State within the *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd] period applicable under[^c-adfe51acd817813fc825d45be8ce0e10] *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd] sub-paragraph (a)(i) that either— *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
+  - (i) the information or evidence required of him does not exist; or *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
+  - (ii (affected by repeal, see note))[^c-aa7fdfd431c1c81325c172e07ebba6fd] that it is not possible for him to obtain it. *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-(4A)[^key-70df8f1e9f2041e7a111409eb05ba974] In relation to a person to whom paragraph (2)(ca) refers, paragraph (4)(a)(i) has effect as if for “14 days” there were substituted “7 days”. *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+(4A)[^c-70df8f1e9f2041e7a111409eb05ba974] In relation to a person to whom paragraph (2)(ca) refers, paragraph (4)(a)(i) has effect as if for “14 days” there were substituted “7 days”. *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-(5) The Secretary of State may suspend the payment of a relevant benefit, in whole or in part, to any person to whom paragraph (2)(b) to *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd] (f)[^key-7e5e4256925ca78ac93632f3579b4559] *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd] applies who fails to satisfy the requirements of paragraph (4). *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd]
+(5) The Secretary of State may suspend the payment of a relevant benefit, in whole or in part, to any person to whom paragraph (2)(b) to *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd] (f)[^c-7e5e4256925ca78ac93632f3579b4559] *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd] applies who fails to satisfy the requirements of paragraph (4). *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd]
 
-(6) In this regulation, “evidence” includes evidence which a person is required to provide in accordance with regulation 2 of the Social Security (Medical Evidence) Regulations 1976 *(affected by repeal, see note)*[^key-aa7fdfd431c1c81325c172e07ebba6fd] [^c1661859] .
+(6) In this regulation, “evidence” includes evidence which a person is required to provide in accordance with regulation 2 of the Social Security (Medical Evidence) Regulations 1976 *(affected by repeal, see note)*[^c-aa7fdfd431c1c81325c172e07ebba6fd] [^c1661859] .
 
 (1) This regulation applies where the Board require information or evidence for a determination whether a decision awarding tax credit should be—
 
@@ -85,20 +85,20 @@ summary: ''
 
 ## Annotations
 
-[^key-aa7fdfd431c1c81325c172e07ebba6fd]: Textual amendment: Regs. 17 18 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Decisions and Appeals) (Amendment) Regulations 1999 (S.I. 1999/2570)](https://www.legislation.gov.uk/uksi/1999/2570) , [regs. 1](https://www.legislation.gov.uk/uksi/1999/2570/regulation/1) , [13](https://www.legislation.gov.uk/uksi/1999/2570/regulation/13)
+[^c-aa7fdfd431c1c81325c172e07ebba6fd]: Textual amendment: Regs. 17 18 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits (Decisions and Appeals) (Amendment) Regulations 1999 (S.I. 1999/2570)](https://www.legislation.gov.uk/uksi/1999/2570) , [regs. 1](https://www.legislation.gov.uk/uksi/1999/2570/regulation/1) , [13](https://www.legislation.gov.uk/uksi/1999/2570/regulation/13)
 
-[^key-caa8b0d0eb3bb482806e6b59b615cb78]: Textual amendment: Reg. 17(2)(c)(ca) substituted for reg. 17(2)(c) (17.4.2012) by [The Social Security (Suspension of Payment of Benefits and Miscellaneous Amendments) Regulations 2012 (S.I. 2012/824)](https://www.legislation.gov.uk/uksi/2012/824), [regs. 1](https://www.legislation.gov.uk/uksi/2012/824/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2012/824/regulation/4/3/a)
+[^c-caa8b0d0eb3bb482806e6b59b615cb78]: Textual amendment: Reg. 17(2)(c)(ca) substituted for reg. 17(2)(c) (17.4.2012) by [The Social Security (Suspension of Payment of Benefits and Miscellaneous Amendments) Regulations 2012 (S.I. 2012/824)](https://www.legislation.gov.uk/uksi/2012/824), [regs. 1](https://www.legislation.gov.uk/uksi/2012/824/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2012/824/regulation/4/3/a)
 
 [^c1661858]: Marginal citation: Schedule 1B was inserted by [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206) .
 
-[^key-470f27bbf4f5f2cecfc449fa85b6754d]: Textual amendment: Reg. 17(2)(f) added (27.7.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554) , [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/a) , [40](https://www.legislation.gov.uk/uksi/2008/1554/regulation/40)
+[^c-470f27bbf4f5f2cecfc449fa85b6754d]: Textual amendment: Reg. 17(2)(f) added (27.7.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554) , [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/a) , [40](https://www.legislation.gov.uk/uksi/2008/1554/regulation/40)
 
-[^key-0535eb15afe049269e3170bda0f9d5a4]: Textual amendment: Reg. 17(4)(a)(i) substituted (17.4.2012) by [The Social Security (Suspension of Payment of Benefits and Miscellaneous Amendments) Regulations 2012 (S.I. 2012/824)](https://www.legislation.gov.uk/uksi/2012/824), [regs. 1](https://www.legislation.gov.uk/uksi/2012/824/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2012/824/regulation/4/3/b)
+[^c-0535eb15afe049269e3170bda0f9d5a4]: Textual amendment: Reg. 17(4)(a)(i) substituted (17.4.2012) by [The Social Security (Suspension of Payment of Benefits and Miscellaneous Amendments) Regulations 2012 (S.I. 2012/824)](https://www.legislation.gov.uk/uksi/2012/824), [regs. 1](https://www.legislation.gov.uk/uksi/2012/824/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2012/824/regulation/4/3/b)
 
-[^key-adfe51acd817813fc825d45be8ce0e10]: Textual amendment: Words in reg. 17(4)(b) substituted (17.4.2012) by [The Social Security (Suspension of Payment of Benefits and Miscellaneous Amendments) Regulations 2012 (S.I. 2012/824)](https://www.legislation.gov.uk/uksi/2012/824), [regs. 1](https://www.legislation.gov.uk/uksi/2012/824/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2012/824/regulation/4/3/c)
+[^c-adfe51acd817813fc825d45be8ce0e10]: Textual amendment: Words in reg. 17(4)(b) substituted (17.4.2012) by [The Social Security (Suspension of Payment of Benefits and Miscellaneous Amendments) Regulations 2012 (S.I. 2012/824)](https://www.legislation.gov.uk/uksi/2012/824), [regs. 1](https://www.legislation.gov.uk/uksi/2012/824/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2012/824/regulation/4/3/c)
 
-[^key-70df8f1e9f2041e7a111409eb05ba974]: Textual amendment: Reg. 17(4A) inserted (17.4.2012) by [The Social Security (Suspension of Payment of Benefits and Miscellaneous Amendments) Regulations 2012 (S.I. 2012/824)](https://www.legislation.gov.uk/uksi/2012/824), [regs. 1](https://www.legislation.gov.uk/uksi/2012/824/regulation/1), [4(3)(d)](https://www.legislation.gov.uk/uksi/2012/824/regulation/4/3/d)
+[^c-70df8f1e9f2041e7a111409eb05ba974]: Textual amendment: Reg. 17(4A) inserted (17.4.2012) by [The Social Security (Suspension of Payment of Benefits and Miscellaneous Amendments) Regulations 2012 (S.I. 2012/824)](https://www.legislation.gov.uk/uksi/2012/824), [regs. 1](https://www.legislation.gov.uk/uksi/2012/824/regulation/1), [4(3)(d)](https://www.legislation.gov.uk/uksi/2012/824/regulation/4/3/d)
 
-[^key-7e5e4256925ca78ac93632f3579b4559]: Textual amendment: Word in reg. 17(5) substituted (28.6.2010) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2010/840/regulation/7/6)
+[^c-7e5e4256925ca78ac93632f3579b4559]: Textual amendment: Word in reg. 17(5) substituted (28.6.2010) by [Social Security (Miscellaneous Amendments) (No.3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2010/840/regulation/7/6)
 
 [^c1661859]: Marginal citation: [S.I. 1976/615](https://www.legislation.gov.uk/uksi/1976/615) ; relevant amending instruments are [S.I. 1982/699](https://www.legislation.gov.uk/uksi/1982/699) , 1992/247 and 1994/2975.

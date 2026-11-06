@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 6 — CONSEQUENTIAL AND SUPPLEMENTARY AMENDMENTS[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+## SCHEDULE 6 — CONSEQUENTIAL AND SUPPLEMENTARY AMENDMENTS[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Regulation 43
 
-### 1. Firearms Act 1968[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 1. Firearms Act 1968[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Slaughterhouses Act 1974[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 2. Slaughterhouses Act 1974[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Animals (Scientific Procedures) Act 1986[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 3. Animals (Scientific Procedures) Act 1986[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. The Meat (Official Controls Charges) (England) Regulations 2009[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 4. The Meat (Official Controls Charges) (England) Regulations 2009[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Gangmasters Licensing (Exclusions) Regulations 2013[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 5. Gangmasters Licensing (Exclusions) Regulations 2013[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eaeb0b05bdec91f07b9245f3afc817bd]: Textual amendment: Regulations revoked (19.5.2014) by [The Welfare of Animals at the Time of Killing (Revocation) Regulations 2014 (S.I. 2014/1258)](https://www.legislation.gov.uk/uksi/2014/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1258/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2014/1258/regulation/2)
+[^c-eaeb0b05bdec91f07b9245f3afc817bd]: Textual amendment: Regulations revoked (19.5.2014) by [The Welfare of Animals at the Time of Killing (Revocation) Regulations 2014 (S.I. 2014/1258)](https://www.legislation.gov.uk/uksi/2014/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1258/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2014/1258/regulation/2)

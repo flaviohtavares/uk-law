@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Power to retain seized property: Northern Ireland[^key-d4f8dafdf73c8127d09ebe004cd46203]
+## 54. Power to retain seized property: Northern Ireland[^c-d4f8dafdf73c8127d09ebe004cd46203]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4f8dafdf73c8127d09ebe004cd46203]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2009/26/section/54) in force at 1.3.2016 by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/147/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/147/article/4))
+[^c-d4f8dafdf73c8127d09ebe004cd46203]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2009/26/section/54) in force at 1.3.2016 by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/147/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/147/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356. Action following review under s. 355[^key-f6743584875e6e9b357a63aa27b0a09e]
+## 356. Action following review under s. 355[^c-f6743584875e6e9b357a63aa27b0a09e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6743584875e6e9b357a63aa27b0a09e]: Textual amendment: S. 356 omitted (17.10.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/2024/15/section/43/4), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/c) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/5/1))
+[^c-f6743584875e6e9b357a63aa27b0a09e]: Textual amendment: S. 356 omitted (17.10.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/2024/15/section/43/4), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/c) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/5/1))

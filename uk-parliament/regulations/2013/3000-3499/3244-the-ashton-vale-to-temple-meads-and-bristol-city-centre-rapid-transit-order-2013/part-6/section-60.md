@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. For protection of railway interests[^key-9ebacd54c125bd9eda015bfbc921478e]
+## 60. For protection of railway interests[^c-9ebacd54c125bd9eda015bfbc921478e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 11 (for protection of railway interests) have effect.
 
 ## Annotations
 
-[^key-9ebacd54c125bd9eda015bfbc921478e]: Commencement: Art. 60 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-9ebacd54c125bd9eda015bfbc921478e]: Commencement: Art. 60 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

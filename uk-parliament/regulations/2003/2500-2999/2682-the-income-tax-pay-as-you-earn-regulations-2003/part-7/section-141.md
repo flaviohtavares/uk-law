@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2448598fe9622319073a089ae12b9fac] In any case in which HMRC are of the opinion that deduction of tax by reference to the tax tables is impracticable, the direct collection procedure in regulation 142 applies to any PAYE income, unless HMRC makes special arrangements for the collection of tax in respect of that PAYE income.
+(1)[^c-2448598fe9622319073a089ae12b9fac] In any case in which HMRC are of the opinion that deduction of tax by reference to the tax tables is impracticable, the direct collection procedure in regulation 142 applies to any PAYE income, unless HMRC makes special arrangements for the collection of tax in respect of that PAYE income.
 
 (2) A special arrangement does not apply to PAYE income of an employer’s employees if—
 
 - (a) the arrangement has not been agreed with the employer, and
 - (b) the employer does not proceed in accordance with the arrangement.
 
-(3)[^key-70ad81ee4dd9b93f967fe64590b15c23] A special arrangement must be—
+(3)[^c-70ad81ee4dd9b93f967fe64590b15c23] A special arrangement must be—
 
 - (a) in writing, and
 - (b) signed and dated by the employer and HMRC.
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2448598fe9622319073a089ae12b9fac]: Textual amendment: [Reg. 141(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/141/1) substituted (6.4.2020) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2020 (S.I. 2020/88)](https://www.legislation.gov.uk/uksi/2020/88), [regs. 1](https://www.legislation.gov.uk/uksi/2020/88/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/88/regulation/2/2)
+[^c-2448598fe9622319073a089ae12b9fac]: Textual amendment: [Reg. 141(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/141/1) substituted (6.4.2020) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2020 (S.I. 2020/88)](https://www.legislation.gov.uk/uksi/2020/88), [regs. 1](https://www.legislation.gov.uk/uksi/2020/88/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/88/regulation/2/2)
 
-[^key-70ad81ee4dd9b93f967fe64590b15c23]: Textual amendment: [Reg. 141(3)-(11)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/141/3) inserted (6.4.2020) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2020 (S.I. 2020/88)](https://www.legislation.gov.uk/uksi/2020/88), [regs. 1](https://www.legislation.gov.uk/uksi/2020/88/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/88/regulation/2/3)
+[^c-70ad81ee4dd9b93f967fe64590b15c23]: Textual amendment: [Reg. 141(3)-(11)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/141/3) inserted (6.4.2020) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2020 (S.I. 2020/88)](https://www.legislation.gov.uk/uksi/2020/88), [regs. 1](https://www.legislation.gov.uk/uksi/2020/88/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/88/regulation/2/3)

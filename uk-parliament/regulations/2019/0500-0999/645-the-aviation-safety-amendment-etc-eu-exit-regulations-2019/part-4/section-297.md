@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 297. Amendment of Article 8 of [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^key-10c66842df6cb9d3ae8b1653afdd4bff]
+## 297. Amendment of Article 8 of [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^c-10c66842df6cb9d3ae8b1653afdd4bff]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10c66842df6cb9d3ae8b1653afdd4bff]: Textual amendment: Reg. 297 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [30](https://www.legislation.gov.uk/uksi/2020/1116/regulation/30)
+[^c-10c66842df6cb9d3ae8b1653afdd4bff]: Textual amendment: Reg. 297 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [30](https://www.legislation.gov.uk/uksi/2020/1116/regulation/30)

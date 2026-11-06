@@ -33,7 +33,7 @@ An Act to consolidate as regards Scotland certain enactments relating to the con
 
 \[8th November 1995\]
 
-[^c21025141][^c3075161][^c3075171][^c3075181]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-084d28f6c27fcf1cea6e52d9fad68c5b][^key-0e8821a8cc610bbb05551d3cc5021bcc]
+[^c21025141][^c3075161][^c3075171][^c3075181]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-084d28f6c27fcf1cea6e52d9fad68c5b][^c-0e8821a8cc610bbb05551d3cc5021bcc]
 
 ## PART I (affected by repeal, see note) — Confiscation of the Proceeds of Crime[^c3075191][^c21031521]
 
@@ -895,18 +895,18 @@ it shall make an order under subsection (2) below.
 
 ### 27. Appeal against court decision under section 25(1) or 26(1).
 
-(1) An appeal shall lie to the appropriate Appeal Court[^key-dfa2947f41244f3cf197edbb46699414] at the instance of—
+(1) An appeal shall lie to the appropriate Appeal Court[^c-dfa2947f41244f3cf197edbb46699414] at the instance of—
 
 - (a) the applicant against the refusal;
 - (b) the prosecutor against the granting,
 
-of an application under section 25(1) or 26(1) of this Act, and the appropriate Appeal Court[^key-08ed2e4c490a76cf0bde171b74e78605] in determining such an appeal may make such order as could have been made by the court on an application under that section.
+of an application under section 25(1) or 26(1) of this Act, and the appropriate Appeal Court[^c-08ed2e4c490a76cf0bde171b74e78605] in determining such an appeal may make such order as could have been made by the court on an application under that section.
 
 (2) The procedure in an appeal under this section shall be the same as the procedure in an appeal against sentence.
 
-(3) Where a suspended forfeiture order relating to heritable property situated in Scotland is recalled on appeal to the appropriate Appeal Court[^key-b548153829890e59fcc9709db15c67b5], the prosecutor shall, as soon as may be after the appeal has been disposed of, cause a certified copy of the interlocutor of the Court to be recorded in the General Register of Sasines or, as the case may be, registered in the Land Register of Scotland.
+(3) Where a suspended forfeiture order relating to heritable property situated in Scotland is recalled on appeal to the appropriate Appeal Court[^c-b548153829890e59fcc9709db15c67b5], the prosecutor shall, as soon as may be after the appeal has been disposed of, cause a certified copy of the interlocutor of the Court to be recorded in the General Register of Sasines or, as the case may be, registered in the Land Register of Scotland.
 
-(4)[^key-fd2050be9a0a1deecb4ebd0a8b48145f] In this section, “appropriate Appeal Court” means—
+(4)[^c-fd2050be9a0a1deecb4ebd0a8b48145f] In this section, “appropriate Appeal Court” means—
 
 - (a) in the case of an appeal under this section against the refusal or grant of an application in summary proceedings, the Sheriff Appeal Court; and
 - (b) in the case of an appeal under this section against the refusal or grant of an application in proceedings on indictment, the High Court of Justiciary.
@@ -975,7 +975,7 @@ seize that property.
 
 - (a) the trial is deserted*simpliciter*;
 - (b) the accused is acquitted or, under section 65 or 147 of the 1995 Act, discharged or liberated;
-- (c) the High Court of Justiciary or, as the case may be, the Sheriff Appeal Court or[^key-1cc58f17c9bb204a2294f16b85376392] the sheriff sentences or otherwise deals with him without making a suspended forfeiture order;
+- (c) the High Court of Justiciary or, as the case may be, the Sheriff Appeal Court or[^c-1cc58f17c9bb204a2294f16b85376392] the sheriff sentences or otherwise deals with him without making a suspended forfeiture order;
 - (d) his conviction is quashed;
 - (e) a suspended forfeiture order made in the proceedings is recalled or varied so as to exclude from forfeiture any property to which the restraint order relates; or
 - (f) the property, or part of the property, to which the restraint order relates is forfeited.
@@ -1396,7 +1396,7 @@ Provided that completion of title in A’s name shall not validate by accretion 
 
 - (j) may sell, purchase or exchange property or discharge any security for an obligation due to A:
 
-Provided that it shall be incompetent for the administrator or an associate of his (within the meaning of section 229 of the Bankruptcy (Scotland) Act 2016[^key-98a4529af10a8f17065694cad29e6d97] ) to purchase any of A’s property in pursuance of this paragraph;
+Provided that it shall be incompetent for the administrator or an associate of his (within the meaning of section 229 of the Bankruptcy (Scotland) Act 2016[^c-98a4529af10a8f17065694cad29e6d97] ) to purchase any of A’s property in pursuance of this paragraph;
 
 - (k) may claim, vote and draw dividends in the sequestration of the estate (or bankruptcy or liquidation) of a debtor of A and may accede to a voluntary trust deed for creditors of such a debtor;
 - (l) may discharge any of his functions through agents or employees;
@@ -1609,7 +1609,7 @@ is excluded from the bankrupt’s estate for the purposes of Part IX of the [^c3
 
 ### Insolvency practitioners dealing with property subject to restraint order
 
-**5.** (1) Without prejudice to the generality of any enactment contained in the Insolvency Act 1986 or in the 2016[^key-489694c936d41877eca022021d88623f] Act, where
+**5.** (1) Without prejudice to the generality of any enactment contained in the Insolvency Act 1986 or in the 2016[^c-489694c936d41877eca022021d88623f] Act, where
 
 - (a) any person acting as an insolvency practitioner seizes or disposes of any property in relation to which his functions are, because that property is for the time being subject to a restraint order, not exercisable; and
 - (b) at the time of the seizure or disposal he believes, and has reasonable grounds for believing, that he is entitled (whether in pursuance of a court order or otherwise) to seize or dispose of that property,
@@ -1623,18 +1623,18 @@ he shall not be liable to any person in respect of any loss or damage resulting 
 
 shall be entitled (whether or not he has seized or disposed of that property so as to have a lien under sub-paragraph (1) above) to payment of those expenses under paragraph 4(2) or (4)(a) of Schedule 1 to this Act.
 
-(3) In the foregoing provisions of this paragraph, the expression “acting as an insolvency practitioner” shall be construed in accordance with section 388 (interpretation) of the said Act of 1986 except that for the purposes of such construction [^key-a9fa0825af0b29f6eb16fd5b1f9ff657]... subsection (5) of that section shall be disregarded; and the expression shall also comprehend the official receiver acting as receiver or manager of the property.
+(3) In the foregoing provisions of this paragraph, the expression “acting as an insolvency practitioner” shall be construed in accordance with section 388 (interpretation) of the said Act of 1986 except that for the purposes of such construction [^c-a9fa0825af0b29f6eb16fd5b1f9ff657]... subsection (5) of that section shall be disregarded; and the expression shall also comprehend the official receiver acting as receiver or manager of the property.
 
 ### Interpretation
 
-**6.** (1) In this Schedule “**the 2016[^key-a43d1690a542f9ad2b03fb3e018e09c0] Act**” means the [^c3076291]Bankruptcy (Scotland) Act 2016 .
+**6.** (1) In this Schedule “**the 2016[^c-a43d1690a542f9ad2b03fb3e018e09c0] Act**” means the [^c3076291]Bankruptcy (Scotland) Act 2016 .
 
 (2) References in this Schedule to the conclusion of proceedings, except for the purposes of paragraph 2(5) above, shall be construed—
 
 - (a) [^c4892691]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) as regards property subject to a restraint order under section 28(1)(b) of this Act, in accordance with section 30(5) of this Act.
 
-(3) References in this Schedule to property held by a person include a reference to property vested in the trustee (or interim trustee)[^key-f21a4c8097fe5de8f797b27bc1a529f7] in his sequestration or in his trustee in bankruptcy or liquidation.
+(3) References in this Schedule to property held by a person include a reference to property vested in the trustee (or interim trustee)[^c-f21a4c8097fe5de8f797b27bc1a529f7] in his sequestration or in his trustee in bankruptcy or liquidation.
 
 ### TABLE OF DERIVATIONS
 
@@ -1820,9 +1820,9 @@ Acts of Parliament
 
 [^c3075181]: Extent: For the extent of this Act see [s. 50](https://www.legislation.gov.uk/ukpga/1995/43/section/50) and the commentary in ss. 16, 20, 28-31, 33, 34, Sch. 1 and Sch. 1 paras. 1, 2, 4, 12
 
-[^key-084d28f6c27fcf1cea6e52d9fad68c5b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/43) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-084d28f6c27fcf1cea6e52d9fad68c5b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/43) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-0e8821a8cc610bbb05551d3cc5021bcc]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-0e8821a8cc610bbb05551d3cc5021bcc]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
 [^c3075191]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1995/43/part/I) (ss. 1-20) excluded (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 4](https://www.legislation.gov.uk/ukpga/1995/40/section/4), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 3 Pt. II para. 15(1)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/part/II/paragraph/15/1)
 
@@ -1888,13 +1888,13 @@ Acts of Parliament
 
 [^c21030541]: Textual amendment: Words in [s. 26(9)](https://www.legislation.gov.uk/ukpga/1995/43/section/26/9) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 14(2)](https://www.legislation.gov.uk/asp/2010/13/section/14/2), [206](https://www.legislation.gov.uk/asp/2010/13/section/206), [Sch. 2 para. 40(3)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/40/3); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/413/article/3))
 
-[^key-dfa2947f41244f3cf197edbb46699414]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/1995/43/section/27/1) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/4/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-dfa2947f41244f3cf197edbb46699414]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/1995/43/section/27/1) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/4/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-08ed2e4c490a76cf0bde171b74e78605]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/1995/43/section/27/1) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 4(3)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/4/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-08ed2e4c490a76cf0bde171b74e78605]: Textual amendment: Words in [s. 27(1)](https://www.legislation.gov.uk/ukpga/1995/43/section/27/1) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 4(3)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/4/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-b548153829890e59fcc9709db15c67b5]: Textual amendment: Words in [s. 27(3)](https://www.legislation.gov.uk/ukpga/1995/43/section/27/3) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/4/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-b548153829890e59fcc9709db15c67b5]: Textual amendment: Words in [s. 27(3)](https://www.legislation.gov.uk/ukpga/1995/43/section/27/3) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/4/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-fd2050be9a0a1deecb4ebd0a8b48145f]: Textual amendment: [S. 27(4)](https://www.legislation.gov.uk/ukpga/1995/43/section/27/4) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 4(4)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/4/4) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-fd2050be9a0a1deecb4ebd0a8b48145f]: Textual amendment: [S. 27(4)](https://www.legislation.gov.uk/ukpga/1995/43/section/27/4) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 4(4)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/4/4) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
 [^c21038011]: Modification: [Pt. III](https://www.legislation.gov.uk/ukpga/1995/43/part/III) modified (1.5.1998) by [S.I. 1998/752](https://www.legislation.gov.uk/uksi/1998/752), [art. 3(1)](https://www.legislation.gov.uk/uksi/1998/752/article/3/1)
 
@@ -1918,7 +1918,7 @@ Acts of Parliament
 
 [^c3075621]: Modification: S. 30 extended (E.W.) (17.4.2001) by [S.I. 2001/953](https://www.legislation.gov.uk/uksi/2001/953), [art. 3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2001/953/article/3/4/a/i)
 
-[^key-1cc58f17c9bb204a2294f16b85376392]: Textual amendment: Words in s. 30(5)(c) inserted (S.) (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/2) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-1cc58f17c9bb204a2294f16b85376392]: Textual amendment: Words in s. 30(5)(c) inserted (S.) (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/2) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
 [^c8138331]: Textual amendment: [S. 31(2)](https://www.legislation.gov.uk/ukpga/1995/43/section/31/2) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 456-458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/456), [Sch. 11 para. 28(2)(d)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/28/2/d), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2](https://www.legislation.gov.uk/ssi/2003/210/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (subject to [arts. 3-7](https://www.legislation.gov.uk/ssi/2003/210/article/3))
 
@@ -2044,7 +2044,7 @@ Acts of Parliament
 
 [^c4847531]: Textual amendment: Words in Sch. 1 para. 2(1)(a) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 456-458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/456), [Sch. 11 para. 28(3)(b)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/28/3/b), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2](https://www.legislation.gov.uk/ssi/2003/210/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (subject to [arts. 3-7](https://www.legislation.gov.uk/ssi/2003/210/article/3))
 
-[^key-98a4529af10a8f17065694cad29e6d97]: Textual amendment: Words in [Sch. 1 para. 2(1)(j)](https://www.legislation.gov.uk/ukpga/1995/43/schedule/1/paragraph/2/1/j) substituted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 14](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/14) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-98a4529af10a8f17065694cad29e6d97]: Textual amendment: Words in [Sch. 1 para. 2(1)(j)](https://www.legislation.gov.uk/ukpga/1995/43/schedule/1/paragraph/2/1/j) substituted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 14](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/14) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
 [^c3076041]: Modification: Sch. 1 para. 2(3) extended (E.W.) (17.4.2001) by [S.I. 2001/953](https://www.legislation.gov.uk/uksi/2001/953), [art. 3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2001/953/article/3/4/a/i)
 
@@ -2120,14 +2120,14 @@ Acts of Parliament
 
 [^c3076281]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-489694c936d41877eca022021d88623f]: Textual amendment: Word in [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/ukpga/1995/43/schedule/2/paragraph/5/1) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 14(2)(f)(i)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/14/2/f/i)
+[^c-489694c936d41877eca022021d88623f]: Textual amendment: Word in [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/ukpga/1995/43/schedule/2/paragraph/5/1) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 14(2)(f)(i)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/14/2/f/i)
 
-[^key-a9fa0825af0b29f6eb16fd5b1f9ff657]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/1995/43/schedule/2/paragraph/5/3) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 14(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/14/2/f/ii)
+[^c-a9fa0825af0b29f6eb16fd5b1f9ff657]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/1995/43/schedule/2/paragraph/5/3) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 14(2)(f)(ii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/14/2/f/ii)
 
-[^key-a43d1690a542f9ad2b03fb3e018e09c0]: Textual amendment: Word in Sch. 2 para. 6(1) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 14(2)(g)(i)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/14/2/g/i)
+[^c-a43d1690a542f9ad2b03fb3e018e09c0]: Textual amendment: Word in Sch. 2 para. 6(1) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 14(2)(g)(i)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/14/2/g/i)
 
 [^c3076291]: Marginal citation: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66).
 
 [^c4892691]: Textual amendment: Sch. 2 para. 6(2)(a) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 456-458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/456), [Sch. 11 para. 28(4)(e)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/28/4/e), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2](https://www.legislation.gov.uk/ssi/2003/210/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (subject to [arts. 3-7](https://www.legislation.gov.uk/ssi/2003/210/article/3))
 
-[^key-f21a4c8097fe5de8f797b27bc1a529f7]: Textual amendment: Words in Sch. 2 para. 6(3) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 14(2)(g)(ii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/14/2/g/ii)
+[^c-f21a4c8097fe5de8f797b27bc1a529f7]: Textual amendment: Words in Sch. 2 para. 6(3) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 14(2)(g)(ii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/14/2/g/ii)

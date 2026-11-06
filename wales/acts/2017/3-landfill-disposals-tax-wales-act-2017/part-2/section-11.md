@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Pet cemeteries[^key-d506cedbe53bcb3ab68cfbcb5b344a39]
+## 11. Pet cemeteries[^c-d506cedbe53bcb3ab68cfbcb5b344a39]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d506cedbe53bcb3ab68cfbcb5b344a39]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2017/3/section/11) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-d506cedbe53bcb3ab68cfbcb5b344a39]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2017/3/section/11) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

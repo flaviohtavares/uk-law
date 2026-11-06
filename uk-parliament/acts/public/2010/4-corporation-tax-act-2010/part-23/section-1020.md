@@ -29,9 +29,9 @@ the amount or value of the benefit received by a member exceeds the amount or va
 
 (2) The company is treated for the purposes of the Corporation Tax Acts as making a distribution to the member of an amount equal to the excess.
 
-[^key-6068d410a2f8230412b19a99699ddf8b]...
+[^c-6068d410a2f8230412b19a99699ddf8b]...
 
-(2A)[^key-c9a5c007a033baf1441eb1d50ac52371] But the company is not treated as making a distribution under subsection (2) if the transfer of assets or liabilities—
+(2A)[^c-c9a5c007a033baf1441eb1d50ac52371] But the company is not treated as making a distribution under subsection (2) if the transfer of assets or liabilities—
 
 - (a) is a distribution by virtue of paragraph B in section 1000(1), or
 - (b) would be such a distribution in the absence of sub-paragraph (a) of that paragraph (distribution representing repayment of capital on the shares).
@@ -40,6 +40,6 @@ the amount or value of the benefit received by a member exceeds the amount or va
 
 ## Annotations
 
-[^key-6068d410a2f8230412b19a99699ddf8b]: Textual amendment: Words in s. 1020(2) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 33(3)(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/33/3/a)
+[^c-6068d410a2f8230412b19a99699ddf8b]: Textual amendment: Words in s. 1020(2) omitted (with effect in accordance with s. 33(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 33(3)(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/33/3/a)
 
-[^key-c9a5c007a033baf1441eb1d50ac52371]: Textual amendment: S. 1020(2A) inserted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 33(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/33/3/b)
+[^c-c9a5c007a033baf1441eb1d50ac52371]: Textual amendment: S. 1020(2A) inserted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 33(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/33/3/b)

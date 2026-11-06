@@ -52,7 +52,7 @@ The Scottish Ministers have been consulted in accordance with section 24(6) of t
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and application.[^key-c8b51d6285faeef22a29db2c0f43476b]
+### 1. Citation, commencement and application.[^c-c8b51d6285faeef22a29db2c0f43476b]
 
 (1) These Regulations may be cited as the Controlled Drugs (Supervision of Management and Use) Regulations 2013 and come into force on 1st April 2013.
 
@@ -60,7 +60,7 @@ The Scottish Ministers have been consulted in accordance with section 24(6) of t
 
 (3)[^M_F_db195478-5ea8-4f85-9b82-0657aaba4a6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 1A. Review[^key-69461ed6132263befee85a953c4faea8]
+### 1A. Review[^c-69461ed6132263befee85a953c4faea8]
 
 (1) The Secretary of State must from time to time—
 
@@ -90,7 +90,7 @@ The Scottish Ministers have been consulted in accordance with section 24(6) of t
   - (a) England, has the meaning given in section 3 of the Care Standards Act 2000 [^c21650681] (care homes); or
   - (b) Scotland, has the meaning given in relation to a care home service in paragraph 2 of Schedule 12 to the Public Services Reform (Scotland) Act 2010 [^c21650691] (care services: definitions – care home service);
 - “**the Care Inspectorate**” means Social Care and Social Work Improvement Scotland, established by section 44 of the Public Services Reform (Scotland) Act 2010 (Social Care and Social Work Improvement Scotland);
-- [^key-f3a479823725f3eb4f941dcc9be5e3ac]...
+- [^c-f3a479823725f3eb4f941dcc9be5e3ac]...
 - “**commissioning body**” is to be construed in accordance with regulation 7(3)(a);
 - “**Common Services Agency**” means the body of that name constituted by section 10 of the 1978 Act [^c21650711] (Common Services Agency);
 - “**CQC**” means the Care Quality Commission established by section 1 of the Health and Social Care Act 2008 [^c21650721] (the Care Quality Commission);
@@ -111,7 +111,7 @@ The Scottish Ministers have been consulted in accordance with section 24(6) of t
   - (d) as regards Scotland, an institution providing dental treatment maintained in connection with a dental school,
 
   and includes clinics, dispensaries and out-patient departments maintained in connection with any such home or institution;
-- “[^key-48dbd572e362427f60d4d1aee655494c]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+- “[^c-48dbd572e362427f60d4d1aee655494c]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
 - “local authority”, as regards—
   - (a) England, has the meaning given in section 2B(5) of the 2006 Act [^c21650771] (functions of local authorities and Secretary of State as to improvement of public health); and
   - (b) Scotland, means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c21650781] (constitution of councils) and also includes a joint board or joint committee with the meanings given in section 235(1) of the Local Government (Scotland) Act 1973 [^c21650791] (general provisions as to interpretation);
@@ -120,18 +120,18 @@ The Scottish Ministers have been consulted in accordance with section 24(6) of t
 - “**local lead CDAO**” is to be construed in accordance with regulation 14(4);
 - “**National Waiting Times Centre Board**” means the Special Health Board of that name constituted by the National Waiting Times Centre Board (Scotland) Order 2002 [^c21650801];
 - “**NHSBSA**” means the NHS Business Services Authority established by the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG) (Establishment and Constitution) Order 2005 [^c21650811];
-- “[^key-673af16d4a1fe7674daf4682d61d5054]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
-- [^key-7a25765a90dd5abf71ab2446d6e16082]...
-- [^key-17ad4a0ba5b21c96835d1d8824c059c8]...
+- “[^c-673af16d4a1fe7674daf4682d61d5054]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- [^c-7a25765a90dd5abf71ab2446d6e16082]...
+- [^c-17ad4a0ba5b21c96835d1d8824c059c8]...
 - “**NHS foundation trust**” means a corporation of the type referred to in section 30(1) of the 2006 Act [^c21650831] (NHS foundation trusts);
 - “**NHS trust**” means a body that is an NHS Trust for the purposes of the 2006 Act [^c21650841] other than an NHS Trust established under the National Health Service (Wales) Act 2006 [^c21650851];
 - “**provider body**” is to be construed in accordance with regulation 7(3)(b);
-- “**regular force**” means the Royal Air Force, the Royal Navy, the Royal Marines or the regular army [^key-c2c0937dab63bc28bb5ca9462095a1aa]...;
+- “**regular force**” means the Royal Air Force, the Royal Navy, the Royal Marines or the regular army [^c-c2c0937dab63bc28bb5ca9462095a1aa]...;
 - “**regulatory body**” means a body referred to in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 [^c21650861] (the Professional Standards Authority for Health and Social Care);
 - “**relevant activities**” means activities that involve, or may involve, the management or use of controlled drugs;
 - “**relevant person**” is to be construed in accordance with regulation 5;
 - “**relevant services**” means services that involve, or may involve, the management or use of controlled drugs;
-- “[^key-6a7f3af2c3ca1a8fab00c4f1b5c1ffd8]**reserve force**” means the Royal Fleet Reserve, the Royal Naval Reserve, the Royal Marines Reserve, the Regular Reserve, the Army Reserve, the Air Force Reserve or the Royal Auxiliary Air Force;
+- “[^c-6a7f3af2c3ca1a8fab00c4f1b5c1ffd8]**reserve force**” means the Royal Fleet Reserve, the Royal Naval Reserve, the Royal Marines Reserve, the Regular Reserve, the Army Reserve, the Air Force Reserve or the Royal Auxiliary Air Force;
 - “**Scottish Ambulance Service Board**” means the Special Health Board of that name constituted by the Scottish Ambulance Service Board Order 1999 [^c21650871];
 - “**Scottish Counter Fraud Services**” means NHSScotland Counter Fraud Services, which is part of the Common Services Agency;
 - “**Scottish independent hospital**” is to be construed in accordance with regulation 4;
@@ -150,7 +150,7 @@ The Scottish Ministers have been consulted in accordance with section 24(6) of t
   - (ii) Scottish independent hospitals that are designated bodies,
 
   do not provide Health Boards with relevant services;
-- (b) a person included in a pharmaceutical list maintained by NHS England[^key-6f7ca0a7294f8c77f2485b9a0e92955c] provides NHS England with relevant services (that is, the services that the person is required to provide as a consequence of the listing are treated as provided to NHS England);
+- (b) a person included in a pharmaceutical list maintained by NHS England[^c-6f7ca0a7294f8c77f2485b9a0e92955c] provides NHS England with relevant services (that is, the services that the person is required to provide as a consequence of the listing are treated as provided to NHS England);
 - (c) a person included in a list of a Health Board maintained by virtue of the following provisions of the 1978 Act—
   - (i) section 25(2) (arrangements for the provision of general dental services),
   - (ii) section 26(2) (arrangements for the provision of general ophthalmic services, or
@@ -220,16 +220,16 @@ For the purposes of these Regulations, the following are responsible bodies—
 - (a) as regards England and Scotland, the regulatory bodies;
 - (b) as regards England—
   - (i) designated bodies in England,
-  - (ii) integrated care boards[^key-5bee2d28b50702ed801e1bc3880b09ab],
-  - (iii)[^key-24f7a20f4c040a6bf18feadc58a2cbbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iv) [^key-65149a6e7946965ea396d8d7a11470e6]... the NHSBSA,
+  - (ii) integrated care boards[^c-5bee2d28b50702ed801e1bc3880b09ab],
+  - (iii)[^c-24f7a20f4c040a6bf18feadc58a2cbbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) [^c-65149a6e7946965ea396d8d7a11470e6]... the NHSBSA,
   - (v) the CQC,
   - (vi) local authorities in England, and
   - (vii) police forces in England; and
 - (c) as regards Scotland—
   - (i) designated bodies in Scotland,
   - (ii) the Scottish Counter Fraud Services,
-  - (iii)[^key-ee5c188c8463d57848f5ea86bcdf632d] Public Health Scotland,
+  - (iii)[^c-ee5c188c8463d57848f5ea86bcdf632d] Public Health Scotland,
   - (iv) the Practitioner Services Division of the Common Services Agency,
   - (v) HIS,
   - (vi) the Care Inspectorate,
@@ -404,8 +404,8 @@ the arrangements mentioned in paragraph (2).
 
 (3) Where data in respect of a RI who prescribes controlled drugs, and associated analysis tools, are available to the CDAO's designated body through use of—
 
-- (a) in England, ePACT2[^key-1c2c55f5be6bc9c5064d1224b7bbeadd] (Electronic Prescribing Analysis and Costs), a system held by the NHSBSA; or
-- (b) in Scotland, PRISMS (Prescribing Information Systems for Scotland), a system held by Public Health Scotland,[^key-fc25e9fda32c93f3c17c3ba2cf1a7a1e]
+- (a) in England, ePACT2[^c-1c2c55f5be6bc9c5064d1224b7bbeadd] (Electronic Prescribing Analysis and Costs), a system held by the NHSBSA; or
+- (b) in Scotland, PRISMS (Prescribing Information Systems for Scotland), a system held by Public Health Scotland,[^c-fc25e9fda32c93f3c17c3ba2cf1a7a1e]
 
 the arrangements under paragraph (2)(a) must include monitoring and assessing the RI's performance using that data and those tools.
 
@@ -423,7 +423,7 @@ the arrangements under paragraph (2)(a) must include monitoring and assessing th
 
 - (a) a designated body (that is a designated body of which the CDAO is not the accountable officer);
 - (b) the CQC;
-- (c)[^key-1d69e827b690bbe86a79fc9d5e2bb358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1d69e827b690bbe86a79fc9d5e2bb358] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) HIS;
 - (e) the Scottish Counter Fraud Services;
 - (f) the Care Inspectorate;
@@ -439,14 +439,14 @@ the arrangements under paragraph (2)(a) must include monitoring and assessing th
   - (iii) referral of the concerns to—
     - (aa) a regulatory body,
     - (bb) a police force,
-    - (cc)[^key-c75da989cfe30af9ce01fbda1dd9f174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (cc)[^c-c75da989cfe30af9ce01fbda1dd9f174] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (dd) the Scottish Counter Fraud Services, or
     - (ee) if the CDAO is a CDAO of NHS England or a Health Board, an incident panel convened by the CDAO, and
   - (iv) where the CDAO is a CDAO of NHS England or a Health Board, dealing with matters arising out of an incident panel, which may include (but need not be limited to)—
     - (aa) ongoing monitoring of the individual,
     - (bb) referral of concerns to a regulatory body,
     - (cc) referral of concerns to a police force,
-    - (dd)[^key-1311aea539b03f8284843fcb8372ea2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (dd)[^c-1311aea539b03f8284843fcb8372ea2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (ee) referral of concerns to the Scottish Counter Fraud Services, and
     - (ff) implementation of a procedure for dealing with serious untoward incidents.
 
@@ -640,11 +640,11 @@ and RB1 must ensure that appropriate measures are taken by it to prevent unautho
 - (a) on a need-to-know basis; and
 - (b) who fully understand the confidential nature of the information and the purposes for which they are being permitted access to it.
 
-(4)[^key-1c08098094cb79be30071cc1beaf7df1] Where a CDAO, a responsible body or someone acting on their behalf is permitted to share information which includes personal data by virtue of a function under these Regulations, it is to be assumed for the purposes of paragraph 5(2) of Schedule 2 to the Data Protection Act 2018 and paragraph 3(2) of Schedule 11 to that Act (exemptions from certain provisions of the data protection legislation: disclosures required by law) that the disclosure is required by this regulation.
+(4)[^c-1c08098094cb79be30071cc1beaf7df1] Where a CDAO, a responsible body or someone acting on their behalf is permitted to share information which includes personal data by virtue of a function under these Regulations, it is to be assumed for the purposes of paragraph 5(2) of Schedule 2 to the Data Protection Act 2018 and paragraph 3(2) of Schedule 11 to that Act (exemptions from certain provisions of the data protection legislation: disclosures required by law) that the disclosure is required by this regulation.
 
 (5) Nothing in these Regulations requires, or is to be treated as requiring, any disclosure which—
 
-- (a) is prohibited by or under any enactment or the[^key-ee684e1096474d5ed5dd17cbf5ec2362] UK GDPR[^key-80bfbed063c47bbde4a55642c22b38dd] (taking into account the effect of paragraph (4));
+- (a) is prohibited by or under any enactment or the[^c-ee684e1096474d5ed5dd17cbf5ec2362] UK GDPR[^c-80bfbed063c47bbde4a55642c22b38dd] (taking into account the effect of paragraph (4));
 - (b) would prejudice or would be likely to prejudice—
   - (i) any investigation being conducted by any responsible body under any enactment or the UK GDPR,
   - (ii) a regular or reserve force's arrangements for service discipline, or
@@ -653,7 +653,7 @@ and RB1 must ensure that appropriate measures are taken by it to prevent unautho
 
 (6) Civil proceedings do not lie against a person in respect of loss, damage or injury of any kind suffered by another person as a result of disclosure of information under these Regulations if it is done in good faith and there are reasonable grounds for doing it.
 
-(7)[^key-41e1f8aabc9945e751bfc649b353d09b] In this regulation, “**personal data**” and “**the UK GDPR**” have the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2), (10) and (14) of that Act).
+(7)[^c-41e1f8aabc9945e751bfc649b353d09b] In this regulation, “**personal data**” and “**the UK GDPR**” have the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2), (10) and (14) of that Act).
 
 ### 21. Revocation of the Controlled Drugs (Supervision of Management and Use) Regulations 2006
 
@@ -685,11 +685,11 @@ An impact assessment relating to this instrument as it applies to England has be
 
 [^c21650651]: Marginal citation: [2006 c. 28](https://www.legislation.gov.uk/ukpga/2006/28).
 
-[^key-c8b51d6285faeef22a29db2c0f43476b]: Textual amendment: Words in reg. 1 heading substituted (30.3.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/189/regulation/3)
+[^c-c8b51d6285faeef22a29db2c0f43476b]: Textual amendment: Words in reg. 1 heading substituted (30.3.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/189/regulation/3)
 
 [^M_F_db195478-5ea8-4f85-9b82-0657aaba4a6f]: Textual amendment: Reg. 1(3) omitted (30.3.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/189/regulation/3)
 
-[^key-69461ed6132263befee85a953c4faea8]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2013/373/regulation/1A) inserted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2020/189/regulation/4)
+[^c-69461ed6132263befee85a953c4faea8]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2013/373/regulation/1A) inserted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2020/189/regulation/4)
 
 [^c21650661]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -699,7 +699,7 @@ An impact assessment relating to this instrument as it applies to England has be
 
 [^c21650691]: Marginal citation: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-f3a479823725f3eb4f941dcc9be5e3ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/373/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [64(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/64/2/a)
+[^c-f3a479823725f3eb4f941dcc9be5e3ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/373/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [64(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/64/2/a)
 
 [^c21650711]: Marginal citation: Section 10 has been amended by: the [Health Services Act 1980 (c. 53)](https://www.legislation.gov.uk/ukpga/1980/53), Schedule 6, paragraph 2; the [National Health Service and Community Care Act 1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), Schedule 10; the [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), Schedule 4, paragraph 44; the [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), Schedule 2, paragraph 2(4); and the [Patient Rights (Scotland) Act 2011 (asp 5)](https://www.legislation.gov.uk/asp/2011/5), section 17(1).
 
@@ -713,7 +713,7 @@ An impact assessment relating to this instrument as it applies to England has be
 
 [^c21650761]: Marginal citation: Section 10A was inserted the [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), section 108.
 
-[^key-48dbd572e362427f60d4d1aee655494c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/373/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [64(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/64/2/b)
+[^c-48dbd572e362427f60d4d1aee655494c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/373/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [64(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/64/2/b)
 
 [^c21650771]: Marginal citation: Section 2B was inserted by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), section 12.
 
@@ -725,11 +725,11 @@ An impact assessment relating to this instrument as it applies to England has be
 
 [^c21650811]: Marginal citation: [S.I. 2005/2414](https://www.legislation.gov.uk/uksi/2005/2414).
 
-[^key-673af16d4a1fe7674daf4682d61d5054]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/373/regulation/2/1) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [65(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/65/2/b)
+[^c-673af16d4a1fe7674daf4682d61d5054]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/373/regulation/2/1) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [65(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/65/2/b)
 
-[^key-7a25765a90dd5abf71ab2446d6e16082]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/373/regulation/2/1) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [65(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/65/2/a)
+[^c-7a25765a90dd5abf71ab2446d6e16082]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/373/regulation/2/1) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [65(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/65/2/a)
 
-[^key-17ad4a0ba5b21c96835d1d8824c059c8]: Textual amendment: Words in reg. 2(1) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [5(a)](https://www.legislation.gov.uk/uksi/2020/189/regulation/5/a)
+[^c-17ad4a0ba5b21c96835d1d8824c059c8]: Textual amendment: Words in reg. 2(1) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [5(a)](https://www.legislation.gov.uk/uksi/2020/189/regulation/5/a)
 
 [^c21650831]: Marginal citation: Section 30(1) has been amended by the Health and Social Care Act 2012, section 159(1).
 
@@ -737,11 +737,11 @@ An impact assessment relating to this instrument as it applies to England has be
 
 [^c21650851]: Marginal citation: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-c2c0937dab63bc28bb5ca9462095a1aa]: Textual amendment: Words in reg. 2(1) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [5(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/5/b)
+[^c-c2c0937dab63bc28bb5ca9462095a1aa]: Textual amendment: Words in reg. 2(1) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [5(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/5/b)
 
 [^c21650861]: Marginal citation: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17); section 25(3) has been amended by: the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), Schedule 10, paragraph 17; [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231); and the Health and Social Care Act 2012, Schedule 15, paragraph 56(b).
 
-[^key-6a7f3af2c3ca1a8fab00c4f1b5c1ffd8]: Textual amendment: Words in reg. 2(1) substituted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [5(c)](https://www.legislation.gov.uk/uksi/2020/189/regulation/5/c)
+[^c-6a7f3af2c3ca1a8fab00c4f1b5c1ffd8]: Textual amendment: Words in reg. 2(1) substituted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [5(c)](https://www.legislation.gov.uk/uksi/2020/189/regulation/5/c)
 
 [^c21650871]: Marginal citation: [S.I. 1999/686](https://www.legislation.gov.uk/uksi/1999/686).
 
@@ -749,38 +749,38 @@ An impact assessment relating to this instrument as it applies to England has be
 
 [^c21650891]: Marginal citation: [S.I. 1995/574](https://www.legislation.gov.uk/uksi/1995/574).
 
-[^key-6f7ca0a7294f8c77f2485b9a0e92955c]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-6f7ca0a7294f8c77f2485b9a0e92955c]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21650901]: Marginal citation: This definition is based on section 9(2) of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), but in these Regulations, for other purposes, “**health care**” has the meaning given in section 25(1) of the [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28).
 
 [^c21650911]: Marginal citation: Section 10F was inserted by the [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [section 108](https://www.legislation.gov.uk/asp/2010/8/section/108).
 
-[^key-5bee2d28b50702ed801e1bc3880b09ab]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-5bee2d28b50702ed801e1bc3880b09ab]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-24f7a20f4c040a6bf18feadc58a2cbbf]: Textual amendment: Reg. 6(b)(iii) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [6(a)(i)](https://www.legislation.gov.uk/uksi/2020/189/regulation/6/a/i)
+[^c-24f7a20f4c040a6bf18feadc58a2cbbf]: Textual amendment: Reg. 6(b)(iii) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [6(a)(i)](https://www.legislation.gov.uk/uksi/2020/189/regulation/6/a/i)
 
-[^key-65149a6e7946965ea396d8d7a11470e6]: Textual amendment: Words in reg. 6(b)(iv) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2020/189/regulation/6/a/ii)
+[^c-65149a6e7946965ea396d8d7a11470e6]: Textual amendment: Words in reg. 6(b)(iv) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2020/189/regulation/6/a/ii)
 
-[^key-ee5c188c8463d57848f5ea86bcdf632d]: Textual amendment: Reg. 6(c)(iii) substituted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [6(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/6/b)
+[^c-ee5c188c8463d57848f5ea86bcdf632d]: Textual amendment: Reg. 6(c)(iii) substituted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [6(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/6/b)
 
 [^c21650921]: Marginal citation: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
 
-[^key-1c2c55f5be6bc9c5064d1224b7bbeadd]: Textual amendment: Word in [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/3/a) substituted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(a)(i)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/a/i)
+[^c-1c2c55f5be6bc9c5064d1224b7bbeadd]: Textual amendment: Word in [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/3/a) substituted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(a)(i)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/a/i)
 
-[^key-fc25e9fda32c93f3c17c3ba2cf1a7a1e]: Textual amendment: Words in [reg. 13(3)(b)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/3/b) substituted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/a/ii)
+[^c-fc25e9fda32c93f3c17c3ba2cf1a7a1e]: Textual amendment: Words in [reg. 13(3)(b)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/3/b) substituted (1.4.2020) by [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/a/ii)
 
-[^key-1d69e827b690bbe86a79fc9d5e2bb358]: Textual amendment: [Reg. 13(6)(c)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/6/c) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/b)
+[^c-1d69e827b690bbe86a79fc9d5e2bb358]: Textual amendment: [Reg. 13(6)(c)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/6/c) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/b)
 
-[^key-c75da989cfe30af9ce01fbda1dd9f174]: Textual amendment: [Reg. 13(7)(b)(iii)(cc)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/7/b/iii/cc) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(c)(i)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/c/i)
+[^c-c75da989cfe30af9ce01fbda1dd9f174]: Textual amendment: [Reg. 13(7)(b)(iii)(cc)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/7/b/iii/cc) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(c)(i)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/c/i)
 
-[^key-1311aea539b03f8284843fcb8372ea2d]: Textual amendment: [Reg. 13(7)(b)(iv)(dd)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/7/b/iv/dd) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(c)(i)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/c/i)
+[^c-1311aea539b03f8284843fcb8372ea2d]: Textual amendment: [Reg. 13(7)(b)(iv)(dd)](https://www.legislation.gov.uk/uksi/2013/373/regulation/13/7/b/iv/dd) omitted (1.4.2020) by virtue of [The Controlled Drugs (Supervision of Management and Use) (Amendment) Regulations 2020 (S.I. 2020/189)](https://www.legislation.gov.uk/uksi/2020/189), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/189/regulation/1/2/b), [7(c)(i)](https://www.legislation.gov.uk/uksi/2020/189/regulation/7/c/i)
 
-[^key-1c08098094cb79be30071cc1beaf7df1]: Textual amendment: Reg. 20(4) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 378(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/378/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-1c08098094cb79be30071cc1beaf7df1]: Textual amendment: Reg. 20(4) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 378(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/378/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-ee684e1096474d5ed5dd17cbf5ec2362]: Textual amendment: Words in reg. 20(5) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 378(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/378/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-ee684e1096474d5ed5dd17cbf5ec2362]: Textual amendment: Words in reg. 20(5) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 378(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/378/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-80bfbed063c47bbde4a55642c22b38dd]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/2013/373/regulation/20/5) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 96(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/96/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-80bfbed063c47bbde4a55642c22b38dd]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/2013/373/regulation/20/5) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 96(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/96/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-41e1f8aabc9945e751bfc649b353d09b]: Textual amendment: [Reg. 20(7)](https://www.legislation.gov.uk/uksi/2013/373/regulation/20/7) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 96(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/96/3) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-41e1f8aabc9945e751bfc649b353d09b]: Textual amendment: [Reg. 20(7)](https://www.legislation.gov.uk/uksi/2013/373/regulation/20/7) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 96(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/96/3) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21650941]: Marginal citation: [S.I. 2006/3148](https://www.legislation.gov.uk/uksi/2006/3148).

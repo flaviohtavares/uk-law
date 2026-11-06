@@ -35,86 +35,86 @@ laying down implementing technical standards with regard to the means for public
 
 (Text with EEA relevance) (revoked)
 
-[^key-37372176b1176ac66a0dd7c52367235a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37372176b1176ac66a0dd7c52367235a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — GENERAL PROVISIONS[^key-37372176b1176ac66a0dd7c52367235a]
+## CHAPTER I — GENERAL PROVISIONS[^c-37372176b1176ac66a0dd7c52367235a]
 
-### Article 1. Subject Matter[^key-37372176b1176ac66a0dd7c52367235a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## CHAPTER II — MEANS FOR PUBLIC DISCLOSURE OF SIGNIFICANT NET SHORT POSITIONS IN SHARES — \[ARTICLE 9 OF REGULATION (EU) No 236/2012\][^key-37372176b1176ac66a0dd7c52367235a]
-
-### Article 2. Means by which information may be disclosed to the public[^key-37372176b1176ac66a0dd7c52367235a]
+### Article 1. Subject Matter[^c-37372176b1176ac66a0dd7c52367235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — FORMAT OF THE INFORMATION TO BE PROVIDED TO ESMA BY COMPETENT AUTHORITIES IN RELATION TO NET SHORT POSITIONS — \[ARTICLE 11 OF REGULATION (EU) No 236/2012\][^key-37372176b1176ac66a0dd7c52367235a]
+## CHAPTER II — MEANS FOR PUBLIC DISCLOSURE OF SIGNIFICANT NET SHORT POSITIONS IN SHARES — \[ARTICLE 9 OF REGULATION (EU) No 236/2012\][^c-37372176b1176ac66a0dd7c52367235a]
 
-### Article 3. Format of the periodic information[^key-37372176b1176ac66a0dd7c52367235a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 4. Format of the information to be provided upon request[^key-37372176b1176ac66a0dd7c52367235a]
+### Article 2. Means by which information may be disclosed to the public[^c-37372176b1176ac66a0dd7c52367235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — AGREEMENTS, ARRANGEMENTS AND MEASURES TO ADEQUATELY ENSURE AVAILABILITY FOR SETTLEMENT — \[ARTICLES 12 AND 13 OF REGULATION (EU) No 236/2012\][^key-37372176b1176ac66a0dd7c52367235a]
+## CHAPTER III — FORMAT OF THE INFORMATION TO BE PROVIDED TO ESMA BY COMPETENT AUTHORITIES IN RELATION TO NET SHORT POSITIONS — \[ARTICLE 11 OF REGULATION (EU) No 236/2012\][^c-37372176b1176ac66a0dd7c52367235a]
 
-### Article 5. Agreements to borrow and other enforceable claims having similar effect[^key-37372176b1176ac66a0dd7c52367235a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 6. Arrangements and measures to be taken in relation to short sales of a share admitted to trading on a trading venue\[Article 12(1)(c) of Regulation (EU) No 236/2012\][^key-37372176b1176ac66a0dd7c52367235a]
+### Article 3. Format of the periodic information[^c-37372176b1176ac66a0dd7c52367235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Arrangements with third parties to be taken in relation to sovereign debt\[Article 13(1)(c) of Regulation (EU) No 236/2012\][^key-37372176b1176ac66a0dd7c52367235a]
+### Article 4. Format of the information to be provided upon request[^c-37372176b1176ac66a0dd7c52367235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Third parties with whom arrangements are made[^key-37372176b1176ac66a0dd7c52367235a]
+## CHAPTER IV — AGREEMENTS, ARRANGEMENTS AND MEASURES TO ADEQUATELY ENSURE AVAILABILITY FOR SETTLEMENT — \[ARTICLES 12 AND 13 OF REGULATION (EU) No 236/2012\][^c-37372176b1176ac66a0dd7c52367235a]
+
+### Article 5. Agreements to borrow and other enforceable claims having similar effect[^c-37372176b1176ac66a0dd7c52367235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — DETERMINATION OF THE PRINCIPAL TRADING VENUE FOR THE EXEMPTION — \[ARTICLE 16 OF REGULATION (EU) No 236/2012\][^key-37372176b1176ac66a0dd7c52367235a]
-
-### Article 9. Date and period for principal trading venue calculations[^key-37372176b1176ac66a0dd7c52367235a]
+### Article 6. Arrangements and measures to be taken in relation to short sales of a share admitted to trading on a trading venue\[Article 12(1)(c) of Regulation (EU) No 236/2012\][^c-37372176b1176ac66a0dd7c52367235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Date of notification to ESMA[^key-37372176b1176ac66a0dd7c52367235a]
+### Article 7. Arrangements with third parties to be taken in relation to sovereign debt\[Article 13(1)(c) of Regulation (EU) No 236/2012\][^c-37372176b1176ac66a0dd7c52367235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Effectiveness of the list of exempted shares[^key-37372176b1176ac66a0dd7c52367235a]
+### Article 8. Third parties with whom arrangements are made[^c-37372176b1176ac66a0dd7c52367235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Specific cases of review of exempted shares[^key-37372176b1176ac66a0dd7c52367235a]
+## CHAPTER V — DETERMINATION OF THE PRINCIPAL TRADING VENUE FOR THE EXEMPTION — \[ARTICLE 16 OF REGULATION (EU) No 236/2012\][^c-37372176b1176ac66a0dd7c52367235a]
+
+### Article 9. Date and period for principal trading venue calculations[^c-37372176b1176ac66a0dd7c52367235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VI — FINAL PROVISIONS[^key-37372176b1176ac66a0dd7c52367235a]
-
-### Article 13. Entry into force[^key-37372176b1176ac66a0dd7c52367235a]
+### Article 10. Date of notification to ESMA[^c-37372176b1176ac66a0dd7c52367235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-37372176b1176ac66a0dd7c52367235a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 11. Effectiveness of the list of exempted shares[^c-37372176b1176ac66a0dd7c52367235a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 12. Specific cases of review of exempted shares[^c-37372176b1176ac66a0dd7c52367235a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## CHAPTER VI — FINAL PROVISIONS[^c-37372176b1176ac66a0dd7c52367235a]
+
+### Article 13. Entry into force[^c-37372176b1176ac66a0dd7c52367235a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-37372176b1176ac66a0dd7c52367235a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-37372176b1176ac66a0dd7c52367235a]
+## ANNEX I[^c-37372176b1176ac66a0dd7c52367235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-37372176b1176ac66a0dd7c52367235a]
+## ANNEX II[^c-37372176b1176ac66a0dd7c52367235a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-37372176b1176ac66a0dd7c52367235a]: Textual amendment: Regulation revoked (13.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/d/ii)
+[^c-37372176b1176ac66a0dd7c52367235a]: Textual amendment: Regulation revoked (13.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/d/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Lapse of registration[^key-76e8c301d997c0143c025868c90a6e78][^key-eea38095fde4e93eb3505673dfe63761][^key-d53dc8e4a80455f94b52adc22f50e9d7]
+## 11. Lapse of registration[^c-76e8c301d997c0143c025868c90a6e78][^c-eea38095fde4e93eb3505673dfe63761][^c-d53dc8e4a80455f94b52adc22f50e9d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-76e8c301d997c0143c025868c90a6e78]: Commencement: Art. 11 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-76e8c301d997c0143c025868c90a6e78]: Commencement: Art. 11 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-eea38095fde4e93eb3505673dfe63761]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2002/254/article/11) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
+[^c-eea38095fde4e93eb3505673dfe63761]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2002/254/article/11) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
 
-[^key-d53dc8e4a80455f94b52adc22f50e9d7]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2002/254/article/11) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
+[^c-d53dc8e4a80455f94b52adc22f50e9d7]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2002/254/article/11) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))

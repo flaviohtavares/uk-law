@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Debtor applications: general[^key-925861569205243e8ad346dbd7a38564]
+## 8. Debtor applications: general[^c-925861569205243e8ad346dbd7a38564]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ then the debtor commits an offence.
 
 ## Annotations
 
-[^key-925861569205243e8ad346dbd7a38564]: Commencement: S. 8 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-925861569205243e8ad346dbd7a38564]: Commencement: S. 8 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

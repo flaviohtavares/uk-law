@@ -27,7 +27,7 @@ summary: ''
 
 (2) During such a period—
 
-- (a)[^key-2d8aedfbc64d8011dc8f5e04841be610] any function of the Lord Chief Justice may be exercised by the senior Head of Division;
+- (a)[^c-2d8aedfbc64d8011dc8f5e04841be610] any function of the Lord Chief Justice may be exercised by the senior Head of Division;
 - (b) anything which falls to be done in relation to the Lord Chief Justice may be done in relation to the senior Head of Division.
 
 (3) The senior Head of Division is—
@@ -35,7 +35,7 @@ summary: ''
 - (a) the Master of the Rolls, or
 - (b) the President of the Queen's Bench Division, if the office in paragraph (a) is vacant, or
 - (c) the President of the Family Division, if the offices in paragraphs (a) and (b) are vacant, or
-- (d) the President of the Business and Property Division[^key-04a6abcecdb2c138625f83a25d1f8a6b], if the offices in paragraphs (a), (b) and (c) are vacant.
+- (d) the President of the Business and Property Division[^c-04a6abcecdb2c138625f83a25d1f8a6b], if the offices in paragraphs (a), (b) and (c) are vacant.
 
 (4) For the purposes of this section—
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d8aedfbc64d8011dc8f5e04841be610]: Modification: [S. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/16/2/a) excluded (1.10.2013) by [The Judicial Appointments Regulations 2013 (S.I. 2013/2192)](https://www.legislation.gov.uk/uksi/2013/2192), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2192/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/2192/regulation/3)
+[^c-2d8aedfbc64d8011dc8f5e04841be610]: Modification: [S. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/16/2/a) excluded (1.10.2013) by [The Judicial Appointments Regulations 2013 (S.I. 2013/2192)](https://www.legislation.gov.uk/uksi/2013/2192), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2192/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/2192/regulation/3)
 
-[^key-04a6abcecdb2c138625f83a25d1f8a6b]: Textual amendment: Words in [s. 16(3)(d)](https://www.legislation.gov.uk/ukpga/2005/4/section/16/3/d) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 23(2)(a)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/23/2/a)
+[^c-04a6abcecdb2c138625f83a25d1f8a6b]: Textual amendment: Words in [s. 16(3)(d)](https://www.legislation.gov.uk/ukpga/2005/4/section/16/3/d) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 23(2)(a)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/23/2/a)

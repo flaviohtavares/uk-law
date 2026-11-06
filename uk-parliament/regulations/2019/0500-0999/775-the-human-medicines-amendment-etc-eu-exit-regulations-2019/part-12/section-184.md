@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Amendment of regulation 218 (requirements for prescriptions: EEA health professionals)[^key-cdb6e643829a5deb5c2fe1f128f1db8d]
+## 184. Amendment of regulation 218 (requirements for prescriptions: EEA health professionals)[^c-cdb6e643829a5deb5c2fe1f128f1db8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cdb6e643829a5deb5c2fe1f128f1db8d]: Commencement: Reg. 184 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-cdb6e643829a5deb5c2fe1f128f1db8d]: Commencement: Reg. 184 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885211]: Marginal citation: Regulation 218 was amended by [S.I. 2014/490](https://www.legislation.gov.uk/uksi/2014/490) and 1878 and 2015/903.

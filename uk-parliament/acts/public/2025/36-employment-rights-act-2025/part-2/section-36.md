@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Extension of regulation of employment businesses[^key-55e7319f559634ad9cf9efb923f5511b][^key-5c2fe30ec84cc8cbdf60a7b6a52772f3]
+## 36. Extension of regulation of employment businesses[^c-55e7319f559634ad9cf9efb923f5511b][^c-5c2fe30ec84cc8cbdf60a7b6a52772f3]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ In section 13 of the Employment Agencies Act 1973 (interpretation), for subsecti
 
 ## Annotations
 
-[^key-55e7319f559634ad9cf9efb923f5511b]: Commencement: S. 36 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-55e7319f559634ad9cf9efb923f5511b]: Commencement: S. 36 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-5c2fe30ec84cc8cbdf60a7b6a52772f3]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2025/36/section/36) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(17)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/17)
+[^c-5c2fe30ec84cc8cbdf60a7b6a52772f3]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2025/36/section/36) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(17)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/17)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Additional effect on undischarged bankrupt[^key-632d8e82afb8ccde7326d519e186d7ac]
+## 69. Additional effect on undischarged bankrupt[^c-632d8e82afb8ccde7326d519e186d7ac]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-632d8e82afb8ccde7326d519e186d7ac]: Commencement: S. 69 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-632d8e82afb8ccde7326d519e186d7ac]: Commencement: S. 69 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

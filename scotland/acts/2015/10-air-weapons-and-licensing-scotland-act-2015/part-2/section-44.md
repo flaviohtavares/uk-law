@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Application to transfer premises licence: ground for refusal[^key-f2387c0d84bffb306b688943b49e32bd]
+## 44. Application to transfer premises licence: ground for refusal[^c-f2387c0d84bffb306b688943b49e32bd]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2387c0d84bffb306b688943b49e32bd]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2015/10/section/44) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
+[^c-f2387c0d84bffb306b688943b49e32bd]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2015/10/section/44) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))

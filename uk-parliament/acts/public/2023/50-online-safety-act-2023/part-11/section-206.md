@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Payment of sums into the Consolidated Fund[^key-bc06b0a3d41f08b614eaf9f7f4d02569][^key-d415904cc922c2853f846ca7270444ee]
+## 206. Payment of sums into the Consolidated Fund[^c-bc06b0a3d41f08b614eaf9f7f4d02569][^c-d415904cc922c2853f846ca7270444ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc06b0a3d41f08b614eaf9f7f4d02569]: Commencement: S. 206 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-bc06b0a3d41f08b614eaf9f7f4d02569]: Commencement: S. 206 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-d415904cc922c2853f846ca7270444ee]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2023/50/section/206) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z26)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z26)
+[^c-d415904cc922c2853f846ca7270444ee]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2023/50/section/206) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z26)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z26)

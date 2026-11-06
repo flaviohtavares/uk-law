@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Categories of relevant service[^key-910601ac6f2eaff9f94efca228503a9f][^key-a6f1831023d94f6be29381371f5271a9]
+## 20. Categories of relevant service[^c-910601ac6f2eaff9f94efca228503a9f][^c-a6f1831023d94f6be29381371f5271a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,6 +100,6 @@ summary: ''
 
 ## Annotations
 
-[^key-910601ac6f2eaff9f94efca228503a9f]: Commencement: S. 20 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-910601ac6f2eaff9f94efca228503a9f]: Commencement: S. 20 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-a6f1831023d94f6be29381371f5271a9]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2024/15/section/20) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)
+[^c-a6f1831023d94f6be29381371f5271a9]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2024/15/section/20) in force at 23.8.2024 for specified purposes by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule)

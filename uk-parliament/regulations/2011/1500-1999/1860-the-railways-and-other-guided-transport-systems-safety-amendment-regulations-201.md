@@ -154,7 +154,7 @@ These Regulations may be cited as the Railways and Other Guided Transport System
 
 (8) In regulation 27 (appeals)—
 
-- (a)[^key-146bc83e8504983b39f49d573b40cb22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-146bc83e8504983b39f49d573b40cb22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (6), for “Minister for the Civil Service” substitute “ Treasury ”; and
 - (c) in paragraph (8), for “sub-section (1) of the said section 44” substitute “ section 44(1) of the Health and Safety at Work etc. Act 1974 [^c20987421] ”.
 
@@ -507,7 +507,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c20987401]: Marginal citation: [S.I. 2006/397](https://www.legislation.gov.uk/uksi/2006/397), to which there are amendments not relevant to these Regulations.
 
-[^key-146bc83e8504983b39f49d573b40cb22]: Textual amendment: [Reg. 2(8)(a)](https://www.legislation.gov.uk/uksi/2011/1860/regulation/2/8/a) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 91](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/91)
+[^c-146bc83e8504983b39f49d573b40cb22]: Textual amendment: [Reg. 2(8)(a)](https://www.legislation.gov.uk/uksi/2011/1860/regulation/2/8/a) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 91](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/91)
 
 [^c20987421]: Marginal citation: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37); section 44(1) was amended by the [Employment Protection Act 1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71), [sections 116](https://www.legislation.gov.uk/ukpga/1975/71/section/116) and 125(3), Schedule 15, paragraph 13 and Schedule 18.
 

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31B. Effect of commitments under section 31A[^key-d6ef032bb575192a48440421cd210ff2]
+## 31B. Effect of commitments under section 31A[^c-d6ef032bb575192a48440421cd210ff2]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subsection (2) applies if the CMA[^key-4651fddc7a0a08d48b3bb4c60dbdc1e1] has accepted commitments under section 31A (and has not released them).
+(1) Subsection (2) applies if the CMA[^c-4651fddc7a0a08d48b3bb4c60dbdc1e1] has accepted commitments under section 31A (and has not released them).
 
 (2) In such a case, the CMA shall not—
 
@@ -42,6 +42,6 @@ in relation to the agreement or conduct which was the subject of the investigati
 
 ## Annotations
 
-[^key-d6ef032bb575192a48440421cd210ff2]: Textual amendment: Ss. 31A-31E inserted (1.5.2004) by [The Competition Act 1998 and Other Enactments (Amendment) Regulations 2004 (S.I. 2004/1261)](https://www.legislation.gov.uk/uksi/2004/1261), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2004/1261/regulation/1/a), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2004/1261/schedule/1/paragraph/18)
+[^c-d6ef032bb575192a48440421cd210ff2]: Textual amendment: Ss. 31A-31E inserted (1.5.2004) by [The Competition Act 1998 and Other Enactments (Amendment) Regulations 2004 (S.I. 2004/1261)](https://www.legislation.gov.uk/uksi/2004/1261), [reg. 1(a)](https://www.legislation.gov.uk/uksi/2004/1261/regulation/1/a), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2004/1261/schedule/1/paragraph/18)
 
-[^key-4651fddc7a0a08d48b3bb4c60dbdc1e1]: Textual amendment: Words in ss. 31B(1)-(5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/12) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-4651fddc7a0a08d48b3bb4c60dbdc1e1]: Textual amendment: Words in ss. 31B(1)-(5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/12) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

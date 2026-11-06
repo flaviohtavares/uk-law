@@ -39,180 +39,180 @@ establishing the EU Ecolabel criteria for laundry detergents
 
 (Text with EEA relevance) (revoked)
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d06cbad5d9cbdc0caf3a298780c241f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-8d06cbad5d9cbdc0caf3a298780c241f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — FRAMEWORK — EU ECOLABEL CRITERIA — Criteria for awarding the EU Ecolabel to laundry detergents[^key-8d06cbad5d9cbdc0caf3a298780c241f]
+## ANNEX — FRAMEWORK — EU ECOLABEL CRITERIA — Criteria for awarding the EU Ecolabel to laundry detergents[^c-8d06cbad5d9cbdc0caf3a298780c241f]
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f]CRITERIA
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-8d06cbad5d9cbdc0caf3a298780c241f]ASSESSMENT AND VERIFICATION
+[^c-8d06cbad5d9cbdc0caf3a298780c241f]CRITERIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](a)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f]ASSESSMENT AND VERIFICATION
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](a)
 
 **Requirements**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](b)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](b)
 
 **Measurement thresholds**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f]REFERENCE DOSAGE
+[^c-8d06cbad5d9cbdc0caf3a298780c241f]REFERENCE DOSAGE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 1 — Dosage requirements
+[^c-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 1 — Dosage requirements
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 2 — Toxicity to aquatic organisms
+[^c-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 2 — Toxicity to aquatic organisms
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 3 — Biodegradability
+[^c-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 3 — Biodegradability
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](a)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](a)
 
 *Biodegradability of surfactants*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](b)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](b)
 
 *Biodegradability of organic compounds*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 4 — Sustainable sourcing of palm oil, palm kernel oil and their derivatives
+[^c-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 4 — Sustainable sourcing of palm oil, palm kernel oil and their derivatives
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 5 — Excluded and restricted substances
+[^c-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 5 — Excluded and restricted substances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](a)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](a)
 
 *Specified excluded and restricted substances*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](i)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](i)
 
 Excluded substances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](ii)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](ii)
 
 Restricted substances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](b)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](b)
 
 *Hazardous substances*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](i)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](i)
 
 Final product
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](ii)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](ii)
 
 Ingoing substances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](c)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](c)
 
 *Substances of very high concern (SVHCs)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](d)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](d)
 
 *Fragrances*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](e)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](e)
 
 *Preservatives*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](f)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](f)
 
 *Colouring agents*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](g)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](g)
 
 *Enzymes*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 6 — Packaging
+[^c-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 6 — Packaging
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](a)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](a)
 
 *Weight/utility ratio (WUR)*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](b)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](b)
 
 *Design for recycling*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 7 — Fitness for use
+[^c-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 7 — Fitness for use
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 8 — User information
+[^c-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 8 — User information
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 9 — Information appearing on the EU Ecolabel
+[^c-8d06cbad5d9cbdc0caf3a298780c241f] Criterion 9 — Information appearing on the EU Ecolabel
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f](\*)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f](\*)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d06cbad5d9cbdc0caf3a298780c241f]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/46); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d06cbad5d9cbdc0caf3a298780c241f]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 46](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/46); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

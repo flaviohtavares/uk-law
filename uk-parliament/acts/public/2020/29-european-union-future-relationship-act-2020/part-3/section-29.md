@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. General implementation of agreements[^key-01d611849930e293f36905189c1700d9]
+## 29. General implementation of agreements[^c-01d611849930e293f36905189c1700d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ and references to the purposes of (or having the effect of) implementing an agre
 
 ## Annotations
 
-[^key-01d611849930e293f36905189c1700d9]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2020/29/section/29) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/z)
+[^c-01d611849930e293f36905189c1700d9]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2020/29/section/29) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/z)

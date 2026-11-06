@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Review of indefinite notification requirements: Northern Ireland[^key-06d6362b18126d4e8d4bac08e9e07c42]
+## 124. Review of indefinite notification requirements: Northern Ireland[^c-06d6362b18126d4e8d4bac08e9e07c42]
 
 *Extent: N.I.*
 
@@ -102,4 +102,4 @@ In [Schedule 3A](https://www.legislation.gov.uk/ukpga/2003/42/schedule/3A) to th
 
 ## Annotations
 
-[^key-06d6362b18126d4e8d4bac08e9e07c42]: Commencement: S. 124 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)
+[^c-06d6362b18126d4e8d4bac08e9e07c42]: Commencement: S. 124 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)

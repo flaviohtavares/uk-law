@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 95. Application to dispose of charged property[^key-06954d39f72bc0b424a8995c87e8c99c]
+## 95. Application to dispose of charged property[^c-06954d39f72bc0b424a8995c87e8c99c]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06954d39f72bc0b424a8995c87e8c99c]: Commencement: [Rule 95](https://www.legislation.gov.uk/nisr/2026/11/rule/95) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-06954d39f72bc0b424a8995c87e8c99c]: Commencement: [Rule 95](https://www.legislation.gov.uk/nisr/2026/11/rule/95) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 19 — Certificate under Regulation 18(2)[^key-0d950dd299c107e676ca700c860d8e34]
+## SCHEDULE 19 — Certificate under Regulation 18(2)[^c-0d950dd299c107e676ca700c860d8e34]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ Part III
 
 ## Annotations
 
-[^key-0d950dd299c107e676ca700c860d8e34]: Commencement: Sch. 19 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-0d950dd299c107e676ca700c860d8e34]: Commencement: Sch. 19 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

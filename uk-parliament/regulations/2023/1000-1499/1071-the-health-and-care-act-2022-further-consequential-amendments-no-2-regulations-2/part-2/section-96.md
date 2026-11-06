@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Amendment of the Education (Student Support) (Wales) Regulations 2018 (English language text)[^key-405e75b06e710d20b964d52b10313b4b]
+## 96. Amendment of the Education (Student Support) (Wales) Regulations 2018 (English language text)[^c-405e75b06e710d20b964d52b10313b4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-405e75b06e710d20b964d52b10313b4b]: Commencement: [Reg. 96](https://www.legislation.gov.uk/uksi/2023/1071/regulation/96) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-405e75b06e710d20b964d52b10313b4b]: Commencement: [Reg. 96](https://www.legislation.gov.uk/uksi/2023/1071/regulation/96) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00078]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), amended by [S.I. 2022/634](https://www.legislation.gov.uk/uksi/2022/634); there are other amending instruments but none is relevant.

@@ -43,7 +43,7 @@ Coming into force in accordance with regulation 1(2) to (6)
 
 The Welsh Ministers, in exercise of the powers conferred on them by sections 69(1), (6) and (7) and 75(1) of the Curriculum and Assessment (Wales) Act 2021[^f00001], make the following Regulations:
 
-## 1. Title and commencement[^key-4f4b6c90a86caeeab53cfa5c2ec24d37][^key-cc32728c567f09a1077c51bedc7412e3][^key-e835bd8b2877d210ca88e2200bc4e3f2][^key-fb614558250b09a8ced3ae376222d79f][^key-dfb62184de70aa1ef12c8efb4d417f90]
+## 1. Title and commencement[^c-4f4b6c90a86caeeab53cfa5c2ec24d37][^c-cc32728c567f09a1077c51bedc7412e3][^c-e835bd8b2877d210ca88e2200bc4e3f2][^c-fb614558250b09a8ced3ae376222d79f][^c-dfb62184de70aa1ef12c8efb4d417f90]
 
 (1) The title of these Regulations is the Education in Multiple Settings (Wales) Regulations 2022.
 
@@ -81,7 +81,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 69(
 - (b) for pupils in year 11 at a pupil referral unit, and
 - (c) for children in year 11 who are provided with a non-PRU EOTAS curriculum.
 
-## 2. Interpretation[^key-a10cd1bca29732f4bfecec070cc709b7][^key-7ff354bbfa40c17997cc5f599dc75ee0][^key-0be18437129a2d27eb54c7c6f597228e][^key-660edc32901b3f88d3c53bb03823004e][^key-9b676bc35d9bc85b8f865fd20ab4b436]
+## 2. Interpretation[^c-a10cd1bca29732f4bfecec070cc709b7][^c-7ff354bbfa40c17997cc5f599dc75ee0][^c-0be18437129a2d27eb54c7c6f597228e][^c-660edc32901b3f88d3c53bb03823004e][^c-9b676bc35d9bc85b8f865fd20ab4b436]
 
 (1) In these Regulations—
 
@@ -123,7 +123,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 69(
 - (a) a looked after child, the appropriate local authority is the local authority that looks after the child;
 - (b) not a looked after child, the appropriate local authority is the local authority responsible for the child.
 
-## 3. Pupils registered at more than 1 maintained school[^key-8f39db967c506abde9da9e2a0af80493][^key-aceb72f46940b3ba272d45838a46b09c][^key-f0e7204b1f23b2d626f3020886d4f600][^key-0668335f87367fb30592aa53db955b38][^key-5fcc10c7fe476d74049341e31c949872]
+## 3. Pupils registered at more than 1 maintained school[^c-8f39db967c506abde9da9e2a0af80493][^c-aceb72f46940b3ba272d45838a46b09c][^c-f0e7204b1f23b2d626f3020886d4f600][^c-0668335f87367fb30592aa53db955b38][^c-5fcc10c7fe476d74049341e31c949872]
 
 (1) This regulation applies where a pupil is a registered pupil at more than 1 maintained school.
 
@@ -161,7 +161,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 69(
 - (a) the head teacher and governing body of each of the maintained schools, and
 - (b) any other local authority that maintains a school at which the pupil is registered.
 
-## 4. Pupils registered at more than 1 pupil referral unit[^key-e863fb1358da47cfa1a9a491679d9f46][^key-735ef847bba72b4d562dc0951a5de462][^key-dc2dd50c33909488926af4f0f701c275][^key-88d32cd33b2e8cbcb5c9e620863c7b1b][^key-ac8a05191ccfa6165bf7470ac10897ca]
+## 4. Pupils registered at more than 1 pupil referral unit[^c-e863fb1358da47cfa1a9a491679d9f46][^c-735ef847bba72b4d562dc0951a5de462][^c-dc2dd50c33909488926af4f0f701c275][^c-88d32cd33b2e8cbcb5c9e620863c7b1b][^c-ac8a05191ccfa6165bf7470ac10897ca]
 
 (1) This regulation applies where a pupil is a registered pupil at more than 1 pupil referral unit.
 
@@ -199,7 +199,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 69(
 - (a) the teacher in charge and the management committee (if there is one) of each of the pupil referral units, and
 - (b) any other local authority that maintains a pupil referral unit at which the pupil is registered.
 
-## 5. Pupils registered in at least 1 maintained school and in at least 1 pupil referral unit[^key-f21f0e379bf94d3d4c4207722e30dc06][^key-8cdc67104742c8c0e9e1dff717beeab7][^key-80a1e38d93e6f888094af3114834c80c][^key-ddd835bdf527b9e04a3d9d076eb63a51][^key-b912c5ec58c6d026ff51d5d6ef90c52c]
+## 5. Pupils registered in at least 1 maintained school and in at least 1 pupil referral unit[^c-f21f0e379bf94d3d4c4207722e30dc06][^c-8cdc67104742c8c0e9e1dff717beeab7][^c-80a1e38d93e6f888094af3114834c80c][^c-ddd835bdf527b9e04a3d9d076eb63a51][^c-b912c5ec58c6d026ff51d5d6ef90c52c]
 
 (1) This regulation applies where a pupil is a registered pupil in at least 1 maintained school and in at least 1 pupil referral unit.
 
@@ -241,7 +241,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 69(
 - (b) the teacher in charge and the management committee (if there is one) of each of the pupil referral units, and
 - (c) any other local authority that maintains a school at which the pupil is registered.
 
-## 6. Pupils registered in at least 1 maintained school and in at least 1 independent school[^key-96ffb45de66c35171dd1dd2eb04b1cbc][^key-8faee6e5ca3ea429f8dd15d2c7c48e30][^key-65451a876988552697858a6e5cde8171][^key-550f7c611e440254697fae2a2413d9ad][^key-6aead53fcf65a40b1873cdcb33318062]
+## 6. Pupils registered in at least 1 maintained school and in at least 1 independent school[^c-96ffb45de66c35171dd1dd2eb04b1cbc][^c-8faee6e5ca3ea429f8dd15d2c7c48e30][^c-65451a876988552697858a6e5cde8171][^c-550f7c611e440254697fae2a2413d9ad][^c-6aead53fcf65a40b1873cdcb33318062]
 
 (1) This regulation applies where a pupil is a registered pupil in at least 1 maintained school and in at least 1 independent school.
 
@@ -279,7 +279,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 69(
 - (c) in relation to a pupil referral unit the teacher in charge and the management committee (if there is one) of each of the pupil referral units, and
 - (d) any other local authority that maintains a school at which the pupil is registered.
 
-## 7. Pupils registered in at least 1 pupil referral unit and in at least 1 independent school[^key-d31fff36499fa44369c851e6a3e47cf7][^key-866e8d80e68bfab421a07aaecde2bcc9][^key-ad3bfa41a994b6c9a0b76ab7f337570a][^key-125bd8c7acc3345304c4c1c8d148c145][^key-02876e6a288060abd2a77fe6f1ede657]
+## 7. Pupils registered in at least 1 pupil referral unit and in at least 1 independent school[^c-d31fff36499fa44369c851e6a3e47cf7][^c-866e8d80e68bfab421a07aaecde2bcc9][^c-ad3bfa41a994b6c9a0b76ab7f337570a][^c-125bd8c7acc3345304c4c1c8d148c145][^c-02876e6a288060abd2a77fe6f1ede657]
 
 (1) This regulation applies where a pupil is a registered pupil in at least 1 pupil referral unit and in at least 1 independent school.
 
@@ -318,7 +318,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 69(
 - (c) in relation to a pupil referral unit the teacher in charge and the management committee (if there is one) of each of the pupil referral units, and
 - (d) any other local authority that maintains a school at which the pupil is registered.
 
-## 8. Pupils registered at more than 1 independent school[^key-4bc29b111cb3374763790096e0a036f7][^key-fbfcd41b59e16c49f25f0d69f2729205][^key-e0b34a4536588be458c423d5f17634df][^key-23838c71b3db2702376d334164d3d625][^key-4425170705a1112f97d48bc428713b3e]
+## 8. Pupils registered at more than 1 independent school[^c-4bc29b111cb3374763790096e0a036f7][^c-fbfcd41b59e16c49f25f0d69f2729205][^c-e0b34a4536588be458c423d5f17634df][^c-23838c71b3db2702376d334164d3d625][^c-4425170705a1112f97d48bc428713b3e]
 
 (1) This regulation applies where a pupil is a registered pupil at more than 1 independent school.
 
@@ -407,15 +407,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2021 asc 4](https://www.legislation.gov.uk/asc/2021/4). See section 82(1) for the definition of “regulations”.
 
-[^key-4f4b6c90a86caeeab53cfa5c2ec24d37]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/676/regulation/1) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
+[^c-4f4b6c90a86caeeab53cfa5c2ec24d37]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/676/regulation/1) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
 
-[^key-cc32728c567f09a1077c51bedc7412e3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/676/regulation/1) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
+[^c-cc32728c567f09a1077c51bedc7412e3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/676/regulation/1) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
 
-[^key-e835bd8b2877d210ca88e2200bc4e3f2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/676/regulation/1) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
+[^c-e835bd8b2877d210ca88e2200bc4e3f2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/676/regulation/1) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
 
-[^key-fb614558250b09a8ced3ae376222d79f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/676/regulation/1) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
+[^c-fb614558250b09a8ced3ae376222d79f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/676/regulation/1) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
 
-[^key-dfb62184de70aa1ef12c8efb4d417f90]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/676/regulation/1) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
+[^c-dfb62184de70aa1ef12c8efb4d417f90]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/676/regulation/1) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
 
 [^f00002]: Footnote: See regulation 2(1) for the definition of “reception year”.
 
@@ -433,15 +433,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00009]: Footnote: See regulation 2(1) for the definition of “local authority”.
 
-[^key-a10cd1bca29732f4bfecec070cc709b7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/676/regulation/2) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
+[^c-a10cd1bca29732f4bfecec070cc709b7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/676/regulation/2) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
 
-[^key-7ff354bbfa40c17997cc5f599dc75ee0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/676/regulation/2) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
+[^c-7ff354bbfa40c17997cc5f599dc75ee0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/676/regulation/2) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
 
-[^key-0be18437129a2d27eb54c7c6f597228e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/676/regulation/2) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
+[^c-0be18437129a2d27eb54c7c6f597228e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/676/regulation/2) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
 
-[^key-660edc32901b3f88d3c53bb03823004e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/676/regulation/2) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
+[^c-660edc32901b3f88d3c53bb03823004e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/676/regulation/2) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
 
-[^key-9b676bc35d9bc85b8f865fd20ab4b436]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/676/regulation/2) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
+[^c-9b676bc35d9bc85b8f865fd20ab4b436]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/676/regulation/2) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
 
 [^f00010]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -457,64 +457,64 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00016]: Footnote: The definition of “school year” was inserted by section 57 of, and paragraph 43 of Schedule 7 to, the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44).
 
-[^key-8f39db967c506abde9da9e2a0af80493]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/676/regulation/3) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
+[^c-8f39db967c506abde9da9e2a0af80493]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/676/regulation/3) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
 
-[^key-aceb72f46940b3ba272d45838a46b09c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/676/regulation/3) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
+[^c-aceb72f46940b3ba272d45838a46b09c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/676/regulation/3) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
 
-[^key-f0e7204b1f23b2d626f3020886d4f600]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/676/regulation/3) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
+[^c-f0e7204b1f23b2d626f3020886d4f600]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/676/regulation/3) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
 
-[^key-0668335f87367fb30592aa53db955b38]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/676/regulation/3) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
+[^c-0668335f87367fb30592aa53db955b38]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/676/regulation/3) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
 
-[^key-5fcc10c7fe476d74049341e31c949872]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/676/regulation/3) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
+[^c-5fcc10c7fe476d74049341e31c949872]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/676/regulation/3) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
 
 [^f00017]: Footnote: [S.I. 2022/655 (W. 145)](https://www.legislation.gov.uk/wsi/2022/655).
 
-[^key-e863fb1358da47cfa1a9a491679d9f46]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/676/regulation/4) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
+[^c-e863fb1358da47cfa1a9a491679d9f46]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/676/regulation/4) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
 
-[^key-735ef847bba72b4d562dc0951a5de462]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/676/regulation/4) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
+[^c-735ef847bba72b4d562dc0951a5de462]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/676/regulation/4) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
 
-[^key-dc2dd50c33909488926af4f0f701c275]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/676/regulation/4) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
+[^c-dc2dd50c33909488926af4f0f701c275]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/676/regulation/4) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
 
-[^key-88d32cd33b2e8cbcb5c9e620863c7b1b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/676/regulation/4) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
+[^c-88d32cd33b2e8cbcb5c9e620863c7b1b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/676/regulation/4) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
 
-[^key-ac8a05191ccfa6165bf7470ac10897ca]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/676/regulation/4) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
+[^c-ac8a05191ccfa6165bf7470ac10897ca]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/676/regulation/4) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
 
-[^key-f21f0e379bf94d3d4c4207722e30dc06]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/676/regulation/5) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
+[^c-f21f0e379bf94d3d4c4207722e30dc06]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/676/regulation/5) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
 
-[^key-8cdc67104742c8c0e9e1dff717beeab7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/676/regulation/5) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
+[^c-8cdc67104742c8c0e9e1dff717beeab7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/676/regulation/5) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
 
-[^key-80a1e38d93e6f888094af3114834c80c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/676/regulation/5) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
+[^c-80a1e38d93e6f888094af3114834c80c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/676/regulation/5) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
 
-[^key-ddd835bdf527b9e04a3d9d076eb63a51]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/676/regulation/5) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
+[^c-ddd835bdf527b9e04a3d9d076eb63a51]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/676/regulation/5) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
 
-[^key-b912c5ec58c6d026ff51d5d6ef90c52c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/676/regulation/5) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
+[^c-b912c5ec58c6d026ff51d5d6ef90c52c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/676/regulation/5) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
 
-[^key-96ffb45de66c35171dd1dd2eb04b1cbc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/676/regulation/6) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
+[^c-96ffb45de66c35171dd1dd2eb04b1cbc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/676/regulation/6) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
 
-[^key-8faee6e5ca3ea429f8dd15d2c7c48e30]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/676/regulation/6) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
+[^c-8faee6e5ca3ea429f8dd15d2c7c48e30]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/676/regulation/6) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
 
-[^key-65451a876988552697858a6e5cde8171]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/676/regulation/6) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
+[^c-65451a876988552697858a6e5cde8171]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/676/regulation/6) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
 
-[^key-550f7c611e440254697fae2a2413d9ad]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/676/regulation/6) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
+[^c-550f7c611e440254697fae2a2413d9ad]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/676/regulation/6) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
 
-[^key-6aead53fcf65a40b1873cdcb33318062]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/676/regulation/6) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
+[^c-6aead53fcf65a40b1873cdcb33318062]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/676/regulation/6) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
 
-[^key-d31fff36499fa44369c851e6a3e47cf7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/676/regulation/7) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
+[^c-d31fff36499fa44369c851e6a3e47cf7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/676/regulation/7) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
 
-[^key-866e8d80e68bfab421a07aaecde2bcc9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/676/regulation/7) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
+[^c-866e8d80e68bfab421a07aaecde2bcc9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/676/regulation/7) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
 
-[^key-ad3bfa41a994b6c9a0b76ab7f337570a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/676/regulation/7) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
+[^c-ad3bfa41a994b6c9a0b76ab7f337570a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/676/regulation/7) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
 
-[^key-125bd8c7acc3345304c4c1c8d148c145]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/676/regulation/7) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
+[^c-125bd8c7acc3345304c4c1c8d148c145]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/676/regulation/7) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
 
-[^key-02876e6a288060abd2a77fe6f1ede657]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/676/regulation/7) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
+[^c-02876e6a288060abd2a77fe6f1ede657]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/676/regulation/7) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
 
-[^key-4bc29b111cb3374763790096e0a036f7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/676/regulation/8) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
+[^c-4bc29b111cb3374763790096e0a036f7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/676/regulation/8) in force at 1.9.2022 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/2)
 
-[^key-fbfcd41b59e16c49f25f0d69f2729205]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/676/regulation/8) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
+[^c-fbfcd41b59e16c49f25f0d69f2729205]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/676/regulation/8) in force at 1.9.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/3)
 
-[^key-e0b34a4536588be458c423d5f17634df]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/676/regulation/8) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
+[^c-e0b34a4536588be458c423d5f17634df]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/676/regulation/8) in force at 1.9.2024 for specified purposes, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/4)
 
-[^key-23838c71b3db2702376d334164d3d625]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/676/regulation/8) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
+[^c-23838c71b3db2702376d334164d3d625]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/676/regulation/8) in force at 1.9.2025 for specified purposes, see [reg. 1(5)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/5)
 
-[^key-4425170705a1112f97d48bc428713b3e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/676/regulation/8) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)
+[^c-4425170705a1112f97d48bc428713b3e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/676/regulation/8) in force at 1.9.2026 in so far as not already in force, see [reg. 1(6)](https://www.legislation.gov.uk/wsi/2022/676/regulation/1/6)

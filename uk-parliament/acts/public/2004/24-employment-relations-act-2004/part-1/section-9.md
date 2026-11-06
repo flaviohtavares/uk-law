@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Additional duties on employers informed of ballots[^key-996c5f772a44aafe3e1b44dd4e627016]
+## 9. Additional duties on employers informed of ballots[^c-996c5f772a44aafe3e1b44dd4e627016]
 
 *Extent: E+W+S*
 
@@ -110,4 +110,4 @@ summary: ''
 
 ## Annotations
 
-[^key-996c5f772a44aafe3e1b44dd4e627016]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2004/24/section/9) in force at 1.10.2005 by [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+[^c-996c5f772a44aafe3e1b44dd4e627016]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2004/24/section/9) in force at 1.10.2005 by [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2005/2419/article/5))

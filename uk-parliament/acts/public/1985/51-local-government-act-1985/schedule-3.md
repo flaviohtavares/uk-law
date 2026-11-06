@@ -58,10 +58,10 @@ Section 7.
 
 (8)[^c3166351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-3ae0e4b2dbb909cdfefe0e46ccc99ac7] Paragraph 35 shall have effect in relation to any area— *(affected by repeal, see note)*[^key-3ae0e4b2dbb909cdfefe0e46ccc99ac7]
+(9)[^c-3ae0e4b2dbb909cdfefe0e46ccc99ac7] Paragraph 35 shall have effect in relation to any area— *(affected by repeal, see note)*[^c-3ae0e4b2dbb909cdfefe0e46ccc99ac7]
 
-- (a) which is in a metropolitan district; and *(affected by repeal, see note)*[^key-3ae0e4b2dbb909cdfefe0e46ccc99ac7]
-- (b) to which subsections (1) and (2) of section 61 of the National Parks and Access to the Countryside Act 1949 do not apply at the abolition date by virtue of subsection (3) of that section, as if the reference to the county council were a reference to the council of that metropolitan district. *(affected by repeal, see note)*[^key-3ae0e4b2dbb909cdfefe0e46ccc99ac7]
+- (a) which is in a metropolitan district; and *(affected by repeal, see note)*[^c-3ae0e4b2dbb909cdfefe0e46ccc99ac7]
+- (b) to which subsections (1) and (2) of section 61 of the National Parks and Access to the Countryside Act 1949 do not apply at the abolition date by virtue of subsection (3) of that section, as if the reference to the county council were a reference to the council of that metropolitan district. *(affected by repeal, see note)*[^c-3ae0e4b2dbb909cdfefe0e46ccc99ac7]
 
 ### Grants for expenditure on National Parks
 
@@ -113,7 +113,7 @@ Section 7.
 
 [^c3166351]: Textual amendment: Sch. 3 para. 5(2)-(8) repealed (1.4.1997) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/2560](https://www.legislation.gov.uk/uksi/1996/2560), [art. 2](https://www.legislation.gov.uk/uksi/1996/2560/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2560/schedule)
 
-[^key-3ae0e4b2dbb909cdfefe0e46ccc99ac7]: Textual amendment: Sch. 3 para. 5(9) repealed (28.5.2005 for W.) by [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3), [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I); [S.I. 2005/423](https://www.legislation.gov.uk/uksi/2005/423), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/423/article/2/i)
+[^c-3ae0e4b2dbb909cdfefe0e46ccc99ac7]: Textual amendment: Sch. 3 para. 5(9) repealed (28.5.2005 for W.) by [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3), [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I); [S.I. 2005/423](https://www.legislation.gov.uk/uksi/2005/423), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/423/article/2/i)
 
 [^c3166501]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/1985/51/schedule/3/paragraph/6) repealed (1.4.1997) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/2560](https://www.legislation.gov.uk/uksi/1996/2560), [art. 2](https://www.legislation.gov.uk/uksi/1996/2560/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2560/schedule)
 

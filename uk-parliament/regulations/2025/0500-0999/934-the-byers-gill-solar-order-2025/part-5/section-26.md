@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Application of the 1981 Act[^key-f150ce88bec7d53fe8e1776566e08d1d]
+## 26. Application of the 1981 Act[^c-f150ce88bec7d53fe8e1776566e08d1d]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f150ce88bec7d53fe8e1776566e08d1d]: Commencement: Art. 26 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-f150ce88bec7d53fe8e1776566e08d1d]: Commencement: Art. 26 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
 
 [^f00031]: Footnote: Section 5A to the 1981 Act was inserted by section 182(2) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).

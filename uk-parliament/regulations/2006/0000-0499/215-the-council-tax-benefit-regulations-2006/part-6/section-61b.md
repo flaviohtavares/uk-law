@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 61B. Amount of extended payment (qualifying contributory benefits)[^key-3c4851baf065c4c1e2b61b74f3c5d075]
+## 61B. Amount of extended payment (qualifying contributory benefits)[^c-3c4851baf065c4c1e2b61b74f3c5d075]
 
 (1) For any week during the extended payment period the amount of the extended payment (qualifying contributory benefits) payable to a claimant shall be the higher of—
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c4851baf065c4c1e2b61b74f3c5d075]: Textual amendment: Regs. 61-61D substituted for reg. 61 (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/8/2)
+[^c-3c4851baf065c4c1e2b61b74f3c5d075]: Textual amendment: Regs. 61-61D substituted for reg. 61 (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/8/2)

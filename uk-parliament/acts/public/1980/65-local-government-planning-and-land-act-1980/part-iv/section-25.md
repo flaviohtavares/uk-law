@@ -22,7 +22,7 @@ summary: ''
 
 (1) In subsection (1) of section 174 of the [^c13871451]Local Government Act 1972 (by virtue of which travelling and subsistence allowances are payable to members of local authorities and other bodies but the Secretary of State has power to specify maximum rates in the case of travel for the purpose of an approved duty within the United Kingdom) and in subsection (1) of section 46 of the [^c13871461] Local Government (Scotland) Act 1973 (which makes similar provision for Scotland) after the word “travel" there shall be inserted the words “or subsistence".
 
-(2)[^key-0cfbb29ca0869b1a8aa29c42bb58038f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0cfbb29ca0869b1a8aa29c42bb58038f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following subsection shall be inserted after section 175(3) of the said Act of 1972:—[^M_F_fa1802ca-6663-49a1-aa86-dc3c964da9cd]
 
@@ -50,7 +50,7 @@ summary: ''
 
 [^c13871461]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-0cfbb29ca0869b1a8aa29c42bb58038f]: Textual amendment: [S. 25(2)](https://www.legislation.gov.uk/ukpga/1980/65/section/25/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-0cfbb29ca0869b1a8aa29c42bb58038f]: Textual amendment: [S. 25(2)](https://www.legislation.gov.uk/ukpga/1980/65/section/25/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
 [^M_F_fa1802ca-6663-49a1-aa86-dc3c964da9cd]: Textual amendment: Words in s. 25(3) substituted by [Water Act 1983 (c. 23)](https://www.legislation.gov.uk/ukpga/1983/23), [s. 11(3)](https://www.legislation.gov.uk/ukpga/1983/23/section/11/3), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/1983/23/schedule/4/paragraph/7)
 

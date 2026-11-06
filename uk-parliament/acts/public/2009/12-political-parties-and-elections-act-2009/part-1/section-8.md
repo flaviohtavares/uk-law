@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Education about systems of government and EU institutions[^key-5801cc1fcc174100e559f94b8df7520f]
+## 8. Education about systems of government and EU institutions[^c-5801cc1fcc174100e559f94b8df7520f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 13 of the 2000 Act (education about electoral and democratic systems)
 
 ## Annotations
 
-[^key-5801cc1fcc174100e559f94b8df7520f]: Commencement: S. 8 in force at 1.1.2011 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/2866/article/4/a)
+[^c-5801cc1fcc174100e559f94b8df7520f]: Commencement: S. 8 in force at 1.1.2011 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/2866/article/4/a)

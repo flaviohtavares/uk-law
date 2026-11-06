@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54A. Rent reviews and arrangements for new tenancies[^key-50585368d5919c57b059b5494bbd34f5]
+## 54A. Rent reviews and arrangements for new tenancies[^c-50585368d5919c57b059b5494bbd34f5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50585368d5919c57b059b5494bbd34f5]: Textual amendment: S. 54A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 100(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/100/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-50585368d5919c57b059b5494bbd34f5]: Textual amendment: S. 54A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 100(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/100/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

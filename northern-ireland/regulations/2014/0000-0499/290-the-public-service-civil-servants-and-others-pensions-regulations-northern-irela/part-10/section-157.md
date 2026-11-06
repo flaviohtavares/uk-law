@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 157. EU and overseas transfers[^key-e9485d3f12e8a530d0255c1f2ad23991]
+## 157. EU and overseas transfers[^c-e9485d3f12e8a530d0255c1f2ad23991]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9485d3f12e8a530d0255c1f2ad23991]: Commencement: [Reg. 157](https://www.legislation.gov.uk/nisr/2014/290/regulation/157) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-e9485d3f12e8a530d0255c1f2ad23991]: Commencement: [Reg. 157](https://www.legislation.gov.uk/nisr/2014/290/regulation/157) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

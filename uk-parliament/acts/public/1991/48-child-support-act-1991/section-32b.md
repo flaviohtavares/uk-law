@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32B. Orders under section 32A: joint accounts[^key-e50a3526c0cb61d89517e59621a99e95]
+## 32B. Orders under section 32A: joint accounts[^c-e50a3526c0cb61d89517e59621a99e95]
 
 *Extent: E+W+S*
 
-(1) Before making an order under section 32A in respect of a joint account the Secretary of State[^key-3739cc3ee4e943ae1360815b6d15e06b] shall offer each of the account-holders an opportunity to make representations about—
+(1) Before making an order under section 32A in respect of a joint account the Secretary of State[^c-3739cc3ee4e943ae1360815b6d15e06b] shall offer each of the account-holders an opportunity to make representations about—
 
 - (a) the proposal to make the order; and
 - (b) the amounts to be deducted under the order, if it is made.
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e50a3526c0cb61d89517e59621a99e95]: Textual amendment: [Ss. 32A-32D](https://www.legislation.gov.uk/ukpga/1991/48/section/32A) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 22](https://www.legislation.gov.uk/ukpga/2008/6/section/22), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/1/a)
+[^c-e50a3526c0cb61d89517e59621a99e95]: Textual amendment: [Ss. 32A-32D](https://www.legislation.gov.uk/ukpga/1991/48/section/32A) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 22](https://www.legislation.gov.uk/ukpga/2008/6/section/22), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/1/a)
 
-[^key-3739cc3ee4e943ae1360815b6d15e06b]: Textual amendment: Words in [s. 32B](https://www.legislation.gov.uk/ukpga/1991/48/section/32B) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 35](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/35)
+[^c-3739cc3ee4e943ae1360815b6d15e06b]: Textual amendment: Words in [s. 32B](https://www.legislation.gov.uk/ukpga/1991/48/section/32B) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 35](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/35)

@@ -35,30 +35,30 @@ concerning the authorisation of disodium 5′-ribonucleotides, disodium 5′-gua
 
 (Text with EEA relevance) (revoked)
 
-[^key-525eda24705c15c7791e6342e6171196]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-525eda24705c15c7791e6342e6171196]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-525eda24705c15c7791e6342e6171196]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Denial[^key-525eda24705c15c7791e6342e6171196]
+## Article 1. Authorisation[^c-525eda24705c15c7791e6342e6171196]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional measures[^key-525eda24705c15c7791e6342e6171196]
+## Article 2. Denial[^c-525eda24705c15c7791e6342e6171196]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-525eda24705c15c7791e6342e6171196]
+## Article 3. Transitional measures[^c-525eda24705c15c7791e6342e6171196]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-525eda24705c15c7791e6342e6171196]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Entry into force[^c-525eda24705c15c7791e6342e6171196]
 
-## ANNEX[^key-525eda24705c15c7791e6342e6171196]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-525eda24705c15c7791e6342e6171196]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-525eda24705c15c7791e6342e6171196]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-525eda24705c15c7791e6342e6171196]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 269](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/269) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-525eda24705c15c7791e6342e6171196]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 269](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/269) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

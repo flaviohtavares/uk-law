@@ -44,18 +44,18 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred upon him by Article 359 of the Insolvency (Northern Ireland) Order 1989[^f00001], and section 379 of the Financial Services and Markets Act 2000[^f00002] and of all other powers enabling him in that behalf, with the concurrence of the Department of Enterprise, Trade and Investment[^f00003], and after consulting the committee existing for that purpose under Article 360 of the said Order, hereby makes the following Rules:
 
-## 1. Citation, commencement and revocation[^key-143a1206eec9615c69e34af7980e3d35]
+## 1. Citation, commencement and revocation[^c-143a1206eec9615c69e34af7980e3d35]
 
 (1) These Rules may be cited as the Insurers (Winding-Up) Rules (Northern Ireland) 2005 and shall come into operation on 19th September 2005.
 
 (2) The Insurance Companies (Winding-Up) Rules (Northern Ireland) 1992[^f00004] are hereby revoked.
 
-## 2. Interpretation[^key-39473daa5fb5b4a4cec35ed8a177461c]
+## 2. Interpretation[^c-39473daa5fb5b4a4cec35ed8a177461c]
 
 (1) In these Rules—
 
 - “the 2000 Act” means the Financial Services and Markets Act 2000;
-- [^key-9249344ada0cfc9ccf0dd34f265bce5e]...
+- [^c-9249344ada0cfc9ccf0dd34f265bce5e]...
 - “company” means an insurer which is being wound up;
 - “contract of general insurance” and “contract of long-term insurance” have the meaning given by Article 3(1) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00005];
 - “the Department” means the Department of Enterprise, Trade and Investment;
@@ -86,13 +86,13 @@ The Lord Chancellor, in exercise of the powers conferred upon him by Article 359
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Rules as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Application[^key-3ff61ffd394dd237a66821aef0e939e9]
+## 3. Application[^c-3ff61ffd394dd237a66821aef0e939e9]
 
 (1) These Rules apply to proceedings for the winding-up of an insurer which commence on or after the date on which these Rules come into operation.
 
 (2) These Rules supplement the principal Rules and the general regulations which continue to apply to the proceedings in the winding-up of an insurer under the 1989 Order as they apply to proceedings in the winding-up of any company under that Order; but in the event of a conflict between these Rules and the principal Rules or the general regulations these Rules prevail.
 
-## 4. Appointment of liquidator[^key-16fdaf220db537ac1b8b8e6c778f579d]
+## 4. Appointment of liquidator[^c-16fdaf220db537ac1b8b8e6c778f579d]
 
 Where the High Court is considering whether to appoint a liquidator under—
 
@@ -101,7 +101,7 @@ Where the High Court is considering whether to appoint a liquidator under—
 
 the manager of the Financial Services Compensation Scheme may appear and make representations to the Court as to the person to be appointed.
 
-## 5. Maintenance of separate financial records for long-term and other business in winding-up[^key-27befe0ab77b5baf2944cc2f4c3da09b]
+## 5. Maintenance of separate financial records for long-term and other business in winding-up[^c-27befe0ab77b5baf2944cc2f4c3da09b]
 
 (1) This rule applies in the case of a company carrying on long-term business in whose case no stop order has been made.
 
@@ -115,18 +115,18 @@ the manager of the Financial Services Compensation Scheme may appear and make re
 
 (6) Regulation 10 of the general regulations (financial records) applies only in relation to the company’s other business.
 
-(7) In relation to the long-term business, the liquidator shall, with a view to the long-term business of the company being transferred to another insurer, maintain such accounting, valuation and other records as will enable such other insurer upon the transfer being effected to comply with the requirements of any rules made by Financial Conduct Authority or the Prudential Regulation Authority[^key-a90590ac4cf64c4e156f586c914432ed] under Part X of the 2000 Act relating to accounts and statements of insurers.
+(7) In relation to the long-term business, the liquidator shall, with a view to the long-term business of the company being transferred to another insurer, maintain such accounting, valuation and other records as will enable such other insurer upon the transfer being effected to comply with the requirements of any rules made by Financial Conduct Authority or the Prudential Regulation Authority[^c-a90590ac4cf64c4e156f586c914432ed] under Part X of the 2000 Act relating to accounts and statements of insurers.
 
 (8) In paragraphs (4) and (5)—
 
-- (a) “accounts” means any accounts or statements maintained by the company in compliance with a requirement under the 1986 Order or any rules made by Financial Conduct Authority or the Prudential Regulation Authority[^key-86e4f1767b8d954f806dcf281b3475fc] under Part X of the 2000 Act;
+- (a) “accounts” means any accounts or statements maintained by the company in compliance with a requirement under the 1986 Order or any rules made by Financial Conduct Authority or the Prudential Regulation Authority[^c-86e4f1767b8d954f806dcf281b3475fc] under Part X of the 2000 Act;
 - (b) “permitted general business” means the business of effecting or carrying out a contract of general insurance where the risk insured against relates to either accident or sickness.
 
-## 6. Valuation of general business policies[^key-4fc099393319ce6abe3ab4df0c05645f]
+## 6. Valuation of general business policies[^c-4fc099393319ce6abe3ab4df0c05645f]
 
 Except in relation to amounts which have fallen due for payment before the liquidation date and liabilities referred to in paragraph 2(1)(b) of Schedule 1, the holder of a general business policy shall be admitted as a creditor in relation to his policy without proof for an amount equal to the value of the policy and for this purpose the value of a policy shall be determined in accordance with Schedule 1.
 
-## 7. Valuation of long-term policies[^key-7b9105d1c16584e572d046225c8dfce9]
+## 7. Valuation of long-term policies[^c-7b9105d1c16584e572d046225c8dfce9]
 
 (1) This Rule applies in relation to a company’s long-term business where no stop order has been made.
 
@@ -139,7 +139,7 @@ Except in relation to amounts which have fallen due for payment before the liqui
 - (a) for the minimum amount determined in accordance with Article 30(2) and (3) of the 1979 Order, or
 - (b) if the liquidator is satisfied that it was the practice of the company during the five years immediately before the liquidation date to issue policies under Article 30 of that Order in excess of the minimum amounts so determined, for the amount determined in accordance with that practice.
 
-**8.**[^key-d8d9651dbcf7c4533691ee68cb98e1f1] (1) This Rule applies in relation to a company’s long-term business where a stop order has been made.
+**8.**[^c-d8d9651dbcf7c4533691ee68cb98e1f1] (1) This Rule applies in relation to a company’s long-term business where a stop order has been made.
 
 (2) In relation to a claim under a policy which has fallen due for payment on or after the liquidation date and before the date of the stop order, a policy holder shall be admitted as a creditor without proof for such amount as appears from the records of the company and of the liquidator to be due in respect of that claim.
 
@@ -147,7 +147,7 @@ Except in relation to amounts which have fallen due for payment before the liqui
 
 (4) Rule 7(4) applies for the purposes of this Rule as if references to the liquidation date (other than that in sub-paragraph (b) of that paragraph) were references to the date of the stop order.
 
-## 9. Attribution of liabilities to company’s long-term business[^key-d40921c6fd660b208dcbdb86befd17c1]
+## 9. Attribution of liabilities to company’s long-term business[^c-d40921c6fd660b208dcbdb86befd17c1]
 
 (1) This Rule applies in the case of a company carrying on long-term business if at the liquidation date there are liabilities of the company in respect of which it is not clear from the accounting and other records of the company whether they are or not attributable to the company’s long-term business.
 
@@ -162,7 +162,7 @@ and he may use the first method for some of the liabilities and the second metho
 
 (4) Notwithstanding anything in paragraph (1) to (3), the High Court may order that the determination of which (if any) of the liabilities referred to in paragraph (1) are attributable to the company’s long-term business and which (if any) are not shall be made in such manner and by such methods as the Court may direct or the Court may itself make the determination.
 
-## 10. Attribution of assets to company’s long-term business[^key-56d9c60b39b7ed4c7d183b202bc69102]
+## 10. Attribution of assets to company’s long-term business[^c-56d9c60b39b7ed4c7d183b202bc69102]
 
 (1) This Rule applies in the case of a company carrying on long-term business if at the liquidation date there are assets of the company in respect of which—
 
@@ -188,13 +188,13 @@ and he may use the first method for some of those assets and the second method f
 
 (6) Notwithstanding anything in paragraphs (1) to (5), the High Court may order that the determination of which (if any) of the assets referred to in paragraph (1) are attributable to the fund or funds maintained by the company in respect of its long-term business and which (if any) are not shall be made in such manner and by such methods as the Court may direct or the Court may itself make the determination.
 
-## 11. Excess of long-term business assets[^key-f77c6c36f7c38c5613d03548b0e73d65]
+## 11. Excess of long-term business assets[^c-f77c6c36f7c38c5613d03548b0e73d65]
 
 (1) Where the company is one carrying on long-term business and in whose case no stop order has been made, for the purpose of determining the amount, if any, of the excess of the long-term business assets, there shall be included amongst the liabilities of the company attributable to its long-term business an amount determined by the liquidator in respect of liabilities and expenses likely to be incurred in connection with the transfer of the company’s long-term business as a going concern to another insurance company being liabilities not included in the validation of the long-term policies made in pursuance of Rule 7.
 
 (2) Where the liquidator is carrying on the long-term business of an insurer with a view to that business being transferred as a going concern to a person or persons (“transferee”) who may lawfully carry out those contracts (or substitute policies being issued by another insurer), the liquidator may, in addition to any amounts paid by the Financial Services Compensation Scheme for the benefit of the transferee to secure such a transfer or to procure substitute policies being issued, pay to the transferee or other insurer all or part of such funds or assets as are attributable to the long-term business being transferred or substituted.
 
-## 12. Actuarial advice[^key-ec7ec7f58b02ea4519ad2994b24451e1]
+## 12. Actuarial advice[^c-ec7ec7f58b02ea4519ad2994b24451e1]
 
 (1) Before doing any of the following, that is to say—
 
@@ -207,7 +207,7 @@ the liquidator shall obtain and consider advice thereon (including an estimate o
 
 (2) Before seeking, for the purpose of valuing a policy, the direction of the High Court as to the assumption of a particular rate of interest or the employment of any rates of mortality or disability, the liquidator shall obtain and consider advice thereon from an actuary.
 
-## 13. Utilisation of excess of assets[^key-3d80709342fa4b15668e9659a814c187]
+## 13. Utilisation of excess of assets[^c-3d80709342fa4b15668e9659a814c187]
 
 (1) Except at the direction of the High Court, no distribution may be made out of and no transfer to another insurer may be made of—
 
@@ -216,9 +216,9 @@ the liquidator shall obtain and consider advice thereon (including an estimate o
 
 (2) Before giving a direction under paragraph (1) the High Court may require the liquidator to advertise the proposal to make a distribution or a transfer in such manner as the Court shall direct.
 
-**14.**[^key-5d938686d3047f01bbfba80e6b4bce60] In the case of a company carrying on long-term business in whose case no stop order has been made, Regulation 5 of the general regulations (payments into the Insolvency Account) applies only in relation to the company’s other business.
+**14.**[^c-5d938686d3047f01bbfba80e6b4bce60] In the case of a company carrying on long-term business in whose case no stop order has been made, Regulation 5 of the general regulations (payments into the Insolvency Account) applies only in relation to the company’s other business.
 
-## 15. Custody of assets[^key-9f6669d7e95e7ec4643b65a80412e106]
+## 15. Custody of assets[^c-9f6669d7e95e7ec4643b65a80412e106]
 
 (1) The Department may, in the case of a company carrying on long-term business in whose case no stop order has been made, require that the whole or a specified proportion of the assets representing the fund or funds maintained by the company in respect of its long-term business shall be held by a person approved by it for the purpose as trustee for the company.
 
@@ -226,13 +226,13 @@ the liquidator shall obtain and consider advice thereon (including an estimate o
 
 (3) The liquidator may not grant any mortgage or charge of assets which are held by a person as trustee for the company in compliance with a requirement imposed under this Rule except with the consent of the Department.
 
-## 16. Maintenance of accounting, valuation and other records[^key-a76fa6e09daa3611a2d7bb8772f59941]
+## 16. Maintenance of accounting, valuation and other records[^c-a76fa6e09daa3611a2d7bb8772f59941]
 
 (1) In the case of a company carrying on long-term business in whose case no stop order has been made, Regulation 10 of the general regulations (financial records) applies only in relation to the company’s other business.
 
-(2) The liquidator of such a company shall, with a view to the long-term business of the company being transferred to another insurer, maintain such accounting, valuation and other records as will enable such other insurer upon the transfer being effected to comply with the requirements of any rules made by Financial Conduct Authority or the Prudential Regulation Authority[^key-fb4534e3deb13480d1cdb76e250d6b86] under Part X of the 2000 Act relating to accounts and statements of insurers.
+(2) The liquidator of such a company shall, with a view to the long-term business of the company being transferred to another insurer, maintain such accounting, valuation and other records as will enable such other insurer upon the transfer being effected to comply with the requirements of any rules made by Financial Conduct Authority or the Prudential Regulation Authority[^c-fb4534e3deb13480d1cdb76e250d6b86] under Part X of the 2000 Act relating to accounts and statements of insurers.
 
-## 17. Additional powers in relation to long-term business[^key-6c13dcb495085bb3e4eea8977cbaba1e]
+## 17. Additional powers in relation to long-term business[^c-6c13dcb495085bb3e4eea8977cbaba1e]
 
 (1) In the case of a company carrying on long-term business in whose case no stop order has been made, Regulation 9 of the general regulations (interest) applies only in relation to the company’s other business.
 
@@ -241,7 +241,7 @@ the liquidator shall obtain and consider advice thereon (including an estimate o
 - (a) not to make investments of a specified class or description,
 - (b) to realise, before the expiration of a specified period, the whole or a specified proportion of investments of a specified class or description held by the liquidator.
 
-## 18. Accounts and audit[^key-735d4f577626977132528d44932aabee]
+## 18. Accounts and audit[^c-735d4f577626977132528d44932aabee]
 
 (1) In the case of a company carrying on long-term business in whose case no stop order has been made, Regulation 12 of the general regulations (liquidator carrying on business) applies only in relation to the company’s other business.
 
@@ -249,11 +249,11 @@ the liquidator shall obtain and consider advice thereon (including an estimate o
 
 (3) The liquidator of such a company shall, if required to do so by the Department, instruct an actuary to investigate the financial condition of the company’s long-term business and to report thereon in such manner as the Department may specify.
 
-## 19. Security by the liquidator and special manager[^key-19c7257c023a6c0aece2b661f230344d]
+## 19. Security by the liquidator and special manager[^c-19c7257c023a6c0aece2b661f230344d]
 
 In the case of a company carrying on long-term business in whose case no stop order has been made, Rule 4.217 of the principal Rules (security) applies separately to the company’s long-term business and to its other business.
 
-## 20. Proof of debts[^key-6f43964fed63aabbb0ba8b2c6885393e]
+## 20. Proof of debts[^c-6f43964fed63aabbb0ba8b2c6885393e]
 
 (1) This Rule applies in the case of a company carrying on long-term business and in whose case no stop order has been made.
 
@@ -263,13 +263,13 @@ In the case of a company carrying on long-term business in whose case no stop or
 
 (4) When he admits any debt, in whole or in part, the liquidator shall state in writing how much of what he admits is attributable to the company’s long-term business and how much to the company’s other business.
 
-## 21. Failure to pay premiums[^key-87116f35f93a946604b5bfc00ef86c90]
+## 21. Failure to pay premiums[^c-87116f35f93a946604b5bfc00ef86c90]
 
 (1) The liquidator may in the course of carrying on the company’s long-term business and on such terms as he thinks fit accept payment of a premium even though the payment is tendered after the date on which under the terms of the policy it was finally due to be paid.
 
 (2) The liquidator may in the course of carrying on the company’s long-term business, and having regard to the general practice of insurers, compensate a policy holder whose policy has lapsed in consequence of a failure to pay any premium by issuing a free paid-up policy for reduced benefits or otherwise as the liquidator thinks fit.
 
-## 22. Notice of valuation of policy[^key-8bec6d16b218fc05ddbcb88a4e859b50]
+## 22. Notice of valuation of policy[^c-8bec6d16b218fc05ddbcb88a4e859b50]
 
 (1) Before paying a dividend in respect of claims other than under contracts of long-term insurance, the liquidator shall give notice of the value of each general business policy, as determined by him in accordance with Rule 6, to the persons appearing from the records of the company or otherwise to be entitled to an interest in that policy and he shall do so in such manner as the High Court may direct.
 
@@ -283,7 +283,7 @@ In the case of a company carrying on long-term business in whose case no stop or
 
 (6) Where the liquidator summons a meeting of creditors in respect of liabilities of the company attributable to either or both its long-term business or other business, he may adopt any valuation carried out in accordance with Rules 6, 7 or 8 as the case may be or, if no such valuation has been carried out by the time of the meeting, he may conduct the meeting using such estimates of the value of policies as he thinks fit.
 
-## 23. Dividends to creditors[^key-3a1521af4e9da04fa195a842d89f64c7]
+## 23. Dividends to creditors[^c-3a1521af4e9da04fa195a842d89f64c7]
 
 (1) This Rule applies in the case of a company carrying on long-term business.
 
@@ -291,7 +291,7 @@ In the case of a company carrying on long-term business in whose case no stop or
 
 (3) The High Court may, at any time before the making of a stop order, permit a dividend to be declared and paid on such terms as it thinks fit in respect only of debts which fell due to payment before the liquidation date or, in the case of claims under long-term policies, which have fallen due for payment on or after the liquidation date.
 
-## 24. Meetings of creditors[^key-2a2e4981ae31c06c4bc54e2286218ae1]
+## 24. Meetings of creditors[^c-2a2e4981ae31c06c4bc54e2286218ae1]
 
 (1) In the case of a company carrying on long-term business in whose case no stop order has been made, the creditors entitled to participate in creditor’s meetings may be—
 
@@ -315,7 +315,7 @@ chapter 8 of Part 4 and Part 8 of the principal Rules apply to each such separat
 - “long-term business assets” means the assets representing the fund or funds maintained by the company in respect of its long-term business;
 - “other business assets” means any assets of the company which are not long-term business assets.
 
-## 25. Remuneration of liquidator carrying on long-term business[^key-e04e4e4b1f9c1c3401ccb265d5e9f1a8]
+## 25. Remuneration of liquidator carrying on long-term business[^c-e04e4e4b1f9c1c3401ccb265d5e9f1a8]
 
 (1) So long as no stop order has been made in relation to a company carrying on long-term business, the liquidator is entitled to receive remuneration for his services as such in relation to the carrying on of that business as provided for in this Rule.
 
@@ -327,13 +327,13 @@ chapter 8 of Part 4 and Part 8 of the principal Rules apply to each such separat
 
 (5) If the liquidator’s remuneration has been fixed by the liquidation committee, and the liquidator considers the amount to be insufficient, he may request that it be increased by resolution of the creditors.
 
-## 26. Apportionment of costs payable out of the assets[^key-6219ecf88188b08bd621a8f1d543c90a]
+## 26. Apportionment of costs payable out of the assets[^c-6219ecf88188b08bd621a8f1d543c90a]
 
 (1) Where no stop order has been made in relation to a company, Rule 4.228 of the principal Rules (general rule as to priority) applies separately to the assets of the company’s long-term business and to the assets of the company’s other business.
 
 (2) But where any fee, expense, cost, charge, disbursement or remuneration does not relate exclusively to the assets of the company’s long-term business or to the assets of the company’s other business, the liquidator shall apportion it amongst those assets in such manner as he shall determine.
 
-## 27. Notice of stop order[^key-9d1cd43114709974995ea5e0b5aa3dc7]
+## 27. Notice of stop order[^c-9d1cd43114709974995ea5e0b5aa3dc7]
 
 (1) When a stop order has been made in relation to the company, the High Court shall, on the same day, send to the official receiver a notice informing him that the stop order has been made.
 
@@ -372,18 +372,18 @@ Department of Enterprise, Trade and Investment
 
 Rule 6
 
-**1.**[^key-62ecb67d6139e78d9d0759b6e8e327fe] (1) This paragraph applies in relation to periodic payments under a general business policy which fall due for payment after the liquidation date where the event giving rise to the liability to make the payments occurred before the liquidation date.
+**1.**[^c-62ecb67d6139e78d9d0759b6e8e327fe] (1) This paragraph applies in relation to periodic payments under a general business policy which fall due for payment after the liquidation date where the event giving rise to the liability to make the payments occurred before the liquidation date.
 
 (2) The value to be attributed to such periodic payments shall be determined on such actuarial principles and assumptions in regard to all relevant factors as the High Court shall direct.
 
-**2.**[^key-33fc062862e096cee2c6043dcdfbcded] (1) This paragraph applies in relation to liabilities under a general business policy which arise from events which occurred before the liquidation date but which have not—
+**2.**[^c-33fc062862e096cee2c6043dcdfbcded] (1) This paragraph applies in relation to liabilities under a general business policy which arise from events which occurred before the liquidation date but which have not—
 
 - (a) fallen due for payment before the liquidation date; or
 - (b) been notified to the company before the liquidation date.
 
 (2) The value to be attributed to such liabilities shall be determined on such actuarial principles and assumptions in regard to all relevant factors as the High Court shall direct.
 
-**3.**[^key-740863da65625420e17166fb120a0466] (1) This paragraph applies in relation to liabilities under a general business policy not dealt with by paragraphs 1 or 2.
+**3.**[^c-740863da65625420e17166fb120a0466] (1) This paragraph applies in relation to liabilities under a general business policy not dealt with by paragraphs 1 or 2.
 
 (2) The value to be attributed to those liabilities shall—
 
@@ -396,7 +396,7 @@ Rule 6
 
 Rules 7(3)
 
-### 1. General[^key-bc30ee80b464c51480df435a4090152c]
+### 1. General[^c-bc30ee80b464c51480df435a4090152c]
 
 In valuing a policy—
 
@@ -412,7 +412,7 @@ In valuing a policy—
 
   and for the purposes of this Schedule if the ordinary benefits only take into account premiums paid to date, the present value of future premiums shall be taken as nil.
 
-### 2. Present value of the ordinary benefits[^key-cbd11505d2bc940c47c0c76cb101333e]
+### 2. Present value of the ordinary benefits[^c-cbd11505d2bc940c47c0c76cb101333e]
 
 (1) Ordinary benefits are the benefits which will become payable to the policy holder on or after the liquidation date without his having to exercise any option under the policy (including any bonus or addition to the sum assured or the amount of annuity declared before the liquidation date) and for this purpose “option” includes a right to surrender the policy.
 
@@ -432,21 +432,21 @@ the value shall be adjusted on the basis set out in paragraph 3(3) to (5) of Sch
 
 (5) Where sub-paragraph (3) applies, the value may be further adjusted by reference to the value of the assets underlying the unit price (or as the case may be) the value of the fund, if the liquidator considers such an adjustment to be necessary.
 
-### 3. Present value of additional benefits[^key-3e7a4eaabcf11a3454601a13dda0353c]
+### 3. Present value of additional benefits[^c-3e7a4eaabcf11a3454601a13dda0353c]
 
 (1) Where under the terms of the policy or on the basis of the company’s established practice the policy holder has a right to receive or an expectation of receiving benefits additional to the minimum benefits guaranteed under those terms, the High Court shall determine rates of interest, bonus (whether reversionary, terminal or any other type of bonus used by the company), mortality and disability to provide for the present value (if any) of that right or expectation.
 
-(2) In determining what (if any) value to attribute to any such expectations the High Court shall have regard to the premium payable in relation to the minimum guaranteed benefits and the amount (if any) an insurer is required to provide in respect of those expectations in any rules made by Financial Conduct Authority or the Prudential Regulation Authority[^key-380019c01fea69941d9ffd446c449a97] under Part X of the 2000 Act.
+(2) In determining what (if any) value to attribute to any such expectations the High Court shall have regard to the premium payable in relation to the minimum guaranteed benefits and the amount (if any) an insurer is required to provide in respect of those expectations in any rules made by Financial Conduct Authority or the Prudential Regulation Authority[^c-380019c01fea69941d9ffd446c449a97] under Part X of the 2000 Act.
 
-### 4. Present value of options[^key-b3d5d49934450cb4c2026b861c793d6c]
+### 4. Present value of options[^c-b3d5d49934450cb4c2026b861c793d6c]
 
 The amount of the present value of options shall be the amount which, in the opinion of the liquidator, is necessary to be provided at the liquidation date (in addition to the amount of the present value of the ordinary benefits) to cover the additional liabilities likely to arise upon the exercise on or after that date by the policy holder of any option conferred upon him by the terms of the policy or, in the case of an industrial assurance policy, by the 1979 Order other than an option whereby the policy holder can secure a guaranteed cash payment within the period of 12 months beginning with that date.
 
-### 5. Present value of premiums[^key-6023784c8020fbf973c1909dadbe4cf1]
+### 5. Present value of premiums[^c-6023784c8020fbf973c1909dadbe4cf1]
 
 The present value of the premiums shall be the value at the liquidation date of the premiums which fall due to be paid by the policy holder after the liquidation date calculated on the basis of the rates of interest, mortality and disability referred to in paragraph 1.
 
-### 6. Value of the policy[^key-b748939cd400024e6d0674ca455cd3d4]
+### 6. Value of the policy[^c-b748939cd400024e6d0674ca455cd3d4]
 
 (1) Subject to sub-paragraph (2)—
 
@@ -463,18 +463,18 @@ The present value of the premiums shall be the value at the liquidation date of 
 
 Rule 7(3)
 
-**1.**[^key-fca42920fe985bc3d663b39f5f96d00c] (1) Subject to sub-paragraph (2) the value of the policy shall be the aggregate of the value of the linked liabilities (calculated in accordance with paragraphs 2 or 4) and the value of other than linked liabilities (calculated in accordance with paragraph 5) except where that aggregate is a negative amount in which case the policy shall have no value.
+**1.**[^c-fca42920fe985bc3d663b39f5f96d00c] (1) Subject to sub-paragraph (2) the value of the policy shall be the aggregate of the value of the linked liabilities (calculated in accordance with paragraphs 2 or 4) and the value of other than linked liabilities (calculated in accordance with paragraph 5) except where that aggregate is a negative amount in which case the policy shall have no value.
 
 (2) Where the terms of the policy include a right whereby the policy holder can secure a guaranteed cash payment within the period of 12 months beginning with the liquidation date then, if the amount which in the opinion of the liquidator is necessary to be provided at that date to cover any liabilities which will accrue when that option is exercised (on the assumption that it will be exercised) is greater than the value determined under sub-paragraph (1), the value of the policy shall be that greater amount.
 
-**2.**[^key-999d461099ceb615dee2023dbddbdd89] (1) Where the linked liabilities are expressed in terms of units the value of those liabilities shall, subject to paragraph 3, be the amount arrived at by taking the product of the number of units of each class of units allocated to the policy on the liquidation date and the value of each such unit on that date and then adding those products.
+**2.**[^c-999d461099ceb615dee2023dbddbdd89] (1) Where the linked liabilities are expressed in terms of units the value of those liabilities shall, subject to paragraph 3, be the amount arrived at by taking the product of the number of units of each class of units allocated to the policy on the liquidation date and the value of each such unit on that date and then adding those products.
 
 (2) For the purposes of sub-paragraph (1)—
 
 - (a) where under the terms of the policy the value of a unit at any time falls to be determined by reference to the value at that time of the assets of a particular fund maintained by the company in relation to that and other policies, the value of a unit on the liquidation date shall be determined by reference to the net realisable value of the assets credited to that fund on that date (after taking account of disposal costs, any tax liabilities resulting from the disposal of assets insofar as they have not already been provided for by the company and any other amounts which under the terms of those policies are chargeable to the fund), and
 - (b) in any other case, the value of a unit on the liquidation date shall be the value which would have been ascribed to each unit credited to the policy holder, after any deductions which may be made under the terms of the policy, for the purpose of determining the benefits payable under the policy on the liquidation date had the policy matured on that date.
 
-**3.**[^key-2abe6d5c14f6347c85918a35b6cb2e96] (1) This paragraph applies where—
+**3.**[^c-2abe6d5c14f6347c85918a35b6cb2e96] (1) This paragraph applies where—
 
 - (a) paragraph 2(2)(a) applies and the company has a right under the terms of the policy either to make periodic withdrawals from the fund referred to in that paragraph or to retain any part of the income accruing in respect of the assets of that fund,
 - (b) paragraph 2(2)(b) applies and the company has a right under the terms of the policy to receive the whole or any part of any distributions made in respect of the units referred to in that paragraph, or
@@ -499,17 +499,17 @@ Rule 7(3)
   - (i) relevant published tables of rates of mortality and rates of disability, and
   - (ii) the rates of mortality and the rates of disability experienced in connection with similar policies issued by the company.
 
-**4.**[^key-663bf503e200790a7132f438eee2fdbe] Where the linked liabilities are not expressed in terms of units the value of those liabilities shall be the value (subject to adjustment for any amounts which would have been deducted for taxation) which would have been ascribed to those liabilities had the policy matured on the liquidation date.
+**4.**[^c-663bf503e200790a7132f438eee2fdbe] Where the linked liabilities are not expressed in terms of units the value of those liabilities shall be the value (subject to adjustment for any amounts which would have been deducted for taxation) which would have been ascribed to those liabilities had the policy matured on the liquidation date.
 
-**5.**[^key-a74f37f29ceeb5ede8359596d0a50578] (1) The value of any liabilities other than linked liabilities including reserves for future expenses, options and guarantees shall be determined on actuarial principles and appropriate assumptions in regard to all relevant factors including the assumption of such rate or rates of interest, mortality and disability as the High Court may direct.
+**5.**[^c-a74f37f29ceeb5ede8359596d0a50578] (1) The value of any liabilities other than linked liabilities including reserves for future expenses, options and guarantees shall be determined on actuarial principles and appropriate assumptions in regard to all relevant factors including the assumption of such rate or rates of interest, mortality and disability as the High Court may direct.
 
 (2) In valuing liabilities under this paragraph credit shall be taken for those parts of future premiums which do not fall to be applied in the allocation of further units to the policy and for any rights of the company which have been disregarded under paragraph 3(4)(a) in valuing the linked liabilities.
 
-## SCHEDULE 4 — Rules for valuing long-term policies which are not dealt with in Schedules 2 or 3[^key-1c5c221f84da1b7e93448248714ee433]
+## SCHEDULE 4 — Rules for valuing long-term policies which are not dealt with in Schedules 2 or 3[^c-1c5c221f84da1b7e93448248714ee433]
 
 Rule 7(3)
 
-[^key-1c5c221f84da1b7e93448248714ee433]
+[^c-1c5c221f84da1b7e93448248714ee433]
 
 The value of a long-term policy not covered by Schedule 2 or 3 shall be the value of the benefits due to the policy holder determined on such actuarial principles and assumptions in regard to all relevant factors as the High Court shall determine.
 
@@ -517,20 +517,20 @@ The value of a long-term policy not covered by Schedule 2 or 3 shall be the valu
 
 Rule 8(3)
 
-**1.**[^key-b5843f6634241363de95913b4bf13849] Subject to paragraphs 2 and 3, in valuing a policy Schedules 2, 3 or 4 shall apply according to the class of that policy as if those Schedules were herein repeated but with a view to a fresh valuation of each policy on appropriate assumptions in regard to all relevant factors and subject to the following modifications—
+**1.**[^c-b5843f6634241363de95913b4bf13849] Subject to paragraphs 2 and 3, in valuing a policy Schedules 2, 3 or 4 shall apply according to the class of that policy as if those Schedules were herein repeated but with a view to a fresh valuation of each policy on appropriate assumptions in regard to all relevant factors and subject to the following modifications—
 
 - (a) references to the stop order shall be substituted for references to the liquidation date,
 - (b) in paragraph 4 of Schedule 2 for the words “whereby the policy holder can secure a guaranteed cash payment within the period of 12 months beginning with that date” there shall be substituted the words “to surrender the policy which can be exercised on that date”,
 - (c) paragraph 6(2) of Schedule 2 shall be deleted, and
 - (d) paragraph 1(2) of Schedule 3 shall be deleted.
 
-**2.**[^key-027043ac22bafb2c67a79fcbfb4a721b] (1) This paragraph applies where the policy holder has a right conferred upon him under the terms of the policy or by the 1979 Order to surrender the policy and that right is exercisable on the date of the stop order.
+**2.**[^c-027043ac22bafb2c67a79fcbfb4a721b] (1) This paragraph applies where the policy holder has a right conferred upon him under the terms of the policy or by the 1979 Order to surrender the policy and that right is exercisable on the date of the stop order.
 
 (2) Where this paragraph applies and the amount required at the date of the stop order to provide for the benefits payable upon surrender of the policy (on the assumption that the policy is surrendered on the date of the stop order) is greater than the value of the policy determined in accordance with paragraph 1 the value of the policy shall, subject to paragraph 3, be the said amount so required.
 
 (3) Where any part of the surrender value is payable after the date of the stop order, sub-paragraph (2) shall apply but the value therein referred to shall be discounted at such a rate of interest as the High Court may direct.
 
-**3.**[^key-bc2dd29ae7b0ad1c74a7398a28b3b1ba] (1) This paragraph applies in the case of a linked policy where—
+**3.**[^c-bc2dd29ae7b0ad1c74a7398a28b3b1ba] (1) This paragraph applies in the case of a linked policy where—
 
 - (a) the terms of the policy include a guarantee that the amount assured will on maturity of the policy be worth a minimum amount calculable in money terms, or
 - (b) the terms of the policy include a right on the part of the policy holder to surrender the policy and a guarantee that the payment on surrender will be worth a minimum amount calculable in money terms and that right is exercisable on or after the date of the stop order.
@@ -540,7 +540,7 @@ Rule 8(3)
 - (a) the value the policy would have had at the date of the stop order had the policy been a non-linked policy, that is to say, had the linked liabilities provided by the policy not been so provided but the policy had otherwise been on the same terms, and
 - (b) the value the policy would have had at the date of the stop order had the policy not included any guarantees of payments on maturity or surrender worth a minimum amount calculable in money terms.
 
-## SCHEDULE 6 — FORMS[^key-375ac9043c1bda89e4f625fa145ff5cf]
+## SCHEDULE 6 — FORMS[^c-375ac9043c1bda89e4f625fa145ff5cf]
 
 Rules 27(2) and (5)
 
@@ -592,13 +592,13 @@ Rule 21 allows a liquidator to accept late payments of premiums and to compensat
 
 [^f00003]: Footnote: Formerly the Department of Economic Development; *see* the Departments (Northern Ireland) Order 1999 (S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)), Article 3(5)
 
-[^key-143a1206eec9615c69e34af7980e3d35]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/399/article/1) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-143a1206eec9615c69e34af7980e3d35]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/399/article/1) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
 [^f00004]: Footnote: The Insurance Companies (Winding-Up) Rules (Northern Ireland) 1992 ([S.R. 1992 No. 307](https://www.legislation.gov.uk/nisr/1992/307))
 
-[^key-39473daa5fb5b4a4cec35ed8a177461c]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/399/article/2) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-39473daa5fb5b4a4cec35ed8a177461c]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/399/article/2) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-9249344ada0cfc9ccf0dd34f265bce5e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2005/399/article/2/1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 104(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/104/a)
+[^c-9249344ada0cfc9ccf0dd34f265bce5e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2005/399/article/2/1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 104(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/104/a)
 
 [^f00005]: Footnote: The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. [2001/544](https://www.legislation.gov.uk/uksi/2001/544)) as amended by the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. [2002/682](https://www.legislation.gov.uk/uksi/2002/682)), the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 1) Order 2003 (S.I. [2003/1475](https://www.legislation.gov.uk/uksi/2003/1475)) and the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. [2003/1476](https://www.legislation.gov.uk/uksi/2003/1476))
 
@@ -614,100 +614,100 @@ Rule 21 allows a liquidator to accept late payments of premiums and to compensat
 
 [^f00011]: Footnote: The Interpretation Act (Northern Ireland) 1954 ([1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33))
 
-[^key-3ff61ffd394dd237a66821aef0e939e9]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2005/399/article/3) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-3ff61ffd394dd237a66821aef0e939e9]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2005/399/article/3) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-16fdaf220db537ac1b8b8e6c778f579d]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2005/399/article/4) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-16fdaf220db537ac1b8b8e6c778f579d]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2005/399/article/4) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-27befe0ab77b5baf2944cc2f4c3da09b]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2005/399/article/5) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-27befe0ab77b5baf2944cc2f4c3da09b]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2005/399/article/5) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-a90590ac4cf64c4e156f586c914432ed]: Textual amendment: Words in [art. 5(7)](https://www.legislation.gov.uk/nisr/2005/399/article/5/7) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 104(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/104/b)
+[^c-a90590ac4cf64c4e156f586c914432ed]: Textual amendment: Words in [art. 5(7)](https://www.legislation.gov.uk/nisr/2005/399/article/5/7) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 104(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/104/b)
 
-[^key-86e4f1767b8d954f806dcf281b3475fc]: Textual amendment: Words in [art. 5(8)(a)](https://www.legislation.gov.uk/nisr/2005/399/article/5/8/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 104(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/104/b)
+[^c-86e4f1767b8d954f806dcf281b3475fc]: Textual amendment: Words in [art. 5(8)(a)](https://www.legislation.gov.uk/nisr/2005/399/article/5/8/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 104(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/104/b)
 
-[^key-4fc099393319ce6abe3ab4df0c05645f]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2005/399/article/6) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-4fc099393319ce6abe3ab4df0c05645f]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2005/399/article/6) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-7b9105d1c16584e572d046225c8dfce9]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2005/399/article/7) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-7b9105d1c16584e572d046225c8dfce9]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2005/399/article/7) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-d8d9651dbcf7c4533691ee68cb98e1f1]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2005/399/article/8) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-d8d9651dbcf7c4533691ee68cb98e1f1]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2005/399/article/8) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-d40921c6fd660b208dcbdb86befd17c1]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2005/399/article/9) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-d40921c6fd660b208dcbdb86befd17c1]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2005/399/article/9) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-56d9c60b39b7ed4c7d183b202bc69102]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2005/399/article/10) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-56d9c60b39b7ed4c7d183b202bc69102]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2005/399/article/10) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-f77c6c36f7c38c5613d03548b0e73d65]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2005/399/article/11) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-f77c6c36f7c38c5613d03548b0e73d65]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2005/399/article/11) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-ec7ec7f58b02ea4519ad2994b24451e1]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2005/399/article/12) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-ec7ec7f58b02ea4519ad2994b24451e1]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2005/399/article/12) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-3d80709342fa4b15668e9659a814c187]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2005/399/article/13) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-3d80709342fa4b15668e9659a814c187]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2005/399/article/13) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-5d938686d3047f01bbfba80e6b4bce60]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2005/399/article/14) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-5d938686d3047f01bbfba80e6b4bce60]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2005/399/article/14) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-9f6669d7e95e7ec4643b65a80412e106]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2005/399/article/15) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-9f6669d7e95e7ec4643b65a80412e106]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2005/399/article/15) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-a76fa6e09daa3611a2d7bb8772f59941]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2005/399/article/16) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-a76fa6e09daa3611a2d7bb8772f59941]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2005/399/article/16) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-fb4534e3deb13480d1cdb76e250d6b86]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/nisr/2005/399/article/16/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 104(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/104/b)
+[^c-fb4534e3deb13480d1cdb76e250d6b86]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/nisr/2005/399/article/16/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 104(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/104/b)
 
-[^key-6c13dcb495085bb3e4eea8977cbaba1e]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2005/399/article/17) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-6c13dcb495085bb3e4eea8977cbaba1e]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2005/399/article/17) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-735d4f577626977132528d44932aabee]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2005/399/article/18) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-735d4f577626977132528d44932aabee]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2005/399/article/18) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-19c7257c023a6c0aece2b661f230344d]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2005/399/article/19) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-19c7257c023a6c0aece2b661f230344d]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2005/399/article/19) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-6f43964fed63aabbb0ba8b2c6885393e]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2005/399/article/20) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-6f43964fed63aabbb0ba8b2c6885393e]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2005/399/article/20) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-87116f35f93a946604b5bfc00ef86c90]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2005/399/article/21) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-87116f35f93a946604b5bfc00ef86c90]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2005/399/article/21) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-8bec6d16b218fc05ddbcb88a4e859b50]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2005/399/article/22) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-8bec6d16b218fc05ddbcb88a4e859b50]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2005/399/article/22) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-3a1521af4e9da04fa195a842d89f64c7]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2005/399/article/23) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-3a1521af4e9da04fa195a842d89f64c7]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2005/399/article/23) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-2a2e4981ae31c06c4bc54e2286218ae1]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2005/399/article/24) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-2a2e4981ae31c06c4bc54e2286218ae1]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2005/399/article/24) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
 [^f00012]: Footnote: The Insurers (Reorganisation and Winding-Up) Regulations 2004 (S.I. [2004/353](https://www.legislation.gov.uk/uksi/2004/353)) as amended by the Insurers (Reorganisation and Winding-Up) (Amendment) Regulations 2004 (S.I. [2004/546](https://www.legislation.gov.uk/uksi/2004/546))
 
-[^key-e04e4e4b1f9c1c3401ccb265d5e9f1a8]: Commencement: [Art. 25](https://www.legislation.gov.uk/nisr/2005/399/article/25) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-e04e4e4b1f9c1c3401ccb265d5e9f1a8]: Commencement: [Art. 25](https://www.legislation.gov.uk/nisr/2005/399/article/25) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-6219ecf88188b08bd621a8f1d543c90a]: Commencement: [Art. 26](https://www.legislation.gov.uk/nisr/2005/399/article/26) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-6219ecf88188b08bd621a8f1d543c90a]: Commencement: [Art. 26](https://www.legislation.gov.uk/nisr/2005/399/article/26) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-9d1cd43114709974995ea5e0b5aa3dc7]: Commencement: [Art. 27](https://www.legislation.gov.uk/nisr/2005/399/article/27) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-9d1cd43114709974995ea5e0b5aa3dc7]: Commencement: [Art. 27](https://www.legislation.gov.uk/nisr/2005/399/article/27) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-62ecb67d6139e78d9d0759b6e8e327fe]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/399/schedule/1/paragraph/1) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-62ecb67d6139e78d9d0759b6e8e327fe]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/399/schedule/1/paragraph/1) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-33fc062862e096cee2c6043dcdfbcded]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/399/schedule/1/paragraph/2) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-33fc062862e096cee2c6043dcdfbcded]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/399/schedule/1/paragraph/2) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-740863da65625420e17166fb120a0466]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/399/schedule/1/paragraph/3) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-740863da65625420e17166fb120a0466]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/399/schedule/1/paragraph/3) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-bc30ee80b464c51480df435a4090152c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/1) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-bc30ee80b464c51480df435a4090152c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/1) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-cbd11505d2bc940c47c0c76cb101333e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/2) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-cbd11505d2bc940c47c0c76cb101333e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/2) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-3e7a4eaabcf11a3454601a13dda0353c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/3) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-3e7a4eaabcf11a3454601a13dda0353c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/3) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-380019c01fea69941d9ffd446c449a97]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 104(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/104/b)
+[^c-380019c01fea69941d9ffd446c449a97]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 104(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/104/b)
 
-[^key-b3d5d49934450cb4c2026b861c793d6c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/4) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-b3d5d49934450cb4c2026b861c793d6c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/4) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-6023784c8020fbf973c1909dadbe4cf1]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/5) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-6023784c8020fbf973c1909dadbe4cf1]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/5) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-b748939cd400024e6d0674ca455cd3d4]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/6) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-b748939cd400024e6d0674ca455cd3d4]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2005/399/schedule/2/paragraph/6) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-fca42920fe985bc3d663b39f5f96d00c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2005/399/schedule/3/paragraph/1) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-fca42920fe985bc3d663b39f5f96d00c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2005/399/schedule/3/paragraph/1) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-999d461099ceb615dee2023dbddbdd89]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/399/schedule/3/paragraph/2) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-999d461099ceb615dee2023dbddbdd89]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/399/schedule/3/paragraph/2) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-2abe6d5c14f6347c85918a35b6cb2e96]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/399/schedule/3/paragraph/3) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-2abe6d5c14f6347c85918a35b6cb2e96]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/399/schedule/3/paragraph/3) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-663bf503e200790a7132f438eee2fdbe]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2005/399/schedule/3/paragraph/4) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-663bf503e200790a7132f438eee2fdbe]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2005/399/schedule/3/paragraph/4) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-a74f37f29ceeb5ede8359596d0a50578]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2005/399/schedule/3/paragraph/5) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-a74f37f29ceeb5ede8359596d0a50578]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2005/399/schedule/3/paragraph/5) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-1c5c221f84da1b7e93448248714ee433]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2005/399/schedule/4) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-1c5c221f84da1b7e93448248714ee433]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2005/399/schedule/4) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-b5843f6634241363de95913b4bf13849]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2005/399/schedule/5/paragraph/1) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-b5843f6634241363de95913b4bf13849]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2005/399/schedule/5/paragraph/1) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-027043ac22bafb2c67a79fcbfb4a721b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2005/399/schedule/5/paragraph/2) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-027043ac22bafb2c67a79fcbfb4a721b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2005/399/schedule/5/paragraph/2) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-bc2dd29ae7b0ad1c74a7398a28b3b1ba]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2005/399/schedule/5/paragraph/3) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-bc2dd29ae7b0ad1c74a7398a28b3b1ba]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2005/399/schedule/5/paragraph/3) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
 
-[^key-375ac9043c1bda89e4f625fa145ff5cf]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2005/399/schedule/6) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)
+[^c-375ac9043c1bda89e4f625fa145ff5cf]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2005/399/schedule/6) in operation at 19.9.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/399/article/1/1)

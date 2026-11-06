@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.C.4. Contribution rate and determination of pensionable earnings for non-GP providers[^key-2ca1ae10e04804dc4abcff446fee2310]
+## 2.C.4. Contribution rate and determination of pensionable earnings for non-GP providers[^c-2ca1ae10e04804dc4abcff446fee2310]
 
 *Extent: E+W*
 
@@ -26,9 +26,9 @@ summary: ''
 
 (3) The Secretary of State shall, with the consent of the Treasury, determine the pensionable earnings bands and contribution percentage rates specified in the relevant table in respect of each scheme year.
 
-(4)[^key-5e5a47306a65d76f823964e4138a54ac] Before determining those pensionable earnings bands or contribution percentage rates, the Secretary of State must consider the advice of the Scheme actuary.
+(4)[^c-5e5a47306a65d76f823964e4138a54ac] Before determining those pensionable earnings bands or contribution percentage rates, the Secretary of State must consider the advice of the Scheme actuary.
 
-(5)[^key-98b343a9006afed8a2f897b130e4cfb1] A non-GP provider member whose pensionable earnings fall into a pensionable earnings band specified in column 1 of the relevant table in paragraph (20) must, in respect of the scheme year in question, contribute the percentage of that person’s pensionable earnings specified in column 2 of that table in respect of that amount: such contributions must be paid in 12 equal monthly instalments throughout that year.
+(5)[^c-98b343a9006afed8a2f897b130e4cfb1] A non-GP provider member whose pensionable earnings fall into a pensionable earnings band specified in column 1 of the relevant table in paragraph (20) must, in respect of the scheme year in question, contribute the percentage of that person’s pensionable earnings specified in column 2 of that table in respect of that amount: such contributions must be paid in 12 equal monthly instalments throughout that year.
 
 (6) For the purposes of paragraph (5), a non-GP provider member’s pensionable earnings are—
 
@@ -98,11 +98,11 @@ summary: ''
 - (a) deduct contributions due under this regulation from any pensionable earnings it pays to that person, and
 - (b) if it is not also the host Board, pay those contributions to that Board not later than the 7th day of the month following the month in which the earnings were paid.
 
-(20)[^key-1a3c280b4cedaa804fb90b82bcec798e] For the purposes of this paragraph, the “relevant table” means—
+(20)[^c-1a3c280b4cedaa804fb90b82bcec798e] For the purposes of this paragraph, the “relevant table” means—
 
 in respect of the 2014-2015 scheme year, table 1;
 
-in respect of each scheme year from 2015-2016, table 2[^key-6dd17e6b1c4cd262274083ae7afa72f1].
+in respect of each scheme year from 2015-2016, table 2[^c-6dd17e6b1c4cd262274083ae7afa72f1].
 
 Table 1
 
@@ -120,7 +120,7 @@ Scheme Year 2014-2015
 
 Table 2:
 
-Scheme Years from 2015-2016[^key-64172ff66995a71c89cf3b234922d396]
+Scheme Years from 2015-2016[^c-64172ff66995a71c89cf3b234922d396]
 
 | *Column 1*<br>*Pensionable Earnings Band* | *Column 2*<br>*Contribution Percentage Rate* |
 | --- | --- |
@@ -134,14 +134,14 @@ Scheme Years from 2015-2016[^key-64172ff66995a71c89cf3b234922d396]
 
 ## Annotations
 
-[^key-2ca1ae10e04804dc4abcff446fee2310]: Textual amendment: [Reg. 2.C.4](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4) substituted (23.7.2010) by [The National Health Service Pension Scheme (Amendment) Regulations 2010 (S.I. 2010/1634)](https://www.legislation.gov.uk/uksi/2010/1634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1634/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2010/1634/regulation/13) (with [reg. 18](https://www.legislation.gov.uk/uksi/2010/1634/regulation/18))
+[^c-2ca1ae10e04804dc4abcff446fee2310]: Textual amendment: [Reg. 2.C.4](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4) substituted (23.7.2010) by [The National Health Service Pension Scheme (Amendment) Regulations 2010 (S.I. 2010/1634)](https://www.legislation.gov.uk/uksi/2010/1634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1634/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2010/1634/regulation/13) (with [reg. 18](https://www.legislation.gov.uk/uksi/2010/1634/regulation/18))
 
-[^key-5e5a47306a65d76f823964e4138a54ac]: Textual amendment: [Reg. 2.C.4(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4/4) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/33/2)
+[^c-5e5a47306a65d76f823964e4138a54ac]: Textual amendment: [Reg. 2.C.4(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4/4) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/33/2)
 
-[^key-98b343a9006afed8a2f897b130e4cfb1]: Textual amendment: [Reg. 2.C.4(5)-(20)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4/5) substituted for reg. 2.C.4(5)-(15) (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/26/2) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
+[^c-98b343a9006afed8a2f897b130e4cfb1]: Textual amendment: [Reg. 2.C.4(5)-(20)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4/5) substituted for reg. 2.C.4(5)-(15) (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/26/2) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
 
-[^key-1a3c280b4cedaa804fb90b82bcec798e]: Textual amendment: [Reg. 2.C.4(20)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4/20) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2015/96/regulation/24)
+[^c-1a3c280b4cedaa804fb90b82bcec798e]: Textual amendment: [Reg. 2.C.4(20)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4/20) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2015/96/regulation/24)
 
-[^key-6dd17e6b1c4cd262274083ae7afa72f1]: Textual amendment: Words in [reg. 2.C.4(20)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4/20) substituted (1.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2), [46(a)](https://www.legislation.gov.uk/uksi/2019/418/regulation/46/a) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
+[^c-6dd17e6b1c4cd262274083ae7afa72f1]: Textual amendment: Words in [reg. 2.C.4(20)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4/20) substituted (1.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2), [46(a)](https://www.legislation.gov.uk/uksi/2019/418/regulation/46/a) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
 
-[^key-64172ff66995a71c89cf3b234922d396]: Textual amendment: [Reg. 2.C.4(20)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4/20) Table 2 heading substituted (1.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2), [46(b)](https://www.legislation.gov.uk/uksi/2019/418/regulation/46/b) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
+[^c-64172ff66995a71c89cf3b234922d396]: Textual amendment: [Reg. 2.C.4(20)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.4/20) Table 2 heading substituted (1.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2), [46(b)](https://www.legislation.gov.uk/uksi/2019/418/regulation/46/b) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))

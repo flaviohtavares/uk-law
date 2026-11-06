@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Section 1L (supervision, monitoring and enforcement)[^key-9b99da595b0fcb9844f1d7bcafdaaa07]
+## 5. Section 1L (supervision, monitoring and enforcement)[^c-9b99da595b0fcb9844f1d7bcafdaaa07]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 1L [^c23657211] (supervision, monitoring and enforcement), in subsect
 
 ## Annotations
 
-[^key-9b99da595b0fcb9844f1d7bcafdaaa07]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-9b99da595b0fcb9844f1d7bcafdaaa07]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657211]: Marginal citation: Section 1L was amended by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).

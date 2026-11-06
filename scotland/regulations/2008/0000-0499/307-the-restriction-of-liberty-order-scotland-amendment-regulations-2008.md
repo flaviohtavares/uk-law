@@ -48,11 +48,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the power conferred by section 245C(3) of the Criminal Procedure (Scotland) Act 1995[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-bd1024b12fd3460cf8962aba3eb2782b]
+## 1. Citation and commencement[^c-bd1024b12fd3460cf8962aba3eb2782b]
 
 These Regulations may be cited as the Restriction of Liberty Order (Scotland) Amendment Regulations 2008 and come into force on 20th October 2008.
 
-## 2. Amendment of the Restriction of Liberty Order (Scotland) Regulations 2006[^key-f6769482146df47d6ad4bbc4f96a33d9]
+## 2. Amendment of the Restriction of Liberty Order (Scotland) Regulations 2006[^c-f6769482146df47d6ad4bbc4f96a33d9]
 
 (1) The Restriction of Liberty Order (Scotland) Regulations 2006[^f00002] are amended as follows.
 
@@ -123,8 +123,8 @@ Section 245C(3) of the Criminal Procedure (Scotland) Act 1995 requires the Scott
 
 [^f00001]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46); sections 245A-245H were inserted by the Crime and Punishment (Scotland) Act [1997 (c. 48)](https://www.legislation.gov.uk/ukpga/1997/48), section 5. The functions of the Secretary of State transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-bd1024b12fd3460cf8962aba3eb2782b]: Commencement: Reg. 1 in force at 20.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/307/regulation/1)
+[^c-bd1024b12fd3460cf8962aba3eb2782b]: Commencement: Reg. 1 in force at 20.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/307/regulation/1)
 
-[^key-f6769482146df47d6ad4bbc4f96a33d9]: Commencement: Reg. 2 in force at 20.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/307/regulation/1)
+[^c-f6769482146df47d6ad4bbc4f96a33d9]: Commencement: Reg. 2 in force at 20.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/307/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2006/8](https://www.legislation.gov.uk/ssi/2006/8).

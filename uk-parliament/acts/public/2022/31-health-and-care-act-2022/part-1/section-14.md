@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Preparation of consolidated accounts for providers[^key-7fc9d69f0713f7bdce9eed9d4148ccf6][^key-ee4e2869d8798008392eba116b3d4fec]
+## 14. Preparation of consolidated accounts for providers[^c-7fc9d69f0713f7bdce9eed9d4148ccf6][^c-ee4e2869d8798008392eba116b3d4fec]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ Before section 66 of the National Health Service Act 2006 (and the italic headin
 
 ## Annotations
 
-[^key-7fc9d69f0713f7bdce9eed9d4148ccf6]: Commencement: S. 14 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-7fc9d69f0713f7bdce9eed9d4148ccf6]: Commencement: S. 14 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-ee4e2869d8798008392eba116b3d4fec]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/31/section/14) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [15](https://www.legislation.gov.uk/uksi/2022/734/regulation/15), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-ee4e2869d8798008392eba116b3d4fec]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/31/section/14) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [15](https://www.legislation.gov.uk/uksi/2022/734/regulation/15), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

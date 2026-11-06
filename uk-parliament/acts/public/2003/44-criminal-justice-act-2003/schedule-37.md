@@ -31,7 +31,7 @@ Section 332
 | Armed Forces Act 2001 (c. 19) | In section 2(9), the word “and” at the end of paragraph (c). |
 | Police Reform Act 2002 (c. 30) | In Schedule 7, paragraph 9(1) and (6). |
 
-### Part 2 — Bail[^key-5ce5c23d48bd55ae33b04e08392e6976][^c19080551]
+### Part 2 — Bail[^c-5ce5c23d48bd55ae33b04e08392e6976][^c19080551]
 
 | Short title and chapter | Extent of repeal |
 | --- | --- |
@@ -51,7 +51,7 @@ Section 332
 | Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988 (S.I. 1988/1846 (N.I. 16)) | Article 8(5)(i) and (iii). |
 | Criminal Procedure and Investigations Act 1996 (c. 25) | Section 5(6) to (9).<br>Section 6(3).<br>Section 7.<br>Section 9.<br>Section 20(2).<br>Section 31(6)(a) and (c). |
 
-### Part 4 — Allocation and sending of offences[^key-450db40d15a53ca84176047bc3026432][^c19090041]
+### Part 4 — Allocation and sending of offences[^c-450db40d15a53ca84176047bc3026432][^c19090041]
 
 | Short title and chapter | Extent of repeal |
 | --- | --- |
@@ -127,7 +127,7 @@ Section 332
 | Finance Act 2001 (c. 9) | In Schedule 7, paragraph 3(2)(a). |
 | Crime (International Co-operation) Act 2003 (c. 32) | In section 9(4), the words “section 25 of the Criminal Justice Act 1988 or”. |
 
-### Part 7 — Sentencing: general[^key-30ed197d4f3363d1748fb582361fd800][^key-95305541eb5d847bd9f44d02478c58ae][^key-423e0f193738bfa2dd82c1a214bedb00]
+### Part 7 — Sentencing: general[^c-30ed197d4f3363d1748fb582361fd800][^c-95305541eb5d847bd9f44d02478c58ae][^c-423e0f193738bfa2dd82c1a214bedb00]
 
 | Short title and chapter | Extent of repeal |
 | --- | --- |
@@ -309,13 +309,13 @@ Section 332
 
 [^c19078321]: Commencement: Sch. 37 Pt. 1 partly in force; Sch. 37 Pt. 1 not in force at Royal Assent, see s. 336(3); Sch. 37 Pt. 1 in force for certain purposes at 20.1.2004 by [S.I. 2004/81](https://www.legislation.gov.uk/uksi/2004/81), [art. 2](https://www.legislation.gov.uk/uksi/2004/81/article/2); Sch. 37 Pt. 1 in force for certain purposes at 5.4.2004 by [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1/2) (subject to [art. 2(3)-(6)](https://www.legislation.gov.uk/uksi/2004/829/article/2/3))
 
-[^key-5ce5c23d48bd55ae33b04e08392e6976]: Commencement: Sch. 37 Pt. 2 in force at 18.6.2012 for specified purposes for E.W.S. by [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(f)(i)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/f/i)
+[^c-5ce5c23d48bd55ae33b04e08392e6976]: Commencement: Sch. 37 Pt. 2 in force at 18.6.2012 for specified purposes for E.W.S. by [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(f)(i)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/f/i)
 
 [^c19080551]: Commencement: Sch. 37 Pt. 2 partly in force; Sch. 37 Pt. 2 not in force at Royal Assent, see s. 336(3); Sch. 37 Pt. 2 in force for certain purposes at 5.4.2004 by [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1/2) (subject to [art. 2(3)-(6)](https://www.legislation.gov.uk/uksi/2004/829/article/2/3)) and in force for N.I. at 3.12.2007 by [S.I. 2007/3340](https://www.legislation.gov.uk/uksi/2007/3340), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3340/article/2/c)
 
 [^c19095991]: Commencement: Sch. 37 Pt. 3 wholly in force at 15.7.2005; Sch. 37 Pt. 3 not in force at Royal Assent, see s. 336(3); Sch. 37 Pt. 3 in force for E.W. at 4.4.2005 by [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(2)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/2) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)); Sch. 37 Pt. 3 in force for N.I. at 15.7.2005 by [S.I. 2005/1817](https://www.legislation.gov.uk/uksi/2005/1817), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2005/1817/article/2/1/2) (subject to [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/1817/article/2/3))
 
-[^key-450db40d15a53ca84176047bc3026432]: Commencement: Sch. 37 Pt. 4 in force at 28.5.2013 for specified purposes by [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
+[^c-450db40d15a53ca84176047bc3026432]: Commencement: Sch. 37 Pt. 4 in force at 28.5.2013 for specified purposes by [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
 
 [^c19090041]: Commencement: Sch. 37 Pt. 4 partly in force; Sch. 37 Pt. 4 not in force at Royal Assent, see s. 336(3); Sch. 37 Pt. 4 in force for certain purposes at 9.5.2005 by [S.I. 2005/1267](https://www.legislation.gov.uk/uksi/2005/1267), [art. 2](https://www.legislation.gov.uk/uksi/2005/1267/article/2), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2005/1267/schedule/paragraph/1/2); Sch. 37 Pt. 4 in force at 18.6.2012 for specified purposes for E.W.S. by [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [arts. 3(f)(ii)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d), [4(1)(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4)
 
@@ -323,11 +323,11 @@ Section 332
 
 [^c19401821]: Commencement: Sch. 37 Pt. 6 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(3)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/3) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-30ed197d4f3363d1748fb582361fd800]: Commencement: Sch. 37 Pt. 7 in force for certain purposes at 27.2.2004 by [S.I. 2004/81](https://www.legislation.gov.uk/uksi/2004/81), [art. 5](https://www.legislation.gov.uk/uksi/2004/81/article/5); Sch. 37 Pt. 7 in force for certain purposes at 5.4.2004 by [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1/2) (subject to [art. 2(3)-(6)](https://www.legislation.gov.uk/uksi/2004/829/article/2/3)); Sch. 37 Pt. 7 in force for certain purposes at 4.4.2005 by [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2) (as amended (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/2905/article/4/1/a)[(2)](https://www.legislation.gov.uk/uksi/2012/2905/article/4/2))); Sch. 37 Pt. 7 in force at 3.12.2012 for specified purposes by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2012/2905/article/3/1/a) (2) (4) (with art. 3(3))
+[^c-30ed197d4f3363d1748fb582361fd800]: Commencement: Sch. 37 Pt. 7 in force for certain purposes at 27.2.2004 by [S.I. 2004/81](https://www.legislation.gov.uk/uksi/2004/81), [art. 5](https://www.legislation.gov.uk/uksi/2004/81/article/5); Sch. 37 Pt. 7 in force for certain purposes at 5.4.2004 by [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1/2) (subject to [art. 2(3)-(6)](https://www.legislation.gov.uk/uksi/2004/829/article/2/3)); Sch. 37 Pt. 7 in force for certain purposes at 4.4.2005 by [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(4)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/4) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2) (as amended (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/2905/article/4/1/a)[(2)](https://www.legislation.gov.uk/uksi/2012/2905/article/4/2))); Sch. 37 Pt. 7 in force at 3.12.2012 for specified purposes by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2012/2905/article/3/1/a) (2) (4) (with art. 3(3))
 
-[^key-95305541eb5d847bd9f44d02478c58ae]: Commencement: Sch. 37 Pt. 7 in force at 1.5.2013 for specified purposes by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2012/2905/article/3/1/b)
+[^c-95305541eb5d847bd9f44d02478c58ae]: Commencement: Sch. 37 Pt. 7 in force at 1.5.2013 for specified purposes by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2012/2905/article/3/1/b)
 
-[^key-423e0f193738bfa2dd82c1a214bedb00]: Commencement: [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7) in force at 14.7.2022 for specified purposes by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/816/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/816/regulation/2/b)
+[^c-423e0f193738bfa2dd82c1a214bedb00]: Commencement: [Sch. 37 Pt. 7](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/7) in force at 14.7.2022 for specified purposes by [S.I. 2022/816](https://www.legislation.gov.uk/uksi/2022/816), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/816/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/816/regulation/2/b)
 
 [^c5230431]: Commencement: Sch. 37 Pt. 9 partly in force; Sch. 37 Pt. 9 in force for certain purposes at Royal Assent see [s. 336(1)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/1)
 

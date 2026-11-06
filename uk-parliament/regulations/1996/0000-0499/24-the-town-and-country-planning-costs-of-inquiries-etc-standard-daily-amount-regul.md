@@ -30,7 +30,7 @@ summary: ''
 
 TRIBUNALS AND INQUIRIES
 
-The Town and Country Planning (Costs of Inquiries etc.) (Standard Daily Amount) Regulations 1996 (revoked)[^key-5f6233619703046b26519422015967cf]
+The Town and Country Planning (Costs of Inquiries etc.) (Standard Daily Amount) Regulations 1996 (revoked)[^c-5f6233619703046b26519422015967cf]
 
 Made
 
@@ -44,28 +44,28 @@ Coming into force
 
 6th February 1996
 
-[^key-5f6233619703046b26519422015967cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f6233619703046b26519422015967cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-5f6233619703046b26519422015967cf]
+## 1. Citation and Commencement[^c-5f6233619703046b26519422015967cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-5f6233619703046b26519422015967cf]
+## 2. Application[^c-5f6233619703046b26519422015967cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Standard daily amount[^key-5f6233619703046b26519422015967cf]
+## 3. Standard daily amount[^c-5f6233619703046b26519422015967cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f6233619703046b26519422015967cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f6233619703046b26519422015967cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5f6233619703046b26519422015967cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f6233619703046b26519422015967cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f6233619703046b26519422015967cf]: Textual amendment: Regulations revoked (E.) (14.4.2014) by [The Town and Country Planning (Revocations) Regulations 2014 (S.I. 2014/692)](https://www.legislation.gov.uk/uksi/2014/692), [reg. 1](https://www.legislation.gov.uk/uksi/2014/692/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/692/schedule) and regulations revoked (W.) (5.5.2017) by [The Local Inquiries and Qualifying Procedures (Standard Daily Amount) (Wales) Regulations 2017 (S.I. 2017/476)](https://www.legislation.gov.uk/uksi/2017/476), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/476/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/476/schedule) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/476/regulation/3/2))
+[^c-5f6233619703046b26519422015967cf]: Textual amendment: Regulations revoked (E.) (14.4.2014) by [The Town and Country Planning (Revocations) Regulations 2014 (S.I. 2014/692)](https://www.legislation.gov.uk/uksi/2014/692), [reg. 1](https://www.legislation.gov.uk/uksi/2014/692/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/692/schedule) and regulations revoked (W.) (5.5.2017) by [The Local Inquiries and Qualifying Procedures (Standard Daily Amount) (Wales) Regulations 2017 (S.I. 2017/476)](https://www.legislation.gov.uk/uksi/2017/476), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/476/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/476/schedule) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/476/regulation/3/2))

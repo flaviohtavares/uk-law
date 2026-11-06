@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 107. Courts and Legal Services Act 1990[^key-b2206f72a09b00621979bb29ef573c57][^key-fbcd9443f46f7c5335de31d90819c190]
+## 107. Courts and Legal Services Act 1990[^c-b2206f72a09b00621979bb29ef573c57][^c-fbcd9443f46f7c5335de31d90819c190]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Section 58AA of the Courts and Legal Services Act 1990 has effect in relation to
 
 ## Annotations
 
-[^key-b2206f72a09b00621979bb29ef573c57]: Commencement: Art. 107 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-b2206f72a09b00621979bb29ef573c57]: Commencement: Art. 107 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-fbcd9443f46f7c5335de31d90819c190]: Commencement: Art. 107 in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-fbcd9443f46f7c5335de31d90819c190]: Commencement: Art. 107 in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

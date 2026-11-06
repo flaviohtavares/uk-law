@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Consents for generating stations and overhead lines: applications[^key-c81d242bec63a58e64df9fb219910d0d][^key-5360eebec1432d3bf583ff0f60fdcdc9][^key-7381780dc669d5d6e4543b0842857f09][^key-0c89b70ecd9c686f511716af0325e3bd]
+## 19. Consents for generating stations and overhead lines: applications[^c-c81d242bec63a58e64df9fb219910d0d][^c-5360eebec1432d3bf583ff0f60fdcdc9][^c-7381780dc669d5d6e4543b0842857f09][^c-0c89b70ecd9c686f511716af0325e3bd]
 
 *Extent: E+W+S*
 
-(1)[^key-c81d242bec63a58e64df9fb219910d0d] Schedule 8 to the Electricity Act 1989 (consents of the Secretary of State and the Scottish Ministers under sections 36 and 37) is amended as follows.
+(1)[^c-c81d242bec63a58e64df9fb219910d0d] Schedule 8 to the Electricity Act 1989 (consents of the Secretary of State and the Scottish Ministers under sections 36 and 37) is amended as follows.
 
-(2)[^key-c81d242bec63a58e64df9fb219910d0d] After paragraph 1 insert—
+(2)[^c-c81d242bec63a58e64df9fb219910d0d] After paragraph 1 insert—
 
 > **1A. Applications made to the Scottish Ministers for consent**
 >
@@ -44,7 +44,7 @@ summary: ''
 > - (b) publicising the proposed application, and
 > - (c) carrying out a consultation about the proposed application.
 
-(3)[^key-5360eebec1432d3bf583ff0f60fdcdc9] In paragraph 2 (objections by relevant planning authority)—
+(3)[^c-5360eebec1432d3bf583ff0f60fdcdc9] In paragraph 2 (objections by relevant planning authority)—
 
 - (a) in sub-paragraph (1), for “Secretary of State for his” substitute “appropriate authority for a”;
 - (b) in sub-paragraph (2), at the beginning insert “In the case of an application made to the Secretary of State,”;
@@ -63,7 +63,7 @@ summary: ''
   - (ii) for “Secretary of State” substitute “appropriate authority”;
 - (e) in sub-paragraph (5), for “Secretary of State” substitute “appropriate authority”.
 
-(4)[^key-7381780dc669d5d6e4543b0842857f09][^key-0c89b70ecd9c686f511716af0325e3bd] After paragraph 2 insert—
+(4)[^c-7381780dc669d5d6e4543b0842857f09][^c-0c89b70ecd9c686f511716af0325e3bd] After paragraph 2 insert—
 
 > **2A. Procedure following objection by relevant planning authority: Scotland**
 >
@@ -120,7 +120,7 @@ summary: ''
 >
 > (14) Regulations made by the Scottish Ministers under this paragraph are subject to the affirmative procedure.
 
-(5)[^key-c81d242bec63a58e64df9fb219910d0d] After paragraph 7A insert—
+(5)[^c-c81d242bec63a58e64df9fb219910d0d] After paragraph 7A insert—
 
 > **7B. Applications to the Scottish Ministers: time limits**
 >
@@ -139,14 +139,14 @@ summary: ''
 >
 > (4) Where regulations under this paragraph specify a time limit for the completion of an acceptance stage (see paragraph 1A(2)(c)), the regulations may not permit the extension of that limit.
 
-(6)[^key-c81d242bec63a58e64df9fb219910d0d] The amendments made by subsection (3) do not affect the continued application in relation to the Scottish Ministers of regulations made under paragraph 2(3) of Schedule 8 to the Electricity Act 1989 before this section comes into force.
+(6)[^c-c81d242bec63a58e64df9fb219910d0d] The amendments made by subsection (3) do not affect the continued application in relation to the Scottish Ministers of regulations made under paragraph 2(3) of Schedule 8 to the Electricity Act 1989 before this section comes into force.
 
 ## Annotations
 
-[^key-c81d242bec63a58e64df9fb219910d0d]: Commencement: S. 19(1)(2)(5)(6) in force at Royal Assent, see [s. 118(1)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/g)(i)
+[^c-c81d242bec63a58e64df9fb219910d0d]: Commencement: S. 19(1)(2)(5)(6) in force at Royal Assent, see [s. 118(1)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/g)(i)
 
-[^key-5360eebec1432d3bf583ff0f60fdcdc9]: Commencement: [S. 19(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/19/3) in force at 18.2.2026, see [s. 118(1)(g)(ii)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/g/ii)
+[^c-5360eebec1432d3bf583ff0f60fdcdc9]: Commencement: [S. 19(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/19/3) in force at 18.2.2026, see [s. 118(1)(g)(ii)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/g/ii)
 
-[^key-7381780dc669d5d6e4543b0842857f09]: Commencement: S. 19(4) in force at Royal Assent for specified purposes, see [s. 118(1)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/g)(i)
+[^c-7381780dc669d5d6e4543b0842857f09]: Commencement: S. 19(4) in force at Royal Assent for specified purposes, see [s. 118(1)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/g)(i)
 
-[^key-0c89b70ecd9c686f511716af0325e3bd]: Commencement: [S. 19(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/19/4) in force at 18.2.2026 in so far as not already in force, see [s. 118(1)(g)(ii)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/g/ii)
+[^c-0c89b70ecd9c686f511716af0325e3bd]: Commencement: [S. 19(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/19/4) in force at 18.2.2026 in so far as not already in force, see [s. 118(1)(g)(ii)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/g/ii)

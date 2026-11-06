@@ -26,9 +26,9 @@ summary: ''
 
 (3) In section 13A of ICTA (close investment-holding companies), in subsection (1) (meaning of “close investment-holding company” for purposes of sections 13(1) and 13AA(8)), omit “or 13AA(8)”.
 
-(4)[^key-e253f6606f7b1c976177484ed50fe5da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e253f6606f7b1c976177484ed50fe5da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e253f6606f7b1c976177484ed50fe5da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e253f6606f7b1c976177484ed50fe5da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In paragraph 1(a) of Schedule 12 to FA 1989 (provision of information for the purposes of close companies provisions), for “13 to 13A” substitute “ 13, 13ZA, 13A ”.
 
@@ -49,4 +49,4 @@ sections 13AA and 13AB of, and Schedule A2 to, ICTA (“**the repealed provision
 
 ## Annotations
 
-[^key-e253f6606f7b1c976177484ed50fe5da]: Textual amendment: [S. 26(4)](https://www.legislation.gov.uk/ukpga/2006/25/section/26/4)[(5)](https://www.legislation.gov.uk/ukpga/2006/25/section/26/5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e253f6606f7b1c976177484ed50fe5da]: Textual amendment: [S. 26(4)](https://www.legislation.gov.uk/ukpga/2006/25/section/26/4)[(5)](https://www.legislation.gov.uk/ukpga/2006/25/section/26/5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

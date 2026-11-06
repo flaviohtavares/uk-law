@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Agricultural vehicles: authorisation requirements[^key-144b3d821569774df24b64d3e18fa47a]
+## 20. Agricultural vehicles: authorisation requirements[^c-144b3d821569774df24b64d3e18fa47a]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ The authorisation requirements applicable to special type agricultural vehicles 
 
 ## Annotations
 
-[^key-144b3d821569774df24b64d3e18fa47a]: Commencement: Art. 20 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-144b3d821569774df24b64d3e18fa47a]: Commencement: Art. 20 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

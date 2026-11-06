@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Duty to disclose information[^key-264c934302bcb6ec496a31ce95afe8c2][^key-58908f31b8c6a8401a1f115166e0c292]
+## 47. Duty to disclose information[^c-264c934302bcb6ec496a31ce95afe8c2][^c-58908f31b8c6a8401a1f115166e0c292]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ A person to whom this regulation applies must notify the FCA without delay if—
 
 ## Annotations
 
-[^key-264c934302bcb6ec496a31ce95afe8c2]: Commencement: Reg. 47 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-264c934302bcb6ec496a31ce95afe8c2]: Commencement: Reg. 47 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
 
-[^key-58908f31b8c6a8401a1f115166e0c292]: Textual amendment: Regs. 47, 47A substituted for reg. 47 (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [50(6)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/6)
+[^c-58908f31b8c6a8401a1f115166e0c292]: Textual amendment: Regs. 47, 47A substituted for reg. 47 (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [50(6)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/6)

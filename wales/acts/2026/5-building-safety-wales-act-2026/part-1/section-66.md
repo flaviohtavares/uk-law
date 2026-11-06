@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Effect of review and appeal[^key-5b35388810d4f37dc42d62b5ef525972]
+## 66. Effect of review and appeal[^c-5b35388810d4f37dc42d62b5ef525972]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b35388810d4f37dc42d62b5ef525972]: Commencement: S. 66 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-5b35388810d4f37dc42d62b5ef525972]: Commencement: S. 66 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -41,17 +41,17 @@ Coming into operation
 
 The Department for Employment and Learning[^f00001], in exercise of the powers conferred by Article 3(2) of and paragraph 1(1) of Schedule 2 to the Education (Student Loans) (Northern Ireland) Order 1990[^f00002] and now vested in it[^f00003] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-8a091f91845ee7d9a96e635537ca350a]
+## 1. Citation and commencement[^c-8a091f91845ee7d9a96e635537ca350a]
 
 These Regulations may be cited as the Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2002 and shall come into operation on 1st August 2002.
 
-## 2. Amendment of the Education (Student Loans) Regulations (Northern Ireland) 1998[^key-9dc83f2e60111f96d6d783c8cfaa3ab6]
+## 2. Amendment of the Education (Student Loans) Regulations (Northern Ireland) 1998[^c-9dc83f2e60111f96d6d783c8cfaa3ab6]
 
 (1) The Education (Student Loans) Regulations (Northern Ireland) 1998[^f00004] shall be amended in accordance with paragraphs (2) and (3).
 
 (2) In regulation 3(1) in the definition of “the Islands” for the words “the Islands” substitute the word “Islands”.
 
-(3)[^key-abf76f273a0b05e51dba149a7601bc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-abf76f273a0b05e51dba149a7601bc8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department for Employment and Learning on 9th July 2002.
 
@@ -75,10 +75,10 @@ In addition to one minor amendment, these Regulations make one change of substan
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), Article 5(b) and Schedule 3 Part II
 
-[^key-8a091f91845ee7d9a96e635537ca350a]: Commencement: Reg. 1 in operation at 1.8.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/241/regulation/1)
+[^c-8a091f91845ee7d9a96e635537ca350a]: Commencement: Reg. 1 in operation at 1.8.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/241/regulation/1)
 
-[^key-9dc83f2e60111f96d6d783c8cfaa3ab6]: Commencement: Reg. 2 in operation at 1.8.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/241/regulation/1)
+[^c-9dc83f2e60111f96d6d783c8cfaa3ab6]: Commencement: Reg. 2 in operation at 1.8.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/241/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58) as amended by [S.R. 1998 No. 262](https://www.legislation.gov.uk/nisr/1998/262), [S.R. 1998 No. 303](https://www.legislation.gov.uk/nisr/1998/303), [S.R. 1999 No. 343](https://www.legislation.gov.uk/nisr/1999/343), [S.R. 2000 No. 244](https://www.legislation.gov.uk/nisr/2000/244) and [S.R. 2001 No. 276](https://www.legislation.gov.uk/nisr/2001/276)
 
-[^key-abf76f273a0b05e51dba149a7601bc8b]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2002/241/regulation/2/3) revoked (1.8.2005) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/351)](https://www.legislation.gov.uk/nisr/2005/351), [regs. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/351/regulation/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/351/schedule/1)
+[^c-abf76f273a0b05e51dba149a7601bc8b]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2002/241/regulation/2/3) revoked (1.8.2005) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/351)](https://www.legislation.gov.uk/nisr/2005/351), [regs. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/351/regulation/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/351/schedule/1)

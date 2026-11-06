@@ -47,9 +47,9 @@ summary: ''
 >
 > (4) Subsections (3) and (5) to (8) of section 95 of the Immigration and Asylum Act 1999, and paragraph 2 of Schedule 8 to that Act, apply for the purposes of subsection (3) above as they apply for the purposes of that section, but for the references in subsections (5) and (7) of that section and in that paragraph to the Secretary of State substitute references to a local authority.
 
-(4)[^key-73f2fb9f5f24e9663449124cc56e9226] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-73f2fb9f5f24e9663449124cc56e9226] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-73f2fb9f5f24e9663449124cc56e9226] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-73f2fb9f5f24e9663449124cc56e9226] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In the [^c11434231]Asylum and Immigration Appeals Act 1993, omit sections 4 and 5 and Schedule 1 (provisions relating to housing of asylum-seekers).
 
@@ -59,6 +59,6 @@ summary: ''
 
 [^c11434211]: Marginal citation: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49).
 
-[^key-73f2fb9f5f24e9663449124cc56e9226]: Textual amendment: [S. 120(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/120/4)[(5)](https://www.legislation.gov.uk/ukpga/1999/33/section/120/5) repealed (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-73f2fb9f5f24e9663449124cc56e9226]: Textual amendment: [S. 120(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/120/4)[(5)](https://www.legislation.gov.uk/ukpga/1999/33/section/120/5) repealed (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
 [^c11434231]: Marginal citation: [1993 c. 23](https://www.legislation.gov.uk/ukpga/1993/23).

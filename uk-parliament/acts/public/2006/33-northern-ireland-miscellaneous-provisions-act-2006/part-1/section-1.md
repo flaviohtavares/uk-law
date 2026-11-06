@@ -23,7 +23,7 @@ summary: ''
 (1) An Order in Council under section 84(1) of the 1998 Act (provision with respect to certain electoral matters relating to Northern Ireland) which contains a statement that it is made only for purposes corresponding, or similar, to those of section 10 of the Electoral Administration Act 2006 (c. 22) (anonymous registration) may make provision for Northern Ireland for such purposes in relation to—
 
 - (a) parliamentary elections, and
-- (b) elections in respect of the Northern Ireland Assembly [^key-82eb7ff93677dbb4c2fe9e9607d10c1f]... and district councils.
+- (b) elections in respect of the Northern Ireland Assembly [^c-82eb7ff93677dbb4c2fe9e9607d10c1f]... and district councils.
 
 (2) An Order made by virtue of subsection (1) may, if it appears to Her Majesty necessary or expedient for the purposes of the Order—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82eb7ff93677dbb4c2fe9e9607d10c1f]: Textual amendment: Words in [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2006/33/section/1/1/b) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-82eb7ff93677dbb4c2fe9e9607d10c1f]: Textual amendment: Words in [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2006/33/section/1/1/b) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

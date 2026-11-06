@@ -43,7 +43,7 @@ Coming into force
 
 1st April 2002
 
-[^key-55e55526aafa7e4aebf57c5e609803dd]The Commissioners of Customs and Excise, in exercise of the powers conferred upon them by sections 93(1), (2)(a), (e), (fa), (fb), (g), (h), (j), (k), (3), (4) and (5), 100G, 100H and 118A(1) and (2) of the Customs and Excise Management Act 1979[^c9648531], section 1 of the Finance (No. 2) Act 1992[^c9648541]; and additionally, being a department designated[^c9648551] for the purposes of section 2(2) of the European Communities Act 1972[^c9648561] in relation to excise matters of the European Communities and payment of excise duty, in exercise of the powers conferred by that section, and of all other powers enabling them in that behalf, hereby make the following regulations:[^key-521eec0b4377ec45707bd6d37a1f5905][^M_C_f7850d2c-369c-49b4-8771-fe165dbbf6b3][^M_C_5fe6fbd5-1e42-4e00-9b1f-69cbafcf4aac]
+[^c-55e55526aafa7e4aebf57c5e609803dd]The Commissioners of Customs and Excise, in exercise of the powers conferred upon them by sections 93(1), (2)(a), (e), (fa), (fb), (g), (h), (j), (k), (3), (4) and (5), 100G, 100H and 118A(1) and (2) of the Customs and Excise Management Act 1979[^c9648531], section 1 of the Finance (No. 2) Act 1992[^c9648541]; and additionally, being a department designated[^c9648551] for the purposes of section 2(2) of the European Communities Act 1972[^c9648561] in relation to excise matters of the European Communities and payment of excise duty, in exercise of the powers conferred by that section, and of all other powers enabling them in that behalf, hereby make the following regulations:[^c-521eec0b4377ec45707bd6d37a1f5905][^M_C_f7850d2c-369c-49b4-8771-fe165dbbf6b3][^M_C_5fe6fbd5-1e42-4e00-9b1f-69cbafcf4aac]
 
 ## PART I — PRELIMINARY
 
@@ -51,133 +51,133 @@ Coming into force
 
 These Regulations may be cited as the Excise Goods (Accompanying Documents) Regulations 2002 and come into force on 1st April 2002.
 
-### 2. Interpretation[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 2. Interpretation[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 3. Application[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — EXPORTS UNDER DUTY SUSPENSION ARRANGEMENTS[^key-55e55526aafa7e4aebf57c5e609803dd]
+## PART II — EXPORTS UNDER DUTY SUSPENSION ARRANGEMENTS[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 **No longer in force.**
 
-### 4. Application of Part II[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 4. Application of Part II[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Completion of accompanying administrative documents[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 5. Completion of accompanying administrative documents[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Accompanying administrative documents for exports — supplementary provisions[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 6. Accompanying administrative documents for exports — supplementary provisions[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Consignees[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 7. Consignees[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — EXPORTS NOT UNDER DUTY SUSPENSION ARRANGEMENTS[^key-55e55526aafa7e4aebf57c5e609803dd]
+## PART III — EXPORTS NOT UNDER DUTY SUSPENSION ARRANGEMENTS[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 **No longer in force.**
 
-### 8. Application of Part III[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 8. Application of Part III[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Completion of simplified accompanying documents[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 9. Completion of simplified accompanying documents[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Simplified accompanying documents for exports — supplementary provisions[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 10. Simplified accompanying documents for exports — supplementary provisions[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — IMPORTS UNDER COMMUNITY DUTY SUSPENSION ARRANGEMENTS[^key-55e55526aafa7e4aebf57c5e609803dd]
+## PART IV — IMPORTS UNDER COMMUNITY DUTY SUSPENSION ARRANGEMENTS[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 **No longer in force.**
 
-### 11. Application of Part IV[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 11. Application of Part IV[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Accompanying administrative documents for imports[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 12. Accompanying administrative documents for imports[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Accompanying administrative documents for imports — supplementary provisions[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 13. Accompanying administrative documents for imports — supplementary provisions[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Receipt of goods under Community duty suspension arrangements[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 14. Receipt of goods under Community duty suspension arrangements[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART V — IMPORTS NOT UNDER COMMUNITY DUTY SUSPENSION ARRANGEMENTS[^key-55e55526aafa7e4aebf57c5e609803dd]
+## PART V — IMPORTS NOT UNDER COMMUNITY DUTY SUSPENSION ARRANGEMENTS[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 **No longer in force.**
 
-### 15. Application of Part V[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 15. Application of Part V[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Simplified accompanying documents for imports[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 16. Simplified accompanying documents for imports[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Simplified accompanying documents for imports — supplementary provisions[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 17. Simplified accompanying documents for imports — supplementary provisions[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Receipt of excise goods[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 18. Receipt of excise goods[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART VI — OBLIGATIONS, CONDITIONS AND RESTRICTIONS[^key-55e55526aafa7e4aebf57c5e609803dd]
+## PART VI — OBLIGATIONS, CONDITIONS AND RESTRICTIONS[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 **No longer in force.**
 
-### 19. General conditions and restrictions[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 19. General conditions and restrictions[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Obligations of owners and transporters[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 20. Obligations of owners and transporters[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART VII — EXCISE DUTY POINT, PAYMENT OF EXCISE DUTY, FORFEITURE AND CIVIL PENALTIES[^key-55e55526aafa7e4aebf57c5e609803dd]
+## PART VII — EXCISE DUTY POINT, PAYMENT OF EXCISE DUTY, FORFEITURE AND CIVIL PENALTIES[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 **No longer in force.**
 
-### 21. Excise duty point[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 21. Excise duty point[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Payment[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 22. Payment[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Time for payment[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 23. Time for payment[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Forfeiture[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 24. Forfeiture[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Civil penalties[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 25. Civil penalties[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART VIII — ADMINISTRATIVE PROVISION AND CONSEQUENTIAL AMENDMENTS[^key-55e55526aafa7e4aebf57c5e609803dd]
+## PART VIII — ADMINISTRATIVE PROVISION AND CONSEQUENTIAL AMENDMENTS[^c-55e55526aafa7e4aebf57c5e609803dd]
 
-### 26. Administrative provision—imports[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 26. Administrative provision—imports[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 **No longer in force.**
 
@@ -233,19 +233,19 @@ These Regulations may be cited as the Excise Goods (Accompanying Documents) Regu
 
 (4) Insert Schedule 4 (set out in the Schedule below) after Schedule 3.
 
-### 28. The Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 28. The Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. The Beer Regulations 1993[^key-55e55526aafa7e4aebf57c5e609803dd]
+### 29. The Beer Regulations 1993[^c-55e55526aafa7e4aebf57c5e609803dd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. The Warehousekeepers and Owners of Warehoused Goods Regulations 1999[^key-1f6f6110f1e6e3681967ed4f1d51edf3]
+### 30. The Warehousekeepers and Owners of Warehoused Goods Regulations 1999[^c-1f6f6110f1e6e3681967ed4f1d51edf3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -385,7 +385,7 @@ Regulations 27 to 30 make largely consequential amendments to the Excise Warehou
 
 ## Annotations
 
-[^key-55e55526aafa7e4aebf57c5e609803dd]: Textual amendment: Regulations revoked (except for regs. 1, 27, 30, Sch.) (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3 Table](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) (with [Sch. 3 Notes 3, 4](https://www.legislation.gov.uk/uksi/2010/593/schedule/3))
+[^c-55e55526aafa7e4aebf57c5e609803dd]: Textual amendment: Regulations revoked (except for regs. 1, 27, 30, Sch.) (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3 Table](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) (with [Sch. 3 Notes 3, 4](https://www.legislation.gov.uk/uksi/2010/593/schedule/3))
 
 [^c9648531]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2); section 1(1) defines “the Commissioners”, “excise duty point”, “excise warehouse”, “exporter”, “officer”, “registered excise dealer and shipper” and “registered excise dealers and shippers regulations”; section 93(2)(a) was amended by the Finance Act 1981(c. 35), Schedule 8, paragraph 2; section 93(1) and (3) was amended by, and section 93(2)(fa) and (fb) was inserted by the Finance (No. 2) Act 1992(c. 48), Schedule 2, paragraph 2; section 93(2)(g) to (l) was inserted by the Finance Act 1986(c. 41), Schedule 3, paragraph 4, and amended by the Finance (No. 2) Act 1992, Schedule 2, paragraph 2; sections 100G and 100H were inserted by the Finance Act 1991(c. 31), Schedule 4; section 100H was amended by the Finance (No. 2) Act 1992, Schedule 1, paragraph 6 and Schedule 2, paragraph 4; section 118A(1) and (2) was inserted by the Finance Act 1991, Schedule 5.
 
@@ -395,7 +395,7 @@ Regulations 27 to 30 make largely consequential amendments to the Excise Warehou
 
 [^c9648561]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-521eec0b4377ec45707bd6d37a1f5905]: Modification: Regulations applied (with modifications) (24.11.2003) by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003 (S.I. 2003/2758)](https://www.legislation.gov.uk/uksi/2003/2758), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2758/article/1), [2(e)](https://www.legislation.gov.uk/uksi/2003/2758/article/2/e), [Sch.](https://www.legislation.gov.uk/uksi/2003/2758/schedule)
+[^c-521eec0b4377ec45707bd6d37a1f5905]: Modification: Regulations applied (with modifications) (24.11.2003) by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003 (S.I. 2003/2758)](https://www.legislation.gov.uk/uksi/2003/2758), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2758/article/1), [2(e)](https://www.legislation.gov.uk/uksi/2003/2758/article/2/e), [Sch.](https://www.legislation.gov.uk/uksi/2003/2758/schedule)
 
 [^M_C_f7850d2c-369c-49b4-8771-fe165dbbf6b3]: Modification: Regulations modified (1.5.2004) by [The Excise Duty Points (Etc.) (New Member States) Regulations 2004 (S.I. 2004/1003)](https://www.legislation.gov.uk/uksi/2004/1003), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1), [7](https://www.legislation.gov.uk/uksi/2004/1003/regulation/7)
 
@@ -411,4 +411,4 @@ Regulations 27 to 30 make largely consequential amendments to the Excise Warehou
 
 [^c9648781]: Marginal citation: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4); section 1(2) defines “spirits”.
 
-[^key-1f6f6110f1e6e3681967ed4f1d51edf3]: Textual amendment: Reg. 30 omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/1262/regulation/7)
+[^c-1f6f6110f1e6e3681967ed4f1d51edf3]: Textual amendment: Reg. 30 omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/1262/regulation/7)

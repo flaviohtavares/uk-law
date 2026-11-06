@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Information about schemes[^key-59e59d0dccc7f3f43d6eff71b2975bfd]
+## 15. Information about schemes[^c-59e59d0dccc7f3f43d6eff71b2975bfd]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59e59d0dccc7f3f43d6eff71b2975bfd]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2013/25/section/15) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/4/article/3/a)
+[^c-59e59d0dccc7f3f43d6eff71b2975bfd]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2013/25/section/15) in force at 1.4.2015 by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/4/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Right of persons to attend meetings of committees[^key-49f4d6d906e0e44c0989d4f432f77cc5]
+## 71. Right of persons to attend meetings of committees[^c-49f4d6d906e0e44c0989d4f432f77cc5]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49f4d6d906e0e44c0989d4f432f77cc5]: Commencement: Reg. 71 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-49f4d6d906e0e44c0989d4f432f77cc5]: Commencement: Reg. 71 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

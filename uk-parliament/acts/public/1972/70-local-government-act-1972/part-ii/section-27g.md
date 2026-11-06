@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27G (Extent: W.). Power of community meeting to apply for an order adding its community to a group of communities with a common council (Extent: W.)[^key-b9b9c983d7a7a506c6903f2af13aeb6b]
+## 27G (Extent: W.). Power of community meeting to apply for an order adding its community to a group of communities with a common council (Extent: W.)[^c-b9b9c983d7a7a506c6903f2af13aeb6b]
 
 *Extent: E+W.*
 
@@ -52,4 +52,4 @@ are present and voting at the community meeting. *(Extent: W.)*
 
 ## Annotations
 
-[^key-b9b9c983d7a7a506c6903f2af13aeb6b]: Textual amendment: S. 27G inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 107](https://www.legislation.gov.uk/mwa/2011/4/section/107), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))
+[^c-b9b9c983d7a7a506c6903f2af13aeb6b]: Textual amendment: S. 27G inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 107](https://www.legislation.gov.uk/mwa/2011/4/section/107), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))

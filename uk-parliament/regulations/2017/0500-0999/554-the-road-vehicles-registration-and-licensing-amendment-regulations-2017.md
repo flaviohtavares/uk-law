@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2017 (revoked)[^key-a66de972b04f95be6fef28df867e2262]
+The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2017 (revoked)[^c-a66de972b04f95be6fef28df867e2262]
 
 Made
 
@@ -46,21 +46,21 @@ Coming into force
 
 6th May 2017
 
-[^key-a66de972b04f95be6fef28df867e2262]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a66de972b04f95be6fef28df867e2262]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a66de972b04f95be6fef28df867e2262]
+## 1. Citation and commencement[^c-a66de972b04f95be6fef28df867e2262]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Road Vehicles (Registration and Licensing) Regulations 2002[^key-a66de972b04f95be6fef28df867e2262]
+## 2. Amendment of the Road Vehicles (Registration and Licensing) Regulations 2002[^c-a66de972b04f95be6fef28df867e2262]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a66de972b04f95be6fef28df867e2262] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a66de972b04f95be6fef28df867e2262] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a66de972b04f95be6fef28df867e2262]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a66de972b04f95be6fef28df867e2262]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -68,4 +68,4 @@ Coming into force
 
 ## Annotations
 
-[^key-a66de972b04f95be6fef28df867e2262]: Textual amendment: Regulations revoked (31.12.2020) by [The Road Vehicles (Registration and Licensing) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1361)](https://www.legislation.gov.uk/uksi/2020/1361), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1361/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/1361/regulation/3)
+[^c-a66de972b04f95be6fef28df867e2262]: Textual amendment: Regulations revoked (31.12.2020) by [The Road Vehicles (Registration and Licensing) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1361)](https://www.legislation.gov.uk/uksi/2020/1361), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1361/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/1361/regulation/3)

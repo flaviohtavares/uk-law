@@ -29,15 +29,15 @@ Corneal Tissue Act 1986 (repealed)
 
 1986 c.18
 
-[^key-4804870464fe26499619805f0d1abd65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4804870464fe26499619805f0d1abd65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Amendment of Human Tissue Act 1961.[^key-4804870464fe26499619805f0d1abd65]
+## 1. Amendment of Human Tissue Act 1961.[^c-4804870464fe26499619805f0d1abd65]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title, commencement and extent.[^key-4804870464fe26499619805f0d1abd65]
+## 2. Short title, commencement and extent.[^c-4804870464fe26499619805f0d1abd65]
 
 **No longer in force.**
 
@@ -45,4 +45,4 @@ Corneal Tissue Act 1986 (repealed)
 
 ## Annotations
 
-[^key-4804870464fe26499619805f0d1abd65]: Textual amendment: Act repealed (1.9.2006) by [Human Tissue Act 2004 (c. 30)](https://www.legislation.gov.uk/ukpga/2004/30), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2004/30/section/60/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/30/schedule/7/part/1) (with [s. 58](https://www.legislation.gov.uk/ukpga/2004/30/section/58)); [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8)) and also (S.) by Human Tissue (Scotland) Act 2006 (asp 4), s. 62, sch; S.S.I. 2006/251, art. 3
+[^c-4804870464fe26499619805f0d1abd65]: Textual amendment: Act repealed (1.9.2006) by [Human Tissue Act 2004 (c. 30)](https://www.legislation.gov.uk/ukpga/2004/30), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2004/30/section/60/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/30/schedule/7/part/1) (with [s. 58](https://www.legislation.gov.uk/ukpga/2004/30/section/58)); [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8)) and also (S.) by Human Tissue (Scotland) Act 2006 (asp 4), s. 62, sch; S.S.I. 2006/251, art. 3

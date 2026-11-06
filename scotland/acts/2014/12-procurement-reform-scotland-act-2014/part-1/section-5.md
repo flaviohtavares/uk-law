@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Estimated value of contract[^key-3922abcdb2406734b311dc6013fd277e]
+## 5. Estimated value of contract[^c-3922abcdb2406734b311dc6013fd277e]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3922abcdb2406734b311dc6013fd277e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/12/section/5) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-3922abcdb2406734b311dc6013fd277e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/12/section/5) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

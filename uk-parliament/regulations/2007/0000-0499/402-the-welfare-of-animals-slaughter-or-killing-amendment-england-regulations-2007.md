@@ -34,7 +34,7 @@ animals, england
 
 prevention of cruelty
 
-The Welfare of Animals (Slaughter or Killing) (Amendment) (England) Regulations 2007 (revoked)[^key-fad9dfd419d96d0314bd144f8983246d]
+The Welfare of Animals (Slaughter or Killing) (Amendment) (England) Regulations 2007 (revoked)[^c-fad9dfd419d96d0314bd144f8983246d]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 6*th* April 2007
 
-[^key-fad9dfd419d96d0314bd144f8983246d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fad9dfd419d96d0314bd144f8983246d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-fad9dfd419d96d0314bd144f8983246d]
+## 1. Citation, commencement and application[^c-fad9dfd419d96d0314bd144f8983246d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Welfare of Animals (Slaughter or Killing) Regulations 1995[^key-fad9dfd419d96d0314bd144f8983246d]
+## 2. Amendment to the Welfare of Animals (Slaughter or Killing) Regulations 1995[^c-fad9dfd419d96d0314bd144f8983246d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fad9dfd419d96d0314bd144f8983246d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fad9dfd419d96d0314bd144f8983246d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fad9dfd419d96d0314bd144f8983246d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fad9dfd419d96d0314bd144f8983246d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fad9dfd419d96d0314bd144f8983246d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/402) revoked (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [47(h)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/47/h)
+[^c-fad9dfd419d96d0314bd144f8983246d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/402) revoked (5.11.2015) by [The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782)](https://www.legislation.gov.uk/uksi/2015/1782), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/1/4), [47(h)](https://www.legislation.gov.uk/uksi/2015/1782/regulation/47/h)

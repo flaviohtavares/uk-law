@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Enforcement[^key-69abde771eaadca2ed749c89075b33dc]
+## 12. Enforcement[^c-69abde771eaadca2ed749c89075b33dc]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers or the local authority may appoint inspectors for the pur
 
 ## Annotations
 
-[^key-69abde771eaadca2ed749c89075b33dc]: Commencement: Reg. 12 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)
+[^c-69abde771eaadca2ed749c89075b33dc]: Commencement: Reg. 12 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)

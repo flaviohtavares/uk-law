@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14ZA. Requirements for standard licences[^key-bbe31141a4fc99dc6f23d6bfe8e1ccfd]
+## 14ZA. Requirements for standard licences[^c-bbe31141a4fc99dc6f23d6bfe8e1ccfd]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbe31141a4fc99dc6f23d6bfe8e1ccfd]: Textual amendment: Ss. 14-14ZC substituted for s. 14 (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/3) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/1))
+[^c-bbe31141a4fc99dc6f23d6bfe8e1ccfd]: Textual amendment: Ss. 14-14ZC substituted for s. 14 (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/3) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/1))

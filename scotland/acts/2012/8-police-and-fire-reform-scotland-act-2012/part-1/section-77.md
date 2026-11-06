@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Duty to assist and co-operate with HMICS[^key-4df625e28f31ca332d60a392476f1bb4]
+## 77. Duty to assist and co-operate with HMICS[^c-4df625e28f31ca332d60a392476f1bb4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Authority and the chief constable must provide the inspectors of constabular
 
 ## Annotations
 
-[^key-4df625e28f31ca332d60a392476f1bb4]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2012/8/section/77) in force at 1.1.2013 by [S.S.I. 2012/333](https://www.legislation.gov.uk/ssi/2012/333), [art. 2](https://www.legislation.gov.uk/ssi/2012/333/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/333/schedule) (with [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/2/6)[3](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/3))
+[^c-4df625e28f31ca332d60a392476f1bb4]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2012/8/section/77) in force at 1.1.2013 by [S.S.I. 2012/333](https://www.legislation.gov.uk/ssi/2012/333), [art. 2](https://www.legislation.gov.uk/ssi/2012/333/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/333/schedule) (with [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/2/6)[3](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/3))

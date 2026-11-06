@@ -32,7 +32,7 @@ summary: ''
 
 Sheriff Appeal Court
 
-The Sheriff Appeal Court Fees Order 2024 (revoked)[^key-5f68e1e6bebc50a26adddf4e84a3b118]
+The Sheriff Appeal Court Fees Order 2024 (revoked)[^c-5f68e1e6bebc50a26adddf4e84a3b118]
 
 Made
 
@@ -46,47 +46,47 @@ Coming into force
 
 1st November 2024
 
-[^key-5f68e1e6bebc50a26adddf4e84a3b118]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f68e1e6bebc50a26adddf4e84a3b118]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5f68e1e6bebc50a26adddf4e84a3b118]
+## 1. Citation and commencement[^c-5f68e1e6bebc50a26adddf4e84a3b118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1A. Interpretation[^key-5f68e1e6bebc50a26adddf4e84a3b118]
+## 1A. Interpretation[^c-5f68e1e6bebc50a26adddf4e84a3b118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable in the Sheriff Appeal Court[^key-5f68e1e6bebc50a26adddf4e84a3b118]
+## 2. Fees payable in the Sheriff Appeal Court[^c-5f68e1e6bebc50a26adddf4e84a3b118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemptions of certain persons from fees: legal aid[^key-5f68e1e6bebc50a26adddf4e84a3b118]
+## 3. Exemptions of certain persons from fees: legal aid[^c-5f68e1e6bebc50a26adddf4e84a3b118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption of certain persons from fees: social security[^key-5f68e1e6bebc50a26adddf4e84a3b118]
+## 4. Exemption of certain persons from fees: social security[^c-5f68e1e6bebc50a26adddf4e84a3b118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exemptions relating to particular proceedings[^key-5f68e1e6bebc50a26adddf4e84a3b118]
+## 5. Exemptions relating to particular proceedings[^c-5f68e1e6bebc50a26adddf4e84a3b118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemptions for applicants for certain interdicts and orders[^key-5f68e1e6bebc50a26adddf4e84a3b118]
+## 6. Exemptions for applicants for certain interdicts and orders[^c-5f68e1e6bebc50a26adddf4e84a3b118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-5f68e1e6bebc50a26adddf4e84a3b118]
+## 7. Revocation[^c-5f68e1e6bebc50a26adddf4e84a3b118]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f68e1e6bebc50a26adddf4e84a3b118]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f68e1e6bebc50a26adddf4e84a3b118]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — TABLE OF FEES[^key-5f68e1e6bebc50a26adddf4e84a3b118]
+## SCHEDULE — TABLE OF FEES[^c-5f68e1e6bebc50a26adddf4e84a3b118]
 
 Article 2(1)
 
@@ -94,8 +94,8 @@ Article 2(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-5f68e1e6bebc50a26adddf4e84a3b118]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f68e1e6bebc50a26adddf4e84a3b118]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f68e1e6bebc50a26adddf4e84a3b118]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2024/236) revoked (1.4.2026) by [The Sheriff Appeal Court Fees Order 2026 (S.S.I. 2026/79)](https://www.legislation.gov.uk/ssi/2026/79), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1), [7(a)](https://www.legislation.gov.uk/ssi/2026/79/article/7/a)
+[^c-5f68e1e6bebc50a26adddf4e84a3b118]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2024/236) revoked (1.4.2026) by [The Sheriff Appeal Court Fees Order 2026 (S.S.I. 2026/79)](https://www.legislation.gov.uk/ssi/2026/79), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1), [7(a)](https://www.legislation.gov.uk/ssi/2026/79/article/7/a)

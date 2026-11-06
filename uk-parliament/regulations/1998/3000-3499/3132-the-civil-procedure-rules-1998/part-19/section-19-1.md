@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19.1. Parties—general[^key-f81645039664bf70184edcf2dc4f1093]
+## 19.1. Parties—general[^c-f81645039664bf70184edcf2dc4f1093]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any number of claimants or defendants may be joined as parties to a claim.
 
 ## Annotations
 
-[^key-f81645039664bf70184edcf2dc4f1093]: Textual amendment: Pt. 19 substituted (2.5.2000) by [The Civil Procedure (Amendment) Rules 2000 (S.I. 2000/221)](https://www.legislation.gov.uk/uksi/2000/221), [rule 1(b)](https://www.legislation.gov.uk/uksi/2000/221/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/221/schedule/2)
+[^c-f81645039664bf70184edcf2dc4f1093]: Textual amendment: Pt. 19 substituted (2.5.2000) by [The Civil Procedure (Amendment) Rules 2000 (S.I. 2000/221)](https://www.legislation.gov.uk/uksi/2000/221), [rule 1(b)](https://www.legislation.gov.uk/uksi/2000/221/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/221/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Court’s power to regulate meetings under rule 90[^key-43857d847df140ce000bbd76aeabb70b]
+## 91. Court’s power to regulate meetings under rule 90[^c-43857d847df140ce000bbd76aeabb70b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43857d847df140ce000bbd76aeabb70b]: Commencement: Rule 91 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-43857d847df140ce000bbd76aeabb70b]: Commencement: Rule 91 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

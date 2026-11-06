@@ -48,7 +48,7 @@ The Secretary of State has had regard to relevant advice from the Food Standards
 
 There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00009], during the preparation and evaluation of these Regulations.
 
-## 1. Citation, interpretation, extent and application[^key-37588095625f5a5b2879f814b8f9519e]
+## 1. Citation, interpretation, extent and application[^c-37588095625f5a5b2879f814b8f9519e]
 
 (1) These Regulations may be cited as the Bread and Flour (Amendment) (England) Regulations 2024.
 
@@ -56,7 +56,7 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
 (3) These Regulations extend to England and Wales but apply in relation to England only.
 
-## 2. Commencement[^key-71899c61fc348ad5f1a6925706bf01eb]
+## 2. Commencement[^c-71899c61fc348ad5f1a6925706bf01eb]
 
 (1) The following provisions of these Regulations come into force on 13th December 2024—
 
@@ -69,11 +69,11 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 - (a) regulation 3, paragraph (1), for the purpose of commencing the provisions of that regulation mentioned in sub-paragraph (b);
 - (b) regulation 3, paragraphs (6) and (7).
 
-## 3. Amendment of the Bread and Flour Regulations[^key-302accc49c521ce0754390c498bfd80b][^key-cc8f807d4751ccc9ac937e16786e0587][^key-547a620cca92b8958a8829f3e63452b0][^key-7a2dbaca7f5e0ea3d06905e2234b4d45]
+## 3. Amendment of the Bread and Flour Regulations[^c-302accc49c521ce0754390c498bfd80b][^c-cc8f807d4751ccc9ac937e16786e0587][^c-547a620cca92b8958a8829f3e63452b0][^c-7a2dbaca7f5e0ea3d06905e2234b4d45]
 
-(1)[^key-302accc49c521ce0754390c498bfd80b] The Bread and Flour Regulations are amended in accordance with the following paragraphs.
+(1)[^c-302accc49c521ce0754390c498bfd80b] The Bread and Flour Regulations are amended in accordance with the following paragraphs.
 
-(2)[^key-547a620cca92b8958a8829f3e63452b0] In regulation 2(1) (interpretation)[^f00011]—
+(2)[^c-547a620cca92b8958a8829f3e63452b0] In regulation 2(1) (interpretation)[^f00011]—
 
 - (a) after the definition of “bread”, insert—
 
@@ -87,7 +87,7 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
   .
 
-(3)[^key-547a620cca92b8958a8829f3e63452b0] In regulation 4 (composition of flour)[^f00012]—
+(3)[^c-547a620cca92b8958a8829f3e63452b0] In regulation 4 (composition of flour)[^f00012]—
 
 - (a) in paragraph (1)—
   - (i) for the words “paragraph (2)” substitute “paragraphs (1A) and (2)”,
@@ -109,9 +109,9 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
   .
 
-(4)[^key-547a620cca92b8958a8829f3e63452b0] Omit regulation 7 (offences and penalties).
+(4)[^c-547a620cca92b8958a8829f3e63452b0] Omit regulation 7 (offences and penalties).
 
-(5)[^key-547a620cca92b8958a8829f3e63452b0] For regulation 10 (application of various sections of the Act) substitute—
+(5)[^c-547a620cca92b8958a8829f3e63452b0] For regulation 10 (application of various sections of the Act) substitute—
 
 > **10. Application and modification of provisions of the Act**
 >
@@ -144,7 +144,7 @@ There has been consultation, as required by Article 9 of Regulation [(EC) No 178
 
 .
 
-(8)[^key-547a620cca92b8958a8829f3e63452b0] After Schedule 4 insert the following—
+(8)[^c-547a620cca92b8958a8829f3e63452b0] After Schedule 4 insert the following—
 
 > **SCHEDULE 5 — Application and modification of provisions of the Act**
 >
@@ -211,19 +211,19 @@ The British Pharmacopeia 1973 and 2023, referred to in Schedule 1, may, for 1973
 
 [^f00009]: Footnote: EUR 2002/178, to which there are amendments not relevant to these Regulations.
 
-[^key-37588095625f5a5b2879f814b8f9519e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/1162/regulation/1) in force at 13.12.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2/1/a)
+[^c-37588095625f5a5b2879f814b8f9519e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/1162/regulation/1) in force at 13.12.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2/1/a)
 
 [^f00010]: Footnote: [S.I. 1998/141](https://www.legislation.gov.uk/uksi/1998/141); relevant amending instruments are [S.I. 2014/1855](https://www.legislation.gov.uk/uksi/2014/1855), [2018/575](https://www.legislation.gov.uk/uksi/2018/575), [2021/616](https://www.legislation.gov.uk/uksi/2021/616).
 
-[^key-71899c61fc348ad5f1a6925706bf01eb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2) in force at 13.12.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2/1/a)
+[^c-71899c61fc348ad5f1a6925706bf01eb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2) in force at 13.12.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2/1/a)
 
-[^key-302accc49c521ce0754390c498bfd80b]: Commencement: Reg. 3(1) in force at 13.12.2024 for specified purposes, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2/1/b)
+[^c-302accc49c521ce0754390c498bfd80b]: Commencement: Reg. 3(1) in force at 13.12.2024 for specified purposes, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2/1/b)
 
-[^key-cc8f807d4751ccc9ac937e16786e0587]: Commencement: Reg. 3(1) in force at 13.12.2026 in so far as not already in force, see [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2/2/a)
+[^c-cc8f807d4751ccc9ac937e16786e0587]: Commencement: Reg. 3(1) in force at 13.12.2026 in so far as not already in force, see [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2/2/a)
 
-[^key-547a620cca92b8958a8829f3e63452b0]: Commencement: Reg. 3(2)-(5)(8) in force at 13.12.2024, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2/1/c)
+[^c-547a620cca92b8958a8829f3e63452b0]: Commencement: Reg. 3(2)-(5)(8) in force at 13.12.2024, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2/1/c)
 
-[^key-7a2dbaca7f5e0ea3d06905e2234b4d45]: Commencement: Reg. 3(6)(7) in force at 13.12.2026, see [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2/2/b)
+[^c-7a2dbaca7f5e0ea3d06905e2234b4d45]: Commencement: Reg. 3(6)(7) in force at 13.12.2026, see [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1162/regulation/2/2/b)
 
 [^f00011]: Footnote: Regulation 2 was amended by [S.I.2014/1855](https://www.legislation.gov.uk/uksi/2014/1855), [S.I. 2018/575](https://www.legislation.gov.uk/uksi/2018/575) and [S.I. 2021/616](https://www.legislation.gov.uk/uksi/2021/616).
 

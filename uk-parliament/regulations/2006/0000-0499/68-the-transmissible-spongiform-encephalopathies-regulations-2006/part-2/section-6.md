@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Control and eradication of TSE in bovine animals[^key-80a72509a85cb9ab24afc409f2a7f728]
+## 6. Control and eradication of TSE in bovine animals[^c-80a72509a85cb9ab24afc409f2a7f728]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 3 (control and eradication of TSE in bovine animals) has effect.
 
 ## Annotations
 
-[^key-80a72509a85cb9ab24afc409f2a7f728]: Commencement: Reg. 6 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-80a72509a85cb9ab24afc409f2a7f728]: Commencement: Reg. 6 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

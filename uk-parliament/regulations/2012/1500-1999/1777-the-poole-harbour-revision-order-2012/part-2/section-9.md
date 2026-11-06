@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Power to lay down moorings[^key-b5396cd2281ea5f7ccf09e98713d4a60]
+## 9. Power to lay down moorings[^c-b5396cd2281ea5f7ccf09e98713d4a60]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5396cd2281ea5f7ccf09e98713d4a60]: Commencement: Art. 9 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-b5396cd2281ea5f7ccf09e98713d4a60]: Commencement: Art. 9 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

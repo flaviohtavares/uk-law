@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. King George VI Memorial Youth Council Act (Northern Ireland) 1957[^key-ad7bcf5ff3fc8f223b5e47f3465216af]
+## 127. King George VI Memorial Youth Council Act (Northern Ireland) 1957[^c-ad7bcf5ff3fc8f223b5e47f3465216af]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad7bcf5ff3fc8f223b5e47f3465216af]: Commencement: Reg. 127 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-ad7bcf5ff3fc8f223b5e47f3465216af]: Commencement: Reg. 127 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00210]: Footnote: [1957 c.23 (N.I.)](https://www.legislation.gov.uk/apni/1957/23).

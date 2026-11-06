@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Measures at border control posts[^key-0f08b0b71fe8634c697d894c6561c312]
+## 41. Measures at border control posts[^c-0f08b0b71fe8634c697d894c6561c312]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f08b0b71fe8634c697d894c6561c312]: Textual amendment: [Art. 41](https://www.legislation.gov.uk/wsi/2006/2927/article/41) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [25](https://www.legislation.gov.uk/wsi/2025/1357/article/25)
+[^c-0f08b0b71fe8634c697d894c6561c312]: Textual amendment: [Art. 41](https://www.legislation.gov.uk/wsi/2006/2927/article/41) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [25](https://www.legislation.gov.uk/wsi/2025/1357/article/25)

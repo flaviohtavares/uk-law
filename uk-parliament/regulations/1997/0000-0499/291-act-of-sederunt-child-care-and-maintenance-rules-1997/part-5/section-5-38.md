@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.38. Applications under section 5A of the 1982 Act[^key-c3d5ca672f2e3a18223286ea064acb47][^key-c111288db6f005c198dce7781dd50ed8]
+## 5.38. Applications under section 5A of the 1982 Act[^c-c3d5ca672f2e3a18223286ea064acb47][^c-c111288db6f005c198dce7781dd50ed8]
 
 *Extent: S*
 
-(1) Applications[^key-97a57073751008ae8513f75ca83e38b5] under section 5A[^key-1c978d120b2b06c5c2b851964aed4918] of the 1982 Act shall be in writing addressed to the Scottish Ministers[^key-c4579fb665e46d62169d45bfcfc18794], signed by the applicant, or a solicitor or professional person qualified to act in such matters in the Contracting State of origin on his behalf, and shall specify–
+(1) Applications[^c-97a57073751008ae8513f75ca83e38b5] under section 5A[^c-1c978d120b2b06c5c2b851964aed4918] of the 1982 Act shall be in writing addressed to the Scottish Ministers[^c-c4579fb665e46d62169d45bfcfc18794], signed by the applicant, or a solicitor or professional person qualified to act in such matters in the Contracting State of origin on his behalf, and shall specify–
 
 - (a) an address within Scotland for service on the applicant;
 - (b) the usual and last known address of the person against whom judgement was granted;
@@ -45,12 +45,12 @@ summary: ''
 
 ## Annotations
 
-[^key-c3d5ca672f2e3a18223286ea064acb47]: Commencement: Rule 5.38 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-c3d5ca672f2e3a18223286ea064acb47]: Commencement: Rule 5.38 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-c111288db6f005c198dce7781dd50ed8]: Textual amendment: Rule 5.38 heading substituted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(7)(b)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/7/b) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-c111288db6f005c198dce7781dd50ed8]: Textual amendment: Rule 5.38 heading substituted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(7)(b)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/7/b) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
 
-[^key-97a57073751008ae8513f75ca83e38b5]: Textual amendment: Word in rule 5.38(1) substituted (1.1.2010) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (No.2) 2009 (S.S.I. 2009/449)](https://www.legislation.gov.uk/ssi/2009/449), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/449/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2009/449/paragraph/2/2/a)
+[^c-97a57073751008ae8513f75ca83e38b5]: Textual amendment: Word in rule 5.38(1) substituted (1.1.2010) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (No.2) 2009 (S.S.I. 2009/449)](https://www.legislation.gov.uk/ssi/2009/449), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/449/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2009/449/paragraph/2/2/a)
 
-[^key-1c978d120b2b06c5c2b851964aed4918]: Textual amendment: Words in rule 5.38(1) substituted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(7)(a)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/7/a) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-1c978d120b2b06c5c2b851964aed4918]: Textual amendment: Words in rule 5.38(1) substituted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(7)(a)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/7/a) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
 
-[^key-c4579fb665e46d62169d45bfcfc18794]: Textual amendment: Words in rule 5.38(1) substituted (1.1.2010) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (No.2) 2009 (S.S.I. 2009/449)](https://www.legislation.gov.uk/ssi/2009/449), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/449/paragraph/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2009/449/paragraph/2/2/c)
+[^c-c4579fb665e46d62169d45bfcfc18794]: Textual amendment: Words in rule 5.38(1) substituted (1.1.2010) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (No.2) 2009 (S.S.I. 2009/449)](https://www.legislation.gov.uk/ssi/2009/449), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/449/paragraph/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2009/449/paragraph/2/2/c)

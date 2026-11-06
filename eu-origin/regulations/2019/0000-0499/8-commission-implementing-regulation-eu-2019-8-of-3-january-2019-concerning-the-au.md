@@ -35,22 +35,22 @@ concerning the authorisation of hydroxy analogue of methionine and its calcium s
 
 (Text with EEA relevance) (revoked)
 
-[^key-c8611fe4761c593b2d88fdff9461c778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8611fe4761c593b2d88fdff9461c778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-c8611fe4761c593b2d88fdff9461c778]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-c8611fe4761c593b2d88fdff9461c778]
+## Article 1. Authorisation[^c-c8611fe4761c593b2d88fdff9461c778]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8611fe4761c593b2d88fdff9461c778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-c8611fe4761c593b2d88fdff9461c778]
 
-## ANNEX[^key-c8611fe4761c593b2d88fdff9461c778]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c8611fe4761c593b2d88fdff9461c778]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-c8611fe4761c593b2d88fdff9461c778]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8611fe4761c593b2d88fdff9461c778]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 303](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/303) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-c8611fe4761c593b2d88fdff9461c778]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 303](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/303) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

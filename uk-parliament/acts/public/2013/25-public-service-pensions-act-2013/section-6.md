@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Pension board: information[^key-5d9fd3c85a28c387d8b2bd1f68628477][^key-1ae675fb5c5e9344b8902d0cb55c530c][^key-0a4f63e70ffa8578eac3dfca2cb6ff6b][^key-25345908738097630eeb4d3d56ce61c3]
+## 6. Pension board: information[^c-5d9fd3c85a28c387d8b2bd1f68628477][^c-1ae675fb5c5e9344b8902d0cb55c530c][^c-0a4f63e70ffa8578eac3dfca2cb6ff6b][^c-25345908738097630eeb4d3d56ce61c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,10 +32,10 @@ summary: ''
 
 ## Annotations
 
-[^key-5d9fd3c85a28c387d8b2bd1f68628477]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/25/section/6) in force at 28.2.2014 for specified purposes by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2014/433/article/3/2/c)
+[^c-5d9fd3c85a28c387d8b2bd1f68628477]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/25/section/6) in force at 28.2.2014 for specified purposes by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2014/433/article/3/2/c)
 
-[^key-1ae675fb5c5e9344b8902d0cb55c530c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/25/section/6) in force at 1.4.2014 for specified purposes by [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/839/article/2/2/c)[(3)](https://www.legislation.gov.uk/uksi/2014/839/article/2/3)
+[^c-1ae675fb5c5e9344b8902d0cb55c530c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/25/section/6) in force at 1.4.2014 for specified purposes by [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/839/article/2/2/c)[(3)](https://www.legislation.gov.uk/uksi/2014/839/article/2/3)
 
-[^key-0a4f63e70ffa8578eac3dfca2cb6ff6b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/25/section/6) in force at 1.4.2015 for specified purposes by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/4/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2015/4/article/2/2/c)
+[^c-0a4f63e70ffa8578eac3dfca2cb6ff6b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/25/section/6) in force at 1.4.2015 for specified purposes by [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/4/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2015/4/article/2/2/c)
 
-[^key-25345908738097630eeb4d3d56ce61c3]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/25/section/6) in force at 1.4.2015 for specified purposes by [S.I. 2014/1912](https://www.legislation.gov.uk/uksi/2014/1912), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1912/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1912/article/3/2)
+[^c-25345908738097630eeb4d3d56ce61c3]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/25/section/6) in force at 1.4.2015 for specified purposes by [S.I. 2014/1912](https://www.legislation.gov.uk/uksi/2014/1912), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1912/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1912/article/3/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Trade: exception for emergencies in certain cases[^key-91a6c6b12b79d4ac0f45f1886c81f7f5]
+## 56. Trade: exception for emergencies in certain cases[^c-91a6c6b12b79d4ac0f45f1886c81f7f5]
 
 *Extent: E+W+S+N.I.*
 
 (1) The prohibitions specified in paragraph (2) are not contravened by any act done by a person (“**P**”), where P provides justification to the Secretary of State within the relevant period that the act is an act dealing with an emergency.
 
-(2)[^key-b198058ceee55ffbb141aeb8b6058631] Paragraph (1) applies to the prohibitions in—
+(2)[^c-b198058ceee55ffbb141aeb8b6058631] Paragraph (1) applies to the prohibitions in—
 
 - (a) regulations 28 to 34 (prohibitions relating to restricted goods, etc.);
 - (b) regulations 37 to 43 (prohibitions relating to goods of strategic concern, etc.);
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91a6c6b12b79d4ac0f45f1886c81f7f5]: Commencement: Reg. 56 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-91a6c6b12b79d4ac0f45f1886c81f7f5]: Commencement: Reg. 56 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-b198058ceee55ffbb141aeb8b6058631]: Textual amendment: [Reg. 56(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/56/2) substituted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2026/983/regulation/23)
+[^c-b198058ceee55ffbb141aeb8b6058631]: Textual amendment: [Reg. 56(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/56/2) substituted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2026/983/regulation/23)

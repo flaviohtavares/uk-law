@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Interim administration orders: duties of respondent etc.[^key-7d5331a80dc7059504442245c534afd4]
+## 170. Interim administration orders: duties of respondent etc.[^c-7d5331a80dc7059504442245c534afd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d5331a80dc7059504442245c534afd4]: Commencement: [Art. 170](https://www.legislation.gov.uk/uksi/2005/3181/article/170) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-7d5331a80dc7059504442245c534afd4]: Commencement: [Art. 170](https://www.legislation.gov.uk/uksi/2005/3181/article/170) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

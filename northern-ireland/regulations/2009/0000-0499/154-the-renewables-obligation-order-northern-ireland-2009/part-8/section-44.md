@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Dealing with the buy-out and late payment funds: payments to United Kingdom suppliers[^key-bcfcac0a1a8234523427d44974543aba]
+## 44. Dealing with the buy-out and late payment funds: payments to United Kingdom suppliers[^c-bcfcac0a1a8234523427d44974543aba]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcfcac0a1a8234523427d44974543aba]: Commencement: Art. 44 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-bcfcac0a1a8234523427d44974543aba]: Commencement: Art. 44 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

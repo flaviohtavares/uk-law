@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Removal of asylum claimant under standing arrangement with member States[^key-c7e0687833535c25614ad14d5f979a91]
+## 11. Removal of asylum claimant under standing arrangement with member States[^c-c7e0687833535c25614ad14d5f979a91]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7e0687833535c25614ad14d5f979a91]: Textual amendment: S. 11 repealed (1.10.2004) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2004/19/section/33/2), [48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4); [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2523/article/3))
+[^c-c7e0687833535c25614ad14d5f979a91]: Textual amendment: S. 11 repealed (1.10.2004) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2004/19/section/33/2), [48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4); [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2523/article/3))

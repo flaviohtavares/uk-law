@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Recoverable excess benefit[^key-48cd758e8a659395ea378567612c80fd]
+## 84. Recoverable excess benefit[^c-48cd758e8a659395ea378567612c80fd]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48cd758e8a659395ea378567612c80fd]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/1992/1814/regulation/84) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-48cd758e8a659395ea378567612c80fd]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/1992/1814/regulation/84) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

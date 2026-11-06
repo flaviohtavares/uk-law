@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 12 — Collation of information and criteria for aggregating data and calculating statistical parameters[^key-485e3a5db5560debee05c99a8b7974dc]
+## SCHEDULE 12 — Collation of information and criteria for aggregating data and calculating statistical parameters[^c-485e3a5db5560debee05c99a8b7974dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Regulation 31
 
-### PART 1 — Information to be submitted to the Commission[^key-485e3a5db5560debee05c99a8b7974dc]
+### PART 1 — Information to be submitted to the Commission[^c-485e3a5db5560debee05c99a8b7974dc]
 
-**1.**[^key-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Criteria for aggregating data and calculating statistical parameters[^key-485e3a5db5560debee05c99a8b7974dc]
+### PART 2 — Criteria for aggregating data and calculating statistical parameters[^c-485e3a5db5560debee05c99a8b7974dc]
 
-**4.**[^key-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-485e3a5db5560debee05c99a8b7974dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-485e3a5db5560debee05c99a8b7974dc]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards Regulations 2010 (S.I. 2010/1001)](https://www.legislation.gov.uk/uksi/2010/1001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33), [33](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33)
+[^c-485e3a5db5560debee05c99a8b7974dc]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards Regulations 2010 (S.I. 2010/1001)](https://www.legislation.gov.uk/uksi/2010/1001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33), [33](https://www.legislation.gov.uk/uksi/2010/1001/regulation/33)

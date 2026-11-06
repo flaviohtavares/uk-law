@@ -31,7 +31,7 @@ summary: ''
 
 DOGS
 
-Dogs (Licensing and Identification) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-b93cfa92a44b046f44e924d6db635ef2]
+Dogs (Licensing and Identification) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-b93cfa92a44b046f44e924d6db635ef2]
 
 Made
 
@@ -41,31 +41,31 @@ Coming into operation
 
 1st January 2006
 
-[^key-b93cfa92a44b046f44e924d6db635ef2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b93cfa92a44b046f44e924d6db635ef2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b93cfa92a44b046f44e924d6db635ef2]
+## 1. Citation and commencement[^c-b93cfa92a44b046f44e924d6db635ef2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Dogs (Licensing and Identification) Regulations (Northern Ireland) 1983[^key-b93cfa92a44b046f44e924d6db635ef2]
+## 2. Amendment of the Dogs (Licensing and Identification) Regulations (Northern Ireland) 1983[^c-b93cfa92a44b046f44e924d6db635ef2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-b93cfa92a44b046f44e924d6db635ef2]
+## 3. Revocation[^c-b93cfa92a44b046f44e924d6db635ef2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b93cfa92a44b046f44e924d6db635ef2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b93cfa92a44b046f44e924d6db635ef2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-b93cfa92a44b046f44e924d6db635ef2]
+## SCHEDULE[^c-b93cfa92a44b046f44e924d6db635ef2]
 
 Regulation 2
 
-> **SCHEDULE 8 — LICENCE IDENTIFICATION[^key-b93cfa92a44b046f44e924d6db635ef2]**
+> **SCHEDULE 8 — LICENCE IDENTIFICATION[^c-b93cfa92a44b046f44e924d6db635ef2]**
 >
 > Regulation 7(2)
 >
@@ -73,8 +73,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-b93cfa92a44b046f44e924d6db635ef2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b93cfa92a44b046f44e924d6db635ef2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b93cfa92a44b046f44e924d6db635ef2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/587) revoked (1.1.2010) by [The Dogs (Licensing and Identification) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/396)](https://www.legislation.gov.uk/nisr/2009/396), [regs. 1](https://www.legislation.gov.uk/nisr/2009/396/regulation/1), [3](https://www.legislation.gov.uk/nisr/2009/396/regulation/3)
+[^c-b93cfa92a44b046f44e924d6db635ef2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/587) revoked (1.1.2010) by [The Dogs (Licensing and Identification) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/396)](https://www.legislation.gov.uk/nisr/2009/396), [regs. 1](https://www.legislation.gov.uk/nisr/2009/396/regulation/1), [3](https://www.legislation.gov.uk/nisr/2009/396/regulation/3)

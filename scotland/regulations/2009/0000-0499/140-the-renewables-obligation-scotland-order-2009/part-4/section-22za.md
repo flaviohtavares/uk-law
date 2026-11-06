@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 22ZA. Circumstances in which no SROCs are to be issued in respect of electricity generated from solid or gaseous biomass[^key-b4547abd5adefcd952d179e18b8048c6]
+## 22ZA. Circumstances in which no SROCs are to be issued in respect of electricity generated from solid or gaseous biomass[^c-b4547abd5adefcd952d179e18b8048c6]
 
 (1) This article applies to biomass (other than animal excreta, bioliquid, landfill gas, sewage gas or waste).
 
@@ -25,4 +25,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4547abd5adefcd952d179e18b8048c6]: Textual amendment: [Art. 22ZA](https://www.legislation.gov.uk/ssi/2009/140/article/22ZA) inserted (1.12.2015) by [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [6](https://www.legislation.gov.uk/ssi/2015/384/article/6) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
+[^c-b4547abd5adefcd952d179e18b8048c6]: Textual amendment: [Art. 22ZA](https://www.legislation.gov.uk/ssi/2009/140/article/22ZA) inserted (1.12.2015) by [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [6](https://www.legislation.gov.uk/ssi/2015/384/article/6) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))

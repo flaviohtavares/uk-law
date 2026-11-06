@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Land of which only temporary possession may be taken[^key-19894d3a2b27732ec8922b549b96e445]
+## SCHEDULE 6 — Land of which only temporary possession may be taken[^c-19894d3a2b27732ec8922b549b96e445]
 
 *Extent: E+W*
 
 Article 27
 
-[^key-19894d3a2b27732ec8922b549b96e445]
+[^c-19894d3a2b27732ec8922b549b96e445]
 
 In the County of Denbighshire:
 
@@ -64,4 +64,4 @@ In the County of Denbighshire:
 
 ## Annotations
 
-[^key-19894d3a2b27732ec8922b549b96e445]: Commencement: Sch. 6 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-19894d3a2b27732ec8922b549b96e445]: Commencement: Sch. 6 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

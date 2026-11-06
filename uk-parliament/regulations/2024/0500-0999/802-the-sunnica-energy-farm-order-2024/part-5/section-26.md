@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Temporary use of land for constructing the authorised development[^key-2512515b6790d1b947e11a5ccea25f88]
+## 26. Temporary use of land for constructing the authorised development[^c-2512515b6790d1b947e11a5ccea25f88]
 
 *Extent: E+W*
 
@@ -65,7 +65,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2512515b6790d1b947e11a5ccea25f88]: Commencement: Art. 26 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-2512515b6790d1b947e11a5ccea25f88]: Commencement: Art. 26 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
 [^f00040]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 

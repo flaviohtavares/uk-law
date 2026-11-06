@@ -24,7 +24,7 @@ Article 64
 
 ### Apparatus of statutory undertakers, etc., on land acquired
 
-**1.**[^key-fdee7ef82a72a0f09b279c7bb1082bb2] (1) Subject to the following provisions of this paragraph, sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers, etc. and power of statutory undertakers, etc. to remove or re-site apparatus) shall apply in relation to any land acquired under this Order, or which is held by the Harbour Authority and is appropriated or used (or about to be used) by it for the purposes of the Order or purposes connected therewith, and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
+**1.**[^c-fdee7ef82a72a0f09b279c7bb1082bb2] (1) Subject to the following provisions of this paragraph, sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers, etc. and power of statutory undertakers, etc. to remove or re-site apparatus) shall apply in relation to any land acquired under this Order, or which is held by the Harbour Authority and is appropriated or used (or about to be used) by it for the purposes of the Order or purposes connected therewith, and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) shall have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1), references to the appropriate Minister are references to the Secretary of State.
 
@@ -39,7 +39,7 @@ Article 64
 
 ### Protection for National Grid Gas plc
 
-**2.**[^key-4f68dde03978194a32d75a1c97e599ca] (1) For the protection of the undertaker referred to in this Schedule the following provisions shall, unless otherwise agreed in writing between the Harbour Authority and the undertaker, have effect.
+**2.**[^c-4f68dde03978194a32d75a1c97e599ca] (1) For the protection of the undertaker referred to in this Schedule the following provisions shall, unless otherwise agreed in writing between the Harbour Authority and the undertaker, have effect.
 
 (2) In the remaining provisions of this Schedule—
 
@@ -50,7 +50,7 @@ Article 64
 - “specified work” means any of the authorised works which will or may be situated over, or within 15 metres measured in any direction of, or may in any way adversely affect any apparatus the removal of which has not been required under paragraph 3; and
 - “the undertaker” means National Grid Gas plc, whose registered office is 1-3 Strand, London WC2N 5EH.
 
-**3.**[^key-bbc089a48440e7ac023efebd3d5d144e] (1) If, in the exercise of any of its powers granted under this Order, the Harbour Authority serves notice on the undertaker that it intends to develop land affecting the apparatus of the undertaker, that apparatus shall not be removed under this Schedule and any right of the undertaker to use, maintain, repair, renew or inspect that apparatus in that land shall not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the undertaker.
+**3.**[^c-bbc089a48440e7ac023efebd3d5d144e] (1) If, in the exercise of any of its powers granted under this Order, the Harbour Authority serves notice on the undertaker that it intends to develop land affecting the apparatus of the undertaker, that apparatus shall not be removed under this Schedule and any right of the undertaker to use, maintain, repair, renew or inspect that apparatus in that land shall not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the undertaker.
 
 (2) If, for the purpose of executing any authorised works in, on or under any land, the Harbour Authority requires the protection, diversion, relocation or removal of any apparatus placed in that land, the Harbour Authority shall give to the undertaker 56 days’ written notice of that requirement, together with a plan and section of the work proposed, and of the proposed position of the alternative apparatus to be provided or constructed and in that case (or if in consequence of the exercise of any of the powers granted under this Order, the undertaker reasonably needs to remove any of its apparatus) the Harbour Authority shall, subject to sub-paragraph (3), afford to the undertaker the necessary facilities and rights for the construction of alternative apparatus in other land of the Harbour Authority where the Harbour Authority so directs and thereafter for the use, maintenance, repair, renewal and inspection of that apparatus.
 
@@ -66,7 +66,7 @@ Article 64
 
 (8) The Harbour Authority must agree the programme for diversion of the apparatus with the undertaker (who must act reasonably) to ensure that the undertaker can fulfil its operational requirements.
 
-**4.**[^key-69f478013a072ab03ea0ef028345288b] (1) Where, in accordance with the provisions of this Schedule, the Harbour Authority affords to the undertaker facilities and rights for the construction, and maintenance, in land of the Harbour Authority of alternative apparatus in substitution for apparatus to be removed, those facilities and rights shall be granted upon such terms and conditions as may be agreed between the Harbour Authority and the undertaker or in default of agreement settled, subject to sub-paragraphs (2) and (3), by arbitration in accordance with article 66 (arbitration).
+**4.**[^c-69f478013a072ab03ea0ef028345288b] (1) Where, in accordance with the provisions of this Schedule, the Harbour Authority affords to the undertaker facilities and rights for the construction, and maintenance, in land of the Harbour Authority of alternative apparatus in substitution for apparatus to be removed, those facilities and rights shall be granted upon such terms and conditions as may be agreed between the Harbour Authority and the undertaker or in default of agreement settled, subject to sub-paragraphs (2) and (3), by arbitration in accordance with article 66 (arbitration).
 
 (2) In settling those terms and conditions in respect of alternative apparatus to be constructed in any property of the Harbour Authority, the arbitrator shall—
 
@@ -76,7 +76,7 @@ Article 64
 
 (3) If the facilities and rights to be afforded by the Harbour Authority in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are in the opinion of the arbitrator less favourable on the whole to the undertaker than the facilities and rights enjoyed by it in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject, the arbitrator shall make such provision for the payment of compensation by the Harbour Authority to the undertaker as appears to him to be reasonable having regard to all the circumstances of the particular case.
 
-**5.**[^key-47adb6a69071af8b8e8f3813eecd10f9] (1) Not less than 56 days before commencing the construction or maintenance of any specified work the Harbour Authority shall submit to the undertaker a plan, section and description of the works to be executed.
+**5.**[^c-47adb6a69071af8b8e8f3813eecd10f9] (1) Not less than 56 days before commencing the construction or maintenance of any specified work the Harbour Authority shall submit to the undertaker a plan, section and description of the works to be executed.
 
 (2) The Harbour Authority shall not commence the construction or maintenance of any specified work until the undertaker has given written approval of the plan, section and description so submitted.
 
@@ -92,7 +92,7 @@ Article 64
 
 (6) The Harbour Authority shall not be required to comply with sub-paragraph (1) in a case of emergency but in that case it shall give to the undertaker as much prior notice as is reasonably practicable and a plan, section and description of those works as soon as reasonably practicable afterwards and shall comply with sub-paragraph (2) in so far as is reasonably practicable in the circumstances.
 
-**6.**[^key-86b17d9d3e346a0604e4e200647a3020] (1) Subject to the following provisions of this paragraph, the Harbour Authority shall repay to the undertaker the reasonable and evidenced expenses incurred by the undertaker in, or in connection with—
+**6.**[^c-86b17d9d3e346a0604e4e200647a3020] (1) Subject to the following provisions of this paragraph, the Harbour Authority shall repay to the undertaker the reasonable and evidenced expenses incurred by the undertaker in, or in connection with—
 
 - (a) the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any specified works; and
 - (b) the provision of any superintendence and consultations and approvals referred to in paragraph 5.
@@ -113,7 +113,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) An amount which apart from sub-paragraph (3) would be payable to the undertaker in respect of works by virtue of sub-paragraph (1) shall, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on the undertaker any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, be reduced by the amount which represents that benefit.
 
-**7.**[^key-60e36d9e930edfd2d159ba741205f331] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works as are referred to in paragraph 3(2), any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of the undertaker, or there is any interruption in any service provided, or in the supply of any goods, by the undertaker the Harbour Authority shall—
+**7.**[^c-60e36d9e930edfd2d159ba741205f331] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works as are referred to in paragraph 3(2), any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of the undertaker, or there is any interruption in any service provided, or in the supply of any goods, by the undertaker the Harbour Authority shall—
 
 - (a) bear and pay the cost reasonably incurred and evidenced by the undertaker in making good such damage or restoring the supply; and
 - (b) compensate the undertaker for all valid claims, demands, proceedings, costs, damages, losses and expenses which may be made or taken against or recovered from or incurred by the undertaker;
@@ -126,18 +126,18 @@ by reason or in consequence of any such damage or interruption.
 
 ## Annotations
 
-[^key-fdee7ef82a72a0f09b279c7bb1082bb2]: Commencement: Sch. 11 para. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-fdee7ef82a72a0f09b279c7bb1082bb2]: Commencement: Sch. 11 para. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00044]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-4f68dde03978194a32d75a1c97e599ca]: Commencement: Sch. 11 para. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-4f68dde03978194a32d75a1c97e599ca]: Commencement: Sch. 11 para. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-bbc089a48440e7ac023efebd3d5d144e]: Commencement: Sch. 11 para. 3 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-bbc089a48440e7ac023efebd3d5d144e]: Commencement: Sch. 11 para. 3 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-69f478013a072ab03ea0ef028345288b]: Commencement: Sch. 11 para. 4 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-69f478013a072ab03ea0ef028345288b]: Commencement: Sch. 11 para. 4 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-47adb6a69071af8b8e8f3813eecd10f9]: Commencement: Sch. 11 para. 5 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-47adb6a69071af8b8e8f3813eecd10f9]: Commencement: Sch. 11 para. 5 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-86b17d9d3e346a0604e4e200647a3020]: Commencement: Sch. 11 para. 6 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-86b17d9d3e346a0604e4e200647a3020]: Commencement: Sch. 11 para. 6 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-60e36d9e930edfd2d159ba741205f331]: Commencement: Sch. 11 para. 7 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-60e36d9e930edfd2d159ba741205f331]: Commencement: Sch. 11 para. 7 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

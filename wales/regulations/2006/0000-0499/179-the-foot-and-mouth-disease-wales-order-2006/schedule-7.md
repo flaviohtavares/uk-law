@@ -24,7 +24,7 @@ Article 41(1)
 
 ### 1. Notification of dead wild susceptible animals in a wild animal infected zone
 
-Any person who kills a wild susceptible animal or finds such an animal dead in a wild animal infected zone must notify the Welsh Ministers[^key-4c128dd8da9d55ce11b03d2ffb47d7c7].
+Any person who kills a wild susceptible animal or finds such an animal dead in a wild animal infected zone must notify the Welsh Ministers[^c-4c128dd8da9d55ce11b03d2ffb47d7c7].
 
 ### 2. Record keeping in a wild animal infected zone
 
@@ -56,10 +56,10 @@ No person is permitted to bring the following on to premises in a wild animal in
 
 ### 7. Movement of semen, ova and embryos out of a wild animal infected zone for trade
 
-No person is permitted to move any semen, embryo or ovum of a susceptible animal out of a wild animal infected zone for the purpose of trade with a member State, Norway, Iceland or Liechtenstein[^key-6292398532168caf14c70ec05522d52a].
+No person is permitted to move any semen, embryo or ovum of a susceptible animal out of a wild animal infected zone for the purpose of trade with a member State, Norway, Iceland or Liechtenstein[^c-6292398532168caf14c70ec05522d52a].
 
 ## Annotations
 
-[^key-4c128dd8da9d55ce11b03d2ffb47d7c7]: Textual amendment: Words in [Sch. 7 para. 1](https://www.legislation.gov.uk/wsi/2006/179/schedule/7/paragraph/1) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
+[^c-4c128dd8da9d55ce11b03d2ffb47d7c7]: Textual amendment: Words in [Sch. 7 para. 1](https://www.legislation.gov.uk/wsi/2006/179/schedule/7/paragraph/1) substituted (1.4.2010) by [The Animal Health (Divisional Veterinary Managers) (Wales) Order 2010 (S.I. 2010/618)](https://www.legislation.gov.uk/wsi/2010/618), [arts. 1](https://www.legislation.gov.uk/wsi/2010/618/article/1), [2(1)](https://www.legislation.gov.uk/wsi/2010/618/article/2/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/618/schedule/1)
 
-[^key-6292398532168caf14c70ec05522d52a]: Textual amendment: Words in [Sch. 7 para. 7](https://www.legislation.gov.uk/wsi/2006/179/schedule/7/paragraph/7) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/371/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6292398532168caf14c70ec05522d52a]: Textual amendment: Words in [Sch. 7 para. 7](https://www.legislation.gov.uk/wsi/2006/179/schedule/7/paragraph/7) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/371/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

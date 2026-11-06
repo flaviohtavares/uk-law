@@ -22,7 +22,7 @@ summary: ''
 
 Articles 15 and 23
 
-### PART I[^key-d25770ad8a8d600e3a1585820e0321c7]
+### PART I[^c-d25770ad8a8d600e3a1585820e0321c7]
 
 <table>
 <thead>
@@ -35,7 +35,7 @@ Articles 15 and 23
 </tbody>
 </table>
 
-### PART II[^key-ac3904513d434613d48e303553c958a2]
+### PART II[^c-ac3904513d434613d48e303553c958a2]
 
 <table>
 <thead>
@@ -55,6 +55,6 @@ Articles 15 and 23
 
 ## Annotations
 
-[^key-d25770ad8a8d600e3a1585820e0321c7]: Commencement: Sch. 8 Pt. I in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-d25770ad8a8d600e3a1585820e0321c7]: Commencement: Sch. 8 Pt. I in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-ac3904513d434613d48e303553c958a2]: Commencement: Sch. 8 Pt. II in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-ac3904513d434613d48e303553c958a2]: Commencement: Sch. 8 Pt. II in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

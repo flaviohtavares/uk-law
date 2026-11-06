@@ -35,7 +35,7 @@ Animals, England
 
 Animal Health
 
-The Brucellosis (England) (Amendment) Order 2008 (revoked)[^key-26fd214d084880cd7024d720cce0442e]
+The Brucellosis (England) (Amendment) Order 2008 (revoked)[^c-26fd214d084880cd7024d720cce0442e]
 
 Made
 
@@ -45,23 +45,23 @@ Coming into force
 
 6th April 2008
 
-[^key-26fd214d084880cd7024d720cce0442e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26fd214d084880cd7024d720cce0442e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-26fd214d084880cd7024d720cce0442e]
+## 1. Title and commencement[^c-26fd214d084880cd7024d720cce0442e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-26fd214d084880cd7024d720cce0442e]
+## 2. Amendment[^c-26fd214d084880cd7024d720cce0442e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-26fd214d084880cd7024d720cce0442e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26fd214d084880cd7024d720cce0442e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-26fd214d084880cd7024d720cce0442e]EXPLANATORY NOTE
+[^c-26fd214d084880cd7024d720cce0442e]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -73,4 +73,4 @@ No impact assessment has been prepared for this Order as no impact on the privat
 
 ## Annotations
 
-[^key-26fd214d084880cd7024d720cce0442e]: Textual amendment: Order revoked (E.) (1.4.2015) by [The Brucellosis (England) Order 2015 (S.I. 2015/364)](https://www.legislation.gov.uk/uksi/2015/364), [art. 25(b)](https://www.legislation.gov.uk/uksi/2015/364/article/25/b)
+[^c-26fd214d084880cd7024d720cce0442e]: Textual amendment: Order revoked (E.) (1.4.2015) by [The Brucellosis (England) Order 2015 (S.I. 2015/364)](https://www.legislation.gov.uk/uksi/2015/364), [art. 25(b)](https://www.legislation.gov.uk/uksi/2015/364/article/25/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Conditions on the exercise of functions mentioned in articles 6 and 7[^key-7acc5f71bf71682189bd46763c2bfe47]
+## 8. Conditions on the exercise of functions mentioned in articles 6 and 7[^c-7acc5f71bf71682189bd46763c2bfe47]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7acc5f71bf71682189bd46763c2bfe47]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2021/112/article/8) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(3)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/3/c)
+[^c-7acc5f71bf71682189bd46763c2bfe47]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2021/112/article/8) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(3)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/3/c)

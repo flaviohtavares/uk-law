@@ -43,7 +43,7 @@ Whereas the Commissioners appointed by His Majesty’s Warrant bearing date the 
 
 ## 2—4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c582922]
 
-## 5. Duration of Commissions.[^key-31ed058df5dc6927b45f8815b0939cfd]
+## 5. Duration of Commissions.[^c-31ed058df5dc6927b45f8815b0939cfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -247,7 +247,7 @@ Nothing in this Act shall be construed to repeal any provision of the [^c582943]
 
 [^c582922]: Textual amendment: [Ss. 2–4](https://www.legislation.gov.uk/ukpga/Geo5/13-14/33/section/2) repealed by [Statute Law (Repeals) Act 1978 (c. 45)](https://www.legislation.gov.uk/ukpga/1978/45), [Sch. 1 Pt. V](https://www.legislation.gov.uk/ukpga/1978/45/schedule/1/part/V)
 
-[^key-31ed058df5dc6927b45f8815b0939cfd]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Geo5/13-14/33/section/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-31ed058df5dc6927b45f8815b0939cfd]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Geo5/13-14/33/section/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c582923]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/Geo5/13-14/33/section/7/1),(2) and (3) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt.III](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/III), Group 2
 

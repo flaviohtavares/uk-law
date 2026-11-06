@@ -26,7 +26,7 @@ summary: ''
 
 - (a) where a trivial pension is commuted in accordance with regulation T8 (commutation of trivial pensions);
 - (b) where a pension is commuted in accordance with regulations E2(10) (early retirement pension (ill health)), E3(10) (ill health pension on early retirement) or E12(7) (preserved pension); or
-- (c) where a pension is forfeited for the reasons specified in regulation T7(1)(b) or (c) or (2)[^key-943c50dc2df6c50b36330aa53027b393] (loss of rights to benefits).
+- (c) where a pension is forfeited for the reasons specified in regulation T7(1)(b) or (c) or (2)[^c-943c50dc2df6c50b36330aa53027b393] (loss of rights to benefits).
 
 (3) In this Part—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-943c50dc2df6c50b36330aa53027b393]: Textual amendment: Words in reg. K1(2)(c) inserted (with effect in accordance with reg. 1(2)(f) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2017/27/regulation/6) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-943c50dc2df6c50b36330aa53027b393]: Textual amendment: Words in reg. K1(2)(c) inserted (with effect in accordance with reg. 1(2)(f) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2017/27/regulation/6) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))

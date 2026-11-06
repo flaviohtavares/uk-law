@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Role of companion at disciplinary or grievance hearing[^key-57d4aa2882e1f4b3786ad8977f01e817]
+## 37. Role of companion at disciplinary or grievance hearing[^c-57d4aa2882e1f4b3786ad8977f01e817]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57d4aa2882e1f4b3786ad8977f01e817]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2004/24/section/37) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2004/2566/article/8))
+[^c-57d4aa2882e1f4b3786ad8977f01e817]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2004/24/section/37) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2004/2566/article/8))

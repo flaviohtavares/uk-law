@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Pre-charge bail[^key-4b6966a68e2b6fe3c20042b0c196f61c][^key-9c0d8ff5ebee19373e7ff0315178a54e][^key-068b0a51076f59eb89663c3b708e6af9]
+## 45. Pre-charge bail[^c-4b6966a68e2b6fe3c20042b0c196f61c][^c-9c0d8ff5ebee19373e7ff0315178a54e][^c-068b0a51076f59eb89663c3b708e6af9]
 
 *Extent: E+W*
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4b6966a68e2b6fe3c20042b0c196f61c]: Commencement: S. 45 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-4b6966a68e2b6fe3c20042b0c196f61c]: Commencement: S. 45 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-9c0d8ff5ebee19373e7ff0315178a54e]: Commencement: S. 45 in force at 26.10.2022 for specified purposes by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/d)
+[^c-9c0d8ff5ebee19373e7ff0315178a54e]: Commencement: S. 45 in force at 26.10.2022 for specified purposes by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/d)
 
-[^key-068b0a51076f59eb89663c3b708e6af9]: Commencement: S. 45 in force at 28.10.2022 in so far as not already in force by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/a)
+[^c-068b0a51076f59eb89663c3b708e6af9]: Commencement: S. 45 in force at 28.10.2022 in so far as not already in force by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/a)

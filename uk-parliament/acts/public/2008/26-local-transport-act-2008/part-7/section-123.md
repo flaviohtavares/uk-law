@@ -43,8 +43,8 @@ may be disclosed to the Welsh Ministers for or in connection with the exercise o
 - “**charging scheme arrangements**” means arrangements made in respect of the operation of a Welsh trunk road charging scheme or relating to the installation or operation of any equipment used for or in connection with the operation of such a scheme;
 - “**overseas registration authority**” means any authority of a country or territory outside the United Kingdom with responsibility under the law of that country or territory for maintaining a register of vehicles;
 - “**overseas registration information**” means information derived from particulars contained in a register of vehicles that is maintained by an overseas registration authority;
-- “**Welsh trunk road charging scheme**” means any scheme made by or under an Act of the National Assembly for Wales, relating to the imposition of charges in respect of the use or keeping of motor vehicles on Welsh trunk roads.[^key-c2728e1a6cc972781a53b5885492d688].
+- “**Welsh trunk road charging scheme**” means any scheme made by or under an Act of the National Assembly for Wales, relating to the imposition of charges in respect of the use or keeping of motor vehicles on Welsh trunk roads.[^c-c2728e1a6cc972781a53b5885492d688].
 
 ## Annotations
 
-[^key-c2728e1a6cc972781a53b5885492d688]: Textual amendment: Words in s. 123(6) substituted (5.5.2011) by [The Government of Wales Act 2006 (Commencement of Assembly Act Provisions, Transitional and Saving Provisions and Modifications) Order 2011 (S.I. 2011/1011)](https://www.legislation.gov.uk/uksi/2011/1011), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1011/article/2), [7](https://www.legislation.gov.uk/uksi/2011/1011/article/7)
+[^c-c2728e1a6cc972781a53b5885492d688]: Textual amendment: Words in s. 123(6) substituted (5.5.2011) by [The Government of Wales Act 2006 (Commencement of Assembly Act Provisions, Transitional and Saving Provisions and Modifications) Order 2011 (S.I. 2011/1011)](https://www.legislation.gov.uk/uksi/2011/1011), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1011/article/2), [7](https://www.legislation.gov.uk/uksi/2011/1011/article/7)

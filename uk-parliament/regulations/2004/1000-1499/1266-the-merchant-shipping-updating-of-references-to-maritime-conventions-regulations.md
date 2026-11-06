@@ -47,15 +47,15 @@ Coming into force
 
 The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred upon him by sections 85, 86 and 267 of that Act, and being a Minister designated[^f00002] for the purposes of section 2(2) of the European Communities Act 1972[^f00003] in relation to measures relating to the safety of ships and the health and safety of persons on them and maritime transport, in exercise of the powers conferred upon him by the said section 2(2), hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-bef8299df4ce1733171e8684b678ecc5]
+## 1. Citation and commencement[^c-bef8299df4ce1733171e8684b678ecc5]
 
 These Regulations may be cited as the Merchant Shipping (Updating of References to Maritime Conventions) Regulations 2004 and shall come into force on 28th May 2004.
 
-## 2. Purpose[^key-5481704a9af87e321c9a76b9277fd6fa]
+## 2. Purpose[^c-5481704a9af87e321c9a76b9277fd6fa]
 
 The purpose of these Regulations is to provide for the implementation of articles 3, 5, 9 and 11 of Directive [2002/84/EC](https://www.legislation.gov.uk/european/directive/2002/0084) of the European Parliament and of the Council of 5th November 2002, amending the Directives on maritime safety and the prevention of pollution from ships[^f00004].
 
-## 3. Amendment of the Merchant Shipping (Ship Inspection and Survey Organisations) Regulations 1996[^key-02939d8e76561c40e8164dab00460134]
+## 3. Amendment of the Merchant Shipping (Ship Inspection and Survey Organisations) Regulations 1996[^c-02939d8e76561c40e8164dab00460134]
 
 In regulation 2(1) of the Merchant Shipping (Ship Inspection and Survey Organisations) Regulations 1996[^f00005], at the end of the definition of “international conventions”, insert—
 
@@ -67,7 +67,7 @@ In regulation 2(1) of the Merchant Shipping (Ship Inspection and Survey Organisa
 
 .
 
-## 4. Amendment of the Merchant Shipping (Minimum Standards of Safety Communications) Regulations 1997[^key-f6a1e24815b66c56e0e4276716a60ce9]
+## 4. Amendment of the Merchant Shipping (Minimum Standards of Safety Communications) Regulations 1997[^c-f6a1e24815b66c56e0e4276716a60ce9]
 
 (1) The Merchant Shipping (Minimum Standards of Safety Communications) Regulations 1997[^f00006] shall be amended as follows:
 
@@ -77,7 +77,7 @@ In regulation 2(1) of the Merchant Shipping (Ship Inspection and Survey Organisa
 - (b) “liquefied gas tanker”, for “in force on 22nd November 1994” substitute “in its up-to-date version”; and
 - (c) “STCW Convention”, for “as amended on 7th July 1995” substitute “in its up-to-date version”.
 
-## 5. Amendment of the Merchant Shipping (Marine Equipment) Regulations 1999[^key-fef9863b6ce967843e301ee3c386ebbb]
+## 5. Amendment of the Merchant Shipping (Marine Equipment) Regulations 1999[^c-fef9863b6ce967843e301ee3c386ebbb]
 
 In regulation 2(1) of the Merchant Shipping (Marine Equipment) Regulations 1999[^f00007], at the end of the definition of “relevant international conventions”, insert—
 
@@ -89,11 +89,11 @@ In regulation 2(1) of the Merchant Shipping (Marine Equipment) Regulations 1999[
 
 .
 
-## 6. Amendment of Merchant Shipping (Accident Reporting and Investigation) Regulations 1999[^key-ed00741db200755146228c12fa49d0e6]
+## 6. Amendment of Merchant Shipping (Accident Reporting and Investigation) Regulations 1999[^c-ed00741db200755146228c12fa49d0e6]
 
 In regulation 6(9)(a) of the Merchant Shipping (Accident Reporting and Investigation) Regulations 1999[^f00008] after “Council Directive [1999/35/EC](https://www.legislation.gov.uk/european/directive/1999/0035),” insert “as amended by Directive [2002/84/EC](https://www.legislation.gov.uk/european/directive/2002/0084) of the European Parliament and of the Council of 5 November 2002, amending the Directives on maritime safety and the prevention of pollution from ships[^f00009],”
 
-## 7. Amendment of Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001[^key-cdeede906b73f9b13f26f411d3e2fb66]
+## 7. Amendment of Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001[^c-cdeede906b73f9b13f26f411d3e2fb66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,28 +139,28 @@ Copies of the international conventions referred to in these Regulations may be 
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of the amendment of section 1(2) of the European Communities Act by section 1 of the European Economic Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Area signed at Oporto on 2nd May 1992 (Cmnd. 2073) as adjusted by the Protocol signed at Brussels on 17th March 1993 (Cmnd. 2183).
 
-[^key-bef8299df4ce1733171e8684b678ecc5]: Commencement: Reg. 1 in force at 28.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1266/regulation/1)
+[^c-bef8299df4ce1733171e8684b678ecc5]: Commencement: Reg. 1 in force at 28.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1266/regulation/1)
 
-[^key-5481704a9af87e321c9a76b9277fd6fa]: Commencement: Reg. 2 in force at 28.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1266/regulation/1)
+[^c-5481704a9af87e321c9a76b9277fd6fa]: Commencement: Reg. 2 in force at 28.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1266/regulation/1)
 
 [^f00004]: Footnote: O.J. L 324, 29.11.2002, p. 55.
 
-[^key-02939d8e76561c40e8164dab00460134]: Commencement: Reg. 3 in force at 28.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1266/regulation/1)
+[^c-02939d8e76561c40e8164dab00460134]: Commencement: Reg. 3 in force at 28.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1266/regulation/1)
 
 [^f00005]: Footnote: S.I. [1996/2908](https://www.legislation.gov.uk/uksi/1996/2908), to which there are amendments not relevant to these Regulations.
 
-[^key-f6a1e24815b66c56e0e4276716a60ce9]: Commencement: Reg. 4 in force at 28.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1266/regulation/1)
+[^c-f6a1e24815b66c56e0e4276716a60ce9]: Commencement: Reg. 4 in force at 28.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1266/regulation/1)
 
 [^f00006]: Footnote: S.I. [1997/529](https://www.legislation.gov.uk/uksi/1997/529), amended by S.I. [1999/1704](https://www.legislation.gov.uk/uksi/1999/1704).
 
-[^key-fef9863b6ce967843e301ee3c386ebbb]: Commencement: Reg. 5 in force at 28.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1266/regulation/1)
+[^c-fef9863b6ce967843e301ee3c386ebbb]: Commencement: Reg. 5 in force at 28.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1266/regulation/1)
 
 [^f00007]: Footnote: S.I. [1999/1957](https://www.legislation.gov.uk/uksi/1999/1957), to which there is an amendment not relevant to these Regulations.
 
-[^key-ed00741db200755146228c12fa49d0e6]: Commencement: Reg. 6 in force at 28.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1266/regulation/1)
+[^c-ed00741db200755146228c12fa49d0e6]: Commencement: Reg. 6 in force at 28.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1266/regulation/1)
 
 [^f00008]: Footnote: S.I. [1999/2567](https://www.legislation.gov.uk/uksi/1999/2567), amended by S.I. [2001/152](https://www.legislation.gov.uk/uksi/2001/152).
 
 [^f00009]: Footnote: O.J. No. L 324, 29.11.2002, p. 55.
 
-[^key-cdeede906b73f9b13f26f411d3e2fb66]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2004/1266/regulation/7) omitted (5.10.2023) by virtue of [The Merchant Shipping (Inspections of Ro-Ro Passenger Ships and High-Speed Passenger Craft) Regulations 2023 (S.I. 2023/984)](https://www.legislation.gov.uk/uksi/2023/984), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2023/984/schedule/5/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/984/regulation/3))
+[^c-cdeede906b73f9b13f26f411d3e2fb66]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2004/1266/regulation/7) omitted (5.10.2023) by virtue of [The Merchant Shipping (Inspections of Ro-Ro Passenger Ships and High-Speed Passenger Craft) Regulations 2023 (S.I. 2023/984)](https://www.legislation.gov.uk/uksi/2023/984), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2023/984/schedule/5/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/984/regulation/3))

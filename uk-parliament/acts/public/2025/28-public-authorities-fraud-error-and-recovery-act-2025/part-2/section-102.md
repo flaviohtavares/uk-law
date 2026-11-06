@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 102. Penalty as alternative to prosecution: extension to non-benefit payments[^key-7e939ec294004a61d3e5c76a3d9f73ca][^key-12a84268a8bda7fac4b0087d93b26903]
+## 102. Penalty as alternative to prosecution: extension to non-benefit payments[^c-7e939ec294004a61d3e5c76a3d9f73ca][^c-12a84268a8bda7fac4b0087d93b26903]
 
 *Extent: E+W+S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e939ec294004a61d3e5c76a3d9f73ca]: Commencement: S. 102 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-7e939ec294004a61d3e5c76a3d9f73ca]: Commencement: S. 102 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-12a84268a8bda7fac4b0087d93b26903]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2025/28/section/102) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/f)
+[^c-12a84268a8bda7fac4b0087d93b26903]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2025/28/section/102) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Registered email addresses etc[^key-79744e61bd7c85d7b461c8d44b7d4455][^key-49fcc6d4fab03542da3dd55aac589a21]
+## 29. Registered email addresses etc[^c-79744e61bd7c85d7b461c8d44b7d4455][^c-49fcc6d4fab03542da3dd55aac589a21]
 
 *Extent: E+W+S+N.I.*
 
@@ -103,6 +103,6 @@ summary: ''
 
 ## Annotations
 
-[^key-79744e61bd7c85d7b461c8d44b7d4455]: Commencement: S. 29 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-79744e61bd7c85d7b461c8d44b7d4455]: Commencement: S. 29 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-49fcc6d4fab03542da3dd55aac589a21]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/56/section/29) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/w)
+[^c-49fcc6d4fab03542da3dd55aac589a21]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/56/section/29) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/w)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Modifications consequent on revision of Code, etc.[^key-c87b59258d93dd7eee2a0cc8dcda6778]
+## 12. Modifications consequent on revision of Code, etc.[^c-c87b59258d93dd7eee2a0cc8dcda6778]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c87b59258d93dd7eee2a0cc8dcda6778]: Textual amendment: S. 12 repealed (18.10.2008) by [Merchant Shipping (Liner Conferences) Act 1982 (Repeal) Regulations 2008 (S.I. 2008/163)](https://www.legislation.gov.uk/uksi/2008/163), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2008/163/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/2) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/4))
+[^c-c87b59258d93dd7eee2a0cc8dcda6778]: Textual amendment: S. 12 repealed (18.10.2008) by [Merchant Shipping (Liner Conferences) Act 1982 (Repeal) Regulations 2008 (S.I. 2008/163)](https://www.legislation.gov.uk/uksi/2008/163), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2008/163/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/2) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2008/163/regulation/3/4))

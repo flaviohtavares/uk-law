@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258. Mentally disordered offenders: requirement for medical report[^key-27fb60301f8b6e00388b5459330a8cfc][^key-b0d83062149d56d6526fdc464035383e]
+## 258. Mentally disordered offenders: requirement for medical report[^c-27fb60301f8b6e00388b5459330a8cfc][^c-b0d83062149d56d6526fdc464035383e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 (5) In this section—
 
 - “**custodial sentence**” does not include a custodial sentence fixed by law;
-- “**medical report**” means a report as to an offender's mental condition made or submitted orally or in writing by a registered medical practitioner who is approved for the purposes of section 12 of the Mental Health Act 1983 (c. 20) by the Secretary of State , or by another person by virtue of section 12ZA or 12ZB of that Act,[^key-7201b9dbd654899176635dfdba6eac9f] as having special experience in the diagnosis or treatment of mental disorder.
+- “**medical report**” means a report as to an offender's mental condition made or submitted orally or in writing by a registered medical practitioner who is approved for the purposes of section 12 of the Mental Health Act 1983 (c. 20) by the Secretary of State , or by another person by virtue of section 12ZA or 12ZB of that Act,[^c-7201b9dbd654899176635dfdba6eac9f] as having special experience in the diagnosis or treatment of mental disorder.
 
 (6) Nothing in this section is to be taken to limit the generality of—
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-27fb60301f8b6e00388b5459330a8cfc]: Commencement: S. 258 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-27fb60301f8b6e00388b5459330a8cfc]: Commencement: S. 258 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-b0d83062149d56d6526fdc464035383e]: Commencement: S. 258 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b0d83062149d56d6526fdc464035383e]: Commencement: S. 258 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-7201b9dbd654899176635dfdba6eac9f]: Textual amendment: Words in s. 258(5) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 38(5)(f)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/5/f), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-7201b9dbd654899176635dfdba6eac9f]: Textual amendment: Words in s. 258(5) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 38(5)(f)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/5/f), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

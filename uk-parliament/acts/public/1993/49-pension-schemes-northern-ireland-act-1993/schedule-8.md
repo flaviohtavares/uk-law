@@ -102,7 +102,7 @@ and in sub-paragraph (2) “**the relevant appointed day**”, in relation to an
 
 ### Judicial pensions (Northern Ireland)
 
-**6.**[^key-fdd9be5ce5e2e031c8c12c89b3e04c29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-fdd9be5ce5e2e031c8c12c89b3e04c29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Friendly societies
 
@@ -120,7 +120,7 @@ and in sub-paragraph (2) “**the relevant appointed day**”, in relation to an
 
 ### Judicial pensions
 
-**8.** (1)[^key-f3fbaf54981a143eef512a7e37309d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.** (1)[^c-f3fbaf54981a143eef512a7e37309d90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Section 142(3) shall be omitted.
 
@@ -828,6 +828,6 @@ This Table shows the derivation of the provisions of the consolidation.
 
 [^M_F_81b97526-9916-42ed-f21b-8047dbd66fe2]: Textual amendment: Sch. 8 para. 5 repealed (6.4.2006) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11); [S.R. 2006/95](https://www.legislation.gov.uk/nisr/2006/95), [art. 2(c)](https://www.legislation.gov.uk/nisr/2006/95/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2006/95/schedule/part/3)
 
-[^key-fdd9be5ce5e2e031c8c12c89b3e04c29]: Textual amendment: Sch. 8 para. 6 repealed (6.4.2006) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11); [S.R. 2006/95](https://www.legislation.gov.uk/nisr/2006/95), [art. 2(c)](https://www.legislation.gov.uk/nisr/2006/95/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2006/95/schedule/part/3)
+[^c-fdd9be5ce5e2e031c8c12c89b3e04c29]: Textual amendment: Sch. 8 para. 6 repealed (6.4.2006) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11); [S.R. 2006/95](https://www.legislation.gov.uk/nisr/2006/95), [art. 2(c)](https://www.legislation.gov.uk/nisr/2006/95/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2006/95/schedule/part/3)
 
-[^key-f3fbaf54981a143eef512a7e37309d90]: Textual amendment: Sch. 8 para. 8(1) repealed (6.4.2006) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11); [S.R. 2006/95](https://www.legislation.gov.uk/nisr/2006/95), [art. 2(c)](https://www.legislation.gov.uk/nisr/2006/95/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2006/95/schedule/part/3)
+[^c-f3fbaf54981a143eef512a7e37309d90]: Textual amendment: Sch. 8 para. 8(1) repealed (6.4.2006) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11); [S.R. 2006/95](https://www.legislation.gov.uk/nisr/2006/95), [art. 2(c)](https://www.legislation.gov.uk/nisr/2006/95/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2006/95/schedule/part/3)

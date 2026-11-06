@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25DB. Operating an electronic system for public offers of relevant securities[^key-d9988eb4f7f39e106a6a0e67f6a70e7b]
+## 25DB. Operating an electronic system for public offers of relevant securities[^c-d9988eb4f7f39e106a6a0e67f6a70e7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9988eb4f7f39e106a6a0e67f6a70e7b]: Textual amendment: [Art. 25DB](https://www.legislation.gov.uk/uksi/2001/544/article/25DB) inserted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [46(5)](https://www.legislation.gov.uk/uksi/2024/105/regulation/46/5) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))
+[^c-d9988eb4f7f39e106a6a0e67f6a70e7b]: Textual amendment: [Art. 25DB](https://www.legislation.gov.uk/uksi/2001/544/article/25DB) inserted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [46(5)](https://www.legislation.gov.uk/uksi/2024/105/regulation/46/5) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))

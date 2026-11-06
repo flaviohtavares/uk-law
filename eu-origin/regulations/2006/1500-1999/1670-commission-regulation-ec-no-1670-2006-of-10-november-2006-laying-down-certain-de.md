@@ -36,64 +36,64 @@ laying down certain detailed rules for the application of Council Regulation (EC
 
 (Codified version) (revoked)
 
-[^key-65ed55db9da9066ae2bcbf26fc8d127c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65ed55db9da9066ae2bcbf26fc8d127c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 16.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 17.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 17.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 18.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 18.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 19.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 19.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 20.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 20.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 21.**[^key-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 21.**[^c-65ed55db9da9066ae2bcbf26fc8d127c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65ed55db9da9066ae2bcbf26fc8d127c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65ed55db9da9066ae2bcbf26fc8d127c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-65ed55db9da9066ae2bcbf26fc8d127c]
+## ANNEX I[^c-65ed55db9da9066ae2bcbf26fc8d127c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-65ed55db9da9066ae2bcbf26fc8d127c]
+## ANNEX II[^c-65ed55db9da9066ae2bcbf26fc8d127c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65ed55db9da9066ae2bcbf26fc8d127c]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-65ed55db9da9066ae2bcbf26fc8d127c]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Collective submissions[^key-40e90ac41c063e6939d1ba8a77cfc3e1][^key-ea40dbde58b5af19cc24b01998e40804]
+## 39. Collective submissions[^c-40e90ac41c063e6939d1ba8a77cfc3e1][^c-ea40dbde58b5af19cc24b01998e40804]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ the CMA may exercise the power in section 38(1) to invite the third parties (the
 
 ## Annotations
 
-[^key-40e90ac41c063e6939d1ba8a77cfc3e1]: Commencement: S. 39 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-40e90ac41c063e6939d1ba8a77cfc3e1]: Commencement: S. 39 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-ea40dbde58b5af19cc24b01998e40804]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2024/13/section/39) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-ea40dbde58b5af19cc24b01998e40804]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2024/13/section/39) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

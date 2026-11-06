@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 835T. Introduction to Chapter[^key-f8c9774d8ddc97191842c11734d2ff60]
+## 835T. Introduction to Chapter[^c-f8c9774d8ddc97191842c11734d2ff60]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8c9774d8ddc97191842c11734d2ff60]: Textual amendment: Pt. 14 Ch. 2C inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/18) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-f8c9774d8ddc97191842c11734d2ff60]: Textual amendment: Pt. 14 Ch. 2C inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/18) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

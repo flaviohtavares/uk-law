@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Activities relating to local care services[^key-56faed3cd070974003393520403d0e33]
+## 182. Activities relating to local care services[^c-56faed3cd070974003393520403d0e33]
 
 *Extent: E+W*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56faed3cd070974003393520403d0e33]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2012/7/section/182) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-56faed3cd070974003393520403d0e33]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2012/7/section/182) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

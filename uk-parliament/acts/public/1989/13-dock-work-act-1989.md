@@ -39,7 +39,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Abolition of Dock Labour Scheme
 
-### 1. Abolition of Dock Labour Scheme.[^key-bd827421681844f17299fb4c4d98faee]
+### 1. Abolition of Dock Labour Scheme.[^c-bd827421681844f17299fb4c4d98faee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -47,15 +47,15 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S*
 
-### 2. Dissolution of National Dock Labour Board.[^key-bd827421681844f17299fb4c4d98faee]
+### 2. Dissolution of National Dock Labour Board.[^c-bd827421681844f17299fb4c4d98faee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Appointment by Secretary of State of person to act in place of members of Board.[^key-bd827421681844f17299fb4c4d98faee]
+### 3. Appointment by Secretary of State of person to act in place of members of Board.[^c-bd827421681844f17299fb4c4d98faee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Financial provisions relating to winding up of Board’s affairs.[^key-bd827421681844f17299fb4c4d98faee]
+### 4. Financial provisions relating to winding up of Board’s affairs.[^c-bd827421681844f17299fb4c4d98faee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -63,7 +63,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S*
 
-### 5. Compensation for former registered dock workers who become redundant.[^key-bd827421681844f17299fb4c4d98faee]
+### 5. Compensation for former registered dock workers who become redundant.[^c-bd827421681844f17299fb4c4d98faee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -84,7 +84,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (1) The enactments mentioned in Schedule 1 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
 
-(2)[^key-eb3ff19cf7f3ac8034985e2b89d2b8c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-eb3ff19cf7f3ac8034985e2b89d2b8c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 58 of the [^c805186]Docks and Harbours Act 1966 (interpretation), for subsection (1) there shall be substituted—
 
@@ -176,7 +176,7 @@ Section 7(5).
 
 ### Transfer of rights and liabilities of local boards
 
-**1.**[^key-55e1a75f93632d293c2d92db4dfebf02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-55e1a75f93632d293c2d92db4dfebf02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Effect of documents relating to National Dock Labour Board or local boards as from dissolution date
 
@@ -194,7 +194,7 @@ shall have effect, so far as may be required for continuing its effect on or aft
 
 ### Legal proceedings by or against the Board
 
-**3.**[^key-d9b1c441bee80d0edc180c35bc20bdfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d9b1c441bee80d0edc180c35bc20bdfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Temporarily unattached or suspended workers
 
@@ -217,9 +217,9 @@ but does not apply to any employee falling within paragraph (b) who was at that 
 
 then, in determining for any purpose whether the reason for the dismissal was such as to justify the dismissal of an employee holding the position which the employee held and whether the employer acted reasonably or unreasonably in treating it as a sufficient reason for dismissing the employee, account may be taken of the employee’s conduct during his employment with the employer under his previous contract of employment.
 
-(4)[^key-3341e417386b7b56f878c3edfde077a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3341e417386b7b56f878c3edfde077a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-3b0aaed914d8a2b6ef0a47249c8f192e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3b0aaed914d8a2b6ef0a47249c8f192e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In this paragraph—
 
@@ -247,15 +247,15 @@ shall for all purposes (including the purposes of sections 5 and 6 of this Act a
 
 ### Preservation of liability of registered employer to contribute to costs of 1967 Scheme
 
-**8.**[^key-a3713860c0cd75a1f49369508bb7988a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a3713860c0cd75a1f49369508bb7988a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Extinguishment of certain rights and liabilities arising under Part I of Docks and Harbours Act 1966
 
-**9.**[^key-75ca3072e3f4ae6381a299fcbee5737b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-75ca3072e3f4ae6381a299fcbee5737b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd827421681844f17299fb4c4d98faee]: Textual amendment: Ss. 1-5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-bd827421681844f17299fb4c4d98faee]: Textual amendment: Ss. 1-5 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c805178]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/ukpga/1989/13/section/6/2) repealed (30.11.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 51](https://www.legislation.gov.uk/ukpga/1993/19/section/51), [Sch. 10](https://www.legislation.gov.uk/ukpga/1993/19/schedule/10); [S.I. 1993/2503](https://www.legislation.gov.uk/uksi/1993/2503), [art. 2(2)](https://www.legislation.gov.uk/uksi/1993/2503/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/2503/schedule/2) and expressed to be repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [s. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
@@ -267,7 +267,7 @@ shall for all purposes (including the purposes of sections 5 and 6 of this Act a
 
 [^c805182]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1989/13/section/6/3) substituted (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 240](https://www.legislation.gov.uk/ukpga/1996/18/section/240), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 1 para. 42(d)](https://www.legislation.gov.uk/ukpga/1996/18/schedule/1/paragraph/42/d) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
-[^key-eb3ff19cf7f3ac8034985e2b89d2b8c2]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1989/13/section/7/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-eb3ff19cf7f3ac8034985e2b89d2b8c2]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1989/13/section/7/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c805186]: Marginal citation: [1966 c. 28](https://www.legislation.gov.uk/ukpga/1966/28).
 
@@ -277,18 +277,18 @@ shall for all purposes (including the purposes of sections 5 and 6 of this Act a
 
 [^c805189]: Marginal citation: [1946 c. 22](https://www.legislation.gov.uk/ukpga/1946/22).
 
-[^key-55e1a75f93632d293c2d92db4dfebf02]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-55e1a75f93632d293c2d92db4dfebf02]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-d9b1c441bee80d0edc180c35bc20bdfb]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-d9b1c441bee80d0edc180c35bc20bdfb]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-3341e417386b7b56f878c3edfde077a7]: Textual amendment: [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/4/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-3341e417386b7b56f878c3edfde077a7]: Textual amendment: [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/4/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-3b0aaed914d8a2b6ef0a47249c8f192e]: Textual amendment: [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/4/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-3b0aaed914d8a2b6ef0a47249c8f192e]: Textual amendment: [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/4/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c805190]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/6) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
 [^c805191]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/7) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
-[^key-a3713860c0cd75a1f49369508bb7988a]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-a3713860c0cd75a1f49369508bb7988a]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-75ca3072e3f4ae6381a299fcbee5737b]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-75ca3072e3f4ae6381a299fcbee5737b]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1989/13/schedule/2/paragraph/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)

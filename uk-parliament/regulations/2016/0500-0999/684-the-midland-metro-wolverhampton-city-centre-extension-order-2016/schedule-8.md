@@ -24,7 +24,7 @@ Article 45
 
 ### Apparatus of statutory undertakers, etc. on land acquired
 
-**1.**[^key-36b360364019b4b555ed0184775af05f] (1) Subject to the following provisions of this paragraph, sections 271 to 274[^f00056] (power to extinguish rights of statutory undertakers etc. and power of statutory undertakers etc. to remove or re-site apparatus) of the 1990 Act apply in relation to any land which has been acquired under this Order, or which is held by the Authority and is appropriated or used (or about to be used) by it for the purposes of this Order or for purposes connected with those provisions; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under section 271 and 272, and sections 279(2) to (4), 280 and 282[^f00057] which provide for the payment of compensation) have effect accordingly.
+**1.**[^c-36b360364019b4b555ed0184775af05f] (1) Subject to the following provisions of this paragraph, sections 271 to 274[^f00056] (power to extinguish rights of statutory undertakers etc. and power of statutory undertakers etc. to remove or re-site apparatus) of the 1990 Act apply in relation to any land which has been acquired under this Order, or which is held by the Authority and is appropriated or used (or about to be used) by it for the purposes of this Order or for purposes connected with those provisions; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under section 271 and 272, and sections 279(2) to (4), 280 and 282[^f00057] which provide for the payment of compensation) have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1)—
 
@@ -45,13 +45,13 @@ is entitled to recover from the Authority compensation in respect of expenditure
 
 (6) In this paragraph—
 
-- “electronic communications code” means the code set out in Schedule 3A to the Communications Act 2003[^key-5d8b0630f979509404ca7b8464a93981];
+- “electronic communications code” means the code set out in Schedule 3A to the Communications Act 2003[^c-5d8b0630f979509404ca7b8464a93981];
 - “electronic communications code network” means an electronic communications network within the meaning of the Communications Act 2003[^f00059] to which the electronic communications code applies; and
 - “public utility undertakers” has the same meaning as the Highways Act 1980[^f00060].
 
 ### Apparatus of statutory undertakers, etc., in stopped up streets
 
-**2.**[^key-647ef00587aeaefa4bf3ed9822479d98] (1) Where a street is stopped up under this Order any statutory utility whose apparatus is under, in, upon, over, along or across the street has the same powers and rights in respect of that apparatus, subject to the provision of this paragraph, as if this Order had not been made.
+**2.**[^c-647ef00587aeaefa4bf3ed9822479d98] (1) Where a street is stopped up under this Order any statutory utility whose apparatus is under, in, upon, over, along or across the street has the same powers and rights in respect of that apparatus, subject to the provision of this paragraph, as if this Order had not been made.
 
 (2) Where a street is stopped up under this Order any statutory utility whose apparatus is under, in, upon, over, along or across the street may where reasonably necessary for the efficient operation of the undertaking of the statutory utility and, if reasonably requested so to do by the Authority, must—
 
@@ -88,16 +88,16 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 - “relocation works” means works executed, or apparatus provided, under sub-paragraph (2); and
 - “statutory utility” means a statutory undertaker for the purposes of the Highways Act 1980 or an operator of an electronic communications code network as defined in paragraph 1(6).
 
-### Application of electronic communications code[^key-8ee5751beb78598308adf4448e277ba2]
+### Application of electronic communications code[^c-8ee5751beb78598308adf4448e277ba2]
 
-**3.**[^key-5f70d7d54e5a4233e41c1c9ad6606e75] (1) Part 6[^key-83daca9eb40b5b79ffaef3f0464b46b9] of the electronic communications code does not apply for the purposes of the authorised works to the extent that such works are regulated by Part 11 of the 1990 Act, sections 84 and 85 of the 1991 Act (or regulations made under section 85 of that Act), paragraph 2 or sub-paragraph (3).
+**3.**[^c-5f70d7d54e5a4233e41c1c9ad6606e75] (1) Part 6[^c-83daca9eb40b5b79ffaef3f0464b46b9] of the electronic communications code does not apply for the purposes of the authorised works to the extent that such works are regulated by Part 11 of the 1990 Act, sections 84 and 85 of the 1991 Act (or regulations made under section 85 of that Act), paragraph 2 or sub-paragraph (3).
 
-(2) Part 10[^key-fe0e4926a3eb3e096b1f7628cd00cc1c] of the electronic communications code applies for the purposes of the authorised works, except—
+(2) Part 10[^c-fe0e4926a3eb3e096b1f7628cd00cc1c] of the electronic communications code applies for the purposes of the authorised works, except—
 
 - (a) in so far as such works are regulated by the 1991 Act or any regulation made under that Act; or
 - (b) where the Authority exercises a right under subsection (4)(b) of section 272 of the 1990 Act or under an order made under that section to remove apparatus.
 
-(3) The temporary stopping up, alteration or diversion of any highway under article 12 (temporary stopping up of streets) does not affect any right of an operator of an electronic communications code network under Part 8[^key-414304d4cc24c9203267668c5d399feb] of the electronic communications code in respect of any apparatus which at the time of the stopping up or diversion is in the highway.
+(3) The temporary stopping up, alteration or diversion of any highway under article 12 (temporary stopping up of streets) does not affect any right of an operator of an electronic communications code network under Part 8[^c-414304d4cc24c9203267668c5d399feb] of the electronic communications code in respect of any apparatus which at the time of the stopping up or diversion is in the highway.
 
 (4) In this paragraph—
 
@@ -106,26 +106,26 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-36b360364019b4b555ed0184775af05f]: Commencement: Sch. 8 para. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-36b360364019b4b555ed0184775af05f]: Commencement: Sch. 8 para. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
 
 [^f00056]: Footnote: Section 272 to 274 were amended by paragraph 103(1) and (2) of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00057]: Footnote: Section 279(3) was amended by paragraph 103(1) and (2), and section 280 was amended by paragraph 104, of Schedule 17 to the Communications Act 2003. Sections 280 and 282 were amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-5d8b0630f979509404ca7b8464a93981]: Textual amendment: Words in [Sch. 8 para. 1(6)](https://www.legislation.gov.uk/uksi/2016/684/schedule/8/paragraph/1/6) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 60(2)(a)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/60/2/a)
+[^c-5d8b0630f979509404ca7b8464a93981]: Textual amendment: Words in [Sch. 8 para. 1(6)](https://www.legislation.gov.uk/uksi/2016/684/schedule/8/paragraph/1/6) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 60(2)(a)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/60/2/a)
 
 [^f00059]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00060]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-647ef00587aeaefa4bf3ed9822479d98]: Commencement: Sch. 8 para. 2 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-647ef00587aeaefa4bf3ed9822479d98]: Commencement: Sch. 8 para. 2 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
 
-[^key-8ee5751beb78598308adf4448e277ba2]: Textual amendment: Words in [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2016/684/schedule/8/paragraph/3) heading substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 60(2)(b)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/60/2/b)
+[^c-8ee5751beb78598308adf4448e277ba2]: Textual amendment: Words in [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2016/684/schedule/8/paragraph/3) heading substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 60(2)(b)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/60/2/b)
 
-[^key-5f70d7d54e5a4233e41c1c9ad6606e75]: Commencement: Sch. 8 para. 3 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-5f70d7d54e5a4233e41c1c9ad6606e75]: Commencement: Sch. 8 para. 3 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
 
-[^key-83daca9eb40b5b79ffaef3f0464b46b9]: Textual amendment: Words in [Sch. 8 para. 3(1)](https://www.legislation.gov.uk/uksi/2016/684/schedule/8/paragraph/3/1) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 60(2)(c)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/60/2/c)
+[^c-83daca9eb40b5b79ffaef3f0464b46b9]: Textual amendment: Words in [Sch. 8 para. 3(1)](https://www.legislation.gov.uk/uksi/2016/684/schedule/8/paragraph/3/1) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 60(2)(c)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/60/2/c)
 
-[^key-fe0e4926a3eb3e096b1f7628cd00cc1c]: Textual amendment: Words in [Sch. 8 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/684/schedule/8/paragraph/3/2) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 60(2)(d)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/60/2/d)
+[^c-fe0e4926a3eb3e096b1f7628cd00cc1c]: Textual amendment: Words in [Sch. 8 para. 3(2)](https://www.legislation.gov.uk/uksi/2016/684/schedule/8/paragraph/3/2) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 60(2)(d)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/60/2/d)
 
-[^key-414304d4cc24c9203267668c5d399feb]: Textual amendment: Words in [Sch. 8 para. 3(3)](https://www.legislation.gov.uk/uksi/2016/684/schedule/8/paragraph/3/3) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 60(2)(e)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/60/2/e)
+[^c-414304d4cc24c9203267668c5d399feb]: Textual amendment: Words in [Sch. 8 para. 3(3)](https://www.legislation.gov.uk/uksi/2016/684/schedule/8/paragraph/3/3) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 60(2)(e)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/60/2/e)

@@ -33,7 +33,7 @@ summary: ''
 
 STATISTICS OF TRADE
 
-The Statistics of Trade (Customs and Excise) (Amendment) Regulations 2002 (revoked)[^key-5f6850e9c870e4c7f733ade5c91ae709]
+The Statistics of Trade (Customs and Excise) (Amendment) Regulations 2002 (revoked)[^c-5f6850e9c870e4c7f733ade5c91ae709]
 
 Made
 
@@ -47,32 +47,32 @@ Coming into force
 
 28th October 2002
 
-[^key-5f6850e9c870e4c7f733ade5c91ae709]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f6850e9c870e4c7f733ade5c91ae709]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-5f6850e9c870e4c7f733ade5c91ae709]
+## 1.[^c-5f6850e9c870e4c7f733ade5c91ae709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-5f6850e9c870e4c7f733ade5c91ae709]
+## 2.[^c-5f6850e9c870e4c7f733ade5c91ae709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-5f6850e9c870e4c7f733ade5c91ae709]
+## 3.[^c-5f6850e9c870e4c7f733ade5c91ae709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-5f6850e9c870e4c7f733ade5c91ae709]
+## 4.[^c-5f6850e9c870e4c7f733ade5c91ae709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f6850e9c870e4c7f733ade5c91ae709]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f6850e9c870e4c7f733ade5c91ae709]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5f6850e9c870e4c7f733ade5c91ae709]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f6850e9c870e4c7f733ade5c91ae709]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f6850e9c870e4c7f733ade5c91ae709]: Textual amendment: Regulations revoked (1.1.2005) by [The Statistics of Trade (Customs and Excise) (Amendment) Regulations 2004 (S.I. 2004/3284)](https://www.legislation.gov.uk/uksi/2004/3284), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3284/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2004/3284/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2004/3284/schedule)
+[^c-5f6850e9c870e4c7f733ade5c91ae709]: Textual amendment: Regulations revoked (1.1.2005) by [The Statistics of Trade (Customs and Excise) (Amendment) Regulations 2004 (S.I. 2004/3284)](https://www.legislation.gov.uk/uksi/2004/3284), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3284/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2004/3284/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2004/3284/schedule)

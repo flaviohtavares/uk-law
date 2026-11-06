@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56A. OFCOM: power to impose monetary penalties[^key-e226fe304cbed0ee9dcfbc57b469c6f2]
+## 56A. OFCOM: power to impose monetary penalties[^c-e226fe304cbed0ee9dcfbc57b469c6f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e226fe304cbed0ee9dcfbc57b469c6f2]: Textual amendment: [Regs. 56A](https://www.legislation.gov.uk/uksi/2019/600/regulation/56A), [56B](https://www.legislation.gov.uk/uksi/2019/600/regulation/56B) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2023/616/regulation/21)
+[^c-e226fe304cbed0ee9dcfbc57b469c6f2]: Textual amendment: [Regs. 56A](https://www.legislation.gov.uk/uksi/2019/600/regulation/56A), [56B](https://www.legislation.gov.uk/uksi/2019/600/regulation/56B) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2023/616/regulation/21)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99A. Inspections on appeal against decision not to register[^key-a0e95e637ecb797a342eff0aa6ea7cdc]
+## 99A. Inspections on appeal against decision not to register[^c-a0e95e637ecb797a342eff0aa6ea7cdc]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0e95e637ecb797a342eff0aa6ea7cdc]: Textual amendment: [S. 99A](https://www.legislation.gov.uk/ukpga/2008/25/section/99A) inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/3), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(j)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/j/i)
+[^c-a0e95e637ecb797a342eff0aa6ea7cdc]: Textual amendment: [S. 99A](https://www.legislation.gov.uk/ukpga/2008/25/section/99A) inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 44(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/44/3), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(j)(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/j/i)

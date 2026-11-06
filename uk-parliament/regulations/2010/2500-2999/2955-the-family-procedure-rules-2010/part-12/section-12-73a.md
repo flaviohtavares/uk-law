@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12.73A. Communication of information with permission of the court[^key-9af907d7c6fc966d4043d5f352ba0e1c]
+## 12.73A. Communication of information with permission of the court[^c-9af907d7c6fc966d4043d5f352ba0e1c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Practice Direction 12R makes provision in relation to the court giving permissio
 
 ## Annotations
 
-[^key-9af907d7c6fc966d4043d5f352ba0e1c]: Textual amendment: [Rule 12.73A](https://www.legislation.gov.uk/uksi/2010/2955/rule/12.73A) inserted (27.1.2025) by [The Family Procedure (Amendment No. 2) Rules 2024 (S.I. 2024/1322)](https://www.legislation.gov.uk/uksi/2024/1322), [rules 1(3)](https://www.legislation.gov.uk/uksi/2024/1322/rule/1/3), [4](https://www.legislation.gov.uk/uksi/2024/1322/rule/4)
+[^c-9af907d7c6fc966d4043d5f352ba0e1c]: Textual amendment: [Rule 12.73A](https://www.legislation.gov.uk/uksi/2010/2955/rule/12.73A) inserted (27.1.2025) by [The Family Procedure (Amendment No. 2) Rules 2024 (S.I. 2024/1322)](https://www.legislation.gov.uk/uksi/2024/1322), [rules 1(3)](https://www.legislation.gov.uk/uksi/2024/1322/rule/1/3), [4](https://www.legislation.gov.uk/uksi/2024/1322/rule/4)

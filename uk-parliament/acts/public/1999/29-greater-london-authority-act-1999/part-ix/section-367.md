@@ -37,7 +37,7 @@ summary: ''
 >
 > (4B) In exercising any function under subsection (2), (3) or (4) above the Mayor of London shall have regard to any guidance issued by the Secretary of State to local authorities under section 88(1) below.
 
-(4) In subsection (5) (power of the Secretary of State to give directions relating to obligations under the EU[^key-4eda592b16c396b7b668234795e6aabb] Treaties or to international obligations) after “local authorities” there shall be inserted “ , other than local authorities in Greater London, ”.
+(4) In subsection (5) (power of the Secretary of State to give directions relating to obligations under the EU[^c-4eda592b16c396b7b668234795e6aabb] Treaties or to international obligations) after “local authorities” there shall be inserted “ , other than local authorities in Greater London, ”.
 
 (5) After subsection (6) (publishing of directions under the section) there shall be inserted—
 
@@ -49,4 +49,4 @@ summary: ''
 
 [^c12807791]: Textual amendment: Words in s. 367(1) substituted (27.5.2000) by [S.I. 2000/1435](https://www.legislation.gov.uk/uksi/2000/1435), [art. 2](https://www.legislation.gov.uk/uksi/2000/1435/article/2), [Sch 1 Pt. I para. 9](https://www.legislation.gov.uk/uksi/2000/1435/schedule/1/part/I/paragraph/9)
 
-[^key-4eda592b16c396b7b668234795e6aabb]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-4eda592b16c396b7b668234795e6aabb]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

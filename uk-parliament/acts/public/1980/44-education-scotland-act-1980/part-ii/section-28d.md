@@ -25,7 +25,7 @@ summary: ''
 - (a) set up and maintain such number of appeal committees; and
 - (b) make such other arrangements
 
-as are necessary to enable references to be made under sections 28C, 28E(6), 28F(7), 28H and 63 of this Act and paragraph 5 of schedule 2 to the Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)[^key-d7b0d1e99f2829137580076736e63c41] and heard by the committees.
+as are necessary to enable references to be made under sections 28C, 28E(6), 28F(7), 28H and 63 of this Act and paragraph 5 of schedule 2 to the Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)[^c-d7b0d1e99f2829137580076736e63c41] and heard by the committees.
 
 (2) An appeal committee set up under subsection (1) above shall be constituted in accordance with Schedule A1 to this Act.
 
@@ -37,4 +37,4 @@ as are necessary to enable references to be made under sections 28C, 28E(6), 28F
 
 ## Annotations
 
-[^key-d7b0d1e99f2829137580076736e63c41]: Textual amendment: Words in s. 28D(1) inserted (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(7)(b)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/7/b); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-d7b0d1e99f2829137580076736e63c41]: Textual amendment: Words in s. 28D(1) inserted (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(7)(b)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/7/b); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)

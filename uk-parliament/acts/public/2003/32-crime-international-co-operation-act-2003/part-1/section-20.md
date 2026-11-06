@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Overseas freezing orders[^key-2ddd10fc338da05896b434263ae8a6a1]
+## 20. Overseas freezing orders[^c-2ddd10fc338da05896b434263ae8a6a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ddd10fc338da05896b434263ae8a6a1]: Commencement: S. 20 in force at 19.10.2009 by [S.I. 2009/2605](https://www.legislation.gov.uk/uksi/2009/2605), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2605/article/2/b)
+[^c-2ddd10fc338da05896b434263ae8a6a1]: Commencement: S. 20 in force at 19.10.2009 by [S.I. 2009/2605](https://www.legislation.gov.uk/uksi/2009/2605), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/2605/article/2/b)

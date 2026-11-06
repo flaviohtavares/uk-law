@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 137. Suspension from practice[^key-6dbc4221210d502aaf74217b2144ba67]
+## 137. Suspension from practice[^c-6dbc4221210d502aaf74217b2144ba67]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dbc4221210d502aaf74217b2144ba67]: Commencement: [S. 137](https://www.legislation.gov.uk/asp/2010/16/section/137) in force at 1.5.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
+[^c-6dbc4221210d502aaf74217b2144ba67]: Commencement: [S. 137](https://www.legislation.gov.uk/asp/2010/16/section/137) in force at 1.5.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)

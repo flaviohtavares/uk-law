@@ -33,7 +33,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The BSE Monitoring (Scotland) Amendment Regulations 2002 (revoked)[^key-7e7d109e948fe08517aba2519b3de994]
+The BSE Monitoring (Scotland) Amendment Regulations 2002 (revoked)[^c-7e7d109e948fe08517aba2519b3de994]
 
 Made
 
@@ -47,32 +47,32 @@ Coming into force
 
 30th January 2002
 
-[^key-7e7d109e948fe08517aba2519b3de994]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e7d109e948fe08517aba2519b3de994]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-7e7d109e948fe08517aba2519b3de994]
+## 1. Citation, commencement and extent[^c-7e7d109e948fe08517aba2519b3de994]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the BSE Monitoring (Scotland) Regulations 2001[^key-7e7d109e948fe08517aba2519b3de994]
+## 2. Amendment of the BSE Monitoring (Scotland) Regulations 2001[^c-7e7d109e948fe08517aba2519b3de994]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Cattle Identification Regulations 1998[^key-7e7d109e948fe08517aba2519b3de994]
+## 3. Amendment of the Cattle Identification Regulations 1998[^c-7e7d109e948fe08517aba2519b3de994]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Cattle (Identification of Older Animals) (Scotland) Regulations 2001[^key-7e7d109e948fe08517aba2519b3de994]
+## 4. Amendment of the Cattle (Identification of Older Animals) (Scotland) Regulations 2001[^c-7e7d109e948fe08517aba2519b3de994]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7e7d109e948fe08517aba2519b3de994]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e7d109e948fe08517aba2519b3de994]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7e7d109e948fe08517aba2519b3de994]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e7d109e948fe08517aba2519b3de994]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7e7d109e948fe08517aba2519b3de994]: Textual amendment: Regulations revoked (6.4.2007) by [The Cattle Identification (Scotland) Regulations 2007 (S.S.I. 2007/174)](https://www.legislation.gov.uk/ssi/2007/174), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/5), [sch. 5](https://www.legislation.gov.uk/ssi/2007/174/schedule/5)
+[^c-7e7d109e948fe08517aba2519b3de994]: Textual amendment: Regulations revoked (6.4.2007) by [The Cattle Identification (Scotland) Regulations 2007 (S.S.I. 2007/174)](https://www.legislation.gov.uk/ssi/2007/174), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/5), [sch. 5](https://www.legislation.gov.uk/ssi/2007/174/schedule/5)

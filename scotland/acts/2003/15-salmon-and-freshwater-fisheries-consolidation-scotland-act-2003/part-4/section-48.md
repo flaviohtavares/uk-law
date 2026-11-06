@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Increased availability of, and protection for, freshwater fishing[^key-d04bfc18d021dc050d47788188e13ca0]
+## 48. Increased availability of, and protection for, freshwater fishing[^c-d04bfc18d021dc050d47788188e13ca0]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) be made in relation to such area as the Scottish Ministers may prescribe, which shall be the catchment area, or such part thereof as the Scottish Ministers think appropriate, of any river; and
 - (b) prohibit persons without legal right or without written permission from a person having such right from fishing for or taking freshwater fish in the inland waters in the prescribed area.
 
-(2A)[^key-06d78118539f1c8e39734e5abc3c89d1] In prescribing the area in relation to which a protection order is made, the Scottish Ministers need not prescribe the entire area to which the proposals, whether modified or not, relate.
+(2A)[^c-06d78118539f1c8e39734e5abc3c89d1] In prescribing the area in relation to which a protection order is made, the Scottish Ministers need not prescribe the entire area to which the proposals, whether modified or not, relate.
 
 (3) The Scottish Ministers shall not make a protection order unless—
 
@@ -45,9 +45,9 @@ summary: ''
 - (c) any operations which it is proposed to carry out for the purpose of improving such fishing in those waters;
 - (d) such matters as the Scottish Ministers may at any time in relation to the proposals direct;
 
-and the person submitting such proposals to the Scottish Ministers may at any time withdraw them or, after consultation with the Scottish Ministers and subject to subsection (4B)[^key-a1bf1095167ca68d815e37c1c06ba96f], modify them.
+and the person submitting such proposals to the Scottish Ministers may at any time withdraw them or, after consultation with the Scottish Ministers and subject to subsection (4B)[^c-a1bf1095167ca68d815e37c1c06ba96f], modify them.
 
-(4A)[^key-b049df726d27d300f08250a69a8dbff7] At any time, the Scottish Ministers may, after consultation with the person submitting the proposals referred to in subsection (3)(a), modify in such way as they think fit—
+(4A)[^c-b049df726d27d300f08250a69a8dbff7] At any time, the Scottish Ministers may, after consultation with the person submitting the proposals referred to in subsection (3)(a), modify in such way as they think fit—
 
 - (a) those proposals, or
 - (b) those proposals as modified by the person by virtue of subsection (4) above.
@@ -78,7 +78,7 @@ and if, 6 months before the specified date, the Scottish Ministers have received
 
 (9) Subject to subsections (7) and (8) above, schedule 3 to this Act shall have effect as to the procedure in the making, variation and revocation of a protection order.
 
-(10) In subsections (1), (3)(c), (6) and (7) above “**proposals**” means proposals as originally submitted to the Scottish Ministers or, as the case may be, as modified under subsection (4) or (4A)[^key-b5900cff056424fbcdd0b2a746021c11] above.
+(10) In subsections (1), (3)(c), (6) and (7) above “**proposals**” means proposals as originally submitted to the Scottish Ministers or, as the case may be, as modified under subsection (4) or (4A)[^c-b5900cff056424fbcdd0b2a746021c11] above.
 
 (11) The proposals mentioned in this section may be communicated and stored electronically.
 
@@ -86,12 +86,12 @@ and if, 6 months before the specified date, the Scottish Ministers have received
 
 ## Annotations
 
-[^key-d04bfc18d021dc050d47788188e13ca0]: Commencement: S. 48 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-d04bfc18d021dc050d47788188e13ca0]: Commencement: S. 48 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-06d78118539f1c8e39734e5abc3c89d1]: Textual amendment: [S. 48(2A)](https://www.legislation.gov.uk/asp/2003/15/section/48/2A) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(4)(a)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/4/a) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-06d78118539f1c8e39734e5abc3c89d1]: Textual amendment: [S. 48(2A)](https://www.legislation.gov.uk/asp/2003/15/section/48/2A) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(4)(a)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/4/a) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-a1bf1095167ca68d815e37c1c06ba96f]: Textual amendment: Words in [s. 48(4)](https://www.legislation.gov.uk/asp/2003/15/section/48/4) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(4)(b)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/4/b) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-a1bf1095167ca68d815e37c1c06ba96f]: Textual amendment: Words in [s. 48(4)](https://www.legislation.gov.uk/asp/2003/15/section/48/4) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(4)(b)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/4/b) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-b049df726d27d300f08250a69a8dbff7]: Textual amendment: [S. 48(4A)](https://www.legislation.gov.uk/asp/2003/15/section/48/4A) - [S. 48(4B)](https://www.legislation.gov.uk/asp/2003/15/section/48/4B) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(4)(c)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/4/c) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-b049df726d27d300f08250a69a8dbff7]: Textual amendment: [S. 48(4A)](https://www.legislation.gov.uk/asp/2003/15/section/48/4A) - [S. 48(4B)](https://www.legislation.gov.uk/asp/2003/15/section/48/4B) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(4)(c)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/4/c) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-b5900cff056424fbcdd0b2a746021c11]: Textual amendment: Words in [s. 48(10)](https://www.legislation.gov.uk/asp/2003/15/section/48/10) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(4)(d)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/4/d) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-b5900cff056424fbcdd0b2a746021c11]: Textual amendment: Words in [s. 48(10)](https://www.legislation.gov.uk/asp/2003/15/section/48/10) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(4)(d)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/4/d) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)

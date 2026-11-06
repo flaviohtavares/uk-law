@@ -45,13 +45,13 @@ The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northe
 
 ## Part I — General
 
-### 1. Citation and commencement[^key-b3b7c41660fc291b3077c2ae6679311f]
+### 1. Citation and commencement[^c-b3b7c41660fc291b3077c2ae6679311f]
 
 (1) These regulations may be cited as the Police (Recruitment) (Northern Ireland) Regulations 2001.
 
 (2) These regulations shall come into operation on 5th April 2001.
 
-### 2. Meanings assigned to certain expressions etc[^key-2e2971d67f78f79545d83aebed87756d]
+### 2. Meanings assigned to certain expressions etc[^c-2e2971d67f78f79545d83aebed87756d]
 
 (1) The following expressions have the meaning hereby assigned to them:—
 
@@ -85,7 +85,7 @@ The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northe
 - (g) whom the panel established under regulation 12 decides is suitable for appointment as a police trainee or police reserve trainee; and
 - (h) who, if a candidate for appointment to the rank of sergeant or inspector, is qualified for promotion to such rank in accordance with the Promotion Regulations.
 
-### 3. Pool of qualified candidates[^key-94b10383e5716cb062acca3c8242ef3b]
+### 3. Pool of qualified candidates[^c-94b10383e5716cb062acca3c8242ef3b]
 
 (1) All candidates for appointment as police trainees who satisfy the requirements of regulation 2(2) shall be placed in a pool of qualified candidates.
 
@@ -93,7 +93,7 @@ The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northe
 
 ## Part II — Recruitment
 
-### 4. Appointment of Police Recruitment Agent[^key-f6f5648227196646d1ee344a6d166731]
+### 4. Appointment of Police Recruitment Agent[^c-f6f5648227196646d1ee344a6d166731]
 
 (1) The Chief Constable shall appoint a person to exercise the functions prescribed by these regulations in connection with the selection of qualified candidates for appointment:—
 
@@ -102,7 +102,7 @@ The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northe
 
 (2) Police reserve trainees shall be appointed to serve as part-time members of the Police Service of Northern Ireland Reserve.
 
-### 5. Police Recruitment Agent[^key-deff7063fa14cbcf21f0fa54a27ae034]
+### 5. Police Recruitment Agent[^c-deff7063fa14cbcf21f0fa54a27ae034]
 
 (1) The person appointed under regulation 4(1) shall be known as the police recruitment agent (“the agent”).
 
@@ -112,25 +112,25 @@ The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northe
 
 (4) The agent shall be appointed by the Chief Constable on such terms and conditions including conditions as to payment as he shall determine with the approval of the Policing Board.
 
-### 6. Advertising of vacancies[^key-534298259756d8e38d46d62315a9b339]
+### 6. Advertising of vacancies[^c-534298259756d8e38d46d62315a9b339]
 
 (1) Notice of vacancies for trainee members of the Police Service of Northern Ireland and trainee part time members of the Police Service of Northern Ireland Reserve shall be published.
 
 (2) In publishing notice of vacancies in accordance with paragraph (1) the agent shall have regard to the recommendations contained in paragraph 15.8 of the Report of the Independent Commission.
 
-### 7. Information to be provided by applicants[^key-6d77708d23481d28b58d5a39422f1acb]
+### 7. Information to be provided by applicants[^c-6d77708d23481d28b58d5a39422f1acb]
 
 (1) Subject to regulation 11 and paragraph (2), the agent shall request candidates for appointment as a police trainee or a police reserve trainee to provide such information as may be appropriate to establish whether the candidate meets the requirements of regulation 2(2).
 
 (2) Candidates shall not be asked to send information about criminal convictions other than to the Chief Constable.
 
-### 8. Tests to be undertaken by applicants[^key-970349133963c55d43ca3c738c3e7428]
+### 8. Tests to be undertaken by applicants[^c-970349133963c55d43ca3c738c3e7428]
 
 (1) Subject to regulation 11, the agent shall carry out tests and assessments to determine whether a candidate for appointment as a police trainee or a police reserve trainee is qualified for the purposes of regulation 2(2).
 
 (2) Paragraph (1) includes a requirement to make arrangements for tests and assessments to be carried out for the purposes of regulation 2(2)(*c*).
 
-### 9. Lay assessors[^key-022b0cc1e4b89ffe54e52266f13fb5f7]
+### 9. Lay assessors[^c-022b0cc1e4b89ffe54e52266f13fb5f7]
 
 (1) The agent shall establish a pool of lay assessors.
 
@@ -140,7 +140,7 @@ The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northe
 
 (4) A person is disqualified from being a lay assessor if he has at any time been convicted in Northern Ireland or elsewhere of any offence and has had passed on him a sentence of imprisonment (whether suspended or not).
 
-### 10. Independent community observers[^key-93b237c788741a7a48e2549c0e4f3b60]
+### 10. Independent community observers[^c-93b237c788741a7a48e2549c0e4f3b60]
 
 (1) The Policing Board shall appoint a pool of independent community observers who shall report to the Board on such aspects of the recruitment process for police trainees and police reserve trainees as may be agreed by the Board and the Chief Constable.
 
@@ -163,7 +163,7 @@ The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northe
 
 (9) Independent community observers shall be appointed on such terms and conditions including provision as to expenses and allowances as the Policing Board may determine.
 
-### 11. Restrictions on Contracting Out[^key-f0bd86746fcfa82d137db88d271d849a]
+### 11. Restrictions on Contracting Out[^c-f0bd86746fcfa82d137db88d271d849a]
 
 (1) The Chief Constable shall not require the agent to carry out :—
 
@@ -175,7 +175,7 @@ The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northe
 
 ## Part III — Vetting
 
-### 12. Vetting Panel[^key-6a3ee67945b86d216e330abf3876e50a]
+### 12. Vetting Panel[^c-6a3ee67945b86d216e330abf3876e50a]
 
 (1) The Chief Constable shall establish a panel of persons whose function shall be to decide, on his behalf and subject to his direction and control, on the suitability of any candidate for appointment as a police trainee or a police reserve trainee.
 
@@ -189,7 +189,7 @@ The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northe
 
 (6) A request for a review of a decision under paragraph (5) shall be sent to the Independent Assessor as soon as reasonably practical.
 
-### 13. Independent Assessor[^key-25d7c6e805f91a9a9b47028d126c208a]
+### 13. Independent Assessor[^c-25d7c6e805f91a9a9b47028d126c208a]
 
 (1) The Secretary of State shall appoint a person (“the Independent Assessor”) to review decisions of the panel established under regulation 12 in response to requests under regulation 12(5).
 
@@ -211,7 +211,7 @@ The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northe
 
 (10) Schedule 3 shall have effect in relation to the Independent Assessor.
 
-### 14. Reports[^key-645cac399e8a6948d3151a45319e0723]
+### 14. Reports[^c-645cac399e8a6948d3151a45319e0723]
 
 (1) The Independent Assessor shall, not later than 3 months after the end of each financial year, make to the Secretary of State a report on the discharge of his functions under these regulations during that year.
 
@@ -219,7 +219,7 @@ The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northe
 
 (3) A report under paragraph (1) shall not identify individual candidates.
 
-### 15. Disclosure of information[^key-973758d5f5bb45b2d37ab9cdca01d8bd]
+### 15. Disclosure of information[^c-973758d5f5bb45b2d37ab9cdca01d8bd]
 
 No information received under Part III of these regulations by the independent panel member or the Independent Assessor shall be disclosed to any person except:—
 
@@ -231,7 +231,7 @@ No information received under Part III of these regulations by the independent p
 
 ## Part IV — Revocations
 
-### 16. Revocations[^key-4380c18537d1715f4b22df329996a069]
+### 16. Revocations[^c-4380c18537d1715f4b22df329996a069]
 
 Regulation 9 of the Royal Ulster Constabulary Regulations 1996 and regulation 6 of the Royal Ulster Constabulary Reserve (Part-Time) (Appointment and Conditions of Service) Regulations 1996[^f00009] are hereby revoked.
 
@@ -243,7 +243,7 @@ Northern Ireland Office
 
 3rd April 2001
 
-## SCHEDULE 1 — Criminal Convictions etc[^key-fdd88bdf7a4a5f8366324fb207a8ad07]
+## SCHEDULE 1 — Criminal Convictions etc[^c-fdd88bdf7a4a5f8366324fb207a8ad07]
 
 Regulation 2
 
@@ -277,22 +277,22 @@ within 5 years from the date of application;
 
 Regulation 12
 
-**1.**[^key-16bd7813eaa2690d86f960012ff76203] The independent panel member shall be appointed on such terms and conditions as may be determined by the Chief Constable with the approval of the Policing Board.
+**1.**[^c-16bd7813eaa2690d86f960012ff76203] The independent panel member shall be appointed on such terms and conditions as may be determined by the Chief Constable with the approval of the Policing Board.
 
-**2.**[^key-b0026a7a9b9b10eb1763123ca85e78e0] In making a nomination the Board shall satisfy itself that the person is either:—
+**2.**[^c-b0026a7a9b9b10eb1763123ca85e78e0] In making a nomination the Board shall satisfy itself that the person is either:—
 
 - (a) a barrister; or
 - (b) has substantial experience of working with personnel matters.
 
-**3.**[^key-aa1edafdada6e636e51a470b605cd7a5] A person is disqualified from being the independent panel member if he has at any time been convicted in Northern Ireland or elsewhere of any offence and has had passed on him a sentence of imprisonment (whether suspended or not).
+**3.**[^c-aa1edafdada6e636e51a470b605cd7a5] A person is disqualified from being the independent panel member if he has at any time been convicted in Northern Ireland or elsewhere of any offence and has had passed on him a sentence of imprisonment (whether suspended or not).
 
-**4.**[^key-75105a8370544a663027dfb5a0228303] A person shall not be nominated as an independent panel member if he is a serving or former member of the police, the Police Authority, the staff of the Police Authority, the Policing Board, the staff of the Policing Board, or the police support staff.
+**4.**[^c-75105a8370544a663027dfb5a0228303] A person shall not be nominated as an independent panel member if he is a serving or former member of the police, the Police Authority, the staff of the Police Authority, the Policing Board, the staff of the Policing Board, or the police support staff.
 
 ## SCHEDULE 3 — Independent Assessor
 
 Regulation 13
 
-**1.**[^key-b12574624b0d94bceca1ebb063245967] (1) Subject to the following provisions of this paragraph, a person shall hold and vacate office as Independent Assessor in accordance with the terms of his appointment.
+**1.**[^c-b12574624b0d94bceca1ebb063245967] (1) Subject to the following provisions of this paragraph, a person shall hold and vacate office as Independent Assessor in accordance with the terms of his appointment.
 
 (2) A person may at any time resign his office as Independent Assessor by notice in writing to the Secretary of State.
 
@@ -305,9 +305,9 @@ Regulation 13
   - (iii) has become bankrupt or made a composition or arrangement with his creditors; or
   - (iv) is otherwise unable or unfit to discharge his duties.
 
-**2.**[^key-bf3d8be91c29b8a4c42c8535e0786784] The person appointed as Independent Assessor shall have held judicial office within any part of the United Kingdom.
+**2.**[^c-bf3d8be91c29b8a4c42c8535e0786784] The person appointed as Independent Assessor shall have held judicial office within any part of the United Kingdom.
 
-**3.**[^key-a84105805368371de9bf934d671fb485] (1) The Secretary of State may pay such remuneration, allowances and expenses to or in respect of a person appointed as Independent Assessor as he may determine.
+**3.**[^c-a84105805368371de9bf934d671fb485] (1) The Secretary of State may pay such remuneration, allowances and expenses to or in respect of a person appointed as Independent Assessor as he may determine.
 
 (2) The Secretary of State may make arrangements for administrative, secretarial or other assistance to be provided to the Independent Assessor.
 
@@ -353,9 +353,9 @@ Regulation 15 places restriction on the disclosure of information by the Indepen
 
 [^f00003]: Footnote: By virtue of section 78 and paragraph 8 of Schedule 7 the reference to the Policing Board shall be construed as a reference to the Police Authority for Northern Ireland until the commencement of section 2 of the Police Act (Northern Ireland) 2000
 
-[^key-b3b7c41660fc291b3077c2ae6679311f]: Commencement: Reg. 1 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-b3b7c41660fc291b3077c2ae6679311f]: Commencement: Reg. 1 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-2e2971d67f78f79545d83aebed87756d]: Commencement: Reg. 2 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-2e2971d67f78f79545d83aebed87756d]: Commencement: Reg. 2 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
 [^f00004]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61)
 
@@ -363,41 +363,41 @@ Regulation 15 places restriction on the disclosure of information by the Indepen
 
 [^f00006]: Footnote: [S.R. 1996 No. 473](https://www.legislation.gov.uk/nisr/1996/473)
 
-[^key-94b10383e5716cb062acca3c8242ef3b]: Commencement: Reg. 3 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-94b10383e5716cb062acca3c8242ef3b]: Commencement: Reg. 3 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-f6f5648227196646d1ee344a6d166731]: Commencement: Reg. 4 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-f6f5648227196646d1ee344a6d166731]: Commencement: Reg. 4 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-deff7063fa14cbcf21f0fa54a27ae034]: Commencement: Reg. 5 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-deff7063fa14cbcf21f0fa54a27ae034]: Commencement: Reg. 5 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-534298259756d8e38d46d62315a9b339]: Commencement: Reg. 6 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-534298259756d8e38d46d62315a9b339]: Commencement: Reg. 6 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-6d77708d23481d28b58d5a39422f1acb]: Commencement: Reg. 7 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-6d77708d23481d28b58d5a39422f1acb]: Commencement: Reg. 7 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-970349133963c55d43ca3c738c3e7428]: Commencement: Reg. 8 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-970349133963c55d43ca3c738c3e7428]: Commencement: Reg. 8 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-022b0cc1e4b89ffe54e52266f13fb5f7]: Commencement: Reg. 9 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-022b0cc1e4b89ffe54e52266f13fb5f7]: Commencement: Reg. 9 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-93b237c788741a7a48e2549c0e4f3b60]: Commencement: Reg. 10 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-93b237c788741a7a48e2549c0e4f3b60]: Commencement: Reg. 10 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-f0bd86746fcfa82d137db88d271d849a]: Commencement: Reg. 11 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-f0bd86746fcfa82d137db88d271d849a]: Commencement: Reg. 11 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
 [^f00007]: Footnote: [S.R. 1999 No. 148](https://www.legislation.gov.uk/nisr/1999/148)
 
-[^key-6a3ee67945b86d216e330abf3876e50a]: Commencement: Reg. 12 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-6a3ee67945b86d216e330abf3876e50a]: Commencement: Reg. 12 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
 [^f00008]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)
 
-[^key-25d7c6e805f91a9a9b47028d126c208a]: Commencement: Reg. 13 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-25d7c6e805f91a9a9b47028d126c208a]: Commencement: Reg. 13 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-645cac399e8a6948d3151a45319e0723]: Commencement: Reg. 14 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-645cac399e8a6948d3151a45319e0723]: Commencement: Reg. 14 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-973758d5f5bb45b2d37ab9cdca01d8bd]: Commencement: Reg. 15 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-973758d5f5bb45b2d37ab9cdca01d8bd]: Commencement: Reg. 15 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-4380c18537d1715f4b22df329996a069]: Commencement: Reg. 16 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-4380c18537d1715f4b22df329996a069]: Commencement: Reg. 16 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
 [^f00009]: Footnote: [S.R. 1996 No. 565](https://www.legislation.gov.uk/nisr/1996/565)
 
-[^key-fdd88bdf7a4a5f8366324fb207a8ad07]: Commencement: Sch. 1 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-fdd88bdf7a4a5f8366324fb207a8ad07]: Commencement: Sch. 1 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341)
 
@@ -407,16 +407,16 @@ Regulation 15 places restriction on the disclosure of information by the Indepen
 
 [^f00013]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 
-[^key-16bd7813eaa2690d86f960012ff76203]: Commencement: Sch. 2 para. 1 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-16bd7813eaa2690d86f960012ff76203]: Commencement: Sch. 2 para. 1 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-b0026a7a9b9b10eb1763123ca85e78e0]: Commencement: Sch. 2 para. 2 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-b0026a7a9b9b10eb1763123ca85e78e0]: Commencement: Sch. 2 para. 2 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-aa1edafdada6e636e51a470b605cd7a5]: Commencement: Sch. 2 para. 3 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-aa1edafdada6e636e51a470b605cd7a5]: Commencement: Sch. 2 para. 3 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-75105a8370544a663027dfb5a0228303]: Commencement: Sch. 2 para. 4 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-75105a8370544a663027dfb5a0228303]: Commencement: Sch. 2 para. 4 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-b12574624b0d94bceca1ebb063245967]: Commencement: Sch. 3 para. 1 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-b12574624b0d94bceca1ebb063245967]: Commencement: Sch. 3 para. 1 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-bf3d8be91c29b8a4c42c8535e0786784]: Commencement: Sch. 3 para. 2 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-bf3d8be91c29b8a4c42c8535e0786784]: Commencement: Sch. 3 para. 2 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
 
-[^key-a84105805368371de9bf934d671fb485]: Commencement: Sch. 3 para. 3 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)
+[^c-a84105805368371de9bf934d671fb485]: Commencement: Sch. 3 para. 3 in operation at 5.4.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/140/regulation/1/2)

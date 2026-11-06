@@ -44,11 +44,11 @@ The Department for Communities[^f00001] makes the following Order in exercise of
 
 In accordance with section 1(3) of that Act it considers that the authorisation of the use of electronic communications by this Order for any purpose is such that the extent (if any) to which records of things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications than in other cases.
 
-## 1. Citation and commencement[^key-20eba2ac75b481dce2545d855de18c21]
+## 1. Citation and commencement[^c-20eba2ac75b481dce2545d855de18c21]
 
 This Order may be cited as the Social Security (Budgeting Loans) (Electronic Communications) (Amendment) Order (Northern Ireland) 2023 and shall come into operation on 31<sup>st</sup> July 2023.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-841623b9706822e653428ba1f0859e2e]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-841623b9706822e653428ba1f0859e2e]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00003] are amended as follows.
 
@@ -92,9 +92,9 @@ Article 2 amends regulation 4ZC, 32ZA(2) of, and paragraph 2 of Schedule 8D to, 
 
 [^f00002]: Footnote: [2001 c.9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9). The terms used in section 1(1) and (2) are defined in section 4(1), other than “appropriate department” which has the meaning in section 2(1)
 
-[^key-20eba2ac75b481dce2545d855de18c21]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2023/96/article/1) in operation at 31.7.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/96/article/1)
+[^c-20eba2ac75b481dce2545d855de18c21]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2023/96/article/1) in operation at 31.7.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/96/article/1)
 
-[^key-841623b9706822e653428ba1f0859e2e]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2023/96/article/2) in operation at 31.7.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/96/article/1)
+[^c-841623b9706822e653428ba1f0859e2e]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2023/96/article/2) in operation at 31.7.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/96/article/1)
 
 [^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
 

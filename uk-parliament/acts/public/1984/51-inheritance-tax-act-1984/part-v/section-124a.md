@@ -29,7 +29,7 @@ summary: ''
 
 then, unless the conditions in subsection (3) below are satisfied, the additional tax chargeable by reason of the death shall be calculated as if the value transferred had not been so reduced.
 
-(2A)[^key-7c55389a43dd33a9e640489dca8ee2cb] Where subsection (2) applies, the chargeable transfer is to be ignored for the purposes of determining the amount of the 100% relief allowance available in relation to a chargeable transfer under section 124D.
+(2A)[^c-7c55389a43dd33a9e640489dca8ee2cb] Where subsection (2) applies, the chargeable transfer is to be ignored for the purposes of determining the amount of the 100% relief allowance available in relation to a chargeable transfer under section 124D.
 
 (3) The conditions referred to in subsections (1) and (2) above are—
 
@@ -64,7 +64,7 @@ his period of ownership of the original property shall be treated as including h
 
 [^c13611621]: Textual amendment: Finance Act 1986 Sch. 19, para. 22,*with respect to transfers of value made, and other events occurring, on or after* 18*March* 1986.
 
-[^key-7c55389a43dd33a9e640489dca8ee2cb]: Textual amendment: [S. 124A(2A)](https://www.legislation.gov.uk/ukpga/1984/51/section/124A/2A) inserted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 7(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/7/2), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-7c55389a43dd33a9e640489dca8ee2cb]: Textual amendment: [S. 124A(2A)](https://www.legislation.gov.uk/ukpga/1984/51/section/124A/2A) inserted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 7(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/7/2), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
 [^c13611631]: Textual amendment: Words in [s. 124A(6)](https://www.legislation.gov.uk/ukpga/1984/51/section/124A/6) substituted (6.3.1992 with effect as mentioned in s. 289(1)(2) of the substituting Act) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [ss. 289](https://www.legislation.gov.uk/ukpga/1992/12/section/289), [290](https://www.legislation.gov.uk/ukpga/1992/12/section/290), [Sch. 10 para. 8(5)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/10/paragraph/8/5) (with [ss. 60](https://www.legislation.gov.uk/ukpga/1992/12/section/60), [101(1)](https://www.legislation.gov.uk/ukpga/1992/12/section/101/1), [201(3)](https://www.legislation.gov.uk/ukpga/1992/12/section/201/3)).
 

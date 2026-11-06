@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Publication of responses to annual report[^key-f87f66a3f83e76f78a1f0561293df495]
+## 20. Publication of responses to annual report[^c-f87f66a3f83e76f78a1f0561293df495]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f87f66a3f83e76f78a1f0561293df495]: Commencement: S. 20 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-f87f66a3f83e76f78a1f0561293df495]: Commencement: S. 20 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

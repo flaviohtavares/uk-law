@@ -26,7 +26,7 @@ summary: ''
 
 (3) An election under paragraph (1)—
 
-- (a)[^key-2a43eae53a6b23b88893293dacbdce1a] must be made—
+- (a)[^c-2a43eae53a6b23b88893293dacbdce1a] must be made—
   - (i) during the period beginning on 28th June 2008 and ending on 27th September 2009; or
   - (ii) during the period beginning on 16th December 2014 and ending on 31st December 2015;
 - (b) must be made by notice in writing, given to the Scottish Ministers;
@@ -39,11 +39,11 @@ summary: ''
 (5) In this regulation “**survivor's pension**” means a pension that becomes payable by virtue of—
 
 - (a) regulation G7;
-- (b)[^key-8966cab8af1191b1a541d48f62e12d61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8966cab8af1191b1a541d48f62e12d61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulation G14.
 
 ## Annotations
 
-[^key-2a43eae53a6b23b88893293dacbdce1a]: Textual amendment: Reg. G16(3)(a) substituted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/96/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2015/96/regulation/12)
+[^c-2a43eae53a6b23b88893293dacbdce1a]: Textual amendment: Reg. G16(3)(a) substituted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/96/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2015/96/regulation/12)
 
-[^key-8966cab8af1191b1a541d48f62e12d61]: Textual amendment: [Reg. G16(5)(b)](https://www.legislation.gov.uk/ssi/2011/117/regulation/G16/5/b) omitted (with effect in accordance with reg. 1(7) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2021/102/regulation/14)
+[^c-8966cab8af1191b1a541d48f62e12d61]: Textual amendment: [Reg. G16(5)(b)](https://www.legislation.gov.uk/ssi/2011/117/regulation/G16/5/b) omitted (with effect in accordance with reg. 1(7) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2021/102/regulation/14)

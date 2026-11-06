@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Control of builders’ skips on road.[^c1610766][^key-3b6288d7bcb17e389d044d5a576d01cd]
+## 85. Control of builders’ skips on road.[^c1610766][^c-3b6288d7bcb17e389d044d5a576d01cd]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 [^c1610766]: Modification: [S. 85](https://www.legislation.gov.uk/ukpga/1984/54/section/85): power to contract out functions of Secretary of State (16.3.1996) by [S.I. 1996/878](https://www.legislation.gov.uk/uksi/1996/878), [art. 2](https://www.legislation.gov.uk/uksi/1996/878/article/2), [Sch. para. 5(v)](https://www.legislation.gov.uk/uksi/1996/878/schedule/paragraph/5/v)
 
-[^key-3b6288d7bcb17e389d044d5a576d01cd]: Modification: [S. 85](https://www.legislation.gov.uk/ukpga/1984/54/section/85) excluded (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [9(b)](https://www.legislation.gov.uk/ssi/2017/100/article/9/b) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))
+[^c-3b6288d7bcb17e389d044d5a576d01cd]: Modification: [S. 85](https://www.legislation.gov.uk/ukpga/1984/54/section/85) excluded (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [9(b)](https://www.legislation.gov.uk/ssi/2017/100/article/9/b) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))
 
 [^c1610767]: Textual amendment: Word in [s. 85(1)(a)](https://www.legislation.gov.uk/ukpga/1984/54/section/85/1/a) inserted (1.1.1993) by New Roads and Street Works Act (c. 22, SIF 59, 108), s. 168(1), Sch. 8 para. 89; [S.I. 1992/2990](https://www.legislation.gov.uk/uksi/1992/2990), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2990/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2990/schedule/2)

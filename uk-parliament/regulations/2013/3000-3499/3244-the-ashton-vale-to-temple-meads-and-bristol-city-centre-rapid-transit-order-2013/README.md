@@ -51,7 +51,7 @@ The Secretary of State is satisfied that the provision of an alternative right o
 
 Notice of the Secretary of State’s determination was published in the London Gazette on   11th November 2013
 
-The Secretary of State, in exercise of the powers conferred by sections 1, 3 and 5 of, and paragraphs 1 to 13 and 15 to 17 of Schedule 1 to, the 1992 Act, makes the following Order:—[^key-8ea14fd5ccd78929996580972d9b2185]
+The Secretary of State, in exercise of the powers conferred by sections 1, 3 and 5 of, and paragraphs 1 to 13 and 15 to 17 of Schedule 1 to, the 1992 Act, makes the following Order:—[^c-8ea14fd5ccd78929996580972d9b2185]
 
 ## Contents
 
@@ -236,4 +236,4 @@ A copy of the Order plans and the book of reference mentioned in this Order and 
 
 [^f00002]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42). Relevant amending instruments are [S.I. 1995/1541](https://www.legislation.gov.uk/uksi/1995/1541), [S.I. 1998/2226](https://www.legislation.gov.uk/uksi/1998/2226), [S.I. 2000/3199](https://www.legislation.gov.uk/uksi/2000/3199) and [S.I. 2006/958](https://www.legislation.gov.uk/uksi/2006/958).
 
-[^key-8ea14fd5ccd78929996580972d9b2185]: Modification: Order modified by [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56), [s. 8(1)](https://www.legislation.gov.uk/ukpga/1965/56/section/8/1) (as modified) (9.1.2014) by The Ashton Vale to [Temple Meads and Bristol City Centre Rapid Transit Order 2013 (S.I. 2013/3244)](https://www.legislation.gov.uk/uksi/2013/3244), [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1), [Sch. 6 paras. 3(2)](https://www.legislation.gov.uk/uksi/2013/3244/schedule/6/paragraph/3/2), [4-9](https://www.legislation.gov.uk/uksi/2013/3244/schedule/6/paragraph/4) (with [arts. 57](https://www.legislation.gov.uk/uksi/2013/3244/article/57), [58](https://www.legislation.gov.uk/uksi/2013/3244/article/58), [Sch. 11 para. 19](https://www.legislation.gov.uk/uksi/2013/3244/schedule/11/paragraph/19))
+[^c-8ea14fd5ccd78929996580972d9b2185]: Modification: Order modified by [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56), [s. 8(1)](https://www.legislation.gov.uk/ukpga/1965/56/section/8/1) (as modified) (9.1.2014) by The Ashton Vale to [Temple Meads and Bristol City Centre Rapid Transit Order 2013 (S.I. 2013/3244)](https://www.legislation.gov.uk/uksi/2013/3244), [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1), [Sch. 6 paras. 3(2)](https://www.legislation.gov.uk/uksi/2013/3244/schedule/6/paragraph/3/2), [4-9](https://www.legislation.gov.uk/uksi/2013/3244/schedule/6/paragraph/4) (with [arts. 57](https://www.legislation.gov.uk/uksi/2013/3244/article/57), [58](https://www.legislation.gov.uk/uksi/2013/3244/article/58), [Sch. 11 para. 19](https://www.legislation.gov.uk/uksi/2013/3244/schedule/11/paragraph/19))

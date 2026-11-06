@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Prohibitory property orders: exclusions[^key-baf7ee3fdc96521ccdb7456b5cb2cbb7]
+## 163. Prohibitory property orders: exclusions[^c-baf7ee3fdc96521ccdb7456b5cb2cbb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baf7ee3fdc96521ccdb7456b5cb2cbb7]: Commencement: [Art. 163](https://www.legislation.gov.uk/uksi/2005/3181/article/163) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-baf7ee3fdc96521ccdb7456b5cb2cbb7]: Commencement: [Art. 163](https://www.legislation.gov.uk/uksi/2005/3181/article/163) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

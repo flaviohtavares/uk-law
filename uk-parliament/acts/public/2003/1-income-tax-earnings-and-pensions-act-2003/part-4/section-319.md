@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 319. Mobile telephones[^key-e0123c74628dc2e07a551f647740d691]
+## 319. Mobile telephones[^c-e0123c74628dc2e07a551f647740d691]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ or any thing which may be used in such apparatus for the purpose of gaining acce
 
 ## Annotations
 
-[^key-e0123c74628dc2e07a551f647740d691]: Textual amendment: S. 319 substituted (with effect for the year 2006-07 and subsequent years of assessment in accordance with s. 60(4) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 60(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/60/3) (with [s. 60(5)](https://www.legislation.gov.uk/ukpga/2006/25/section/60/5))
+[^c-e0123c74628dc2e07a551f647740d691]: Textual amendment: S. 319 substituted (with effect for the year 2006-07 and subsequent years of assessment in accordance with s. 60(4) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 60(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/60/3) (with [s. 60(5)](https://www.legislation.gov.uk/ukpga/2006/25/section/60/5))

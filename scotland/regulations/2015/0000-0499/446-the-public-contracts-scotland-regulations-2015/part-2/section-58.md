@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Exclusion grounds[^key-054a6ecdfddfb71584cb092fe0df2c96][^key-40b03aa9be1ce4b3ec67a1433432ae8a]
+## 58. Exclusion grounds[^c-054a6ecdfddfb71584cb092fe0df2c96][^c-40b03aa9be1ce4b3ec67a1433432ae8a]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) corruption within the meaning of section 1(2) of the Public Bodies Corrupt Practices Act 1889 [^c22606471] or section 1 of the Prevention of Corruption Act 1906 [^c22606481], where the offence relates to active corruption as defined in Article 3 of the Council Act of 26th May 1997 [^c22606491] and Article 3(1) of Council Joint Action 98/742/JHA [^c22606501];
 - (c) bribery or corruption within the meaning of sections 68 and 69 of the Criminal Justice (Scotland) Act 2003 [^c22606511], where the offence relates to active bribery or corruption;
 - (d) bribery within the meaning of sections 1 or 6 of the Bribery Act 2010 [^c22606521];
-- (e)[^key-4dc417637d97257b186861404bd725ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-4dc417637d97257b186861404bd725ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) any offence listed in—
   - (i) section 41 of the Counter-Terrorism Act 2008 [^c22606591]; or
   - (ii) Schedule 2 to that Act where the court has determined that there is a terrorist connection.
@@ -34,7 +34,7 @@ summary: ''
 - (h) an offence in connection with the proceeds of criminal conduct within the meaning of section 93A, 93B or 93C of the Criminal Justice Act 1988 [^c22606611];
 - (i) any offence under Part 1 of the Human Trafficking and Exploitation (Scotland) Act 2015 [^c22606621] or under any provision referred to in the Schedule to that Act;
 - (j) an offence in connection with the proceeds of drug trafficking within the meaning of section 49, 50 or 51 of the Drug Trafficking Act 1994 [^c22606631];
-- (k) any other offence within the meaning of Article 57(1)(a), (b), (d), (e) or (f)[^key-4cb2ab94c01821b4e79464682e22ec35] of the Directive as defined by the law of any EEA state or any part thereof.
+- (k) any other offence within the meaning of Article 57(1)(a), (b), (d), (e) or (f)[^c-4cb2ab94c01821b4e79464682e22ec35] of the Directive as defined by the law of any EEA state or any part thereof.
 
 (2) This paragraph applies to a person who is a member of the administrative, management or supervisory body of the economic operator referred to in paragraph (1) or has powers of representation, decision or control in relation to such economic operator.
 
@@ -67,7 +67,7 @@ summary: ''
 - (f) a distortion of competition from the prior involvement of the economic operator in the preparation of the procurement procedure, as referred to in regulation 42 (prior involvement of candidates or tenderers), cannot be remedied by other, less intrusive measures;
 - (g) the economic operator has shown significant or persistent deficiencies in the performance of a substantive requirement under a prior public contract, a prior contract with a contracting entity or a prior concession contract which led to early termination of that prior contract, damages or other comparable sanctions;
 - (h) the economic operator has been guilty of serious misrepresentation in supplying the information required for the verification of the absence of grounds for exclusion or the fulfilment of the selection criteria;
-- (i) the economic operator has withheld information referred to in sub-paragraph (h) or is not able to submit the supporting documents required under regulation 60 ([^key-77ac5a0865941b1b64aa0f06f7f8c09d]... Single Procurement Document: use, content and form of the SPD[^key-d8f47a8cec474f752d9099b13661b0f3]); or
+- (i) the economic operator has withheld information referred to in sub-paragraph (h) or is not able to submit the supporting documents required under regulation 60 ([^c-77ac5a0865941b1b64aa0f06f7f8c09d]... Single Procurement Document: use, content and form of the SPD[^c-d8f47a8cec474f752d9099b13661b0f3]); or
 - (j) the economic operator—
   - (i) has or has sought to unduly influence the decision-making process of the contracting authority,
   - (ii) has or has sought to obtain confidential information that may confer upon it undue advantages in the procurement procedure; or
@@ -97,9 +97,9 @@ summary: ''
 
 ## Annotations
 
-[^key-054a6ecdfddfb71584cb092fe0df2c96]: Modification: [Reg. 58](https://www.legislation.gov.uk/ssi/2015/446/regulation/58) modified by SSI 2013/50, Sch. 3 para. 10(2)(a) (as substituted (18.4.2016) by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [reg. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/3/2/c))
+[^c-054a6ecdfddfb71584cb092fe0df2c96]: Modification: [Reg. 58](https://www.legislation.gov.uk/ssi/2015/446/regulation/58) modified by SSI 2013/50, Sch. 3 para. 10(2)(a) (as substituted (18.4.2016) by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [reg. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/3/2/c))
 
-[^key-40b03aa9be1ce4b3ec67a1433432ae8a]: Modification: [Regs. 58-62](https://www.legislation.gov.uk/ssi/2015/446/regulation/58) modified (18.4.2016) by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [regs. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [78(5)](https://www.legislation.gov.uk/ssi/2016/49/regulation/78/5)
+[^c-40b03aa9be1ce4b3ec67a1433432ae8a]: Modification: [Regs. 58-62](https://www.legislation.gov.uk/ssi/2015/446/regulation/58) modified (18.4.2016) by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [regs. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [78(5)](https://www.legislation.gov.uk/ssi/2016/49/regulation/78/5)
 
 [^c22606451]: Marginal citation: OJ L 300, 11.11.2008, p.42.
 
@@ -117,7 +117,7 @@ summary: ''
 
 [^c22606521]: Marginal citation: [2010 c.23](https://www.legislation.gov.uk/ukpga/2010/23).
 
-[^key-4dc417637d97257b186861404bd725ce]: Textual amendment: [Reg. 58(1)(e)](https://www.legislation.gov.uk/ssi/2015/446/regulation/58/1/e) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(40)(a)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/40/a/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-4dc417637d97257b186861404bd725ce]: Textual amendment: [Reg. 58(1)(e)](https://www.legislation.gov.uk/ssi/2015/446/regulation/58/1/e) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(40)(a)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/40/a/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
 [^c22606591]: Marginal citation: [2008 c.28](https://www.legislation.gov.uk/ukpga/2008/28)
 
@@ -129,10 +129,10 @@ summary: ''
 
 [^c22606631]: Marginal citation: [1994 c.37](https://www.legislation.gov.uk/ukpga/1994/37); [sections 49](https://www.legislation.gov.uk/ssi/2015/446/section/49), [50](https://www.legislation.gov.uk/ssi/2015/446/section/50) and 51 were repealed by the [Proceeds of Crime Act 2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), [Schedule 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12).
 
-[^key-4cb2ab94c01821b4e79464682e22ec35]: Textual amendment: Words in [reg. 58(1)(k)](https://www.legislation.gov.uk/ssi/2015/446/regulation/58/1/k) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(40)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/40/a/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-4cb2ab94c01821b4e79464682e22ec35]: Textual amendment: Words in [reg. 58(1)(k)](https://www.legislation.gov.uk/ssi/2015/446/regulation/58/1/k) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(40)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/40/a/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
 [^c22606641]: Marginal citation: [S.I. 2010/493](https://www.legislation.gov.uk/uksi/2010/493).
 
-[^key-77ac5a0865941b1b64aa0f06f7f8c09d]: Textual amendment: Word in [reg. 58(8)(i)](https://www.legislation.gov.uk/ssi/2015/446/regulation/58/8/i) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(40)(b)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/40/b/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-77ac5a0865941b1b64aa0f06f7f8c09d]: Textual amendment: Word in [reg. 58(8)(i)](https://www.legislation.gov.uk/ssi/2015/446/regulation/58/8/i) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(40)(b)(i)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/40/b/i) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
 
-[^key-d8f47a8cec474f752d9099b13661b0f3]: Textual amendment: Word in [reg. 58(8)(i)](https://www.legislation.gov.uk/ssi/2015/446/regulation/58/8/i) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(40)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/40/b/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-d8f47a8cec474f752d9099b13661b0f3]: Textual amendment: Word in [reg. 58(8)(i)](https://www.legislation.gov.uk/ssi/2015/446/regulation/58/8/i) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(40)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/40/b/ii) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

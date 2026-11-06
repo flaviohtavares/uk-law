@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Application of Chapter[^key-04991ce87957fc9b18380c866855626f]
+## 9. Application of Chapter[^c-04991ce87957fc9b18380c866855626f]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04991ce87957fc9b18380c866855626f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/19/regulation/9) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-04991ce87957fc9b18380c866855626f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/19/regulation/9) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

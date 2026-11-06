@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Refund of employer additional contribution for ill health award following review[^key-791acab947e5921578916d0b4d6b3fad]
+## 119. Refund of employer additional contribution for ill health award following review[^c-791acab947e5921578916d0b4d6b3fad]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,12 +28,12 @@ summary: ''
 
 (4) The scheme manager must determine the amount of the notional payment payable under paragraph (3).
 
-(5) Where P, as a result of a review under regulation 68 (review of ill-health award or early payment of retirement pension), ceases to be entitled to a higher tier ill health pension and to a lower tier ill-health pension or to a lower tier ill-health pension as the case may be and the employer has not paid all the instalments of higher tier ill-health additional contribution or lower tier ill-health additional contribution[^key-0d9c49947d588387ef2054e0e5b18c9b] as required by regulation 118 (employer additional contribution ill-health award), the scheme manager must repay to the employer any instalments of higher tier ill-health additional contribution or lower tier ill-health additional contribution as the case may be, which have been paid in respect of P from the date that the entitlement ceased[^key-a45d33cbbee7c3c82b4c5e9596750a9b] and no further instalments will be due in respect of P.
+(5) Where P, as a result of a review under regulation 68 (review of ill-health award or early payment of retirement pension), ceases to be entitled to a higher tier ill health pension and to a lower tier ill-health pension or to a lower tier ill-health pension as the case may be and the employer has not paid all the instalments of higher tier ill-health additional contribution or lower tier ill-health additional contribution[^c-0d9c49947d588387ef2054e0e5b18c9b] as required by regulation 118 (employer additional contribution ill-health award), the scheme manager must repay to the employer any instalments of higher tier ill-health additional contribution or lower tier ill-health additional contribution as the case may be, which have been paid in respect of P from the date that the entitlement ceased[^c-a45d33cbbee7c3c82b4c5e9596750a9b] and no further instalments will be due in respect of P.
 
 ## Annotations
 
-[^key-791acab947e5921578916d0b4d6b3fad]: Commencement: [Reg. 119](https://www.legislation.gov.uk/uksi/2014/2848/regulation/119) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-791acab947e5921578916d0b4d6b3fad]: Commencement: [Reg. 119](https://www.legislation.gov.uk/uksi/2014/2848/regulation/119) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
-[^key-0d9c49947d588387ef2054e0e5b18c9b]: Textual amendment: Words in [reg. 119(5)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/119/5) substituted (with effect from 1.4.2015) by [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2017 (S.I. 2017/888)](https://www.legislation.gov.uk/uksi/2017/888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2017/888/regulation/7/3/a)
+[^c-0d9c49947d588387ef2054e0e5b18c9b]: Textual amendment: Words in [reg. 119(5)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/119/5) substituted (with effect from 1.4.2015) by [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2017 (S.I. 2017/888)](https://www.legislation.gov.uk/uksi/2017/888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/uksi/2017/888/regulation/7/3/a)
 
-[^key-a45d33cbbee7c3c82b4c5e9596750a9b]: Textual amendment: Words in [reg. 119(5)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/119/5) inserted (with effect from 1.4.2015) by [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2017 (S.I. 2017/888)](https://www.legislation.gov.uk/uksi/2017/888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2017/888/regulation/7/3/b)
+[^c-a45d33cbbee7c3c82b4c5e9596750a9b]: Textual amendment: Words in [reg. 119(5)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/119/5) inserted (with effect from 1.4.2015) by [The Firefighters’ Pension Scheme (England) (Amendment) Regulations 2017 (S.I. 2017/888)](https://www.legislation.gov.uk/uksi/2017/888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2017/888/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2017/888/regulation/7/3/b)

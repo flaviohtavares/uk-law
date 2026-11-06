@@ -32,7 +32,7 @@ summary: ''
 
 Consumer Protection
 
-The Cosmetic Products (Safety) (Amendment) Regulations 2010 (revoked)[^key-f9ca0bdcf1be8881a11af6534312928d]
+The Cosmetic Products (Safety) (Amendment) Regulations 2010 (revoked)[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 Made
 
@@ -44,209 +44,209 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2) to (9)
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9ca0bdcf1be8881a11af6534312928d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f9ca0bdcf1be8881a11af6534312928d]
+## 1. Citation, commencement and interpretation[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Principal Regulations[^key-f9ca0bdcf1be8881a11af6534312928d]
+## 2. Amendment to the Principal Regulations[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9ca0bdcf1be8881a11af6534312928d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-f9ca0bdcf1be8881a11af6534312928d]
+## SCHEDULE 1[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 Regulations 2(d)(i), 2(d)(x),2(d)(xii) to 2(d)(xiv) and 2(e)(vii)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-f9ca0bdcf1be8881a11af6534312928d]
+## SCHEDULE 2[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 Regulations 2(d)(ii), 2(d)(vi), 2(d)(vii), 2(d)(xi), 2(e)(i) to 2(e)(iv)(aa)and 2(e)(vi)
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-f9ca0bdcf1be8881a11af6534312928d]
+## SCHEDULE 3[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 Regulation 2(d)(iv)
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4[^key-f9ca0bdcf1be8881a11af6534312928d]
+## SCHEDULE 4[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 Regulation 2(e)(v)
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]
+[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5[^key-f9ca0bdcf1be8881a11af6534312928d]
+## SCHEDULE 5[^c-f9ca0bdcf1be8881a11af6534312928d]
 
 Regulation 2(f)
 
@@ -254,8 +254,8 @@ Regulation 2(f)
 
 **May not be in force at this date. Check the source.**
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9ca0bdcf1be8881a11af6534312928d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f9ca0bdcf1be8881a11af6534312928d]: Textual amendment: Regulations revoked (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), reg. 1(1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1478/schedule/1) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-f9ca0bdcf1be8881a11af6534312928d]: Textual amendment: Regulations revoked (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), reg. 1(1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1478/schedule/1) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))

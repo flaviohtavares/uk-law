@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Building societies[^M_I_88f1fa94-3c92-42cb-b649-5cf5a3776c9a][^key-0771d655bfb62201dbf61e01af3c547b]
+## 130. Building societies[^M_I_88f1fa94-3c92-42cb-b649-5cf5a3776c9a][^c-0771d655bfb62201dbf61e01af3c547b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^M_I_88f1fa94-3c92-42cb-b649-5cf5a3776c9a]: Commencement: S. 130 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 2
 
-[^key-0771d655bfb62201dbf61e01af3c547b]: Commencement: S. 130 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-0771d655bfb62201dbf61e01af3c547b]: Commencement: S. 130 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

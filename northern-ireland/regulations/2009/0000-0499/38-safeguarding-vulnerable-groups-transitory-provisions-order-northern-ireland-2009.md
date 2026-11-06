@@ -32,7 +32,7 @@ summary: ''
 
 Safeguarding Vulnerable Groups
 
-Safeguarding Vulnerable Groups (Transitory Provisions) Order (Northern Ireland) 2009 (revoked)[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+Safeguarding Vulnerable Groups (Transitory Provisions) Order (Northern Ireland) 2009 (revoked)[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 Made
 
@@ -44,88 +44,88 @@ Coming into operation
 
 To be laid before Parliament
 
-[^key-7b74e0b0e6515e2bcc4a218d8855d35d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b74e0b0e6515e2bcc4a218d8855d35d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+## PART 1 — Introduction[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
-### 1. Citation and commencement[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 1. Citation and commencement[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Consideration of cases[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
-
-### 3. Consideration of cases arising before the relevant period[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 2. Interpretation[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Consideration of cases arising during the relevant period[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+## PART 2 — Consideration of cases[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
+
+### 3. Consideration of cases arising before the relevant period[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Conditions for automatic prohibition under the 2007 Regulations during the relevant period[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 4. Consideration of cases arising during the relevant period[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Consideration by IBB[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 5. Conditions for automatic prohibition under the 2007 Regulations during the relevant period[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Effect of listing by IBB: children[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 6. Consideration by IBB[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Effect of inclusion in the children’s barred list: England and Wales[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 7. Effect of listing by IBB: children[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Effect of listing by IBB: adults[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 8. Effect of inclusion in the children’s barred list: England and Wales[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Effect of inclusion in the adults’ barred list: England and Wales[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 9. Effect of listing by IBB: adults[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Information provided to IBB[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 10. Effect of inclusion in the adults’ barred list: England and Wales[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Information provided by IBB[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 11. Information provided to IBB[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Information provided by the Department of Health, Social Services and Public Safety[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 12. Information provided by IBB[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Information provided by the Department of Education[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 13. Information provided by the Department of Health, Social Services and Public Safety[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Supplementary and Consequential Provision[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
-
-### 15. Application of Articles 16 and 17[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 14. Information provided by the Department of Education[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Teachers’ pensions – entitlement to payment of retirement benefits[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+## PART 3 — Supplementary and Consequential Provision[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
+
+### 15. Application of Articles 16 and 17[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Modifications to the General Teaching Council for Northern Ireland (Registration of Teachers) Regulations (Northern Ireland) 2004[^key-7b74e0b0e6515e2bcc4a218d8855d35d]
+### 16. Teachers’ pensions – entitlement to payment of retirement benefits[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b74e0b0e6515e2bcc4a218d8855d35d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 17. Modifications to the General Teaching Council for Northern Ireland (Registration of Teachers) Regulations (Northern Ireland) 2004[^c-7b74e0b0e6515e2bcc4a218d8855d35d]
 
-[^key-7b74e0b0e6515e2bcc4a218d8855d35d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7b74e0b0e6515e2bcc4a218d8855d35d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7b74e0b0e6515e2bcc4a218d8855d35d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b74e0b0e6515e2bcc4a218d8855d35d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2009/38) revoked (12.10.2009) by [Safeguarding Vulnerable Groups (Regulated Activity, Transitional Provisions and Commencement No. 4) Order (Northern Ireland) 2009 (S.R. 2009/304)](https://www.legislation.gov.uk/nisr/2009/304), [art. 4](https://www.legislation.gov.uk/nisr/2009/304/article/4)
+[^c-7b74e0b0e6515e2bcc4a218d8855d35d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2009/38) revoked (12.10.2009) by [Safeguarding Vulnerable Groups (Regulated Activity, Transitional Provisions and Commencement No. 4) Order (Northern Ireland) 2009 (S.R. 2009/304)](https://www.legislation.gov.uk/nisr/2009/304), [art. 4](https://www.legislation.gov.uk/nisr/2009/304/article/4)

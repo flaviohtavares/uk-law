@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Dairy Produce Quotas (Wales) (Amendment) Regulations 2006 (revoked)[^key-babb749b4453fa09b42b4908ab45e6ba]
+The Dairy Produce Quotas (Wales) (Amendment) Regulations 2006 (revoked)[^c-babb749b4453fa09b42b4908ab45e6ba]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into force
 
 31 March 2006
 
-[^key-babb749b4453fa09b42b4908ab45e6ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-babb749b4453fa09b42b4908ab45e6ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title commencement and application[^key-babb749b4453fa09b42b4908ab45e6ba]
+## 1. Title commencement and application[^c-babb749b4453fa09b42b4908ab45e6ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Dairy Produce Quotas (Wales) Regulations 2005[^key-babb749b4453fa09b42b4908ab45e6ba]
+## 2. Amendment of the Dairy Produce Quotas (Wales) Regulations 2005[^c-babb749b4453fa09b42b4908ab45e6ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-babb749b4453fa09b42b4908ab45e6ba]
+## 3.[^c-babb749b4453fa09b42b4908ab45e6ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-babb749b4453fa09b42b4908ab45e6ba]
+## 4.[^c-babb749b4453fa09b42b4908ab45e6ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-babb749b4453fa09b42b4908ab45e6ba]
+## 5.[^c-babb749b4453fa09b42b4908ab45e6ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-babb749b4453fa09b42b4908ab45e6ba]
+## 6.[^c-babb749b4453fa09b42b4908ab45e6ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-babb749b4453fa09b42b4908ab45e6ba]
+## 7.[^c-babb749b4453fa09b42b4908ab45e6ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-babb749b4453fa09b42b4908ab45e6ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-babb749b4453fa09b42b4908ab45e6ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-babb749b4453fa09b42b4908ab45e6ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-babb749b4453fa09b42b4908ab45e6ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-babb749b4453fa09b42b4908ab45e6ba]: Textual amendment: Regulations revoked (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1), [3(f)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/f)
+[^c-babb749b4453fa09b42b4908ab45e6ba]: Textual amendment: Regulations revoked (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/908/regulation/1), [3(f)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/f)

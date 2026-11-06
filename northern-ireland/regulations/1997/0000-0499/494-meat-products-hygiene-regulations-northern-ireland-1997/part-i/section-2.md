@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-827627f11b93bf9884e3bc1a2337077e]
+## 2. Interpretation[^c-827627f11b93bf9884e3bc1a2337077e]
 
 *Extent: N.I.*
 
@@ -109,7 +109,7 @@ summary: ''
 
 ## Annotations
 
-[^key-827627f11b93bf9884e3bc1a2337077e]: Commencement: Reg. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-827627f11b93bf9884e3bc1a2337077e]: Commencement: Reg. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1997 No. 493](https://www.legislation.gov.uk/nisr/1997/493)
 

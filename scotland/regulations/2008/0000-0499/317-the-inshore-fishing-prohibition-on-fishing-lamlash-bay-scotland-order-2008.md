@@ -48,11 +48,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 1(1) of the Inshore Fishing (Scotland) Act 1984 they have consulted with such bodies as they consider appropriate.
 
-## 1. Citation and commencement[^key-0303005c61c0cdf565fca8877756cf1e]
+## 1. Citation and commencement[^c-0303005c61c0cdf565fca8877756cf1e]
 
 This Order may be cited as the Inshore Fishing (Prohibition on Fishing) (Lamlash Bay) (Scotland) Order 2008 and shall come into force on 20th September 2008.
 
-## 2. Prohibition on fishing[^key-3f774853578fae71dd0cdbff9b890505]
+## 2. Prohibition on fishing[^c-3f774853578fae71dd0cdbff9b890505]
 
 (1) Subject to paragraph (2), all fishing for sea fish is prohibited within that part of the Scottish zone[^f00002] bounded by a straight line from Mount Pleasant Farm (55 degrees 32.603 minutes North, 005 degrees 06.512 minutes West) in a south to south easterly direction to Holy Isle West (55 degrees 31.556 minutes North, 005 degrees 05.216 minutes West) thence in an easterly direction around the northern end of Holy Island by the mean high water mark of ordinary spring tides to Holy Isle East (55 degrees 31.876 minutes North, 005 degrees 04.304 minutes West); thence by a straight line in a north to north westerly direction to Hamilton Rock (55 degrees 33.000 minutes North, 005 degrees 04.823 minutes West); thence in a west to north westerly direction by a straight line to Clauchlands Point (55 degrees 33.002 minutes North, 005 degrees 04.957 minutes West); and thence in a west to south westerly direction by the mean high water mark of ordinary spring tides to Mount Pleasant Farm.
 
@@ -82,8 +82,8 @@ A Regulatory Impact Assessment has been prepared and is available from the Scott
 
 [^f00001]: Footnote: [1984 c. 26](https://www.legislation.gov.uk/ukpga/1984/26); section 2A was inserted by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), section 103(2). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of paragraph 72 of Schedule 2 of S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 
-[^key-0303005c61c0cdf565fca8877756cf1e]: Commencement: Art. 1 in force at 20.9.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/317/article/1)
+[^c-0303005c61c0cdf565fca8877756cf1e]: Commencement: Art. 1 in force at 20.9.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/317/article/1)
 
-[^key-3f774853578fae71dd0cdbff9b890505]: Commencement: Art. 2 in force at 20.9.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/317/article/1)
+[^c-3f774853578fae71dd0cdbff9b890505]: Commencement: Art. 2 in force at 20.9.2008, see [art. 1](https://www.legislation.gov.uk/ssi/2008/317/article/1)
 
 [^f00002]: Footnote: The definition of Scottish zone was inserted by S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).

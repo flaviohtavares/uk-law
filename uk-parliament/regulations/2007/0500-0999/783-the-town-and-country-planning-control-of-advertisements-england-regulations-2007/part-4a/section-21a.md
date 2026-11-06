@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21A. Limitation on number of flags on flagstaff[^key-e8f9957e8ed8e63d9d7b939d7783cabd]
+## 21A. Limitation on number of flags on flagstaff[^c-e8f9957e8ed8e63d9d7b939d7783cabd]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8f9957e8ed8e63d9d7b939d7783cabd]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2007/783/part/4A) inserted (24.6.2021) by [The Town and Country Planning (Control of Advertisements) (England) (Amendment) Regulations 2021 (S.I. 2021/617)](https://www.legislation.gov.uk/uksi/2021/617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/617/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/617/regulation/3)
+[^c-e8f9957e8ed8e63d9d7b939d7783cabd]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2007/783/part/4A) inserted (24.6.2021) by [The Town and Country Planning (Control of Advertisements) (England) (Amendment) Regulations 2021 (S.I. 2021/617)](https://www.legislation.gov.uk/uksi/2021/617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/617/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/617/regulation/3)

@@ -41,7 +41,7 @@ summary: ''
 
 (3) This Part applies to unoccupied HMO accommodation (as defined by section 1(5) of the Housing Act 2004) as it applies to a house in multiple occupation, and references to a house in multiple occupation in this Part are to be read accordingly.
 
-(4)[^key-0066fed7adb77ad372216d18b86608e0] In this Part “appropriate tribunal” means—
+(4)[^c-0066fed7adb77ad372216d18b86608e0] In this Part “appropriate tribunal” means—
 
 - (a) in relation to premises in England the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
 - (b) in relation to premises in Wales, a residential property tribunal.
@@ -50,4 +50,4 @@ summary: ''
 
 [^c19124971]: Textual amendment: S. 322 substituted (6.4.2006 for E. and 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 265(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/265/1), [270(4)(5)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4/5), [Sch. 15 para. 26](https://www.legislation.gov.uk/ukpga/2004/34/schedule/15/paragraph/26); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-0066fed7adb77ad372216d18b86608e0]: Textual amendment: S. 322(4) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/46) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-0066fed7adb77ad372216d18b86608e0]: Textual amendment: S. 322(4) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/46) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. EHC plans for certain detained persons: appeals and mediation[^key-c6341b0874813018cb3ab7ea98902b05]
+## 73. EHC plans for certain detained persons: appeals and mediation[^c-c6341b0874813018cb3ab7ea98902b05]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ For this purpose a person is not independent if he or she is employed by a local
 
 ## Annotations
 
-[^key-c6341b0874813018cb3ab7ea98902b05]: Commencement: S. 73 in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/375/article/2/b)
+[^c-c6341b0874813018cb3ab7ea98902b05]: Commencement: S. 73 in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/375/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Construction of references to transfers etc.[^key-912574d52a7c310355d218c2917ccfb8]
+## 37. Construction of references to transfers etc.[^c-912574d52a7c310355d218c2917ccfb8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ References in any enactment or rule of law to a proper instrument of transfer or
 
 ## Annotations
 
-[^key-912574d52a7c310355d218c2917ccfb8]: Commencement: Reg. 37 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-912574d52a7c310355d218c2917ccfb8]: Commencement: Reg. 37 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

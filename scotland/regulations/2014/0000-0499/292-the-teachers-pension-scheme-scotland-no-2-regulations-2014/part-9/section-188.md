@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 188. Deductions not made before an employment ends[^key-0a3c0e4d1e71f7fd467a58db564d2e64]
+## 188. Deductions not made before an employment ends[^c-0a3c0e4d1e71f7fd467a58db564d2e64]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a3c0e4d1e71f7fd467a58db564d2e64]: Commencement: [Reg. 188](https://www.legislation.gov.uk/ssi/2014/292/regulation/188) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-0a3c0e4d1e71f7fd467a58db564d2e64]: Commencement: [Reg. 188](https://www.legislation.gov.uk/ssi/2014/292/regulation/188) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

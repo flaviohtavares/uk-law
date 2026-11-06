@@ -25,7 +25,7 @@ summary: ''
 (2) Where a claim is submitted in accordance with this regulation, a staged payment must be allowed where the appropriate officer is satisfied—
 
 - (a) that the claim relates to fees for a period of preparation of 100 hours or more, for which the instructed advocate will, subject to final determination of the fees payable, be entitled to be paid in accordance with Schedule 1; and
-- (b) that the period from [^key-c1ee5b013b719fe7c7e6978c9d7337c5]... sending for trial [^key-c1ee5b013b719fe7c7e6978c9d7337c5]... (or from the date of the section 16 determination, if later) to the conclusion of the Crown Court proceedings is likely to exceed 12 months, having regard, amongst other matters, to the number of defendants, the anticipated pleas and the weight and complexity of the case.
+- (b) that the period from [^c-c1ee5b013b719fe7c7e6978c9d7337c5]... sending for trial [^c-c1ee5b013b719fe7c7e6978c9d7337c5]... (or from the date of the section 16 determination, if later) to the conclusion of the Crown Court proceedings is likely to exceed 12 months, having regard, amongst other matters, to the number of defendants, the anticipated pleas and the weight and complexity of the case.
 
 (3) In this regulation, “**preparation**” means—
 
@@ -50,4 +50,4 @@ and is limited to preparation done before the trial, except in proceedings in wh
 
 ## Annotations
 
-[^key-c1ee5b013b719fe7c7e6978c9d7337c5]: Textual amendment: Words in reg. 20(2)(b) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [5(5)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/5/5) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))
+[^c-c1ee5b013b719fe7c7e6978c9d7337c5]: Textual amendment: Words in reg. 20(2)(b) omitted (5.10.2015) by virtue of [The Civil and Criminal Legal Aid (Amendment) (No.2) Regulations 2015 (S.I. 2015/1678)](https://www.legislation.gov.uk/uksi/2015/1678), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/1/2/a), [5(5)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/5/5) (with [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/1678/regulation/10/1))

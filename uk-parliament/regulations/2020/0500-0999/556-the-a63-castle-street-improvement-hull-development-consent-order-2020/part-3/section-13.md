@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Permanent stopping up and restriction of use of streets and private means of access[^key-412bc230bd7ac536af51cf8027919bbd]
+## 13. Permanent stopping up and restriction of use of streets and private means of access[^c-412bc230bd7ac536af51cf8027919bbd]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-412bc230bd7ac536af51cf8027919bbd]: Commencement: Art. 13 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-412bc230bd7ac536af51cf8027919bbd]: Commencement: Art. 13 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Extent[^key-23d81383cef40b23e544a5744335c47f]
+## 2. Extent[^c-23d81383cef40b23e544a5744335c47f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules extend to England and Wales only.
 
 ## Annotations
 
-[^key-23d81383cef40b23e544a5744335c47f]: Commencement: Rule 2 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-23d81383cef40b23e544a5744335c47f]: Commencement: Rule 2 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

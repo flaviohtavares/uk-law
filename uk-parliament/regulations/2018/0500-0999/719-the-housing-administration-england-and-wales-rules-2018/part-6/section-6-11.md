@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.11. Pre-administration costs[^key-86b21cd4088e44effd2c2d92aa650896]
+## 6.11. Pre-administration costs[^c-86b21cd4088e44effd2c2d92aa650896]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the housing administrator has made a statement of pre-administration costs
 
 ## Annotations
 
-[^key-86b21cd4088e44effd2c2d92aa650896]: Commencement: Rule 6.11 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-86b21cd4088e44effd2c2d92aa650896]: Commencement: Rule 6.11 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

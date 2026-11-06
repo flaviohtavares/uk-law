@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Planning the spreading of nitrogen fertiliser[^key-0d9f6e7cf5373df4f30d1987c51c9055]
+## 6. Planning the spreading of nitrogen fertiliser[^c-0d9f6e7cf5373df4f30d1987c51c9055]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d9f6e7cf5373df4f30d1987c51c9055]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2021/77/regulation/6) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-0d9f6e7cf5373df4f30d1987c51c9055]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2021/77/regulation/6) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

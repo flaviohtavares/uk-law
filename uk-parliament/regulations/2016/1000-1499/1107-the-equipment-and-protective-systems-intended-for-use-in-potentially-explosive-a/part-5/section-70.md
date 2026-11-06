@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Appropriate court for appeals against notices[^key-fddd1f04f88227c979cb466d017a7a62]
+## 70. Appropriate court for appeals against notices[^c-fddd1f04f88227c979cb466d017a7a62]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fddd1f04f88227c979cb466d017a7a62]: Commencement: Reg. 70 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-fddd1f04f88227c979cb466d017a7a62]: Commencement: Reg. 70 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

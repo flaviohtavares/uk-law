@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 3A — Alternative specific emissions of CO<sub>2</sub>: OVC hybrid electric vehicles[^key-ffbf33df4b8473513b70564975b02a8c]
+## Schedule 3A — Alternative specific emissions of CO<sub>2</sub>: OVC hybrid electric vehicles[^c-ffbf33df4b8473513b70564975b02a8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -187,4 +187,4 @@ Article 3
 
 ## Annotations
 
-[^key-ffbf33df4b8473513b70564975b02a8c]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2023/1394/schedule/3A) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1101/schedule)
+[^c-ffbf33df4b8473513b70564975b02a8c]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2023/1394/schedule/3A) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1101/schedule)

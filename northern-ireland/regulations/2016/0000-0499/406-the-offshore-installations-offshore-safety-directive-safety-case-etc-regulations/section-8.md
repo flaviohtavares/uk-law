@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Safety and environmental management system[^key-84a03de3f8e3a4990ce1acdda53a6275]
+## 8. Safety and environmental management system[^c-84a03de3f8e3a4990ce1acdda53a6275]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84a03de3f8e3a4990ce1acdda53a6275]: Commencement: Reg. 8 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-84a03de3f8e3a4990ce1acdda53a6275]: Commencement: Reg. 8 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

@@ -27,7 +27,7 @@ summary: ''
 (3) Condition B is that the prescription—
 
 - (a) is written in ink or otherwise so as to be indelible; or
-- (b) in the case of a health prescription which is not for a product subject to special medical prescription[^key-7027fcb71380a3a65b3cb2f34f3c6e2a], is written as described in sub-paragraph (a) or by means of carbon paper or similar material.
+- (b) in the case of a health prescription which is not for a product subject to special medical prescription[^c-7027fcb71380a3a65b3cb2f34f3c6e2a], is written as described in sub-paragraph (a) or by means of carbon paper or similar material.
 
 (4) Condition C is that the prescription contains the following particulars—
 
@@ -58,11 +58,11 @@ summary: ''
 
 (8) This regulation—
 
-- (a) does not apply to a prescription given by an approved country health professional[^key-1a6c3fca7e49e56334c98336499e142d] (as to which see regulation 218); and
+- (a) does not apply to a prescription given by an approved country health professional[^c-1a6c3fca7e49e56334c98336499e142d] (as to which see regulation 218); and
 - (b) is subject to regulation 219 (electronic prescriptions).
 
 ## Annotations
 
-[^key-7027fcb71380a3a65b3cb2f34f3c6e2a]: Textual amendment: Words in reg. 217(3)(b) substituted (E.W.S.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.I. 2014/490)](https://www.legislation.gov.uk/uksi/2014/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/490/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2014/490/regulation/5/2/b) and words in reg. 217(3)(b) substituted (N.I.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.R. 2014/323)](https://www.legislation.gov.uk/nisr/2014/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/323/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/nisr/2014/323/regulation/5/2/b)
+[^c-7027fcb71380a3a65b3cb2f34f3c6e2a]: Textual amendment: Words in reg. 217(3)(b) substituted (E.W.S.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.I. 2014/490)](https://www.legislation.gov.uk/uksi/2014/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/490/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2014/490/regulation/5/2/b) and words in reg. 217(3)(b) substituted (N.I.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.R. 2014/323)](https://www.legislation.gov.uk/nisr/2014/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/323/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/nisr/2014/323/regulation/5/2/b)
 
-[^key-1a6c3fca7e49e56334c98336499e142d]: Textual amendment: Words in reg. 217(8)(a) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [182](https://www.legislation.gov.uk/uksi/2019/775/regulation/182); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a6c3fca7e49e56334c98336499e142d]: Textual amendment: Words in reg. 217(8)(a) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [182](https://www.legislation.gov.uk/uksi/2019/775/regulation/182); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

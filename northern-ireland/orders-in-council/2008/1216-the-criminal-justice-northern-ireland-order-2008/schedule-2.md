@@ -178,7 +178,7 @@ Article 12(3).
 
 #### The Domestic Violence, Crime and Victims Act 2004 (c. 28)
 
-**30.** An offence under section 5 (causing or allowing a child or vulnerable adult to die or suffer serious physical harm[^key-d5baba4acfb4dacaea8772be60bad939] ).
+**30.** An offence under section 5 (causing or allowing a child or vulnerable adult to die or suffer serious physical harm[^c-d5baba4acfb4dacaea8772be60bad939] ).
 
 #### The Firearms (Northern Ireland) Order 2004 (NI 3)
 
@@ -193,14 +193,14 @@ Article 12(3).
 
 **31A.**[^M_F_6125b777-3334-4b4d-abb9-de41f1024576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### The Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015[^key-844c27b42d9514faa24dd4818f798642]
+#### The Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015[^c-844c27b42d9514faa24dd4818f798642]
 
 **31A.** An offence under—
 
 - section 1 (slavery, servitude and forced or compulsory labour);
 - section 2 (human trafficking) which is not within Part 2 of this Schedule.
 
-#### The Space Industry Act 2018 (c. 00)[^key-5b2b1a6c96476e51f4420e44eb1a9fd0]
+#### The Space Industry Act 2018 (c. 00)[^c-5b2b1a6c96476e51f4420e44eb1a9fd0]
 
 **31B.** An offence under—
 
@@ -210,7 +210,7 @@ Article 12(3).
 - paragraph 4 of that Schedule (endangering safety at spaceports), or
 - paragraph 5 of that Schedule (offences in relation to certain dangerous articles).
 
-#### The Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022[^key-1923528cd0fe1f9dd133808aa4a5fc7d]
+#### The Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022[^c-1923528cd0fe1f9dd133808aa4a5fc7d]
 
 **31C.** An offence under section 28 (non-fatal strangulation or asphyxiation).
 
@@ -390,7 +390,7 @@ Article 12(3).
 - Article 73 (intercourse with an animal),
 - Article 74 (sexual penetration of a corpse).
 
-#### The Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015[^key-e016923c3c2fb3a89159c64302f88e0e]
+#### The Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015[^c-e016923c3c2fb3a89159c64302f88e0e]
 
 **14A.** An offence under section 2 (human trafficking) committed with a view to exploitation that consists of or includes behaviour within section 3(3) of that Act (sexual exploitation)..2 (human trafficking) committed with a view to exploitation that consists of or includes behaviour within section 3(3) of that Act (sexual exploitation).
 
@@ -404,7 +404,7 @@ Article 12(3).
 
 **16.** An offence under Part 2 of the Serious Crime Act 2007 (c. 27) (encouraging or assisting crime) in relation to an offence specified in this Part of this Schedule.
 
-### PART 3 — Specified terrorism offences[^key-97df8380bae754d224b2c77a96fc91c1]
+### PART 3 — Specified terrorism offences[^c-97df8380bae754d224b2c77a96fc91c1]
 
 #### 1. The Terrorism Act 2000 (c. 11)
 
@@ -465,17 +465,17 @@ An offence under Part 2 of the Serious Crime Act 2007 (c. 27) (encouraging or as
 
 [^M_F_a48ebbbd-3b6d-4318-f74c-2d60293ebb3b]: Textual amendment: Sch. 2 Pt. 1 para. 28A omitted (12.4.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 14(b)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/14/b) (with [s. 25(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/5))
 
-[^key-d5baba4acfb4dacaea8772be60bad939]: Textual amendment: Words in [Sch. 2 para. 30](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2/paragraph/30) substituted (14.3.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 6 para. 4](https://www.legislation.gov.uk/nia/2015/9/schedule/6/paragraph/4) (with [Sch. 8 para. 11](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/11)); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/136/article/2/b)
+[^c-d5baba4acfb4dacaea8772be60bad939]: Textual amendment: Words in [Sch. 2 para. 30](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2/paragraph/30) substituted (14.3.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 6 para. 4](https://www.legislation.gov.uk/nia/2015/9/schedule/6/paragraph/4) (with [Sch. 8 para. 11](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/11)); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/136/article/2/b)
 
 [^c21524471]: Textual amendment: Sch. 2 Pt. I para. 31A and preceding cross-heading inserted (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 139(8)](https://www.legislation.gov.uk/ukpga/2009/25/section/139/8), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 38](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/38)); [S.I. 2010/28](https://www.legislation.gov.uk/uksi/2010/28), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/28/article/2/a)
 
 [^M_F_6125b777-3334-4b4d-abb9-de41f1024576]: Textual amendment: Sch. 2 Pt. 1 para. 31A omitted (12.4.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 14(c)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/14/c) (with [s. 25(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/5))
 
-[^key-844c27b42d9514faa24dd4818f798642]: Textual amendment: Sch. 2 Pt. 1 para. 31A and crossheading inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 5(3)](https://www.legislation.gov.uk/nia/2015/2/section/5/3), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
+[^c-844c27b42d9514faa24dd4818f798642]: Textual amendment: Sch. 2 Pt. 1 para. 31A and crossheading inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 5(3)](https://www.legislation.gov.uk/nia/2015/2/section/5/3), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
 
-[^key-5b2b1a6c96476e51f4420e44eb1a9fd0]: Textual amendment: [Sch. 2 Pt. 1 para. 31B](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2/part/1/paragraph/31B) and cross-heading inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 31](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/31); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-5b2b1a6c96476e51f4420e44eb1a9fd0]: Textual amendment: [Sch. 2 Pt. 1 para. 31B](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2/part/1/paragraph/31B) and cross-heading inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 31](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/31); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-1923528cd0fe1f9dd133808aa4a5fc7d]: Textual amendment: [Sch. 2 Pt. 1 para. 31C](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2/part/1/paragraph/31C) and cross-heading inserted (26.6.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/3/b); [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
+[^c-1923528cd0fe1f9dd133808aa4a5fc7d]: Textual amendment: [Sch. 2 Pt. 1 para. 31C](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2/part/1/paragraph/31C) and cross-heading inserted (26.6.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/nia/2022/19/schedule/4/paragraph/3/b); [S.R. 2023/87](https://www.legislation.gov.uk/nisr/2023/87), [art. 2(b)](https://www.legislation.gov.uk/nisr/2023/87/article/2/b)
 
 [^M_F_cf27dabd-6155-4bad-b92f-21d51f420627]: Textual amendment: Words in Sch. 2 Pt. 2 para.13 repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
 
@@ -487,6 +487,6 @@ An offence under Part 2 of the Serious Crime Act 2007 (c. 27) (encouraging or as
 
 [^M_F_ab12a212-fa96-4457-9d89-c1f77e38120c]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 14A](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2/part/2/paragraph/14A) substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 1 para 5](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/5), [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-e016923c3c2fb3a89159c64302f88e0e]: Textual amendment: Sch. 2 Pt. 2 para. 14A and crossheading inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 5(4)](https://www.legislation.gov.uk/nia/2015/2/section/5/4), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
+[^c-e016923c3c2fb3a89159c64302f88e0e]: Textual amendment: Sch. 2 Pt. 2 para. 14A and crossheading inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 5(4)](https://www.legislation.gov.uk/nia/2015/2/section/5/4), [28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2)
 
-[^key-97df8380bae754d224b2c77a96fc91c1]: Textual amendment: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2/part/3) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/11/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/5))
+[^c-97df8380bae754d224b2c77a96fc91c1]: Textual amendment: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/nisi/2008/1216/schedule/2/part/3) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/11/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/5))

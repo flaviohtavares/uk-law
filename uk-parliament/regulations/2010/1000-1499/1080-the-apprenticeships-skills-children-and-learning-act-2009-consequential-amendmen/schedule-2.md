@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-### PART 1 — DISSOLUTION OF THE LEARNING AND SKILLS COUNCIL FOR ENGLAND[^key-0612cec889e147a8cdd615395bac5741]
+### PART 1 — DISSOLUTION OF THE LEARNING AND SKILLS COUNCIL FOR ENGLAND[^c-0612cec889e147a8cdd615395bac5741]
 
 | Short title and chapter | Extent of repeal |
 | --- | --- |
@@ -98,14 +98,14 @@ summary: ''
 |  | Section 82. |
 |  | Section 86. |
 
-### PART 2 — SIXTH FORM COLLEGE SECTOR[^key-9db874c5873808fc1e713d7eedaadd85]
+### PART 2 — SIXTH FORM COLLEGE SECTOR[^c-9db874c5873808fc1e713d7eedaadd85]
 
 | Short title and chapter | Extent of repeal |
 | --- | --- |
 | Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13) | Sections 37 and 43. |
 | Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32) | In Schedule 21, paragraph 17. |
 
-### PART 3 — OTHER AMENDMENTS[^key-dcc8adaf3defab7e057444f8424459b8][^key-dcc8adaf3defab7e057444f8424459b8]
+### PART 3 — OTHER AMENDMENTS[^c-dcc8adaf3defab7e057444f8424459b8][^c-dcc8adaf3defab7e057444f8424459b8]
 
 | Short title and chapter | Extent of repeal |
 | --- | --- |
@@ -116,8 +116,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0612cec889e147a8cdd615395bac5741]: Commencement: Sch. 2 Pt. 1 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2)
+[^c-0612cec889e147a8cdd615395bac5741]: Commencement: Sch. 2 Pt. 1 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2)
 
-[^key-9db874c5873808fc1e713d7eedaadd85]: Commencement: Sch. 2 Pt. 2 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2)
+[^c-9db874c5873808fc1e713d7eedaadd85]: Commencement: Sch. 2 Pt. 2 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2)
 
-[^key-dcc8adaf3defab7e057444f8424459b8]: Commencement: Sch. 2 Pt. 3 in force at 31.3.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/3)
+[^c-dcc8adaf3defab7e057444f8424459b8]: Commencement: Sch. 2 Pt. 3 in force at 31.3.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/3)

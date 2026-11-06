@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Introduction[^key-ea811067b82942cbb6852deea1a2c549]
+## 105. Introduction[^c-ea811067b82942cbb6852deea1a2c549]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Finance Act 2000 in accordance with Articles 106 and 107.
 
 ## Annotations
 
-[^key-ea811067b82942cbb6852deea1a2c549]: Commencement: Art. 105 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-ea811067b82942cbb6852deea1a2c549]: Commencement: Art. 105 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

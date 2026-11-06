@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Review of operation of Act etc. after 2026 general election[^key-4e1af9000fe868361d5cafa7cdd4e7fa]
+## 19. Review of operation of Act etc. after 2026 general election[^c-4e1af9000fe868361d5cafa7cdd4e7fa]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e1af9000fe868361d5cafa7cdd4e7fa]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2024/4/section/19) in force at 24.8.2024, see [s. 25(2)(d)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/d)
+[^c-4e1af9000fe868361d5cafa7cdd4e7fa]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2024/4/section/19) in force at 24.8.2024, see [s. 25(2)(d)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/d)

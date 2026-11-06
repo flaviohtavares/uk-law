@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^key-f9d8507974cba8d352df693ac7eb3398]
+## SCHEDULE 6 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^c-f9d8507974cba8d352df693ac7eb3398]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ Table 5
 | (i) | To install, retain, use, maintain, inspect, alter, remove, refurbish, reconstruct, replace, protect and improve gatehouses and weighbridges and any other ancillary apparatus and any other works as necessary |
 | (j) | Restrictions on erecting buildings or structures, altering ground levels, planting trees or carrying out operations or actions which may obstruct, interrupt or interfere with the exercise of rights |
 
-Table 6[^key-b71294aca693024fd98e5c3eea3fc421]
+Table 6[^c-b71294aca693024fd98e5c3eea3fc421]
 
 | *(1)*<br>*Plot* | *(2)*<br>*Class of rights listed in Table 5 applicable to the plot* |
 | --- | --- |
@@ -76,6 +76,6 @@ Table 6[^key-b71294aca693024fd98e5c3eea3fc421]
 
 ## Annotations
 
-[^key-f9d8507974cba8d352df693ac7eb3398]: Commencement: Sch. 6 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-f9d8507974cba8d352df693ac7eb3398]: Commencement: Sch. 6 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
 
-[^key-b71294aca693024fd98e5c3eea3fc421]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2020/847/schedule/6) Table 6 substituted (23.5.2025) by [The Immingham Open Cycle Gas Turbine (Amendment) (No. 3) Order 2025 (S.I. 2025/622)](https://www.legislation.gov.uk/uksi/2025/622), [arts. 1](https://www.legislation.gov.uk/uksi/2025/622/article/1), [8](https://www.legislation.gov.uk/uksi/2025/622/article/8)
+[^c-b71294aca693024fd98e5c3eea3fc421]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2020/847/schedule/6) Table 6 substituted (23.5.2025) by [The Immingham Open Cycle Gas Turbine (Amendment) (No. 3) Order 2025 (S.I. 2025/622)](https://www.legislation.gov.uk/uksi/2025/622), [arts. 1](https://www.legislation.gov.uk/uksi/2025/622/article/1), [8](https://www.legislation.gov.uk/uksi/2025/622/article/8)

@@ -35,7 +35,7 @@ An Act to rename the Office of the First Minister and deputy First Minister, the
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. The Northern Ireland departments[^key-3cafd4179071a861a6960eb1560853f7]
+## 1. The Northern Ireland departments[^c-3cafd4179071a861a6960eb1560853f7]
 
 (1) The Office of the First Minister and deputy First Minister is renamed the Executive Office.
 
@@ -61,7 +61,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (12) The provisions of the Departments (Northern Ireland) Order 1999 apply in relation to the departments set out in Schedule 1.
 
-## 2. Consequential repeals[^key-81935966480c0da334ad5cd125ab77c4]
+## 2. Consequential repeals[^c-81935966480c0da334ad5cd125ab77c4]
 
 The statutory provisions set out in Schedule 2 are repealed to the extent specified in the second column of that Schedule.
 
@@ -73,11 +73,11 @@ The statutory provisions set out in Schedule 2 are repealed to the extent specif
 
 SCHEDULES
 
-## SCHEDULE 1 — THE NORTHERN IRELAND DEPARTMENTS[^key-870cbfb03709579e5339a2e39ef56b68]
+## SCHEDULE 1 — THE NORTHERN IRELAND DEPARTMENTS[^c-870cbfb03709579e5339a2e39ef56b68]
 
 Section 1(11).
 
-[^key-870cbfb03709579e5339a2e39ef56b68]
+[^c-870cbfb03709579e5339a2e39ef56b68]
 
 - The Executive Office
 - The Department of Agriculture, Environment and Rural Affairs
@@ -89,7 +89,7 @@ Section 1(11).
 - The Department for Infrastructure
 - The Department of Justice
 
-## SCHEDULE 2 — REPEALS[^key-c2df7cf7eecfac1a996cf4814ceb3af4]
+## SCHEDULE 2 — REPEALS[^c-c2df7cf7eecfac1a996cf4814ceb3af4]
 
 Section 2.
 
@@ -105,10 +105,10 @@ Section 2.
 
 ## Annotations
 
-[^key-3cafd4179071a861a6960eb1560853f7]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/5/section/1) in operation at 8.5.2016 by [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
+[^c-3cafd4179071a861a6960eb1560853f7]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/5/section/1) in operation at 8.5.2016 by [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
 
-[^key-81935966480c0da334ad5cd125ab77c4]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/5/section/2) in operation at 8.5.2016 by [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
+[^c-81935966480c0da334ad5cd125ab77c4]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/5/section/2) in operation at 8.5.2016 by [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
 
-[^key-870cbfb03709579e5339a2e39ef56b68]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2016/5/schedule/1) in operation at 8.5.2016 by [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
+[^c-870cbfb03709579e5339a2e39ef56b68]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2016/5/schedule/1) in operation at 8.5.2016 by [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
 
-[^key-c2df7cf7eecfac1a996cf4814ceb3af4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2016/5/schedule/2) in operation at 8.5.2016 by [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
+[^c-c2df7cf7eecfac1a996cf4814ceb3af4]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2016/5/schedule/2) in operation at 8.5.2016 by [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)

@@ -44,13 +44,13 @@ Coming into force
 
 16th January 2012
 
-The Secretary of State makes the following Order in exercise of the powers conferred by section 11(2) of the Police Reform and Social Responsibility Act 2011[^f00001].[^key-8cae7ba730c825833f31764958557490][^key-57aac874f05205dd29b2aff8fb8c59d0][^key-51f80ee13e5a2d0859885fe4bdabd783]
+The Secretary of State makes the following Order in exercise of the powers conferred by section 11(2) of the Police Reform and Social Responsibility Act 2011[^f00001].[^c-8cae7ba730c825833f31764958557490][^c-57aac874f05205dd29b2aff8fb8c59d0][^c-51f80ee13e5a2d0859885fe4bdabd783]
 
-## 1. Citation, commencement and interpretation[^key-1b4252ae82131b360b9448531c24275a]
+## 1. Citation, commencement and interpretation[^c-1b4252ae82131b360b9448531c24275a]
 
 (1) This Order may be cited as the Elected Local Policing Bodies (Specified Information) Order 2011 and comes into force on 16th January 2012.
 
-(2)[^key-eb8110aa020ab2f9a59b5952177dd7a1][^key-8925403cdcd04375953786f14b174efe] In this Order—
+(2)[^c-eb8110aa020ab2f9a59b5952177dd7a1][^c-8925403cdcd04375953786f14b174efe] In this Order—
 
 - “the 2011 Act” means the Police Reform and Social Responsibility Act 2011;
 - “election” means—
@@ -62,20 +62,20 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - “senior employee” means a member of the staff of an elected local policing body whose salary exceeds £58,200; and
 - “staff”, where the elected local policing body is a police and crime commissioner, does not include a deputy police and crime commissioner appointed by the commissioner.
 
-## 2. Specified information[^key-28e6556b6df6436b19678ae292777a00]
+## 2. Specified information[^c-28e6556b6df6436b19678ae292777a00]
 
 (1) For the purposes of section 11(1) of the Police Reform and Social Responsibility Act 2011, the Secretary of State specifies—
 
-- (a) the information set out in Part 1 of the Schedule; [^key-f0ed51babc02637be8577c59bf808484]...
-- (b) the times of publication set out in Part 2 of the Schedule , and[^key-3470049613581e0bb1361d357dcbe6da]
-- (c)[^key-c33e398d766ce57d5be20a3277d81523] the manner of publication set out in Part 3 of the Schedule
+- (a) the information set out in Part 1 of the Schedule; [^c-f0ed51babc02637be8577c59bf808484]...
+- (b) the times of publication set out in Part 2 of the Schedule , and[^c-3470049613581e0bb1361d357dcbe6da]
+- (c)[^c-c33e398d766ce57d5be20a3277d81523] the manner of publication set out in Part 3 of the Schedule
 
 (2) Nothing in this Order applies to information if publication of that information—
 
 - (a) would, in the view of the chief officer of police, be against the interests of national security;
 - (b) might, in the view of the chief officer of police, jeopardise the safety of any person;
-- (c) might, in the view of the chief officer of police, prejudice the prevention or detection of crime, the apprehension or prosecution of offenders, or the administration of justice; [^key-9222012235fa3db2fb81b5998a528a89]...
-- (d) is prohibited by or under any enactment ; or[^key-bb3daa21e282b3ff1c6f9c65c430f1ec]
+- (c) might, in the view of the chief officer of police, prejudice the prevention or detection of crime, the apprehension or prosecution of offenders, or the administration of justice; [^c-9222012235fa3db2fb81b5998a528a89]...
+- (d) is prohibited by or under any enactment ; or[^c-bb3daa21e282b3ff1c6f9c65c430f1ec]
 - (e) is required under the Procurement Act 2023.
 
 Nick Herbert
@@ -86,20 +86,20 @@ Home Office
 
 20th December 2011
 
-## SCHEDULE — PART 1 – INFORMATION[^key-22b8c7c51ea37b8b62fb21876563d707][^M_C_41322124-1dfa-4eeb-c2af-f8fb4b10976b]
+## SCHEDULE — PART 1 – INFORMATION[^c-22b8c7c51ea37b8b62fb21876563d707][^M_C_41322124-1dfa-4eeb-c2af-f8fb4b10976b]
 
 Article 2
 
-**1.**[^key-c4665f212d9fac7d2e45bd4e631d2213] In relation to the relevant office holders of the elected local policing body—
+**1.**[^c-c4665f212d9fac7d2e45bd4e631d2213] In relation to the relevant office holders of the elected local policing body—
 
 - (a) the name of each relevant office holder;
 - (b) the address for correspondence of each relevant office holder;
 - (c) the salary of each relevant office holder;
 - (d) the allowances paid to each relevant office holder in respect of expenses incurred by the office holder in the exercise of the body’s functions;
 - (e) a register of interests of relevant office holders, including every paid employment or office or other pecuniary interest of each relevant office holder.
-- (f) the number of complaints or conduct matters that have been brought to the attention of a relevant office holder by the police and crime panel (either because they have been referred to the Director General of the Independent Office for Police Conduct[^key-3ba7ccff7212afc1aebbd681881be6e8], or because they are being subjected to informal resolution by the panel).
+- (f) the number of complaints or conduct matters that have been brought to the attention of a relevant office holder by the police and crime panel (either because they have been referred to the Director General of the Independent Office for Police Conduct[^c-3ba7ccff7212afc1aebbd681881be6e8], or because they are being subjected to informal resolution by the panel).
 
-**2.**[^key-6e5131f76963925e12c99ad8c096b60a] In relation to the staff (and, in relation to gifts and hospitality, also the relevant office holders) of the elected local policing body—
+**2.**[^c-6e5131f76963925e12c99ad8c096b60a] In relation to the staff (and, in relation to gifts and hospitality, also the relevant office holders) of the elected local policing body—
 
 - (a) the number of members of the staff;
 - (b) the proportion of the staff who—
@@ -110,14 +110,14 @@ Article 2
 - (d) the job title, responsibilities and salary of each senior employee and (unless the senior employee refuses to consent to the publication of his name) the name of the senior employee;
 - (e) a register of each offer of a gift or hospitality made to a relevant office holder or member of staff, indicating whether the offer was accepted or refused.
 
-**2A.**[^key-d5c3e01b9814f0366309e7887e506861] In relation to—
+**2A.**[^c-d5c3e01b9814f0366309e7887e506861] In relation to—
 
 - (a) the duty of the chief officer of the police force maintained by the elected local policing body to provide assistance to the body under section 2(5) or 4(5) of the 2011 Act; and
 - (b) the power of a local authority to provide administrative, professional or technical services to the elected local policing body under section 1(1) of the Local Authorities (Goods and Services) Act 1970[^f00003],
 
 information as to any arrangements for use by the elected local policing body of the staff of the chief officer or of a local authority under those provisions.
 
-**3.**[^key-f519226acff18a13e454685f90070927] In relation to the income and expenditure of the elected local policing body—
+**3.**[^c-f519226acff18a13e454685f90070927] In relation to the income and expenditure of the elected local policing body—
 
 - (a) the total budget of the elected local policing body;
 - (b) where the elected local policing body is a police and crime commissioner, the precept issued by the commissioner;
@@ -125,17 +125,17 @@ information as to any arrangements for use by the elected local policing body of
 - (d) information as to the proposed expenditure of the elected local policing body;
 - (e) a copy of the annual investment strategy of the elected local policing body;
 - (f) information as to each crime and disorder reduction grant made by the elected local policing body, including the conditions (if any) attached to the grant, the recipient of the grant, the purpose of the grant and the reasons why the body considered that the grant would secure, or contribute to securing, crime and disorder reduction in the body’s area;
-- (g)[^key-358c8c008e209164bc69a8c09c4ff501] information as to each item of expenditure of—
+- (g)[^c-358c8c008e209164bc69a8c09c4ff501] information as to each item of expenditure of—
   - (i) the elected local policing body, or
   - (ii) the chief officer of the police force maintained by the body,
 
-  exceeding £500 (other than a crime and disorder reduction grant made by the elected local policing body or an item of expenditure to which sub-paragraph (h) applies[^key-8dda9048790528059507b66cada9d0de]), including the recipient of the funds, the purpose of the expenditure and the reasons why the body or the chief officer (as the case may be) considered that good value for money would be obtained;
-- (h)[^key-bfb49eeb87c991d2acdc72bba4ad5d39] information as to each item of expenditure of the elected local policing body in relation to travel by, accommodation for, or the subsistence of, a relevant office holder, including the recipient of the funds, the purpose of the expenditure and the reasons why the elected local policing body considered that good value for money would be obtained.
+  exceeding £500 (other than a crime and disorder reduction grant made by the elected local policing body or an item of expenditure to which sub-paragraph (h) applies[^c-8dda9048790528059507b66cada9d0de]), including the recipient of the funds, the purpose of the expenditure and the reasons why the body or the chief officer (as the case may be) considered that good value for money would be obtained;
+- (h)[^c-bfb49eeb87c991d2acdc72bba4ad5d39] information as to each item of expenditure of the elected local policing body in relation to travel by, accommodation for, or the subsistence of, a relevant office holder, including the recipient of the funds, the purpose of the expenditure and the reasons why the elected local policing body considered that good value for money would be obtained.
 
-**4.**[^key-5b2dbd4453463695f3dfee040b1bf900] In relation to the property, rights and liabilities of the elected local policing body—
+**4.**[^c-5b2dbd4453463695f3dfee040b1bf900] In relation to the property, rights and liabilities of the elected local policing body—
 
 - (a) the identity of any premises or land owned by, or occupied for the purposes of, the elected local policing body;
-- (b)[^key-20b781cbb075f413fd033d47151473f2] a copy of each contract with a value exceeding £10,000 to which—
+- (b)[^c-20b781cbb075f413fd033d47151473f2] a copy of each contract with a value exceeding £10,000 to which—
   - (i) the elected local policing body, or
   - (ii) the chief officer of the police force maintained by the body,
 
@@ -151,23 +151,23 @@ information as to any arrangements for use by the elected local policing body of
 
   is or is to be a party, including the value of the contract, the identity of every other party to the contract and the purpose of the contract.
 
-**5.**[^key-440904d1fd5795e07ff68187507dd7c6] In relation to the decisions of the elected local policing body—
+**5.**[^c-440904d1fd5795e07ff68187507dd7c6] In relation to the decisions of the elected local policing body—
 
 - (a) the date, time and place of each public meeting to be held by the elected local policing body;
 - (b) a copy of the agenda for each public meeting held by the elected local policing body, and any report or other document that is the subject matter of an item on the agenda;
 - (c) a copy of the minutes of each public meeting held by the elected local policing body, and of each meeting which is not a public meeting but at which matters of significant public interest arising from the exercise of the body’s functions are discussed.
 - (d) a record of each decision of significant public interest arising from the exercise of the elected local policing body’s functions, whether made by the body at or as a result of a meeting or otherwise.
 
-**6.**[^key-10c2759b60f16ad878a2a0c7729e379b] In relation to the policies of the elected local policing body—
+**6.**[^c-10c2759b60f16ad878a2a0c7729e379b] In relation to the policies of the elected local policing body—
 
 - (a) a statement of the policy of the elected local policing body in relation to the conduct of relevant office holders, including procedures for the handling of qualifying complaints and conduct matters (within the meaning of section 31 of the 2011 Act);
 - (b) a statement of the policy of the elected local policing body in relation to the making of decisions of significant public interest arising from the exercise of the body’s functions;
 - (c) a statement of the policy of the elected local policing body in relation to records management, including procedures for the security and sharing of information and the retention and destruction of documents;
 - (d) a statement of the policy of the elected local policing body in relation to the handling of qualifying disclosures (within the meaning of section 43B of the Employment Rights Act 1996[^f00004]).
 
-**7.**[^key-37e19edf18c8a94c630dc9576425db6b] In relation to the prevention of crime and disorder, a copy of any report required by the elected local policing body from the responsible authorities for a local government area under section 7(1) of the Crime and Disorder Act 1998[^f00005].
+**7.**[^c-37e19edf18c8a94c630dc9576425db6b] In relation to the prevention of crime and disorder, a copy of any report required by the elected local policing body from the responsible authorities for a local government area under section 7(1) of the Crime and Disorder Act 1998[^f00005].
 
-**7A.**[^key-d7b70a73b5be7f11905a6da0a0d1901a] In relation to the key national priorities for policing, as communicated to elected local policing bodies by the Secretary of State—
+**7A.**[^c-d7b70a73b5be7f11905a6da0a0d1901a] In relation to the key national priorities for policing, as communicated to elected local policing bodies by the Secretary of State—
 
 - (a) a statement on the contribution of the police force maintained by the elected local policing body to achieving improvements against those priorities;
 - (b) an explanation of which of the national priorities are assessed to be applicable and which not applicable in the context of the relevant police area and the reasons for that assessment.
@@ -191,37 +191,37 @@ information as to any arrangements for use by the elected local policing body of
   - (ii) an assessment by the elected local policing body of its performance in exercising its functions under paragraph 30(1)(b) of Schedule 3 to the Police Reform Act 2002 (reviews: the relevant review body);
   - (iii) where the elected local policing body has given notice to the chief officer of the police force maintained by the body under section 13A of the Police Reform Act 2002 (local policing bodies: functions in relation to complaints) that it is to exercise certain functions of the chief officer in relation to complaints, an assessment by the body of its performance in exercising those functions.
 
-**8.**[^key-319193e2c3fc6275db999506cd7b6784][^key-9ac2ac4c00c0566acda8f736632545a4] In relation to the independent custody visitor arrangements made under section 51 of the Police Reform Act 2002, information as to the operation of the arrangements.
+**8.**[^c-319193e2c3fc6275db999506cd7b6784][^c-9ac2ac4c00c0566acda8f736632545a4] In relation to the independent custody visitor arrangements made under section 51 of the Police Reform Act 2002, information as to the operation of the arrangements.
 
 ### PART 2 – TIMES OF PUBLICATION
 
-**9.**[^key-53c42b5d979d0dcc0481296f8a3b4553] The information specified in the following provisions is to be published as soon as practicable after an election, and shall be reviewed each year thereafter and any variation published—
+**9.**[^c-53c42b5d979d0dcc0481296f8a3b4553] The information specified in the following provisions is to be published as soon as practicable after an election, and shall be reviewed each year thereafter and any variation published—
 
 - (a) paragraph 1(a) to (c);
 - (b) paragraph (2)(d);
 - (c) paragraph (4)(a);
 - (d) paragraph 6;
-- (e)[^key-3b83194c753154fbf7eaf013767ffd47] paragraph 8.
+- (e)[^c-3b83194c753154fbf7eaf013767ffd47] paragraph 8.
 
-**10.**[^key-17253fa3a423ec41b6eee5c9f33dd82a] The information specified in paragraph 3(a) to (e) is to be published in respect of each financial year, before the beginning of the financial year to which it relates.
+**10.**[^c-17253fa3a423ec41b6eee5c9f33dd82a] The information specified in paragraph 3(a) to (e) is to be published in respect of each financial year, before the beginning of the financial year to which it relates.
 
-**11.**[^key-4e0b05a1ecc4ce7cc5a9b363aec3722f] The information specified in paragraph 1(f) is to be published in respect of each financial year, as soon as practicable after the end of the financial year to which it relates.
+**11.**[^c-4e0b05a1ecc4ce7cc5a9b363aec3722f] The information specified in paragraph 1(f) is to be published in respect of each financial year, as soon as practicable after the end of the financial year to which it relates.
 
-**12.**[^key-1c9c3eb4b04fcf30f6a663bc8fa4fa8b] The information specified in paragraphs 2(a) to (c) and 2A[^key-0cce6ca2d59627d674830da995d277da] is to be published as soon as practicable after an election, and shall be reviewed every six months thereafter and any variation published.
+**12.**[^c-1c9c3eb4b04fcf30f6a663bc8fa4fa8b] The information specified in paragraphs 2(a) to (c) and 2A[^c-0cce6ca2d59627d674830da995d277da] is to be published as soon as practicable after an election, and shall be reviewed every six months thereafter and any variation published.
 
-**13.**[^key-ec7512be7b99ec43c2d2a55fbc6ebf56][^key-47f13957ce23b3b17a8ab7f2fa14cd3a] The information specified in paragraphs 1(d) , 3(h)[^key-adb83984bf55b1e17899f12a8b008e64] and 4(d) is to be published quarterly, as soon as practicable after the end of the quarter to which it relates.
+**13.**[^c-ec7512be7b99ec43c2d2a55fbc6ebf56][^c-47f13957ce23b3b17a8ab7f2fa14cd3a] The information specified in paragraphs 1(d) , 3(h)[^c-adb83984bf55b1e17899f12a8b008e64] and 4(d) is to be published quarterly, as soon as practicable after the end of the quarter to which it relates.
 
-**14.**[^key-59c25d3d316f0eae80cb802a7757d8fd] The information specified in paragraph 3(f) and (g) is to be published each month, as soon as practicable after the end of the month to which it relates.
+**14.**[^c-59c25d3d316f0eae80cb802a7757d8fd] The information specified in paragraph 3(f) and (g) is to be published each month, as soon as practicable after the end of the month to which it relates.
 
-**15.**[^key-22cd913261986628837efe3a70dddbf0] The information specified in paragraphs 1(e) and 2(e) is to be published as soon as practicable after an election, and any variation is to be published as soon as practicable after it becomes known to the elected local policing body.
+**15.**[^c-22cd913261986628837efe3a70dddbf0] The information specified in paragraphs 1(e) and 2(e) is to be published as soon as practicable after an election, and any variation is to be published as soon as practicable after it becomes known to the elected local policing body.
 
-**16.**[^key-ebbb70939dd5ef52954e594b63a7cec4] The information specified in the following provisions is to be published as soon as practicable after it becomes available to the elected local policing body—
+**16.**[^c-ebbb70939dd5ef52954e594b63a7cec4] The information specified in the following provisions is to be published as soon as practicable after it becomes available to the elected local policing body—
 
 - (a) paragraph 4(b) and (c);
 - (b) paragraph 5;
 - (c) paragraph 7.
 
-**16A.**[^key-edbae09f4f440f574d5c1398e25c0091] The information specified in paragraph 7A—
+**16A.**[^c-edbae09f4f440f574d5c1398e25c0091] The information specified in paragraph 7A—
 
 - (a) is to be published at the same time as the elected local policing body’s police and crime plan issued in accordance with section 5(1) of the 2011 Act (police and crime commissioners to issue police and crime plans), and
 - (b) is to be reviewed, and any variation published—
@@ -238,12 +238,12 @@ information as to any arrangements for use by the elected local policing body of
 - (a) paragraph 7C(a) is to be published within the period of one month beginning with the date of publication of the data or report referred to in that sub-paragraph;
 - (b) paragraph 7C(b) is to be published annually, within the period of one month beginning with the date of publication of the annual statistics report referred to in paragraph 7C(a).
 
-**17.**[^key-1e503d0e809671264475a401b2ea3e0f] Where a police and crime commissioner is also a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 the commissioner must publish the information in sub-paragraphs (a) and (b) in a consolidated form rather than in relation to each relevant office holder separately—
+**17.**[^c-1e503d0e809671264475a401b2ea3e0f] Where a police and crime commissioner is also a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 the commissioner must publish the information in sub-paragraphs (a) and (b) in a consolidated form rather than in relation to each relevant office holder separately—
 
 - (a) in relation to an elected local policing body the information specified in paragraph 1(a), (b), (c) and (e); and
 - (b) in relation to a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 the information specified in paragraph 1(a),(b), (c) and (e) as applied with modifications to such an authority by the Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017.
 
-### Part 3 — Manner of Publication[^key-41d54033c2eaed0e6af9c736a9691cdc]
+### Part 3 — Manner of Publication[^c-41d54033c2eaed0e6af9c736a9691cdc]
 
 **18.** The information specified in paragraphs 7A, 7B and 7C is to be published in a prominent place on the website of the elected local policing body.
 
@@ -263,100 +263,100 @@ Article 2(2) of the Order has the effect that information that would otherwise b
 
 [^f00001]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-8cae7ba730c825833f31764958557490]: Modification: [Order](https://www.legislation.gov.uk/uksi/2011/3050) applied (with modifications) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [28](https://www.legislation.gov.uk/uksi/2017/863/article/28), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/863/schedule/1)
+[^c-8cae7ba730c825833f31764958557490]: Modification: [Order](https://www.legislation.gov.uk/uksi/2011/3050) applied (with modifications) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [28](https://www.legislation.gov.uk/uksi/2017/863/article/28), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/863/schedule/1)
 
-[^key-57aac874f05205dd29b2aff8fb8c59d0]: Modification: [Order](https://www.legislation.gov.uk/uksi/2011/3050) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 50](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/50)
+[^c-57aac874f05205dd29b2aff8fb8c59d0]: Modification: [Order](https://www.legislation.gov.uk/uksi/2011/3050) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 50](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/50)
 
-[^key-51f80ee13e5a2d0859885fe4bdabd783]: Modification: [Order](https://www.legislation.gov.uk/uksi/2011/3050) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/50)
+[^c-51f80ee13e5a2d0859885fe4bdabd783]: Modification: [Order](https://www.legislation.gov.uk/uksi/2011/3050) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/50)
 
-[^key-1b4252ae82131b360b9448531c24275a]: Commencement: Art. 1 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-1b4252ae82131b360b9448531c24275a]: Commencement: Art. 1 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-eb8110aa020ab2f9a59b5952177dd7a1]: Modification: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/2) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 50(2)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/50/2)
+[^c-eb8110aa020ab2f9a59b5952177dd7a1]: Modification: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/2) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 50(2)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/50/2)
 
-[^key-8925403cdcd04375953786f14b174efe]: Modification: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/2) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 50(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/50/2)
+[^c-8925403cdcd04375953786f14b174efe]: Modification: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/2) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 50(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/50/2)
 
 [^f00002]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-28e6556b6df6436b19678ae292777a00]: Commencement: Art. 2 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-28e6556b6df6436b19678ae292777a00]: Commencement: Art. 2 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-f0ed51babc02637be8577c59bf808484]: Textual amendment: Word in [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2011/3050/article/2/1/a) omitted (31.5.2021) by virtue of [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2021 (S.I. 2021/547)](https://www.legislation.gov.uk/uksi/2021/547), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/547/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/547/article/2/2/a)
+[^c-f0ed51babc02637be8577c59bf808484]: Textual amendment: Word in [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2011/3050/article/2/1/a) omitted (31.5.2021) by virtue of [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2021 (S.I. 2021/547)](https://www.legislation.gov.uk/uksi/2021/547), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/547/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/547/article/2/2/a)
 
-[^key-3470049613581e0bb1361d357dcbe6da]: Textual amendment: Word in [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2011/3050/article/2/1/b) inserted (31.5.2021) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2021 (S.I. 2021/547)](https://www.legislation.gov.uk/uksi/2021/547), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/547/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/547/article/2/2/b)
+[^c-3470049613581e0bb1361d357dcbe6da]: Textual amendment: Word in [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2011/3050/article/2/1/b) inserted (31.5.2021) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2021 (S.I. 2021/547)](https://www.legislation.gov.uk/uksi/2021/547), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/547/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/547/article/2/2/b)
 
-[^key-c33e398d766ce57d5be20a3277d81523]: Textual amendment: [Art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/3050/article/2/1/c) inserted (31.5.2021) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2021 (S.I. 2021/547)](https://www.legislation.gov.uk/uksi/2021/547), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/547/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/547/article/2/2/c)
+[^c-c33e398d766ce57d5be20a3277d81523]: Textual amendment: [Art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/3050/article/2/1/c) inserted (31.5.2021) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2021 (S.I. 2021/547)](https://www.legislation.gov.uk/uksi/2021/547), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/547/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/547/article/2/2/c)
 
-[^key-9222012235fa3db2fb81b5998a528a89]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/uksi/2011/3050/article/2/2) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/15/2/a)
+[^c-9222012235fa3db2fb81b5998a528a89]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/uksi/2011/3050/article/2/2) omitted (24.2.2025) by virtue of [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2025/163/regulation/15/2/a)
 
-[^key-bb3daa21e282b3ff1c6f9c65c430f1ec]: Textual amendment: [Art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2011/3050/article/2/2/e) and word inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/15/2/b)
+[^c-bb3daa21e282b3ff1c6f9c65c430f1ec]: Textual amendment: [Art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2011/3050/article/2/2/e) and word inserted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2025/163/regulation/15/2/b)
 
-[^key-22b8c7c51ea37b8b62fb21876563d707]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2011/3050/schedule) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 50(3)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/50/3)
+[^c-22b8c7c51ea37b8b62fb21876563d707]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2011/3050/schedule) modified (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 50(3)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/50/3)
 
 [^M_C_41322124-1dfa-4eeb-c2af-f8fb4b10976b]: Modification: Sch. modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 50(3)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/50/3)
 
-[^key-c4665f212d9fac7d2e45bd4e631d2213]: Commencement: Sch. para. 1 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-c4665f212d9fac7d2e45bd4e631d2213]: Commencement: Sch. para. 1 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-3ba7ccff7212afc1aebbd681881be6e8]: Textual amendment: Words in [Sch. para. 1(f)](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/1/f) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [20](https://www.legislation.gov.uk/uksi/2017/1250/regulation/20) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-3ba7ccff7212afc1aebbd681881be6e8]: Textual amendment: Words in [Sch. para. 1(f)](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/1/f) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [20](https://www.legislation.gov.uk/uksi/2017/1250/regulation/20) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-6e5131f76963925e12c99ad8c096b60a]: Commencement: Sch. para. 2 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-6e5131f76963925e12c99ad8c096b60a]: Commencement: Sch. para. 2 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
 [^f00003]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-d5c3e01b9814f0366309e7887e506861]: Textual amendment: [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/2A) inserted (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [3](https://www.legislation.gov.uk/uksi/2012/2479/article/3)
+[^c-d5c3e01b9814f0366309e7887e506861]: Textual amendment: [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/2A) inserted (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [3](https://www.legislation.gov.uk/uksi/2012/2479/article/3)
 
-[^key-f519226acff18a13e454685f90070927]: Commencement: Sch. para. 3 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-f519226acff18a13e454685f90070927]: Commencement: Sch. para. 3 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-358c8c008e209164bc69a8c09c4ff501]: Textual amendment: [Sch. para. 3(g)](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/3/g) substituted (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [4](https://www.legislation.gov.uk/uksi/2012/2479/article/4)
+[^c-358c8c008e209164bc69a8c09c4ff501]: Textual amendment: [Sch. para. 3(g)](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/3/g) substituted (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [4](https://www.legislation.gov.uk/uksi/2012/2479/article/4)
 
-[^key-8dda9048790528059507b66cada9d0de]: Textual amendment: Words in [Sch. para. 3(g)](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/3/g) inserted (12.8.2013) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2013 (S.I. 2013/1816)](https://www.legislation.gov.uk/uksi/2013/1816), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1816/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/1816/article/3/a)
+[^c-8dda9048790528059507b66cada9d0de]: Textual amendment: Words in [Sch. para. 3(g)](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/3/g) inserted (12.8.2013) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2013 (S.I. 2013/1816)](https://www.legislation.gov.uk/uksi/2013/1816), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1816/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/1816/article/3/a)
 
-[^key-bfb49eeb87c991d2acdc72bba4ad5d39]: Textual amendment: [Sch. para. 3(h)](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/3/h) inserted (12.8.2013) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2013 (S.I. 2013/1816)](https://www.legislation.gov.uk/uksi/2013/1816), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1816/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/1816/article/3/b)
+[^c-bfb49eeb87c991d2acdc72bba4ad5d39]: Textual amendment: [Sch. para. 3(h)](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/3/h) inserted (12.8.2013) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2013 (S.I. 2013/1816)](https://www.legislation.gov.uk/uksi/2013/1816), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1816/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/1816/article/3/b)
 
-[^key-5b2dbd4453463695f3dfee040b1bf900]: Commencement: Sch. para. 4 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-5b2dbd4453463695f3dfee040b1bf900]: Commencement: Sch. para. 4 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-20b781cbb075f413fd033d47151473f2]: Textual amendment: [Sch. para. 4(b)-(d)](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/4/b/d) substituted for [Sch. para. 4(b)(c)](https://www.legislation.gov.uk/uksi/2011/3050/schedule) (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [5](https://www.legislation.gov.uk/uksi/2012/2479/article/5)
+[^c-20b781cbb075f413fd033d47151473f2]: Textual amendment: [Sch. para. 4(b)-(d)](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/4/b/d) substituted for [Sch. para. 4(b)(c)](https://www.legislation.gov.uk/uksi/2011/3050/schedule) (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [5](https://www.legislation.gov.uk/uksi/2012/2479/article/5)
 
-[^key-440904d1fd5795e07ff68187507dd7c6]: Commencement: Sch. para. 5 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-440904d1fd5795e07ff68187507dd7c6]: Commencement: Sch. para. 5 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-10c2759b60f16ad878a2a0c7729e379b]: Commencement: Sch. para. 6 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-10c2759b60f16ad878a2a0c7729e379b]: Commencement: Sch. para. 6 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
 [^f00004]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18). Section 43B was inserted by section 1 of the Public Interest Disclosures Act [1998 (c. 23)](https://www.legislation.gov.uk/ukpga/1998/23).
 
-[^key-37e19edf18c8a94c630dc9576425db6b]: Commencement: Sch. para. 7 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-37e19edf18c8a94c630dc9576425db6b]: Commencement: Sch. para. 7 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
 [^f00005]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37). Section 7 is amended by Schedule 11 to the 2011 Act.
 
-[^key-d7b70a73b5be7f11905a6da0a0d1901a]: Textual amendment: [Sch. paras. 7A-7C](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/7A) inserted (31.5.2021) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2021 (S.I. 2021/547)](https://www.legislation.gov.uk/uksi/2021/547), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/547/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/547/article/2/3)
+[^c-d7b70a73b5be7f11905a6da0a0d1901a]: Textual amendment: [Sch. paras. 7A-7C](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/7A) inserted (31.5.2021) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2021 (S.I. 2021/547)](https://www.legislation.gov.uk/uksi/2021/547), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/547/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/547/article/2/3)
 
-[^key-319193e2c3fc6275db999506cd7b6784]: Commencement: Sch. para. 8 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-319193e2c3fc6275db999506cd7b6784]: Commencement: Sch. para. 8 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-9ac2ac4c00c0566acda8f736632545a4]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/8) substituted (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [6](https://www.legislation.gov.uk/uksi/2012/2479/article/6)
+[^c-9ac2ac4c00c0566acda8f736632545a4]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/8) substituted (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [6](https://www.legislation.gov.uk/uksi/2012/2479/article/6)
 
-[^key-53c42b5d979d0dcc0481296f8a3b4553]: Commencement: Sch. para. 9 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-53c42b5d979d0dcc0481296f8a3b4553]: Commencement: Sch. para. 9 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-3b83194c753154fbf7eaf013767ffd47]: Textual amendment: [Sch. para. 9(e)](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/9/e) inserted (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [7](https://www.legislation.gov.uk/uksi/2012/2479/article/7)
+[^c-3b83194c753154fbf7eaf013767ffd47]: Textual amendment: [Sch. para. 9(e)](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/9/e) inserted (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [7](https://www.legislation.gov.uk/uksi/2012/2479/article/7)
 
-[^key-17253fa3a423ec41b6eee5c9f33dd82a]: Commencement: Sch. para. 10 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-17253fa3a423ec41b6eee5c9f33dd82a]: Commencement: Sch. para. 10 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-4e0b05a1ecc4ce7cc5a9b363aec3722f]: Commencement: Sch. para. 11 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-4e0b05a1ecc4ce7cc5a9b363aec3722f]: Commencement: Sch. para. 11 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-1c9c3eb4b04fcf30f6a663bc8fa4fa8b]: Commencement: Sch. para. 12 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-1c9c3eb4b04fcf30f6a663bc8fa4fa8b]: Commencement: Sch. para. 12 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-0cce6ca2d59627d674830da995d277da]: Textual amendment: Words in [Sch. para. 12](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/12) substituted (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [8](https://www.legislation.gov.uk/uksi/2012/2479/article/8)
+[^c-0cce6ca2d59627d674830da995d277da]: Textual amendment: Words in [Sch. para. 12](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/12) substituted (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [8](https://www.legislation.gov.uk/uksi/2012/2479/article/8)
 
-[^key-ec7512be7b99ec43c2d2a55fbc6ebf56]: Commencement: Sch. para. 13 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-ec7512be7b99ec43c2d2a55fbc6ebf56]: Commencement: Sch. para. 13 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-47f13957ce23b3b17a8ab7f2fa14cd3a]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/13) substituted (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [9](https://www.legislation.gov.uk/uksi/2012/2479/article/9)
+[^c-47f13957ce23b3b17a8ab7f2fa14cd3a]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/13) substituted (22.11.2012) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2012 (S.I. 2012/2479)](https://www.legislation.gov.uk/uksi/2012/2479), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2479/article/1), [9](https://www.legislation.gov.uk/uksi/2012/2479/article/9)
 
-[^key-adb83984bf55b1e17899f12a8b008e64]: Textual amendment: Word in [Sch. para. 13](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/13) inserted (12.8.2013) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2013 (S.I. 2013/1816)](https://www.legislation.gov.uk/uksi/2013/1816), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1816/article/1), [4](https://www.legislation.gov.uk/uksi/2013/1816/article/4)
+[^c-adb83984bf55b1e17899f12a8b008e64]: Textual amendment: Word in [Sch. para. 13](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/13) inserted (12.8.2013) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2013 (S.I. 2013/1816)](https://www.legislation.gov.uk/uksi/2013/1816), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1816/article/1), [4](https://www.legislation.gov.uk/uksi/2013/1816/article/4)
 
-[^key-59c25d3d316f0eae80cb802a7757d8fd]: Commencement: Sch. para. 14 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-59c25d3d316f0eae80cb802a7757d8fd]: Commencement: Sch. para. 14 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-22cd913261986628837efe3a70dddbf0]: Commencement: Sch. para. 15 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-22cd913261986628837efe3a70dddbf0]: Commencement: Sch. para. 15 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-ebbb70939dd5ef52954e594b63a7cec4]: Commencement: Sch. para. 16 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
+[^c-ebbb70939dd5ef52954e594b63a7cec4]: Commencement: Sch. para. 16 in force at 16.1.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/3050/article/1/1)
 
-[^key-edbae09f4f440f574d5c1398e25c0091]: Textual amendment: [Sch. paras. 16A-16C](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/16A) inserted (31.5.2021) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2021 (S.I. 2021/547)](https://www.legislation.gov.uk/uksi/2021/547), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/547/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/547/article/2/4)
+[^c-edbae09f4f440f574d5c1398e25c0091]: Textual amendment: [Sch. paras. 16A-16C](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/16A) inserted (31.5.2021) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2021 (S.I. 2021/547)](https://www.legislation.gov.uk/uksi/2021/547), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/547/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/547/article/2/4)
 
-[^key-1e503d0e809671264475a401b2ea3e0f]: Textual amendment: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/17) inserted (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2017/863/schedule/2/paragraph/6/2)
+[^c-1e503d0e809671264475a401b2ea3e0f]: Textual amendment: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2011/3050/schedule/paragraph/17) inserted (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2017/863/schedule/2/paragraph/6/2)
 
-[^key-41d54033c2eaed0e6af9c736a9691cdc]: Textual amendment: [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2011/3050/schedule/part/3) inserted (31.5.2021) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2021 (S.I. 2021/547)](https://www.legislation.gov.uk/uksi/2021/547), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/547/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/547/article/2/5)
+[^c-41d54033c2eaed0e6af9c736a9691cdc]: Textual amendment: [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2011/3050/schedule/part/3) inserted (31.5.2021) by [The Elected Local Policing Bodies (Specified Information) (Amendment) Order 2021 (S.I. 2021/547)](https://www.legislation.gov.uk/uksi/2021/547), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/547/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/547/article/2/5)

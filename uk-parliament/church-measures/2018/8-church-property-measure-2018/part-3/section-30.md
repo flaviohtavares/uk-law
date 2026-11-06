@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 30. Land subject to rights of common[^key-cc4ae4e06e34f72925bf9e9f5220f5ee]
+## 30. Land subject to rights of common[^c-cc4ae4e06e34f72925bf9e9f5220f5ee]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc4ae4e06e34f72925bf9e9f5220f5ee]: Commencement: [S. 30](https://www.legislation.gov.uk/ukcm/2018/8/section/30) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-cc4ae4e06e34f72925bf9e9f5220f5ee]: Commencement: [S. 30](https://www.legislation.gov.uk/ukcm/2018/8/section/30) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

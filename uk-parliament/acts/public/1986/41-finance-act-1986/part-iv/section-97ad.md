@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97AD. Exception for transfers of shares held by issuing company[^key-75904253ec7c33069c9bfad3bdc3b777]
+## 97AD. Exception for transfers of shares held by issuing company[^c-75904253ec7c33069c9bfad3bdc3b777]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ There is to be no charge to tax under section 93 or 96 in respect of a transfer 
 
 ## Annotations
 
-[^key-75904253ec7c33069c9bfad3bdc3b777]: Textual amendment: Ss. 97AB-97AD and cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/15)
+[^c-75904253ec7c33069c9bfad3bdc3b777]: Textual amendment: Ss. 97AB-97AD and cross-heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/15)

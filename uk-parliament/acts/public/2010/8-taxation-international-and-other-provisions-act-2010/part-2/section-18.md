@@ -36,7 +36,7 @@ credit is to be allowed against any income tax, corporation tax or capital gains
 
 but see sections 12(3) and 63(5) (dividends: certain tax payable otherwise than under the law of a territory treated as payable under that law).
 
-(3A)[^key-f02e20796db4ba8d679b39a177d7ee22] References in subsection (3) to tax payable under the law of a territory outside the United Kingdom do not include tax paid by a company in relation to which an election under section 18A of CTA 2009 (exemption for profits or losses of overseas permanent establishments) has effect in respect of a relevant profits amount or relevant losses amount within the meaning of that section.
+(3A)[^c-f02e20796db4ba8d679b39a177d7ee22] References in subsection (3) to tax payable under the law of a territory outside the United Kingdom do not include tax paid by a company in relation to which an election under section 18A of CTA 2009 (exemption for profits or losses of overseas permanent establishments) has effect in respect of a relevant profits amount or relevant losses amount within the meaning of that section.
 
 (4) Subsection (2) applies subject to—
 
@@ -50,4 +50,4 @@ but see sections 12(3) and 63(5) (dividends: certain tax payable otherwise than 
 
 ## Annotations
 
-[^key-f02e20796db4ba8d679b39a177d7ee22]: Textual amendment: S. 18(3A) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 26](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/26), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
+[^c-f02e20796db4ba8d679b39a177d7ee22]: Textual amendment: S. 18(3A) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 26](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/26), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)

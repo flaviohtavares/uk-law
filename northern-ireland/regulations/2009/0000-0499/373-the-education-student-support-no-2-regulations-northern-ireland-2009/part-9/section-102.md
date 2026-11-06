@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 102. Overpayments of fee support[^key-e16332ae4f03b6373bbc772659246f36]
+## 102. Overpayments of fee support[^c-e16332ae4f03b6373bbc772659246f36]
 
 *Extent: N.I.*
 
@@ -25,21 +25,21 @@ summary: ''
 - (a) the academic authority; or
 - (b) the student in respect of whom the payment of fee support was made.
 
-(1A)[^key-39d62431039ba9c5faa953ecb22760de] A student must, if so required by the Department, repay any amount of fee support paid to the student, or in respect of the student, which for whatever reason exceeds the amount of fee support to which the student is entitled.
+(1A)[^c-39d62431039ba9c5faa953ecb22760de] A student must, if so required by the Department, repay any amount of fee support paid to the student, or in respect of the student, which for whatever reason exceeds the amount of fee support to which the student is entitled.
 
-(2) An overpayment of a fee loan or relevant institution charge loan[^key-cdd2a38e064fd727e6d20b9459eb06c6] may be recovered from a student under paragraph (1)(b) in whichever one or more of the following ways the Department considers appropriate in all the circumstances,—
+(2) An overpayment of a fee loan or relevant institution charge loan[^c-cdd2a38e064fd727e6d20b9459eb06c6] may be recovered from a student under paragraph (1)(b) in whichever one or more of the following ways the Department considers appropriate in all the circumstances,—
 
 - (a) by subtracting the overpayment from any amount on the fee loan or relevant institution charge loan which remains to be paid;
-- (aa)[^key-880d54eb3a5eb0402173e97949b39f0e] by subtracting the overpayment from any kind of grant or loan payable under Article 3 of the Order;
+- (aa)[^c-880d54eb3a5eb0402173e97949b39f0e] by subtracting the overpayment from any kind of grant or loan payable under Article 3 of the Order;
 - (b) by requiring the student to repay the fee loan or relevant institution charge loan in accordance with regulations made under Article 3 of the Order;
 - (c) by taking such other action for the recovery of an overpayment as is available to the Department.
 
 ## Annotations
 
-[^key-e16332ae4f03b6373bbc772659246f36]: Textual amendment: [Reg. 102](https://www.legislation.gov.uk/nisr/2009/373/regulation/102) substituted (21.3.2012) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/62)](https://www.legislation.gov.uk/nisr/2012/62), [regs. 1](https://www.legislation.gov.uk/nisr/2012/62/regulation/1), [7](https://www.legislation.gov.uk/nisr/2012/62/regulation/7)
+[^c-e16332ae4f03b6373bbc772659246f36]: Textual amendment: [Reg. 102](https://www.legislation.gov.uk/nisr/2009/373/regulation/102) substituted (21.3.2012) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/62)](https://www.legislation.gov.uk/nisr/2012/62), [regs. 1](https://www.legislation.gov.uk/nisr/2012/62/regulation/1), [7](https://www.legislation.gov.uk/nisr/2012/62/regulation/7)
 
-[^key-39d62431039ba9c5faa953ecb22760de]: Textual amendment: [Reg. 102(1A)](https://www.legislation.gov.uk/nisr/2009/373/regulation/102/1A) inserted (29.2.2016) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/21)](https://www.legislation.gov.uk/nisr/2016/21), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/21/regulation/1/2), [6(a)](https://www.legislation.gov.uk/nisr/2016/21/regulation/6/a)
+[^c-39d62431039ba9c5faa953ecb22760de]: Textual amendment: [Reg. 102(1A)](https://www.legislation.gov.uk/nisr/2009/373/regulation/102/1A) inserted (29.2.2016) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/21)](https://www.legislation.gov.uk/nisr/2016/21), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/21/regulation/1/2), [6(a)](https://www.legislation.gov.uk/nisr/2016/21/regulation/6/a)
 
-[^key-cdd2a38e064fd727e6d20b9459eb06c6]: Textual amendment: Words in [reg. 102(2)](https://www.legislation.gov.uk/nisr/2009/373/regulation/102/2) inserted (6.6.2013 with application in accordance with reg. 1(2)) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/128)](https://www.legislation.gov.uk/nisr/2013/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/128/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2013/128/regulation/15)
+[^c-cdd2a38e064fd727e6d20b9459eb06c6]: Textual amendment: Words in [reg. 102(2)](https://www.legislation.gov.uk/nisr/2009/373/regulation/102/2) inserted (6.6.2013 with application in accordance with reg. 1(2)) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/128)](https://www.legislation.gov.uk/nisr/2013/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/128/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2013/128/regulation/15)
 
-[^key-880d54eb3a5eb0402173e97949b39f0e]: Textual amendment: [Reg. 102(2)(aa)](https://www.legislation.gov.uk/nisr/2009/373/regulation/102/2/aa) inserted (29.2.2016) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/21)](https://www.legislation.gov.uk/nisr/2016/21), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/21/regulation/1/2), [6(b)](https://www.legislation.gov.uk/nisr/2016/21/regulation/6/b)
+[^c-880d54eb3a5eb0402173e97949b39f0e]: Textual amendment: [Reg. 102(2)(aa)](https://www.legislation.gov.uk/nisr/2009/373/regulation/102/2/aa) inserted (29.2.2016) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/21)](https://www.legislation.gov.uk/nisr/2016/21), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2016/21/regulation/1/2), [6(b)](https://www.legislation.gov.uk/nisr/2016/21/regulation/6/b)

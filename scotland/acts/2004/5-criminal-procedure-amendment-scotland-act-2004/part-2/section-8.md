@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Engagement, dismissal and withdrawal of solicitor representing accused[^key-fe269ed777e0ee35b6da7bdddf7a6849]
+## 8. Engagement, dismissal and withdrawal of solicitor representing accused[^c-fe269ed777e0ee35b6da7bdddf7a6849]
 
 *Extent: S*
 
@@ -77,4 +77,4 @@ After section 72E of the 1995 Act (as inserted by section 2 of this Act), insert
 
 ## Annotations
 
-[^key-fe269ed777e0ee35b6da7bdddf7a6849]: Commencement: S. 8 in force at 4.12.2004 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-fe269ed777e0ee35b6da7bdddf7a6849]: Commencement: S. 8 in force at 4.12.2004 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

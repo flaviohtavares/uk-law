@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Amendment of rule 4[^key-ba316d35aad2be09bcc3be5be6175910]
+## 153. Amendment of rule 4[^c-ba316d35aad2be09bcc3be5be6175910]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba316d35aad2be09bcc3be5be6175910]: Commencement: Reg. 153 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-ba316d35aad2be09bcc3be5be6175910]: Commencement: Reg. 153 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00105]: Footnote: Rule 4 was substituted by [S.I. 2016/693](https://www.legislation.gov.uk/uksi/2016/693). There are other amendments but these are not relevant to these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Dataset and business rules[^key-22a7b7120b5cb2c3c85a98da31b158f0][^key-378a6f3e9f0bbab47deb66e2108dfbf1]
+## 24. Dataset and business rules[^c-22a7b7120b5cb2c3c85a98da31b158f0][^c-378a6f3e9f0bbab47deb66e2108dfbf1]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ A contract must contain a term requiring contractors to provide data, where appl
 
 ## Annotations
 
-[^key-22a7b7120b5cb2c3c85a98da31b158f0]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2023/953/regulation/24) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-22a7b7120b5cb2c3c85a98da31b158f0]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2023/953/regulation/24) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
 
-[^key-378a6f3e9f0bbab47deb66e2108dfbf1]: Textual amendment: Words in reg. 24 heading substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [13](https://www.legislation.gov.uk/wsi/2023/1421/regulation/13)
+[^c-378a6f3e9f0bbab47deb66e2108dfbf1]: Textual amendment: Words in reg. 24 heading substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [13](https://www.legislation.gov.uk/wsi/2023/1421/regulation/13)

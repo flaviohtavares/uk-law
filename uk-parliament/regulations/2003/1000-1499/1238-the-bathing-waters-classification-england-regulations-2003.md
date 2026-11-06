@@ -45,26 +45,26 @@ Coming into force
 
 1st June 2003
 
-[^key-7618a4533e35685bd3011e7e8b2c1b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7618a4533e35685bd3011e7e8b2c1b2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7618a4533e35685bd3011e7e8b2c1b2c]
+## 1. Citation and commencement[^c-7618a4533e35685bd3011e7e8b2c1b2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of provisions of the Water Resources Act 1991 and the Bathing Waters (Classification) Regulations 1991[^key-0c61c1ba0c4dc8e8c5f575cfb1606822]
+## 2. Modification of provisions of the Water Resources Act 1991 and the Bathing Waters (Classification) Regulations 1991[^c-0c61c1ba0c4dc8e8c5f575cfb1606822]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c61c1ba0c4dc8e8c5f575cfb1606822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c61c1ba0c4dc8e8c5f575cfb1606822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0c61c1ba0c4dc8e8c5f575cfb1606822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c61c1ba0c4dc8e8c5f575cfb1606822]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7618a4533e35685bd3011e7e8b2c1b2c]: Textual amendment: Regulations revoked (24.3.2015) by [The Bathing Water Regulations 2008 (S.I. 2008/1097)](https://www.legislation.gov.uk/uksi/2008/1097), regs. 1(4), [19(1)](https://www.legislation.gov.uk/uksi/2008/1097/regulation/19/1); and by [The Bathing Water Regulations 2013 (S.I. 2013/1675)](https://www.legislation.gov.uk/uksi/2013/1675), regs. 1(3), [19(2)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/19/2)
+[^c-7618a4533e35685bd3011e7e8b2c1b2c]: Textual amendment: Regulations revoked (24.3.2015) by [The Bathing Water Regulations 2008 (S.I. 2008/1097)](https://www.legislation.gov.uk/uksi/2008/1097), regs. 1(4), [19(1)](https://www.legislation.gov.uk/uksi/2008/1097/regulation/19/1); and by [The Bathing Water Regulations 2013 (S.I. 2013/1675)](https://www.legislation.gov.uk/uksi/2013/1675), regs. 1(3), [19(2)](https://www.legislation.gov.uk/uksi/2013/1675/regulation/19/2)
 
-[^key-0c61c1ba0c4dc8e8c5f575cfb1606822]: Textual amendment: Instrument revoked (24.3.2015) by The Bathing Water Regulations 2008 (S.I. 2008/1097), reg. 19(1)
+[^c-0c61c1ba0c4dc8e8c5f575cfb1606822]: Textual amendment: Instrument revoked (24.3.2015) by The Bathing Water Regulations 2008 (S.I. 2008/1097), reg. 19(1)

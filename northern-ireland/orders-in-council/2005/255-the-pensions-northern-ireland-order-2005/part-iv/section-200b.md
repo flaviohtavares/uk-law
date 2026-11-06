@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 200B. Statement of strategy[^key-b806dcbdc592476ff0028dbb9a65ca3b]
+## 200B. Statement of strategy[^c-b806dcbdc592476ff0028dbb9a65ca3b]
 
 *Extent: N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b806dcbdc592476ff0028dbb9a65ca3b]: Textual amendment: [Arts. 200A](https://www.legislation.gov.uk/nisi/2005/255/article/200A), [200B](https://www.legislation.gov.uk/nisi/2005/255/article/200B) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/2); [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)
+[^c-b806dcbdc592476ff0028dbb9a65ca3b]: Textual amendment: [Arts. 200A](https://www.legislation.gov.uk/nisi/2005/255/article/200A), [200B](https://www.legislation.gov.uk/nisi/2005/255/article/200B) inserted (11.2.2021 for specified purposes, 6.4.2024 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/2); [S.R. 2024/89](https://www.legislation.gov.uk/nisr/2024/89), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/89/article/2/b)

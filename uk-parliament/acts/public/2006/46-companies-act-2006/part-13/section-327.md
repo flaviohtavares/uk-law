@@ -39,7 +39,7 @@ summary: ''
 
 - (a) in the case of a meeting or adjourned meeting, 48 hours before the time for holding the meeting or adjourned meeting;
 - (b) in the case of a poll taken more than 48 hours after it was demanded, 24 hours before the time appointed for the taking of the poll;
-- (c)[^key-66f7c682b8e5163846af78a732df3365] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-66f7c682b8e5163846af78a732df3365] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In calculating the periods mentioned in subsection (2) no account shall be taken of any part of a day that is not a working day.
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c20624871]: Textual amendment: Words in s. 327(1) substituted (3.8.2009) by [The Companies (Shareholders' Rights) Regulations 2009 (S.I. 2009/1632)](https://www.legislation.gov.uk/uksi/2009/1632), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2009/1632/regulation/13/2) (with application as stated in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1632/regulation/1/2))
 
-[^key-66f7c682b8e5163846af78a732df3365]: Textual amendment: S. 327(2)(c) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(n)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/n), [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/29)
+[^c-66f7c682b8e5163846af78a732df3365]: Textual amendment: S. 327(2)(c) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(n)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/n), [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/29)

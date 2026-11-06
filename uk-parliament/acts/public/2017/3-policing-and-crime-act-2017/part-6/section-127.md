@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Possession of articles for conversion of imitation firearms[^c22719661][^key-4a2e7a9c8525792644ecaff156cba702]
+## 127. Possession of articles for conversion of imitation firearms[^c22719661][^c-4a2e7a9c8525792644ecaff156cba702]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ After section 4 of the Firearms Act 1968 (conversion of weapons) insert—
 
 [^c22719661]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2017/3/section/127) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-4a2e7a9c8525792644ecaff156cba702]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2017/3/section/127) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/c)
+[^c-4a2e7a9c8525792644ecaff156cba702]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2017/3/section/127) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/c)

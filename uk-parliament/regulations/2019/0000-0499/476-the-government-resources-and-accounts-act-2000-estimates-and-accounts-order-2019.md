@@ -48,13 +48,13 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 In accordance with section 4A(8) of that Act the Treasury have consulted, where they think it appropriate, the Scottish Ministers, the Department for Finance and Personnel for Northern Ireland and the Welsh Ministers.
 
-## 1. Citation and commencement[^key-d47b54288ee3dbc0ebc70f63000907cc]
+## 1. Citation and commencement[^c-d47b54288ee3dbc0ebc70f63000907cc]
 
 (1) This Order may be cited as the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2019.
 
 (2) This Order comes into force on 1st April 2019.
 
-## 2. Designations[^key-758fcc3be3ecaee022408833e838e3f6]
+## 2. Designations[^c-758fcc3be3ecaee022408833e838e3f6]
 
 A body which is listed in a Part of the Schedule to this Order is a designated body for the purposes of section 4A of the Government Resources and Accounts Act 2000—
 
@@ -67,7 +67,7 @@ Mike Freer
 
 Two of the Lords Commissioners of Her Majesty's Treasury
 
-## SCHEDULE — Designated Bodies[^key-0c429716ab80bc34f47a1fc37144e8a3]
+## SCHEDULE — Designated Bodies[^c-0c429716ab80bc34f47a1fc37144e8a3]
 
 Article 2
 
@@ -1011,8 +1011,8 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^c23624291]: Marginal citation: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20). Section 4A was inserted by section 43(2) of the [Constitutional Reform and Governance Act 2010 (c.25)](https://www.legislation.gov.uk/ukpga/2010/25).
 
-[^key-d47b54288ee3dbc0ebc70f63000907cc]: Commencement: Art. 1 in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/476/article/1/2)
+[^c-d47b54288ee3dbc0ebc70f63000907cc]: Commencement: Art. 1 in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/476/article/1/2)
 
-[^key-758fcc3be3ecaee022408833e838e3f6]: Commencement: Art. 2 in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/476/article/1/2)
+[^c-758fcc3be3ecaee022408833e838e3f6]: Commencement: Art. 2 in force at 1.4.2019, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/476/article/1/2)
 
-[^key-0c429716ab80bc34f47a1fc37144e8a3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2019/476/schedule) substituted (31.1.2020) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2020 (S.I. 2020/17)](https://www.legislation.gov.uk/uksi/2020/17), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/17/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/17/schedule)
+[^c-0c429716ab80bc34f47a1fc37144e8a3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2019/476/schedule) substituted (31.1.2020) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2020 (S.I. 2020/17)](https://www.legislation.gov.uk/uksi/2020/17), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/17/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/17/schedule)

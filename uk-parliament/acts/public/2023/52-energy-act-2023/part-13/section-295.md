@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 295. Interpretation of Chapter 1[^key-7a662f09d63d144fc5015672c042e621]
+## 295. Interpretation of Chapter 1[^c-7a662f09d63d144fc5015672c042e621]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a662f09d63d144fc5015672c042e621]: Commencement: [S. 295](https://www.legislation.gov.uk/ukpga/2023/52/section/295) in force at 26.12.2023, see [s. 334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j)
+[^c-7a662f09d63d144fc5015672c042e621]: Commencement: [S. 295](https://www.legislation.gov.uk/ukpga/2023/52/section/295) in force at 26.12.2023, see [s. 334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j)

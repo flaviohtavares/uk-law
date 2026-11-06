@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Tier 1 services[^key-7f7c5891fc20747c52a0eb8e35fe5612][^key-b0b5d0ffa6a6c7dc657914c994a5a599]
+## 37. Tier 1 services[^c-7f7c5891fc20747c52a0eb8e35fe5612][^c-b0b5d0ffa6a6c7dc657914c994a5a599]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,6 +87,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7f7c5891fc20747c52a0eb8e35fe5612]: Commencement: S. 37 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-7f7c5891fc20747c52a0eb8e35fe5612]: Commencement: S. 37 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-b0b5d0ffa6a6c7dc657914c994a5a599]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2024/15/section/37) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/o)
+[^c-b0b5d0ffa6a6c7dc657914c994a5a599]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2024/15/section/37) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/o)

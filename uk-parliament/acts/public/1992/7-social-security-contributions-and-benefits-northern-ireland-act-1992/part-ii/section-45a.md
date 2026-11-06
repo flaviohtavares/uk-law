@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Effect of family credit and disability working allowance on earnings factor.[^key-d863b3d00e1c3b1a876dbbbaa9e7dec1]
+## 45A. Effect of family credit and disability working allowance on earnings factor.[^c-d863b3d00e1c3b1a876dbbbaa9e7dec1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d863b3d00e1c3b1a876dbbbaa9e7dec1]: Textual amendment: S. 45A repealed (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(3)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/3/e), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/962/schedule/1) (with savings in [S.R. 2003/212](https://www.legislation.gov.uk/nisr/2003/212), [art. 2](https://www.legislation.gov.uk/nisr/2003/212/article/2))
+[^c-d863b3d00e1c3b1a876dbbbaa9e7dec1]: Textual amendment: S. 45A repealed (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(3)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/3/e), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/962/schedule/1) (with savings in [S.R. 2003/212](https://www.legislation.gov.uk/nisr/2003/212), [art. 2](https://www.legislation.gov.uk/nisr/2003/212/article/2))

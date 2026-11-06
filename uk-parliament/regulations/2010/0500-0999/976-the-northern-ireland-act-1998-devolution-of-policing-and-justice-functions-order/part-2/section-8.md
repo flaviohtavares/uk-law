@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Functions under the Serious Crime Act 2007[^key-0d4a9a46baca9a381ad1ddf8fde6efa1]
+## 8. Functions under the Serious Crime Act 2007[^c-0d4a9a46baca9a381ad1ddf8fde6efa1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 10 (which amends the Serious Crime Act 2007[^f00007]) has effect.
 
 ## Annotations
 
-[^key-0d4a9a46baca9a381ad1ddf8fde6efa1]: Commencement: Art. 8 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-0d4a9a46baca9a381ad1ddf8fde6efa1]: Commencement: Art. 8 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00007]: Footnote: [2007 c. 27](https://www.legislation.gov.uk/ukpga/2007/27).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Names suggesting connection with foreign governments etc[^key-7011948da363cbb6255effb5a1e7b54b][^key-caafc4c18717cc5977dfa4cfab4f50c6]
+## 9. Names suggesting connection with foreign governments etc[^c-7011948da363cbb6255effb5a1e7b54b][^c-caafc4c18717cc5977dfa4cfab4f50c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7011948da363cbb6255effb5a1e7b54b]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-7011948da363cbb6255effb5a1e7b54b]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-caafc4c18717cc5977dfa4cfab4f50c6]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/56/section/9) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/e)
+[^c-caafc4c18717cc5977dfa4cfab4f50c6]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/56/section/9) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/e)

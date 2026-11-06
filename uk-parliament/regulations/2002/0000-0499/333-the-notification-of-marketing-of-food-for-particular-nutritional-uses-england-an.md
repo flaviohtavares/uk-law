@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, ENGLAND AND WALES
 
-The Notification of Marketing of Food for Particular Nutritional Uses (England and Wales) Regulations 2002 (revoked)[^key-c4daa211584e1eb8a145899cf722d05d]
+The Notification of Marketing of Food for Particular Nutritional Uses (England and Wales) Regulations 2002 (revoked)[^c-c4daa211584e1eb8a145899cf722d05d]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 8th March 2002
 
-[^key-c4daa211584e1eb8a145899cf722d05d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4daa211584e1eb8a145899cf722d05d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-c4daa211584e1eb8a145899cf722d05d]
+## 1. Title, commencement and extent[^c-c4daa211584e1eb8a145899cf722d05d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c4daa211584e1eb8a145899cf722d05d]
+## 2. Interpretation[^c-c4daa211584e1eb8a145899cf722d05d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on sale[^key-c4daa211584e1eb8a145899cf722d05d]
+## 3. Restriction on sale[^c-c4daa211584e1eb8a145899cf722d05d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-c4daa211584e1eb8a145899cf722d05d]
+## 4. Enforcement[^c-c4daa211584e1eb8a145899cf722d05d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-c4daa211584e1eb8a145899cf722d05d]
+## 5. Offences and penalties[^c-c4daa211584e1eb8a145899cf722d05d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Food Safety Act 1990[^key-c4daa211584e1eb8a145899cf722d05d]
+## 6. Application of various provisions of the Food Safety Act 1990[^c-c4daa211584e1eb8a145899cf722d05d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4daa211584e1eb8a145899cf722d05d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4daa211584e1eb8a145899cf722d05d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c4daa211584e1eb8a145899cf722d05d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4daa211584e1eb8a145899cf722d05d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4daa211584e1eb8a145899cf722d05d]: Textual amendment: Regulations revoked (W.) (1.4.2007) by [The Notification of Marketing of Food for Particular Nutritional Uses (Wales) Regulations 2007 (S.I. 2007/1040)](https://www.legislation.gov.uk/uksi/2007/1040), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2007/1040/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2007/1040/regulation/8) and revoked (E.) (1.3.2007) by [The Notification of Marketing of Food for Particular Nutritional Uses (England) Regulations 2007 (S.I. 2007/181)](https://www.legislation.gov.uk/uksi/2007/181), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2007/181/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2007/181/regulation/8)
+[^c-c4daa211584e1eb8a145899cf722d05d]: Textual amendment: Regulations revoked (W.) (1.4.2007) by [The Notification of Marketing of Food for Particular Nutritional Uses (Wales) Regulations 2007 (S.I. 2007/1040)](https://www.legislation.gov.uk/uksi/2007/1040), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2007/1040/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2007/1040/regulation/8) and revoked (E.) (1.3.2007) by [The Notification of Marketing of Food for Particular Nutritional Uses (England) Regulations 2007 (S.I. 2007/181)](https://www.legislation.gov.uk/uksi/2007/181), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2007/181/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2007/181/regulation/8)

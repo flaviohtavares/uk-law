@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124O. Notification of failure in relation to internet domain registry[^key-1588df293203d3ca39a1d3afd70d3894]
+## 124O. Notification of failure in relation to internet domain registry[^c-1588df293203d3ca39a1d3afd70d3894]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1588df293203d3ca39a1d3afd70d3894]: Textual amendment: [S. 124O and cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/chapter/1/crossheading/powers-in-relation-to-internet-domain-registries) inserted (17.7.2023 for specified purposes, 6.4.2024 in so far as not already in force) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 19](https://www.legislation.gov.uk/ukpga/2010/24/section/19), [47(3)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/3/a); [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [arts. 2](https://www.legislation.gov.uk/uksi/2023/792/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2023/792/article/3/a)
+[^c-1588df293203d3ca39a1d3afd70d3894]: Textual amendment: [S. 124O and cross-heading](https://www.legislation.gov.uk/ukpga/2003/21/chapter/1/crossheading/powers-in-relation-to-internet-domain-registries) inserted (17.7.2023 for specified purposes, 6.4.2024 in so far as not already in force) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 19](https://www.legislation.gov.uk/ukpga/2010/24/section/19), [47(3)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/3/a); [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [arts. 2](https://www.legislation.gov.uk/uksi/2023/792/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2023/792/article/3/a)

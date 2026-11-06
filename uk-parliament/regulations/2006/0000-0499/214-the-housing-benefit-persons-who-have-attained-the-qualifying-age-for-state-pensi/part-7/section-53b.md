@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 53B. Amount of extended payment (qualifying contributory benefits)[^key-5ce29de3cbe5ef0645fc85097d2c2d89]
+## 53B. Amount of extended payment (qualifying contributory benefits)[^c-5ce29de3cbe5ef0645fc85097d2c2d89]
 
 (1) For any week during the extended payment period the amount of the extended payment (qualifying contributory benefits) payable to a claimant shall be the higher of—
 
@@ -46,4 +46,4 @@ the amount of the extended payment (qualifying contributory benefits) for any we
 
 ## Annotations
 
-[^key-5ce29de3cbe5ef0645fc85097d2c2d89]: Textual amendment: Regs. 53-53D substituted for reg. 53 (6.10.2008) by [Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/5/2)
+[^c-5ce29de3cbe5ef0645fc85097d2c2d89]: Textual amendment: Regs. 53-53D substituted for reg. 53 (6.10.2008) by [Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/5/2)

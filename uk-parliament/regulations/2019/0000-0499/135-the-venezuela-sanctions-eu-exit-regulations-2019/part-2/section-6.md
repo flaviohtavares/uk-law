@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Designation criteria: meaning of “involved person”[^key-27812a8fff65b942daa791ff3d0caef2][^key-7e972ee49fb2cccf0d3e5fc1f75e2bf1]
+## 6. Designation criteria: meaning of “involved person”[^c-27812a8fff65b942daa791ff3d0caef2][^c-7e972ee49fb2cccf0d3e5fc1f75e2bf1]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0cae69e33db8faa346a5e0b3eea1f009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0cae69e33db8faa346a5e0b3eea1f009] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) For the purposes of regulation 5A (conditions for the designation of persons by name)[^key-aefc37a130514ffd0378a7cef9f38d37] an “**involved person**” means a person who—
+(2) For the purposes of regulation 5A (conditions for the designation of persons by name)[^c-aefc37a130514ffd0378a7cef9f38d37] an “**involved person**” means a person who—
 
 - (a) is or has been involved in—
   - (i) the commission of a serious human rights violation or abuse in Venezuela,
@@ -42,8 +42,8 @@ summary: ''
 
 (4) In this regulation “**relevant provision**” means—
 
-- (a) any provision of Part 3 (Finance) or[^key-db184da43dd0ef176549bd53715e5591] Part 5 (Trade);
-- (b) any provision of the law of a country other than the United Kingdom made for purposes corresponding to a purpose of any provision of Part 3 (Finance) or[^key-499667f23eab2bd25707e59dc513b7bd] Part 5 (Trade).
+- (a) any provision of Part 3 (Finance) or[^c-db184da43dd0ef176549bd53715e5591] Part 5 (Trade);
+- (b) any provision of the law of a country other than the United Kingdom made for purposes corresponding to a purpose of any provision of Part 3 (Finance) or[^c-499667f23eab2bd25707e59dc513b7bd] Part 5 (Trade).
 
 (5) Nothing in any sub-paragraph of paragraph (3) is to be taken to limit the meaning of any of the other sub-paragraphs of that paragraph.
 
@@ -51,14 +51,14 @@ summary: ''
 
 ## Annotations
 
-[^key-27812a8fff65b942daa791ff3d0caef2]: Commencement: Reg. 6 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(e)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/e)
+[^c-27812a8fff65b942daa791ff3d0caef2]: Commencement: Reg. 6 in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(1)(e)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/1/e)
 
-[^key-7e972ee49fb2cccf0d3e5fc1f75e2bf1]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/135/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/2/4/a)
+[^c-7e972ee49fb2cccf0d3e5fc1f75e2bf1]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/135/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/2/4/a)
 
-[^key-0cae69e33db8faa346a5e0b3eea1f009]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2019/135/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/2/4/b)
+[^c-0cae69e33db8faa346a5e0b3eea1f009]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2019/135/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/2/4/b)
 
-[^key-aefc37a130514ffd0378a7cef9f38d37]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/135/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/2/4/c)
+[^c-aefc37a130514ffd0378a7cef9f38d37]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/135/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/2/4/c)
 
-[^key-db184da43dd0ef176549bd53715e5591]: Textual amendment: Words in [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2019/135/regulation/6/4/a) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2020/590/regulation/3/4/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-db184da43dd0ef176549bd53715e5591]: Textual amendment: Words in [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2019/135/regulation/6/4/a) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2020/590/regulation/3/4/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
 
-[^key-499667f23eab2bd25707e59dc513b7bd]: Textual amendment: Words in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2019/135/regulation/6/4/b) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2020/590/regulation/3/4/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-499667f23eab2bd25707e59dc513b7bd]: Textual amendment: Words in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2019/135/regulation/6/4/b) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2020/590/regulation/3/4/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)

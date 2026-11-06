@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Notification and advertisement of administrator’s appointment[^key-580424fe153020ab66b055d3fba44475]
+## 16. Notification and advertisement of administrator’s appointment[^c-580424fe153020ab66b055d3fba44475]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-580424fe153020ab66b055d3fba44475]: Commencement: [Rule 16](https://www.legislation.gov.uk/nisr/2026/11/rule/16) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-580424fe153020ab66b055d3fba44475]: Commencement: [Rule 16](https://www.legislation.gov.uk/nisr/2026/11/rule/16) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

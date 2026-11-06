@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 95. Treating a claimant as not having limited capability for work[^key-de8dd4dfa7b44395a9abcbaa270932fb]
+## 95. Treating a claimant as not having limited capability for work[^c-de8dd4dfa7b44395a9abcbaa270932fb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The claimant is to be treated as not having limited capability for work if the c
 
 ## Annotations
 
-[^key-de8dd4dfa7b44395a9abcbaa270932fb]: Commencement: [Reg. 95](https://www.legislation.gov.uk/nisr/2016/219/regulation/95) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-de8dd4dfa7b44395a9abcbaa270932fb]: Commencement: [Reg. 95](https://www.legislation.gov.uk/nisr/2016/219/regulation/95) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

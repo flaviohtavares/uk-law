@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31C. Prohibition on self-service and supply by vending machines[^key-49fd7cb423d006e00b0c04a746994c4c]
+## 31C. Prohibition on self-service and supply by vending machines[^c-49fd7cb423d006e00b0c04a746994c4c]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49fd7cb423d006e00b0c04a746994c4c]: Textual amendment: [Art. 31C](https://www.legislation.gov.uk/nisi/1996/3159/article/31C) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 39(1)](https://www.legislation.gov.uk/nia/2021/7/section/39/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-49fd7cb423d006e00b0c04a746994c4c]: Textual amendment: [Art. 31C](https://www.legislation.gov.uk/nisi/1996/3159/article/31C) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 39(1)](https://www.legislation.gov.uk/nia/2021/7/section/39/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

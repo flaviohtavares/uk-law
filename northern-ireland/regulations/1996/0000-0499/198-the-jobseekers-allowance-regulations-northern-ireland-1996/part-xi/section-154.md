@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 154. Reduction in certain cases[^key-39c39caadbe9b52f7a6f5a4686658734]
+## 154. Reduction in certain cases[^c-39c39caadbe9b52f7a6f5a4686658734]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The reduction to be made in accordance with Part IX (hardship) in respect of an 
 
 ## Annotations
 
-[^key-39c39caadbe9b52f7a6f5a4686658734]: Commencement: Reg. 154 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-39c39caadbe9b52f7a6f5a4686658734]: Commencement: Reg. 154 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

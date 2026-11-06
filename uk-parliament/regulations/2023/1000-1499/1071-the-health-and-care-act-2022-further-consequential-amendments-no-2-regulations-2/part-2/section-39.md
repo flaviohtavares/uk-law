@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Amendment of the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^key-6dab083fd1125906230b2599abf5ebfc]
+## 39. Amendment of the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^c-6dab083fd1125906230b2599abf5ebfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6dab083fd1125906230b2599abf5ebfc]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2023/1071/regulation/39) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-6dab083fd1125906230b2599abf5ebfc]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2023/1071/regulation/39) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00031]: Footnote: [S.I. 2009/2264](https://www.legislation.gov.uk/uksi/2009/2264), amended by [S.I. 2013/522](https://www.legislation.gov.uk/uksi/2013/522); there are other amending instruments but none is relevant.

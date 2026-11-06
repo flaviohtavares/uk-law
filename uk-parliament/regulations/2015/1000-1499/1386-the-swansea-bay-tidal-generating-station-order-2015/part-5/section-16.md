@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Application of Marine and Coastal Access Act 2009[^key-ad7b2c3357e6a2474c8c9d3c5f1c3948]
+## 16. Application of Marine and Coastal Access Act 2009[^c-ad7b2c3357e6a2474c8c9d3c5f1c3948]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad7b2c3357e6a2474c8c9d3c5f1c3948]: Commencement: Art. 16 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-ad7b2c3357e6a2474c8c9d3c5f1c3948]: Commencement: Art. 16 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

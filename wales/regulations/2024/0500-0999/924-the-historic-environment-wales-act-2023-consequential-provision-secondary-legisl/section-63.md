@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^key-62c39024bbd784f07da2a0460e071ff1]
+## 63. The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^c-62c39024bbd784f07da2a0460e071ff1]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In paragraph 12 of Schedule 1 to the Common Agricultural Policy (Integrated Admi
 
 ## Annotations
 
-[^key-62c39024bbd784f07da2a0460e071ff1]: Commencement: [Reg. 63](https://www.legislation.gov.uk/wsi/2024/924/regulation/63) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-62c39024bbd784f07da2a0460e071ff1]: Commencement: [Reg. 63](https://www.legislation.gov.uk/wsi/2024/924/regulation/63) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00038]: Footnote: [S.I. 2014/3223 (W. 328)](https://www.legislation.gov.uk/wsi/2014/3223), to which there are amendments not relevant to these Regulations.

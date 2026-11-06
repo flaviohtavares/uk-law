@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Amendment to regulation 231[^key-9993beef45debf84d004b2afa625c2f5]
+## 103. Amendment to regulation 231[^c-9993beef45debf84d004b2afa625c2f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 231(8)(a) (exemption for supply etc. under a PGD by independent ho
 
 ## Annotations
 
-[^key-9993beef45debf84d004b2afa625c2f5]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/2024/832/regulation/103) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-9993beef45debf84d004b2afa625c2f5]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/2024/832/regulation/103) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00111]: Footnote: Paragraph (8)(a) was substituted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488); there is an amendment to the paragraph not relevant to these Regulations.

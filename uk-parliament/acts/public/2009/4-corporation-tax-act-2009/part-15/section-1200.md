@@ -48,10 +48,10 @@ R is the rate of enhancement (see subsection (3)), and
 
 P is the total amount of the additional deductions given for previous periods.
 
-(3)[^key-3401098b97d34e050aca58d63bac904d] The rate of enhancement is 100%.
+(3)[^c-3401098b97d34e050aca58d63bac904d] The rate of enhancement is 100%.
 
 (4) The Treasury may by regulations amend the percentage specified in subsection (1) or (2).
 
 ## Annotations
 
-[^key-3401098b97d34e050aca58d63bac904d]: Textual amendment: S. 1200(3) substituted (with effect in accordance with s. 29(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/3); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)
+[^c-3401098b97d34e050aca58d63bac904d]: Textual amendment: S. 1200(3) substituted (with effect in accordance with s. 29(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 29(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/29/3); [S.I. 2015/1741](https://www.legislation.gov.uk/uksi/2015/1741), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1741/regulation/2)

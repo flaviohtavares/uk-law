@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200.[^key-82bd6044700b7ab26ed4b7fd9648a763]
+## 200.[^c-82bd6044700b7ab26ed4b7fd9648a763]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In Part 2 of Schedule 4 (index of expressions defined in this Act etc), insert a
 
 ## Annotations
 
-[^key-82bd6044700b7ab26ed4b7fd9648a763]: Commencement: Reg. 200 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-82bd6044700b7ab26ed4b7fd9648a763]: Commencement: Reg. 200 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1A. The Scottish Fire and Rescue Service[^key-a92c67a1939416c7249299af17a15903]
+## 1A. The Scottish Fire and Rescue Service[^c-a92c67a1939416c7249299af17a15903]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a92c67a1939416c7249299af17a15903]: Textual amendment: S. 1A inserted (8.8.2012 for the purpose of inserting s. 1A(1)(3), 1.4.2013 in so far as not already in force) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 101(1)](https://www.legislation.gov.uk/asp/2012/8/section/101/1), [129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-a92c67a1939416c7249299af17a15903]: Textual amendment: S. 1A inserted (8.8.2012 for the purpose of inserting s. 1A(1)(3), 1.4.2013 in so far as not already in force) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 101(1)](https://www.legislation.gov.uk/asp/2012/8/section/101/1), [129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

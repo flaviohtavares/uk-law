@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Members affected by court orders to former spouses and civil partners on death[^key-476307573a6e1ea59d8ad4bebf76759c]
+## 83. Members affected by court orders to former spouses and civil partners on death[^c-476307573a6e1ea59d8ad4bebf76759c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-476307573a6e1ea59d8ad4bebf76759c]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/2014/2336/regulation/83) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-476307573a6e1ea59d8ad4bebf76759c]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/2014/2336/regulation/83) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

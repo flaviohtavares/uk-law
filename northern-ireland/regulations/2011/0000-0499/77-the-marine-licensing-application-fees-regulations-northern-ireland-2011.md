@@ -44,15 +44,15 @@ Coming into operation
 
 The Department of the Environment, as the appropriate licensing authority under section 113(6)(b) of the Marine and Coastal Access Act 2009[^f00001], in exercise of the powers conferred by sections 67(2) and 316(1) of that Act, makes the following Regulations.
 
-## 1. Citation and commencement[^key-44dd03aef8576dba6cad6b8882e99c12]
+## 1. Citation and commencement[^c-44dd03aef8576dba6cad6b8882e99c12]
 
 These Regulations may be cited as the Marine Licensing (Application Fees) Regulations (Northern Ireland) 2011 and come into operation on 6th April 2011.
 
-## 2. Application[^key-299a1a56d21ecd28f60a4cec8afa56fb]
+## 2. Application[^c-299a1a56d21ecd28f60a4cec8afa56fb]
 
 These Regulations apply in relation to Northern Ireland and the Northern Ireland inshore region, and any application for a marine licence in relation to Northern Ireland or the Northern Ireland inshore region, for which the Department is the appropriate licensing authority[^f00002].
 
-## 3. Interpretation[^key-93fee997d7d21243271604fe46b91ed4]
+## 3. Interpretation[^c-93fee997d7d21243271604fe46b91ed4]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] applies to these Regulations as it applies to an Act of the Assembly.
 
@@ -61,7 +61,7 @@ These Regulations apply in relation to Northern Ireland and the Northern Ireland
 - “application” means an application for a marine licence made under section 67 of the Marine and Coastal Access Act 2009; and
 - “the Department” means the Department of the Environment.
 
-## 4. Payment[^key-5db3bf68b040eb061d0b6552ecd7afb2]
+## 4. Payment[^c-5db3bf68b040eb061d0b6552ecd7afb2]
 
 (1) All applications for a marine licence shall be accompanied by a fee to be paid to the Department.
 
@@ -76,7 +76,7 @@ These Regulations apply in relation to Northern Ireland and the Northern Ireland
 - (a) refuse to proceed with the application; or
 - (b) refuse to proceed with it until payment of the full fee has been made.
 
-## 5. Applications made on or after 1st April 2012[^key-0dbe0dbaa5fc8594f877d0f9b8399b04]
+## 5. Applications made on or after 1st April 2012[^c-0dbe0dbaa5fc8594f877d0f9b8399b04]
 
 (1) The fees payable in respect of applications are to be varied with effect from 1st April each year and the fee to accompany an application made on or after 1st April 2012 is to be determined in accordance with paragraph (2).
 
@@ -92,7 +92,7 @@ where —
 
 (3) In paragraph (2), “licensing year” means the period of 12 months starting on the 1st April.
 
-## 6. Repayment, waiver or reduction of fee[^key-89a956fdab84e0147a60d09686f835ee]
+## 6. Repayment, waiver or reduction of fee[^c-89a956fdab84e0147a60d09686f835ee]
 
 (1) Subject to paragraph (2), fees are non-refundable.
 
@@ -110,14 +110,14 @@ Department of the Environment
 
 ## SCHEDULE — Tables of fees to be paid for licensable marine activities.
 
-### PART 1 — DESCRIPTION OF FEE TABLES (USAGE)[^key-a648b0b930e2b454243423ccbf21a445]
+### PART 1 — DESCRIPTION OF FEE TABLES (USAGE)[^c-a648b0b930e2b454243423ccbf21a445]
 
-- 1. Table 1 (Marine Construction Licence) is categorised into 12[^key-7f2bb5a0f012d64bc69d917e1134894c] bands which reflect the size and scale of the project, in monetary terms. The applicant will be required to pay the licence fee (Column 2) on submission of an application.
+- 1. Table 1 (Marine Construction Licence) is categorised into 12[^c-7f2bb5a0f012d64bc69d917e1134894c] bands which reflect the size and scale of the project, in monetary terms. The applicant will be required to pay the licence fee (Column 2) on submission of an application.
 - 2. Tables 2 (Maintenance Dredging Licence), 3 (Capital Dredging Licence), 4 (Maintenance Dredge Disposal Licence) and 5 (Capital Dredge Disposal Licence) are all categorised into bands which reflect the metric tonnages of material to be dredged or disposed of. In each case, the applicant will be required to pay the Licence Fee (Column 2) on submission of an application.
 - 3. Tables 6 (Deposit of Tracer Dyes, Biocides and Other Such Materials Licence) and 7 (Marine Minerals Extraction Licence) each have a single band. The fee to be paid by the applicant on submission of an application is as indicated.
 - 4. Table 8 (Marine Renewable Energy Licence) is categorised into 4 bands which reflect the size and scale of the project, in terms of its output in Megawatts. The applicant will be required to pay the Licence Fee (Column 2) on submission of an application.
 
-### PART 2 — FEES PAYABLE[^key-1e2f0f2ebc5bd98fd9b32dae8f555f99]
+### PART 2 — FEES PAYABLE[^c-1e2f0f2ebc5bd98fd9b32dae8f555f99]
 
 Table 1
 
@@ -239,24 +239,24 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-44dd03aef8576dba6cad6b8882e99c12]: Commencement: Reg. 1 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
+[^c-44dd03aef8576dba6cad6b8882e99c12]: Commencement: Reg. 1 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
 
-[^key-299a1a56d21ecd28f60a4cec8afa56fb]: Commencement: Reg. 2 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
+[^c-299a1a56d21ecd28f60a4cec8afa56fb]: Commencement: Reg. 2 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
 
 [^f00002]: Footnote: Under Section 113(6)(a) of the Marine and Coastal Access Act 2009, the Secretary of State is the appropriate licensing authority in respect of anything done in the course of carrying on any activity which relates to a matter which is an excepted matter, by virtue of paragraph 4 of schedule 2 to the Northern Ireland Act [1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47) (defence of the realm etc.), in Northern Ireland and the Northern Ireland inshore region.
 
-[^key-93fee997d7d21243271604fe46b91ed4]: Commencement: Reg. 3 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
+[^c-93fee997d7d21243271604fe46b91ed4]: Commencement: Reg. 3 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-5db3bf68b040eb061d0b6552ecd7afb2]: Commencement: Reg. 4 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
+[^c-5db3bf68b040eb061d0b6552ecd7afb2]: Commencement: Reg. 4 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
 
-[^key-0dbe0dbaa5fc8594f877d0f9b8399b04]: Commencement: Reg. 5 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
+[^c-0dbe0dbaa5fc8594f877d0f9b8399b04]: Commencement: Reg. 5 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
 
-[^key-89a956fdab84e0147a60d09686f835ee]: Commencement: Reg. 6 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
+[^c-89a956fdab84e0147a60d09686f835ee]: Commencement: Reg. 6 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
 
-[^key-a648b0b930e2b454243423ccbf21a445]: Commencement: Sch. Pt. 1 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
+[^c-a648b0b930e2b454243423ccbf21a445]: Commencement: Sch. Pt. 1 in operation at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/77/regulation/1)
 
-[^key-7f2bb5a0f012d64bc69d917e1134894c]: Textual amendment: Word in [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2011/77/schedule/part/1/paragraph/1) substituted (1.1.2025) by [The Marine Licensing (Application Fees) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/204)](https://www.legislation.gov.uk/nisr/2024/204), [regs. 1](https://www.legislation.gov.uk/nisr/2024/204/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2024/204/regulation/3/1)
+[^c-7f2bb5a0f012d64bc69d917e1134894c]: Textual amendment: Word in [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2011/77/schedule/part/1/paragraph/1) substituted (1.1.2025) by [The Marine Licensing (Application Fees) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/204)](https://www.legislation.gov.uk/nisr/2024/204), [regs. 1](https://www.legislation.gov.uk/nisr/2024/204/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2024/204/regulation/3/1)
 
-[^key-1e2f0f2ebc5bd98fd9b32dae8f555f99]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2011/77/schedule/part/2) substituted (1.1.2025) by [The Marine Licensing (Application Fees) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/204)](https://www.legislation.gov.uk/nisr/2024/204), [regs. 1](https://www.legislation.gov.uk/nisr/2024/204/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2024/204/regulation/3/2)
+[^c-1e2f0f2ebc5bd98fd9b32dae8f555f99]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2011/77/schedule/part/2) substituted (1.1.2025) by [The Marine Licensing (Application Fees) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/204)](https://www.legislation.gov.uk/nisr/2024/204), [regs. 1](https://www.legislation.gov.uk/nisr/2024/204/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2024/204/regulation/3/2)

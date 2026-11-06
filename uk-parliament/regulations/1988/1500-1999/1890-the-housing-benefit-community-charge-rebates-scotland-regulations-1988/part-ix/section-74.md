@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Setting aside of determinations and decisions on certain grounds[^key-47cd3019ef8591b9407a93c2f6232cc2]
+## 74. Setting aside of determinations and decisions on certain grounds[^c-47cd3019ef8591b9407a93c2f6232cc2]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47cd3019ef8591b9407a93c2f6232cc2]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/1988/1890/regulation/74) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-47cd3019ef8591b9407a93c2f6232cc2]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/1988/1890/regulation/74) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

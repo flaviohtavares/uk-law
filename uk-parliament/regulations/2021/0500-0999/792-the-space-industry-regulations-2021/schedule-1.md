@@ -22,11 +22,11 @@ summary: ''
 
 Regulations 26, 27, 29
 
-### 1. General information[^key-ce54b6933f79b2dd4a695ae8a1c88dd2]
+### 1. General information[^c-ce54b6933f79b2dd4a695ae8a1c88dd2]
 
 A description of the proposed spaceflight activities including the proposed flight trajectory, any planned orbital parameters for the launch vehicle, any planned orbital parameters for any payload and details of any planned re-entry from orbit by the launch vehicle.
 
-**2.**[^key-6745dd46459a50d97bb6decd83e0b90d] General descriptions of—
+**2.**[^c-6745dd46459a50d97bb6decd83e0b90d] General descriptions of—
 
 - (a) the applicant’s organisation and management structure;
 - (b) the launch vehicle to be used including descriptions and, where appropriate, diagrams of—
@@ -43,15 +43,15 @@ A description of the proposed spaceflight activities including the proposed flig
   - (ii) any structures in them built by humans or built for human use or benefit, and
   - (iii) the existing and expected locations of humans and areas of habitation within those areas.
 
-**3.**[^key-12f41f25df24750dc7c56f1b82991458] For launch operator licence applicants, identification of the spaceport or other place from which the launch is to take place and the proposed spaceport licensee.
+**3.**[^c-12f41f25df24750dc7c56f1b82991458] For launch operator licence applicants, identification of the spaceport or other place from which the launch is to take place and the proposed spaceport licensee.
 
-**4.**[^key-141623d0b132942adc0caf2403c440f0] Identification of—
+**4.**[^c-141623d0b132942adc0caf2403c440f0] Identification of—
 
 - (a) any range control services needed;
 - (b) any proposed range control service providers;
 - (c) any site or facility other than a spaceport that has been or is to be used by the applicant in the design, manufacture, testing or operation of the applicant’s launch vehicle or any carrier aircraft.
 
-**5.**[^key-6afb0a3f850d4ac00448bfc6f5e30d8b] (1) For launch operator licence applicants—
+**5.**[^c-6afb0a3f850d4ac00448bfc6f5e30d8b] (1) For launch operator licence applicants—
 
 - (a) a schedule of the preparatory events mentioned in the ground safety analysis required by regulation 27 setting out how long before the launch each preparatory event is intended to take place;
 - (b) the review processes the applicant will use to check—
@@ -61,24 +61,24 @@ A description of the proposed spaceflight activities including the proposed flig
 
 (2) In this paragraph, “**safety-critical action**” means any action which is essential to preventing the proposed spaceflight activities from causing a major accident.
 
-**6.**[^key-f8a59ea240082c57fae718a3de7a595b] Evidence that the applicant will, if granted the licence, be able to meet the requirements of regulations 84 to 104 of Part 8 (safety of operator’s spaceflight activities).
+**6.**[^c-f8a59ea240082c57fae718a3de7a595b] Evidence that the applicant will, if granted the licence, be able to meet the requirements of regulations 84 to 104 of Part 8 (safety of operator’s spaceflight activities).
 
-**7.**[^key-2593ab5d01d6f9e69a4fa7af6e07f5ea] Details of the applicant’s safety management system for the proposed spaceflight activities.
+**7.**[^c-2593ab5d01d6f9e69a4fa7af6e07f5ea] Details of the applicant’s safety management system for the proposed spaceflight activities.
 
-**8.**[^key-7263c46247ed71854f9bcc7caf9ef4df] Particulars of any licence, permit or approval that any country other than the United Kingdom has granted to the applicant in relation to the proposed spaceflight activities or a launch vehicle that the applicant plans to use for those activities.
+**8.**[^c-7263c46247ed71854f9bcc7caf9ef4df] Particulars of any licence, permit or approval that any country other than the United Kingdom has granted to the applicant in relation to the proposed spaceflight activities or a launch vehicle that the applicant plans to use for those activities.
 
-**9.**[^key-fa8773cfb5e40ae6e3ca3aee37ae724c] Information about what applications, if any, the applicant has previously made for a licence or approval to carry out spaceflight activities similar to the proposed spaceflight activities, and what the outcome was of each of those applications.
+**9.**[^c-fa8773cfb5e40ae6e3ca3aee37ae724c] Information about what applications, if any, the applicant has previously made for a licence or approval to carry out spaceflight activities similar to the proposed spaceflight activities, and what the outcome was of each of those applications.
 
-**10.**[^key-8fde7b93ec817578a368717c8f2afaa6] Information about the applicant’s experience, if any, in the design, development or operation of launch vehicles, payloads or any other space-related hardware or software.
+**10.**[^c-8fde7b93ec817578a368717c8f2afaa6] Information about the applicant’s experience, if any, in the design, development or operation of launch vehicles, payloads or any other space-related hardware or software.
 
-### 11. Technical particulars[^key-dd860389e019423b6af6546ef2e0f25b]
+### 11. Technical particulars[^c-dd860389e019423b6af6546ef2e0f25b]
 
 Descriptions of the technical requirements which apply to the launch vehicle, which must be either—
 
 - (a) the requirements described under the headings of technical requirements types contained in Chapter 6 of the Space Engineering Technical Requirements Specification produced by the European Cooperation for Space Standardisation and dated 6th March 2009[^f00078], or
 - (b) requirements of substantially like effect to the requirements referred to in sub-paragraph (a).
 
-**12.**[^key-0f21d3c28b26a1301c371ff41cf9cee2] (1) For each safety-critical system used in the proposed spaceflight activities—
+**12.**[^c-0f21d3c28b26a1301c371ff41cf9cee2] (1) For each safety-critical system used in the proposed spaceflight activities—
 
 - (a) a description, drawing and schematic diagram of the system;
 - (b) a statement of the system’s purpose;
@@ -96,26 +96,26 @@ Descriptions of the technical requirements which apply to the launch vehicle, wh
 
 (2) In this paragraph, “**safety-critical system**” means any system, including hardware and software, the performance of which is essential to preventing a major accident as a result of the proposed spaceflight activities.
 
-**13.**[^key-75cbf07520a05524a3329bf532cd2e6e] A description of the engineering practices used in the design, manufacture, assembly and operation of the launch vehicle including of—
+**13.**[^c-75cbf07520a05524a3329bf532cd2e6e] A description of the engineering practices used in the design, manufacture, assembly and operation of the launch vehicle including of—
 
 - (a) the design and analysis tools used;
 - (b) any national or international design, engineering or safety standards followed;
 - (c) test, validation and verification procedures undertaken or to be undertaken as required by regulation 94.
 
-**14.**[^key-00b4e9daabcf01a568dccfc1c900fcd4] A description of the engineering practices and design and operational measures that will be used to prevent or mitigate the creation of space debris during the proposed spaceflight activities, including identification of methods for verifying and validating those practices and measures.
+**14.**[^c-00b4e9daabcf01a568dccfc1c900fcd4] A description of the engineering practices and design and operational measures that will be used to prevent or mitigate the creation of space debris during the proposed spaceflight activities, including identification of methods for verifying and validating those practices and measures.
 
-**15.**[^key-7bfa67d85f52f7c3e7e63e54c03eeb10] Descriptions of any hazardous material that is part of the launch vehicle or payload or is to be carried on board the launch vehicle during the proposed spaceflight activities.
+**15.**[^c-7bfa67d85f52f7c3e7e63e54c03eeb10] Descriptions of any hazardous material that is part of the launch vehicle or payload or is to be carried on board the launch vehicle during the proposed spaceflight activities.
 
-**16.**[^key-8dd94667e27fa743f984d53c76157145] For any payload that the launch vehicle will carry, technical particulars relevant to the risk of a major accident, including—
+**16.**[^c-8dd94667e27fa743f984d53c76157145] For any payload that the launch vehicle will carry, technical particulars relevant to the risk of a major accident, including—
 
 - (a) descriptions of any systems on board the payload that are required for the basic operation of the payload or necessary to carry out its intended mission;
 - (b) information about any hazardous material or any equipment or device carried on board the payload that could give rise to a major accident hazard;
 - (c) a description of any ground support equipment needed for the payload or its integration with the launch vehicle;
 - (d) information about any essential interface between the payload and specific equipment at the place of launch.
 
-**17.**[^key-97653e9d8e028dd710eee3829b8508d7] Technical particulars of and performance data for any carrier aircraft intended to be used, including any existing aircraft certification or permit.
+**17.**[^c-97653e9d8e028dd710eee3829b8508d7] Technical particulars of and performance data for any carrier aircraft intended to be used, including any existing aircraft certification or permit.
 
-### 18. Flight safety analysis[^key-04b492b59f112aec3a1b824798c5eca3]
+### 18. Flight safety analysis[^c-04b492b59f112aec3a1b824798c5eca3]
 
 (1) The hazards mentioned in regulation 26(2) which the applicant must consider in carrying out the flight safety analysis are—
 
@@ -142,7 +142,7 @@ Descriptions of the technical requirements which apply to the launch vehicle, wh
 - (e) any legal requirements relevant to the applicant’s proposed use of airspace;
 - (f) information available about any known space object with which there is a risk of the launch vehicle colliding.
 
-### 19. Ground safety analysis[^key-38b674e4f35c3f52d0709992e8c59fc4]
+### 19. Ground safety analysis[^c-38b674e4f35c3f52d0709992e8c59fc4]
 
 The hazards mentioned in regulation 27(5) which the applicant must consider in carrying out the ground safety analysis are—
 
@@ -159,42 +159,42 @@ The hazards mentioned in regulation 27(5) which the applicant must consider in c
 
 ## Annotations
 
-[^key-ce54b6933f79b2dd4a695ae8a1c88dd2]: Commencement: Sch. 1 para. 1 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-ce54b6933f79b2dd4a695ae8a1c88dd2]: Commencement: Sch. 1 para. 1 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-6745dd46459a50d97bb6decd83e0b90d]: Commencement: Sch. 1 para. 2 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-6745dd46459a50d97bb6decd83e0b90d]: Commencement: Sch. 1 para. 2 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-12f41f25df24750dc7c56f1b82991458]: Commencement: Sch. 1 para. 3 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-12f41f25df24750dc7c56f1b82991458]: Commencement: Sch. 1 para. 3 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-141623d0b132942adc0caf2403c440f0]: Commencement: Sch. 1 para. 4 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-141623d0b132942adc0caf2403c440f0]: Commencement: Sch. 1 para. 4 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-6afb0a3f850d4ac00448bfc6f5e30d8b]: Commencement: Sch. 1 para. 5 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-6afb0a3f850d4ac00448bfc6f5e30d8b]: Commencement: Sch. 1 para. 5 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-f8a59ea240082c57fae718a3de7a595b]: Commencement: Sch. 1 para. 6 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-f8a59ea240082c57fae718a3de7a595b]: Commencement: Sch. 1 para. 6 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-2593ab5d01d6f9e69a4fa7af6e07f5ea]: Commencement: Sch. 1 para. 7 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-2593ab5d01d6f9e69a4fa7af6e07f5ea]: Commencement: Sch. 1 para. 7 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-7263c46247ed71854f9bcc7caf9ef4df]: Commencement: Sch. 1 para. 8 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-7263c46247ed71854f9bcc7caf9ef4df]: Commencement: Sch. 1 para. 8 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-fa8773cfb5e40ae6e3ca3aee37ae724c]: Commencement: Sch. 1 para. 9 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-fa8773cfb5e40ae6e3ca3aee37ae724c]: Commencement: Sch. 1 para. 9 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-8fde7b93ec817578a368717c8f2afaa6]: Commencement: Sch. 1 para. 10 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-8fde7b93ec817578a368717c8f2afaa6]: Commencement: Sch. 1 para. 10 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-dd860389e019423b6af6546ef2e0f25b]: Commencement: Sch. 1 para. 11 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-dd860389e019423b6af6546ef2e0f25b]: Commencement: Sch. 1 para. 11 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00078]: Footnote: ECSS-E-ST-10-06C (https://ecss.nl/standard/ecss-e-st-10-06c-technical-requirements-specification). The specification is annexed to the guidance for launch operator and return operator applicants and licensees, available on the CAA’s website (www.caa.co.uk). A paper copy of that guidance may be requested by writing to the CAA at Aviation House, Beehive Ringroad, Crawley, West Sussex RH6 0YR.
 
-[^key-0f21d3c28b26a1301c371ff41cf9cee2]: Commencement: Sch. 1 para. 12 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-0f21d3c28b26a1301c371ff41cf9cee2]: Commencement: Sch. 1 para. 12 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-75cbf07520a05524a3329bf532cd2e6e]: Commencement: Sch. 1 para. 13 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-75cbf07520a05524a3329bf532cd2e6e]: Commencement: Sch. 1 para. 13 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-00b4e9daabcf01a568dccfc1c900fcd4]: Commencement: Sch. 1 para. 14 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-00b4e9daabcf01a568dccfc1c900fcd4]: Commencement: Sch. 1 para. 14 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-7bfa67d85f52f7c3e7e63e54c03eeb10]: Commencement: Sch. 1 para. 15 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-7bfa67d85f52f7c3e7e63e54c03eeb10]: Commencement: Sch. 1 para. 15 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-8dd94667e27fa743f984d53c76157145]: Commencement: Sch. 1 para. 16 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-8dd94667e27fa743f984d53c76157145]: Commencement: Sch. 1 para. 16 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-97653e9d8e028dd710eee3829b8508d7]: Commencement: Sch. 1 para. 17 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-97653e9d8e028dd710eee3829b8508d7]: Commencement: Sch. 1 para. 17 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-04b492b59f112aec3a1b824798c5eca3]: Commencement: Sch. 1 para. 18 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-04b492b59f112aec3a1b824798c5eca3]: Commencement: Sch. 1 para. 18 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
-[^key-38b674e4f35c3f52d0709992e8c59fc4]: Commencement: Sch. 1 para. 19 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-38b674e4f35c3f52d0709992e8c59fc4]: Commencement: Sch. 1 para. 19 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Civil liability: saving for section 12 of the Nuclear Installations Act 1965[^key-9fa95e9d994710cd0ec57b40a0a37272]
+## 107. Civil liability: saving for section 12 of the Nuclear Installations Act 1965[^c-9fa95e9d994710cd0ec57b40a0a37272]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in this Part affects the operation of section 12 of the Nuclear Installa
 
 ## Annotations
 
-[^key-9fa95e9d994710cd0ec57b40a0a37272]: Commencement: S. 107 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-9fa95e9d994710cd0ec57b40a0a37272]: Commencement: S. 107 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

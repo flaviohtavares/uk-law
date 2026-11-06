@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271. Procedure.[^key-c6726501ad94d1f45dc0536a778ab486]
+## 271. Procedure.[^c-c6726501ad94d1f45dc0536a778ab486]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6726501ad94d1f45dc0536a778ab486]: Textual amendment: Ss. 270, 271 and crossheading omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/18)
+[^c-c6726501ad94d1f45dc0536a778ab486]: Textual amendment: Ss. 270, 271 and crossheading omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/18)

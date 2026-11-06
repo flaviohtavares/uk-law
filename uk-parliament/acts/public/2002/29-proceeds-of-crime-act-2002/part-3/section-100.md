@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Effect of postponement[^key-51ec13f108e0caa70b847cf79a57d954][^key-d59f6c2a9c42161ca1815c0c61d9e1f6][^key-d59f6c2a9c42161ca1815c0c61d9e1f6]
+## 100. Effect of postponement[^c-51ec13f108e0caa70b847cf79a57d954][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 
 *Extent: S*
 
@@ -27,17 +27,17 @@ summary: ''
 (3) In sentencing the accused for the offence (or any of the offences) concerned in the postponement period the court must not—
 
 - (a) impose a fine on him,
-- (b) make an order falling within section 97(3),[^key-5446a67c74898986cf4375f2549ccbca]...
+- (b) make an order falling within section 97(3),[^c-5446a67c74898986cf4375f2549ccbca]...
 - (c) make an order for the payment of compensation under section 249 of the Procedure Act.
-- (d)[^key-ab4d9f588cb71c7fa83945e17ee272bf] make a restitution order, or
+- (d)[^c-ab4d9f588cb71c7fa83945e17ee272bf] make a restitution order, or
 - (e) order the accused under section 253F(2) of the Procedure Act to pay a victim surcharge.
 
 (4) If the court sentences the accused for the offence (or any of the offences) concerned in the postponement period, after that period ends it may vary the sentence by—
 
 - (a) imposing a fine on him,
-- (b) making an order falling within section 97(3), [^key-83eecdd6f7e2fff41769ef514649c2e8]...
+- (b) making an order falling within section 97(3), [^c-83eecdd6f7e2fff41769ef514649c2e8]...
 - (c) making an order for the payment of compensation under section 249 of the Procedure Act.
-- (d)[^key-82c1a9ae352e5f9bb3b75dd49bb9f5ca] making a restitution order, or
+- (d)[^c-82c1a9ae352e5f9bb3b75dd49bb9f5ca] making a restitution order, or
 - (e) ordering the accused under section 253F(2) of the Procedure Act to pay a victim surcharge.
 
 (5) But the court may proceed under subsection (4) only within the period of 28 days which starts with the last day of the postponement period.
@@ -62,14 +62,14 @@ summary: ''
 
 ## Annotations
 
-[^key-51ec13f108e0caa70b847cf79a57d954]: Commencement: S. 100 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-51ec13f108e0caa70b847cf79a57d954]: Commencement: S. 100 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-d59f6c2a9c42161ca1815c0c61d9e1f6]: Modification: Pt. 3 applied by Terrorism Act 2000 (c. 11), Sch. 8 paras. 17(4A), 34(3A) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 39(4)(5)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/39/4); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-d59f6c2a9c42161ca1815c0c61d9e1f6]: Modification: Pt. 3 applied by Terrorism Act 2000 (c. 11), Sch. 8 paras. 17(4A), 34(3A) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 39(4)(5)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/39/4); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-5446a67c74898986cf4375f2549ccbca]: Textual amendment: Word in s. 100(3)(b) omitted (25.11.2019 for specified purposes, 10.2.2021 in so far as not already in force) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/c), [Sch. 4 para. 37(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/37/2/a); [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2); [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/c)
+[^c-5446a67c74898986cf4375f2549ccbca]: Textual amendment: Word in s. 100(3)(b) omitted (25.11.2019 for specified purposes, 10.2.2021 in so far as not already in force) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/c), [Sch. 4 para. 37(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/37/2/a); [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2); [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/c)
 
-[^key-ab4d9f588cb71c7fa83945e17ee272bf]: Textual amendment: S. 100(3)(d)(e) inserted (25.11.2019 for specified purposes, 10.2.2021 in so far as not already in force) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/c), [Sch. 4 para. 37(2)(b)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/37/2/b); [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2); [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/c)
+[^c-ab4d9f588cb71c7fa83945e17ee272bf]: Textual amendment: S. 100(3)(d)(e) inserted (25.11.2019 for specified purposes, 10.2.2021 in so far as not already in force) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/c), [Sch. 4 para. 37(2)(b)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/37/2/b); [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2); [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/c)
 
-[^key-83eecdd6f7e2fff41769ef514649c2e8]: Textual amendment: Word in s. 100(4)(b) omitted (25.11.2019 for specified purposes, 10.2.2021 in so far as not already in force) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/c), [Sch. 4 para. 37(3)(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/37/3/a); [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2); [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/c)
+[^c-83eecdd6f7e2fff41769ef514649c2e8]: Textual amendment: Word in s. 100(4)(b) omitted (25.11.2019 for specified purposes, 10.2.2021 in so far as not already in force) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/c), [Sch. 4 para. 37(3)(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/37/3/a); [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2); [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/c)
 
-[^key-82c1a9ae352e5f9bb3b75dd49bb9f5ca]: Textual amendment: S. 100(4)(d)(e) inserted (25.11.2019 for specified purposes, 10.2.2021 in so far as not already in force) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/c), [Sch. 4 para. 37(3)(b)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/37/3/b); [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2); [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/c)
+[^c-82c1a9ae352e5f9bb3b75dd49bb9f5ca]: Textual amendment: S. 100(4)(d)(e) inserted (25.11.2019 for specified purposes, 10.2.2021 in so far as not already in force) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(2)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/c), [Sch. 4 para. 37(3)(b)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/37/3/b); [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2); [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/c)

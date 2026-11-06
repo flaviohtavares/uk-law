@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 308. Provision of assistance to other forces[^key-7798990257d2f058a1ac2a10131dd812]
+## 308. Provision of assistance to other forces[^c-7798990257d2f058a1ac2a10131dd812]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7798990257d2f058a1ac2a10131dd812]: Commencement: S. 308 in force at Royal Assent, see [s. 334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
+[^c-7798990257d2f058a1ac2a10131dd812]: Commencement: S. 308 in force at Royal Assent, see [s. 334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)

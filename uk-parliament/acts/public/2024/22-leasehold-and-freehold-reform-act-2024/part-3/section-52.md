@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. No first-instance applications to the High Court in tribunal matters[^key-840f571f596c2238092578e08352de87][^key-1d8ee41f9f642908230df326c6f0de28]
+## 52. No first-instance applications to the High Court in tribunal matters[^c-840f571f596c2238092578e08352de87][^c-1d8ee41f9f642908230df326c6f0de28]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-840f571f596c2238092578e08352de87]: Commencement: S. 52 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-840f571f596c2238092578e08352de87]: Commencement: S. 52 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-1d8ee41f9f642908230df326c6f0de28]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2024/22/section/52) in force at 3.3.2025 by [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/d)
+[^c-1d8ee41f9f642908230df326c6f0de28]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2024/22/section/52) in force at 3.3.2025 by [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/d)

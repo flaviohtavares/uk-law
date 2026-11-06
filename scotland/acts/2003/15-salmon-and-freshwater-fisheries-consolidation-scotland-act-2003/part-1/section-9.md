@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Illegal possession of salmon or trout[^key-f3435fd30a3b82ea161ff94e80dcf543]
+## 9. Illegal possession of salmon or trout[^c-f3435fd30a3b82ea161ff94e80dcf543]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3435fd30a3b82ea161ff94e80dcf543]: Commencement: S. 9 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-f3435fd30a3b82ea161ff94e80dcf543]: Commencement: S. 9 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

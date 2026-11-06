@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 304A. Experts seconded to other European Union bodies[^key-6c41170272b2fb3000489de0290f83e1]
+## 304A. Experts seconded to other European Union bodies[^c-6c41170272b2fb3000489de0290f83e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c41170272b2fb3000489de0290f83e1]: Textual amendment: S. 304A inserted (with effect in accordance with s. 38(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/38/1)
+[^c-6c41170272b2fb3000489de0290f83e1]: Textual amendment: S. 304A inserted (with effect in accordance with s. 38(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/38/1)

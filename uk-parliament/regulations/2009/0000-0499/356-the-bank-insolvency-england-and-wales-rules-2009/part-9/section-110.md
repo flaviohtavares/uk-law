@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Notice to Bank of England of intention to vacate office[^key-4725c809871bf2f40e83af594e98a8bc]
+## 110. Notice to Bank of England of intention to vacate office[^c-4725c809871bf2f40e83af594e98a8bc]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4725c809871bf2f40e83af594e98a8bc]: Commencement: Rule 110 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-4725c809871bf2f40e83af594e98a8bc]: Commencement: Rule 110 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00044]: Footnote: The rule was substituted by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

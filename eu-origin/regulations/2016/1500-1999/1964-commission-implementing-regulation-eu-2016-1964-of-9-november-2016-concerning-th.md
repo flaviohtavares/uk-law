@@ -35,24 +35,24 @@ concerning the authorisations of a preparation of dolomite-magnesite for dairy c
 
 (Text with EEA relevance) (revoked)
 
-[^key-4bbb8579d202e70e236c3d00ed11acb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bbb8579d202e70e236c3d00ed11acb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-4bbb8579d202e70e236c3d00ed11acb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4bbb8579d202e70e236c3d00ed11acb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4bbb8579d202e70e236c3d00ed11acb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4bbb8579d202e70e236c3d00ed11acb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-4bbb8579d202e70e236c3d00ed11acb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4bbb8579d202e70e236c3d00ed11acb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bbb8579d202e70e236c3d00ed11acb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bbb8579d202e70e236c3d00ed11acb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-4bbb8579d202e70e236c3d00ed11acb0]
+## ANNEX I[^c-4bbb8579d202e70e236c3d00ed11acb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-4bbb8579d202e70e236c3d00ed11acb0]
+## ANNEX II[^c-4bbb8579d202e70e236c3d00ed11acb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4bbb8579d202e70e236c3d00ed11acb0]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 209](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/209) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-4bbb8579d202e70e236c3d00ed11acb0]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 209](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/209) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

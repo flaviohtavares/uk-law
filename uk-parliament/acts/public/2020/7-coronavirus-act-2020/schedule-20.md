@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 20 — Power to suspend port operations[^key-c2476950e71d2f7daa230649e6272ce5]
+## SCHEDULE 20 — Power to suspend port operations[^c-c2476950e71d2f7daa230649e6272ce5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Section 50
 
-### Power to give direction to suspend relevant port operations[^key-c2476950e71d2f7daa230649e6272ce5]
+### Power to give direction to suspend relevant port operations[^c-c2476950e71d2f7daa230649e6272ce5]
 
-**1.**[^key-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Duration of suspension period[^key-c2476950e71d2f7daa230649e6272ce5]
+### Duration of suspension period[^c-c2476950e71d2f7daa230649e6272ce5]
 
-**2.**[^key-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Power to give consequential direction[^key-c2476950e71d2f7daa230649e6272ce5]
+### Power to give consequential direction[^c-c2476950e71d2f7daa230649e6272ce5]
 
-**3.**[^key-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary provisions[^key-c2476950e71d2f7daa230649e6272ce5]
+### Supplementary provisions[^c-c2476950e71d2f7daa230649e6272ce5]
 
-**4.**[^key-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Offences[^key-c2476950e71d2f7daa230649e6272ce5]
+### Offences[^c-c2476950e71d2f7daa230649e6272ce5]
 
-**6.**[^key-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-c2476950e71d2f7daa230649e6272ce5]
+### Interpretation[^c-c2476950e71d2f7daa230649e6272ce5]
 
-**7.**[^key-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c2476950e71d2f7daa230649e6272ce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2476950e71d2f7daa230649e6272ce5]: Textual amendment: Sch. 20 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-c2476950e71d2f7daa230649e6272ce5]: Textual amendment: Sch. 20 expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

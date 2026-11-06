@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Application and extent[^key-8f4d6b2f5a200c26414f775a04b80ff5]
+## 2. Application and extent[^c-8f4d6b2f5a200c26414f775a04b80ff5]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f4d6b2f5a200c26414f775a04b80ff5]: Commencement: Reg. 2 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-8f4d6b2f5a200c26414f775a04b80ff5]: Commencement: Reg. 2 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)

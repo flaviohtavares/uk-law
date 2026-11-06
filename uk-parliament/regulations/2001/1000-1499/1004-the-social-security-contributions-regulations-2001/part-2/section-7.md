@@ -31,9 +31,9 @@ summary: ''
 - (a) in a case falling within paragraph (1)(a), on the date on which it would normally have fallen to be made;
 - (b) in any other case, on the last day of the regular interval at which it is treated as paid.
 
-(3) Subject to paragraph (3A)[^key-c753169be93e16f0706fc7027cce19b3] paragraphs (1) and (2) shall not apply to a payment of earnings made in one year where by virtue of those paragraphs that payment would be treated as made in another year.
+(3) Subject to paragraph (3A)[^c-c753169be93e16f0706fc7027cce19b3] paragraphs (1) and (2) shall not apply to a payment of earnings made in one year where by virtue of those paragraphs that payment would be treated as made in another year.
 
-(3A)[^key-880f4729136426780fadff3375c07eb3] Paragraph (3) does not apply in a case falling within paragraph (1)(a) where—
+(3A)[^c-880f4729136426780fadff3375c07eb3] Paragraph (3) does not apply in a case falling within paragraph (1)(a) where—
 
 - (a) the regular interval at which payment of earnings would normally fall to be made is no shorter than a week and no longer than a month,
 - (b) an advance payment is made to the earner, and
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c753169be93e16f0706fc7027cce19b3]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/7/3) inserted (6.4.2024) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2024 (S.I. 2024/306)](https://www.legislation.gov.uk/uksi/2024/306), [regs. 1](https://www.legislation.gov.uk/uksi/2024/306/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/306/regulation/2/3/a)
+[^c-c753169be93e16f0706fc7027cce19b3]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/7/3) inserted (6.4.2024) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2024 (S.I. 2024/306)](https://www.legislation.gov.uk/uksi/2024/306), [regs. 1](https://www.legislation.gov.uk/uksi/2024/306/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/306/regulation/2/3/a)
 
-[^key-880f4729136426780fadff3375c07eb3]: Textual amendment: [Reg. 7(3A)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/7/3A) inserted (6.4.2024) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2024 (S.I. 2024/306)](https://www.legislation.gov.uk/uksi/2024/306), [regs. 1](https://www.legislation.gov.uk/uksi/2024/306/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/306/regulation/2/3/b)
+[^c-880f4729136426780fadff3375c07eb3]: Textual amendment: [Reg. 7(3A)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/7/3A) inserted (6.4.2024) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2024 (S.I. 2024/306)](https://www.legislation.gov.uk/uksi/2024/306), [regs. 1](https://www.legislation.gov.uk/uksi/2024/306/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/306/regulation/2/3/b)

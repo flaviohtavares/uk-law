@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 340A. Travel between linked employments[^key-d40249a712022f7ef30d13a4b4781088]
+## 340A. Travel between linked employments[^c-d40249a712022f7ef30d13a4b4781088]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d40249a712022f7ef30d13a4b4781088]: Textual amendment: S. 340A inserted (with effect in accordance with art. 4 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2014 (S.I. 2014/211)](https://www.legislation.gov.uk/uksi/2014/211), [arts. 1](https://www.legislation.gov.uk/uksi/2014/211/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/211/article/2/2)
+[^c-d40249a712022f7ef30d13a4b4781088]: Textual amendment: S. 340A inserted (with effect in accordance with art. 4 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2014 (S.I. 2014/211)](https://www.legislation.gov.uk/uksi/2014/211), [arts. 1](https://www.legislation.gov.uk/uksi/2014/211/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/211/article/2/2)

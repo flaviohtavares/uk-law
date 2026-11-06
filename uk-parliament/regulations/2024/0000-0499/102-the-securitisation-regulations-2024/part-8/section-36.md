@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Monitoring and enforcement by FCA[^key-cb70fb65ae64cb85243d1bcefabe22f0]
+## 36. Monitoring and enforcement by FCA[^c-cb70fb65ae64cb85243d1bcefabe22f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb70fb65ae64cb85243d1bcefabe22f0]: Commencement: Reg. 36 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-cb70fb65ae64cb85243d1bcefabe22f0]: Commencement: Reg. 36 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

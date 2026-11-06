@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Duty to issue codes of practice[^key-d745ec42a12e6c2de1907201967acbf6]
+## 80. Duty to issue codes of practice[^c-d745ec42a12e6c2de1907201967acbf6]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d745ec42a12e6c2de1907201967acbf6]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2016/19/section/80) in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)
+[^c-d745ec42a12e6c2de1907201967acbf6]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2016/19/section/80) in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)

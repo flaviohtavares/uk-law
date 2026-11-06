@@ -32,7 +32,7 @@ summary: ''
 
 Salaries
 
-The Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 2014 (revoked)[^key-d6e5d25f236dc9d20dce444bd1107d90]
+The Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 2014 (revoked)[^c-d6e5d25f236dc9d20dce444bd1107d90]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 *21st* March 2014
 
-[^key-d6e5d25f236dc9d20dce444bd1107d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6e5d25f236dc9d20dce444bd1107d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d6e5d25f236dc9d20dce444bd1107d90]
+## 1. Title and commencement[^c-d6e5d25f236dc9d20dce444bd1107d90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-d6e5d25f236dc9d20dce444bd1107d90]
+## 2. Revocation[^c-d6e5d25f236dc9d20dce444bd1107d90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase in Salaries[^key-d6e5d25f236dc9d20dce444bd1107d90]
+## 3. Increase in Salaries[^c-d6e5d25f236dc9d20dce444bd1107d90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6e5d25f236dc9d20dce444bd1107d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6e5d25f236dc9d20dce444bd1107d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d6e5d25f236dc9d20dce444bd1107d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6e5d25f236dc9d20dce444bd1107d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6e5d25f236dc9d20dce444bd1107d90]: Textual amendment: Order revoked (retrospective and with effect in accordance with art. 2 of the amending Order) by [The Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 2015 (S.R. 2015/18)](https://www.legislation.gov.uk/nisr/2015/18), [arts. 1](https://www.legislation.gov.uk/nisr/2015/18/article/1), [2](https://www.legislation.gov.uk/nisr/2015/18/article/2)
+[^c-d6e5d25f236dc9d20dce444bd1107d90]: Textual amendment: Order revoked (retrospective and with effect in accordance with art. 2 of the amending Order) by [The Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 2015 (S.R. 2015/18)](https://www.legislation.gov.uk/nisr/2015/18), [arts. 1](https://www.legislation.gov.uk/nisr/2015/18/article/1), [2](https://www.legislation.gov.uk/nisr/2015/18/article/2)

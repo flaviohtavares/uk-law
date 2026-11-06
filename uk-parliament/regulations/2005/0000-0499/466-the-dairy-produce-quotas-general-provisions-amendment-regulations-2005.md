@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Dairy Produce Quotas (General Provisions) (Amendment) Regulations 2005 (revoked)[^key-931111a23b0f7613eb08ddd5d77f47e9]
+The Dairy Produce Quotas (General Provisions) (Amendment) Regulations 2005 (revoked)[^c-931111a23b0f7613eb08ddd5d77f47e9]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 31st March 2005
 
-[^key-931111a23b0f7613eb08ddd5d77f47e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-931111a23b0f7613eb08ddd5d77f47e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-931111a23b0f7613eb08ddd5d77f47e9]
+## 1. Citation and commencement[^c-931111a23b0f7613eb08ddd5d77f47e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Dairy Produce Quotas (General Provisions) Regulations 2002[^key-931111a23b0f7613eb08ddd5d77f47e9]
+## 2. Amendment of the Dairy Produce Quotas (General Provisions) Regulations 2002[^c-931111a23b0f7613eb08ddd5d77f47e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-931111a23b0f7613eb08ddd5d77f47e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-931111a23b0f7613eb08ddd5d77f47e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-931111a23b0f7613eb08ddd5d77f47e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-931111a23b0f7613eb08ddd5d77f47e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-931111a23b0f7613eb08ddd5d77f47e9]: Textual amendment: Regulations revoked (1.4.2008) by [The Dairy Produce Quotas (General Provisions) (Amendment) Regulations 2008 (S.I. 2008/438)](https://www.legislation.gov.uk/uksi/2008/438), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/438/regulation/1/b), [3(1)](https://www.legislation.gov.uk/uksi/2008/438/regulation/3/1)
+[^c-931111a23b0f7613eb08ddd5d77f47e9]: Textual amendment: Regulations revoked (1.4.2008) by [The Dairy Produce Quotas (General Provisions) (Amendment) Regulations 2008 (S.I. 2008/438)](https://www.legislation.gov.uk/uksi/2008/438), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2008/438/regulation/1/b), [3(1)](https://www.legislation.gov.uk/uksi/2008/438/regulation/3/1)
